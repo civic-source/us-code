@@ -3,9 +3,10 @@ title: "Section 9510 - General workforce staffing"
 usc_title: 5
 usc_section: "9510"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 9510"
-generated_at: "2026-03-30T02:52:56.073Z"
+generated_at: "2026-11-23T21:25:23.462Z"
+status: "active"
 ---
 
 # § 9510. General workforce staffing
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:52:56.073Z"
 - **(e)** Nothing in this section exempts the Secretary of the Treasury from—
   - **(1)** any employment priority established under direction of the President for the placement of surplus or displaced employees; or
   - **(2)** any obligation under a court order or decree relating to the employment practices of the Internal Revenue Service or the Department of the Treasury.
+
+## Source Credit
+
+*(Added [Pub. L. 105–206, title I, § 1201(a)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 717](https://www.govinfo.gov/link/statute/112/717); amended [Pub. L. 114–137, § 2(c)](https://www.govinfo.gov/link/plaw/114/public/137), Mar. 18, 2016, [130 Stat. 312](https://www.govinfo.gov/link/statute/130/312).)*

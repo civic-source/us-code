@@ -3,9 +3,10 @@ title: "Section 5322 - Council authority"
 usc_title: 12
 usc_section: "5322"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5322"
-generated_at: "2026-03-30T02:53:53.528Z"
+generated_at: "2026-11-23T21:25:37.238Z"
+status: "active"
 ---
 
 # § 5322. Council authority
@@ -61,3 +62,7 @@ generated_at: "2026-03-30T02:53:53.528Z"
     - **(A)** The Council, the Office of Financial Research, and the other member agencies shall maintain the confidentiality of any data, information, and reports submitted under this subchapter.
     - **(B)** The submission of any nonpublicly available data or information under this subsection and part B shall not constitute a waiver of, or otherwise affect, any privilege arising under Federal or State law (including the rules of any Federal or State court) to which the data or information is otherwise subject.
     - **(C)** Section 552 of title 5 , including the exceptions thereunder, shall apply to any data or information submitted under this subsection and part B.
+
+## Source Credit
+
+*([Pub. L. 111–203, title I, § 112](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1394](https://www.govinfo.gov/link/statute/124/1394).)*

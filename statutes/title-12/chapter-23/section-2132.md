@@ -3,9 +3,10 @@ title: "Section 2132 - Earnings and reserves; application of savings"
 usc_title: 12
 usc_section: "2132"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2132"
-generated_at: "2026-03-30T02:53:53.472Z"
+generated_at: "2026-11-23T21:25:37.056Z"
+status: "active"
 ---
 
 # § 2132. Earnings and reserves; application of savings
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.472Z"
 - **(c)** In the event of a net loss in any fiscal year after providing for all operating expenses (including reasonable valuation reserves and losses in excess of any applicable reserves), such loss may be carried forward or carried back, if appropriate, or otherwise shall be absorbed by charges to unallocated reserve or surplus accounts established after December 10, 1971 ; charges to allocated contingency reserve account; charges to allocated surplus accounts; charges to other contingency reserve and surplus accounts; the impairment of voting stock; or the impairment of all other stock.
 - **(d)** Notwithstanding any other provisions of this section any costs or expenses attributable to a prior year or years but not recognized in determining the net savings for such year or years may be charged to reserves or surplus of the bank or to patronage allocations for such years, as may be determined by the board of directors.
 - **(e)** A bank for cooperatives may pay in cash such portion of its patronage refunds as will permit its taxable income to be determined without taking into account savings applied as allocated surplus, allocated contingency reserves, and patronage refunds under subsection (a) of this section.
+
+## Source Credit
+
+*([Pub. L. 92–181, title III, § 3](https://www.govinfo.gov/link/plaw/92/public/181).11, Dec. 10, 1971, [85 Stat. 606](https://www.govinfo.gov/link/statute/85/606); [Pub. L. 96–592, title III, § 308](https://www.govinfo.gov/link/plaw/96/public/592), Dec. 24, 1980, [94 Stat. 3445](https://www.govinfo.gov/link/statute/94/3445); [Pub. L. 99–205, title II, § 205(e)(7)](https://www.govinfo.gov/link/plaw/99/public/205), (8), Dec. 23, 1985, [99 Stat. 1705](https://www.govinfo.gov/link/statute/99/1705); [Pub. L. 100–233, title VIII](https://www.govinfo.gov/link/plaw/100/public/233), §§ 802(r), 805(n), Jan. 6, 1988, [101 Stat. 1712](https://www.govinfo.gov/link/statute/101/1712), 1716; [Pub. L. 115–334, title V, § 5411(11)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4680](https://www.govinfo.gov/link/statute/132/4680).)*

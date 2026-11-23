@@ -3,9 +3,10 @@ title: "Section 4351 - Definitions"
 usc_title: 20
 usc_section: "4351"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 4351"
-generated_at: "2026-03-30T02:54:48.183Z"
+generated_at: "2026-11-23T21:25:47.438Z"
+status: "active"
 ---
 
 # § 4351. Definitions
@@ -22,3 +23,7 @@ As used in this chapter—
   - **(5)** The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
   - **(6)** The term “NTID” means the National Technical Institute for the Deaf.
   - **(7)** The term “University” means Gallaudet University.
+
+## Source Credit
+
+*([Pub. L. 99–371, title II, § 201](https://www.govinfo.gov/link/plaw/99/public/371), formerly title IV, § 401, Aug. 4, 1986, [100 Stat. 789](https://www.govinfo.gov/link/statute/100/789); renumbered title II, § 201, and amended [Pub. L. 102–421, title I](https://www.govinfo.gov/link/plaw/102/public/421), §§ 101(b)(5), (6), 131, 151(a)(3), (b), Oct. 16, 1992, [106 Stat. 2151](https://www.govinfo.gov/link/statute/106/2151), 2155, 2164; [Pub. L. 103–73, title II, § 204(a)](https://www.govinfo.gov/link/plaw/103/public/73), Aug. 11, 1993, [107 Stat. 734](https://www.govinfo.gov/link/statute/107/734); [Pub. L. 105–244, title IX, § 915](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1830](https://www.govinfo.gov/link/statute/112/1830).)*

@@ -3,9 +3,10 @@ title: "Section 1904 - Certifying officers"
 usc_title: 2
 usc_section: "1904"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1904"
-generated_at: "2026-03-30T02:53:04.819Z"
+generated_at: "2026-11-23T21:25:21.252Z"
+status: "active"
 ---
 
 # § 1904. Certifying officers
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:04.819Z"
     - **(A)** that the certification was based on official records and that the certifying officer or employee did not know, and by reasonable diligence and inquiry could not have ascertained, the actual facts; or
     - **(B)** that the obligation was incurred in good faith, that the payment was not contrary to any statutory provision specifically prohibiting payments of the character involved, and the United States has received value for such payment.
 - **(c)** The liability of the certifying officers of the United States Capitol Police shall be enforced in the same manner and to the same extent as currently provided with respect to the enforcement of the liability of disbursing and other accountable officers, and such officers shall have the right to apply for and obtain a decision by the Comptroller General on any question of law involved in a payment on any vouchers presented to them for certification.
+
+## Source Credit
+
+*([Pub. L. 106–554, § 1(a)(2) [title I, § 107]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–103; [Pub. L. 111–145, § 2(a)(3)](https://www.govinfo.gov/link/plaw/111/public/145), Mar. 4, 2010, [124 Stat. 49](https://www.govinfo.gov/link/statute/124/49).)*

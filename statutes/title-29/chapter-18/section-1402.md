@@ -3,9 +3,10 @@ title: "Section 1402 - Reimbursements for uncollectible withdrawal liability"
 usc_title: 29
 usc_section: "1402"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1402"
-generated_at: "2026-03-30T02:55:18.736Z"
+generated_at: "2026-11-23T21:26:02.302Z"
+status: "active"
 ---
 
 # § 1402. Reimbursements for uncollectible withdrawal liability
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:18.736Z"
 - **(c)** The cost of the program (including such administrative and legal costs as the corporation considers appropriate) may be paid only out of premiums collected under such program.
 - **(d)** The supplemental program may be offered to eligible plans on such terms and conditions, and with such limitations with respect to the payment of reimbursements (including the exclusion of de minimis amounts of uncollectible employer liability, and the reduction or elimination of reimbursements which cannot be paid from collected premiums) and such restrictions on withdrawal from the program, as the corporation considers necessary and appropriate.
 - **(e)** The corporation may enter into arrangements with private insurers to carry out in whole or in part the program authorized by this section and may require plans which elect coverage under the program to elect coverage by those private insurers.
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4222](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 96–364, title I, § 104(2)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1240](https://www.govinfo.gov/link/statute/94/1240).)*

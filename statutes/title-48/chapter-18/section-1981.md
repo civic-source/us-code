@@ -3,9 +3,10 @@ title: "Section 1981 - Findings"
 usc_title: 48
 usc_section: "1981"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1981"
-generated_at: "2026-03-30T02:56:14.598Z"
+generated_at: "2026-11-23T21:26:38.132Z"
+status: "active"
 ---
 
 # § 1981. Findings
@@ -19,3 +20,7 @@ Congress finds the following:
   - **(5)** On May 22, 2023 , the United States signed the “Agreement between the Government of the United States of America and the Government of the Republic of Palau Resulting From the 2023 Compact of Free Association Section 432 Review”.
   - **(6)** On May 23, 2023 , the United States signed 3 agreements related to the U.S.-FSM Compact of Free Association, including an Agreement to Amend the Compact, as amended, a new fiscal procedures agreement, and a new trust fund agreement and on September 28, 2023 , the United States signed a Federal Programs and Services agreement related to the U.S.-FSM Compact of Free Association.
   - **(7)** On October 16, 2023 , the United States signed 3 agreements relating to the U.S.-RMI Compact of Free Association, including an Agreement to Amend the Compact, as amended, a new fiscal procedures agreement, and a new trust fund agreement.
+
+## Source Credit
+
+*([Pub. L. 118–42, div. G, title II, § 202](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 419](https://www.govinfo.gov/link/statute/138/419).)*

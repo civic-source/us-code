@@ -3,9 +3,10 @@ title: "Section 7404 - Grades and pay scales"
 usc_title: 38
 usc_section: "7404"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7404"
-generated_at: "2026-03-30T02:55:53.530Z"
+generated_at: "2026-11-23T21:26:16.866Z"
+status: "active"
 ---
 
 # § 7404. Grades and pay scales
@@ -29,3 +30,53 @@ generated_at: "2026-03-30T02:55:53.530Z"
   - **(2)** In this subsection, the term “covered executive position” means a position that the Secretary has determined is of equivalent rank to a Senior Executive Service position (as such term is defined in section 3132(a) of title 5 ) and is subject to an agency performance management system.
 - **(d)** Except as provided under subsection (e), subchapter III, and section 7457 of this title , and except for individuals appointed under sections 7401(4) and 7306 of this title, pay for positions for which basic pay is paid under this section may not be paid at a rate in excess of the rate of basic pay authorized by section 5316 of title 5 for positions in Level V of the Executive Schedule.
 - **(e)** The position of Chief Nursing Officer, Office of Nursing Services, shall be exempt from the provisions of section 7451 of this title and shall be paid basic pay at a rate determined by the Secretary, not to exceed the maximum rates established under subchapter IV of this chapter.
+
+physician and surgeon (md/do), podiatrist (dpm), optometrist (od), and dentist and oral surgeon (dds, dmd) schedule
+
+nurse schedule
+
+clinical chiropractor schedule
+
+podiatrist (dpm), optometrist (od), and dentist
+
+podiatrist (dpm), and dentist
+
+clinical chiropractor schedule
+
+clinical chiropractor and optometrist schedule
+
+clinical chiropractor and optometrist schedule
+
+podiatrist (dpm)
+
+podiatrist
+
+podiatrist
+
+podiatric surgeon (dpm)
+
+physician and surgeon (md/do), podiatric surgeon (dpm), and dentist and oral surgeon (dds, dmd) schedule
+
+physician and dentist schedule
+
+chiropractor, and
+
+podiatrist, chiropractor, and
+
+physician and dentist schedule
+
+clinical podiatrist, chiropractor, and optometrist schedule
+
+clinical podiatrist and optometrist schedule
+
+nurse schedule
+
+In general
+
+Form
+
+Treatment of waiver
+
+## Source Credit
+
+*(Added [Pub. L. 102–40, title IV, § 401(b)(2)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 225](https://www.govinfo.gov/link/statute/105/225); amended [Pub. L. 102–405, title II, § 206](https://www.govinfo.gov/link/plaw/102/public/405), title III, § 302(c)(1), Oct. 9, 1992, [106 Stat. 1984](https://www.govinfo.gov/link/statute/106/1984); [Pub. L. 102–585, title III, § 301(a)](https://www.govinfo.gov/link/plaw/102/public/585), Nov. 4, 1992, [106 Stat. 4951](https://www.govinfo.gov/link/statute/106/4951); [Pub. L. 108–170, title III, § 302(d)](https://www.govinfo.gov/link/plaw/108/public/170), Dec. 6, 2003, [117 Stat. 2058](https://www.govinfo.gov/link/statute/117/2058); [Pub. L. 108–445, § 3(a)](https://www.govinfo.gov/link/plaw/108/public/445), (f), Dec. 3, 2004, [118 Stat. 2636](https://www.govinfo.gov/link/statute/118/2636), 2643; [Pub. L. 109–461, title II, § 202](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3410](https://www.govinfo.gov/link/statute/120/3410); [Pub. L. 111–163, title VI, § 601(d)(1)](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1169](https://www.govinfo.gov/link/statute/124/1169); [Pub. L. 115–41, title II, § 207(b)](https://www.govinfo.gov/link/plaw/115/public/41), June 23, 2017, [131 Stat. 877](https://www.govinfo.gov/link/statute/131/877); [Pub. L. 115–182, title V, § 502(b)(1)](https://www.govinfo.gov/link/plaw/115/public/182), June 6, 2018, [132 Stat. 1475](https://www.govinfo.gov/link/statute/132/1475); [Pub. L. 116–12, § 1(a)](https://www.govinfo.gov/link/plaw/116/public/12), Apr. 8, 2019, [133 Stat. 845](https://www.govinfo.gov/link/statute/133/845); [Pub. L. 116–146, § 1(a)](https://www.govinfo.gov/link/plaw/116/public/146), July 2, 2020, [134 Stat. 658](https://www.govinfo.gov/link/statute/134/658); [Pub. L. 117–96, § 1(b)](https://www.govinfo.gov/link/plaw/117/public/96), Mar. 14, 2022, [136 Stat. 34](https://www.govinfo.gov/link/statute/136/34); [Pub. L. 117–103, div. S, title I, § 102(b)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 822](https://www.govinfo.gov/link/statute/136/822); [Pub. L. 117–168, title IX](https://www.govinfo.gov/link/plaw/117/public/168), §§ 904(b), 906(a), Aug. 10, 2022, [136 Stat. 1811](https://www.govinfo.gov/link/statute/136/1811); [Pub. L. 118–210, title I, § 142(b)](https://www.govinfo.gov/link/plaw/118/public/210), Jan. 2, 2025, [138 Stat. 2746](https://www.govinfo.gov/link/statute/138/2746).)*

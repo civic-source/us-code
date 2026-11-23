@@ -3,9 +3,10 @@ title: "Section 240b - Financial Improvement and Audit Remediation Plan"
 usc_title: 10
 usc_section: "240b"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 240b"
-generated_at: "2026-03-30T02:53:38.048Z"
+generated_at: "2026-11-23T21:25:32.245Z"
+status: "active"
 ---
 
 # § 240b. Financial Improvement and Audit Remediation Plan
@@ -55,3 +56,53 @@ generated_at: "2026-03-30T02:53:38.048Z"
     - **(J)** Explanations for any unfavorable trends in the information included under paragraphs (1) through (9).
   - **(4)** In this subsection, the term “critical capabilities” means the financial statement audit priorities designated by the Secretary of Defense for the fiscal year in which the report is submitted.
 - **(c)** The selection of audit remediation service providers shall be based, among other appropriate criteria, on qualifications, relevant experience, and capacity to develop and implement corrective action plans to address internal control and compliance deficiencies identified during a financial statement or program audit.
+
+Financial Improvement and Audit Remediation Plan.—
+
+In general
+
+Elements
+
+Report and Briefing Requirements.—
+
+Annual report.—
+
+In general
+
+Elements
+
+Semiannual briefings
+
+Annual report by bottom quartile
+
+Critical capabilities defined
+
+Selection of Audit Remediation Services
+
+Unclassified form
+
+Delegation
+
+Metrics Required.—
+
+In general
+
+FFRDC support
+
+Deadline
+
+Leader Performance Assessments.—
+
+In general
+
+Briefing required
+
+Incentives Required.—
+
+In general
+
+Applicability
+
+## Source Credit
+
+*(Added and amended [Pub. L. 115–91, div. A, title X, § 1002(c)(1)](https://www.govinfo.gov/link/plaw/115/public/91) –(3), Dec. 12, 2017, [131 Stat. 1538](https://www.govinfo.gov/link/statute/131/1538), § 252; renumbered § 240b and amended [Pub. L. 115–232, div. A, title X, § 1002(a)(1)(A)](https://www.govinfo.gov/link/plaw/115/public/232), (2)–(c), Aug. 13, 2018, [132 Stat. 1945](https://www.govinfo.gov/link/statute/132/1945), 1946; [Pub. L. 116–92, div. A, title X](https://www.govinfo.gov/link/plaw/116/public/92), §§ 1003, 1008–1009(b), Dec. 20, 2019, [133 Stat. 1571](https://www.govinfo.gov/link/statute/133/1571), 1575, 1576; [Pub. L. 116–283, div. A, title X](https://www.govinfo.gov/link/plaw/116/public/283), §§ 1003, 1004(b), 1081(a)(14), Jan. 1, 2021, [134 Stat. 3836](https://www.govinfo.gov/link/statute/134/3836), 3837, 3871; [Pub. L. 117–81, div. A, title X, § 1081(a)(7)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1920](https://www.govinfo.gov/link/statute/135/1920); [Pub. L. 118–31, div. A, title IX, § 901(c)](https://www.govinfo.gov/link/plaw/118/public/31), title X, § 1061(h), Dec. 22, 2023, [137 Stat. 354](https://www.govinfo.gov/link/statute/137/354), 400; [Pub. L. 118–159, div. A, title X, § 1002](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2047](https://www.govinfo.gov/link/statute/138/2047); [Pub. L. 119–60, div. A, title X, § 1002(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1026](https://www.govinfo.gov/link/statute/139/1026).)*

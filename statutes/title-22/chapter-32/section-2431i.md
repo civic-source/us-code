@@ -3,9 +3,10 @@ title: "Section 2431i - Board"
 usc_title: 22
 usc_section: "2431i"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2431i"
-generated_at: "2026-03-30T02:55:05.368Z"
+generated_at: "2026-11-23T21:25:58.496Z"
+status: "active"
 ---
 
 # § 2431i. Board
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.368Z"
     - **(D)** environmental, scientific, forestry, and academic leaders of the beneficiary country; and
     - **(E)** environmental, scientific, forestry, and academic leaders of the region (as appropriate),
   - **(3)** Review the programs, operations, and fiscal audits of each administering body.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. V, § 811, as added [Pub. L. 105–214, § 1](https://www.govinfo.gov/link/plaw/105/public/214), July 29, 1998, [112 Stat. 892](https://www.govinfo.gov/link/statute/112/892); amended [Pub. L. 107–26, § 3](https://www.govinfo.gov/link/plaw/107/public/26), Aug. 17, 2001, [115 Stat. 206](https://www.govinfo.gov/link/statute/115/206); [Pub. L. 110–246, title III, § 3001(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/246), (2)(Q), June 18, 2008, [122 Stat. 1820](https://www.govinfo.gov/link/statute/122/1820).)*

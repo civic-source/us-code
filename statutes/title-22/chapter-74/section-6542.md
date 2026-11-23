@@ -3,9 +3,10 @@ title: "Section 6542 - Transfer of broadcasting related funds, property, and per
 usc_title: 22
 usc_section: "6542"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6542"
-generated_at: "2026-03-30T02:55:05.430Z"
+generated_at: "2026-11-23T21:25:58.692Z"
+status: "active"
 ---
 
 # § 6542. Transfer of broadcasting related funds, property, and personnel
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.430Z"
   - **(2)** the personnel and positions of USIA, as determined by the Secretary of State, with the concurrence of the Broadcasting Board of Governors and the Director of USIA, to support the functions transferred by this part shall be transferred to the Broadcasting Board of Governors, including the International Broadcasting Bureau, at the same grade or class and the same rate of basic pay or basic salary rate and with the same tenure held immediately preceding transfer.
 - **(c)** USIA personnel responsible for carrying out interactive dialogs with foreign media and other similar overseas public diplomacy programs using the Worldnet television broadcasting system, and funds associated with such personnel, shall be transferred to the Department of State in accordance with the provisions of subchapter VI of this chapter.
 - **(d)** The Director of the Office of Management and Budget, when requested by the Broadcasting Board of Governors, is authorized to make such incidental dispositions of personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available in connection with functions and offices transferred from USIA, as may be necessary to carry out the provisions of this section.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XIII, § 1326, Oct. 21, 1998, [112 Stat. 2681–782](https://www.govinfo.gov/link/statute/112/2681).)*

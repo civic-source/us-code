@@ -3,12 +3,17 @@ title: "Section 451j - Rules and regulations"
 usc_title: 43
 usc_section: "451j"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 451j"
-generated_at: "2026-03-30T02:55:57.450Z"
+generated_at: "2026-11-23T21:26:19.782Z"
+status: "active"
 ---
 
 # § 451j. Rules and regulations
 
 The Secretary may perform any and all acts and make all rules and regulations necessary and proper for carrying out the purposes of this subchapter.
 
+
+## Source Credit
+
+*(Aug. 13, 1953, ch. 428, § 12, [67 Stat. 568](https://www.govinfo.gov/link/statute/67/568).)*

@@ -3,9 +3,10 @@ title: "Section 8952 - Research and coordination plan for enhanced response on e
 usc_title: 15
 usc_section: "8952"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8952"
-generated_at: "2026-03-30T02:54:08.235Z"
+generated_at: "2026-11-23T21:25:40.101Z"
+status: "active"
 ---
 
 # § 8952. Research and coordination plan for enhanced response on emerging contaminants
@@ -90,3 +91,29 @@ generated_at: "2026-03-30T02:54:08.235Z"
   - **(4)** Of the amounts available to the Administrator, the Administrator may use not more than $15,000,000 in a fiscal year to carry out this subsection.
 - **(e)** Not less frequently than once every 2 years until 2029, the Administrator shall submit to Congress a report that describes the progress made in carrying out this subchapter.
 - **(f)** Nothing in this section modifies any obligation of a State, local government, or Indian Tribe with respect to treatment methods for, or testing or monitoring of, drinking water.
+
+(aa) waive the application process in an emergency situation; and
+
+(bb) require an abbreviated application process for the continuation of work specified in a previously approved application that continues to meet the criteria described in clause (ii); and
+
+(aa) Federal and non-Federal laboratory capacity available to the State;
+
+(bb) analytical resources available to the State; and
+
+(cc) other types of technical assistance available to the State.
+
+(aa) drinking water and wastewater utilities;
+
+(bb) laboratories;
+
+(cc) Federal and State emergency responders;
+
+(dd) State primacy agencies;
+
+(ee) public health agencies; and
+
+(ff) water associations;
+
+## Source Credit
+
+*([Pub. L. 116–92, div. F, title LXXIII, § 7342](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2284](https://www.govinfo.gov/link/statute/133/2284).)*

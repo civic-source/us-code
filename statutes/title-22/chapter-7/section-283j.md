@@ -3,9 +3,10 @@ title: "Section 283j - Increased United States participation in Bank activities"
 usc_title: 22
 usc_section: "283j"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 283j"
-generated_at: "2026-03-30T02:55:05.314Z"
+generated_at: "2026-11-23T21:25:58.353Z"
+status: "active"
 ---
 
 # § 283j. Increased United States participation in Bank activities
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.314Z"
   - **(2)** to agree on behalf of the United States to subscribe to its proportionate share of the $1,000,000,000 increase in the authorized callable capital stock of the Bank; and
   - **(3)** to vote for an amendment to article VIII, section 3, of the agreement to provide that the Board of Governors may, upon certain conditions, increase by one the number of Executive Directors.
 
+
+## Source Credit
+
+*([Pub. L. 86–147, § 13](https://www.govinfo.gov/link/plaw/86/public/147), as added [Pub. L. 88–259, § 1](https://www.govinfo.gov/link/plaw/88/public/259), Jan. 22, 1964, [78 Stat. 3](https://www.govinfo.gov/link/statute/78/3).)*

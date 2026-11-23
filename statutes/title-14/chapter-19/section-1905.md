@@ -3,9 +3,10 @@ title: "Section 1905 - Coast Guard Academy minority outreach team program"
 usc_title: 14
 usc_section: "1905"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 1905"
-generated_at: "2026-03-30T02:53:51.496Z"
+generated_at: "2026-11-23T21:25:35.405Z"
+status: "active"
 ---
 
 # § 1905. Coast Guard Academy minority outreach team program
@@ -17,3 +18,11 @@ generated_at: "2026-03-30T02:53:51.496Z"
   - **(3)** advising Academy leadership on recruitment and retention efforts based on recommendations from volunteers and outside stakeholders;
   - **(4)** establishing strategic goals and performance metrics for the Program with input from active volunteers and Academy leadership; and
   - **(5)** reporting annually to the Commandant on academic year and performance outcomes of the goals for the Program before the end of each academic year.
+
+In General
+
+Administration
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. G, title LVXXXII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXII], § 8275(a), Jan. 1, 2021, [134 Stat. 4685](https://www.govinfo.gov/link/statute/134/4685).)*

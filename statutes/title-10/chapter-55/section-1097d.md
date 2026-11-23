@@ -3,9 +3,10 @@ title: "Section 1097d - TRICARE program: notice of change to benefits"
 usc_title: 10
 usc_section: "1097d"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1097d"
-generated_at: "2026-03-30T02:53:38.108Z"
+generated_at: "2026-11-23T21:25:32.422Z"
+status: "active"
 ---
 
 # § 1097d. TRICARE program: notice of change to benefits
@@ -21,3 +22,13 @@ generated_at: "2026-03-30T02:53:38.108Z"
 - **(c)** In this section, the term “significant change” means a systemwide change—
   - **(1)** in the structure of the TRICARE program or the benefits provided under the TRICARE program (not including the addition of new services or benefits); or
   - **(2)** in beneficiary cost-share rates of more than 20 percent.
+
+Provision of Notice
+
+Timing of Notice
+
+Significant Change Defined
+
+## Source Credit
+
+*(Added [Pub. L. 113–291, div. A, title VII, § 711(a)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3413](https://www.govinfo.gov/link/statute/128/3413).)*

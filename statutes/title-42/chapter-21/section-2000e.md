@@ -3,9 +3,10 @@ title: "Section 2000e - Definitions"
 usc_title: 42
 usc_section: "2000e"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2000e"
-generated_at: "2026-03-30T02:56:11.138Z"
+generated_at: "2026-11-23T21:26:32.284Z"
+status: "active"
 ---
 
 # § 2000e. Definitions
@@ -31,3 +32,111 @@ For the purposes of this subchapter—
 - **(l)** The term “complaining party” means the Commission, the Attorney General, or a person who may bring an action or proceeding under this subchapter.
 - **(m)** The term “demonstrates” means meets the burdens of production and persuasion.
 - **(n)** The term “respondent” means an employer, employment agency, labor organization, joint labor-management committee controlling apprenticeship or other training or retraining program, including an on-the-job training program, or Federal entity subject to section 2000e–16 of this title .
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Implementation of Reorganization Plan
+
+Responsibilities of Equal Employment Opportunity Commission
+
+Specific Responsibilities
+
+Annual Report
+
+General Provisions
+
+Jimmy Carter.
+
+Transfer of Functions
+
+Conforming Amendments to Executive Order No
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+General Provisions
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Ronald Reagan.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 88–352, title VII, § 701](https://www.govinfo.gov/link/plaw/88/public/352), July 2, 1964, [78 Stat. 253](https://www.govinfo.gov/link/statute/78/253); [Pub. L. 89–554, § 8(a)](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 662](https://www.govinfo.gov/link/statute/80/662); [Pub. L. 92–261, § 2](https://www.govinfo.gov/link/plaw/92/public/261), Mar. 24, 1972, [86 Stat. 103](https://www.govinfo.gov/link/statute/86/103); [Pub. L. 95–555, § 1](https://www.govinfo.gov/link/plaw/95/public/555), Oct. 31, 1978, [92 Stat. 2076](https://www.govinfo.gov/link/statute/92/2076); [Pub. L. 95–598, title III, § 330](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2679](https://www.govinfo.gov/link/statute/92/2679); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 102–166, title I](https://www.govinfo.gov/link/plaw/102/public/166), §§ 104, 109(a), Nov. 21, 1991, [105 Stat. 1074](https://www.govinfo.gov/link/statute/105/1074), 1077.)*

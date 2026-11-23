@@ -3,9 +3,10 @@ title: "Section 1733 - General provisions"
 usc_title: 7
 usc_section: "1733"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1733"
-generated_at: "2026-03-30T02:53:42.338Z"
+generated_at: "2026-11-23T21:25:28.164Z"
+status: "active"
 ---
 
 # § 1733. General provisions
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:53:42.338Z"
     - **(B)** section 1431(b) of this title ; and
     - **(C)** the Food for Progress Act of 1985 ( 7 U.S.C. 1736 o ).
   - **(2)** A sale described in paragraph (1) may be made in United States dollars or other currencies.
+
+## Source Credit
+
+*(July 10, 1954, ch. 469, title IV, § 403, as added [Pub. L. 86–341, title I, § 14](https://www.govinfo.gov/link/plaw/86/public/341), Sept. 21, 1959, [73 Stat. 610](https://www.govinfo.gov/link/statute/73/610); amended [Pub. L. 87–703, title II, § 201(3)](https://www.govinfo.gov/link/plaw/87/public/703), Sept. 27, 1962, [76 Stat. 611](https://www.govinfo.gov/link/statute/76/611); [Pub. L. 88–638, § 1(17)](https://www.govinfo.gov/link/plaw/88/public/638), Oct. 8, 1964, [78 Stat. 1037](https://www.govinfo.gov/link/statute/78/1037); [Pub. L. 89–808, § 2(E)](https://www.govinfo.gov/link/plaw/89/public/808), Nov. 11, 1966, [80 Stat. 1536](https://www.govinfo.gov/link/statute/80/1536); [Pub. L. 95–113, title XII, § 1206](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 956](https://www.govinfo.gov/link/statute/91/956); [Pub. L. 96–533, title IV, § 407](https://www.govinfo.gov/link/plaw/96/public/533), Dec. 16, 1980, [94 Stat. 3151](https://www.govinfo.gov/link/statute/94/3151); [Pub. L. 97–98, title XII, § 1214](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1282](https://www.govinfo.gov/link/statute/95/1282); [Pub. L. 101–624, title XV, § 1512](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3646](https://www.govinfo.gov/link/statute/104/3646); [Pub. L. 102–237, title III, § 321](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1857](https://www.govinfo.gov/link/statute/105/1857); [Pub. L. 104–127, title II, § 213](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 956](https://www.govinfo.gov/link/statute/110/956); [Pub. L. 107–171, title III, § 3009(a)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 283](https://www.govinfo.gov/link/statute/116/283); [Pub. L. 113–79, title III, § 3008](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 775](https://www.govinfo.gov/link/statute/128/775); [Pub. L. 115–334, title III](https://www.govinfo.gov/link/plaw/115/public/334), §§ 3109, 3112(b), Dec. 20, 2018, [132 Stat. 4604](https://www.govinfo.gov/link/statute/132/4604), 4606.)*

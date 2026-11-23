@@ -3,9 +3,10 @@ title: "Section 12530 - Payment of benefits"
 usc_title: 10
 usc_section: "12530"
 chapter: 1214
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 12530"
-generated_at: "2026-03-30T02:53:38.270Z"
+generated_at: "2026-11-23T21:25:33.048Z"
+status: "active"
 ---
 
 # § 12530. Payment of benefits
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:53:38.270Z"
   - **(1)** A member may designate in writing another person (including a spouse, parent, or other person with an insurable interest, as determined in accordance with the regulations prescribed by the Secretary) to receive payments of insurance benefits under the insurance program.
   - **(2)** A member may direct that payments of insurance benefits for a person designated under paragraph (1) be deposited with a bank or other financial institution to the credit of the designated person.
 - **(d)** Any insurance payable under the insurance program on account of a deceased member’s period of covered service shall be paid, upon the establishment of a valid claim, to the beneficiary or beneficiaries which the deceased member designated in writing. If no such designation has been made, the amount shall be payable in accordance with the laws of the State of the member’s domicile.
+
+Commencement of Payment
+
+Method of Payment
+
+Designated Recipients
+
+Recipients in Event of Death of Insured Member
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title V, § 512(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 304](https://www.govinfo.gov/link/statute/110/304).)*

@@ -3,9 +3,10 @@ title: "Section 3704a - Clearinghouse for State and Local Initiatives on Product
 usc_title: 15
 usc_section: "3704a"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3704a"
-generated_at: "2026-03-30T02:54:08.191Z"
+generated_at: "2026-11-23T21:25:39.974Z"
+status: "active"
 ---
 
 # § 3704a. Clearinghouse for State and Local Initiatives on Productivity, Technology, and Innovation
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.191Z"
   - **(7)** develop methodologies to evaluate State and local programs, and, when requested, advise State and local governments, and regional and multistate organizations of such governments, as to which programs are most effective in enhancing the competitiveness of American business through the stimulation of productivity, technology, and innovation; and
   - **(8)** make use of, and disseminate, the nationwide study of State industrial extension programs conducted by the Secretary.
 - **(c)** In carrying out subsection (b), the Secretary may enter into contracts for the purpose of collecting information on the nature, extent, and effects of initiatives.
+
+## Source Credit
+
+*([Pub. L. 96–480, § 6](https://www.govinfo.gov/link/plaw/96/public/480), as added [Pub. L. 100–418, title V, § 5122(a)(2)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1438](https://www.govinfo.gov/link/statute/102/1438).)*

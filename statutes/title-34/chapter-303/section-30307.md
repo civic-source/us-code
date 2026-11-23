@@ -3,9 +3,10 @@ title: "Section 30307 - Adoption and effect of national standards"
 usc_title: 34
 usc_section: "30307"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 30307"
-generated_at: "2026-03-30T02:55:33.307Z"
+generated_at: "2026-11-23T21:26:09.823Z"
+status: "active"
 ---
 
 # § 30307. Adoption and effect of national standards
@@ -90,3 +91,7 @@ generated_at: "2026-03-30T02:55:33.307Z"
       - **(ii)** In the case that an auditor is decertified, the PREA Management Office shall inform each facility or agency at which the auditor performed an audit during the relevant 3-year audit cycle, and may recommend that the agency repeat any affected audits, if appropriate.
     - **(C)** The PREA Management Office shall establish a system, to be administered by the Office, for assigning certified auditors to Federal, State, and local facilities.
     - **(D)** The Director of the Bureau of Prisons shall comply with each request for documentation necessary to conduct an audit under subsection (a), which is made by a certified auditor in accordance with the provisions of the certification agreement described in subparagraph (A)(ii). The Director of the Bureau of Prisons may require an auditor to sign a confidentiality agreement or other agreement designed to address the auditor’s use of personally identifiable information, except that such an agreement may not limit an auditor’s ability to provide all such documentation to the Department of Justice, as required under section 115.401(j) of title 28, Code of Federal Regulations.
+
+## Source Credit
+
+*([Pub. L. 108–79, § 8](https://www.govinfo.gov/link/plaw/108/public/79), Sept. 4, 2003, [117 Stat. 985](https://www.govinfo.gov/link/statute/117/985); [Pub. L. 113–4, title XI, § 1101(c)](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 134](https://www.govinfo.gov/link/statute/127/134); [Pub. L. 114–324](https://www.govinfo.gov/link/plaw/114/public/324), §§ 5, 7(2), Dec. 16, 2016, [130 Stat. 1950](https://www.govinfo.gov/link/statute/130/1950), 1951; [Pub. L. 115–274, § 4](https://www.govinfo.gov/link/plaw/115/public/274), Oct. 31, 2018, [132 Stat. 4161](https://www.govinfo.gov/link/statute/132/4161).)*

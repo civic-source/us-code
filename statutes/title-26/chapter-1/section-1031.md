@@ -3,9 +3,10 @@ title: "Section 1031 - Exchange of real property held for productive use or inve
 usc_title: 26
 usc_section: "1031"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1031"
-generated_at: "2026-03-30T02:55:27.756Z"
+generated_at: "2026-11-23T21:26:06.457Z"
+status: "active"
 ---
 
 # § 1031. Exchange of real property held for productive use or investment
@@ -42,3 +43,29 @@ generated_at: "2026-03-30T02:55:27.756Z"
     - **(B)** the holding by another person of a right to acquire such property, or
     - **(C)** a short sale or any other transaction.
 - **(h)** Real property located in the United States and real property located outside the United States are not property of a like kind.
+
+In general
+
+Transition rule
+
+In general
+
+Binding contracts
+
+In general
+
+Binding contract
+
+In general
+
+Binding contract exception for transfer of partnership interests
+
+Requirement that property be identified within 45 days and that exchange be completed within 180 days
+
+Special rule where property identified in binding contract
+
+Special rule for like-kind exchange of partnership interests
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 302; [Pub. L. 85–866, title I, § 44](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1641](https://www.govinfo.gov/link/statute/72/1641); [Pub. L. 86–346, title II, § 201(c)](https://www.govinfo.gov/link/plaw/86/public/346) –(e), Sept. 22, 1959, [73 Stat. 624](https://www.govinfo.gov/link/statute/73/624); [Pub. L. 91–172, title II, § 212(c)(1)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 571](https://www.govinfo.gov/link/statute/83/571); [Pub. L. 98–369, div. A, title I, § 77(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 595](https://www.govinfo.gov/link/statute/98/595); [Pub. L. 99–514, title XVIII, § 1805(d)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2810](https://www.govinfo.gov/link/statute/100/2810); [Pub. L. 101–239, title VII, § 7601(a)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2370](https://www.govinfo.gov/link/statute/103/2370); [Pub. L. 101–508, title XI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 11701(h), 11703(d)(1), Nov. 5, 1990, [104 Stat. 1388–508](https://www.govinfo.gov/link/statute/104/1388), 1388–517; [Pub. L. 105–34, title X, § 1052(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 940](https://www.govinfo.gov/link/statute/111/940); [Pub. L. 106–36, title III, § 3001(c)(2)](https://www.govinfo.gov/link/plaw/106/public/36), June 25, 1999, [113 Stat. 183](https://www.govinfo.gov/link/statute/113/183); [Pub. L. 109–135, title IV, § 412(pp)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2640](https://www.govinfo.gov/link/statute/119/2640); [Pub. L. 110–234, title XV, § 15342(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1518](https://www.govinfo.gov/link/statute/122/1518); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XV, § 15342(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2280; [Pub. L. 115–97, title I, § 13303(a)](https://www.govinfo.gov/link/plaw/115/public/97) –(b)(5), Dec. 22, 2017, [131 Stat. 2123](https://www.govinfo.gov/link/statute/131/2123), 2124.)*

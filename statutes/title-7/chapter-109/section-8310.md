@@ -3,9 +3,10 @@ title: "Section 8310 - Cooperation"
 usc_title: 7
 usc_section: "8310"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 8310"
-generated_at: "2026-03-30T02:53:42.474Z"
+generated_at: "2026-11-23T21:25:28.473Z"
+status: "active"
 ---
 
 # § 8310. Cooperation
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:42.474Z"
 - **(e)**
   - **(1)** The Secretary shall consult and coordinate with the head of a Federal agency with respect to any activity that is under the jurisdiction of the Federal agency.
   - **(2)** Subject to the consultation and coordination requirement in paragraph (1), the Department of Agriculture shall be the lead agency with respect to issues related to pests and diseases of livestock.
+
+## Source Credit
+
+*([Pub. L. 107–171, title X, § 10411](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 502](https://www.govinfo.gov/link/statute/116/502).)*

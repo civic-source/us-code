@@ -3,9 +3,10 @@ title: "Section 3861 - Research and development contracts: indemnification provi
 usc_title: 10
 usc_section: "3861"
 chapter: 281
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3861"
-generated_at: "2026-03-30T02:53:38.199Z"
+generated_at: "2026-11-23T21:25:32.744Z"
+status: "active"
 ---
 
 # § 3861. Research and development contracts: indemnification provisions
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:38.199Z"
   - **(1)** funds obligated for the performance of the contract concerned;
   - **(2)** funds available for research or development, or both, and not otherwise obligated; or
   - **(3)** funds appropriated for those payments.
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 134, § 2354; renumbered § 3861 and amended [Pub. L. 116–283, div. A, title XVIII, § 1836(b)](https://www.govinfo.gov/link/plaw/116/public/283), (c), Jan. 1, 2021, [134 Stat. 4241](https://www.govinfo.gov/link/statute/134/4241).)*

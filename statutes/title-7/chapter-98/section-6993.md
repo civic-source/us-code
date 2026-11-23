@@ -3,9 +3,10 @@ title: "Section 6993 - Transfer of functions"
 usc_title: 7
 usc_section: "6993"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6993"
-generated_at: "2026-03-30T02:53:42.442Z"
+generated_at: "2026-11-23T21:25:28.410Z"
+status: "active"
 ---
 
 # § 6993. Transfer of functions
@@ -16,3 +17,7 @@ There are transferred to the Division all functions exercised and all administra
   - **(2)** the National Appeals Division established by subsections (d) through (g) of section 1983b 1 of this title (as in effect on the day before October 13, 1994 );
   - **(3)** appeals of decisions made by the Federal Crop Insurance Corporation; and
   - **(4)** appeals of decisions made by the Soil Conservation Service (as in effect on the day before October 13, 1994 ).
+
+## Source Credit
+
+*([Pub. L. 103–354, title II, § 273](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3230](https://www.govinfo.gov/link/statute/108/3230).)*

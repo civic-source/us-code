@@ -3,9 +3,10 @@ title: "Section 2903 - Authorization of transfers of title to eligible facilitie
 usc_title: 43
 usc_section: "2903"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 2903"
-generated_at: "2026-03-30T02:55:57.500Z"
+generated_at: "2026-11-23T21:26:19.901Z"
+status: "active"
 ---
 
 # § 2903. Authorization of transfers of title to eligible facilities
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:57.500Z"
   - **(2)** the Reclamation project or a portion of the Reclamation project remains under Federal ownership; and
   - **(3)** the Secretary enters into an agreement regarding the easement with the applicable qualifying entity.
 - **(c)** No interests in water shall be conveyed under this chapter unless the conveyance is provided for in a separate, quantified agreement between the Secretary and the qualifying entity, subject to applicable State law and public process requirements.
+
+## Source Credit
+
+*([Pub. L. 116–9, title VIII, § 8003](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 806](https://www.govinfo.gov/link/statute/133/806).)*

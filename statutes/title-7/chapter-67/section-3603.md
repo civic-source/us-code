@@ -3,12 +3,17 @@ title: "Section 3603 - Delegation of powers and duties"
 usc_title: 7
 usc_section: "3603"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3603"
-generated_at: "2026-03-30T02:53:42.404Z"
+generated_at: "2026-11-23T21:25:28.338Z"
+status: "active"
 ---
 
 # § 3603. Delegation of powers and duties
 
 The President may exercise any power or duty conferred on him by this chapter through such agencies or offices of the United States as he shall designate. Such agencies or offices shall issue such regulations as they determine are necessary to implement this chapter.
 
+
+## Source Credit
+
+*([Pub. L. 96–236, § 3](https://www.govinfo.gov/link/plaw/96/public/236), Apr. 22, 1980, [94 Stat. 336](https://www.govinfo.gov/link/statute/94/336).)*

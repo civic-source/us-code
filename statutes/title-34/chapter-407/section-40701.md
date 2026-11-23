@@ -3,9 +3,10 @@ title: "Section 40701 - The Debbie Smith DNA Backlog Grant Program"
 usc_title: 34
 usc_section: "40701"
 chapter: 407
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 40701"
-generated_at: "2026-03-30T02:55:33.310Z"
+generated_at: "2026-11-23T21:26:09.834Z"
+status: "active"
 ---
 
 # § 40701. The Debbie Smith DNA Backlog Grant Program
@@ -96,3 +97,49 @@ generated_at: "2026-03-30T02:55:33.310Z"
     - **(E)** standards for conducting the audit of the backlog for DNA case work in sexual assault cases required under subsection (n).
   - **(2)** The Director shall make available technical assistance and training to support States and units of local government in adopting and implementing the protocols and practices developed under paragraph (1) on and after the date on which the protocols and practices are published.
   - **(3)** In this subsection, the terms “awaiting testing” and “possession” have the meanings given those terms in subsection (n).
+
+“Not later than 90 days after the end of each fiscal year for which a grant is made for the purpose described in section 2(a)(7) of the DNA Analysis Backlog Elimination Act of 2000 [ 34 U.S.C. 40701(a)(7) ], as amended by section 1002, the Attorney General shall submit to Congress a report that—
+
+“All grants awarded by the Department of Justice that are authorized under this title [amending this section and enacting provisions set out as notes under this section and section 10101 of this title ] shall be subject to the following:
+
+Audit requirement
+
+Mandatory exclusion
+
+Priority
+
+Reimbursement
+
+Defined term
+
+Nonprofit organization requirements.—
+
+Definition
+
+Prohibition
+
+Disclosure
+
+Administrative expenses
+
+Conference expenditures.—
+
+Limitation
+
+Written approval
+
+Report
+
+Prohibition on lobbying activity.—
+
+In general
+
+Penalty
+
+Findings
+
+Sense of Congress
+
+## Source Credit
+
+*([Pub. L. 106–546, § 2](https://www.govinfo.gov/link/plaw/106/public/546), Dec. 19, 2000, [114 Stat. 2726](https://www.govinfo.gov/link/statute/114/2726); [Pub. L. 108–405, title II](https://www.govinfo.gov/link/plaw/108/public/405), §§ 202, 206, Oct. 30, 2004, [118 Stat. 2266](https://www.govinfo.gov/link/statute/118/2266), 2272; [Pub. L. 109–162, title X, § 1003](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3085](https://www.govinfo.gov/link/statute/119/3085); [Pub. L. 110–360, § 2](https://www.govinfo.gov/link/plaw/110/public/360), Oct. 8, 2008, [122 Stat. 4008](https://www.govinfo.gov/link/statute/122/4008); [Pub. L. 112–253, § 6](https://www.govinfo.gov/link/plaw/112/public/253), Jan. 10, 2013, [126 Stat. 2409](https://www.govinfo.gov/link/statute/126/2409); [Pub. L. 113–4, title X](https://www.govinfo.gov/link/plaw/113/public/4), §§ 1002, 1004, 1006, Mar. 7, 2013, [127 Stat. 127](https://www.govinfo.gov/link/statute/127/127), 131, 134; [Pub. L. 113–182, § 2](https://www.govinfo.gov/link/plaw/113/public/182), Sept. 29, 2014, [128 Stat. 1918](https://www.govinfo.gov/link/statute/128/1918); [Pub. L. 115–107, § 3(a)](https://www.govinfo.gov/link/plaw/115/public/107), Jan. 8, 2018, [131 Stat. 2266](https://www.govinfo.gov/link/statute/131/2266); [Pub. L. 115–257, § 2(a)](https://www.govinfo.gov/link/plaw/115/public/257), Oct. 9, 2018, [132 Stat. 3660](https://www.govinfo.gov/link/statute/132/3660); [Pub. L. 116–104, § 2](https://www.govinfo.gov/link/plaw/116/public/104), Dec. 30, 2019, [133 Stat. 3272](https://www.govinfo.gov/link/statute/133/3272); [Pub. L. 118–72](https://www.govinfo.gov/link/plaw/118/public/72), §§ 2, 3, July 30, 2024, [138 Stat. 1503](https://www.govinfo.gov/link/statute/138/1503).)*

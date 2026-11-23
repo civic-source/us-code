@@ -3,9 +3,10 @@ title: "Section 4239 - Performance reports"
 usc_title: 25
 usc_section: "4239"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4239"
-generated_at: "2026-03-30T02:54:52.862Z"
+generated_at: "2026-11-23T21:25:54.714Z"
+status: "active"
 ---
 
 # § 4239. Performance reports
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:52.862Z"
 - **(d)**
   - **(1)** In preparing a report under this section, the Director shall make the report publicly available to the beneficiaries of the Hawaiian Homes Commission Act, 1920 ( 42 Stat. 108 et seq.) and give a sufficient amount of time to permit those beneficiaries to comment on that report before it is submitted to the Secretary (in such manner and at such time as the Director may determine).
   - **(2)** The report shall include a summary of any comments received by the Director from beneficiaries under paragraph (1) regarding the program to carry out the housing plan.
+
+## Source Credit
+
+*([Pub. L. 104–330, title VIII, § 820](https://www.govinfo.gov/link/plaw/104/public/330), as added [Pub. L. 106–568, title II, § 203](https://www.govinfo.gov/link/plaw/106/public/568), Dec. 27, 2000, [114 Stat. 2893](https://www.govinfo.gov/link/statute/114/2893), and [Pub. L. 106–569, title V, § 513](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 2987](https://www.govinfo.gov/link/statute/114/2987).)*

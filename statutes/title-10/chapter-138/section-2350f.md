@@ -3,9 +3,10 @@ title: "Section 2350f - Procurement of communications support and related suppli
 usc_title: 10
 usc_section: "2350f"
 chapter: 138
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2350f"
-generated_at: "2026-03-30T02:53:38.156Z"
+generated_at: "2026-11-23T21:25:32.603Z"
+status: "active"
 ---
 
 # § 2350f. Procurement of communications support and related supplies and services
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:38.156Z"
     - **(B)** Australia, New Zealand, Japan, or the Republic of Korea; or
     - **(C)** any other country designated as an allied country for purposes of this section by the Secretary of Defense with the concurrence of the Secretary of State.
   - **(2)** The term “allied international organization” means the North Atlantic Treaty Organization (NATO) or any other international organization designated as an allied international organization for the purposes of this section by the Secretary of Defense with the concurrence of the Secretary of State.
+
+## Source Credit
+
+*(Added [Pub. L. 98–525, title X, § 1005(a)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2578](https://www.govinfo.gov/link/statute/98/2578), § 2401a; amended [Pub. L. 100–26, § 7(k)(3)](https://www.govinfo.gov/link/plaw/100/public/26), Apr. 21, 1987, [101 Stat. 284](https://www.govinfo.gov/link/statute/101/284); renumbered § 2350f and amended [Pub. L. 101–189, div. A, title IX, § 933(a)](https://www.govinfo.gov/link/plaw/101/public/189) –(d), Nov. 29, 1989, [103 Stat. 1537](https://www.govinfo.gov/link/statute/103/1537); [Pub. L. 101–510, div. A, title XIV, § 1484(k)(8)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1719](https://www.govinfo.gov/link/statute/104/1719); [Pub. L. 104–106, div. A, title XV, § 1502(a)(2)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 502](https://www.govinfo.gov/link/statute/110/502); [Pub. L. 106–65, div. A, title X, § 1067(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774); [Pub. L. 107–314, div. A, title X, § 1041(a)(10)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2645](https://www.govinfo.gov/link/statute/116/2645).)*

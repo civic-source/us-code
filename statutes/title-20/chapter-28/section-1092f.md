@@ -3,9 +3,10 @@ title: "Section 1092f - Early awareness and outreach of financial aid eligibilit
 usc_title: 20
 usc_section: "1092f"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1092f"
-generated_at: "2026-03-30T02:54:48.136Z"
+generated_at: "2026-11-23T21:25:47.208Z"
+status: "active"
 ---
 
 # § 1092f. Early awareness and outreach of financial aid eligibility
@@ -72,3 +73,7 @@ generated_at: "2026-03-30T02:54:48.136Z"
   - **(1)** The Secretary shall develop and implement a public awareness campaign designed using current and relevant independent research regarding strategies and media platforms found to be most effective in communicating with low-income populations in order to increase national awareness regarding the availability of Federal Pell Grants and financial aid under this subchapter and, at the option of the Secretary, potential availability of state need-based financial aid.
   - **(2)** The public awareness campaign described in paragraph (1) shall leverage the activities in subsections (b) and (c) to highlight eligibility among low-income populations. In developing and implementing the campaign, the Secretary may work in coordination with States, institutions of higher education, early intervention and outreach programs under this subchapter, other Federal agencies, agencies responsible for administering means-tested Federal benefit programs (as defined in section 1087ss(b)(4)(H) of this title ), organizations involved in college access and student financial aid, secondary schools, local educational agencies, public libraries, community centers, businesses, employers, workforce investment boards, and organizations that provide services to individuals who are or were homeless, in foster care, or are disconnected youth.
   - **(3)** The Secretary shall report on the success of the public awareness campaign described in paragraph (1) annually regarding the extent to which the public and target populations were reached using data commonly used to evaluate advertising and outreach campaigns and data regarding whether the campaign produced any increase in applicants for Federal aid under this subchapter publicly on the Department of Education website.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 485E](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title IV, § 490](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3305](https://www.govinfo.gov/link/statute/122/3305); amended [Pub. L. 111–152, title II, § 2101(b)(5)](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1073](https://www.govinfo.gov/link/statute/124/1073); [Pub. L. 116–260, div. FF, title VII, § 702](https://www.govinfo.gov/link/plaw/116/public/260) (o), Dec. 27, 2020, [134 Stat. 3186](https://www.govinfo.gov/link/statute/134/3186); [Pub. L. 117–103, div. R, § 102(b)(5)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 819](https://www.govinfo.gov/link/statute/136/819).)*

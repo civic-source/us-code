@@ -3,9 +3,10 @@ title: "Section 2873 - Direct loans and loan guarantees"
 usc_title: 10
 usc_section: "2873"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2873"
-generated_at: "2026-03-30T02:53:38.181Z"
+generated_at: "2026-11-23T21:25:32.696Z"
+status: "active"
 ---
 
 # § 2873. Direct loans and loan guarantees
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:53:38.181Z"
     - **(B)** the amount of the outstanding principal of the loan.
   - **(3)** The Secretary concerned shall establish such terms and conditions with respect to guarantees of loans under this subsection as the Secretary considers appropriate to protect the interests of the United States, including the rights and obligations of obligors of such loans and the rights and obligations of the United States with respect to such guarantees.
 - **(c)** Direct loans and loan guarantees may be made under this section only to the extent that appropriations of budget authority to cover their cost (as defined in section 502(5) of the Federal Credit Reform Act of 1990 ( 2 U.S.C. 661a(5) )) are made in advance, or authority is otherwise provided in appropriation Acts. If such appropriation or other authority is provided, there may be established a financing account (as defined in section 502(7) of such Act ( 2 U.S.C. 661a(7) )), which shall be available for the disbursement of direct loans or payment of claims for payment on loan guarantees under this section and for all other cash flows to and from the Government as a result of direct loans and guarantees made under this section.
+
+Direct Loans
+
+Loan Guarantees
+
+Limitation on Direct Loan and Guarantee Authority
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 545](https://www.govinfo.gov/link/statute/110/545); amended [Pub. L. 106–65, div. B, title XXVIII, § 2803(c)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 849](https://www.govinfo.gov/link/statute/113/849).)*

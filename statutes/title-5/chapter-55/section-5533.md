@@ -3,9 +3,10 @@ title: "Section 5533 - Dual pay from more than one position; limitations; except
 usc_title: 5
 usc_section: "5533"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5533"
-generated_at: "2026-03-30T02:52:56.019Z"
+generated_at: "2026-11-23T21:25:23.272Z"
+status: "active"
 ---
 
 # § 5533. Dual pay from more than one position; limitations; exceptions
@@ -37,3 +38,22 @@ generated_at: "2026-03-30T02:52:56.019Z"
 - **(e)**
   - **(1)** This section does not apply to an individual employed under sections 174j–1 to 174j–7 or 174k 2 2 See References in Text note below. of title 40.
   - **(2)** Subsection (c) of this section does not apply to pay received by a teacher of the public schools of the District of Columbia for employment in a position during the summer vacation period.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 3105 (less (e)). | Aug. 19, 1964 , Pub. L. 88–448, § 301 (less (e)), 78 Stat. 488 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 3105
+
+Aug. 19, 1964
+
+Pub. L. 88–448, § 301
+
+78 Stat. 488
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 483](https://www.govinfo.gov/link/statute/80/483); [Pub. L. 90–57, § 105(h)](https://www.govinfo.gov/link/plaw/90/public/57), July 28, 1967, [81 Stat. 143](https://www.govinfo.gov/link/statute/81/143); [Pub. L. 90–206, title II, § 214](https://www.govinfo.gov/link/plaw/90/public/206) (o), Dec. 16, 1967. [81 Stat. 637](https://www.govinfo.gov/link/statute/81/637); [Pub. L. 91–510, title IV, § 477(d)](https://www.govinfo.gov/link/plaw/91/public/510), Oct. 26, 1970, [84 Stat. 1195](https://www.govinfo.gov/link/statute/84/1195); [Pub. L. 93–140, § 23](https://www.govinfo.gov/link/plaw/93/public/140), Oct. 26, 1973, [87 Stat. 508](https://www.govinfo.gov/link/statute/87/508); [Pub. L. 93–145, § 101](https://www.govinfo.gov/link/plaw/93/public/145), Nov. 1, 1973, [87 Stat. 532](https://www.govinfo.gov/link/statute/87/532); [Pub. L. 94–183, § 2(21)](https://www.govinfo.gov/link/plaw/94/public/183), Dec. 31, 1975, [89 Stat. 1058](https://www.govinfo.gov/link/statute/89/1058); [Pub. L. 94–440, title I, § 103](https://www.govinfo.gov/link/plaw/94/public/440), Oct. 1, 1976, [90 Stat. 1443](https://www.govinfo.gov/link/statute/90/1443); [Pub. L. 95–454, title IX, § 906(a)(2)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1224](https://www.govinfo.gov/link/statute/92/1224); [Pub. L. 96–70, title III, § 3302(e)(8)](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 498](https://www.govinfo.gov/link/statute/93/498); [Pub. L. 104–186, title II, § 215(7)](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1745](https://www.govinfo.gov/link/statute/110/1745); [Pub. L. 111–145, § 7(b)(2)](https://www.govinfo.gov/link/plaw/111/public/145), Mar. 4, 2010, [124 Stat. 55](https://www.govinfo.gov/link/statute/124/55).)*

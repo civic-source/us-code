@@ -3,9 +3,10 @@ title: "Section 242a - Department of Homeland Security Center for Countering Hum
 usc_title: 6
 usc_section: "242a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 242a"
-generated_at: "2026-03-30T02:53:09.454Z"
+generated_at: "2026-11-23T21:25:25.770Z"
+status: "active"
 ---
 
 # § 242a. Department of Homeland Security Center for Countering Human Trafficking
@@ -40,3 +41,13 @@ generated_at: "2026-03-30T02:53:09.454Z"
   - **(3)** conduct, review, and assist with Department of Homeland Security human trafficking training, screening, and identification tools and efforts;
   - **(4)** operate the Blue Campaign’s nationwide public awareness effort and any other awareness efforts needed to encourage victim identification and reporting to law enforcement and to prevent human trafficking; and
   - **(5)** coordinate external engagement, including training and events, regarding human trafficking with critical partners, including survivors, nongovernmental organizations, corporations, multilateral entities, law enforcement agencies, and other interested parties.
+
+In general
+
+Authorization of appropriations
+
+“It is the sense of Congress that—
+
+## Source Credit
+
+*([Pub. L. 117–322, § 3](https://www.govinfo.gov/link/plaw/117/public/322), Dec. 27, 2022, [136 Stat. 4433](https://www.govinfo.gov/link/statute/136/4433).)*

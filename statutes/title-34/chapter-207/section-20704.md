@@ -3,9 +3,10 @@ title: "Section 20704 - Grant accountability"
 usc_title: 34
 usc_section: "20704"
 chapter: 207
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20704"
-generated_at: "2026-03-30T02:55:33.299Z"
+generated_at: "2026-11-23T21:26:09.790Z"
+status: "active"
 ---
 
 # § 20704. Grant accountability
@@ -40,3 +41,53 @@ generated_at: "2026-03-30T02:55:33.299Z"
     - **(B)** If the Attorney General determines that any recipient of a covered grant has violated subparagraph (A), the Attorney General shall—
       - **(i)** require the grant recipient to repay the grant in full; and
       - **(ii)** prohibit the grant recipient from receiving another covered grant for not less than 5 years.
+
+Definitions
+
+Accountability
+
+Audit requirement.—
+
+Definition
+
+Audits
+
+Mandatory exclusion
+
+Priority
+
+Reimbursement
+
+Nonprofit organization requirements.—
+
+Definition
+
+Prohibition
+
+Disclosure
+
+Conference expenditures.—
+
+Limitation
+
+Written approval
+
+Report.—
+
+Department of justice
+
+Department of health and human services
+
+Department of homeland security
+
+Annual certification
+
+Preventing Duplicative Grants.—
+
+In general
+
+Report
+
+## Source Credit
+
+*([Pub. L. 114–22, title I, § 117](https://www.govinfo.gov/link/plaw/114/public/22), May 29, 2015, [129 Stat. 245](https://www.govinfo.gov/link/statute/129/245).)*

@@ -3,9 +3,10 @@ title: "Section 5 - Default and deobligation; deferral"
 usc_title: 7
 usc_section: "5"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 5"
-generated_at: "2026-03-30T02:53:42.298Z"
+generated_at: "2026-11-23T21:25:28.015Z"
+status: "active"
 ---
 
 # § 950bb–5. Default and deobligation; deferral
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.298Z"
   - **(3)** award those funds, on a competitive basis, to new or existing applicants consistent with this subchapter; and
   - **(4)** minimize overlap among the programs.
 - **(b)** In determining the terms and conditions of assistance provided under this subchapter, the Secretary may establish a deferral period of not shorter than the buildout period established for the project involved in order to support the financial feasibility and long-term sustainability of the project.
+
+## Source Credit
+
+*(May 20, 1936, ch. 432, title VI, § 606, as added [Pub. L. 115–334, title VI, § 6206](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4739](https://www.govinfo.gov/link/statute/132/4739).)*

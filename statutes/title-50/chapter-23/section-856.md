@@ -3,12 +3,17 @@ title: "Section 856 - Continuing offense"
 usc_title: 50
 usc_section: "856"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 856"
-generated_at: "2026-03-30T02:56:26.202Z"
+generated_at: "2026-11-23T21:26:38.909Z"
+status: "active"
 ---
 
 # § 856. Continuing offense
 
 Failure to file a registration statement as required by this subchapter is a continuing offense for as long as such failure exists, notwithstanding any statute of limitation or other statute to the contrary.
 
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 849, § 7, [70 Stat. 900](https://www.govinfo.gov/link/statute/70/900).)*

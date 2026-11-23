@@ -3,9 +3,10 @@ title: "Section 8432a - Payment of lost earnings"
 usc_title: 5
 usc_section: "8432a"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8432a"
-generated_at: "2026-03-30T02:52:56.057Z"
+generated_at: "2026-11-23T21:25:23.422Z"
+status: "active"
 ---
 
 # § 8432a. Payment of lost earnings
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:52:56.057Z"
   - **(3)** may require an employing agency to reimburse the Thrift Savings Fund for costs incurred by the Thrift Savings Fund in implementing corrections of employing agency errors under this section; and
   - **(4)** may include such other provisions as the Executive Director determines appropriate to carry out this section.
 - **(c)** Any amounts required to be paid by an employing agency under this section shall be paid from the appropriation or fund available to the employing agency for payment of salaries of the participant’s office or establishment. If a participant in the legislative branch is paid by the Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may pay from the applicable accounts of the House of Representatives the amount required to be paid to correct errors relating to the Thrift Savings Fund that otherwise would be paid from the appropriation or fund used to pay the participant.
+
+## Source Credit
+
+*(Added [Pub. L. 101–335, § 2(a)(1)](https://www.govinfo.gov/link/plaw/101/public/335), July 17, 1990, [104 Stat. 319](https://www.govinfo.gov/link/statute/104/319); amended [Pub. L. 104–186, title II, § 215(17)](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1746](https://www.govinfo.gov/link/statute/110/1746).)*

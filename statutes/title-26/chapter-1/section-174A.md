@@ -3,9 +3,10 @@ title: "Section 174A - Domestic research or experimental expenditures"
 usc_title: 26
 usc_section: "174A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 174A"
-generated_at: "2026-03-30T02:55:27.648Z"
+generated_at: "2026-11-23T21:26:06.072Z"
+status: "active"
 ---
 
 # § 174A. Domestic research or experimental expenditures
@@ -21,3 +22,45 @@ generated_at: "2026-03-30T02:55:27.648Z"
   - **(1)** This section shall not apply to any expenditure for the acquisition or improvement of land, or for the acquisition or improvement of property to be used in connection with the research or experimentation and of a character which is subject to the allowance under section 167 (relating to allowance for depreciation, etc.) or section 611 (relating to allowance for depletion); but for purposes of this section allowances under section 167, and allowances under section 611, shall be considered as expenditures.
   - **(2)** This section shall not apply to any expenditure paid or incurred for the purpose of ascertaining the existence, location, extent, or quality of any deposit of ore or other mineral (including oil and gas).
   - **(3)** For purposes of this section, any amount paid or incurred in connection with the development of any software shall be treated as a research or experimental expenditure.
+
+Effective Date.—
+
+In general
+
+Treatment of foreign research or experimental expenditures upon disposition.—
+
+In general
+
+No inference
+
+Coordination with research credit
+
+No inference with respect to coordination with research credit for prior periods
+
+Transition Rules.—
+
+Election for retroactive application by certain small businesses.—
+
+In general
+
+Eligible taxpayer
+
+Election treated as change in method of accounting
+
+Election regarding coordination with research credit
+
+Election to deduct certain unamortized amounts paid or incurred in taxable years beginning before january 1, 2025 .—
+
+In general
+
+Change in method of accounting
+
+Regulations
+
+In general
+
+Special rules
+
+## Source Credit
+
+*(Added [Pub. L. 119–21, title VII, § 70302(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 190](https://www.govinfo.gov/link/statute/139/190).)*

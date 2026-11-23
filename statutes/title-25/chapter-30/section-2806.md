@@ -3,9 +3,10 @@ title: "Section 2806 - Jurisdiction"
 usc_title: 25
 usc_section: "2806"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2806"
-generated_at: "2026-03-30T02:54:52.844Z"
+generated_at: "2026-11-23T21:25:54.678Z"
+status: "active"
 ---
 
 # § 2806. Jurisdiction
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:52.844Z"
 - **(b)** In exercising the investigative authority conferred by this section, the employees of the Bureau shall cooperate with the law enforcement agency having primary investigative jurisdiction over the offense committed.
 - **(c)** This chapter does not invalidate or diminish any law enforcement commission or other delegation of authority issued under the authority of the Secretary before August 18, 1990 .
 - **(d)** The authority provided by this chapter is in addition to, and not in derogation of, any authority that existed before August 18, 1990 . The provisions of this chapter alter neither the civil or criminal jurisdiction of the United States, Indian tribes, States, or other political subdivisions or agencies, nor the law enforcement, investigative, or judicial authority of any Indian tribe, State, or political subdivision or agency thereof, or of any department, agency, court, or official of the United States other than the Secretary.
+
+## Source Credit
+
+*([Pub. L. 101–379, § 7](https://www.govinfo.gov/link/plaw/101/public/379), Aug. 18, 1990, [104 Stat. 476](https://www.govinfo.gov/link/statute/104/476).)*

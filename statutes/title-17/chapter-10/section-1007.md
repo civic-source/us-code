@@ -3,9 +3,10 @@ title: "Section 1007 - Procedures for distributing royalty payments"
 usc_title: 17
 usc_section: "1007"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 1007"
-generated_at: "2026-03-30T02:54:15.356Z"
+generated_at: "2026-11-23T21:25:41.733Z"
+status: "active"
 ---
 
 # § 1007. Procedures for distributing royalty payments
@@ -15,3 +16,17 @@ generated_at: "2026-03-30T02:54:15.356Z"
   - **(2)** Notwithstanding any provision of the antitrust laws, for purposes of this section interested copyright parties within each group specified in section 1006(b) may agree among themselves to the proportionate division of royalty payments, may lump their claims together and file them jointly or as a single claim, or may designate a common agent, including any organization described in section 1001(7)(D), to negotiate or receive payment on their behalf; except that no agreement under this subsection may modify the allocation of royalties specified in section 1006(b).
 - **(b)** After the period established for the filing of claims under subsection (a), in each year, the Copyright Royalty Judges shall determine whether there exists a controversy concerning the distribution of royalty payments under section 1006(c). If the Copyright Royalty Judges determine that no such controversy exists, the Copyright Royalty Judges shall, within 30 days after such determination, authorize the distribution of the royalty payments as set forth in the agreements regarding the distribution of royalty payments entered into pursuant to subsection (a). The Librarian of Congress shall, before such royalty payments are distributed, deduct the reasonable administrative costs incurred under this section.
 - **(c)** If the Copyright Royalty Judges find the existence of a controversy, the Copyright Royalty Judges shall, pursuant to chapter 8 of this title, conduct a proceeding to determine the distribution of royalty payments. During the pendency of such a proceeding, the Copyright Royalty Judges shall withhold from distribution an amount sufficient to satisfy all claims with respect to which a controversy exists, but shall, to the extent feasible, authorize the distribution of any amounts that are not in controversy. The Librarian of Congress shall, before such royalty payments are distributed, deduct the reasonable administrative costs incurred under this section.
+
+Filing of Claims and Negotiations.—
+
+Filing of claims
+
+Negotiations
+
+Distribution of Payments in the Absence of a Dispute
+
+Resolution of Disputes
+
+## Source Credit
+
+*(Added [Pub. L. 102–563, § 2](https://www.govinfo.gov/link/plaw/102/public/563), Oct. 28, 1992, [106 Stat. 4244](https://www.govinfo.gov/link/statute/106/4244); amended [Pub. L. 103–198, § 6(b)(4)](https://www.govinfo.gov/link/plaw/103/public/198), Dec. 17, 1993, [107 Stat. 2312](https://www.govinfo.gov/link/statute/107/2312); [Pub. L. 105–80](https://www.govinfo.gov/link/plaw/105/public/80), §§ 9, 12(a)(25), Nov. 13, 1997, [111 Stat. 1534](https://www.govinfo.gov/link/statute/111/1534), 1535; [Pub. L. 108–419, § 5(i)(3)](https://www.govinfo.gov/link/plaw/108/public/419), Nov. 30, 2004, [118 Stat. 2368](https://www.govinfo.gov/link/statute/118/2368); [Pub. L. 109–303, § 4(f)](https://www.govinfo.gov/link/plaw/109/public/303), Oct. 6, 2006, [120 Stat. 1483](https://www.govinfo.gov/link/statute/120/1483).)*

@@ -3,9 +3,10 @@ title: "Section 2704 - Insurance for emergency mortgage loans and advances"
 usc_title: 12
 usc_section: "2704"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2704"
-generated_at: "2026-03-30T02:53:53.487Z"
+generated_at: "2026-11-23T21:25:37.108Z"
+status: "active"
 ---
 
 # § 2704. Insurance for emergency mortgage loans and advances
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.487Z"
 - **(c)** The Secretary is authorized and empowered to waive compliance with any rule or regulation prescribed by the Secretary for the purposes of this section if, in the Secretary’s judgment, the enforcement of such rule or regulation would impose an injustice upon an insured lending institution which has substantially complied with such regulations in good faith. Any payment for loss made to an insured financial institution under this section shall be final and incontestable after two years from the date the claim was certified for payment by the Secretary, in the absence of fraud or misrepresentation on the part of such institution unless a demand for repurchase of the obligation shall have been made on behalf of the United States prior to the expiration of such two-year period. The Secretary is authorized to transfer to any financial institution approved for insurance under this chapter any insurance in connection with any loan which may be sold to it by another insured financial institution.
 - **(d)** The aggregate amount of loans and advances insured under this section and emergency mortgage relief payments made under section 2705 of this title shall not exceed $3,000,000,000.
 - **(e)** The Secretary shall establish underwriting guidelines or procedures to allocate amounts made available for loans and advances insured under this section and for emergency relief payments made under section 2705 of this title based on the likelihood that a mortgagor will be able to resume mortgage payments, pursuant to the requirement under section 2702(5) of this title .
+
+## Source Credit
+
+*([Pub. L. 94–50, title I, § 105](https://www.govinfo.gov/link/plaw/94/public/50), July 2, 1975, [89 Stat. 251](https://www.govinfo.gov/link/statute/89/251); [Pub. L. 111–203, title XIV, § 1496(b)(3)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2208](https://www.govinfo.gov/link/statute/124/2208).)*

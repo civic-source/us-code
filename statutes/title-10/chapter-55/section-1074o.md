@@ -3,9 +3,10 @@ title: "Section 1074o - Provision of hyperbaric oxygen therapy for certain membe
 usc_title: 10
 usc_section: "1074o"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1074o"
-generated_at: "2026-03-30T02:53:38.101Z"
+generated_at: "2026-11-23T21:25:32.400Z"
+status: "active"
 ---
 
 # § 1074o. Provision of hyperbaric oxygen therapy for certain members
@@ -14,3 +15,11 @@ generated_at: "2026-03-30T02:53:38.101Z"
 - **(b)** In this section, the term “covered member” means a member of the armed forces who is—
   - **(1)** serving on active duty; and
   - **(2)** diagnosed with post-traumatic stress disorder or traumatic brain injury.
+
+In General
+
+Covered Member Defined
+
+## Source Credit
+
+*(Added [Pub. L. 115–91, div. A, title VII, § 703(a)(1)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1435](https://www.govinfo.gov/link/statute/131/1435).)*

@@ -3,9 +3,10 @@ title: "Section 2008f - Crop insurance requirement"
 usc_title: 7
 usc_section: "2008f"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2008f"
-generated_at: "2026-03-30T02:53:42.355Z"
+generated_at: "2026-11-23T21:25:28.227Z"
+status: "active"
 ---
 
 # § 2008f. Crop insurance requirement
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:42.355Z"
   - **(1)** a farm ownership loan (FO) under section 1923 of this title ;
   - **(2)** an operating loan (OL) under section 1942 of this title ; and
   - **(3)** an emergency loan (EM) under section 1961 of this title .
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 371](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 103–354, title I, § 119(b)](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3208](https://www.govinfo.gov/link/statute/108/3208).)*

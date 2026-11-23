@@ -3,9 +3,10 @@ title: "Section 1649 - Certain limitations on liability"
 usc_title: 15
 usc_section: "1649"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1649"
-generated_at: "2026-03-30T02:54:08.144Z"
+generated_at: "2026-11-23T21:25:39.861Z"
+status: "active"
 ---
 
 # § 1649. Certain limitations on liability
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.144Z"
   - **(2)** any class action brought under this subchapter for which a final order certifying a class was entered before January 1, 1995 ;
   - **(3)** the named individual plaintiffs in any class action brought under this subchapter which was filed before June 1, 1995 ; or
   - **(4)** any consumer credit transaction with respect to which a timely notice of rescission was sent to the creditor before June 1, 1995 .
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 139](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 104–29, § 4(a)](https://www.govinfo.gov/link/plaw/104/public/29), Sept. 30, 1995, [109 Stat. 273](https://www.govinfo.gov/link/statute/109/273); amended [Pub. L. 104–208, div. A, title II, § 2107(a)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–402](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 111–203, title X, § 1100A(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2107](https://www.govinfo.gov/link/statute/124/2107).)*

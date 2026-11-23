@@ -3,9 +3,10 @@ title: "Section 6838 - Cost-effective codes implementation for efficiency and re
 usc_title: 42
 usc_section: "6838"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6838"
-generated_at: "2026-03-30T02:56:11.267Z"
+generated_at: "2026-11-23T21:26:32.982Z"
+status: "active"
 ---
 
 # § 6838. Cost-effective codes implementation for efficiency and resilience
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:56:11.267Z"
     - **(C)** water savings and other environmental impacts; and
     - **(D)** the economic impacts of energy codes.
 - **(e)** There is authorized to be appropriated to the Secretary to carry out this section $225,000,000 for the period of fiscal years 2022 through 2026.
+
+## Source Credit
+
+*([Pub. L. 94–385, title III, § 309](https://www.govinfo.gov/link/plaw/94/public/385), as added [Pub. L. 117–58, div. D, title V, § 40511(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1058](https://www.govinfo.gov/link/statute/135/1058).)*

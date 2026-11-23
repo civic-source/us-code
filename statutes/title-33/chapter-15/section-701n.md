@@ -3,9 +3,10 @@ title: "Section 701n - Emergency response to natural disasters"
 usc_title: 33
 usc_section: "701n"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 701n"
-generated_at: "2026-03-30T02:55:41.069Z"
+generated_at: "2026-11-23T21:26:11.330Z"
+status: "active"
 ---
 
 # § 701n. Emergency response to natural disasters
@@ -76,3 +77,89 @@ generated_at: "2026-03-30T02:55:41.069Z"
     - **(C)** there is an opportunity to decrease total life cycle rehabilitation costs for the project; and
   - **(2)** the non-Federal sponsor agrees to pay the difference between the cost of repair or restoration to the original design level or original capacity and the cost of achieving the higher level of protection or capacity sought by the non-Federal sponsor.
 - **(e)** The Secretary shall notify and consult with the non-Federal sponsor regarding the opportunity to request implementation of nonstructural alternatives to the repair or restoration of a flood control work under subsection (a).
+
+Cost and benefit feasibility assessment.—
+
+Consideration of benefits
+
+Special conditions.—
+
+Authority to carry out work
+
+(aa) the damage to the structure was not a result of negligent operation or maintenance; and
+
+(bb) repair of the project could benefit another Corps project.
+
+Treatment of payments and contributions
+
+Extended assistance
+
+Nonstructural alternatives defined
+
+Feasibility study.—
+
+Determination
+
+Recommendation
+
+In general
+
+Federal share
+
+Great lakes state defined
+
+“Notwithstanding a non-Federal flood control work’s status in the Rehabilitation and Inspection Program carried out pursuant to section 5 of the Act of August 18, 1941 ( 33 U.S.C. 701n ), any unconstructed emergency project for the non-Federal flood control work that was formulated during the five fiscal years preceding the fiscal year in which this Act was enacted [ Oct. 23, 2018 ] but that was determined to not produce benefits greater than costs shall remain eligible for assistance under such section 5 until the last day of the fifth fiscal year following the fiscal year in which this Act was enacted if—
+
+Definition of Guidelines
+
+Review
+
+Factors.—
+
+In general
+
+Variance considerations.—
+
+In general
+
+Scope
+
+Cooperation and Consultation; Recommendations.—
+
+In general
+
+Recommendations.—
+
+Regional integration teams
+
+State, tribal, regional, and local entities
+
+Independent Consultation.—
+
+In general
+
+Availability of views
+
+Revision of Guidelines.—
+
+In general
+
+Content; incorporation into manual
+
+Failure to meet deadlines
+
+Interim Actions.—
+
+In general
+
+Revisions
+
+Review
+
+Cooperation and consultation
+
+Revision of guidelines
+
+## Source Credit
+
+*(Aug. 18, 1941, ch. 377, § 5, [55 Stat. 650](https://www.govinfo.gov/link/statute/55/650); July 24, 1946, ch. 596, § 12, [60 Stat. 652](https://www.govinfo.gov/link/statute/60/652); July 26, 1947, ch. 343, title II, § 205(a), [61 Stat. 501](https://www.govinfo.gov/link/statute/61/501); June 30, 1948, ch. 771, title II, § 206, [62 Stat. 1182](https://www.govinfo.gov/link/statute/62/1182); May 17, 1950, ch. 188, title II, § 210, [64 Stat. 183](https://www.govinfo.gov/link/statute/64/183); June 28, 1955, ch. 194, [69 Stat. 186](https://www.govinfo.gov/link/statute/69/186); [Pub. L. 87–874, title II, § 206](https://www.govinfo.gov/link/plaw/87/public/874), Oct. 23, 1962, [76 Stat. 1194](https://www.govinfo.gov/link/statute/76/1194); [Pub. L. 93–251, title I, § 82](https://www.govinfo.gov/link/plaw/93/public/251), Mar. 7, 1974, [88 Stat. 34](https://www.govinfo.gov/link/statute/88/34); [Pub. L. 95–51, § 2](https://www.govinfo.gov/link/plaw/95/public/51), June 20, 1977, [91 Stat. 233](https://www.govinfo.gov/link/statute/91/233); [Pub. L. 99–662, title IX, § 917](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4192](https://www.govinfo.gov/link/statute/100/4192); [Pub. L. 100–45, § 9](https://www.govinfo.gov/link/plaw/100/public/45), May 27, 1987, [101 Stat. 323](https://www.govinfo.gov/link/statute/101/323); [Pub. L. 100–707, title I, § 109(m)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4709](https://www.govinfo.gov/link/statute/102/4709); [Pub. L. 101–640, title III, § 302](https://www.govinfo.gov/link/plaw/101/public/640), Nov. 28, 1990, [104 Stat. 4633](https://www.govinfo.gov/link/statute/104/4633); [Pub. L. 104–303, title II, § 202(e)](https://www.govinfo.gov/link/plaw/104/public/303), (f), Oct. 12, 1996, [110 Stat. 3675](https://www.govinfo.gov/link/statute/110/3675); [Pub. L. 113–121, title III, § 3029(a)](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1305](https://www.govinfo.gov/link/statute/128/1305); [Pub. L. 114–322, title I, § 1176](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1673](https://www.govinfo.gov/link/statute/130/1673); [Pub. L. 115–270, title I](https://www.govinfo.gov/link/plaw/115/public/270), §§ 1160, 1161(a), 1162, Oct. 23, 2018, [132 Stat. 3795](https://www.govinfo.gov/link/statute/132/3795), 3796; [Pub. L. 116–260, div. AA, title I, § 120](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2633](https://www.govinfo.gov/link/statute/134/2633); [Pub. L. 117–263, div. H, title LXXXI, § 8102(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3695](https://www.govinfo.gov/link/statute/136/3695); [Pub. L. 118–272, div. A, title I, § 1146(a)](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3036](https://www.govinfo.gov/link/statute/138/3036).)*

@@ -3,9 +3,10 @@ title: "Section 1059 - Corporate shareholder’s basis in stock reduced by nonta
 usc_title: 26
 usc_section: "1059"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1059"
-generated_at: "2026-03-30T02:55:27.757Z"
+generated_at: "2026-11-23T21:26:06.462Z"
+status: "active"
 ---
 
 # § 1059. Corporate shareholder’s basis in stock reduced by nontaxed portion of extraordinary dividends
@@ -93,3 +94,43 @@ generated_at: "2026-03-30T02:55:27.757Z"
 - **(g)** The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including regulations—
   - **(1)** providing for the application of this section in the case of stock dividends, stock splits, reorganizations, and other similar transactions, in the case of stock held by pass-thru entities, and in the case of consolidated groups, and
   - **(2)** providing that the rules of subsection (f) shall apply in the case of stock which is not preferred as to dividends in cases where stock is structured to avoid the purposes of this section.
+
+In general
+
+Special rule for computing extraordinary dividend
+
+Regulations
+
+In general
+
+Transition rule
+
+Certain dividends not pursuant to certain redemptions
+
+In general
+
+Binding contract
+
+In general
+
+Aggregation
+
+Redemptions
+
+In general
+
+Subsection
+
+Related person provisions.—
+
+In general
+
+Special rule for purposes of section 265(2)
+
+Treatment of renegotiations, etc
+
+Definition of term and demand loans
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title I, § 53(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 565](https://www.govinfo.gov/link/statute/98/565); amended [Pub. L. 99–514, title VI, § 614(a)](https://www.govinfo.gov/link/plaw/99/public/514) –(e), Oct. 22, 1986, [100 Stat. 2251–2253](https://www.govinfo.gov/link/statute/100/2251); [Pub. L. 100–647, title I, § 1006(c)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3393](https://www.govinfo.gov/link/statute/102/3393); [Pub. L. 101–239, title VII, § 7206(a)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2336](https://www.govinfo.gov/link/statute/103/2336); [Pub. L. 105–34, title X](https://www.govinfo.gov/link/plaw/105/public/34), §§ 1011(a)–(c), 1013(b), title XVI, § 1604(d)(1), Aug. 5, 1997, [111 Stat. 912](https://www.govinfo.gov/link/statute/111/912), 913, 918, 1098; [Pub. L. 105–206, title VI, § 6010(b)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 813](https://www.govinfo.gov/link/statute/112/813); [Pub. L. 113–295, div. A, title II, § 221(a)(41)(G)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4044](https://www.govinfo.gov/link/statute/128/4044); [Pub. L. 115–97, title I, § 14101(c)(2)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2191](https://www.govinfo.gov/link/statute/131/2191); [Pub. L. 115–141, div. U, title IV, § 401(a)(169)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1192](https://www.govinfo.gov/link/statute/132/1192).)*

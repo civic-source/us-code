@@ -3,9 +3,10 @@ title: "Section 1681s - Administrative enforcement"
 usc_title: 15
 usc_section: "1681s"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1681s"
-generated_at: "2026-03-30T02:54:08.152Z"
+generated_at: "2026-11-23T21:25:39.878Z"
+status: "active"
 ---
 
 # § 1681s. Administrative enforcement
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:54:08.152Z"
   - **(2)** The Commission, 3 3 So in original. Probably should be “Bureau,”. in consultation with the Federal Trade Commission, the Federal banking agencies, and the National Credit Union Administration, shall develop a model form and model procedures to be used by consumers who are victims of identity theft for contacting and informing creditors and consumer reporting agencies of the fraud.
   - **(3)** Each consumer reporting agency described in section 1681a(p) of this title shall submit an annual summary report to the Bureau on consumer complaints received by the agency on identity theft or fraud alerts.
 - **(g)** If the Bureau determines that a person described in paragraph (9) of section 1681s–2(a) of this title has not met the requirements of such paragraph, the Bureau shall take action to ensure the person’s compliance with such paragraph, which may include issuing model guidance or prescribing reasonable policies and procedures, as necessary to ensure that such person complies with such paragraph.
+
+## Source Credit
+
+*([Pub. L. 90–321, title VI, § 621](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 91–508, title VI, § 601](https://www.govinfo.gov/link/plaw/91/public/508), Oct. 26, 1970, [84 Stat. 1134](https://www.govinfo.gov/link/statute/84/1134); amended [Pub. L. 98–443, § 9(n)](https://www.govinfo.gov/link/plaw/98/public/443), Oct. 4, 1984, [98 Stat. 1708](https://www.govinfo.gov/link/statute/98/1708); [Pub. L. 101–73, title VII, § 744](https://www.govinfo.gov/link/plaw/101/public/73) (l), Aug. 9, 1989, [103 Stat. 439](https://www.govinfo.gov/link/statute/103/439); [Pub. L. 102–242, title II, § 212(c)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2300](https://www.govinfo.gov/link/statute/105/2300); [Pub. L. 102–550, title XVI, § 1604(a)(6)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4082](https://www.govinfo.gov/link/statute/106/4082); [Pub. L. 104–88, title III, § 314](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 948](https://www.govinfo.gov/link/statute/109/948); [Pub. L. 104–208, div. A, title II](https://www.govinfo.gov/link/plaw/104/public/208), §§ 2416–2418, Sept. 30, 1996, [110 Stat. 3009–450](https://www.govinfo.gov/link/statute/110/3009) to 3009–452; [Pub. L. 105–347, § 6(6)](https://www.govinfo.gov/link/plaw/105/public/347), Nov. 2, 1998, [112 Stat. 3211](https://www.govinfo.gov/link/statute/112/3211); [Pub. L. 106–102, title V, § 506(a)](https://www.govinfo.gov/link/plaw/106/public/102), (b), Nov. 12, 1999, [113 Stat. 1441](https://www.govinfo.gov/link/statute/113/1441), 1442; [Pub. L. 108–159, title I, § 153](https://www.govinfo.gov/link/plaw/108/public/159), title III, § 312(e)(2), title IV, § 412(e), title VIII, § 811(f), Dec. 4, 2003, [117 Stat. 1966](https://www.govinfo.gov/link/statute/117/1966), 1993, 2003, 2012; [Pub. L. 111–203, title X, § 1088(a)(2)(A)](https://www.govinfo.gov/link/plaw/111/public/203) –(C), (10), July 21, 2010, [124 Stat. 2087](https://www.govinfo.gov/link/statute/124/2087), 2088.)*

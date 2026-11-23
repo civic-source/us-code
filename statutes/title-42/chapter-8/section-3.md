@@ -3,9 +3,10 @@ title: "Section 3 - Applicability of requirements under programs for covered hou
 usc_title: 42
 usc_section: "3"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T02:56:11.091Z"
+generated_at: "2026-11-23T21:26:32.040Z"
+status: "active"
 ---
 
 # § 1437bbb–3. Applicability of requirements under programs for covered housing assistance
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.091Z"
 - **(b)** In carrying out the demonstration program under this subchapter, each participating jurisdiction shall assist substantially the same total number of eligible low-income families as would have otherwise been served by the public housing agency for the jurisdiction had the jurisdiction not participated in the demonstration program under this subchapter.
 - **(c)** This subchapter may not be construed to authorize the termination of assistance to any recipient receiving assistance under this chapter before October 21, 1998 , as a result of the implementation of the demonstration program under this subchapter.
 - **(d)** This subchapter may not be construed to affect the ability of any applying or participating jurisdiction (or a public housing agency for any such jurisdiction) to compete or otherwise apply for or receive assistance under any other housing assistance program administered by the Secretary.
+
+## Source Credit
+
+*(Sept. 1, 1937, ch. 896, title IV, § 404, as added [Pub. L. 105–276, title V, § 561](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2619](https://www.govinfo.gov/link/statute/112/2619).)*

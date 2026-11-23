@@ -3,9 +3,10 @@ title: "Section 5905 - Comprehensive planning and programming"
 usc_title: 42
 usc_section: "5905"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5905"
-generated_at: "2026-03-30T02:56:11.240Z"
+generated_at: "2026-11-23T21:26:32.838Z"
+status: "active"
 ---
 
 # § 5905. Comprehensive planning and programming
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:11.240Z"
     - **(Q)** to implement the Renewable Energy and Energy Efficiency Technology Competitiveness Act of 1989 ( 42 U.S.C. 12001 et seq.); and
     - **(R)** to implement titles XX through XXIII of the Energy Policy Act of 1992 [ 42 U.S.C. 13401 et seq., 13451 et seq., 13501 et seq., 13521 et seq.].
 - **(c)** Based upon the comprehensive plan developed under subsection (a), the Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992 [ 42 U.S.C. 13522 ], shall develop and transmit to the Congress, on or before September 1, 1978 , a comprehensive environment and safety program to insure the full consideration and evaluation of all environmental, health, and safety impacts of each element, program, or initiative contained in the nuclear and nonnuclear energy research, development, and demonstration plans. Such program shall be updated and transmitted to the Congress annually as part of the report required under section 5914 1 of this title.
+
+## Source Credit
+
+*([Pub. L. 93–577, § 6](https://www.govinfo.gov/link/plaw/93/public/577), Dec. 31, 1974, [88 Stat. 1881](https://www.govinfo.gov/link/statute/88/1881); [Pub. L. 95–238, title II, § 206(a)](https://www.govinfo.gov/link/plaw/95/public/238), Feb. 25, 1978, [92 Stat. 61](https://www.govinfo.gov/link/statute/92/61); [Pub. L. 102–486, title XXIII, § 2303(a)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3092](https://www.govinfo.gov/link/statute/106/3092); [Pub. L. 109–58, title X, § 1009(b)(4)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 935](https://www.govinfo.gov/link/statute/119/935); [Pub. L. 116–260, div. Z, title III, § 3006(d)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2513](https://www.govinfo.gov/link/statute/134/2513).)*

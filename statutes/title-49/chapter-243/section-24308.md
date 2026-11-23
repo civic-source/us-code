@@ -3,9 +3,10 @@ title: "Section 24308 - Use of facilities and providing services to Amtrak"
 usc_title: 49
 usc_section: "24308"
 chapter: 243
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 24308"
-generated_at: "2026-03-30T02:56:19.344Z"
+generated_at: "2026-11-23T21:26:40.737Z"
+status: "active"
 ---
 
 # § 24308. Use of facilities and providing services to Amtrak
@@ -36,3 +37,151 @@ generated_at: "2026-03-30T02:56:19.344Z"
     - **(A)** the extent to which Amtrak suffers financial loss as a result of host rail carrier delays or failure to achieve minimum standards; and
     - **(B)** what reasonable measures would adequately deter future actions which may reasonably be expected to be likely to result in delays to Amtrak on the route involved.
   - **(4)** The Board shall, as it deems appropriate, order the host rail carrier to remit the damages awarded under this subsection to Amtrak or to an entity for which Amtrak operates intercity passenger rail service. Such damages shall be used for capital or operating expenditures on the routes over which delays or failures to achieve minimum standards were the result of a rail carrier’s failure to provide preference to Amtrak over freight transportation as determined in accordance with paragraph (2).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 24308(a)(1)– (3) | 45:562(a)(1). | Oct. 30, 1970 , Pub. L. 91–518, § 402(a)(1) , 84 Stat. 1335 ; June 22, 1972 , Pub. L. 92–316, § 5(1) , 86 Stat. 229 ; Nov. 3, 1973 , Pub. L. 93–146, § 10(1) , 87 Stat. 552 ; Oct. 5, 1978 , Pub. L. 95–421, § 15 , 92 Stat. 929 ; Aug. 13, 1981 , Pub. L. 97–35, § 1181 , 95 Stat. 693 ; Apr. 7, 1986 , Pub. L. 99–272, § 4017(b)(1) , 100 Stat. 110 . |
+| 24308(a)(4) | 45:562 (note). | July 11, 1987 , Pub. L. 100–71 (last proviso under heading “Grants to the National Railroad Passenger Corporation”), 101 Stat. 447 . |
+| 24308(b) | 45:562(c). | Oct. 30, 1970 , Pub. L. 91–518 , 84 Stat. 1327 , § 402(c); added June 22, 1972 , Pub. L. 92–316, § 5(2) , 86 Stat. 229 . |
+| 24308(c) | 45:562(e). | Oct. 30, 1970 , Pub. L. 91–518 , 84 Stat. 1327 , § 402(e); added Nov. 3, 1973 , Pub. L. 93–146, § 10(2) , 87 Stat. 552 ; Aug. 13, 1981 , Pub. L. 97–35, § 1188(c) , 95 Stat. 699 . |
+| 24308(d) | 45:562(f). | Oct. 30, 1970 , Pub. L. 91–518 , 84 Stat. 1327 , § 402(f); added Nov. 3, 1973 , Pub. L. 93–146, § 10(2) , 87 Stat. 552 . |
+| 24308(e) | 45:562(g). | Oct. 30, 1970 , Pub. L. 91–518 , 84 Stat. 1327 , § 402(g); added May 30, 1980 , Pub. L. 96–254, § 216 , 94 Stat. 418 ; Apr. 7, 1986 , Pub. L. 99–272, § 4006(2) , 100 Stat. 107 . |
+
+
+General Authority
+
+Operating During Emergencies
+
+Preference Over Freight Transportation
+
+Accelerated Speeds
+
+Additional Trains
+
+Passenger Train Performance and Other Standards.—
+
+Investigation of substandard performance
+
+Problems caused by host rail carrier
+
+Damages and relief
+
+Use of damages
+
+Historical and Revision Notes
+
+Oct. 30, 1970
+
+Pub. L. 91–518, § 402(a)(1)
+
+84 Stat. 1335
+
+June 22, 1972
+
+Pub. L. 92–316, § 5(1)
+
+86 Stat. 229
+
+Nov. 3, 1973
+
+Pub. L. 93–146, § 10(1)
+
+87 Stat. 552
+
+Oct. 5, 1978
+
+Pub. L. 95–421, § 15
+
+92 Stat. 929
+
+Aug. 13, 1981
+
+Pub. L. 97–35, § 1181
+
+95 Stat. 693
+
+Apr. 7, 1986
+
+Pub. L. 99–272, § 4017(b)(1)
+
+100 Stat. 110
+
+24308(a)(4)
+
+July 11, 1987
+
+Pub. L. 100–71
+
+101 Stat. 447
+
+24308(b)
+
+Oct. 30, 1970
+
+Pub. L. 91–518
+
+84 Stat. 1327
+
+June 22, 1972
+
+Pub. L. 92–316, § 5(2)
+
+86 Stat. 229
+
+24308(c)
+
+Oct. 30, 1970
+
+Pub. L. 91–518
+
+84 Stat. 1327
+
+Nov. 3, 1973
+
+Pub. L. 93–146, § 10(2)
+
+87 Stat. 552
+
+Aug. 13, 1981
+
+Pub. L. 97–35, § 1188(c)
+
+95 Stat. 699
+
+24308(d)
+
+Oct. 30, 1970
+
+Pub. L. 91–518
+
+84 Stat. 1327
+
+Nov. 3, 1973
+
+Pub. L. 93–146, § 10(2)
+
+87 Stat. 552
+
+24308(e)
+
+Oct. 30, 1970
+
+Pub. L. 91–518
+
+84 Stat. 1327
+
+May 30, 1980
+
+Pub. L. 96–254, § 216
+
+94 Stat. 418
+
+Apr. 7, 1986
+
+Pub. L. 99–272, § 4006(2)
+
+100 Stat. 107
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 911](https://www.govinfo.gov/link/statute/108/911); 110–432, div. B, title II, § 213(a), (d), Oct. 16, 2008, [122 Stat. 4925](https://www.govinfo.gov/link/statute/122/4925), 4926.)*

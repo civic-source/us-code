@@ -3,9 +3,10 @@ title: "Section 2041 - House of Representatives restaurant, cafeteria, and food 
 usc_title: 2
 usc_section: "2041"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 2041"
-generated_at: "2026-03-30T02:53:04.823Z"
+generated_at: "2026-11-23T21:25:21.273Z"
+status: "active"
 ---
 
 # § 2041. House of Representatives restaurant, cafeteria, and food services
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:04.823Z"
 - **(b)** The Architect of the Capitol is hereby authorized and directed to transfer, as the Committee on House Oversight directs, all accounts, records, supplies, equipment, and assets of the House Restaurant and the cafeteria and other food service facilities of the House which are in the possession or under the control of the Architect of the Capitol in order that all such items may be available for the maintenance and operation of the House Restaurant under the authority of, and as directed by, the Committee on House Oversight.
 - **(c)** All authority, responsibility, and functions vested in or imposed upon the Architect of the Capitol in connection with the special deposit account established by section 208 of the First Supplemental Civil Functions Appropriation Act, 1941, shall be vested in or imposed upon such other official, authority, or authorities as the Committee on House Oversight may designate.
 - **(d)** The provisions of this section shall become effective on the first day of the first calendar month beginning after the date of adoption of this resolution, until otherwise provided by law.
+
+## Source Credit
+
+*([Pub. L. 92–51](https://www.govinfo.gov/link/plaw/92/public/51), July 9, 1971, [85 Stat. 133](https://www.govinfo.gov/link/statute/85/133); [Pub. L. 104–186, title II, § 221(3)(A)](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1748](https://www.govinfo.gov/link/statute/110/1748).)*

@@ -3,9 +3,10 @@ title: "Section 142 - Chief Information Officer"
 usc_title: 10
 usc_section: "142"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 142"
-generated_at: "2026-03-30T02:53:38.037Z"
+generated_at: "2026-11-23T21:25:32.223Z"
+status: "active"
 ---
 
 # § 142. Chief Information Officer
@@ -36,3 +37,13 @@ generated_at: "2026-03-30T02:53:38.037Z"
   - **(4)** The Chief Information Officer shall perform such additional duties and exercise such powers as the Secretary of Defense may prescribe.
 - **(c)** The Chief Information Officer takes precedence in the Department of Defense with the officials serving in positions specified in section 131(b)(4) of this title . The officials serving in positions specified in section 131(b)(4) and the Chief Information Officer of the Department of Defense take precedence among themselves in the order prescribed by the Secretary of Defense.
 - **(d)** The Chief Information Officer of the Department of Defense shall report directly to the Secretary of Defense in the performance of duties under this section.
+
+Cryptographic Modernization Schedules Required
+
+Requirements for Chief Information Officer
+
+Annual Notices
+
+## Source Credit
+
+*(Added and amended [Pub. L. 113–291, div. A, title IX, § 901(b)(1)](https://www.govinfo.gov/link/plaw/113/public/291), (j)(1)(B), Dec. 19, 2014, [128 Stat. 3463](https://www.govinfo.gov/link/statute/128/3463), 3467; [Pub. L. 114–328, div. A, title IX, § 902(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2343](https://www.govinfo.gov/link/statute/130/2343); [Pub. L. 115–91, div. A, title IX, § 909(a)](https://www.govinfo.gov/link/plaw/115/public/91) –(d), title X, § 1081(b)(1)(A), Dec. 12, 2017, [131 Stat. 1514](https://www.govinfo.gov/link/statute/131/1514), 1515, 1597; [Pub. L. 115–232, div. A, title IX, § 903](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1922](https://www.govinfo.gov/link/statute/132/1922); [Pub. L. 116–92, div. A, title IX, § 903(a)(1)](https://www.govinfo.gov/link/plaw/116/public/92), title XVI, § 1662(b), Dec. 20, 2019, [133 Stat. 1555](https://www.govinfo.gov/link/statute/133/1555), 1772; [Pub. L. 116–283, div. A, title X, § 1081(a)(9)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3871](https://www.govinfo.gov/link/statute/134/3871); [Pub. L. 117–81, div. A, title XV, § 1523](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2042](https://www.govinfo.gov/link/statute/135/2042).)*

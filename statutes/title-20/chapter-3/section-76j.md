@@ -3,9 +3,10 @@ title: "Section 76j - Duties of Board"
 usc_title: 20
 usc_section: "76j"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 76j"
-generated_at: "2026-03-30T02:54:48.073Z"
+generated_at: "2026-11-23T21:25:46.920Z"
+status: "active"
 ---
 
 # § 76j. Duties of Board
@@ -42,3 +43,35 @@ generated_at: "2026-03-30T02:54:48.073Z"
     - **(B)** any plaque on a theater chair or a theater box acknowledging the gift of such chair or box; and
     - **(C)** any inscription on the marble walls in the north or south galleries, the Hall of States, or the Hall of Nations acknowledging a major contribution;
   - **(3)** For purposes of this subsection, testimonials and benefit performances shall not be construed to be memorials.
+
+Sense of Congress
+
+Authorization for Plaque.—
+
+In general
+
+Specifications
+
+Funding.—
+
+In general
+
+Exception
+
+Private fundraising authorized.—
+
+In general
+
+Accounting
+
+Study
+
+Report
+
+Authorization of appropriations
+
+Applicability of title 23, united states code
+
+## Source Credit
+
+*([Pub. L. 85–874, § 4](https://www.govinfo.gov/link/plaw/85/public/874), Sept. 2, 1958, [72 Stat. 1699](https://www.govinfo.gov/link/statute/72/1699); [Pub. L. 88–260, § 1(3)](https://www.govinfo.gov/link/plaw/88/public/260), Jan. 23, 1964, [78 Stat. 4](https://www.govinfo.gov/link/statute/78/4); [Pub. L. 98–205, § 4](https://www.govinfo.gov/link/plaw/98/public/205), Dec. 2, 1983, [97 Stat. 1388](https://www.govinfo.gov/link/statute/97/1388); [Pub. L. 103–279, § 3](https://www.govinfo.gov/link/plaw/103/public/279), July 21, 1994, [108 Stat. 1411](https://www.govinfo.gov/link/statute/108/1411); [Pub. L. 105–95, § 3(a)](https://www.govinfo.gov/link/plaw/105/public/95), Nov. 19, 1997, [111 Stat. 2149](https://www.govinfo.gov/link/statute/111/2149); [Pub. L. 105–226](https://www.govinfo.gov/link/plaw/105/public/226), §§ 2, 3, Aug. 12, 1998, [112 Stat. 1513](https://www.govinfo.gov/link/statute/112/1513); [Pub. L. 107–224, § 4(a)](https://www.govinfo.gov/link/plaw/107/public/224), Sept. 18, 2002, [116 Stat. 1343](https://www.govinfo.gov/link/statute/116/1343).)*

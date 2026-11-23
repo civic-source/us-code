@@ -3,9 +3,10 @@ title: "Section 970 - Protection of property occupied by foreign governments"
 usc_title: 18
 usc_section: "970"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 970"
-generated_at: "2026-03-30T02:54:16.476Z"
+generated_at: "2026-11-23T21:25:44.022Z"
+status: "active"
 ---
 
 # § 970. Protection of property occupied by foreign governments
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:16.476Z"
     - **(C)** by an official guest or any member of the official guest’s staff who is authorized by the official guest to make such request; or
     - **(D)** by any person present having law enforcement powers;
 - **(c)** For the purpose of this section “foreign government”, “foreign official”, “international organization”, and “official guest” shall have the same meanings as those provided in section 1116(b) of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 92–539, title IV, § 401](https://www.govinfo.gov/link/plaw/92/public/539), Oct. 24, 1972, [86 Stat. 1073](https://www.govinfo.gov/link/statute/86/1073); amended [Pub. L. 94–467, § 7](https://www.govinfo.gov/link/plaw/94/public/467), Oct. 8, 1976, [90 Stat. 2000](https://www.govinfo.gov/link/statute/90/2000); [Pub. L. 103–322, title XXXIII, § 330016(1)(L)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2147](https://www.govinfo.gov/link/statute/108/2147); [Pub. L. 104–294, title VI, § 601(a)(2)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3498](https://www.govinfo.gov/link/statute/110/3498).)*

@@ -3,9 +3,10 @@ title: "Section 3501 - Definitions"
 usc_title: 19
 usc_section: "3501"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 3501"
-generated_at: "2026-03-30T02:54:24.690Z"
+generated_at: "2026-11-23T21:25:42.838Z"
+status: "active"
 ---
 
 # § 3501. Definitions
@@ -24,3 +25,7 @@ For purposes of this Act:
   - **(8)** The terms “World Trade Organization” and “WTO” mean the organization established pursuant to the WTO Agreement.
   - **(9)** The term “WTO Agreement” means the Agreement Establishing the World Trade Organization entered into on April 15, 1994 .
   - **(10)** The terms “WTO member” and “WTO member country” mean a state, or separate customs territory (within the meaning of Article XII of the WTO Agreement), with respect to which the United States applies the WTO Agreement.
+
+## Source Credit
+
+*([Pub. L. 103–465, § 2](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4813](https://www.govinfo.gov/link/statute/108/4813).)*

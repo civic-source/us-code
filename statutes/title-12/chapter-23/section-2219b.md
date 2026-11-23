@@ -3,9 +3,10 @@ title: "Section 2219b - Application of uninsured accounts"
 usc_title: 12
 usc_section: "2219b"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2219b"
-generated_at: "2026-03-30T02:53:53.476Z"
+generated_at: "2026-11-23T21:25:37.062Z"
+status: "active"
 ---
 
 # § 2219b. Application of uninsured accounts
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:53.476Z"
 - **(b)** The Farm Credit Administration shall promulgate regulations—
   - **(1)** that define the term “uninsured voluntary or involuntary account”; and
   - **(2)** to otherwise effectively carry out this section.
+
+## Source Credit
+
+*([Pub. L. 92–181, title IV, § 4](https://www.govinfo.gov/link/plaw/92/public/181).37, as added [Pub. L. 100–233, title I, § 110](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1585](https://www.govinfo.gov/link/statute/101/1585).)*

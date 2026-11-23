@@ -3,9 +3,10 @@ title: "Section 2901 - Congressional findings and declaration of policy"
 usc_title: 7
 usc_section: "2901"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2901"
-generated_at: "2026-03-30T02:53:42.392Z"
+generated_at: "2026-11-23T21:25:28.307Z"
+status: "active"
 ---
 
 # § 2901. Congressional findings and declaration of policy
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.392Z"
   - **(5)** there exist established State and national organizations conducting beef promotion, research, and consumer education programs that are invaluable to the efforts of promoting the consumption of beef and beef products; and
   - **(6)** beef and beef products move in interstate and foreign commerce, and beef and beef products that do not move in such channels of commerce directly burden or affect interstate commerce of beef and beef products.
 - **(b)** It, therefore, is declared to be the policy of Congress that it is in the public interest to authorize the establishment, through the exercise of the powers provided herein, of an orderly procedure for financing (through assessments on all cattle sold in the United States and on cattle, beef, and beef products imported into the United States) and carrying out a coordinated program of promotion and research designed to strengthen the beef industry’s position in the marketplace and to maintain and expand domestic and foreign markets and uses for beef and beef products. Nothing in this chapter shall be construed to limit the right of individual producers to raise cattle.
+
+## Source Credit
+
+*([Pub. L. 94–294, § 2](https://www.govinfo.gov/link/plaw/94/public/294), May 28, 1976, [90 Stat. 529](https://www.govinfo.gov/link/statute/90/529); [Pub. L. 99–198, title XVI, § 1601(b)](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1597](https://www.govinfo.gov/link/statute/99/1597).)*

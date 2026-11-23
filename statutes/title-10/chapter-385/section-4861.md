@@ -3,9 +3,10 @@ title: "Section 4861 - Determinations of public interest under chapter 83 of tit
 usc_title: 10
 usc_section: "4861"
 chapter: 385
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4861"
-generated_at: "2026-03-30T02:53:38.212Z"
+generated_at: "2026-11-23T21:25:32.794Z"
+status: "active"
 ---
 
 # § 4861. Determinations of public interest under chapter 83 of title 41
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:38.212Z"
 - **(b)** In this section, the term “goods which are other than American goods” means—
   - **(1)** an end product that is not mined, produced, or manufactured in the United States; or
   - **(2)** an end product that is manufactured in the United States but which includes components mined, produced, or manufactured outside the United States the aggregate cost of which exceeds the aggregate cost of the components of such end product that are mined, produced, or manufactured in the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 100–370, § 3(a)(1)](https://www.govinfo.gov/link/plaw/100/public/370), July 19, 1988, [102 Stat. 855](https://www.govinfo.gov/link/statute/102/855), § 2501; renumbered § 2506, [Pub. L. 100–456, div. A, title VIII, § 821(b)(1)(A)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 2014](https://www.govinfo.gov/link/statute/102/2014); renumbered § 2533, [Pub. L. 102–484, div. D, title XLII, § 4202(a)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2659](https://www.govinfo.gov/link/statute/106/2659); amended [Pub. L. 103–337, div. A, title VIII, § 812(a)](https://www.govinfo.gov/link/plaw/103/public/337), (b)(1), Oct. 5, 1994, [108 Stat. 2815](https://www.govinfo.gov/link/statute/108/2815), 2816; [Pub. L. 104–106, div. D, title XLIII, § 4321(b)(20)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 673](https://www.govinfo.gov/link/statute/110/673); [Pub. L. 105–85, div. A, title X, § 1073(a)(54)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1903](https://www.govinfo.gov/link/statute/111/1903); [Pub. L. 111–350, § 5(b)(37)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3845](https://www.govinfo.gov/link/statute/124/3845); [Pub. L. 113–291, div. A, title X, § 1071(a)(9)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3505](https://www.govinfo.gov/link/statute/128/3505); renumbered § 4861, [Pub. L. 116–283, div. A, title XVIII, § 1870(c)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4285](https://www.govinfo.gov/link/statute/134/4285).)*

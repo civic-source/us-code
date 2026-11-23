@@ -3,9 +3,10 @@ title: "Section 14 - Outreach efforts to increase awareness of the availability 
 usc_title: 42
 usc_section: "14"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 14"
-generated_at: "2026-03-30T02:56:10.918Z"
+generated_at: "2026-11-23T21:26:31.284Z"
+status: "active"
 ---
 
 # § 1320b–14. Outreach efforts to increase awareness of the availability of medicare cost-sharing and subsidies for low-income individuals under subchapter XVIII
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:56:10.918Z"
       - **(ii)** on States and the Social Security Administration.
     - **(B)** Not later than January 1, 2012 , the Comptroller General shall submit to Congress, the Commissioner, and the Secretary a report on the analysis conducted under subparagraph (A).
   - **(7)** For purposes of this subsection, the term “Medicare Savings Program” means the program of medical assistance for payment of the cost of medicare cost-sharing under the Medicaid program pursuant to sections 1396a(a)(10)(E) and 1396u–3 of this title.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XI, § 1144, as added [Pub. L. 106–554, § 1(a)(6) [title IX, § 911(a)(1)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–583; amended [Pub. L. 108–173, title I, § 103(g)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2160](https://www.govinfo.gov/link/statute/117/2160); [Pub. L. 110–275, title I, § 113(a)](https://www.govinfo.gov/link/plaw/110/public/275), July 15, 2008, [122 Stat. 2503](https://www.govinfo.gov/link/statute/122/2503).)*

@@ -3,9 +3,10 @@ title: "Section 8860 - Duties of prize commissioners"
 usc_title: 10
 usc_section: "8860"
 chapter: 883
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 8860"
-generated_at: "2026-03-30T02:53:38.252Z"
+generated_at: "2026-11-23T21:25:32.960Z"
+status: "active"
 ---
 
 # § 8860. Duties of prize commissioners
@@ -26,3 +27,18 @@ One or more of the prize commissioners shall—
     - **(C)** the evidence taken de bene esse; and
     - **(D)** their inventory of the prize property; and
   - **(10)** report to the Secretary of the Navy, if, in their judgment, any of the prize property is useful to the United States in the prosecution of war.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 7660 | 34 U.S.C. 1138 (less applicability to procedure for interrogating witnesses). | R.S. 4622 (less applicability to procedure for interrogating witnesses). |
+
+
+Historical and Revision Notes
+
+7660
+
+34 U.S.C. 1138
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 477, § 7660; renumbered § 8860 and amended [Pub. L. 115–232, div. A, title VIII](https://www.govinfo.gov/link/plaw/115/public/232), §§ 807(d)(9), 809(a), Aug. 13, 2018, [132 Stat. 1837](https://www.govinfo.gov/link/statute/132/1837), 1840.)*

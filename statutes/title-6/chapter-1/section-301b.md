@@ -3,9 +3,10 @@ title: "Section 301b - Current and proposed agreements"
 usc_title: 6
 usc_section: "301b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 301b"
-generated_at: "2026-03-30T02:53:09.456Z"
+generated_at: "2026-11-23T21:25:25.776Z"
+status: "active"
 ---
 
 # § 301b. Current and proposed agreements
@@ -14,3 +15,7 @@ Nothing in this part or in section 4 of the Cross-Border Trade Enhancement Act o
 
   - **(1)** any agreement entered into pursuant to section 560 of division D of the Consolidated and Further Continuing Appropriations Act, 2013 ( Public Law 113–6 ) or section 559 of title V of division F of the Consolidated Appropriations Act, 2014 ( 6 U.S.C. 211 note; Public Law 113–76 ), as in existence on the day before December 16, 2016 , and any such agreement shall continue to have full force and effect on and after such date; or
   - **(2)** a proposal accepted for consideration by U.S. Customs and Border Protection pursuant to such section 559, as in existence on the day before December 16, 2016 .
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 483](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 114–279, § 2(a)](https://www.govinfo.gov/link/plaw/114/public/279), Dec. 16, 2016, [130 Stat. 1421](https://www.govinfo.gov/link/statute/130/1421).)*

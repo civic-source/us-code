@@ -3,9 +3,10 @@ title: "Section 15042 - Allotments and payments"
 usc_title: 42
 usc_section: "15042"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15042"
-generated_at: "2026-03-30T02:56:11.457Z"
+generated_at: "2026-11-23T21:26:33.659Z"
+status: "active"
 ---
 
 # § 15042. Allotments and payments
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:11.457Z"
     - **(B)** provide a grant in accordance with section 15043(b) of this title , and in an amount described in paragraph (2)(A)(i), to an American Indian consortium to provide protection and advocacy services.
 - **(b)** Notwithstanding any other provision of law, the Secretary shall pay directly to any system in a State that complies with the provisions of this part the amount of the allotment made for the State under this section, unless the system specifies otherwise.
 - **(c)** Any amount paid to a system under this part for a fiscal year and remaining unobligated at the end of such year shall remain available to such system for the next fiscal year, for the purposes for which such amount was paid.
+
+## Source Credit
+
+*([Pub. L. 106–402, title I, § 142](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1712](https://www.govinfo.gov/link/statute/114/1712).)*

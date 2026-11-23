@@ -3,9 +3,10 @@ title: "Section 5a - Sobriety treatment and recovery teams"
 usc_title: 42
 usc_section: "5a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5a"
-generated_at: "2026-03-30T02:56:10.767Z"
+generated_at: "2026-11-23T21:26:30.596Z"
+status: "active"
 ---
 
 # § 290ee–5a. Sobriety treatment and recovery teams
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:10.767Z"
     - **(B)** substance use disorder was a reason for the record or finding described in paragraph (1); 1 1 So in original. Probably should be “subparagraph (A)”. and
   - **(2)** coordinate any grants awarded under this section with any grant awarded under section 629g(f) of this title focused on improving outcomes for children affected by substance abuse.
 - **(d)** The Secretary may reserve not more than 5 percent of funds provided under this section to provide technical assistance on the establishment or expansion of programs funded under this section from the National Center on Substance Abuse and Child Welfare.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title V, § 550A, formerly § 550, as added [Pub. L. 115–271, title VIII, § 8214](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 4116](https://www.govinfo.gov/link/statute/132/4116); renumbered § 550A, [Pub. L. 117–328, div. FF, title I, § 1237](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5677](https://www.govinfo.gov/link/statute/136/5677).)*

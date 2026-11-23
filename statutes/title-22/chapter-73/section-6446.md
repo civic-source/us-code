@@ -3,9 +3,10 @@ title: "Section 6446 - Effects on existing contracts"
 usc_title: 22
 usc_section: "6446"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6446"
-generated_at: "2026-03-30T02:55:05.429Z"
+generated_at: "2026-11-23T21:25:58.690Z"
+status: "active"
 ---
 
 # § 6446. Effects on existing contracts
@@ -17,3 +18,7 @@ The President shall not be required to apply or maintain any Presidential action
     - **(B)** if the President determines in writing and so reports to Congress that the person or other entity to which the Presidential action would otherwise be applied is a sole source supplier of the defense articles or services, that the defense articles or services are essential, and that alternative sources are not readily or reasonably available; or
     - **(C)** if the President determines in writing and so reports to Congress that such articles or services are essential to the national security under defense coproduction agreements; or
   - **(2)** to products or services provided under contracts entered into before the date on which the President publishes his intention to take the Presidential action.
+
+## Source Credit
+
+*([Pub. L. 105–292, title IV, § 406](https://www.govinfo.gov/link/plaw/105/public/292), Oct. 27, 1998, [112 Stat. 2808](https://www.govinfo.gov/link/statute/112/2808).)*

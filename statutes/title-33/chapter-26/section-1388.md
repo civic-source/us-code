@@ -3,9 +3,10 @@ title: "Section 1388 - Requirements"
 usc_title: 33
 usc_section: "1388"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1388"
-generated_at: "2026-03-30T02:55:41.104Z"
+generated_at: "2026-11-23T21:26:11.402Z"
+status: "active"
 ---
 
 # § 1388. Requirements
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:41.104Z"
 - **(e)** This section shall be applied in a manner consistent with United States obligations under international agreements.
 - **(f)** The Administrator may retain up to 0.25 percent of the funds appropriated for this subchapter for management and oversight of the requirements of this section.
 - **(g)** This section does not apply with respect to a project if a State agency approves the engineering plans and specifications for the project, in that agency’s capacity to approve such plans and specifications prior to a project requesting bids, prior to June 10, 2014 .
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title VI, § 608, as added [Pub. L. 113–121, title V, § 5004](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1326](https://www.govinfo.gov/link/statute/128/1326).)*

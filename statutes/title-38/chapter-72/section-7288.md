@@ -3,9 +3,10 @@ title: "Section 7288 - Annual report"
 usc_title: 38
 usc_section: "7288"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7288"
-generated_at: "2026-03-30T02:55:53.525Z"
+generated_at: "2026-11-23T21:26:16.840Z"
+status: "active"
 ---
 
 # § 7288. Annual report
@@ -42,3 +43,13 @@ generated_at: "2026-03-30T02:55:53.525Z"
 - **(c)** In this section, the term “appropriate committees of Congress” means—
   - **(1)** the Committee on Veterans’ Affairs of the Senate; and
   - **(2)** the Committee on Veterans’ Affairs of the House of Representatives.
+
+In General
+
+Elements
+
+Appropriate Committees of Congress Defined
+
+## Source Credit
+
+*(Added [Pub. L. 110–389, title VI, § 604(a)](https://www.govinfo.gov/link/plaw/110/public/389), Oct. 10, 2008, [122 Stat. 4178](https://www.govinfo.gov/link/statute/122/4178).)*

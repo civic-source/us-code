@@ -3,9 +3,10 @@ title: "Section 289d - Animals in research"
 usc_title: 42
 usc_section: "289d"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 289d"
-generated_at: "2026-03-30T02:56:10.754Z"
+generated_at: "2026-11-23T21:26:30.533Z"
+status: "active"
 ---
 
 # § 289d. Animals in research
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:10.754Z"
   - **(2)** the entity has been notified by the Director of NIH of such determination and has been given a reasonable opportunity to take corrective action; and
   - **(3)** no action has been taken by the entity to correct such conditions;
 - **(e)** No guideline or regulation promulgated under subsection (a) or (c) may require a research entity to disclose publicly trade secrets or commercial or financial information which is privileged or confidential.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 495, as added [Pub. L. 99–158, § 2](https://www.govinfo.gov/link/plaw/99/public/158), Nov. 20, 1985, [99 Stat. 875](https://www.govinfo.gov/link/statute/99/875).)*

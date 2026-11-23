@@ -3,9 +3,10 @@ title: "Section 2095 - Definitions"
 usc_title: 19
 usc_section: "2095"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2095"
-generated_at: "2026-03-30T02:54:24.663Z"
+generated_at: "2026-11-23T21:25:42.768Z"
+status: "active"
 ---
 
 # § 2095. Definitions
@@ -21,3 +22,7 @@ For the purposes of this chapter—
       - **(iii)** is subject to export control by the country of origin; or
     - **(B)** any fragment or part of any stone carving or wall art described in subparagraph (A) of this paragraph.
   - **(4)** The term “country of origin”, as applied to any pre-Columbian monumental or architectural sculpture or mural, means the country where such sculpture or mural was first discovered.
+
+## Source Credit
+
+*([Pub. L. 92–587, title II, § 205](https://www.govinfo.gov/link/plaw/92/public/587), Oct. 27, 1972, [86 Stat. 1297](https://www.govinfo.gov/link/statute/86/1297).)*

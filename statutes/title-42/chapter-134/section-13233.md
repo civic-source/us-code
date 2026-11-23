@@ -3,9 +3,10 @@ title: "Section 13233 - Data acquisition program"
 usc_title: 42
 usc_section: "13233"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13233"
-generated_at: "2026-03-30T02:56:11.439Z"
+generated_at: "2026-11-23T21:26:33.583Z"
+status: "active"
 ---
 
 # § 13233. Data acquisition program
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.439Z"
   - **(3)** cost, performance, environmental, energy, and safety data on alternative fuels and alternative fueled vehicles; and
   - **(4)** other appropriate demographic information and consumer preferences.
 - **(b)** The Secretary shall consult with interested parties, including other appropriate Federal agencies, manufacturers, public utilities, owners and operators of fleets of light duty motor vehicles, and State or local governmental entities, to determine the types of data to be collected and analyzed under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 102–486, title IV, § 407](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2881](https://www.govinfo.gov/link/statute/106/2881).)*

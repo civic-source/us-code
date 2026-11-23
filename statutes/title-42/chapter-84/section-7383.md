@@ -3,9 +3,10 @@ title: "Section 7383 - Commission on Safeguards, Security, and Counterintelligen
 usc_title: 42
 usc_section: "7383"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7383"
-generated_at: "2026-03-30T02:56:11.291Z"
+generated_at: "2026-11-23T21:26:33.067Z"
+status: "active"
 ---
 
 # § 7383. Commission on Safeguards, Security, and Counterintelligence at Department of Energy Facilities
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:56:11.291Z"
 - **(g)**
   - **(1)** From amounts authorized to be appropriated by sections 3101 and 3103, the Secretary of Energy shall make available to the Commission not more than $1,000,000 for the activities of the Commission under this section.
   - **(2)** Amounts made available to the Commission under this subsection shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 106–65, div. C, title XXXI, § 3142](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 931](https://www.govinfo.gov/link/statute/113/931); [Pub. L. 117–286, § 4(a)(268)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4335](https://www.govinfo.gov/link/statute/136/4335).)*

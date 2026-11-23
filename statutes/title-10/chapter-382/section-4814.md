@@ -3,9 +3,10 @@ title: "Section 4814 - National technology and industrial base: biennial report"
 usc_title: 10
 usc_section: "4814"
 chapter: 382
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4814"
-generated_at: "2026-03-30T02:53:38.211Z"
+generated_at: "2026-11-23T21:25:32.788Z"
+status: "active"
 ---
 
 # § 4814. National technology and industrial base: biennial report
@@ -25,3 +26,7 @@ The Secretary of Defense shall transmit to the Committee on Armed Services of th
   - **(5)** A detailed description of any use by the Secretary of Defense or a Secretary concerned, as applicable, during the prior 12 months of a waiver or exception to the sourcing requirements or prohibitions established by chapter 83 of title 41 or chapter 385 of this title, including—
     - **(A)** the type of waiver or exception used; and
     - **(B)** the reasoning for the use of each such waiver or exception.
+
+## Source Credit
+
+*(Added [Pub. L. 104–201, div. A, title VIII, § 829(e)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2614](https://www.govinfo.gov/link/statute/110/2614), § 2504; amended [Pub. L. 106–65, div. A, title X, § 1067(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774); [Pub. L. 112–239, div. A, title XVI, § 1603(b)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2063](https://www.govinfo.gov/link/statute/126/2063); [Pub. L. 116–92, div. A, title VIII, § 846(b)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1503](https://www.govinfo.gov/link/statute/133/1503); renumbered § 4814 and amended [Pub. L. 116–283, div. A, title VIII, § 842(a)](https://www.govinfo.gov/link/plaw/116/public/283), (b)(1), title XVIII, § 1867(b), (d)(3), Jan. 1, 2021, [134 Stat. 3764](https://www.govinfo.gov/link/statute/134/3764), 3765, 4281; [Pub. L. 117–81, div. A, title III, § 333](https://www.govinfo.gov/link/plaw/117/public/81), title XVII, § 1701(b)(22)(A), (d)(15), Dec. 27, 2021, [135 Stat. 1638](https://www.govinfo.gov/link/statute/135/1638), 2135, 2137; [Pub. L. 118–31, div. A, title X, § 1061(c)(1)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 399](https://www.govinfo.gov/link/statute/137/399).)*

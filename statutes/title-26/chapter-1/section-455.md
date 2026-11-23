@@ -3,9 +3,10 @@ title: "Section 455 - Prepaid subscription income"
 usc_title: 26
 usc_section: "455"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 455"
-generated_at: "2026-03-30T02:55:27.702Z"
+generated_at: "2026-11-23T21:26:06.277Z"
+status: "active"
 ---
 
 # § 455. Prepaid subscription income
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:27.702Z"
   - **(2)** The term “liability” means a liability to furnish or deliver a newspaper, magazine, or other periodical.
   - **(3)** Prepaid subscription income shall be treated as received during the taxable year for which it is includible in gross income under section 451 (without regard to this section).
 - **(e)** Notwithstanding the provisions of this section, any taxpayer who has, for taxable years prior to the first taxable year to which this section applies, reported his income under an established and consistent method or practice of accounting for prepaid subscription income (to which this section would apply if an election were made) may continue to report his income for taxable years to which this title applies in accordance with such method or practice.
+
+## Source Credit
+
+*(Added [Pub. L. 85–866, title I, § 28(a)](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1625](https://www.govinfo.gov/link/statute/72/1625); amended [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(a)(67), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1775](https://www.govinfo.gov/link/statute/90/1775), 1834.)*

@@ -3,9 +3,10 @@ title: "Section 3164 - Definitions"
 usc_title: 50
 usc_section: "3164"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3164"
-generated_at: "2026-03-30T02:56:26.238Z"
+generated_at: "2026-11-23T21:26:39.020Z"
+status: "active"
 ---
 
 # § 3164. Definitions
@@ -20,3 +21,7 @@ For purposes of this subchapter—
   - **(6)** the terms “foreign power” and “agent of a foreign power” have the same meanings as set forth in subsections (a) and (b) of section 1801, respectively, of this title;
   - **(7)** the term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the United States Virgin Islands, Guam, American Samoa, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau, and any other possession of the United States; and
   - **(8)** the term “computer” means any electronic, magnetic, optical, electrochemical, or other high speed data processing device performing logical, arithmetic, or storage functions, and includes any data storage facility or communications facility directly related to or operating in conjunction with such device and any data or other information stored or contained in such device.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title VIII, § 805, formerly § 804, as added [Pub. L. 103–359, title VIII, § 802(a)](https://www.govinfo.gov/link/plaw/103/public/359), Oct. 14, 1994, [108 Stat. 3438](https://www.govinfo.gov/link/statute/108/3438); amended [Pub. L. 106–120, title III, § 305(b)](https://www.govinfo.gov/link/plaw/106/public/120), Dec. 3, 1999, [113 Stat. 1611](https://www.govinfo.gov/link/statute/113/1611); renumbered § 805, [Pub. L. 116–92, div. E, title LXVI, § 6605(a)(1)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2213](https://www.govinfo.gov/link/statute/133/2213); [Pub. L. 118–31, div. G, title IX, § 7901(a)(3)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1106](https://www.govinfo.gov/link/statute/137/1106).)*

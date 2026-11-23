@@ -3,9 +3,10 @@ title: "Section 6720 - Definitions, application, and administration"
 usc_title: 31
 usc_section: "6720"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 6720"
-generated_at: "2026-03-30T02:55:34.075Z"
+generated_at: "2026-11-23T21:26:10.649Z"
+status: "active"
 ---
 
 # § 6720. Definitions, application, and administration
@@ -30,3 +31,15 @@ generated_at: "2026-03-30T02:55:34.075Z"
 - **(b)** The Secretary may enter into agreements with other executive branch departments and agencies to delegate to that department or agency all or part of the Secretary’s responsibility for administering this chapter.
 - **(c)** If the entire geographic area of a unit of general local government is located in a larger entity, the unit of general local government is deemed to be located in the larger entity. If only part of the geographic area of a unit is located in a larger entity, each part is deemed to be located in the larger entity and to be a separate unit of general local government in determining allocations under this chapter. Except as provided in regulations prescribed by the Secretary, the Secretary shall make all data computations based on the ratio of the estimated population of the part to the population of the entire unit of general local government.
 - **(d)** If a boundary line change, a State statutory or constitutional change, annexation, a governmental reorganization, or other circumstance results in the application of sections 6704 through 6708 in a way that does not carry out the purposes of sections 6701 through 6708, the Secretary shall apply sections 6701 through 6708 under regulations of the Secretary in a way that is consistent with those purposes.
+
+Definitions
+
+Delegation of Administration
+
+Treatment of Subsumed Areas
+
+Boundary and Other Changes
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title III, § 31001(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1880](https://www.govinfo.gov/link/statute/108/1880).)*

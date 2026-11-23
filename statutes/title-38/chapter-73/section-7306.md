@@ -3,9 +3,10 @@ title: "Section 7306 - Office of the Under Secretary for Health"
 usc_title: 38
 usc_section: "7306"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7306"
-generated_at: "2026-03-30T02:55:53.526Z"
+generated_at: "2026-11-23T21:26:16.847Z"
+status: "active"
 ---
 
 # § 7306. Office of the Under Secretary for Health
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:55:53.526Z"
     - **(B)** the programs established under section 1712A of this title ; and
   - **(2)** with respect to the programs established under section 1712A of this title , a clinician with appropriate expertise in those programs is responsible to the Under Secretary for the management of those programs.
 - **(f)** For purposes of applying any provision of chapter 74 of this title, including sections 7404, 7410, and 7421, or any other provision of law, the Secretary may treat any appointment for a position under this chapter to be an appointment under this section.
+
+## Source Credit
+
+*(Added [Pub. L. 102–40, title IV, § 401(a)(3)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 212](https://www.govinfo.gov/link/statute/105/212); amended [Pub. L. 102–405, title II, § 205](https://www.govinfo.gov/link/plaw/102/public/405), title III, § 302(c)(1), Oct. 9, 1992, [106 Stat. 1983](https://www.govinfo.gov/link/statute/106/1983), 1984; [Pub. L. 102–585, title V, § 511(b)](https://www.govinfo.gov/link/plaw/102/public/585), Nov. 4, 1992, [106 Stat. 4956](https://www.govinfo.gov/link/statute/106/4956); [Pub. L. 103–446, title XII, § 1201(c)(3)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4683](https://www.govinfo.gov/link/statute/108/4683); [Pub. L. 104–262, title III, § 344](https://www.govinfo.gov/link/plaw/104/public/262), Oct. 9, 1996, [110 Stat. 3207](https://www.govinfo.gov/link/statute/110/3207); [Pub. L. 106–419, title II, § 206](https://www.govinfo.gov/link/plaw/106/public/419), Nov. 1, 2000, [114 Stat. 1842](https://www.govinfo.gov/link/statute/114/1842); [Pub. L. 107–135, title I, § 131](https://www.govinfo.gov/link/plaw/107/public/135), Jan. 23, 2002, [115 Stat. 2454](https://www.govinfo.gov/link/statute/115/2454); [Pub. L. 111–163, title V, § 514(a)](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1165](https://www.govinfo.gov/link/statute/124/1165); [Pub. L. 116–315, title V, § 5101(a)](https://www.govinfo.gov/link/plaw/116/public/315), Jan. 5, 2021, [134 Stat. 5022](https://www.govinfo.gov/link/statute/134/5022); [Pub. L. 117–96, § 1(a)](https://www.govinfo.gov/link/plaw/117/public/96), Mar. 14, 2022, [136 Stat. 34](https://www.govinfo.gov/link/statute/136/34); [Pub. L. 117–168, title IX, § 906(d)](https://www.govinfo.gov/link/plaw/117/public/168), Aug. 10, 2022, [136 Stat. 1813](https://www.govinfo.gov/link/statute/136/1813); [Pub. L. 118–210, title I, § 141](https://www.govinfo.gov/link/plaw/118/public/210), Jan. 2, 2025, [138 Stat. 2744](https://www.govinfo.gov/link/statute/138/2744).)*

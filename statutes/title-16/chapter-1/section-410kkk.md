@@ -3,9 +3,10 @@ title: "Section 410kkk - Definitions"
 usc_title: 16
 usc_section: "410kkk"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410kkk"
-generated_at: "2026-03-30T02:54:22.781Z"
+generated_at: "2026-11-23T21:25:51.481Z"
+status: "active"
 ---
 
 # § 410kkk. Definitions
@@ -14,3 +15,7 @@ As used in this subchapter:
 
   - **(1)** The term “park” means the Lewis and Clark National Historical Park designated in section 410kkk–1 of this title .
   - **(2)** The term “Secretary” means the Secretary of the Interior.
+
+## Source Credit
+
+*([Pub. L. 108–387, title I, § 102](https://www.govinfo.gov/link/plaw/108/public/387), Oct. 30, 2004, [118 Stat. 2234](https://www.govinfo.gov/link/statute/118/2234).)*

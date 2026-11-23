@@ -3,9 +3,10 @@ title: "Section 4503 - Establishment of Advisory Committee"
 usc_title: 22
 usc_section: "4503"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4503"
-generated_at: "2026-03-30T02:55:05.412Z"
+generated_at: "2026-11-23T21:25:58.646Z"
+status: "active"
 ---
 
 # § 4503. Establishment of Advisory Committee
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.412Z"
 - **(b)** The Advisory Committee shall meet at the call of the Chairman and shall hold at least one meeting each year. Three members of the Advisory Committee shall constitute a quorum.
 - **(c)** The Secretary of State may detail personnel of the Department of State to provide technical and clerical assistance to the Advisory Committee in carrying out its functions under this chapter.
 - **(d)** The Advisory Committee shall recommend grant policies for the advancement of the objectives of this chapter. In proposing recipients for grants under this chapter, the Advisory Committee shall give the highest priority to national organizations with an interest and expertise in conducting research and training concerning the countries of Eastern Europe and the independent states of the former Soviet Union and in disseminating the results of such research. In making its recommendations, the Advisory Committee shall emphasize the development of a stable, long-term research program.
+
+## Source Credit
+
+*([Pub. L. 98–164, title VIII, § 804](https://www.govinfo.gov/link/plaw/98/public/164), Nov. 22, 1983, [97 Stat. 1048](https://www.govinfo.gov/link/statute/97/1048); [Pub. L. 103–199, title III, § 302(5)](https://www.govinfo.gov/link/plaw/103/public/199), Dec. 17, 1993, [107 Stat. 2322](https://www.govinfo.gov/link/statute/107/2322).)*

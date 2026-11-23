@@ -3,9 +3,10 @@ title: "Section 10721 - Establishment of grant program"
 usc_title: 34
 usc_section: "10721"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10721"
-generated_at: "2026-03-30T02:55:33.275Z"
+generated_at: "2026-11-23T21:26:09.690Z"
+status: "active"
 ---
 
 # § 10721. Establishment of grant program
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:33.275Z"
   - **(1)** high-tech crime, including cyber and electronic crime and related threats;
   - **(2)** economic crime, including financial fraud and mortgage fraud; and
   - **(3)** Internet-based crime against children and child pornography.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 3031](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 115–76, § 3(a)](https://www.govinfo.gov/link/plaw/115/public/76), Nov. 2, 2017, [131 Stat. 1247](https://www.govinfo.gov/link/statute/131/1247).)*

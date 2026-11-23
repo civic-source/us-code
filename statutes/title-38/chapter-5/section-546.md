@@ -3,9 +3,10 @@ title: "Section 546 - Advisory Committee on Disability Compensation"
 usc_title: 38
 usc_section: "546"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 546"
-generated_at: "2026-03-30T02:55:53.474Z"
+generated_at: "2026-11-23T21:26:16.560Z"
+status: "active"
 ---
 
 # § 546. Advisory Committee on Disability Compensation
@@ -41,3 +42,21 @@ generated_at: "2026-03-30T02:55:53.474Z"
 - **(f)**
   - **(1)** Except as provided in paragraph (2), the provisions of chapter 10 of title 5 shall apply to the activities of the Committee under this section.
   - **(2)** Section 1013 of title 5 shall not apply to the Committee.
+
+Establishment
+
+Responsibilities of Committee
+
+Resources
+
+Biennial Reports to the Secretary
+
+Biennial Reports to Congress
+
+Applicability of Chapter
+
+of Title
+
+## Source Credit
+
+*(Added [Pub. L. 110–389, title II, § 214(a)](https://www.govinfo.gov/link/plaw/110/public/389), Oct. 10, 2008, [122 Stat. 4152](https://www.govinfo.gov/link/statute/122/4152); amended [Pub. L. 117–286, § 4(a)(218)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4330](https://www.govinfo.gov/link/statute/136/4330).)*

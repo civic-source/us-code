@@ -3,9 +3,10 @@ title: "Section 50504 - Use of Government facilities"
 usc_title: 51
 usc_section: "50504"
 chapter: 505
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 50504"
-generated_at: "2026-03-30T02:56:28.707Z"
+generated_at: "2026-11-23T21:26:42.548Z"
+status: "active"
 ---
 
 # § 50504. Use of Government facilities
@@ -21,3 +22,36 @@ generated_at: "2026-03-30T02:56:28.707Z"
 - **(b)**
   - **(1)** The reimbursement referred to in subsection (a) may be an amount equal to the direct costs (including salaries of United States civilian and contractor personnel) incurred by the United States as a result of the use of such facilities by the private sector. For the purposes of this paragraph, the term “direct costs” means the actual costs that can be unambiguously associated with such use, and would not be borne by the United States Government in the absence of such use.
   - **(2)** The amount of any payment received by the United States for use of facilities under this subsection shall be credited to the appropriation from which the cost of providing such facilities was paid.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 50504 | 15 U.S.C. 5807 . | Pub. L. 102–588, title V, § 508 , Nov. 4, 1992 , 106 Stat. 5128 . |
+
+
+Authority.—
+
+In general
+
+Consultation
+
+Reimbursement Payment.—
+
+Amount
+
+Credit to appropriation
+
+Historical and Revision Notes
+
+50504
+
+15 U.S.C. 5807
+
+Pub. L. 102–588, title V, § 508
+
+Nov. 4, 1992
+
+106 Stat. 5128
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3406](https://www.govinfo.gov/link/statute/124/3406).)*

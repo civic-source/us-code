@@ -3,9 +3,10 @@ title: "Section 27c - Exclusion of certain other identified banking products"
 usc_title: 7
 usc_section: "27c"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 27c"
-generated_at: "2026-03-30T02:53:42.251Z"
+generated_at: "2026-11-23T21:25:27.870Z"
+status: "active"
 ---
 
 # § 27c. Exclusion of certain other identified banking products
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.251Z"
   - **(3)** the issuer of the hybrid instrument is not subject by the terms of the instrument to mark-to-market margining requirements; and
   - **(4)** the hybrid instrument is not marketed as a contract of sale of a commodity for future delivery (or option on such a contract) subject to the Commodity Exchange Act [ 7 U.S.C. 1 et seq.].
 - **(c)** For purposes of subsection (b)(3) of this title, mark-to-market margining requirements shall not include the obligation of an issuer of a secured debt instrument to increase the amount of collateral held in pledge for the benefit of the purchaser of the secured debt instrument to secure the repayment obligations of the issuer under the secured debt instrument.
+
+## Source Credit
+
+*([Pub. L. 106–554, § 1(a)(5) [title IV, § 405]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–459.)*

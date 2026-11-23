@@ -3,9 +3,10 @@ title: "Section 4303 - Definitions"
 usc_title: 38
 usc_section: "4303"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 4303"
-generated_at: "2026-03-30T02:55:53.517Z"
+generated_at: "2026-11-23T21:26:16.800Z"
+status: "active"
 ---
 
 # § 4303. Definitions
@@ -64,3 +65,11 @@ For the purposes of this chapter—
     - **(C)** the overall financial resources of the employer; the overall size of the business of an employer with respect to the number of its employees; the number, type, and location of its facilities; and
     - **(D)** the type of operation or operations of the employer, including the composition, structure, and functions of the work force of such employer; the geographic separateness, administrative, or fiscal relationship of the facility or facilities in question to the employer.
   - **(17)** The term “uniformed services” means the Armed Forces, the Army National Guard and the Air National Guard when engaged in active duty for training, inactive duty training, or full-time National Guard duty, the Commissioned Corps of the Public Health Service, the commissioned officer corps of the National Oceanic and Atmospheric Administration, System members of the National Urban Search and Rescue Response System during a period of appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, intermittent personnel who are appointed into Federal Emergency Management Agency service under section 306(b)(1) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5149(b)(1) ) or to train for such service, and any other category of persons designated by the President in time of war or national emergency.
+
+“The amendment made by subsection (a) [amending this section] shall apply to—
+
+“The amendment made by subsection (a) [amending this section] shall apply to—
+
+## Source Credit
+
+*(Added [Pub. L. 103–353, § 2(a)](https://www.govinfo.gov/link/plaw/103/public/353), Oct. 13, 1994, [108 Stat. 3150](https://www.govinfo.gov/link/statute/108/3150); amended [Pub. L. 104–275, title III, § 311(2)](https://www.govinfo.gov/link/plaw/104/public/275), Oct. 9, 1996, [110 Stat. 3334](https://www.govinfo.gov/link/statute/110/3334); [Pub. L. 105–368, title II, § 212(a)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3331](https://www.govinfo.gov/link/statute/112/3331); [Pub. L. 106–419, title III, § 323(a)](https://www.govinfo.gov/link/plaw/106/public/419), Nov. 1, 2000, [114 Stat. 1855](https://www.govinfo.gov/link/statute/114/1855); [Pub. L. 107–14, § 8(a)(11)](https://www.govinfo.gov/link/plaw/107/public/14), (b)(2), June 5, 2001, [115 Stat. 35](https://www.govinfo.gov/link/statute/115/35), 36; [Pub. L. 109–435, title VI, § 604(f)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3242](https://www.govinfo.gov/link/statute/120/3242); [Pub. L. 111–275, title VII](https://www.govinfo.gov/link/plaw/111/public/275), §§ 701(a), 702(a), Oct. 13, 2010, [124 Stat. 2887](https://www.govinfo.gov/link/statute/124/2887); [Pub. L. 112–56, title II, § 251](https://www.govinfo.gov/link/plaw/112/public/56), Nov. 21, 2011, [125 Stat. 729](https://www.govinfo.gov/link/statute/125/729); [Pub. L. 114–326, § 2(b)(2)](https://www.govinfo.gov/link/plaw/114/public/326), Dec. 16, 2016, [130 Stat. 1972](https://www.govinfo.gov/link/statute/130/1972); [Pub. L. 116–259, title II, § 208](https://www.govinfo.gov/link/plaw/116/public/259), Dec. 23, 2020, [134 Stat. 1168](https://www.govinfo.gov/link/statute/134/1168); [Pub. L. 116–315, title VII, § 7004](https://www.govinfo.gov/link/plaw/116/public/315), Jan. 5, 2021, [134 Stat. 5058](https://www.govinfo.gov/link/statute/134/5058); [Pub. L. 117–178, § 3(a)](https://www.govinfo.gov/link/plaw/117/public/178), Sept. 29, 2022, [136 Stat. 2110](https://www.govinfo.gov/link/statute/136/2110); [Pub. L. 117–263, div. E, title LI, § 5121](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3210](https://www.govinfo.gov/link/statute/136/3210).)*

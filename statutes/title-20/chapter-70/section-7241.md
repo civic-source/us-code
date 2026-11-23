@@ -3,9 +3,10 @@ title: "Section 7241 - Purposes"
 usc_title: 20
 usc_section: "7241"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7241"
-generated_at: "2026-03-30T02:54:48.208Z"
+generated_at: "2026-11-23T21:25:47.565Z"
+status: "active"
 ---
 
 # § 7241. Purposes
@@ -17,3 +18,7 @@ The purposes of this part are the following:
   - **(3)** To support State educational agencies, local educational agencies, schools, educators, and parents in developing and strengthening the relationship between parents and their children’s school in order to further the developmental progress of children.
   - **(4)** To coordinate activities funded under this part with parent involvement initiatives funded under section 6318 of this title and other provisions of this chapter.
   - **(5)** To assist the Secretary, State educational agencies, and local educational agencies in the coordination and integration of Federal, State, and local services and programs to engage families in education.
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4501](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title IV, § 4501](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2016](https://www.govinfo.gov/link/statute/129/2016).)*

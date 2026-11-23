@@ -3,9 +3,10 @@ title: "Section 3314 - Tutorial assistance"
 usc_title: 38
 usc_section: "3314"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3314"
-generated_at: "2026-03-30T02:55:53.503Z"
+generated_at: "2026-11-23T21:26:16.736Z"
+status: "active"
 ---
 
 # § 3314. Tutorial assistance
@@ -20,3 +21,23 @@ generated_at: "2026-03-30T02:55:53.503Z"
   - **(1)** The amount of benefits described in subsection (a) that are payable under this section may not exceed $100 per month, for a maximum of 12 months, or until a maximum of $1,200 is utilized.
   - **(2)** The amount provided an individual under this subsection is in addition to the amounts of educational assistance paid the individual under section 3313.
 - **(d)** Any benefits provided an individual under subsection (a) are in addition to any other educational assistance benefits provided the individual under this chapter.
+
+In General
+
+Conditions.—
+
+In general
+
+Certification
+
+Amount.—
+
+In general
+
+As additional assistance
+
+No Charge Against Entitlement
+
+## Source Credit
+
+*(Added [Pub. L. 110–252, title V, § 5003(a)(1)](https://www.govinfo.gov/link/plaw/110/public/252), June 30, 2008, [122 Stat. 2366](https://www.govinfo.gov/link/statute/122/2366).)*

@@ -3,9 +3,10 @@ title: "Section 530D - Report on enforcement of laws"
 usc_title: 28
 usc_section: "530D"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 530D"
-generated_at: "2026-03-30T02:55:30.131Z"
+generated_at: "2026-11-23T21:26:01.052Z"
+status: "active"
 ---
 
 # § 530D. Report on enforcement of laws
@@ -46,3 +47,21 @@ generated_at: "2026-03-30T02:55:30.131Z"
   - **(3)** in the case of a determination described in subsection (a)(1)(B) or an approval described in subsection (a)(1)(C), indicate the nature, tribunal, identifying information, and status of the proceeding, suit, or action.
 - **(d)** In the case of a determination described in subsection (a)(1)(B), the representative of the United States participating in the proceeding shall make a clear declaration in the proceeding that any position expressed as to the constitutionality of the provision involved is the position of the executive branch of the Federal Government (or, as applicable, of the President or of any executive agency or military department).
 - **(e)** The reporting, declaration, and other provisions of this section relating to the Attorney General and other officers of the Department of Justice shall apply to the President (but only with respect to the promulgation of any unclassified Executive order or similar memorandum or order), to the head of each executive agency or military department (as defined, respectively, in sections 105 and 102 of title 5, United States Code) that establishes or implements a policy described in subsection (a)(1)(A) or is authorized to conduct litigation, and to the officers of such executive agency.
+
+Report.—
+
+In general
+
+Submission of report to the congress
+
+Deadline
+
+Contents
+
+Declaration
+
+Applicability to the President and to Executive Agencies and Military Departments
+
+## Source Credit
+
+*(Added [Pub. L. 107–273, div. A, title II, § 202(a)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1771](https://www.govinfo.gov/link/statute/116/1771).)*

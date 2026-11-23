@@ -3,9 +3,10 @@ title: "Section 26 - Parity in mental health and substance use disorder benefits
 usc_title: 42
 usc_section: "26"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 26"
-generated_at: "2026-03-30T02:56:10.834Z"
+generated_at: "2026-11-23T21:26:30.900Z"
+status: "active"
 ---
 
 # § 300gg–26. Parity in mental health and substance use disorder benefits
@@ -121,3 +122,33 @@ generated_at: "2026-03-30T02:56:10.834Z"
   - **(3)** The term “medical or surgical benefits” means benefits with respect to medical or surgical services, as defined under the terms of the plan or coverage (as the case may be), but does not include mental health or substance use disorder benefits.
   - **(4)** The term “mental health benefits” means benefits with respect to services for mental health conditions, as defined under the terms of the plan and in accordance with applicable Federal and State law.
   - **(5)** The term “substance use disorder benefits” means benefits with respect to services for substance use disorders, as defined under the terms of the plan and in accordance with applicable Federal and State law.
+
+(aa) shall specify to the Secretary the actions the plan or issuer will take to be in compliance with this section and provide to the Secretary additional comparative analyses described in subparagraph (A) that demonstrate compliance with this section not later than 45 days after the initial determination by the Secretary that the plan or issuer is not in compliance; and
+
+(bb) following the 45-day corrective action period under item (aa), if the Secretary makes a final determination that the plan or issuer still is not in compliance with this section, not later than 7 days after such determination, shall notify all individuals enrolled in the plan or applicable health insurance coverage offered by the issuer that the plan or issuer, with respect to such coverage, has been determined to be not in compliance with this section.
+
+In general
+
+Special rule for collective bargaining agreements
+
+In general
+
+Rule of construction
+
+“The Secretary of Health and Human Services, the Secretary of Labor, and the Secretary of the Treasury may ensure, through the execution or revision of an interagency memorandum of understanding among such Secretaries, that—
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVII, § 2726, formerly § 2705, as added [Pub. L. 104–204, title VII, § 703(a)](https://www.govinfo.gov/link/plaw/104/public/204), Sept. 26, 1996, [110 Stat. 2947](https://www.govinfo.gov/link/statute/110/2947); amended [Pub. L. 107–116, title VII, § 701(b)](https://www.govinfo.gov/link/plaw/107/public/116), Jan. 10, 2002, [115 Stat. 2228](https://www.govinfo.gov/link/statute/115/2228); [Pub. L. 107–313, § 2(b)](https://www.govinfo.gov/link/plaw/107/public/313), Dec. 2, 2002, [116 Stat. 2457](https://www.govinfo.gov/link/statute/116/2457); [Pub. L. 108–197, § 2(b)](https://www.govinfo.gov/link/plaw/108/public/197), Dec. 19, 2003, [117 Stat. 2898](https://www.govinfo.gov/link/statute/117/2898); [Pub. L. 108–311, title III, § 302(c)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1179](https://www.govinfo.gov/link/statute/118/1179); [Pub. L. 109–151, § 1(b)](https://www.govinfo.gov/link/plaw/109/public/151), Dec. 30, 2005, [119 Stat. 2886](https://www.govinfo.gov/link/statute/119/2886); [Pub. L. 109–432, div. A, title I, § 115(c)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2941](https://www.govinfo.gov/link/statute/120/2941); [Pub. L. 110–245, title IV, § 401(c)](https://www.govinfo.gov/link/plaw/110/public/245), June 17, 2008, [122 Stat. 1650](https://www.govinfo.gov/link/statute/122/1650); [Pub. L. 110–343, div. C, title V, § 512(b)](https://www.govinfo.gov/link/plaw/110/public/343), (g)(2), Oct. 3, 2008, [122 Stat. 3885](https://www.govinfo.gov/link/statute/122/3885), 3892; renumbered § 2726 and amended [Pub. L. 111–148, title I](https://www.govinfo.gov/link/plaw/111/public/148), §§ 1001(2), 1563(c)(4), formerly § 1562(c)(4), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130](https://www.govinfo.gov/link/statute/124/130), 265, 911; [Pub. L. 114–255, div. B, title XIII, § 13001(a)](https://www.govinfo.gov/link/plaw/114/public/255), (b), Dec. 13, 2016, [130 Stat. 1278](https://www.govinfo.gov/link/statute/130/1278), 1280; [Pub. L. 116–260, div. BB, title II, § 203(a)(1)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2900](https://www.govinfo.gov/link/statute/134/2900).)*

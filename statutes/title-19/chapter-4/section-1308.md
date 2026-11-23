@@ -3,9 +3,10 @@ title: "Section 1308 - Prohibition on importation of dog and cat fur products"
 usc_title: 19
 usc_section: "1308"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1308"
-generated_at: "2026-03-30T02:54:24.626Z"
+generated_at: "2026-11-23T21:25:42.689Z"
+status: "active"
 ---
 
 # § 1308. Prohibition on importation of dog and cat fur products
@@ -42,3 +43,11 @@ generated_at: "2026-03-30T02:54:24.626Z"
     - **(B)** in ensuring that the products were accompanied by documentation, packaging, and labeling that were accurate as to the nature of the products.
   - **(7)** Nothing in this section shall be construed as superseding or limiting in any manner the functions and responsibilities of the Secretary of the Treasury under the customs laws of the United States.
 - **(d)** The designated authorities shall, at least once each year, publish in the Federal Register a list of the names of any producer, manufacturer, supplier, seller, importer, or exporter, whether or not located within the customs territory of the United States or subject to the jurisdiction of the United States, against whom a final administrative determination with respect to the assessment of a civil penalty for a knowing and intentional or a grossly negligent violation has been made under this section.
+
+Findings
+
+Purposes
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title III, § 308, as added [Pub. L. 106–476, title I, § 1443(a)](https://www.govinfo.gov/link/plaw/106/public/476), Nov. 9, 2000, [114 Stat. 2164](https://www.govinfo.gov/link/statute/114/2164); amended [Pub. L. 113–188, title X, § 1001(a)](https://www.govinfo.gov/link/plaw/113/public/188), Nov. 26, 2014, [128 Stat. 2022](https://www.govinfo.gov/link/statute/128/2022).)*

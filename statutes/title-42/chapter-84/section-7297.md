@@ -3,12 +3,17 @@ title: "Section 7297 - Cross references"
 usc_title: 42
 usc_section: "7297"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7297"
-generated_at: "2026-03-30T02:56:11.289Z"
+generated_at: "2026-11-23T21:26:33.062Z"
+status: "active"
 ---
 
 # § 7297. Cross references
 
 With respect to any functions transferred by this chapter and exercised after October 1, 1977 , reference in any other Federal law to any department, commission, or agency or any officer or office the functions of which are so transferred shall be deemed to refer to the Secretary, the Federal Energy Regulatory Commission, or other official or component of the Department in which this chapter vests such functions.
 
+
+## Source Credit
+
+*([Pub. L. 95–91, title VII, § 707](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 607](https://www.govinfo.gov/link/statute/91/607).)*

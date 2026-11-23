@@ -3,9 +3,10 @@ title: "Section 1102 - Joint United States-Canadian Commission; establishment; f
 usc_title: 16
 usc_section: "1102"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1102"
-generated_at: "2026-03-30T02:54:22.941Z"
+generated_at: "2026-11-23T21:25:51.807Z"
+status: "active"
 ---
 
 # § 1102. Joint United States-Canadian Commission; establishment; functions
@@ -15,3 +16,7 @@ There shall be established, in accordance with the agreement between the Governm
 - **(a)** to accept title from the Hammer family to the former Roosevelt estate comprising the Roosevelt home and other grounds on Campobello Island;
 - **(b)** to take the necessary measures to restore the Roosevelt home as closely as possible to its condition when it was occupied by President Franklin Delano Roosevelt;
 - **(c)** to administer as a memorial the Roosevelt Campobello International Park comprising the Roosevelt estate and such other lands as may be acquired.
+
+## Source Credit
+
+*([Pub. L. 88–363, § 3](https://www.govinfo.gov/link/plaw/88/public/363), July 7, 1964, [78 Stat. 299](https://www.govinfo.gov/link/statute/78/299).)*

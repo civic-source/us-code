@@ -3,9 +3,10 @@ title: "Section 2504 - Duties; authorization of grants for historical publicatio
 usc_title: 44
 usc_section: "2504"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 2504"
-generated_at: "2026-03-30T02:55:56.294Z"
+generated_at: "2026-11-23T21:26:18.414Z"
+status: "active"
 ---
 
 # § 2504. Duties; authorization of grants for historical publications and records programs; authorization for appropriations
@@ -55,3 +56,27 @@ generated_at: "2026-03-30T02:55:56.294Z"
     - **(R)** $10,000,000 for fiscal year 2008; and
     - **(S)** $10,000,000 for fiscal year 2009.
   - **(2)** Amounts appropriated under this subsection shall be available until expended when so provided in appropriation Acts.
+
+Grants for Presidential Centers of Historical Excellence.—
+
+In general
+
+Eligible entity
+
+Use of funds
+
+Prohibition on use of funds
+
+Application.—
+
+In general
+
+Approval of application
+
+In General
+
+Maintenance
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1294](https://www.govinfo.gov/link/statute/82/1294); [Pub. L. 92–546, § 1(c)](https://www.govinfo.gov/link/plaw/92/public/546), Oct. 25, 1972, [86 Stat. 1155](https://www.govinfo.gov/link/statute/86/1155); [Pub. L. 93–536, § 1(c)](https://www.govinfo.gov/link/plaw/93/public/536), Dec. 22, 1974, [88 Stat. 1735](https://www.govinfo.gov/link/statute/88/1735); [Pub. L. 96–98, § 1](https://www.govinfo.gov/link/plaw/96/public/98), Nov. 1, 1979, [93 Stat. 731](https://www.govinfo.gov/link/statute/93/731); [Pub. L. 98–189](https://www.govinfo.gov/link/plaw/98/public/189), Nov. 30, 1983, [97 Stat. 1323](https://www.govinfo.gov/link/statute/97/1323); [Pub. L. 98–497, title I, § 107(b)(10)](https://www.govinfo.gov/link/plaw/98/public/497), Oct. 19, 1984, [98 Stat. 2287](https://www.govinfo.gov/link/statute/98/2287); [Pub. L. 100–365, § 4](https://www.govinfo.gov/link/plaw/100/public/365), July 13, 1988, [102 Stat. 824](https://www.govinfo.gov/link/statute/102/824); [Pub. L. 103–262, § 1](https://www.govinfo.gov/link/plaw/103/public/262), May 31, 1994, [108 Stat. 706](https://www.govinfo.gov/link/statute/108/706); [Pub. L. 104–274, § 1](https://www.govinfo.gov/link/plaw/104/public/274), Oct. 9, 1996, [110 Stat. 3321](https://www.govinfo.gov/link/statute/110/3321); [Pub. L. 106–410](https://www.govinfo.gov/link/plaw/106/public/410), Nov. 1, 2000, [114 Stat. 1788](https://www.govinfo.gov/link/statute/114/1788); [Pub. L. 108–383, § 6](https://www.govinfo.gov/link/plaw/108/public/383), Oct. 30, 2004, [118 Stat. 2219](https://www.govinfo.gov/link/statute/118/2219); [Pub. L. 110–404, § 2](https://www.govinfo.gov/link/plaw/110/public/404), Oct. 13, 2008, [122 Stat. 4281](https://www.govinfo.gov/link/statute/122/4281).)*

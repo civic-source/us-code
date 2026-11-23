@@ -3,9 +3,10 @@ title: "Section 1413a - Combat-related special compensation"
 usc_title: 10
 usc_section: "1413a"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1413a"
-generated_at: "2026-03-30T02:53:38.120Z"
+generated_at: "2026-11-23T21:25:32.473Z"
+status: "active"
 ---
 
 # § 1413a. Combat-related special compensation
@@ -34,3 +35,53 @@ generated_at: "2026-03-30T02:53:38.120Z"
 - **(i)** In this section:
   - **(1)** The term “service-connected” has the meaning given such term in section 101 of title 38 .
   - **(2)** The term “retired pay” includes retainer pay, emergency officers’ retirement pay, and naval pension.
+
+Authority
+
+Amount.—
+
+Determination of monthly amount
+
+Maximum amount
+
+Special rules for chapter
+
+disability retirees
+
+General rule
+
+Special rule for retirees with fewer than 20 years of service
+
+Eligible Retirees
+
+Procedures
+
+Combat-Related Disability
+
+Coordination With Concurrent Receipt Provision
+
+Status of Payments
+
+Source of Payments
+
+Other Definitions
+
+Single source of compensation
+
+Election of source
+
+Regulations
+
+Consideration of Eligibility.—
+
+In general
+
+Disability for which a determination is made
+
+Applicability of Procedures and Criteria
+
+Reapplication for Compensation
+
+## Source Credit
+
+*(Added [Pub. L. 107–314, div. A, title VI, § 636(a)(1)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2574](https://www.govinfo.gov/link/statute/116/2574); amended [Pub. L. 108–136, div. A, title VI](https://www.govinfo.gov/link/plaw/108/public/136), §§ 641(c)(1), 642(a)–(e)(1), Nov. 24, 2003, [117 Stat. 1514](https://www.govinfo.gov/link/statute/117/1514), 1516, 1517; [Pub. L. 110–181, div. A, title VI, § 641(a)](https://www.govinfo.gov/link/plaw/110/public/181), (b), Jan. 28, 2008, [122 Stat. 156](https://www.govinfo.gov/link/statute/122/156); [Pub. L. 112–239, div. A, title VI, § 643(a)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1783](https://www.govinfo.gov/link/statute/126/1783); [Pub. L. 113–76, div. C, title X, § 10001(b)(1)](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 151](https://www.govinfo.gov/link/statute/128/151); [Pub. L. 114–92, div. A, title VI, § 631(d)(2)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 845](https://www.govinfo.gov/link/statute/129/845); [Pub. L. 114–328, div. A, title VI, § 634(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2163](https://www.govinfo.gov/link/statute/130/2163); [Pub. L. 116–283, div. A, title IX, § 924(b)(3)(X)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3821](https://www.govinfo.gov/link/statute/134/3821).)*

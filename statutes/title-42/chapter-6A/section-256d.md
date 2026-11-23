@@ -3,9 +3,10 @@ title: "Section 256d - Breast and cervical cancer information"
 usc_title: 42
 usc_section: "256d"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 256d"
-generated_at: "2026-03-30T02:56:10.717Z"
+generated_at: "2026-11-23T21:26:30.369Z"
+status: "active"
 ---
 
 # § 256d. Breast and cervical cancer information
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:10.717Z"
   - **(8)** Entities receiving assistance under section 300 of this title (relating to family planning).
   - **(9)** Entities receiving assistance under subchapter XXIV (relating to services with respect to acquired immune deficiency syndrome).
   - **(10)** Non-Federal entities authorized under the Indian Self-Determination Act [ 25 U.S.C. 5321 et seq.].
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 340D, as added [Pub. L. 103–183, title I, § 104](https://www.govinfo.gov/link/plaw/103/public/183), Dec. 14, 1993, [107 Stat. 2230](https://www.govinfo.gov/link/statute/107/2230); amended [Pub. L. 106–310, div. A, title XXV, § 2502(b)](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1163](https://www.govinfo.gov/link/statute/114/1163); [Pub. L. 107–251, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/107/public/251), Oct. 26, 2002, [116 Stat. 1664](https://www.govinfo.gov/link/statute/116/1664).)*

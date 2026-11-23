@@ -3,9 +3,10 @@ title: "Section 1b - Presumptive eligibility for certain breast or cervical canc
 usc_title: 42
 usc_section: "1b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1b"
-generated_at: "2026-03-30T02:56:11.051Z"
+generated_at: "2026-11-23T21:26:31.861Z"
+status: "active"
 ---
 
 # § 1396r–1b. Presumptive eligibility for certain breast or cervical cancer patients
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:11.051Z"
     - **(A)** during a presumptive eligibility period;
     - **(B)** by a 1 1 So in original. Probably should be “an”. entity that is eligible for payments under the State plan; and
   - **(2)** is included in the care and services covered by the State plan,
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XIX, § 1920B, as added [Pub. L. 106–354, § 2(b)(1)](https://www.govinfo.gov/link/plaw/106/public/354), Oct. 24, 2000, [114 Stat. 1382](https://www.govinfo.gov/link/statute/114/1382).)*

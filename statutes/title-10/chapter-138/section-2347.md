@@ -3,9 +3,10 @@ title: "Section 2347 - Limitation on amounts that may be obligated or accrued by
 usc_title: 10
 usc_section: "2347"
 chapter: 138
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2347"
-generated_at: "2026-03-30T02:53:38.155Z"
+generated_at: "2026-11-23T21:25:32.600Z"
+status: "active"
 ---
 
 # § 2347. Limitation on amounts that may be obligated or accrued by the United States
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:38.155Z"
   - **(2)** Except during a period of active hostilities involving the armed forces, the total amount of reimbursable credits that the United States may accrue under this subchapter (before the computation of offsetting balances) with a country which is not a member of the North Atlantic Treaty Organization, but with which the United States has one or more acquisition or cross-servicing agreements may not exceed $75,000,000 in any fiscal year. Such limitation specified in this paragraph is in addition to the limitation specified in paragraph (1).
 - **(c)** When the armed forces are involved in a contingency operation or in a non-combat operation (including an operation in support of the provision of humanitarian or foreign disaster assistance or in support of peacekeeping operations under chapter VI or VII of the Charter of the United Nations), the restrictions in subsections (a) and (b) are waived for the purposes and duration of that operation.
 - **(d)** The amount of any sale, purchase, or exchange of petroleum, oils, or lubricants by the United States under this subchapter in any fiscal year shall be excluded in any computation for the purposes of subsection (a) or (b) of the amount of reimbursable liabilities or reimbursable credits that the United States accrues under this subchapter in that fiscal year.
+
+## Source Credit
+
+*(Added [Pub. L. 96–323, § 2(a)](https://www.govinfo.gov/link/plaw/96/public/323), Aug. 4, 1980, [94 Stat. 1018](https://www.govinfo.gov/link/statute/94/1018), § 2327; renumbered § 2347, [Pub. L. 99–145, title XIII, § 1304(a)(1)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 741](https://www.govinfo.gov/link/statute/99/741); amended [Pub. L. 99–661, div. A, title XI, § 1104(d)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3965](https://www.govinfo.gov/link/statute/100/3965); [Pub. L. 100–456, div. A, title X, § 1001](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 2037](https://www.govinfo.gov/link/statute/102/2037); [Pub. L. 101–189, div. A, title IX, § 931(e)(1)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1535](https://www.govinfo.gov/link/statute/103/1535); [Pub. L. 102–484, div. A, title XIII, § 1312(b)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2547](https://www.govinfo.gov/link/statute/106/2547); [Pub. L. 103–35, title II, § 202(a)(10)](https://www.govinfo.gov/link/plaw/103/public/35), May 31, 1993, [107 Stat. 101](https://www.govinfo.gov/link/statute/107/101); [Pub. L. 103–337, div. A, title XIII, § 1317(g)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2901](https://www.govinfo.gov/link/statute/108/2901); [Pub. L. 109–364, div. A, title XII, § 1221(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2423](https://www.govinfo.gov/link/statute/120/2423).)*

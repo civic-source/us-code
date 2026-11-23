@@ -3,9 +3,10 @@ title: "Section 4012a - Foreign national employees separation pay"
 usc_title: 22
 usc_section: "4012a"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4012a"
-generated_at: "2026-03-30T02:55:05.401Z"
+generated_at: "2026-11-23T21:25:58.610Z"
+status: "active"
 ---
 
 # § 4012a. Foreign national employees separation pay
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.401Z"
   - **(2)** amounts obligated for fiscal years after 1991 by such agencies for the current and future costs of separation pay of foreign national employees.
 - **(c)** Amounts shall be deposited in the fund annually and are authorized to be available until expended.
 - **(d)** Amounts deposited in the fund shall be available for expenditure to make separation payments to foreign national employees in countries in which such pay is legally authorized.
+
+## Source Credit
+
+*([Pub. L. 102–138, title I, § 151](https://www.govinfo.gov/link/plaw/102/public/138), Oct. 28, 1991, [105 Stat. 672](https://www.govinfo.gov/link/statute/105/672).)*

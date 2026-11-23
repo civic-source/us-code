@@ -3,9 +3,10 @@ title: "Section 3310 - Employment of United States Government agency personnel"
 usc_title: 22
 usc_section: "3310"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3310"
-generated_at: "2026-03-30T02:55:05.391Z"
+generated_at: "2026-11-23T21:25:58.582Z"
+status: "active"
 ---
 
 # § 3310. Employment of United States Government agency personnel
@@ -20,3 +21,15 @@ generated_at: "2026-03-30T02:55:05.391Z"
 - **(d)**
   - **(1)** For purposes of sections 911 and 913 2 2 See References in Text note below. of title 26, amounts paid by the Institute to its employees shall not be treated as earned income. Amounts received by employees of the Institute shall not be included in gross income, and shall be exempt from taxation, to the extent that they are equivalent to amounts received by civilian officers and employees of the Government of the United States as allowances and benefits which are exempt from taxation under section 912 of title 26 .
   - **(2)** Except to the extent required by subsection (a)(3) of this section, service performed in the employ of the Institute shall not constitute employment for purposes of chapter 21 of title 26 and title II of the Social Security Act [ 42 U.S.C. 401 et seq.].
+
+Section
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 96–8, § 11](https://www.govinfo.gov/link/plaw/96/public/8), Apr. 10, 1979, [93 Stat. 18](https://www.govinfo.gov/link/statute/93/18); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095).)*

@@ -3,9 +3,10 @@ title: "Section 360ii - Program of control"
 usc_title: 21
 usc_section: "360ii"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 360ii"
-generated_at: "2026-03-30T02:54:54.253Z"
+generated_at: "2026-11-23T21:25:56.093Z"
+status: "active"
 ---
 
 # § 360ii. Program of control
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:54.253Z"
 - **(c)**
   - **(1)** Each recipient of assistance under this part pursuant to grants or contracts entered into under other than competitive bidding procedures shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
   - **(2)** The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipients that are pertinent to the grants or contracts entered into under this part under other than competitive bidding procedures.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 532, formerly act July 1, 1944, ch. 373, title III, § 532, formerly § 356, as added [Pub. L. 90–602, § 2(3)](https://www.govinfo.gov/link/plaw/90/public/602), Oct. 18, 1968, [82 Stat. 1174](https://www.govinfo.gov/link/statute/82/1174); renumbered § 532 and amended [Pub. L. 101–629, § 19(a)(1)(B)](https://www.govinfo.gov/link/plaw/101/public/629), (2)(A), (3), (4), Nov. 28, 1990, [104 Stat. 4529](https://www.govinfo.gov/link/statute/104/4529), 4530; [Pub. L. 103–80, § 4(a)(2)](https://www.govinfo.gov/link/plaw/103/public/80), Aug. 13, 1993, [107 Stat. 779](https://www.govinfo.gov/link/statute/107/779).)*

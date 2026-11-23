@@ -3,9 +3,10 @@ title: "Section 75 - Authority and functions of the board"
 usc_title: 20
 usc_section: "75"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 75"
-generated_at: "2026-03-30T02:54:48.073Z"
+generated_at: "2026-11-23T21:25:46.917Z"
+status: "active"
 ---
 
 # § 75. Authority and functions of the board
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:48.073Z"
 - **(b)** In order that the collection of the National Gallery of Art shall always be maintained at a high standard and in order to prevent the introduction therein of inferior works of art, no work of art shall be included in the permanent collection of the National Gallery of Art unless it be of similar high standard of quality to those in the collection acquired from the donor.
 - **(c)** The board shall have all the usual powers and obligations of a trustee in respect of all trust funds administered by it and all works of art acquired by it.
 - **(d)** The board shall submit to the Smithsonian Institution an annual report of its operations under this subchapter, including a detailed statement of all acquisitions and loans of works of art and of all public and private moneys received and disbursed.
+
+## Source Credit
+
+*(Mar. 24, 1937, ch. 50, § 5, [50 Stat. 53](https://www.govinfo.gov/link/statute/50/53).)*

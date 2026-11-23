@@ -3,9 +3,10 @@ title: "Section 412 - Special provisions concerning the Department of the Treasu
 usc_title: 5
 usc_section: "412"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 412"
-generated_at: "2026-03-30T02:52:55.981Z"
+generated_at: "2026-11-23T21:25:23.037Z"
+status: "active"
 ---
 
 # § 412. Special provisions concerning the Department of the Treasury
@@ -60,3 +61,142 @@ generated_at: "2026-03-30T02:52:55.981Z"
     - **(A)** Any final report of an audit conducted by the Treasury Inspector General for Tax Administration shall be timely submitted by the Inspector General to the Commissioner of Internal Revenue and the Internal Revenue Service Oversight Board.
     - **(B)** The Treasury Inspector General for Tax Administration shall periodically submit to the Commissioner and Board a list of investigations for which a final report has been completed by the Inspector General and shall provide a copy of any such report upon request of the Commissioner or Board.
     - **(C)** This paragraph applies regardless of whether the applicable audit or investigation is requested under paragraph (1).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 412 | 5 U.S.C. App. (IGA § 8D) | Pub. L. 95–452, § 8D , formerly § 8C, as added Pub. L. 100–504, title I, § 102(f) , Oct. 18, 1988 , 102 Stat. 2518 ; renumbered § 8D, Pub. L. 103–204, § 23(a)(3) , Dec. 17, 1993 , 107 Stat. 2408 ; amended Pub. L. 105–206, title I, § 1103(b) , (e)(1), (2), July 22, 1998 , 112 Stat. 705 , 709; Pub. L. 107–296, title XI, § 1112(a)(1) , Nov. 25, 2002 , 116 Stat. 2275 ; Pub. L. 108–7, div. L, § 104(c)(2) , Feb. 20, 2003 , 117 Stat. 531 ; Pub. L. 109–177, title VI, § 605(e)(3) , Mar. 9, 2006 , 120 Stat. 255 ; Pub. L. 110–409, § 14(b) , Oct. 14, 2008 , 122 Stat. 4316 ; Pub. L. 112–199, title I, § 117(b) , Nov. 27, 2012 , 126 Stat. 1475 ; Pub. L. 114–317 , §§ 6(2), 7(d)(3)(C), Dec. 16, 2016 , 130 Stat. 1604 , 1606. |
+
+
+In General.—
+
+Authority of secretary of treasury over certain audits and investigations
+
+Authority of secretary of treasury to prohibit carrying out or completing certain audits and investigations
+
+Notification and statement of reasons for exercise of power
+
+Exception relating to treasury inspector general for tax administration
+
+Oversight Responsibility for Internal Investigations.—
+
+In general
+
+Exercise of duties and responsibilities
+
+Establishment of procedures
+
+Audits and Investigations in Department of Treasury
+
+Authority To Provide Written Notice to Tax and Trade Bureau
+
+Treasury Inspector General for Tax Administration.—
+
+Access to returns and return information
+
+Standardized records and accountings
+
+Safeguards and conditions
+
+Audit or Investigation Shall Not Affect Final Decision Under Section
+
+of Internal Revenue Code of
+
+Reports.—
+
+Reports to congressional committees
+
+Reports made by treasury inspector general for tax administration to congressional committees
+
+Duties and Responsibilities of Treasury Inspector General for Tax Administration
+
+Ability To Lead Large and Complex Organization
+
+Prohibition on Appointment of Employee of Internal Revenue Service to Certain Positions
+
+Additional Duties and Responsibilities.—
+
+In general
+
+Reporting violations.—
+
+Reporting reasonable grounds to believe a violation of federal criminal law occurred
+
+Reporting problems, abuses, or deficiencies
+
+Limitation
+
+Request for Audit or Investigation Relating to Internal Revenue Service.—
+
+In general
+
+Reports.—
+
+Final report of audit
+
+Periodic list of investigations for which final report completed
+
+Applicability
+
+Historical and Revision Notes
+
+412
+
+Pub. L. 95–452, § 8D
+
+Pub. L. 100–504, title I, § 102(f)
+
+Oct. 18, 1988
+
+102 Stat. 2518
+
+Pub. L. 103–204, § 23(a)(3)
+
+Dec. 17, 1993
+
+107 Stat. 2408
+
+Pub. L. 105–206, title I, § 1103(b)
+
+July 22, 1998
+
+112 Stat. 705
+
+Pub. L. 107–296, title XI, § 1112(a)(1)
+
+Nov. 25, 2002
+
+116 Stat. 2275
+
+Pub. L. 108–7, div. L, § 104(c)(2)
+
+Feb. 20, 2003
+
+117 Stat. 531
+
+Pub. L. 109–177, title VI, § 605(e)(3)
+
+Mar. 9, 2006
+
+120 Stat. 255
+
+Pub. L. 110–409, § 14(b)
+
+Oct. 14, 2008
+
+122 Stat. 4316
+
+Pub. L. 112–199, title I, § 117(b)
+
+Nov. 27, 2012
+
+126 Stat. 1475
+
+Pub. L. 114–317
+
+Dec. 16, 2016
+
+130 Stat. 1604
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(b)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4229](https://www.govinfo.gov/link/statute/136/4229).)*

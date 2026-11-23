@@ -3,9 +3,10 @@ title: "Section 18646 - Nuclear physics"
 usc_title: 42
 usc_section: "18646"
 chapter: 161
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18646"
-generated_at: "2026-03-30T02:56:11.524Z"
+generated_at: "2026-11-23T21:26:33.832Z"
+status: "active"
 ---
 
 # § 18646. Nuclear physics
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.524Z"
   - **(3)** $1,062,239,328 for fiscal year 2025;
   - **(4)** $1,190,833,688 for fiscal year 2026; and
   - **(5)** $1,248,463,709 for fiscal year 2027.
+
+## Source Credit
+
+*([Pub. L. 115–246, title III, § 308](https://www.govinfo.gov/link/plaw/115/public/246), Sept. 28, 2018, [132 Stat. 3150](https://www.govinfo.gov/link/statute/132/3150); [Pub. L. 117–167, div. B, title I, § 10107](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1449](https://www.govinfo.gov/link/statute/136/1449).)*

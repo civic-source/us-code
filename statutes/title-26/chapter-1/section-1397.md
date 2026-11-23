@@ -3,9 +3,10 @@ title: "Section 1397 - Other definitions and special rules"
 usc_title: 26
 usc_section: "1397"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1397"
-generated_at: "2026-03-30T02:55:27.774Z"
+generated_at: "2026-11-23T21:26:06.504Z"
+status: "active"
 ---
 
 # § 1397. Other definitions and special rules
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:27.774Z"
   - **(1)** all employers treated as a single employer under subsection (a) or (b) of section 52 shall be treated as a single employer for purposes of this subpart, and
   - **(2)** the credit (if any) determined under section 1396 with respect to each such employer shall be its proportionate share of the wages giving rise to such credit.
 - **(c)** For purposes of this subpart, rules similar to the rules of section 51(k) and subsections (c), (d), and (e) of section 52 shall apply.
+
+## Source Credit
+
+*(Added [Pub. L. 103–66, title XIII, § 13301(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 551](https://www.govinfo.gov/link/statute/107/551).)*

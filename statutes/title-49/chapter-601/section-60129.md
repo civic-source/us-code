@@ -3,9 +3,10 @@ title: "Section 60129 - Protection of employees providing pipeline safety inform
 usc_title: 49
 usc_section: "60129"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 60129"
-generated_at: "2026-03-30T02:56:19.415Z"
+generated_at: "2026-11-23T21:26:41.032Z"
+status: "active"
 ---
 
 # § 60129. Protection of employees providing pipeline safety information
@@ -52,3 +53,69 @@ generated_at: "2026-03-30T02:56:19.415Z"
 - **(e)**
   - **(1)** The rights and remedies provided under this section may not be waived by any agreement, policy, form, or condition of employment, including by a predispute arbitration agreement.
   - **(2)** No provision of a predispute arbitration agreement shall be valid or enforceable if the provision requires arbitration of a dispute arising under subsection (a)(1).
+
+Discrimination Against Employee.—
+
+In general
+
+Employer defined
+
+Department of Labor Complaint Procedure.—
+
+Filing and notification
+
+Investigation; preliminary order.—
+
+In general
+
+Requirements.—
+
+Required showing by complainant
+
+Showing by employer
+
+Criteria for determination by Secretary
+
+Prohibition
+
+Final order.—
+
+Deadline for issuance; settlement agreements
+
+Remedy
+
+Frivolous complaints
+
+De novo review.—
+
+In general
+
+Burdens of proof
+
+Review.—
+
+Appeal to court of appeals
+
+Limitation on collateral attack
+
+Enforcement of order by secretary of labor
+
+Enforcement of order by parties.—
+
+Commencement of action
+
+Attorney fees
+
+Mandamus
+
+Nonapplicability To Deliberate Violations
+
+Nonenforceability of Certain Provisions Waiving Rights and Remedies or Requiring Arbitration of Disputes.—
+
+Waiver of rights and remedies
+
+Predispute arbitration agreements
+
+## Source Credit
+
+*(Added [Pub. L. 107–355, § 6(a)](https://www.govinfo.gov/link/plaw/107/public/355), Dec. 17, 2002, [116 Stat. 2989](https://www.govinfo.gov/link/statute/116/2989); amended [Pub. L. 116–260, div. R, title I, § 116](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2233](https://www.govinfo.gov/link/statute/134/2233).)*

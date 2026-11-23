@@ -3,9 +3,10 @@ title: "Section 12731b - Special rule for members with physical disabilities not
 usc_title: 10
 usc_section: "12731b"
 chapter: 1223
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 12731b"
-generated_at: "2026-03-30T02:53:38.271Z"
+generated_at: "2026-11-23T21:25:33.053Z"
+status: "active"
 ---
 
 # § 12731b. Special rule for members with physical disabilities not incurred in line of duty
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:38.271Z"
 - **(b)** Notification under subsection (a) may not be made if—
   - **(1)** the disability was the result of the member’s intentional misconduct, willful neglect, or willful failure to comply with standards and qualifications for retention established by the Secretary concerned; or
   - **(2)** the disability was incurred during a period of unauthorized absence.
+
+## Source Credit
+
+*(Added [Pub. L. 106–65, div. A, title VI, § 653(b)(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 666](https://www.govinfo.gov/link/statute/113/666).)*

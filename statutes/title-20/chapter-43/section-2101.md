@@ -3,9 +3,10 @@ title: "Section 2101 - Congressional declaration of findings and purpose"
 usc_title: 20
 usc_section: "2101"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 2101"
-generated_at: "2026-03-30T02:54:48.171Z"
+generated_at: "2026-11-23T21:25:47.367Z"
+status: "active"
 ---
 
 # § 2101. Congressional declaration of findings and purpose
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:54:48.171Z"
   - **(5)** that the encouragement and support of American folklife, while primarily a matter for private and local initiative, is also an appropriate matter of concern to the Federal Government; and
   - **(6)** that it is in the interest of the general welfare of the Nation to preserve, support, revitalize, and disseminate American folklife traditions and arts.
 - **(b)** It is therefore the purpose of this subchapter to establish in the Library of Congress an American Folklife Center to preserve and pre­sent American folklife.
+
+Findings
+
+Purpose
+
+## Source Credit
+
+*([Pub. L. 94–201, § 2](https://www.govinfo.gov/link/plaw/94/public/201), Jan. 2, 1976, [89 Stat. 1129](https://www.govinfo.gov/link/statute/89/1129).)*

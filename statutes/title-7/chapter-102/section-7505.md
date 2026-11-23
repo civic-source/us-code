@@ -3,9 +3,10 @@ title: "Section 7505 - Federal and State responsibilities"
 usc_title: 7
 usc_section: "7505"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7505"
-generated_at: "2026-03-30T02:53:42.455Z"
+generated_at: "2026-11-23T21:25:28.434Z"
+status: "active"
 ---
 
 # § 7505. Federal and State responsibilities
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.455Z"
 - **(d)** Each State agency receiving commodities under this chapter may—
   - **(1)** enter into cooperative agreements with State agencies of other States for joint provision of such commodities to an emergency feeding organization that serves needy persons in a single geographical area part of which is situated in each of such States; or
   - **(2)** transfer such commodities to any such emergency feeding organization in the other State under such agreement.
+
+## Source Credit
+
+*([Pub. L. 98–8, title II, § 203B](https://www.govinfo.gov/link/plaw/98/public/8), as added [Pub. L. 98–92, § 2(5)](https://www.govinfo.gov/link/plaw/98/public/92), Sept. 2, 1983, [97 Stat. 610](https://www.govinfo.gov/link/statute/97/610); amended [Pub. L. 99–198, title XV, § 1568](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1592](https://www.govinfo.gov/link/statute/99/1592); [Pub. L. 100–435, title I, § 105(c)](https://www.govinfo.gov/link/plaw/100/public/435), Sept. 19, 1988, [102 Stat. 1651](https://www.govinfo.gov/link/statute/102/1651); [Pub. L. 104–193, title VIII, § 871(e)(1)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2345](https://www.govinfo.gov/link/statute/110/2345).)*

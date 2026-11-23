@@ -3,9 +3,10 @@ title: "Section 5333 - Safe harbor with respect to keep open directives"
 usc_title: 31
 usc_section: "5333"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 5333"
-generated_at: "2026-03-30T02:55:34.070Z"
+generated_at: "2026-11-23T21:26:10.627Z"
+status: "active"
 ---
 
 # § 5333. Safe harbor with respect to keep open directives
@@ -24,3 +25,17 @@ generated_at: "2026-03-30T02:55:34.070Z"
   - **(1)** submit to FinCEN a copy of the request; and
   - **(2)** alert FinCEN as to whether the financial institution has implemented the request.
 - **(e)** The Secretary of the Treasury, in consultation with the Attorney General and Federal, State, Tribal, and local law enforcement agencies, shall issue guidance on the required elements of a keep open request.
+
+In General
+
+Rule of Construction
+
+Letter Termination Date
+
+Record Keeping
+
+Guidance
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. F, title LXIII, § 6306(a)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4588](https://www.govinfo.gov/link/statute/134/4588).)*

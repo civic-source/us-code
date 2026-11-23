@@ -3,9 +3,10 @@ title: "Section 9542 - Sense of Congress"
 usc_title: 22
 usc_section: "9542"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9542"
-generated_at: "2026-03-30T02:55:05.468Z"
+generated_at: "2026-11-23T21:25:58.777Z"
+status: "active"
 ---
 
 # § 9542. Sense of Congress
@@ -32,3 +33,7 @@ It is the sense of Congress that—
   - **(10)** the President of the United States should use the authority of the President to impose sanctions under—
     - **(A)** the Sergei Magnitsky Rule of Law Accountability Act of 2012 (title IV of Public Law 112–208 ; 22 U.S.C. 5811 note); and
     - **(B)** the Global Magnitsky Human Rights Accountability Act (subtitle F of title XII of Public Law 114–328 ; 22 U.S.C. 2656 note). 1 1 See References in Text note below.
+
+## Source Credit
+
+*([Pub. L. 115–44, title II, § 252](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 926](https://www.govinfo.gov/link/statute/131/926).)*

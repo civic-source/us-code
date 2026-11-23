@@ -3,9 +3,10 @@ title: "Section 3028 - Positions of importance and responsibility"
 usc_title: 33
 usc_section: "3028"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3028"
-generated_at: "2026-03-30T02:55:41.136Z"
+generated_at: "2026-11-23T21:26:11.475Z"
+status: "active"
 ---
 
 # § 3028. Positions of importance and responsibility
@@ -21,3 +22,11 @@ generated_at: "2026-03-30T02:55:41.136Z"
 - **(g)** An appointment of an officer under this section—
   - **(1)** does not vacate the permanent grade held by the officer; and
   - **(2)** creates a vacancy on the active list.
+
+Overall limit
+
+Limit by grade
+
+## Source Credit
+
+*([Pub. L. 107–372, title II, § 228](https://www.govinfo.gov/link/plaw/107/public/372), Dec. 19, 2002, [116 Stat. 3086](https://www.govinfo.gov/link/statute/116/3086); [Pub. L. 112–166, § 2(gg)(2)](https://www.govinfo.gov/link/plaw/112/public/166), Aug. 10, 2012, [126 Stat. 1290](https://www.govinfo.gov/link/statute/126/1290); [Pub. L. 116–259, title III, § 303](https://www.govinfo.gov/link/plaw/116/public/259), Dec. 23, 2020, [134 Stat. 1171](https://www.govinfo.gov/link/statute/134/1171); [Pub. L. 119–60, div. H, title LXXXIV, § 8401(a)(1)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1907](https://www.govinfo.gov/link/statute/139/1907).)*

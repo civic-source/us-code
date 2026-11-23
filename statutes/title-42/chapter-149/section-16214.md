@@ -3,9 +3,10 @@ title: "Section 16214 - Distributed energy technology demonstration programs"
 usc_title: 42
 usc_section: "16214"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16214"
-generated_at: "2026-03-30T02:56:11.473Z"
+generated_at: "2026-11-23T21:26:33.707Z"
+status: "active"
 ---
 
 # § 16214. Distributed energy technology demonstration programs
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.473Z"
     - **(B)** to the fullest extent practicable, identify and utilize the resources of universities that have shown expertise with respect to advanced portable power devices for either civilian or military use.
   - **(2)** The universities identified and utilized under paragraph (1)(B) are authorized to establish an organization to promote small scale portable power devices.
   - **(3)** For purposes of this subsection, the term “small scale portable power device” means a field-deployable portable mechanical or electromechanical device that can be used for applications such as communications, computation, mobility enhancement, weapons systems, optical devices, cooling, sensors, medical devices, and active biological agent detection systems.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 924](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 865](https://www.govinfo.gov/link/statute/119/865).)*

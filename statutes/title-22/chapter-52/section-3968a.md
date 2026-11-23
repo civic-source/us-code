@@ -3,9 +3,10 @@ title: "Section 3968a - Locally-employed staff wages"
 usc_title: 22
 usc_section: "3968a"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3968a"
-generated_at: "2026-03-30T02:55:05.400Z"
+generated_at: "2026-11-23T21:25:58.606Z"
+status: "active"
 ---
 
 # § 3968a. Locally-employed staff wages
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.400Z"
 - **(c)** The analytical assumptions underlying the calculation of wage levels at each diplomatic post under subsection (a), and the data upon which such calculation is based—
   - **(1)** shall be filed electronically and retained for not less than 5 years; and
   - **(2)** shall be made available to the appropriate congressional committees upon request.
+
+## Source Credit
+
+*([Pub. L. 114–323, title IV, § 401](https://www.govinfo.gov/link/plaw/114/public/323), Dec. 16, 2016, [130 Stat. 1926](https://www.govinfo.gov/link/statute/130/1926); [Pub. L. 118–31, div. F, title LXII, § 6226(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 980](https://www.govinfo.gov/link/statute/137/980).)*

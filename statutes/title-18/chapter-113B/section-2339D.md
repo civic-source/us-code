@@ -3,9 +3,10 @@ title: "Section 2339D - Receiving military-type training from a foreign terroris
 usc_title: 18
 usc_section: "2339D"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2339D"
-generated_at: "2026-03-30T02:54:16.505Z"
+generated_at: "2026-11-23T21:25:44.151Z"
+status: "active"
 ---
 
 # § 2339D. Receiving military-type training from a foreign terrorist organization
@@ -23,3 +24,13 @@ generated_at: "2026-03-30T02:54:16.505Z"
   - **(2)** the term “serious bodily injury” has the meaning given that term in section 1365(h)(3);
   - **(3)** the term “critical infrastructure” means systems and assets vital to national defense, national security, economic security, public health or safety including both regional and national infrastructure. Critical infrastructure may be publicly or privately owned; examples of critical infrastructure include gas and oil production, storage, or delivery systems, water supply systems, telecommunications networks, electrical power generation or delivery systems, financing and banking systems, emergency services (including medical, police, fire, and rescue services), and transportation systems and services (including highways, mass transit, airlines, and airports); and
   - **(4)** the term “foreign terrorist organization” means an organization designated as a terrorist organization under section 219(a)(1) of the Immigration and Nationality Act.
+
+Offense
+
+Extraterritorial Jurisdiction
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 108–458, title VI, § 6602](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3761](https://www.govinfo.gov/link/statute/118/3761).)*

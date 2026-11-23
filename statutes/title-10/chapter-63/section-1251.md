@@ -3,9 +3,10 @@ title: "Section 1251 - Age 62: regular commissioned officers in grades below gen
 usc_title: 10
 usc_section: "1251"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1251"
-generated_at: "2026-03-30T02:53:38.116Z"
+generated_at: "2026-11-23T21:25:32.455Z"
+status: "active"
 ---
 
 # § 1251. Age 62: regular commissioned officers in grades below general and flag officer grades; exceptions
@@ -32,3 +33,17 @@ generated_at: "2026-03-30T02:53:38.116Z"
     - **(A)** If the officer has at least 6 but fewer than 20 years of creditable service, the officer shall be separated, with separation pay computed under section 1174(d)(1) of this title .
     - **(B)** If the officer has fewer than 6 years of creditable service, the officer shall be separated under subsection (a).
   - **(2)** Notwithstanding paragraph (1), in the case of a regular commissioned officer who was added to the retired list before the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, the officer shall be retired, with retired pay computed under section 1401 of this title .
+
+General Rule
+
+Deferred Retirement or Separation of Health Professions Officers
+
+Deferred Retirement or Separation of Other Officers
+
+Limitation on Deferment of Retirements
+
+Retirement or Separation Based on Years of Creditable Service
+
+## Source Credit
+
+*(Added [Pub. L. 96–513, title I, § 111](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2875](https://www.govinfo.gov/link/statute/94/2875); amended [Pub. L. 100–180, div. A, title VII, § 719](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1115](https://www.govinfo.gov/link/statute/101/1115); [Pub. L. 101–189, div. A, title VII, § 709](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1476](https://www.govinfo.gov/link/statute/103/1476); [Pub. L. 105–85, div. A, title V, § 504(a)](https://www.govinfo.gov/link/plaw/105/public/85), (b), Nov. 18, 1997, [111 Stat. 1725](https://www.govinfo.gov/link/statute/111/1725); [Pub. L. 109–163, div. A, title V, § 509(c)(3)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3231](https://www.govinfo.gov/link/statute/119/3231); [Pub. L. 109–364, div. A, title V, § 502(b)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2176](https://www.govinfo.gov/link/statute/120/2176); [Pub. L. 111–383, div. A, title V, § 501(b)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4206](https://www.govinfo.gov/link/statute/124/4206); [Pub. L. 116–283, div. A, title V, § 507](https://www.govinfo.gov/link/plaw/116/public/283), title IX, § 924(b)(3)(T), Jan. 1, 2021, [134 Stat. 3573](https://www.govinfo.gov/link/statute/134/3573), 3821.)*

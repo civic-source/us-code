@@ -3,9 +3,10 @@ title: "Section 552a - Records maintained on individuals"
 usc_title: 5
 usc_section: "552a"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 552a"
-generated_at: "2026-03-30T02:52:55.987Z"
+generated_at: "2026-11-23T21:25:23.061Z"
+status: "active"
 ---
 
 # § 552a. Records maintained on individuals
@@ -234,3 +235,113 @@ generated_at: "2026-03-30T02:52:55.987Z"
   - **(1)** develop and, after notice and opportunity for public comment, prescribe guidelines and regulations for the use of agencies in implementing the provisions of this section; and
   - **(2)** provide continuing assistance to and oversight of the implementation of this section by agencies.
 - **(w)** Except as provided in the Consumer Financial Protection Act of 2010, this section shall apply with respect to the Bureau of Consumer Financial Protection.
+
+Definitions
+
+Conditions of Disclosure
+
+Accounting of Certain Disclosures
+
+Access to Records
+
+Agency Requirements
+
+Agency Rules
+
+Civil Remedies
+
+Rights of Legal Guardians
+
+Criminal Penalties
+
+General Exemptions
+
+Specific Exemptions
+
+Archival Records
+
+Government Contractors
+
+Mailing Lists
+
+Matching Agreements
+
+Verification and Opportunity to Contest Findings
+
+Sanctions
+
+Report on New Systems and Matching Programs
+
+Biennial Report
+
+Effect of Other Laws
+
+Data Integrity Boards
+
+Office of Management and Budget Responsibilities
+
+Applicability to Bureau of Consumer Financial Protection
+
+In General
+
+Exceptions
+
+Effective Date Delayed for Existing Programs
+
+Guidance
+
+Agency Compliance
+
+Definitions
+
+Agency; individual; record
+
+Director
+
+Civil Action; Civil Remedies
+
+Exclusive Remedies
+
+Application of the Privacy Act With Respect to a Covered Person
+
+Designation of Covered Country.—
+
+In general
+
+Removal of designation
+
+Designation of Designated Federal Agency or Component.—
+
+In general
+
+Requirements for designation
+
+Federal Register Requirement; Nonreviewable Determination
+
+Jurisdiction
+
+Definitions
+
+Agency
+
+Covered country
+
+Covered person
+
+Covered record
+
+Designated federal agency or component
+
+Individual
+
+Preservation of Privileges
+
+Effective Date
+
+“ Section 552a(p)(1)(A)(ii)(II) of title 5 , United States Code, as amended by section 2 [probably means section 7201(b)(1) of Pub. L. 101–508 ], shall not apply to a program referred to in paragraph (1), (2), or (4) of section 1137(b) of the Social Security Act ( 42 U.S.C. 1320b–7 ), until the earlier of—
+
+“Nothing in the amendments made by this Act [amending this section and repealing provisions set out as a note below] shall be construed to authorize—
+
+## Source Credit
+
+*(Added [Pub. L. 93–579, § 3](https://www.govinfo.gov/link/plaw/93/public/579), Dec. 31, 1974, [88 Stat. 1897](https://www.govinfo.gov/link/statute/88/1897); amended [Pub. L. 94–183, § 2(2)](https://www.govinfo.gov/link/plaw/94/public/183), Dec. 31, 1975, [89 Stat. 1057](https://www.govinfo.gov/link/statute/89/1057); [Pub. L. 97–365, § 2](https://www.govinfo.gov/link/plaw/97/public/365), Oct. 25, 1982, [96 Stat. 1749](https://www.govinfo.gov/link/statute/96/1749); [Pub. L. 97–375, title II, § 201(a)](https://www.govinfo.gov/link/plaw/97/public/375), (b), Dec. 21, 1982, [96 Stat. 1821](https://www.govinfo.gov/link/statute/96/1821); [Pub. L. 97–452, § 2(a)(1)](https://www.govinfo.gov/link/plaw/97/public/452), Jan. 12, 1983, [96 Stat. 2478](https://www.govinfo.gov/link/statute/96/2478); [Pub. L. 98–477, § 2(c)](https://www.govinfo.gov/link/plaw/98/public/477), Oct. 15, 1984, [98 Stat. 2211](https://www.govinfo.gov/link/statute/98/2211); [Pub. L. 98–497, title I, § 107(g)](https://www.govinfo.gov/link/plaw/98/public/497), Oct. 19, 1984, [98 Stat. 2292](https://www.govinfo.gov/link/statute/98/2292); [Pub. L. 100–503](https://www.govinfo.gov/link/plaw/100/public/503), §§ 2–6(a), 7, 8, Oct. 18, 1988, [102 Stat. 2507–2514](https://www.govinfo.gov/link/statute/102/2507); [Pub. L. 101–508, title VII, § 7201(b)(1)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–334](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–66, title XIII, § 13581(c)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 611](https://www.govinfo.gov/link/statute/107/611); [Pub. L. 104–193, title I, § 110(w)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2175](https://www.govinfo.gov/link/statute/110/2175); [Pub. L. 104–226, § 1(b)(3)](https://www.govinfo.gov/link/plaw/104/public/226), Oct. 2, 1996, [110 Stat. 3033](https://www.govinfo.gov/link/statute/110/3033); [Pub. L. 104–316, title I, § 115(g)(2)(B)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3835](https://www.govinfo.gov/link/statute/110/3835); [Pub. L. 105–34, title X, § 1026(b)(2)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 925](https://www.govinfo.gov/link/statute/111/925); [Pub. L. 105–362, title XIII, § 1301(d)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3293](https://www.govinfo.gov/link/statute/112/3293); [Pub. L. 106–170, title IV, § 402(a)(2)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1908](https://www.govinfo.gov/link/statute/113/1908); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 111–148, title VI, § 6402(b)(2)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 756](https://www.govinfo.gov/link/statute/124/756); [Pub. L. 111–203, title X, § 1082](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2080](https://www.govinfo.gov/link/statute/124/2080); [Pub. L. 113–295, div. B, title I, § 102(d)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4062](https://www.govinfo.gov/link/statute/128/4062); [Pub. L. 118–104, § 2](https://www.govinfo.gov/link/plaw/118/public/104), Oct. 2, 2024, [138 Stat. 1586](https://www.govinfo.gov/link/statute/138/1586).)*

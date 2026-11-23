@@ -3,9 +3,10 @@ title: "Section 3101 - Purposes of agricultural research, extension, and educati
 usc_title: 7
 usc_section: "3101"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3101"
-generated_at: "2026-03-30T02:53:42.392Z"
+generated_at: "2026-11-23T21:25:28.310Z"
+status: "active"
 ---
 
 # § 3101. Purposes of agricultural research, extension, and education
@@ -24,3 +25,7 @@ The purposes of federally supported agricultural research, extension, and educat
     - **(A)** addressing emerging plant and animal diseases;
     - **(B)** improving crop varieties and animal breeds; and
     - **(C)** developing safe, efficient, and nutritious food systems.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1402](https://www.govinfo.gov/link/plaw/95/public/113), as added [Pub. L. 101–624, title XVI, § 1602(a)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3705](https://www.govinfo.gov/link/statute/104/3705); amended [Pub. L. 104–127, title VIII, § 801](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1156](https://www.govinfo.gov/link/statute/110/1156); [Pub. L. 115–334, title VII, § 7101](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4779](https://www.govinfo.gov/link/statute/132/4779).)*

@@ -3,9 +3,10 @@ title: "Section 7514 - Native Hawaiian Education Council"
 usc_title: 20
 usc_section: "7514"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7514"
-generated_at: "2026-03-30T02:54:48.214Z"
+generated_at: "2026-11-23T21:25:47.590Z"
+status: "active"
 ---
 
 # § 7514. Native Hawaiian Education Council
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:54:48.214Z"
     - **(C)** other Native Hawaiian education issues; and
   - **(3)** the Education Council shall report to the community on the outcomes of the activities supported by grants awarded under this part.
 - **(f)** For each fiscal year, the Secretary shall use the amount described in section 7515(c)(2) of this title , to make a payment under the grant. Funds made available through the grant shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VI, § 6204](https://www.govinfo.gov/link/plaw/89/public/10), formerly title VII, § 7204, as added [Pub. L. 107–110, title VII, § 701](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1937](https://www.govinfo.gov/link/statute/115/1937); renumbered title VI, § 6204, and amended [Pub. L. 114–95, title VI](https://www.govinfo.gov/link/plaw/114/public/95), §§ 6001(a), (b)(1), 6003(b), Dec. 10, 2015, [129 Stat. 2046](https://www.govinfo.gov/link/statute/129/2046), 2063.)*

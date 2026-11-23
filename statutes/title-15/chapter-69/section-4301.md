@@ -3,9 +3,10 @@ title: "Section 4301 - Definitions"
 usc_title: 15
 usc_section: "4301"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4301"
-generated_at: "2026-03-30T02:54:08.198Z"
+generated_at: "2026-11-23T21:25:39.989Z"
+status: "active"
 ---
 
 # § 4301. Definitions
@@ -46,3 +47,15 @@ generated_at: "2026-03-30T02:54:08.198Z"
   - **(1)** Exchanging information among competitors relating to cost, sales, profitability, prices, marketing, or distribution of any product, process, or service that is not reasonably required for the purpose of developing or promulgating a voluntary consensus standard, or using such standard in conformity assessment activities.
   - **(2)** Entering into any agreement or engaging in any other conduct that would allocate a market with a competitor.
   - **(3)** Entering into any agreement or conspiracy that would set or restrain prices of any good or service.
+
+“Nothing in this title [amending this section and sections 4302 to 4305 of this title and enacting provisions set out as notes under this section] shall be construed to alter or modify the antitrust treatment under existing law of—
+
+“The Congress finds the following:
+
+Findings
+
+Purpose
+
+## Source Credit
+
+*([Pub. L. 98–462, § 2](https://www.govinfo.gov/link/plaw/98/public/462), Oct. 11, 1984, [98 Stat. 1815](https://www.govinfo.gov/link/statute/98/1815); [Pub. L. 103–42, § 3(b)](https://www.govinfo.gov/link/plaw/103/public/42), (c), June 10, 1993, [107 Stat. 117](https://www.govinfo.gov/link/statute/107/117), 118; [Pub. L. 108–237, title I, § 103](https://www.govinfo.gov/link/plaw/108/public/237), June 22, 2004, [118 Stat. 663](https://www.govinfo.gov/link/statute/118/663).)*

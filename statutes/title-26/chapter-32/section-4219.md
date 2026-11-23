@@ -3,12 +3,17 @@ title: "Section 4219 - Application of tax in case of sales by other than manufac
 usc_title: 26
 usc_section: "4219"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4219"
-generated_at: "2026-03-30T02:55:27.801Z"
+generated_at: "2026-11-23T21:26:06.606Z"
+status: "active"
 ---
 
 # § 4219. Application of tax in case of sales by other than manufacturer or importer
 
 In case any person acquires from the manufacturer, producer, or importer of an article, by operation of law or as a result of any transaction not taxable under this chapter, the right to sell such article, the sale of such article by such person shall be taxable under this chapter as if made by the manufacturer, producer, or importer, and such person shall be liable for the tax.
 
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 494.)*

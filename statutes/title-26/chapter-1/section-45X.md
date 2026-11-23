@@ -3,9 +3,10 @@ title: "Section 45X - Advanced manufacturing production credit"
 usc_title: 26
 usc_section: "45X"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 45X"
-generated_at: "2026-03-30T02:55:27.605Z"
+generated_at: "2026-11-23T21:26:05.941Z"
+status: "active"
 ---
 
 # § 45X. Advanced manufacturing production credit
@@ -286,3 +287,37 @@ generated_at: "2026-03-30T02:55:27.605Z"
       - **(i)** a specified foreign entity (as defined in section 7701(a)(51)(B)), or
       - **(ii)** a foreign-influenced entity (as defined in section 7701(a)(51)(D), without regard to clause (i)(II) thereof).
     - **(B)** In the case of a taxpayer for which section 7701(a)(51)(D)(i)(II) is determined to apply for any taxable year, no credit shall be determined under subsection (a) for such taxable year if such determination relates to an eligible component described in subsection (c)(1).
+
+(aa) directly from molten or evaporated solar grade polysilicon or deposition of solar grade thin film semiconductor photon absorber layer, or
+
+(bb) through formation of an ingot from molten polysilicon and subsequent slicing, and
+
+(aa) is part of a solar tracker,
+
+(bb) is of any cross-sectional shape,
+
+(cc) may be assembled from individually manufactured segments,
+
+(dd) spans longitudinally between foundation posts,
+
+(ee) supports solar panels and is connected to a mounting attachment for solar panels (with or without separate module interface rails), and
+
+(ff) is rotated by means of a drive system.
+
+(aa) to connect the mechanical and drive system components of a solar tracker to the foundation of such solar tracker,
+
+(bb) to connect torque tubes to drive assemblies, or
+
+(cc) to connect segments of torque tubes to one another.
+
+(aa) in the case of a module using battery cells, with 2 or more battery cells which are configured electrically, in series or parallel, to create voltage or current, as appropriate, to a specified end use, or
+
+(bb) with no battery cells,
+
+In general
+
+Modification of provision relating to sale of integrated components
+
+## Source Credit
+
+*(Added [Pub. L. 117–169, title I, § 13502(a)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1971](https://www.govinfo.gov/link/statute/136/1971); amended [Pub. L. 119–21, title VII, § 70514(a)](https://www.govinfo.gov/link/plaw/119/public/21) –(e), July 4, 2025, [139 Stat. 273–275](https://www.govinfo.gov/link/statute/139/273).)*

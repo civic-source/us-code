@@ -3,9 +3,10 @@ title: "Section 199 - Joint Interagency Task Force 401"
 usc_title: 10
 usc_section: "199"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 199"
-generated_at: "2026-03-30T02:53:38.046Z"
+generated_at: "2026-11-23T21:25:32.237Z"
+status: "active"
 ---
 
 # § 199. Joint Interagency Task Force 401
@@ -50,3 +51,23 @@ generated_at: "2026-03-30T02:53:38.046Z"
   - **(1)** The term “counter-sUAS system” means a system or device capable of lawfully and safely disabling, disrupting, or seizing control of a small unmanned aircraft or small unmanned aircraft system.
   - **(2)** The term “covered armed forces” means the Army, Navy, Air Force, Marine Corps, and Space Force.
   - **(3)** The terms “small unmanned aircraft”, “unmanned aircraft”, and “unmanned aircraft system” have the meanings given those terms in section 44801 of title 49 .
+
+Establishment
+
+Director.—
+
+Organization
+
+Responsibilities
+
+Approval and Validation of Counter-suas Systems.—
+
+Acquisition Division
+
+Annual Reports
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title IX, § 912(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1015](https://www.govinfo.gov/link/statute/139/1015).)*

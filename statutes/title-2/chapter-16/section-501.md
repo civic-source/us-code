@@ -3,9 +3,10 @@ title: "Section 501 - House Communications Standards Commission"
 usc_title: 2
 usc_section: "501"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 501"
-generated_at: "2026-03-30T02:53:04.797Z"
+generated_at: "2026-11-23T21:25:21.164Z"
+status: "active"
 ---
 
 # § 501. House Communications Standards Commission
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:04.797Z"
   - **(2)** any news release to the communications media;
   - **(3)** any such mass mailing or unsolicited communication made in direct response to a communication from a person to whom the mass mailing or unsolicited communication was transmitted; or
   - **(4)** in the case of any such unsolicited communication which is transmitted in a digital format, a communication for which the cost of the content is less than a threshold amount established under regulations of the House Communications Standards Commission.
+
+## Source Credit
+
+*([Pub. L. 93–191, § 5](https://www.govinfo.gov/link/plaw/93/public/191), Dec. 18, 1973, [87 Stat. 742](https://www.govinfo.gov/link/statute/87/742); [Pub. L. 93–255, § 3(a)](https://www.govinfo.gov/link/plaw/93/public/255), Mar. 27, 1974, [88 Stat. 52](https://www.govinfo.gov/link/statute/88/52); [Pub. L. 97–69, § 7](https://www.govinfo.gov/link/plaw/97/public/69), Oct. 26, 1981, [95 Stat. 1043](https://www.govinfo.gov/link/statute/95/1043); [Pub. L. 116–260, div. I, title I, § 116(b)(1)](https://www.govinfo.gov/link/plaw/116/public/260), (c)(1), Dec. 27, 2020, [134 Stat. 1637](https://www.govinfo.gov/link/statute/134/1637), 1638.)*

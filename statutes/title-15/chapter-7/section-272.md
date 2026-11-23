@@ -3,9 +3,10 @@ title: "Section 272 - Establishment, functions, and activities"
 usc_title: 15
 usc_section: "272"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 272"
-generated_at: "2026-03-30T02:54:08.077Z"
+generated_at: "2026-11-23T21:25:39.615Z"
+status: "active"
 ---
 
 # § 272. Establishment, functions, and activities
@@ -82,3 +83,61 @@ generated_at: "2026-03-30T02:54:08.077Z"
   - **(3)** In this subsection:
     - **(A)** The term “critical infrastructure” has the meaning given the term in section 5195c(e) of title 42 .
     - **(B)** The term “sector-specific agency” means the Federal department or agency responsible for providing institutional knowledge and specialized expertise as well as leading, facilitating, or supporting the security and resilience programs and associated activities of its designated critical infrastructure sector in the all-hazards environment.
+
+“Not later than one year after the date of the enactment of this Act [ Aug. 9, 2022 ] and not less than annually thereafter, the Secretary [of Commerce] shall submit to the Committee on Science, Space, and Technology and the Committee on Appropriations of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate a report on the use of agreements, activities, and associated funding for transactions (other than contracts, cooperative agreements, and grants) described in paragraph (4) of section 2(b) of the National Institute of Standards and Technology Act [ 15 U.S.C. 272(b)(4) ] (as amended by subsection (a)), including the following elements:
+
+In general
+
+Requirements
+
+National cybersecurity awareness and education program
+
+Small business development center cyber strategy
+
+Voluntary resources
+
+Updates
+
+Public availability
+
+Critical infrastructure awareness
+
+Quantum computing
+
+In General
+
+Optimizing Commercial and Industrial Applications
+
+Definitions
+
+Educationally useful federal equipment
+
+School
+
+Sense of the Congress
+
+In general
+
+Consultation; participation
+
+Exception
+
+Expenses of government personnel
+
+Definition of technical standards
+
+Program
+
+Long-Term Plan
+
+“In this section [amending this section and enacting provisions set out as notes under this section]:
+
+Director
+
+Resources
+
+Small business concern
+
+## Source Credit
+
+*(Mar. 3, 1901, ch. 872, § 2, [31 Stat. 1449](https://www.govinfo.gov/link/statute/31/1449); July 22, 1950, ch. 486, § 1, [64 Stat. 371](https://www.govinfo.gov/link/statute/64/371); [Pub. L. 92–317, § 3(b)](https://www.govinfo.gov/link/plaw/92/public/317), June 22, 1972, [86 Stat. 235](https://www.govinfo.gov/link/statute/86/235); [Pub. L. 100–235, § 3(1)](https://www.govinfo.gov/link/plaw/100/public/235), Jan. 8, 1988, [101 Stat. 1724](https://www.govinfo.gov/link/statute/101/1724); [Pub. L. 100–418, title V, § 5112(a)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1428](https://www.govinfo.gov/link/statute/102/1428); [Pub. L. 102–245, title II, § 201(e)](https://www.govinfo.gov/link/plaw/102/public/245), Feb. 14, 1992, [106 Stat. 19](https://www.govinfo.gov/link/statute/106/19); [Pub. L. 104–113, § 12(a)](https://www.govinfo.gov/link/plaw/104/public/113), (b), Mar. 7, 1996, [110 Stat. 782](https://www.govinfo.gov/link/statute/110/782); [Pub. L. 110–69, title III](https://www.govinfo.gov/link/plaw/110/public/69), §§ 3002(c)(2)(A), 3013(b), Aug. 9, 2007, [121 Stat. 586](https://www.govinfo.gov/link/statute/121/586), 598; [Pub. L. 113–274, title I, § 101(a)](https://www.govinfo.gov/link/plaw/113/public/274), (b), Dec. 18, 2014, [128 Stat. 2972](https://www.govinfo.gov/link/statute/128/2972); [Pub. L. 114–329, title I, § 104(b)(4)](https://www.govinfo.gov/link/plaw/114/public/329), title II, §§ 202(d), 205(a)(2)(B), title IV, § 403, Jan. 6, 2017, [130 Stat. 2976](https://www.govinfo.gov/link/statute/130/2976), 2998, 3000, 3023; [Pub. L. 115–236, § 2(b)](https://www.govinfo.gov/link/plaw/115/public/236), Aug. 14, 2018, [132 Stat. 2444](https://www.govinfo.gov/link/statute/132/2444); [Pub. L. 117–167, div. B, title II](https://www.govinfo.gov/link/plaw/117/public/167), §§ 10223, 10228, 10242(a), Aug. 9, 2022, [136 Stat. 1477](https://www.govinfo.gov/link/statute/136/1477), 1481, 1487.)*

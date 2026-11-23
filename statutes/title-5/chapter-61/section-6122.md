@@ -3,9 +3,10 @@ title: "Section 6122 - Flexible schedules; agencies authorized to use"
 usc_title: 5
 usc_section: "6122"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 6122"
-generated_at: "2026-03-30T02:52:56.029Z"
+generated_at: "2026-11-23T21:25:23.315Z"
+status: "active"
 ---
 
 # § 6122. Flexible schedules; agencies authorized to use
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:52:56.029Z"
   - **(1)** restrict the employees’ choice of arrival and departure time,
   - **(2)** restrict the use of credit hours, or
   - **(3)** exclude from such program any employee or group of employees.
+
+## Source Credit
+
+*(Added [Pub. L. 97–221, § 2(a)(2)](https://www.govinfo.gov/link/plaw/97/public/221), July 23, 1982, [96 Stat. 228](https://www.govinfo.gov/link/statute/96/228).)*

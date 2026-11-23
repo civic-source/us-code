@@ -3,9 +3,10 @@ title: "Section 7106 - Minimum standards for the elimination of trafficking"
 usc_title: 22
 usc_section: "7106"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7106"
-generated_at: "2026-03-30T02:55:05.437Z"
+generated_at: "2026-11-23T21:25:58.710Z"
+status: "active"
 ---
 
 # § 7106. Minimum standards for the elimination of trafficking
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:05.437Z"
   - **(12)** Whether the government of the country has made serious and sustained efforts to reduce the demand for—
     - **(A)** commercial sex acts; and
     - **(B)** participation in international sex tourism by nationals of the country.
+
+## Source Credit
+
+*([Pub. L. 106–386, div. A, § 108](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1480](https://www.govinfo.gov/link/statute/114/1480); [Pub. L. 108–193, § 6(d)](https://www.govinfo.gov/link/plaw/108/public/193), Dec. 19, 2003, [117 Stat. 2881](https://www.govinfo.gov/link/statute/117/2881); [Pub. L. 109–164, title I, § 104(b)(1)](https://www.govinfo.gov/link/plaw/109/public/164), Jan. 10, 2006, [119 Stat. 3564](https://www.govinfo.gov/link/statute/119/3564); [Pub. L. 110–457, title I, § 106](https://www.govinfo.gov/link/plaw/110/public/457), Dec. 23, 2008, [122 Stat. 5048](https://www.govinfo.gov/link/statute/122/5048); [Pub. L. 113–4, title XII, § 1204](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 139](https://www.govinfo.gov/link/statute/127/139); [Pub. L. 115–425, title II, § 202](https://www.govinfo.gov/link/plaw/115/public/425), Jan. 8, 2019, [132 Stat. 5482](https://www.govinfo.gov/link/statute/132/5482); [Pub. L. 115–427, § 5](https://www.govinfo.gov/link/plaw/115/public/427), Jan. 9, 2019, [132 Stat. 5505](https://www.govinfo.gov/link/statute/132/5505).)*

@@ -3,9 +3,10 @@ title: "Section 6991l - Tanks on tribal lands"
 usc_title: 42
 usc_section: "6991l"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6991l"
-generated_at: "2026-03-30T02:56:11.281Z"
+generated_at: "2026-11-23T21:26:33.040Z"
+status: "active"
 ---
 
 # § 6991l. Tanks on tribal lands
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.281Z"
   - **(2)** any other areas under the jurisdiction of an Indian tribe.
 - **(c)** This section does not relieve any person from any obligation or requirement under this subchapter.
 - **(d)** Nothing in this section applies to any underground storage tank that is located in an area under the jurisdiction of a State, or that is subject to regulation by a State, as of August 8, 2005 .
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 9013](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 109–58, title XV, § 1529(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1101](https://www.govinfo.gov/link/statute/119/1101).)*

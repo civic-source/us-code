@@ -3,9 +3,10 @@ title: "Section 14908 - Unlawful disclosure of information"
 usc_title: 49
 usc_section: "14908"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 14908"
-generated_at: "2026-03-30T02:56:19.333Z"
+generated_at: "2026-11-23T21:26:40.696Z"
+status: "active"
 ---
 
 # § 14908. Unlawful disclosure of information
@@ -17,3 +18,15 @@ generated_at: "2026-03-30T02:56:19.333Z"
   - **(1)** in response to legal process issued under authority of a court of the United States or a State;
   - **(2)** to an officer, employee, or agent of the United States Government, a State, or a territory or possession of the United States; or
   - **(3)** to another carrier or its agent to adjust mutual traffic accounts in the ordinary course of business.
+
+Disclosure of Shipment and Routing Information.—
+
+Violations
+
+Penalty
+
+Limitation on Statutory Construction
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 917](https://www.govinfo.gov/link/statute/109/917).)*

@@ -3,9 +3,10 @@ title: "Section 6961 - Application of Federal, State, and local law to Federal f
 usc_title: 42
 usc_section: "6961"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6961"
-generated_at: "2026-03-30T02:56:11.276Z"
+generated_at: "2026-11-23T21:26:33.018Z"
+status: "active"
 ---
 
 # § 6961. Application of Federal, State, and local law to Federal facilities
@@ -15,3 +16,17 @@ generated_at: "2026-03-30T02:56:11.276Z"
   - **(1)** The Administrator may commence an administrative enforcement action against any department, agency, or instrumentality of the executive, legislative, or judicial branch of the Federal Government pursuant to the enforcement authorities contained in this chapter. The Administrator shall initiate an administrative enforcement action against such a department, agency, or instrumentality in the same manner and under the same circumstances as an action would be initiated against another person. Any voluntary resolution or settlement of such an action shall be set forth in a consent order.
   - **(2)** No administrative order issued to such a department, agency, or instrumentality shall become final until such department, agency, or instrumentality has had the opportunity to confer with the Administrator.
 - **(c)** Unless a State law in effect on October 6, 1992 , or a State constitution requires the funds to be used in a different manner, all funds collected by a State from the Federal Government from penalties and fines imposed for violation of any substantive or procedural requirement referred to in subsection (a) shall be used by the State only for projects designed to improve or protect the environment or to defray the costs of environmental protection or enforcement.
+
+In general
+
+Delayed effective date for certain mixed waste
+
+Effective date for certain mixed waste
+
+Application of waiver to agreements and orders
+
+Agreement or order
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 6001](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2821](https://www.govinfo.gov/link/statute/90/2821); amended [Pub. L. 95–609, § 7(m)](https://www.govinfo.gov/link/plaw/95/public/609), Nov. 8, 1978, [92 Stat. 3082](https://www.govinfo.gov/link/statute/92/3082); [Pub. L. 102–386, title I, § 102(a)](https://www.govinfo.gov/link/plaw/102/public/386), (b), Oct. 6, 1992, [106 Stat. 1505](https://www.govinfo.gov/link/statute/106/1505), 1506.)*

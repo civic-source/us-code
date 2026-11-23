@@ -3,12 +3,17 @@ title: "Section 4140 - Claim filing period"
 usc_title: 50
 usc_section: "4140"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4140"
-generated_at: "2026-03-30T02:56:26.267Z"
+generated_at: "2026-11-23T21:26:39.089Z"
+status: "active"
 ---
 
 # § 4140. Claim filing period
 
 Within sixty days after the enactment of this subchapter or of legislation making appropriations to the Commission for payment of administrative expenses incurred in carrying out its functions under this subchapter, whichever date is later, the Commission shall give public notice by publication in the Federal Register of the time when, and the limit of time within which claims may be filed, which limit shall not be more than eighteen months after such publication.
 
+
+## Source Credit
+
+*(July 3, 1948, ch. 826, title II, § 210, as added [Pub. L. 87–846, title I, § 103](https://www.govinfo.gov/link/plaw/87/public/846), Oct. 22, 1962, [76 Stat. 1111](https://www.govinfo.gov/link/statute/76/1111).)*

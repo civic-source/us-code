@@ -3,9 +3,10 @@ title: "Section 11319 - Resources, planning, and portfolio management"
 usc_title: 40
 usc_section: "11319"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 11319"
-generated_at: "2026-03-30T02:55:43.385Z"
+generated_at: "2026-11-23T21:26:14.946Z"
+status: "active"
 ---
 
 # § 11319. Resources, planning, and portfolio management
@@ -53,3 +54,47 @@ generated_at: "2026-03-30T02:55:43.385Z"
       - **(ii)** the Committee on Oversight and Government Reform and the Committee on Appropriations of the House of Representatives; and
       - **(iii)** upon a request by any committee of Congress, to that committee.
     - **(B)** The reports required under subparagraph (A) may be included as part of another report submitted to the committees of Congress described in clauses (i), (ii), and (iii) of subparagraph (A).
+
+Definitions
+
+Additional Authorities for Chief Information Officers.—
+
+Planning, programming, budgeting, and execution authorities for cios.—
+
+In general
+
+Budget formulation
+
+Review.—
+
+In general
+
+Delegation.—
+
+In general
+
+Non-major information technology investments
+
+Personnel-related authority
+
+Limitation
+
+Information Technology Portfolio, Program, and Resource Reviews.—
+
+Process
+
+Metrics and performance indicators
+
+Annual review
+
+Applicability to the department of defense
+
+Quarterly reports.—
+
+In general
+
+Inclusion in other reports
+
+## Source Credit
+
+*(Added and amended [Pub. L. 113–291, div. A, title VIII](https://www.govinfo.gov/link/plaw/113/public/291), §§ 831(a), 833, title IX, § 901(n)(1), Dec. 19, 2014, [128 Stat. 3438](https://www.govinfo.gov/link/statute/128/3438), 3442, 3469; [Pub. L. 115–88, § 3](https://www.govinfo.gov/link/plaw/115/public/88), Nov. 21, 2017, [131 Stat. 1278](https://www.govinfo.gov/link/statute/131/1278); [Pub. L. 115–91, div. A, title VIII, § 819(b)](https://www.govinfo.gov/link/plaw/115/public/91), title X, § 1081(b)(1)(D), Dec. 12, 2017, [131 Stat. 1464](https://www.govinfo.gov/link/statute/131/1464), 1597; [Pub. L. 115–232, div. A, title X, § 1081(f)(1)(A)(iii)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1986](https://www.govinfo.gov/link/statute/132/1986); [Pub. L. 116–92, div. A, title IX, § 902(87)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1554](https://www.govinfo.gov/link/statute/133/1554); [Pub. L. 118–31, div. A, title IX, § 901(f)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 355](https://www.govinfo.gov/link/statute/137/355).)*

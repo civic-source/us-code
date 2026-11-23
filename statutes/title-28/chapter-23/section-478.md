@@ -3,9 +3,10 @@ title: "Section 478 - Advisory groups"
 usc_title: 28
 usc_section: "478"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 478"
-generated_at: "2026-03-30T02:55:30.130Z"
+generated_at: "2026-11-23T21:26:01.044Z"
+status: "active"
 ---
 
 # § 478. Advisory groups
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:30.130Z"
 - **(d)** Notwithstanding subsection (c), the United States Attorney for a judicial district, or his or her designee, shall be a permanent member of the advisory group for that district court.
 - **(e)** The chief judge of a United States district court may designate a reporter for each advisory group, who may be compensated in accordance with guidelines established by the Judicial Conference of the United States.
 - **(f)** The members of an advisory group of a United States district court and any person designated as a reporter for such group shall be considered as independent contractors of such court when in the performance of official duties of the advisory group and may not, solely by reason of service on or for the advisory group, be prohibited from practicing law before such court.
+
+## Source Credit
+
+*(Added [Pub. L. 101–650, title I, § 103(a)](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5094](https://www.govinfo.gov/link/statute/104/5094).)*

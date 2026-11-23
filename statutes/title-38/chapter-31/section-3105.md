@@ -3,9 +3,10 @@ title: "Section 3105 - Duration of rehabilitation programs"
 usc_title: 38
 usc_section: "3105"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3105"
-generated_at: "2026-03-30T02:55:53.500Z"
+generated_at: "2026-11-23T21:26:16.725Z"
+status: "active"
 ---
 
 # § 3105. Duration of rehabilitation programs
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:53.500Z"
     - **(B)** be counted toward the aggregate period for which section 3695 of this title limits an individual’s receipt of allowance or assistance.
   - **(2)** The payment of the subsistence allowance and other assistance referred to in paragraph (1) is the payment of such an allowance or assistance for the period described in paragraph (3) to a veteran for participation in a vocational rehabilitation program under this chapter if the Secretary finds that the veteran had to suspend or discontinue participation in such vocational rehabilitation program as a result of being ordered to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, 12304, 12304a, or 12304b of title 10.
   - **(3)** The period for which, by reason of this subsection, a subsistence allowance and other assistance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall be the period of participation in the vocational rehabilitation program for which the veteran failed to receive credit or with respect to which the veteran lost training time, as determined by the Secretary.
+
+## Source Credit
+
+*(Added [Pub. L. 96–466, title I, § 101(a)](https://www.govinfo.gov/link/plaw/96/public/466), Oct. 17, 1980, [94 Stat. 2176](https://www.govinfo.gov/link/statute/94/2176), § 1505; amended [Pub. L. 99–576, title III, § 333(b)(3)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3279](https://www.govinfo.gov/link/statute/100/3279); [Pub. L. 101–237, title IV, § 423(b)(1)(A)](https://www.govinfo.gov/link/plaw/101/public/237), Dec. 18, 1989, [103 Stat. 2092](https://www.govinfo.gov/link/statute/103/2092); renumbered § 3105 and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 104–275, title I, § 101(e)](https://www.govinfo.gov/link/plaw/104/public/275), Oct. 9, 1996, [110 Stat. 3324](https://www.govinfo.gov/link/statute/110/3324); [Pub. L. 107–103, title I, § 103(c)(1)](https://www.govinfo.gov/link/plaw/107/public/103), Dec. 27, 2001, [115 Stat. 979](https://www.govinfo.gov/link/statute/115/979); [Pub. L. 110–389, title III, § 331](https://www.govinfo.gov/link/plaw/110/public/389), Oct. 10, 2008, [122 Stat. 4170](https://www.govinfo.gov/link/statute/122/4170); [Pub. L. 112–56, title II, § 233(a)(2)](https://www.govinfo.gov/link/plaw/112/public/56), Nov. 21, 2011, [125 Stat. 720](https://www.govinfo.gov/link/statute/125/720); [Pub. L. 115–407, title I, § 101](https://www.govinfo.gov/link/plaw/115/public/407), Dec. 31, 2018, [132 Stat. 5369](https://www.govinfo.gov/link/statute/132/5369); [Pub. L. 117–333, § 3(c)(2)](https://www.govinfo.gov/link/plaw/117/public/333), Jan. 5, 2023, [136 Stat. 6127](https://www.govinfo.gov/link/statute/136/6127).)*

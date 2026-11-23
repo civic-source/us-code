@@ -3,9 +3,10 @@ title: "Section 2904 - Eligibility criteria"
 usc_title: 43
 usc_section: "2904"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 2904"
-generated_at: "2026-03-30T02:55:57.500Z"
+generated_at: "2026-11-23T21:26:19.902Z"
+status: "active"
 ---
 
 # § 2904. Eligibility criteria
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:57.500Z"
       - **(i)** the Secretary determines in writing that the withdrawn land is encumbered by facilities to the extent that the withdrawn land is unsuitable for return to the public domain; and
       - **(ii)** the qualifying entity agrees to pay fair market value based on historical or existing uses for the withdrawn land to be conveyed.
 - **(c)** No conveyance under this chapter shall adversely impact applicable Federal power rates, repayment obligations, or other project power uses.
+
+## Source Credit
+
+*([Pub. L. 116–9, title VIII, § 8004](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 806](https://www.govinfo.gov/link/statute/133/806).)*

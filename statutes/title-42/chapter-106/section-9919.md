@@ -3,9 +3,10 @@ title: "Section 9919 - Drug and child support services and referrals"
 usc_title: 42
 usc_section: "9919"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9919"
-generated_at: "2026-03-30T02:56:11.378Z"
+generated_at: "2026-11-23T21:26:33.329Z"
+status: "active"
 ---
 
 # § 9919. Drug and child support services and referrals
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.378Z"
 - **(b)** During each fiscal year for which an eligible entity receives a grant under section 9907 of this title , such entity shall—
   - **(1)** inform custodial parents in single-parent families that participate in programs, activities, or services carried out or provided under this chapter about the availability of child support services; and
   - **(2)** refer eligible parents to the child support offices of State and local governments.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 678G](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 105–285, title II, § 201](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2749](https://www.govinfo.gov/link/statute/112/2749).)*

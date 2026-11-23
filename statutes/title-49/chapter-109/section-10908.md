@@ -3,9 +3,10 @@ title: "Section 10908 - Regulation of solid waste rail transfer facilities"
 usc_title: 49
 usc_section: "10908"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 10908"
-generated_at: "2026-03-30T02:56:19.324Z"
+generated_at: "2026-11-23T21:26:40.676Z"
+status: "active"
 ---
 
 # § 10908. Regulation of solid waste rail transfer facilities
@@ -54,3 +55,49 @@ generated_at: "2026-03-30T02:56:19.324Z"
     - **(E)** medical or infectious waste; or
     - **(F)** motor vehicles (including motor vehicle parts or vehicle fluff).
   - **(3)** In this section the term “State requirements” does not include the laws, regulations, ordinances, orders, or other requirements of a political subdivision of a State, including a locality or municipality, unless a State expressly delegates such authority to such political subdivision.
+
+In General
+
+Existing Facilities.—
+
+State laws and standards
+
+Permit requirements.—
+
+State non-siting permits
+
+Siting permits and requirements
+
+Common Carrier Obligation
+
+Non-Waste Commodities
+
+Definitions.—
+
+In general
+
+Commercial and retail waste
+
+Construction and demolition debris
+
+Household waste
+
+Industrial waste
+
+Institutional waste
+
+Municipal solid waste
+
+Solid waste
+
+Solid waste rail transfer facility
+
+Sludge
+
+Exceptions
+
+State requirements
+
+## Source Credit
+
+*(Added [Pub. L. 110–432, div. A, title VI, § 603(a)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4900](https://www.govinfo.gov/link/statute/122/4900).)*

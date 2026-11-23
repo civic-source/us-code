@@ -3,9 +3,10 @@ title: "Section 3222 - Agricultural research at 1890 land-grant colleges, includ
 usc_title: 7
 usc_section: "3222"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3222"
-generated_at: "2026-03-30T02:53:42.399Z"
+generated_at: "2026-11-23T21:25:28.324Z"
+status: "active"
 ---
 
 # § 3222. Agricultural research at 1890 land-grant colleges, including Tuskegee University
@@ -54,3 +55,15 @@ generated_at: "2026-03-30T02:53:42.399Z"
 - **(f)** The Secretary shall be responsible for the proper administration of this section, and is authorized and directed to prescribe such rules and regulations as may be necessary to carry out its provisions. It shall be the duty of the Secretary to furnish such advice and assistance as will best promote the purposes of this section, including participation in coordination of research initiated under this section by the eligible institutions, from time to time to indicate such lines of inquiry as to the Secretary seem most important, and to encourage and assist in the establishment and maintenance of cooperation by and between the several eligible institutions, the State agricultural experiment stations, and between them and the Department of Agriculture.
 - **(g)** On or before the first day of October in each year after September 29, 1977 , the Secretary shall ascertain whether each eligible institution is entitled to receive its share of the annual appropriations under this section and the amount which thereupon each is entitled, respectively, to receive.
 - **(h)** Nothing in this section shall be construed to impair or modify the legal relationship existing between any of the eligible institutions and the government of the States in which they are respectively located.
+
+(aa) the qualified eligible institution shall receive an allocation under this paragraph of at least $3,000,000; and
+
+(bb) each other eligible institution shall receive an allocation under this paragraph of at least the amount received by such other eligible institution under this subsection for the covered fiscal year.
+
+(aa) Applicability This subclause shall apply to any fiscal year following the covered fiscal year and for which the total amount appropriated under this subsection is insufficient to provide for the minimum additional funding amounts described in subclause (I).
+
+(bb) Reductions in allocations In the case of a fiscal year to which this subclause applies, reductions in allocations shall be made proportionally from the qualified eligible institution and from each other eligible institution based on the increased amounts (if any) that the qualified eligible institution and each other eligible institution were allocated for the covered fiscal year as compared to the fiscal year immediately preceding the covered fiscal year.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1445](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 1009](https://www.govinfo.gov/link/statute/91/1009); [Pub. L. 95–547](https://www.govinfo.gov/link/plaw/95/public/547), Oct. 28, 1978, [92 Stat. 2063](https://www.govinfo.gov/link/statute/92/2063); [Pub. L. 97–98, title XIV, § 1432(a)](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1311](https://www.govinfo.gov/link/statute/95/1311); [Pub. L. 99–198, title XIV, § 1417](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1550](https://www.govinfo.gov/link/statute/99/1550); [Pub. L. 105–185, title I, § 103(f)(3)(B)](https://www.govinfo.gov/link/plaw/105/public/185), title II, §§ 225(b), 226(b), (c)(3), June 23, 1998, [112 Stat. 528](https://www.govinfo.gov/link/statute/112/528), 541, 543; [Pub. L. 105–362, title I, § 101(e)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3281](https://www.govinfo.gov/link/statute/112/3281); [Pub. L. 107–171, title VII](https://www.govinfo.gov/link/plaw/107/public/171), §§ 7203(b), 7204, May 13, 2002, [116 Stat. 438](https://www.govinfo.gov/link/statute/116/438); [Pub. L. 110–234, title VII](https://www.govinfo.gov/link/plaw/110/public/234), §§ 7122, 7404(b)(2)(A)(ii), May 22, 2008, [122 Stat. 1222](https://www.govinfo.gov/link/statute/122/1222), 1247; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, §§ 7122, 7404(b)(2)(A)(ii), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1983, 2008; [Pub. L. 115–334, title VII](https://www.govinfo.gov/link/plaw/115/public/334), §§ 7115(b), 7612(c)(2), Dec. 20, 2018, [132 Stat. 4787](https://www.govinfo.gov/link/statute/132/4787), 4832.)*

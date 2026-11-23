@@ -3,9 +3,10 @@ title: "Section 7872 - Treatment of loans with below-market interest rates"
 usc_title: 26
 usc_section: "7872"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7872"
-generated_at: "2026-03-30T02:55:27.888Z"
+generated_at: "2026-11-23T21:26:07.024Z"
+status: "active"
 ---
 
 # § 7872. Treatment of loans with below-market interest rates
@@ -119,3 +120,35 @@ generated_at: "2026-03-30T02:55:27.888Z"
     - **(B)** regulations for the purpose of assuring that the positions of the borrower and lender are consistent as to the application (or nonapplication) of this section, and
     - **(C)** regulations exempting from the application of this section any class of transactions the interest arrangements of which have no significant effect on any Federal tax liability of the lender or the borrower.
   - **(2)** Under regulations prescribed by the Secretary, any loan which is made with donative intent and which is a term loan shall be taken into account for purposes of chapter 11 in a manner consistent with the provisions of subsection (b).
+
+In general
+
+Inflation adjustment
+
+Special rule for certain employer security loans
+
+Section
+
+In general
+
+Section 7872 not to apply to certain loans
+
+Section
+
+In general
+
+Exception for demand loans outstanding on june 6, 1984 , and repaid within 60 days after date of enactment
+
+Exception for certain existing loans to continuing care facilities
+
+Applicable federal rate for periods before january 1, 1985
+
+Treatment of renegotiations, etc
+
+Definition of term and demand loans
+
+“Section 7872 of the Internal Revenue Code of 1954 [now 1986] (relating to treatment of loans with below-market interest rates) shall not apply to any obligation issued by Israel or Poland if—
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title I, § 172(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 699](https://www.govinfo.gov/link/statute/98/699); amended [Pub. L. 99–121, title II](https://www.govinfo.gov/link/plaw/99/public/121), §§ 201, 202, Oct. 11, 1985, [99 Stat. 511–513](https://www.govinfo.gov/link/statute/99/511); [Pub. L. 99–514, title V, § 511(d)(1)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, §§ 1812(b)(2)–(4), 1854(c)(2)(B), Oct. 22, 1986, [100 Stat. 2248](https://www.govinfo.gov/link/statute/100/2248), 2834, 2879; [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1005(c)(15), 1018(u)(48), Nov. 10, 1988, [102 Stat. 3393](https://www.govinfo.gov/link/statute/102/3393), 3593; [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1602(b)(7), 1704(t)(58), 1906(c)(2), Aug. 20, 1996, [110 Stat. 1834](https://www.govinfo.gov/link/statute/110/1834), 1890, 1916; [Pub. L. 105–34, title III, § 312(d)(1)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 839](https://www.govinfo.gov/link/statute/111/839); [Pub. L. 105–206, title VI, § 6023(30)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 826](https://www.govinfo.gov/link/statute/112/826); [Pub. L. 106–554, § 1(a)(7) [title III, § 319(30)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–648; [Pub. L. 109–222, title II, § 209(a)](https://www.govinfo.gov/link/plaw/109/public/222), (b)(1), May 17, 2006, [120 Stat. 351](https://www.govinfo.gov/link/statute/120/351), 352; [Pub. L. 109–432, div. A, title IV, § 425(a)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2974](https://www.govinfo.gov/link/statute/120/2974); [Pub. L. 115–97, title I, § 11002(d)(14)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2062](https://www.govinfo.gov/link/statute/131/2062).)*

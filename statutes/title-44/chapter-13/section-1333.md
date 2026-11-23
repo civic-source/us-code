@@ -3,9 +3,10 @@ title: "Section 1333 - National high school and college debate topics"
 usc_title: 44
 usc_section: "1333"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 1333"
-generated_at: "2026-03-30T02:55:56.290Z"
+generated_at: "2026-11-23T21:26:18.392Z"
+status: "active"
 ---
 
 # § 1333. National high school and college debate topics
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:56.290Z"
   - **(1)** the subject selected annually by the National University Extension Association as the national high school debate topic and
   - **(2)** the subject selected annually by the American Speech Association as the national college debate topic.
 - **(b)** The compilations on the high school debate topics shall be printed as Senate documents and the compilations on the college debate topics shall be printed as House of Representatives documents, the cost of which shall be charged to the congressional allotment for printing and binding. Additional copies may be printed in the quantities and distributed in the manner the Joint Committee on Printing directs.
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1270](https://www.govinfo.gov/link/statute/82/1270).)*

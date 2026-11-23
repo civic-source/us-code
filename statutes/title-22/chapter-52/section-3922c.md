@@ -3,9 +3,10 @@ title: "Section 3922c - Integration of foreign economic policy"
 usc_title: 22
 usc_section: "3922c"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3922c"
-generated_at: "2026-03-30T02:55:05.398Z"
+generated_at: "2026-11-23T21:25:58.600Z"
+status: "active"
 ---
 
 # § 3922c. Integration of foreign economic policy
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:05.398Z"
   - **(5)** Implementing existing multilateral and World Trade Organization agreements, and United States trade and investment agreements.
   - **(6)** Best practices for customs and export procedures.
   - **(7)** Market analysis and global supply chain management.
+
+## Source Credit
+
+*([Pub. L. 114–323, title IV, § 406](https://www.govinfo.gov/link/plaw/114/public/323), Dec. 16, 2016, [130 Stat. 1929](https://www.govinfo.gov/link/statute/130/1929).)*

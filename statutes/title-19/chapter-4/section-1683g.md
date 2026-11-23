@@ -3,9 +3,10 @@ title: "Section 1683g - Reports"
 usc_title: 19
 usc_section: "1683g"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1683g"
-generated_at: "2026-03-30T02:54:24.659Z"
+generated_at: "2026-11-23T21:25:42.760Z"
+status: "active"
 ---
 
 # § 1683g. Reports
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:24.659Z"
 - **(c)** The Comptroller General of the United States shall submit the following reports to the appropriate congressional committees:
   - **(1)** Not later than 18 months after June 18, 2008 , a report on the effectiveness of the reconciliations conducted under section 1683d of this title , 1 and verifications conducted under section 1683e of this title .
   - **(2)** Not later than 12 months after June 18, 2008 , a report on whether countries that export softwood lumber or softwood lumber products to the United States are complying with any international agreements entered into by those countries and the United States.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VIII, § 809, as added [Pub. L. 110–246, title III, § 3301(a)](https://www.govinfo.gov/link/plaw/110/public/246), June 18, 2008, [122 Stat. 1852](https://www.govinfo.gov/link/statute/122/1852).)*

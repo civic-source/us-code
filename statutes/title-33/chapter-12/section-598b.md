@@ -3,9 +3,10 @@ title: "Section 598b - Minimum real estate interest"
 usc_title: 33
 usc_section: "598b"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 598b"
-generated_at: "2026-03-30T02:55:41.064Z"
+generated_at: "2026-11-23T21:26:11.321Z"
+status: "active"
 ---
 
 # § 598b. Minimum real estate interest
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:41.064Z"
   - **(1)** a summary of all instances in which the Secretary identified under subsection (b) fee simple title as the minimum interest necessary with respect to an activity for which the non-Federal interest requested the use of an interest less than fee simple title; and
   - **(2)** with respect to each such instance, a description of the legal requirements that resulted in identifying fee simple title as the minimum interest.
 - **(e)** At the request of a non-Federal interest, an agreement entered into under section 1962d–5b of title 42 between the Secretary and the non-Federal interest before January 4, 2025 , may be amended to reflect the requirements of this section.
+
+## Source Credit
+
+*([Pub. L. 118–272, div. A, title I, § 1104](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3000](https://www.govinfo.gov/link/statute/138/3000).)*

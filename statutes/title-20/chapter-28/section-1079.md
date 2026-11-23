@@ -3,9 +3,10 @@ title: "Section 1079 - Certificate of Federal loan insurance—effective date of
 usc_title: 20
 usc_section: "1079"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1079"
-generated_at: "2026-03-30T02:54:48.116Z"
+generated_at: "2026-11-23T21:25:47.116Z"
+status: "active"
 ---
 
 # § 1079. Certificate of Federal loan insurance—effective date of insurance
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:48.116Z"
 - **(c)** The Secretary shall, pursuant to regulations, charge for insurance on each loan under this part a premium in an amount not to exceed one-fourth of 1 percent per year of the unpaid principal amount of such loan (excluding interest added to principal), payable in advance, at such times and in such manner as may be prescribed by the Secretary. Such regulations may provide that such premium shall not be payable, or if paid shall be refundable, with respect to any period after default in the payment of principal or interest or after the borrower has died or becomes totally and permanently disabled, if (1) notice of such default or other event has been duly given, and (2) requests for payment of the loss insured against has been made or the Secretary has made such payment on his own motion pursuant to section 1080(a) of this title .
 - **(d)** The rights of an eligible lender arising under insurance evidenced by a certificate of insurance issued to it under this section may be assigned as security by such lender only to another eligible lender, and subject to regulation by the Secretary.
 - **(e)** The consolidation of the obligations of two or more federally insured loans obtained by a student borrower in any fiscal year into a single obligation evidenced by a single instrument of indebtedness shall not affect the insurance by the United States. If the loans thus consolidated are covered by separate certificates of insurance issued under subsection (a), the Secretary may upon surrender of the original certificates issue a new certificate of insurance in accordance with that subsection upon the consolidated obligation; if they are covered by a single comprehensive certificate issued under subsection (b), the Secretary may amend that certificate accordingly.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 429](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1395](https://www.govinfo.gov/link/statute/100/1395).)*

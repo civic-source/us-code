@@ -3,9 +3,10 @@ title: "Section 3003 - Mail bearing a fictitious name or address"
 usc_title: 39
 usc_section: "3003"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 3003"
-generated_at: "2026-03-30T02:55:43.692Z"
+generated_at: "2026-11-23T21:26:12.779Z"
+status: "active"
 ---
 
 # § 3003. Mail bearing a fictitious name or address
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:43.692Z"
 - **(b)** The Postal Service may issue an order directing that mail, covered by subsection (a) of this section, be forwarded to a dead letter office as fictitious matter, or be returned to the sender when—
   - **(1)** the party claiming the mail fails to furnish proof of his identity and right to receive the mail; or
   - **(2)** the Postal Service determines that the mail is addressed to a fictitious, false, or assumed name, title, or address.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 746](https://www.govinfo.gov/link/statute/84/746).)*

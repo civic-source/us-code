@@ -3,12 +3,17 @@ title: "Section 612 - Permits to cut and remove timber to certain corporations"
 usc_title: 16
 usc_section: "612"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 612"
-generated_at: "2026-03-30T02:54:22.885Z"
+generated_at: "2026-11-23T21:25:51.697Z"
+status: "active"
 ---
 
 # § 612. Permits to cut and remove timber to certain corporations
 
 It shall be lawful for the Secretary of the Interior to grant permits in accordance with the provisions of section 607 of this title , to corporations incorporated under a Federal law of the United States or incorporated under the laws of a State or Territory of the United States, other than the State in which the privilege is requested, said permits to confer the same rights and benefits upon such corporations as are conferred upon corporations incorporated in the State in which the privilege is to be exercised: Provided , That all such corporations shall first have complied with the laws of that State so as to entitle them to do business therein; but nothing herein shall operate to enlarge the rights of any railway company to cut timber on the public domain.
 
+
+## Source Credit
+
+*(Jan. 11, 1921, ch. 22, [41 Stat. 1088](https://www.govinfo.gov/link/statute/41/1088).)*

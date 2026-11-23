@@ -3,9 +3,10 @@ title: "Section 404 - Duties and responsibilities"
 usc_title: 5
 usc_section: "404"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 404"
-generated_at: "2026-03-30T02:52:55.979Z"
+generated_at: "2026-11-23T21:25:23.029Z"
+status: "active"
 ---
 
 # § 404. Duties and responsibilities
@@ -35,3 +36,70 @@ generated_at: "2026-03-30T02:52:55.979Z"
     - **(B)** may submit the document making a recommendation for corrective action to any Member of Congress upon request; and
     - **(C)** not later than 3 days after the recommendation for corrective action is submitted in final form to the head of the establishment, post the document making a recommendation for corrective action on the website of the Office of Inspector General.
   - **(2)** Nothing in this subsection shall be construed as authorizing an Inspector General to publicly disclose information otherwise prohibited from disclosure by law.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 404 | 5 U.S.C. App. (IGA § 4) | Pub. L. 95–452, § 4 , Oct. 12, 1978 , 92 Stat. 1102 ; Pub. L. 100–504, title I, § 109 , Oct. 18, 1988 , 102 Stat. 2529 ; Pub. L. 103–82, title II, § 202(g)(5)(A) , Sept. 21, 1993 , 107 Stat. 890 ; Pub. L. 108–271, § 8(b) , July 7, 2004 , 118 Stat. 814 ; Pub. L. 110–409, § 7(d)(1)(A) , Oct. 14, 2008 , 122 Stat. 4313 ; Pub. L. 114–317 , §§ 4(d), 7(d)(2)(A), Dec. 16, 2016 , 130 Stat. 1602 , 1606 |
+
+
+In General
+
+Standards and Guidelines.—
+
+In general
+
+Reviews performed exclusively by audit entities in federal government
+
+Effective Coordination and Cooperation
+
+Reporting Violation of Federal Criminal Law
+
+Recommendations for Corrective Actions.—
+
+Submission of documents
+
+Public disclosure otherwise prohibited by law
+
+Historical and Revision Notes
+
+404
+
+Pub. L. 95–452, § 4
+
+Oct. 12, 1978
+
+92 Stat. 1102
+
+Pub. L. 100–504, title I, § 109
+
+Oct. 18, 1988
+
+102 Stat. 2529
+
+Pub. L. 103–82, title II, § 202(g)(5)(A)
+
+Sept. 21, 1993
+
+107 Stat. 890
+
+Pub. L. 108–271, § 8(b)
+
+July 7, 2004
+
+118 Stat. 814
+
+Pub. L. 110–409, § 7(d)(1)(A)
+
+Oct. 14, 2008
+
+122 Stat. 4313
+
+Pub. L. 114–317
+
+Dec. 16, 2016
+
+130 Stat. 1602
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(b)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4210](https://www.govinfo.gov/link/statute/136/4210).)*

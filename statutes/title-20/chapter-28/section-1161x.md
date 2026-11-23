@@ -3,9 +3,10 @@ title: "Section 1161x - School of veterinary medicine competitive grant program"
 usc_title: 20
 usc_section: "1161x"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1161x"
-generated_at: "2026-03-30T02:54:48.155Z"
+generated_at: "2026-11-23T21:25:47.287Z"
+status: "active"
 ---
 
 # § 1161x. School of veterinary medicine competitive grant program
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:48.155Z"
 - **(e)** Amounts received under a grant under this section shall be used by a grantee to increase the number of veterinarians in the workforce through paying costs associated with the expansion of academic programs at schools of veterinary medicine, departments of comparative medicine, departments of veterinary science, or entities offering residency training programs, or academic programs that offer postgraduate training for veterinarians or concurrent training for veterinary students in specific areas of specialization, which costs may include minor renovation and improvement in classrooms, libraries, and laboratories.
 - **(f)** In this section, the term “public health practice area” includes the areas of bioterrorism and emergency preparedness, environmental health, food safety and food security, regulatory medicine, diagnostic laboratory medicine, and biomedical research.
 - **(g)** There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years. Amounts appropriated under this subsection shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VIII, § 893](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title VIII, § 801](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3439](https://www.govinfo.gov/link/statute/122/3439).)*

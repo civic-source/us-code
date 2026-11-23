@@ -3,9 +3,10 @@ title: "Section 4114 - Philippines"
 usc_title: 50
 usc_section: "4114"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4114"
-generated_at: "2026-03-30T02:56:26.267Z"
+generated_at: "2026-11-23T21:26:39.088Z"
+status: "active"
 ---
 
 # § 4114. Philippines
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:26.267Z"
 - **(d)** Each claim allowed under this section shall be certified to the Secretary of the Treasury for payment out of the War Claims Fund established under section 4110 of this title . The Secretary of the Treasury shall pay such claims as follows:
   - **(1)** In the case of each claim allowed in an amount equal to or less than $500, such claim shall be paid in full; and
   - **(2)** In the case of each claim allowed in an amount greater than $500, such claim shall be paid in two installments. The first installment shall be paid in an amount equal to $500 plus 66⅔ per centum of the amount of such claim allowed in excess of $500. The last installment shall be computed as of September 1, 1956 , under the next sentence of this paragraph, and, as so computed, shall be paid from the sums remaining in the War Claims Fund on that date. If the sums remaining in the War Claims Fund on September 1, 1956 , are sufficient to satisfy all claims allowed under this section and not paid in full, the unpaid portion of each such claim shall be paid in full; if the sums remaining in the War Claims Fund on September 1, 1956 , are not sufficient to satisfy all claims allowed under this section and not paid in full, the last installment payable on each such claim shall be reduced ratably, and, as so reduced, shall be paid from the War Claims Fund.
+
+## Source Credit
+
+*(July 3, 1948, ch. 826, title I, § 17, as added Aug. 31, 1954, ch. 1162, title I, § 103, [68 Stat. 1035](https://www.govinfo.gov/link/statute/68/1035); amended [Pub. L. 87–846, title I, § 102](https://www.govinfo.gov/link/plaw/87/public/846), Oct. 22, 1962, [76 Stat. 1107](https://www.govinfo.gov/link/statute/76/1107).)*

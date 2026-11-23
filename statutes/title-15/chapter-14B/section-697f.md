@@ -3,9 +3,10 @@ title: "Section 697f - Prepayment of development company debentures"
 usc_title: 15
 usc_section: "697f"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 697f"
-generated_at: "2026-03-30T02:54:08.114Z"
+generated_at: "2026-11-23T21:25:39.732Z"
+status: "active"
 ---
 
 # § 697f. Prepayment of development company debentures
@@ -49,3 +50,13 @@ generated_at: "2026-03-30T02:54:08.114Z"
   - **(2)** the term “borrower” means a small business concern whose loan secures a debenture issued pursuant to section 697 of this title .
 - **(f)** Not later than 30 days after October 22, 1994 , the Administration shall promulgate such regulations as may be necessary to carry out this section.
 - **(g)** There are authorized to be appropriated $30,000,000 to carry out the provisions of The Small Business Prepayment Penalty Relief Act of 1994.
+
+In General
+
+Equal Opportunity
+
+Restrictions on Participation
+
+## Source Credit
+
+*([Pub. L. 85–699, title V, § 509](https://www.govinfo.gov/link/plaw/85/public/699), as added [Pub. L. 103–403, title V, § 503](https://www.govinfo.gov/link/plaw/103/public/403), Oct. 22, 1994, [108 Stat. 4199](https://www.govinfo.gov/link/statute/108/4199); amended [Pub. L. 104–208, div. D, title II, § 208(h)(1)(H)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–747](https://www.govinfo.gov/link/statute/110/3009).)*

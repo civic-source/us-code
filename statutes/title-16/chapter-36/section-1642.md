@@ -3,9 +3,10 @@ title: "Section 1642 - Investigations, experiments, tests, and other activities"
 usc_title: 16
 usc_section: "1642"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1642"
-generated_at: "2026-03-30T02:54:22.980Z"
+generated_at: "2026-11-23T21:25:51.906Z"
+status: "active"
 ---
 
 # § 1642. Investigations, experiments, tests, and other activities
@@ -79,3 +80,27 @@ generated_at: "2026-03-30T02:54:22.980Z"
     - **(D)** the schedules for annual sample plot measurements in each State inventory required by paragraph (2) within the first 5-year interval after June 23, 1998 ;
     - **(E)** the core set of variables to be measured in each sample plot under paragraph (2) and the standard set of tables to be used in each State and national report under paragraph (3); and
     - **(F)** the process for employing, in coordination with the Secretary of Energy and the Administrator of the National Aeronautics and Space Administration, remote sensing, global positioning systems, and other advanced technologies to carry out this subsection, and the subsequent use of the technologies.
+
+“The Chief of the Forest Service shall—
+
+Establishment
+
+Duties of Center
+
+Establishment of Other Programs
+
+Authorization of Appropriations
+
+Semiarid Agroforestry Research, Development, and Demonstration Center
+
+Program
+
+Information Collection and Dissemination
+
+Authorization of Appropriations
+
+“Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 95–307, § 3](https://www.govinfo.gov/link/plaw/95/public/307), June 30, 1978, [92 Stat. 353](https://www.govinfo.gov/link/statute/92/353); [Pub. L. 96–294, title II, § 254](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 707](https://www.govinfo.gov/link/statute/94/707); [Pub. L. 100–521, § 3](https://www.govinfo.gov/link/plaw/100/public/521), Oct. 24, 1988, [102 Stat. 2601](https://www.govinfo.gov/link/statute/102/2601); [Pub. L. 101–624, title XII, § 1241(a)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3544](https://www.govinfo.gov/link/statute/104/3544); [Pub. L. 105–185, title II, § 253(b)](https://www.govinfo.gov/link/plaw/105/public/185), (c), June 23, 1998, [112 Stat. 559](https://www.govinfo.gov/link/statute/112/559); [Pub. L. 105–277, div. A, § 101(a) [title VII, § 753(a)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681](https://www.govinfo.gov/link/statute/112/2681), 2681–32.)*

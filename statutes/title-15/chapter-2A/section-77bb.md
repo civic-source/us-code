@@ -3,12 +3,17 @@ title: "Section 77bb - “Corporation of Foreign Security Holders”; creation; 
 usc_title: 15
 usc_section: "77bb"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 77bb"
-generated_at: "2026-03-30T02:54:08.035Z"
+generated_at: "2026-11-23T21:25:39.511Z"
+status: "active"
 ---
 
 # § 77bb. “Corporation of Foreign Security Holders”; creation; principal office; branch offices
 
 For the purpose of protecting, conserving, and advancing the interests of the holders of foreign securities in default, there is hereby created a body corporate with the name “Corporation of Foreign Security Holders” (herein called the “Corporation”). The principal office of the Corporation shall be located in the District of Columbia, but there may be established agencies or branch offices in any city or cities of the United States under rules and regulations prescribed by the board of directors.
 
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title II, § 201, [48 Stat. 92](https://www.govinfo.gov/link/statute/48/92).)*

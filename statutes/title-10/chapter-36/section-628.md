@@ -3,9 +3,10 @@ title: "Section 628 - Special selection boards"
 usc_title: 10
 usc_section: "628"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 628"
-generated_at: "2026-03-30T02:53:38.069Z"
+generated_at: "2026-11-23T21:25:32.302Z"
+status: "active"
 ---
 
 # § 628. Special selection boards
@@ -61,3 +62,29 @@ generated_at: "2026-03-30T02:53:38.069Z"
     - **(B)** Any time limits applicable to the filing of an application for such consideration.
   - **(3)** Regulations prescribed by the Secretary of a military department under this subsection may not take effect until approved by the Secretary of Defense.
 - **(k)** In this section, the term “promotion board” means a selection board convened by the Secretary of a military department under section 573(a) or 611(a) of this title.
+
+Persons Not Considered by Promotion Boards Due to Administrative Error
+
+Persons Considered by Promotion Boards in Unfair Manner
+
+Reports of Boards
+
+Appointment of Persons Selected by Boards
+
+Deceased Persons
+
+Convening of Boards
+
+Judicial Review
+
+Limitations of Other Jurisdiction
+
+Existing Jurisdiction
+
+Regulations
+
+Promotion Board Defined
+
+## Source Credit
+
+*(Added [Pub. L. 96–513, title I, § 105](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2859](https://www.govinfo.gov/link/statute/94/2859); amended [Pub. L. 98–525, title V, § 527(a)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2525](https://www.govinfo.gov/link/statute/98/2525); [Pub. L. 102–190, div. A, title XI, § 1131(4)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1506](https://www.govinfo.gov/link/statute/105/1506); [Pub. L. 102–484, div. A, title X, § 1052(10)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2499](https://www.govinfo.gov/link/statute/106/2499); [Pub. L. 105–261, div. A, title V, § 501(a)](https://www.govinfo.gov/link/plaw/105/public/261) –(e), Oct. 17, 1998, [112 Stat. 2000–2002](https://www.govinfo.gov/link/statute/112/2000); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1087(a)(2)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–290; [Pub. L. 107–107, div. A, title V](https://www.govinfo.gov/link/plaw/107/public/107), §§ 503(b), 505(c)(3)(A), Dec. 28, 2001, [115 Stat. 1083](https://www.govinfo.gov/link/statute/115/1083), 1088; [Pub. L. 109–364, div. A, title V, § 514(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2185](https://www.govinfo.gov/link/statute/120/2185); [Pub. L. 111–383, div. A, title V, § 503(b)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4208](https://www.govinfo.gov/link/statute/124/4208); [Pub. L. 114–92, div. A, title V, § 502(c)(1)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 807](https://www.govinfo.gov/link/statute/129/807).)*

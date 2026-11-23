@@ -3,9 +3,10 @@ title: "Section 8111B - Shared medical facilities with Department of Defense"
 usc_title: 38
 usc_section: "8111B"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 8111B"
-generated_at: "2026-03-30T02:55:53.537Z"
+generated_at: "2026-11-23T21:26:16.902Z"
+status: "active"
 ---
 
 # § 8111B. Shared medical facilities with Department of Defense
@@ -26,3 +27,19 @@ generated_at: "2026-03-30T02:55:53.537Z"
 - **(f)** In this section, the term “shared medical facility”—
   - **(1)** means a building or buildings, or a campus, intended to be used by both the Department of Veterans Affairs and the Department of Defense for the provision of health care services, whether under the jurisdiction of the Secretary of Veterans Affairs or the Secretary of Defense, and whether or not located on a military installation or on real property under the jurisdiction of the Secretary of Veterans Affairs; and
   - **(2)** includes any necessary building and auxiliary structure, garage, parking facility, mechanical equipment, abutting and covered sidewalks, and accommodations for attending personnel.
+
+Agreements
+
+Transfer of Funds by Secretary of Veterans Affairs
+
+Transfer of Funds to Secretary of Veterans Affairs
+
+Merger of Amounts Transferred
+
+Appropriation in Advance
+
+Shared Medical Facility Defined
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. A, title VII, § 714(b)(1)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1786](https://www.govinfo.gov/link/statute/135/1786); amended [Pub. L. 117–168, title VII, § 706(b)](https://www.govinfo.gov/link/plaw/117/public/168), Aug. 10, 2022, [136 Stat. 1800](https://www.govinfo.gov/link/statute/136/1800).)*

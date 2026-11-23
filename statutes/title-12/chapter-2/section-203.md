@@ -3,9 +3,10 @@ title: "Section 203 - Appointment of conservator"
 usc_title: 12
 usc_section: "203"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 203"
-generated_at: "2026-03-30T02:53:53.375Z"
+generated_at: "2026-11-23T21:25:36.773Z"
+status: "active"
 ---
 
 # § 203. Appointment of conservator
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:53.375Z"
   - **(2)** the Federal Deposit Insurance Corporation terminates the bank’s status as an insured bank.
 - **(d)** The Comptroller shall have exclusive power and jurisdiction to appoint a conservator for a bank. Whenever the Comptroller appoints a conservator for any bank, the Comptroller may appoint the Federal Deposit Insurance Corporation conservator for such bank. The Federal Deposit Insurance Corporation, as such conservator, shall have all the powers granted under the Federal Deposit Insurance Act [ 12 U.S.C. 1811 et seq.], and (when not inconsistent therewith) any other rights, powers, and privileges possessed by conservators of banks under this Act and any other provision of law. The Comptroller may also appoint another person as conservator, who shall be subject to the provisions of this Act.
 - **(e)** The Comptroller may, without notice or hearing, replace a conservator with another conservator. Such replacement shall not affect the bank’s right under subsection (b) to obtain judicial review of the Comptroller’s original decision to appoint a conservator.
+
+## Source Credit
+
+*(Mar. 9, 1933, ch. 1, title II, § 203, [48 Stat. 2](https://www.govinfo.gov/link/statute/48/2); [Pub. L. 101–73, title VIII, § 802](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 442](https://www.govinfo.gov/link/statute/103/442); [Pub. L. 102–242, title I, § 133(c)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2271](https://www.govinfo.gov/link/statute/105/2271).)*

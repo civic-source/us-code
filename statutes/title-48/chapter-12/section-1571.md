@@ -3,12 +3,17 @@ title: "Section 1571 - Legislature"
 usc_title: 48
 usc_section: "1571"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1571"
-generated_at: "2026-03-30T02:56:14.587Z"
+generated_at: "2026-11-23T21:26:38.009Z"
+status: "active"
 ---
 
 # § 1571. Legislature
 
 - **(a)** The legislative power and authority of the Virgin Islands shall be vested in a legislature, consisting of one house, to be designated the “Legislature of the Virgin Islands”, herein referred to as the legislature.
 - **(b)** The legislature shall be composed of members to be known as senators. The number of such senators shall be determined by the laws of the Virgin Islands. The apportionment of the legislature shall be as provided by the laws of the Virgin Islands: Provided , That such apportionment shall not deny to any person in the Virgin Islands the equal protection of the law: And provided further , That every voter in any district election or at large election shall be permitted to vote for the whole number of persons to be elected in that district election or at large election as the case may be. Until the legislature shall provide otherwise, four members shall be elected at large, five shall be elected from the District of Saint Thomas, five from the District of Saint Croix, and one from the District of Saint John, as those Districts were constituted on July 22, 1954 ,
+
+## Source Credit
+
+*(July 22, 1954, ch. 558, § 5, [68 Stat. 498](https://www.govinfo.gov/link/statute/68/498); [Pub. L. 89–548, § 1](https://www.govinfo.gov/link/plaw/89/public/548), Aug. 30, 1966, [80 Stat. 371](https://www.govinfo.gov/link/statute/80/371); [Pub. L. 106–364, § 1](https://www.govinfo.gov/link/plaw/106/public/364), Oct. 27, 2000, [114 Stat. 1408](https://www.govinfo.gov/link/statute/114/1408).)*

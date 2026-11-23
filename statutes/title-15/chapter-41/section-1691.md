@@ -3,9 +3,10 @@ title: "Section 1691 - Scope of prohibition"
 usc_title: 15
 usc_section: "1691"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1691"
-generated_at: "2026-03-30T02:54:08.154Z"
+generated_at: "2026-11-23T21:25:39.882Z"
+status: "active"
 ---
 
 # § 1691. Scope of prohibition
@@ -40,3 +41,21 @@ generated_at: "2026-03-30T02:54:08.154Z"
   - **(4)** Notwithstanding paragraph (3), the creditor shall provide a copy of each written appraisal or valuation at no additional cost to the applicant.
   - **(5)** At the time of application, the creditor shall notify an applicant in writing of the right to receive a copy of each written appraisal and valuation under this subsection.
   - **(6)** For purposes of this subsection, the term “valuation” shall include any estimate of the value of a dwelling developed in connection with a creditor’s decision to provide credit, including those values developed pursuant to a policy of a government sponsored enterprise or by an automated valuation model, a broker price opinion, or other methodology or mechanism.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 90–321, title VII, § 701](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 93–495, title V, § 503](https://www.govinfo.gov/link/plaw/93/public/495), Oct. 28, 1974, [88 Stat. 1521](https://www.govinfo.gov/link/statute/88/1521); amended [Pub. L. 94–239, § 2](https://www.govinfo.gov/link/plaw/94/public/239), Mar. 23, 1976, [90 Stat. 251](https://www.govinfo.gov/link/statute/90/251); [Pub. L. 102–242, title II, § 223(d)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2306](https://www.govinfo.gov/link/statute/105/2306); [Pub. L. 111–203, title X](https://www.govinfo.gov/link/plaw/111/public/203), §§ 1071(b), 1085(1), title XIV, § 1474, July 21, 2010, [124 Stat. 2059](https://www.govinfo.gov/link/statute/124/2059), 2083, 2199.)*

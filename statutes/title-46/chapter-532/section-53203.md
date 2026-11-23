@@ -3,9 +3,10 @@ title: "Section 53203 - Award of operating agreements"
 usc_title: 46
 usc_section: "53203"
 chapter: 532
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 53203"
-generated_at: "2026-03-30T02:56:15.573Z"
+generated_at: "2026-11-23T21:26:37.253Z"
+status: "active"
 ---
 
 # § 53203. Award of operating agreements
@@ -15,3 +16,15 @@ generated_at: "2026-03-30T02:56:15.573Z"
   - **(1)** Beginning no later than 60 days after the effective date of this chapter, the Secretary shall accept applications for enrollment of vessels in the Cable Fleet.
   - **(2)** Within 120 days after receipt of an application for enrollment of a vessel in the Cable Fleet, the Secretary shall approve the application in conjunction with the Operating Agency, and shall enter into an Operating Agreement with the applicant, or provide in writing the reason for denial of that application.
 - **(c)** Subject to the availability of appropriations, the Secretary shall enter into Operating Agreements with those vessels determined by the Operating Agency, in its sole discretion, to best meet the national security requirements of the United States. After consideration of national security requirements, priority shall be given to an applicant that is a United States citizen under section 50501 of this title .
+
+In General
+
+Procedure for Applications.—
+
+Acceptance of applications
+
+Action on applications
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. C, title XXXV, § 3521(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1992](https://www.govinfo.gov/link/statute/133/1992).)*

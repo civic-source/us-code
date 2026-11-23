@@ -3,9 +3,10 @@ title: "Section 5 - Definitions"
 usc_title: 42
 usc_section: "5"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T02:56:10.848Z"
+generated_at: "2026-11-23T21:26:30.959Z"
+status: "active"
 ---
 
 # § 300mm–5. Definitions
@@ -39,3 +40,7 @@ In this subchapter:
   - **(17)** The term “WTC-related health condition” is defined in section 300mm–22(a) of this title .
   - **(18)** The term “WTC responder” is defined in section 300mm–21(a) of this title .
   - **(19)** The term “WTC Scientific/Technical Advisory Committee” means such Committee established under section 300mm–1(a) of this title .
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXXIII, § 3306, as added [Pub. L. 111–347, title I, § 101](https://www.govinfo.gov/link/plaw/111/public/347), Jan. 2, 2011, [124 Stat. 3633](https://www.govinfo.gov/link/statute/124/3633); amended [Pub. L. 118–31, div. A, title XVIII, § 1851(a)(1)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 706](https://www.govinfo.gov/link/statute/137/706).)*

@@ -3,9 +3,10 @@ title: "Section 1766 - Joint reserve detachment of the Defense Innovation Unit"
 usc_title: 10
 usc_section: "1766"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1766"
-generated_at: "2026-03-30T02:53:38.137Z"
+generated_at: "2026-11-23T21:25:32.537Z"
+status: "active"
 ---
 
 # § 1766. Joint reserve detachment of the Defense Innovation Unit
@@ -32,3 +33,15 @@ generated_at: "2026-03-30T02:53:38.137Z"
     - **(C)** using the investment in research and development made by private-sector industry in assessing and developing dual-use technologies.
   - **(3)** Carrying out other activities as directed by the Secretary of Defense.
 - **(d)** Assignment to a Detachment shall not qualify as a joint duty assignment, as defined in section 668(b)(1) of title 10 , United States Code, unless approved by the Secretary of Defense.
+
+Establishment
+
+Members
+
+Duties
+
+Joint Duty
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. A, title II, § 213(a)(1)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1256](https://www.govinfo.gov/link/statute/133/1256), § 2358b; amended [Pub. L. 116–283, div. A, title X, § 1081(a)(37)](https://www.govinfo.gov/link/plaw/116/public/283), title XVIII, § 1842(b), Jan. 1, 2021, [134 Stat. 3872](https://www.govinfo.gov/link/statute/134/3872), 4244; renumbered § 1766, [Pub. L. 116–283, div. A, title XVIII, § 1878A(a)](https://www.govinfo.gov/link/plaw/116/public/283), as added [Pub. L. 117–81, div. A, title XVII, § 1701(q)(2)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2149](https://www.govinfo.gov/link/statute/135/2149); [Pub. L. 117–81, div. A, title II](https://www.govinfo.gov/link/plaw/117/public/81), §§ 211(d), 213(a), title XVII, § 1701(q)(1), (u)(3)(B), Dec. 27, 2021, [135 Stat. 1587](https://www.govinfo.gov/link/statute/135/1587), 1588, 2148, 2152; [Pub. L. 118–31, div. A, title IX, § 913(a)(4)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 368](https://www.govinfo.gov/link/statute/137/368).)*

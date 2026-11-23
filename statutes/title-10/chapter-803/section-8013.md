@@ -3,9 +3,10 @@ title: "Section 8013 - Secretary of the Navy"
 usc_title: 10
 usc_section: "8013"
 chapter: 803
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 8013"
-generated_at: "2026-03-30T02:53:38.237Z"
+generated_at: "2026-11-23T21:25:32.881Z"
+status: "active"
 ---
 
 # § 8013. Secretary of the Navy
@@ -41,3 +42,171 @@ generated_at: "2026-03-30T02:53:38.237Z"
   - **(1)** assign, detail, and prescribe the duties of members of the Navy and Marine Corps and civilian personnel of the Department of the Navy;
   - **(2)** change the title of any officer or activity of the Department of the Navy not prescribed by law; and
   - **(3)** prescribe regulations to carry out his functions, powers, and duties under this title.
+
+In General
+
+Amphibious Warfare Ship Defined
+
+Designation Required
+
+Program Element
+
+In General
+
+Selection of Location
+
+Elements
+
+Report and Briefings.—
+
+Report
+
+Briefings
+
+Termination
+
+“Beginning on the date of the submission of the budget of the President for fiscal year 2026 in accordance with section 1105(a) of title 31 , United States Code, the Secretary of the Navy shall—
+
+Cessation
+
+Restart
+
+In General
+
+Activities
+
+Termination
+
+Definitions
+
+Military Career Field.—
+
+Officers
+
+Enlisted
+
+Plan
+
+Requirement.—
+
+Deadline
+
+Exception
+
+Waiver
+
+Reserve Matters
+
+Officer Qualifications and Training
+
+Community Management
+
+Report
+
+Leadership Qualifications
+
+Determination by Cyber Command
+
+Policy and Guidance Update.—
+
+In general
+
+Projects described
+
+Planning
+
+Briefings.—
+
+In general
+
+Elements
+
+In General
+
+Briefing
+
+Updated Plan.—
+
+In general
+
+Updated cost estimates
+
+Briefing Requirement.—
+
+In general
+
+Written information
+
+Covered project defined
+
+Annual Report.—
+
+In general
+
+Elements
+
+Comptroller General Report.—
+
+Report.—
+
+In general
+
+Elements
+
+Initial briefing
+
+In General
+
+Report
+
+In General
+
+Timline for Implementation.—
+
+Current programs
+
+Future programs
+
+In General
+
+Key Watchstander Defined
+
+Briefings of Congress.—
+
+Initial briefing
+
+Update briefings
+
+Authority to Acquire Complete Title
+
+Authorized Consideration
+
+Prohibited Consideration
+
+Demonstration Project Authorized
+
+Selection Requirements
+
+Participating Workers
+
+Duration
+
+Report
+
+Evaluation
+
+Demonstration Project Authorized
+
+Sources of Training
+
+Use of Facilities
+
+Acceptance of Services
+
+Liability and Indemnification
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 99–433, title V, § 511(c)(2)](https://www.govinfo.gov/link/plaw/99/public/433), Oct. 1, 1986, [100 Stat. 1043](https://www.govinfo.gov/link/statute/100/1043), § 5013; amended [Pub. L. 99–661, div. A, title V, § 534](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3873](https://www.govinfo.gov/link/statute/100/3873); [Pub. L. 108–136, div. A, title IX, § 901](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1558](https://www.govinfo.gov/link/statute/117/1558); [Pub. L. 114–328, div. A, title IX, § 931(b)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2363](https://www.govinfo.gov/link/statute/130/2363); renumbered § 8013, [Pub. L. 115–232, div. A, title VIII, § 807(a)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1834](https://www.govinfo.gov/link/statute/132/1834); [Pub. L. 117–81, div. A, title IX, § 901(d)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1868](https://www.govinfo.gov/link/statute/135/1868).)*

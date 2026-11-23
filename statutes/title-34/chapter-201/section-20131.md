@@ -3,9 +3,10 @@ title: "Section 20131 - Media campaign"
 usc_title: 34
 usc_section: "20131"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20131"
-generated_at: "2026-03-30T02:55:33.294Z"
+generated_at: "2026-11-23T21:26:09.775Z"
+status: "active"
 ---
 
 # § 20131. Media campaign
@@ -74,3 +75,19 @@ generated_at: "2026-03-30T02:55:33.294Z"
     - **(I)** a detailed accounting of the amount of funds obligated during the previous fiscal year for carrying out the national media campaign, including each recipient of funds, the purpose of each expenditure, the amount of each expenditure, any available outcome information, and any other information necessary to provide a complete accounting of the funds expended; and
     - **(J)** a review and evaluation of the effectiveness of the national media campaign strategy for the previous year.
   - **(9)** There are authorized to be appropriated to the Director to carry out this section $5,000,000 for each of fiscal years 2023 through 2027, to remain available until expended.
+
+(aa) a media campaign, as described in paragraph (3);
+
+(bb) local, regional, or population specific messaging;
+
+(cc) the development of websites to publicize and disseminate information;
+
+(dd) conducting outreach and providing educational resources for women;
+
+(ee) collaborating with law enforcement agencies; and
+
+(ff) providing support for school-based public health education classes to improve teen knowledge about the effects of violence against women.
+
+## Source Credit
+
+*([Pub. L. 117–103, div. W, title XIII, § 1310(c)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 931](https://www.govinfo.gov/link/statute/136/931).)*

@@ -3,9 +3,10 @@ title: "Section 7266 - Enhanced review of periodic disclosures by issuers"
 usc_title: 15
 usc_section: "7266"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7266"
-generated_at: "2026-03-30T02:54:08.221Z"
+generated_at: "2026-11-23T21:25:40.051Z"
+status: "active"
 ---
 
 # § 7266. Enhanced review of periodic disclosures by issuers
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.221Z"
   - **(5)** issuers whose operations significantly affect any material sector of the economy; and
   - **(6)** any other factors that the Commission may consider relevant.
 - **(c)** In no event shall an issuer required to file reports under section 78m(a) or 78 o (d) of this title be reviewed under this section less frequently than once every 3 years.
+
+## Source Credit
+
+*([Pub. L. 107–204, title IV, § 408](https://www.govinfo.gov/link/plaw/107/public/204), July 30, 2002, [116 Stat. 790](https://www.govinfo.gov/link/statute/116/790).)*

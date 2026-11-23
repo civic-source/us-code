@@ -3,9 +3,10 @@ title: "Section 2684 - Authorized State programs"
 usc_title: 15
 usc_section: "2684"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2684"
-generated_at: "2026-03-30T02:54:08.181Z"
+generated_at: "2026-11-23T21:25:39.950Z"
+status: "active"
 ---
 
 # § 2684. Authorized State programs
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:08.181Z"
 - **(f)** The regulations under this subchapter shall, to the extent appropriate, encourage States to seek program authorization and to use existing State and local certification and accreditation procedures, except that a State or local government shall not require more than 1 certification under this section for any lead-based paint activities contractor to carry out lead-based paint activities in the State or political subdivision thereof.
 - **(g)** The Administrator is authorized to make grants to States to develop and carry out authorized State programs under this section. The grants shall be subject to such terms and conditions as the Administrator may establish to further the purposes of this subchapter.
 - **(h)** If a State does not have a State program authorized under this section and in effect by the date which is 2 years after promulgation of the regulations under section 2682 or 2686 of this title, the Administrator shall, by such date, establish a Federal program for section 2682 or 2686 of this title (as the case may be) for such State and administer and enforce such program in such State.
+
+## Source Credit
+
+*([Pub. L. 94–469, title IV, § 404](https://www.govinfo.gov/link/plaw/94/public/469), as added [Pub. L. 102–550, title X, § 1021(a)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3916](https://www.govinfo.gov/link/statute/106/3916).)*

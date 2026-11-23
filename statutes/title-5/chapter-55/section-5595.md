@@ -3,9 +3,10 @@ title: "Section 5595 - Severance pay"
 usc_title: 5
 usc_section: "5595"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5595"
-generated_at: "2026-03-30T02:52:56.023Z"
+generated_at: "2026-11-23T21:25:23.289Z"
+status: "active"
 ---
 
 # § 5595. Severance pay
@@ -76,3 +77,28 @@ generated_at: "2026-03-30T02:52:56.023Z"
     - **(B)** The period of service represented by an amount of severance pay repaid by an employee under subparagraph (A) shall be considered service for which severance pay has not been received by the employee under this section.
     - **(C)** Amounts repaid to the Department of Energy under this paragraph shall be credited to the appropriation available for the pay of employees of the agency for the fiscal year in which received. Amounts so credited shall be merged with, and shall be available for the same purposes and the same period as, the other funds in that appropriation.
   - **(3)** If an employee fails to repay to the Department of Energy an amount required to be repaid under paragraph (2)(A), that amount is recoverable from the employee as a debt due the United States.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5595 | 5 App.: 1117. | Oct. 29, 1965 , Pub. L. 89–301, § 9 , 79 Stat. 1118 . Nov. 2, 1966 , Pub. L. 89–737, § 2 , 80 Stat. 1164 . |
+
+
+Historical and Revision Notes
+
+5595
+
+Oct. 29, 1965
+
+Pub. L. 89–301, § 9
+
+79 Stat. 1118
+
+Nov. 2, 1966
+
+Pub. L. 89–737, § 2
+
+80 Stat. 1164
+
+## Source Credit
+
+*(Added [Pub. L. 90–83, § 1(34)(C)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 201](https://www.govinfo.gov/link/statute/81/201); amended [Pub. L. 95–454, title IV, § 408(a)(3)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1173](https://www.govinfo.gov/link/statute/92/1173); [Pub. L. 96–70, title I, § 1231(d)](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 470](https://www.govinfo.gov/link/statute/93/470); [Pub. L. 96–465, title II, § 2305](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2165](https://www.govinfo.gov/link/statute/94/2165); [Pub. L. 100–325, § 2(i)(2)](https://www.govinfo.gov/link/plaw/100/public/325), May 30, 1988, [102 Stat. 582](https://www.govinfo.gov/link/statute/102/582); [Pub. L. 101–474, § 5(k)](https://www.govinfo.gov/link/plaw/101/public/474), Oct. 30, 1990, [104 Stat. 1100](https://www.govinfo.gov/link/statute/104/1100); [Pub. L. 101–509, title V, § 529 [title I, § 101(b)(9)(J)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1442; [Pub. L. 103–337, div. A, title III, § 343(a)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2721](https://www.govinfo.gov/link/statute/108/2721); [Pub. L. 104–106, div. A, title X, § 1035](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 430](https://www.govinfo.gov/link/statute/110/430); [Pub. L. 105–55, title III, § 310(a)](https://www.govinfo.gov/link/plaw/105/public/55), Oct. 7, 1997, [111 Stat. 1199](https://www.govinfo.gov/link/statute/111/1199); [Pub. L. 105–275, title III](https://www.govinfo.gov/link/plaw/105/public/275), §§ 308(a), 309(a), Oct. 21, 1998, [112 Stat. 2452](https://www.govinfo.gov/link/statute/112/2452), 2454; [Pub. L. 106–31, title V, § 5006](https://www.govinfo.gov/link/plaw/106/public/31), May 21, 1999, [113 Stat. 112](https://www.govinfo.gov/link/statute/113/112); [Pub. L. 106–65, div. A, title XI, § 1104(a)](https://www.govinfo.gov/link/plaw/106/public/65), div. C, title XXXII, § 3243, Oct. 5, 1999, [113 Stat. 777](https://www.govinfo.gov/link/statute/113/777), 965; [Pub. L. 107–314, div. A, title XI, § 1102(a)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2660](https://www.govinfo.gov/link/statute/116/2660); [Pub. L. 109–163, div. A, title XI, § 1103](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3448](https://www.govinfo.gov/link/statute/119/3448); [Pub. L. 109–241, title IX, § 902(a)(3)](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 566](https://www.govinfo.gov/link/statute/120/566); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title XI, § 1104, Oct. 14, 2008, [122 Stat. 4617](https://www.govinfo.gov/link/statute/122/4617); [Pub. L. 113–66, div. A, title XI, § 1104](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 886](https://www.govinfo.gov/link/statute/127/886); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), (d), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537).)*

@@ -3,9 +3,10 @@ title: "Section 2152f - Assistance for orphans and other vulnerable children"
 usc_title: 22
 usc_section: "2152f"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2152f"
-generated_at: "2026-03-30T02:55:05.347Z"
+generated_at: "2026-11-23T21:25:58.441Z"
+status: "active"
 ---
 
 # § 2152f. Assistance for orphans and other vulnerable children
@@ -56,3 +57,15 @@ generated_at: "2026-03-30T02:55:05.347Z"
 - **(f)**
   - **(1)** There is authorized to be appropriated to the President to carry out this section such sums as may be necessary for each of the fiscal years 2006 and 2007.
   - **(2)** Amounts made available under paragraph (1) are authorized to remain available until expended.
+
+“Congress makes the following findings:
+
+Requirement for Strategy
+
+Consultation
+
+Content
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 135, as added [Pub. L. 109–95, § 3](https://www.govinfo.gov/link/plaw/109/public/95), Nov. 8, 2005, [119 Stat. 2113](https://www.govinfo.gov/link/statute/119/2113); amended [Pub. L. 116–283, div. A, title XII, § 1284](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3989](https://www.govinfo.gov/link/statute/134/3989).)*

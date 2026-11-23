@@ -3,12 +3,17 @@ title: "Section 4088 - Confidential business information"
 usc_title: 19
 usc_section: "4088"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4088"
-generated_at: "2026-03-30T02:54:24.702Z"
+generated_at: "2026-11-23T21:25:42.874Z"
+status: "active"
 ---
 
 # § 4088. Confidential business information
 
 The President may not release information received in connection with a review under this part which the President considers to be confidential business information unless the party submitting the confidential business information had notice, at the time of submission, that such information would be released by the President, or such party subsequently consents to the release of the information. To the extent a party submits confidential business information, it shall also provide a nonconfidential version of the information in which the confidential business information is summarized or, if necessary, deleted.
 
+
+## Source Credit
+
+*([Pub. L. 109–53, title III, § 328](https://www.govinfo.gov/link/plaw/109/public/53), Aug. 2, 2005, [119 Stat. 494](https://www.govinfo.gov/link/statute/119/494).)*

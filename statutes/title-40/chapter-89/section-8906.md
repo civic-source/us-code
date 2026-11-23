@@ -3,9 +3,10 @@ title: "Section 8906 - Criteria for issuance of construction permit"
 usc_title: 40
 usc_section: "8906"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 8906"
-generated_at: "2026-03-30T02:55:43.384Z"
+generated_at: "2026-11-23T21:26:14.930Z"
+status: "active"
 ---
 
 # § 8906. Criteria for issuance of construction permit
@@ -22,3 +23,59 @@ generated_at: "2026-03-30T02:55:43.384Z"
   - **(4)** Upon request of the Secretary or Administrator (as appropriate), the Secretary of the Treasury or the National Park Foundation shall make all or a portion of such moneys available to the Secretary or the Administrator (as appropriate) for the maintenance of a commemorative work. Under no circumstances may the Secretary or Administrator request funds from a separate account exceeding the total money in the account established under paragraph (2) or (3). The Secretary and the Administrator shall maintain an inventory of funds available for such purposes. Funds provided under this paragraph shall be available without further appropriation and shall remain available until expended.
 - **(c)** The Secretary of the Interior or Administrator may suspend any activity under this chapter that relates to the establishment of a commemorative work if the Secretary or Administrator determines that fundraising efforts relating to the work have misrepresented an affiliation with the work or the Federal Government.
 - **(d)** The person authorized to construct a commemorative work under this chapter must submit to the Secretary of the Interior or Administrator an annual report of operations, including financial statements audited by an independent certified public accountant. The person shall pay for the report.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8906(a) | 40:1008(a). | Pub. L. 99–652, § 8 , Nov. 14, 1986 , 100 Stat. 3652 ; Pub. L. 103–321, § 2(e) , Aug. 26, 1994 , 108 Stat. 1794 . |
+| 8906(b)(1) | 40:1008(b) (words before proviso), cl. (1). |  |
+| 8906(b)(2), (3) | 40:1008(b)(2). |  |
+| 8906(b)(4) | 40:1008(b) (proviso). |  |
+| 8906(c) | 40:1008(c)(1). |  |
+| 8906(d) | 40:1008(c)(2). |  |
+
+
+Criteria for Issuing Permit
+
+Donation for Perpetual Maintenance and Preservation.—
+
+Suspension for Misrepresentation in Fundraising
+
+Annual Report
+
+Historical and Revision Notes
+
+8906(a)
+
+Pub. L. 99–652, § 8
+
+Nov. 14, 1986
+
+100 Stat. 3652
+
+Pub. L. 103–321, § 2(e)
+
+Aug. 26, 1994
+
+108 Stat. 1794
+
+8906(b)(1)
+
+8906(b)(2), (3)
+
+8906(b)(4)
+
+8906(c)
+
+8906(d)
+
+Amount
+
+Availability
+
+Inventory of available amounts
+
+Nonapplicability
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1230](https://www.govinfo.gov/link/statute/116/1230); [Pub. L. 108–126, title II, § 203(f)](https://www.govinfo.gov/link/plaw/108/public/126), Nov. 17, 2003, [117 Stat. 1351](https://www.govinfo.gov/link/statute/117/1351).)*

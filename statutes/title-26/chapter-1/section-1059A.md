@@ -3,9 +3,10 @@ title: "Section 1059A - Limitation on taxpayer’s basis or inventory cost in pr
 usc_title: 26
 usc_section: "1059A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1059A"
-generated_at: "2026-03-30T02:55:27.758Z"
+generated_at: "2026-11-23T21:26:06.463Z"
+status: "active"
 ---
 
 # § 1059A. Limitation on taxpayer’s basis or inventory cost in property imported from related persons
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:27.758Z"
 - **(b)** For purposes of this section—
   - **(1)** The term “customs value” means the value taken into account for purposes of determining the amount of any customs duties or any other duties which may be imposed on the importation of any property.
   - **(2)** Except as provided in regulations, the term “import” means the entering, or withdrawal from warehouse, for consumption.
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XII, § 1248(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2584](https://www.govinfo.gov/link/statute/100/2584).)*

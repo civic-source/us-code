@@ -3,12 +3,17 @@ title: "Section 1324 - Power of court over registration"
 usc_title: 17
 usc_section: "1324"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 1324"
-generated_at: "2026-03-30T02:54:15.357Z"
+generated_at: "2026-11-23T21:25:41.741Z"
+status: "active"
 ---
 
 # § 1324. Power of court over registration
 
 In any action involving the protection of a design under this chapter, the court, when appropriate, may order registration of a design under this chapter or the cancellation of such a registration. Any such order shall be certified by the court to the Administrator, who shall make an appropriate entry upon the record.
 
+
+## Source Credit
+
+*(Added [Pub. L. 105–304, title V, § 502](https://www.govinfo.gov/link/plaw/105/public/304), Oct. 28, 1998, [112 Stat. 2915](https://www.govinfo.gov/link/statute/112/2915).)*

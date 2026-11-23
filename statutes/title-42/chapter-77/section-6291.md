@@ -3,9 +3,10 @@ title: "Section 6291 - Definitions"
 usc_title: 42
 usc_section: "6291"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6291"
-generated_at: "2026-03-30T02:56:11.245Z"
+generated_at: "2026-11-23T21:26:32.863Z"
+status: "active"
 ---
 
 # § 6291. Definitions
@@ -358,3 +359,129 @@ For purposes of this part:
     - **(B)** For the purpose of subparagraph (A)—
       - **(i)** lamps shall be started by first providing a high voltage pulse for ionization of the gas to produce a glow discharge; and
       - **(ii)** to complete the starting process, power shall be provided by the ballast to sustain the discharge through the glow-to-arc transition.
+
+General service incandescent lamp.—
+
+In general
+
+Exclusions
+
+(aa) specifically designed to be used for special purpose applications; and
+
+(bb) unlikely to be used in general purpose applications, such as the applications described in subparagraph (D); or
+
+(aa) designed for special applications; and
+
+(bb) unlikely to be used in general purpose applications.
+
+Appliance lamp
+
+Candelabra base incandescent lamp
+
+Intermediate base incandescent lamp
+
+Modified spectrum
+
+Rough service lamp
+
+way incandescent lamp
+
+Shatter-resistant lamp, shatter-proof lamp, or shatter-protected lamp
+
+Vibration service lamp
+
+General service lamp.—
+
+In general
+
+Exclusions
+
+Light-emitting diode; led.—
+
+In general
+
+Output
+
+Organic light-emitting diode; oled
+
+Colored incandescent lamp
+
+External power supply.—
+
+External power supply.—
+
+In general
+
+Exclusion
+
+Active mode
+
+Class a external power supply.—
+
+In general
+
+Exclusions
+
+No-load mode
+
+High intensity discharge lamp.—
+
+In general
+
+Inclusions
+
+Mercury vapor lamp.—
+
+In general
+
+Inclusions
+
+Mercury vapor lamp ballast
+
+Detachable battery
+
+Specialty application mercury vapor lamp ballast
+
+incandescent reflector lamp
+
+incandescent reflector lamp; br30; br40.—
+
+incandescent reflector lamp
+
+incandescent reflector lamp; er30; er40.—
+
+incandescent reflector lamp
+
+incandescent reflector lamp
+
+Ballast
+
+Ballast efficiency.—
+
+In general
+
+Efficiency formula
+
+Modification
+
+Electronic ballast
+
+General lighting application
+
+Metal halide ballast
+
+Metal halide lamp
+
+Metal halide lamp fixture
+
+Probe-start metal halide ballast
+
+Pulse-start metal halide ballast.—
+
+In general
+
+Starting process
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 321](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 917](https://www.govinfo.gov/link/statute/89/917); [Pub. L. 95–619, title VI, § 691(b)(2)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3288](https://www.govinfo.gov/link/statute/92/3288); [Pub. L. 100–12, § 2](https://www.govinfo.gov/link/plaw/100/public/12), Mar. 17, 1987, [101 Stat. 103](https://www.govinfo.gov/link/statute/101/103); [Pub. L. 100–357, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/357), June 28, 1988, [102 Stat. 671](https://www.govinfo.gov/link/statute/102/671); [Pub. L. 102–486, title I, § 123(b)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2817](https://www.govinfo.gov/link/statute/106/2817); [Pub. L. 105–388, § 5(a)(2)](https://www.govinfo.gov/link/plaw/105/public/388), Nov. 13, 1998, [112 Stat. 3478](https://www.govinfo.gov/link/statute/112/3478); [Pub. L. 109–58, title I, § 135(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 624](https://www.govinfo.gov/link/statute/119/624); [Pub. L. 110–140, title III](https://www.govinfo.gov/link/plaw/110/public/140), §§ 301(a), 316(a)(1), (b), (c)(1), 321(a)(1), 322(a), 324(a), Dec. 19, 2007, [121 Stat. 1549](https://www.govinfo.gov/link/statute/121/1549), 1572, 1573, 1587, 1591; [Pub. L. 112–210, § 10(a)(6)](https://www.govinfo.gov/link/plaw/112/public/210), (7), (10), Dec. 18, 2012, [126 Stat. 1524](https://www.govinfo.gov/link/statute/126/1524), 1525; [Pub. L. 115–115, § 2(a)](https://www.govinfo.gov/link/plaw/115/public/115), (c)(1), Jan. 12, 2018, [131 Stat. 2280](https://www.govinfo.gov/link/statute/131/2280), 2281.)*

@@ -3,9 +3,10 @@ title: "Section 30301 - Definitions"
 usc_title: 49
 usc_section: "30301"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 30301"
-generated_at: "2026-03-30T02:56:19.354Z"
+generated_at: "2026-11-23T21:26:40.768Z"
+status: "active"
 ---
 
 # § 30301. Definitions
@@ -22,3 +23,96 @@ In this chapter—
   - **(6)** “participating State” means a State that has notified the Secretary under section 30303 of this title of its participation in the National Driver Register.
   - **(7)** “State” means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
   - **(8)** “State of record” means a State that has given the Secretary a report under section 30304 of this title about an individual who is the subject of a request for information made under section 30305 of this title .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30301 | 23:401 (note). | Oct. 25, 1982 , Pub. L. 97–364, § 202 , 96 Stat. 1740 . |
+
+
+Historical and Revision Notes
+
+30301
+
+Oct. 25, 1982
+
+Pub. L. 97–364, § 202
+
+96 Stat. 1740
+
+Minimum Document Requirements.—
+
+Minimum requirements
+
+Individuals and information
+
+Verification of Information
+
+Driver’s license
+
+Identification card
+
+Official purpose
+
+Secretary
+
+State
+
+Minimum Standards for Federal Use.—
+
+In general
+
+State certifications
+
+Limitation
+
+Minimum Driver’s License and Identification Card Requirements
+
+Minimum Issuance Standards.—
+
+In general
+
+Special requirements.—
+
+In general
+
+Evidence of lawful status
+
+Temporary drivers’ licenses and identification cards.—
+
+In general
+
+Expiration date
+
+Display of expiration date
+
+Renewal
+
+Electronic presentation of identity and lawful status information
+
+Verification of documents
+
+Other Requirements
+
+Criminal Penalty
+
+Use of False Driver’s License at Airports.—
+
+In general
+
+False defined
+
+Participation of Secretary of Transportation and States
+
+Extensions of Deadlines
+
+Evaluation
+
+Technology assessment
+
+Report to congress
+
+Authorization of Appropriations
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 973](https://www.govinfo.gov/link/statute/108/973).)*

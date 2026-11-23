@@ -3,9 +3,10 @@ title: "Section 15832 - Energy efficiency public information initiative"
 usc_title: 42
 usc_section: "15832"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15832"
-generated_at: "2026-03-30T02:56:11.461Z"
+generated_at: "2026-11-23T21:26:33.676Z"
+status: "active"
 ---
 
 # § 15832. Energy efficiency public information initiative
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.461Z"
 - **(c)** Not later than July 1, 2009 , the Secretary shall submit to Congress a report describing the effectiveness of the program under this section.
 - **(d)** The program carried out under this section shall terminate on December 31, 2010 .
 - **(e)** There are authorized to be appropriated to carry out this section $90,000,000 for each of fiscal years 2006 through 2010.
+
+## Source Credit
+
+*([Pub. L. 109–58, title I, § 134](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 623](https://www.govinfo.gov/link/statute/119/623).)*

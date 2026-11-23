@@ -3,9 +3,10 @@ title: "Section 7901 - Programs; purpose"
 usc_title: 38
 usc_section: "7901"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7901"
-generated_at: "2026-03-30T02:55:53.536Z"
+generated_at: "2026-11-23T21:26:16.895Z"
+status: "active"
 ---
 
 # § 7901. Programs; purpose
@@ -14,3 +15,11 @@ generated_at: "2026-03-30T02:55:53.536Z"
 - **(b)** The programs authorized under this chapter are as follows:
   - **(1)** Scholarships for pursuit of doctoral degrees in computer science and electrical and computer engineering at accredited institutions of higher education.
   - **(2)** Education debt reduction for Department personnel who hold doctoral degrees in computer science and electrical and computer engineering at accredited institutions of higher education.
+
+In General
+
+Types of Programs
+
+## Source Credit
+
+*(Added [Pub. L. 109–461, title IX, § 903(a)(1)](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3460](https://www.govinfo.gov/link/statute/120/3460).)*

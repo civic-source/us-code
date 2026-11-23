@@ -3,9 +3,10 @@ title: "Section 4516 - Constitutional Law Resource Centers"
 usc_title: 20
 usc_section: "4516"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 4516"
-generated_at: "2026-03-30T02:54:48.185Z"
+generated_at: "2026-11-23T21:25:47.456Z"
+status: "active"
 ---
 
 # § 4516. Constitutional Law Resource Centers
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:48.185Z"
 - **(d)** That portion of each endowment provided by this chapter 2 2 See References in Text note below. and any accumulations attributable to such grant shall be invested by the recipient university in interest bearing obligations of the United States or in obligations guaranteed both as to principal and interest by the United States and shall be subject to audit by the Government Accountability Office for the sole purpose of determining that such funds are accounted for or have been used as provided herein. If a grantee university elects to discontinue such chair and support services, the corpus of the endowment attributable to the Federal grant shall revert to the Treasury of the United States.
 - **(e)** The application for the grant for an endowment shall require only such information and supporting material as is reasonably necessary to assure that the funds will be used for the purposes described herein. Acceptance of the grant by each university shall constitute an agreement and obligation of that university to fulfill the obligations set forth in this section.
 - **(f)** The grants for each endowment shall be for $800,000 and shall be offered to Howard University School of Law in Washington, D.C., Drake University School of Law in Des Moines, Iowa, the University of Akron School of Law in Akron, Ohio, and the University of South Carolina School of Law at Columbia, South Carolina.
+
+## Source Credit
+
+*([Pub. L. 99–500, § 101(b) [title VIII, § 817]](https://www.govinfo.gov/link/plaw/99/public/500), Oct. 18, 1986, [100 Stat. 1783–39](https://www.govinfo.gov/link/statute/100/1783), 1783–81, and [Pub. L. 99–591, § 101(b) [title VIII, § 817]](https://www.govinfo.gov/link/plaw/99/public/591), Oct. 30, 1986, [100 Stat. 3341–39](https://www.govinfo.gov/link/statute/100/3341), 3341–81; [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

@@ -3,9 +3,10 @@ title: "Section 10709 - Relations between Kosovo and Serbia"
 usc_title: 22
 usc_section: "10709"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10709"
-generated_at: "2026-03-30T02:55:05.480Z"
+generated_at: "2026-11-23T21:25:58.803Z"
+status: "active"
 ---
 
 # § 10709. Relations between Kosovo and Serbia
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.480Z"
 - **(b)** It is the policy of the United States Government that—
   - **(1)** it shall not pursue any policy that advocates for land swaps, partition, or other forms of redrawing borders along ethnic lines in the Western Balkans as a means to settle disputes between nation states in the region; and
   - **(2)** it should support pluralistic democracies in countries in the Western Balkans as a means to prevent a return to the ethnic strife that once characterized the region.
+
+## Source Credit
+
+*([Pub. L. 119–60, div. H, title LXXXIII, § 8340](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1877](https://www.govinfo.gov/link/statute/139/1877).)*

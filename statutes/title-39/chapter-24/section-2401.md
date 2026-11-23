@@ -3,9 +3,10 @@ title: "Section 2401 - Appropriations"
 usc_title: 39
 usc_section: "2401"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 2401"
-generated_at: "2026-03-30T02:55:43.691Z"
+generated_at: "2026-11-23T21:26:12.776Z"
+status: "active"
 ---
 
 # § 2401. Appropriations
@@ -30,3 +31,9 @@ generated_at: "2026-03-30T02:55:43.691Z"
   - **(4)** such other matters as the committees may determine necessary to ensure that the Congress is fully and currently consulted and informed on postal operations, plans, and policies.
 - **(f)** The failure of the President to request the appropriation of any part of the funds authorized by this section may not be deemed a failure of appropriations.
 - **(g)** The rates established under chapter 36 of this title for zone-rated parcels formerly entered under former chapter 67 of this title shall not be more than 10 percent less than the rates for such mail would be if the funds authorized under subsection (b) were not appropriated.
+
+“Notwithstanding section 2401(c) of title 39 , United States Code, the amount authorized to be appropriated under such section shall not exceed—
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 743](https://www.govinfo.gov/link/statute/84/743); [Pub. L. 94–421, § 2(a)](https://www.govinfo.gov/link/plaw/94/public/421), (b), Sept. 24, 1976, [90 Stat. 1303](https://www.govinfo.gov/link/statute/90/1303); [Pub. L. 95–593, § 11(a)](https://www.govinfo.gov/link/plaw/95/public/593), Nov. 4, 1978, [92 Stat. 2538](https://www.govinfo.gov/link/statute/92/2538); [Pub. L. 96–499, title IV](https://www.govinfo.gov/link/plaw/96/public/499), §§ 411, 414(a), Dec. 5, 1980, [94 Stat. 2607](https://www.govinfo.gov/link/statute/94/2607); [Pub. L. 97–35, title XVII, § 1721](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 759](https://www.govinfo.gov/link/statute/95/759); [Pub. L. 99–410, title II, § 201(b)(2)](https://www.govinfo.gov/link/plaw/99/public/410), Aug. 28, 1986, [100 Stat. 928](https://www.govinfo.gov/link/statute/100/928); [Pub. L. 99–509, title VI, § 6003(b)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1933](https://www.govinfo.gov/link/statute/100/1933); [Pub. L. 101–509, title II, § 1(b)](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1398](https://www.govinfo.gov/link/statute/104/1398); [Pub. L. 102–141, title II](https://www.govinfo.gov/link/plaw/102/public/141), Oct. 28, 1991, [105 Stat. 842](https://www.govinfo.gov/link/statute/105/842); [Pub. L. 103–31, § 8(h)(2)](https://www.govinfo.gov/link/plaw/103/public/31), May 20, 1993, [107 Stat. 86](https://www.govinfo.gov/link/statute/107/86); [Pub. L. 103–123, title VII](https://www.govinfo.gov/link/plaw/103/public/123), §§ 703(a), 704(b)(1), Oct. 28, 1993, [107 Stat. 1267](https://www.govinfo.gov/link/statute/107/1267), 1270; [Pub. L. 103–437, § 13](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4590](https://www.govinfo.gov/link/statute/108/4590); [Pub. L. 109–435, title X, § 1010(c)(2)](https://www.govinfo.gov/link/plaw/109/public/435), (d)(1), Dec. 20, 2006, [120 Stat. 3261](https://www.govinfo.gov/link/statute/120/3261).)*

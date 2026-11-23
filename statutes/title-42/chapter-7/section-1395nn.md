@@ -3,9 +3,10 @@ title: "Section 1395nn - Limitation on certain physician referrals"
 usc_title: 42
 usc_section: "1395nn"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1395nn"
-generated_at: "2026-03-30T02:56:11.008Z"
+generated_at: "2026-11-23T21:26:31.665Z"
+status: "active"
 ---
 
 # § 1395nn. Limitation on certain physician referrals
@@ -279,3 +280,43 @@ generated_at: "2026-03-30T02:56:11.008Z"
   - **(4)** For purposes of subparagraphs (A)(i) and (D)(i) of paragraph (1), the Secretary shall collect physician ownership and investment information for each hospital.
   - **(5)** For purposes of this subsection, the term “physician owner or investor” means a physician (or an immediate family member of such physician) with a direct or an indirect ownership or investment interest in the hospital.
   - **(6)** Nothing in this subsection shall be construed as preventing the Secretary from revoking a hospital’s provider agreement if not in compliance with regulations implementing section 1395cc of this title .
+
+(aa) for the provision of some or all of the group’s clinical laboratory services, or
+
+(bb) for the centralized provision of the group’s designated health services (other than clinical laboratory services),
+
+Written requirement clarified
+
+Special rule for signature requirements
+
+In general
+
+Exceptions
+
+Ensuring compliance
+
+Audits
+
+Development of Self-Referral Disclosure Protocol.—
+
+In general
+
+Publication on internet website of srdp information
+
+Relation to advisory opinions
+
+Reduction in Amounts Owed
+
+Report
+
+“For purposes of section 1877(h)(7)(B)(i)(II) of the Social Security Act [ 42 U.S.C. 1395nn(h)(7)(B)(i)(II) ], as added by subsection (a)(1)(B), in determining whether a hospital is under development as of November 18, 2003 , the Secretary [of Health and Human Services] shall consider—
+
+MedPAC study
+
+study
+
+Reports
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1877, as added [Pub. L. 101–239, title VI, § 6204(a)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2236](https://www.govinfo.gov/link/statute/103/2236); amended [Pub. L. 101–508, title IV, § 4207(e)(1)](https://www.govinfo.gov/link/plaw/101/public/508) –(3), (k)(2), formerly § 4027(e)(1)–(3), (k)(2), Nov. 5, 1990, [104 Stat. 1388–121](https://www.govinfo.gov/link/statute/104/1388), 1388–122, 1388–124, renumbered [Pub. L. 103–432, title I, § 160(d)(4)](https://www.govinfo.gov/link/plaw/103/public/432), Oct. 31, 1994, [108 Stat. 4444](https://www.govinfo.gov/link/statute/108/4444); [Pub. L. 103–66, title XIII, § 13562(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 596](https://www.govinfo.gov/link/statute/107/596); [Pub. L. 103–432, title I, § 152(a)](https://www.govinfo.gov/link/plaw/103/public/432), (b), Oct. 31, 1994, [108 Stat. 4436](https://www.govinfo.gov/link/statute/108/4436); [Pub. L. 105–33, title IV, § 4314](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 389](https://www.govinfo.gov/link/statute/111/389); [Pub. L. 106–113, div. B, § 1000(a)(6) [title V, § 524(a)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–387; [Pub. L. 108–173, title I, § 101(e)(8)(B)](https://www.govinfo.gov/link/plaw/108/public/173), title V, § 507(a), Dec. 8, 2003, [117 Stat. 2152](https://www.govinfo.gov/link/statute/117/2152), 2295; [Pub. L. 110–275, title I, § 143(b)(9)](https://www.govinfo.gov/link/plaw/110/public/275), July 15, 2008, [122 Stat. 2543](https://www.govinfo.gov/link/statute/122/2543); [Pub. L. 111–148, title VI](https://www.govinfo.gov/link/plaw/111/public/148), §§ 6001(a), 6003(a), title X, § 10601(a), Mar. 23, 2010, [124 Stat. 684](https://www.govinfo.gov/link/statute/124/684), 697, 1005; [Pub. L. 111–152, title I, § 1106](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1049](https://www.govinfo.gov/link/statute/124/1049); [Pub. L. 115–123, div. E, title IV, § 50404](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 218](https://www.govinfo.gov/link/statute/132/218); [Pub. L. 117–328, div. FF, title IV, § 4126(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5913](https://www.govinfo.gov/link/statute/136/5913).)*

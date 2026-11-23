@@ -3,9 +3,10 @@ title: "Section 410ll - Establishment"
 usc_title: 16
 usc_section: "410ll"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410ll"
-generated_at: "2026-03-30T02:54:22.767Z"
+generated_at: "2026-11-23T21:25:51.449Z"
+status: "active"
 ---
 
 # § 410ll. Establishment
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:54:22.767Z"
 - **(i)**
   - **(1)** There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section, but not to exceed $700,000 for acquisition, and $500,000 for development.
   - **(2)** In addition to those sums appropriated prior to November 12, 1996 , for land acquisition and development, there is hereby authorized to be appropriated an additional $2,000,000.
+
+## Source Credit
+
+*([Pub. L. 96–607, title XVI, § 1601](https://www.govinfo.gov/link/plaw/96/public/607), Dec. 28, 1980, [94 Stat. 3546](https://www.govinfo.gov/link/statute/94/3546); [Pub. L. 98–402](https://www.govinfo.gov/link/plaw/98/public/402), Aug. 28, 1984, [98 Stat. 1478](https://www.govinfo.gov/link/statute/98/1478); [Pub. L. 100–475, § 1](https://www.govinfo.gov/link/plaw/100/public/475), Oct. 6, 1988, [102 Stat. 2303](https://www.govinfo.gov/link/statute/102/2303); [Pub. L. 104–333, div. I, title V, § 505](https://www.govinfo.gov/link/plaw/104/public/333), Nov. 12, 1996, [110 Stat. 4155](https://www.govinfo.gov/link/statute/110/4155); [Pub. L. 106–258, § 1](https://www.govinfo.gov/link/plaw/106/public/258), Aug. 8, 2000, [114 Stat. 655](https://www.govinfo.gov/link/statute/114/655).)*

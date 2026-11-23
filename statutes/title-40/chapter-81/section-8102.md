@@ -3,9 +3,10 @@ title: "Section 8102 - Protection of Federal Government buildings in District of
 usc_title: 40
 usc_section: "8102"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 8102"
-generated_at: "2026-03-30T02:55:43.383Z"
+generated_at: "2026-11-23T21:26:14.909Z"
+status: "active"
 ---
 
 # § 8102. Protection of Federal Government buildings in District of Columbia
@@ -16,3 +17,22 @@ The Attorney General and the Secretary of the Treasury may prohibit—
     - **(A)** at least partly owned or possessed by, or leased to, the Federal Government; and
     - **(B)** used by law enforcement authorities subject to their jurisdiction; and
   - **(2)** a person or entity from conducting business on property immediately adjacent to a building described in paragraph (1).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8102 | 40:137. | Pub. L. 104–132, title VIII, § 803 , Apr. 24, 1996 , 110 Stat. 1305 . |
+
+
+Historical and Revision Notes
+
+8102
+
+Pub. L. 104–132, title VIII, § 803
+
+Apr. 24, 1996
+
+110 Stat. 1305
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1205](https://www.govinfo.gov/link/statute/116/1205).)*

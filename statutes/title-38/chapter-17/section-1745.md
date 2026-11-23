@@ -3,9 +3,10 @@ title: "Section 1745 - Nursing home care, adult day health care, and medications
 usc_title: 38
 usc_section: "1745"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1745"
-generated_at: "2026-03-30T02:55:53.487Z"
+generated_at: "2026-11-23T21:26:16.665Z"
+status: "active"
 ---
 
 # § 1745. Nursing home care, adult day health care, and medications for veterans with service-connected disabilities
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:55:53.487Z"
     - **(C)** The rate established through regulations under subparagraph (A) shall not take effect until the date that is 30 days after the date on which those regulations are published in the Federal Register.
   - **(3)** Payment by the Secretary under paragraph (1) to a State home for medical supervision model adult day health care provided to a veteran described in that paragraph constitutes payment in full to the State home for such care furnished to that veteran.
   - **(4)** In this subsection, the term “medical supervision model adult day health care” means adult day health care that includes the coordination of physician services, dental services, nursing services, the administration of drugs, and such other requirements as determined appropriate by the Secretary.
+
+## Source Credit
+
+*(Added and amended [Pub. L. 109–461, title II, § 211(a)(1)](https://www.govinfo.gov/link/plaw/109/public/461), (2), (b)(1), Dec. 22, 2006, [120 Stat. 3418](https://www.govinfo.gov/link/statute/120/3418), 3419; [Pub. L. 112–154, title I, § 105(a)](https://www.govinfo.gov/link/plaw/112/public/154), Aug. 6, 2012, [126 Stat. 1170](https://www.govinfo.gov/link/statute/126/1170); [Pub. L. 115–159, § 2(a)](https://www.govinfo.gov/link/plaw/115/public/159), Mar. 27, 2018, [132 Stat. 1244](https://www.govinfo.gov/link/statute/132/1244); [Pub. L. 115–182, title I, § 103(a)](https://www.govinfo.gov/link/plaw/115/public/182), June 6, 2018, [132 Stat. 1408](https://www.govinfo.gov/link/statute/132/1408); [Pub. L. 115–251, title II, § 211(a)(9)](https://www.govinfo.gov/link/plaw/115/public/251), Sept. 29, 2018, [132 Stat. 3175](https://www.govinfo.gov/link/statute/132/3175); [Pub. L. 117–328, div. U, title I, § 162(b)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5430](https://www.govinfo.gov/link/statute/136/5430).)*

@@ -3,9 +3,10 @@ title: "Section 6861 - Congressional findings and purpose"
 usc_title: 42
 usc_section: "6861"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6861"
-generated_at: "2026-03-30T02:56:11.267Z"
+generated_at: "2026-11-23T21:26:32.983Z"
+status: "active"
 ---
 
 # § 6861. Congressional findings and purpose
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:56:11.267Z"
   - **(3)** weatherization of such dwellings would lower shelter costs in dwellings owned or occupied by low-income persons as well as save energy and reduce future energy capacity requirements; and
   - **(4)** States, through Community Action Agencies established under the Economic Opportunity Act of 1964 [ 42 U.S.C. 2701 et seq.] and units of general purpose local government, should be encouraged, with Federal financial and technical assistance, to develop and support coordinated weatherization programs designed to alleviate the adverse effects of energy costs on such low-income persons, to supplement other Federal programs serving such low-income persons, and to increase energy efficiency.
 - **(b)** It is, therefore, the purpose of this part to develop and implement a weatherization assistance program to increase the energy efficiency of dwellings owned or occupied by low-income persons, reduce their total residential energy expenditures, and improve their health and safety, especially low-income persons who are particularly vulnerable such as the elderly, the handicapped, and children.
+
+Authorization of Appropriations
+
+Application of Wage Rate Requirements to Weatherization Assistance Program
+
+## Source Credit
+
+*([Pub. L. 94–385, title IV, § 411](https://www.govinfo.gov/link/plaw/94/public/385), Aug. 14, 1976, [90 Stat. 1151](https://www.govinfo.gov/link/statute/90/1151); [Pub. L. 101–440, § 7(j)](https://www.govinfo.gov/link/plaw/101/public/440), Oct. 18, 1990, [104 Stat. 1015](https://www.govinfo.gov/link/statute/104/1015).)*

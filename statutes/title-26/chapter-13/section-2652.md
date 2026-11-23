@@ -3,9 +3,10 @@ title: "Section 2652 - Other definitions"
 usc_title: 26
 usc_section: "2652"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 2652"
-generated_at: "2026-03-30T02:55:27.786Z"
+generated_at: "2026-11-23T21:26:06.543Z"
+status: "active"
 ---
 
 # § 2652. Other definitions
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:55:27.786Z"
     - **(A)** such use is discretionary, or
     - **(B)** such use is pursuant to the provisions of any State law substantially equivalent to the Uniform Gifts to Minors Act.
 - **(d)** For purposes of this chapter, the term “executor” has the meaning given such term by section 2203.
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XIV, § 1431(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2726](https://www.govinfo.gov/link/statute/100/2726); amended [Pub. L. 100–647, title I, § 1014(g)(6)](https://www.govinfo.gov/link/plaw/100/public/647), (8), (9), (14), (20), Nov. 10, 1988, [102 Stat. 3565–3567](https://www.govinfo.gov/link/statute/102/3565); [Pub. L. 105–34, title XIII, § 1305(b)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1040](https://www.govinfo.gov/link/statute/111/1040); [Pub. L. 105–206, title VI, § 6013(a)(3)](https://www.govinfo.gov/link/plaw/105/public/206), (4)(A), July 22, 1998, [112 Stat. 819](https://www.govinfo.gov/link/statute/112/819).)*

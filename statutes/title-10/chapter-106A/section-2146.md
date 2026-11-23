@@ -3,9 +3,10 @@ title: "Section 2146 - Right of member upon subsequent reenlistment to lump-sum 
 usc_title: 10
 usc_section: "2146"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2146"
-generated_at: "2026-03-30T02:53:38.143Z"
+generated_at: "2026-11-23T21:25:32.560Z"
+status: "active"
 ---
 
 # § 2146. Right of member upon subsequent reenlistment to lump-sum payment in lieu of educational assistance
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:38.143Z"
 - **(b)** The amount of a lump-sum payment under subsection (a) is 60 percent of the sum of—
   - **(1)** the product of (A) the rate for educational assistance under section 2143(b) of this title applicable to such member which is in effect at the time of such reenlistment, and (B) the number of standard academic years of entitlement of such member to such assistance; and
   - **(2)** the product of (A) the rate for the subsistence allowance authorized under section 2144 of this title for pursuit of a course of instruction on a full-time basis at the time of such reenlistment, and (B) the number of months of entitlement of such member to such allowance.
+
+## Source Credit
+
+*(Added [Pub. L. 96–342, title IX, § 901(a)](https://www.govinfo.gov/link/plaw/96/public/342), Sept. 8, 1980, [94 Stat. 1113](https://www.govinfo.gov/link/statute/94/1113).)*

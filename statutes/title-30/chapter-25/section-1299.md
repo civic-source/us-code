@@ -3,9 +3,10 @@ title: "Section 1299 - Study of reclamation standards for surface mining of othe
 usc_title: 30
 usc_section: "1299"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1299"
-generated_at: "2026-03-30T02:55:29.403Z"
+generated_at: "2026-11-23T21:26:00.432Z"
+status: "active"
 ---
 
 # § 1299. Study of reclamation standards for surface mining of other minerals
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:29.403Z"
   - **(4)** discuss alternative regulatory mechanisms designed to insure the achievement of the most beneficial postmining land use for areas affected by surface and open pit mining.
 - **(b)** The study together with specific legislative recommendations shall be submitted to the President and the Congress no later than eighteen months after August 3, 1977 : Provided , That, with respect to surface or open pit mining for sand and gravel the study shall be submitted no later than twelve months after August 3, 1977 : Provided further , That with respect to mining for oil shale and tar sands that a preliminary report shall be submitted no later than twelve months after August 3, 1977 .
 - **(c)** There are authorized to be appropriated for the purpose of this section $500,000: Provided , That no new budget authority is authorized to be appropriated for fiscal year 1977.
+
+## Source Credit
+
+*([Pub. L. 95–87, title VII, § 709](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 522](https://www.govinfo.gov/link/statute/91/522).)*

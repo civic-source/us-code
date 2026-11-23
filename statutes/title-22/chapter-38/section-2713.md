@@ -3,9 +3,10 @@ title: "Section 2713 - Protection of historic and artistic furnishings of recept
 usc_title: 22
 usc_section: "2713"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2713"
-generated_at: "2026-03-30T02:55:05.380Z"
+generated_at: "2026-11-23T21:25:58.534Z"
+status: "active"
 ---
 
 # § 2713. Protection of historic and artistic furnishings of reception areas of the Harry S Truman Federal Building
@@ -18,3 +19,13 @@ generated_at: "2026-03-30T02:55:05.380Z"
     - **(B)** in order to upgrade the reception areas, a better use of that article would be its sale or exchange,
   - **(3)** The Secretary of State, acting through the Under Secretary for Management, may also lend items covered by paragraph (1), when not needed for use or display in the reception areas, to the Smithsonian Institution or a similar institution for care, repair, study, storage, or exhibition.
 - **(c)** For purposes of this section, the term “reception areas” means the areas of the Harry S Truman Federal Building, located at 2201 C Street, Northwest, Washington, District of Columbia, known as the Diplomatic Reception Rooms (eighth floor), the Secretary of State’s offices (seventh floor), the Deputy Secretary of State’s offices (seventh floor), and the seventh floor reception area.
+
+Defined Term
+
+In General
+
+Amounts Collected
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title I, § 41, as added [Pub. L. 100–204, title I, § 126(a)(2)](https://www.govinfo.gov/link/plaw/100/public/204), Dec. 22, 1987, [101 Stat. 1341](https://www.govinfo.gov/link/statute/101/1341); amended [Pub. L. 106–218, § 2](https://www.govinfo.gov/link/plaw/106/public/218), June 20, 2000, [114 Stat. 345](https://www.govinfo.gov/link/statute/114/345); [Pub. L. 119–60, div. E, title I, § 5111(b)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1563](https://www.govinfo.gov/link/statute/139/1563).)*

@@ -3,9 +3,10 @@ title: "Section 5002 - Definitions"
 usc_title: 12
 usc_section: "5002"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5002"
-generated_at: "2026-03-30T02:53:53.520Z"
+generated_at: "2026-11-23T21:25:37.224Z"
+status: "active"
 ---
 
 # § 5002. Definitions
@@ -60,3 +61,7 @@ For purposes of this chapter, the following definitions shall apply:
   - **(18)** The term “truncate” means to remove an original paper check from the check collection or return process and send to a recipient, in lieu of such original paper check, a substitute check or, by agreement, information relating to the original check (including data taken from the MICR line of the original check or an electronic image of the original check), whether with or without subsequent delivery of the original paper check.
   - **(19)** The term “Uniform Commercial Code” means the Uniform Commercial Code in effect in a State.
   - **(20)** Unless the context requires otherwise, the terms not defined in this section shall have the same meanings as in the Uniform Commercial Code.
+
+## Source Credit
+
+*([Pub. L. 108–100, § 3](https://www.govinfo.gov/link/plaw/108/public/100), Oct. 28, 2003, [117 Stat. 1178](https://www.govinfo.gov/link/statute/117/1178).)*

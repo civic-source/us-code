@@ -3,9 +3,10 @@ title: "Section 2561 - Humanitarian assistance"
 usc_title: 10
 usc_section: "2561"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2561"
-generated_at: "2026-03-30T02:53:38.162Z"
+generated_at: "2026-11-23T21:25:32.626Z"
+status: "active"
 ---
 
 # § 2561. Humanitarian assistance
@@ -41,3 +42,25 @@ generated_at: "2026-03-30T02:53:38.162Z"
 - **(g)** The congressional committees referred to in subsections (c)(1), (d)(1), and (e) are the following:
   - **(1)** The Committee on Armed Services and the Committee on Foreign Relations of the Senate.
   - **(2)** The Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.
+
+Authorized Assistance
+
+Availability of Funds
+
+Notice Before Provision of Assistance.—
+
+Status Reports
+
+Report Regarding Relief for Unauthorized Countries
+
+Definition
+
+Congressional Committees
+
+Authority To Transfer Funds
+
+Transportation of Humanitarian Relief
+
+## Source Credit
+
+*(Added [Pub. L. 102–484, div. A, title III, § 304(c)(1)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2361](https://www.govinfo.gov/link/statute/106/2361), § 2551; amended [Pub. L. 104–106, div. A, title XIII, § 1312](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 474](https://www.govinfo.gov/link/statute/110/474); [Pub. L. 106–65, div. A, title X, § 1067(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774); renumbered § 2561 and amended [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1033(b)(1), (c)(1)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–260; [Pub. L. 108–136, div. A, title III, § 312(d)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1430](https://www.govinfo.gov/link/statute/117/1430); [Pub. L. 112–239, div. A, title X, § 1076(f)(31)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1953](https://www.govinfo.gov/link/statute/126/1953); [Pub. L. 117–263, div. A, title X, § 1053(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2777](https://www.govinfo.gov/link/statute/136/2777); [Pub. L. 118–159, div. A, title XVII, § 1702](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2207](https://www.govinfo.gov/link/statute/138/2207).)*

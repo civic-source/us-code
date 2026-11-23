@@ -3,9 +3,10 @@ title: "Section 3302 - Credits against tax"
 usc_title: 26
 usc_section: "3302"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 3302"
-generated_at: "2026-03-30T02:55:27.792Z"
+generated_at: "2026-11-23T21:26:06.561Z"
+status: "active"
 ---
 
 # § 3302. Credits against tax
@@ -90,3 +91,39 @@ generated_at: "2026-03-30T02:55:27.792Z"
     - **(B)** Any reduction in the State’s balance under section 901(d)(1) of the Social Security Act shall not be treated as a repayment made by such State.
   - **(4)** The Secretary of Labor may require a State to furnish such information at such time and in such manner as may be necessary for purposes of paragraph (2).
 - **(h)** If a certified professional employer organization (as defined in section 7705), or a customer of such organization, makes a contribution to the State’s unemployment fund with respect to wages paid to a work site employee, such certified professional employer organization shall be eligible for the credits available under this section with respect to such contribution.
+
+“Nothing contained in this section [enacting sections 3511 and 7705 of this title, amending this section and sections 3303, 6053, 6652, and 7528 of this title, and enacting provisions set out as notes under this section and section 7705 of this title ] or the amendments made by this section shall be construed to create any inference with respect to the determination of who is an employee or employer—
+
+General Rule
+
+Requirements
+
+Special Rule
+
+Transitional rule for certain employees.—
+
+In general
+
+Requirements
+
+Required rate
+
+Applicable percentage
+
+Qualified specific industry provision
+
+Transitional rule for certain small busi­nesses.—
+
+In general
+
+Requirements
+
+Required rate
+
+Qualified small business provision
+
+Definition
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 439; [Pub. L. 86–778, title V, § 523(b)](https://www.govinfo.gov/link/plaw/86/public/778), Sept. 13, 1960, [74 Stat. 980](https://www.govinfo.gov/link/statute/74/980); [Pub. L. 87–6, § 14(b)](https://www.govinfo.gov/link/plaw/87/public/6), Mar. 24, 1961, [75 Stat. 16](https://www.govinfo.gov/link/statute/75/16); [Pub. L. 87–321, § 1(a)](https://www.govinfo.gov/link/plaw/87/public/321), Sept. 26, 1961, [75 Stat. 683](https://www.govinfo.gov/link/statute/75/683); [Pub. L. 88–31, § 2(b)](https://www.govinfo.gov/link/plaw/88/public/31), May 29, 1963, [77 Stat. 51](https://www.govinfo.gov/link/statute/77/51); [Pub. L. 88–173, § 1(a)](https://www.govinfo.gov/link/plaw/88/public/173) –(c), Nov. 7, 1963, [77 Stat. 305](https://www.govinfo.gov/link/statute/77/305); [Pub. L. 91–373, title I, § 142(a)](https://www.govinfo.gov/link/plaw/91/public/373), (b), Aug. 10, 1970, [84 Stat. 707](https://www.govinfo.gov/link/statute/84/707); [Pub. L. 93–618, title II, § 239(e)](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 2025](https://www.govinfo.gov/link/statute/88/2025); [Pub. L. 94–45, title I, § 110(a)](https://www.govinfo.gov/link/plaw/94/public/45), title III, § 302, June 30, 1975, [89 Stat. 239](https://www.govinfo.gov/link/statute/89/239), 243; [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1903(a)(12), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1808](https://www.govinfo.gov/link/statute/90/1808), 1834; [Pub. L. 95–19, title II, § 201(a)](https://www.govinfo.gov/link/plaw/95/public/19), Apr. 12, 1977, [91 Stat. 43](https://www.govinfo.gov/link/statute/91/43); [Pub. L. 96–589, § 6(f)](https://www.govinfo.gov/link/plaw/96/public/589), Dec. 24, 1980, [94 Stat. 3409](https://www.govinfo.gov/link/statute/94/3409); [Pub. L. 97–35, title XXIV, § 2406(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 876](https://www.govinfo.gov/link/statute/95/876); [Pub. L. 97–248, title II](https://www.govinfo.gov/link/plaw/97/public/248), §§ 271(c)(2), (3)(A), (B), 272(a), 273(a), Sept. 3, 1982, [96 Stat. 555–557](https://www.govinfo.gov/link/statute/96/555); [Pub. L. 98–21, title V](https://www.govinfo.gov/link/plaw/98/public/21), §§ 512(a)(1), (b), 513(a)–(c), Apr. 20, 1983, [97 Stat. 146](https://www.govinfo.gov/link/statute/97/146), 147; [Pub. L. 99–514, title XVIII, § 1884(1)](https://www.govinfo.gov/link/plaw/99/public/514), (2), Oct. 22, 1986, [100 Stat. 2919](https://www.govinfo.gov/link/statute/100/2919); [Pub. L. 113–295, div. A, title II, § 221(a)(101)](https://www.govinfo.gov/link/plaw/113/public/295), div. B, title II, § 206(c)(1), Dec. 19, 2014, [128 Stat. 4052](https://www.govinfo.gov/link/statute/128/4052), 4070; [Pub. L. 115–141, div. U, title IV, § 401(b)(38)](https://www.govinfo.gov/link/plaw/115/public/141), (39), Mar. 23, 2018, [132 Stat. 1204](https://www.govinfo.gov/link/statute/132/1204).)*

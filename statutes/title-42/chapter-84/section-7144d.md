@@ -3,9 +3,10 @@ title: "Section 7144d - Office of Arctic Energy"
 usc_title: 42
 usc_section: "7144d"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7144d"
-generated_at: "2026-03-30T02:56:11.283Z"
+generated_at: "2026-11-23T21:26:33.050Z"
+status: "active"
 ---
 
 # § 7144d. Office of Arctic Energy
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.283Z"
     - **(D)** natural gas hydrates, coal bed methane, and shallow bed natural gas; and
     - **(E)** alternative energy, including wind, geothermal, and fuel cells.
 - **(c)** The Secretary shall locate such office at a university with expertise and experience in the matters specified in subsection (b).
+
+## Source Credit
+
+*([Pub. L. 106–398, § 1 [div. C, title XXXI, § 3197]](https://www.govinfo.gov/link/plaw/106/public/398), Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–482.)*

@@ -3,9 +3,10 @@ title: "Section 1096 - Administrative expenses"
 usc_title: 20
 usc_section: "1096"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1096"
-generated_at: "2026-03-30T02:54:48.138Z"
+generated_at: "2026-11-23T21:25:47.216Z"
+status: "active"
 ---
 
 # § 1096. Administrative expenses
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:48.138Z"
 - **(b)**
   - **(1)** The sums paid to institutions under this part are for the sole purpose of administering the programs described in subsection (a).
   - **(2)** If the institution enrolls a significant number of students who are (A) attending the institution less than full time, or (B) independent students, the institution shall use a reasonable proportion of the funds available under this section for financial aid services during times and in places that will most effectively accommodate the needs of such students.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 489](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 407(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1491](https://www.govinfo.gov/link/statute/100/1491); amended [Pub. L. 99–603, title I, § 121(b)(7)](https://www.govinfo.gov/link/plaw/99/public/603), Nov. 6, 1986, [100 Stat. 3391](https://www.govinfo.gov/link/statute/100/3391); [Pub. L. 100–50, § 15(15)](https://www.govinfo.gov/link/plaw/100/public/50), June 3, 1987, [101 Stat. 357](https://www.govinfo.gov/link/statute/101/357); [Pub. L. 102–325, title IV](https://www.govinfo.gov/link/plaw/102/public/325), §§ 446(c), 493, July 23, 1992, [106 Stat. 567](https://www.govinfo.gov/link/statute/106/567), 630; [Pub. L. 103–208, § 2(h)(44)](https://www.govinfo.gov/link/plaw/103/public/208), (k)(6), Dec. 20, 1993, [107 Stat. 2478](https://www.govinfo.gov/link/statute/107/2478), 2486; [Pub. L. 110–315, title IV, § 494B](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3319](https://www.govinfo.gov/link/statute/122/3319); [Pub. L. 111–39, title IV, § 407(b)(10)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1953](https://www.govinfo.gov/link/statute/123/1953).)*

@@ -3,9 +3,10 @@ title: "Section 4502 - Payment"
 usc_title: 41
 usc_section: "4502"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 4502"
-generated_at: "2026-03-30T02:55:55.808Z"
+generated_at: "2026-11-23T21:26:18.816Z"
+status: "active"
 ---
 
 # § 4502. Payment
@@ -15,3 +16,51 @@ generated_at: "2026-03-30T02:55:55.808Z"
   - **(2)** Accomplishment of events defined in the program management plan.
   - **(3)** Other quantifiable measures of results.
 - **(b)** Payments made under section 4501 of this title may not exceed the unpaid contract price.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 4502(a) | 41:255(b). | June 30, 1949, ch. 288 , title III, § 305(b), as added Pub. L. 103–355, title II, § 2051(b) , Oct. 13, 1994 , 108 Stat. 3304 . |
+| 4502(b) | 41:255(c). | June 30, 1949, ch. 288 , title III, § 305(c), 63 Stat. 396 ; July 12, 1952, ch. 703, § 1(m) , 66 Stat. 594 ; Pub. L. 85–800, § 4 , Aug. 28, 1958 , 72 Stat. 966 ; Pub. L. 103–355, title II, § 2051(a)(3) , (5), Oct. 13, 1994 , 108 Stat. 3304 . |
+
+
+Basis for Payment
+
+Payment Amount
+
+Historical and Revision Notes
+
+4502(a)
+
+June 30, 1949, ch. 288
+
+Pub. L. 103–355, title II, § 2051(b)
+
+Oct. 13, 1994
+
+108 Stat. 3304
+
+4502(b)
+
+June 30, 1949, ch. 288
+
+63 Stat. 396
+
+July 12, 1952, ch. 703, § 1(m)
+
+66 Stat. 594
+
+Pub. L. 85–800, § 4
+
+Aug. 28, 1958
+
+72 Stat. 966
+
+Pub. L. 103–355, title II, § 2051(a)(3)
+
+Oct. 13, 1994
+
+108 Stat. 3304
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3791](https://www.govinfo.gov/link/statute/124/3791).)*

@@ -3,9 +3,10 @@ title: "Section 3424 - Federal Interagency Committee on Education"
 usc_title: 20
 usc_section: "3424"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 3424"
-generated_at: "2026-03-30T02:54:48.178Z"
+generated_at: "2026-11-23T21:25:47.408Z"
+status: "active"
 ---
 
 # § 3424. Federal Interagency Committee on Education
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:48.178Z"
 - **(e)** The Committee shall conduct a study concerning the progress, effectiveness, and accomplishments of Federal vocational education and training programs, and the need for improved coordination between all federally funded vocational education and training programs. The Committee shall report the findings of such study to the Secretary and the Congress within two years of October 17, 1979 .
 - **(f)** The Committee shall meet at least twice each year. The Secretary may establish subcommittees of the Committee to facilitate coordination in important areas of Federal activity.
 - **(g)** The Secretary and the head of each agency represented on the Committee under subsection (c) shall furnish necessary assistance to the Committee.
+
+## Source Credit
+
+*([Pub. L. 96–88, title II, § 217](https://www.govinfo.gov/link/plaw/96/public/88), formerly § 214, Oct. 17, 1979, [93 Stat. 676](https://www.govinfo.gov/link/statute/93/676); renumbered § 215, [Pub. L. 101–392, title VI, § 602(a)(2)](https://www.govinfo.gov/link/plaw/101/public/392), Sept. 25, 1990, [104 Stat. 840](https://www.govinfo.gov/link/statute/104/840); renumbered § 217, [Pub. L. 103–382, title III, § 372(1)](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 3977](https://www.govinfo.gov/link/statute/108/3977).)*

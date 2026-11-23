@@ -3,9 +3,10 @@ title: "Section 1101 - Employment security administration account"
 usc_title: 42
 usc_section: "1101"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1101"
-generated_at: "2026-03-30T02:56:10.900Z"
+generated_at: "2026-11-23T21:26:31.210Z"
+status: "active"
 ---
 
 # § 1101. Employment security administration account
@@ -67,3 +68,7 @@ generated_at: "2026-03-30T02:56:10.900Z"
   - **(4)** For the purposes of this section, the net balance in the employment security administration account as of any time is the amount in such account as of such time reduced by the sum of—
     - **(A)** the amounts then subject to transfer pursuant to subsection (d), and
     - **(B)** the balance of advances (plus interest accrued thereon) then repayable to the revolving fund established by subsection (e).
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IX, § 901, as added Aug. 5, 1954, ch. 657, § 2, [68 Stat. 668](https://www.govinfo.gov/link/statute/68/668); amended [Pub. L. 86–778, title V, § 521](https://www.govinfo.gov/link/plaw/86/public/778), Sept. 13, 1960, [74 Stat. 970](https://www.govinfo.gov/link/statute/74/970); [Pub. L. 87–31, § 7](https://www.govinfo.gov/link/plaw/87/public/31), May 8, 1961, [75 Stat. 78](https://www.govinfo.gov/link/statute/75/78); [Pub. L. 88–31, § 1](https://www.govinfo.gov/link/plaw/88/public/31), May 29, 1963, [77 Stat. 51](https://www.govinfo.gov/link/statute/77/51); [Pub. L. 91–53, § 3](https://www.govinfo.gov/link/plaw/91/public/53), Aug. 7, 1969, [83 Stat. 93](https://www.govinfo.gov/link/statute/83/93); [Pub. L. 91–373, title III, § 303](https://www.govinfo.gov/link/plaw/91/public/373), Aug. 10, 1970, [84 Stat. 713](https://www.govinfo.gov/link/statute/84/713); [Pub. L. 94–273, § 39](https://www.govinfo.gov/link/plaw/94/public/273), Apr. 21, 1976, [90 Stat. 381](https://www.govinfo.gov/link/statute/90/381); [Pub. L. 94–566, title II, § 211(e)(1) [(c)(1)]](https://www.govinfo.gov/link/plaw/94/public/566), Oct. 20, 1976, [90 Stat. 2676](https://www.govinfo.gov/link/statute/90/2676); [Pub. L. 97–248, title II, § 271(b)(2)(A)](https://www.govinfo.gov/link/plaw/97/public/248), (c)(3)(D), Sept. 3, 1982, [96 Stat. 554](https://www.govinfo.gov/link/statute/96/554), 555; [Pub. L. 98–369, div. B, title VI, § 2663(d)(1)](https://www.govinfo.gov/link/plaw/98/public/369), (2), July 18, 1984, [98 Stat. 1167](https://www.govinfo.gov/link/statute/98/1167); [Pub. L. 100–203, title IX, § 9154(a)](https://www.govinfo.gov/link/plaw/100/public/203), (c)(2), Dec. 22, 1987, [101 Stat. 1330–326](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 102–83, § 5(c)(2)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 102–318, title V, § 531(d)(1)](https://www.govinfo.gov/link/plaw/102/public/318), (2), July 3, 1992, [106 Stat. 316](https://www.govinfo.gov/link/statute/106/316), 317; [Pub. L. 105–33, title V, § 5408](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 605](https://www.govinfo.gov/link/statute/111/605).)*

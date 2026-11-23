@@ -3,9 +3,10 @@ title: "Section 11707 - Liability when property is delivered in violation of rou
 usc_title: 49
 usc_section: "11707"
 chapter: 117
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 11707"
-generated_at: "2026-03-30T02:56:19.326Z"
+generated_at: "2026-11-23T21:26:40.680Z"
+status: "active"
 ---
 
 # § 11707. Liability when property is delivered in violation of routing instructions
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:19.326Z"
   - **(2)** A rail carrier is not liable under paragraph (1) of this subsection when it diverts or delivers property in compliance with an order or regulation of the Board.
   - **(3)** A rail carrier to whom property is transported is not liable under this subsection if it shows that it had no notice of the routing instructions before transporting the property. The burden of proving lack of notice is on that rail carrier.
 - **(b)** The court shall award a reasonable attorney’s fee to the plaintiff in a judgment against the defendant rail carrier under subsection (a) of this section. The court shall tax and collect that fee as a part of the costs of the action.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 849](https://www.govinfo.gov/link/statute/109/849).)*

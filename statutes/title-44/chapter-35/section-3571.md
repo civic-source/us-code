@@ -3,9 +3,10 @@ title: "Section 3571 - Findings"
 usc_title: 44
 usc_section: "3571"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 3571"
-generated_at: "2026-03-30T02:55:56.298Z"
+generated_at: "2026-11-23T21:26:18.439Z"
+status: "active"
 ---
 
 # § 3571. Findings
@@ -17,3 +18,7 @@ The Congress finds the following:
   - **(3)** Protecting the confidentiality interests of individuals or organizations who provide information under a pledge of confidentiality for Federal statistical programs serves both the interests of the public and the needs of society.
   - **(4)** Declining trust of the public in the protection of information provided under a pledge of confidentiality to the agencies adversely affects both the accuracy and completeness of statistical analyses.
   - **(5)** Ensuring that information provided under a pledge of confidentiality for statistical purposes receives protection is essential in continuing public cooperation in statistical programs.
+
+## Source Credit
+
+*(Added [Pub. L. 115–435, title III, § 302(a)](https://www.govinfo.gov/link/plaw/115/public/435), Jan. 14, 2019, [132 Stat. 5548](https://www.govinfo.gov/link/statute/132/5548).)*

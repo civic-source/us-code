@@ -3,9 +3,10 @@ title: "Section 4242 - Determination of the existence of insanity at the time of
 usc_title: 18
 usc_section: "4242"
 chapter: 313
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 4242"
-generated_at: "2026-03-30T02:54:16.528Z"
+generated_at: "2026-11-23T21:25:44.243Z"
+status: "active"
 ---
 
 # § 4242. Determination of the existence of insanity at the time of the offense
@@ -15,3 +16,11 @@ generated_at: "2026-03-30T02:54:16.528Z"
   - **(1)** guilty;
   - **(2)** not guilty; or
   - **(3)** not guilty only by reason of insanity.
+
+Motion for Pretrial Psychiatric or Psychological Examination
+
+Special Verdict
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 855](https://www.govinfo.gov/link/statute/62/855); [Pub. L. 98–473, title II, § 403(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2059](https://www.govinfo.gov/link/statute/98/2059).)*

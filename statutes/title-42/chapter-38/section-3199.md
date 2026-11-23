@@ -3,9 +3,10 @@ title: "Section 3199 - Office of Disaster Recovery and Resilience"
 usc_title: 42
 usc_section: "3199"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3199"
-generated_at: "2026-03-30T02:56:11.184Z"
+generated_at: "2026-11-23T21:26:32.545Z"
+status: "active"
 ---
 
 # § 3199. Office of Disaster Recovery and Resilience
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:56:11.184Z"
   - **(3)** the locations and length of any deployments;
   - **(4)** the number of personnel deployed, broken down by category, including permanent and temporary personnel; and
   - **(5)** a breakdown of expenses, with or without reimbursement.
+
+## Source Credit
+
+*([Pub. L. 89–136, title V, § 509](https://www.govinfo.gov/link/plaw/89/public/136), as added [Pub. L. 118–272, div. B, title II, § 2228](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3192](https://www.govinfo.gov/link/statute/138/3192).)*

@@ -3,9 +3,10 @@ title: "Section 282 - Emergency situations involving weapons of mass destruction
 usc_title: 10
 usc_section: "282"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 282"
-generated_at: "2026-03-30T02:53:38.051Z"
+generated_at: "2026-11-23T21:25:32.249Z"
+status: "active"
 ---
 
 # § 282. Emergency situations involving weapons of mass destruction
@@ -35,3 +36,21 @@ generated_at: "2026-03-30T02:53:38.051Z"
   - **(1)** Except to the extent otherwise provided by the Secretary of Defense, the Deputy Secretary of Defense may exercise the authority of the Secretary of Defense under this section. The Secretary of Defense may delegate the Secretary’s authority under this section only to an Under Secretary of Defense or an Assistant Secretary of Defense and only if the Under Secretary or Assistant Secretary to whom delegated has been designated by the Secretary to act for, and to exercise the general powers of, the Secretary.
   - **(2)** Except to the extent otherwise provided by the Attorney General, the Deputy Attorney General may exercise the authority of the Attorney General under this section. The Attorney General may delegate that authority only to the Associate Attorney General or an Assistant Attorney General and only if the Associate Attorney General or Assistant Attorney General to whom delegated has been designated by the Attorney General to act for, and to exercise the general powers of, the Attorney General.
 - **(g)** Nothing in this section shall be construed to restrict any executive branch authority regarding use of members of the armed forces or equipment of the Department of Defense that was in effect before September 23, 1996 .
+
+In General
+
+Emergency Situations Covered
+
+Forms of Assistance
+
+Regulations
+
+Reimbursements
+
+Delegations of Authority
+
+Relationship to Other Authority
+
+## Source Credit
+
+*(Added [Pub. L. 104–201, div. A, title XIV, § 1416(a)(1)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2721](https://www.govinfo.gov/link/statute/110/2721), § 382; amended [Pub. L. 105–85, div. A, title X, § 1073(a)(6)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1900](https://www.govinfo.gov/link/statute/111/1900); [Pub. L. 111–383, div. A, title X, § 1075(b)(10)(A)](https://www.govinfo.gov/link/plaw/111/public/383), (B), Jan. 7, 2011, [124 Stat. 4369](https://www.govinfo.gov/link/statute/124/4369); [Pub. L. 112–81, div. A, title X, § 1089](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1603](https://www.govinfo.gov/link/statute/125/1603); renumbered § 282, [Pub. L. 114–328, div. A, title XII, § 1241(a)(2)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2497](https://www.govinfo.gov/link/statute/130/2497).)*

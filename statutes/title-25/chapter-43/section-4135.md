@@ -3,9 +3,10 @@ title: "Section 4135 - Low-income requirement and income targeting"
 usc_title: 25
 usc_section: "4135"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4135"
-generated_at: "2026-03-30T02:54:52.859Z"
+generated_at: "2026-11-23T21:25:54.708Z"
+status: "active"
 ---
 
 # § 4135. Low-income requirement and income targeting
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:52.859Z"
     - **(B)** is not for the purpose of avoiding low-income affordability restrictions, as determined by the Secretary.
 - **(b)** Notwithstanding subsection (a), housing assisted pursuant to section 4131(b)(2) of this title shall be considered affordable housing for purposes of this chapter.
 - **(c)** The provisions of paragraph (2) of subsection (a) regarding binding commitments for the remaining useful life of property shall not apply to a family or household member who subsequently takes ownership of a homeownership unit.
+
+## Source Credit
+
+*([Pub. L. 104–330, title II, § 205](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4033](https://www.govinfo.gov/link/statute/110/4033); [Pub. L. 105–276, title V, § 595(e)(8)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2657](https://www.govinfo.gov/link/statute/112/2657); [Pub. L. 110–411, title II, § 204](https://www.govinfo.gov/link/plaw/110/public/411), Oct. 14, 2008, [122 Stat. 4326](https://www.govinfo.gov/link/statute/122/4326).)*

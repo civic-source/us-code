@@ -3,9 +3,10 @@ title: "Section 114 - Construction"
 usc_title: 23
 usc_section: "114"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 114"
-generated_at: "2026-03-30T02:55:12.547Z"
+generated_at: "2026-11-23T21:25:53.863Z"
+status: "active"
 ---
 
 # § 114. Construction
@@ -35,3 +36,105 @@ generated_at: "2026-03-30T02:55:12.547Z"
   - **(2)** This subsection shall not—
     - **(A)** apply to projects subject to section 140(d); or
     - **(B)** be administered or enforced in any manner that would require an employer to give a preference to any veteran over any equally qualified applicant who is a member of any racial or ethnic minority, a female, or any equally qualified former employee.
+
+Construction Work In General
+
+Convict Labor and Convict Produced Materials.—
+
+Limitation on convict labor
+
+Limitation on convict produced materials
+
+Qualified prison facility defined
+
+Construction Work in Alaska.—
+
+In general
+
+Lodging
+
+Per diem.—
+
+In general
+
+Secretary of labor
+
+Exception
+
+Definitions
+
+Remote
+
+Resident
+
+Veterans Employment.—
+
+In general
+
+Administration
+
+Authorization.—
+
+In general
+
+Treatment
+
+Workforce Diversity Report
+
+Model Plan
+
+Establishment.—
+
+In general
+
+Purpose
+
+Objectives
+
+Projects.—
+
+Applications
+
+Eligibility
+
+Project proposal
+
+Selection criteria
+
+Financial assistance.—
+
+Funds for highways for life projects
+
+Use of apportioned funds
+
+Increased federal share
+
+Limitation on statutory construction
+
+Project selections
+
+Maximum number of projects
+
+Technology Partnerships.—
+
+In general
+
+Federal share
+
+Technology Transfer and Information Dissemination.—
+
+In general
+
+Availability of information
+
+Stakeholder Input and Involvement
+
+Project Monitoring and Evaluation
+
+Contract Authority
+
+State Defined
+
+## Source Credit
+
+*([Pub. L. 85–767](https://www.govinfo.gov/link/plaw/85/public/767), Aug. 27, 1958, [72 Stat. 896](https://www.govinfo.gov/link/statute/72/896); [Pub. L. 86–657, § 8(f)](https://www.govinfo.gov/link/plaw/86/public/657), July 14, 1960, [74 Stat. 525](https://www.govinfo.gov/link/statute/74/525); [Pub. L. 93–87, title I, § 115](https://www.govinfo.gov/link/plaw/93/public/87), Aug. 13, 1973, [87 Stat. 258](https://www.govinfo.gov/link/statute/87/258); [Pub. L. 97–424, title I, § 148](https://www.govinfo.gov/link/plaw/97/public/424), Jan. 6, 1983, [96 Stat. 2131](https://www.govinfo.gov/link/statute/96/2131); [Pub. L. 98–473, title II, § 226](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2030](https://www.govinfo.gov/link/statute/98/2030); [Pub. L. 100–17, title I, § 112(a)](https://www.govinfo.gov/link/plaw/100/public/17), (b)(1), Apr. 2, 1987, [101 Stat. 148](https://www.govinfo.gov/link/statute/101/148); [Pub. L. 102–240, title I, § 1019](https://www.govinfo.gov/link/plaw/102/public/240), Dec. 18, 1991, [105 Stat. 1948](https://www.govinfo.gov/link/statute/105/1948); [Pub. L. 105–178, title I, § 1212(a)(2)(A)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 193](https://www.govinfo.gov/link/statute/112/193); [Pub. L. 109–59, title I](https://www.govinfo.gov/link/plaw/109/public/59), §§ 1409(d), 1904(b), Aug. 10, 2005, [119 Stat. 1232](https://www.govinfo.gov/link/statute/119/1232), 1467; [Pub. L. 112–141, div. A, title I, § 1506](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 564](https://www.govinfo.gov/link/statute/126/564).)*

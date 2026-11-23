@@ -3,9 +3,10 @@ title: "Section 4607 - Permissive terms and provisions"
 usc_title: 7
 usc_section: "4607"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 4607"
-generated_at: "2026-03-30T02:53:42.410Z"
+generated_at: "2026-11-23T21:25:28.350Z"
+status: "active"
 ---
 
 # § 4607. Permissive terms and provisions
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:42.410Z"
     - **(D)** periodic inspections by the Secretary, or other parties approved by the Secretary, of honey and honey products of producers, handlers, and importers that participate in the voluntary program.
   - **(3)** To be eligible to display the official seal of approval established under paragraph (2)(A) on a honey or honey product, a producer, handler, or importer shall participate in the voluntary program under this subsection.
 - **(d)** Notwithstanding any other provision of this chapter, the Secretary shall have the authority to approve or disapprove the establishment of minimum purity standards, the inspection and monitoring system under subsection (b), and the voluntary quality assurance program under subsection (c).
+
+## Source Credit
+
+*([Pub. L. 98–590, § 8](https://www.govinfo.gov/link/plaw/98/public/590), Oct. 30, 1984, [98 Stat. 3119](https://www.govinfo.gov/link/statute/98/3119); [Pub. L. 105–185, title VI, § 605(g)](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 596](https://www.govinfo.gov/link/statute/112/596).)*

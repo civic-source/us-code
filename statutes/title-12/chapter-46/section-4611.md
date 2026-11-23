@@ -3,9 +3,10 @@ title: "Section 4611 - Risk-based capital levels for regulated entities"
 usc_title: 12
 usc_section: "4611"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4611"
-generated_at: "2026-03-30T02:53:53.510Z"
+generated_at: "2026-11-23T21:25:37.195Z"
+status: "active"
 ---
 
 # § 4611. Risk-based capital levels for regulated entities
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:53.510Z"
   - **(1)** The Director shall, by regulation, establish risk-based capital requirements for the enterprises to ensure that the enterprises operate in a safe and sound manner, maintaining sufficient capital and reserves to support the risks that arise in the operations and management of the enterprises.
   - **(2)** The Director shall establish risk-based capital standards under section 1426 of this title for the Federal Home Loan Banks.
 - **(b)** Nothing in this section shall limit the authority of the Director to require other reports or undertakings, or take other action, in furtherance of the responsibilities of the Director under this Act.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1361](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3972](https://www.govinfo.gov/link/statute/106/3972); [Pub. L. 110–289, div. A, title I, § 1110(a)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2675](https://www.govinfo.gov/link/statute/122/2675).)*

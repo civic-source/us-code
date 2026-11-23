@@ -3,9 +3,10 @@ title: "Section 3 - Appellate jurisdiction of District Court; procedure; review 
 usc_title: 48
 usc_section: "3"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 3"
-generated_at: "2026-03-30T02:56:14.585Z"
+generated_at: "2026-11-23T21:26:38.000Z"
+status: "active"
 ---
 
 # § 1424–3. Appellate jurisdiction of District Court; procedure; review by United States Court of Appeals for Ninth Circuit; rules; appeals to appellate court
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:14.585Z"
 - **(b)** Appeals to the District Court of Guam shall be heard and determined by an appellate division of the court consisting of three judges, of whom two shall constitute a quorum. The district judge shall be the presiding judge of the appellate division and shall preside therein unless disqualified or otherwise unable to act. The other judges who are to sit in the appellate division of any session shall be designated by the presiding judge from among the judges who are serving on, or are assigned to, the district court from time to time pursuant to section 1424b of this title : Provided , That no more than one of them may be a judge of a court of record of Guam. The concurrence of two judges shall be necessary to any decision of the appellate division of the district court on the merits of an appeal, but the presiding judge alone may make any appropriate orders with respect to an appeal prior to the hearing and determination thereof on the merits and may dismiss an appeal for want of jurisdiction or failure to take or prosecute it in accordance with the applicable law or rules of procedure.
 - **(c)** The United States Court of Appeals for the Ninth Circuit shall have jurisdiction of appeals from all final decisions of the appellate division of the district court. The United States Court of Appeals for the Ninth Circuit shall have jurisdiction to promulgate rules necessary to carry out the provisions of this subsection.
 - **(d)** Upon the establishment of the appellate court provided for in section 1424–1(a) of this title , which is known as the Supreme Court of Guam, all appeals from the decisions of the local courts not previously taken must be taken to such appellate court. The establishment of that appellate court shall not result in the loss of jurisdiction of the appellate division of the district court over any appeal then pending in it. The rulings of the appellate division of the district court on such appeals may be reviewed in the United States Court of Appeals for the Ninth Circuit and in the Supreme Court notwithstanding the establishment of the appellate court.
+
+## Source Credit
+
+*(Aug. 1, 1950, ch. 512, § 22C, as added [Pub. L. 98–454, title VIII, § 801](https://www.govinfo.gov/link/plaw/98/public/454), Oct. 5, 1984, [98 Stat. 1742](https://www.govinfo.gov/link/statute/98/1742); amended [Pub. L. 108–378, § 1(c)](https://www.govinfo.gov/link/plaw/108/public/378), Oct. 30, 2004, [118 Stat. 2207](https://www.govinfo.gov/link/statute/118/2207).)*

@@ -3,9 +3,10 @@ title: "Section 6812 - African crisis response initiative and HIV/AIDS training"
 usc_title: 22
 usc_section: "6812"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6812"
-generated_at: "2026-03-30T02:55:05.433Z"
+generated_at: "2026-11-23T21:25:58.698Z"
+status: "active"
 ---
 
 # § 6812. African crisis response initiative and HIV/AIDS training
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.433Z"
   - **(3)** the percentage of soldiers in African militaries who are infected with HIV/AIDS is unknown, but estimates range in some countries as high as 40 percent; and
   - **(4)** it is in the interests of the United States to assist the countries of Africa in combating the spread of HIV/AIDS.
 - **(b)** In undertaking education and training programs for military establishments in African countries, the United States shall ensure that classroom training under the African Crisis Response Initiative includes military-based education on the prevention of the spread of AIDS.
+
+## Source Credit
+
+*([Pub. L. 106–264, title I, § 114](https://www.govinfo.gov/link/plaw/106/public/264), Aug. 19, 2000, [114 Stat. 754](https://www.govinfo.gov/link/statute/114/754).)*

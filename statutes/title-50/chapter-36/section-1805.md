@@ -3,9 +3,10 @@ title: "Section 1805 - Issuance of order"
 usc_title: 50
 usc_section: "1805"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1805"
-generated_at: "2026-03-30T02:56:26.208Z"
+generated_at: "2026-11-23T21:26:38.935Z"
+status: "active"
 ---
 
 # § 1805. Issuance of order
@@ -85,3 +86,17 @@ generated_at: "2026-03-30T02:56:26.208Z"
 - **(h)** Certifications made by the Attorney General pursuant to section 1802(a) of this title and applications made and orders granted under this subchapter shall be retained for a period of at least ten years from the date of the certification or application.
 - **(i)** No cause of action shall lie in any court against any provider of a wire or electronic communication service, landlord, custodian, or other person (including any officer, employee, agent, or other specified person thereof) that furnishes any information, facilities, or technical assistance in accordance with a court order or request for emergency assistance under this chapter for electronic surveillance or physical search.
 - **(j)** In any case in which the Government makes an application to a judge under this subchapter to conduct electronic surveillance involving communications and the judge grants such application, upon the request of the applicant, the judge shall also authorize the installation and use of pen registers and trap and trace devices, and direct the disclosure of the information set forth in section 1842(d)(2) of this title .
+
+Specifications.—
+
+Special directions for certain orders.—
+
+Specifications
+
+In general
+
+Exception
+
+## Source Credit
+
+*([Pub. L. 95–511, title I, § 105](https://www.govinfo.gov/link/plaw/95/public/511), Oct. 25, 1978, [92 Stat. 1790](https://www.govinfo.gov/link/statute/92/1790); [Pub. L. 98–549, § 6(b)(3)](https://www.govinfo.gov/link/plaw/98/public/549), Oct. 30, 1984, [98 Stat. 2804](https://www.govinfo.gov/link/statute/98/2804); [Pub. L. 106–567, title VI, § 602(b)](https://www.govinfo.gov/link/plaw/106/public/567), Dec. 27, 2000, [114 Stat. 2851](https://www.govinfo.gov/link/statute/114/2851); [Pub. L. 107–56, title II](https://www.govinfo.gov/link/plaw/107/public/56), §§ 206, 207(a)(1), (b)(1), 225, Oct. 26, 2001, [115 Stat. 282](https://www.govinfo.gov/link/statute/115/282), 295; [Pub. L. 107–108, title III, § 314(a)(2)](https://www.govinfo.gov/link/plaw/107/public/108), (c)(1), Dec. 28, 2001, [115 Stat. 1402](https://www.govinfo.gov/link/statute/115/1402), 1403; [Pub. L. 107–273, div. B, title IV, § 4005(c)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1812](https://www.govinfo.gov/link/statute/116/1812); [Pub. L. 108–458, title I, § 1071(e)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3691](https://www.govinfo.gov/link/statute/118/3691); [Pub. L. 109–177, title I](https://www.govinfo.gov/link/plaw/109/public/177), §§ 102(b)(1), 105(a), 108(a)(2), (b), Mar. 9, 2006, [120 Stat. 195](https://www.govinfo.gov/link/statute/120/195), 203; [Pub. L. 110–261, title I](https://www.govinfo.gov/link/plaw/110/public/261), §§ 105(a), 110(c)(1), July 10, 2008, [122 Stat. 2461](https://www.govinfo.gov/link/statute/122/2461), 2466; [Pub. L. 111–118, div. B, § 1004(a)](https://www.govinfo.gov/link/plaw/111/public/118), Dec. 19, 2009, [123 Stat. 3470](https://www.govinfo.gov/link/statute/123/3470); [Pub. L. 111–141, § 1(a)](https://www.govinfo.gov/link/plaw/111/public/141), Feb. 27, 2010, [124 Stat. 37](https://www.govinfo.gov/link/statute/124/37); [Pub. L. 111–259, title VIII, § 806(a)(2)](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2748](https://www.govinfo.gov/link/statute/124/2748); [Pub. L. 112–3, § 2(a)](https://www.govinfo.gov/link/plaw/112/public/3), Feb. 25, 2011, [125 Stat. 5](https://www.govinfo.gov/link/statute/125/5); [Pub. L. 112–14, § 2(a)](https://www.govinfo.gov/link/plaw/112/public/14), May 26, 2011, [125 Stat. 216](https://www.govinfo.gov/link/statute/125/216); [Pub. L. 114–23, title VII](https://www.govinfo.gov/link/plaw/114/public/23), §§ 701(a), 705(a), (c), June 2, 2015, [129 Stat. 298](https://www.govinfo.gov/link/statute/129/298), 300; [Pub. L. 115–118, title II, § 205(b)(2)](https://www.govinfo.gov/link/plaw/115/public/118), Jan. 19, 2018, [132 Stat. 22](https://www.govinfo.gov/link/statute/132/22); [Pub. L. 116–69, div. B, title VII, § 1703(a)](https://www.govinfo.gov/link/plaw/116/public/69), Nov. 21, 2019, [133 Stat. 1143](https://www.govinfo.gov/link/statute/133/1143); [Pub. L. 118–49](https://www.govinfo.gov/link/plaw/118/public/49), §§ 5(a), 6(g)(1), Apr. 20, 2024, [138 Stat. 868](https://www.govinfo.gov/link/statute/138/868), 873.)*

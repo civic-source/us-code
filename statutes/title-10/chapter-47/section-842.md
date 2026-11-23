@@ -3,12 +3,32 @@ title: "Section 842 - Art. 42. Oaths"
 usc_title: 10
 usc_section: "842"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 842"
-generated_at: "2026-03-30T02:53:38.080Z"
+generated_at: "2026-11-23T21:25:32.335Z"
+status: "active"
 ---
 
 # § 842. Art. 42. Oaths
 
 - **(a)** Before performing their respective duties, military judges, members of general and special courts-martial, trial counsel, assistant trial counsel, defense counsel, assistant or associate defense counsel, reporters, and interpreters shall take an oath to perform their duties faithfully. The form of the oath, the time and place of the taking thereof, the manner of recording the same, and whether the oath shall be taken for all cases in which these duties are to be performed or for a particular case, shall be as prescribed in regulations of the Secretary concerned. These regulations may provide that an oath to perform faithfully duties as a military judge, trial counsel, assistant trial counsel, defense counsel, or assistant or associate defense counsel may be taken at any time by any judge advocate or other person certified to be qualified or competent for the duty, and if such an oath is taken it need not again be taken at the time the judge advocate or other person is detailed to that duty.
 - **(b)** Each witness before a court-martial shall be examined on oath.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 842(a) 842(b) | 50:617(a). 50:617(b). | May 5, 1950, ch. 169, § 1 (Art. 42), 64 Stat. 121 . |
+
+
+Historical and Revision Notes
+
+842(a)
+
+842(b)
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 121
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 51; [Pub. L. 90–632, § 2(18)](https://www.govinfo.gov/link/plaw/90/public/632), Oct. 24, 1968, [82 Stat. 1339](https://www.govinfo.gov/link/statute/82/1339); [Pub. L. 98–209](https://www.govinfo.gov/link/plaw/98/public/209), §§ 2(e), 3(f), Dec. 6, 1983, [97 Stat. 1393](https://www.govinfo.gov/link/statute/97/1393), 1395.)*

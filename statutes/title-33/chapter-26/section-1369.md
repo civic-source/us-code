@@ -3,9 +3,10 @@ title: "Section 1369 - Administrative procedure and judicial review"
 usc_title: 33
 usc_section: "1369"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1369"
-generated_at: "2026-03-30T02:55:41.103Z"
+generated_at: "2026-11-23T21:26:11.399Z"
+status: "active"
 ---
 
 # § 1369. Administrative procedure and judicial review
@@ -21,3 +22,15 @@ generated_at: "2026-03-30T02:55:41.103Z"
     - **(A)** Except as provided in subparagraph (B), any interested person may file a petition for review of a final agency action under section 1322(p) of this title of the Administrator or the Secretary of the department in which the Coast Guard is operating in accordance with the requirements of this subsection.
     - **(B)** Subject to section 1322(p)(7)(C)(v) of this title , a petition for review of a final agency action under section 1322(p) of this title of the Administrator or the Secretary of the department in which the Coast Guard is operating may be filed only in the United States Court of Appeals for the District of Columbia Circuit.
 - **(c)** In any judicial proceeding brought under subsection (b) of this section in which review is sought of a determination under this chapter required to be made on the record after notice and opportunity for hearing, if any party applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Administrator, the court may order such additional evidence (and evidence in rebuttal thereof) to be taken before the Administrator, in such manner and upon such terms and conditions as the court may deem proper. The Administrator may modify his findings as to the facts, or make new findings, by reason of the additional evidence so taken and he shall file such modified or new findings, and his recommendation, if any, for the modification or setting aside of his original determination, with the return of such additional evidence.
+
+Award of fees
+
+Discharges incidental to normal operation of vessels.—
+
+In general
+
+Venue exception
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title V, § 509, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 891](https://www.govinfo.gov/link/statute/86/891); amended [Pub. L. 93–207, § 1(6)](https://www.govinfo.gov/link/plaw/93/public/207), Dec. 28, 1973, [87 Stat. 906](https://www.govinfo.gov/link/statute/87/906); [Pub. L. 100–4, title III, § 308(b)](https://www.govinfo.gov/link/plaw/100/public/4), title IV, § 406(d)(3), title V, § 505(a), (b), Feb. 4, 1987, [101 Stat. 39](https://www.govinfo.gov/link/statute/101/39), 73, 75; [Pub. L. 100–236, § 2](https://www.govinfo.gov/link/plaw/100/public/236), Jan. 8, 1988, [101 Stat. 1732](https://www.govinfo.gov/link/statute/101/1732); [Pub. L. 115–282, title IX, § 903(c)(4)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4356](https://www.govinfo.gov/link/statute/132/4356).)*

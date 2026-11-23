@@ -3,9 +3,10 @@ title: "Section 115 - Transportation Security Oversight Board"
 usc_title: 49
 usc_section: "115"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 115"
-generated_at: "2026-03-30T02:56:19.296Z"
+generated_at: "2026-11-23T21:26:40.584Z"
+status: "active"
 ---
 
 # § 115. Transportation Security Oversight Board
@@ -30,3 +31,21 @@ generated_at: "2026-03-30T02:56:19.296Z"
   - **(6)** make recommendations to the Administrator regarding matters reviewed under paragraph (5).
 - **(d)** The Board shall meet at least quarterly.
 - **(e)** A majority of the Board may vote to close a meeting of the Board to the public, except that meetings shall be closed to the public whenever classified, 1 1 So in original. The word “information” probably should be inserted. sensitive security information, or information protected in accordance with section 40119(b), 2 2 See References in Text note below. will be discussed.
+
+In General
+
+Membership.—
+
+Number and appointment
+
+Chairperson
+
+Duties
+
+Quarterly Meetings
+
+Consideration of Security Information
+
+## Source Credit
+
+*(Added [Pub. L. 107–71, title I, § 102(a)](https://www.govinfo.gov/link/plaw/107/public/71), Nov. 19, 2001, [115 Stat. 604](https://www.govinfo.gov/link/statute/115/604); amended [Pub. L. 107–296, title IV, § 426(a)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2186](https://www.govinfo.gov/link/statute/116/2186); [Pub. L. 111–259, title IV, § 411](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2725](https://www.govinfo.gov/link/statute/124/2725); [Pub. L. 115–254, div. K, title I, § 1991(b)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3626](https://www.govinfo.gov/link/statute/132/3626).)*

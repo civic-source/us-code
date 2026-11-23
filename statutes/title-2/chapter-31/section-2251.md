@@ -3,9 +3,10 @@ title: "Section 2251 - Office of Congressional Accessibility Services"
 usc_title: 2
 usc_section: "2251"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 2251"
-generated_at: "2026-03-30T02:53:04.827Z"
+generated_at: "2026-11-23T21:25:21.292Z"
+status: "active"
 ---
 
 # § 2251. Office of Congressional Accessibility Services
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:53:04.827Z"
 - **(a)**
 - **(b)** The Director of Accessibility Services shall submit to the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives a list of the specific functions that the Office of Congressional Accessibility Services will perform in carrying out this part with the approval of the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives. The Director of Accessibility Services shall submit the list not later than 30 days after the transfer date.
 - **(c)** The individual who serves as the head of the Congressional Special Services Office as of October 20, 2008 , shall be the first Director of Accessibility Services appointed by the Congressional Accessibility Services Board under section 2172 of this title .
+
+## Source Credit
+
+*([Pub. L. 110–437, title IV, § 411](https://www.govinfo.gov/link/plaw/110/public/437), Oct. 20, 2008, [122 Stat. 4993](https://www.govinfo.gov/link/statute/122/4993).)*

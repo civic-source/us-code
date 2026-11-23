@@ -3,9 +3,10 @@ title: "Section 6372 - Additional leave bank programs"
 usc_title: 5
 usc_section: "6372"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 6372"
-generated_at: "2026-03-30T02:52:56.033Z"
+generated_at: "2026-11-23T21:25:23.330Z"
+status: "active"
 ---
 
 # § 6372. Additional leave bank programs
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:52:56.033Z"
   - **(1)** The head of an excepted agency may, by regulation, establish a voluntary leave bank program under which annual leave accrued or accumulated by an employee of such agency may be contributed to a leave bank, and any other employee of such agency may receive additional leave from such leave bank because of a medical emergency.
   - **(2)** To the extent practicable, and consistent with the protection of intelligence sources and methods (if applicable), each program under this section shall be established in a manner consistent with the provisions of this subchapter applicable to the program.
 - **(d)** The Office of Personnel Management shall provide the head of an excepted agency with such advice and assistance as the head of such agency may request in order to carry out the purposes of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 100–566, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/566), Oct. 31, 1988, [102 Stat. 2843](https://www.govinfo.gov/link/statute/102/2843); amended [Pub. L. 112–87, title IV, § 432](https://www.govinfo.gov/link/plaw/112/public/87), Jan. 3, 2012, [125 Stat. 1894](https://www.govinfo.gov/link/statute/125/1894).)*

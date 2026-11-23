@@ -3,9 +3,10 @@ title: "Section 2211 - Harbors"
 usc_title: 33
 usc_section: "2211"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2211"
-generated_at: "2026-03-30T02:55:41.112Z"
+generated_at: "2026-11-23T21:26:11.422Z"
+status: "active"
 ---
 
 # § 2211. Harbors
@@ -33,3 +34,17 @@ generated_at: "2026-03-30T02:55:41.112Z"
   - **(1)** funding requirements for operation and maintenance dredging of commercial navigation harbors are considered before Federal funds are obligated for payment of the Federal share of costs associated with the construction of dredged material disposal facilities in accordance with subsections (a) and (b);
   - **(2)** funds expended for such construction are apportioned equitably in accordance with regional needs; and
   - **(3)** use of a dredged material disposal facility designed, constructed, managed, or operated by a private entity is not precluded if, consistent with economic and environmental considerations, the facility is the least-cost alternative.
+
+In General
+
+Recommendations.—
+
+In general
+
+Considerations
+
+“Nothing in this section [amending this section and section 2241 of this title and enacting provisions set out above] (including the amendments made by this section) shall increase, or result in the increase of, the non-Federal share of the costs of—
+
+## Source Credit
+
+*([Pub. L. 99–662, title I, § 101](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4082](https://www.govinfo.gov/link/statute/100/4082); [Pub. L. 100–676, § 13(a)](https://www.govinfo.gov/link/plaw/100/public/676), Nov. 17, 1988, [102 Stat. 4025](https://www.govinfo.gov/link/statute/102/4025); [Pub. L. 102–580, title III, § 333(b)(1)](https://www.govinfo.gov/link/plaw/102/public/580), Oct. 31, 1992, [106 Stat. 4852](https://www.govinfo.gov/link/statute/106/4852); [Pub. L. 104–303, title II, § 201(a)](https://www.govinfo.gov/link/plaw/104/public/303) –(d), Oct. 12, 1996, [110 Stat. 3671](https://www.govinfo.gov/link/statute/110/3671), 3672; [Pub. L. 113–121, title II, § 2102(b)](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1278](https://www.govinfo.gov/link/statute/128/1278); [Pub. L. 114–322, title I, § 1111](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1636](https://www.govinfo.gov/link/statute/130/1636); [Pub. L. 118–272, div. A, title I, § 1117](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3012](https://www.govinfo.gov/link/statute/138/3012).)*

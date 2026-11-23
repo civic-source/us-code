@@ -3,9 +3,10 @@ title: "Section 1741 - Enabling middle mile broadband infrastructure"
 usc_title: 47
 usc_section: "1741"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1741"
-generated_at: "2026-03-30T02:56:24.542Z"
+generated_at: "2026-11-23T21:26:36.129Z"
+status: "active"
 ---
 
 # § 1741. Enabling middle mile broadband infrastructure
@@ -124,3 +125,31 @@ generated_at: "2026-03-30T02:56:24.542Z"
     - **(B)** the construction, improvement, or acquisition of middle mile infrastructure on trust land.
   - **(2)** The Assistant Secretary, in consultation with Tribal governments and Native entities, shall develop a process for designating Tribally unserved areas and Tribally underserved areas for purposes of this section.
 - **(h)** There is authorized to be appropriated to carry out this section $1,000,000,000 for fiscal years 2022 through 2026.
+
+(aa) a download speed of not less than 100 megabits per second; and
+
+(bb) an upload speed of not less than 20 megabits per second; or
+
+(aa) a download speed of not less than 25 megabits per second; and
+
+(bb) an upload speed of not less than 3 megabits per second; or
+
+(aa) demonstrate that more than 25 percent of the respondents display a broadband service speed that is slower than the speeds required for an area to qualify as unserved; and
+
+(bb) are conducted by— (AA) the eligible entity; (BB) the State in which the area that will be served by the middle mile infrastructure is located; or (CC) the Tribal government with jurisdiction over the area that will be served by the middle mile infrastructure (if applicable).
+
+(aa) the Assistant Secretary;
+
+(bb) the Commission;
+
+(cc) the Tribal government with jurisdiction over the area that will be served by the middle mile infrastructure (if applicable); and
+
+(dd) the State broadband office for the State in which the area that will be served by the middle mile infrastructure is located.
+
+(aa) In general The information provided by an eligible entity under subclause (II) may only be used for purposes of carrying out the grant program under subsection (c) and any reporting related thereto.
+
+(bb) Legal defenses (AA) In general A covered recipient may not receive information under subclause (II) unless the covered recipient agrees in writing to assert all available legal defenses to the disclosure of the information if a person or entity seeks disclosure from the covered recipient under any Federal, State, or local public disclosure law. (BB) Rule of construction Nothing in subitem (AA) is intended to be or shall be construed as a waiver of Tribal sovereign immunity.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. F, title IV, § 60401](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1231](https://www.govinfo.gov/link/statute/135/1231).)*

@@ -3,9 +3,10 @@ title: "Section 8550 - Grants for faculty research for scientific, literary, and
 usc_title: 10
 usc_section: "8550"
 chapter: 855
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 8550"
-generated_at: "2026-03-30T02:53:38.245Z"
+generated_at: "2026-11-23T21:25:32.929Z"
+status: "active"
 ---
 
 # § 8550. Grants for faculty research for scientific, literary, and educational purposes: acceptance; authorized grantees
@@ -16,3 +17,19 @@ generated_at: "2026-03-30T02:53:38.245Z"
 - **(d)** The Secretary shall establish an account for administering funds received as research grants under this section. The President of the Naval Postgraduate School shall use the funds in the account in accordance with applicable provisions of the regulations and the terms and condition of the grants received.
 - **(e)** Subject to such limitations as may be provided in appropriations Acts, appropriations available for the Naval Postgraduate School may be used to pay expenses incurred by the School in applying for, and otherwise pursuing, the award of qualifying research grants.
 - **(f)** The Secretary shall prescribe regulations for the administration of this section.
+
+Acceptance of Research Grants
+
+Qualifying Grants
+
+Entities From Which Grants May Be Accepted
+
+Administration of Grant Funds
+
+Related Expenses
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 109–163, div. A, title V, § 522(c)(1)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3241](https://www.govinfo.gov/link/statute/119/3241), § 7050; renumbered § 8550, [Pub. L. 115–232, div. A, title VIII, § 807(c)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1836](https://www.govinfo.gov/link/statute/132/1836).)*

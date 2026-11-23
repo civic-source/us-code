@@ -3,9 +3,10 @@ title: "Section 4719 - Grants to establish loan-loss reserve funds"
 usc_title: 12
 usc_section: "4719"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4719"
-generated_at: "2026-03-30T02:53:53.518Z"
+generated_at: "2026-11-23T21:25:37.216Z"
+status: "active"
 ---
 
 # § 4719. Grants to establish loan-loss reserve funds
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:53.518Z"
     - **(C)** have no pre-payment penalty;
     - **(D)** the institution has to report payments regarding the loan to at least 1 of the consumer reporting agencies that compiles and maintains files on consumers on a nationwide basis; and
     - **(E)** meet any other affordability requirements as may be established by the Administrator.
+
+## Source Credit
+
+*([Pub. L. 103–325, title I, § 122](https://www.govinfo.gov/link/plaw/103/public/325), as added [Pub. L. 111–203, title XII, § 1206](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2131](https://www.govinfo.gov/link/statute/124/2131).)*

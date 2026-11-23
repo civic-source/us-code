@@ -3,9 +3,10 @@ title: "Section 35 - Demonstration program to integrate information technology i
 usc_title: 42
 usc_section: "35"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 35"
-generated_at: "2026-03-30T02:56:10.847Z"
+generated_at: "2026-11-23T21:26:30.953Z"
+status: "active"
 ---
 
 # § 300jj–35. Demonstration program to integrate information technology into clinical education
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:10.847Z"
 - **(f)** Not later than 1 year after February 17, 2009 , and annually thereafter, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Finance of the Senate, and the Committee on Energy and Commerce of the House of Representatives a report that—
   - **(1)** describes the specific projects established under this section; and
   - **(2)** contains recommendations for Congress based on the evaluation conducted under subsection (e).
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXX, § 3015, as added [Pub. L. 111–5, div. A, title XIII, § 13301](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 256](https://www.govinfo.gov/link/statute/123/256).)*

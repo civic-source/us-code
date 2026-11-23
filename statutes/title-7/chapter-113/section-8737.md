@@ -3,9 +3,10 @@ title: "Section 8737 - Special marketing loan provisions for upland cotton"
 usc_title: 7
 usc_section: "8737"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 8737"
-generated_at: "2026-03-30T02:53:42.479Z"
+generated_at: "2026-11-23T21:25:28.481Z"
+status: "active"
 ---
 
 # § 8737. Special marketing loan provisions for upland cotton
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:53:42.479Z"
       - **(iv)** General Note 3(a)(iv) to the Harmonized Tariff Schedule.
     - **(D)** When a quota is established under this subsection, cotton may be entered under the quota during the 90-day period beginning on the date the quota is established by the Secretary.
   - **(3)** Notwithstanding paragraph (2), a quota period may not be established that overlaps an existing quota period or a special quota period established under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 110–234, title I, § 1207](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 960](https://www.govinfo.gov/link/statute/122/960); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1207, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1689; [Pub. L. 115–334, title I, § 1203(a)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4510](https://www.govinfo.gov/link/statute/132/4510).)*

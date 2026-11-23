@@ -3,9 +3,10 @@ title: "Section 7405 - Grants for support of air pollution planning and control 
 usc_title: 42
 usc_section: "7405"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7405"
-generated_at: "2026-03-30T02:56:11.294Z"
+generated_at: "2026-11-23T21:26:33.077Z"
+status: "active"
 ---
 
 # § 7405. Grants for support of air pollution planning and control programs
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.294Z"
   - **(2)** The Administrator may still award a grant to an agency not meeting the requirements of paragraph ( l ) 1 1 So in original. Probably should be paragraph “(1)”. of this subsection if the Administrator, after notice and opportunity for public hearing, determines that a reduction in expenditures is attributable to a non-selective reduction in the expenditures in the programs of all Executive branch agencies of the applicable unit of Government. No agency shall receive any grant under this section with respect to the maintenance of a program for the prevention and control of air pollution unless the Administrator is satisfied that such a grant will be so used to supplement and, to the extent practicable, increase the level of State, local, or other non-Federal funds. No grants shall be made under this section until the Administrator has consulted with the appropriate official as designated by the Governor or Governors of the State or States affected.
 - **(d)** The Administrator, with the concurrence of any recipient of a grant under this section, may reduce the payments to such recipient by the amount of the pay, allowances, traveling expenses, and any other costs in connection with the detail of any officer or employee to the recipient under section 7601 of this title , when such detail is for the convenience of, and at the request of, such recipient and for the purpose of carrying out the provisions of this chapter. The amount by which such payments have been reduced shall be available for payment of such costs by the Administrator, but shall, for the purpose of determining the amount of any grant to a recipient under subsection (a) of this section, be deemed to have been paid to such agency.
 - **(e)** No application by a State for a grant under this section may be disapproved by the Administrator without prior notice and opportunity for a public hearing in the affected State, and no commitment or obligation of any funds under any such grant may be revoked or reduced without prior notice and opportunity for a public hearing in the affected State (or in one of the affected States if more than one State is affected).
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 105, formerly § 4, as added [Pub. L. 88–206, § 1](https://www.govinfo.gov/link/plaw/88/public/206), Dec. 17, 1963, [77 Stat. 395](https://www.govinfo.gov/link/statute/77/395); renumbered § 104 and amended [Pub. L. 89–272, title I, § 101(2)](https://www.govinfo.gov/link/plaw/89/public/272) –(4), Oct. 20, 1965, [79 Stat. 992](https://www.govinfo.gov/link/statute/79/992); [Pub. L. 89–675, § 3](https://www.govinfo.gov/link/plaw/89/public/675), Oct. 15, 1966, [80 Stat. 954](https://www.govinfo.gov/link/statute/80/954); renumbered § 105 and amended [Pub. L. 90–148, § 2](https://www.govinfo.gov/link/plaw/90/public/148), Nov. 21, 1967, [81 Stat. 489](https://www.govinfo.gov/link/statute/81/489); [Pub. L. 91–604](https://www.govinfo.gov/link/plaw/91/public/604), §§ 3(a), (b)(1), 15(c)(2), Dec. 31, 1970, [84 Stat. 1677](https://www.govinfo.gov/link/statute/84/1677), 1713; [Pub. L. 95–95, title I, § 102](https://www.govinfo.gov/link/plaw/95/public/95), title III, § 305(b), Aug. 7, 1977, [91 Stat. 687](https://www.govinfo.gov/link/statute/91/687), 776; [Pub. L. 101–549, title VIII, § 802(a)](https://www.govinfo.gov/link/plaw/101/public/549) –(e), Nov. 15, 1990, [104 Stat. 2687](https://www.govinfo.gov/link/statute/104/2687), 2688.)*

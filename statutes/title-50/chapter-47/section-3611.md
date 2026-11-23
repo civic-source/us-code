@@ -3,9 +3,10 @@ title: "Section 3611 - Cryptologic research grant program"
 usc_title: 50
 usc_section: "3611"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3611"
-generated_at: "2026-03-30T02:56:26.257Z"
+generated_at: "2026-11-23T21:26:39.064Z"
+status: "active"
 ---
 
 # § 3611. Cryptologic research grant program
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:26.257Z"
 - **(a)** The Director of the National Security Agency may make grants to private individuals and institutions for the conduct of cryptologic research. An application for a grant under this section may not be approved unless the Director determines that the award of the grant would be clearly consistent with the national security.
 - **(b)** The grant program established by subsection (a) shall be conducted in accordance with chapter 63 of title 31 to the extent that such chapter is consistent with and in accordance with section 3605 of this title .
 - **(c)** The authority of the Director to make grants under this section is effective for any fiscal year only to the extent that appropriated funds are available for such purpose.
+
+## Source Credit
+
+*([Pub. L. 86–36, § 13](https://www.govinfo.gov/link/plaw/86/public/36), as added [Pub. L. 97–89, title VI, § 603](https://www.govinfo.gov/link/plaw/97/public/89), Dec. 4, 1981, [95 Stat. 1158](https://www.govinfo.gov/link/statute/95/1158).)*

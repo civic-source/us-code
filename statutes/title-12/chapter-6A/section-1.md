@@ -3,9 +3,10 @@ title: "Section 1 - Annual competitiveness report"
 usc_title: 12
 usc_section: "1"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1"
-generated_at: "2026-03-30T02:53:53.387Z"
+generated_at: "2026-11-23T21:25:36.813Z"
+status: "active"
 ---
 
 # § 635g–1. Annual competitiveness report
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:53.387Z"
   - **(10)** A description of the extent to which the activities of foreign export credit agencies and other entities sponsored by a foreign government, particularly those that are not members of the Arrangement (as defined in section 635i–3(h)(3) of this title ), appear not to comply with the Arrangement and appear to be inconsistent with the terms of the Agreement on Subsidies and Countervailing Measures referred to in section 3511(d)(12) of title 19 , and a description of the actions taken by the United States Government to address the activities. The President of the Bank, in consultation with the Secretary of the Treasury, may provide to the appropriate congressional committees, the information required by this subsection in a separate and confidential report, instead of providing such information in the report required by this subsection.
 - **(b)** The report required by subsection (a) shall include such additional comments as any member of the Board of Directors may submit to the Board for inclusion in the report.
 - **(c)** The term “appropriate congressional committees” means the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+
+## Source Credit
+
+*(July 31, 1945, ch. 341, § 8A, as added [Pub. L. 109–438, § 13(a)](https://www.govinfo.gov/link/plaw/109/public/438), Dec. 20, 2006, [120 Stat. 3277](https://www.govinfo.gov/link/statute/120/3277).)*

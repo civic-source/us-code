@@ -3,12 +3,17 @@ title: "Section 275 - Leaves of absence to employees"
 usc_title: 25
 usc_section: "275"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 275"
-generated_at: "2026-03-30T02:54:52.802Z"
+generated_at: "2026-11-23T21:25:54.552Z"
+status: "active"
 ---
 
 # § 275. Leaves of absence to employees
 
 On and after August 24, 1912 teachers in schools operated by the Bureau of Indian Affairs may be allowed, in addition to annual leave, educational leave not to exceed thirty workdays per calendar year, or sixty workdays in every alternate year, for attendance at educational gatherings, conventions, institutions, or training schools, if the interest of the Government requires, under such regulations as the Secretary of the Interior may prescribe; and no additional salary or expense on account of such leave of absence shall be incurred.
 
+
+## Source Credit
+
+*(Aug. 24, 1912, ch. 388, § 1, [37 Stat. 519](https://www.govinfo.gov/link/statute/37/519); Aug. 24, 1922, ch. 286, [42 Stat. 829](https://www.govinfo.gov/link/statute/42/829); May 8, 1928, ch. 510, [45 Stat. 493](https://www.govinfo.gov/link/statute/45/493); [Pub. L. 85–89](https://www.govinfo.gov/link/plaw/85/public/89), July 10, 1957, [71 Stat. 282](https://www.govinfo.gov/link/statute/71/282).)*

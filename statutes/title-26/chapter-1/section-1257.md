@@ -3,9 +3,10 @@ title: "Section 1257 - Disposition of converted wetlands or highly erodible crop
 usc_title: 26
 usc_section: "1257"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1257"
-generated_at: "2026-03-30T02:55:27.763Z"
+generated_at: "2026-11-23T21:26:06.480Z"
+status: "active"
 ---
 
 # § 1257. Disposition of converted wetlands or highly erodible croplands
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:27.763Z"
   - **(2)** The term “highly erodible cropland” means any highly erodible cropland (as defined in section 1201(a)(10) of the Food Security Act of 1985 ( 16 U.S.C. 3801(10) )), if at any time the taxpayer used such land for farming purposes (other than the grazing of animals).
   - **(3)** If any land is converted wetland or highly erodible cropland in the hands of any person, such land shall be treated as converted wetland or highly erodible cropland in the hands of any other person whose adjusted basis in such land is determined (in whole or in part) by reference to the adjusted basis of such land in the hands of such person.
 - **(d)** Under regulations prescribed by the Secretary, rules similar to the rules applicable under section 1245 shall apply for purposes of subsection (a). For purposes of sections 170(e) and 751(c), amounts treated as ordinary income under subsection (a) shall be treated in the same manner as amounts treated as ordinary income under section 1245.
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2222](https://www.govinfo.gov/link/statute/100/2222); amended [Pub. L. 108–27, title III, § 302(e)(4)(B)(ii)](https://www.govinfo.gov/link/plaw/108/public/27), May 28, 2003, [117 Stat. 764](https://www.govinfo.gov/link/statute/117/764); [Pub. L. 115–141, div. U, title IV, § 401(a)(177)](https://www.govinfo.gov/link/plaw/115/public/141), (178), Mar. 23, 2018, [132 Stat. 1192](https://www.govinfo.gov/link/statute/132/1192).)*

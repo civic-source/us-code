@@ -3,9 +3,10 @@ title: "Section 14701 - Selection of officers for continuation on the reserve ac
 usc_title: 10
 usc_section: "14701"
 chapter: 1409
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 14701"
-generated_at: "2026-03-30T02:53:38.276Z"
+generated_at: "2026-11-23T21:25:33.067Z"
+status: "active"
 ---
 
 # § 14701. Selection of officers for continuation on the reserve active-status list
@@ -28,3 +29,17 @@ generated_at: "2026-03-30T02:53:38.276Z"
   - **(2)** The Secretary concerned may waive the applicability of paragraph (1) to any officer if the Secretary determines that completion of the service obligation of that officer is not in the best interest of the service.
   - **(3)** A health professions officer who is continued on the reserve active-status list under this subsection who is subsequently promoted or whose name is on a list of officers recommended for promotion to the next higher grade is not required to be discharged or retired upon completion of the officer’s service obligation. Such officer may continue on the reserve active-status list as other officers of the same grade unless separated under another provision of law.
 - **(c)** The Secretary of Defense shall prescribe regulations for the administration of this section.
+
+Consideration for Continuation
+
+Continuation of Health Professions Officers
+
+Regulations
+
+Approval of Secretary Concerned
+
+Instructions To Continuation Boards
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1611](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2954](https://www.govinfo.gov/link/statute/108/2954); amended [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title V, § 522], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–108; [Pub. L. 108–136, div. A, title V, § 511(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1459](https://www.govinfo.gov/link/statute/117/1459); [Pub. L. 113–291, div. A, title V, § 511](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3357](https://www.govinfo.gov/link/statute/128/3357).)*

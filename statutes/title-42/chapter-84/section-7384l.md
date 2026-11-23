@@ -3,9 +3,10 @@ title: "Section 7384l - Definitions for program administration"
 usc_title: 42
 usc_section: "7384l"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7384l"
-generated_at: "2026-03-30T02:56:11.291Z"
+generated_at: "2026-11-23T21:26:33.068Z"
+status: "active"
 ---
 
 # § 7384l. Definitions for program administration
@@ -101,3 +102,7 @@ In this subchapter:
     - **(B)** Bone cancer.
     - **(C)** Renal cancers.
     - **(D)** Leukemia (other than chronic lymphocytic leukemia), if initial occupational exposure occurred before 21 years of age and onset occurred more than two years after initial occupational exposure.
+
+## Source Credit
+
+*([Pub. L. 106–398, § 1 [div. C, title XXXVI, § 3621]](https://www.govinfo.gov/link/plaw/106/public/398), Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–498; [Pub. L. 107–20, title II, § 2403(a)](https://www.govinfo.gov/link/plaw/107/public/20), July 24, 2001, [115 Stat. 175](https://www.govinfo.gov/link/statute/115/175); [Pub. L. 107–107, div. C, title XXXI, § 3151(a)(1)](https://www.govinfo.gov/link/plaw/107/public/107), (4)(C), Dec. 28, 2001, [115 Stat. 1371](https://www.govinfo.gov/link/statute/115/1371), 1374; [Pub. L. 108–375, div. C, title XXXI](https://www.govinfo.gov/link/plaw/108/public/375), §§ 3166(b)(2), 3168(a), Oct. 28, 2004, [118 Stat. 2189](https://www.govinfo.gov/link/statute/118/2189), 2190; [Pub. L. 118–31, div. E, title LV, § 5501(b)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 956](https://www.govinfo.gov/link/statute/137/956).)*

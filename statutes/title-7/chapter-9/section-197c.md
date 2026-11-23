@@ -3,9 +3,10 @@ title: "Section 197c - Arbitration"
 usc_title: 7
 usc_section: "197c"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 197c"
-generated_at: "2026-03-30T02:53:42.277Z"
+generated_at: "2026-11-23T21:25:27.928Z"
+status: "active"
 ---
 
 # § 197c. Arbitration
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.277Z"
 - **(f)** The Secretary shall promulgate regulations to—
   - **(1)** carry out this section; and
   - **(2)** establish criteria that the Secretary will consider in determining whether the arbitration process provided in a contract provides a meaningful opportunity for the grower or producer to participate fully in the arbitration process.
+
+## Source Credit
+
+*(Aug. 15, 1921, ch. 64, title II, § 210, as added [Pub. L. 110–234, title XI, § 11005](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1357](https://www.govinfo.gov/link/statute/122/1357), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XI, § 11005, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2119.)*

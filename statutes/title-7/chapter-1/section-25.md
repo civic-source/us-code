@@ -3,9 +3,10 @@ title: "Section 25 - Private rights of action"
 usc_title: 7
 usc_section: "25"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 25"
-generated_at: "2026-03-30T02:53:42.250Z"
+generated_at: "2026-11-23T21:25:27.867Z"
+status: "active"
 ---
 
 # § 25. Private rights of action
@@ -44,3 +45,21 @@ generated_at: "2026-03-30T02:53:42.250Z"
   - **(5)** The rights of action authorized by this subsection shall be the exclusive remedy under this chapter available to any person who sustains a loss as a result of (A) the alleged failure by a registered entity or registered futures association or by any officer, director, governor, committee member, or employee to enforce any bylaw, rule, regulation, or resolution referred to in paragraph (1) or (2) of this subsection, or (B) the taking of action in enforcing any bylaw, rule, regulation, or resolution referred to in this subsection that is alleged to have violated this chapter, or any Commission rule, regulation, or order.
 - **(c)** The United States district courts shall have exclusive jurisdiction of actions brought under this section. Any such action shall be brought not later than two years after the date the cause of action arises. Any action brought under subsection (a) of this section may be brought in any judicial district wherein the defendant is found, resides, or transacts business, or in the judicial district wherein any act or transaction constituting the violation occurs. Process in such action may be served in any judicial district of which the defendant is an inhabitant or wherever the defendant may be found.
 - **(d)** The provisions of this section shall become effective with respect to causes of action accruing on or after the date of enactment of the Futures Trading Act of 1982 [ January 11, 1983 ]: Provided , That the enactment of the Futures Trading Act of 1982 shall not affect any right of any parties which may exist with respect to causes of action accruing prior to such date.
+
+Contract enforcement between eligible counterparties.—
+
+In general
+
+Swaps
+
+Legal certainty for long-term swaps entered into before July 21, 2010 .—
+
+Effect on swaps
+
+Position limits
+
+Contract enforcement for foreign futures contracts
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 22, as added [Pub. L. 97–444, title II, § 235](https://www.govinfo.gov/link/plaw/97/public/444), Jan. 11, 1983, [96 Stat. 2322](https://www.govinfo.gov/link/statute/96/2322); amended [Pub. L. 102–546, title II](https://www.govinfo.gov/link/plaw/102/public/546), §§ 211, 222(d), title IV, § 402(14), Oct. 28, 1992, [106 Stat. 3607](https://www.govinfo.gov/link/statute/106/3607), 3616, 3625; [Pub. L. 106–554, § 1(a)(5) [title I, §§ 120, 123(a)(25)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–404, 2763A–410; [Pub. L. 110–234, title XIII](https://www.govinfo.gov/link/plaw/110/public/234), §§ 13105(i), 13203(n), May 22, 2008, [122 Stat. 1435](https://www.govinfo.gov/link/statute/122/1435), 1441; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIII, §§ 13105(i), 13203(n), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2197, 2203; [Pub. L. 111–203, title VII](https://www.govinfo.gov/link/plaw/111/public/203), §§ 738(c), 739, 749(h), 753(c), July 21, 2010, [124 Stat. 1728](https://www.govinfo.gov/link/statute/124/1728), 1729, 1748, 1754.)*

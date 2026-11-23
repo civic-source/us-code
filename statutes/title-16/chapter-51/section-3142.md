@@ -3,9 +3,10 @@ title: "Section 3142 - Arctic National Wildlife Refuge coastal plain resource as
 usc_title: 16
 usc_section: "3142"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3142"
-generated_at: "2026-03-30T02:54:23.009Z"
+generated_at: "2026-11-23T21:25:51.960Z"
+status: "active"
 ---
 
 # § 3142. Arctic National Wildlife Refuge coastal plain resource assessment
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:54:23.009Z"
   - **(5)** an evaluation of how such oil and gas relates to the national need for additional domestic sources of oil and gas; and
   - **(6)** the recommendations of the Secretary with respect to whether further exploration for, and the development and production of, oil and gas within the coastal plain should be permitted and, if so, what additional legal authority is necessary to ensure that the adverse effects of such activities on fish and wildlife, their habitats, and other resources are avoided or minimized.
 - **(i)** Until otherwise provided for in law enacted after December 2, 1980 , all public lands within the coastal plain are withdrawn from all forms of entry or appropriation under the mining laws, and from operation of the mineral leasing laws, of the United States.
+
+## Source Credit
+
+*([Pub. L. 96–487, title X](https://www.govinfo.gov/link/plaw/96/public/487) § 1002, Dec. 2, 1980, [94 Stat. 2449](https://www.govinfo.gov/link/statute/94/2449); [Pub. L. 97–394, title I, § 110](https://www.govinfo.gov/link/plaw/97/public/394), Dec. 30, 1982, [96 Stat. 1982](https://www.govinfo.gov/link/statute/96/1982).)*

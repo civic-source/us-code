@@ -3,9 +3,10 @@ title: "Section 6603 - Conservation assistance"
 usc_title: 16
 usc_section: "6603"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6603"
-generated_at: "2026-03-30T02:54:23.065Z"
+generated_at: "2026-11-23T21:25:52.049Z"
+status: "active"
 ---
 
 # § 6603. Conservation assistance
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:54:23.065Z"
 - **(h)**
   - **(1)** The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant of up to 5 years to carry out a project that the person demonstrates is an effective, long-term conservation strategy for marine turtles, freshwater turtles, or tortoises and the habitat of marine turtles, freshwater turtles, or tortoises.
   - **(2)** Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.
+
+## Source Credit
+
+*([Pub. L. 108–266, § 4](https://www.govinfo.gov/link/plaw/108/public/266), July 2, 2004, [118 Stat. 793](https://www.govinfo.gov/link/statute/118/793); [Pub. L. 116–9, title VII, § 7001(c)(3)(C)](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 787](https://www.govinfo.gov/link/statute/133/787); [Pub. L. 118–159, div. E, title LIII, § 5307(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2446](https://www.govinfo.gov/link/statute/138/2446).)*

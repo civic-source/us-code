@@ -3,9 +3,10 @@ title: "Section 1828b - Interagency data sharing"
 usc_title: 12
 usc_section: "1828b"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1828b"
-generated_at: "2026-03-30T02:53:53.456Z"
+generated_at: "2026-11-23T21:25:37.009Z"
+status: "active"
 ---
 
 # § 1828b. Interagency data sharing
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:53.456Z"
 - **(c)** The provisions of subsection (b) shall apply to—
   - **(1)** any information or material obtained by any Federal banking agency (as defined in section 1813(z) of this title ) from any other Federal banking agency; and
   - **(2)** any report of examination or other confidential supervisory information obtained by any State agency or authority, or any other person, from a Federal banking agency.
+
+## Source Credit
+
+*([Pub. L. 106–102, title I, § 132](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1382](https://www.govinfo.gov/link/statute/113/1382).)*

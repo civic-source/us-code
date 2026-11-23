@@ -3,9 +3,10 @@ title: "Section 1613a - Indian health professions scholarships"
 usc_title: 25
 usc_section: "1613a"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1613a"
-generated_at: "2026-03-30T02:54:52.818Z"
+generated_at: "2026-11-23T21:25:54.611Z"
+status: "active"
 ---
 
 # § 1613a. Indian health professions scholarships
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:54:52.818Z"
     - **(E)** Notwithstanding any other provision of law, in any case of extreme hardship or for other good cause shown, the Secretary may waive, in whole or in part, the right of the United States to recover funds made available under this section.
     - **(F)** Notwithstanding any other provision of law, with respect to a recipient of an Indian Health Scholarship, no obligation for payment may be released by a discharge in bankruptcy under title 11, unless that discharge is granted after the expiration of the 5-year period beginning on the initial date on which that payment is due, and only if the bankruptcy court finds that the nondischarge of the obligation would be unconscionable.
 - **(c)** The Secretary shall, acting through the Service, establish a Placement Office to develop and implement a national policy for the placement, to available vacancies within the Service, of Indian Health Scholarship recipients required to meet the active duty service obligation prescribed under section 254m of title 42 without regard to any competitive personnel system, agency personnel limitation, or Indian preference policy.
+
+## Source Credit
+
+*([Pub. L. 94–437, title I, § 104](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 100–713, title I, § 104(a)](https://www.govinfo.gov/link/plaw/100/public/713), Nov. 23, 1988, [102 Stat. 4786](https://www.govinfo.gov/link/statute/102/4786); amended [Pub. L. 102–573, title I](https://www.govinfo.gov/link/plaw/102/public/573), §§ 102(c), 103, Oct. 29, 1992, [106 Stat. 4531](https://www.govinfo.gov/link/statute/106/4531), 4532; [Pub. L. 104–313, § 2(b)](https://www.govinfo.gov/link/plaw/104/public/313), Oct. 19, 1996, [110 Stat. 3820](https://www.govinfo.gov/link/statute/110/3820).)*

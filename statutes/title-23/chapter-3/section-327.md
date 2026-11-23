@@ -3,9 +3,10 @@ title: "Section 327 - Surface transportation project delivery program"
 usc_title: 23
 usc_section: "327"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 327"
-generated_at: "2026-03-30T02:55:12.568Z"
+generated_at: "2026-11-23T21:25:53.922Z"
+status: "active"
 ---
 
 # § 327. Surface transportation project delivery program
@@ -90,3 +91,89 @@ generated_at: "2026-03-30T02:55:12.568Z"
   - **(1)** exercise such authority on behalf of the local government for a locally administered project; or
   - **(2)** provide guidance and training on consolidating and minimizing the documentation and environmental analyses necessary for sponsors of a locally administered project to comply with the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) and any comparable requirements under State law.
 - **(m)** A State agency that is assigned a responsibility under an agreement under this section shall be deemed to be an agency for the purposes of section 2412 of title 28 .
+
+Establishment.—
+
+In general
+
+Assumption of responsibility.—
+
+In general
+
+Additional responsibility
+
+Procedural and substantive requirements
+
+Federal responsibility
+
+No effect on authority
+
+Preservation of flexibility
+
+Legal fees
+
+State Participation.—
+
+Participating states
+
+Application
+
+Public notice.—
+
+In general
+
+Method of notice and solicitation
+
+Selection criteria
+
+Other federal agency views
+
+Written Agreement
+
+Jurisdiction.—
+
+In general
+
+Legal standards and requirements
+
+Intervention
+
+Effect of Assumption of Responsibility
+
+Limitations on Agreements
+
+Audits.—
+
+In general
+
+Public availability and comment.—
+
+In general
+
+Response
+
+Audit team.—
+
+In general
+
+Consultation
+
+Monitoring
+
+Report to Congress
+
+Termination.—
+
+Termination by secretary
+
+Termination by the state
+
+Capacity Building
+
+Relationship to Locally Administered Projects
+
+Agency Deemed to Be Federal Agency
+
+## Source Credit
+
+*(Added [Pub. L. 109–59, title VI, § 6005(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1868](https://www.govinfo.gov/link/statute/119/1868); amended [Pub. L. 111–322, title II, § 2203(c)](https://www.govinfo.gov/link/plaw/111/public/322), Dec. 22, 2010, [124 Stat. 3526](https://www.govinfo.gov/link/statute/124/3526); [Pub. L. 112–140, title I, § 101(e)(1)](https://www.govinfo.gov/link/plaw/112/public/140), June 29, 2012, [126 Stat. 392](https://www.govinfo.gov/link/statute/126/392); [Pub. L. 112–141, div. A, title I, § 1313(a)](https://www.govinfo.gov/link/plaw/112/public/141) –(h), July 6, 2012, [126 Stat. 545–547](https://www.govinfo.gov/link/statute/126/545); [Pub. L. 114–94, div. A, title I](https://www.govinfo.gov/link/plaw/114/public/94), §§ 1308, 1446(d)(3), Dec. 4, 2015, [129 Stat. 1390](https://www.govinfo.gov/link/statute/129/1390), 1438; [Pub. L. 117–58, div. A, title I, § 11313](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 539](https://www.govinfo.gov/link/statute/135/539).)*

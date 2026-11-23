@@ -3,9 +3,10 @@ title: "Section 989 - Prohibition on former members of the armed forces acceptin
 usc_title: 10
 usc_section: "989"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 989"
-generated_at: "2026-03-30T02:53:38.094Z"
+generated_at: "2026-11-23T21:25:32.371Z"
+status: "active"
 ---
 
 # § 989. Prohibition on former members of the armed forces accepting post-service employment with certain foreign governments
@@ -63,3 +64,63 @@ generated_at: "2026-03-30T02:53:38.094Z"
       - **(ii)** a country the Secretary of Defense determines acts as a proxy or passthrough for services for a country of concern; or
     - **(B)** any company, entity, or other person the activities of which are directly or indirectly supervised, directed, controlled, financed, or subsidized, in whole or in major part, by a government described in subparagraph (A).
   - **(3)** The term “covered post-service position” means a position of employment described in paragraph (2).
+
+In General
+
+Temporary Waiver.—
+
+In general
+
+Period of waiver
+
+Revocation
+
+Notification.—
+
+In general
+
+Elements
+
+Certification of Prohibition
+
+Penalties
+
+Annual Reports.—
+
+Requirement
+
+Elements
+
+Form of report
+
+Notifications of Determinations of Certain Threats.—
+
+Requirement
+
+Elements
+
+Rule of Construction
+
+Definitions
+
+Covered individual
+
+Covered post-service employment
+
+Covered post-service position
+
+Definitions
+
+Covered individual
+
+Government of concern; company of concern
+
+In General
+
+Elements
+
+Provision of Briefings at Certain Trainings
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title V, § 523(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 250](https://www.govinfo.gov/link/statute/137/250).)*

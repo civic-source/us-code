@@ -3,9 +3,10 @@ title: "Section 10002 - Statement of policy"
 usc_title: 22
 usc_section: "10002"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10002"
-generated_at: "2026-03-30T02:55:05.474Z"
+generated_at: "2026-11-23T21:25:58.792Z"
+status: "active"
 ---
 
 # § 10002. Statement of policy
@@ -27,3 +28,7 @@ It is the policy of the United States—
     - **(J)** securing unfettered humanitarian access across all regions of Sudan;
     - **(K)** supporting improved development outcomes, domestic resource mobilization, and catalyzing market-based solutions to improve access to health, education, water and sanitation, and livelihoods; and
     - **(L)** promoting responsible international and regional engagement.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. A, title XII, § 1263](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3968](https://www.govinfo.gov/link/statute/134/3968).)*

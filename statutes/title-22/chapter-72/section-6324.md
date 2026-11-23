@@ -3,9 +3,10 @@ title: "Section 6324 - Definitions"
 usc_title: 22
 usc_section: "6324"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6324"
-generated_at: "2026-03-30T02:55:05.427Z"
+generated_at: "2026-11-23T21:25:58.685Z"
+status: "active"
 ---
 
 # § 6324. Definitions
@@ -18,3 +19,7 @@ As used in this subchapter—
   - **(4)** the term “special fissionable material” has the meaning given that term by Article XX(1) of the Statute of the International Atomic Energy Agency, done at the Headquarters of the United Nations on October 26, 1956 ;
   - **(5)** the term “the Treaty” means the Treaty on the Non-Proliferation of Nuclear Weapons, signed at Washington, London, and Moscow on July 1, 1968 ; and
   - **(6)** the terms “IAEA safeguards”, “non-nuclear-weapon state”, “nuclear explosive device”, and “special nuclear material” have the meanings given those terms in section 6305 of this title .
+
+## Source Credit
+
+*([Pub. L. 103–236, title VIII, § 844](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 524](https://www.govinfo.gov/link/statute/108/524).)*

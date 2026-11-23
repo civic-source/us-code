@@ -3,9 +3,10 @@ title: "Section 1036 - Entry by false pretenses to any real property, vessel, or
 usc_title: 18
 usc_section: "1036"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1036"
-generated_at: "2026-03-30T02:54:16.481Z"
+generated_at: "2026-11-23T21:25:44.039Z"
+status: "active"
 ---
 
 # § 1036. Entry by false pretenses to any real property, vessel, or aircraft of the United States or secure area of any airport or seaport
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:16.481Z"
 - **(c)** As used in this section—
   - **(1)** the term “secure area” means an area access to which is restricted by the airport authority, captain of the seaport, or a public agency; and
   - **(2)** the term “airport” has the meaning given such term in section 47102 of title 49 .
+
+## Source Credit
+
+*(Added [Pub. L. 106–547, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/547), Dec. 19, 2000, [114 Stat. 2738](https://www.govinfo.gov/link/statute/114/2738); amended [Pub. L. 109–177, title III, § 302(a)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 233](https://www.govinfo.gov/link/statute/120/233).)*

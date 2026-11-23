@@ -3,9 +3,10 @@ title: "Section 460nnn - Definitions"
 usc_title: 16
 usc_section: "460nnn"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 460nnn"
-generated_at: "2026-03-30T02:54:22.843Z"
+generated_at: "2026-11-23T21:25:51.622Z"
+status: "active"
 ---
 
 # § 460nnn. Definitions
@@ -28,3 +29,9 @@ In this subchapter:
   - **(8)** The term “Secretary” means the Secretary of the Interior, acting through the Bureau of Land Management.
   - **(9)** The term “science committee” means the committee of independent scientists appointed under section 460nnn–53 of this title .
   - **(10)** The term “Wilderness Area” means the Steens Mountain Wilderness Area designated by part B.
+
+“The purposes of this Act [see Short Title note above] are the following:
+
+## Source Credit
+
+*([Pub. L. 106–399, § 2](https://www.govinfo.gov/link/plaw/106/public/399), Oct. 30, 2000, [114 Stat. 1656](https://www.govinfo.gov/link/statute/114/1656).)*

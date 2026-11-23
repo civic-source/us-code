@@ -3,9 +3,10 @@ title: "Section 532 - Explosives Training and Research Facility"
 usc_title: 6
 usc_section: "532"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 532"
-generated_at: "2026-03-30T02:53:09.468Z"
+generated_at: "2026-11-23T21:25:25.803Z"
+status: "active"
 ---
 
 # § 532. Explosives Training and Research Facility
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:09.468Z"
 - **(c)**
   - **(1)** There are authorized to be appropriated such sums as may be necessary to establish and maintain the facility established under subsection (a).
   - **(2)** Any amounts appropriated pursuant to paragraph (1) shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XI, § 1114](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2280](https://www.govinfo.gov/link/statute/116/2280).)*

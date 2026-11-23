@@ -3,9 +3,10 @@ title: "Section 467j - Authorization of appropriations"
 usc_title: 33
 usc_section: "467j"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 467j"
-generated_at: "2026-03-30T02:55:41.059Z"
+generated_at: "2026-11-23T21:26:11.308Z"
+status: "active"
 ---
 
 # § 467j. Authorization of appropriations
@@ -26,3 +27,11 @@ generated_at: "2026-03-30T02:55:41.059Z"
 - **(e)** There is authorized to be appropriated to carry out section 467g–1 of this title $750,000 for each of fiscal years 2019 through 2028.
 - **(f)** There is authorized to be appropriated to FEMA for the employment of such additional staff personnel as are necessary to carry out sections 467f through 467g–1 of this title $1,000,000 for each of fiscal years 2019 through 2028.
 - **(g)** Amounts made available under this subchapter may not be used to construct or repair any Federal or non-Federal dam.
+
+In general
+
+Fiscal year 2015 and subsequent fiscal years
+
+## Source Credit
+
+*([Pub. L. 92–367, § 14](https://www.govinfo.gov/link/plaw/92/public/367), formerly § 12, as added [Pub. L. 104–303, title II, § 215(c)(8)](https://www.govinfo.gov/link/plaw/104/public/303), Oct. 12, 1996, [110 Stat. 3693](https://www.govinfo.gov/link/statute/110/3693); renumbered § 13 and amended [Pub. L. 107–310](https://www.govinfo.gov/link/plaw/107/public/310), §§ 5(1), 7, Dec. 2, 2002, [116 Stat. 2453](https://www.govinfo.gov/link/statute/116/2453); [Pub. L. 109–460, § 1(d)](https://www.govinfo.gov/link/plaw/109/public/460), Dec. 22, 2006, [120 Stat. 3401](https://www.govinfo.gov/link/statute/120/3401); renumbered § 14 and amended [Pub. L. 113–121, title III, § 3001(a)(1)](https://www.govinfo.gov/link/plaw/113/public/121), (d)(1), (e), (f), June 10, 2014, [128 Stat. 1282–1284](https://www.govinfo.gov/link/statute/128/1282); [Pub. L. 115–270, title I, § 1163](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3796](https://www.govinfo.gov/link/statute/132/3796); [Pub. L. 118–272, div. A, title I, § 1132(d)](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3023](https://www.govinfo.gov/link/statute/138/3023).)*

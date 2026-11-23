@@ -3,9 +3,10 @@ title: "Section 518e - Tobacco Trust Fund"
 usc_title: 7
 usc_section: "518e"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 518e"
-generated_at: "2026-03-30T02:53:42.289Z"
+generated_at: "2026-11-23T21:25:27.974Z"
+status: "active"
 ---
 
 # § 518e. Tobacco Trust Fund
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:42.289Z"
     - **(B)** by purchase of outstanding obligations at the market price.
   - **(4)** Any obligation acquired by the Tobacco Trust Fund may be sold by the Commodity Credit Corporation at the market price.
   - **(5)** The interest on, and the proceeds from the sale or redemption of, any obligations held in the Tobacco Trust Fund shall be credited to and form a part of the Fund.
+
+## Source Credit
+
+*([Pub. L. 108–357, title VI, § 626](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1533](https://www.govinfo.gov/link/statute/118/1533).)*

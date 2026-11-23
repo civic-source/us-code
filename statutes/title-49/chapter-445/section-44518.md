@@ -3,9 +3,10 @@ title: "Section 44518 - Advanced Materials Center of Excellence"
 usc_title: 49
 usc_section: "44518"
 chapter: 445
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44518"
-generated_at: "2026-03-30T02:56:19.382Z"
+generated_at: "2026-11-23T21:26:40.889Z"
+status: "active"
 ---
 
 # § 44518. Advanced Materials Center of Excellence
@@ -28,3 +29,17 @@ generated_at: "2026-03-30T02:56:19.382Z"
   - **(3)** conduct research activities for the purpose of improving the safety and certification of aviation structures, materials, and additively manufactured aviation products and components; and
   - **(4)** conducting 1 1 So in original. Probably should be “conduct”. research activities to advance the safe movement of all passengers, including individuals with a disability (as defined in section 382.3 of title 14, Code of Federal Regulations (or any successor regulation)), and individuals using personal wheelchairs in flight, that takes into account the modeling, engineering, testing, operating, and training issues significant to all passengers and relevant stakeholders.
 - **(c)** Out of amounts appropriated under section 48102(a), the Administrator may expend not more than $10,000,000 for each of fiscal years 2021 through 2023 to carry out this section. Amounts appropriated under the preceding sentence for each fiscal year shall remain available until expended.
+
+In General.—
+
+Continued operations
+
+Purposes
+
+Responsibilities
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(Added [Pub. L. 115–254, div. B, title VII, § 762(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3428](https://www.govinfo.gov/link/statute/132/3428); amended [Pub. L. 116–260, div. V, title I, § 134](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2356](https://www.govinfo.gov/link/statute/134/2356); [Pub. L. 118–63, title X, § 1005](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1387](https://www.govinfo.gov/link/statute/138/1387).)*

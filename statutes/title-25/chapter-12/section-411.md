@@ -3,12 +3,17 @@ title: "Section 411 - Interest on moneys from proceeds of sale"
 usc_title: 25
 usc_section: "411"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 411"
-generated_at: "2026-03-30T02:54:52.808Z"
+generated_at: "2026-11-23T21:25:54.575Z"
+status: "active"
 ---
 
 # § 411. Interest on moneys from proceeds of sale
 
 The shares of money due minor Indians as their proportion of the proceeds from the sale of ceded or tribal Indian lands, whenever such shares have been withheld from their parents, legal guardians, or others, and retained in the United States Treasury by direction of the Secretary of the Interior, shall draw interest at the rate of 3 per centum per annum, unless otherwise provided for, from the period when such proceeds have been or shall be distributed per capita among the members of the tribe of which such minor is a member; and the Secretary of the Treasury is authorized and directed to allow interest on such unpaid amounts belonging to said minors as shall be certified by the Secretary of the Interior as entitled to draw interest under this section.
 
+
+## Source Credit
+
+*(June 21, 1906, ch. 3504, [34 Stat. 327](https://www.govinfo.gov/link/statute/34/327).)*

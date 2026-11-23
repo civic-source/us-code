@@ -3,9 +3,10 @@ title: "Section 6720 - Fraudulent acknowledgments with respect to donations of m
 usc_title: 26
 usc_section: "6720"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6720"
-generated_at: "2026-03-30T02:55:27.866Z"
+generated_at: "2026-11-23T21:26:06.928Z"
+status: "active"
 ---
 
 # § 6720. Fraudulent acknowledgments with respect to donations of motor vehicles, boats, and airplanes
@@ -18,3 +19,7 @@ Any donee organization required under section 170(f)(12)(A) to furnish a contemp
   - **(2)** in the case of an acknowledgment with respect to any other qualified vehicle to which section 170(f)(12) applies, the greater of—
     - **(A)** the product of the highest rate of tax specified in section 1 and the claimed value of the vehicle, or
     - **(B)** $5,000.
+
+## Source Credit
+
+*(Added [Pub. L. 108–357, title VIII, § 884(b)(1)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1634](https://www.govinfo.gov/link/statute/118/1634).)*

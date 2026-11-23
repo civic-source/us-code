@@ -3,9 +3,10 @@ title: "Section 4946 - Definitions and special rules"
 usc_title: 26
 usc_section: "4946"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4946"
-generated_at: "2026-03-30T02:55:27.807Z"
+generated_at: "2026-11-23T21:26:06.649Z"
+status: "active"
 ---
 
 # § 4946. Definitions and special rules
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:27.807Z"
   - **(6)** a position as personal or executive assistant or secretary to any of the foregoing, or
   - **(7)** a member of the Internal Revenue Service Oversight Board.
 - **(d)** For purposes of subsection (a)(1), the family of any individual shall include only his spouse, ancestors, children, grandchildren, great grandchildren, and the spouses of children, grandchildren, and great grandchildren.
+
+## Source Credit
+
+*(Added [Pub. L. 91–172, title I, § 101(b)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 515](https://www.govinfo.gov/link/statute/83/515); amended [Pub. L. 95–227, § 4(c)(2)(B)](https://www.govinfo.gov/link/plaw/95/public/227), Feb. 10, 1978, [92 Stat. 22](https://www.govinfo.gov/link/statute/92/22); [Pub. L. 98–369, div. A, title III, § 306(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 784](https://www.govinfo.gov/link/statute/98/784); [Pub. L. 99–514, title XVI, § 1606(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2771](https://www.govinfo.gov/link/statute/100/2771); [Pub. L. 105–206, title I, § 1101(c)(1)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 696](https://www.govinfo.gov/link/statute/112/696); [Pub. L. 106–554, § 1(a)(7) [title III, § 319(16)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–647.)*

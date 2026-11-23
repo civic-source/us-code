@@ -3,9 +3,10 @@ title: "Section 20123 - Grants for outreach and services to underserved populati
 usc_title: 34
 usc_section: "20123"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20123"
-generated_at: "2026-03-30T02:55:33.293Z"
+generated_at: "2026-11-23T21:26:09.771Z"
+status: "active"
 ---
 
 # § 20123. Grants for outreach and services to underserved populations
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:33.293Z"
 - **(f)** Each eligible entity receiving a grant under this section shall submit to the Director of the Office on Violence Against Women a report that describes the activities carried out with grant funds.
 - **(g)** In addition to the funds identified in subsection (a)(1), there are authorized to be appropriated to carry out this section $6,000,000 for each of fiscal years 2023 through 2027.
 - **(h)** In this section the definitions and grant conditions in section 12291 of this title shall apply.
+
+## Source Credit
+
+*([Pub. L. 109–162, title I, § 120](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 2990](https://www.govinfo.gov/link/statute/119/2990); [Pub. L. 109–271](https://www.govinfo.gov/link/plaw/109/public/271), §§ 1(c)(2), 2(h), Aug. 12, 2006, [120 Stat. 750](https://www.govinfo.gov/link/statute/120/750), 752; [Pub. L. 113–4, title I, § 108](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 78](https://www.govinfo.gov/link/statute/127/78); [Pub. L. 117–103, div. W, title I, § 105](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 851](https://www.govinfo.gov/link/statute/136/851).)*

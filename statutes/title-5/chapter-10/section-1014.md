@@ -3,9 +3,10 @@ title: "Section 1014 - Requirements relating to National Academy of Sciences and
 usc_title: 5
 usc_section: "1014"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 1014"
-generated_at: "2026-03-30T02:52:55.994Z"
+generated_at: "2026-11-23T21:25:23.101Z"
+status: "active"
 ---
 
 # § 1014. Requirements relating to National Academy of Sciences and National Academy of Public Administration
@@ -27,3 +28,42 @@ generated_at: "2026-03-30T02:52:55.994Z"
   - **(5)** The Academy shall make available to the public its final report, at reasonable charge if appropriate, unless the Academy determines that the report would disclose matters described in section 552(b) of this title . If the Academy determines that the report would disclose matters described in section 552(b) of this title , the Academy shall make public an abbreviated version of the report that does not disclose those matters.
   - **(6)** After publication of the final report, the Academy shall make publicly available the names of the principal reviewers who reviewed the report in draft form and who are not officials, agents, or employees of the Academy.
 - **(c)** The Administrator of General Services may issue regulations implementing this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1014 | 5 U.S.C. App. (FACA § 15) | Pub. L. 92–463, § 15 , as added Pub. L. 105–153, § 2(b) , Dec. 17, 1997 , 111 Stat. 2689 . |
+
+
+In General
+
+Requirements
+
+Public notice regarding appointees
+
+Public notice of committee meetings
+
+Data-gathering meetings
+
+Other meetings
+
+Final report
+
+Reviewers of report
+
+Regulations
+
+Historical and Revision Notes
+
+1014
+
+Pub. L. 92–463, § 15
+
+Pub. L. 105–153, § 2(b)
+
+Dec. 17, 1997
+
+111 Stat. 2689
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(a)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4205](https://www.govinfo.gov/link/statute/136/4205).)*

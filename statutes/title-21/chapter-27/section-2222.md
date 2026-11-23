@@ -3,9 +3,10 @@ title: "Section 2222 - Integrated consortium of laboratory networks"
 usc_title: 21
 usc_section: "2222"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 2222"
-generated_at: "2026-03-30T02:54:54.310Z"
+generated_at: "2026-11-23T21:25:56.301Z"
+status: "active"
 ---
 
 # § 2222. Integrated consortium of laboratory networks
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:54.310Z"
     - **(B)** to provide surge capacity during emergencies; and
   - **(3)** engage in ongoing dialogue and build relationships that will support a more effective and integrated response during emergencies.
 - **(b)** The Secretary of Homeland Security shall, on a biennial basis, submit to the relevant committees of Congress, and make publicly available on the Internet Web site of the Department of Homeland Security, a report on the progress of the integrated consortium of laboratory networks, as established under subsection (a), in carrying out this section.
+
+## Source Credit
+
+*([Pub. L. 111–353, title II, § 203](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3929](https://www.govinfo.gov/link/statute/124/3929).)*

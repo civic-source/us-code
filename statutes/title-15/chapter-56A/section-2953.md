@@ -3,9 +3,10 @@ title: "Section 2953 - Global Change Research Information Office"
 usc_title: 15
 usc_section: "2953"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2953"
-generated_at: "2026-03-30T02:54:08.185Z"
+generated_at: "2026-11-23T21:25:39.959Z"
+status: "active"
 ---
 
 # § 2953. Global Change Research Information Office
@@ -18,3 +19,7 @@ Not more than 180 days after November 16, 1990 , the President shall, in consult
   - **(4)** promoting the conservation of forest resources which help reduce the amount of carbon dioxide in the atmosphere;
   - **(5)** assisting developing countries in ecological pest management practices and in the proper use of agricultural, and industrial chemicals; and
   - **(6)** promoting recycling and source reduction of pollutants in order to reduce the volume of waste which must be disposed of, thus decreasing energy use and greenhouse gas emissions.
+
+## Source Credit
+
+*([Pub. L. 101–606, title II, § 204](https://www.govinfo.gov/link/plaw/101/public/606), Nov. 16, 1990, [104 Stat. 3103](https://www.govinfo.gov/link/statute/104/3103).)*

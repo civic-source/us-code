@@ -3,9 +3,10 @@ title: "Section 4703 - Establishment of national Fund for community development 
 usc_title: 12
 usc_section: "4703"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4703"
-generated_at: "2026-03-30T02:53:53.515Z"
+generated_at: "2026-11-23T21:25:37.209Z"
+status: "active"
 ---
 
 # § 4703. Establishment of national Fund for community development banking
@@ -71,3 +72,7 @@ generated_at: "2026-03-30T02:53:53.515Z"
   - **(5)** During the transition period, employees of the Department of the Treasury may only comprise less than one-half of the total number of individuals hired in accordance with paragraph (1)(B).
   - **(6)** Amounts previously appropriated to the Department of the Treasury may be used to pay obligations and expenses of the Fund incurred under this section, and such amounts may be reimbursed by the Fund to the Department of the Treasury from amounts appropriated to the Fund for fiscal year 1995.
   - **(7)** For purposes of this subsection, the term “transition period” means the period beginning on September 23, 1994 , and ending on the date on which the Administrator is appointed.
+
+## Source Credit
+
+*([Pub. L. 103–325, title I, § 104](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2166](https://www.govinfo.gov/link/statute/108/2166); [Pub. L. 112–166, § 2(w)](https://www.govinfo.gov/link/plaw/112/public/166), Aug. 10, 2012, [126 Stat. 1289](https://www.govinfo.gov/link/statute/126/1289); [Pub. L. 117–286, § 4(a)(57)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4311](https://www.govinfo.gov/link/statute/136/4311).)*

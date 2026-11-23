@@ -3,9 +3,10 @@ title: "Section 16357 - Strategy for facilities and infrastructure"
 usc_title: 42
 usc_section: "16357"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16357"
-generated_at: "2026-03-30T02:56:11.484Z"
+generated_at: "2026-11-23T21:26:33.736Z"
+status: "active"
 ---
 
 # § 16357. Strategy for facilities and infrastructure
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.484Z"
     - **(B)** a current 10-year plan that demonstrates the reconfiguration of its facilities and infrastructure to meet its missions and to address its long-term operational costs and return on investment;
     - **(C)** the total current budget for all facilities and infrastructure funding; and
     - **(D)** the current status of each facility and infrastructure project compared to the original baseline cost, schedule, and scope.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 993](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 913](https://www.govinfo.gov/link/statute/119/913); [Pub. L. 115–246, title II, § 205(a)](https://www.govinfo.gov/link/plaw/115/public/246), Sept. 28, 2018, [132 Stat. 3137](https://www.govinfo.gov/link/statute/132/3137).)*

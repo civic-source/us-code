@@ -3,9 +3,10 @@ title: "Section 6155 - Payment on notice and demand"
 usc_title: 26
 usc_section: "6155"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6155"
-generated_at: "2026-03-30T02:55:27.843Z"
+generated_at: "2026-11-23T21:26:06.822Z"
+status: "active"
 ---
 
 # § 6155. Payment on notice and demand
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:27.843Z"
   - **(1)** For restrictions on assessment and collection of deficiency assessments of taxes subject to the jurisdiction of the Tax Court, see sections 6212 and 6213.
   - **(2)** For provisions relating to assessment of claims allowed in a receivership proceeding, see section 6873.
   - **(3)** For provisions relating to jeopardy assessments, see subchapter A of chapter 70.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 760; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 96–589, § 6(i)(7)](https://www.govinfo.gov/link/plaw/96/public/589), Dec. 24, 1980, [94 Stat. 3410](https://www.govinfo.gov/link/statute/94/3410).)*

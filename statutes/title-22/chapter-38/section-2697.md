@@ -3,9 +3,10 @@ title: "Section 2697 - Acceptance of gifts on behalf of United States"
 usc_title: 22
 usc_section: "2697"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2697"
-generated_at: "2026-03-30T02:55:05.379Z"
+generated_at: "2026-11-23T21:25:58.530Z"
+status: "active"
 ---
 
 # § 2697. Acceptance of gifts on behalf of United States
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:55:05.379Z"
   - **(2)** The income from any real property or tangible personal property held under this subsection shall be available for expenditure at the discretion of the Secretary of State for the maintenance, preservation, or repair and insurance of such property and any proceeds from insurance may be used to restore the property insured.
 - **(e)** For the purpose of Federal income, estate, and gift taxes, any gift, devise, or bequest accepted under this section shall be deemed to be a gift, devise, or bequest to and for the use of the United States.
 - **(f)** The authorities available to the Secretary of State under this section with respect to the Department of State shall be available to the Broadcasting Board of Governors and the Administrator of the Agency for International Development with respect to the Board and the Agency.
+
+Congressional Review
+
+Study and Report
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title I, § 25, as added [Pub. L. 96–465, title II, § 2201(a)](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2153](https://www.govinfo.gov/link/statute/94/2153); renumbered title I and amended [Pub. L. 97–241, title II, § 202(a)](https://www.govinfo.gov/link/plaw/97/public/241), title III, § 303(b), Aug. 24, 1982, [96 Stat. 282](https://www.govinfo.gov/link/statute/96/282), 291; [Pub. L. 100–204, title I, § 125](https://www.govinfo.gov/link/plaw/100/public/204), Dec. 22, 1987, [101 Stat. 1341](https://www.govinfo.gov/link/statute/101/1341); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XIII, § 1335(l)(2), title XIV, § 1422(b)(3)(A), Oct. 21, 1998, [112 Stat. 2681–789](https://www.govinfo.gov/link/statute/112/2681), 2681–792.)*

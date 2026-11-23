@@ -3,9 +3,10 @@ title: "Section 5011 - Grants and contracts for individual service projects"
 usc_title: 42
 usc_section: "5011"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5011"
-generated_at: "2026-03-30T02:56:11.213Z"
+generated_at: "2026-11-23T21:26:32.708Z"
+status: "active"
 ---
 
 # § 5011. Grants and contracts for individual service projects
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:11.213Z"
     - **(B)** funds received by the Director as gifts to pay such cost;
     - **(C)** funds contributed by such volunteer; or
     - **(D)** locally generated contributions in excess of the amount required to be contributed under subsection (a), in the discretion of the recipient of a grant or contract under such subsection.
+
+## Source Credit
+
+*([Pub. L. 93–113, title II, § 211](https://www.govinfo.gov/link/plaw/93/public/113), Oct. 1, 1973, [87 Stat. 402](https://www.govinfo.gov/link/statute/87/402); [Pub. L. 94–135, title II, § 205(b)(1)](https://www.govinfo.gov/link/plaw/94/public/135), (2), Nov. 28, 1975, [89 Stat. 727](https://www.govinfo.gov/link/statute/89/727); [Pub. L. 94–293, § 7](https://www.govinfo.gov/link/plaw/94/public/293), May 27, 1976, [90 Stat. 526](https://www.govinfo.gov/link/statute/90/526); [Pub. L. 95–478, title IV, § 402(b)](https://www.govinfo.gov/link/plaw/95/public/478), Oct. 18, 1978, [92 Stat. 1557](https://www.govinfo.gov/link/statute/92/1557); [Pub. L. 97–35, title VI, § 608(b)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 487](https://www.govinfo.gov/link/statute/95/487); [Pub. L. 98–288, § 14(c)](https://www.govinfo.gov/link/plaw/98/public/288), May 21, 1984, [98 Stat. 192](https://www.govinfo.gov/link/statute/98/192); [Pub. L. 99–551, § 7(a)(1)](https://www.govinfo.gov/link/plaw/99/public/551), Oct. 27, 1986, [100 Stat. 3074](https://www.govinfo.gov/link/statute/100/3074); [Pub. L. 101–204, title V](https://www.govinfo.gov/link/plaw/101/public/204), §§ 503, 504, Dec. 7, 1989, [103 Stat. 1817](https://www.govinfo.gov/link/statute/103/1817); [Pub. L. 103–82, title III](https://www.govinfo.gov/link/plaw/103/public/82), §§ 344, 345, Sept. 21, 1993, [107 Stat. 904](https://www.govinfo.gov/link/statute/107/904), 905; [Pub. L. 108–446, title III, § 305(k)](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2806](https://www.govinfo.gov/link/statute/118/2806); [Pub. L. 111–13, title II, § 2144](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1588](https://www.govinfo.gov/link/statute/123/1588).)*

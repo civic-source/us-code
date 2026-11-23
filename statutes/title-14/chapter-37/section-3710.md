@@ -3,9 +3,10 @@ title: "Section 3710 - Reserve student pre-commissioning assistance program"
 usc_title: 14
 usc_section: "3710"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 3710"
-generated_at: "2026-03-30T02:53:51.503Z"
+generated_at: "2026-11-23T21:25:35.456Z"
+status: "active"
 ---
 
 # § 3710. Reserve student pre-commissioning assistance program
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:53:51.503Z"
   - **(2)** The Secretary may waive the service obligated under subsection (f) of a member who becomes unqualified to serve on active duty due to a circumstance not within the control of that member or who is not physically qualified for appointment and who is determined to be unqualified for service as an enlisted member of the Coast Guard Reserve due to a physical or medical condition that was not the result of the member’s own misconduct or grossly negligent conduct.
   - **(3)** A discharge in bankruptcy under title 11 that is entered less than 5 years after the termination of a written agreement entered into under subsection (b) does not discharge the individual signing the agreement from a debt arising under such agreement or under paragraph (1).
 - **(h)** As used in this section, the term “institution of higher education” has the meaning given that term in section 101 of the Higher Education Act of 1965 ( 20 U.S.C. 1001 ).
+
+## Source Credit
+
+*(Added [Pub. L. 107–295, title IV, § 413(a)](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2119](https://www.govinfo.gov/link/statute/116/2119), § 709a; renumbered § 3710, [Pub. L. 115–282, title I, § 118(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4233](https://www.govinfo.gov/link/statute/132/4233).)*

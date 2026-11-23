@@ -3,9 +3,10 @@ title: "Section 1704 - National Recording Registry Collection of the Library of 
 usc_title: 2
 usc_section: "1704"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1704"
-generated_at: "2026-03-30T02:53:04.816Z"
+generated_at: "2026-11-23T21:25:21.239Z"
+status: "active"
 ---
 
 # § 1704. National Recording Registry Collection of the Library of Congress
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.816Z"
   - **(1)** The Librarian shall seek to obtain, by gift from the owner, a quality copy of the Registry version of each sound recording included in the National Recording Registry.
   - **(2)** Not more than one copy of the same version or take of any sound recording may be preserved in the National Recording Registry. Nothing in the preceding sentence may be construed to prohibit the Librarian from making or distributing copies of sound recordings included in the Registry for purposes of carrying out this Act.
 - **(c)** All copies of sound recordings on the National Recording Registry that are received by the Librarian under subsection (b) shall become the property of the United States Government, subject to the provisions of title 17.
+
+## Source Credit
+
+*([Pub. L. 106–474, title I, § 104](https://www.govinfo.gov/link/plaw/106/public/474), Nov. 9, 2000, [114 Stat. 2087](https://www.govinfo.gov/link/statute/114/2087).)*

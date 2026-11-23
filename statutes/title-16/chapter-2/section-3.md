@@ -3,12 +3,17 @@ title: "Section 3 - Minerals"
 usc_title: 16
 usc_section: "3"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T02:54:22.874Z"
+generated_at: "2026-11-23T21:25:51.672Z"
+status: "active"
 ---
 
 # § 546a–3. Minerals
 
 Subject to valid existing rights, the lands within the scenic area are hereby withdrawn from disposition under all laws pertaining to mineral leasing, including all laws pertaining to geothermal leasing. Also subject to valid existing rights, the Secretary shall not allow any mineral development on federally owned land within the scenic area, except that common varieties of mineral materials, such as stone and gravel, may be utilized only as authorized by the Secretary to the extent necessary for construction and maintenance of roads and facilities within the scenic area.
 
+
+## Source Credit
+
+*([Pub. L. 106–431, § 6](https://www.govinfo.gov/link/plaw/106/public/431), Nov. 6, 2000, [114 Stat. 1907](https://www.govinfo.gov/link/statute/114/1907).)*

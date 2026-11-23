@@ -3,9 +3,10 @@ title: "Section 2233 - Coordination and scheduling of Federal, State, and local 
 usc_title: 33
 usc_section: "2233"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2233"
-generated_at: "2026-03-30T02:55:41.115Z"
+generated_at: "2026-11-23T21:26:11.426Z"
+status: "active"
 ---
 
 # § 2233. Coordination and scheduling of Federal, State, and local actions
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:41.115Z"
 - **(g)** Six months before the final date of the schedule, the Secretary shall provide to Congress a written progress report for each navigation project for a harbor or inland harbor subject to this section. The Secretary shall transmit the report to the Committee on Public Works and Transportation of the House of Representatives and the Committee on Environment and Public Works of the Senate. The report shall summarize all work completed under the agreement and shall include a detailed work program that will assure completion of all remaining work under the agreement.
 - **(h)** Not later than the final day of the schedule, the Secretary shall notify the non-Federal interest of the final decision on the project and whether the permit or permits have been issued.
 - **(i)** Not later than one year after November 17, 1986 , the Secretary shall prepare and transmit to Congress a report estimating the time required for the issuance of all Federal, State, and local permits for the construction of navigation projects for harbors or inland harbors and associated activities. The Secretary shall include in that report recommendations for further reducing the amount of time required for the issuance of those permits, including any proposed changes in existing law.
+
+## Source Credit
+
+*([Pub. L. 99–662, title II, § 205](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4101](https://www.govinfo.gov/link/statute/100/4101).)*

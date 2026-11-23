@@ -3,9 +3,10 @@ title: "Section 651 - Budget-related legislation not subject to appropriations"
 usc_title: 2
 usc_section: "651"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 651"
-generated_at: "2026-03-30T02:53:04.800Z"
+generated_at: "2026-11-23T21:25:21.174Z"
+status: "active"
 ---
 
 # § 651. Budget-related legislation not subject to appropriations
@@ -26,3 +27,9 @@ generated_at: "2026-03-30T02:53:04.800Z"
     - **(A)** the outlays resulting therefrom are made by an organization which is (i) a mixed-ownership Government corporation (as defined in section 9101(2) of title 31 ), or (ii) a wholly owned Government corporation (as defined in section 9101(3) of title 31 ) which is specifically exempted by law from compliance with any or all of the provisions of chapter 91 of title 31, as of December 12, 1985 ; or
     - **(B)** the outlays resulting therefrom consist exclusively of the proceeds of gifts or bequests made to the United States for a specific purpose.
   - **(3)** In the House of Representatives, subsections (a) and (b) shall not apply to new authority described in those subsections to the extent that a provision in a bill or joint resolution, or an amendment thereto or a conference report thereon, establishes prospectively for a Federal office or position a specified or minimum level of compensation to be funded by annual discretionary appropriations.
+
+Point of order
+
+## Source Credit
+
+*([Pub. L. 93–344, title IV, § 401](https://www.govinfo.gov/link/plaw/93/public/344), July 12, 1974, [88 Stat. 317](https://www.govinfo.gov/link/statute/88/317); [Pub. L. 99–177, title II, § 211](https://www.govinfo.gov/link/plaw/99/public/177), Dec. 12, 1985, [99 Stat. 1056](https://www.govinfo.gov/link/statute/99/1056); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 101–508, title XIII, § 13207(a)(1)(F)](https://www.govinfo.gov/link/plaw/101/public/508), (G), Nov. 5, 1990, [104 Stat. 1388–617](https://www.govinfo.gov/link/statute/104/1388), 1388–618; [Pub. L. 105–33, title X, § 10116(a)(1)](https://www.govinfo.gov/link/plaw/105/public/33) –(5), Aug. 5, 1997, [111 Stat. 690](https://www.govinfo.gov/link/statute/111/690), 691; [Pub. L. 113–67, div. A, title I, § 122(12)](https://www.govinfo.gov/link/plaw/113/public/67), (13), Dec. 26, 2013, [127 Stat. 1176](https://www.govinfo.gov/link/statute/127/1176).)*

@@ -3,9 +3,10 @@ title: "Section 4351 - Purposes"
 usc_title: 25
 usc_section: "4351"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4351"
-generated_at: "2026-03-30T02:54:52.863Z"
+generated_at: "2026-11-23T21:25:54.716Z"
+status: "active"
 ---
 
 # § 4351. Purposes
@@ -24,3 +25,7 @@ The purposes of this chapter are—
     - **(B)** increase tourism capacity; and
     - **(C)** elevate living standards in Native American communities; and
   - **(7)** to support the development of technologically innovative projects that will incorporate recreational travel and tourism information and data from Federal assets to improve the visitor experience.
+
+## Source Credit
+
+*([Pub. L. 114–221, § 2](https://www.govinfo.gov/link/plaw/114/public/221), Sept. 23, 2016, [130 Stat. 847](https://www.govinfo.gov/link/statute/130/847).)*

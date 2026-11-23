@@ -3,9 +3,10 @@ title: "Section 3403 - Confidentiality of financial records"
 usc_title: 12
 usc_section: "3403"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3403"
-generated_at: "2026-03-30T02:53:53.494Z"
+generated_at: "2026-11-23T21:25:37.136Z"
+status: "active"
 ---
 
 # § 3403. Confidentiality of financial records
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:53.494Z"
 - **(d)**
   - **(1)** Nothing in this chapter shall preclude a financial institution, as an incident to perfecting a security interest, proving a claim in bankruptcy, or otherwise collecting on a debt owing either to the financial institution itself or in its role as a fiduciary, from providing copies of any financial record to any court or Government authority.
   - **(2)** Nothing in this chapter shall preclude a financial institution, as an incident to processing an application for assistance to a customer in the form of a Government loan, loan guaranty, or loan insurance agreement, or as an incident to processing a default on, or administering, a Government guaranteed or insured loan, from initiating contact with an appropriate Government authority for the purpose of providing any financial record necessary to permit such authority to carry out its responsibilities under a loan, loan guaranty, or loan insurance agreement.
+
+## Source Credit
+
+*([Pub. L. 95–630, title XI, § 1103](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3698](https://www.govinfo.gov/link/statute/92/3698); [Pub. L. 99–570, title I, § 1353(a)](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–21](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 100–690, title VI, § 6186(a)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4357](https://www.govinfo.gov/link/statute/102/4357).)*

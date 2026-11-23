@@ -3,9 +3,10 @@ title: "Section 801 - Article 1. Definitions"
 usc_title: 10
 usc_section: "801"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 801"
-generated_at: "2026-03-30T02:53:38.076Z"
+generated_at: "2026-11-23T21:25:32.319Z"
+status: "active"
 ---
 
 # § 801. Article 1. Definitions
@@ -39,3 +40,504 @@ In this chapter (the Uniform Code of Military Justice):
     - **(C)** a solicitation to commit an offense specified in subparagraph (A) as punishable under section 882 of this title (article 82); or
     - **(D)** an attempt to commit an offense specified in subparagraph (A), (B), or (C) as punishable under section 880 of this title (article 80).
   - **(18)** The term “special trial counsel” means a judge advocate detailed as a special trial counsel in accordance with section 824a of this title (article 24a) and includes a judge advocate appointed as a lead special trial counsel pursuant to section 1044f(a)(2) of this title .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 801 | 50:551 (less (9)). | May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108 . |
+
+
+Historical and Revision Notes
+
+801
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 108
+
+In General
+
+Regulations.—
+
+Requirement
+
+Impact of delay of issuance
+
+In General
+
+Implementing Regulations
+
+Applicability.—
+
+In general
+
+Inapplicability to cases in which charges already referred to trial on effective date
+
+Punitive article amendments.—
+
+In general
+
+Construction
+
+Sentencing amendments
+
+In General
+
+Secretary of Defense and Related Activities
+
+DAC–IPAD Activities.—
+
+In general
+
+Information from federal agencies.—
+
+In general
+
+Handling, storage, and return
+
+Report
+
+Definitions
+
+In General
+
+Elements.—
+
+Interview of victim
+
+Uniformity across military justice systems
+
+Report.—
+
+In general
+
+Elements
+
+Chief Medical Officer.—
+
+In general
+
+Grade
+
+Chain of command
+
+Duties.—
+
+In general
+
+Quality of care
+
+Powers.—
+
+In general
+
+Resolution of declination to follow determinations
+
+Security clearances
+
+Access to Individuals, Information, and Assistance.—
+
+In general
+
+Access upon request
+
+Lack of expeditious availability
+
+Definitions
+
+Individual detained at guantanamo defined
+
+Medical care
+
+Standard of care
+
+In general
+
+Definitions
+
+Transition-period court-martial
+
+Relevant sentencing sections
+
+Certification Required Prior to Transfer.—
+
+In general
+
+Exception
+
+Certification
+
+Coordination With Prohibition on Transfer to Certain Countries
+
+Record of Cooperation
+
+Report
+
+Definitions
+
+Notice Required
+
+Assessments Required
+
+Appropriate Congressional Committees Defined
+
+Requirement for Notification
+
+Definition
+
+Construction With Other Requirements
+
+In General
+
+Covered Persons
+
+Disposition Under Law of War
+
+Construction
+
+Authorities
+
+Requirement for Briefings of Congress
+
+Custody Pending Disposition Under Law of War.—
+
+In general
+
+Covered persons
+
+Disposition under law of war
+
+Waiver for national security
+
+Applicability to United States Citizens and Lawful Resident Aliens.—
+
+United states citizens
+
+Lawful resident aliens
+
+Implementation Procedures.—
+
+In general
+
+Elements
+
+Authorities
+
+Effective Date
+
+Procedures Required
+
+Covered Matters
+
+Appropriate Committees of Congress Defined
+
+In General
+
+Elements of Procedures
+
+Applicability
+
+Report on Modification of Procedures
+
+Appropriate Committees of Congress Defined
+
+In General
+
+Contents
+
+Updates
+
+Form of Protocol
+
+In General
+
+Applicability
+
+Prohibition
+
+Authorized Functions of Contractor Personnel
+
+Discharge by Government Personnel
+
+Waiver.—
+
+Waivers authorized
+
+Limitation on delegation.—
+
+In general
+
+Deadline for regulations
+
+Congressional notification
+
+No Miranda Warnings.—
+
+In general
+
+Nonapplicability to department of justice
+
+Definitions
+
+Report Required on Notification of Detainees of Rights Under
+
+Videotaping or Other Electronic Recording Required
+
+Classification of Information
+
+Strategic Intelligence Interrogation Defined
+
+Exclusion
+
+Waiver.—
+
+Waivers authorized
+
+Suspensions authorized
+
+Limitation on delegation of authority
+
+Extensions
+
+Guidelines.—
+
+Development of guidelines
+
+Submittal to congress
+
+Reports Required
+
+Specified Members and Committees of Congress
+
+Matters To Be Included
+
+Additional Matters To Be Included in Initial Report
+
+Policy Required
+
+Report
+
+In General
+
+Applicability
+
+Construction
+
+Submittal of Procedures for Status Review of Detainees at Guantanamo Bay, Cuba, and in Afghanistan and Iraq.—
+
+In general
+
+Designated civilian official
+
+Consideration of new evidence
+
+Consideration of Statements Derived With Coercion.—
+
+Assessment
+
+Applicability
+
+Report on Modification of Procedures
+
+Annual Report.—
+
+Report required
+
+Elements of report
+
+Judicial Review of Detention of Enemy Combatants.—
+
+In general
+
+Review of decisions of combatant status review tribunals of propriety of detention.—
+
+In general
+
+Limitation on claims
+
+Scope of review
+
+Termination on release from custody
+
+Respondent
+
+Construction
+
+United States Defined
+
+Effective Date.—
+
+In general
+
+Review of combatant status tribunal and military commission decisions
+
+Required Policies.—
+
+In general
+
+Acknowledgment of training
+
+Deadline for policies to be prescribed
+
+Army Field Manual.—
+
+Translation
+
+Distribution
+
+Transmittal to Congressional Committees
+
+Annual Report
+
+In General
+
+Applicability
+
+Construction
+
+Submittal of Procedures for Status Review of Detainees at Guantanamo Bay, Cuba, and in Afghanistan and Iraq.—
+
+In general
+
+Designated civilian official
+
+Consideration of new evidence
+
+Consideration of Statements Derived With Coercion.—
+
+Assessment
+
+Applicability
+
+Report on Modification of Procedures
+
+Annual Report.—
+
+Report required
+
+Elements of report
+
+Judicial Review of Detention of Enemy Combatants.—
+
+In general
+
+Review of decisions of combatant status review tribunals of propriety of detention.—
+
+In general
+
+Limitation on claims
+
+Scope of review
+
+Termination on release from custody
+
+Respondent
+
+Construction
+
+United States Defined
+
+Effective Date.—
+
+In general
+
+Review of combatant status tribunal and military commission decisions
+
+Required Policies.—
+
+In general
+
+Acknowledgment of training
+
+Deadline for policies to be prescribed
+
+Army Field Manual.—
+
+Translation
+
+Distribution
+
+Transmittal of Regulations
+
+Annual Report
+
+Sense of Congress
+
+Policy
+
+Detainees
+
+Policies Required
+
+Matters to Be Included
+
+Secretary of Defense Certification
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+George W. Bush.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Donald J. Trump.
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 36; [Pub. L. 89–670, § 10(g)](https://www.govinfo.gov/link/plaw/89/public/670), Oct. 15, 1966, [80 Stat. 948](https://www.govinfo.gov/link/statute/80/948); [Pub. L. 90–179, § 1(1)](https://www.govinfo.gov/link/plaw/90/public/179), (2), Dec. 8, 1967, [81 Stat. 545](https://www.govinfo.gov/link/statute/81/545); [Pub. L. 90–632, § 2(1)](https://www.govinfo.gov/link/plaw/90/public/632), Oct. 24, 1968, [82 Stat. 1335](https://www.govinfo.gov/link/statute/82/1335); [Pub. L. 98–209](https://www.govinfo.gov/link/plaw/98/public/209), §§ 2(a), 6(a), Dec. 6, 1983, [97 Stat. 1393](https://www.govinfo.gov/link/statute/97/1393), 1400; [Pub. L. 100–180, div. A, title XII, § 1231(17)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1161](https://www.govinfo.gov/link/statute/101/1161); [Pub. L. 100–456, div. A, title XII, § 1233(f)(1)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 2057](https://www.govinfo.gov/link/statute/102/2057); [Pub. L. 104–106, div. A, title XI, § 1141(b)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 467](https://www.govinfo.gov/link/statute/110/467); [Pub. L. 107–296, title XVII, § 1704(b)(2)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 109–241, title II, § 218(a)](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 526](https://www.govinfo.gov/link/statute/120/526); [Pub. L. 114–328, div. E, title LI, § 5101](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2894](https://www.govinfo.gov/link/statute/130/2894); [Pub. L. 115–91, div. A, title X, § 1081(a)(21)](https://www.govinfo.gov/link/plaw/115/public/91), (c)(1)(A), Dec. 12, 2017, [131 Stat. 1595](https://www.govinfo.gov/link/statute/131/1595), 1597; [Pub. L. 117–81, div. A, title V, § 533](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1695](https://www.govinfo.gov/link/statute/135/1695); [Pub. L. 117–263, div. A, title V, § 541(a)(1)](https://www.govinfo.gov/link/plaw/117/public/263), (b)(1), Dec. 23, 2022, [136 Stat. 2579](https://www.govinfo.gov/link/statute/136/2579), 2580.)*

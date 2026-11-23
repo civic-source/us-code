@@ -3,9 +3,10 @@ title: "Section 2119 - Cooperative agreements"
 usc_title: 44
 usc_section: "2119"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 2119"
-generated_at: "2026-03-30T02:55:56.292Z"
+generated_at: "2026-11-23T21:26:18.410Z"
+status: "active"
 ---
 
 # § 2119. Cooperative agreements
@@ -13,3 +14,13 @@ generated_at: "2026-03-30T02:55:56.292Z"
 - **(a)** The Archivist may enter into cooperative agreements pursuant to section 6305 of title 31 that involve the transfer of funds from the National Archives and Records Administration to State and local governments, other public entities, educational institutions, or private nonprofit organizations (including foundations or institutes organized to support the National Archives and Records Administration or the Presidential archival depositories operated by it) for the public purpose of carrying out programs of the National Archives and Records Administration.
 - **(b)** Not more than $25,000 may be transferred under a cooperative agreement entered into as authorized by subsection (a). Not more than a total of $75,000 may be transferred under such agreements in any fiscal year.
 - **(c)** Not later than December 31st of each year, the Archivist shall submit to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs of the Senate a report on the provisions, amount, and duration of each cooperative agreement entered into as authorized by subsection (a) during the preceding fiscal year.
+
+Authority
+
+Limitations
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 108–383, § 5(a)](https://www.govinfo.gov/link/plaw/108/public/383), Oct. 30, 2004, [118 Stat. 2219](https://www.govinfo.gov/link/statute/118/2219).)*

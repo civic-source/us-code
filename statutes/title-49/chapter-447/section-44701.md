@@ -3,9 +3,10 @@ title: "Section 44701 - General requirements"
 usc_title: 49
 usc_section: "44701"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44701"
-generated_at: "2026-03-30T02:56:19.382Z"
+generated_at: "2026-11-23T21:26:40.889Z"
+status: "active"
 ---
 
 # § 44701. General requirements
@@ -56,3 +57,960 @@ generated_at: "2026-03-30T02:56:19.382Z"
     - **(C)** ensuring officials are properly documenting findings and decisions throughout a project to decrease the occurrence of duplicative work and inconsistent findings by subsequent officials assigned to the same project.
   - **(2)** The Administrator shall consult as appropriate with regulated entities who will be impacted by proposed changes to the content or application of policies, orders, and guidance before making such changes.
   - **(3)** The Administrator shall issue policies, orders, and guidance documents that are related to a law or regulation or clarify the intent of or compliance with specific laws and regulations.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44701(a) | 49 App.:1421(a). | Aug. 23, 1958 , Pub. L. 85–726 , §§ 601(a), (b) (1st sentence related to standards, rules, and regulations, last sentence), (c), 604(a) (related to standards), 72 Stat. 775 , 778. |
+|  | 49 App.:1655(c)(1). | Oct. 15, 1966 , Pub. L. 89–670, § 6(c)(1) , 80 Stat. 938 ; Jan. 12, 1983 , Pub. L. 97–449, § 7(b) , 96 Stat. 2444 . |
+| 44701(b) | 49 App.:1424(a) (related to standards). |  |
+|  | 49 App.:1432(a) (related to standards). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 612(a) (related to standards); added May 21, 1970 , Pub. L. 91–258, § 51(b)(1) , 84 Stat. 234 ; restated Sept. 3, 1982 , Pub. L. 97–248, § 525(a) , 96 Stat. 697 . |
+|  | 49 App.:1655(c)(1). |  |
+| 44701(c) | 49 App.:1421(b) (last sentence). |  |
+|  | 49 App.:1655(c)(1). |  |
+| 44701(d) | 49 App.:1421(b) (1st sentence related to standards, rules, and regulations). |  |
+|  | 49 App.:1655(c)(1). |  |
+| 44701(e) | 49 App.:1421(c). |  |
+|  | 49 App.:1655(c)(1). |  |
+
+
+Promoting Safety
+
+Prescribing Minimum Safety Standards
+
+Reducing and Eliminating Accidents
+
+Considerations and Classification of Regulations and Standards
+
+Bilateral Exchanges of Safety Oversight Responsibilities.—
+
+In general
+
+Relinquishment and acceptance of responsibility
+
+Conditions
+
+Registered aircraft defined
+
+Foreign airworthiness directives.—
+
+Acceptance
+
+Alternative approval process
+
+Alternative means of compliance
+
+Limitation
+
+Exemptions
+
+Exclusive Rulemaking Authority
+
+Policies, Orders, and Guidance.—
+
+Consistency of application
+
+Alterations
+
+Authorities and regulations
+
+Historical and Revision Notes
+
+Pub. L
+
+44701(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 775
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 6(c)(1)
+
+80 Stat. 938
+
+Jan. 12, 1983
+
+Pub. L. 97–449, § 7(b)
+
+96 Stat. 2444
+
+44701(b)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+May 21, 1970
+
+Pub. L. 91–258, § 51(b)(1)
+
+84 Stat. 234
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 525(a)
+
+96 Stat. 697
+
+44701(c)
+
+44701(d)
+
+44701(e)
+
+“In conducting any rulemaking to require, or implementing a regulation requiring, a safety management system, the Administrator [of the Federal Aviation Administration] shall consider the scalability of such safety management system requirements, to the full range of entities in terms of size or complexity that may be affected by such rulemaking or regulation, including—
+
+Review
+
+Updates
+
+Consultation
+
+GAO Study on FAA National Simulator Program.—
+
+In general
+
+Considerations
+
+Report
+
+Study
+
+Contents
+
+Briefing
+
+Rulemaking
+
+In General
+
+Objectives
+
+Pilot Program.—
+
+In general
+
+Requirements
+
+Report
+
+In General
+
+Requirements
+
+Implementation
+
+Rule of Construction
+
+Briefing
+
+Part
+
+Tail–end Ferry Rulemaking
+
+Record Keeping
+
+Safety Management System Oversight
+
+Organ Transportation Flights
+
+Call to Action Ramp Worker Safety Review
+
+Contents
+
+Report and Actions
+
+Training Materials
+
+Consultation
+
+Training Requirements
+
+Study.—
+
+In general
+
+Contents.—
+
+Requirements
+
+Considerations
+
+Definitions
+
+Passenger load
+
+Passengers with disabilities
+
+Aviation Rulemaking Committee for Evacuation Standards.—
+
+In general
+
+Composition
+
+Considerations
+
+Report to Congress
+
+Rulemaking
+
+In General.—
+
+Cockpit voice recorder for newly manufactured aircraft
+
+Cockpit voice recorder for covered aircraft
+
+Prohibited Use
+
+Rulemaking
+
+Savings Clause
+
+Rule of Construction
+
+Definitions
+
+Covered aircraft
+
+Covered operator
+
+In General
+
+Requirements.—
+
+Consideration of prior studies and reports
+
+Assessments
+
+Consultation
+
+Implementation of Staffing Standards for Safety Inspectors
+
+Availability of Appropriations
+
+Safety-critical Positions Defined
+
+Task Force.—
+
+In general
+
+Membership
+
+Announcements
+
+Definitions
+
+ARAC Tasking
+
+Final Regulation
+
+In General
+
+Contents
+
+Consultation
+
+Briefing
+
+Implementation
+
+In General
+
+Covered Aircraft Defined
+
+In General
+
+Components
+
+Reports
+
+Audits
+
+Implementation
+
+Briefing
+
+In General
+
+Considerations
+
+In General
+
+Areas of Testing and Demonstration
+
+Considerations
+
+Consultation
+
+Definitions
+
+High-speed aircraft
+
+Hypersonic
+
+Supersonic
+
+“A flight instructor, registered owner, lessor, or lessee of an aircraft shall not be required to obtain a letter of deviation authority from the Administrator of the Federal Aviation Administration to allow, conduct or receive flight training, checking, and testing in an experimental aircraft if—
+
+In General
+
+Applicability
+
+Determination
+
+Rulemaking Proceeding.—
+
+In general
+
+Contents of regulations
+
+Final Rule Deadline
+
+Surveillance and Audit Requirement
+
+Engagement With ICAO
+
+Safety Reporting Program
+
+Code of Ethics
+
+Authorization of Appropriations
+
+In General
+
+Deadline for Completion
+
+Briefing
+
+Consultation Requirement
+
+Recruitment and Retention.—
+
+Bargaining units
+
+Other employees
+
+Rule of construction
+
+Availability of appropriations
+
+In General
+
+Safety Reporting Program Requirements
+
+Outcomes
+
+Report Filing
+
+Integration With Other Safety Reporting Programs
+
+Report to Congress
+
+Administrator
+
+Advisory committee
+
+FAA
+
+Secretary
+
+Systems safety approach
+
+Establishment
+
+Duties
+
+Functions
+
+Membership.—
+
+In general
+
+Nonvoting members.—
+
+In general
+
+Duties
+
+Limitation
+
+Terms
+
+Committee characteristics
+
+Limitation on statutory construction
+
+Chairperson.—
+
+In general
+
+Term
+
+Meetings.—
+
+Frequency
+
+Public attendance
+
+Special Committees.—
+
+Establishment
+
+Rulemaking advice
+
+Applicable law
+
+Sunset
+
+Termination of Air Traffic Procedures Advisory Committee
+
+Establishment
+
+Data Entry Timing.—
+
+Existing documents
+
+New documents and changes
+
+Consultation Requirement
+
+Regulatory Guidance Documents Defined
+
+Establishment
+
+Consultation Requirement
+
+Membership
+
+Functions
+
+Performance Metrics, Timelines, and Goals
+
+In General
+
+Report
+
+International Travel
+
+E-learning Training Pilot Program
+
+Curriculum
+
+Pilot Program Termination
+
+E-learning Training Program
+
+Definitions
+
+Covered faa personnel
+
+E-learning training
+
+Update of FAA’s Safety Critical Staffing Model
+
+Audit by DOT Inspector General.—
+
+In general
+
+Contents
+
+Report on audit.—
+
+Report to secretary
+
+Report to congress
+
+In General
+
+Considerations
+
+Regular Review
+
+In General
+
+Consideration
+
+Study Required
+
+Study Contents
+
+Recommendations and Actions To Address General Aviation Safety
+
+Authority
+
+Report
+
+General Aviation Defined
+
+In General
+
+Duties
+
+Composition
+
+Considerations
+
+In General
+
+Disclaimer Required
+
+Rejection of Report.—
+
+In general
+
+Protections
+
+Aviation safety action program defined
+
+Modification of Final Rule.—
+
+In general
+
+Contents
+
+Fatigue Risk Management Plan.—
+
+Submission of plan by part 121 air carriers
+
+Contents of plan
+
+Review
+
+Plan updates.—
+
+In general
+
+Review
+
+Compliance
+
+Civil penalties
+
+In General
+
+Conditions To Ensure Public Safety
+
+Living History Flight Experience Provider Defined
+
+In General
+
+Covered Upgrade Defined
+
+Applicability
+
+Manual Surcharge
+
+Report
+
+In General
+
+Campaign Requirements
+
+Interagency Working Group.—
+
+Establishment
+
+Duties
+
+Update
+
+“Not later than 180 days after the date of enactment of this Act [ July 15, 2016 ], the Administrator of the Federal Aviation Administration shall—
+
+In General
+
+Conditions
+
+Report
+
+Definitions
+
+Applicant
+
+Certificate-holder
+
+FAA
+
+“Not later than September 30, 2024 , the Administrator of the Federal Aviation Administration shall make the following improvements:
+
+In General.—
+
+Definition
+
+Improvements
+
+Goals of Program
+
+Advice From Private Sector Groups
+
+Designation of Repository as Sole Source for NOTAMs.—
+
+In general
+
+Prohibition on taking action for violations of notams not in repository.—
+
+In general
+
+Exception for national security
+
+Establishment of Advisory Panel
+
+Matters To Be Considered
+
+Report to Congress
+
+In General
+
+Annual Report to Congress
+
+Flight Standards Evaluation Program Defined
+
+Reviews
+
+Monthly Team Reports.—
+
+In general
+
+Contents
+
+Biannual Reports to Congress
+
+In General
+
+Report
+
+Harmonization With ICAO Technical Instructions.—
+
+Adoption of icao instructions.—
+
+In general
+
+Further proceedings
+
+Review of other regulations
+
+Medical Device Batteries.—
+
+In general
+
+Limited exceptions to restrictions on air transportation of medical device batteries
+
+Medial
+
+device defined
+
+Savings clause
+
+Lithium Battery Safety Working Group.—
+
+In general
+
+Duties
+
+Members
+
+Subcommittees
+
+Report
+
+Termination
+
+Lithium Battery Air Safety Advisory Committee.—
+
+Establishment
+
+Duties
+
+Membership
+
+Report.—
+
+In general
+
+Independent statements
+
+Meetings.—
+
+In general
+
+Preparation for icao meetings
+
+Termination
+
+Termination of future of aviation advisory committee
+
+Cooperative Efforts to Ensure Compliance With Safety Regulations.—
+
+In general
+
+Cooperative efforts
+
+Reporting
+
+Packaging Improvements
+
+Department of Transportation Policy on International Representation.—
+
+In general
+
+Participation
+
+Definitions
+
+ICAO technical instructions
+
+U.S. hazardous materials regulations
+
+In General
+
+Exceptions.—
+
+Passenger carrying aircraft
+
+Credible reports
+
+ICAO Technical Instructions Defined
+
+Definitions
+
+Advanced qualification program
+
+Air carrier
+
+Aviation safety action program
+
+Flight crewmember
+
+Flight operational quality assurance program
+
+Line operations safety audit
+
+Part 121 air carrier
+
+Part 135 air carrier
+
+Establishment
+
+Composition
+
+Duties
+
+Report
+
+Termination
+
+Applicability of Chapter
+
+of Title
+
+, United States Code
+
+Review by DOT Inspector General
+
+Purposes
+
+Aviation Rulemaking Committee.—
+
+In general
+
+Compliance with sterile cockpit rule
+
+Streamlined program review.—
+
+In general
+
+Expedited approvals
+
+Rulemaking
+
+Study
+
+Report
+
+Rulemaking Proceedings.—
+
+Stall and upset recognition and recovery training
+
+Remedial training programs
+
+Deadlines
+
+Stick Pusher Training and Weather Event Training.—
+
+Multidisciplinary panel
+
+Report to congress and ntsb
+
+Definitions
+
+Flight training and flight simulator
+
+Stall
+
+Stick pusher
+
+Upset
+
+Completion of Rulemaking on Training Programs
+
+Expert Panel To Review Part
+
+and Part
+
+Training Hours.—
+
+Establishment
+
+Assessment and recommendations
+
+Best practices
+
+Report
+
+Flight and Duty Time Regulations.—
+
+In general
+
+Matters to be addressed
+
+Rulemaking
+
+Fatigue Risk Management Plan.—
+
+Submission of fatigue risk management plan by part 121 air carriers
+
+Contents of plan
+
+Review
+
+Plan updates.—
+
+In general
+
+Review
+
+Compliance
+
+Civil penalties
+
+Effect of Commuting on Fatigue.—
+
+In general
+
+Study
+
+Preliminary findings
+
+Report
+
+Rulemaking
+
+Report
+
+Contents
+
+Development and Implementation Plan
+
+Matters To Be Considered
+
+Report
+
+Deadline for Beginning Implementation of Plan
+
+Rulemaking
+
+Matters To Consider
+
+Deadlines
+
+Safety Management System Defined
+
+Requirements.—
+
+Rulemaking proceeding
+
+Minimum requirements.—
+
+Prospective flight crewmembers
+
+All flight crewmembers
+
+Deadlines
+
+Default
+
+Rulemaking Proceeding
+
+Minimum Requirements
+
+Flight Hours.—
+
+Numbers of flight hours
+
+Flight hours in difficult operational conditions
+
+Credit Toward Flight Hours
+
+Recommendations of Expert Panel
+
+Deadline
+
+Study.—
+
+In general
+
+Contents
+
+Report
+
+Sense of the House
+
+Workload of Inspectors.—
+
+Study by national academy of sciences
+
+Contents
+
+Report
+
+Report
+
+Required Contents
+
+Update
+
+In General
+
+Definition of Alaska Guide Pilot
+
+In General
+
+Format
+
+In General
+
+Form of Decision
+
+Contents
+
+Limitation
+
+Special Rule
+
+Liability of Air Carriers
+
+Liability of Individuals
+
+“In this title [see Tables for classification], the following definitions apply:
+
+Administrator
+
+FAA
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1185](https://www.govinfo.gov/link/statute/108/1185); [Pub. L. 103–429, § 6(55)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4385](https://www.govinfo.gov/link/statute/108/4385); [Pub. L. 106–181, title VII, § 714](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 161](https://www.govinfo.gov/link/statute/114/161); [Pub. L. 115–254, div. B, title II, § 242](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3258](https://www.govinfo.gov/link/statute/132/3258); [Pub. L. 118–63, title III, § 392](https://www.govinfo.gov/link/plaw/118/public/63), title VIII, § 822, May 16, 2024, [138 Stat. 1143](https://www.govinfo.gov/link/statute/138/1143), 1331.)*

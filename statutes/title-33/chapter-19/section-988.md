@@ -3,9 +3,10 @@ title: "Section 988 - Rates of charges or tolls"
 usc_title: 33
 usc_section: "988"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 988"
-generated_at: "2026-03-30T02:55:41.080Z"
+generated_at: "2026-11-23T21:26:11.354Z"
+status: "active"
 ---
 
 # § 988. Rates of charges or tolls
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:55:41.080Z"
   - **(2)** That rates shall vary according to the character of cargo with the view that each classification of cargo shall so far as practicable derive relative benefits from the use of these facilities.
   - **(3)** That the rates on vessels in ballast without passengers or cargo may be less than the rates for vessels with passengers or cargo.
   - **(4)** That the rates prescribed shall be calculated to cover, as nearly as practicable, all costs of operating and maintaining the works under the administration of the Corporation, including depreciation and payments in lieu of taxes.
+
+Study of financing navigational improvements
+
+Report
+
+Cost sharing
+
+## Source Credit
+
+*(May 13, 1954, ch. 201, § 12, [68 Stat. 96](https://www.govinfo.gov/link/statute/68/96); [Pub. L. 91–469, § 43(b)](https://www.govinfo.gov/link/plaw/91/public/469), Oct. 21, 1970, [84 Stat. 1038](https://www.govinfo.gov/link/statute/84/1038); [Pub. L. 95–91, title IV, § 402(a)(1)(B)](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 583](https://www.govinfo.gov/link/statute/91/583); [Pub. L. 97–369, title III, § 311](https://www.govinfo.gov/link/plaw/97/public/369), Dec. 18, 1982, [96 Stat. 1782](https://www.govinfo.gov/link/statute/96/1782); [Pub. L. 100–352, § 6(h)](https://www.govinfo.gov/link/plaw/100/public/352), June 27, 1988, [102 Stat. 664](https://www.govinfo.gov/link/statute/102/664).)*

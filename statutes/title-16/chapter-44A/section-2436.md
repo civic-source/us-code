@@ -3,9 +3,10 @@ title: "Section 2436 - Regulations"
 usc_title: 16
 usc_section: "2436"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2436"
-generated_at: "2026-03-30T02:54:23.002Z"
+generated_at: "2026-11-23T21:25:51.949Z"
+status: "active"
 ---
 
 # § 2436. Regulations
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:23.002Z"
     - **(B)** that is adopted by the Commission; and
     - **(C)** with respect to which the Secretary of State, 1 1 So in original. The comma probably should not appear. does not notify Commission 2 2 So in original. Probably should be preceded by “the”. in accordance with section 2434(a)(1) of this title within the time period allotted for objections under Article IX of the Convention.
   - **(2)** Upon publication of such regulation in the Federal Register, such conservation measure shall enter into force with respect to the United States.
+
+## Source Credit
+
+*([Pub. L. 98–623, title III, § 307](https://www.govinfo.gov/link/plaw/98/public/623), Nov. 8, 1984, [98 Stat. 3401](https://www.govinfo.gov/link/statute/98/3401); [Pub. L. 114–81, title I, § 106(2)](https://www.govinfo.gov/link/plaw/114/public/81), Nov. 5, 2015, [129 Stat. 658](https://www.govinfo.gov/link/statute/129/658).)*

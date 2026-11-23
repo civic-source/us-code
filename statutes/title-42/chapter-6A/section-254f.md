@@ -3,9 +3,10 @@ title: "Section 254f - Corps personnel"
 usc_title: 42
 usc_section: "254f"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 254f"
-generated_at: "2026-03-30T02:56:10.713Z"
+generated_at: "2026-11-23T21:26:30.350Z"
+status: "active"
 ---
 
 # § 254f. Corps personnel
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:56:10.713Z"
       - **(vi)** to assist in the planning and development of facilities for the delivery of primary health care; and
       - **(vii)** to assist in establishing the governing bodies of centers for the delivery of such care and to assist such bodies in defining and carrying out their responsibilities.
 - **(e)** Notwithstanding any other law, any member of the Corps licensed to practice medicine, osteopathic medicine, dentistry, or any other health profession in any State shall, while serving in the Corps, be allowed to practice such profession in any State.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 333, as added [Pub. L. 94–484, title IV, § 407(b)(3)](https://www.govinfo.gov/link/plaw/94/public/484), Oct. 12, 1976, [90 Stat. 2272](https://www.govinfo.gov/link/statute/90/2272); amended [Pub. L. 97–35, title XXVII, § 2703](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 904](https://www.govinfo.gov/link/statute/95/904); [Pub. L. 100–177, title III](https://www.govinfo.gov/link/plaw/100/public/177), §§ 303, 304, Dec. 1, 1987, [101 Stat. 1004](https://www.govinfo.gov/link/statute/101/1004); [Pub. L. 100–607, title VI, § 629(a)(2)](https://www.govinfo.gov/link/plaw/100/public/607), Nov. 4, 1988, [102 Stat. 3146](https://www.govinfo.gov/link/statute/102/3146); [Pub. L. 101–597, title I, § 103](https://www.govinfo.gov/link/plaw/101/public/597), title IV, § 401(b)[(a)], Nov. 16, 1990, [104 Stat. 3015](https://www.govinfo.gov/link/statute/104/3015), 3035; [Pub. L. 107–251, title III, § 303](https://www.govinfo.gov/link/plaw/107/public/251), Oct. 26, 2002, [116 Stat. 1645](https://www.govinfo.gov/link/statute/116/1645); [Pub. L. 108–163, § 2(g)](https://www.govinfo.gov/link/plaw/108/public/163), Dec. 6, 2003, [117 Stat. 2022](https://www.govinfo.gov/link/statute/117/2022); [Pub. L. 110–355, § 3(c)](https://www.govinfo.gov/link/plaw/110/public/355), Oct. 8, 2008, [122 Stat. 3993](https://www.govinfo.gov/link/statute/122/3993).)*

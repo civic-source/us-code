@@ -3,12 +3,17 @@ title: "Section 3515b - Prohibition on funding certain experiments involving hum
 usc_title: 42
 usc_section: "3515b"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3515b"
-generated_at: "2026-03-30T02:56:11.187Z"
+generated_at: "2026-11-23T21:26:32.567Z"
+status: "active"
 ---
 
 # § 3515b. Prohibition on funding certain experiments involving human participants
 
 None of the funds appropriated by this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts shall be used to pay for any research program or project or any program, project, or course which is of an experimental nature, or any other activity involving human participants, which is determined by the Secretary or a court of competent jurisdiction to present a danger to the physical, mental, or emotional well-being of a participant or subject of such program, project, or course, without the written, informed consent of each participant or subject, or a participant’s parents or legal guardian, if such participant or subject is under eighteen years of age. The Secretary shall adopt appropriate regulations respecting this section.
 
+
+## Source Credit
+
+*([Pub. L. 102–394, title II, § 211](https://www.govinfo.gov/link/plaw/102/public/394), Oct. 6, 1992, [106 Stat. 1812](https://www.govinfo.gov/link/statute/106/1812).)*

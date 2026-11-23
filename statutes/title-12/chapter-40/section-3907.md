@@ -3,9 +3,10 @@ title: "Section 3907 - Capital adequacy"
 usc_title: 12
 usc_section: "3907"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3907"
-generated_at: "2026-03-30T02:53:53.498Z"
+generated_at: "2026-11-23T21:25:37.154Z"
+status: "active"
 ---
 
 # § 3907. Capital adequacy
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:53.498Z"
     - **(A)** Each appropriate Federal banking agency may consider such banking institution’s progress in adhering to any plan required under this subsection whenever such banking institution, or an affiliate thereof, or the holding company which controls such banking institution, seeks the requisite approval of such appropriate Federal banking agency for any proposal which would divert earnings, diminish capital, or otherwise impede such banking institution’s progress in achieving its minimum capital level.
     - **(B)** Such appropriate Federal banking agency may deny such approval where it determines that such proposal would adversely affect the ability of the banking institution to comply with such plan.
     - **(C)** The Chairman of the Board of Governors of the Federal Reserve System and the Secretary of the Treasury shall encourage governments, central banks, and regulatory authorities of other major banking countries to work toward maintaining and, where appropriate, strengthening the capital bases of banking institutions involved in international lending.
+
+## Source Credit
+
+*([Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title IX, § 908], Nov. 30, 1983, [97 Stat. 1280](https://www.govinfo.gov/link/statute/97/1280); [Pub. L. 111–203, title VI, § 616(c)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1615](https://www.govinfo.gov/link/statute/124/1615).)*

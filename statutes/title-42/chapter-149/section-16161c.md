@@ -3,9 +3,10 @@ title: "Section 16161c - Clean hydrogen manufacturing and recycling"
 usc_title: 42
 usc_section: "16161c"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16161c"
-generated_at: "2026-03-30T02:56:11.471Z"
+generated_at: "2026-11-23T21:26:33.702Z"
+status: "active"
 ---
 
 # § 16161c. Clean hydrogen manufacturing and recycling
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.471Z"
     - **(F)** developing strategies to increase consumer acceptance of, and participation in, the recycling of fuel cells.
   - **(2)** The Secretary shall make available to the public and the relevant committees of Congress the results of the projects carried out through grants awarded, or contracts, cooperative agreements, or other agreements entered into, under paragraph (1), including any educational and outreach materials developed by the projects.
 - **(c)** There is authorized to be appropriated to the Secretary to carry out this section $500,000,000 for the period of fiscal years 2022 through 2026.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VIII, § 815](https://www.govinfo.gov/link/plaw/109/public/58), as added [Pub. L. 117–58, div. D, title III, § 40314(2)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1011](https://www.govinfo.gov/link/statute/135/1011).)*

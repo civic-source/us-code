@@ -3,9 +3,10 @@ title: "Section 20233 - Eligibility for consideration for promotion: designation
 usc_title: 10
 usc_section: "20233"
 chapter: 2005
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 20233"
-generated_at: "2026-03-30T02:53:38.281Z"
+generated_at: "2026-11-23T21:25:33.087Z"
+status: "active"
 ---
 
 # § 20233. Eligibility for consideration for promotion: designation as joint qualified officer required before promotion to brigadier general; exceptions
@@ -26,3 +27,21 @@ generated_at: "2026-03-30T02:53:38.281Z"
 - **(e)** The authority of the Secretary of Defense to grant a waiver under subsection (b)(4) may only be delegated as provided in section 619a(e) of this title .
 - **(f)** The Secretary of Defense shall prescribe regulations to carry out this section. The regulations shall specifically identify for purposes of subsection (b)(2) those categories of officers for which selection for promotion to brigadier general is based primarily upon scientific and technical qualifications for which joint requirements do not exist.
 - **(g)** Subsection (a) shall not apply to an officer who transfers to the Space Force from a reserve component before the first day of the sixth fiscal year beginning after the date of the enactment of this section, and who, as of the date of the transfer, is serving in the grade of major, lieutenant colonel, or colonel or, in the case of the Navy or Coast Guard, lieutenant commander, commander, or captain.
+
+General Rule
+
+Exceptions
+
+Waiver to Be Individual
+
+Special Rule for Good-of-the-service Waiver
+
+Limitation on Delegation of Waiver Authority
+
+Regulations
+
+Exemption
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVII, § 1716(c)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 642](https://www.govinfo.gov/link/statute/137/642).)*

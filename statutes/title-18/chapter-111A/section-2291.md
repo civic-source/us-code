@@ -3,9 +3,10 @@ title: "Section 2291 - Destruction of vessel or maritime facility"
 usc_title: 18
 usc_section: "2291"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2291"
-generated_at: "2026-03-30T02:54:16.501Z"
+generated_at: "2026-11-23T21:25:44.135Z"
+status: "active"
 ---
 
 # § 2291. Destruction of vessel or maritime facility
@@ -24,3 +25,17 @@ generated_at: "2026-03-30T02:54:16.501Z"
 - **(c)** Whoever is fined or imprisoned under subsection (a) as a result of an act involving a vessel that, at the time of the violation, carried high-level radioactive waste (as that term is defined in section 2(12) of the Nuclear Waste Policy Act of 1982 ( 42 U.S.C. 10101(12) ) 1 1 So in original. There probably should be an additional closing parenthesis. or spent nuclear fuel (as that term is defined in section 2(23) of the Nuclear Waste Policy Act of 1982 ( 42 U.S.C. 10101(23) ), 1 shall be fined under this title, imprisoned for a term up to life, or both.
 - **(d)** Whoever is convicted of any crime prohibited by subsection (a) and intended to cause death by the prohibited conduct, if the conduct resulted in the death of any person, shall be subject also to the death penalty or to a term of imprisonment for a period up to life.
 - **(e)** Whoever knowingly and intentionally imparts or conveys any threat to do an act which would violate this chapter, with an apparent determination and will to carry the threat into execution, shall be fined under this title or imprisoned not more than 5 years, or both, and is liable for all costs incurred as a result of such threat.
+
+Offense
+
+Limitation
+
+Penalty
+
+Penalty When Death Results
+
+Threats
+
+## Source Credit
+
+*(Added [Pub. L. 109–177, title III, § 306(a)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 237](https://www.govinfo.gov/link/statute/120/237).)*

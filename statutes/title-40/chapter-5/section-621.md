@@ -3,9 +3,10 @@ title: "Section 621 - Definitions"
 usc_title: 40
 usc_section: "621"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 621"
-generated_at: "2026-03-30T02:55:43.376Z"
+generated_at: "2026-11-23T21:26:14.832Z"
+status: "active"
 ---
 
 # § 621. Definitions
@@ -24,3 +25,25 @@ In this subchapter:
   - **(8)** The term “underutilized property” means a portion or the entirety of any real property, including any improvements, that is used—
     - **(A)** irregularly or intermittently by the accountable Federal agency for program purposes of the Federal agency; or
     - **(B)** for program purposes that can be satisfied only with a portion of the property.
+
+Administrator
+
+Council
+
+Director
+
+Federal agency
+
+Field office
+
+Postal property
+
+Public-private partnership
+
+Underutilized property
+
+“The purpose of this Act [see section 1 of Pub. L. 114–318 , set out as a Short Title of 2016 Amendment note under section 101 of this title ] is to increase the efficiency and effectiveness of the Federal Government in managing property of the Federal Government by—
+
+## Source Credit
+
+*(Added [Pub. L. 114–318, § 3(a)](https://www.govinfo.gov/link/plaw/114/public/318), Dec. 16, 2016, [130 Stat. 1608](https://www.govinfo.gov/link/statute/130/1608).)*

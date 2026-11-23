@@ -3,9 +3,10 @@ title: "Section 2812 - Indian Law and Order Commission"
 usc_title: 25
 usc_section: "2812"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2812"
-generated_at: "2026-03-30T02:54:52.845Z"
+generated_at: "2026-11-23T21:25:54.678Z"
+status: "active"
 ---
 
 # § 2812. Indian Law and Order Commission
@@ -100,3 +101,7 @@ generated_at: "2026-03-30T02:54:52.845Z"
 - **(k)** For the fiscal year after July 29, 2010 , out of any unobligated amounts available to the Secretary of the Interior or the Attorney General, the Secretary or the Attorney General may use to carry out this section not more than $2,000,000.
 - **(l)** The Commission shall terminate 90 days after the date on which the Commission submits the report of the Commission under subsection (f).
 - **(m)** Chapter 10 of title 5 shall not apply to the Commission.
+
+## Source Credit
+
+*([Pub. L. 101–379, § 15](https://www.govinfo.gov/link/plaw/101/public/379), as added [Pub. L. 111–211, title II, § 235](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2282](https://www.govinfo.gov/link/statute/124/2282); amended [Pub. L. 113–4, title IX, § 909(a)](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 126](https://www.govinfo.gov/link/statute/127/126); [Pub. L. 117–286, § 4(a)(183)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4326](https://www.govinfo.gov/link/statute/136/4326).)*

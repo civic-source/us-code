@@ -3,9 +3,10 @@ title: "Section 12405 - Technology transfer program"
 usc_title: 42
 usc_section: "12405"
 chapter: 128
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12405"
-generated_at: "2026-03-30T02:56:11.413Z"
+generated_at: "2026-11-23T21:26:33.476Z"
+status: "active"
 ---
 
 # § 12405. Technology transfer program
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.413Z"
     - **(B)** application of research progress by industry and aerospace;
     - **(C)** application of commercial capability of industry by aerospace; and
     - **(D)** expression of industrial needs to research organizations.
+
+## Source Credit
+
+*([Pub. L. 101–566, § 106](https://www.govinfo.gov/link/plaw/101/public/566), Nov. 15, 1990, [104 Stat. 2799](https://www.govinfo.gov/link/statute/104/2799); [Pub. L. 104–271, title I, § 105](https://www.govinfo.gov/link/plaw/104/public/271), Oct. 9, 1996, [110 Stat. 3306](https://www.govinfo.gov/link/statute/110/3306).)*

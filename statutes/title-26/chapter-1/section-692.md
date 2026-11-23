@@ -3,9 +3,10 @@ title: "Section 692 - Income taxes of members of Armed Forces, astronauts, and v
 usc_title: 26
 usc_section: "692"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 692"
-generated_at: "2026-03-30T02:55:27.725Z"
+generated_at: "2026-11-23T21:26:06.367Z"
+status: "active"
 ---
 
 # § 692. Income taxes of members of Armed Forces, astronauts, and victims of certain terrorist attacks on death
@@ -34,3 +35,19 @@ generated_at: "2026-03-30T02:55:27.725Z"
     - **(A)** who dies as a result of wounds or injury incurred as a result of the terrorist attacks against the United States on April 19, 1995 , or September 11, 2001 , or
     - **(B)** who dies as a result of illness incurred as a result of an attack involving anthrax occurring on or after September 11, 2001 , and before January 1, 2002 .
   - **(5)** The provisions of this subsection shall apply to any astronaut whose death occurs in the line of duty, except that paragraph (3)(B) shall be applied by using the date of the death of the astronaut rather than September 11, 2001 .
+
+Effective date
+
+Waiver of limitations
+
+In general
+
+Statute of limitations waived
+
+In general
+
+Statute of limitations waived
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 238; [Pub. L. 93–597, § 4(a)](https://www.govinfo.gov/link/plaw/93/public/597), Jan. 2, 1975, [88 Stat. 1952](https://www.govinfo.gov/link/statute/88/1952); [Pub. L. 94–455, title XIX, § 1901(a)(92)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1780](https://www.govinfo.gov/link/statute/90/1780); [Pub. L. 94–569, § 3(c)](https://www.govinfo.gov/link/plaw/94/public/569), Oct. 20, 1976, [90 Stat. 2699](https://www.govinfo.gov/link/statute/90/2699); [Pub. L. 97–448, title III, § 307(b)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2407](https://www.govinfo.gov/link/statute/96/2407); [Pub. L. 98–259, § 1(a)](https://www.govinfo.gov/link/plaw/98/public/259), Apr. 10, 1984, [98 Stat. 142](https://www.govinfo.gov/link/statute/98/142); [Pub. L. 98–369, div. A, title VII, § 722(g)(2)](https://www.govinfo.gov/link/plaw/98/public/369), (3), July 18, 1984, [98 Stat. 974](https://www.govinfo.gov/link/statute/98/974); [Pub. L. 99–514, title XVII, § 1708(a)(2)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2782](https://www.govinfo.gov/link/statute/100/2782); [Pub. L. 107–134, title I](https://www.govinfo.gov/link/plaw/107/public/134), §§ 101(a), (c)(1), 113(b), Jan. 23, 2002, [115 Stat. 2428](https://www.govinfo.gov/link/statute/115/2428), 2435; [Pub. L. 108–121, title I, § 110(a)(1)](https://www.govinfo.gov/link/plaw/108/public/121), (3)(A), Nov. 11, 2003, [117 Stat. 1342](https://www.govinfo.gov/link/statute/117/1342); [Pub. L. 113–295, div. A, title II, § 221(a)(67)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4048](https://www.govinfo.gov/link/statute/128/4048).)*

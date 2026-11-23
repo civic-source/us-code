@@ -3,9 +3,10 @@ title: "Section 8927 - Expanded broadcasting in countries of the former Soviet U
 usc_title: 22
 usc_section: "8927"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8927"
-generated_at: "2026-03-30T02:55:05.460Z"
+generated_at: "2026-11-23T21:25:58.761Z"
+status: "active"
 ---
 
 # § 8927. Expanded broadcasting in countries of the former Soviet Union
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.460Z"
 - **(e)**
   - **(1)** There are authorized to be appropriated to the Broadcasting Board of Governors $10,000,000 for each of fiscal years 2016 through 2018 to carry out activities under this section.
   - **(2)** Amounts authorized to be appropriated pursuant to paragraph (1) shall supplement and not supplant other amounts made available for activities described in this section.
+
+## Source Credit
+
+*([Pub. L. 113–272, § 8](https://www.govinfo.gov/link/plaw/113/public/272), Dec. 18, 2014, [128 Stat. 2964](https://www.govinfo.gov/link/statute/128/2964).)*

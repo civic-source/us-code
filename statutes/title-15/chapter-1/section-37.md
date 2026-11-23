@@ -3,9 +3,10 @@ title: "Section 37 - Immunity from antitrust laws"
 usc_title: 15
 usc_section: "37"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 37"
-generated_at: "2026-03-30T02:54:08.024Z"
+generated_at: "2026-11-23T21:25:39.475Z"
+status: "active"
 ---
 
 # § 37. Immunity from antitrust laws
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:54:08.024Z"
   - **(1)** in any filing by the donor with the Internal Revenue Service; or
   - **(2)** in any schedule, form, or written document provided by or on behalf of the donee to the donor;
 - **(d)** Subsections (a) and (b) shall not apply with respect to the enforcement of a State law similar to any of the antitrust laws, with respect to charitable gift annuities, or charitable remainder trusts, created after the State enacts a statute, not later than December 8, 1998 , that expressly provides that subsections (a) and (b) shall not apply with respect to such charitable gift annuities and such charitable remainder trusts.
+
+Study and Report
+
+Details of Study and Report
+
+Submission of Report
+
+## Source Credit
+
+*([Pub. L. 104–63, § 2](https://www.govinfo.gov/link/plaw/104/public/63), Dec. 8, 1995, [109 Stat. 687](https://www.govinfo.gov/link/statute/109/687); [Pub. L. 105–26, § 2(1)](https://www.govinfo.gov/link/plaw/105/public/26), July 3, 1997, [111 Stat. 241](https://www.govinfo.gov/link/statute/111/241).)*

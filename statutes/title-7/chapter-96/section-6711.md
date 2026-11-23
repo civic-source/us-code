@@ -3,9 +3,10 @@ title: "Section 6711 - Carbon cycle research"
 usc_title: 7
 usc_section: "6711"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6711"
-generated_at: "2026-03-30T02:53:42.434Z"
+generated_at: "2026-11-23T21:25:28.396Z"
+status: "active"
 ---
 
 # § 6711. Carbon cycle research
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:53:42.434Z"
   - **(3)** There are authorized to be appropriated such sums as are necessary to carry out this subsection for each of fiscal years 2002 through 2007.
 - **(f)** Not more than 3 percent of the funds made available for this section may be used by the Secretary to pay administrative costs incurred in carrying out this section.
 - **(g)** There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2007 through 2012.
+
+## Source Credit
+
+*([Pub. L. 106–224, title II, § 221](https://www.govinfo.gov/link/plaw/106/public/224), June 20, 2000, [114 Stat. 407](https://www.govinfo.gov/link/statute/114/407); [Pub. L. 107–171, title VII, § 7223](https://www.govinfo.gov/link/plaw/107/public/171), title IX, § 9009, May 13, 2002, [116 Stat. 454](https://www.govinfo.gov/link/statute/116/454), 483; [Pub. L. 110–234, title VII, § 7407](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1252](https://www.govinfo.gov/link/statute/122/1252); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7407, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2013.)*

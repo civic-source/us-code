@@ -3,9 +3,10 @@ title: "Section 1183 - Trustee"
 usc_title: 11
 usc_section: "1183"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1183"
-generated_at: "2026-03-30T02:53:53.885Z"
+generated_at: "2026-11-23T21:25:34.960Z"
+status: "active"
 ---
 
 # § 1183. Trustee
@@ -28,3 +29,17 @@ generated_at: "2026-03-30T02:53:53.885Z"
 - **(c)**
   - **(1)** If the plan of the debtor is confirmed under section 1191(a) of this title , the service of the trustee in the case shall terminate when the plan has been substantially consummated, except that the United States trustee may reappoint a trustee as needed for performance of duties under subsection (b)(3)(C) of this section and section 1185(a) of this title .
   - **(2)** Not later than 14 days after the plan of the debtor is substantially consummated, the debtor shall file with the court and serve on the trustee, the United States trustee, and all parties in interest notice of such substantial consummation.
+
+In General
+
+Duties
+
+Termination of Trustee Service.—
+
+In general
+
+Service of notice of substantial consummation
+
+## Source Credit
+
+*(Added [Pub. L. 116–54, § 2(a)](https://www.govinfo.gov/link/plaw/116/public/54), Aug. 23, 2019, [133 Stat. 1079](https://www.govinfo.gov/link/statute/133/1079); amended [Pub. L. 117–151, § 2(e)](https://www.govinfo.gov/link/plaw/117/public/151), June 21, 2022, [136 Stat. 1299](https://www.govinfo.gov/link/statute/136/1299).)*

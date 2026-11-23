@@ -3,9 +3,10 @@ title: "Section 3521 - Audits by agencies"
 usc_title: 31
 usc_section: "3521"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 3521"
-generated_at: "2026-03-30T02:55:34.057Z"
+generated_at: "2026-11-23T21:26:10.578Z"
+status: "active"
 ---
 
 # § 3521. Audits by agencies
@@ -32,3 +33,58 @@ generated_at: "2026-03-30T02:55:34.057Z"
   - **(2)** Any executive agency (or component thereof) that prepares a financial statement under section 3515 for a fiscal year beginning on or after October 1, 2009 , and that requests, with the concurrence of the Inspector General of such agency, the Government Accountability Office to conduct the audit of such statement or any related schedule required by section 3521 may reimburse the Government Accountability Office for the cost of such audit.
   - **(3)** For the audits conducted under paragraphs (1) and (2), the Government Accountability Office shall consult prior to the initiation of the audit with the relevant executive agency (or component) and the Inspector General of such agency on the scope, terms, and cost of such audit.
   - **(4)** Any reimbursement under paragraph (1) or (2) shall be deposited to a special account in the Treasury and shall be available to the Government Accountability Office for such purposes and in such amounts as are specified in annual appropriations Acts.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3521(a) | 31:44(1st sentence). | June 10, 1921, ch. 18, § 304 (1st par. 1st sentence), 42 Stat. 24 . |
+|  | 31:65b. | Sept. 12, 1950, ch. 946, § 119 , 64 Stat. 838 . |
+|  | 31:75, 41:21. | July 31, 1894, ch. 174, § 22 , 28 Stat. 210 . |
+|  | 31:82. | Aug. 23, 1912, ch. 350, § 1 (last par. under heading “Office of the Comptroller of the Treasury”), 37 Stat. 375 . |
+| 3521(b) | 31:82b–1(a)(1st sentence words before semicolon, last sentence). | Aug. 30, 1964 , Pub. L. 88–521 , 78 Stat. 700 ; Jan. 2, 1975 , Pub. L. 93–604, § 101 , 88 Stat. 1959 . |
+| 3521(c) | 31:82b–1(a)(1st sentence words after semicolon). |  |
+| 3521(d) | 31:82b–1(b). |  |
+
+
+Historical and Revision Notes
+
+3521(a)
+
+June 10, 1921, ch. 18, § 304
+
+42 Stat. 24
+
+Sept. 12, 1950, ch. 946, § 119
+
+64 Stat. 838
+
+July 31, 1894, ch. 174, § 22
+
+28 Stat. 210
+
+Aug. 23, 1912, ch. 350, § 1
+
+37 Stat. 375
+
+3521(b)
+
+Aug. 30, 1964
+
+Pub. L. 88–521
+
+78 Stat. 700
+
+Jan. 2, 1975
+
+Pub. L. 93–604, § 101
+
+88 Stat. 1959
+
+3521(c)
+
+3521(d)
+
+“Subject to section 3521(g) of title 31 , United States Code—
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 961](https://www.govinfo.gov/link/statute/96/961); [Pub. L. 101–576, title III, § 304(a)](https://www.govinfo.gov/link/plaw/101/public/576), Nov. 15, 1990, [104 Stat. 2852](https://www.govinfo.gov/link/statute/104/2852); [Pub. L. 103–356, title IV, § 405(b)](https://www.govinfo.gov/link/plaw/103/public/356), Oct. 13, 1994, [108 Stat. 3416](https://www.govinfo.gov/link/statute/108/3416); [Pub. L. 104–208, div. A, title I, § 101(f) [title VIII, § 805(a)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–314](https://www.govinfo.gov/link/statute/110/3009), 3009–392; [Pub. L. 106–531, § 4(b)](https://www.govinfo.gov/link/plaw/106/public/531), Nov. 22, 2000, [114 Stat. 2539](https://www.govinfo.gov/link/statute/114/2539); [Pub. L. 110–323, § 6(a)](https://www.govinfo.gov/link/plaw/110/public/323), Sept. 22, 2008, [122 Stat. 3547](https://www.govinfo.gov/link/statute/122/3547); [Pub. L. 117–286, § 4(b)(55)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4349](https://www.govinfo.gov/link/statute/136/4349).)*

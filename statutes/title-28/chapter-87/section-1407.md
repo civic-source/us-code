@@ -3,9 +3,10 @@ title: "Section 1407 - Multidistrict litigation"
 usc_title: 28
 usc_section: "1407"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1407"
-generated_at: "2026-03-30T02:55:30.140Z"
+generated_at: "2026-11-23T21:26:01.089Z"
+status: "active"
 ---
 
 # § 1407. Multidistrict litigation
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:30.140Z"
 - **(e)** No proceedings for review of any order of the panel may be permitted except by extraordinary writ pursuant to the provisions of title 28, section 1651, United States Code. Petitions for an extraordinary writ to review an order of the panel to set a transfer hearing and other orders of the panel issued prior to the order either directing or denying transfer shall be filed only in the court of appeals having jurisdiction over the district in which a hearing is to be or has been held. Petitions for an extraordinary writ to review an order to transfer or orders subsequent to transfer shall be filed only in the court of appeals having jurisdiction over the transferee district. There shall be no appeal or review of an order of the panel denying a motion to transfer for consolidated or coordinated proceedings.
 - **(f)** The panel may prescribe rules for the conduct of its business not inconsistent with Acts of Congress and the Federal Rules of Civil Procedure.
 - **(g)** Nothing in this section shall apply to any action in which the United States or a State is a complainant arising under the antitrust laws. “Antitrust laws” as used herein include those acts referred to in the Act of October 15, 1914 , as amended ( 38 Stat. 730 ; 15 U.S.C. 12 ), and also include the Act of June 19, 1936 ( 49 Stat. 1526 ; 15 U.S.C. 13 , 13a, and 13b) and the Act of September 26, 1914 , as added March 21, 1938 ( 52 Stat. 116 , 117; 15 U.S.C. 56 ).
+
+## Source Credit
+
+*(Added [Pub. L. 90–296, § 1](https://www.govinfo.gov/link/plaw/90/public/296), Apr. 29, 1968, [82 Stat. 109](https://www.govinfo.gov/link/statute/82/109); amended [Pub. L. 94–435, title III, § 303](https://www.govinfo.gov/link/plaw/94/public/435), Sept. 30, 1976, [90 Stat. 1396](https://www.govinfo.gov/link/statute/90/1396); [Pub. L. 117–328, div. GG, title III, § 301](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5970](https://www.govinfo.gov/link/statute/136/5970).)*

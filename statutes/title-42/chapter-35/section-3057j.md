@@ -3,9 +3,10 @@ title: "Section 3057j - Application"
 usc_title: 42
 usc_section: "3057j"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3057j"
-generated_at: "2026-03-30T02:56:11.179Z"
+generated_at: "2026-11-23T21:26:32.520Z"
+status: "active"
 ---
 
 # § 3057j. Application
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.179Z"
   - **(2)** provide to the extent practicable technical assistance to the nonprofit private organization to overcome such stated objections; and
   - **(3)** provide the organization with a hearing under such rules and regulations as the Assistant Secretary may prescribe.
 - **(d)** Whenever the Assistant Secretary approves an application of a nonprofit private or public organization under this part funds shall be awarded for not less than 12 months.
+
+## Source Credit
+
+*([Pub. L. 89–73, title VI, § 624](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 100–175, title I, § 171](https://www.govinfo.gov/link/plaw/100/public/175), Nov. 29, 1987, [101 Stat. 962](https://www.govinfo.gov/link/statute/101/962); amended [Pub. L. 102–375, title I, § 102(b)(4)](https://www.govinfo.gov/link/plaw/102/public/375), title VI, § 603, Sept. 30, 1992, [106 Stat. 1201](https://www.govinfo.gov/link/statute/106/1201), 1270; [Pub. L. 103–171, § 3(a)(13)](https://www.govinfo.gov/link/plaw/103/public/171), Dec. 2, 1993, [107 Stat. 1990](https://www.govinfo.gov/link/statute/107/1990).)*

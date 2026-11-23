@@ -3,9 +3,10 @@ title: "Section 2342 - Cooperative program on research, development, and demonst
 usc_title: 50
 usc_section: "2342"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2342"
-generated_at: "2026-03-30T02:56:26.220Z"
+generated_at: "2026-11-23T21:26:38.964Z"
+status: "active"
 ---
 
 # § 2342. Cooperative program on research, development, and demonstration of technology regarding nuclear or radiological terrorism
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:26.220Z"
   - **(1)** the Secretary of Defense, Secretary of State, and Secretary of Commerce; and
   - **(2)** the International Atomic Energy Agency.
 - **(d)** Of the amount authorized to be appropriated by section 3101(a)(2) 1 1 See References in Text note below. for the Department of Energy for the National Nuclear Security Administration for defense nuclear nonproliferation, up to $15,000,000 may be available for carrying out this section.
+
+## Source Credit
+
+*([Pub. L. 107–314, div. C, title XXXI, § 3155](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2739](https://www.govinfo.gov/link/statute/116/2739).)*

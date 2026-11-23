@@ -3,9 +3,10 @@ title: "Section 5492 - Executive and administrative powers"
 usc_title: 12
 usc_section: "5492"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5492"
-generated_at: "2026-03-30T02:53:53.542Z"
+generated_at: "2026-11-23T21:25:37.273Z"
+status: "active"
 ---
 
 # § 5492. Executive and administrative powers
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:53.542Z"
   - **(3)** No rule or order of the Bureau shall be subject to approval or review by the Board of Governors. The Board of Governors may not delay or prevent the issuance of any rule or order of the Bureau.
   - **(4)** No officer or agency of the United States shall have any authority to require the Director or any other officer of the Bureau to submit legislative recommendations, or testimony or comments on legislation, to any officer or agency of the United States for approval, comments, or review prior to the submission of such recommendations, testimony, or comments to the Congress, if such recommendations, testimony, or comments to the Congress include a statement indicating that the views expressed therein are those of the Director or such officer, and do not necessarily reflect the views of the Board of Governors or the President.
   - **(5)** The Bureau shall not be liable under any provision of law for any action or inaction of the Board of Governors, and the Board of Governors shall not be liable under any provision of law for any action or inaction of the Bureau.
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1012](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1965](https://www.govinfo.gov/link/statute/124/1965).)*

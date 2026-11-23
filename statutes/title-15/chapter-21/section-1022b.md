@@ -3,12 +3,17 @@ title: "Section 1022b - Presentation of analysis respecting short-term and mediu
 usc_title: 15
 usc_section: "1022b"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1022b"
-generated_at: "2026-03-30T02:54:08.124Z"
+generated_at: "2026-11-23T21:25:39.774Z"
+status: "active"
 ---
 
 # § 1022b. Presentation of analysis respecting short-term and medium-term goals in Economic Report of President; mutually reinforcing means
 
 - **(a)** To aid in determining the short-term and medium-term goals for employment, production, real income, and prices, analysis shall be presented in the Economic Report with respect to major aspects of the appropriate composition or structure of each goal, and as to the appropriate apportionment of total national production among its major components (private investment, consumer expenditures, and public outlays) as affected by relative income flows and other factors, in order to promote balanced growth and a balanced Federal budget, reduce cyclical disturbances, and achieve the other purposes of this chapter and the Full Employment and Balanced Growth Act of 1978 [ 15 U.S.C. 3101 et seq.].
 - **(b)** In choosing means to achieve the goal for the reduction of unemployment and choosing means to achieve the goal of reasonable price stability, those means which are mutually reinforcing shall be used to the extent practicable.
+
+## Source Credit
+
+*(Feb. 20, 1946, ch. 33, § 5, as added [Pub. L. 95–523, title I, § 105](https://www.govinfo.gov/link/plaw/95/public/523), Oct. 27, 1978, [92 Stat. 1895](https://www.govinfo.gov/link/statute/92/1895).)*

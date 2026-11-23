@@ -3,9 +3,10 @@ title: "Section 7603 - Prescriber verification"
 usc_title: 15
 usc_section: "7603"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7603"
-generated_at: "2026-03-30T02:54:08.224Z"
+generated_at: "2026-11-23T21:25:40.064Z"
+status: "active"
 ---
 
 # § 7603. Prescriber verification
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:08.224Z"
 - **(e)** If a prescriber informs a seller before the deadline under subsection (d)(3) that the contact lens prescription is inaccurate, expired, or otherwise invalid, the seller shall not fill the prescription. The prescriber shall specify the basis for the inaccuracy or invalidity of the prescription. If the prescription communicated by the seller to the prescriber is inaccurate, the prescriber shall correct it.
 - **(f)** A seller may not alter a contact lens prescription. Notwithstanding the preceding sentence, if the same contact lens is manufactured by the same company and sold under multiple labels to individual providers, the seller may fill the prescription with a contact lens manufactured by that company under another label.
 - **(g)** As used in this section, the term “direct communication” includes communication by telephone, facsimile, or electronic mail.
+
+## Source Credit
+
+*([Pub. L. 108–164, § 4](https://www.govinfo.gov/link/plaw/108/public/164), Dec. 6, 2003, [117 Stat. 2024](https://www.govinfo.gov/link/statute/117/2024).)*

@@ -3,9 +3,10 @@ title: "Section 3531 - Sexual assault and sexual harassment within the Agency"
 usc_title: 50
 usc_section: "3531"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3531"
-generated_at: "2026-03-30T02:56:26.256Z"
+generated_at: "2026-11-23T21:26:39.061Z"
+status: "active"
 ---
 
 # § 3531. Sexual assault and sexual harassment within the Agency
@@ -65,3 +66,15 @@ generated_at: "2026-03-30T02:56:26.256Z"
   - **(2)** In this subsection, the term “appropriate congressional committees” means—
     - **(A)** the Select Committee on Intelligence and the Subcommittee on Defense of the Committee on Appropriations of the Senate; and
     - **(B)** the Permanent Select Committee on Intelligence and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives.
+
+Sense of Congress
+
+Deadline for implementation
+
+Report
+
+Appropriate congressional committees defined
+
+## Source Credit
+
+*(June 20, 1949, ch. 227, § 30, as added [Pub. L. 118–31, div. G, title III, § 7339(b)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1052](https://www.govinfo.gov/link/statute/137/1052); amended [Pub. L. 119–60, div. F, title LXV, § 6503](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1627](https://www.govinfo.gov/link/statute/139/1627).)*

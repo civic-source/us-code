@@ -3,9 +3,10 @@ title: "Section 2192 - Improvement of education in technical fields: general aut
 usc_title: 10
 usc_section: "2192"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2192"
-generated_at: "2026-03-30T02:53:38.147Z"
+generated_at: "2026-11-23T21:25:32.567Z"
+status: "active"
 ---
 
 # § 2192. Improvement of education in technical fields: general authority regarding education in science, mathematics, and engineering
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:38.147Z"
     - **(A)** The term “eligible entity” includes a department or agency of the Federal Government, a State, a political subdivision of a State, an individual, and a not-for-profit or other organization in the private sector.
     - **(B)** The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, American Samoa, and any other territory or possession of the United States.
 - **(c)** The Secretary shall designate an individual within the Office of the Secretary of Defense to advise and assist the Secretary regarding matters relating to science, mathematics, and engineering education and training.
+
+## Source Credit
+
+*(Added [Pub. L. 101–510, div. A, title II, § 247(a)(1)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1521](https://www.govinfo.gov/link/statute/104/1521); amended [Pub. L. 106–65, div. A, title V, § 580(d)(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 633](https://www.govinfo.gov/link/statute/113/633); [Pub. L. 108–136, div. A, title II, § 233](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1423](https://www.govinfo.gov/link/statute/117/1423); [Pub. L. 111–383, div. A, title II, § 211(a)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4162](https://www.govinfo.gov/link/statute/124/4162).)*

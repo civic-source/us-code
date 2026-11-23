@@ -3,9 +3,10 @@ title: "Section 1141 - College access challenge grant program"
 usc_title: 20
 usc_section: "1141"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1141"
-generated_at: "2026-03-30T02:54:48.149Z"
+generated_at: "2026-11-23T21:25:47.260Z"
+status: "active"
 ---
 
 # § 1141. College access challenge grant program
@@ -107,3 +108,7 @@ generated_at: "2026-03-30T02:54:48.149Z"
   - **(3)** The term “grantee” means—
     - **(A)** a State awarded a grant under this section; or
     - **(B)** with respect to such a State that has failed to meet the non-Federal share requirement of subsection (b), a philanthropic organization awarded the proportionate reduction amount of such a grant under subsection (b)(3).
+
+## Source Credit
+
+*([Pub. L. 89–329, title VII, § 781](https://www.govinfo.gov/link/plaw/89/public/329), formerly § 771, as added [Pub. L. 110–84, title VIII, § 801](https://www.govinfo.gov/link/plaw/110/public/84), Sept. 27, 2007, [121 Stat. 812](https://www.govinfo.gov/link/statute/121/812); renumbered § 781 and amended [Pub. L. 110–315, title VII](https://www.govinfo.gov/link/plaw/110/public/315), §§ 709(1), 710, Aug. 14, 2008, [122 Stat. 3361](https://www.govinfo.gov/link/statute/122/3361), 3377; [Pub. L. 111–39, title VII, § 701(6)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1955](https://www.govinfo.gov/link/statute/123/1955); [Pub. L. 111–152, title II, § 2102](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1073](https://www.govinfo.gov/link/statute/124/1073).)*

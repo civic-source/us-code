@@ -3,9 +3,10 @@ title: "Section 11106 - Wages on justifiable complaint of seamen"
 usc_title: 46
 usc_section: "11106"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 11106"
-generated_at: "2026-03-30T02:56:15.555Z"
+generated_at: "2026-11-23T21:26:37.121Z"
+status: "active"
 ---
 
 # § 11106. Wages on justifiable complaint of seamen
@@ -14,3 +15,19 @@ generated_at: "2026-03-30T02:56:15.555Z"
 - **(b)** When a vessel does not have sufficient provisions for the intended voyage, and the seaman has been forced to accept a reduced ration or provisions that are bad in quality or unfit for use, the seaman is entitled to recover from the master or owner an allowance, as additional wages, that the court hearing the case considers reasonable.
 - **(c)** Subsection (b) of this section does not apply when the reduction in rations was for a period during which the seaman willfully and without sufficient cause failed to perform duties or was lawfully under confinement on board or on shore for misconduct, unless that reduction can be shown to have been unreasonable.
 - **(d)** Subsection (b) of this section does not apply to a fishing or whaling vessel or a yacht.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 11106(a) | 46:685 |
+| 11106(b)–(d) | 46:665 |
+
+
+Historical and Revision Notes
+
+11106(a)
+
+11106(b)–(d)
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 579](https://www.govinfo.gov/link/statute/97/579).)*

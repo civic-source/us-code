@@ -3,9 +3,10 @@ title: "Section 3203 - Adoption of certain standards"
 usc_title: 15
 usc_section: "3203"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3203"
-generated_at: "2026-03-30T02:54:08.187Z"
+generated_at: "2026-11-23T21:25:39.965Z"
+status: "active"
 ---
 
 # § 3203. Adoption of certain standards
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:08.187Z"
 - **(d)** If a State regulatory authority implements a standard established by subsection (b)(3) or (4), such authority shall—
   - **(1)** consider the impact that implementation of such standard would have on small businesses engaged in the design, sale, supply, installation, or servicing of energy conservation, energy efficiency, or other demand-side management measures, and
   - **(2)** implement such standard so as to assure that utility actions would not provide such utilities with unfair competitive advantages over such small businesses.
+
+## Source Credit
+
+*([Pub. L. 95–617, title III, § 303](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3150](https://www.govinfo.gov/link/statute/92/3150); [Pub. L. 102–486, title I, § 115(b)](https://www.govinfo.gov/link/plaw/102/public/486) –(d), Oct. 24, 1992, [106 Stat. 2803](https://www.govinfo.gov/link/statute/106/2803), 2804; [Pub. L. 110–140, title V, § 532(b)](https://www.govinfo.gov/link/plaw/110/public/140), (c), Dec. 19, 2007, [121 Stat. 1666](https://www.govinfo.gov/link/statute/121/1666), 1667.)*

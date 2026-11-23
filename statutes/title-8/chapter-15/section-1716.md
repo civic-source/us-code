@@ -3,9 +3,10 @@ title: "Section 1716 - State Border Security Reinforcement Fund"
 usc_title: 8
 usc_section: "1716"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1716"
-generated_at: "2026-03-30T02:53:10.507Z"
+generated_at: "2026-11-23T21:25:25.215Z"
+status: "active"
 ---
 
 # § 1716. State Border Security Reinforcement Fund
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:10.507Z"
   - **(4)** The Secretary of Homeland Security may provide grants from the fund established by paragraph (1) to State agencies and units of local governments for expenditures made for completed, ongoing, or new activities, in accordance with law, that occurred on or after January 20, 2021 .
   - **(5)** Each State desiring to apply for a grant under this subsection shall submit an application to the Secretary containing such information in support of the application as the Secretary may require. The Secretary shall require that each State include in its application the purposes for which the State seeks the funds and a description of how the State plans to allocate the funds. The Secretary shall begin to accept applications not later than 90 days after July 4, 2025 .
   - **(6)** Nothing in this subsection shall authorize any State or local government to exercise immigration or border security authorities reserved exclusively to the Federal Government under the Immigration and Nationality Act ( 8 U.S.C. 1101 et seq.) or the Homeland Security Act of 2002 ( 6 U.S.C. 101 et seq.). The Federal Emergency Management Agency may use not more than 1 percent of the funds made available under this subsection for the purpose of administering grants provided for in this section.
+
+## Source Credit
+
+*([Pub. L. 119–21, title IX, § 90005(b)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 360](https://www.govinfo.gov/link/statute/139/360).)*

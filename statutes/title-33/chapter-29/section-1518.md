@@ -3,9 +3,10 @@ title: "Section 1518 - Relationship to other laws"
 usc_title: 33
 usc_section: "1518"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1518"
-generated_at: "2026-03-30T02:55:41.109Z"
+generated_at: "2026-11-23T21:26:11.410Z"
+status: "active"
 ---
 
 # § 1518. Relationship to other laws
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:41.109Z"
   - **(3)** For purposes of paragraph (2)(A)(ii) of this subsection, a licensee shall not be obliged to prohibit a call at or use of a deepwater port by a vessel registered in or flying the flag of an objecting state unless the licensee has been informed by the Secretary of State as required by subsection (a)(3) of this section.
 - **(d)** The customs laws administered by the Secretary of the Treasury shall not apply to any deepwater port licensed under this chapter, but all foreign articles to be used in the construction of any such deepwater port, including any component thereof, shall first be made subject to all applicable duties and taxes which would be imposed upon or by reason of their importation if they were imported for consumption in the United States. Duties and taxes shall be paid thereon in accordance with laws applicable to merchandise imported into the customs territory of the United States.
 - **(e)** The United States district courts shall have original jurisdiction of cases and controversies arising out of or in connection with the construction and operation of deepwater ports, and proceedings with respect to any such case or controversy may be instituted in the judicial district in which any defendant resides or may be found, or in the judicial district of the adjacent coastal State nearest the place where the cause of action arose.
+
+## Source Credit
+
+*([Pub. L. 93–627, § 19(a)](https://www.govinfo.gov/link/plaw/93/public/627) –(e), Jan. 3, 1975, [88 Stat. 2145](https://www.govinfo.gov/link/statute/88/2145), 2146; [Pub. L. 98–419, § 5(a)](https://www.govinfo.gov/link/plaw/98/public/419), (b), Sept. 25, 1984, [98 Stat. 1609](https://www.govinfo.gov/link/statute/98/1609).)*

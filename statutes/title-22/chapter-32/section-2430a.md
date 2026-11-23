@@ -3,9 +3,10 @@ title: "Section 2430a - Definitions"
 usc_title: 22
 usc_section: "2430a"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2430a"
-generated_at: "2026-03-30T02:55:05.366Z"
+generated_at: "2026-11-23T21:25:58.493Z"
+status: "active"
 ---
 
 # § 2430a. Definitions
@@ -20,3 +21,7 @@ For purposes of this subchapter—
   - **(6)** the term “eligible country” means a country designated by the President in accordance with section 2430b of this title ;
   - **(7)** the term “Enterprise for the Americas Board” or “Board” means the board established by section 1738i of title 7 ; and
   - **(8)** the term “Facility” means the Enterprise for the Americas Facility established in the Department of the Treasury by section 1738 of title 7 .
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. IV, § 702, as added [Pub. L. 102–549, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/102/public/549), Oct. 28, 1992, [106 Stat. 3664](https://www.govinfo.gov/link/statute/106/3664); amended [Pub. L. 110–246, title III, § 3001(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/246), (2)(Q), June 18, 2008, [122 Stat. 1820](https://www.govinfo.gov/link/statute/122/1820).)*

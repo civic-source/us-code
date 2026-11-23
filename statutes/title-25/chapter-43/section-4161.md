@@ -3,9 +3,10 @@ title: "Section 4161 - Remedies for noncompliance"
 usc_title: 25
 usc_section: "4161"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4161"
-generated_at: "2026-03-30T02:54:52.860Z"
+generated_at: "2026-11-23T21:25:54.709Z"
+status: "active"
 ---
 
 # § 4161. Remedies for noncompliance
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:54:52.860Z"
         - **(I)** such modified or new findings, which findings with respect to questions of fact shall be conclusive if supported by substantial evidence on the record considered as a whole; and
         - **(II)** the recommendation of the Secretary, if any, for the modification or setting aside of the original action of the Secretary.
   - **(4)** Upon the filing of the record with the court, the jurisdiction of the court shall be exclusive and its judgment shall be final, except that such judgment shall be subject to review by the Supreme Court of the United States upon writ of certiorari or certification as provided in section 1254 of title 28 .
+
+## Source Credit
+
+*([Pub. L. 104–330, title IV, § 401](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4037](https://www.govinfo.gov/link/statute/110/4037); [Pub. L. 106–568, title X, § 1003(h)](https://www.govinfo.gov/link/plaw/106/public/568), (i), Dec. 27, 2000, [114 Stat. 2928](https://www.govinfo.gov/link/statute/114/2928), 2929; [Pub. L. 106–569, title V, § 503(g)](https://www.govinfo.gov/link/plaw/106/public/569), (h), Dec. 27, 2000, [114 Stat. 2964](https://www.govinfo.gov/link/statute/114/2964), 2965; [Pub. L. 110–411, title IV, § 401](https://www.govinfo.gov/link/plaw/110/public/411), Oct. 14, 2008, [122 Stat. 4330](https://www.govinfo.gov/link/statute/122/4330).)*

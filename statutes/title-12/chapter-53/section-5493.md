@@ -3,9 +3,10 @@ title: "Section 5493 - Administration"
 usc_title: 12
 usc_section: "5493"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5493"
-generated_at: "2026-03-30T02:53:53.542Z"
+generated_at: "2026-11-23T21:25:37.274Z"
+status: "active"
 ---
 
 # § 5493. Administration
@@ -124,3 +125,7 @@ generated_at: "2026-03-30T02:53:53.542Z"
     - **(E)** coordinate consumer protection efforts of seniors with other Federal agencies and State regulators, as appropriate, to promote consistent, effective, and efficient enforcement; and
     - **(F)** work with community organizations, non-profit organizations, and other entities that are involved with educating or assisting seniors (including the National Education and Resource Center on Women and Retirement Planning).
 - **(h)** Notwithstanding any provision of chapter 10 of title 5, such chapter shall apply to each advisory committee of the Bureau and each subcommittee of such an advisory committee.
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1013](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1966](https://www.govinfo.gov/link/statute/124/1966); [Pub. L. 114–113, div. O, title VII, § 704](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3025](https://www.govinfo.gov/link/statute/129/3025); [Pub. L. 117–286, § 4(a)(59)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4311](https://www.govinfo.gov/link/statute/136/4311).)*

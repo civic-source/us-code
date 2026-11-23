@@ -3,9 +3,10 @@ title: "Section 747 - Equipment and training standards"
 usc_title: 6
 usc_section: "747"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 747"
-generated_at: "2026-03-30T02:53:09.499Z"
+generated_at: "2026-11-23T21:25:25.843Z"
+status: "active"
 ---
 
 # § 747. Equipment and training standards
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:09.499Z"
   - **(1)** support the development, promulgation, and regular updating, as necessary, of national voluntary consensus standards for training; and
   - **(2)** ensure that the training provided under the national training program is consistent with the standards.
 - **(c)** In carrying out this section, the Administrator shall consult with representatives of relevant public and private sector national voluntary consensus standards development organizations.
+
+## Source Credit
+
+*([Pub. L. 109–295, title VI, § 647](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1426](https://www.govinfo.gov/link/statute/120/1426).)*

@@ -3,9 +3,10 @@ title: "Section 226 - Cooperative public and private sector program for providin
 usc_title: 20
 usc_section: "226"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 226"
-generated_at: "2026-03-30T02:54:48.084Z"
+generated_at: "2026-11-23T21:25:46.957Z"
+status: "active"
 ---
 
 # § 226. Cooperative public and private sector program for providing scholarships to students from the Caribbean and Central America
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:48.084Z"
     - **(A)** which is receiving assistance under chapter 1 of part I of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2151 and following; relating to development assistance) or chapter 4 of part II of that Act ( 22 U.S.C. 2346 and following; relating to the economic support fund); and
     - **(B)** which is designated by the President as a beneficiary country pursuant to the Caribbean Basin Economic Recovery Act [ 19 U.S.C. 2701 et seq.].
   - **(2)** The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
+
+## Source Credit
+
+*([Pub. L. 101–382, title II, § 231](https://www.govinfo.gov/link/plaw/101/public/382), Aug. 20, 1990, [104 Stat. 661](https://www.govinfo.gov/link/statute/104/661).)*

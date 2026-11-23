@@ -3,9 +3,10 @@ title: "Section 164 - Penalty for failure to make reports"
 usc_title: 12
 usc_section: "164"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 164"
-generated_at: "2026-03-30T02:53:53.374Z"
+generated_at: "2026-11-23T21:25:36.771Z"
+status: "active"
 ---
 
 # § 164. Penalty for failure to make reports
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:53.374Z"
 - **(c)** Notwithstanding subsections (a) and (b), if any association knowingly or with reckless disregard for the accuracy of any information or report described in subsection (b) submits or publishes any false or misleading report or information, the Comptroller may assess a penalty of not more than $1,000,000 or 1 percent of total assets of the association, whichever is less, per day for each day during which such failure continues or such false or misleading information is not corrected.
 - **(d)** Any penalty imposed under subsection (a), (b), or (c) shall be assessed and collected by the Comptroller of the Currency in the manner provided in subparagraphs (E), (F), (G), and (I) of section 1818(i)(2) of this title (for penalties imposed under such section) and any such assessment (including the determination of the amount of the penalty) shall be subject to the provisions of such section.
 - **(e)** Any association against which any penalty is assessed under this subsection 1 1 So in original. Probably should be “section”. shall be afforded an agency hearing if such association submits a request for such hearing within 20 days after the issuance of the notice of assessment. Section 1818(h) of this title shall apply to any proceeding under this section.
+
+## Source Credit
+
+*(R.S. § 5213; [Pub. L. 86–230, § 12](https://www.govinfo.gov/link/plaw/86/public/230), Sept. 8, 1959, [73 Stat. 458](https://www.govinfo.gov/link/statute/73/458); [Pub. L. 101–73, title IX, § 911(b)(2)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 478](https://www.govinfo.gov/link/statute/103/478).)*

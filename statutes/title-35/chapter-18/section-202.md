@@ -3,9 +3,10 @@ title: "Section 202 - Disposition of rights"
 usc_title: 35
 usc_section: "202"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "35 U.S.C. § 202"
-generated_at: "2026-03-30T02:55:34.238Z"
+generated_at: "2026-11-23T21:26:08.617Z"
+status: "active"
 ---
 
 # § 202. Disposition of rights
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:34.238Z"
 - **(f)**
   - **(1)** No funding agreement with a small business firm or nonprofit organization shall contain a provision allowing a Federal agency to require the licensing to third parties of inventions owned by the contractor that are not subject inventions unless such provision has been approved by the head of the agency and a written justification has been signed by the head of the agency. Any such provision shall clearly state whether the licensing may be required in connection with the practice of a subject invention, a specifically identified work object, or both. The head of the agency may not delegate the authority to approve provisions or sign justifications required by this paragraph.
   - **(2)** A Federal agency shall not require the licensing of third parties under any such provision unless the head of the agency determines that the use of the invention by others is necessary for the practice of a subject invention or for the use of a work object of the funding agreement and that such action is necessary to achieve the practical application of the subject invention or work object. Any such determination shall be on the record after an opportunity for an agency hearing. Any action commenced for judicial review of such determination shall be brought within sixty days after notification of such determination.
+
+## Source Credit
+
+*(Added [Pub. L. 96–517, § 6(a)](https://www.govinfo.gov/link/plaw/96/public/517), Dec. 12, 1980, [94 Stat. 3020](https://www.govinfo.gov/link/statute/94/3020); amended [Pub. L. 98–620, title V, § 501(3)](https://www.govinfo.gov/link/plaw/98/public/620) –(8), Nov. 8, 1984, [98 Stat. 3364–3366](https://www.govinfo.gov/link/statute/98/3364); [Pub. L. 102–204, § 10](https://www.govinfo.gov/link/plaw/102/public/204), Dec. 10, 1991, [105 Stat. 1641](https://www.govinfo.gov/link/statute/105/1641); [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(12)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–583; [Pub. L. 106–404, § 6(1)](https://www.govinfo.gov/link/plaw/106/public/404), Nov. 1, 2000, [114 Stat. 1745](https://www.govinfo.gov/link/statute/114/1745); [Pub. L. 107–273, div. C, title III, § 13206(a)(13)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1905](https://www.govinfo.gov/link/statute/116/1905); [Pub. L. 111–8, div. G, title I, § 1301(h)](https://www.govinfo.gov/link/plaw/111/public/8), Mar. 11, 2009, [123 Stat. 829](https://www.govinfo.gov/link/statute/123/829); [Pub. L. 112–29](https://www.govinfo.gov/link/plaw/112/public/29), §§ 3(g)(7), 13(a), 20(i)(2), Sept. 16, 2011, [125 Stat. 288](https://www.govinfo.gov/link/statute/125/288), 327, 334.)*

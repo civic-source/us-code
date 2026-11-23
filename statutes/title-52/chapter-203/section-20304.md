@@ -3,9 +3,10 @@ title: "Section 20304 - Procedures for collection and delivery of marked absente
 usc_title: 52
 usc_section: "20304"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 20304"
-generated_at: "2026-03-30T02:56:30.162Z"
+generated_at: "2026-11-23T21:26:42.325Z"
+status: "active"
 ---
 
 # § 20304. Procedures for collection and delivery of marked absentee ballots of absent overseas uniformed services voters
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:30.162Z"
 - **(c)** The Presidential designee shall take appropriate actions to inform individuals who are anticipated to be absent overseas uniformed services voters in a regularly scheduled general election for Federal office to which this section applies of the procedures for the collection and delivery of marked absentee ballots established pursuant to this section, including the manner in which such voters may utilize such procedures for the submittal of marked absentee ballots pursuant to this section.
 - **(d)** In this section, the term “absent overseas uniformed services voter” means an overseas voter described in section 20310(5)(A) of this title .
 - **(e)** There are authorized to be appropriated to the Presidential designee such sums as may be necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 99–410, title I, § 103A](https://www.govinfo.gov/link/plaw/99/public/410), as added [Pub. L. 111–84, div. A, title V, § 580(a)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2324](https://www.govinfo.gov/link/statute/123/2324).)*

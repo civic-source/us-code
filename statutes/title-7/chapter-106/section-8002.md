@@ -3,9 +3,10 @@ title: "Section 8002 - Implementation funding and information management"
 usc_title: 7
 usc_section: "8002"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 8002"
-generated_at: "2026-03-30T02:53:42.469Z"
+generated_at: "2026-11-23T21:25:28.463Z"
+status: "active"
 ---
 
 # § 8002. Implementation funding and information management
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:42.469Z"
     - **(B)** any approved insurance provider, as defined in section 1502(b) of this title , with respect to producers insured by the approved insurance provider.
   - **(6)** This subsection shall not interfere with, or delay, existing agreements or requests for proposals of the Federal Crop Insurance Corporation or the Farm Service Agency regarding the information management activities known as data mining or data warehousing.
 - **(c)** In addition to amounts made available under subsection (a)(3), there are authorized to be appropriated such sums as are necessary to carry out subsection (b) for each of fiscal years 2003 through 2008.
+
+## Source Credit
+
+*([Pub. L. 107–171, title X, § 10706](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 519](https://www.govinfo.gov/link/statute/116/519).)*

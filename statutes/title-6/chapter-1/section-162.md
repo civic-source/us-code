@@ -3,9 +3,10 @@ title: "Section 162 - Mission of Office; duties"
 usc_title: 6
 usc_section: "162"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 162"
-generated_at: "2026-03-30T02:53:09.446Z"
+generated_at: "2026-11-23T21:25:25.757Z"
+status: "active"
 ---
 
 # § 162. Mission of Office; duties
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:53:09.446Z"
     - **(A)** the Director’s assessment of the needs of Federal, State, and local law enforcement agencies for assistance with respect to law enforcement technology and other matters consistent with the mission of the Office; and
     - **(B)** a strategic plan for meeting such needs of such law enforcement agencies.
   - **(2)** For the fiscal year preceding the fiscal year for which such budget is submitted, a description of the activities carried out by the Office and an evaluation of the extent to which those activities successfully meet the needs assessed under paragraph (1)(A) in previous reports.
+
+## Source Credit
+
+*([Pub. L. 107–296, title II, § 232](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2159](https://www.govinfo.gov/link/statute/116/2159); [Pub. L. 108–7, div. L, § 103(1)](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 529](https://www.govinfo.gov/link/statute/117/529); [Pub. L. 117–286, § 4(a)(13)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4306](https://www.govinfo.gov/link/statute/136/4306).)*

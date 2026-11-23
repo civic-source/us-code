@@ -3,9 +3,10 @@ title: "Section 10302 - Congressional declaration of purpose"
 usc_title: 42
 usc_section: "10302"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10302"
-generated_at: "2026-03-30T02:56:11.385Z"
+generated_at: "2026-11-23T21:26:33.358Z"
+status: "active"
 ---
 
 # § 10302. Congressional declaration of purpose
@@ -19,3 +20,7 @@ It is the purpose of this chapter to assist the Nation and the States in augment
   - **(5)** promote more effective coordination of the Nation’s water resources research program;
   - **(6)** promote the development of a cadre of trained research scientists, engineers, and technicians for future water resources problems; and
   - **(7)** encourage long-term planning and research to meet future water management, quality, and supply challenges.
+
+## Source Credit
+
+*([Pub. L. 98–242, title I, § 103](https://www.govinfo.gov/link/plaw/98/public/242), Mar. 22, 1984, [98 Stat. 97](https://www.govinfo.gov/link/statute/98/97); [Pub. L. 101–397, § 1(a)](https://www.govinfo.gov/link/plaw/101/public/397), Sept. 28, 1990, [104 Stat. 852](https://www.govinfo.gov/link/statute/104/852); [Pub. L. 104–147, § 2](https://www.govinfo.gov/link/plaw/104/public/147), May 24, 1996, [110 Stat. 1375](https://www.govinfo.gov/link/statute/110/1375).)*

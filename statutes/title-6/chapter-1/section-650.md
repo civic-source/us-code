@@ -3,9 +3,10 @@ title: "Section 650 - Definitions"
 usc_title: 6
 usc_section: "650"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 650"
-generated_at: "2026-03-30T02:53:09.473Z"
+generated_at: "2026-11-23T21:25:25.815Z"
+status: "active"
 ---
 
 # § 650. Definitions
@@ -75,3 +76,11 @@ Except as otherwise specifically provided, in this subchapter:
   - **(26)** The term “sharing” (including all conjugations thereof) means providing, receiving, and disseminating (including all conjugations of each such terms).
   - **(27)** The term “SLTT entity” means a domestic government entity that is a State government, local government, Tribal government, territorial government, or any subdivision thereof.
   - **(28)** The term “supply chain compromise” means an incident within the supply chain of an information system that an adversary can leverage, or does leverage, to jeopardize the confidentiality, integrity, or availability of the information system or the information the system processes, stores, or transmits, and can occur at any point during the life cycle.
+
+Interpretation of technical corrections
+
+Interpretation of references to definitions
+
+## Source Credit
+
+*([Pub. L. 107–296, title XXII, § 2200](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 117–263, div. G, title LXXI, § 7143(b)(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3654](https://www.govinfo.gov/link/statute/136/3654).)*

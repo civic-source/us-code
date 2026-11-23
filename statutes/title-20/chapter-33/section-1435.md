@@ -3,9 +3,10 @@ title: "Section 1435 - Requirements for statewide system"
 usc_title: 20
 usc_section: "1435"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1435"
-generated_at: "2026-03-30T02:54:48.166Z"
+generated_at: "2026-11-23T21:25:47.335Z"
+status: "active"
 ---
 
 # § 1435. Requirements for statewide system
@@ -63,3 +64,7 @@ generated_at: "2026-03-30T02:54:48.166Z"
   - **(5)**
     - **(A)** If a statewide system includes a State policy described in paragraph (1), a State that provides services in accordance with this subsection to a child with a disability who is eligible for services under section 1419 of this title shall not be required to provide the child with a free appropriate public education under subchapter II for the period of time in which the child is receiving services under this subchapter.
     - **(B)** Nothing in this subsection shall be construed to require a provider of services under this subchapter to provide a child served under this subchapter with a free appropriate public education.
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 635](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2747](https://www.govinfo.gov/link/statute/118/2747); amended [Pub. L. 111–320, title II, § 202(b)](https://www.govinfo.gov/link/plaw/111/public/320), Dec. 20, 2010, [124 Stat. 3509](https://www.govinfo.gov/link/statute/124/3509).)*

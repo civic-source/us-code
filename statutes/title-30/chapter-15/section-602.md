@@ -3,9 +3,10 @@ title: "Section 602 - Bidding; advertising and other notice; conditions for nego
 usc_title: 30
 usc_section: "602"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 602"
-generated_at: "2026-03-30T02:55:29.386Z"
+generated_at: "2026-11-23T21:26:00.385Z"
+status: "active"
 ---
 
 # § 602. Bidding; advertising and other notice; conditions for negotiation of contract
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:29.386Z"
   - **(2)** the contract is for the disposal of materials to be used in connection with a public works improvement program on behalf of a Federal, State or local governmental agency and the public exigency will not permit the delay incident to advertising; or, if
   - **(3)** the contract is for the disposal of property for which it is impracticable to obtain competition.
 - **(b)** Repealed. Pub. L. 96–470, title I, § 102(a) , Oct. 19, 1980 , 94 Stat. 2237 .
+
+## Source Credit
+
+*(July 31, 1947, ch. 406, § 2, [61 Stat. 681](https://www.govinfo.gov/link/statute/61/681); [Pub. L. 87–689, § 1](https://www.govinfo.gov/link/plaw/87/public/689), Sept. 25, 1962, [76 Stat. 587](https://www.govinfo.gov/link/statute/76/587); [Pub. L. 94–273, § 20](https://www.govinfo.gov/link/plaw/94/public/273), Apr. 21, 1976, [90 Stat. 379](https://www.govinfo.gov/link/statute/90/379); [Pub. L. 96–470, title I, § 102(a)](https://www.govinfo.gov/link/plaw/96/public/470), Oct. 19, 1980, [94 Stat. 2237](https://www.govinfo.gov/link/statute/94/2237).)*

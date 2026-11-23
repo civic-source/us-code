@@ -3,9 +3,10 @@ title: "Section 28 - Award of certificates to accelerate certain matters at the 
 usc_title: 35
 usc_section: "28"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "35 U.S.C. § 28"
-generated_at: "2026-03-30T02:55:34.234Z"
+generated_at: "2026-11-23T21:26:08.599Z"
+status: "active"
 ---
 
 # § 28. Award of certificates to accelerate certain matters at the Patent and Trademark Office
@@ -22,3 +23,19 @@ generated_at: "2026-03-30T02:55:34.234Z"
 - **(d)** An entity seeking an award under subsection (b) shall submit to the Director an application at such time, in such manner, and containing such information as the Director may require.
 - **(e)** The Director shall promote the competition established under subsection (b) through the satellite offices established pursuant to section 1.
 - **(f)** The competition established under subsection (b) shall be treated as a successor to the Patents for Humanity Program (established in the notice entitled “Humanitarian Awards Pilot Program”, published at 77 Fed. Reg. 6544 ( February 8, 2012 )).
+
+Definition
+
+Establishment
+
+Administration
+
+Application
+
+Promotion of Competition
+
+Treatment as Successor
+
+## Source Credit
+
+*(Added [Pub. L. 117–245, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/245), Dec. 20, 2022, [136 Stat. 2343](https://www.govinfo.gov/link/statute/136/2343).)*

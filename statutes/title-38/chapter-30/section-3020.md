@@ -3,9 +3,10 @@ title: "Section 3020 - Authority to transfer unused education benefits to family
 usc_title: 38
 usc_section: "3020"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3020"
-generated_at: "2026-03-30T02:55:53.499Z"
+generated_at: "2026-11-23T21:26:16.718Z"
+status: "active"
 ---
 
 # § 3020. Authority to transfer unused education benefits to family members for career service members
@@ -65,3 +66,31 @@ generated_at: "2026-03-30T02:55:53.499Z"
   - **(2)** the Secretary of the Navy with respect to matters concerning the Navy or the Marine Corps;
   - **(3)** the Secretary of the Air Force with respect to matters concerning the Air Force or the Space Force; and
   - **(4)** the Secretary of Defense with respect to matters concerning the Coast Guard, or the Secretary of Homeland Security when it is not operating as a service in the Navy.
+
+In General
+
+Eligible Individuals
+
+Eligible Dependents
+
+Limitation on Months of Transfer
+
+Designation of Transferee
+
+Time for Transfer; Revocation and Modification
+
+Commencement of Use
+
+Additional Administrative Matters
+
+Overpayment
+
+Approvals of Transfer Subject to Availability of Appropriations
+
+Regulations
+
+Secretary Concerned Defined
+
+## Source Credit
+
+*(Added [Pub. L. 107–107, div. A, title VI, § 654(a)(1)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1153](https://www.govinfo.gov/link/statute/115/1153); amended [Pub. L. 107–296, title XVII, § 1704(d)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2315](https://www.govinfo.gov/link/statute/116/2315); [Pub. L. 107–314, div. A, title VI, § 643(a)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2577](https://www.govinfo.gov/link/statute/116/2577); [Pub. L. 110–252, title V, § 5006(a)](https://www.govinfo.gov/link/plaw/110/public/252), June 30, 2008, [122 Stat. 2380](https://www.govinfo.gov/link/statute/122/2380); [Pub. L. 112–81, div. A, title X, § 1063(b)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1586](https://www.govinfo.gov/link/statute/125/1586); [Pub. L. 116–283, div. A, title IX, § 926(f)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3831](https://www.govinfo.gov/link/statute/134/3831).)*

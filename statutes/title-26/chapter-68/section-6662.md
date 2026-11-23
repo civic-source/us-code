@@ -3,9 +3,10 @@ title: "Section 6662 - Imposition of accuracy-related penalty on underpayments"
 usc_title: 26
 usc_section: "6662"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6662"
-generated_at: "2026-03-30T02:55:27.861Z"
+generated_at: "2026-11-23T21:26:06.912Z"
+status: "active"
 ---
 
 # § 6662. Imposition of accuracy-related penalty on underpayments
@@ -104,3 +105,23 @@ generated_at: "2026-03-30T02:55:27.861Z"
     - **(A)** in subparagraphs (A) and (B), by substituting “1 percent” for “10 percent” each place it appears, and
     - **(B)** without regard to subparagraph (C).
   - **(2)** For purposes of this subsection, the term “disallowance of an applicable energy credit” means the disallowance of a credit under section 45X, 45Y, or 48E by reason of overstating the material assistance cost ratio (as determined under section 7701(a)(52)) with respect to any qualified facility, energy storage technology, or facility which produces eligible components.
+
+In general
+
+Limitation
+
+In general
+
+Underpayments
+
+Understatements
+
+Refunds and credits
+
+In general
+
+Disqualified opinions
+
+## Source Credit
+
+*(Added [Pub. L. 101–239, title VII, § 7721(a)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2395](https://www.govinfo.gov/link/statute/103/2395); amended [Pub. L. 101–508, title XI, § 11312(a)](https://www.govinfo.gov/link/plaw/101/public/508), (b), Nov. 5, 1990, [104 Stat. 1388–454](https://www.govinfo.gov/link/statute/104/1388), 1388–455; [Pub. L. 103–66, title XIII](https://www.govinfo.gov/link/plaw/103/public/66), §§ 13236(a)–(d), 13251(a), Aug. 10, 1993, [107 Stat. 505](https://www.govinfo.gov/link/statute/107/505), 506, 531; [Pub. L. 103–465, title VII, § 744(a)](https://www.govinfo.gov/link/plaw/103/public/465), (b), Dec. 8, 1994, [108 Stat. 5011](https://www.govinfo.gov/link/statute/108/5011); [Pub. L. 105–34, title X, § 1028(c)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 928](https://www.govinfo.gov/link/statute/111/928); [Pub. L. 108–357, title VIII](https://www.govinfo.gov/link/plaw/108/public/357), §§ 812(b), (d), (e)(1), 819(a), (b), Oct. 22, 2004, [118 Stat. 1578](https://www.govinfo.gov/link/statute/118/1578), 1580, 1584; [Pub. L. 109–135, title IV](https://www.govinfo.gov/link/plaw/109/public/135), §§ 403(x)(1), 412(aaa), Dec. 21, 2005, [119 Stat. 2629](https://www.govinfo.gov/link/statute/119/2629), 2641; [Pub. L. 109–280, title XII, § 1219(a)(1)](https://www.govinfo.gov/link/plaw/109/public/280), (2), Aug. 17, 2006, [120 Stat. 1083](https://www.govinfo.gov/link/statute/120/1083); [Pub. L. 111–147, title V, § 512(a)](https://www.govinfo.gov/link/plaw/111/public/147), Mar. 18, 2010, [124 Stat. 110](https://www.govinfo.gov/link/statute/124/110); [Pub. L. 111–152, title I, § 1409(b)(1)](https://www.govinfo.gov/link/plaw/111/public/152), (2), Mar. 30, 2010, [124 Stat. 1068](https://www.govinfo.gov/link/statute/124/1068), 1069; [Pub. L. 113–295, div. A, title II, § 208(a)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4028](https://www.govinfo.gov/link/statute/128/4028); [Pub. L. 114–41, title II, § 2004(c)](https://www.govinfo.gov/link/plaw/114/public/41), July 31, 2015, [129 Stat. 456](https://www.govinfo.gov/link/statute/129/456); [Pub. L. 115–97, title I, § 11011(c)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2070](https://www.govinfo.gov/link/statute/131/2070); [Pub. L. 115–141, div. T, § 101(a)(2)(A)](https://www.govinfo.gov/link/plaw/115/public/141), div. U, title I, § 104(a), title IV, § 401(a)(303), (304), Mar. 23, 2018, [132 Stat. 1155](https://www.govinfo.gov/link/statute/132/1155), 1170, 1199; [Pub. L. 116–260, div. EE, title II, § 212(b)(1)](https://www.govinfo.gov/link/plaw/116/public/260), (2), Dec. 27, 2020, [134 Stat. 3067](https://www.govinfo.gov/link/statute/134/3067); [Pub. L. 117–328, div. T, title VI, § 605(a)(2)(A)](https://www.govinfo.gov/link/plaw/117/public/328), (B), Dec. 29, 2022, [136 Stat. 5394](https://www.govinfo.gov/link/statute/136/5394); [Pub. L. 119–21, title VII, § 70512(j)(1)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 268](https://www.govinfo.gov/link/statute/139/268).)*

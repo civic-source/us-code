@@ -3,9 +3,10 @@ title: "Section 3626 - Appropriate remedies with respect to prison conditions"
 usc_title: 18
 usc_section: "3626"
 chapter: 229
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3626"
-generated_at: "2026-03-30T02:54:16.522Z"
+generated_at: "2026-11-23T21:25:44.220Z"
+status: "active"
 ---
 
 # § 3626. Appropriate remedies with respect to prison conditions
@@ -81,3 +82,59 @@ generated_at: "2026-03-30T02:54:16.522Z"
   - **(7)** the term “prospective relief” means all relief other than compensatory monetary damages;
   - **(8)** the term “special master” means any person appointed by a Federal court pursuant to Rule 53 of the Federal Rules of Civil Procedure or pursuant to any inherent power of the court to exercise the powers of a master, regardless of the title or description given by the court; and
   - **(9)** the term “relief” means all relief in any form that may be granted or approved by the court, and includes consent decrees but does not include private settlement agreements.
+
+Requirements for Relief.—
+
+Prospective relief
+
+Preliminary injunctive relief
+
+Prisoner release order
+
+Termination of Relief.—
+
+Termination of prospective relief
+
+Immediate termination of prospective relief
+
+Limitation
+
+Termination or modification of relief
+
+Settlements.—
+
+Consent decrees
+
+Private settlement agreements
+
+State Law Remedies
+
+Procedure for Motions Affecting Prospective Relief.—
+
+Generally
+
+Automatic stay
+
+Postponement of automatic stay
+
+Order blocking the automatic stay
+
+Special Masters.—
+
+In general
+
+Appointment
+
+Interlocutory appeal
+
+Compensation
+
+Regular review of appointment
+
+Limitations on powers and duties
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title II, § 20409(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1827](https://www.govinfo.gov/link/statute/108/1827); amended [Pub. L. 104–134, title I, § 101[(a)]](https://www.govinfo.gov/link/plaw/104/public/134) [title VIII, § 802(a)], Apr. 26, 1996, [110 Stat. 1321](https://www.govinfo.gov/link/statute/110/1321), 1321–66; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327); [Pub. L. 105–119, title I, § 123(a)](https://www.govinfo.gov/link/plaw/105/public/119), Nov. 26, 1997, [111 Stat. 2470](https://www.govinfo.gov/link/statute/111/2470).)*

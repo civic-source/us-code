@@ -3,9 +3,10 @@ title: "Section 2503 - Technical assistance"
 usc_title: 29
 usc_section: "2503"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 2503"
-generated_at: "2026-03-30T02:55:18.743Z"
+generated_at: "2026-11-23T21:26:02.314Z"
+status: "active"
 ---
 
 # § 2503. Technical assistance
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:18.743Z"
   - **(6)** serving as a liaison between tradeswomen and employers and tradeswomen and labor unions to address workplace issues related to gender; and
   - **(7)** conducting exit interviews with tradeswomen to evaluate their on-the-job experience and to assess the effectiveness of the program.
 - **(b)** The Secretary shall select a total of 50 employers or labor unions to receive technical assistance provided with grants made under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 102–530, § 4](https://www.govinfo.gov/link/plaw/102/public/530), Oct. 27, 1992, [106 Stat. 3466](https://www.govinfo.gov/link/statute/106/3466).)*

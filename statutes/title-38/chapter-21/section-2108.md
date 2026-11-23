@@ -3,9 +3,10 @@ title: "Section 2108 - Specially adapted housing assistive technology grant prog
 usc_title: 38
 usc_section: "2108"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 2108"
-generated_at: "2026-03-30T02:55:53.496Z"
+generated_at: "2026-11-23T21:26:16.699Z"
+status: "active"
 ---
 
 # § 2108. Specially adapted housing assistive technology grant program
@@ -21,4 +22,22 @@ generated_at: "2026-03-30T02:55:53.496Z"
   - **(2)** the amount of the grant; and
   - **(3)** the goal of the grant.
 - **(f)** From amounts appropriated to the Department for readjustment benefits for each fiscal year for which the Secretary is authorized to make a grant under this section, $1,000,000 shall be available for that fiscal year for the purposes of the program under this section.
-- **(g)** The authority to make a grant under this section shall begin on October 1, 2011 , and shall terminate on September 30, 2026 .
+- **(g)** The authority to make a grant under this section shall begin on October 1, 2011 , and shall terminate on December 11, 2026 .
+
+Authority to Make Grants
+
+Application
+
+Grant Funds
+
+Use of Funds
+
+Report
+
+Funding
+
+Duration
+
+## Source Credit
+
+*(Added [Pub. L. 111–275, title II, § 203(a)](https://www.govinfo.gov/link/plaw/111/public/275), Oct. 13, 2010, [124 Stat. 2874](https://www.govinfo.gov/link/statute/124/2874); amended [Pub. L. 114–228, title IV, § 409](https://www.govinfo.gov/link/plaw/114/public/228), Sept. 29, 2016, [130 Stat. 940](https://www.govinfo.gov/link/statute/130/940); [Pub. L. 115–62, title IV, § 408](https://www.govinfo.gov/link/plaw/115/public/62), Sept. 29, 2017, [131 Stat. 1164](https://www.govinfo.gov/link/statute/131/1164); [Pub. L. 115–251, title I, § 122](https://www.govinfo.gov/link/plaw/115/public/251), Sept. 29, 2018, [132 Stat. 3169](https://www.govinfo.gov/link/statute/132/3169); [Pub. L. 116–159, div. E, title II, § 5201](https://www.govinfo.gov/link/plaw/116/public/159), Oct. 1, 2020, [134 Stat. 749](https://www.govinfo.gov/link/statute/134/749); [Pub. L. 117–180, div. E, title II, § 205](https://www.govinfo.gov/link/plaw/117/public/180), Sept. 30, 2022, [136 Stat. 2138](https://www.govinfo.gov/link/statute/136/2138); [Pub. L. 118–83, div. B, title III, § 322](https://www.govinfo.gov/link/plaw/118/public/83), Sept. 26, 2024, [138 Stat. 1540](https://www.govinfo.gov/link/statute/138/1540); [Pub. L. 119–37, div. G, title III, § 7306](https://www.govinfo.gov/link/plaw/119/public/37), Nov. 12, 2025, [139 Stat. 651](https://www.govinfo.gov/link/statute/139/651); [Pub. L. 119–103, div. D, title III, § 4308](https://www.govinfo.gov/link/plaw/119/public/103), Sept. 2, 2026, [140 Stat. 1008](https://www.govinfo.gov/link/statute/140/1008).)*

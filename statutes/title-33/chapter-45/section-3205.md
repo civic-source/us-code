@@ -3,9 +3,10 @@ title: "Section 3205 - Tsunami research program"
 usc_title: 33
 usc_section: "3205"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3205"
-generated_at: "2026-03-30T02:55:41.139Z"
+generated_at: "2026-11-23T21:26:11.480Z"
+status: "active"
 ---
 
 # § 3205. Tsunami research program
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:41.139Z"
   - **(3)** conduct social science research to develop and assess community warning, education, and evacuation materials;
   - **(4)** develop the technical basis for validation of tsunami maps, numerical tsunami models, digital elevation models, and forecasts; and
   - **(5)** ensure that research and findings are available to the public and the scientific community.
+
+## Source Credit
+
+*([Pub. L. 109–424, § 6](https://www.govinfo.gov/link/plaw/109/public/424), Dec. 20, 2006, [120 Stat. 2907](https://www.govinfo.gov/link/statute/120/2907); [Pub. L. 109–479, title VIII, § 806](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3658](https://www.govinfo.gov/link/statute/120/3658); [Pub. L. 115–25, title V](https://www.govinfo.gov/link/plaw/115/public/25), §§ 506, 512(a), Apr. 18, 2017, [131 Stat. 123](https://www.govinfo.gov/link/statute/131/123), 128.)*

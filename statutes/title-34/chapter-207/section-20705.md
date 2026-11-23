@@ -3,9 +3,10 @@ title: "Section 20705 - Enhancing State and local efforts to combat trafficking 
 usc_title: 34
 usc_section: "20705"
 chapter: 207
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20705"
-generated_at: "2026-03-30T02:55:33.299Z"
+generated_at: "2026-11-23T21:26:09.791Z"
+status: "active"
 ---
 
 # § 20705. Enhancing State and local efforts to combat trafficking in persons
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:33.299Z"
 - **(f)** Not later than 30 months after March 7, 2013 , the Comptroller General of the United States shall conduct a study of and submit to Congress a report evaluating the impact of this section on—
   - **(1)** the ability of law enforcement personnel to identify victims of severe forms of trafficking in persons and investigate and prosecute cases against offenders, including offenders who engage in the purchasing of commercial sex acts with a minor; and
   - **(2)** recommendations, if any, regarding any legislative or administrative action the Comptroller General determines appropriate to improve the ability described in paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 109–164, title II, § 204](https://www.govinfo.gov/link/plaw/109/public/164), Jan. 10, 2006, [119 Stat. 3571](https://www.govinfo.gov/link/statute/119/3571); [Pub. L. 110–457, title III, § 302(5)](https://www.govinfo.gov/link/plaw/110/public/457), Dec. 23, 2008, [122 Stat. 5087](https://www.govinfo.gov/link/statute/122/5087); [Pub. L. 113–4, title XII, § 1242](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 153](https://www.govinfo.gov/link/statute/127/153); [Pub. L. 115–393, title III, § 301(c)](https://www.govinfo.gov/link/plaw/115/public/393), Dec. 21, 2018, [132 Stat. 5272](https://www.govinfo.gov/link/statute/132/5272); [Pub. L. 115–425, title I, § 122](https://www.govinfo.gov/link/plaw/115/public/425), Jan. 8, 2019, [132 Stat. 5479](https://www.govinfo.gov/link/statute/132/5479).)*

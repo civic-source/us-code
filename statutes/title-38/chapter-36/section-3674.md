@@ -3,9 +3,10 @@ title: "Section 3674 - Reimbursement of expenses"
 usc_title: 38
 usc_section: "3674"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3674"
-generated_at: "2026-03-30T02:55:53.507Z"
+generated_at: "2026-11-23T21:26:16.757Z"
+status: "active"
 ---
 
 # § 3674. Reimbursement of expenses
@@ -21,5 +22,24 @@ generated_at: "2026-03-30T02:55:53.507Z"
   - **(5)**
     - **(A)** The total amount made available under this section for fiscal year 2018 shall be $21,000,000 and for fiscal year 2019 and thereafter shall be $23,000,000.
     - **(B)** Beginning in fiscal year 2019, whenever there is an increase in benefit amounts payable under title II of the Social Security Act ( 42 U.S.C. 401 et seq.) as a result of a determination made under section 215(i) of such Act ( 42 U.S.C. 415(i) ), the Secretary shall, effective on the date of such increase in benefit amounts, increase the amount in effect under subparagraph (A), as in effect immediately prior to the date of such increase in benefit amounts payable under title II of the Social Security Act, by the same percentage as the percentage by which such benefit amounts are increased.
-- **(b)** The allowance for administrative expenses incurred pursuant to subsection (a) of this section shall be paid in accordance with the following formula: Total salary cost reimbursable under this section Allowable for administrative expense $5,000 or less $693. Over $5,000 but not exceeding $10,000 $1,247. Over $10,000 but not exceeding $35,000 $1,247 for the first $10,000, plus $1,155 for each additional $5,000 or fraction thereof. Over $35,000 but not exceeding $40,000 $7,548. Over $40,000 but not exceeding $75,000 $7,548 for the first $40,000, plus $999 for each additional $5,000 or fraction thereof. Over $75,000 but not exceeding $80,000 $14,969. Over $80,000 $14,969 for the first $80,000, plus $872 for each additional $5,000 or fraction thereof.
+- **(b)** The allowance for administrative expenses incurred pursuant to subsection (a) of this section shall be paid in accordance with the following formula:
+
+| Total salary cost reimbursable under this section | Allowable for administrative expense |
+| --- | --- |
+| $5,000 or less | $693. |
+| Over $5,000 but not exceeding $10,000 | $1,247. |
+| Over $10,000 but not exceeding $35,000 | $1,247 for the first $10,000, plus $1,155 for each additional $5,000 or fraction thereof. |
+| Over $35,000 but not exceeding $40,000 | $7,548. |
+| Over $40,000 but not exceeding $75,000 | $7,548 for the first $40,000, plus $999 for each additional $5,000 or fraction thereof. |
+| Over $75,000 but not exceeding $80,000 | $14,969. |
+| Over $80,000 | $14,969 for the first $80,000, plus $872 for each additional $5,000 or fraction thereof. |
+
 - **(c)** Each State and local agency with which the Secretary contracts or enters into an agreement under subsection (a) of this section shall report to the Secretary periodically, but not less often than annually, as determined by the Secretary, on the activities in the preceding twelve months (or the period which has elapsed since the last report under this subsection was submitted) carried out under such contract or agreement. Each such report shall describe, in such detail as the Secretary shall prescribe, services performed and determinations made in connection with ascertaining the qualifications of educational institutions in connection with this chapter and chapters 32, 34, and 35 of this title and in supervising such institutions.
+
+$5,000 or less
+
+Over $80,000
+
+## Source Credit
+
+*(Added [Pub. L. 88–126, § 1](https://www.govinfo.gov/link/plaw/88/public/126), Sept. 23, 1963, [77 Stat. 159](https://www.govinfo.gov/link/statute/77/159), § 1774; amended [Pub. L. 89–358, § 3(a)(7)](https://www.govinfo.gov/link/plaw/89/public/358), (8), (11), Mar. 3, 1966, [80 Stat. 20](https://www.govinfo.gov/link/statute/80/20), 21; [Pub. L. 90–631, § 4](https://www.govinfo.gov/link/plaw/90/public/631), Oct. 23, 1968, [82 Stat. 1334](https://www.govinfo.gov/link/statute/82/1334); [Pub. L. 92–540, title IV, § 403(7)](https://www.govinfo.gov/link/plaw/92/public/540), 411, Oct. 24, 1972, [86 Stat. 1090](https://www.govinfo.gov/link/statute/86/1090), 1092; [Pub. L. 93–508, title II, § 210(1)](https://www.govinfo.gov/link/plaw/93/public/508), Dec. 3, 1974, [88 Stat. 1584](https://www.govinfo.gov/link/statute/88/1584); [Pub. L. 94–502, title V, § 503](https://www.govinfo.gov/link/plaw/94/public/502), Oct. 15, 1976, [90 Stat. 2399](https://www.govinfo.gov/link/statute/90/2399); [Pub. L. 95–202, title III, § 303](https://www.govinfo.gov/link/plaw/95/public/202), Nov. 23, 1977, [91 Stat. 1441](https://www.govinfo.gov/link/statute/91/1441); [Pub. L. 96–466, title II](https://www.govinfo.gov/link/plaw/96/public/466), §§ 203(1), 213(1), Oct. 17, 1980, [94 Stat. 2188](https://www.govinfo.gov/link/statute/94/2188), 2190; [Pub. L. 97–295, § 4(51)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1308](https://www.govinfo.gov/link/statute/96/1308); [Pub. L. 100–323, § 13(a)(1)](https://www.govinfo.gov/link/plaw/100/public/323), (b)(5), May 20, 1988, [102 Stat. 571](https://www.govinfo.gov/link/statute/102/571), 573; [Pub. L. 101–237, title IV](https://www.govinfo.gov/link/plaw/101/public/237), §§ 414, 423(b)(1)(A), Dec. 18, 1989, [103 Stat. 2085](https://www.govinfo.gov/link/statute/103/2085), 2092; [Pub. L. 102–16, § 10(a)(7)](https://www.govinfo.gov/link/plaw/102/public/16), Mar. 22, 1991, [105 Stat. 56](https://www.govinfo.gov/link/statute/105/56); renumbered § 3674 and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 103–446, title VI, § 606(a)(1)](https://www.govinfo.gov/link/plaw/103/public/446), (b), Nov. 2, 1994, [108 Stat. 4672](https://www.govinfo.gov/link/statute/108/4672); [Pub. L. 106–419, title I, § 123](https://www.govinfo.gov/link/plaw/106/public/419), Nov. 1, 2000, [114 Stat. 1837](https://www.govinfo.gov/link/statute/114/1837); [Pub. L. 107–14, § 8(a)(7)](https://www.govinfo.gov/link/plaw/107/public/14), June 5, 2001, [115 Stat. 34](https://www.govinfo.gov/link/statute/115/34); [Pub. L. 107–330, title III, § 301](https://www.govinfo.gov/link/plaw/107/public/330), Dec. 6, 2002, [116 Stat. 2824](https://www.govinfo.gov/link/statute/116/2824); [Pub. L. 110–252, title V, § 5005](https://www.govinfo.gov/link/plaw/110/public/252), June 30, 2008, [122 Stat. 2379](https://www.govinfo.gov/link/statute/122/2379); [Pub. L. 115–48, title III, § 301(a)](https://www.govinfo.gov/link/plaw/115/public/48), Aug. 16, 2017, [131 Stat. 989](https://www.govinfo.gov/link/statute/131/989).)*

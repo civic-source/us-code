@@ -3,9 +3,10 @@ title: "Section 284n - Certain demonstration projects"
 usc_title: 42
 usc_section: "284n"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 284n"
-generated_at: "2026-03-30T02:56:10.742Z"
+generated_at: "2026-11-23T21:26:30.475Z"
+status: "active"
 ---
 
 # § 284n. Certain demonstration projects
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:10.742Z"
   - **(5)** A grant for research described in paragraph (1) may be made only if the application for the grant has undergone technical and scientific peer review under section 289a of this title and has been reviewed by the advisory council under section 282(k) of this title .
 - **(c)** Not later than the end of fiscal year 2009, the Secretary, acting through the Director of NIH, shall conduct an evaluation of the activities under this section and submit a report to the Congress on the results of such evaluation.
 - **(d)** For purposes of this section, the terms “Director of NIH”, “national research institute”, and “national center” have the meanings given such terms in section 281 of this title .
+
+## Source Credit
+
+*([Pub. L. 109–482, title I, § 105](https://www.govinfo.gov/link/plaw/109/public/482), Jan. 15, 2007, [120 Stat. 3694](https://www.govinfo.gov/link/statute/120/3694).)*

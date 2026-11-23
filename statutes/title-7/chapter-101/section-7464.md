@@ -3,9 +3,10 @@ title: "Section 7464 - National Kiwifruit Board"
 usc_title: 7
 usc_section: "7464"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7464"
-generated_at: "2026-03-30T02:53:42.453Z"
+generated_at: "2026-11-23T21:25:28.430Z"
+status: "active"
 ---
 
 # § 7464. National Kiwifruit Board
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:42.453Z"
   - **(4)** receive, investigate, and report to the Secretary accounts of violations of the order;
   - **(5)** make recommendations to the Secretary with respect to an amendment that should be made to the order; and
   - **(6)** employ or contract with a manager and staff to assist in administering the order, except that, to reduce administrative costs and increase efficiency, the Board shall seek, to the extent practicable, to employ or contract with personnel who are already associated with organizations involved in promoting kiwifruit that are chartered by a State, the District of Columbia, or the Commonwealth of Puerto Rico.
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 555](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1066](https://www.govinfo.gov/link/statute/110/1066); [Pub. L. 105–185, title VI, § 603(b)](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 585](https://www.govinfo.gov/link/statute/112/585).)*

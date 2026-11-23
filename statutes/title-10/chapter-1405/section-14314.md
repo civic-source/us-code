@@ -3,9 +3,10 @@ title: "Section 14314 - Army and Air Force commissioned officers: generals ceasi
 usc_title: 10
 usc_section: "14314"
 chapter: 1405
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 14314"
-generated_at: "2026-03-30T02:53:38.275Z"
+generated_at: "2026-11-23T21:25:33.061Z"
+status: "active"
 ---
 
 # § 14314. Army and Air Force commissioned officers: generals ceasing to occupy positions commensurate with grade; State adjutants general
@@ -24,3 +25,13 @@ generated_at: "2026-03-30T02:53:38.275Z"
     - **(B)** be discharged from the officer’s reserve appointment and appointed in the reserve grade held by the officer as a reserve officer immediately before the appointment of that officer as adjutant general or assistant adjutant general, if the officer is qualified and applies for that appointment; or
     - **(C)** be discharged from the officer’s reserve appointment.
 - **(c)** An officer who is appointed under subsection (a)(1)(C) or (b)(2)(B) shall be credited with an amount of service in the grade in which appointed that is equal to the amount of prior service in an active status in that grade and in any higher grade.
+
+General Officers
+
+Adjutants General
+
+Credit for Service in Grade
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1611](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2942](https://www.govinfo.gov/link/statute/108/2942); amended [Pub. L. 104–201, div. A, title V, § 544(c)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2523](https://www.govinfo.gov/link/statute/110/2523); [Pub. L. 118–159, div. A, title V, § 512](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1875](https://www.govinfo.gov/link/statute/138/1875).)*

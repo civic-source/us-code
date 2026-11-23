@@ -3,9 +3,10 @@ title: "Section 410j - Acquisition of land, water, and interests therein; consen
 usc_title: 16
 usc_section: "410j"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410j"
-generated_at: "2026-03-30T02:54:22.760Z"
+generated_at: "2026-11-23T21:25:51.433Z"
+status: "active"
 ---
 
 # § 410j. Acquisition of land, water, and interests therein; consent of owner; reservations
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:22.760Z"
   - **(1)** and
   - **(2)** of this section, a further reservation of the right to customary royalties, applying at the time of production, in any oil, gas, or other minerals which may be produced from such land and water at any time before January 1, 1985 , should production ever be authorized by the Federal Government or its assigns.
 
+
+## Source Credit
+
+*([Pub. L. 85–482, § 2](https://www.govinfo.gov/link/plaw/85/public/482), July 2, 1958, [72 Stat. 284](https://www.govinfo.gov/link/statute/72/284); [Pub. L. 91–428, § 2](https://www.govinfo.gov/link/plaw/91/public/428), Sept. 26, 1970, [84 Stat. 885](https://www.govinfo.gov/link/statute/84/885).)*

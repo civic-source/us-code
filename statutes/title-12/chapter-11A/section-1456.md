@@ -3,9 +3,10 @@ title: "Section 1456 - Immunity of Corporation; audits and reporting requirement
 usc_title: 12
 usc_section: "1456"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1456"
-generated_at: "2026-03-30T02:53:53.395Z"
+generated_at: "2026-11-23T21:25:36.833Z"
+status: "active"
 ---
 
 # § 1456. Immunity of Corporation; audits and reporting requirements; data collection; Housing Advisory Council
@@ -67,3 +68,7 @@ generated_at: "2026-03-30T02:53:53.395Z"
 - **(g)**
   - **(1)** Not later than 4 months after October 28, 1992 , the Corporation shall appoint an Affordable Housing Advisory Council to advise the Corporation regarding possible methods for promoting affordable housing for low- and moderate-income families.
   - **(2)** The Affordable Housing Advisory Council shall consist of 15 individuals, who shall include representatives of community-based and other nonprofit and for-profit organizations and State and local government agencies actively engaged in the promotion, development, or financing of housing for low- and moderate-income families.
+
+## Source Credit
+
+*([Pub. L. 91–351, title III, § 307](https://www.govinfo.gov/link/plaw/91/public/351), July 24, 1970, [84 Stat. 456](https://www.govinfo.gov/link/statute/84/456); [Pub. L. 101–73, title VII, § 731(j)(1)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 435](https://www.govinfo.gov/link/statute/103/435); [Pub. L. 102–550, title XIII, § 1382](https://www.govinfo.gov/link/plaw/102/public/550) (o)–(t), Oct. 28, 1992, [106 Stat. 4005–4008](https://www.govinfo.gov/link/statute/106/4005); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 110–289, div. A, title I, § 1161(c)(1)](https://www.govinfo.gov/link/plaw/110/public/289), (3), July 30, 2008, [122 Stat. 2780](https://www.govinfo.gov/link/statute/122/2780).)*

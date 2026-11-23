@@ -3,9 +3,10 @@ title: "Section 2143 - Standards and certification process for humane handling, 
 usc_title: 7
 usc_section: "2143"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2143"
-generated_at: "2026-03-30T02:53:42.377Z"
+generated_at: "2026-11-23T21:25:28.276Z"
+status: "active"
 ---
 
 # § 2143. Standards and certification process for humane handling, care, treatment, and transportation of animals
@@ -82,3 +83,7 @@ generated_at: "2026-03-30T02:53:42.377Z"
 - **(f)** No dogs or cats, or additional kinds or classes of animals designated by regulation of the Secretary, shall be delivered by any dealer, research facility, exhibitor, operator of an auction sale, or department, agency, or instrumentality of the United States or of any State or local government, to any intermediate handler or carrier for transportation in commerce, or received by any such handler or carrier for such transportation from any such person, department, agency, or instrumentality, unless the animal is accompanied by a certificate issued by a veterinarian licensed to practice veterinary medicine, certifying that he inspected the animal on a specified date, which shall not be more than ten days before such delivery, and, when so inspected, the animal appeared free of any infectious disease or physical abnormality which would endanger the animal or animals or other animals or endanger public health: Provided, however , That the Secretary may by regulation provide exceptions to this certification requirement, under such conditions as he may prescribe in the regulations, for animals shipped to research facilities for purposes of research, testing or experimentation requiring animals not eligible for such certification. Such certificates received by the intermediate handlers and the carriers shall be retained by them, as provided by regulations of the Secretary, in accordance with section 2140 of this title .
 - **(g)** No dogs or cats, or additional kinds or classes of animals designated by regulation of the Secretary, shall be delivered by any person to any intermediate handler or carrier for transportation in commerce except to registered research facilities if they are less than such age as the Secretary may by regulation prescribe. The Secretary shall designate additional kinds and classes of animals and may prescribe different ages for particular kinds or classes of dogs, cats, or designated animals, for the purposes of this section, when he determines that such action is necessary or adequate to assure their humane treatment in connection with their transportation in commerce.
 - **(h)** No intermediate handler or carrier involved in the transportation of any animal in commerce shall participate in any arrangement or engage in any practice under which the cost of such animal or the cost of the transportation of such animal is to be paid and collected upon delivery of the animal to the consignee, unless the consignor guarantees in writing the payment of transportation charges for any animal not claimed within a period of 48 hours after notice to the consignee of arrival of the animal, including, where necessary, both the return transportation charges and an amount sufficient to reimburse the carrier for all out-of-pocket expenses incurred for the care, feeding, and storage of such animals.
+
+## Source Credit
+
+*([Pub. L. 89–544, § 13](https://www.govinfo.gov/link/plaw/89/public/544), Aug. 24, 1966, [80 Stat. 352](https://www.govinfo.gov/link/statute/80/352); [Pub. L. 91–579, § 14](https://www.govinfo.gov/link/plaw/91/public/579), Dec. 24, 1970, [84 Stat. 1562](https://www.govinfo.gov/link/statute/84/1562); [Pub. L. 94–279](https://www.govinfo.gov/link/plaw/94/public/279), §§ 9, 10, Apr. 22, 1976, [90 Stat. 418](https://www.govinfo.gov/link/statute/90/418), 419; [Pub. L. 99–198, title XVII, § 1752](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1645](https://www.govinfo.gov/link/statute/99/1645).)*

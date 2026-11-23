@@ -3,12 +3,17 @@ title: "Section 1366 - General Agreement on Tariff and Trade un­affected"
 usc_title: 19
 usc_section: "1366"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1366"
-generated_at: "2026-03-30T02:54:24.633Z"
+generated_at: "2026-11-23T21:25:42.699Z"
+status: "active"
 ---
 
 # § 1366. General Agreement on Tariff and Trade un­affected
 
 The enactment of sections 1352(a), (c), 1354, and 1360 to 1367 of this title, and section 624(f) of title 7 , shall not be construed to determine or indicate the approval or disapproval by the Congress of the Executive Agreement known as the General Agreement on Tariffs and Trade.
 
+
+## Source Credit
+
+*(June 16, 1951, ch. 141, § 10, [65 Stat. 75](https://www.govinfo.gov/link/statute/65/75).)*

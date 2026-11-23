@@ -3,9 +3,10 @@ title: "Section 16251 - Production incentives for cellulosic biofuels"
 usc_title: 42
 usc_section: "16251"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16251"
-generated_at: "2026-03-30T02:56:11.475Z"
+generated_at: "2026-11-23T21:26:33.711Z"
+status: "active"
 ---
 
 # § 16251. Production incentives for cellulosic biofuels
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:56:11.475Z"
   - **(2)** include agricultural producers or cooperatives of agricultural producers as equity partners in the ventures; and
   - **(3)** have a strategic agreement in place to fairly reward feedstock suppliers.
 - **(f)** There is authorized to be appropriated to carry out this section $250,000,000.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 942](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 878](https://www.govinfo.gov/link/statute/119/878).)*

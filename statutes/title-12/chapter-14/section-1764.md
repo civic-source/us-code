@@ -3,9 +3,10 @@ title: "Section 1764 - Expulsion and withdrawal"
 usc_title: 12
 usc_section: "1764"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1764"
-generated_at: "2026-03-30T02:53:53.435Z"
+generated_at: "2026-11-23T21:25:36.937Z"
+status: "active"
 ---
 
 # § 1764. Expulsion and withdrawal
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:53:53.435Z"
     - **(C)** fraud, attempted fraud, or other illegal conduct that a member has been convicted of in relation to the Federal credit union, including the Federal credit union’s employees conducting business on behalf of the Federal credit union.
 - **(d)** Withdrawal or expulsion of a member pursuant to subsection (a), (b), or (c) of this section shall not operate to relieve the member from liability to the Federal credit union. The amount to be paid a withdrawing or expelled member by a Federal credit union shall be determined and paid in a manner specified in the bylaws.
 - **(e)** An expulsion of a member pursuant to this section shall be done individually, on a case-by-case basis, and neither the Board nor any Federal credit union may expel a class of members.
+
+## Source Credit
+
+*(June 26, 1934, ch. 750, title I, § 118, formerly § 14, [48 Stat. 1221](https://www.govinfo.gov/link/statute/48/1221); renumbered § 19, [Pub. L. 86–354, § 1](https://www.govinfo.gov/link/plaw/86/public/354), Sept. 22, 1959, [73 Stat. 634](https://www.govinfo.gov/link/statute/73/634); renumbered title I, § 118, [Pub. L. 91–468, § 1(2)](https://www.govinfo.gov/link/plaw/91/public/468), Oct. 19, 1970, [84 Stat. 994](https://www.govinfo.gov/link/statute/84/994); amended [Pub. L. 97–320, title V, § 525](https://www.govinfo.gov/link/plaw/97/public/320), Oct. 15, 1982, [96 Stat. 1534](https://www.govinfo.gov/link/statute/96/1534); [Pub. L. 100–86, title VII, § 706](https://www.govinfo.gov/link/plaw/100/public/86), Aug. 10, 1987, [101 Stat. 653](https://www.govinfo.gov/link/statute/101/653); [Pub. L. 117–103, div. T, § 102](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 824](https://www.govinfo.gov/link/statute/136/824).)*

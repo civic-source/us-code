@@ -3,9 +3,10 @@ title: "Section 1009 - Hearings and review"
 usc_title: 42
 usc_section: "1009"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1009"
-generated_at: "2026-03-30T02:56:10.900Z"
+generated_at: "2026-11-23T21:26:31.208Z"
+status: "active"
 ---
 
 # § 1009. Hearings and review
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:10.900Z"
   - **(2)** A failure to timely request review of an initial adverse determination with respect to an application for any payment under this subchapter or an adverse determination on reconsideration of such an initial determination shall not serve as a basis for denial of a subsequent application for any payment under this subchapter if the applicant demonstrates that the applicant failed to so request such a review acting in good faith reliance upon incorrect, incomplete, or misleading information, relating to the consequences of reapplying for payments in lieu of seeking review of an adverse determination, provided by any officer or employee of the Social Security Administration.
   - **(3)** In any notice of an adverse determination with respect to which a review may be requested under paragraph (1), the Commissioner of Social Security shall describe in clear and specific language the effect on possible entitlement to benefits under this subchapter of choosing to reapply in lieu of requesting review of the determination.
 - **(b)** The final determination of the Commissioner of Social Security after a hearing under subsection (a)(1) shall be subject to judicial review as provided in section 405(g) of this title to the same extent as the Commissioner of Social Security’s final determinations under section 405 of this title .
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title VIII, § 809, as added [Pub. L. 106–169, title II, § 251(a)](https://www.govinfo.gov/link/plaw/106/public/169), Dec. 14, 1999, [113 Stat. 1851](https://www.govinfo.gov/link/statute/113/1851).)*

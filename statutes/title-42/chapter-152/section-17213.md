@@ -3,9 +3,10 @@ title: "Section 17213 - Hydropower research, development, and demonstration"
 usc_title: 42
 usc_section: "17213"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17213"
-generated_at: "2026-03-30T02:56:11.501Z"
+generated_at: "2026-11-23T21:26:33.775Z"
+status: "active"
 ---
 
 # § 17213. Hydropower research, development, and demonstration
@@ -60,3 +61,7 @@ The Secretary shall conduct a program of research, development, demonstration, a
   - **(12)** improve flow measurement methods, including maintenance of continuous flow measurement equipment;
   - **(13)** identify best methods for compiling data on all hydropower resources and assets, including identifying potential for increased capacity; and
   - **(14)** identify mechanisms to test and validate performance of hydropower and pumped storage technologies.
+
+## Source Credit
+
+*([Pub. L. 110–140, title VI, § 634](https://www.govinfo.gov/link/plaw/110/public/140), as added [Pub. L. 116–260, div. Z, title III, § 3001(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2480](https://www.govinfo.gov/link/statute/134/2480).)*

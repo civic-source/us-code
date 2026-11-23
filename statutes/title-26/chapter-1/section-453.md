@@ -3,9 +3,10 @@ title: "Section 453 - Installment method"
 usc_title: 26
 usc_section: "453"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 453"
-generated_at: "2026-03-30T02:55:27.701Z"
+generated_at: "2026-11-23T21:26:06.273Z"
+status: "active"
 ---
 
 # § 453. Installment method
@@ -127,3 +128,101 @@ generated_at: "2026-03-30T02:55:27.701Z"
       - **(ii)** For purposes of clause (i), the portion of any tax attributable to the receipt of any payment shall be determined without regard to any interest imposed under subparagraph (A).
       - **(iii)** No interest shall be determined for any payment received in the taxable year of the disposition from which the installment obligation arises.
     - **(C)** Any amount payable under this paragraph shall be taken into account in computing the amount of any deduction allowable to the taxpayer for interest paid or accrued during such taxable year.
+
+| “In the case of the: | The applicable percentage is: |
+| --- | --- |
+| 1st taxable year | 15 |
+| 2nd taxable year | 25 |
+| 3rd taxable year | 30 |
+| 4th taxable year | 30. |
+
+
+Accrual method taxpayer
+
+In General
+
+Applicability
+
+In general
+
+Special rules for dealers.—
+
+In general
+
+Special rules for obligations arising from dealer dispositions after february 28, 1986 , and before january 1, 1988 .—
+
+In general
+
+Change in method of accounting
+
+Certain rules made applicable
+
+Special rule for nondealers.—
+
+Election
+
+Pledging rules
+
+In general
+
+Coordination with section 453c
+
+Certain dispositions deemed made on 1st day of taxable year
+
+Minimum tax
+
+Coordination with tax reform act of 1986
+
+In general
+
+Sales of stock, etc
+
+Change in method of accounting
+
+1st taxable year
+
+2nd taxable year
+
+3rd taxable year
+
+4th taxable year
+
+Acceleration of adjustments where contraction in amount of installment obligations.—
+
+In general
+
+Determination of percentage
+
+Aggregate contraction in revolving installment obligations
+
+Revolving installment obligations
+
+Treatment of certain obligations disposed of on or before october 26, 1987
+
+Limitation on losses from sales of obligations under revolving credit plans
+
+Adjustment period
+
+In general
+
+Exception
+
+Special rule for certain dispositions before october 1, 1984
+
+In general
+
+For section 453
+
+For section 453
+
+For section 453
+
+For section 453
+
+For section 2
+
+Special rule for application of former section 453 to certain dispositions
+
+## Source Credit
+
+*(Added [Pub. L. 96–471, § 2(a)](https://www.govinfo.gov/link/plaw/96/public/471), Oct. 19, 1980, [94 Stat. 2247](https://www.govinfo.gov/link/statute/94/2247); amended [Pub. L. 97–34, title II, § 202(c)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 221](https://www.govinfo.gov/link/statute/95/221); [Pub. L. 97–448, title III, § 303](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2398](https://www.govinfo.gov/link/statute/96/2398); [Pub. L. 98–369, div. A, title I, § 112(a)](https://www.govinfo.gov/link/plaw/98/public/369), title IV, § 421(b)(6)(B), (C), July 18, 1984, [98 Stat. 635](https://www.govinfo.gov/link/statute/98/635), 794; [Pub. L. 99–514, title VI](https://www.govinfo.gov/link/plaw/99/public/514), §§ 631(e)(8), 642(a)(1)(D), (3), (b), title VIII, § 812(a), title XVIII, § 1809(c), Oct. 22, 1986, [100 Stat. 2274](https://www.govinfo.gov/link/statute/100/2274), 2284, 2371, 2821; [Pub. L. 100–203, title X, § 10202(b)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–388](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1006(e)(7), (i)(1), (2), 1008(g)(1), 1018(u)(25), (26), title II, § 2004(d)(1), (5), Nov. 10, 1988, [102 Stat. 3401](https://www.govinfo.gov/link/statute/102/3401), 3410, 3442, 3591, 3599; [Pub. L. 106–170, title V, § 536(a)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1936](https://www.govinfo.gov/link/statute/113/1936); [Pub. L. 106–573, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/573), Dec. 28, 2000, [114 Stat. 3061](https://www.govinfo.gov/link/statute/114/3061); [Pub. L. 108–357, title VIII, § 897(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1649](https://www.govinfo.gov/link/statute/118/1649).)*

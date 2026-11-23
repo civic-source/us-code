@@ -3,9 +3,10 @@ title: "Section 18995 - Cyber workforce development research and development"
 usc_title: 42
 usc_section: "18995"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18995"
-generated_at: "2026-03-30T02:56:11.536Z"
+generated_at: "2026-11-23T21:26:33.861Z"
+status: "active"
 ---
 
 # § 18995. Cyber workforce development research and development
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.536Z"
   - **(2)** align with or build on the National Initiative on Cybersecurity Education Cybersecurity Workforce Framework wherever practicable and applicable;
   - **(3)** leverage the collective body of knowledge from existing cyber workforce development research and education activities; and
   - **(4)** engage with other Federal departments and agencies, research communities, and potential users of information produced under this subsection.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10315](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1530](https://www.govinfo.gov/link/statute/136/1530).)*

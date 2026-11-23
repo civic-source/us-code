@@ -3,9 +3,10 @@ title: "Section 379j - Authority to assess and use device fees"
 usc_title: 21
 usc_section: "379j"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 379j"
-generated_at: "2026-03-30T02:54:54.268Z"
+generated_at: "2026-11-23T21:25:56.143Z"
+status: "active"
 ---
 
 # § 379j. Authority to assess and use device fees
@@ -197,3 +198,41 @@ generated_at: "2026-03-30T02:54:54.268Z"
 - **(i)** In any case where the Secretary does not receive payment of a fee assessed under subsection (a) within 30 days after it is due, such fee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
 - **(j)** To qualify for consideration for a refund under subsection (a)(2)(D), a person shall submit to the Secretary a written request for such refund not later than 180 days after such fee is due.
 - **(k)** This section may not be construed to require that the number of full-time equivalent positions in the Department of Health and Human Services, for officers, employees, and advisory committees not engaged in the process of the review of device applications, be reduced to offset the number of officers, employees, and advisory committees so engaged.
+
+| Fee Type | Fiscal Year 2023 | Fiscal Year 2024 | Fiscal Year 2025 | Fiscal Year 2026 | Fiscal Year 2027 |
+| --- | --- | --- | --- | --- | --- |
+| Premarket Application | $425,000 | $435,000 | $445,000 | $455,000 | $470,000 |
+| Establishment Registration | $6,250 | $6,875 | $7,100 | $7,575 | $8,465 |
+
+
+Premarket Application
+
+Establishment Registration
+
+(aa) $15,396,600 if such goal for fiscal year 2023 is met and such goal for fiscal year 2024 is not met.
+
+(bb) $36,792,200 if such goal for fiscal year 2024 is met.
+
+(aa) $15,396,600 if such goal for fiscal year 2023 is met and such goal for each of fiscal years 2024 and 2025 is not met.
+
+(bb) $36,792,200 if such goal for fiscal year 2024 is met and such goal for fiscal year 2025 is not met.
+
+(cc) $40,572,600 if such goal for fiscal year 2025 is met.
+
+(aa) $6,323,500 if such goal for fiscal year 2023 is met and such goal for fiscal year 2024 is not met.
+
+(bb) $11,765,400 if such goal for fiscal year 2024 is met.
+
+(aa) $1,020,000 if the 4 goals for fiscal year 2023 are met and one or more of the 4 goals for fiscal year 2024 are not met.
+
+(bb) $3,906,000 if the 4 goals for fiscal year 2024 are met.
+
+(aa) are more than 3 percent below the level specified in subparagraph (A)(ii), and fees assessed for a subsequent fiscal year are decreased by the amount in excess of 3 percent by which such costs fell below the level specified in such subparagraph; and
+
+(bb) such costs are not more than 5 percent below the level specified in such subparagraph.
+
+“A person submitting a premarket report to the Secretary of Health and Human Services is exempt from the fee under section 738(a)(2)(A)(ii) of the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 379j(a)(2)(A)(ii) ] (as added by subsection (a) of this section) if—
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 738, as added [Pub. L. 107–250, title I, § 102(a)](https://www.govinfo.gov/link/plaw/107/public/250), Oct. 26, 2002, [116 Stat. 1591](https://www.govinfo.gov/link/statute/116/1591); amended [Pub. L. 108–214, § 2(a)(2)](https://www.govinfo.gov/link/plaw/108/public/214), (d)(2)(A), (B), (3)(A), Apr. 1, 2004, [118 Stat. 572](https://www.govinfo.gov/link/statute/118/572), 576, 577; [Pub. L. 109–43, § 2(a)](https://www.govinfo.gov/link/plaw/109/public/43), Aug. 1, 2005, [119 Stat. 439](https://www.govinfo.gov/link/statute/119/439); [Pub. L. 110–85, title II, § 212](https://www.govinfo.gov/link/plaw/110/public/85), Sept. 27, 2007, [121 Stat. 844](https://www.govinfo.gov/link/statute/121/844); [Pub. L. 112–144, title II, § 203(a)](https://www.govinfo.gov/link/plaw/112/public/144) –(f), July 9, 2012, [126 Stat. 1002](https://www.govinfo.gov/link/statute/126/1002); [Pub. L. 112–193, § 2(b)(1)](https://www.govinfo.gov/link/plaw/112/public/193), Oct. 5, 2012, [126 Stat. 1443](https://www.govinfo.gov/link/statute/126/1443); [Pub. L. 115–52, title II, § 203(a)](https://www.govinfo.gov/link/plaw/115/public/52) –(f)(1), (2)(B)–(i), title IX, § 905(b)(2), Aug. 18, 2017, [131 Stat. 1013–1016](https://www.govinfo.gov/link/statute/131/1013), 1090; [Pub. L. 117–180, div. F, title II, § 2003](https://www.govinfo.gov/link/plaw/117/public/180), Sept. 30, 2022, [136 Stat. 2148](https://www.govinfo.gov/link/statute/136/2148); [Pub. L. 117–328, div. FF, title III](https://www.govinfo.gov/link/plaw/117/public/328), §§ 3309, 3625(d), (e)(1), Dec. 29, 2022, [136 Stat. 5836](https://www.govinfo.gov/link/statute/136/5836), 5882.)*

@@ -3,9 +3,10 @@ title: "Section 467 - Certain payments for the use of property or services"
 usc_title: 26
 usc_section: "467"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 467"
-generated_at: "2026-03-30T02:55:27.705Z"
+generated_at: "2026-11-23T21:26:06.289Z"
+status: "active"
 ---
 
 # § 467. Certain payments for the use of property or services
@@ -55,7 +56,18 @@ generated_at: "2026-03-30T02:55:27.705Z"
   - **(1)** The term “constant rental amount” means, with respect to any section 467 rental agreement, the amount which, if paid as of the close of each lease period under the agreement, would result in an aggregate present value equal to the present value of the aggregate payments required under the agreement.
   - **(2)** A transaction is a leaseback transaction if it involves a leaseback to any person who had an interest in such property at any time within 2 years before such leaseback (or to a related person).
   - **(3)**
-    - **(A)** In the case of: The statutory recovery period is: 3-year property 3 years 5-year property 5 years 7-year property 7 years 10-year property 10 years 15-year and 20-year property 15 years Residential rental property and nonresidential real property 19 years Any railroad grading or tunnel bore 50 years.
+    - **(A)**
+
+| In the case of: | The statutory recovery period is: |
+| --- | --- |
+| 3-year property | 3 years |
+| 5-year property | 5 years |
+| 7-year property | 7 years |
+| 10-year property | 10 years |
+| 15-year and 20-year property | 15 years |
+| Residential rental property and nonresidential real property | 19 years |
+| Any railroad grading or tunnel bore | 50 years. |
+
     - **(B)** In the case of property to which section 168 does not apply, subparagraph (A) shall be applied as if section 168 applies to such property.
   - **(4)** For purposes of computing present value and interest under subsection (a)(2), the rate used shall be equal to 110 percent of the applicable Federal rate determined under section 1274(d) (compounded semiannually) which is in effect at the time the agreement is entered into with respect to debt instruments having a maturity equal to the term of the agreement.
   - **(5)** The term “related person” has the meaning given to such term by section 465(b)(3)(C).
@@ -63,3 +75,56 @@ generated_at: "2026-03-30T02:55:27.705Z"
 - **(f)** Under regulations prescribed by the Secretary, rules comparable to the rules of this section shall also apply in the case of any agreement where the amount paid under the agreement for the use of property decreases during the term of the agreement.
 - **(g)** Under regulations prescribed by the Secretary, rules comparable to the rules of subsection (a)(2) shall also apply in the case of payments for services which meet requirements comparable to the requirements of subsection (d). The preceding sentence shall not apply to any amount to which section 404 or 404A (or any other provision specified in regulations) applies.
 - **(h)** The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including regulations providing for the application of this section in the case of contingent payments.
+
+| “Portion of lease term: | Cumulative percentage of total rent deemed paid: |
+| --- | --- |
+| 1st ⅕ | 10 |
+| 2nd ⅕ | 25 |
+| 3rd ⅕ | 45 |
+| 4th ⅕ | 70 |
+| Last ⅕ | 100. |
+
+
+3-year property
+
+5-year property
+
+7-year property
+
+10-year property
+
+15-year and 20-year property
+
+Residential rental property and nonresidential real property
+
+Any railroad grading or tunnel bore
+
+In general
+
+Exceptions
+
+Schedule of deemed rental payments.—
+
+In general
+
+Schedule.—
+
+In general
+
+1st ⅕
+
+2nd ⅕
+
+3rd ⅕
+
+4th ⅕
+
+Last ⅕
+
+Operating rules
+
+Paragraph not to apply
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title I, § 92(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 609](https://www.govinfo.gov/link/statute/98/609); amended [Pub. L. 99–514, title II, § 201(d)(8)](https://www.govinfo.gov/link/plaw/99/public/514), title V, § 511(d)(2)(A), title VI, § 631(e)(10), title XVIII, §§ 1807(b), 1879(f)(1), Oct. 22, 1986, [100 Stat. 2141](https://www.govinfo.gov/link/statute/100/2141), 2248, 2274, 2816, 2906; [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1002(i)(2)(H), 1005(c)(10), Nov. 10, 1988, [102 Stat. 3371](https://www.govinfo.gov/link/statute/102/3371), 3392; [Pub. L. 108–27, title III, § 302(e)(4)(B)(ii)](https://www.govinfo.gov/link/plaw/108/public/27), May 28, 2003, [117 Stat. 764](https://www.govinfo.gov/link/statute/117/764).)*

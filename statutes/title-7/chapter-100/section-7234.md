@@ -3,9 +3,10 @@ title: "Section 7234 - Repayment of loans"
 usc_title: 7
 usc_section: "7234"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7234"
-generated_at: "2026-03-30T02:53:42.445Z"
+generated_at: "2026-11-23T21:25:28.418Z"
+status: "active"
 ---
 
 # § 7234. Repayment of loans
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:42.445Z"
   - **(3)** The adjustment under paragraph (2) may not exceed the difference between—
     - **(A)** the Friday through Thursday average price for the lowest-priced United States growth as quoted for Middling 1 3 ⁄ 32 -inch cotton delivered C.I.F. Northern Europe; and
     - **(B)** the Northern Europe price.
+
+## Source Credit
+
+*([Pub. L. 104–127, title I, § 134](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 908](https://www.govinfo.gov/link/statute/110/908).)*

@@ -3,9 +3,10 @@ title: "Section 512 - Forfeiture of certain motor vehicles and motor vehicle par
 usc_title: 18
 usc_section: "512"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 512"
-generated_at: "2026-03-30T02:54:16.465Z"
+generated_at: "2026-11-23T21:25:43.969Z"
+status: "active"
 ---
 
 # § 512. Forfeiture of certain motor vehicles and motor vehicle parts
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:16.465Z"
   - **(3)** the remission or mitigation of such forfeiture; and
   - **(4)** the compromise of claims and the award of compensation to informers with respect to such forfeiture;
 - **(c)** As used in this section, the terms “identification number”, “motor vehicle”, and “motor vehicle scrap processor” have the meanings given those terms in section 511 of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 98–547, title II, § 201(a)](https://www.govinfo.gov/link/plaw/98/public/547), Oct. 25, 1984, [98 Stat. 2769](https://www.govinfo.gov/link/statute/98/2769); amended [Pub. L. 103–272, § 5(e)(4)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1373](https://www.govinfo.gov/link/statute/108/1373).)*

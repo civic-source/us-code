@@ -3,9 +3,10 @@ title: "Section 1383c - Eligibility for medical assistance of aged, blind, or di
 usc_title: 42
 usc_section: "1383c"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1383c"
-generated_at: "2026-03-30T02:56:10.932Z"
+generated_at: "2026-11-23T21:26:31.353Z"
+status: "active"
 ---
 
 # § 1383c. Eligibility for medical assistance of aged, blind, or disabled individuals under State’s medical assistance plan
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:10.932Z"
   - **(2)** For purposes of subchapter XIX, each person with respect to whom this subsection applies—
     - **(A)** shall be deemed to be a recipient of supplemental security income benefits under this subchapter if such person received such a benefit for the month before the month in which such person began to receive a benefit described in paragraph (1)(A), and
     - **(B)** shall be deemed to be a recipient of State supplementary payments of the type referred to in section 1382e(a) of this title (or payments of the type described in section 212(a) of Public Law 93–66 ) if such person received such a payment for the month before the month in which such person began to receive a benefit described in paragraph (1)(A),
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVI, § 1634, as added [Pub. L. 92–603, title III, § 301](https://www.govinfo.gov/link/plaw/92/public/603), Oct. 30, 1972, [86 Stat. 1478](https://www.govinfo.gov/link/statute/86/1478); amended [Pub. L. 99–272, title XII, § 12202(a)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 290](https://www.govinfo.gov/link/statute/100/290); [Pub. L. 99–643, § 6(a)](https://www.govinfo.gov/link/plaw/99/public/643), Nov. 10, 1986, [100 Stat. 3578](https://www.govinfo.gov/link/statute/100/3578); [Pub. L. 100–203, title IX](https://www.govinfo.gov/link/plaw/100/public/203), §§ 9108, 9116(a), Dec. 22, 1987, [101 Stat. 1330–302](https://www.govinfo.gov/link/statute/101/1330), 1330–305; [Pub. L. 101–508, title V, § 5103(c)(1)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–251](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–296, title I, § 107(a)(4)](https://www.govinfo.gov/link/plaw/103/public/296), title II, § 201(b)(3)(D), Aug. 15, 1994, [108 Stat. 1478](https://www.govinfo.gov/link/statute/108/1478), 1504; [Pub. L. 104–121, title I, § 105(b)(4)(B)](https://www.govinfo.gov/link/plaw/104/public/121), Mar. 29, 1996, [110 Stat. 854](https://www.govinfo.gov/link/statute/110/854).)*

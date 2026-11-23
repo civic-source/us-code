@@ -3,9 +3,10 @@ title: "Section 3633 - Authority and responsibility"
 usc_title: 16
 usc_section: "3633"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3633"
-generated_at: "2026-03-30T02:54:23.018Z"
+generated_at: "2026-11-23T21:25:51.979Z"
+status: "active"
 ---
 
 # § 3633. Authority and responsibility
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:23.018Z"
   - **(3)** act upon, or refer to other appropriate authority, any communication referred to in paragraph (1) of this subsection other than a proposed fishery regime or Fraser River Panel regulation.
 - **(b)** Recommendations of the Commission on fishery regimes or Fraser River Panel regulations approved by the Secretary of State pursuant to subsection (a)(2) shall be forwarded immediately to the States of Alaska, Oregon, Washington, and Idaho and to the treaty Indian tribes, as appropriate. In the exercise of their general fishery management authority, the States and treaty Indian tribes may adopt corresponding laws, regulations, or orders within their respective jurisdictions.
 - **(c)** In cooperation with the appropriate Regional Fishery Management Councils, States and treaty Indian tribes, the Secretary shall prepare, as appropriate, all statements, reports, and information required by the Treaty and submit such documents to the Secretary of State, who shall transmit them to the Commission.
+
+## Source Credit
+
+*([Pub. L. 99–5, § 4](https://www.govinfo.gov/link/plaw/99/public/5), Mar. 15, 1985, [99 Stat. 10](https://www.govinfo.gov/link/statute/99/10).)*

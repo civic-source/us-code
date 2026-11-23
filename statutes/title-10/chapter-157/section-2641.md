@@ -3,9 +3,10 @@ title: "Section 2641 - Transportation of certain veterans on Department of Defen
 usc_title: 10
 usc_section: "2641"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2641"
-generated_at: "2026-03-30T02:53:38.167Z"
+generated_at: "2026-11-23T21:25:32.639Z"
+status: "active"
 ---
 
 # § 2641. Transportation of certain veterans on Department of Defense aeromedical evacuation aircraft
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:38.167Z"
   - **(1)** A charge may not be imposed on a veteran (or on the survivors of a veteran) for transportation provided to the veteran (or for the remains of the veteran) under this section.
   - **(2)** An agreement under subsection (b) shall provide that the Department of Veterans Affairs shall reimburse the Department of Defense for any costs incurred in providing transportation to veterans (or for the remains of veterans) under this section that would not otherwise have been incurred by the Department of Defense.
 - **(e)** In this section, the term “veteran” has the meaning given that term in section 101(2) of title 38 .
+
+## Source Credit
+
+*(Added [Pub. L. 100–180, div. A, title XII, § 1250(a)(1)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1167](https://www.govinfo.gov/link/statute/101/1167); amended [Pub. L. 101–189, div. A, title XVI, § 1621(a)(1)](https://www.govinfo.gov/link/plaw/101/public/189), (2), (8), Nov. 29, 1989, [103 Stat. 1602](https://www.govinfo.gov/link/statute/103/1602), 1603; [Pub. L. 103–337, div. A, title VI, § 652(b)](https://www.govinfo.gov/link/plaw/103/public/337), title X, § 1070(e)(8), Oct. 5, 1994, [108 Stat. 2794](https://www.govinfo.gov/link/statute/108/2794), 2859.)*

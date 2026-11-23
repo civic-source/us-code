@@ -3,9 +3,10 @@ title: "Section 3851 - Experienced services program"
 usc_title: 16
 usc_section: "3851"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3851"
-generated_at: "2026-03-30T02:54:23.035Z"
+generated_at: "2026-11-23T21:25:52.001Z"
+status: "active"
 ---
 
 # § 3851. Experienced services program
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:23.035Z"
 - **(d)** An individual providing technical, professional, or administrative services, as applicable, under the program is deemed to be an employee of the United States Government for purposes of chapter 171 of title 28 if the individual—
   - **(1)** is providing technical, professional, or administrative services, as applicable, pursuant to an agreement entered into under subsection (b); and
   - **(2)** is acting within the scope of the agreement.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1252](https://www.govinfo.gov/link/plaw/99/public/198), as added [Pub. L. 110–234, title II, § 2710](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1082](https://www.govinfo.gov/link/statute/122/1082), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title II, § 2710, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1810; amended [Pub. L. 113–79, title II, § 2504](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 752](https://www.govinfo.gov/link/statute/128/752); [Pub. L. 115–334, title VII, § 7611](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4830](https://www.govinfo.gov/link/statute/132/4830).)*

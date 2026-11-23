@@ -3,9 +3,10 @@ title: "Section 1515 - Application for recognition"
 usc_title: 11
 usc_section: "1515"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1515"
-generated_at: "2026-03-30T02:53:53.888Z"
+generated_at: "2026-11-23T21:25:34.977Z"
+status: "active"
 ---
 
 # § 1515. Application for recognition
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:53.888Z"
   - **(3)** in the absence of evidence referred to in paragraphs (1) and (2), any other evidence acceptable to the court of the existence of such foreign proceeding and of the appointment of the foreign representative.
 - **(c)** A petition for recognition shall also be accompanied by a statement identifying all foreign proceedings with respect to the debtor that are known to the foreign representative.
 - **(d)** The documents referred to in paragraphs (1) and (2) of subsection (b) shall be translated into English. The court may require a translation into English of additional documents.
+
+## Source Credit
+
+*(Added [Pub. L. 109–8, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 139](https://www.govinfo.gov/link/statute/119/139).)*

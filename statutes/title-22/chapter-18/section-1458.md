@@ -3,9 +3,10 @@ title: "Section 1458 - Policy governing rendition of services"
 usc_title: 22
 usc_section: "1458"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1458"
-generated_at: "2026-03-30T02:55:05.331Z"
+generated_at: "2026-11-23T21:25:58.397Z"
+status: "active"
 ---
 
 # § 1458. Policy governing rendition of services
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.331Z"
   - **(2)** that if such services are rendered by a Government agency, they shall demonstrate the technical accomplishments of the United States, such services being of an advisory, investigative, or instructional nature, or a demonstration of a technical process;
   - **(3)** that such services shall not include the construction of public works or the supervision of the construction of public works, and that, under authority of this chapter, a Government agency shall render engineering services related to public works only when the Secretary shall determine that the national interest demands the rendering of such services by a Government agency, but this policy shall not be interpreted to preclude the assignment of individual specialists as advisers to other governments as provided under subchapter III of this chapter, together with such incidental assistance as may be necessary for the accomplishment of their individual assignments.
 
+
+## Source Credit
+
+*(Jan. 27, 1948, ch. 36, title IV, § 403, [62 Stat. 9](https://www.govinfo.gov/link/statute/62/9).)*

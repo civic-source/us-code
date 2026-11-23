@@ -3,9 +3,10 @@ title: "Section 4005 - Great Lakes hypoxia and harmful algal blooms"
 usc_title: 33
 usc_section: "4005"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 4005"
-generated_at: "2026-03-30T02:55:41.146Z"
+generated_at: "2026-11-23T21:26:11.495Z"
+status: "active"
 ---
 
 # § 4005. Great Lakes hypoxia and harmful algal blooms
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:41.146Z"
     - **(G)** utilize existing research, assessments, reports, and program activities;
     - **(H)** publish a summary of the proposed plan in the Federal Register at least 180 days prior to submitting the completed plan to Congress; and
     - **(I)** after submitting the completed plan to Congress, provide biennial progress reports on the activities toward achieving the objectives of the plan.
+
+## Source Credit
+
+*([Pub. L. 105–383, title VI, § 606](https://www.govinfo.gov/link/plaw/105/public/383), formerly § 605, Nov. 13, 1998, [112 Stat. 3449](https://www.govinfo.gov/link/statute/112/3449); [Pub. L. 108–456, title I, § 105](https://www.govinfo.gov/link/plaw/108/public/456), Dec. 10, 2004, [118 Stat. 3633](https://www.govinfo.gov/link/statute/118/3633); [Pub. L. 110–161, div. B, title V, § 528](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 1930](https://www.govinfo.gov/link/statute/121/1930); [Pub. L. 113–124, § 8](https://www.govinfo.gov/link/plaw/113/public/124), June 30, 2014, [128 Stat. 1384](https://www.govinfo.gov/link/statute/128/1384); renumbered § 606, [Pub. L. 117–144, § 2(a)(1)](https://www.govinfo.gov/link/plaw/117/public/144), June 16, 2022, [136 Stat. 1266](https://www.govinfo.gov/link/statute/136/1266).)*

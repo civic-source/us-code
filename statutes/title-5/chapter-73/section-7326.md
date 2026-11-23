@@ -3,9 +3,10 @@ title: "Section 7326 - Penalties"
 usc_title: 5
 usc_section: "7326"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 7326"
-generated_at: "2026-03-30T02:52:56.037Z"
+generated_at: "2026-11-23T21:25:23.339Z"
+status: "active"
 ---
 
 # § 7326. Penalties
@@ -15,3 +16,11 @@ An employee or individual who violates section 7323 or 7324 shall be subject to�
   - **(1)** disciplinary action consisting of removal, reduction in grade, debarment from Federal employment for a period not to exceed 5 years, suspension, or reprimand;
   - **(2)** an assessment of a civil penalty not to exceed $1,000; or
   - **(3)** any combination of the penalties described in paragraph (1) or (2).
+
+In general
+
+Exception
+
+## Source Credit
+
+*(Added [Pub. L. 112–230, § 4](https://www.govinfo.gov/link/plaw/112/public/230), Dec. 28, 2012, [126 Stat. 1617](https://www.govinfo.gov/link/statute/126/1617); amended [Pub. L. 115–91, div. A, title X, § 1097(k)(1)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1626](https://www.govinfo.gov/link/statute/131/1626).)*

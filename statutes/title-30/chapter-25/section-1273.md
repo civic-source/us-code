@@ -3,9 +3,10 @@ title: "Section 1273 - Federal lands"
 usc_title: 30
 usc_section: "1273"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1273"
-generated_at: "2026-03-30T02:55:29.402Z"
+generated_at: "2026-11-23T21:26:00.430Z"
+status: "active"
 ---
 
 # § 1273. Federal lands
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:29.402Z"
 - **(b)** The requirements of this chapter and the Federal lands program or an approved State program for State regulation of surface coal mining on Federal lands under subsection (c), whichever is applicable, shall be incorporated by reference or otherwise in any Federal mineral lease, permit, or contract issued by the Secretary which may involve surface coal mining and reclamation operations. Incorporation of such requirements shall not, however, limit in any way the authority of the Secretary to subsequently issue new regulations, revise the Federal lands program to deal with changing conditions or changed technology, and to require any surface mining and reclamation operations to conform with the requirements of this chapter and the regulations issued pursuant to this chapter.
 - **(c)** Any State with an approved State program may elect to enter into a cooperative agreement with the Secretary to provide for State regulation of surface coal mining and reclamation operations on Federal lands within the State, provided the Secretary determines in writing that such State has the necessary personnel and funding to fully implement such a cooperative agreement in accordance with the provision of this chapter. States with cooperative agreements existing on August 3, 1977 , may elect to continue regulation on Federal lands within the State, prior to approval by the Secretary of their State program, or imposition of a Federal program, provided that such existing cooperative agreement is modified to fully comply with the initial regulatory procedures set forth in section 1252 of this title . Nothing in this subsection shall be construed as authorizing the Secretary to delegate to the States his duty to approve mining plans on Federal lands, to designate certain Federal lands as unsuitable for surface coal mining pursuant to section 1272 of this title , or to regulate other activities taking place on Federal lands.
 - **(d)** The Secretary shall develop a program to assure that with respect to the granting of permits, leases, or contracts for coal owned by the United States, that no class of purchasers of the mined coal shall be unreasonably denied purchase thereof.
+
+## Source Credit
+
+*([Pub. L. 95–87, title V, § 523](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 510](https://www.govinfo.gov/link/statute/91/510).)*

@@ -3,9 +3,10 @@ title: "Section 3315B - Preparatory courses for licensure, certification, or nat
 usc_title: 38
 usc_section: "3315B"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3315B"
-generated_at: "2026-03-30T02:55:53.503Z"
+generated_at: "2026-11-23T21:26:16.737Z"
+status: "active"
 ---
 
 # § 3315B. Preparatory courses for licensure, certification, or national tests
@@ -20,3 +21,15 @@ generated_at: "2026-03-30T02:55:53.503Z"
 - **(d)** In this section, the term “covered preparatory course” means a course—
   - **(1)** for a licensing or certification test that is required or used to enter into, maintain, or advance in employment in a predetermined and identified vocation or profession; and
   - **(2)** that has been approved by the State approving agency concerned.
+
+In General
+
+Amount
+
+Charge Against Entitlement
+
+Covered Preparatory Course Defined
+
+## Source Credit
+
+*(Added [Pub. L. 116–154, § 5(a)](https://www.govinfo.gov/link/plaw/116/public/154), Aug. 8, 2020, [134 Stat. 691](https://www.govinfo.gov/link/statute/134/691).)*

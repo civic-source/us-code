@@ -3,9 +3,10 @@ title: "Section 16021 - Project establishment"
 usc_title: 42
 usc_section: "16021"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16021"
-generated_at: "2026-03-30T02:56:11.467Z"
+generated_at: "2026-11-23T21:26:33.691Z"
+status: "active"
 ---
 
 # § 16021. Project establishment
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.467Z"
     - **(A)** to generate electricity;
     - **(B)** to produce hydrogen; or
     - **(C)** both to generate electricity and to produce hydrogen.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VI, § 641](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 794](https://www.govinfo.gov/link/statute/119/794); [Pub. L. 115–248, § 2(b)(2)](https://www.govinfo.gov/link/plaw/115/public/248), Sept. 28, 2018, [132 Stat. 3155](https://www.govinfo.gov/link/statute/132/3155).)*

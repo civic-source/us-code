@@ -3,9 +3,10 @@ title: "Section 2801 - Definitions"
 usc_title: 25
 usc_section: "2801"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2801"
-generated_at: "2026-03-30T02:54:52.843Z"
+generated_at: "2026-11-23T21:25:54.676Z"
+status: "active"
 ---
 
 # § 2801. Definitions
@@ -24,3 +25,55 @@ For purposes of this chapter—
     - **(A)** a tribal prosecutor;
     - **(B)** a tribal law enforcement officer; or
     - **(C)** any other person responsible for investigating or prosecuting an alleged criminal offense in tribal court.
+
+Findings
+
+Purposes
+
+“In this title [see Short Title of 2010 Amendment note above]:
+
+Indian country
+
+Indian tribe
+
+Secretary
+
+Tribal government
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*([Pub. L. 101–379, § 2](https://www.govinfo.gov/link/plaw/101/public/379), Aug. 18, 1990, [104 Stat. 473](https://www.govinfo.gov/link/statute/104/473); [Pub. L. 111–211, title II](https://www.govinfo.gov/link/plaw/111/public/211), §§ 203(b), 211(a), July 29, 2010, [124 Stat. 2263](https://www.govinfo.gov/link/statute/124/2263), 2264.)*

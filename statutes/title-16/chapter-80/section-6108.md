@@ -3,9 +3,10 @@ title: "Section 6108 - Neotropical Migratory Bird Conservation Fund"
 usc_title: 16
 usc_section: "6108"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6108"
-generated_at: "2026-03-30T02:54:23.055Z"
+generated_at: "2026-11-23T21:25:52.035Z"
+status: "active"
 ---
 
 # § 6108. Neotropical Migratory Bird Conservation Fund
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:23.055Z"
   - **(1)** Subject to paragraph (2), the Secretary may use amounts in the Account, 1 1 So in original. Probably should be “Fund”. without further Act of appropriation, to carry out this chapter.
   - **(2)** Of amounts in the Account 1 available for each fiscal year, the Secretary may expend not more than 3 percent or up to $100,000, whichever is greater, to pay the administrative expenses necessary to carry out this chapter.
 - **(d)** The Secretary may accept and use donations to carry out this chapter. Amounts received by the Secretary in the form of donations shall be transferred to the Secretary of the Treasury for deposit into the Fund.
+
+## Source Credit
+
+*([Pub. L. 106–247, § 9](https://www.govinfo.gov/link/plaw/106/public/247), July 20, 2000, [114 Stat. 596](https://www.govinfo.gov/link/statute/114/596); [Pub. L. 109–363, title III, § 302(h)(1)](https://www.govinfo.gov/link/plaw/109/public/363), (2), (3)(B), Oct. 17, 2006, [120 Stat. 2076](https://www.govinfo.gov/link/statute/120/2076), 2077.)*

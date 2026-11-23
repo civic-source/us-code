@@ -3,9 +3,10 @@ title: "Section 5317A - Use of income information from other agencies: independe
 usc_title: 38
 usc_section: "5317A"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 5317A"
-generated_at: "2026-03-30T02:55:53.521Z"
+generated_at: "2026-11-23T21:26:16.821Z"
+status: "active"
 ---
 
 # § 5317A. Use of income information from other agencies: independent verification required before termination or reduction of certain benefits and services
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:55:53.521Z"
 - **(d)** The authority under this section shall be in effect as follows:
   - **(1)** During the period beginning on December 26, 2007 , and ending on November 18, 2011 .
   - **(2)** During the period beginning on the date of the enactment of the Department of Veterans Affairs Expiring Authorities Act of 2013 and ending 180 days after that date.
+
+Independent Verification Required
+
+Opportunity to Contest Findings
+
+Source of Funds for Reimbursement to Secretary of Health and Human Services
+
+Expiration of Authority
+
+## Source Credit
+
+*(Added [Pub. L. 110–157, title III, § 301(b)(1)](https://www.govinfo.gov/link/plaw/110/public/157), Dec. 26, 2007, [121 Stat. 1835](https://www.govinfo.gov/link/statute/121/1835); amended [Pub. L. 112–37, § 17(a)](https://www.govinfo.gov/link/plaw/112/public/37), Oct. 5, 2011, [125 Stat. 398](https://www.govinfo.gov/link/statute/125/398); [Pub. L. 113–37, § 3(b)](https://www.govinfo.gov/link/plaw/113/public/37), Sept. 30, 2013, [127 Stat. 525](https://www.govinfo.gov/link/statute/127/525).)*

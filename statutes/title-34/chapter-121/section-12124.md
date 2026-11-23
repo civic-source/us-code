@@ -3,9 +3,10 @@ title: "Section 12124 - Correctional job training and placement"
 usc_title: 34
 usc_section: "12124"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 12124"
-generated_at: "2026-03-30T02:55:33.283Z"
+generated_at: "2026-11-23T21:26:09.727Z"
+status: "active"
 ---
 
 # § 12124. Correctional job training and placement
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:33.283Z"
   - **(8)**
     - **(A)** collect from States and local governments information on the development and implementation of correctional job training or placement programs; and
     - **(B)** disseminate such information, as appropriate.
+
+## Source Credit
+
+*([Pub. L. 103–322, title II, § 20418](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1835](https://www.govinfo.gov/link/statute/108/1835).)*

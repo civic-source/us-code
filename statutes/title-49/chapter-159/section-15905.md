@@ -3,9 +3,10 @@ title: "Section 15905 - Limitation on actions by and against pipeline carriers"
 usc_title: 49
 usc_section: "15905"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 15905"
-generated_at: "2026-03-30T02:56:19.333Z"
+generated_at: "2026-11-23T21:26:40.698Z"
+status: "active"
 ---
 
 # § 15905. Limitation on actions by and against pipeline carriers
@@ -20,3 +21,21 @@ generated_at: "2026-03-30T02:56:19.333Z"
   - **(2)** subsequent refund for overpayment of that rate, or
   - **(3)** deduction made under section 3726 of title 31 ,
 - **(g)** A claim related to a shipment of property accrues under this section on delivery or tender of delivery by the carrier.
+
+In General
+
+Overcharges
+
+Damages
+
+Extensions
+
+Payment
+
+Government Transportation
+
+Accrual Date
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 106(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 928](https://www.govinfo.gov/link/statute/109/928).)*

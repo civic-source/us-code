@@ -3,9 +3,10 @@ title: "Section 450rr - R.M.S. Titanic; international maritime memorial; finding
 usc_title: 16
 usc_section: "450rr"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 450rr"
-generated_at: "2026-03-30T02:54:22.804Z"
+generated_at: "2026-11-23T21:25:51.542Z"
+status: "active"
 ---
 
 # § 450rr. R.M.S. Titanic; international maritime memorial; findings and purposes
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:22.804Z"
   - **(2)** to direct the United States to enter into negotiations with other interested nations to establish an international agreement which will provide for the designation of the R.M.S. Titanic as an international maritime memorial, and protect the scientific, cultural, and historical significance of the R.M.S. Titanic;
   - **(3)** to encourage, in those negotiations or in other fora, the development and implementation of international guidelines for conducting research on, exploration of, and if appropriate, salvage of the R.M.S. Titanic; and
   - **(4)** to express the sense of the United States Congress that, pending such international agreement or guidelines, no person should physically alter, disturb, or salvage the R.M.S. Titanic in any research or exploratory activities which are conducted.
+
+## Source Credit
+
+*([Pub. L. 99–513, § 2](https://www.govinfo.gov/link/plaw/99/public/513), Oct. 21, 1986, [100 Stat. 2082](https://www.govinfo.gov/link/statute/100/2082).)*

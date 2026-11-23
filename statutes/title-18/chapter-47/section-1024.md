@@ -3,12 +3,17 @@ title: "Section 1024 - Purchase or receipt of military, naval, or veteran’s fa
 usc_title: 18
 usc_section: "1024"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1024"
-generated_at: "2026-03-30T02:54:16.479Z"
+generated_at: "2026-11-23T21:25:44.033Z"
+status: "active"
 ---
 
 # § 1024. Purchase or receipt of military, naval, or veteran’s facilities property
 
 Whoever purchases, or receives in pledge from any person any arms, equipment, ammunition, clothing, military stores, or other property furnished by the United States under a clothing allowance or otherwise, to any member of the Armed Forces of the United States or of the National Guard or Naval Militia, or to any person accompanying, serving, or retained with the land or naval forces and subject to military or naval law, or to any former member of such Armed Forces at or by any hospital, home, or facility maintained by the United States, having knowledge or reason to believe that the property has been taken from the possession of or furnished by the United States under such allowance, or otherwise, shall be fined under this title or imprisoned not more than two years, or both.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 754](https://www.govinfo.gov/link/statute/62/754); [Pub. L. 103–322, title XXXIII, § 330016(1)(G)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2147](https://www.govinfo.gov/link/statute/108/2147).)*

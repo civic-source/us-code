@@ -3,9 +3,10 @@ title: "Section 1677a - Export price and constructed export price"
 usc_title: 19
 usc_section: "1677a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1677a"
-generated_at: "2026-03-30T02:54:24.656Z"
+generated_at: "2026-11-23T21:25:42.751Z"
+status: "active"
 ---
 
 # § 1677a. Export price and constructed export price
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:24.656Z"
       - **(ii)** The expenses incurred with respect to the narrowest category of merchandise sold in the United States and the exporting country which includes the subject merchandise.
       - **(iii)** The expenses incurred with respect to the narrowest category of merchandise sold in all countries which includes the subject merchandise.
     - **(D)** The term “total actual profit” means the total profit earned by the foreign producer, exporter, and affiliated parties described in subparagraph (C) with respect to the sale of the same merchandise for which total expenses are determined under such subparagraph.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VII, § 772, as added [Pub. L. 96–39, title I, § 101](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 181](https://www.govinfo.gov/link/statute/93/181); amended [Pub. L. 98–573, title VI, § 614](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 3036](https://www.govinfo.gov/link/statute/98/3036); [Pub. L. 103–465, title II, § 223](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4876](https://www.govinfo.gov/link/statute/108/4876).)*

@@ -3,9 +3,10 @@ title: "Section 5304 - Rhinoceros and tiger conservation assistance"
 usc_title: 16
 usc_section: "5304"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 5304"
-generated_at: "2026-03-30T02:54:23.051Z"
+generated_at: "2026-11-23T21:25:52.030Z"
+status: "active"
 ---
 
 # § 5304. Rhinoceros and tiger conservation assistance
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:23.051Z"
 - **(g)**
   - **(1)** The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant of up to 5 years to carry out a project that the person demonstrates is an effective, long-term conservation strategy for rhinoceroses or tigers and the habitat of rhinoceroses or tigers.
   - **(2)** Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.
+
+## Source Credit
+
+*([Pub. L. 103–391, § 5](https://www.govinfo.gov/link/plaw/103/public/391), Oct. 22, 1994, [108 Stat. 4095](https://www.govinfo.gov/link/statute/108/4095); [Pub. L. 107–112, § 5](https://www.govinfo.gov/link/plaw/107/public/112), Jan. 8, 2002, [115 Stat. 2098](https://www.govinfo.gov/link/statute/115/2098); [Pub. L. 110–132, § 3(a)](https://www.govinfo.gov/link/plaw/110/public/132), Dec. 6, 2007, [121 Stat. 1360](https://www.govinfo.gov/link/statute/121/1360); [Pub. L. 118–159, div. E, title LIII, § 5305(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2445](https://www.govinfo.gov/link/statute/138/2445).)*

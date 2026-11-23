@@ -3,9 +3,10 @@ title: "Section 302b - Special pay: dental officers of the armed forces"
 usc_title: 37
 usc_section: "302b"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 302b"
-generated_at: "2026-03-30T02:55:44.050Z"
+generated_at: "2026-11-23T21:26:14.181Z"
+status: "active"
 ---
 
 # § 302b. Special pay: dental officers of the armed forces
@@ -50,3 +51,21 @@ generated_at: "2026-03-30T02:55:44.050Z"
   - **(2)** A reserve dental officer referred to in paragraph (1) is a reserve officer who—
     - **(A)** is an officer of the Dental Corps of the Army or the Navy or an officer of the Air Force designated as a dental officer; and
     - **(B)** is on active duty under a call or order to active duty for a period of less than one year.
+
+Variable, Additional, Board Certification, and Incentive Special Pay
+
+Active-Duty Agreement
+
+Regulations
+
+Frequency of Payments
+
+Repayment
+
+Determination of Creditable Service
+
+Reserve Dental Officers Special Pay
+
+## Source Credit
+
+*(Added [Pub. L. 93–274, § 1(2)](https://www.govinfo.gov/link/plaw/93/public/274), May 6, 1974, [88 Stat. 94](https://www.govinfo.gov/link/statute/88/94); amended [Pub. L. 96–284, § 4(b)](https://www.govinfo.gov/link/plaw/96/public/284), June 28, 1980, [94 Stat. 591](https://www.govinfo.gov/link/statute/94/591); [Pub. L. 99–145, title VI, § 639(a)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 649](https://www.govinfo.gov/link/statute/99/649); [Pub. L. 102–25, title VII, § 702(b)(1)](https://www.govinfo.gov/link/plaw/102/public/25), (2), (c), Apr. 6, 1991, [105 Stat. 117](https://www.govinfo.gov/link/statute/105/117); [Pub. L. 104–201, div. A, title VI, § 615(a)](https://www.govinfo.gov/link/plaw/104/public/201), (b), (e), Sept. 23, 1996, [110 Stat. 2545](https://www.govinfo.gov/link/statute/110/2545), 2547; [Pub. L. 105–85, div. A, title VI, § 618](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1789](https://www.govinfo.gov/link/statute/111/1789); [Pub. L. 109–163, div. A, title VI](https://www.govinfo.gov/link/plaw/109/public/163), §§ 625, 626, 687(b)(6), Jan. 6, 2006, [119 Stat. 3295](https://www.govinfo.gov/link/statute/119/3295), 3328; [Pub. L. 109–364, div. A, title VI, § 615(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2249](https://www.govinfo.gov/link/statute/120/2249); [Pub. L. 110–181, div. A, title VI, § 616(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 150](https://www.govinfo.gov/link/statute/122/150).)*

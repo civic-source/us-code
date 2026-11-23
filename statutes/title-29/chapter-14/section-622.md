@@ -3,9 +3,10 @@ title: "Section 622 - Education and research program; recommendation to Congress
 usc_title: 29
 usc_section: "622"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 622"
-generated_at: "2026-03-30T02:55:18.686Z"
+generated_at: "2026-11-23T21:26:02.186Z"
+status: "active"
 ---
 
 # § 622. Education and research program; recommendation to Congress
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:55:18.686Z"
   - **(3)** foster through the public employment service system and through cooperative effort the development of facilities of public and private agencies for expanding the opportunities and potentials of older persons;
   - **(4)** sponsor and assist State and community informational and educational programs.
 - **(b)** Not later than six months after the effective date of this chapter, the Secretary shall recommend to the Congress any measures he may deem desirable to change the lower or upper age limits set forth in section 631 of this title .
+
+Study
+
+Consultation Requirement
+
+Proposed Guidelines
+
+## Source Credit
+
+*([Pub. L. 90–202, § 3](https://www.govinfo.gov/link/plaw/90/public/202), Dec. 15, 1967, [81 Stat. 602](https://www.govinfo.gov/link/statute/81/602).)*

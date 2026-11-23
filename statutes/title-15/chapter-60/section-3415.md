@@ -3,9 +3,10 @@ title: "Section 3415 - Intervention"
 usc_title: 15
 usc_section: "3415"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3415"
-generated_at: "2026-03-30T02:54:08.189Z"
+generated_at: "2026-11-23T21:25:39.970Z"
+status: "active"
 ---
 
 # § 3415. Intervention
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.189Z"
 - **(b)**
   - **(1)** The Secretary may obtain review of any determination made in any proceeding described in subsection (a)(1) in the appropriate State court if the Secretary intervened or otherwise participated in the original proceeding or if State law otherwise permits such review.
   - **(2)** In addition to his authority to obtain review under paragraph (1), the Secretary may also participate an 1 1 So in original. Probably should be “as”. amicus curiae in any judicial review of any proceeding described in subsection (a)(1).
+
+## Source Credit
+
+*([Pub. L. 95–621, title V, § 505](https://www.govinfo.gov/link/plaw/95/public/621), Nov. 9, 1978, [92 Stat. 3403](https://www.govinfo.gov/link/statute/92/3403).)*

@@ -3,9 +3,10 @@ title: "Section 280n - National Parkinson’s Project"
 usc_title: 42
 usc_section: "280n"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 280n"
-generated_at: "2026-03-30T02:56:10.735Z"
+generated_at: "2026-11-23T21:26:30.448Z"
+status: "active"
 ---
 
 # § 280n. National Parkinson’s Project
@@ -81,3 +82,7 @@ generated_at: "2026-03-30T02:56:10.735Z"
   - **(5)** The Advisory Council shall terminate at the end of calendar year 2035.
 - **(f)** Each Federal department and agency that has information relating to Parkinson’s shall share such information with the Secretary consistent with the statutory obligations of such department or agency regarding disclosure of information, as necessary to enable the Secretary to complete a report under subsection (e)(4).
 - **(g)** The section shall cease to be effective at the end of calendar year 2035.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 399OO, as added [Pub. L. 118–66, § 2](https://www.govinfo.gov/link/plaw/118/public/66), July 2, 2024, [138 Stat. 1443](https://www.govinfo.gov/link/statute/138/1443).)*

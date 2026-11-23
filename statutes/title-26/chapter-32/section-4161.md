@@ -3,9 +3,10 @@ title: "Section 4161 - Imposition of tax"
 usc_title: 26
 usc_section: "4161"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4161"
-generated_at: "2026-03-30T02:55:27.799Z"
+generated_at: "2026-11-23T21:26:06.602Z"
+status: "active"
 ---
 
 # § 4161. Imposition of tax
@@ -36,3 +37,19 @@ generated_at: "2026-03-30T02:55:27.799Z"
         - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, determined by substituting “2004” for “2016” in subparagraph (A)(ii) thereof.
       - **(ii)** If any increase determined under clause (i) is not a multiple of 1 cent, such increase shall be rounded to the nearest multiple of 1 cent.
   - **(3)** No tax shall be imposed under this subsection with respect to any article taxable under subsection (a).
+
+In general
+
+limitation on tax imposed on sonar devices suitable for finding fish
+
+In general
+
+Special rules
+
+Installment sales, etc
+
+Electric light bulbs used in manufacture of articles upon which tax is repealed
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 489; [Pub. L. 89–44, title II, § 205(a)](https://www.govinfo.gov/link/plaw/89/public/44), June 21, 1965, [79 Stat. 140](https://www.govinfo.gov/link/statute/79/140); [Pub. L. 92–558, title II, § 201(a)](https://www.govinfo.gov/link/plaw/92/public/558), Oct. 25, 1972, [86 Stat. 1173](https://www.govinfo.gov/link/statute/86/1173); [Pub. L. 98–369, div. A, title X](https://www.govinfo.gov/link/plaw/98/public/369), §§ 1015(a), 1017(a), (b), July 18, 1984, [98 Stat. 1017](https://www.govinfo.gov/link/statute/98/1017), 1021; [Pub. L. 99–514, title XVIII, § 1899A(48)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2961](https://www.govinfo.gov/link/statute/100/2961); [Pub. L. 105–34, title XIV, § 1433(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1051](https://www.govinfo.gov/link/statute/111/1051); [Pub. L. 108–357, title III](https://www.govinfo.gov/link/plaw/108/public/357), §§ 332(a)–(c), 333(a), Oct. 22, 2004, [118 Stat. 1477](https://www.govinfo.gov/link/statute/118/1477), 1478; [Pub. L. 108–493, § 1(a)](https://www.govinfo.gov/link/plaw/108/public/493) –(c), Dec. 23, 2004, [118 Stat. 3984](https://www.govinfo.gov/link/statute/118/3984); [Pub. L. 109–59, title XI, § 11117(a)](https://www.govinfo.gov/link/plaw/109/public/59), (b), Aug. 10, 2005, [119 Stat. 1951](https://www.govinfo.gov/link/statute/119/1951); [Pub. L. 109–135, title IV, § 412(uu)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2640](https://www.govinfo.gov/link/statute/119/2640); [Pub. L. 110–343, div. C, title V, § 503(a)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3877](https://www.govinfo.gov/link/statute/122/3877); [Pub. L. 115–97, title I, § 11002(d)(11)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2062](https://www.govinfo.gov/link/statute/131/2062).)*

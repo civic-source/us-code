@@ -3,9 +3,10 @@ title: "Section 402b - Basic needs allowance for members on active service in th
 usc_title: 37
 usc_section: "402b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 402b"
-generated_at: "2026-03-30T02:55:44.056Z"
+generated_at: "2026-11-23T21:26:14.226Z"
+status: "active"
 ---
 
 # § 402b. Basic needs allowance for members on active service in the Armed Forces
@@ -54,3 +55,61 @@ generated_at: "2026-03-30T02:55:44.056Z"
     - **(A)** all household income, derived from any source; minus
     - **(B)** in the case of a member whom the Secretary concerned determines resides in an area with a high cost of living or that otherwise has a demonstrated need, any portion of the basic allowance for housing under section 403 of this title that the Secretary concerned elects to exclude.
   - **(2)** The term “household” means a member of the armed forces and any dependents of the member enrolled in the Defense Enrollment Eligibility Reporting System, regardless of the location of those dependents.
+
+Allowance Required
+
+Eligible Members
+
+Amount of Allowance
+
+Bases of Ineligibility.—
+
+In general
+
+Household with more than one eligible member
+
+Automatic ineligibility of members receiving certain pay increases
+
+Ineligibility of certain changes in income
+
+Application by Members Seeking Allowance.—
+
+In general
+
+Timing of submission
+
+Voluntary submission
+
+Screening of members for eligibility
+
+Determinations of Eligibility.—
+
+In general
+
+Information included in notice
+
+Election Not to Receive Allowance.—
+
+In general
+
+Deemed ineligible
+
+Special Rule for Members Stationed Outside United States
+
+Regulations
+
+Effective Period.—
+
+Implementation period
+
+Termination
+
+Definitions
+
+Gross household income
+
+Household
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. A, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1761](https://www.govinfo.gov/link/statute/135/1761); amended [Pub. L. 117–263, div. A, title VI, § 611(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2622](https://www.govinfo.gov/link/statute/136/2622); [Pub. L. 117–328, div. O, title II, § 201(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5226](https://www.govinfo.gov/link/statute/136/5226); [Pub. L. 118–31, div. A, title VI, § 621(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 293](https://www.govinfo.gov/link/statute/137/293); [Pub. L. 118–159, div. A, title VI, § 621](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1933](https://www.govinfo.gov/link/statute/138/1933).)*

@@ -3,9 +3,10 @@ title: "Section 10309 - Post Data Pilot Program"
 usc_title: 22
 usc_section: "10309"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10309"
-generated_at: "2026-03-30T02:55:05.476Z"
+generated_at: "2026-11-23T21:25:58.797Z"
+status: "active"
 ---
 
 # § 10309. Post Data Pilot Program
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.476Z"
 - **(c)** In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives; and
   - **(2)** the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
+
+## Source Credit
+
+*([Pub. L. 119–60, div. E, title III, § 5301](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1592](https://www.govinfo.gov/link/statute/139/1592).)*

@@ -3,9 +3,10 @@ title: "Section 274 - Disallowance of certain entertainment, etc., expenses"
 usc_title: 26
 usc_section: "274"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 274"
-generated_at: "2026-03-30T02:55:27.659Z"
+generated_at: "2026-11-23T21:26:06.118Z"
+status: "active"
 ---
 
 # § 274. Disallowance of certain entertainment, etc., expenses
@@ -164,3 +165,27 @@ generated_at: "2026-03-30T02:55:27.659Z"
   - **(1)** any expense for the operation of a facility described in section 132(e)(2), and any expense for food or beverages, including under section 132(e)(1), associated with such facility, or
   - **(2)** any expense for meals described in section 119(a).
 - **(p)** The Secretary shall prescribe such regulations as he may deem necessary to carry out the purposes of this section, including regulations prescribing whether subsection (a) or subsection (b) applies in cases where both such subsections would otherwise apply.
+
+(aa) is located in the United States north of 50 degrees north latitude, and
+
+(bb) is not located in a metropolitan statistical area (within the meaning of section 143(k)(2)(B)), or
+
+In general
+
+Effective date for elimination of deduction for meals provided at convenience of employer
+
+Repeals
+
+Restoration of Prior Law for
+
+Exception From Substantiation Requirements for Qualified Nonpersonal Use Vehicles
+
+In general
+
+Information return requirement
+
+Application of subparagraph
+
+## Source Credit
+
+*(Added [Pub. L. 87–834, § 4(a)(1)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 974](https://www.govinfo.gov/link/statute/76/974); amended [Pub. L. 88–272, title II, § 217(a)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 56](https://www.govinfo.gov/link/statute/78/56); [Pub. L. 94–455, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/94/public/455), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1572](https://www.govinfo.gov/link/statute/90/1572), 1834; [Pub. L. 95–600, title III, § 361(a)](https://www.govinfo.gov/link/plaw/95/public/600), (b), title VII, § 701(g)(1)–(3), Nov. 6, 1978, [92 Stat. 2847](https://www.govinfo.gov/link/statute/92/2847), 2903, 2904; [Pub. L. 96–222, title I, § 103(a)(10)(A)](https://www.govinfo.gov/link/plaw/96/public/222), (B) Apr. 1, 1980, [94 Stat. 212](https://www.govinfo.gov/link/statute/94/212); [Pub. L. 96–598, § 5(a)](https://www.govinfo.gov/link/plaw/96/public/598), Dec. 24, 1980, [94 Stat. 3488](https://www.govinfo.gov/link/statute/94/3488); [Pub. L. 96–605, title I, § 108(a)](https://www.govinfo.gov/link/plaw/96/public/605), Dec. 28, 1980, [94 Stat. 3524](https://www.govinfo.gov/link/statute/94/3524); [Pub. L. 96–608, § 4(a)](https://www.govinfo.gov/link/plaw/96/public/608), Dec. 28, 1980, [94 Stat. 3552](https://www.govinfo.gov/link/statute/94/3552); [Pub. L. 97–34, title II, § 265(a)](https://www.govinfo.gov/link/plaw/97/public/34), (b), Aug. 13, 1981, [95 Stat. 265](https://www.govinfo.gov/link/statute/95/265); [Pub. L. 97–248, title III](https://www.govinfo.gov/link/plaw/97/public/248), §§ 307(a)(1), 308(a), Sept. 3, 1982, [96 Stat. 589](https://www.govinfo.gov/link/statute/96/589), 591; [Pub. L. 97–424, title V, § 543(a)](https://www.govinfo.gov/link/plaw/97/public/424), Jan. 6, 1983, [96 Stat. 2195](https://www.govinfo.gov/link/statute/96/2195); [Pub. L. 98–67, title I, § 102(a)](https://www.govinfo.gov/link/plaw/98/public/67), title II, § 222(a), Aug. 5, 1983, [97 Stat. 369](https://www.govinfo.gov/link/statute/97/369), 395; [Pub. L. 98–369, div. A, title I, § 179(b)(1)](https://www.govinfo.gov/link/plaw/98/public/369), title VIII, § 801(c), July 18, 1984, [98 Stat. 718](https://www.govinfo.gov/link/statute/98/718), 995; [Pub. L. 99–44](https://www.govinfo.gov/link/plaw/99/public/44), §§ 1(a), 2, 6(b), May 24, 1985, [99 Stat. 77](https://www.govinfo.gov/link/statute/99/77), 79; [Pub. L. 99–514, title I](https://www.govinfo.gov/link/plaw/99/public/514), §§ 122(c), (d), 142(a)–(c), title XI, § 1114(b)(6), Oct. 22, 1986, [100 Stat. 2110](https://www.govinfo.gov/link/statute/100/2110), 2117–2120, 2451; [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1001(g)(1)–(4)(A), (5), 1018(u)(2), title VI, § 6003(a), Nov. 10, 1988, [102 Stat. 3351](https://www.govinfo.gov/link/statute/102/3351), 3352, 3590, 3684; [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7816(a), 7841(d)(18), Dec. 19, 1989, [103 Stat. 2420](https://www.govinfo.gov/link/statute/103/2420), 2429; [Pub. L. 101–508, title XI, § 11802(b)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–529](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–66, title XIII](https://www.govinfo.gov/link/plaw/103/public/66), §§ 13209(a), (b), 13210(a), (b), 13272(a), Aug. 10, 1993, [107 Stat. 469](https://www.govinfo.gov/link/statute/107/469), 542; [Pub. L. 105–34, title IX, § 969(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 896](https://www.govinfo.gov/link/statute/111/896); [Pub. L. 108–357, title VIII, § 907(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1654](https://www.govinfo.gov/link/statute/118/1654); [Pub. L. 109–135, title IV, § 403(mm)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2632](https://www.govinfo.gov/link/statute/119/2632); [Pub. L. 113–295, div. A, title II, § 221(a)(46)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4045](https://www.govinfo.gov/link/statute/128/4045); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 13304(a)(1)–(2)(E), (b)–(d), 13310(a), Dec. 22, 2017, [131 Stat. 2124–2126](https://www.govinfo.gov/link/statute/131/2124), 2132; [Pub. L. 116–260, div. EE, title II, § 210(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3066](https://www.govinfo.gov/link/statute/134/3066); [Pub. L. 119–21, title VII](https://www.govinfo.gov/link/plaw/119/public/21), §§ 70112(c), 70305(a), (b), July 4, 2025, [139 Stat. 165](https://www.govinfo.gov/link/statute/139/165), 197.)*

@@ -3,9 +3,10 @@ title: "Section 333 - Special bonus and incentive pay authorities for nuclear of
 usc_title: 37
 usc_section: "333"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 333"
-generated_at: "2026-03-30T02:55:44.054Z"
+generated_at: "2026-11-23T21:26:14.213Z"
+status: "active"
 ---
 
 # § 333. Special bonus and incentive pay authorities for nuclear officers
@@ -34,3 +35,35 @@ generated_at: "2026-03-30T02:55:44.054Z"
 - **(g)** A person or officer who receives a nuclear officer bonus or nuclear officer incentive pay under this section and who fails to complete the officer naval nuclear power training program, maintain required technical and operational qualifications, complete the period of service, or meet the types or conditions of service for which the bonus or incentive pay is paid, as specified in the written agreement under subsection (e) in the case of a nuclear officer bonus, shall be subject to the repayment provisions of section 373 of this title .
 - **(h)** This section shall be administered under regulations prescribed by the Secretary of the Navy.
 - **(i)** No agreement may be entered into under this section after December 31, 2026 .
+
+Nuclear Officer Bonus
+
+Nuclear Officer Incentive Pay
+
+Additional Eligibility Criteria
+
+Maximum Amount and Method of Payment.—
+
+Maximum amount
+
+Lump sum or installments
+
+Fixing bonus amount
+
+Written Agreement for Bonus.—
+
+Agreement required
+
+Replacement agreement
+
+Relationship to Other Pay and Allowances
+
+Repayment
+
+Regulations
+
+Termination of Authority
+
+## Source Credit
+
+*(Added [Pub. L. 110–181, div. A, title VI, § 661(a)(2)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 166](https://www.govinfo.gov/link/statute/122/166); amended [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title VI, § 618(a), Oct. 14, 2008, [122 Stat. 4486](https://www.govinfo.gov/link/statute/122/4486); [Pub. L. 111–84, div. A, title VI, § 614(3)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2353](https://www.govinfo.gov/link/statute/123/2353); [Pub. L. 111–383, div. A, title VI, § 614(3)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4237](https://www.govinfo.gov/link/statute/124/4237); [Pub. L. 112–81, div. A, title VI, § 614(3)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1450](https://www.govinfo.gov/link/statute/125/1450); [Pub. L. 112–239, div. A, title VI, § 614(3)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1777](https://www.govinfo.gov/link/statute/126/1777); [Pub. L. 113–66, div. A, title VI, § 614(3)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 781](https://www.govinfo.gov/link/statute/127/781); [Pub. L. 113–291, div. A, title VI, § 614(3)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3400](https://www.govinfo.gov/link/statute/128/3400); [Pub. L. 114–92, div. A, title VI](https://www.govinfo.gov/link/plaw/114/public/92), §§ 614(3), 616, Nov. 25, 2015, [129 Stat. 839](https://www.govinfo.gov/link/statute/129/839); [Pub. L. 114–328, div. A, title VI, § 614(3)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2158](https://www.govinfo.gov/link/statute/130/2158); [Pub. L. 115–91, div. A, title VI, § 614(3)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1422](https://www.govinfo.gov/link/statute/131/1422); [Pub. L. 115–232, div. A, title VI, § 611(c)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1797](https://www.govinfo.gov/link/statute/132/1797); [Pub. L. 116–92, div. A, title VI, § 611(c)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1426](https://www.govinfo.gov/link/statute/133/1426); [Pub. L. 116–283, div. A, title VI, § 611(c)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3673](https://www.govinfo.gov/link/statute/134/3673); [Pub. L. 117–81, div. A, title VI, § 611(c)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1769](https://www.govinfo.gov/link/statute/135/1769); [Pub. L. 117–263, div. A, title VI](https://www.govinfo.gov/link/plaw/117/public/263), §§ 601(c), 602(b), Dec. 23, 2022, [136 Stat. 2619](https://www.govinfo.gov/link/statute/136/2619), 2620; [Pub. L. 118–31, div. A, title VI, § 613(c)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 291](https://www.govinfo.gov/link/statute/137/291); [Pub. L. 118–159, div. A, title VI, § 611(c)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1932](https://www.govinfo.gov/link/statute/138/1932); [Pub. L. 119–60, div. A, title VI, § 611(c)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 906](https://www.govinfo.gov/link/statute/139/906).)*

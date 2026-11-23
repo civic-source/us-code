@@ -3,9 +3,10 @@ title: "Section 8302 - Definitions"
 usc_title: 16
 usc_section: "8302"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8302"
-generated_at: "2026-03-30T02:54:23.083Z"
+generated_at: "2026-11-23T21:25:52.076Z"
+status: "active"
 ---
 
 # § 8302. Definitions
@@ -49,3 +50,7 @@ In this chapter:
   - **(11)** The term “Secretary” means the Secretary of the Interior.
   - **(12)** The term “Service” means the United States Fish and Wildlife Service.
   - **(13)** The term “technical assistance” means a collaboration, facilitation, or consulting action relating to a coastal habitat planning, coastal habitat assessment, coastal habitat protection, coastal habitat restoration, or coastal habitat enhancement project or initiative in which the Service contributes scientific knowledge, skills, and expertise to the project or initiative.
+
+## Source Credit
+
+*([Pub. L. 118–138, § 3](https://www.govinfo.gov/link/plaw/118/public/138), Dec. 11, 2024, [138 Stat. 1651](https://www.govinfo.gov/link/statute/138/1651).)*

@@ -3,9 +3,10 @@ title: "Section 5043 - Juvenile solitary confinement"
 usc_title: 18
 usc_section: "5043"
 chapter: 403
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 5043"
-generated_at: "2026-03-30T02:54:16.530Z"
+generated_at: "2026-11-23T21:25:44.250Z"
+status: "active"
 ---
 
 # § 5043. Juvenile solitary confinement
@@ -39,3 +40,31 @@ generated_at: "2026-03-30T02:54:16.530Z"
       - **(i)** the covered juvenile shall be transferred to another juvenile facility or internal location where services can be provided to the covered juvenile without relying on room confinement; or
       - **(ii)** if a qualified mental health professional believes the level of crisis service needed is not currently available, a staff member of the juvenile facility shall initiate a referral to a location that can meet the needs of the covered juvenile.
     - **(D)** The use of consecutive periods of room confinement to evade the spirit and purpose of this subsection shall be prohibited.
+
+Definitions
+
+Prohibition on Room Confinement in Juvenile Facilities.—
+
+In general
+
+Juveniles posing risk of harm.—
+
+Requirement to use least restrictive techniques.—
+
+In general
+
+Explanation
+
+(aa) immediately when the covered juvenile regains self-control, as described in subparagraph (B)(i); or
+
+(bb) not later than after the expiration of the time period described in subclause (I) or (II) of subparagraph (B)(ii), as applicable.
+
+Maximum period of confinement
+
+Risk of harm after maximum period of confinement
+
+Spirit and purpose
+
+## Source Credit
+
+*(Added [Pub. L. 115–391, title VI, § 613(a)](https://www.govinfo.gov/link/plaw/115/public/391), Dec. 21, 2018, [132 Stat. 5247](https://www.govinfo.gov/link/statute/132/5247).)*

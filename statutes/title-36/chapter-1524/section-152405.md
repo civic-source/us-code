@@ -3,9 +3,10 @@ title: "Section 152405 - Powers"
 usc_title: 36
 usc_section: "152405"
 chapter: 1524
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 152405"
-generated_at: "2026-03-30T02:55:44.704Z"
+generated_at: "2026-11-23T21:26:13.680Z"
+status: "active"
 ---
 
 # § 152405. Powers
@@ -23,3 +24,13 @@ generated_at: "2026-03-30T02:55:44.704Z"
   - **(6)** to sue and be sued; and
   - **(7)** to do any other act necessary and proper to carry out the purposes of the corporation.
 - **(c)** A gift, devise, or bequest may be accepted by the corporation even though it is encumbered, restricted, or subject to beneficial interests of private persons, if any current or future interest is for the benefit of the corporation.
+
+General
+
+Powers as Trustee
+
+Encumbered or Restricted Gifts
+
+## Source Credit
+
+*(Added [Pub. L. 106–474, title II, § 201(a)](https://www.govinfo.gov/link/plaw/106/public/474), Nov. 9, 2000, [114 Stat. 2093](https://www.govinfo.gov/link/statute/114/2093); amended [Pub. L. 110–336, § 2(b)(3)(B)](https://www.govinfo.gov/link/plaw/110/public/336), Oct. 2, 2008, [122 Stat. 3727](https://www.govinfo.gov/link/statute/122/3727).)*

@@ -3,9 +3,10 @@ title: "Section 7436 - Methane emissions and waste reduction incentive program f
 usc_title: 42
 usc_section: "7436"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7436"
-generated_at: "2026-03-30T02:56:11.303Z"
+generated_at: "2026-11-23T21:26:33.099Z"
+status: "active"
 ---
 
 # § 7436. Methane emissions and waste reduction incentive program for petroleum and natural gas systems
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:56:11.303Z"
 - **(g)** The charge under subsection (c) shall be imposed and collected beginning with respect to emissions reported for calendar year 2034 and for each year thereafter.
 - **(h)** Not later than 2 years after August 16, 2022 , the Administrator shall revise the requirements of subpart W of part 98 of title 40, Code of Federal Regulations, to ensure the reporting under such subpart, and calculation of charges under subsections (e) and (f) of this section, are based on empirical data, including data collected pursuant to subsection (a)(4), accurately reflect the total methane emissions and waste emissions from the applicable facilities, and allow owners and operators of applicable facilities to submit empirical emissions data, in a manner to be prescribed by the Administrator, to demonstrate the extent to which a charge under subsection (c) is owed.
 - **(i)** In this section, the term “greenhouse gas” means the air pollutants carbon dioxide, hydrofluorocarbons, methane, nitrous oxide, perfluorocarbons, and sulfur hexafluoride.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 136, as added [Pub. L. 117–169, title VI, § 60113](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2073](https://www.govinfo.gov/link/statute/136/2073); amended [Pub. L. 119–21, title VI, § 60012(b)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 156](https://www.govinfo.gov/link/statute/139/156).)*

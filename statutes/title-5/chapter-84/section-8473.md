@@ -3,9 +3,10 @@ title: "Section 8473 - Employee Thrift Advisory Council"
 usc_title: 5
 usc_section: "8473"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8473"
-generated_at: "2026-03-30T02:52:56.063Z"
+generated_at: "2026-11-23T21:25:23.434Z"
+status: "active"
 ---
 
 # § 8473. Employee Thrift Advisory Council
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:52:56.063Z"
     - **(B)** the administration of this subchapter and subchapter III of this chapter; and
   - **(2)** perform such other duties as the Board may direct with respect to investment funds established in accordance with subchapter III of this chapter.
 - **(f)** Section 1013(a) of this title shall not apply to the Council.
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 579](https://www.govinfo.gov/link/statute/100/579); amended [Pub. L. 103–89, § 3(b)(1)(N)](https://www.govinfo.gov/link/plaw/103/public/89), Sept. 30, 1993, [107 Stat. 982](https://www.govinfo.gov/link/statute/107/982); [Pub. L. 106–65, div. A, title VI, § 661(a)(6)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 672](https://www.govinfo.gov/link/statute/113/672); [Pub. L. 117–286, § 4(a)(10)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4306](https://www.govinfo.gov/link/statute/136/4306).)*

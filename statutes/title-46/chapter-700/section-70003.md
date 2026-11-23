@@ -3,9 +3,10 @@ title: "Section 70003 - Port access routes"
 usc_title: 46
 usc_section: "70003"
 chapter: 700
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 70003"
-generated_at: "2026-03-30T02:56:15.585Z"
+generated_at: "2026-11-23T21:26:37.342Z"
+status: "active"
 ---
 
 # § 70003. Port access routes
@@ -32,3 +33,29 @@ generated_at: "2026-03-30T02:56:15.585Z"
   - **(4)** shall, through appropriate channels—
     - **(A)** notify cognizant international organizations of any designation, or adjustment thereof; and
     - **(B)** take action to seek the cooperation of foreign States in making it mandatory for vessels under their control to use, to the same extent as required by the Secretary for vessels of the United States, any fairway or traffic separation scheme designated under this section in any area of the high seas.
+
+Authority To Designate
+
+Limitation.—
+
+In general
+
+Consultation required
+
+Consideration of Other Uses
+
+Study
+
+Implementation of Designation
+
+Regulation
+
+Exception
+
+Applicability
+
+Effective Date
+
+## Source Credit
+
+*(Added [Pub. L. 115–282, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4255](https://www.govinfo.gov/link/statute/132/4255).)*

@@ -3,9 +3,10 @@ title: "Section 2641 - Congressional findings and purpose"
 usc_title: 15
 usc_section: "2641"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2641"
-generated_at: "2026-03-30T02:54:08.178Z"
+generated_at: "2026-11-23T21:25:39.943Z"
+status: "active"
 ---
 
 # § 2641. Congressional findings and purpose
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.178Z"
   - **(1)** to provide for the establishment of Federal regulations which require inspection for asbestos-containing material and implementation of appropriate response actions with respect to asbestos-containing material in the Nation’s schools in a safe and complete manner;
   - **(2)** to mandate safe and complete periodic reinspection of school buildings following response actions, where appropriate; and
   - **(3)** to require the Administrator to conduct a study to find out the extent of the danger to human health posed by asbestos in public and commercial buildings and the means to respond to any such danger.
+
+## Source Credit
+
+*([Pub. L. 94–469, title II, § 201](https://www.govinfo.gov/link/plaw/94/public/469), as added [Pub. L. 99–519, § 2](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2970](https://www.govinfo.gov/link/statute/100/2970).)*

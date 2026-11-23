@@ -3,9 +3,10 @@ title: "Section 12a - Registration of commodity dealers and associated persons; 
 usc_title: 7
 usc_section: "12a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 12a"
-generated_at: "2026-03-30T02:53:42.245Z"
+generated_at: "2026-11-23T21:25:27.859Z"
+status: "active"
 ---
 
 # § 12a. Registration of commodity dealers and associated persons; regulation of registered entities
@@ -61,3 +62,7 @@ The Commission is authorized—
     - **(D)** On disposition of such information, indictment, or complaint, the Commission may issue and serve on such person an order pursuant to paragraph (2) or (4) to suspend, restrict, or revoke the registration of such person.
     - **(E)** A finding of not guilty or other disposition of the charge shall not preclude the Commission from thereafter instituting any other proceedings under this chapter.
     - **(F)** A person aggrieved by an order issued under this paragraph may obtain review of such order in the same manner and on the same terms and conditions as are provided in section 8(b) of this title .
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 8a, as added June 15, 1936, ch. 545, § 10, [49 Stat. 1500](https://www.govinfo.gov/link/statute/49/1500); amended Aug. 5, 1955, ch. 574, [69 Stat. 535](https://www.govinfo.gov/link/statute/69/535); [Pub. L. 90–258](https://www.govinfo.gov/link/plaw/90/public/258), §§ 20–23, Feb. 19, 1968, [82 Stat. 32](https://www.govinfo.gov/link/statute/82/32), 33; [Pub. L. 93–463, title I, § 103(a)](https://www.govinfo.gov/link/plaw/93/public/463), title II, §§ 204(c), 205(c), 213–215, Oct. 23, 1974, [88 Stat. 1392](https://www.govinfo.gov/link/statute/88/1392), 1397, 1400, 1404; [Pub. L. 95–405, § 17](https://www.govinfo.gov/link/plaw/95/public/405), Sept. 30, 1978, [92 Stat. 874](https://www.govinfo.gov/link/statute/92/874); [Pub. L. 97–444, title I, § 104](https://www.govinfo.gov/link/plaw/97/public/444), title II, §§ 223–225, Jan. 11, 1983, [96 Stat. 2297](https://www.govinfo.gov/link/statute/96/2297), 2310–2315; [Pub. L. 102–546, title II](https://www.govinfo.gov/link/plaw/102/public/546), §§ 207(b)(3), (4), 208, 209(b)(6), 227, title IV, § 402(10), Oct. 28, 1992, [106 Stat. 3604](https://www.govinfo.gov/link/statute/106/3604), 3607, 3618, 3625; [Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(19)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–410; [Pub. L. 111–203, title VII, § 736](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1722](https://www.govinfo.gov/link/statute/124/1722).)*

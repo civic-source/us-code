@@ -3,9 +3,10 @@ title: "Section 109 - Benefits for discharged members of allied forces"
 usc_title: 38
 usc_section: "109"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 109"
-generated_at: "2026-03-30T02:55:53.469Z"
+generated_at: "2026-11-23T21:26:16.547Z"
+status: "active"
 ---
 
 # § 109. Benefits for discharged members of allied forces
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:53.469Z"
 - **(d)**
   - **(1)** Any person described in paragraph (2) is eligible for the benefits specified in subsection (a) to the same extent and under the same conditions (including with respect to applicable reciprocity requirements) as a discharged member of the armed forces of a government specified in such subsection who is eligible for such benefits under such subsection.
   - **(2)** A person described in this paragraph is a person whom the Secretary determines served in Vietnam as a member of the armed forces of the Republic of Korea at any time during the period beginning on January 9, 1962 , and ending on May 7, 1975 , or such other period as determined appropriate by the Secretary for purposes of this subsection.
+
+## Source Credit
+
+*([Pub. L. 85–857](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1112](https://www.govinfo.gov/link/statute/72/1112); [Pub. L. 94–491](https://www.govinfo.gov/link/plaw/94/public/491), Oct. 14, 1976, [90 Stat. 2363](https://www.govinfo.gov/link/statute/90/2363); [Pub. L. 99–576, title VII, § 701(8)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3291](https://www.govinfo.gov/link/statute/100/3291); [Pub. L. 102–83, § 4(a)(3)](https://www.govinfo.gov/link/plaw/102/public/83), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404](https://www.govinfo.gov/link/statute/105/404), 405; [Pub. L. 118–20, § 2](https://www.govinfo.gov/link/plaw/118/public/20), Nov. 13, 2023, [137 Stat. 108](https://www.govinfo.gov/link/statute/137/108).)*

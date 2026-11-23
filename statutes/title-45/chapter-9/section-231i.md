@@ -3,9 +3,10 @@ title: "Section 231i - Erroneous payments"
 usc_title: 45
 usc_section: "231i"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 231i"
-generated_at: "2026-03-30T02:55:56.547Z"
+generated_at: "2026-11-23T21:26:19.198Z"
+status: "active"
 ---
 
 # § 231i. Erroneous payments
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:56.547Z"
 - **(b)** Adjustments under this section may be made either by deductions from subsequent payments or, with respect to payments which are to be made during a lifetime or lifetimes, by subtracting the total amount of annuities or other benefits paid in excess of the proper amount from the actuarial value, as determined by the Board, of such payments to be made during a lifetime or lifetimes and recertifying such payments on the basis of the reduced actuarial value. In the latter case, recovery shall be deemed to have been completed upon such recertification.
 - **(c)** There shall be no recovery in any case in which more than the correct amount of annuities or other benefits has been paid under this subchapter to an individual or payment has been made to an individual not entitled thereto who, in the judgment of the Board, is without fault when, in the judgment of the Board, recovery would be contrary to the purpose of this subchapter or the Railroad Unemployment Insurance Act [ 45 U.S.C. 351 et seq.] or would be against equity or good conscience.
 - **(d)** No certifying or disbursing officer shall be held liable for any amount certified or paid by him in good faith to any person where the recovery of such amount is waived under subsection (c) of this section or has been begun but cannot be completed under subsection (a) of this section.
+
+## Source Credit
+
+*(Aug. 29, 1935, ch. 812, § 10, as restated June 24, 1937, ch. 382, pt. I, [50 Stat. 307](https://www.govinfo.gov/link/statute/50/307), as restated [Pub. L. 93–445, title I, § 101](https://www.govinfo.gov/link/plaw/93/public/445), Oct. 16, 1974, [88 Stat. 1344](https://www.govinfo.gov/link/statute/88/1344); amended [Pub. L. 97–35, title XI, § 1123](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 638](https://www.govinfo.gov/link/statute/95/638).)*

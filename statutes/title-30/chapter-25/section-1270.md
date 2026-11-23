@@ -3,9 +3,10 @@ title: "Section 1270 - Citizens suits"
 usc_title: 30
 usc_section: "1270"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1270"
-generated_at: "2026-03-30T02:55:29.401Z"
+generated_at: "2026-11-23T21:26:00.429Z"
+status: "active"
 ---
 
 # § 1270. Citizens suits
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:29.401Z"
 - **(d)** The court, in issuing any final order in any action brought pursuant to subsection (a) of this section, may award costs of litigation (including attorney and expert witness fees) to any party, whenever the court determines such award is appropriate. The court may, if a temporary restraining order or preliminary injunction is sought require the filing of a bond or equivalent security in accordance with the Federal Rules of Civil Procedure.
 - **(e)** Nothing in this section shall restrict any right which any person (or class of persons) may have under any statute or common law to seek enforcement of any of the provisions of this chapter and the regulations thereunder, or to seek any other relief (including relief against the Secretary or the appropriate State regulatory authority).
 - **(f)** Any person who is injured in his person or property through the violation by any operator of any rule, regulation, order, or permit issued pursuant to this chapter may bring an action for damages (including reasonable attorney and expert witness fees) only in the judicial district in which the surface coal mining operation complained of is located. Nothing in this subsection shall affect the rights established by or limits imposed under State Workmen’s Compensation laws.
+
+## Source Credit
+
+*([Pub. L. 95–87, title V, § 520](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 503](https://www.govinfo.gov/link/statute/91/503).)*

@@ -3,9 +3,10 @@ title: "Section 87 - Severity of need index"
 usc_title: 42
 usc_section: "87"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 87"
-generated_at: "2026-03-30T02:56:10.829Z"
+generated_at: "2026-11-23T21:26:30.880Z"
+status: "active"
 ---
 
 # § 300ff–87. Severity of need index
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:10.829Z"
   - **(1)** that updates progress toward having client level data;
   - **(2)** that updates the progress toward having a severity of need index, including information related to the methodology and process for obtaining community input; and
   - **(3)** that, as applicable, states whether the Secretary could develop a severity of need index before fiscal year 2009.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVI, § 2687, as added and amended [Pub. L. 109–415, title V, § 501](https://www.govinfo.gov/link/plaw/109/public/415), title VII, § 703, Dec. 19, 2006, [120 Stat. 2814](https://www.govinfo.gov/link/statute/120/2814), 2820; [Pub. L. 111–87, § 2(a)(1)](https://www.govinfo.gov/link/plaw/111/public/87), (3)(A), Oct. 30, 2009, [123 Stat. 2885](https://www.govinfo.gov/link/statute/123/2885).)*

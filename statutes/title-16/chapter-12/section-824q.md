@@ -3,9 +3,10 @@ title: "Section 824q - Native load service obligation"
 usc_title: 16
 usc_section: "824q"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 824q"
-generated_at: "2026-03-30T02:54:22.918Z"
+generated_at: "2026-11-23T21:25:51.767Z"
+status: "active"
 ---
 
 # § 824q. Native load service obligation
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:22.918Z"
   - **(2)** Nothing in this subsection affects the requirements of section 824k(j) of this title .
   - **(3)** The Commission shall not issue an order on the basis of this subsection that is contrary to the purposes of section 824k(j) of this title .
 - **(k)** An entity that to the extent required to meet its service obligations exercises rights described in subsection (b) shall not be considered by such action as engaging in undue discrimination or preference under this chapter.
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. II, § 217, as added [Pub. L. 109–58, title XII, § 1233(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 957](https://www.govinfo.gov/link/statute/119/957).)*

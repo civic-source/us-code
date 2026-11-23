@@ -3,9 +3,10 @@ title: "Section 60131 - Verification of pipeline qualification programs"
 usc_title: 49
 usc_section: "60131"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 60131"
-generated_at: "2026-03-30T02:56:19.416Z"
+generated_at: "2026-11-23T21:26:41.033Z"
+status: "active"
 ---
 
 # § 60131. Verification of pipeline qualification programs
@@ -35,3 +36,45 @@ generated_at: "2026-03-30T02:56:19.416Z"
   - **(1)** with respect to a gas pipeline facility, has the meaning such term has under section 192.801 of title 49, Code of Federal Regulations, including any subsequent modifications; and
   - **(2)** with respect to a hazardous liquid pipeline facility, has the meaning such term has under section 195.501 of such title, including any subsequent modifications.
 - **(h)** Not later than 4 years after the date of enactment of this section, the Secretary shall transmit to Congress a report on the status and results to date of the personnel qualification regulations issued under this chapter.
+
+In General
+
+Standards and Criteria.—
+
+Development
+
+Contents
+
+Development of Qualification Programs by Pipeline Operators
+
+Elements of Qualification Programs
+
+Review and Verification of Programs.—
+
+In general
+
+Deadline for completion
+
+Inadequate programs
+
+Program modifications
+
+Waivers and modifications
+
+Inaction by the secretary
+
+Intrastate Pipeline Facilities
+
+Covered Task Defined
+
+Report
+
+In general
+
+Report
+
+Computer-based systems defined
+
+## Source Credit
+
+*(Added [Pub. L. 107–355, § 13(a)(1)](https://www.govinfo.gov/link/plaw/107/public/355), Dec. 17, 2002, [116 Stat. 2999](https://www.govinfo.gov/link/statute/116/2999).)*

@@ -3,9 +3,10 @@ title: "Section 1823 - Acquisition of real property for Sergeant at Arms and Doo
 usc_title: 2
 usc_section: "1823"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1823"
-generated_at: "2026-03-30T02:53:04.817Z"
+generated_at: "2026-11-23T21:25:21.245Z"
+status: "active"
 ---
 
 # § 1823. Acquisition of real property for Sergeant at Arms and Doorkeeper of the Senate
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.817Z"
     - **(B)** subject to the availability of appropriations and upon approval of an obligation plan by the Committee on Appropriations of the Senate.
   - **(2)** Subject to the approval of the Committee on Appropriations of the Senate, the Secretary of the Senate may transfer funds for the acquisition or maintenance of any property under paragraph (1) from the account under the heading “Senate, Contingent Expenses of the Senate, Sergeant at Arms and Doorkeeper of the Senate” to the account under the heading “Architect of the Capitol, Senate Office Buildings”.
   - **(3)** This section shall apply with respect to fiscal year 2007 and each fiscal year thereafter.
+
+## Source Credit
+
+*([Pub. L. 109–289, div. B, title II, § 20701(b)](https://www.govinfo.gov/link/plaw/109/public/289), as added [Pub. L. 110–5, § 2](https://www.govinfo.gov/link/plaw/110/public/5), Feb. 15, 2007, [121 Stat. 37](https://www.govinfo.gov/link/statute/121/37).)*

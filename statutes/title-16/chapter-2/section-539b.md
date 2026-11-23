@@ -3,9 +3,10 @@ title: "Section 539b - Fisheries on national forest lands in Alaska"
 usc_title: 16
 usc_section: "539b"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 539b"
-generated_at: "2026-03-30T02:54:22.862Z"
+generated_at: "2026-11-23T21:25:51.656Z"
+status: "active"
 ---
 
 # § 539b. Fisheries on national forest lands in Alaska
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:22.862Z"
   - **(5)** upon a finding by the Secretary that a mining activity conducted as a part of a mining operation exists which constitutes a threat of irreparable harm to anadromous fish, or other foodfish populations or their habitat, and that immediate correction is required to prevent such harm, he may require such activity to be suspended for not to exceed seven days, provided the activity may be resumed at the end of said seven-day period unless otherwise required by a United States district court.
 - **(c)** Nothing in this section shall enlarge or diminish the responsibility and authority of the State of Alaska to manage fish and wildlife or to exercise its other responsibilities under applicable law.
 - **(d)** Except as specifically provided in subsection (b)(5), nothing in this section shall enlarge or diminish the responsibilities and authorities of the Secretary of Agriculture to manage the national forests.
+
+## Source Credit
+
+*([Pub. L. 96–487, title V, § 505](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2405](https://www.govinfo.gov/link/statute/94/2405).)*

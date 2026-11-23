@@ -3,9 +3,10 @@ title: "Section 2409 - Enforcement"
 usc_title: 16
 usc_section: "2409"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2409"
-generated_at: "2026-03-30T02:54:23.002Z"
+generated_at: "2026-11-23T21:25:51.948Z"
+status: "active"
 ---
 
 # § 2409. Enforcement
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:23.002Z"
   - **(3)** Upon the forfeiture to the United States of any property or item described in paragraph (1) or (2), or upon the abandonment or waiver of any claim to any such property or item, it shall be disposed of by the Director, the Secretary of the Treasury, the Secretary of Commerce, the Secretary of the Interior, or the Secretary of the department in which the Coast Guard is operating, as the case may be, in such a manner, consistent with the purposes of the chapter, as may be prescribed by regulation; except that no native mammal, native bird, or native plant may be disposed of by sale to the public.
 - **(e)** All provisions of law relating to the seizure, forfeiture, and condemnation of a vessel for violation of the customs laws, the disposition of such vessel or the proceeds from the sale thereof, and the remission or mitigation of such forfeiture, shall apply to the seizures and forfeitures incurred, or alleged to have been incurred, under the provision of this chapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this chapter; except that all powers, rights, and duties conferred or imposed by the customs laws upon any officer or employee of the Customs Service may, for the purposes of this chapter, also be exercised or performed by the Director, the Secretary of Commerce, the Secretary of the Interior, or the Secretary of the department in which the Coast Guard is operating, or by such persons as each may designate.
 - **(f)** The Director, the Secretary of the Treasury, the Secretary of Commerce, the Secretary of the Interior, and the Secretary of the department in which the Coast Guard is operating may prescribe such regulations as may be appropriate to enforce the provisions of this chapter and of any regulation prescribed or permit issued under this chapter, and charge reasonable fees for the expenses of the United States incurred in carrying out inspections and in transferring, boarding, handling, or storing native mammals, native birds, native plants, animals and plants not indigenous to Antarctica, and other evidentiary items seized or forfeited under this chapter.
+
+## Source Credit
+
+*([Pub. L. 95–541, § 10](https://www.govinfo.gov/link/plaw/95/public/541), Oct. 28, 1978, [92 Stat. 2055](https://www.govinfo.gov/link/statute/92/2055).)*

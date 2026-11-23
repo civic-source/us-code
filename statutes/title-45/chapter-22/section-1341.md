@@ -3,9 +3,10 @@ title: "Section 1341 - Abolition of United States Railway Association"
 usc_title: 45
 usc_section: "1341"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 1341"
-generated_at: "2026-03-30T02:55:56.561Z"
+generated_at: "2026-11-23T21:26:19.243Z"
+status: "active"
 ---
 
 # § 1341. Abolition of United States Railway Association
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:56.561Z"
 - **(c)**
   - **(1)** On January 1, 1987 , the Amended and Restated Financing Agreement, dated May 10, 1979 , between the United States Railway Association and the Corporation, together with any and all rights and obligations of or on behalf of any person with respect to such agreement, shall terminate and be of no further force or effect, except for those provisions specifying terms and conditions for payments made to the United States with respect to debentures, preferred stock, and contingent interest notes.
   - **(2)** Effective as of the sale date, those provisions of the Financing Agreement referred to in paragraph (1) shall terminate.
+
+## Source Credit
+
+*([Pub. L. 99–509, title IV, § 4031](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1906](https://www.govinfo.gov/link/statute/100/1906).)*

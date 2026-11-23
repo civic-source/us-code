@@ -3,9 +3,10 @@ title: "Section 4236 - Allocation formula"
 usc_title: 25
 usc_section: "4236"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4236"
-generated_at: "2026-03-30T02:54:52.861Z"
+generated_at: "2026-11-23T21:25:54.714Z"
+status: "active"
 ---
 
 # § 4236. Allocation formula
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:52.861Z"
   - **(1)** geographic distribution within Hawaiian Home Lands; and
   - **(2)** technical capacity.
 - **(d)** This section shall take effect on December 27, 2000 .
+
+## Source Credit
+
+*([Pub. L. 104–330, title VIII, § 817](https://www.govinfo.gov/link/plaw/104/public/330), as added [Pub. L. 106–568, title II, § 203](https://www.govinfo.gov/link/plaw/106/public/568), Dec. 27, 2000, [114 Stat. 2890](https://www.govinfo.gov/link/statute/114/2890), and [Pub. L. 106–569, title V, § 513](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 2984](https://www.govinfo.gov/link/statute/114/2984).)*

@@ -3,9 +3,10 @@ title: "Section 81l - Facilities to be provided and maintained"
 usc_title: 19
 usc_section: "81l"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 81l"
-generated_at: "2026-03-30T02:54:24.626Z"
+generated_at: "2026-11-23T21:25:42.686Z"
+status: "active"
 ---
 
 # § 81l. Facilities to be provided and maintained
@@ -19,3 +20,7 @@ Each grantee shall provide and maintain in connection with the zone—
 - **(e)** Adequate quarters and facilities for the officers and employees of the United States, State, and municipality whose duties may require their presence within the zone;
 - **(f)** Adequate enclosures to segregate the zone from customs territory for protection of the revenue, together with suitable provisions for ingress and egress of persons, conveyances, vessels, and merchandise;
 - **(g)** Such other facilities as may be required by the Board.
+
+## Source Credit
+
+*(June 18, 1934, ch. 590, § 12, [48 Stat. 1001](https://www.govinfo.gov/link/statute/48/1001).)*

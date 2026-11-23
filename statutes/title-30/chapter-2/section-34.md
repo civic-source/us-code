@@ -3,12 +3,17 @@ title: "Section 34 - Description of vein claims on surveyed and unsurveyed lands
 usc_title: 30
 usc_section: "34"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 34"
-generated_at: "2026-03-30T02:55:29.376Z"
+generated_at: "2026-11-23T21:26:00.362Z"
+status: "active"
 ---
 
 # § 34. Description of vein claims on surveyed and unsurveyed lands; monuments on ground to govern conflicting calls
 
 The description of vein or lode claims upon surveyed lands shall designate the location of the claims with reference to the lines of the public survey, but need not conform therewith; but where patents have been or shall be issued for claims upon unsurveyed lands, the Director of the Bureau of Land Management in extending the public survey, shall adjust the same to the boundaries of said patented claims so as in no case to interfere with or change the true location of such claims as they are officially established upon the ground. Where patents have issued for mineral lands, those lands only shall be segregated and shall be deemed to be patented which are bounded by the lines actually marked, defined, and established upon the ground by the monuments of the official survey upon which the patent grant is based, and the Director of the Bureau of Land Management in executing subsequent patent surveys, whether upon surveyed or unsurveyed lands, shall be governed accordingly. The said monuments shall at all times constitute the highest authority as to what land is patented, and in case of any conflict between the said monuments of such patented claims and the descriptions of said claims in the patents issued therefor the monuments on the ground shall govern, and erroneous or inconsistent descriptions or calls in the patent descriptions shall give way thereto.
 
+
+## Source Credit
+
+*(R.S. § 2327; Apr. 28, 1904, ch. 1796, [33 Stat. 545](https://www.govinfo.gov/link/statute/33/545); Mar. 3, 1925, ch. 462, [43 Stat. 1144](https://www.govinfo.gov/link/statute/43/1144); 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, [60 Stat. 1100](https://www.govinfo.gov/link/statute/60/1100).)*

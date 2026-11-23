@@ -3,9 +3,10 @@ title: "Section 10422 - State applications"
 usc_title: 34
 usc_section: "10422"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10422"
-generated_at: "2026-03-30T02:55:33.268Z"
+generated_at: "2026-11-23T21:26:09.657Z"
+status: "active"
 ---
 
 # § 10422. State applications
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:33.268Z"
   - **(1)** shall prepare the application as required under this section; and
   - **(2)** shall administer grant funds received under this subchapter, including review of spending, processing, progress, financial reporting, technical assistance, grant adjustments, accounting, auditing, and fund disbursement.
 - **(f)** A State may use amounts received under this subchapter to provide nonresidential substance abuse treatment aftercare services for inmates or former inmates that meet the requirements of subsection (c), if the chief executive officer of the State certifies to the Attorney General that the State is providing, and will continue to provide, an adequate level of residential treatment services.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 1902](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 103–322, title III, § 32101(a)(3)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1898](https://www.govinfo.gov/link/statute/108/1898); amended [Pub. L. 107–273, div. B, title II, § 2102(2)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1792](https://www.govinfo.gov/link/statute/116/1792); [Pub. L. 109–162, title XI](https://www.govinfo.gov/link/plaw/109/public/162), §§ 1111(c)(2)(J), 1145(a), (b), Jan. 5, 2006, [119 Stat. 3102](https://www.govinfo.gov/link/statute/119/3102), 3111; [Pub. L. 110–199, title I, § 102(a)](https://www.govinfo.gov/link/plaw/110/public/199), Apr. 9, 2008, [122 Stat. 668](https://www.govinfo.gov/link/statute/122/668).)*

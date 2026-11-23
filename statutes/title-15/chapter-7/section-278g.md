@@ -3,9 +3,10 @@ title: "Section 278g - International activities"
 usc_title: 15
 usc_section: "278g"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 278g"
-generated_at: "2026-03-30T02:54:08.078Z"
+generated_at: "2026-11-23T21:25:39.618Z"
+status: "active"
 ---
 
 # § 278g. International activities
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.078Z"
 - **(b)** The Congress consents to the acceptance by employees of the Institute of fellowships, lectureships, or other positions for the performance of scientific or engineering activities or for the exchange of scientific or technical information, offered by a foreign government, and to the acceptance and retention by an employee of the Institute of any form of financial or other assistance provided by a foreign government as compensation for or as a means of defraying expenses associated with the performance of scientific or engineering activities or the exchange of scientific or technical information, in any case where the acceptance of such fellowship, lectureship, or position or the acceptance and retention of such assistance is determined by the Secretary to be appropriate and consistent with the interests of the United States. For the purposes of this subsection, the definitions appearing in section 7342(a) of title 5 apply. Civil actions may be brought and penalties assessed against any employee who knowingly accepts and retains assistance from a foreign government not consented to by this subsection in the same manner as is prescribed by section 7342(h) of title 5 .
 - **(c)** Provisions of law prohibiting the use of any part of any appropriation for the payment of compensation to any employee or officer of the Government of the United States who is not a citizen of the United States shall not apply to the payment of compensation to scientific or engineering personnel of the Institute.
 - **(d)** For any scientific and engineering disciplines for which there is a shortage of suitably qualified and available United States citizens and nationals, the Secretary is authorized to recruit and employ in scientific and engineering fields at the Institute foreign nationals who have been lawfully admitted to the United States for permanent residence under the Immigration and Nationality Act [ 8 U.S.C. 1101 et seq.] and who intend to become United States citizens. Employment of a person under this paragraph shall not be subject to the provisions of title 5 governing employment in the competitive service, or to any prohibition in any other Act against the employment of aliens, or against the payment of compensation to them.
+
+## Source Credit
+
+*(Mar. 3, 1901, ch. 872, § 17, as added [Pub. L. 96–461, § 9](https://www.govinfo.gov/link/plaw/96/public/461), Oct. 15, 1980, [94 Stat. 2051](https://www.govinfo.gov/link/statute/94/2051); amended [Pub. L. 100–418, title V, § 5115(a)(1)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1433](https://www.govinfo.gov/link/statute/102/1433); [Pub. L. 102–245, title I, § 104(h)(2)](https://www.govinfo.gov/link/plaw/102/public/245), Feb. 14, 1992, [106 Stat. 11](https://www.govinfo.gov/link/statute/106/11); [Pub. L. 117–167, div. B, title II, § 10246(a)(1)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1491](https://www.govinfo.gov/link/statute/136/1491).)*

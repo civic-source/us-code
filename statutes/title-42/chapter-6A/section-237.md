@@ -3,9 +3,10 @@ title: "Section 237 - Silvio O. Conte Senior Biomedical Research and Biomedical 
 usc_title: 42
 usc_section: "237"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 237"
-generated_at: "2026-03-30T02:56:10.688Z"
+generated_at: "2026-11-23T21:26:30.232Z"
+status: "active"
 ---
 
 # § 237. Silvio O. Conte Senior Biomedical Research and Biomedical Product Assessment Service
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:10.688Z"
   - **(2)** The pay of a member of the Service shall not be less than the minimum rate payable for GS–15 of the General Schedule and shall not exceed the amount of annual compensation (excluding expenses) specified in section 102 of title 3 .
 - **(e)** Subject to the following sentence, the Secretary may, notwithstanding the provisions of title 5 regarding appointment, appoint an individual who is separated from the Service involuntarily and without cause to a position in the competitive civil service at GS–15 of the General Schedule, and such appointment shall be a career appointment. In the case of such an individual who immediately prior to his appointment to the Service was not a career appointee in the civil service or the Senior Executive Service, such appointment shall be in the excepted civil service and may not exceed a period of 2 years.
 - **(f)** The Secretary shall promulgate such rules and regulations, not inconsistent with this section, as may be necessary for the efficient administration of the Service.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title II, § 228, as added [Pub. L. 101–509, title V, § 529 [title III, § 304(a)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1463; amended [Pub. L. 103–43, title XX, § 2001](https://www.govinfo.gov/link/plaw/103/public/43), June 10, 1993, [107 Stat. 208](https://www.govinfo.gov/link/statute/107/208); [Pub. L. 114–255, div. A, title III, § 3071(a)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1133](https://www.govinfo.gov/link/statute/130/1133).)*

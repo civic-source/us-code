@@ -3,9 +3,10 @@ title: "Section 1076e - TRICARE program: TRICARE Retired Reserve coverage for ce
 usc_title: 10
 usc_section: "1076e"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1076e"
-generated_at: "2026-03-30T02:53:38.102Z"
+generated_at: "2026-11-23T21:25:32.404Z"
+status: "active"
 ---
 
 # § 1076e. TRICARE program: TRICARE Retired Reserve coverage for certain members of the Retired Reserve who are qualified for a non-regular retirement but are not yet age 60
@@ -27,3 +28,19 @@ generated_at: "2026-03-30T02:53:38.102Z"
   - **(2)** The term “TRICARE Retired Reserve” means—
     - **(A)** medical care at facilities of the uniformed services to which a dependent described in section 1076(a)(2) of this title is entitled; and
     - **(B)** health benefits under the TRICARE Select self-managed, preferred provider network option under section 1075 of this title made available to beneficiaries by reason of this section and subject to the cost-sharing requirements set forth in such section 1075.
+
+Eligibility
+
+Termination of Eligibility Upon Obtaining Other TRICARE Coverage
+
+Family Members
+
+Premiums
+
+Regulations
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title VII, § 705(a)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2374](https://www.govinfo.gov/link/statute/123/2374); [Pub. L. 114–328, div. A, title VII, § 701(j)(1)(C)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2192](https://www.govinfo.gov/link/statute/130/2192); [Pub. L. 115–91, div. A, title VII, § 701(b)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1432](https://www.govinfo.gov/link/statute/131/1432); [Pub. L. 116–92, div. A, title XVII, § 1731(a)(25)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1813](https://www.govinfo.gov/link/statute/133/1813).)*

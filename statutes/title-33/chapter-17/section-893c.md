@@ -3,9 +3,10 @@ title: "Section 893c - Workforce study"
 usc_title: 33
 usc_section: "893c"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 893c"
-generated_at: "2026-03-30T02:55:41.075Z"
+generated_at: "2026-11-23T21:26:11.346Z"
+status: "active"
 ---
 
 # § 893c. Workforce study
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:41.075Z"
 - **(b)** The Under Secretary of Commerce for Oceans and Atmosphere and the Secretary of Education shall consult with the heads of other Federal agencies and departments with oceanic and atmospheric expertise or authority in preparing the specifications for the study.
 - **(c)** No later than 18 months after December 23, 2022 , the Under Secretary of Commerce for Oceans and Atmosphere and the Secretary of Education shall transmit a joint report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources and the Committee on Science, Space, and Technology of the House of Representatives, detailing the findings and recommendations of the study and setting forth a prioritized plan to implement the recommendations.
 - **(d)** The Under Secretary of Commerce for Oceans and Atmosphere shall evaluate the National Academy of Sciences study and develop a workforce program and plan to institutionalize the Administration’s Federal science career pathways and address aging workforce issues. The program and plan shall be developed in consultation with the Administration’s cooperative institutes and other academic partners.
+
+## Source Credit
+
+*([Pub. L. 111–358, title III, § 303](https://www.govinfo.gov/link/plaw/111/public/358), Jan. 4, 2011, [124 Stat. 3998](https://www.govinfo.gov/link/statute/124/3998); [Pub. L. 117–263, div. J, title CI, § 10103](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3957](https://www.govinfo.gov/link/statute/136/3957).)*

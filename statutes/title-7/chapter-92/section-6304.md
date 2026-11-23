@@ -3,9 +3,10 @@ title: "Section 6304 - Required terms in orders"
 usc_title: 7
 usc_section: "6304"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6304"
-generated_at: "2026-03-30T02:53:42.427Z"
+generated_at: "2026-11-23T21:25:28.385Z"
+status: "active"
 ---
 
 # § 6304. Required terms in orders
@@ -193,3 +194,7 @@ generated_at: "2026-03-30T02:53:42.427Z"
       - **(ii)** the publication, by direction of the Secretary, of the name of any person violating any order, together with a statement of the particular provisions of the order violated by such person.
   - **(4)** Any person who willfully violates the provisions of this subsection, upon conviction, shall be subject to a fine of not more than $1,000, or to imprisonment for not more than one year, or both, and, if a member or an agent of the Board or an officer or employee of the Department, shall be removed from office.
 - **(r)** The order shall provide terms and conditions, not inconsistent with the provisions of this chapter, as necessary to effectuate the provisions of the order, including provisions for the assessment of a penalty for each late payment of assessments under subsection ( l ).
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1969](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3884](https://www.govinfo.gov/link/statute/104/3884); [Pub. L. 102–237, title VIII, § 806(1)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1883](https://www.govinfo.gov/link/statute/105/1883).)*

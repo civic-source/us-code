@@ -3,9 +3,10 @@ title: "Section 836 - Authorization to license construction and operation; licen
 usc_title: 16
 usc_section: "836"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 836"
-generated_at: "2026-03-30T02:54:22.928Z"
+generated_at: "2026-11-23T21:25:51.782Z"
+status: "active"
 ---
 
 # § 836. Authorization to license construction and operation; licensing conditions
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:22.928Z"
   - **(5)** In the event project power is sold to any purchaser for resale, contracts for such sale shall include adequate provisions for establishing resale rates, to be approved by the licensee, consistent with paragraphs (1) and (3) of this subsection.
   - **(6)** The licensee, in cooperation with the appropriate agency of the State of New York which is concerned with the development of parks in such State, may construct a scenic drive and park on the American side of the Niagara River, near the Niagara Falls, pursuant to a plan the general outlines of which shall be approved by the Federal Energy Regulatory Commission; and the cost of such drive and park shall be considered a part of the cost of the power project and part of the licensee’s net investment in said project: Provided , That the maximum part of the cost of such drive and park to be borne by the power project and to be considered a part of the licensee’s net investment shall not exceed $15,000,000.
   - **(7)** The licensee shall pay to the United States and include in its net investment in the project herein authorized the United States share of the cost of the construction of the remedial works, including engineering and economic investigations, undertaken in accordance with article II of the treaty between the United States of America and Canada concerning uses of the waters of the Niagara River signed February 27, 1950 , whenever such remedial works are constructed.
+
+## Source Credit
+
+*([Pub. L. 85–159, § 1](https://www.govinfo.gov/link/plaw/85/public/159), Aug. 21, 1957, [71 Stat. 401](https://www.govinfo.gov/link/statute/71/401); [Pub. L. 95–91, title IV, § 402(a)(1)(A)](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 583](https://www.govinfo.gov/link/statute/91/583).)*

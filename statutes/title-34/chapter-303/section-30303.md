@@ -3,9 +3,10 @@ title: "Section 30303 - National prison rape statistics, data, and research"
 usc_title: 34
 usc_section: "30303"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 30303"
-generated_at: "2026-03-30T02:55:33.306Z"
+generated_at: "2026-11-23T21:26:09.820Z"
+status: "active"
 ---
 
 # § 30303. National prison rape statistics, data, and research
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:55:33.306Z"
   - **(1)** provide grants for research through the National Institute of Justice; and
   - **(2)** contract with or provide grants to any other entity the Attorney General deems appropriate.
 - **(e)** There are authorized to be appropriated $15,000,000 for each of fiscal years 2004 through 2010 to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 108–79, § 4](https://www.govinfo.gov/link/plaw/108/public/79), Sept. 4, 2003, [117 Stat. 975](https://www.govinfo.gov/link/statute/117/975); [Pub. L. 109–108, title I, § 113(a)](https://www.govinfo.gov/link/plaw/109/public/108), Nov. 22, 2005, [119 Stat. 2305](https://www.govinfo.gov/link/statute/119/2305).)*

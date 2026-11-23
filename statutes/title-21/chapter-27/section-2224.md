@@ -3,9 +3,10 @@ title: "Section 2224 - Surveillance"
 usc_title: 21
 usc_section: "2224"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 2224"
-generated_at: "2026-03-30T02:54:54.310Z"
+generated_at: "2026-11-23T21:25:56.302Z"
+status: "active"
 ---
 
 # § 2224. Surveillance
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:54:54.310Z"
     - **(B)** laboratory capacity to support surveillance, outbreak response, inspection, and enforcement activities;
     - **(C)** information systems to support data management and sharing of food safety and defense information among State and local agencies and with counterparts at the Federal level; and
     - **(D)** other State and local activities and needs as determined appropriate by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 111–353, title II, § 205](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3937](https://www.govinfo.gov/link/statute/124/3937).)*

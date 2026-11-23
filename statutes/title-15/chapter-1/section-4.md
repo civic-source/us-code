@@ -3,9 +3,10 @@ title: "Section 4 - Direct payment procedure"
 usc_title: 15
 usc_section: "4"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4"
-generated_at: "2026-03-30T02:54:08.063Z"
+generated_at: "2026-11-23T21:25:39.579Z"
+status: "active"
 ---
 
 # § 78fff–4. Direct payment procedure
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:08.063Z"
 - **(e)** After SIPC has published notice of the institution of a direct payment procedure under this section, any person aggrieved by any determination of SIPC with respect to his claim under subsection (c) may, within six months following mailing by SIPC of its determination with respect to such claim, seek a final adjudication of such claim. The courts of the United States having jurisdiction over cases under title 11 shall have original and exclusive jurisdiction of any civil action for the adjudication of such claim. Any such action shall be brought in the judicial district where the head office of the debtor is located. Any determination of the rights of a customer under subsection (c) shall not prejudice any other right or remedy of the customer against the member.
 - **(f)** If, at any time after the institution of a direct payment procedure with respect to a member, SIPC determines, in its discretion, that continuation of such direct payment procedure is not appropriate, SIPC may cease such direct payment procedure and, upon so doing, may seek a protective decree pursuant to section 78eee of this title . To the extent payments of cash, distributions of securities, or determinations with respect to the validity of a customer’s claim are made under this section, such payments, distributions, and determinations shall be recognized and given full effect in the event of any subsequent liquidation proceeding. Any action brought under subsection (e) and pending at the time of the appointment of a trustee under section 78eee(b)(3) of this title shall be permanently stayed by the court at the time of such appointment, and the court shall enter an order directing the transfer or removal to it of such suit. Upon such removal or transfer the complaint in such action shall constitute the plaintiff’s claim in the liquidation proceeding, if appropriate, and shall be deemed received by the trustee on the date of his appointment regardless of the date of actual transfer or removal of such action.
 - **(g)** For purposes of this section, any reference to the trustee in sections 78fff–1(b)(1), 78fff–2(d), 78fff–2(f), 78fff–3(a), 78 lll (5) and 78 lll (12) of this title shall be deemed a reference to SIPC, and any reference to the date of publication of notice under section 78fff–2(a) of this title shall be deemed a reference to the publication of notice under this section.
+
+## Source Credit
+
+*([Pub. L. 91–598, § 10](https://www.govinfo.gov/link/plaw/91/public/598), as added [Pub. L. 95–283, § 9](https://www.govinfo.gov/link/plaw/95/public/283), May 21, 1978, [92 Stat. 266](https://www.govinfo.gov/link/statute/92/266); amended [Pub. L. 95–598, title III, § 308(n)](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2675](https://www.govinfo.gov/link/statute/92/2675).)*

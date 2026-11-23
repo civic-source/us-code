@@ -3,9 +3,10 @@ title: "Section 262p - Impact adjustment lending programs"
 usc_title: 22
 usc_section: "262p"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 262p"
-generated_at: "2026-03-30T02:55:05.306Z"
+generated_at: "2026-11-23T21:25:58.324Z"
+status: "active"
 ---
 
 # § 262p. Impact adjustment lending programs
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:05.306Z"
     - **(A)** mitigate any adverse effect of adjustment lending, and the activities in support of which such lending is made, on the living standards of the poor in the countries to which such loans are made; and
     - **(B)** ensure the participation of the poor in the economic benefits resulting from adjustment lending and the activities in support of which such lending is made.
 - **(d)** For purposes of this section and section 262m–1 of this title , the term “adjustment lending” means nonproject lending in support of structural macroeconomic reforms or sectoral economic reform.
+
+## Source Credit
+
+*([Pub. L. 95–118, title XVI, § 1601](https://www.govinfo.gov/link/plaw/95/public/118), as added [Pub. L. 100–202, § 101(e) [title I]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–131](https://www.govinfo.gov/link/statute/101/1329), 1329–134.)*

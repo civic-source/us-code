@@ -3,9 +3,10 @@ title: "Section 1581 - Civil actions against the United States and agencies and 
 usc_title: 28
 usc_section: "1581"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1581"
-generated_at: "2026-03-30T02:55:30.141Z"
+generated_at: "2026-11-23T21:26:01.093Z"
+status: "active"
 ---
 
 # § 1581. Civil actions against the United States and agencies and officers thereof
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:55:30.141Z"
     - **(A)** the Court of International Trade under section 516A(a) of the Tariff Act of 1930 ( 19 U.S.C. 1516a(a) ); or
     - **(B)** a binational panel under section 516A(g) of the Tariff Act of 1930 ( 19 U.S.C. 1516a(g) ).
 - **(j)** The Court of International Trade shall not have jurisdiction of any civil action arising under section 305 of the Tariff Act of 1930.
+
+## Source Credit
+
+*(Added [Pub. L. 96–417, title II, § 201](https://www.govinfo.gov/link/plaw/96/public/417), Oct. 10, 1980, [94 Stat. 1728](https://www.govinfo.gov/link/statute/94/1728); amended [Pub. L. 98–573, title II, § 212(b)(1)](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 2983](https://www.govinfo.gov/link/statute/98/2983); [Pub. L. 99–514, title XVIII, § 1891(1)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2926](https://www.govinfo.gov/link/statute/100/2926); [Pub. L. 100–449, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/100/public/449), Sept. 28, 1988, [102 Stat. 1883](https://www.govinfo.gov/link/statute/102/1883); [Pub. L. 103–182, title IV, § 414(a)(1)](https://www.govinfo.gov/link/plaw/103/public/182), title VI, § 684(a)(1), Dec. 8, 1993, [107 Stat. 2147](https://www.govinfo.gov/link/statute/107/2147), 2219; [Pub. L. 111–5, div. B, title I, § 1873(b)(2)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 414](https://www.govinfo.gov/link/statute/123/414); [Pub. L. 114–125, title IV, § 421(b)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 168](https://www.govinfo.gov/link/statute/130/168); [Pub. L. 116–113, title IV, § 423(a)(1)](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 65](https://www.govinfo.gov/link/statute/134/65).)*

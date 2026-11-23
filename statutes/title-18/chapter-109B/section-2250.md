@@ -3,9 +3,10 @@ title: "Section 2250 - Failure to register"
 usc_title: 18
 usc_section: "2250"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2250"
-generated_at: "2026-03-30T02:54:16.497Z"
+generated_at: "2026-11-23T21:25:44.121Z"
+status: "active"
 ---
 
 # § 2250. Failure to register
@@ -27,3 +28,19 @@ generated_at: "2026-03-30T02:54:16.497Z"
 - **(d)**
   - **(1)** An individual described in subsection (a) or (b) who commits a crime of violence under Federal law (including the Uniform Code of Military Justice), the law of the District of Columbia, Indian tribal law, or the law of any territory or possession of the United States shall be imprisoned for not less than 5 years and not more than 30 years.
   - **(2)** The punishment provided in paragraph (1) shall be in addition and consecutive to the punishment provided for the violation described in subsection (a) or (b).
+
+In General
+
+International Travel Reporting Violations
+
+Affirmative Defense
+
+Crime of Violence.—
+
+In general
+
+Additional punishment
+
+## Source Credit
+
+*(Added [Pub. L. 109–248, title I, § 141(a)(1)](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 602](https://www.govinfo.gov/link/statute/120/602); amended [Pub. L. 114–119, § 6(b)](https://www.govinfo.gov/link/plaw/114/public/119), Feb. 8, 2016, [130 Stat. 23](https://www.govinfo.gov/link/statute/130/23).)*

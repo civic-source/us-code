@@ -3,9 +3,10 @@ title: "Section 18647 - Science laboratories infrastructure program"
 usc_title: 42
 usc_section: "18647"
 chapter: 161
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18647"
-generated_at: "2026-03-30T02:56:11.524Z"
+generated_at: "2026-11-23T21:26:33.832Z"
+status: "active"
 ---
 
 # § 18647. Science laboratories infrastructure program
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.524Z"
   - **(6)** expense funding.
 - **(d)** For each fiscal year through fiscal year 2027, at the same time as the annual budget submission of the President, the Secretary shall submit to the Committee on Appropriations and the Committee on Energy and Natural Resources of the Senate and the Committee on Appropriations and the Committee on Science, Space, and Technology of the House of Representatives a list of projects for which the Secretary will provide funding under this section, including a description of each project and the funding profile for the project.
 - **(e)** Out of funds authorized to be appropriated for the Office of Science in a fiscal year, there is authorized to be appropriated to the Secretary to carry out the activities described in this section $550,000,000 for each of fiscal years 2023 through 2027.
+
+## Source Credit
+
+*([Pub. L. 115–246, title III, § 309](https://www.govinfo.gov/link/plaw/115/public/246), Sept. 28, 2018, [132 Stat. 3150](https://www.govinfo.gov/link/statute/132/3150); [Pub. L. 117–167, div. B, title I, § 10108](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1450](https://www.govinfo.gov/link/statute/136/1450).)*

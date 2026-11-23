@@ -3,9 +3,10 @@ title: "Section 460ll - Findings and declaration of policy"
 usc_title: 16
 usc_section: "460ll"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 460ll"
-generated_at: "2026-03-30T02:54:22.828Z"
+generated_at: "2026-11-23T21:25:51.595Z"
+status: "active"
 ---
 
 # § 460ll. Findings and declaration of policy
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:22.828Z"
   - **(1)** certain lands on the Lolo National Forest in Montana have high value for watershed, water storage, wildlife habitat, primitive recreation, historical, scientific, ecological, and educational purposes. This national forest area has long been used as a wilderness by Montanans and by people throughout the Nation who value it as a source of solitude, wildlife, clean, free-flowing waters stored and used for municipal purposes for over a century, and primitive recreation, to include such activities as hiking, camping, backpacking, hunting, fishing, horse riding, and bicycling; and
   - **(2)** certain other lands on the Lolo National Forest, while not predominantly of wilderness quality, have high value for municipal watershed, recreation, wildlife habitat, and ecological and educational purposes.
 - **(b)** Therefore, it is hereby declared to be the policy of Congress that, to further the purposes of the Wilderness Act of 1964 ( 16 U.S.C. 1131 ) and the National Forest Management Act of 1976 ( 16 U.S.C. 1600 ), the people of the Nation and Montana would best be served by national recreation area designation of the Rattlesnake area to include the permanent preservation of certain of these lands under established statutory designation as wilderness, and to promote the watershed, recreational, wildlife, and educational values of the remainder of these lands.
+
+## Source Credit
+
+*([Pub. L. 96–476, § 1](https://www.govinfo.gov/link/plaw/96/public/476), Oct. 19, 1980, [94 Stat. 2271](https://www.govinfo.gov/link/statute/94/2271).)*

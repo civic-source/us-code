@@ -3,9 +3,10 @@ title: "Section 1817 - Assessments"
 usc_title: 12
 usc_section: "1817"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1817"
-generated_at: "2026-03-30T02:53:53.445Z"
+generated_at: "2026-11-23T21:25:36.970Z"
+status: "active"
 ---
 
 # § 1817. Assessments
@@ -296,3 +297,133 @@ generated_at: "2026-03-30T02:53:53.445Z"
       - **(i)** the amount of any offset by such savings association under section 404(e)(2) 1 of the National Housing Act (as in effect before August 9, 1989 ) after the beginning of such calendar year and before August 9, 1989 ; and
       - **(ii)** the change of such association’s premium year from the 1-year period applicable under section 404(b) 1 of the National Housing Act (as in effect before August 9, 1989 ) to a calendar year basis.
 - **(n)** When requested by the Comptroller of the Currency, the Corporation shall collect on behalf of the Comptroller assessments on Federal savings associations levied by the Comptroller under section 1467 of this title . The Corporation shall be reimbursed for its actual costs for the collection of such assessments. Any such assessments by the Comptroller shall be in addition to any amounts assessed by the Corporation.
+
+Additional reports
+
+Data sharing with other agencies and persons
+
+Lifeline account deposits
+
+Data collections
+
+Streamlining reports of condition.—
+
+Review of information and schedules
+
+Reduction or elimination of information found to be unnecessary
+
+Short form reporting.—
+
+In general
+
+Definition
+
+Notice to State Agency
+
+Investigation of Principals Required
+
+Report
+
+Public Comment
+
+Reporting of stock loans.—
+
+Report required
+
+Definitions
+
+Foreign bank
+
+Credit outstanding
+
+Group of persons
+
+Inclusion of shares held by the financial institution
+
+Report requirements.—
+
+Timing of report
+
+Content of report
+
+Copy to other agencies
+
+Other information
+
+Exceptions.—
+
+Exception where information provided by borrower
+
+Exception for shares owned for more than 1 year
+
+Investigative and Enforcement Authority.—
+
+Investigations
+
+Enforcement
+
+Jurisdiction.—
+
+Civil money penalty.—
+
+First tier
+
+Second tier
+
+Third tier
+
+Maximum amounts of penalties for any violation described in subparagraph (c)
+
+Assessment; etc
+
+Hearing
+
+Disbursement
+
+Exceptions
+
+Applicability of change in control provisions to other institutions
+
+Deadline for announcing rate changes
+
+Assessment rate for bank insurance fund members.—
+
+In general
+
+Factors to be considered
+
+Minimum assessment
+
+Annual assessment rates prescribed.—
+
+Assessment rate for bank insurance fund members
+
+Assessment rate for savings association insurance fund members
+
+“The amendments made by this section [amending this section and sections 1815, 1818, and 1820 of this title] shall become effective on the earlier of—
+
+“The Corporation shall amend the regulations issued by the Corporation under section 7(b)(2) of the Federal Deposit Insurance Act ( 12 U.S.C. 1817(b)(2) ) to define the term ‘assessment base’ with respect to an insured depository institution for purposes of that section 7(b)(2), as an amount equal to—
+
+In General
+
+Transition Provisions.—
+
+Continuation of existing assessment regulations
+
+Treatment of dif members under existing regulations
+
+“To implement the risk-based assessment system required under section 7(b) of the Federal Deposit Insurance Act [ 12 U.S.C. 1817(b) ] (as amended by subsection (a)), the Federal Deposit Insurance Corporation shall—
+
+Reserve Ratio
+
+Offset
+
+In General
+
+Credit Availability
+
+Contents
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [7], [64 Stat. 876](https://www.govinfo.gov/link/statute/64/876); [Pub. L. 86–671](https://www.govinfo.gov/link/plaw/86/public/671), §§ 2, 3, July 14, 1960, [74 Stat. 547–551](https://www.govinfo.gov/link/statute/74/547); [Pub. L. 88–593](https://www.govinfo.gov/link/plaw/88/public/593), Sept. 12, 1964, [78 Stat. 940](https://www.govinfo.gov/link/statute/78/940); [Pub. L. 89–695, title II, § 201](https://www.govinfo.gov/link/plaw/89/public/695), title III, § 301(b), Oct. 16, 1966, [80 Stat. 1046](https://www.govinfo.gov/link/statute/80/1046), 1055; [Pub. L. 91–151, § 7(a)(2)](https://www.govinfo.gov/link/plaw/91/public/151), Dec. 23, 1969, [83 Stat. 375](https://www.govinfo.gov/link/statute/83/375); [Pub. L. 91–609, title IX, § 910(g)](https://www.govinfo.gov/link/plaw/91/public/609), (h), Dec. 31, 1970, [84 Stat. 1812](https://www.govinfo.gov/link/statute/84/1812); [Pub. L. 93–495, title I](https://www.govinfo.gov/link/plaw/93/public/495), §§ 101(a)(2), 102(a)(2), Oct. 28, 1974, [88 Stat. 1500](https://www.govinfo.gov/link/statute/88/1500), 1502; [Pub. L. 95–369, § 6(c)(8)](https://www.govinfo.gov/link/plaw/95/public/369) –(13), Sept. 17, 1978, [92 Stat. 617](https://www.govinfo.gov/link/statute/92/617), 618; [Pub. L. 95–630, title III](https://www.govinfo.gov/link/plaw/95/public/630), §§ 302, 310, title VI, § 602, title IX, § 901, Nov. 10, 1978, [92 Stat. 3676](https://www.govinfo.gov/link/statute/92/3676), 3678, 3683, 3693; [Pub. L. 96–221, title III, § 308(a)(1)(B)](https://www.govinfo.gov/link/plaw/96/public/221), (d), Mar. 31, 1980, [94 Stat. 147](https://www.govinfo.gov/link/statute/94/147), 148; [Pub. L. 97–110, title I, § 103(b)](https://www.govinfo.gov/link/plaw/97/public/110), Dec. 26, 1981, [95 Stat. 1514](https://www.govinfo.gov/link/statute/95/1514); [Pub. L. 97–320, title I](https://www.govinfo.gov/link/plaw/97/public/320), §§ 113(d)–(f), (q), 117, title IV, § 429, Oct. 15, 1982, [96 Stat. 1473](https://www.govinfo.gov/link/statute/96/1473), 1475, 1479, 1527; [Pub. L. 99–570, title I, § 1360](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–29](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 100–86, title V, § 505(a)](https://www.govinfo.gov/link/plaw/100/public/86), Aug. 10, 1987, [101 Stat. 633](https://www.govinfo.gov/link/statute/101/633); [Pub. L. 101–73, title II](https://www.govinfo.gov/link/plaw/101/public/73), §§ 201, 208, title IX, §§ 905(c), 907(d), 911(c), 931(a), Aug. 9, 1989, [103 Stat. 187](https://www.govinfo.gov/link/statute/103/187), 206, 460, 468, 479, 493; [Pub. L. 101–508, title II](https://www.govinfo.gov/link/plaw/101/public/508), §§ 2002–2004, Nov. 5, 1990, [104 Stat. 1388–14](https://www.govinfo.gov/link/statute/104/1388) —1388–16; [Pub. L. 102–242, title I](https://www.govinfo.gov/link/plaw/102/public/242), §§ 103(b), 104, 113(c)(1), 141(c), title II, §§ 205, 232(b), 233(c), title III, §§ 302(a), (b), (e)(3), (4), formerly (e)(2), (3), 311(a)(2), (b)(3), 313(a), title IV, § 474, Dec. 19, 1991, [105 Stat. 2238](https://www.govinfo.gov/link/statute/105/2238), 2247, 2277, 2292, 2310, 2314, 2345, 2348, 2349, 2363, 2365, 2368, 2386; [Pub. L. 102–550, title IX, § 931(a)](https://www.govinfo.gov/link/plaw/102/public/550), (b), title XVI, §§ 1603(a)(1), (3), 1604(b)(1), (3), 1605(a)(2), (5)(A), (6), (b)(1), (2), 1606(i)(1), Oct. 28, 1992, [106 Stat. 3888](https://www.govinfo.gov/link/statute/106/3888), 4078, 4083, 4085–4087, 4089; [Pub. L. 102–558, title III](https://www.govinfo.gov/link/plaw/102/public/558), §§ 303(a), (b)(1), (3), (6)(A), (7), (8), 305, Oct. 28, 1992, [106 Stat. 4224–4226](https://www.govinfo.gov/link/statute/106/4224); [Pub. L. 103–204](https://www.govinfo.gov/link/plaw/103/public/204), §§ 8(h), 38(a), Dec. 17, 1993, [107 Stat. 2388](https://www.govinfo.gov/link/statute/107/2388), 2416; [Pub. L. 103–325, title III](https://www.govinfo.gov/link/plaw/103/public/325), §§ 305(b), 308(b), 348, title VI, § 602(a)(4)–(10), Sept. 23, 1994, [108 Stat. 2217](https://www.govinfo.gov/link/statute/108/2217), 2218, 2241, 2288; [Pub. L. 104–208, div. A, title II](https://www.govinfo.gov/link/plaw/104/public/208), §§ 2226, 2703(b), 2704(d)(6)(B), (14)(G), 2706–2708, Sept. 30, 1996, [110 Stat. 3009–417](https://www.govinfo.gov/link/statute/110/3009), 3009–485, 3009–488, 3009–491, 3009–496, 3009–497; [Pub. L. 106–569, title XII, § 1231(a)](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 3036](https://www.govinfo.gov/link/statute/114/3036); [Pub. L. 108–386, § 8(a)(2)](https://www.govinfo.gov/link/plaw/108/public/386), Oct. 30, 2004, [118 Stat. 2231](https://www.govinfo.gov/link/statute/118/2231); [Pub. L. 109–171, title II](https://www.govinfo.gov/link/plaw/109/public/171), §§ 2102(b), 2104(a), (b), (d), 2105(a), 2106, 2107(a), 2108, Feb. 8, 2006, [120 Stat. 9](https://www.govinfo.gov/link/statute/120/9), 12–16, 19; [Pub. L. 109–173](https://www.govinfo.gov/link/plaw/109/public/173), §§ 2(b), 3(a)(1)–(5), 8(a)(8), (9), Feb. 15, 2006, [119 Stat. 3602](https://www.govinfo.gov/link/statute/119/3602), 3605, 3611; [Pub. L. 109–351, title VI, § 604](https://www.govinfo.gov/link/plaw/109/public/351), title VII, §§ 705, 707(a), Oct. 13, 2006, [120 Stat. 1980](https://www.govinfo.gov/link/statute/120/1980), 1987; [Pub. L. 111–22, div. A, title II, § 204(b)](https://www.govinfo.gov/link/plaw/111/public/22), May 20, 2009, [123 Stat. 1649](https://www.govinfo.gov/link/statute/123/1649); [Pub. L. 111–203, title III](https://www.govinfo.gov/link/plaw/111/public/203), §§ 331(a), 332–334(a), 363(2), title IX, § 939(a)(1), July 21, 2010, [124 Stat. 1538](https://www.govinfo.gov/link/statute/124/1538), 1539, 1550, 1885; [Pub. L. 115–174, title II, § 205](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1310](https://www.govinfo.gov/link/statute/132/1310).)*

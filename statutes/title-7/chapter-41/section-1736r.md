@@ -3,9 +3,10 @@ title: "Section 1736r - Trade negotiations policy"
 usc_title: 7
 usc_section: "1736r"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1736r"
-generated_at: "2026-03-30T02:53:42.340Z"
+generated_at: "2026-11-23T21:25:28.173Z"
+status: "active"
 ---
 
 # § 1736r. Trade negotiations policy
@@ -28,3 +29,23 @@ generated_at: "2026-03-30T02:53:42.340Z"
   - **(2)** leveling the playing field for United States producers of agricultural products by limiting per unit domestic production supports to levels that are no greater than those available in the United States;
   - **(3)** ending the practice of export dumping by eliminating all trade distorting export subsidies and disciplining state trading entities so that they do not (except in cases of bona fide food aid) sell in foreign markets at prices below domestic market prices or prices below their full costs of acquiring and delivering agricultural products to the foreign markets; and
   - **(4)** encouraging government policies that avoid price-depressing surpluses.
+
+Findings
+
+Objectives
+
+Consultation With Congressional Committees
+
+Consultation before offer made
+
+Consultation with congressional trade advisers
+
+Consultation before agreement initialed
+
+Disclosure of commitments
+
+Sense of the Congress
+
+## Source Credit
+
+*([Pub. L. 99–198, title XI, § 1123](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1481](https://www.govinfo.gov/link/statute/99/1481); [Pub. L. 104–127, title II, § 269](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 975](https://www.govinfo.gov/link/statute/110/975).)*

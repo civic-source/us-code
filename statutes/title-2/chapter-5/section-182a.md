@@ -3,9 +3,10 @@ title: "Section 182a - Revolving fund for duplication services associated with a
 usc_title: 2
 usc_section: "182a"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 182a"
-generated_at: "2026-03-30T02:53:04.791Z"
+generated_at: "2026-11-23T21:25:21.146Z"
+status: "active"
 ---
 
 # § 182a. Revolving fund for duplication services associated with audiovisual conservation center
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:04.791Z"
       - **(i)** the total value of the supplies, inventories, equipment, gift fund balances, and other assets attributable to such services; and
       - **(ii)** the total value of the liabilities attributable to such services.
 - **(d)** Amounts in the revolving fund under this section shall be available to the Librarian, in amounts specified in appropriations Acts and without fiscal year limitation, to carry out the services described in subsection (a).
+
+## Source Credit
+
+*([Pub. L. 106–481, title I, § 101](https://www.govinfo.gov/link/plaw/106/public/481), Nov. 9, 2000, [114 Stat. 2187](https://www.govinfo.gov/link/statute/114/2187); [Pub. L. 107–68, title II, § 207](https://www.govinfo.gov/link/plaw/107/public/68), Nov. 12, 2001, [115 Stat. 587](https://www.govinfo.gov/link/statute/115/587).)*

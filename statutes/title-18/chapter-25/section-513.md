@@ -3,9 +3,10 @@ title: "Section 513 - Securities of the States and private entities"
 usc_title: 18
 usc_section: "513"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 513"
-generated_at: "2026-03-30T02:54:16.465Z"
+generated_at: "2026-11-23T21:25:43.969Z"
+status: "active"
 ---
 
 # § 513. Securities of the States and private entities
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:16.465Z"
     - **(E)** a blank form of any of the foregoing;
   - **(4)** the term “organization” means a legal entity, other than a government, established or organized for any purpose, and includes a corporation, company, association, firm, partnership, joint stock company, foundation, institution, society, union, or any other association of persons which operates in or the activities of which affect interstate or foreign commerce; and
   - **(5)** the term “State” includes a State of the United States, the District of Columbia, Puerto Rico, Guam, the Virgin Islands, and any other territory or possession of the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 1105(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2144](https://www.govinfo.gov/link/statute/98/2144), § 511; renumbered § 513, [Pub. L. 99–646, § 31(a)](https://www.govinfo.gov/link/plaw/99/public/646), Nov. 10, 1986, [100 Stat. 3598](https://www.govinfo.gov/link/statute/100/3598); amended [Pub. L. 101–647, title XXXV, § 3515](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4923](https://www.govinfo.gov/link/statute/104/4923); [Pub. L. 103–322, title XXXIII](https://www.govinfo.gov/link/plaw/103/public/322), §§ 330008(1), 330016(2)(C), Sept. 13, 1994, [108 Stat. 2142](https://www.govinfo.gov/link/statute/108/2142), 2148.)*

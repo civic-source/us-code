@@ -3,9 +3,10 @@ title: "Section 1259 - Constructive sales treatment for appreciated financial po
 usc_title: 26
 usc_section: "1259"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1259"
-generated_at: "2026-03-30T02:55:27.763Z"
+generated_at: "2026-11-23T21:26:06.481Z"
+status: "active"
 ---
 
 # § 1259. Constructive sales treatment for appreciated financial positions
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:55:27.763Z"
   - **(2)** For purposes of this section, an interest in a trust which is actively traded (within the meaning of section 1092(d)(1)) shall be treated as stock unless substantially all (by value) of the property held by the trust is debt described in subsection (b)(2)(A).
   - **(3)** If a taxpayer holds multiple positions in property, the determination of whether a specific transaction is a constructive sale and, if so, which appreciated financial position is deemed sold shall be made in the same manner as actual sales.
 - **(f)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 105–34, title X, § 1001(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 903](https://www.govinfo.gov/link/statute/111/903); amended [Pub. L. 105–206, title VI, § 6010(a)(1)](https://www.govinfo.gov/link/plaw/105/public/206), (2), July 22, 1998, [112 Stat. 812](https://www.govinfo.gov/link/statute/112/812), 813; [Pub. L. 108–311, title IV, § 406(e)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1189](https://www.govinfo.gov/link/statute/118/1189).)*

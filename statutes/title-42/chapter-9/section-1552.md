@@ -3,12 +3,17 @@ title: "Section 1552 - Powers of certain agencies designated to provide temporar
 usc_title: 42
 usc_section: "1552"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1552"
-generated_at: "2026-03-30T02:56:11.100Z"
+generated_at: "2026-11-23T21:26:32.089Z"
+status: "active"
 ---
 
 # § 1552. Powers of certain agencies designated to provide temporary shelter
 
 Any agency designated by the President to provide temporary shelter under the provisions of Public Law Numbered 9, Seventy-seventh Congress, Public Law Numbered 73, Seventy-seventh Congress, or the Third Supplemental National Defense Appropriations Act, 1942, shall have the same powers with respect to the management, maintenance, operation, and administration of such temporary shelter as are granted to the Secretary of Housing and Urban Development under section 1544 and section 1546 of this title with respect to projects constructed hereunder, and the provisions of section 1547 of this title shall apply to such temporary shelter projects and the occupants thereof.
 
+
+## Source Credit
+
+*(Oct. 14, 1940, ch. 862, title III, § 312, as added Jan. 21, 1942, ch. 14, § 10, [56 Stat. 13](https://www.govinfo.gov/link/statute/56/13); amended Ex. Ord. No. 9070, § 1, eff. Feb. 24, 1942, 7 F.R. 1529; Apr. 20, 1950, ch. 94, title II, § 204, [64 Stat. 73](https://www.govinfo.gov/link/statute/64/73); [Pub. L. 89–174, § 5(a)](https://www.govinfo.gov/link/plaw/89/public/174), Sept. 9, 1965, [79 Stat. 669](https://www.govinfo.gov/link/statute/79/669).)*

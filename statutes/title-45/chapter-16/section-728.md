@@ -3,9 +3,10 @@ title: "Section 728 - Reports to Congress"
 usc_title: 45
 usc_section: "728"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 728"
-generated_at: "2026-03-30T02:55:56.555Z"
+generated_at: "2026-11-23T21:26:19.225Z"
+status: "active"
 ---
 
 # § 728. Reports to Congress
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:56.555Z"
 - **(b)**
   - **(1)** The Association shall prepare and submit to Congress a final report on the transfer agreements which the Secretary is required to transmit to Congress under section 767 1 of this title. Such report shall be submitted on the same date as the Secretary’s transmittal of such agreements to Congress.
   - **(2)** The report submitted under paragraph (1) of this subsection shall include an evaluation of the effect of the transfer agreements on rail service in the Northeast, railroad employees, the economy of the Region, other railroads in the Northeast and elsewhere, and any other matter which the Association considers appropriate. Such report shall also include recommendations with respect to approval, disapproval, or modification of the transfer agreements.
+
+## Source Credit
+
+*([Pub. L. 93–236, title II, § 218](https://www.govinfo.gov/link/plaw/93/public/236), as added [Pub. L. 97–35, title XI, § 1150(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 675](https://www.govinfo.gov/link/statute/95/675).)*

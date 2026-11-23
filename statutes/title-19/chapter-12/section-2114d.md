@@ -3,9 +3,10 @@ title: "Section 2114d - Foreign export requirements; consultations and negotiati
 usc_title: 19
 usc_section: "2114d"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2114d"
-generated_at: "2026-03-30T02:54:24.664Z"
+generated_at: "2026-11-23T21:25:42.772Z"
+status: "active"
 ---
 
 # § 2114d. Foreign export requirements; consultations and negotiations for reduction and elimination; restrictions on and exclusion from entry of products or services; savings provision; compensation authority applicable
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:24.664Z"
     - **(A)** any foreign direct investment (including a purchase of land or facilities) has been made directly or indirectly by any United States person before October 30, 1984 , or
     - **(B)** any written commitment relating to a foreign direct investment that is binding on October 30, 1984 , has been made directly or indirectly by any United States person.
   - **(4)** Whenever the international obligations of the United States and actions taken under paragraph (2) make compensation necessary or appropriate, compensation may be provided by the United States Trade Representative subject to the limitations and conditions contained in section 2133 of this title for providing compensation for actions taken under section 2253 of this title .
+
+## Source Credit
+
+*([Pub. L. 98–573, title III, § 307(b)](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 3012](https://www.govinfo.gov/link/statute/98/3012); [Pub. L. 99–514, title XVIII, § 1889(5)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2926](https://www.govinfo.gov/link/statute/100/2926).)*

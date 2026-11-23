@@ -3,9 +3,10 @@ title: "Section 3416 - Judicial review"
 usc_title: 15
 usc_section: "3416"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3416"
-generated_at: "2026-03-30T02:54:08.190Z"
+generated_at: "2026-11-23T21:25:39.970Z"
+status: "active"
 ---
 
 # § 3416. Judicial review
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:08.190Z"
   - **(5)** The filing of an application for rehearing under paragraph (2) shall not, unless specifically ordered by the Commission, operate as a stay of the Commission’s order. The commencement of proceedings under paragraph (4) shall not, unless specifically ordered by the court, operate as a stay of the Commission’s order.
 - **(b)** Except as provided in subsections (a) and (c), judicial review of any rule or order, within the meaning of section 551(4) of title 5 , issued under this chapter may be obtained in the United States Court of Appeals for any appropriate circuit pursuant to the provisions of chapter 7 of title 5, except that the second sentence of section 705 thereof shall not apply.
 - **(c)** Except with respect to enforcement of orders or subpenas under section 3364(a) of this title , the United States Court of Appeals for the Federal Circuit shall have exclusive original jurisdiction to review all civil cases and controversies under section 3361, 3362 or 3363 of this title, including any order issued, or other action taken, under such section. The United States Court of Appeals for the Federal Circuit shall have exclusive jurisdiction of all appeals from the district courts of the United States in cases and controversies arising under section 3364(a)(2) of this title ; such appeals shall be taken by the filing of a notice of appeal with the United States Court of Appeals for the Federal Circuit within thirty days after the entry of judgment by the district court. Prior to a final judgment, no court shall have jurisdiction to grant any injunctive relief to stay or defer the implementation of any order issued, or action taken, under section 3361, 3362, or 3363 of this title.
+
+## Source Credit
+
+*([Pub. L. 95–621, title V, § 506](https://www.govinfo.gov/link/plaw/95/public/621), Nov. 9, 1978, [92 Stat. 3404](https://www.govinfo.gov/link/statute/92/3404); [Pub. L. 101–60, § 3(a)(5)](https://www.govinfo.gov/link/plaw/101/public/60), July 26, 1989, [103 Stat. 158](https://www.govinfo.gov/link/statute/103/158); [Pub. L. 102–572, title I, § 102(b)](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4506](https://www.govinfo.gov/link/statute/106/4506).)*

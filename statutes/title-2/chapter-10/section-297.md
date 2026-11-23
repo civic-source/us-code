@@ -3,9 +3,10 @@ title: "Section 297 - Appointments and reclassifications to higher compensation 
 usc_title: 2
 usc_section: "297"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 297"
-generated_at: "2026-03-30T02:53:04.795Z"
+generated_at: "2026-11-23T21:25:21.157Z"
+status: "active"
 ---
 
 # § 297. Appointments and reclassifications to higher compensation levels
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.795Z"
   - **(2)** at the rate of the lowest step for which the rate of compensation exceeds, by not less than two steps of the compensation level from which he is appointed, his rate of compensation immediately prior to such appointment; or
   - **(3)** at the rate of the highest step of such higher compensation level, or at his rate of compensation immediately prior to such appointment, whichever rate is the higher.
 - **(b)** The committee may provide by regulations for the payment of compensation, at an appropriate compensation step determined in accordance with such regulations, to each employee subject to the House Wage Schedule (HWS) who is appointed to a position in a higher compensation level of such schedule or whose position is placed in a higher compensation level of such schedule pursuant to a reclassification of such position.
+
+## Source Credit
+
+*([Pub. L. 88–652, § 8](https://www.govinfo.gov/link/plaw/88/public/652), Oct. 13, 1964, [78 Stat. 1082](https://www.govinfo.gov/link/statute/78/1082).)*

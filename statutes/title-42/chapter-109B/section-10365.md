@@ -3,9 +3,10 @@ title: "Section 10365 - Hydroelectric power assessment"
 usc_title: 42
 usc_section: "10365"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10365"
-generated_at: "2026-03-30T02:56:11.386Z"
+generated_at: "2026-11-23T21:26:33.364Z"
+status: "active"
 ---
 
 # § 10365. Hydroelectric power assessment
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:11.386Z"
   - **(1)** Any costs incurred by the Secretary of Energy in carrying out this section shall be nonreimbursable.
   - **(2)** Each Federal Power Marketing Administration shall incur costs in carrying out this section only to the extent that appropriated funds are provided by the Secretary of Energy for that purpose.
 - **(f)** There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2009 through 2023, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 111–11, title IX, § 9505](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1336](https://www.govinfo.gov/link/statute/123/1336).)*

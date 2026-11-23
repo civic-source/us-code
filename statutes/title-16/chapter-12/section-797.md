@@ -3,9 +3,10 @@ title: "Section 797 - General powers of Commission"
 usc_title: 16
 usc_section: "797"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 797"
-generated_at: "2026-03-30T02:54:22.910Z"
+generated_at: "2026-11-23T21:25:51.755Z"
+status: "active"
 ---
 
 # § 797. General powers of Commission
@@ -19,3 +20,27 @@ The Commission is authorized and empowered—
 - **(e)** To issue licenses to citizens of the United States, or to any association of such citizens, or to any corporation organized under the laws of the United States or any State thereof, or to any State or municipality for the purpose of constructing, operating, and maintaining dams, water conduits, reservoirs, power houses, transmission lines, or other project works necessary or convenient for the development and improvement of navigation and for the development, transmission, and utilization of power across, along, from, or in any of the streams or other bodies of water over which Congress has jurisdiction under its authority to regulate commerce with foreign nations and among the several States, or upon any part of the public lands and reservations of the United States (including the Territories), or for the purpose of utilizing the surplus water or water power from any Government dam, except as herein provided: Provided , That licenses shall be issued within any reservation only after a finding by the Commission that the license will not interfere or be inconsistent with the purpose for which such reservation was created or acquired, and shall be subject to and contain such conditions as the Secretary of the department under whose supervision such reservation falls shall deem necessary for the adequate protection and utilization of such reservation: 1 1 So in original. The colon probably should be a period. The license applicant and any party to the proceeding shall be entitled to a determination on the record, after opportunity for an agency trial-type hearing of no more than 90 days, on any disputed issues of material fact with respect to such conditions. All disputed issues of material fact raised by any party shall be determined in a single trial-type hearing to be conducted by the relevant resource agency in accordance with the regulations promulgated under this subsection and within the time frame established by the Commission for each license proceeding. Within 90 days of August 8, 2005 , the Secretaries of the Interior, Commerce, and Agriculture shall establish jointly, by rule, the procedures for such expedited trial-type hearing, including the opportunity to undertake discovery and cross-examine witnesses, in consultation with the Federal Energy Regulatory Commission. 2 2 So in original. The period probably should be a colon. Provided further , That no license affecting the navigable capacity of any navigable waters of the United States shall be issued until the plans of the dam or other structures affecting the navigation have been approved by the Chief of Engineers and the Secretary of the Army. Whenever the contemplated improvement is, in the judgment of the Commission, desirable and justified in the public interest for the purpose of improving or developing a waterway or waterways for the use or benefit of interstate or foreign commerce, a finding to that effect shall be made by the Commission and shall become a part of the records of the Commission: Provided further , That in case the Commission shall find that any Government dam may be advantageously used by the United States for public purposes in addition to navigation, no license therefor shall be issued until two years after it shall have reported to Congress the facts and conditions relating thereto, except that this provision shall not apply to any Government dam constructed prior to June 10, 1920 : And provided further , That upon the filing of any application for a license which has not been preceded by a preliminary permit under subsection (f) of this section, notice shall be given and published as required by the proviso of said subsection. In deciding whether to issue any license under this subchapter for any project, the Commission, in addition to the power and development purposes for which licenses are issued, shall give equal consideration to the purposes of energy conservation, the protection, mitigation of damage to, and enhancement of, fish and wildlife (including related spawning grounds and habitat), the protection of recreational opportunities, and the preservation of other aspects of environmental quality.
 - **(f)** To issue preliminary permits for the purpose of enabling applicants for a license hereunder to secure the data and to perform the acts required by section 802 of this title : Provided, however , That upon the filing of any application for a preliminary permit by any person, association, or corporation the Commission, before granting such application, shall at once give notice of such application in writing to any State or municipality likely to be interested in or affected by such application; and shall also publish notice of such application once each week for four weeks in a daily or weekly newspaper published in the county or counties in which the project or any part hereof or the lands affected thereby are situated.
 - **(g)** Upon its own motion to order an investigation of any occupancy of, or evidenced intention to occupy, for the purpose of developing electric power, public lands, reservations, or streams or other bodies of water over which Congress has jurisdiction under its authority to regulate commerce with foreign nations and among the several States by any person, corporation, State, or municipality and to issue such order as it may find appropriate, expedient, and in the public interest to conserve and utilize the navigation and water-power resources of the region.
+
+“Nothing in this Act [see Short Title of 1986 Amendment note set out under section 791a of this title ] shall be construed as authorizing the appropriation of water by any Federal, State, or local agency, Indian tribe, or any other entity or individual. Nor shall any provision of this Act—
+
+In General
+
+Workshops and Pilots
+
+Memorandum of Understanding
+
+Reports.—
+
+Pilot projects not implemented
+
+Pilot projects implemented
+
+Studies
+
+Consultation
+
+Authorization
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. I, § 4, [41 Stat. 1065](https://www.govinfo.gov/link/statute/41/1065); June 23, 1930, ch. 572, § 2, [46 Stat. 798](https://www.govinfo.gov/link/statute/46/798); renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§ 202, 212, [49 Stat. 839](https://www.govinfo.gov/link/statute/49/839), 847; July 26, 1947, ch. 343, title II, § 205(a), [61 Stat. 501](https://www.govinfo.gov/link/statute/61/501); [Pub. L. 97–375, title II, § 212](https://www.govinfo.gov/link/plaw/97/public/375), Dec. 21, 1982, [96 Stat. 1826](https://www.govinfo.gov/link/statute/96/1826); [Pub. L. 99–495, § 3(a)](https://www.govinfo.gov/link/plaw/99/public/495), Oct. 16, 1986, [100 Stat. 1243](https://www.govinfo.gov/link/statute/100/1243); [Pub. L. 109–58, title II, § 241(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 674](https://www.govinfo.gov/link/statute/119/674).)*

@@ -3,9 +3,10 @@ title: "Section 2254 - Monitoring, modification, and termination of action"
 usc_title: 19
 usc_section: "2254"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2254"
-generated_at: "2026-03-30T02:54:24.668Z"
+generated_at: "2026-11-23T21:25:42.782Z"
+status: "active"
 ---
 
 # § 2254. Monitoring, modification, and termination of action
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:24.668Z"
 - **(e)**
   - **(1)** Action by the President under this part may be taken without regard to the provisions of section 2136(a) of this title but only after consideration of the relation of such actions to the international obligations of the United States.
   - **(2)** If the Commission treats as the domestic industry production located in a major geographic area of the United States under section 2252(c)(4)(C) of this title , then the President shall take into account the geographic concentration of domestic production and of imports in that area in taking any action authorized under paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 93–618, title II, § 204](https://www.govinfo.gov/link/plaw/93/public/618), as added [Pub. L. 100–418, title I, § 1401(a)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1238](https://www.govinfo.gov/link/statute/102/1238); amended [Pub. L. 100–647, title IX, § 9001(a)(8)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3807](https://www.govinfo.gov/link/statute/102/3807); [Pub. L. 103–465, title I, § 129(a)(7)](https://www.govinfo.gov/link/plaw/103/public/465), title III, § 302(c), (d), Dec. 8, 1994, [108 Stat. 4837](https://www.govinfo.gov/link/statute/108/4837), 4936.)*

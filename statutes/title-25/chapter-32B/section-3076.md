@@ -3,9 +3,10 @@ title: "Section 3076 - Native working group"
 usc_title: 25
 usc_section: "3076"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3076"
-generated_at: "2026-03-30T02:54:52.847Z"
+generated_at: "2026-11-23T21:25:54.684Z"
+status: "active"
 ---
 
 # § 3076. Native working group
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:52.847Z"
     - **(F)** The Cultural Heritage Coordinating Committee established pursuant to section 2 of the Protect and Preserve International Cultural Property Act ( Public Law 114–151 ; 19 U.S.C. 2601 note).
     - **(G)** Any other relevant Federal agency, committee, or working group.
 - **(e)** The Federal Advisory Committee Act (5 U.S.C. App.) 1 1 See References in Text note below. shall not apply to the Native working group convened under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 117–258, § 8](https://www.govinfo.gov/link/plaw/117/public/258), Dec. 21, 2022, [136 Stat. 2384](https://www.govinfo.gov/link/statute/136/2384).)*

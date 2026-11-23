@@ -3,12 +3,17 @@ title: "Section 3331 - Congressional statement of purpose"
 usc_title: 7
 usc_section: "3331"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3331"
-generated_at: "2026-03-30T02:53:42.402Z"
+generated_at: "2026-11-23T21:25:28.334Z"
+status: "active"
 ---
 
 # § 3331. Congressional statement of purpose
 
 It is the purpose of this subchapter to promote the general welfare through improved productivity of the Nation’s rangelands, which comprise 60 per centum of the land area of the United States. Most of these rangelands are unsuited for cultivation, but produce a great volume of forage that is inedible by humans but readily converted, through an energy efficient process, to high quality food protein by grazing animals. These native grazing lands are located throughout the United States and are important resources for major segments of the Nation’s livestock industry. In addition to the many livestock producers directly dependent on rangelands, other segments of agriculture are indirectly dependent on range-fed livestock and on range-produced forage that can be substituted for grain in times of grain scarcity. Recent resource assessments indicate that forage production of rangeland can be increased at least 100 per centum through development and application of improved range management practices while simultaneously enhancing wildlife, watershed, recreational, and aesthetic values and reducing hazards of erosion and flooding.
 
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1478](https://www.govinfo.gov/link/plaw/95/public/113), as added [Pub. L. 97–98, title XIV, § 1440(a)](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1318](https://www.govinfo.gov/link/statute/95/1318).)*

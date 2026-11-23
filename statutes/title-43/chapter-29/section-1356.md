@@ -3,9 +3,10 @@ title: "Section 1356 - Documentary, registry and manning requirements"
 usc_title: 43
 usc_section: "1356"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1356"
-generated_at: "2026-03-30T02:55:57.472Z"
+generated_at: "2026-11-23T21:26:19.835Z"
+status: "active"
 ---
 
 # § 1356. Documentary, registry and manning requirements
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:57.472Z"
     - **(B)** there are not a sufficient number of citizens of the United States, or aliens lawfully admitted to the United States for permanent residence, qualified and available for such work; or
     - **(C)** the President makes a specific finding, with respect to the particular vessel, rig, platform, or other vehicle or structure, that application would not be consistent with the national interest; and
   - **(2)** to any vessel, rig, platform, or other vehicle or structure, over 50 percent of which is owned by citizens of a foreign nation or with respect to which the citizens of a foreign nation have the right effectively to control, except to the extent and to the degree that the President determines that the government of such foreign nation or any of its political subdivisions has implemented, by statute, regulation, policy, or practice, a national manning requirement for equipment engaged in the exploration, development, or production of oil and gas in its offshore areas.
+
+## Source Credit
+
+*(Aug. 7, 1953, ch. 345, § 30, as added [Pub. L. 95–372, title II, § 208](https://www.govinfo.gov/link/plaw/95/public/372), Sept. 18, 1978, [92 Stat. 669](https://www.govinfo.gov/link/statute/92/669).)*

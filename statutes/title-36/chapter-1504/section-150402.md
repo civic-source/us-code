@@ -3,9 +3,10 @@ title: "Section 150402 - Purposes"
 usc_title: 36
 usc_section: "150402"
 chapter: 1504
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 150402"
-generated_at: "2026-03-30T02:55:44.702Z"
+generated_at: "2026-11-23T21:26:13.647Z"
+status: "active"
 ---
 
 # § 150402. Purposes
@@ -21,3 +22,7 @@ The purposes of the corporation are those stated in the articles of incorporatio
   - **(7)** to provide technical assistance to the Bureau of Indian Affairs regional areas that are not served by any veterans committee or organization or program by—
     - **(A)** providing outreach service to Indian Tribes in need; and
     - **(B)** training and educating Tribal Veterans Service Officers for Indian Tribes in need.
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. E, title LI, § 5103(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 935](https://www.govinfo.gov/link/statute/137/935).)*

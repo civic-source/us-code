@@ -3,9 +3,10 @@ title: "Section 1305 - Broadband Technology Opportunities Program"
 usc_title: 47
 usc_section: "1305"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1305"
-generated_at: "2026-03-30T02:56:24.530Z"
+generated_at: "2026-11-23T21:26:36.091Z"
+status: "active"
 ---
 
 # § 1305. Broadband Technology Opportunities Program
@@ -78,3 +79,7 @@ generated_at: "2026-03-30T02:56:24.530Z"
   - **(3)** In developing the plan, the Commission shall have access to data provided to other Government agencies under the Broadband Data Improvement Act [ 47 U.S.C. 1301 et seq.].
 - **(l)** The Assistant Secretary shall develop and maintain a comprehensive nationwide inventory map of existing broadband service capability and availability in the United States that depicts the geographic extent to which broadband service capability is deployed and available from a commercial provider or public provider throughout each State. Not later than 2 years after February 17, 2009 , the Assistant Secretary shall make the broadband inventory map developed and maintained pursuant to this section accessible by the public on a World Wide Web site of the National Telecommunications and Information Administration in a form that is interactive and searchable.
 - **(m)** The Assistant Secretary shall have the authority to prescribe such rules as are necessary to carry out the purposes of this section.
+
+## Source Credit
+
+*([Pub. L. 111–5, div. B, title VI, § 6001](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 512](https://www.govinfo.gov/link/statute/123/512).)*

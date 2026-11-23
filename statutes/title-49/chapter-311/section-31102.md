@@ -3,9 +3,10 @@ title: "Section 31102 - Motor carrier safety assistance program"
 usc_title: 49
 usc_section: "31102"
 chapter: 311
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 31102"
-generated_at: "2026-03-30T02:56:19.354Z"
+generated_at: "2026-11-23T21:26:40.772Z"
+status: "active"
 ---
 
 # § 31102. Motor carrier safety assistance program
@@ -167,3 +168,223 @@ generated_at: "2026-03-30T02:56:19.354Z"
     - **(C)** An entity eligible for a discretionary grant under the program described in subparagraph (A) is a nonprofit organization that has—
       - **(i)** expertise in conducting a training program for non-Federal employees; and
       - **(ii)** the ability to reach and involve in a training program a target population of commercial motor vehicle safety enforcement employees.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 31102(a) | 49 App.:2302(a). | Jan. 6, 1983 , Pub. L. 97–424, § 402(a) , (c), 96 Stat. 2155 , 2156. |
+| 31102(b) | 49 App.:2302(b), (d). | Jan. 6, 1983 , Pub. L. 97–424, § 402(b) , (d), 96 Stat. 2155 , 2156; Dec. 18, 1991 , Pub. L. 102–240, § 4002(a) , (b), 105 Stat. 2140 . |
+| 31102(c) | 49 App.:2302(e). | Jan. 6, 1983 , Pub. L. 97–424 , 96 Stat. 2097 , § 402(e); added Dec. 18, 1991 , Pub. L. 102–240, § 4002(c) , 105 Stat. 2142 . |
+| 31102(d) | 49 App.:2302(c). |  |
+
+
+In General
+
+Goal
+
+State Plans.—
+
+In general
+
+Contents
+
+Publication.—
+
+In general
+
+Limitation
+
+Exclusion of U.S. Territories
+
+Intrastate Compatibility
+
+Maintenance of Effort.—
+
+Baseline
+
+Adjusted baseline after fiscal year 2017
+
+Waivers
+
+Level of state expenditures
+
+Use of Unified Carrier Registration Fees Agreement
+
+Use of Grants To Enforce Other Laws
+
+Evaluation of Plans and Award of Grants.—
+
+Awards
+
+Opportunity to cure
+
+Allocation of Funds.—
+
+In general
+
+Annual allocations
+
+Elective adjustments
+
+Plan Monitoring.—
+
+In general
+
+Withholding of funds.—
+
+Disapproval
+
+Noncompliance withholding
+
+Judicial review
+
+High Priority Program.—
+
+In general
+
+Activities related to motor carrier safety
+
+Innovative technology deployment grant program.—
+
+In general
+
+Purposes
+
+Eligibility
+
+Use of funds
+
+Secretary authorization
+
+Immobilization grant program.—
+
+Definition of passenger-carrying commercial motor vehicle
+
+Establishment
+
+List of criteria for immobilization
+
+Eligibility
+
+Use of funds
+
+Secretary authorization
+
+Commercial motor vehicle enforcement training and support grant program.—
+
+In general
+
+Purposes
+
+Eligible entities
+
+Historical and Revision Notes
+
+31102(a)
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 402(a)
+
+96 Stat. 2155
+
+31102(b)
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 402(b)
+
+96 Stat. 2155
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 4002(a)
+
+105 Stat. 2140
+
+31102(c)
+
+Jan. 6, 1983
+
+Pub. L. 97–424
+
+96 Stat. 2097
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 4002(c)
+
+105 Stat. 2142
+
+31102(d)
+
+Definition of Secretary
+
+Relief for Recipients of Financial Assistance Awarded for Fiscal Years 2019 and 2020.—
+
+In general
+
+Applicability.—
+
+Amounts awarded for fiscal years 2019 and 2020
+
+Amounts awarded for other years
+
+Working Group.—
+
+Establishment
+
+Membership.—
+
+In general
+
+Composition
+
+New allocation formula
+
+Recommendation
+
+Exemption
+
+Publication
+
+Notice of Proposed Rulemaking
+
+Basis for Formula
+
+Funding Amounts Prior to Development of New Allocation Formula.—
+
+Interim formula
+
+Adjustments
+
+Immediate relief
+
+Future withholdings
+
+Termination of Working Group
+
+Before New Allocation Formula.—
+
+Fiscal year 2017
+
+Subsequent fiscal years
+
+Beginning With New Allocation Formation.—
+
+In general
+
+Adjustment methodology
+
+Maintenance of effort amount.—
+
+In general
+
+Deadline
+
+Maintenance of effort described
+
+Termination of Effectiveness
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 984](https://www.govinfo.gov/link/statute/108/984); [Pub. L. 104–88, title I, § 104(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 918](https://www.govinfo.gov/link/statute/109/918); [Pub. L. 105–178, title IV, § 4003(b)](https://www.govinfo.gov/link/plaw/105/public/178), (c), June 9, 1998, [112 Stat. 395](https://www.govinfo.gov/link/statute/112/395), 396; [Pub. L. 106–159, title II, § 207](https://www.govinfo.gov/link/plaw/106/public/159), Dec. 9, 1999, [113 Stat. 1764](https://www.govinfo.gov/link/statute/113/1764); [Pub. L. 109–59, title IV](https://www.govinfo.gov/link/plaw/109/public/59), §§ 4106, 4307(b), Aug. 10, 2005, [119 Stat. 1717](https://www.govinfo.gov/link/statute/119/1717), 1774; [Pub. L. 112–141, div. C, title II, § 32601(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 805](https://www.govinfo.gov/link/statute/126/805); [Pub. L. 114–94, div. A, title V, § 5101(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1514](https://www.govinfo.gov/link/statute/129/1514); [Pub. L. 117–58, div. B, title III](https://www.govinfo.gov/link/plaw/117/public/58), §§ 23001(c), 23003–23005, Nov. 15, 2021, [135 Stat. 758–760](https://www.govinfo.gov/link/statute/135/758).)*

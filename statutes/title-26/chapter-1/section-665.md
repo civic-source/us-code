@@ -3,9 +3,10 @@ title: "Section 665 - Definitions applicable to subpart D"
 usc_title: 26
 usc_section: "665"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 665"
-generated_at: "2026-03-30T02:55:27.723Z"
+generated_at: "2026-11-23T21:26:06.359Z"
+status: "active"
 ---
 
 # § 665. Definitions applicable to subpart D
@@ -27,3 +28,13 @@ generated_at: "2026-03-30T02:55:27.723Z"
 - **(e)** For purposes of this subpart—
   - **(1)** In the case of a foreign trust created by a United States person, the term “preceding taxable year” does not include any taxable year of the trust to which this part does not apply.
   - **(2)** In the case of a preceding taxable year with respect to which a trust qualified, without regard to this subpart, under the provisions of subpart B, for purposes of the application of this subpart to such trust for such taxable year, such trust shall, in accordance with regulations prescribed by the Secretary, be treated as a trust to which subpart C applies.
+
+Special Rule Applicable to Distributions by Certain Foreign Trusts
+
+General rule.—
+
+Exceptions.—
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 223; [Pub. L. 87–834, § 7(b)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 985](https://www.govinfo.gov/link/statute/76/985); [Pub. L. 91–172, title III, § 331(a)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 592](https://www.govinfo.gov/link/statute/83/592); [Pub. L. 92–178, title III, § 306(a)](https://www.govinfo.gov/link/plaw/92/public/178), Dec. 10, 1971, [85 Stat. 524](https://www.govinfo.gov/link/statute/85/524); [Pub. L. 94–455, title VII](https://www.govinfo.gov/link/plaw/94/public/455), §§ 701(b), (c), (d)(2), (3), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1577](https://www.govinfo.gov/link/statute/90/1577), 1578, 1834; [Pub. L. 95–600, title VII, § 701(q)(1)(A)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2909](https://www.govinfo.gov/link/statute/92/2909); [Pub. L. 99–514, title XVIII, § 1847(b)(16)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2857](https://www.govinfo.gov/link/statute/100/2857); [Pub. L. 101–508, title XI, § 11802(f)(2)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–530](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 104–188, title I, § 1904(b)(1)](https://www.govinfo.gov/link/plaw/104/public/188), (c)(2), Aug. 20, 1996, [110 Stat. 1912](https://www.govinfo.gov/link/statute/110/1912); [Pub. L. 105–34, title V, § 507(a)](https://www.govinfo.gov/link/plaw/105/public/34), title XVI, § 1604(g)(2), Aug. 5, 1997, [111 Stat. 856](https://www.govinfo.gov/link/statute/111/856), 1099.)*

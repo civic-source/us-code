@@ -3,9 +3,10 @@ title: "Section 932 - Failure to meet workmen’s compensation requirements"
 usc_title: 30
 usc_section: "932"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 932"
-generated_at: "2026-03-30T02:55:29.392Z"
+generated_at: "2026-11-23T21:26:00.406Z"
+status: "active"
 ---
 
 # § 932. Failure to meet workmen’s compensation requirements
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:29.392Z"
   - **(3)** in which there was a claim denied before March 1, 1978 , and such claim is or has been approved in accordance with the provisions of section 945 2 of this title.
 - **(k)** The Secretary shall be a party in any proceeding relative to a claim for benefits under this part.
 - **(l)** In no case shall the eligible survivors of a miner who was determined to be eligible to receive benefits under this subchapter at the time of his or her death be required to file a new claim for benefits, or refile or otherwise revalidate the claim of such miner,. 3 3 So in original.
+
+## Source Credit
+
+*([Pub. L. 91–173, title IV, § 422](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 796](https://www.govinfo.gov/link/statute/83/796); [Pub. L. 92–303](https://www.govinfo.gov/link/plaw/92/public/303), §§ 3(a), (b), 5(2)–(4), (9), 8, May 19, 1972, [86 Stat. 153](https://www.govinfo.gov/link/statute/86/153), 155–157; [Pub. L. 95–239](https://www.govinfo.gov/link/plaw/95/public/239), §§ 3(b)(4), 7(a)–(h), Mar. 1, 1978, [92 Stat. 97–99](https://www.govinfo.gov/link/statute/92/97); [Pub. L. 97–119, title I, § 104(b)(3)](https://www.govinfo.gov/link/plaw/97/public/119) –(5), title II, §§ 203(a)(6), (b), 204, 205(a), Dec. 29, 1981, [95 Stat. 1639](https://www.govinfo.gov/link/statute/95/1639), 1644, 1645; [Pub. L. 98–426, § 28(h)(2)](https://www.govinfo.gov/link/plaw/98/public/426), Sept. 28, 1984, [98 Stat. 1655](https://www.govinfo.gov/link/statute/98/1655); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 111–148, title I, § 1556(b)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 260](https://www.govinfo.gov/link/statute/124/260).)*

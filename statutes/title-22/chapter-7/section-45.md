@@ -3,9 +3,10 @@ title: "Section 45 - New Treaty Minute"
 usc_title: 22
 usc_section: "45"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 45"
-generated_at: "2026-03-30T02:55:05.313Z"
+generated_at: "2026-11-23T21:25:58.349Z"
+status: "active"
 ---
 
 # § 277d–45. New Treaty Minute
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:05.313Z"
     - **(E)** Any terms and conditions considered necessary to allow for use in the United States of treated effluent from the Mexican facility, if there is reclaimed water which is surplus to the needs of users in Mexico and such use is consistent with applicable United States and California law.
     - **(F)** Any other terms and conditions considered necessary by the Secretary in order to implement the provisions of sections 277d–43 to 277d–46 of this title.
 - **(c)** In light of the continuing threat to the environment and to public health and safety within the United States as a result of the river and ocean pollution in the San Diego-Tijuana border region, the Commission is requested to give the highest priority to the implementation of Treaty Minute 311 to the Treaty for the Utilization of Waters of the Colorado and Tijuana Rivers and of the Rio Grande, dated February 3, 1944 , which establishes a framework for the siting of a treatment facility in Mexico to provide for the secondary treatment of effluent from the IWTP at the Mexican facility, to provide for additional capacity for advanced primary and secondary treatment of additional sewage emanating from the Tijuana River area, Mexico, and to meet the water quality standards of Mexico, the United States, and the State of California consistent with the provisions of sections 277d–43 to 277d–46 of this title, in order that the other provisions of sections 277d–43 to 277d–46 of this title to address such pollution may be implemented as soon as possible.
+
+## Source Credit
+
+*([Pub. L. 106–457, title VIII, § 805](https://www.govinfo.gov/link/plaw/106/public/457), Nov. 7, 2000, [114 Stat. 1980](https://www.govinfo.gov/link/statute/114/1980); [Pub. L. 108–425, § 2](https://www.govinfo.gov/link/plaw/108/public/425), Nov. 30, 2004, [118 Stat. 2421](https://www.govinfo.gov/link/statute/118/2421).)*

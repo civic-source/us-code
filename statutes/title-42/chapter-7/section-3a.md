@@ -3,9 +3,10 @@ title: "Section 3a - Requirements relating to qualified prescription drug monito
 usc_title: 42
 usc_section: "3a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3a"
-generated_at: "2026-03-30T02:56:11.062Z"
+generated_at: "2026-11-23T21:26:31.920Z"
+status: "active"
 ---
 
 # § 1396w–3a. Requirements relating to qualified prescription drug monitoring programs and prescribing certain controlled substances
@@ -52,3 +53,13 @@ generated_at: "2026-03-30T02:56:11.062Z"
     - **(B)**
       - **(i)** Beginning October 1, 2021 , for purposes of this section, such term does not include a health care provider included in any type of health care provider determined by the Secretary to be exempt from application of this section under clause (ii).
       - **(ii)** Not later than October 1, 2020 , the Secretary, after consultation with the National Association of Medicaid Directors, national health care provider associations, Medicaid beneficiary advocates, and advocates for individuals with rare diseases, shall determine, based on such consultations, the types of health care providers (if any) that should be exempted from the definition of the term “covered provider” for purposes of this section.
+
+In general
+
+Elements of model practices
+
+Consultation
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XIX, § 1944, as added [Pub. L. 115–271, title V, § 5042(a)](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 3967](https://www.govinfo.gov/link/statute/132/3967).)*

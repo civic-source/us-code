@@ -3,9 +3,10 @@ title: "Section 5113 - Information and services"
 usc_title: 42
 usc_section: "5113"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5113"
-generated_at: "2026-03-30T02:56:11.218Z"
+generated_at: "2026-11-23T21:26:32.731Z"
+status: "active"
 ---
 
 # § 5113. Information and services
@@ -79,3 +80,19 @@ generated_at: "2026-03-30T02:56:11.218Z"
     - **(C)** expanding the capacity of all adoption exchanges to serve increasing numbers of children;
     - **(D)** developing training materials and training social workers on preparing and moving children across State lines; and
     - **(E)** developing and supporting initiative models for networking among agencies, adoption exchanges, and parent support groups across jurisdictional boundaries.
+
+Report.—
+
+In general
+
+Required contents
+
+Advisory Panel.—
+
+Establishment
+
+Duties
+
+## Source Credit
+
+*([Pub. L. 95–266, title II, § 203](https://www.govinfo.gov/link/plaw/95/public/266), Apr. 24, 1978, [92 Stat. 209](https://www.govinfo.gov/link/statute/92/209); [Pub. L. 98–457, title II, § 203](https://www.govinfo.gov/link/plaw/98/public/457), Oct. 9, 1984, [98 Stat. 1756](https://www.govinfo.gov/link/statute/98/1756); [Pub. L. 100–294, title II, § 202](https://www.govinfo.gov/link/plaw/100/public/294), Apr. 25, 1988, [102 Stat. 122](https://www.govinfo.gov/link/statute/102/122); [Pub. L. 102–295, title IV, § 403](https://www.govinfo.gov/link/plaw/102/public/295), May 28, 1992, [106 Stat. 213](https://www.govinfo.gov/link/statute/106/213); [Pub. L. 104–235, title II, § 212](https://www.govinfo.gov/link/plaw/104/public/235), Oct. 3, 1996, [110 Stat. 3090](https://www.govinfo.gov/link/statute/110/3090); [Pub. L. 108–36, title II, § 202](https://www.govinfo.gov/link/plaw/108/public/36), June 25, 2003, [117 Stat. 819](https://www.govinfo.gov/link/statute/117/819); [Pub. L. 111–320, title III, § 301(b)](https://www.govinfo.gov/link/plaw/111/public/320), Dec. 20, 2010, [124 Stat. 3511](https://www.govinfo.gov/link/statute/124/3511).)*

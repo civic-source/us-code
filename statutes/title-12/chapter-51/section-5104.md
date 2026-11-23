@@ -3,9 +3,10 @@ title: "Section 5104 - State license and registration application and issuance"
 usc_title: 12
 usc_section: "5104"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5104"
-generated_at: "2026-03-30T02:53:53.523Z"
+generated_at: "2026-11-23T21:25:37.228Z"
+status: "active"
 ---
 
 # § 5104. State license and registration application and issuance
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:53:53.523Z"
     - **(C)** After failing 3 consecutive tests, an individual shall wait at least 6 months before taking the test again.
     - **(D)** A State-licensed loan originator who fails to maintain a valid license for a period of 5 years or longer shall retake the test, not taking into account any time during which such individual is a registered loan originator.
 - **(e)** Each mortgage licensee shall submit to the Nationwide Mortgage Licensing System and Registry reports of condition, which shall be in such form and shall contain such information as the Nationwide Mortgage Licensing System and Registry may require.
+
+## Source Credit
+
+*([Pub. L. 110–289, div. A, title V, § 1505](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2814](https://www.govinfo.gov/link/statute/122/2814).)*

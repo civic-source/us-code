@@ -3,9 +3,10 @@ title: "Section 10449 - Rape exam payments"
 usc_title: 34
 usc_section: "10449"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10449"
-generated_at: "2026-03-30T02:55:33.269Z"
+generated_at: "2026-11-23T21:26:09.662Z"
+status: "active"
 ---
 
 # § 10449. Rape exam payments
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:33.269Z"
       - **(i)** the period ending on the date on which the next session of the State legislature ends; or
       - **(ii)** 2 years.
   - **(2)** Funds withheld from a State or unit of local government under subsection (a) shall be distributed to other States and units of local government, pro rata.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2010](https://www.govinfo.gov/link/plaw/90/public/351), formerly § 2005, as added [Pub. L. 103–322, title IV, § 40121(a)(3)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1914](https://www.govinfo.gov/link/statute/108/1914); renumbered § 2010, [Pub. L. 107–273, div. A, title IV, § 402(2)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1789](https://www.govinfo.gov/link/statute/116/1789); amended [Pub. L. 108–405, title III, § 310(b)](https://www.govinfo.gov/link/plaw/108/public/405), Oct. 30, 2004, [118 Stat. 2276](https://www.govinfo.gov/link/statute/118/2276); [Pub. L. 109–162, title I, § 101(f)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 2974](https://www.govinfo.gov/link/statute/119/2974); [Pub. L. 109–271, § 2(j)](https://www.govinfo.gov/link/plaw/109/public/271), Aug. 12, 2006, [120 Stat. 753](https://www.govinfo.gov/link/statute/120/753); [Pub. L. 113–4, title I, § 101(4)](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 69](https://www.govinfo.gov/link/statute/127/69).)*

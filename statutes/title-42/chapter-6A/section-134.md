@@ -3,9 +3,10 @@ title: "Section 134 - Enforcement"
 usc_title: 42
 usc_section: "134"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 134"
-generated_at: "2026-03-30T02:56:10.839Z"
+generated_at: "2026-11-23T21:26:30.922Z"
+status: "active"
 ---
 
 # § 300gg–134. Enforcement
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:10.839Z"
   - **(4)** The Secretary shall waive the penalties described under paragraph (1) with respect to a facility or provider (including a provider of air ambulance services) who does not knowingly violate, and should not have reasonably known it violated, section 300gg–131 or 300gg–132 of this title (or, in the case of a provider of air ambulance services, section 300gg–135 of this title ) with respect to a participant, beneficiary, or enrollee, if such facility or provider, within 30 days of the violation, withdraws the bill that was in violation of such provision and reimburses the health plan or enrollee, as applicable, in an amount equal to the difference between the amount billed and the amount allowed to be billed under the provision, plus interest, at an interest rate determined by the Secretary.
   - **(5)** The Secretary may establish a hardship exemption to the penalties under this subsection.
 - **(c)** The sections specified in subsection (a)(1) 2 2 So in original. Subsec. (a)(1) specifies “this part”, but does not specify individual sections. shall not be construed to supersede any provision of State law which establishes, implements, or continues in effect any requirement or prohibition except to the extent that such requirement or prohibition prevents the application of a requirement or prohibition of such a section.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVII, § 2799B–4, as added [Pub. L. 116–260, div. BB, title I, § 104(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2829](https://www.govinfo.gov/link/statute/134/2829).)*

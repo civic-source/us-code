@@ -3,9 +3,10 @@ title: "Section 2404 - Definitions"
 usc_title: 15
 usc_section: "2404"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2404"
-generated_at: "2026-03-30T02:54:08.172Z"
+generated_at: "2026-11-23T21:25:39.927Z"
+status: "active"
 ---
 
 # § 2404. Definitions
@@ -16,3 +17,7 @@ For the purposes of this chapter—
   - **(2)** the term “Board” means the Board of Directors of the Center;
   - **(3)** the terms “productivity growth” and “improved productivity” shall be interpreted to include, but not be limited to, improvements in technology, management techniques, and the quality of working life; and
   - **(4)** the term “quality of working life” shall be interpreted to mean the conditions of work relating to the role of the worker in the production process.
+
+## Source Credit
+
+*([Pub. L. 94–136, title I, § 104](https://www.govinfo.gov/link/plaw/94/public/136), Nov. 28, 1975, [89 Stat. 735](https://www.govinfo.gov/link/statute/89/735).)*

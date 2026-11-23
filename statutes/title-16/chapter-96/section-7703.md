@@ -3,9 +3,10 @@ title: "Section 7703 - Authority and responsibility of the Secretary of State"
 usc_title: 16
 usc_section: "7703"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 7703"
-generated_at: "2026-03-30T02:54:23.077Z"
+generated_at: "2026-11-23T21:25:52.069Z"
+status: "active"
 ---
 
 # § 7703. Authority and responsibility of the Secretary of State
@@ -16,3 +17,7 @@ The Secretary of State may—
   - **(2)** in consultation with the Secretary, act upon, or refer to another appropriate authority, any communication received pursuant to paragraph (1);
   - **(3)** with the concurrence of the Secretary, and in accordance with the Convention, object to the decisions of the Commission; and
   - **(4)** request and utilize on a reimbursed or non-reimbursed basis the assistance, services, personnel, equipment, and facilities of other Federal departments and agencies, foreign governments or agencies, or international intergovernmental organizations, in the conduct of scientific research and other programs under this chapter.
+
+## Source Credit
+
+*([Pub. L. 114–327, title I, § 103](https://www.govinfo.gov/link/plaw/114/public/327), Dec. 16, 2016, [130 Stat. 1979](https://www.govinfo.gov/link/statute/130/1979).)*

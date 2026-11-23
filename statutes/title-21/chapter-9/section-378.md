@@ -3,9 +3,10 @@ title: "Section 378 - Advertising of foods"
 usc_title: 21
 usc_section: "378"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 378"
-generated_at: "2026-03-30T02:54:54.264Z"
+generated_at: "2026-11-23T21:25:56.131Z"
+status: "active"
 ---
 
 # § 378. Advertising of foods
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:54.264Z"
     - **(C)** the Commission does not (as described in subparagraph (D) of such paragraph) make a certification to the Attorney General respecting such advertising, or, if the Commission does make such a certification to the Attorney General respecting such advertising, the Attorney General, before the expiration of such period, does not cause appropriate criminal proceedings to be brought against such advertising,
 - **(c)** The requirements of subsections (a) and (b) do not apply with respect to action under subchapter III with respect to any food or food advertising if the Secretary determines that such action is required to eliminate an imminent hazard to health.
 - **(d)** For the purpose of avoiding unnecessary duplication, the Secretary shall coordinate any action taken under subchapter III because of advertising which the Secretary determines causes a food to be misbranded with any action of the Federal Trade Commission under the Federal Trade Commission Act [ 15 U.S.C. 41 et seq.] with respect to such advertising.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 707, as added [Pub. L. 94–278, title V, § 502(b)](https://www.govinfo.gov/link/plaw/94/public/278), Apr. 22, 1976, [90 Stat. 412](https://www.govinfo.gov/link/statute/90/412).)*

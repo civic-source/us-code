@@ -3,9 +3,10 @@ title: "Section 3602 - Definitions"
 usc_title: 25
 usc_section: "3602"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3602"
-generated_at: "2026-03-30T02:54:52.854Z"
+generated_at: "2026-11-23T21:25:54.695Z"
+status: "active"
 ---
 
 # § 3602. Definitions
@@ -20,3 +21,7 @@ For purposes of this chapter:
   - **(6)** The term “Secretary” means the Secretary of the Interior.
   - **(7)** The term “tribal organization” means any organization defined in section 5304( l ) of this title.
   - **(8)** The term “tribal justice system” means the entire judicial branch, and employees thereof, of an Indian tribe, including (but not limited to) traditional methods and forums for dispute resolution, lower courts, appellate courts (including intertribal appellate courts), alternative dispute resolution systems, and circuit rider systems, established by inherent tribal authority whether or not they constitute a court of record.
+
+## Source Credit
+
+*([Pub. L. 103–176, § 3](https://www.govinfo.gov/link/plaw/103/public/176), Dec. 3, 1993, [107 Stat. 2004](https://www.govinfo.gov/link/statute/107/2004).)*

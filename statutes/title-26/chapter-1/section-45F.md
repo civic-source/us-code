@@ -3,9 +3,10 @@ title: "Section 45F - Employer-provided child care credit"
 usc_title: 26
 usc_section: "45F"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 45F"
-generated_at: "2026-03-30T02:55:27.601Z"
+generated_at: "2026-11-23T21:26:05.933Z"
+status: "active"
 ---
 
 # § 45F. Employer-provided child care credit
@@ -69,3 +70,35 @@ generated_at: "2026-03-30T02:55:27.601Z"
     - **(B)** If, during any taxable year, there is a recapture amount determined with respect to any property the basis of which was reduced under subparagraph (A), the basis of such property (immediately before the event resulting in such recapture) shall be increased by an amount equal to such recapture amount. For purposes of the preceding sentence, the term “recapture amount” means any increase in tax (or adjustment in carrybacks or carryovers) determined under subsection (d).
   - **(2)** No deduction or credit shall be allowed under any other provision of this chapter with respect to the amount of the credit determined under this section.
 - **(g)** The Secretary shall issue such regulations or other guidance as may be necessary to carry out the purposes of this section, including guidance to carry out the purposes of paragraphs (1)(A)(iii) and (2)(C) of subsection (c).
+
+| If the recapture event occurs in: | The applicable recapture percentage is: |
+| --- | --- |
+| Years 1–3 | 100 |
+| Year 4 | 85 |
+| Year 5 | 70 |
+| Year 6 | 55 |
+| Year 7 | 40 |
+| Year 8 | 25 |
+| Years 9 and 10 | 10 |
+| Years 11 and thereafter | 0. |
+
+
+Years 1–3
+
+Year 4
+
+Year 5
+
+Year 6
+
+Year 7
+
+Year 8
+
+Years 9 and 10
+
+Years 11 and thereafter
+
+## Source Credit
+
+*(Added [Pub. L. 107–16, title II, § 205(a)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 50](https://www.govinfo.gov/link/statute/115/50); amended [Pub. L. 107–147, title IV, § 411(d)(1)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 46](https://www.govinfo.gov/link/statute/116/46); [Pub. L. 119–21, title VII, § 70401(a)](https://www.govinfo.gov/link/plaw/119/public/21) –(f), July 4, 2025, [139 Stat. 212](https://www.govinfo.gov/link/statute/139/212), 213.)*

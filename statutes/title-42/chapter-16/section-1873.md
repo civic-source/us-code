@@ -3,9 +3,10 @@ title: "Section 1873 - Employment of personnel"
 usc_title: 42
 usc_section: "1873"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1873"
-generated_at: "2026-03-30T02:56:11.130Z"
+generated_at: "2026-11-23T21:26:32.232Z"
+status: "active"
 ---
 
 # § 1873. Employment of personnel
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.130Z"
     - **(B)** permit anyone other than individuals authorized by the Foundation to examine data that allows for such identification relating to an individual, an industrial or commercial organization, or an academic, educational, or other nonprofit institution that has received a pledge of confidentiality from the Foundation; or
     - **(C)** knowingly and willfully request or obtain any nondisclosable information described in paragraph (1) from the Foundation under false pretenses.
   - **(3)** Violation of this subsection is punishable by a fine of not more than $10,000, imprisonment for not more than 5 years, or both.
+
+## Source Credit
+
+*(May 10, 1950, ch. 171, § 14, [64 Stat. 154](https://www.govinfo.gov/link/statute/64/154); renumbered § 15, [Pub. L. 85–510, § 2](https://www.govinfo.gov/link/plaw/85/public/510), July 11, 1958, [72 Stat. 353](https://www.govinfo.gov/link/statute/72/353); amended [Pub. L. 86–232, § 8](https://www.govinfo.gov/link/plaw/86/public/232), Sept. 8, 1959, [73 Stat. 469](https://www.govinfo.gov/link/statute/73/469); renumbered § 14 and amended [Pub. L. 90–407](https://www.govinfo.gov/link/plaw/90/public/407), §§ 11(2), 12, July 18, 1968, [82 Stat. 365](https://www.govinfo.gov/link/statute/82/365), 366; [Pub. L. 91–120, § 3](https://www.govinfo.gov/link/plaw/91/public/120), Nov. 18, 1969, [83 Stat. 203](https://www.govinfo.gov/link/statute/83/203); [Pub. L. 95–99, § 12(c)](https://www.govinfo.gov/link/plaw/95/public/99), formerly § 14(c), Aug. 15, 1977, [91 Stat. 835](https://www.govinfo.gov/link/statute/91/835), renumbered § 12(c), [Pub. L. 99–159, title I, § 109(h)](https://www.govinfo.gov/link/plaw/99/public/159), Nov. 22, 1985, [99 Stat. 890](https://www.govinfo.gov/link/statute/99/890); [Pub. L. 99–159, title I](https://www.govinfo.gov/link/plaw/99/public/159), §§ 109(e)(1), 110(a)(18), Nov. 22, 1985, [99 Stat. 889](https://www.govinfo.gov/link/statute/99/889), 891; [Pub. L. 100–570, title I](https://www.govinfo.gov/link/plaw/100/public/570), §§ 106, 107, Oct. 31, 1988, [102 Stat. 2868](https://www.govinfo.gov/link/statute/102/2868), 2869; [Pub. L. 101–589, title II, § 251](https://www.govinfo.gov/link/plaw/101/public/589), Nov. 16, 1990, [104 Stat. 2894](https://www.govinfo.gov/link/statute/104/2894); [Pub. L. 102–139, title III](https://www.govinfo.gov/link/plaw/102/public/139), Oct. 28, 1991, [105 Stat. 774](https://www.govinfo.gov/link/statute/105/774); [Pub. L. 104–66, title II, § 2141(b)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 731](https://www.govinfo.gov/link/statute/109/731); [Pub. L. 105–207, title II, § 202(a)(3)](https://www.govinfo.gov/link/plaw/105/public/207), July 29, 1998, [112 Stat. 873](https://www.govinfo.gov/link/statute/112/873); [Pub. L. 107–368, § 15(b)](https://www.govinfo.gov/link/plaw/107/public/368), Dec. 19, 2002, [116 Stat. 3058](https://www.govinfo.gov/link/statute/116/3058).)*

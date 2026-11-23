@@ -3,9 +3,10 @@ title: "Section 1423 - Definitions"
 usc_title: 16
 usc_section: "1423"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1423"
-generated_at: "2026-03-30T02:54:22.967Z"
+generated_at: "2026-11-23T21:25:51.875Z"
+status: "active"
 ---
 
 # § 1423. Definitions
@@ -19,3 +20,7 @@ In this subchapter:
   - **(5)** The term “Secretary” means the Secretary of the Interior.
   - **(6)** The term “taking” has the meaning given the term in the Agreement.
   - **(7)** The term “Commission” means the commission established under article 8 of the Agreement.
+
+## Source Credit
+
+*([Pub. L. 92–522, title V, § 501](https://www.govinfo.gov/link/plaw/92/public/522), as added [Pub. L. 109–479, title IX, § 902(a)](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3660](https://www.govinfo.gov/link/statute/120/3660).)*

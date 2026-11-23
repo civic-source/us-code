@@ -3,9 +3,10 @@ title: "Section 2355 - Treatment of forfeited property of transnational criminal
 usc_title: 21
 usc_section: "2355"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 2355"
-generated_at: "2026-03-30T02:54:54.312Z"
+generated_at: "2026-11-23T21:25:56.308Z"
+status: "active"
 ---
 
 # § 2355. Treatment of forfeited property of transnational criminal organizations
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:54.312Z"
       - **(ii)** the Fentanyl Sanctions Act ( 21 U.S.C. 2301 et seq.); or
       - **(iii)** Executive Order 14059 ( 50 U.S.C. 1701 note; relating to imposing sanctions on foreign persons involved in the global illicit drug trade).
 - **(b)** Nothing in this subchapter may be construed to affect the treatment of blocked assets of a terrorist party described in section 201(a) of the Terrorism Risk Insurance Act of 2002 ( 28 U.S.C. 1610 note).
+
+## Source Credit
+
+*([Pub. L. 118–50, div. E, title I, § 3105](https://www.govinfo.gov/link/plaw/118/public/50), Apr. 24, 2024, [138 Stat. 938](https://www.govinfo.gov/link/statute/138/938).)*

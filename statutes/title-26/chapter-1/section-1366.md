@@ -3,9 +3,10 @@ title: "Section 1366 - Pass-thru of items to shareholders"
 usc_title: 26
 usc_section: "1366"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1366"
-generated_at: "2026-03-30T02:55:27.770Z"
+generated_at: "2026-11-23T21:26:06.497Z"
+status: "active"
 ---
 
 # § 1366. Pass-thru of items to shareholders
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:55:27.770Z"
   - **(3)** If any tax is imposed under section 1375 for any taxable year on an S corporation, for purposes of subsection (a), each item of passive investment income shall be reduced by an amount which bears the same ratio to the amount of such tax as—
     - **(A)** the amount of such item, bears to
     - **(B)** the total passive investment income for the taxable year.
+
+## Source Credit
+
+*(Added [Pub. L. 97–354, § 2](https://www.govinfo.gov/link/plaw/97/public/354), Oct. 19, 1982, [96 Stat. 1677](https://www.govinfo.gov/link/statute/96/1677); amended [Pub. L. 98–369, div. A, title IV, § 474(r)(26)](https://www.govinfo.gov/link/plaw/98/public/369), title VII, § 735(c)(16), July 18, 1984, [98 Stat. 844](https://www.govinfo.gov/link/statute/98/844), 985; [Pub. L. 99–514, title VI, § 632(c)(2)](https://www.govinfo.gov/link/plaw/99/public/514), title VII, § 701(e)(4)(K), Oct. 22, 1986, [100 Stat. 2277](https://www.govinfo.gov/link/statute/100/2277), 2343; [Pub. L. 100–647, title I, § 1006(f)(5)(E)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3406](https://www.govinfo.gov/link/statute/102/3406); [Pub. L. 101–239, title VII, § 7811(c)(7)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2407](https://www.govinfo.gov/link/statute/103/2407); [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1302(e), 1307(c)(3)(A), 1309(a)(1), 1312, Aug. 20, 1996, [110 Stat. 1779](https://www.govinfo.gov/link/statute/110/1779), 1782, 1783, 1784; [Pub. L. 108–357, title II, § 235(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1435](https://www.govinfo.gov/link/statute/118/1435); [Pub. L. 110–172, § 3(b)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2474](https://www.govinfo.gov/link/statute/121/2474); [Pub. L. 115–141, div. U, title IV, § 401(a)(192)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1193](https://www.govinfo.gov/link/statute/132/1193).)*

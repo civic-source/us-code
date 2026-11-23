@@ -3,9 +3,10 @@ title: "Section 44516 - Human factors program"
 usc_title: 49
 usc_section: "44516"
 chapter: 445
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44516"
-generated_at: "2026-03-30T02:56:19.382Z"
+generated_at: "2026-11-23T21:26:40.888Z"
+status: "active"
 ---
 
 # § 44516. Human factors program
@@ -22,3 +23,29 @@ generated_at: "2026-03-30T02:56:19.382Z"
 - **(b)** The Administrator shall establish a test program in cooperation with air carriers to use model Jeppesen approach plates or other similar tools to improve precision-like landing approaches for aircraft.
 - **(c)** Not later than 1 year after the date of the enactment of this section, the Administrator shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the status of the Administration’s efforts to encourage the adoption and implementation of advanced qualification programs for air carriers under this section.
 - **(d)** In this section, the term “advanced qualification program” means an alternative method for qualifying, training, certifying, and ensuring the competency of flight crews and other commercial aviation operations personnel subject to the training and evaluation requirements of parts 121 and 135 of title 14, Code of Federal Regulations.
+
+Human Factors Training.—
+
+Air traffic controllers
+
+Pilots and flight crews
+
+Test Program
+
+Report
+
+Advanced Qualification Program Defined
+
+“The Administrator [of the Federal Aviation Administration] shall take such actions as may be necessary to establish a new work code for human factors professionals who—
+
+Human Factors Education Program.—
+
+In general
+
+Target audience
+
+Transport Airplane Manufacturer Information Sharing
+
+## Source Credit
+
+*(Added [Pub. L. 106–181, title VII, § 713(a)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 160](https://www.govinfo.gov/link/statute/114/160).)*

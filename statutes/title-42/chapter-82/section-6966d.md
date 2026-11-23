@@ -3,9 +3,10 @@ title: "Section 6966d - Consumer recycling education and outreach grant program;
 usc_title: 42
 usc_section: "6966d"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6966d"
-generated_at: "2026-03-30T02:56:11.277Z"
+generated_at: "2026-11-23T21:26:33.021Z"
+status: "active"
 ---
 
 # § 6966d. Consumer recycling education and outreach grant program; Federal procurement
@@ -78,3 +79,7 @@ generated_at: "2026-03-30T02:56:11.277Z"
     - **(A)** low-income communities;
     - **(B)** rural communities; and
     - **(C)** communities identified as Native American pursuant to section 3001(9) of title 25 .
+
+## Source Credit
+
+*([Pub. L. 117–58, div. G, title IV, § 70402](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1262](https://www.govinfo.gov/link/statute/135/1262).)*

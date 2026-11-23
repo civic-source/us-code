@@ -3,9 +3,10 @@ title: "Section 514 - Unrelated debt-financed income"
 usc_title: 26
 usc_section: "514"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 514"
-generated_at: "2026-03-30T02:55:27.713Z"
+generated_at: "2026-11-23T21:26:06.320Z"
+status: "active"
 ---
 
 # § 514. Unrelated debt-financed income
@@ -124,3 +125,19 @@ generated_at: "2026-03-30T02:55:27.713Z"
 - **(e)** Where debt-financed property is held for purposes described in subsection (b)(1)(A), (B), (C), or (D) as well as for other purposes, proper allocation shall be made with respect to basis, indebtedness, and income and deductions. The allocations required by this section shall be made in accordance with regulations prescribed by the Secretary to the extent proper to carry out the purposes of this section.
 - **(f)** For purposes of this section, the term “real property” includes personal property of the lessor leased by it to a lessee of its real estate if the lease of such personal property is made under, or in connection with, the lease of such real estate.
 - **(g)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations to prevent the circumvention of any provision of this section through the use of segregated asset accounts.
+
+In general
+
+Small leases
+
+In general
+
+Exception for indebtedness on certain property acquired before january 1, 1985 .—
+
+Exception for indebtedness on certain property acquired before january 1, 1986 .—
+
+Binding contracts
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 172; [Pub. L. 86–667, § 5](https://www.govinfo.gov/link/plaw/86/public/667), July 14, 1960, [74 Stat. 536](https://www.govinfo.gov/link/statute/74/536); [Pub. L. 91–172, title I, § 121(d)(1)](https://www.govinfo.gov/link/plaw/91/public/172), (3)(A), (B), Dec. 30, 1969, [83 Stat. 543](https://www.govinfo.gov/link/statute/83/543), 548; [Pub. L. 93–625, § 7(b)(2)](https://www.govinfo.gov/link/plaw/93/public/625), Jan. 3, 1975, [88 Stat. 2115](https://www.govinfo.gov/link/statute/88/2115); [Pub. L. 94–455, title XIII, § 1308(a)](https://www.govinfo.gov/link/plaw/94/public/455), title XIX, §§ 1901(a)(72), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1729](https://www.govinfo.gov/link/statute/90/1729), 1776, 1834; [Pub. L. 95–345, § 2(c)](https://www.govinfo.gov/link/plaw/95/public/345), Aug. 15, 1978, [92 Stat. 482](https://www.govinfo.gov/link/statute/92/482); [Pub. L. 96–605, title I, § 110(a)](https://www.govinfo.gov/link/plaw/96/public/605), Dec. 28, 1980, [94 Stat. 3525](https://www.govinfo.gov/link/statute/94/3525); [Pub. L. 98–369, div. A, title I, § 174(b)(5)(B)](https://www.govinfo.gov/link/plaw/98/public/369), title X, § 1034(a), (b), July 18, 1984, [98 Stat. 707](https://www.govinfo.gov/link/statute/98/707), 1039, 1040; [Pub. L. 99–514, title II, § 201(d)(9)](https://www.govinfo.gov/link/plaw/99/public/514), title XVI, § 1603(b), title XVIII, § 1878(e), Oct. 22, 1986, [100 Stat. 2141](https://www.govinfo.gov/link/statute/100/2141), 2768, 2903; [Pub. L. 100–203, title X, § 10214(a)](https://www.govinfo.gov/link/plaw/100/public/203), (b), Dec. 22, 1987, [101 Stat. 1330–407](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1016(a)(5)(A), (6), 1018(u)(13), title II, § 2004(h), Nov. 10, 1988, [102 Stat. 3574](https://www.govinfo.gov/link/statute/102/3574), 3575, 3590, 3603; [Pub. L. 101–239, title VII, § 7811](https://www.govinfo.gov/link/plaw/101/public/239) (l), Dec. 19, 1989, [103 Stat. 2412](https://www.govinfo.gov/link/statute/103/2412); [Pub. L. 103–66, title XIII, § 13144(a)](https://www.govinfo.gov/link/plaw/103/public/66), (b), Aug. 10, 1993, [107 Stat. 441](https://www.govinfo.gov/link/statute/107/441), 442; [Pub. L. 108–357, title II, § 247(a)](https://www.govinfo.gov/link/plaw/108/public/357), title VII, § 702(b), Oct. 22, 2004, [118 Stat. 1449](https://www.govinfo.gov/link/statute/118/1449), 1546; [Pub. L. 109–135, title IV, § 412(ee)(2)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2639](https://www.govinfo.gov/link/statute/119/2639); [Pub. L. 109–280, title VIII, § 866(a)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1025](https://www.govinfo.gov/link/statute/120/1025).)*

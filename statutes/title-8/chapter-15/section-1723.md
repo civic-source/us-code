@@ -3,9 +3,10 @@ title: "Section 1723 - Commission on Interoperable Data Sharing"
 usc_title: 8
 usc_section: "1723"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1723"
-generated_at: "2026-03-30T02:53:10.507Z"
+generated_at: "2026-11-23T21:25:25.216Z"
+status: "active"
 ---
 
 # § 1723. Commission on Interoperable Data Sharing
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:10.507Z"
   - **(3)** The adequacy of mechanisms to permit the timely correction of errors in data maintained by the interoperable data system.
   - **(4)** Other protections against unauthorized use of data to guard against the misuse of the interoperable data system or the data maintained by the system, including recommendations for modifications to existing laws and regulations to sanction misuse of the system.
 - **(d)** There are authorized to be appropriated to the Commission such sums as may be necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 107–173, title II, § 203](https://www.govinfo.gov/link/plaw/107/public/173), May 14, 2002, [116 Stat. 551](https://www.govinfo.gov/link/statute/116/551).)*

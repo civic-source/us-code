@@ -3,9 +3,10 @@ title: "Section 16323 - Science and engineering education pilot program"
 usc_title: 42
 usc_section: "16323"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16323"
-generated_at: "2026-03-30T02:56:11.483Z"
+generated_at: "2026-11-23T21:26:33.734Z"
+status: "active"
 ---
 
 # § 16323. Science and engineering education pilot program
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.483Z"
   - **(5)** designing and implementing a strategy for measuring and assessing progress under the program; and
   - **(6)** developing models for transferring knowledge gained under the pilot program to other institutions and areas of the United States.
 - **(c)** A grant under this section shall be considered an authorized activity under section 7381b of this title .
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 983](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 907](https://www.govinfo.gov/link/statute/119/907); [Pub. L. 113–188, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/113/public/188), Nov. 26, 2014, [128 Stat. 2019](https://www.govinfo.gov/link/statute/128/2019).)*

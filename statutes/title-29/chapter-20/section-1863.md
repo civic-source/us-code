@@ -3,9 +3,10 @@ title: "Section 1863 - Agreements with Federal and State agencies"
 usc_title: 29
 usc_section: "1863"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1863"
-generated_at: "2026-03-30T02:55:18.741Z"
+generated_at: "2026-11-23T21:26:02.310Z"
+status: "active"
 ---
 
 # § 1863. Agreements with Federal and State agencies
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:18.741Z"
 - **(b)** Any delegation to a State agency pursuant to subsection (a)(2) shall be made only pursuant to a written State plan which—
   - **(1)** shall include a description of the functions to be performed, the methods of performing such functions, and the resources to be devoted to the performance of such functions; and
   - **(2)** provides assurances satisfactory to the Secretary that the State agency will comply with its description under paragraph (1) and that the State agency’s performance of functions so delegated will be at least comparable to the performance of such functions by the Department of Labor.
+
+## Source Credit
+
+*([Pub. L. 97–470, title V, § 513](https://www.govinfo.gov/link/plaw/97/public/470), Jan. 14, 1983, [96 Stat. 2599](https://www.govinfo.gov/link/statute/96/2599).)*

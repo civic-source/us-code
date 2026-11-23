@@ -3,9 +3,10 @@ title: "Section 1639h - Property appraisal requirements"
 usc_title: 15
 usc_section: "1639h"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1639h"
-generated_at: "2026-03-30T02:54:08.143Z"
+generated_at: "2026-11-23T21:25:39.856Z"
+status: "active"
 ---
 
 # § 1639h. Property appraisal requirements
@@ -31,3 +32,11 @@ generated_at: "2026-03-30T02:54:08.143Z"
     - **(A)** by 1.5 or more percentage points, in the case of a first lien residential mortgage loan having an original principal obligation amount that does not exceed the amount of the maximum limitation on the original principal obligation of mortgage in effect for a residence of the applicable size, as of the date of such interest rate set, pursuant to the sixth sentence of section 1454(a)(2) of title 12 ;
     - **(B)** by 2.5 or more percentage points, in the case of a first lien residential mortgage loan having an original principal obligation amount that exceeds the amount of the maximum limitation on the original principal obligation of mortgage in effect for a residence of the applicable size, as of the date of such interest rate set, pursuant to the sixth sentence of section 1454(a)(2) of title 12 ; and
     - **(C)** by 3.5 or more percentage points for a subordinate lien residential mortgage loan.
+
+Federally backed mortgage loan defined
+
+Requirement
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 129H](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 111–203, title XIV, § 1471](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2185](https://www.govinfo.gov/link/statute/124/2185).)*

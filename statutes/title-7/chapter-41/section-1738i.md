@@ -3,9 +3,10 @@ title: "Section 1738i - Enterprise for the Americas Board"
 usc_title: 7
 usc_section: "1738i"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1738i"
-generated_at: "2026-03-30T02:53:42.341Z"
+generated_at: "2026-11-23T21:25:28.178Z"
+status: "active"
 ---
 
 # § 1738i. Enterprise for the Americas Board
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:42.341Z"
   - **(1)** advise the President on the negotiations for the environmental framework agreements described in subsections (a) and (b) of section 1738f of this title ;
   - **(2)** ensure, in consultation with the government of the appropriate eligible country, with nongovernmental organizations of such eligible country, and if appropriate, of the region, and with environmental, scientific, and academic leaders of such eligible country and, as appropriate, of the region, that a suitable body referred to in section 1738f(c) of this title is identified; and
   - **(3)** review the programs, operations, and fiscal audits of the bodies referred to in section 1738f(c) of this title .
+
+## Source Credit
+
+*(July 10, 1954, ch. 469, title VI, § 610, as added [Pub. L. 101–624, title XV, § 1512](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3661](https://www.govinfo.gov/link/statute/104/3661); amended [Pub. L. 102–237, title III, § 339](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1861](https://www.govinfo.gov/link/statute/105/1861); [Pub. L. 102–549, title VI, § 603](https://www.govinfo.gov/link/plaw/102/public/549), Oct. 28, 1992, [106 Stat. 3669](https://www.govinfo.gov/link/statute/106/3669).)*

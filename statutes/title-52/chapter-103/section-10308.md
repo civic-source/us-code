@@ -3,9 +3,10 @@ title: "Section 10308 - Civil and criminal sanctions"
 usc_title: 52
 usc_section: "10308"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 10308"
-generated_at: "2026-03-30T02:56:30.160Z"
+generated_at: "2026-11-23T21:26:42.320Z"
+status: "active"
 ---
 
 # § 10308. Civil and criminal sanctions
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:30.160Z"
 - **(d)** Whenever any person has engaged or there are reasonable grounds to believe that any person is about to engage in any act or practice prohibited by section 10301, 10302, 10303, 10304, 10306, or 10307 of this title, section 1973e of title 42 , 1 1 See References in Text note below. or subsection (b) of this section, the Attorney General may institute for the United States, or in the name of the United States, an action for preventive relief, including an application for a temporary or permanent injunction, restraining order, or other order, and including an order directed to the State and State or local election officials to require them (1) to permit persons listed under chapters 103 to 107 of this title to vote and (2) to count such votes.
 - **(e)** Whenever in any political subdivision in which there are observers appointed pursuant to chapters 103 to 107 of this title any persons allege to such an observer within forty-eight hours after the closing of the polls that notwithstanding (1) their listing under chapters 103 to 107 of this title or registration by an appropriate election official and (2) their eligibility to vote, they have not been permitted to vote in such election, the observer shall forthwith notify the Attorney General if such allegations in his opinion appear to be well founded. Upon receipt of such notification, the Attorney General may forthwith file with the district court an application for an order providing for the marking, casting, and counting of the ballots of such persons and requiring the inclusion of their votes in the total vote before the results of such election shall be deemed final and any force or effect given thereto. The district court shall hear and determine such matters immediately after the filing of such application. The remedy provided in this subsection shall not preclude any remedy available under State or Federal law.
 - **(f)** The district courts of the United States shall have jurisdiction of proceedings instituted pursuant to this section and shall exercise the same without regard to whether a person asserting rights under the provisions of chapters 103 to 107 of this title shall have exhausted any administrative or other remedies that may be provided by law.
+
+## Source Credit
+
+*([Pub. L. 89–110, title I, § 12](https://www.govinfo.gov/link/plaw/89/public/110), Aug. 6, 1965, [79 Stat. 443](https://www.govinfo.gov/link/statute/79/443); [Pub. L. 90–284, title I, § 103(c)](https://www.govinfo.gov/link/plaw/90/public/284), Apr. 11, 1968, [82 Stat. 75](https://www.govinfo.gov/link/statute/82/75); renumbered title I, [Pub. L. 91–285, § 2](https://www.govinfo.gov/link/plaw/91/public/285), June 22, 1970, [84 Stat. 314](https://www.govinfo.gov/link/statute/84/314); [Pub. L. 109–246, § 3(d)(3)](https://www.govinfo.gov/link/plaw/109/public/246), (4), (e)(2), July 27, 2006, [120 Stat. 580](https://www.govinfo.gov/link/statute/120/580).)*

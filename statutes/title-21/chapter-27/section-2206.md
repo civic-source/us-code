@@ -3,9 +3,10 @@ title: "Section 2206 - Alcohol-related facilities"
 usc_title: 21
 usc_section: "2206"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 2206"
-generated_at: "2026-03-30T02:54:54.310Z"
+generated_at: "2026-11-23T21:25:56.300Z"
+status: "active"
 ---
 
 # § 2206. Alcohol-related facilities
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:54.310Z"
   - **(1)** in a prepackaged form that prevents any direct human contact with such food; and
   - **(2)** in amounts that constitute not more than 5 percent of the overall sales of such facility, as determined by the Secretary of the Treasury.
 - **(c)** Except as provided in subsections (a) and (b), this section shall not be construed to exempt any food, other than alcoholic beverages, as defined in section 214 1 1 See References in Text note below. of the Federal Alcohol Administration Act ( 27 U.S.C. 214 ), from the requirements of this Act (including the amendments made by this Act).
+
+## Source Credit
+
+*([Pub. L. 111–353, title I, § 116](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3922](https://www.govinfo.gov/link/statute/124/3922).)*

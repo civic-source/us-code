@@ -3,9 +3,10 @@ title: "Section 16534 - Department of Energy early career awards for science, en
 usc_title: 42
 usc_section: "16534"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16534"
-generated_at: "2026-03-30T02:56:11.489Z"
+generated_at: "2026-11-23T21:26:33.749Z"
+status: "active"
 ---
 
 # § 16534. Department of Energy early career awards for science, engineering, and mathematics researchers
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:56:11.489Z"
     - **(C)** a description of barriers, if any, that exist with respect to efforts to recruit and retain young scientists and engineers, including the limited availability of full-time equivalent positions, legal and procedural requirements, and pay grading systems; and
     - **(D)** the amount of funding devoted to efforts to recruit and retain young researchers, and the source of the funds.
 - **(h)** There is authorized to be appropriated to the Secretary, acting through the Director, to carry out this section $25,000,000 for each of fiscal years 2008 through 2013.
+
+## Source Credit
+
+*([Pub. L. 110–69, title V, § 5006](https://www.govinfo.gov/link/plaw/110/public/69), Aug. 9, 2007, [121 Stat. 615](https://www.govinfo.gov/link/statute/121/615); [Pub. L. 111–358, title IX, § 902(c)](https://www.govinfo.gov/link/plaw/111/public/358), Jan. 4, 2011, [124 Stat. 4045](https://www.govinfo.gov/link/statute/124/4045).)*

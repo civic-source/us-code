@@ -3,9 +3,10 @@ title: "Section 2801 - Congressional findings"
 usc_title: 22
 usc_section: "2801"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2801"
-generated_at: "2026-03-30T02:55:05.389Z"
+generated_at: "2026-11-23T21:25:58.573Z"
+status: "active"
 ---
 
 # § 2801. Congressional findings
@@ -15,3 +16,7 @@ The Congress finds that—
 - **(a)** international expositions, when properly organized, financed, and executed, have a significant impact on the economic growth of the region surrounding the exposition and, under appropriate international sanction, are important instruments of national policy, particularly in the exchange of ideas and the demonstration of cultural achievements between peoples;
 - **(b)** in view of the widely varying circumstances under which international expositions have developed in the United States, the different degrees to which the Federal Government has assisted and participated in such expositions, and the increasing number of proposals for future expositions, the national interest requires that Federal action concerning such expositions be given orderly consideration; and
 - **(c)** such orderly consideration is best achieved by the development of uniform standards, criteria, and procedures to establish the conditions under which the Government hereafter will (A) recognize international expositions proposed to be held in the United States, and (B) take part in such expositions.
+
+## Source Credit
+
+*([Pub. L. 91–269, § 1](https://www.govinfo.gov/link/plaw/91/public/269), May 27, 1970, [84 Stat. 271](https://www.govinfo.gov/link/statute/84/271).)*

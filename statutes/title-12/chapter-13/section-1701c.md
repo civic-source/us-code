@@ -3,9 +3,10 @@ title: "Section 1701c - Secretary of Housing and Urban Development"
 usc_title: 12
 usc_section: "1701c"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1701c"
-generated_at: "2026-03-30T02:53:53.401Z"
+generated_at: "2026-11-23T21:25:36.847Z"
+status: "active"
 ---
 
 # § 1701c. Secretary of Housing and Urban Development
@@ -19,3 +20,7 @@ In carrying out his functions, powers, and duties—
   - **(2)** utilize, contract with and act through, without regard to section 6101 of title 41 , any Federal, State, or local public agency or instrumentality, educational institution, or non-profit agency or organization with the consent of the agency or organization concerned, and any funds available to said officers for carrying out their respective functions, powers, and duties shall be available to reimburse or pay any such agency or organization; and, whenever in the judgment of any such officer necessary, he may make advance, progress, or other payments with respect to such contracts without regard to the provisions of subsections (a) and (b) of section 3324 of title 31 ; and
   - **(3)** make expenditures for all necessary expenses, including preparation, mounting, shipping, and installation of exhibits; purchase and exchange of technical apparatus; and such other expenses as may, from time to time, be found necessary in carrying out their respective functions, powers, and duties: Provided , That funds made available for administrative expenses in carrying out the functions, powers, and duties imposed upon the Secretary of Housing and Urban Development and the Federal Home Loan Bank Agency, 1 1 So in original. Probably should refer to the Federal Housing Finance Agency. respectively, by or pursuant to law may at their option be consolidated into a single administrative expense fund accounts of such officer or agency for expenditure by them, respectively, in accordance with the provisions hereof.
 - **(d)** The Secretary of Housing and Urban Development may utilize funds made available to him for salaries and expenses for payment in advance for dues or fees for library memberships in organizations (or for membership of the individual librarians in organizations which will not accept library membership) whose publications are available to members only, or to members at a price lower than to the general public, and for payment in advance for publications available only upon that basis or available at a reduced price on prepublication order.
+
+## Source Credit
+
+*(Aug. 10, 1948, ch. 832, title V, § 502, [62 Stat. 1283](https://www.govinfo.gov/link/statute/62/1283); Oct. 28, 1949, ch. 782, title XI, § 1106(a), [63 Stat. 972](https://www.govinfo.gov/link/statute/63/972); Apr. 20, 1950, ch. 94, title V, § 503, [64 Stat. 80](https://www.govinfo.gov/link/statute/64/80); [Pub. L. 87–70, title IX, § 909](https://www.govinfo.gov/link/plaw/87/public/70), June 30, 1961, [75 Stat. 192](https://www.govinfo.gov/link/statute/75/192); [Pub. L. 90–19, § 5(d)(1)](https://www.govinfo.gov/link/plaw/90/public/19) –(3), (8)–(13), May 25, 1967, [81 Stat. 21](https://www.govinfo.gov/link/statute/81/21); [Pub. L. 98–479, title II](https://www.govinfo.gov/link/plaw/98/public/479), §§ 202(b), 203(c), Oct. 17, 1984, [98 Stat. 2228](https://www.govinfo.gov/link/statute/98/2228), 2229; [Pub. L. 100–242, title V, § 570(a)(1)](https://www.govinfo.gov/link/plaw/100/public/242), (3), Feb. 5, 1988, [101 Stat. 1949](https://www.govinfo.gov/link/statute/101/1949), 1950; [Pub. L. 101–73, title III, § 306](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 352](https://www.govinfo.gov/link/statute/103/352); [Pub. L. 111–203, title III, § 370](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1565](https://www.govinfo.gov/link/statute/124/1565).)*

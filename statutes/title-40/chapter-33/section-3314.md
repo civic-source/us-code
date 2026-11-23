@@ -3,9 +3,10 @@ title: "Section 3314 - Baby changing facilities in restrooms"
 usc_title: 40
 usc_section: "3314"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 3314"
-generated_at: "2026-03-30T02:55:43.379Z"
+generated_at: "2026-11-23T21:26:14.867Z"
+status: "active"
 ---
 
 # § 3314. Baby changing facilities in restrooms
@@ -19,3 +20,21 @@ generated_at: "2026-03-30T02:55:43.379Z"
 - **(c)** In this section:
   - **(1)** The term “baby changing facility” means a table or other device suitable for changing the diaper of a child age 3 or under.
   - **(2)** The term “public building” means a public building as defined in section 3301 and controlled by the Public Building Service of the General Services Administration.
+
+Additional Requirement for the Construction, Alteration, and Acquisition of Public Buildings
+
+Exceptions
+
+Definitions
+
+Baby changing facility
+
+Pubic
+
+Public
+
+building
+
+## Source Credit
+
+*(Added [Pub. L. 114–235, § 2(a)(2)](https://www.govinfo.gov/link/plaw/114/public/235), Oct. 7, 2016, [130 Stat. 964](https://www.govinfo.gov/link/statute/130/964).)*

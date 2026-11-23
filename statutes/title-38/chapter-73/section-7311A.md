@@ -3,9 +3,10 @@ title: "Section 7311A - Quality management officers"
 usc_title: 38
 usc_section: "7311A"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7311A"
-generated_at: "2026-03-30T02:55:53.527Z"
+generated_at: "2026-11-23T21:26:16.851Z"
+status: "active"
 ---
 
 # § 7311A. Quality management officers
@@ -35,3 +36,15 @@ generated_at: "2026-03-30T02:55:53.527Z"
 - **(d)**
   - **(1)** Except as provided in paragraph (2), there are authorized to be appropriated such sums as may be necessary to carry out this section.
   - **(2)** There is authorized to be appropriated to carry out the provisions of subparagraphs (B), (C), and (D) of subsection (a)(3), $25,000,000 for the two-year period of fiscal years beginning after the date of the enactment of this section.
+
+National Quality Management Officer
+
+Quality Management Officers for VISNs
+
+Quality Management Officers for Medical Facilities
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(Added [Pub. L. 111–163, title V, § 505(a)(1)](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1158](https://www.govinfo.gov/link/statute/124/1158).)*

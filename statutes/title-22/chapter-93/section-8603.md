@@ -3,9 +3,10 @@ title: "Section 8603 - United States actions to assist in the defense of Israel 
 usc_title: 22
 usc_section: "8603"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8603"
-generated_at: "2026-03-30T02:55:05.454Z"
+generated_at: "2026-11-23T21:25:58.748Z"
+status: "active"
 ---
 
 # § 8603. United States actions to assist in the defense of Israel and protect United States interests
@@ -21,3 +22,11 @@ It is the sense of Congress that the United States Government should take the fo
   - **(7)** Offer the Air Force of Israel additional training and exercise opportunities in the United States to compensate for Israel’s limited air space.
   - **(8)** Work to encourage an expanded role for Israel with the North Atlantic Treaty Organization (NATO), including an enhanced presence at NATO headquarters and exercises.
   - **(9)** Expand already-close intelligence cooperation, including satellite intelligence, with Israel.
+
+Findings
+
+Eligibility for Strategic Trade Authorization Exception
+
+## Source Credit
+
+*([Pub. L. 112–150, § 4](https://www.govinfo.gov/link/plaw/112/public/150), July 27, 2012, [126 Stat. 1147](https://www.govinfo.gov/link/statute/126/1147).)*

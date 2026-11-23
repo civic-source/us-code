@@ -3,9 +3,10 @@ title: "Section 8501 - National Capital Service Area"
 usc_title: 40
 usc_section: "8501"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 8501"
-generated_at: "2026-03-30T02:55:43.383Z"
+generated_at: "2026-11-23T21:26:14.916Z"
+status: "active"
 ---
 
 # § 8501. National Capital Service Area
@@ -25,3 +26,52 @@ generated_at: "2026-03-30T02:55:43.383Z"
   - **(2)** Except to the extent otherwise specifically provided in this section, all general laws of the United States and all laws enacted by the Congress and applicable exclusively to the District of Columbia, including regulations and rules prescribed pursuant to any of those laws, that were in effect on January 1, 1975 , and which applied to and in the areas included in the National Capital Service Area pursuant to this section continue to be applicable to and in the National Capital Service Area in the same manner and to the same extent as if this section had not been enacted and remain applicable until repealed, amended, altered, modified, or superseded.
 - **(c)** As far as practicable, any service or facility authorized by the District of Columbia Home Rule Act ( Public Law 93–198 , 87 Stat. 774 ) to be rendered or furnished (including maintenance of streets and highways, and services under section 1537 of title 31 ) shall be made available to the Senate, the House of Representatives, Congress, any committee, commission, or board of the Senate, the House of Representatives, or Congress, the Architect of the Capitol, any other officer of the legislative branch who on January 1, 1975 , was vested with authority over those buildings and grounds, the Chief Justice of the United States, the Marshal of the Supreme Court, and the Librarian of Congress on their request. If payment would be required for the rendition or furnishing of a similar service or facility to any other federal agency, the recipient, on presentation of proper vouchers and as agreed on by the parties, shall pay for the service or facility in advance or by reimbursement.
 - **(d)** An individual may not be denied the right to vote or otherwise participate in any manner in any election in the District of Columbia solely because the individual resides in the National Capital Service Area.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8501(a) | 40:136(a), (f). | Pub. L. 93–198, title VII, § 739(a) , (f), (h)–(j), Dec. 24, 1973 , 87 Stat. 825 , 826, 829. |
+| 8501(b)(1) | 40:136(h)(1). |  |
+| 8501(b)(2) | 40:136(i). |  |
+| 8501(c) | 40:136(h)(2). |  |
+| 8501(d) | 40:136(j). |  |
+
+
+Establishment.—
+
+Boundaries
+
+Streets and sidewalks included
+
+Federal property that affronted or abutted the area deemed to be in the area
+
+Applicability of Other Provisions.—
+
+Provisions covering buildings and grounds in area not affected
+
+Continued application of laws, regulations, and rules
+
+Availability of Services and Facilities
+
+Right To Participate in Election Not Affected by Residency
+
+Historical and Revision Notes
+
+8501(a)
+
+Pub. L. 93–198, title VII, § 739(a)
+
+Dec. 24, 1973
+
+87 Stat. 825
+
+8501(b)(1)
+
+8501(b)(2)
+
+8501(c)
+
+8501(d)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1211](https://www.govinfo.gov/link/statute/116/1211); [Pub. L. 109–284, § 6(24)](https://www.govinfo.gov/link/plaw/109/public/284), Sept. 27, 2006, [120 Stat. 1213](https://www.govinfo.gov/link/statute/120/1213).)*

@@ -3,9 +3,10 @@ title: "Section 7102 - Definitions"
 usc_title: 7
 usc_section: "7102"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7102"
-generated_at: "2026-03-30T02:53:42.443Z"
+generated_at: "2026-11-23T21:25:28.412Z"
+status: "active"
 ---
 
 # § 7102. Definitions
@@ -47,3 +48,7 @@ As used in this chapter (unless the context clearly requires otherwise):
   - **(30)** The term “United States” means the 50 States and the District of Columbia.
   - **(31)** The term “wool” means the fiber from the fleece of a sheep.
   - **(32)** The term “wool products” means products produced, in whole or in part, from wool and products containing wool fiber.
+
+## Source Credit
+
+*([Pub. L. 103–407, § 3](https://www.govinfo.gov/link/plaw/103/public/407), Oct. 22, 1994, [108 Stat. 4211](https://www.govinfo.gov/link/statute/108/4211).)*

@@ -3,9 +3,10 @@ title: "Section 806 - Powers, functions, and limitations"
 usc_title: 2
 usc_section: "806"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 806"
-generated_at: "2026-03-30T02:53:04.803Z"
+generated_at: "2026-11-23T21:25:21.187Z"
+status: "active"
 ---
 
 # § 806. Powers, functions, and limitations
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:53:04.803Z"
     - **(A)** the members of the Board of Directors of the Foundation shall be the members of the Board, with up to 24 additional voting members appointed by the Board, and the Director who shall serve as a nonvoting member; and
     - **(B)** the extent of the authority of the Foundation shall be the same as that of the Board.
   - **(3)** No director, officer, or employee of any corporation established under this subsection may receive compensation, travel expenses, or benefits from both the Corporation and the Board.
+
+## Source Credit
+
+*([Pub. L. 96–114, title I, § 106](https://www.govinfo.gov/link/plaw/96/public/114), formerly § 7, Nov. 16, 1979, [93 Stat. 854](https://www.govinfo.gov/link/statute/93/854); [Pub. L. 99–161, § 4(f)](https://www.govinfo.gov/link/plaw/99/public/161), Nov. 25, 1985, [99 Stat. 935](https://www.govinfo.gov/link/statute/99/935); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 100–674, § 2(c)](https://www.govinfo.gov/link/plaw/100/public/674), Nov. 17, 1988, [102 Stat. 3996](https://www.govinfo.gov/link/statute/102/3996); [Pub. L. 101–525, § 7](https://www.govinfo.gov/link/plaw/101/public/525), Nov. 6, 1990, [104 Stat. 2306](https://www.govinfo.gov/link/statute/104/2306); renumbered title I, § 106, [Pub. L. 106–533, § 1(b)(1)](https://www.govinfo.gov/link/plaw/106/public/533), (2), Nov. 22, 2000, [114 Stat. 2553](https://www.govinfo.gov/link/statute/114/2553); [Pub. L. 111–200, § 2(d)](https://www.govinfo.gov/link/plaw/111/public/200) –(g), July 7, 2010, [124 Stat. 1369](https://www.govinfo.gov/link/statute/124/1369).)*

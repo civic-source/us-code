@@ -3,9 +3,10 @@ title: "Section 30503 - Support for criminal investigations and prosecutions by 
 usc_title: 34
 usc_section: "30503"
 chapter: 305
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 30503"
-generated_at: "2026-03-30T02:55:33.307Z"
+generated_at: "2026-11-23T21:26:09.825Z"
+status: "active"
 ---
 
 # § 30503. Support for criminal investigations and prosecutions by State, local, and tribal law enforcement officials
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:33.307Z"
   - **(5)** A grant under this subsection shall not exceed $100,000 for any single jurisdiction in any 1-year period.
   - **(6)** Not later than December 31, 2011 , the Attorney General shall submit to Congress a report describing the applications submitted for grants under this subsection, the award of such grants, and the purposes for which the grant amounts were expended.
   - **(7)** There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2010, 2011, and 2012.
+
+## Source Credit
+
+*([Pub. L. 111–84, div. E, § 4704](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2837](https://www.govinfo.gov/link/statute/123/2837).)*

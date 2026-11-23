@@ -3,9 +3,10 @@ title: "Section 4116 - Regulations"
 usc_title: 25
 usc_section: "4116"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4116"
-generated_at: "2026-03-30T02:54:52.858Z"
+generated_at: "2026-11-23T21:25:54.707Z"
+status: "active"
 ---
 
 # § 4116. Regulations
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:52.858Z"
       - **(ii)** promulgate regulations pursuant to this section by not later than 2 years after the date of enactment of the Native American Housing Assistance and Self-Determination Reauthorization Act of 2008 and any other Act to reauthorize this chapter.
     - **(D)** Not less frequently than once every 7 years, the Secretary, in consultation with Indian tribes, shall review the regulations promulgated pursuant to this section in effect on the date on which the review is conducted.
 - **(c)** This section shall take effect on October 26, 1996 .
+
+## Source Credit
+
+*([Pub. L. 104–330, title I, § 106](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4029](https://www.govinfo.gov/link/statute/110/4029); [Pub. L. 107–292, § 6](https://www.govinfo.gov/link/plaw/107/public/292), Nov. 13, 2002, [116 Stat. 2054](https://www.govinfo.gov/link/statute/116/2054); [Pub. L. 110–411, title I, § 105](https://www.govinfo.gov/link/plaw/110/public/411), Oct. 14, 2008, [122 Stat. 4324](https://www.govinfo.gov/link/statute/122/4324).)*

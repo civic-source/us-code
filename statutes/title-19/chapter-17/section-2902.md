@@ -3,9 +3,10 @@ title: "Section 2902 - Trade agreement negotiating authority"
 usc_title: 19
 usc_section: "2902"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2902"
-generated_at: "2026-03-30T02:54:24.686Z"
+generated_at: "2026-11-23T21:25:42.831Z"
+status: "active"
 ---
 
 # § 2902. Trade agreement negotiating authority
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:54:24.686Z"
     - **(A)** in applying subsection (a)(1)(A) of section 2903 of this title to any such agreement, the phrase “at least 120 calendar days before the day on which he enters into the trade agreement (but not later than December 15, 1993 ),” shall be substituted for the phrase “at least 90 calendar days before the day on which he enters into the trade agreement,”; and
     - **(B)** no provision of subsection (b) of section 2903 of this title other than paragraph (1)(A) applies to any such agreement and in applying such paragraph, “ April 16, 1994 ;” shall be substituted for “ June 1, 1991 ;”.
   - **(4)** The report required under section 2155(e)(1) of this title regarding any trade agreement provided for under paragraph (1) shall be provided to the President, the Congress, and the United States Trade Representative not later than 30 days after the date on which the President notifies the Congress under section 2903(a)(1)(A) of this title of his intention to enter into the agreement (but before January 15, 1994 ).
+
+## Source Credit
+
+*([Pub. L. 100–418, title I, § 1102](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1126](https://www.govinfo.gov/link/statute/102/1126); [Pub. L. 101–382, title I, § 139(b)](https://www.govinfo.gov/link/plaw/101/public/382), Aug. 20, 1990, [104 Stat. 653](https://www.govinfo.gov/link/statute/104/653); [Pub. L. 103–49, § 1](https://www.govinfo.gov/link/plaw/103/public/49), July 2, 1993, [107 Stat. 239](https://www.govinfo.gov/link/statute/107/239).)*

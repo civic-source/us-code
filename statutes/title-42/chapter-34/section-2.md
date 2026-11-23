@@ -3,9 +3,10 @@ title: "Section 2 - Establishment of Administration for Native Americans"
 usc_title: 42
 usc_section: "2"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T02:56:11.167Z"
+generated_at: "2026-11-23T21:26:32.440Z"
+status: "active"
 ---
 
 # § 2991b–2. Establishment of Administration for Native Americans
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.167Z"
   - **(2)** The membership of the Council shall be the heads of principal operating divisions within the Department, as determined by the Secretary, and such persons in the Office of the Secretary as the Secretary may designate.
   - **(3)** In addition to the duties described in subsection (c)(3), the Council shall, within 180 days following September 30, 1992 , prepare a plan, including legislative recommendations, to allow Tribal governments and other organizations described in section 2991b(a) of this title to consolidate grants administered by the Department and to designate a single office to oversee and audit the grants. Such plan shall be submitted to the committees of the Senate and the House of Representatives having jurisdiction over the Administration for Native Americans.
 - **(e)** The Secretary shall assure that adequate staff and administrative support is provided to carry out the purpose of this subchapter. In determining the staffing levels of the Administration, the Secretary shall consider among other factors the unmet needs of the Native American population, the need to provide adequate oversight and technical assistance to grantees, the need to carry out the activities of the Council, the additional reporting requirements established, and the staffing levels previously maintained in support of the Administration.
+
+## Source Credit
+
+*([Pub. L. 88–452, title VIII, § 803B](https://www.govinfo.gov/link/plaw/88/public/452), as added [Pub. L. 102–375, title VIII, § 822(3)](https://www.govinfo.gov/link/plaw/102/public/375), Sept. 30, 1992, [106 Stat. 1296](https://www.govinfo.gov/link/statute/106/1296); amended [Pub. L. 103–171, § 5(4)](https://www.govinfo.gov/link/plaw/103/public/171), Dec. 2, 1993, [107 Stat. 1992](https://www.govinfo.gov/link/statute/107/1992); [Pub. L. 116–261, § 5(d)(3)](https://www.govinfo.gov/link/plaw/116/public/261), Dec. 30, 2020, [134 Stat. 3314](https://www.govinfo.gov/link/statute/134/3314).)*

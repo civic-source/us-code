@@ -3,9 +3,10 @@ title: "Section 7906 - Services of post-combat case coordinators"
 usc_title: 5
 usc_section: "7906"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 7906"
-generated_at: "2026-03-30T02:52:56.040Z"
+generated_at: "2026-11-23T21:25:23.345Z"
+status: "active"
 ---
 
 # § 7906. Services of post-combat case coordinators
@@ -25,3 +26,15 @@ generated_at: "2026-03-30T02:52:56.040Z"
 - **(d)** The services of a post-combat case coordinator shall remain available to a qualified employee until—
   - **(1)** such employee accepts or declines a reasonable offer of employment in a position in the employee’s agency for which the employee is qualified, which is not lower than 2 grades (or pay levels) below the employee’s grade (or pay level) before the occurrence or onset of the injury, disability, or illness (as referred to in subsection (a)), and which is within the employee’s commuting area; or
   - **(2)** such employee gives written notice, in such manner as the employing agency prescribes, that those services are no longer desired or necessary.
+
+Definitions
+
+Requirement
+
+Guidelines
+
+Duration
+
+## Source Credit
+
+*(Added [Pub. L. 112–81, div. A, title XI, § 1106(a)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1613](https://www.govinfo.gov/link/statute/125/1613).)*

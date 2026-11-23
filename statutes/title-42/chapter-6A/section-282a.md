@@ -3,9 +3,10 @@ title: "Section 282a - Authorization of appropriations"
 usc_title: 42
 usc_section: "282a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 282a"
-generated_at: "2026-03-30T02:56:10.738Z"
+generated_at: "2026-11-23T21:26:30.458Z"
+status: "active"
 ---
 
 # § 282a. Authorization of appropriations
@@ -41,3 +42,9 @@ generated_at: "2026-03-30T02:56:10.738Z"
     - **(E)** At the request of any national research institute or national center, the Director of NIH may waive the application of this paragraph to such institute or center if the Director finds that the conduct or support of research described in subparagraph (B) is inconsistent with the mission of such institute or center.
 - **(d)** Of the total amount appropriated under subsection (a)(1) for a fiscal year, the Director of NIH may (in addition to the reservation under subsection (c)(1) for such year) transfer not more than 1 percent for programs or activities that are authorized in this subchapter and identified by the Director to receive funds pursuant to this subsection. In making such transfers, the Director may not decrease any appropriation account under subsection (a)(1) by more than 1 percent.
 - **(e)** This section may not be construed as affecting the authorities of the Director of NIH under section 281 of this title .
+
+“Funds appropriated pursuant to section 402A(a)(2) of the Public Health Service Act [ 42 U.S.C. 282a(a)(2) ], as added by subsection (b)—
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 402A, as added [Pub. L. 109–482, title I, § 103(a)](https://www.govinfo.gov/link/plaw/109/public/482), Jan. 15, 2007, [120 Stat. 3685](https://www.govinfo.gov/link/statute/120/3685); amended [Pub. L. 113–94, § 3(b)](https://www.govinfo.gov/link/plaw/113/public/94), Apr. 3, 2014, [128 Stat. 1087](https://www.govinfo.gov/link/statute/128/1087); [Pub. L. 114–255, div. A, title II](https://www.govinfo.gov/link/plaw/114/public/255), §§ 2001, 2031(b), 2042(a), Dec. 13, 2016, [130 Stat. 1047](https://www.govinfo.gov/link/statute/130/1047), 1056, 1073; [Pub. L. 118–228, § 2(1)](https://www.govinfo.gov/link/plaw/118/public/228), (2), Jan. 4, 2025, [138 Stat. 2822](https://www.govinfo.gov/link/statute/138/2822).)*

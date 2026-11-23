@@ -3,9 +3,10 @@ title: "Section 6822 - Grant authorities"
 usc_title: 22
 usc_section: "6822"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6822"
-generated_at: "2026-03-30T02:55:05.433Z"
+generated_at: "2026-11-23T21:25:58.698Z"
+status: "active"
 ---
 
 # § 6822. Grant authorities
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:05.433Z"
 - **(b)** In providing grants under this section, the Trust Fund should give priority to countries that have the highest HIV/AIDS prevalence rate or are at risk of having a high HIV/AIDS prevalence rate.
 - **(c)** Governments and nongovernmental organizations should be eligible to receive grants under this section.
 - **(d)** The Trust Fund should not make grants for the purpose of project development associated with bilateral or multilateral bank loans.
+
+## Source Credit
+
+*([Pub. L. 106–264, title I, § 122](https://www.govinfo.gov/link/plaw/106/public/264), Aug. 19, 2000, [114 Stat. 755](https://www.govinfo.gov/link/statute/114/755).)*

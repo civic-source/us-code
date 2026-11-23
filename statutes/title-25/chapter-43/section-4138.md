@@ -3,9 +3,10 @@ title: "Section 4138 - Availability of records"
 usc_title: 25
 usc_section: "4138"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4138"
-generated_at: "2026-03-30T02:54:52.859Z"
+generated_at: "2026-11-23T21:25:54.708Z"
+status: "active"
 ---
 
 # § 4138. Availability of records
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:52.859Z"
 - **(a)** Notwithstanding any other provision of law, except as provided in subsection (b), the National Crime Information Center, police departments, and other law enforcement agencies shall, upon request, provide information to Indian tribes or tribally designated housing entities regarding the criminal conviction records of applicants for employment, and of adult applicants for, or tenants of, housing assisted with grant amounts provided to such tribe or entity under this chapter for purposes of applicant screening, lease enforcement, and eviction.
 - **(b)** A law enforcement agency described in subsection (a) shall provide information under this paragraph relating to any criminal conviction of a juvenile only to the extent that the release of such information is authorized under the law of the applicable State, tribe, or locality.
 - **(c)** An Indian tribe or tribally designated housing entity receiving information under this section may use such information only for the purposes provided in this section and such information may not be disclosed to any person who is not an officer, employee, or authorized representative of the tribe or entity or the owner of housing assisted under this chapter, and who has a job-related need to have access to the information for the purposes under this section. For judicial eviction proceedings, disclosures may be made to the extent necessary. The Secretary shall, by regulation, establish procedures necessary to ensure that information provided under this section to any tribe or entity is used, and confidentiality is maintained, as required under this section.
+
+## Source Credit
+
+*([Pub. L. 104–330, title II, § 208](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4035](https://www.govinfo.gov/link/statute/110/4035); [Pub. L. 105–276, title V, § 595(e)(10)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2658](https://www.govinfo.gov/link/statute/112/2658); [Pub. L. 110–411, title II, § 205](https://www.govinfo.gov/link/plaw/110/public/411), Oct. 14, 2008, [122 Stat. 4326](https://www.govinfo.gov/link/statute/122/4326).)*

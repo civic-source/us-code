@@ -3,9 +3,10 @@ title: "Section 3805 - Indian dam safety"
 usc_title: 25
 usc_section: "3805"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3805"
-generated_at: "2026-03-30T02:54:52.856Z"
+generated_at: "2026-11-23T21:25:54.699Z"
+status: "active"
 ---
 
 # § 3805. Indian dam safety
@@ -174,3 +175,31 @@ generated_at: "2026-03-30T02:54:52.856Z"
     - **(B)** new construction planning.
   - **(2)** The program shall terminate on the date that is 11 years after December 16, 2016 .
   - **(3)** Of the amounts authorized to be expended from either Fund, $250,000 shall be made available from either Fund during each of fiscal years 2017 through 2026 to carry out this subsection, to remain available until expended.
+
+(aa) 1 1 So in original. No cl. (ii) has been enacted. are owned by the Federal Government, as listed in the Federal inventory required by Executive Order 13327 ( 40 U.S.C. 121 note; relating to Federal real property asset management); and
+
+(bb) are managed by the Bureau of Indian Affairs (including dams managed under contracts or compacts pursuant to the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5301 et seq.)); or
+
+(aa) are owned by the Federal Government, as listed in the Federal inventory required by Executive Order 13327 ( 40 U.S.C. 121 note; relating to Federal real property asset management); and
+
+(bb) are managed by the Bureau of Indian Affairs (including dams managed under contracts or compacts pursuant to the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5301 et seq.)); or
+
+(aa) the Northwest Region;
+
+(bb) the Pacific Region;
+
+(cc) the Western Region;
+
+(dd) the Navajo Region;
+
+(ee) the Southwest Region;
+
+(ff) the Rocky Mountain Region;
+
+(gg) the Great Plans 2 2 So in original. Probably should be “Plains”. Region; and
+
+(hh) the Midwest Region;
+
+## Source Credit
+
+*([Pub. L. 114–322, title III, § 3101](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1740](https://www.govinfo.gov/link/statute/130/1740); [Pub. L. 115–270, title IV, § 4314](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3893](https://www.govinfo.gov/link/statute/132/3893).)*

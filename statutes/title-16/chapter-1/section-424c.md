@@ -3,9 +3,10 @@ title: "Section 424c - Moccasin Bend National Archeological District"
 usc_title: 16
 usc_section: "424c"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 424c"
-generated_at: "2026-03-30T02:54:22.791Z"
+generated_at: "2026-11-23T21:25:51.504Z"
+status: "active"
 ---
 
 # § 424c. Moccasin Bend National Archeological District
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:22.791Z"
   - **(2)** The Secretary may consult and enter into cooperative agreements with culturally affiliated federally recognized Indian tribes, governmental entities, and interested persons to provide for the restoration, preservation, development, interpretation, and use of the archeological district.
   - **(3)** For purposes of interpreting the historical themes and cultural resources of the archeological district, the Secretary may establish and administer a visitor center in the archeological district.
   - **(4)** Not later than 3 years after funds are made available under this section, the Secretary shall develop a general management plan for the archeological district. The general management plan shall describe the appropriate protection and preservation of natural, cultural, and scenic resources, visitor use, and facility development within the archeological district consistent with the purposes of this section, while ensuring continued access by private landowners to their property.
+
+## Source Credit
+
+*([Pub. L. 108–7, div. F, title I, § 160](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 247](https://www.govinfo.gov/link/statute/117/247).)*

@@ -3,9 +3,10 @@ title: "Section 305 - Under Secretary for Health"
 usc_title: 38
 usc_section: "305"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 305"
-generated_at: "2026-03-30T02:55:53.470Z"
+generated_at: "2026-11-23T21:26:16.550Z"
+status: "active"
 ---
 
 # § 305. Under Secretary for Health
@@ -27,3 +28,9 @@ generated_at: "2026-03-30T02:55:53.470Z"
     - **(F)** One person who has held the position of Under Secretary for Health (including service as Chief Medical Director of the Veterans’ Administration), if the Secretary determines that it is desirable for such person to be a member of the commission.
   - **(3)** A commission established under this subsection shall recommend at least three individuals for appointment to the position of Under Secretary for Health. The commission shall submit all recommendations to the Secretary. The Secretary shall forward the recommendations to the President with any comments the Secretary considers appropriate. Thereafter, the President may request the commission to recommend additional individuals for appointment.
   - **(4)** The Assistant Secretary or Deputy Assistant Secretary of Veterans Affairs who performs personnel management and labor relations functions shall serve as the executive secretary of a commission established under this subsection.
+
+“Any reference in any Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to the Department of Veterans Affairs—
+
+## Source Credit
+
+*(Added and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 2(a), 4(a)(3), (4), Aug. 6, 1991, [105 Stat. 379](https://www.govinfo.gov/link/statute/105/379), 404; [Pub. L. 102–405, title III, § 302(c)(1)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1984](https://www.govinfo.gov/link/statute/106/1984); [Pub. L. 103–446, title XII, § 1201(c)(1)](https://www.govinfo.gov/link/plaw/103/public/446), (e)(2), Nov. 2, 1994, [108 Stat. 4683](https://www.govinfo.gov/link/statute/108/4683), 4685; [Pub. L. 108–422, title V, § 503](https://www.govinfo.gov/link/plaw/108/public/422), Nov. 30, 2004, [118 Stat. 2396](https://www.govinfo.gov/link/statute/118/2396); [Pub. L. 109–461, title II, § 210(a)](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3418](https://www.govinfo.gov/link/statute/120/3418).)*

@@ -3,9 +3,10 @@ title: "Section 1302b - Small and medium publicly owned treatment works circuit 
 usc_title: 33
 usc_section: "1302b"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1302b"
-generated_at: "2026-03-30T02:55:41.090Z"
+generated_at: "2026-11-23T21:26:11.376Z"
+status: "active"
 ---
 
 # § 1302b. Small and medium publicly owned treatment works circuit rider program
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:41.090Z"
 - **(f)**
   - **(1)** There is authorized to be appropriated to carry out this section $10,000,000 for the period of fiscal years 2022 through 2026.
   - **(2)** Of the amounts made available for grants under paragraph (1), not more than 2 percent may be used to pay the administrative costs of the Administrator.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title II, § 224, as added [Pub. L. 117–58, div. E, title II, § 50206](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1164](https://www.govinfo.gov/link/statute/135/1164).)*

@@ -3,9 +3,10 @@ title: "Section 4024 - Health insurance reinstatement"
 usc_title: 50
 usc_section: "4024"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4024"
-generated_at: "2026-03-30T02:56:26.265Z"
+generated_at: "2026-11-23T21:26:39.084Z"
+status: "active"
 ---
 
 # § 4024. Health insurance reinstatement
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:26.265Z"
 - **(e)**
   - **(1)** The amount of the premium for health insurance coverage that was terminated by a servicemember and required to be reinstated under subsection (a) may not be increased, for the balance of the period for which coverage would have been continued had the coverage not been terminated, to an amount greater than the amount chargeable for such coverage before the termination.
   - **(2)** Paragraph (1) does not prevent an increase in premium to the extent of any general increase in the premiums charged by the carrier of the health care insurance for the same health insurance coverage for persons similarly covered by such insurance during the period between the termination and the reinstatement.
+
+## Source Credit
+
+*(Oct. 17, 1940, ch. 888, title VII, § 704, as added [Pub. L. 108–189, § 1](https://www.govinfo.gov/link/plaw/108/public/189), Dec. 19, 2003, [117 Stat. 2864](https://www.govinfo.gov/link/statute/117/2864); amended [Pub. L. 109–233, title III, § 302](https://www.govinfo.gov/link/plaw/109/public/233), June 15, 2006, [120 Stat. 406](https://www.govinfo.gov/link/statute/120/406).)*

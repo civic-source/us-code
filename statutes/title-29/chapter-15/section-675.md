@@ -3,12 +3,17 @@ title: "Section 675 - Annual reports by Secretary of Labor and Secretary of Heal
 usc_title: 29
 usc_section: "675"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 675"
-generated_at: "2026-03-30T02:55:18.690Z"
+generated_at: "2026-11-23T21:26:02.194Z"
+status: "active"
 ---
 
 # § 675. Annual reports by Secretary of Labor and Secretary of Health and Human Services; contents
 
 Within one hundred and twenty days following the convening of each regular session of each Congress, the Secretary and the Secretary of Health and Human Services shall each prepare and submit to the President for transmittal to the Congress a report upon the subject matter of this chapter, the progress toward achievement of the purpose of this chapter, the needs and requirements in the field of occupational safety and health, and any other relevant information. Such reports shall include information regarding occupational safety and health standards, and criteria for such standards, developed during the preceding year; evaluation of standards and criteria previously developed under this chapter, defining areas of emphasis for new criteria and standards; an evaluation of the degree of observance of applicable occupational safety and health standards, and a summary of inspection and enforcement activity undertaken; analysis and evaluation of research activities for which results have been obtained under governmental and nongovernmental sponsorship; an analysis of major occupational diseases; evaluation of available control and measurement technology for hazards for which standards or criteria have been developed during the preceding year; description of cooperative efforts undertaken between Government agencies and other interested parties in the implementation of this chapter during the preceding year; a progress report on the development of an adequate supply of trained manpower in the field of occupational safety and health, including estimates of future needs and the efforts being made by Government and others to meet those needs; listing of all toxic substances in industrial usage for which labeling requirements, criteria, or standards have not yet been established; and such recommendations for additional legislation as are deemed necessary to protect the safety and health of the worker and improve the administration of this chapter.
 
+
+## Source Credit
+
+*([Pub. L. 91–596, § 26](https://www.govinfo.gov/link/plaw/91/public/596), Dec. 29, 1970, [84 Stat. 1615](https://www.govinfo.gov/link/statute/84/1615); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695).)*

@@ -3,9 +3,10 @@ title: "Section 3059 - Foreign Malign Influence Center"
 usc_title: 50
 usc_section: "3059"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3059"
-generated_at: "2026-03-30T02:56:26.233Z"
+generated_at: "2026-11-23T21:26:39.005Z"
+status: "active"
 ---
 
 # § 3059. Foreign Malign Influence Center
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:56:26.233Z"
   - **(2)** The term “foreign malign influence” means any hostile effort undertaken by, at the direction of, or on behalf of or with the substantial support of, the government of a covered foreign country with the objective of influencing, through overt or covert means—
     - **(A)** the political, military, economic, or other policies or activities of the United States Government or State or local governments, including any election within the United States; or
     - **(B)** the public opinion within the United States.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title I, § 119C, as added [Pub. L. 116–92, div. E, title LIII, § 5322(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2129](https://www.govinfo.gov/link/statute/133/2129); amended [Pub. L. 117–263, div. F, title LXIII, § 6307(a)(1)](https://www.govinfo.gov/link/plaw/117/public/263), (b), Dec. 23, 2022, [136 Stat. 3504](https://www.govinfo.gov/link/statute/136/3504), 3505.)*

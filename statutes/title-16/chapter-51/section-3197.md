@@ -3,9 +3,10 @@ title: "Section 3197 - Revenue-producing visitor services"
 usc_title: 16
 usc_section: "3197"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3197"
-generated_at: "2026-03-30T02:54:23.012Z"
+generated_at: "2026-11-23T21:25:51.964Z"
+status: "active"
 ---
 
 # § 3197. Revenue-producing visitor services
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:23.012Z"
   - **(2)** shall give preference to persons whom he determines, by rule, are local residents; and
   - **(3)** shall, consistent with the provisions of this section, offer to Cook Inlet Region, Incorporated, in cooperation with Village Corporations within the Cook Inlet Region when appropriate, the right of first refusal to provide new revenue producing visitor services within the Kenai National Moose Range or that portion of the Lake Clark National Park and Preserve within the boundaries of the Cook Inlet Region that right to remain open for a period of ninety days as agreed to in paragraph VIII of the document referred to in section 12 of the Act of January 2, 1976 ( Public Law 94–204 ).
 - **(c)** As used in this section, the term “visitor service” means any service made available for a fee or charge to persons who visit a conservation system unit, including such services as providing food, accommodations, transportation, tours, and guides excepting the guiding of sport hunting and fishing. Nothing in this Act shall limit or affect the authority of the Federal Government or the State of Alaska to license and regulate transportation services.
+
+## Source Credit
+
+*([Pub. L. 96–487, title XIII, § 1307](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2479](https://www.govinfo.gov/link/statute/94/2479); [Pub. L. 105–333, § 10](https://www.govinfo.gov/link/plaw/105/public/333), Oct. 31, 1998, [112 Stat. 3134](https://www.govinfo.gov/link/statute/112/3134).)*

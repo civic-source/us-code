@@ -3,9 +3,10 @@ title: "Section 3303 - Conditions of additional credit allowance"
 usc_title: 26
 usc_section: "3303"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 3303"
-generated_at: "2026-03-30T02:55:27.793Z"
+generated_at: "2026-11-23T21:26:06.562Z"
+status: "active"
 ---
 
 # § 3303. Conditions of additional credit allowance
@@ -44,3 +45,11 @@ generated_at: "2026-03-30T02:55:27.793Z"
     - **(A)** the payment was made because the employer, or an agent of the employer, was at fault for failing to respond timely or adequately to the request of the agency for information relating to the claim for compensation; and
     - **(B)** the employer or agent has established a pattern of failing to respond timely or adequately to such requests.
   - **(2)** Nothing in paragraph (1) shall limit the authority of a State to provide that an employer’s account not be relieved of charges relating to a payment from the State unemployment fund for reasons other than the reasons described in subparagraphs (A) and (B) of such paragraph, such as after the first instance of a failure to respond timely or adequately to requests described in paragraph (1)(A).
+
+In general
+
+Authority
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 440; Sept. 1, 1954, ch. 1212, § 2, [68 Stat. 1130](https://www.govinfo.gov/link/statute/68/1130); [Pub. L. 91–373, title I](https://www.govinfo.gov/link/plaw/91/public/373), §§ 104(c), 122(a), 142(c)–(e), Aug. 10, 1970, [84 Stat. 699](https://www.govinfo.gov/link/statute/84/699), 702, 707; [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1903(a)(13), 1906(b)(13)(C), Oct. 4, 1976, [90 Stat. 1809](https://www.govinfo.gov/link/statute/90/1809), 1834; [Pub. L. 94–566, title I, § 122(a)](https://www.govinfo.gov/link/plaw/94/public/566), (b), Oct. 20, 1976, [90 Stat. 2675](https://www.govinfo.gov/link/statute/90/2675), 2676; [Pub. L. 112–40, title II, § 252(a)](https://www.govinfo.gov/link/plaw/112/public/40), Oct. 21, 2011, [125 Stat. 421](https://www.govinfo.gov/link/statute/125/421); [Pub. L. 113–295, div. B, title II, § 206(c)(2)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4070](https://www.govinfo.gov/link/statute/128/4070).)*

@@ -3,9 +3,10 @@ title: "Section 4364 - Expenditure of funds for research and development related
 usc_title: 42
 usc_section: "4364"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4364"
-generated_at: "2026-03-30T02:56:11.202Z"
+generated_at: "2026-11-23T21:26:32.659Z"
+status: "active"
 ---
 
 # § 4364. Expenditure of funds for research and development related to regulatory program activities
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.202Z"
   - **(6)** the Office of Radiation Programs, for radiation activities; and
   - **(7)** the Office of Noise Abatement and Control, for noise activities.
 - **(c)** The Administrator shall submit to the President and the Congress a report concerning the most appropriate means of assuring, on a continuing basis, that the research efforts of the Agency reflect the needs and priorities of the regulatory program offices, while maintaining a high level of scientific quality. Such report shall be submitted on or before March 31, 1978 .
+
+## Source Credit
+
+*([Pub. L. 95–155, § 7](https://www.govinfo.gov/link/plaw/95/public/155), Nov. 8, 1977, [91 Stat. 1259](https://www.govinfo.gov/link/statute/91/1259).)*

@@ -3,9 +3,10 @@ title: "Section 4316 - Allowances for compensation of interns in House committee
 usc_title: 2
 usc_section: "4316"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 4316"
-generated_at: "2026-03-30T02:53:04.829Z"
+generated_at: "2026-11-23T21:25:21.299Z"
+status: "active"
 ---
 
 # § 4316. Allowances for compensation of interns in House committee offices
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:04.829Z"
 - **(c)** In this section, the term “intern”, with respect to a committee of the House, has the meaning given such term with respect to a Member of the House of Representatives in section 5321(c)(2) of this title .
 - **(d)**
 - **(e)** There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2022 and each succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 117–103, div. I, title I, § 113](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 510](https://www.govinfo.gov/link/statute/136/510).)*

@@ -3,9 +3,10 @@ title: "Section 4851 - Authorization"
 usc_title: 22
 usc_section: "4851"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4851"
-generated_at: "2026-03-30T02:55:05.414Z"
+generated_at: "2026-11-23T21:25:58.652Z"
+status: "active"
 ---
 
 # § 4851. Authorization
@@ -28,3 +29,17 @@ generated_at: "2026-03-30T02:55:05.414Z"
   - **(1)** If physically possible, facilities constructed or acquired pursuant to subsection (a) shall be furnished and equipped with the furniture, furnishings, and equipment that were being used in the facilities being replaced, rather than with newly acquired furniture, furnishings, and equipment.
   - **(2)**
   - **(3)**
+
+“The Secretary of State shall provide to the appropriate congressional committees, the Committee on Armed Services of the House of Representatives, and the Committee on Armed Services of the Senate upon request information on physical security deficiencies at United States diplomatic posts, including relating to the following:
+
+Certification
+
+Availability of Documentation
+
+Director of Central Intelligence
+
+Dissenting Views
+
+## Source Credit
+
+*([Pub. L. 99–399, title IV, § 401](https://www.govinfo.gov/link/plaw/99/public/399), Aug. 27, 1986, [100 Stat. 862](https://www.govinfo.gov/link/statute/100/862); [Pub. L. 100–204, title I, § 101(c)](https://www.govinfo.gov/link/plaw/100/public/204), Dec. 22, 1987, [101 Stat. 1336](https://www.govinfo.gov/link/statute/101/1336); [Pub. L. 103–236, title I](https://www.govinfo.gov/link/plaw/103/public/236), §§ 101(c), 122(b), Apr. 30, 1994, [108 Stat. 388](https://www.govinfo.gov/link/statute/108/388), 392.)*

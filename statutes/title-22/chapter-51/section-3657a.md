@@ -3,9 +3,10 @@ title: "Section 3657a - Quarters allowances"
 usc_title: 22
 usc_section: "3657a"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3657a"
-generated_at: "2026-03-30T02:55:05.395Z"
+generated_at: "2026-11-23T21:25:58.592Z"
+status: "active"
 ---
 
 # § 3657a. Quarters allowances
@@ -22,3 +23,13 @@ generated_at: "2026-03-30T02:55:05.395Z"
     - **(B)** the maximum amount which would be authorized for such employee with respect to such period under the Department of State Standardized Regulations (Government Civilians, Foreign Areas) if such employee were covered by those regulations;
   - **(2)** the estimated total cost of rent and utilities which the employee would have been charged if Government owned or leased quarters had been provided on a rental basis during such period.
 - **(d)** The provisions of this section shall apply without regard to whether any election by the Department of Defense under section 3652(b) of this title is then in effect.
+
+Section
+
+Sec
+
+Ronald Reagan.
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1217a](https://www.govinfo.gov/link/plaw/96/public/70), as added [Pub. L. 98–600, § 1(a)](https://www.govinfo.gov/link/plaw/98/public/600), Oct. 30, 1984, [98 Stat. 3145](https://www.govinfo.gov/link/statute/98/3145).)*

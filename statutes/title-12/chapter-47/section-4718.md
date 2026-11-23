@@ -3,9 +3,10 @@ title: "Section 4718 - Authorization of appropriations"
 usc_title: 12
 usc_section: "4718"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4718"
-generated_at: "2026-03-30T02:53:53.517Z"
+generated_at: "2026-11-23T21:25:37.216Z"
+status: "active"
 ---
 
 # § 4718. Authorization of appropriations
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:53.517Z"
   - **(3)** $2,000,000 for fiscal year 1997; and
   - **(4)** $2,000,000 for fiscal year 1998.
 - **(c)** Amounts authorized to be appropriated under this section shall be subject to discretionary spending caps, as provided in section 665 1 1 See References in Text note below. of title 2, and therefore shall reduce by an equal amount funds made available for other discretionary spending programs.
+
+## Source Credit
+
+*([Pub. L. 103–325, title I, § 121](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2189](https://www.govinfo.gov/link/statute/108/2189).)*

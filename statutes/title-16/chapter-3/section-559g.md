@@ -3,9 +3,10 @@ title: "Section 559g - Designation authority of Secretary of Agriculture"
 usc_title: 16
 usc_section: "559g"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 559g"
-generated_at: "2026-03-30T02:54:22.876Z"
+generated_at: "2026-11-23T21:25:51.676Z"
+status: "active"
 ---
 
 # § 559g. Designation authority of Secretary of Agriculture
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:22.876Z"
 - **(a)** It is the purpose of this section to authorize the Secretary of Agriculture to make law enforcement operations more efficient in connection with the administration and use of the National Forest System.
 - **(b)** The Secretary is authorized to designate law enforcement officers of any other Federal agency, when the Secretary determines such designation to be economical and in the public interest, and with the concurrence of that agency, to exercise the powers and authorities of the Forest Service while assisting the Forest Service in the National Forest System, or for activities administered by the Forest Service.
 - **(c)** The Forest Service is authorized to accept law enforcement designation from any other Federal agency or agency of a State or political subdivision thereof for the purpose of cooperating in the investigation and enforcement of any Federal or State law or ordinance and regulation of any such agency, when such investigation or enforcement is mutually beneficial to the National Forest System and the cooperating agency or jurisdiction, upon entering into a memorandum of understanding or cooperative agreement with such agency or jurisdiction.
+
+## Source Credit
+
+*([Pub. L. 99–570, title XV, § 15008](https://www.govinfo.gov/link/plaw/99/public/570), as added [Pub. L. 100–690, title VI, § 6254(e)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4365](https://www.govinfo.gov/link/statute/102/4365).)*

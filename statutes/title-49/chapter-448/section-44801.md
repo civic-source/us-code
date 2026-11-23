@@ -3,9 +3,10 @@ title: "Section 44801 - Definitions"
 usc_title: 49
 usc_section: "44801"
 chapter: 448
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44801"
-generated_at: "2026-03-30T02:56:19.388Z"
+generated_at: "2026-11-23T21:26:40.912Z"
+status: "active"
 ---
 
 # § 44801. Definitions
@@ -30,3 +31,167 @@ In this chapter, the following definitions apply:
   - **(11)** The term “unmanned aircraft” means an aircraft that is operated without the possibility of direct human intervention from within or on the aircraft.
   - **(12)** The term “unmanned aircraft system” means an unmanned aircraft and associated elements (including communication links and the components that control the unmanned aircraft) that are required for the operator to operate safely and efficiently in the national airspace system.
   - **(13)** The term “UTM” means an unmanned aircraft system traffic management system or service.”
+
+Actively tethered unmanned aircraft system
+
+Appropriate committees of congress
+
+Arctic
+
+Certificate of waiver; certificate of authorization
+
+Counter-UAS system
+
+Permanent areas
+
+Public unmanned aircraft system
+
+Sense and avoid capability
+
+Small unmanned aircraft
+
+Test range
+
+Unmanned aircraft
+
+Unmanned aircraft system
+
+UTM
+
+National Environmental Policy Act Guidance
+
+Prioritization
+
+Programmatic Level Approach to NEPA Review
+
+Developing
+
+or More Categorical Exclusions.—
+
+In general
+
+Prior operations
+
+Briefing
+
+Nonapplication of Noise Certification Requirements Pending Standards Development.—
+
+In general
+
+Duration
+
+Associated uas certification standards.—
+
+Development of criteria
+
+Substantive criteria and standard metrics
+
+Publication
+
+Concurrent Reviews
+
+Third-party Support
+
+Rule of Construction
+
+In General
+
+Duties
+
+Membership.—
+
+In general
+
+Representatives
+
+Observers
+
+Reporting.—
+
+In general
+
+Congressional reporting
+
+Prohibition
+
+In General
+
+Risk Assessment Methodology Considerations
+
+Publication
+
+In General
+
+Requirements
+
+Safety Risk Assessments
+
+Conformity of Hazardous Materials Regulations
+
+Stakeholder Input on Changes to the Hazardous Materials Regulations.—
+
+Implementation
+
+Periodic updates
+
+Savings Clause
+
+Definition of Hazardous Materials
+
+In General
+
+Consultation
+
+ICAO Activities
+
+Review
+
+Prohibitions
+
+Exemptions
+
+Waivers
+
+Replacement of Certain Unmanned Aircraft Systems.—
+
+In general
+
+Funding
+
+Effective Dates.—
+
+Operations
+
+Grants
+
+Application of Prohibitions
+
+Rule of Construction
+
+Definitions
+
+Covered foreign country
+
+Covered foreign entity
+
+Covered unmanned aircraft system
+
+In General
+
+Resources
+
+Unmanned Aircraft System Defined
+
+In General
+
+Definitions
+
+In General
+
+Exceptions
+
+Sunset
+
+## Source Credit
+
+*(Added [Pub. L. 115–254, div. B, title III, § 341(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3284](https://www.govinfo.gov/link/statute/132/3284); amended [Pub. L. 118–63, title IX](https://www.govinfo.gov/link/plaw/118/public/63), §§ 925(b)(1), 926(c), May 16, 2024, [138 Stat. 1360](https://www.govinfo.gov/link/statute/138/1360), 1361.)*

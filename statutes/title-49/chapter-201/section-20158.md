@@ -3,9 +3,10 @@ title: "Section 20158 - Railroad safety technology grants"
 usc_title: 49
 usc_section: "20158"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 20158"
-generated_at: "2026-03-30T02:56:19.338Z"
+generated_at: "2026-11-23T21:26:40.710Z"
+status: "active"
 ---
 
 # § 20158. Railroad safety technology grants
@@ -20,3 +21,21 @@ generated_at: "2026-03-30T02:56:19.338Z"
   - **(3)** Grants may not be awarded under this section to entities that fail to develop and submit to the Secretary the plans required by sections 20156(e)(2) and 20157.
   - **(4)** Federal funds for any eligible project under this section shall not exceed 80 percent of the total cost of such project.
 - **(c)** There are authorized to be appropriated to the Secretary of Transportation $50,000,000 for each of fiscal years 2009 through 2013 to carry out this section. Amounts appropriated pursuant to this section shall remain available until expended.
+
+Grant Program
+
+Grant Criteria.—
+
+Eligibility
+
+Considerations
+
+Implementation plans
+
+Matching requirements
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(Added [Pub. L. 110–432, div. A, title I, § 105(a)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4858](https://www.govinfo.gov/link/statute/122/4858).)*

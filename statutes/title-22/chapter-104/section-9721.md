@@ -3,9 +3,10 @@ title: "Section 9721 - Additional restrictions on visas"
 usc_title: 22
 usc_section: "9721"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9721"
-generated_at: "2026-03-30T02:55:05.472Z"
+generated_at: "2026-11-23T21:25:58.786Z"
+status: "active"
 ---
 
 # § 9721. Additional restrictions on visas
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:05.472Z"
     - **(A)** to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947 , and entered into force November 21, 1947 , between the United Nations and the United States, or other applicable international obligations; or
     - **(B)** to carry out or assist law enforcement activity in the United States.
 - **(d)** The President shall issue such regulations, licenses, and orders as may be necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 116–94, div. J, title I, § 132](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3035](https://www.govinfo.gov/link/statute/133/3035).)*

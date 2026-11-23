@@ -3,9 +3,10 @@ title: "Section 5710 - Authority for travel expenses test programs"
 usc_title: 5
 usc_section: "5710"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5710"
-generated_at: "2026-03-30T02:52:56.024Z"
+generated_at: "2026-11-23T21:25:23.294Z"
+status: "active"
 ---
 
 # § 5710. Authority for travel expenses test programs
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:52:56.024Z"
 - **(c)** An agency authorized to conduct a test program under subsection (a) shall provide to the Administrator and the appropriate committees of the Congress a report on the results of the program no later than 3 months after completion of the program.
 - **(d)** No more than 10 test programs under this section may be conducted simultaneously.
 - **(e)** The authority to conduct test programs under this section shall expire 7 years after the date of the enactment of the Travel and Transportation Reform Act of 1998.
+
+## Source Credit
+
+*(Added [Pub. L. 105–264, § 5(a)](https://www.govinfo.gov/link/plaw/105/public/264), Oct. 19, 1998, [112 Stat. 2354](https://www.govinfo.gov/link/statute/112/2354).)*

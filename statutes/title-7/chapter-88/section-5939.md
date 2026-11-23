@@ -3,9 +3,10 @@ title: "Section 5939 - Foundation for Food and Agriculture Research"
 usc_title: 7
 usc_section: "5939"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 5939"
-generated_at: "2026-03-30T02:53:42.422Z"
+generated_at: "2026-11-23T21:25:28.377Z"
+status: "active"
 ---
 
 # § 5939. Foundation for Food and Agriculture Research
@@ -150,3 +151,37 @@ generated_at: "2026-03-30T02:53:42.422Z"
       - **(ii)** Nothing in this section requires the Foundation to require a matching contribution from an individual grantee as a condition of receiving a grant under this section.
     - **(C)** None of the funds made available under subparagraph (A) may be used for construction.
   - **(2)** The Executive Director shall ensure that any funds received under paragraph (1) are held in separate accounts from funds received from nongovernmental entities as described in subsection (f)(2)(A)(iii).
+
+(aa) the acceptance, solicitation, and disposition of donations and grants to the Foundation; and
+
+(bb) the disposition of assets of the Foundation, including appropriate limits on the ability of donors to designate, by stipulation or restriction, the use or recipient of donated funds;
+
+(aa) a description of Foundation activities, including accomplishments and how those activities align to the challenges identified in the strategic plan under clause (iv);
+
+(bb) a comprehensive statement of the operations and financial condition of the Foundation; and
+
+(cc) a description of available agricultural research programs and priorities for the upcoming fiscal year.
+
+(aa) the source of the gifts, grants, devises, or bequests; and
+
+(bb) any restrictions on the purposes for which the gift, grant, devise, or bequest may be used.
+
+(aa) make copies of each report submitted under subclause (I) available for public inspection; and
+
+(bb) on request, provide a copy of the report to any individual.
+
+(aa) processes relating to grant awards, including the selection, review, and notification processes;
+
+(bb) communication of past, current, and future research priorities; and
+
+(cc) plans to solicit and respond to public input on the opportunities identified in the strategic plan;
+
+(aa) raising funds in amounts greater than the amounts required under subsection (g)(1)(B);
+
+(bb) soliciting additional resources pursuant to subsections (e)(4)(A)(iv) and (f)(2)(A)(iii); and
+
+(cc) managing and leveraging such resources pursuant to subsection (f)(2)(A)(vii); and
+
+## Source Credit
+
+*([Pub. L. 113–79, title VII, § 7601](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 904](https://www.govinfo.gov/link/statute/128/904); [Pub. L. 115–334, title VII, § 7603](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4826](https://www.govinfo.gov/link/statute/132/4826); [Pub. L. 117–286, § 4(c)(18)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4356](https://www.govinfo.gov/link/statute/136/4356); [Pub. L. 118–22, div. B, title I, § 102(d)(5)(C)](https://www.govinfo.gov/link/plaw/118/public/22), Nov. 17, 2023, [137 Stat. 117](https://www.govinfo.gov/link/statute/137/117); [Pub. L. 119–21, title I, § 10604(b)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 109](https://www.govinfo.gov/link/statute/139/109).)*

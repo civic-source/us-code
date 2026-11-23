@@ -3,9 +3,10 @@ title: "Section 356e - Drug shortage list"
 usc_title: 21
 usc_section: "356e"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 356e"
-generated_at: "2026-03-30T02:54:54.243Z"
+generated_at: "2026-11-23T21:25:56.060Z"
+status: "active"
 ---
 
 # § 356e. Drug shortage list
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:54.243Z"
   - **(2)** Nothing in this section alters or amends section 1905 of title 18 or section 552(b)(4) of title 5 .
   - **(3)** The Secretary may choose not to make information collected under this section publicly available under paragraph (1) or section 356c(c) of this title if the Secretary determines that disclosure of such information would adversely affect the public health (such as by increasing the possibility of hoarding or other disruption of the availability of drug products to patients).
 - **(d)** Not later than 180 days after March 27, 2020 , and every 90 days thereafter, the Secretary shall transmit a report regarding the drugs of the current drug shortage list under this section to the Administrator of the Centers for Medicare & Medicaid Services.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 506E, as added [Pub. L. 112–144, title X, § 1004](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 1104](https://www.govinfo.gov/link/statute/126/1104); amended [Pub. L. 114–255, div. A, title III, § 3101(a)(2)(G)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1153](https://www.govinfo.gov/link/statute/130/1153); [Pub. L. 116–136, div. A, title III, § 3112(c)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 362](https://www.govinfo.gov/link/statute/134/362).)*

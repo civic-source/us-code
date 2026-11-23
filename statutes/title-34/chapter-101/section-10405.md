@@ -3,9 +3,10 @@ title: "Section 10405 - Guidelines"
 usc_title: 34
 usc_section: "10405"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10405"
-generated_at: "2026-03-30T02:55:33.267Z"
+generated_at: "2026-11-23T21:26:09.655Z"
+status: "active"
 ---
 
 # § 10405. Guidelines
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:33.267Z"
     - **(G)** a State or local social service agency;
     - **(H)** a nonprofit, nongovernmental victim advocacy organization; and
     - **(I)** a nonprofit, religious, or community group.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 1804](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 107–273, div. C, title II, § 12102(a)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1865](https://www.govinfo.gov/link/statute/116/1865).)*

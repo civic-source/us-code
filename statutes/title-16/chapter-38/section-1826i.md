@@ -3,9 +3,10 @@ title: "Section 1826i - Action to strengthen international fishery management or
 usc_title: 16
 usc_section: "1826i"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1826i"
-generated_at: "2026-03-30T02:54:22.986Z"
+generated_at: "2026-11-23T21:25:51.918Z"
+status: "active"
 ---
 
 # § 1826i. Action to strengthen international fishery management organizations
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:22.986Z"
     - **(B)** the United States is not party to, but whose procedures and criteria in developing and maintaining a list of such vessels and vessel owners are substantially similar to such procedures and criteria adopted pursuant to an international fishery agreement to which the United States is a party; and
   - **(2)** take appropriate action against listed vessels and vessel owners, including action against fish, fish parts, or fish products from such vessels, in accordance with applicable United States law and consistent with applicable international law, including principles, rights, and obligations established in applicable international fishery management agreements and trade agreements.
 - **(d)** The Secretary may promulgate regulations to implement this section.
+
+## Source Credit
+
+*([Pub. L. 104–43, title VI, § 608](https://www.govinfo.gov/link/plaw/104/public/43), as added [Pub. L. 109–479, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3627](https://www.govinfo.gov/link/statute/120/3627); amended [Pub. L. 111–348, title I, § 102(a)](https://www.govinfo.gov/link/plaw/111/public/348), Jan. 4, 2011, [124 Stat. 3668](https://www.govinfo.gov/link/statute/124/3668); [Pub. L. 114–81, title I, § 101(b)](https://www.govinfo.gov/link/plaw/114/public/81), Nov. 5, 2015, [129 Stat. 653](https://www.govinfo.gov/link/statute/129/653).)*

@@ -3,9 +3,10 @@ title: "Section 10147 - Ready Reserve: training requirements"
 usc_title: 10
 usc_section: "10147"
 chapter: 1005
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 10147"
-generated_at: "2026-03-30T02:53:38.264Z"
+generated_at: "2026-11-23T21:25:33.022Z"
+status: "active"
 ---
 
 # § 10147. Ready Reserve: training requirements
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:38.264Z"
   - **(1)** participate in at least 48 scheduled drills or training periods during each year and serve on active duty for training of not less than 14 days (exclusive of traveltime) during each year; or
   - **(2)** serve on active duty for training not more than 30 days during each year.
 - **(b)** A member who has served on active duty for one year or longer may not be required to perform a period of active duty for training if the first day of that period falls during the last 120 days of the member’s required membership in the Ready Reserve.
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1661(a)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2973](https://www.govinfo.gov/link/statute/108/2973); amended [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314).)*

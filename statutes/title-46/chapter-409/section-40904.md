@@ -3,9 +3,10 @@ title: "Section 40904 - Compensation by common carriers"
 usc_title: 46
 usc_section: "40904"
 chapter: 409
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 40904"
-generated_at: "2026-03-30T02:56:15.564Z"
+generated_at: "2026-11-23T21:26:37.192Z"
+status: "active"
 ---
 
 # § 40904. Compensation by common carriers
@@ -18,3 +19,36 @@ generated_at: "2026-03-30T02:56:15.564Z"
 - **(d)** A conference or group of two or more ocean common carriers in the foreign commerce of the United States that is authorized to agree on the level of compensation paid to an ocean freight forwarder may not—
   - **(1)** deny a member of the conference or group the right, upon notice of not more than 5 days, to take independent action on any level of compensation paid to an ocean freight forwarder; or
   - **(2)** agree to limit the payment of compensation to an ocean freight forwarder to less than 1.25 percent of the aggregate of all rates and charges applicable under a tariff and assessed against the cargo on which the services of the ocean freight forwarder are provided.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40904 | 46 App.:1718(e). | Pub. L. 98–237, § 19(e) , Mar. 20, 1984 , 98 Stat. 88 ; Pub. L. 105–258, title I, § 116 , Oct. 14, 1998 , 112 Stat. 1912 . |
+
+
+Certification of License and Services
+
+Dual Compensation
+
+Beneficial Interest Shipments
+
+Limits on Authority of Conference or Group
+
+Historical and Revision Notes
+
+40904
+
+Pub. L. 98–237, § 19(e)
+
+Mar. 20, 1984
+
+98 Stat. 88
+
+Pub. L. 105–258, title I, § 116
+
+Oct. 14, 1998
+
+112 Stat. 1912
+
+## Source Credit
+
+*([Pub. L. 109–304, § 7](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1539](https://www.govinfo.gov/link/statute/120/1539).)*

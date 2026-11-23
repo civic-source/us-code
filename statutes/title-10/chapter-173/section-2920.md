@@ -3,9 +3,10 @@ title: "Section 2920 - Energy resilience and energy security measures on militar
 usc_title: 10
 usc_section: "2920"
 chapter: 173
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2920"
-generated_at: "2026-03-30T02:53:38.186Z"
+generated_at: "2026-11-23T21:25:32.706Z"
+status: "active"
 ---
 
 # § 2920. Energy resilience and energy security measures on military installations
@@ -70,3 +71,55 @@ generated_at: "2026-03-30T02:53:38.186Z"
     - **(C)** does not include military housing (including privatized military housing), morale, welfare, and recreation facilities, exchanges, commissaries, or privately owned facilities.
   - **(4)** The term “energy” means electricity, natural gas, steam, chilled water, and heated water.
   - **(5)** The term “installation” has the meaning given the term “military installation” in section 2801(c)(4) of this title .
+
+Energy Resilience Measures
+
+Planning
+
+Development of Information
+
+Testing and Measuring
+
+Contract Requirements
+
+Exception
+
+Report
+
+Definitions
+
+Pilot Program Required
+
+Deadline for Contracts
+
+Public-private Partnerships
+
+Competition
+
+Termination Date
+
+Reporting Requirement
+
+Definitions
+
+Authority
+
+Sunset
+
+Definitions
+
+Areawide contract
+
+Energy resilience
+
+Franchise territory
+
+Utility service
+
+Utility service supplier
+
+Utility system
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. A, title III, § 316(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3516](https://www.govinfo.gov/link/statute/134/3516); amended [Pub. L. 118–159, div. A, title III](https://www.govinfo.gov/link/plaw/118/public/159), §§ 313, 314(a), Dec. 23, 2024, [138 Stat. 1851](https://www.govinfo.gov/link/statute/138/1851); [Pub. L. 119–60, div. B, title XXVIII, § 2847](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1319](https://www.govinfo.gov/link/statute/139/1319).)*

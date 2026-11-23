@@ -3,9 +3,10 @@ title: "Section 45I - Credit for producing oil and gas from marginal wells"
 usc_title: 26
 usc_section: "45I"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 45I"
-generated_at: "2026-03-30T02:55:27.602Z"
+generated_at: "2026-11-23T21:26:05.935Z"
+status: "active"
 ---
 
 # § 45I. Credit for producing oil and gas from marginal wells
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:27.602Z"
   - **(1)** In the case of a qualified marginal well in which there is more than one owner of operating interests in the well and the crude oil or natural gas production exceeds the limitation under subsection (c)(2), qualifying crude oil production or qualifying natural gas production attributable to the taxpayer shall be determined on the basis of the ratio which taxpayer’s revenue interest in the production bears to the aggregate of the revenue interests of all operating interest owners in the production.
   - **(2)** Any credit under this section may be claimed only on production which is attributable to the holder of an operating interest.
   - **(3)** In the case of production from a qualified marginal well which is eligible for the credit allowed under section 45K for the taxable year, no credit shall be allowable under this section unless the taxpayer elects not to claim the credit under section 45K with respect to the well.
+
+## Source Credit
+
+*(Added [Pub. L. 108–357, title III, § 341(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1485](https://www.govinfo.gov/link/statute/118/1485); amended [Pub. L. 109–58, title XIII, § 1322(a)(3)(B)](https://www.govinfo.gov/link/plaw/109/public/58), (D), Aug. 8, 2005, [119 Stat. 1011](https://www.govinfo.gov/link/statute/119/1011); [Pub. L. 109–135, title IV, § 412(k)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2637](https://www.govinfo.gov/link/statute/119/2637).)*

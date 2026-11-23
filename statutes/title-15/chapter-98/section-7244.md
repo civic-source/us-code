@@ -3,9 +3,10 @@ title: "Section 7244 - Insider trades during pension fund blackout periods"
 usc_title: 15
 usc_section: "7244"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7244"
-generated_at: "2026-03-30T02:54:08.220Z"
+generated_at: "2026-11-23T21:25:40.049Z"
+status: "active"
 ---
 
 # § 7244. Insider trades during pension fund blackout periods
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:08.220Z"
     - **(A)** during the period after such amendment made by this subsection takes effect and before such first plan year, the plan is operated in good faith compliance with the requirements of such amendment made by this subsection, and
     - **(B)** such plan amendment applies retroactively to the period after such amendment made by this subsection takes effect and before such first plan year.
 - **(c)** The provisions of this section (including the amendments made thereby) shall take effect 180 days after July 30, 2002 . Good faith compliance with the requirements of such provisions in advance of the issuance of applicable regulations thereunder shall be treated as compliance with such provisions.
+
+## Source Credit
+
+*([Pub. L. 107–204, title III, § 306](https://www.govinfo.gov/link/plaw/107/public/204), July 30, 2002, [116 Stat. 779](https://www.govinfo.gov/link/statute/116/779).)*

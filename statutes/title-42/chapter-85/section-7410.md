@@ -3,9 +3,10 @@ title: "Section 7410 - State implementation plans for national primary and secon
 usc_title: 42
 usc_section: "7410"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7410"
-generated_at: "2026-03-30T02:56:11.295Z"
+generated_at: "2026-11-23T21:26:33.079Z"
+status: "active"
 ---
 
 # § 7410. State implementation plans for national primary and secondary ambient air quality standards
@@ -122,3 +123,7 @@ generated_at: "2026-03-30T02:56:11.295Z"
   - **(3)** In the case of an area to which, immediately before November 15, 1990 , the prohibition on construction or modification of major stationary sources prescribed in subsection (a)(2)(I) (as in effect immediately before November 15, 1990 ) applied by virtue of a finding of the Administrator that the State containing such area had not submitted an implementation plan meeting the requirements of section 7502(b)(6) of this title (relating to establishment of a permit program) (as in effect immediately before November 15, 1990 ) or 7502(a)(1) of this title (to the extent such requirements relate to provision for attainment of the primary national ambient air quality standard for sulfur oxides by December 31, 1982 ) as in effect immediately before November 15, 1990 , no major stationary source of the relevant air pollutant or pollutants shall be constructed or modified in such area until the Administrator finds that the plan for such area meets the applicable requirements of section 7502(c)(5) of this title (relating to permit programs) or subpart 5 of part D (relating to attainment of the primary national ambient air quality standard for sulfur dioxide), respectively.
 - **(o)** If an Indian tribe submits an implementation plan to the Administrator pursuant to section 7601(d) of this title , the plan shall be reviewed in accordance with the provisions for review set forth in this section for State plans, except as otherwise provided by regulation promulgated pursuant to section 7601(d)(2) of this title . When such plan becomes effective in accordance with the regulations promulgated under section 7601(d) of this title , the plan shall become applicable to all areas (except as expressly provided otherwise in the plan) located within the exterior boundaries of the reservation, notwithstanding the issuance of any patent and including rights-of-way running through the reservation.
 - **(p)** Any State shall submit, according to such schedule as the Administrator may prescribe, such reports as the Administrator may require relating to emission reductions, vehicle miles traveled, congestion levels, and any other information the Administrator may deem necessary to assess the development 2 2 So in original. Probably should be followed by a comma. effectiveness, need for revision, or implementation of any plan or plan revision required under this chapter.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 110, as added [Pub. L. 91–604, § 4(a)](https://www.govinfo.gov/link/plaw/91/public/604), Dec. 31, 1970, [84 Stat. 1680](https://www.govinfo.gov/link/statute/84/1680); amended [Pub. L. 93–319, § 4](https://www.govinfo.gov/link/plaw/93/public/319), June 22, 1974, [88 Stat. 256](https://www.govinfo.gov/link/statute/88/256); [Pub. L. 95–95, title I](https://www.govinfo.gov/link/plaw/95/public/95), §§ 107, 108, Aug. 7, 1977, [91 Stat. 691](https://www.govinfo.gov/link/statute/91/691), 693; [Pub. L. 95–190, § 14(a)(1)](https://www.govinfo.gov/link/plaw/95/public/190) –(6), Nov. 16, 1977, [91 Stat. 1399](https://www.govinfo.gov/link/statute/91/1399); [Pub. L. 97–23, § 3](https://www.govinfo.gov/link/plaw/97/public/23), July 17, 1981, [95 Stat. 142](https://www.govinfo.gov/link/statute/95/142); [Pub. L. 101–549, title I](https://www.govinfo.gov/link/plaw/101/public/549), §§ 101(b)–(d), 102(h), 107(c), 108(d), title IV, § 412, Nov. 15, 1990, [104 Stat. 2404–2408](https://www.govinfo.gov/link/statute/104/2404), 2422, 2464, 2466, 2634.)*

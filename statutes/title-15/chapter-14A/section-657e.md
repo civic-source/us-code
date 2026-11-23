@@ -3,9 +3,10 @@ title: "Section 657e - Mentoring Networks"
 usc_title: 15
 usc_section: "657e"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 657e"
-generated_at: "2026-03-30T02:54:08.106Z"
+generated_at: "2026-11-23T21:25:39.700Z"
+status: "active"
 ---
 
 # § 657e. Mentoring Networks
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:54:08.106Z"
   - **(2)** work cooperatively with Mentoring Networks to maintain and update the database;
   - **(3)** take such action as may be necessary to aggressively promote Mentoring Networks under this section; and
   - **(4)** fulfill the requirements of this subsection either directly or by contract.
+
+## Source Credit
+
+*([Pub. L. 85–536, § 2[35]](https://www.govinfo.gov/link/plaw/85/public/536), as added [Pub. L. 106–554, § 1(a)(9) [title I, § 112]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–680.)*

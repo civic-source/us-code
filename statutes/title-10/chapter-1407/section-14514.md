@@ -3,9 +3,10 @@ title: "Section 14514 - Discharge or retirement for years of service or after se
 usc_title: 10
 usc_section: "14514"
 chapter: 1407
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 14514"
-generated_at: "2026-03-30T02:53:38.276Z"
+generated_at: "2026-11-23T21:25:33.067Z"
+status: "active"
 ---
 
 # § 14514. Discharge or retirement for years of service or after selection for early removal
@@ -14,3 +15,7 @@ Each reserve officer of the Army, Navy, Air Force, or Marine Corps who is in an 
 
   - **(1)** be transferred to the Retired Reserve if the officer is qualified for such transfer and does not request (in accordance with regulations prescribed by the Secretary concerned) not to be transferred to the Retired Reserve; or
   - **(2)** be discharged from the officer’s reserve appointment if the officer is not qualified for transfer to the Retired Reserve or has requested (in accordance with regulations prescribed by the Secretary concerned) not to be so transferred.
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1611](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2953](https://www.govinfo.gov/link/statute/108/2953); amended [Pub. L. 107–107, div. A, title V, § 517(c)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1094](https://www.govinfo.gov/link/statute/115/1094).)*

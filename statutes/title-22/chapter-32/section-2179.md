@@ -3,9 +3,10 @@ title: "Section 2179 - Prototype desalting plant"
 usc_title: 22
 usc_section: "2179"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2179"
-generated_at: "2026-03-30T02:55:05.349Z"
+generated_at: "2026-11-23T21:25:58.444Z"
+status: "active"
 ---
 
 # § 2179. Prototype desalting plant
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.349Z"
 - **(e)** In carrying out the provisions of this section, the President may utilize the personnel, services, and facilities of any Federal agency.
 - **(f)** The United States costs, other than its administrative costs, for the study, design, construction, and operation of a prototype plant under this section shall not exceed either 50 per centum of the total capital costs of the facilities associated with the production of water, and 50 per centum of the operation and maintenance costs for the demonstration period, or $20,000,000, whichever is less. There are authorized to be appropriated, subject to the limitations of this subsection, such sums as may be necessary to carry out the provisions of this section, including administrative costs thereof. Such sums are authorized to remain available until expended.
 - **(g)** No funds appropriated for the Office of Water Research and Technology pursuant to the appropriation authorized by the Act of July 11, 1969 ( 83 Stat. 45 , Public Law 91–43 ), or prior authorization Acts, shall be used to carry out the purposes of this section.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 219, as added [Pub. L. 91–175](https://www.govinfo.gov/link/plaw/91/public/175), pt. I, § 104, Dec. 30, 1969, [83 Stat. 806](https://www.govinfo.gov/link/statute/83/806).)*

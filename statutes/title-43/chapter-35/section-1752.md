@@ -3,9 +3,10 @@ title: "Section 1752 - Grazing leases and permits"
 usc_title: 43
 usc_section: "1752"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1752"
-generated_at: "2026-03-30T02:55:57.491Z"
+generated_at: "2026-11-23T21:26:19.880Z"
+status: "active"
 ---
 
 # § 1752. Grazing leases and permits
@@ -37,3 +38,15 @@ generated_at: "2026-03-30T02:55:57.491Z"
   - **(1)** the environmental significance of the grazing allotment, permit, or lease; and
   - **(2)** the available funding for the environmental analysis.
 - **(j)** Nothing in this Act shall be construed as modifying in any way law existing on October 21, 1976 , with respect to the creation of right, title, interest or estate in or to public lands or lands in National Forests by issuance of grazing permits and leases.
+
+(aa) is meeting land health standards; or
+
+(bb) is not meeting land health standards due to factors other than existing livestock grazing; or
+
+(aa) is meeting objectives in the applicable land and resource management plan; or
+
+(bb) is not meeting the objectives in the applicable land resource management plan due to factors other than existing livestock grazing.
+
+## Source Credit
+
+*([Pub. L. 94–579, title IV, § 402](https://www.govinfo.gov/link/plaw/94/public/579), Oct. 21, 1976, [90 Stat. 2773](https://www.govinfo.gov/link/statute/90/2773); [Pub. L. 95–514](https://www.govinfo.gov/link/plaw/95/public/514), §§ 7, 8, Oct. 25, 1978, [92 Stat. 1807](https://www.govinfo.gov/link/statute/92/1807); [Pub. L. 113–291, div. B, title XXX, § 3023](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3762](https://www.govinfo.gov/link/statute/128/3762).)*

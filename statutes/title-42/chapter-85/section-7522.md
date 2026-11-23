@@ -3,9 +3,10 @@ title: "Section 7522 - Prohibited acts"
 usc_title: 42
 usc_section: "7522"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7522"
-generated_at: "2026-03-30T02:56:11.311Z"
+generated_at: "2026-11-23T21:26:33.114Z"
+status: "active"
 ---
 
 # § 7522. Prohibited acts
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.311Z"
   - **(1)** The Administrator may exempt any new motor vehicle or new motor vehicle engine, from subsection (a), upon such terms and conditions as he may find necessary for the purpose of research, investigations, studies, demonstrations, or training, or for reasons of national security.
   - **(2)** A new motor vehicle or new motor vehicle engine offered for importation or imported by any person in violation of subsection (a) shall be refused admission into the United States, but the Secretary of the Treasury and the Administrator may, by joint regulation, provide for deferring final determination as to admission and authorizing the delivery of such a motor vehicle or engine offered for import to the owner or consignee thereof upon such terms and conditions (including the furnishing of a bond) as may appear to them appropriate to insure that any such motor vehicle or engine will be brought into conformity with the standards, requirements, and limitations applicable to it under this part. The Secretary of the Treasury shall, if a motor vehicle or engine is finally refused admission under this paragraph, cause disposition thereof in accordance with the customs laws unless it is exported, under regulations prescribed by such Secretary, within ninety days of the date of notice of such refusal or such additional time as may be permitted pursuant to such regulations, except that disposition in accordance with the customs laws may not be made in such manner as may result, directly or indirectly, in the sale, to the ultimate consumer, of a new motor vehicle or new motor vehicle engine that fails to comply with applicable standards of the Administrator under this part.
   - **(3)** A new motor vehicle or new motor vehicle engine intended solely for export, and so labeled or tagged on the outside of the container and on the vehicle or engine itself, shall be subject to the provisions of subsection (a), except that if the country which is to receive such vehicle or engine has emission standards which differ from the standards prescribed under section 7521 of this title , then such vehicle or engine shall comply with the standards of such country which is to receive such vehicle or engine.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title II, § 203, as added [Pub. L. 89–272, title I, § 101(8)](https://www.govinfo.gov/link/plaw/89/public/272), Oct. 20, 1965, [79 Stat. 993](https://www.govinfo.gov/link/statute/79/993); amended [Pub. L. 90–148, § 2](https://www.govinfo.gov/link/plaw/90/public/148), Nov. 21, 1967, [81 Stat. 499](https://www.govinfo.gov/link/statute/81/499); [Pub. L. 91–604](https://www.govinfo.gov/link/plaw/91/public/604), §§ 7(a), 11(a)(2)(A), 15(c)(2), Dec. 31, 1970, [84 Stat. 1693](https://www.govinfo.gov/link/statute/84/1693), 1705, 1713; [Pub. L. 95–95, title II](https://www.govinfo.gov/link/plaw/95/public/95), §§ 206, 211(a), 218(a), (d), 219(a), (b), Aug. 7, 1977, [91 Stat. 755](https://www.govinfo.gov/link/statute/91/755), 757, 761, 762; [Pub. L. 95–190, § 14(a)(66)](https://www.govinfo.gov/link/plaw/95/public/190) –(68), Nov. 16, 1977, [91 Stat. 1403](https://www.govinfo.gov/link/statute/91/1403); [Pub. L. 101–549, title II](https://www.govinfo.gov/link/plaw/101/public/549), §§ 228(a), (b), (e), 230(6), Nov. 15, 1990, [104 Stat. 2507](https://www.govinfo.gov/link/statute/104/2507), 2511, 2529.)*

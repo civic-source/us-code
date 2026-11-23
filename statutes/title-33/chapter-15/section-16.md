@@ -3,9 +3,10 @@ title: "Section 16 - Management of flood risk reduction projects"
 usc_title: 33
 usc_section: "16"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 16"
-generated_at: "2026-03-30T02:55:41.068Z"
+generated_at: "2026-11-23T21:26:11.328Z"
+status: "active"
 ---
 
 # § 701b–16. Management of flood risk reduction projects
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:41.068Z"
 - **(b)**
   - **(1)** If any work on a project to which subsection (a) applies is required solely because of impacts to that project from a navigation project, the cost of carrying out that work shall be shared in accordance with the cost-sharing requirements for the navigation project.
   - **(2)** Work described in paragraph (1) may be carried out using amounts made available under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 113–121, title III, § 3012](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1284](https://www.govinfo.gov/link/statute/128/1284).)*

@@ -3,9 +3,10 @@ title: "Section 5712 - Actions by States"
 usc_title: 15
 usc_section: "5712"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 5712"
-generated_at: "2026-03-30T02:54:08.208Z"
+generated_at: "2026-11-23T21:25:40.015Z"
+status: "active"
 ---
 
 # § 5712. Actions by States
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.208Z"
 - **(g)**
   - **(1)** Nothing contained in this section shall prohibit an authorized State official from proceeding in State court on the basis of an alleged violation of any general civil or criminal statute of such State.
   - **(2)** In addition to actions brought by an attorney general of a State under subsection (a), such an action may be brought by officers of such State who are authorized by the State to bring actions in such State for protection of consumers and who are designated by the Commission to bring an action under subsection (a) against persons that the Commission has determined have or are engaged in a pattern or practice which violates a rule of the Commission under section 5711(a) of this title .
+
+## Source Credit
+
+*([Pub. L. 102–556, title II, § 202](https://www.govinfo.gov/link/plaw/102/public/556), Oct. 28, 1992, [106 Stat. 4190](https://www.govinfo.gov/link/statute/106/4190).)*

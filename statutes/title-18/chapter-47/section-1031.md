@@ -3,9 +3,10 @@ title: "Section 1031 - Major fraud against the United States"
 usc_title: 18
 usc_section: "1031"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1031"
-generated_at: "2026-03-30T02:54:16.480Z"
+generated_at: "2026-11-23T21:25:44.038Z"
+status: "active"
 ---
 
 # § 1031. Major fraud against the United States
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:16.480Z"
 - **(h)** Any individual who—
   - **(1)** is discharged, demoted, suspended, threatened, harassed, or in any other manner discriminated against in the terms and conditions of employment by an employer because of lawful acts done by the employee on behalf of the employee or others in furtherance of a prosecution under this section (including investigation for, initiation of, testimony for, or assistance in such prosecution), and
   - **(2)** was not a participant in the unlawful activity that is the subject of said prosecution, may, in a civil action, obtain all relief necessary to make such individual whole. Such relief shall include reinstatement with the same seniority status such individual would have had but for the discrimination, 2 times the amount of back pay, interest on the back pay, and compensation for any special damages sustained as a result of the discrimination, including litigation costs and reasonable attorney’s fees.
+
+## Source Credit
+
+*(Added [Pub. L. 100–700, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/700), Nov. 19, 1988, [102 Stat. 4631](https://www.govinfo.gov/link/statute/102/4631); amended [Pub. L. 101–123, § 2(a)](https://www.govinfo.gov/link/plaw/101/public/123), Oct. 23, 1989, [103 Stat. 759](https://www.govinfo.gov/link/statute/103/759); [Pub. L. 103–322, title XXXIII, § 330002(a)](https://www.govinfo.gov/link/plaw/103/public/322), (f), Sept. 13, 1994, [108 Stat. 2140](https://www.govinfo.gov/link/statute/108/2140); [Pub. L. 111–21, § 2(d)](https://www.govinfo.gov/link/plaw/111/public/21), May 20, 2009, [123 Stat. 1618](https://www.govinfo.gov/link/statute/123/1618).)*

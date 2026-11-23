@@ -3,9 +3,10 @@ title: "Section 21501 - Findings"
 usc_title: 34
 usc_section: "21501"
 chapter: 215
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 21501"
-generated_at: "2026-03-30T02:55:33.304Z"
+generated_at: "2026-11-23T21:26:09.810Z"
+status: "active"
 ---
 
 # § 21501. Findings
@@ -18,3 +19,7 @@ Congress finds the following:
   - **(4)** Law enforcement reports indicate that known child-sex offenders are traveling internationally.
   - **(5)** The commercial sexual exploitation of minors in child sex trafficking and pornography is a global phenomenon. The International Labour Organization has estimated that 1,8000,000 1 1 So in original. Probably should be “18,000,000”. children worldwide are victims of child sex trafficking and pornography each year.
   - **(6)** Child sex tourism, where an individual travels to a foreign country and engages in sexual activity with a child in that country, is a form of child exploitation and, where commercial, child sex trafficking.
+
+## Source Credit
+
+*([Pub. L. 114–119, § 2](https://www.govinfo.gov/link/plaw/114/public/119), Feb. 8, 2016, [130 Stat. 15](https://www.govinfo.gov/link/statute/130/15).)*

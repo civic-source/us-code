@@ -3,9 +3,10 @@ title: "Section 1 - Integrated public alert and warning system"
 usc_title: 6
 usc_section: "1"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1"
-generated_at: "2026-03-30T02:53:09.459Z"
+generated_at: "2026-11-23T21:25:25.781Z"
+status: "active"
 ---
 
 # § 321o–1. Integrated public alert and warning system
@@ -92,3 +93,7 @@ generated_at: "2026-03-30T02:53:09.459Z"
   - **(1)** participation rates in the public alert and warning system; and
   - **(2)** any efforts to expand alert, warning, and interoperable communications to rural and underserved areas.
 - **(k)** Each State shall be given a reasonable amount of time to comply with any new rules, regulations, or requirements imposed under this section.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. A, title XVII, § 1756](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1855](https://www.govinfo.gov/link/statute/133/1855).)*

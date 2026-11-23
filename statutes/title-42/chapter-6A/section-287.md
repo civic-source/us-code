@@ -3,9 +3,10 @@ title: "Section 287 - National Center for Advancing Translational Sciences"
 usc_title: 42
 usc_section: "287"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 287"
-generated_at: "2026-03-30T02:56:10.752Z"
+generated_at: "2026-11-23T21:26:30.521Z"
+status: "active"
 ---
 
 # § 287. National Center for Advancing Translational Sciences
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:10.752Z"
   - **(7)** the methods and tools, if any, that have been developed and are being utilized by the Food and Drug Administration to support medical product reviews.
 - **(d)** The first biennial report submitted under this section after December 13, 2016 , shall include a complete list of all of the methods and tools, if any, which have been developed by research supported by the Center.
 - **(e)** Nothing in this section shall be construed as authorizing the Secretary to disclose any information that is a trade secret, or other privileged or confidential information subject to section 552(b)(4) of title 5 or section 1905 of title 18 .
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 479, as added [Pub. L. 99–158, § 2](https://www.govinfo.gov/link/plaw/99/public/158), Nov. 20, 1985, [99 Stat. 864](https://www.govinfo.gov/link/statute/99/864); amended [Pub. L. 103–43, title XV, § 1501(2)(B)](https://www.govinfo.gov/link/plaw/103/public/43), June 10, 1993, [107 Stat. 172](https://www.govinfo.gov/link/statute/107/172); [Pub. L. 112–74, div. F, title II, § 221(a)(1)(C)](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 1086](https://www.govinfo.gov/link/statute/125/1086); [Pub. L. 114–255, div. A, title II](https://www.govinfo.gov/link/plaw/114/public/255), §§ 2037, 2042(e), Dec. 13, 2016, [130 Stat. 1063](https://www.govinfo.gov/link/statute/130/1063), 1073.)*

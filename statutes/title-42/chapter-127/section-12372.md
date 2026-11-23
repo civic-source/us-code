@@ -3,9 +3,10 @@ title: "Section 12372 - Authority of President and Secretary; final report"
 usc_title: 42
 usc_section: "12372"
 chapter: 127
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12372"
-generated_at: "2026-03-30T02:56:11.413Z"
+generated_at: "2026-11-23T21:26:33.474Z"
+status: "active"
 ---
 
 # § 12372. Authority of President and Secretary; final report
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.413Z"
     - **(B)** professionals who are working in the field of children, youth, and families; and
     - **(C)** representatives of the general public, particularly young individuals.
   - **(2)** The delegates to attend the Conference shall be selected without regard to political affiliation or past partisan activity and shall, to the best of the appointing authority’s ability, be representative of the spectrum of thought in the field of children, youth, and families.
+
+## Source Credit
+
+*([Pub. L. 101–501, title IX, § 983](https://www.govinfo.gov/link/plaw/101/public/501), Nov. 3, 1990, [104 Stat. 1280](https://www.govinfo.gov/link/statute/104/1280); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

@@ -3,9 +3,10 @@ title: "Section 3016 - Administrative subpoenas"
 usc_title: 39
 usc_section: "3016"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 3016"
-generated_at: "2026-03-30T02:55:43.692Z"
+generated_at: "2026-11-23T21:26:12.781Z"
+status: "active"
 ---
 
 # § 3016. Administrative subpoenas
@@ -34,3 +35,39 @@ generated_at: "2026-03-30T02:55:43.692Z"
   - **(1)** Whenever any person, partnership, corporation, association, or entity fails to comply with any subpoena duly served upon him, the Postmaster General may request that the Attorney General seek enforcement of the subpoena in the district court of the United States for any judicial district in which such person resides, is found, or transacts business, and serve upon such person a petition for an order of such court for the enforcement of this section.
   - **(2)** Whenever any petition is filed in any district court of the United States under this section, such court shall have jurisdiction to hear and determine the matter so presented, and to enter such order or orders as may be required to carry into effect the provisions of this section. Any final order entered shall be subject to appeal under section 1291 of title 28 , United States Code. Any disobedience of any final order entered under this section by any court may be punished as contempt.
 - **(d)** Any documentary material provided pursuant to any subpoena issued under this section shall be exempt from disclosure under section 552 of title 5 , United States Code.
+
+Subpoena Authority.—
+
+Investigations.—
+
+In general
+
+Condition
+
+Statutory proceedings
+
+Rule of construction
+
+Service.—
+
+Service within the united states
+
+Foreign service
+
+Service on business persons
+
+Service on natural persons
+
+Verified return
+
+Enforcement.—
+
+In general
+
+Jurisdiction
+
+Disclosure
+
+## Source Credit
+
+*(Added [Pub. L. 106–168, title I, § 107(a)](https://www.govinfo.gov/link/plaw/106/public/168), Dec. 12, 1999, [113 Stat. 1812](https://www.govinfo.gov/link/statute/113/1812).)*

@@ -3,9 +3,10 @@ title: "Section 1141 - Effect of confirmation"
 usc_title: 11
 usc_section: "1141"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1141"
-generated_at: "2026-03-30T02:53:53.885Z"
+generated_at: "2026-11-23T21:25:34.955Z"
+status: "active"
 ---
 
 # § 1141. Effect of confirmation
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:53:53.885Z"
     - **(B)** for a tax or customs duty with respect to which the debtor—
       - **(i)** made a fraudulent return; or
       - **(ii)** willfully attempted in any manner to evade or to defeat such tax or such customs duty.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2638](https://www.govinfo.gov/link/statute/92/2638); [Pub. L. 98–353, title III, § 513](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 387](https://www.govinfo.gov/link/statute/98/387); [Pub. L. 109–8, title III](https://www.govinfo.gov/link/plaw/109/public/8), §§ 321(d), 330(b), title VII, § 708, Apr. 20, 2005, [119 Stat. 95](https://www.govinfo.gov/link/statute/119/95), 101, 126; [Pub. L. 111–327, § 2(a)(36)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3561](https://www.govinfo.gov/link/statute/124/3561).)*

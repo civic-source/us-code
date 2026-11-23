@@ -3,9 +3,10 @@ title: "Section 1343 - Ocean discharge criteria"
 usc_title: 33
 usc_section: "1343"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1343"
-generated_at: "2026-03-30T02:55:41.101Z"
+generated_at: "2026-11-23T21:26:11.396Z"
+status: "active"
 ---
 
 # § 1343. Ocean discharge criteria
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:41.101Z"
     - **(F)** other possible locations and methods of disposal or recycling of pollutants including land-based alternatives; and
     - **(G)** the effect on alternate uses of the oceans, such as mineral exploitation and scientific study.
   - **(2)** In any event where insufficient information exists on any proposed discharge to make a reasonable judgment on any of the guidelines established pursuant to this subsection no permit shall be issued under section 1342 of this title .
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title IV, § 403, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 883](https://www.govinfo.gov/link/statute/86/883).)*

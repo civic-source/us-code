@@ -3,9 +3,10 @@ title: "Section 8601 - Findings"
 usc_title: 22
 usc_section: "8601"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8601"
-generated_at: "2026-03-30T02:55:05.454Z"
+generated_at: "2026-11-23T21:25:58.748Z"
+status: "active"
 ---
 
 # § 8601. Findings
@@ -20,3 +21,25 @@ Congress makes the following findings:
   - **(6)** Over the past several years, with the assistance of the Governments of the Islamic Republic of Iran and Syria, Hizbollah and Hamas have increased their stockpile of rockets, with more than 60,000 now ready to be fired at Israel. The Government of the Islamic Republic of Iran continues to add to its arsenal of ballistic missiles and cruise missiles, which threaten Iran’s neighbors, Israel, and United States Armed Forces in the region.
   - **(7)** As a result, Israel is facing a fundamentally altered strategic environment.
   - **(8)** Pursuant to chapter 5 of title 1 of the Emergency Wartime Supplemental Appropriations Act, 2003 ( Public Law 108–11 ; 117 Stat. 576 ), the authority to make available loan guarantees to Israel is currently set to expire on September 30, 2012 .
+
+In General
+
+Elements
+
+Form
+
+Short Title
+
+Findings
+
+Additional Reporting.—
+
+In general
+
+Elements
+
+“Congress makes the following findings:
+
+## Source Credit
+
+*([Pub. L. 112–150, § 2](https://www.govinfo.gov/link/plaw/112/public/150), July 27, 2012, [126 Stat. 1146](https://www.govinfo.gov/link/statute/126/1146).)*

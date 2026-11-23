@@ -3,9 +3,10 @@ title: "Section 3154f - Congressional notification requirements"
 usc_title: 42
 usc_section: "3154f"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3154f"
-generated_at: "2026-03-30T02:56:11.183Z"
+generated_at: "2026-11-23T21:26:32.541Z"
+status: "active"
 ---
 
 # § 3154f. Congressional notification requirements
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.183Z"
   - **(9)** a description of the project; and
   - **(10)** any additional information, as determined to be appropriate by the Secretary.
 - **(d)** The Secretary shall make a notification under subsection (a) publicly available not later than 60 days after the date on which the Secretary provides the notice.
+
+## Source Credit
+
+*([Pub. L. 89–136, title II, § 220](https://www.govinfo.gov/link/plaw/89/public/136), as added [Pub. L. 118–272, div. B, title II, § 2222](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3187](https://www.govinfo.gov/link/statute/138/3187).)*

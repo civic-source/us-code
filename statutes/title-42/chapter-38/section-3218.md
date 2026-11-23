@@ -3,9 +3,10 @@ title: "Section 3218 - Records and audits"
 usc_title: 42
 usc_section: "3218"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3218"
-generated_at: "2026-03-30T02:56:11.184Z"
+generated_at: "2026-11-23T21:26:32.548Z"
+status: "active"
 ---
 
 # § 3218. Records and audits
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.184Z"
   - **(3)** the amount and nature of the portion of the cost of the project provided by other sources; and
   - **(4)** such other records as will facilitate an effective audit.
 - **(b)** The Secretary, the Inspector General of the Department, and the Comptroller General of the United States, or any duly authorized representative, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient that relate to assistance received under this chapter.
+
+## Source Credit
+
+*([Pub. L. 89–136, title VI, § 608](https://www.govinfo.gov/link/plaw/89/public/136), as added [Pub. L. 105–393, title I, § 102(a)](https://www.govinfo.gov/link/plaw/105/public/393), Nov. 13, 1998, [112 Stat. 3616](https://www.govinfo.gov/link/statute/112/3616).)*

@@ -3,9 +3,10 @@ title: "Section 321 - Definitions"
 usc_title: 24
 usc_section: "321"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "24 U.S.C. § 321"
-generated_at: "2026-03-30T02:54:50.790Z"
+generated_at: "2026-11-23T21:25:53.411Z"
+status: "active"
 ---
 
 # § 321. Definitions
@@ -19,3 +20,7 @@ For the purposes of this chapter except as the context may otherwise require—
   - **(1)** A certificate of the Secretary of State that such individual is a national of the United States; and
   - **(2)** Either (A) a certificate obtained or transmitted by the Secretary of State that such individual has been legally adjudged insane in a named foreign country, or (B) a certificate of an appropriate authority or person (as determined in accordance with regulations prescribed by the Secretary of Health and Human Services) stating that at the time of such certification such individual was in a named foreign country and was in need of care and treatment in a mental hospital.
 - **(e)** The term “residence” means residence as determined under the applicable law or regulations of a State or political subdivision for the purpose of determining the eligibility of an individual for hospitalization in a public mental hospital.
+
+## Source Credit
+
+*([Pub. L. 86–571, § 1](https://www.govinfo.gov/link/plaw/86/public/571), July 5, 1960, [74 Stat. 308](https://www.govinfo.gov/link/statute/74/308); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695).)*

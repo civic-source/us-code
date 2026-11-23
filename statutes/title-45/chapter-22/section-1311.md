@@ -3,9 +3,10 @@ title: "Section 1311 - Preparation for public offering"
 usc_title: 45
 usc_section: "1311"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 1311"
-generated_at: "2026-03-30T02:55:56.561Z"
+generated_at: "2026-11-23T21:26:19.242Z"
+status: "active"
 ---
 
 # § 1311. Preparation for public offering
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:56.561Z"
   - **(2)** On or before February 1, 1987 , or 30 days before the sale date, whichever occurs first, the Secretary of Transportation shall determine whether to require the Corporation to transfer to the Secretary of the Treasury, in addition to amounts transferred under paragraph (1), not to exceed $100,000,000, taking into account the viability of the Corporation. The Corporation shall transfer such funds as are required to be transferred under this paragraph.
 - **(c)** The Corporation shall prepare and cause to be filed with the Securities and Exchange Commission a registration statement with respect to the securities to be offered and sold in accordance with the securities laws and the rules and regulations thereunder in connection with the initial and any subsequent public offering.
 - **(d)**
+
+## Source Credit
+
+*([Pub. L. 99–509, title IV, § 4011](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1895](https://www.govinfo.gov/link/statute/100/1895).)*

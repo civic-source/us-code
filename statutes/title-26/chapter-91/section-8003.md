@@ -3,12 +3,17 @@ title: "Section 8003 - Election of chairman and vice chairman"
 usc_title: 26
 usc_section: "8003"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 8003"
-generated_at: "2026-03-30T02:55:27.889Z"
+generated_at: "2026-11-23T21:26:07.026Z"
+status: "active"
 ---
 
 # § 8003. Election of chairman and vice chairman
 
 The Joint Committee shall elect a chairman and vice chairman from among its members.
 
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 926.)*

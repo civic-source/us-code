@@ -3,9 +3,10 @@ title: "Section 1683a - Establishment of softwood lumber importer declaration pr
 usc_title: 19
 usc_section: "1683a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1683a"
-generated_at: "2026-03-30T02:54:24.659Z"
+generated_at: "2026-11-23T21:25:42.759Z"
+status: "active"
 ---
 
 # § 1683a. Establishment of softwood lumber importer declaration program
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:24.659Z"
     - **(C)** the exporter has paid, or committed to pay, all export charges due—
       - **(i)** in accordance with the volume, export price, and export charge rate or rates, if any, as calculated under an international agreement entered into by the country of export and the United States; and
       - **(ii)** consistent with the export charge determinations published by the Under Secretary for International Trade pursuant to section 1683c(b) of this title .
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VIII, § 803, as added [Pub. L. 110–246, title III, § 3301(a)](https://www.govinfo.gov/link/plaw/110/public/246), June 18, 2008, [122 Stat. 1847](https://www.govinfo.gov/link/statute/122/1847).)*

@@ -3,9 +3,10 @@ title: "Section 6991i - Operator training"
 usc_title: 42
 usc_section: "6991i"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6991i"
-generated_at: "2026-03-30T02:56:11.281Z"
+generated_at: "2026-11-23T21:26:33.039Z"
+status: "active"
 ---
 
 # § 6991i. Operator training
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:11.281Z"
   - **(2)** repeat the applicable requirements developed under subsection (b), if the tank for which they have primary daily on-site management responsibilities is determined to be out of compliance with—
     - **(A)** a requirement or standard promulgated by the Administrator under section 6991b of this title ; or
     - **(B)** a requirement or standard of a State program approved under section 6991c of this title .
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 9010](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 98–616, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/98/public/616), Nov. 8, 1984, [98 Stat. 3287](https://www.govinfo.gov/link/statute/98/3287); amended [Pub. L. 109–58, title XV, § 1524(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1095](https://www.govinfo.gov/link/statute/119/1095).)*

@@ -3,9 +3,10 @@ title: "Section 19151 - Federal research agency policies for caregivers"
 usc_title: 42
 usc_section: "19151"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19151"
-generated_at: "2026-03-30T02:56:11.541Z"
+generated_at: "2026-11-23T21:26:33.875Z"
+status: "active"
 ---
 
 # § 19151. Federal research agency policies for caregivers
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.541Z"
 - **(d)** Federal research agencies shall consider—
   - **(1)** collecting data, including demographic data that can be disaggregated by sex, geographic location, and socioeconomic indicators, which may include employment status, occupation, educational attainment, parental education, and income, on the usage of the policies under subsection (c), at both institutions of higher education and Federal laboratories; and
   - **(2)** reporting such data on an annual basis to the Director in such form as required by the Director.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title V, § 10501](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1609](https://www.govinfo.gov/link/statute/136/1609).)*

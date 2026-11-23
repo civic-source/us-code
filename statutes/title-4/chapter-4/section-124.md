@@ -3,9 +3,10 @@ title: "Section 124 - Definitions"
 usc_title: 4
 usc_section: "124"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "4 U.S.C. § 124"
-generated_at: "2026-03-30T02:52:51.498Z"
+generated_at: "2026-11-23T21:25:19.976Z"
+status: "active"
 ---
 
 # § 124. Definitions
@@ -36,3 +37,33 @@ In sections 116 through 126 of this title:
     - **(B)** does not include a serving carrier with which a home service provider arranges for the services to its customers outside the home service provider’s licensed service area.
   - **(11)** The term “serving carrier” means a facilities-based carrier providing mobile telecommunications service to a customer outside a home service provider’s or reseller’s licensed service area.
   - **(12)** The term “taxing jurisdiction” means any of the several States, the District of Columbia, or any territory or possession of the United States, any municipality, city, county, township, parish, transportation district, or assessment jurisdiction, or any other political subdivision within the territorial limits of the United States with the authority to impose a tax, charge, or fee.
+
+Charges for mobile telecommunications services
+
+Customer.—
+
+In general
+
+Designated database provider
+
+Enhanced zip code
+
+Home service provider
+
+Licensed service area
+
+Mobile telecommunications service
+
+Place of primary use
+
+Prepaid telephone calling services
+
+Reseller
+
+Serving carrier
+
+Taxing jurisdiction
+
+## Source Credit
+
+*(Added [Pub. L. 106–252, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/252), July 28, 2000, [114 Stat. 631](https://www.govinfo.gov/link/statute/114/631).)*

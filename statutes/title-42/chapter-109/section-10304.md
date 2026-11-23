@@ -3,9 +3,10 @@ title: "Section 10304 - Research concerning water resource-related problems deem
 usc_title: 42
 usc_section: "10304"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10304"
-generated_at: "2026-03-30T02:56:11.385Z"
+generated_at: "2026-11-23T21:26:33.360Z"
+status: "active"
 ---
 
 # § 10304. Research concerning water resource-related problems deemed to be in national interest
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.385Z"
   - **(2)** Research funded under this section should to the extent possible utilize the best qualified graduate students so the Nation profits from the education and training benefits resulting from the use of the latest in technological developments in solving water problems.
 - **(b)** Each application for a grant under this section shall state the nature of the project to be undertaken, the period during which it will be pursued, the qualifications of the personnel who will direct and conduct it, the importance of the project to the Nation as well as to the region and State concerned, its relation to other research projects previously or currently being pursued, and the extent to which it will provide an opportunity for the training of water resources scientists.
 - **(c)** There is authorized to be appropriated to the Secretary the sum of $10,000,000 for the purpose of carrying out this section for each of the fiscal years ending September 30, 1985 , through September 30, 1995 , such sums to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 98–242, title I, § 105](https://www.govinfo.gov/link/plaw/98/public/242), Mar. 22, 1984, [98 Stat. 100](https://www.govinfo.gov/link/statute/98/100); [Pub. L. 101–397, § 1(i)](https://www.govinfo.gov/link/plaw/101/public/397), (j), Sept. 28, 1990, [104 Stat. 853](https://www.govinfo.gov/link/statute/104/853).)*

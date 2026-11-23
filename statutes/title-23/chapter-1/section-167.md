@@ -3,9 +3,10 @@ title: "Section 167 - National highway freight program"
 usc_title: 23
 usc_section: "167"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 167"
-generated_at: "2026-03-30T02:55:12.562Z"
+generated_at: "2026-11-23T21:25:53.904Z"
+status: "active"
 ---
 
 # § 167. National highway freight program
@@ -156,3 +157,97 @@ generated_at: "2026-03-30T02:55:12.562Z"
     - **(B)** communications or information processing systems that improve the efficiency, security, or safety of freight movements on the Federal-aid highway system, including to improve the conveyance of freight on dedicated intelligent freight lanes.
   - **(2)** The Administrator shall determine whether there is a need for establishing operating standards for intelligent freight transportation systems.
 - **(k)** Notwithstanding any other provision of law, a freight project carried out under this section shall be treated as if the project were on a Federal-aid highway.
+
+In General.—
+
+Policy
+
+Establishment
+
+Goals
+
+Establishment of National Highway Freight Network.—
+
+In general
+
+Network components
+
+Designation and Redesignation of the Primary Highway Freight System
+
+Initial designation of primary highway freight system
+
+Redesignation of primary highway freight system.—
+
+In general
+
+Redesignation mileage
+
+Use of measurable data
+
+Input
+
+Factors for redesignation
+
+Critical Rural Freight Corridors.—
+
+In general
+
+Limitation
+
+Rural states
+
+Critical Urban Freight Corridors.—
+
+Urbanized area with population of 500,000 or more
+
+Urbanized area with a population less than 500,000
+
+Requirements for designation
+
+Limitation
+
+Designation and Certification.—
+
+Designation
+
+Certification
+
+Use of Apportioned Funds.—
+
+In general
+
+Formula
+
+Use of funds.—
+
+States with high primary highway freight system mileage
+
+States with low primary highway freight system mileage
+
+Freight planning
+
+Eligibility.—
+
+In general
+
+Other projects
+
+Eligible projects
+
+Other eligible costs
+
+Applicability of planning requirements
+
+State Performance Targets
+
+Intelligent Freight Transportation System.—
+
+Definition of intelligent freight transportation system
+
+Operating standards
+
+Treatment of Freight Projects
+
+## Source Credit
+
+*(Added [Pub. L. 112–141, div. A, title I, § 1115(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 468](https://www.govinfo.gov/link/statute/126/468); amended [Pub. L. 114–94, div. A, title I, § 1116(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1349](https://www.govinfo.gov/link/statute/129/1349); [Pub. L. 117–58, div. A, title I, § 11114](https://www.govinfo.gov/link/plaw/117/public/58), title III, § 13006(f), Nov. 15, 2021, [135 Stat. 479](https://www.govinfo.gov/link/statute/135/479), 639.)*

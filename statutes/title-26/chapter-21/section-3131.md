@@ -3,9 +3,10 @@ title: "Section 3131 - Credit for paid sick leave"
 usc_title: 26
 usc_section: "3131"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 3131"
-generated_at: "2026-03-30T02:55:27.789Z"
+generated_at: "2026-11-23T21:26:06.554Z"
+status: "active"
 ---
 
 # § 3131. Credit for paid sick leave
@@ -84,3 +85,7 @@ generated_at: "2026-03-30T02:55:27.789Z"
 - **(h)** This section shall apply only to wages paid with respect to the period beginning on April 1, 2021 , and ending on September 30, 2021 .
 - **(i)** The Secretary shall waive any penalty under section 6656 for any failure to make a deposit of applicable employment taxes if the Secretary determines that such failure was due to the anticipation of the credit allowed under this section.
 - **(j)** No credit shall be allowed under this section to any employer for any calendar quarter if such employer, with respect to the availability of the provision of qualified sick leave wages to which this section otherwise applies for such calendar quarter, discriminates in favor of highly compensated employees (within the meaning of section 414(q)), full-time employees, or employees on the basis of employment tenure with such employer.
+
+## Source Credit
+
+*(Added [Pub. L. 117–2, title IX, § 9641(a)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 161](https://www.govinfo.gov/link/statute/135/161).)*

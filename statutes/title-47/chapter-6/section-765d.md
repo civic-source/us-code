@@ -3,9 +3,10 @@ title: "Section 765d - Termination of provisions of this chapter"
 usc_title: 47
 usc_section: "765d"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 765d"
-generated_at: "2026-03-30T02:56:24.526Z"
+generated_at: "2026-11-23T21:26:36.068Z"
+status: "active"
 ---
 
 # § 765d. Termination of provisions of this chapter
@@ -16,3 +17,7 @@ Effective on the dates specified, the following provisions of this chapter shall
   - **(2)** Upon the transfer of assets to a successor entity and receipt by signatories or former signatories (including COMSAT) of ownership shares in the successor entity of INTELSAT in accordance with appropriate arrangements determined by INTELSAT to implement privatization: Section 735 of this title .
   - **(3)** On the effective date of a Commission order determining under section 761(b)(2) of this title that Inmarsat privatization is consistent with criteria in sections 763 and 763c 1 1 See References in Text note below. of this title: Sections 753(b) and 753(d) of this title.
   - **(4)** On the effective date of a Commission order determining under section 761(b)(2) of this title that INTELSAT privatization is consistent with criteria in sections 763 and 763a of this title: Section 701 of this title ; section 702(7) of this title ; paragraphs (2) through (4) and (7) of section 721(a) of this title ; paragraphs (2), (6), and (7) of section 721(c) of this title ; section 731 of this title ; section 732 of this title ; section 741 of this title ; section 742 of this title ; section 743 of this title ; and section 744 of this title .
+
+## Source Credit
+
+*([Pub. L. 87–624, title VI, § 645](https://www.govinfo.gov/link/plaw/87/public/624), as added [Pub. L. 106–180, § 3](https://www.govinfo.gov/link/plaw/106/public/180), Mar. 17, 2000, [114 Stat. 56](https://www.govinfo.gov/link/statute/114/56).)*

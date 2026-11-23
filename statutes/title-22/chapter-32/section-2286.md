@@ -3,9 +3,10 @@ title: "Section 2286 - Pilot program for sub-Saharan Africa"
 usc_title: 22
 usc_section: "2286"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2286"
-generated_at: "2026-03-30T02:55:05.353Z"
+generated_at: "2026-11-23T21:25:58.453Z"
+status: "active"
 ---
 
 # § 2286. Pilot program for sub-Saharan Africa
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.353Z"
 - **(c)**
   - **(1)** The Administrator of the Agency for International Development is authorized to make grants, on such terms and conditions as may be necessary, to nongovernmental organizations for the purchase on the open market of discounted commercial debt of a foreign government of an eligible sub-Saharan country in exchange for commitments by that government to restore natural resources identified by the host country under subsection (a) or for commitments to develop plans for sustainable use of such resources.
   - **(2)** Notwithstanding any other provision of law, a grantee (or any subgrantee) of the grants referred to in section (a) 1 1 So in original. Probably should be “paragraph (1)”. may retain, without deposit in the Treasury of the United States and without further appropriation by Congress, interest earned on the proceeds of any resulting debt-for-nature exchange pending the disbursements of such proceeds and interest for approved program purposes, which may include the establishment of an endowment, the income of which is used for such purposes.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 466 [476], as added [Pub. L. 101–240, title VII, § 711](https://www.govinfo.gov/link/plaw/101/public/240), Dec. 19, 1989, [103 Stat. 2523](https://www.govinfo.gov/link/statute/103/2523).)*

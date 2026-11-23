@@ -3,9 +3,10 @@ title: "Section 3304 - Use of noncompetitive procedures"
 usc_title: 41
 usc_section: "3304"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 3304"
-generated_at: "2026-03-30T02:55:55.805Z"
+generated_at: "2026-11-23T21:26:18.803Z"
+status: "active"
 ---
 
 # § 3304. Use of noncompetitive procedures
@@ -69,3 +70,154 @@ generated_at: "2026-03-30T02:55:55.805Z"
     - **(B)** In the case of a procurement permitted by subsection (a)(2), subparagraph (A) shall be applied by substituting “30 days” for “14 days”.
   - **(2)** The documents referred to in subparagraph (A) of paragraph (1) shall be made available on the website of the agency and through a Government-wide website selected by the Administrator.
   - **(3)** This subsection does not require the public availability of information that is exempt from public disclosure under section 552(b) of title 5 .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3304(a) | 41:253(c), (d)(2). | June 30, 1949, ch. 288 , title III, § 303(c)–(f), (j), 63 Stat. 395 ; July 12, 1952, ch. 703, § 1(m) , 66 Stat. 594 ; Pub. L. 90–268, § 2 , Mar. 16, 1968 , 82 Stat. 49 ; Pub. L. 98–369, title VII, § 2711(a)(1) , July 18, 1984 , 98 Stat. 1176 ; Pub. L. 98–577, title V, § 504(a)(2) , Oct. 30, 1984 , 98 Stat. 3086 ; Pub. L. 99–145, title IX, § 961(a)(2) , title XIII, § 1304(c)(2), Nov. 8, 1985 , 99 Stat. 703 , 742; Pub. L. 103–355, title I , §§ 1053, 1055(a), title VII, § 7203(b)(1)(A), Oct. 13, 1994 , 108 Stat. 3261 , 3265, 3380; Pub. L. 104–106, title XLI, § 4102(b) , title XLIII, § 4321(e)(2), Feb. 10, 1996 , 110 Stat. 643 , 674; Pub. L. 104–320 , §§ 7(a)(2), 11(c)(2), Oct. 19, 1996 , 110 Stat. 3871 , 3873; Pub. L. 110–181, div. A, title VIII, § 844(a) , Jan. 28, 2008 , 122 Stat. 239 ; Pub. L. 110–417 , [div. A], title VIII, § 862(a), Oct. 14, 2008 , 122 Stat. 4546 . |
+| 3304(b) | 41:253(d)(1). |  |
+| 3304(c) | 41:253(d)(3). |  |
+| 3304(d) | 41:253(e). |  |
+| 3304(e)(1) | 41:253(f)(1). |  |
+| 3304(e)(2) | 41:253(f)(3). |  |
+| 3304(e)(3), (4) | 41:253(f)(2). |  |
+| 3304(e)(5) | 41:253(f)(4). |  |
+| 3304(f) | 41:253(j). |  |
+
+
+When Noncompetitive Procedures May Be Used
+
+Property or Services Deemed Available From Only One Source
+
+Property or Services Needed With Unusual and Compelling Urgency.—
+
+Allowable contract period
+
+Applicability of allowable contract period
+
+Offer Requests to Potential Sources
+
+Justification for Use of Noncompetitive Procedures.—
+
+Prerequisites for awarding contract
+
+Elements of justification
+
+Justification allowed after contract awarded
+
+Justification not required
+
+Restrictions on executive agencies.—
+
+Contracts and procurement of property or services
+
+Additional restriction
+
+Public Availability of Justification and Approval Required for Using Noncompetitive Procedures.—
+
+Time requirement.—
+
+Within 14 days after contract award
+
+Within 30 days after contract award
+
+Availability on websites
+
+Exception to availability and approval requirement
+
+Historical and Revision Notes
+
+3304(a)
+
+June 30, 1949, ch. 288
+
+63 Stat. 395
+
+July 12, 1952, ch. 703, § 1(m)
+
+66 Stat. 594
+
+Pub. L. 90–268, § 2
+
+Mar. 16, 1968
+
+82 Stat. 49
+
+Pub. L. 98–369, title VII, § 2711(a)(1)
+
+July 18, 1984
+
+98 Stat. 1176
+
+Pub. L. 98–577, title V, § 504(a)(2)
+
+Oct. 30, 1984
+
+98 Stat. 3086
+
+Pub. L. 99–145, title IX, § 961(a)(2)
+
+Nov. 8, 1985
+
+99 Stat. 703
+
+Pub. L. 103–355, title I
+
+Oct. 13, 1994
+
+108 Stat. 3261
+
+Pub. L. 104–106, title XLI, § 4102(b)
+
+Feb. 10, 1996
+
+110 Stat. 643
+
+Pub. L. 104–320
+
+Oct. 19, 1996
+
+110 Stat. 3871
+
+Pub. L. 110–181, div. A, title VIII, § 844(a)
+
+Jan. 28, 2008
+
+122 Stat. 239
+
+Pub. L. 110–417
+
+Oct. 14, 2008
+
+122 Stat. 4546
+
+3304(b)
+
+3304(c)
+
+3304(d)
+
+3304(e)(1)
+
+3304(e)(2)
+
+3304(e)(3), (4)
+
+3304(e)(5)
+
+3304(f)
+
+In General
+
+Elements of Justification
+
+Definitions
+
+Covered procurement
+
+Head of an agency
+
+Appropriate official
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3748](https://www.govinfo.gov/link/statute/124/3748); [Pub. L. 115–232, div. A, title VIII, § 836(b)(7)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1861](https://www.govinfo.gov/link/statute/132/1861).)*

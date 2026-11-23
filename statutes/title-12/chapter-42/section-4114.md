@@ -3,9 +3,10 @@ title: "Section 4114 - Permissible prepayment or voluntary termination and modif
 usc_title: 12
 usc_section: "4114"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4114"
-generated_at: "2026-03-30T02:53:53.501Z"
+generated_at: "2026-11-23T21:25:37.165Z"
+status: "active"
 ---
 
 # § 4114. Permissible prepayment or voluntary termination and modification of commitments
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:53.501Z"
 - **(b)** When providing rental assistance under section 1437f of title 42 , the Secretary may enter into a contract with an owner, contingent upon the future availability of appropriations for the purpose of renewing expiring contracts for rental assistance as provided in appropriations Acts, to extend the term of such rental assistance for such additional period or periods necessary to carry out an approved plan of action. The contract and the approved plan of action shall provide that, if the Secretary is unable to extend the term of such rental assistance or is unable to develop a revised package of incentives providing benefits to the owner comparable to those received under the original approved plan of action, the Secretary, upon the request of the owner, shall take the following actions (subject to the limitations under the following paragraphs):
   - **(1)** Modify the binding commitments made pursuant to section 4112(a)(2) of this title that are dependent on such rental assistance.
   - **(2)** Permit the owner to prepay the mortgage and terminate the plan of action and any implementing use agreements or restrictions, but only if the owner agrees in writing to comply with provisions of section 4113 of this title .
+
+## Source Credit
+
+*([Pub. L. 100–242, title II, § 224](https://www.govinfo.gov/link/plaw/100/public/242), as added [Pub. L. 101–625, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4265](https://www.govinfo.gov/link/statute/104/4265).)*

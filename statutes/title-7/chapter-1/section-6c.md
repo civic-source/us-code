@@ -3,9 +3,10 @@ title: "Section 6c - Prohibited transactions"
 usc_title: 7
 usc_section: "6c"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6c"
-generated_at: "2026-03-30T02:53:42.240Z"
+generated_at: "2026-11-23T21:25:27.844Z"
+status: "active"
 ---
 
 # § 6c. Prohibited transactions
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:53:42.240Z"
 - **(e)** The Commission may adopt rules and regulations, after public notice and opportunity for a hearing on the record, prohibiting the granting, issuance, or sale of options permitted under subsection (d) of this section if the Commission determines that such options are contrary to the public interest.
 - **(f)** Nothing in this chapter shall be deemed to govern or in any way be applicable to any transaction in an option on foreign currency traded on a national securities exchange.
 - **(g)** The Commission shall adopt rules requiring that a contemporaneous written record be made, as practicable, of all orders for execution on the floor or subject to the rules of each contract market or derivatives transaction execution facility placed by a member of the contract market or derivatives transaction execution facility who is present on the floor at the time such order is placed.
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 4c, as added June 15, 1936, ch. 545, § 5, [49 Stat. 1494](https://www.govinfo.gov/link/statute/49/1494); amended [Pub. L. 93–463, title I, § 103(a)](https://www.govinfo.gov/link/plaw/93/public/463), title IV, § 402, Oct. 23, 1974, [88 Stat. 1392](https://www.govinfo.gov/link/statute/88/1392), 1412; [Pub. L. 95–405, § 3](https://www.govinfo.gov/link/plaw/95/public/405), Sept. 30, 1978, [92 Stat. 867](https://www.govinfo.gov/link/statute/92/867); [Pub. L. 97–444, title I, § 102](https://www.govinfo.gov/link/plaw/97/public/444), title II, § 206, Jan. 11, 1983, [96 Stat. 2296](https://www.govinfo.gov/link/statute/96/2296), 2301; [Pub. L. 99–641, title I, § 102](https://www.govinfo.gov/link/plaw/99/public/641), Nov. 10, 1986, [100 Stat. 3557](https://www.govinfo.gov/link/statute/100/3557); [Pub. L. 102–546, title II, § 203(a)](https://www.govinfo.gov/link/plaw/102/public/546), title IV, § 402(4), Oct. 28, 1992, [106 Stat. 3600](https://www.govinfo.gov/link/statute/106/3600), 3624; [Pub. L. 106–554, § 1(a)(5) [title I, §§ 109, 123(a)(6)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–383, 2763A–407; [Pub. L. 111–203, title VII](https://www.govinfo.gov/link/plaw/111/public/203), §§ 741(b)(2), 746, 747, July 21, 2010, [124 Stat. 1731](https://www.govinfo.gov/link/statute/124/1731), 1737, 1739; [Pub. L. 112–105, § 5](https://www.govinfo.gov/link/plaw/112/public/105), Apr. 4, 2012, [126 Stat. 293](https://www.govinfo.gov/link/statute/126/293).)*

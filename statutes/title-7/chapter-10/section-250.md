@@ -3,9 +3,10 @@ title: "Section 250 - Warehouse receipts"
 usc_title: 7
 usc_section: "250"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 250"
-generated_at: "2026-03-30T02:53:42.279Z"
+generated_at: "2026-11-23T21:25:27.939Z"
+status: "active"
 ---
 
 # § 250. Warehouse receipts
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:42.279Z"
   - **(8)** This subsection shall not apply to a warehouse operator that is licensed under State law to store agricultural commodities in a warehouse in the State if the warehouse operator elects—
     - **(A)** not to issue electronic receipts authorized under this subsection; or
     - **(B)** to issue electronic receipts authorized under State law.
+
+## Source Credit
+
+*(Aug. 11, 1916, ch. 313, pt. C, § 11, as added [Pub. L. 106–472, title II, § 201](https://www.govinfo.gov/link/plaw/106/public/472), Nov. 9, 2000, [114 Stat. 2065](https://www.govinfo.gov/link/statute/114/2065).)*

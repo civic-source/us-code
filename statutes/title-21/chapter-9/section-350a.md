@@ -3,9 +3,10 @@ title: "Section 350a - Infant formulas"
 usc_title: 21
 usc_section: "350a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 350a"
-generated_at: "2026-03-30T02:54:54.225Z"
+generated_at: "2026-11-23T21:25:55.998Z"
+status: "active"
 ---
 
 # § 350a. Infant formulas
@@ -83,7 +84,46 @@ generated_at: "2026-03-30T02:54:54.225Z"
   - **(1)** An infant formula shall contain nutrients in accordance with the table set out in this subsection, which shall be reviewed by the Secretary every 4 years as appropriate. In reviewing such table, the Secretary shall consider any new scientific data or information related to infant formula nutrients, including international infant formula standards. The Secretary may revise the list of nutrients and the required level for any nutrient required by the table.
   - **(2)** The Secretary may by regulation—
     - **(A)** revise the list of nutrients in the table in this subsection, and
-    - **(B)** revise the required level for any nutrient required by the table. NUTRIENTS Nutrient Minimum a Maximum a a Stated per 100 kilocalories. b The source of protein shall be at least nutritionally equivalent to casein. c Retinol equivalents. d Required to be included in this amount only in formulas which are not milk-based. e Calcium to phosphorus ratio must be no less than 1.1 nor more than 2.0. Protein (gm) 1.8 b 4.5. Fat: gm 3.3 6.0. percent cal 30.0 54.0. Essential fatty acids (linoleate): percent cal 2.7 mg 300.0 Vitamins: A (IU) 250.0 (75 μg) c 750.0 (225 μg). c D (IU) 40.0 100.0. K (μg) 4.0 E (IU) 0.7 (with 0.7 IU/gm linoleic acid) C (ascorbic acid) (mg) 8.0 B 1 (thiamine) (μg) 40.0 B 2 (riboflavin) (μg) 60.0 B 6 (pyridoxine) (μg) 35.0 (with 15 μg/gm of protein in formula) B 12 (μg) 0.15 Niacin (μg) 250.0 Folic acid (μg) 4.0 Pantothenic acid (μg) 300.0 Biotin (μg) 1.5 d Choline (mg) 7.0 d Inositol (mg) 4.0 d Minerals: Calcium (mg) 50.0 e Phosphorus (mg) 25.0 e Magnesium (mg) 6.0 Iron (mg) 0.15 Iodine (μg) 5.0 Zinc (mg) 0.5 Copper (μg) 60.0 Manganese (μg) 5.0 Sodium (mg) 20.0 60.0. Potassium (mg) 80.0 200.0. Chloride (mg) 55.0 150.0.
+    - **(B)** revise the required level for any nutrient required by the table.
+
+| NUTRIENTS | Col 2 | Col 3 | Col 4 |
+| --- | --- | --- | --- |
+| Protein (gm) | 1.8 b |  | 4.5. |
+| Fat: |  |  |  |
+| gm | 3.3 |  | 6.0. |
+| percent cal | 30.0 |  | 54.0. |
+| Essential fatty acids (linoleate): |  |  |  |
+| percent cal | 2.7 |  |  |
+| mg | 300.0 |  |  |
+| Vitamins: |  |  |  |
+| A (IU) | 250.0 | (75 μg) c | 750.0 (225 μg). c |
+| D (IU) | 40.0 |  | 100.0. |
+| K (μg) | 4.0 |  |  |
+| E (IU) | 0.7 | (with 0.7 IU/gm linoleic acid) |  |
+| C (ascorbic acid) (mg) | 8.0 |  |  |
+| B 1 (thiamine) (μg) | 40.0 |  |  |
+| B 2 (riboflavin) (μg) | 60.0 |  |  |
+| B 6 (pyridoxine) (μg) | 35.0 | (with 15 μg/gm of protein in formula) |  |
+| B 12 (μg) | 0.15 |  |  |
+| Niacin (μg) | 250.0 |  |  |
+| Folic acid (μg) | 4.0 |  |  |
+| Pantothenic acid (μg) | 300.0 |  |  |
+| Biotin (μg) | 1.5 d |  |  |
+| Choline (mg) | 7.0 d |  |  |
+| Inositol (mg) | 4.0 d |  |  |
+| Minerals: |  |  |  |
+| Calcium (mg) | 50.0 e |  |  |
+| Phosphorus (mg) | 25.0 e |  |  |
+| Magnesium (mg) | 6.0 |  |  |
+| Iron (mg) | 0.15 |  |  |
+| Iodine (μg) | 5.0 |  |  |
+| Zinc (mg) | 0.5 |  |  |
+| Copper (μg) | 60.0 |  |  |
+| Manganese (μg) | 5.0 |  |  |
+| Sodium (mg) | 20.0 |  | 60.0. |
+| Potassium (mg) | 80.0 |  | 200.0. |
+| Chloride (mg) | 55.0 |  | 150.0. |
+
 - **(j)**
   - **(1)** The Secretary shall waive the 90-day premarket submission requirement under subsection (c) and apply a 30-day premarket submission requirement for any person who intends to introduce or deliver for introduction into interstate commerce any new infant formula.
   - **(2)** The waiver authority under this subsection shall remain in effect—
@@ -110,3 +150,91 @@ generated_at: "2026-03-30T02:54:54.225Z"
     - **(B)** the distribution and sale of such imported specialty infant formula.
   - **(2)** Nothing in paragraph (1) shall be construed to limit the authority of the Secretary to require a recall of, or otherwise impose restrictions and requirements under this chapter with respect to, specialty infant formula that is subject to a waiver under paragraph (1).
   - **(3)** In this subsection, the term “specialty infant formula” means infant formula described in subsection (h)(1).
+
+a
+
+a
+
+a Stated per 100 kilocalories. b The source of protein shall be at least nutritionally equivalent to casein. c Retinol equivalents. d Required to be included in this amount only in formulas which are not milk-based. e Calcium to phosphorus ratio must be no less than 1.1 nor more than 2.0.
+
+Protein (gm)
+
+b
+
+gm
+
+percent cal
+
+percent cal
+
+mg
+
+A (IU)
+
+(75 μg) c
+
+c
+
+D (IU)
+
+K (μg)
+
+E (IU)
+
+C (ascorbic acid) (mg)
+
+B 1 (thiamine) (μg)
+
+B 2 (riboflavin) (μg)
+
+B 6 (pyridoxine) (μg)
+
+B 12 (μg)
+
+Niacin (μg)
+
+Folic acid (μg)
+
+Pantothenic acid (μg)
+
+Biotin (μg)
+
+d
+
+Choline (mg)
+
+d
+
+Inositol (mg)
+
+d
+
+Calcium (mg)
+
+e
+
+Phosphorus (mg)
+
+e
+
+Magnesium (mg)
+
+Iron (mg)
+
+Iodine (μg)
+
+Zinc (mg)
+
+Copper (μg)
+
+Manganese (μg)
+
+Sodium (mg)
+
+Potassium (mg)
+
+Chloride (mg)
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 412, as added [Pub. L. 96–359, § 2](https://www.govinfo.gov/link/plaw/96/public/359), Sept. 26, 1980, [94 Stat. 1190](https://www.govinfo.gov/link/statute/94/1190); amended [Pub. L. 99–570, title IV, § 4014(a)](https://www.govinfo.gov/link/plaw/99/public/570), (b)(1), Oct. 27, 1986, [100 Stat. 3207–116](https://www.govinfo.gov/link/statute/100/3207), 3207–120; [Pub. L. 103–80, § 3](https://www.govinfo.gov/link/plaw/103/public/80) (l), Aug. 13, 1993, [107 Stat. 777](https://www.govinfo.gov/link/statute/107/777); [Pub. L. 117–328, div. FF, title III, § 3401(c)](https://www.govinfo.gov/link/plaw/117/public/328), (g)(1)–(4), (6), (l), Dec. 29, 2022, [136 Stat. 5838](https://www.govinfo.gov/link/statute/136/5838), 5840, 5841, 5845.)*

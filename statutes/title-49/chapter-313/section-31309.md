@@ -3,9 +3,10 @@ title: "Section 31309 - Commercial driver’s license information system"
 usc_title: 49
 usc_section: "31309"
 chapter: 313
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 31309"
-generated_at: "2026-03-30T02:56:19.361Z"
+generated_at: "2026-11-23T21:26:40.792Z"
+status: "active"
 ---
 
 # § 31309. Commercial driver’s license information system
@@ -55,3 +56,125 @@ generated_at: "2026-03-30T02:56:19.361Z"
       - **(ii)** Time necessary to install, and test the operation of, such technology and equipment.
   - **(5)** The Secretary shall implement the plan developed under subsection (a) and modernize the information system to meet the requirements of the plan.
 - **(g)** At the Secretary’s discretion, a State may use, subject to subsections (a)(2) and (b) of section 31313, the funds made available to the State under that section to modernize its commercial driver’s license information system to be compatible with the modernized information system under this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 31309(a) | 49 App.:2706(a). | Oct. 27, 1986 , Pub. L. 99–570, § 12007 , 100 Stat. 3207–175 . |
+| 31309(b) | 49 App.:2706(b). |  |
+| 31309(c) | 49 App.:2706(c). |  |
+| 31309(d)(1) | 49 App.:2706(d). |  |
+| 31309(d)(2) | 49 App.:2706 (note). | Nov. 18, 1988 , Pub. L. 100–690, § 9105(a) , 102 Stat. 4530 . |
+| 31309(e) | 49 App.:2706(e). |  |
+| 31309(f) | 49 App.:2706(f), (g). |  |
+|  | 49 App.:2706 (note). | Nov. 18, 1988 , Pub. L. 100–690, § 9105(b) , 102 Stat. 4530 . |
+
+
+General Requirement
+
+Contents.—
+
+In general
+
+Requirement
+
+Availability of Information
+
+Authorized Operator
+
+Fee System.—
+
+In general
+
+Amount of fees
+
+Use of fees
+
+Availability of amounts
+
+Authorized operator
+
+Modernization Plan.—
+
+In general
+
+Consultation
+
+State funding of future efforts
+
+Deadline for state participation.—
+
+In general
+
+Factors to consider
+
+Implementation
+
+Funding
+
+Historical and Revision Notes
+
+31309(a)
+
+Oct. 27, 1986
+
+Pub. L. 99–570, § 12007
+
+100 Stat. 3207–175
+
+31309(b)
+
+31309(c)
+
+31309(d)(1)
+
+31309(d)(2)
+
+Nov. 18, 1988
+
+Pub. L. 100–690, § 9105(a)
+
+102 Stat. 4530
+
+31309(e)
+
+31309(f)
+
+Nov. 18, 1988
+
+Pub. L. 100–690, § 9105(b)
+
+102 Stat. 4530
+
+Grants.—
+
+In general
+
+Criteria
+
+Use of grant
+
+Government share
+
+Funding
+
+Contract Authority and Availability.—
+
+Period of availability
+
+Initial date of availability
+
+Contract authority
+
+Pilot Program.—
+
+In general
+
+Purpose
+
+Completion date
+
+Rulemaking
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1020](https://www.govinfo.gov/link/statute/108/1020); [Pub. L. 105–178, title IV, § 4011(d)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 407](https://www.govinfo.gov/link/statute/112/407); [Pub. L. 109–59, title IV](https://www.govinfo.gov/link/plaw/109/public/59), §§ 4122(2)(E), 4123(a), Aug. 10, 2005, [119 Stat. 1734](https://www.govinfo.gov/link/statute/119/1734); [Pub. L. 110–244, title III, § 301(h)](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1616](https://www.govinfo.gov/link/statute/122/1616); [Pub. L. 112–141, div. C, title II](https://www.govinfo.gov/link/plaw/112/public/141), §§ 32305(a), 32933(e), July 6, 2012, [126 Stat. 792](https://www.govinfo.gov/link/statute/126/792), 830; [Pub. L. 118–156, § 2(a)](https://www.govinfo.gov/link/plaw/118/public/156), Dec. 17, 2024, [138 Stat. 1716](https://www.govinfo.gov/link/statute/138/1716).)*

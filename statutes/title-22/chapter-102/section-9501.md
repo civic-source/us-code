@@ -3,9 +3,10 @@ title: "Section 9501 - Findings"
 usc_title: 22
 usc_section: "9501"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9501"
-generated_at: "2026-03-30T02:55:05.466Z"
+generated_at: "2026-11-23T21:25:58.774Z"
+status: "active"
 ---
 
 # § 9501. Findings
@@ -27,3 +28,7 @@ Congress makes the following findings:
     - **(H)** Igor Olegovich Kostyukov.
     - **(I)** Vladimir Stepanovich Alexseyev.
   - **(6)** On January 6, 2017 , an assessment of the United States intelligence community entitled, “Assessing Russian Activities and Intentions in Recent U.S. Elections” stated, “Russian President Vladimir Putin ordered an influence campaign in 2016 aimed at the United States presidential election.” The assessment warns that “Moscow will apply lessons learned from its Putin-ordered campaign aimed at the U.S. Presidential election to future influence efforts worldwide, including against U.S. allies and their election processes”.
+
+## Source Credit
+
+*([Pub. L. 115–44, title II, § 211](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 898](https://www.govinfo.gov/link/statute/131/898).)*

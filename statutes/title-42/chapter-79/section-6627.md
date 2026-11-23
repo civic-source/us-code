@@ -3,9 +3,10 @@ title: "Section 6627 - Federally-funded research with enhanced pathogens of pand
 usc_title: 42
 usc_section: "6627"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6627"
-generated_at: "2026-03-30T02:56:11.264Z"
+generated_at: "2026-11-23T21:26:32.969Z"
+status: "active"
 ---
 
 # § 6627. Federally-funded research with enhanced pathogens of pandemic potential
@@ -33,3 +34,27 @@ generated_at: "2026-03-30T02:56:11.264Z"
   - **(2)** The Secretary of Health and Human Services may lift or suspend the prohibition of funding under paragraph (1)—
     - **(A)** only after the review required under subsection (a)(1)(A)(i) is complete; and
     - **(B)** only if the Secretary notifies Congress not less than 15 days before such prohibition is lifted or suspended.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 117–328, div. FF, title II, § 2315](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5763](https://www.govinfo.gov/link/statute/136/5763).)*

@@ -3,9 +3,10 @@ title: "Section 286s - Consideration of basic human needs in economic adjustment
 usc_title: 22
 usc_section: "286s"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 286s"
-generated_at: "2026-03-30T02:55:05.319Z"
+generated_at: "2026-11-23T21:25:58.364Z"
+status: "active"
 ---
 
 # § 286s. Consideration of basic human needs in economic adjustment programs supported by Fund
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:05.319Z"
     - **(B)** to provide, to the extent feasible, Bank project loans designed to safeguard and further basic human needs in countries adopting economic adjustment programs supported by Fund resources, and
     - **(C)** to provide, as appropriate, Bank financing for programs of structural adjustment that will facilitate development of a productive economic base and greater attainment of basic human needs objectives over the longer term; and
   - **(5)** United States representatives to the Fund and the Bank shall request the Fund and the Bank to provide periodic analyses of the effects of economic adjustment programs supported by Fund or Bank financing on jobs, investment, real income per capita, income distribution, and social programs such as health, housing, and education.
+
+## Source Credit
+
+*(July 31, 1945, ch. 339, § 33, as added [Pub. L. 96–389, § 2(a)](https://www.govinfo.gov/link/plaw/96/public/389), Oct. 7, 1980, [94 Stat. 1551](https://www.govinfo.gov/link/statute/94/1551); amended [Pub. L. 101–240, title V, § 541(d)(1)](https://www.govinfo.gov/link/plaw/101/public/240), Dec. 19, 1989, [103 Stat. 2518](https://www.govinfo.gov/link/statute/103/2518).)*

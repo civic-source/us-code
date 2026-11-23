@@ -3,9 +3,10 @@ title: "Section 11113 - Treatment of abandoned seafarers"
 usc_title: 46
 usc_section: "11113"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 11113"
-generated_at: "2026-03-30T02:56:15.555Z"
+generated_at: "2026-11-23T21:26:37.123Z"
+status: "active"
 ---
 
 # § 11113. Treatment of abandoned seafarers
@@ -61,3 +62,47 @@ generated_at: "2026-03-30T02:56:15.555Z"
   - **(5)** The term “vessel subject to the jurisdiction of the United States” has the meaning given that term in section 70502(c), except that it does not include a vessel that is—
     - **(A)** owned, or operated under a bareboat charter, by the United States, a State or political subdivision thereof, or a foreign nation; and
     - **(B)** not engaged in commerce.
+
+Abandoned Seafarers Fund.—
+
+Establishment
+
+Authorized uses
+
+Crediting of amounts to fund.—
+
+In general
+
+Limitation
+
+Report required
+
+No report required
+
+Limitation
+
+Reimbursement; Recovery.—
+
+In general
+
+Enforcement
+
+Obtaining clearance
+
+Notification required
+
+Definitions
+
+Abandons; abandoned
+
+Fund
+
+Necessary support
+
+Seafarer
+
+Vessel subject to the jurisdiction of the united states
+
+## Source Credit
+
+*(Added [Pub. L. 113–281, title III, § 320(a)](https://www.govinfo.gov/link/plaw/113/public/281), Dec. 18, 2014, [128 Stat. 3051](https://www.govinfo.gov/link/statute/128/3051); amended [Pub. L. 114–120, title III, § 306(a)(7)](https://www.govinfo.gov/link/plaw/114/public/120), Feb. 8, 2016, [130 Stat. 54](https://www.govinfo.gov/link/statute/130/54); [Pub. L. 115–232, div. C, title XXXV, § 3546(i)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2326](https://www.govinfo.gov/link/statute/132/2326); [Pub. L. 116–283, div. G, title LVXXXII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXII], § 8240(d), Jan. 1, 2021, [134 Stat. 4667](https://www.govinfo.gov/link/statute/134/4667).)*

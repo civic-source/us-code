@@ -3,9 +3,10 @@ title: "Section 410ddd - New Bedford Whaling National Historical Park"
 usc_title: 16
 usc_section: "410ddd"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410ddd"
-generated_at: "2026-03-30T02:54:22.777Z"
+generated_at: "2026-11-23T21:25:51.471Z"
+status: "active"
 ---
 
 # § 410ddd. New Bedford Whaling National Historical Park
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:54:22.777Z"
     - **(A)** not more than $5,000,000 may be appropriated for construction, restoration, and rehabilitation of visitor and interpretive facilities, and directional and visitor orientation signage;
     - **(B)** none of the funds authorized to be appropriated by this section may be used for the operation or maintenance of the Schooner Ernestina; and
     - **(C)** not more than $50,000 annually of Federal funds may be used for interpretive and education programs for the Schooner Ernestina pursuant to cooperative agreements under subsection (e)(2).
+
+## Source Credit
+
+*([Pub. L. 104–333, div. I, title V, § 511](https://www.govinfo.gov/link/plaw/104/public/333), Nov. 12, 1996, [110 Stat. 4159](https://www.govinfo.gov/link/statute/110/4159); [Pub. L. 106–176, title I, § 111(a)](https://www.govinfo.gov/link/plaw/106/public/176), Mar. 10, 2000, [114 Stat. 26](https://www.govinfo.gov/link/statute/114/26); [Pub. L. 108–7, div. F, title I, § 154](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 246](https://www.govinfo.gov/link/statute/117/246).)*

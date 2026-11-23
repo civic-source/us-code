@@ -3,12 +3,17 @@ title: "Section 1425 - Producer rights and liabilities"
 usc_title: 7
 usc_section: "1425"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1425"
-generated_at: "2026-03-30T02:53:42.311Z"
+generated_at: "2026-11-23T21:25:28.062Z"
+status: "active"
 ---
 
 # § 1425. Producer rights and liabilities
 
 - **(a)** Except as otherwise provided in section 1425a of this title , no producer shall be personally liable for any deficiency arising from the sale of the collateral securing any loan made under authority of this Act unless such loan was obtained through fraudulent representations by the producer. This provision shall not, however, be construed to prevent the Commodity Credit Corporation or the Secretary from requiring producers to assume liability for deficiencies in the grade, quality, or quantity of commodities stored on the farm or delivered by them, for failure properly to care for and preserve commodities, or for failure or refusal to deliver commodities in accordance with the requirements of the program. There is authorized to be included in the terms and conditions of any such nonrecourse loan a provision whereby on and after the maturity of the loan or any extension thereof Commodity Credit Corporation shall have the right to acquire title to the unredeemed collateral without obligation to pay for any market value which such collateral may have in excess of the loan indebtedness.
 - **(b)** The security interests obtained by the Commodity Credit Corporation as a result of the execution of security agreements by the processors of sugarcane and sugar beets shall be superior to all statutory and common law liens on raw cane sugar and refined beet sugar in favor of the producers of sugarcane and sugar beets and all prior recorded and unrecorded liens on the crops of sugarcane and sugar beets from which the sugar was derived. The preceding sentence shall not affect the application of section 1421(e)(2) of this title .
+
+## Source Credit
+
+*(Oct. 31, 1949, ch. 792, title IV, § 405, [63 Stat. 1054](https://www.govinfo.gov/link/statute/63/1054); [Pub. L. 85–835, title V, § 502](https://www.govinfo.gov/link/plaw/85/public/835), Aug. 28, 1958, [72 Stat. 996](https://www.govinfo.gov/link/statute/72/996); [Pub. L. 99–198, title X, § 1004](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1447](https://www.govinfo.gov/link/statute/99/1447); [Pub. L. 100–460, title VI, § 634(a)](https://www.govinfo.gov/link/plaw/100/public/460), Oct. 1, 1988, [102 Stat. 2263](https://www.govinfo.gov/link/statute/102/2263); [Pub. L. 102–237, title I, § 111(b)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1830](https://www.govinfo.gov/link/statute/105/1830).)*

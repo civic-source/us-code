@@ -3,9 +3,10 @@ title: "Section 3334m - Additional responsibilities of Director of National Inte
 usc_title: 50
 usc_section: "3334m"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3334m"
-generated_at: "2026-03-30T02:56:26.245Z"
+generated_at: "2026-11-23T21:26:39.036Z"
+status: "active"
 ---
 
 # § 3334m. Additional responsibilities of Director of National Intelligence for artificial intelligence policies, standards, and guidance for the intelligence community
@@ -35,3 +36,33 @@ generated_at: "2026-03-30T02:56:26.245Z"
   - **(1)** The Chief Artificial Intelligence Officer of the Intelligence Community, or any officer designated by the Director of National Intelligence, shall establish standards for testing of artificial intelligence models in proportion to risk, including benchmarks and methodologies for the performance, efficacy, safety, fairness, transparency, accountability, appropriateness, lawfulness, and trustworthiness of artificial intelligence models across common use cases, including machine translation, object detection, and object recognition.
   - **(2)** The Chief Artificial Intelligence Officer of the Intelligence Community, in coordination with the Chief Artificial Intelligence Officers of the elements of the intelligence community, shall set standards for an appropriate secure computing environment, at a level (or multiple levels) of classification deemed appropriate, for elements of the intelligence community to engage in testing and evaluation of models prior to acquisition.
 - **(e)** Each head of an element of the intelligence community, in coordination with the Director of National Intelligence, shall identify a senior official within the element to serve as the designated Chief Artificial Intelligence Officer, with lead responsibility for overseeing and coordinating efforts relating to artificial intelligence, including through the integration of the acquisition, technology, human capital, and financial management aspects necessary for the adoption of artificial intelligence solutions. Such designated Chief Artificial Intelligence Officers shall meet regularly to consult and coordinate with the Director of National Intelligence regarding the implementation of this section and this title. 1 1 See References in Text note below.
+
+“Nothing in subsection (c) or (d) of section 6702 of the Intelligence Authorization Act for Fiscal Year 2023 ( 50 U.S.C. 3334m ), as added by subsection (a)(3) of this section, shall be construed—
+
+Chief Artificial Intelligence Officers for Elements of the Intelligence Community
+
+Identification of Commonly Used Artificial Intelligence Systems and Functions That Can Be Re-used by Other Elements
+
+Sharing of Identified Applications and Functions
+
+Model Contract Terms
+
+Tracking and Evaluating Performance
+
+Prohibition
+
+Applicability of Information Security Requirements
+
+National Security and Research Exceptions
+
+Initial Standards and Guidelines
+
+Definitions
+
+Covered application
+
+National security system
+
+## Source Credit
+
+*([Pub. L. 117–263, div. F, title LXVII, § 6702](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3561](https://www.govinfo.gov/link/statute/136/3561); [Pub. L. 118–31, div. G, title V, § 7513(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1095](https://www.govinfo.gov/link/statute/137/1095); [Pub. L. 119–60, div. F, title LXVI](https://www.govinfo.gov/link/plaw/119/public/60), §§ 6602(a), 6603(a), Dec. 18, 2025, [139 Stat. 1634](https://www.govinfo.gov/link/statute/139/1634), 1635.)*

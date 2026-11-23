@@ -3,9 +3,10 @@ title: "Section 4573 - Commission recommendations and report"
 usc_title: 19
 usc_section: "4573"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4573"
-generated_at: "2026-03-30T02:54:24.713Z"
+generated_at: "2026-11-23T21:25:42.893Z"
+status: "active"
 ---
 
 # § 4573. Commission recommendations and report
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:24.713Z"
 - **(d)** Upon submitting a report to the President under subsection (c), the Commission shall—
   - **(1)** promptly make public the report (with the exception of information which the Commission determines to be confidential business information); and
   - **(2)** publish a summary of the report in the Federal Register.
+
+## Source Credit
+
+*([Pub. L. 116–113, title III, § 323](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 57](https://www.govinfo.gov/link/statute/134/57).)*

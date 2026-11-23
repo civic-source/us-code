@@ -3,9 +3,10 @@ title: "Section 5733 - Provisions relating to liability for occupational taxes"
 usc_title: 26
 usc_section: "5733"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5733"
-generated_at: "2026-03-30T02:55:27.826Z"
+generated_at: "2026-11-23T21:26:06.742Z"
+status: "active"
 ---
 
 # § 5733. Provisions relating to liability for occupational taxes
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:27.826Z"
   - **(3)** a receiver or trustee in bankruptcy, or an assignee for benefit of creditors; and
   - **(4)** the partner or partners remaining after death or withdrawal of a member of a partnership.
 - **(e)** Any tax imposed by this subchapter shall apply to any agency or instrumentality of the United States unless such agency or instrumentality is granted by statute a specific exemption from such tax.
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1347](https://www.govinfo.gov/link/statute/72/1347), § 5143; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); renumbered § 5733 and amended [Pub. L. 109–59, title XI, § 11125(b)(20)(A)](https://www.govinfo.gov/link/plaw/109/public/59), (C), Aug. 10, 2005, [119 Stat. 1956](https://www.govinfo.gov/link/statute/119/1956), 1957.)*

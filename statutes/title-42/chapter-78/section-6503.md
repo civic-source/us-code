@@ -3,9 +3,10 @@ title: "Section 6503 - Transfer of jurisdiction, duties, property, etc., to Secr
 usc_title: 42
 usc_section: "6503"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6503"
-generated_at: "2026-03-30T02:56:11.262Z"
+generated_at: "2026-11-23T21:26:32.958Z"
+status: "active"
 ---
 
 # § 6503. Transfer of jurisdiction, duties, property, etc., to Secretary of the Interior from Secretary of Navy
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.262Z"
 - **(c)** The Secretary of the Interior shall, upon the effective date of the transfer of the reserve, assume the responsibilities and functions of the Secretary of the Navy under any contracts which may be in effect with respect to activities within the reserve.
 - **(d)** On the date of transfer of jurisdiction of the reserve, all equipment, facilities, and other property of the Department of the Navy used in connection with the operation of the reserve, including all records, maps, exhibits, and other informational data held by the Secretary of the Navy in connection with the reserve, shall be transferred without reimbursement from the Secretary of the Navy to the Secretary of the Interior who shall thereafter be authorized to use them to carry out the provisions of this chapter.
 - **(e)** On the date of transfer of jurisdiction of the reserve, the Secretary of the Navy shall transfer to the Secretary of the Interior all unexpended funds previously appropriated for use in connection with the reserve and all civilian personnel ceilings assigned by the Secretary of the Navy to the management and operation of the reserve as of January 1, 1976 .
+
+## Source Credit
+
+*([Pub. L. 94–258, title I, § 103](https://www.govinfo.gov/link/plaw/94/public/258), Apr. 5, 1976, [90 Stat. 303](https://www.govinfo.gov/link/statute/90/303).)*

@@ -3,9 +3,10 @@ title: "Section 16503 - Sugar ethanol loan guarantee program"
 usc_title: 42
 usc_section: "16503"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16503"
-generated_at: "2026-03-30T02:56:11.487Z"
+generated_at: "2026-11-23T21:26:33.745Z"
+status: "active"
 ---
 
 # § 16503. Sugar ethanol loan guarantee program
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.487Z"
       - **(i)** up to 80 percent of the excess of actual project costs; but
       - **(ii)** not to exceed 15 percent of the amount of the original loan guarantee.
     - **(B)** Subject to subparagraph (A), the Secretary shall guarantee 100 percent of the principal and interest of a loan guarantee made under subparagraph (A).
+
+## Source Credit
+
+*([Pub. L. 109–58, title XV, § 1516](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1091](https://www.govinfo.gov/link/statute/119/1091).)*

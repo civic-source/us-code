@@ -3,9 +3,10 @@ title: "Section 184 - Civilian Protection Center of Excellence"
 usc_title: 10
 usc_section: "184"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 184"
-generated_at: "2026-03-30T02:53:38.045Z"
+generated_at: "2026-11-23T21:25:32.235Z"
+status: "active"
 ---
 
 # § 184. Civilian Protection Center of Excellence
@@ -24,3 +25,13 @@ generated_at: "2026-03-30T02:53:38.045Z"
   - **(8)** engage with nongovernmental organizations and civilian casualty experts; and
   - **(9)** perform such other functions as the Secretary of Defense may specify.
 - **(c)** The Secretary of Defense shall submit to the congressional defense committees, and make publicly available on an appropriate website of the Department, an annual report on the activities of the Center.
+
+Establishment
+
+Purpose
+
+Annual Report
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. A, title X, § 1082(a)(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2799](https://www.govinfo.gov/link/statute/136/2799).)*

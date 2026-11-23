@@ -3,9 +3,10 @@ title: "Section 7628 - Demonstration grant program for local governments"
 usc_title: 42
 usc_section: "7628"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7628"
-generated_at: "2026-03-30T02:56:11.320Z"
+generated_at: "2026-11-23T21:26:33.140Z"
+status: "active"
 ---
 
 # § 7628. Demonstration grant program for local governments
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.320Z"
   - **(2)** The Administrator shall issue a final report at the conclusion of the program, including findings, a summary of total cost savings achieved, and recommendations for further action.
 - **(f)** The program under this section shall terminate on September 30, 2012 .
 - **(g)** In this section, the terms “cost-effective technologies and practices” and “operating 1 1 So in original. Probably should be “operational”. cost savings” shall have the meanings defined in section 17061 of this title .
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title III, § 329, as added [Pub. L. 110–140, title IV, § 493](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1652](https://www.govinfo.gov/link/statute/121/1652).)*

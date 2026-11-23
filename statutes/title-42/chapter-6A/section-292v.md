@@ -3,9 +3,10 @@ title: "Section 292v - Provision by schools of information to students"
 usc_title: 42
 usc_section: "292v"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 292v"
-generated_at: "2026-03-30T02:56:10.774Z"
+generated_at: "2026-11-23T21:26:30.623Z"
+status: "active"
 ---
 
 # § 292v. Provision by schools of information to students
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:10.774Z"
   - **(1)** each amount borrowed by the student under this subpart;
   - **(2)** the total amount borrowed by the student under this subpart; and
   - **(3)** a schedule for the repayment of the amounts borrowed under this subpart, including the number, amount, and frequency of payments to be made.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 726, as added [Pub. L. 102–408, title I, § 102](https://www.govinfo.gov/link/plaw/102/public/408), Oct. 13, 1992, [106 Stat. 2020](https://www.govinfo.gov/link/statute/106/2020).)*

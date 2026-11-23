@@ -3,9 +3,10 @@ title: "Section 2305 - National Security Assistance Strategy"
 usc_title: 22
 usc_section: "2305"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2305"
-generated_at: "2026-03-30T02:55:05.356Z"
+generated_at: "2026-11-23T21:25:58.462Z"
+status: "active"
 ---
 
 # § 2305. National Security Assistance Strategy
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.356Z"
   - **(1)** section 23 of the Arms Export Control Act ( 22 U.S.C. 2763 );
   - **(2)** chapter 5 of part II of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2347 et seq.); and
   - **(3)** section 516 of the Foreign Assistance Act of 1961 [ 22 U.S.C. 2321j ].
+
+## Source Credit
+
+*([Pub. L. 106–280, title V, § 501](https://www.govinfo.gov/link/plaw/106/public/280), Oct. 6, 2000, [114 Stat. 854](https://www.govinfo.gov/link/statute/114/854).)*

@@ -3,12 +3,17 @@ title: "Section 1508 - Application to District of Columbia"
 usc_title: 48
 usc_section: "1508"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1508"
-generated_at: "2026-03-30T02:56:14.587Z"
+generated_at: "2026-11-23T21:26:38.008Z"
+status: "active"
 ---
 
 # § 1508. Application to District of Columbia
 
 Aliens shall have the same rights and privileges concerning the acquisition, holding, owning, and disposition of real estate in the District of Columbia as are conferred upon aliens in respect of real estate in the Territories of the United States by this chapter.
 
+
+## Source Credit
+
+*(Feb. 23, 1905, ch. 733, § 1, [33 Stat. 733](https://www.govinfo.gov/link/statute/33/733).)*

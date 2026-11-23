@@ -3,9 +3,10 @@ title: "Section 8008 - Definitions"
 usc_title: 22
 usc_section: "8008"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8008"
-generated_at: "2026-03-30T02:55:05.448Z"
+generated_at: "2026-11-23T21:25:58.733Z"
+status: "active"
 ---
 
 # § 8008. Definitions
@@ -33,3 +34,7 @@ In this chapter:
   - **(16)** The term “unsafeguarded nuclear fuel-cycle activity” means research on, or development, design, manufacture, construction, operation, or maintenance of—
     - **(A)** any existing or future reactor, critical facility, conversion plant, fabrication plant, reprocessing plant, plant for the separation of isotopes of source or special fissionable material, or separate storage installation with respect to which there is no obligation to accept IAEA safeguards at the relevant reactor, facility, plant, or installation that contains source or special fissionable material; or
     - **(B)** any existing or future heavy water production plant with respect to which there is no obligation to accept IAEA safeguards on any nuclear material produced by or used in connection with any heavy water produced therefrom.
+
+## Source Credit
+
+*([Pub. L. 109–401, title I, § 110](https://www.govinfo.gov/link/plaw/109/public/401), Dec. 18, 2006, [120 Stat. 2739](https://www.govinfo.gov/link/statute/120/2739).)*

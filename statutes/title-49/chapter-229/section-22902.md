@@ -3,9 +3,10 @@ title: "Section 22902 - Capital investment grants to support intercity passenger
 usc_title: 49
 usc_section: "22902"
 chapter: 229
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 22902"
-generated_at: "2026-03-30T02:56:19.341Z"
+generated_at: "2026-11-23T21:26:40.725Z"
+status: "active"
 ---
 
 # § 22902. Capital investment grants to support intercity passenger rail service
@@ -92,3 +93,41 @@ generated_at: "2026-03-30T02:56:19.341Z"
   - **(2)** The Secretary may allow a grantee subject to this subsection to engage in at-risk work activities subsequent to the conclusion of final design if the Secretary determines that such work activities are reasonable and necessary.
 - **(k)** The Secretary shall make not less than 5 percent annually available from the amounts authorized under section 101(c) of the Passenger Rail Investment and Improvement Act of 2008 beginning in fiscal year 2009 for grants for capital projects eligible under this section not exceeding $2,000,000, including costs eligible under section 209(d) 1 of that Act. For grants awarded under this subsection, the Secretary may waive requirements of this section, including State rail plan requirements, as appropriate.
 - **(l)** Grants under this chapter may be used to provide access to rolling stock for nonmotorized transportation, including bicycles, and recreational equipment, and to provide storage capacity in trains for such transportation, equipment, and other luggage, to ensure passenger safety.
+
+General Authority.—
+
+Project as Part of State Rail Plan.—
+
+Project Selection Criteria
+
+State Rail Plans
+
+Amtrak Eligibility
+
+Letters of Intent and Early Systems Work Agreements.—
+
+Federal Share of Net Project Cost.—
+
+Year Availability
+
+Cooperative Agreements.—
+
+In general
+
+Forms of participation
+
+Suballocation
+
+Large Capital Project Requirements.—
+
+In general
+
+Early work
+
+Small Capital Projects
+
+Nonmotorized Transportation Access and Storage
+
+## Source Credit
+
+*(Added [Pub. L. 110–432, div. B, title III, § 301(a)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4936](https://www.govinfo.gov/link/statute/122/4936), § 24402; amended [Pub. L. 114–94, div. A, title XI](https://www.govinfo.gov/link/plaw/114/public/94), §§ 11303(b)(1)(C), 11309, Dec. 4, 2015, [129 Stat. 1654](https://www.govinfo.gov/link/statute/129/1654), 1669; renumbered § 22902 and amended [Pub. L. 115–420, § 7(a)(1)](https://www.govinfo.gov/link/plaw/115/public/420), (b)(1)(A), Jan. 3, 2019, [132 Stat. 5445](https://www.govinfo.gov/link/statute/132/5445), 5446.)*

@@ -3,9 +3,10 @@ title: "Section 9532 - Rule of construction"
 usc_title: 22
 usc_section: "9532"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9532"
-generated_at: "2026-03-30T02:55:05.467Z"
+generated_at: "2026-11-23T21:25:58.777Z"
+status: "active"
 ---
 
 # § 9532. Rule of construction
@@ -14,3 +15,7 @@ Nothing in this part or the amendments made by this part shall be construed—
 
   - **(1)** to supersede the limitations or exceptions on the use of rocket engines for national security purposes under section 1608 of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015 ( Public Law 113–291 ; 128 Stat. 3626 ; 10 U.S.C. 2271 note), as amended by section 1607 of the National Defense Authorization Act for Fiscal Year 2016 ( Public Law 114–92 ; 129 Stat. 1100 ) and section 1602 of the National Defense Authorization Act for Fiscal Year 2017 ( Public Law 114–328 ; 130 Stat. 2582 ); or
   - **(2)** to prohibit a contractor or subcontractor of the Department of Defense from acquiring components referred to in such section 1608.
+
+## Source Credit
+
+*([Pub. L. 115–44, title II, § 238](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 922](https://www.govinfo.gov/link/statute/131/922).)*

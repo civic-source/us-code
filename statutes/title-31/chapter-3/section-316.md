@@ -3,9 +3,10 @@ title: "Section 316 - Treasury Attaché Program"
 usc_title: 31
 usc_section: "316"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 316"
-generated_at: "2026-03-30T02:55:34.045Z"
+generated_at: "2026-11-23T21:26:10.519Z"
+status: "active"
 ---
 
 # § 316. Treasury Attaché Program
@@ -25,3 +26,21 @@ generated_at: "2026-03-30T02:55:34.045Z"
     - **(A)** the rate of compensation, including allowances, provided to a Foreign Service officer serving at the same embassy; and
     - **(B)** the rate of compensation, including allowances, the Treasury Financial Attaché would otherwise have received, absent the application of this subsection.
   - **(2)** The compensation described in paragraph (1) shall be phased in over 2 years.
+
+In General
+
+Number of Attachés.—
+
+In general
+
+Additional posts
+
+Compensation.—
+
+In general
+
+Phase in
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. F, title LXI, § 6106(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4556](https://www.govinfo.gov/link/statute/134/4556).)*

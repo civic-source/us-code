@@ -3,9 +3,10 @@ title: "Section 2373 - Transfer to governmental or other legal entity; determina
 usc_title: 42
 usc_section: "2373"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2373"
-generated_at: "2026-03-30T02:56:11.165Z"
+generated_at: "2026-11-23T21:26:32.418Z"
+status: "active"
 ---
 
 # § 2373. Transfer to governmental or other legal entity; determination of transferee
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.165Z"
   - **(3)** the probable price of the sale of the utility, the ability of the transferee to pay that price, and any probable expense;
   - **(4)** the desires of the eligible voters of the community as directly expressed in any vote in any officially recognized procedure or in any procedure established by the Commission; and
   - **(5)** the benefit to the United States in reducing possible requirements for local assistance as authorized in subchapters VII and VIII of this chapter.
+
+## Source Credit
+
+*(Aug. 4, 1955, ch. 543, ch. 7, § 73, [69 Stat. 480](https://www.govinfo.gov/link/statute/69/480).)*

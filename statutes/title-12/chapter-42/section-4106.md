@@ -3,9 +3,10 @@ title: "Section 4106 - Information from Secretary"
 usc_title: 12
 usc_section: "4106"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4106"
-generated_at: "2026-03-30T02:53:53.500Z"
+generated_at: "2026-11-23T21:25:37.161Z"
+status: "active"
 ---
 
 # § 4106. Information from Secretary
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:53.500Z"
   - **(1)** Each owner of eligible low-income housing that elects to transfer housing under section 4110 of this title shall submit to the Secretary, in such form and manner as the Secretary prescribes, notice of intent to sell the housing under section 4110 of this title . To be eligible to prepay the mortgage or voluntarily terminate the insurance contract on the mortgage, an owner of housing for which the preservation rents exceed the Federal cost limits under section 4105(b) of this title shall submit to the Secretary notice of such intent. The provisions of sections 4111 and 4113 of this title shall apply to any owner submitting a notice under the preceding sentence.
   - **(2)** A second notice of intent under this subsection shall be submitted not later than 30 days after receipt of information from the Secretary under this section. If an owner fails to submit such notice within such period, the notice of intent submitted by the owner under section 4102 of this title shall be void and ineffective for purposes of this subchapter.
   - **(3)** Upon filing a second notice of intent under this subsection, the owner shall simultaneously file such notice of the intent with the chief executive officer of the appropriate State or local government for the jurisdiction within which the housing is located and with the mortgagee, and shall inform the tenants of the housing of the filing.
+
+## Source Credit
+
+*([Pub. L. 100–242, title II, § 216](https://www.govinfo.gov/link/plaw/100/public/242), as added [Pub. L. 101–625, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4253](https://www.govinfo.gov/link/statute/104/4253); amended [Pub. L. 102–550, title III](https://www.govinfo.gov/link/plaw/102/public/550), §§ 303, 317(a)(2), Oct. 28, 1992, [106 Stat. 3763](https://www.govinfo.gov/link/statute/106/3763), 3772.)*

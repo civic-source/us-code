@@ -3,9 +3,10 @@ title: "Section 460aaaa - Nellis Dunes Off-Highway Vehicle Recreation Area"
 usc_title: 16
 usc_section: "460aaaa"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 460aaaa"
-generated_at: "2026-03-30T02:54:22.850Z"
+generated_at: "2026-11-23T21:25:51.632Z"
+status: "active"
 ---
 
 # § 460aaaa. Nellis Dunes Off-Highway Vehicle Recreation Area
@@ -42,3 +43,13 @@ generated_at: "2026-03-30T02:54:22.850Z"
   - **(3)**
     - **(A)** The approximately 10,035 acres of land identified on the Map as the “Nellis Dunes OHV Recreation Area” shall be known and designated as the “Nellis Dunes Off-Highway Vehicle Recreation Area”.
     - **(B)** The Secretary may develop a special management plan for the Nellis Dunes Off-Highway Recreation Area to enhance the safe use of off-highway vehicles for recreational purposes.
+
+(aa) to provide a suitable location for the establishment of a centralized off-road vehicle recreation park in the County;
+
+(bb) to provide the public with opportunities for off-road vehicle recreation, including a location for races, competitive events, training and other commercial services that directly support a centralized off-road vehicle recreation area and County park;
+
+(cc) to provide a designated area and facilities that would discourage unauthorized use of off-highway vehicles in areas that have been identified by the Federal Government, State government, or County government as containing environmentally sensitive land; and
+
+## Source Credit
+
+*([Pub. L. 113–291, div. B, title XXX, § 3092(j)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3876](https://www.govinfo.gov/link/statute/128/3876).)*

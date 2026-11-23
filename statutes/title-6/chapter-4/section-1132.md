@@ -3,9 +3,10 @@ title: "Section 1132 - Findings"
 usc_title: 6
 usc_section: "1132"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1132"
-generated_at: "2026-03-30T02:53:09.504Z"
+generated_at: "2026-11-23T21:25:25.865Z"
+status: "active"
 ---
 
 # § 1132. Findings
@@ -18,3 +19,7 @@ Congress finds that—
   - **(4)** the Federal Transit Administration has invested $93,800,000,000 since 1992 for construction and improvements;
   - **(5)** the Federal investment in transit security has been insufficient; and
   - **(6)** greater Federal investment in transit security improvements per passenger boarding is necessary to better protect the American people, given transit’s vital importance in creating mobility and promoting our Nation’s economy.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XIV, § 1403](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 401](https://www.govinfo.gov/link/statute/121/401).)*

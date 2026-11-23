@@ -3,9 +3,10 @@ title: "Section 2241 - Definitions"
 usc_title: 33
 usc_section: "2241"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2241"
-generated_at: "2026-03-30T02:55:41.116Z"
+generated_at: "2026-11-23T21:26:11.429Z"
+status: "active"
 ---
 
 # § 2241. Definitions
@@ -33,3 +34,7 @@ For purposes of this subchapter—
   - **(6)** The term “nominal depth” means, in relation to the stated depth for any navigation improvement project, such depth, including any greater depths which must be maintained for any harbor or inland harbor or element thereof included within such project in order to ensure the safe passage at mean low tide of any vessel requiring the stated depth.
   - **(7)** The term “non-Federal interest” has the meaning such term has under section 1962d–5b of title 42 and includes any interstate agency and port authority established under a compact entered into between two or more States with the consent of Congress under section 10 of Article I of the Constitution.
   - **(8)** The term “United States” means all areas included within the territorial boundaries of the United States, including the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Northern Mariana Islands, and any other territory or possession over which the United States exercises jurisdiction.
+
+## Source Credit
+
+*([Pub. L. 99–662, title II, § 214](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4108](https://www.govinfo.gov/link/statute/100/4108); [Pub. L. 104–303, title II, § 201(e)](https://www.govinfo.gov/link/plaw/104/public/303), Oct. 12, 1996, [110 Stat. 3672](https://www.govinfo.gov/link/statute/110/3672); [Pub. L. 116–260, div. AA, title V, § 512(c)(5)(C)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2756](https://www.govinfo.gov/link/statute/134/2756).)*

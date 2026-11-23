@@ -3,9 +3,10 @@ title: "Section 3632 - Action of the Governors"
 usc_title: 39
 usc_section: "3632"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 3632"
-generated_at: "2026-03-30T02:55:43.694Z"
+generated_at: "2026-11-23T21:26:12.788Z"
+status: "active"
 ---
 
 # § 3632. Action of the Governors
@@ -17,3 +18,21 @@ generated_at: "2026-03-30T02:55:43.694Z"
   - **(3)** In the case of rates or classes not of general applicability in the Nation as a whole or in any substantial region of the Nation, the Governors shall cause each rate and class decision under this section and the record of the proceedings in connection with such decision to be filed with the Postal Regulatory Commission by such date before the effective date of any new rates or classes as the Governors consider appropriate, but in no case less than 15 days.
   - **(4)** As part of the regulations required under section 3633, the Postal Regulatory Commission shall establish criteria for determining when a rate or class established under this subchapter is or is not of general applicability in the Nation as a whole or in any substantial region of the Nation.
 - **(c)** Until regulations under section 3633 first take effect, rates and classes for competitive products shall remain subject to modification in accordance with the provisions of this chapter and section 407, as such provisions were as last in effect before the date of enactment of this section.
+
+Authority To Establish Rates and Classes
+
+Procedures.—
+
+In general
+
+Rates or classes of general applicability
+
+Rates or classes not of general applicability
+
+Criteria
+
+Transition Rule
+
+## Source Credit
+
+*(Added [Pub. L. 109–435, title II, § 202](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3206](https://www.govinfo.gov/link/statute/120/3206).)*

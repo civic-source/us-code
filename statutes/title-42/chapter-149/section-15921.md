@@ -3,9 +3,10 @@ title: "Section 15921 - Management of Federal oil and gas leasing programs"
 usc_title: 42
 usc_section: "15921"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15921"
-generated_at: "2026-03-30T02:56:11.464Z"
+generated_at: "2026-11-23T21:26:33.685Z"
+status: "active"
 ---
 
 # § 15921. Management of Federal oil and gas leasing programs
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:11.464Z"
     - **(B)** $20,000,000 to carry out subsection (c);
   - **(2)** to the Secretary, acting through the Director of the United States Fish and Wildlife Service, $5,000,000 to carry out subsection (a)(1); and
   - **(3)** to the Secretary of Agriculture, acting through the Chief of the Forest Service, $5,000,000 to carry out subsections (a)(2) and (c).
+
+## Source Credit
+
+*([Pub. L. 109–58, title III, § 362](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 721](https://www.govinfo.gov/link/statute/119/721).)*

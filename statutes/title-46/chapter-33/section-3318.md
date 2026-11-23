@@ -3,9 +3,10 @@ title: "Section 3318 - Penalties"
 usc_title: 46
 usc_section: "3318"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 3318"
-generated_at: "2026-03-30T02:56:15.543Z"
+generated_at: "2026-11-23T21:26:37.048Z"
+status: "active"
 ---
 
 # § 3318. Penalties
@@ -39,3 +40,16 @@ generated_at: "2026-03-30T02:56:15.543Z"
     - **(C)** the Secretary believes that unforeseen circumstances exist so that it is not feasible to conduct a scheduled inspection before the expiration of the certificate of inspection.
 - **(k)** The owner, charterer, managing operator, agent, master, or individual in charge of a vessel failing to comply with a direction issued by the Secretary under section 3311(b) of this title is liable to the Government for a civil penalty of not more than $10,000 for each day during which the violation occurs. The vessel also is liable in rem for the penalty.
 - **(l)** A person committing an act described by subsections (b)–(f) of this section is liable to the Government for a civil penalty of not more than $5,000. If the violation involves the operation of a vessel, the vessel also is liable in rem for the penalty.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 3318 | 46:369(e) 46:390d 46:398 46:403 46:407 46:408 46:410 46:413 46:436 46:481(d) 46:1295f(d)(2), (3) |
+
+
+Historical and Revision Notes
+
+3318
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 517](https://www.govinfo.gov/link/statute/97/517); [Pub. L. 98–498, title II, § 211(c)](https://www.govinfo.gov/link/plaw/98/public/498), Oct. 19, 1984, [98 Stat. 2304](https://www.govinfo.gov/link/statute/98/2304); [Pub. L. 99–307, § 1(6)](https://www.govinfo.gov/link/plaw/99/public/307), May 19, 1986, [100 Stat. 445](https://www.govinfo.gov/link/statute/100/445); [Pub. L. 101–380, title IV, § 4302(b)](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 538](https://www.govinfo.gov/link/statute/104/538); [Pub. L. 104–324, title III, § 310](https://www.govinfo.gov/link/plaw/104/public/324), title VII, § 713, Oct. 19, 1996, [110 Stat. 3919](https://www.govinfo.gov/link/statute/110/3919), 3936; [Pub. L. 109–304, § 15(13)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1703](https://www.govinfo.gov/link/statute/120/1703).)*

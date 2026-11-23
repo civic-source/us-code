@@ -3,9 +3,10 @@ title: "Section 1465e - Compensation for Cuban interference with broadcasting in
 usc_title: 22
 usc_section: "1465e"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1465e"
-generated_at: "2026-03-30T02:55:05.332Z"
+generated_at: "2026-11-23T21:25:58.398Z"
+status: "active"
 ---
 
 # § 1465e. Compensation for Cuban interference with broadcasting in United States
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.332Z"
 - **(e)** Funds appropriated for implementation of this section shall be available for a period of no more than four years following the initial broadcast occurring as a result of programs described in this subchapter.
 - **(f)** It is the sense of the Congress that the President should establish a task force to analyze the level of interference from the operation of Cuban radio stations experienced by broadcasters in the United States and to seek a practical political and technical solution to this problem.
 - **(g)** This section shall enter into effect on October 1, 1984 .
+
+## Source Credit
+
+*([Pub. L. 98–111, § 7](https://www.govinfo.gov/link/plaw/98/public/111), Oct. 4, 1983, [97 Stat. 752](https://www.govinfo.gov/link/statute/97/752); [Pub. L. 98–411, title V, § 512](https://www.govinfo.gov/link/plaw/98/public/411), Aug. 30, 1984, [98 Stat. 1574](https://www.govinfo.gov/link/statute/98/1574); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XIII, § 1324(2), Oct. 21, 1998, [112 Stat. 2681–781](https://www.govinfo.gov/link/statute/112/2681).)*

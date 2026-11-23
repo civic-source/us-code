@@ -3,12 +3,17 @@ title: "Section 2294 - Office of Environmental Policy"
 usc_title: 33
 usc_section: "2294"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2294"
-generated_at: "2026-03-30T02:55:41.121Z"
+generated_at: "2026-11-23T21:26:11.439Z"
+status: "active"
 ---
 
 # § 2294. Office of Environmental Policy
 
 The Secretary shall establish in the Directorate of Civil Works of the Office of the Chief of Engineers an Office of Environmental Policy. Such Office shall be responsible for the formulation, coordination, and implementation of all matters concerning environmental quality and policy as they relate to the water resources program of the United States Army Corps of Engineers. Such Office shall, among other things, develop, and monitor compliance with, guidelines for the consideration of environmental quality in formulation and planning of water resources projects carried out by the Secretary, the preparation and coordination of environmental impact statements for such projects, and the coordination with Federal, State, and local agencies of environmental aspects of such projects and regulatory responsibilities of the Secretary.
 
+
+## Source Credit
+
+*([Pub. L. 99–662, title IX, § 924](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4194](https://www.govinfo.gov/link/statute/100/4194).)*

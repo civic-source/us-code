@@ -3,9 +3,10 @@ title: "Section 6322 - IAEA internal reforms"
 usc_title: 22
 usc_section: "6322"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6322"
-generated_at: "2026-03-30T02:55:05.427Z"
+generated_at: "2026-11-23T21:25:58.685Z"
+status: "active"
 ---
 
 # § 6322. IAEA internal reforms
@@ -27,3 +28,7 @@ In order to promote the early adoption of reforms in the implementation of the s
   - **(11)** develop with other IAEA member nations an agreement on procedures to expedite approvals of visa applications by IAEA inspectors;
   - **(12)** provide the IAEA the additional funds, technical assistance, and political support necessary to carry out the goals set forth in this subsection; 1 1 So in original. Probably should be “section;”. and
   - **(13)** make public the annual safeguards implementation report of the IAEA, establishing a public registry of commodities in international nuclear commerce, including dual-use goods, and creating a public repository of current nuclear trade control laws, agreements, regulations, and enforcement and judicial actions by IAEA member nations.
+
+## Source Credit
+
+*([Pub. L. 103–236, title VIII, § 842](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 523](https://www.govinfo.gov/link/statute/108/523).)*

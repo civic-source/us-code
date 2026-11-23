@@ -3,9 +3,10 @@ title: "Section 18961 - National Supply Chain Database"
 usc_title: 42
 usc_section: "18961"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18961"
-generated_at: "2026-03-30T02:56:11.534Z"
+generated_at: "2026-11-23T21:26:33.858Z"
+status: "active"
 ---
 
 # § 18961. National Supply Chain Database
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:56:11.534Z"
 - **(l)**
   - **(1)** Nothing in this section may be construed to require any private sector entity to share data, including proprietary information, with the Director or the National Supply Chain Database.
   - **(2)** Nothing in this section may be construed to grant the Director, or the head of any other Federal agency, any authority to promulgate regulations or set standards on manufacturers, based on data within the National Supply Chain Database, that was not in effect on the day before August 9, 2022 .
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title II, § 10253](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1500](https://www.govinfo.gov/link/statute/136/1500).)*

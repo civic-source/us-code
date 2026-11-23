@@ -3,9 +3,10 @@ title: "Section 9831 - Purpose"
 usc_title: 20
 usc_section: "9831"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9831"
-generated_at: "2026-03-30T02:54:48.232Z"
+generated_at: "2026-11-23T21:25:47.678Z"
+status: "active"
 ---
 
 # § 9831. Purpose
@@ -18,3 +19,7 @@ It is the purpose of this part—
     - **(B)** achieve a passing score on an examination administered by the International Baccalaureate Organization in such a subject;
   - **(3)** to increase the availability of, and enrollment in, Advanced Placement or International Baccalaureate courses in mathematics, science, and critical foreign languages, and pre-Advanced Placement or pre-International Baccalaureate courses in such subjects, in high-need schools; and
   - **(4)** to support statewide efforts to increase the availability of, and enrollment in, Advanced Placement or International Baccalaureate courses in mathematics, science, and critical foreign languages, and pre-Advanced Placement or pre-International Baccalaureate courses in such subjects, in high-need schools.
+
+## Source Credit
+
+*([Pub. L. 110–69, title VI, § 6121](https://www.govinfo.gov/link/plaw/110/public/69), Aug. 9, 2007, [121 Stat. 634](https://www.govinfo.gov/link/statute/121/634).)*

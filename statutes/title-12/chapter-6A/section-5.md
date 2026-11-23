@@ -3,9 +3,10 @@ title: "Section 5 - Environmental policy and procedures"
 usc_title: 12
 usc_section: "5"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5"
-generated_at: "2026-03-30T02:53:53.388Z"
+generated_at: "2026-11-23T21:25:36.814Z"
+status: "active"
 ---
 
 # § 635i–5. Environmental policy and procedures
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:53.388Z"
   - **(2)** In addition to other funds available to support the export of goods and services described in paragraph (1), there are authorized to be appropriated to the Bank not more than $35,000,000 for the cost (as defined in section 661a(5) of title 2 ) of supporting such exports. If, in any fiscal year, the funds appropriated in accordance with this paragraph are not fully utilized due to insufficient qualified transactions for the export of such goods and services, such funds may be expended for other purposes eligible for support by the Bank.
 - **(c)** The Bank shall provide in its annual report to the Congress a summary of its activities under subsections (a) and (b).
 - **(d)** Nothing in this section shall be construed to create any cause of action.
+
+## Source Credit
+
+*(July 31, 1945, ch. 341, § 11, formerly § 17, as added and renumbered § 11, [Pub. L. 102–429, title I](https://www.govinfo.gov/link/plaw/102/public/429), §§ 106, 121(c)(5), Oct. 21, 1992, [106 Stat. 2189](https://www.govinfo.gov/link/statute/106/2189), 2199; amended [Pub. L. 103–428, § 2(a)](https://www.govinfo.gov/link/plaw/103/public/428), Oct. 31, 1994, [108 Stat. 4376](https://www.govinfo.gov/link/statute/108/4376); [Pub. L. 109–438, § 18(b)](https://www.govinfo.gov/link/plaw/109/public/438), Dec. 20, 2006, [120 Stat. 3281](https://www.govinfo.gov/link/statute/120/3281); [Pub. L. 114–94, div. E, title LIV, § 54002(d)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1769](https://www.govinfo.gov/link/statute/129/1769).)*

@@ -3,9 +3,10 @@ title: "Section 10305 - Use of observers"
 usc_title: 52
 usc_section: "10305"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 10305"
-generated_at: "2026-03-30T02:56:30.160Z"
+generated_at: "2026-11-23T21:26:42.319Z"
+status: "active"
 ---
 
 # § 10305. Use of observers
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:30.160Z"
   - **(1)** enter and attend at any place for holding an election in such subdivision for the purpose of observing whether persons who are entitled to vote are being permitted to vote; and
   - **(2)** enter and attend at any place for tabulating the votes cast at any election held in such subdivision for the purpose of observing whether votes cast by persons entitled to vote are being properly tabulated.
 - **(e)** Observers shall investigate and report to the Attorney General, and if the appointment of observers has been authorized pursuant to section 10302(a) of this title , to the court.
+
+## Source Credit
+
+*([Pub. L. 89–110, title I, § 8](https://www.govinfo.gov/link/plaw/89/public/110), Aug. 6, 1965, [79 Stat. 441](https://www.govinfo.gov/link/statute/79/441); renumbered title I, [Pub. L. 91–285, § 2](https://www.govinfo.gov/link/plaw/91/public/285), June 22, 1970, [84 Stat. 314](https://www.govinfo.gov/link/statute/84/314); amended [Pub. L. 109–246, § 3(a)](https://www.govinfo.gov/link/plaw/109/public/246), July 27, 2006, [120 Stat. 578](https://www.govinfo.gov/link/statute/120/578).)*

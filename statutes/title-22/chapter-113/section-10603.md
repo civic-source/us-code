@@ -3,9 +3,10 @@ title: "Section 10603 - Governance of the Foundation"
 usc_title: 22
 usc_section: "10603"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10603"
-generated_at: "2026-03-30T02:55:05.478Z"
+generated_at: "2026-11-23T21:25:58.800Z"
+status: "active"
 ---
 
 # § 10603. Governance of the Foundation
@@ -90,3 +91,7 @@ generated_at: "2026-03-30T02:55:05.478Z"
   - **(4)** The Foundation may not provide support to individuals or entities with business, financial, or familial ties to—
     - **(A)** a current member of the Board; or
     - **(B)** a former member of the Board during the 5-year period immediately following the last day of the former member’s term on the Board.
+
+## Source Credit
+
+*([Pub. L. 118–159, div. E, title LI, § 5103](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2412](https://www.govinfo.gov/link/statute/138/2412).)*

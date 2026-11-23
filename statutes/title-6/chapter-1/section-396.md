@@ -3,9 +3,10 @@ title: "Section 396 - Lead system integrator; financial interests"
 usc_title: 6
 usc_section: "396"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 396"
-generated_at: "2026-03-30T02:53:09.463Z"
+generated_at: "2026-11-23T21:25:25.788Z"
+status: "active"
 ---
 
 # § 396. Lead system integrator; financial interests
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:09.463Z"
   - **(2)** the entity was selected by a subcontractor to serve as a lower-tier subcontractor, through a process over which the entity exercised no control.
 - **(c)** Nothing in this section shall be construed to preclude an entity described in subsection (a) from performing work necessary to integrate two or more individual systems or elements of a system of systems with each other.
 - **(d)** Not later than July 1, 2007 , the Secretary of Homeland Security shall update the acquisition regulations of the Department of Homeland Security in order to specify fully in such regulations the matters with respect to lead system integrators set forth in this section. Included in such regulations shall be: (1) a precise and comprehensive definition of the term “lead system integrator”, modeled after that used by the Department of Defense; and (2) a specification of various types of contracts and fee structures that are appropriate for use by lead system integrators in the production, fielding, and sustainment of complex systems.
+
+## Source Credit
+
+*([Pub. L. 110–28, title VI, § 6405](https://www.govinfo.gov/link/plaw/110/public/28), May 25, 2007, [121 Stat. 176](https://www.govinfo.gov/link/statute/121/176).)*

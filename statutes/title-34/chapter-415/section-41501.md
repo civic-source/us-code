@@ -3,9 +3,10 @@ title: "Section 41501 - Financial institutions fraud task forces"
 usc_title: 34
 usc_section: "41501"
 chapter: 415
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 41501"
-generated_at: "2026-03-30T02:55:33.314Z"
+generated_at: "2026-11-23T21:26:09.848Z"
+status: "active"
 ---
 
 # § 41501. Financial institutions fraud task forces
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:33.314Z"
     - **(E)** the Board of Governors of the Federal Reserve System; and
     - **(F)** the National Credit Union Administration.
   - **(3)** This senior interagency group shall enhance interagency coordination and assist in accelerating the investigations and prosecution of financial institutions fraud.
+
+## Source Credit
+
+*([Pub. L. 101–647, title XXV, § 2539](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4884](https://www.govinfo.gov/link/statute/104/4884); [Pub. L. 111–203, title III, § 359(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1548](https://www.govinfo.gov/link/statute/124/1548).)*

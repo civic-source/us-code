@@ -3,9 +3,10 @@ title: "Section 1734 - State suits under Federal law"
 usc_title: 30
 usc_section: "1734"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1734"
-generated_at: "2026-03-30T02:55:29.409Z"
+generated_at: "2026-11-23T21:26:00.447Z"
+status: "active"
 ---
 
 # § 1734. State suits under Federal law
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:29.409Z"
 - **(c)**
   - **(1)** Notwithstanding any other provision of law, any civil penalty recovered by a State under subsection (a) shall be retained by the State and may be expended in such manner and for such purposes as the State deems appropriate.
   - **(2)** Any rent, royalty, or interest recovered by a State under subsection (a) shall be deposited in the Treasury of the United States in the same manner, and subject to the same requirements, as are applicable in the case of any rent, royalty, or interest collected by an officer or employee of the United States, except that such amounts shall be deposited in the Treasury not later than 10 days after receipt by the State.
+
+## Source Credit
+
+*([Pub. L. 97–451, title II, § 204](https://www.govinfo.gov/link/plaw/97/public/451), Jan. 12, 1983, [96 Stat. 2458](https://www.govinfo.gov/link/statute/96/2458).)*

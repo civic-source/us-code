@@ -3,9 +3,10 @@ title: "Section 44807 - Special authority for certain unmanned aircraft systems"
 usc_title: 49
 usc_section: "44807"
 chapter: 448
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44807"
-generated_at: "2026-03-30T02:56:19.389Z"
+generated_at: "2026-11-23T21:26:40.916Z"
+status: "active"
 ---
 
 # § 44807. Special authority for certain unmanned aircraft systems
@@ -29,3 +30,31 @@ generated_at: "2026-03-30T02:56:19.389Z"
     - **(B)** limit the authority of the Administrator to impose requirements, conditions, or limitations on operations conducted under this section in order to address safety concerns.
 - **(d)** The authority under this section for the Secretary to determine if certain unmanned aircraft systems may operate safely in the national airspace system terminates effective September 30, 2033 .
 - **(e)** The Administrator may exercise the authorities described in this section, including waiving applicable parts of title 14, Code of Federal Regulations, without initiating a rulemaking or imposing the requirements of part 11 of title 14, Code of Federal Regulations, to the extent consistent with aviation safety.
+
+In General
+
+Assessment of Unmanned Aircraft Systems
+
+Requirements for Safe Operation.—
+
+In general
+
+Expedited exemptions and approvals
+
+Treatment of mitigation measures
+
+Rule of construction
+
+Sunset
+
+Authority
+
+Rulemakings
+
+Exemptions
+
+Rules of construction
+
+## Source Credit
+
+*(Added [Pub. L. 115–254, div. B, title III, § 347(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3296](https://www.govinfo.gov/link/statute/132/3296); amended [Pub. L. 118–15, div. B, title II, § 2202(c)](https://www.govinfo.gov/link/plaw/118/public/15), Sept. 30, 2023, [137 Stat. 83](https://www.govinfo.gov/link/statute/137/83); [Pub. L. 118–34, title I, § 102(c)](https://www.govinfo.gov/link/plaw/118/public/34), Dec. 26, 2023, [137 Stat. 1113](https://www.govinfo.gov/link/statute/137/1113); [Pub. L. 118–41, title I, § 102(c)](https://www.govinfo.gov/link/plaw/118/public/41), Mar. 8, 2024, [138 Stat. 21](https://www.govinfo.gov/link/statute/138/21); [Pub. L. 118–63, title IX, § 927(a)](https://www.govinfo.gov/link/plaw/118/public/63), (b), May 16, 2024, [138 Stat. 1362](https://www.govinfo.gov/link/statute/138/1362).)*

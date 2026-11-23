@@ -3,9 +3,10 @@ title: "Section 4580 - Lump sum payment for accrued annual leave of Senate emplo
 usc_title: 2
 usc_section: "4580"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 4580"
-generated_at: "2026-03-30T02:53:04.833Z"
+generated_at: "2026-11-23T21:25:21.316Z"
+status: "active"
 ---
 
 # § 4580. Lump sum payment for accrued annual leave of Senate employees
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:04.833Z"
 - **(f)** In this section, the term—
   - **(1)** “employee of the Senate” means any employee whose pay is disbursed by the Secretary of the Senate, except that the term does not include a member of the Capitol Police or a civilian employee of the Capitol Police; and
   - **(2)** “head of the employing office” means any person with the final authority to appoint, hire, discharge, and set the terms, conditions, or privileges of the employment of an individual whose pay is disbursed by the Secretary of the Senate.
+
+## Source Credit
+
+*([Pub. L. 106–554, § 1(a)(2) [title I, § 6]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–97.)*

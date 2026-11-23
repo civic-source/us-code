@@ -3,9 +3,10 @@ title: "Section 5402 - Office of Agricultural Environmental Quality"
 usc_title: 7
 usc_section: "5402"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 5402"
-generated_at: "2026-03-30T02:53:42.414Z"
+generated_at: "2026-11-23T21:25:28.360Z"
+status: "active"
 ---
 
 # § 5402. Office of Agricultural Environmental Quality
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:42.414Z"
     - **(D)** serving as a coordinator for the Department’s data, information, programs, and initiatives dealing with environmental quality;
     - **(E)** developing the plans and reports required as specified by this chapter; and
     - **(F)** providing such staff as may be necessary to support the activities of the Council.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIV, § 1472](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3619](https://www.govinfo.gov/link/statute/104/3619).)*

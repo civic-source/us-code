@@ -3,9 +3,10 @@ title: "Section 545 - Preliminary examinations and reports; surveys; contents of
 usc_title: 33
 usc_section: "545"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 545"
-generated_at: "2026-03-30T02:55:41.061Z"
+generated_at: "2026-11-23T21:26:11.314Z"
+status: "active"
 ---
 
 # § 545. Preliminary examinations and reports; surveys; contents of report to Congress generally
@@ -15,3 +16,7 @@ In all cases where preliminary examinations and surveys are authorized a prelimi
 - **(a)** The existence and establishment of both private and public terminal and transfer facilities contiguous to the navigable water proposed to be improved, and, if water terminals have been constructed, the general location, description, and use made of the same, with an opinion as to their adequacy and efficiency, whether private or public. If no public terminals have been constructed, or if they are inadequate in number, there shall be included in the report an opinion in general terms as to the necessity, number, and appropriate location of the same, and also the necessary relations of such proposed terminals to the development of commerce.
 - **(b)** The development and utilization of water power for industrial and commercial purposes.
 - **(c)** Such other subjects as may be properly connected with such project: Provided , That in the investigation and study of these questions consideration shall be given only to their bearing upon the improvement of navigation, to the possibility and desirability of their being coordinated in a logical and proper manner with improvements for navigation to lessen the cost of such improvements and to compensate the Government for expenditures made in the interest of navigation, and to their relation to the development and regulation of commerce: Provided further , That the investigation and study of these questions may, upon review by the Board of Engineers for Rivers and Harbors when called for as provided by law, be extended to any work of improvement under way and to any locality the examination and survey of which has heretofore been, or may hereafter be, authorized by Congress.
+
+## Source Credit
+
+*(Mar. 4, 1913, ch. 144, § 3, [37 Stat. 825](https://www.govinfo.gov/link/statute/37/825); July 26, 1947, ch. 343, title II, § 205(a), [61 Stat. 501](https://www.govinfo.gov/link/statute/61/501).)*

@@ -3,9 +3,10 @@ title: "Section 1078b - Provision of food to certain members and dependents not 
 usc_title: 10
 usc_section: "1078b"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1078b"
-generated_at: "2026-03-30T02:53:38.105Z"
+generated_at: "2026-11-23T21:25:32.407Z"
+status: "active"
 ---
 
 # § 1078b. Provision of food to certain members and dependents not receiving inpatient care in military medical treatment facilities
@@ -22,3 +23,11 @@ generated_at: "2026-03-30T02:53:38.105Z"
       - **(iii)** whom the Secretary determines is unable to purchase food and beverages while at such facility by virtue of providing such care to the infant.
     - **(C)** A member or former member of the uniformed services or dependent whom the Secretary determines is under similar circumstances as a member, former member, or dependent described in subparagraph (A) or (B).
 - **(b)** The Secretary shall ensure that regulations prescribed under this section are consistent with generally accepted practices in private medical treatment facilities.
+
+In General
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 112–81, div. A, title VII, § 704(a)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1472](https://www.govinfo.gov/link/statute/125/1472); amended [Pub. L. 113–291, div. A, title VII, § 705](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3413](https://www.govinfo.gov/link/statute/128/3413).)*

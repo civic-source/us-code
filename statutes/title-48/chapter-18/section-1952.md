@@ -3,12 +3,17 @@ title: "Section 1952 - Fiscal procedures assistance"
 usc_title: 48
 usc_section: "1952"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1952"
-generated_at: "2026-03-30T02:56:14.598Z"
+generated_at: "2026-11-23T21:26:38.130Z"
+status: "active"
 ---
 
 # § 1952. Fiscal procedures assistance
 
 Upon request of the Government of Palau, the Secretary of the Interior shall provide assistance to the Government of Palau to develop and promulgate regulations for the effective expenditure of funds received pursuant to this joint resolution, Public Laws 99–658 [ 48 U.S.C. 1931 et seq.] and 99–239 [ 48 U.S.C. 1901 et seq., 2001 et seq.], or any other Act of Congress.
 
+
+## Source Credit
+
+*([Pub. L. 101–219, title I, § 102](https://www.govinfo.gov/link/plaw/101/public/219), Dec. 12, 1989, [103 Stat. 1870](https://www.govinfo.gov/link/statute/103/1870).)*

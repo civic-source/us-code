@@ -3,9 +3,10 @@ title: "Section 1317 - Toxic and pretreatment effluent standards"
 usc_title: 33
 usc_section: "1317"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1317"
-generated_at: "2026-03-30T02:55:41.093Z"
+generated_at: "2026-11-23T21:26:11.380Z"
+status: "active"
 ---
 
 # § 1317. Toxic and pretreatment effluent standards
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:41.093Z"
   - **(2)** if the Administrator (or the State in consultation with the Administrator, in any case in which the State has a pretreatment program approved by the Administrator)—
     - **(A)** determines that the proposed extension will not cause the publicly owned treatment works to be in violation of its permit under section 1342 of this title or of section 1345 of this title or to contribute to such a violation, and
     - **(B)** concurs with the proposed extension.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title III, § 307, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 856](https://www.govinfo.gov/link/statute/86/856); amended [Pub. L. 95–217](https://www.govinfo.gov/link/plaw/95/public/217), §§ 53(a), (b), 54(a), Dec. 27, 1977, [91 Stat. 1589–1591](https://www.govinfo.gov/link/statute/91/1589); [Pub. L. 100–4, title III, § 309(a)](https://www.govinfo.gov/link/plaw/100/public/4), Feb. 4, 1987, [101 Stat. 41](https://www.govinfo.gov/link/statute/101/41).)*

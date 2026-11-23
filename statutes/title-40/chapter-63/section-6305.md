@@ -3,9 +3,10 @@ title: "Section 6305 - Suspension of regulations"
 usc_title: 40
 usc_section: "6305"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 6305"
-generated_at: "2026-03-30T02:55:43.382Z"
+generated_at: "2026-11-23T21:26:14.885Z"
+status: "active"
 ---
 
 # § 6305. Suspension of regulations
@@ -16,3 +17,26 @@ To allow authorized services, training programs, and ceremonies in the specified
   - **(2)** the Secretary of the Smithsonian Institution, the Trustees of the National Gallery of Art, and the Trustees of the John F. Kennedy Center for the Performing Arts (or their designees) determine that adequate arrangements have been made—
     - **(A)** to maintain suitable order and decorum in the proceedings; and
     - **(B)** to protect the specified buildings and grounds and persons and property in those buildings and on those grounds.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 6305 | 40:193u. | Oct. 24, 1951, ch. 559, § 8 , 65 Stat. 635 ; Pub. L. 103–279, § 9(b) , July 21, 1994 , 108 Stat. 1416 . |
+
+
+Historical and Revision Notes
+
+6305
+
+Oct. 24, 1951, ch. 559, § 8
+
+65 Stat. 635
+
+Pub. L. 103–279, § 9(b)
+
+July 21, 1994
+
+108 Stat. 1416
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1186](https://www.govinfo.gov/link/statute/116/1186).)*

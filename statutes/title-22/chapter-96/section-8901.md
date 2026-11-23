@@ -3,9 +3,10 @@ title: "Section 8901 - Definitions"
 usc_title: 22
 usc_section: "8901"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8901"
-generated_at: "2026-03-30T02:55:05.458Z"
+generated_at: "2026-11-23T21:25:58.757Z"
+status: "active"
 ---
 
 # § 8901. Definitions
@@ -20,3 +21,7 @@ In this chapter:
   - **(4)** The term “United States person” means—
     - **(A)** a United States citizen or an alien lawfully admitted for permanent residence to the United States; or
     - **(B)** an entity organized under the laws of the United States or of any jurisdiction within the United States, including a foreign branch of such an entity.
+
+## Source Credit
+
+*([Pub. L. 113–95, § 2](https://www.govinfo.gov/link/plaw/113/public/95), Apr. 3, 2014, [128 Stat. 1088](https://www.govinfo.gov/link/statute/128/1088); [Pub. L. 115–44, title II, § 228(b)](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 914](https://www.govinfo.gov/link/statute/131/914).)*

@@ -3,9 +3,10 @@ title: "Section 4323 - Sustainment reviews"
 usc_title: 10
 usc_section: "4323"
 chapter: 323
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4323"
-generated_at: "2026-03-30T02:53:38.206Z"
+generated_at: "2026-11-23T21:25:32.771Z"
+status: "active"
 ---
 
 # § 4323. Sustainment reviews
@@ -23,3 +24,11 @@ generated_at: "2026-03-30T02:53:38.206Z"
     - **(C)** a description of any corrective action plan required by subsection (a)(2) and an update on progress made in implementing such a plan.
   - **(4)** A summary of actions taken by the Secretary to ensure that each covered system of the military department under the jurisdiction of the Secretary meets the applicable operational readiness requirements and materiel readiness objectives in the most cost-effective manner practicable.
 - **(c)** In this section, the term “covered system” has the meaning given in section 4324 of this title .
+
+Review Required
+
+Submission to Congress
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title VIII, § 849(c)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2293](https://www.govinfo.gov/link/statute/130/2293), § 2441; amended [Pub. L. 115–91, div. A, title VIII](https://www.govinfo.gov/link/plaw/115/public/91), §§ 816, 836(b)(2), Dec. 12, 2017, [131 Stat. 1462](https://www.govinfo.gov/link/statute/131/1462), 1473; renumbered § 4323 and amended [Pub. L. 116–283, div. A, title VIII, § 802(c)](https://www.govinfo.gov/link/plaw/116/public/283), title XVIII, §§ 1848(c), 1883(b)(2), Jan. 1, 2021, [134 Stat. 3732](https://www.govinfo.gov/link/statute/134/3732), 4258, 4294; [Pub. L. 119–60, div. A, title XVIII, § 1803(b)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1229](https://www.govinfo.gov/link/statute/139/1229).)*

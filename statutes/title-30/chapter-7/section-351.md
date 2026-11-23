@@ -3,12 +3,17 @@ title: "Section 351 - Definitions"
 usc_title: 30
 usc_section: "351"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 351"
-generated_at: "2026-03-30T02:55:29.382Z"
+generated_at: "2026-11-23T21:26:00.380Z"
+status: "active"
 ---
 
 # § 351. Definitions
 
 As used in this chapter “United States” includes Alaska. “Acquired lands” or “lands acquired by the United States” include all lands heretofore or hereafter acquired by the United States to which the “mineral leasing laws” have not been extended, including such lands acquired under the provisions of the Act of March 1, 1911 ( 36 Stat. 961 , 16 U.S.C., sec. 552). “Secretary” means the Secretary of the Interior, “Mineral leasing laws” shall mean the Act of October 20, 1914 ( 38 Stat. 741 , 48 U.S.C., sec. 432); the Act of February 25, 1920 ( 41 Stat. 437 , 30 U.S.C., sec. 181); the Act of April 17, 1926 ( 44 Stat. 301 , 30 U.S.C., sec. 271); the Act of February 7, 1927 ( 44 Stat. 1057 , 30 U.S.C., sec. 281), and all Acts heretofore or hereafter enacted which are amendatory of or supplementary to any of the foregoing Acts. “Lease” includes “prospecting permit” unless the context otherwise requires. The term “oil” shall embrace all nongaseous hydrocarbon substances other than those leasable as coal, oil shale, or gilsonite (including all vein-type solid hydrocarbons).
 
+
+## Source Credit
+
+*(Aug. 7, 1947, ch. 513, § 2, [61 Stat. 913](https://www.govinfo.gov/link/statute/61/913); [Pub. L. 97–78, § 1(9)(a)](https://www.govinfo.gov/link/plaw/97/public/78), Nov. 16, 1981, [95 Stat. 1072](https://www.govinfo.gov/link/statute/95/1072).)*

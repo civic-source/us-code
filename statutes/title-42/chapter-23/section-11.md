@@ -3,9 +3,10 @@ title: "Section 11 - Low-level waste"
 usc_title: 42
 usc_section: "11"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T02:56:11.163Z"
+generated_at: "2026-11-23T21:26:32.410Z"
+status: "active"
 ---
 
 # § 2297h–11. Low-level waste
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.163Z"
   - **(4)** In the event that a licensee requests the Secretary to accept for disposal depleted uranium pursuant to this subsection, the Secretary shall be required to take title to and possession of such depleted uranium at an existing DUF6 storage facility.
 - **(b)** The generator may also enter into agreements for the disposal of low-level radioactive waste subject to subsection (a) with any person other than the Secretary that is authorized by applicable laws and regulations to dispose of such wastes.
 - **(c)** Notwithstanding any other provision of law, no State or interstate compact shall be liable for the treatment, storage, or disposal of any low-level radioactive waste (including mixed waste) attributable to the operation, decontamination, and decommissioning of any uranium enrichment facility.
+
+## Source Credit
+
+*([Pub. L. 104–134, title III, § 3113](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–347](https://www.govinfo.gov/link/statute/110/1321); [Pub. L. 108–447, div. C, title III, § 311](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 2959](https://www.govinfo.gov/link/statute/118/2959).)*

@@ -3,9 +3,10 @@ title: "Section 435 - Limitations"
 usc_title: 10
 usc_section: "435"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 435"
-generated_at: "2026-03-30T02:53:38.059Z"
+generated_at: "2026-11-23T21:25:32.268Z"
+status: "active"
 ---
 
 # § 435. Limitations
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:53:38.059Z"
 - **(d)**
   - **(1)** In carrying out a commercial activity authorized under this subchapter, the Secretary of Defense may not permit an entity engaged in such activity to employ a United States person in an operational, managerial, or supervisory position, and may not assign or detail a United States person to perform operational, managerial, or supervisory duties for such an entity, unless that person is informed in advance of the intelligence security purpose of that activity.
   - **(2)** In this subsection, the term “United States person” means an individual who is a citizen of the United States or an alien lawfully admitted to the United States for permanent residence.
+
+Lawful Activities
+
+Domestic Activities
+
+Providing Goods and Services to the Department of Defense
+
+Notice to United States Persons
+
+## Source Credit
+
+*(Added [Pub. L. 102–88, title V, § 504(a)(2)](https://www.govinfo.gov/link/plaw/102/public/88), Aug. 14, 1991, [105 Stat. 439](https://www.govinfo.gov/link/statute/105/439).)*

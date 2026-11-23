@@ -3,9 +3,10 @@ title: "Section 4113 - Review of plans"
 usc_title: 25
 usc_section: "4113"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4113"
-generated_at: "2026-03-30T02:54:52.858Z"
+generated_at: "2026-11-23T21:25:54.706Z"
+status: "active"
 ---
 
 # § 4113. Review of plans
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:52.858Z"
 - **(e)** Notwithstanding any other provision of this section, the Secretary—
   - **(1)** shall review the information included in an Indian housing plan pursuant to subsections (b)(4) 2 2 So in original. Subsec. (b) does not contain a par. (4). and (c)(7) 3 3 So in original. Subsec. (c) does not contain a par. (7). only to determine whether the information is included for purposes of compliance with the requirement under section 4145a(b)(2) 4 4 So in original. Section 4145a(b) of this title does not contain a par. (2). of this title; and
   - **(2)** may not approve or disapprove an Indian housing plan based on the content of the particular benefits, activities, or results included pursuant to subsections (b)(4) 2 and (c)(7). 3
+
+## Source Credit
+
+*([Pub. L. 104–330, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4026](https://www.govinfo.gov/link/statute/110/4026); [Pub. L. 105–276, title V, § 595(e)(6)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2657](https://www.govinfo.gov/link/statute/112/2657); [Pub. L. 110–411, title I, § 103](https://www.govinfo.gov/link/plaw/110/public/411), Oct. 14, 2008, [122 Stat. 4323](https://www.govinfo.gov/link/statute/122/4323).)*

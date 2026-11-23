@@ -3,9 +3,10 @@ title: "Section 8601 - Protections for covered sports medicine professionals"
 usc_title: 15
 usc_section: "8601"
 chapter: 112
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8601"
-generated_at: "2026-03-30T02:54:08.232Z"
+generated_at: "2026-11-23T21:25:40.090Z"
+status: "active"
 ---
 
 # § 8601. Protections for covered sports medicine professionals
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:54:08.232Z"
   - **(10)** The term “secondary State” means, with respect to a covered sports medicine professional, any State that is not the primary State.
   - **(11)** The term “State” means each of the several States, the District of Columbia, and each commonwealth, territory, or possession of the United States.
   - **(12)** The term “substantially similar”, with respect to the licensure by primary and secondary States of a sports medicine professional, means that both the primary and secondary States have in place a form of licensure for such professionals that permits such professionals to provide covered medical services.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. A, § 12](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3197](https://www.govinfo.gov/link/statute/132/3197).)*

@@ -3,9 +3,10 @@ title: "Section 4569 - Capital Magnet Fund"
 usc_title: 12
 usc_section: "4569"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4569"
-generated_at: "2026-03-30T02:53:53.509Z"
+generated_at: "2026-11-23T21:25:37.192Z"
+status: "active"
 ---
 
 # § 4569. Capital Magnet Fund
@@ -80,3 +81,7 @@ generated_at: "2026-03-30T02:53:53.509Z"
         - **(I)** the ability to use such funds to generate additional investments;
         - **(II)** affordable housing need (taking into account the distinct needs of different regions of the country); and
         - **(III)** ability to obligate amounts and undertake activities so funded in a timely manner.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1339](https://www.govinfo.gov/link/plaw/102/public/550), as added [Pub. L. 110–289, div. A, title I, § 1131(b)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2723](https://www.govinfo.gov/link/statute/122/2723).)*

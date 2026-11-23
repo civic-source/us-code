@@ -3,9 +3,10 @@ title: "Section 60126 - Risk management"
 usc_title: 49
 usc_section: "60126"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 60126"
-generated_at: "2026-03-30T02:56:19.415Z"
+generated_at: "2026-11-23T21:26:41.032Z"
+status: "active"
 ---
 
 # § 60126. Risk management
@@ -41,3 +42,21 @@ generated_at: "2026-03-30T02:56:19.415Z"
 - **(e)** Not later than March 31, 2000 , the Secretary shall transmit to the Congress a report on the results of the demonstration projects carried out under this section that includes—
   - **(1)** an evaluation of each such demonstration project, including an evaluation of the performance of each participant in that project with respect to safety and environmental protection; and
   - **(2)** recommendations concerning whether the applications of risk management demonstrated under the demonstration project should be incorporated into the Federal pipeline safety program under this chapter on a permanent basis.
+
+Risk Management Program Demonstration Projects.—
+
+In general
+
+Exemptions
+
+Requirements
+
+Emergencies and Revocations
+
+Participation by State Authority
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 104–304, § 5(a)](https://www.govinfo.gov/link/plaw/104/public/304), Oct. 12, 1996, [110 Stat. 3798](https://www.govinfo.gov/link/statute/110/3798).)*

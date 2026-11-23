@@ -3,9 +3,10 @@ title: "Section 7587 - Vehicle conversions"
 usc_title: 42
 usc_section: "7587"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7587"
-generated_at: "2026-03-30T02:56:11.318Z"
+generated_at: "2026-11-23T21:26:33.132Z"
+status: "active"
 ---
 
 # § 7587. Vehicle conversions
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.318Z"
 - **(c)** Any person who converts conventional vehicles to clean fuel 1 vehicles pursuant to subsection (b), shall be considered a manufacturer for purposes of sections 7525 and 7541 of this title and related enforcement provisions. Nothing in the preceding sentence shall require a person who performs such conversions to warrant any part or operation of a vehicle other than as required under this part. Nothing in this paragraph shall limit the applicability of any other warranty to unrelated parts or operations.
 - **(d)** The conversion from a vehicle capable of operating on gasoline or diesel fuel only to a clean-fuel vehicle shall not be considered a violation of section 7522(a)(3) of this title if such conversion complies with the regulations promulgated under subsection (b).
 - **(e)** The Secretary of Transportation shall, if necessary, promulgate rules under applicable motor vehicle laws regarding the safety of vehicles converted from existing and new vehicles to clean-fuel vehicles.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title II, § 247, as added [Pub. L. 101–549, title II, § 229(a)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2523](https://www.govinfo.gov/link/statute/104/2523).)*

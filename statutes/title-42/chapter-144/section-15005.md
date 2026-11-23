@@ -3,9 +3,10 @@ title: "Section 15005 - Reports of the Secretary"
 usc_title: 42
 usc_section: "15005"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15005"
-generated_at: "2026-03-30T02:56:11.454Z"
+generated_at: "2026-11-23T21:26:33.651Z"
+status: "active"
 ---
 
 # § 15005. Reports of the Secretary
@@ -21,3 +22,7 @@ At least once every 2 years, the Secretary, using information submitted in the r
     - **(A)** protecting individuals with developmental disabilities from abuse, neglect, sexual and financial exploitation, and violations of legal and human rights, so that those individuals are at no greater risk of harm than other persons in the general population; and
     - **(B)** reports of deaths of and serious injuries to individuals with developmental disabilities; and
   - **(3)** a summary of any incidents of noncompliance of the programs authorized under this subchapter with the provisions of this subchapter, and corrections made or actions taken to obtain compliance.
+
+## Source Credit
+
+*([Pub. L. 106–402, title I, § 105](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1690](https://www.govinfo.gov/link/statute/114/1690).)*

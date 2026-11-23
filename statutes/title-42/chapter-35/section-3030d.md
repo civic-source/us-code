@@ -3,9 +3,10 @@ title: "Section 3030d - Grants for supportive services"
 usc_title: 42
 usc_section: "3030d"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3030d"
-generated_at: "2026-03-30T02:56:11.174Z"
+generated_at: "2026-11-23T21:26:32.497Z"
+status: "active"
 ---
 
 # § 3030d. Grants for supportive services
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:56:11.174Z"
   - **(1)** is age 18 or older;
   - **(2)** is financially dependent on an older individual who is a parent of the child; and
   - **(3)** has a disability.
+
+## Source Credit
+
+*([Pub. L. 89–73, title III, § 321](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 95–478, title I, § 103(b)](https://www.govinfo.gov/link/plaw/95/public/478), Oct. 18, 1978, [92 Stat. 1535](https://www.govinfo.gov/link/statute/92/1535); amended [Pub. L. 97–115](https://www.govinfo.gov/link/plaw/97/public/115), §§ 3(d), 10(a)–(c), Dec. 29, 1981, [95 Stat. 1597](https://www.govinfo.gov/link/statute/95/1597), 1600; [Pub. L. 98–459, title III, § 312](https://www.govinfo.gov/link/plaw/98/public/459), Oct. 9, 1984, [98 Stat. 1779](https://www.govinfo.gov/link/statute/98/1779); [Pub. L. 100–175, title I](https://www.govinfo.gov/link/plaw/100/public/175), §§ 136(d), 146(b), 182(m), Nov. 29, 1987, [101 Stat. 943](https://www.govinfo.gov/link/statute/101/943), 950, 967; [Pub. L. 102–375, title III, § 312](https://www.govinfo.gov/link/plaw/102/public/375), title VII, § 708(b), title IX, § 904(a)(15), Sept. 30, 1992, [106 Stat. 1237](https://www.govinfo.gov/link/statute/106/1237), 1292, 1308; [Pub. L. 103–171](https://www.govinfo.gov/link/plaw/103/public/171), §§ 2(12), 3(a)(13), Dec. 2, 1993, [107 Stat. 1989](https://www.govinfo.gov/link/statute/107/1989), 1990; [Pub. L. 106–501, title III, § 311](https://www.govinfo.gov/link/plaw/106/public/501), title VIII, § 801(c)(5), Nov. 13, 2000, [114 Stat. 2251](https://www.govinfo.gov/link/statute/114/2251), 2292; [Pub. L. 109–365, title III, § 311](https://www.govinfo.gov/link/plaw/109/public/365), Oct. 17, 2006, [120 Stat. 2547](https://www.govinfo.gov/link/statute/120/2547); [Pub. L. 113–128, title V, § 512(w)(2)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1713](https://www.govinfo.gov/link/statute/128/1713); [Pub. L. 114–144](https://www.govinfo.gov/link/plaw/114/public/144), §§ 4(g), 9(5), Apr. 19, 2016, [130 Stat. 339](https://www.govinfo.gov/link/statute/130/339), 352; [Pub. L. 116–131, title II](https://www.govinfo.gov/link/plaw/116/public/131), §§ 213, 214, Mar. 25, 2020, [134 Stat. 259](https://www.govinfo.gov/link/statute/134/259).)*

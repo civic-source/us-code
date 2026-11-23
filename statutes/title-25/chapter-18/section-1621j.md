@@ -3,9 +3,10 @@ title: "Section 1621j - California contract health services demonstration progra
 usc_title: 25
 usc_section: "1621j"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1621j"
-generated_at: "2026-03-30T02:54:52.821Z"
+generated_at: "2026-11-23T21:25:54.619Z"
+status: "active"
 ---
 
 # § 1621j. California contract health services demonstration program
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:52.821Z"
 - **(f)** For the purposes of this section, the term “high-cost contract care cases” means those cases in which the cost of the medical treatment provided to an individual—
   - **(1)** would otherwise be eligible for reimbursement from the Catastrophic Health Emergency Fund established under section 1621a of this title , except that the cost of such treatment does not meet the threshold cost requirement established pursuant to section 1621a(b)(2) 1 of this title; and
   - **(2)** exceeds $1,000.
+
+## Source Credit
+
+*([Pub. L. 94–437, title II, § 211](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 102–573, title II, § 206(c)](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4549](https://www.govinfo.gov/link/statute/106/4549); amended [Pub. L. 104–313, § 2(c)](https://www.govinfo.gov/link/plaw/104/public/313), Oct. 19, 1996, [110 Stat. 3822](https://www.govinfo.gov/link/statute/110/3822); [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

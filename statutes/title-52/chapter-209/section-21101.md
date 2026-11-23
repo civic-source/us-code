@@ -3,9 +3,10 @@ title: "Section 21101 - Adoption of voluntary guidance by Commission"
 usc_title: 52
 usc_section: "21101"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 21101"
-generated_at: "2026-03-30T02:56:30.168Z"
+generated_at: "2026-11-23T21:26:42.338Z"
+status: "active"
 ---
 
 # § 21101. Adoption of voluntary guidance by Commission
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:30.168Z"
   - **(2)** in the case of the recommendations with respect to section 21082 of this title , October 1, 2003 ; and
   - **(3)** in the case of the recommendations with respect to section 21083 of this title , October 1, 2003 .
 - **(c)** The Commission shall review and update recommendations adopted with respect to section 21081 of this title no less frequently than once every 4 years.
+
+## Source Credit
+
+*([Pub. L. 107–252, title III, § 311](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1715](https://www.govinfo.gov/link/statute/116/1715).)*

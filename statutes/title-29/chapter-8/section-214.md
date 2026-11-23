@@ -3,9 +3,10 @@ title: "Section 214 - Employment under special certificates"
 usc_title: 29
 usc_section: "214"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 214"
-generated_at: "2026-03-30T02:55:18.681Z"
+generated_at: "2026-11-23T21:26:02.177Z"
+status: "active"
 ---
 
 # § 214. Employment under special certificates
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:55:18.681Z"
     - **(F)** The Secretary, within thirty days after receiving a request for review, shall review the record and either adopt the decision of the administrative law judge or issue exceptions. The decision of the administrative law judge, together with any exceptions, shall be deemed to be a final agency action.
     - **(G)** A final agency action shall be subject to judicial review pursuant to chapter 7 of title 5. An action seeking such review shall be brought within thirty days of a final agency action described in subparagraph (F).
 - **(d)** The Secretary may by regulation or order provide that sections 206 and 207 of this title shall not apply with respect to the employment by any elementary or secondary school of its students if such employment constitutes, as determined under regulations prescribed by the Secretary, an integral part of the regular education program provided by such school and such employment is in accordance with applicable child labor laws.
+
+## Source Credit
+
+*(June 25, 1938, ch. 676, § 14, [52 Stat. 1068](https://www.govinfo.gov/link/statute/52/1068); Oct. 26, 1949, ch. 736, § 12, [63 Stat. 918](https://www.govinfo.gov/link/statute/63/918); [Pub. L. 87–30, § 11](https://www.govinfo.gov/link/plaw/87/public/30), May 5, 1961, [75 Stat. 74](https://www.govinfo.gov/link/statute/75/74); [Pub. L. 89–601, title V, § 501](https://www.govinfo.gov/link/plaw/89/public/601), Sept. 23, 1966, [80 Stat. 842](https://www.govinfo.gov/link/statute/80/842); [Pub. L. 93–259, § 24(a)](https://www.govinfo.gov/link/plaw/93/public/259), (b), Apr. 8, 1974, [88 Stat. 69](https://www.govinfo.gov/link/statute/88/69), 72; [Pub. L. 95–151](https://www.govinfo.gov/link/plaw/95/public/151), §§ 12, 13, Nov. 1, 1977, [91 Stat. 1252](https://www.govinfo.gov/link/statute/91/1252); [Pub. L. 99–486](https://www.govinfo.gov/link/plaw/99/public/486), Oct. 16, 1986, [100 Stat. 1229](https://www.govinfo.gov/link/statute/100/1229); [Pub. L. 101–157, § 4(d)](https://www.govinfo.gov/link/plaw/101/public/157), Nov. 17, 1989, [103 Stat. 941](https://www.govinfo.gov/link/statute/103/941).)*

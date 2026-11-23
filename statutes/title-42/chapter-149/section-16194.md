@@ -3,9 +3,10 @@ title: "Section 16194 - Building standards"
 usc_title: 42
 usc_section: "16194"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16194"
-generated_at: "2026-03-30T02:56:11.472Z"
+generated_at: "2026-11-23T21:26:33.705Z"
+status: "active"
 ---
 
 # § 16194. Building standards
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.472Z"
   - **(2)** determine if additional research is required, based on the findings of the assessment; and
   - **(3)** recommend steps for the Secretary to accelerate the development of voluntary consensus-based standards for high performance buildings that are based on the findings of the assessment.
 - **(c)** Consistent with subsection (b) and section 12(d) of the National Technology Transfer and Advancement Act of 1995 ( 15 U.S.C. 272 note), the Secretary shall establish a grant and technical assistance program to support the development of voluntary consensus-based standards for high performance buildings.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 914](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 861](https://www.govinfo.gov/link/statute/119/861).)*

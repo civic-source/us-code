@@ -3,9 +3,10 @@ title: "Section 1159 - Misrepresentation of Indian produced goods and products"
 usc_title: 18
 usc_section: "1159"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1159"
-generated_at: "2026-03-30T02:54:16.482Z"
+generated_at: "2026-11-23T21:25:44.048Z"
+status: "active"
 ---
 
 # § 1159. Misrepresentation of Indian produced goods and products
@@ -33,3 +34,9 @@ generated_at: "2026-03-30T02:54:16.482Z"
       - **(iii)** another similar organization vested with State legislative tribal recognition authority; and
   - **(4)** the term “Indian arts and crafts organization” means any legally established arts and crafts marketing organization composed of members of Indian tribes.
 - **(d)** In the event that any provision of this section is held invalid, it is the intent of Congress that the remaining provisions of this section shall continue in full force and effect.
+
+Penalty
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 759](https://www.govinfo.gov/link/statute/62/759); [Pub. L. 101–644, title I, § 104(a)](https://www.govinfo.gov/link/plaw/101/public/644), Nov. 29, 1990, [104 Stat. 4663](https://www.govinfo.gov/link/statute/104/4663); [Pub. L. 111–211, title I, § 103](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2260](https://www.govinfo.gov/link/statute/124/2260).)*

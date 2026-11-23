@@ -3,9 +3,10 @@ title: "Section 681g - Federal sharing of incident reports"
 usc_title: 6
 usc_section: "681g"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 681g"
-generated_at: "2026-03-30T02:53:09.498Z"
+generated_at: "2026-11-23T21:25:25.840Z"
+status: "active"
 ---
 
 # § 681g. Federal sharing of incident reports
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:09.498Z"
 - **(b)** The Secretary of Homeland Security, acting through the Director, shall, in consultation with the Cyber Incident Reporting Council described in section 681f of this title , as added by section 103 of this division, to the maximum extent practicable—
   - **(1)** periodically review existing regulatory requirements, including the information required in such reports, to report incidents and ensure that any such reporting requirements and procedures avoid conflicting, duplicative, or burdensome requirements; and
   - **(2)** coordinate with appropriate Federal partners and regulatory authorities that receive reports relating to incidents to identify opportunities to streamline reporting processes, and where feasible, facilitate interagency agreements between such authorities to permit the sharing of such reports, consistent with applicable law and policy, without impacting the ability of the Agency to gain timely situational awareness of a covered cyber incident or ransom payment.
+
+## Source Credit
+
+*([Pub. L. 117–103, div. Y, § 104](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 1054](https://www.govinfo.gov/link/statute/136/1054).)*

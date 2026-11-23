@@ -3,9 +3,10 @@ title: "Section 103501 - Establishment"
 usc_title: 54
 usc_section: "103501"
 chapter: 1035
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "54 U.S.C. § 103501"
-generated_at: "2026-03-30T02:56:28.420Z"
+generated_at: "2026-11-23T21:26:42.782Z"
+status: "active"
 ---
 
 # § 103501. Establishment
@@ -17,3 +18,15 @@ generated_at: "2026-03-30T02:56:28.420Z"
   - **(2)** may not be used to acquire lands or interest in lands; and
   - **(3)** may only be used if matched, on at least a 1-to-1 basis, by non-Federal donations (including funds and fairly valued durable goods and materials) to the Service for signature projects or programs.
 - **(d)** Amounts derived from the Second Century Endowment for the National Park Service shall not be treated as non-Federal donations for purposes of subsection (c)(3).
+
+In General
+
+Deposits
+
+Use of Funds
+
+Limitation on Source of Funds for Matching
+
+## Source Credit
+
+*(Added [Pub. L. 114–289, title I, § 101(a)](https://www.govinfo.gov/link/plaw/114/public/289), Dec. 16, 2016, [130 Stat. 1483](https://www.govinfo.gov/link/statute/130/1483).)*

@@ -3,9 +3,10 @@ title: "Section 8905 - Election of coverage"
 usc_title: 5
 usc_section: "8905"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8905"
-generated_at: "2026-03-30T02:52:56.068Z"
+generated_at: "2026-11-23T21:25:23.451Z"
+status: "active"
 ---
 
 # § 8905. Election of coverage
@@ -46,3 +47,55 @@ generated_at: "2026-03-30T02:52:56.068Z"
   - **(2)** An employee who is enrolled as an individual in a health benefits plan under this chapter and who is required by a court or administrative order to provide health insurance coverage for 1 or more children who meets the requirements of section 8901(5) may change to a self plus one or self and family enrollment, as necessary to provide health insurance coverage for each child who is covered under the order, in the same or another health benefits plan under this chapter. If such employee fails to change to a self plus one or self and family enrollment, as necessary to provide health insurance coverage for each child who is covered under the order, and the employee does not provide documentation showing that such coverage has been provided through other health insurance, the employing agency shall change the enrollment of the employee to a self plus one or self and family enrollment, as necessary to provide health insurance coverage for each child who is covered under the order, in the plan in which the employee is enrolled if that plan provides full benefits and services in the location where the child or children reside. If the plan in which the employee is enrolled does not provide full benefits and services in the location in which the child or children reside, or, if the employee fails to change to a self plus one or self and family enrollment, as necessary to provide health insurance coverage for each child who is covered under the order, in a plan that provides full benefits and services in the location where the child or children reside, the employing agency shall change the coverage of the employee to a self plus one or self and family enrollment, as necessary to provide health insurance coverage for each child who is covered under the order, in the option which provides the lower level of coverage under the Service Benefits Plan.
   - **(3)** The employee may not discontinue the self plus one or self and family enrollment, as necessary to provide health insurance coverage for each child who is covered under the order, in a plan that provides full benefits and services in the location in which the child or children reside for so long as the court or administrative order remains in effect and the child or children continue to meet the requirements of section 8901(5), unless the employee provides documentation showing that such coverage has been provided through other health insurance.
 - **(i)** Any services by an officer or employee under this chapter relating to enrolling individuals in a health benefits plan under this chapter, or changing the enrollment of an individual already so enrolled, shall be deemed, for purposes of section 1342 of title 31 , services for emergencies involving the safety of human life or the protection of property.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 3002(a) (1st sentence, less words between 1st and 4th commas), (b)–(e). | Sept. 28, 1959 , Pub. L. 86–382, § 3(a) (1st sentence, less words between 1st and 4th commas), (b)–(e), 73 Stat. 710 . |
+|  |  | Mar. 17, 1964 , Pub. L. 88–284, § 1(5) , 78 Stat. 164 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 3002(a)
+
+Sept. 28, 1959
+
+Pub. L. 86–382, § 3(a)
+
+73 Stat. 710
+
+Mar. 17, 1964
+
+Pub. L. 88–284, § 1(5)
+
+78 Stat. 164
+
+Short Title
+
+Definitions
+
+Director
+
+Health benefits plan; member of family
+
+Open season
+
+Program
+
+Qualifying life event
+
+Verification Requirements
+
+Fraud Risk Assessment
+
+Family Member Eligibility Verification Audit.—
+
+In general
+
+Contents
+
+Disenrollment or Removal
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 603](https://www.govinfo.gov/link/statute/80/603); [Pub. L. 95–454, title IX, § 906(a)(2)](https://www.govinfo.gov/link/plaw/95/public/454), (3), Oct. 13, 1978, [92 Stat. 1224](https://www.govinfo.gov/link/statute/92/1224); [Pub. L. 98–615, § 3(4)](https://www.govinfo.gov/link/plaw/98/public/615), Nov. 8, 1984, [98 Stat. 3203](https://www.govinfo.gov/link/statute/98/3203); [Pub. L. 99–53, § 2(a)](https://www.govinfo.gov/link/plaw/99/public/53), (c), June 17, 1985, [99 Stat. 94](https://www.govinfo.gov/link/statute/99/94); [Pub. L. 99–251, title I](https://www.govinfo.gov/link/plaw/99/public/251), §§ 103, 104(a), Feb. 27, 1986, [100 Stat. 14](https://www.govinfo.gov/link/statute/100/14); [Pub. L. 99–335, title II, § 207(m)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 598](https://www.govinfo.gov/link/statute/100/598); [Pub. L. 100–654, title II](https://www.govinfo.gov/link/plaw/100/public/654), §§ 201(c), (d), 202(c), Nov. 14, 1988, [102 Stat. 3845](https://www.govinfo.gov/link/statute/102/3845); [Pub. L. 102–378, § 2(77)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1355](https://www.govinfo.gov/link/statute/106/1355); [Pub. L. 105–261, div. A, title VII, § 721(b)(1)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2065](https://www.govinfo.gov/link/statute/112/2065); [Pub. L. 106–394, § 2](https://www.govinfo.gov/link/plaw/106/public/394), Oct. 30, 2000, [114 Stat. 1629](https://www.govinfo.gov/link/statute/114/1629); [Pub. L. 113–67, div. A, title VII, § 706(a)](https://www.govinfo.gov/link/plaw/113/public/67), Dec. 26, 2013, [127 Stat. 1193](https://www.govinfo.gov/link/statute/127/1193); [Pub. L. 116–92, div. A, title XI, § 1110(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1600](https://www.govinfo.gov/link/statute/133/1600).)*

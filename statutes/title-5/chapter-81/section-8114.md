@@ -3,9 +3,10 @@ title: "Section 8114 - Computation of pay"
 usc_title: 5
 usc_section: "8114"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8114"
-generated_at: "2026-03-30T02:52:56.041Z"
+generated_at: "2026-11-23T21:25:23.350Z"
+status: "active"
 ---
 
 # § 8114. Computation of pay
@@ -26,3 +27,25 @@ generated_at: "2026-03-30T02:52:56.041Z"
   - **(1)** overtime pay;
   - **(2)** additional pay or allowance authorized outside the United States because of differential in cost of living or other special circumstances; or
   - **(3)** bonus or premium pay for extraordinary service including bonus or pay for particularly hazardous service in time of war.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 762 . | Sept. 7, 1916, ch. 458, § 12 , 39 Stat. 746 . |
+|  |  | Oct. 14, 1949, ch. 691, § 203 , 63 Stat. 862 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 762
+
+Sept. 7, 1916, ch. 458, § 12
+
+39 Stat. 746
+
+Oct. 14, 1949, ch. 691, § 203
+
+63 Stat. 862
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 540](https://www.govinfo.gov/link/statute/80/540); [Pub. L. 89–737, § 1(1)](https://www.govinfo.gov/link/plaw/89/public/737), Nov. 2, 1966, [80 Stat. 1164](https://www.govinfo.gov/link/statute/80/1164).)*

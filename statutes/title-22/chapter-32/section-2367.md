@@ -3,9 +3,10 @@ title: "Section 2367 - Termination expenses"
 usc_title: 22
 usc_section: "2367"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2367"
-generated_at: "2026-03-30T02:55:05.360Z"
+generated_at: "2026-11-23T21:25:58.477Z"
+status: "active"
 ---
 
 # § 2367. Termination expenses
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.360Z"
 - **(c)** Amounts certified as having been obligated for assistance subsequently terminated by the President, or pursuant to any provision of law, shall continue to remain available and may be reobligated to meet any necessary expenses arising from the termination of such assistance.
 - **(d)** Provisions of this chapter or any other Act requiring the termination of assistance under this chapter or any other Act shall not be construed to require the termination of guarantee commitments that were entered into prior to the effective date of the termination of assistance.
 - **(e)** Unless specifically made inapplicable by another provision of law, the provisions of this section shall be applicable to the termination of assistance pursuant to any provision of law.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 617, Sept. 4, 1961, [75 Stat. 444](https://www.govinfo.gov/link/statute/75/444); [Pub. L. 93–189, § 14](https://www.govinfo.gov/link/plaw/93/public/189), Dec. 17, 1973, [87 Stat. 722](https://www.govinfo.gov/link/statute/87/722); [Pub. L. 96–533, title III, § 310](https://www.govinfo.gov/link/plaw/96/public/533), Dec. 16, 1980, [94 Stat. 3148](https://www.govinfo.gov/link/statute/94/3148); [Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XII, § 1221]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–498; [Pub. L. 106–264, title III, § 302](https://www.govinfo.gov/link/plaw/106/public/264), Aug. 19, 2000, [114 Stat. 760](https://www.govinfo.gov/link/statute/114/760).)*

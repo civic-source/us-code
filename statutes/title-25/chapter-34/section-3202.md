@@ -3,9 +3,10 @@ title: "Section 3202 - Definitions"
 usc_title: 25
 usc_section: "3202"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3202"
-generated_at: "2026-03-30T02:54:52.849Z"
+generated_at: "2026-11-23T21:25:54.687Z"
+status: "active"
 ---
 
 # § 3202. Definitions
@@ -48,3 +49,7 @@ For the purposes of this chapter, the term—
   - **(16)** “Secretary” means the Secretary of the Interior;
   - **(17)** “shelter” means the provision of temporary refuge and related assistance in compliance with applicable Federal and tribal laws and regulations governing the provision, on a regular basis, of shelter, safe homes, meals, and related assistance to victims of family violence or their dependents; and
   - **(18)** “Service” means the Indian Health Service of the Department of Health and Human Services.
+
+## Source Credit
+
+*([Pub. L. 101–630, title IV, § 403](https://www.govinfo.gov/link/plaw/101/public/630), Nov. 28, 1990, [104 Stat. 4545](https://www.govinfo.gov/link/statute/104/4545); [Pub. L. 118–160, § 2(1)](https://www.govinfo.gov/link/plaw/118/public/160), Dec. 23, 2024, [138 Stat. 2567](https://www.govinfo.gov/link/statute/138/2567).)*

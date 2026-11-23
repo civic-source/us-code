@@ -3,9 +3,10 @@ title: "Section 1281 - Congressional declaration of purpose"
 usc_title: 33
 usc_section: "1281"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1281"
-generated_at: "2026-03-30T02:55:41.086Z"
+generated_at: "2026-11-23T21:26:11.368Z"
+status: "active"
 ---
 
 # § 1281. Congressional declaration of purpose
@@ -54,3 +55,37 @@ generated_at: "2026-03-30T02:55:41.086Z"
   - **(2)** projects the nature, extent, timing, and costs of future expansion and reconstruction of treatment works which will be necessary to satisfy the applicant’s projected future requirements for waste treatment services; and
   - **(3)** sets forth with specificity the manner in which the applicant intends to finance such future expansion and reconstruction.
 - **(p)** In any case in which a dispute arises with respect to the awarding of a contract for construction of treatment works by a grantee of funds under this subchapter and a party to such dispute files an appeal with the Administrator under this subchapter for resolution of such dispute, the Administrator shall make a final decision on such appeal within 90 days of the filing of such appeal.
+
+In General
+
+Limitation
+
+Definitions
+
+Border state
+
+Covered entity
+
+Eligible community
+
+Treatment works
+
+Grants for Wastewater Assistance
+
+Use of Funds
+
+Cost Sharing
+
+Authorization of Appropriations
+
+Environmental Protection Agency
+
+state and tribal assistance grants
+
+Environmental Protection Agency
+
+state and tribal assistance grants
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title II, § 201, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 833](https://www.govinfo.gov/link/statute/86/833); amended [Pub. L. 95–217](https://www.govinfo.gov/link/plaw/95/public/217), §§ 12–16, Dec. 27, 1977, [91 Stat. 1569](https://www.govinfo.gov/link/statute/91/1569), 1570; [Pub. L. 96–483](https://www.govinfo.gov/link/plaw/96/public/483), §§ 2(d), 3, Oct. 21, 1980, [94 Stat. 2361](https://www.govinfo.gov/link/statute/94/2361); [Pub. L. 97–117](https://www.govinfo.gov/link/plaw/97/public/117), §§ 2(a), 3(a), 4–6, 10(c), Dec. 29, 1981, [95 Stat. 1623–1626](https://www.govinfo.gov/link/statute/95/1623); [Pub. L. 100–4, title II, § 201](https://www.govinfo.gov/link/plaw/100/public/4), title III, § 316(c), Feb. 4, 1987, [101 Stat. 15](https://www.govinfo.gov/link/statute/101/15), 60.)*

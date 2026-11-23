@@ -3,9 +3,10 @@ title: "Section 18773 - Expansion of energy consumption surveys"
 usc_title: 42
 usc_section: "18773"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18773"
-generated_at: "2026-03-30T02:56:11.530Z"
+generated_at: "2026-11-23T21:26:33.845Z"
+status: "active"
 ---
 
 # § 18773. Expansion of energy consumption surveys
@@ -51,3 +52,19 @@ generated_at: "2026-03-30T02:56:11.530Z"
         - **(I)** in different geographic areas;
         - **(II)** by electricity, heating, and other end-uses; and
         - **(III)** with different demographic characteristics that correlate with increased household energy burden, including—
+
+(aa) having a low household income;
+
+(bb) being a minority household;
+
+(cc) residing in manufactured or multifamily housing;
+
+(dd) being in a fixed or retirement income household;
+
+(ee) residing in rental housing; and
+
+(ff) other factors, as determined by the Administrator.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title IV, § 40413](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1042](https://www.govinfo.gov/link/statute/135/1042).)*

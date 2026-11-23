@@ -3,9 +3,10 @@ title: "Section 3063 - Rules and regulations when cooperating with military depa
 usc_title: 33
 usc_section: "3063"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3063"
-generated_at: "2026-03-30T02:55:41.137Z"
+generated_at: "2026-11-23T21:26:11.477Z"
+status: "active"
 ---
 
 # § 3063. Rules and regulations when cooperating with military departments
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:41.137Z"
   - **(2)** providing for the cooperation of the Administration with the military departments in time of peace in preparation for its duties in time of war.
 - **(b)** Regulations under subsection (a) shall not be effective unless approved by each of those Secretaries.
 - **(c)** Regulations under subsection (a) may provide procedures for making reports and communications between a military department and the Administration.
+
+## Source Credit
+
+*([Pub. L. 107–372, title II, § 253](https://www.govinfo.gov/link/plaw/107/public/372), Dec. 19, 2002, [116 Stat. 3091](https://www.govinfo.gov/link/statute/116/3091).)*

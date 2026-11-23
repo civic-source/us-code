@@ -3,9 +3,10 @@ title: "Section 1390 - Assistance to ports to reduce impacts of vessel traffic a
 usc_title: 16
 usc_section: "1390"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1390"
-generated_at: "2026-03-30T02:54:22.963Z"
+generated_at: "2026-11-23T21:25:51.869Z"
+status: "active"
 ---
 
 # § 1390. Assistance to ports to reduce impacts of vessel traffic and port operations on marine mammals
@@ -40,3 +41,55 @@ generated_at: "2026-03-30T02:54:22.963Z"
   - **(4)** a consortium of entities described in paragraphs (1) through (3).
 - **(g)** From funds otherwise appropriated to the Under Secretary, $10,000,000 is authorized to carry out this section for each of fiscal years 2023 through 2028.
 - **(h)** An activity may not be carried out under this section if the Secretary of Defense, in consultation with the Under Secretary, determines that the activity would negatively impact the defense readiness or the national security of the United States.
+
+Establishment.—
+
+In general
+
+Duration and staffing
+
+Engagement With Vessel Operators.—
+
+In general
+
+Contents
+
+Memorandum of Understanding
+
+Data
+
+Consultations.—
+
+In general
+
+Coordination with Canada
+
+Puget Sound Vessel Traffic Service Local Variance and Policy
+
+Report Required
+
+“In this subtitle [subtitle A (§§ 11301–11305) of title CXIII of div. K of Pub. L. 117–263 , enacting this section and sections 1391 and 1392 of this title and provisions set out as a note under this section]:
+
+Appropriate congressional committees
+
+Core foraging habitats
+
+Exclusive economic zone
+
+Institution of higher education
+
+Large cetacean
+
+Near real-time
+
+Nonprofit organization
+
+Puget Sound region
+
+Tribal government
+
+Under Secretary
+
+## Source Credit
+
+*([Pub. L. 117–263, div. K, title CXIII, § 11302](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4070](https://www.govinfo.gov/link/statute/136/4070).)*

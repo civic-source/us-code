@@ -3,9 +3,10 @@ title: "Section 5344 - Effective date of wage increase; retroactive pay"
 usc_title: 5
 usc_section: "5344"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5344"
-generated_at: "2026-03-30T02:52:56.014Z"
+generated_at: "2026-11-23T21:25:23.247Z"
+status: "active"
 ---
 
 # § 5344. Effective date of wage increase; retroactive pay
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:52:56.014Z"
 - **(b)** Retroactive pay is payable by reason of an increase in rates of basic pay referred to in subsection (a) of this section only when—
   - **(1)** the individual is in the service of the Government of the United States, including service in the armed forces, or the government of the District of Columbia on the date of the issuance of the order granting the increase; or
   - **(2)** the individual retired or died during the period beginning on the effective date of the increase and ending on the date of issuance of the order granting the increase, and only for services performed during that period.
+
+## Source Credit
+
+*(Added [Pub. L. 92–392, § 1(a)](https://www.govinfo.gov/link/plaw/92/public/392), Aug. 19, 1972, [86 Stat. 568](https://www.govinfo.gov/link/statute/86/568).)*

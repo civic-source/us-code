@@ -3,9 +3,10 @@ title: "Section 6317 - Home State office space for Senators; lease of office spa
 usc_title: 2
 usc_section: "6317"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 6317"
-generated_at: "2026-03-30T02:53:04.840Z"
+generated_at: "2026-11-23T21:25:21.353Z"
+status: "active"
 ---
 
 # § 6317. Home State office space for Senators; lease of office space
@@ -56,3 +57,9 @@ generated_at: "2026-03-30T02:53:04.840Z"
   - **(4)** No payment shall be made under paragraph (1) for rental payments and operating costs of a mobile office of a Senator which are attributable to or incurred during the 60-day period ending with the date of any primary or general election (whether regular, special, or runoff) in which that Senator is a candidate for public office, unless his candidacy in such election is uncontested.
   - **(5)** Payment under paragraph (1) shall be made on a monthly basis and shall be paid upon vouchers approved by the Sergeant at Arms of the Senate.
 - **(g)** This section is effective on and after July 1, 1974 .
+
+Or
+
+## Source Credit
+
+*([Pub. L. 93–371, § 3](https://www.govinfo.gov/link/plaw/93/public/371), Aug. 13, 1974, [88 Stat. 428](https://www.govinfo.gov/link/statute/88/428); [Pub. L. 94–32, title I, § 4](https://www.govinfo.gov/link/plaw/94/public/32), June 12, 1975, [89 Stat. 183](https://www.govinfo.gov/link/statute/89/183); [Pub. L. 94–59, title I](https://www.govinfo.gov/link/plaw/94/public/59), §§ 106(a), 107, July 25, 1975, [89 Stat. 276](https://www.govinfo.gov/link/statute/89/276); [Pub. L. 95–26, title I, § 105](https://www.govinfo.gov/link/plaw/95/public/26), May 4, 1977, [91 Stat. 83](https://www.govinfo.gov/link/statute/91/83); [Pub. L. 95–94, title I, § 112(d)](https://www.govinfo.gov/link/plaw/95/public/94), Aug. 5, 1977, [91 Stat. 664](https://www.govinfo.gov/link/statute/91/664); [Pub. L. 96–304, title I, § 109](https://www.govinfo.gov/link/plaw/96/public/304), July 8, 1980, [94 Stat. 890](https://www.govinfo.gov/link/statute/94/890); [Pub. L. 99–88, title I, § 194](https://www.govinfo.gov/link/plaw/99/public/88), Aug. 15, 1985, [99 Stat. 349](https://www.govinfo.gov/link/statute/99/349); [Pub. L. 102–27, title II](https://www.govinfo.gov/link/plaw/102/public/27), Apr. 10, 1991, [105 Stat. 144](https://www.govinfo.gov/link/statute/105/144); [Pub. L. 102–90, title I, § 7(b)](https://www.govinfo.gov/link/plaw/102/public/90), Aug. 14, 1991, [105 Stat. 451](https://www.govinfo.gov/link/statute/105/451); [Pub. L. 104–197, title I, § 3](https://www.govinfo.gov/link/plaw/104/public/197), Sept. 16, 1996, [110 Stat. 2397](https://www.govinfo.gov/link/statute/110/2397); [Pub. L. 106–57, title I, § 3](https://www.govinfo.gov/link/plaw/106/public/57), Sept. 29, 1999, [113 Stat. 411](https://www.govinfo.gov/link/statute/113/411); [Pub. L. 108–7, div. H, title I, § 4(a)](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 349](https://www.govinfo.gov/link/statute/117/349); [Pub. L. 118–36, § 1](https://www.govinfo.gov/link/plaw/118/public/36), Jan. 26, 2024, [138 Stat. 9](https://www.govinfo.gov/link/statute/138/9); [Pub. L. 118–47, div. E, title I, § 104](https://www.govinfo.gov/link/plaw/118/public/47), Mar. 23, 2024, [138 Stat. 712](https://www.govinfo.gov/link/statute/138/712).)*

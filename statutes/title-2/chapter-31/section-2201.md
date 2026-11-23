@@ -3,9 +3,10 @@ title: "Section 2201 - Designation of facility as Capitol Visitor Center; purpos
 usc_title: 2
 usc_section: "2201"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 2201"
-generated_at: "2026-03-30T02:53:04.826Z"
+generated_at: "2026-11-23T21:25:21.289Z"
+status: "active"
 ---
 
 # § 2201. Designation of facility as Capitol Visitor Center; purposes of facility; treatment of the Capitol Visitor Center
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:53:04.826Z"
       - **(iii)** has been approved by the Capitol Preservation Commission; or
     - **(B)** is the subject of a loan agreement described under paragraph (1)(A).
   - **(4)** A loan agreement described under paragraph (3)(A)(ii) may provide for the removal of an historical object from exhibition for preservation purposes and the substitution of that object with another historical object having a comparable educational purpose.
+
+## Source Credit
+
+*([Pub. L. 110–437, title I, § 101](https://www.govinfo.gov/link/plaw/110/public/437), Oct. 20, 2008, [122 Stat. 4984](https://www.govinfo.gov/link/statute/122/4984).)*

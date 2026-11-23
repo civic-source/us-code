@@ -3,9 +3,10 @@ title: "Section 345 - Irregular Warfare Center and Regional Defense Fellowship P
 usc_title: 10
 usc_section: "345"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 345"
-generated_at: "2026-03-30T02:53:38.053Z"
+generated_at: "2026-11-23T21:25:32.256Z"
+status: "active"
 ---
 
 # § 345. Irregular Warfare Center and Regional Defense Fellowship Program
@@ -67,3 +68,45 @@ generated_at: "2026-03-30T02:53:38.053Z"
 - **(f)** Not later than December 1, 2024 , and annually thereafter, the Secretary of Defense—
   - **(1)** shall conduct a review of the structure and activities of the Irregular Warfare Center to determine whether such structure and activities are appropriately aligned with the strategic priorities of the Department of Defense and the applicable combatant commands; and
   - **(2)** may, after an annual review under paragraph (1), revise the relevant structure and activities so as to more appropriately align such structure and activities with the strategic priorities and combatant commands.
+
+Authorities.—
+
+In general
+
+Covered costs
+
+Regulations for Regional Defense Fellowship Program.—
+
+In general
+
+Elements
+
+Submittal to congress
+
+Irregular Warfare Center.—
+
+Mission
+
+Employment and compensation of faculty
+
+Partnership with institution of higher education.—
+
+In general
+
+Types of partnerships
+
+Determination required
+
+Roles and responsibilities
+
+Limitation
+
+Annual Report
+
+Annual Review of Irregular Warfare Center
+
+“Not later than December 1, 2003 , the Secretary of Defense shall—
+
+## Source Credit
+
+*(Added [Pub. L. 108–136, div. A, title XII, § 1221(a)(1)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1651](https://www.govinfo.gov/link/statute/117/1651), § 2249c; amended [Pub. L. 109–364, div. A, title XII, § 1204(a)](https://www.govinfo.gov/link/plaw/109/public/364) –(d)(2), Oct. 17, 2006, [120 Stat. 2415](https://www.govinfo.gov/link/statute/120/2415); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title XII, § 1209(a), Oct. 14, 2008, [122 Stat. 4627](https://www.govinfo.gov/link/statute/122/4627); [Pub. L. 113–66, div. A, title X, § 1032(a)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 850](https://www.govinfo.gov/link/statute/127/850); renumbered § 345 and amended [Pub. L. 114–328, div. A, title XII, § 1247(a)](https://www.govinfo.gov/link/plaw/114/public/328) –(c), Dec. 23, 2016, [130 Stat. 2521](https://www.govinfo.gov/link/statute/130/2521); [Pub. L. 115–232, div. A, title XII, § 1209(a)](https://www.govinfo.gov/link/plaw/115/public/232), (b)(1), Aug. 13, 2018, [132 Stat. 2022](https://www.govinfo.gov/link/statute/132/2022), 2023; [Pub. L. 117–263, div. A, title XII, § 1204(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2827](https://www.govinfo.gov/link/statute/136/2827); [Pub. L. 119–60, div. A, title XII, § 1204](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1081](https://www.govinfo.gov/link/statute/139/1081).)*

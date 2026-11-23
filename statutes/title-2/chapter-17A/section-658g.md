@@ -3,9 +3,10 @@ title: "Section 658g - Clarification of application"
 usc_title: 2
 usc_section: "658g"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 658g"
-generated_at: "2026-03-30T02:53:04.801Z"
+generated_at: "2026-11-23T21:25:21.182Z"
+status: "active"
 ---
 
 # § 658g. Clarification of application
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:04.801Z"
     - **(A)** the aggregate amount of direct costs of Federal mandates that would result under the statute if the bill, joint resolution, amendment, motion, or conference report is enacted; and
     - **(B)** the aggregate amount of direct costs of Federal mandates that would result under the statute if the bill, joint resolution, amendment, motion, or conference report were not enacted.
   - **(3)** For purposes of this section, in the case of legislation to extend authorization of appropriations, the authorization level that would be provided by the extension shall be compared to the authorization level for the last year in which authorization of appropriations is already provided.
+
+## Source Credit
+
+*([Pub. L. 93–344, title IV, § 428](https://www.govinfo.gov/link/plaw/93/public/344), as added [Pub. L. 104–4, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/104/public/4), Mar. 22, 1995, [109 Stat. 59](https://www.govinfo.gov/link/statute/109/59).)*

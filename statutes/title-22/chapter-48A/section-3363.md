@@ -3,9 +3,10 @@ title: "Section 3363 - China censorship monitor and action group"
 usc_title: 22
 usc_section: "3363"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3363"
-generated_at: "2026-03-30T02:55:05.393Z"
+generated_at: "2026-11-23T21:25:58.584Z"
+status: "active"
 ---
 
 # § 3363. China censorship monitor and action group
@@ -66,3 +67,23 @@ generated_at: "2026-03-30T02:55:05.393Z"
     - **(A)** Not later than 1 year after December 23, 2022 , the Secretary of State shall submit the report written by the qualified research entity selected pursuant to paragraph (1)(A) to the appropriate congressional committees.
     - **(B)** The report referred to in subparagraph (A) shall be made accessible to the public online through relevant United States Government websites.
 - **(d)** This section shall terminate on the date that is 5 years after December 23, 2022 .
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. E, title LV, § 5515](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3313](https://www.govinfo.gov/link/statute/136/3313).)*

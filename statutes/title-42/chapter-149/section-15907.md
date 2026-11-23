@@ -3,9 +3,10 @@ title: "Section 15907 - Orphaned well site plugging, remediation, and restoratio
 usc_title: 42
 usc_section: "15907"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15907"
-generated_at: "2026-03-30T02:56:11.462Z"
+generated_at: "2026-11-23T21:26:33.681Z"
+status: "active"
 ---
 
 # § 15907. Orphaned well site plugging, remediation, and restoration
@@ -224,3 +225,49 @@ generated_at: "2026-03-30T02:56:11.462Z"
     - **(A)** identifying and characterizing undocumented orphaned wells; and
     - **(B)** mitigating the environmental risks of undocumented orphaned wells; and
   - **(3)** to the Interstate Oil and Gas Compact Commission, $2,000,000 to carry out this section.
+
+(aa) for which no operator can be located;
+
+(bb) the operator of which is unable— (AA) to plug the well; and (BB) to remediate and reclaim the well site; or
+
+(cc) that is within the National Petroleum Reserve–Alaska; and
+
+(aa) the State is a Member State or Associate Member State of the Interstate Oil and Gas Compact Commission;
+
+(bb) there are 1 or more documented orphaned wells located in the State; and
+
+(cc) the State will use not less than 90 percent of the funding requested under this subsection to issue new contracts, amend existing contracts, or issue grants for plugging, remediation, and reclamation work by not later than 90 days after the date of receipt of the funds; and
+
+(aa) the State— (AA) has in effect a plugging, remediation, and reclamation program for orphaned wells; or (BB) the capacity to initiate such a program; or
+
+(bb) the funds provided under this paragraph will be used to carry out any administrative actions necessary to develop an application for a formula grant under paragraph (4) or a performance grant under paragraph (5).
+
+(aa) beginning on March 1, 2020 ; and
+
+(bb) ending on November 15, 2021 .
+
+(aa) to plug or reclaim those orphaned wells;
+
+(bb) to reclaim adjacent land; and
+
+(cc) to decommission or remove associated pipelines, facilities, and infrastructure.
+
+(aa) plugging, remediating, or reclaiming orphaned wells;
+
+(bb) remediating or reclaiming adjacent land; and
+
+(cc) decommissioning or removing associated pipelines, facilities, and infrastructure;
+
+(aa) to plug, remediate, and reclaim orphaned wells; and
+
+(bb) to decommission or remove associated pipelines, facilities, or infrastructure; and
+
+(aa) to plug, remediate, and reclaim orphaned wells;
+
+(bb) to remediate or reclaim adjacent land; and
+
+(cc) to decommission or remove associated pipelines, facilities, and infrastructure.
+
+## Source Credit
+
+*([Pub. L. 109–58, title III, § 349](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 709](https://www.govinfo.gov/link/statute/119/709); [Pub. L. 113–40, § 10(b)](https://www.govinfo.gov/link/plaw/113/public/40), Oct. 2, 2013, [127 Stat. 545](https://www.govinfo.gov/link/statute/127/545); [Pub. L. 117–58, div. D, title VI, § 40601](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1080](https://www.govinfo.gov/link/statute/135/1080).)*

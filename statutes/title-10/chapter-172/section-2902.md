@@ -3,9 +3,10 @@ title: "Section 2902 - Strategic Environmental Research and Development Program 
 usc_title: 10
 usc_section: "2902"
 chapter: 172
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2902"
-generated_at: "2026-03-30T02:53:38.185Z"
+generated_at: "2026-11-23T21:25:32.702Z"
+status: "active"
 ---
 
 # § 2902. Strategic Environmental Research and Development Program Council
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:53:38.185Z"
   - **(10)** to ensure that the research and development programs identified for support pursuant to the policies and procedures prescribed by the Council are closely coordinated with, and do not duplicate, ongoing activities sponsored by the Department of Defense, the Department of Energy, the Environmental Protection Agency, the National Aeronautics and Space Administration, the National Oceanic and Atmospheric Administration, or other Federal agencies.
 - **(f)** The Council shall be subject to the authority, direction, and control of the Secretary of Defense in prescribing policies and procedures under subsection (d)(1).
 - **(g)** Not later than February 1 of each year, the Council shall submit to the Secretary of Defense the annual report prepared pursuant to subsection (d)(3).
+
+## Source Credit
+
+*(Added [Pub. L. 101–510, div. A, title XVIII, § 1801(a)(1)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1751](https://www.govinfo.gov/link/statute/104/1751); amended [Pub. L. 102–190, div. A, title II, § 257(a)](https://www.govinfo.gov/link/plaw/102/public/190), title X, § 1061(a)(19), Dec. 5, 1991, [105 Stat. 1331](https://www.govinfo.gov/link/statute/105/1331), 1473; [Pub. L. 102–484, div. A, title X, § 1052(38)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2501](https://www.govinfo.gov/link/statute/106/2501); [Pub. L. 103–160, div. A, title II, § 265(a)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1611](https://www.govinfo.gov/link/statute/107/1611); [Pub. L. 104–106, div. A, title II, § 203(a)](https://www.govinfo.gov/link/plaw/104/public/106) –(b)(2), (c), Feb. 10, 1996, [110 Stat. 217](https://www.govinfo.gov/link/statute/110/217), 218; [Pub. L. 105–245, title III, § 309(b)(2)(B)](https://www.govinfo.gov/link/plaw/105/public/245), Oct. 7, 1998, [112 Stat. 1853](https://www.govinfo.gov/link/statute/112/1853); [Pub. L. 106–65, div. A, title III, § 324](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 563](https://www.govinfo.gov/link/statute/113/563); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title III, § 313(b)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–55; [Pub. L. 108–136, div. A, title X, § 1031(a)(52)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1603](https://www.govinfo.gov/link/statute/117/1603); [Pub. L. 111–383, div. A, title IX, § 901(j)(5)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4324](https://www.govinfo.gov/link/statute/124/4324); [Pub. L. 116–92, div. A, title IX, § 902(80)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1553](https://www.govinfo.gov/link/statute/133/1553).)*

@@ -3,9 +3,10 @@ title: "Section 658d - Legislation subject to point of order"
 usc_title: 2
 usc_section: "658d"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 658d"
-generated_at: "2026-03-30T02:53:04.801Z"
+generated_at: "2026-11-23T21:25:21.177Z"
+status: "active"
 ---
 
 # § 658d. Legislation subject to point of order
@@ -33,3 +34,17 @@ generated_at: "2026-03-30T02:53:04.801Z"
   - **(2)** Upon a point of order being made by any Senator against any provision listed in paragraph (1)(B), and the point of order being sustained by the Chair, such specific provision shall be deemed stricken from the bill, resolution, amendment, amendment in disagreement, or conference report and may not be offered as an amendment from the floor.
 - **(d)** For purposes of this section, in the Senate, the presiding officer of the Senate shall consult with the Committee on Governmental Affairs, to the extent practicable, on questions concerning the applicability of this part to a pending bill, joint resolution, amendment, motion, or conference report.
 - **(e)** For purposes of this section, in the Senate, the levels of Federal mandates for a fiscal year shall be determined based on the estimates made by the Committee on the Budget.
+
+(aa) a statement that the agency has determined, based on a re-estimate of the direct costs of such mandate, after consultation with State, local, and tribal governments, that the amount appropriated is sufficient to pay for the direct costs of such mandate; or
+
+(bb) legislative recommendations for either implementing a less costly mandate or making such mandate ineffective for the fiscal year;
+
+(aa) in the case of a statement referred to in subclause (I)(aa), cease to be effective 60 days after the statement is submitted unless Congress has approved the agency’s determination by joint resolution during the 60-day period;
+
+(bb) cease to be effective 60 days after the date the legislative recommendations of the responsible Federal agency are submitted to Congress under subclause (I)(bb) unless Congress provides otherwise by law; or
+
+(cc) in the case that such mandate that has not yet taken effect, continue not to be effective unless Congress provides otherwise by law.
+
+## Source Credit
+
+*([Pub. L. 93–344, title IV, § 425](https://www.govinfo.gov/link/plaw/93/public/344), as added [Pub. L. 104–4, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/104/public/4), Mar. 22, 1995, [109 Stat. 56](https://www.govinfo.gov/link/statute/109/56).)*

@@ -3,9 +3,10 @@ title: "Section 280e - National program of cancer registries"
 usc_title: 42
 usc_section: "280e"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 280e"
-generated_at: "2026-03-30T02:56:10.727Z"
+generated_at: "2026-11-23T21:26:30.415Z"
+status: "active"
 ---
 
 # § 280e. National program of cancer registries
@@ -54,3 +55,11 @@ generated_at: "2026-03-30T02:56:10.727Z"
   - **(3)** The Secretary may not transfer administration responsibility for such SEER program from such Director.
   - **(4)** To encourage the greatest possible efficiency and effectiveness of Federally supported efforts with respect to the activities described in this subsection, the Secretary shall take steps to assure the appropriate coordination of programs supported under this part with existing Federally supported cancer registry programs.
 - **(e)** In the case of a grant under subsection (a) to any State specified in subsection (b) of section 280e–3 of this title , the Secretary may establish such conditions regarding the receipt of the grant as the Secretary determines are necessary to facilitate the collection of data for the study carried out under such section.
+
+Findings
+
+Purpose
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 399B, formerly § 399H, as added [Pub. L. 102–515, § 3](https://www.govinfo.gov/link/plaw/102/public/515), Oct. 24, 1992, [106 Stat. 3372](https://www.govinfo.gov/link/statute/106/3372); renumbered § 399B and amended [Pub. L. 106–310, div. A, title V, § 502(2)(A)](https://www.govinfo.gov/link/plaw/106/public/310), (B), Oct. 17, 2000, [114 Stat. 1115](https://www.govinfo.gov/link/statute/114/1115); [Pub. L. 107–260, § 2(a)](https://www.govinfo.gov/link/plaw/107/public/260), Oct. 29, 2002, [116 Stat. 1743](https://www.govinfo.gov/link/statute/116/1743).)*

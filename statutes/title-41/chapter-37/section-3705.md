@@ -3,9 +3,10 @@ title: "Section 3705 - Pre-award debriefings"
 usc_title: 41
 usc_section: "3705"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 3705"
-generated_at: "2026-03-30T02:55:55.806Z"
+generated_at: "2026-11-23T21:26:18.810Z"
+status: "active"
 ---
 
 # § 3705. Pre-award debriefings
@@ -19,3 +20,51 @@ generated_at: "2026-03-30T02:55:55.806Z"
   - **(3)** reasonable responses to relevant questions posed by the debriefed offeror as to whether source selection procedures set forth in the solicitation, applicable regulations, and other applicable authorities were followed by the executive agency.
 - **(e)** The debriefing conducted pursuant to this section may not disclose the number or identity of other offerors and shall not disclose information about the content, ranking, or evaluation of other offerors’ proposals.
 - **(f)** The contracting officer shall include a summary of the debriefing in the contract file.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3705(a) | 41:253b(f)(1) (1st sentence). | June 30, 1949, ch. 288 , title III, § 303B(f), (g) (related to § 303B(f)), as added Pub. L. 104–106, title XLI, § 4104(b)(3) , Feb. 10, 1996 , 110 Stat. 645 . |
+| 3705(b) | 41:253b(f)(1) (last sentence). |  |
+| 3705(c) | 41:253b(f)(2). |  |
+| 3705(d) | 41:253b(f)(3). |  |
+| 3705(e) | 41:253b(f)(4). |  |
+| 3705(f) | 41:253b(g) (related to 41:253b(f)). |  |
+
+
+Request for Debriefing
+
+When Debriefing To Be Conducted
+
+Precondition for Post-Award Debriefing
+
+Information To Be Provided
+
+Information Not To Be Disclosed
+
+Summary To Be Included in File
+
+Historical and Revision Notes
+
+3705(a)
+
+June 30, 1949, ch. 288
+
+Pub. L. 104–106, title XLI, § 4104(b)(3)
+
+Feb. 10, 1996
+
+110 Stat. 645
+
+3705(b)
+
+3705(c)
+
+3705(d)
+
+3705(e)
+
+3705(f)
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3772](https://www.govinfo.gov/link/statute/124/3772).)*

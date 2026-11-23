@@ -3,9 +3,10 @@ title: "Section 4712 - Assessment"
 usc_title: 19
 usc_section: "4712"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4712"
-generated_at: "2026-03-30T02:54:24.715Z"
+generated_at: "2026-11-23T21:25:42.897Z"
+status: "active"
 ---
 
 # § 4712. Assessment
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:24.715Z"
 - **(e)** The Interagency Environment Committee shall consult on a regular basis with the USMCA countries—
   - **(1)** in carrying out the assessment required by subsection (a) and the update to the assessment required by subsection (d); and
   - **(2)** in preparing the report required by subsection (c).
+
+## Source Credit
+
+*([Pub. L. 116–113, title VIII, § 812](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 91](https://www.govinfo.gov/link/statute/134/91).)*

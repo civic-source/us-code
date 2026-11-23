@@ -3,9 +3,10 @@ title: "Section 1108 - Department of Defense consultation"
 usc_title: 14
 usc_section: "1108"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 1108"
-generated_at: "2026-03-30T02:53:51.492Z"
+generated_at: "2026-11-23T21:25:35.396Z"
+status: "active"
 ---
 
 # § 1108. Department of Defense consultation
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:53:51.492Z"
   - **(2)** the use, as appropriate, of Navy technical expertise; and
   - **(3)** the temporary assignment or exchange of personnel between the Coast Guard and the Office of the Assistant Secretary of the Navy for Research, Development, and Acquisition, including Naval Systems Command, to facilitate the development of organic capabilities in the Coast Guard.
 - **(c)** The Chief Acquisition Officer shall adopt, to the extent practicable, procedures modeled after those used by the Navy Senior Acquisition Official to approve all technical requirements.
+
+In General
+
+Interservice Technical Assistance
+
+Technical Requirement Approval Procedures
+
+## Source Credit
+
+*(Added [Pub. L. 111–281, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2937](https://www.govinfo.gov/link/statute/124/2937), § 566; amended [Pub. L. 111–330, § 1(4)](https://www.govinfo.gov/link/plaw/111/public/330), Dec. 22, 2010, [124 Stat. 3569](https://www.govinfo.gov/link/statute/124/3569); [Pub. L. 115–232, div. C, title XXXV, § 3534](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2322](https://www.govinfo.gov/link/statute/132/2322); renumbered § 1108, [Pub. L. 115–282, title I, § 108(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4208](https://www.govinfo.gov/link/statute/132/4208).)*

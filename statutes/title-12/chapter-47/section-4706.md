@@ -3,9 +3,10 @@ title: "Section 4706 - Selection of institutions"
 usc_title: 12
 usc_section: "4706"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4706"
-generated_at: "2026-03-30T02:53:53.516Z"
+generated_at: "2026-11-23T21:25:37.211Z"
+status: "active"
 ---
 
 # § 4706. Selection of institutions
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:53.516Z"
   - **(13)** in the case of an applicant with a prior history of serving investment areas or targeted populations, the extent of success in serving them; and
   - **(14)** other factors deemed to be appropriate by the Fund.
 - **(b)** In selecting applicants for assistance, the Fund shall seek to fund a geographically diverse group of applicants, which shall include applicants from metropolitan, nonmetropolitan, and rural areas.
+
+## Source Credit
+
+*([Pub. L. 103–325, title I, § 107](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2172](https://www.govinfo.gov/link/statute/108/2172).)*

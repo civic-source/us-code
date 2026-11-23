@@ -3,9 +3,10 @@ title: "Section 9905 - Definitions"
 usc_title: 20
 usc_section: "9905"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9905"
-generated_at: "2026-03-30T02:54:48.233Z"
+generated_at: "2026-11-23T21:25:47.683Z"
+status: "active"
 ---
 
 # § 9905. Definitions
@@ -21,3 +22,7 @@ In this chapter:
     - **(D)** whose teaching has been recognized for exceptional accomplishments in educating students, or is demonstrated to have resulted in improved student achievement.
   - **(4)** The term “mentor teacher” means an elementary or secondary school classroom teacher who assists with the training of students participating in a field-based course.
   - **(5)** The term “Director” means the Director of the National Science Foundation.
+
+## Source Credit
+
+*([Pub. L. 111–358, title V, § 555](https://www.govinfo.gov/link/plaw/111/public/358), Jan. 4, 2011, [124 Stat. 4025](https://www.govinfo.gov/link/statute/124/4025).)*

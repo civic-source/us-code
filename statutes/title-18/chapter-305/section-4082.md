@@ -3,9 +3,10 @@ title: "Section 4082 - Commitment to Attorney General; residential treatment cen
 usc_title: 18
 usc_section: "4082"
 chapter: 305
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 4082"
-generated_at: "2026-03-30T02:54:16.527Z"
+generated_at: "2026-11-23T21:25:44.237Z"
+status: "active"
 ---
 
 # § 4082. Commitment to Attorney General; residential treatment centers; extension of limits of confinement; work furlough
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:16.527Z"
     - **(F)** the nature of the offenses against the United States of which each such prisoner has been convicted and the factual circumstances relating to such offenses.
   - **(2)** Any law enforcement agency which receives information under this subsection shall not disseminate such information outside of such agency.
 - **(c)** As used in this section— the term “facility” shall include a residential community treatment center; and the term “relative” shall mean a spouse, child (including stepchild, adopted child or child as to whom the prisoner, though not a natural parent, has acted in the place of a parent), parent (including a person who, though not a natural parent, has acted in the place of a parent), brother, or sister.
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 850](https://www.govinfo.gov/link/statute/62/850); [Pub. L. 89–176, § 1](https://www.govinfo.gov/link/plaw/89/public/176), Sept. 10, 1965, [79 Stat. 674](https://www.govinfo.gov/link/statute/79/674); [Pub. L. 93–209](https://www.govinfo.gov/link/plaw/93/public/209), Dec. 28, 1973, [87 Stat. 907](https://www.govinfo.gov/link/statute/87/907); [Pub. L. 98–473, title II, § 218(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2027](https://www.govinfo.gov/link/statute/98/2027); [Pub. L. 99–646, § 57(a)](https://www.govinfo.gov/link/plaw/99/public/646), Nov. 10, 1986, [100 Stat. 3611](https://www.govinfo.gov/link/statute/100/3611).)*

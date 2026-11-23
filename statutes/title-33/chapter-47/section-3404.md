@@ -3,9 +3,10 @@ title: "Section 3404 - Education, workforce training, and outreach"
 usc_title: 33
 usc_section: "3404"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3404"
-generated_at: "2026-03-30T02:55:41.141Z"
+generated_at: "2026-11-23T21:26:11.484Z"
+status: "active"
 ---
 
 # § 3404. Education, workforce training, and outreach
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:41.141Z"
   - **(1)** education of the general public, teachers, students, and ocean and coastal resource managers; and
   - **(2)** workforce training, reskilling, and opportunities to encourage development of ocean-related science, technology, engineering, and mathematics technical training programs involving secondary schools, community colleges, and universities, including institutions described in section 1067q(a) of title 20 .
 - **(c)** Not later than 180 days after the date of the enactment of the National Ocean Exploration Act, 1 1 See References in Text note below. the Administrator of the National Oceanic and Atmospheric Administration shall develop an outreach strategy to broadly disseminate information on the discoveries made by the program under section 3402 of this title .
+
+## Source Credit
+
+*([Pub. L. 111–11, title XII, § 12004](https://www.govinfo.gov/link/plaw/111/public/11), as added [Pub. L. 117–263, div. J, title CIII, § 10305(e)(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3973](https://www.govinfo.gov/link/statute/136/3973).)*

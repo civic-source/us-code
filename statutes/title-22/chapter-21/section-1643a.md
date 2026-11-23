@@ -3,9 +3,10 @@ title: "Section 1643a - Definitions"
 usc_title: 22
 usc_section: "1643a"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1643a"
-generated_at: "2026-03-30T02:55:05.337Z"
+generated_at: "2026-11-23T21:25:58.409Z"
+status: "active"
 ---
 
 # § 1643a. Definitions
@@ -17,3 +18,7 @@ For the purposes of this subchapter:
   - **(3)** The term “property” means any property, right, or interest, including any leasehold interest, and debts owed by the Government of Cuba or the Chinese Communist regime or by enterprises which have been nationalized, expropriated, intervened, or taken by the Government of Cuba or the Chinese Communist regime and debts which are a charge on property which has been nationalized, expropriated, intervened, or taken by the Government of Cuba or the Chinese Communist regime.
   - **(4)** The term “Government of Cuba” includes the government of any political subdivision, agency, or instrumentality thereof.
   - **(5)** The term “Chinese Communist regime” means the so-called Peoples Republic of China, including any political subdivision, agency, or instrumentality thereof.
+
+## Source Credit
+
+*(Mar. 10, 1950, ch. 54, title V, § 502, as added [Pub. L. 88–666](https://www.govinfo.gov/link/plaw/88/public/666), Oct. 16, 1964, [78 Stat. 1110](https://www.govinfo.gov/link/statute/78/1110); amended [Pub. L. 89–780, § 2](https://www.govinfo.gov/link/plaw/89/public/780), Nov. 6, 1966, [80 Stat. 1365](https://www.govinfo.gov/link/statute/80/1365).)*

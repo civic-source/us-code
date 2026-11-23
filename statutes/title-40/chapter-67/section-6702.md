@@ -3,9 +3,10 @@ title: "Section 6702 - Transfer and assignment of rights, title, and interests i
 usc_title: 40
 usc_section: "6702"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 6702"
-generated_at: "2026-03-30T02:55:43.382Z"
+generated_at: "2026-11-23T21:26:14.890Z"
+status: "active"
 ---
 
 # § 6702. Transfer and assignment of rights, title, and interests in property
@@ -41,3 +42,52 @@ generated_at: "2026-03-30T02:55:43.382Z"
     - **(B)** establish a nonprofit foundation to solicit amounts for those activities.
   - **(4)** Jurisdiction of Pennsylvania Avenue and all other roadways from curb to curb remains with the District of Columbia but vendors are not permitted to occupy street space except during temporary special events.
 - **(d)** The National Capital Planning Commission is responsible for ensuring that development in the Pennsylvania Avenue area is carried out in accordance with the Pennsylvania Avenue Development Corporation Plan—1974.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 6702 | 40:872 note. | Pub. L. 104–134, title I, § 101(c) [title III, § 313(a)–(e)] , Apr. 26, 1996 , 110 Stat. 1321–198 , renumbered as title I by Pub. L. 104–140, § 1(a) , May 2, 1996 , 110 Stat. 1327 . |
+
+
+In General.—
+
+Leases, covenants, agreements, and easements
+
+Property
+
+General Services Administration.—
+
+Responsibilities
+
+Powers
+
+National Park Service.—
+
+Property
+
+Responsibilities
+
+Special events, festivals, concerts, or programs
+
+Jurisdiction of district of columbia
+
+National Capital Planning Commission
+
+Historical and Revision Notes
+
+6702
+
+Pub. L. 104–134, title I, § 101(c) [title III, § 313(a)–(e)]
+
+Apr. 26, 1996
+
+110 Stat. 1321–198
+
+Pub. L. 104–140, § 1(a)
+
+May 2, 1996
+
+110 Stat. 1327
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1194](https://www.govinfo.gov/link/statute/116/1194).)*

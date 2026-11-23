@@ -3,9 +3,10 @@ title: "Section 8512a - Learning excellence and good examples from new developer
 usc_title: 15
 usc_section: "8512a"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8512a"
-generated_at: "2026-03-30T02:54:08.230Z"
+generated_at: "2026-11-23T21:25:40.084Z"
+status: "active"
 ---
 
 # § 8512a. Learning excellence and good examples from new developers
@@ -61,3 +62,7 @@ generated_at: "2026-03-30T02:54:08.230Z"
   - **(1)** Notwithstanding any other provision of this section, for models developed in whole or in part with the Department of Defense, the Administrator, in consultation with the Secretary of Defense, as appropriate, shall withhold any model or data if the Administrator or the Secretary of Defense determines doing so to be necessary to protect the national security interests of the United States.
   - **(2)** Nothing in this section shall be construed to supersede any other provision of law governing the protection of the national security interests of the United States.
 - **(g)** There is authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2023 through 2027.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. J, title CVI, § 10601](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3995](https://www.govinfo.gov/link/statute/136/3995).)*

@@ -3,9 +3,10 @@ title: "Section 292r - Loan provisions"
 usc_title: 42
 usc_section: "292r"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 292r"
-generated_at: "2026-03-30T02:56:10.774Z"
+generated_at: "2026-11-23T21:26:30.621Z"
+status: "active"
 ---
 
 # § 292r. Loan provisions
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:10.774Z"
 - **(m)**
   - **(1)** It is the purpose of this subsection to ensure that obligations to repay loans under this section are enforced without regard to any Federal or State statutory, regulatory, or administrative limitation on the period within which debts may be enforced.
   - **(2)** Notwithstanding any other provision of Federal or State law, no limitation shall terminate the period within which suit may be filed, a judgment may be enforced, or an offset, garnishment, or other action may be initiated or taken by a school that has an agreement with the Secretary pursuant to section 292q of this title that is seeking the repayment of the amount due from a borrower on a loan made under this subpart after the default of the borrower on such loan.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 722, as added [Pub. L. 102–408, title I, § 102](https://www.govinfo.gov/link/plaw/102/public/408), Oct. 13, 1992, [106 Stat. 2012](https://www.govinfo.gov/link/statute/106/2012); amended [Pub. L. 103–43, title XX, § 2014(b)](https://www.govinfo.gov/link/plaw/103/public/43), June 10, 1993, [107 Stat. 215](https://www.govinfo.gov/link/statute/107/215); [Pub. L. 105–392, title I, § 134(a)](https://www.govinfo.gov/link/plaw/105/public/392), (b)(1), Nov. 13, 1998, [112 Stat. 3577](https://www.govinfo.gov/link/statute/112/3577), 3578; [Pub. L. 117–103, div. R, § 104(2)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 821](https://www.govinfo.gov/link/statute/136/821).)*

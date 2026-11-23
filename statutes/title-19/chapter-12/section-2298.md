@@ -3,9 +3,10 @@ title: "Section 2298 - Relocation allowances"
 usc_title: 19
 usc_section: "2298"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2298"
-generated_at: "2026-03-30T02:54:24.670Z"
+generated_at: "2026-11-23T21:25:42.789Z"
+status: "active"
 ---
 
 # § 2298. Relocation allowances
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:24.670Z"
 - **(c)** A relocation allowance may not be granted to a worker unless—
   - **(1)** the relocation occurs within 182 days after the filing of the application for relocation assistance; or
   - **(2)** the relocation occurs within 182 days after the conclusion of training, if the worker entered a training program approved by the Secretary under section 2296(b)(1) and (2) of this title.
+
+## Source Credit
+
+*([Pub. L. 93–618, title II, § 238](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 2024](https://www.govinfo.gov/link/statute/88/2024); [Pub. L. 97–35, title XXV, § 2508](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 886](https://www.govinfo.gov/link/statute/95/886); [Pub. L. 98–369, div. B, title VI, § 2672(b)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1172](https://www.govinfo.gov/link/statute/98/1172); [Pub. L. 107–210, div. A, title I, § 122](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 943](https://www.govinfo.gov/link/statute/116/943); [Pub. L. 108–429, title II, § 2004(a)(6)](https://www.govinfo.gov/link/plaw/108/public/429), Dec. 3, 2004, [118 Stat. 2590](https://www.govinfo.gov/link/statute/118/2590); [Pub. L. 111–5, div. B, title I, § 1833(b)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 386](https://www.govinfo.gov/link/statute/123/386); [Pub. L. 112–40, title II](https://www.govinfo.gov/link/plaw/112/public/40), §§ 201(b), (c), 214(e), Oct. 21, 2011, [125 Stat. 403](https://www.govinfo.gov/link/statute/125/403), 406; [Pub. L. 114–27, title IV, § 402(b)](https://www.govinfo.gov/link/plaw/114/public/27), (c), June 29, 2015, [129 Stat. 374](https://www.govinfo.gov/link/statute/129/374).)*

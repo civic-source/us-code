@@ -3,9 +3,10 @@ title: "Section 4121 - Definitions"
 usc_title: 42
 usc_section: "4121"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4121"
-generated_at: "2026-03-30T02:56:11.200Z"
+generated_at: "2026-11-23T21:26:32.638Z"
+status: "active"
 ---
 
 # § 4121. Definitions
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.200Z"
   - **(15)** the term “substantially damaged structure” means a structure covered by a contract for flood insurance that has incurred damage for which the cost of repair exceeds an amount specified in any regulation promulgated by the Administrator, or by a community ordinance, whichever is lower.
 - **(b)** The term “flood” shall also include inundation from mudslides which are proximately caused by accumulations of water on or under the ground; and all of the provisions of this chapter shall apply with respect to such mud-slides in the same manner and to the same extent as with respect to floods described in subsection (a)(1), subject to and in accordance with such regulations, modifying the provisions of this chapter (including the provisions relating to land management and use) to the extent necessary to insure that they can be effectively so applied, as the Administrator may prescribe to achieve (with respect to such mudslides) the purposes of this chapter and the objectives of the program.
 - **(c)** The term “flood” shall also include the collapse or subsidence of land along the shore of a lake or other body of water as a result of erosion or undermining caused by waves or currents of water exceeding anticipated cyclical levels, and all of the provisions of this chapter shall apply with respect to such collapse or subsidence in the same manner and to the same extent as with respect to floods described in subsection (a)(1), subject to and in accordance with such regulations, modifying the provisions of this chapter (including the provisions relating to land management and use) to the extent necessary to insure that they can be effectively so applied, as the Administrator may prescribe to achieve (with respect to such collapse or subsidence) the purposes of this chapter and the objectives of the program.
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIII, § 1370](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 588](https://www.govinfo.gov/link/statute/82/588); [Pub. L. 91–152, title IV, § 409(b)](https://www.govinfo.gov/link/plaw/91/public/152), Dec. 24, 1969, [83 Stat. 397](https://www.govinfo.gov/link/statute/83/397); [Pub. L. 93–234, title I](https://www.govinfo.gov/link/plaw/93/public/234), §§ 107, 108(b), Dec. 31, 1973, [87 Stat. 979](https://www.govinfo.gov/link/statute/87/979), 980; [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title IV, § 451(d)(1), (8)], Nov. 30, 1983, [97 Stat. 1229](https://www.govinfo.gov/link/statute/97/1229); [Pub. L. 100–628, title X, § 1086(b)](https://www.govinfo.gov/link/plaw/100/public/628), Nov. 7, 1988, [102 Stat. 3278](https://www.govinfo.gov/link/statute/102/3278); [Pub. L. 103–325, title V, § 512(a)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2256](https://www.govinfo.gov/link/statute/108/2256); [Pub. L. 108–264, title I, § 105(b)](https://www.govinfo.gov/link/plaw/108/public/264), June 30, 2004, [118 Stat. 723](https://www.govinfo.gov/link/statute/118/723); [Pub. L. 112–141, div. F, title II](https://www.govinfo.gov/link/plaw/112/public/141), §§ 100232(d)(5), 100238(b)(1), (3), July 6, 2012, [126 Stat. 954](https://www.govinfo.gov/link/statute/126/954), 958.)*

@@ -3,9 +3,10 @@ title: "Section 9704 - Service coordination hydrologists at River Forecast Cente
 usc_title: 15
 usc_section: "9704"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9704"
-generated_at: "2026-03-30T02:54:08.250Z"
+generated_at: "2026-11-23T21:25:40.153Z"
+status: "active"
 ---
 
 # § 9704. Service coordination hydrologists at River Forecast Centers of the National Weather Service
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:08.250Z"
     - **(C)** develop plans to meet the objectives identified under subparagraph (B); and
     - **(D)** conduct flooding event preparedness planning and citizen education efforts with and through various State, local, and Tribal government agencies and other disaster management-related organizations.
   - **(2)** The Director may assign a responsibility set forth in paragraph (1) to such other staff as the Director considers appropriate to carry out such responsibility.
+
+## Source Credit
+
+*([Pub. L. 117–316, § 5](https://www.govinfo.gov/link/plaw/117/public/316), Dec. 27, 2022, [136 Stat. 4408](https://www.govinfo.gov/link/statute/136/4408).)*

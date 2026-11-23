@@ -3,9 +3,10 @@ title: "Section 4004a - South Florida harmful algal blooms and hypoxia"
 usc_title: 33
 usc_section: "4004a"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 4004a"
-generated_at: "2026-03-30T02:55:41.146Z"
+generated_at: "2026-11-23T21:26:11.495Z"
+status: "active"
 ---
 
 # § 4004a. South Florida harmful algal blooms and hypoxia
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:55:41.146Z"
     - **(G)** utilize existing research, assessments, reports, and program activities;
     - **(H)** publish a summary of the proposed plan in the Federal Register at least 180 days prior to submitting the completed plan to Congress; and
     - **(I)** after submitting the completed plan to Congress, provide biennial progress reports on the activities toward achieving the objectives of the plan.
+
+## Source Credit
+
+*([Pub. L. 105–383, title VI, § 605](https://www.govinfo.gov/link/plaw/105/public/383), as added [Pub. L. 117–144, § 2(a)(2)](https://www.govinfo.gov/link/plaw/117/public/144), June 16, 2022, [136 Stat. 1266](https://www.govinfo.gov/link/statute/136/1266).)*

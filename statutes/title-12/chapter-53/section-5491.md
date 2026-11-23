@@ -3,9 +3,10 @@ title: "Section 5491 - Establishment of the Bureau of Consumer Financial Protect
 usc_title: 12
 usc_section: "5491"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5491"
-generated_at: "2026-03-30T02:53:53.542Z"
+generated_at: "2026-11-23T21:25:37.273Z"
+status: "active"
 ---
 
 # § 5491. Establishment of the Bureau of Consumer Financial Protection
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:53.542Z"
   - **(3)** The President may remove the Director for inefficiency, neglect of duty, or malfeasance in office.
 - **(d)** No Director or Deputy Director may hold any office, position, or employment in any Federal reserve bank, Federal home loan bank, covered person, or service provider during the period of service of such person as Director or Deputy Director.
 - **(e)** The principal office of the Bureau shall be in the District of Columbia. The Director may establish regional offices of the Bureau, including in cities in which the Federal reserve banks, or branches of such banks, are located, in order to carry out the responsibilities assigned to the Bureau under the Federal consumer financial laws.
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1011](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1964](https://www.govinfo.gov/link/statute/124/1964).)*

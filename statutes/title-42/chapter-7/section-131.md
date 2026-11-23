@@ -3,9 +3,10 @@ title: "Section 131 - Application to Medicare Advantage program and related mana
 usc_title: 42
 usc_section: "131"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 131"
-generated_at: "2026-03-30T02:56:10.990Z"
+generated_at: "2026-11-23T21:26:31.589Z"
+status: "active"
 ---
 
 # § 1395w–131. Application to Medicare Advantage program and related managed care programs
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:56:10.990Z"
   - **(1)** Subject to paragraphs (2) and (3) and rules established by the Secretary, in the case of a PACE program under section 1395eee of this title that elects to provide qualified prescription drug coverage to a part D eligible individual who is enrolled under such program, the provisions of this part (and related provisions of part C) shall apply to the provision of such coverage to such enrollee in a manner that is similar to the manner in which such provisions apply to the provision of such coverage under an MA–PD local plan described in section 1395w–21(a)(2)(A)(ii) of this title and a PACE program that so provides such coverage may be deemed to be an MA–PD local plan.
   - **(2)** In applying paragraph (1), the organization may not enroll part D eligible individuals who are not enrolled under the PACE program involved.
   - **(3)** The bid of an organization offering prescription drug coverage under this subsection is not be taken into account in computing any average benchmark bid amount and low-income benchmark premium amount under this part.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1860D–21, as added [Pub. L. 108–173, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2122](https://www.govinfo.gov/link/statute/117/2122); amended [Pub. L. 117–169, title I, § 11201(e)(4)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1891](https://www.govinfo.gov/link/statute/136/1891).)*

@@ -3,9 +3,10 @@ title: "Section 1704A - Independent assessments of health care delivery systems 
 usc_title: 38
 usc_section: "1704A"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1704A"
-generated_at: "2026-03-30T02:55:53.482Z"
+generated_at: "2026-11-23T21:26:16.621Z"
+status: "active"
 ---
 
 # § 1704A. Independent assessments of health care delivery systems and management processes
@@ -70,3 +71,21 @@ generated_at: "2026-03-30T02:55:53.482Z"
   - **(2)** Not later than 30 days after receiving a report under paragraph (1), the Secretary shall publish such report in the Federal Register and on a publicly accessible internet website of the Department.
   - **(3)** Not later than 90 days after receiving a report under paragraph (1), the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report outlining the feasibility and advisability of implementing the recommendations made by the private sector entity or entities in such report received, including an identification of the timeline, cost, and any legislative authorities necessary for such implementation.
 - **(g)** The requirement to enter into contracts under subsection (a) shall terminate on December 31, 2055 .
+
+Independent Assessments
+
+Timing
+
+Leveraging of Existing Data and Contracts
+
+Private Sector Entities Described
+
+Program Integrator
+
+Reports
+
+Sunset
+
+## Source Credit
+
+*(Added [Pub. L. 117–328, div. U, title I, § 194(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5440](https://www.govinfo.gov/link/statute/136/5440).)*

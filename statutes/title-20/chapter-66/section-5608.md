@@ -3,9 +3,10 @@ title: "Section 5608 - Administrative provisions"
 usc_title: 20
 usc_section: "5608"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 5608"
-generated_at: "2026-03-30T02:54:48.189Z"
+generated_at: "2026-11-23T21:25:47.471Z"
+status: "active"
 ---
 
 # § 5608. Administrative provisions
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:48.189Z"
   - **(7)** to 1 1 So in original. The word “to” probably should not appear. rent office space in the District of Columbia and Tucson, Arizona, or their environs; and
   - **(8)** make other necessary expenditures.
 - **(b)** The authorities set forth above shall apply to the National Center established pursuant to section 5607a of this title and to the activities of the Foundation under section 5604(7) of this title .
+
+## Source Credit
+
+*([Pub. L. 102–259, § 12](https://www.govinfo.gov/link/plaw/102/public/259), formerly § 10, Mar. 19, 1992, [106 Stat. 83](https://www.govinfo.gov/link/statute/106/83); renumbered § 12, [Pub. L. 105–156, § 6(a)](https://www.govinfo.gov/link/plaw/105/public/156), Feb. 11, 1998, [112 Stat. 9](https://www.govinfo.gov/link/statute/112/9); amended [Pub. L. 105–277, div. A, § 101(h) [title V, § 517(b)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–480](https://www.govinfo.gov/link/statute/112/2681), 2681–512; [Pub. L. 106–568, title VIII, § 817(b)](https://www.govinfo.gov/link/plaw/106/public/568), Dec. 27, 2000, [114 Stat. 2918](https://www.govinfo.gov/link/statute/114/2918); [Pub. L. 111–90, § 10](https://www.govinfo.gov/link/plaw/111/public/90), Nov. 3, 2009, [123 Stat. 2978](https://www.govinfo.gov/link/statute/123/2978); [Pub. L. 116–94, div. P, title III, § 308](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3190](https://www.govinfo.gov/link/statute/133/3190).)*

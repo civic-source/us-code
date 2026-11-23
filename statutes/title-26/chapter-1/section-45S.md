@@ -3,9 +3,10 @@ title: "Section 45S - Employer credit for paid family and medical leave"
 usc_title: 26
 usc_section: "45S"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 45S"
-generated_at: "2026-03-30T02:55:27.604Z"
+generated_at: "2026-11-23T21:26:05.940Z"
+status: "active"
 ---
 
 # § 45S. Employer credit for paid family and medical leave
@@ -57,3 +58,11 @@ generated_at: "2026-03-30T02:55:27.604Z"
 - **(h)**
   - **(1)** A taxpayer may elect to have this section not apply for any taxable year.
   - **(2)** Rules similar to the rules of paragraphs (2) and (3) of section 51(j) shall apply for purposes of this subsection.
+
+Aggregation rule
+
+Treatment of benefits mandated or paid for by state or local governments
+
+## Source Credit
+
+*(Added [Pub. L. 115–97, title I, § 13403(a)(1)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2135](https://www.govinfo.gov/link/statute/131/2135); amended [Pub. L. 116–94, div. Q, title I, § 142(a)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3234](https://www.govinfo.gov/link/statute/133/3234); [Pub. L. 116–260, div. EE, title I, § 119(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3051](https://www.govinfo.gov/link/statute/134/3051); [Pub. L. 119–21, title VII, § 70304(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 195](https://www.govinfo.gov/link/statute/139/195).)*

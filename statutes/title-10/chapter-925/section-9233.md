@@ -3,9 +3,10 @@ title: "Section 9233 - Requirement of exemplary conduct"
 usc_title: 10
 usc_section: "9233"
 chapter: 925
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 9233"
-generated_at: "2026-03-30T02:53:38.257Z"
+generated_at: "2026-11-23T21:25:32.982Z"
+status: "active"
 ---
 
 # § 9233. Requirement of exemplary conduct
@@ -16,3 +17,7 @@ All commanding officers and others in authority in the Air Force and in the Spac
   - **(2)** to be vigilant in inspecting the conduct of all persons who are placed under their command;
   - **(3)** to guard against and suppress all dissolute and immoral practices, and to correct, according to the laws and regulations of the Air Force or the Space Force, respectively, all persons who are guilty of them; and
   - **(4)** to take all necessary and proper measures, under the laws, regulations, and customs of the Air Force or the Space Force, respectively, to promote and safeguard the morale, the physical well-being, and the general welfare of the officers and enlisted persons under their command or charge.
+
+## Source Credit
+
+*(Added [Pub. L. 105–85, div. A, title V, § 507(b)(1)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1727](https://www.govinfo.gov/link/statute/111/1727), § 8583; renumbered § 9233, [Pub. L. 115–232, div. A, title VIII, § 806(b)(7)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1832](https://www.govinfo.gov/link/statute/132/1832); amended [Pub. L. 116–283, div. A, title IX, § 923(c)(7)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3811](https://www.govinfo.gov/link/statute/134/3811).)*

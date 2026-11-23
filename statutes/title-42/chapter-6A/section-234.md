@@ -3,9 +3,10 @@ title: "Section 234 - Health care professionals assisting during a public health
 usc_title: 42
 usc_section: "234"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 234"
-generated_at: "2026-03-30T02:56:10.688Z"
+generated_at: "2026-11-23T21:26:30.231Z"
+status: "active"
 ---
 
 # § 234. Health care professionals assisting during a public health emergency
@@ -30,3 +31,23 @@ generated_at: "2026-03-30T02:56:10.688Z"
 - **(e)**
   - **(1)** This section shall take effect 90 days after June 24, 2019 .
   - **(2)** This section shall apply to a claim for harm only if the act or omission that caused such harm occurred on or after the effective date described in paragraph (1).
+
+Limitation on Liability
+
+Exceptions
+
+Preemption.—
+
+In general
+
+Volunteer protection act
+
+Definitions
+
+Effective Date
+
+Sunset
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title II, § 225, as added [Pub. L. 116–22, title II, § 208(a)](https://www.govinfo.gov/link/plaw/116/public/22), June 24, 2019, [133 Stat. 927](https://www.govinfo.gov/link/statute/133/927).)*

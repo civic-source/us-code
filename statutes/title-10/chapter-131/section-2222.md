@@ -3,9 +3,10 @@ title: "Section 2222 - Defense business systems: business process reengineering;
 usc_title: 10
 usc_section: "2222"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2222"
-generated_at: "2026-03-30T02:53:38.149Z"
+generated_at: "2026-11-23T21:25:32.576Z"
+status: "active"
 ---
 
 # § 2222. Defense business systems: business process reengineering; enterprise architecture; management
@@ -117,3 +118,343 @@ generated_at: "2026-03-30T02:53:38.149Z"
   - **(9)** The term “business process mapping” means a procedure in which the steps in a business process are clarified and documented in both written form and in a flow chart.
   - **(10)** The term “common enterprise data” means business operations or management-related data, generally from defense business systems, in a usable format that is automatically accessible by authorized personnel and organizations.
   - **(11)** The term “data governance process” means a system to manage the timely Department of Defense-wide sharing of data described under subsection (e)(6)(A).
+
+Defense Business Processes Generally
+
+Defense Business Systems Generally
+
+Issuance of Guidance.—
+
+Secretary of defense guidance
+
+Supporting guidance
+
+Guidance Elements
+
+Defense Business Enterprise Architecture.—
+
+Blueprint
+
+Purpose
+
+Elements
+
+Integration into information technology architecture
+
+Common enterprise data
+
+Roles and responsibilities.—
+
+Defense Business Council.—
+
+Requirement for council
+
+Membership
+
+Approvals Required for Development.—
+
+Initial approval required
+
+Appropriate official
+
+Annual certification
+
+Obligation of funds in violation of requirements
+
+Responsibility of Milestone Decision Authority
+
+Definitions
+
+Defense business system
+
+Covered defense business system
+
+Business system portfolio
+
+Covered defense business system program
+
+Priority defense business system
+
+Enterprise architecture
+
+Information system
+
+National security system
+
+Business process mapping
+
+Common enterprise data
+
+Data governance process
+
+Framework Development
+
+Technical Debt Categorization
+
+Framework Components.—
+
+Integration requirement
+
+Metrics
+
+Process integration
+
+Minimum requirements
+
+Implementation
+
+Budget Materials.—
+
+Justification requirements
+
+Program alignment
+
+Congressional Briefing
+
+Definitions
+
+Pilot Program Required
+
+Method of Implementation
+
+Software
+
+Consultation
+
+Report
+
+Metrics Required
+
+Elements
+
+Additional Support
+
+Establishment
+
+Scope.—
+
+In general
+
+Areas for consideration
+
+Framework
+
+Annual Briefings
+
+Termination
+
+Initial Report
+
+Issuance of Guidance
+
+Periodic reform.—
+
+In general
+
+CMO reports
+
+Covered activities defined
+
+Reporting framework
+
+Initial plan
+
+Certification of cost savings
+
+Comptroller general reports
+
+In General
+
+Initial Discharge of Policy.—
+
+In general
+
+Protection of security and confidentiality
+
+“The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller) or an appropriate official of a military department, shall ensure that each major implementation of, or modification to, a business system that contributes to financial information of the Department of Defense is reviewed by professional accountants with experience reviewing Federal financial systems to validate that such financial system will meet any applicable Federal requirements. The Secretary of Defense shall ensure that such accountants—
+
+Development
+
+Treatment of data
+
+Use of existing systems
+
+Report
+
+Appropriate congressional committees
+
+Establishment of Policy
+
+Availability
+
+Data analytics capability required
+
+Elements
+
+Reporting requirements.—
+
+Interim report
+
+Final report
+
+In general
+
+Elements
+
+Report on pilot programs
+
+“Subject to the authority, direction, and control of the Secretary of Defense, the Under Secretary of Defense (Comptroller) shall take the following actions:
+
+In General
+
+Information Covered
+
+Tracking of Performance Over Time
+
+Updates
+
+In General
+
+Adoption of Modern Business Practices
+
+Waivers
+
+Goals
+
+Budget Adjustment
+
+Budget Baselines
+
+In General
+
+Execution of Activities
+
+Activities.—
+
+In general
+
+Current activities
+
+Gap Analysis
+
+Funding of Intramural and Extramural Research and Development.—
+
+In general
+
+Eligible entities
+
+Areas of interest
+
+Priorities.—
+
+In general
+
+Projects and programs identified
+
+Requirement for Certain Accounting Standards
+
+Deadline
+
+Process Review
+
+Training
+
+Report
+
+In general
+
+Additional elements in fiar plan report
+
+Planning Requirement.—
+
+In general
+
+Semiannual updates
+
+Inclusion of Subordinate Activities for Interim Milestones
+
+Report Required.—
+
+In general
+
+Matters covered
+
+Interim Milestones.—
+
+Requirement
+
+Matters included
+
+Description in semiannual reports
+
+Valuation of Department of Defense Assets.—
+
+Requirement
+
+Remedial Actions Required
+
+Incentives for Achieving Auditability.—
+
+Review required
+
+Options reviewed
+
+Report
+
+In general
+
+Action on finding of lack of reengineering efforts
+
+Definitions
+
+In General
+
+Objectives
+
+Business Transformation Offices.—
+
+Establishment
+
+Head
+
+Supervision
+
+Authority
+
+Responsibilities of Business Transformation Offices
+
+Required Elements
+
+Reports on Implementation.—
+
+Initial reports
+
+Updates
+
+Financial Management Transformation Initiative.—
+
+In general
+
+Scope of authority
+
+Purposes
+
+Required Elements
+
+Standards
+
+Scope
+
+Consultation
+
+Program Control
+
+Plan on Development and Implementation of Initiative
+
+Limitation
+
+Exception
+
+## Source Credit
+
+*(Added [Pub. L. 108–375, div. A, title III, § 332(a)(1)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1851](https://www.govinfo.gov/link/statute/118/1851); amended [Pub. L. 109–364, div. A, title IX, § 906(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2354](https://www.govinfo.gov/link/statute/120/2354); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title III, § 351, Oct. 14, 2008, [122 Stat. 4425](https://www.govinfo.gov/link/statute/122/4425); [Pub. L. 111–84, div. A, title X, § 1072(a)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2470](https://www.govinfo.gov/link/statute/123/2470); [Pub. L. 111–383, div. A, title X, § 1075(b)(29)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4370](https://www.govinfo.gov/link/statute/124/4370); [Pub. L. 112–81, div. A, title IX, § 901](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1527](https://www.govinfo.gov/link/statute/125/1527); [Pub. L. 112–239, div. A, title IX, § 906](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1869](https://www.govinfo.gov/link/statute/126/1869); [Pub. L. 113–66, div. A, title IX, § 901](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 815](https://www.govinfo.gov/link/statute/127/815); [Pub. L. 113–283, § 2(e)(5)(A)](https://www.govinfo.gov/link/plaw/113/public/283), Dec. 18, 2014, [128 Stat. 3087](https://www.govinfo.gov/link/statute/128/3087); [Pub. L. 113–291, div. A, title VIII, § 803](https://www.govinfo.gov/link/plaw/113/public/291), title IX, § 901(d), (k)(3), title X, § 1071(f)(16), Dec. 19, 2014, [128 Stat. 3427](https://www.govinfo.gov/link/statute/128/3427), 3463, 3468, 3511; [Pub. L. 114–92, div. A, title VIII, § 883(a)(1)](https://www.govinfo.gov/link/plaw/114/public/92), (f), title X, § 1081(a)(7), Nov. 25, 2015, [129 Stat. 942](https://www.govinfo.gov/link/statute/129/942), 1001; [Pub. L. 114–328, div. A, title X, § 1081(a)(6)](https://www.govinfo.gov/link/plaw/114/public/328), (c)(5), Dec. 23, 2016, [130 Stat. 2417](https://www.govinfo.gov/link/statute/130/2417), 2419; [Pub. L. 115–91, div. A, title IX, § 912(a)](https://www.govinfo.gov/link/plaw/115/public/91), title X, § 1081(b)(2), Dec. 12, 2017, [131 Stat. 1519](https://www.govinfo.gov/link/statute/131/1519), 1597; [Pub. L. 115–232, div. A, title X, § 1081(f)(1)(A)(ii)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1986](https://www.govinfo.gov/link/statute/132/1986); [Pub. L. 116–92, div. A, title VIII, § 839(a)](https://www.govinfo.gov/link/plaw/116/public/92), title IX, § 902(25), title XVII, § 1731(a)(31), Dec. 20, 2019, [133 Stat. 1498](https://www.govinfo.gov/link/statute/133/1498), 1545, 1814; [Pub. L. 117–263, div. A, title IX, § 902](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2748](https://www.govinfo.gov/link/statute/136/2748); [Pub. L. 118–159, div. A, title IX, § 902(b)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2026](https://www.govinfo.gov/link/statute/138/2026); [Pub. L. 119–60, div. A, title VIII, § 812(a)(2)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 951](https://www.govinfo.gov/link/statute/139/951).)*

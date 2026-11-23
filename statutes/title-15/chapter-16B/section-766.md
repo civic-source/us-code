@@ -3,9 +3,10 @@ title: "Section 766 - Administrative provisions"
 usc_title: 15
 usc_section: "766"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 766"
-generated_at: "2026-03-30T02:54:08.121Z"
+generated_at: "2026-11-23T21:25:39.760Z"
+status: "active"
 ---
 
 # § 766. Administrative provisions
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.121Z"
 - **(c)** Judicial review of administrative rulemaking of general and national applicability done under this chapter, except that done pursuant to the Emergency Petroleum Allocation Act of 1973 [ 15 U.S.C. 751 et seq.], 1 1 See References in Text note below. may be obtained only by filing a petition for review in the United States Court of Appeals for the District of Columbia within thirty days from the date of promulgation of any such rule, regulation, or order, and judicial review of administrative rulemaking of general, but less than national, applicability done under this chapter, except that done pursuant to the Emergency Petroleum Allocation Act of 1973, 1 may be obtained only by filing a petition for review in the United States Court of Appeals for the appropriate circuit within thirty days from the date of promulgation of any such rule, regulation, or order, the appropriate circuit being defined as the circuit which contains the area or the greater part of the area within which the rule, regulation, or order is to have effect.
 - **(d)**
 - **(l)** Effective beginning July 1, 1977 , amounts authorized to be appropriated under this chapter or any other Act shall not be available for the payment of salaries and other expenses with respect to any office of regional counsel of the Administration unless such office is under the direct supervision and control of the General Counsel of the Administration.
+
+## Source Credit
+
+*([Pub. L. 93–275, § 7](https://www.govinfo.gov/link/plaw/93/public/275), May 7, 1974, [88 Stat. 100](https://www.govinfo.gov/link/statute/88/100); [Pub. L. 94–385, title I](https://www.govinfo.gov/link/plaw/94/public/385), §§ 103–106, Aug. 14, 1976, [90 Stat. 1127–1129](https://www.govinfo.gov/link/statute/90/1127); [Pub. L. 95–70, § 8](https://www.govinfo.gov/link/plaw/95/public/70), July 21, 1977, [91 Stat. 277](https://www.govinfo.gov/link/statute/91/277); [Pub. L. 95–91, title VII, § 709(a)(2)](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 607](https://www.govinfo.gov/link/statute/91/607).)*

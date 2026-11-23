@@ -3,9 +3,10 @@ title: "Section 2662 - Programs authorized"
 usc_title: 7
 usc_section: "2662"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2662"
-generated_at: "2026-03-30T02:53:42.390Z"
+generated_at: "2026-11-23T21:25:28.303Z"
+status: "active"
 ---
 
 # § 2662. Programs authorized
@@ -70,3 +71,7 @@ The Secretary of Agriculture (referred to in this subchapter as the “Secretary
   - **(3)** Educational programs conducted with grants awarded under this subsection shall provide leadership within the State for the dissemination of appropriate rural health and safety information resources possessed by the Rural Information Center established at the National Agricultural Library.
   - **(4)** The Secretary shall establish policies, procedures and limitations that shall apply to States or entities described in paragraph (1)(C) that desire to receive a grant under this subsection. In States with land-grant colleges and universities that are eligible to receive funds under the Act of July 2, 1862 ( 7 U.S.C. 301 et seq.), and the Act of August 30, 1890 ( 7 U.S.C. 321 et seq.), including Tuskegee University, and universities which receive Rural Health Research Center grants, such eligible institutions shall mutually determine the type of rural health and safety education program needed in the State within which such institutions reside.
   - **(5)** For grants under this subsection, there are authorized to be appropriated $5,000,000 for fiscal year 1991, $10,000,000 for fiscal year 1992, $15,000,000 for fiscal year 1993, and $20,000,000 for fiscal year 1994 and each subsequent fiscal year. Amounts appropriated under this subsection shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 92–419, title V, § 502](https://www.govinfo.gov/link/plaw/92/public/419), as added [Pub. L. 97–98, title XIV, § 1444(a)](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1323](https://www.govinfo.gov/link/statute/95/1323); amended [Pub. L. 99–198, title XIV, § 1440(a)](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1560](https://www.govinfo.gov/link/statute/99/1560); [Pub. L. 100–219, § 2](https://www.govinfo.gov/link/plaw/100/public/219), Dec. 29, 1987, [101 Stat. 1456](https://www.govinfo.gov/link/statute/101/1456); [Pub. L. 101–624, title XXIII](https://www.govinfo.gov/link/plaw/101/public/624), §§ 2346, 2349, 2389(a)–(c)(1), 2390(b)(1), Nov. 28, 1990, [104 Stat. 4032](https://www.govinfo.gov/link/statute/104/4032), 4037, 4053–4055; [Pub. L. 102–237, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/102/public/237), title VII, § 704, Dec. 13, 1991, [105 Stat. 1863](https://www.govinfo.gov/link/statute/105/1863), 1881; [Pub. L. 104–127, title VII, § 792(a)](https://www.govinfo.gov/link/plaw/104/public/127), title VIII, §§ 871, 886, Apr. 4, 1996, [110 Stat. 1152](https://www.govinfo.gov/link/statute/110/1152), 1175, 1180; [Pub. L. 110–234, title VII, § 7511(c)(6)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1267](https://www.govinfo.gov/link/statute/122/1267); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7511(c)(6), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2029; [Pub. L. 115–334, title VI, § 6101(a)(3)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4727](https://www.govinfo.gov/link/statute/132/4727).)*

@@ -3,9 +3,10 @@ title: "Section 10001 - Definitions"
 usc_title: 22
 usc_section: "10001"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10001"
-generated_at: "2026-03-30T02:55:05.474Z"
+generated_at: "2026-11-23T21:25:58.791Z"
+status: "active"
 ---
 
 # § 10001. Definitions
@@ -43,3 +44,19 @@ Except as otherwise provided, in this chapter:
   - **(5)** The term “transitional period” means the 39-month period beginning on August 17, 2019 (the date of the signing of Sudan’s constitutional charter), during which—
     - **(A)** the members of the Sovereignty Council described in paragraph (3)(B) select a chair of the Council for the first 21 months of the period; and
     - **(B)** the members of the Sovereignty Council described in paragraph (3)(A) select a chair of the Council for the remaining 18 months of the period.
+
+Establishment
+
+Duties
+
+Staffing.—
+
+In general
+
+Briefing requirements
+
+Sunset
+
+## Source Credit
+
+*([Pub. L. 116–283, div. A, title XII, § 1262](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3967](https://www.govinfo.gov/link/statute/134/3967).)*

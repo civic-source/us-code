@@ -3,12 +3,25 @@ title: "Section 105 - Inventions in outer space"
 usc_title: 35
 usc_section: "105"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "35 U.S.C. § 105"
-generated_at: "2026-03-30T02:55:34.236Z"
+generated_at: "2026-11-23T21:26:08.604Z"
+status: "active"
 ---
 
 # § 105. Inventions in outer space
 
 - **(a)** Any invention made, used or sold in outer space on a space object or component thereof under the jurisdiction or control of the United States shall be considered to be made, used or sold within the United States for the purposes of this title, except with respect to any space object or component thereof that is specifically identified and otherwise provided for by an international agreement to which the United States is a party, or with respect to any space object or component thereof that is carried on the registry of a foreign state in accordance with the Convention on Registration of Objects Launched into Outer Space.
 - **(b)** Any invention made, used or sold in outer space on a space object or component thereof that is carried on the registry of a foreign state in accordance with the Convention on Registration of Objects Launched into Outer Space, shall be considered to be made, used or sold within the United States for the purposes of this title if specifically so agreed in an international agreement between the United States and the state of registry.
+
+Effective Date
+
+Final Decisions
+
+Pending Cases
+
+Non-Applicability
+
+## Source Credit
+
+*(Added [Pub. L. 101–580, § 1(a)](https://www.govinfo.gov/link/plaw/101/public/580), Nov. 15, 1990, [104 Stat. 2863](https://www.govinfo.gov/link/statute/104/2863).)*

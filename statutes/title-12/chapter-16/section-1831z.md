@@ -3,9 +3,10 @@ title: "Section 1831z - Bi-annual FDIC survey and report on encouraging use of d
 usc_title: 12
 usc_section: "1831z"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1831z"
-generated_at: "2026-03-30T02:53:53.463Z"
+generated_at: "2026-11-23T21:25:37.033Z"
+status: "active"
 ---
 
 # § 1831z. Bi-annual FDIC survey and report on encouraging use of depository institutions by the unbanked
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:53.463Z"
     - **(D)** What cultural, language and identification issues as well as transaction costs appear to most prevent “unbanked” individuals from establishing conventional accounts?
     - **(E)** What is a fair estimate of the size and worth of the “unbanked” market in the United States?
 - **(b)** The Chairperson of the Board of Directors shall submit a bi-annual report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate containing the Corporation’s findings and conclusions with respect to the survey conducted pursuant to subsection (a), together with such recommendations for legislative or administrative action as the Chairperson may determine to be appropriate.
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [49], as added [Pub. L. 109–173, § 7](https://www.govinfo.gov/link/plaw/109/public/173), Feb. 15, 2006, [119 Stat. 3609](https://www.govinfo.gov/link/statute/119/3609).)*

@@ -3,9 +3,10 @@ title: "Section 4224 - Penalties and enforcement"
 usc_title: 16
 usc_section: "4224"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4224"
-generated_at: "2026-03-30T02:54:23.042Z"
+generated_at: "2026-11-23T21:25:52.012Z"
+status: "active"
 ---
 
 # § 4224. Penalties and enforcement
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:23.042Z"
 - **(c)** Proceedings for the assessment of a civil penalty under this section shall be conducted in accordance with the procedures provided for in section 1540(a) of this title .
 - **(d)** Subject to appropriations, penalties collected under this section may be used by the Secretary of the Treasury to pay rewards under section 4225 of this title and, to the extent not used to pay such rewards, shall be deposited by the Secretary of the Treasury into the Fund.
 - **(e)** The Secretary, the Secretary of the Treasury, and the Secretary of the department in which the Coast Guard is operating shall enforce this subchapter in the same manner such Secretaries carry out enforcement activities under section 1540(e) of this title . Section 1540(c) of this title shall apply to actions arising under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 100–478, title II, § 2204](https://www.govinfo.gov/link/plaw/100/public/478), Oct. 7, 1988, [102 Stat. 2320](https://www.govinfo.gov/link/statute/102/2320).)*

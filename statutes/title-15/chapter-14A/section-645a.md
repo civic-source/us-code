@@ -3,9 +3,10 @@ title: "Section 645a - Annual report on suspensions and debarments proposed by S
 usc_title: 15
 usc_section: "645a"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 645a"
-generated_at: "2026-03-30T02:54:08.102Z"
+generated_at: "2026-11-23T21:25:39.684Z"
+status: "active"
 ---
 
 # § 645a. Annual report on suspensions and debarments proposed by Small Business Administration
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.102Z"
   - **(3)** The reason for each proposal for suspension or debarment.
   - **(4)** The result of each proposal for suspension or debarment, and the reason for such result.
   - **(5)** The number of suspensions or debarments referred to the Inspector General of the Small Business Administration or another agency, or to the Attorney General (for purposes of this paragraph, the Administrator may redact identifying information on names of companies or other information in order to protect the integrity of any ongoing criminal or civil investigation).
+
+## Source Credit
+
+*([Pub. L. 112–239, div. A, title XVI, § 1683](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2086](https://www.govinfo.gov/link/statute/126/2086).)*

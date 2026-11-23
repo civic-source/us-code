@@ -3,9 +3,10 @@ title: "Section 5331 - Alcohol and controlled substances testing"
 usc_title: 49
 usc_section: "5331"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 5331"
-generated_at: "2026-03-30T02:56:19.316Z"
+generated_at: "2026-11-23T21:26:40.654Z"
+status: "active"
 ---
 
 # § 5331. Alcohol and controlled substances testing
@@ -47,3 +48,60 @@ generated_at: "2026-03-30T02:56:19.316Z"
 - **(g)**
   - **(1)** A person that receives funds under this chapter is not eligible for financial assistance under section 5307, 5309, or 5311 of this title if the person is required, under regulations the Secretary prescribes under this section, to establish a program of alcohol and controlled substances testing and does not establish the program in accordance with this section.
   - **(2)** If the Secretary determines that a person that receives funds under this chapter is not in compliance with regulations prescribed under this section, the Secretary may bar the person from receiving Federal transit assistance in an amount the Secretary considers appropriate.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5331(a) | 49 App.:1618a(a). | Oct. 28, 1991 , Pub. L. 102–143, § 6 , 105 Stat. 962 . |
+| 5331(b) | 49 App.:1618a(b). |  |
+| 5331(c) | 49 App.:1618a(f). |  |
+| 5331(d) | 49 App.:1618a(d). |  |
+| 5331(e) | 49 App.:1618a(c). |  |
+| 5331(f) | 49 App.:1618a(e). |  |
+| 5331(g) | 49 App.:1618a(g). |  |
+
+
+Definitions
+
+Testing Program for Public Transportation Employees
+
+Disqualifications for Use
+
+Testing and Laboratory Requirements
+
+Rehabilitation
+
+Relationship to Other Laws, Regulations, Standards, and Orders
+
+Conditions on Federal Assistance.—
+
+Ineligibility for assistance
+
+Additional remedies
+
+Historical and Revision Notes
+
+Pub. L
+
+5331(a)
+
+Oct. 28, 1991
+
+Pub. L. 102–143, § 6
+
+105 Stat. 962
+
+5331(b)
+
+5331(c)
+
+5331(d)
+
+5331(e)
+
+5331(f)
+
+5331(g)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 832](https://www.govinfo.gov/link/statute/108/832); [Pub. L. 103–429, § 6(13)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4379](https://www.govinfo.gov/link/statute/108/4379); [Pub. L. 104–59, title III, § 342(a)](https://www.govinfo.gov/link/plaw/104/public/59), Nov. 28, 1995, [109 Stat. 608](https://www.govinfo.gov/link/statute/109/608); [Pub. L. 109–59, title III](https://www.govinfo.gov/link/plaw/109/public/59), §§ 3002(b)(3), (4), 3030, Aug. 10, 2005, [119 Stat. 1545](https://www.govinfo.gov/link/statute/119/1545), 1625; [Pub. L. 112–141, div. B](https://www.govinfo.gov/link/plaw/112/public/141), §§ 20022, 20030(f), July 6, 2012, [126 Stat. 717](https://www.govinfo.gov/link/statute/126/717), 731.)*

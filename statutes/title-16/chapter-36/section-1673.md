@@ -3,9 +3,10 @@ title: "Section 1673 - State programs"
 usc_title: 16
 usc_section: "1673"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1673"
-generated_at: "2026-03-30T02:54:22.981Z"
+generated_at: "2026-11-23T21:25:51.908Z"
+status: "active"
 ---
 
 # § 1673. State programs
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:22.981Z"
 - **(c)** Each State renewable resources extension program shall be administered and coordinated by the State director, except that, in States having colleges eligible to receive funds under the Act of August 30, 1890 ( 26 Stat. 417–419 , as amended; 7 U.S.C. 321–326 , 328), including Tuskegee Institute, the State renewable resources extension program shall be administered by the State director and the administrative head or heads of extension for the college or colleges eligible to receive such funds.
 - **(d)** In meeting the provisions of this section, each State director and administrative heads of extension for eligible colleges and universities shall appoint and use one or more advisory committees comprised of forest and range landowners, professionally trained individuals in fish and wildlife, forest, range, and watershed management, and related fields, as appropriate, and other suitable persons.
 - **(e)** For the purposes of this subchapter, the term “State” means any one of the fifty States, the Commonwealth of Puerto Rico, Guam, the District of Columbia, and the Virgin Islands of the United States.
+
+## Source Credit
+
+*([Pub. L. 95–306, § 4](https://www.govinfo.gov/link/plaw/95/public/306), June 30, 1978, [92 Stat. 350](https://www.govinfo.gov/link/statute/92/350); [Pub. L. 104–127, title VIII, § 802(b)(3)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1159](https://www.govinfo.gov/link/statute/110/1159).)*

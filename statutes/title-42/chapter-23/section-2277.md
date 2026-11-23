@@ -3,12 +3,17 @@ title: "Section 2277 - Disclosure of Restricted Data"
 usc_title: 42
 usc_section: "2277"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2277"
-generated_at: "2026-03-30T02:56:11.158Z"
+generated_at: "2026-11-23T21:26:32.387Z"
+status: "active"
 ---
 
 # § 2277. Disclosure of Restricted Data
 
 Whoever, being or having been an employee or member of the Commission, a member of the Armed Forces, an employee of any agency of the United States, or being or having been a contractor of the Commission or of an agency of the United States, or being or having been an employee of a contractor of the Commission or of an agency of the United States, or being or having been a licensee of the Commission, or being or having been an employee of a licensee of the Commission, knowingly communicates, or whoever conspires to communicate or to receive, any Restricted Data, knowing or having reason to believe that such data is Restricted Data, to any person not authorized to receive Restricted Data pursuant to the provisions of this chapter or under rule or regulation of the Commission issued pursuant thereto, knowing or having reason to believe such person is not so authorized to receive Restricted Data shall, upon conviction thereof, be punishable by a fine of not more than $12,500.
 
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 227, as added Aug. 30, 1954, ch. 1073, § 1, [68 Stat. 959](https://www.govinfo.gov/link/statute/68/959); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944); amended [Pub. L. 106–65, div. C, title XXXI, § 3148(c)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 938](https://www.govinfo.gov/link/statute/113/938).)*

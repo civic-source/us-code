@@ -3,9 +3,10 @@ title: "Section 1582 - Temporary housing exempted from provisions of section 155
 usc_title: 42
 usc_section: "1582"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1582"
-generated_at: "2026-03-30T02:56:11.101Z"
+generated_at: "2026-11-23T21:26:32.090Z"
+status: "active"
 ---
 
 # § 1582. Temporary housing exempted from provisions of section 1553 of this title
@@ -16,3 +17,7 @@ The requirements of section 1553 of this title shall not apply to any temporary 
 - **(b)** transferred by the Secretary of Housing and Urban Development to the jurisdiction of the Department of the Army, the Navy, or the Air Force pursuant to section 1524 of this title ;
 - **(c)** disposed of by the Secretary of Housing and Urban Development under subchapter II or IV of this chapter for long-term housing or nonhousing use without any requirement for removal where the governing body of the municipality or county has adopted a resolution determining that, on the basis of local need and acceptability, the structures involved are (1) satisfactory for such long-term use or (2) satisfactory for such long-term use if conditions prescribed in such resolution, affecting the physical characteristics of the project, are met: Provided , That any such conditions shall not affect the disposal of any temporary housing hereunder, and the United States shall assume no responsibility for compliance with such conditions: And provided further , That any housing disposed of for housing use in accordance with this subsection shall thereafter be deemed to be housing accommodations, the construction of which was completed after June 30, 1947 , within the meaning of section 4 of the Housing and Rent Act of 1947, as amended, relating to preference or priority to veterans or their families; or
 - **(d)** disposed of or relinquished by the Secretary of Housing and Urban Development prior to April 20, 1950 , subject to such requirements or contractual obligations pursuant thereto, where the governing body of the municipality or county on or before December 31, 1950 , adopts a resolution as provided in (c) 2 2 So in original. Probably should be preceded by “subsection”. above; and any contract obligations to the Federal Government for the removal of such housing shall be relinquished upon the filing of such a resolution with the Secretary of Housing and Urban Development.
+
+## Source Credit
+
+*(Oct. 14, 1940, ch. 862, title VI, § 602, as added June 28, 1948, ch. 688, § 7, as added Apr. 20, 1950, ch. 94, title II, § 201, [64 Stat. 59](https://www.govinfo.gov/link/statute/64/59); amended Oct. 26, 1951, ch. 577, § 2, [65 Stat. 648](https://www.govinfo.gov/link/statute/65/648); [Pub. L. 89–174, § 5(a)](https://www.govinfo.gov/link/plaw/89/public/174), Sept. 9, 1965, [79 Stat. 669](https://www.govinfo.gov/link/statute/79/669).)*

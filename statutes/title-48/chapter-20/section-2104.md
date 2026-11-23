@@ -3,9 +3,10 @@ title: "Section 2104 - Definitions"
 usc_title: 48
 usc_section: "2104"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 2104"
-generated_at: "2026-03-30T02:56:14.602Z"
+generated_at: "2026-11-23T21:26:38.136Z"
+status: "active"
 ---
 
 # § 2104. Definitions
@@ -45,3 +46,7 @@ In this chapter—
     - **(E)** the United States Virgin Islands.
   - **(21)** The term “Territory Budget” means a budget for a territorial government submitted, approved, and certified in accordance with section 2142 of this title .
   - **(22)** The term “Territory Fiscal Plan” means a fiscal plan for a territorial government submitted, approved, and certified in accordance with section 2141 of this title .
+
+## Source Credit
+
+*([Pub. L. 114–187, § 5](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 551](https://www.govinfo.gov/link/statute/130/551).)*

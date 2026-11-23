@@ -3,9 +3,10 @@ title: "Section 15910 - Enhanced oil and natural gas production through carbon d
 usc_title: 42
 usc_section: "15910"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15910"
-generated_at: "2026-03-30T02:56:11.463Z"
+generated_at: "2026-11-23T21:26:33.684Z"
+status: "active"
 ---
 
 # § 15910. Enhanced oil and natural gas production through carbon dioxide injection
@@ -67,3 +68,7 @@ generated_at: "2026-03-30T02:56:11.463Z"
     - **(C)** After the date by which applications for grants are required to be submitted under subparagraph (B), the Secretary of Energy, in a timely manner, shall select, after peer review and based on the criteria under paragraph (4), those projects to be awarded a grant under this subsection.
 - **(d)** The Secretary of the Interior, acting through the Bureau of Land Management, shall maintain records on, and an inventory of, the quantity of carbon dioxide stored within Federal mineral leaseholds.
 - **(e)** There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 109–58, title III, § 354](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 715](https://www.govinfo.gov/link/statute/119/715); [Pub. L. 110–140, title VII, § 713](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1715](https://www.govinfo.gov/link/statute/121/1715).)*

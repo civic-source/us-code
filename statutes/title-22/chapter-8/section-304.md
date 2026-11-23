@@ -3,9 +3,10 @@ title: "Section 304 - Biannual report on overseas capital construction projects"
 usc_title: 22
 usc_section: "304"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 304"
-generated_at: "2026-03-30T02:55:05.327Z"
+generated_at: "2026-11-23T21:25:58.385Z"
+status: "active"
 ---
 
 # § 304. Biannual report on overseas capital construction projects
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:05.327Z"
   - **(2)** The amount actually expended on the project.
   - **(3)** Any additional time required to complete the project beyond the initial timeline.
   - **(4)** Any cost overruns incurred by the project.
+
+## Source Credit
+
+*([Pub. L. 114–323, title I, § 118](https://www.govinfo.gov/link/plaw/114/public/323), Dec. 16, 2016, [130 Stat. 1912](https://www.govinfo.gov/link/statute/130/1912); [Pub. L. 115–94, § 2(b)](https://www.govinfo.gov/link/plaw/115/public/94), Dec. 18, 2017, [131 Stat. 2038](https://www.govinfo.gov/link/statute/131/2038); [Pub. L. 117–81, div. E, title LII, § 5203(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2353](https://www.govinfo.gov/link/statute/135/2353).)*

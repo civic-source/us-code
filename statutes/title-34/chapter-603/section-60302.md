@@ -3,9 +3,10 @@ title: "Section 60302 - Capital prosecution improvement grants"
 usc_title: 34
 usc_section: "60302"
 chapter: 603
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 60302"
-generated_at: "2026-03-30T02:55:33.316Z"
+generated_at: "2026-11-23T21:26:09.858Z"
+status: "active"
 ---
 
 # § 60302. Capital prosecution improvement grants
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:33.316Z"
     - **(E)** To establish a program under which State and local prosecutors conduct a systematic review of cases in which a death sentence was imposed in order to identify cases in which post-conviction DNA testing may be appropriate.
     - **(F)** To provide support and assistance to the families of murder victims.
   - **(2)** Grants awarded under subsection (a) shall not be used to fund, directly or indirectly, the prosecution of specific capital cases.
+
+## Source Credit
+
+*([Pub. L. 108–405, title IV, § 422](https://www.govinfo.gov/link/plaw/108/public/405), Oct. 30, 2004, [118 Stat. 2288](https://www.govinfo.gov/link/statute/118/2288).)*

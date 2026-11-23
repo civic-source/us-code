@@ -3,9 +3,10 @@ title: "Section 11382 - Continuum of care applications and grants"
 usc_title: 42
 usc_section: "11382"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11382"
-generated_at: "2026-03-30T02:56:11.400Z"
+generated_at: "2026-11-23T21:26:33.418Z"
+status: "active"
 ---
 
 # § 11382. Continuum of care applications and grants
@@ -42,3 +43,13 @@ generated_at: "2026-03-30T02:56:11.400Z"
   - **(3)**
     - **(A)** Notwithstanding section 11302(a) of this title and subject to subparagraph (B), funds awarded under this part may be used for eligible activities to serve unaccompanied youth and homeless families and children defined as homeless under section 11302(a)(6) of this title only pursuant to paragraph (1) of this subsection and such families and children shall not otherwise be considered as homeless for purposes of this part.
     - **(B)** Subparagraph (A) may not be construed to prevent any unaccompanied youth and homeless families and children defined as homeless under section 11302(a)(6) of this title from qualifying for, and being treated for purposes of this part as, at risk of homelessness or from eligibility for any projects, activities, or services carried out using amounts provided under this part for which individuals or families that are at risk of homelessness are eligible.
+
+Renewal of Continuum of Care Projects
+
+Planning and Unified Funding Agency Awards
+
+Notice
+
+## Source Credit
+
+*([Pub. L. 100–77, title IV, § 422](https://www.govinfo.gov/link/plaw/100/public/77), as added [Pub. L. 111–22, div. B, title III, § 1301(2)](https://www.govinfo.gov/link/plaw/111/public/22), May 20, 2009, [123 Stat. 1681](https://www.govinfo.gov/link/statute/123/1681).)*

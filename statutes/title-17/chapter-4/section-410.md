@@ -3,9 +3,10 @@ title: "Section 410 - Registration of claim and issuance of certificate"
 usc_title: 17
 usc_section: "410"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 410"
-generated_at: "2026-03-30T02:54:15.351Z"
+generated_at: "2026-11-23T21:25:41.718Z"
+status: "active"
 ---
 
 # § 410. Registration of claim and issuance of certificate
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:15.351Z"
 - **(b)** In any case in which the Register of Copyrights determines that, in accordance with the provisions of this title, the material deposited does not constitute copyrightable subject matter or that the claim is invalid for any other reason, the Register shall refuse registration and shall notify the applicant in writing of the reasons for such refusal.
 - **(c)** In any judicial proceedings the certificate of a registration made before or within five years after first publication of the work shall constitute prima facie evidence of the validity of the copyright and of the facts stated in the certificate. The evidentiary weight to be accorded the certificate of a registration made thereafter shall be within the discretion of the court.
 - **(d)** The effective date of a copyright registration is the day on which an application, deposit, and fee, which are later determined by the Register of Copyrights or by a court of competent jurisdiction to be acceptable for registration, have all been received in the Copyright Office.
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2582](https://www.govinfo.gov/link/statute/90/2582).)*

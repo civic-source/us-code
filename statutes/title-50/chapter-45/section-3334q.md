@@ -3,9 +3,10 @@ title: "Section 3334q - Detail of individuals from intelligence community to Dep
 usc_title: 50
 usc_section: "3334q"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3334q"
-generated_at: "2026-03-30T02:56:26.245Z"
+generated_at: "2026-11-23T21:26:39.037Z"
+status: "active"
 ---
 
 # § 3334q. Detail of individuals from intelligence community to Department of Commerce
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:26.245Z"
 - **(b)** Detailees on a joint duty assignment (JDA) assigned pursuant to subsection (a) shall be drawn from such elements of the intelligence community as the Director considers appropriate, in consultation with the Secretary of Commerce.
 - **(c)** The Director shall ensure that detailees referred to in subsection (a) have subject matter expertise on countries of concern, including China, Iran, North Korea, and Russia, as well as functional areas such as illicit procurement, counterproliferation, emerging and foundational technology, economic and financial intelligence, information and communications technology systems, supply chain vulnerability, and counterintelligence.
 - **(d)** The detail of an employee of the intelligence community to the Department of Commerce under subsection (a) shall be without interruption or loss of civil service status or privilege.
+
+## Source Credit
+
+*([Pub. L. 118–31, div. G, title V, § 7501](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1079](https://www.govinfo.gov/link/statute/137/1079).)*

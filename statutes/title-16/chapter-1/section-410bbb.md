@@ -3,9 +3,10 @@ title: "Section 410bbb - Findings and purpose"
 usc_title: 16
 usc_section: "410bbb"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410bbb"
-generated_at: "2026-03-30T02:54:22.775Z"
+generated_at: "2026-11-23T21:25:51.468Z"
+status: "active"
 ---
 
 # § 410bbb. Findings and purpose
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:22.775Z"
   - **(2)** The city of New Orleans is widely recognized as the birthplace of jazz. In and around this city, cultural and musical elements blended to form the unique American music that is known as New Orleans jazz, which is an expression of the cultural diversity of the lower Mississippi Delta Region.
   - **(3)** Jean Lafitte National Historical Park and Preserve was established to commemorate the cultural diversity of the lower Mississippi Delta Region including a range of cultural expressions like jazz.
 - **(b)** In furtherance of the need to recognize the value and importance of jazz, it is the purpose of this subchapter to establish a New Orleans Jazz National Historical Park to preserve the origins, early history, development and progression of jazz; provide visitors with opportunities to experience the sights, sounds, and places where jazz evolved; and implement innovative ways of establishing jazz educational partnerships that will help to ensure that jazz continues as a vital element of the culture of New Orleans and our Nation.
+
+## Source Credit
+
+*([Pub. L. 103–433, title XII, § 1202](https://www.govinfo.gov/link/plaw/103/public/433), Oct. 31, 1994, [108 Stat. 4519](https://www.govinfo.gov/link/statute/108/4519).)*

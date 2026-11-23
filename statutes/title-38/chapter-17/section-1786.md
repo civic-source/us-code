@@ -3,9 +3,10 @@ title: "Section 1786 - Care for newborn children of women veterans receiving mat
 usc_title: 38
 usc_section: "1786"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1786"
-generated_at: "2026-03-30T02:55:53.488Z"
+generated_at: "2026-11-23T21:26:16.667Z"
+status: "active"
 ---
 
 # § 1786. Care for newborn children of women veterans receiving maternity care
@@ -28,3 +29,23 @@ generated_at: "2026-03-30T02:55:53.488Z"
     - **(A)** Reimbursement or payment by the Secretary under this section on behalf of an individual to a covered entity shall, unless rejected and refunded by the covered entity within 30 days of receipt, extinguish any liability on the part of the individual for the health care services or transportation covered by such payment.
     - **(B)** Neither the absence of a contract or agreement between the Secretary and a covered entity nor any provision of a contract, agreement, or assignment to the contrary shall operate to modify, limit, or negate the requirements of subparagraph (A).
   - **(3)** In this subsection, the term “covered entity” means any individual, transportation carrier, organization, or other entity that furnished or paid for health care services or transportation under this section.
+
+In General
+
+Covered Health Care Services
+
+Exception Based on Medical Necessity
+
+Transportation
+
+Reimbursement or Payment for Health Care Services or Transportation
+
+In general
+
+Period specified
+
+Covered entity defined
+
+## Source Credit
+
+*(Added [Pub. L. 111–163, title II, § 206(a)](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1145](https://www.govinfo.gov/link/statute/124/1145); amended [Pub. L. 116–283, div. H, title XCI, § 9102](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4781](https://www.govinfo.gov/link/statute/134/4781); [Pub. L. 116–315, title III, § 3006(a)](https://www.govinfo.gov/link/plaw/116/public/315), Jan. 5, 2021, [134 Stat. 4994](https://www.govinfo.gov/link/statute/134/4994).)*

@@ -3,9 +3,10 @@ title: "Section 3 - Lands not subject to oil and gas leasing"
 usc_title: 30
 usc_section: "3"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 3"
-generated_at: "2026-03-30T02:55:29.381Z"
+generated_at: "2026-11-23T21:26:00.377Z"
+status: "active"
 ---
 
 # § 226–3. Lands not subject to oil and gas leasing
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:29.381Z"
   - **(3)** Lands designated by Congress as wilderness study areas, except where oil and gas leasing is specifically allowed to continue by the statute designating the study area.
   - **(4)** Lands within areas allocated for wilderness or further planning in Executive Communication 1504, Ninety-Sixth Congress (House Document numbered 96–119), unless such lands are allocated to uses other than wilderness by a land and resource management plan or have been released to uses other than wilderness by an act of Congress.
 - **(b)** In the case of any area of National Forest or public lands subject to this section, nothing in this section shall affect any authority of the Secretary of the Interior (or for National Forest Lands reserved from the public domain, the Secretary of Agriculture) to issue permits for exploration for oil and gas, coal, oil shale, phosphate, potassium, sulphur, gilsonite or geothermal resources by means not requiring construction of roads or improvement of existing roads if such activity is conducted in a manner compatible with the preservation of the wilderness environment.
+
+## Source Credit
+
+*(Feb. 25, 1920, ch. 85, § 43, as added [Pub. L. 100–203, title V, § 5112](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–262](https://www.govinfo.gov/link/statute/101/1330); amended [Pub. L. 100–443, § 5(c)](https://www.govinfo.gov/link/plaw/100/public/443), Sept. 22, 1988, [102 Stat. 1768](https://www.govinfo.gov/link/statute/102/1768).)*

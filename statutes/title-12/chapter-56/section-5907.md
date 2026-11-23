@@ -3,9 +3,10 @@ title: "Section 5907 - Anti-money laundering protections"
 usc_title: 12
 usc_section: "5907"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5907"
-generated_at: "2026-03-30T02:53:53.553Z"
+generated_at: "2026-11-23T21:25:37.309Z"
+status: "active"
 ---
 
 # § 5907. Anti-money laundering protections
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:53:53.553Z"
     - **(B)** activities necessary to carry out or assist law enforcement activity of the United States.
   - **(4)** Not later than 7 days after issuing a waiver or a license under paragraph (1), (2), or (3), the Secretary of the Treasury shall submit to the chairs and ranking members of the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, a report, which may include a classified annex, if applicable, including the text of the waiver or license, as well as the facts and circumstances justifying the waiver determination, and provide a briefing on the report.
 - **(d)** Nothing in this chapter shall be construed as altering the existing authority of the Secretary of the Treasury to block, restrict, or limit transactions involving payment stablecoins that reference or are denominated in United States dollars that are subject to the jurisdiction of the United States.
+
+## Source Credit
+
+*([Pub. L. 119–27, § 8](https://www.govinfo.gov/link/plaw/119/public/27), July 18, 2025, [139 Stat. 450](https://www.govinfo.gov/link/statute/139/450).)*

@@ -3,9 +3,10 @@ title: "Section 421 - General rules"
 usc_title: 26
 usc_section: "421"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 421"
-generated_at: "2026-03-30T02:55:27.692Z"
+generated_at: "2026-11-23T21:26:06.245Z"
+status: "active"
 ---
 
 # § 421. General rules
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:27.692Z"
 - **(d)** If—
   - **(1)** a share of stock is transferred to an eligible person (as defined in section 1043(b)(1)) pursuant to such person’s exercise of an option to which this part applies, and
   - **(2)** such share is disposed of by such person pursuant to a certificate of divestiture (as defined in section 1043(b)(2)),
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 142; [Pub. L. 85–320, § 1](https://www.govinfo.gov/link/plaw/85/public/320), Feb. 11, 1958, [72 Stat. 4](https://www.govinfo.gov/link/statute/72/4); [Pub. L. 85–866, title I](https://www.govinfo.gov/link/plaw/85/public/866), §§ 25, 26(a), Sept. 2, 1958, [72 Stat. 1623](https://www.govinfo.gov/link/statute/72/1623), 1624; [Pub. L. 88–272, title II, § 221(a)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 63](https://www.govinfo.gov/link/statute/78/63); [Pub. L. 97–34, title II, § 251(b)(1)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 259](https://www.govinfo.gov/link/statute/95/259); [Pub. L. 101–508, title XI, § 11801(c)(9)(B)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–524](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 108–357, title II, § 251(b)](https://www.govinfo.gov/link/plaw/108/public/357), title VIII, § 905(a), Oct. 22, 2004, [118 Stat. 1458](https://www.govinfo.gov/link/statute/118/1458), 1653.)*

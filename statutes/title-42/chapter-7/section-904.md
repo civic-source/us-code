@@ -3,9 +3,10 @@ title: "Section 904 - Administrative duties of Commissioner"
 usc_title: 42
 usc_section: "904"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 904"
-generated_at: "2026-03-30T02:56:10.899Z"
+generated_at: "2026-11-23T21:26:31.200Z"
+status: "active"
 ---
 
 # § 904. Administrative duties of Commissioner
@@ -50,3 +51,15 @@ generated_at: "2026-03-30T02:56:10.899Z"
     - **(A)** Any disclosure from a system of records (as defined in section 552a(a)(5) of title 5 ) pursuant to this subsection shall be made as a routine use under subsection (b)(3) of section 552a of such title (unless otherwise authorized under such section 552a).
     - **(B)** Any computerized comparison of records, including matching programs, between the Commissioner and the Secretary shall be conducted in accordance with subsections ( o ), (p), (q), (r), and (u) of section 552a of title 5 .
   - **(5)** The Commissioner and the Secretary shall each ensure that timely action is taken to establish any necessary routine uses for disclosures required under paragraph (1) or agreed to pursuant to paragraph (3).
+
+Effective date
+
+Transition rule
+
+In General
+
+Payment of Costs
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title VII, § 704, [49 Stat. 636](https://www.govinfo.gov/link/statute/49/636); Aug. 28, 1950, ch. 809, title IV, § 402(b), [64 Stat. 558](https://www.govinfo.gov/link/statute/64/558); [Pub. L. 94–273, § 33](https://www.govinfo.gov/link/plaw/94/public/273), Apr. 21, 1976, [90 Stat. 380](https://www.govinfo.gov/link/statute/90/380); [Pub. L. 98–369, div. B, title VI, § 2663](https://www.govinfo.gov/link/plaw/98/public/369) (l)(1), July 18, 1984, [98 Stat. 1171](https://www.govinfo.gov/link/statute/98/1171); [Pub. L. 103–296, title I, § 104(a)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1470](https://www.govinfo.gov/link/statute/108/1470); [Pub. L. 106–169, title II, § 211(a)](https://www.govinfo.gov/link/plaw/106/public/169), Dec. 14, 1999, [113 Stat. 1842](https://www.govinfo.gov/link/statute/113/1842); [Pub. L. 114–74, title VIII, § 845(a)](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 618](https://www.govinfo.gov/link/statute/129/618).)*

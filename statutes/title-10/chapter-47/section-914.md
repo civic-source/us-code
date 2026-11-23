@@ -3,9 +3,10 @@ title: "Section 914 - Art. 114. Endangerment offenses"
 usc_title: 10
 usc_section: "914"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 914"
-generated_at: "2026-03-30T02:53:38.086Z"
+generated_at: "2026-11-23T21:25:32.350Z"
+status: "active"
 ---
 
 # § 914. Art. 114. Endangerment offenses
@@ -18,3 +19,28 @@ generated_at: "2026-03-30T02:53:38.086Z"
   - **(2)** who, having knowledge of a challenge sent or about to be sent, fails to report the facts promptly to the proper authority;
 - **(c)** Any person subject to this chapter who, willfully and wrongly, discharges a firearm, under circumstances such as to endanger human life shall be punished as a court-martial may direct.
 - **(d)** Any person subject to this chapter who unlawfully carries a dangerous weapon concealed on or about his person shall be punished as a court-martial may direct.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 914 | 50:708. | May 5, 1950, ch. 169, § 1 (Art. 114), 64 Stat. 139 . |
+
+
+Reckless Endangerment
+
+Dueling
+
+Firearm Discharge, Endangering Human Life
+
+Carrying Concealed Weapon
+
+Historical and Revision Notes
+
+914
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 139
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 72; [Pub. L. 114–328, div. E, title LX, § 5426](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2948](https://www.govinfo.gov/link/statute/130/2948).)*

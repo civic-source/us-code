@@ -3,9 +3,10 @@ title: "Section 11322 - Accountability and oversight"
 usc_title: 34
 usc_section: "11322"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 11322"
-generated_at: "2026-03-30T02:55:33.281Z"
+generated_at: "2026-11-23T21:26:09.717Z"
+status: "active"
 ---
 
 # § 11322. Accountability and oversight
@@ -85,3 +86,19 @@ generated_at: "2026-03-30T02:55:33.281Z"
     - **(A)** a list of all duplicate grants awarded, including the total dollar amount of any duplicate grants awarded; and
     - **(B)** the reason the Attorney General awarded the duplicative grant.
 - **(d)** The Administrator shall comply with the Generally Accepted Government Auditing Standards, published by the General Accountability Office (commonly known as the “Yellow Book”), in the conduct of fiscal, compliance, and programmatic audits of States.
+
+(aa) supporting documentation was not provided for cost reports;
+
+(bb) unauthorized expenditures occurred; and
+
+(cc) subrecipients of grant funds were not in compliance with program requirements;
+
+(aa) the analysis conducted under clause (i);
+
+(bb) whether the funds awarded under subchapters II and V have been used in accordance with law, regulations, program guidance, and applicable plans; and
+
+(cc) the extent to which funds awarded to States and Indian Tribes under subchapters II and V enhanced the ability of grantees to fulfill the core requirements.
+
+## Source Credit
+
+*([Pub. L. 93–415, title VI, § 602](https://www.govinfo.gov/link/plaw/93/public/415), as added [Pub. L. 115–385, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/115/public/385), Dec. 21, 2018, [132 Stat. 5154](https://www.govinfo.gov/link/statute/132/5154).)*

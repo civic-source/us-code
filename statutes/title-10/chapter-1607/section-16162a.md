@@ -3,9 +3,10 @@ title: "Section 16162a - Accelerated payment of educational assistance"
 usc_title: 10
 usc_section: "16162a"
 chapter: 1607
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 16162a"
-generated_at: "2026-03-30T02:53:38.278Z"
+generated_at: "2026-11-23T21:25:33.073Z"
+status: "active"
 ---
 
 # § 16162a. Accelerated payment of educational assistance
@@ -32,3 +33,21 @@ generated_at: "2026-03-30T02:53:38.278Z"
   - **(2)** If the monthly rate of educational assistance allowance otherwise payable with respect to an eligible member under section 16162 of this title increases during the enrollment period of a program of education for which an accelerated payment of educational assistance allowance is made under this section, the charge to the member’s entitlement to educational assistance under this chapter shall be determined by prorating the entitlement chargeable, in the manner provided for under paragraph (1), for the periods covered by the initial rate and increased rate, respectively, in accordance with regulations prescribed by the Secretary of Veterans Affairs.
 - **(f)** The Secretary of Veterans Affairs shall prescribe regulations to carry out this section. The regulations shall include requirements, conditions, and methods for the request, issuance, delivery, certification of receipt and use, and recovery of overpayment of an accelerated payment of educational assistance allowance under this section. The regulations may include such elements of the regulations prescribed under section 3014A of title 38 as the Secretary of Veterans Affairs considers appropriate for purposes of this section.
 - **(g)** The aggregate amount of educational assistance payable under this section in any fiscal year for enrollments covered by subsection (b)(1) may not exceed $3,000,000.
+
+Payment on Accelerated Basis
+
+Eligible Members
+
+Amount of Accelerated Payment
+
+Time of Payment
+
+Charge Against Entitlement
+
+Regulations
+
+Limitation
+
+## Source Credit
+
+*(Added [Pub. L. 110–181, div. A, title V, § 528(b)(1)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 107](https://www.govinfo.gov/link/statute/122/107).)*

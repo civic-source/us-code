@@ -3,9 +3,10 @@ title: "Section 39A - Aiming a laser pointer at an aircraft"
 usc_title: 18
 usc_section: "39A"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 39A"
-generated_at: "2026-03-30T02:54:16.457Z"
+generated_at: "2026-11-23T21:25:43.938Z"
+status: "active"
 ---
 
 # § 39A. Aiming a laser pointer at an aircraft
@@ -17,3 +18,15 @@ generated_at: "2026-03-30T02:54:16.457Z"
   - **(2)** members or elements of the Department of Defense or Department of Homeland Security acting in an official capacity for the purpose of research, development, operations, testing, or training; or
   - **(3)** by an individual using a laser emergency signaling device to send an emergency distress signal.
 - **(d)** The Attorney General, in consultation with the Secretary of Transportation, may provide by regulation, after public notice and comment, such additional exceptions to this section as may be necessary and appropriate. The Attorney General shall provide written notification of any proposed regulations under this section to the Committees on the Judiciary of the Senate and the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives, not less than 90 days before such regulations become final.
+
+Offense
+
+Laser Pointer Defined
+
+Exceptions
+
+Authority To Establish Additional Exceptions by Regulation
+
+## Source Credit
+
+*(Added [Pub. L. 112–95, title III, § 311(a)](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 65](https://www.govinfo.gov/link/statute/126/65).)*

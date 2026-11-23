@@ -3,9 +3,10 @@ title: "Section 8414 - Early retirement"
 usc_title: 5
 usc_section: "8414"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8414"
-generated_at: "2026-03-30T02:52:56.054Z"
+generated_at: "2026-11-23T21:25:23.413Z"
+status: "active"
 ---
 
 # § 8414. Early retirement
@@ -73,3 +74,7 @@ generated_at: "2026-03-30T02:52:56.054Z"
       - **(ii)** to achieve one or more reductions in strength;
       - **(iii)** to correct skill imbalances; or
       - **(iv)** to reduce the number of high-grade, managerial, supervisory, or similar positions.
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 526](https://www.govinfo.gov/link/statute/100/526); amended [Pub. L. 100–325, § 2(m)](https://www.govinfo.gov/link/plaw/100/public/325), May 30, 1988, [102 Stat. 583](https://www.govinfo.gov/link/statute/102/583); [Pub. L. 101–194, title V, § 506(b)(9)](https://www.govinfo.gov/link/plaw/101/public/194), Nov. 30, 1989, [103 Stat. 1759](https://www.govinfo.gov/link/statute/103/1759); [Pub. L. 105–261, div. A, title XI, § 1109(b)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2144](https://www.govinfo.gov/link/statute/112/2144); [Pub. L. 106–58, title VI, § 651(b)](https://www.govinfo.gov/link/plaw/106/public/58), Sept. 29, 1999, [113 Stat. 480](https://www.govinfo.gov/link/statute/113/480); [Pub. L. 106–65, div. A, title V, § 522(b)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 597](https://www.govinfo.gov/link/statute/113/597); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title XI, § 1152(b)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–321; [Pub. L. 107–296, title XIII](https://www.govinfo.gov/link/plaw/107/public/296), §§ 1313(b)(2), 1321(a)(5)(A), Nov. 25, 2002, [116 Stat. 2295](https://www.govinfo.gov/link/statute/116/2295), 2297; [Pub. L. 117–225, § 3(b)(2)(A)(i)](https://www.govinfo.gov/link/plaw/117/public/225), Dec. 9, 2022, [136 Stat. 2295](https://www.govinfo.gov/link/statute/136/2295).)*

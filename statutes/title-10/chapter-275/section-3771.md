@@ -3,9 +3,10 @@ title: "Section 3771 - Rights in technical data: regulations"
 usc_title: 10
 usc_section: "3771"
 chapter: 275
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3771"
-generated_at: "2026-03-30T02:53:38.197Z"
+generated_at: "2026-11-23T21:25:32.739Z"
+status: "active"
 ---
 
 # § 3771. Rights in technical data: regulations
@@ -57,3 +58,73 @@ generated_at: "2026-03-30T02:53:38.197Z"
 - **(c)** The Secretary of Defense shall define the terms “developed”, “exclusively with Federal funds”, and “exclusively at private expense” in regulations prescribed under subsection (a). In defining such terms, the Secretary—
   - **(1)** shall specify the manner in which indirect costs shall be treated; and
   - **(2)** shall specify that amounts spent for independent research and development and bid and proposal costs shall not be considered to be Federal funds for the purposes of the definitions under this subsection.
+
+Regulations Required.—
+
+In general
+
+Other rights not impaired
+
+Required Provisions
+
+Development exclusively with federal funds
+
+Development exclusively at private expense
+
+Exception to paragraph (2)
+
+Exception to paragraph (2)
+
+Development with mixed funding.—
+
+In general
+
+Factors to be considered
+
+Interfaces developed with mixed funding
+
+Modular system interfaces developed exclusively at private expense or with mixed funding.—
+
+Limitations on requirements related to contractor or subcontractor rights in technical data
+
+Actions authorized if necessary to develop alternative sources of supply and manufacture
+
+Secretary of Defense to Define Terms
+
+Establishment of Technical Data System
+
+Review of Requirements for Covered Data
+
+Assessment of Available Covered Data.—
+
+In general
+
+Findings
+
+Identification of Insufficiency in Covered Data
+
+Addressing an Insufficiency in Covered Data
+
+In general
+
+Insufficiency
+
+Records Retention
+
+Quarterly Updates to Congress
+
+Rules of Construction
+
+Definitions
+
+Reverse Engineering or Re-engineering Process
+
+Annual Report.—
+
+In general
+
+Contents
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1833(a)(1)](https://www.govinfo.gov/link/plaw/116/public/283), (b), Jan. 1, 2021, [134 Stat. 4226](https://www.govinfo.gov/link/statute/134/4226).)*

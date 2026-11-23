@@ -3,9 +3,10 @@ title: "Section 258 - Chief judges; precedence of judges"
 usc_title: 28
 usc_section: "258"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 258"
-generated_at: "2026-03-30T02:55:30.127Z"
+generated_at: "2026-11-23T21:26:01.033Z"
+status: "active"
 ---
 
 # § 258. Chief judges; precedence of judges
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:30.127Z"
 - **(b)** The chief judge shall have precedence and preside at any session of the court which such judge attends. Other judges of the court shall have precedence and preside according to the seniority of their commissions. Judges whose commissions bear the same date shall have precedence according to seniority in age.
 - **(c)** If the chief judge desires to be relieved of the duties as chief judge while retaining active status as a judge of the court, the chief judge may so certify to the Chief Justice of the United States, and thereafter the chief judge of the court shall be such other judge of the court who is qualified to serve or act as chief judge under subsection (a).
 - **(d)** If a chief judge is temporarily unable to perform the duties as such, such duties shall be performed by the judge of the court in active service, able and qualified to act, who is next in precedence.
+
+## Source Credit
+
+*(Added [Pub. L. 104–317, title V, § 501(a)](https://www.govinfo.gov/link/plaw/104/public/317), Oct. 19, 1996, [110 Stat. 3855](https://www.govinfo.gov/link/statute/110/3855).)*

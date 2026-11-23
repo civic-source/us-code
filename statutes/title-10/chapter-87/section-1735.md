@@ -3,9 +3,10 @@ title: "Section 1735 - Education, training, and experience requirements for crit
 usc_title: 10
 usc_section: "1735"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1735"
-generated_at: "2026-03-30T02:53:38.136Z"
+generated_at: "2026-11-23T21:25:32.535Z"
+status: "active"
 ---
 
 # § 1735. Education, training, and experience requirements for critical acquisition positions
@@ -32,3 +33,19 @@ generated_at: "2026-03-30T02:53:38.136Z"
   - **(3)** must have held a position as a program manager or a deputy program manager.
 - **(e)** Before a general or flag officer, or a civilian serving in a position equivalent in grade to the grade of such an officer, may be assigned to a critical acquisition position, the person must have at least 10 years experience in an acquisition position, at least four years of which were performed while assigned to a critical acquisition position.
 - **(f)** Before a person may be assigned to a critical acquisition position as a senior contracting official, the person must have at least four years experience in contracting.
+
+Qualification Requirements
+
+Program Managers and Deputy Program Managers
+
+Product Support Manager
+
+Portfolio Acquisition Executives
+
+General and Flag Officers and Civilians in Equivalent Positions
+
+Senior Contracting Officials
+
+## Source Credit
+
+*(Added [Pub. L. 101–510, div. A, title XII, § 1202(a)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1648](https://www.govinfo.gov/link/statute/104/1648); amended [Pub. L. 102–484, div. A, title VIII, § 812(d)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2451](https://www.govinfo.gov/link/statute/106/2451); [Pub. L. 103–160, div. A, title IX, § 904(d)(1)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1728](https://www.govinfo.gov/link/statute/107/1728); [Pub. L. 107–107, div. A, title X, § 1048(b)(2)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1225](https://www.govinfo.gov/link/statute/115/1225); [Pub. L. 116–92, div. A, title IX, § 902(20)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1545](https://www.govinfo.gov/link/statute/133/1545); [Pub. L. 119–60, div. A, title XVIII](https://www.govinfo.gov/link/plaw/119/public/60), §§ 1802(b)(1)(A), (D), 1803(a)(2), Dec. 18, 2025, [139 Stat. 1227](https://www.govinfo.gov/link/statute/139/1227), 1228.)*

@@ -3,9 +3,10 @@ title: "Section 1862c - Procedures, guidelines, and planning activities"
 usc_title: 42
 usc_section: "1862c"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1862c"
-generated_at: "2026-03-30T02:56:11.124Z"
+generated_at: "2026-11-23T21:26:32.200Z"
+status: "active"
 ---
 
 # § 1862c. Procedures, guidelines, and planning activities
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:11.124Z"
 - **(f)** Final guidelines shall be published in the Federal Register not later than 45 days after the submission of the report required under subsection (e).
 - **(g)** The Director shall, from amounts available to the Foundation under section 101(b) of this Act for fiscal year 1989, make available an amount, not to exceed $1,000,000, to carry out the provisions of this section. None of the funds authorized to be appropriated in section 101 of this Act may be used for grant or contract awards under the Program prior to completion and submission to Congress of the comprehensive plan required by subsection (d) of this section.
 - **(h)** In conducting the activities under the Program, the Director shall consult with the Secretary of Education and the heads of other related agencies.
+
+## Source Credit
+
+*([Pub. L. 100–570, title II, § 204](https://www.govinfo.gov/link/plaw/100/public/570), Oct. 31, 1988, [102 Stat. 2875](https://www.govinfo.gov/link/statute/102/2875).)*

@@ -3,12 +3,17 @@ title: "Section 2308 - Tax exemption for gifts"
 usc_title: 44
 usc_section: "2308"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 2308"
-generated_at: "2026-03-30T02:55:56.294Z"
+generated_at: "2026-11-23T21:26:18.413Z"
+status: "active"
 ---
 
 # § 2308. Tax exemption for gifts
 
 Gifts and bequests received by the Board under this chapter, and the income from them are exempt from taxes.
 
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1293](https://www.govinfo.gov/link/statute/82/1293).)*

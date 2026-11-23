@@ -3,9 +3,10 @@ title: "Section 4002 - Definitions"
 usc_title: 19
 usc_section: "4002"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4002"
-generated_at: "2026-03-30T02:54:24.699Z"
+generated_at: "2026-11-23T21:25:42.869Z"
+status: "active"
 ---
 
 # § 4002. Definitions
@@ -23,3 +24,7 @@ In this chapter:
   - **(3)** The term “Commission” means the United States International Trade Commission.
   - **(4)** The term “HTS” means the Harmonized Tariff Schedule of the United States.
   - **(5)** The term “textile or apparel good” means a good listed in the Annex to the Agreement on Textiles and Clothing referred to in section 3511(d)(4) of this title , other than a good listed in Annex 3.29 of the Agreement.
+
+## Source Credit
+
+*([Pub. L. 109–53, § 3](https://www.govinfo.gov/link/plaw/109/public/53), Aug. 2, 2005, [119 Stat. 463](https://www.govinfo.gov/link/statute/119/463).)*

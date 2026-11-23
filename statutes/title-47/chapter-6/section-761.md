@@ -3,9 +3,10 @@ title: "Section 761 - Federal Communications Commission licensing"
 usc_title: 47
 usc_section: "761"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 761"
-generated_at: "2026-03-30T02:56:24.526Z"
+generated_at: "2026-11-23T21:26:36.066Z"
+status: "active"
 ---
 
 # § 761. Federal Communications Commission licensing
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:24.526Z"
   - **(3)** In making its licensing decisions under this subsection, the Commission shall consider whether users of non-core services provided by INTELSAT or Inmarsat or successor or separated entities are able to obtain non-core services from providers offering services other than through INTELSAT or Inmarsat or successor or separated entities, at competitive rates, terms, or conditions. Such consideration shall also include whether such licensing decisions would require users to replace equipment at substantial costs prior to the termination of its design life. In making its licensing decisions, the Commission shall also consider whether competitive alternatives in individual markets do not exist because they have been foreclosed due to anticompetitive actions undertaken by or resulting from the INTELSAT or Inmarsat systems. Such licensing decisions shall be made in a manner which facilitates achieving the purposes and goals in this subchapter and shall be subject to notice and comment.
 - **(c)** In making its determinations and licensing decisions under subsections (a) and (b), the Commission shall construe such subsections in a manner consistent with the United States obligations and commitments for satellite services under the Fourth Protocol to the General Agreement on Trade in Services.
 - **(d)** Nothing in this section shall be construed as precluding COMSAT from investing in or owning satellites or other facilities independent from INTELSAT and Inmarsat, and successor or separated entities, or from providing services through reselling capacity over the facilities of satellite systems independent from INTELSAT and Inmarsat, and successor or separated entities. This subsection shall not be construed as restricting the types of contracts which can be executed or services which may be provided by COMSAT over the independent satellites or facilities described in this subsection.
+
+## Source Credit
+
+*([Pub. L. 87–624, title VI, § 601](https://www.govinfo.gov/link/plaw/87/public/624), as added [Pub. L. 106–180, § 3](https://www.govinfo.gov/link/plaw/106/public/180), Mar. 17, 2000, [114 Stat. 48](https://www.govinfo.gov/link/statute/114/48).)*

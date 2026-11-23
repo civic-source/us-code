@@ -3,9 +3,10 @@ title: "Section 325 - Veterans experience office 1 1 So in original. Probably sh
 usc_title: 38
 usc_section: "325"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 325"
-generated_at: "2026-03-30T02:55:53.471Z"
+generated_at: "2026-11-23T21:26:16.554Z"
+status: "active"
 ---
 
 # § 325. Veterans experience office 1 1 So in original. Probably should be “Veterans Experience Office”.
@@ -46,3 +47,21 @@ generated_at: "2026-03-30T02:55:53.471Z"
   - **(3)** Nothing in this subsection shall be construed to authorize an increase in the number of full-time employees otherwise authorized for the Department.
 - **(f)** Nothing in this section shall be construed to authorize the Chief Veterans Experience Officer to disclose any record in contravention of section 552a of title 5 (commonly referred to as the “Privacy Act of 1974”).
 - **(g)** The requirements and authorities of this section shall terminate on September 30, 2028 .
+
+Establishment
+
+Head of Office
+
+Function
+
+Reports
+
+Staff and Resources
+
+Privacy
+
+Sunset
+
+## Source Credit
+
+*(Added [Pub. L. 119–33, § 2(b)(1)](https://www.govinfo.gov/link/plaw/119/public/33), Aug. 14, 2025, [139 Stat. 485](https://www.govinfo.gov/link/statute/139/485).)*

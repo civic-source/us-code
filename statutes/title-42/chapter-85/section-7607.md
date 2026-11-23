@@ -3,9 +3,10 @@ title: "Section 7607 - Administrative proceedings and judicial review"
 usc_title: 42
 usc_section: "7607"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7607"
-generated_at: "2026-03-30T02:56:11.319Z"
+generated_at: "2026-11-23T21:26:33.135Z"
+status: "active"
 ---
 
 # § 7607. Administrative proceedings and judicial review
@@ -69,3 +70,7 @@ generated_at: "2026-03-30T02:56:11.319Z"
 - **(f)** In any judicial proceeding under this section, the court may award costs of litigation (including reasonable attorney and expert witness fees) whenever it determines that such award is appropriate.
 - **(g)** In any action respecting the promulgation of regulations under section 7420 of this title or the administration or enforcement of section 7420 of this title no court shall grant any stay, injunctive, or similar relief before final judgment by such court in such action.
 - **(h)** It is the intent of Congress that, consistent with the policy of subchapter II of chapter 5 of title 5, the Administrator in promulgating any regulation under this chapter, including a regulation subject to a deadline, shall ensure a reasonable period for public participation of at least 30 days, except as otherwise expressly provided in section 7 7 So in original. Probably should be “sections”. 7407(d), 7502(a), 7511(a) and (b), and 7512(a) and (b) of this title.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title III, § 307, as added [Pub. L. 91–604, § 12(a)](https://www.govinfo.gov/link/plaw/91/public/604), Dec. 31, 1970, [84 Stat. 1707](https://www.govinfo.gov/link/statute/84/1707); amended [Pub. L. 92–157, title III, § 302(a)](https://www.govinfo.gov/link/plaw/92/public/157), Nov. 18, 1971, [85 Stat. 464](https://www.govinfo.gov/link/statute/85/464); [Pub. L. 93–319, § 6(c)](https://www.govinfo.gov/link/plaw/93/public/319), June 22, 1974, [88 Stat. 259](https://www.govinfo.gov/link/statute/88/259); [Pub. L. 95–95, title III](https://www.govinfo.gov/link/plaw/95/public/95), §§ 303(d), 305(a), (c), (f)–(h), Aug. 7, 1977, [91 Stat. 772](https://www.govinfo.gov/link/statute/91/772), 776, 777; [Pub. L. 95–190, § 14(a)(79)](https://www.govinfo.gov/link/plaw/95/public/190), (80), Nov. 16, 1977, [91 Stat. 1404](https://www.govinfo.gov/link/statute/91/1404); [Pub. L. 101–549, title I](https://www.govinfo.gov/link/plaw/101/public/549), §§ 108(p), 110(5), title III, § 302(g), (h), title VII, §§ 702(c), 703, 706, 707(h), 710(b), Nov. 15, 1990, [104 Stat. 2469](https://www.govinfo.gov/link/statute/104/2469), 2470, 2574, 2681–2684.)*

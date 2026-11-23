@@ -3,9 +3,10 @@ title: "Section 1324a - Unlawful employment of aliens"
 usc_title: 8
 usc_section: "1324a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1324a"
-generated_at: "2026-03-30T02:53:10.493Z"
+generated_at: "2026-11-23T21:25:25.172Z"
+status: "active"
 ---
 
 # § 1324a. Unlawful employment of aliens
@@ -131,3 +132,201 @@ generated_at: "2026-03-30T02:53:10.493Z"
   - **(1)** In providing documentation or endorsement of authorization of aliens (other than aliens lawfully admitted for permanent residence) authorized to be employed in the United States, the Attorney General shall provide that any limitations with respect to the period or type of employment or employer shall be conspicuously stated on the documentation or endorsement.
   - **(2)** The provisions of this section preempt any State or local law imposing civil or criminal sanctions (other than through licensing and similar laws) upon those who employ, or recruit or refer for a fee for employment, unauthorized aliens.
   - **(3)** As used in this section, the term “unauthorized alien” means, with respect to the employment of an alien at a particular time, that the alien is not at that time either (A) an alien lawfully admitted for permanent residence, or (B) authorized to be so employed by this chapter or by the Attorney General.
+
+“The amendments made by subsection (a) [amending this section] shall take effect on the earlier of—
+
+In General
+
+Implementation Deadline; Termination
+
+Scope of Operation of Pilot Programs
+
+References in Subtitle
+
+Pilot program references
+
+Confirmation system
+
+References to section 274a
+
+or similar form
+
+Limited application to recruiters and referrers
+
+United states citizenship
+
+State
+
+Voluntary Election
+
+Benefit of Rebuttable Presumption.—
+
+In general
+
+Construction
+
+General Terms of Elections.—
+
+In general
+
+Scope of election.—
+
+In general
+
+Application of programs in non-pilot program states
+
+Termination of elections
+
+Consultation, Education, and Publicity.—
+
+Consultation
+
+Publicity
+
+Assistance through district offices
+
+Select Entities Required to Participate in a Pilot Program.—
+
+Federal government.—
+
+Executive departments.—
+
+In general
+
+Election
+
+Role of secretary of homeland security
+
+Legislative branch
+
+Application to certain violators
+
+Consequence of failure to participate
+
+Construction
+
+E-Verify Program
+
+Provision of additional information
+
+Presentation of documentation.—
+
+In general
+
+Limitation of requirement to examine documentation
+
+Seeking confirmation.—
+
+In general
+
+Extension of time period
+
+Confirmation or nonconfirmation.—
+
+Confirmation upon initial inquiry
+
+Nonconfirmation upon initial inquiry and secondary verification.—
+
+Nonconfirmation
+
+No contest
+
+Contest
+
+Recording of conclusion on form
+
+Consequences of nonconfirmation.—
+
+Termination or notification of continued employment
+
+Failure to notify
+
+Continued employment after final nonconfirmation
+
+Citizen Attestation Pilot Program.—
+
+In general
+
+Restrictions.—
+
+State document requirement to participate in pilot program
+
+Authorization to limit employer participation
+
+No confirmation required for certain individuals attesting to u.s. citizenship
+
+Waiver of document presentation requirement in certain cases.—
+
+In general
+
+Restriction
+
+Nonreviewable determinations
+
+Machine-Readable-Document Pilot Program.—
+
+In general
+
+State document requirement to participate in pilot program
+
+Use of machine-readable documents
+
+Protection From Liability for Actions Taken on the Basis of Information Provided by the Confirmation System
+
+In General
+
+Initial Response
+
+Secondary Verification Process in Case of Tentative Nonconfirmation
+
+Design and Operation of System
+
+Responsibilities of the Commissioner of Social Security
+
+Responsibilities of the Commissioner of the Immigration and Naturalization Service
+
+Updating Information
+
+Limitation on Use of the Confirmation System and Any Related Systems.—
+
+In general
+
+No national identification card
+
+In General
+
+Report on Expansion
+
+Consultation
+
+Assistance for State Initiatives
+
+Authorization of Appropriations
+
+Report Required
+
+“The President shall transmit to Congress annual reports on the implementation of section 274A of the Immigration and Nationality Act [ 8 U.S.C. 1324a ] (relating to unlawful employment of aliens) during the first three years after its implementation. Each report shall include—
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+George Bush.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 8, § 274A, as added [Pub. L. 99–603, title I, § 101(a)(1)](https://www.govinfo.gov/link/plaw/99/public/603), Nov. 6, 1986, [100 Stat. 3360](https://www.govinfo.gov/link/statute/100/3360); amended [Pub. L. 100–525, § 2(a)(1)](https://www.govinfo.gov/link/plaw/100/public/525), Oct. 24, 1988, [102 Stat. 2609](https://www.govinfo.gov/link/statute/102/2609); [Pub. L. 101–649, title V](https://www.govinfo.gov/link/plaw/101/public/649), §§ 521(a), 538(a), Nov. 29, 1990, [104 Stat. 5053](https://www.govinfo.gov/link/statute/104/5053), 5056; [Pub. L. 102–232, title III](https://www.govinfo.gov/link/plaw/102/public/232), §§ 306(b)(2), 309(b)(11), Dec. 12, 1991, [105 Stat. 1752](https://www.govinfo.gov/link/statute/105/1752), 1759; [Pub. L. 103–416, title II](https://www.govinfo.gov/link/plaw/103/public/416), §§ 213, 219(z)(4), Oct. 25, 1994, [108 Stat. 4314](https://www.govinfo.gov/link/statute/108/4314), 4318; [Pub. L. 104–208, div. C, title III, § 379(a)](https://www.govinfo.gov/link/plaw/104/public/208), title IV, §§ 411(a), 412(a)–(d), 416, Sept. 30, 1996, [110 Stat. 3009–649](https://www.govinfo.gov/link/statute/110/3009), 3009–666 to 3009–669; [Pub. L. 108–390, § 1(a)](https://www.govinfo.gov/link/plaw/108/public/390), Oct. 30, 2004, [118 Stat. 2242](https://www.govinfo.gov/link/statute/118/2242).)*

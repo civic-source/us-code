@@ -3,9 +3,10 @@ title: "Section 2308 - Renumbered § 3069]"
 usc_title: 10
 usc_section: "2308"
 chapter: 137
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2308"
-generated_at: "2026-03-30T02:53:38.153Z"
+generated_at: "2026-11-23T21:25:32.596Z"
+status: "renumbered"
 ---
 
 # [§ 2308. Renumbered § 3069]

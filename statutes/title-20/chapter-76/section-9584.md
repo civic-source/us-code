@@ -3,9 +3,10 @@ title: "Section 9584 - Authorization of appropriations"
 usc_title: 20
 usc_section: "9584"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9584"
-generated_at: "2026-03-30T02:54:48.230Z"
+generated_at: "2026-11-23T21:25:47.668Z"
+status: "active"
 ---
 
 # § 9584. Authorization of appropriations
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:48.230Z"
   - **(2)** not more than the lesser of 2 percent of such funds or $1,000,000 shall be made available to carry out section 9516 of this title (relating to the National Board for Education Sciences).
 - **(b)** There are authorized to be appropriated to carry out section 9564 of this title $100,000,000 for fiscal year 2003 and such sums as may be necessary for each of the 5 succeeding fiscal years. Of the amounts appropriated under the preceding sentence for a fiscal year, the Director shall obligate not less than 25 percent to carry out such purpose with respect to rural areas (including schools funded by the Bureau which are located in rural areas).
 - **(c)** Amounts made available under this section shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 107–279, title I, § 194](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1975](https://www.govinfo.gov/link/statute/116/1975).)*

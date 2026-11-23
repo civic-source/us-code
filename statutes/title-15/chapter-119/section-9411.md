@@ -3,9 +3,10 @@ title: "Section 9411 - National Artificial Intelligence Initiative"
 usc_title: 15
 usc_section: "9411"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9411"
-generated_at: "2026-03-30T02:54:08.246Z"
+generated_at: "2026-11-23T21:25:40.141Z"
+status: "active"
 ---
 
 # § 9411. National Artificial Intelligence Initiative
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:08.246Z"
   - **(2)** authorizing the Initiative, or anyone associated with its derivative efforts to approve, interfere with, direct or to conduct an intelligence activity, resource, or operation; or
   - **(3)** authorizing the Initiative, or anyone associated with its derivative efforts to modify the classification of intelligence information.
 - **(e)** The Initiative established in this chapter shall terminate on the date that is 10 years after January 1, 2021 .
+
+## Source Credit
+
+*([Pub. L. 116–283, div. E, title LI, § 5101](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4524](https://www.govinfo.gov/link/statute/134/4524).)*

@@ -3,9 +3,10 @@ title: "Section 215 - Definition"
 usc_title: 6
 usc_section: "215"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 215"
-generated_at: "2026-03-30T02:53:09.452Z"
+generated_at: "2026-11-23T21:25:25.766Z"
+status: "active"
 ---
 
 # § 215. Definition
@@ -20,3 +21,7 @@ In this part, the term “customs revenue function” means the following:
   - **(6)** Enforcing reciprocal trade agreements.
   - **(7)** Functions performed by the following personnel, and associated support staff, of the United States Customs Service on the day before the effective date of this chapter, and of U.S. Customs and Border Protection on the day before the effective date of the U.S. Customs and Border Protection Authorization Act: Import Specialists, Entry Specialists, Drawback Specialists, National Import Specialist, Fines and Penalties Specialists, attorneys of the Office of Regulations and Rulings, Customs Auditors, International Trade Specialists, Financial Systems Specialists.
   - **(8)** Functions performed by the following offices, with respect to any function described in any of paragraphs (1) through (7), and associated support staff, of the United States Customs Service on the day before the effective date of this chapter, and of U.S. Customs and Border Protection on the day before the effective date of the U.S. Customs and Border Protection Authorization Act: the Office of Information and Technology, the Office of Laboratory Services, the Office of the Chief Counsel, the Office of Congressional Affairs, the Office of International Affairs, and the Office of Training and Development.
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 415](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2180](https://www.govinfo.gov/link/statute/116/2180); [Pub. L. 114–125, title VIII, § 802(g)(1)(B)(iii)(V)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 211](https://www.govinfo.gov/link/statute/130/211).)*

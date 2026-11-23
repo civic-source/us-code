@@ -3,9 +3,10 @@ title: "Section 2622 - Employee protection"
 usc_title: 15
 usc_section: "2622"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2622"
-generated_at: "2026-03-30T02:54:08.178Z"
+generated_at: "2026-11-23T21:25:39.940Z"
+status: "active"
 ---
 
 # § 2622. Employee protection
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:08.178Z"
   - **(2)** An order of the Secretary, with respect to which review could have been obtained under paragraph (1), shall not be subject to judicial review in any criminal or other civil proceeding.
 - **(d)** Whenever a person has failed to comply with an order issued under subsection (b)(2), the Secretary shall file a civil action in the United States district court for the district in which the violation was found to occur to enforce such order. In actions brought under this subsection, the district courts shall have jurisdiction to grant all appropriate relief, including injunctive relief and compensatory and exemplary damages.
 - **(e)** Subsection (a) of this section shall not apply with respect to any employee who, acting without direction from the employee’s employer (or any agent of the employer), deliberately causes a violation of any requirement of this chapter.
+
+## Source Credit
+
+*([Pub. L. 94–469, title I, § 23](https://www.govinfo.gov/link/plaw/94/public/469), Oct. 11, 1976, [90 Stat. 2044](https://www.govinfo.gov/link/statute/90/2044); [Pub. L. 98–620, title IV, § 402(19)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3358](https://www.govinfo.gov/link/statute/98/3358); renumbered title I, [Pub. L. 99–519, § 3(c)(1)](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2989](https://www.govinfo.gov/link/statute/100/2989).)*

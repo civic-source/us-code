@@ -3,9 +3,10 @@ title: "Section 3254 - General program requirements"
 usc_title: 29
 usc_section: "3254"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3254"
-generated_at: "2026-03-30T02:55:18.761Z"
+generated_at: "2026-11-23T21:26:02.352Z"
+status: "active"
 ---
 
 # § 3254. General program requirements
@@ -44,3 +45,7 @@ Except as otherwise provided in this subchapter, the following conditions apply 
   - **(15)**
     - **(A)** None of the funds available under this subchapter shall be used by a recipient or subrecipient of such funds to pay the salary and bonuses of an individual, either as direct costs or indirect costs, at a rate in excess of the annual rate of basic pay prescribed for level II of the Executive Schedule under section 5313 of title 5 .
     - **(B)** The limitation described in subparagraph (A) shall not apply to vendors providing goods and services as defined in Office of Management and Budget Circular A–133. In a case in which a State is a recipient of such funds, the State may establish a lower limit than is provided in subparagraph (A) for salaries and bonuses of those receiving salaries and bonuses from a subrecipient of such funds, taking into account factors including the relative cost of living in the State, the compensation levels for comparable State or local government employees, and the size of the organizations that administer the Federal programs involved.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 194](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1605](https://www.govinfo.gov/link/statute/128/1605).)*

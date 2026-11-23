@@ -3,9 +3,10 @@ title: "Section 2281d - Declaration of policy"
 usc_title: 33
 usc_section: "2281d"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2281d"
-generated_at: "2026-03-30T02:55:41.118Z"
+generated_at: "2026-11-23T21:26:11.434Z"
+status: "active"
 ---
 
 # § 2281d. Declaration of policy
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:41.118Z"
   - **(2)** preempts or affects any State water law or interstate compact governing water;
   - **(3)** diminishes the other priorities and the primary or secondary missions of the Corps of Engineers; or
   - **(4)** shall be interpreted to supersede or modify any written agreement between the Federal Government and a non-Federal interest that is in effect on January 4, 2025 .
+
+## Source Credit
+
+*([Pub. L. 118–272, div. A, title I, § 1161](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3046](https://www.govinfo.gov/link/statute/138/3046).)*

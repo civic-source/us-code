@@ -3,9 +3,10 @@ title: "Section 8433 - Civil penalties"
 usc_title: 42
 usc_section: "8433"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8433"
-generated_at: "2026-03-30T02:56:11.342Z"
+generated_at: "2026-11-23T21:26:33.202Z"
+status: "active"
 ---
 
 # § 8433. Civil penalties
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.342Z"
     - **(A)** Notwithstanding the provisions of title 28, or of section 7192(c) of this title , the Secretary shall be represented by the general counsel of the Department of Energy (or any attorney or attorneys within the Department of Energy designated by the Secretary) who shall supervise, conduct, and argue any civil litigation to which paragraph (3) of this subsection applies (including any related collection action under paragraph (4)) in a court of the United States or in any other court, except the Supreme Court. However, the Secretary or the general counsel shall consult with the Attorney General concerning such litigation, and the Attorney General shall provide, on request, such assistance in the conduct of such litigation as may be appropriate.
     - **(B)** Subject to the provisions of section 7192(c) of this title , the Secretary shall be represented by the Attorney General, or the Solicitor General, as appropriate, in actions under this subsection, except to the extent provided in subparagraph (A) of this paragraph.
     - **(C)** Section 7172(d) of this title shall not apply with respect to the functions of the Secretary under this subsection.
+
+## Source Credit
+
+*([Pub. L. 95–620, title VII, § 723](https://www.govinfo.gov/link/plaw/95/public/620), Nov. 9, 1978, [92 Stat. 3333](https://www.govinfo.gov/link/statute/92/3333); [Pub. L. 100–42, § 1(c)(20)](https://www.govinfo.gov/link/plaw/100/public/42), May 21, 1987, [101 Stat. 313](https://www.govinfo.gov/link/statute/101/313).)*

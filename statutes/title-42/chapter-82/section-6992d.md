@@ -3,9 +3,10 @@ title: "Section 6992d - Enforcement"
 usc_title: 42
 usc_section: "6992d"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6992d"
-generated_at: "2026-03-30T02:56:11.282Z"
+generated_at: "2026-11-23T21:26:33.041Z"
+status: "active"
 ---
 
 # § 6992d. Enforcement
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.282Z"
 - **(c)** Any person who knowingly violates any provision of subsection (b) who knows at that time that he thereby places another person in imminent danger of death or serious bodily injury, shall upon conviction be subject to a fine of not more than $250,000 or imprisonment for not more than 15 years, or both. A defendant that is an organization shall, upon conviction under this subsection, be subject to a fine of not more than $1,000,000. The terms of this paragraph shall be interpreted in accordance with the rules provided under section 6928(f) of this title .
 - **(d)** Any person who violates any requirement of or regulation under this subchapter shall be liable to the United States for a civil penalty in an amount not to exceed $25,000 for each such violation. Each day of such violation shall, for purposes of this section, constitute a separate violation.
 - **(e)** Civil penalties assessed by the United States or by the States under this subchapter shall be assessed in accordance with the Administrator’s “RCRA Civil Penalty Policy”, as such policy may be amended from time to time.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 11005](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 100–582, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/582), Nov. 1, 1988, [102 Stat. 2953](https://www.govinfo.gov/link/statute/102/2953).)*

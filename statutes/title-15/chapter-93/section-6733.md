@@ -3,9 +3,10 @@ title: "Section 6733 - Effect on State laws restricting redomestication"
 usc_title: 15
 usc_section: "6733"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6733"
-generated_at: "2026-03-30T02:54:08.214Z"
+generated_at: "2026-11-23T21:25:40.030Z"
+status: "active"
 ---
 
 # § 6733. Effect on State laws restricting redomestication
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:08.214Z"
   - **(7)** comply with an injunction issued by a court of competent jurisdiction, upon a petition by the State insurance regulator alleging that the redomesticating insurer is in hazardous financial condition or is financially impaired;
   - **(8)** participate in any insurance insolvency guaranty association on the same basis as any other insurer licensed in the licensed State; and
   - **(9)** require a person acting, or offering to act, as an insurance licensee for a redomesticated insurer in the licensed State to obtain a license from that State, except that such State may not impose any qualification or requirement that discriminates against a nonresident insurance licensee.
+
+## Source Credit
+
+*([Pub. L. 106–102, title III, § 313](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1419](https://www.govinfo.gov/link/statute/113/1419).)*

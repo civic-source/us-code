@@ -3,9 +3,10 @@ title: "Section 60127 - Population encroachment and rights-of-way"
 usc_title: 49
 usc_section: "60127"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 60127"
-generated_at: "2026-03-30T02:56:19.415Z"
+generated_at: "2026-11-23T21:26:41.032Z"
+status: "active"
 ---
 
 # § 60127. Population encroachment and rights-of-way
@@ -26,3 +27,25 @@ generated_at: "2026-03-30T02:56:19.415Z"
     - **(A)** Congress and appropriate Federal agencies; and
     - **(B)** States for further distribution to appropriate local authorities.
   - **(3)** The Secretary shall encourage Federal agencies and State and local governments to adopt and implement appropriate practices, laws, and ordinances, as identified in the report, to address the risks and hazards associated with encroachment upon pipeline rights-of-way and to address the potential methods of preserving environmental resources while maintaining pipeline rights-of-way, consistent with pipeline safety.
+
+Study
+
+Purpose of Study
+
+Considerations
+
+Report.—
+
+In general
+
+Distribution of report
+
+Adoption of practices, laws, and ordinances
+
+Land Use Recommendations
+
+Evaluation
+
+## Source Credit
+
+*(Added [Pub. L. 104–304, § 16(a)](https://www.govinfo.gov/link/plaw/104/public/304), Oct. 12, 1996, [110 Stat. 3803](https://www.govinfo.gov/link/statute/110/3803); amended [Pub. L. 107–355, § 11(a)](https://www.govinfo.gov/link/plaw/107/public/355), Dec. 17, 2002, [116 Stat. 2996](https://www.govinfo.gov/link/statute/116/2996).)*

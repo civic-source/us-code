@@ -3,9 +3,10 @@ title: "Section 402 - Old-age and survivors insurance benefit payments"
 usc_title: 42
 usc_section: "402"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 402"
-generated_at: "2026-03-30T02:56:10.853Z"
+generated_at: "2026-11-23T21:26:30.976Z"
+status: "active"
 ---
 
 # § 402. Old-age and survivors insurance benefit payments
@@ -24,6 +25,10 @@ generated_at: "2026-03-30T02:56:10.853Z"
       - **(ii)** in the case of a wife, has in her care (individually or jointly with such individual) at the time of filing such application a child entitled to a child’s insurance benefit on the basis of the wages and self-employment income of such individual,
     - **(C)** in the case of a divorced wife, is not married, and
     - **(D)** is not entitled to old-age or disability insurance benefits, or is entitled to old-age or disability insurance benefits based on a primary insurance amount which is less than one-half of the primary insurance amount of such individual,
+      - **(i)** in the case of a wife or divorced wife (as so defined) of an individual entitled to old-age benefits, if such wife or divorced wife has attained retirement age (as defined in section 416( l ) of this title), the first month in which she meets the criteria specified in subparagraphs (A), (B), (C), and (D), or
+      - **(ii)** in the case of a wife or divorced wife (as so defined) of—
+        - **(I)** an individual entitled to old-age insurance benefits, if such wife or divorced wife has not attained retirement age (as defined in section 416( l ) of this title), or
+        - **(II)** an individual entitled to disability insurance benefits,
     - **(E)** she dies,
     - **(F)** such individual dies,
     - **(G)** in the case of a wife, they are divorced and either (i) she has not attained age 62, or (ii) she has attained age 62 but has not been married to such individual for a period of 10 years immediately before the date the divorce became effective,
@@ -31,10 +36,6 @@ generated_at: "2026-03-30T02:56:10.853Z"
     - **(I)** in the case of a wife who has not attained age 62, no child of such individual is entitled to a child’s insurance benefit,
     - **(J)** she becomes entitled to an old-age or disability insurance benefit based on a primary insurance amount which is equal to or exceeds one-half of the primary insurance amount of such individual, or
     - **(K)** such individual is not entitled to disability insurance benefits and is not entitled to old-age insurance benefits.
-      - **(i)** in the case of a wife or divorced wife (as so defined) of an individual entitled to old-age benefits, if such wife or divorced wife has attained retirement age (as defined in section 416( l ) of this title), the first month in which she meets the criteria specified in subparagraphs (A), (B), (C), and (D), or
-      - **(ii)** in the case of a wife or divorced wife (as so defined) of—
-        - **(I)** an individual entitled to old-age insurance benefits, if such wife or divorced wife has not attained retirement age (as defined in section 416( l ) of this title), or
-        - **(II)** an individual entitled to disability insurance benefits,
   - **(2)** Except as provided in subsection (q), such wife’s insurance benefit for each month shall be equal to one-half of the primary insurance amount of her husband (or, in the case of a divorced wife, her former husband) for such month.
   - **(3)** In the case of any divorced wife who marries—
     - **(A)** an individual entitled to benefits under subsection (c), (f), (g), or (h) of this section, or
@@ -52,6 +53,10 @@ generated_at: "2026-03-30T02:56:10.853Z"
       - **(ii)** in the case of a husband, has in his care (individually or jointly with such individual) at the time of filing such application a child entitled to a child’s insurance benefit on the basis of the wages and self-employment income of such individual,
     - **(C)** in the case of a divorced husband, is not married, and
     - **(D)** is not entitled to old-age or disability insurance benefits, or is entitled to old-age or disability insurance benefits based on a primary insurance amount which is less than one-half of the primary insurance amount of such individual,
+      - **(i)** in the case of a husband or divorced husband (as so defined) of an individual who is entitled to an old-age insurance benefit, if such husband or divorced husband has attained retirement age (as defined in section 416( l ) of this title), the first month in which he meets the criteria specified in subparagraphs (A), (B), (C), and (D), or
+      - **(ii)** in the case of a husband or divorced husband (as so defined) of—
+        - **(I)** an individual entitled to old-age insurance benefits, if such husband or divorced husband has not attained retirement age (as defined in section 416( l ) of this title), or
+        - **(II)** an individual entitled to disability insurance benefits,
     - **(E)** he dies,
     - **(F)** such individual dies,
     - **(G)** in the case of a husband, they are divorced and either (i) he has not attained age 62, or (ii) he has attained age 62 but has not been married to such individual for a period of 10 years immediately before the divorce became effective,
@@ -59,10 +64,6 @@ generated_at: "2026-03-30T02:56:10.853Z"
     - **(I)** in the case of a husband who has not attained age 62, no child of such individual is entitled to a child’s insurance benefit,
     - **(J)** he becomes entitled to an old-age or disability insurance benefit based on a primary insurance amount which is equal to or exceeds one-half of the primary insurance amount of such individual, or
     - **(K)** such individual is not entitled to disability insurance benefits and is not entitled to old-age insurance benefits.
-      - **(i)** in the case of a husband or divorced husband (as so defined) of an individual who is entitled to an old-age insurance benefit, if such husband or divorced husband has attained retirement age (as defined in section 416( l ) of this title), the first month in which he meets the criteria specified in subparagraphs (A), (B), (C), and (D), or
-      - **(ii)** in the case of a husband or divorced husband (as so defined) of—
-        - **(I)** an individual entitled to old-age insurance benefits, if such husband or divorced husband has not attained retirement age (as defined in section 416( l ) of this title), or
-        - **(II)** an individual entitled to disability insurance benefits,
   - **(2)** Except as provided in subsection (q), such husband’s insurance benefit for each month shall be equal to one-half of the primary insurance amount of his wife (or, in the case of a divorced husband, his former wife) for such month.
   - **(3)** In the case of any divorced husband who marries—
     - **(A)** an individual entitled to benefits under subsection (b), (e), (g), or (h) of this section, or
@@ -80,6 +81,8 @@ generated_at: "2026-03-30T02:56:10.853Z"
       - **(i)** if such individual is living, at the time such application was filed,
       - **(ii)** if such individual has died, at the time of such death, or
       - **(iii)** if such individual had a period of disability which continued until he became entitled to old-age or disability insurance benefits, or (if he has died) until the month of his death, at the beginning of such period of disability or at the time he became entitled to such benefits,
+      - **(i)** in the case of a child (as so defined) of such an individual who has died, the first month in which such child meets the criteria specified in subparagraphs (A), (B), and (C), or
+      - **(ii)** in the case of a child (as so defined) of an individual entitled to an old-age insurance benefit or to a disability insurance benefit, the first month throughout which such child is a child (as so defined) and meets the criteria specified in subparagraphs (B) and (C) (if in such month he meets the criterion specified in subparagraph (A)),
     - **(D)** the month in which such child dies, or marries,
     - **(E)** the month in which such child attains the age of 18, but only if he (i) is not under a disability (as so defined) at the time he attains such age, and (ii) is not a full-time elementary or secondary school student during any part of such month,
     - **(F)** if such child was not under a disability (as so defined) at the time he attained the age of 18, the earlier of—
@@ -90,8 +93,6 @@ generated_at: "2026-03-30T02:56:10.853Z"
       - **(ii)** the first month during no part of which he is a full-time elementary or secondary school student, or
       - **(iii)** the month in which he attains the age of 19,
     - **(H)** if the benefits under this subsection are based on the wages and self-employment income of a stepparent who is subsequently divorced from such child’s natural parent, the month after the month in which such divorce becomes final.
-      - **(i)** in the case of a child (as so defined) of such an individual who has died, the first month in which such child meets the criteria specified in subparagraphs (A), (B), and (C), or
-      - **(ii)** in the case of a child (as so defined) of an individual entitled to an old-age insurance benefit or to a disability insurance benefit, the first month throughout which such child is a child (as so defined) and meets the criteria specified in subparagraphs (B) and (C) (if in such month he meets the criterion specified in subparagraph (A)),
   - **(2)** Such child’s insurance benefit for each month shall, if the individual on the basis of whose wages and self-employment income the child is entitled to such benefit has not died prior to the end of such month, be equal to one-half of the primary insurance amount of such individual for such month. Such child’s insurance benefit for each month shall, if such individual has died in or prior to such month, be equal to three-fourths of the primary insurance amount of such individual.
   - **(3)** A child shall be deemed dependent upon his father or adopting father or his mother or adopting mother at the time specified in paragraph (1)(C) of this subsection unless, at such time, such individual was not living with or contributing to the support of such child and—
     - **(A)** such child is neither the legitimate nor adopted child of such individual, or
@@ -493,3 +494,47 @@ generated_at: "2026-03-30T02:56:10.853Z"
     - **(A)** no retroactive benefits (as defined in subsection (j)(4)(B)(iii)) shall be payable to such individual;
     - **(B)** no monthly benefit shall be payable to any other individual on the basis of such individual’s wages and self-employment income; and
     - **(C)** no monthly benefit shall be payable to such individual on the basis of another individual’s wages and self-employment income.
+
+In general
+
+Subsequent correction of cross-reference and terminology
+
+References to the secretary of homeland security
+
+In general
+
+Transitional rule
+
+In general
+
+Application requirements for certain individuals on benefit rolls
+
+“The amendments made by this section [amending this section] shall apply—
+
+“The amendments made by this section [amending this section and sections 416, 423, and 426 of this title] shall take effect January 1, 1988 , and shall apply with respect to—
+
+“The amendments made by this section [amending this section and sections 403, 416, 422, and 425 of this title] shall apply with respect to monthly insurance benefits under section 202 of the Social Security Act [ 42 U.S.C. 402 ] for months after December 1964; except that—
+
+“The amendment made by subsection (a) [amending this section] shall apply—
+
+“Congress finds the following:
+
+“Subsections (b)(4)(A)(i), (c)(2)(A)(i), (e)(7)(A)(i), (f)(2)(A)(i), and (g)(4)(A)(i) of section 202 of the Social Security Act ( 42 U.S.C. 402(b)(4)(A)(i) , (c)(2)(A)(i), (e)(7)(A)(i), (f)(2)(A)(i), (g)(4)(A)(i)) shall not apply with respect to monthly periodic benefits of any individual based solely on service which was performed while in the service of the Federal Government if—
+
+“In addition, the amendments made by the preceding provisions of this section [see section 334(f) of Pub. L. 95–216 , set out as an Effective Date of 1977 Amendment note above] shall not apply with respect to any monthly insurance benefit payable, under subsection (b), (c), (e), (f), or (g) (as the case may be) of section 202 of the Social Security Act [ 42 U.S.C. 402 ], to an individual—
+
+“Whenever benefits which an individual who is not a citizen or national of the United States was entitled to receive under title II of the Social Security Act [this subchapter] are, on June 30, 1968 , being withheld by the Treasury Department under the first section of the Act of October 9, 1940 ( 31 U.S.C. 123 ) [ 31 U.S.C. 3329(a) and 3330(a)], any such benefits, payable to such individual for months after the month in which the determination by the Treasury Department that the benefits should be so withheld was made, shall not be paid—
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Ronald Reagan.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title II, § 202, [49 Stat. 623](https://www.govinfo.gov/link/statute/49/623); Aug. 10, 1939, ch. 666, title II, § 201, [53 Stat. 1362](https://www.govinfo.gov/link/statute/53/1362), 1363; Aug. 10, 1946, ch. 951, title IV, §§ 402, 403(a), 404(a), 405(a), [60 Stat. 986](https://www.govinfo.gov/link/statute/60/986), 987; Aug. 28, 1950, ch. 809, title I, § 101(a), [64 Stat. 482](https://www.govinfo.gov/link/statute/64/482); Aug. 14, 1953, ch. 483, § 2, [67 Stat. 580](https://www.govinfo.gov/link/statute/67/580); Sept. 1, 1954, ch. 1206, title I, §§ 102(i), 105(a), 107, 110, [68 Stat. 1073](https://www.govinfo.gov/link/statute/68/1073), 1079, 1083, 1085; Aug. 9, 1955, ch. 685, § 2, [69 Stat. 621](https://www.govinfo.gov/link/statute/69/621); Aug. 1, 1956, ch. 836, title I, §§ 101(a)–(c), 102(c), (d)(1)–(10), 103(c)(1)–(3), 113, 114(a), 118(a), 121(a), [70 Stat. 807](https://www.govinfo.gov/link/statute/70/807), 810–814, 818, 831, 832, 835, 838; Aug. 1, 1956, ch. 837, title IV, §§ 403(a), 407, [70 Stat. 871](https://www.govinfo.gov/link/statute/70/871), 876; [Pub. L. 85–238](https://www.govinfo.gov/link/plaw/85/public/238), §§ 1, 3(a)–(g), Aug. 30, 1957, [71 Stat. 518](https://www.govinfo.gov/link/statute/71/518); [Pub. L. 85–798, § 1](https://www.govinfo.gov/link/plaw/85/public/798), Aug. 28, 1958, [72 Stat. 964](https://www.govinfo.gov/link/statute/72/964); [Pub. L. 85–840, title I, § 101(e)](https://www.govinfo.gov/link/plaw/85/public/840), title II, § 205(b)–(i), title III, §§ 301(a)(1), (b)(1), (c)(1), 303, 304(a)(1), 305(a), 306(a), 307(a)–(e), Aug. 28, 1958, [72 Stat. 1017](https://www.govinfo.gov/link/statute/72/1017), 1021–1024, 1026, 1027, 1029–1032; [Pub. L. 85–857, § 13(i)(1)](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1265](https://www.govinfo.gov/link/statute/72/1265); [Pub. L. 85–927, § 301](https://www.govinfo.gov/link/plaw/85/public/927), Sept. 6, 1958, [72 Stat. 1783](https://www.govinfo.gov/link/statute/72/1783); [Pub. L. 86–70, § 32(c)(1)](https://www.govinfo.gov/link/plaw/86/public/70), June 25, 1959, [73 Stat. 149](https://www.govinfo.gov/link/statute/73/149); [Pub. L. 86–624, § 30(c)(1)](https://www.govinfo.gov/link/plaw/86/public/624), July 12, 1960, [74 Stat. 420](https://www.govinfo.gov/link/statute/74/420); [Pub. L. 86–778, title I, § 103(a)(1)](https://www.govinfo.gov/link/plaw/86/public/778), (j)(2)(C), (D), title II, §§ 201(a), (b), 202(a), 203(a), 205(a), (b), 208(d), 211(i)–(l), title III, § 301(a), title IV, § 403(d), Sept. 13, 1960, [74 Stat. 936](https://www.govinfo.gov/link/statute/74/936), 937, 946, 947, 949, 952, 957–959, 1969; [Pub. L. 87–64, title I](https://www.govinfo.gov/link/plaw/87/public/64), §§ 102(a), (b)(1), (2)(A), (3), (e), 104(a)–(d), June 30, 1961, [75 Stat. 131](https://www.govinfo.gov/link/statute/75/131), 134–136, 138, 139; [Pub. L. 89–97, title I, § 104(a)](https://www.govinfo.gov/link/plaw/89/public/97), title III, §§ 303(d), 304(a)–(j), 306(a), (b), (c)(1)–(9), 307(a), (b), 308(a), (b), (d)(1), (2)(A), (3)–(5), (12), (13), 319(d), 323(a), 324(a), 328(a), 333(a)–(c), 334(e), (f), 339(b), 343(a), July 30, 1965, [79 Stat. 334](https://www.govinfo.gov/link/statute/79/334), 367–379, 392, 397, 398, 400, 403–405, 410, 412; [Pub. L. 90–248, title I](https://www.govinfo.gov/link/plaw/90/public/248), §§ 103(a)–(d), 104(a)–(c), 112(a), 151(a)–(d)(1), (2), 157(a), (b), 158(c)(1), (2), 162(a)(1), (b)(1), (c)(1), (2), Jan. 2, 1968, [81 Stat. 828–830](https://www.govinfo.gov/link/statute/81/828), 838, 860, 867, 868, 871; [Pub. L. 91–172, title X, § 1004(a)](https://www.govinfo.gov/link/plaw/91/public/172) –(c), Dec. 30, 1969, [83 Stat. 741](https://www.govinfo.gov/link/statute/83/741); [Pub. L. 92–223, § 1](https://www.govinfo.gov/link/plaw/92/public/223), Dec. 28, 1971, [85 Stat. 802](https://www.govinfo.gov/link/statute/85/802); [Pub. L. 92–603, title I](https://www.govinfo.gov/link/plaw/92/public/603), §§ 102(a), (b), (d)–(f), 103(a), (b), 107(a), 108(a)–(e), 109(a), 110(a), 111(a), 112(a), 113(b), 114(a)–(c), 116(b), (c), Oct. 30, 1972, [86 Stat. 1335](https://www.govinfo.gov/link/statute/86/1335), 1336, 1338–1340, 1343–1348, 1350; [Pub. L. 93–66, title II, § 240(a)](https://www.govinfo.gov/link/plaw/93/public/66), July 9, 1973, [87 Stat. 161](https://www.govinfo.gov/link/statute/87/161); [Pub. L. 93–233](https://www.govinfo.gov/link/plaw/93/public/233), §§ 1(f), (g), 18(b), Dec. 31, 1973, [87 Stat. 947](https://www.govinfo.gov/link/statute/87/947), 948, 967; [Pub. L. 93–445, title III, § 301](https://www.govinfo.gov/link/plaw/93/public/445), Oct. 16, 1974, [88 Stat. 1357](https://www.govinfo.gov/link/statute/88/1357); [Pub. L. 95–216, title II](https://www.govinfo.gov/link/plaw/95/public/216), §§ 203, 204(a)–(d), 205(a), (b), title III, §§ 331(a)–(c), 332(a)(1), (2), 334(a)–(d)(4)(A), (5), (6), (e), 336(a), (b), 337(b), 353(f)(1), Dec. 20, 1977, [91 Stat. 1527–1529](https://www.govinfo.gov/link/statute/91/1527), 1541–1548, 1554; [Pub. L. 95–600, title VII, § 703(j)(14)(A)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2942](https://www.govinfo.gov/link/statute/92/2942); [Pub. L. 96–265, title III](https://www.govinfo.gov/link/plaw/96/public/265), §§ 303(b)(1)(B)–(D), 306(a), June 9, 1980, [94 Stat. 451](https://www.govinfo.gov/link/statute/94/451), 452, 457; [Pub. L. 96–473](https://www.govinfo.gov/link/plaw/96/public/473), §§ 5(b), 6(a), Oct. 19, 1980, [94 Stat. 2265](https://www.govinfo.gov/link/statute/94/2265); [Pub. L. 96–499, title X, § 1011(a)](https://www.govinfo.gov/link/plaw/96/public/499), Dec. 5, 1980, [94 Stat. 2655](https://www.govinfo.gov/link/statute/94/2655); [Pub. L. 97–35, title XXII](https://www.govinfo.gov/link/plaw/97/public/35), §§ 2201(b)(10), (11), (d), (f), 2202(a)(1), 2203(a), (b)(1), (c)(1), (d)(1), (2), 2205(a), 2206(b)(1), 2210(a), Aug. 13, 1981, [95 Stat. 831–838](https://www.govinfo.gov/link/statute/95/831), 841; [Pub. L. 97–123, § 2(e)](https://www.govinfo.gov/link/plaw/97/public/123), Dec. 29, 1981, [95 Stat. 1660](https://www.govinfo.gov/link/statute/95/1660); [Pub. L. 97–455, § 7(c)](https://www.govinfo.gov/link/plaw/97/public/455), Jan. 12, 1983, [96 Stat. 2501](https://www.govinfo.gov/link/statute/96/2501); [Pub. L. 98–21, title I](https://www.govinfo.gov/link/plaw/98/public/21), §§ 111(a)(7), 113(d), 114(a)–(c)(1), 131(a)(1)–(3)(G), (b)(1)–(3)(F), (c), 132(a), 133(a), (b), 134(a), (b), title II, § 201(b), (c)(1)(A), title III, §§ 301(a), (b), 302, 306(a), (b), (d)–(h), 307(a), 309(a)–(e), 334(a), 337(a), 339(a), 340(a), (b), Apr. 20, 1983, [97 Stat. 72](https://www.govinfo.gov/link/statute/97/72), 79, 92, 93, 95–98, 108, 111–116, 130, 131, 133–135; [Pub. L. 98–369, div. B, title VI](https://www.govinfo.gov/link/plaw/98/public/369), §§ 2661(b)–(f), 2662(c)(1), 2663(a)(2), July 18, 1984, [98 Stat. 1156](https://www.govinfo.gov/link/statute/98/1156), 1159, 1160; [Pub. L. 99–272, title XII](https://www.govinfo.gov/link/plaw/99/public/272), §§ 12104(a), 12107(a), Apr. 7, 1986, [100 Stat. 285](https://www.govinfo.gov/link/statute/100/285), 286; [Pub. L. 99–514, title XVIII, § 1883(a)(1)](https://www.govinfo.gov/link/plaw/99/public/514) –(3), Oct. 22, 1986, [100 Stat. 2916](https://www.govinfo.gov/link/statute/100/2916); [Pub. L. 100–203, title IX](https://www.govinfo.gov/link/plaw/100/public/203), §§ 9007(a)–(e), 9010(b)–(d), Dec. 22, 1987, [101 Stat. 1330–289](https://www.govinfo.gov/link/statute/101/1330) to 1330–293; [Pub. L. 100–647, title VIII](https://www.govinfo.gov/link/plaw/100/public/647), §§ 8004(a), (b), 8007(b), 8010(a), (b), 8014(a), Nov. 10, 1988, [102 Stat. 3780](https://www.govinfo.gov/link/statute/102/3780), 3782, 3788, 3790; [Pub. L. 101–239, title X](https://www.govinfo.gov/link/plaw/101/public/239), §§ 10203(a), 10301(a), (b), 10302(a)(1), Dec. 19, 1989, [103 Stat. 2473](https://www.govinfo.gov/link/statute/103/2473), 2481; [Pub. L. 101–508, title V](https://www.govinfo.gov/link/plaw/101/public/508), §§ 5103(c)(2)(A), (B), (d), 5116(a), Nov. 5, 1990, [104 Stat. 1388–252](https://www.govinfo.gov/link/statute/104/1388), 1388–253, 1388–274; [Pub. L. 101–649, title VI, § 603(b)(5)](https://www.govinfo.gov/link/plaw/101/public/649), Nov. 29, 1990, [104 Stat. 5085](https://www.govinfo.gov/link/statute/104/5085); [Pub. L. 102–40, title IV, § 402(d)(2)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 239](https://www.govinfo.gov/link/statute/105/239); [Pub. L. 102–54, § 13(q)(3)(C)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 279](https://www.govinfo.gov/link/statute/105/279); [Pub. L. 103–296, title I, § 107(a)(4)](https://www.govinfo.gov/link/plaw/103/public/296), title III, §§ 308(a), 321(a)(2)–(5), (b)(1), (c)(2), Aug. 15, 1994, [108 Stat. 1478](https://www.govinfo.gov/link/statute/108/1478), 1522, 1535–1538; [Pub. L. 103–387, § 4(a)](https://www.govinfo.gov/link/plaw/103/public/387), Oct. 22, 1994, [108 Stat. 4076](https://www.govinfo.gov/link/statute/108/4076); [Pub. L. 104–121, title I, § 104(a)(1)](https://www.govinfo.gov/link/plaw/104/public/121), (b)(1), (2), Mar. 29, 1996, [110 Stat. 851](https://www.govinfo.gov/link/statute/110/851), 852; [Pub. L. 104–208, div. C, title III, § 308(g)(1)](https://www.govinfo.gov/link/plaw/104/public/208), title V, § 503(a), Sept. 30, 1996, [110 Stat. 3009–622](https://www.govinfo.gov/link/statute/110/3009), 3009–671; [Pub. L. 106–169, title II, § 207(b)](https://www.govinfo.gov/link/plaw/106/public/169), Dec. 14, 1999, [113 Stat. 1838](https://www.govinfo.gov/link/statute/113/1838); [Pub. L. 106–170, title IV, § 402(a)(1)](https://www.govinfo.gov/link/plaw/106/public/170), (b)(1), (d)(1), (2), [113 Stat. 1907–1909](https://www.govinfo.gov/link/statute/113/1907); [Pub. L. 106–182, § 4(b)](https://www.govinfo.gov/link/plaw/106/public/182), Apr. 7, 2000, [114 Stat. 199](https://www.govinfo.gov/link/statute/114/199); [Pub. L. 108–203, title II, § 203(a)](https://www.govinfo.gov/link/plaw/108/public/203), title IV, §§ 412(a), (b), 418(a)–(b)(4)(B)(vi), (5), 420A(a), Mar. 2, 2004, [118 Stat. 509](https://www.govinfo.gov/link/statute/118/509), 527, 528, 531–533, 535; [Pub. L. 113–67, div. A, title II, § 204(a)(1)](https://www.govinfo.gov/link/plaw/113/public/67), (b)(1), Dec. 26, 2013, [127 Stat. 1179](https://www.govinfo.gov/link/statute/127/1179), 1180; [Pub. L. 113–270](https://www.govinfo.gov/link/plaw/113/public/270), §§ 3, 4, Dec. 18, 2014, [128 Stat. 2948](https://www.govinfo.gov/link/statute/128/2948), 2949; [Pub. L. 114–74, title VIII, § 831(a)(1)](https://www.govinfo.gov/link/plaw/114/public/74), (2), (b)(1), (2), Nov. 2, 2015, [129 Stat. 611–613](https://www.govinfo.gov/link/statute/129/611); [Pub. L. 118–273](https://www.govinfo.gov/link/plaw/118/public/273), §§ 2, 3(b), Jan. 5, 2025, [138 Stat. 3232](https://www.govinfo.gov/link/statute/138/3232).)*

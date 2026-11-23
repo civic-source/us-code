@@ -3,9 +3,10 @@ title: "Section 51302 - Commercial exploration and commercial recovery"
 usc_title: 51
 usc_section: "51302"
 chapter: 513
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 51302"
-generated_at: "2026-03-30T02:56:28.711Z"
+generated_at: "2026-11-23T21:26:42.556Z"
+status: "active"
 ---
 
 # § 51302. Commercial exploration and commercial recovery
@@ -17,3 +18,23 @@ generated_at: "2026-03-30T02:56:28.711Z"
 - **(b)** Not later than 180 days after the date of enactment of this section, the President shall submit to Congress a report on commercial exploration for and commercial recovery of space resources by United States citizens that specifies—
   - **(1)** the authorities necessary to meet the international obligations of the United States, including authorization and continuing supervision by the Federal Government; and
   - **(2)** recommendations for the allocation of responsibilities among Federal agencies for the activities described in paragraph (1).
+
+In General
+
+Report
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*(Added [Pub. L. 114–90, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/114/public/90), Nov. 25, 2015, [129 Stat. 721](https://www.govinfo.gov/link/statute/129/721).)*

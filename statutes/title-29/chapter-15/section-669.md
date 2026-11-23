@@ -3,9 +3,10 @@ title: "Section 669 - Research and related activities"
 usc_title: 29
 usc_section: "669"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 669"
-generated_at: "2026-03-30T02:55:18.689Z"
+generated_at: "2026-11-23T21:26:02.192Z"
+status: "active"
 ---
 
 # § 669. Research and related activities
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:18.689Z"
 - **(c)** The Secretary is authorized to enter into contracts, agreements, or other arrangements with appropriate public agencies or private organizations for the purpose of conducting studies relating to his responsibilities under this chapter. In carrying out his responsibilities under this subsection, the Secretary shall cooperate with the Secretary of Health and Human Services in order to avoid any duplication of efforts under this section.
 - **(d)** Information obtained by the Secretary and the Secretary of Health and Human Services under this section shall be disseminated by the Secretary to employers and employees and organizations thereof.
 - **(e)** The functions of the Secretary of Health and Human Services under this chapter shall, to the extent feasible, be delegated to the Director of the National Institute for Occupational Safety and Health established by section 671 of this title .
+
+## Source Credit
+
+*([Pub. L. 91–596, § 20](https://www.govinfo.gov/link/plaw/91/public/596), Dec. 29, 1970, [84 Stat. 1610](https://www.govinfo.gov/link/statute/84/1610); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695).)*

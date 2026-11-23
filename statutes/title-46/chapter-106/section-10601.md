@@ -3,9 +3,10 @@ title: "Section 10601 - Fishing agreements"
 usc_title: 46
 usc_section: "10601"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 10601"
-generated_at: "2026-03-30T02:56:15.554Z"
+generated_at: "2026-11-23T21:26:37.115Z"
+status: "active"
 ---
 
 # § 10601. Fishing agreements
@@ -20,3 +21,16 @@ generated_at: "2026-03-30T02:56:15.554Z"
     - **(A)** total not less than 3,100 calories; and
     - **(B)** include adequate water and minerals in accordance with the United States Recommended Daily Allowances; and
   - **(4)** include other agreed terms.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 10601 | 46:531 |
+
+
+Historical and Revision Notes
+
+10601
+
+## Source Credit
+
+*([Pub. L. 100–424, § 6(a)](https://www.govinfo.gov/link/plaw/100/public/424), Sept. 9, 1988, [102 Stat. 1591](https://www.govinfo.gov/link/statute/102/1591); [Pub. L. 104–324, title VII, § 739](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3942](https://www.govinfo.gov/link/statute/110/3942); [Pub. L. 107–295, title IV, § 441(a)](https://www.govinfo.gov/link/plaw/107/public/295), (b), Nov. 25, 2002, [116 Stat. 2131](https://www.govinfo.gov/link/statute/116/2131); [Pub. L. 117–263, div. K, title CXV, § 11526](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4145](https://www.govinfo.gov/link/statute/136/4145).)*

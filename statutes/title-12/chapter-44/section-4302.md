@@ -3,9 +3,10 @@ title: "Section 4302 - Disclosure of interest rates and terms of accounts"
 usc_title: 12
 usc_section: "4302"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4302"
-generated_at: "2026-03-30T02:53:53.504Z"
+generated_at: "2026-11-23T21:25:37.173Z"
+status: "active"
 ---
 
 # § 4302. Disclosure of interest rates and terms of accounts
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:53.504Z"
     - **(B)** the number of transactions during such period may not exceed a maximum number; or
   - **(2)** any regular service or transaction fee is imposed.
 - **(e)** No depository institution or deposit broker shall make any advertisement, announcement, or solicitation relating to a deposit account that is inaccurate or misleading or that misrepresents its deposit contracts.
+
+## Source Credit
+
+*([Pub. L. 102–242, title II, § 263](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2334](https://www.govinfo.gov/link/statute/105/2334); [Pub. L. 102–550, title IX, § 957(a)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3896](https://www.govinfo.gov/link/statute/106/3896); [Pub. L. 104–208, div. A, title II, § 2604(b)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–471](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 111–203, title X, § 1100B(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2109](https://www.govinfo.gov/link/statute/124/2109).)*

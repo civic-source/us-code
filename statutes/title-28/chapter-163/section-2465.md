@@ -3,9 +3,10 @@ title: "Section 2465 - Return of property to claimant; liability for wrongful se
 usc_title: 28
 usc_section: "2465"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 2465"
-generated_at: "2026-03-30T02:55:30.149Z"
+generated_at: "2026-11-23T21:26:01.133Z"
+status: "active"
 ---
 
 # § 2465. Return of property to claimant; liability for wrongful seizure; attorney fees, costs, and interest
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:30.149Z"
       - **(iii)** does not cause the claimant to incur additional, reasonable costs or fees; and
       - **(iv)** prevails in obtaining forfeiture with respect to one or more of the other claims.
     - **(D)** If the court enters judgment in part for the claimant and in part for the Government, the court shall reduce the award of costs and attorney fees accordingly.
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 975](https://www.govinfo.gov/link/statute/62/975); [Pub. L. 106–185, § 4(a)](https://www.govinfo.gov/link/plaw/106/public/185), Apr. 25, 2000, [114 Stat. 211](https://www.govinfo.gov/link/statute/114/211).)*

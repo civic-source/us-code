@@ -3,9 +3,10 @@ title: "Section 5982 - Purposes"
 usc_title: 20
 usc_section: "5982"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 5982"
-generated_at: "2026-03-30T02:54:48.190Z"
+generated_at: "2026-11-23T21:25:47.478Z"
+status: "active"
 ---
 
 # § 5982. Purposes
@@ -16,3 +17,7 @@ It is the purpose of this subchapter—
     - **(A)** social studies and other teachers responsible for American history, government, and civics classes; and
     - **(B)** other educators who work with minority and Native American youth; and
   - **(2)** through such improved instruction to improve minority and Native American student knowledge and understanding of the American system of government.
+
+## Source Credit
+
+*([Pub. L. 103–227, title VIII, § 802](https://www.govinfo.gov/link/plaw/103/public/227), Mar. 31, 1994, [108 Stat. 209](https://www.govinfo.gov/link/statute/108/209).)*

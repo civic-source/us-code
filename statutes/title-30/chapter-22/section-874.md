@@ -3,9 +3,10 @@ title: "Section 874 - Hoisting and mantrips"
 usc_title: 30
 usc_section: "874"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 874"
-generated_at: "2026-03-30T02:55:29.391Z"
+generated_at: "2026-11-23T21:26:00.398Z"
+status: "active"
 ---
 
 # § 874. Hoisting and mantrips
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:29.391Z"
 - **(d)** There shall be at least two effective methods approved by the Secretary of signaling between each of the shaft stations and the hoist room, one of which shall be a telephone or speaking tube.
 - **(e)** Each locomotive and haulage car used in an underground coal mine shall be equipped with automatic brakes, where space permits. Where space does not permit automatic brakes, locomotives and haulage cars shall be subject to speed reduction gear, or other similar devices approved by the Secretary which are designed to stop the locomotives and haulage cars with the proper margin of safety.
 - **(f)** All haulage equipment acquired by an operator of a coal mine on or after one year after the operative date of this subchapter shall be equipped with automatic couplers which couple by impact and uncouple without the necessity of persons going between the ends of such equipment. All haulage equipment without automatic couplers in use in a mine on the operative date of this subchapter shall also be so equipped within four years after the operative date of this subchapter.
+
+## Source Credit
+
+*([Pub. L. 91–173, title III, § 314](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 786](https://www.govinfo.gov/link/statute/83/786).)*

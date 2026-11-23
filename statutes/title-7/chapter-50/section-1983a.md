@@ -3,9 +3,10 @@ title: "Section 1983a - Prompt approval of loans and loan guarantees"
 usc_title: 7
 usc_section: "1983a"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1983a"
-generated_at: "2026-03-30T02:53:42.351Z"
+generated_at: "2026-11-23T21:25:28.212Z"
+status: "active"
 ---
 
 # § 1983a. Prompt approval of loans and loan guarantees
@@ -66,3 +67,15 @@ generated_at: "2026-03-30T02:53:42.351Z"
       - **(iii)** the cost of completing and processing the form is minimal; and
       - **(iv)** the form can be completed and processed in an expeditious manner.
 - **(h)** Except as provided in subsection (g)(2), the Secretary shall, to the maximum extent practicable, develop a simplified application process, including a single page application if practicable, for grants and relending authorized under sections 1926, 1926c, 1926d, 1926e, 1932(b), 1932(c), 1932(e), 1936b, 2008p, and 2008s of this title.
+
+Verification.—
+
+In general
+
+Notification
+
+Credit extended
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 333A](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 99–198, title XIII, § 1312(a)](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1524](https://www.govinfo.gov/link/statute/99/1524); amended [Pub. L. 101–624, title XVIII, § 1811](https://www.govinfo.gov/link/plaw/101/public/624), title XXIII, § 2388(f), Nov. 28, 1990, [104 Stat. 3821](https://www.govinfo.gov/link/statute/104/3821), 4053; [Pub. L. 102–554](https://www.govinfo.gov/link/plaw/102/public/554), §§ 13–15, Oct. 28, 1992, [106 Stat. 4152](https://www.govinfo.gov/link/statute/106/4152), 4153; [Pub. L. 104–127, title VI, § 637](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1093](https://www.govinfo.gov/link/statute/110/1093); [Pub. L. 107–171, title V, § 5307](https://www.govinfo.gov/link/plaw/107/public/171), title VI, § 6019, May 13, 2002, [116 Stat. 345](https://www.govinfo.gov/link/statute/116/345), 362; [Pub. L. 110–234, title VI, § 6012(b)(3)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1165](https://www.govinfo.gov/link/statute/122/1165); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VI, § 6012(b)(3), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1927; [Pub. L. 113–79, title VI, § 6020(a)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 847](https://www.govinfo.gov/link/statute/128/847); [Pub. L. 115–334, title V, § 5401(c)(1)](https://www.govinfo.gov/link/plaw/115/public/334), title VI, § 6601(a)(2), Dec. 20, 2018, [132 Stat. 4674](https://www.govinfo.gov/link/statute/132/4674), 4776.)*

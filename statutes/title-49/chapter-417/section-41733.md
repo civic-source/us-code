@@ -3,9 +3,10 @@ title: "Section 41733 - Level of basic essential air service"
 usc_title: 49
 usc_section: "41733"
 chapter: 417
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 41733"
-generated_at: "2026-03-30T02:56:19.377Z"
+generated_at: "2026-11-23T21:26:40.864Z"
+status: "active"
 ---
 
 # § 41733. Level of basic essential air service
@@ -50,3 +51,97 @@ generated_at: "2026-03-30T02:56:19.377Z"
     - **(A)** terminate the order issued to the air carrier; and
     - **(B)** issue a notice pursuant to subsection (c) that an air carrier may apply to provide basic essential air service to such place for compensation under this section and select an applicant pursuant to such subsection.
   - **(4)** If the Secretary makes a determination under paragraph (3) to terminate an order issued to an air carrier under this section, the Secretary shall ensure continuity in air service to the affected place.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 41733(a) | 49 App.:1389(b)(1)(A) (less last sentence last 24 words), (C). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 419(b)(1), (3), (4), (9); added Oct. 24, 1978 , Pub. L. 95–504, § 33(a) , 92 Stat. 1732 ; Dec. 8, 1983 , Pub. L. 98–213, § 10 , 97 Stat. 1461 ; Oct. 4, 1984 , Pub. L. 98–443, § 9(r) , 98 Stat. 1708 ; restated Dec. 30, 1987 , Pub. L. 100–223, § 202(a)(1) , (2), (b)(1), 101 Stat. 1507 , 1508, 1509, 1511. |
+| 41733(b)(1) | 49 App.:1389(b)(1)(A) (last sentence last 24 words), (B). |  |
+| 41733(b)(2) | 49 App.:1389(b)(9). |  |
+| 41733(c) | 49 App.:1389(b)(3). |  |
+| 41733(d) | 49 App.:1389(b)(4). |  |
+| 41733(e) | 49 App.:1389(b)(1)(D). |  |
+
+
+Decisions Made Before October
+
+Decisions Not Made Before October
+
+Availability of Compensation
+
+Compensation Payments
+
+Review
+
+Notice to Communities Prior to Termination of Eligibility.—
+
+In general
+
+Procedures to avoid termination
+
+Assistance provided
+
+Proposals of State and Local Governments to Restore Eligibility.—
+
+In general
+
+Determination by secretary
+
+Subsidy Cap Defined
+
+Community Petition for Review.—
+
+Petition
+
+Review
+
+Termination
+
+Continuation of service
+
+Historical and Revision Notes
+
+41733(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 24, 1978
+
+Pub. L. 95–504, § 33(a)
+
+92 Stat. 1732
+
+Dec. 8, 1983
+
+Pub. L. 98–213, § 10
+
+97 Stat. 1461
+
+Oct. 4, 1984
+
+Pub. L. 98–443, § 9(r)
+
+98 Stat. 1708
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 202(a)(1)
+
+101 Stat. 1507
+
+41733(b)(1)
+
+41733(b)(2)
+
+41733(c)
+
+41733(d)
+
+41733(e)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1145](https://www.govinfo.gov/link/statute/108/1145); [Pub. L. 106–181, title II, § 209(b)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 95](https://www.govinfo.gov/link/statute/114/95); [Pub. L. 112–95, title IV](https://www.govinfo.gov/link/plaw/112/public/95), §§ 423–425, Feb. 14, 2012, [126 Stat. 97](https://www.govinfo.gov/link/statute/126/97), 98; [Pub. L. 118–63, title V](https://www.govinfo.gov/link/plaw/118/public/63), §§ 561(d), 565(a), May 16, 2024, [138 Stat. 1215](https://www.govinfo.gov/link/statute/138/1215), 1218.)*

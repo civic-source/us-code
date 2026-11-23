@@ -3,9 +3,10 @@ title: "Section 629b - State plans"
 usc_title: 42
 usc_section: "629b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 629b"
-generated_at: "2026-03-30T02:56:10.878Z"
+generated_at: "2026-11-23T21:26:31.103Z"
+status: "active"
 ---
 
 # § 629b. State plans
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:56:10.878Z"
   - **(1)** The Secretary shall compile the reports required under subsection (a)(8)(B) and, not later than September 30 of each year, submit such compilation to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
   - **(2)** The compilation shall include the individual State reports and tables that synthesize State information into national totals for each element required to be included in the reports, including planned and actual spending by service category for the program authorized under this subpart and planned spending by service category for the program authorized under subpart 1.
   - **(3)** Not later than September 30 of each year, the Secretary shall publish the compilation on the website of the Department of Health and Human Services in a location easily accessible by the public.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 432, as added [Pub. L. 103–66, title XIII, § 13711(a)(2)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 651](https://www.govinfo.gov/link/statute/107/651); amended [Pub. L. 105–89, title III, § 305(b)(1)](https://www.govinfo.gov/link/plaw/105/public/89), (c)(1), Nov. 19, 1997, [111 Stat. 2130](https://www.govinfo.gov/link/statute/111/2130), 2131; [Pub. L. 105–200, title IV, § 410(c)](https://www.govinfo.gov/link/plaw/105/public/200), July 16, 1998, [112 Stat. 673](https://www.govinfo.gov/link/statute/112/673); [Pub. L. 109–288](https://www.govinfo.gov/link/plaw/109/public/288), §§ 3(e)(1), (2), 5(b)(3)(A), (c), Sept. 28, 2006, [120 Stat. 1235](https://www.govinfo.gov/link/statute/120/1235), 1243, 1244; [Pub. L. 112–34, title I, § 102(b)](https://www.govinfo.gov/link/plaw/112/public/34), (e), (g)(1), Sept. 30, 2011, [125 Stat. 371](https://www.govinfo.gov/link/statute/125/371), 372; [Pub. L. 115–123, div. E, title VII, § 50721(b)(2)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 245](https://www.govinfo.gov/link/statute/132/245); [Pub. L. 118–258, title I](https://www.govinfo.gov/link/plaw/118/public/258), §§ 107(b)(1), 109(b), 111(b), Jan. 4, 2025, [138 Stat. 2955](https://www.govinfo.gov/link/statute/138/2955), 2958, 2961.)*

@@ -3,9 +3,10 @@ title: "Section 20984 - Study and report on voters who register by mail and use 
 usc_title: 52
 usc_section: "20984"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 20984"
-generated_at: "2026-03-30T02:56:30.166Z"
+generated_at: "2026-11-23T21:26:42.333Z"
+status: "active"
 ---
 
 # § 20984. Study and report on voters who register by mail and use of Social Security information
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:30.166Z"
       - **(iii)** an analysis of the impact of such section on existing State practices, such as the use of signature verification or attestation procedures to verify the identity of voters in elections for Federal office, and an analysis of other changes that may be made to improve the voter registration process, such as verification or additional information on the registration card.
   - **(2)** Not later than 18 months after the date on which section 21083(b)(2) of this title takes effect, the Commission shall submit a report to the President and Congress on the study conducted under paragraph (1)(A) together with such recommendations for administrative and legislative action as the Commission determines is appropriate.
 - **(b)** Not later than 18 months after the date on which section 21083(a)(5) of this title takes effect, the Commission, in consultation with the Commissioner of Social Security, shall study and report to Congress on the feasibility and advisability of using Social Security identification numbers or other information compiled by the Social Security Administration to establish voter registration or other election law eligibility or identification requirements, including the matching of relevant information specific to an individual voter, the impact of such use on national security issues, and whether adequate safeguards or waiver procedures exist to protect the privacy of an individual voter.
+
+## Source Credit
+
+*([Pub. L. 107–252, title II, § 244](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1689](https://www.govinfo.gov/link/statute/116/1689).)*

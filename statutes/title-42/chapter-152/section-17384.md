@@ -3,9 +3,10 @@ title: "Section 17384 - Smart grid technology research, development, and demonst
 usc_title: 42
 usc_section: "17384"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17384"
-generated_at: "2026-03-30T02:56:11.507Z"
+generated_at: "2026-11-23T21:26:33.792Z"
+status: "active"
 ---
 
 # § 17384. Smart grid technology research, development, and demonstration
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:11.507Z"
 - **(c)** There are authorized to be appropriated—
   - **(1)** to carry out subsection (a), such sums as are necessary for each of fiscal years 2008 through 2012; and
   - **(2)** to carry out subsection (b), such sums as may be necessary.
+
+## Source Credit
+
+*([Pub. L. 110–140, title XIII, § 1304](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1786](https://www.govinfo.gov/link/statute/121/1786); [Pub. L. 111–5, div. A, title IV, § 405(1)](https://www.govinfo.gov/link/plaw/111/public/5) –(4), Feb. 17, 2009, [123 Stat. 143](https://www.govinfo.gov/link/statute/123/143), 144; [Pub. L. 116–260, div. Z, title VIII, § 8001](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2578](https://www.govinfo.gov/link/statute/134/2578).)*

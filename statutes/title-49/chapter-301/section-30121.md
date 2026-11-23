@@ -3,9 +3,10 @@ title: "Section 30121 - Provisional notification and civil actions to enforce"
 usc_title: 49
 usc_section: "30121"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 30121"
-generated_at: "2026-03-30T02:56:19.351Z"
+generated_at: "2026-11-23T21:26:40.760Z"
+status: "active"
 ---
 
 # § 30121. Provisional notification and civil actions to enforce
@@ -27,3 +28,79 @@ generated_at: "2026-03-30T02:56:19.351Z"
   - **(2)** to specify the earliest date under section 30119(b) of this title on which the defect or noncompliance will be remedied without charge under section 30120 of this title ; and
   - **(3)** if notification was required under subsection (a) of this section, to reimburse an owner or purchaser for reasonable and necessary expenses (in an amount that is not more than the amount specified in the order of the Secretary under subsection (a)) incurred for repairing the defect or noncompliance during the period beginning on the date that notification was required to be issued and ending on the date the owner or purchaser receives the notification under this subsection.
 - **(d)** Notwithstanding section 30163(c) of this title , a civil action about an order issued under section 30118(b) of this title must be brought in the United States district court for a judicial district in the State in which the manufacturer is incorporated or the District of Columbia. On motion of a party, the court may transfer the action to another district court if good cause is shown. All actions related to the same order under section 30118(b) shall be consolidated in an action in one judicial district under an order of the court in which the first action was brought. If the first action is transferred to another court, that court shall issue the consolidation order.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30121(a) | 15:1397(a)(1)(D) (related to 15:1415(b)). | Sept. 9, 1966 , Pub. L. 89–563, § 108(a)(1)(D) (related to § 155), 80 Stat. 722 ; restated Oct. 27, 1974 , Pub. L. 93–492, § 103(a)(1)(A) , (3), 88 Stat. 1477 , 1478. |
+|  | 15:1415(b). | Sept. 9, 1966 , Pub. L. 89–563 , 80 Stat. 718 , § 155(b)–(d); added Oct. 27, 1974 , Pub. L. 93–492, § 102(a) , 88 Stat. 1474 . |
+| 30121(b) | 15:1397(a)(1)(D) (related to 15:1415(c)). |  |
+|  | 15:1415(c). |  |
+| 30121(c) | 15:1397(a)(1)(D) (related to 15:1415(d)). |  |
+|  | 15:1415(d). |  |
+| 30121(d) | 15:1397(a)(1)(D) (related to 15:1415(a)). |  |
+|  | 15:1415(a). | Sept. 9, 1966 , Pub. L. 89–563 , 80 Stat. 718 , § 155(a); added Oct. 27, 1974 , Pub. L. 93–492, § 102(a) , 88 Stat. 1474 ; Nov. 8, 1984 , Pub. L. 98–620, § 402(17) , 98 Stat. 3358 . |
+
+
+Provisional Notification
+
+Civil Actions for Not Notifying
+
+Orders to Manufacturers
+
+Venue
+
+Historical and Revision Notes
+
+30121(a)
+
+Sept. 9, 1966
+
+Pub. L. 89–563, § 108(a)(1)(D)
+
+80 Stat. 722
+
+Oct. 27, 1974
+
+Pub. L. 93–492, § 103(a)(1)(A)
+
+88 Stat. 1477
+
+Sept. 9, 1966
+
+Pub. L. 89–563
+
+80 Stat. 718
+
+Oct. 27, 1974
+
+Pub. L. 93–492, § 102(a)
+
+88 Stat. 1474
+
+30121(b)
+
+30121(c)
+
+30121(d)
+
+Sept. 9, 1966
+
+Pub. L. 89–563
+
+80 Stat. 718
+
+Oct. 27, 1974
+
+Pub. L. 93–492, § 102(a)
+
+88 Stat. 1474
+
+Nov. 8, 1984
+
+Pub. L. 98–620, § 402(17)
+
+98 Stat. 3358
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 954](https://www.govinfo.gov/link/statute/108/954).)*

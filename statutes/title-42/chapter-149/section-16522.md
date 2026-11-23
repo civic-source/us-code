@@ -3,9 +3,10 @@ title: "Section 16522 - Low-volume gas reservoir study"
 usc_title: 42
 usc_section: "16522"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16522"
-generated_at: "2026-03-30T02:56:11.488Z"
+generated_at: "2026-11-23T21:26:33.747Z"
+status: "active"
 ---
 
 # § 16522. Low-volume gas reservoir study
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:11.488Z"
   - **(1)** $1,500,000 for fiscal year 2006; and
   - **(2)** $450,000 for each of the fiscal years 2007 through 2010.
 - **(e)** For purposes of this section, the term “GIS” means geographic information systems technology that facilitates the organization and management of data with a geographic component.
+
+## Source Credit
+
+*([Pub. L. 109–58, title XVIII, § 1808](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1124](https://www.govinfo.gov/link/statute/119/1124).)*

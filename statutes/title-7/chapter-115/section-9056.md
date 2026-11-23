@@ -3,9 +3,10 @@ title: "Section 9056 - Dairy margin coverage payments"
 usc_title: 7
 usc_section: "9056"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 9056"
-generated_at: "2026-03-30T02:53:42.487Z"
+generated_at: "2026-11-23T21:25:28.494Z"
+status: "active"
 ---
 
 # § 9056. Dairy margin coverage payments
@@ -24,3 +25,47 @@ generated_at: "2026-03-30T02:53:42.487Z"
   - **(2)** The amount determined under paragraph (1) shall be multiplied by—
     - **(A)** the coverage percentage selected by the participating dairy operation; and
     - **(B)** the production history of the participating dairy operation divided by 12.
+
+In General
+
+Eligible Dairy Operation Described.—
+
+In general
+
+Limitation on eligibility
+
+Supplemental Production History Calculation.—
+
+In general
+
+Amount
+
+Coverage Percentage.—
+
+In general
+
+million pound limitation.—
+
+In general
+
+Determination of amount
+
+Premium Cost
+
+Regulations
+
+Prohibition With Respect to Dairy Margin Coverage Enrollment.—
+
+In general
+
+Clarification with respect to supplemental dairy margin coverage payments
+
+Application for Calendar Year
+
+Sunset
+
+Funding
+
+## Source Credit
+
+*([Pub. L. 113–79, title I, § 1406](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 691](https://www.govinfo.gov/link/statute/128/691); [Pub. L. 115–123, div. F, § 60101(b)(1)(C)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 311](https://www.govinfo.gov/link/statute/132/311); [Pub. L. 115–334, title I, § 1401(g)](https://www.govinfo.gov/link/plaw/115/public/334), (k)(7), Dec. 20, 2018, [132 Stat. 4513](https://www.govinfo.gov/link/statute/132/4513), 4517; [Pub. L. 119–21, title I, § 10313(b)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 100](https://www.govinfo.gov/link/statute/139/100).)*

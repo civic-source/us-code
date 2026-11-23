@@ -3,9 +3,10 @@ title: "Section 1415 - Procedural safeguards"
 usc_title: 20
 usc_section: "1415"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1415"
-generated_at: "2026-03-30T02:54:48.164Z"
+generated_at: "2026-11-23T21:25:47.327Z"
+status: "active"
 ---
 
 # § 1415. Procedural safeguards
@@ -245,3 +246,27 @@ generated_at: "2026-03-30T02:54:48.164Z"
   - **(2)** If, under State law, a child with a disability who has reached the age of majority under State law, who has not been determined to be incompetent, but who is determined not to have the ability to provide informed consent with respect to the educational program of the child, the State shall establish procedures for appointing the parent of the child, or if the parent is not available, another appropriate individual, to represent the educational interests of the child throughout the period of eligibility of the child under this subchapter.
 - **(n)** A parent of a child with a disability may elect to receive notices required under this section by an electronic mail (e-mail) communication, if the agency makes such option available.
 - **(o)** Nothing in this section shall be construed to preclude a parent from filing a separate due process complaint on an issue separate from a due process complaint already filed.
+
+(aa) an explanation of why the agency proposed or refused to take the action raised in the complaint;
+
+(bb) a description of other options that the IEP Team considered and the reasons why those options were rejected;
+
+(cc) a description of each evaluation procedure, assessment, record, or report the agency used as the basis for the proposed or refused action; and
+
+(dd) a description of the factors that are relevant to the agency’s proposal or refusal.
+
+Opportunity to meet with a disinterested party
+
+List of qualified mediators
+
+Costs
+
+Scheduling and location
+
+Written agreement
+
+Mediation discussions
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 615](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2715](https://www.govinfo.gov/link/statute/118/2715).)*

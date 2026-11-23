@@ -3,9 +3,10 @@ title: "Section 5231 - Special Inspector General for the Troubled Asset Relief P
 usc_title: 12
 usc_section: "5231"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5231"
-generated_at: "2026-03-30T02:53:53.526Z"
+generated_at: "2026-11-23T21:25:37.234Z"
+status: "active"
 ---
 
 # § 5231. Special Inspector General for the Troubled Asset Relief Program
@@ -81,3 +82,7 @@ generated_at: "2026-03-30T02:53:53.526Z"
 - **(k)** The Office of the Special Inspector General shall terminate on the later of—
   - **(1)** the date that the last troubled asset acquired by the Secretary under section 5211 of this title has been sold or transferred out of the ownership or control of the Federal Government; or
   - **(2)** the date of expiration of the last insurance contract issued under section 5212 of this title .
+
+## Source Credit
+
+*([Pub. L. 110–343, div. A, title I, § 121](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3788](https://www.govinfo.gov/link/statute/122/3788); [Pub. L. 111–15](https://www.govinfo.gov/link/plaw/111/public/15), §§ 2–6, Apr. 24, 2009, [123 Stat. 1603–1605](https://www.govinfo.gov/link/statute/123/1603); [Pub. L. 117–286, § 4(b)(35)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4347](https://www.govinfo.gov/link/statute/136/4347).)*

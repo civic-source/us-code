@@ -3,9 +3,10 @@ title: "Section 6722 - Financial assistance"
 usc_title: 42
 usc_section: "6722"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6722"
-generated_at: "2026-03-30T02:56:11.265Z"
+generated_at: "2026-11-23T21:26:32.975Z"
+status: "active"
 ---
 
 # § 6722. Financial assistance
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.265Z"
 - **(d)** No amount is authorized to be appropriated under the provisions of subsection (b) for any calendar quarter if—
   - **(1)** the average rate of national unemployment during the most recent calendar quarter which ended three months before the beginning of such calendar quarter did not exceed 6 percent, or
   - **(2)** the rate of national unemployment for the last month of the most recent calendar quarter which ended three months before the beginning of such calendar quarter did not exceed 6 percent.
+
+## Source Credit
+
+*([Pub. L. 94–369, title II, § 202](https://www.govinfo.gov/link/plaw/94/public/369), July 22, 1976, [90 Stat. 1002](https://www.govinfo.gov/link/statute/90/1002); [Pub. L. 94–447, title II, § 201(1)](https://www.govinfo.gov/link/plaw/94/public/447), Oct. 1, 1976, [90 Stat. 1498](https://www.govinfo.gov/link/statute/90/1498); [Pub. L. 95–30, title VI, § 602](https://www.govinfo.gov/link/plaw/95/public/30), May 23, 1977, [91 Stat. 164](https://www.govinfo.gov/link/statute/91/164).)*

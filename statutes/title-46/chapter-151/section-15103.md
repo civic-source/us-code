@@ -3,9 +3,10 @@ title: "Section 15103 - National Merchant Marine Personnel Advisory Committee"
 usc_title: 46
 usc_section: "15103"
 chapter: 151
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 15103"
-generated_at: "2026-03-30T02:56:15.560Z"
+generated_at: "2026-11-23T21:26:37.151Z"
+status: "active"
 ---
 
 # § 15103. National Merchant Marine Personnel Advisory Committee
@@ -41,3 +42,27 @@ generated_at: "2026-03-30T02:56:15.560Z"
       - **(ii)** 3 shall be marine educators who represent other maritime training institutions and, of the 3, 1 shall represent the small vessel industry.
     - **(C)** 2 members shall represent shipping companies employed in ship operation management.
     - **(D)** 2 members shall represent the general public.
+
+Establishment
+
+Function
+
+Membership.—
+
+In general
+
+Expertise
+
+Representation
+
+(aa) 1 shall represent labor; and
+
+(bb) 1 shall represent management;
+
+(aa) 1 shall represent labor; and
+
+(bb) 1 shall represent management;
+
+## Source Credit
+
+*(Added [Pub. L. 115–282, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4282](https://www.govinfo.gov/link/statute/132/4282).)*

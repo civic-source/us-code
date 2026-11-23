@@ -3,9 +3,10 @@ title: "Section 1901 - Definitions"
 usc_title: 30
 usc_section: "1901"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1901"
-generated_at: "2026-03-30T02:55:29.410Z"
+generated_at: "2026-11-23T21:26:00.448Z"
+status: "active"
 ---
 
 # § 1901. Definitions
@@ -36,3 +37,7 @@ In this chapter:
     - **(A)** a methane clathrate that is in the form of a methane-water ice-like crystalline material and is stable and occurs naturally in deep-ocean and permafrost areas; and
     - **(B)** other natural gas hydrates found in association with deep-ocean and permafrost deposits of methane hydrate.
   - **(8)** The term “Secretary” means the Secretary of the Interior.
+
+## Source Credit
+
+*([Pub. L. 91–631, title II, § 201](https://www.govinfo.gov/link/plaw/91/public/631), as added [Pub. L. 104–325, § 2(3)](https://www.govinfo.gov/link/plaw/104/public/325), Oct. 19, 1996, [110 Stat. 3994](https://www.govinfo.gov/link/statute/110/3994); amended [Pub. L. 106–193, § 4](https://www.govinfo.gov/link/plaw/106/public/193), May 2, 2000, [114 Stat. 236](https://www.govinfo.gov/link/statute/114/236).)*

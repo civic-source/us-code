@@ -3,9 +3,10 @@ title: "Section 3194 - Individuals eligible for the Job Corps"
 usc_title: 29
 usc_section: "3194"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3194"
-generated_at: "2026-03-30T02:55:18.755Z"
+generated_at: "2026-11-23T21:26:02.341Z"
+status: "active"
 ---
 
 # § 3194. Individuals eligible for the Job Corps
@@ -25,3 +26,13 @@ generated_at: "2026-03-30T02:55:18.755Z"
 - **(b)** Notwithstanding the requirement of subsection (a)(2), a veteran shall be eligible to become an enrollee under subsection (a) if the individual—
   - **(1)** meets the requirements of paragraphs (1) and (3) of such subsection; and
   - **(2)** does not meet the requirement of subsection (a)(2) because the military income earned by such individual within the 6-month period prior to the individual’s application for Job 1 1 So in original. Probably should be preceded by “the”. Corps prevents the individual from meeting such requirement.
+
+Enrollment
+
+Eligibility
+
+Qualifying Emergency Defined
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 144](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1539](https://www.govinfo.gov/link/statute/128/1539); [Pub. L. 114–22, title VI, § 604](https://www.govinfo.gov/link/plaw/114/public/22), May 29, 2015, [129 Stat. 260](https://www.govinfo.gov/link/statute/129/260).)*

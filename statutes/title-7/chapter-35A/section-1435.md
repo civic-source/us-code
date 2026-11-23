@@ -3,9 +3,10 @@ title: "Section 1435 - Production of commodities for conversion into alcohol or 
 usc_title: 7
 usc_section: "1435"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1435"
-generated_at: "2026-03-30T02:53:42.312Z"
+generated_at: "2026-11-23T21:25:28.070Z"
+status: "active"
 ---
 
 # § 1435. Production of commodities for conversion into alcohol or hydrocarbons for use as motor fuels or other fuels; terms and conditions; determinations; payments, etc., for program
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.312Z"
   - **(2)** The payments under this subsection shall be made at such rate or rates as the Secretary of Agriculture determines to be fair and reasonable, taking into consideration the participation necessary to ensure an adequate supply of commodities for such conversion.
   - **(3)** The Secretary may issue any regulations necessary to carry out the provisions of this subsection.
   - **(4)** There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this subsection.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XX, § 2001](https://www.govinfo.gov/link/plaw/95/public/113), as added [Pub. L. 96–294, title II, § 260(a)](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 709](https://www.govinfo.gov/link/statute/94/709).)*

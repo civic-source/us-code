@@ -3,9 +3,10 @@ title: "Section 10504 - Wages"
 usc_title: 46
 usc_section: "10504"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 10504"
-generated_at: "2026-03-30T02:56:15.554Z"
+generated_at: "2026-11-23T21:26:37.114Z"
+status: "active"
 ---
 
 # § 10504. Wages
@@ -29,3 +30,18 @@ generated_at: "2026-03-30T02:56:15.554Z"
   - **(2)** such deposits in the financial institution are fully guaranteed under commonly accepted international standards by the government of the country in which the financial institution is licensed;
   - **(3)** a written wage statement or pay stub, including an accounting of any direct deposit, is delivered to the seaman no less often than monthly; and
   - **(4)** while on board the vessel on which the seaman is employed, the seaman is able to arrange for withdrawal of all funds on deposit in the account in which the wages are deposited.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 10504 | 46:596 46:597 46:598 |
+
+
+Deposits in Seaman Account
+
+Historical and Revision Notes
+
+10504
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 570](https://www.govinfo.gov/link/statute/97/570); [Pub. L. 99–36, § 1(a)(5)](https://www.govinfo.gov/link/plaw/99/public/36), May 15, 1985, [99 Stat. 67](https://www.govinfo.gov/link/statute/99/67); [Pub. L. 99–640, § 10(b)(4)](https://www.govinfo.gov/link/plaw/99/public/640), (5), Nov. 10, 1986, [100 Stat. 3550](https://www.govinfo.gov/link/statute/100/3550); [Pub. L. 111–281, title IX, § 902(b)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 3009](https://www.govinfo.gov/link/statute/124/3009).)*

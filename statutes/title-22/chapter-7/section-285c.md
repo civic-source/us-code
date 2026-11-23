@@ -3,9 +3,10 @@ title: "Section 285c - Congressional authorization needed for certain actions"
 usc_title: 22
 usc_section: "285c"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 285c"
-generated_at: "2026-03-30T02:55:05.317Z"
+generated_at: "2026-11-23T21:25:58.358Z"
+status: "active"
 ---
 
 # § 285c. Congressional authorization needed for certain actions
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.317Z"
 - **(b)** vote for or agree to any amendment of the agreement which increases the obligations of the United States, or which would change the purpose or functions of the Bank; or
 - **(c)** make a loan or provide other financing to the Bank, except that funds for technical assistance note to exceed $1,000,000 in any one year may be provided to the Bank by a United States agency created pursuant to an Act of Congress which is authorized by law to provide funds to international organizations.
 
+
+## Source Credit
+
+*([Pub. L. 89–369, § 5](https://www.govinfo.gov/link/plaw/89/public/369), Mar. 16, 1966, [80 Stat. 72](https://www.govinfo.gov/link/statute/80/72).)*

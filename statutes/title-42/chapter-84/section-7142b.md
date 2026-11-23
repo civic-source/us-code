@@ -3,9 +3,10 @@ title: "Section 7142b - Authority"
 usc_title: 42
 usc_section: "7142b"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7142b"
-generated_at: "2026-03-30T02:56:11.283Z"
+generated_at: "2026-11-23T21:26:33.048Z"
+status: "active"
 ---
 
 # § 7142b. Authority
@@ -22,3 +23,7 @@ To carry out the activities of the Museum, the Secretary may—
   - **(4)** exhibit, perform, display, and publish materials and information of or relating to the Museum in any media or place;
   - **(5)** consistent with guidelines approved by the Secretary, lease space on the premises of the Museum at reasonable rates and for uses consistent with such guidelines; and
   - **(6)** use the proceeds of activities authorized under this section to pay the costs of the Museum.
+
+## Source Credit
+
+*([Pub. L. 106–554, § 1(a)(4) [div. B, title IV, § 402]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–267.)*

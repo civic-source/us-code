@@ -3,12 +3,17 @@ title: "Section 5713 - Administration and applicability of subchapter"
 usc_title: 15
 usc_section: "5713"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 5713"
-generated_at: "2026-03-30T02:54:08.208Z"
+generated_at: "2026-11-23T21:25:40.015Z"
+status: "active"
 ---
 
 # § 5713. Administration and applicability of subchapter
 
 - **(a)** Except as otherwise provided in section 5712 of this title , this subchapter shall be enforced by the Commission under the Federal Trade Commission Act ( 15 U.S.C. 41 et seq.). Consequently, no activity which is outside the jurisdiction of that Act shall be affected by this chapter, except for purposes of this subchapter.
 - **(b)** The Commission shall prevent any person from violating a rule of the Commission under section 5711 of this title in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act ( 15 U.S.C. 41 et seq.) were incorporated into and made a part of this subchapter. Any person who violates such rule shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act in the same manner, by the same means, and with the same jurisdiction, power, and duties as though all applicable terms and provisions of the Federal Trade Commission Act were incorporated into and made a part of this subchapter.
+
+## Source Credit
+
+*([Pub. L. 102–556, title II, § 203](https://www.govinfo.gov/link/plaw/102/public/556), Oct. 28, 1992, [106 Stat. 4191](https://www.govinfo.gov/link/statute/106/4191).)*

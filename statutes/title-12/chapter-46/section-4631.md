@@ -3,9 +3,10 @@ title: "Section 4631 - Cease-and-desist proceedings"
 usc_title: 12
 usc_section: "4631"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4631"
-generated_at: "2026-03-30T02:53:53.514Z"
+generated_at: "2026-11-23T21:25:37.204Z"
+status: "active"
 ---
 
 # § 4631. Cease-and-desist proceedings
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:53.514Z"
   - **(7)** to require the regulated entity to take such other action as the Director determines appropriate.
 - **(e)** The authority to issue an order under this section or section 4632 of this title includes the authority to place limitations on the activities or functions of the regulated entity or entity-affiliated party or any executive officer or director of the regulated entity or entity-affiliated party.
 - **(f)** An order under this section shall become effective upon the expiration of the 30-day period beginning on the service of the order upon the regulated entity, finance facility,, 2 2 So in original. executive officer, director, or entity-affiliated party concerned (except in the case of an order issued upon consent, which shall become effective at the time specified therein), and shall remain effective and enforceable as provided in the order, except to the extent that the order is stayed, modified, terminated, or set aside by action of the Director or otherwise, as provided in this subchapter.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1371](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3986](https://www.govinfo.gov/link/statute/106/3986); [Pub. L. 110–289, div. A, title I, § 1151](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2767](https://www.govinfo.gov/link/statute/122/2767).)*

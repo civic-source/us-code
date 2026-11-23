@@ -3,9 +3,10 @@ title: "Section 16192 - Next Generation Lighting Initiative"
 usc_title: 42
 usc_section: "16192"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16192"
-generated_at: "2026-03-30T02:56:11.471Z"
+generated_at: "2026-11-23T21:26:33.704Z"
+status: "active"
 ---
 
 # § 16192. Next Generation Lighting Initiative
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:11.471Z"
     - **(B)** that, during the year described in subparagraph (A), the patent holder shall negotiate nonexclusive licenses and royalties in good faith with any interested participant in the Industry Alliance described in paragraph (1); and
   - **(3)** such other terms as the Secretary determines are required to promote accelerated commercialization of inventions made under the Initiative.
 - **(i)** The Secretary shall enter into an arrangement with the National Academy of Sciences to conduct periodic reviews of the Initiative.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 912](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 858](https://www.govinfo.gov/link/statute/119/858).)*

@@ -3,12 +3,17 @@ title: "Section 6318 - Additional home State office space for Senators; declarat
 usc_title: 2
 usc_section: "6318"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 6318"
-generated_at: "2026-03-30T02:53:04.840Z"
+generated_at: "2026-11-23T21:25:21.354Z"
+status: "active"
 ---
 
 # § 6318. Additional home State office space for Senators; declaration of disaster or emergency
 
 - **(a)** Notwithstanding any other provision of law or regulation, with the approval of the Committee on Rules and Administration of the Senate, the Sergeant at Arms and Doorkeeper of the Senate is authorized to provide additional facilities, services, equipment, and office space for use by a Senator in that Senator’s State in connection with a disaster or emergency declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act [ 42 U.S.C. 5121 et seq.]. Expenses incurred by the Sergeant at Arms and Doorkeeper of the Senate under this section shall be paid from the appropriation account, within the contingent fund of the Senate, for expenses of the Office of the Sergeant at Arms and Doorkeeper of the Senate, upon vouchers signed by the Sergeant at Arms and Doorkeeper of the Senate with the approval of the Committee on Rules and Administration of the Senate.
 - **(b)** This section is effective on and after June 12, 1997 .
+
+## Source Credit
+
+*([Pub. L. 105–18, title II, § 7002](https://www.govinfo.gov/link/plaw/105/public/18), June 12, 1997, [111 Stat. 192](https://www.govinfo.gov/link/statute/111/192).)*

@@ -3,9 +3,10 @@ title: "Section 5104 - Basis for grading positions"
 usc_title: 5
 usc_section: "5104"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5104"
-generated_at: "2026-03-30T02:52:56.010Z"
+generated_at: "2026-11-23T21:25:23.200Z"
+status: "active"
 ---
 
 # § 5104. Basis for grading positions
@@ -100,3 +101,47 @@ The General Schedule, the symbol for which is “GS”, is the basic pay schedul
     - **(B)** to serve as head of a major organization within a bureau involving work of comparable level;
     - **(C)** to plan and direct or to plan and execute specialized programs of marked difficulty, responsibility, and national significance, along professional, scientific, technical, administrative, fiscal, or other lines, requiring extended training and experience which has demonstrated leadership and unusual attainments in professional, scientific, or technical research, practice, or administration, or in administrative, fiscal, or other specialized activities; or
     - **(D)** to perform consulting or other professional, scientific, technical, administrative, fiscal, or other specialized work of equal importance, difficulty, and responsibility, and requiring comparable qualifications.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 1111 . | Oct. 28, 1949, ch. 782, § 601 , 63 Stat. 959 . Sept. 1, 1954, ch. 1208, § 107 , 68 Stat. 1108 . |
+|  | 5 U.S.C. 1112 . | Oct. 28, 1949, ch. 782, § 602 , 63 Stat. 959 . |
+|  |  | Sept. 1, 1954, ch. 1208, § 108 , 68 Stat. 1108 . |
+|  |  | June 20, 1958 , Pub. L. 85–462, § 13(a) , 72 Stat. 214 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 1111
+
+Oct. 28, 1949, ch. 782, § 601
+
+63 Stat. 959
+
+Sept. 1, 1954, ch. 1208, § 107
+
+68 Stat. 1108
+
+5 U.S.C. 1112
+
+Oct. 28, 1949, ch. 782, § 602
+
+63 Stat. 959
+
+Sept. 1, 1954, ch. 1208, § 108
+
+68 Stat. 1108
+
+June 20, 1958
+
+Pub. L. 85–462, § 13(a)
+
+72 Stat. 214
+
+“That this Act may be cited as the ‘Job Evaluation Policy Act of 1970’.
+
+Preparation of a Job Evaluation and Ranking Plan By the Civil Service Commission and Reports and Recommendations to Congress
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 446](https://www.govinfo.gov/link/statute/80/446); [Pub. L. 101–509, title V, § 529 [title I, § 102(b)(1)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1443.)*

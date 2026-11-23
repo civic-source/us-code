@@ -3,12 +3,17 @@ title: "Section 57 - Acquired lands to be made part of Mojave National Preserve"
 usc_title: 16
 usc_section: "57"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 57"
-generated_at: "2026-03-30T02:54:22.774Z"
+generated_at: "2026-11-23T21:25:51.462Z"
+status: "active"
 ---
 
 # § 410aaa–57. Acquired lands to be made part of Mojave National Preserve
 
 Any lands acquired by the Secretary under this part shall become part of the Mojave National Preserve.
 
+
+## Source Credit
+
+*([Pub. L. 103–433, title V, § 517](https://www.govinfo.gov/link/plaw/103/public/433), Oct. 31, 1994, [108 Stat. 4495](https://www.govinfo.gov/link/statute/108/4495).)*

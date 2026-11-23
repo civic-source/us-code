@@ -3,9 +3,10 @@ title: "Section 407 - Sale of timber on unallotted lands"
 usc_title: 25
 usc_section: "407"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 407"
-generated_at: "2026-03-30T02:54:52.807Z"
+generated_at: "2026-11-23T21:25:54.575Z"
+status: "active"
 ---
 
 # § 407. Sale of timber on unallotted lands
@@ -14,3 +15,7 @@ Under regulations prescribed by the Secretary of the Interior, the timber on una
 
   - **(1)** as determined by the governing bodies of the tribes concerned and approved by the Secretary, or
   - **(2)** in the absence of such a governing body, as determined by the Secretary for the tribe concerned.
+
+## Source Credit
+
+*(June 25, 1910, ch. 431, § 7, [36 Stat. 857](https://www.govinfo.gov/link/statute/36/857); [Pub. L. 88–301](https://www.govinfo.gov/link/plaw/88/public/301), Apr. 30, 1964, [78 Stat. 186](https://www.govinfo.gov/link/statute/78/186); [Pub. L. 100–580, § 13](https://www.govinfo.gov/link/plaw/100/public/580), Oct. 31, 1988, [102 Stat. 2936](https://www.govinfo.gov/link/statute/102/2936).)*

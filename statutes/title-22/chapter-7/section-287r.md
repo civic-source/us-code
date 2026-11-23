@@ -3,9 +3,10 @@ title: "Section 287r - Authorization of appropriations; payment of expenses"
 usc_title: 22
 usc_section: "287r"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 287r"
-generated_at: "2026-03-30T02:55:05.322Z"
+generated_at: "2026-11-23T21:25:58.370Z"
+status: "active"
 ---
 
 # § 287r. Authorization of appropriations; payment of expenses
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:05.322Z"
 - **(m)** stationery;
 - **(n)** purchase of newspapers, periodicals, books, and documents; and ( o ) such other expenses as may be authorized by the Secretary of State.
 
+
+## Source Credit
+
+*(July 30, 1946, ch. 700, § 6, [60 Stat. 714](https://www.govinfo.gov/link/statute/60/714); ch. 782, title II, § 202(2), title XI, § 1106(a), Oct. 28, 1949, [63 Stat. 954](https://www.govinfo.gov/link/statute/63/954), 972.)*

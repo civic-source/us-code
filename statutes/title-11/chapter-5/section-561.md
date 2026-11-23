@@ -3,9 +3,10 @@ title: "Section 561 - Contractual right to terminate, liquidate, accelerate, or 
 usc_title: 11
 usc_section: "561"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 561"
-generated_at: "2026-03-30T02:53:53.880Z"
+generated_at: "2026-11-23T21:25:34.932Z"
+status: "active"
 ---
 
 # § 561. Contractual right to terminate, liquidate, accelerate, or offset under a master netting agreement and across contracts; proceedings under chapter 15
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:53.880Z"
     - **(B)** any other netting agreement between a clearing organization (as defined in section 761) and another entity that has been approved by the Commodity Futures Trading Commission.
 - **(c)** As used in this section, the term “contractual right” includes a right set forth in a rule or bylaw of a derivatives clearing organization (as defined in the Commodity Exchange Act), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991), a national securities exchange, a national securities association, a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act) or in a resolution of the governing board thereof, and a right, whether or not evidenced in writing, arising under common law, under law merchant, or by reason of normal business practice.
 - **(d)** Any provisions of this title relating to securities contracts, commodity contracts, forward contracts, repurchase agreements, swap agreements, or master netting agreements shall apply in a case under chapter 15, so that enforcement of contractual provisions of such contracts and agreements in accordance with their terms will not be stayed or otherwise limited by operation of any provision of this title or by order of a court in any case under this title, and to limit avoidance powers to the same extent as in a proceeding under chapter 7 or 11 of this title (such enforcement not to be limited based on the presence or absence of assets of the debtor in the United States).
+
+## Source Credit
+
+*(Added [Pub. L. 109–8, title IX, § 907(k)(1)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 179](https://www.govinfo.gov/link/statute/119/179).)*

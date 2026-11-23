@@ -3,12 +3,17 @@ title: "Section 2406 - Credits in actions by United States; prior disallowance"
 usc_title: 28
 usc_section: "2406"
 chapter: 161
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 2406"
-generated_at: "2026-03-30T02:55:30.148Z"
+generated_at: "2026-11-23T21:26:01.129Z"
+status: "active"
 ---
 
 # § 2406. Credits in actions by United States; prior disallowance
 
 In an action by the United States against an individual, evidence supporting the defendant’s claim for a credit shall not be admitted unless he first proves that such claim has been disallowed, in whole or in part, by the Government Accountability Office, or that he has, at the time of the trial, obtained possession of vouchers not previously procurable and has been prevented from presenting such claim to the Government Accountability Office by absence from the United States or unavoidable accident.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 972](https://www.govinfo.gov/link/statute/62/972); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

@@ -3,12 +3,17 @@ title: "Section 175 - Lease or sublease of unsuitable lands; disposal of water s
 usc_title: 7
 usc_section: "175"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 175"
-generated_at: "2026-03-30T02:53:42.276Z"
+generated_at: "2026-11-23T21:25:27.922Z"
+status: "active"
 ---
 
 # § 175. Lease or sublease of unsuitable lands; disposal of water supply
 
 Subject to conditions prescribed by the Secretary of Agriculture, any part of the land acquired by lease, deed, or other agreement pursuant to sections 171 to 173 of this title, which is not required or suitable for the purposes of said sections may be leased or subleased at a reasonable rental during the period the United States is entitled to possession thereof; and any surplus water supplies controlled by the United States on such land may be disposed of at reasonable rates.
 
+
+## Source Credit
+
+*(July 2, 1942, ch. 476, title I, [56 Stat. 597](https://www.govinfo.gov/link/statute/56/597).)*

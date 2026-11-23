@@ -3,9 +3,10 @@ title: "Section 2804 - Enforcement"
 usc_title: 12
 usc_section: "2804"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2804"
-generated_at: "2026-03-30T02:53:53.488Z"
+generated_at: "2026-11-23T21:25:37.111Z"
+status: "active"
 ---
 
 # § 2804. Enforcement
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:53.488Z"
   - **(2)** The terms used in paragraph (1) that are not defined in this chapter or otherwise defined in section 1813(s) of this title shall have the same meanings as in section 3101 of this title .
 - **(c)** For the purpose of the exercise by any agency referred to in subsection (b) of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (b), each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on it by law.
 - **(d)** Subject to subtitle B of the Consumer Financial Protection Act of 2010 [ 12 U.S.C. 5511 et seq.], enforcement of the requirements imposed under this chapter is committed to each of the agencies under subsection (b). To facilitate research, examinations, and enforcement, all data collected pursuant to section 2803 of this title shall be available to the entities listed under subsection (b). The Bureau may exercise its authorities under the Consumer Financial Protection Act of 2010 to exercise principal authority to examine and enforce compliance by any person with the requirements of this chapter.
+
+## Source Credit
+
+*([Pub. L. 94–200, title III, § 305](https://www.govinfo.gov/link/plaw/94/public/200), Dec. 31, 1975, [89 Stat. 1126](https://www.govinfo.gov/link/statute/89/1126); [Pub. L. 101–73, title VII, § 744(p)(1)](https://www.govinfo.gov/link/plaw/101/public/73), title XII, § 1211(g), Aug. 9, 1989, [103 Stat. 440](https://www.govinfo.gov/link/statute/103/440), 526; [Pub. L. 102–242, title II, § 212(a)(2)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2299](https://www.govinfo.gov/link/statute/105/2299); [Pub. L. 111–203, title X, § 1094(1)](https://www.govinfo.gov/link/plaw/111/public/203), (4), July 21, 2010, [124 Stat. 2097](https://www.govinfo.gov/link/statute/124/2097), 2099.)*

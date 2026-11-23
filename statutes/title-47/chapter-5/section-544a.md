@@ -3,9 +3,10 @@ title: "Section 544a - Consumer electronics equipment compatibility"
 usc_title: 47
 usc_section: "544a"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 544a"
-generated_at: "2026-03-30T02:56:24.519Z"
+generated_at: "2026-11-23T21:26:36.037Z"
+status: "active"
 ---
 
 # § 544a. Consumer electronics equipment compatibility
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:24.519Z"
       - **(ii)** to specify the types of remote control units that are compatible with the converter box supplied by the cable operator; and
     - **(F)** to prohibit a cable operator from taking any action that prevents or in any way disables the converter box supplied by the cable operator from operating compatibly with commercially available remote control units.
 - **(d)** The Commission shall periodically review and, if necessary, modify the regulations issued pursuant to this section in light of any actions taken in response to such regulations and to reflect improvements and changes in cable systems, television receivers, video cassette recorders, and similar technology.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VI, § 624A, as added [Pub. L. 102–385, § 17](https://www.govinfo.gov/link/plaw/102/public/385), Oct. 5, 1992, [106 Stat. 1491](https://www.govinfo.gov/link/statute/106/1491); amended [Pub. L. 104–104, title III, § 301(f)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 116](https://www.govinfo.gov/link/statute/110/116); [Pub. L. 115–141, div. P, title IV, § 402(i)(10)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1090](https://www.govinfo.gov/link/statute/132/1090).)*

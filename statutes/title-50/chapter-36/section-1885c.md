@@ -3,9 +3,10 @@ title: "Section 1885c - Reporting"
 usc_title: 50
 usc_section: "1885c"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1885c"
-generated_at: "2026-03-30T02:56:26.215Z"
+generated_at: "2026-11-23T21:26:38.948Z"
+status: "active"
 ---
 
 # § 1885c. Reporting
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:26.215Z"
   - **(1)** any certifications made under section 1885a of this title ;
   - **(2)** a description of the judicial review of the certifications made under section 1885a of this title ; and
   - **(3)** any actions taken to enforce the provisions of section 1885b of this title .
+
+## Source Credit
+
+*([Pub. L. 95–511, title VIII, § 804](https://www.govinfo.gov/link/plaw/95/public/511), as added [Pub. L. 110–261, title II, § 201](https://www.govinfo.gov/link/plaw/110/public/261), July 10, 2008, [122 Stat. 2470](https://www.govinfo.gov/link/statute/122/2470).)*

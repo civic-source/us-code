@@ -3,9 +3,10 @@ title: "Section 6961 - Under Secretary of Agriculture for Natural Resources and 
 usc_title: 7
 usc_section: "6961"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6961"
-generated_at: "2026-03-30T02:53:42.441Z"
+generated_at: "2026-11-23T21:25:28.408Z"
+status: "active"
 ---
 
 # § 6961. Under Secretary of Agriculture for Natural Resources and Environment
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.441Z"
   - **(1)** Upon establishment, the Secretary shall delegate to the Under Secretary of Agriculture for Natural Resources and Environment those functions under the jurisdiction of the Department that are related to natural resources and environment (except to the extent those functions are delegated under section 6932 of this title ).
   - **(2)** The Under Secretary of Agriculture for Natural Resources and Environment shall perform such other functions and duties as may be required by law or prescribed by the Secretary.
 - **(d)** Any official who is serving as Assistant Secretary of Agriculture for Natural Resources and Environment on October 13, 1994 , and who was appointed by the President, by and with the advice and consent of the Senate, shall not be required to be reappointed under subsection (b) to the successor position authorized under subsection (a) if the Secretary establishes the position, and the official occupies the new position, within 180 days after October 13, 1994 (or such later date set by the Secretary if litigation delays rapid succession).
+
+## Source Credit
+
+*([Pub. L. 103–354, title II, § 245](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3223](https://www.govinfo.gov/link/statute/108/3223).)*

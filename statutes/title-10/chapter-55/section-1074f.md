@@ -3,9 +3,10 @@ title: "Section 1074f - Medical tracking system for members deployed overseas"
 usc_title: 10
 usc_section: "1074f"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1074f"
-generated_at: "2026-03-30T02:53:38.100Z"
+generated_at: "2026-11-23T21:25:32.396Z"
+status: "active"
 ---
 
 # § 1074f. Medical tracking system for members deployed overseas
@@ -55,3 +56,59 @@ generated_at: "2026-03-30T02:53:38.100Z"
 - **(g)**
   - **(1)** The Secretary of Defense shall standardize and make available to a provider that conducts a postdeployment medical examination or reassessment under the system described in subsection (a) questions relating to occupational and environmental health exposure.
   - **(2)** The Secretary, to the extent practicable, shall ensure that the medical record of a member includes information on the external cause relating to a diagnosis of the member, including by associating an external cause code (as issued under the International Statistical Classification of Diseases and Related Health Problems, 10th Revision (or any successor revision)).
+
+System Required
+
+Elements of System
+
+Recordkeeping
+
+Quality Assurance
+
+Criteria for Referral for Further Evaluations
+
+Minimum Standards for Deployment
+
+Additional Requirements for Postdeployment Medical Examinations and Health Reassessments
+
+In General
+
+Inclusion in Assessments by Military Departments
+
+Open Burn Pit Defined
+
+Periodic Health Assessment
+
+Separation History and Physical Examinations
+
+Deployment Assessments
+
+Sharing of Information.—
+
+DOD–VA
+
+Registry
+
+Rule of Construction
+
+Definitions
+
+In General
+
+Cessation Upon Implementation of Electronic Health Record
+
+Comprehensive Policy Required
+
+Updates
+
+Report Required
+
+Policy Required
+
+Time requirements
+
+Contingent applicability
+
+## Source Credit
+
+*(Added [Pub. L. 105–85, div. A, title VII, § 765(a)(1)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1826](https://www.govinfo.gov/link/statute/111/1826); amended [Pub. L. 109–364, div. A, title VII, § 738(a)](https://www.govinfo.gov/link/plaw/109/public/364) –(d), Oct. 17, 2006, [120 Stat. 2303](https://www.govinfo.gov/link/statute/120/2303); [Pub. L. 110–181, div. A, title XVI, § 1673(a)(1)](https://www.govinfo.gov/link/plaw/110/public/181), (b), (c), Jan. 28, 2008, [122 Stat. 482](https://www.govinfo.gov/link/statute/122/482), 483; [Pub. L. 111–84, div. A, title X, § 1073(a)(9)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2472](https://www.govinfo.gov/link/statute/123/2472); [Pub. L. 111–383, div. A, title VII, § 712](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4247](https://www.govinfo.gov/link/statute/124/4247); [Pub. L. 116–92, div. A, title VII](https://www.govinfo.gov/link/plaw/116/public/92), §§ 704(c), 705(a), (b), Dec. 20, 2019, [133 Stat. 1438–1440](https://www.govinfo.gov/link/statute/133/1438).)*

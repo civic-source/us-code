@@ -3,9 +3,10 @@ title: "Section 19011 - Robert Noyce Teacher Scholarship program update"
 usc_title: 42
 usc_section: "19011"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19011"
-generated_at: "2026-03-30T02:56:11.537Z"
+generated_at: "2026-11-23T21:26:33.862Z"
+status: "active"
 ---
 
 # § 19011. Robert Noyce Teacher Scholarship program update
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.537Z"
   - **(5)** labor organizations;
   - **(6)** emerging research institutions; and
   - **(7)** higher education programs that serve or support veterans.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10322](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1538](https://www.govinfo.gov/link/statute/136/1538).)*

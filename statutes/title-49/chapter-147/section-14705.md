@@ -3,9 +3,10 @@ title: "Section 14705 - Limitation on actions by and against carriers"
 usc_title: 49
 usc_section: "14705"
 chapter: 147
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 14705"
-generated_at: "2026-03-30T02:56:19.332Z"
+generated_at: "2026-11-23T21:26:40.694Z"
+status: "active"
 ---
 
 # § 14705. Limitation on actions by and against carriers
@@ -20,3 +21,21 @@ generated_at: "2026-03-30T02:56:19.332Z"
   - **(2)** subsequent refund for overpayment of that rate; or
   - **(3)** deduction made under section 3726 of title 31 .
 - **(g)** A claim related to a shipment of property accrues under this section on delivery or tender of delivery by the carrier.
+
+In General
+
+Overcharges
+
+Damages
+
+Extensions
+
+Payment
+
+Government Transportation
+
+Accrual Date
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 907](https://www.govinfo.gov/link/statute/109/907).)*

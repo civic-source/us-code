@@ -3,9 +3,10 @@ title: "Section 1395o - Eligible individuals"
 usc_title: 42
 usc_section: "1395o"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1395o"
-generated_at: "2026-03-30T02:56:10.955Z"
+generated_at: "2026-11-23T21:26:31.454Z"
+status: "active"
 ---
 
 # § 1395o. Eligible individuals
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:10.955Z"
       - **(ii)** The process established under clause (i) shall include, at a minimum, a requirement that—
         - **(I)** the individual provide to the Commissioner an attestation that the individual is not enrolled and does not expect to enroll in such other coverage; and
         - **(II)** the individual notify the Commissioner within 60 days of enrollment in such other coverage.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1836, as added [Pub. L. 89–97, title I, § 102(a)](https://www.govinfo.gov/link/plaw/89/public/97), July 30, 1965, [79 Stat. 304](https://www.govinfo.gov/link/statute/79/304); amended [Pub. L. 92–603, title II, § 201(c)(1)](https://www.govinfo.gov/link/plaw/92/public/603), Oct. 30, 1972, [86 Stat. 1372](https://www.govinfo.gov/link/statute/86/1372); [Pub. L. 116–260, div. CC, title IV, § 402(a)(2)(A)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2998](https://www.govinfo.gov/link/statute/134/2998).)*

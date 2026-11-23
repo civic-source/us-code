@@ -3,9 +3,10 @@ title: "Section 467f - National dam safety program"
 usc_title: 33
 usc_section: "467f"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 467f"
-generated_at: "2026-03-30T02:55:41.057Z"
+generated_at: "2026-11-23T21:26:11.306Z"
+status: "active"
 ---
 
 # § 467f. National dam safety program
@@ -94,3 +95,7 @@ generated_at: "2026-03-30T02:55:41.057Z"
     - **(A)** To the extent amounts are made available in advance in appropriations Acts, each member of the Board who represents a Federal agency shall be reimbursed of appropriations for travel expenses by his or her agency, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, while away from the home or regular place of business of the member in the performance of services for the Board.
     - **(B)** To the extent amounts are made available in advance in appropriations Acts, each member of the Board who represents a State agency, the member of the Board who represents the private sector, and each member of a work group created under paragraph (1) shall be reimbursed for travel expenses by FEMA, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, while away from home or regular place of business of the member in performance of services for the Board.
   - **(9)** Chapter 10 of title 5 shall not apply to the Board.
+
+## Source Credit
+
+*([Pub. L. 92–367, § 8](https://www.govinfo.gov/link/plaw/92/public/367), as added [Pub. L. 104–303, title II, § 215(c)(8)](https://www.govinfo.gov/link/plaw/104/public/303), Oct. 12, 1996, [110 Stat. 3688](https://www.govinfo.gov/link/statute/110/3688); amended [Pub. L. 107–310, § 3(a)](https://www.govinfo.gov/link/plaw/107/public/310) –(e)(1), (f), (g), Dec. 2, 2002, [116 Stat. 2450](https://www.govinfo.gov/link/statute/116/2450), 2451; [Pub. L. 109–460, § 1(c)](https://www.govinfo.gov/link/plaw/109/public/460), Dec. 22, 2006, [120 Stat. 3401](https://www.govinfo.gov/link/statute/120/3401); [Pub. L. 113–121, title III, § 3001(a)(1)](https://www.govinfo.gov/link/plaw/113/public/121), (c), June 10, 2014, [128 Stat. 1282](https://www.govinfo.gov/link/statute/128/1282); [Pub. L. 117–286, § 4(a)(198)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4327](https://www.govinfo.gov/link/statute/136/4327).)*

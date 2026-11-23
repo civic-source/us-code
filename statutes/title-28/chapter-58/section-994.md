@@ -3,9 +3,10 @@ title: "Section 994 - Duties of the Commission"
 usc_title: 28
 usc_section: "994"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 994"
-generated_at: "2026-03-30T02:55:30.137Z"
+generated_at: "2026-11-23T21:26:01.079Z"
+status: "active"
 ---
 
 # § 994. Duties of the Commission
@@ -100,3 +101,11 @@ generated_at: "2026-03-30T02:55:30.137Z"
   - **(4)** The Commission shall make available to the Attorney General, upon request, such data files as the Commission itself may assemble or maintain in electronic form as a result of the information submitted under paragraph (1). Such data files shall be made available in electronic form and shall include all data fields requested, including the identity of the sentencing judge.
 - **(x)** The provisions of section 553 of title 5 , relating to publication in the Federal Register and public hearing procedure, shall apply to the promulgation of guidelines pursuant to this section.
 - **(y)** The Commission, in promulgating guidelines pursuant to subsection (a)(1), may include, as a component of a fine, the expected costs to the Government of any imprisonment, supervised release, or probation sentence that is ordered.
+
+In General
+
+Expiration of Authority
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 217(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2019](https://www.govinfo.gov/link/statute/98/2019); amended [Pub. L. 99–217, § 3](https://www.govinfo.gov/link/plaw/99/public/217), Dec. 26, 1985, [99 Stat. 1728](https://www.govinfo.gov/link/statute/99/1728); [Pub. L. 99–363, § 2](https://www.govinfo.gov/link/plaw/99/public/363), July 11, 1986, [100 Stat. 770](https://www.govinfo.gov/link/statute/100/770); [Pub. L. 99–570, title I](https://www.govinfo.gov/link/plaw/99/public/570), §§ 1006(b), 1008, Oct. 27, 1986, [100 Stat. 3207–7](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 99–646](https://www.govinfo.gov/link/plaw/99/public/646), §§ 6(b), 56, Nov. 10, 1986, [100 Stat. 3592](https://www.govinfo.gov/link/statute/100/3592), 3611; [Pub. L. 100–182](https://www.govinfo.gov/link/plaw/100/public/182), §§ 16(b), 23, Dec. 7, 1987, [101 Stat. 1269](https://www.govinfo.gov/link/statute/101/1269), 1271; [Pub. L. 100–690, title VII](https://www.govinfo.gov/link/plaw/100/public/690), §§ 7083, 7103(b), 7109, Nov. 18, 1988, [102 Stat. 4408](https://www.govinfo.gov/link/statute/102/4408), 4417, 4419; [Pub. L. 103–322, title II, § 20403(b)](https://www.govinfo.gov/link/plaw/103/public/322), title XXVIII, § 280005(c)(4), title XXXIII, § 330003(f)(1), Sept. 13, 1994, [108 Stat. 1825](https://www.govinfo.gov/link/statute/108/1825), 2097, 2141; [Pub. L. 108–21, title IV, § 401(h)](https://www.govinfo.gov/link/plaw/108/public/21), (k), Apr. 30, 2003, [117 Stat. 672](https://www.govinfo.gov/link/statute/117/672), 674; [Pub. L. 109–177, title VII, § 735](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 271](https://www.govinfo.gov/link/statute/120/271); [Pub. L. 109–304, § 17(f)(1)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1708](https://www.govinfo.gov/link/statute/120/1708).)*

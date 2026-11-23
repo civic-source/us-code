@@ -3,12 +3,17 @@ title: "Section 618d - Readvances from Treasury where Dam Fund is insufficient t
 usc_title: 43
 usc_section: "618d"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 618d"
-generated_at: "2026-03-30T02:55:57.457Z"
+generated_at: "2026-11-23T21:26:19.797Z"
+status: "active"
 ---
 
 # § 618d. Readvances from Treasury where Dam Fund is insufficient to meet cost of replacements
 
 If at any time there shall be insufficient sums in the Colorado River Dam Fund to meet the cost of replacements, however necessitated, in addition to meeting the other requirements of this subchapter, or of regulations authorized hereby and promulgated by the Secretary, the Secretary of the Treasury, upon request of the Secretary of the Interior, shall readvance to the said fund, in amounts not exceeding, in the aggregate, moneys repaid to the Treasury pursuant to section 618a(b) of this title , the amount required for replacements, however necessitated, in excess of the amount currently available therefor in said Colorado River Dam Fund. There is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such sums, not exceeding said aggregate amount, as may be necessary to permit the Secretary of the Treasury to make such readvances. All such readvances shall bear interest.
 
+
+## Source Credit
+
+*(July 19, 1940, ch. 643, § 5, [54 Stat. 777](https://www.govinfo.gov/link/statute/54/777).)*

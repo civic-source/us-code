@@ -3,12 +3,17 @@ title: "Section 593b - Construction of additional works for irrigation purposes"
 usc_title: 43
 usc_section: "593b"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 593b"
-generated_at: "2026-03-30T02:55:57.455Z"
+generated_at: "2026-11-23T21:26:19.792Z"
+status: "active"
 ---
 
 # § 593b. Construction of additional works for irrigation purposes
 
 The Secretary of the Interior is authorized to construct, operate, and maintain under the provisions of the Federal reclamation laws (Act June 17, 1902 , 32 Stat. 388 , and Acts amendatory thereof or supplementary thereto), such additional works as he may deem necessary for irrigation purposes. Such irrigation works may be undertaken only after a report and findings thereon have been made by the Secretary of the Interior as provided in such Federal reclamation laws; and, within the limits of the water users’ repayment ability, such report may be predicated on allocation to irrigation of an appropriate portion of the cost of constructing said dam and reservoir. Said dam and reservoir and said irrigation works may be utilized for irrigation purposes only pursuant to the provisions of said Federal reclamation laws.
 
+
+## Source Credit
+
+*(June 5, 1944, ch. 234, § 3, [58 Stat. 271](https://www.govinfo.gov/link/statute/58/271).)*

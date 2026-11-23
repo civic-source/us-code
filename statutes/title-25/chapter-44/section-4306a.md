@@ -3,9 +3,10 @@ title: "Section 4306a - Indian community development initiatives"
 usc_title: 25
 usc_section: "4306a"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4306a"
-generated_at: "2026-03-30T02:54:52.863Z"
+generated_at: "2026-11-23T21:25:54.716Z"
+status: "active"
 ---
 
 # § 4306a. Indian community development initiatives
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:54:52.863Z"
       - **(iv)** Renewable energy tax incentives.
       - **(v)** Accelerated depreciation.
     - **(D)** The study shall assess various alternative incentives that could be provided to enable and encourage Tribal governments to invest in an Indian community development investment fund or bank.
+
+## Source Credit
+
+*([Pub. L. 106–464, § 8](https://www.govinfo.gov/link/plaw/106/public/464), as added [Pub. L. 116–261, § 3(d)(2)](https://www.govinfo.gov/link/plaw/116/public/261), Dec. 30, 2020, [134 Stat. 3308](https://www.govinfo.gov/link/statute/134/3308).)*

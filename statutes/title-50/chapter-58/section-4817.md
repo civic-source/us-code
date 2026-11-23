@@ -3,9 +3,10 @@ title: "Section 4817 - Requirements to identify and control the export of emergi
 usc_title: 50
 usc_section: "4817"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4817"
-generated_at: "2026-03-30T02:56:26.283Z"
+generated_at: "2026-11-23T21:26:39.122Z"
+status: "active"
 ---
 
 # § 4817. Requirements to identify and control the export of emerging and foundational technologies
@@ -73,3 +74,7 @@ generated_at: "2026-03-30T02:56:26.283Z"
 - **(g)** Nothing in this chapter shall be construed to alter or limit—
   - **(1)** the authority of the President or the Secretary of State to designate items as defense articles and defense services for the purposes of the Arms Export Control Act ( 22 U.S.C. 2751 et seq.) or to otherwise regulate such items; or
   - **(2)** the authority of the President under the Atomic Energy Act of 1954 ( 42 U.S.C. 2011 et seq.), the Nuclear Non-Proliferation Act of 1978 ( 22 U.S.C. 3201 et seq.), the Energy Reorganization Act of 1974 ( 42 U.S.C. 5801 et seq.), or the Export Administration Act of 1979 ( 50 U.S.C. 4601 et seq.) (as continued in effect pursuant to the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.)) or any other provision of law relating to the control of exports.
+
+## Source Credit
+
+*([Pub. L. 115–232, div. A, title XVII, § 1758](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2218](https://www.govinfo.gov/link/statute/132/2218).)*

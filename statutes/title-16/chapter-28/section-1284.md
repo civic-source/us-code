@@ -3,9 +3,10 @@ title: "Section 1284 - Existing State jurisdiction and responsibilities"
 usc_title: 16
 usc_section: "1284"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1284"
-generated_at: "2026-03-30T02:54:22.956Z"
+generated_at: "2026-11-23T21:25:51.857Z"
+status: "active"
 ---
 
 # § 1284. Existing State jurisdiction and responsibilities
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:22.956Z"
 - **(e)** Nothing contained in this chapter shall be construed to alter, amend, repeal, interpret, modify, or be in conflict with any interstate compact made by any States which contain any portion of the national wild and scenic rivers system.
 - **(f)** Nothing in this chapter shall affect existing rights of any State, including the right of access, with respect to the beds of navigable streams, tributaries, or rivers (or segments thereof) located in a national wild, scenic or recreational river area.
 - **(g)** The Secretary of the Interior or the Secretary of Agriculture, as the case may be, may grant easements and rights-of-way upon, over, under, across, or through any component of the national wild and scenic rivers system in accordance with the laws applicable to the national park system and the national forest system, respectively: Provided , That any conditions precedent to granting such easements and rights-of-way shall be related to the policy and purpose of this chapter.
+
+## Source Credit
+
+*([Pub. L. 90–542, § 13](https://www.govinfo.gov/link/plaw/90/public/542), Oct. 2, 1968, [82 Stat. 917](https://www.govinfo.gov/link/statute/82/917).)*

@@ -3,9 +3,10 @@ title: "Section 674 - Power to control beneficial enjoyment"
 usc_title: 26
 usc_section: "674"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 674"
-generated_at: "2026-03-30T02:55:27.724Z"
+generated_at: "2026-11-23T21:26:06.362Z"
+status: "active"
 ---
 
 # § 674. Power to control beneficial enjoyment
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:27.724Z"
   - **(1)** to distribute, apportion, or accumulate income to or for a beneficiary or beneficiaries, or to, for, or within a class of beneficiaries; or
   - **(2)** to pay out corpus to or for a beneficiary or beneficiaries or to or for a class of beneficiaries (whether or not income beneficiaries).
 - **(d)** Subsection (a) shall not apply to a power solely exercisable (without the approval or consent of any other person) by a trustee or trustees, none of whom is the grantor or spouse living with the grantor, to distribute, apportion, or accumulate income to or for a beneficiary or beneficiaries, or to, for, or within a class of beneficiaries, whether or not the conditions of paragraph (6) or (7) of subsection (b) are satisfied, if such power is limited by a reasonably definite external standard which is set forth in the trust instrument. A power does not fall within the powers described in this subsection if any person has a power to add to the beneficiary or beneficiaries or to a class of beneficiaries designated to receive the income or corpus except where such action is to provide for after-born or after-adopted children.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 227; [Pub. L. 99–514, title XIV, § 1402(b)(1)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2712](https://www.govinfo.gov/link/statute/100/2712); [Pub. L. 100–647, title I, § 1014(a)(3)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3559](https://www.govinfo.gov/link/statute/102/3559); [Pub. L. 105–34, title XV, § 1530(c)(6)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1078](https://www.govinfo.gov/link/statute/111/1078).)*

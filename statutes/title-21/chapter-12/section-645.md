@@ -3,12 +3,17 @@ title: "Section 645 - Federal provisions applicable to State or Territorial busi
 usc_title: 21
 usc_section: "645"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 645"
-generated_at: "2026-03-30T02:54:54.288Z"
+generated_at: "2026-11-23T21:25:56.214Z"
+status: "active"
 ---
 
 # § 645. Federal provisions applicable to State or Territorial business transactions of a local nature and not subject to local authority
 
 The authority conferred on the Secretary by section 642, 643, or 644 of this title with respect to persons, firms, and corporations engaged in the specified kinds of business in or for commerce may be exercised with respect to persons, firms, or corporations engaged, in any State or organized Territory, in such kinds of business but not in or for commerce, whenever the Secretary determines, after consultation with an appropriate advisory committee provided for in section 661 of this title , that the State or territory does not have at least equal authority under its laws or such authority is not exercised in a manner to effectuate the purposes of this chapter including the State providing for the Secretary or his representative being afforded access to such places of business and the facilities, inventories, and records thereof, and the taking of reasonable samples, where he determines necessary in carrying out his responsibilities under this chapter; and in such case the provisions of section 642, 643, or 644 of this title, respectively, shall apply to such persons, firms, and corporations to the same extent and in the same manner as if they were engaged in such business in or for commerce and the transactions involved were in commerce.
 
+
+## Source Credit
+
+*(Mar. 4, 1907, ch. 2907, title II, § 205, as added [Pub. L. 90–201, § 14](https://www.govinfo.gov/link/plaw/90/public/201), Dec. 15, 1967, [81 Stat. 594](https://www.govinfo.gov/link/statute/81/594).)*

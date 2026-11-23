@@ -3,9 +3,10 @@ title: "Section 2276 - Commercial space launch cooperation"
 usc_title: 10
 usc_section: "2276"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2276"
-generated_at: "2026-03-30T02:53:38.152Z"
+generated_at: "2026-11-23T21:25:32.592Z"
+status: "active"
 ---
 
 # § 2276. Commercial space launch cooperation
@@ -45,3 +46,53 @@ generated_at: "2026-03-30T02:53:38.152Z"
   - **(2)** The term “launch support facilities” has the meaning given the term in section 50501(7) of title 51 .
   - **(3)** The term “space recovery support facilities” has the meaning given the term in section 50501(11) of title 51 .
   - **(4)** The term “space transportation infrastructure” has the meaning given that term in section 50501(12) of title 51 .
+
+Authority
+
+Authority for Contracts and Other Agreements Relating to Space Transportation Infrastructure
+
+Contributions
+
+In general
+
+Use of contributions
+
+Requirements with respect to agreements
+
+Defense Cooperation Space Launch Account.—
+
+Establishment
+
+Crediting of funds
+
+Use of funds
+
+Regulations
+
+Definitions
+
+Covered entity
+
+Launch support facilities
+
+Space recovery support facilities
+
+Space transportation infrastructure
+
+Plan for Threat Sharing With Commercial Space Operators
+
+Report
+
+Notification of Changes in Phase Three Acquisition Strategy
+
+Definitions
+
+Policy
+
+Notification
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 112–239, div. A, title IX, § 912(a)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1872](https://www.govinfo.gov/link/statute/126/1872); amended [Pub. L. 115–232, div. A, title VIII, § 813(a)(2)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1851](https://www.govinfo.gov/link/statute/132/1851).)*

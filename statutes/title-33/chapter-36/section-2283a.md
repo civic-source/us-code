@@ -3,9 +3,10 @@ title: "Section 2283a - Status report"
 usc_title: 33
 usc_section: "2283a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2283a"
-generated_at: "2026-03-30T02:55:41.120Z"
+generated_at: "2026-11-23T21:26:11.438Z"
+status: "active"
 ---
 
 # § 2283a. Status report
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:41.120Z"
     - **(B)** use a methodology that describes both a qualitative and quantitative status for all projects in the report; and
     - **(C)** provide specific dates for participation in the consultations required under section 2283(d)(4)(B) of this title .
   - **(4)** The Secretary shall make information contained in the status report available to the public, including on the Internet.
+
+## Source Credit
+
+*([Pub. L. 110–114, title II, § 2036(b)](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1094](https://www.govinfo.gov/link/statute/121/1094); [Pub. L. 113–121, title I, § 1041](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1243](https://www.govinfo.gov/link/statute/128/1243).)*

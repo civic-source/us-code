@@ -3,9 +3,10 @@ title: "Section 16320 - Spallation Neutron Source"
 usc_title: 42
 usc_section: "16320"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16320"
-generated_at: "2026-03-30T02:56:11.483Z"
+generated_at: "2026-11-23T21:26:33.734Z"
+status: "active"
 ---
 
 # § 16320. Spallation Neutron Source
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:56:11.483Z"
       - **(i)** the SING, $75,000,000 for each of fiscal year 2007 through 2009; and
       - **(ii)** the SNS power upgrade, $160,000,000, to remain available until expended.
     - **(B)** If stockpiles of heavy water of the Department are insufficient to meet the needs of the Facility, there is authorized to be appropriated for the Facility $12,000,000 for fiscal year 2007.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 980](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 905](https://www.govinfo.gov/link/statute/119/905).)*

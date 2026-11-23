@@ -3,9 +3,10 @@ title: "Section 3032 - Limitations on educational assistance for certain individ
 usc_title: 38
 usc_section: "3032"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3032"
-generated_at: "2026-03-30T02:55:53.500Z"
+generated_at: "2026-11-23T21:26:16.720Z"
+status: "active"
 ---
 
 # § 3032. Limitations on educational assistance for certain individuals
@@ -47,3 +48,9 @@ generated_at: "2026-03-30T02:55:53.500Z"
   - **(1)** Subject to paragraph (3), the amount of educational assistance payable under this chapter for a national test for admission or national test providing an opportunity for course credit at institutions of higher learning described in section 3452(b) of this title is the amount of the fee charged for the test.
   - **(2)** The number of months of entitlement charged in the case of any individual for a test described in paragraph (1) is equal to the number (including any fraction) determined by dividing the total amount of educational assistance paid such individual for such test by the full-time monthly institutional rate of educational assistance, except for paragraph (1), such individual would otherwise be paid under subsection (a)(1), (b)(1), (d), or (e)(1) of section 3015 of this title , as the case may be.
   - **(3)** In no event shall payment of educational assistance under this subsection for a test described in paragraph (1) exceed the amount of the individual’s available entitlement under this chapter.
+
+“For months beginning on or after October 1, 2005 , and before January 1, 2008 , subsection (c)(1) of section 3032 of title 38 , United States Code, shall be applied as if—
+
+## Source Credit
+
+*(Added [Pub. L. 98–525, title VII, § 702(a)(1)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2561](https://www.govinfo.gov/link/statute/98/2561), § 1432; amended [Pub. L. 99–576, title III, § 301(b)](https://www.govinfo.gov/link/plaw/99/public/576), (d)(1), Oct. 28, 1986, [100 Stat. 3267](https://www.govinfo.gov/link/statute/100/3267), 3268; [Pub. L. 100–689, title I](https://www.govinfo.gov/link/plaw/100/public/689), §§ 108(a)(2), 111(a)(7)(A), (8), Nov. 18, 1988, [102 Stat. 4169](https://www.govinfo.gov/link/statute/102/4169), 4172; [Pub. L. 101–237, title IV, § 422(a)(2)](https://www.govinfo.gov/link/plaw/101/public/237), Dec. 18, 1989, [103 Stat. 2089](https://www.govinfo.gov/link/statute/103/2089); [Pub. L. 102–16, § 10(a)(3)](https://www.govinfo.gov/link/plaw/102/public/16), Mar. 22, 1991, [105 Stat. 55](https://www.govinfo.gov/link/statute/105/55); renumbered § 3032 and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 102–568, title III, § 310(a)](https://www.govinfo.gov/link/plaw/102/public/568), Oct. 29, 1992, [106 Stat. 4329](https://www.govinfo.gov/link/statute/106/4329); [Pub. L. 103–446, title XII, § 1201(d)(6)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4684](https://www.govinfo.gov/link/statute/108/4684); [Pub. L. 104–275, title I, § 105(a)](https://www.govinfo.gov/link/plaw/104/public/275), Oct. 9, 1996, [110 Stat. 3327](https://www.govinfo.gov/link/statute/110/3327); [Pub. L. 106–419, title I, § 122(b)(1)](https://www.govinfo.gov/link/plaw/106/public/419), Nov. 1, 2000, [114 Stat. 1833](https://www.govinfo.gov/link/statute/114/1833); [Pub. L. 107–14, § 7(b)(2)(B)](https://www.govinfo.gov/link/plaw/107/public/14), June 5, 2001, [115 Stat. 32](https://www.govinfo.gov/link/statute/115/32); [Pub. L. 108–454, title I, § 106(b)(1)](https://www.govinfo.gov/link/plaw/108/public/454), Dec. 10, 2004, [118 Stat. 3602](https://www.govinfo.gov/link/statute/118/3602).)*

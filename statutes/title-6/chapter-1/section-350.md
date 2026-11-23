@@ -3,9 +3,10 @@ title: "Section 350 - Workforce health and medical support"
 usc_title: 6
 usc_section: "350"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 350"
-generated_at: "2026-03-30T02:53:09.462Z"
+generated_at: "2026-11-23T21:25:25.786Z"
+status: "active"
 ---
 
 # § 350. Workforce health and medical support
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:09.462Z"
   - **(3)** as deemed appropriate by the Under Secretary, provide medical liaisons to the components of the Department, on a reimbursable basis, to provide subject matter expertise on occupational medical and public health issues;
   - **(4)** serve as the primary representative for the Department on agreements regarding the detail of Commissioned Corps officers of the Public Health Service of the Department of Health and Human Services to the Department, except that components of the Department shall retain authority for funding, determination of specific duties, and supervision of such detailed Commissioned Corps officers; and
   - **(5)** perform such other duties relating to the responsibilities described in this subsection as the Secretary may require.
+
+## Source Credit
+
+*([Pub. L. 107–296, title VII, § 710](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 115–387, § 2(d)](https://www.govinfo.gov/link/plaw/115/public/387), Dec. 21, 2018, [132 Stat. 5167](https://www.govinfo.gov/link/statute/132/5167).)*

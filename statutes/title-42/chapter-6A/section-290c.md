@@ -3,9 +3,10 @@ title: "Section 290c - Advanced Research Projects Agency–Health"
 usc_title: 42
 usc_section: "290c"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 290c"
-generated_at: "2026-03-30T02:56:10.755Z"
+generated_at: "2026-11-23T21:26:30.539Z"
+status: "active"
 ---
 
 # § 290c. Advanced Research Projects Agency–Health
@@ -206,3 +207,7 @@ generated_at: "2026-03-30T02:56:10.755Z"
     - **(B)** incentives in the commercial market are unlikely to result in the adequate or timely development of such capability or technology.
 - **(s)** To carry out this section, there is authorized to be appropriated $500,000,000 for each of the fiscal years 2024 through 2028, to remain available until expended.
 - **(t)** Any budget request for ARPA–H shall propose a separate appropriation from the other accounts of the National Institutes of Health.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 499A, as added [Pub. L. 117–328, div. FF, title II, § 2331(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5770](https://www.govinfo.gov/link/statute/136/5770).)*

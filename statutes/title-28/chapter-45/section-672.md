@@ -3,9 +3,10 @@ title: "Section 672 - Marshal"
 usc_title: 28
 usc_section: "672"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 672"
-generated_at: "2026-03-30T02:55:30.136Z"
+generated_at: "2026-11-23T21:26:01.071Z"
+status: "active"
 ---
 
 # § 672. Marshal
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:30.136Z"
   - **(6)** Pay the salaries of the Chief Justice, associate justices, and all officers and employees of the Court and disburse other funds appropriated for disbursement, under the direction of the Chief Justice;
   - **(7)** Pay the expenses of printing briefs and travel expenses of attorneys in behalf of persons whose motions to appear in forma pauperis in the Supreme Court have been approved and when counsel have been appointed by the Supreme Court, upon vouchers certified by the clerk of the Court;
   - **(8)** Oversee the Supreme Court Police.
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 918](https://www.govinfo.gov/link/statute/62/918); [Pub. L. 88–279, § 2](https://www.govinfo.gov/link/plaw/88/public/279), Mar. 10, 1964, [78 Stat. 158](https://www.govinfo.gov/link/statute/78/158); [Pub. L. 97–390, § 2](https://www.govinfo.gov/link/plaw/97/public/390), Dec. 29, 1982, [96 Stat. 1958](https://www.govinfo.gov/link/statute/96/1958).)*

@@ -3,9 +3,10 @@ title: "Section 2344 - Safety assurance review"
 usc_title: 33
 usc_section: "2344"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2344"
-generated_at: "2026-03-30T02:55:41.127Z"
+generated_at: "2026-11-23T21:26:11.452Z"
+status: "active"
 ---
 
 # § 2344. Safety assurance review
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:41.127Z"
 - **(e)** The written recommendations of a reviewer or panel of reviewers under this section and the responses of the Chief of Engineers shall be available to the public, including through electronic means on the Internet.
 - **(f)** This section shall apply to any project in design or under construction on November 8, 2007 , and to any project with respect to which design or construction is initiated during the period beginning on November 8, 2007 , and ending 7 years after November 8, 2007 .
 - **(g)** Chapter 10 of title 5 shall not apply to a safety assurance review conducted under this section.
+
+## Source Credit
+
+*([Pub. L. 110–114, title II, § 2035](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1091](https://www.govinfo.gov/link/statute/121/1091); [Pub. L. 113–121, title III, § 3028](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1305](https://www.govinfo.gov/link/statute/128/1305); [Pub. L. 117–286, § 4(a)(204)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4328](https://www.govinfo.gov/link/statute/136/4328).)*

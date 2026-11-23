@@ -3,9 +3,10 @@ title: "Section 6552 - Application of certain laws"
 usc_title: 22
 usc_section: "6552"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6552"
-generated_at: "2026-03-30T02:55:05.430Z"
+generated_at: "2026-11-23T21:25:58.692Z"
+status: "active"
 ---
 
 # § 6552. Application of certain laws
@@ -22,3 +23,9 @@ generated_at: "2026-03-30T02:55:05.430Z"
 - **(e)** The Department of State’s Congressional Presentation Document for fiscal year 2000 and each fiscal year thereafter shall include—
   - **(1)** the aggregated amounts that the Department will spend on such public diplomacy programs and on costs of personnel for such programs, and a detailed description of the goals and purposes for which such funds shall be expended; and
   - **(2)** the amount of funds allocated to and the positions authorized for such public diplomacy programs, including bureaus to be created upon the transfer of functions from USIA to the Department.
+
+Construction
+
+## Source Credit
+
+*([Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XIII, § 1333, Oct. 21, 1998, [112 Stat. 2681–785](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 304]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–434.)*

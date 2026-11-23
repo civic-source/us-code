@@ -3,9 +3,10 @@ title: "Section 80t - Findings"
 usc_title: 20
 usc_section: "80t"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 80t"
-generated_at: "2026-03-30T02:54:48.080Z"
+generated_at: "2026-11-23T21:25:46.940Z"
+status: "active"
 ---
 
 # § 80t. Findings
@@ -21,3 +22,7 @@ Congress finds the following:
   - **(4)** On December 19, 2014 , Congress created a Congressional Commission to study the potential for an American museum of women’s history. The bipartisan Commission unanimously concluded that the United States needs and deserves a physical national museum dedicated to showcasing the historical experiences and impact of women in the United States.
   - **(5)** A comprehensive women’s history museum would document the full spectrum of the experiences of women in the United States, represent a diverse range of viewpoints, experiences, and backgrounds, more accurately depict the history of the United States, and add value to the Smithsonian Institution.
   - **(6)** The collections, exhibits, historical narrative materials, and museum programming of the women’s history museum should be inclusive, comprehensive, and innovative. Such collections, exhibits, materials, and programming should present the diverse range of experiences and viewpoints of all women in the United States, reflecting upon the things that set women apart from one another while also highlighting the experiences that many of these women share.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. T, title I, § 102](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2272](https://www.govinfo.gov/link/statute/134/2272).)*

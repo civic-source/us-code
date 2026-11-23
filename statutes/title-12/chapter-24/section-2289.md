@@ -3,9 +3,10 @@ title: "Section 2289 - General powers"
 usc_title: 12
 usc_section: "2289"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2289"
-generated_at: "2026-03-30T02:53:53.485Z"
+generated_at: "2026-11-23T21:25:37.099Z"
+status: "active"
 ---
 
 # § 2289. General powers
@@ -23,3 +24,7 @@ The Bank shall have power—
   - **(9)** to enter into contracts, to execute instruments to incur liabilities, and to do all things as are necessary or incidental to the proper management of its affairs and the proper conduct of its business;
   - **(10)** to act through any corporate or other agency or instrumentality of the United States, and to utilize the services thereof on a reimbursable basis, and any such agency or instrumentality is authorized to provide services as requested by the Bank; and
   - **(11)** to determine the character of and the necessity for its obligations and expenditures, and the manner in which they shall be incurred, allowed, and paid, subject to provisions of law specifically applicable to Government corporations.
+
+## Source Credit
+
+*([Pub. L. 93–224, § 10](https://www.govinfo.gov/link/plaw/93/public/224), Dec. 29, 1973, [87 Stat. 940](https://www.govinfo.gov/link/statute/87/940).)*

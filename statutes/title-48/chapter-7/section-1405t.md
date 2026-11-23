@@ -3,9 +3,10 @@ title: "Section 1405t - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80
 usc_title: 48
 usc_section: "1405t"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1405t"
-generated_at: "2026-03-30T02:56:14.583Z"
+generated_at: "2026-11-23T21:26:37.989Z"
+status: "repealed"
 ---
 
 # §§ 1405s to 1405t. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 649 , 651, 655

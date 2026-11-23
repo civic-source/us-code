@@ -3,9 +3,10 @@ title: "Section 936 - Adjustment for current policies"
 usc_title: 2
 usc_section: "936"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 936"
-generated_at: "2026-03-30T02:53:04.808Z"
+generated_at: "2026-11-23T21:25:21.210Z"
+status: "active"
 ---
 
 # § 936. Adjustment for current policies
@@ -74,3 +75,7 @@ generated_at: "2026-03-30T02:53:04.808Z"
     - **(A)** each of the income tax provisions shall be estimated as though the AMT had remained at current law as scheduled on December 31, 2009 to be in effect; and
     - **(B)** if more than 1 of the income tax provisions is 2 2 So in original. Probably should be “are”. included in a single piece of legislation, those provisions shall be estimated in the order in which they appear.
   - **(2)** For purposes of estimates made pursuant to subsection (e), changes to the AMT shall be estimated as if, on the date of enactment of legislation meeting the criteria in subsection (e)(1), all of the income tax provisions identified in subsection (f)(1) were made permanent.
+
+## Source Credit
+
+*([Pub. L. 111–139, title I, § 7](https://www.govinfo.gov/link/plaw/111/public/139), Feb. 12, 2010, [124 Stat. 16](https://www.govinfo.gov/link/statute/124/16).)*

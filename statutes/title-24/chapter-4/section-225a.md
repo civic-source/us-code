@@ -3,9 +3,10 @@ title: "Section 225a - Definitions"
 usc_title: 24
 usc_section: "225a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "24 U.S.C. § 225a"
-generated_at: "2026-03-30T02:54:50.790Z"
+generated_at: "2026-11-23T21:25:53.408Z"
+status: "active"
 ---
 
 # § 225a. Definitions
@@ -21,3 +22,7 @@ For the purpose of this subchapter:
   - **(7)** The term “financial transition period” means a period beginning on October 1, 1985 , and terminating on October 1, 1991 .
   - **(8)** The term “system implementation plan” means the plan for a comprehensive mental health system for the District of Columbia to be developed pursuant to this subchapter.
   - **(9)** The term “Council” means the Council of the District of Columbia.
+
+## Source Credit
+
+*([Pub. L. 98–621, § 3](https://www.govinfo.gov/link/plaw/98/public/621), Nov. 8, 1984, [98 Stat. 3371](https://www.govinfo.gov/link/statute/98/3371).)*

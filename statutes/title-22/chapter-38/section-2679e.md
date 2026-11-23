@@ -3,9 +3,10 @@ title: "Section 2679e - List of certain telecommunications providers"
 usc_title: 22
 usc_section: "2679e"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2679e"
-generated_at: "2026-03-30T02:55:05.378Z"
+generated_at: "2026-11-23T21:25:58.526Z"
+status: "active"
 ---
 
 # § 2679e. List of certain telecommunications providers
@@ -14,3 +15,13 @@ generated_at: "2026-03-30T02:55:05.378Z"
 - **(b)** In this section, the term “covered contractor” means a provider of telecommunications, telecommunications equipment, or information technology equipment, including hardware, software, or services, that has knowingly assisted or facilitated a cyber attack or conducted surveillance, including passive or active monitoring, carried out against—
   - **(1)** the United States by, or on behalf of, any government, or persons associated with such government, listed as a cyber threat actor in the intelligence community’s 2017 assessment of worldwide threats to United States national security or any subsequent worldwide threat assessment of the intelligence community; or
   - **(2)** individuals, including activists, journalists, opposition politicians, or other individuals for the purposes of suppressing dissent or intimidating critics, on behalf of a country included in the annual country reports on human rights practices of the Department for systematic acts of political repression, including arbitrary arrest or detention, torture, extrajudicial or politically motivated killing, or other gross violations of human rights.
+
+“In this title [enacting this section and amending sections 4352 and 4354 of this title]:
+
+Intelligence community
+
+Relevant congressional committees
+
+## Source Credit
+
+*([Pub. L. 117–81, div. E, title LV, § 5502](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2375](https://www.govinfo.gov/link/statute/135/2375).)*

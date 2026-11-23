@@ -1,0 +1,25 @@
+---
+title: "Section 10804 - Imposition of sanctions with respect to other entities owned or controlled by the Government of the Russian Federation"
+usc_title: 22
+usc_section: "10804"
+chapter: 115
+current_through: "PL 119-142"
+classification: "22 U.S.C. § 10804"
+generated_at: "2026-11-23T21:25:58.805Z"
+status: "active"
+---
+
+# § 10804. Imposition of sanctions with respect to other entities owned or controlled by the Government of the Russian Federation
+
+- **(a)** Not later than 30 days after September 18, 2026 , and every 180 days thereafter, the President shall—
+  - **(1)** review any entity—
+    - **(A)** in which the Government of the Russian Federation may have a controlling or majority ownership interest; or
+    - **(B)** that may otherwise be affiliated with the Government of the Russian Federation; and
+  - **(2)** impose the sanctions described in subsection (b) with respect to an entity if the President determines that—
+    - **(A)** the Government of the Russian Federation has a controlling or majority ownership interest in the entity; or
+    - **(B)** the entity is otherwise affiliated with the Government of the Russian Federation.
+- **(b)** The President shall exercise all of the powers granted to the President under the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in property and interests in property of an entity described in subsection (a) if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+
+## Source Credit
+
+*([Pub. L. 119–111, div. A, title I, § 104](https://www.govinfo.gov/link/plaw/119/public/111), Sept. 18, 2026, [140 Stat. 1035](https://www.govinfo.gov/link/statute/140/1035).)*

@@ -3,9 +3,10 @@ title: "Section 460 - Miscellaneous activities subject to regulation"
 usc_title: 21
 usc_section: "460"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 460"
-generated_at: "2026-03-30T02:54:54.286Z"
+generated_at: "2026-11-23T21:25:56.202Z"
+status: "active"
 ---
 
 # § 460. Miscellaneous activities subject to regulation
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:54.286Z"
 - **(c)** No person shall engage in business, in or for commerce, as a poultry products broker, renderer, or animal food manufacturer, or engage in business in commerce as a wholesaler of any carcasses, or parts or products of the carcasses, of any poultry, whether intended for human food or other purposes, or engage in business as a public warehouseman storing any such articles in or for commerce, or engage in the business of buying, selling, or transporting in commerce, or importing, any dead, dying, disabled, or diseased poultry, or parts of the carcasses of any poultry that died otherwise than by slaughter, unless when required by regulations of the Secretary, he has registered with the Secretary his name, and the address of each place of business at which, and all trade names under which, he conducts such business.
 - **(d)** No person engaged in the business of buying, selling, or transporting in commerce, or importing, dead, dying, disabled, or diseased poultry, or any parts of the carcasses of any poultry that died otherwise than by slaughter, shall buy, sell, transport, offer for sale or transportation, or receive for transportation, in commerce, or import, any dead, dying, disabled, or diseased poultry or parts of the carcasses of any poultry that died otherwise than by slaughter, unless such transaction, transportation or importation is made in accordance with such regulations as the Secretary may prescribe to assure that such poultry, or the unwholesome parts or products thereof, will be prevented from being used for human food.
 - **(e)** The authority conferred on the Secretary by paragraph (b), (c), or (d) of this section with respect to persons engaged in the specified kinds of business in or for commerce may be exercised with respect to persons engaged, in any State or organized territory, in such kinds of business but not in or for commerce, whenever the Secretary determines, after consultation with an appropriate advisory committee provided for in section 454 of this title , that the State or territory does not have at least equal authority under its laws or such authority is not exercised in a manner to effectuate the purposes of this chapter, including the State or territory providing for the Secretary or his representative being afforded access to such places of business and the facilities, inventories, and records thereof, and the taking of reasonable samples, where he determines necessary in carrying out his responsibilities under this chapter; and in such case the provisions of paragraph (b), (c), or (d) of this section, respectively, shall apply to such persons to the same extent and in the same manner as if they were engaged in such business in or for commerce and the transactions involved were in commerce.
+
+## Source Credit
+
+*([Pub. L. 85–172, § 11](https://www.govinfo.gov/link/plaw/85/public/172), Aug. 28, 1957, [71 Stat. 446](https://www.govinfo.gov/link/statute/71/446); [Pub. L. 90–492, § 11](https://www.govinfo.gov/link/plaw/90/public/492), Aug. 18, 1968, [82 Stat. 801](https://www.govinfo.gov/link/statute/82/801).)*

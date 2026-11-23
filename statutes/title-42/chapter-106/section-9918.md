@@ -3,9 +3,10 @@ title: "Section 9918 - Limitations on use of funds"
 usc_title: 42
 usc_section: "9918"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9918"
-generated_at: "2026-03-30T02:56:11.377Z"
+generated_at: "2026-11-23T21:26:33.328Z"
+status: "active"
 ---
 
 # § 9918. Limitations on use of funds
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.377Z"
     - **(B)** exercise the powers and functions provided by title VI of the Civil Rights Act of 1964 ( 42 U.S.C. 2000d et seq.), the Age Discrimination Act of 1975 ( 42 U.S.C. 6101 et seq.), section 504 of the Rehabilitation Act of 1973 ( 29 U.S.C. 794 ), or title II of the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12131 et seq.), as may be applicable; or
     - **(C)** take such other action as may be provided by law.
   - **(3)** When a matter is referred to the Attorney General pursuant to paragraph (2), or whenever the Attorney General has reason to believe that the State is engaged in a pattern or practice of discrimination in violation of the provisions of this subsection, the Attorney General may bring a civil action in any appropriate United States district court for such relief as may be appropriate, including injunctive relief.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 678F](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 105–285, title II, § 201](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2747](https://www.govinfo.gov/link/statute/112/2747).)*

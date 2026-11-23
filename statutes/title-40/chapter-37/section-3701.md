@@ -3,9 +3,10 @@ title: "Section 3701 - Definition and application"
 usc_title: 40
 usc_section: "3701"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 3701"
-generated_at: "2026-03-30T02:55:43.380Z"
+generated_at: "2026-11-23T21:26:14.870Z"
+status: "active"
 ---
 
 # § 3701. Definition and application
@@ -30,3 +31,55 @@ generated_at: "2026-03-30T02:55:43.380Z"
       - **(ii)** any work required to be done in accordance with the provisions of chapter 65 of title 41; and
       - **(iii)** a contract in an amount that is not greater than $100,000.
     - **(B)** Section 3702 of this title does not apply to work where the assistance described in paragraph (1)(B)(iii) from the Government or an agency or instrumentality is only a loan guarantee or insurance.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3701(a) | (no source). |  |
+| 3701(b)(1) | 40:329(a) (1st sentence less proviso). | Pub. L. 87–581, title I, § 103(a) , (b), Aug. 13, 1962 , 76 Stat. 358 . |
+| 3701(b)(2) | 40:329(a) (last sentence). |  |
+| 3701(b)(3) (A)(i), (ii) | 40:329(b). |  |
+| 3701(b)(3) (A)(iii) | 40:329(c). | Pub. L. 87–581, title I, § 103(c) , as added Pub. L. 103–355, title IV, § 4104(c)(1) , Oct. 13, 1994 , 108 Stat. 3342 . |
+| 3701(b)(3)(B) | 40:329(a) (1st sentence proviso). |  |
+
+
+Definition
+
+Application.—
+
+Contracts
+
+Laborers and mechanics
+
+Exceptions.—
+
+This chapter
+
+Section 3702
+
+Historical and Revision Notes
+
+3701(a)
+
+3701(b)(1)
+
+Pub. L. 87–581, title I, § 103(a)
+
+Aug. 13, 1962
+
+76 Stat. 358
+
+3701(b)(2)
+
+Pub. L. 87–581, title I, § 103(c)
+
+Pub. L. 103–355, title IV, § 4104(c)(1)
+
+Oct. 13, 1994
+
+108 Stat. 3342
+
+3701(b)(3)(B)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1169](https://www.govinfo.gov/link/statute/116/1169); [Pub. L. 109–284, § 6(14)](https://www.govinfo.gov/link/plaw/109/public/284), Sept. 27, 2006, [120 Stat. 1213](https://www.govinfo.gov/link/statute/120/1213); [Pub. L. 111–350, § 5](https://www.govinfo.gov/link/plaw/111/public/350) (l)(19), Jan. 4, 2011, [124 Stat. 3852](https://www.govinfo.gov/link/statute/124/3852).)*

@@ -3,12 +3,17 @@ title: "Section 8851 - Model demonstration biomass energy facilities; establishm
 usc_title: 42
 usc_section: "8851"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8851"
-generated_at: "2026-03-30T02:56:11.348Z"
+generated_at: "2026-11-23T21:26:33.222Z"
+status: "active"
 ---
 
 # § 8851. Model demonstration biomass energy facilities; establishment, public inspection, etc.; authorization of appropriations
 
 - **(a)** The Secretary of Agriculture shall establish not more than ten model demonstration biomass energy facilities for purposes of exhibiting the most advanced technology available for producing biomass energy. Such facilities and information regarding the operation of such facilities shall be available for public inspection, and, to the extent practicable, such facilities shall be established in various regions in the United States. Such facilities may be established in cooperation with appropriate departments or agencies of the States, or appropriate in various regions in the United States. Such facilities may be established in cooperation with appropriate departments or agencies of the States, or appropriate departments, agencies, or other instrumentalities of the United States.
 - **(b)** For purposes of carrying out subsection (a), there is authorized to be appropriated $5,000,000 for each of the fiscal years 1981, 1982, 1983, and 1984.
+
+## Source Credit
+
+*([Pub. L. 96–294, title II, § 251](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 705](https://www.govinfo.gov/link/statute/94/705).)*

@@ -3,9 +3,10 @@ title: "Section 2192c - Office for academic engagement relating to cyber activit
 usc_title: 10
 usc_section: "2192c"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2192c"
-generated_at: "2026-03-30T02:53:38.147Z"
+generated_at: "2026-11-23T21:25:32.567Z"
+status: "active"
 ---
 
 # § 2192c. Office for academic engagement relating to cyber activities
@@ -45,3 +46,41 @@ generated_at: "2026-03-30T02:53:38.147Z"
   - **(1)** A primary, secondary, or post-secondary educational program with a cyber focus.
   - **(2)** A program of the Department of Defense for the recruitment or retention of cyberspace civilian and military personnel (including scholarship programs) other than a Reserve Officers’ Training Corps program.
   - **(3)** An academic partnership focused on establishing cyber talent among the personnel referred to in paragraph (2).
+
+Establishment
+
+Director
+
+Responsibilities
+
+Authority Relating to Compliance
+
+Additional Authorities
+
+Relationship to Other Entities
+
+Covered Academic Engagement Program Defined
+
+Program Required
+
+Consultation Requirements
+
+Designations.—
+
+In general
+
+Criteria
+
+Metrics and Report.—
+
+Metrics
+
+Annual report
+
+Rule of Construction
+
+Academic Institution Defined
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XV, § 1531(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 560](https://www.govinfo.gov/link/statute/137/560).)*

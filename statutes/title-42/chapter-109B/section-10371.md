@@ -3,9 +3,10 @@ title: "Section 10371 - Water prediction and forecasting"
 usc_title: 42
 usc_section: "10371"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10371"
-generated_at: "2026-03-30T02:56:11.387Z"
+generated_at: "2026-11-23T21:26:33.367Z"
+status: "active"
 ---
 
 # § 10371. Water prediction and forecasting
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:11.387Z"
   - **(3)** $45,500,000 for fiscal year 2023.
   - **(4)** $46,000,000 for fiscal year 2024.
 - **(e)** Funds to carry out this section shall be derived from amounts authorized to be appropriated to the National Weather Service and the National Ocean Service that are enacted after December 31, 2020 .
+
+## Source Credit
+
+*([Pub. L. 116–271, title III, § 301](https://www.govinfo.gov/link/plaw/116/public/271), Dec. 31, 2020, [134 Stat. 3347](https://www.govinfo.gov/link/statute/134/3347).)*

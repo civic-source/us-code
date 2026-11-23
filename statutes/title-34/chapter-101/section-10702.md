@@ -3,9 +3,10 @@ title: "Section 10702 - Applications"
 usc_title: 34
 usc_section: "10702"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10702"
-generated_at: "2026-03-30T02:55:33.275Z"
+generated_at: "2026-11-23T21:26:09.689Z"
+status: "active"
 ---
 
 # § 10702. Applications
@@ -20,3 +21,7 @@ To request a grant under this subchapter, the chief executive officer of a State
     - **(C)** there has been appropriate coordination with affected agencies; and
     - **(D)** the applicant will comply with all provisions of this subchapter and all other applicable Federal laws.
   - **(4)** An assurance that the applicant will work with the Drug Enforcement Administration to develop an integrated and comprehensive strategy to address opioid abuse.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 3022](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 114–198, title II, § 201(a)(1)](https://www.govinfo.gov/link/plaw/114/public/198), July 22, 2016, [130 Stat. 712](https://www.govinfo.gov/link/statute/130/712).)*

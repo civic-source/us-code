@@ -3,12 +3,17 @@ title: "Section 2181 - Assignment of space for meetings of joint committees, con
 usc_title: 2
 usc_section: "2181"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 2181"
-generated_at: "2026-03-30T02:53:04.826Z"
+generated_at: "2026-11-23T21:25:21.288Z"
+status: "active"
 ---
 
 # § 2181. Assignment of space for meetings of joint committees, conference committees, etc.
 
 The President pro tempore of the Senate and the Speaker of the House of Representatives shall cause a survey to be made of available space within the Capitol which could be utilized for joint committee meetings, meetings of conference committees, and other meetings, requiring the attendance of both Senators and Members of the House of Representatives; and shall recommend the reassignment of such space to accommodate such meetings.
 
+
+## Source Credit
+
+*(Aug. 2, 1946, ch. 753, title II, § 242, [60 Stat. 839](https://www.govinfo.gov/link/statute/60/839).)*

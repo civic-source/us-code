@@ -3,9 +3,10 @@ title: "Section 3604 - Effects of closure of educational institution and modific
 usc_title: 38
 usc_section: "3604"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3604"
-generated_at: "2026-03-30T02:55:53.506Z"
+generated_at: "2026-11-23T21:26:16.753Z"
+status: "active"
 ---
 
 # § 3604. Effects of closure of educational institution and modification of courses by reason of emergency situation
@@ -33,3 +34,21 @@ generated_at: "2026-03-30T02:55:53.506Z"
 - **(g)** Not later than five business days after the date on which the Secretary receives notice that an educational institution will close or is closed by reason of an emergency situation, the Secretary shall provide to each individual who is enrolled in a course or program of education at such educational institution using entitlement to educational assistance under chapter 30, 31, 32, 33, or 35 of this title, or chapter 1606 of title 10 notice of—
   - **(1)** such closure and the date of such closure; and
   - **(2)** the effect of such closure on the individual’s entitlement to educational assistance pursuant to this section.
+
+Closure or Disapproval
+
+Educational Assistance Described
+
+Housing Assistance
+
+Period Not Charged
+
+Continuing Pursuit of Disapproved Courses
+
+Status as Full-time Student for Purposes of Housing Stipend Calculation
+
+Notice of Closures
+
+## Source Credit
+
+*(Added [Pub. L. 117–333, § 2(a)(2)](https://www.govinfo.gov/link/plaw/117/public/333), Jan. 5, 2023, [136 Stat. 6123](https://www.govinfo.gov/link/statute/136/6123).)*

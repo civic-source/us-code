@@ -3,9 +3,10 @@ title: "Section 928 - Spectrum Relocation Fund"
 usc_title: 47
 usc_section: "928"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 928"
-generated_at: "2026-03-30T02:56:24.528Z"
+generated_at: "2026-11-23T21:26:36.079Z"
+status: "active"
 ---
 
 # § 928. Spectrum Relocation Fund
@@ -84,3 +85,15 @@ generated_at: "2026-03-30T02:56:24.528Z"
 - **(i)** No amounts in the Fund on the day before February 22, 2012 , may be used for any purpose except—
   - **(1)** to pay the relocation or sharing costs incurred by eligible Federal entities in order to relocate from the frequencies the auction of which generated such amounts; or
   - **(2)** to pay relocation or sharing costs related to pre-auction estimates or research, in accordance with subsection (d)(3).
+
+(aa) increase the probability of relocation from or sharing of Federal spectrum;
+
+(bb) facilitate an auction intended to occur not later than 8 years after the payment; and
+
+(cc) increase the net expected auction proceeds in an amount not less than the time value of the amount of the payment; and
+
+“The National Telecommunications and Information Administration shall submit an annual report to the Committees on Appropriations and Energy and Commerce of the House of Representatives, the Committees on Appropriations and Commerce, Science, and Transportation of the Senate, and the Comptroller General on—
+
+## Source Credit
+
+*([Pub. L. 102–538, title I, § 118](https://www.govinfo.gov/link/plaw/102/public/538), as added [Pub. L. 108–494, title II, § 204](https://www.govinfo.gov/link/plaw/108/public/494), Dec. 23, 2004, [118 Stat. 3994](https://www.govinfo.gov/link/statute/118/3994); amended [Pub. L. 111–8, div. G, title I, § 1301(a)](https://www.govinfo.gov/link/plaw/111/public/8), Mar. 11, 2009, [123 Stat. 829](https://www.govinfo.gov/link/statute/123/829); [Pub. L. 112–96, title VI, § 6702](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 252](https://www.govinfo.gov/link/statute/126/252); [Pub. L. 114–74, title X, § 1005(a)](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 622](https://www.govinfo.gov/link/statute/129/622); [Pub. L. 115–141, div. P, title VI](https://www.govinfo.gov/link/plaw/115/public/141), §§ 612, 613, Mar. 23, 2018, [132 Stat. 1109](https://www.govinfo.gov/link/statute/132/1109).)*

@@ -3,9 +3,10 @@ title: "Section 4163 - Monitoring of compliance"
 usc_title: 25
 usc_section: "4163"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4163"
-generated_at: "2026-03-30T02:54:52.860Z"
+generated_at: "2026-11-23T21:25:54.710Z"
+status: "active"
 ---
 
 # § 4163. Monitoring of compliance
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:52.860Z"
 - **(a)** Each recipient, through binding contractual agreements with owners and otherwise, shall ensure long-term compliance with the provisions of this chapter. Such measures shall provide for (1) enforcement of the provisions of this chapter by the grant beneficiary or by recipients and other intended beneficiaries, and (2) remedies for the breach of such provisions.
 - **(b)** Not less frequently than annually, each recipient shall review the activities conducted and housing assisted under this chapter to assess compliance with the requirements of this chapter. Such review shall include an appropriate level of onsite inspection of housing to determine compliance with applicable requirements. The results of each review shall be included in the performance report of the recipient submitted to the Secretary under section 4164 of this title and made available to the public.
 - **(c)** The Secretary shall establish such performance measures as may be necessary to assess compliance with the requirements of this chapter.
+
+## Source Credit
+
+*([Pub. L. 104–330, title IV, § 403](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4039](https://www.govinfo.gov/link/statute/110/4039); [Pub. L. 110–411, title IV, § 402](https://www.govinfo.gov/link/plaw/110/public/411), Oct. 14, 2008, [122 Stat. 4330](https://www.govinfo.gov/link/statute/122/4330).)*

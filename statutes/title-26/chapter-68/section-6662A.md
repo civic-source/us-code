@@ -3,9 +3,10 @@ title: "Section 6662A - Imposition of accuracy-related penalty on understatement
 usc_title: 26
 usc_section: "6662A"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6662A"
-generated_at: "2026-03-30T02:55:27.862Z"
+generated_at: "2026-11-23T21:26:06.913Z"
+status: "active"
 ---
 
 # § 6662A. Imposition of accuracy-related penalty on understatements with respect to reportable transactions
@@ -30,3 +31,23 @@ generated_at: "2026-03-30T02:55:27.862Z"
     - **(A)** This section shall not apply to any portion of an understatement on which a penalty is imposed under section 6663.
     - **(B)** This section shall not apply to any portion of an understatement on which a penalty is imposed under section 6662 if the rate of the penalty is determined under subsections (h) or (i) of section 6662.
   - **(3)** Except as provided in regulations, in no event shall any tax treatment included with an amendment or supplement to a return of tax be taken into account in determining the amount of any reportable transaction understatement if the amendment or supplement is filed after the earlier of the date the taxpayer is first contacted by the Secretary regarding the examination of the return or such other date as is specified by the Secretary.
+
+Application of fraud penalty
+
+No double penalty
+
+Coordination with valuation penalties
+
+Section 6662
+
+Section 6662
+
+In General
+
+Additional Information
+
+Date of Report
+
+## Source Credit
+
+*(Added [Pub. L. 108–357, title VIII, § 812(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1577](https://www.govinfo.gov/link/statute/118/1577); amended [Pub. L. 109–135, title IV, § 403(x)(2)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2629](https://www.govinfo.gov/link/statute/119/2629); [Pub. L. 111–152, title I, § 1409(b)(3)](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1069](https://www.govinfo.gov/link/statute/124/1069); [Pub. L. 113–295, div. A, title II, § 220(w)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4036](https://www.govinfo.gov/link/statute/128/4036).)*

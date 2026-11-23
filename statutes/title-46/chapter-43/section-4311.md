@@ -3,9 +3,10 @@ title: "Section 4311 - Penalties and injunctions"
 usc_title: 46
 usc_section: "4311"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 4311"
-generated_at: "2026-03-30T02:56:15.547Z"
+generated_at: "2026-11-23T21:26:37.064Z"
+status: "active"
 ---
 
 # § 4311. Penalties and injunctions
@@ -28,3 +29,34 @@ generated_at: "2026-03-30T02:56:15.547Z"
   - **(1)** establishes that the person did not have reason to know, in exercising reasonable care, that a recreational vessel or associated equipment does not conform with the applicable safety standards of the Government or that the person was not advised by the Secretary or the manufacturer of that vessel, equipment or component that the vessel, equipment or component contains a defect which creates a substantial risk of personal injury to the public; or
   - **(2)** holds a certificate issued by the manufacturer of that recreational vessel or associated equipment to the effect that the recreational vessel or associated equipment conforms to all applicable recreational vessel safety standards of the Government, unless the person knows or reasonably should have known that the recreational vessel or associated equipment does not so conform.
 - **(h)** Compliance with this chapter or standards, regulations, or orders prescribed under this chapter does not relieve a person from liability at common law or under State law.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 4311(a) | 46:1483 |
+| 4311(b) | 46:1484(a) |
+| 4311(c) | 46:1484(b) |
+| 4311(d) | 46:1484(d) |
+| 4311(e) | 46:1485 |
+| 4311(f) | 46:1461(b) |
+| 4311(g) | 46:1489 |
+
+
+Historical and Revision Notes
+
+4311(a)
+
+4311(b)
+
+4311(c)
+
+4311(d)
+
+4311(e)
+
+4311(f)
+
+4311(g)
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 534](https://www.govinfo.gov/link/statute/97/534); [Pub. L. 98–557, § 8(b)](https://www.govinfo.gov/link/plaw/98/public/557), (c), Oct. 30, 1984, [98 Stat. 2862](https://www.govinfo.gov/link/statute/98/2862); [Pub. L. 101–650, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117); [Pub. L. 108–293, title IV, § 406](https://www.govinfo.gov/link/plaw/108/public/293), Aug. 9, 2004, [118 Stat. 1043](https://www.govinfo.gov/link/statute/118/1043); [Pub. L. 109–241, title IX, § 901(e)](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 564](https://www.govinfo.gov/link/statute/120/564); [Pub. L. 116–283, div. G, title LVXXXIII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXIII], § 8316(b), Jan. 1, 2021, [134 Stat. 4699](https://www.govinfo.gov/link/statute/134/4699).)*

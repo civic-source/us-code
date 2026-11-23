@@ -3,9 +3,10 @@ title: "Section 19115 - Scaling innovations in PreK–12 STEM education"
 usc_title: 42
 usc_section: "19115"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19115"
-generated_at: "2026-03-30T02:56:11.540Z"
+generated_at: "2026-11-23T21:26:33.871Z"
+status: "active"
 ---
 
 # § 19115. Scaling innovations in PreK–12 STEM education
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:11.540Z"
   - **(1)** a description of the focus and proposed goals of each Center;
   - **(2)** an assessment, based on a common set of benchmarks and tools, of the Centers’ success in helping to promote scalable solutions in PreK–12 STEM education; and
   - **(3)** any recommendations for administrative and legislative action that could optimize the effectiveness of the Centers established under this section.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10395](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1591](https://www.govinfo.gov/link/statute/136/1591).)*

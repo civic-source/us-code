@@ -3,12 +3,17 @@ title: "Section 18112 - Transparency in Government"
 usc_title: 42
 usc_section: "18112"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18112"
-generated_at: "2026-03-30T02:56:11.516Z"
+generated_at: "2026-11-23T21:26:33.816Z"
+status: "active"
 ---
 
 # § 18112. Transparency in Government
 
 Not later than 30 days after March 23, 2010 , the Secretary of Health and Human Services shall publish on the Internet website of the Department of Health and Human Services, a list of all of the authorities provided to the Secretary under this Act (and the amendments made by this Act).
 
+
+## Source Credit
+
+*([Pub. L. 111–148, title I, § 1552](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 258](https://www.govinfo.gov/link/statute/124/258).)*

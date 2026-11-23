@@ -3,9 +3,10 @@ title: "Section 6324 - Contractor liability for injury or loss of property arisi
 usc_title: 10
 usc_section: "6324"
 chapter: 608
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6324"
-generated_at: "2026-03-30T02:53:38.226Z"
+generated_at: "2026-11-23T21:25:32.828Z"
+status: "active"
 ---
 
 # § 6324. Contractor liability for injury or loss of property arising out of atomic weapons testing programs
@@ -17,3 +18,21 @@ generated_at: "2026-03-30T02:53:38.226Z"
 - **(c)** A contractor against whom a civil action or proceeding described in subsection (b) is brought shall promptly deliver all processes served upon that contractor to the Attorney General of the United States. Upon certification by the Attorney General that the suit against the contractor is within the provisions of subsection (b), a civil action or proceeding commenced in a State court shall be removed without bond at any time before trial by the Attorney General to the district court of the United States for the district and division embracing the place wherein it is pending and the proceedings shall be deemed a tort action brought against the United States under the provisions of section 1346(b), 2401(b), or 2402, or sections 2671 through 2680 of title 28. For purposes of removal, the certification by the Attorney General under this subsection establishes contractor status conclusively.
 - **(d)** The provisions of this section shall apply to any action, within the provisions of subsection (b), which is pending on November 5, 1990 , or commenced on or after such date. Notwithstanding section 2401(b) of title 28 , if a civil action or proceeding to which this section applies is pending on November 5, 1990 , and is dismissed because the plaintiff in such action or proceeding did not file an administrative claim as required by section 2672 of that title, the plaintiff in that action or proceeding shall have 30 days from the date of the dismissal or two years from the date upon which the claim accrued, whichever is later, to file an administrative claim, and any claim or subsequent civil action or proceeding shall thereafter be subject to the provisions of section 2401(b) of title 28 .
 - **(e)** For purposes of this section, the term “contractor” includes a contractor or cost reimbursement subcontractor of any tier participating in the conduct of the United States atomic weapons testing program for the Department of Energy (or its predecessor agencies, including the Manhattan Engineer District, the Atomic Energy Commission, and the Energy Research and Development Administration). Such term also includes facilities which conduct or have conducted research concerning health effects of ionizing radiation in connection with the testing under contract with the Department of Energy (or any of its predecessor agencies).
+
+Short Title
+
+Federal Remedies Applicable; Exclusiveness of Remedies
+
+Procedure
+
+Actions Covered
+
+Contractor Defined
+
+“Remedy”
+
+“Exclusivity”
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2), Dec. 18, 2025, [139 Stat. 1442](https://www.govinfo.gov/link/statute/139/1442), 1462.)*

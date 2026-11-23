@@ -3,9 +3,10 @@ title: "Section 6075 - Time for filing estate and gift tax returns"
 usc_title: 26
 usc_section: "6075"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6075"
-generated_at: "2026-03-30T02:55:27.837Z"
+generated_at: "2026-11-23T21:26:06.795Z"
+status: "active"
 ---
 
 # § 6075. Time for filing estate and gift tax returns
@@ -15,3 +16,9 @@ generated_at: "2026-03-30T02:55:27.837Z"
   - **(1)** Returns made under section 6019 (relating to gift taxes) shall be filed on or before the 15th day of April following the close of the calendar year.
   - **(2)** Any extension of time granted the taxpayer for filing the return of income taxes imposed by subtitle A for any taxable year which is a calendar year shall be deemed to be also an extension of time granted the taxpayer for filing the return under section 6019 for such calendar year.
   - **(3)** Notwithstanding paragraphs (1) and (2), the time for filing the return made under section 6019 for the calendar year which includes the date of death of the donor shall not be later than the time (including extensions) for filing the return made under section 6018 (relating to estate tax returns) with respect to such donor.
+
+“In the case of the estate of a decedent dying after December 31, 2009 , and before the date of the enactment of this Act [ Dec. 17, 2010 ], the due date for—
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 751; [Pub. L. 91–614, title I](https://www.govinfo.gov/link/plaw/91/public/614), §§ 101(b), 102(d)(4), Dec. 31, 1970, [84 Stat. 1836](https://www.govinfo.gov/link/statute/84/1836), 1842; [Pub. L. 94–455, title XX, § 2008(b)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1892](https://www.govinfo.gov/link/statute/90/1892); [Pub. L. 96–167, § 8(a)](https://www.govinfo.gov/link/plaw/96/public/167) –(c), Dec. 29, 1979, [93 Stat. 1277](https://www.govinfo.gov/link/statute/93/1277), 1278; [Pub. L. 97–34, title IV, § 442(d)(3)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 322](https://www.govinfo.gov/link/statute/95/322); [Pub. L. 107–16, title V, § 542(b)(3)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 83](https://www.govinfo.gov/link/statute/115/83); [Pub. L. 111–312, title III, § 301(a)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3300](https://www.govinfo.gov/link/statute/124/3300).)*

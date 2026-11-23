@@ -3,9 +3,10 @@ title: "Section 2 - Acquisition, management, and disposal of lands by Tulalip Tr
 usc_title: 25
 usc_section: "2"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2"
-generated_at: "2026-03-30T02:54:52.807Z"
+generated_at: "2026-11-23T21:25:54.574Z"
+status: "active"
 ---
 
 # § 403a–2. Acquisition, management, and disposal of lands by Tulalip Tribe
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:52.807Z"
 - **(b)** The Secretary of the Interior may accept any transfer of title from the Tulalip Tribes for any land or fractional interest in land within the boundaries of the Tulalip Reservation, and take title to such land in the name of the United States in trust for the Tulalip Tribes, and such lands shall not be subject to taxation.
 - **(c)** The Tulalip Tribes may, with the approval of the Secretary of the Interior, execute mortgages or deeds of trust to land, the title to which is held by the Tulalip Tribes or by the United States in trust for the Tulalip Tribes. Such land shall be subject to foreclosure and sale pursuant to the terms of such mortgage or deed of trust in accordance with the laws of the State of Washington. For the purpose of any foreclosure or sale proceeding, the Tulalip Tribes shall be regarded as vested with an unrestricted fee simple title to the land, the United States shall not be a necessary party to the foreclosure or sale proceeding, and any conveyance of the land pursuant to the foreclosure or sale proceeding shall divest the United States of title to the land. Title to any land redeemed or acquired by the Tulalip Tribes at such foreclosure or sale proceeding shall be taken in the name of the United States in trust for the tribes. Title to any land purchased by an individual Indian member of the Tulalip Tribes at such foreclosure sale or proceeding may, with the consent of the Secretary of the Interior, be taken in the name of the United States in trust for the individual Indian purchaser.
 - **(d)** Any moneys or credits received or credited to the Tulalip Tribes from the sale, exchange, mortgage, or granting of any security interest in any tribal land may be used for any tribal purpose.
+
+## Source Credit
+
+*(June 18, 1956, ch. 400, § 2, [70 Stat. 290](https://www.govinfo.gov/link/statute/70/290); [Pub. L. 91–274, § 1](https://www.govinfo.gov/link/plaw/91/public/274), June 2, 1970, [84 Stat. 301](https://www.govinfo.gov/link/statute/84/301).)*

@@ -3,9 +3,10 @@ title: "Section 410ff - Establishment"
 usc_title: 16
 usc_section: "410ff"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410ff"
-generated_at: "2026-03-30T02:54:22.765Z"
+generated_at: "2026-11-23T21:25:51.443Z"
+status: "active"
 ---
 
 # § 410ff. Establishment
@@ -18,3 +19,11 @@ In order to protect the nationally significant natural, scenic, wildlife, marine
   - **(4)** the Eolian landforms and caliche;
   - **(5)** the presumed burial place of Juan Rod­riquez Cabrillo; and
   - **(6)** the archaeological evidence of substantial populations of Native Americans;
+
+Designation
+
+Legal References
+
+## Source Credit
+
+*([Pub. L. 96–199, title II, § 201](https://www.govinfo.gov/link/plaw/96/public/199), Mar. 5, 1980, [94 Stat. 74](https://www.govinfo.gov/link/statute/94/74).)*

@@ -3,9 +3,10 @@ title: "Section 1862n - Mathematics and science education partnerships"
 usc_title: 42
 usc_section: "1862n"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1862n"
-generated_at: "2026-03-30T02:56:11.125Z"
+generated_at: "2026-11-23T21:26:32.204Z"
+status: "active"
 ---
 
 # § 1862n. Mathematics and science education partnerships
@@ -108,3 +109,43 @@ generated_at: "2026-03-30T02:56:11.125Z"
 - **(d)** In this section—
   - **(1)** the term “mathematics and science teacher” means a science, technology, engineering, or mathematics teacher at the elementary school or secondary school level; and
   - **(2)** the term “science”, in the context of elementary and secondary education, includes technology and pre-engineering.
+
+“Congress finds the following:
+
+“In this Act [see Short Title of 2002 Amendment note set out under section 1861 of this title ]:
+
+Academic unit
+
+Board
+
+Community college
+
+Director
+
+Elementary school
+
+Eligible nonprofit organization
+
+Foundation
+
+High-need local educational agency
+
+Institution of higher education
+
+Local educational agency
+
+Master teacher
+
+National research facility
+
+Secondary school
+
+State
+
+State educational agency
+
+United states
+
+## Source Credit
+
+*([Pub. L. 107–368, § 9](https://www.govinfo.gov/link/plaw/107/public/368), Dec. 19, 2002, [116 Stat. 3044](https://www.govinfo.gov/link/statute/116/3044); [Pub. L. 110–69, title VII](https://www.govinfo.gov/link/plaw/110/public/69), §§ 7028, 7029, Aug. 9, 2007, [121 Stat. 696](https://www.govinfo.gov/link/statute/121/696), 697; [Pub. L. 114–95, title IX, § 9215(ggg)(2)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2186](https://www.govinfo.gov/link/statute/129/2186); [Pub. L. 114–329, title II, § 204(a)(3)(C)](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 2999](https://www.govinfo.gov/link/statute/130/2999); [Pub. L. 117–167, div. B, title III, § 10319(a)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1536](https://www.govinfo.gov/link/statute/136/1536).)*

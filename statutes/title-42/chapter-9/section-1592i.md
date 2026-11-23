@@ -3,9 +3,10 @@ title: "Section 1592i - Laborers and mechanics"
 usc_title: 42
 usc_section: "1592i"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1592i"
-generated_at: "2026-03-30T02:56:11.105Z"
+generated_at: "2026-11-23T21:26:32.102Z"
+status: "active"
 ---
 
 # § 1592i. Laborers and mechanics
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.105Z"
 - **(c)** Any contract for loan or grant, or both, pursuant to this subchapter shall contain a provision requiring that not less than the wages prevailing in the locality, as predetermined by the Secretary of Labor pursuant to sections 3141–3144, 3146, and 3147 of title 40, shall be paid to all laborers and mechanics employed in the construction of the project at the site thereof; and the Secretary of Housing and Urban Development shall require certification as to compliance with the provisions of this subsection prior to making any payment under such contract.
 - **(d)** Any contractor engaged in the development of any project financed in whole or in part with funds made available pursuant to this subchapter shall report monthly to the Secretary of Labor, and shall cause all subcontractors to report in like manner, within five days after the close of each month and on forms to be furnished by the United States Department of Labor, as to the number of persons on their respective payrolls on the particular project, the aggregate amount of such payrolls, the total man-hours worked, and itemized expenditures for materials. Any such contractor shall furnish to the Department of Labor the names and addresses of all subcontractors on the work at the earliest date practicable.
 - **(e)** The Secretary of Labor shall prescribe appropriate standards, regulations, and procedures, which shall be observed by the Secretary of Housing and Urban Development in carrying out the provisions of this subchapter (and cause to be made by the Department of Labor such investigations) with respect to compliance with and enforcement of the labor standards provisions of this section, as the Secretary deems desirable.
+
+## Source Credit
+
+*(Sept. 1, 1951, ch. 378, title III, § 310, [65 Stat. 307](https://www.govinfo.gov/link/statute/65/307); [Pub. L. 89–174, § 5(a)](https://www.govinfo.gov/link/plaw/89/public/174), Sept. 9, 1965, [79 Stat. 669](https://www.govinfo.gov/link/statute/79/669).)*

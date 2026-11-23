@@ -3,9 +3,10 @@ title: "Section 1788 - Team nutrition network"
 usc_title: 42
 usc_section: "1788"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1788"
-generated_at: "2026-03-30T02:56:11.122Z"
+generated_at: "2026-11-23T21:26:32.189Z"
+status: "active"
 ---
 
 # § 1788. Team nutrition network
@@ -103,3 +104,7 @@ generated_at: "2026-03-30T02:56:11.122Z"
       - **(ix)** successfully generating revenue through the sale of food items, while providing healthy options to students through vending, student stores, and other venues.
   - **(2)** Not later than 3 years after funds are made available to carry out this subsection, the Secretary shall submit to the Committee on Education and the Workforce of the House of Representatives, the Committee on Health, Education, Labor, and Pensions and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the findings of the independent evaluation.
 - **(l)** There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 89–642, § 19](https://www.govinfo.gov/link/plaw/89/public/642), as added [Pub. L. 95–166, § 15](https://www.govinfo.gov/link/plaw/95/public/166), Nov. 10, 1977, [91 Stat. 1340](https://www.govinfo.gov/link/statute/91/1340); amended [Pub. L. 96–499, title II, § 213](https://www.govinfo.gov/link/plaw/96/public/499), Dec. 5, 1980, [94 Stat. 2603](https://www.govinfo.gov/link/statute/94/2603); [Pub. L. 97–35, title VIII](https://www.govinfo.gov/link/plaw/97/public/35), §§ 806, 817(f), Aug. 13, 1981, [95 Stat. 527](https://www.govinfo.gov/link/statute/95/527), 532; [Pub. L. 99–500, title III](https://www.govinfo.gov/link/plaw/99/public/500), §§ 315, 362, 372(b), 373(b), Oct. 18, 1986, [100 Stat. 1783–360](https://www.govinfo.gov/link/statute/100/1783), 1783–368, 1783–369, and [Pub. L. 99–591, title III](https://www.govinfo.gov/link/plaw/99/public/591), §§ 315, 362, 372(b), 373(b), Oct. 30, 1986, [100 Stat. 3341–363](https://www.govinfo.gov/link/statute/100/3341), 3341–371, 3341–372; [Pub. L. 99–661, div. D, title I, § 4105](https://www.govinfo.gov/link/plaw/99/public/661), title IV, § 4402, title V, §§ 4502(b), 4503(b), Nov. 14, 1986, [100 Stat. 4071](https://www.govinfo.gov/link/statute/100/4071), 4079–4081; [Pub. L. 101–147, title I, § 124](https://www.govinfo.gov/link/plaw/101/public/147), title II, § 214, title III, § 327, Nov. 10, 1989, [103 Stat. 905](https://www.govinfo.gov/link/statute/103/905), 913, 918; [Pub. L. 103–448, title II, § 205](https://www.govinfo.gov/link/plaw/103/public/448), Nov. 2, 1994, [108 Stat. 4746](https://www.govinfo.gov/link/statute/108/4746); [Pub. L. 104–193, title VII, § 731(a)](https://www.govinfo.gov/link/plaw/104/public/193) –(f), Aug. 22, 1996, [110 Stat. 2305–2307](https://www.govinfo.gov/link/statute/110/2305); [Pub. L. 105–336, title II, § 204](https://www.govinfo.gov/link/plaw/105/public/336), Oct. 31, 1998, [112 Stat. 3167](https://www.govinfo.gov/link/statute/112/3167); [Pub. L. 106–78, title VII, § 752(b)(16)](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1170](https://www.govinfo.gov/link/statute/113/1170); [Pub. L. 108–265, title II, § 205(a)](https://www.govinfo.gov/link/plaw/108/public/265), June 30, 2004, [118 Stat. 782](https://www.govinfo.gov/link/statute/118/782).)*

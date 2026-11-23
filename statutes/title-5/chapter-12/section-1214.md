@@ -3,9 +3,10 @@ title: "Section 1214 - Investigation of prohibited personnel practices; correcti
 usc_title: 5
 usc_section: "1214"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 1214"
-generated_at: "2026-03-30T02:52:55.995Z"
+generated_at: "2026-11-23T21:25:23.109Z"
+status: "active"
 ---
 
 # § 1214. Investigation of prohibited personnel practices; corrective action
@@ -90,3 +91,11 @@ generated_at: "2026-03-30T02:52:55.995Z"
   - **(2)** reimbursement for attorney’s fees, back pay and related benefits, medical costs incurred, travel expenses, any other reasonable and foreseeable consequential damages, and compensatory damages (including interest, reasonable expert witness fees, and costs).
 - **(h)** Any corrective action ordered under this section to correct a prohibited personnel practice may include fees, costs, or damages reasonably incurred due to an agency investigation of the employee, if such investigation was commenced, expanded, or extended in retaliation for the disclosure or protected activity that formed the basis of the corrective action.
 - **(i)** The Special Counsel may petition the Board to order corrective action, including fees, costs, or damages reasonably incurred by an employee due to an investigation of the employee by an agency, if the investigation by an agency was commenced, expanded, or extended in retaliation for a disclosure or protected activity described in section 2302(b)(8) or subparagraph (A)(i), (B), (C), or (D) of section 2302(b)(9), without regard to whether a personnel action, as defined in section 2302(a)(2)(A), is taken.
+
+(aa) made by the individual; and
+
+(bb) investigated by the Special Counsel; or
+
+## Source Credit
+
+*(Added [Pub. L. 101–12, § 3(a)(13)](https://www.govinfo.gov/link/plaw/101/public/12), Apr. 10, 1989, [103 Stat. 23](https://www.govinfo.gov/link/statute/103/23); amended [Pub. L. 103–424](https://www.govinfo.gov/link/plaw/103/public/424), §§ 3(c), (d), 8(a), Oct. 29, 1994, [108 Stat. 4362](https://www.govinfo.gov/link/statute/108/4362), 4364; [Pub. L. 112–199, title I](https://www.govinfo.gov/link/plaw/112/public/199), §§ 101(b)(1)(A), (2)(A), 104(c)(1), 107(b), 114(a), Nov. 27, 2012, [126 Stat. 1465](https://www.govinfo.gov/link/statute/126/1465), 1468, 1469, 1472; [Pub. L. 115–42, § 1](https://www.govinfo.gov/link/plaw/115/public/42), June 27, 2017, [131 Stat. 883](https://www.govinfo.gov/link/statute/131/883); [Pub. L. 115–73, title I, § 102(a)](https://www.govinfo.gov/link/plaw/115/public/73), Oct. 26, 2017, [131 Stat. 1236](https://www.govinfo.gov/link/statute/131/1236); [Pub. L. 115–91, div. A, title X, § 1097(c)(3)(A)](https://www.govinfo.gov/link/plaw/115/public/91), (4), (f), (j), Dec. 12, 2017, [131 Stat. 1619](https://www.govinfo.gov/link/statute/131/1619), 1622, 1625.)*

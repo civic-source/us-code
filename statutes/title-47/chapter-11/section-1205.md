@@ -3,9 +3,10 @@ title: "Section 1205 - Funding"
 usc_title: 47
 usc_section: "1205"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1205"
-generated_at: "2026-03-30T02:56:24.530Z"
+generated_at: "2026-11-23T21:26:36.088Z"
+status: "active"
 ---
 
 # § 1205. Funding
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:24.530Z"
 - **(a)** In addition to any amounts provided by appropriation Acts, funding for this chapter shall be provided from the Digital Transition and Public Safety Fund in accordance with section 3010 of the Digital Television Transition and Public Safety Act of 2005 ( 47 U.S.C. 309 note).
 - **(b)** The Assistant Secretary of Commerce for Communications and Information shall compensate any such broadcast station licensee or permittee for reasonable costs incurred in complying with the requirements imposed pursuant to section 1201(c) of this title from funds made available under this section. The Assistant Secretary shall ensure that sufficient funds are made available to effectuate geographically targeted alerts.
 - **(c)** The Assistant Secretary of Commerce for Communications and Information, in consultation with the Under Secretary of Homeland Security for Science and Technology and the Under Secretary of Commerce for Oceans and Atmosphere, may borrow from the Treasury beginning on October 1, 2006 , such sums as may be necessary, but not to exceed $106,000,000, to implement this chapter. The Assistant Secretary of Commerce for Communications and Information shall ensure that the Under Secretary of Homeland Security for Science and Technology and the Under Secretary of Commerce for Oceans and Atmosphere are provided adequate funds to carry out their responsibilities under sections 1203 and 1204 of this title. The Treasury shall be reimbursed, without interest, from amounts in the Digital Television Transition and Public Safety Fund as funds are deposited into the Fund.
+
+## Source Credit
+
+*([Pub. L. 109–347, title VI, § 606](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1941](https://www.govinfo.gov/link/statute/120/1941).)*

@@ -3,9 +3,10 @@ title: "Section 7221e - Federal formula allocation during first year and for suc
 usc_title: 20
 usc_section: "7221e"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7221e"
-generated_at: "2026-03-30T02:54:48.207Z"
+generated_at: "2026-11-23T21:25:47.560Z"
+status: "active"
 ---
 
 # § 7221e. Federal formula allocation during first year and for successive enrollment expansions
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:48.207Z"
   - **(1)** The measures described in subsection (a) shall include provision for appropriate adjustments, through recovery of funds or reduction of payments for the succeeding year, in cases where payments made to a charter school on the basis of estimated or projected enrollment data exceed the amounts that the school is eligible to receive on the basis of actual or final enrollment data.
   - **(2)** For charter schools that first open after November 1 of any academic year, the State, in accordance with guidance provided by the Secretary and applicable Federal statutes and regulations, shall ensure that such charter schools that are eligible for the funds described in subsection (a) for such academic year have a full and fair opportunity to receive those funds during the charter schools’ first year of operation.
 - **(c)** For purposes of implementing the hold harmless protections in sections 6332(c) and 6337(g)(3) 1 1 See References in Text note below. of this title for a newly opened or significantly expanded charter school under this part, a State educational agency shall calculate a hold-harmless base for the prior year that, as applicable, reflects the new or significantly expanded enrollment of the charter school.
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4306](https://www.govinfo.gov/link/plaw/89/public/10), formerly title V, § 5206, as added [Pub. L. 107–110, title V, § 501](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1797](https://www.govinfo.gov/link/statute/115/1797); renumbered title IV, § 4306, and amended [Pub. L. 114–95, title IV](https://www.govinfo.gov/link/plaw/114/public/95), §§ 4001(b)(2)(A), (B), (D)(iii), 4301(2), Dec. 10, 2015, [129 Stat. 1967](https://www.govinfo.gov/link/statute/129/1967), 2011.)*

@@ -3,9 +3,10 @@ title: "Section 717 - Limitation on administrative leave"
 usc_title: 38
 usc_section: "717"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 717"
-generated_at: "2026-03-30T02:55:53.475Z"
+generated_at: "2026-11-23T21:26:16.563Z"
+status: "active"
 ---
 
 # § 717. Limitation on administrative leave
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:55:53.475Z"
 - **(c)** In this section, the term “covered individual” means an employee of the Department—
   - **(1)** who is subject to an investigation for purposes of determining whether such individual should be subject to any disciplinary action under this title or title 5; or
   - **(2)** against whom any disciplinary action is proposed or initiated under this title or title 5.
+
+In General
+
+Waiver
+
+Covered Individual
+
+## Source Credit
+
+*(Added [Pub. L. 114–315, title V, § 503(a)(1)](https://www.govinfo.gov/link/plaw/114/public/315), Dec. 16, 2016, [130 Stat. 1568](https://www.govinfo.gov/link/statute/130/1568).)*

@@ -3,9 +3,10 @@ title: "Section 5339 - Grants for buses and bus facilities"
 usc_title: 49
 usc_section: "5339"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 5339"
-generated_at: "2026-03-30T02:56:19.317Z"
+generated_at: "2026-11-23T21:26:40.662Z"
+status: "active"
 ---
 
 # § 5339. Grants for buses and bus facilities
@@ -136,3 +137,143 @@ generated_at: "2026-03-30T02:56:19.317Z"
     - **(A)** A recipient of a grant under this subsection may submit an application in partnership with other entities, including a transit vehicle manufacturer, that intends to participate in the implementation of an eligible project under this subsection.
     - **(B)** Eligible projects awarded with partnerships under this subsection shall be considered to satisfy the requirement for a competitive procurement under section 5325.
 - **(d)** 5 percent of grants related to zero emissions vehicles (as defined in subsection (c)(1)) or related infrastructure under subsection (b) or (c) shall be used by recipients to fund workforce development training, as described in section 5314(b)(2) (including registered apprenticeships and other labor-management training programs) under the recipient’s plan to address the impact of the transition to zero emission vehicles on the applicant’s current workforce under subsection (c)(3)(D), unless the recipient certifies a smaller percentage is necessary to carry out that plan.
+
+Formula Grants.—
+
+Definitions
+
+General authority
+
+Grant requirements
+
+Eligible recipients.—
+
+Recipients
+
+Subrecipients
+
+Distribution of grant funds
+
+National distribution
+
+Distribution using population and service factors
+
+Transfers of apportionments.—
+
+Transfer flexibility for national distribution funds
+
+Transfer flexibility for population and service factors funds
+
+Government share of costs.—
+
+Capital projects
+
+Remaining costs
+
+Period of availability to recipients
+
+Pilot program for cost-effective capital investment.—
+
+In general
+
+Purpose of state pools
+
+Requests for participation
+
+Allocations to participating states
+
+Allocations to eligible recipients in state pools
+
+Allocation plans
+
+Grants
+
+Maximizing use of funds.—
+
+In general
+
+Written explanation
+
+Buses and Bus Facilities Competitive Grants.—
+
+In general
+
+Grant considerations
+
+Statewide applications
+
+Requirements for the secretary
+
+Rural projects.—
+
+In general
+
+Unutilized amounts
+
+Grant requirements.—
+
+In general
+
+Government share of costs
+
+Availability of funds
+
+Limitation
+
+Competitive process
+
+Continued use of partnerships.—
+
+In general
+
+Competitive procurement
+
+Maximizing use of funds.—
+
+In general
+
+Written explanation
+
+Low or No Emission Grants.—
+
+Definitions
+
+General authority
+
+Grant requirements.—
+
+In general
+
+Government share of costs for certain projects
+
+Combination of funding sources.—
+
+Combination permitted
+
+Government share
+
+Fleet transition plan
+
+Competitive process
+
+Consideration
+
+Availability of funds
+
+Government share of costs.—
+
+In general
+
+Non-federal share
+
+Continued use of partnerships.—
+
+In general
+
+Competitive procurement
+
+Workforce Development Training Activities
+
+## Source Credit
+
+*(Added [Pub. L. 108–7, div. I, title III, § 356](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 421](https://www.govinfo.gov/link/statute/117/421); amended [Pub. L. 109–59, title III, § 3037(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1635](https://www.govinfo.gov/link/statute/119/1635); [Pub. L. 112–141, div. B, § 20029(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 729](https://www.govinfo.gov/link/statute/126/729); [Pub. L. 113–159, title I, § 1204](https://www.govinfo.gov/link/plaw/113/public/159), Aug. 8, 2014, [128 Stat. 1847](https://www.govinfo.gov/link/statute/128/1847); [Pub. L. 114–21, title I, § 1204](https://www.govinfo.gov/link/plaw/114/public/21), May 29, 2015, [129 Stat. 225](https://www.govinfo.gov/link/statute/129/225); [Pub. L. 114–41, title I, § 1204](https://www.govinfo.gov/link/plaw/114/public/41), July 31, 2015, [129 Stat. 452](https://www.govinfo.gov/link/statute/129/452); [Pub. L. 114–73, title I, § 1204](https://www.govinfo.gov/link/plaw/114/public/73), Oct. 29, 2015, [129 Stat. 575](https://www.govinfo.gov/link/statute/129/575); [Pub. L. 114–87, title I, § 1204](https://www.govinfo.gov/link/plaw/114/public/87), Nov. 20, 2015, [129 Stat. 684](https://www.govinfo.gov/link/statute/129/684); [Pub. L. 114–94, div. A, title III, § 3017(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1482](https://www.govinfo.gov/link/statute/129/1482); [Pub. L. 117–58, div. C, § 30018](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 915](https://www.govinfo.gov/link/statute/135/915).)*

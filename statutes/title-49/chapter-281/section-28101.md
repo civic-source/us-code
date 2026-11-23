@@ -3,9 +3,10 @@ title: "Section 28101 - Rail police officers"
 usc_title: 49
 usc_section: "28101"
 chapter: 281
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 28101"
-generated_at: "2026-03-30T02:56:19.350Z"
+generated_at: "2026-11-23T21:26:40.751Z"
+status: "active"
 ---
 
 # § 28101. Rail police officers
@@ -22,3 +23,38 @@ generated_at: "2026-03-30T02:56:19.350Z"
 - **(d)**
   - **(1)** A State may recognize as meeting that State’s basic police officer certification or commissioning requirements for qualification as a rail police officer under this section any individual who successfully completes a program at a State-recognized police training academy in another State or at a Federal law enforcement training center and who is certified or commissioned as a police officer by that other State.
   - **(2)** Nothing in this subsection shall be construed as superseding or affecting any State training requirements related to criminal law, criminal procedure, motor vehicle code, any other State law, or State-mandated comparative or annual in-service training academy or Federal law enforcement training center.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 26101 | 45:446. | Nov. 29, 1990 , Pub. L. 101–647, § 1704 , 104 Stat. 4846 . |
+
+
+In General
+
+Assignment
+
+Transfers.—
+
+In general
+
+Interim period
+
+Training.—
+
+In general
+
+Rule of construction
+
+Historical and Revision Notes
+
+26101
+
+Nov. 29, 1990
+
+Pub. L. 101–647, § 1704
+
+104 Stat. 4846
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 939](https://www.govinfo.gov/link/statute/108/939), § 26101; renumbered § 28101, [Pub. L. 103–440, title I, § 103(a)(1)](https://www.govinfo.gov/link/plaw/103/public/440), Nov. 2, 1994, [108 Stat. 4616](https://www.govinfo.gov/link/statute/108/4616); amended [Pub. L. 110–53, title XV, § 1526(a)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 452](https://www.govinfo.gov/link/statute/121/452); [Pub. L. 114–94, div. A, title XI, § 11412(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1687](https://www.govinfo.gov/link/statute/129/1687).)*

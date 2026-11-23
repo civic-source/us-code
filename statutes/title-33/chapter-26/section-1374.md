@@ -3,9 +3,10 @@ title: "Section 1374 - Effluent Standards and Water Quality Information Advisory
 usc_title: 33
 usc_section: "1374"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1374"
-generated_at: "2026-03-30T02:55:41.103Z"
+generated_at: "2026-11-23T21:26:11.400Z"
+status: "active"
 ---
 
 # § 1374. Effluent Standards and Water Quality Information Advisory Committee
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:41.103Z"
   - **(2)** Members of the Committee shall be entitled to receive compensation at a rate to be fixed by the President but not in excess of the maximum rate of pay for grade GS–18, as provided in the General Schedule under section 5332 of title 5 .
 - **(d)** Five members of the Committee shall constitute a quorum, and official actions of the Committee shall be taken only on the affirmative vote of at least five members. A special panel composed of one or more members upon order of the Committee shall conduct any hearing authorized by this section and submit the transcript of such hearing to the entire Committee for its action thereon.
 - **(e)** The Committee is authorized to make such rules as are necessary for the orderly transaction of its business.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title V, § 515, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 894](https://www.govinfo.gov/link/statute/86/894).)*

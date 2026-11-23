@@ -3,9 +3,10 @@ title: "Section 2734 - Reconstruction and stabilization"
 usc_title: 22
 usc_section: "2734"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2734"
-generated_at: "2026-03-30T02:55:05.382Z"
+generated_at: "2026-11-23T21:25:58.539Z"
+status: "active"
 ---
 
 # § 2734. Reconstruction and stabilization
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:05.382Z"
   - **(2)** The Secretary, in consultation with the Administrator of the United States Agency for International Development, may establish a Civilian Reserve Corps for which purpose the Secretary is authorized to employ and train individuals who have the skills necessary for carrying out reconstruction and stabilization activities, and who have volunteered for that purpose. The Secretary may deploy members of the Civilian Reserve Corps pursuant to a determination by the President under section 2368 of this title .
   - **(3)** The establishment and deployment of any Civilian Reserve Corps shall be undertaken in a manner that will avoid substantively impairing the capacity and readiness of any State and local governments from which Civilian Reserve Corps personnel may be drawn.
 - **(c)** The Secretary shall ensure that personnel of the Department, and, in coordination with the Administrator of USAID, that personnel of USAID, make use of the relevant existing training and education programs offered within the Government, such as those at the Center for Stabilization and Reconstruction Studies at the Naval Postgraduate School and the Interagency Training, Education, and After Action Review Program at the National Defense University.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title I, § 62, as added [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title XVI, § 1605, Oct. 14, 2008, [122 Stat. 4654](https://www.govinfo.gov/link/statute/122/4654).)*

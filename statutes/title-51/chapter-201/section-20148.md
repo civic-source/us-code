@@ -3,9 +3,10 @@ title: "Section 20148 - Indemnification; NASA launch services and reentry servic
 usc_title: 51
 usc_section: "20148"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 20148"
-generated_at: "2026-03-30T02:56:28.704Z"
+generated_at: "2026-11-23T21:26:42.530Z"
+status: "active"
 ---
 
 # § 20148. Indemnification; NASA launch services and reentry services
@@ -63,3 +64,69 @@ generated_at: "2026-03-30T02:56:28.704Z"
     - **(C)** a provider;
     - **(D)** related entities of the provider involved in launch services or reentry services; or
     - **(E)** a government astronaut.
+
+In General
+
+Terms of Indemnification
+
+Liability Insurance of the Provider.—
+
+In general
+
+Maximum probable losses.—
+
+In general
+
+Revisions
+
+Amount of insurance
+
+Coverage
+
+No Indemnification Without Cross-waiver
+
+Cross-Waivers.—
+
+In general
+
+Limitation
+
+Willful Misconduct
+
+Certification of Just and Reasonable Amount
+
+Payments.—
+
+In general
+
+Limitation
+
+Additional appropriations
+
+Rules of Construction.—
+
+In general
+
+Other authority
+
+Anti-deficiency act
+
+Relationship to Other Laws
+
+Definitions
+
+Government astronaut
+
+Launch services
+
+Provider
+
+Reentry services
+
+Related entity
+
+Third party
+
+## Source Credit
+
+*(Added [Pub. L. 115–10, title III, § 305(a)](https://www.govinfo.gov/link/plaw/115/public/10), Mar. 21, 2017, [131 Stat. 30](https://www.govinfo.gov/link/statute/131/30).)*

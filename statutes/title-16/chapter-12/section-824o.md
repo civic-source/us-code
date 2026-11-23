@@ -3,9 +3,10 @@ title: "Section 824o - Electric reliability"
 usc_title: 16
 usc_section: "824o"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 824o"
-generated_at: "2026-03-30T02:54:22.917Z"
+generated_at: "2026-11-23T21:25:51.765Z"
+status: "active"
 ---
 
 # § 824o. Electric reliability
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:54:22.917Z"
   - **(5)** The Commission, after consultation with the ERO and the State taking action, may stay the effectiveness of any State action, pending the Commission’s issuance of a final order.
 - **(j)** The Commission shall establish a regional advisory body on the petition of at least two-thirds of the States within a region that have more than one-half of their electric load served within the region. A regional advisory body shall be composed of one member from each participating State in the region, appointed by the Governor of each State, and may include representatives of agencies, States, and provinces outside the United States. A regional advisory body may provide advice to the Electric Reliability Organization, a regional entity, or the Commission regarding the governance of an existing or proposed regional entity within the same region, whether a standard proposed to apply within the region is just, reasonable, not unduly discriminatory or preferential, and in the public interest, whether fees proposed to be assessed within the region are just, reasonable, not unduly discriminatory or preferential, and in the public interest and any other responsibilities requested by the Commission. The Commission may give deference to the advice of any such regional advisory body if that body is organized on an Interconnection-wide basis.
 - **(k)** The provisions of this section do not apply to Alaska or Hawaii.
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. II, § 215, as added [Pub. L. 109–58, title XII, § 1211(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 941](https://www.govinfo.gov/link/statute/119/941).)*

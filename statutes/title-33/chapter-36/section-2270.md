@@ -3,9 +3,10 @@ title: "Section 2270 - Subsurface drain systems research and development"
 usc_title: 33
 usc_section: "2270"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2270"
-generated_at: "2026-03-30T02:55:41.118Z"
+generated_at: "2026-11-23T21:26:11.433Z"
+status: "active"
 ---
 
 # § 2270. Subsurface drain systems research and development
@@ -14,3 +15,7 @@ Subject to the availability of appropriations, the Secretary, acting through the
 
   - **(1)** a flood risk-reduction measure; or
   - **(2)** a coastal storm risk-reduction measure.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. AA, title II, § 227](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2698](https://www.govinfo.gov/link/statute/134/2698).)*

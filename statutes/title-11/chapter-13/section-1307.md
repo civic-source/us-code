@@ -3,9 +3,10 @@ title: "Section 1307 - Conversion or dismissal"
 usc_title: 11
 usc_section: "1307"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1307"
-generated_at: "2026-03-30T02:53:53.887Z"
+generated_at: "2026-11-23T21:25:34.971Z"
+status: "active"
 ---
 
 # § 1307. Conversion or dismissal
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:53.887Z"
 - **(e)** Upon the failure of the debtor to file a tax return under section 1308, on request of a party in interest or the United States trustee and after notice and a hearing, the court shall dismiss a case or convert a case under this chapter to a case under chapter 7 of this title, whichever is in the best interest of the creditors and the estate.
 - **(f)** The court may not convert a case under this chapter to a case under chapter 7, 11, or 12 of this title if the debtor is a farmer, unless the debtor requests such conversion.
 - **(g)** Notwithstanding any other provision of this section, a case may not be converted to a case under another chapter of this title unless the debtor may be a debtor under such chapter.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2647](https://www.govinfo.gov/link/statute/92/2647); [Pub. L. 98–353, title III](https://www.govinfo.gov/link/plaw/98/public/353), §§ 315, 527, July 10, 1984, [98 Stat. 356](https://www.govinfo.gov/link/statute/98/356), 389; [Pub. L. 99–554, title II](https://www.govinfo.gov/link/plaw/99/public/554), §§ 229, 257(v), Oct. 27, 1986, [100 Stat. 3103](https://www.govinfo.gov/link/statute/100/3103), 3116; [Pub. L. 109–8, title II, § 213(7)](https://www.govinfo.gov/link/plaw/109/public/8), title VII, § 716(c), Apr. 20, 2005, [119 Stat. 53](https://www.govinfo.gov/link/statute/119/53), 130; [Pub. L. 111–327, § 2(a)(41)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3562](https://www.govinfo.gov/link/statute/124/3562).)*

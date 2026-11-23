@@ -3,9 +3,10 @@ title: "Section 139C - Certain disability-related first responder retirement pay
 usc_title: 26
 usc_section: "139C"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 139C"
-generated_at: "2026-03-30T02:55:27.628Z"
+generated_at: "2026-11-23T21:26:06.015Z"
+status: "active"
 ---
 
 # § 139C. Certain disability-related first responder retirement payments
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:27.628Z"
     - **(C)** terminate when such individual attains retirement age.
   - **(3)** In the case of an individual who only receives service-connected excludable disability amounts properly attributable to a portion of the 12-month period described in paragraph (1), such paragraph shall be applied by multiplying such amounts by the ratio of 365 to the number of days in such period to which such amounts were properly attributable.
 - **(d)** For purposes of this section, the term “qualified first responder service” means service as a law enforcement officer, firefighter, paramedic, or emergency medical technician.
+
+## Source Credit
+
+*(Added [Pub. L. 117–328, div. T, title III, § 309(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5345](https://www.govinfo.gov/link/statute/136/5345).)*

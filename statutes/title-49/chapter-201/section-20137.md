@@ -3,9 +3,10 @@ title: "Section 20137 - Event recorders"
 usc_title: 49
 usc_section: "20137"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 20137"
-generated_at: "2026-03-30T02:56:19.335Z"
+generated_at: "2026-11-23T21:26:40.706Z"
+status: "active"
 ---
 
 # § 20137. Event recorders
@@ -14,3 +15,32 @@ generated_at: "2026-03-30T02:56:19.335Z"
   - **(1)** records train speed, hot box detection, throttle position, brake application, brake operations, and any other function the Secretary of Transportation considers necessary to record to assist in monitoring the safety of train operation, such as time and signal indication; and
   - **(2)** is designed to resist tampering.
 - **(b)** Not later than December 22, 1989 , the Secretary shall prescribe regulations and issue orders that may be necessary to enhance safety by requiring that a train be equipped with an event recorder not later than one year after the regulations are prescribed and the orders are issued. However, if the Secretary finds it is impracticable to equip trains within that one-year period, the Secretary may extend the period to a date that is not later than 18 months after the regulations are prescribed and the orders are issued.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 20137 | 45:431(m). | Oct. 16, 1970 , Pub. L. 91–458 , 84 Stat. 971 , § 202(m); added June 22, 1988 , Pub. L. 100–342, § 10 , 102 Stat. 629 . |
+
+
+Definition
+
+Regulations and Orders
+
+Historical and Revision Notes
+
+20137
+
+Oct. 16, 1970
+
+Pub. L. 91–458
+
+84 Stat. 971
+
+June 22, 1988
+
+Pub. L. 100–342, § 10
+
+102 Stat. 629
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 875](https://www.govinfo.gov/link/statute/108/875).)*

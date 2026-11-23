@@ -3,9 +3,10 @@ title: "Section 3032c - Health care service demonstration projects in rural area
 usc_title: 42
 usc_section: "3032c"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3032c"
-generated_at: "2026-03-30T02:56:11.175Z"
+generated_at: "2026-11-23T21:26:32.504Z"
+status: "active"
 ---
 
 # § 3032c. Health care service demonstration projects in rural areas
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.175Z"
       - **(ii)** not less than 5 percent of the population resides in counties with fewer than seven individuals per square mile,
   - **(3)** assurances that the applicant will submit to the Assistant Secretary such evaluations and reports as the Assistant Secretary may require.
 - **(c)** The Assistant Secretary shall prepare and submit to the appropriate committees of Congress a report that includes summaries of the evaluations and reports required under subsection (b).
+
+## Source Credit
+
+*([Pub. L. 89–73, title IV, § 414](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 106–501, title IV, § 401](https://www.govinfo.gov/link/plaw/106/public/501), Nov. 13, 2000, [114 Stat. 2259](https://www.govinfo.gov/link/statute/114/2259); amended [Pub. L. 109–365, title IV, § 404](https://www.govinfo.gov/link/plaw/109/public/365), Oct. 17, 2006, [120 Stat. 2553](https://www.govinfo.gov/link/statute/120/2553).)*

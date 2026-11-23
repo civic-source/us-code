@@ -3,9 +3,10 @@ title: "Section 3762 - Direct housing loans to Native American veterans; program
 usc_title: 38
 usc_section: "3762"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3762"
-generated_at: "2026-03-30T02:55:53.515Z"
+generated_at: "2026-11-23T21:26:16.784Z"
+status: "active"
 ---
 
 # § 3762. Direct housing loans to Native American veterans; program administration
@@ -85,3 +86,7 @@ generated_at: "2026-03-30T02:55:53.515Z"
     - **(H)** Attending conferences and conventions conducted by the network of Native community development financial institutions and other Native American homeownership organizations to provide information and training to Native community development financial institutions about the availability of the relending program under section 3762A of this title .
 - **(j)** The Secretary shall include as part of the annual benefits report of the Veterans Benefits Administration information concerning the cost and number of loans provided under this subchapter for the fiscal year covered by the report.
 - **(k)** The Secretary shall assign a sufficient number of personnel of the Department dedicated to carrying out the authority of the Secretary under this subchapter, including construction and valuation specialists to assist with issues unique to new construction and renovations on trust land.
+
+## Source Credit
+
+*(Added [Pub. L. 102–547, § 8(a)](https://www.govinfo.gov/link/plaw/102/public/547), Oct. 28, 1992, [106 Stat. 3637](https://www.govinfo.gov/link/statute/106/3637); amended [Pub. L. 104–275, title II, § 202(a)](https://www.govinfo.gov/link/plaw/104/public/275), Oct. 9, 1996, [110 Stat. 3330](https://www.govinfo.gov/link/statute/110/3330); [Pub. L. 105–114, title II, § 201(b)](https://www.govinfo.gov/link/plaw/105/public/114), (c), Nov. 21, 1997, [111 Stat. 2282](https://www.govinfo.gov/link/statute/111/2282), 2283; [Pub. L. 107–103, title IV, § 402(b)](https://www.govinfo.gov/link/plaw/107/public/103), (c), Dec. 27, 2001, [115 Stat. 993](https://www.govinfo.gov/link/statute/115/993); [Pub. L. 109–233, title I, § 103(b)](https://www.govinfo.gov/link/plaw/109/public/233), (c)(1), (d), (e), (f)(3), June 15, 2006, [120 Stat. 400](https://www.govinfo.gov/link/statute/120/400), 401; [Pub. L. 116–23, § 6(a)(2)](https://www.govinfo.gov/link/plaw/116/public/23), June 25, 2019, [133 Stat. 973](https://www.govinfo.gov/link/statute/133/973); [Pub. L. 118–210, title II, § 231(a)](https://www.govinfo.gov/link/plaw/118/public/210) –(d), Jan. 2, 2025, [138 Stat. 2783–2785](https://www.govinfo.gov/link/statute/138/2783).)*

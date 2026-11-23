@@ -3,12 +3,17 @@ title: "Section 1109 - Liability for breach of fiduciary duty"
 usc_title: 29
 usc_section: "1109"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1109"
-generated_at: "2026-03-30T02:55:18.718Z"
+generated_at: "2026-11-23T21:26:02.261Z"
+status: "active"
 ---
 
 # § 1109. Liability for breach of fiduciary duty
 
 - **(a)** Any person who is a fiduciary with respect to a plan who breaches any of the responsibilities, obligations, or duties imposed upon fiduciaries by this subchapter shall be personally liable to make good to such plan any losses to the plan resulting from each such breach, and to restore to such plan any profits of such fiduciary which have been made through use of assets of the plan by the fiduciary, and shall be subject to such other equitable or remedial relief as the court may deem appropriate, including removal of such fiduciary. A fiduciary may also be removed for a violation of section 1111 of this title .
 - **(b)** No fiduciary shall be liable with respect to a breach of fiduciary duty under this subchapter if such breach was committed before he became a fiduciary or after he ceased to be a fiduciary.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 409](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 886](https://www.govinfo.gov/link/statute/88/886).)*

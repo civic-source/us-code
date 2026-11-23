@@ -3,9 +3,10 @@ title: "Section 3102 - Deduction of tax from wages"
 usc_title: 26
 usc_section: "3102"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 3102"
-generated_at: "2026-03-30T02:55:27.787Z"
+generated_at: "2026-11-23T21:26:06.546Z"
+status: "active"
 ---
 
 # § 3102. Deduction of tax from wages
@@ -40,3 +41,13 @@ generated_at: "2026-03-30T02:55:27.787Z"
   - **(1)** In the case of any tax imposed by section 3101(b)(2), subsection (a) shall only apply to the extent to which the taxpayer receives wages from the employer in excess of $200,000, and the employer may disregard the amount of wages received by such taxpayer’s spouse.
   - **(2)** To the extent that the amount of any tax imposed by section 3101(b)(2) is not collected by the employer, such tax shall be paid by the employee.
   - **(3)** If an employer, in violation of this chapter, fails to deduct and withhold the tax imposed by section 3101(b)(2) and thereafter the tax is paid by the employee, the tax so required to be deducted and withheld shall not be collected from the employer, but this paragraph shall in no case relieve the employer from liability for any penalties or additions to tax otherwise applicable in respect of such failure to deduct and withhold.
+
+In general
+
+Excluded employment
+
+“Notwithstanding the amendments made by this subsection [amending this section, section 3121 of this title , and sections 409 and 410 of Title 42, The Public Health and Welfare], if the wages (as defined in section 3121(a) of the Internal Revenue Code of 1986) paid during 1994 to an employee for domestic service in a private home of the employer are less than $1,000—
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 415; Sept. 1, 1954, ch. 1206, title II, § 205A, [68 Stat. 1093](https://www.govinfo.gov/link/statute/68/1093); Aug. 1, 1956, ch. 836, title II, § 201(h)(3), [70 Stat. 841](https://www.govinfo.gov/link/statute/70/841); [Pub. L. 89–97, title III, § 313(c)(1)](https://www.govinfo.gov/link/plaw/89/public/97), (2), July 30, 1965, [79 Stat. 382](https://www.govinfo.gov/link/statute/79/382), 383; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 95–216, title III, § 355(a)](https://www.govinfo.gov/link/plaw/95/public/216), (b), Dec. 20, 1977, [91 Stat. 1555](https://www.govinfo.gov/link/statute/91/1555); [Pub. L. 101–508, title V, § 5124(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–284](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–296, title III, § 319(a)(3)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1534](https://www.govinfo.gov/link/statute/108/1534); [Pub. L. 103–387, § 2(a)(1)(D)](https://www.govinfo.gov/link/plaw/103/public/387), Oct. 22, 1994, [108 Stat. 4072](https://www.govinfo.gov/link/statute/108/4072); [Pub. L. 108–203, title IV, § 424(b)](https://www.govinfo.gov/link/plaw/108/public/203), Mar. 2, 2004, [118 Stat. 536](https://www.govinfo.gov/link/statute/118/536); [Pub. L. 111–148, title IX, § 9015(a)(2)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 871](https://www.govinfo.gov/link/statute/124/871).)*

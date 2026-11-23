@@ -3,9 +3,10 @@ title: "Section 21108 - Pilot projects"
 usc_title: 49
 usc_section: "21108"
 chapter: 211
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 21108"
-generated_at: "2026-03-30T02:56:19.340Z"
+generated_at: "2026-11-23T21:26:40.717Z"
+status: "active"
 ---
 
 # § 21108. Pilot projects
@@ -20,3 +21,17 @@ generated_at: "2026-03-30T02:56:19.340Z"
   - **(2)** describes the status of all other waivers granted under subsection (a) and their related pilot projects, if any; and
   - **(3)** recommends any appropriate legislative changes to this chapter.
 - **(e)** For purposes of this section, the term “directly affected covered service employees” means covered service employees to whose hours of service the terms of the waiver petitioned for specifically apply.
+
+In General
+
+Granting of Waivers
+
+Extensions
+
+Report
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 103–440, title II, § 203(a)](https://www.govinfo.gov/link/plaw/103/public/440), Nov. 2, 1994, [108 Stat. 4619](https://www.govinfo.gov/link/statute/108/4619); amended [Pub. L. 110–432, div. A, title I, § 110](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4867](https://www.govinfo.gov/link/statute/122/4867).)*

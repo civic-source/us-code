@@ -3,9 +3,10 @@ title: "Section 4715 - Other monitoring and enforcement actions"
 usc_title: 19
 usc_section: "4715"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4715"
-generated_at: "2026-03-30T02:54:24.715Z"
+generated_at: "2026-11-23T21:25:42.898Z"
+status: "active"
 ---
 
 # § 4715. Other monitoring and enforcement actions
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:24.715Z"
 - **(j)** The Secretary of Homeland Security has authority to take appropriate monitoring or enforcement actions under section 1499 of this title or section 1595a of this title .
 - **(k)** The Interagency Environment Committee may request the heads of other Federal agencies to take appropriate monitoring or enforcement actions under other relevant provisions of law.
 - **(l)** Nothing in this section may be construed to supersede or otherwise limit in any manner the functions or authority of the head of any Federal agency described in this section under any other provision of law.
+
+## Source Credit
+
+*([Pub. L. 116–113, title VIII, § 815](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 93](https://www.govinfo.gov/link/statute/134/93).)*

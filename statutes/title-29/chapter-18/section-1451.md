@@ -3,9 +3,10 @@ title: "Section 1451 - Civil actions"
 usc_title: 29
 usc_section: "1451"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1451"
-generated_at: "2026-03-30T02:55:18.738Z"
+generated_at: "2026-11-23T21:26:02.305Z"
+status: "active"
 ---
 
 # § 1451. Civil actions
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:18.738Z"
   - **(1)** 6 years after the date on which the cause of action arose, or
   - **(2)** 3 years after the earliest date on which the plaintiff acquired or should have acquired actual knowledge of the existence of such cause of action; except that in the case of fraud or concealment, such action may be brought not later than 6 years after the date of discovery of the existence of such cause of action.
 - **(g)** A copy of the complaint in any action under this section or section 1401 of this title shall be served upon the corporation by certified mail. The corporation may intervene in any such action.
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4301](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 96–364, title I, § 104(2)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1263](https://www.govinfo.gov/link/statute/94/1263).)*

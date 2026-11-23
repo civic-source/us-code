@@ -3,9 +3,10 @@ title: "Section 3241 - Congressional declaration of policy"
 usc_title: 22
 usc_section: "3241"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3241"
-generated_at: "2026-03-30T02:55:05.390Z"
+generated_at: "2026-11-23T21:25:58.579Z"
+status: "active"
 ---
 
 # § 3241. Congressional declaration of policy
@@ -20,3 +21,7 @@ The United States is committed to continued strong support for the principles of
   - **(3)** the timely implementation of internationally agreed procedures in the event of such diversion;
 - **(d)** ensure that the IAEA receives on a timely basis the data needed for it to administer an effective and comprehensive international safeguards program and that the IAEA provides timely notice to the world community of any evidence of a violation of any safeguards agreement to which it is a party; and
 - **(e)** encourage the IAEA, to the maximum degree consistent with the Statute, to provide nations which supply nuclear materials and equipment with the data needed to assure such nations of adherence to bilateral commitments applicable to such supply.
+
+## Source Credit
+
+*([Pub. L. 95–242, title II, § 201](https://www.govinfo.gov/link/plaw/95/public/242), Mar. 10, 1978, [92 Stat. 124](https://www.govinfo.gov/link/statute/92/124).)*

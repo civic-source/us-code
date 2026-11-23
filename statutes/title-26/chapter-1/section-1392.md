@@ -3,9 +3,10 @@ title: "Section 1392 - Eligibility criteria"
 usc_title: 26
 usc_section: "1392"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1392"
-generated_at: "2026-03-30T02:55:27.772Z"
+generated_at: "2026-11-23T21:26:06.503Z"
+status: "active"
 ---
 
 # § 1392. Eligibility criteria
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:55:27.772Z"
   - **(1)** the effectiveness of the strategic plan submitted pursuant to section 1391(f)(2) and the assurances made pursuant to section 1391(e)(3), and
   - **(2)** criteria specified by the appropriate Secretary.
 - **(d)** A nominated area in Alaska or Hawaii shall be treated as meeting the requirements of paragraphs (2), (3), and (4) of subsection (a) if for each census tract or block group within such area 20 percent or more of the families have income which is 50 percent or less of the statewide median family income (as determined under section 143).
+
+## Source Credit
+
+*(Added [Pub. L. 103–66, title XIII, § 13301(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 545](https://www.govinfo.gov/link/statute/107/545); amended [Pub. L. 105–34, title IX, § 954](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 888](https://www.govinfo.gov/link/statute/111/888).)*

@@ -3,9 +3,10 @@ title: "Section 6215 - Major fuel burning stationary source"
 usc_title: 42
 usc_section: "6215"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6215"
-generated_at: "2026-03-30T02:56:11.243Z"
+generated_at: "2026-11-23T21:26:32.850Z"
+status: "active"
 ---
 
 # § 6215. Major fuel burning stationary source
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.243Z"
   - **(4)** not violate any contractual relationship between such source and any supplier or transporter of fuel to such source.
 - **(d)** Nothing in subsection (a) or (b) of this section shall affect the authority of the President or the Secretary of the Department of Energy to allocate coal or coal derivatives under any provision of law.
 - **(e)** The terms “major fuel burning stationary source (or class or category thereof)” and “locally or regionally available coal or coal derivatives” shall have the meanings assigned to them for the purposes of section 7425 of this title .
+
+## Source Credit
+
+*([Pub. L. 94–163, title I, § 107](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 95–619, title VI, § 661](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3285](https://www.govinfo.gov/link/statute/92/3285); amended [Pub. L. 106–469, title VI, § 605(b)(2)](https://www.govinfo.gov/link/plaw/106/public/469), Nov. 9, 2000, [114 Stat. 2043](https://www.govinfo.gov/link/statute/114/2043).)*

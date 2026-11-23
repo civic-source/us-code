@@ -3,9 +3,10 @@ title: "Section 2275a - Transition rules relating to amendment of certain FCA ap
 usc_title: 12
 usc_section: "2275a"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2275a"
-generated_at: "2026-03-30T02:53:53.478Z"
+generated_at: "2026-11-23T21:25:37.074Z"
+status: "active"
 ---
 
 # § 2275a. Transition rules relating to amendment of certain FCA approval authorities
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.478Z"
   - **(1)** Any approval authority of the Farm Credit Administration that, under the amendments made by section 802 of the Agricultural Credit Act of 1987, became an authority to issue regulations may be exercised only until the earlier of the date the Farm Credit Administration issues final regulations under such authority, or 1 year after January 6, 1988 .
   - **(2)** At the close of the 1-year period referred to in paragraph (1), the Farm Credit Administration shall not take any enforcement action against any System institution with respect to any provision so amended, until the Farm Credit Administration issues final regulations under such provision.
 - **(c)** This section shall not affect the authority of the Farm Credit Administration to exercise any other approval authority either on a case-by-case basis or through regulation, as provided in section 2252(a)(5) of this title .
+
+## Source Credit
+
+*([Pub. L. 92–181, title V, § 5](https://www.govinfo.gov/link/plaw/92/public/181).45, as added [Pub. L. 100–233, title VIII, § 802(w)](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1713](https://www.govinfo.gov/link/statute/101/1713).)*

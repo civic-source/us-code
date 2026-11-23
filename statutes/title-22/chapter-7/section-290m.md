@@ -3,9 +3,10 @@ title: "Section 290m - North American Development Bank"
 usc_title: 22
 usc_section: "290m"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 290m"
-generated_at: "2026-03-30T02:55:05.325Z"
+generated_at: "2026-11-23T21:25:58.378Z"
+status: "active"
 ---
 
 # § 290m. North American Development Bank
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:05.325Z"
   - **(1)**
   - **(2)** Any securities issued by the Bank (including any guarantee by the Bank, whether or not limited in scope) in connection with the raising of funds for inclusion in the Bank’s capital resources as defined in Section 4 of Article II of Chapter II of the Cooperation Agreement, and any securities guaranteed by the Bank as to both the principal and interest to which the commitment in Section 3(d) of Article II of Chapter II of the Cooperation Agreement is expressly applicable, shall be deemed to be exempted securities within the meaning of section 77c(a)(2) of title 15 , and section 78c(a)(12) of title 15 . The Bank shall file with the Securities and Exchange Commission such annual and other reports with regard to such securities as the Commission shall determine to be appropriate in view of the special character of the Bank and its operations and necessary in the public interest or for the protection of investors.
   - **(3)** The Securities and Exchange Commission, acting in consultation with the National Advisory Council on International Monetary and Financial Problems, is authorized to suspend the provisions of paragraph (2) at any time as to any or all securities issued or guaranteed by the Bank during the period of such suspension. The Commission shall include in its annual reports to Congress such information as it shall deem advisable with regard to the operations and effect of this subsection and in connection therewith shall include any views submitted for such purpose by any association of dealers registered with the Commission.
+
+## Source Credit
+
+*([Pub. L. 103–182, title V, § 541](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2165](https://www.govinfo.gov/link/statute/107/2165); [Pub. L. 116–113, title VI, § 601](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 78](https://www.govinfo.gov/link/statute/134/78); [Pub. L. 116–260, div. O, title VI, § 601(a)(1)](https://www.govinfo.gov/link/plaw/116/public/260), (2), Dec. 27, 2020, [134 Stat. 2149](https://www.govinfo.gov/link/statute/134/2149).)*

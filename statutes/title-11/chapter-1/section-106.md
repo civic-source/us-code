@@ -3,9 +3,10 @@ title: "Section 106 - Waiver of sovereign immunity"
 usc_title: 11
 usc_section: "106"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 106"
-generated_at: "2026-03-30T02:53:53.871Z"
+generated_at: "2026-11-23T21:25:34.886Z"
+status: "active"
 ---
 
 # § 106. Waiver of sovereign immunity
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.871Z"
   - **(5)** Nothing in this section shall create any substantive claim for relief or cause of action not otherwise existing under this title, the Federal Rules of Bankruptcy Procedure, or nonbankruptcy law.
 - **(b)** A governmental unit that has filed a proof of claim in the case is deemed to have waived sovereign immunity with respect to a claim against such governmental unit that is property of the estate and that arose out of the same transaction or occurrence out of which the claim of such governmental unit arose.
 - **(c)** Notwithstanding any assertion of sovereign immunity by a governmental unit, there shall be offset against a claim or interest of a governmental unit any claim against such governmental unit that is property of the estate.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2555](https://www.govinfo.gov/link/statute/92/2555); [Pub. L. 103–394, title I, § 113](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4117](https://www.govinfo.gov/link/statute/108/4117); [Pub. L. 111–327, § 2(a)(4)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3557](https://www.govinfo.gov/link/statute/124/3557).)*

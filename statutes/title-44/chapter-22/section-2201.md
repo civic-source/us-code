@@ -3,9 +3,10 @@ title: "Section 2201 - Definitions"
 usc_title: 44
 usc_section: "2201"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 2201"
-generated_at: "2026-03-30T02:55:56.293Z"
+generated_at: "2026-11-23T21:26:18.410Z"
+status: "active"
 ---
 
 # § 2201. Definitions
@@ -22,3 +23,7 @@ As used in this chapter—
     - **(C)** materials relating exclusively to the President’s own election to the office of the Presidency; and materials directly relating to the election of a particular individual or individuals to Federal, State, or local office, which have no relation to or direct effect upon the carrying out of constitutional, statutory, or other official or ceremonial duties of the President.
   - **(4)** The term “Archivist” means the Archivist of the United States.
   - **(5)** The term “former President”, when used with respect to Presidential records, means the former President during whose term or terms of office such Presidential rec­ords were created.
+
+## Source Credit
+
+*(Added [Pub. L. 95–591, § 2(a)](https://www.govinfo.gov/link/plaw/95/public/591), Nov. 4, 1978, [92 Stat. 2523](https://www.govinfo.gov/link/statute/92/2523); amended [Pub. L. 113–187](https://www.govinfo.gov/link/plaw/113/public/187), §§ 2(b), 8(2), Nov. 26, 2014, [128 Stat. 2005](https://www.govinfo.gov/link/statute/128/2005), 2011.)*

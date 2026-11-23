@@ -3,9 +3,10 @@ title: "Section 488 - Management and review of electromagnetic spectrum"
 usc_title: 10
 usc_section: "488"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 488"
-generated_at: "2026-03-30T02:53:38.062Z"
+generated_at: "2026-11-23T21:25:32.272Z"
+status: "active"
 ---
 
 # § 488. Management and review of electromagnetic spectrum
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:53:38.062Z"
   - **(2)** Each report under paragraph (1) shall address, with respect to the electromagnetic spectrum used by the Department that is covered by the report, the implications to the missions of the Department resulting from sharing, reassigning, or reallocating the spectrum, or relocating the uses by the Department of such spectrum, if the Secretary and the Chairman jointly determine that such sharing, reassigning, reallocating, or relocation—
     - **(A)** would potentially create a loss of essential military capability to the missions of the Department, as determined under feasibility assessments to ensure comparable capability; or
     - **(B)** would not likely be possible within the 10-year period beginning on the date of the report.
+
+Organization
+
+Reports
+
+“The Secretary of Defense shall—
+
+## Source Credit
+
+*(Added [Pub. L. 108–136, div. A, title X, § 1054(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1615](https://www.govinfo.gov/link/statute/117/1615); amended [Pub. L. 113–66, div. A, title X, § 1072(a)](https://www.govinfo.gov/link/plaw/113/public/66), (b)(1), Dec. 26, 2013, [127 Stat. 868](https://www.govinfo.gov/link/statute/127/868), 869; [Pub. L. 113–291, div. A, title X, § 1071(f)(7)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3510](https://www.govinfo.gov/link/statute/128/3510); [Pub. L. 114–328, div. A, title X, § 1065(a)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2409](https://www.govinfo.gov/link/statute/130/2409).)*

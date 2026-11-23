@@ -3,9 +3,10 @@ title: "Section 220509 - Resolution of disputes"
 usc_title: 36
 usc_section: "220509"
 chapter: 2205
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 220509"
-generated_at: "2026-03-30T02:55:44.709Z"
+generated_at: "2026-11-23T21:26:13.747Z"
+status: "active"
 ---
 
 # § 220509. Resolution of disputes
@@ -59,3 +60,82 @@ generated_at: "2026-03-30T02:55:44.709Z"
   - **(3)**
     - **(A)** With respect to a protected individual the corporation finds to have been subject to retaliation, the corporation may award damages, including damages for pain and suffering and reasonable attorney fees.
     - **(B)** In the case of a national governing body found to have retaliated against a protected individual, the corporation may demand reimbursement from the national governing body for damages paid by the corporation under subparagraph (A).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 220509 | 36:382b. | Sept. 21, 1950, ch. 975 , title I, § 114, as added Nov. 8, 1978 , Pub. L. 95–606, § 1(b) , 92 Stat. 3049 . |
+
+
+General
+
+Office of the Athlete Ombuds.—
+
+In general
+
+Duties
+
+Hiring procedures; vacancy; termination.—
+
+Hiring procedures
+
+Vacancy
+
+Termination
+
+Confidentiality.—
+
+In general
+
+Exception
+
+Judicial and administrative proceedings.—
+
+In general
+
+Work product
+
+(aa) subject to discovery, subpoena, or any other means of legal compulsion; or
+
+(bb) admissible as evidence in a judicial or administrative proceeding.
+
+Applicability
+
+Development of policy.—
+
+In general
+
+Distribution
+
+Publication by national governing bodies
+
+Prohibition on retaliation
+
+Independence in carrying out duties
+
+Retaliation.—
+
+In general
+
+Disciplinary action
+
+Damages.—
+
+In general
+
+Reimbursement from national governing body
+
+Historical and Revision Notes
+
+220509
+
+Sept. 21, 1950, ch. 975
+
+Nov. 8, 1978
+
+Pub. L. 95–606, § 1(b)
+
+92 Stat. 3049
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1470](https://www.govinfo.gov/link/statute/112/1470); [Pub. L. 105–277, div. C, title I, § 142(h)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–605](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 109–284, § 5(17)](https://www.govinfo.gov/link/plaw/109/public/284), Sept. 27, 2006, [120 Stat. 1212](https://www.govinfo.gov/link/statute/120/1212); [Pub. L. 116–189](https://www.govinfo.gov/link/plaw/116/public/189), §§ 4(a)(7), 6(e), Oct. 30, 2020, [134 Stat. 945](https://www.govinfo.gov/link/statute/134/945), 950.)*

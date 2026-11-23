@@ -3,9 +3,10 @@ title: "Section 1680h - Demonstration projects for tribal management of health c
 usc_title: 25
 usc_section: "1680h"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1680h"
-generated_at: "2026-03-30T02:54:52.828Z"
+generated_at: "2026-11-23T21:25:54.636Z"
+status: "active"
 ---
 
 # § 1680h. Demonstration projects for tribal management of health care services
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:52.828Z"
   - **(1)** The Secretary, acting through the Service, shall make arrangements with Indian tribes to establish joint venture demonstration projects under which an Indian tribe shall expend tribal, private, or other available nontribal funds, for the acquisition or construction of a health facility for a minimum of 20 years, under a no-cost lease, in exchange for agreement by the Service to provide the equipment, supplies, and staffing for the operation and maintenance of such a health facility. A tribe may utilize tribal funds, private sector, or other available resources, including loan guarantees, to fulfill its commitment under this subsection.
   - **(2)** The Secretary shall make such an arrangement with an Indian tribe only if the Secretary first determines that the Indian tribe has the administrative and financial capabilities necessary to complete the timely acquisition or construction of the health facility described in paragraph (1).
   - **(3)** An Indian tribe or tribal organization that has entered into a written agreement with the Secretary under this subsection, and that breaches or terminates without cause such agreement, shall be liable to the United States for the amount that has been paid to the tribe, or paid to a third party on the tribe’s behalf, under the agreement. The Secretary has the right to recover tangible property (including supplies), and equipment, less depreciation, and any funds expended for operations and maintenance under this section. The preceding sentence does not apply to any funds expended for the delivery of health care services, or for personnel or staffing, shall be recoverable. 1 1 So in original. The words “, shall be recoverable” probably should not appear.
+
+## Source Credit
+
+*([Pub. L. 94–437, title VIII, § 818](https://www.govinfo.gov/link/plaw/94/public/437), formerly title VII, § 718, as added [Pub. L. 100–713, title VII, § 713](https://www.govinfo.gov/link/plaw/100/public/713), Nov. 23, 1988, [102 Stat. 4833](https://www.govinfo.gov/link/statute/102/4833); renumbered title VIII, § 818, and amended [Pub. L. 102–573, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/102/public/573), (b), title VIII, § 808, Oct. 29, 1992, [106 Stat. 4572](https://www.govinfo.gov/link/statute/106/4572), 4586.)*

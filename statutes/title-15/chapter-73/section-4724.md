@@ -3,9 +3,10 @@ title: "Section 4724 - Trade shows"
 usc_title: 15
 usc_section: "4724"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4724"
-generated_at: "2026-03-30T02:54:08.203Z"
+generated_at: "2026-11-23T21:25:40.004Z"
+status: "active"
 ---
 
 # § 4724. Trade shows
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:08.203Z"
     - **(B)** a corporation, partnership, or other association created under the laws of the United States or of any State (including the District of Columbia or any commonwealth, territory, or possession of the United States); or
     - **(C)** a foreign corporation, partnership, or other association, more than 95 percent of which is owned by persons described in subparagraphs (A) and (B); and
   - **(2)** the term “small business” means any small business concern as defined under section 632 of this title .
+
+## Source Credit
+
+*([Pub. L. 100–418, title II, § 2304](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1343](https://www.govinfo.gov/link/statute/102/1343).)*

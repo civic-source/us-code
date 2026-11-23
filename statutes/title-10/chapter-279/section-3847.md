@@ -3,9 +3,10 @@ title: "Section 3847 - Defense Contract Audit Agency: annual report"
 usc_title: 10
 usc_section: "3847"
 chapter: 279
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3847"
-generated_at: "2026-03-30T02:53:38.199Z"
+generated_at: "2026-11-23T21:25:32.744Z"
+status: "active"
 ---
 
 # § 3847. Defense Contract Audit Agency: annual report
@@ -31,3 +32,15 @@ generated_at: "2026-03-30T02:53:38.199Z"
 - **(d)**
   - **(1)** The terms “incurred cost audit” and “qualified incurred cost submission” have the meaning given those terms in section 3842 of this title .
   - **(2)** The term “sustained questioned costs” means questioned costs that were recovered by the Federal Government as a result of contract negotiations related to such questioned costs.
+
+Required Report
+
+Submission of Annual Report
+
+Public Availability
+
+Definitions.—
+
+## Source Credit
+
+*(Added [Pub. L. 112–81, div. A, title VIII, § 805(a)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1486](https://www.govinfo.gov/link/statute/125/1486), § 2313a; amended [Pub. L. 114–92, div. A, title VIII, § 893(b)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 952](https://www.govinfo.gov/link/statute/129/952); [Pub. L. 114–328, div. A, title VIII, § 824(d)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2279](https://www.govinfo.gov/link/statute/130/2279); [Pub. L. 115–91, div. A, title VIII, § 811(d)(1)](https://www.govinfo.gov/link/plaw/115/public/91), title X, § 1081(d)(5), Dec. 12, 2017, [131 Stat. 1460](https://www.govinfo.gov/link/statute/131/1460), 1600; renumbered § 3847 and amended [Pub. L. 116–283, div. A, title XVIII, § 1835(c)](https://www.govinfo.gov/link/plaw/116/public/283), (d)(3), Jan. 1, 2021, [134 Stat. 4240](https://www.govinfo.gov/link/statute/134/4240).)*

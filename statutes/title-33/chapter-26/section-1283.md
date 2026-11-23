@@ -3,9 +3,10 @@ title: "Section 1283 - Plans, specifications, estimates, and payments"
 usc_title: 33
 usc_section: "1283"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1283"
-generated_at: "2026-03-30T02:55:41.087Z"
+generated_at: "2026-11-23T21:26:11.369Z"
+status: "active"
 ---
 
 # § 1283. Plans, specifications, estimates, and payments
@@ -38,3 +39,13 @@ generated_at: "2026-03-30T02:55:41.087Z"
   - **(8)** In no event shall the Federal contribution for the cost of preparing construction plans and specifications and the building and erection of treatment works pursuant to this subsection exceed the amount agreed upon under paragraph (3).
   - **(9)** In any case in which the recipient of a grant made pursuant to this subsection does not comply with the terms of the agreement entered into under paragraph (3), the Administrator is authorized to take such action as may be necessary to recover the amount of the Federal contribution to the project.
   - **(10)** A recipient of a grant made pursuant to this subsection shall not be eligible for any other grants under this subchapter for the same project.
+
+Agreement on eligible costs.—
+
+Limitation on modifications
+
+Limitation on effect
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title II, § 203, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 835](https://www.govinfo.gov/link/statute/86/835); amended [Pub. L. 93–243, § 2](https://www.govinfo.gov/link/plaw/93/public/243), Jan. 2, 1974, [87 Stat. 1069](https://www.govinfo.gov/link/statute/87/1069); [Pub. L. 95–217](https://www.govinfo.gov/link/plaw/95/public/217), §§ 18, 19, Dec. 27, 1977, [91 Stat. 1571](https://www.govinfo.gov/link/statute/91/1571), 1572; [Pub. L. 96–483, § 6](https://www.govinfo.gov/link/plaw/96/public/483), Oct. 21, 1980, [94 Stat. 2362](https://www.govinfo.gov/link/statute/94/2362); [Pub. L. 97–117, § 9](https://www.govinfo.gov/link/plaw/97/public/117), Dec. 29, 1981, [95 Stat. 1626](https://www.govinfo.gov/link/statute/95/1626); [Pub. L. 100–4, title II](https://www.govinfo.gov/link/plaw/100/public/4), §§ 203, 204, Feb. 4, 1987, [101 Stat. 16](https://www.govinfo.gov/link/statute/101/16), 17.)*

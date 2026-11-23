@@ -3,9 +3,10 @@ title: "Section 9401 - Congressional statement of findings"
 usc_title: 42
 usc_section: "9401"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9401"
-generated_at: "2026-03-30T02:56:11.352Z"
+generated_at: "2026-11-23T21:26:33.237Z"
+status: "active"
 ---
 
 # § 9401. Congressional statement of findings
@@ -21,3 +22,7 @@ The Congress finds—
   - **(7)** present knowledge of methods to prevent mental illness through discovery and elimination of its causes and through early detection and treatment is too limited;
   - **(8)** a comprehensive and coordinated array of appropriate private and public mental health and support services for all people in need within specific geographic areas, based upon a cooperative local-State-Federal partnership, remains the most effective and humane way to provide a majority of mentally ill individuals with mental health care and needed support; and
   - **(9)** because of the rising demand for mental health services and the wide disparity in the distribution of psychiatrists, clinical psychologists, social workers, and psychiatric nurses, there is a shortage in the medical specialty of psychiatry and there are also shortages among the other health personnel who provide mental health services.
+
+## Source Credit
+
+*([Pub. L. 96–398, § 2](https://www.govinfo.gov/link/plaw/96/public/398), Oct. 7, 1980, [94 Stat. 1565](https://www.govinfo.gov/link/statute/94/1565).)*

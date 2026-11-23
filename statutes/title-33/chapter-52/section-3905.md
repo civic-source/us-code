@@ -3,9 +3,10 @@ title: "Section 3905 - Projects eligible for assistance"
 usc_title: 33
 usc_section: "3905"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3905"
-generated_at: "2026-03-30T02:55:41.145Z"
+generated_at: "2026-11-23T21:26:11.492Z"
+status: "active"
 ---
 
 # § 3905. Projects eligible for assistance
@@ -28,3 +29,7 @@ The following projects may be carried out with amounts made available under this
     - **(B)** pursuant to an existing plan that, in the judgment of the Administrator or the Secretary, as applicable, would mitigate the environmental impacts of water resources infrastructure projects otherwise eligible for assistance under this section.
   - **(9)** A combination of projects, each of which is eligible under paragraph (2) or (3), for which a State infrastructure financing authority submits to the Administrator a single application.
   - **(10)** A combination of projects secured by a common security pledge, each of which is eligible under paragraph (1), (2), (3), (4), (5), (6), (7), or (8), for which an eligible entity, or a combination of eligible entities, submits a single application.
+
+## Source Credit
+
+*([Pub. L. 113–121, title V, § 5026](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1334](https://www.govinfo.gov/link/statute/128/1334); [Pub. L. 114–322, title IV, § 5008(b)(1)](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1896](https://www.govinfo.gov/link/statute/130/1896).)*

@@ -3,9 +3,10 @@ title: "Section 5503 - Permitting"
 usc_title: 16
 usc_section: "5503"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 5503"
-generated_at: "2026-03-30T02:54:23.052Z"
+generated_at: "2026-11-23T21:25:52.031Z"
+status: "active"
 ---
 
 # § 5503. Permitting
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:54:23.052Z"
 - **(f)** A permit issued under this section for a vessel is void if—
   - **(1)** any other permit or authorization required for the vessel to fish is expired, revoked, or suspended; or
   - **(2)** the vessel is no longer documented under the laws of the United States or eligible for such documentation.
+
+## Source Credit
+
+*([Pub. L. 104–43, title I, § 104](https://www.govinfo.gov/link/plaw/104/public/43), Nov. 3, 1995, [109 Stat. 369](https://www.govinfo.gov/link/statute/109/369); [Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009](https://www.govinfo.gov/link/statute/110/3009), 3009–41; [Pub. L. 114–81, title I, § 108](https://www.govinfo.gov/link/plaw/114/public/81), Nov. 5, 2015, [129 Stat. 658](https://www.govinfo.gov/link/statute/129/658).)*

@@ -3,9 +3,10 @@ title: "Section 681e - Information shared with or provided to the Federal Govern
 usc_title: 6
 usc_section: "681e"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 681e"
-generated_at: "2026-03-30T02:53:09.498Z"
+generated_at: "2026-11-23T21:25:25.839Z"
+status: "active"
 ---
 
 # § 681e. Information shared with or provided to the Federal Government
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:53:09.498Z"
   - **(3)** Notwithstanding paragraph (2), no report submitted to the Agency pursuant to this part or any communication, document, material, or other record, created for the sole purpose of preparing, drafting, or submitting such report, may be received in evidence, subject to discovery, or otherwise used in any trial, hearing, or other proceeding in or before any court, regulatory body, or other authority of the United States, a State, or a political subdivision thereof, provided that nothing in this part shall create a defense to discovery or otherwise affect the discovery of any communication, document, material, or other record not created for the sole purpose of preparing, drafting, or submitting such report.
 - **(d)** The Agency shall anonymize the victim who reported the information when making information provided in reports received under section 681b of this title available to critical infrastructure owners and operators and the general public.
 - **(e)** Nothing in this part shall be construed to permit or require disclosure by a provider of a remote computing service or a provider of an electronic communication service to the public of information not otherwise permitted or required to be disclosed under chapter 121 of title 18 (commonly known as the “Stored Communications Act”).
+
+## Source Credit
+
+*([Pub. L. 107–296, title XXII, § 2245](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 117–103, div. Y, § 103(a)(2)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 1051](https://www.govinfo.gov/link/statute/136/1051).)*

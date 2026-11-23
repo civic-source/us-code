@@ -3,9 +3,10 @@ title: "Section 690k - Reporting requirement"
 usc_title: 15
 usc_section: "690k"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 690k"
-generated_at: "2026-03-30T02:54:08.112Z"
+generated_at: "2026-11-23T21:25:39.723Z"
+status: "active"
 ---
 
 # § 690k. Reporting requirement
@@ -14,3 +15,7 @@ Each Renewable Fuel Capital Investment company that participates in the program 
 
   - **(1)** information related to the measurement criteria that the company proposed in its program application; and
   - **(2)** in each case in which the company makes, under this part, an investment in, or a loan or a grant to, a business that is not primarily engaged in the research, development, manufacture, or bringing to market or 1 1 So in original. Probably should be “of”. renewable energy sources, a report on the nature, origin, and revenues of the business in which investments are made.
+
+## Source Credit
+
+*([Pub. L. 85–699, title III, § 392](https://www.govinfo.gov/link/plaw/85/public/699), as added [Pub. L. 110–140, title XII, § 1207](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1782](https://www.govinfo.gov/link/statute/121/1782).)*

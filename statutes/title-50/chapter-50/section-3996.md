@@ -3,9 +3,10 @@ title: "Section 3996 - Perfection or defense of rights"
 usc_title: 50
 usc_section: "3996"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3996"
-generated_at: "2026-03-30T02:56:26.265Z"
+generated_at: "2026-11-23T21:26:39.082Z"
+status: "active"
 ---
 
 # § 3996. Perfection or defense of rights
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:26.265Z"
 - **(b)**
   - **(1)** A servicemember during a period of military service may make any affidavit or submit any proof required by law, practice, or regulation of the Department of the Interior in connection with the entry, perfection, defense, or further assertion of rights initiated or acquired before entering military service before an officer authorized to provide notary services under section 1044a of title 10 or any superior commissioned officer.
   - **(2)** Such affidavits shall be binding in law and subject to the same penalties as prescribed by section 1001 of title 18 .
+
+## Source Credit
+
+*(Oct. 17, 1940, ch. 888, title V, § 506, as added [Pub. L. 108–189, § 1](https://www.govinfo.gov/link/plaw/108/public/189), Dec. 19, 2003, [117 Stat. 2857](https://www.govinfo.gov/link/statute/117/2857).)*

@@ -3,9 +3,10 @@ title: "Section 120103 - National Heritage Area studies and designation"
 usc_title: 54
 usc_section: "120103"
 chapter: 1201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "54 U.S.C. § 120103"
-generated_at: "2026-03-30T02:56:28.420Z"
+generated_at: "2026-11-23T21:26:42.789Z"
+status: "active"
 ---
 
 # § 120103. National Heritage Area studies and designation
@@ -46,3 +47,31 @@ generated_at: "2026-03-30T02:56:28.420Z"
       - **(i)** With respect to a study carried out by the Secretary in accordance with paragraph (2)(A)(i), the Secretary shall submit a report under subparagraph (A) not later than 3 years after the date on which funds are first made available to carry out the study.
       - **(ii)** With respect to a study carried out by interested individuals or entities in accordance with paragraph (2)(A)(ii), the Secretary shall submit a report under subparagraph (A) not later than 180 days after the date on which the Secretary certifies under paragraph (2)(B) that the study meets the requirements of paragraph (3).
 - **(b)** An area shall be designated as a National Heritage Area only by an Act of Congress.
+
+Studies.—
+
+In general
+
+Preparation.—
+
+In general
+
+Certification
+
+Requirements
+
+Report.—
+
+In general
+
+Timing.—
+
+Studies carried out by the secretary
+
+Studies carried out by other interested parties
+
+Designation
+
+## Source Credit
+
+*(Added [Pub. L. 117–339, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/339), Jan. 5, 2023, [136 Stat. 6159](https://www.govinfo.gov/link/statute/136/6159).)*

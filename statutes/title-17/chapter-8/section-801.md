@@ -3,9 +3,10 @@ title: "Section 801 - Copyright Royalty Judges; appointment and functions"
 usc_title: 17
 usc_section: "801"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 801"
-generated_at: "2026-03-30T02:54:15.354Z"
+generated_at: "2026-11-23T21:25:41.726Z"
+status: "active"
 ---
 
 # § 801. Copyright Royalty Judges; appointment and functions
@@ -48,3 +49,33 @@ generated_at: "2026-03-30T02:54:15.354Z"
 - **(d)** The Librarian of Congress shall provide the Copyright Royalty Judges with the necessary administrative services related to proceedings under this chapter.
 - **(e)** The offices of the Copyright Royalty Judges and staff shall be in the Library of Congress.
 - **(f)** On and after the date of the enactment of the Copyright Royalty and Distribution Reform Act of 2004, in any case in which time limits are prescribed under this title for performance of an action with or by the Copyright Royalty Judges, and in which the last day of the prescribed period falls on a Saturday, Sunday, holiday, or other nonbusiness day within the District of Columbia or the Federal Government, the action may be taken on the next succeeding business day, and is effective as of the date when the period expired.
+
+Appointment
+
+Functions
+
+Rulings
+
+Administrative Support
+
+Location in Library of Congress
+
+Effective Date of Actions
+
+Effective Date
+
+Transition Provisions.—
+
+In general
+
+Certain royalty rate proceedings
+
+Pending proceedings
+
+Interim proceedings
+
+Existing Appropriations
+
+## Source Credit
+
+*(Added [Pub. L. 108–419, § 3(a)](https://www.govinfo.gov/link/plaw/108/public/419), Nov. 30, 2004, [118 Stat. 2341](https://www.govinfo.gov/link/statute/118/2341); amended [Pub. L. 109–303](https://www.govinfo.gov/link/plaw/109/public/303), §§ 3(1), (2), 5, Oct. 6, 2006, [120 Stat. 1478](https://www.govinfo.gov/link/statute/120/1478), 1483; [Pub. L. 115–264, title I](https://www.govinfo.gov/link/plaw/115/public/264), §§ 102(b), 103(g)(2), Oct. 11, 2018, [132 Stat. 3721](https://www.govinfo.gov/link/statute/132/3721), 3725.)*

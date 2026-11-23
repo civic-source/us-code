@@ -3,9 +3,10 @@ title: "Section 7318 - National Center for Preventive Health"
 usc_title: 38
 usc_section: "7318"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7318"
-generated_at: "2026-03-30T02:55:53.527Z"
+generated_at: "2026-11-23T21:26:16.853Z"
+status: "active"
 ---
 
 # § 7318. National Center for Preventive Health
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:53.527Z"
   - **(5)** Provide advisory services to personnel of Department health-care facilities with respect to the planning or furnishing of preventive health services by such personnel.
 - **(d)** There is authorized to be appropriated $1,500,000 to the Medical Care General and Special Fund of the Department of Veterans Affairs for each fiscal year for the purpose of permitting the National Center for Preventive Health to carry out research, clinical, educational, and administrative activities under this section. Such activities shall be considered to be part of the operation of health-care facilities of the Department without regard to the location at which such activities are carried out.
 - **(e)** In this section, the term “preventive health services” has the meaning given such term in section 1701(9) of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 102–585, title V, § 511(a)(1)](https://www.govinfo.gov/link/plaw/102/public/585), Nov. 4, 1992, [106 Stat. 4955](https://www.govinfo.gov/link/statute/106/4955); amended [Pub. L. 103–446, title XII, § 1201(c)(5)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4683](https://www.govinfo.gov/link/statute/108/4683).)*

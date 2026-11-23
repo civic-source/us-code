@@ -3,9 +3,10 @@ title: "Section 590h - Payments and grants of aid"
 usc_title: 16
 usc_section: "590h"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 590h"
-generated_at: "2026-03-30T02:54:22.882Z"
+generated_at: "2026-11-23T21:25:51.688Z"
+status: "active"
 ---
 
 # § 590h. Payments and grants of aid
@@ -60,3 +61,47 @@ generated_at: "2026-03-30T02:54:22.882Z"
   - **(6)** In determining normal yield per acre for any farm under this section in the case of wheat or corn, the normal yield shall be the average yield per acre thereon for such commodity during the ten calendar years immediately preceding the calendar year in which such yield is determined, adjusted for abnormal weather conditions and trends in yields. If for any such year the data are not available, or there is no actual yield, then the normal yield for the farm shall be appraised in accordance with regulations of the Secretary, taking into consideration abnormal weather conditions, the normal yield for the county, and the yield in years for which data are available.
 - **(d)**
 - **(g)** A payment that may be made to a producer under this section may be assigned only in accordance with regulations issued by the Secretary. This subsection shall not authorize any suit against or impose any liability on the Secretary, any disbursing agent, or any agency of the United States if payment is made to the producer without regard to the existence of any such assignment.
+
+(aa) are fairly representative of the agricultural producers within the area covered by the county, area, or local committee; and
+
+(bb) are elected by the agricultural producers that participate or cooperate in programs administered within the area under the jurisdiction of the county, area, or local committee.
+
+(aa) are fairly representative of the agricultural producers within the area covered by the county, area, or local committee; and
+
+(bb) are elected by the agricultural producers that participate or cooperate in programs administered within the area under the jurisdiction of the county, area, or local committee.
+
+(aa) Eligibility To be eligible for nomination and election to the applicable county, area, or local committee, as determined by the Secretary, an agricultural producer shall be located within the area under the jurisdiction of a county, area, or local committee, and participate or cooperate in programs administered within that area.
+
+(bb) Outreach In addition to such nominating procedures as the Secretary may prescribe, the Secretary shall solicit and accept nominations from organizations representing the interests of socially disadvantaged groups (as defined in section 355(e)(1) of the Consolidated Farm and Rural Development Act ( 7 U.S.C. 2003(e)(1) ). 1 1 So in original. The period probably should be preceded by an additional closing parenthesis.
+
+(aa) Public notice At least 10 days before the date on which ballots are to be opened and counted, a county, area, or local committee shall announce the date, time, and place at which election ballots will be opened and counted.
+
+(bb) Opening of ballots Election ballots shall not be opened until the date and time announced under item (aa).
+
+(cc) Observation Any person may observe the opening and counting of the election ballots.
+
+(aa) the number of eligible voters in the area covered by the county, area, or local committee;
+
+(bb) the number of ballots cast in the election by eligible voters (including the percentage of eligible voters that cast ballots);
+
+(cc) the number of ballots disqualified in the election;
+
+(dd) the percentage that the number of ballots disqualified is of the number of ballots received;
+
+(ee) the number of nominees for each seat up for election;
+
+(ff) the race, ethnicity, and gender of each nominee, as provided through the voluntary self-identification of each nominee; and
+
+(gg) the final election results (including the number of ballots received by each nominee).
+
+(aa) Analysis If determined necessary by the Secretary after analyzing the data contained in the report under subclause (VI), the Secretary shall promulgate and publish in the Federal Register proposed uniform guidelines for conducting elections for members and alternate members of county, area, and local committees not later than 1 year after the date of completion of the report.
+
+(bb) Inclusion The procedures promulgated by the Secretary under item (aa) shall ensure fair representation of socially disadvantaged groups described in subclause (III)(bb) in an area covered by the county, area, or local committee, in cases in which those groups are underrepresented on the county, area, or local committee for that area.
+
+(cc) Methods of inclusion Notwithstanding clause (ii), the Secretary may ensure inclusion of socially disadvantaged farmers and ranchers through provisions allowing for appointment of 1 additional voting member to a county, area, or local committee or through other methods.
+
+Establishment of county, area, or local committees
+
+## Source Credit
+
+*(Apr. 27, 1935, ch. 85, § 8, as added Feb. 29, 1936, ch. 104, § 1, [49 Stat. 1149](https://www.govinfo.gov/link/statute/49/1149); amended June 28, 1937, ch. 395, § 1, [50 Stat. 329](https://www.govinfo.gov/link/statute/50/329); Feb. 16, 1938, ch. 30, title I, §§ 101, 102, 103, [52 Stat. 31](https://www.govinfo.gov/link/statute/52/31), 34, 35; Apr. 7, 1938, ch. 107, §§ 16–18, [52 Stat. 204](https://www.govinfo.gov/link/statute/52/204), 205; Apr. 10, 1939, ch. 48, [53 Stat. 573](https://www.govinfo.gov/link/statute/53/573); May 14, 1940, ch. 200, [54 Stat. 216](https://www.govinfo.gov/link/statute/54/216); July 2, 1940, ch. 521, § 2, [54 Stat. 727](https://www.govinfo.gov/link/statute/54/727); June 21, 1941, ch. 217, [55 Stat. 257](https://www.govinfo.gov/link/statute/55/257); Dec. 26, 1941, ch. 626, § 1, [55 Stat. 860](https://www.govinfo.gov/link/statute/55/860); Feb. 6, 1942, ch. 44, § 4, [56 Stat. 53](https://www.govinfo.gov/link/statute/56/53); Sept. 29, 1942, ch. 568, [56 Stat. 761](https://www.govinfo.gov/link/statute/56/761); Sept. 21, 1944, ch. 412, title III, § 301, [58 Stat. 737](https://www.govinfo.gov/link/statute/58/737); July 25, 1946, ch. 642, [60 Stat. 663](https://www.govinfo.gov/link/statute/60/663); July 3, 1948, ch. 827, title I, § 4, [62 Stat. 1250](https://www.govinfo.gov/link/statute/62/1250); Sept. 23, 1950, ch. 997, [64 Stat. 978](https://www.govinfo.gov/link/statute/64/978); May 26, 1952, ch. 335, [66 Stat. 95](https://www.govinfo.gov/link/statute/66/95); Aug. 28, 1954, ch. 1041, title V, § 501, [68 Stat. 907](https://www.govinfo.gov/link/statute/68/907); Aug. 9, 1955, ch. 624, [69 Stat. 545](https://www.govinfo.gov/link/statute/69/545); Apr. 6, 1956, ch. 186, [70 Stat. 105](https://www.govinfo.gov/link/statute/70/105); July 24, 1956, ch. 668, [70 Stat. 597](https://www.govinfo.gov/link/statute/70/597); [Pub. L. 85–553](https://www.govinfo.gov/link/plaw/85/public/553), July 25, 1958, [72 Stat. 414](https://www.govinfo.gov/link/statute/72/414); [Pub. L. 86–70, § 13(a)](https://www.govinfo.gov/link/plaw/86/public/70), June 25, 1959, [73 Stat. 143](https://www.govinfo.gov/link/statute/73/143); [Pub. L. 86–624, § 8(a)](https://www.govinfo.gov/link/plaw/86/public/624), July 12, 1960, [74 Stat. 412](https://www.govinfo.gov/link/statute/74/412); [Pub. L. 87–703, title I, § 101(2)](https://www.govinfo.gov/link/plaw/87/public/703), (3), Sept. 27, 1962, [76 Stat. 605](https://www.govinfo.gov/link/statute/76/605), 606; [Pub. L. 88–534, § 1](https://www.govinfo.gov/link/plaw/88/public/534), Aug. 31, 1964, [78 Stat. 743](https://www.govinfo.gov/link/statute/78/743); [Pub. L. 89–742](https://www.govinfo.gov/link/plaw/89/public/742), Nov. 2, 1966, [80 Stat. 1167](https://www.govinfo.gov/link/statute/80/1167); [Pub. L. 92–419, title VI](https://www.govinfo.gov/link/plaw/92/public/419), §§ 605, 606(2)–(5), Aug. 30, 1972, [86 Stat. 676](https://www.govinfo.gov/link/statute/86/676), 677; [Pub. L. 95–113, title XV, § 1501(a)](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 1019](https://www.govinfo.gov/link/statute/91/1019); [Pub. L. 96–294, title II, § 259](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 709](https://www.govinfo.gov/link/statute/94/709); [Pub. L. 99–198, title XVII](https://www.govinfo.gov/link/plaw/99/public/198), §§ 1711(a), 1712, Dec. 23, 1985, [99 Stat. 1635](https://www.govinfo.gov/link/statute/99/1635), 1636; [Pub. L. 99–253, § 3](https://www.govinfo.gov/link/plaw/99/public/253), Feb. 28, 1986, [100 Stat. 36](https://www.govinfo.gov/link/statute/100/36); [Pub. L. 99–500, § 101(a) [title VI, § 645]](https://www.govinfo.gov/link/plaw/99/public/500), Oct. 18, 1986, [100 Stat. 1783](https://www.govinfo.gov/link/statute/100/1783), 1783–36, and [Pub. L. 99–591, § 101(a) [title VI, § 645]](https://www.govinfo.gov/link/plaw/99/public/591), Oct. 30, 1986, [100 Stat. 3341](https://www.govinfo.gov/link/statute/100/3341), 3341–36; [Pub. L. 99–641, title II, § 204](https://www.govinfo.gov/link/plaw/99/public/641), Nov. 10, 1986, [100 Stat. 3563](https://www.govinfo.gov/link/statute/100/3563); [Pub. L. 101–624, title XI, § 1146](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3516](https://www.govinfo.gov/link/statute/104/3516); [Pub. L. 102–237, title II, § 202](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1848](https://www.govinfo.gov/link/statute/105/1848); [Pub. L. 103–354, title II, § 227(a)](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3216](https://www.govinfo.gov/link/statute/108/3216); [Pub. L. 104–127, title III, § 336(a)(1)(A)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1004](https://www.govinfo.gov/link/statute/110/1004); [Pub. L. 107–171, title X, § 10708(b)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 522](https://www.govinfo.gov/link/statute/116/522); [Pub. L. 110–234, title I, § 1615](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1021](https://www.govinfo.gov/link/statute/122/1021); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1615, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1749; [Pub. L. 115–334, title II, § 2301(d)(2)(D)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4554](https://www.govinfo.gov/link/statute/132/4554).)*

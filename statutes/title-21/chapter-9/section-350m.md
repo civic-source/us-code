@@ -3,9 +3,10 @@ title: "Section 350m - Requirements for critical food"
 usc_title: 21
 usc_section: "350m"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 350m"
-generated_at: "2026-03-30T02:54:54.229Z"
+generated_at: "2026-11-23T21:25:56.010Z"
+status: "active"
 ---
 
 # § 350m. Requirements for critical food
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:54.229Z"
       - **(i)** the letter issued under subparagraph (A); and
       - **(ii)** at the request of such person, any response to such letter such person submitted to the Secretary.
   - **(2)** If the Secretary determines that the letter under paragraph (1) was issued in error or, after review of such response, the person had a reasonable basis for not submitting a notification as required under subsection (a), the requirements of paragraph (1)(B) shall not apply.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 424, as added [Pub. L. 117–328, div. FF, title III, § 3401(k)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5844](https://www.govinfo.gov/link/statute/136/5844).)*

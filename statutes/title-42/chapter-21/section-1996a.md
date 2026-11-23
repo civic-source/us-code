@@ -3,9 +3,10 @@ title: "Section 1996a - Traditional Indian religious use of peyote"
 usc_title: 42
 usc_section: "1996a"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1996a"
-generated_at: "2026-03-30T02:56:11.137Z"
+generated_at: "2026-11-23T21:26:32.275Z"
+status: "active"
 ---
 
 # § 1996a. Traditional Indian religious use of peyote
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:11.137Z"
   - **(2)** the rights, express or implicit, of any Indian tribe which exist under treaties, Executive orders, and laws of the United States;
   - **(3)** the inherent right of Indians to practice their religions; and
   - **(4)** the right of Indians to practice their religions under any Federal or State law.
+
+## Source Credit
+
+*([Pub. L. 95–341, § 3](https://www.govinfo.gov/link/plaw/95/public/341), as added [Pub. L. 103–344, § 2](https://www.govinfo.gov/link/plaw/103/public/344), Oct. 6, 1994, [108 Stat. 3125](https://www.govinfo.gov/link/statute/108/3125).)*

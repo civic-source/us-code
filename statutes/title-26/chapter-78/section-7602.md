@@ -3,9 +3,10 @@ title: "Section 7602 - Examination of books and witnesses"
 usc_title: 26
 usc_section: "7602"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7602"
-generated_at: "2026-03-30T02:55:27.879Z"
+generated_at: "2026-11-23T21:26:06.988Z"
+status: "active"
 ---
 
 # § 7602. Examination of books and witnesses
@@ -40,3 +41,9 @@ generated_at: "2026-03-30T02:55:27.879Z"
   - **(3)** For purposes of this subsection, each taxable period (or, if there is no taxable period, each taxable event) and each tax imposed by a separate chapter of this title shall be treated separately.
 - **(e)** The Secretary shall not use financial status or economic reality examination techniques to determine the existence of unreported income of any taxpayer unless the Secretary has a reasonable indication that there is a likelihood of such unreported income.
 - **(f)** The Secretary shall not, under the authority of section 6103(n), provide any books, papers, records, or other data obtained pursuant to this section to any person authorized under section 6103(n), except when such person requires such information for the sole purpose of providing expert evaluation and assistance to the Internal Revenue Service. No person other than an officer or employee of the Internal Revenue Service or the Office of Chief Counsel may, on behalf of the Secretary, question a witness under oath whose testimony was obtained pursuant to this section.
+
+“The amendment made by this section [amending this section]—
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 901; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 97–248, title III, § 333(a)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 622](https://www.govinfo.gov/link/statute/96/622); [Pub. L. 105–206, title III](https://www.govinfo.gov/link/plaw/105/public/206), §§ 3412, 3417(a), July 22, 1998, [112 Stat. 751](https://www.govinfo.gov/link/statute/112/751), 757; [Pub. L. 116–25, title I](https://www.govinfo.gov/link/plaw/116/public/25), §§ 1206(a), 1208(a), July 1, 2019, [133 Stat. 990](https://www.govinfo.gov/link/statute/133/990), 991.)*

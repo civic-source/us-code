@@ -3,9 +3,10 @@ title: "Section 6202 - Definitions"
 usc_title: 7
 usc_section: "6202"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6202"
-generated_at: "2026-03-30T02:53:42.425Z"
+generated_at: "2026-11-23T21:25:28.383Z"
+status: "active"
 ---
 
 # § 6202. Definitions
@@ -29,3 +30,7 @@ As used in this chapter:
   - **(15)** The term—
     - **(A)** “State” means each of the 50 States of the United States, the District of Columbia, and the Commonwealth of Puerto Rico; and
     - **(B)** “United States” means the 50 States of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1953](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3871](https://www.govinfo.gov/link/statute/104/3871); [Pub. L. 103–194, § 3](https://www.govinfo.gov/link/plaw/103/public/194), Dec. 14, 1993, [107 Stat. 2295](https://www.govinfo.gov/link/statute/107/2295).)*

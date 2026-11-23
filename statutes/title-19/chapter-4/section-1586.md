@@ -3,9 +3,10 @@ title: "Section 1586 - Unlawful unlading or transshipment"
 usc_title: 19
 usc_section: "1586"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1586"
-generated_at: "2026-03-30T02:54:24.644Z"
+generated_at: "2026-11-23T21:25:42.728Z"
+status: "active"
 ---
 
 # § 1586. Unlawful unlading or transshipment
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:24.644Z"
 - **(d)** If any merchandise (including sea stores) unladen in violation of the provisions of this section is transshipped to or placed in or received on any other vessel, the master of the vessel on which such merchandise is placed, and any person aiding or assisting therein, shall be liable to a penalty equal to twice the value of the merchandise, but not less than $10,000, and such vessel, and its cargo and such merchandise, shall be seized and forfeited.
 - **(e)** Whoever, at any place, if a citizen of the United States, or at any place in the United States or within customs waters, if a foreign national, shall engage or aid or assist in any unlading or transshipment of any merchandise in consequence of which any vessel becomes subject to forfeiture under the provisions of this section shall, in addition to any other penalties provided by law, be liable to imprisonment for not more than 15 years.
 - **(f)** Whenever any part of the cargo or stores of a vessel has been unladen or transshipped because of accident, stress of weather, or other necessity, the master of such vessel and the master of any vessel to which such cargo or stores has been transshipped shall, as soon as possible thereafter, notify the Customs Service at the district within which such unlading or transshipment has occurred, or the Customs Service at the district at which such vessel shall first arrive thereafter, and shall furnish proof that such unlading or transshipment was made necessary by accident, stress of weather, or other unavoidable cause, and if the Customs Service is satisfied that the unlading or transshipment was in fact due to accident, stress of weather, or other necessity, the penalties described in this section shall not be incurred.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 586, [46 Stat. 749](https://www.govinfo.gov/link/statute/46/749); Aug. 5, 1935, ch. 438, title II, § 205, [49 Stat. 524](https://www.govinfo.gov/link/statute/49/524); [Pub. L. 91–271, title III, § 301(b)](https://www.govinfo.gov/link/plaw/91/public/271), June 2, 1970, [84 Stat. 287](https://www.govinfo.gov/link/statute/84/287); [Pub. L. 99–570, title III, § 3119](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–84](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 103–182, title VI, § 620](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2180](https://www.govinfo.gov/link/statute/107/2180).)*

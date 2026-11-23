@@ -3,9 +3,10 @@ title: "Section 16533 - Hydrocarbon systems science talent expansion program for
 usc_title: 42
 usc_section: "16533"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16533"
-generated_at: "2026-03-30T02:56:11.489Z"
+generated_at: "2026-11-23T21:26:33.749Z"
+status: "active"
 ---
 
 # § 16533. Hydrocarbon systems science talent expansion program for institutions of higher education
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:56:11.489Z"
     - **(A)** $3,000,000 for fiscal year 2008;
     - **(B)** $5,500,000 for fiscal year 2009; and
     - **(C)** $8,000,000 for fiscal year 2010.
+
+## Source Credit
+
+*([Pub. L. 110–69, title V, § 5005](https://www.govinfo.gov/link/plaw/110/public/69), Aug. 9, 2007, [121 Stat. 613](https://www.govinfo.gov/link/statute/121/613); [Pub. L. 111–358, title IX, § 902(b)](https://www.govinfo.gov/link/plaw/111/public/358), Jan. 4, 2011, [124 Stat. 4044](https://www.govinfo.gov/link/statute/124/4044).)*

@@ -3,9 +3,10 @@ title: "Section 5325 - Contract funding and indirect costs"
 usc_title: 25
 usc_section: "5325"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5325"
-generated_at: "2026-03-30T02:54:52.866Z"
+generated_at: "2026-11-23T21:25:54.724Z"
+status: "active"
 ---
 
 # § 5325. Contract funding and indirect costs
@@ -76,3 +77,7 @@ generated_at: "2026-03-30T02:54:52.866Z"
   - **(2)** shall not be a basis for reducing the amount of funds otherwise obligated to the contract.
 - **(n)** To the extent that programs, functions, services, or activities carried out by tribal organizations pursuant to contracts entered into under this chapter reduce the administrative or other responsibilities of the Secretary with respect to the operation of Indian programs and result in savings that have not otherwise been included in the amount of contract funds determined under subsection (a) of this section, the Secretary shall make such savings available for the provision of additional services to program beneficiaries, either directly or through contractors, in a manner equitable to both direct and contracted programs.
 - **(o)** Notwithstanding any other provision of law (including any regulation), a tribal organization that carries out a self-determination contract may, with respect to allocations within the approved budget of the contract, rebudget to meet contract requirements, if such rebudgeting would not have an adverse effect on the performance of the contract.
+
+## Source Credit
+
+*([Pub. L. 93–638, title I, § 106](https://www.govinfo.gov/link/plaw/93/public/638), as added [Pub. L. 100–472, title II, § 205](https://www.govinfo.gov/link/plaw/100/public/472), Oct. 5, 1988, [102 Stat. 2292](https://www.govinfo.gov/link/statute/102/2292); amended [Pub. L. 101–301, § 2(a)(8)](https://www.govinfo.gov/link/plaw/101/public/301), (9), May 24, 1990, [104 Stat. 207](https://www.govinfo.gov/link/statute/104/207); [Pub. L. 101–644, title II, § 203(a)](https://www.govinfo.gov/link/plaw/101/public/644), Nov. 29, 1990, [104 Stat. 4666](https://www.govinfo.gov/link/statute/104/4666); [Pub. L. 103–413, title I, § 102(14)](https://www.govinfo.gov/link/plaw/103/public/413) –(19), Oct. 25, 1994, [108 Stat. 4257–4259](https://www.govinfo.gov/link/statute/108/4257); [Pub. L. 105–362, title VIII, § 801(g)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3288](https://www.govinfo.gov/link/statute/112/3288); [Pub. L. 106–260, § 9](https://www.govinfo.gov/link/plaw/106/public/260), Aug. 18, 2000, [114 Stat. 733](https://www.govinfo.gov/link/statute/114/733); [Pub. L. 116–180, title II, § 204](https://www.govinfo.gov/link/plaw/116/public/180), Oct. 21, 2020, [134 Stat. 880](https://www.govinfo.gov/link/statute/134/880).)*

@@ -3,9 +3,10 @@ title: "Section 5551 - Relation to State law"
 usc_title: 12
 usc_section: "5551"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5551"
-generated_at: "2026-03-30T02:53:53.545Z"
+generated_at: "2026-11-23T21:25:37.288Z"
+status: "active"
 ---
 
 # § 5551. Relation to State law
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:53.545Z"
   - **(4)** No provision of this subsection shall be construed as limiting or restricting the authority of the Bureau to enhance consumer protection standards established pursuant to this title 1 in response to its own motion or in response to a request by any other interested person.
   - **(5)** No provision of this subsection shall be construed as exempting the Bureau from complying with subchapter II of chapter 5 of title 5.
   - **(6)** For purposes of this subsection, the term “consumer protection regulation” means a regulation that the Bureau is authorized to prescribe under the Federal consumer financial laws.
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1041](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2011](https://www.govinfo.gov/link/statute/124/2011).)*

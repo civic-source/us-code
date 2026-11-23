@@ -3,9 +3,10 @@ title: "Section 352 - Exemptions"
 usc_title: 47
 usc_section: "352"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 352"
-generated_at: "2026-03-30T02:56:24.512Z"
+generated_at: "2026-11-23T21:26:36.009Z"
+status: "active"
 ---
 
 # § 352. Exemptions
@@ -26,3 +27,15 @@ generated_at: "2026-03-30T02:56:24.512Z"
   - **(4)** Sailing ships.
 - **(c)** If, because of unforeseeable failure of equipment, a ship is unable to comply with the equipment requirements of this part without undue delay of the ship, the mileage limitations set forth in paragraphs (1) and (2) of subsection (b) shall not apply: Provided , That exemption of the ship is found to be reasonable or necessary in accordance with subsection (b) to permit the ship to proceed to a port where the equipment deficiency may be remedied.
 - **(d)** Except for nuclear ships, and except for ships of five thousand gross tons and upward which are subject to the Safety Convention, the Commission may exempt from the requirements, for radio direction finding apparatus, of this part and of the Safety Convention, any ship which falls within the descriptions set forth in paragraphs (1), (2), (3), and (4) of subsection (b) of this section, if it considers that the route or conditions of the voyage or other circumstances are such as to render such apparatus unreasonable or unnecessary.
+
+Definition of Secretary
+
+Exemption
+
+Functional Requirements
+
+Definition of Alaskan Region
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 352, as added May 20, 1937, ch. 229, § 10(b), [50 Stat. 192](https://www.govinfo.gov/link/statute/50/192); amended Sept. 26, 1950, ch. 1049, § 2(a)(2), [64 Stat. 1038](https://www.govinfo.gov/link/statute/64/1038); Aug. 13, 1954, ch. 729, § 1(b), (c), [68 Stat. 705](https://www.govinfo.gov/link/statute/68/705); [Pub. L. 89–121, § 3](https://www.govinfo.gov/link/plaw/89/public/121), Aug. 13, 1965, [79 Stat. 512](https://www.govinfo.gov/link/statute/79/512); [Pub. L. 97–31, § 12(151)](https://www.govinfo.gov/link/plaw/97/public/31), Aug. 6, 1981, [95 Stat. 167](https://www.govinfo.gov/link/statute/95/167).)*

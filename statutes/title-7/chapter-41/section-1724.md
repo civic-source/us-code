@@ -3,9 +3,10 @@ title: "Section 1724 - Levels of assistance"
 usc_title: 7
 usc_section: "1724"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1724"
-generated_at: "2026-03-30T02:53:42.337Z"
+generated_at: "2026-11-23T21:25:28.156Z"
+status: "active"
 ---
 
 # § 1724. Levels of assistance
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.337Z"
 - **(b)**
   - **(1)** Except as provided in paragraph (2), in making agricultural commodities available under this subchapter, the Administrator shall ensure that not less than 75 percent of the quantity of such commodities required to be distributed during each fiscal year under subsection (a)(2) be in the form of processed, fortified, or bagged commodities and that not less than 50 percent of the quantity of the bagged commodities that are whole grain commodities be bagged in the United States.
   - **(2)** The Administrator may waive the requirement of paragraph (1) for any fiscal year in which the Administrator determines that the requirements of the programs established under this subchapter will not be best served by the enforcement of such requirement under such paragraph.
+
+## Source Credit
+
+*(July 10, 1954, ch. 469, title II, § 204, [68 Stat. 458](https://www.govinfo.gov/link/statute/68/458); [Pub. L. 85–128, § 1(1)](https://www.govinfo.gov/link/plaw/85/public/128), Aug. 13, 1957, [71 Stat. 345](https://www.govinfo.gov/link/statute/71/345); [Pub. L. 85–931, § 5](https://www.govinfo.gov/link/plaw/85/public/931), Sept. 6, 1958, [72 Stat. 1791](https://www.govinfo.gov/link/statute/72/1791); [Pub. L. 86–341, title I, § 1](https://www.govinfo.gov/link/plaw/86/public/341), Sept. 21, 1959, [73 Stat. 606](https://www.govinfo.gov/link/statute/73/606); [Pub. L. 87–128, title II, § 202(2)](https://www.govinfo.gov/link/plaw/87/public/128), Aug. 8, 1961, [75 Stat. 307](https://www.govinfo.gov/link/statute/75/307); [Pub. L. 88–638, § 1(15)](https://www.govinfo.gov/link/plaw/88/public/638), Oct. 8, 1964, [78 Stat. 1037](https://www.govinfo.gov/link/statute/78/1037); [Pub. L. 89–808, § 2(C)](https://www.govinfo.gov/link/plaw/89/public/808), Nov. 11, 1966, [80 Stat. 1535](https://www.govinfo.gov/link/statute/80/1535); [Pub. L. 95–113, title XII, § 1203](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 956](https://www.govinfo.gov/link/statute/91/956); [Pub. L. 97–98, title XII, § 1212](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1281](https://www.govinfo.gov/link/statute/95/1281); [Pub. L. 99–198, title XI, § 1101](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1465](https://www.govinfo.gov/link/statute/99/1465); [Pub. L. 101–624, title XV, § 1512](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3639](https://www.govinfo.gov/link/statute/104/3639); [Pub. L. 104–127, title II, § 209](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 954](https://www.govinfo.gov/link/statute/110/954); [Pub. L. 107–171, title III, § 3004](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 282](https://www.govinfo.gov/link/statute/116/282); [Pub. L. 108–199, div. A, title VII, § 758](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 38](https://www.govinfo.gov/link/statute/118/38); [Pub. L. 110–246, title III, § 3010](https://www.govinfo.gov/link/plaw/110/public/246), June 18, 2008, [122 Stat. 1824](https://www.govinfo.gov/link/statute/122/1824); [Pub. L. 113–79, title III, § 3004](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 774](https://www.govinfo.gov/link/statute/128/774); [Pub. L. 115–334, title III, § 3104](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4604](https://www.govinfo.gov/link/statute/132/4604).)*

@@ -3,9 +3,10 @@ title: "Section 460iii - Findings"
 usc_title: 16
 usc_section: "460iii"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 460iii"
-generated_at: "2026-03-30T02:54:22.839Z"
+generated_at: "2026-11-23T21:25:51.615Z"
+status: "active"
 ---
 
 # § 460iii. Findings
@@ -29,3 +30,7 @@ The Congress finds the following:
   - **(10)** An ongoing research program funded by the Bureau of Land Management and the National Guard is intended to provide information to be used in connection with future decisionmaking concerning management of all uses, including continued military use, of public lands within the Snake River Birds of Prey Area.
   - **(11)** Public lands in the Snake River Birds of Prey Area have been used for domestic livestock grazing for more than a century, with resultant benefits to community stability and contributions to the local and State economies. It has not been demonstrated that continuation of this use would be incompatible with appropriate protection and sound management of raptor habitat and the other resource values of these lands; therefore, subject to the determination provided for in section 460iii–3(f) of this title , it is expected that such grazing will continue in accordance with applicable regulations of the Secretary and the management plan for the conservation area.
   - **(12)** Hydroelectric facilities for the generation and transmission of electricity exist within the Snake River Birds of Prey Area pursuant to a license(s) issued by the Federal Energy Regulatory Commission, or its predecessor, the Federal Power Commission.
+
+## Source Credit
+
+*([Pub. L. 103–64, § 1](https://www.govinfo.gov/link/plaw/103/public/64), Aug. 4, 1993, [107 Stat. 302](https://www.govinfo.gov/link/statute/107/302).)*

@@ -3,9 +3,10 @@ title: "Section 9062 - Policy; composition; aircraft authorization"
 usc_title: 10
 usc_section: "9062"
 chapter: 907
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 9062"
-generated_at: "2026-03-30T02:53:38.256Z"
+generated_at: "2026-11-23T21:25:32.975Z"
+status: "active"
 ---
 
 # § 9062. Policy; composition; aircraft authorization
@@ -82,3 +83,117 @@ generated_at: "2026-03-30T02:53:38.256Z"
     - **(B)** Malmstrom Air Force Base, Cascade County, Montana.
     - **(C)** Minot Air Force Base, Ward County, North Dakota.
   - **(3)** In this subsection, the term “intercontinental ballistic missile” means any combination of the LGM–30G Minuteman III intercontinental ballistic missile or the LGM–35A Sentinel intercontinental ballistic missile.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8062(a) 8062(b) 8062(c) 8062(d) | 10:20. 5:626c(a). 5:626c(f). 10:20r(a). 10:1831. | July 26, 1947, ch. 343, § 208(a) , (f), 61 Stat. 503 ; Aug. 10, 1949, ch. 412, § 12(d) , 63 Stat. 591 . |
+| 8062(e) 8062(f) | 50:1091. 10:20r(b). 10:20t. | July 10, 1950, ch. 454 , §§ 2, 201, 203, 64 Stat. 321 , 323, 324. |
+|  |  | Sept. 19, 1951, ch. 407, § 301 , 65 Stat. 329 . |
+|  |  | July 9, 1952, ch. 608, § 601 , 66 Stat. 501 . |
+
+
+Historical and Revision Notes
+
+8062(a)
+
+8062(b)
+
+8062(c)
+
+8062(d)
+
+July 26, 1947, ch. 343, § 208(a)
+
+61 Stat. 503
+
+Aug. 10, 1949, ch. 412, § 12(d)
+
+63 Stat. 591
+
+8062(e)
+
+8062(f)
+
+July 10, 1950, ch. 454
+
+64 Stat. 321
+
+Sept. 19, 1951, ch. 407, § 301
+
+65 Stat. 329
+
+July 9, 1952, ch. 608, § 601
+
+66 Stat. 501
+
+Report on Proposed Actions
+
+Implementation Deadline
+
+Annual Implementation Reports
+
+Form of Reports
+
+Minimum Level for All Bomber Aircraft.—
+
+In general
+
+Exception
+
+Repeal of Minimum B–
+
+Inventory Requirement
+
+Preservation of Certain B–
+
+Aircraft and Maintenance Personnel
+
+Report on Retirement of Aircraft.—
+
+In general
+
+Timing of report
+
+Fighter Aircraft Defined
+
+Transition Required
+
+Deadlines.—
+
+Regular component
+
+Reserve components
+
+Transition Matters
+
+Reports.—
+
+Initial report
+
+Reports on progress of implementation
+
+Requirements
+
+Submittal of Agreements to the Department of Defense and Congress
+
+Covered Aircraft Transfers.—
+
+Covered transfers
+
+Exceptions
+
+Return of Aircraft After Routine Temporary Transfer
+
+Restriction on Implementation of Consolidation
+
+Report on Criteria
+
+Report on Feasibility Study
+
+Assessment by Chief of the National Guard Bureau
+
+Certification by the Secretary of Defense
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 493, § 8062; [Pub. L. 96–513, title V, § 504(4)](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2916](https://www.govinfo.gov/link/statute/94/2916); [Pub. L. 99–433, title I, § 110(g)(10)](https://www.govinfo.gov/link/plaw/99/public/433), Oct. 1, 1986, [100 Stat. 1004](https://www.govinfo.gov/link/statute/100/1004); [Pub. L. 100–26, § 7(g)(3)](https://www.govinfo.gov/link/plaw/100/public/26), Apr. 21, 1987, [101 Stat. 282](https://www.govinfo.gov/link/statute/101/282); [Pub. L. 100–180, div. A, title XIII, § 1314(b)(9)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1176](https://www.govinfo.gov/link/statute/101/1176); [Pub. L. 109–163, div. A, title X, § 1057(a)(6)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3441](https://www.govinfo.gov/link/statute/119/3441); [Pub. L. 109–364, div. A, title I, § 132](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2112](https://www.govinfo.gov/link/statute/120/2112); [Pub. L. 111–84, div. A, title I, § 139](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2223](https://www.govinfo.gov/link/statute/123/2223); [Pub. L. 112–81, div. A, title I, § 131](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1320](https://www.govinfo.gov/link/statute/125/1320); [Pub. L. 112–239, div. A, title I](https://www.govinfo.gov/link/plaw/112/public/239), §§ 141(a), 142(a), Jan. 2, 2013, [126 Stat. 1659](https://www.govinfo.gov/link/statute/126/1659), 1662; [Pub. L. 115–91, div. A, title I, § 131(a)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1314](https://www.govinfo.gov/link/statute/131/1314); renumbered § 9062 and amended [Pub. L. 115–232, div. A, title I, § 141(a)](https://www.govinfo.gov/link/plaw/115/public/232), title VIII, §§ 806(c), 809(a), Aug. 13, 2018, [132 Stat. 1666](https://www.govinfo.gov/link/statute/132/1666), 1833, 1840; [Pub. L. 116–283, div. A, title I, § 132(b)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3430](https://www.govinfo.gov/link/statute/134/3430); [Pub. L. 117–81, div. A, title I, § 131(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1573](https://www.govinfo.gov/link/statute/135/1573); [Pub. L. 117–263, div. A, title I](https://www.govinfo.gov/link/plaw/117/public/263), §§ 141(a), 142(a), 143(a), Dec. 23, 2022, [136 Stat. 2452](https://www.govinfo.gov/link/statute/136/2452), 2453; [Pub. L. 118–31, div. A, title I](https://www.govinfo.gov/link/plaw/118/public/31), §§ 131(a), 132, Dec. 22, 2023, [137 Stat. 171](https://www.govinfo.gov/link/statute/137/171), 172; [Pub. L. 118–159, div. A, title I, § 141](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1808](https://www.govinfo.gov/link/statute/138/1808); [Pub. L. 119–60, div. A, title I](https://www.govinfo.gov/link/plaw/119/public/60), §§ 141(a), (b), 142(a), 143, title XVI, § 1632(a), Dec. 18, 2025, [139 Stat. 759](https://www.govinfo.gov/link/statute/139/759), 760, 1185.)*

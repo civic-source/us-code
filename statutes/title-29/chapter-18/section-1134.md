@@ -3,9 +3,10 @@ title: "Section 1134 - Investigative authority"
 usc_title: 29
 usc_section: "1134"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1134"
-generated_at: "2026-03-30T02:55:18.719Z"
+generated_at: "2026-11-23T21:26:02.263Z"
+status: "active"
 ---
 
 # § 1134. Investigative authority
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:18.719Z"
   - **(7)** The Department of Health and Human Services.
   - **(8)** Any other Federal or State authority that the Secretary determines is appropriate for the purposes of enforcing the provisions of this subchapter.
 - **(e)** The privilege established under subsection (d) shall apply to communications related to any investigation, audit, examination, or inquiry conducted or coordinated by any of the agencies. A communication that is privileged under subsection (d) shall not waive any privilege otherwise available to the communicating agency or to any person who provided the information that is communicated.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 504](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 893](https://www.govinfo.gov/link/statute/88/893); [Pub. L. 101–239, title VII, § 7891(a)(1)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2445](https://www.govinfo.gov/link/statute/103/2445); [Pub. L. 111–148, title VI, § 6607](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 781](https://www.govinfo.gov/link/statute/124/781).)*

@@ -3,9 +3,10 @@ title: "Section 60p - Transferred"
 usc_title: 2
 usc_section: "60p"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 60p"
-generated_at: "2026-03-30T02:53:04.786Z"
+generated_at: "2026-11-23T21:25:21.123Z"
+status: "transferred"
 ---
 
 # § 60p. Transferred

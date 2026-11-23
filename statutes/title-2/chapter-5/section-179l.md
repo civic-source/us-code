@@ -3,12 +3,17 @@ title: "Section 179l - National Film Registry of Library of Congress"
 usc_title: 2
 usc_section: "179l"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 179l"
-generated_at: "2026-03-30T02:53:04.791Z"
+generated_at: "2026-11-23T21:25:21.144Z"
+status: "active"
 ---
 
 # § 179l. National Film Registry of Library of Congress
 
 The Librarian of Congress (hereafter in sections 179 l to 179w of this title referred to as the “Librarian”) shall continue the National Film Registry established and maintained under the National Film Preservation Act of 1988 ( Public Law 100–446 ), and the National Film Preservation Act of 1992 ( Public Law 102–307 ) pursuant to the provisions of sections 179 l to 179w of this title, for the purpose of maintaining and preserving films that are culturally, historically, or aesthetically significant.
 
+
+## Source Credit
+
+*([Pub. L. 104–285, title I, § 102](https://www.govinfo.gov/link/plaw/104/public/285), Oct. 11, 1996, [110 Stat. 3377](https://www.govinfo.gov/link/statute/110/3377).)*

@@ -3,9 +3,10 @@ title: "Section 262j - Use of renewable resources for energy production"
 usc_title: 22
 usc_section: "262j"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 262j"
-generated_at: "2026-03-30T02:55:05.304Z"
+generated_at: "2026-11-23T21:25:58.320Z"
+status: "active"
 ---
 
 # § 262j. Use of renewable resources for energy production
@@ -24,3 +25,9 @@ generated_at: "2026-03-30T02:55:05.304Z"
   - **(3)** is modest in scale and simple to install and maintain and which can be managed by local individuals;
   - **(4)** is acceptable and affordable; and
   - **(5)** does not damage the environment.
+
+“The Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 96–259, title VI, § 602](https://www.govinfo.gov/link/plaw/96/public/259), June 3, 1980, [94 Stat. 433](https://www.govinfo.gov/link/statute/94/433); [Pub. L. 97–375, title I, § 112](https://www.govinfo.gov/link/plaw/97/public/375), Dec. 21, 1982, [96 Stat. 1821](https://www.govinfo.gov/link/statute/96/1821).)*

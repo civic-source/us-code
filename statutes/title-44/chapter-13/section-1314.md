@@ -3,12 +3,17 @@ title: "Section 1314 - Ephemeris and Nautical Almanac"
 usc_title: 44
 usc_section: "1314"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 1314"
-generated_at: "2026-03-30T02:55:56.290Z"
+generated_at: "2026-11-23T21:26:18.389Z"
+status: "active"
 ---
 
 # § 1314. Ephemeris and Nautical Almanac
 
 The “usual number” of copies of the American Ephemeris and Nautical Almanac may not be printed. Instead, there shall be printed and bound two thousand five hundred copies, uniform with the editions printed for the Department of the Navy, five hundred of which shall be for the use of the Senate, one thousand for the use of the House of Representatives, and one thousand for distribution or sale by the Department of the Navy. The Secretary of the Navy may cause to be published of the papers supplementary to the Ephemeris and Nautical Almanac, one thousand five hundred copies in addition to the usual number, one hundred copies for the Senate, four hundred for the House of Representatives, and one thousand for distribution or sale by the Department of the Navy. The Secretary of the Navy may cause additional copies of the Nautical Almanacs extracted from the Ephemeris, to be printed for the public service and for sale to navigators and others. Moneys received from sales of the Ephemeris and of the Nautical Almanacs shall be deposited in the Treasury and placed to the credit of the general fund for public printing.
 
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1267](https://www.govinfo.gov/link/statute/82/1267).)*

@@ -3,9 +3,10 @@ title: "Section 311 - Requirements as to certain applications in broadcasting se
 usc_title: 47
 usc_section: "311"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 311"
-generated_at: "2026-03-30T02:56:24.507Z"
+generated_at: "2026-11-23T21:26:35.988Z"
+status: "active"
 ---
 
 # § 311. Requirements as to certain applications in broadcasting service
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:24.507Z"
   - **(2)** The request for Commission approval in any such case shall be made in writing jointly by all the parties to the agreement. Such request shall contain or be accompanied by full information with respect to the agreement, set forth in such detail, form, and manner as the Commission shall require.
   - **(3)** The Commission shall approve the agreement only if it determines that (A) the agreement is consistent with the public interest, convenience, or necessity; and (B) no party to the agreement filed its application for the purpose of reaching or carrying out such agreement.
   - **(4)** For purposes of this subsection, an application shall be deemed to be pending before the Commission from the time such application is filed with the Commission until an order of the Commission granting or denying it is no longer subject to rehearing by the Commission or to review by any court.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 311, [48 Stat. 1086](https://www.govinfo.gov/link/statute/48/1086); July 16, 1952, ch. 879, § 9, [66 Stat. 716](https://www.govinfo.gov/link/statute/66/716); [Pub. L. 86–752, § 5(a)](https://www.govinfo.gov/link/plaw/86/public/752), Sept. 13, 1960, [74 Stat. 892](https://www.govinfo.gov/link/statute/74/892); [Pub. L. 97–35, title XII, § 1243](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 737](https://www.govinfo.gov/link/statute/95/737); [Pub. L. 97–259, title I, § 116](https://www.govinfo.gov/link/plaw/97/public/259), Sept. 13, 1982, [96 Stat. 1095](https://www.govinfo.gov/link/statute/96/1095).)*

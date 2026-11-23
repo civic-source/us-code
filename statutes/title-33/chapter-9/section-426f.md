@@ -3,9 +3,10 @@ title: "Section 426f - Reimbursements"
 usc_title: 33
 usc_section: "426f"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 426f"
-generated_at: "2026-03-30T02:55:41.055Z"
+generated_at: "2026-11-23T21:26:11.301Z"
+status: "active"
 ---
 
 # § 426f. Reimbursements
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:41.055Z"
   - **(2)** The agreement shall—
     - **(A)** specify the life of the project; and
     - **(B)** ensure that the Federal Government and the non-Federal interest will cooperate in carrying out the project or separable element.
+
+## Source Credit
+
+*(Aug. 13, 1946, ch. 960, § 2, [60 Stat. 1056](https://www.govinfo.gov/link/statute/60/1056); July 26, 1947, ch. 343, title II, § 205(a), [61 Stat. 501](https://www.govinfo.gov/link/statute/61/501); July 28, 1956, ch. 768, [70 Stat. 703](https://www.govinfo.gov/link/statute/70/703); [Pub. L. 87–874, title I, § 103(a)(4)](https://www.govinfo.gov/link/plaw/87/public/874), Oct. 23, 1962, [76 Stat. 1178](https://www.govinfo.gov/link/statute/76/1178); [Pub. L. 104–303, title II, § 227(c)(1)](https://www.govinfo.gov/link/plaw/104/public/303), Oct. 12, 1996, [110 Stat. 3699](https://www.govinfo.gov/link/statute/110/3699).)*

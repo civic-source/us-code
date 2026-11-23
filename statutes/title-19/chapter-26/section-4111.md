@@ -3,9 +3,10 @@ title: "Section 4111 - Periodic reports and meetings on labor obligations and la
 usc_title: 19
 usc_section: "4111"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4111"
-generated_at: "2026-03-30T02:54:24.702Z"
+generated_at: "2026-11-23T21:25:42.874Z"
+status: "active"
 ---
 
 # § 4111. Periodic reports and meetings on labor obligations and labor capacity-building provisions
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:24.702Z"
     - **(C)** the work of the International Labor Organization in the CAFTA–DR countries, and other cooperative efforts, to afford to workers internationally-recognized worker rights; and
     - **(D)** such other matters as the Secretary of Labor and the labor ministers consider appropriate.
   - **(2)** The President shall include in each report under subsection (a), as the President deems appropriate, summaries of the meetings held pursuant to paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 109–53, title IV, § 403](https://www.govinfo.gov/link/plaw/109/public/53), Aug. 2, 2005, [119 Stat. 496](https://www.govinfo.gov/link/statute/119/496).)*

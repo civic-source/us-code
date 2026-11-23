@@ -3,9 +3,10 @@ title: "Section 1346 - United States as defendant"
 usc_title: 28
 usc_section: "1346"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1346"
-generated_at: "2026-03-30T02:55:30.139Z"
+generated_at: "2026-11-23T21:26:01.085Z"
+status: "active"
 ---
 
 # § 1346. United States as defendant
@@ -21,3 +22,11 @@ generated_at: "2026-03-30T02:55:30.139Z"
 - **(e)** The district courts shall have original jurisdiction of any civil action against the United States provided in section 6226, 6228(a), 7426, or 7428 (in the case of the United States district court for the District of Columbia) or section 7429 of the Internal Revenue Code of 1986.
 - **(f)** The district courts shall have exclusive original jurisdiction of civil actions under section 2409a to quiet title to an estate or interest in real property in which an interest is claimed by the United States.
 - **(g)** Subject to the provisions of chapter 179, the district courts of the United States shall have exclusive jurisdiction over any civil action commenced under section 453(2) of title 3 , by a covered employee under chapter 5 of such title.
+
+Act
+
+Act
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 933](https://www.govinfo.gov/link/statute/62/933); Apr. 25, 1949, ch. 92, § 2(a), [63 Stat. 62](https://www.govinfo.gov/link/statute/63/62); May 24, 1949, ch. 139, § 80(a), (b), [63 Stat. 101](https://www.govinfo.gov/link/statute/63/101); Oct. 31, 1951, ch. 655, § 50(b), [65 Stat. 727](https://www.govinfo.gov/link/statute/65/727); July 30, 1954, ch. 648, § 1, [68 Stat. 589](https://www.govinfo.gov/link/statute/68/589); [Pub. L. 85–508, § 12(e)](https://www.govinfo.gov/link/plaw/85/public/508), July 7, 1958, [72 Stat. 348](https://www.govinfo.gov/link/statute/72/348); [Pub. L. 88–519](https://www.govinfo.gov/link/plaw/88/public/519), Aug. 30, 1964, [78 Stat. 699](https://www.govinfo.gov/link/statute/78/699); [Pub. L. 89–719, title II, § 202(a)](https://www.govinfo.gov/link/plaw/89/public/719), Nov. 2, 1966, [80 Stat. 1148](https://www.govinfo.gov/link/statute/80/1148); [Pub. L. 91–350, § 1(a)](https://www.govinfo.gov/link/plaw/91/public/350), July 23, 1970, [84 Stat. 449](https://www.govinfo.gov/link/statute/84/449); [Pub. L. 92–562, § 1](https://www.govinfo.gov/link/plaw/92/public/562), Oct. 25, 1972, [86 Stat. 1176](https://www.govinfo.gov/link/statute/86/1176); [Pub. L. 94–455, title XII, § 1204(c)(1)](https://www.govinfo.gov/link/plaw/94/public/455), title XIII, § 1306(b)(7), Oct. 4, 1976, [90 Stat. 1697](https://www.govinfo.gov/link/statute/90/1697), 1719; [Pub. L. 95–563, § 14(a)](https://www.govinfo.gov/link/plaw/95/public/563), Nov. 1, 1978, [92 Stat. 2389](https://www.govinfo.gov/link/statute/92/2389); [Pub. L. 97–164, title I, § 129](https://www.govinfo.gov/link/plaw/97/public/164), Apr. 2, 1982, [96 Stat. 39](https://www.govinfo.gov/link/statute/96/39); [Pub. L. 97–248, title IV, § 402(c)(17)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 669](https://www.govinfo.gov/link/statute/96/669); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 102–572, title IX, § 902(b)(1)](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4516](https://www.govinfo.gov/link/statute/106/4516); [Pub. L. 104–134, title I, § 101[(a)]](https://www.govinfo.gov/link/plaw/104/public/134) [title VIII, § 806], Apr. 26, 1996, [110 Stat. 1321](https://www.govinfo.gov/link/statute/110/1321), 1321–75; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327); [Pub. L. 104–331, § 3(b)(1)](https://www.govinfo.gov/link/plaw/104/public/331), Oct. 26, 1996, [110 Stat. 4069](https://www.govinfo.gov/link/statute/110/4069); [Pub. L. 111–350, § 5(g)(6)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3848](https://www.govinfo.gov/link/statute/124/3848); [Pub. L. 113–4, title XI, § 1101(b)](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 134](https://www.govinfo.gov/link/statute/127/134).)*

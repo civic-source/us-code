@@ -3,9 +3,10 @@ title: "Section 1140b - Grants, contracts, and cooperative agreements authorized
 usc_title: 20
 usc_section: "1140b"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1140b"
-generated_at: "2026-03-30T02:54:48.148Z"
+generated_at: "2026-11-23T21:25:47.255Z"
+status: "active"
 ---
 
 # § 1140b. Grants, contracts, and cooperative agreements authorized
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:54:48.148Z"
   - **(2)** Not later than three years after the date of the first award of a grant under this subpart after August 14, 2008 , the Secretary shall prepare and submit to the authorizing committees, and make available to the public, a report that—
     - **(A)** reviews the activities and program performance of the demonstration projects authorized under this subpart; and
     - **(B)** provides guidance and recommendations on how effective projects can be replicated.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VII, § 762](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title VII, § 709(2)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3362](https://www.govinfo.gov/link/statute/122/3362).)*

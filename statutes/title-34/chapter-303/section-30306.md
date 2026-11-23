@@ -3,9 +3,10 @@ title: "Section 30306 - National Prison Rape Elimination Commission"
 usc_title: 34
 usc_section: "30306"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 30306"
-generated_at: "2026-03-30T02:55:33.306Z"
+generated_at: "2026-11-23T21:26:09.822Z"
+status: "active"
 ---
 
 # § 30306. National Prison Rape Elimination Commission
@@ -102,3 +103,7 @@ generated_at: "2026-03-30T02:55:33.306Z"
 - **(l)** There are authorized to be appropriated such sums as may be necessary to carry out this section.
 - **(m)** The Commission shall terminate on the date that is 60 days after the date on which the Commission submits the reports required by this section.
 - **(n)** The Commission shall be exempt from chapter 10 of title 5.
+
+## Source Credit
+
+*([Pub. L. 108–79, § 7](https://www.govinfo.gov/link/plaw/108/public/79), Sept. 4, 2003, [117 Stat. 980](https://www.govinfo.gov/link/statute/117/980); [Pub. L. 108–447, div. B, title I, § 123(1)](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 2871](https://www.govinfo.gov/link/statute/118/2871); [Pub. L. 109–108, title I, § 113(b)](https://www.govinfo.gov/link/plaw/109/public/108), Nov. 22, 2005, [119 Stat. 2305](https://www.govinfo.gov/link/statute/119/2305); [Pub. L. 109–162, title XI, § 1181](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3126](https://www.govinfo.gov/link/statute/119/3126); [Pub. L. 110–199, title II, § 261](https://www.govinfo.gov/link/plaw/110/public/199), Apr. 9, 2008, [122 Stat. 694](https://www.govinfo.gov/link/statute/122/694); [Pub. L. 117–286, § 4(a)(212)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4329](https://www.govinfo.gov/link/statute/136/4329).)*

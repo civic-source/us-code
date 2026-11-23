@@ -3,9 +3,10 @@ title: "Section 2204 - Purchase of trust or restricted or controlled lands at no
 usc_title: 25
 usc_section: "2204"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2204"
-generated_at: "2026-03-30T02:54:52.836Z"
+generated_at: "2026-11-23T21:25:54.659Z"
+status: "active"
 ---
 
 # § 2204. Purchase of trust or restricted or controlled lands at no less than fair market value; requisite conditions
@@ -109,3 +110,25 @@ generated_at: "2026-03-30T02:54:52.836Z"
     - **(A)** the total amount of such assistance in any such sale shall not exceed 20 percent of the appraised value of the parcel of land sold; and
     - **(B)** the grant or loan funds provided shall only be applied toward the purchase price of the parcel of land sold.
   - **(5)** The Secretary is authorized to adopt such regulations as may be necessary to implement the provisions of this subsection. Such regulations may include provisions for giving notice of sales to prospective purchasers eligible to submit bids at sales conducted under paragraph (2)(I).
+
+(aa) continuously maintained a bona fide residence on the parcel; or
+
+(bb) operated a bona fide farm, ranch, or other business on the parcel; and
+
+(aa) publishing the notice described in clause (i) at least 2 times in a newspaper of general circulation in the county or counties where the subject parcel of land is located or, if there is an Indian tribe with jurisdiction over the parcel of land and that tribe publishes a tribal newspaper or newsletter at least once every month, 1 time in such newspaper of general circulation and 1 time in such tribal newspaper or newsletter;
+
+(bb) posting such notice in a conspicuous place in the tribal headquarters or administration building (or such other tribal building determined by the Secretary to be most appropriate for giving public notice) of the Indian tribe with jurisdiction over the parcel of land, if any; and
+
+(cc) in addition to the foregoing, in the Secretary’s discretion, publishing notice in any other place or means that the Secretary determines to be appropriate.
+
+(aa) greater than the undivided interest held by any other co-owners, except where there are 2 or more co-owners whose interests are of equal size but larger than the interests of all other co-owners and such owners of the largest interests have agreed in writing that 1 of them may exercise the right of purchase under this clause; and
+
+(bb) equal to or greater than 20 percent of the entire undivided ownership of the parcel;
+
+(aa) not more than 30 days after the date of the auction or time for receiving sealed bids; and
+
+(bb) in accordance with any requirements of the regulations promulgated under paragraph (5).
+
+## Source Credit
+
+*([Pub. L. 97–459, title II, § 205](https://www.govinfo.gov/link/plaw/97/public/459), Jan. 12, 1983, [96 Stat. 2517](https://www.govinfo.gov/link/statute/96/2517); [Pub. L. 98–608, § 1(2)](https://www.govinfo.gov/link/plaw/98/public/608), Oct. 30, 1984, [98 Stat. 3171](https://www.govinfo.gov/link/statute/98/3171); [Pub. L. 106–462, title I, § 103(2)](https://www.govinfo.gov/link/plaw/106/public/462), Nov. 7, 2000, [114 Stat. 1993](https://www.govinfo.gov/link/statute/114/1993); [Pub. L. 108–374](https://www.govinfo.gov/link/plaw/108/public/374), §§ 4, 6(a)(1), Oct. 27, 2004, [118 Stat. 1787](https://www.govinfo.gov/link/statute/118/1787), 1797; [Pub. L. 109–157](https://www.govinfo.gov/link/plaw/109/public/157), §§ 2, 8(a)(1), Dec. 30, 2005, [119 Stat. 2949](https://www.govinfo.gov/link/statute/119/2949), 2952; [Pub. L. 110–453, title II, § 207(b)](https://www.govinfo.gov/link/plaw/110/public/453), Dec. 2, 2008, [122 Stat. 5030](https://www.govinfo.gov/link/statute/122/5030).)*

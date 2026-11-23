@@ -3,9 +3,10 @@ title: "Section 424a - Reduction of disability benefits"
 usc_title: 42
 usc_section: "424a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 424a"
-generated_at: "2026-03-30T02:56:10.866Z"
+generated_at: "2026-11-23T21:26:31.050Z"
+status: "active"
 ---
 
 # § 424a. Reduction of disability benefits
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:10.866Z"
 - **(h)**
   - **(1)** Notwithstanding any other provision of law, the head of any Federal agency shall provide such information within its possession as the Commissioner of Social Security may require for purposes of making a timely determination of the amount of the reduction, if any, required by this section in benefits payable under this subchapter, or verifying other information necessary in carrying out the provisions of this section.
   - **(2)** The Commissioner of Social Security is authorized to enter into agreements with States, political subdivisions, and other organizations that administer a law or plan subject to the provisions of this section, in order to obtain such information as the Commissioner may require to carry out the provisions of this section.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title II, § 224, as added [Pub. L. 89–97, title III, § 335](https://www.govinfo.gov/link/plaw/89/public/97), July 30, 1965, [79 Stat. 406](https://www.govinfo.gov/link/statute/79/406); amended [Pub. L. 90–248, title I, § 159(a)](https://www.govinfo.gov/link/plaw/90/public/248), Jan. 2, 1968, [81 Stat. 869](https://www.govinfo.gov/link/statute/81/869); [Pub. L. 92–603, title I, § 119(a)](https://www.govinfo.gov/link/plaw/92/public/603), (b), Oct. 30, 1972, [86 Stat. 1352](https://www.govinfo.gov/link/statute/86/1352); [Pub. L. 94–202, § 8(j)](https://www.govinfo.gov/link/plaw/94/public/202), Jan. 2, 1976, [89 Stat. 1140](https://www.govinfo.gov/link/statute/89/1140); [Pub. L. 95–216, title II, § 205(d)](https://www.govinfo.gov/link/plaw/95/public/216), title III, § 353(c), Dec. 20, 1977, [91 Stat. 1529](https://www.govinfo.gov/link/statute/91/1529), 1553; [Pub. L. 97–35, title XXII, § 2208(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 839](https://www.govinfo.gov/link/statute/95/839); [Pub. L. 99–272, title XII, § 12109(a)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 286](https://www.govinfo.gov/link/statute/100/286); [Pub. L. 99–509, title IX, § 9002(c)(2)(F)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1972](https://www.govinfo.gov/link/statute/100/1972); [Pub. L. 101–239, title X, § 10208(b)(2)(A)](https://www.govinfo.gov/link/plaw/101/public/239), (C), (d)(2)(A)(i), (iii), Dec. 19, 1989, [103 Stat. 2477](https://www.govinfo.gov/link/statute/103/2477), 2478, 2480, 2481; [Pub. L. 103–296, title I, § 107(a)(4)](https://www.govinfo.gov/link/plaw/103/public/296), title III, § 321(e)(2)(H), Aug. 15, 1994, [108 Stat. 1478](https://www.govinfo.gov/link/statute/108/1478), 1540; [Pub. L. 113–295, div. B, title II, § 201(a)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4064](https://www.govinfo.gov/link/statute/128/4064).)*

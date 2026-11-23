@@ -3,9 +3,10 @@ title: "Section 500 - Electromagnetic Spectrum Operations Executive Committee"
 usc_title: 10
 usc_section: "500"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 500"
-generated_at: "2026-03-30T02:53:38.063Z"
+generated_at: "2026-11-23T21:25:32.275Z"
+status: "active"
 ---
 
 # § 500. Electromagnetic Spectrum Operations Executive Committee
@@ -59,3 +60,29 @@ generated_at: "2026-03-30T02:53:38.063Z"
   - **(2)** The Executive Committee shall dissolve a mission area working group established under paragraph (1) once the issue the working group was established to address is satisfactorily resolved.
 - **(j)** The Under Secretary of Defense for Acquisition and Sustainment shall administratively support the Executive Committee, including by designating not fewer than two officials of the Department of Defense to support the day-to-day operations of the Executive Committee.
 - **(k)** Not later than February 28, 2024 , and annually thereafter through 2030, the Executive Committee shall submit to the congressional defense committees a summary of activities of the Executive Committee during the preceding fiscal year.
+
+In General
+
+Purposes
+
+Responsibilities
+
+Coordination With Intelligence Community
+
+Meetings
+
+Membership
+
+Co-chairs of Executive Committee
+
+Electromagnetic Spectrum Operations Capability Team
+
+Mission Area Working Groups
+
+Administration
+
+Report to Congress
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVI, § 1682(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 611](https://www.govinfo.gov/link/statute/137/611).)*

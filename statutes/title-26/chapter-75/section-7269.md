@@ -3,12 +3,17 @@ title: "Section 7269 - Failure to produce records"
 usc_title: 26
 usc_section: "7269"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7269"
-generated_at: "2026-03-30T02:55:27.869Z"
+generated_at: "2026-11-23T21:26:06.948Z"
+status: "active"
 ---
 
 # § 7269. Failure to produce records
 
 Whoever fails to comply with any duty imposed upon him by section 6018, 6036 (in the case of an executor), or 6075(a), or, having in his possession or control any record, file, or paper, containing or supposed to contain any information concerning the estate of the decedent, or, having in his possession or control any property comprised in the gross estate of the decedent, fails to exhibit the same upon request to the Secretary who desires to examine the same in the performance of his duties under chapter 11 (relating to estate taxes), shall be liable to a penalty of not exceeding $500, to be recovered, with costs of suit, in a civil action in the name of the United States.
 
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 865; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834).)*

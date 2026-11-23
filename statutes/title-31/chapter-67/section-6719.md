@@ -3,9 +3,10 @@ title: "Section 6719 - Reports"
 usc_title: 31
 usc_section: "6719"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 6719"
-generated_at: "2026-03-30T02:55:34.075Z"
+generated_at: "2026-11-23T21:26:10.649Z"
+status: "active"
 ---
 
 # § 6719. Reports
@@ -23,3 +24,15 @@ generated_at: "2026-03-30T02:55:34.075Z"
     - **(B)** the relationship of the payment to the relevant functional items in the budget of the government; and
     - **(C)** the differences between the actual and proposed use of the payment.
   - **(2)** The Secretary shall provide a copy of a report submitted under paragraph (1) by a unit of general local government to the chief executive officer of the State in which the government is located. The Secretary shall provide the report in the manner and form prescribed by the Secretary.
+
+Reports by Secretary to Congress
+
+Reports by Units of General Local Government to Secretary.—
+
+In general
+
+Availability of report
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title III, § 31001(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1879](https://www.govinfo.gov/link/statute/108/1879).)*

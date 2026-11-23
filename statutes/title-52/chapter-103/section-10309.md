@@ -3,9 +3,10 @@ title: "Section 10309 - Termination of assignment of observers"
 usc_title: 52
 usc_section: "10309"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 10309"
-generated_at: "2026-03-30T02:56:30.160Z"
+generated_at: "2026-11-23T21:26:42.321Z"
+status: "active"
 ---
 
 # § 10309. Termination of assignment of observers
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:30.160Z"
   - **(2)** with respect to observers appointed pursuant to section 10302(a) of this title , upon order of the authorizing court.
 - **(b)** A political subdivision referred to in subsection (a)(1) is one with respect to which the Director of the Census has determined that more than 50 per centum of the nonwhite persons of voting age residing therein are registered to vote.
 - **(c)** A political subdivision may petition the Attorney General for a termination under subsection (a)(1).
+
+## Source Credit
+
+*([Pub. L. 89–110, title I, § 13](https://www.govinfo.gov/link/plaw/89/public/110), Aug. 6, 1965, [79 Stat. 444](https://www.govinfo.gov/link/statute/79/444); renumbered title I, [Pub. L. 91–285, § 2](https://www.govinfo.gov/link/plaw/91/public/285), June 22, 1970, [84 Stat. 314](https://www.govinfo.gov/link/statute/84/314); amended [Pub. L. 94–73, title II, § 206](https://www.govinfo.gov/link/plaw/94/public/73), Aug. 6, 1975, [89 Stat. 402](https://www.govinfo.gov/link/statute/89/402); [Pub. L. 109–246, § 3(b)](https://www.govinfo.gov/link/plaw/109/public/246), July 27, 2006, [120 Stat. 579](https://www.govinfo.gov/link/statute/120/579); [Pub. L. 110–258, § 2](https://www.govinfo.gov/link/plaw/110/public/258), July 1, 2008, [122 Stat. 2428](https://www.govinfo.gov/link/statute/122/2428).)*

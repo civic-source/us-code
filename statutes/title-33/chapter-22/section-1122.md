@@ -3,9 +3,10 @@ title: "Section 1122 - Definitions"
 usc_title: 33
 usc_section: "1122"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1122"
-generated_at: "2026-03-30T02:55:41.080Z"
+generated_at: "2026-11-23T21:26:11.356Z"
+status: "active"
 ---
 
 # § 1122. Definitions
@@ -39,3 +40,7 @@ As used in this subchapter—
   - **(14)** The term “sea grant program” means a program of research and outreach which is administered by one or more sea grant colleges or sea grant institutes.
   - **(15)** The term “Secretary” means the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere.
   - **(16)** The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Mariana Islands, or any other territory or possession of the United States.
+
+## Source Credit
+
+*([Pub. L. 89–454, title II, § 203](https://www.govinfo.gov/link/plaw/89/public/454), as added [Pub. L. 89–688, § 1](https://www.govinfo.gov/link/plaw/89/public/688), Oct. 15, 1966, [80 Stat. 999](https://www.govinfo.gov/link/statute/80/999); amended [Pub. L. 90–477, § 1(1)](https://www.govinfo.gov/link/plaw/90/public/477), Aug. 11, 1968, [82 Stat. 704](https://www.govinfo.gov/link/statute/82/704); [Pub. L. 91–349](https://www.govinfo.gov/link/plaw/91/public/349), July 23, 1970, [84 Stat. 448](https://www.govinfo.gov/link/statute/84/448); [Pub. L. 93–73, § 1(1)](https://www.govinfo.gov/link/plaw/93/public/73), (5), July 10, 1973, [87 Stat. 170](https://www.govinfo.gov/link/statute/87/170); [Pub. L. 94–461, § 2](https://www.govinfo.gov/link/plaw/94/public/461), Oct. 8, 1976, [90 Stat. 1962](https://www.govinfo.gov/link/statute/90/1962); [Pub. L. 95–428, § 2(b)](https://www.govinfo.gov/link/plaw/95/public/428), Oct. 7, 1978, [92 Stat. 999](https://www.govinfo.gov/link/statute/92/999); [Pub. L. 96–289, § 1(1)](https://www.govinfo.gov/link/plaw/96/public/289), June 28, 1980, [94 Stat. 605](https://www.govinfo.gov/link/statute/94/605); [Pub. L. 100–220, title III, § 3104(a)](https://www.govinfo.gov/link/plaw/100/public/220), (b)(1)(C), Dec. 29, 1987, [101 Stat. 1470](https://www.govinfo.gov/link/statute/101/1470); [Pub. L. 102–186, § 5(b)(1)](https://www.govinfo.gov/link/plaw/102/public/186), Dec. 4, 1991, [105 Stat. 1284](https://www.govinfo.gov/link/statute/105/1284); [Pub. L. 102–251, title III, § 307(a)](https://www.govinfo.gov/link/plaw/102/public/251), Mar. 9, 1992, [106 Stat. 66](https://www.govinfo.gov/link/statute/106/66); [Pub. L. 105–160, § 4(a)](https://www.govinfo.gov/link/plaw/105/public/160), Mar. 6, 1998, [112 Stat. 21](https://www.govinfo.gov/link/statute/112/21); [Pub. L. 105–174, title III, § 10003](https://www.govinfo.gov/link/plaw/105/public/174), May 1, 1998, [112 Stat. 99](https://www.govinfo.gov/link/statute/112/99); [Pub. L. 110–394](https://www.govinfo.gov/link/plaw/110/public/394), §§ 4, 9(a)(4)(B), Oct. 13, 2008, [122 Stat. 4206](https://www.govinfo.gov/link/statute/122/4206), 4208.)*

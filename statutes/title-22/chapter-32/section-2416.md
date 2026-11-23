@@ -3,9 +3,10 @@ title: "Section 2416 - Annual foreign military training report"
 usc_title: 22
 usc_section: "2416"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2416"
-generated_at: "2026-03-30T02:55:05.365Z"
+generated_at: "2026-11-23T21:25:58.491Z"
+status: "active"
 ---
 
 # § 2416. Annual foreign military training report
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:05.365Z"
 - **(e)** In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committee on Appropriations and the Committee on International Relations of the House of Representatives; and
   - **(2)** the Committee on Appropriations and the Committee on Foreign Relations of the Senate.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 656, as added [Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XIII, § 1307]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–512; amended [Pub. L. 107–228, div. B, title XII, § 1262(a)](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1434](https://www.govinfo.gov/link/statute/116/1434).)*

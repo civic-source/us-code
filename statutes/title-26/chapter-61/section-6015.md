@@ -3,9 +3,10 @@ title: "Section 6015 - Relief from joint and several liability on joint return"
 usc_title: 26
 usc_section: "6015"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6015"
-generated_at: "2026-03-30T02:55:27.829Z"
+generated_at: "2026-11-23T21:26:06.754Z"
+status: "active"
 ---
 
 # § 6015. Relief from joint and several liability on joint return
@@ -87,3 +88,11 @@ generated_at: "2026-03-30T02:55:27.829Z"
 - **(h)** The Secretary shall prescribe such regulations as are necessary to carry out the provisions of this section, including—
   - **(1)** regulations providing methods for allocation of items other than the methods under subsection (d)(3); and
   - **(2)** regulations providing the opportunity for an individual to have notice of, and an opportunity to participate in, any administrative proceeding with respect to an election made under subsection (b) or (c) or a request for equitable relief made under subsection (f) by the other individual filing the joint return.
+
+In general
+
+year period
+
+## Source Credit
+
+*(Added [Pub. L. 105–206, title III, § 3201(a)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 734](https://www.govinfo.gov/link/statute/112/734); amended [Pub. L. 105–277, div. J, title IV, § 4002(c)(2)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–906](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–554, § 1(a)(7) [title III, § 313(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–640; [Pub. L. 109–432, div. C, title IV, § 408(a)](https://www.govinfo.gov/link/plaw/109/public/432), (b), Dec. 20, 2006, [120 Stat. 3061](https://www.govinfo.gov/link/statute/120/3061), 3062; [Pub. L. 114–113, div. Q, title IV, § 424(a)(1)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3124](https://www.govinfo.gov/link/statute/129/3124); [Pub. L. 116–25, title I](https://www.govinfo.gov/link/plaw/116/public/25), §§ 1001(b)(1)(A), 1203(a), July 1, 2019, [133 Stat. 985](https://www.govinfo.gov/link/statute/133/985), 988.)*

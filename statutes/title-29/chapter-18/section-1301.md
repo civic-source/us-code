@@ -3,9 +3,10 @@ title: "Section 1301 - Definitions"
 usc_title: 29
 usc_section: "1301"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1301"
-generated_at: "2026-03-30T02:55:18.728Z"
+generated_at: "2026-11-23T21:26:02.281Z"
+status: "active"
 ---
 
 # § 1301. Definitions
@@ -69,3 +70,9 @@ generated_at: "2026-03-30T02:55:18.728Z"
   - **(2)** For purposes of subtitle E—
     - **(A)** except as otherwise provided in subtitle E, contributions or other payments shall be considered made under a plan for a plan year if they are made within the period prescribed under section 412(c)(10) 3 3 See References in Text note below. of title 26 (determined, in the case of a terminated plan, as if the plan had continued beyond the termination date), and
     - **(B)** the term “Secretary of the Treasury” means the Secretary of the Treasury or such Secretary’s delegate.
+
+“The amendments made by this section [amending this section and sections 1305, 1322, 1341, 1342, 1349, 1362, 1364, and 1368 of this title and repealing section 1349 of this title ] shall apply with respect to—
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4001](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 1003](https://www.govinfo.gov/link/statute/88/1003); [Pub. L. 96–364, title IV, § 402(a)(1)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1296](https://www.govinfo.gov/link/statute/94/1296); [Pub. L. 99–272, title XI, § 11004](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 238](https://www.govinfo.gov/link/statute/100/238); [Pub. L. 100–203, title IX](https://www.govinfo.gov/link/plaw/100/public/203), §§ 9312(b)(4), (5), 9313(a)(2)(F), Dec. 22, 1987, [101 Stat. 1330–363](https://www.govinfo.gov/link/statute/101/1330), 1330–365; [Pub. L. 101–239, title VII, § 7891(a)(1)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2445](https://www.govinfo.gov/link/statute/103/2445); [Pub. L. 102–229, title II, § 214](https://www.govinfo.gov/link/plaw/102/public/229), Dec. 12, 1991, [105 Stat. 1718](https://www.govinfo.gov/link/statute/105/1718); [Pub. L. 103–465, title VII, § 761(a)(11)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 5034](https://www.govinfo.gov/link/statute/108/5034); [Pub. L. 109–280, title I, § 108(b)(1)](https://www.govinfo.gov/link/plaw/109/public/280), formerly § 107(b)(1), Aug. 17, 2006, [120 Stat. 819](https://www.govinfo.gov/link/statute/120/819), renumbered [Pub. L. 111–192, title II, § 202(a)](https://www.govinfo.gov/link/plaw/111/public/192), June 25, 2010, [124 Stat. 1297](https://www.govinfo.gov/link/statute/124/1297); [Pub. L. 113–235, div. O, title I, § 108(a)(3)(A)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2787](https://www.govinfo.gov/link/statute/128/2787).)*

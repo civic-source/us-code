@@ -3,9 +3,10 @@ title: "Section 286rr - Approval to sell a limited amount of the Fund’s gold"
 usc_title: 22
 usc_section: "286rr"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 286rr"
-generated_at: "2026-03-30T02:55:05.320Z"
+generated_at: "2026-11-23T21:25:58.366Z"
+status: "active"
 ---
 
 # § 286rr. Approval to sell a limited amount of the Fund’s gold
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.320Z"
   - **(3)** support provided through forgiveness of interest on concessional loans will be provided for not less than two years; and
   - **(4)** the support provided to low-income countries occurs within six years, a substantial amount of which shall occur within the initial two years.
 - **(b)** In addition to agreeing to and accepting the amendments referred to in section 286pp of this title relating to the use of proceeds from the sale of such gold, the United States Governor is authorized, consistent with subsection (a), to take such actions as may be necessary, including those referred to in section 286c(e) of this title , to also use such proceeds for the purpose of assisting low-income countries.
+
+## Source Credit
+
+*(July 31, 1945, ch. 339, § 66, as added [Pub. L. 111–32, title XIV, § 1402](https://www.govinfo.gov/link/plaw/111/public/32), June 24, 2009, [123 Stat. 1918](https://www.govinfo.gov/link/statute/123/1918).)*

@@ -3,9 +3,10 @@ title: "Section 2412 - Initiation of investigations"
 usc_title: 19
 usc_section: "2412"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2412"
-generated_at: "2026-03-30T02:54:24.673Z"
+generated_at: "2026-11-23T21:25:42.802Z"
+status: "active"
 ---
 
 # § 2412. Initiation of investigations
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:24.673Z"
       - **(ii)** the United States economic interests that would be adversely affected by the investigation.
     - **(D)** The Trade Representative shall, from time to time, consult with the Register of Copyrights, the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office, and other appropriate officers of the Federal Government, during any investigation initiated under this subchapter by reason of subparagraph (A).
 - **(c)** In determining whether to initiate an investigation under subsection (a) or (b) of any act, policy, or practice that is enumerated in any provision of section 2411(d) of this title , the Trade Representative shall have discretion to determine whether action under section 2411 of this title would be effective in addressing such act, policy, or practice.
+
+## Source Credit
+
+*([Pub. L. 93–618, title III, § 302](https://www.govinfo.gov/link/plaw/93/public/618), as added [Pub. L. 96–39, title IX, § 901](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 296](https://www.govinfo.gov/link/statute/93/296); amended [Pub. L. 98–573, title III, § 304(d)(1)](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 3003](https://www.govinfo.gov/link/statute/98/3003); [Pub. L. 100–418, title I, § 1301(a)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1168](https://www.govinfo.gov/link/statute/102/1168); [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(9)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–584.)*

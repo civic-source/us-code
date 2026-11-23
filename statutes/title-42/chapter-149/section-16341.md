@@ -3,9 +3,10 @@ title: "Section 16341 - Western Hemisphere energy cooperation"
 usc_title: 42
 usc_section: "16341"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16341"
-generated_at: "2026-03-30T02:56:11.483Z"
+generated_at: "2026-11-23T21:26:33.734Z"
+status: "active"
 ---
 
 # § 16341. Western Hemisphere energy cooperation
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.483Z"
   - **(1)** $10,000,000 for fiscal year 2007;
   - **(2)** $13,000,000 for fiscal year 2008; and
   - **(3)** $16,000,000 for fiscal year 2009.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 985](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 908](https://www.govinfo.gov/link/statute/119/908).)*

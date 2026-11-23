@@ -3,9 +3,10 @@ title: "Section 876b - Art. 76b. Lack of mental capacity or mental responsibilit
 usc_title: 10
 usc_section: "876b"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 876b"
-generated_at: "2026-03-30T02:53:38.084Z"
+generated_at: "2026-11-23T21:25:32.345Z"
+status: "active"
 ---
 
 # § 876b. Art. 76b. Lack of mental capacity or mental responsibility: commitment of accused for examination and treatment
@@ -33,3 +34,15 @@ generated_at: "2026-03-30T02:53:38.084Z"
 - **(d)**
   - **(1)** The provisions of chapter 313 of title 18 referred to in this section apply according to the provisions of this section notwithstanding section 4247(j) of title 18 .
   - **(2)** If the status of a person as described in section 802 of this title (article 2) terminates while the person is, pursuant to this section, in the custody of the Attorney General, hospitalized, or on conditional release under a prescribed regimen of medical, psychiatric, or psychological care or treatment, the provisions of this section establishing requirements and procedures regarding a person no longer subject to this chapter shall continue to apply to that person notwithstanding the change of status.
+
+Persons Incompetent To Stand Trial
+
+Persons Found Not Guilty by Reason of Lack of Mental Responsibility
+
+General Provisions
+
+Applicability
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title XI, § 1133(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 464](https://www.govinfo.gov/link/statute/110/464).)*

@@ -3,9 +3,10 @@ title: "Section 718j - Definitions"
 usc_title: 16
 usc_section: "718j"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 718j"
-generated_at: "2026-03-30T02:54:22.902Z"
+generated_at: "2026-11-23T21:25:51.737Z"
+status: "active"
 ---
 
 # § 718j. Definitions
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:22.902Z"
   - **(5)** The term “take” means—
     - **(A)** to pursue, hunt, shoot, capture, collect, or kill; or
     - **(B)** to attempt to pursue, hunt, shoot, capture, collect, or kill.
+
+## Source Credit
+
+*(Mar. 16, 1934, ch. 71, § 10, as added [Pub. L. 109–266, § 10(h)](https://www.govinfo.gov/link/plaw/109/public/266), Aug. 3, 2006, [120 Stat. 678](https://www.govinfo.gov/link/statute/120/678).)*

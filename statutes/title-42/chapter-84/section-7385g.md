@@ -3,9 +3,10 @@ title: "Section 7385g - Attorney fees"
 usc_title: 42
 usc_section: "7385g"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7385g"
-generated_at: "2026-03-30T02:56:11.292Z"
+generated_at: "2026-11-23T21:26:33.072Z"
+status: "active"
 ---
 
 # § 7385g. Attorney fees
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.292Z"
   - **(2)** 10 percent with respect to objections to a recommended decision denying payment of lump-sum compensation.
 - **(c)** This section shall not apply with respect to services rendered that are not in connection with such a claim for payment of lump-sum compensation.
 - **(d)** Any such representative who violates this section shall be fined not more than $5,000.
+
+## Source Credit
+
+*([Pub. L. 106–398, § 1 [div. C, title XXXVI, § 3648]](https://www.govinfo.gov/link/plaw/106/public/398), Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–511; [Pub. L. 107–107, div. C, title XXXI, § 3151(a)(6)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1375](https://www.govinfo.gov/link/statute/115/1375).)*

@@ -3,9 +3,10 @@ title: "Section 5859a - International nonproliferation initiative"
 usc_title: 22
 usc_section: "5859a"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5859a"
-generated_at: "2026-03-30T02:55:05.421Z"
+generated_at: "2026-11-23T21:25:58.671Z"
+status: "active"
 ---
 
 # § 5859a. International nonproliferation initiative
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:55:05.421Z"
     - **(A)** the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Relations of the Senate; and
     - **(B)** the Committee on Armed Services, the Committee on Appropriations, the Committee on International Relations, and the Committee on Commerce of the House of Representatives.
 - **(f)** The authority of the Secretary of Defense to provide assistance under this section terminates at the close of fiscal year 2003.
+
+## Source Credit
+
+*([Pub. L. 102–484, div. A, title XV, § 1505](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2569](https://www.govinfo.gov/link/statute/106/2569); [Pub. L. 103–160, div. A, title XI, § 1182(c)(5)](https://www.govinfo.gov/link/plaw/103/public/160), title XVI, § 1602, Nov. 30, 1993, [107 Stat. 1772](https://www.govinfo.gov/link/statute/107/1772), 1843; [Pub. L. 103–337, div. A, title X, § 1070(c)(1)](https://www.govinfo.gov/link/plaw/103/public/337), title XV, § 1501, Oct. 5, 1994, [108 Stat. 2857](https://www.govinfo.gov/link/statute/108/2857), 2914; [Pub. L. 104–106, div. A, title XIV, § 1403](https://www.govinfo.gov/link/plaw/104/public/106), title XV, § 1502(c)(2)(B), Feb. 10, 1996, [110 Stat. 489](https://www.govinfo.gov/link/statute/110/489), 507; [Pub. L. 104–201, div. A, title XIII, § 1301](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2700](https://www.govinfo.gov/link/statute/110/2700); [Pub. L. 105–85, div. A, title XIII, § 1308](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1956](https://www.govinfo.gov/link/statute/111/1956); [Pub. L. 105–261, div. A, title XV, § 1531(b)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2180](https://www.govinfo.gov/link/statute/112/2180); [Pub. L. 106–65, div. A, title X, § 1067(8)](https://www.govinfo.gov/link/plaw/106/public/65), title XV, § 1505(b), (c), Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774), 808; [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title XII, § 1201(b)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–324; [Pub. L. 107–107, div. A, title XII, § 1203(b)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1246](https://www.govinfo.gov/link/statute/115/1246); [Pub. L. 107–314, div. A, title XII, § 1204(b)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2664](https://www.govinfo.gov/link/statute/116/2664).)*

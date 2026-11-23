@@ -3,9 +3,10 @@ title: "Section 254 - Relief from liability and punishment under the Fair Labor 
 usc_title: 29
 usc_section: "254"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 254"
-generated_at: "2026-03-30T02:55:18.682Z"
+generated_at: "2026-11-23T21:26:02.179Z"
+status: "active"
 ---
 
 # § 254. Relief from liability and punishment under the Fair Labor Standards Act of 1938, the Walsh-Healey Act, and the Bacon-Davis Act for failure to pay minimum wage or overtime compensation
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:18.682Z"
   - **(2)** a custom or practice in effect, at the time of such activity, at the establishment or other place where such employee is employed, covering such activity, not inconsistent with a written or nonwritten contract, in effect at the time of such activity, between such employee, his agent, or collective-bargaining representative and his employer.
 - **(c)** For the purposes of subsection (b), an activity shall be considered as compensable under such contract provision or such custom or practice only when it is engaged in during the portion of the day with respect to which it is so made compensable.
 - **(d)** In the application of the minimum wage and overtime compensation provisions of the Fair Labor Standards Act of 1938, as amended [ 29 U.S.C. 201 et seq.], of the Walsh-Healey Act, or of the Bacon-Davis Act, 1 in determining the time for which an employer employs an employee with respect to walking, riding, traveling, or other preliminary or postliminary activities described in subsection (a) of this section, there shall be counted all that time, but only that time, during which the employee engages in any such activity which is compensable within the meaning of subsections (b) and (c) of this section.
+
+## Source Credit
+
+*(May 14, 1947, ch. 52, § 4, [61 Stat. 86](https://www.govinfo.gov/link/statute/61/86); [Pub. L. 104–188](https://www.govinfo.gov/link/plaw/104/public/188), [title II], § 2102, Aug. 20, 1996, [110 Stat. 1928](https://www.govinfo.gov/link/statute/110/1928).)*

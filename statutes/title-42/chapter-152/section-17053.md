@@ -3,9 +3,10 @@ title: "Section 17053 - Federal fleet fueling centers"
 usc_title: 42
 usc_section: "17053"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17053"
-generated_at: "2026-03-30T02:56:11.494Z"
+generated_at: "2026-11-23T21:26:33.759Z"
+status: "active"
 ---
 
 # § 17053. Federal fleet fueling centers
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.494Z"
   - **(2)** the number of Federal fleet fueling centers that do not contain any renewable fuel pumps.
 - **(c)** This section shall not apply to a Department of Defense fueling center with a fuel turnover rate of less than 100,000 gallons of fuel per year.
 - **(d)** There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 110–140, title II, § 246](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1547](https://www.govinfo.gov/link/statute/121/1547).)*

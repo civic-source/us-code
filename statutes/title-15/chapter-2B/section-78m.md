@@ -3,9 +3,10 @@ title: "Section 78m - Periodical and other reports"
 usc_title: 15
 usc_section: "78m"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 78m"
-generated_at: "2026-03-30T02:54:08.045Z"
+generated_at: "2026-11-23T21:25:39.534Z"
+status: "active"
 ---
 
 # § 78m. Periodical and other reports
@@ -295,3 +296,65 @@ generated_at: "2026-03-30T02:54:08.045Z"
 - **(s)**
   - **(1)** The Commission shall, by rule, adopt data standards for all collections of information with respect to periodic and current reports required to be filed or furnished under this section or under section 78 o (d) of this title, except that the Commission may exempt exhibits, signatures, and certifications from those data standards.
   - **(2)** The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of title 12 , including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
+Annual adjustment
+
+Fee collections
+
+Effective date; publication
+
+Pro rata application
+
+Confidentiality agreement
+
+“The Securities and Exchange Commission shall amend—
+
+Sense of Congress on Exploitation and Trade of Conflict Minerals Originating in the Democratic Republic of the Congo
+
+Strategy and Map to Address Linkages Between Conflict Minerals and Armed Groups.—
+
+Strategy.—
+
+In general
+
+Contents
+
+Map.—
+
+In general
+
+Designation
+
+Updates
+
+Publication in federal register
+
+Reports.—
+
+Baseline report
+
+Regular report on effectiveness
+
+Report on private sector auditing
+
+Definitions
+
+Adjoining country
+
+Appropriate congressional committees
+
+Armed group
+
+Conflict mineral
+
+Under the control of armed groups
+
+In General
+
+Definitions
+
+George W. Bush.
+
+## Source Credit
+
+*(June 6, 1934, ch. 404, title I, § 13, [48 Stat. 894](https://www.govinfo.gov/link/statute/48/894); [Pub. L. 88–467, § 4](https://www.govinfo.gov/link/plaw/88/public/467), Aug. 20, 1964, [78 Stat. 569](https://www.govinfo.gov/link/statute/78/569); [Pub. L. 90–439, § 2](https://www.govinfo.gov/link/plaw/90/public/439), July 29, 1968, [82 Stat. 454](https://www.govinfo.gov/link/statute/82/454); [Pub. L. 91–567](https://www.govinfo.gov/link/plaw/91/public/567), §§ 1, 2, Dec. 22, 1970, [84 Stat. 1497](https://www.govinfo.gov/link/statute/84/1497); [Pub. L. 94–29, § 10](https://www.govinfo.gov/link/plaw/94/public/29), June 4, 1975, [89 Stat. 119](https://www.govinfo.gov/link/statute/89/119); [Pub. L. 94–210, title III, § 308(b)](https://www.govinfo.gov/link/plaw/94/public/210), Feb. 5, 1976, [90 Stat. 57](https://www.govinfo.gov/link/statute/90/57); [Pub. L. 95–213, title I, § 102](https://www.govinfo.gov/link/plaw/95/public/213), title II, §§ 202, 203, Dec. 19, 1977, [91 Stat. 1494](https://www.govinfo.gov/link/statute/91/1494), 1498, 1499; [Pub. L. 98–38, § 2(a)](https://www.govinfo.gov/link/plaw/98/public/38), June 6, 1983, [97 Stat. 205](https://www.govinfo.gov/link/statute/97/205); [Pub. L. 100–181, title III](https://www.govinfo.gov/link/plaw/100/public/181), §§ 315, 316, Dec. 4, 1987, [101 Stat. 1256](https://www.govinfo.gov/link/statute/101/1256); [Pub. L. 100–241, § 12(d)](https://www.govinfo.gov/link/plaw/100/public/241), Feb. 3, 1988, [101 Stat. 1810](https://www.govinfo.gov/link/statute/101/1810); [Pub. L. 100–418, title V, § 5002](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1415](https://www.govinfo.gov/link/statute/102/1415); [Pub. L. 101–432, § 3](https://www.govinfo.gov/link/plaw/101/public/432), Oct. 16, 1990, [104 Stat. 964](https://www.govinfo.gov/link/statute/104/964); [Pub. L. 107–123, § 5](https://www.govinfo.gov/link/plaw/107/public/123), Jan. 16, 2002, [115 Stat. 2395](https://www.govinfo.gov/link/statute/115/2395); [Pub. L. 107–204, title I, § 109(i)](https://www.govinfo.gov/link/plaw/107/public/204), formerly § 109(h), title IV, §§ 401(a), 402(a), 409, July 30, 2002, [116 Stat. 771](https://www.govinfo.gov/link/statute/116/771), 785, 787, 791, renumbered § 109(i), [Pub. L. 111–203, title IX, § 982(h)(3)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1930](https://www.govinfo.gov/link/statute/124/1930); [Pub. L. 111–203, title VII](https://www.govinfo.gov/link/plaw/111/public/203), §§ 763(i), 766(b), (c), (e), title IX, §§ 929R(a), 929X(a), 985(b)(4), 991(b)(2), title XV, §§ 1502(b), 1504, July 21, 2010, [124 Stat. 1779](https://www.govinfo.gov/link/statute/124/1779), 1799, 1866, 1870, 1933, 1952, 2213, 2220; [Pub. L. 112–106, title I, § 102(b)(2)](https://www.govinfo.gov/link/plaw/112/public/106), Apr. 5, 2012, [126 Stat. 309](https://www.govinfo.gov/link/statute/126/309); [Pub. L. 112–158, title II, § 219(a)](https://www.govinfo.gov/link/plaw/112/public/158), Aug. 10, 2012, [126 Stat. 1235](https://www.govinfo.gov/link/statute/126/1235); [Pub. L. 114–94, div. G, title LXXXVI, § 86001(c)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1798](https://www.govinfo.gov/link/statute/129/1798); [Pub. L. 117–263, div. E, title LVIII, § 5821(f)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3426](https://www.govinfo.gov/link/statute/136/3426).)*

@@ -3,9 +3,10 @@ title: "Section 87i - Omitted"
 usc_title: 7
 usc_section: "87i"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 87i"
-generated_at: "2026-03-30T02:53:42.255Z"
+generated_at: "2026-11-23T21:25:27.882Z"
+status: "omitted"
 ---
 
 # § 87i. Omitted

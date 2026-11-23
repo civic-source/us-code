@@ -3,9 +3,10 @@ title: "Section 7003 - Strategy to respond to global bases of the People’s Rep
 usc_title: 22
 usc_section: "7003"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7003"
-generated_at: "2026-03-30T02:55:05.435Z"
+generated_at: "2026-11-23T21:25:58.705Z"
+status: "active"
 ---
 
 # § 7003. Strategy to respond to global bases of the People’s Republic of China
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:05.435Z"
     - **(H)** the Committee on Appropriations of the House of Representatives.
   - **(2)** The term “PRC” means the People’s Republic of China.
   - **(3)** The term “PRC global base” means a physical location outside of the PRC where the PRC maintains an element of the People’s Liberation Army, PRC intelligence or security forces, or infrastructure designed to support the presence of PRC military, intelligence, or security forces, for the purposes of power projection.
+
+## Source Credit
+
+*([Pub. L. 119–60, div. H, title LXXXIII, § 8367](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1903](https://www.govinfo.gov/link/statute/139/1903).)*

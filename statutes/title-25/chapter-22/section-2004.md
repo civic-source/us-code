@@ -3,9 +3,10 @@ title: "Section 2004 - School boundaries"
 usc_title: 25
 usc_section: "2004"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2004"
-generated_at: "2026-03-30T02:54:52.832Z"
+generated_at: "2026-11-23T21:25:54.649Z"
+status: "active"
 ---
 
 # § 2004. School boundaries
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:52.832Z"
 - **(f)**
   - **(1)** Notwithstanding any geographical attendance areas, attendance at off-reservation home-living (dormitory) schools shall include students requiring special emphasis programs to be implemented at each off-reservation home-living (dormitory) school.
   - **(2)** Such attendance shall be coordinated between education line officers, the family, and the referring and receiving programs.
+
+## Source Credit
+
+*([Pub. L. 95–561, title XI, § 1124](https://www.govinfo.gov/link/plaw/95/public/561), as added [Pub. L. 107–110, title X, § 1042](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2019](https://www.govinfo.gov/link/statute/115/2019).)*

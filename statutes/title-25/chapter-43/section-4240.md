@@ -3,9 +3,10 @@ title: "Section 4240 - Review and audit by Secretary"
 usc_title: 25
 usc_section: "4240"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4240"
-generated_at: "2026-03-30T02:54:52.862Z"
+generated_at: "2026-11-23T21:25:54.714Z"
+status: "active"
 ---
 
 # § 4240. Review and audit by Secretary
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:52.862Z"
   - **(2)** Each review conducted under this section shall, to the extent practicable, include onsite visits by employees of the Department of Housing and Urban Development.
 - **(b)** The Secretary shall give the Department of Hawaiian Home Lands not less than 30 days to review and comment on a report under this subsection. After taking into consideration the comments of the Department, the Secretary may revise the report and shall make the comments of the Department and the report with any revisions, readily available to the public not later than 30 days after receipt of the comments of the Department.
 - **(c)** The Secretary may make appropriate adjustments in the amount of annual grants under this subchapter in accordance with the findings of the Secretary pursuant to reviews and audits under this section. The Secretary may adjust, reduce, or withdraw grant amounts, or take other action as appropriate in accordance with the reviews and audits of the Secretary under this section, except that grant amounts already expended on affordable housing activities may not be recaptured or deducted from future assistance provided to the Department of Hawaiian Home Lands.
+
+## Source Credit
+
+*([Pub. L. 104–330, title VIII, § 821](https://www.govinfo.gov/link/plaw/104/public/330), as added [Pub. L. 106–568, title II, § 203](https://www.govinfo.gov/link/plaw/106/public/568), Dec. 27, 2000, [114 Stat. 2894](https://www.govinfo.gov/link/statute/114/2894), and [Pub. L. 106–569, title V, § 513](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 2988](https://www.govinfo.gov/link/statute/114/2988).)*

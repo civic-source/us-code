@@ -3,9 +3,10 @@ title: "Section 1831 - Human resources program"
 usc_title: 2
 usc_section: "1831"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1831"
-generated_at: "2026-03-30T02:53:04.818Z"
+generated_at: "2026-11-23T21:25:21.246Z"
+status: "active"
 ---
 
 # § 1831. Human resources program
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:04.818Z"
     - **(C)** implement the plan not later than 90 days after the plan is submitted to the Speaker of the House of Representatives, the House Office Building Commission, the Committee on Rules and Administration of the Senate, the Joint Committee on the Library, and the Committees on Appropriations of the Senate and the House of Representatives, as specified in subparagraph (B).
   - **(2)** The Architect of the Capitol shall develop a system of oversight and evaluation to ensure that the personnel management system of the Architect of the Capitol achieves the requirements of subsection (c) and complies with all other relevant laws, rules and regulations. The Architect of the Capitol shall report to the Speaker of the House of Representatives, the House Office Building Commission, the Committee on Rules and Administration of the Senate, and the Joint Committee on the Library on an annual basis the results of its evaluation under this subsection.
   - **(3)** Nothing in this section shall be construed to alter or supersede any other provision of law otherwise applicable to the Architect of the Capitol or its employees, unless expressly provided in this section.
+
+## Source Credit
+
+*([Pub. L. 103–283, title III, § 312](https://www.govinfo.gov/link/plaw/103/public/283), July 22, 1994, [108 Stat. 1443](https://www.govinfo.gov/link/statute/108/1443); [Pub. L. 104–1, title V, § 504(c)(1)](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 41](https://www.govinfo.gov/link/statute/109/41).)*

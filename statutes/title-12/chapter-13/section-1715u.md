@@ -3,9 +3,10 @@ title: "Section 1715u - Authority to assist mortgagors in default"
 usc_title: 12
 usc_section: "1715u"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1715u"
-generated_at: "2026-03-30T02:53:53.417Z"
+generated_at: "2026-11-23T21:25:36.888Z"
+status: "active"
 ---
 
 # § 1715u. Authority to assist mortgagors in default
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:53:53.417Z"
 - **(d)** No decision by the Secretary to exercise or forego exercising any authority under this section shall be subject to judicial review.
 - **(e)**
 - **(f)** No provision of this chapter, or any other law, shall be construed to require the Secretary to provide an alternative to foreclosure for mortgagees with mortgages on 1- to 4-family residences insured by the Secretary under this chapter, or to accept assignments of such mortgages.
+
+## Source Credit
+
+*(June 27, 1934, ch. 847, title II, § 230, as added [Pub. L. 86–372, title I, § 114(a)](https://www.govinfo.gov/link/plaw/86/public/372), Sept. 23, 1959, [73 Stat. 662](https://www.govinfo.gov/link/statute/73/662); amended [Pub. L. 88–560, title I, § 104(b)](https://www.govinfo.gov/link/plaw/88/public/560), Sept. 2, 1964, [78 Stat. 770](https://www.govinfo.gov/link/statute/78/770); [Pub. L. 90–19, § 1(a)(3)](https://www.govinfo.gov/link/plaw/90/public/19), May 25, 1967, [81 Stat. 17](https://www.govinfo.gov/link/statute/81/17); [Pub. L. 96–399, title III, § 341](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1659](https://www.govinfo.gov/link/statute/94/1659); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title IV, § 418], Nov. 30, 1983, [97 Stat. 1212](https://www.govinfo.gov/link/statute/97/1212); [Pub. L. 100–242, title IV, § 428](https://www.govinfo.gov/link/plaw/100/public/242), Feb. 5, 1988, [101 Stat. 1918](https://www.govinfo.gov/link/statute/101/1918); [Pub. L. 102–83, § 5(c)(2)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 104–99, title IV, § 407(b)](https://www.govinfo.gov/link/plaw/104/public/99), Jan. 26, 1996, [110 Stat. 45](https://www.govinfo.gov/link/statute/110/45); [Pub. L. 104–134, title I, § 101(e) [title II, § 221(b)(2)]](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–257](https://www.govinfo.gov/link/statute/110/1321), 1321–291; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327); [Pub. L. 105–276, title VI, § 601(f)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2674](https://www.govinfo.gov/link/statute/112/2674); [Pub. L. 111–22, div. A, title II, § 203(d)(1)](https://www.govinfo.gov/link/plaw/111/public/22) –(3), May 20, 2009, [123 Stat. 1645](https://www.govinfo.gov/link/statute/123/1645), 1646.)*

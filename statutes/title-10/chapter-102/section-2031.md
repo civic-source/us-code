@@ -3,9 +3,10 @@ title: "Section 2031 - Junior Reserve Officers’ Training Corps"
 usc_title: 10
 usc_section: "2031"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2031"
-generated_at: "2026-03-30T02:53:38.140Z"
+generated_at: "2026-11-23T21:25:32.549Z"
+status: "active"
 ---
 
 # § 2031. Junior Reserve Officers’ Training Corps
@@ -98,3 +99,27 @@ generated_at: "2026-03-30T02:53:38.140Z"
     - **(C)** Any steps the Department of Defense has taken to mitigate sexual misconduct and harassment in Junior Reserve Officers’ Training Corps programs during the preceding year.
   - **(3)** Each report required under paragraph (1) shall be submitted in unclassified form and may not be designated as controlled unclassified information.
   - **(4)** The Secretary shall annually report to the Committees on Armed Services of the Senate and the House of Representatives regarding compliance with this subsection by the Junior Reserve Officers’ Training Corps programs, including an up-to-date report on the Secretary’s monitoring of such compliance.
+
+In General
+
+Briefing Required
+
+Termination
+
+Secretary Concerned Defined
+
+Plan for Increase
+
+Exceptions
+
+Cooperation
+
+Report on Plan
+
+In General
+
+Expansion Targets
+
+## Source Credit
+
+*(Added [Pub. L. 88–647, title I, § 101(1)](https://www.govinfo.gov/link/plaw/88/public/647), Oct. 13, 1964, [78 Stat. 1063](https://www.govinfo.gov/link/statute/78/1063); amended [Pub. L. 89–718, § 16](https://www.govinfo.gov/link/plaw/89/public/718), Nov. 2, 1966, [80 Stat. 1117](https://www.govinfo.gov/link/statute/80/1117); [Pub. L. 90–83, § 3(4)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 220](https://www.govinfo.gov/link/statute/81/220); [Pub. L. 93–165](https://www.govinfo.gov/link/plaw/93/public/165), Nov. 29, 1973, [87 Stat. 660](https://www.govinfo.gov/link/statute/87/660); [Pub. L. 94–361, title VIII, § 807](https://www.govinfo.gov/link/plaw/94/public/361), July 14, 1976, [90 Stat. 933](https://www.govinfo.gov/link/statute/90/933); [Pub. L. 95–358](https://www.govinfo.gov/link/plaw/95/public/358), Sept. 8, 1978, [92 Stat. 592](https://www.govinfo.gov/link/statute/92/592); [Pub. L. 98–525, title IV, § 422](https://www.govinfo.gov/link/plaw/98/public/525), title XIV, § 1405(32), Oct. 19, 1984, [98 Stat. 2520](https://www.govinfo.gov/link/statute/98/2520), 2624; [Pub. L. 100–26, § 7(i)(3)](https://www.govinfo.gov/link/plaw/100/public/26), Apr. 21, 1987, [101 Stat. 282](https://www.govinfo.gov/link/statute/101/282); [Pub. L. 102–484, div. A, title V, § 533(a)](https://www.govinfo.gov/link/plaw/102/public/484) –(e)(1), Oct. 23, 1992, [106 Stat. 2411](https://www.govinfo.gov/link/statute/106/2411), 2412; [Pub. L. 103–160, div. A, title XI, § 1182(g)(1)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1774](https://www.govinfo.gov/link/statute/107/1774); [Pub. L. 107–107, div. A, title V, § 537](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1107](https://www.govinfo.gov/link/statute/115/1107); [Pub. L. 109–364, div. A, title V, § 540](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2211](https://www.govinfo.gov/link/statute/120/2211); [Pub. L. 110–181, div. A, title VI, § 635](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 155](https://www.govinfo.gov/link/statute/122/155); [Pub. L. 116–92, div. A, title V](https://www.govinfo.gov/link/plaw/116/public/92), §§ 511, 512(a), 513, Dec. 20, 2019, [133 Stat. 1348](https://www.govinfo.gov/link/statute/133/1348); [Pub. L. 116–283, div. A, title V, § 512](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3587](https://www.govinfo.gov/link/statute/134/3587); [Pub. L. 117–263, div. A, title V, § 512(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2564](https://www.govinfo.gov/link/statute/136/2564); [Pub. L. 118–31, div. A, title V](https://www.govinfo.gov/link/plaw/118/public/31), §§ 551–553(a), 554, 555(a), 556, Dec. 22, 2023, [137 Stat. 269–272](https://www.govinfo.gov/link/statute/137/269); [Pub. L. 118–159, div. A, title V](https://www.govinfo.gov/link/plaw/118/public/159), §§ 542–545(a), title XVII, § 1701(a)(25), Dec. 23, 2024, [138 Stat. 1892](https://www.govinfo.gov/link/statute/138/1892), 1893, 2204; [Pub. L. 119–60, div. A, title V](https://www.govinfo.gov/link/plaw/119/public/60), §§ 541, 542(a), (c), Dec. 18, 2025, [139 Stat. 872](https://www.govinfo.gov/link/statute/139/872), 873.)*

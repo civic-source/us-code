@@ -3,9 +3,10 @@ title: "Section 6808 - Study of information sharing among financial affiliates"
 usc_title: 15
 usc_section: "6808"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6808"
-generated_at: "2026-03-30T02:54:08.216Z"
+generated_at: "2026-11-23T21:25:40.034Z"
+status: "active"
 ---
 
 # § 6808. Study of information sharing among financial affiliates
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:08.216Z"
   - **(9)** the feasibility of restricting sharing of information for specific uses or of permitting customers to direct the uses for which information may be shared.
 - **(b)** The Secretary shall consult with representatives of State insurance authorities designated by the National Association of Insurance Commissioners, and also with financial services industry, consumer organizations and privacy groups, and other representatives of the general public, in formulating and conducting the study required by subsection (a).
 - **(c)** On or before January 1, 2002 , the Secretary shall submit a report to the Congress containing the findings and conclusions of the study required under subsection (a), together with such recommendations for legislative or administrative action as may be appropriate.
+
+## Source Credit
+
+*([Pub. L. 106–102, title V, § 508](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1442](https://www.govinfo.gov/link/statute/113/1442).)*

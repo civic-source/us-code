@@ -3,9 +3,10 @@ title: "Section 2646 - Travel services: procurement for official and unofficial 
 usc_title: 10
 usc_section: "2646"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2646"
-generated_at: "2026-03-30T02:53:38.167Z"
+generated_at: "2026-11-23T21:25:32.640Z"
+status: "active"
 ---
 
 # § 2646. Travel services: procurement for official and unofficial travel under one contract
@@ -22,3 +23,15 @@ generated_at: "2026-03-30T02:53:38.167Z"
   - **(2)** The term “official travel” means travel at the expense of the Federal Government.
   - **(3)** The term “unofficial travel” means personal travel or other travel that is not paid for or reimbursed by the Federal Government out of appropriated funds.
 - **(d)** This section does not apply to the Coast Guard when it is not operating as a service in the Navy, nor to the National Aeronautics and Space Administration.
+
+Authority
+
+Credits, Discounts, Commissions, Fees
+
+Definitions
+
+Inapplicability to Coast Guard and NASA
+
+## Source Credit
+
+*(Added [Pub. L. 105–261, div. A, title VIII, § 813(a)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2087](https://www.govinfo.gov/link/statute/112/2087); amended [Pub. L. 116–283, div. A, title XVIII, § 1806(e)(1)(B)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4155](https://www.govinfo.gov/link/statute/134/4155).)*

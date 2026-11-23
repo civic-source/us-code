@@ -3,9 +3,10 @@ title: "Section 136m - Indemnities"
 usc_title: 7
 usc_section: "136m"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 136m"
-generated_at: "2026-03-30T02:53:42.262Z"
+generated_at: "2026-11-23T21:25:27.896Z"
+status: "active"
 ---
 
 # § 136m. Indemnities
@@ -46,3 +47,15 @@ generated_at: "2026-03-30T02:53:42.262Z"
 - **(c)**
   - **(1)** The amount of an indemnity payment under subsection (a) or (b) to any person shall be determined on the basis of the cost of the pesticide owned by the person (other than the cost of transportation, if any) immediately before the issuance of the notice to the registrant referred to in subsection (a)(1)(A), (b)(1)(A), or (b)(2)(B)(i), except that in no event shall an indemnity payment to any person exceed the fair market value of the pesticide owned by the person immediately before the issuance of the notice.
   - **(2)** Notwithstanding any other provision of this subchapter, the Administrator may provide a reasonable time for use or other disposal of the pesticide. In determining the quantity of any pesticide for which indemnity shall be paid under this section, proper adjustment shall be made for any pesticide used or otherwise disposed of by the owner.
+
+(aa) distributing or selling it; or
+
+(bb) further processing it for distribution or sale directly to an end user;
+
+Source
+
+Administrative settlement
+
+## Source Credit
+
+*(June 25, 1947, ch. 125, § 15, as added [Pub. L. 92–516, § 2](https://www.govinfo.gov/link/plaw/92/public/516), Oct. 21, 1972, [86 Stat. 993](https://www.govinfo.gov/link/statute/86/993); amended [Pub. L. 100–532, title V, § 501(a)](https://www.govinfo.gov/link/plaw/100/public/532), Oct. 25, 1988, [102 Stat. 2674](https://www.govinfo.gov/link/statute/102/2674).)*

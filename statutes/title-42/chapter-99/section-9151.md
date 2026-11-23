@@ -3,9 +3,10 @@ title: "Section 9151 - Prohibited acts"
 usc_title: 42
 usc_section: "9151"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9151"
-generated_at: "2026-03-30T02:56:11.351Z"
+generated_at: "2026-11-23T21:26:33.231Z"
+status: "active"
 ---
 
 # § 9151. Prohibited acts
@@ -17,3 +18,7 @@ It is unlawful for any person who is a United States citizen or national, or a f
   - **(3)** to forcibly assault, resist, oppose, impede, intimidate, or interfere with any such authorized officer or employee in the conduct of any search or inspection described in paragraph (2) of this section;
   - **(4)** to resist a lawful arrest for any act prohibited by this section; or
   - **(5)** to interfere with, delay, or prevent, by any means, the apprehension or arrest of another person subject to this section knowing that the other person has committed any act prohibited by this section.
+
+## Source Credit
+
+*([Pub. L. 96–320, title III, § 301](https://www.govinfo.gov/link/plaw/96/public/320), Aug. 3, 1980, [94 Stat. 994](https://www.govinfo.gov/link/statute/94/994); [Pub. L. 98–623, title VI, § 602(a)(9)](https://www.govinfo.gov/link/plaw/98/public/623), Nov. 8, 1984, [98 Stat. 3411](https://www.govinfo.gov/link/statute/98/3411).)*

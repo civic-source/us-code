@@ -3,9 +3,10 @@ title: "Section 13102 - Definitions"
 usc_title: 49
 usc_section: "13102"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 13102"
-generated_at: "2026-03-30T02:56:19.326Z"
+generated_at: "2026-11-23T21:26:40.681Z"
+status: "active"
 ---
 
 # § 13102. Definitions
@@ -76,3 +77,67 @@ In this part, the following definitions shall apply:
   - **(25)** The term “vessel” means a watercraft or other artificial contrivance that is used, is capable of being used, or is intended to be used, as a means of transportation by water.
   - **(26)** The term “water carrier” means a person providing water transportation for compensation.
   - **(27)** The term “over-the-road bus” means a bus characterized by an elevated passenger deck located over a baggage compartment.
+
+Board
+
+Broker
+
+Carrier
+
+Contract carriage
+
+Control
+
+Foreign motor carrier
+
+Foreign motor private carrier
+
+Freight forwarder
+
+Highway
+
+Household goods
+
+Household goods freight forwarder
+
+Household goods motor carrier.—
+
+In general
+
+Inclusion
+
+Limited service exclusion
+
+Individual shipper
+
+Motor carrier
+
+Motor private carrier
+
+Motor vehicle
+
+Noncontiguous domestic trade
+
+Person
+
+Pre-arranged ground transportation service
+
+Secretary
+
+State
+
+Taxicab service
+
+Transportation
+
+United states
+
+Vessel
+
+Water carrier
+
+Over-the-road bus
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 854](https://www.govinfo.gov/link/statute/109/854); amended [Pub. L. 104–287, § 5(27)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3390](https://www.govinfo.gov/link/statute/110/3390); [Pub. L. 106–159, title II, § 209(a)](https://www.govinfo.gov/link/plaw/106/public/159), Dec. 9, 1999, [113 Stat. 1764](https://www.govinfo.gov/link/statute/113/1764); [Pub. L. 107–298, § 3(a)](https://www.govinfo.gov/link/plaw/107/public/298), Nov. 26, 2002, [116 Stat. 2343](https://www.govinfo.gov/link/statute/116/2343); [Pub. L. 109–59, title IV](https://www.govinfo.gov/link/plaw/109/public/59), §§ 4142(a), 4202(b), Aug. 10, 2005, [119 Stat. 1747](https://www.govinfo.gov/link/statute/119/1747), 1751; [Pub. L. 110–244, title III, § 305(c)](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1620](https://www.govinfo.gov/link/statute/122/1620); [Pub. L. 110–291, § 3](https://www.govinfo.gov/link/plaw/110/public/291), July 30, 2008, [122 Stat. 2915](https://www.govinfo.gov/link/statute/122/2915).)*

@@ -3,12 +3,17 @@ title: "Section 1a - Further modification of 1927 project; adoption; appropriati
 usc_title: 33
 usc_section: "1a"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1a"
-generated_at: "2026-03-30T02:55:41.070Z"
+generated_at: "2026-11-23T21:26:11.333Z"
+status: "active"
 ---
 
 # § 702a–1a. Further modification of 1927 project; adoption; appropriation
 
 In accordance with the recommendations of the Chief of Engineers, as set forth in his report of April 6, 1937 , and published as Flood Control Committee Document Numbered 1, Seventy-fifth Congress, first session, paragraph 38(b), except subparagraph (1), the project for flood control of the Lower Mississippi River adopted by sections 642a, 702a, 702a–1, 702a–2 to 702d, 702e to 702h, 702i to 702m, and 704 of this title, is modified and, as modified, is adopted, and there is authorized to be appropriated in addition to the sums previously authorized $40,000,000 to be applied for the purposes set forth in said document covering the said recommendations, with the exceptions mentioned, subject to the provisions made in section 702a–11 of this title .
 
+
+## Source Credit
+
+*(June 28, 1938, ch. 795, § 4, [52 Stat. 1220](https://www.govinfo.gov/link/statute/52/1220).)*

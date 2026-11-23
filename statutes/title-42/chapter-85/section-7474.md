@@ -3,9 +3,10 @@ title: "Section 7474 - Area redesignation"
 usc_title: 42
 usc_section: "7474"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7474"
-generated_at: "2026-03-30T02:56:11.303Z"
+generated_at: "2026-11-23T21:26:33.100Z"
+status: "active"
 ---
 
 # § 7474. Area redesignation
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.303Z"
 - **(c)** Lands within the exterior boundaries of reservations of federally recognized Indian tribes may be redesignated only by the appropriate Indian governing body. Such Indian governing body shall be subject in all respect to the provisions of subsection (e).
 - **(d)** The Federal Land Manager shall review all national monuments, primitive areas, and national preserves, and shall recommend any appropriate areas for redesignation as class I where air quality related values are important attributes of the area. The Federal Land Manager shall report such recommendations, within 2 2 So in original. Probably should be “with”. supporting analysis, to the Congress and the affected States within one year after August 7, 1977 . The Federal Land Manager shall consult with the appropriate States before making such recommendations.
 - **(e)** If any State affected by the redesignation of an area by an Indian tribe or any Indian tribe affected by the redesignation of an area by a State disagrees with such redesignation of any area, or if a permit is proposed to be issued for any new major emitting facility proposed for construction in any State which the Governor of an affected State or governing body of an affected Indian tribe determines will cause or contribute to a cumulative change in air quality in excess of that allowed in this part within the affected State or tribal reservation, the Governor or Indian ruling body may request the Administrator to enter into negotiations with the parties involved to resolve such dispute. If requested by any State or Indian tribe involved, the Administrator shall make a recommendation to resolve the dispute and protect the air quality related values of the lands involved. If the parties involved do not reach agreement, the Administrator shall resolve the dispute and his determination, or the results of agreements reached through other means, shall become part of the applicable plan and shall be enforceable as part of such plan. In resolving such disputes relating to area redesignation, the Administrator shall consider the extent to which the lands involved are of sufficient size to allow effective air quality management or have air quality related values of such an area.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 164, as added [Pub. L. 95–95, title I, § 127(a)](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 733](https://www.govinfo.gov/link/statute/91/733); amended [Pub. L. 95–190, § 14(a)(42)](https://www.govinfo.gov/link/plaw/95/public/190), (43), Nov. 16, 1977, [91 Stat. 1402](https://www.govinfo.gov/link/statute/91/1402); [Pub. L. 101–549, title I, § 108(n)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2469](https://www.govinfo.gov/link/statute/104/2469).)*

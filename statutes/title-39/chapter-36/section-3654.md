@@ -3,9 +3,10 @@ title: "Section 3654 - Additional financial reporting"
 usc_title: 39
 usc_section: "3654"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 3654"
-generated_at: "2026-03-30T02:55:43.694Z"
+generated_at: "2026-11-23T21:26:12.794Z"
+status: "active"
 ---
 
 # § 3654. Additional financial reporting
@@ -39,3 +40,29 @@ generated_at: "2026-03-30T02:55:43.694Z"
 - **(f)**
   - **(1)** If the Postal Service determines that any document or portion of a document, or other matter, which it provides to the Postal Regulatory Commission in a nonpublic annex under this section or pursuant to subsection (d) contains information which is described in section 410(c) of this title , or exempt from public disclosure under section 552(b) of title 5 , the Postal Service shall, at the time of providing such matter to the Commission, notify the Commission of its determination, in writing, and describe with particularity the documents (or portions of documents) or other matter for which confidentiality is sought and the reasons therefor.
   - **(2)** Any information or other matter described in paragraph (1) to which the Commission gains access under this section shall be subject to paragraphs (2) and (3) of section 504(g) in the same way as if the Commission had received notification with respect to such matter under section 504(g)(1).
+
+Additional Financial Reporting.—
+
+In general
+
+Registrant defined
+
+Internal control report
+
+Financial reporting.—
+
+Treatment
+
+Supporting Matter
+
+Revised Requirements
+
+Confidential Information.—
+
+In general
+
+Treatment
+
+## Source Credit
+
+*(Added [Pub. L. 109–435, title II, § 204(b)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3214](https://www.govinfo.gov/link/statute/120/3214).)*

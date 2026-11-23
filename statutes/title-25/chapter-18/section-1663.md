@@ -3,9 +3,10 @@ title: "Section 1663 - Office of Direct Service Tribes"
 usc_title: 25
 usc_section: "1663"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1663"
-generated_at: "2026-03-30T02:54:52.825Z"
+generated_at: "2026-11-23T21:25:54.629Z"
+status: "active"
 ---
 
 # § 1663. Office of Direct Service Tribes
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:52.825Z"
   - **(3)** serving as the focal point for consultation and participation between direct service tribes and organizations and the Service in the development of Service policy;
   - **(4)** holding no less than biannual consultations with direct service tribes in appropriate locations to gather information and aid in the development of health policy; and
   - **(5)** directing a national program and providing leadership and advocacy in the development of health policy, program management, budget formulation, resource allocation, and delegation support for direct service tribes.
+
+## Source Credit
+
+*([Pub. L. 94–437, title VI, § 603](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

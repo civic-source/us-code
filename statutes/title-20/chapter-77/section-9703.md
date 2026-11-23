@@ -3,9 +3,10 @@ title: "Section 9703 - Duties of the Commission"
 usc_title: 20
 usc_section: "9703"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9703"
-generated_at: "2026-03-30T02:54:48.231Z"
+generated_at: "2026-11-23T21:25:47.675Z"
+status: "active"
 ---
 
 # § 9703. Duties of the Commission
@@ -77,3 +78,7 @@ generated_at: "2026-03-30T02:54:48.231Z"
     - **(J)** such other materials relating to the duties of the Commission as the Commission deems appropriate.
   - **(3)** The initial report under paragraph (1) shall include information regarding all Federal programs, materials, and grants which seek to improve financial literacy, and assess the effectiveness of such programs.
 - **(i)** The Commission shall annually provide testimony by the Chairperson to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 108–159, title V, § 514](https://www.govinfo.gov/link/plaw/108/public/159), Dec. 4, 2003, [117 Stat. 2004](https://www.govinfo.gov/link/statute/117/2004); [Pub. L. 115–174, title VI, § 603](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1367](https://www.govinfo.gov/link/statute/132/1367).)*

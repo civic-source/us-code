@@ -3,9 +3,10 @@ title: "Section 7438 - Environmental and climate justice block grants"
 usc_title: 42
 usc_section: "7438"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7438"
-generated_at: "2026-03-30T02:56:11.303Z"
+generated_at: "2026-11-23T21:26:33.099Z"
+status: "active"
 ---
 
 # § 7438. Environmental and climate justice block grants
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:11.303Z"
     - **(C)** a partnership of community-based nonprofit organizations.
 - **(c)** The Administrator shall reserve 7 percent of the amounts made available under subsection (a) for administrative costs to carry out this section.
 - **(d)** In this section, the term “greenhouse gas” means the air pollutants carbon dioxide, hydrofluorocarbons, methane, nitrous oxide, perfluorocarbons, and sulfur hexafluoride.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 138, as added [Pub. L. 117–169, title VI, § 60201](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2078](https://www.govinfo.gov/link/statute/136/2078).)*

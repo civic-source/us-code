@@ -3,9 +3,10 @@ title: "Section 5472 - Common framework for designated clearing entity risk mana
 usc_title: 12
 usc_section: "5472"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5472"
-generated_at: "2026-03-30T02:53:53.541Z"
+generated_at: "2026-11-23T21:25:37.271Z"
+status: "active"
 ---
 
 # § 5472. Common framework for designated clearing entity risk management
@@ -16,3 +17,7 @@ The Commodity Futures Trading Commission and the Commission shall coordinate wit
   - **(2)** promoting robust risk management by designated clearing entities;
   - **(3)** promoting robust risk management oversight by regulators of designated clearing entities; and
   - **(4)** improving regulators’ ability to monitor the potential effects of designated clearing entity risk management on the stability of the financial system of the United States.
+
+## Source Credit
+
+*([Pub. L. 111–203, title VIII, § 813](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1821](https://www.govinfo.gov/link/statute/124/1821).)*

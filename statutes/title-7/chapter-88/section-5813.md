@@ -3,9 +3,10 @@ title: "Section 5813 - Federal-State matching grant program"
 usc_title: 7
 usc_section: "5813"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 5813"
-generated_at: "2026-03-30T02:53:42.419Z"
+generated_at: "2026-11-23T21:25:28.367Z"
+status: "active"
 ---
 
 # § 5813. Federal-State matching grant program
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:42.419Z"
 - **(d)**
   - **(1)** Subject to paragraph (2), the Secretary shall provide grants to eligible States in an amount not to exceed 50 percent of the cost of the establishment or enhancement of a State sustainable agriculture program under a plan approved by the Secretary under subsection (c) for a period not to exceed 5 years.
   - **(2)** To be eligible to receive a grant under this section, a State shall agree to pay, from State appropriated funds, other State revenue, or from private contributions received by the State, not less than 50 percent of the cost of the establishment or enhancement of the sustainable agriculture program under an approved plan under subsection (c).
+
+## Source Credit
+
+*([Pub. L. 101–624, title XVI, § 1623](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3738](https://www.govinfo.gov/link/statute/104/3738); [Pub. L. 113–79, title VII, § 7128(b)(2)(A)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 878](https://www.govinfo.gov/link/statute/128/878); [Pub. L. 115–334, title VII, § 7614(b)(2)(A)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4834](https://www.govinfo.gov/link/statute/132/4834).)*

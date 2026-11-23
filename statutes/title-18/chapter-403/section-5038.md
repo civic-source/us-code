@@ -3,9 +3,10 @@ title: "Section 5038 - Use of juvenile records"
 usc_title: 18
 usc_section: "5038"
 chapter: 403
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 5038"
-generated_at: "2026-03-30T02:54:16.530Z"
+generated_at: "2026-11-23T21:25:44.249Z"
+status: "active"
 ---
 
 # § 5038. Use of juvenile records
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:16.530Z"
 - **(d)** Whenever a juvenile is found guilty of committing an act which if committed by an adult would be a felony that is a crime of violence or an offense described in section 401 of the Controlled Substances Act or section 1001(a), 1005, or 1009 of the Controlled Substances Import and Export Act, such juvenile shall be fingerprinted and photographed. Except a juvenile described in subsection (f), fingerprints and photographs of a juvenile who is not prosecuted as an adult shall be made available only in accordance with the provisions of subsection (a) of this section. Fingerprints and photographs of a juvenile who is prosecuted as an adult shall be made available in the manner applicable to adult defendants.
 - **(e)** Unless a juvenile who is taken into custody is prosecuted as an adult neither the name nor picture of any juvenile shall be made public in connection with a juvenile delinquency proceeding.
 - **(f)** Whenever a juvenile has on two separate occasions been found guilty of committing an act which if committed by an adult would be a felony crime of violence or an offense described in section 401 of the Controlled Substances Act or section 1001(a), 1005, or 1009 of the Controlled Substances Import and Export Act, or whenever a juvenile has been found guilty of committing an act after his 13th birthday which if committed by an adult would be an offense described in the second sentence of the fourth paragraph of section 5032 of this title , the court shall transmit to the Federal Bureau of Investigation the information concerning the adjudications, including name, date of adjudication, court, offenses, and sentence, along with the notation that the matters were juvenile adjudications.
+
+## Source Credit
+
+*(Added [Pub. L. 93–415, title V, § 508](https://www.govinfo.gov/link/plaw/93/public/415), Sept. 7, 1974, [88 Stat. 1137](https://www.govinfo.gov/link/statute/88/1137); amended [Pub. L. 95–115, § 8(b)](https://www.govinfo.gov/link/plaw/95/public/115), Oct. 3, 1977, [91 Stat. 1060](https://www.govinfo.gov/link/statute/91/1060); [Pub. L. 98–473, title II, § 1202](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2150](https://www.govinfo.gov/link/statute/98/2150); [Pub. L. 103–322, title XIV, § 140005](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2032](https://www.govinfo.gov/link/statute/108/2032); [Pub. L. 104–294, title VI, § 601(f)(16)](https://www.govinfo.gov/link/plaw/104/public/294), (o), Oct. 11, 1996, [110 Stat. 3500](https://www.govinfo.gov/link/statute/110/3500), 3502.)*

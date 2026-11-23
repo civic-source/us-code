@@ -3,9 +3,10 @@ title: "Section 6306 - Review"
 usc_title: 15
 usc_section: "6306"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6306"
-generated_at: "2026-03-30T02:54:08.210Z"
+generated_at: "2026-11-23T21:25:40.020Z"
+status: "active"
 ---
 
 # § 6306. Review
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:08.210Z"
 - **(b)** A boxing commission may allow a boxer who is under suspension in any State to participate in a professional boxing match—
   - **(1)** for any reason other than those listed in subsection (a) if such commission notifies in writing and consults with the designated official of the suspending State’s boxing commission prior to the grant of approval for such individual to participate in that professional boxing match; or
   - **(2)** if the boxer appeals to the Association of Boxing Commissions, and the Association of Boxing Commissions determines that the suspension of such boxer was without sufficient grounds, for an improper purpose, or not related to the health and safety of the boxer or the purposes of this chapter.
+
+## Source Credit
+
+*([Pub. L. 104–272, § 7](https://www.govinfo.gov/link/plaw/104/public/272), Oct. 9, 1996, [110 Stat. 3311](https://www.govinfo.gov/link/statute/110/3311); [Pub. L. 106–210, § 7(b)](https://www.govinfo.gov/link/plaw/106/public/210), (d), May 26, 2000, [114 Stat. 328](https://www.govinfo.gov/link/statute/114/328).)*

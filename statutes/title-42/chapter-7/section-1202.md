@@ -3,9 +3,10 @@ title: "Section 1202 - State plans for aid to blind"
 usc_title: 42
 usc_section: "1202"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1202"
-generated_at: "2026-03-30T02:56:10.902Z"
+generated_at: "2026-11-23T21:26:31.222Z"
+status: "active"
 ---
 
 # § 1202. State plans for aid to blind
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:10.902Z"
 - **(b)** The Secretary shall approve any plan which fulfills the conditions specified in subsection (a), except that he shall not approve any plan which imposes, as a condition of eligibility for aid to the blind under the plan—
   - **(1)** Any residence requirement which excludes any resident of the State who has resided therein five years during the nine years immediately preceding the application for aid and has resided therein continuously for one year immediately preceding the application; or
   - **(2)** Any citizenship requirement which excludes any citizen of the United States.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title X, § 1002, [49 Stat. 645](https://www.govinfo.gov/link/statute/49/645); Aug. 10, 1939, ch. 666, title VII, § 701, [53 Stat. 1397](https://www.govinfo.gov/link/statute/53/1397); Aug. 28, 1950, ch. 809, title III, pt. 4, § 341(a)–(e), pt. 6, § 361(c), (d), [64 Stat. 553](https://www.govinfo.gov/link/statute/64/553), 558; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631](https://www.govinfo.gov/link/statute/67/631); Aug. 1, 1956, ch. 836, title III, § 313(b), [70 Stat. 849](https://www.govinfo.gov/link/statute/70/849); [Pub. L. 86–778, title VII, § 710](https://www.govinfo.gov/link/plaw/86/public/778), Sept. 13, 1960, [74 Stat. 997](https://www.govinfo.gov/link/statute/74/997); [Pub. L. 87–543, title I](https://www.govinfo.gov/link/plaw/87/public/543), §§ 104(a)(3)(H), 106(a)(2), 136(a), 154, July 25, 1962, [76 Stat. 185](https://www.govinfo.gov/link/statute/76/185), 188, 197, 206; [Pub. L. 88–650, § 5(a)](https://www.govinfo.gov/link/plaw/88/public/650), Oct. 13, 1964, [78 Stat. 1078](https://www.govinfo.gov/link/statute/78/1078); [Pub. L. 89–97, title IV, § 403(c)](https://www.govinfo.gov/link/plaw/89/public/97), July 30, 1965, [79 Stat. 418](https://www.govinfo.gov/link/statute/79/418); [Pub. L. 90–248, title II](https://www.govinfo.gov/link/plaw/90/public/248), §§ 210(a)(3), 213(a)(2), Jan. 2, 1968, [81 Stat. 895](https://www.govinfo.gov/link/statute/81/895), 898; [Pub. L. 92–603, title IV](https://www.govinfo.gov/link/plaw/92/public/603), §§ 405(b), 406(b), 407(b), 410(b), 413(b), Oct. 30, 1972, [86 Stat. 1488](https://www.govinfo.gov/link/statute/86/1488), 1489, 1491, 1492; [Pub. L. 98–369, div. B, title VI, § 2651(f)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1149](https://www.govinfo.gov/link/statute/98/1149); [Pub. L. 104–193, title I, § 108(f)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2168](https://www.govinfo.gov/link/statute/110/2168).)*

@@ -3,9 +3,10 @@ title: "Section 7424 - Travel expenses of certain employees"
 usc_title: 38
 usc_section: "7424"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7424"
-generated_at: "2026-03-30T02:55:53.531Z"
+generated_at: "2026-11-23T21:26:16.873Z"
+status: "active"
 ---
 
 # § 7424. Travel expenses of certain employees
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:53.531Z"
     - **(A)** in connection with their attendance at meetings or in performing advisory services concerned with the functions or activities of the Department; or
     - **(B)** in connection with acceptance of significant awards or with activity related thereto concerned with functions or activities of the Department.
   - **(2)** Any such payment may be retained by such officers and employees to cover the cost of such expenses or shall be deposited to the credit of the appropriation from which the cost of such expenses is paid, as may be provided in such regulations.
+
+## Source Credit
+
+*(Added [Pub. L. 102–40, title IV, § 401(b)(3)(B)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 230](https://www.govinfo.gov/link/statute/105/230); amended [Pub. L. 102–405, title III, § 302(c)(1)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1984](https://www.govinfo.gov/link/statute/106/1984).)*

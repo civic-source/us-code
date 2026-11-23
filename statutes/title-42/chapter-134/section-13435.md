@@ -3,9 +3,10 @@ title: "Section 13435 - Electric motor vehicles and associated equipment researc
 usc_title: 42
 usc_section: "13435"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13435"
-generated_at: "2026-03-30T02:56:11.444Z"
+generated_at: "2026-11-23T21:26:33.606Z"
+status: "active"
 ---
 
 # § 13435. Electric motor vehicles and associated equipment research and development
@@ -71,3 +72,7 @@ generated_at: "2026-03-30T02:56:11.444Z"
   - **(2)** the term “associated equipment” means equipment necessary for the regeneration, refueling, or recharging of batteries or other forms of electric energy used to power an electric motor vehicle and, in the case of electric-hybrid vehicles, such term includes nonpetroleum-related equipment necessary for, and solely related to, the demonstration of such vehicles;
   - **(3)** the term “electric motor vehicle” means a motor vehicle primarily powered by an electric motor that draws current from rechargeable storage batteries, fuel cells, photovoltaic arrays, or other sources of electric current and may include an electric-hybrid vehicle; and
   - **(4)** the term “electric-hybrid vehicle” means vehicle primarily powered by an electric motor that draws current from rechargeable storage batteries, fuel cells, or other sources of electric current and also relies on a nonelectric source of power that also operates on or is capable of operating on a nonelectrical source of power.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XX, § 2025](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3063](https://www.govinfo.gov/link/statute/106/3063); [Pub. L. 105–362, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3283](https://www.govinfo.gov/link/statute/112/3283).)*

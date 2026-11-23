@@ -3,9 +3,10 @@ title: "Section 5336 - Apportionment of appropriations for formula grants"
 usc_title: 49
 usc_section: "5336"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 5336"
-generated_at: "2026-03-30T02:56:19.317Z"
+generated_at: "2026-11-23T21:26:40.657Z"
+status: "active"
 ---
 
 # § 5336. Apportionment of appropriations for formula grants
@@ -79,3 +80,280 @@ generated_at: "2026-03-30T02:56:19.317Z"
   - **(2)** 25 percent of the funds shall be apportioned among designated recipients for urbanized areas with a population of less than 200,000 in the ratio that—
     - **(A)** the number of eligible low-income individuals in each such urbanized area; bears to
     - **(B)** the number of eligible low-income individuals in all such urbanized areas.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5336(a)(1) | 49 App.:1607a(a)(1). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 9(a); added Jan. 6, 1983 , Pub. L. 97–424, § 303 , 96 Stat. 2141 ; Apr. 2, 1987 , Pub. L. 100–17, § 327(b) , 101 Stat. 238 ; Dec. 18, 1991 , Pub. L. 102–240, § 3013(a) , 105 Stat. 2106 . |
+|  | 49 App.:1607a(d). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 9(b)(1)–(3), (c)–(e)(1), (m)(2); added Jan. 6, 1983 , Pub. L. 97–424, § 303 , 96 Stat. 2141 , 2147; Apr. 2, 1987 , Pub. L. 100–17, § 327(b) , 101 Stat. 238 . |
+| 5336(a)(2) | 49 App.:1607a(a)(2). |  |
+| 5336(b)(1) | 49 App.:1607a(b)(2) (last sentence). |  |
+| 5336(b)(2)(A) | 49 App.:1607a(b)(1), (2) (1st sentence). |  |
+| 5336(b)(2)(B) | 49 App.:1607a(b)(3) (1st sentence). |  |
+| 5336(b)(2)(C) | 49 App.:1607a(b)(2) (2d sentence), (3) (last sentence). |  |
+| 5336(b)(2)(D) | 49 App.:1607a(b)(2) (3d sentence). |  |
+| 5336(b)(2)(E) | 49 App.:1607a(b)(4). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 9(b)(4); added Dec. 18, 1991 , Pub. L. 102–240, § 3013(b) , 105 Stat. 2106 . |
+| 5336(c)(1) | 49 App.:1607a(c)(1), (2), (d) (last sentence). |  |
+| 5336(c)(2) | 49 App.:1607a(c)(3). |  |
+| 5336(d)(1) | 49 App.:1607a (k)(2)(A). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 9(k)(2)(A); added Jan. 6, 1983 , Pub. L. 97–424, § 303 , 96 Stat. 2145 ; Apr. 2, 1987 , Pub. L. 100–17 , §§ 312(c)(1), (2), 327(b), 101 Stat. 228 , 238. |
+| 5336(d)(2) | 49 App.:1607a (k)(2)(B). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 9(k)(2)(B); added Apr. 2, 1987 , Pub. L. 100–17, § 312(c)(3) , 101 Stat. 228 ; Dec. 18, 1991 , Pub. L. 102–240, § 3013(i) , 105 Stat. 2107 . |
+|  | 49 App.:1607a (k)(2)(C). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 9(k)(2)(C); added Apr. 2, 1987 , Pub. L. 100–17, § 312(c)(3) , 101 Stat. 228 . |
+| 5336(e) | 49 App.:1607a(q). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 9(q); added Apr. 2, 1987 , Pub. L. 100–17, § 312(e) , 101 Stat. 229 . |
+| 5336(f) | 49 App.:1607a(m)(2). |  |
+| 5336(g) | 49 App.:1607a(n). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 9(n); added Jan. 6, 1983 , Pub. L. 97–424, § 303 , 96 Stat. 2147 ; Apr. 2, 1987 , Pub. L. 100–17 , §§ 312(d), 327(b), 101 Stat. 229 , 238. |
+| 5336(h) | 49 App.:1607a(t). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 9(t); added Dec. 18, 1991 , Pub. L. 102–240, § 3013(k) , 105 Stat. 2108 . |
+| 5336(i) | 49 App.:1607a( o ). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 9( o ); added Jan. 6, 1983 , Pub. L. 97–424, § 303 , 96 Stat. 2147 ; Apr. 2, 1987 , Pub. L. 100–17 , §§ 311, 327(b), 101 Stat. 228 , 238. |
+| 5336(j) | 49 App.:1607a(e)(1). |  |
+| 5336(k) | 49 App.:1607a(s). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 9(s); added Dec. 18, 1991 , Pub. L. 102–240, § 3013(j) , 105 Stat. 2108 . |
+
+
+Based on Urbanized Area Population
+
+Based on Fixed Guideway Vehicle Revenue Miles, Directional Route Miles, and Passenger Miles
+
+Based on Bus Vehicle Revenue Miles and Passenger Miles
+
+Date of Apportionment
+
+Amounts Not Apportioned to Designated Recipients
+
+Transfers of Apportionments
+
+Period of Availability to Recipients
+
+Apportionments
+
+Small Transit Intensive Cities Formula.—
+
+Definitions
+
+Eligible area
+
+Performance category
+
+Apportionment.—
+
+Apportionment formula
+
+Data used in formula
+
+Apportionment Formula
+
+Historical and Revision Notes
+
+Pub. L
+
+5336(a)(1)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 303
+
+96 Stat. 2141
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 327(b)
+
+101 Stat. 238
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3013(a)
+
+105 Stat. 2106
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 303
+
+96 Stat. 2141
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 327(b)
+
+101 Stat. 238
+
+5336(a)(2)
+
+5336(b)(1)
+
+5336(b)(2)(A)
+
+5336(b)(2)(B)
+
+5336(b)(2)(C)
+
+5336(b)(2)(D)
+
+5336(b)(2)(E)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3013(b)
+
+105 Stat. 2106
+
+5336(c)(1)
+
+5336(c)(2)
+
+5336(d)(1)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 303
+
+96 Stat. 2145
+
+Apr. 2, 1987
+
+Pub. L. 100–17
+
+101 Stat. 228
+
+5336(d)(2)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 312(c)(3)
+
+101 Stat. 228
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3013(i)
+
+105 Stat. 2107
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 312(c)(3)
+
+101 Stat. 228
+
+5336(e)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 312(e)
+
+101 Stat. 229
+
+5336(f)
+
+5336(g)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 303
+
+96 Stat. 2147
+
+Apr. 2, 1987
+
+Pub. L. 100–17
+
+101 Stat. 229
+
+5336(h)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3013(k)
+
+105 Stat. 2108
+
+5336(i)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 303
+
+96 Stat. 2147
+
+Apr. 2, 1987
+
+Pub. L. 100–17
+
+101 Stat. 228
+
+5336(j)
+
+5336(k)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3013(j)
+
+105 Stat. 2108
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 840](https://www.govinfo.gov/link/statute/108/840); [Pub. L. 104–287, § 5(19)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3390](https://www.govinfo.gov/link/statute/110/3390); [Pub. L. 105–178, title III](https://www.govinfo.gov/link/plaw/105/public/178), §§ 3027(a), (b), 3029(b)(10), (11), June 9, 1998, [112 Stat. 366](https://www.govinfo.gov/link/statute/112/366), 373; [Pub. L. 109–59, title III](https://www.govinfo.gov/link/plaw/109/public/59), §§ 3002(b)(4), 3034, Aug. 10, 2005, [119 Stat. 1545](https://www.govinfo.gov/link/statute/119/1545), 1627; [Pub. L. 110–244, title II, § 201](https://www.govinfo.gov/link/plaw/110/public/244) (l), June 6, 2008, [122 Stat. 1611](https://www.govinfo.gov/link/statute/122/1611); [Pub. L. 112–141, div. B, § 20026](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 719](https://www.govinfo.gov/link/statute/126/719); [Pub. L. 113–159, title I, § 1202](https://www.govinfo.gov/link/plaw/113/public/159), Aug. 8, 2014, [128 Stat. 1845](https://www.govinfo.gov/link/statute/128/1845); [Pub. L. 114–21, title I, § 1202](https://www.govinfo.gov/link/plaw/114/public/21), May 29, 2015, [129 Stat. 223](https://www.govinfo.gov/link/statute/129/223); [Pub. L. 114–41, title I, § 1202](https://www.govinfo.gov/link/plaw/114/public/41), July 31, 2015, [129 Stat. 450](https://www.govinfo.gov/link/statute/129/450); [Pub. L. 114–73, title I, § 1202](https://www.govinfo.gov/link/plaw/114/public/73), Oct. 29, 2015, [129 Stat. 573](https://www.govinfo.gov/link/statute/129/573); [Pub. L. 114–87, title I, § 1202](https://www.govinfo.gov/link/plaw/114/public/87), Nov. 20, 2015, [129 Stat. 682](https://www.govinfo.gov/link/statute/129/682); [Pub. L. 114–94, div. A, title III, § 3014](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1478](https://www.govinfo.gov/link/statute/129/1478); [Pub. L. 117–58, div. C](https://www.govinfo.gov/link/plaw/117/public/58), §§ 30001(b)(3), 30015(a), (b)(1), Nov. 15, 2021, [135 Stat. 890](https://www.govinfo.gov/link/statute/135/890), 910.)*

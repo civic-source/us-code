@@ -3,9 +3,10 @@ title: "Section 2664a - Protection of Civil Service employees"
 usc_title: 22
 usc_section: "2664a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2664a"
-generated_at: "2026-03-30T02:55:05.377Z"
+generated_at: "2026-11-23T21:25:58.523Z"
+status: "active"
 ---
 
 # § 2664a. Protection of Civil Service employees
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.377Z"
 - **(b)** The Secretary of State shall take all appropriate steps to assure that the burden of cuts in the budget for the Department is not imposed disproportionately or inequitably upon its Civil Service employees.
 - **(c)** There is established in the Office of the Secretary of State the position of Ombudsman for Civil Service Employees. The position of Ombudsman for Civil Service Employees shall be a career reserved position within the Senior Executive Service. The Ombudsman for Civil Service Employees shall report directly to the Secretary of State and shall have the right to participate in all Management Council meetings to assure that the ability of the Civil Service employees to contribute to the achievement of the Department’s mandated responsibilities and the career interests of those employees are adequately represented. The position of Ombudsman for Civil Service Employees shall be designated from one of the Senior Executive Service positions (as defined in section 3132(a)(2) of title 5 ) in existence on December 22, 1987 .
 - **(d)** For purposes of this section, the term “Civil Service employees” means employees of the Federal Government except for members of the Foreign Service (as defined in section 103 of the Foreign Service Act of 1980 [ 22 U.S.C. 3903 ]).
+
+## Source Credit
+
+*([Pub. L. 100–204, title I, § 172](https://www.govinfo.gov/link/plaw/100/public/204), Dec. 22, 1987, [101 Stat. 1359](https://www.govinfo.gov/link/statute/101/1359).)*

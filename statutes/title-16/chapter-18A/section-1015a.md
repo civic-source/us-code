@@ -3,9 +3,10 @@ title: "Section 1015a - Program"
 usc_title: 16
 usc_section: "1015a"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1015a"
-generated_at: "2026-03-30T02:54:22.940Z"
+generated_at: "2026-11-23T21:25:51.805Z"
+status: "active"
 ---
 
 # § 1015a. Program
@@ -88,3 +89,13 @@ generated_at: "2026-03-30T02:54:22.940Z"
   - **(2)** $5,000,000 for fiscal year 2010;
   - **(3)** $10,000,000 for fiscal year 2011; and
   - **(4)** $20,000,000 for each of fiscal years 2012 through 2026.
+
+(aa) holds regular meetings;
+
+(bb) has completed a mission statement; and
+
+(cc) has developed a restoration plan and project concepts for the watershed.
+
+## Source Credit
+
+*([Pub. L. 111–11, title VI, § 6002](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1166](https://www.govinfo.gov/link/statute/123/1166); [Pub. L. 116–260, div. D, title II, § 206](https://www.govinfo.gov/link/plaw/116/public/260), div. FF, title XI, § 1107(b), Dec. 27, 2020, [134 Stat. 1363](https://www.govinfo.gov/link/statute/134/1363), 3243.)*

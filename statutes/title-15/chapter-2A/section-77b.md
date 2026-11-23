@@ -3,9 +3,10 @@ title: "Section 77b - Definitions; promotion of efficiency, competition, and cap
 usc_title: 15
 usc_section: "77b"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 77b"
-generated_at: "2026-03-30T02:54:08.030Z"
+generated_at: "2026-11-23T21:25:39.500Z"
+status: "active"
 ---
 
 # § 77b. Definitions; promotion of efficiency, competition, and capital formation
@@ -37,3 +38,23 @@ generated_at: "2026-03-30T02:54:08.030Z"
     - **(C)** the date on which such issuer has, during the previous 3-year period, issued more than $1,000,000,000 in non-convertible debt; or
     - **(D)** the date on which such issuer is deemed to be a “large accelerated filer”, as defined in section 240.12b–2 of title 17, Code of Federal Regulations, or any successor thereto.
 - **(b)** Whenever pursuant to this subchapter the Commission is engaged in rulemaking and is required to consider or determine whether an action is necessary or appropriate in the public interest, the Commission shall also consider, in addition to the protection of investors, whether the action will promote efficiency, competition, and capital formation.
+
+In General
+
+Review and Adjustment.—
+
+Initial review and adjustment.—
+
+Initial review
+
+Adjustment or modification
+
+Subsequent reviews and adjustment.—
+
+Subsequent reviews
+
+Adjustment or modification
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title I, § 2, [48 Stat. 74](https://www.govinfo.gov/link/statute/48/74); June 6, 1934, ch. 404, title II, § 201, [48 Stat. 905](https://www.govinfo.gov/link/statute/48/905); Aug. 10, 1954, ch. 667, title I, §§ 1–4, [68 Stat. 683](https://www.govinfo.gov/link/statute/68/683), 684; [Pub. L. 86–70, § 12(a)](https://www.govinfo.gov/link/plaw/86/public/70), June 25, 1959, [73 Stat. 143](https://www.govinfo.gov/link/statute/73/143); [Pub. L. 86–624, § 7(a)](https://www.govinfo.gov/link/plaw/86/public/624), July 12, 1960, [74 Stat. 412](https://www.govinfo.gov/link/statute/74/412); [Pub. L. 91–547, § 27(a)](https://www.govinfo.gov/link/plaw/91/public/547), Dec. 14, 1970, [84 Stat. 1433](https://www.govinfo.gov/link/statute/84/1433); [Pub. L. 96–477, title VI, § 603](https://www.govinfo.gov/link/plaw/96/public/477), Oct. 21, 1980, [94 Stat. 2294](https://www.govinfo.gov/link/statute/94/2294); [Pub. L. 97–303, § 1](https://www.govinfo.gov/link/plaw/97/public/303), Oct. 13, 1982, [96 Stat. 1409](https://www.govinfo.gov/link/statute/96/1409); [Pub. L. 100–181, title II](https://www.govinfo.gov/link/plaw/100/public/181), §§ 201, 202, Dec. 4, 1987, [101 Stat. 1252](https://www.govinfo.gov/link/statute/101/1252); [Pub. L. 104–290, title I, § 106(a)](https://www.govinfo.gov/link/plaw/104/public/290), Oct. 11, 1996, [110 Stat. 3424](https://www.govinfo.gov/link/statute/110/3424); [Pub. L. 105–353, title III, § 301(a)(1)](https://www.govinfo.gov/link/plaw/105/public/353), Nov. 3, 1998, [112 Stat. 3235](https://www.govinfo.gov/link/statute/112/3235); [Pub. L. 106–554, § 1(a)(5) [title II, § 208(a)(1)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–434; [Pub. L. 111–203, title VII, § 768(a)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1800](https://www.govinfo.gov/link/statute/124/1800); [Pub. L. 112–106, title I](https://www.govinfo.gov/link/plaw/112/public/106), §§ 101(a), 105(a), Apr. 5, 2012, [126 Stat. 307](https://www.govinfo.gov/link/statute/126/307), 310; [Pub. L. 119–27, § 17(c)](https://www.govinfo.gov/link/plaw/119/public/27), July 18, 2025, [139 Stat. 463](https://www.govinfo.gov/link/statute/139/463).)*

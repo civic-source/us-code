@@ -3,9 +3,10 @@ title: "Section 4105 - Federal cost limits and limitations on plans of action"
 usc_title: 12
 usc_section: "4105"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4105"
-generated_at: "2026-03-30T02:53:53.500Z"
+generated_at: "2026-11-23T21:25:37.161Z"
+status: "active"
 ---
 
 # § 4105. Federal cost limits and limitations on plans of action
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:53.500Z"
     - **(A)** file a plan of action under section 4107 of this title to receive incentives under section 4109 of this title if the owner agrees to accept incentives under such sections in an amount that shall not exceed the Federal cost limit;
     - **(B)** file a second notice of intent under section 4106(d) of this title indicating an intention to transfer the housing under section 4110 of this title and take actions pursuant to such section if the owner agrees to transfer the housing at a price that shall not exceed the Federal cost limit; or
     - **(C)** file a second notice of intent under section 4106(d) of this title indicating an intention to prepay the mortgage or voluntarily terminate the insurance, subject to the mandatory sale provisions under section 4111 of this title .
+
+## Source Credit
+
+*([Pub. L. 100–242, title II, § 215](https://www.govinfo.gov/link/plaw/100/public/242), as added [Pub. L. 101–625, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4252](https://www.govinfo.gov/link/statute/104/4252); amended [Pub. L. 102–550, title III, § 317(a)(1)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3772](https://www.govinfo.gov/link/statute/106/3772).)*

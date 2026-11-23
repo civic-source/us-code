@@ -3,9 +3,10 @@ title: "Section 3172 - State allotments"
 usc_title: 29
 usc_section: "3172"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3172"
-generated_at: "2026-03-30T02:55:18.753Z"
+generated_at: "2026-11-23T21:26:02.338Z"
+status: "active"
 ---
 
 # § 3172. State allotments
@@ -66,3 +67,19 @@ generated_at: "2026-03-30T02:55:18.753Z"
     - **(A)** with respect to funds allotted through a State allotment for adult employment and training activities, a State that does not have an amount of such funds available for reallotment under paragraph (2) for the program year for which the determination under paragraph (2) is made; and
     - **(B)** with respect to funds allotted through a State allotment for dislocated worker employment and training activities, a State that does not have an amount of such funds available for reallotment under paragraph (2) for the program year for which the determination under paragraph (2) is made.
   - **(5)** The Governor shall prescribe uniform procedures for the obligation of funds by local areas within the State in order to avoid the requirement that funds be made available for reallotment under this subsection. The Governor shall further prescribe equitable procedures for making funds available from the State and local areas in the event that a State is required to make funds available for reallotment under this subsection.
+
+(aa) 3 ⁄ 10 of 1 percent of $960,000,000 of the remainder described in clause (i) for the fiscal year; and
+
+(bb) if the remainder described in clause (i) for the fiscal year exceeds $960,000,000, ⅖ of 1 percent of the excess.
+
+(aa) the poverty line; or
+
+(bb) 70 percent of the lower living standard income level.
+
+(aa) the number that represents the number of unemployed individuals in excess of 4.5 percent of the civilian labor force in the State; or
+
+(bb) the number that represents the number of unemployed individuals in excess of 4.5 percent of the civilian labor force in areas of substantial unemployment in such State.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 132](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1511](https://www.govinfo.gov/link/statute/128/1511); [Pub. L. 114–18, § 2(d)](https://www.govinfo.gov/link/plaw/114/public/18), May 22, 2015, [129 Stat. 213](https://www.govinfo.gov/link/statute/129/213).)*

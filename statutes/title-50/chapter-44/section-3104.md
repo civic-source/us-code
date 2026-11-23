@@ -3,9 +3,10 @@ title: "Section 3104 - Reports on security clearances"
 usc_title: 50
 usc_section: "3104"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3104"
-generated_at: "2026-03-30T02:56:26.236Z"
+generated_at: "2026-11-23T21:26:39.012Z"
+status: "active"
 ---
 
 # § 3104. Reports on security clearances
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:56:26.236Z"
     - **(I)** The percentage of security clearance investigations that did not result in enough information to make a decision on potentially adverse information.
   - **(3)** The report required under this subsection shall be submitted in unclassified form, but may include a classified annex.
 - **(c)** The reports required under subsections (a)(1) and (b) shall be submitted in unclassified form, but may include a classified annex.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title V, § 506H, as added [Pub. L. 111–259, title III, § 367(a)(1)(A)](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2703](https://www.govinfo.gov/link/statute/124/2703); amended [Pub. L. 114–113, div. M, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2929](https://www.govinfo.gov/link/statute/129/2929); [Pub. L. 116–92, div. E, title LXVI, § 6609(b)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2217](https://www.govinfo.gov/link/statute/133/2217).)*

@@ -3,9 +3,10 @@ title: "Section 1822 - Corporation as receiver"
 usc_title: 12
 usc_section: "1822"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1822"
-generated_at: "2026-03-30T02:53:53.453Z"
+generated_at: "2026-11-23T21:25:36.996Z"
+status: "active"
 ---
 
 # § 1822. Corporation as receiver
@@ -58,3 +59,15 @@ generated_at: "2026-03-30T02:53:53.453Z"
     - **(B)** would be prohibited under paragraph (6) from providing services to, receiving fees from, or contracting with the Corporation; or
     - **(C)** has been subject to a final enforcement action by any Federal banking agency.
   - **(6)** To the extent that the regulations under this subsection conflict with rules of other agencies or Government corporations, officers, directors, employees, and independent contractors of the Corporation who are also subject to the conflict of interest or ethical rules of another agency or Government corporation, shall be governed by the regulations prescribed by the Board of Directors under this subsection when acting for or on behalf of the Corporation. Notwithstanding the preceding sentence, the rules of the Corporation shall not take priority over the ethics and conflict of interest rules and regulations promulgated by the Office of Government Ethics unless specifically authorized by that Office.
+
+In General
+
+Special Rule for Receiverships in Progress
+
+Information to States
+
+Definition
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [12], [64 Stat. 887](https://www.govinfo.gov/link/statute/64/887); [Pub. L. 95–369, § 6(c)(23)](https://www.govinfo.gov/link/plaw/95/public/369), Sept. 17, 1978, [92 Stat. 619](https://www.govinfo.gov/link/statute/92/619); [Pub. L. 97–320, title I, § 113](https://www.govinfo.gov/link/plaw/97/public/320) (l), Oct. 15, 1982, [96 Stat. 1474](https://www.govinfo.gov/link/statute/96/1474); [Pub. L. 101–73, title II](https://www.govinfo.gov/link/plaw/101/public/73), §§ 201(a), 216, Aug. 9, 1989, [103 Stat. 187](https://www.govinfo.gov/link/statute/103/187), 254; [Pub. L. 103–44, § 1](https://www.govinfo.gov/link/plaw/103/public/44), June 28, 1993, [107 Stat. 220](https://www.govinfo.gov/link/statute/107/220); [Pub. L. 103–204, § 19(a)](https://www.govinfo.gov/link/plaw/103/public/204), Dec. 17, 1993, [107 Stat. 2402](https://www.govinfo.gov/link/statute/107/2402); [Pub. L. 104–179, § 4(b)(1)](https://www.govinfo.gov/link/plaw/104/public/179), Aug. 6, 1996, [110 Stat. 1567](https://www.govinfo.gov/link/statute/110/1567); [Pub. L. 109–173, § 8(a)(18)](https://www.govinfo.gov/link/plaw/109/public/173), Feb. 15, 2006, [119 Stat. 3613](https://www.govinfo.gov/link/statute/119/3613); [Pub. L. 110–289, div. A, title VI, § 1604(b)(1)(C)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2829](https://www.govinfo.gov/link/statute/122/2829).)*

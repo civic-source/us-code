@@ -3,9 +3,10 @@ title: "Section 3871f - Critical conservation areas"
 usc_title: 16
 usc_section: "3871f"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3871f"
-generated_at: "2026-03-30T02:54:23.038Z"
+generated_at: "2026-11-23T21:25:52.005Z"
+status: "active"
 ---
 
 # § 3871f. Critical conservation areas
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:23.038Z"
 - **(e)**
   - **(1)** Except as provided in paragraph (2), the Secretary shall administer any partnership agreement or program contract under this section in a manner that is consistent with the terms of the program.
   - **(2)** The Secretary shall, to the maximum extent practicable, ensure that eligible activities carried out in critical conservation areas designated under this section complement and are consistent with other Federal and State programs and water quality and quantity strategies.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1271F](https://www.govinfo.gov/link/plaw/99/public/198), as added [Pub. L. 113–79, title II, § 2401](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 750](https://www.govinfo.gov/link/statute/128/750); amended [Pub. L. 115–334, title II, § 2707](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4600](https://www.govinfo.gov/link/statute/132/4600).)*

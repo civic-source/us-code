@@ -3,9 +3,10 @@ title: "Section 6316 - Administration, penalties, enforcement, and preemption"
 usc_title: 42
 usc_section: "6316"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6316"
-generated_at: "2026-03-30T02:56:11.255Z"
+generated_at: "2026-11-23T21:26:32.924Z"
+status: "active"
 ---
 
 # § 6316. Administration, penalties, enforcement, and preemption
@@ -85,3 +86,27 @@ generated_at: "2026-03-30T02:56:11.255Z"
       - **(ii)** ending on the date on which the Secretary publishes a final rule covering the specific type of walk-in cooler or walk-in freezer.
     - **(B)** Any State standard issued before the publication of the final rule shall not be preempted until the standards established in the final rule take effect.
   - **(3)** Any standard issued in the State of California before January 1, 2011 , under title 20 of the California Code of Regulations, that refers to walk-in coolers and walk-in freezers, for which standards have been established under paragraphs (1), (2), and (3) of section 6313(f) of this title , shall not be preempted until the standards established under section 6313(f)(4) of this title take effect.
+
+Walk-in coolers and walk-in freezers.—
+
+Covered types.—
+
+Relationship to other law.—
+
+In general
+
+State standards
+
+Administration
+
+Final rule not timely.—
+
+In general
+
+State standards
+
+California
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 345](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 95–619, title IV, § 441(a)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3272](https://www.govinfo.gov/link/statute/92/3272); amended [Pub. L. 102–486, title I, § 122(e)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2815](https://www.govinfo.gov/link/statute/106/2815); [Pub. L. 105–388, § 5(a)(7)](https://www.govinfo.gov/link/plaw/105/public/388), Nov. 13, 1998, [112 Stat. 3478](https://www.govinfo.gov/link/statute/112/3478); [Pub. L. 109–58, title I, § 136(h)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 643](https://www.govinfo.gov/link/statute/119/643); [Pub. L. 110–140, title III](https://www.govinfo.gov/link/plaw/110/public/140), §§ 308(b), 312(e), Dec. 19, 2007, [121 Stat. 1561](https://www.govinfo.gov/link/statute/121/1561), 1567; [Pub. L. 112–210, § 10(a)(5)](https://www.govinfo.gov/link/plaw/112/public/210), Dec. 18, 2012, [126 Stat. 1524](https://www.govinfo.gov/link/statute/126/1524).)*

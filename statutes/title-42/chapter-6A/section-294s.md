@@ -3,9 +3,10 @@ title: "Section 294s - Rural maternal and obstetric care training demonstration"
 usc_title: 42
 usc_section: "294s"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 294s"
-generated_at: "2026-03-30T02:56:10.780Z"
+generated_at: "2026-11-23T21:26:30.647Z"
+status: "active"
 ---
 
 # § 294s. Rural maternal and obstetric care training demonstration
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:10.780Z"
     - **(B)** an analysis of maternal and infant health outcomes (including quality of care, morbidity, and mortality) before and after implementation of the program in the communities served by entities participating in the demonstration; and
     - **(C)** recommendations on whether the demonstration program should be continued.
 - **(e)** There are authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2023 through 2027.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 764, as added [Pub. L. 117–103, div. P, title I, § 144](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 800](https://www.govinfo.gov/link/statute/136/800).)*

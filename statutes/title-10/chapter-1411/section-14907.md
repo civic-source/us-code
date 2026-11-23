@@ -3,9 +3,10 @@ title: "Section 14907 - Army National Guard of the United States and Air Nationa
 usc_title: 10
 usc_section: "14907"
 chapter: 1411
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 14907"
-generated_at: "2026-03-30T02:53:38.276Z"
+generated_at: "2026-11-23T21:25:33.069Z"
+status: "active"
 ---
 
 # § 14907. Army National Guard of the United States and Air National Guard of the United States: discharge and withdrawal of Federal recognition of officers absent without leave
@@ -14,3 +15,11 @@ generated_at: "2026-03-30T02:53:38.276Z"
   - **(1)** terminate the reserve appointment of the officer; and
   - **(2)** withdraw the officer’s Federal recognition as an officer of the National Guard.
 - **(b)** An officer of the Army National Guard of the United States or the Air National Guard of the United States whose Federal recognition as an officer of the National Guard is withdrawn under section 323(b) of title 32 shall be discharged from the officer’s appointment as a reserve officer of the Army or the Air Force, as the case may be.
+
+Authority To Withdraw Federal Recognition
+
+Discharge From Reserve Appointment
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1611](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2960](https://www.govinfo.gov/link/statute/108/2960).)*

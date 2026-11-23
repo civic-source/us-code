@@ -3,12 +3,17 @@ title: "Section 499n - Inspection of perishable agricultural commodities"
 usc_title: 7
 usc_section: "499n"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 499n"
-generated_at: "2026-03-30T02:53:42.286Z"
+generated_at: "2026-11-23T21:25:27.968Z"
+status: "active"
 ---
 
 # § 499n. Inspection of perishable agricultural commodities
 
 - **(a)** The Secretary is authorized, independently and in cooperation with other branches of the Government, State, or municipal agencies and/or any person, whether operating in one or more jurisdictions, to employ and/or license inspectors to inspect and certify, without regard to the filing of a complaint under this chapter, to any interested person the class, quality, and/or condition of any lot of any perishable agricultural commodity when offered for interstate or foreign shipment or when received at places where the Secretary shall find it practicable to provide such service, under such rules and regulations as he may prescribe, including the payment of such fees and expenses as will be reasonable and as nearly as may be to cover the cost for the service rendered: Provided , That fees for inspections made by a licensed inspector, less the percentage thereof which he is allowed by the terms of his contract of employment with the Secretary as compensation for his services, shall be deposited into the Treasury of the United States as miscellaneous receipts; and fees for inspections made by an inspector acting under a cooperative agreement with a State, municipality, or other person shall be disposed of in accordance with the terms of such agreement: Provided further , That expenses for travel and subsistence incurred by inspectors shall be paid by the applicant for inspection to the United States Department of Agriculture to be credited to the appropriation for carrying out the purposes of this chapter: And provided further , That official inspection certificates for fresh fruits and vegetables issued by the Secretary of Agriculture pursuant to any law shall be received by all officers and all courts of the United States, in all proceedings under this chapter, and in all transactions upon contract markets under Commodities Exchange Act ( 7 U.S.C. 1 et seq.), as prima-facie evidence of the truth of the statements therein contained.
 - **(b)** Whoever shall falsely make, issue, alter, forge, or counterfeit, or cause or procure to be falsely made, issued, altered, forged, or counterfeited, or willingly aid, cause, procure or assist in, or be a party to the false making, issuing, altering, forging, or counterfeiting of any certificate of inspection issued under authority of this chapter, sections 491, 493 to 497 of this title, or any Act making appropriations for the Department of Agriculture; or shall utter or publish as true or cause to be uttered or published as true any such false, forged, altered, or counterfeited certificate, for a fraudulent purpose, shall be guilty of a misdemeanor and upon conviction shall be punished by a fine of not more than $500 or by imprisonment for a period of not more than one year, or both, at the discretion of the court.
+
+## Source Credit
+
+*(June 10, 1930, ch. 436, § 14, [46 Stat. 537](https://www.govinfo.gov/link/statute/46/537); Apr. 13, 1934, ch. 120, § 15, [48 Stat. 588](https://www.govinfo.gov/link/statute/48/588); Aug. 20, 1937, ch. 719, § 12, [50 Stat. 730](https://www.govinfo.gov/link/statute/50/730); [Pub. L. 102–237, title X, § 1011(7)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1898](https://www.govinfo.gov/link/statute/105/1898).)*

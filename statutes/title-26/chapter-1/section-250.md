@@ -3,9 +3,10 @@ title: "Section 250 - Foreign-derived deduction eligible income and net CFC test
 usc_title: 26
 usc_section: "250"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 250"
-generated_at: "2026-03-30T02:55:27.657Z"
+generated_at: "2026-11-23T21:26:06.108Z"
+status: "active"
 ---
 
 # § 250. Foreign-derived deduction eligible income and net CFC tested income
@@ -56,3 +57,11 @@ generated_at: "2026-03-30T02:55:27.657Z"
       - **(ii)** expenses and deductions (including taxes), other than interest expense and research or experimental expenditures, properly allocable to such gross income.
     - **(B)** For purposes of subparagraph (A), the term “domestic oil and gas extraction income” means income described in section 907(c)(1), determined by substituting “within the United States” for “without the United States”.
 - **(c)** The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the provisions of this section.
+
+(aa) intangible property (as defined in section 367(d)(4)), and
+
+(bb) any other property of a type that is subject to depreciation, amortization, or depletion by the seller, over
+
+## Source Credit
+
+*(Added [Pub. L. 115–97, title I, § 14202(a)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2213](https://www.govinfo.gov/link/statute/131/2213); amended [Pub. L. 119–21, title VII](https://www.govinfo.gov/link/plaw/119/public/21), §§ 70321(a), 70322(a)(1), (2), (b)(1), 70323(a)(3)(A)(i), (ii), (b)(1)–(2)(C)(i), July 4, 2025, [139 Stat. 204–206](https://www.govinfo.gov/link/statute/139/204).)*

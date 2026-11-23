@@ -3,9 +3,10 @@ title: "Section 9028 - Grants for short-time compensation programs"
 usc_title: 15
 usc_section: "9028"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9028"
-generated_at: "2026-03-30T02:54:08.240Z"
+generated_at: "2026-11-23T21:25:40.117Z"
+status: "active"
 ---
 
 # § 9028. Grants for short-time compensation programs
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:54:08.240Z"
   - **(1)** The term “Secretary” means the Secretary of Labor.
   - **(2)** The term “short-time compensation program” has the meaning given such term in section 3306(v) of title 26 .
   - **(3)** The terms “State”, “State agency”, and “State law” have the meanings given those terms in section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 ( 26 U.S.C. 3304 note).
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title II, § 2110](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 331](https://www.govinfo.gov/link/statute/134/331).)*

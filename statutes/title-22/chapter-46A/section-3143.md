@@ -3,9 +3,10 @@ title: "Section 3143 - Reports by Government Accountability Office"
 usc_title: 22
 usc_section: "3143"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3143"
-generated_at: "2026-03-30T02:55:05.390Z"
+generated_at: "2026-11-23T21:25:58.577Z"
+status: "active"
 ---
 
 # § 3143. Reports by Government Accountability Office
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.390Z"
   - **(1)** disclose any confidential business information or present any information in a way in which any person, including a business enterprise or establishment, can be identified; or
   - **(2)** combine, match, or use in any other way individually identifiable data or information maintained by any of the Federal statistical agencies referred to in subsection (c) with any other individually identifiable confidential data or information that is not collected by such statistical agencies.
 - **(e)** The access by the Comptroller General to information under this Act shall be in conformity with section 716 of title 31 .
+
+## Source Credit
+
+*([Pub. L. 101–533, § 4](https://www.govinfo.gov/link/plaw/101/public/533), Nov. 7, 1990, [104 Stat. 2346](https://www.govinfo.gov/link/statute/104/2346); [Pub. L. 104–316, title I, § 111(c)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3833](https://www.govinfo.gov/link/statute/110/3833); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

@@ -3,9 +3,10 @@ title: "Section 1732 - Cooperative agreements"
 usc_title: 30
 usc_section: "1732"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1732"
-generated_at: "2026-03-30T02:55:29.409Z"
+generated_at: "2026-11-23T21:26:00.447Z"
+status: "active"
 ---
 
 # § 1732. Cooperative agreements
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:29.409Z"
   - **(1)** each State shall, upon request, have access to all royalty accounting information in the possession of the Secretary respecting the production, removal, or sale of oil or gas from leases on Federal lands within the State; and
   - **(2)** each Indian tribe shall, upon request, have access to all royalty accounting information in the possession of the Secretary respecting the production, removal, or sale of oil or gas from leases on Indian lands under the jurisdiction of such tribe.
 - **(c)** Any cooperative agreement entered into pursuant to this section shall be in accordance with the provisions of chapter 63 of title 31, and shall contain such terms and conditions as the Secretary deems appropriate and consistent with the purposes of this chapter, including, but not limited to, a limitation on the use of Federal assistance to those costs which are directly required to carry out the agreed upon activities.
+
+## Source Credit
+
+*([Pub. L. 97–451, title II, § 202](https://www.govinfo.gov/link/plaw/97/public/451), Jan. 12, 1983, [96 Stat. 2457](https://www.govinfo.gov/link/statute/96/2457).)*

@@ -3,9 +3,10 @@ title: "Section 76 - Standards and procedures; establishment, amendment, and rev
 usc_title: 7
 usc_section: "76"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 76"
-generated_at: "2026-03-30T02:53:42.252Z"
+generated_at: "2026-11-23T21:25:27.872Z"
+status: "active"
 ---
 
 # § 76. Standards and procedures; establishment, amendment, and revocation
@@ -32,3 +33,15 @@ generated_at: "2026-03-30T02:53:42.252Z"
   - **(1)** In establishing standards under subsection (a) for each grain for which official grades are established, the Secretary shall establish for each such grain official grade-determining factors and factor limits that reflect the levels of soundness and purity that are consistent with end-use performance goals of the major foreign and domestic users of each such grain. Such factors and factor limits for grades number 3 and better shall provide users of such standards the best possible information from which to determine end-use product quality. The Secretary shall establish factors and factor limits that will provide that grain meeting the requirements for grades number 3 and better will perform in accordance with general trade expectations for the predominant uses of such grain.
   - **(2)** In establishing factors and factor limits under paragraph (1), the Secretary shall provide for notice and an opportunity for public comment prior to making changes in the grade-determining factors and factor limits that shall be applicable under this section to grain that is officially graded.
 - **(d)** If the Government of any country requests that moisture content remain a criterion in the official grade designations of grain, such criterion shall be included in determining the official grade designation of grain shipped to such country.
+
+Study
+
+End-Use Tests.—
+
+Ongoing review
+
+Revision of procedures
+
+## Source Credit
+
+*(Aug. 11, 1916, ch. 313, pt. B, § 4, [39 Stat. 483](https://www.govinfo.gov/link/statute/39/483); [Pub. L. 90–487, § 1](https://www.govinfo.gov/link/plaw/90/public/487), Aug. 15, 1968, [82 Stat. 762](https://www.govinfo.gov/link/statute/82/762); [Pub. L. 94–582, § 5](https://www.govinfo.gov/link/plaw/94/public/582), Oct. 21, 1976, [90 Stat. 2869](https://www.govinfo.gov/link/statute/90/2869); [Pub. L. 95–113, title XVI, § 1604(c)](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 1027](https://www.govinfo.gov/link/statute/91/1027); [Pub. L. 99–198, title XVI, § 1671](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1632](https://www.govinfo.gov/link/statute/99/1632); [Pub. L. 101–624, title XX](https://www.govinfo.gov/link/plaw/101/public/624), §§ 2005, 2006, Nov. 28, 1990, [104 Stat. 3930](https://www.govinfo.gov/link/statute/104/3930); [Pub. L. 103–156, § 12(b)](https://www.govinfo.gov/link/plaw/103/public/156), Nov. 24, 1993, [107 Stat. 1528](https://www.govinfo.gov/link/statute/107/1528); [Pub. L. 103–354, title II, § 293(a)(7)](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3237](https://www.govinfo.gov/link/statute/108/3237); [Pub. L. 116–216, § 9](https://www.govinfo.gov/link/plaw/116/public/216), Dec. 11, 2020, [134 Stat. 1051](https://www.govinfo.gov/link/statute/134/1051).)*

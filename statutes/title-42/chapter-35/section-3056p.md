@@ -3,9 +3,10 @@ title: "Section 3056p - Definitions and rule"
 usc_title: 42
 usc_section: "3056p"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3056p"
-generated_at: "2026-03-30T02:56:11.179Z"
+generated_at: "2026-11-23T21:26:32.517Z"
+status: "active"
 ---
 
 # § 3056p. Definitions and rule
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:56:11.179Z"
     - **(F)** has failed to find employment after utilizing services provided under title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3111 et seq.];
     - **(G)** is homeless or at risk for homelessness; or
     - **(H)** has been incarcerated within the last 5 years or is under supervision following release from prison or jail within the last 5 years.
+
+## Source Credit
+
+*([Pub. L. 89–73, title V, § 518](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 109–365, title V, § 501](https://www.govinfo.gov/link/plaw/109/public/365), Oct. 17, 2006, [120 Stat. 2588](https://www.govinfo.gov/link/statute/120/2588); amended [Pub. L. 113–128, title V, § 512(w)(8)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1716](https://www.govinfo.gov/link/statute/128/1716); [Pub. L. 114–144, § 6(g)](https://www.govinfo.gov/link/plaw/114/public/144), Apr. 19, 2016, [130 Stat. 346](https://www.govinfo.gov/link/statute/130/346); [Pub. L. 116–131, title IV, § 401(a)(3)](https://www.govinfo.gov/link/plaw/116/public/131), Mar. 25, 2020, [134 Stat. 266](https://www.govinfo.gov/link/statute/134/266).)*

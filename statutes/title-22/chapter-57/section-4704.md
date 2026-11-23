@@ -3,9 +3,10 @@ title: "Section 4704 - Guidelines"
 usc_title: 22
 usc_section: "4704"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4704"
-generated_at: "2026-03-30T02:55:05.413Z"
+generated_at: "2026-11-23T21:25:58.648Z"
+status: "active"
 ---
 
 # § 4704. Guidelines
@@ -23,3 +24,7 @@ The scholarship program under this chapter shall be carried out in accordance wi
   - **(9)** Further allowance shall be made to provide adequate opportunities for professional, academic, and cultural enrichment for scholarship recipients.
   - **(10)** The program shall, to the maximum extent practicable, offer equal opportunities for both male and female students to study in the United States.
   - **(11)** The United States Information Agency shall recommend to each student, who receives a scholarship under this chapter for study at a college or university, that the student enroll in a course on the classics of American political thought or which otherwise emphasizes the ideas, principles, and documents upon which the United States was founded.
+
+## Source Credit
+
+*([Pub. L. 99–93, title VI, § 604](https://www.govinfo.gov/link/plaw/99/public/93), Aug. 16, 1985, [99 Stat. 440](https://www.govinfo.gov/link/statute/99/440).)*

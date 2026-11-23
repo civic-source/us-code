@@ -3,9 +3,10 @@ title: "Section 1343 - Buying and leasing passenger motor vehicles and aircraft"
 usc_title: 31
 usc_section: "1343"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 1343"
-generated_at: "2026-03-30T02:55:34.052Z"
+generated_at: "2026-11-23T21:26:10.552Z"
+status: "active"
 ---
 
 # § 1343. Buying and leasing passenger motor vehicles and aircraft
@@ -29,3 +30,66 @@ generated_at: "2026-03-30T02:55:34.052Z"
   - **(1)** buying, maintaining, and repairing passenger motor vehicles by the United States Capitol Police;
   - **(2)** buying, maintaining, and repairing vehicles necessary to carry out projects to improve, preserve, and protect rivers and harbors; or
   - **(3)** leasing, maintaining, repairing, or operating motor passenger vehicles necessary in the field work of the Department of Agriculture.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1343(a) | 31:638a(e). | July 16, 1914, ch. 141, § 5(a) , (b), (e), 38 Stat. 508 ; restated Aug. 2, 1946, ch. 744, § 16(a) , 60 Stat. 810 , 811. |
+| 1343(b) | 31:638a(a). |  |
+| 1343(c) | 31:638a(c)(1). | July 16, 1914, ch. 141, § 5(c)(1) , 38 Stat. 508 ; Aug. 2, 1946, ch. 744, § 16(a) , 60 Stat. 810 ; restated Sept. 26, 1970 , Pub. L. 91–423 , 84 Stat. 879 . |
+| 1343(d) | 31:638a(b). |  |
+| 1343(e) | 31:638a–1. | July 25, 1975 , Pub. L. 94–59, § 1108 , 89 Stat. 300 . |
+|  | 31:638d. | Mar. 4, 1915, ch. 142, § 10 , 38 Stat. 1054 . |
+|  | 31:638e. | Aug. 11, 1916, ch. 313 (last proviso on p. 491), 39 Stat. 491 . |
+
+
+Historical and Revision Notes
+
+1343(a)
+
+July 16, 1914, ch. 141, § 5(a)
+
+38 Stat. 508
+
+Aug. 2, 1946, ch. 744, § 16(a)
+
+60 Stat. 810
+
+1343(b)
+
+1343(c)
+
+July 16, 1914, ch. 141, § 5(c)(1)
+
+38 Stat. 508
+
+Aug. 2, 1946, ch. 744, § 16(a)
+
+60 Stat. 810
+
+Sept. 26, 1970
+
+Pub. L. 91–423
+
+84 Stat. 879
+
+1343(d)
+
+1343(e)
+
+July 25, 1975
+
+Pub. L. 94–59, § 1108
+
+89 Stat. 300
+
+Mar. 4, 1915, ch. 142, § 10
+
+38 Stat. 1054
+
+Aug. 11, 1916, ch. 313
+
+39 Stat. 491
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 924](https://www.govinfo.gov/link/statute/96/924).)*

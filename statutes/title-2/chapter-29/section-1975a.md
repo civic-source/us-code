@@ -3,9 +3,10 @@ title: "Section 1975a - Overseas travel to accompany members of House leadership
 usc_title: 2
 usc_section: "1975a"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1975a"
-generated_at: "2026-03-30T02:53:04.822Z"
+generated_at: "2026-11-23T21:25:21.267Z"
+status: "active"
 ---
 
 # § 1975a. Overseas travel to accompany members of House leadership
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:04.822Z"
   - **(1)** From amounts made available for salaries and expenses of the Office of the Sergeant at Arms of the House of Representatives, the Sergeant at Arms of the House of Representatives shall reimburse the Capitol Police for the overtime pay, travel, and related expenses of any member of the Capitol Police who travels under the authority of this section.
   - **(2)** Any amounts received by the Capitol Police for reimbursements under paragraph (1) shall be credited to the accounts established for the general expenses or salaries of the Capitol Police, and shall be available to carry out the purposes of such accounts during the fiscal year in which the amounts are received and the following fiscal year.
 - **(c)** This section shall apply with respect to fiscal year 2017 and each succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 115–31, div. I, title I, § 110](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 575](https://www.govinfo.gov/link/statute/131/575).)*

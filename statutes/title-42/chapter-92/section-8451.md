@@ -3,9 +3,10 @@ title: "Section 8451 - National coal policy study"
 usc_title: 42
 usc_section: "8451"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8451"
-generated_at: "2026-03-30T02:56:11.343Z"
+generated_at: "2026-11-23T21:26:33.203Z"
+status: "active"
 ---
 
 # § 8451. National coal policy study
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.343Z"
   - **(4)** the existing policies and programs of the Federal Government and of State and local governments, which have any significant impact on the availability, production or efficient and economic utilization of coal resources and on the ability to meet the Nation’s energy needs and environmental requirements; and
   - **(5)** the adequacy of various transportation systems, including roads, railroads, and waterways to meet projected increases in coal production and utilization.
 - **(c)** There is hereby authorized to be appropriated to the Secretary for allocation between the Department of Energy and the Environmental Protection Agency for fiscal years 1979 and 1980, not to exceed $18,000,000, for use in carrying out the purposes of this section.
+
+## Source Credit
+
+*([Pub. L. 95–620, title VII, § 741](https://www.govinfo.gov/link/plaw/95/public/620), Nov. 9, 1978, [92 Stat. 3339](https://www.govinfo.gov/link/statute/92/3339).)*

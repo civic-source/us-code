@@ -3,9 +3,10 @@ title: "Section 1725A - Access to walk-in care"
 usc_title: 38
 usc_section: "1725A"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1725A"
-generated_at: "2026-03-30T02:55:53.486Z"
+generated_at: "2026-11-23T21:26:16.659Z"
+status: "active"
 ---
 
 # § 1725A. Access to walk-in care
@@ -27,3 +28,23 @@ generated_at: "2026-03-30T02:55:53.486Z"
   - **(4)** Sections 8153(c) and 1703A(j) of this title shall not apply to this subsection.
 - **(g)** Not later than 1 year after the date of the enactment of the Caring for Our Veterans Act of 2018, the Secretary shall promulgate regulations to carry out this section.
 - **(h)** In this section, the term “walk-in care” means non-emergent care provided by a qualifying non-Department entity or provider that furnishes episodic care and not longitudinal management of conditions and is otherwise defined through regulations the Secretary shall promulgate.
+
+Procedures To Ensure Access to Walk-In Care
+
+Eligible Veterans
+
+Qualifying Non-Department Entities or Providers
+
+Federally-Qualified Health Centers
+
+Continuity of Care
+
+Copayments
+
+Regulations
+
+Walk-In Care Defined
+
+## Source Credit
+
+*(Added [Pub. L. 115–182, title I, § 105(a)](https://www.govinfo.gov/link/plaw/115/public/182), June 6, 2018, [132 Stat. 1412](https://www.govinfo.gov/link/statute/132/1412); amended [Pub. L. 115–251, title II, § 211(a)(7)](https://www.govinfo.gov/link/plaw/115/public/251), Sept. 29, 2018, [132 Stat. 3175](https://www.govinfo.gov/link/statute/132/3175); [Pub. L. 116–61, § 6(2)](https://www.govinfo.gov/link/plaw/116/public/61), Sept. 30, 2019, [133 Stat. 1117](https://www.govinfo.gov/link/statute/133/1117).)*

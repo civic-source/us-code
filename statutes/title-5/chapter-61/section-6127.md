@@ -3,9 +3,10 @@ title: "Section 6127 - Compressed schedules; agencies authorized to use"
 usc_title: 5
 usc_section: "6127"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 6127"
-generated_at: "2026-03-30T02:52:56.029Z"
+generated_at: "2026-11-23T21:25:23.315Z"
+status: "active"
 ---
 
 # § 6127. Compressed schedules; agencies authorized to use
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:52:56.029Z"
       - **(ii)** which is not included within such program,
       - **(iii)** for which such employee is qualified, and
       - **(iv)** which is acceptable to the employee.
+
+## Source Credit
+
+*(Added [Pub. L. 97–221, § 2(a)(2)](https://www.govinfo.gov/link/plaw/97/public/221), July 23, 1982, [96 Stat. 230](https://www.govinfo.gov/link/statute/96/230).)*

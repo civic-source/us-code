@@ -3,12 +3,17 @@ title: "Section 1184 - Rights and powers of a debtor in possession"
 usc_title: 11
 usc_section: "1184"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1184"
-generated_at: "2026-03-30T02:53:53.885Z"
+generated_at: "2026-11-23T21:25:34.960Z"
+status: "active"
 ---
 
 # § 1184. Rights and powers of a debtor in possession
 
 Subject to such limitations or conditions as the court may prescribe, a debtor in possession shall have all the rights, other than the right to compensation under section 330 of this title , and powers, and shall perform all functions and duties, except the duties specified in paragraphs (2), (3), and (4) of section 1106(a) of this title , of a trustee serving in a case under this chapter, including operating the business of the debtor.
 
+
+## Source Credit
+
+*(Added [Pub. L. 116–54, § 2(a)](https://www.govinfo.gov/link/plaw/116/public/54), Aug. 23, 2019, [133 Stat. 1080](https://www.govinfo.gov/link/statute/133/1080).)*

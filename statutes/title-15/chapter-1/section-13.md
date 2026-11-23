@@ -3,9 +3,10 @@ title: "Section 13 - Discrimination in price, services, or facilities"
 usc_title: 15
 usc_section: "13"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 13"
-generated_at: "2026-03-30T02:54:08.021Z"
+generated_at: "2026-11-23T21:25:39.465Z"
+status: "active"
 ---
 
 # § 13. Discrimination in price, services, or facilities
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.021Z"
 - **(d)** It shall be unlawful for any person engaged in commerce to pay or contact for the payment of anything of value to or for the benefit of a customer of such person in the course of such commerce as compensation or in consideration for any services or facilities furnished by or through such customer in connection with the processing, handling, sale, or offering for sale of any products or commodities manufactured, sold, or offered for sale by such person, unless such payment or consideration is available on proportionally equal terms to all other customers competing in the distribution of such products or commodities.
 - **(e)** It shall be unlawful for any person to discriminate in favor of one purchaser against another purchaser or purchasers of a commodity bought for resale, with or without processing, by contracting to furnish or furnishing, or by contributing to the furnishing of, any services or facilities connected with the processing, handling, sale, or offering for sale of such commodity so purchased upon terms not accorded to all purchasers on proportionally equal terms.
 - **(f)** It shall be unlawful for any person engaged in commerce, in the course of such commerce, knowingly to induce or receive a discrimination in price which is prohibited by this section.
+
+## Source Credit
+
+*(Oct. 15, 1914, ch. 323, § 2, [38 Stat. 730](https://www.govinfo.gov/link/statute/38/730); June 19, 1936, ch. 592, § 1, [49 Stat. 1526](https://www.govinfo.gov/link/statute/49/1526).)*

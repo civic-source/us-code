@@ -3,9 +3,10 @@ title: "Section 4504 - Required terms in orders"
 usc_title: 7
 usc_section: "4504"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 4504"
-generated_at: "2026-03-30T02:53:42.408Z"
+generated_at: "2026-11-23T21:25:28.346Z"
+status: "active"
 ---
 
 # § 4504. Required terms in orders
@@ -54,3 +55,43 @@ Any order issued under this subchapter shall contain terms and conditions as fol
 - **(j)** The order shall prohibit any funds collected by the Board under the order from being used in any manner for the purpose of influencing governmental policy or action except as provided by subsection (c)(5).
 - **(k)** The order shall require that each importer of imported dairy products, each person receiving milk from farmers for commercial use, and any person marketing milk of that person’s own production directly to consumers, maintain and make available for inspection such books and records as may be required by the order and file reports at the time, in the manner, and having the content prescribed by the order. Such information shall be made available to the Secretary as is appropriate to the administration or enforcement of this subchapter, or any order or regulation issued under this subchapter. All information so obtained shall be kept confidential by all officers and employees of the Department, and only such information so obtained as the Secretary deems relevant may be disclosed by them and then only in a suit or administrative hearing brought at the request of the Secretary, or to which the Secretary or any officer of the United States is a party, and involving the order with reference to which the information to be disclosed was obtained. Nothing in this subsection may be deemed to prohibit (1) the issuance of general statements, based upon the reports, of the number of persons subject to an order or statistical data collected therefrom, which statements do not identify the information furnished by any person, or (2) the publication, by direction of the Secretary, of the name of any person violating any order, together with a statement of the particular provisions of the order violated by such person. No information obtained under the authority of this subchapter may be made available to any agency or officer of the Federal Government for any purpose other than the implementation of this subchapter and any investigatory or enforcement action necessary for the implementation of this subchapter. Any person violating the provisions of this subsection shall, upon conviction, be subject to a fine of not more than $1,000, or to imprisonment for not more than one year, or both, and, if an officer or employee of the Board or the Department, shall be removed from office.
 - **(l)** The order shall provide terms and conditions, not inconsistent with the provisions of this subchapter, as necessary to effectuate the provisions of the order.
+
+National Dairy Promotion and Research Board.—
+
+Importers.—
+
+Initial representation
+
+Subsequent representation
+
+Additional members; nominations
+
+Budgets.—
+
+Preparation and submission
+
+Foreign market efforts
+
+Assessments.—
+
+Rate.—
+
+In general
+
+Imported dairy products
+
+Importers.—
+
+In general
+
+Use of assessments on imported dairy products
+
+Refund of assessments on certain imported products.—
+
+In general
+
+Expiration
+
+## Source Credit
+
+*([Pub. L. 98–180, title I, § 113](https://www.govinfo.gov/link/plaw/98/public/180), Nov. 29, 1983, [97 Stat. 1137](https://www.govinfo.gov/link/statute/97/1137); [Pub. L. 104–127, title I, § 152](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 922](https://www.govinfo.gov/link/statute/110/922); [Pub. L. 107–171, title I, § 1505(b)](https://www.govinfo.gov/link/plaw/107/public/171) –(e), May 13, 2002, [116 Stat. 208](https://www.govinfo.gov/link/statute/116/208), 209; [Pub. L. 110–234, title I, § 1507(a)](https://www.govinfo.gov/link/plaw/110/public/234), (d)–(f), May 22, 2008, [122 Stat. 997](https://www.govinfo.gov/link/statute/122/997); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1507(a), (d)–(f), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1725; [Pub. L. 113–79, title I, § 1426](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 695](https://www.govinfo.gov/link/statute/128/695); [Pub. L. 115–334, title I, § 1402(c)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4518](https://www.govinfo.gov/link/statute/132/4518).)*

@@ -3,9 +3,10 @@ title: "Section 2310 - Performance-based contracts or task orders for services t
 usc_title: 41
 usc_section: "2310"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 2310"
-generated_at: "2026-03-30T02:55:55.804Z"
+generated_at: "2026-11-23T21:26:18.799Z"
+status: "active"
 ---
 
 # § 2310. Performance-based contracts or task orders for services to be treated as contracts for the procurement of commercial items
@@ -20,3 +21,32 @@ generated_at: "2026-03-30T02:55:55.804Z"
 - **(b)** Regulations implementing this section shall require agencies to collect and maintain reliable data sufficient to identify the contracts or task orders treated as contracts for commercial items using the authority of this section. The data may be collected using the Federal Procurement Data System or other reporting mechanism.
 - **(c)** Not later than 2 years after November 24, 2003 , the Director of the Office of Management and Budget shall prepare and submit to the Committees on Homeland Security and Governmental Affairs and on Armed Services of the Senate and the Committees on Oversight and Government Reform and on Armed Services of the House of Representatives a report on the contracts or task orders treated as contracts for commercial items using the authority of this section. The report shall include data on the use of the authority, both government-wide and for each department and agency.
 - **(d)** The authority under this section expires 10 years after November 24, 2003 .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 2310 | 41:437. | Pub. L. 93–400, § 41 , as added Pub. L. 108–136, title XIV, § 1431(a) , Nov. 24, 2003 , 117 Stat. 1671 . |
+
+
+Criteria
+
+Regulations
+
+Report
+
+Expiration
+
+Historical and Revision Notes
+
+2310
+
+Pub. L. 93–400, § 41
+
+Pub. L. 108–136, title XIV, § 1431(a)
+
+Nov. 24, 2003
+
+117 Stat. 1671
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3738](https://www.govinfo.gov/link/statute/124/3738).)*

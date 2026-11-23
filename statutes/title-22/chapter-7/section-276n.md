@@ -3,9 +3,10 @@ title: "Section 276n - United States Senate-China Interparliamentary Group"
 usc_title: 22
 usc_section: "276n"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 276n"
-generated_at: "2026-03-30T02:55:05.310Z"
+generated_at: "2026-11-23T21:25:58.342Z"
+status: "active"
 ---
 
 # § 276n. United States Senate-China Interparliamentary Group
@@ -19,3 +20,9 @@ generated_at: "2026-03-30T02:55:05.310Z"
 - **(g)**
   - **(1)** Subsections (a) though (d) shall apply to fiscal year 2004, and each fiscal year thereafter.
   - **(2)** Subsections (e) and (f) shall apply to fiscal year 2004.
+
+miscellaneous items
+
+## Source Credit
+
+*([Pub. L. 108–199, div. H, § 153](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 448](https://www.govinfo.gov/link/statute/118/448).)*

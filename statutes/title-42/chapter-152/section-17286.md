@@ -3,9 +3,10 @@ title: "Section 17286 - Geothermal assessment, exploration information, and prio
 usc_title: 42
 usc_section: "17286"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17286"
-generated_at: "2026-03-30T02:56:11.504Z"
+generated_at: "2026-11-23T21:26:33.783Z"
+status: "active"
 ---
 
 # § 17286. Geothermal assessment, exploration information, and priority activities
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.504Z"
 - **(c)** There are authorized to be appropriated to the Secretary of the Interior to carry out this section—
   - **(1)** $15,000,000 for each of fiscal years 2008 through 2012; and
   - **(2)** such sums as are necessary for each of fiscal years 2013 through 2022.
+
+## Source Credit
+
+*([Pub. L. 110–140, title VIII, § 807](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1723](https://www.govinfo.gov/link/statute/121/1723).)*

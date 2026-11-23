@@ -3,15 +3,30 @@ title: "Section 8253 - Energy and water management requirements"
 usc_title: 42
 usc_section: "8253"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8253"
-generated_at: "2026-03-30T02:56:11.337Z"
+generated_at: "2026-11-23T21:26:33.187Z"
+status: "active"
 ---
 
 # § 8253. Energy and water management requirements
 
 - **(a)**
-  - **(1)** Subject to paragraph (2), each agency shall apply energy conservation measures to, and shall improve the design for the construction of, the Federal buildings of the agency (including each industrial or laboratory facility) so that the energy consumption per gross square foot of the Federal buildings of the agency in fiscal years 2006 through 2015 is reduced, as compared with the energy consumption per gross square foot of the Federal buildings of the agency in fiscal year 2003, by the percentage specified in the following table: Fiscal Year Percentage Reduction 2006 2 2007 4 2008 9 2009 12 2010 15 2011 18 2012 21 2013 24 2014 27 2015 30.
+  - **(1)** Subject to paragraph (2), each agency shall apply energy conservation measures to, and shall improve the design for the construction of, the Federal buildings of the agency (including each industrial or laboratory facility) so that the energy consumption per gross square foot of the Federal buildings of the agency in fiscal years 2006 through 2015 is reduced, as compared with the energy consumption per gross square foot of the Federal buildings of the agency in fiscal year 2003, by the percentage specified in the following table:
+
+| Fiscal Year | Percentage Reduction |
+| --- | --- |
+| 2006 | 2 |
+| 2007 | 4 |
+| 2008 | 9 |
+| 2009 | 12 |
+| 2010 | 15 |
+| 2011 | 18 |
+| 2012 | 21 |
+| 2013 | 24 |
+| 2014 | 27 |
+| 2015 | 30. |
+
   - **(2)** An agency may exclude from the requirements of paragraph (1) any building, and the associated energy consumption and gross square footage, in which energy intensive activities are carried out. Each agency shall identify and list in each report made under section 8258(a) of this title the buildings designated by it for such exclusion.
   - **(3)** Not later than December 31, 2014 , the Secretary shall review the results of the implementation of the energy performance requirement established under paragraph (1) and submit to Congress recommendations concerning energy performance requirements for fiscal years 2016 through 2025.
 - **(b)**
@@ -253,3 +268,43 @@ generated_at: "2026-03-30T02:56:11.337Z"
       - **(ii)** the Office of Management and Budget; and
       - **(iii)** the Office of Federal High-Performance Green Buildings in the General Services Administration.
   - **(5)** There is authorized to be appropriated to the Secretary to carry out this subsection $36,000,000 for each of fiscal years 2021 through 2025.
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+In general
+
+Explanation of noncompliance.—
+
+In general
+
+Report to Congress
+
+(aa) net savings in estimated energy and water costs; and
+
+(bb) operations, maintenance, repair, replacement, and other direct costs.
+
+(aa) the date of the most recent evaluation; or
+
+(bb) the date— (AA) of the most recent commissioning, recommissioning, or retrocommissioning; or (BB) on which ongoing commissioning began; or
+
+## Source Credit
+
+*([Pub. L. 95–619, title V, § 543](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3277](https://www.govinfo.gov/link/statute/92/3277); [Pub. L. 100–615, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/615), Nov. 5, 1988, [102 Stat. 3185](https://www.govinfo.gov/link/statute/102/3185); [Pub. L. 102–486, title I, § 152(b)](https://www.govinfo.gov/link/plaw/102/public/486), (c), Oct. 24, 1992, [106 Stat. 2844](https://www.govinfo.gov/link/statute/106/2844), 2845; [Pub. L. 104–66, title I, § 1052(b)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 718](https://www.govinfo.gov/link/statute/109/718); [Pub. L. 109–58, title I](https://www.govinfo.gov/link/plaw/109/public/58), §§ 102(a)(1), (b)–(e), 103, Aug. 8, 2005, [119 Stat. 606–608](https://www.govinfo.gov/link/statute/119/606); [Pub. L. 110–140, title IV](https://www.govinfo.gov/link/plaw/110/public/140), §§ 431, 432, 434, Dec. 19, 2007, [121 Stat. 1607](https://www.govinfo.gov/link/statute/121/1607), 1614; [Pub. L. 112–210](https://www.govinfo.gov/link/plaw/112/public/210), §§ 8, 9, Dec. 18, 2012, [126 Stat. 1521](https://www.govinfo.gov/link/statute/126/1521), 1522; [Pub. L. 116–260, div. Z, title I](https://www.govinfo.gov/link/plaw/116/public/260), §§ 1002(g), 1004, 1012, Dec. 27, 2020, [134 Stat. 2423](https://www.govinfo.gov/link/statute/134/2423), 2428, 2447; [Pub. L. 117–58, div. D, title I, § 40104(c)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 932](https://www.govinfo.gov/link/statute/135/932).)*

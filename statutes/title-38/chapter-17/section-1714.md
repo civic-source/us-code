@@ -3,9 +3,10 @@ title: "Section 1714 - Fitting and training in use of prosthetic appliances; gui
 usc_title: 38
 usc_section: "1714"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1714"
-generated_at: "2026-03-30T02:55:53.484Z"
+generated_at: "2026-11-23T21:26:16.639Z"
+status: "active"
 ---
 
 # § 1714. Fitting and training in use of prosthetic appliances; guide dogs; service dogs
@@ -26,3 +27,39 @@ generated_at: "2026-03-30T02:55:53.484Z"
     - **(A)** is diagnosed with post-traumatic stress disorder or a visual, hearing, or substantial mobility impairment;
     - **(B)** has received a dog under subsection (b) or (c) in connection with such disorder or impairment; and
     - **(C)** meets such other requirements as the Secretary may prescribe.
+
+In General
+
+Duration; Medical Centers.—
+
+Duration
+
+Medical centers
+
+Agreements With Entities
+
+Required Conditions
+
+Adoption of Dog.—
+
+In general
+
+Follow-up training support
+
+Eligibility for Other Care and Treatment
+
+Collection of Data
+
+Report by Secretary
+
+GAO Briefing and Study.—
+
+Briefing
+
+Report
+
+Definitions
+
+## Source Credit
+
+*([Pub. L. 85–857](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1143](https://www.govinfo.gov/link/statute/72/1143), § 614; [Pub. L. 93–82, title I, § 103(b)](https://www.govinfo.gov/link/plaw/93/public/82), Aug. 2, 1973, [87 Stat. 181](https://www.govinfo.gov/link/statute/87/181); [Pub. L. 94–581, title II, § 210(a)(5)](https://www.govinfo.gov/link/plaw/94/public/581), Oct. 21, 1976, [90 Stat. 2862](https://www.govinfo.gov/link/statute/90/2862); [Pub. L. 96–151, title II, § 201(c)](https://www.govinfo.gov/link/plaw/96/public/151), Dec. 20, 1979, [93 Stat. 1093](https://www.govinfo.gov/link/statute/93/1093); renumbered § 1714 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406](https://www.govinfo.gov/link/statute/105/404); [Pub. L. 107–135, title II, § 201(a)](https://www.govinfo.gov/link/plaw/107/public/135), (b)(1), Jan. 23, 2002, [115 Stat. 2456](https://www.govinfo.gov/link/statute/115/2456), 2457; [Pub. L. 111–117, div. E, title II, § 229](https://www.govinfo.gov/link/plaw/111/public/117), Dec. 16, 2009, [123 Stat. 3307](https://www.govinfo.gov/link/statute/123/3307); [Pub. L. 116–315, title V, § 5108(a)](https://www.govinfo.gov/link/plaw/116/public/315), Jan. 5, 2021, [134 Stat. 5032](https://www.govinfo.gov/link/statute/134/5032); [Pub. L. 117–37, § 3(a)](https://www.govinfo.gov/link/plaw/117/public/37), Aug. 25, 2021, [135 Stat. 331](https://www.govinfo.gov/link/statute/135/331).)*

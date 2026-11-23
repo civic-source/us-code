@@ -3,12 +3,17 @@ title: "Section 5085 - Availability of appropriations"
 usc_title: 42
 usc_section: "5085"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5085"
-generated_at: "2026-03-30T02:56:11.215Z"
+generated_at: "2026-11-23T21:26:32.719Z"
+status: "active"
 ---
 
 # § 5085. Availability of appropriations
 
 Notwithstanding any other provision of law, unless enacted in express and specific limitation of the provisions of this section, funds appropriated for any fiscal year to carry out any program under this chapter or any predecessor authority shall remain available, in accordance with the provisions of this chapter, for obligation and expenditure until expended.
 
+
+## Source Credit
+
+*([Pub. L. 93–113, title V, § 505](https://www.govinfo.gov/link/plaw/93/public/113), Oct. 1, 1973, [87 Stat. 416](https://www.govinfo.gov/link/statute/87/416).)*

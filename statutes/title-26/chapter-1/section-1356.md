@@ -3,9 +3,10 @@ title: "Section 1356 - Qualifying shipping activities"
 usc_title: 26
 usc_section: "1356"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1356"
-generated_at: "2026-03-30T02:55:27.769Z"
+generated_at: "2026-11-23T21:26:06.494Z"
+status: "active"
 ---
 
 # § 1356. Qualifying shipping activities
@@ -30,3 +31,11 @@ generated_at: "2026-03-30T02:55:27.769Z"
   - **(2)** they are not qualifying secondary activities, and
   - **(3)** without regard to this subchapter, the gross income derived by such corporation from such activities does not exceed 0.1 percent of the corporation’s gross income from its core qualifying activities.
 - **(e)** In the case of an electing group, subsections (c)(1) and (d)(3) shall be applied as if such group were 1 entity, and the limitations under such subsections shall be allocated among the corporations in such group.
+
+In general
+
+Nonelecting corporations
+
+## Source Credit
+
+*(Added [Pub. L. 108–357, title II, § 248(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1454](https://www.govinfo.gov/link/statute/118/1454); amended [Pub. L. 109–135, title IV, § 403(g)(3)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2624](https://www.govinfo.gov/link/statute/119/2624).)*

@@ -3,9 +3,10 @@ title: "Section 203 - Federal lands transportation program"
 usc_title: 23
 usc_section: "203"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 203"
-generated_at: "2026-03-30T02:55:12.565Z"
+generated_at: "2026-11-23T21:25:53.913Z"
+status: "active"
 ---
 
 # § 203. Federal lands transportation program
@@ -93,3 +94,79 @@ generated_at: "2026-03-30T02:55:12.565Z"
     - **(B)** the project satisfies the conditions for a categorical exclusion under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.); and
     - **(C)** the use of the categorical exclusion does not otherwise conflict with the implementing regulations of the project sponsor, except any list of the project sponsor that designates categorical exclusions.
   - **(5)** The Secretary shall assist the Federal land management agency with all design and mitigation commitments made jointly by the Secretary and the project sponsor in any environmental document prepared by the Secretary in accordance with this subsection.
+
+Use of Funds.—
+
+In general
+
+Contract
+
+Administration
+
+Cooperation.—
+
+In general
+
+Funds received
+
+Competitive bidding.—
+
+In general
+
+Exception
+
+Native plant materials
+
+Agency Program Distributions.—
+
+In general
+
+Applications.—
+
+Requirements
+
+Consideration by secretary
+
+Permissive contents
+
+National Federal Lands Transportation Facility Inventory.—
+
+In general
+
+Transportation facilities included in the inventories
+
+Availability
+
+Updates
+
+Review
+
+Bicycle Safety
+
+Efficient Implementation of NEPA.—
+
+Definitions
+
+Environmental document
+
+Project
+
+Project sponsor
+
+Environmental review to be completed by federal highway administration
+
+Federal land management agencies adoption of existing environmental review documents.—
+
+In general
+
+Independent evaluation
+
+Use of same document
+
+Application by federal land management agencies of categorical exclusions established by federal highway administration
+
+Mitigation commitments
+
+## Source Credit
+
+*(Added [Pub. L. 112–141, div. A, title I, § 1119(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 486](https://www.govinfo.gov/link/statute/126/486); amended [Pub. L. 114–94, div. A, title I, § 1119](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1358](https://www.govinfo.gov/link/statute/129/1358); [Pub. L. 117–58, div. A, title I](https://www.govinfo.gov/link/plaw/117/public/58), §§ 11112, 11311, Nov. 15, 2021, [135 Stat. 479](https://www.govinfo.gov/link/statute/135/479), 536.)*

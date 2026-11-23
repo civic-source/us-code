@@ -3,9 +3,10 @@ title: "Section 1572 - Legislators"
 usc_title: 48
 usc_section: "1572"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1572"
-generated_at: "2026-03-30T02:56:14.587Z"
+generated_at: "2026-11-23T21:26:38.009Z"
+status: "active"
 ---
 
 # § 1572. Legislators
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:14.587Z"
 - **(f)** No member of the legislature shall hold or be appointed to any office which has been created by the legislature, or the salary or emoluments of which have been increased, while he was a member, during the term for which he was elected, or during one year after the expiration of such term.
 - **(g)** The legislature shall be the sole judge of the elections and qualifications of its members, shall have and exercise all the authority and attributes, inherent in legislative assemblies, and shall have the power to institute and conduct investigations, issue subpena to witnesses and other parties concerned, and administer oaths. The rules of the Legislative Assembly of the Virgin Islands existing on July 22, 1954 shall continue in force and effect for sessions of the legislature, except as inconsistent with this chapter, until altered, amended, or repealed by the legislature.
 - **(h)** The Legislature of the Virgin Islands shall by law provide the procedure for filling any vacancy in the office of member of the legislature.
+
+## Source Credit
+
+*(July 22, 1954, ch. 558, § 6, [68 Stat. 499](https://www.govinfo.gov/link/statute/68/499); [Pub. L. 86–289, § 2(a)](https://www.govinfo.gov/link/plaw/86/public/289), (b), Sept. 16, 1959, [73 Stat. 568](https://www.govinfo.gov/link/statute/73/568); [Pub. L. 89–98](https://www.govinfo.gov/link/plaw/89/public/98), July 30, 1965, [79 Stat. 423](https://www.govinfo.gov/link/statute/79/423); [Pub. L. 90–496, § 8(b)](https://www.govinfo.gov/link/plaw/90/public/496), Aug. 23, 1968, [82 Stat. 839](https://www.govinfo.gov/link/statute/82/839); [Pub. L. 92–389](https://www.govinfo.gov/link/plaw/92/public/389), Aug. 17, 1972, [86 Stat. 563](https://www.govinfo.gov/link/statute/86/563); [Pub. L. 93–130, § 1](https://www.govinfo.gov/link/plaw/93/public/130), Oct. 19, 1973, [87 Stat. 460](https://www.govinfo.gov/link/statute/87/460).)*

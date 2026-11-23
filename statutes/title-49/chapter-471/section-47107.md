@@ -3,9 +3,10 @@ title: "Section 47107 - Project grant application approval conditioned on assura
 usc_title: 49
 usc_section: "47107"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 47107"
-generated_at: "2026-03-30T02:56:19.399Z"
+generated_at: "2026-11-23T21:26:40.961Z"
+status: "active"
 ---
 
 # § 47107. Project grant application approval conditioned on assurances about airport operations
@@ -303,3 +304,508 @@ generated_at: "2026-03-30T02:56:19.399Z"
     - **(B)** The term “sterile area” has the same meaning given that term in section 1540.5 of title 49, Code of Federal Regulations.
     - **(C)** The term “universal changing station” means a universal or adult changing station that meets the standards established by the United States Access Board under paragraph (2)(A).
     - **(D)** The term “United States Access Board” means the Architectural and Transportation Barriers Compliance Board established under section 502(a)(1) of the Rehabilitation Act of 1973 ( 29 U.S.C. 792(a)(1) ).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 47107(a) | 49 App.:2202(a)(6). | Sept. 3, 1982 , Pub. L. 97–248 , §§ 503(a)(6), 505(b)(2), 509(b)(1)(E), 511(a)(1)(B), (C), (2), (5)–(10), (b), 96 Stat. 673 , 677, 683, 686, 687. |
+|  | 49 App.:2208(b)(1)(E) (related to 49 App.:2210(a) (1)–(11), (15), (16)). |  |
+|  | 49 App.:2210(a)(1)(A). | Sept. 3, 1982 , Pub. L. 97–248, § 511(a)(1)(A) , 96 Stat. 686 ; Dec. 30, 1987 , Pub. L. 100–223, § 109(a) , 101 Stat. 1499 . |
+|  | 49 App.:2210(a)(1)(B), (C), (2). |  |
+|  | 49 App.:2210(a)(3). | Sept. 3, 1982 , Pub. L. 97–248, § 511(a)(3) , 96 Stat. 686 ; Dec. 30, 1987 , Pub. L. 100–223, § 109(b) , 101 Stat. 1499 . |
+|  | 49 App.:2210(a)(4). | Sept. 3, 1982 , Pub. L. 97–248, § 511(a)(4) , 96 Stat. 686 ; restated Dec. 30, 1987 , Pub. L. 100–223, § 109(c) , 101 Stat. 1499 . |
+|  | 49 App.:2210(a) (5)–(10). |  |
+|  | 49 App.:2210(a)(11). | Sept. 3, 1982 , Pub. L. 97–248, § 511(a)(11) , 96 Stat. 687 ; Oct. 31, 1992 , Pub. L. 102–581, § 113(a) , 106 Stat. 4881 . |
+|  | 49 App.:2210(a)(15). | Sept. 3, 1982 , Pub. L. 97–248 , 96 Stat. 324 , § 511(a)(15); added Dec. 30, 1987 , Pub. L. 100–223, § 109(f) , 101 Stat. 1500 . |
+|  | 49 App.:2210(a)(16). | Sept. 3, 1982 , Pub. L. 97–248 , 96 Stat. 324 , § 511(a)(16); added Dec. 30, 1987 , Pub. L. 100–223, § 109(g) , 101 Stat. 1501 . |
+| 47107(b)(1), (2) | 49 App.:2208(b)(1)(E) (related to 49 App.:2210(a)(12)). |  |
+|  | 49 App.:2210(a)(12). | Sept. 3, 1982 , Pub. L. 97–248, § 511(a)(12) , 96 Stat. 687 ; restated Dec. 30, 1987 , Pub. L. 100–223, § 109(d) , 101 Stat. 1499 . |
+| 47107(b)(3) | 49 App.:2210(d). | Sept. 3, 1982 , Pub. L. 97–248 , 96 Stat. 324 , § 511(d); added Dec. 30, 1987 , Pub. L. 100–223, § 109(i) , 101 Stat. 1501 . |
+| 47107(c)(1), (2) | 49 App.:2202(a)(24). | Sept. 3, 1982 , Pub. L. 97–248, § 503(a)(24) , 96 Stat. 674 ; Dec. 30, 1987 , Pub. L. 100–223, § 103(c)(1) , 101 Stat. 1488 . |
+|  | 49 App.:2208(b)(1)(E) (related to 49 App.:2210(a)(13), (14)). |  |
+|  | 49 App.:2210(a)(13). | Sept. 3, 1982 , Pub. L. 97–248, § 511(a)(13) , 96 Stat. 688 ; restated Dec. 30, 1987 , Pub. L. 100–223, § 109(e) , 101 Stat. 1499 . |
+|  | 49 App.:2210(a)(14). | Sept. 3, 1982 , Pub. L. 97–248, § 511(a)(14) , 96 Stat. 688 ; Dec. 30, 1987 , Pub. L. 100–223, § 109(e) , 101 Stat. 1499 ; restated Dec. 15, 1989 , Pub. L. 101–236, § 4 , 103 Stat. 2061 . |
+| 47107(c)(3) | (no source). |  |
+| 47107(d) | 49 App.:2204(b)(2). |  |
+|  | 49 App.:2208(b)(1)(E) (related to 49 App.:2204(b)(2)). |  |
+| 47107(e) | 49 App.:2208(b)(1)(E) (related to 49 App.:2210(a)(17)). |  |
+|  | 49 App.:2210(a)(17). | Sept. 3, 1982 , Pub. L. 97–248 , 96 Stat. 324 , § 511(a)(17); added Dec. 30, 1987 , Pub. L. 100–223, § 109(h) , 101 Stat. 1501 ; Oct. 31, 1992 , Pub. L. 102–581, § 117(a) , 106 Stat. 4882 . |
+|  | 49 App.:2210(h). | Sept. 3, 1982 , Pub. L. 97–248 , 96 Stat. 324 , § 511(h); added Oct. 31, 1992 , Pub. L. 102–581, § 117(b) , 106 Stat. 4882 . |
+|  | 49 App.:2210 (note). | Oct. 31, 1992 , Pub. L. 102–581, § 117(d) , 106 Stat. 4883 . |
+| 47107(f) | 49 App.:2210(e). | Sept. 3, 1982 , Pub. L. 97–248 , 96 Stat. 324 , § 511(e); added Dec. 30, 1987 , Pub. L. 100–223, § 109(j) , 101 Stat. 1501 . |
+| 47107(g)(1) | 49 App.:2210(b) (1st, 2d sentences). |  |
+| 47107(g)(2) | 49 App.:2208(b)(1)(E) (related to 49 App.:2210(b)). |  |
+| 47107(h) | 49 App.:2210(f). | Sept. 3, 1982 , Pub. L. 97–248 , 96 Stat. 324 , § 511(f); added Dec. 30, 1987 , Pub. L. 100–223, § 109(k) , 101 Stat. 1502 . |
+| 47107(i) | 49 App.:2210(b) (last sentence). |  |
+| 47107(j)(1) | 49 App.:2210(g)(4)(B), (D). | Sept. 3, 1982 , Pub. L. 97–248 , 96 Stat. 324 , § 511(g); added May 4, 1990 , Pub. L. 101–281, § 2 , 104 Stat. 164 . |
+| 47107(j)(2) | 49 App.:2210(g)(1), (2)(B), (4)(A), (C). |  |
+| 47107(j)(3) | 49 App.:2210(g)(2)(C), (D). |  |
+| 47107(j)(4) | 49 App.:2210(g)(2)(E). |  |
+| 47107(j)(5) | 49 App.:2210(g)(2)(F). |  |
+| 47107(j)(6) | 49 App.:2210(g)(2)(G). |  |
+| 47107(j) (7)(A) | 49 App.:2210(g)(2)(A). |  |
+| 47107(j) (7)(B) | 49 App.:2210(g)(3). |  |
+
+
+General Written Assurances
+
+Written Assurances on Use of Revenue
+
+Written Assurances on Acquiring Land
+
+Assurances of Continuation as Public-Use Airport
+
+Written Assurances of Opportunities for Small Business Concerns
+
+Availability of Amounts
+
+Ensuring Compliance
+
+Modifying Assurances and Requiring Compliance With Additional Assurances.—
+
+In general
+
+Public notice before waiver of aeronautical land-use assurance
+
+Relief From Obligation To Provide Free Space
+
+Use of Revenue in Hawaii
+
+Policies and Procedures To Ensure Enforcement Against Illegal Diversion of Airport Revenue.—
+
+In general
+
+Revenue diversion
+
+Efforts to be self-sustaining
+
+Administrative safeguards
+
+Statute of limitations
+
+Audit Certification.—
+
+In general
+
+Content of review
+
+Recovery of Illegally Diverted Funds.—
+
+In general
+
+Notification
+
+Administrative action
+
+Civil action
+
+Disposition of penalties.—
+
+Amounts withheld
+
+Civil penalties
+
+Reimbursement
+
+Statute of limitations
+
+Interest.—
+
+In general
+
+Adjustment of interest rates
+
+Accrual
+
+Determination of applicable rate
+
+Payment by Airport to Sponsor
+
+Competition Disclosure Requirement.—
+
+In general
+
+Competitive access
+
+Sunset provision
+
+Agreements Granting Through-The-Fence Access to General Aviation Airports.—
+
+In general
+
+Through-the-fence agreements.—
+
+In general
+
+Terms and conditions
+
+Exemption
+
+Renewal of Certain Leases
+
+In general
+
+Covered lease defined
+
+Construction of Recreational Aircraft.—
+
+In general
+
+Covered aircraft defined
+
+Community Use of Airport Land.—
+
+In general
+
+Restrictions.—
+
+Interim compatible recreational purpose
+
+Recreational use
+
+Revenue from certain sales of airport property
+
+Secretary review and approval
+
+Statutory construction
+
+Aeronautical use; aeronautical purpose defined
+
+Mothers’ Rooms.—
+
+In general
+
+Applicability.—
+
+Airport size.—
+
+In general
+
+Applicable small hub airport defined
+
+Preexisting facilities
+
+Special rule
+
+Definition
+
+Scope of Airport Layout Plan Review and Approval Authority of Secretary.—
+
+Authority over projects on land acquired without federal assistance
+
+Limitation on non-aeronautical review.—
+
+In general
+
+Review and approval authority
+
+Notice.—
+
+In general
+
+Failure to object
+
+Universal Changing Station.—
+
+In general
+
+Standards required
+
+Applicability.—
+
+Airport size
+
+Special rule
+
+Exception
+
+Definition
+
+Disability
+
+Sterile area
+
+Universal changing station
+
+United states access board
+
+Historical and Revision Notes
+
+47107(a)
+
+Sept. 3, 1982
+
+Pub. L. 97–248
+
+96 Stat. 673
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 511(a)(1)(A)
+
+96 Stat. 686
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 109(a)
+
+101 Stat. 1499
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 511(a)(3)
+
+96 Stat. 686
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 109(b)
+
+101 Stat. 1499
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 511(a)(4)
+
+96 Stat. 686
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 109(c)
+
+101 Stat. 1499
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 511(a)(11)
+
+96 Stat. 687
+
+Oct. 31, 1992
+
+Pub. L. 102–581, § 113(a)
+
+106 Stat. 4881
+
+Sept. 3, 1982
+
+Pub. L. 97–248
+
+96 Stat. 324
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 109(f)
+
+101 Stat. 1500
+
+Sept. 3, 1982
+
+Pub. L. 97–248
+
+96 Stat. 324
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 109(g)
+
+101 Stat. 1501
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 511(a)(12)
+
+96 Stat. 687
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 109(d)
+
+101 Stat. 1499
+
+47107(b)(3)
+
+Sept. 3, 1982
+
+Pub. L. 97–248
+
+96 Stat. 324
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 109(i)
+
+101 Stat. 1501
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 503(a)(24)
+
+96 Stat. 674
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 103(c)(1)
+
+101 Stat. 1488
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 511(a)(13)
+
+96 Stat. 688
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 109(e)
+
+101 Stat. 1499
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 511(a)(14)
+
+96 Stat. 688
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 109(e)
+
+101 Stat. 1499
+
+Dec. 15, 1989
+
+Pub. L. 101–236, § 4
+
+103 Stat. 2061
+
+47107(c)(3)
+
+47107(d)
+
+47107(e)
+
+Sept. 3, 1982
+
+Pub. L. 97–248
+
+96 Stat. 324
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 109(h)
+
+101 Stat. 1501
+
+Oct. 31, 1992
+
+Pub. L. 102–581, § 117(a)
+
+106 Stat. 4882
+
+Sept. 3, 1982
+
+Pub. L. 97–248
+
+96 Stat. 324
+
+Oct. 31, 1992
+
+Pub. L. 102–581, § 117(b)
+
+106 Stat. 4882
+
+Oct. 31, 1992
+
+Pub. L. 102–581, § 117(d)
+
+106 Stat. 4883
+
+47107(f)
+
+Sept. 3, 1982
+
+Pub. L. 97–248
+
+96 Stat. 324
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 109(j)
+
+101 Stat. 1501
+
+47107(g)(1)
+
+47107(g)(2)
+
+47107(h)
+
+Sept. 3, 1982
+
+Pub. L. 97–248
+
+96 Stat. 324
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 109(k)
+
+101 Stat. 1502
+
+47107(i)
+
+47107(j)(1)
+
+Sept. 3, 1982
+
+Pub. L. 97–248
+
+96 Stat. 324
+
+May 4, 1990
+
+Pub. L. 101–281, § 2
+
+104 Stat. 164
+
+47107(j)(2)
+
+47107(j)(3)
+
+47107(j)(4)
+
+47107(j)(5)
+
+47107(j)(6)
+
+47107(j) (7)(A)
+
+47107(j) (7)(B)
+
+Findings
+
+Termination of Repayment Responsibility
+
+Prohibition on Further Diversion
+
+Clarification
+
+In General
+
+Purpose
+
+“For purposes of this title [see Short Title of 1996 Amendment note set out under section 40101 of this title ], the following definitions apply:
+
+Administrator
+
+Airport
+
+Project grant
+
+Secretary
+
+Sponsor
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1256](https://www.govinfo.gov/link/statute/108/1256); [Pub. L. 103–305, title I](https://www.govinfo.gov/link/plaw/103/public/305), §§ 111(a), (c), 112(a), Aug. 23, 1994, [108 Stat. 1573](https://www.govinfo.gov/link/statute/108/1573), 1574; [Pub. L. 104–264, title I, § 143](https://www.govinfo.gov/link/plaw/104/public/264), title VIII, § 805(a), (b)(2), Oct. 9, 1996, [110 Stat. 3221](https://www.govinfo.gov/link/statute/110/3221), 3271, 3274; [Pub. L. 104–287, § 5(9)](https://www.govinfo.gov/link/plaw/104/public/287), (80), Oct. 11, 1996, [110 Stat. 3389](https://www.govinfo.gov/link/statute/110/3389), 3397; [Pub. L. 105–135, title VI, § 604(h)(1)](https://www.govinfo.gov/link/plaw/105/public/135), Dec. 2, 1997, [111 Stat. 2634](https://www.govinfo.gov/link/statute/111/2634); [Pub. L. 106–181, title I, § 125(a)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 75](https://www.govinfo.gov/link/statute/114/75); [Pub. L. 107–217, § 3(n)(7)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1303](https://www.govinfo.gov/link/statute/116/1303); [Pub. L. 108–7, div. I, title III, § 321(a)](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 411](https://www.govinfo.gov/link/statute/117/411); [Pub. L. 108–11, title II, § 2702](https://www.govinfo.gov/link/plaw/108/public/11), Apr. 16, 2003, [117 Stat. 600](https://www.govinfo.gov/link/statute/117/600); [Pub. L. 108–176, title I](https://www.govinfo.gov/link/plaw/108/public/176), §§ 144, 164, 165, title IV, § 424, Dec. 12, 2003, [117 Stat. 2503](https://www.govinfo.gov/link/statute/117/2503), 2513, 2514, 2554; [Pub. L. 110–330, § 5(e)](https://www.govinfo.gov/link/plaw/110/public/330), Sept. 30, 2008, [122 Stat. 3718](https://www.govinfo.gov/link/statute/122/3718); [Pub. L. 111–12, § 5(d)](https://www.govinfo.gov/link/plaw/111/public/12), Mar. 30, 2009, [123 Stat. 1458](https://www.govinfo.gov/link/statute/123/1458); [Pub. L. 111–69, § 5(e)](https://www.govinfo.gov/link/plaw/111/public/69), Oct. 1, 2009, [123 Stat. 2055](https://www.govinfo.gov/link/statute/123/2055); [Pub. L. 111–116, § 5(d)](https://www.govinfo.gov/link/plaw/111/public/116), Dec. 16, 2009, [123 Stat. 3032](https://www.govinfo.gov/link/statute/123/3032); [Pub. L. 111–153, § 5(d)](https://www.govinfo.gov/link/plaw/111/public/153), Mar. 31, 2010, [124 Stat. 1085](https://www.govinfo.gov/link/statute/124/1085); [Pub. L. 111–161, § 5(d)](https://www.govinfo.gov/link/plaw/111/public/161), Apr. 30, 2010, [124 Stat. 1127](https://www.govinfo.gov/link/statute/124/1127); [Pub. L. 111–197, § 5(d)](https://www.govinfo.gov/link/plaw/111/public/197), July 2, 2010, [124 Stat. 1354](https://www.govinfo.gov/link/statute/124/1354); [Pub. L. 111–216, title I, § 104(d)](https://www.govinfo.gov/link/plaw/111/public/216), Aug. 1, 2010, [124 Stat. 2349](https://www.govinfo.gov/link/statute/124/2349); [Pub. L. 111–249, § 5(e)](https://www.govinfo.gov/link/plaw/111/public/249), Sept. 30, 2010, [124 Stat. 2628](https://www.govinfo.gov/link/statute/124/2628); [Pub. L. 111–329, § 5(d)](https://www.govinfo.gov/link/plaw/111/public/329), Dec. 22, 2010, [124 Stat. 3567](https://www.govinfo.gov/link/statute/124/3567); [Pub. L. 112–7, § 5(d)](https://www.govinfo.gov/link/plaw/112/public/7), Mar. 31, 2011, [125 Stat. 32](https://www.govinfo.gov/link/statute/125/32); [Pub. L. 112–16, § 5(d)](https://www.govinfo.gov/link/plaw/112/public/16), May 31, 2011, [125 Stat. 219](https://www.govinfo.gov/link/statute/125/219); [Pub. L. 112–21, § 5(d)](https://www.govinfo.gov/link/plaw/112/public/21), June 29, 2011, [125 Stat. 234](https://www.govinfo.gov/link/statute/125/234); [Pub. L. 112–27, § 5(d)](https://www.govinfo.gov/link/plaw/112/public/27), Aug. 5, 2011, [125 Stat. 271](https://www.govinfo.gov/link/statute/125/271); [Pub. L. 112–30, title II, § 205(e)](https://www.govinfo.gov/link/plaw/112/public/30), Sept. 16, 2011, [125 Stat. 358](https://www.govinfo.gov/link/statute/125/358); [Pub. L. 112–91, § 5(e)](https://www.govinfo.gov/link/plaw/112/public/91), Jan. 31, 2012, [126 Stat. 4](https://www.govinfo.gov/link/statute/126/4); [Pub. L. 112–95, title I](https://www.govinfo.gov/link/plaw/112/public/95), §§ 135, 136(a), title IV, § 404, Feb. 14, 2012, [126 Stat. 22](https://www.govinfo.gov/link/statute/126/22), 23, 85; [Pub. L. 113–188, title XV, § 1501(b)(1)](https://www.govinfo.gov/link/plaw/113/public/188), (2)(A), Nov. 26, 2014, [128 Stat. 2023](https://www.govinfo.gov/link/statute/128/2023), 2024; [Pub. L. 114–55, title I, § 102(a)](https://www.govinfo.gov/link/plaw/114/public/55), Sept. 30, 2015, [129 Stat. 523](https://www.govinfo.gov/link/statute/129/523); [Pub. L. 114–141, title I, § 102(a)](https://www.govinfo.gov/link/plaw/114/public/141), Mar. 30, 2016, [130 Stat. 323](https://www.govinfo.gov/link/statute/130/323); [Pub. L. 114–190, title I, § 1102(a)](https://www.govinfo.gov/link/plaw/114/public/190), July 15, 2016, [130 Stat. 617](https://www.govinfo.gov/link/statute/130/617); [Pub. L. 114–238, § 1](https://www.govinfo.gov/link/plaw/114/public/238), Oct. 7, 2016, [130 Stat. 972](https://www.govinfo.gov/link/statute/130/972); [Pub. L. 115–63, title I, § 102(a)](https://www.govinfo.gov/link/plaw/115/public/63), Sept. 29, 2017, [131 Stat. 1169](https://www.govinfo.gov/link/statute/131/1169); [Pub. L. 115–91, div. A, title XVII, § 1701(a)(4)(G)(i)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1796](https://www.govinfo.gov/link/statute/131/1796); [Pub. L. 115–141, div. M, title I, § 102(a)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1046](https://www.govinfo.gov/link/statute/132/1046); [Pub. L. 115–254, div. B, title I](https://www.govinfo.gov/link/plaw/115/public/254), §§ 131, 132(a), 163(d), 185, Oct. 5, 2018, [132 Stat. 3203–3205](https://www.govinfo.gov/link/statute/132/3203), 3224, 3234; [Pub. L. 116–190, § 2](https://www.govinfo.gov/link/plaw/116/public/190), Oct. 30, 2020, [134 Stat. 974](https://www.govinfo.gov/link/statute/134/974); [Pub. L. 118–15, div. B, title II, § 2202(e)](https://www.govinfo.gov/link/plaw/118/public/15), Sept. 30, 2023, [137 Stat. 83](https://www.govinfo.gov/link/statute/137/83); [Pub. L. 118–34, title I, § 102(e)](https://www.govinfo.gov/link/plaw/118/public/34), Dec. 26, 2023, [137 Stat. 1113](https://www.govinfo.gov/link/statute/137/1113); [Pub. L. 118–41, title I, § 102(e)](https://www.govinfo.gov/link/plaw/118/public/41), Mar. 8, 2024, [138 Stat. 21](https://www.govinfo.gov/link/statute/138/21); [Pub. L. 118–63, title VII](https://www.govinfo.gov/link/plaw/118/public/63), §§ 703(a), 704–706, 743(b), 770(a), 774(a), May 16, 2024, [138 Stat. 1248](https://www.govinfo.gov/link/statute/138/1248), 1249, 1280, 1295, 1297.)*

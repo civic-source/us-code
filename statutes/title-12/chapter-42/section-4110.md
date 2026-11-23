@@ -3,9 +3,10 @@ title: "Section 4110 - Incentives for transfer to qualified purchasers"
 usc_title: 12
 usc_section: "4110"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4110"
-generated_at: "2026-03-30T02:53:53.501Z"
+generated_at: "2026-11-23T21:25:37.163Z"
+status: "active"
 ---
 
 # § 4110. Incentives for transfer to qualified purchasers
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:53.501Z"
   - **(3)**
     - **(A)** For all qualified purchasers of housing under this subsection, the Secretary may provide assistance for an approved plan of action in the form of 1 or more of the incentives authorized under section 4109(b) of this title , except that the incentive under such section 4109(b)(7) of this title may include an acquisition loan under section 1715z–6(f) 2 of this title.
     - **(B)** Where the qualified purchaser is a priority purchaser, the Secretary may provide assistance for an approved plan of action (in the form of a grant) for each unit in the housing in an amount, as determined by the Secretary, that does not exceed the present value of the total of the projected published fair market rentals for existing housing (established by the Secretary under section 1437f(c) of title 42 ) for the next 10 years (or such longer period if additional assistance is necessary to cover the costs referred to in paragraph (2)).
+
+## Source Credit
+
+*([Pub. L. 100–242, title II, § 220](https://www.govinfo.gov/link/plaw/100/public/242), as added [Pub. L. 101–625, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4257](https://www.govinfo.gov/link/statute/104/4257); amended [Pub. L. 102–550, title III, § 307](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3764](https://www.govinfo.gov/link/statute/106/3764).)*

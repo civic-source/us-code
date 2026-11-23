@@ -3,9 +3,10 @@ title: "Section 9510 - Vaccine Injury Compensation Trust Fund"
 usc_title: 26
 usc_section: "9510"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 9510"
-generated_at: "2026-03-30T02:55:27.893Z"
+generated_at: "2026-11-23T21:26:07.038Z"
+status: "active"
 ---
 
 # § 9510. Vaccine Injury Compensation Trust Fund
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:27.893Z"
   - **(1)** Any claim filed against the Vaccine Injury Compensation Trust Fund may be paid only out of such Trust Fund.
   - **(2)** Nothing in the National Childhood Vaccine Injury Act of 1986 (or in any amendment made by such Act) shall authorize the payment by the United States Government of any amount with respect to any such claim out of any source other than the Vaccine Injury Compensation Trust Fund.
   - **(3)** If at any time the Vaccine Injury Compensation Trust Fund has insufficient funds to pay all of the claims out of such Trust Fund at such time, such claims shall, to the extent permitted under paragraph (1) be paid in full in the order in which they are finally determined.
+
+## Source Credit
+
+*(Added [Pub. L. 100–203, title IX, § 9202(a)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–330](https://www.govinfo.gov/link/statute/101/1330); amended [Pub. L. 100–647, title II, § 2006(b)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3613](https://www.govinfo.gov/link/statute/102/3613); [Pub. L. 101–239, title VII, § 7841(g)(1)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2429](https://www.govinfo.gov/link/statute/103/2429); [Pub. L. 103–66, title XIII, § 13421(b)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 566](https://www.govinfo.gov/link/statute/107/566); [Pub. L. 105–277, div. C, title XV, § 1504(a)](https://www.govinfo.gov/link/plaw/105/public/277), div. J, title IV, § 4003(d), Oct. 21, 1998, [112 Stat. 2681–741](https://www.govinfo.gov/link/statute/112/2681), 2681–909; [Pub. L. 106–170, title V, § 523(b)(1)](https://www.govinfo.gov/link/plaw/106/public/170), (2), Dec. 17, 1999, [113 Stat. 1927](https://www.govinfo.gov/link/statute/113/1927); [Pub. L. 106–554, § 1(a)(7) [title III, § 318(f)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–646.)*

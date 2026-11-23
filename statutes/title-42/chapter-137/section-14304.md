@@ -3,9 +3,10 @@ title: "Section 14304 - Enforcement"
 usc_title: 42
 usc_section: "14304"
 chapter: 137
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 14304"
-generated_at: "2026-03-30T02:56:11.451Z"
+generated_at: "2026-11-23T21:26:33.636Z"
+status: "active"
 ---
 
 # § 14304. Enforcement
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.451Z"
   - **(2)** sold, offered for sale, or offered for promotional purposes without modification.
     - **(A)** who is the importer of a battery covered by this chapter, and
     - **(B)** who has knowledge of the chemical contents of the battery
+
+## Source Credit
+
+*([Pub. L. 104–142, § 5](https://www.govinfo.gov/link/plaw/104/public/142), May 13, 1996, [110 Stat. 1331](https://www.govinfo.gov/link/statute/110/1331).)*

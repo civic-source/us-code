@@ -3,9 +3,10 @@ title: "Section 1639a - Duty of servicers of residential mortgages"
 usc_title: 15
 usc_section: "1639a"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1639a"
-generated_at: "2026-03-30T02:54:08.142Z"
+generated_at: "2026-11-23T21:25:39.852Z"
+status: "active"
 ---
 
 # § 1639a. Duty of servicers of residential mortgages
@@ -27,3 +28,9 @@ generated_at: "2026-03-30T02:54:08.142Z"
   - **(2)** the term “servicer” means the person responsible for the servicing for others of residential mortgage loans (including of a pool of residential mortgage loans); and
   - **(3)** the term “securitization vehicle” means a trust, special purpose entity, or other legal structure that is used to facilitate the issuing of securities, participation certificates, or similar instruments backed by or referring to a pool of assets that includes residential mortgages (or instruments that are related to residential mortgages such as credit-linked notes).
 - **(g)** No provision of subsection (b) or (d) shall be construed as affecting the liability of any servicer or person as described in subsection (d) for actual fraud in the origination or servicing of a loan or in the implementation of a qualified loss mitigation plan, or for the violation of a State or Federal law, including laws regulating the origination of mortgage loans, commonly referred to as predatory lending laws.
+
+“Congress finds the following:
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 129A](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 110–289, div. A, title IV, § 1403](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2809](https://www.govinfo.gov/link/statute/122/2809); renumbered § 129 and amended [Pub. L. 111–22, div. A, title II, § 201(b)](https://www.govinfo.gov/link/plaw/111/public/22), May 20, 2009, [123 Stat. 1638](https://www.govinfo.gov/link/statute/123/1638); renumbered § 129A, [Pub. L. 111–203, title XIV, § 1402(a)(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2138](https://www.govinfo.gov/link/statute/124/2138).)*

@@ -3,9 +3,10 @@ title: "Section 3414 - Special procedures"
 usc_title: 12
 usc_section: "3414"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3414"
-generated_at: "2026-03-30T02:53:53.495Z"
+generated_at: "2026-11-23T21:25:37.140Z"
+status: "active"
 ---
 
 # § 3414. Special procedures
@@ -54,3 +55,11 @@ generated_at: "2026-03-30T02:53:53.495Z"
   - **(1)** A request under subsection (a) or a nondisclosure requirement imposed in connection with such request under subsection (c) shall be subject to judicial review under section 3511 of title 18 .
   - **(2)** A request under subsection (a) shall include notice of the availability of judicial review described in paragraph (1).
 - **(e)** For purposes of this section, and sections 3415 and 3417 of this title insofar as they relate to the operation of this section, the term “financial institution” has the same meaning as in subsections (a)(2) and (c)(1) of section 5312 of title 31 , except that, for purposes of this section, such term shall include only such a financial institution any part of which is located inside any State or territory of the United States, the District of Columbia, Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or the United States Virgin Islands.
+
+In general
+
+Reporting
+
+## Source Credit
+
+*([Pub. L. 95–630, title XI, § 1114](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3707](https://www.govinfo.gov/link/statute/92/3707); [Pub. L. 97–320, title IV, § 432(b)](https://www.govinfo.gov/link/plaw/97/public/320), Oct. 15, 1982, [96 Stat. 1527](https://www.govinfo.gov/link/statute/96/1527); [Pub. L. 99–569, title IV, § 404](https://www.govinfo.gov/link/plaw/99/public/569), Oct. 27, 1986, [100 Stat. 3197](https://www.govinfo.gov/link/statute/100/3197); [Pub. L. 107–56, title III, § 358(f)(2)](https://www.govinfo.gov/link/plaw/107/public/56), title V, § 505(b), Oct. 26, 2001, [115 Stat. 327](https://www.govinfo.gov/link/statute/115/327), 365; [Pub. L. 107–306, title VIII, § 811(b)(9)](https://www.govinfo.gov/link/plaw/107/public/306), Nov. 27, 2002, [116 Stat. 2426](https://www.govinfo.gov/link/statute/116/2426); [Pub. L. 108–177, title III, § 374(a)](https://www.govinfo.gov/link/plaw/108/public/177), Dec. 13, 2003, [117 Stat. 2628](https://www.govinfo.gov/link/statute/117/2628); [Pub. L. 109–177, title I, § 116(d)](https://www.govinfo.gov/link/plaw/109/public/177), (e), title VI, § 605(e)(1), Mar. 9, 2006, [120 Stat. 215](https://www.govinfo.gov/link/statute/120/215), 216, 255; [Pub. L. 109–178, § 4(d)](https://www.govinfo.gov/link/plaw/109/public/178), Mar. 9, 2006, [120 Stat. 280](https://www.govinfo.gov/link/statute/120/280); [Pub. L. 114–23, title V](https://www.govinfo.gov/link/plaw/114/public/23), §§ 501(b), 502(b), 503(b), June 2, 2015, [129 Stat. 282](https://www.govinfo.gov/link/statute/129/282), 284, 290.)*

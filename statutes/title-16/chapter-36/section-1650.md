@@ -3,9 +3,10 @@ title: "Section 1650 - Hardwood technology transfer and applied research"
 usc_title: 16
 usc_section: "1650"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1650"
-generated_at: "2026-03-30T02:54:22.980Z"
+generated_at: "2026-11-23T21:25:51.907Z"
+status: "active"
 ---
 
 # § 1650. Hardwood technology transfer and applied research
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:22.980Z"
 - **(c)** The Secretary is hereby and hereafter authorized to operate and utilize the assets of the Wood Education and Resource Center (previously named the Robert C. Byrd Hardwood Technology Center in West Virginia) as part of a newly formed “Institute of Hardwood Technology Transfer and Applied Research” (hereinafter the “Institute”). The Institute, in addition to the Wood Education and Resource Center, will consist of a Director, technology transfer specialists from State and Private Forestry, the Forestry Sciences Laboratory in Princeton, West Virginia, and any other organizational unit of the Department of Agriculture as the Secretary deems appropriate. The overall management of the Institute will be the responsibility of the Forest Service, State and Private Forestry.
 - **(d)** The Secretary is hereby and hereafter authorized to generate revenue using the authorities provided herein. Any revenue received as part of the operation of the Institute shall be deposited into a special fund in the Treasury of the United States, known as the “Hardwood Technology Transfer and Applied Research Fund”, which shall be available to the Secretary until expended, without further appropriation, in furtherance of the purposes of this section, including upkeep, management, and operation of the Institute and the payment of salaries and expenses.
 - **(e)** There are hereby and hereafter authorized to be appropriated such sums as necessary to carry out the provisions of this section.
+
+## Source Credit
+
+*([Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 332]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1535](https://www.govinfo.gov/link/statute/113/1535), 1501A–197.)*

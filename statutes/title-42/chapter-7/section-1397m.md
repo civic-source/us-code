@@ -3,9 +3,10 @@ title: "Section 1397m - Enhancement of long-term care"
 usc_title: 42
 usc_section: "1397m"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1397m"
-generated_at: "2026-03-30T02:56:11.067Z"
+generated_at: "2026-11-23T21:26:31.935Z"
+status: "active"
 ---
 
 # § 1397m. Enhancement of long-term care
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:56:11.067Z"
   - **(1)** for fiscal year 2011, $20,000,000;
   - **(2)** for fiscal year 2012, $17,500,000; and
   - **(3)** for each of fiscal years 2013 and 2014, $15,000,000.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XX, § 2041, as added [Pub. L. 111–148, title VI, § 6703(a)(1)(C)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 791](https://www.govinfo.gov/link/statute/124/791).)*

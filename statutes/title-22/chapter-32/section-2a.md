@@ -3,9 +3,10 @@ title: "Section 2a - International nonproliferation export control training"
 usc_title: 22
 usc_section: "2a"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2a"
-generated_at: "2026-03-30T02:55:05.359Z"
+generated_at: "2026-11-23T21:25:58.474Z"
+status: "active"
 ---
 
 # § 2349bb–2a. International nonproliferation export control training
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.359Z"
   - **(2)** designed to encourage effective and mutually beneficial relations and increased understanding between the United States and friendly countries; and
   - **(3)** designed to improve the ability of friendly countries to utilize their resources with maximum effectiveness, thereby contributing to greater self-reliance by such countries.
 - **(d)** In selecting personnel for education and training pursuant to this section, priority should be given to personnel from countries determined by the Secretary of State to be countries frequently transited by proliferation-related shipments of cargo.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. II, § 584, as added [Pub. L. 107–228, div. B, title XIII, § 1303(2)](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1436](https://www.govinfo.gov/link/statute/116/1436).)*

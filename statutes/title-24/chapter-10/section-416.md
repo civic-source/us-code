@@ -3,9 +3,10 @@ title: "Section 416 - Advisory Council"
 usc_title: 24
 usc_section: "416"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "24 U.S.C. § 416"
-generated_at: "2026-03-30T02:54:50.791Z"
+generated_at: "2026-11-23T21:25:53.414Z"
+status: "active"
 ---
 
 # § 416. Advisory Council
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:54:50.791Z"
     - **(A)** be provided a stipend consistent with the daily government consultant fee for each day on which the member is engaged in the performance of services for the Advisory Council; and
     - **(B)** while away from home or regular place of business in the performance of services for the Advisory Council, be allowed travel expenses (including per diem in lieu of subsistence) in the same manner as a person employed intermittently in Government under sections 5701 through 5707 of title 5.
   - **(2)** A member of the Advisory Council who is a member of the Armed Forces on active duty or a full-time officer or employee of the United States shall receive no additional pay by reason of serving as a member of the Advisory Council.
+
+## Source Credit
+
+*([Pub. L. 101–510, div. A, title XV, § 1516](https://www.govinfo.gov/link/plaw/101/public/510), as added [Pub. L. 112–81, div. A, title V, § 563(a)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1421](https://www.govinfo.gov/link/statute/125/1421); amended [Pub. L. 115–91, div. A, title XIV, § 1413(b)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1708](https://www.govinfo.gov/link/statute/131/1708); [Pub. L. 116–283, div. A, title XIV, § 1413(b)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4032](https://www.govinfo.gov/link/statute/134/4032).)*

@@ -3,9 +3,10 @@ title: "Section 4609 - Petition and review"
 usc_title: 7
 usc_section: "4609"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 4609"
-generated_at: "2026-03-30T02:53:42.410Z"
+generated_at: "2026-11-23T21:25:28.351Z"
+status: "active"
 ---
 
 # § 4609. Petition and review
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.410Z"
     - **(A)** the effective date of the order, provision, or obligation challenged in the petition; or
     - **(B)** the date on which the petitioner became subject to the order, provision, or obligation challenged in the petition.
 - **(b)** The district courts of the United States in any district in which such person is an inhabitant, or carries on business, are hereby vested with jurisdiction to review such ruling, provided a complaint for that purpose is filed within twenty days from the date of the entry of such ruling. Service of process in such proceedings may be had upon the Secretary by delivering to the Secretary a copy of the complaint. If the court determines that such ruling is not in accordance with law, it shall remand such proceedings to the Secretary with directions either (1) to make such ruling as the court shall determine to be in accordance with law, or (2) to take such further proceedings as, in its opinion, the law requires. The pendency of proceedings instituted pursuant to subsection (a) of this section shall not impede, hinder, or delay the United States or the Secretary from obtaining relief pursuant to section 4610 of this title .
+
+## Source Credit
+
+*([Pub. L. 98–590, § 10](https://www.govinfo.gov/link/plaw/98/public/590), Oct. 30, 1984, [98 Stat. 3121](https://www.govinfo.gov/link/statute/98/3121); [Pub. L. 105–185, title VI, § 605(i)](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 599](https://www.govinfo.gov/link/statute/112/599).)*

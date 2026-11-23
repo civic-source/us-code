@@ -3,9 +3,10 @@ title: "Section 4224 - Ineligibility to file valid declarations"
 usc_title: 12
 usc_section: "4224"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4224"
-generated_at: "2026-03-30T02:53:53.503Z"
+generated_at: "2026-11-23T21:25:37.171Z"
+status: "active"
 ---
 
 # § 4224. Ineligibility to file valid declarations
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.503Z"
   - **(5)** the declaration identifies an asset or assets the nature, location, or possible recovery of which has been disclosed to a member of the public in a criminal, civil, or administrative proceeding, in a congressional, administrative, or Government Accountability Office report, hearing, audit or investigation, by any other government source, or by the news media, unless the person providing the declaration is the original source of the information.
 - **(b)** For the purposes of subsection (a)(5), the term “original source” means a person who has direct and independent knowledge of the information contained in the declaration and who voluntarily provided the information to the government prior to the disclosure.
 - **(c)** If the Attorney General determines at any time that a declaration is invalid under this section, that a declaration fails to meet the requirements of section 4222 of this title , or that a declaration has been disclosed in violation of section 4223 of this title , the Attorney General shall notify the person who filed the declaration in writing that the declaration is invalid, and the declarant shall not enjoy any of the rights of the declarant listed in section 4225 or 4226 of this title.
+
+## Source Credit
+
+*([Pub. L. 101–647, title XXV, § 2579](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4900](https://www.govinfo.gov/link/statute/104/4900); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

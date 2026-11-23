@@ -3,9 +3,10 @@ title: "Section 16501 - Commercial byproducts from municipal solid waste and cel
 usc_title: 42
 usc_section: "16501"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16501"
-generated_at: "2026-03-30T02:56:11.487Z"
+generated_at: "2026-11-23T21:26:33.745Z"
+status: "active"
 ---
 
 # § 16501. Commercial byproducts from municipal solid waste and cellulosic biomass loan guarantee program
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.487Z"
 - **(j)** Until each guaranteed loan under this section has been repaid in full, the Secretary shall annually submit to Congress a report on the activities of the Secretary under this section.
 - **(k)** There are authorized to be appropriated such sums as are necessary to carry out this section.
 - **(l)** The authority of the Secretary to issue a loan guarantee under subsection (b) terminates on the date that is 10 years after August 8, 2005 .
+
+## Source Credit
+
+*([Pub. L. 109–58, title XV, § 1510](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1085](https://www.govinfo.gov/link/statute/119/1085).)*

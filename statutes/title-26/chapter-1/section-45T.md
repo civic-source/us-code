@@ -3,9 +3,10 @@ title: "Section 45T - Auto-enrollment option for retirement savings options prov
 usc_title: 26
 usc_section: "45T"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 45T"
-generated_at: "2026-03-30T02:55:27.605Z"
+generated_at: "2026-11-23T21:26:05.940Z"
+status: "active"
 ---
 
 # § 45T. Auto-enrollment option for retirement savings options provided by small employers
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:27.605Z"
   - **(1)** The credit period with respect to any eligible employer is the 3-taxable-year period beginning with the first taxable year for which the employer includes an eligible automatic contribution arrangement (as defined in section 414(w)(3)) in a qualified employer plan (as defined in section 4972(d)) sponsored by the employer.
   - **(2)** No taxable year with respect to an employer shall be treated as occurring within the credit period unless the arrangement described in paragraph (1) is included in the plan for such year.
 - **(c)** For purposes of this section, the term “eligible employer” has the meaning given such term in section 408(p)(2)(C)(i).
+
+## Source Credit
+
+*(Added [Pub. L. 116–94, div. O, title I, § 105(a)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3148](https://www.govinfo.gov/link/statute/133/3148).)*

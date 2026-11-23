@@ -3,9 +3,10 @@ title: "Section 7912 - Establishment of payment yield"
 usc_title: 7
 usc_section: "7912"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7912"
-generated_at: "2026-03-30T02:53:42.465Z"
+generated_at: "2026-11-23T21:25:28.453Z"
+status: "active"
 ---
 
 # § 7912. Establishment of payment yield
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:42.465Z"
     - **(B)** 93.5 percent of the average of the yield per planted acre for the crop of the covered commodity on the farm for the 1998 through 2001 crop years, as determined by the Secretary, excluding any crop year in which the acreage planted to the crop of the covered commodity was zero.
   - **(4)** If the yield per planted acre for a crop of the covered commodity for a farm for any of the 1998 through 2001 crop years was less than 75 percent of the county yield for that commodity, the Secretary shall assign a yield for that crop year equal to 75 percent of the county yield for the purpose of determining the average yield under paragraph (3).
   - **(5)** The owner of a farm may not elect the method described in paragraph (3)(A) for 1 covered commodity on the farm and the method described in paragraph (3)(B) for other covered commodities on the farm.
+
+## Source Credit
+
+*([Pub. L. 107–171, title I, § 1102](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 147](https://www.govinfo.gov/link/statute/116/147).)*

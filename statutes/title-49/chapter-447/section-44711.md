@@ -3,9 +3,10 @@ title: "Section 44711 - Prohibitions and exemption"
 usc_title: 49
 usc_section: "44711"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44711"
-generated_at: "2026-03-30T02:56:19.385Z"
+generated_at: "2026-11-23T21:26:40.899Z"
+status: "active"
 ---
 
 # § 44711. Prohibitions and exemption
@@ -33,3 +34,148 @@ generated_at: "2026-03-30T02:56:19.385Z"
       - **(ii)** an employee of the Administration with responsibility for certification functions with respect to a holder of a certificate issued under section 44704(a); and
     - **(B)** had responsibility to inspect, or oversee inspection of, the operations of such person.
   - **(2)** For purposes of paragraph (1), an individual shall be considered to be acting as an agent or representative of a certificate holder in a matter before the Administration if the individual makes any written or oral communication on behalf of the certificate holder to the Administration (or any of its officers or employees) in connection with a particular matter, whether or not involving a specific party and without regard to whether the individual has participated in, or had responsibility for, the particular matter while serving as an individual covered under paragraph (1).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44711(a)(1) | 49 App.:1430(a)(1). | Aug. 23, 1958 , Pub. L. 85–726, § 610(a)(1) –(5), (b), 72 Stat. 780 . |
+| 44711(a)(2) | 49 App.:1430(a)(2). |  |
+| 44711(a)(3) | 49 App.:1430(a)(3). |  |
+| 44711(a)(4) | 49 App.:1430(a)(4). |  |
+| 44711(a)(5) | 49 App.:1430(a)(5). |  |
+| 44711(a)(6) | 49 App.:1430(a)(6). | Aug. 23, 1958 , Pub. L. 85–726, § 610(a)(6) , 72 Stat. 780 ; May 21, 1970 , Pub. L. 91–258, § 51(b)(3)(A) , 84 Stat. 235 . |
+| 44711(a)(7) | 49 App.:1430(a)(7). | Aug. 23, 1958 , Pub. L. 85–726, § 610(a)(7) , 72 Stat. 780 ; May 21, 1970 , Pub. L. 91–258, § 51(b)(3)(B) , 84 Stat. 235 ; Dec. 31, 1970 , Pub. L. 91–604, § 11(b)(2) , 84 Stat. 1705 . |
+| 44711(a)(8) | 49 App.:1430(a)(8). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 610(a)(8); added May 21, 1970 , Pub. L. 91–258, § 51(b)(3)(C) , 84 Stat. 235 ; Dec. 31, 1970 , Pub. L. 91–604, § 11(b)(2) , 84 Stat. 1705 ; restated Sept. 3, 1982 , Pub. L. 97–248, § 525(d) , 96 Stat. 697 . |
+| 44711(a)(9) | 49 App.:1430(a)(9). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 610(a)(9); added Dec. 31, 1970 , Pub. L. 91–604, § 11(b)(2) , 84 Stat. 1705 ; Nov. 9, 1977 , Pub. L. 95–163, § 15(b)(2) , 91 Stat. 1283 . |
+| 44711(b) | 49 App.:1430(b). |  |
+|  | 49 App.:1655(c)(1). | Oct. 15, 1966 , Pub. L. 89–670, § 6(c)(1) , 80 Stat. 938 ; Jan. 12, 1983 , Pub. L. 97–449, § 7(b) , 96 Stat. 2444 . |
+
+
+Prohibitions
+
+Exemption
+
+Prohibition on Employment of Convicted Counterfeit Part Traffickers
+
+Post-employment Restrictions for Inspectors and Engineers.—
+
+Prohibition
+
+Written and oral communications
+
+Historical and Revision Notes
+
+Pub. L
+
+44711(a)(1)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 610(a)(1)
+
+72 Stat. 780
+
+44711(a)(2)
+
+44711(a)(3)
+
+44711(a)(4)
+
+44711(a)(5)
+
+44711(a)(6)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 610(a)(6)
+
+72 Stat. 780
+
+May 21, 1970
+
+Pub. L. 91–258, § 51(b)(3)(A)
+
+84 Stat. 235
+
+44711(a)(7)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 610(a)(7)
+
+72 Stat. 780
+
+May 21, 1970
+
+Pub. L. 91–258, § 51(b)(3)(B)
+
+84 Stat. 235
+
+Dec. 31, 1970
+
+Pub. L. 91–604, § 11(b)(2)
+
+84 Stat. 1705
+
+44711(a)(8)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+May 21, 1970
+
+Pub. L. 91–258, § 51(b)(3)(C)
+
+84 Stat. 235
+
+Dec. 31, 1970
+
+Pub. L. 91–604, § 11(b)(2)
+
+84 Stat. 1705
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 525(d)
+
+96 Stat. 697
+
+44711(a)(9)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Dec. 31, 1970
+
+Pub. L. 91–604, § 11(b)(2)
+
+84 Stat. 1705
+
+Nov. 9, 1977
+
+Pub. L. 95–163, § 15(b)(2)
+
+91 Stat. 1283
+
+44711(b)
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 6(c)(1)
+
+80 Stat. 938
+
+Jan. 12, 1983
+
+Pub. L. 97–449, § 7(b)
+
+96 Stat. 2444
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1193](https://www.govinfo.gov/link/statute/108/1193); [Pub. L. 103–429, § 6(56)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4385](https://www.govinfo.gov/link/statute/108/4385); [Pub. L. 106–181, title V, § 505(b)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 136](https://www.govinfo.gov/link/statute/114/136); [Pub. L. 108–176, title II, § 227(d)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2532](https://www.govinfo.gov/link/statute/117/2532); [Pub. L. 112–95, title III](https://www.govinfo.gov/link/plaw/112/public/95), §§ 307(b), 342(a), Feb. 14, 2012, [126 Stat. 61](https://www.govinfo.gov/link/statute/126/61), 79; [Pub. L. 116–260, div. V, title I, § 111(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2330](https://www.govinfo.gov/link/statute/134/2330); [Pub. L. 118–63, title IV, § 420(a)(1)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1164](https://www.govinfo.gov/link/statute/138/1164).)*

@@ -3,9 +3,10 @@ title: "Section 11371 - Definitions"
 usc_title: 42
 usc_section: "11371"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11371"
-generated_at: "2026-03-30T02:56:11.398Z"
+generated_at: "2026-11-23T21:26:33.415Z"
+status: "active"
 ---
 
 # § 11371. Definitions
@@ -23,3 +24,7 @@ For purposes of this part:
   - **(7)** The term “Secretary” means the Secretary of Housing and Urban Development.
   - **(8)** The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
   - **(9)** The term “urban county” has the meaning given such term in section 5302 of this title .
+
+## Source Credit
+
+*([Pub. L. 100–77, title IV, § 411](https://www.govinfo.gov/link/plaw/100/public/77), July 22, 1987, [101 Stat. 495](https://www.govinfo.gov/link/statute/101/495); [Pub. L. 101–625, title VIII, § 832(f)(1)](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4361](https://www.govinfo.gov/link/statute/104/4361); [Pub. L. 104–330, title V, § 506(a)(1)](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4044](https://www.govinfo.gov/link/statute/110/4044).)*

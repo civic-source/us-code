@@ -3,9 +3,10 @@ title: "Section 4010 - Defense Established Program to Stimulate Competitive Rese
 usc_title: 10
 usc_section: "4010"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4010"
-generated_at: "2026-03-30T02:53:38.200Z"
+generated_at: "2026-11-23T21:25:32.750Z"
+status: "active"
 ---
 
 # § 4010. Defense Established Program to Stimulate Competitive Research
@@ -31,3 +32,19 @@ generated_at: "2026-03-30T02:53:38.200Z"
   - **(2)** All solicitations under the Defense Established Program to Stimulate Competitive Research may be made to, and all awards may be made through, the State committees established for purposes of the Established Program to Stimulate Competitive Research conducted by the National Science Foundation.
   - **(3)** A State committee referred to in paragraph (2) shall ensure that activities carried out in the State of that committee under the Defense Established Program to Stimulate Competitive Research are relevant to the mission of the Department of Defense and coordinated with the activities carried out in the State under other similar initiatives of the Federal Government to stimulate competitive research.
 - **(f)** In this section, the term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+
+Program Required
+
+Program Objectives
+
+Program Activities
+
+Eligible States
+
+Coordination With Similar Federal Programs
+
+State Defined
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. A, title II, § 214(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1589](https://www.govinfo.gov/link/statute/135/1589).)*

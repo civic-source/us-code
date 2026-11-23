@@ -3,9 +3,10 @@ title: "Section 70102 - United States facility and vessel vulnerability assessme
 usc_title: 46
 usc_section: "70102"
 chapter: 701
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 70102"
-generated_at: "2026-03-30T02:56:15.585Z"
+generated_at: "2026-11-23T21:26:37.347Z"
+status: "active"
 ---
 
 # § 70102. United States facility and vessel vulnerability assessments
@@ -22,3 +23,21 @@ generated_at: "2026-03-30T02:56:15.585Z"
 - **(c)** The owner or operator of a facility, consistent with any Federal security restrictions, shall—
   - **(1)** make a current copy of the vulnerability assessment conducted under subsection (b) available to the port authority with jurisdiction of the facility and appropriate State or local law enforcement agencies; and
   - **(2)** integrate, to the maximum extent practical, any security system for the facility with compatible systems operated or maintained by the appropriate State, law enforcement agencies, and the Coast Guard.
+
+Initial Assessments
+
+Facility and Vessel Assessments
+
+Sharing of Assessment Integration of Plans and Equipment
+
+“The Secretary of Homeland Security shall—
+
+“In this division [see section 1801 of Pub. L. 115–254 , set out as a Short Title of 2018 Amendment note under section 101 of this title ]:
+
+Appropriate committees of congress
+
+TSA
+
+## Source Credit
+
+*(Added [Pub. L. 107–295, title I, § 102(a)](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2068](https://www.govinfo.gov/link/statute/116/2068); amended [Pub. L. 108–458, title IV, § 4072(b)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3730](https://www.govinfo.gov/link/statute/118/3730); [Pub. L. 111–281, title VIII, § 822](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 3003](https://www.govinfo.gov/link/statute/124/3003); [Pub. L. 115–254, div. J, § 1805(d)(1)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3535](https://www.govinfo.gov/link/statute/132/3535).)*

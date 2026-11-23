@@ -3,9 +3,10 @@ title: "Section 504 - Civil money penalty"
 usc_title: 12
 usc_section: "504"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 504"
-generated_at: "2026-03-30T02:53:53.383Z"
+generated_at: "2026-11-23T21:25:36.798Z"
+status: "active"
 ---
 
 # § 504. Civil money penalty
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:53:53.383Z"
 - **(h)** For purposes of this section, the term “violate” includes any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
 - **(i)** The Comptroller of the Currency and the Board shall prescribe regulations establishing such procedures as may be necessary to carry out this section.
 - **(m)** The resignation, termination of employment or participation, or separation of an institution-affiliated party (within the meaning of section 1813(u) of this title ) with respect to a member bank (including a separation caused by the closing of such a bank) shall not affect the jurisdiction and authority of the appropriate Federal banking agency to issue any notice and proceed under this section against any such party, if such notice is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such bank (whether such date occurs before, on, or after August 9, 1989 ).
+
+## Source Credit
+
+*(Dec. 23, 1913, ch. 6, § 29, as added [Pub. L. 95–630, title I, § 101](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3641](https://www.govinfo.gov/link/statute/92/3641); amended [Pub. L. 97–320, title IV, § 424(c)](https://www.govinfo.gov/link/plaw/97/public/320), (d)(1), (e), Oct. 15, 1982, [96 Stat. 1523](https://www.govinfo.gov/link/statute/96/1523); [Pub. L. 101–73, title IX](https://www.govinfo.gov/link/plaw/101/public/73), §§ 905(f), 907(g), Aug. 9, 1989, [103 Stat. 461](https://www.govinfo.gov/link/statute/103/461), 470.)*

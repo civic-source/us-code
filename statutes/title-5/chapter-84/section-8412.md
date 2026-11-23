@@ -3,9 +3,10 @@ title: "Section 8412 - Immediate retirement"
 usc_title: 5
 usc_section: "8412"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8412"
-generated_at: "2026-03-30T02:52:56.054Z"
+generated_at: "2026-11-23T21:25:23.412Z"
+status: "active"
 ---
 
 # § 8412. Immediate retirement
@@ -52,3 +53,11 @@ generated_at: "2026-03-30T02:52:56.054Z"
   - **(2)**
     - **(A)** For an individual whose date of birth occurs during the 5-year period consisting of calendar years 1948 through 1952, the age increase factor shall be equal to two-twelfths times the number of months in the period beginning with January 1948 and ending with December of the year in which the date of birth occurs.
     - **(B)** For an individual whose date of birth occurs during the 5-year period consisting of calendar years 1965 through 1969, the age increase factor shall be equal to two-twelfths times the number of months in the period beginning with January 1965 and ending with December of the year in which the date of birth occurs.
+
+(aa) is not a covered position; and
+
+(bb) is within an agency that regularly appoints individuals to supervisory or administrative positions related to the activities of the former covered position of the individual;
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 524](https://www.govinfo.gov/link/statute/100/524); amended [Pub. L. 99–556, title I, § 105(a)](https://www.govinfo.gov/link/plaw/99/public/556), Oct. 27, 1986, [100 Stat. 3131](https://www.govinfo.gov/link/statute/100/3131); [Pub. L. 101–428, § 3(a)](https://www.govinfo.gov/link/plaw/101/public/428), Oct. 15, 1990, [104 Stat. 929](https://www.govinfo.gov/link/statute/104/929); [Pub. L. 105–261, div. C, title XXXI, § 3154(g)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2255](https://www.govinfo.gov/link/statute/112/2255); [Pub. L. 106–553, § 1(a)(2) [title III, § 308(c)(1)]](https://www.govinfo.gov/link/plaw/106/public/553), Dec. 21, 2000, [114 Stat. 2762](https://www.govinfo.gov/link/statute/114/2762), 2762A–87; [Pub. L. 110–161, div. E, title V, § 535(b)(2)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2076](https://www.govinfo.gov/link/statute/121/2076); [Pub. L. 117–225, § 3(b)(1)](https://www.govinfo.gov/link/plaw/117/public/225), Dec. 9, 2022, [136 Stat. 2294](https://www.govinfo.gov/link/statute/136/2294).)*

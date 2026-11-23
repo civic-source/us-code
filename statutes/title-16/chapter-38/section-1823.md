@@ -3,9 +3,10 @@ title: "Section 1823 - Congressional oversight of international fishery agreemen
 usc_title: 16
 usc_section: "1823"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1823"
-generated_at: "2026-03-30T02:54:22.984Z"
+generated_at: "2026-11-23T21:25:51.915Z"
+status: "active"
 ---
 
 # § 1823. Congressional oversight of international fishery agreements
@@ -31,3 +32,33 @@ generated_at: "2026-03-30T02:54:22.984Z"
     - **(B)** Debate in the Senate on any fishery agreement resolution and on all debatable motions and appeals in connection therewith shall be limited to not more than 10 hours. The time shall be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
     - **(C)** Debate in the Senate on any debatable motion or appeal in connection with any fishery agreement resolution shall be limited to not more than 1 hour, to be equally divided between, and controlled by, the mover of the motion or appeal and the manager of the resolution, except that if the manager of the resolution is in favor of any such motion or appeal, the time in opposition thereto shall be controlled by the minority leader or his designee. The majority leader and the minority leader, or either of them, may allot additional time to any Senator during the consideration of any debatable motion or appeal, from time under their control with respect to the applicable fishery agreement resolution.
     - **(D)** A motion in the Senate to further limit debate is not debatable. A motion to recommit any fishery agreement resolution is not in order.
+
+In General
+
+Membership.—
+
+In General
+
+Nominations
+
+Pay
+
+Exemption From Chapter
+
+of Title
+
+, United States Code
+
+Travel Expenses.—
+
+In general
+
+Reimbursement
+
+“Notwithstanding section 203 of the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1823 ) [this section]—
+
+“Notwithstanding section 203 of the Magnuson-Stevens Fishery Conservation and Management Act of 1976 [this section], the Governing International Fishery Agreement between the Government of the United States of America of the One Part and the Home Government of the Faroe Islands and the Government of Denmark of the Other Part Concerning Faroese Fishing in Fisheries Off the Coasts of the United States, as contained in the message to Congress from the President of the United States dated July 13, 1984 —
+
+## Source Credit
+
+*([Pub. L. 94–265, title II, § 203](https://www.govinfo.gov/link/plaw/94/public/265), Apr. 13, 1976, [90 Stat. 340](https://www.govinfo.gov/link/statute/90/340); [Pub. L. 103–437, § 6(x)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4587](https://www.govinfo.gov/link/statute/108/4587); [Pub. L. 104–297, title I, § 105(c)](https://www.govinfo.gov/link/plaw/104/public/297), Oct. 11, 1996, [110 Stat. 3564](https://www.govinfo.gov/link/statute/110/3564).)*

@@ -3,9 +3,10 @@ title: "Section 1608 - Revenue sharing"
 usc_title: 43
 usc_section: "1608"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1608"
-generated_at: "2026-03-30T02:55:57.479Z"
+generated_at: "2026-11-23T21:26:19.853Z"
+status: "active"
 ---
 
 # § 1608. Revenue sharing
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:57.479Z"
   - **(1)** first, from sources identified under subsections (b) and (c) hereof; and
   - **(2)** then, from sources identified under subsection (d) hereof.
 - **(i)** The provisions of this section do not apply to mineral revenues received from the Outer Continental Shelf.
+
+## Source Credit
+
+*([Pub. L. 92–203, § 9](https://www.govinfo.gov/link/plaw/92/public/203), Dec. 18, 1971, [85 Stat. 694](https://www.govinfo.gov/link/statute/85/694); [Pub. L. 93–153, title IV, § 407(b)](https://www.govinfo.gov/link/plaw/93/public/153), Nov. 16, 1973, [87 Stat. 591](https://www.govinfo.gov/link/statute/87/591).)*

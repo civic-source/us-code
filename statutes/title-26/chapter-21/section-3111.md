@@ -3,9 +3,10 @@ title: "Section 3111 - Rate of tax"
 usc_title: 26
 usc_section: "3111"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 3111"
-generated_at: "2026-03-30T02:55:27.787Z"
+generated_at: "2026-11-23T21:26:06.546Z"
+status: "active"
 ---
 
 # § 3111. Rate of tax
@@ -32,3 +33,249 @@ generated_at: "2026-03-30T02:55:27.787Z"
   - **(2)** The credit allowed by paragraph (1)(A) shall not exceed the tax imposed by subsection (a) for any calendar quarter, and the credit allowed by paragraph (1)(B) shall not exceed the tax imposed by subsection (b) for any calendar quarter, on the wages paid with respect to the employment of all individuals in the employ of the employer.
   - **(3)** If the amount of any credit under paragraph (1) exceeds the limitation of paragraph (2) for any calendar quarter, such excess shall be carried to the succeeding calendar quarter and allowed as a credit under paragraph (1) for such quarter.
   - **(4)** The credits allowed under paragraph (1) shall not be taken into account for purposes of determining the amount of any deduction allowed under chapter 1 for taxes imposed under subsection (a) or (b).
+
+In General
+
+Limitations and Refundability.—
+
+Wages taken into account
+
+Credit limited to employment taxes
+
+Refundability of excess credit.—
+
+In general
+
+Treatment of payments
+
+Definitions
+
+Applicable employment taxes
+
+Eligible employer.—
+
+In general
+
+Election to use alternative quarter
+
+Tax-exempt organizations
+
+Qualified wages.—
+
+In general
+
+Exception
+
+Secretary
+
+Wages
+
+In general
+
+Allowance for certain health plan expenses.—
+
+In general
+
+Allocation rules
+
+Other terms
+
+Aggregation Rule
+
+Certain Rules to Apply
+
+Certain Governmental Employers.—
+
+In general
+
+Exception
+
+Election to Not Take Certain Wages Into Account.—
+
+In general
+
+Coordination with paycheck protection program
+
+Special Rules.—
+
+Denial of double benefit
+
+Third party payors
+
+Transfers to Federal Old-Age and Survivors Insurance Trust Fund
+
+Advance Payments.—
+
+In general
+
+Advance payments to small employers.—
+
+In general
+
+Special rule for seasonal employers
+
+Special rule for employers not in existence in 2019
+
+Reconciliation of credit with advance payments.—
+
+In general
+
+Excess advance payments
+
+Treatment of Deposits
+
+Regulations and Guidance
+
+Application
+
+Public Awareness Campaign.—
+
+In general
+
+Outreach
+
+In general
+
+Special rule.—
+
+In general
+
+Applicable amount
+
+In General.—
+
+Taxes
+
+Deposits
+
+SECA.—
+
+In general
+
+Estimated taxes
+
+Liability of Third Parties.—
+
+Acts to be performed by agents
+
+Certified professional employer organizations
+
+Definitions
+
+Applicable employment taxes
+
+Payroll tax deferral period
+
+Applicable date
+
+Secretary
+
+Trust Funds Held Harmless
+
+Regulatory Authority
+
+In General
+
+Limitations and Refundability.—
+
+Wages taken into account
+
+Overall limitation on number of days taken into account
+
+Credit limited to certain employment taxes
+
+Refundability of excess credit.—
+
+Credit is refundable
+
+Advancing credit
+
+Treatment of payments
+
+Qualified Sick Leave Wages
+
+Allowance of Credit for Certain Health Plan Expenses.—
+
+In general
+
+Qualified health plan expenses
+
+Allocation rules
+
+Special Rules.—
+
+Denial of double benefit
+
+Election not to have section apply
+
+Certain terms
+
+Certain governmental employers
+
+References to railroad retirement tax
+
+Regulations
+
+Application of Section
+
+Transfers to Federal Old-Age and Survivors Insurance Trust Fund
+
+Treatment of Deposits
+
+In General
+
+Limitations and Refundability.—
+
+Wages taken into account
+
+Credit limited to certain employment taxes
+
+Refundability of excess credit.—
+
+Credit is refundable
+
+Advancing credit
+
+Qualified Family Leave Wages
+
+Allowance of Credit for Certain Health Plan Expenses.—
+
+In general
+
+Qualified health plan expenses
+
+Allocation rules
+
+Special Rules
+
+Denial of double benefit
+
+Election not to have section apply
+
+Certain terms
+
+Certain governmental employers
+
+References to railroad retirement tax
+
+Regulations
+
+Application of Section
+
+Transfers to Federal Old-Age and Survivors Insurance Trust Fund
+
+Treatment of Deposits
+
+In General
+
+Allowance of Credit for Hospital Insurance Taxes.—
+
+In general
+
+Denial of double benefit
+
+Transfers to Federal Old-Age and Survivors Insurance Trust Fund
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 416; Sept. 1, 1954, ch. 1206, title II, § 208(c), [68 Stat. 1094](https://www.govinfo.gov/link/statute/68/1094); Aug. 1, 1956. ch. 836, title II, § 202(c), [70 Stat. 845](https://www.govinfo.gov/link/statute/70/845); [Pub. L. 85–840, title IV, § 401(c)](https://www.govinfo.gov/link/plaw/85/public/840), Aug. 28, 1958, [72 Stat. 1042](https://www.govinfo.gov/link/statute/72/1042); [Pub. L. 87–64, title II, § 201(c)](https://www.govinfo.gov/link/plaw/87/public/64), June 30, 1961, [75 Stat. 141](https://www.govinfo.gov/link/statute/75/141); [Pub. L. 89–97, title I, § 111(c)(6)](https://www.govinfo.gov/link/plaw/89/public/97), title III, § 321(c), July 30, 1965, [79 Stat. 343](https://www.govinfo.gov/link/statute/79/343), 396; [Pub. L. 90–248, title I, § 109(a)(3)](https://www.govinfo.gov/link/plaw/90/public/248), (b)(3), Jan. 2, 1968, [81 Stat. 836](https://www.govinfo.gov/link/statute/81/836), 837; [Pub. L. 92–5, title II, § 204(a)(2)](https://www.govinfo.gov/link/plaw/92/public/5), Mar. 17, 1971, [85 Stat. 11](https://www.govinfo.gov/link/statute/85/11); [Pub. L. 92–336, title II, § 204(a)(3)](https://www.govinfo.gov/link/plaw/92/public/336), (b)(3), July 1, 1972, [86 Stat. 421](https://www.govinfo.gov/link/statute/86/421), 422; [Pub. L. 92–603, title I, § 135(a)(3)](https://www.govinfo.gov/link/plaw/92/public/603), (b)(3), Oct. 30, 1972, [86 Stat. 1363](https://www.govinfo.gov/link/statute/86/1363), 1364; [Pub. L. 93–233, § 6(a)(2)](https://www.govinfo.gov/link/plaw/93/public/233), (b)(3), Dec. 31, 1973, [87 Stat. 954](https://www.govinfo.gov/link/statute/87/954), 955; [Pub. L. 94–455, title XIX, § 1903(a)(1)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1806](https://www.govinfo.gov/link/statute/90/1806); [Pub. L. 95–216, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/95/public/216), (b)(2), title III, §§ 315(b), 317(b)(2), Dec. 20, 1977, [91 Stat. 1511](https://www.govinfo.gov/link/statute/91/1511), 1512, 1537, 1540; [Pub. L. 98–21, title I, § 123(a)(2)](https://www.govinfo.gov/link/plaw/98/public/21), Apr. 20, 1983, [97 Stat. 88](https://www.govinfo.gov/link/statute/97/88); [Pub. L. 100–203, title IX, § 9006(b)(1)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–289](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title VIII, § 8016(a)(5)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3793](https://www.govinfo.gov/link/statute/102/3793); [Pub. L. 108–203, title IV, § 415](https://www.govinfo.gov/link/plaw/108/public/203), Mar. 2, 2004, [118 Stat. 530](https://www.govinfo.gov/link/statute/118/530); [Pub. L. 111–147, title I, § 101(a)](https://www.govinfo.gov/link/plaw/111/public/147), Mar. 18, 2010, [124 Stat. 72](https://www.govinfo.gov/link/statute/124/72); [Pub. L. 112–56, title II, § 261(e)(2)](https://www.govinfo.gov/link/plaw/112/public/56), Nov. 21, 2011, [125 Stat. 730](https://www.govinfo.gov/link/statute/125/730); [Pub. L. 113–295, div. A, title II, § 221(a)(99)(B)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4051](https://www.govinfo.gov/link/statute/128/4051); [Pub. L. 114–113, div. Q, title I, § 121(c)(2)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3051](https://www.govinfo.gov/link/statute/129/3051); [Pub. L. 115–141, div. U, title IV, § 401(a)(208)](https://www.govinfo.gov/link/plaw/115/public/141), (b)(34), Mar. 23, 2018, [132 Stat. 1194](https://www.govinfo.gov/link/statute/132/1194), 1204; [Pub. L. 117–169, title I, § 13902(b)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2013](https://www.govinfo.gov/link/statute/136/2013).)*

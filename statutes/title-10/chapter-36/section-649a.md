@@ -3,9 +3,10 @@ title: "Section 649a - Officers in designated competitive categories"
 usc_title: 10
 usc_section: "649a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 649a"
-generated_at: "2026-03-30T02:53:38.072Z"
+generated_at: "2026-11-23T21:25:32.306Z"
+status: "active"
 ---
 
 # § 649a. Officers in designated competitive categories
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:53:38.072Z"
   - **(2)** An explanation of the number of opportunities for consideration for promotion to each particular grade, and an estimate of promotion timing, within the competitive category.
   - **(3)** An estimate of the size of the promotion zone for each grade within the competitive category.
   - **(4)** A description of any other matters the Secretary considered in determining to designate the competitive category for purposes of this subchapter.
+
+Authority To Designate Competitive Categories of Officers
+
+Limitation on Exercise of Authority
+
+## Source Credit
+
+*(Added [Pub. L. 115–232, div. A, title V, § 507(a)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1744](https://www.govinfo.gov/link/statute/132/1744).)*

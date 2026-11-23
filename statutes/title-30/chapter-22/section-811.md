@@ -3,9 +3,10 @@ title: "Section 811 - Mandatory safety and health standards"
 usc_title: 30
 usc_section: "811"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 811"
-generated_at: "2026-03-30T02:55:29.387Z"
+generated_at: "2026-11-23T21:26:00.389Z"
+status: "active"
 ---
 
 # § 811. Mandatory safety and health standards
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:29.387Z"
 - **(c)** Upon petition by the operator or the representative of miners, the Secretary may modify the application of any mandatory safety standard to a coal or other mine if the Secretary determines that an alternative method of achieving the result of such standard exists which will at all times guarantee no less than the same measure of protection afforded the miners of such mine by such standard, or that the application of such standard to such mine will result in a diminution of safety to the miners in such mine. Upon receipt of such petition the Secretary shall publish notice thereof and give notice to the operator or the representative of miners in the affected mine, as appropriate, and shall cause such investigation to be made as he deems appropriate. Such investigation shall provide an opportunity for a public hearing at the request of such operator or representative or other interested party, to enable the operator or the representative of miners in such mine or other interested party to present information relating to the modification of such standard. Before granting any exception to a mandatory safety standard, the findings of the Secretary or his authorized representative shall be made public and shall be available to the representative of the miners at the affected mine. The Secretary shall issue a decision incorporating his findings of fact therein, and send a copy thereof to the operator or the representative of the miners, as appropriate. Any such hearing shall be of record and shall be subject to section 554 of title 5 .
 - **(d)** Any person who may be adversely affected by a mandatory health or safety standard promulgated under this section may, at any time prior to the sixtieth day after such standard is promulgated, file a petition challenging the validity of such mandatory standard with the United States Court of Appeals for the District of Columbia Circuit or the circuit wherein such person resides or has his principal place of business, for a judicial review of such standard. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Secretary. The filing of such petition shall not, unless otherwise ordered by the court, operate as a stay of the standard. No objection that has not been urged before the Secretary shall be considered by the court, unless the failure or neglect to urge such objection shall be excused for good cause shown. The validity of any mandatory health or safety standard shall not be subject to challenge on the grounds that any of the time limitations in this section have been exceeded. The procedures of this subsection shall be the exclusive means of challenging the validity of a mandatory health or safety standard.
 - **(e)** The Secretary shall send a copy of every proposed mandatory health or safety standard or regulation at the time of publication in the Federal Register to the operator of each coal or other mine and the representative of the miners at such mine and such copy shall be immediately posted on the bulletin board of the mine by the operator or his agent, but failure to receive such notice shall not relieve anyone of the obligation to comply with such standard or regulation.
+
+## Source Credit
+
+*([Pub. L. 91–173, title I, § 101](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 745](https://www.govinfo.gov/link/statute/83/745); [Pub. L. 95–164, title II, § 201](https://www.govinfo.gov/link/plaw/95/public/164), Nov. 9, 1977, [91 Stat. 1291](https://www.govinfo.gov/link/statute/91/1291); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695).)*

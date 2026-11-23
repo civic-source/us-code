@@ -3,9 +3,10 @@ title: "Section 1156 - Limitation on unmanned aircraft systems"
 usc_title: 14
 usc_section: "1156"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 1156"
-generated_at: "2026-03-30T02:53:51.493Z"
+generated_at: "2026-11-23T21:25:35.401Z"
+status: "active"
 ---
 
 # § 1156. Limitation on unmanned aircraft systems
@@ -17,3 +18,31 @@ generated_at: "2026-03-30T02:53:51.493Z"
     - **(B)** is leased, acquired, or utilized by the Commandant through an agreement with a Federal entity, unless such an agreement is not practicable or would be less cost-effective than an independent contract action by the Coast Guard.
 - **(b)** Subsection (a)(2) does not apply to small unmanned aircraft.
 - **(c)** In this section, the terms “small unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in section 44801 of title 49 .
+
+In General
+
+Small Unmanned Aircraft Exemption
+
+Definitions
+
+Prohibition on Agency Operation or Procurement
+
+Exemption
+
+Waiver
+
+Definitions
+
+Covered foreign country
+
+Covered unmanned aircraft system
+
+Counter-UAS system
+
+Unmanned aircraft system
+
+Replacement
+
+## Source Credit
+
+*(Added [Pub. L. 115–282, title III, § 304(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4244](https://www.govinfo.gov/link/statute/132/4244); amended [Pub. L. 117–263, div. K, title CXVIII, § 11803(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4163](https://www.govinfo.gov/link/statute/136/4163).)*

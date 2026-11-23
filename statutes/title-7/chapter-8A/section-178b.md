@@ -3,9 +3,10 @@ title: "Section 178b - Joint Commission on Research and Development of Critical 
 usc_title: 7
 usc_section: "178b"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 178b"
-generated_at: "2026-03-30T02:53:42.276Z"
+generated_at: "2026-11-23T21:25:27.922Z"
+status: "active"
 ---
 
 # § 178b. Joint Commission on Research and Development of Critical Agricultural Materials
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:42.276Z"
   - **(4)** review and advise the Secretaries with respect to grants, contracts, and other project expenditures.
 - **(f)** The Secretaries are authorized to provide without reimbursement such administrative support services, including the detail of staff personnel not to exceed a total of five persons from each Department, as the Joint Commission may need to carry out its functions.
 - **(g)** To the maximum extent possible, the Secretaries and the Joint Commission shall seek the advice of the scientific, engineering and business communities with respect to the activities carried out under this subchapter. The Secretaries and the Commission shall specifically seek the advice of persons with expertise in appropriate fields of agricultural research in land grant colleges and other universities, in State agricultural experiment stations, and in other appropriate organizations; and, persons with expertise in manufacturing and commerce involving rubber and other critical agricultural materials in private enterprise and other appropriate organizations.
+
+## Source Credit
+
+*([Pub. L. 95–592, § 4](https://www.govinfo.gov/link/plaw/95/public/592), Nov. 4, 1978, [92 Stat. 2530](https://www.govinfo.gov/link/statute/92/2530); [Pub. L. 98–284, § 4](https://www.govinfo.gov/link/plaw/98/public/284), May 16, 1984, [98 Stat. 181](https://www.govinfo.gov/link/statute/98/181); [Pub. L. 104–127, title VIII, § 881(a)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1175](https://www.govinfo.gov/link/statute/110/1175).)*

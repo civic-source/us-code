@@ -3,9 +3,10 @@ title: "Section 1062 - Gain from the sale or exchange of qualified farmland prop
 usc_title: 26
 usc_section: "1062"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1062"
-generated_at: "2026-03-30T02:55:27.758Z"
+generated_at: "2026-11-23T21:26:06.464Z"
+status: "active"
 ---
 
 # § 1062. Gain from the sale or exchange of qualified farmland property to qualified farmers
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:27.758Z"
     - **(B)** The terms “farm” and “farming purposes” have the respective meanings given such terms under section 2032A(e).
   - **(3)** The term “qualified farmer” means any individual who is actively engaged in farming (within the meaning of subsections (b) and (c) of section 1001 of the Food Security Act of 1986 1 1 See References in Text note below. ( 7 U.S.C. 1308–1(b) and (c))).
 - **(e)** A taxpayer making an election under subsection (a) shall include with the return for the taxable year of the sale or exchange described in subsection (a) a copy of the covenant or other legally enforceable restriction described in subsection (d)(2)(A)(ii).
+
+## Source Credit
+
+*(Added [Pub. L. 119–21, title VII, § 70437(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 248](https://www.govinfo.gov/link/statute/139/248).)*

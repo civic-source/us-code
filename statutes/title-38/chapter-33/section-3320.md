@@ -3,9 +3,10 @@ title: "Section 3320 - Edith Nourse Rogers STEM Scholarship"
 usc_title: 38
 usc_section: "3320"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3320"
-generated_at: "2026-03-30T02:55:53.504Z"
+generated_at: "2026-11-23T21:26:16.738Z"
+status: "active"
 ---
 
 # § 3320. Edith Nourse Rogers STEM Scholarship
@@ -53,3 +54,23 @@ generated_at: "2026-03-30T02:55:53.504Z"
   - **(3)** $100,000,000 for fiscal year 2023 and each subsequent fiscal year.
 - **(g)** If the Secretary identifies a new subject or field pursuant to subsection (b)(4)(A)(i)(XI) as meeting a national need, the Secretary shall submit to Congress notice of such identification at least 90 days before conferring eligibility on any individual for purposes of this section on the basis of such identification, including any analysis of labor market supply and demand used in identifying the new subject or field, as applicable.
 - **(h)** In this section, the term “covered clinical training program” means any clinical training required by a health care professional to be licensed to practice in a State or locality.
+
+In General
+
+Eligibility
+
+Priority
+
+Amount of Assistance
+
+Prohibition on Transfer
+
+Maximum Amount of Total Assistance
+
+Congressional Notice
+
+Covered Clinical Training Program Defined
+
+## Source Credit
+
+*(Added [Pub. L. 115–48, title I, § 111(a)](https://www.govinfo.gov/link/plaw/115/public/48), Aug. 16, 2017, [131 Stat. 982](https://www.govinfo.gov/link/statute/131/982); amended [Pub. L. 116–36, § 1](https://www.govinfo.gov/link/plaw/116/public/36), July 31, 2019, [133 Stat. 1048](https://www.govinfo.gov/link/statute/133/1048); [Pub. L. 116–315, title I](https://www.govinfo.gov/link/plaw/116/public/315), §§ 1001, 1002(b)(4), Jan. 5, 2021, [134 Stat. 4937](https://www.govinfo.gov/link/statute/134/4937), 4938.)*

@@ -3,9 +3,10 @@ title: "Section 741 - Vocational rehabilitation services grants"
 usc_title: 29
 usc_section: "741"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 741"
-generated_at: "2026-03-30T02:55:18.693Z"
+generated_at: "2026-11-23T21:26:02.205Z"
+status: "active"
 ---
 
 # § 741. Vocational rehabilitation services grants
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:18.693Z"
   - **(3)** The Commissioner shall conduct a survey of the governing bodies regarding training and technical assistance needs in order to determine funding priorities for such grants, contracts, or cooperative agreements.
   - **(4)** To be eligible to receive a grant or enter into a contract or cooperative agreement under this section, such an entity shall submit an application to the Commissioner at such time, in such manner, and containing a proposal to provide such training and technical assistance, and containing such additional information as the Commissioner may require. The Commissioner shall provide for peer review of applications by panels that include persons who are not government employees and who have experience in the operation of vocational rehabilitation services programs under this section.
 - **(d)** The term “reservation” includes Indian reservations, public domain Indian allotments, former Indian reservations in Oklahoma, and land held by incorporated Native groups, regional corporations, and village corporations under the provisions of the Alaska Native Claims Settlement Act [ 43 U.S.C. 1601 et seq.].
+
+## Source Credit
+
+*([Pub. L. 93–112, title I, § 121](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 105–220, title IV, § 404](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1166](https://www.govinfo.gov/link/statute/112/1166); amended [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(10)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–413; [Pub. L. 113–128, title IV, § 423](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1659](https://www.govinfo.gov/link/statute/128/1659).)*

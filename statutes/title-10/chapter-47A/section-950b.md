@@ -3,9 +3,10 @@ title: "Section 950b - Review by the convening authority"
 usc_title: 10
 usc_section: "950b"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 950b"
-generated_at: "2026-03-30T02:53:38.090Z"
+generated_at: "2026-11-23T21:25:32.363Z"
+status: "active"
 ---
 
 # § 950b. Review by the convening authority
@@ -38,3 +39,15 @@ generated_at: "2026-03-30T02:53:38.090Z"
       - **(ii)** reconsider a finding of not guilty of any charge, unless there has been a finding of guilty under a specification laid under that charge, which sufficiently alleges a violation; or
       - **(iii)** increase the severity of the sentence unless the sentence prescribed for the offense is mandatory.
   - **(3)** A rehearing may be ordered by the convening authority if the convening authority disapproves the findings and sentence and states the reasons for disapproval of the findings. If the convening authority disapproves the finding and sentence and does not order a rehearing, the convening authority shall dismiss the charges. A rehearing as to the findings may not be ordered by the convening authority when there is a lack of sufficient evidence in the record to support the findings. A rehearing as to the sentence may be ordered by the convening authority if the convening authority disapproves the sentence.
+
+Notice to Convening Authority of Findings and Sentence
+
+Submittal of Matters by Accused to Convening Authority
+
+Action by Convening Authority
+
+Order of Revision or Rehearing
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title XVIII, § 1802](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2599](https://www.govinfo.gov/link/statute/123/2599); amended [Pub. L. 113–291, div. A, title X, § 1071(f)(10)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3510](https://www.govinfo.gov/link/statute/128/3510).)*

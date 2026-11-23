@@ -3,12 +3,17 @@ title: "Section 1467 - Investment of assets of Fund"
 usc_title: 10
 usc_section: "1467"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1467"
-generated_at: "2026-03-30T02:53:38.125Z"
+generated_at: "2026-11-23T21:25:32.487Z"
+status: "active"
 ---
 
 # § 1467. Investment of assets of Fund
 
 The Secretary of the Treasury shall invest such portion of the Fund as is not in the judgment of the Secretary of Defense required to meet current withdrawals. Such investments shall be in public debt securities with maturities suitable to the needs of the Fund, as determined by the Secretary of Defense, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. The income on such investments shall be credited to and form a part of the Fund.
 
+
+## Source Credit
+
+*(Added [Pub. L. 98–94, title IX, § 925(a)(1)](https://www.govinfo.gov/link/plaw/98/public/94), Sept. 24, 1983, [97 Stat. 648](https://www.govinfo.gov/link/statute/97/648).)*

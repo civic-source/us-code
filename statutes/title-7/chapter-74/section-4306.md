@@ -3,9 +3,10 @@ title: "Section 4306 - Required terms in orders"
 usc_title: 7
 usc_section: "4306"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 4306"
-generated_at: "2026-03-30T02:53:42.406Z"
+generated_at: "2026-11-23T21:25:28.344Z"
+status: "active"
 ---
 
 # § 4306. Required terms in orders
@@ -26,3 +27,7 @@ Orders issued pursuant to this chapter shall contain the following terms and con
   - **(9)** Providing that the Floraboard may convene, from time to time, advisory panels drawn from the production, importation, wholesale, and retail segments of the flower and plant industry to assist in the development of marketing and research programs.
   - **(10)** Providing that no funds collected or received by the Floraboard shall in any manner be used for the purpose of influencing governmental policy or action, except as provided by paragraph (1)(D) of this section.
   - **(11)** Providing that Floraboard members and members of any advisory panels convened shall serve without compensation but shall be reimbursed for their reasonable expenses incurred in performing their duties as members of the Floraboard or advisory panel.
+
+## Source Credit
+
+*([Pub. L. 97–98, title XVII, § 1707](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1350](https://www.govinfo.gov/link/statute/95/1350).)*

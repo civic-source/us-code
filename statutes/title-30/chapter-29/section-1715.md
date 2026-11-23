@@ -3,12 +3,17 @@ title: "Section 1715 - Explanation of payments"
 usc_title: 30
 usc_section: "1715"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1715"
-generated_at: "2026-03-30T02:55:29.408Z"
+generated_at: "2026-11-23T21:26:00.445Z"
+status: "active"
 ---
 
 # § 1715. Explanation of payments
 
 - **(a)** When any payment (including amounts due from receipt of any royalty, bonus, interest charge, fine, or rental) is made by the United States to a State with respect to any oil or gas lease on Federal lands or is deposited in the appropriate Indian account on behalf of an Indian tribe or Indian allottee with respect to any oil and gas lease on Indian lands, there shall be provided, together with such payment, a description of the type of payment being made, the period covered by such payment, the source of such payment, production amounts, the royalty rate, unit value and such other information as may be agreed upon by the Secretary and the recipient State, Indian tribe, or Indian allottee.
 - **(b)** This section shall take effect with respect to payments made after October 1, 1983 , unless the Secretary, by rule, prescribes an earlier effective date.
+
+## Source Credit
+
+*([Pub. L. 97–451, title I, § 105](https://www.govinfo.gov/link/plaw/97/public/451), Jan. 12, 1983, [96 Stat. 2452](https://www.govinfo.gov/link/statute/96/2452).)*

@@ -3,9 +3,10 @@ title: "Section 2709 - Counterintelligence access to telephone toll and transact
 usc_title: 18
 usc_section: "2709"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2709"
-generated_at: "2026-03-30T02:54:16.508Z"
+generated_at: "2026-11-23T21:25:44.167Z"
+status: "active"
 ---
 
 # § 2709. Counterintelligence access to telephone toll and transactional records
@@ -36,3 +37,43 @@ generated_at: "2026-03-30T02:54:16.508Z"
 - **(e)** The Federal Bureau of Investigation may disseminate information and records obtained under this section only as provided in guidelines approved by the Attorney General for foreign intelligence collection and foreign counterintelligence investigations conducted by the Federal Bureau of Investigation, and, with respect to dissemination to an agency of the United States, only if such information is clearly relevant to the authorized responsibilities of such agency.
 - **(f)** On a semiannual basis the Director of the Federal Bureau of Investigation shall fully inform the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, and the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate, concerning all requests made under subsection (b) of this section.
 - **(g)** A library (as that term is defined in section 213(1) of the Library Services and Technology Act ( 20 U.S.C. 9122(1) ), the services of which include access to the Internet, books, journals, magazines, newspapers, or other similar forms of communication in print or digitally by patrons for their use, review, examination, or circulation, is not a wire or electronic communication service provider for purposes of this section, unless the library is providing the services defined in section 2510(15) (“electronic communication service”) of this title.
+
+Duty to Provide
+
+Required Certification
+
+Prohibition of Certain Disclosure.—
+
+Prohibition.—
+
+In general
+
+Certification
+
+Exception.—
+
+In general
+
+Application
+
+Notice
+
+Identification of disclosure recipients
+
+Judicial Review.—
+
+In general
+
+Notice
+
+Dissemination by Bureau
+
+Requirement That Certain Congressional Bodies Be Informed
+
+Libraries
+
+Required Certification
+
+## Source Credit
+
+*(Added [Pub. L. 99–508, title II, § 201[(a)]](https://www.govinfo.gov/link/plaw/99/public/508), Oct. 21, 1986, [100 Stat. 1867](https://www.govinfo.gov/link/statute/100/1867); amended [Pub. L. 103–142](https://www.govinfo.gov/link/plaw/103/public/142), Nov. 17, 1993, [107 Stat. 1491](https://www.govinfo.gov/link/statute/107/1491); [Pub. L. 104–293, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/104/public/293), Oct. 11, 1996, [110 Stat. 3469](https://www.govinfo.gov/link/statute/110/3469); [Pub. L. 107–56, title V, § 505(a)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 365](https://www.govinfo.gov/link/statute/115/365); [Pub. L. 109–177, title I, § 116(a)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 213](https://www.govinfo.gov/link/statute/120/213); [Pub. L. 109–178](https://www.govinfo.gov/link/plaw/109/public/178), §§ 4(b), 5, Mar. 9, 2006, [120 Stat. 280](https://www.govinfo.gov/link/statute/120/280), 281; [Pub. L. 114–23, title V](https://www.govinfo.gov/link/plaw/114/public/23), §§ 501(a), 502(a), 503(a), June 2, 2015, [129 Stat. 282](https://www.govinfo.gov/link/statute/129/282), 283, 289.)*

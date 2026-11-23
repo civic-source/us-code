@@ -3,9 +3,10 @@ title: "Section 5853 - Nonproliferation and disarmament activities in independen
 usc_title: 22
 usc_section: "5853"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5853"
-generated_at: "2026-03-30T02:55:05.420Z"
+generated_at: "2026-11-23T21:25:58.670Z"
+status: "active"
 ---
 
 # § 5853. Nonproliferation and disarmament activities in independent states
@@ -23,3 +24,15 @@ generated_at: "2026-03-30T02:55:05.420Z"
 - **(c)**
   - **(1)** In recognition of the direct contributions to the national security interests of the United States of the programs and activities authorized by subsection (a), the President is authorized to make available for use in carrying out those programs and activities, in addition to amounts otherwise available for such purposes, funds made available pursuant to sections 108 and 109 of Public Law 102–229 or under the amendments made by section 506(a) of this Act.
   - **(2)** Funds described in paragraph (1) may not be obligated for programs and activities under subsection (a) unless the Director of the Office of Management and Budget has determined that expenditures during fiscal year 1993 pursuant to such obligation shall be counted against the defense category of the discretionary spending limits for that fiscal year (as defined in section 665(a)(2) 1 1 See References in Text note below. of title 2) for purposes of part C of the Balanced Budget and Emergency Deficit Control Act of 1985 [ 2 U.S.C. 900 et seq.].
+
+Authorization
+
+Availability of Funds
+
+In General
+
+Activities Supported
+
+## Source Credit
+
+*([Pub. L. 102–511, title V, § 503](https://www.govinfo.gov/link/plaw/102/public/511), Oct. 24, 1992, [106 Stat. 3338](https://www.govinfo.gov/link/statute/106/3338).)*

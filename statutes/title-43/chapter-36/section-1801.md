@@ -3,9 +3,10 @@ title: "Section 1801 - Congressional findings"
 usc_title: 43
 usc_section: "1801"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1801"
-generated_at: "2026-03-30T02:55:57.494Z"
+generated_at: "2026-11-23T21:26:19.886Z"
+status: "active"
 ---
 
 # § 1801. Congressional findings
@@ -27,3 +28,7 @@ The Congress finds and declares that—
   - **(13)** because of the possible conflicts between exploitation of the oil and gas resources in the Outer Continental Shelf and other uses of the marine environment, including fish and shellfish growth and recovery, and recreational activity, the Federal Government must assume responsibility for the minimization or elimination of any conflict associated with such exploitation;
   - **(14)** the oil and gas resources of the Outer Continental Shelf are limited, nonrenewable resources which must be developed in a manner which takes into consideration the Nation’s long-range energy needs and also assures adequate protection of the renewable resources of the Outer Continental Shelf which are a continuing and increasingly important source of food and protein to the Nation and the world; and
   - **(15)** funds must be made available to pay for damage to commercial fishing vessels and gear resulting from activities involving oil and gas exploration, development, and production on the Outer Continental Shelf.
+
+## Source Credit
+
+*([Pub. L. 95–372, title I, § 101](https://www.govinfo.gov/link/plaw/95/public/372), Sept. 18, 1978, [92 Stat. 630](https://www.govinfo.gov/link/statute/92/630).)*

@@ -3,9 +3,10 @@ title: "Section 198b - Report on the Secretary’s jurisdiction, power, duties, 
 usc_title: 7
 usc_section: "198b"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 198b"
-generated_at: "2026-03-30T02:53:42.277Z"
+generated_at: "2026-11-23T21:25:27.929Z"
+status: "active"
 ---
 
 # § 198b. Report on the Secretary’s jurisdiction, power, duties, and authorities
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:42.277Z"
     - **(B)** the pricing of swine paid to producers by packers and the pricing of products in the pork and pork product merchandising chain;
   - **(5)** the adequacy of the authority of the Secretary to prevent a packer from unjustly or arbitrarily refusing to offer a producer, or disqualifying a producer from eligibility for, a particular contract or type of contract for the purchase of swine; and
   - **(6)** the ability of the Secretary to cooperate with and enhance the enforcement of actions initiated by other Federal departments and agencies, or Federal independent agencies, to protect trade and commerce in the pork and pork product industries against unlawful restraints and monopolies.
+
+## Source Credit
+
+*(Aug. 15, 1921, ch. 64, title II, § 223, as added [Pub. L. 106–78, title IX, § 934(2)](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1209](https://www.govinfo.gov/link/statute/113/1209).)*

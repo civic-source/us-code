@@ -3,12 +3,17 @@ title: "Section 2346 - Occupancy by existing tenants"
 usc_title: 42
 usc_section: "2346"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2346"
-generated_at: "2026-03-30T02:56:11.164Z"
+generated_at: "2026-11-23T21:26:32.416Z"
+status: "active"
 ---
 
 # § 2346. Occupancy by existing tenants
 
 Upon application by any occupant of a single or duplex house made within the period of the first priority when such house is first offered for sale under this chapter, the Commission shall execute a lease to such occupant for a period not to exceed one year from the date on which such property is first offered for sale, or for such period as he remains a project-connected person, whichever is shorter. In selling any house with respect to which a lease executed under this section is in effect, the Commission may provide that the purchaser shall assume any or all obligations of the lessor, but the Commission shall guarantee the lessee’s performance under the terms of the lease.
 
+
+## Source Credit
+
+*(Aug. 4, 1955, ch. 543, ch. 5, § 56, [69 Stat. 478](https://www.govinfo.gov/link/statute/69/478).)*

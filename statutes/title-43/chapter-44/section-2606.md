@@ -3,9 +3,10 @@ title: "Section 2606 - Oregon and California Railroad revested lands and Coos Ba
 usc_title: 43
 usc_section: "2606"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 2606"
-generated_at: "2026-03-30T02:55:57.498Z"
+generated_at: "2026-11-23T21:26:19.898Z"
+status: "active"
 ---
 
 # § 2606. Oregon and California Railroad revested lands and Coos Bay Wagon Road reconveyed lands
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:57.498Z"
 - **(b)** Nothing in this section affects any applicable requirement of the Secretary of the Interior to consult with the head of any other Federal department or agency—
   - **(1)** regarding a project carried out, or proposed to be carried out, pursuant to Public Law 93–205 ( 16 U.S.C. 1531 et seq.), including any requirement to consult regarding the consideration of the cumulative impacts of completed, ongoing, and planned projects; or
   - **(2)** with respect to the development of a new land use plan or the revision of or other significant change to an existing land use plan.
+
+## Source Credit
+
+*([Pub. L. 115–141, div. O, title II, § 209](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1067](https://www.govinfo.gov/link/statute/132/1067).)*

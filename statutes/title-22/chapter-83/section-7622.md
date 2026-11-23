@@ -3,9 +3,10 @@ title: "Section 7622 - Participation in the Global Fund to Fight AIDS, Tuberculo
 usc_title: 22
 usc_section: "7622"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7622"
-generated_at: "2026-03-30T02:55:05.442Z"
+generated_at: "2026-11-23T21:25:58.721Z"
+status: "active"
 ---
 
 # § 7622. Participation in the Global Fund to Fight AIDS, Tuberculosis and Malaria
@@ -122,3 +123,7 @@ generated_at: "2026-03-30T02:55:05.442Z"
   - **(2)** encourage private contributions intended for use by the Global Fund by—
     - **(A)** establishing and operating an Internet website, and publishing information about the website; and
     - **(B)** making public service announcements on radio and television.
+
+## Source Credit
+
+*([Pub. L. 108–25, title II, § 202](https://www.govinfo.gov/link/plaw/108/public/25), May 27, 2003, [117 Stat. 724](https://www.govinfo.gov/link/statute/117/724); [Pub. L. 108–199, div. D, title V, § 595(1)](https://www.govinfo.gov/link/plaw/108/public/199), (2), Jan. 23, 2004, [118 Stat. 209](https://www.govinfo.gov/link/statute/118/209); [Pub. L. 110–293, title II, § 202](https://www.govinfo.gov/link/plaw/110/public/293), July 30, 2008, [122 Stat. 2936](https://www.govinfo.gov/link/statute/122/2936); [Pub. L. 113–56, § 4](https://www.govinfo.gov/link/plaw/113/public/56), Dec. 2, 2013, [127 Stat. 649](https://www.govinfo.gov/link/statute/127/649); [Pub. L. 115–305, § 3](https://www.govinfo.gov/link/plaw/115/public/305), Dec. 11, 2018, [132 Stat. 4402](https://www.govinfo.gov/link/statute/132/4402); [Pub. L. 118–47, div. F, title VII, § 7072(b)](https://www.govinfo.gov/link/plaw/118/public/47), Mar. 23, 2024, [138 Stat. 853](https://www.govinfo.gov/link/statute/138/853).)*

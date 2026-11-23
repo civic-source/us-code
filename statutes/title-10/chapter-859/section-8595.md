@@ -3,9 +3,10 @@ title: "Section 8595 - United States Naval Community College: establishment and 
 usc_title: 10
 usc_section: "8595"
 chapter: 859
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 8595"
-generated_at: "2026-03-30T02:53:38.246Z"
+generated_at: "2026-11-23T21:25:32.931Z"
+status: "active"
 ---
 
 # § 8595. United States Naval Community College: establishment and degree granting authority
@@ -38,3 +39,25 @@ generated_at: "2026-03-30T02:53:38.246Z"
 - **(d)**
   - **(1)** The Secretary of the Navy may employ as many civilians as professors, instructors, and lecturers at the United States Naval Community College as the Secretary considers necessary.
   - **(2)** The compensation of persons employed under this subsection shall be prescribed by the Secretary of the Navy.
+
+Establishment and Function
+
+Individuals Eligible for Programs
+
+Degree and Credential Granting Authority.—
+
+In general
+
+Limitation
+
+Congressional notification requirements.—
+
+Civilian Faculty Members.—
+
+Authority of secretary
+
+Compensation
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. A, title V, § 557(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1739](https://www.govinfo.gov/link/statute/135/1739).)*

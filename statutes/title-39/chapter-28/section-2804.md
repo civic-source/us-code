@@ -3,9 +3,10 @@ title: "Section 2804 - Program performance reports"
 usc_title: 39
 usc_section: "2804"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 2804"
-generated_at: "2026-03-30T02:55:43.691Z"
+generated_at: "2026-11-23T21:26:12.777Z"
+status: "active"
 ---
 
 # § 2804. Program performance reports
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:43.691Z"
     - **(B)** those plans and schedules for achieving the established performance goal; and
     - **(C)** if the performance goal is impractical or infeasible, why that is the case and what action is recommended; and
   - **(4)** include the summary findings of those program evaluations completed during the fiscal year covered by the report.
+
+## Source Credit
+
+*(Added [Pub. L. 103–62, § 7](https://www.govinfo.gov/link/plaw/103/public/62), Aug. 3, 1993, [107 Stat. 294](https://www.govinfo.gov/link/statute/107/294); amended [Pub. L. 109–435, title X, § 1010(d)(2)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3261](https://www.govinfo.gov/link/statute/120/3261).)*

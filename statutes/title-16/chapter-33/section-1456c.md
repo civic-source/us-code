@@ -3,9 +3,10 @@ title: "Section 1456c - Technical assistance"
 usc_title: 16
 usc_section: "1456c"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1456c"
-generated_at: "2026-03-30T02:54:22.972Z"
+generated_at: "2026-11-23T21:25:51.888Z"
+status: "active"
 ---
 
 # § 1456c. Technical assistance
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:22.972Z"
   - **(1)** The Secretary shall provide for the coordination of technical assistance, studies, and research activities under this section with any other such activities that are conducted by or subject to the authority of the Secretary.
   - **(2)** The Secretary shall make the results of research and studies conducted pursuant to this section available to coastal states in the form of technical assistance publications, workshops, or other means appropriate.
   - **(3)** The Secretary shall consult with coastal states on a regular basis regarding the development and implementation of the program established by this section.
+
+## Source Credit
+
+*([Pub. L. 89–454, title III, § 310](https://www.govinfo.gov/link/plaw/89/public/454), as added [Pub. L. 101–508, title VI, § 6211](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–311](https://www.govinfo.gov/link/statute/104/1388).)*

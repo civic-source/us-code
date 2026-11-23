@@ -3,9 +3,10 @@ title: "Section 1703 - Broadband DATA maps"
 usc_title: 47
 usc_section: "1703"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1703"
-generated_at: "2026-03-30T02:56:24.538Z"
+generated_at: "2026-11-23T21:26:36.119Z"
+status: "active"
 ---
 
 # § 1703. Broadband DATA maps
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:24.538Z"
 - **(c)** The Commission—
   - **(1)** shall provide notice to broadband providers not later than 60 days before the initial deadline for submission of data under section 802(a)(1)(A) of the Communications Act of 1934 ( 47 U.S.C. 642(a)(1)(A) ); and
   - **(2)** notwithstanding any prior decision of the Commission to the contrary, shall not be required to provide notice not later than 6 months before the initial deadline described in paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 117–58, div. F, title I, § 60103](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1205](https://www.govinfo.gov/link/statute/135/1205).)*

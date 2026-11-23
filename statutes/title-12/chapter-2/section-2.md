@@ -3,9 +3,10 @@ title: "Section 2 - Expedited procedures for certain reorganizations"
 usc_title: 12
 usc_section: "2"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2"
-generated_at: "2026-03-30T02:53:53.375Z"
+generated_at: "2026-11-23T21:25:36.775Z"
+status: "active"
 ---
 
 # § 215a–2. Expedited procedures for certain reorganizations
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:53.375Z"
 - **(c)** If, pursuant to this section, a reorganization plan has been approved by the shareholders and the Comptroller, any shareholder of the bank who has voted against the reorganization at the meeting referred to in subsection (b)(4), or has given notice in writing at or prior to that meeting to the presiding officer that the shareholder dissents from the reorganization plan, shall be entitled to receive the value of his or her shares, as provided by section 215a of this title for the merger of a national bank.
 - **(d)** The corporate existence of a national bank that reorganizes in accordance with this section shall not be deemed to have been affected in any way by reason of such reorganization.
 - **(e)** This section does not affect in any way the applicability of the Bank Holding Company Act of 1956 [ 12 U.S.C. 1841 et seq.] to a transaction described in subsection (a).
+
+## Source Credit
+
+*(Nov. 7, 1918, ch. 209, § 5, as added [Pub. L. 106–569, title XII, § 1204(2)](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 3033](https://www.govinfo.gov/link/statute/114/3033).)*

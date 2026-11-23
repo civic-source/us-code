@@ -3,12 +3,17 @@ title: "Section 11 - Acceptance and development of fish hatchery in South Caroli
 usc_title: 16
 usc_section: "11"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 11"
-generated_at: "2026-03-30T02:54:22.906Z"
+generated_at: "2026-11-23T21:25:51.747Z"
+status: "active"
 ---
 
 # § 760–11. Acceptance and development of fish hatchery in South Carolina
 
 The Secretary of the Interior is authorized, in his discretion and upon such terms and conditions as he shall consider to be in the public interest, to accept by donation on behalf of the United States, title to the Orangeburg County, South Carolina, fish hatchery, together with the right to take adequate water from Orangeburg County Lake therefor. The Secretary is authorized to rehabilitate and expand the rearing ponds and other hatchery facilities, to purchase lands adjoining such station in connection with the rehabilitation and expansion of such facilities, and to equip, operate, and maintain said fish hatchery.
 
+
+## Source Credit
+
+*([Pub. L. 86–572, § 1](https://www.govinfo.gov/link/plaw/86/public/572), July 5, 1960, [74 Stat. 311](https://www.govinfo.gov/link/statute/74/311).)*

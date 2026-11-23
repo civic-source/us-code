@@ -3,9 +3,10 @@ title: "Section 837b - Contract terms and conditions for use of electric energy 
 usc_title: 16
 usc_section: "837b"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 837b"
-generated_at: "2026-03-30T02:54:22.928Z"
+generated_at: "2026-11-23T21:25:51.784Z"
+status: "active"
 ---
 
 # § 837b. Contract terms and conditions for use of electric energy outside Pacific Northwest
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:22.928Z"
 - **(b)** Electric energy generated at Federal hydroelectric plants in the Pacific Northwest which can be conserved, for which there is no immediate demand in the Pacific Northwest at any established rate, but for which the Secretary determines there may be a demand in meeting the future requirements of the Pacific Northwest, may be delivered for use outside that region only on a provisional basis under contracts providing that if the Secretary determines at a subsequent time that, by virtue of prior deliveries under such contract, the Secretary is or will be unable to meet the energy requirements of any Pacific Northwest customer, the purchaser will return the full amount of energy delivered to him, or such portion or portions thereof as may be required, at such time or times as may be specified by the Secretary, except that the Secretary shall not require return during the purchaser’s daily peak periods. The Secretary shall require the return of the energy provisionally delivered hereunder, to such extent and at such times, as may be necessary to meet demands at any established rate for use within the Pacific Northwest.
 - **(c)** Any contract for the disposition of surplus peaking capacity shall provide that (1) the Secretary may terminate the contract upon notice not in excess of sixty months, and (2) the purchaser shall advance or return the energy necessary to supply the peaking capacity, except that the Secretary shall not require such advance or return during the purchaser’s daily peak periods. The Secretary may contract for the sale of such energy to the purchaser, in lieu of its return, under the conditions prescribed in subsection (a) of this section.
 - **(d)** The Secretary, in making any determination of the energy requirements of any Pacific Northwest customer which is a non-Federal utility having hydroelectric generating facilities, shall exclude any amounts of hydroelectric energy generated in the Pacific Northwest and disposed of outside the Pacific Northwest by the utility which, through reasonable measures, could have been conserved or otherwise kept available for the utility’s own needs in the Pacific Northwest. The Secretary may sell the utility as a replacement therefor only what would otherwise be surplus energy.
+
+## Source Credit
+
+*([Pub. L. 88–552, § 3](https://www.govinfo.gov/link/plaw/88/public/552), Aug. 31, 1964, [78 Stat. 756](https://www.govinfo.gov/link/statute/78/756).)*

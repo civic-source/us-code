@@ -3,9 +3,10 @@ title: "Section 527 - Acquisition of interstate bridges by public agencies; amou
 usc_title: 33
 usc_section: "527"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 527"
-generated_at: "2026-03-30T02:55:41.060Z"
+generated_at: "2026-11-23T21:26:11.312Z"
+status: "active"
 ---
 
 # § 527. Acquisition of interstate bridges by public agencies; amount of damages
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:41.060Z"
   - **(3)** actual financing and promotion costs, not to exceed 10 per centum of the sum of the cost of constructing the bridge and its approaches and acquiring such interests in real property; and
   - **(4)** actual expenditures for necessary improvements.
 
+
+## Source Credit
+
+*(Aug. 2, 1946, ch. 753, title V, § 504, [60 Stat. 848](https://www.govinfo.gov/link/statute/60/848); [Pub. L. 97–449, § 2(d)(1)](https://www.govinfo.gov/link/plaw/97/public/449), Jan. 12, 1983, [96 Stat. 2440](https://www.govinfo.gov/link/statute/96/2440).)*

@@ -3,9 +3,10 @@ title: "Section 3123 - Local plan"
 usc_title: 29
 usc_section: "3123"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3123"
-generated_at: "2026-03-30T02:55:18.750Z"
+generated_at: "2026-11-23T21:26:02.327Z"
+status: "active"
 ---
 
 # § 3123. Local plan
@@ -61,3 +62,7 @@ generated_at: "2026-03-30T02:55:18.750Z"
   - **(1)** deficiencies in activities carried out under this part or part B have been identified, through audits conducted under section 3244 of this title or otherwise, and the local area has not made acceptable progress in implementing corrective measures to address the deficiencies;
   - **(2)** the plan does not comply with the applicable provisions of this Act; or
   - **(3)** the plan does not align with the State plan, including failing to provide for alignment of the core programs to support the strategy identified in the State plan in accordance with section 3112(b)(1)(E) of this title .
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 108](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1466](https://www.govinfo.gov/link/statute/128/1466).)*

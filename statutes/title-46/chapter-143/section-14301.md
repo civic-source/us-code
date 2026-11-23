@@ -3,9 +3,10 @@ title: "Section 14301 - Application"
 usc_title: 46
 usc_section: "14301"
 chapter: 143
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 14301"
-generated_at: "2026-03-30T02:56:15.560Z"
+generated_at: "2026-11-23T21:26:37.147Z"
+status: "active"
 ---
 
 # § 14301. Application
@@ -21,3 +22,9 @@ generated_at: "2026-03-30T02:56:15.560Z"
   - **(5)** a barge of United States registry or nationality, or a barge operated under the authority of the United States (except a barge that engages on a foreign voyage) unless the owner requests.
 - **(c)** An existing vessel that has not undergone a change that the Secretary finds substantially affects the vessel’s gross tonnage (or a vessel to which IMO Resolutions A.494 (XII) of November 19, 1981 , A.540 (XIII) of November 17, 1983 , or A.541 (XIII) of November 17, 1983 , apply) may retain its tonnages existing on July 18, 1994 , for the application of relevant requirements under international agreements (except the Convention) and other laws of the United States. However, if the vessel undergoes a change substantially affecting its tonnage after July 18, 1994 , the vessel shall be remeasured under this chapter.
 - **(d)** This chapter does not affect an international agreement to which the United States Government is a party that is not in conflict with the Convention or the application of IMO Resolutions A.494 (XII) of November 19, 1981 , A.540 (XIII) of November 17, 1983 , and A.541 (XIII) of November 17, 1983 .
+
+“The Secretary of Transportation shall—
+
+## Source Credit
+
+*([Pub. L. 99–509, title V, § 5101(3)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1920](https://www.govinfo.gov/link/statute/100/1920); [Pub. L. 101–595, title III, § 305](https://www.govinfo.gov/link/plaw/101/public/595), Nov. 16, 1990, [104 Stat. 2985](https://www.govinfo.gov/link/statute/104/2985); [Pub. L. 111–281, title III, § 303(c)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2924](https://www.govinfo.gov/link/statute/124/2924).)*

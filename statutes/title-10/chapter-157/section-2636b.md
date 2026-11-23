@@ -3,9 +3,10 @@ title: "Section 2636b - Responsibilities for oversight of personal property tran
 usc_title: 10
 usc_section: "2636b"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2636b"
-generated_at: "2026-03-30T02:53:38.166Z"
+generated_at: "2026-11-23T21:25:32.638Z"
+status: "active"
 ---
 
 # § 2636b. Responsibilities for oversight of personal property transportation
@@ -17,3 +18,17 @@ generated_at: "2026-03-30T02:53:38.166Z"
   - **(2)** Overseeing the adjudication of any claim filed with respect to the defense personal property program (including the adjudication of such claims under section 2636(a) of this title or section 3721 of title 31 ) and any other matter relating to such program.
 - **(b)** The responsibilities under subsection (a) may not be assigned to any combatant command or component thereof.
 - **(c)** In this section, the term “defense personal property program” means the program of the Department of Defense for managing the shipment of the baggage and household effects for members of the armed forces or civilian employees of the Department, or any such successor program.
+
+Responsibilities
+
+Exclusion
+
+Defense Personal Property Program Defined
+
+Briefing
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title III, § 336(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 818](https://www.govinfo.gov/link/statute/139/818).)*

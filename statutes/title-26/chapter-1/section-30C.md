@@ -3,9 +3,10 @@ title: "Section 30C - Alternative fuel vehicle refueling property credit"
 usc_title: 26
 usc_section: "30C"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 30C"
-generated_at: "2026-03-30T02:55:27.590Z"
+generated_at: "2026-11-23T21:26:05.896Z"
+status: "active"
 ---
 
 # § 30C. Alternative fuel vehicle refueling property credit
@@ -68,3 +69,21 @@ generated_at: "2026-03-30T02:55:27.590Z"
   - **(4)** The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
 - **(h)** The Secretary shall prescribe such regulations as necessary to carry out the provisions of this section.
 - **(i)** This section shall not apply to any property placed in service after June 30, 2026 .
+
+In general
+
+Residential property
+
+In general
+
+Extension
+
+In general
+
+Nonapplication of exemption for off-highway business use
+
+Amendment made by the safetea–lu
+
+## Source Credit
+
+*(Added [Pub. L. 109–58, title XIII, § 1342(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1049](https://www.govinfo.gov/link/statute/119/1049); amended [Pub. L. 109–135, title IV](https://www.govinfo.gov/link/plaw/109/public/135), §§ 402(k), 412(d), Dec. 21, 2005, [119 Stat. 2615](https://www.govinfo.gov/link/statute/119/2615), 2636; [Pub. L. 110–172, § 6(b)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2479](https://www.govinfo.gov/link/statute/121/2479); [Pub. L. 110–343, div. B, title II, § 207(a)](https://www.govinfo.gov/link/plaw/110/public/343), (b), Oct. 3, 2008, [122 Stat. 3839](https://www.govinfo.gov/link/statute/122/3839); [Pub. L. 111–5, div. B, title I](https://www.govinfo.gov/link/plaw/111/public/5), §§ 1123(a), 1142(b)(3), 1144(b)(2), Feb. 17, 2009, [123 Stat. 325](https://www.govinfo.gov/link/statute/123/325), 331, 332; [Pub. L. 111–312, title VII, § 711(a)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3315](https://www.govinfo.gov/link/statute/124/3315); [Pub. L. 112–240, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2337](https://www.govinfo.gov/link/statute/126/2337); [Pub. L. 113–295, div. A, title I, § 161(a)](https://www.govinfo.gov/link/plaw/113/public/295), title II, §§ 218(b), 221(a)(34)(B), Dec. 19, 2014, [128 Stat. 4023](https://www.govinfo.gov/link/statute/128/4023), 4035, 4042; [Pub. L. 114–113, div. Q, title I, § 182(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3072](https://www.govinfo.gov/link/statute/129/3072); [Pub. L. 115–123, div. D, title I, § 40404(a)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 148](https://www.govinfo.gov/link/statute/132/148); [Pub. L. 115–141, div. U, title IV, § 401(b)(3)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1201](https://www.govinfo.gov/link/statute/132/1201); [Pub. L. 116–94, div. Q, title I, § 125(a)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3231](https://www.govinfo.gov/link/statute/133/3231); [Pub. L. 116–260, div. EE, title I, § 143(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3054](https://www.govinfo.gov/link/statute/134/3054); [Pub. L. 117–169, title I](https://www.govinfo.gov/link/plaw/117/public/169), §§ 13404(a)–(e), 13704(b)(2), Aug. 16, 2022, [136 Stat. 1966–1968](https://www.govinfo.gov/link/statute/136/1966), 2002; [Pub. L. 119–21, title VII, § 70504](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 251](https://www.govinfo.gov/link/statute/139/251).)*

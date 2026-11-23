@@ -3,9 +3,10 @@ title: "Section 5513 - Review of Bureau regulations"
 usc_title: 12
 usc_section: "5513"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5513"
-generated_at: "2026-03-30T02:53:53.543Z"
+generated_at: "2026-11-23T21:25:37.278Z"
+status: "active"
 ---
 
 # § 5513. Review of Bureau regulations
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:53:53.543Z"
 - **(d)** Nothing in this section shall be construed as altering, limiting, or restricting the application of any other provision of law, except as otherwise specifically provided in this section, including chapter 5 and chapter 7 of title 5, to a regulation which is the subject of a petition filed under this section.
 - **(e)** Nothing in this section shall be construed as limiting or restricting the Bureau from engaging in a rulemaking in accordance with applicable law.
 - **(f)** The Council shall prescribe procedural rules to implement this section.
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1023](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1985](https://www.govinfo.gov/link/statute/124/1985).)*

@@ -3,9 +3,10 @@ title: "Section 3302 - Definitions"
 usc_title: 16
 usc_section: "3302"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3302"
-generated_at: "2026-03-30T02:54:23.014Z"
+generated_at: "2026-11-23T21:25:51.967Z"
+status: "active"
 ---
 
 # § 3302. Definitions
@@ -34,3 +35,7 @@ As used in this chapter—
   - **(16)** The term “treaty tribe” means any Indian tribe recognized by the United States Government, with usual and accustomed fishing grounds in the Washington or Columbia River conservation areas, whose fishing right under a treaty has been recognized by a Federal court.
   - **(17)** The term “Washington conservation area” means all salmon and steelhead habitat within the State of Washington except for the Columbia River drainage basin, and in the fishery conservation zone adjacent to the State of Washington which is subject to the jurisdiction of the United States.
   - **(18)** The term “Washington tribal coordinating body” means the organization duly authorized by the treaty tribes of the Washington conservation area to coordinate their activities for them for the purposes of this chapter.
+
+## Source Credit
+
+*([Pub. L. 96–561, title I](https://www.govinfo.gov/link/plaw/96/public/561) § 103, Dec. 22, 1980, [94 Stat. 3276](https://www.govinfo.gov/link/statute/94/3276).)*

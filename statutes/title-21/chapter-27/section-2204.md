@@ -3,9 +3,10 @@ title: "Section 2204 - Building domestic capacity"
 usc_title: 21
 usc_section: "2204"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 2204"
-generated_at: "2026-03-30T02:54:54.309Z"
+generated_at: "2026-11-23T21:25:56.299Z"
+status: "active"
 ---
 
 # § 2204. Building domestic capacity
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:54:54.309Z"
 - **(i)**
   - **(1)** Not later than 1 year after January 4, 2011 , the Secretary, acting through the Commissioner of Food and Drugs, shall conduct a study regarding the need for, and challenges associated with, development and implementation of a program that requires a unique identification number for each food facility registered with the Secretary and, as appropriate, each broker that imports food into the United States. Such study shall include an evaluation of the costs associated with development and implementation of such a system, and make recommendations about what new authorities, if any, would be necessary to develop and implement such a system.
   - **(2)** Not later than 15 months after January 4, 2011 , the Secretary shall submit to Congress a report that describes the findings of the study conducted under paragraph (1) and that includes any recommendations determined appropriate by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 111–353, title I, § 110](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3913](https://www.govinfo.gov/link/statute/124/3913).)*

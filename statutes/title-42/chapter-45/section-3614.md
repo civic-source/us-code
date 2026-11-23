@@ -3,9 +3,10 @@ title: "Section 3614 - Enforcement by Attorney General"
 usc_title: 42
 usc_section: "3614"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3614"
-generated_at: "2026-03-30T02:56:11.191Z"
+generated_at: "2026-11-23T21:26:32.587Z"
+status: "active"
 ---
 
 # § 3614. Enforcement by Attorney General
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.191Z"
       - **(ii)** in an amount not exceeding $100,000, for any subsequent violation.
   - **(2)** In a civil action under this section, the court, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney’s fee and costs. The United States shall be liable for such fees and costs to the extent provided by section 2412 of title 28 .
 - **(e)** Upon timely application, any person may intervene in a civil action commenced by the Attorney General under subsection (a) or (b) which involves an alleged discriminatory housing practice with respect to which such person is an aggrieved person or a conciliation agreement to which such person is a party. The court may grant such appropriate relief to any such intervening party as is authorized to be granted to a plaintiff in a civil action under section 3613 of this title .
+
+## Source Credit
+
+*([Pub. L. 90–284, title VIII, § 814](https://www.govinfo.gov/link/plaw/90/public/284), as added [Pub. L. 100–430, § 8(2)](https://www.govinfo.gov/link/plaw/100/public/430), Sept. 13, 1988, [102 Stat. 1634](https://www.govinfo.gov/link/statute/102/1634).)*

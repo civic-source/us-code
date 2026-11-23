@@ -3,9 +3,10 @@ title: "Section 7002 - United States representation on joint management committe
 usc_title: 16
 usc_section: "7002"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 7002"
-generated_at: "2026-03-30T02:54:23.071Z"
+generated_at: "2026-11-23T21:25:52.060Z"
+status: "active"
 ---
 
 # § 7002. United States representation on joint management committee
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:23.071Z"
   - **(2)** Each representative appointed under paragraph (1) shall be appointed for a term not to exceed 4 years, except that, of the initial appointments, 2 representatives shall be appointed for terms of 2 years. Any individual appointed to fill a vacancy occurring prior to the expiration of the term of office of that individual’s predecessor shall be appointed for the remainder of that term. A representative may be appointed for a term of less than 4 years if such term is necessary to ensure that the term of office of not more than 2 representatives will expire in any single year. An individual appointed to serve as a representative is eligible for reappointment.
   - **(3)** Unless otherwise agreed by all of the 4 representatives, the chair shall rotate annually among the 4 members, with the order of rotation determined by lot at the first meeting.
 - **(b)** The Secretary, in consultation with the Secretary of State, may designate alternate representatives of the United States to serve on the joint management committee. An alternative representative may exercise, at any meeting of the committee, all the powers and duties of a representative in the absence of a duly designated representative for whatever reason.
+
+## Source Credit
+
+*([Pub. L. 109–479, title VI, § 603](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3645](https://www.govinfo.gov/link/statute/120/3645).)*

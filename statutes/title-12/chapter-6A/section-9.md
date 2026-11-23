@@ -3,9 +3,10 @@ title: "Section 9 - Market windows"
 usc_title: 12
 usc_section: "9"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 9"
-generated_at: "2026-03-30T02:53:53.388Z"
+generated_at: "2026-11-23T21:25:36.815Z"
+status: "active"
 ---
 
 # § 635i–9. Market windows
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:53.388Z"
     - **(B)** transparency verifies that the market window financing is being offered on terms that are more favorable than the terms and conditions that are available from private financial markets; and
   - **(2)** when the foreign government-supported institution refuses to provide sufficient transparency to permit the Bank to make a determination under paragraph (1).
 - **(c)** In this section, the term “OECD” means the Organization for Economic Cooperation and Development.
+
+## Source Credit
+
+*(July 31, 1945, ch. 341, § 15, as added [Pub. L. 107–189, § 10(b)(1)](https://www.govinfo.gov/link/plaw/107/public/189), June 14, 2002, [116 Stat. 703](https://www.govinfo.gov/link/statute/116/703).)*

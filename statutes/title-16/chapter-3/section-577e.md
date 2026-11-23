@@ -3,12 +3,17 @@ title: "Section 577e - Approval by National Forest Reservation Commission for ac
 usc_title: 16
 usc_section: "577e"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 577e"
-generated_at: "2026-03-30T02:54:22.878Z"
+generated_at: "2026-11-23T21:25:51.678Z"
+status: "active"
 ---
 
 # § 577e. Approval by National Forest Reservation Commission for acquisition of additional lands
 
 Lands shall be acquired by purchase or condemnation under the supplemental authority granted in section 577c of this title only with prior approval of the National Forest Reservation Commission created by section 4 of the Act approved March 1, 1911 , as amended, and lands so acquired shall become parts of the Superior National Forest and be subject to the provisions of said Act, as amended, and of such other laws as apply to land acquired under the provisions of said Act, as amended, except as hereinafter provided.
 
+
+## Source Credit
+
+*(June 22, 1948, ch. 593, § 3, [62 Stat. 570](https://www.govinfo.gov/link/statute/62/570).)*

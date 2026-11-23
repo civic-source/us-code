@@ -3,9 +3,10 @@ title: "Section 10806 - Access to records"
 usc_title: 42
 usc_section: "10806"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10806"
-generated_at: "2026-03-30T02:56:11.392Z"
+generated_at: "2026-11-23T21:26:33.387Z"
+status: "active"
 ---
 
 # § 10806. Access to records
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.392Z"
   - **(3)**
     - **(A)** As used in this section, the term “records” includes reports prepared by any staff of a facility rendering care and treatment or reports prepared by an agency charged with investigating reports of incidents of abuse, neglect, and injury occurring at such facility that describe incidents of abuse, neglect, and injury occurring at such facility and the steps taken to investigate such incidents, and discharge planning records.
     - **(B)** An eligible system shall have access to the type of records described in subparagraph (A) in accordance with the provisions of subsection (a) and paragraphs (1) and (2) of subsection (b).
+
+## Source Credit
+
+*([Pub. L. 99–319, title I, § 106](https://www.govinfo.gov/link/plaw/99/public/319), May 23, 1986, [100 Stat. 481](https://www.govinfo.gov/link/statute/100/481); [Pub. L. 100–509, § 6(b)](https://www.govinfo.gov/link/plaw/100/public/509), Oct. 20, 1988, [102 Stat. 2544](https://www.govinfo.gov/link/statute/102/2544); [Pub. L. 102–173, § 10(2)](https://www.govinfo.gov/link/plaw/102/public/173), Nov. 27, 1991, [105 Stat. 1219](https://www.govinfo.gov/link/statute/105/1219).)*

@@ -3,9 +3,10 @@ title: "Section 9597 - Executive Order 11625"
 usc_title: 15
 usc_section: "9597"
 chapter: 120
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9597"
-generated_at: "2026-03-30T02:54:08.250Z"
+generated_at: "2026-11-23T21:25:40.152Z"
+status: "active"
 ---
 
 # § 9597. Executive Order 11625
@@ -14,3 +15,7 @@ The powers and duties of the Agency shall be determined—
 
   - **(1)** in accordance with this chapter and the requirements of this chapter; and
   - **(2)** without regard to Executive Order 11625 (36 Fed. Reg. 19967; relating to prescribing additional arrangements for developing and coordinating a national program for minority business enterprise).
+
+## Source Credit
+
+*([Pub. L. 117–58, div. K, title VII, § 100707](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1467](https://www.govinfo.gov/link/statute/135/1467).)*

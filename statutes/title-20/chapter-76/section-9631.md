@@ -3,9 +3,10 @@ title: "Section 9631 - National Center for Research in Advanced Information and 
 usc_title: 20
 usc_section: "9631"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9631"
-generated_at: "2026-03-30T02:54:48.231Z"
+generated_at: "2026-11-23T21:25:47.673Z"
+status: "active"
 ---
 
 # § 9631. National Center for Research in Advanced Information and Digital Technologies
@@ -71,3 +72,7 @@ generated_at: "2026-03-30T02:54:48.231Z"
   - **(2)** The term “Board” means the Board of the Center appointed under subsection (d)(1).
   - **(3)** The term “Center” means the National Center for Research in Advanced Information and Digital Technologies established under subsection (a).
   - **(4)** The term “Director” means the Director of the Center appointed under subsection (e)(1).
+
+## Source Credit
+
+*([Pub. L. 110–315, title VIII, § 802](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3446](https://www.govinfo.gov/link/statute/122/3446); [Pub. L. 112–239, div. A, title X, § 1076(c)(2)(A)(vii)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1950](https://www.govinfo.gov/link/statute/126/1950).)*

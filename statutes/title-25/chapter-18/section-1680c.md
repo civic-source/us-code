@@ -3,9 +3,10 @@ title: "Section 1680c - Health services for ineligible persons"
 usc_title: 25
 usc_section: "1680c"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1680c"
-generated_at: "2026-03-30T02:54:52.827Z"
+generated_at: "2026-11-23T21:25:54.635Z"
+status: "active"
 ---
 
 # § 1680c. Health services for ineligible persons
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:52.827Z"
     - **(A)** an employee of the Service; or
     - **(B)** an employee of an Indian tribe or tribal organization operating a contract or compact under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.) 1 or an individual who provides health care services pursuant to a personal services contract with such Indian tribe or tribal organization.
 - **(f)** For purposes of this section, the term “eligible Indian” means any Indian who is eligible for health services provided by the Service without regard to the provisions of this section.
+
+## Source Credit
+
+*([Pub. L. 94–437, title VIII, § 813](https://www.govinfo.gov/link/plaw/94/public/437), formerly title VII, § 713, as added [Pub. L. 100–713, title VII, § 707(a)](https://www.govinfo.gov/link/plaw/100/public/713), Nov. 23, 1988, [102 Stat. 4829](https://www.govinfo.gov/link/statute/102/4829); renumbered title VIII, § 813, and amended [Pub. L. 102–573, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/102/public/573), (b), title IX, § 902(8), Oct. 29, 1992, [106 Stat. 4572](https://www.govinfo.gov/link/statute/106/4572), 4592; [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

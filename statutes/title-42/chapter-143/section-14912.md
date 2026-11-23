@@ -3,9 +3,10 @@ title: "Section 14912 - Responsibilities of the Secretary of State"
 usc_title: 42
 usc_section: "14912"
 chapter: 143
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 14912"
-generated_at: "2026-03-30T02:56:11.452Z"
+generated_at: "2026-11-23T21:26:33.643Z"
+status: "active"
 ---
 
 # § 14912. Responsibilities of the Secretary of State
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:11.452Z"
 - **(f)** The Secretary may—
   - **(1)** authorize public or private entities to perform appropriate central authority functions for which the Secretary is responsible, pursuant to regulations or under agreements published in the Federal Register; and
   - **(2)** carry out central authority functions through grants to, or contracts with, any individual or public or private entity, except as may be otherwise specifically provided in this chapter.
+
+## Source Credit
+
+*([Pub. L. 106–279, title I, § 102](https://www.govinfo.gov/link/plaw/106/public/279), Oct. 6, 2000, [114 Stat. 828](https://www.govinfo.gov/link/statute/114/828).)*

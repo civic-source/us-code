@@ -3,9 +3,10 @@ title: "Section 1474d - Environmental Improvement and Restoration Fund"
 usc_title: 43
 usc_section: "1474d"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1474d"
-generated_at: "2026-03-30T02:55:57.474Z"
+generated_at: "2026-11-23T21:26:19.841Z"
+status: "active"
 ---
 
 # § 1474d. Environmental Improvement and Restoration Fund
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:55:57.474Z"
     - **(B)** maximizing the percentage of funds directed to research; and
     - **(C)** maintaining the highest quality standards in administering grants under this subsection.
   - **(6)** All decisions of the Board, including grant recommendations, shall be by majority vote of the members listed in paragraphs (3)(A), (3)(F), (3)(G), (3)(J), and (3)(N), in consultation with the other members. The five voting members may act on behalf of the Board in all matters of administration, including the disposition of research funds not made available by this section, at any time on or after October 1, 2000 .
+
+## Source Credit
+
+*([Pub. L. 105–83, title IV, § 401](https://www.govinfo.gov/link/plaw/105/public/83), Nov. 14, 1997, [111 Stat. 1607](https://www.govinfo.gov/link/statute/111/1607); [Pub. L. 105–277, div. A, § 101(e) [title III, § 331]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–231](https://www.govinfo.gov/link/statute/112/2681), 2681–293; [Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 352(a)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1535](https://www.govinfo.gov/link/statute/113/1535), 1501A–209; [Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(c)(2)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–239; [Pub. L. 108–7, div. F, title III, § 334](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 277](https://www.govinfo.gov/link/statute/117/277); [Pub. L. 119–60, div. H, title LXXXIV, § 8431(b)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1919](https://www.govinfo.gov/link/statute/139/1919).)*

@@ -3,9 +3,10 @@ title: "Section 937 - Residence and source rules involving possessions"
 usc_title: 26
 usc_section: "937"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 937"
-generated_at: "2026-03-30T02:55:27.747Z"
+generated_at: "2026-11-23T21:26:06.436Z"
+status: "active"
 ---
 
 # § 937. Residence and source rules involving possessions
@@ -19,3 +20,13 @@ generated_at: "2026-03-30T02:55:27.747Z"
 - **(c)**
   - **(1)** If, for any taxable year, an individual takes the position for United States income tax reporting purposes that the individual became, or ceases to be, a bona fide resident of a possession specified in subsection (a)(1), such individual shall file with the Secretary, at such time and in such manner as the Secretary may prescribe, notice of such position.
   - **(2)** If, for any of an individual’s 3 taxable years ending before the individual’s first taxable year ending after the date of the enactment of this subsection, the individual took a position described in paragraph (1), the individual shall file with the Secretary, at such time and in such manner as the Secretary may prescribe, notice of such position.
+
+In general
+
+day rule
+
+Sourcing
+
+## Source Credit
+
+*(Added [Pub. L. 108–357, title VIII, § 908(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1655](https://www.govinfo.gov/link/statute/118/1655).)*

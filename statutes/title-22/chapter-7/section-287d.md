@@ -3,12 +3,17 @@ title: "Section 287d - Use of armed forces; limitations"
 usc_title: 22
 usc_section: "287d"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 287d"
-generated_at: "2026-03-30T02:55:05.321Z"
+generated_at: "2026-11-23T21:25:58.369Z"
+status: "active"
 ---
 
 # § 287d. Use of armed forces; limitations
 
 The President is authorized to negotiate a special agreement or agreements with the Security Council which shall be subject to the approval of the Congress by appropriate Act or joint resolution, providing for the numbers and types of armed forces, their degree of readiness and general location, and the nature of facilities and assistance, including rights of passage, to be made available to the Security Council on its call for the purpose of maintaining international peace and security in accordance with article 43 of said Charter. The President shall not be deemed to require the authorization of the Congress to make available to the Security Council on its call in order to take action under article 42 of said Charter and pursuant to such special agreement or agreements the armed forces, facilities, or assistance provided for therein: Provided , That, except as authorized in section 287d–1 of this title , nothing herein contained shall be construed as an authorization to the President by the Congress to make available to the Security Council for such purpose armed forces, facilities, or assistance in addition to the forces, facilities, and assistance provided for in such special agreement or agreements.
 
+
+## Source Credit
+
+*(Dec. 20, 1945, ch. 583, § 6, [59 Stat. 621](https://www.govinfo.gov/link/statute/59/621); Oct. 10, 1949, ch. 660, § 4, [63 Stat. 735](https://www.govinfo.gov/link/statute/63/735).)*

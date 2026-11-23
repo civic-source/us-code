@@ -3,9 +3,10 @@ title: "Section 1104 - Fiduciary duties"
 usc_title: 29
 usc_section: "1104"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1104"
-generated_at: "2026-03-30T02:55:18.716Z"
+generated_at: "2026-11-23T21:26:02.256Z"
+status: "active"
 ---
 
 # § 1104. Fiduciary duties
@@ -95,3 +96,41 @@ generated_at: "2026-03-30T02:55:18.716Z"
   - **(6)** For purposes of this subsection—
     - **(A)** The term “insurer” means an insurance company, insurance service, or insurance organization, including affiliates of such companies.
     - **(B)** The term “guaranteed retirement income contract” means an annuity contract for a fixed term or a contract (or provision or feature thereof) which provides guaranteed benefits annually (or more frequently) for at least the remainder of the life of the participant or the joint lives of the participant and the participant’s designated beneficiary as part of an individual account plan.
+
+Default investment arrangements.—
+
+In general
+
+Notice requirements.—
+
+In general
+
+Form of notice
+
+Default investment arrangements for a pension-linked emergency savings account
+
+In general
+
+Special rule for collectively bargained agreements
+
+In general
+
+Regulations
+
+In General
+
+Effective Date
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 404](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 877](https://www.govinfo.gov/link/statute/88/877); [Pub. L. 96–364, title III, § 309](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1296](https://www.govinfo.gov/link/statute/94/1296); [Pub. L. 101–508, title XII, § 12002(b)(1)](https://www.govinfo.gov/link/plaw/101/public/508), (2)(A), Nov. 5, 1990, [104 Stat. 1388–565](https://www.govinfo.gov/link/statute/104/1388), 1388–566; [Pub. L. 104–188, title I, § 1421(d)(2)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1799](https://www.govinfo.gov/link/statute/110/1799); [Pub. L. 107–16, title VI, § 657(c)(1)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 136](https://www.govinfo.gov/link/statute/115/136); [Pub. L. 107–147, title IV, § 411(t)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 51](https://www.govinfo.gov/link/statute/116/51); [Pub. L. 109–280, title VI](https://www.govinfo.gov/link/plaw/109/public/280), §§ 621(a), 624(a), Aug. 17, 2006, [120 Stat. 978](https://www.govinfo.gov/link/statute/120/978), 980; [Pub. L. 110–458, title I, § 106(d)](https://www.govinfo.gov/link/plaw/110/public/458), Dec. 23, 2008, [122 Stat. 5107](https://www.govinfo.gov/link/statute/122/5107); [Pub. L. 116–94, div. O, title II, § 204](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3165](https://www.govinfo.gov/link/statute/133/3165); [Pub. L. 117–328, div. T, title I, § 127(d)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5324](https://www.govinfo.gov/link/statute/136/5324).)*

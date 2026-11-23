@@ -3,9 +3,10 @@ title: "Section 16411 - Workforce trends and traineeship grants"
 usc_title: 42
 usc_section: "16411"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16411"
-generated_at: "2026-03-30T02:56:11.486Z"
+generated_at: "2026-11-23T21:26:33.741Z"
+status: "active"
 ---
 
 # § 16411. Workforce trends and traineeship grants
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.486Z"
   - **(3)** As soon as practicable after the date on which the Secretary identifies or predicts a significant national shortage of skilled technical personnel in one or more energy technology industries, the Secretary shall submit to Congress a report describing the shortage.
 - **(c)** The Secretary, in consultation with the Secretary of Labor, may establish programs in the appropriate offices of the Department under which the Secretary provides grants to enhance training (including distance learning) for any workforce category for which a shortage is identified or predicted under subsection (b)(2).
 - **(d)** There is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2006 through 2008.
+
+## Source Credit
+
+*([Pub. L. 109–58, title XI, § 1101](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 937](https://www.govinfo.gov/link/statute/119/937).)*

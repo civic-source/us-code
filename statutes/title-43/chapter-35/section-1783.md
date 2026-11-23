@@ -3,9 +3,10 @@ title: "Section 1783 - Yaquina Head Outstanding Natural Area"
 usc_title: 43
 usc_section: "1783"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1783"
-generated_at: "2026-03-30T02:55:57.493Z"
+generated_at: "2026-11-23T21:26:19.884Z"
+status: "active"
 ---
 
 # § 1783. Yaquina Head Outstanding Natural Area
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:57.493Z"
 - **(e)** The Secretary is authorized to conduct a study relating to the use of lands in the area for purposes of wind energy research. If the Secretary determines after such study that the conduct of wind energy research activity will not substantially impair the values of the lands in the area for purposes of this section, the Secretary is further authorized to issue permits for the use of such lands as a site for installation and field testing of an experimental wind turbine generating system. Any permit issued pursuant to this subsection shall contain such terms and conditions as the Secretary determines necessary to protect the values of such lands for purposes of this section.
 - **(f)** The Secretary shall develop and administer, in addition to any requirements imposed pursuant to subsection (b)(3), a program for the reclamation and restoration of all lands affected by quarrying operations in the area acquired pursuant to subsection (d). All revenues received by the United States in connection with quarrying operations authorized by subsection (b)(3) shall be deposited in a separate fund account which shall be established by the Secretary of the Treasury. Such revenues are hereby authorized to be appropriated to the Secretary as needed for reclamation and restoration of any lands acquired pursuant to subsection (d). After completion of such reclamation and restoration to the satisfaction of the Secretary, any unexpended revenues in such fund shall be returned to the general fund of the United States Treasury.
 - **(g)** There are hereby authorized to be appropriated in addition to that authorized by subsection (f), such sums as may be necessary to carry out the provisions of this section.
+
+## Source Credit
+
+*([Pub. L. 96–199, title I, § 119](https://www.govinfo.gov/link/plaw/96/public/199), Mar. 5, 1980, [94 Stat. 71](https://www.govinfo.gov/link/statute/94/71).)*

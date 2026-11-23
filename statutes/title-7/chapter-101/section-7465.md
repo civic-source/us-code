@@ -3,9 +3,10 @@ title: "Section 7465 - Required terms in order"
 usc_title: 7
 usc_section: "7465"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7465"
-generated_at: "2026-03-30T02:53:42.453Z"
+generated_at: "2026-11-23T21:25:28.430Z"
+status: "active"
 ---
 
 # § 7465. Required terms in order
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:53:42.453Z"
     - **(B)** the publication, by direction of the Secretary, of the name of any person violating an order issued under section 7463(a) of this title , together with a statement of the particular provisions of the order violated by the person.
   - **(3)** Any person who willfully violates this subsection, on conviction, shall be subject to a fine of not more than $1,000 or to imprisonment for not more than 1 year, or both, and, if the person is a member, officer, or agent of the Board or an employee of the Department of Agriculture, shall be removed from office.
 - **(h)** Nothing in this subchapter authorizes the withholding of information from Congress.
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 556](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1067](https://www.govinfo.gov/link/statute/110/1067).)*

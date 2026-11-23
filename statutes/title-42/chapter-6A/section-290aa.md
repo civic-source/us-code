@@ -3,9 +3,10 @@ title: "Section 290aa - Substance Abuse and Mental Health Services Administratio
 usc_title: 42
 usc_section: "290aa"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 290aa"
-generated_at: "2026-03-30T02:56:10.756Z"
+generated_at: "2026-11-23T21:26:30.541Z"
+status: "active"
 ---
 
 # § 290aa. Substance Abuse and Mental Health Services Administration
@@ -163,3 +164,121 @@ generated_at: "2026-03-30T02:56:10.756Z"
   - **(4)** Amounts made available for carrying out this subsection shall remain available through the end of the fiscal year following the fiscal year for which such amounts are appropriated.
 - **(p)** No information, if an establishment or person supplying the information or described in it is identifiable, obtained in the course of activities undertaken or supported under section 290aa–4 of this title may be used for any purpose other than the purpose for which it was supplied unless such establishment or person has consented (as determined under regulations of the Secretary) to its use for such other purpose. Such information may not be published or released in other form if the person who supplied the information or who is described in it is identifiable unless such person has consented (as determined under regulations of the Secretary) to its publication or release in other form.
 - **(q)** For the purpose of providing grants, cooperative agreements, and contracts under this section, there are authorized to be appropriated $25,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.
+
+“The Secretary of Health and Human Services shall delegate to the Assistant Secretary for Mental Health and Substance Use all duties and authorities that—
+
+Substance Abuse and Mental Health Services Administration
+
+National Institutes
+
+Adequate Personnel and Resources
+
+Substance Abuse and Mental Health Services Administration
+
+National Institutes
+
+Custody of Balances
+
+In General
+
+Executive Schedule Positions
+
+Effect on Previous Determinations
+
+Continuation of Proceedings.—
+
+In general
+
+Regulations
+
+Effect on Legal Actions
+
+No Abatement of Actions or Proceedings
+
+Substitution
+
+Judicial Review
+
+In General
+
+Use of Funds.—
+
+In general
+
+Use of grant funds
+
+Establishment
+
+Membership.—
+
+Federal members
+
+Non-federal members
+
+Terms.—
+
+In general
+
+Vacancies
+
+Meetings
+
+Duties
+
+Annual Report
+
+Working Groups.—
+
+In general
+
+Additional federal interagency work group on fentanyl contamination of illegal drugs.—
+
+Establishment
+
+Consultation
+
+Duties
+
+Annual report to secretary
+
+Federal Advisory Committee Act
+
+Sunset
+
+In General
+
+Evaluation Strategy
+
+Consultation
+
+Recommendations
+
+“It is the policy of the United States and the purpose of this Act [see Short Title of 1983 Amendment note set out under section 201 of this title ] to provide leadership in the national effort to reduce the incidence of alcoholism and alcohol-related problems and drug abuse through—
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title V, § 501, formerly [Pub. L. 93–282, title II, § 201](https://www.govinfo.gov/link/plaw/93/public/282), May 14, 1974, [88 Stat. 134](https://www.govinfo.gov/link/statute/88/134), as amended [Pub. L. 94–371, § 8](https://www.govinfo.gov/link/plaw/94/public/371), July 26, 1976, [90 Stat. 1040](https://www.govinfo.gov/link/statute/90/1040); renumbered § 501 of act July 1, 1944, and amended [Pub. L. 98–24, § 2(b)(2)](https://www.govinfo.gov/link/plaw/98/public/24), Apr. 26, 1983, [97 Stat. 176](https://www.govinfo.gov/link/statute/97/176); [Pub. L. 98–509, title II, § 201](https://www.govinfo.gov/link/plaw/98/public/509), title III, § 301(c)(1), Oct. 19, 1984, [98 Stat. 2359](https://www.govinfo.gov/link/statute/98/2359), 2364; [Pub. L. 99–570, title IV, § 4003](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–106](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 100–690, title II, § 2058(a)(2)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4213](https://www.govinfo.gov/link/statute/102/4213); [Pub. L. 101–93, § 3(f)](https://www.govinfo.gov/link/plaw/101/public/93), Aug. 16, 1989, [103 Stat. 611](https://www.govinfo.gov/link/statute/103/611); [Pub. L. 102–321, title I, § 101(a)](https://www.govinfo.gov/link/plaw/102/public/321), July 10, 1992, [106 Stat. 324](https://www.govinfo.gov/link/statute/106/324); [Pub. L. 104–201, div. A, title XVII, § 1723(a)(3)(A)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2759](https://www.govinfo.gov/link/statute/110/2759); [Pub. L. 106–129, § 2(b)(2)](https://www.govinfo.gov/link/plaw/106/public/129), Dec. 6, 1999, [113 Stat. 1670](https://www.govinfo.gov/link/statute/113/1670); [Pub. L. 106–310, div. B, title XXXI, § 3102](https://www.govinfo.gov/link/plaw/106/public/310), title XXXIV, § 3401(a), Oct. 17, 2000, [114 Stat. 1170](https://www.govinfo.gov/link/statute/114/1170), 1218; [Pub. L. 108–173, title IX, § 900(e)(2)(A)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2372](https://www.govinfo.gov/link/statute/117/2372); [Pub. L. 111–148, title III, § 3509(d)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 534](https://www.govinfo.gov/link/statute/124/534); [Pub. L. 114–255, div. B, title VI](https://www.govinfo.gov/link/plaw/114/public/255), §§ 6001(a), (c)(2), 6002, 6003, 6005, 6006(a), Dec. 13, 2016, [130 Stat. 1202–1206](https://www.govinfo.gov/link/statute/130/1202), 1209, 1210; [Pub. L. 117–286, § 4(a)(236)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4331](https://www.govinfo.gov/link/statute/136/4331); [Pub. L. 117–328, div. FF, title I](https://www.govinfo.gov/link/plaw/117/public/328), §§ 1121(c)(2)(A), 1231, title II, § 2112(a)–(c), Dec. 29, 2022, [136 Stat. 5650](https://www.govinfo.gov/link/statute/136/5650), 5673, 5721.)*

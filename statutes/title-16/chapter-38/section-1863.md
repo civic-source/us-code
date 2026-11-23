@@ -3,9 +3,10 @@ title: "Section 1863 - Northwest Atlantic Ocean Fisheries Reinvestment Program"
 usc_title: 16
 usc_section: "1863"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1863"
-generated_at: "2026-03-30T02:54:22.994Z"
+generated_at: "2026-11-23T21:25:51.933Z"
+status: "active"
 ---
 
 # § 1863. Northwest Atlantic Ocean Fisheries Reinvestment Program
@@ -23,3 +24,13 @@ generated_at: "2026-03-30T02:54:22.994Z"
 - **(b)** The Secretary shall actively seek the assistance of other Federal agencies in the development of fisheries for underutilized species of the northwest Atlantic Ocean, including, to the extent permitted by other applicable laws, assistance from the Secretary of Agriculture in including such underutilized species as agricultural commodities in the programs of the Foreign Agricultural Service for which amounts are authorized under the Food, Agriculture, Conservation, and Trade Act of 1990 ( Public Law 101–624 ; 104 Stat. 3359 ).
 - **(c)** The New England Fishery Management Council, in consultation with other appropriate Councils, shall develop fishery management plans as soon as possible for any underutilized species of the northwest Atlantic Ocean that is not covered under such a plan, in order to prevent overfishing of that species.
 - **(d)** For purposes of this section, the term “underutilized species of the northwest Atlantic Ocean” means any fish species of the northwest Atlantic Ocean that is identified, by the Director of the Northeast Fisheries Center of the National Marine Fisheries Service, as an underutilized species.
+
+Consultation
+
+Activities Under Program
+
+Authorization of Appropriations
+
+## Source Credit
+
+*([Pub. L. 94–265, title III, § 314](https://www.govinfo.gov/link/plaw/94/public/265), as added [Pub. L. 102–567, title IX, § 902(a)](https://www.govinfo.gov/link/plaw/102/public/567), Oct. 29, 1992, [106 Stat. 4317](https://www.govinfo.gov/link/statute/106/4317); amended [Pub. L. 104–297, title I, § 117(b)](https://www.govinfo.gov/link/plaw/104/public/297), Oct. 11, 1996, [110 Stat. 3604](https://www.govinfo.gov/link/statute/110/3604).)*

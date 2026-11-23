@@ -3,9 +3,10 @@ title: "Section 2150 - Captains; continuation on active duty; involuntary retire
 usc_title: 14
 usc_section: "2150"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 2150"
-generated_at: "2026-03-30T02:53:51.498Z"
+generated_at: "2026-11-23T21:25:35.420Z"
+status: "active"
 ---
 
 # § 2150. Captains; continuation on active duty; involuntary retirement
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:51.498Z"
 - **(f)** A board convened under this section shall submit its report to the Secretary. If the board has acted contrary to law or regulation, the Secretary may return the report for proceedings in revision and resubmission to the Secretary. After his final review the Secretary shall submit the report of the board to the President for his approval. Except as required by the procedures of this section, the proceedings of the board shall not be disclosed to any individual who is not a member of the board.
 - **(g)** Each officer who is considered but not recommended for continuation on active duty under the provisions of this section shall, unless retired under some other provision of law, be retired on June 30 of the promotion year in which the report of the continuation board convened under this section is approved, or the last day of the month in which he completes twenty years of active service, whichever is later.
 - **(h)** Notwithstanding subsection (g) and section 2149 of this title , the Commandant may by annual action retain on active duty from promotion year to promotion year any officer who would otherwise be retired under subsection (g) or section 2149 of this title . An officer so retained, unless retired under some other provision of law, shall be retired on June 30 of that promotion year in which no action is taken to further retain the officer under this subsection.
+
+## Source Credit
+
+*(Added [Pub. L. 88–130, § 1(10)(C)](https://www.govinfo.gov/link/plaw/88/public/130), Sept. 24, 1963, [77 Stat. 186](https://www.govinfo.gov/link/statute/77/186), § 289; amended [Pub. L. 94–546, § 1(26)](https://www.govinfo.gov/link/plaw/94/public/546), Oct. 18, 1976, [90 Stat. 2521](https://www.govinfo.gov/link/statute/90/2521); [Pub. L. 97–417, § 2(8)](https://www.govinfo.gov/link/plaw/97/public/417), Jan. 4, 1983, [96 Stat. 2085](https://www.govinfo.gov/link/statute/96/2085); [Pub. L. 99–145, title V, § 514(c)(1)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 629](https://www.govinfo.gov/link/statute/99/629); [Pub. L. 101–225, title II, § 203(3)](https://www.govinfo.gov/link/plaw/101/public/225), Dec. 12, 1989, [103 Stat. 1911](https://www.govinfo.gov/link/statute/103/1911); [Pub. L. 104–324, title II, § 203](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3907](https://www.govinfo.gov/link/statute/110/3907); [Pub. L. 107–295, title IV, § 414](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2120](https://www.govinfo.gov/link/statute/116/2120); renumbered § 2150 and amended [Pub. L. 115–282, title I](https://www.govinfo.gov/link/plaw/115/public/282), §§ 112(b), 123(b)(2), Dec. 4, 2018, [132 Stat. 4216](https://www.govinfo.gov/link/statute/132/4216), 4240; [Pub. L. 116–283, div. G, title LVXXXV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXV], § 8505(a)(18), Jan. 1, 2021, [134 Stat. 4748](https://www.govinfo.gov/link/statute/134/4748).)*

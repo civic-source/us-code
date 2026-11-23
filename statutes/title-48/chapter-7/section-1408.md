@@ -3,12 +3,17 @@ title: "Section 1408 - Legislative authority to create authorities; appointment 
 usc_title: 48
 usc_section: "1408"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1408"
-generated_at: "2026-03-30T02:56:14.584Z"
+generated_at: "2026-11-23T21:26:37.990Z"
+status: "active"
 ---
 
 # § 1408. Legislative authority to create authorities; appointment of members; powers of authorities
 
 The government of the Virgin Islands, through its legislative assembly, may grant to a public corporate authority existing or to be created through said assembly, exclusive authority to undertake slum clearance, urban redevelopment, urban renewal, and low-rent housing activities within the municipalities of the Virgin Islands. The legislative assembly may provide for the appointment and terms of office of the members of such authority and for the powers of such authority, including authority to accept whatever benefits the Federal Government may make available under the Housing Act of 1949 (Public Law 171, Eighty-First Congress), as amended [ 42 U.S.C. 1441 et seq.], or any other law, for projects contemplated by this Act, as amended, and to do all things, to exercise any and all powers, and to assume and fulfill any and all obligations, duties, responsibilities, and requirements, including but not limited to those relating to planning or zoning, necessary or desirable for receiving such Federal assistance, except that such authority shall not be given any power of taxation, nor any power to pledge the faith and credit of the people of the Virgin Islands for any loan whatever.
 
+
+## Source Credit
+
+*(July 18, 1950, ch. 466, title III, § 301, [64 Stat. 346](https://www.govinfo.gov/link/statute/64/346); Aug. 11, 1955, ch. 783, title I, § 107(5), (7), (9), [69 Stat. 638](https://www.govinfo.gov/link/statute/69/638).)*

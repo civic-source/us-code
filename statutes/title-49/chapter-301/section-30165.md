@@ -3,9 +3,10 @@ title: "Section 30165 - Civil penalty"
 usc_title: 49
 usc_section: "30165"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 30165"
-generated_at: "2026-03-30T02:56:19.353Z"
+generated_at: "2026-11-23T21:26:40.764Z"
+status: "active"
 ---
 
 # § 30165. Civil penalty
@@ -33,3 +34,70 @@ generated_at: "2026-03-30T02:56:19.353Z"
   - **(8)** whether the person has been assessed civil penalties under this section during the most recent 5 years; and
   - **(9)** other appropriate factors.
 - **(d)** In a civil action brought under this section, a subpena for a witness may be served in any judicial district.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30165(a) | 15:1398(a). | Sept. 9, 1966 , Pub. L. 89–563, § 109(a) , 80 Stat. 723 ; Oct. 27, 1974 , Pub. L. 93–492, § 103(b) , 88 Stat. 1478 . |
+|  | 15:1424(b) (related to civil penalty). | Sept. 9, 1966 , Pub. L. 89–563 , §§ 109(b), 110(d) (related to § 109), 204(b) (related to civil penalty), 80 Stat. 723 , 724, 729. |
+| 30165(b) | 15:1398(b) (1st, last sentences). |  |
+| 30165(c) | 15:1398(b) (2d sentence). |  |
+| 30165(d) | 15:1399(d) (related to 15:1398). |  |
+
+
+Civil Penalties.—
+
+In general
+
+School buses.—
+
+In general
+
+Related series of violations
+
+Section 30166
+
+False or misleading reports
+
+Compromise and Setoff
+
+Relevant Factors in Determining Amount of Penalty or Compromise
+
+Subpenas for Witnesses
+
+Historical and Revision Notes
+
+Pub. L
+
+30165(a)
+
+Sept. 9, 1966
+
+Pub. L. 89–563, § 109(a)
+
+80 Stat. 723
+
+Oct. 27, 1974
+
+Pub. L. 93–492, § 103(b)
+
+88 Stat. 1478
+
+Sept. 9, 1966
+
+Pub. L. 89–563
+
+80 Stat. 723
+
+30165(b)
+
+30165(c)
+
+30165(d)
+
+Effective Date
+
+Publication of Effective Date
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 968](https://www.govinfo.gov/link/statute/108/968); [Pub. L. 103–429, § 6(23)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4380](https://www.govinfo.gov/link/statute/108/4380); [Pub. L. 106–414, § 5(a)](https://www.govinfo.gov/link/plaw/106/public/414), Nov. 1, 2000, [114 Stat. 1803](https://www.govinfo.gov/link/statute/114/1803); [Pub. L. 109–59, title X, § 10309(c)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1942](https://www.govinfo.gov/link/statute/119/1942); [Pub. L. 112–141, div. C, title I](https://www.govinfo.gov/link/plaw/112/public/141), §§ 31203(a), 31304(b), title II, § 32301(c), July 6, 2012, [126 Stat. 758](https://www.govinfo.gov/link/statute/126/758), 764, 788; [Pub. L. 114–94, div. B, title XXIV, § 24110(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1709](https://www.govinfo.gov/link/statute/129/1709).)*

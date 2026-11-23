@@ -3,9 +3,10 @@ title: "Section 13505 - Transportation furthering a primary business"
 usc_title: 49
 usc_section: "13505"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 13505"
-generated_at: "2026-03-30T02:56:19.327Z"
+generated_at: "2026-11-23T21:26:40.682Z"
+status: "active"
 ---
 
 # § 13505. Transportation furthering a primary business
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:56:19.327Z"
 - **(b)**
   - **(1)** Neither the Secretary nor the Board has jurisdiction under this part over transportation of property by motor vehicle for compensation provided by a person who is a member of a corporate family for other members of such corporate family.
   - **(2)** In this section, “corporate family” means a group of corporations consisting of a parent corporation and all subsidiaries in which the parent corporation owns directly or indirectly a 100 percent interest.
+
+In General
+
+Corporate Families.—
+
+In general
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 861](https://www.govinfo.gov/link/statute/109/861).)*

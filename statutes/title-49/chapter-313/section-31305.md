@@ -3,9 +3,10 @@ title: "Section 31305 - General driver fitness, testing, and training"
 usc_title: 49
 usc_section: "31305"
 chapter: 313
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 31305"
-generated_at: "2026-03-30T02:56:19.360Z"
+generated_at: "2026-11-23T21:26:40.790Z"
+status: "active"
 ---
 
 # § 31305. General driver fitness, testing, and training
@@ -63,3 +64,105 @@ generated_at: "2026-03-30T02:56:19.360Z"
       - **(v)** the Air National Guard of the United States;
       - **(vi)** the Air Force Reserve; and
       - **(vii)** the Coast Guard Reserve.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 31305(a) | 49 App.:2704(a). | Oct. 27, 1986 , Pub. L. 99–570, § 12005(a) , (b), 100 Stat. 3207–171 . |
+| 31305(b) | 49 App.:2704(b). |  |
+
+
+Minimum Standards for Testing and Fitness
+
+Requirements for Operating Vehicles
+
+Standards for Training
+
+Standards for Training and Testing of Operators Who Are Members of the Armed Forces, Reservists, or Veterans.—
+
+In general
+
+Definitions
+
+Armed forces
+
+Covered individual
+
+Reserve components
+
+Historical and Revision Notes
+
+31305(a)
+
+Oct. 27, 1986
+
+Pub. L. 99–570, § 12005(a)
+
+100 Stat. 3207–171
+
+31305(b)
+
+In General
+
+Permanent Waiver
+
+Report
+
+“Not later than 18 months after the date of enactment of this Act [ Dec. 4, 2015 ], and each year thereafter, the Administrator of the Federal Motor Carrier Safety Administration shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that—
+
+“The Secretary [of Transportation] shall allow a State, at the discretion of the State, to waive the requirement for a holder of a Class A commercial driver’s license to obtain a hazardous materials endorsement under part 383 of title 49, Code of Federal Regulations, if the license holder—
+
+In General
+
+Applicability
+
+Sleep Disorders Defined
+
+Revision of Final Rule
+
+No Period of Commercial Driving While Using Insulin Required for Qualification
+
+Minimum Period of Insulin Use
+
+Limitations
+
+“The Secretary shall conduct a rulemaking to establish a special commercial driver’s license endorsement for drivers of school buses. The endorsement shall, at a minimum—
+
+Determination
+
+Compilation and Evaluation
+
+Report to Congress
+
+Initiation of Rulemaking
+
+Review
+
+Regulations
+
+Technologies To Reduce Fatigue of Commercial Motor Vehicle Operators.—
+
+Development of technologies
+
+Matters to be taken into account
+
+Funding
+
+Nonsedating Medications
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1016](https://www.govinfo.gov/link/statute/108/1016); [Pub. L. 106–159, title II, § 201(d)](https://www.govinfo.gov/link/plaw/106/public/159), Dec. 9, 1999, [113 Stat. 1760](https://www.govinfo.gov/link/statute/113/1760); [Pub. L. 107–56, title X, § 1012(b)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 397](https://www.govinfo.gov/link/statute/115/397); [Pub. L. 112–141, div. C, title II, § 32304(a)](https://www.govinfo.gov/link/plaw/112/public/141), (c), July 6, 2012, [126 Stat. 791](https://www.govinfo.gov/link/statute/126/791), 792; [Pub. L. 114–94, div. A, title V, § 5401(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1546](https://www.govinfo.gov/link/statute/129/1546); [Pub. L. 115–105, § 3](https://www.govinfo.gov/link/plaw/115/public/105), Jan. 8, 2018, [131 Stat. 2264](https://www.govinfo.gov/link/statute/131/2264).)*

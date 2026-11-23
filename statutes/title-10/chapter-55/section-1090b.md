@@ -3,9 +3,10 @@ title: "Section 1090b - Commanding officer and supervisor referrals of members f
 usc_title: 10
 usc_section: "1090b"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1090b"
-generated_at: "2026-03-30T02:53:38.106Z"
+generated_at: "2026-11-23T21:25:32.417Z"
+status: "active"
 ---
 
 # § 1090b. Commanding officer and supervisor referrals of members for mental health evaluations
@@ -42,3 +43,35 @@ generated_at: "2026-03-30T02:53:38.106Z"
   - **(3)** The term “least restrictive alternative principle” means a principle under which a member of the armed forces committed for hospitalization and treatment shall be placed in the most appropriate and therapeutic available setting—
     - **(A)** that is no more restrictive than is conducive to the most effective form of treatment; and
     - **(B)** in which treatment is available and the risks of physical injury or property damage posed by such placement are warranted by the proposed plan of treatment.
+
+Regulations
+
+Reduction of Perceived Stigma
+
+Procedures for Inpatient Evaluations
+
+Prohibition on Use of Referrals for Mental Health Evaluations to Retaliate Against Whistleblowers
+
+Self-initiated Referral Process
+
+Annual Training Requirement
+
+Definitions
+
+In General
+
+Elements
+
+Joint Policy With the Secretary of Veterans Affairs.—
+
+In general
+
+Elements
+
+Report
+
+Exigent Circumstance Defined
+
+## Source Credit
+
+*(Added [Pub. L. 112–81, div. A, title VII, § 711(a)(1)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1475](https://www.govinfo.gov/link/statute/125/1475), § 1090a; renumbered § 1090b and amended [Pub. L. 117–81, div. A, title VII](https://www.govinfo.gov/link/plaw/117/public/81), §§ 701(c)(1)(A), 704, Dec. 27, 2021, [135 Stat. 1778](https://www.govinfo.gov/link/statute/135/1778), 1780; [Pub. L. 118–31, div. A, title VII, § 705](https://www.govinfo.gov/link/plaw/118/public/31), title XVIII, § 1801(a)(14), Dec. 22, 2023, [137 Stat. 300](https://www.govinfo.gov/link/statute/137/300), 684.)*

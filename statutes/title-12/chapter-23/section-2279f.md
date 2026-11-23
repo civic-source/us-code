@@ -3,9 +3,10 @@ title: "Section 2279f - Merger of similar banks"
 usc_title: 12
 usc_section: "2279f"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2279f"
-generated_at: "2026-03-30T02:53:53.482Z"
+generated_at: "2026-11-23T21:25:37.089Z"
+status: "active"
 ---
 
 # § 2279f. Merger of similar banks
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:53.482Z"
     - **(A)** The outside director elected under paragraph (2)(B) shall be experienced in financial services and credit, and within the 2-year period prior to such election, shall not have been a borrower from, shareholder in, or director, officer, employee, or agent of any institution of the Farm Credit System.
     - **(B)** If the other members of the board fail to elect an outside director, the Farm Credit Administration Board shall appoint a qualified person to serve on the board of directors until such member is so elected.
   - **(4)** Notwithstanding paragraph (2), the bylaws of the merged bank may, with the approval of the Farm Credit Administration, provide for a different number of directors to be selected in a different manner, except that the bylaws shall provide for at least one outside director.
+
+## Source Credit
+
+*([Pub. L. 92–181, title VII, § 7](https://www.govinfo.gov/link/plaw/92/public/181).12, as added [Pub. L. 100–233, title IV, § 416](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1652](https://www.govinfo.gov/link/statute/101/1652); amended [Pub. L. 100–399, title IV, § 408(q)](https://www.govinfo.gov/link/plaw/100/public/399), (r), Aug. 17, 1988, [102 Stat. 1002](https://www.govinfo.gov/link/statute/102/1002), 1003.)*

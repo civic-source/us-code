@@ -3,9 +3,10 @@ title: "Section 5104 - National clearinghouse for information relating to child 
 usc_title: 42
 usc_section: "5104"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5104"
-generated_at: "2026-03-30T02:56:11.215Z"
+generated_at: "2026-11-23T21:26:32.720Z"
+status: "active"
 ---
 
 # § 5104. National clearinghouse for information relating to child abuse
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:56:11.215Z"
     - **(F)** collect and disseminate information that describes best practices being used throughout the Nation for making appropriate referrals related to, and addressing, the physical, developmental, and mental health needs of victims of child abuse or neglect; and
     - **(G)** solicit public comment on the components of such clearinghouse.
   - **(2)** In carrying out paragraph (1)(D), the Secretary shall ensure that methods are established and implemented to preserve the confidentiality of records relating to case specific data.
+
+## Source Credit
+
+*([Pub. L. 93–247, title I, § 103](https://www.govinfo.gov/link/plaw/93/public/247), formerly § 5, Jan. 31, 1974, [88 Stat. 7](https://www.govinfo.gov/link/statute/88/7); [Pub. L. 95–266, title I, § 104](https://www.govinfo.gov/link/plaw/95/public/266), Apr. 24, 1978, [92 Stat. 206](https://www.govinfo.gov/link/statute/92/206); [Pub. L. 98–457, title I, § 104](https://www.govinfo.gov/link/plaw/98/public/457), Oct. 9, 1984, [98 Stat. 1751](https://www.govinfo.gov/link/statute/98/1751); [Pub. L. 100–294, title I, § 101](https://www.govinfo.gov/link/plaw/100/public/294), Apr. 25, 1988, [102 Stat. 105](https://www.govinfo.gov/link/statute/102/105); renumbered title I, § 104, and amended [Pub. L. 101–126](https://www.govinfo.gov/link/plaw/101/public/126), §§ 3(a)(1), (2), (b)(2), 6, Oct. 25, 1989, [103 Stat. 764](https://www.govinfo.gov/link/statute/103/764), 765, 768; renumbered § 103 and amended [Pub. L. 104–235, title I](https://www.govinfo.gov/link/plaw/104/public/235), §§ 104, 113(a)(1)(A), Oct. 3, 1996, [110 Stat. 3066](https://www.govinfo.gov/link/statute/110/3066), 3079; [Pub. L. 108–36, title I, § 111](https://www.govinfo.gov/link/plaw/108/public/36), June 25, 2003, [117 Stat. 802](https://www.govinfo.gov/link/statute/117/802); [Pub. L. 111–320, title I, § 112](https://www.govinfo.gov/link/plaw/111/public/320), Dec. 20, 2010, [124 Stat. 3461](https://www.govinfo.gov/link/statute/124/3461); [Pub. L. 114–198, title V, § 503(a)](https://www.govinfo.gov/link/plaw/114/public/198), July 22, 2016, [130 Stat. 729](https://www.govinfo.gov/link/statute/130/729).)*

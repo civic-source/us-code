@@ -3,9 +3,10 @@ title: "Section 7671m - Relationship to other laws"
 usc_title: 42
 usc_section: "7671m"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7671m"
-generated_at: "2026-03-30T02:56:11.328Z"
+generated_at: "2026-11-23T21:26:33.164Z"
+status: "active"
 ---
 
 # § 7671m. Relationship to other laws
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.328Z"
   - **(1)** prohibit the export of technologies used to produce a class I substance;
   - **(2)** prohibit direct or indirect investments by any person in facilities designed to produce a class I or class II substance in nations that are not parties to the Montreal Protocol; and
   - **(3)** direct that no agency of the government provide bilateral or multilateral subsidies, aids, credits, guarantees, or insurance programs, for the purpose of producing any class I substance.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title VI, § 614, as added [Pub. L. 101–549, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2668](https://www.govinfo.gov/link/statute/104/2668).)*

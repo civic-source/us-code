@@ -3,9 +3,10 @@ title: "Section 4067 - Compatibility between retirement systems"
 usc_title: 22
 usc_section: "4067"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4067"
-generated_at: "2026-03-30T02:55:05.404Z"
+generated_at: "2026-11-23T21:25:58.619Z"
+status: "active"
 ---
 
 # § 4067. Compatibility between retirement systems
@@ -17,3 +18,47 @@ generated_at: "2026-03-30T02:55:05.404Z"
   - **(1)** all provisions of law enacted prior to the effective date of that provision of the Executive order, and
   - **(2)** any prior provision of an Executive order issued under this section.
 - **(c)** The President shall maintain, under the same conditions and in the same manner as provided in subsections (a) and (b) existing conformity between the Federal Employees’ Retirement System provided in chapter 84 of title 5 and the Foreign Service Pension System provided in part II of this subchapter.
+
+Section
+
+“(a) ⅙ of the applicable percent change determined under Subsection (b) of this Section, multiplied by
+
+“(b) the number of full months for which the annuity was payable from the Fund before the effective date of the increase (counting any portion of a month as a full month).”.
+
+Sec
+
+Sec
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Ronald Reagan.
+
+Section
+
+Sec
+
+William J. Clinton.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 827](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2124](https://www.govinfo.gov/link/statute/94/2124); [Pub. L. 99–335, title IV, § 411](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 614](https://www.govinfo.gov/link/statute/100/614).)*

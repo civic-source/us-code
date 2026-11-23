@@ -3,9 +3,10 @@ title: "Section 220304 - Governing body"
 usc_title: 36
 usc_section: "220304"
 chapter: 2203
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 220304"
-generated_at: "2026-03-30T02:55:44.709Z"
+generated_at: "2026-11-23T21:26:13.740Z"
+status: "active"
 ---
 
 # § 220304. Governing body
@@ -21,3 +22,52 @@ generated_at: "2026-03-30T02:55:44.709Z"
   - **(3)** The duties of the officers are the usual duties pertaining to their offices and any additional duties delegated by the board.
   - **(4)** Officers may be compensated for their services, and reimbursed for actual expenses, in amounts decided by the board.
 - **(c)** The board of trustees may employ an executive secretary and other personnel needed to assist the board and the officers to carry out the activities of the corporation. Employees serve at the pleasure of the board. The board shall prescribe the compensation and duties of employees.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 220304(a)(1) | 36:1207(a) (1st–21st words). | Oct. 20, 1978 , Pub. L. 95–493 , §§ 7, 8, 92 Stat. 1645 . |
+| 220304(a)(2) | 36:1207(a) (22d–last words), (b), (d). |  |
+| 220304(a)(3) | 36:1208(b) (1st sentence). |  |
+| 220304(a)(4) | 36:1207(c). |  |
+| 220304(b)(1) | 36:1208(a). |  |
+| 220304(b)(2) | 36:1208(c). |  |
+| 220304(b)(3) | 36:1208(d). |  |
+| 220304(b)(4) | 36:1208(b) (last sentence). |  |
+| 220304(c) | 36:1208(e). |  |
+
+
+Board of Trustees
+
+Officers
+
+Employees
+
+Historical and Revision Notes
+
+220304(a)(1)
+
+Oct. 20, 1978
+
+Pub. L. 95–493
+
+92 Stat. 1645
+
+220304(a)(2)
+
+220304(a)(3)
+
+220304(a)(4)
+
+220304(b)(1)
+
+220304(b)(2)
+
+220304(b)(3)
+
+220304(b)(4)
+
+220304(c)
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1463](https://www.govinfo.gov/link/statute/112/1463).)*

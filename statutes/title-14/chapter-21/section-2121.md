@@ -3,9 +3,10 @@ title: "Section 2121 - Promotions; appointments"
 usc_title: 14
 usc_section: "2121"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 2121"
-generated_at: "2026-03-30T02:53:51.497Z"
+generated_at: "2026-11-23T21:25:35.416Z"
+status: "active"
 ---
 
 # § 2121. Promotions; appointments
@@ -27,3 +28,9 @@ generated_at: "2026-03-30T02:53:51.497Z"
       - **(iii)** the special selection review board convened under section 2120a of this title issues recommendations with respect to the officer.
     - **(B)** Unless the Secretary determines that a further delay is necessary in the public interest, a promotion may not be delayed under this subsection for more than one year after the date the officer would otherwise have been promoted.
   - **(3)** An officer whose promotion is delayed under this subsection and who is subsequently promoted shall be given the date of rank and position on the active duty promotion list in the grade to which promoted that he would have held had his promotion not been so delayed.
+
+“Sections 271, 272, and 273 [now 2121, 2122, and 2123] of title 14, United States Code, apply to the activities of—
+
+## Source Credit
+
+*(Added [Pub. L. 88–130, § 1(10)(C)](https://www.govinfo.gov/link/plaw/88/public/130), Sept. 24, 1963, [77 Stat. 181](https://www.govinfo.gov/link/statute/77/181), § 271; amended [Pub. L. 91–278, § 1(8)](https://www.govinfo.gov/link/plaw/91/public/278), June 12, 1970, [84 Stat. 305](https://www.govinfo.gov/link/statute/84/305); [Pub. L. 97–417, § 2(5)](https://www.govinfo.gov/link/plaw/97/public/417), Jan. 4, 1983, [96 Stat. 2085](https://www.govinfo.gov/link/statute/96/2085); [Pub. L. 99–145, title V, § 514(c)(1)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 629](https://www.govinfo.gov/link/statute/99/629); [Pub. L. 101–225, title II, § 203(2)](https://www.govinfo.gov/link/plaw/101/public/225), Dec. 12, 1989, [103 Stat. 1911](https://www.govinfo.gov/link/statute/103/1911); [Pub. L. 103–337, div. A, title XVI, § 1677(b)(2)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 3020](https://www.govinfo.gov/link/statute/108/3020); [Pub. L. 107–295, title III, § 313(3)](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2103](https://www.govinfo.gov/link/statute/116/2103); renumbered § 2121 and amended [Pub. L. 115–282, title I](https://www.govinfo.gov/link/plaw/115/public/282), §§ 112(b), 123(b)(2), Dec. 4, 2018, [132 Stat. 4216](https://www.govinfo.gov/link/statute/132/4216), 4240; [Pub. L. 117–263, div. K, title CXII, § 11245(d)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4046](https://www.govinfo.gov/link/statute/136/4046).)*

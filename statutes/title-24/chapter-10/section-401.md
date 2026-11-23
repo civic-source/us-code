@@ -3,9 +3,10 @@ title: "Section 401 - Definitions"
 usc_title: 24
 usc_section: "401"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "24 U.S.C. § 401"
-generated_at: "2026-03-30T02:54:50.791Z"
+generated_at: "2026-11-23T21:25:53.412Z"
+status: "active"
 ---
 
 # § 401. Definitions
@@ -32,3 +33,7 @@ For purposes of this chapter:
     - **(D)** The Sergeant Major of the Marine Corps.
     - **(E)** The Master Chief Petty Officer of the Coast Guard.
     - **(F)** The Chief Master Sergeant of the Space Force.
+
+## Source Credit
+
+*([Pub. L. 101–510, div. A, title XV, § 1502](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1722](https://www.govinfo.gov/link/statute/104/1722); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title IX, § 902(c)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–224; [Pub. L. 107–107, div. A, title XIV, § 1402](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1257](https://www.govinfo.gov/link/statute/115/1257); [Pub. L. 111–281, title II, § 205(a)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2911](https://www.govinfo.gov/link/statute/124/2911); [Pub. L. 112–81, div. A, title V, § 563(b)(1)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1423](https://www.govinfo.gov/link/statute/125/1423); [Pub. L. 118–159, div. A, title XIV, § 1422](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2129](https://www.govinfo.gov/link/statute/138/2129).)*

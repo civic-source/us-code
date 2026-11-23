@@ -3,9 +3,10 @@ title: "Section 1368 - Lien for liability"
 usc_title: 29
 usc_section: "1368"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1368"
-generated_at: "2026-03-30T02:55:18.734Z"
+generated_at: "2026-11-23T21:26:02.296Z"
+status: "active"
 ---
 
 # § 1368. Lien for liability
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:18.734Z"
 - **(f)** For purposes of this section—
   - **(1)** The collective net worth of persons subject to liability in connection with a plan termination shall be determined as provided in section 1362(d)(1) of this title .
   - **(2)** The term “pre-tax profits” has the meaning provided in section 1362(d)(2) of this title .
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4068](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 1032](https://www.govinfo.gov/link/statute/88/1032); [Pub. L. 95–598, title III, § 321(c)](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2678](https://www.govinfo.gov/link/statute/92/2678); [Pub. L. 99–272, title XI, § 11016(a)(6)(B)](https://www.govinfo.gov/link/plaw/99/public/272), (c)(14), Apr. 7, 1986, [100 Stat. 271](https://www.govinfo.gov/link/statute/100/271), 275; [Pub. L. 100–203, title IX, § 9312(b)(2)(B)(i)](https://www.govinfo.gov/link/plaw/100/public/203), (C)(ii), Dec. 22, 1987, [101 Stat. 1330–361](https://www.govinfo.gov/link/statute/101/1330), 1330–362; [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7881(f)(3)(B), (10)(C), (12), 7891(a)(1), 7894(g)(4)(A), Dec. 19, 1989, [103 Stat. 2440](https://www.govinfo.gov/link/statute/103/2440), 2441, 2445, 2451.)*

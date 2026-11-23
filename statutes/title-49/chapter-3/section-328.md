@@ -3,9 +3,10 @@ title: "Section 328 - Transportation Systems Center working capital fund"
 usc_title: 49
 usc_section: "328"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 328"
-generated_at: "2026-03-30T02:56:19.299Z"
+generated_at: "2026-11-23T21:26:40.592Z"
+status: "active"
 ---
 
 # § 328. Transportation Systems Center working capital fund
@@ -23,3 +24,40 @@ generated_at: "2026-03-30T02:56:19.299Z"
     - **(B)** acquiring property and equipment under regulations the Secretary prescribes; and
   - **(2)** receipts from the sale or exchange of property or in payment for loss or damage of property held by the fund.
 - **(e)** The Secretary shall deposit at the end of each fiscal year, in the Treasury as miscellaneous receipts, amounts accruing in the fund that the Secretary decides are in excess of the needs of the fund.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 328(a) | 49:1657(r)(1) (1st sentence, 2d sentence words before last comma, last sentence). | Oct. 15, 1966 , Pub. L. 89–670 , 80 Stat. 931 , § 9(r); added May 30, 1980 , Pub. L. 96–254, § 207 , 94 Stat. 413 . |
+| 328(b) | 49:1657(r)(1) (2d sentence words after last comma), (2)(B) (words after last comma). |  |
+| 328(c) | 49:1657(r)(2)(A), (B) (words before last comma), (C). |  |
+| 328(d) | 49:1657(r)(3). |  |
+| 328(e) | 49:1657(r)(4). |  |
+
+
+Historical and Revision Notes
+
+328(a)
+
+Oct. 15, 1966
+
+Pub. L. 89–670
+
+80 Stat. 931
+
+May 30, 1980
+
+Pub. L. 96–254, § 207
+
+94 Stat. 413
+
+328(b)
+
+328(c)
+
+328(d)
+
+328(e)
+
+## Source Credit
+
+*([Pub. L. 97–449, § 1(b)](https://www.govinfo.gov/link/plaw/97/public/449), Jan. 12, 1983, [96 Stat. 2425](https://www.govinfo.gov/link/statute/96/2425).)*

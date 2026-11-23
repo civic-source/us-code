@@ -3,9 +3,10 @@ title: "Section 823b - Enforcement"
 usc_title: 16
 usc_section: "823b"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 823b"
-generated_at: "2026-03-30T02:54:22.913Z"
+generated_at: "2026-11-23T21:25:51.759Z"
+status: "active"
 ---
 
 # § 823b. Enforcement
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:22.913Z"
   - **(6)**
     - **(A)** Notwithstanding the provisions of title 28 or of this chapter, the Commission may be represented by the general counsel of the Commission (or any attorney or attorneys within the Commission designated by the Chairman) who shall supervise, conduct, and argue any civil litigation to which paragraph (3) of this subsection applies (including any related collection action under paragraph (5)) in a court of the United States or in any other court, except the Supreme Court. However, the Commission or the general counsel shall consult with the Attorney General concerning such litigation, and the Attorney General shall provide, on request, such assistance in the conduct of such litigation as may be appropriate.
     - **(B)** The Commission shall be represented by the Attorney General, or the Solicitor General, as appropriate, in actions under this subsection, except to the extent provided in subparagraph (A) of this paragraph.
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. I, § 31, as added [Pub. L. 99–495, § 12](https://www.govinfo.gov/link/plaw/99/public/495), Oct. 16, 1986, [100 Stat. 1255](https://www.govinfo.gov/link/statute/100/1255).)*

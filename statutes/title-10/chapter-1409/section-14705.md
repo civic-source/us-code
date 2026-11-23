@@ -3,9 +3,10 @@ title: "Section 14705 - Selective early retirement: reserve general and flag off
 usc_title: 10
 usc_section: "14705"
 chapter: 1409
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 14705"
-generated_at: "2026-03-30T02:53:38.276Z"
+generated_at: "2026-11-23T21:25:33.068Z"
+status: "active"
 ---
 
 # § 14705. Selective early retirement: reserve general and flag officers of the Navy and Marine Corps
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:53:38.276Z"
     - **(A)** each regular commissioned officer appointed to the board holds a grade higher than the grade of rear admiral or major general; and
     - **(B)** at least one member of the board is a reserve officer who holds the grade of rear admiral or major general.
 - **(c)** An officer selected for early retirement under this section shall be separated in accordance with section 14514 of this title .
+
+Authority To Consider
+
+Boards
+
+Separation Under Section
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1611](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2957](https://www.govinfo.gov/link/statute/108/2957); amended [Pub. L. 105–261, div. A, title V, § 515](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2008](https://www.govinfo.gov/link/statute/112/2008); [Pub. L. 108–136, div. A, title V, § 511(b)(3)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1459](https://www.govinfo.gov/link/statute/117/1459); [Pub. L. 109–163, div. A, title V, § 515(b)(1)(VV)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3234](https://www.govinfo.gov/link/statute/119/3234).)*

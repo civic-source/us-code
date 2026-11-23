@@ -3,12 +3,17 @@ title: "Section 9656 - Transportation of hazardous substances; listing as hazard
 usc_title: 42
 usc_section: "9656"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9656"
-generated_at: "2026-03-30T02:56:11.364Z"
+generated_at: "2026-11-23T21:26:33.270Z"
+status: "active"
 ---
 
 # § 9656. Transportation of hazardous substances; listing as hazardous material; liability for release
 
 - **(a)** Each hazardous substance which is listed or designated as provided in section 9601(14) of this title shall, within 30 days after October 17, 1986 , or at the time of such listing or designation, whichever is later, be listed and regulated as a hazardous material under chapter 51 of title 49.
 - **(b)** A common or contract carrier shall be liable under other law in lieu of section 9607 of this title for damages or remedial action resulting from the release of a hazardous substance during the course of transportation which commenced prior to the effective date of the listing and regulation of such substance as a hazardous material under chapter 51 of title 49, or for substances listed pursuant to subsection (a) of this section, prior to the effective date of such listing: Provided, however , That this subsection shall not apply where such a carrier can demonstrate that he did not have actual knowledge of the identity or nature of the substance released.
+
+## Source Credit
+
+*([Pub. L. 96–510, title III, § 306(a)](https://www.govinfo.gov/link/plaw/96/public/510), (b), Dec. 11, 1980, [94 Stat. 2810](https://www.govinfo.gov/link/statute/94/2810); [Pub. L. 99–499, title II, § 202](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1695](https://www.govinfo.gov/link/statute/100/1695).)*

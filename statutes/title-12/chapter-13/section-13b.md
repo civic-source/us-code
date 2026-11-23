@@ -3,9 +3,10 @@ title: "Section 13b - Loan guarantees for Native Hawaiian housing"
 usc_title: 12
 usc_section: "13b"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 13b"
-generated_at: "2026-03-30T02:53:53.422Z"
+generated_at: "2026-11-23T21:25:36.904Z"
+status: "active"
 ---
 
 # § 1715z–13b. Loan guarantees for Native Hawaiian housing
@@ -139,3 +140,19 @@ generated_at: "2026-03-30T02:53:53.422Z"
       - **(v)** be not less than the size provided under the applicable locally adopted standards for size of dwelling units, except that the Secretary, upon request of the Department of Hawaiian Home Lands may waive the size requirements under this paragraph; and
       - **(vi)** conform with the energy performance requirements for new construction established by the Secretary under section 526(a) of the National Housing Act [ 12 U.S.C. 1735f–4(a) ], unless the Secretary determines that the requirements are not applicable.
 - **(l)** To the extent that the requirements of title VI of the Civil Rights Act of 1964 ( 42 U.S.C. 2000d et seq.) or of the Fair Housing Act [ 42 U.S.C. 3601 et seq.] apply to a guarantee provided under this subsection, nothing in the requirements concerning discrimination on the basis of race shall be construed to prevent the provision of the guarantee to an eligible entity on the basis that the entity serves Native Hawaiian families or is a Native Hawaiian family.
+
+(aa) In general The holder of the certificate may initiate foreclosure proceedings (after providing written notice of that action to the Secretary).
+
+(bb) Payment Upon a final order by the court authorizing foreclosure and submission to the Secretary of a claim for payment under the guarantee, the Secretary shall pay to the holder of the certificate the pro rata portion of the amount guaranteed (as determined pursuant to subsection (f)) plus reasonable fees and expenses as approved by the Secretary.
+
+(cc) Subrogation The rights of the Secretary shall be subrogated to the rights of the holder of the guarantee. The holder shall assign the obligation and security to the Secretary.
+
+(aa) In general Without seeking foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of the guarantee may submit to the Secretary a request to assign the obligation and security interest to the Secretary in return for payment of the claim under the guarantee. The Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interest of the United States.
+
+(bb) Payment Upon assignment, the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (f)).
+
+(cc) Subrogation The rights of the Secretary shall be subrogated to the rights of the holder of the guarantee. The holder shall assign the obligation and security to the Secretary.
+
+## Source Credit
+
+*([Pub. L. 102–550, title I, § 184A](https://www.govinfo.gov/link/plaw/102/public/550), as added [Pub. L. 106–568, title II, § 204](https://www.govinfo.gov/link/plaw/106/public/568), Dec. 27, 2000, [114 Stat. 2895](https://www.govinfo.gov/link/statute/114/2895), and [Pub. L. 106–569, title V, § 514](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 2989](https://www.govinfo.gov/link/statute/114/2989).)*

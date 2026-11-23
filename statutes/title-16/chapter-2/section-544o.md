@@ -3,9 +3,10 @@ title: "Section 544o - Savings provisions"
 usc_title: 16
 usc_section: "544o"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 544o"
-generated_at: "2026-03-30T02:54:22.873Z"
+generated_at: "2026-11-23T21:25:51.670Z"
+status: "active"
 ---
 
 # § 544o. Savings provisions
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:22.873Z"
 - **(f)**
   - **(1)** Actions by the Secretary pursuant to subsections (f), (g), and (h) of section 544d of this title ; subsections (f), (j), (k), and ( l ) of section 544f of this title ; section 544g of this title ; and subsections (a) and (b)(2) of section 544h of this title shall neither be considered major Federal actions significantly affecting the quality of the environment under section 102 of the National Environmental Policy Act ( 42 U.S.C. 4332 ) nor require the preparation of an environmental assessment in accordance with that Act [ 42 U.S.C. 4321 et seq.].
   - **(2)** Except as provided in paragraph (1) of this subsection, nothing in sections 544 to 544p of this title shall expand, restrict, or otherwise alter the duties of the Secretary under the National Environmental Policy Act.
+
+## Source Credit
+
+*([Pub. L. 99–663, § 17](https://www.govinfo.gov/link/plaw/99/public/663), Nov. 17, 1986, [100 Stat. 4300](https://www.govinfo.gov/link/statute/100/4300).)*

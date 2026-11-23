@@ -3,9 +3,10 @@ title: "Section 21 - Inland Empire regional water recycling project"
 usc_title: 43
 usc_section: "21"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 21"
-generated_at: "2026-03-30T02:55:57.444Z"
+generated_at: "2026-11-23T21:26:19.766Z"
+status: "active"
 ---
 
 # § 390h–21. Inland Empire regional water recycling project
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:57.444Z"
 - **(b)** The Federal share of the cost of the project described in subsection (a) shall not exceed 25 percent of the total cost of the project.
 - **(c)** Funds provided by the Secretary shall not be used for operation and maintenance of the project described in subsection (a).
 - **(d)** There is authorized to be appropriated to carry out this section, $20,000,000.
+
+## Source Credit
+
+*([Pub. L. 102–575, title XVI, § 16](https://www.govinfo.gov/link/plaw/102/public/575) ——, as added [Pub. L. 110–161, div. C, title II, § 210](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 1954](https://www.govinfo.gov/link/statute/121/1954).)*

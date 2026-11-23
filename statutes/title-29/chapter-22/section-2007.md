@@ -3,9 +3,10 @@ title: "Section 2007 - Restrictions on use of exemptions"
 usc_title: 29
 usc_section: "2007"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 2007"
-generated_at: "2026-03-30T02:55:18.742Z"
+generated_at: "2026-11-23T21:26:02.312Z"
+status: "active"
 ---
 
 # § 2007. Restrictions on use of exemptions
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:55:18.742Z"
       - **(ii)** that does not contain information other than admissions, information, case facts, and interpretation of the charts relevant to the purpose and stated objectives of the test, and
       - **(iii)** that does not include any recommendation concerning the employment of the examinee; and
     - **(B)** maintains all opinions, reports, charts, written questions, lists, and other records relating to the test for a minimum period of 3 years after administration of the test.
+
+## Source Credit
+
+*([Pub. L. 100–347, § 8](https://www.govinfo.gov/link/plaw/100/public/347), June 27, 1988, [102 Stat. 650](https://www.govinfo.gov/link/statute/102/650).)*

@@ -3,12 +3,17 @@ title: "Section 1115 - TSA personnel limitations"
 usc_title: 6
 usc_section: "1115"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1115"
-generated_at: "2026-03-30T02:53:09.503Z"
+generated_at: "2026-11-23T21:25:25.863Z"
+status: "active"
 ---
 
 # § 1115. TSA personnel limitations
 
 Any statutory limitation on the number of employees in the Transportation Security Administration does not apply to employees carrying out this chapter.
 
+
+## Source Credit
+
+*([Pub. L. 110–53, title XIII, § 1306](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 395](https://www.govinfo.gov/link/statute/121/395).)*

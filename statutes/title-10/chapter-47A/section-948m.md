@@ -3,9 +3,10 @@ title: "Section 948m - Number of members; excuse of members; absent and addition
 usc_title: 10
 usc_section: "948m"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 948m"
-generated_at: "2026-03-30T02:53:38.089Z"
+generated_at: "2026-11-23T21:25:32.360Z"
+status: "active"
 ---
 
 # § 948m. Number of members; excuse of members; absent and additional members
@@ -23,3 +24,17 @@ generated_at: "2026-03-30T02:53:38.089Z"
   - **(3)** by order of the convening authority for good cause; or
   - **(4)** in the case of an alternate member, in order to reduce the number of alternate members required for service on the commission, as determined by the convening authority.
 - **(e)** Whenever the number of primary members of a military commission under this chapter is reduced below the number of primary members required by subsection (a) and there are no remaining alternate members to replace the excused primary members, the trial may not proceed unless the convening authority details new members sufficient to provide not less than such number. The trial may proceed with the new members present after the recorded evidence previously introduced before the members has been read to the military commission in the presence of the military judge, the accused (except as provided in section 949d of this title ), and counsel for both sides. An alternate member who was present for the introduction of all evidence shall not be considered to be a new or additional member.
+
+Number of Members
+
+Primary Members
+
+Alternate Members
+
+Excuse of Members
+
+Absent and Additional Members
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title XVIII, § 1802](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2579](https://www.govinfo.gov/link/statute/123/2579); amended [Pub. L. 113–66, div. A, title X, § 1031(a)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 849](https://www.govinfo.gov/link/statute/127/849).)*

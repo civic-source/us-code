@@ -3,12 +3,17 @@ title: "Section 833e - Factors in determining rate schedules"
 usc_title: 16
 usc_section: "833e"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 833e"
-generated_at: "2026-03-30T02:54:22.926Z"
+generated_at: "2026-11-23T21:25:51.779Z"
+status: "active"
 ---
 
 # § 833e. Factors in determining rate schedules
 
 It is the intent of Congress that rate schedules for the sale of electric energy which is or may be generated at the Fort Peck project in excess of the amount required for operating the dam and appurtenant works at said project shall be determined with due regard to and predicated upon the fact that such electric energy is developed from water power created as an incident to the construction of the dam in the Missouri River at the Fort Peck project for the purposes set forth in section 833 of this title . Rate schedules shall be drawn having regard to the recovery (upon the basis of the application of such rate schedules to the capacity of the electric facilities of Fort Peck project) of the cost of producing and transmitting such electric energy, including the amortization of the capital investment over a reasonable period of years. Rate schedules shall be based upon an allocation of costs made by the Secretary of Energy. In computing the cost of electric energy developed from water power created as an incident to and a byproduct of the construction of Fort Peck project, the Secretary of Energy may allocate to the costs of electric facilities such a share of the cost of facilities having joint value for the production of electric energy and other purposes as the power development may fairly bear as compared with such other purposes.
 
+
+## Source Credit
+
+*(May 18, 1938, ch. 250, § 6, [52 Stat. 405](https://www.govinfo.gov/link/statute/52/405); [Pub. L. 95–91, title III, § 301(b)](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 578](https://www.govinfo.gov/link/statute/91/578).)*

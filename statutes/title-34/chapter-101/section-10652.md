@@ -3,9 +3,10 @@ title: "Section 10652 - National criminal justice and mental health training and
 usc_title: 34
 usc_section: "10652"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10652"
-generated_at: "2026-03-30T02:55:33.274Z"
+generated_at: "2026-11-23T21:26:09.685Z"
+status: "active"
 ---
 
 # § 10652. National criminal justice and mental health training and technical assistance
@@ -51,3 +52,21 @@ generated_at: "2026-03-30T02:55:33.274Z"
     - **(B)** If the Attorney General awards duplicate grants to the same applicant for the same purpose the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that includes—
       - **(i)** a list of all duplicate grants awarded, including the total dollar amount of any duplicate grants awarded; and
       - **(ii)** the reason the Attorney General awarded the duplicate grants.
+
+In General
+
+Training programs
+
+Improved technology
+
+Cooperative programs
+
+“Not later than 1 year after the date of enactment of this Act [ Dec. 13, 2016 ], the Attorney General shall provide direction and guidance for the following:
+
+Training programs
+
+Improved technology
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2992](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 114–255, div. B, title XIV, § 14014](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1303](https://www.govinfo.gov/link/statute/130/1303).)*

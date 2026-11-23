@@ -3,9 +3,10 @@ title: "Section 399 - Grants to enhance food safety"
 usc_title: 21
 usc_section: "399"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 399"
-generated_at: "2026-03-30T02:54:54.283Z"
+generated_at: "2026-11-23T21:25:56.195Z"
+status: "active"
 ---
 
 # § 399. Grants to enhance food safety
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:54:54.283Z"
   - **(2)** In carrying out paragraph (1), the Secretary shall not duplicate the efforts of the Secretary under other provisions of this chapter or the FDA Food Safety Modernization Act that require measurement and review of the activities of grant recipients under either this chapter or such Act.
 - **(g)** Grant funds received under this section shall be used to supplement, and not supplant, non-Federal funds and any other Federal funds available to carry out the activities described in this section.
 - **(h)** For the purpose of making grants under this section, there are authorized to be appropriated such sums as may be necessary for fiscal years 2011 through 2015.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 1009, formerly § 909, as added [Pub. L. 107–188, title III, § 311](https://www.govinfo.gov/link/plaw/107/public/188), June 12, 2002, [116 Stat. 673](https://www.govinfo.gov/link/statute/116/673); renumbered § 1009 and amended [Pub. L. 111–31, div. A, title I](https://www.govinfo.gov/link/plaw/111/public/31), §§ 101(b)(2), 103(n), June 22, 2009, [123 Stat. 1784](https://www.govinfo.gov/link/statute/123/1784), 1838; [Pub. L. 111–353, title II, § 210(a)](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3948](https://www.govinfo.gov/link/statute/124/3948).)*

@@ -3,9 +3,10 @@ title: "Section 5905 - Liens"
 usc_title: 49
 usc_section: "5905"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 5905"
-generated_at: "2026-03-30T02:56:19.321Z"
+generated_at: "2026-11-23T21:26:40.667Z"
+status: "active"
 ---
 
 # § 5905. Liens
@@ -18,3 +19,25 @@ generated_at: "2026-03-30T02:56:19.321Z"
 - **(b)**
   - **(1)** A lien under this section does not authorize a person to dispose of the contents of a loaded container or trailer until the person who tendered the container or trailer to the first carrier, or the owner or beneficial owner of the contents, is given a reasonable opportunity to establish responsibility for the bond, fine, penalty, cost (including storage), or interest. The lien shall remain in effect until the lien holder has received payment for all costs and expenses described in subsection (a) of this section.
   - **(2)** In this section, an owner or beneficial owner of the contents of a container or trailer or a person tendering a container or trailer to the first carrier is deemed not to be a person involved in the intermodal transportation of the container or trailer.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5905(a) | 49:508(g)(1). |  |
+| 5905(b) | 49:508(g)(2)(A), (B). |  |
+
+
+General
+
+Limitations
+
+Historical and Revision Notes
+
+5905(a)
+
+5905(b)
+
+General
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 861](https://www.govinfo.gov/link/statute/108/861); [Pub. L. 104–291, title II, § 206](https://www.govinfo.gov/link/plaw/104/public/291), Oct. 11, 1996, [110 Stat. 3457](https://www.govinfo.gov/link/statute/110/3457).)*

@@ -3,9 +3,10 @@ title: "Section 537a - Carriage of certain programming"
 usc_title: 47
 usc_section: "537a"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 537a"
-generated_at: "2026-03-30T02:56:24.518Z"
+generated_at: "2026-11-23T21:26:36.033Z"
+status: "active"
 ---
 
 # § 537a. Carriage of certain programming
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:24.518Z"
   - **(1)** carry non-incidental video content from a local commercial television station, qualified noncommercial educational television station, or television broadcast station to the extent that such content is owned, controlled, or financed (in whole or in part) by the Government of the Russian Federation; or
   - **(2)** lease, or otherwise make available, channel capacity to any person for the provision of video programming that is owned, controlled, or financed (in whole or in part) by the Government of the Russian Federation.
 - **(c)** Nothing in this section may be construed as applying to the editorial use by a local commercial television station, qualified noncommercial educational television station, or television broadcast station of programming that is owned, controlled, or financed (in whole or in part) by the Government of the Russian Federation.
+
+## Source Credit
+
+*([Pub. L. 115–91, div. A, title X, § 1093](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1611](https://www.govinfo.gov/link/statute/131/1611).)*

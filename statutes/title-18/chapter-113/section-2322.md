@@ -3,9 +3,10 @@ title: "Section 2322 - Chop shops"
 usc_title: 18
 usc_section: "2322"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2322"
-generated_at: "2026-03-30T02:54:16.502Z"
+generated_at: "2026-11-23T21:25:44.142Z"
+status: "active"
 ---
 
 # § 2322. Chop shops
@@ -14,3 +15,15 @@ generated_at: "2026-03-30T02:54:16.502Z"
   - **(1)** Any person who knowingly owns, operates, maintains, or controls a chop shop or conducts operations in a chop shop shall be punished by a fine under this title or by imprisonment for not more than 15 years, or both. If a conviction of a person under this paragraph is for a violation committed after the first conviction of such person under this paragraph, the maximum punishment shall be doubled with respect to any fine and imprisonment.
   - **(2)** The Attorney General shall, as appropriate, in the case of any person who violates paragraph (1), commence a civil action for permanent or temporary injunction to restrain such violation.
 - **(b)** For purposes of this section, the term “chop shop” means any building, lot, facility, or other structure or premise where one or more persons engage in receiving, concealing, destroying, disassembling, dismantling, reassembling, or storing any passenger motor vehicle or passenger motor vehicle part which has been unlawfully obtained in order to alter, counterfeit, deface, destroy, disguise, falsify, forge, obliterate, or remove the identity, including the vehicle identification number or derivative thereof, of such vehicle or vehicle part and to distribute, sell, or dispose of such vehicle or vehicle part in interstate or foreign commerce.
+
+In General.—
+
+Unlawful action
+
+Injunctions
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 102–519, title I, § 105(a)](https://www.govinfo.gov/link/plaw/102/public/519), Oct. 25, 1992, [106 Stat. 3385](https://www.govinfo.gov/link/statute/106/3385).)*

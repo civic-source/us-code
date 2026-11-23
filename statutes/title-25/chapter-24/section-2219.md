@@ -3,9 +3,10 @@ title: "Section 2219 - Application to Alaska"
 usc_title: 25
 usc_section: "2219"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2219"
-generated_at: "2026-03-30T02:54:52.839Z"
+generated_at: "2026-11-23T21:25:54.666Z"
+status: "active"
 ---
 
 # § 2219. Application to Alaska
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:52.839Z"
   - **(2)** despite these studies, there has not been a comparable effort to analyze the problem, if any, of fractionated ownership in Alaska.
 - **(b)** Except as provided in this section, this chapter shall not apply to land located within Alaska.
 - **(c)** Nothing in this section shall be construed to constitute a ratification of any determination by any agency, instrumentality, or court of the United States that may support the assertion of tribal jurisdiction over allotment lands or interests in such land in Alaska.
+
+## Source Credit
+
+*([Pub. L. 97–459, title II, § 220](https://www.govinfo.gov/link/plaw/97/public/459), as added [Pub. L. 106–462, title I, § 103(6)](https://www.govinfo.gov/link/plaw/106/public/462), Nov. 7, 2000, [114 Stat. 2006](https://www.govinfo.gov/link/statute/114/2006).)*

@@ -3,9 +3,10 @@ title: "Section 3203 - Definitions"
 usc_title: 22
 usc_section: "3203"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3203"
-generated_at: "2026-03-30T02:55:05.390Z"
+generated_at: "2026-11-23T21:25:58.578Z"
+status: "active"
 ---
 
 # § 3203. Definitions
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.390Z"
   - **(6)** “1954 Act” means the Atomic Energy Act of 1954, as amended [ 42 U.S.C. 2011 et seq.]; and
   - **(7)** “the Treaty” means the Treaty on the Non-Proliferation of Nuclear Weapons.
 - **(b)** All other terms used in this chapter not defined in this section shall have the meanings ascribed to them by the 1954 Act, the Energy Reorganization Act of 1974 [ 42 U.S.C. 5801 et seq.], and the Treaty.
+
+## Source Credit
+
+*([Pub. L. 95–242, § 4](https://www.govinfo.gov/link/plaw/95/public/242), Mar. 10, 1978, [92 Stat. 121](https://www.govinfo.gov/link/statute/92/121); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XII, § 1225(e)(1), Oct. 21, 1998, [112 Stat. 2681–775](https://www.govinfo.gov/link/statute/112/2681).)*

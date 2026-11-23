@@ -3,9 +3,10 @@ title: "Section 2 - Report of civil rights complaints, resolutions, and actions"
 usc_title: 7
 usc_section: "2"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-30T02:53:42.384Z"
+generated_at: "2026-11-23T21:25:28.293Z"
+status: "active"
 ---
 
 # § 2279–2. Report of civil rights complaints, resolutions, and actions
@@ -19,3 +20,7 @@ Each year, the Secretary shall—
     - **(D)** the number and type of personnel actions taken by the agency following resolution of civil rights complaints;
   - **(2)** submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a copy of the report; and
   - **(3)** make the report available to the public by posting the report on the website of the Department.
+
+## Source Credit
+
+*([Pub. L. 110–234, title XIV, § 14010](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1447](https://www.govinfo.gov/link/statute/122/1447); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14010, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2209.)*

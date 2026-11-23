@@ -3,9 +3,10 @@ title: "Section 3011 - Judicial enforcement"
 usc_title: 39
 usc_section: "3011"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 3011"
-generated_at: "2026-03-30T02:55:43.692Z"
+generated_at: "2026-11-23T21:26:12.780Z"
+status: "active"
 ---
 
 # § 3011. Judicial enforcement
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:43.692Z"
 - **(c)** In preparation for, or during the pendency of, a civil action under subsection (a) of this section, a district court of the United States, upon application therefor by the Attorney General and upon a showing of probable cause to believe the statute is being violated, may enter a temporary restraining order or preliminary injunction containing such terms as the court deems just, including, but not limited to, provisions enjoining the defendant from mailing any sexually oriented advertisement to any person or class of persons, directing any postmaster to refuse to accept such defendant’s sexually oriented advertisements for mailing, and directing the detention of the defendant’s incoming mail by any postmaster pending the conclusion of the judicial proceedings. Any action taken by a court under this subsection does not affect or determine any fact at issue in any other proceeding under this section.
 - **(d)** A civil action under this section may be brought in the judicial district in which the defendant resides, or has his principal place of business, or in any judicial district in which any sexually oriented advertisement mailed in violation of section 3010 has been delivered by mail according to the direction thereon.
 - **(e)** Nothing in this section or in section 3010 shall be construed as amending, preempting, limiting, modifying, or otherwise in any way affecting section 1461 or 1463 of title 18 or section 3007 or 3008 of this title.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 750](https://www.govinfo.gov/link/statute/84/750); [Pub. L. 106–168, title I, § 105(b)(2)(B)](https://www.govinfo.gov/link/plaw/106/public/168), Dec. 12, 1999, [113 Stat. 1811](https://www.govinfo.gov/link/statute/113/1811).)*

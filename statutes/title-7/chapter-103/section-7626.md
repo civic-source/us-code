@@ -3,9 +3,10 @@ title: "Section 7626 - Integrated research, education, and extension competitive
 usc_title: 7
 usc_section: "7626"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7626"
-generated_at: "2026-03-30T02:53:42.459Z"
+generated_at: "2026-11-23T21:25:28.439Z"
+status: "active"
 ---
 
 # § 7626. Integrated research, education, and extension competitive grants program
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:42.459Z"
       - **(ii)** the recipient is unable to satisfy the matching funds requirement.
 - **(e)** A grant under this section shall have a term of not more than 5 years.
 - **(f)** There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2023.
+
+## Source Credit
+
+*([Pub. L. 105–185, title IV, § 406](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 573](https://www.govinfo.gov/link/statute/112/573); [Pub. L. 107–171, title VII](https://www.govinfo.gov/link/plaw/107/public/171), §§ 7125, 7206, May 13, 2002, [116 Stat. 434](https://www.govinfo.gov/link/statute/116/434), 439; [Pub. L. 110–234, title VII](https://www.govinfo.gov/link/plaw/110/public/234), §§ 7129(c)(4), 7306, May 22, 2008, [122 Stat. 1227](https://www.govinfo.gov/link/statute/122/1227), 1242; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, §§ 7129(c)(4), 7306, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1988, 2004; [Pub. L. 113–79, title VII](https://www.govinfo.gov/link/plaw/113/public/79), §§ 7128(b)(3)(A), 7302, Feb. 7, 2014, [128 Stat. 879](https://www.govinfo.gov/link/statute/128/879), 887; [Pub. L. 115–334, title VII](https://www.govinfo.gov/link/plaw/115/public/334), §§ 7302, 7614(b)(3)(A), Dec. 20, 2018, [132 Stat. 4815](https://www.govinfo.gov/link/statute/132/4815), 4835.)*

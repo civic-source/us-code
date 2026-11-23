@@ -3,9 +3,10 @@ title: "Section 6615 - Savings provisions"
 usc_title: 22
 usc_section: "6615"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6615"
-generated_at: "2026-03-30T02:55:05.431Z"
+generated_at: "2026-11-23T21:25:58.694Z"
+status: "active"
 ---
 
 # § 6615. Savings provisions
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:05.431Z"
 - **(d)** No suit, action, or other proceeding commenced by or against any officer in the official capacity of such individual as an officer of any Federal agency, or any commission or component thereof, functions of which are transferred by any subchapter of this chapter, shall abate by reason of the enactment of this chapter. No cause of action by or against any Federal agency, or any commission or component thereof, functions of which are transferred by any subchapter of this chapter, or by or against any officer thereof in the official capacity of such officer shall abate by reason of the enactment of this chapter.
 - **(e)** If, before the effective date of any subchapter of this chapter, any Federal agency, or officer thereof in the official capacity of such officer, is a party to a suit, and under this chapter any function of such department, agency, or officer is transferred to the Secretary or any other official of the Department, then effective on such date such suit shall be continued with the Secretary or other appropriate official of the Department substituted or added as a party.
 - **(f)** Orders and actions of the Secretary in the exercise of functions transferred under any subchapter of this chapter shall be subject to judicial review to the same extent and in the same manner as if such orders and actions had been by the Federal agency or office, or part thereof, exercising such functions immediately preceding their transfer. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function transferred by any subchapter of this chapter shall apply to the exercise of such function by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XVI, § 1615, Oct. 21, 1998, [112 Stat. 2681–800](https://www.govinfo.gov/link/statute/112/2681).)*

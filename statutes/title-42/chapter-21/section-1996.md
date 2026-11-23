@@ -3,12 +3,27 @@ title: "Section 1996 - Protection and preservation of traditional religions of N
 usc_title: 42
 usc_section: "1996"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1996"
-generated_at: "2026-03-30T02:56:11.137Z"
+generated_at: "2026-11-23T21:26:32.275Z"
+status: "active"
 ---
 
 # § 1996. Protection and preservation of traditional religions of Native Americans
 
 On and after August 11, 1978 , it shall be the policy of the United States to protect and preserve for American Indians their inherent right of freedom to believe, express, and exercise the traditional religions of the American Indian, Eskimo, Aleut, and Native Hawaiians, including but not limited to access to sites, use and possession of sacred objects, and the freedom to worship through ceremonials and traditional rites.
 
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 95–341, § 1](https://www.govinfo.gov/link/plaw/95/public/341), Aug. 11, 1978, [92 Stat. 469](https://www.govinfo.gov/link/statute/92/469).)*

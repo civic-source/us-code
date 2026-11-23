@@ -3,9 +3,10 @@ title: "Section 77ppp - Directions and waivers by bondholders; prohibition of im
 usc_title: 15
 usc_section: "77ppp"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 77ppp"
-generated_at: "2026-03-30T02:54:08.037Z"
+generated_at: "2026-11-23T21:25:39.515Z"
+status: "active"
 ---
 
 # § 77ppp. Directions and waivers by bondholders; prohibition of impairment of holder’s right to payment; record date
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:08.037Z"
   - **(2)** that such indenture may contain provisions limiting or denying the right of any such holder to institute any such suit, if and to the extent that the institution or prosecution thereof or the entry of judgment therein would, under applicable law, result in the surrender, impairment, waiver, or loss of the lien of such indenture upon any property subject to such lien; and
   - **(3)** that the right of any holder of any indenture security to receive payment of the principal of and interest on such indenture security shall not be deemed to be impaired or affected by any change occurring by the application of section 5803 of title 12 to any indenture security.
 - **(c)** The obligor upon any indenture qualified under this subchapter may set a record date for purposes of determining the identity of indenture security holders entitled to vote or consent to any action by vote or consent authorized or permitted by subsection (a) of this section. Unless the indenture provides otherwise, such record date shall be the later of 30 days prior to the first solicitation of such consent or the date of the most recent list of holders furnished to the trustee pursuant to section 77 lll of this title prior to such solicitation.
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title III, § 316, as added Aug. 3, 1939, ch. 411, [53 Stat. 1172](https://www.govinfo.gov/link/statute/53/1172); amended [Pub. L. 101–550, title IV, § 415](https://www.govinfo.gov/link/plaw/101/public/550), Nov. 15, 1990, [104 Stat. 2731](https://www.govinfo.gov/link/statute/104/2731); [Pub. L. 117–103, div. U, § 108](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 832](https://www.govinfo.gov/link/statute/136/832).)*

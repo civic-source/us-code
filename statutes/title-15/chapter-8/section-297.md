@@ -3,9 +3,10 @@ title: "Section 297 - Stamping plated articles"
 usc_title: 15
 usc_section: "297"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 297"
-generated_at: "2026-03-30T02:54:08.082Z"
+generated_at: "2026-11-23T21:25:39.628Z"
+status: "active"
 ---
 
 # § 297. Stamping plated articles
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.082Z"
   - **(2)** imports into any State any such article of merchandise bearing any such quality mark or stamp which indicates or purports to indicate that such article is made in whole or in part of gold or silver or of an alloy of either such metal,
     - **(A)** Apply or cause to be applied to that article a trademark of such persons, which has been duly registered or applied for registration under the laws of the United States within thirty days after an article bearing the trademark is placed in commerce or imported into the United States, or the name of such person; and
     - **(B)** if such article of merchandise is composed of two or more parts which are complete in themselves but which are not identical in quality, and any one of such parts bears such a quality mark or stamp, apply or cause to be applied to each other part of that article of merchandise a quality mark or stamp of like pattern and size disclosing the quality of that other part.
+
+## Source Credit
+
+*(June 13, 1906, ch. 3289, § 4, [34 Stat. 261](https://www.govinfo.gov/link/statute/34/261); [Pub. L. 87–354, § 1](https://www.govinfo.gov/link/plaw/87/public/354), Oct. 4, 1961, [75 Stat. 775](https://www.govinfo.gov/link/statute/75/775); [Pub. L. 91–366, § 1(e)](https://www.govinfo.gov/link/plaw/91/public/366), July 31, 1970, [84 Stat. 691](https://www.govinfo.gov/link/statute/84/691).)*

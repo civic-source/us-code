@@ -3,12 +3,17 @@ title: "Section 881 - Cost of survey of grants to railroads; payment"
 usc_title: 43
 usc_section: "881"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 881"
-generated_at: "2026-03-30T02:55:57.463Z"
+generated_at: "2026-11-23T21:26:19.812Z"
+status: "active"
 ---
 
 # § 881. Cost of survey of grants to railroads; payment
 
 Before any land granted to any railroad company by the United States shall be conveyed to such company, or any persons entitled thereto under any of the acts incorporating or relating to said company, unless such company is exempted by law from the payment of such cost, there shall first be paid into the Treasury of the United States the cost of surveying, selecting, and conveying the same by the said company or persons in interest.
 
+
+## Source Credit
+
+*(July 15, 1870, ch. 292, [16 Stat. 305](https://www.govinfo.gov/link/statute/16/305); July 31, 1876, ch. 246, [19 Stat. 121](https://www.govinfo.gov/link/statute/19/121).)*

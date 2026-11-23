@@ -3,9 +3,10 @@ title: "Section 10a - Incentives for additional downblending of highly enriched 
 usc_title: 42
 usc_section: "10a"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10a"
-generated_at: "2026-03-30T02:56:11.162Z"
+generated_at: "2026-11-23T21:26:32.408Z"
+status: "active"
 ---
 
 # § 2297h–10a. Incentives for additional downblending of highly enriched uranium by the Russian Federation
@@ -109,3 +110,7 @@ generated_at: "2026-03-30T02:56:11.162Z"
     - **(B)** of non-uranium isotopes.
   - **(4)** The provisions of this subsection shall terminate on December 31, 2040 .
   - **(5)** In this subsection, the term “Russian entity” means an entity organized under the laws of or otherwise subject to the jurisdiction of the Government of the Russian Federation.
+
+## Source Credit
+
+*([Pub. L. 104–134, title III, § 3112A](https://www.govinfo.gov/link/plaw/104/public/134), as added [Pub. L. 110–329, div. C, title VIII, § 8118(2)](https://www.govinfo.gov/link/plaw/110/public/329), Sept. 30, 2008, [122 Stat. 3647](https://www.govinfo.gov/link/statute/122/3647); amended [Pub. L. 116–260, div. Z, title II, § 2007(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2472](https://www.govinfo.gov/link/statute/134/2472); [Pub. L. 118–62, § 2(a)](https://www.govinfo.gov/link/plaw/118/public/62), (b)(1), May 13, 2024, [138 Stat. 1022](https://www.govinfo.gov/link/statute/138/1022), 1023.)*

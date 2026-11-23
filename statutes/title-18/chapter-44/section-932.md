@@ -3,9 +3,10 @@ title: "Section 932 - Straw purchasing of firearms"
 usc_title: 18
 usc_section: "932"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 932"
-generated_at: "2026-03-30T02:54:16.476Z"
+generated_at: "2026-11-23T21:25:44.019Z"
+status: "active"
 ---
 
 # § 932. Straw purchasing of firearms
@@ -23,3 +24,17 @@ generated_at: "2026-03-30T02:54:16.476Z"
 - **(c)**
   - **(1)** Except as provided in paragraph (2), any person who violates subsection (b) shall be fined under this title, imprisoned for not more than 15 years, or both.
   - **(2)** If a violation of subsection (b) is committed knowing or with reasonable cause to believe that any firearm involved will be used to commit a felony, a Federal crime of terrorism, or a drug trafficking crime, the person shall be sentenced to a term of imprisonment of not more than 25 years.
+
+Definitions
+
+Violation
+
+Penalty.—
+
+In general
+
+Use in felonies, crimes of terrorism, or drug trafficking crimes
+
+## Source Credit
+
+*(Added [Pub. L. 117–159, div. A, title II, § 12004(a)(1)](https://www.govinfo.gov/link/plaw/117/public/159), June 25, 2022, [136 Stat. 1326](https://www.govinfo.gov/link/statute/136/1326).)*

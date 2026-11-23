@@ -3,9 +3,10 @@ title: "Section 3261 - Criminal offenses committed by certain members of the Arm
 usc_title: 18
 usc_section: "3261"
 chapter: 212
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3261"
-generated_at: "2026-03-30T02:54:16.515Z"
+generated_at: "2026-11-23T21:25:44.193Z"
+status: "active"
 ---
 
 # § 3261. Criminal offenses committed by certain members of the Armed Forces and by persons employed by or accompanying the Armed Forces outside the United States
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:16.515Z"
 - **(d)** No prosecution may be commenced against a member of the Armed Forces subject to chapter 47 of title 10 (the Uniform Code of Military Justice) under this section unless—
   - **(1)** such member ceases to be subject to such chapter; or
   - **(2)** an indictment or information charges that the member committed the offense with one or more other defendants, at least one of whom is not subject to such chapter.
+
+## Source Credit
+
+*(Added [Pub. L. 106–523, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/523), Nov. 22, 2000, [114 Stat. 2488](https://www.govinfo.gov/link/statute/114/2488).)*

@@ -3,9 +3,10 @@ title: "Section 4703 - Displaced contractor employees: assistance to obtain cert
 usc_title: 10
 usc_section: "4703"
 chapter: 365
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4703"
-generated_at: "2026-03-30T02:53:38.210Z"
+generated_at: "2026-11-23T21:25:32.783Z"
+status: "active"
 ---
 
 # § 4703. Displaced contractor employees: assistance to obtain certification and employment as teachers or employment as teachers’ aides
@@ -53,3 +54,23 @@ generated_at: "2026-03-30T02:53:38.210Z"
     - **(B)** the total costs of the type described in paragraphs (1), (2), (3), (8), and (9) 1 1 See References in Text note below. of section 472 of the Higher Education Act of 1965 ( 20 U.S.C. 1087 ll ) incurred by the participant while obtaining teacher certification or licensure or the necessary credentials to serve as a teacher’s aide and employment as an elementary or secondary school teacher or teacher aide.
   - **(2)** A stipend provided under this section shall be taken into account in determining the eligibility of the participant for Federal student financial assistance provided under title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1070 et seq.).
 - **(h)** Subsections (h) through (k) of section 1151 of this title , as in effect on October 4, 1999 , shall apply with respect to the placement as teachers and teachers’ aides of individuals selected under this section.
+
+Assistance Program
+
+Eligible Defense Contractors
+
+Defense Contractor Applications
+
+Eligible Scientists and Engineers
+
+Selection of Participants
+
+Agreement
+
+Stipend for Participants
+
+Placement of Participants as Teachers and Teachers’ Aides
+
+## Source Credit
+
+*(Added [Pub. L. 102–484, div. D, title XLIV, § 4443(a)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2732](https://www.govinfo.gov/link/statute/106/2732), § 2410c; renumbered § 2410j and amended [Pub. L. 103–35, title II, § 201(b)(1)(A)](https://www.govinfo.gov/link/plaw/103/public/35), (g)(6), May 31, 1993, [107 Stat. 97](https://www.govinfo.gov/link/statute/107/97), 100; [Pub. L. 103–160, div. A, title XIII, § 1331(c)(3)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1792](https://www.govinfo.gov/link/statute/107/1792); [Pub. L. 103–382, title III, § 391(b)(5)](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 4022](https://www.govinfo.gov/link/statute/108/4022); [Pub. L. 104–106, div. A, title XV, § 1503(a)(23)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 512](https://www.govinfo.gov/link/statute/110/512); [Pub. L. 104–201, div. A, title V, § 576(c)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2535](https://www.govinfo.gov/link/statute/110/2535); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1087(a)(14)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–291; renumbered § 4703, [Pub. L. 116–283, div. A, title XVIII, § 1863(b)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4278](https://www.govinfo.gov/link/statute/134/4278).)*

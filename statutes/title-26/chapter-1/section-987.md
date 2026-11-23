@@ -3,9 +3,10 @@ title: "Section 987 - Branch transactions"
 usc_title: 26
 usc_section: "987"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 987"
-generated_at: "2026-03-30T02:55:27.752Z"
+generated_at: "2026-11-23T21:26:06.448Z"
+status: "active"
 ---
 
 # § 987. Branch transactions
@@ -17,3 +18,7 @@ In the case of any taxpayer having 1 or more qualified business units with a fun
   - **(3)** by making proper adjustments (as prescribed by the Secretary) for transfers of property between qualified business units of the taxpayer having different functional currencies, including—
     - **(A)** treating post-1986 remittances from each such unit as made on a pro rata basis out of post-1986 accumulated earnings, and
     - **(B)** treating gain or loss determined under this paragraph as ordinary income or loss, respectively, and sourcing such gain or loss by reference to the source of the income giving rise to post-1986 accumulated earnings.
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XII, § 1261(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2586](https://www.govinfo.gov/link/statute/100/2586); amended [Pub. L. 100–647, title I, § 1012(v)(1)(B)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3528](https://www.govinfo.gov/link/statute/102/3528).)*

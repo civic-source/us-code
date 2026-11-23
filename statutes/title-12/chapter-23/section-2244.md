@@ -3,9 +3,10 @@ title: "Section 2244 - Chairman; responsibilities; governing standards"
 usc_title: 12
 usc_section: "2244"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2244"
-generated_at: "2026-03-30T02:53:53.476Z"
+generated_at: "2026-11-23T21:25:37.063Z"
+status: "active"
 ---
 
 # § 2244. Chairman; responsibilities; governing standards
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:53.476Z"
     - **(C)** the Secretary of Agriculture concerning the effect of System policies on farmers, ranchers, and the agricultural economy.
 - **(b)** In carrying out responsibilities under this chapter, the Chairman of the Board shall be governed by general policies adopted by the Board and by such regulatory decisions, findings, and determinations as the Board may by law be authorized to make and, as to third persons, all acts of the Chairman of the Board shall be conclusively presumed to be in compliance with such general policies and regulatory decisions, findings, and determinations.
 - **(c)** The Chairman of the Board shall enforce the rules, regulations, and orders of the Board. Except as provided in section 518 of title 28 , relating to litigation before the Supreme Court, attorneys designated by the Chairman shall represent the Farm Credit Administration in any civil proceeding or civil action brought in connection with the administration of conservatorships and receiverships. Attorneys designated by the Chairman may represent the Farm Credit Administration in any other civil proceedings or civil action when so authorized by the Attorney General under provisions of title 28.
+
+## Source Credit
+
+*([Pub. L. 92–181, title V, § 5](https://www.govinfo.gov/link/plaw/92/public/181).10, Dec. 10, 1971, [85 Stat. 619](https://www.govinfo.gov/link/statute/85/619); [Pub. L. 96–592, title V, § 504](https://www.govinfo.gov/link/plaw/96/public/592), Dec. 24, 1980, [94 Stat. 3449](https://www.govinfo.gov/link/statute/94/3449); [Pub. L. 99–205, title II, § 201(1)](https://www.govinfo.gov/link/plaw/99/public/205), Dec. 23, 1985, [99 Stat. 1689](https://www.govinfo.gov/link/statute/99/1689); [Pub. L. 100–233, title IV, § 431(b)](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1658](https://www.govinfo.gov/link/statute/101/1658).)*

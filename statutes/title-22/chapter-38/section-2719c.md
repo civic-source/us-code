@@ -3,9 +3,10 @@ title: "Section 2719c - Facilitation and encouragement of training and professio
 usc_title: 22
 usc_section: "2719c"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2719c"
-generated_at: "2026-03-30T02:55:05.381Z"
+generated_at: "2026-11-23T21:25:58.537Z"
+status: "active"
 ---
 
 # § 2719c. Facilitation and encouragement of training and professional development for Foreign Service and Civil Service personnel
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.381Z"
 - **(d)**
   - **(1)** The Secretary shall take appropriate action to ensure that the evaluation of precepts for recommendations for promotion described in subsection (c)(1) for members of the Foreign Service in supervisory positions incorporates the extent to which such members appropriately address the training and professional development needs of the personnel under their supervision.
   - **(2)** The Secretary shall take appropriate action to ensure that the performance standards described in subsection (c)(2) for Civil Service personnel of the Department in supervisory positions afford appropriate weight to addressing the training and professional development needs of the personnel under their supervision.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. I, title XCII, § 9206](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3871](https://www.govinfo.gov/link/statute/136/3871).)*

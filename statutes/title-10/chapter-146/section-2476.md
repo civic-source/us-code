@@ -3,9 +3,10 @@ title: "Section 2476 - Minimum capital investment for certain depots"
 usc_title: 10
 usc_section: "2476"
 chapter: 146
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2476"
-generated_at: "2026-03-30T02:53:38.160Z"
+generated_at: "2026-11-23T21:25:32.617Z"
+status: "active"
 ---
 
 # § 2476. Minimum capital investment for certain depots
@@ -54,3 +55,41 @@ generated_at: "2026-03-30T02:53:38.160Z"
     - **(A)** Warner-Robins Air Logistics Center, Georgia.
     - **(B)** Ogden Air Logistics Center, Utah.
     - **(C)** Oklahoma City Air Logistics Center, Oklahoma.
+
+Minimum Investment
+
+Capital Budget
+
+Compliance With Certain Requirements Relating to Personnel and Total Force Management
+
+Waiver
+
+Annual Report
+
+Covered Depot
+
+“For purposes of calculating the amount of workload carryover with respect to the depots and arsenals of the Department of the Army, the Secretary of Defense shall authorize the Secretary of the Army to use a calculation for such carryover that—
+
+In General
+
+Elements of Pilot Program
+
+Report
+
+Definitions
+
+Strategy Required
+
+Elements
+
+Comptroller General Reports.—
+
+Assessment of strategy
+
+Assessment of implementation
+
+Covered Depot Defined
+
+## Source Credit
+
+*(Added [Pub. L. 109–364, div. A, title III, § 332(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2149](https://www.govinfo.gov/link/statute/120/2149); amended [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title III, § 327, Oct. 14, 2008, [122 Stat. 4418](https://www.govinfo.gov/link/statute/122/4418); [Pub. L. 111–383, div. A, title X, § 1075(b)(36)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4371](https://www.govinfo.gov/link/statute/124/4371); [Pub. L. 112–81, div. A, title III, § 325](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1364](https://www.govinfo.gov/link/statute/125/1364); [Pub. L. 117–263, div. A, title III, § 374(a)](https://www.govinfo.gov/link/plaw/117/public/263), (b)(1), Dec. 23, 2022, [136 Stat. 2541](https://www.govinfo.gov/link/statute/136/2541), 2542.)*

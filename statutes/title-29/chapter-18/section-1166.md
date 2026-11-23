@@ -3,9 +3,10 @@ title: "Section 1166 - Notice requirements"
 usc_title: 29
 usc_section: "1166"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1166"
-generated_at: "2026-03-30T02:55:18.721Z"
+generated_at: "2026-11-23T21:26:02.268Z"
+status: "active"
 ---
 
 # § 1166. Notice requirements
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:18.721Z"
     - **(B)** in the case of a qualifying event described in paragraph (3) or (5) of section 1163 of this title where the covered employee notifies the administrator under paragraph (3), any qualified beneficiary with respect to such event,
 - **(b)** The requirements of subsection (a)(2) shall be considered satisfied in the case of a multiemployer plan in connection with a qualifying event described in paragraph (2) of section 1163 of this title if the plan provides that the determination of the occurrence of such qualifying event will be made by the plan administrator.
 - **(c)** For purposes of subsection (a)(4), any notification shall be made within 14 days (or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan) of the date on which the administrator is notified under paragraph (2) or (3), whichever is applicable, and any such notification to an individual who is a qualified beneficiary as the spouse of the covered employee shall be treated as notification to all other qualified beneficiaries residing with such spouse at the time such notification is made.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 606](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 99–272, title X, § 10002(a)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 230](https://www.govinfo.gov/link/statute/100/230); amended [Pub. L. 99–509, title IX, § 9501(d)(2)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 2077](https://www.govinfo.gov/link/statute/100/2077); [Pub. L. 99–514, title XVIII, § 1895(d)(6)(B)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2939](https://www.govinfo.gov/link/statute/100/2939); [Pub. L. 101–239, title VI, § 6703(c)](https://www.govinfo.gov/link/plaw/101/public/239), title VII, § 7891(d)(1)(A), Dec. 19, 1989, [103 Stat. 2296](https://www.govinfo.gov/link/statute/103/2296), 2445; [Pub. L. 104–191, title IV, § 421(b)(2)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 2088](https://www.govinfo.gov/link/statute/110/2088).)*

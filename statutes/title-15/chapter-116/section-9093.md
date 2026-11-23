@@ -3,9 +3,10 @@ title: "Section 9093 - Procedures for providing payroll support"
 usc_title: 15
 usc_section: "9093"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9093"
-generated_at: "2026-03-30T02:54:08.244Z"
+generated_at: "2026-11-23T21:25:40.134Z"
+status: "active"
 ---
 
 # § 9093. Procedures for providing payroll support
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:08.244Z"
   - **(3)** The Secretary shall determine an appropriate method for the timely distribution of payments to passenger air carriers and contractors with approved requests for financial assistance from any funds remaining available after providing initial financial assistance payments under paragraph (2).
 - **(c)** The Secretary shall have the authority to reduce, on a pro rata basis, the amounts due to passenger air carriers and contractors under subsection (a) in order to address any shortfall in assistance that would otherwise be provided under such subsection.
 - **(d)** The Inspector General of the Department of the Treasury shall audit certifications made under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 116–260, div. N, title IV, § 403](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2053](https://www.govinfo.gov/link/statute/134/2053).)*

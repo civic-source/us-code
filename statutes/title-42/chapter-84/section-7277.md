@@ -3,9 +3,10 @@ title: "Section 7277 - Report concerning review of United States coal imports"
 usc_title: 42
 usc_section: "7277"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7277"
-generated_at: "2026-03-30T02:56:11.288Z"
+generated_at: "2026-11-23T21:26:33.061Z"
+status: "active"
 ---
 
 # § 7277. Report concerning review of United States coal imports
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:56:11.288Z"
   - **(4)** specifically highlight and analyze any significant trends of unusual variations in coal imports.
 - **(c)** The first report required by this section shall be submitted to Congress in March 1986. Subsequent reports shall be submitted within 90 days after the end of each quarter.
 - **(d)** Information and data required for the purpose of this section shall be subject to the law regarding the collection and disclosure of such data.
+
+In General
+
+Contents
+
+## Source Credit
+
+*([Pub. L. 99–58, title II, § 202](https://www.govinfo.gov/link/plaw/99/public/58), July 2, 1985, [99 Stat. 107](https://www.govinfo.gov/link/statute/99/107).)*

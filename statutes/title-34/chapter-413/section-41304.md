@@ -3,9 +3,10 @@ title: "Section 41304 - Family and domestic violence: data collection and report
 usc_title: 34
 usc_section: "41304"
 chapter: 413
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 41304"
-generated_at: "2026-03-30T02:55:33.313Z"
+generated_at: "2026-11-23T21:26:09.846Z"
+status: "active"
 ---
 
 # § 41304. Family and domestic violence: data collection and reporting
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:33.313Z"
   - **(2)** the relationship of the victim to the offender, for crimes of murder, aggravated assault, simple assault, rape, sexual offenses, and offenses against children.
 - **(b)** The Director of the Bureau of Justice Statistics, through the annual National Crime Survey, shall collect and publish data that more accurately measures the extent of domestic violence in America, especially the physical and sexual abuse of children and the elderly.
 - **(c)** There are authorized to be appropriated in fiscal years 1989, 1990, 1991, and 1992, such sums as are necessary to carry out the purposes of this section.
+
+## Source Credit
+
+*([Pub. L. 100–690, title VII, § 7609](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4517](https://www.govinfo.gov/link/statute/102/4517).)*

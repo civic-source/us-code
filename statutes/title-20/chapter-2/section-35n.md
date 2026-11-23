@@ -3,9 +3,10 @@ title: "Section 35n - Omitted"
 usc_title: 20
 usc_section: "35n"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 35n"
-generated_at: "2026-03-30T02:54:48.072Z"
+generated_at: "2026-11-23T21:25:46.912Z"
+status: "omitted"
 ---
 
 # §§ 35 to 35n. Omitted

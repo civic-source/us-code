@@ -3,9 +3,10 @@ title: "Section 3303 - Inventory and inspection of levees"
 usc_title: 33
 usc_section: "3303"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3303"
-generated_at: "2026-03-30T02:55:41.139Z"
+generated_at: "2026-11-23T21:26:11.482Z"
+status: "active"
 ---
 
 # § 3303. Inventory and inspection of levees
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:41.139Z"
     - **(A)** identify the specific engineering and maintenance deficiencies, if any; and
     - **(B)** describe the recommended remedies to correct each deficiency identified under subparagraph (A), and, if requested by owner of a non-Federal levee, the associated costs of those remedies.
   - **(2)** In identifying deficiencies and describing remedies for a levee under paragraph (1), the Secretary shall consult with relevant non-Federal interests, including by providing an opportunity for comment by those non-Federal interests.
+
+## Source Credit
+
+*([Pub. L. 110–114, title IX, § 9004](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1290](https://www.govinfo.gov/link/statute/121/1290); [Pub. L. 113–121, title III, § 3016(d)](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1292](https://www.govinfo.gov/link/statute/128/1292); [Pub. L. 114–322, title I, § 1130(b)](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1650](https://www.govinfo.gov/link/statute/130/1650); [Pub. L. 116–260, div. AA, title I, § 131](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2644](https://www.govinfo.gov/link/statute/134/2644).)*

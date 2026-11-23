@@ -3,9 +3,10 @@ title: "Section 597 - Acquisition of lands for water resource development projec
 usc_title: 33
 usc_section: "597"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 597"
-generated_at: "2026-03-30T02:55:41.064Z"
+generated_at: "2026-11-23T21:26:11.320Z"
+status: "active"
 ---
 
 # § 597. Acquisition of lands for water resource development projects; information as to probable timing for acquisition; public meetings; regulations
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:41.064Z"
   - **(8)** withdrawals by owners of deposits made in court by Government, and
   - **(9)** use of land by owner when easement is acquired. The provisions of this section shall not subject the United States to any liability nor affect the validity of any acquisitions by purchase or condemnation and shall be exempt from the operations of subchapter II of chapter 5, and chapter 7, of title 5.
 
+
+## Source Credit
+
+*([Pub. L. 86–645, title III, § 302](https://www.govinfo.gov/link/plaw/86/public/645), July 14, 1960, [74 Stat. 502](https://www.govinfo.gov/link/statute/74/502).)*

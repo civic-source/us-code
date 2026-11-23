@@ -3,9 +3,10 @@ title: "Section 1044 - Exemption of certain activities"
 usc_title: 21
 usc_section: "1044"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 1044"
-generated_at: "2026-03-30T02:54:54.301Z"
+generated_at: "2026-11-23T21:25:56.269Z"
+status: "active"
 ---
 
 # § 1044. Exemption of certain activities
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:54.301Z"
   - **(7)** the sale of eggs by any egg producer with an annual egg production from a flock of three thousand or less hens.
 - **(b)** The Secretary shall, by regulation and under such procedures as he may prescribe, exempt any plant located within noncontiguous areas of the United States from specific provisions of this chapter, where, despite good faith efforts by the owner of such plant, such owner has not been able to bring his plant into full compliance with this chapter: Provided , That in order to provide at least minimum standards for the protection of the public health, whenever processing operations are being conducted at any such plant, continuous inspection shall be maintained to assure that it is operated in a sanitary manner. No exemption under this subsection shall be granted for a period extending beyond December 31, 1971 .
 - **(c)** The Secretary may immediately suspend or terminate any exemption under paragraph (a)(2) or (6) 1 1 So in original. Probably should be “subsection (a)(2) or (6)”. of this section at any time with respect to any person, if the conditions of exemption prescribed by this section or the regulations of the Secretary are not being met. The Secretary may modify or revoke any regulation granting exemption under this chapter whenever he deems such action appropriate to effectuate the purposes of this chapter.
+
+## Source Credit
+
+*([Pub. L. 91–597, § 15](https://www.govinfo.gov/link/plaw/91/public/597), Dec. 29, 1970, [84 Stat. 1629](https://www.govinfo.gov/link/statute/84/1629); [Pub. L. 92–67](https://www.govinfo.gov/link/plaw/92/public/67), Aug. 6, 1971, [85 Stat. 173](https://www.govinfo.gov/link/statute/85/173).)*

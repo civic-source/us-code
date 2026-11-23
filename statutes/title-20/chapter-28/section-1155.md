@@ -3,9 +3,10 @@ title: "Section 1155 - Connie Lee privatization"
 usc_title: 20
 usc_section: "1155"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1155"
-generated_at: "2026-03-30T02:54:48.149Z"
+generated_at: "2026-11-23T21:25:47.263Z"
+status: "active"
 ---
 
 # § 1155. Connie Lee privatization
@@ -70,3 +71,7 @@ generated_at: "2026-03-30T02:54:48.149Z"
         - **(IV)** obtaining lease guarantees (in accordance with regulations promulgated by the Office of Public Charter School Financing).
       - **(ii)** Funds provided under a grant under this subparagraph may not be used by a recipient to make direct loans or grants to public charter schools.
     - **(F)** During fiscal year 2003 and each succeeding fiscal year, the Office of Public Charter School Financing and Support shall be responsible for receiving applications, making payments, and otherwise administering this paragraph, except that no grant may be made under this paragraph without the approval of the committee described in subparagraph (C)(iii).
+
+## Source Credit
+
+*([Pub. L. 104–208, div. A, title I, § 101(e) [title VI, § 603]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–233](https://www.govinfo.gov/link/statute/110/3009), 3009–290; [Pub. L. 106–113, div. A, title I, § 153](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1526](https://www.govinfo.gov/link/statute/113/1526); [Pub. L. 106–522, § 161](https://www.govinfo.gov/link/plaw/106/public/522), Nov. 22, 2000, [114 Stat. 2483](https://www.govinfo.gov/link/statute/114/2483); [Pub. L. 106–553, § 1(a)(1) [§ 161]](https://www.govinfo.gov/link/plaw/106/public/553), Dec. 21, 2000, [114 Stat. 2762](https://www.govinfo.gov/link/statute/114/2762), 2762A–45; [Pub. L. 106–554, § 1(a)(4) [div. A, § 406(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–189; [Pub. L. 107–96](https://www.govinfo.gov/link/plaw/107/public/96), Dec. 21, 2001, [115 Stat. 936](https://www.govinfo.gov/link/statute/115/936); [Pub. L. 108–7, div. C, title III, § 143(c)](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 131](https://www.govinfo.gov/link/statute/117/131); [Pub. L. 108–199, div. C, title IV, § 434](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 141](https://www.govinfo.gov/link/statute/118/141); [Pub. L. 108–335, title III, § 340(a)](https://www.govinfo.gov/link/plaw/108/public/335), Oct. 18, 2004, [118 Stat. 1348](https://www.govinfo.gov/link/statute/118/1348); [Pub. L. 108–447, div. J, title I, § 103(a)(2)](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3341](https://www.govinfo.gov/link/statute/118/3341).)*

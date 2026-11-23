@@ -3,9 +3,10 @@ title: "Section 6227 - Administrative adjustment request by partnership"
 usc_title: 26
 usc_section: "6227"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6227"
-generated_at: "2026-03-30T02:55:27.846Z"
+generated_at: "2026-11-23T21:26:06.837Z"
+status: "active"
 ---
 
 # § 6227. Administrative adjustment request by partnership
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:27.846Z"
   - **(1)** the date on which the partnership return for such year is filed, or
   - **(2)** the last day for filing the partnership return for such year (determined without regard to extensions).
 - **(d)** The Secretary shall issue regulations or other guidance which provide for the proper coordination of this section and section 905(c).
+
+## Source Credit
+
+*(Added [Pub. L. 114–74, title XI, § 1101(c)(1)](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 631](https://www.govinfo.gov/link/statute/129/631); amended [Pub. L. 115–141, div. U, title II](https://www.govinfo.gov/link/plaw/115/public/141), §§ 201(c)(5), 206(f), (p)(2), (3), Mar. 23, 2018, [132 Stat. 1173](https://www.govinfo.gov/link/statute/132/1173), 1179, 1182.)*

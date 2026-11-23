@@ -3,9 +3,10 @@ title: "Section 1812 - Issuance of certificate of registration"
 usc_title: 29
 usc_section: "1812"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1812"
-generated_at: "2026-03-30T02:55:18.739Z"
+generated_at: "2026-11-23T21:26:02.308Z"
+status: "active"
 ---
 
 # § 1812. Issuance of certificate of registration
@@ -17,3 +18,7 @@ The Secretary, after appropriate investigation and approval, shall issue a certi
   - **(3)** a statement identifying each facility or real property to be used to house any migrant agricultural worker and, if the facility or real property is or will be owned or controlled by the applicant, documentation showing that the applicant is in compliance with section 1823 of this title with respect to each such facility or real property;
   - **(4)** a set of fingerprints of the applicant; and
   - **(5)** a declaration, subscribed and sworn to by the applicant, consenting to the designation by a court of the Secretary as an agent available to accept service of summons in any action against the applicant, if the applicant has left the jurisdiction in which the action is commenced or otherwise has become unavailable to accept service.
+
+## Source Credit
+
+*([Pub. L. 97–470, title I, § 102](https://www.govinfo.gov/link/plaw/97/public/470), Jan. 14, 1983, [96 Stat. 2587](https://www.govinfo.gov/link/statute/96/2587).)*

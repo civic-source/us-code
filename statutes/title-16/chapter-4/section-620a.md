@@ -3,9 +3,10 @@ title: "Section 620a - Restrictions on exports of unprocessed timber originating
 usc_title: 16
 usc_section: "620a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 620a"
-generated_at: "2026-03-30T02:54:22.885Z"
+generated_at: "2026-11-23T21:25:51.699Z"
+status: "active"
 ---
 
 # § 620a. Restrictions on exports of unprocessed timber originating from Federal lands
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:22.885Z"
 - **(b)**
   - **(1)** The prohibition contained in subsection (a) shall not apply to specific quantities of grades and species of unprocessed timber originating from Federal lands which the Secretary concerned determines to be surplus to domestic manufacturing needs.
   - **(2)** Any determination under paragraph (1) shall be made in regulations issued in accordance with section 553 of title 5 . Any such determination shall be reviewed at least once in every 3-year period. The Secretary concerned shall publish notice of such review in the Federal Register, and shall give the public an opportunity to comment on such review.
+
+## Source Credit
+
+*([Pub. L. 101–382, title IV, § 489](https://www.govinfo.gov/link/plaw/101/public/382), Aug. 20, 1990, [104 Stat. 715](https://www.govinfo.gov/link/statute/104/715).)*

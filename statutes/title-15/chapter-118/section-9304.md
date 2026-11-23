@@ -3,9 +3,10 @@ title: "Section 9304 - Partnerships in sustainable chemistry"
 usc_title: 15
 usc_section: "9304"
 chapter: 118
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9304"
-generated_at: "2026-03-30T02:54:08.246Z"
+generated_at: "2026-11-23T21:25:40.140Z"
+status: "active"
 ---
 
 # § 9304. Partnerships in sustainable chemistry
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.246Z"
   - **(1)** to support or expand a regulatory chemical management program at an implementing agency under a State law;
   - **(2)** to construct or renovate a building or structure; or
   - **(3)** to promote the sale of a specific product, process, or technology, or to disparage a specific product, process, or technology.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. A, title II, § 264](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3501](https://www.govinfo.gov/link/statute/134/3501).)*

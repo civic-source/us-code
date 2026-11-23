@@ -3,9 +3,10 @@ title: "Section 2307 - Authorization of appropriations"
 usc_title: 20
 usc_section: "2307"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 2307"
-generated_at: "2026-03-30T02:54:48.173Z"
+generated_at: "2026-11-23T21:25:47.374Z"
+status: "active"
 ---
 
 # § 2307. Authorization of appropriations
@@ -18,3 +19,7 @@ There are authorized to be appropriated to carry out this chapter (other than se
   - **(4)** $1,281,936,777 for fiscal year 2022;
   - **(5)** $1,299,883,892 for fiscal year 2023; and
   - **(6)** $1,318,082,266 for fiscal year 2024.
+
+## Source Credit
+
+*([Pub. L. 88–210, § 9](https://www.govinfo.gov/link/plaw/88/public/210), as added [Pub. L. 109–270, § 1(b)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 691](https://www.govinfo.gov/link/statute/120/691); amended [Pub. L. 115–224, § 10](https://www.govinfo.gov/link/plaw/115/public/224), July 31, 2018, [132 Stat. 1576](https://www.govinfo.gov/link/statute/132/1576).)*

@@ -3,9 +3,10 @@ title: "Section 33106 - Exemption for passenger motor vehicles equipped with ant
 usc_title: 49
 usc_section: "33106"
 chapter: 331
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 33106"
-generated_at: "2026-03-30T02:56:19.368Z"
+generated_at: "2026-11-23T21:26:40.817Z"
+status: "active"
 ---
 
 # § 33106. Exemption for passenger motor vehicles equipped with anti-theft devices
@@ -32,3 +33,73 @@ generated_at: "2026-03-30T02:56:19.368Z"
 - **(e)** The Secretary may rescind an exemption if the Secretary decides that the anti-theft device has not been as effective in reducing and deterring motor vehicle theft as compliance with the standard. A rescission may be effective only—
   - **(1)** for a model year after the model year in which the rescission occurs; and
   - **(2)** at least 6 months after the manufacturer receives written notice of the rescission from the Secretary.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 33106(a)(1) | 15:2025(e). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 605(a)(1), (3), (b)–(e); added Oct. 25, 1984 , Pub. L. 98–547, § 101(a) , 98 Stat. 2759 . |
+| 33106(a)(2) | 15:2025(a)(3). |  |
+| 33106(b) | 15:2025(a)(1), (2). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 605(a)(2); added Oct. 25, 1984 , Pub. L. 98–547, § 101(a) , 98 Stat. 2759 ; Oct. 25, 1992 , Pub. L. 102–519, § 304 , 106 Stat. 3396 . |
+| 33106(c) | 15:2025(b). |  |
+| 33106(d) | 15:2025(c). |  |
+| 33106(e) | 15:2025(d). |  |
+
+
+Definitions
+
+Granting Exemptions and Limitations
+
+Petitioning Procedure
+
+Decisions and Approvals
+
+Rescissions
+
+Historical and Revision Notes
+
+Pub. L
+
+33106(a)(1)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Oct. 25, 1984
+
+Pub. L. 98–547, § 101(a)
+
+98 Stat. 2759
+
+33106(a)(2)
+
+33106(b)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Oct. 25, 1984
+
+Pub. L. 98–547, § 101(a)
+
+98 Stat. 2759
+
+Oct. 25, 1992
+
+Pub. L. 102–519, § 304
+
+106 Stat. 3396
+
+33106(c)
+
+33106(d)
+
+33106(e)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1082](https://www.govinfo.gov/link/statute/108/1082); [Pub. L. 103–429, § 6(45)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4383](https://www.govinfo.gov/link/statute/108/4383).)*

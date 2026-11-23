@@ -3,9 +3,10 @@ title: "Section 2016 - Issuance and use of program benefits"
 usc_title: 7
 usc_section: "2016"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2016"
-generated_at: "2026-03-30T02:53:42.366Z"
+generated_at: "2026-11-23T21:25:28.251Z"
+status: "active"
 ---
 
 # § 2016. Issuance and use of program benefits
@@ -210,3 +211,131 @@ generated_at: "2026-03-30T02:53:42.366Z"
       - **(iv)** the provision of data as requested by the Secretary for purposes of analyzing the impact of the project on participant access, ease of use, and program integrity;
       - **(v)** reports on progress, challenges, and results, as determined by the Secretary; and
       - **(vi)** such other criteria, including security criteria, as established by the Secretary.
+
+Requirements.—
+
+In general
+
+Multiple issuances
+
+In general.—
+
+Implementation
+
+Timely implementation
+
+State flexibility
+
+Operation
+
+Replacement of benefits
+
+Replacement of cards
+
+Fees
+
+Purposeful loss of cards.—
+
+In general
+
+Requirements
+
+Protecting vulnerable persons
+
+Effect on eligibility
+
+Optional photographic identification.—
+
+In general
+
+Other authorized users
+
+Federal law not applicable
+
+Application of anti-tying restrictions to electronic benefit transfer systems.—
+
+Definitions
+
+Affiliate
+
+Company
+
+Electronic benefit transfer service
+
+Point-of-sale service
+
+Restrictions
+
+Consultation with the federal reserve board
+
+Recovering electronic benefits.—
+
+In general
+
+Benefit storage.—
+
+In general
+
+Notice of benefit storage
+
+Benefit expunging.—
+
+In general
+
+Notice of benefit expunging
+
+Notice
+
+Fees.—
+
+Interchange fees
+
+Other fees
+
+Mobile technologies.—
+
+In general
+
+Demonstration projects on access of benefits through mobile technologies.—
+
+Demonstration projects
+
+Project requirements
+
+Priority
+
+Date of project approval
+
+Report to congress
+
+Benefit storage
+
+Benefit expunging
+
+Funding
+
+Use of Funds
+
+Resources for SNAP Online Purchasing
+
+Snap Online Purchasing Assistance for Direct-marketing Farmers and Farmers’ Markets
+
+Selection priority
+
+Definition of eligible entity
+
+Issuance Innovation and Technology Improvement Support
+
+Report
+
+Funding.—
+
+Appropriations
+
+Use of funds
+
+“The purposes of this Act [amending this section and enacting provisions set out as notes under this section and section 2011 of this title ] are—
+
+## Source Credit
+
+*([Pub. L. 88–525, § 7](https://www.govinfo.gov/link/plaw/88/public/525), Aug. 31, 1964, [78 Stat. 705](https://www.govinfo.gov/link/statute/78/705); [Pub. L. 91–671, § 5](https://www.govinfo.gov/link/plaw/91/public/671), Jan. 11, 1971, [84 Stat. 2050](https://www.govinfo.gov/link/statute/84/2050); [Pub. L. 93–86, § 3(m)](https://www.govinfo.gov/link/plaw/93/public/86), Aug. 10, 1973, [87 Stat. 248](https://www.govinfo.gov/link/statute/87/248); [Pub. L. 93–125, § 1(k)](https://www.govinfo.gov/link/plaw/93/public/125), Oct. 18, 1973, [87 Stat. 450](https://www.govinfo.gov/link/statute/87/450); [Pub. L. 94–339, § 2](https://www.govinfo.gov/link/plaw/94/public/339), July 5, 1976, [90 Stat. 799](https://www.govinfo.gov/link/statute/90/799); [Pub. L. 95–113, title XIII, § 1301](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 967](https://www.govinfo.gov/link/statute/91/967); [Pub. L. 97–98, title XIII, § 1312](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1285](https://www.govinfo.gov/link/statute/95/1285); [Pub. L. 97–253, title I](https://www.govinfo.gov/link/plaw/97/public/253), §§ 162, 190(c)(2), Sept. 8, 1982, [96 Stat. 778](https://www.govinfo.gov/link/statute/96/778), 787; [Pub. L. 99–198, title XV](https://www.govinfo.gov/link/plaw/99/public/198), §§ 1518, 1519, Dec. 23, 1985, [99 Stat. 1578](https://www.govinfo.gov/link/statute/99/1578); [Pub. L. 100–435, title II, § 203(b)](https://www.govinfo.gov/link/plaw/100/public/435), Sept. 19, 1988, [102 Stat. 1657](https://www.govinfo.gov/link/statute/102/1657); [Pub. L. 101–624, title XVII](https://www.govinfo.gov/link/plaw/101/public/624), §§ 1728, 1729(a), Nov. 28, 1990, [104 Stat. 3788](https://www.govinfo.gov/link/statute/104/3788), 3789; [Pub. L. 103–225, title I, § 102](https://www.govinfo.gov/link/plaw/103/public/225), Mar. 25, 1994, [108 Stat. 107](https://www.govinfo.gov/link/statute/108/107); [Pub. L. 104–193, title VIII, § 825(a)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2324](https://www.govinfo.gov/link/statute/110/2324); [Pub. L. 105–18, title VII](https://www.govinfo.gov/link/plaw/105/public/18), [(a)], June 12, 1997, [111 Stat. 216](https://www.govinfo.gov/link/statute/111/216); [Pub. L. 106–171, § 3](https://www.govinfo.gov/link/plaw/106/public/171), Feb. 11, 2000, [114 Stat. 3](https://www.govinfo.gov/link/statute/114/3); [Pub. L. 107–171, title IV, § 4110](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 309](https://www.govinfo.gov/link/statute/116/309); [Pub. L. 110–234, title IV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 4001(b), 4002(a)(4), 4113–4115(a), May 22, 2008, [122 Stat. 1092](https://www.govinfo.gov/link/statute/122/1092), 1093, 1103; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, §§ 4001(b), 4002(a)(4), 4113–4115(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1853, 1854, 1864, 1865; [Pub. L. 111–203, title X, § 1075(b)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2074](https://www.govinfo.gov/link/statute/124/2074); [Pub. L. 113–79, title IV](https://www.govinfo.gov/link/plaw/113/public/79), §§ 4002(b)–(d), 4010–4011(b)(2)(A), 4030(e), Feb. 7, 2014, [128 Stat. 783](https://www.govinfo.gov/link/statute/128/783), 784, 789–792, 814; [Pub. L. 115–334, title IV](https://www.govinfo.gov/link/plaw/115/public/334), §§ 4001(b), 4006(a)–(e), Dec. 20, 2018, [132 Stat. 4624](https://www.govinfo.gov/link/statute/132/4624), 4634, 4635.)*

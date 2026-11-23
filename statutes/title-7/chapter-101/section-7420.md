@@ -3,9 +3,10 @@ title: "Section 7420 - Investigations and power to subpoena"
 usc_title: 7
 usc_section: "7420"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7420"
-generated_at: "2026-03-30T02:53:42.451Z"
+generated_at: "2026-11-23T21:25:28.427Z"
+status: "active"
 ---
 
 # § 7420. Investigations and power to subpoena
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.451Z"
 - **(c)** In the case of contumacy by, or refusal to obey a subpoena issued to, any person, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which the investigation or proceeding is carried on, or where the person resides or carries on business, in order to require the attendance and testimony of the person or the production of records or documents. The court may issue an order requiring the person to appear before the Secretary to produce records or documents or to give testimony regarding the matter under investigation.
 - **(d)** Any failure to obey the order of the court may be punished by the court as a contempt of the court.
 - **(e)** Process in any case under this section may be served in the judicial district in which the person resides or carries on business or wherever the person may be found.
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 521](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1047](https://www.govinfo.gov/link/statute/110/1047).)*

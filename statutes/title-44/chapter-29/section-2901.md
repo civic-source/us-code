@@ -3,9 +3,10 @@ title: "Section 2901 - Definitions"
 usc_title: 44
 usc_section: "2901"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 2901"
-generated_at: "2026-03-30T02:55:56.295Z"
+generated_at: "2026-11-23T21:26:18.416Z"
+status: "active"
 ---
 
 # § 2901. Definitions
@@ -42,3 +43,17 @@ As used in this chapter, and chapters 21, 25, 31, and 33 of this title—
     - **(B)** ensuring that records are retained as long as necessary;
     - **(C)** identifying records that are due for disposition; and
     - **(D)** ensuring the storage, retrieval, and disposition of records.
+
+Establishment of Fund
+
+Start-Up Capital.—
+
+User Charges
+
+Funds Returned to Miscellaneous Receipts of the Department of the Treasury.—
+
+Reporting Requirement
+
+## Source Credit
+
+*(Added [Pub. L. 94–575, § 2(a)(1)](https://www.govinfo.gov/link/plaw/94/public/575), Oct. 21, 1976, [90 Stat. 2723](https://www.govinfo.gov/link/statute/90/2723); amended [Pub. L. 98–497, title I, § 107(b)(13)](https://www.govinfo.gov/link/plaw/98/public/497), Oct. 19, 1984, [98 Stat. 2287](https://www.govinfo.gov/link/statute/98/2287); [Pub. L. 107–217, § 3](https://www.govinfo.gov/link/plaw/107/public/217) (l)(2), Aug. 21, 2002, [116 Stat. 1301](https://www.govinfo.gov/link/statute/116/1301); [Pub. L. 113–187, § 8(6)](https://www.govinfo.gov/link/plaw/113/public/187), Nov. 26, 2014, [128 Stat. 2012](https://www.govinfo.gov/link/statute/128/2012); [Pub. L. 116–283, div. H, title XCVI, § 9602(b)(5)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4829](https://www.govinfo.gov/link/statute/134/4829).)*

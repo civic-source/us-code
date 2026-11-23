@@ -3,9 +3,10 @@ title: "Section 7612 - Statement of United States policy"
 usc_title: 16
 usc_section: "7612"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 7612"
-generated_at: "2026-03-30T02:54:23.076Z"
+generated_at: "2026-11-23T21:25:52.068Z"
+status: "active"
 ---
 
 # § 7612. Statement of United States policy
@@ -25,3 +26,7 @@ It is the policy of the United States—
   - **(3)** to employ appropriate assets and resources of the United States Government in a coordinated manner to curtail poaching and disrupt and dismantle illegal wildlife trade networks and the financing of those networks in a manner appropriate for each focus country;
   - **(4)** to build upon the National Strategy and Implementation Plan to further combat wildlife trafficking in a holistic manner and guide the response of the United States Government to ensure progress in the fight against wildlife trafficking; and
   - **(5)** to recognize the ties of wildlife trafficking to broader forms of transnational organized criminal activities, including trafficking, and where applicable, to focus on those crimes in a coordinated, cross-cutting manner.
+
+## Source Credit
+
+*([Pub. L. 114–231, title I, § 102](https://www.govinfo.gov/link/plaw/114/public/231), Oct. 7, 2016, [130 Stat. 951](https://www.govinfo.gov/link/statute/130/951).)*

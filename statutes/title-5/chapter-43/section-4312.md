@@ -3,9 +3,10 @@ title: "Section 4312 - Senior Executive Service performance appraisal systems"
 usc_title: 5
 usc_section: "4312"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 4312"
-generated_at: "2026-03-30T02:52:56.009Z"
+generated_at: "2026-11-23T21:25:23.190Z"
+status: "active"
 ---
 
 # § 4312. Senior Executive Service performance appraisal systems
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:52:56.009Z"
   - **(2)** The Comptroller General shall from time to time review performance appraisal systems under this section to determine the extent to which any such system meets the requirements under this subchapter and shall periodically report its findings to the Office and to each House of the Congress.
   - **(3)** If the Office determines that an agency performance appraisal system does not meet the requirements under this subchapter (including regulations prescribed under section 4315), the agency shall take such corrective action as may be required by the Office.
 - **(d)** A senior executive may not appeal any appraisal and rating under any performance appraisal system under this section.
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title IV, § 405(a)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1167](https://www.govinfo.gov/link/statute/92/1167); amended [Pub. L. 98–615, title III, § 306(b)(2)](https://www.govinfo.gov/link/plaw/98/public/615), Nov. 8, 1984, [98 Stat. 3220](https://www.govinfo.gov/link/statute/98/3220).)*

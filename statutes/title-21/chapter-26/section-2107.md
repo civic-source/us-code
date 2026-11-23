@@ -3,9 +3,10 @@ title: "Section 2107 - Sense of Congress"
 usc_title: 21
 usc_section: "2107"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 2107"
-generated_at: "2026-03-30T02:54:54.308Z"
+generated_at: "2026-11-23T21:25:56.298Z"
+status: "active"
 ---
 
 # § 2107. Sense of Congress
@@ -16,3 +17,7 @@ It is the sense of Congress that—
   - **(2)** additional inspectors are required to improve the Food and Drug Administration’s ability to safeguard the food supply of the United States;
   - **(3)** because of the increasing volume of international trade in food products the Secretary should make it a priority to enter into agreements with the trading partners of the United States with respect to food safety; and
   - **(4)** Congress should work to develop a comprehensive response to the issue of food safety.
+
+## Source Credit
+
+*([Pub. L. 110–85, title X, § 1008](https://www.govinfo.gov/link/plaw/110/public/85), Sept. 27, 2007, [121 Stat. 970](https://www.govinfo.gov/link/statute/121/970).)*

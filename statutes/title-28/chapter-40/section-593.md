@@ -3,9 +3,10 @@ title: "Section 593 - Duties of the division of the court"
 usc_title: 28
 usc_section: "593"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 593"
-generated_at: "2026-03-30T02:55:30.133Z"
+generated_at: "2026-11-23T21:26:01.061Z"
+status: "active"
 ---
 
 # § 593. Duties of the division of the court
@@ -35,3 +36,39 @@ generated_at: "2026-03-30T02:55:30.133Z"
     - **(D)** the reasonableness of the amount of money requested.
 - **(g)** The division of the court may, subject to section 594(h)(2), allow the disclosure of any notification, application, or any other document, material, or memorandum supplied to the division of the court under this chapter.
 - **(h)** When presented with significant legal issues, the division of the court may disclose sufficient information about the issues to permit the filing of timely amicus curiae briefs.
+
+Reference to Division of the Court
+
+Appointment and Jurisdiction of Independent Counsel.—
+
+Authority
+
+Qualifications of independent counsel
+
+Scope of prosecutorial jurisdiction
+
+Disclosure of identity and prosecutorial jurisdiction
+
+Expansion of Jurisdiction.—
+
+In general
+
+Procedure for request by independent counsel
+
+Return for Further Explanation
+
+Vacancies
+
+Attorneys’ Fees.—
+
+Award of fees
+
+Evaluation of fees
+
+Disclosure of Information
+
+Amicus Curiae Briefs
+
+## Source Credit
+
+*(Added [Pub. L. 95–521, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/95/public/521), Oct. 26, 1978, [92 Stat. 1869](https://www.govinfo.gov/link/statute/92/1869); amended [Pub. L. 97–409](https://www.govinfo.gov/link/plaw/97/public/409), §§ 2(a)(1), 5, Jan. 3, 1983, [96 Stat. 2039](https://www.govinfo.gov/link/statute/96/2039), 2041; [Pub. L. 100–191, § 2](https://www.govinfo.gov/link/plaw/100/public/191), Dec. 15, 1987, [101 Stat. 1297](https://www.govinfo.gov/link/statute/101/1297); [Pub. L. 103–270, § 3(n)](https://www.govinfo.gov/link/plaw/103/public/270), June 30, 1994, [108 Stat. 736](https://www.govinfo.gov/link/statute/108/736).)*

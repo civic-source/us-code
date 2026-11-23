@@ -3,9 +3,10 @@ title: "Section 4961 - Abatement of second tier taxes where there is correction"
 usc_title: 26
 usc_section: "4961"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4961"
-generated_at: "2026-03-30T02:55:27.809Z"
+generated_at: "2026-11-23T21:26:06.654Z"
+status: "active"
 ---
 
 # § 4961. Abatement of second tier taxes where there is correction
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:55:27.809Z"
   - **(2)** If, within 90 days after the day on which his claim for refund is denied, the person against whom the second tier tax was assessed fails to begin a proceeding described in section 7422 for the determination of his liability for such tax, paragraph (1) shall cease to apply with respect to such tax, effective on the day following the close of the 90-day period referred to in this paragraph.
   - **(3)** The running of the period of limitations provided in section 6502 on the collection by levy or by a proceeding in court with respect to any second tier tax described in paragraph (1) shall be suspended for the period during which the Secretary is prohibited from collecting by levy or a proceeding in court.
   - **(4)** If the Secretary makes a finding that the collection of the second tier tax is in jeopardy, nothing in this subsection shall prevent the immediate collection of such tax.
+
+First tier taxes
+
+Second tier taxes
+
+First and second tier tax
+
+## Source Credit
+
+*(Added [Pub. L. 96–596, § 2(c)(1)](https://www.govinfo.gov/link/plaw/96/public/596), Dec. 24, 1980, [94 Stat. 3472](https://www.govinfo.gov/link/statute/94/3472); amended [Pub. L. 99–514, title XVIII, § 1899A(50)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2961](https://www.govinfo.gov/link/statute/100/2961); [Pub. L. 115–141, div. U, title IV, § 401(a)(325)(C)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1200](https://www.govinfo.gov/link/statute/132/1200).)*

@@ -3,9 +3,10 @@ title: "Section 3055 - Horseracing anti-doping and medication control program"
 usc_title: 15
 usc_section: "3055"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3055"
-generated_at: "2026-03-30T02:54:08.186Z"
+generated_at: "2026-11-23T21:25:39.961Z"
+status: "active"
 ---
 
 # § 3055. Horseracing anti-doping and medication control program
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:54:08.186Z"
     - **(A)** The anti-doping and medication control standing committee, in consultation with the anti-doping and medication control enforcement agency, may develop and submit to the Authority for approval by the Authority proposed modifications to the baseline anti-doping and medication control rules.
     - **(B)** If the Authority approves a proposed modification under this paragraph, the proposed modification shall be submitted to and considered by the Commission in accordance with section 3053 of this title .
     - **(C)** The Authority shall not approve any proposed modification that renders an anti-doping and medication control rule less stringent than the baseline anti-doping and medication control rules described in paragraph (2) (including by increasing permitted medication thresholds, adding permitted medications, removing prohibited medications, or weakening enforcement mechanisms) without the approval of the anti-doping and medication control enforcement agency.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. FF, title XII, § 1206](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3263](https://www.govinfo.gov/link/statute/134/3263).)*

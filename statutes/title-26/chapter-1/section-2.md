@@ -3,9 +3,10 @@ title: "Section 2 - Special rules for capital gains invested in opportunity zone
 usc_title: 26
 usc_section: "2"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 2"
-generated_at: "2026-03-30T02:55:27.775Z"
+generated_at: "2026-11-23T21:26:06.507Z"
+status: "active"
 ---
 
 # § 1400Z–2. Special rules for capital gains invested in opportunity zones
@@ -86,3 +87,13 @@ generated_at: "2026-03-30T02:55:27.775Z"
     - **(B)** the underpayment rate established under section 6621(a)(2) for such month.
   - **(2)** In the case that the qualified opportunity fund is a partnership, the penalty imposed by paragraph (1) shall be taken into account proportionately as part of the distributive share of each partner of the partnership.
   - **(3)** No penalty shall be imposed under this subsection with respect to any failure if it is shown that such failure is due to reasonable cause.
+
+In general
+
+Acquisition of qualified opportunity zone property
+
+Substantial improvement
+
+## Source Credit
+
+*(Added [Pub. L. 115–97, title I, § 13823(a)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2184](https://www.govinfo.gov/link/statute/131/2184); amended [Pub. L. 119–21, title VII, § 70421(c)(1)](https://www.govinfo.gov/link/plaw/119/public/21) –(4), July 4, 2025, [139 Stat. 225](https://www.govinfo.gov/link/statute/139/225), 226.)*

@@ -3,9 +3,10 @@ title: "Section 3308 - Information access by the Comptroller General of the Unit
 usc_title: 50
 usc_section: "3308"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3308"
-generated_at: "2026-03-30T02:56:26.242Z"
+generated_at: "2026-11-23T21:26:39.029Z"
+status: "active"
 ---
 
 # § 3308. Information access by the Comptroller General of the United States
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:26.242Z"
   - **(1)** The directive issued under subsection (a)(1) shall be submitted to Congress by the Director of National Intelligence, together with any comments of the Comptroller General of the United States, no later than May 1, 2011 .
   - **(2)** Any amendment to such directive issued under subsection (a)(2) shall be submitted to Congress by the Director, together with any comments of the Comptroller General.
 - **(d)** The directive issued under subsection (a)(1) and any amendment to such directive issued under subsection (a)(2) shall take effect 60 days after the date such directive or amendment is submitted to Congress under subsection (c), unless the Director determines that for reasons of national security the directive or amendment should take effect sooner.
+
+## Source Credit
+
+*([Pub. L. 111–259, title III, § 348](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2700](https://www.govinfo.gov/link/statute/124/2700).)*

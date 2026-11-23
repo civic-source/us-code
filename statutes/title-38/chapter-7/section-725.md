@@ -3,9 +3,10 @@ title: "Section 725 - Annual performance plan for political appointees"
 usc_title: 38
 usc_section: "725"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 725"
-generated_at: "2026-03-30T02:55:53.475Z"
+generated_at: "2026-11-23T21:26:16.564Z"
+status: "active"
 ---
 
 # § 725. Annual performance plan for political appointees
@@ -19,3 +20,13 @@ generated_at: "2026-03-30T02:55:53.475Z"
 - **(c)** In this section, the term “political appointee” means an employee of the Department who holds—
   - **(1)** a position which has been excepted from the competitive service by reason of its confidential, policy-determining, policy-making, or policy-advocating character; or
   - **(2)** a position in the Senior Executive Service as a noncareer appointee (as such term is defined in section 3132(a) of title 5 ).
+
+In General
+
+Elements of Plan
+
+Definition of Political Appointee
+
+## Source Credit
+
+*(Added [Pub. L. 115–46, title II, § 203(a)](https://www.govinfo.gov/link/plaw/115/public/46), Aug. 12, 2017, [131 Stat. 962](https://www.govinfo.gov/link/statute/131/962).)*

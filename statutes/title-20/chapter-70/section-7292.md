@@ -3,9 +3,10 @@ title: "Section 7292 - Assistance for arts education"
 usc_title: 20
 usc_section: "7292"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7292"
-generated_at: "2026-03-30T02:54:48.209Z"
+generated_at: "2026-11-23T21:25:47.571Z"
+status: "active"
 ---
 
 # § 7292. Assistance for arts education
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:48.209Z"
   - **(2)** The term “eligible national nonprofit organization” means an organization of national scope that—
     - **(A)** is supported by staff, which may include volunteers, or affiliates at the State and local levels; and
     - **(B)** demonstrates effectiveness or high-quality plans for addressing arts education activities for disadvantaged students or students who are children with disabilities.
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4642](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title IV, § 4601](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2033](https://www.govinfo.gov/link/statute/129/2033).)*

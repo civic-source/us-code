@@ -3,9 +3,10 @@ title: "Section 3243 - Negotiations"
 usc_title: 22
 usc_section: "3243"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3243"
-generated_at: "2026-03-30T02:55:05.390Z"
+generated_at: "2026-11-23T21:25:58.579Z"
+status: "active"
 ---
 
 # § 3243. Negotiations
@@ -14,3 +15,7 @@ The United States shall seek to negotiate with other nations and groups of natio
 
   - **(1)** adopt general principles and procedures, including common international sanctions, to be followed in the event that a nation violates any material obligation with respect to the peaceful use of nuclear materials and equipment or nuclear technology, or in the event that any nation violates the principles of the Treaty, including the detonation by a non-­nuclear-weapon state of a nuclear explosive device; and
   - **(2)** establish international procedures to be followed in the event of diversion, theft, or sabotage of nuclear materials or sabotage of nuclear facilities, and for recovering nuclear materials that have been lost or stolen, or obtained or used by a nation or by any person or group in contravention of the principles of the Treaty.
+
+## Source Credit
+
+*([Pub. L. 95–242, title II, § 203](https://www.govinfo.gov/link/plaw/95/public/242), Mar. 10, 1978, [92 Stat. 124](https://www.govinfo.gov/link/statute/92/124).)*

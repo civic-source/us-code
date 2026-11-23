@@ -3,9 +3,10 @@ title: "Section 1792 - Child care employees"
 usc_title: 10
 usc_section: "1792"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1792"
-generated_at: "2026-03-30T02:53:38.138Z"
+generated_at: "2026-11-23T21:25:32.542Z"
+status: "active"
 ---
 
 # § 1792. Child care employees
@@ -34,3 +35,65 @@ generated_at: "2026-03-30T02:53:38.138Z"
   - **(2)** Notwithstanding paragraph (1), no employee shall receive a rate of pay under this subsection that is lower than the minimum hourly rate of pay applicable to civilian employees of the Department of Defense.
   - **(3)** For purposes of determining the rates of pay under paragraph (1), the Secretary shall use the metropolitan and nonmetropolitan area occupational employment and wage estimates published monthly by the Bureau of Labor Statistics.
 - **(d)** In this section, the term “competitive service position” means a position in the competitive service, as defined in section 2102(a)(1) of title 5 .
+
+Required Training
+
+Training and Curriculum Specialists
+
+Competitive Rates of Pay
+
+Competitive Service Position Defined
+
+Employment Preference Program for Military Spouses
+
+Employee pay rate not reduced
+
+Pay band minimum
+
+In General
+
+Redesigned Compensation Model
+
+Modernize Child Development Program Staffing Model
+
+Briefings Required.—
+
+Initial baseline briefing.—
+
+In general
+
+Establishment of data baseline
+
+Annual briefings.—
+
+In general
+
+Elements
+
+In General
+
+Selection of Centers
+
+Functions
+
+Briefings Required.—
+
+Briefing on anticipated costs
+
+Briefings on implementation
+
+Briefing on effectiveness of program
+
+Duration of Pilot Program
+
+Child Development Center Defined
+
+In General
+
+Elements
+
+Clearance Defined
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title V, § 568(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 332](https://www.govinfo.gov/link/statute/110/332); amended [Pub. L. 105–85, div. A, title X, § 1073(a)(34)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1902](https://www.govinfo.gov/link/statute/111/1902); [Pub. L. 105–261, div. A, title XI, § 1106](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2142](https://www.govinfo.gov/link/statute/112/2142); [Pub. L. 118–159, div. A, title V, § 583(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1911](https://www.govinfo.gov/link/statute/138/1911).)*

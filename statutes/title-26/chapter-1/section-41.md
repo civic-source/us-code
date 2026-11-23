@@ -3,9 +3,10 @@ title: "Section 41 - Credit for increasing research activities"
 usc_title: 26
 usc_section: "41"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 41"
-generated_at: "2026-03-30T02:55:27.594Z"
+generated_at: "2026-11-23T21:26:05.913Z"
+status: "active"
 ---
 
 # § 41. Credit for increasing research activities
@@ -290,3 +291,97 @@ generated_at: "2026-03-30T02:55:27.594Z"
     - **(A)** regulations to prevent the avoidance of the purposes of the limitations and aggregation rules under this subsection through the use of successor companies or other means,
     - **(B)** regulations to minimize compliance and record-keeping burdens under this subsection, and
     - **(C)** regulations for recapturing the benefit of credits determined under section 3111(f) in cases where there is a subsequent adjustment to the payroll tax credit portion of the credit determined under subsection (a), including requiring amended income tax returns in the cases where there is such an adjustment.
+
+In general
+
+Computation of base amount
+
+Extension
+
+Modifications
+
+In general
+
+Extension
+
+Effective date
+
+Transition rule.—
+
+In general
+
+Definitions
+
+Specified transitional taxable year
+
+Applicable 2006 percentage
+
+Applicable 2007 percentage
+
+Transition rule for deemed revocation of election of alternative incremental credit
+
+Effective date
+
+Transition rule for noncalendar taxable years.—
+
+In general
+
+Definitions and special rules
+
+Definitions
+
+Dual elections permitted
+
+Deferral of deemed election revocation
+
+In general
+
+Subsections
+
+and
+
+Estimated tax
+
+In general
+
+Subsection
+
+Basic research
+
+In general
+
+Transitional rule.—
+
+In general
+
+Definitions
+
+Research Credit Elections
+
+Other Elections
+
+In general
+
+Suspension periods
+
+Expedited refunds.—
+
+In general
+
+Deadline for applications
+
+Allowance of adjustments
+
+Consolidated returns
+
+Credit attributable to suspension period.—
+
+In general
+
+Waiver of estimated tax penalties
+
+Secretary
+
+## Source Credit
+
+*(Added [Pub. L. 97–34, title II, § 221(a)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 241](https://www.govinfo.gov/link/statute/95/241), § 44F; amended [Pub. L. 97–354, § 5(a)(3)](https://www.govinfo.gov/link/plaw/97/public/354), Oct. 19, 1982, [96 Stat. 1692](https://www.govinfo.gov/link/statute/96/1692); [Pub. L. 97–448, title I, § 102(h)(2)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2372](https://www.govinfo.gov/link/statute/96/2372); renumbered § 30 and amended [Pub. L. 98–369, div. A, title IV](https://www.govinfo.gov/link/plaw/98/public/369), §§ 471(c), 474(i)(1), title VI, § 612(e)(1), July 18, 1984, [98 Stat. 826](https://www.govinfo.gov/link/statute/98/826), 831, 912; renumbered § 41 and amended [Pub. L. 99–514, title II, § 231(a)(1)](https://www.govinfo.gov/link/plaw/99/public/514), (b), (c), (d)(2), (3)(C)(ii), (e), title XVIII, § 1847(b)(1), Oct. 22, 1986, [100 Stat. 2173](https://www.govinfo.gov/link/statute/100/2173), 2175, 2178–2180, 2856; [Pub. L. 100–647, title I, § 1002(h)(1)](https://www.govinfo.gov/link/plaw/100/public/647), title IV, §§ 4007(a), 4008(b)(1), Nov. 10, 1988, [102 Stat. 3370](https://www.govinfo.gov/link/statute/102/3370), 3652; [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7110(a)(1), (b), (b)[(c)], 7814(e)(2)(C), Dec. 19, 1989, [103 Stat. 2322](https://www.govinfo.gov/link/statute/103/2322), 2323, 2325, 2414; [Pub. L. 101–508, title XI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 11101(d)(1)(C), 11402(a), Nov. 5, 1990, [104 Stat. 1388–405](https://www.govinfo.gov/link/statute/104/1388), 1388–473; [Pub. L. 102–227, title I, § 102(a)](https://www.govinfo.gov/link/plaw/102/public/227), Dec. 11, 1991, [105 Stat. 1686](https://www.govinfo.gov/link/statute/105/1686); [Pub. L. 103–66, title XIII](https://www.govinfo.gov/link/plaw/103/public/66), §§ 13111(a)(1), 13112(a), (b), 13201(b)(3)(C), Aug. 10, 1993, [107 Stat. 420](https://www.govinfo.gov/link/statute/107/420), 421, 459; [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1201(e)(1), (4), 1204(a)–(d), Aug. 20, 1996, [110 Stat. 1772–1774](https://www.govinfo.gov/link/statute/110/1772); [Pub. L. 105–34, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/105/public/34), (b)(1), Aug. 5, 1997, [111 Stat. 861](https://www.govinfo.gov/link/statute/111/861); [Pub. L. 105–277, div. J, title I, § 1001(a)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–888](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–170, title V, § 502(a)(1)](https://www.govinfo.gov/link/plaw/106/public/170), (b)(1), (c)(1), Dec. 17, 1999, [113 Stat. 1919](https://www.govinfo.gov/link/statute/113/1919); [Pub. L. 108–311, title III, § 301(a)(1)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1178](https://www.govinfo.gov/link/statute/118/1178); [Pub. L. 109–58, title XIII, § 1351(a)](https://www.govinfo.gov/link/plaw/109/public/58), (b), Aug. 8, 2005, [119 Stat. 1056](https://www.govinfo.gov/link/statute/119/1056), 1057; [Pub. L. 109–135, title IV, § 402](https://www.govinfo.gov/link/plaw/109/public/135) (l), Dec. 21, 2005, [119 Stat. 2615](https://www.govinfo.gov/link/statute/119/2615); [Pub. L. 109–432, div. A, title I, § 104(a)(1)](https://www.govinfo.gov/link/plaw/109/public/432), (b)(1), (c)(1), Dec. 20, 2006, [120 Stat. 2934](https://www.govinfo.gov/link/statute/120/2934), 2935; [Pub. L. 110–172](https://www.govinfo.gov/link/plaw/110/public/172), §§ 6(c), 11(e)(2), Dec. 29, 2007, [121 Stat. 2479](https://www.govinfo.gov/link/statute/121/2479), 2489; [Pub. L. 110–343, div. C, title III, § 301(a)(1)](https://www.govinfo.gov/link/plaw/110/public/343), (b)–(d), Oct. 3, 2008, [122 Stat. 3865](https://www.govinfo.gov/link/statute/122/3865), 3866; [Pub. L. 111–312, title VII, § 731(a)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3317](https://www.govinfo.gov/link/statute/124/3317); [Pub. L. 112–240, title III, § 301(a)(1)](https://www.govinfo.gov/link/plaw/112/public/240), (b), (c), Jan. 2, 2013, [126 Stat. 2326](https://www.govinfo.gov/link/statute/126/2326), 2328; [Pub. L. 113–295, div. A, title I, § 111(a)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4014](https://www.govinfo.gov/link/statute/128/4014); [Pub. L. 114–113, div. Q, title I, § 121(a)(1)](https://www.govinfo.gov/link/plaw/114/public/113), (c)(1), Dec. 18, 2015, [129 Stat. 3049](https://www.govinfo.gov/link/statute/129/3049); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 11002(d)(1)(F), (2), 13206(d)(1), Dec. 22, 2017, [131 Stat. 2060](https://www.govinfo.gov/link/statute/131/2060), 2061, 2112; [Pub. L. 115–141, div. U, title I, § 101(c)](https://www.govinfo.gov/link/plaw/115/public/141), title IV, § 401(b)(6), Mar. 23, 2018, [132 Stat. 1160](https://www.govinfo.gov/link/statute/132/1160), 1202; [Pub. L. 117–169, title I, § 13902(a)](https://www.govinfo.gov/link/plaw/117/public/169), (c), Aug. 16, 2022, [136 Stat. 2013](https://www.govinfo.gov/link/statute/136/2013), 2014; [Pub. L. 119–21, title VII, § 70302(b)(2)(A)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 191](https://www.govinfo.gov/link/statute/139/191).)*

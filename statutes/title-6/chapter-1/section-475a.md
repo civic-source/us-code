@@ -3,9 +3,10 @@ title: "Section 475a - Mentor-protégé program"
 usc_title: 6
 usc_section: "475a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 475a"
-generated_at: "2026-03-30T02:53:09.466Z"
+generated_at: "2026-11-23T21:25:25.798Z"
+status: "active"
 ---
 
 # § 475a. Mentor-protégé program
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:53:09.466Z"
     - **(A)** is eligible to enter into a prime contract or subcontract with the Department; and
     - **(B)** satisfies any other requirements imposed by the Secretary.
   - **(5)** The terms “small business concern”, “small business concern owned and controlled by veterans”, “small business concern owned and controlled by service-disabled veterans”, “qualified HUBZone small business concern”, “and small 2 2 So in original. The opening quotation marks preceding “and” probably should precede “small”. business concern owned and controlled by women” have the meanings given such terms, respectively, under section 632 of title 15 . The term “small business concern owned and controlled by socially and economically disadvantaged individuals” has the meaning given such term in section 637(d)(3)(C) of title 15 .
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 890D](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 117–263, div. G, title LXXI, § 7115(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3634](https://www.govinfo.gov/link/statute/136/3634).)*

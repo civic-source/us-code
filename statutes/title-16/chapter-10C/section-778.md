@@ -3,9 +3,10 @@ title: "Section 778 - Establishment of experiment stations; purpose of research"
 usc_title: 16
 usc_section: "778"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 778"
-generated_at: "2026-03-30T02:54:22.909Z"
+generated_at: "2026-11-23T21:25:51.753Z"
+status: "active"
 ---
 
 # § 778. Establishment of experiment stations; purpose of research
@@ -18,3 +19,7 @@ The Secretary of Agriculture shall establish 1 or more centers for the purpose o
   - **(4)** to develop economical methods for raising the more desirable species of fishes to a marketable size;
   - **(5)** to determine, in cooperation with the Secretary of the Interior, the effects of fish-rice rotations, including crops other than rice commonly grown on rice farms, upon both the fish and other crops; and
   - **(6)** to develop suitable methods for harvesting the fish crop and preparing it for marketing, including a study of sport fishing as a means of such harvest.
+
+## Source Credit
+
+*([Pub. L. 85–342, § 1](https://www.govinfo.gov/link/plaw/85/public/342), Mar. 15, 1958, [72 Stat. 35](https://www.govinfo.gov/link/statute/72/35); [Pub. L. 104–127, title VIII, § 889(a)(1)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1180](https://www.govinfo.gov/link/statute/110/1180).)*

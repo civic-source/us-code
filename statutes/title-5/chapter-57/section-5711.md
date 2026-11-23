@@ -3,9 +3,10 @@ title: "Section 5711 - Authority for telework travel expenses programs"
 usc_title: 5
 usc_section: "5711"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5711"
-generated_at: "2026-03-30T02:52:56.024Z"
+generated_at: "2026-11-23T21:25:23.294Z"
+status: "active"
 ---
 
 # § 5711. Authority for telework travel expenses programs
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:52:56.024Z"
       - **(ii)** an analysis of the effectiveness of the program, as determined under criteria developed by the Director.
     - **(C)** With respect to an employee of the Patent and Trademark Office who voluntarily relocates from the pre-existing duty station of that employee, the operating procedures of the program may include a reasonable maximum number of occasional visits to the pre-existing duty station before that employee is eligible for payment of any accrued travel expenses by the Office.
 - **(g)** The authority to conduct test programs under subsection (b) shall expire on December 31, 2020 .
+
+## Source Credit
+
+*(Added [Pub. L. 111–292, § 3(a)](https://www.govinfo.gov/link/plaw/111/public/292), Dec. 9, 2010, [124 Stat. 3171](https://www.govinfo.gov/link/statute/124/3171); amended [Pub. L. 115–232, div. A, title XI, § 1105(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2001](https://www.govinfo.gov/link/statute/132/2001); [Pub. L. 116–283, div. A, title XI, § 1112(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3893](https://www.govinfo.gov/link/statute/134/3893).)*

@@ -3,9 +3,10 @@ title: "Section 1861a - Transition to sustainable fisheries"
 usc_title: 16
 usc_section: "1861a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1861a"
-generated_at: "2026-03-30T02:54:22.992Z"
+generated_at: "2026-11-23T21:25:51.931Z"
+status: "active"
 ---
 
 # § 1861a. Transition to sustainable fisheries
@@ -206,3 +207,67 @@ generated_at: "2026-03-30T02:54:22.992Z"
   - **(4)** The Secretary shall contract with each person participating in a program, and each such contract shall, in addition to including such other matters as the Secretary deems necessary and appropriate to effectively implement each program (including penalties for contract non-performance) be consistent with the framework and implementing regulations and all other applicable law.
   - **(5)** Each program not involving fair market assessment shall involve a reduction auction that scores the reduction price of each bid offer by the data relevant to each bidder under an appropriate fisheries productivity factor. If the Secretary accepts bids, the Secretary shall accept responsive bids in the rank order of their bid scores, starting with the bid whose reduction price is the lowest percentage of the productivity factor, and successively accepting each additional responsive bid in rank order until either there are no more responsive bids or acceptance of the next bid would cause the total value of bids accepted to exceed the amount of funds available for the program.
   - **(6)** Each program shall proceed by the Secretary issuing invitations to bid setting out the terms and conditions for participation consistent with the framework and implementing regulations. Each bid that the Secretary receives in response to the invitation to bid shall constitute an irrevocable offer from the bidder.
+
+(aa) 12-month revenue loss for the affected fishery; or
+
+(bb) negative subsistence impact for the affected fishery, or if a fishery resource disaster has occurred at any time in the previous 5-year period, the most recent 5 years when no fishery resource disaster occurred;
+
+(aa) fishery characteristics;
+
+(bb) stock assessments;
+
+(cc) the most recent fishery independent surveys and other fishery resource assessments and surveys conducted by Federal, State, or Tribal officials;
+
+(dd) estimates of mortality; and
+
+(ee) overall effects; and
+
+(aa) landings data;
+
+(bb) revenue;
+
+(cc) the number of participants involved;
+
+(dd) the number and type of jobs and persons impacted, which may include— (AA) fishers; (BB) charter fishing operators; (CC) subsistence users; (DD) United States fish processors; and (EE) an owner of a related fishery infrastructure or business affected by the disaster, such as a marina operator, recreational fishing equipment retailer, or charter, headboat, or tender vessel owner, operator, or crew;
+
+(ee) an impacted Indian Tribe;
+
+(ff) other forms of disaster assistance made available to the fishery, including prior awards of disaster assistance for the same event;
+
+(gg) the length of time the resource, or access to the resource, has been restricted;
+
+(hh) status of recovery from previous fishery resource disasters;
+
+(ii) lost resource tax revenues assessed by local communities, such as a raw fish tax; and
+
+(jj) other appropriate indicators to an affected fishery, as determined by the National Marine Fisheries Service.
+
+(aa) Habitat conservation and restoration and other activities, including scientific research, that reduce adverse impacts to the fishery or improve understanding of the affected species or its ecosystem.
+
+(bb) The collection of fishery information and other activities that improve management of the affected fishery.
+
+(cc) In a commercial fishery, capacity reduction and other activities that improve management of fishing effort, including funds to offset budgetary costs to refinance a Federal fishing capacity reduction loan or to repay the principal of a Federal fishing capacity reduction loan.
+
+(dd) Developing, repairing, or improving fishery-related public infrastructure.
+
+(ee) Direct assistance to a person, fishing community (including assistance for lost fisheries resource levies), or a business to alleviate economic loss incurred as a direct result of a fishery resource disaster, particularly when affected by a circumstance described in paragraph (5)(D) or by negative impacts to subsistence or Indian Tribe ceremonial fishing opportunity.
+
+(ff) Hatcheries and stock enhancement to help rebuild the affected stock or offset fishing pressure on the affected stock.
+
+(aa) scrapped or otherwise disposed of in a manner approved by the Secretary;
+
+(bb) donated to a nonprofit organization and thereafter used only for purposes of research, education, or training; or
+
+(cc) used for another non-fishing purpose provided the Secretary determines that adequate measures are in place to ensure that the vessel cannot reenter any fishery anywhere in the world.
+
+Payment condition
+
+Report.—
+
+In general
+
+Basis for recommendations
+
+## Source Credit
+
+*([Pub. L. 94–265, title III, § 312](https://www.govinfo.gov/link/plaw/94/public/265), as added [Pub. L. 104–297, title I, § 116(a)](https://www.govinfo.gov/link/plaw/104/public/297), Oct. 11, 1996, [110 Stat. 3600](https://www.govinfo.gov/link/statute/110/3600); amended [Pub. L. 109–479, title I, § 112(a)](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3598](https://www.govinfo.gov/link/statute/120/3598); [Pub. L. 117–328, div. S, title II, § 202](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5261](https://www.govinfo.gov/link/statute/136/5261); [Pub. L. 118–229, § 2](https://www.govinfo.gov/link/plaw/118/public/229), Jan. 4, 2025, [138 Stat. 2824](https://www.govinfo.gov/link/statute/138/2824).)*

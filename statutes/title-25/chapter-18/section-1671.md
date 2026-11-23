@@ -3,9 +3,10 @@ title: "Section 1671 - Reports"
 usc_title: 25
 usc_section: "1671"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1671"
-generated_at: "2026-03-30T02:54:52.826Z"
+generated_at: "2026-11-23T21:25:54.633Z"
+status: "active"
 ---
 
 # § 1671. Reports
@@ -25,3 +26,59 @@ The President shall, at the time the budget is submitted under section 1105 of t
   - **(7)** for fiscal year 1995, the report required by sections 1665a(c)(3) 2 and 1665 l (b) 2 of this title;
   - **(8)** for fiscal year 1997, the interim report required by section 1637(h)(1) 2 of this title; and
   - **(9)** for fiscal year 1999, the reports required by sections 1637(h)(2), 2 1660b(b), 2 1665j(f), 2 and 1680k(g) 2 of this title.
+
+In General
+
+Membership.—
+
+In general
+
+Appointing authority
+
+Limitation
+
+Chairperson
+
+Experts
+
+Period of Appointment
+
+Duties of the Commission
+
+Powers of the Commission.—
+
+Hearings
+
+Information from federal agencies
+
+Compensation of Members.—
+
+In general
+
+Limitation
+
+Travel Expenses of Members
+
+Commission Personnel Matters.—
+
+In general
+
+Compensation of personnel
+
+Detail of government employees
+
+Consultant services
+
+Report.—
+
+In general
+
+Exception
+
+Permanent Commission
+
+Authorization of Appropriations
+
+## Source Credit
+
+*([Pub. L. 94–437, title VIII, § 801](https://www.govinfo.gov/link/plaw/94/public/437), formerly title VII, § 701, Sept. 30, 1976, [90 Stat. 1413](https://www.govinfo.gov/link/statute/90/1413); renumbered title VIII, § 801, and amended [Pub. L. 102–573, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/102/public/573), (b), title VIII, § 801, Oct. 29, 1992, [106 Stat. 4572](https://www.govinfo.gov/link/statute/106/4572), 4584.)*

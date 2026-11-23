@@ -3,9 +3,10 @@ title: "Section 2211a - Preserving United States harbors"
 usc_title: 33
 usc_section: "2211a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2211a"
-generated_at: "2026-03-30T02:55:41.112Z"
+generated_at: "2026-11-23T21:26:11.422Z"
+status: "active"
 ---
 
 # § 2211a. Preserving United States harbors
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:41.112Z"
 - **(c)** Not later than 180 days after the date on which the Secretary receives a report under subsection (a), the Secretary shall provide to the non-Federal interest a written response to the report, including an assessment of the information provided by the non-Federal interest.
 - **(d)** As the Secretary determines to be appropriate, the Secretary may use the information provided in the report under subsection (a) to justify additional operation and maintenance funding for a federally authorized harbor in accordance with section 2211(b) of this title .
 - **(e)** Nothing in this section may be construed to preclude the operation and maintenance of a federally authorized harbor under section 2211(b) of this title .
+
+## Source Credit
+
+*([Pub. L. 113–121, title II, § 2107](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1281](https://www.govinfo.gov/link/statute/128/1281).)*

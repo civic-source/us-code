@@ -3,9 +3,10 @@ title: "Section 771 - Definitions"
 usc_title: 31
 usc_section: "771"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 771"
-generated_at: "2026-03-30T02:55:34.047Z"
+generated_at: "2026-11-23T21:26:10.533Z"
+status: "active"
 ---
 
 # § 771. Definitions
@@ -20,3 +21,29 @@ In this subchapter—
     - **(A)** was married to the individual for at least 1 year immediately before the individual died; or
     - **(B)** has not remarried before age 55 and is the parent of issue by the marriage.
   - **(3)** service as a Comptroller General equals the number of years and complete months an individual is Comptroller General.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 771(1), (2) | 31:43b(g). | June 10, 1921, ch. 18 , 42 Stat. 20 , § 319(g), (p); added July 13, 1959 , Pub. L. 86–87 , 73 Stat. 198 , 200. |
+| 771(3) | 31:43b(p). |  |
+
+
+Historical and Revision Notes
+
+771(1), (2)
+
+June 10, 1921, ch. 18
+
+42 Stat. 20
+
+July 13, 1959
+
+Pub. L. 86–87
+
+73 Stat. 198
+
+771(3)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 902](https://www.govinfo.gov/link/statute/96/902); [Pub. L. 100–426, title II, § 202](https://www.govinfo.gov/link/plaw/100/public/426), Sept. 9, 1988, [102 Stat. 1600](https://www.govinfo.gov/link/statute/102/1600); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

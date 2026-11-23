@@ -3,9 +3,10 @@ title: "Section 2465 - John Lewis Civil Rights Fellowship Program"
 usc_title: 22
 usc_section: "2465"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2465"
-generated_at: "2026-03-30T02:55:05.370Z"
+generated_at: "2026-11-23T21:25:58.500Z"
+status: "active"
 ---
 
 # § 2465. John Lewis Civil Rights Fellowship Program
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:55:05.370Z"
     - **(B)** the Secretary on lessons learned;
   - **(3)** a plan for factoring such lessons learned into future programming, and
   - **(4)** an analysis of trends relating to the diversity of each cohort of fellows and the topics of projects completed since the establishment of the Fellowship Program.
+
+## Source Credit
+
+*([Pub. L. 87–256, § 115](https://www.govinfo.gov/link/plaw/87/public/256), as added [Pub. L. 118–31, div. F, title LXVI, § 6604(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1011](https://www.govinfo.gov/link/statute/137/1011).)*

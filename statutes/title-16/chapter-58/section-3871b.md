@@ -3,9 +3,10 @@ title: "Section 3871b - Regional conservation partnerships"
 usc_title: 16
 usc_section: "3871b"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3871b"
-generated_at: "2026-03-30T02:54:23.037Z"
+generated_at: "2026-11-23T21:25:52.004Z"
+status: "active"
 ---
 
 # § 3871b. Regional conservation partnerships
@@ -74,3 +75,7 @@ generated_at: "2026-03-30T02:54:23.037Z"
     - **(A)** to continue to implement the project under a renewal of the partnership agreement; or
     - **(B)** to expand the scope of the project under a renewal of the partnership agreement, as long as the expansion is within the objectives and purposes of the original partnership agreement.
 - **(f)** The adjusted gross income limitation described in section 1308–3a(b)(1) of title 7 shall not apply to an eligible partner under the program.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1271B](https://www.govinfo.gov/link/plaw/99/public/198), as added [Pub. L. 113–79, title II, § 2401](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 746](https://www.govinfo.gov/link/statute/128/746); amended [Pub. L. 115–334, title II, § 2703](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4594](https://www.govinfo.gov/link/statute/132/4594).)*

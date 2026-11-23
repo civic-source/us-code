@@ -3,9 +3,10 @@ title: "Section 19152 - Collection and reporting of data on Federal research awa
 usc_title: 42
 usc_section: "19152"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19152"
-generated_at: "2026-03-30T02:56:11.541Z"
+generated_at: "2026-11-23T21:26:33.875Z"
+status: "active"
 ---
 
 # § 19152. Collection and reporting of data on Federal research awards
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.541Z"
     - **(A)** Beginning not later than two years after the issuance of the policy under paragraph (2) to Federal research agencies, and on an annual basis thereafter, each Federal research agency shall submit to the National Center for Science and Engineering Statistics record-level data collected under paragraph (1) in the form required by the Director of the National Science Foundation.
     - **(B)** As part of the first submission under subparagraph (A), each Federal research agency, to the extent practicable, shall also submit comparable record-level data, if it is available to the agency, for the five years preceding the date of such submission, or an analysis for why such data cannot be provided.
 - **(b)** The Director of the National Science Foundation shall publish statistical summary data, as practicable, collected under this section, disaggregated and cross-tabulated by race, ethnicity, sex, socioeconomic indicators, which may include employment status, occupation, educational attainment, parental education, and income, geographic location, and years since completion of doctoral degree, including in conjunction with the National Science Foundation’s report required by section 1885d of this title .
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title V, § 10502](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1610](https://www.govinfo.gov/link/statute/136/1610).)*

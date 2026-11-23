@@ -3,9 +3,10 @@ title: "Section 3111 - Briefings and notifications on counterintelligence activi
 usc_title: 50
 usc_section: "3111"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3111"
-generated_at: "2026-03-30T02:56:26.236Z"
+generated_at: "2026-11-23T21:26:39.013Z"
+status: "active"
 ---
 
 # § 3111. Briefings and notifications on counterintelligence activities of the Federal Bureau of Investigation
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:26.236Z"
   - **(2)** The Director shall submit to the congressional intelligence committees—
     - **(A)** the guidelines under paragraph (1) upon issuance; and
     - **(B)** any updates to such guidelines by not later than 15 days after making such update.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title V, § 512, as added [Pub. L. 116–92, div. E, title LIII, § 5304(b)(1)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2120](https://www.govinfo.gov/link/statute/133/2120).)*

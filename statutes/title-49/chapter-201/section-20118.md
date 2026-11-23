@@ -3,9 +3,10 @@ title: "Section 20118 - Prohibition on public disclosure of railroad safety anal
 usc_title: 49
 usc_section: "20118"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 20118"
-generated_at: "2026-03-30T02:56:19.335Z"
+generated_at: "2026-11-23T21:26:40.704Z"
+status: "active"
 ---
 
 # § 20118. Prohibition on public disclosure of railroad safety analysis records
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:56:19.335Z"
   - **(2)** made available for inspection and copying by an officer, employee, or agent of the Secretary pursuant to that safety risk reduction program or pilot program.
 - **(b)** Notwithstanding subsection (a), the Secretary may disclose any part of any record comprised of facts otherwise available to the public if, in the Secretary’s sole discretion, the Secretary determines that disclosure would be consistent with the confidentiality needed for that safety risk reduction program or pilot program.
 - **(c)** The Secretary may prohibit the public disclosure of risk analyses or risk mitigation analyses that the Secretary has obtained under other provisions of, or regulations or orders under, this chapter if the Secretary determines that the prohibition of public disclosure is necessary to promote railroad safety.
+
+In General
+
+Exception
+
+Discretionary Prohibition of Disclosure
+
+## Source Credit
+
+*(Added [Pub. L. 110–432, div. A, title I, § 109(a)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4866](https://www.govinfo.gov/link/statute/122/4866).)*

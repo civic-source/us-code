@@ -3,9 +3,10 @@ title: "Section 1529 - Relinquishment of legislative jurisdiction over certain l
 usc_title: 15
 usc_section: "1529"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1529"
-generated_at: "2026-03-30T02:54:08.136Z"
+generated_at: "2026-11-23T21:25:39.830Z"
+status: "active"
 ---
 
 # § 1529. Relinquishment of legislative jurisdiction over certain lands
@@ -14,3 +15,7 @@ Notwithstanding any other law, the Secretary of Commerce, whenever the Secretary
 
   - **(1)** by filing with the Governor (or, if none exists, with the chief executive officer) of the State, Commonwealth, territory, or possession concerned a notice of relinquishment to take effect upon acceptance of the notice; or
   - **(2)** as required by the laws of the State, Commonwealth, territory, or possession.
+
+## Source Credit
+
+*([Pub. L. 98–623, title IV, § 406](https://www.govinfo.gov/link/plaw/98/public/623), Nov. 8, 1984, [98 Stat. 3409](https://www.govinfo.gov/link/statute/98/3409).)*

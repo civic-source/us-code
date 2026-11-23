@@ -3,9 +3,10 @@ title: "Section 13458 - Energy efficient lighting and building centers"
 usc_title: 42
 usc_section: "13458"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13458"
-generated_at: "2026-03-30T02:56:11.445Z"
+generated_at: "2026-11-23T21:26:33.608Z"
+status: "active"
 ---
 
 # § 13458. Energy efficient lighting and building centers
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:56:11.445Z"
   - **(7)** Section 1013 of title 5 shall not apply to the task force.
 - **(i)**
 - **(j)** There is authorized to be appropriated for purposes of carrying out this section, to remain available until expended, not more than $10,000,000 for each of fiscal years 1994, 1995, and 1996.
+
+## Source Credit
+
+*([Pub. L. 102–486, title I, § 103](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2789](https://www.govinfo.gov/link/statute/106/2789); [Pub. L. 117–286, § 4(a)(276)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4336](https://www.govinfo.gov/link/statute/136/4336).)*

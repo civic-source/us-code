@@ -3,9 +3,10 @@ title: "Section 665g - State and Local Cybersecurity Grant Program"
 usc_title: 6
 usc_section: "665g"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 665g"
-generated_at: "2026-03-30T02:53:09.479Z"
+generated_at: "2026-11-23T21:25:25.828Z"
+status: "active"
 ---
 
 # § 665g. State and Local Cybersecurity Grant Program
@@ -239,5 +240,13 @@ generated_at: "2026-03-30T02:53:09.479Z"
     - **(A)** During a fiscal year, the Secretary or the head of any component of the Department that administers the State and Local Cybersecurity Grant Program may transfer not more than 5 percent of the amounts appropriated pursuant to paragraph (1) or other amounts appropriated to carry out the State and Local Cybersecurity Grant Program for that fiscal year to an account of the Department for salaries, expenses, and other administrative costs incurred for the management, administration, or evaluation of this section.
     - **(B)** Any funds transferred under subparagraph (A) shall be in addition to any funds appropriated to the Department or the components described in subparagraph (A) for salaries, expenses, and other administrative costs.
 - **(s)**
-  - **(1)** Subject to paragraph (2), the requirements of this section shall terminate on September 30, 2025 .
+  - **(1)** Subject to paragraph (2), the requirements of this section shall terminate on September 30, 2026 .
   - **(2)** The reporting requirements under subsection (q) shall terminate on the date that is 1 year after the date on which the final funds from a grant under this section are expended or returned.
+
+(aa) eligible entities that neighbor the jurisdiction of the eligible entity or, as appropriate, members of an Information Sharing and Analysis Organization; and
+
+(bb) countries that neighbor the jurisdiction of the eligible entity;
+
+## Source Credit
+
+*([Pub. L. 107–296, title XXII, § 2220A](https://www.govinfo.gov/link/plaw/107/public/296), formerly § 2218, as added [Pub. L. 117–58, div. G, title VI, § 70612(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1272](https://www.govinfo.gov/link/statute/135/1272); renumbered § 2220A and amended [Pub. L. 117–81, div. A, title XV, § 1547(b)(1)(A)(viii)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2061](https://www.govinfo.gov/link/statute/135/2061); [Pub. L. 117–263, div. G, title LXXI, § 7143(b)(2)(K)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3660](https://www.govinfo.gov/link/statute/136/3660); [Pub. L. 119–75, div. I, § 5009](https://www.govinfo.gov/link/plaw/119/public/75), Feb. 3, 2026, [140 Stat. 630](https://www.govinfo.gov/link/statute/140/630).)*

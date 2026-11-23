@@ -3,9 +3,10 @@ title: "Section 2012 - Definitions"
 usc_title: 7
 usc_section: "2012"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2012"
-generated_at: "2026-03-30T02:53:42.361Z"
+generated_at: "2026-11-23T21:25:28.243Z"
+status: "active"
 ---
 
 # § 2012. Definitions
@@ -90,7 +91,7 @@ As used in this chapter, the term:
 - **(s)** “State agency” means (1) the agency of State government, including the local offices thereof, which has the responsibility for the administration of the federally aided public assistance programs within such State, and in those States where such assistance programs are operated on a decentralized basis, the term shall include the counterpart local agencies administering such programs, and (2) the tribal organization of an Indian tribe determined by the Secretary to be capable of effectively administering a food distribution program under section 2013(b) of this title or a supplemental nutrition assistance program under section 2020(d) of this title .
 - **(t)** “Supplemental nutrition assistance program” means the program operated pursuant to this chapter.
 - **(u)**
-  - **(1)**
+  - **(1)** The term “thrifty food plan” means the diet required to feed a family of 4 persons consisting of a man and a woman ages 20 through 50, a child ages 6 through 8, and a child ages 9 through 11 using the items and quantities of food described in the report of the Department of Agriculture entitled “Thrifty Food Plan, 2021”, and each successor report updated pursuant to this subsection, subject to the conditions that—
     - **(A)** the relevant market baskets of the thrifty food plan shall only be changed pursuant to paragraph (4);
     - **(B)** the cost of the thrifty food plan shall be the basis for uniform allotments for all households, regardless of the actual composition of the household; and
     - **(C)** the cost of the thrifty food plan may only be adjusted in accordance with this subsection.
@@ -109,6 +110,64 @@ As used in this chapter, the term:
     - **(B)** make cost adjustments in the separate thrifty food plans for Guam and the Virgin Islands of the United States to reflect the cost of food in those States, but not to exceed the cost of food in the 50 States and the District of Columbia; and
     - **(C)** on October 1, 2025 , and on each October 1 thereafter, adjust the cost of the thrifty food plan to reflect changes in the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor, for the most recent 12-month period ending in June.
   - **(4)**
-    - **(A)**
-    - **(B)**
+    - **(A)** Not earlier than October 1, 2027 , the Secretary may re-evaluate the market baskets of the thrifty food plan based on current food prices, food composition data, consumption patterns, and dietary guidance.
+    - **(B)** The Secretary shall not increase the cost of the thrifty food plan based on a re-evaluation under this paragraph.
 - **(v)** “Tribal organization” means the recognized governing body of an Indian tribe (including the tribally recognized intertribal organization of such tribes), as the term “Indian tribe” is defined in section 5304 of title 25 , as well as any Indian tribe, band, or community holding a treaty with a State government.
+
+Benefit
+
+Benefit Issuer
+
+Card
+
+Thrifty Food Plan.—
+
+In general
+
+Household adjustments
+
+Allowable cost adjustments
+
+Re-evaluation of market baskets.—
+
+Re-evaluation
+
+Cost neutrality
+
+In General
+
+Special Effective Dates.—
+
+October 1, 1990
+
+Date of enactment
+
+April 1, 1991
+
+Categorical eligibility
+
+In General
+
+Special Rules.—
+
+Sequestration.—
+
+In general
+
+Effective dates if sequestration occurs
+
+Issuance of rules
+
+Limitation
+
+State options.—
+
+Adjustment
+
+“An establishment or house-to-house trade route that is otherwise authorized to accept and redeem coupons under the Food and Nutrition Act of 2008 ( 7 U.S.C. 2011 et seq.) on the day before the date of enactment of this Act [ Mar. 25, 1994 ] shall be considered to meet the definition of ‘retail food store’ in section 3(p) [now 3( o )] of that Act [now 7 U.S.C. 2012 ( o )] until the earlier of—
+
+“Not later than 18 months after the date of enactment of this Act [ Mar. 25, 1994 ], the Secretary of Agriculture shall prepare and submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the impact of the amendments made by sections 201 and 202 [amending this section and section 2018 of this title ] on the involvement of retail food stores in the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 ( 7 U.S.C. 2011 et seq.), including a description of—
+
+## Source Credit
+
+*([Pub. L. 88–525, § 3](https://www.govinfo.gov/link/plaw/88/public/525), Aug. 31, 1964, [78 Stat. 703](https://www.govinfo.gov/link/statute/78/703); [Pub. L. 91–671, § 2](https://www.govinfo.gov/link/plaw/91/public/671), Jan. 11, 1971, [84 Stat. 2048](https://www.govinfo.gov/link/statute/84/2048); [Pub. L. 92–603, title IV, § 411(a)](https://www.govinfo.gov/link/plaw/92/public/603), (b), Oct. 30, 1972, [86 Stat. 1491](https://www.govinfo.gov/link/statute/86/1491); [Pub. L. 93–86, § 3(a)](https://www.govinfo.gov/link/plaw/93/public/86) –(c), (l), (o), (p), Aug. 10, 1973, [87 Stat. 246](https://www.govinfo.gov/link/statute/87/246), 248, 249; [Pub. L. 93–125, § 1(h)](https://www.govinfo.gov/link/plaw/93/public/125), Oct. 18, 1973, [87 Stat. 450](https://www.govinfo.gov/link/statute/87/450); [Pub. L. 94–339, § 4](https://www.govinfo.gov/link/plaw/94/public/339), July 5, 1976, [90 Stat. 801](https://www.govinfo.gov/link/statute/90/801); [Pub. L. 95–113, title XIII](https://www.govinfo.gov/link/plaw/95/public/113), §§ 1301, 1302(a)(1), Sept. 29, 1977, [91 Stat. 958](https://www.govinfo.gov/link/statute/91/958), 979; [Pub. L. 96–58](https://www.govinfo.gov/link/plaw/96/public/58), §§ 3, 7, Aug. 14, 1979, [93 Stat. 390](https://www.govinfo.gov/link/statute/93/390), 392; [Pub. L. 96–181, § 15(b)](https://www.govinfo.gov/link/plaw/96/public/181), Jan. 2, 1980, [93 Stat. 1316](https://www.govinfo.gov/link/statute/93/1316); [Pub. L. 96–249, title I](https://www.govinfo.gov/link/plaw/96/public/249), §§ 101(a), 111, 135, May 26, 1980, [94 Stat. 357](https://www.govinfo.gov/link/statute/94/357), 360, 369; [Pub. L. 97–35, title I](https://www.govinfo.gov/link/plaw/97/public/35), §§ 101–103, 108(a), 116(a)(1), Aug. 13, 1981, [95 Stat. 358](https://www.govinfo.gov/link/statute/95/358), 361, 364; [Pub. L. 97–98, title XII](https://www.govinfo.gov/link/plaw/97/public/98), §§ 1302–1304, Dec. 22, 1981, [95 Stat. 1282](https://www.govinfo.gov/link/statute/95/1282); [Pub. L. 97–253, title I](https://www.govinfo.gov/link/plaw/97/public/253), §§ 142, 143(a), 144, 145(a), (b), Sept. 8, 1982, [96 Stat. 772–774](https://www.govinfo.gov/link/statute/96/772); [Pub. L. 98–204, § 3](https://www.govinfo.gov/link/plaw/98/public/204), Dec. 2, 1983, [97 Stat. 1385](https://www.govinfo.gov/link/statute/97/1385); [Pub. L. 99–198, title XV](https://www.govinfo.gov/link/plaw/99/public/198), §§ 1501(a), 1502–1504, Dec. 23, 1985, [99 Stat. 1566](https://www.govinfo.gov/link/statute/99/1566); [Pub. L. 99–570, title XI, § 11002(a)](https://www.govinfo.gov/link/plaw/99/public/570) –(c), Oct. 27, 1986, [100 Stat. 3207–167](https://www.govinfo.gov/link/statute/100/3207), 3207–168; [Pub. L. 100–77, title VIII](https://www.govinfo.gov/link/plaw/100/public/77), §§ 801, 802(a), July 22, 1987, [101 Stat. 533](https://www.govinfo.gov/link/statute/101/533), 534; [Pub. L. 100–435, title I, § 120](https://www.govinfo.gov/link/plaw/100/public/435), title III, § 350, Sept. 19, 1988, [102 Stat. 1655](https://www.govinfo.gov/link/statute/102/1655), 1664; [Pub. L. 101–624, title XVII](https://www.govinfo.gov/link/plaw/101/public/624), §§ 1712, 1713(a), 1747(b), Nov. 28, 1990, [104 Stat. 3783](https://www.govinfo.gov/link/statute/104/3783), 3796; [Pub. L. 102–83, § 5(c)(2)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 102–237, title IX](https://www.govinfo.gov/link/plaw/102/public/237), §§ 901, 941(1), Dec. 13, 1991, [105 Stat. 1884](https://www.govinfo.gov/link/statute/105/1884), 1891; [Pub. L. 102–351, § 1](https://www.govinfo.gov/link/plaw/102/public/351), Aug. 26, 1992, [106 Stat. 937](https://www.govinfo.gov/link/statute/106/937); [Pub. L. 103–66, title XIII](https://www.govinfo.gov/link/plaw/103/public/66), §§ 13931, 13932, Aug. 10, 1993, [107 Stat. 676](https://www.govinfo.gov/link/statute/107/676); [Pub. L. 103–225, title I, § 101(b)(1)](https://www.govinfo.gov/link/plaw/103/public/225), title II, § 201, Mar. 25, 1994, [108 Stat. 107](https://www.govinfo.gov/link/statute/108/107), 108; [Pub. L. 103–354, title III, § 303(a)](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3239](https://www.govinfo.gov/link/statute/108/3239); [Pub. L. 104–193, title VIII](https://www.govinfo.gov/link/plaw/104/public/193), §§ 801–805, Aug. 22, 1996, [110 Stat. 2308](https://www.govinfo.gov/link/statute/110/2308), 2309; [Pub. L. 107–171, title IV](https://www.govinfo.gov/link/plaw/107/public/171), §§ 4112(b)(1), 4115(b)(1), May 13, 2002, [116 Stat. 312](https://www.govinfo.gov/link/statute/116/312), 315; [Pub. L. 108–199, div. A, title VII, § 771(a)](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 40](https://www.govinfo.gov/link/statute/118/40); [Pub. L. 110–234, title IV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 4001(b), 4115(b)(1), May 22, 2008, [122 Stat. 1092](https://www.govinfo.gov/link/statute/122/1092), 1105; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, §§ 4001(b), 4115(b)(1), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1853, 1866; [Pub. L. 113–79, title IV](https://www.govinfo.gov/link/plaw/113/public/79), §§ 4001, 4002(a), 4003(a), 4012, 4014(c), 4030(a), Feb. 7, 2014, [128 Stat. 782](https://www.govinfo.gov/link/statute/128/782), 784, 793, 794, 813; [Pub. L. 115–334, title IV](https://www.govinfo.gov/link/plaw/115/public/334), §§ 4001(a), 4002, 4003(c), 4022(1), Dec. 20, 2018, [132 Stat. 4624](https://www.govinfo.gov/link/statute/132/4624), 4627, 4653; [Pub. L. 119–21, title I, § 10101(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 80](https://www.govinfo.gov/link/statute/139/80).)*

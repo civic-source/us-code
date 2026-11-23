@@ -3,9 +3,10 @@ title: "Section 3224a - Job training grants"
 usc_title: 29
 usc_section: "3224a"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3224a"
-generated_at: "2026-03-30T02:55:18.758Z"
+generated_at: "2026-11-23T21:26:02.346Z"
+status: "active"
 ---
 
 # § 3224a. Job training grants
@@ -30,3 +31,11 @@ generated_at: "2026-03-30T02:55:18.758Z"
       - **(ii)** the ability of such entities to continue to carry out and expand such activities after the expiration of the grants.
     - **(B)** The Secretary of Labor may require the provision of specified levels of a matching share of cash or noncash resources from resources other than the funds provided under this section for projects funded under this section.
   - **(7)** The Secretary of Labor shall require grantees to report on the employment outcomes obtained by workers receiving training under this section using indicators of performance that are consistent with other indicators used for employment and training programs administered by the Secretary, such as entry into employment, retention in employment, and increases in earnings. The Secretary of Labor may also require grantees to participate in evaluations of projects carried out under this section.
+
+In general
+
+Grants
+
+## Source Credit
+
+*([Pub. L. 105–277, div. C, title IV, § 414(c)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–653](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–313, title I, § 111](https://www.govinfo.gov/link/plaw/106/public/313), Oct. 17, 2000, [114 Stat. 1257](https://www.govinfo.gov/link/statute/114/1257); [Pub. L. 108–447, div. J, title IV, § 428](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3358](https://www.govinfo.gov/link/statute/118/3358); [Pub. L. 113–128, title V, § 512(a)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1705](https://www.govinfo.gov/link/statute/128/1705).)*

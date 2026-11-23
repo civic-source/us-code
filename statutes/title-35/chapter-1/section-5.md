@@ -3,9 +3,10 @@ title: "Section 5 - Patent and Trademark Office Public Advisory Committees"
 usc_title: 35
 usc_section: "5"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "35 U.S.C. § 5"
-generated_at: "2026-03-30T02:55:34.233Z"
+generated_at: "2026-11-23T21:26:08.596Z"
+status: "active"
 ---
 
 # § 5. Patent and Trademark Office Public Advisory Committees
@@ -30,3 +31,37 @@ generated_at: "2026-03-30T02:55:34.233Z"
 - **(h)** Chapter 10 of title 5 shall not apply to each Advisory Committee.
 - **(i)** The meetings of each Advisory Committee shall be open to the public, except that each Advisory Committee may by majority vote meet in executive session when considering personnel, privileged, or other confidential information.
 - **(j)** Section 4 shall not apply to voting members of the Advisory Committees.
+
+Establishment of Public Advisory Committees.—
+
+Appointment
+
+Chair
+
+Basis for Appointments
+
+Meetings
+
+Duties
+
+Compensation
+
+Access to Information
+
+Applicability of Certain Ethics Laws
+
+Inapplicability of Chapter
+
+of Title
+
+Open Meetings
+
+Inapplicability of Patent Prohibition
+
+In general
+
+Deemed termination of terms
+
+## Source Credit
+
+*(Added [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4714]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–578; amended [Pub. L. 107–273, div. C, title III](https://www.govinfo.gov/link/plaw/107/public/273), §§ 13203(b), 13206(a)(3), Nov. 2, 2002, [116 Stat. 1902](https://www.govinfo.gov/link/statute/116/1902), 1904; [Pub. L. 112–274, § 1](https://www.govinfo.gov/link/plaw/112/public/274) (l)(1), Jan. 14, 2013, [126 Stat. 2458](https://www.govinfo.gov/link/statute/126/2458); [Pub. L. 117–286, § 4(a)(215)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4329](https://www.govinfo.gov/link/statute/136/4329).)*

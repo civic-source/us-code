@@ -3,9 +3,10 @@ title: "Section 70112 - Maritime Security Advisory Committees"
 usc_title: 46
 usc_section: "70112"
 chapter: 701
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 70112"
-generated_at: "2026-03-30T02:56:15.587Z"
+generated_at: "2026-11-23T21:26:37.357Z"
+status: "active"
 ---
 
 # § 70112. Maritime Security Advisory Committees
@@ -63,3 +64,75 @@ generated_at: "2026-03-30T02:56:15.587Z"
       - **(ii)** travel or transportation expenses under section 5703 of title 5 .
     - **(B)** A member of a committee established under this subsection shall not be considered to be an officer or employee of the United States for any purpose based on the receipt of any payment under this paragraph.
   - **(7)** Chapter 10 of title 5 does not apply to a committee established under this subsection.
+
+National Maritime Security Advisory Committee.—
+
+Establishment
+
+Function
+
+Membership.—
+
+In general
+
+Expertise
+
+Representation
+
+Distribution
+
+Administration
+
+Area Maritime Security Advisory Committees.—
+
+In general.—
+
+Establishment
+
+Additional functions and meetings
+
+Membership.—
+
+In general
+
+Terms
+
+Notice
+
+Background examinations
+
+Representation
+
+Chairperson and vice chairperson.—
+
+In general
+
+Vice chairperson acting as chairperson
+
+Observers.—
+
+In general
+
+Role
+
+Consideration of views
+
+Compensation and expenses.—
+
+In general
+
+Status
+
+Chapter
+
+of title
+
+“Notwithstanding any other provision of law—
+
+Maritime Cybersecurity Risk Assessment Model
+
+“The Commandant of the Coast Guard and the Under Secretary responsible for overseeing the critical infrastructure protection, cybersecurity, and other related programs of the Department of Homeland Security shall—
+
+## Source Credit
+
+*(Added [Pub. L. 107–295, title I, § 102(a)](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2081](https://www.govinfo.gov/link/statute/116/2081); amended [Pub. L. 108–293, title VIII, § 806](https://www.govinfo.gov/link/plaw/108/public/293), Aug. 9, 2004, [118 Stat. 1082](https://www.govinfo.gov/link/statute/118/1082); [Pub. L. 109–241, title IX, § 901(m)](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 565](https://www.govinfo.gov/link/statute/120/565); [Pub. L. 111–281, title VIII, § 810](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2995](https://www.govinfo.gov/link/statute/124/2995); [Pub. L. 115–254, div. J, § 1805(c)(1)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3534](https://www.govinfo.gov/link/statute/132/3534); [Pub. L. 115–282, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4290](https://www.govinfo.gov/link/statute/132/4290); [Pub. L. 117–286, § 4(a)(294)](https://www.govinfo.gov/link/plaw/117/public/286), (295), Dec. 27, 2022, [136 Stat. 4338](https://www.govinfo.gov/link/statute/136/4338).)*

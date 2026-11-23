@@ -3,12 +3,17 @@ title: "Section 3213 - Future executive branch actions"
 usc_title: 16
 usc_section: "3213"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3213"
-generated_at: "2026-03-30T02:54:23.013Z"
+generated_at: "2026-11-23T21:25:51.966Z"
+status: "active"
 ---
 
 # § 3213. Future executive branch actions
 
 - **(a)** No future executive branch action which withdraws more than five thousand acres, in the aggregate, of public lands within the State of Alaska shall be effective except by compliance with this subsection. To the extent authorized by existing law, the President or the Secretary may withdraw public lands in the State of Alaska exceeding five thousand acres in the aggregate, which withdrawal shall not become effective until notice is provided in the Federal Register and to both Houses of Congress. Such withdrawal shall terminate unless Congress passes a joint resolution of approval within one year after the notice of such withdrawal has been submitted to Congress.
 - **(b)** No further studies of Federal lands in the State of Alaska for the single purpose of considering the establishment of a conservation system unit, national recreation area, national conservation area, or for related or similar purposes shall be conducted unless authorized by this Act or further Act of Congress.
+
+## Source Credit
+
+*([Pub. L. 96–487, title XIII, § 1326](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2488](https://www.govinfo.gov/link/statute/94/2488).)*

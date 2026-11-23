@@ -3,9 +3,10 @@ title: "Section 3103 - Presidential authority and duties"
 usc_title: 22
 usc_section: "3103"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3103"
-generated_at: "2026-03-30T02:55:05.389Z"
+generated_at: "2026-11-23T21:25:58.576Z"
+status: "active"
 ---
 
 # § 3103. Presidential authority and duties
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:05.389Z"
 - **(h)**
   - **(1)** The President, or the designee of the President responsible for monitoring the impact of foreign investment in the United States, coordinating implementation of United States policy on investment, and investigating foreign acquisitions under section 4565 of title 50 , may request a report from the Bureau of Economic Analysis of the Department of Commerce. When such request is made in connection with an investigation under such section 4565, the report shall be provided within 14 days after the request is made. When such request is not made in connection with an investigation under such section 4565, the report shall be provided within 60 days after the request.
   - **(2)** A report requested under paragraph (1) shall contain the best available information on the extent of foreign direct investment in a given industry, including a breakdown of total investment in the industry, and any foreign government investment in the industry, by country of the foreign owner, and any other information that the Bureau of Economic Analysis or such designee of the President considers relevant. The industry information provided shall be at the most detailed level available of Standard Industrial Classification, subject to the requirements of section 3104 of this title .
+
+## Source Credit
+
+*([Pub. L. 94–472, § 4](https://www.govinfo.gov/link/plaw/94/public/472), Oct. 11, 1976, [90 Stat. 2060](https://www.govinfo.gov/link/statute/90/2060); [Pub. L. 95–381, § 2](https://www.govinfo.gov/link/plaw/95/public/381), Sept. 22, 1978, [92 Stat. 726](https://www.govinfo.gov/link/statute/92/726); H. Res. 89, Feb. 5, 1979; [Pub. L. 97–33](https://www.govinfo.gov/link/plaw/97/public/33), §§ 1–3, Aug. 7, 1981, [95 Stat. 170](https://www.govinfo.gov/link/statute/95/170); [Pub. L. 97–70](https://www.govinfo.gov/link/plaw/97/public/70), Oct. 26, 1981, [95 Stat. 1045](https://www.govinfo.gov/link/statute/95/1045); [Pub. L. 98–573, title III, § 306(b)(3)](https://www.govinfo.gov/link/plaw/98/public/573), (4), Oct. 30, 1984, [98 Stat. 3010](https://www.govinfo.gov/link/statute/98/3010); [Pub. L. 101–533, § 6(b)](https://www.govinfo.gov/link/plaw/101/public/533), (c), Nov. 7, 1990, [104 Stat. 2348](https://www.govinfo.gov/link/statute/104/2348).)*

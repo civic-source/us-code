@@ -3,9 +3,10 @@ title: "Section 1251 - Congressional declaration of goals and policy"
 usc_title: 33
 usc_section: "1251"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1251"
-generated_at: "2026-03-30T02:55:41.081Z"
+generated_at: "2026-11-23T21:26:11.359Z"
+status: "active"
 ---
 
 # § 1251. Congressional declaration of goals and policy
@@ -24,3 +25,19 @@ generated_at: "2026-03-30T02:55:41.081Z"
 - **(e)** Public participation in the development, revision, and enforcement of any regulation, standard, effluent limitation, plan, or program established by the Administrator or any State under this chapter shall be provided for, encouraged, and assisted by the Administrator and the States. The Administrator, in cooperation with the States, shall develop and publish regulations specifying minimum guidelines for public participation in such processes.
 - **(f)** It is the national policy that to the maximum extent possible the procedures utilized for implementing this chapter shall encourage the drastic minimization of paperwork and interagency decision procedures, and the best use of available manpower and funds, so as to prevent needless duplication and unnecessary delays at all levels of government.
 - **(g)** It is the policy of Congress that the authority of each State to allocate quantities of water within its jurisdiction shall not be superseded, abrogated or otherwise impaired by this chapter. It is the further policy of Congress that nothing in this chapter shall be construed to supersede or abrogate rights to quantities of water which have been established by any State. Federal agencies shall co-operate with State and local agencies to develop comprehensive solutions to prevent, reduce and eliminate pollution in concert with programs for managing water resources.
+
+Establishment of a Research Program
+
+Advisory Committee
+
+Contract With Consortium
+
+Authorization of Appropriations
+
+Definitions
+
+Richard Nixon.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title I, § 101, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 816](https://www.govinfo.gov/link/statute/86/816); amended [Pub. L. 95–217](https://www.govinfo.gov/link/plaw/95/public/217), §§ 5(a), 26(b), Dec. 27, 1977, [91 Stat. 1567](https://www.govinfo.gov/link/statute/91/1567), 1575; [Pub. L. 100–4, title III, § 316(b)](https://www.govinfo.gov/link/plaw/100/public/4), Feb. 4, 1987, [101 Stat. 60](https://www.govinfo.gov/link/statute/101/60).)*

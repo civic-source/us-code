@@ -3,9 +3,10 @@ title: "Section 578 - Disposal of surplus property for development of public por
 usc_title: 33
 usc_section: "578"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 578"
-generated_at: "2026-03-30T02:55:41.063Z"
+generated_at: "2026-11-23T21:26:11.318Z"
+status: "active"
 ---
 
 # § 578. Disposal of surplus property for development of public port or industrial facilities
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:41.063Z"
 - **(c)** Prior to the conveyance of any land under the provisions of this section, the Secretary of the Army shall, in the manner he deems reasonable, give public notice of the proposed conveyance and afford an opportunity to interested eligible bodies in the general vicinity of the land to apply for its purchase.
 - **(d)** The Secretary of the Army may delegate any authority conferred upon him by this section to any officer or employee of the Department of the Army. Any such officer or employee shall exercise the authority so delegated under rules and regulations approved by the Secretary.
 - **(e)** The proceeds from any conveyance made under the provisions of this section shall be covered into the Treasury as miscellaneous receipts.
+
+## Source Credit
+
+*([Pub. L. 86–645, title I, § 108](https://www.govinfo.gov/link/plaw/86/public/645), July 14, 1960, [74 Stat. 486](https://www.govinfo.gov/link/statute/74/486).)*

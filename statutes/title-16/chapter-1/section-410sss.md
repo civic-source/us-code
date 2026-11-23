@@ -3,9 +3,10 @@ title: "Section 410sss - Harriet Tubman Underground Railroad National Historical
 usc_title: 16
 usc_section: "410sss"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410sss"
-generated_at: "2026-03-30T02:54:22.783Z"
+generated_at: "2026-11-23T21:25:51.486Z"
+status: "active"
 ---
 
 # § 410sss. Harriet Tubman Underground Railroad National Historical Park, Maryland
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:54:22.783Z"
     - **(A)** the Blackwater National Wildlife Refuge;
     - **(B)** the Harriet Tubman National Historical Park established by section 410ttt of this title ; and
     - **(C)** the National Underground Railroad Network to Freedom.
+
+## Source Credit
+
+*([Pub. L. 113–291, div. B, title XXX, § 3035](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3778](https://www.govinfo.gov/link/statute/128/3778); [Pub. L. 114–289, title VI, § 601(e)](https://www.govinfo.gov/link/plaw/114/public/289), Dec. 16, 2016, [130 Stat. 1491](https://www.govinfo.gov/link/statute/130/1491).)*

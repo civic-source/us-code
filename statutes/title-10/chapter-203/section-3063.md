@@ -3,9 +3,10 @@ title: "Section 3063 - Covered agencies"
 usc_title: 10
 usc_section: "3063"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3063"
-generated_at: "2026-03-30T02:53:38.188Z"
+generated_at: "2026-11-23T21:25:32.712Z"
+status: "active"
 ---
 
 # § 3063. Covered agencies
@@ -18,3 +19,7 @@ For purposes of any provision of law referring to this section, the agencies nam
   - **(4)** The Department of the Air Force.
   - **(5)** The Coast Guard.
   - **(6)** The National Aeronautics and Space Administration.
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1807(c)(1)](https://www.govinfo.gov/link/plaw/116/public/283), (2), Jan. 1, 2021, [134 Stat. 4157](https://www.govinfo.gov/link/statute/134/4157).)*

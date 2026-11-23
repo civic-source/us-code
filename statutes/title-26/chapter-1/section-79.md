@@ -3,9 +3,10 @@ title: "Section 79 - Group-term life insurance purchased for employees"
 usc_title: 26
 usc_section: "79"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 79"
-generated_at: "2026-03-30T02:55:27.620Z"
+generated_at: "2026-11-23T21:26:05.987Z"
+status: "active"
 ---
 
 # § 79. Group-term life insurance purchased for employees
@@ -54,3 +55,31 @@ generated_at: "2026-03-30T02:55:27.620Z"
   - **(8)** To the extent provided in regulations, this subsection shall be applied separately with respect to former employees.
 - **(e)** For purposes of this section, the term “employee” includes a former employee.
 - **(f)** Subsection (b)(3) and section 72(m)(3) shall not apply in the case of any cost paid (whether directly or indirectly) with assets held in an applicable life insurance account (as defined in section 420(e)(4)) under a defined benefit plan.
+
+In general
+
+Special rule for collective bargaining plan
+
+Exception for certain group-term insurance plans
+
+Special rule for church plans
+
+Cafeteria plans
+
+Certain plans maintained by educational institutions
+
+In general
+
+Inclusion of former employees in the case of existing group-term insurance plans.—
+
+In general
+
+Special rule in the case of discriminatory group-term life insurance plan
+
+Benefits to certain retired individuals not taken into account for purposes of determining whether plan is discriminatory
+
+Comparable successor plans
+
+## Source Credit
+
+*(Added [Pub. L. 88–272, title II, § 204(a)(1)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 36](https://www.govinfo.gov/link/statute/78/36); amended [Pub. L. 89–97, title I, § 106(d)(3)](https://www.govinfo.gov/link/plaw/89/public/97), July 30, 1965, [79 Stat. 337](https://www.govinfo.gov/link/statute/79/337); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 97–248, title II, § 244(a)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 523](https://www.govinfo.gov/link/statute/96/523); [Pub. L. 98–369, div. A, title II, § 223(a)](https://www.govinfo.gov/link/plaw/98/public/369), (b), July 18, 1984, [98 Stat. 775](https://www.govinfo.gov/link/statute/98/775); [Pub. L. 99–514, title XI, § 1151(c)(1)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1827(a)(1), (c), (d), Oct. 22, 1986, [100 Stat. 2503](https://www.govinfo.gov/link/statute/100/2503), 2850, 2851; [Pub. L. 100–647, title V, § 5013(a)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3666](https://www.govinfo.gov/link/statute/102/3666); [Pub. L. 101–140, title II, § 203(a)(1)](https://www.govinfo.gov/link/plaw/101/public/140), (b)(1)(A), Nov. 8, 1989, [103 Stat. 830](https://www.govinfo.gov/link/statute/103/830), 831; [Pub. L. 101–508, title XI, § 11703(e)(1)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–517](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 112–141, div. D, title II, § 40242(d)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 861](https://www.govinfo.gov/link/statute/126/861).)*

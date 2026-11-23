@@ -3,9 +3,10 @@ title: "Section 60521 - Offender reentry substance abuse and criminal justice co
 usc_title: 34
 usc_section: "60521"
 chapter: 605
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 60521"
-generated_at: "2026-03-30T02:55:33.317Z"
+generated_at: "2026-11-23T21:26:09.861Z"
+status: "active"
 ---
 
 # § 60521. Offender reentry substance abuse and criminal justice collaboration program
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:33.317Z"
 - **(f)**
   - **(1)** There are authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2019 through 2023.
   - **(2)** Of the amount made available to carry out this section in any fiscal year, the Attorney General shall ensure that grants awarded under this section are equitably distributed among geographical regions and between urban and rural populations, including Indian Tribes, consistent with the objective of reducing recidivism among criminal offenders.
+
+## Source Credit
+
+*([Pub. L. 110–199, title II, § 201](https://www.govinfo.gov/link/plaw/110/public/199), Apr. 9, 2008, [122 Stat. 678](https://www.govinfo.gov/link/statute/122/678); [Pub. L. 115–391, title V, § 502(e)](https://www.govinfo.gov/link/plaw/115/public/391), Dec. 21, 2018, [132 Stat. 5230](https://www.govinfo.gov/link/statute/132/5230).)*

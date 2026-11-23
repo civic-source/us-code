@@ -3,9 +3,10 @@ title: "Section 10706 - Limitations on grants and contracts"
 usc_title: 42
 usc_section: "10706"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10706"
-generated_at: "2026-03-30T02:56:11.391Z"
+generated_at: "2026-11-23T21:26:33.383Z"
+status: "active"
 ---
 
 # § 10706. Limitations on grants and contracts
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.391Z"
 - **(d)** To ensure that funds made available under this chapter are used to supplement and improve the operation of State courts, rather than to support basic court services, funds shall not be used—
   - **(1)** to supplant State or local funds currently supporting a program or activity; or
   - **(2)** to construct court facilities or structures, except to remodel existing facilities to demonstrate new architectural or technological techniques, or to provide temporary facilities for new personnel or for personnel involved in a demonstration or experimental program.
+
+## Source Credit
+
+*([Pub. L. 98–620, title II, § 207](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3342](https://www.govinfo.gov/link/statute/98/3342); [Pub. L. 100–702, title VI, § 605](https://www.govinfo.gov/link/plaw/100/public/702), Nov. 19, 1988, [102 Stat. 4653](https://www.govinfo.gov/link/statute/102/4653).)*

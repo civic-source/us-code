@@ -3,9 +3,10 @@ title: "Section 10611 - Grant authority"
 usc_title: 34
 usc_section: "10611"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10611"
-generated_at: "2026-03-30T02:55:33.272Z"
+generated_at: "2026-11-23T21:26:09.677Z"
+status: "active"
 ---
 
 # § 10611. Grant authority
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:55:33.272Z"
     - **(L)** Community service.
     - **(M)** Family counseling.
     - **(N)** Anger management classes.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2951](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 107–273, div. B, title II, § 2301(a)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1794](https://www.govinfo.gov/link/statute/116/1794); amended [Pub. L. 109–162, title XI, § 1143](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3111](https://www.govinfo.gov/link/statute/119/3111); [Pub. L. 109–177, title VII, § 751](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 273](https://www.govinfo.gov/link/statute/120/273); [Pub. L. 114–255, div. B, title XIV, § 14007(1)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1296](https://www.govinfo.gov/link/statute/130/1296).)*

@@ -3,9 +3,10 @@ title: "Section 25C - Energy efficient home improvement credit"
 usc_title: 26
 usc_section: "25C"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 25C"
-generated_at: "2026-03-30T02:55:27.588Z"
+generated_at: "2026-11-23T21:26:05.888Z"
+status: "active"
 ---
 
 # § 25C. Energy efficient home improvement credit
@@ -88,3 +89,39 @@ generated_at: "2026-03-30T02:55:27.588Z"
     - **(C)** make periodic written reports to the Secretary (at such times and in such manner as the Secretary may provide) of the product identification numbers so assigned and including such information as the Secretary may require with respect to the item of specified property to which such number was so assigned.
   - **(4)** For purposes of this subsection, the term “specified property” means any qualified energy property and any property described in subparagraph (B) or (C) of subsection (c)(3).
 - **(i)** This section shall not apply with respect to any property placed in service after December 31, 2025 .
+
+Lifetime limitation
+
+Windows
+
+Limitation on residential energy property expenditures
+
+Allowance of credit
+
+Limitation
+
+In general
+
+Extension of credit
+
+Identification number requirement
+
+Extension
+
+Modification
+
+In general
+
+Conforming amendments
+
+In general
+
+Efficiency standards
+
+In general
+
+Modification of qualified energy efficiency improvements
+
+## Source Credit
+
+*(Added [Pub. L. 109–58, title XIII, § 1333(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1026](https://www.govinfo.gov/link/statute/119/1026); amended [Pub. L. 109–135, title IV, § 412(b)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2636](https://www.govinfo.gov/link/statute/119/2636); [Pub. L. 110–172, § 11(a)(2)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2484](https://www.govinfo.gov/link/statute/121/2484); [Pub. L. 110–343, div. B, title III, § 302(a)](https://www.govinfo.gov/link/plaw/110/public/343) –(e), Oct. 3, 2008, [122 Stat. 3844](https://www.govinfo.gov/link/statute/122/3844), 3845; [Pub. L. 111–5, div. B, title I](https://www.govinfo.gov/link/plaw/111/public/5), §§ 1103(b)(2)(A), 1121(a)–(e), Feb. 17, 2009, [123 Stat. 320](https://www.govinfo.gov/link/statute/123/320), 322–324; [Pub. L. 111–312, title VII, § 710(a)](https://www.govinfo.gov/link/plaw/111/public/312), (b), Dec. 17, 2010, [124 Stat. 3314](https://www.govinfo.gov/link/statute/124/3314); [Pub. L. 112–240, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2337](https://www.govinfo.gov/link/statute/126/2337); [Pub. L. 113–295, div. A, title I, § 151(a)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4021](https://www.govinfo.gov/link/statute/128/4021); [Pub. L. 114–113, div. Q, title I, § 181(a)](https://www.govinfo.gov/link/plaw/114/public/113), (b), Dec. 18, 2015, [129 Stat. 3072](https://www.govinfo.gov/link/statute/129/3072); [Pub. L. 115–123, div. D, title I, § 40401(a)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 148](https://www.govinfo.gov/link/statute/132/148); [Pub. L. 115–141, div. U, title IV, § 401(a)(4)](https://www.govinfo.gov/link/plaw/115/public/141) –(6), Mar. 23, 2018, [132 Stat. 1184](https://www.govinfo.gov/link/statute/132/1184); [Pub. L. 116–94, div. Q, title I, § 123(a)](https://www.govinfo.gov/link/plaw/116/public/94), (b), Dec. 20, 2019, [133 Stat. 3231](https://www.govinfo.gov/link/statute/133/3231); [Pub. L. 116–260, div. EE, title I](https://www.govinfo.gov/link/plaw/116/public/260), §§ 141(a), 148(b)(3), Dec. 27, 2020, [134 Stat. 3054](https://www.govinfo.gov/link/statute/134/3054), 3055; [Pub. L. 117–169, title I](https://www.govinfo.gov/link/plaw/117/public/169), §§ 13301(a)–(f)(3)(A), (g)(1), (h)(1), 13704(b)(1), Aug. 16, 2022, [136 Stat. 1941–1946](https://www.govinfo.gov/link/statute/136/1941), 2002; [Pub. L. 119–21, title VII, § 70505](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 251](https://www.govinfo.gov/link/statute/139/251).)*

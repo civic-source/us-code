@@ -3,9 +3,10 @@ title: "Section 10171 - Financial arrangements for low-level radioactive waste s
 usc_title: 42
 usc_section: "10171"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10171"
-generated_at: "2026-03-30T02:56:11.383Z"
+generated_at: "2026-11-23T21:26:33.345Z"
+status: "active"
 ---
 
 # § 10171. Financial arrangements for low-level radioactive waste site closure
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.383Z"
     - **(C)** Federal ownership and management of such site is necessary or desirable in order to protect the public health and safety, and the environment.
   - **(2)** If the Secretary assumes title and custody of any such waste and land under this subsection, the Secretary shall maintain such waste and land in a manner that will protect the public health and safety, and the environment.
 - **(c)** If the low-level radioactive waste involved is the result of a licensed activity to recover zirconium, hafnium, and rare earths from source material, the Secretary, upon request of the owner of the site involved, shall assume title and custody of such waste and the land on which it is disposed when such site has been decontaminated and stabilized in accordance with the requirements established by the Commission and when such owner has made adequate financial arrangements approved by the Commission for the long-term maintenance and monitoring of such site.
+
+## Source Credit
+
+*([Pub. L. 97–425, title I, § 151](https://www.govinfo.gov/link/plaw/97/public/425), Jan. 7, 1983, [96 Stat. 2244](https://www.govinfo.gov/link/statute/96/2244).)*

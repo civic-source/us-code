@@ -3,9 +3,10 @@ title: "Section 60303 - Pilot projects to encourage public sector applications"
 usc_title: 51
 usc_section: "60303"
 chapter: 603
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 60303"
-generated_at: "2026-03-30T02:56:28.712Z"
+generated_at: "2026-11-23T21:26:42.559Z"
+status: "active"
 ---
 
 # § 60303. Pilot projects to encourage public sector applications
@@ -24,3 +25,38 @@ generated_at: "2026-03-30T02:56:28.712Z"
 - **(e)** Each recipient of a grant under subsection (a) shall transmit a report to the Administrator on the results of the pilot project within 180 days of the completion of that project.
 - **(f)** Each recipient of a grant under subsection (a) shall, not later than 180 days after the completion of the pilot project, conduct at least one workshop for potential users to disseminate the lessons learned from the pilot project as widely as feasible.
 - **(g)** The Administrator shall issue regulations establishing application, selection, and implementation procedures for pilot projects, and guidelines for reports and workshops required by this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60303 | 42 U.S.C. 16673 . | Pub. L. 109–155, title III, § 313 , Dec. 30, 2005 , 119 Stat. 2921 . |
+
+
+In General
+
+Preferred Projects
+
+Opportunities
+
+Duration
+
+Report
+
+Workshop
+
+Regulations
+
+Historical and Revision Notes
+
+60303
+
+42 U.S.C. 16673
+
+Pub. L. 109–155, title III, § 313
+
+Dec. 30, 2005
+
+119 Stat. 2921
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3423](https://www.govinfo.gov/link/statute/124/3423).)*

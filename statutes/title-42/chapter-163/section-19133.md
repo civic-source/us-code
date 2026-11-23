@@ -3,9 +3,10 @@ title: "Section 19133 - Initiative coordination"
 usc_title: 42
 usc_section: "19133"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19133"
-generated_at: "2026-03-30T02:56:11.540Z"
+generated_at: "2026-11-23T21:26:33.874Z"
+status: "active"
 ---
 
 # § 19133. Initiative coordination
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:56:11.540Z"
   - **(2)** The Director of the Office of Science and Technology Policy, in coordination with each participating Federal department and agency, as appropriate, shall develop and annually update an estimate of the funds necessary to carry out the activities of the Initiative Coordination Office and submit such estimate with an agreed summary of contributions from each agency to Congress as part of the President’s annual budget request to Congress.
   - **(3)** The Initiative Coordination Office established under this subsection shall terminate on the date that is 10 years after August 9, 2022 .
 - **(d)** Nothing in this section may be construed to alter the policies, processes, or practices of individual Federal agencies in effect on the day before August 9, 2022 , relating to the conduct of biomedical research and advanced development, including the solicitation and review of extramural research proposals.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title IV, § 10403](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1602](https://www.govinfo.gov/link/statute/136/1602).)*

@@ -3,9 +3,10 @@ title: "Section 44111 - Modifications in registration and recordation system for
 usc_title: 49
 usc_section: "44111"
 chapter: 441
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44111"
-generated_at: "2026-03-30T02:56:19.380Z"
+generated_at: "2026-11-23T21:26:40.878Z"
+status: "active"
 ---
 
 # § 44111. Modifications in registration and recordation system for aircraft not providing air transportation
@@ -35,3 +36,67 @@ generated_at: "2026-03-30T02:56:19.380Z"
   - **(2)** Regulations prescribed under this subsection shall require that—
     - **(A)** each individual listed in an application for registration of an aircraft provide with the application the individual’s driver’s license number; and
     - **(B)** each person (not an individual) listed in an application for registration of an aircraft provide with the application the person’s taxpayer identifying number.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44111(a) | 49 App.:1303 (note). | Nov. 11, 1988 , Pub. L. 100–690, § 7214 , 102 Stat. 4434 . |
+| 44111(b) | 49 App.:1401(h) (1st sentence). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 501(h); added Nov. 11, 1988 , Pub. L. 100–690, § 7203(a) , 102 Stat. 4424 . |
+| 44111(c) | 49 App.:1401(h) (last sentence). |  |
+| 44111(d) | 49 App.:1401 (note). | Nov. 18, 1988 , Pub. L. 100–690, § 7207(a) , (b), 102 Stat. 4427 . |
+
+
+Application
+
+Authority To Make Modifications
+
+Nature of Modifications
+
+Regulations
+
+Historical and Revision Notes
+
+44111(a)
+
+Nov. 11, 1988
+
+Pub. L. 100–690, § 7214
+
+102 Stat. 4434
+
+44111(b)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Nov. 11, 1988
+
+Pub. L. 100–690, § 7203(a)
+
+102 Stat. 4424
+
+44111(c)
+
+44111(d)
+
+Nov. 18, 1988
+
+Pub. L. 100–690, § 7207(a)
+
+102 Stat. 4427
+
+Report
+
+Definitions
+
+Administrator
+
+Aircraft
+
+“Not later than 180 days after the date of the enactment of this subtitle [ Nov. 18, 1988 ] and annually thereafter during the 3-year period beginning on such 180th day, the Administrator shall prepare and transmit to Congress a report on the following:
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1166](https://www.govinfo.gov/link/statute/108/1166); [Pub. L. 114–125, title VIII, § 802(d)(2)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 210](https://www.govinfo.gov/link/statute/130/210).)*

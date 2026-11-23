@@ -3,9 +3,10 @@ title: "Section 16532 - Nuclear science talent expansion program for institution
 usc_title: 42
 usc_section: "16532"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16532"
-generated_at: "2026-03-30T02:56:11.488Z"
+generated_at: "2026-11-23T21:26:33.748Z"
+status: "active"
 ---
 
 # § 16532. Nuclear science talent expansion program for institutions of higher education
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:56:11.488Z"
     - **(D)** $8,240,000 for fiscal year 2011;
     - **(E)** $8,500,000 for fiscal year 2012; and
     - **(F)** $8,750,000 for fiscal year 2013.
+
+## Source Credit
+
+*([Pub. L. 110–69, title V, § 5004](https://www.govinfo.gov/link/plaw/110/public/69), Aug. 9, 2007, [121 Stat. 612](https://www.govinfo.gov/link/statute/121/612); [Pub. L. 111–358, title IX, § 902(a)](https://www.govinfo.gov/link/plaw/111/public/358), Jan. 4, 2011, [124 Stat. 4044](https://www.govinfo.gov/link/statute/124/4044).)*

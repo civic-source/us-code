@@ -3,9 +3,10 @@ title: "Section 4106 - Religious organizations"
 usc_title: 50
 usc_section: "4106"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4106"
-generated_at: "2026-03-30T02:56:26.266Z"
+generated_at: "2026-11-23T21:26:39.087Z"
+status: "active"
 ---
 
 # § 4106. Religious organizations
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:26.266Z"
   - **(2)** The Commission is authorized to receive, determine according to law, and provide for the payment of claims filed under this subsection. Each claim allowed by the Commission under this subsection shall be certified to the Secretary of the Treasury for payment out of the War Claims Fund. All payments under this subsection shall be made to an organization or individual in the United States designated by the claimant, and, in the case of claims under clause (B) of paragraph (1) of this subsection such payments shall be used for the purpose of restoring the educational, medical, and welfare facilities described in such clause.
   - **(3)** Claims for benefits under this subsection must be filed within six months after August 6, 1956 . The Commission shall complete its determination with respect to each claim filed under this subsection at the earliest practicable date, but in no event later than one year after the date on which such claim was filed.
   - **(4)** Claims filed pursuant to clause (B) of paragraph (1) of this subsection shall be determined and paid upon the basis of postwar cost of replacement for the twelve-month period ending October 1, 1952 , as ascertained by the Commission.
+
+## Source Credit
+
+*(July 3, 1948, ch. 826, title I, § 7, [62 Stat. 1245](https://www.govinfo.gov/link/statute/62/1245); Apr. 9, 1952, ch. 167, § 2, [66 Stat. 48](https://www.govinfo.gov/link/statute/66/48); Aug. 6, 1956, ch. 985, [70 Stat. 1063](https://www.govinfo.gov/link/statute/70/1063); [Pub. L. 87–846, title I, § 102](https://www.govinfo.gov/link/plaw/87/public/846), Oct. 22, 1962, [76 Stat. 1107](https://www.govinfo.gov/link/statute/76/1107).)*

@@ -3,9 +3,10 @@ title: "Section 4005 - Functions and duties of National Council"
 usc_title: 16
 usc_section: "4005"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4005"
-generated_at: "2026-03-30T02:54:23.039Z"
+generated_at: "2026-11-23T21:25:52.008Z"
+status: "active"
 ---
 
 # § 4005. Functions and duties of National Council
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:23.039Z"
 - **(e)** The National Council may enter into agreements with applicants proposing to establish a council under section 4009 of this title for the purposes of funding a referendum establishing the council. The National Council may enter into agreements with the councils established under section 4009 of this title for the purpose of funding a referendum to establish quality standards, or a referendum to terminate any such council.
 - **(f)** The National Council may enter into agreements to develop and carry out activities authorized under this chapter.
 - **(g)** The National Council shall cease to exist on December 31, 1991 .
+
+## Source Credit
+
+*([Pub. L. 99–659, title II, § 206](https://www.govinfo.gov/link/plaw/99/public/659), Nov. 14, 1986, [100 Stat. 3718](https://www.govinfo.gov/link/statute/100/3718); [Pub. L. 101–627, title VII, § 701](https://www.govinfo.gov/link/plaw/101/public/627), Nov. 28, 1990, [104 Stat. 4463](https://www.govinfo.gov/link/statute/104/4463).)*

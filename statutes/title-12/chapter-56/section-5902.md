@@ -3,9 +3,10 @@ title: "Section 5902 - Issuance and treatment of payment stablecoins"
 usc_title: 12
 usc_section: "5902"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5902"
-generated_at: "2026-03-30T02:53:53.551Z"
+generated_at: "2026-11-23T21:25:37.306Z"
+status: "active"
 ---
 
 # § 5902. Issuance and treatment of payment stablecoins
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:53:53.551Z"
     - **(B)** to 3 3 So in original. The word “to” probably should not appear. any transaction involving the receipt of digital assets by an individual between an account owned by the individual in the United States and an account owned by the individual abroad that are offered by the same parent company; or
     - **(C)** to 3 any transaction by means of a software or hardware wallet that facilitates an individual’s own custody of digital assets.
   - **(2)** Nothing in this chapter shall alter the existing authority of the Secretary of the Treasury to block, restrict, or limit transactions involving payment stablecoins that reference or are denominated in United States dollars that are subject to the jurisdiction of the United States.
+
+## Source Credit
+
+*([Pub. L. 119–27, § 3](https://www.govinfo.gov/link/plaw/119/public/27), July 18, 2025, [139 Stat. 423](https://www.govinfo.gov/link/statute/139/423).)*

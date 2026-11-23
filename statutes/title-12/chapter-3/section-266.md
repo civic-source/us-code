@@ -3,12 +3,17 @@ title: "Section 266 - State-chartered banks and other institutions as depositari
 usc_title: 12
 usc_section: "266"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 266"
-generated_at: "2026-03-30T02:53:53.377Z"
+generated_at: "2026-11-23T21:25:36.781Z"
+status: "active"
 ---
 
 # § 266. State-chartered banks and other institutions as depositaries of public money; fiscal agents; duties
 
 Banks, savings banks, and savings and loan, building and loan, homestead associations (including cooperative banks), and credit unions created under the laws of any State and the deposits or accounts of which are insured by a State or agency thereof or corporation chartered pursuant to the laws of any State may be depositaries of public money and may be employed as fiscal agents of the United States. The Secretary of the Treasury is authorized to deposit public money in any such institution, and shall prescribe such regulations as may be necessary to enable such institutions to become depositaries of public money and fiscal agents of the United States. Each such institution shall perform all such reasonable duties as depositary of public money and fiscal agent of the United States as may be required of it including services in connection with the collection of taxes and other obligations owed the United States.
 
+
+## Source Credit
+
+*([Pub. L. 95–147, § 2(d)](https://www.govinfo.gov/link/plaw/95/public/147), Oct. 28, 1977, [91 Stat. 1228](https://www.govinfo.gov/link/statute/91/1228).)*

@@ -3,9 +3,10 @@ title: "Section 1592 - Unlawful conduct with respect to documents in furtherance
 usc_title: 18
 usc_section: "1592"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1592"
-generated_at: "2026-03-30T02:54:16.488Z"
+generated_at: "2026-11-23T21:25:44.079Z"
+status: "active"
 ---
 
 # § 1592. Unlawful conduct with respect to documents in furtherance of trafficking, peonage, slavery, involuntary servitude, or forced labor
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:16.488Z"
   - **(3)** to prevent or restrict or to attempt to prevent or restrict, without lawful authority, the person’s liberty to move or travel, in order to maintain the labor or services of that person, when the person is or has been a victim of a severe form of trafficking in persons, as defined in section 103 of the Trafficking Victims Protection Act of 2000,
 - **(b)** Subsection (a) does not apply to the conduct of a person who is or has been a victim of a severe form of trafficking in persons, as defined in section 103 of the Trafficking Victims Protection Act of 2000, if that conduct is caused by, or incident to, that trafficking.
 - **(c)** Whoever obstructs, attempts to obstruct, or in any way interferes with or prevents the enforcement of this section, shall be subject to the penalties described in subsection (a).
+
+## Source Credit
+
+*(Added [Pub. L. 106–386, div. A, § 112(a)(2)](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1488](https://www.govinfo.gov/link/statute/114/1488); amended [Pub. L. 110–457, title II, § 222(b)(6)](https://www.govinfo.gov/link/plaw/110/public/457), Dec. 23, 2008, [122 Stat. 5070](https://www.govinfo.gov/link/statute/122/5070).)*

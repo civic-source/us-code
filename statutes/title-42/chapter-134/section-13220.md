@@ -3,9 +3,10 @@ title: "Section 13220 - Biodiesel fuel use credits"
 usc_title: 42
 usc_section: "13220"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13220"
-generated_at: "2026-03-30T02:56:11.439Z"
+generated_at: "2026-11-23T21:26:33.582Z"
+status: "active"
 ---
 
 # § 13220. Biodiesel fuel use credits
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.439Z"
   - **(2)** the term “qualifying volume” means—
     - **(A)** 450 gallons; or
     - **(B)** if the Secretary determines by rule that the average annual alternative fuel use in light duty vehicles by fleets and covered persons exceeds 450 gallons or gallon equivalents, the amount of such average annual alternative fuel use.
+
+## Source Credit
+
+*([Pub. L. 102–486, title III, § 312](https://www.govinfo.gov/link/plaw/102/public/486), as added [Pub. L. 105–277, div. A, § 101(a) [title XII, § 1201(a)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681](https://www.govinfo.gov/link/statute/112/2681), 2681–48; [Pub. L. 105–388, § 7(a)](https://www.govinfo.gov/link/plaw/105/public/388), Nov. 13, 1998, [112 Stat. 3480](https://www.govinfo.gov/link/statute/112/3480); [Pub. L. 109–58, title XV, § 1515](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1091](https://www.govinfo.gov/link/statute/119/1091).)*

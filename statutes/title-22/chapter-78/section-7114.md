@@ -3,9 +3,10 @@ title: "Section 7114 - Efforts to end modern slavery"
 usc_title: 22
 usc_section: "7114"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7114"
-generated_at: "2026-03-30T02:55:05.438Z"
+generated_at: "2026-11-23T21:25:58.713Z"
+status: "active"
 ---
 
 # § 7114. Efforts to end modern slavery
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:05.438Z"
 - **(i)** In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committee on Foreign Relations, the Committee on Armed Services, and the Committee on Appropriations of the Senate; and
   - **(2)** the Committee on Foreign Affairs, the Committee on Armed Services, and the Committee on Appropriations of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 114–328, div. A, title XII, § 1298](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2563](https://www.govinfo.gov/link/statute/130/2563).)*

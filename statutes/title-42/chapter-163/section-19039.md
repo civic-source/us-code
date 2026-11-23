@@ -3,9 +3,10 @@ title: "Section 19039 - Foundation funding to institutions hosting or supporting
 usc_title: 42
 usc_section: "19039"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19039"
-generated_at: "2026-03-30T02:56:11.538Z"
+generated_at: "2026-11-23T21:26:33.864Z"
+status: "active"
 ---
 
 # § 19039. Foundation funding to institutions hosting or supporting Confucius Institutes
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.538Z"
   - **(2)** Notwithstanding any other provision of this section, the prohibition under subsection (b) shall not apply to amounts provided to students as educational assistance.
 - **(e)** The limitation under subsection (b) shall apply with respect to the first fiscal year that begins after the date that is two years after August 9, 2022 , and to any subsequent fiscal year subject to subsection (f).
 - **(f)** This section shall cease to be effective on the date that is five years after August 9, 2022 .
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10339A](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1555](https://www.govinfo.gov/link/statute/136/1555).)*

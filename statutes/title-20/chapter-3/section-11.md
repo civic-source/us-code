@@ -3,9 +3,10 @@ title: "Section 11 - Inventory, identification, and return of Native Hawaiian hu
 usc_title: 20
 usc_section: "11"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 11"
-generated_at: "2026-03-30T02:54:48.077Z"
+generated_at: "2026-11-23T21:25:46.936Z"
+status: "active"
 ---
 
 # § 80q–11. Inventory, identification, and return of Native Hawaiian human remains and Native Hawaiian funerary objects in possession of Smithsonian Institution
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:48.077Z"
 - **(b)** As used in this section—
   - **(1)** the term “Malama I Na Kupuna O Hawai’i Nei” means the nonprofit, Native Hawaiian organization, incorporated under the laws of the State of Hawaii by that name on April 17, 1989 , the purpose of which is to provide guidance and expertise in decisions dealing with Native Hawaiian cultural issues, particularly burial issues; and
   - **(2)** the term “Office of Hawaiian Affairs” means the Office of Hawaiian Affairs established by the Constitution of the State of Hawaii.
+
+## Source Credit
+
+*([Pub. L. 101–185, § 13](https://www.govinfo.gov/link/plaw/101/public/185), Nov. 28, 1989, [103 Stat. 1345](https://www.govinfo.gov/link/statute/103/1345).)*

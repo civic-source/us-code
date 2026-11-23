@@ -3,9 +3,10 @@ title: "Section 8101 - Complement of inspected vessels"
 usc_title: 46
 usc_section: "8101"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 8101"
-generated_at: "2026-03-30T02:56:15.551Z"
+generated_at: "2026-11-23T21:26:37.088Z"
+status: "active"
 ---
 
 # § 8101. Complement of inspected vessels
@@ -28,3 +29,16 @@ generated_at: "2026-03-30T02:56:15.551Z"
   - **(4)** report those details to the Secretary—
     - **(A)** by the most expeditious means available; and
     - **(B)** in written form transmitted within 12 hours after the vessel arrives at its next port.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 8101 | 46:222 46:224 46:446d |
+
+
+Historical and Revision Notes
+
+8101
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 547](https://www.govinfo.gov/link/statute/97/547); [Pub. L. 98–557, § 29(b)](https://www.govinfo.gov/link/plaw/98/public/557), Oct. 30, 1984, [98 Stat. 2873](https://www.govinfo.gov/link/statute/98/2873); [Pub. L. 99–640, § 11(b)](https://www.govinfo.gov/link/plaw/99/public/640), Nov. 10, 1986, [100 Stat. 3550](https://www.govinfo.gov/link/statute/100/3550); [Pub. L. 101–380, title IV](https://www.govinfo.gov/link/plaw/101/public/380), §§ 4104, 4114(c), 4302(e), Aug. 18, 1990, [104 Stat. 511](https://www.govinfo.gov/link/statute/104/511), 517, 538; [Pub. L. 104–324, title VII, § 725](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3939](https://www.govinfo.gov/link/statute/110/3939).)*

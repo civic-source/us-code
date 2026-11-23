@@ -3,9 +3,10 @@ title: "Section 4401 - Inclusion of interest in certain distributions of antidum
 usc_title: 19
 usc_section: "4401"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4401"
-generated_at: "2026-03-30T02:54:24.707Z"
+generated_at: "2026-11-23T21:25:42.883Z"
+status: "active"
 ---
 
 # § 4401. Inclusion of interest in certain distributions of antidumping duties and countervailing duties
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:24.707Z"
 - **(d)** In this section:
   - **(1)** The term “antidumping duties” means antidumping duties imposed under section 1673 of this title or under the Antidumping Act, 1921 (title II of the Act of May 27, 1921 ; 42 Stat. 11 , chapter 14).
   - **(2)** The term “countervailing duties” means countervailing duties imposed under section 1671 of this title .
+
+## Source Credit
+
+*([Pub. L. 114–125, title VI, § 605](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 187](https://www.govinfo.gov/link/statute/130/187).)*

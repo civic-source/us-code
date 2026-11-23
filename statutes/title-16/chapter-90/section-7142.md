@@ -3,9 +3,10 @@ title: "Section 7142 - Use"
 usc_title: 16
 usc_section: "7142"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 7142"
-generated_at: "2026-03-30T02:54:23.074Z"
+generated_at: "2026-11-23T21:25:52.064Z"
+status: "active"
 ---
 
 # § 7142. Use
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:23.074Z"
 - **(b)** A participating county shall use county funds for a use described in subsection (a) only after a 45-day public comment period, at the beginning of which the participating county shall—
   - **(1)** publish in any publications of local record a proposal that describes the proposed use of the county funds; and
   - **(2)** submit the proposal to any resource advisory committee established under section 7125 of this title for the participating county.
+
+## Source Credit
+
+*([Pub. L. 106–393, title III, § 302](https://www.govinfo.gov/link/plaw/106/public/393), as added [Pub. L. 110–343, div. C, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3909](https://www.govinfo.gov/link/statute/122/3909); amended [Pub. L. 112–141, div. F, title I, § 100101(a)(9)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 906](https://www.govinfo.gov/link/statute/126/906); [Pub. L. 115–141, div. O, title IV, § 402](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1079](https://www.govinfo.gov/link/statute/132/1079); [Pub. L. 117–58, div. D, title XII, § 41202(e)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1134](https://www.govinfo.gov/link/statute/135/1134).)*

@@ -3,9 +3,10 @@ title: "Section 3710a - Cooperative research and development agreements"
 usc_title: 15
 usc_section: "3710a"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3710a"
-generated_at: "2026-03-30T02:54:08.192Z"
+generated_at: "2026-11-23T21:25:39.976Z"
+status: "active"
 ---
 
 # § 3710a. Cooperative research and development agreements
@@ -76,3 +77,17 @@ generated_at: "2026-03-30T02:54:08.192Z"
   - **(1)** The implementation shall advance program missions at the laboratory, including any national security mission.
   - **(2)** Classified information and unclassified sensitive information protected by law, regulation, or Executive order shall be appropriately safeguarded.
 - **(h)** For the purposes of this section, the government of a territory of the United States shall be considered a non-Federal party.
+
+Definition
+
+Retroactive effect
+
+Review
+
+Procedures
+
+Limitation
+
+## Source Credit
+
+*([Pub. L. 96–480, § 12](https://www.govinfo.gov/link/plaw/96/public/480), as added and renumbered § 11, [Pub. L. 99–502](https://www.govinfo.gov/link/plaw/99/public/502), §§ 2, 9(e)(1), Oct. 20, 1986, [100 Stat. 1785](https://www.govinfo.gov/link/statute/100/1785), 1797; renumbered § 12, [Pub. L. 100–418, title V, § 5122(a)(1)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1438](https://www.govinfo.gov/link/statute/102/1438); amended [Pub. L. 100–519, title III, § 301](https://www.govinfo.gov/link/plaw/100/public/519), Oct. 24, 1988, [102 Stat. 2597](https://www.govinfo.gov/link/statute/102/2597); [Pub. L. 101–189, div. C, title XXXI, § 3133(a)](https://www.govinfo.gov/link/plaw/101/public/189), (b), Nov. 29, 1989, [103 Stat. 1675](https://www.govinfo.gov/link/statute/103/1675), 1677; [Pub. L. 102–25, title VII, § 705(g)](https://www.govinfo.gov/link/plaw/102/public/25), Apr. 6, 1991, [105 Stat. 121](https://www.govinfo.gov/link/statute/105/121); [Pub. L. 102–245, title III, § 302(a)](https://www.govinfo.gov/link/plaw/102/public/245), Feb. 14, 1992, [106 Stat. 20](https://www.govinfo.gov/link/statute/106/20); [Pub. L. 102–484, div. C, title XXXI, § 3135(a)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2640](https://www.govinfo.gov/link/statute/106/2640); [Pub. L. 103–160, div. C, title XXXI, § 3160](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1957](https://www.govinfo.gov/link/statute/107/1957); [Pub. L. 104–113, § 4](https://www.govinfo.gov/link/plaw/104/public/113), Mar. 7, 1996, [110 Stat. 775](https://www.govinfo.gov/link/statute/110/775); [Pub. L. 106–398, § 1 [div. C, title XXXI, § 3196]](https://www.govinfo.gov/link/plaw/106/public/398), Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–481; [Pub. L. 106–404, § 3](https://www.govinfo.gov/link/plaw/106/public/404), Nov. 1, 2000, [114 Stat. 1742](https://www.govinfo.gov/link/statute/114/1742); [Pub. L. 117–58, div. D, title III, § 40322(b)(1)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1018](https://www.govinfo.gov/link/statute/135/1018); [Pub. L. 118–159, div. A, title XVII, § 1705](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2208](https://www.govinfo.gov/link/statute/138/2208).)*

@@ -3,9 +3,10 @@ title: "Section 1051 - Application for registration; verification"
 usc_title: 15
 usc_section: "1051"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1051"
-generated_at: "2026-03-30T02:54:08.125Z"
+generated_at: "2026-11-23T21:25:39.777Z"
+status: "active"
 ---
 
 # § 1051. Application for registration; verification
@@ -42,3 +43,13 @@ generated_at: "2026-03-30T02:54:08.125Z"
   - **(4)** The failure to timely file a verified statement of use under paragraph (1) or an extension request under paragraph (2) shall result in abandonment of the application, unless it can be shown to the satisfaction of the Director that the delay in responding was unintentional, in which case the time for filing may be extended, but for a period not to exceed the period specified in paragraphs (1) and (2) for filing a statement of use.
 - **(e)** If the applicant is not domiciled in the United States the applicant may designate, by a document filed in the United States Patent and Trademark Office, the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, or if the registrant does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served on the Director.
 - **(f)** A third party may submit for consideration for inclusion in the record of an application evidence relevant to a ground for refusal of registration. The third-party submission shall identify the ground for refusal and include a concise description of each piece of evidence submitted in support of each identified ground for refusal. Not later than 2 months after the date on which the submission is filed, the Director shall determine whether the evidence should be included in the record of the application. The Director shall establish by regulation appropriate procedures for the consideration of evidence submitted by a third party under this subsection and may prescribe a fee to accompany the submission. If the Director determines that the third-party evidence should be included in the record of the application, only the evidence and the ground for refusal to which the evidence relates may be so included. Any determination by the Director whether or not to include evidence in the record of an application shall be final and non-reviewable, and a determination to include or to not include evidence in the record shall not prejudice any party’s right to raise any issue and rely on any evidence in any other proceeding.
+
+“In this subtitle [subtitle B (§§ 221–228) of title II of div. Q of Pub. L. 116–260 , see Short Title of 2020 Amendment note above]:
+
+Director
+
+Trademark act of 1946
+
+## Source Credit
+
+*(July 5, 1946, ch. 540, title I, § 1, [60 Stat. 427](https://www.govinfo.gov/link/statute/60/427); [Pub. L. 87–772, § 1](https://www.govinfo.gov/link/plaw/87/public/772), Oct. 9, 1962, [76 Stat. 769](https://www.govinfo.gov/link/statute/76/769); [Pub. L. 93–596, § 1](https://www.govinfo.gov/link/plaw/93/public/596), Jan. 2, 1975, [88 Stat. 1949](https://www.govinfo.gov/link/statute/88/1949); [Pub. L. 100–667, title I, § 103](https://www.govinfo.gov/link/plaw/100/public/667), Nov. 16, 1988, [102 Stat. 3935](https://www.govinfo.gov/link/statute/102/3935); [Pub. L. 105–330, title I, § 103](https://www.govinfo.gov/link/plaw/105/public/330), title II, § 201(a)(1), Oct. 30, 1998, [112 Stat. 3064](https://www.govinfo.gov/link/statute/112/3064), 3069; [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–583; [Pub. L. 107–273, div. C, title III, § 13207(b)(1)](https://www.govinfo.gov/link/plaw/107/public/273), (2), Nov. 2, 2002, [116 Stat. 1906](https://www.govinfo.gov/link/statute/116/1906); [Pub. L. 116–260, div. Q, title II, § 223(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2201](https://www.govinfo.gov/link/statute/134/2201).)*

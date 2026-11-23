@@ -3,9 +3,10 @@ title: "Section 635r - Establishment of tied aid credit program administered by 
 usc_title: 12
 usc_section: "635r"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 635r"
-generated_at: "2026-03-30T02:53:53.388Z"
+generated_at: "2026-11-23T21:25:36.816Z"
+status: "active"
 ---
 
 # § 635r. Establishment of tied aid credit program administered by Trade and Development Agency
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.388Z"
   - **(1)** Funds which are used to carry out a tied aid credit program authorized by subsections (a) and (b) shall be offered only to finance United States exports which can reasonably be expected to contribute to the advancement of the development objectives of the importing country or countries, and shall be consistent with the economic, security, and political criteria used to establish country allocations of Economic Support Funds.
   - **(2)** The Director of the Trade and Development Agency is authorized to establish a fund, as necessary, for carrying out a tied aid credit financing program as described in this section.
 - **(d)** Funds available to carry out chapter 4 of part II of the Foreign Assistance Act of 1961 [ 22 U.S.C. 2346 et seq.] may be used by the Director of the Trade and Development Agency, with the concurrence of the Secretary of State (as provided under section 531 of the Foreign Assistance Act of 1961 [ 22 U.S.C. 2346 ]), for the purposes for which funds made available under this subsection are authorized to be used in section 635q of this title and this section. The Secretary of State shall exercise his authority in cooperation with the Administrator of the Agency for International Development. Funds made available pursuant to this subsection may be used to finance a tied aid credit activity in any country eligible for tied aid credits under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title VI, § 645], Nov. 30, 1983, [97 Stat. 1264](https://www.govinfo.gov/link/statute/97/1264); [Pub. L. 100–418, title II, § 2204(c)(1)(B)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1330](https://www.govinfo.gov/link/statute/102/1330); [Pub. L. 102–549, title II, § 202(c)](https://www.govinfo.gov/link/plaw/102/public/549), Oct. 28, 1992, [106 Stat. 3658](https://www.govinfo.gov/link/statute/106/3658).)*

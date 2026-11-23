@@ -3,9 +3,10 @@ title: "Section 6702 - Local and regional project assistance"
 usc_title: 49
 usc_section: "6702"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 6702"
-generated_at: "2026-03-30T02:56:19.322Z"
+generated_at: "2026-11-23T21:26:40.672Z"
+status: "active"
 ---
 
 # § 6702. Local and regional project assistance
@@ -113,3 +114,99 @@ generated_at: "2026-03-30T02:56:19.322Z"
         - **(I)** the adequacy and fairness of the process; and
         - **(II)** the selection criteria; and
     - **(B)** submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report describing the findings of the review under subparagraph (A), including recommendations for improving the administration of the program, if any.
+
+Definitions
+
+Area of persistent poverty
+
+Eligible entity
+
+Eligible project
+
+Program
+
+Rural area
+
+Secretary
+
+Urbanized area
+
+Establishment.—
+
+In general
+
+Goal
+
+Grants.—
+
+In general
+
+Amount
+
+Limitation
+
+Selection of Eligible Projects.—
+
+Notice of funding opportunity
+
+Applications
+
+Primary selection criteria
+
+Additional selection criteria
+
+Transparency.—
+
+In general
+
+Publication
+
+Awards
+
+Technical assistance.—
+
+In general
+
+Treatment
+
+Federal Share.—
+
+In general
+
+Exception
+
+Treatment of other federal funds
+
+Other Considerations.—
+
+In general
+
+Historically disadvantaged communities and areas of persistent poverty
+
+Multimodal and geographical considerations
+
+Project Planning.—
+
+In general
+
+Nonapplicability of certain limitations
+
+Transfer of Authority
+
+Credit Program Costs.—
+
+In general
+
+Limitation
+
+Authorization of Appropriations
+
+Reports.—
+
+Annual report
+
+Comptroller general
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. B, title I, § 21202(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 671](https://www.govinfo.gov/link/statute/135/671); amended [Pub. L. 117–146, § 21(a)](https://www.govinfo.gov/link/plaw/117/public/146), June 16, 2022, [136 Stat. 1284](https://www.govinfo.gov/link/statute/136/1284).)*

@@ -3,9 +3,10 @@ title: "Section 778a - Acquisition of lands; construction of buildings; employme
 usc_title: 16
 usc_section: "778a"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 778a"
-generated_at: "2026-03-30T02:54:22.910Z"
+generated_at: "2026-11-23T21:25:51.753Z"
+status: "active"
 ---
 
 # § 778a. Acquisition of lands; construction of buildings; employment of personnel; cooperation with other agencies; publication of results
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:22.910Z"
   - **(2)** to cooperate with State and other institutions and agencies upon such terms and conditions as he determines to be appropriate; and
   - **(3)** to make public the results of such research and experiments conducted pursuant to section 778 of this title .
 
+
+## Source Credit
+
+*([Pub. L. 85–342, § 2](https://www.govinfo.gov/link/plaw/85/public/342), Mar. 15, 1958, [72 Stat. 35](https://www.govinfo.gov/link/statute/72/35); [Pub. L. 104–127, title VIII, § 889(a)(2)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1180](https://www.govinfo.gov/link/statute/110/1180).)*

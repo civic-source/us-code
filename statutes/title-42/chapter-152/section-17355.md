@@ -3,9 +3,10 @@ title: "Section 17355 - Powers of the Foundation; related provisions"
 usc_title: 42
 usc_section: "17355"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17355"
-generated_at: "2026-03-30T02:56:11.505Z"
+generated_at: "2026-11-23T21:26:33.789Z"
+status: "active"
 ---
 
 # § 17355. Powers of the Foundation; related provisions
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.505Z"
   - **(3)**
     - **(A)** The Foundation shall reimburse the Department of State for all expenses incurred by the Inspector General in connection with the Inspector General’s responsibilities under this subsection.
     - **(B)** Of the amount authorized to be appropriated under section 17357(a) of this title for a fiscal year, up to $500,000 is authorized to be made available to the Inspector General of the Department of State to conduct reviews, investigations, and inspections of operations and activities of the Foundation.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IX, § 925](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1736](https://www.govinfo.gov/link/statute/121/1736).)*

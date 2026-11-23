@@ -3,9 +3,10 @@ title: "Section 6225 - Partnership adjustment by Secretary"
 usc_title: 26
 usc_section: "6225"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6225"
-generated_at: "2026-03-30T02:55:27.846Z"
+generated_at: "2026-11-23T21:26:06.835Z"
+status: "active"
 ---
 
 # § 6225. Partnership adjustment by Secretary
@@ -71,3 +72,7 @@ generated_at: "2026-03-30T02:55:27.846Z"
     - **(A)** in the case of an adjustment pursuant to the decision of a court in a proceeding brought under section 6234, such decision becomes final,
     - **(B)** in the case of an administrative adjustment request under section 6227, such administrative adjustment request is made, or
     - **(C)** in any other case, notice of the final partnership adjustment is mailed under section 6231.
+
+## Source Credit
+
+*(Added [Pub. L. 114–74, title XI, § 1101(c)(1)](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 628](https://www.govinfo.gov/link/statute/129/628); amended [Pub. L. 114–113, div. Q, title IV, § 411(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3121](https://www.govinfo.gov/link/statute/129/3121); [Pub. L. 115–141, div. U, title II](https://www.govinfo.gov/link/plaw/115/public/141), §§ 202, 203(a), 206(b), (p)(1), Mar. 23, 2018, [132 Stat. 1173](https://www.govinfo.gov/link/statute/132/1173), 1174, 1178, 1182.)*

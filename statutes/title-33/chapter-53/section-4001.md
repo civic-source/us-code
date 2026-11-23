@@ -3,9 +3,10 @@ title: "Section 4001 - Assessments"
 usc_title: 33
 usc_section: "4001"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 4001"
-generated_at: "2026-03-30T02:55:41.146Z"
+generated_at: "2026-11-23T21:26:11.494Z"
+status: "active"
 ---
 
 # § 4001. Assessments
@@ -71,3 +72,9 @@ generated_at: "2026-03-30T02:55:41.146Z"
   - **(3)** the budget related to the activities under paragraph (2);
   - **(4)** the progress made on implementing the Action Strategy; and
   - **(5)** any need to revise or terminate research and activities under the Program.
+
+“The Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 105–383, title VI, § 603](https://www.govinfo.gov/link/plaw/105/public/383), Nov. 13, 1998, [112 Stat. 3448](https://www.govinfo.gov/link/statute/112/3448); [Pub. L. 108–456, title I](https://www.govinfo.gov/link/plaw/108/public/456), §§ 102–104, Dec. 10, 2004, [118 Stat. 3630](https://www.govinfo.gov/link/statute/118/3630), 3631; [Pub. L. 113–124](https://www.govinfo.gov/link/plaw/113/public/124), §§ 3, 6, 10(b), June 30, 2014, [128 Stat. 1379](https://www.govinfo.gov/link/statute/128/1379), 1383, 1386; [Pub. L. 115–423, § 9(c)](https://www.govinfo.gov/link/plaw/115/public/423), (d), Jan. 7, 2019, [132 Stat. 5462](https://www.govinfo.gov/link/statute/132/5462).)*

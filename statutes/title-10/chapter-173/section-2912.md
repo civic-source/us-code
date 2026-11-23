@@ -3,9 +3,10 @@ title: "Section 2912 - Availability and use of energy cost savings"
 usc_title: 10
 usc_section: "2912"
 chapter: 173
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2912"
-generated_at: "2026-03-30T02:53:38.186Z"
+generated_at: "2026-11-23T21:25:32.705Z"
+status: "active"
 ---
 
 # § 2912. Availability and use of energy cost savings
@@ -27,3 +28,19 @@ generated_at: "2026-03-30T02:53:38.186Z"
   - **(2)** Amounts transferred to a funding account of the Department under paragraph (1) shall be available for obligation for the same period as amounts in that account.
   - **(3)** At the end of each fiscal year, the Secretary of Defense shall submit to Congress a report detailing any funds transferred pursuant to paragraph (1) during that fiscal year, including a detailed description of the purpose for which such amounts have been used.
 - **(f)** In this section, the term “operational energy cost savings” means the monetary savings achieved through measures to reduce energy expenditures relative to the amount that would have been necessary to sustain an equivalent level of capability in the absence of such measures.
+
+Availability
+
+Use
+
+Use of Operational Energy Cost Savings
+
+Treatment of Certain Financial Incentives
+
+Transfer of Amounts
+
+Operational Energy Cost Savings Defined
+
+## Source Credit
+
+*(Added [Pub. L. 109–364, div. B, title XXVIII, § 2851(a)(1)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2491](https://www.govinfo.gov/link/statute/120/2491); amended [Pub. L. 112–239, div. B, title XXVIII, § 2822](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2152](https://www.govinfo.gov/link/statute/126/2152); [Pub. L. 115–91, div. A, title X, § 1051(a)(26)](https://www.govinfo.gov/link/plaw/115/public/91), div. B, title XXVIII, § 2832, Dec. 12, 2017, [131 Stat. 1562](https://www.govinfo.gov/link/statute/131/1562), 1858; [Pub. L. 115–232, div. A, title III, § 312(h)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1711](https://www.govinfo.gov/link/statute/132/1711); [Pub. L. 116–92, div. A, title III, § 317](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1304](https://www.govinfo.gov/link/statute/133/1304); [Pub. L. 116–283, div. A, title III, § 317](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3519](https://www.govinfo.gov/link/statute/134/3519); [Pub. L. 117–81, div. A, title III, § 315](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1630](https://www.govinfo.gov/link/statute/135/1630); [Pub. L. 119–60, div. A, title III, § 313](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 804](https://www.govinfo.gov/link/statute/139/804).)*

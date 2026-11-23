@@ -3,12 +3,17 @@ title: "Section 1945 - Retirement of permanent commissioned teaching staff"
 usc_title: 14
 usc_section: "1945"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 1945"
-generated_at: "2026-03-30T02:53:51.496Z"
+generated_at: "2026-11-23T21:25:35.409Z"
+status: "active"
 ---
 
 # § 1945. Retirement of permanent commissioned teaching staff
 
 Professors, associate professors, assistant professors, and instructors in the Coast Guard shall be subject to retirement or discharge from active service for any cause on the same basis as other commissioned officers of the Coast Guard, except that they shall not be required to retire from active service under the provisions of section 2149 of this title , nor shall they be subject to the provisions of section 2150 of this title , nor shall they be required to retire at age sixty-two but may be permitted to serve until age sixty-four at which time unless earlier retired or separated they shall be retired. The Secretary may retire any member of the permanent commissioned teaching staff who has completed thirty years’ active service. Service as a civilian member of the teaching staff at the Academy in addition to creditable service authorized by any other law in any of the military services rendered prior to an appointment as a professor, associate professor, assistant professor, or instructor shall be credited in computing length of service for retirement purposes. The provisions of law relating to retirement for disability in line of duty shall not apply in the case of a professor, associate professor, assistant professor, or instructor serving under a temporary appointment.
 
+
+## Source Credit
+
+*(Aug. 4, 1949, ch. 393, [63 Stat. 509](https://www.govinfo.gov/link/statute/63/509), § 190; [Pub. L. 86–474, § 1(13)](https://www.govinfo.gov/link/plaw/86/public/474), May 14, 1960, [74 Stat. 145](https://www.govinfo.gov/link/statute/74/145); [Pub. L. 88–130, § 1(8)](https://www.govinfo.gov/link/plaw/88/public/130), Sept. 24, 1963, [77 Stat. 175](https://www.govinfo.gov/link/statute/77/175); [Pub. L. 89–444, § 1(10)](https://www.govinfo.gov/link/plaw/89/public/444), June 9, 1966, [80 Stat. 196](https://www.govinfo.gov/link/statute/80/196); [Pub. L. 91–278, § 1(5)](https://www.govinfo.gov/link/plaw/91/public/278), June 12, 1970, [84 Stat. 304](https://www.govinfo.gov/link/statute/84/304); renumbered § 1945 and amended [Pub. L. 115–282, title I](https://www.govinfo.gov/link/plaw/115/public/282), §§ 110(b), 123(b)(2), Dec. 4, 2018, [132 Stat. 4212](https://www.govinfo.gov/link/statute/132/4212), 4240.)*

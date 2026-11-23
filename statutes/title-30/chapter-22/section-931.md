@@ -3,9 +3,10 @@ title: "Section 931 - Benefits under State workmen’s compensation laws"
 usc_title: 30
 usc_section: "931"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 931"
-generated_at: "2026-03-30T02:55:29.392Z"
+generated_at: "2026-11-23T21:26:00.406Z"
+status: "active"
 ---
 
 # § 931. Benefits under State workmen’s compensation laws
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:29.392Z"
     - **(E)** there are in effect provisions with respect to prior and successor operators which are substantially equivalent to the provisions contained in section 932(i) of this title ; and
     - **(F)** there are applicable such other provisions, regulations or interpretations, which are consistent with the provisions contained in Public Law 803, 69th Congress ( 44 Stat. 1424 , approved March 4, 1927 ), as amended [ 33 U.S.C. 901 et seq.], which are applicable under section 932(a) of this title , but are not inconsistent with any of the criteria set forth in subparagraphs (A) through (E) of this paragraph, as the Secretary, in accordance with regulations promulgated by him, determines to be necessary or appropriate to assure adequate compensation for total disability or death due to pneumoconiosis.
 - **(c)** Final regulations required for implementation of any amendments to this part shall be promulgated and published in the Federal Register at the earliest practicable date after the date of enactment of such amendments, and in no event later than the end of the sixth month following the month in which such amendments are enacted.
+
+## Source Credit
+
+*([Pub. L. 91–173, title IV, § 421](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 795](https://www.govinfo.gov/link/statute/83/795); [Pub. L. 92–303](https://www.govinfo.gov/link/plaw/92/public/303), §§ 1(c)(1), 4(e), 5(3), (5), May 19, 1972, [86 Stat. 151](https://www.govinfo.gov/link/statute/86/151), 154, 155; [Pub. L. 95–239](https://www.govinfo.gov/link/plaw/95/public/239), §§ 3(b)(3), 6, Mar. 1, 1978, [92 Stat. 97](https://www.govinfo.gov/link/statute/92/97), 98.)*

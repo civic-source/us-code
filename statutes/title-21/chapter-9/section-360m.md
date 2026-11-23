@@ -3,9 +3,10 @@ title: "Section 360m - Accredited persons"
 usc_title: 21
 usc_section: "360m"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 360m"
-generated_at: "2026-03-30T02:54:54.252Z"
+generated_at: "2026-11-23T21:25:56.087Z"
+status: "active"
 ---
 
 # § 360m. Accredited persons
@@ -56,3 +57,15 @@ generated_at: "2026-03-30T02:54:54.252Z"
   - **(4)** The Secretary shall provide each person who chooses to use an accredited person to receive a section 360(k) of this title report a panel of at least two or more accredited persons from which the regulated person may select one for a specific regulatory function.
   - **(5)** Compensation for an accredited person shall be determined by agreement between the accredited person and the person who engages the services of the accredited person, and shall be paid by the person who engages such services.
 - **(c)** The authority provided by this section terminates on October 1, 2027 .
+
+Comptroller general.—
+
+Implementation of program
+
+Evaluation of program
+
+Inclusion of certain devices within program
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 523, as added [Pub. L. 105–115, title II, § 210(a)](https://www.govinfo.gov/link/plaw/105/public/115), Nov. 21, 1997, [111 Stat. 2342](https://www.govinfo.gov/link/statute/111/2342); amended [Pub. L. 107–250, title II, § 202](https://www.govinfo.gov/link/plaw/107/public/250), Oct. 26, 2002, [116 Stat. 1609](https://www.govinfo.gov/link/statute/116/1609); [Pub. L. 110–85, title II, § 221](https://www.govinfo.gov/link/plaw/110/public/85), Sept. 27, 2007, [121 Stat. 852](https://www.govinfo.gov/link/statute/121/852); [Pub. L. 111–31, div. A, title I, § 103(f)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1837](https://www.govinfo.gov/link/statute/123/1837); [Pub. L. 112–144, title VI, § 611](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 1059](https://www.govinfo.gov/link/statute/126/1059); [Pub. L. 114–255, div. A, title III, § 3102(4)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1156](https://www.govinfo.gov/link/statute/130/1156); [Pub. L. 115–52, title II, § 206](https://www.govinfo.gov/link/plaw/115/public/52), Aug. 18, 2017, [131 Stat. 1018](https://www.govinfo.gov/link/statute/131/1018); [Pub. L. 117–180, div. F, title II, § 2006](https://www.govinfo.gov/link/plaw/117/public/180), Sept. 30, 2022, [136 Stat. 2154](https://www.govinfo.gov/link/statute/136/2154); [Pub. L. 117–229, div. C, title III, § 309](https://www.govinfo.gov/link/plaw/117/public/229), Dec. 16, 2022, [136 Stat. 2312](https://www.govinfo.gov/link/statute/136/2312); [Pub. L. 117–328, div. FF, title III, § 3109](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5808](https://www.govinfo.gov/link/statute/136/5808).)*

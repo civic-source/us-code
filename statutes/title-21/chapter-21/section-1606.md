@@ -3,9 +3,10 @@ title: "Section 1606 - Subsequent impleader of dismissed biomaterials supplier"
 usc_title: 21
 usc_section: "1606"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 1606"
-generated_at: "2026-03-30T02:54:54.304Z"
+generated_at: "2026-11-23T21:25:56.282Z"
+status: "active"
 ---
 
 # § 1606. Subsequent impleader of dismissed biomaterials supplier
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:54.304Z"
   - **(1)** may, prior to entry of judgment on the claim against it, supplement the record of the proceeding that was developed prior to the grant of the motion for impleader under subsection (a); and
   - **(2)** may be found liable to a manufacturer or a claimant only to the extent required and permitted by any applicable State or Federal law other than this chapter.
 - **(c)** Nothing in this section shall give a claimant or any other party the right to obtain discovery from a biomaterials supplier at any time prior to grant of a motion for impleader beyond that allowed under section 1605 of this title .
+
+## Source Credit
+
+*([Pub. L. 105–230, § 7](https://www.govinfo.gov/link/plaw/105/public/230), Aug. 13, 1998, [112 Stat. 1528](https://www.govinfo.gov/link/statute/112/1528).)*

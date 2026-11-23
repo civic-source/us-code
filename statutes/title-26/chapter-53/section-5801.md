@@ -3,9 +3,10 @@ title: "Section 5801 - Imposition of tax"
 usc_title: 26
 usc_section: "5801"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5801"
-generated_at: "2026-03-30T02:55:27.826Z"
+generated_at: "2026-11-23T21:26:06.745Z"
+status: "active"
 ---
 
 # § 5801. Imposition of tax
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:27.826Z"
   - **(1)** Paragraph (1) of subsection (a) shall be applied by substituting “$500” for “$1,000” with respect to any taxpayer the gross receipts of which (for the most recent taxable year ending before the 1st day of the taxable period to which the tax imposed by subsection (a) relates) are less than $500,000.
   - **(2)** All persons treated as 1 taxpayer under section 5061(e)(3) shall be treated as 1 taxpayer for purposes of paragraph (1).
   - **(3)** For purposes of paragraph (1), rules similar to the rules of subparagraphs (B) and (C) of section 448(c)(3) shall apply.
+
+## Source Credit
+
+*(Added [Pub. L. 90–618, title II, § 201](https://www.govinfo.gov/link/plaw/90/public/618), Oct. 22, 1968, [82 Stat. 1227](https://www.govinfo.gov/link/statute/82/1227); amended [Pub. L. 100–203, title X, § 10512(g)(1)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–449](https://www.govinfo.gov/link/statute/101/1330).)*

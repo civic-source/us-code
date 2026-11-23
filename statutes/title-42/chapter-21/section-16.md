@@ -3,9 +3,10 @@ title: "Section 16 - Employment by Federal Government"
 usc_title: 42
 usc_section: "16"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16"
-generated_at: "2026-03-30T02:56:11.140Z"
+generated_at: "2026-11-23T21:26:32.291Z"
+status: "active"
 ---
 
 # § 2000e–16. Employment by Federal Government
@@ -21,3 +22,17 @@ generated_at: "2026-03-30T02:56:11.140Z"
 - **(d)** The provisions of section 2000e–5(f) through (k) of this title, as applicable, shall govern civil actions brought hereunder, and the same interest to compensate for delay in payment shall be available as in cases involving nonpublic parties.. 1 1 So in original.
 - **(e)** Nothing contained in this Act shall relieve any Government agency or official of its or his primary responsibility to assure nondiscrimination in employment as required by the Constitution and statutes or of its or his responsibilities under Executive Order 11478 relating to equal employment opportunity in the Federal Government.
 - **(f)** Section 2000e–5(e)(3) of this title shall apply to complaints of discrimination in compensation under this section.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 88–352, title VII, § 717](https://www.govinfo.gov/link/plaw/88/public/352), as added [Pub. L. 92–261, § 11](https://www.govinfo.gov/link/plaw/92/public/261), Mar. 24, 1972, [86 Stat. 111](https://www.govinfo.gov/link/statute/86/111); amended 1978 Reorg. Plan No. 1, § 3, eff. Jan. 1, 1979, 43 F.R. 19807, [92 Stat. 3781](https://www.govinfo.gov/link/statute/92/3781); [Pub. L. 96–191, § 8(g)](https://www.govinfo.gov/link/plaw/96/public/191), Feb. 15, 1980, [94 Stat. 34](https://www.govinfo.gov/link/statute/94/34); [Pub. L. 102–166, title I, § 114](https://www.govinfo.gov/link/plaw/102/public/166), Nov. 21, 1991, [105 Stat. 1079](https://www.govinfo.gov/link/statute/105/1079); [Pub. L. 104–1, title II, § 201(c)(1)](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 8](https://www.govinfo.gov/link/statute/109/8); [Pub. L. 105–220, title III, § 341(a)](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1092](https://www.govinfo.gov/link/statute/112/1092); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 109–435, title VI, § 604(f)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3242](https://www.govinfo.gov/link/statute/120/3242); [Pub. L. 111–2, § 5(c)(2)](https://www.govinfo.gov/link/plaw/111/public/2), Jan. 29, 2009, [123 Stat. 7](https://www.govinfo.gov/link/statute/123/7); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537).)*

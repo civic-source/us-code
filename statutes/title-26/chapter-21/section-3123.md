@@ -3,12 +3,17 @@ title: "Section 3123 - Deductions as constructive payments"
 usc_title: 26
 usc_section: "3123"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 3123"
-generated_at: "2026-03-30T02:55:27.789Z"
+generated_at: "2026-11-23T21:26:06.553Z"
+status: "active"
 ---
 
 # § 3123. Deductions as constructive payments
 
 Whenever under this chapter or any act of Congress, or under the law of any State, an employer is required or permitted to deduct any amount from the remuneration of an employee and to pay the amount deducted to the United States, a State, or any political subdivision thereof, then for purposes of this chapter the amount so deducted shall be considered to have been paid to the employee at the time of such deduction.
 
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 429.)*

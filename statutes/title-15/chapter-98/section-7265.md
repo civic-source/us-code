@@ -3,9 +3,10 @@ title: "Section 7265 - Disclosure of audit committee financial expert"
 usc_title: 15
 usc_section: "7265"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7265"
-generated_at: "2026-03-30T02:54:08.221Z"
+generated_at: "2026-11-23T21:25:40.050Z"
+status: "active"
 ---
 
 # § 7265. Disclosure of audit committee financial expert
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.221Z"
 - **(c)** The Commission shall—
   - **(1)** propose rules to implement this section, not later than 90 days after July 30, 2002 ; and
   - **(2)** issue final rules to implement this section, not later than 180 days after July 30, 2002 .
+
+## Source Credit
+
+*([Pub. L. 107–204, title IV, § 407](https://www.govinfo.gov/link/plaw/107/public/204), July 30, 2002, [116 Stat. 790](https://www.govinfo.gov/link/statute/116/790).)*

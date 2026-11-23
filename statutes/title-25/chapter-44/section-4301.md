@@ -3,9 +3,10 @@ title: "Section 4301 - Findings; purposes"
 usc_title: 25
 usc_section: "4301"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4301"
-generated_at: "2026-03-30T02:54:52.862Z"
+generated_at: "2026-11-23T21:25:54.715Z"
+status: "active"
 ---
 
 # § 4301. Findings; purposes
@@ -42,3 +43,101 @@ generated_at: "2026-03-30T02:54:52.862Z"
 - **(c)** The findings and purposes in subsections (a) and (b) shall apply to any Indian-owned business governed—
   - **(1)** by Tribal laws regulating trade or commerce on Indian lands; or
   - **(2)** pursuant to section 261 of this title .
+
+“Congress finds that—
+
+In General
+
+Authorization and Number of Designations
+
+Period of Designations.—
+
+In general
+
+Effective dates of designations
+
+Termination of designations
+
+Application to certain zones already designated
+
+Limitations on Designations
+
+Application
+
+Selection Criteria.—
+
+In general
+
+Minimal standards
+
+Findings
+
+Purposes
+
+Authority
+
+Federal agency
+
+Indian
+
+Indian lands.—
+
+In general
+
+Former indian reservations in oklahoma
+
+Indian tribe
+
+Secretary
+
+Tribal organization
+
+Establishment.—
+
+In general
+
+Purpose
+
+Membership.—
+
+In general
+
+Representatives of indian tribes
+
+Representatives of the private sector
+
+Initial Meeting
+
+Review
+
+Meetings
+
+Quorum
+
+Chairperson
+
+Hearings
+
+Information From Federal Agencies
+
+Postal Services
+
+Gifts
+
+Compensation of Members.—
+
+Non-federal members
+
+Officers and employees of the federal government
+
+Travel Expenses
+
+Staff.—
+
+In general
+
+Procurement of temporary and intermittent services
+
+## Source Credit
+
+*([Pub. L. 106–464, § 2](https://www.govinfo.gov/link/plaw/106/public/464), Nov. 7, 2000, [114 Stat. 2012](https://www.govinfo.gov/link/statute/114/2012); [Pub. L. 116–261, § 3(a)](https://www.govinfo.gov/link/plaw/116/public/261), (e)(2), (3), Dec. 30, 2020, [134 Stat. 3307](https://www.govinfo.gov/link/statute/134/3307), 3311.)*

@@ -3,9 +3,10 @@ title: "Section 467d - National inventory of dams and low-head dams"
 usc_title: 33
 usc_section: "467d"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 467d"
-generated_at: "2026-03-30T02:55:41.057Z"
+generated_at: "2026-11-23T21:26:11.306Z"
+status: "active"
 ---
 
 # § 467d. National inventory of dams and low-head dams
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:41.057Z"
   - **(2)** a directory of financial and technical assistance resources available to reduce safety hazards and fish passage barriers at low-head dams.
 - **(f)** Nothing in this section provides authority to the Secretary to carry out an activity, with respect to a low-head dam, that is not explicitly authorized under this section.
 - **(g)** In this section, the term “low-head dam” means a river-wide artificial barrier that generally spans a stream channel, blocking the waterway and creating a backup of water behind the barrier, with a drop off over the wall of not less than 6 inches and not more than 25 feet.
+
+## Source Credit
+
+*([Pub. L. 92–367, § 6](https://www.govinfo.gov/link/plaw/92/public/367), as added [Pub. L. 104–303, title II, § 215(c)(8)](https://www.govinfo.gov/link/plaw/104/public/303), Oct. 12, 1996, [110 Stat. 3687](https://www.govinfo.gov/link/statute/110/3687); amended [Pub. L. 109–460, § 1(b)](https://www.govinfo.gov/link/plaw/109/public/460), Dec. 22, 2006, [120 Stat. 3401](https://www.govinfo.gov/link/statute/120/3401); [Pub. L. 118–272, div. A, title I, § 1132(b)](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3021](https://www.govinfo.gov/link/statute/138/3021).)*

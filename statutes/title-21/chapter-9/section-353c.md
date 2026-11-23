@@ -3,9 +3,10 @@ title: "Section 353c - Prereview of television advertisements"
 usc_title: 21
 usc_section: "353c"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 353c"
-generated_at: "2026-03-30T02:54:54.232Z"
+generated_at: "2026-11-23T21:25:56.019Z"
+status: "active"
 ---
 
 # § 353c. Prereview of television advertisements
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:54.232Z"
   - **(1)** In conducting a review of a television advertisement under this section, if the Secretary determines that the advertisement would be false or misleading without a specific disclosure about a serious risk listed in the labeling of the drug involved, the Secretary may require inclusion of such disclosure in the advertisement.
   - **(2)** In conducting a review of a television advertisement under this section, the Secretary may require the advertisement to include, for a period not to exceed 2 years from the date of the approval of the drug under section 355 of this title or section 262 of title 42 , a specific disclosure of such date of approval if the Secretary determines that the advertisement would otherwise be false or misleading.
 - **(f)** Nothing in this section may be construed as having any effect on requirements under section 352(n) of this title or on the authority of the Secretary under section 314.550, 314.640, 601.45, or 601.94 of title 21, Code of Federal Regulations (or successor regulations).
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 503C, formerly § 503B, as added [Pub. L. 110–85, title IX, § 901(d)(2)](https://www.govinfo.gov/link/plaw/110/public/85), Sept. 27, 2007, [121 Stat. 939](https://www.govinfo.gov/link/statute/121/939), renumbered § 503C, [Pub. L. 113–54, title I, § 102(a)(1)](https://www.govinfo.gov/link/plaw/113/public/54), Nov. 27, 2013, [127 Stat. 587](https://www.govinfo.gov/link/statute/127/587).)*

@@ -3,9 +3,10 @@ title: "Section 5311 - Remedies for noncompliance with community development req
 usc_title: 42
 usc_section: "5311"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5311"
-generated_at: "2026-03-30T02:56:11.231Z"
+generated_at: "2026-11-23T21:26:32.792Z"
+status: "active"
 ---
 
 # § 5311. Remedies for noncompliance with community development requirements
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.231Z"
   - **(2)** The Secretary shall file in the court record of the proceeding on which he based his action, as provided in section 2112 of title 28 . No objection to the action of the Secretary shall be considered by the court unless such objection has been urged before the Secretary.
   - **(3)** The court shall have jurisdiction to affirm or modify the action of the Secretary or to set it aside in whole or in part. The findings of fact by the Secretary, if supported by substantial evidence on the record considered as a whole, shall be conclusive. The court may order additional evidence to be taken by the Secretary, and to be made part of the record. The Secretary may modify his findings of fact, or make new findings, by reason of the new evidence so taken and filed with the court, and he shall also file such modified or new findings, which findings with respect to questions of fact shall be conclusive if supported by substantial evidence on the record considered as a whole, and shall also file his recommendation, if any, for the modification or setting aside of his original action.
   - **(4)** Upon the filing of the record with the court, the jurisdiction of the court shall be exclusive and its judgment shall be final, except that such judgment shall be subject to review by the Supreme Court of the United States upon writ of certiorari or certification as provided in section 1254 of title 28 .
+
+## Source Credit
+
+*([Pub. L. 93–383, title I, § 111](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 650](https://www.govinfo.gov/link/statute/88/650).)*

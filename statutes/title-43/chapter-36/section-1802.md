@@ -3,9 +3,10 @@ title: "Section 1802 - Congressional declaration of purposes"
 usc_title: 43
 usc_section: "1802"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1802"
-generated_at: "2026-03-30T02:55:57.494Z"
+generated_at: "2026-11-23T21:26:19.886Z"
+status: "active"
 ---
 
 # § 1802. Congressional declaration of purposes
@@ -22,3 +23,7 @@ The purposes of this chapter are to—
   - **(8)** establish an oilspill liability fund to pay for the prompt removal of any oil spilled or discharged as a result of activities on the Outer Continental Shelf and for any damages to public or private interests caused by such spills or discharges;
   - **(9)** insure that the extent of oil and natural gas resources of the Outer Continental Shelf is assessed at the earliest practicable time; and
   - **(10)** establish a fishermen’s contingency fund to pay for damages to commercial fishing vessels and gear due to Outer Continental Shelf activities.
+
+## Source Credit
+
+*([Pub. L. 95–372, title I, § 102](https://www.govinfo.gov/link/plaw/95/public/372), Sept. 18, 1978, [92 Stat. 631](https://www.govinfo.gov/link/statute/92/631).)*

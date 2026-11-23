@@ -3,9 +3,10 @@ title: "Section 9381 - Fatality reviews"
 usc_title: 10
 usc_section: "9381"
 chapter: 949
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 9381"
-generated_at: "2026-03-30T02:53:38.258Z"
+generated_at: "2026-11-23T21:25:32.991Z"
+status: "active"
 ---
 
 # § 9381. Fatality reviews
@@ -22,3 +23,13 @@ generated_at: "2026-03-30T02:53:38.258Z"
   - **(5)** A discussion of significant findings.
   - **(6)** Recommendations for systemic changes, if any, within the Department of the Air Force and the Department of Defense.
 - **(c)** The Secretary of Defense shall prescribe guidance, which shall be uniform for the military departments, for the conduct of reviews by the Secretary under subsection (a).
+
+Review of Fatalities
+
+Matters To Be Included
+
+Guidance
+
+## Source Credit
+
+*(Added [Pub. L. 108–136, div. A, title V, § 576(c)(1)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1488](https://www.govinfo.gov/link/statute/117/1488), § 9061; renumbered § 9381, [Pub. L. 115–232, div. A, title VIII, § 806(b)(17)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1833](https://www.govinfo.gov/link/statute/132/1833); amended [Pub. L. 116–283, div. A, title IX, § 923(c)(23)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3813](https://www.govinfo.gov/link/statute/134/3813).)*

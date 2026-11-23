@@ -3,9 +3,10 @@ title: "Section 2392 - Process for strategic basing actions for the Department o
 usc_title: 10
 usc_section: "2392"
 chapter: 141
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2392"
-generated_at: "2026-03-30T02:53:38.158Z"
+generated_at: "2026-11-23T21:25:32.608Z"
+status: "active"
 ---
 
 # § 2392. Process for strategic basing actions for the Department of the Air Force
@@ -22,3 +23,19 @@ generated_at: "2026-03-30T02:53:38.158Z"
   - **(2)** to the governance process used to oversee a strategic basing action.
 - **(e)** With respect to a strategic basing action relating to a military installation located outside of the United States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, or Guam, a notification required under this section may be provided in a classified form.
 - **(f)** In this section, the terms “enterprise definition”, “program objective memorandum process”, “resource allocation plan”, “strategic basing action”, “strategic basing executive steering group”, and “strategic basing panel” have the meanings given, respectively, under the Department of the Air Force Instruction 10–503 (issued June 12, 2023 , as in effect on November 1, 2024 ).
+
+Programmatic Basing Decisions Prohibited
+
+Quarterly Briefings
+
+Additional Briefings
+
+Post-briefing Changes
+
+Overseas Strategic Basing Actions
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. B, title XXVIII, § 2803(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2247](https://www.govinfo.gov/link/statute/138/2247).)*

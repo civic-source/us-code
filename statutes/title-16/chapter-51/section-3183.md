@@ -3,9 +3,10 @@ title: "Section 3183 - Bristol Bay Cooperative Region"
 usc_title: 16
 usc_section: "3183"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3183"
-generated_at: "2026-03-30T02:54:23.012Z"
+generated_at: "2026-11-23T21:25:51.963Z"
+status: "active"
 ---
 
 # § 3183. Bristol Bay Cooperative Region
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:54:23.012Z"
   - **(1)** If within three years after December 2, 1980 , a plan has been prepared under subsection (c) which is agreed to by the Secretary and the Governor, the plan shall take effect with respect to the United States and the State.
   - **(2)** If the plan prepared pursuant to this section is agreed to by the Secretary and the Governor includes any recommendations regarding (i) the exchange of State lands, (ii) the management of Federal lands within any conservation system unit, or (iii) any other actions which require the approval of either the Congress or the Alaska State Legislature, then the Secretary and the Governor shall submit to the Congress and the State Legislature as appropriate, their proposals for legislation necessary to carry out the recommendations contained in the plan.
 - **(f)** On December 2, 1980 , and for a period of three years thereafter, all Federal land within the region (except that land conveyed by title IX of this Act to the State of Alaska and Federal lands located within the boundaries of conservation system units) shall be withdrawn from all forms of appropriation under the public land laws, including selections by the State, and from location and entry under the mining laws and from leasing under the Mineral Leasing Act [ 30 U.S.C. 181 et seq.], and shall be managed by the Bureau of Land Management under its existing statutory authority and consistent with provisions of this section.
+
+## Source Credit
+
+*([Pub. L. 96–487, title XII, § 1203](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2470](https://www.govinfo.gov/link/statute/94/2470).)*

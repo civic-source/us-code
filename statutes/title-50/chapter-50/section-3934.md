@@ -3,9 +3,10 @@ title: "Section 3934 - Stay or vacation of execution of judgments, attachments, 
 usc_title: 50
 usc_section: "3934"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3934"
-generated_at: "2026-03-30T02:56:26.263Z"
+generated_at: "2026-11-23T21:26:39.078Z"
+status: "active"
 ---
 
 # § 3934. Stay or vacation of execution of judgments, attachments, and garnishments
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:26.263Z"
   - **(1)** stay the execution of any judgment or order entered against the servicemember; and
   - **(2)** vacate or stay an attachment or garnishment of property, money, or debts in the possession of the servicemember or a third party, whether before or after judgment.
 - **(b)** This section applies to an action or proceeding commenced in a court against a servicemember before or during the period of the servicemember’s military service or within 90 days after such service terminates.
+
+## Source Credit
+
+*(Oct. 17, 1940, ch. 888, title II, § 204, as added [Pub. L. 108–189, § 1](https://www.govinfo.gov/link/plaw/108/public/189), Dec. 19, 2003, [117 Stat. 2843](https://www.govinfo.gov/link/statute/117/2843).)*

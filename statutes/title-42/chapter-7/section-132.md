@@ -3,9 +3,10 @@ title: "Section 132 - Special rules for employer-sponsored programs"
 usc_title: 42
 usc_section: "132"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 132"
-generated_at: "2026-03-30T02:56:10.990Z"
+generated_at: "2026-11-23T21:26:31.590Z"
+status: "active"
 ---
 
 # § 1395w–132. Special rules for employer-sponsored programs
@@ -48,3 +49,17 @@ generated_at: "2026-03-30T02:56:10.990Z"
     - **(A)** Such a plan established or maintained for its employees by the Government of the United States, by the government of any State or political subdivision thereof, or by any agency or instrumentality of any of the foregoing, including a health benefits plan offered under chapter 89 of title 5.
     - **(B)** Such a plan established or maintained under or pursuant to one or more collective bargaining agreements.
     - **(C)** Such a plan established and maintained for its employees (or their beneficiaries) by a church or by a convention or association of churches which is exempt from tax under section 501 of the Internal Revenue Code of 1986.
+
+Study
+
+Content of Initial Study
+
+Contents of Final Study
+
+Reports
+
+Consultation
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1860D–22, as added [Pub. L. 108–173, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2125](https://www.govinfo.gov/link/statute/117/2125); amended [Pub. L. 111–152, title I, § 1101(b)(4)](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1039](https://www.govinfo.gov/link/statute/124/1039); [Pub. L. 117–108, title I, § 101(b)(4)](https://www.govinfo.gov/link/plaw/117/public/108), Apr. 6, 2022, [136 Stat. 1137](https://www.govinfo.gov/link/statute/136/1137); [Pub. L. 117–169, title I, § 11201(e)(5)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1891](https://www.govinfo.gov/link/statute/136/1891).)*

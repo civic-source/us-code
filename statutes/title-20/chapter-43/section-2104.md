@@ -3,9 +3,10 @@ title: "Section 2104 - Functions of Center"
 usc_title: 20
 usc_section: "2104"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 2104"
-generated_at: "2026-03-30T02:54:48.171Z"
+generated_at: "2026-11-23T21:25:47.368Z"
+status: "active"
 ---
 
 # § 2104. Functions of Center
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:48.171Z"
   - **(6)** loan, lease, or otherwise make available to public, private, and nonprofit educational institutions, and State arts councils established pursuant to the National Foundation on the Arts and the Humanities Act of 1965 [ 20 U.S.C. 951 et seq.], such exhibitions, programs, presentations, and material developed pursuant to clause (1)(D) of this subsection as the Board deems appropriate; and
   - **(7)** develop and implement other appropriate programs to preserve, support, revitalize, and disseminate American folklife.
 - **(b)** The Librarian shall carry out his functions under this subchapter through the Center.
+
+## Source Credit
+
+*([Pub. L. 94–201, § 5](https://www.govinfo.gov/link/plaw/94/public/201), Jan. 2, 1976, [89 Stat. 1131](https://www.govinfo.gov/link/statute/89/1131).)*

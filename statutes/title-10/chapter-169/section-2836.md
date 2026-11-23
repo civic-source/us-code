@@ -3,9 +3,10 @@ title: "Section 2836 - Military housing rental guarantee program"
 usc_title: 10
 usc_section: "2836"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2836"
-generated_at: "2026-03-30T02:53:38.179Z"
+generated_at: "2026-11-23T21:25:32.686Z"
+status: "active"
 ---
 
 # § 2836. Military housing rental guarantee program
@@ -35,3 +36,19 @@ generated_at: "2026-03-30T02:53:38.179Z"
   - **(3)** A statement that such a commitment entered into under the authority of this section does not constitute an obligation of the United States.
 - **(e)** An agreement under subsection (a) shall be made through the use of publicly advertised, competitively bid, or competitively negotiated, contracting procedures as provided in chapter 137 1 1 See References in Text note below. of this title. In accordance with such procedures, the Secretary of a military department, or the Secretary of Homeland Security, as the case may be, shall solicit bids or proposals for a guaranty agreement for each military housing rental guaranty project authorized in accordance with subsection (b).
 - **(f)** The Secretary concerned may require that disputes arising under an agreement entered into under subsection (a) be decided in accordance with the procedures provided for by chapter 71 of title 41.
+
+Authority
+
+Submission and Authorization of Proposed Agreements
+
+Content of Agreement
+
+Conditions on Obligation of Funds
+
+Competitive Process
+
+Disputes
+
+## Source Credit
+
+*(Added [Pub. L. 102–190, div. B, title XXVIII, § 2809(a)(1)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1541](https://www.govinfo.gov/link/statute/105/1541); amended [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 108–136, div. A, title X, § 1031(a)(43)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1602](https://www.govinfo.gov/link/statute/117/1602); [Pub. L. 111–350, § 5(b)(48)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3846](https://www.govinfo.gov/link/statute/124/3846); [Pub. L. 112–81, div. A, title X, § 1061(25)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1584](https://www.govinfo.gov/link/statute/125/1584); [Pub. L. 112–239, div. A, title X, § 1076(f)(36)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1954](https://www.govinfo.gov/link/statute/126/1954).)*

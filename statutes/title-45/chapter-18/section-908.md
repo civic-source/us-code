@@ -3,9 +3,10 @@ title: "Section 908 - Employee protection agreements"
 usc_title: 45
 usc_section: "908"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 908"
-generated_at: "2026-03-30T02:55:56.558Z"
+generated_at: "2026-11-23T21:26:19.234Z"
+status: "active"
 ---
 
 # § 908. Employee protection agreements
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:56.558Z"
   - **(1)** If the National Mediation Board is unable to bring the parties to an agreement under subsection (b) of this section within 40 days after November 4, 1979 , the Milwaukee Railroad and the labor organizations representing the employees of such railroad shall immediately enter into an employee protection agreement that is fair and equitable.
   - **(2)** If an employee protection agreement is entered into under this subsection, any claim of an employee for benefits and allowances under such agreement shall be filed with the Board in such time and manner as the Board by regulation shall prescribe. The Board shall determine the amount for which such employee is eligible under such agreement and shall certify such amount to the Milwaukee Railroad for payment.
 - **(d)** Benefits and allowances under an employee protection agreement entered into under this section shall be paid by the Milwaukee Railroad in accordance with section 914 of this title , and claims of employees for such benefits and allowances shall be treated as administrative expenses of the estate of the Milwaukee Railroad.
+
+## Source Credit
+
+*([Pub. L. 96–101, § 9](https://www.govinfo.gov/link/plaw/96/public/101), Nov. 4, 1979, [93 Stat. 741](https://www.govinfo.gov/link/statute/93/741).)*

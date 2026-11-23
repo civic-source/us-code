@@ -3,9 +3,10 @@ title: "Section 7142c - Museum volunteers"
 usc_title: 42
 usc_section: "7142c"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7142c"
-generated_at: "2026-03-30T02:56:11.283Z"
+generated_at: "2026-11-23T21:26:33.048Z"
+status: "active"
 ---
 
 # § 7142c. Museum volunteers
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.283Z"
     - **(A)** For purposes of chapter 171 of title 28, a volunteer under subsection (a) shall be treated as an employee of the Government (as defined in section 2671 of that title).
     - **(B)** For purposes of subchapter I of chapter 81 of title 5, a volunteer described in subsection (a) shall be treated as an employee (as defined in section 8101 of title 5 ).
 - **(c)** A volunteer under subsection (a) shall serve without pay, but may receive nominal awards and reimbursement for incidental expenses, including expenses for a uniform or transportation in furtherance of Museum activities.
+
+## Source Credit
+
+*([Pub. L. 106–554, § 1(a)(4) [div. B, title IV, § 403]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–267.)*

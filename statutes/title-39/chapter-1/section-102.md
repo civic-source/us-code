@@ -3,9 +3,10 @@ title: "Section 102 - Definitions"
 usc_title: 39
 usc_section: "102"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 102"
-generated_at: "2026-03-30T02:55:43.686Z"
+generated_at: "2026-11-23T21:26:12.766Z"
+status: "active"
 ---
 
 # § 102. Definitions
@@ -22,3 +23,7 @@ As used in this title—
   - **(8)** “market-dominant product” or “product in the market-dominant category of mail” means a product subject to subchapter I of chapter 36;
   - **(9)** “competitive product” or “product in the competitive category of mail” means a product subject to subchapter II of chapter 36; and
   - **(10)** “year”, as used in chapter 36 (other than subchapters I and VI thereof), means a fiscal year.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 720](https://www.govinfo.gov/link/statute/84/720); [Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 662(a)(2)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–314](https://www.govinfo.gov/link/statute/110/3009), 3009–379; [Pub. L. 109–435, title I, § 101](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3199](https://www.govinfo.gov/link/statute/120/3199).)*

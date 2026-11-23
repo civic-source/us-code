@@ -3,9 +3,10 @@ title: "Section 5123 - Civil penalty"
 usc_title: 49
 usc_section: "5123"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 5123"
-generated_at: "2026-03-30T02:56:19.307Z"
+generated_at: "2026-11-23T21:26:40.622Z"
+status: "active"
 ---
 
 # § 5123. Civil penalty
@@ -37,3 +38,93 @@ generated_at: "2026-03-30T02:56:19.307Z"
     - **(B)** ensures 1 1 So in original. Probably should be “ensure”. that the person described in subparagraph (A)—
       - **(i)** is notified in writing; and
       - **(ii)** is given an opportunity to respond before the person is required to cease the activity.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5123(a)(1) | 49 App.:1809(a)(1) (1st sentence less 3d–16th words, 2d sentence words before 4th comma, 3d sentence). | Jan. 3, 1975 , Pub. L. 93–633, § 110(a)(1) , 88 Stat. 2160 ; Nov. 16, 1990 , Pub. L. 101–615, § 12(a)(1) , 104 Stat. 3259 . |
+|  | 49 App.:1809(a)(3). | Jan. 3, 1975 , Pub. L. 93–633 , 88 Stat. 2156 , § 110(a)(3); added Nov. 16, 1990 , Pub. L. 101–615, § 12(a)(2) , 104 Stat. 3259 . |
+| 5123(a)(2) | 49 App.:1809(a)(1) (2d sentence words after 4th comma). |  |
+| 5123(b) | 49 App.:1809(a)(1) (1st sentence 3d–16th words, 4th sentence). |  |
+| 5123(c) | 49 App.:1809(a)(1) (last sentence). |  |
+| 5123(d), (e) | 49 App.:1809(a)(2) (1st sentence). | Jan. 3, 1975 , Pub. L. 93–633, § 110(a)(2) , 88 Stat. 2160 . |
+| 5123(f) | 49 App.:1809(a)(2) (2d sentence). |  |
+| 5123(g) | 49 App.:1809(a)(2) (last sentence). |  |
+
+
+Penalty
+
+Hearing Requirement
+
+Penalty Considerations
+
+Civil Actions To Collect
+
+Compromise
+
+Setoff
+
+Depositing Amounts Collected
+
+Penalty for Obstruction of Inspections and Investigations.—
+
+Prohibition on Hazardous Material Operations After Nonpayment of Penalties.—
+
+In general
+
+Exception
+
+Rulemaking
+
+Historical and Revision Notes
+
+5123(a)(1)
+
+Jan. 3, 1975
+
+Pub. L. 93–633, § 110(a)(1)
+
+88 Stat. 2160
+
+Nov. 16, 1990
+
+Pub. L. 101–615, § 12(a)(1)
+
+104 Stat. 3259
+
+Jan. 3, 1975
+
+Pub. L. 93–633
+
+88 Stat. 2156
+
+Nov. 16, 1990
+
+Pub. L. 101–615, § 12(a)(2)
+
+104 Stat. 3259
+
+5123(a)(2)
+
+5123(b)
+
+5123(c)
+
+5123(d), (e)
+
+Jan. 3, 1975
+
+Pub. L. 93–633, § 110(a)(2)
+
+88 Stat. 2160
+
+5123(f)
+
+5123(g)
+
+Hearing requirement
+
+Civil actions to collect
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 780](https://www.govinfo.gov/link/statute/108/780); [Pub. L. 109–59, title VII](https://www.govinfo.gov/link/plaw/109/public/59), §§ 7120(a)–(c), 7126, Aug. 10, 2005, [119 Stat. 1905](https://www.govinfo.gov/link/statute/119/1905), 1906, 1909; [Pub. L. 112–141, div. C, title III, § 33010](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 837](https://www.govinfo.gov/link/statute/126/837).)*

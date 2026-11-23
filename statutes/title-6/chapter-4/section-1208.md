@@ -3,9 +3,10 @@ title: "Section 1208 - Pipeline security and incident recovery plan"
 usc_title: 6
 usc_section: "1208"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1208"
-generated_at: "2026-03-30T02:53:09.509Z"
+generated_at: "2026-11-23T21:25:25.877Z"
+status: "active"
 ---
 
 # § 1208. Pipeline security and incident recovery plan
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:09.509Z"
 - **(d)**
   - **(1)** Not later than 2 years after August 3, 2007 , the Secretary shall transmit to the appropriate congressional committees a report containing the plan required by subsection (a), including an estimate of the private and public sector costs to implement any recommendations.
   - **(2)** The Secretary may submit the report in both classified and redacted formats if the Secretary determines that such action is appropriate or necessary.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XV, § 1558](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 476](https://www.govinfo.gov/link/statute/121/476).)*

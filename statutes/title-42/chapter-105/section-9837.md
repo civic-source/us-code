@@ -3,9 +3,10 @@ title: "Section 9837 - Powers and functions of Head Start agencies"
 usc_title: 42
 usc_section: "9837"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9837"
-generated_at: "2026-03-30T02:56:11.368Z"
+generated_at: "2026-11-23T21:26:33.289Z"
+status: "active"
 ---
 
 # § 9837. Powers and functions of Head Start agencies
@@ -171,3 +172,25 @@ generated_at: "2026-03-30T02:56:11.368Z"
 - **(g)** Each Head Start agency shall enroll 100 percent of its funded enrollment and maintain an active waiting list at all times with ongoing outreach to the community and activities to identify underserved populations.
 - **(h)** In order to receive funds under this subchapter, a Head Start agency shall develop an annual technical assistance and training plan. Such plan shall be based on the agency’s self-assessment, the communitywide strategic planning and needs assessment, the needs of parents and children to be served by such agency, and the results of the reviews conducted under section 9836a(c) of this title .
 - **(i)** In order to receive funds under this subchapter, a Head Start agency shall document strong fiscal controls, including the employment of well-qualified fiscal staff with a history of successful management of a public or private organization.
+
+(aa) the annual self-assessment and financial audit;
+
+(bb) such agency’s progress in carrying out the programmatic and fiscal provisions in such agency’s grant application, including implementation of corrective actions; and
+
+(cc) personnel policies of such agencies regarding the hiring, evaluation, termination, and compensation of agency employees;
+
+(aa) approval of all major financial expenditures of the agency;
+
+(bb) annual approval of the operating budget of the agency;
+
+(cc) selection (except when a financial auditor is assigned by the State under State law or is assigned under local law) of independent financial auditors who shall report all critical accounting policies and practices to the governing body; and
+
+(dd) monitoring of the agency’s actions to correct any audit findings and of other action necessary to comply with applicable laws (including regulations) governing financial statement and accounting practices;
+
+(aa) any conflict of interest, and any appearance of a conflict of interest, by members of the governing body, officers and employees of the Head Start agency, and consultants and agents who provide services or furnish goods to the Head Start agency; and
+
+(bb) complaints, including investigations, when appropriate; and
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 642](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 502](https://www.govinfo.gov/link/statute/95/502); [Pub. L. 99–425, title I, § 103](https://www.govinfo.gov/link/plaw/99/public/425), Sept. 30, 1986, [100 Stat. 966](https://www.govinfo.gov/link/statute/100/966); [Pub. L. 101–501, title I, § 109](https://www.govinfo.gov/link/plaw/101/public/501), Nov. 3, 1990, [104 Stat. 1231](https://www.govinfo.gov/link/statute/104/1231); [Pub. L. 102–401, § 2(i)](https://www.govinfo.gov/link/plaw/102/public/401), (k)(3), Oct. 7, 1992, [106 Stat. 1957](https://www.govinfo.gov/link/statute/106/1957), 1959; [Pub. L. 103–252, title I, § 109](https://www.govinfo.gov/link/plaw/103/public/252), May 18, 1994, [108 Stat. 634](https://www.govinfo.gov/link/statute/108/634); [Pub. L. 105–285, title I, § 109](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2716](https://www.govinfo.gov/link/statute/112/2716); [Pub. L. 108–446, title III, § 305](https://www.govinfo.gov/link/plaw/108/public/446) (l)(4), Dec. 3, 2004, [118 Stat. 2806](https://www.govinfo.gov/link/statute/118/2806); [Pub. L. 110–134, § 9](https://www.govinfo.gov/link/plaw/110/public/134), Dec. 12, 2007, [121 Stat. 1397](https://www.govinfo.gov/link/statute/121/1397); [Pub. L. 114–95, title IX, § 9215(nn)(3)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2177](https://www.govinfo.gov/link/statute/129/2177).)*

@@ -3,9 +3,10 @@ title: "Section 6306 - Policing of buildings and grounds"
 usc_title: 40
 usc_section: "6306"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 6306"
-generated_at: "2026-03-30T02:55:43.382Z"
+generated_at: "2026-11-23T21:26:14.885Z"
+status: "active"
 ---
 
 # § 6306. Policing of buildings and grounds
@@ -15,3 +16,71 @@ generated_at: "2026-03-30T02:55:43.382Z"
   - **(1)** may, within the specified buildings and grounds, enforce, and make arrests for violations of, sections 6302 and 6303 of this title, any regulation prescribed under section 6304 of this title , federal or state law, or any regulation prescribed under federal or state law; and
   - **(2)** may enforce concurrently with the United States Park Police the laws and regulations applicable to the National Capital Parks, and may make arrests for violations of sections 6302 and 6303 of this title, within the several areas located within the exterior boundaries of the face of the curb lines of the squares within which the specified buildings and grounds are located.
 - **(c)** The employees designated as special police under subsection (a) may be provided, without charge, with uniforms and other equipment as may be necessary for the proper performance of their duties, including badges, revolvers, and ammunition.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 6306(a) | 40:193n. | Oct. 24, 1951, ch. 559, § 1 , 65 Stat. 634 ; Pub. L. 91–34, § 2(c) , June 30, 1969 , 83 Stat. 41 ; Pub. L. 104–134, title I, § 101(c) [title II, proviso in 1st par. under heading “John F. Kennedy Center for the Performing Arts”] , Apr. 26, 1996 , 110 Stat. 1321–193 , renumbered as title I by Pub. L. 104–140, § 1(a) , May 2, 1996 , 110 Stat. 1327 . |
+| 6306(b)(1) | 40:193t (words before 5th comma). | Oct. 24, 1951, ch. 559, § 7 , 65 Stat. 635 ; Pub. L. 88–391, § 2 , Aug. 1, 1964 , 78 Stat. 365 . |
+| 6306(b)(2) | 40:193x. | Oct. 24, 1951, ch. 559, § 11 , as added Pub. L. 88–391, § 4 , Aug. 1, 1964 , 78 Stat. 366 . |
+| 6306(c) | 40:193t (words after 5th comma). |  |
+
+
+Designation of Employees as Special Police
+
+Powers
+
+Uniforms and Other Equipment
+
+Historical and Revision Notes
+
+6306(a)
+
+Oct. 24, 1951, ch. 559, § 1
+
+65 Stat. 634
+
+Pub. L. 91–34, § 2(c)
+
+June 30, 1969
+
+83 Stat. 41
+
+Pub. L. 104–134, title I, § 101(c) [title II, proviso in 1st par. under heading “John F. Kennedy Center for the Performing Arts”]
+
+Apr. 26, 1996
+
+110 Stat. 1321–193
+
+Pub. L. 104–140, § 1(a)
+
+May 2, 1996
+
+110 Stat. 1327
+
+6306(b)(1)
+
+Oct. 24, 1951, ch. 559, § 7
+
+65 Stat. 635
+
+Pub. L. 88–391, § 2
+
+Aug. 1, 1964
+
+78 Stat. 365
+
+6306(b)(2)
+
+Oct. 24, 1951, ch. 559, § 11
+
+Pub. L. 88–391, § 4
+
+Aug. 1, 1964
+
+78 Stat. 366
+
+6306(c)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1186](https://www.govinfo.gov/link/statute/116/1186).)*

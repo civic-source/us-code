@@ -3,9 +3,10 @@ title: "Section 6315 - Targeted assistance schools"
 usc_title: 20
 usc_section: "6315"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6315"
-generated_at: "2026-03-30T02:54:48.194Z"
+generated_at: "2026-11-23T21:25:47.497Z"
+status: "active"
 ---
 
 # § 6315. Targeted assistance schools
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:54:48.194Z"
 - **(f)** A secondary school operating a targeted assistance program under this section may use funds received under this part to provide dual or concurrent enrollment program services described under section 6314(e) of this title to eligible children under subsection (c)(1)(B) who are identified as having the greatest need for special assistance.
 - **(g)** Nothing in this section shall be construed to authorize the Secretary or any other officer or employee of the Federal Government to require a local educational agency or school to submit the results of a comprehensive needs assessment or plan under section 6314(b) of this title , or a program described in subsection (b), for review or approval by the Secretary.
 - **(h)** The services of a targeted assistance program under this section may be delivered by nonprofit or for-profit external providers with expertise in using evidence-based or other effective strategies to improve student achievement.
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1115](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1475](https://www.govinfo.gov/link/statute/115/1475); amended [Pub. L. 114–95, title I, § 1009](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1865](https://www.govinfo.gov/link/statute/129/1865).)*

@@ -3,9 +3,10 @@ title: "Section 3162 - Requests by authorized investigative agencies"
 usc_title: 50
 usc_section: "3162"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3162"
-generated_at: "2026-03-30T02:56:26.237Z"
+generated_at: "2026-11-23T21:26:39.019Z"
+status: "active"
 ---
 
 # § 3162. Requests by authorized investigative agencies
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:56:26.237Z"
   - **(2)** to the Department of Justice for law enforcement or counterintelligence purposes; or
   - **(3)** with respect to dissemination to an agency of the United States, if such information is clearly relevant to the authorized responsibilities of such agency.
 - **(g)** Nothing in this section may be construed to affect the authority of an investigative agency to obtain information pursuant to the Right to Financial Privacy Act ( 12 U.S.C. 3401 et seq.) or the Fair Credit Reporting Act ( 15 U.S.C. 1681 et seq.).
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title VIII, § 802, as added [Pub. L. 103–359, title VIII, § 802(a)](https://www.govinfo.gov/link/plaw/103/public/359), Oct. 14, 1994, [108 Stat. 3436](https://www.govinfo.gov/link/statute/108/3436); amended [Pub. L. 109–177, title I, § 116(f)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 216](https://www.govinfo.gov/link/statute/120/216); [Pub. L. 109–178, § 4(e)](https://www.govinfo.gov/link/plaw/109/public/178), Mar. 9, 2006, [120 Stat. 281](https://www.govinfo.gov/link/statute/120/281); [Pub. L. 114–23, title V](https://www.govinfo.gov/link/plaw/114/public/23), §§ 502(e), 503(e), June 2, 2015, [129 Stat. 287](https://www.govinfo.gov/link/statute/129/287), 290.)*

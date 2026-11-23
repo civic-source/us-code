@@ -3,9 +3,10 @@ title: "Section 719 - Judicial review"
 usc_title: 45
 usc_section: "719"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 719"
-generated_at: "2026-03-30T02:55:56.554Z"
+generated_at: "2026-11-23T21:26:19.218Z"
+status: "active"
 ---
 
 # § 719. Judicial review
@@ -40,3 +41,9 @@ generated_at: "2026-03-30T02:55:56.554Z"
   - **(3)** An order or judgment of the United States District Court for the District of Columbia in any action referred to in this section shall be reviewable in accordance with sections 1291, 1292, and 1294 of title 28.
 - **(f)** Whenever the compensation which is deposited with the special court under section 743(a) of this title is in the form of cash, such cash shall be invested and reinvested upon such terms and conditions as the special court shall determine, pending the making of the findings referred to in paragraphs (1), (2), and (3) of section 743(c) of this title . Notwithstanding section 743(c)(4) of this title , the special court may order (1) the income from such investments, (2) the dividends or interest, if any, received on any securities or obligations deposited with the special court under such section 743(a) of this title , and (3) the income, if any, received with respect to any other form of compensation so deposited, to be distributed to the trustee of each railroad in reorganization and to any person leased, operated or controlled by such a railroad which conveyed the right, title, and interest in the rail properties with respect to which such cash, securities, obligations, or other compensation have been so deposited with the special court. Notwithstanding section 743(c)(4) of this title , the special court may, within 90 days after the date of conveyance of rail properties pursuant to section 743(b) of this title , order up to 25 percent of any cash (including investments made with cash) and other compensation deposited with the special court to be distributed to such trustee or person. On petition of the applicable trustee or person, the special court may order such additional distributions as it finds reasonable and appropriate, prior to the making of the findings referred to in paragraphs (1), (2), and (3) of such section 743(c) of this title .
 - **(g)** The special court may stay or enjoin any action or proceeding in any State court or in any court of the United States other than the Supreme Court or Court of Appeals for the District of Columbia Circuit if such action or proceeding is contrary to any provision of this chapter, impairs the effective implementation of this chapter, or interferes with the execution of any order of the special court pursuant to this chapter.
+
+“Effective 90 days after the date of enactment of this Act [ Oct. 19, 1996 ], any case pending in the special court established under section 209(b) of the Regional Rail Reorganization Act of 1973 ( 45 U.S.C. 719(b) ) shall be assigned to the United States District Court for the District of Columbia as though the case had originally been filed in that court. The amendments made by subsection (b) of this section [amending this section and sections 743 and 1105 of this title] shall not apply to any final order or judgment entered by the special court for which—
+
+## Source Credit
+
+*([Pub. L. 93–236, title II, § 209](https://www.govinfo.gov/link/plaw/93/public/236), Jan. 2, 1974, [87 Stat. 999](https://www.govinfo.gov/link/statute/87/999); [Pub. L. 94–210, title VI](https://www.govinfo.gov/link/plaw/94/public/210), §§ 602(a), (b), 607(i), (l), (r), (s), Feb. 5, 1976, [90 Stat. 86](https://www.govinfo.gov/link/statute/90/86), 97, 98; [Pub. L. 94–216, § 2](https://www.govinfo.gov/link/plaw/94/public/216), Feb. 17, 1976, [90 Stat. 191](https://www.govinfo.gov/link/statute/90/191); [Pub. L. 95–199, § 3](https://www.govinfo.gov/link/plaw/95/public/199), Nov. 23, 1977, [91 Stat. 1423](https://www.govinfo.gov/link/statute/91/1423); [Pub. L. 100–352, § 6(d)](https://www.govinfo.gov/link/plaw/100/public/352), June 27, 1988, [102 Stat. 663](https://www.govinfo.gov/link/statute/102/663); [Pub. L. 104–317, title VI, § 605(a)](https://www.govinfo.gov/link/plaw/104/public/317), (b)(1), (c)(1), Oct. 19, 1996, [110 Stat. 3858](https://www.govinfo.gov/link/statute/110/3858), 3859.)*

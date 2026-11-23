@@ -3,9 +3,10 @@ title: "Section 5197h - Minority emergency preparedness demonstration program"
 usc_title: 42
 usc_section: "5197h"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5197h"
-generated_at: "2026-03-30T02:56:11.227Z"
+generated_at: "2026-11-23T21:26:32.776Z"
+status: "active"
 ---
 
 # § 5197h. Minority emergency preparedness demonstration program
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.227Z"
   - **(4)** implement a joint project with a minority serving institution, including a part B institution (as defined in section 1061(2) of title 20 ), an institution described in subparagraph (A), (B), or (C) of section 1063b(e)(1) 1 of title 20, and a Hispanic-serving institution (as defined in section 1101a(a)(5) of title 20 ).
 - **(e)** To be eligible to receive a grant, contract, or cooperative agreement under this section, an organization must submit an application to the Administrator at such time, in such manner, and accompanied by such information as the Administrator may reasonably require. The Administrator shall establish a procedure by which to accept such applications.
 - **(f)** There is authorized to be appropriated to carry out this section $1,500,000 for fiscal year 2002 and such funds as may be necessary for fiscal years 2003 through 2007. Such sums shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 93–288, title VI, § 629](https://www.govinfo.gov/link/plaw/93/public/288), as added [Pub. L. 107–73, title IV, § 431](https://www.govinfo.gov/link/plaw/107/public/73), Nov. 26, 2001, [115 Stat. 697](https://www.govinfo.gov/link/statute/115/697); amended [Pub. L. 111–351, § 3(c)(2)](https://www.govinfo.gov/link/plaw/111/public/351), Jan. 4, 2011, [124 Stat. 3864](https://www.govinfo.gov/link/statute/124/3864).)*

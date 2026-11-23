@@ -3,12 +3,17 @@ title: "Section 12149 - Regulations"
 usc_title: 42
 usc_section: "12149"
 chapter: 126
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12149"
-generated_at: "2026-03-30T02:56:11.410Z"
+generated_at: "2026-11-23T21:26:33.455Z"
+status: "active"
 ---
 
 # § 12149. Regulations
 
 - **(a)** Not later than 1 year after July 26, 1990 , the Secretary of Transportation shall issue regulations, in an accessible format, necessary for carrying out this subpart (other than section 12143 of this title ).
 - **(b)** The regulations issued under this section and section 12143 of this title shall include standards applicable to facilities and vehicles covered by this part. The standards shall be consistent with the minimum guidelines and requirements issued by the Architectural and Transportation Barriers Compliance Board in accordance with section 12204 of this title .
+
+## Source Credit
+
+*([Pub. L. 101–336, title II, § 229](https://www.govinfo.gov/link/plaw/101/public/336), July 26, 1990, [104 Stat. 345](https://www.govinfo.gov/link/statute/104/345).)*

@@ -3,9 +3,10 @@ title: "Section 1663a - Nevada Area Office"
 usc_title: 25
 usc_section: "1663a"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1663a"
-generated_at: "2026-03-30T02:54:52.825Z"
+generated_at: "2026-11-23T21:25:54.629Z"
+status: "active"
 ---
 
 # § 1663a. Nevada Area Office
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:52.825Z"
     - **(B)** related tasks that directly affect the operations described in subparagraph (A).
   - **(2)** If the Secretary fails to submit a plan in accordance with subsection (a), the Secretary shall withhold the operations funds reserved for the Office of the Director, subject to the condition that the withholding shall not adversely impact the capacity of the Service to deliver health care services.
   - **(3)** The operations funds withheld pursuant to paragraph (2) may be restored, at the discretion of the Secretary, to the Office of the Director on achievement by that Office of compliance with this section.
+
+## Source Credit
+
+*([Pub. L. 94–437, title VI, § 604](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

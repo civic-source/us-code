@@ -3,9 +3,10 @@ title: "Section 87f - Enforcement provisions"
 usc_title: 7
 usc_section: "87f"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 87f"
-generated_at: "2026-03-30T02:53:42.254Z"
+generated_at: "2026-11-23T21:25:27.881Z"
+status: "active"
 ---
 
 # § 87f. Enforcement provisions
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.254Z"
 - **(f)**
 - **(g)**
 - **(h)** The United States district courts, the District Court of Guam, the District Court of the Virgin Islands, the highest court of American Samoa, and the United States courts of the other territories and possessions of the United States shall have jurisdiction in cases arising under this chapter.
+
+## Source Credit
+
+*(Aug. 11, 1916, ch. 313, pt. B, § 17, as added [Pub. L. 90–487, § 1](https://www.govinfo.gov/link/plaw/90/public/487), Aug. 15, 1968, [82 Stat. 768](https://www.govinfo.gov/link/statute/82/768); amended [Pub. L. 91–452, title II, § 203](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 928](https://www.govinfo.gov/link/statute/84/928); [Pub. L. 94–582, § 19](https://www.govinfo.gov/link/plaw/94/public/582), Oct. 21, 1976, [90 Stat. 2885](https://www.govinfo.gov/link/statute/90/2885); [Pub. L. 103–156](https://www.govinfo.gov/link/plaw/103/public/156), §§ 10, 12(o), Nov. 24, 1993, [107 Stat. 1528](https://www.govinfo.gov/link/statute/107/1528), 1529; [Pub. L. 103–354, title II, § 293(a)(7)](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3237](https://www.govinfo.gov/link/statute/108/3237).)*

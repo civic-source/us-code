@@ -3,12 +3,17 @@ title: "Section 1855 - Timber set afire"
 usc_title: 18
 usc_section: "1855"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1855"
-generated_at: "2026-03-30T02:54:16.491Z"
+generated_at: "2026-11-23T21:25:44.099Z"
+status: "active"
 ---
 
 # § 1855. Timber set afire
 
 Whoever, willfully and without authority, sets on fire any timber, underbrush, or grass or other inflammable material upon the public domain or upon any lands owned or leased by or under the partial, concurrent, or exclusive jurisdiction of the United States, or under contract for purchase or for the acquisition of which condemnation proceedings have been instituted, or upon any Indian reservation or lands belonging to or occupied by any tribe or group of Indians under authority of the United States, or upon any Indian allotment while the title to the same shall be held in trust by the Government, or while the same shall remain inalienable by the allottee without the consent of the United States, shall be fined under this title or imprisoned not more than five years, or both. This section shall not apply in the case of a fire set by an allottee in the reasonable exercise of his proprietary rights in the allotment.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 788](https://www.govinfo.gov/link/statute/62/788); [Pub. L. 100–690, title VI, § 6254(j)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4368](https://www.govinfo.gov/link/statute/102/4368).)*

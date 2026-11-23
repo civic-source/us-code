@@ -3,9 +3,10 @@ title: "Section 40125 - Qualifications for public aircraft status"
 usc_title: 49
 usc_section: "40125"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 40125"
-generated_at: "2026-03-30T02:56:19.371Z"
+generated_at: "2026-11-23T21:26:40.844Z"
+status: "active"
 ---
 
 # § 40125. Qualifications for public aircraft status
@@ -29,3 +30,27 @@ generated_at: "2026-03-30T02:56:19.371Z"
   - **(2)** the aircraft will be used for the performance of search and rescue missions;
   - **(3)** a community would not otherwise have access to search and rescue services; and
   - **(4)** a government entity demonstrates that granting the waiver is necessary to prevent an undue economic burden on that government.
+
+Definitions
+
+Commercial purposes
+
+Governmental function
+
+Qualified non-crewmember
+
+Armed forces
+
+Aircraft Owned by Governments
+
+Aircraft Owned or Operated by the Armed Forces.—
+
+In general
+
+Limitation
+
+Search and Rescue Purposes
+
+## Source Credit
+
+*(Added [Pub. L. 106–181, title VII, § 702(b)(1)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 155](https://www.govinfo.gov/link/statute/114/155); amended [Pub. L. 110–181, div. A, title X, § 1078(b)](https://www.govinfo.gov/link/plaw/110/public/181), (c), Jan. 28, 2008, [122 Stat. 334](https://www.govinfo.gov/link/statute/122/334); [Pub. L. 112–141, div. C, title V, § 35003](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 843](https://www.govinfo.gov/link/statute/126/843); [Pub. L. 115–254, div. B, title III, § 355(b)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3305](https://www.govinfo.gov/link/statute/132/3305); [Pub. L. 118–63, title IX, § 923](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1355](https://www.govinfo.gov/link/statute/138/1355).)*

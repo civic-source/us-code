@@ -3,9 +3,10 @@ title: "Section 1136 - Coordination and responsibility of agencies enforcing thi
 usc_title: 29
 usc_section: "1136"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1136"
-generated_at: "2026-03-30T02:55:18.719Z"
+generated_at: "2026-11-23T21:26:02.263Z"
+status: "active"
 ---
 
 # § 1136. Coordination and responsibility of agencies enforcing this subchapter and related Federal laws
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:18.719Z"
 - **(a)** In order to avoid unnecessary expense and duplication of functions among Government agencies, the Secretary may make such arrangements or agreements for cooperation or mutual assistance in the performance of his functions under this subchapter and the functions of any such agency as he may find to be practicable and consistent with law. The Secretary may utilize, on a reimbursable or other basis, the facilities or services of any department, agency, or establishment of the United States or of any State or political subdivision of a State, including the services of any of its employees, with the lawful consent of such department, agency, or establishment; and each department, agency, or establishment of the United States is authorized and directed to cooperate with the Secretary and, to the extent permitted by law, to provide such information and facilities as he may request for his assistance in the performance of his functions under this subchapter. The Attorney General or his representative shall receive from the Secretary for appropriate action such evidence developed in the performance of his functions under this subchapter as may be found to warrant consideration for criminal prosecution under the provisions of this subchapter or other Federal law.
 - **(b)** The Secretary shall have the responsibility and authority to detect and investigate and refer, where appropriate, civil and criminal violations related to the provisions of this subchapter and other related Federal laws, including the detection, investigation, and appropriate referrals of related violations of title 18. Nothing in this subsection shall be construed to preclude other appropriate Federal agencies from detecting and investigating civil and criminal violations of this subchapter and other related Federal laws.
 - **(c)** A State may enter into an agreement with the Secretary for delegation to the State of some or all of the Secretary’s authority under sections 1132 and 1134 of this title to enforce the requirements under part 7 in connection with multiple employer welfare arrangements, providing medical care (within the meaning of section 1191b(a)(2) of this title ), which are not group health plans.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 506](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 894](https://www.govinfo.gov/link/statute/88/894); [Pub. L. 98–473, title II, § 805](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2134](https://www.govinfo.gov/link/statute/98/2134); [Pub. L. 104–191, title I, § 101(e)(3)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 1953](https://www.govinfo.gov/link/statute/110/1953); [Pub. L. 104–204, title VI, § 603(b)(3)(F)](https://www.govinfo.gov/link/plaw/104/public/204), Sept. 26, 1996, [110 Stat. 2938](https://www.govinfo.gov/link/statute/110/2938).)*

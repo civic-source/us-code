@@ -3,9 +3,10 @@ title: "Section 2332d - Financial transactions"
 usc_title: 18
 usc_section: "2332d"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2332d"
-generated_at: "2026-03-30T02:54:16.503Z"
+generated_at: "2026-11-23T21:25:44.146Z"
+status: "active"
 ---
 
 # § 2332d. Financial transactions
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:54:16.503Z"
     - **(B)** permanent resident alien;
     - **(C)** juridical person organized under the laws of the United States; or
     - **(D)** any person in the United States.
+
+Offense
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 104–132, title III, § 321(a)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1254](https://www.govinfo.gov/link/statute/110/1254); amended [Pub. L. 107–273, div. B, title IV, § 4002(a)(5)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1806](https://www.govinfo.gov/link/statute/116/1806).)*

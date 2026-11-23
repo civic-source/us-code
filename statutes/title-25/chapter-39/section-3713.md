@@ -3,9 +3,10 @@ title: "Section 3713 - Indian agricultural lands trespass"
 usc_title: 25
 usc_section: "3713"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3713"
-generated_at: "2026-03-30T02:54:52.855Z"
+generated_at: "2026-11-23T21:25:54.697Z"
+status: "active"
 ---
 
 # § 3713. Indian agricultural lands trespass
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:52.855Z"
   - **(3)** set forth responsibilities and procedures for the assessment and collection of civil penalties.
 - **(b)** The proceeds of civil penalties collected under this section shall be treated as proceeds from the sale of agricultural products from the Indian agricultural lands upon which such trespass occurred.
 - **(c)** Indian tribes which adopt the regulations promulgated by the Secretary pursuant to subsection (a) shall have concurrent jurisdiction with the United States to enforce the provisions of this section and the regulations promulgated thereunder. The Bureau and other agencies of the Federal Government shall, at the request of the tribal government, defer to tribal prosecutions of Indian agricultural land trespass cases. Tribal court judgments regarding agricultural trespass shall be entitled to full faith and credit in Federal and State courts to the same extent as a Federal court judgment obtained under this section. Nothing in this chapter shall be construed to diminish the sovereign authority of Indian tribes with respect to trespass.
+
+## Source Credit
+
+*([Pub. L. 103–177, title I, § 103](https://www.govinfo.gov/link/plaw/103/public/177), Dec. 3, 1993, [107 Stat. 2015](https://www.govinfo.gov/link/statute/107/2015).)*

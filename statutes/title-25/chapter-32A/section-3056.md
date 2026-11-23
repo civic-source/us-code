@@ -3,9 +3,10 @@ title: "Section 3056 - Prohibition on disclosure"
 usc_title: 25
 usc_section: "3056"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3056"
-generated_at: "2026-03-30T02:54:52.846Z"
+generated_at: "2026-11-23T21:25:54.682Z"
+status: "active"
 ---
 
 # § 3056. Prohibition on disclosure
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:52.846Z"
     - **(A)** would advance the purposes of this chapter;
     - **(B)** would not create an unreasonable risk of harm, theft, or destruction of the resource, site, or object, including individual organic or inorganic specimens; and
     - **(C)** would be consistent with other applicable laws.
+
+## Source Credit
+
+*([Pub. L. 110–234, title VIII, § 8106](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1288](https://www.govinfo.gov/link/statute/122/1288); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VIII, § 8106, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2050.)*

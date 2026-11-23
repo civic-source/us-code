@@ -3,9 +3,10 @@ title: "Section 3352f - Information-sharing program for positions of trust and s
 usc_title: 50
 usc_section: "3352f"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3352f"
-generated_at: "2026-03-30T02:56:26.247Z"
+generated_at: "2026-11-23T21:26:39.042Z"
+status: "active"
 ---
 
 # § 3352f. Information-sharing program for positions of trust and security clearances
@@ -39,3 +40,43 @@ generated_at: "2026-03-30T02:56:26.247Z"
     - **(A)** Mechanisms that address privacy, national security, suitability or fitness, credentialing, and human resources or military recruitment processes.
     - **(B)** Such recommendations for legislative or administrative action as the Security Executive Agent and the Suitability and Credentialing Executive Agent consider appropriate to carry out or improve the pilot program.
 - **(g)** Not later than 1 year after December 20, 2019 , the Security Executive Agent and the Suitability and Credentialing Executive Agent shall jointly submit to the appropriate congressional committees and make available to appropriate industry partners a review of the plans submitted under subsections (e)(1) and (f)(1) and utility and effectiveness of the programs described in such plans.
+
+Policy Required
+
+Consent Requirement
+
+Consultation
+
+Review.—
+
+Submission
+
+Contents
+
+Definitions
+
+Covered insider threat information
+
+Contractor employee
+
+Governance
+
+Program Required
+
+Privacy Safeguards
+
+Provision of Information to the Federal Government
+
+Information and Records
+
+Implementation Plan.—
+
+In general
+
+Elements
+
+Definitions
+
+## Source Credit
+
+*([Pub. L. 116–92, div. E, title LXVI, § 6611](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2218](https://www.govinfo.gov/link/statute/133/2218).)*

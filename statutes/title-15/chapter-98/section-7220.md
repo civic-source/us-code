@@ -3,9 +3,10 @@ title: "Section 7220 - Definitions"
 usc_title: 15
 usc_section: "7220"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7220"
-generated_at: "2026-03-30T02:54:08.220Z"
+generated_at: "2026-11-23T21:25:40.047Z"
+status: "active"
 ---
 
 # § 7220. Definitions
@@ -28,3 +29,7 @@ For the purposes of this subchapter, the following definitions shall apply:
       - **(i)** relate to the preparation or issuance of audit reports for issuers, brokers, or dealers; and
       - **(ii)** are established or adopted by the Board under section 7213(a) of this title , or are promulgated as rules of the Commission.
   - **(6)** The term “self-regulatory organization” has the same meaning as in section 78c(a) of this title .
+
+## Source Credit
+
+*([Pub. L. 107–204, title I, § 110](https://www.govinfo.gov/link/plaw/107/public/204), as added [Pub. L. 111–203, title IX, § 982(a)(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1927](https://www.govinfo.gov/link/statute/124/1927).)*

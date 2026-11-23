@@ -3,12 +3,17 @@ title: "Section 381 - Irrigation lands; regulation of use of water"
 usc_title: 25
 usc_section: "381"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 381"
-generated_at: "2026-03-30T02:54:52.806Z"
+generated_at: "2026-11-23T21:25:54.568Z"
+status: "active"
 ---
 
 # § 381. Irrigation lands; regulation of use of water
 
 In cases where the use of water for irrigation is necessary to render the lands within any Indian reservation available for agricultural purposes, the Secretary of the Interior is authorized to prescribe such rules and regulations as he may deem necessary to secure a just and equal distribution thereof among the Indians residing upon any such reservations; and no other appropriation or grant of water by any riparian proprietor shall be authorized or permitted to the damage of any other riparian proprietor.
 
+
+## Source Credit
+
+*(Feb. 8, 1887, ch. 119, § 7, [24 Stat. 390](https://www.govinfo.gov/link/statute/24/390).)*

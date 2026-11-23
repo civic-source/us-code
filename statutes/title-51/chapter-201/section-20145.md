@@ -3,9 +3,10 @@ title: "Section 20145 - Lease of non-excess property"
 usc_title: 51
 usc_section: "20145"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 20145"
-generated_at: "2026-03-30T02:56:28.704Z"
+generated_at: "2026-11-23T21:26:42.529Z"
+status: "active"
 ---
 
 # § 20145. Lease of non-excess property
@@ -36,3 +37,84 @@ generated_at: "2026-03-30T02:56:28.704Z"
   - **(1)** any requirement related to the involvement of foreign entities, foreign entity ownership, and foreign entity investment; and
   - **(2)** at the discretion of the Administrator, any other requirement related to the protection and security of Administration missions and facilities.
 - **(h)** The authority to enter into leases under this section shall expire December 31, 2032 . The expiration under this subsection of authority to enter into leases under this section shall not affect the validity or term of leases or the Administration’s retention of proceeds from leases entered into under this section before the expiration of the authority.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 20145 | 42 U.S.C. 2459j . | Pub. L. 85–568, title III, § 315 , as added Pub. L. 108–7, div. K, title IV, § 418 , Feb. 20, 2003 , 117 Stat. 525 ; Pub. L. 110–161, div. B, title V, § 533(a) –(e), Dec. 26, 2007 , 121 Stat. 1931 ; Pub. L. 110–422, title XI, § 1117(c) , (d), Oct. 15, 2008 , 122 Stat. 4814 . |
+
+
+In General
+
+Cash Consideration.—
+
+Fair market value
+
+Utilization.—
+
+In general
+
+Capital revitalization and improvements
+
+No utilization for daily operating costs
+
+Additional Terms and Conditions
+
+Relationship to Other Lease Authority
+
+Lease Restrictions.—
+
+No lease back or other contract
+
+Certification that out-lease will not have negative impact on mission
+
+Reporting Requirements
+
+Value of arrangements and expenditures of revenues
+
+Availability and use of funds for operating plan
+
+Annual and cumulative number of leases
+
+Estimated cost savings
+
+Other quantifiable benefits
+
+Report on Enhanced-use Leasing Requirements
+
+Sunset
+
+Historical and Revision Notes
+
+20145
+
+42 U.S.C. 2459j
+
+Pub. L. 85–568, title III, § 315
+
+Pub. L. 108–7, div. K, title IV, § 418
+
+Feb. 20, 2003
+
+117 Stat. 525
+
+Pub. L. 110–161, div. B, title V, § 533(a)
+
+Dec. 26, 2007
+
+121 Stat. 1931
+
+Pub. L. 110–422, title XI, § 1117(c)
+
+Oct. 15, 2008
+
+122 Stat. 4814
+
+“Congress finds the following:
+
+National Aeronautics and Space Administration
+
+construction and environmental compliance and restoration
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3352](https://www.govinfo.gov/link/statute/124/3352); [Pub. L. 112–55, div. B, title III](https://www.govinfo.gov/link/plaw/112/public/55), Nov. 18, 2011, [125 Stat. 626](https://www.govinfo.gov/link/statute/125/626); [Pub. L. 115–10, title VIII, § 832](https://www.govinfo.gov/link/plaw/115/public/10), Mar. 21, 2017, [131 Stat. 67](https://www.govinfo.gov/link/statute/131/67); [Pub. L. 115–403, § 2](https://www.govinfo.gov/link/plaw/115/public/403), Dec. 31, 2018, [132 Stat. 5348](https://www.govinfo.gov/link/statute/132/5348); [Pub. L. 116–94, div. I, title VI, § 602](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3028](https://www.govinfo.gov/link/statute/133/3028); [Pub. L. 117–103, div. HH, title II, § 203](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 1113](https://www.govinfo.gov/link/statute/136/1113); [Pub. L. 117–167, div. B, title VII, § 10862](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1756](https://www.govinfo.gov/link/statute/136/1756).)*

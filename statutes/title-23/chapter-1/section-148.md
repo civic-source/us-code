@@ -3,9 +3,10 @@ title: "Section 148 - Highway safety improvement program"
 usc_title: 23
 usc_section: "148"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 148"
-generated_at: "2026-03-30T02:55:12.558Z"
+generated_at: "2026-11-23T21:25:53.891Z"
+status: "active"
 ---
 
 # § 148. Highway safety improvement program
@@ -231,3 +232,225 @@ generated_at: "2026-03-30T02:55:12.558Z"
   - **(7)**
     - **(A)** Not later than 1 year after the date of enactment of this subsection, the Secretary shall develop guidance for States to carry out this subsection.
     - **(B)** In developing the guidance under this paragraph, the Secretary shall consult with the States and relevant safety stakeholders.
+
+Definitions
+
+High risk rural road
+
+Highway basemap
+
+Highway safety improvement program
+
+Highway safety improvement project.—
+
+In general
+
+Inclusions
+
+Model inventory of roadway elements
+
+Project to maintain minimum levels of retroreflectivity
+
+Road safety audit
+
+Road users
+
+Safe system approach
+
+Safety data.—
+
+In general
+
+Inclusion
+
+Specified safety project.—
+
+In general
+
+Inclusion
+
+State highway safety improvement program
+
+State strategic highway safety plan
+
+Systemic safety improvement
+
+Vulnerable road user
+
+Vulnerable road user safety assessment
+
+Program.—
+
+In general
+
+Purpose
+
+Eligibility.—
+
+In general
+
+Identification and analysis of highway safety problems and opportunities
+
+Updates to Strategic Highway Safety Plans.—
+
+Establishment of requirements.—
+
+In general
+
+Contents of updated strategic highway safety plans
+
+Approval of updated strategic highway safety plans.—
+
+In general
+
+Requirements for approval
+
+Penalty for failure to have an approved updated strategic highway safety plan
+
+Eligible Projects.—
+
+In general
+
+Use of other funding for safety.—
+
+Effect of section
+
+Use of other funds
+
+Flexible funding for specified safety projects.—
+
+In general
+
+Rule of construction
+
+Effect of paragraph.—
+
+Requirements
+
+Other apportioned programs
+
+Data Improvement.—
+
+Definition of data improvement activities
+
+In general
+
+Inclusions
+
+Model inventory of roadway elements
+
+Special Rules.—
+
+High-risk rural road safety
+
+Older drivers
+
+Vulnerable road user safety
+
+Reports.—
+
+In general
+
+Contents; schedule
+
+Transparency
+
+Discovery and admission into evidence of certain reports, surveys, and information
+
+State Performance Targets
+
+Federal Share of Highway Safety Improvement Projects
+
+Data Collection on Unpaved Public Roads.—
+
+In general
+
+Rule of construction
+
+Vulnerable Road User Safety Assessment.—
+
+In general
+
+Contents
+
+Use of data
+
+Requirements
+
+Update
+
+Requirement for transportation system access
+
+Guidance.—
+
+In general
+
+Consultation
+
+In general
+
+Inclusion
+
+Definitions
+
+Administrator
+
+Vulnerable road user
+
+Establishment of Research Plan
+
+Vulnerable Road User Assessments
+
+Submission; Publication.—
+
+Submission of plan
+
+Progress updates
+
+Definition of Bollard Installation Project
+
+Establishment
+
+Application
+
+Use of Funds
+
+Federal Share
+
+Authorization of Appropriations
+
+Treatment of Projects
+
+Study
+
+Publication of report
+
+Best practices manual
+
+Study.—
+
+In general
+
+Methodology
+
+Consultation
+
+Report.—
+
+In general
+
+Contents
+
+Manual.—
+
+Development
+
+Availability
+
+Contents
+
+Use of manual
+
+## Source Credit
+
+*(Added [Pub. L. 93–87, title I, § 129(b)](https://www.govinfo.gov/link/plaw/93/public/87), Aug. 13, 1973, [87 Stat. 265](https://www.govinfo.gov/link/statute/87/265); amended [Pub. L. 95–599, title I](https://www.govinfo.gov/link/plaw/95/public/599), §§ 125, 129(d), Nov. 6, 1978, [92 Stat. 2705](https://www.govinfo.gov/link/statute/92/2705), 2707; [Pub. L. 109–59, title I, § 1401(a)(1)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1219](https://www.govinfo.gov/link/statute/119/1219); [Pub. L. 112–141, div. A, title I, § 1112(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 450](https://www.govinfo.gov/link/statute/126/450); [Pub. L. 114–94, div. A, title I](https://www.govinfo.gov/link/plaw/114/public/94), §§ 1113(a), 1406(b), Dec. 4, 2015, [129 Stat. 1347](https://www.govinfo.gov/link/statute/129/1347), 1410; [Pub. L. 117–58, div. A, title I](https://www.govinfo.gov/link/plaw/117/public/58), §§ 11111(a), 11525(j), Nov. 15, 2021, [135 Stat. 475](https://www.govinfo.gov/link/statute/135/475), 607.)*

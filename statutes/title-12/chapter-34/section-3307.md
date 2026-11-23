@@ -3,9 +3,10 @@ title: "Section 3307 - Administration"
 usc_title: 12
 usc_section: "3307"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3307"
-generated_at: "2026-03-30T02:53:53.492Z"
+generated_at: "2026-11-23T21:25:37.129Z"
+status: "active"
 ---
 
 # § 3307. Administration
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.492Z"
 - **(c)** In addition, the Council may—
   - **(1)** subject to the provisions of title 5 relating to the competitive service, classification, and General Schedule pay rates, appoint and fix the compensation of such officers and employees as are necessary to carry out the provisions of this chapter, and to prescribe the authority and duties of such officers and employees; and
   - **(2)** obtain the services of such experts and consultants as are necessary to carry out the provisions of this chapter.
+
+## Source Credit
+
+*([Pub. L. 95–630, title X, § 1008](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3696](https://www.govinfo.gov/link/statute/92/3696).)*

@@ -3,9 +3,10 @@ title: "Section 4725 - United States and Foreign Commercial Service Pacific Rim 
 usc_title: 15
 usc_section: "4725"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4725"
-generated_at: "2026-03-30T02:54:08.203Z"
+generated_at: "2026-11-23T21:25:40.004Z"
+status: "active"
 ---
 
 # § 4725. United States and Foreign Commercial Service Pacific Rim initiative
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:08.203Z"
 - **(c)** As used in this section, the term “United States person” means—
   - **(1)** a United States citizen; or
   - **(2)** a corporation, partnership, or other association created under the laws of the United States or any State (including the District of Columbia or any commonwealth, territory, or possession of the United States).
+
+## Source Credit
+
+*([Pub. L. 100–418, title II, § 2306](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1344](https://www.govinfo.gov/link/statute/102/1344).)*

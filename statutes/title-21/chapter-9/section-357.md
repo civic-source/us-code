@@ -3,9 +3,10 @@ title: "Section 357 - Qualification of drug development tools"
 usc_title: 21
 usc_section: "357"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 357"
-generated_at: "2026-03-30T02:54:54.244Z"
+generated_at: "2026-11-23T21:25:56.063Z"
+status: "active"
 ---
 
 # § 357. Qualification of drug development tools
@@ -82,3 +83,17 @@ generated_at: "2026-03-30T02:54:54.244Z"
   - **(9)** The term “surrogate endpoint” means a marker, such as a laboratory measurement, radiographic image, physical sign, or other measure, that is not itself a direct measurement of clinical benefit, and—
     - **(A)** is known to predict clinical benefit and could be used to support traditional approval of a drug or biological product; or
     - **(B)** is reasonably likely to predict clinical benefit and could be used to support the accelerated approval of a drug or biological product in accordance with section 356(c) of this title .
+
+In general
+
+Timing
+
+Taxonomy.—
+
+In general
+
+Public availability
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 507, as added [Pub. L. 114–255, div. A, title III, § 3011(a)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1086](https://www.govinfo.gov/link/statute/130/1086); amended [Pub. L. 116–22, title VII, § 705(e)](https://www.govinfo.gov/link/plaw/116/public/22), June 24, 2019, [133 Stat. 964](https://www.govinfo.gov/link/statute/133/964).)*

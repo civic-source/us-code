@@ -3,9 +3,10 @@ title: "Section 2812 - Lease-purchase of facilities"
 usc_title: 10
 usc_section: "2812"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2812"
-generated_at: "2026-03-30T02:53:38.177Z"
+generated_at: "2026-11-23T21:25:32.679Z"
+status: "active"
 ---
 
 # § 2812. Lease-purchase of facilities
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:38.177Z"
     - **(A)** not more than three leases in fiscal year 1990; and
     - **(B)** not more than five leases in each of the fiscal years 1991 and 1992.
 - **(d)** Each lease entered into under this section shall include a provision that the obligation of the United States to make payments under the lease in any fiscal year is subject to the availability of appropriations for that purpose.
+
+## Source Credit
+
+*(Added [Pub. L. 101–189, div. B, title XXVIII, § 2809(a)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1649](https://www.govinfo.gov/link/statute/103/1649); amended [Pub. L. 101–510, div. B, title XXVIII, § 2864](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1806](https://www.govinfo.gov/link/statute/104/1806); [Pub. L. 108–136, div. A, title X, § 1031(a)(39)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1601](https://www.govinfo.gov/link/statute/117/1601); [Pub. L. 115–91, div. B, title XXVIII, § 2801(a)(9)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1841](https://www.govinfo.gov/link/statute/131/1841).)*

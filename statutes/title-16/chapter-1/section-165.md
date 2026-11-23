@@ -3,9 +3,10 @@ title: "Section 165 - Value of lands sought to be exchanged"
 usc_title: 16
 usc_section: "165"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 165"
-generated_at: "2026-03-30T02:54:22.737Z"
+generated_at: "2026-11-23T21:25:51.386Z"
+status: "active"
 ---
 
 # § 165. Value of lands sought to be exchanged
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:22.737Z"
   - **(2)** of section 164 of this title the value of all patented lands within said park, including the timber thereon, offered for exchange, and the value of other lands of the United States elsewhere situate, to be given in exchange therefor, shall be ascertained in such manner as the Secretary of the Interior may direct; and the owners of such privately owned lands within said park shall, before any exchange is effective, furnish the Secretary of the Interior evidence satisfactory to him of title to the patented lands offered in exchange; and lands conveyed to the Government under this section and subdivision
   - **(2)** of section 164 of this title shall be and remain a part of the Glacier National Park.
 
+
+## Source Credit
+
+*(Feb. 28, 1923, ch. 144, § 2, [42 Stat. 1324](https://www.govinfo.gov/link/statute/42/1324).)*

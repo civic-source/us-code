@@ -3,12 +3,17 @@ title: "Section 8003 - Contracts to provide congregate services programs"
 usc_title: 42
 usc_section: "8003"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8003"
-generated_at: "2026-03-30T02:56:11.332Z"
+generated_at: "2026-11-23T21:26:33.176Z"
+status: "active"
 ---
 
 # § 8003. Contracts to provide congregate services programs
 
 The Secretary of Housing and Urban Development (hereinafter referred to as the “Secretary”) is authorized to enter into contracts with local public housing agencies under the United States Housing Act of 1937 [ 42 U.S.C. 1437 et seq.] (hereinafter referred to as “public housing agencies”) and with nonprofit corporations, utilizing sums appropriated under this chapter, to provide congregate services programs for eligible project residents in order to promote and encourage maximum independence within a home environment for such residents capable of self-care with appropriate supportive congregate services. Each contract between the Secretary and a public housing agency or nonprofit corporation shall be for a term of not less than three years or more than five years and shall be renewable at the expiration of such term. Each public housing agency or nonprofit corporation entering into such a contract shall be reserved a sum equal to its total approved contract amount from the moneys authorized and appropriated for the fiscal year in which the notification date of funding approval falls.
 
+
+## Source Credit
+
+*([Pub. L. 95–557, title IV, § 404](https://www.govinfo.gov/link/plaw/95/public/557), Oct. 31, 1978, [92 Stat. 2106](https://www.govinfo.gov/link/statute/92/2106).)*

@@ -3,9 +3,10 @@ title: "Section 295h - Loan repayment program for substance use disorder treatme
 usc_title: 42
 usc_section: "295h"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 295h"
-generated_at: "2026-03-30T02:56:10.781Z"
+generated_at: "2026-11-23T21:26:30.652Z"
+status: "active"
 ---
 
 # § 295h. Loan repayment program for substance use disorder treatment workforce
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:56:10.781Z"
     - **(A)** where the primary intent and function of the position is the direct treatment or recovery support of patients with or in recovery from a substance use disorder, including master’s level social workers, psychologists, counselors, marriage and family therapists, psychiatric mental health practitioners, occupational therapists, psychology doctoral interns, and behavioral health paraprofessionals and physicians, physician assistants, and nurses, who are licensed or certified in accordance with applicable State and Federal laws; and
     - **(B)** which is located at a substance use disorder treatment program, private physician practice, hospital or health system-affiliated inpatient treatment center or outpatient clinic (including an academic medical center-affiliated treatment program), correctional facility or program, youth detention center or program, inpatient psychiatric facility, crisis stabilization unit, community health center, community mental health or other specialty community behavioral health center, recovery center, school, community-based organization, telehealth platform, migrant health center, health program or facility operated by an Indian tribe or tribal organization, Federal medical facility, or any other facility as determined appropriate for purposes of this section by the Secretary.
 - **(j)** There are authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2026 through 2030.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 781, as added [Pub. L. 115–271, title VII, § 7071(2)](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 4028](https://www.govinfo.gov/link/statute/132/4028); amended [Pub. L. 119–44, title II, § 204](https://www.govinfo.gov/link/plaw/119/public/44), Dec. 1, 2025, [139 Stat. 680](https://www.govinfo.gov/link/statute/139/680).)*

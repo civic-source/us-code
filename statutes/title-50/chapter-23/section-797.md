@@ -3,9 +3,10 @@ title: "Section 797 - Penalty for violation of security regulations and orders"
 usc_title: 50
 usc_section: "797"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 797"
-generated_at: "2026-03-30T02:56:26.201Z"
+generated_at: "2026-11-23T21:26:38.908Z"
+status: "active"
 ---
 
 # § 797. Penalty for violation of security regulations and orders
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:26.201Z"
     - **(C)** The term “covered property” means aircraft, airports, airport facilities, vessels, harbors, ports, piers, water-front facilities, bases, forts, posts, laboratories, stations, vehicles, equipment, explosives, or other property or places.
     - **(D)** The term “regulation” includes an order.
 - **(b)** Any regulation or order covered by subsection (a) shall be posted in conspicuous and appropriate places.
+
+## Source Credit
+
+*(Sept. 23, 1950, ch. 1024, title I, § 21, [64 Stat. 1005](https://www.govinfo.gov/link/statute/64/1005); [Pub. L. 109–163, div. A, title X, § 1053](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3435](https://www.govinfo.gov/link/statute/119/3435).)*

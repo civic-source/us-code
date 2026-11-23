@@ -3,9 +3,10 @@ title: "Section 20310 - Definitions"
 usc_title: 52
 usc_section: "20310"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 20310"
-generated_at: "2026-03-30T02:56:30.162Z"
+generated_at: "2026-11-23T21:26:42.326Z"
+status: "active"
 ---
 
 # § 20310. Definitions
@@ -28,3 +29,7 @@ As used in this chapter, the term—
   - **(6)** “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, and American Samoa;
   - **(7)** “uniformed services” means the Army, Navy, Air Force, Marine Corps, and Coast Guard, the commissioned corps of the Public Health Service, and the commissioned corps of the National Oceanic and Atmospheric Administration; and
   - **(8)** “United States”, where used in the territorial sense, means the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, and American Samoa.
+
+## Source Credit
+
+*([Pub. L. 99–410, title I, § 107](https://www.govinfo.gov/link/plaw/99/public/410), Aug. 28, 1986, [100 Stat. 927](https://www.govinfo.gov/link/statute/100/927).)*

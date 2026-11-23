@@ -3,9 +3,10 @@ title: "Section 2082 - Authority of Commission to accept gifts and conduct other
 usc_title: 2
 usc_section: "2082"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 2082"
-generated_at: "2026-03-30T02:53:04.824Z"
+generated_at: "2026-11-23T21:25:21.279Z"
+status: "active"
 ---
 
 # § 2082. Authority of Commission to accept gifts and conduct other transactions relating to works of fine art and other property
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:04.824Z"
   - **(1)** accept money only in the form of a check or similar instrument made payable to the Treasury of the United States and shall deposit any such check or instrument in accordance with section 2083 of this title ;
   - **(2)** in making sales and engaging in other property transactions, take into consideration market conditions and other relevant factors; and
   - **(3)** assure that each transaction is directly related to the purposes referred to in section 2081(a) of this title .
+
+## Source Credit
+
+*([Pub. L. 100–696, title VIII, § 802](https://www.govinfo.gov/link/plaw/100/public/696), Nov. 18, 1988, [102 Stat. 4609](https://www.govinfo.gov/link/statute/102/4609); [Pub. L. 101–302, title III, § 312(a)](https://www.govinfo.gov/link/plaw/101/public/302), May 25, 1990, [104 Stat. 245](https://www.govinfo.gov/link/statute/104/245).)*

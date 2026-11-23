@@ -3,12 +3,17 @@ title: "Section 534 - Conveyance of right, title, and interest of United States 
 usc_title: 33
 usc_section: "534"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 534"
-generated_at: "2026-03-30T02:55:41.061Z"
+generated_at: "2026-11-23T21:26:11.312Z"
+status: "active"
 ---
 
 # § 534. Conveyance of right, title, and interest of United States in bridges transferred to States or political subdivisions; terms and conditions
 
 The Secretary of the Army is authorized to transfer or convey to State authorities or political subdivisions thereof all right, title, and interest of the United States, in and to any and all bridges heretofore or hereafter constructed or acquired in connection with the improvement of canals, rivers and harbors, or works of flood control, together with the necessary lands, easements, or rights-of-way, upon such terms and conditions and with or without consideration, as may be determined to be in the best interest of the United States by the Chief of Engineers: Provided , That such transferred bridges shall be toll-free.
 
+
+## Source Credit
+
+*(May 17, 1950, ch. 188, title I, § 109, [64 Stat. 168](https://www.govinfo.gov/link/statute/64/168).)*

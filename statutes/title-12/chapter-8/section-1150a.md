@@ -3,9 +3,10 @@ title: "Section 1150a - Farm loans to which chapter is applicable"
 usc_title: 12
 usc_section: "1150a"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1150a"
-generated_at: "2026-03-30T02:53:53.389Z"
+generated_at: "2026-11-23T21:25:36.818Z"
+status: "active"
 ---
 
 # § 1150a. Farm loans to which chapter is applicable
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:53.389Z"
 - **(b)** Agricultural Adjustment Act (of 1933); Bankhead Cotton Act of April 21, 1934 , on account of the several cotton tax-exemption certificate pools; Jones-Connally Cattle Act of April 7, 1934 ; Emergency Appropriation Act, fiscal year 1935, approved June 19, 1934 ; Kerr Tobacco Act of June 28, 1934 , and Public Resolution Numbered 76, approved March 14, 1936 ; section 32 of the Act of August 24, 1935 , and related legislation; Supplemental Appropriation Act, fiscal year 1936; sections 7 to 17 of the Soil Conservation and Domestic Allotment Act; Sugar Act of 1937; sections 303 and 381(a) of the Agricultural Adjustment Act of 1938 and related or subsequent legislation authorizing parity or price adjustment payments; title IV and title V of the Agricultural Adjustment Act of 1938 and related legislation; any amendment to any of the foregoing Acts heretofore and any other Act of Congress heretofore enacted authorizing payments to farmers under programs administered through the Agricultural Adjustment Agency;
 - **(c)** Loans made by or through the Resettlement Administration of the Farm Security Administration out of funds appropriated or made available by or pursuant to the following Acts; April 8, 1935 ( 49 Stat. 115 ); June 22, 1936 ( 49 Stat. 1608 ); February 9, 1937 ( 50 Stat. 8 ); June 29, 1937 ( 50 Stat. 352 ); The Bankhead-Jones Farm Tenant Act, July 22, 1937 ( 50 Stat. 522 et seq.); the Water Facilities Act of August 28, 1937 ( 50 Stat. 869 et seq.); March 2, 1938 ( 52 Stat. 83 , Public Resolution Numbered 80); June 21, 1938 ( 52 Stat. 809 ); June 30, 1939 ( 53 Stat. 927 ); June 26, 1940 (Public Resolution Numbered 88); flood-restoration loans, Second Deficiency Appropriation Act, 1943 ( 57 Stat. 537 , 542); and subsequent legislation appropriating or making available funds for such loans; commodity loan, purchase, sale, and other programs of the Commodity Credit Corporation; and crop-insurance programs formulated pursuant to title V of the Agricultural Adjustment Act of 1938 (the Federal Crop Insurance Act), and any amendment or supplement thereto heretofore or hereafter enacted. This chapter shall also apply to any indebtedness of farmers evidenced by notes or accounts receivable, title to which has been acquired in the liquidation of loans to cooperative associations made under the provisions of the Act of June 15, 1929 ( 46 Stat. 11 ).
 
+
+## Source Credit
+
+*(Dec. 20, 1944, ch. 623, § 2, [58 Stat. 836](https://www.govinfo.gov/link/statute/58/836).)*

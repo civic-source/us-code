@@ -3,9 +3,10 @@ title: "Section 3292 - Suspension of limitations to permit United States to obta
 usc_title: 18
 usc_section: "3292"
 chapter: 213
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3292"
-generated_at: "2026-03-30T02:54:16.516Z"
+generated_at: "2026-11-23T21:25:44.195Z"
+status: "active"
 ---
 
 # § 3292. Suspension of limitations to permit United States to obtain foreign evidence
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:16.516Z"
   - **(1)** shall not exceed three years; and
   - **(2)** shall not extend a period within which a criminal case must be initiated for more than six months if all foreign authorities take final action before such period would expire without regard to this section.
 - **(d)** As used in this section, the term “official request” means a letter rogatory, a request under a treaty or convention, or any other request for evidence made by a court of the United States or an authority of the United States having criminal law enforcement responsibility, to a court or other authority of a foreign country.
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 1218(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2167](https://www.govinfo.gov/link/statute/98/2167).)*

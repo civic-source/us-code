@@ -3,9 +3,10 @@ title: "Section 2797a - Denial of transfer of missile equipment or technology by
 usc_title: 22
 usc_section: "2797a"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2797a"
-generated_at: "2026-03-30T02:55:05.388Z"
+generated_at: "2026-11-23T21:25:58.568Z"
+status: "active"
 ---
 
 # § 2797a. Denial of transfer of missile equipment or technology by United States persons
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:05.388Z"
 - **(d)** The President may waive the imposition of sanctions under subsection (a) with respect to a product or service if the President certifies to the Congress that—
   - **(1)** the product or service is essential to the national security of the United States; and
   - **(2)** such person is a sole source supplier of the product or service, the product or service is not available from any alternative reliable supplier, and the need for the product or service cannot be met in a timely manner by improved manufacturing processes or technological developments.
+
+## Source Credit
+
+*([Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 7, § 72, as added [Pub. L. 101–510, div. A, title XVII, § 1703](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1745](https://www.govinfo.gov/link/statute/104/1745); amended [Pub. L. 103–236, title VII, § 734(a)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 505](https://www.govinfo.gov/link/statute/108/505).)*

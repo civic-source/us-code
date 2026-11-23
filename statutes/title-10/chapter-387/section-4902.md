@@ -3,9 +3,10 @@ title: "Section 4902 - Department of Defense Mentor-Protege Program"
 usc_title: 10
 usc_section: "4902"
 chapter: 387
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4902"
-generated_at: "2026-03-30T02:53:38.215Z"
+generated_at: "2026-11-23T21:25:32.801Z"
+status: "active"
 ---
 
 # § 4902. Department of Defense Mentor-Protege Program
@@ -117,3 +118,43 @@ generated_at: "2026-03-30T02:53:38.215Z"
   - **(7)** The term “small business concern” has the meaning given such term under section 3 of the Small Business Act ( 15 U.S.C. 632 ).
   - **(8)** The term “small business concern owned and controlled by socially and economically disadvantaged individuals” has the meaning given such term in section 8(d)(3)(C) of the Small Business Act ( 15 U.S.C. 637(d)(3)(C) ).
   - **(9)** The term “subcontracting participation goal”, with respect to a Department of Defense contract, means a goal for the extent of the participation by disadvantaged small business concerns in the subcontracts awarded under such contract, as established pursuant to section 8(d) of the Small Business Act ( 15 U.S.C. 637(d) ).
+
+Establishment of Program
+
+Purpose
+
+Program Participants
+
+Mentor Firm Eligibility.—
+
+Mentor-Protege Agreement
+
+Forms of Assistance
+
+Incentives for Mentor Firms
+
+Relationship to Small Business Act
+
+Participation in Mentor-Protege Program not To Be a Condition for Award of a Contract or Subcontract
+
+Regulations
+
+Report by Mentor Firms
+
+Review of Report by the Office of Small Business Programs
+
+Annual Collection of Performance Data
+
+Definitions
+
+In general
+
+Activity described
+
+Definitions
+
+Termination
+
+## Source Credit
+
+*(Added and amended [Pub. L. 117–263, div. A, title VIII, § 856(a)](https://www.govinfo.gov/link/plaw/117/public/263), (b), Dec. 23, 2022, [136 Stat. 2723](https://www.govinfo.gov/link/statute/136/2723), 2724; [Pub. L. 118–31, div. A, title VIII, § 852](https://www.govinfo.gov/link/plaw/118/public/31), title XVIII, § 1801(a)(37), Dec. 22, 2023, [137 Stat. 344](https://www.govinfo.gov/link/statute/137/344), 685; [Pub. L. 118–159, div. A, title XVII, § 1701(a)(42)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2206](https://www.govinfo.gov/link/statute/138/2206).)*

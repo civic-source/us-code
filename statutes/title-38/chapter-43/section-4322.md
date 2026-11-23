@@ -3,9 +3,10 @@ title: "Section 4322 - Enforcement of employment or reemployment rights"
 usc_title: 38
 usc_section: "4322"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 4322"
-generated_at: "2026-03-30T02:55:53.518Z"
+generated_at: "2026-11-23T21:26:16.804Z"
+status: "active"
 ---
 
 # § 4322. Enforcement of employment or reemployment rights
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:53.518Z"
   - **(2)** the complainant’s entitlement to proceed under the enforcement of rights provisions provided under section 4323 (in the case of a person submitting a complaint against a State or private employer) or section 4324 (in the case of a person submitting a complaint against a Federal executive agency or the Office of Personnel Management).
 - **(f)** Any action required by subsections (d) and (e) with respect to a complaint submitted by a person to the Secretary under subsection (a) shall be completed by the Secretary not later than 90 days after receipt of such complaint.
 - **(g)** This subchapter does not apply to any action relating to benefits to be provided under the Thrift Savings Plan under title 5.
+
+## Source Credit
+
+*(Added [Pub. L. 103–353, § 2(a)](https://www.govinfo.gov/link/plaw/103/public/353), Oct. 13, 1994, [108 Stat. 3164](https://www.govinfo.gov/link/statute/108/3164); amended [Pub. L. 104–275, title III, § 311(9)](https://www.govinfo.gov/link/plaw/104/public/275), Oct. 9, 1996, [110 Stat. 3335](https://www.govinfo.gov/link/statute/110/3335); [Pub. L. 110–389, title III, § 311(a)](https://www.govinfo.gov/link/plaw/110/public/389) –(c), Oct. 10, 2008, [122 Stat. 4162](https://www.govinfo.gov/link/statute/122/4162).)*

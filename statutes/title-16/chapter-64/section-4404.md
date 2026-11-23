@@ -3,9 +3,10 @@ title: "Section 4404 - Approval of wetlands conservation projects"
 usc_title: 16
 usc_section: "4404"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4404"
-generated_at: "2026-03-30T02:54:23.043Z"
+generated_at: "2026-11-23T21:25:52.015Z"
+status: "active"
 ---
 
 # § 4404. Approval of wetlands conservation projects
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:23.043Z"
 - **(d)** The Chairman of the Council shall select 2 Council members of the 1 1 So in original. United States citizenship to serve with the Chairman as ex officio members of the Migratory Bird Conservation Commission for the purposes of considering and voting upon wetlands conservation projects recommended by the Council.
 - **(e)** The Migratory Bird Conservation Commission, along with the two members of the Council referred to in subsection (d) of this section, shall approve, reject or reorder the priority of any wetlands conservation projects recommended by the Council based on, to the greatest extent practicable, the criteria of subsection (a) of this section. If the Migratory Bird Conservation Commission approves any wetlands conservation project, Federal funding shall be made available under this chapter and section 669b(b) of this title . If the Migratory Bird Conservation Commission rejects or reorders the priority of any wetlands conservation project recommended by the Council, the Migratory Bird Conservation Commission shall provide the Council and the appropriate Committees with a written statement explaining its rationale for the rejection or the priority modification.
 - **(f)** The Migratory Bird Conservation Commission shall submit annually to the appropriate Committees a report including a list and description of the wetlands conservation projects approved by the Migratory Bird Conservation Commission for Federal funding under subsection (e) of this section in order of priority; the amounts and sources of Federal and non-Federal funding for such projects; a justification for the approval of such projects and the order of priority for funding such projects; a list and description of the wetlands conservation projects which the Council recommended, in order of priority that the Migratory Bird Conservation Commission approve for Federal funding; and a justification for any rejection or re-ordering of the priority of wetlands conservation projects recommended by the Council that was based on factors other than the criteria of subsection (a) of this section.
+
+## Source Credit
+
+*([Pub. L. 101–233, § 5](https://www.govinfo.gov/link/plaw/101/public/233), Dec. 13, 1989, [103 Stat. 1972](https://www.govinfo.gov/link/statute/103/1972); [Pub. L. 101–593, title I, § 112(4)](https://www.govinfo.gov/link/plaw/101/public/593), Nov. 16, 1990, [104 Stat. 2962](https://www.govinfo.gov/link/statute/104/2962); [Pub. L. 107–308, § 8(a)(8)](https://www.govinfo.gov/link/plaw/107/public/308) –(11), Dec. 2, 2002, [116 Stat. 2448](https://www.govinfo.gov/link/statute/116/2448).)*

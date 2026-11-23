@@ -3,9 +3,10 @@ title: "Section 2462 - Designation of beneficiary developing countries"
 usc_title: 19
 usc_section: "2462"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2462"
-generated_at: "2026-03-30T02:54:24.675Z"
+generated_at: "2026-11-23T21:25:42.806Z"
+status: "active"
 ---
 
 # § 2462. Designation of beneficiary developing countries
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:54:24.675Z"
     - **(A)** Before the President designates any country as a beneficiary developing country under this subchapter, the President shall notify the Congress of the President’s intention to make such designation, together with the considerations entering into such decision.
     - **(B)** At least 60 days before the President designates any country as a least-developed beneficiary developing country, the President shall notify the Congress of the President’s intention to make such designation.
   - **(2)** If the President has designated any country as a beneficiary developing country under this subchapter, the President shall not terminate such designation unless, at least 60 days before such termination, the President has notified the Congress and has notified such country of the President’s intention to terminate such designation, together with the considerations entering into such decision.
+
+## Source Credit
+
+*([Pub. L. 93–618, title V, § 502](https://www.govinfo.gov/link/plaw/93/public/618), as added [Pub. L. 104–188, title I, § 1952(a)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1917](https://www.govinfo.gov/link/statute/110/1917); amended [Pub. L. 104–295, § 35(a)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3538](https://www.govinfo.gov/link/statute/110/3538); [Pub. L. 106–200, title IV, § 412(a)](https://www.govinfo.gov/link/plaw/106/public/200), May 18, 2000, [114 Stat. 298](https://www.govinfo.gov/link/statute/114/298); [Pub. L. 107–210, div. D, title XLI, § 4102(a)](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 1040](https://www.govinfo.gov/link/statute/116/1040).)*

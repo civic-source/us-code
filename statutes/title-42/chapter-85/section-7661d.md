@@ -3,9 +3,10 @@ title: "Section 7661d - Notification to Administrator and contiguous States"
 usc_title: 42
 usc_section: "7661d"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7661d"
-generated_at: "2026-03-30T02:56:11.325Z"
+generated_at: "2026-11-23T21:26:33.160Z"
+status: "active"
 ---
 
 # § 7661d. Notification to Administrator and contiguous States
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.325Z"
   - **(2)** The Administrator may, by regulation, establish categories of sources (including any class, type, or size within such category) to which the requirements of subsections (a) and (b) shall not apply. The preceding sentence shall not apply to major sources.
   - **(3)** The Administrator may exclude from any waiver under this subsection notification under subsection (a)(2). Any waiver granted under this subsection may be revoked or modified by the Administrator by rule.
 - **(e)** If the Administrator finds that cause exists to terminate, modify, or revoke and reissue a permit under this subchapter, the Administrator shall notify the permitting authority and the source of the Administrator’s finding. The permitting authority shall, within 90 days after receipt of such notification, forward to the Administrator under this section a proposed determination of termination, modification, or revocation and reissuance, as appropriate. The Administrator may extend such 90 day period for an additional 90 days if the Administrator finds that a new or revised permit application is necessary, or that the permitting authority must require the permittee to submit additional information. The Administrator may review such proposed determination under the provisions of subsections (a) and (b). If the permitting authority fails to submit the required proposed determination, or if the Administrator objects and the permitting authority fails to resolve the objection within 90 days, the Administrator may, after notice and in accordance with fair and reasonable procedures, terminate, modify, or revoke and reissue the permit.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title V, § 505, as added [Pub. L. 101–549, title V, § 501](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2643](https://www.govinfo.gov/link/statute/104/2643).)*

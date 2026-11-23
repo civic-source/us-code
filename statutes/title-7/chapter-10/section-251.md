@@ -3,9 +3,10 @@ title: "Section 251 - Conditions for delivery of agricultural products"
 usc_title: 7
 usc_section: "251"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 251"
-generated_at: "2026-03-30T02:53:42.280Z"
+generated_at: "2026-11-23T21:25:27.939Z"
+status: "active"
 ---
 
 # § 251. Conditions for delivery of agricultural products
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.280Z"
 - **(b)** Prior to delivery of the agricultural product, payment of the accrued charges associated with the storage of the agricultural product, including satisfaction of the warehouseman’s lien, shall be made if requested by the warehouse operator.
 - **(c)** When the holder of a receipt requests delivery of an agricultural product covered by the receipt, the holder shall surrender the receipt to the warehouse operator, in the manner prescribed by the Secretary, to obtain the agricultural product.
 - **(d)** A warehouse operator shall cancel each receipt returned to the warehouse operator upon the delivery of the agricultural product for which the receipt was issued.
+
+## Source Credit
+
+*(Aug. 11, 1916, ch. 313, pt. C, § 12, as added [Pub. L. 106–472, title II, § 201](https://www.govinfo.gov/link/plaw/106/public/472), Nov. 9, 2000, [114 Stat. 2067](https://www.govinfo.gov/link/statute/114/2067).)*

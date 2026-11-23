@@ -3,9 +3,10 @@ title: "Section 7407 - Action to enjoin tax return preparers"
 usc_title: 26
 usc_section: "7407"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7407"
-generated_at: "2026-03-30T02:55:27.870Z"
+generated_at: "2026-11-23T21:26:06.952Z"
+status: "active"
 ---
 
 # § 7407. Action to enjoin tax return preparers
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:27.870Z"
     - **(C)** guaranteed the payment of any tax refund or the allowance of any tax credit, or
     - **(D)** engaged in any other fraudulent or deceptive conduct which substantially interferes with the proper administration of the Internal Revenue laws, and
   - **(2)** that injunctive relief is appropriate to prevent the recurrence of such conduct,
+
+## Source Credit
+
+*(Added [Pub. L. 94–455, title XII, § 1203(g)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1693](https://www.govinfo.gov/link/statute/90/1693); amended [Pub. L. 101–239, title VII, § 7738(a)](https://www.govinfo.gov/link/plaw/101/public/239), (b), Dec. 19, 1989, [103 Stat. 2404](https://www.govinfo.gov/link/statute/103/2404); [Pub. L. 110–28, title VIII, § 8246(a)(2)(I)(i)](https://www.govinfo.gov/link/plaw/110/public/28), May 25, 2007, [121 Stat. 202](https://www.govinfo.gov/link/statute/121/202).)*

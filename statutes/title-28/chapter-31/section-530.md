@@ -3,12 +3,17 @@ title: "Section 530 - Payment of travel and transportation expenses of newly app
 usc_title: 28
 usc_section: "530"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 530"
-generated_at: "2026-03-30T02:55:30.131Z"
+generated_at: "2026-11-23T21:26:01.051Z"
+status: "active"
 ---
 
 # § 530. Payment of travel and transportation expenses of newly appointed special agents
 
 The Attorney General or the Attorney General’s designee is authorized to pay the travel expenses of newly appointed special agents and the transportation expenses of their families and household goods and personal effects from place of residence at time of selection to the first duty station, to the extent such payments are authorized by section 5723 of title 5 for new appointees who may receive payments under that section.
 
+
+## Source Credit
+
+*(Added [Pub. L. 98–86, § 1](https://www.govinfo.gov/link/plaw/98/public/86), Aug. 26, 1983, [97 Stat. 492](https://www.govinfo.gov/link/statute/97/492).)*

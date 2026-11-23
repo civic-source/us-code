@@ -3,9 +3,10 @@ title: "Section 9029 - Assistance and guidance in implementing programs"
 usc_title: 15
 usc_section: "9029"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9029"
-generated_at: "2026-03-30T02:54:08.240Z"
+generated_at: "2026-11-23T21:25:40.117Z"
+status: "active"
 ---
 
 # § 9029. Assistance and guidance in implementing programs
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.240Z"
     - **(C)** such other items as the Secretary of Labor determines are appropriate.
 - **(b)** The model language and guidance developed under subsection (a) shall allow sufficient flexibility by States and participating employers while ensuring accountability and program integrity.
 - **(c)** In developing the model legislative language and guidance under subsection (a), and in order to meet the requirements of subsection (b), the Secretary shall consult with employers, labor organizations, State workforce agencies, and other program experts. Existing model legislative language that has been developed through such a consultative process shall be deemed to meet the consultation requirement of this subsection.
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title II, § 2111](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 333](https://www.govinfo.gov/link/statute/134/333).)*

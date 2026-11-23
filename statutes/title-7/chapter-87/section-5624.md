@@ -3,9 +3,10 @@ title: "Section 5624 - Barter of agricultural commodities"
 usc_title: 7
 usc_section: "5624"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 5624"
-generated_at: "2026-03-30T02:53:42.416Z"
+generated_at: "2026-11-23T21:25:28.364Z"
+status: "active"
 ---
 
 # § 5624. Barter of agricultural commodities
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:42.416Z"
   - **(1)** displace or interfere with commercial sales of United States agricultural commodities that otherwise might be made;
   - **(2)** unduly disrupt world prices of agricultural commodities or the normal patterns of commercial trade with recipient countries; or
   - **(3)** permit the resale or transshipment of eligible commodities to countries other than the intended recipient country.
+
+## Source Credit
+
+*([Pub. L. 95–501, title II, § 204](https://www.govinfo.gov/link/plaw/95/public/501), as added [Pub. L. 101–624, title XV, § 1531](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3676](https://www.govinfo.gov/link/statute/104/3676); amended [Pub. L. 102–237, title III, § 320](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1857](https://www.govinfo.gov/link/statute/105/1857).)*

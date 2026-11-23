@@ -3,9 +3,10 @@ title: "Section 3487 - Repealed. Pub. L. 103–382, title II, § 271(a)(1) , Oct
 usc_title: 20
 usc_section: "3487"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 3487"
-generated_at: "2026-03-30T02:54:48.179Z"
+generated_at: "2026-11-23T21:25:47.415Z"
+status: "repealed"
 ---
 
 # § 3487. Repealed. Pub. L. 103–382, title II, § 271(a)(1) , Oct. 20, 1994 , 108 Stat. 3929

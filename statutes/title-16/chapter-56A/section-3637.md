@@ -3,9 +3,10 @@ title: "Section 3637 - Prohibited acts and penalties"
 usc_title: 16
 usc_section: "3637"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3637"
-generated_at: "2026-03-30T02:54:23.019Z"
+generated_at: "2026-11-23T21:25:51.979Z"
+status: "active"
 ---
 
 # § 3637. Prohibited acts and penalties
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:23.019Z"
   - **(5)** to ship, transport, offer for sale, sell, purchase, import, export, or have custody, control, or possession of, any fish taken or retained in violation of this chapter;
   - **(6)** to interfere with, delay, or prevent, by any means, the apprehension or arrest of another person, knowing that such other person has committed any act prohibited by this section.
 - **(b)** For additional prohibitions relating to this chapter and enforcement of this chapter, see section 1826g of this title .
+
+## Source Credit
+
+*([Pub. L. 99–5, § 8](https://www.govinfo.gov/link/plaw/99/public/5), Mar. 15, 1985, [99 Stat. 12](https://www.govinfo.gov/link/statute/99/12); [Pub. L. 114–81, title I, § 104](https://www.govinfo.gov/link/plaw/114/public/81), Nov. 5, 2015, [129 Stat. 657](https://www.govinfo.gov/link/statute/129/657).)*

@@ -3,9 +3,10 @@ title: "Section 2141 - Findings; purpose"
 usc_title: 20
 usc_section: "2141"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 2141"
-generated_at: "2026-03-30T02:54:48.171Z"
+generated_at: "2026-11-23T21:25:47.369Z"
+status: "active"
 ---
 
 # § 2141. Findings; purpose
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:48.171Z"
   - **(7)** It is in the Nation’s best interest to collect and catalog oral histories of American war veterans so that future generations will have original sources of information regarding the lives and times of those who served in war and the conditions under which they endured, so that Americans will always remember those who served in war and may learn first-hand of the heroics, tediousness, horrors, and triumphs of war.
   - **(8)** The Library of Congress, as the Nation’s oldest Federal cultural institution and largest and most inclusive library in human history (with nearly 119,000,000 items in its multimedia collection) 1 1 So in original. Probably should be followed by a comma. is an appropriate repository to collect, preserve, and make available to the public an archive of these oral histories. The Library’s American Folklife Center has expertise in the management of documentation projects and experience in the development of cultural and educational programs for the public.
 - **(b)** It is the purpose of this subchapter to create a new federally sponsored, authorized, and funded program that will coordinate at a national level the collection of video and audio recordings of personal histories and testimonials of American war veterans, and to assist and encourage local efforts to preserve the memories of this Nation’s war veterans so that Americans of all current and future generations may hear directly from veterans and better appreciate the realities of war and the sacrifices made by those who served in uniform during wartime.
+
+## Source Credit
+
+*([Pub. L. 106–380, § 2](https://www.govinfo.gov/link/plaw/106/public/380), Oct. 27, 2000, [114 Stat. 1447](https://www.govinfo.gov/link/statute/114/1447).)*

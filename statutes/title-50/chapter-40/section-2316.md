@@ -3,9 +3,10 @@ title: "Section 2316 - Actions to increase civilian expertise"
 usc_title: 50
 usc_section: "2316"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2316"
-generated_at: "2026-03-30T02:56:26.220Z"
+generated_at: "2026-11-23T21:26:38.963Z"
+status: "active"
 ---
 
 # § 2316. Actions to increase civilian expertise
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:26.220Z"
     - **(A)** the actions planned to be taken to carry out subsection (d); and
     - **(B)** the costs of such actions.
   - **(3)** Not later than three years after September 23, 1996 , a report updating the information provided in the reports submitted pursuant to paragraphs (1) and (2), including the measures taken pursuant to subsection (d).
+
+## Source Credit
+
+*([Pub. L. 104–201, div. A, title XIV, § 1416](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2721](https://www.govinfo.gov/link/statute/110/2721).)*

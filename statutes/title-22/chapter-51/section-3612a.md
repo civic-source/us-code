@@ -3,9 +3,10 @@ title: "Section 3612a - General powers of Commission"
 usc_title: 22
 usc_section: "3612a"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3612a"
-generated_at: "2026-03-30T02:55:05.394Z"
+generated_at: "2026-11-23T21:25:58.589Z"
+status: "active"
 ---
 
 # § 3612a. General powers of Commission
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:05.394Z"
   - **(2)** Every notarial act performed by a person acting as a notary under paragraph (1) shall be as valid, and of like force and effect within the United States, as if executed by or before a duly authorized and competent notary public in the United States.
   - **(3)** The signature of any person acting as a notary under paragraph (1), when it appears with the title of that person’s office, is prima facie evidence that the signature is genuine, that the person holds the designated title, and that the person is authorized to perform a notarial act.
 - **(h)** The authority of the Commission under this section and section 3612b of this title is subject to the Panama Canal Treaty of 1977 and related agreements, and to chapter 91 of title 31.
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1102a](https://www.govinfo.gov/link/plaw/96/public/70), as added [Pub. L. 104–106, div. C, title XXXV, § 3524(a)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 639](https://www.govinfo.gov/link/statute/110/639); amended [Pub. L. 105–85, div. C, title XXXV](https://www.govinfo.gov/link/plaw/105/public/85), §§ 3546, 3550(d)(3), Nov. 18, 1997, [111 Stat. 2073](https://www.govinfo.gov/link/statute/111/2073), 2074.)*

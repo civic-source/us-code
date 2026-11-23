@@ -3,9 +3,10 @@ title: "Section 775 - National Emergency Family Registry and Locator System"
 usc_title: 6
 usc_section: "775"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 775"
-generated_at: "2026-03-30T02:53:09.500Z"
+generated_at: "2026-11-23T21:25:25.848Z"
+status: "active"
 ---
 
 # § 775. National Emergency Family Registry and Locator System
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:09.500Z"
 - **(d)** Not later than 210 days after October 4, 2006 , the Administrator shall establish a mechanism to inform the public about the National Emergency Family Registry and Locator System and its potential usefulness for assisting to reunite displaced individuals with their families.
 - **(e)** Not later than 90 days after October 4, 2006 , the Administrator shall enter a memorandum of understanding with the Department of Justice, the National Center for Missing and Exploited Children, the Department of Health and Human Services, and the American Red Cross and other relevant private organizations that will enhance the sharing of information to facilitate reuniting displaced individuals (including medical patients) with their families.
 - **(f)** Not later than 270 days after October 4, 2006 , the Administrator shall submit to the appropriate committees of Congress a report describing in detail the status of the National Emergency Family Registry and Locator System, including any difficulties or issues in establishing the System, including funding issues.
+
+## Source Credit
+
+*([Pub. L. 109–295, title VI, § 689c](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1451](https://www.govinfo.gov/link/statute/120/1451).)*

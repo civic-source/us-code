@@ -3,9 +3,10 @@ title: "Section 9685 - Transitional authorities"
 usc_title: 22
 usc_section: "9685"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9685"
-generated_at: "2026-03-30T02:55:05.472Z"
+generated_at: "2026-11-23T21:25:58.785Z"
+status: "active"
 ---
 
 # § 9685. Transitional authorities
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:05.472Z"
   - **(2)** the Corporation shall have all functions—
     - **(A)** relating to the agency that any other official could by law exercise in relation to the agency immediately before such transfer; and
     - **(B)** vested in the Corporation by this chapter or other law.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. F, title VI, § 1465](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3513](https://www.govinfo.gov/link/statute/132/3513).)*

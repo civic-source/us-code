@@ -3,9 +3,10 @@ title: "Section 2401a - Petitions; group eligibility"
 usc_title: 19
 usc_section: "2401a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2401a"
-generated_at: "2026-03-30T02:54:24.672Z"
+generated_at: "2026-11-23T21:25:42.798Z"
+status: "active"
 ---
 
 # § 2401a. Petitions; group eligibility
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:24.672Z"
 - **(e)** In this part:
   - **(1)** The term “qualified year”, with respect to a group of agricultural commodity producers certified as eligible under section 2401b of this title , means each consecutive year after the year in which the group is certified and in which the Secretary makes the determination under subsection (c) or (d), as the case may be.
   - **(2)** In any case in which there are separate classes of goods within an agricultural commodity, the Secretary shall treat each class as a separate commodity in determining group eligibility, the national average price, and level of imports under this section and section 2401e of this title .
+
+## Source Credit
+
+*([Pub. L. 93–618, title II, § 292](https://www.govinfo.gov/link/plaw/93/public/618), as added [Pub. L. 107–210, div. A, title I, § 141(a)](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 947](https://www.govinfo.gov/link/statute/116/947); amended [Pub. L. 111–5, div. B, title I, § 1882(a)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 415](https://www.govinfo.gov/link/statute/123/415); [Pub. L. 112–40, title II, § 201(b)](https://www.govinfo.gov/link/plaw/112/public/40), (c), Oct. 21, 2011, [125 Stat. 403](https://www.govinfo.gov/link/statute/125/403); [Pub. L. 114–27, title IV, § 402(b)](https://www.govinfo.gov/link/plaw/114/public/27), (c), June 29, 2015, [129 Stat. 374](https://www.govinfo.gov/link/statute/129/374).)*

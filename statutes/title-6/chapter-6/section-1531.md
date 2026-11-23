@@ -3,9 +3,10 @@ title: "Section 1531 - Apprehension and prosecution of international cyber crimi
 usc_title: 6
 usc_section: "1531"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1531"
-generated_at: "2026-03-30T02:53:09.511Z"
+generated_at: "2026-11-23T21:25:25.882Z"
+status: "active"
 ---
 
 # § 1531. Apprehension and prosecution of international cyber criminals
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:09.511Z"
   - **(3)** For purposes of this subsection, the term “appropriate congressional committees” means—
     - **(A)** the Committee on Foreign Relations, the Committee on Appropriations, the Committee on Homeland Security and Governmental Affairs, the Committee on Banking, Housing, and Urban Affairs, the Select Committee on Intelligence, and the Committee on the Judiciary of the Senate; and
     - **(B)** the Committee on Foreign Affairs, the Committee on Appropriations, the Committee on Homeland Security, the Committee on Financial Services, the Permanent Select Committee on Intelligence, and the Committee on the Judiciary of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 114–113, div. N, title IV, § 403](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2979](https://www.govinfo.gov/link/statute/129/2979).)*

@@ -3,9 +3,10 @@ title: "Section 1862 - Functions"
 usc_title: 42
 usc_section: "1862"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1862"
-generated_at: "2026-03-30T02:56:11.124Z"
+generated_at: "2026-11-23T21:26:32.199Z"
+status: "active"
 ---
 
 # § 1862. Functions
@@ -25,3 +26,39 @@ generated_at: "2026-03-30T02:56:11.124Z"
 - **(e)** In exercising the authority and discharging the functions referred to in the foregoing subsections, it shall be an objective of the Foundation to strengthen research and education in the sciences and engineering, including independent research by individuals, throughout the United States, and to avoid undue concentration of such research and education.
 - **(f)** The Foundation shall render an annual report to the President for submission on or before the 15th day of April of each year to the Congress summarizing the activities of the Foundation and making such recommendations as it may deem appropriate. Such report shall include information as to the acquisition and disposition by the Foundation of any patents and patent rights.
 - **(g)** In carrying out subsection (a)(4), the Foundation is authorized to foster and support access by the research and education communities to computer networks which may be used substantially for purposes in addition to research and education in the sciences and engineering, if the additional uses will tend to increase the overall capabilities of the networks to support such research and education activities.
+
+Review.—
+
+In general
+
+Issues to be examined
+
+Briefing
+
+Study
+
+Report
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*(May 10, 1950, ch. 171, § 3, [64 Stat. 149](https://www.govinfo.gov/link/statute/64/149); [Pub. L. 85–510, § 1](https://www.govinfo.gov/link/plaw/85/public/510), July 11, 1958, [72 Stat. 353](https://www.govinfo.gov/link/statute/72/353); [Pub. L. 86–232, § 1](https://www.govinfo.gov/link/plaw/86/public/232), Sept. 8, 1959, [73 Stat. 467](https://www.govinfo.gov/link/statute/73/467); [Pub. L. 90–407, § 1](https://www.govinfo.gov/link/plaw/90/public/407), July 18, 1968, [82 Stat. 360](https://www.govinfo.gov/link/statute/82/360); [Pub. L. 92–372, § 8](https://www.govinfo.gov/link/plaw/92/public/372), Aug. 10, 1972, [86 Stat. 528](https://www.govinfo.gov/link/statute/86/528); [Pub. L. 92–484, § 10(b)](https://www.govinfo.gov/link/plaw/92/public/484), Oct. 13, 1972, [86 Stat. 802](https://www.govinfo.gov/link/statute/86/802); [Pub. L. 94–273, § 11(3)](https://www.govinfo.gov/link/plaw/94/public/273), Apr. 21, 1976, [90 Stat. 378](https://www.govinfo.gov/link/statute/90/378); [Pub. L. 95–99, § 12(a)](https://www.govinfo.gov/link/plaw/95/public/99), formerly § 14(a), Aug. 15, 1977, [91 Stat. 835](https://www.govinfo.gov/link/statute/91/835), renumbered § 12(a), [Pub. L. 99–159, title I, § 109(h)](https://www.govinfo.gov/link/plaw/99/public/159), Nov. 22, 1985, [99 Stat. 890](https://www.govinfo.gov/link/statute/99/890); [Pub. L. 99–159, title I](https://www.govinfo.gov/link/plaw/99/public/159), §§ 109(e)(2), 110(a)(1)–(11), Nov. 22, 1985, [99 Stat. 890](https://www.govinfo.gov/link/statute/99/890), 891; [Pub. L. 99–383, § 7(a)](https://www.govinfo.gov/link/plaw/99/public/383), Aug. 21, 1986, [100 Stat. 814](https://www.govinfo.gov/link/statute/100/814); [Pub. L. 102–476, § 4](https://www.govinfo.gov/link/plaw/102/public/476), Oct. 23, 1992, [106 Stat. 2300](https://www.govinfo.gov/link/statute/106/2300); [Pub. L. 102–588, title II, § 217](https://www.govinfo.gov/link/plaw/102/public/588), Nov. 4, 1992, [106 Stat. 5117](https://www.govinfo.gov/link/statute/106/5117); [Pub. L. 105–207, title II, § 202(e)](https://www.govinfo.gov/link/plaw/105/public/207), July 29, 1998, [112 Stat. 875](https://www.govinfo.gov/link/statute/112/875); [Pub. L. 107–305, § 7](https://www.govinfo.gov/link/plaw/107/public/305), Nov. 27, 2002, [116 Stat. 2375](https://www.govinfo.gov/link/statute/116/2375).)*

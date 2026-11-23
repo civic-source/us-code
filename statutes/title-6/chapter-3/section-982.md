@@ -3,9 +3,10 @@ title: "Section 982 - Screening and scanning of cargo containers"
 usc_title: 6
 usc_section: "982"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 982"
-generated_at: "2026-03-30T02:53:09.502Z"
+generated_at: "2026-11-23T21:25:25.860Z"
+status: "active"
 ---
 
 # § 982. Screening and scanning of cargo containers
@@ -38,3 +39,23 @@ generated_at: "2026-03-30T02:53:09.502Z"
     - **(C)** coordinate with other Federal agencies that administer scanning or detection programs at foreign ports.
   - **(9)** In carrying out this subsection, the Secretary shall consult with appropriate Federal departments and agencies and private sector stakeholders, and ensure that actions under this section do not violate international trade obligations, and are consistent with the World Customs Organization framework, or other international obligations of the United States.
 - **(c)** Not later than 6 months after the submission of a report under section 981(d) of this title , and every 6 months thereafter, the Secretary shall submit a report to the appropriate congressional committees describing the status of full-scale deployment under subsection (b) and the cost of deploying the system at each foreign port at which the integrated scanning systems are deployed.
+
+Designations.—
+
+In general
+
+Evaluation
+
+Pilot Program.—
+
+Establishment
+
+Application process
+
+Report
+
+Sharing pilot program testing results
+
+## Source Credit
+
+*([Pub. L. 109–347, title II, § 232](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1916](https://www.govinfo.gov/link/statute/120/1916); [Pub. L. 110–53, title XVII, § 1701(a)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 489](https://www.govinfo.gov/link/statute/121/489).)*

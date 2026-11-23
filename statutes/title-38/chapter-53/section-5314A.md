@@ -3,9 +3,10 @@ title: "Section 5314A - Dispute of indebtedness"
 usc_title: 38
 usc_section: "5314A"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 5314A"
-generated_at: "2026-03-30T02:55:53.521Z"
+generated_at: "2026-11-23T21:26:16.821Z"
+status: "active"
 ---
 
 # § 5314A. Dispute of indebtedness
@@ -15,3 +16,21 @@ generated_at: "2026-03-30T02:55:53.521Z"
 - **(c)** The Secretary shall ensure that each dispute under subsection (a) proceeds in accordance with standards for timeliness prescribed by the Secretary under this section.
 - **(d)** The Secretary may not submit to any debt collector (as defined in section 803 of the Fair Debt Collection Practices Act ( 15 U.S.C. 1692a )) any dispute pending under this section.
 - **(e)** Nothing in this section shall be construed to modify the procedures for seeking review of a decision of the agency of original jurisdiction described in section 5104C(a)(1) of this title .
+
+Establishment
+
+Standards
+
+Timeliness
+
+Limitation
+
+Rule of Construction
+
+Existing administrative process
+
+Improvements to department website and notices
+
+## Source Credit
+
+*(Added [Pub. L. 117–328, div. U, title II, § 255(b)(1)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5464](https://www.govinfo.gov/link/statute/136/5464).)*

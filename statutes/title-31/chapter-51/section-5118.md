@@ -3,9 +3,10 @@ title: "Section 5118 - Gold clauses and consent to sue"
 usc_title: 31
 usc_section: "5118"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 5118"
-generated_at: "2026-03-30T02:55:34.065Z"
+generated_at: "2026-11-23T21:26:10.610Z"
+status: "active"
 ---
 
 # § 5118. Gold clauses and consent to sue
@@ -27,3 +28,46 @@ generated_at: "2026-03-30T02:55:34.065Z"
 - **(d)**
   - **(1)** In this subsection, “obligation” means any obligation (except United States currency) payable in United States money.
   - **(2)** An obligation issued containing a gold clause or governed by a gold clause is discharged on payment (dollar for dollar) in United States coin or currency that is legal tender at the time of payment. This paragraph does not apply to an obligation issued after October 27, 1977 .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5118(a) | 31:773d. | Aug. 27, 1935, ch. 780 , 49 Stat. 938 . |
+| 5118(b) | 31:315b. | Jan. 30, 1934, ch. 6, § 5 , 48 Stat. 340 . |
+|  | 31:773a. |  |
+| 5118(c)(1), (2) | 31:773b. |  |
+| 5118(c)(3) | 31:773c. |  |
+| 5118(d) | 31:463. | June 5, 1933, ch. 48, § 1 , 48 Stat. 113 . |
+|  | 31:463(note). | Oct. 28, 1977 , Pub. L. 95–147, § 4(c) , 91 Stat. 1229 . |
+
+
+Historical and Revision Notes
+
+5118(a)
+
+Aug. 27, 1935, ch. 780
+
+49 Stat. 938
+
+5118(b)
+
+Jan. 30, 1934, ch. 6, § 5
+
+48 Stat. 340
+
+5118(c)(3)
+
+5118(d)
+
+June 5, 1933, ch. 48, § 1
+
+48 Stat. 113
+
+Oct. 28, 1977
+
+Pub. L. 95–147, § 4(c)
+
+91 Stat. 1229
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 985](https://www.govinfo.gov/link/statute/96/985); [Pub. L. 99–185, § 2(d)](https://www.govinfo.gov/link/plaw/99/public/185), Dec. 17, 1985, [99 Stat. 1178](https://www.govinfo.gov/link/statute/99/1178); [Pub. L. 104–208, div. A, title II, § 2609](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–475](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 105–61, title VI, § 641](https://www.govinfo.gov/link/plaw/105/public/61), Oct. 10, 1997, [111 Stat. 1318](https://www.govinfo.gov/link/statute/111/1318).)*

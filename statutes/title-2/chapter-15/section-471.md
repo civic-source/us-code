@@ -3,9 +3,10 @@ title: "Section 471 - Congressional findings and declaration of purpose"
 usc_title: 2
 usc_section: "471"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 471"
-generated_at: "2026-03-30T02:53:04.797Z"
+generated_at: "2026-11-23T21:25:21.163Z"
+status: "active"
 ---
 
 # § 471. Congressional findings and declaration of purpose
@@ -22,3 +23,7 @@ The Congress hereby finds and declares that:
 - **(d)** Accordingly, it is necessary for the Congress to—
   - **(1)** equip itself with new and effective means for securing competent, unbiased information concerning the physical, biological, economic, social, and political effects of such applications; and
   - **(2)** utilize this information, whenever appropriate, as one factor in the legislative assessment of matters pending before the Congress, particularly in those instances where the Federal Government may be called upon to consider support for, or management or regulation of, technological applications.
+
+## Source Credit
+
+*([Pub. L. 92–484, § 2](https://www.govinfo.gov/link/plaw/92/public/484), Oct. 13, 1972, [86 Stat. 797](https://www.govinfo.gov/link/statute/86/797).)*

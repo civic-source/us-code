@@ -3,9 +3,10 @@ title: "Section 18071 - Reduced cost-sharing for individuals enrolling in qualif
 usc_title: 42
 usc_section: "18071"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18071"
-generated_at: "2026-03-30T02:56:11.515Z"
+generated_at: "2026-11-23T21:26:33.813Z"
+status: "active"
 ---
 
 # § 18071. Reduced cost-sharing for individuals enrolling in qualified health plans
@@ -63,3 +64,11 @@ generated_at: "2026-03-30T02:56:11.515Z"
   - **(1)** Any term used in this section which is also used in section 36B of title 26 shall have the meaning given such term by such section.
   - **(2)** No cost-sharing reduction shall be allowed under this section with respect to coverage for any month unless the month is a coverage month with respect to which a credit is allowed to the insured (or an applicable taxpayer on behalf of the insured) under section 36B of such title.
   - **(3)** Any determination under this section shall be made on the basis of the taxable year for which the advance determination is made under section 18082 of this title and not the taxable year for which the credit under section 36B of title 26 is allowed.
+
+(aa) the numerator of which is the poverty line for the taxpayer’s family size determined after application of subclause (I), and
+
+(bb) the denominator of which is the poverty line for the taxpayer’s family size determined without regard to subclause (I).
+
+## Source Credit
+
+*([Pub. L. 111–148, title I, § 1402](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 220](https://www.govinfo.gov/link/statute/124/220); [Pub. L. 111–152, title I, § 1001(b)](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1031](https://www.govinfo.gov/link/statute/124/1031); [Pub. L. 117–2, title II, § 2305(a)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 39](https://www.govinfo.gov/link/statute/135/39).)*

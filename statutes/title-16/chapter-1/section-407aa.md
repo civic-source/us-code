@@ -3,9 +3,10 @@ title: "Section 407aa - Findings and purposes"
 usc_title: 16
 usc_section: "407aa"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 407aa"
-generated_at: "2026-03-30T02:54:22.758Z"
+generated_at: "2026-11-23T21:25:51.430Z"
+status: "active"
 ---
 
 # § 407aa. Findings and purposes
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:22.758Z"
   - **(1)** the necessary resources to develop a national resource center to undertake, on an ongoing basis, educational programs on the Constitution;
   - **(2)** exhibits of, and an archives for, programs on or related to the recent bicentennial of the United States Constitution; and
   - **(3)** interpretation of the United States Constitution at those units of the National Park System particularly relevant to its history.
+
+## Source Credit
+
+*([Pub. L. 100–433, § 2](https://www.govinfo.gov/link/plaw/100/public/433), Sept. 16, 1988, [102 Stat. 1640](https://www.govinfo.gov/link/statute/102/1640).)*

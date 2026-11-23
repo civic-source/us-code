@@ -3,9 +3,10 @@ title: "Section 333 - Prohibition of misuse of Department of the Treasury names,
 usc_title: 31
 usc_section: "333"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 333"
-generated_at: "2026-03-30T02:55:34.046Z"
+generated_at: "2026-11-23T21:26:10.522Z"
+status: "active"
 ---
 
 # § 333. Prohibition of misuse of Department of the Treasury names, symbols, etc.
@@ -29,3 +30,37 @@ generated_at: "2026-03-30T02:55:34.046Z"
   - **(1)** If any person knowingly violates subsection (a), such person shall, upon conviction thereof, be fined not more than $10,000 for each such use or imprisoned not more than 1 year, or both. If such use is in a broadcast or telecast, the preceding sentence shall be applied by substituting “$50,000” for “$10,000”.
   - **(2)** No person may be prosecuted, tried, or punished under paragraph (1) for any violation of subsection (a) unless the indictment is found or the information instituted during the 3-year period beginning on the date of the violation.
   - **(3)** No criminal proceeding may be commenced under this subsection with respect to any violation if a civil penalty has previously been assessed under subsection (c) with respect to such violation.
+
+General Rule
+
+Treatment of Disclaimers
+
+Civil Penalty.—
+
+In general
+
+Amount of penalty
+
+Time limitations.—
+
+Assessments
+
+Civil action
+
+Coordination with subsection
+
+Criminal Penalty.—
+
+In general
+
+Time limitations
+
+Coordination with subsection
+
+In general
+
+Prohibition of misuse of department of the treasury names, symbols, etc
+
+## Source Credit
+
+*(Added [Pub. L. 103–296, title III, § 312](https://www.govinfo.gov/link/plaw/103/public/296) (l)(1), Aug. 15, 1994, [108 Stat. 1528](https://www.govinfo.gov/link/statute/108/1528).)*

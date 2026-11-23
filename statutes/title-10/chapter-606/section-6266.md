@@ -3,9 +3,10 @@ title: "Section 6266 - Notification of nuclear criticality and non-nuclear incid
 usc_title: 10
 usc_section: "6266"
 chapter: 606
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6266"
-generated_at: "2026-03-30T02:53:38.225Z"
+generated_at: "2026-11-23T21:25:32.825Z"
+status: "active"
 ---
 
 # § 6266. Notification of nuclear criticality and non-nuclear incidents
@@ -32,3 +33,17 @@ generated_at: "2026-03-30T02:53:38.225Z"
   - **(3)** The term “covered program” means—
     - **(A)** programs of the Administration; and
     - **(B)** defense environmental cleanup programs of the Office of Environmental Management of the Department of Energy.
+
+Notification
+
+Elements of Notification
+
+Database
+
+Cooperation
+
+Definitions
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2)(B), Dec. 18, 2025, [139 Stat. 1424](https://www.govinfo.gov/link/statute/139/1424), 1462.)*

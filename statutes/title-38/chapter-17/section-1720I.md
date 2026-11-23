@@ -3,9 +3,10 @@ title: "Section 1720I - Mental and behavioral health care for certain former mem
 usc_title: 38
 usc_section: "1720I"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1720I"
-generated_at: "2026-03-30T02:55:53.485Z"
+generated_at: "2026-11-23T21:26:16.653Z"
+status: "active"
 ---
 
 # § 1720I. Mental and behavioral health care for certain former members of the Armed Forces
@@ -55,3 +56,19 @@ generated_at: "2026-03-30T02:55:53.485Z"
       - **(iv)** geographic location.
     - **(E)** The average number of visits for an individual for mental or behavioral health care under this section.
     - **(F)** Such other information as the Secretary considers appropriate.
+
+In General
+
+Eligible Individuals
+
+Non-Department Care
+
+Setting and Referrals
+
+Information
+
+Annual Reports
+
+## Source Credit
+
+*(Added [Pub. L. 115–141, div. J, title II, § 258(a)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 826](https://www.govinfo.gov/link/statute/132/826), § 1712I; renumbered § 1720I, [Pub. L. 115–182, title V, § 511](https://www.govinfo.gov/link/plaw/115/public/182), June 6, 2018, [132 Stat. 1481](https://www.govinfo.gov/link/statute/132/1481); amended [Pub. L. 115–251, title II, § 205](https://www.govinfo.gov/link/plaw/115/public/251), Sept. 29, 2018, [132 Stat. 3173](https://www.govinfo.gov/link/statute/132/3173); [Pub. L. 116–171, title I, § 104](https://www.govinfo.gov/link/plaw/116/public/171), Oct. 17, 2020, [134 Stat. 782](https://www.govinfo.gov/link/statute/134/782); [Pub. L. 116–283, div. A, title IX, § 926(a)(29)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3830](https://www.govinfo.gov/link/statute/134/3830).)*

@@ -3,9 +3,10 @@ title: "Section 4112 - Performance incentive awards for quality employment, trai
 usc_title: 38
 usc_section: "4112"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 4112"
-generated_at: "2026-03-30T02:55:53.516Z"
+generated_at: "2026-11-23T21:26:16.795Z"
+status: "active"
 ---
 
 # § 4112. Performance incentive awards for quality employment, training, and placement services
@@ -24,3 +25,15 @@ generated_at: "2026-03-30T02:55:53.516Z"
   - **(1)** A disabled veterans’ outreach program specialist.
   - **(2)** A local veterans’ employment representative.
   - **(3)** An individual providing employment, training, and placement services to veterans under the Workforce Investment Act of 1998 1 or through an employment service delivery system (as defined in section 4101(7) of this title ).
+
+Criteria for Performance Incentive Awards
+
+Form of Awards
+
+Administration and Use of Awards
+
+Eligible Employee Defined
+
+## Source Credit
+
+*(Added [Pub. L. 107–288, § 3(a)](https://www.govinfo.gov/link/plaw/107/public/288), Nov. 7, 2002, [116 Stat. 2037](https://www.govinfo.gov/link/statute/116/2037); amended [Pub. L. 109–461, title VI, § 603](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3437](https://www.govinfo.gov/link/statute/120/3437).)*

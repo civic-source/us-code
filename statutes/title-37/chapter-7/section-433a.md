@@ -3,9 +3,10 @@ title: "Section 433a - Allowance for participation in Ready Reserve screening"
 usc_title: 37
 usc_section: "433a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 433a"
-generated_at: "2026-03-30T02:55:44.058Z"
+generated_at: "2026-11-23T21:26:14.240Z"
+status: "active"
 ---
 
 # § 433a. Allowance for participation in Ready Reserve screening
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:55:44.058Z"
 - **(c)**
   - **(1)** The stipend authorized by this section may not be disbursed in kind.
   - **(2)** Payment of a stipend to a member of the Individual Ready Reserve under this section for participation in screening shall be made on or after the date of participation in such screening, but not later than 30 days after such date.
+
+Allowance Authorized
+
+Maximum Payment
+
+Payment Requirements
+
+## Source Credit
+
+*(Added [Pub. L. 110–181, div. A, title VI, § 633(a)(1)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 154](https://www.govinfo.gov/link/statute/122/154).)*

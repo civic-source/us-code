@@ -3,9 +3,10 @@ title: "Section 1675 - Administrative review of determinations"
 usc_title: 19
 usc_section: "1675"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1675"
-generated_at: "2026-03-30T02:54:24.653Z"
+generated_at: "2026-11-23T21:25:42.746Z"
+status: "active"
 ---
 
 # § 1675. Administrative review of determinations
@@ -116,3 +117,7 @@ generated_at: "2026-03-30T02:54:24.653Z"
     - **(B)** a WTO member country has withdrawn a countervailable subsidy provided with respect to merchandise subject to a countervailing duty order,
   - **(3)** The administering authority shall conduct reviews under this subsection on an expedited basis, and shall publish the results of such reviews in the Federal Register.
 - **(h)** The administering authority shall establish procedures for the correction of ministerial errors in final determinations within a reasonable time after the determinations are issued under this section. Such procedures shall ensure opportunity for interested parties to present their views regarding any such errors. As used in this subsection, the term “ministerial error” includes errors in addition, subtraction, or other arithmetic function, clerical errors resulting from inaccurate copying, duplication, or the like, and any other type of unintentional error which the administering authority considers ministerial.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VII, § 751, as added [Pub. L. 96–39, title I, § 101](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 175](https://www.govinfo.gov/link/statute/93/175); amended [Pub. L. 98–573, title VI, § 611(a)(2)](https://www.govinfo.gov/link/plaw/98/public/573), (3), Oct. 30, 1984, [98 Stat. 3031](https://www.govinfo.gov/link/statute/98/3031); [Pub. L. 99–514, title XVIII, § 1886(a)(8)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2922](https://www.govinfo.gov/link/statute/100/2922); [Pub. L. 100–418, title I, § 1333(b)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1209](https://www.govinfo.gov/link/statute/102/1209); [Pub. L. 103–465, title II](https://www.govinfo.gov/link/plaw/103/public/465), §§ 220(a), 283(c), Dec. 8, 1994, [108 Stat. 4857](https://www.govinfo.gov/link/statute/108/4857), 4930; [Pub. L. 106–36, title II, § 2410](https://www.govinfo.gov/link/plaw/106/public/36), June 25, 1999, [113 Stat. 171](https://www.govinfo.gov/link/statute/113/171); [Pub. L. 114–125, title IV, § 433](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 171](https://www.govinfo.gov/link/statute/130/171).)*

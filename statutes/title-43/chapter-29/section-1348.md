@@ -3,9 +3,10 @@ title: "Section 1348 - Enforcement of safety and environmental regulations"
 usc_title: 43
 usc_section: "1348"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1348"
-generated_at: "2026-03-30T02:55:57.471Z"
+generated_at: "2026-11-23T21:26:19.833Z"
+status: "active"
 ---
 
 # § 1348. Enforcement of safety and environmental regulations
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:57.471Z"
   - **(2)** The Secretary or the Secretary of the Department in which the Coast Guard is operating shall make an investigation and public report on any death or serious injury occurring as a result of operations conducted pursuant to this subchapter, and may, in his discretion, make an investigation and report of any injury. For purposes of this subsection, a serious injury is one resulting in substantial impairment of any bodily unit or function. All holders of leases or permits issued or maintained under this subchapter shall cooperate with the appropriate Secretary in the course of any such investigation.
 - **(e)** The Secretary, or, in the case of occupational safety and health, the Secretary of the Department in which the Coast Guard is operating, may review any allegation from any person of the existence of a violation of a safety regulation issued under this subchapter.
 - **(f)** In any investigation conducted pursuant to this section, the Secretary or the Secretary of the Department in which the Coast Guard is operating shall have power to summon witnesses and to require the production of books, papers, documents, and any other evidence. Attendance of witnesses or the production of books, papers, documents, or any other evidence shall be compelled by a similar process, as in the district courts of the United States. Such Secretary, or his designee, shall administer all necessary oaths to any witnesses summoned before such investigation.
+
+## Source Credit
+
+*(Aug. 7, 1953, ch. 345, § 22, as added [Pub. L. 95–372, title II, § 208](https://www.govinfo.gov/link/plaw/95/public/372), Sept. 18, 1978, [92 Stat. 655](https://www.govinfo.gov/link/statute/92/655); amended [Pub. L. 105–362, title IX, § 901](https://www.govinfo.gov/link/plaw/105/public/362) (l)(2), Nov. 10, 1998, [112 Stat. 3290](https://www.govinfo.gov/link/statute/112/3290).)*

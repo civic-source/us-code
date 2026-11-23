@@ -3,9 +3,10 @@ title: "Section 5723 - Responsibilities"
 usc_title: 38
 usc_section: "5723"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 5723"
-generated_at: "2026-03-30T02:55:53.522Z"
+generated_at: "2026-11-23T21:26:16.825Z"
+status: "active"
 ---
 
 # § 5723. Responsibilities
@@ -69,3 +70,21 @@ generated_at: "2026-03-30T02:55:53.522Z"
   - **(1)** Conducting an annual audit of the Department information security program.
   - **(2)** Submitting an independent annual report to the Office of Management and Budget on the status of the Department information security program, based on the results of the annual audit.
   - **(3)** Conducting investigations of complaints and referrals of violations as considered appropriate by the Inspector General.
+
+Secretary of Veterans Affairs
+
+Assistant Secretary for Information and Technology
+
+Associate Deputy Assistant Secretary for Cyber and Information Security
+
+Department Information Owners
+
+Other Key Officials
+
+Users of Department Information and Information Systems
+
+Inspector General of Department of Veterans Affairs
+
+## Source Credit
+
+*(Added [Pub. L. 109–461, title IX, § 902(a)](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3451](https://www.govinfo.gov/link/statute/120/3451); amended [Pub. L. 111–275, title X, § 1001(m)(1)](https://www.govinfo.gov/link/plaw/111/public/275), Oct. 13, 2010, [124 Stat. 2897](https://www.govinfo.gov/link/statute/124/2897).)*

@@ -3,9 +3,10 @@ title: "Section 2602 - Definitions"
 usc_title: 12
 usc_section: "2602"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2602"
-generated_at: "2026-03-30T02:53:53.485Z"
+generated_at: "2026-11-23T21:25:37.102Z"
+status: "active"
 ---
 
 # § 2602. Definitions
@@ -27,3 +28,7 @@ For purposes of this chapter—
   - **(7)** the term “affiliated business arrangement” means an arrangement in which (A) a person who is in a position to refer business incident to or a part of a real estate settlement service involving a federally related mortgage loan, or an associate of such person, has either an affiliate relationship with or a direct or beneficial ownership interest of more than 1 percent in a provider of settlement services; and (B) either of such persons directly or indirectly refers such business to that provider or affirmatively influences the selection of that provider;
   - **(8)** the term “associate” means one who has one or more of the following relationships with a person in a position to refer settlement business: (A) a spouse, parent, or child of such person; (B) a corporation or business entity that controls, is controlled by, or is under common control with such person; (C) an employer, officer, director, partner, franchisor, or franchisee of such person; or (D) anyone who has an agreement, arrangement, or understanding, with such person, the purpose or substantial effect of which is to enable the person in a position to refer settlement business to benefit financially from the referrals of such business; and
   - **(9)** the term “Bureau” means the Bureau of Consumer Financial Protection.
+
+## Source Credit
+
+*([Pub. L. 93–533, § 3](https://www.govinfo.gov/link/plaw/93/public/533), Dec. 22, 1974, [88 Stat. 1724](https://www.govinfo.gov/link/statute/88/1724); [Pub. L. 94–205, § 2](https://www.govinfo.gov/link/plaw/94/public/205), Jan. 2, 1976, [89 Stat. 1157](https://www.govinfo.gov/link/statute/89/1157); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title IV, § 461(a)], Nov. 30, 1983, [97 Stat. 1230](https://www.govinfo.gov/link/statute/97/1230); [Pub. L. 102–550, title IX, § 908(a)](https://www.govinfo.gov/link/plaw/102/public/550), (b), Oct. 28, 1992, [106 Stat. 3873](https://www.govinfo.gov/link/statute/106/3873), 3874; [Pub. L. 104–208, div. A, title II, § 2103(c)(1)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–400](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 111–203, title X, § 1098(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2103](https://www.govinfo.gov/link/statute/124/2103).)*

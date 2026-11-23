@@ -3,9 +3,10 @@ title: "Section 951 - Aircraft accident investigations"
 usc_title: 14
 usc_section: "951"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 951"
-generated_at: "2026-03-30T02:53:51.492Z"
+generated_at: "2026-11-23T21:25:35.392Z"
+status: "active"
 ---
 
 # § 951. Aircraft accident investigations
@@ -26,3 +27,23 @@ generated_at: "2026-03-30T02:53:51.492Z"
 - **(e)** For purposes of this section—
   - **(1)** the term “accident investigation” means any form of investigation by Coast Guard personnel of an aircraft accident referred to in subsection (a), other than a safety investigation; and
   - **(2)** the term “safety investigation” means an investigation by Coast Guard personnel of an aircraft accident referred to in subsection (a) that is conducted solely to determine the cause of the accident and to obtain information that may prevent the occurrence of similar accidents.
+
+In General
+
+Public Disclosure of Certain Accident Investigation Information.—
+
+In general
+
+Conditions
+
+Restriction
+
+Opinions Regarding Causation of Accident
+
+Use of Information in Civil or Criminal Proceedings
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 112–213, title II, § 214(a)](https://www.govinfo.gov/link/plaw/112/public/213), Dec. 20, 2012, [126 Stat. 1553](https://www.govinfo.gov/link/statute/126/1553), § 678; amended [Pub. L. 115–232, div. C, title XXXV, § 3531(c)(5)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2320](https://www.govinfo.gov/link/statute/132/2320); renumbered § 951, [Pub. L. 115–282, title I, § 107(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4205](https://www.govinfo.gov/link/statute/132/4205).)*

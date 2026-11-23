@@ -3,9 +3,10 @@ title: "Section 1706 - Savings provisions"
 usc_title: 50
 usc_section: "1706"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1706"
-generated_at: "2026-03-30T02:56:26.207Z"
+generated_at: "2026-11-23T21:26:38.931Z"
+status: "active"
 ---
 
 # § 1706. Savings provisions
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:26.207Z"
   - **(1)** The provisions of this section are supplemental to the savings provisions of paragraphs (1), (2), and (3) of section 101(a) [ 50 U.S.C. 1601(a)(1) , (2), (3)] and of paragraphs (A), (B), and (C) of section 202(a) [ 50 U.S.C. 1622(a)(A) , (B), and (C)] of the National Emergencies Act.
   - **(2)** The provisions of this section supersede the termination provisions of section 101(a) [ 50 U.S.C. 1601(a) ] and of title II [ 50 U.S.C. 1621 et seq.] of the National Emergencies Act to the extent that the provisions of this section are inconsistent with these provisions.
 - **(d)** If the President uses the authority of this section to continue prohibitions on transactions involving foreign property interests, he shall report to the Congress every six months on the use of such authority.
+
+## Source Credit
+
+*([Pub. L. 95–223, title II, § 207](https://www.govinfo.gov/link/plaw/95/public/223), Dec. 28, 1977, [91 Stat. 1628](https://www.govinfo.gov/link/statute/91/1628).)*

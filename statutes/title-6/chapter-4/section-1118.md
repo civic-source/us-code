@@ -3,9 +3,10 @@ title: "Section 1118 - Biometrics expansion"
 usc_title: 6
 usc_section: "1118"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1118"
-generated_at: "2026-03-30T02:53:09.504Z"
+generated_at: "2026-11-23T21:25:25.864Z"
+status: "active"
 ---
 
 # § 1118. Biometrics expansion
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:53:09.504Z"
       - **(ii)** specific actions that the Department and other relevant Federal departments and agencies take to safeguard such data; and
       - **(iii)** a short-term goal for the prompt deletion of the data of individual United States citizens after such data is used to verify traveler identities.
 - **(d)** The Secretary, the Administrator, and the Commissioner shall, if practicable, publish a public version of the assessment required by subsection (c)(2) on the Internet website of the TSA and of the U.S. Customs and Border Protection.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. K, title I, § 1919](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3559](https://www.govinfo.gov/link/statute/132/3559).)*

@@ -3,9 +3,10 @@ title: "Section 12639 - Evaluation"
 usc_title: 42
 usc_section: "12639"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12639"
-generated_at: "2026-03-30T02:56:11.422Z"
+generated_at: "2026-11-23T21:26:33.512Z"
+status: "active"
 ---
 
 # § 12639. Evaluation
@@ -75,3 +76,7 @@ generated_at: "2026-03-30T02:56:11.422Z"
   - **(3)** recipients for which the Corporation terminates assistance for a program under subsection (m);
   - **(4)** entities whose application for assistance under a national service law was rejected; and
   - **(5)** recipients meeting or exceeding their performance levels under subsection (k).
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 179](https://www.govinfo.gov/link/plaw/101/public/610), Nov. 16, 1990, [104 Stat. 3164](https://www.govinfo.gov/link/statute/104/3164); [Pub. L. 102–384](https://www.govinfo.gov/link/plaw/102/public/384), §§ 4, 9, Oct. 5, 1992, [106 Stat. 1455](https://www.govinfo.gov/link/statute/106/1455), 1456; [Pub. L. 103–82, title I, § 118](https://www.govinfo.gov/link/plaw/103/public/82), title II, § 203(a)(1)(A), title IV, § 402(b)(1), Sept. 21, 1993, [107 Stat. 865](https://www.govinfo.gov/link/statute/107/865), 891, 918; [Pub. L. 103–160, div. A, title XI, § 1182(d)(4)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1773](https://www.govinfo.gov/link/statute/107/1773); [Pub. L. 104–106, div. A, title XV, § 1501(e)(5)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 501](https://www.govinfo.gov/link/statute/110/501); [Pub. L. 111–13, title I, § 1607](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1532](https://www.govinfo.gov/link/statute/123/1532).)*

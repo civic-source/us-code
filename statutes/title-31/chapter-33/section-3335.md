@@ -3,9 +3,10 @@ title: "Section 3335 - Timely disbursement of Federal funds"
 usc_title: 31
 usc_section: "3335"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 3335"
-generated_at: "2026-03-30T02:55:34.055Z"
+generated_at: "2026-11-23T21:26:10.572Z"
+status: "active"
 ---
 
 # § 3335. Timely disbursement of Federal funds
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:34.055Z"
 - **(d)** Any charge assessed by the Secretary under this section, to the maximum extent practicable—
   - **(1)** shall be paid out of appropriations available for executive agency operations; and
   - **(2)** shall not be paid from amounts available for funding programs of an executive agency.
+
+## Source Credit
+
+*(Added [Pub. L. 101–453, § 4(a)](https://www.govinfo.gov/link/plaw/101/public/453), Oct. 24, 1990, [104 Stat. 1058](https://www.govinfo.gov/link/statute/104/1058).)*

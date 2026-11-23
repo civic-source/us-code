@@ -3,9 +3,10 @@ title: "Section 11279 - Definitions"
 usc_title: 34
 usc_section: "11279"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 11279"
-generated_at: "2026-03-30T02:55:33.280Z"
+generated_at: "2026-11-23T21:26:09.710Z"
+status: "active"
 ---
 
 # § 11279. Definitions
@@ -60,3 +61,7 @@ In this subchapter:
       - **(i)** who has a history of running away from the family of such individual;
       - **(ii)** whose parent, guardian, or custodian is not willing to provide for the basic needs of such individual; or
       - **(iii)** who is at risk of entering the child welfare system or juvenile justice system as a result of the lack of services available to the family to meet such needs.
+
+## Source Credit
+
+*([Pub. L. 93–415, title III, § 387](https://www.govinfo.gov/link/plaw/93/public/415), as added [Pub. L. 106–71, § 3(p)](https://www.govinfo.gov/link/plaw/106/public/71), Oct. 12, 1999, [113 Stat. 1041](https://www.govinfo.gov/link/statute/113/1041); amended [Pub. L. 108–96, title I, § 116](https://www.govinfo.gov/link/plaw/108/public/96), Oct. 10, 2003, [117 Stat. 1170](https://www.govinfo.gov/link/statute/117/1170); [Pub. L. 110–378, § 10](https://www.govinfo.gov/link/plaw/110/public/378), Oct. 8, 2008, [122 Stat. 4072](https://www.govinfo.gov/link/statute/122/4072).)*

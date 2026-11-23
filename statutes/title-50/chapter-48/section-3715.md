@@ -3,9 +3,10 @@ title: "Section 3715 - Use of contributions to Department of Defense Cooperative
 usc_title: 50
 usc_section: "3715"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3715"
-generated_at: "2026-03-30T02:56:26.260Z"
+generated_at: "2026-11-23T21:26:39.066Z"
+status: "active"
 ---
 
 # § 3715. Use of contributions to Department of Defense Cooperative Threat Reduction Program
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:26.260Z"
 - **(f)** In this section, the term “appropriate congressional committees” means the following:
   - **(1)** The congressional defense committees.
   - **(2)** The Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
+
+## Source Credit
+
+*([Pub. L. 113–291, div. A, title XIII, § 1325](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3600](https://www.govinfo.gov/link/statute/128/3600); [Pub. L. 115–91, div. A, title X, § 1051(t)(6)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1566](https://www.govinfo.gov/link/statute/131/1566).)*

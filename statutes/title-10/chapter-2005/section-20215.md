@@ -3,9 +3,10 @@ title: "Section 20215 - Recommendations for promotion by selection boards"
 usc_title: 10
 usc_section: "20215"
 chapter: 2005
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 20215"
-generated_at: "2026-03-30T02:53:38.280Z"
+generated_at: "2026-11-23T21:25:33.085Z"
+status: "active"
 ---
 
 # § 20215. Recommendations for promotion by selection boards
@@ -25,3 +26,21 @@ generated_at: "2026-03-30T02:53:38.280Z"
   - **(1)** In selecting the officers to be recommended for promotion, a selection board shall, when authorized by the Secretary of the Air Force, recommend officers of particular merit, pursuant to guidelines and procedures prescribed by the Secretary, from among those officers selected for promotion, to be placed higher on the promotion list established by the Secretary under section 624(a)(1) of this title .
   - **(2)** An officer may be recommended to be placed higher on a promotion list under paragraph (1) only if the officer receives the recommendation of at least a majority of the members of the board, unless the Secretary of the Air Force establishes an alternative requirement. Any such alternative requirement shall be furnished to the board as part of the guidelines furnished to the board under section 615 of this title .
   - **(3)** For the officers recommended to be placed higher on a promotion list under paragraph (1), the board shall recommend, pursuant to guidelines and procedures prescribed by the Secretary, the order in which those officers should be placed on the list.
+
+Board to Recommend Officers Best Qualified for Promotion
+
+Number to Be Recommended
+
+Board Procedures for Recommendations; Limitations
+
+Limitation on Promotions Under Other Authority
+
+Disclosure of Board Recommendations
+
+Prohibition on Attempting to Influence Members of a Board
+
+Higher Placement on Promotion List of Officer of Particular Merit
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVII, § 1716(c)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 636](https://www.govinfo.gov/link/statute/137/636).)*

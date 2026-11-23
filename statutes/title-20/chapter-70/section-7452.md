@@ -3,9 +3,10 @@ title: "Section 7452 - Grants to tribes for education administrative planning, d
 usc_title: 20
 usc_section: "7452"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7452"
-generated_at: "2026-03-30T02:54:48.213Z"
+generated_at: "2026-11-23T21:25:47.585Z"
+status: "active"
 ---
 
 # § 7452. Grants to tribes for education administrative planning, development, and coordination
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:54:48.213Z"
   - **(1)** An Indian tribe may not receive funds under this section if the tribe receives funds under section 1140 of the Education Amendments of 1978 ( 20 U.S.C. 2020 ). 1 1 So in original. Probably should be “( 25 U.S.C. 2020 )”.
   - **(2)** No funds under this section may be used to provide direct services.
 - **(f)** Funds under this section shall be used to supplement, and not supplant, other Federal, State, and local programs that meet the needs of tribal students.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VI, § 6132](https://www.govinfo.gov/link/plaw/89/public/10), formerly title VII, § 7135, as added [Pub. L. 107–110, title VII, § 701](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1928](https://www.govinfo.gov/link/statute/115/1928); renumbered title VI, § 6135, renumbered § 6132, and amended [Pub. L. 114–95, title VI](https://www.govinfo.gov/link/plaw/114/public/95), §§ 6001(a), (b)(1), 6002(n)(2), (p), Dec. 10, 2015, [129 Stat. 2046](https://www.govinfo.gov/link/statute/129/2046), 2057, 2060.)*

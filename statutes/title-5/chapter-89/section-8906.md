@@ -3,9 +3,10 @@ title: "Section 8906 - Contributions"
 usc_title: 5
 usc_section: "8906"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8906"
-generated_at: "2026-03-30T02:52:56.069Z"
+generated_at: "2026-11-23T21:25:23.453Z"
+status: "active"
 ---
 
 # § 8906. Contributions
@@ -54,3 +55,51 @@ generated_at: "2026-03-30T02:52:56.069Z"
   - **(3)** The Government contribution for persons enrolled in a health benefits plan as part of the demonstration project under section 1108 of title 10 shall be paid as provided in subsection (i) of that section.
 - **(h)** The Office shall provide for conversion of biweekly rates of contribution specified by this section to rates for employees and annuitants paid on other than a biweekly basis, and for this purpose may provide for the adjustment of the converted rate to the nearest cent.
 - **(i)** An annuitant whose annuity is insufficient to cover the withholdings required for enrollment in a particular health benefits plan may enroll (or remain enrolled) in such plan, notwithstanding any other provision of this section, if the annuitant elects, under conditions prescribed by regulations of the Office, to pay currently into the Employees Health Benefits Fund, through the retirement system that administers the annuitant’s health benefits enrollment, an amount equal to the withholdings that would otherwise be required under this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 3006 . | Sept. 28, 1959 , Pub. L. 86–382, § 7 , 73 Stat. 713 . |
+|  |  | Mar. 17, 1964 , Pub. L. 88–284, § 1(10) , (11), 78 Stat. 165 . |
+
+| 1967 Act | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8906(a) 8906(b) 8906(e)(2) | 5 App.: 3006(a)(1). 5 App.: 3006(a)(2). 5 App.: 3006(b)(2). | July 18, 1966 , Pub. L. 89–504 , §§ 406(b), 602, 80 Stat. 298 , 303. |
+
+
+Historical and Revision Notes
+
+Act
+
+5 U.S.C. 3006
+
+Sept. 28, 1959
+
+Pub. L. 86–382, § 7
+
+73 Stat. 713
+
+Mar. 17, 1964
+
+Pub. L. 88–284, § 1(10)
+
+78 Stat. 165
+
+Act
+
+8906(a)
+
+8906(b)
+
+8906(e)(2)
+
+July 18, 1966
+
+Pub. L. 89–504
+
+80 Stat. 298
+
+“In addition to any other payments required under section 8906(g)(2) of title 5 , United States Code, or any other provision of law, the United States Postal Service shall pay into the Employees Health Benefits Fund a total of $348,000,000, of which—
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 604](https://www.govinfo.gov/link/statute/80/604); [Pub. L. 90–83, § 1(96)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 219](https://www.govinfo.gov/link/statute/81/219); [Pub. L. 91–418, § 1(a)](https://www.govinfo.gov/link/plaw/91/public/418), Sept. 25, 1970, [84 Stat. 869](https://www.govinfo.gov/link/statute/84/869); [Pub. L. 93–246, § 1](https://www.govinfo.gov/link/plaw/93/public/246), Jan. 31, 1974, [88 Stat. 3](https://www.govinfo.gov/link/statute/88/3); [Pub. L. 94–310, § 3(a)](https://www.govinfo.gov/link/plaw/94/public/310), June 15, 1976, [90 Stat. 687](https://www.govinfo.gov/link/statute/90/687); [Pub. L. 95–437, § 4(c)(2)(A)](https://www.govinfo.gov/link/plaw/95/public/437), Oct. 10, 1978, [92 Stat. 1059](https://www.govinfo.gov/link/statute/92/1059); [Pub. L. 95–454, title IX, § 906(a)(15)](https://www.govinfo.gov/link/plaw/95/public/454), (c)(2)(F), Oct. 13, 1978, [92 Stat. 1226](https://www.govinfo.gov/link/statute/92/1226), 1227; [Pub. L. 96–54, § 2(a)(53)](https://www.govinfo.gov/link/plaw/96/public/54), Aug. 14, 1979, [93 Stat. 384](https://www.govinfo.gov/link/statute/93/384); [Pub. L. 99–272, title XV, § 15202(b)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 334](https://www.govinfo.gov/link/statute/100/334); [Pub. L. 101–239, title IV, § 4003(a)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2135](https://www.govinfo.gov/link/statute/103/2135); [Pub. L. 101–303, § 1(a)](https://www.govinfo.gov/link/plaw/101/public/303), (b), May 29, 1990, [104 Stat. 250](https://www.govinfo.gov/link/statute/104/250); [Pub. L. 101–508, title VII, § 7102(a)](https://www.govinfo.gov/link/plaw/101/public/508), (b), Nov. 5, 1990, [104 Stat. 1388–333](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–378, § 2(78)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1355](https://www.govinfo.gov/link/statute/106/1355); [Pub. L. 104–186, title II, § 215(19)](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1747](https://www.govinfo.gov/link/statute/110/1747); [Pub. L. 104–208, div. A, title I, § 101(f) [title IV, § 422]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–314](https://www.govinfo.gov/link/statute/110/3009), 3009–343; [Pub. L. 105–33, title VII, § 7002(a)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 662](https://www.govinfo.gov/link/statute/111/662); [Pub. L. 105–261, div. A, title VII, § 721(b)(2)](https://www.govinfo.gov/link/plaw/105/public/261), (3), Oct. 17, 1998, [112 Stat. 2065](https://www.govinfo.gov/link/statute/112/2065); [Pub. L. 107–107, div. A, title V, § 519(a)](https://www.govinfo.gov/link/plaw/107/public/107), (b), Dec. 28, 2001, [115 Stat. 1096](https://www.govinfo.gov/link/statute/115/1096); [Pub. L. 108–375, div. A, title XI, § 1101(b)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2072](https://www.govinfo.gov/link/statute/118/2072); [Pub. L. 109–435, title VIII, § 803(a)(1)(A)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3251](https://www.govinfo.gov/link/statute/120/3251); [Pub. L. 113–67, div. A, title VII, § 706(c)](https://www.govinfo.gov/link/plaw/113/public/67), Dec. 26, 2013, [127 Stat. 1194](https://www.govinfo.gov/link/statute/127/1194).)*

@@ -3,9 +3,10 @@ title: "Section 811 - Authorization of appropriations"
 usc_title: 6
 usc_section: "811"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 811"
-generated_at: "2026-03-30T02:53:09.500Z"
+generated_at: "2026-11-23T21:25:25.850Z"
+status: "active"
 ---
 
 # § 811. Authorization of appropriations
@@ -15,3 +16,7 @@ There are authorized to be appropriated to carry out this title 1 1 See Referenc
   - **(1)** for fiscal year 2008, an amount equal to the amount appropriated for fiscal year 2007 for administration and operations of the Agency, multiplied by 1.1;
   - **(2)** for fiscal year 2009, an amount equal to the amount described in paragraph (1), multiplied by 1.1; and
   - **(3)** for fiscal year 2010, an amount equal to the amount described in paragraph (2), multiplied by 1.1.
+
+## Source Credit
+
+*([Pub. L. 109–295, title VI, § 699](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1462](https://www.govinfo.gov/link/statute/120/1462).)*

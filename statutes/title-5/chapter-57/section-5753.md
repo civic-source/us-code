@@ -3,9 +3,10 @@ title: "Section 5753 - Recruitment and relocation bonuses"
 usc_title: 5
 usc_section: "5753"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5753"
-generated_at: "2026-03-30T02:52:56.026Z"
+generated_at: "2026-11-23T21:25:23.300Z"
+status: "active"
 ---
 
 # § 5753. Recruitment and relocation bonuses
@@ -50,3 +51,13 @@ generated_at: "2026-03-30T02:52:56.026Z"
   - **(2)** in no event exceed 100 percent of the annual rate of basic pay of the employee at the beginning of the service period.
 - **(f)** The Office shall require that an agency establish a plan for the payment of recruitment bonuses before paying any such bonuses, and a plan for the payment of relocation bonuses before paying any such bonuses, subject to regulations prescribed by the Office.
 - **(g)** The Office may prescribe regulations to carry out this section, including regulations relating to the repayment of a bonus under this section in appropriate circumstances when the agreed-upon service period has not been completed.
+
+Effective date
+
+Application to agreements
+
+Application to allowances
+
+## Source Credit
+
+*(Added [Pub. L. 108–411, title I, § 101(a)(1)](https://www.govinfo.gov/link/plaw/108/public/411), Oct. 30, 2004, [118 Stat. 2305](https://www.govinfo.gov/link/statute/118/2305); amended [Pub. L. 114–323, title IV, § 412(1)](https://www.govinfo.gov/link/plaw/114/public/323), Dec. 16, 2016, [130 Stat. 1932](https://www.govinfo.gov/link/statute/130/1932).)*

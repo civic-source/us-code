@@ -3,9 +3,10 @@ title: "Section 733 - Training regarding whistleblower disclosures"
 usc_title: 38
 usc_section: "733"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 733"
-generated_at: "2026-03-30T02:55:53.475Z"
+generated_at: "2026-11-23T21:26:16.564Z"
+status: "active"
 ---
 
 # § 733. Training regarding whistleblower disclosures
@@ -20,3 +21,17 @@ generated_at: "2026-03-30T02:55:53.475Z"
 - **(c)** Not less frequently than once every two years, the Secretary shall provide training on merit system protection in a manner that the Special Counsel certifies as being satisfactory.
 - **(d)** The Secretary shall publish on the Internet website of the Department, and display prominently at each facility of the Department, the rights of an employee to make a whistleblower disclosure, including the information described in paragraphs (1) through (5) of subsection (a).
 - **(e)** In this section, the term “whistleblower disclosure” has the meaning given such term in section 323 of this title .
+
+Training
+
+Manner Training Is Provided
+
+Certification
+
+Publication
+
+Whistleblower Disclosure Defined
+
+## Source Credit
+
+*(Added [Pub. L. 115–41, title I, § 102(a)(3)](https://www.govinfo.gov/link/plaw/115/public/41), June 23, 2017, [131 Stat. 866](https://www.govinfo.gov/link/statute/131/866).)*

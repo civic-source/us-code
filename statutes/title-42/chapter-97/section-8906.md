@@ -3,9 +3,10 @@ title: "Section 8906 - Updated data base on acid content in precipitation; new m
 usc_title: 42
 usc_section: "8906"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8906"
-generated_at: "2026-03-30T02:56:11.349Z"
+generated_at: "2026-11-23T21:26:33.223Z"
+status: "active"
 ---
 
 # § 8906. Updated data base on acid content in precipitation; new monitoring site not required
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.349Z"
   - **(2)** Such data shall be available to interested parties by Weather Service Forecast Offices in the National Weather Service, or through such other facilities or means as the Assistant Administrator for Weather Services, National Oceanic and Atmospheric Administration, shall direct, for those areas of the United States where and at such time as such information is presently available, within 120 days after November 17, 1988 .
   - **(3)** Where other Federal agencies collect such data in the course of carrying out their statutory missions, the heads of those agencies and the Administrator of the National Oceanic and Atmospheric Administration shall arrange for the transfer of such data to the National Weather Service.
 - **(b)** Nothing in this section shall be construed to require any Federal agency to establish any new acid precipitation monitoring site.
+
+## Source Credit
+
+*([Pub. L. 100–685, title IV, § 414](https://www.govinfo.gov/link/plaw/100/public/685), Nov. 17, 1988, [102 Stat. 4101](https://www.govinfo.gov/link/statute/102/4101).)*

@@ -3,9 +3,10 @@ title: "Section 410ooo - Findings"
 usc_title: 16
 usc_section: "410ooo"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410ooo"
-generated_at: "2026-03-30T02:54:22.782Z"
+generated_at: "2026-11-23T21:25:51.483Z"
+status: "active"
 ---
 
 # § 410ooo. Findings
@@ -18,3 +19,7 @@ The Congress makes the following findings:
   - **(4)** Pinnacles National Monument encompasses a unique blend of California heritage from prehistoric and historic Native Americans to the arrival of the Spanish, followed by 18th and 19th century settlers, including miners, cowboys, vaqueros, ranchers, farmers, and homesteaders.
   - **(5)** Pinnacles National Monument is the only National Park System site within the ancestral home range of the California Condor. The reintroduction of the condor to its traditional range in California is important to the survival of the species, and as a result, the scientific community with centers at the Los Angeles Zoo and San Diego Zoo in California and Buenos Aires Zoo in Argentina looks to Pinnacles National Monument as a leader in California Condor recovery, and as an international partner for condor recovery in South America.
   - **(6)** The preservation, enhancement, economic and tourism potential and management of the central California coast and Pacific coast range’s important natural and cultural resources requires cooperation and partnerships among local property owners, Federal, State, and local government entities and the private sector.
+
+## Source Credit
+
+*([Pub. L. 112–245, § 2](https://www.govinfo.gov/link/plaw/112/public/245), Jan. 10, 2013, [126 Stat. 2385](https://www.govinfo.gov/link/statute/126/2385).)*

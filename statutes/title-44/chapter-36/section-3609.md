@@ -3,9 +3,10 @@ title: "Section 3609 - Roles and responsibilities of the General Services Admini
 usc_title: 44
 usc_section: "3609"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 3609"
-generated_at: "2026-03-30T02:55:56.299Z"
+generated_at: "2026-11-23T21:26:18.443Z"
+status: "active"
 ---
 
 # § 3609. Roles and responsibilities of the General Services Administration
@@ -33,3 +34,23 @@ generated_at: "2026-03-30T02:55:56.299Z"
   - **(1)** The Administrator, in coordination with the Secretary, shall assess and evaluate available automation capabilities and procedures to improve the efficiency and effectiveness of the issuance of FedRAMP authorizations, including continuous monitoring of cloud computing products and services.
   - **(2)** Not later than 1 year after the date of enactment of this section, and updated regularly thereafter, the Administrator shall establish a means for the automation of security assessments and reviews.
 - **(d)** The Administrator shall establish annual metrics regarding the time and quality of the assessments necessary for completion of a FedRAMP authorization process in a manner that can be consistently tracked over time in conjunction with the periodic testing and evaluation process pursuant to section 3554 in a manner that minimizes the agency reporting burden.
+
+Roles and Responsibilities
+
+Website.—
+
+In general
+
+Criteria and process for fedramp authorization priorities
+
+Evaluation of Automation Procedures.—
+
+In general
+
+Means for automation
+
+Metrics for Authorization
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. E, title LIX, § 5921(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3450](https://www.govinfo.gov/link/statute/136/3450).)*

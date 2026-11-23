@@ -3,9 +3,10 @@ title: "Section 2093 - Domestic distribution of source material"
 usc_title: 42
 usc_section: "2093"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2093"
-generated_at: "2026-03-30T02:56:11.149Z"
+generated_at: "2026-11-23T21:26:32.333Z"
+status: "active"
 ---
 
 # § 2093. Domestic distribution of source material
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.149Z"
   - **(2)** the quantities of source material to be distributed; and
   - **(3)** the intended use of the source material to be distributed.
 - **(c)** The Commission may make a reasonable charge determined pursuant to section 2201(m) of this title for the source material licensed and distributed under subsection (a)(1), (a)(2), or (a)(4) and shall make a reasonable charge determined pursuant to section 2201(m) of this title , for the source material licensed and distributed under subsection (a)(3). The Commission shall establish criteria in writing for the determination of whether a charge will be made for the source material licensed and distributed under subsection (a)(1), (a)(2), or (a)(4), considering, among other things, whether the licensee is a nonprofit or eleemosynary institution and the purposes for which the source material will be used.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 63, as added Aug. 30, 1954, ch. 1073, § 1, [68 Stat. 933](https://www.govinfo.gov/link/statute/68/933); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944).)*

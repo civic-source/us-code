@@ -3,9 +3,10 @@ title: "Section 590z - Utilization of services, materials, funds, etc., of Feder
 usc_title: 16
 usc_section: "590z"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 590z"
-generated_at: "2026-03-30T02:54:22.883Z"
+generated_at: "2026-11-23T21:25:51.693Z"
+status: "active"
 ---
 
 # § 590z. Utilization of services, materials, funds, etc., of Federal, State, or municipal agencies, or of individuals
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:22.883Z"
   - **(2)** such services, labor, materials, easements or property, including money, as may be contributed by any State or political subdivision thereof, State agency, municipal corporation, or other organization, or individuals, if, in the judgment of the Secretary, the acceptance thereof will not impair the title of the United States to the project works and will not reduce the probability that the project water users can meet the obligations to the United States entered into pursuant to this subchapter. Moneys received and accepted under
   - **(2)** of this section shall be and remain available for expenditure for the purposes for which contributed in like manner as if said sums had been specifically appropriated for said purposes.
 
+
+## Source Credit
+
+*(Aug. 11, 1939, ch. 717, § 2, [53 Stat. 1419](https://www.govinfo.gov/link/statute/53/1419); Oct. 14, 1940, ch. 861, [54 Stat. 1120](https://www.govinfo.gov/link/statute/54/1120).)*

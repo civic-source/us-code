@@ -3,9 +3,10 @@ title: "Section 409 - Qualifications for tax credit employee stock ownership pla
 usc_title: 26
 usc_section: "409"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 409"
-generated_at: "2026-03-30T02:55:27.681Z"
+generated_at: "2026-11-23T21:26:06.203Z"
+status: "active"
 ---
 
 # § 409. Qualifications for tax credit employee stock ownership plans
@@ -159,3 +160,23 @@ generated_at: "2026-03-30T02:55:27.681Z"
   - **(7)**
     - **(A)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection.
     - **(B)** The Secretary may, by regulation or other guidance of general applicability, provide that a nonallocation year occurs in any case in which the principal purpose of the ownership structure of an S corporation constitutes an avoidance or evasion of this subsection.
+
+In general
+
+Exception for certain plans
+
+In general.—
+
+Election to have amendments apply during 1978.—
+
+Voting right provisions.—
+
+Right to demand employer securities, etc.—
+
+Subsection
+
+Retroactive application of amendment made by subsection
+
+## Source Credit
+
+*(Added [Pub. L. 95–600, title I, § 141(a)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2787](https://www.govinfo.gov/link/statute/92/2787), § 409A; amended [Pub. L. 96–222, title I, § 101(a)(7)(D)](https://www.govinfo.gov/link/plaw/96/public/222) –(F), (I), (J), (L)(i)(VI), (ii)(I), (II), (iii)(V), (v)(VI), (VII), Apr. 1, 1980, [94 Stat. 198–200](https://www.govinfo.gov/link/statute/94/198); [Pub. L. 96–605, title II, § 224(a)](https://www.govinfo.gov/link/plaw/96/public/605), Dec. 28, 1980, [94 Stat. 3528](https://www.govinfo.gov/link/statute/94/3528); [Pub. L. 97–34, title III](https://www.govinfo.gov/link/plaw/97/public/34), §§ 331(c)(1), 334, 336, 337(a), Aug. 13, 1981, [95 Stat. 293](https://www.govinfo.gov/link/statute/95/293), 297, 298; [Pub. L. 97–448, title I, § 103(h)](https://www.govinfo.gov/link/plaw/97/public/448), (i), Jan. 12, 1983, [96 Stat. 2379](https://www.govinfo.gov/link/statute/96/2379); renumbered § 409 and amended [Pub. L. 98–369, div. A, title IV](https://www.govinfo.gov/link/plaw/98/public/369), §§ 474(r)(15), 491(e)(1), July 18, 1984, [98 Stat. 843](https://www.govinfo.gov/link/statute/98/843), 852; [Pub. L. 99–514, title XI](https://www.govinfo.gov/link/plaw/99/public/514), §§ 1172(b)(1), 1174(a)(1), (b)(1), (2), (c)(1)(A), 1176(b), title XVIII, §§ 1852(a)(4)(B), 1854(a)(3)(A), (f)(1), (3)(C), 1899A(11), Oct. 22, 1986, [100 Stat. 2514](https://www.govinfo.gov/link/statute/100/2514), 2516, 2517, 2520, 2865, 2873, 2881, 2882, 2958; [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1011B(g)(1), (2), (i)(1), (3), (j)(3), (5), (k)(3), 1018(t)(4)(B), (C), (H), Nov. 10, 1988, [102 Stat. 3490](https://www.govinfo.gov/link/statute/102/3490), 3492, 3493, 3588, 3589; [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7304(a)(2)(A), (B), 7811(h)(1), Dec. 19, 1989, [103 Stat. 2352](https://www.govinfo.gov/link/statute/103/2352), 2353, 2409; [Pub. L. 105–34, title XV, § 1506(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1064](https://www.govinfo.gov/link/statute/111/1064); [Pub. L. 107–16, title VI, § 656(a)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 131](https://www.govinfo.gov/link/statute/115/131); [Pub. L. 107–147, title IV, § 411(j)(2)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 47](https://www.govinfo.gov/link/statute/116/47); [Pub. L. 109–280, title IX, § 901(a)(2)(B)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1029](https://www.govinfo.gov/link/statute/120/1029); [Pub. L. 113–295, div. A, title II, § 221(a)(54)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4045](https://www.govinfo.gov/link/statute/128/4045); [Pub. L. 115–141, div. U, title IV, § 401(a)(79)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1187](https://www.govinfo.gov/link/statute/132/1187).)*

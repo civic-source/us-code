@@ -3,9 +3,10 @@ title: "Section 5364 - Remedial actions"
 usc_title: 5
 usc_section: "5364"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5364"
-generated_at: "2026-03-30T02:52:56.015Z"
+generated_at: "2026-11-23T21:25:23.252Z"
+status: "active"
 ---
 
 # § 5364. Remedial actions
@@ -16,3 +17,7 @@ Under regulations prescribed by the Office of Personnel Management, the Office m
   - **(2)** to take such steps as may be appropriate to assure employees receiving benefits under section 5362 or 5363 of this title have the opportunity to obtain necessary qualifications for the selection to positions which would minimize the need for the application of such sections;
   - **(3)** to establish a program under which employees receiving benefits under section 5362 or 5363 of this title are given priority in the consideration for or placement in positions which are equal to their retained grade or pay; and
   - **(4)** to place certain employees, notwithstanding the fact their previous position was in a different agency, but only in circumstances in which the Office determines the exercise of such authority is necessary to carry out the purpose of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title VIII, § 801(a)(1)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1220](https://www.govinfo.gov/link/statute/92/1220).)*

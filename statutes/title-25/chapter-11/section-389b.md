@@ -3,12 +3,17 @@ title: "Section 389b - Elimination to permanently nonirrigable lands"
 usc_title: 25
 usc_section: "389b"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 389b"
-generated_at: "2026-03-30T02:54:52.806Z"
+generated_at: "2026-11-23T21:25:54.570Z"
+status: "active"
 ---
 
 # § 389b. Elimination to permanently nonirrigable lands
 
 Where the Secretary finds that any such lands are permanently nonirrigable he may, with the consent of the landowner, eliminate such lands from the project.
 
+
+## Source Credit
+
+*(June 22, 1936, ch. 692, § 3, [49 Stat. 1804](https://www.govinfo.gov/link/statute/49/1804).)*

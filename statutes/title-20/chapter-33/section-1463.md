@@ -3,9 +3,10 @@ title: "Section 1463 - Technical assistance, demonstration projects, disseminati
 usc_title: 20
 usc_section: "1463"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1463"
-generated_at: "2026-03-30T02:54:48.168Z"
+generated_at: "2026-11-23T21:25:47.346Z"
+status: "active"
 ---
 
 # § 1463. Technical assistance, demonstration projects, dissemination of information, and implementation of scientifically based research
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:48.168Z"
   - **(1)** An eligible entity that wishes to receive a grant, or enter into a contract or cooperative agreement, under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
   - **(2)** To the maximum extent feasible, each eligible entity shall demonstrate that the project described in the eligible entity’s application is supported by scientifically valid research that has been carried out in accordance with the standards for the conduct and evaluation of all relevant research and development established by the National Center for Education Research.
   - **(3)** As appropriate, the Secretary shall give priority to applications that propose to serve teachers and school personnel directly in the school environment.
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 663](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2781](https://www.govinfo.gov/link/statute/118/2781); amended [Pub. L. 114–95, title IX, § 9215(ss)(10)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2183](https://www.govinfo.gov/link/statute/129/2183).)*

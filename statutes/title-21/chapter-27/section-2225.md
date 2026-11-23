@@ -3,9 +3,10 @@ title: "Section 2225 - Decontamination and disposal standards and plans"
 usc_title: 21
 usc_section: "2225"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 2225"
-generated_at: "2026-03-30T02:54:54.310Z"
+generated_at: "2026-11-23T21:25:56.303Z"
+status: "active"
 ---
 
 # § 2225. Decontamination and disposal standards and plans
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:54.310Z"
   - **(1)** highest-risk biological, chemical, and radiological threat agents;
   - **(2)** agents that could cause the greatest economic devastation to the agriculture and food system; and
   - **(3)** agents that are most difficult to clean or remediate.
+
+## Source Credit
+
+*([Pub. L. 111–353, title II, § 208](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3944](https://www.govinfo.gov/link/statute/124/3944).)*

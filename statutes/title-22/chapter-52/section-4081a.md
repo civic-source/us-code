@@ -3,9 +3,10 @@ title: "Section 4081a - Exception for Government-financed air transportation; re
 usc_title: 22
 usc_section: "4081a"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4081a"
-generated_at: "2026-03-30T02:55:05.406Z"
+generated_at: "2026-11-23T21:25:58.624Z"
+status: "active"
 ---
 
 # § 4081a. Exception for Government-financed air transportation; reducing hardship for transportation of domestic animals
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.406Z"
       - **(iii)** outside the United States to another place outside the United States.
   - **(2)** An amount paid pursuant to paragraph (1) for transportation by a foreign carrier may not be greater than the amount that would otherwise have been paid had the transportation been on an air carrier holding a certificate under section 41102 had that carrier been willing and able to provide such transportation. If the amount that would otherwise have been paid to such an air carrier is less than the cost of transportation on the applicable foreign carrier, the Department personnel may pay the difference of such amount.
   - **(3)** In this subsection, the term “domestic animal” means a dog or a cat.
+
+## Source Credit
+
+*([Pub. L. 118–31, div. F, title LXII, § 6224(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 979](https://www.govinfo.gov/link/statute/137/979); [Pub. L. 118–159, div. G, title LXXVI, § 7604](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2553](https://www.govinfo.gov/link/statute/138/2553).)*

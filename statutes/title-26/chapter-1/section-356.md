@@ -3,9 +3,10 @@ title: "Section 356 - Receipt of additional consideration"
 usc_title: 26
 usc_section: "356"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 356"
-generated_at: "2026-03-30T02:55:27.667Z"
+generated_at: "2026-11-23T21:26:06.151Z"
+status: "active"
 ---
 
 # § 356. Receipt of additional consideration
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:27.667Z"
 - **(g)** For special rules for a transaction described in section 354, 355, or this section, but which—
   - **(1)** results in a gift, see section 2501 and following, or
   - **(2)** has the effect of the payment of compensation, see section 61(a)(1).
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 115; [Pub. L. 94–253, § 1(c)](https://www.govinfo.gov/link/plaw/94/public/253), Mar. 31, 1976, [90 Stat. 296](https://www.govinfo.gov/link/statute/90/296); [Pub. L. 97–248, title II, § 227(b)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 492](https://www.govinfo.gov/link/statute/96/492); [Pub. L. 101–508, title XI, § 11801(c)(8)(E)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–524](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 105–34, title X, § 1014(d)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 921](https://www.govinfo.gov/link/statute/111/921).)*

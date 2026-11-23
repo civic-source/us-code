@@ -3,9 +3,10 @@ title: "Section 3532 - Implementation of Uruguay Round Agreements"
 usc_title: 19
 usc_section: "3532"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 3532"
-generated_at: "2026-03-30T02:54:24.692Z"
+generated_at: "2026-11-23T21:25:42.844Z"
+status: "active"
 ---
 
 # § 3532. Implementation of Uruguay Round Agreements
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:24.692Z"
     - **(A)** In the case of a decision to grant a waiver described in subsection (b)(3), the report under paragraph (1) shall describe the terms and conditions of the waiver and the rights and obligations of the United States that are affected by the waiver.
     - **(B)** In the case of a decision on accession described in subsection (b)(5), the report under paragraph (1) shall state whether the United States intends to invoke Article XIII of the WTO Agreement.
 - **(d)** Promptly after the submission of a report under subsection (c), the Trade Representative shall consult with the appropriate congressional committees with respect to the report.
+
+## Source Credit
+
+*([Pub. L. 103–465, title I, § 122](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4829](https://www.govinfo.gov/link/statute/108/4829).)*

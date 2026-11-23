@@ -3,12 +3,17 @@ title: "Section 3289 - Indictments and information dismissed before period of li
 usc_title: 18
 usc_section: "3289"
 chapter: 213
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3289"
-generated_at: "2026-03-30T02:54:16.516Z"
+generated_at: "2026-11-23T21:25:44.195Z"
+status: "active"
 ---
 
 # § 3289. Indictments and information dismissed before period of limitations
 
 Whenever an indictment or information charging a felony is dismissed for any reason before the period prescribed by the applicable statute of limitations has expired, and such period will expire within six calendar months of the date of the dismissal of the indictment or information, a new indictment may be returned in the appropriate jurisdiction within six calendar months of the expiration of the applicable statute of limitations, or, in the event of an appeal, within 60 days of the date the dismissal of the indictment or information becomes final, or, if no regular grand jury is in session in the appropriate jurisdiction at the expiration of the applicable statute of limitations, within six calendar months of the date when the next regular grand jury is convened, which new indictment shall not be barred by any statute of limitations. This section does not permit the filing of a new indictment or information where the reason for the dismissal was the failure to file the indictment or information within the period prescribed by the applicable statute of limitations, or some other reason that would bar a new prosecution.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 829](https://www.govinfo.gov/link/statute/62/829); [Pub. L. 88–139, § 2](https://www.govinfo.gov/link/plaw/88/public/139), Oct. 16, 1963, [77 Stat. 248](https://www.govinfo.gov/link/statute/77/248); [Pub. L. 88–520, § 2](https://www.govinfo.gov/link/plaw/88/public/520), Aug. 30, 1964, [78 Stat. 699](https://www.govinfo.gov/link/statute/78/699); [Pub. L. 100–690, title VII, § 7081(b)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4407](https://www.govinfo.gov/link/statute/102/4407); [Pub. L. 101–647, title XII, § 1213](https://www.govinfo.gov/link/plaw/101/public/647), title XXV, § 2595(b), title XXXV, § 3580, Nov. 29, 1990, [104 Stat. 4833](https://www.govinfo.gov/link/statute/104/4833), 4907, 4929; [Pub. L. 103–322, title XXXIII, § 330011(q)(2)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2145](https://www.govinfo.gov/link/statute/108/2145).)*

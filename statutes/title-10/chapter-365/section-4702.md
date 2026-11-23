@@ -3,9 +3,10 @@ title: "Section 4702 - Incentives and consideration for qualified training progr
 usc_title: 10
 usc_section: "4702"
 chapter: 365
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4702"
-generated_at: "2026-03-30T02:53:38.210Z"
+generated_at: "2026-11-23T21:25:32.783Z"
+status: "active"
 ---
 
 # § 4702. Incentives and consideration for qualified training programs
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:53:38.210Z"
   - **(2)** A program eligible to receive funds under the Carl D. Perkins Career and Technical Education Act of 2006 ( 20 U.S.C. 2301 et seq.).
   - **(3)** A program registered under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”; 50 Stat. 664 ; chapter 663; 29 U.S.C. 50 et seq.).
   - **(4)** Any other program determined to be a qualified training program for purposes of this section, and that meets the workforce needs of the Department of Defense, as determined by the Secretary of Defense.
+
+Incentives
+
+Consideration of Qualified Training Programs
+
+Qualified Training Program Defined
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. A, title VIII, § 864(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1522](https://www.govinfo.gov/link/statute/133/1522), § 2409a; renumbered § 4702 and amended [Pub. L. 116–283, div. A, title X, § 1081(a)(40)](https://www.govinfo.gov/link/plaw/116/public/283), title XVIII, § 1863(b), Jan. 1, 2021, [134 Stat. 3873](https://www.govinfo.gov/link/statute/134/3873), 4278.)*

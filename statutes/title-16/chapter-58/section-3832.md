@@ -3,9 +3,10 @@ title: "Section 3832 - Duties of owners and operators"
 usc_title: 16
 usc_section: "3832"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3832"
-generated_at: "2026-03-30T02:54:23.026Z"
+generated_at: "2026-11-23T21:25:51.989Z"
+status: "active"
 ---
 
 # § 3832. Duties of owners and operators
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:54:23.026Z"
   - **(2)**
     - **(A)** This subsection shall not void the responsibilities of an owner or operator under the contract if the owner or operator resumes control over the land that is subject to the contract within the period specified in the contract.
     - **(B)** On the resumption of the control over the land by the owner or operator, the provisions of the contract in effect on the date of the foreclosure shall apply.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1232](https://www.govinfo.gov/link/plaw/99/public/198), as added [Pub. L. 107–171, title II, § 2101(a)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 242](https://www.govinfo.gov/link/statute/116/242); amended [Pub. L. 108–7, div. N, title II, § 212](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 545](https://www.govinfo.gov/link/statute/117/545); [Pub. L. 110–234, title II](https://www.govinfo.gov/link/plaw/110/public/234), §§ 2107, 2108, May 22, 2008, [122 Stat. 1032](https://www.govinfo.gov/link/statute/122/1032), 1033; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title II, §§ 2107, 2108, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1760, 1761; [Pub. L. 113–79, title II, § 2003](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 715](https://www.govinfo.gov/link/statute/128/715); [Pub. L. 115–334, title II, § 2205](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4543](https://www.govinfo.gov/link/statute/132/4543).)*

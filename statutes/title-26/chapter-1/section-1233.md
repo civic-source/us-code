@@ -3,9 +3,10 @@ title: "Section 1233 - Gains and losses from short sales"
 usc_title: 26
 usc_section: "1233"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1233"
-generated_at: "2026-03-30T02:55:27.760Z"
+generated_at: "2026-11-23T21:26:06.470Z"
+status: "active"
 ---
 
 # § 1233. Gains and losses from short sales
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:55:27.760Z"
       - **(i)** the date which is 3 years after the date the Secretary is notified by the taxpayer (in such manner as the Secretary may by regulations prescribe) of the substantial worthlessness of such property, or
       - **(ii)** the date which is 6 years after the date the return for such taxable year is filed, and
     - **(B)** such deficiency may be assessed before the date applicable under subparagraph (A) notwithstanding the provisions of any other law or rule of law which would otherwise prevent such assessment.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 327; Aug. 12, 1955, ch. 871, § 1, [69 Stat. 717](https://www.govinfo.gov/link/statute/69/717); [Pub. L. 85–866, title I, § 52(a)](https://www.govinfo.gov/link/plaw/85/public/866), (b), Sept. 2, 1958, [72 Stat. 1643](https://www.govinfo.gov/link/statute/72/1643), 1644; [Pub. L. 94–455, title XIV, § 1402(b)(1)(T)](https://www.govinfo.gov/link/plaw/94/public/455), (2), title XIX, § 1901(a)(137), Oct. 4, 1976, [90 Stat. 1732](https://www.govinfo.gov/link/statute/90/1732), 1787; [Pub. L. 97–34, title V, § 501(c)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 326](https://www.govinfo.gov/link/statute/95/326); [Pub. L. 98–369, div. A, title X, § 1001(b)(17)](https://www.govinfo.gov/link/plaw/98/public/369), (e), July 18, 1984, [98 Stat. 1012](https://www.govinfo.gov/link/statute/98/1012); [Pub. L. 105–34, title X, § 1003(b)(1)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 910](https://www.govinfo.gov/link/statute/111/910); [Pub. L. 106–554, § 1(a)(7) [title IV, § 401(f)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–649; [Pub. L. 107–147, title IV, § 412(d)(3)(A)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 54](https://www.govinfo.gov/link/statute/116/54).)*

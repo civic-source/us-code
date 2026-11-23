@@ -3,9 +3,10 @@ title: "Section 158 - Application fees"
 usc_title: 47
 usc_section: "158"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 158"
-generated_at: "2026-03-30T02:56:24.494Z"
+generated_at: "2026-11-23T21:26:35.934Z"
+status: "active"
 ---
 
 # § 158. Application fees
@@ -29,3 +30,27 @@ generated_at: "2026-03-30T02:56:24.494Z"
     - **(C)** a noncommercial radio station or noncommercial television station.
   - **(2)** If, in the judgment of the Commission, the cost of collecting an application fee established under this section would exceed the amount collected, the Commission may by rule eliminate such fee.
 - **(e)** Moneys received from application fees established under this section shall be deposited in the general fund of the Treasury.
+
+equipment approval services/experimental radio
+
+common carrier services
+
+Schedule of Application Fees
+
+Schedule of Charges
+
+Application fees
+
+Charges
+
+miscellaneous application fees
+
+miscellaneous charges
+
+common carrier services
+
+miscellaneous charges”.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title I, § 8, as added [Pub. L. 99–272, title V, § 5002(e)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 118](https://www.govinfo.gov/link/statute/100/118); amended [Pub. L. 100–594, § 5](https://www.govinfo.gov/link/plaw/100/public/594), Nov. 3, 1988, [102 Stat. 3021](https://www.govinfo.gov/link/statute/102/3021); [Pub. L. 101–239, title III, § 3001(a)](https://www.govinfo.gov/link/plaw/101/public/239), (b), Dec. 19, 1989, [103 Stat. 2124](https://www.govinfo.gov/link/statute/103/2124), 2131; [Pub. L. 102–538, title II, § 209](https://www.govinfo.gov/link/plaw/102/public/538), Oct. 27, 1992, [106 Stat. 3544](https://www.govinfo.gov/link/statute/106/3544); [Pub. L. 103–66, title VI, § 6003(a)(2)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 401](https://www.govinfo.gov/link/statute/107/401); [Pub. L. 103–414, title III](https://www.govinfo.gov/link/plaw/103/public/414), §§ 302, 303(a)(3), (4), Oct. 25, 1994, [108 Stat. 4294](https://www.govinfo.gov/link/statute/108/4294); [Pub. L. 115–141, div. P, title I, § 102(a)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1082](https://www.govinfo.gov/link/statute/132/1082).)*

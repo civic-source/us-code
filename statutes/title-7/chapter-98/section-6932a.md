@@ -3,9 +3,10 @@ title: "Section 6932a - Prohibition on closure or relocation of county offices f
 usc_title: 7
 usc_section: "6932a"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6932a"
-generated_at: "2026-03-30T02:53:42.439Z"
+generated_at: "2026-11-23T21:25:28.405Z"
+status: "active"
 ---
 
 # § 6932a. Prohibition on closure or relocation of county offices for the Farm Service Agency
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.439Z"
   - **(2)** After the period referred to in subsection (a)(1), the Secretary of Agriculture may not close a county or field office of the Farm Service Agency unless—
     - **(A)** not later than 30 days after the Secretary proposes to close such office, the Secretary holds a public meeting regarding the proposed closure in the county in which such office is located; and
     - **(B)** after the public meeting referred to in subparagraph (A), but not less than 90 days before the date on which the Secretary approves the closure of such office, the Secretary notifies the Committee on Agriculture and the Committee on Appropriations of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry and the Committee on Appropriations of the Senate, each Senator representing the State in which the office proposed to be closed is located, and the member of the House of Representatives who represents the Congressional district in which the office proposed to be closed is located of the proposed closure of such office.
+
+## Source Credit
+
+*([Pub. L. 110–234, title XIV, § 14212](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1465](https://www.govinfo.gov/link/statute/122/1465); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14212, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2227.)*

@@ -3,9 +3,10 @@ title: "Section 16279b - International nuclear energy cooperation"
 usc_title: 42
 usc_section: "16279b"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16279b"
-generated_at: "2026-03-30T02:56:11.477Z"
+generated_at: "2026-11-23T21:26:33.717Z"
+status: "active"
 ---
 
 # § 16279b. International nuclear energy cooperation
@@ -22,7 +23,7 @@ generated_at: "2026-03-30T02:56:11.477Z"
       - **(iv)** the Organization for Economic Co-operation and Development Nuclear Energy Agency; and
       - **(v)** any other international collaborative effort with respect to advanced nuclear reactor operations and safety;
   - **(3)** to support, with the concurrence of the Secretary of State, the safe, secure, and peaceful use of civil nuclear technology in countries developing nuclear energy programs, with a focus on countries that have increased civil nuclear cooperation with the Russian Federation or the People’s Republic of China; and
-  - **(4)** to promote the fullest utilization of the reactors, fuel, equipment, services, and technology of United States nuclear energy companies (as defined in subsection (b) of the International Nuclear Energy Act of 2025 [ 42 U.S.C. 16283 ]) in civil nuclear energy programs outside the United States through—
+  - **(4)** to promote the fullest utilization of the reactors, fuel, equipment, services, and technology of United States nuclear energy companies (as defined in subsection (b) of section 16283 of this title ) in civil nuclear energy programs outside the United States through—
     - **(A)** bilateral and multilateral arrangements developed and executed with the concurrence of the Secretary of State that contain commitments for the utilization of the reactors, fuel, equipment, services, and technology of United States nuclear energy companies (as defined in that subsection);
     - **(B)** the designation of 1 or more United States nuclear energy companies (as defined in that subsection) to implement an arrangement under subparagraph (A) if the Secretary determines that the designation is necessary and appropriate to achieve the objectives of this section; and
     - **(C)** the waiver of any provision of law relating to competition with respect to any activity related to an arrangement under subparagraph (A) if the Secretary, in consultation with the Attorney General and the Secretary of Commerce, determines that a waiver is necessary and appropriate to achieve the objectives of this section.
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:11.477Z"
     - **(I)** options for multinational cooperation with respect to the disposal of spent nuclear fuel (as defined in section 10101 of this title ); and
   - **(2)** in coordination with any Federal agency that the President determines to be appropriate.
 - **(c)** Of funds authorized to be appropriated or otherwise made available to the Secretary to carry out activities related to international civil nuclear energy cooperation, there is authorized to be appropriated for each of fiscal years 2026 through 2030 up to $15,500,000 to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 959B](https://www.govinfo.gov/link/plaw/109/public/58), as added [Pub. L. 116–260, div. Z, title II, § 2003(h)(1)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2470](https://www.govinfo.gov/link/statute/134/2470); amended [Pub. L. 119–60, div. H, title LXXXIII, § 8366(g)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1894](https://www.govinfo.gov/link/statute/139/1894).)*

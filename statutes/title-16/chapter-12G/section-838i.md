@@ -3,9 +3,10 @@ title: "Section 838i - Bonneville Power Administration fund"
 usc_title: 16
 usc_section: "838i"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 838i"
-generated_at: "2026-03-30T02:54:22.928Z"
+generated_at: "2026-11-23T21:25:51.785Z"
+status: "active"
 ---
 
 # § 838i. Bonneville Power Administration fund
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:22.928Z"
   - **(12)** making such payments, as shall be required to carry out the purposes and provisions of the Pacific Northwest Electric Power Planning and Conservation Act [ 16 U.S.C. 839 et seq.].
 - **(c)** Moneys heretofore or hereafter appropriated shall be used only for the purposes for which appropriated, and moneys received by the Administrator in trust shall be used only for carrying out such trust. The provisions of chapter 91 of title 31 shall be applicable to the Administrator in the same manner as they are applied to the wholly owned Government corporations named in section 9101 of title 31 , but nothing in section 9105(d) 2 2 See References in Text note below. of title 31 shall be construed as affecting the powers granted in subsection (b)(11) of this section and in sections 832a(f), 832i(b), and 832k(a) of this title.
 - **(d)** Notwithstanding the provisions of sections 9105 and 9106 of title 31, the financial transactions of the Administrator shall be audited by the Comptroller General at such times and to such extent as the Comptroller General deems necessary, and reports of the results of each such audit shall be made to the Congress within 6½ months following the end of the fiscal year covered by the audit.
+
+## Source Credit
+
+*([Pub. L. 93–454, § 11](https://www.govinfo.gov/link/plaw/93/public/454), Oct. 18, 1974, [88 Stat. 1378](https://www.govinfo.gov/link/statute/88/1378); [Pub. L. 95–91, title III, § 302(a)(1)(D)](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 578](https://www.govinfo.gov/link/statute/91/578); [Pub. L. 96–501, § 8(a)](https://www.govinfo.gov/link/plaw/96/public/501), (b), Dec. 5, 1980, [94 Stat. 2728](https://www.govinfo.gov/link/statute/94/2728).)*

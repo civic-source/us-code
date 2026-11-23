@@ -3,9 +3,10 @@ title: "Section 4502 - Foundation"
 usc_title: 20
 usc_section: "4502"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 4502"
-generated_at: "2026-03-30T02:54:48.185Z"
+generated_at: "2026-11-23T21:25:47.453Z"
+status: "active"
 ---
 
 # § 4502. Foundation
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:48.185Z"
 - **(d)**
   - **(1)** Subject to paragraph (2), members of the Board shall serve without pay.
   - **(2)** Members of the Board and the President, Executive Secretary, and other personnel of the Foundation shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties at rates applicable to judges of the United States under section 456(a) of title 28 .
+
+## Source Credit
+
+*([Pub. L. 99–500, § 101(b) [title VIII, § 803]](https://www.govinfo.gov/link/plaw/99/public/500), Oct. 18, 1986, [100 Stat. 1783–39](https://www.govinfo.gov/link/statute/100/1783), 1783–76, and [Pub. L. 99–591, § 101(b) [title VIII, § 803]](https://www.govinfo.gov/link/plaw/99/public/591), Oct. 30, 1986, [100 Stat. 3341–39](https://www.govinfo.gov/link/statute/100/3341), 3341–76; [Pub. L. 101–208, § 1](https://www.govinfo.gov/link/plaw/101/public/208), Dec. 7, 1989, [103 Stat. 1836](https://www.govinfo.gov/link/statute/103/1836); [Pub. L. 102–221, § 1(1)](https://www.govinfo.gov/link/plaw/102/public/221), Dec. 11, 1991, [105 Stat. 1676](https://www.govinfo.gov/link/statute/105/1676).)*

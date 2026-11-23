@@ -3,9 +3,10 @@ title: "Section 1254 - Research, investigations, training, and information"
 usc_title: 33
 usc_section: "1254"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1254"
-generated_at: "2026-03-30T02:55:41.082Z"
+generated_at: "2026-11-23T21:26:11.360Z"
+status: "active"
 ---
 
 # § 1254. Research, investigations, training, and information
@@ -81,3 +82,13 @@ generated_at: "2026-03-30T02:55:41.082Z"
   - **(3)** appropriate, accurate, expeditious, and cost-effective methods (including predictive models) for detecting in a timely manner in coastal recreation waters the presence of pathogens that are harmful to human health; and
   - **(4)** guidance for State application of the criteria for pathogens and pathogen indicators to be published under section 1314(a)(9) of this title to account for the diversity of geographic and aquatic conditions.
 - **(w)** For purposes of subsection (b)(8), the term “nonprofit organization” means a nonprofit organization that the Administrator determines, after consultation with the States regarding what small publicly owned treatment works in the State find to be most beneficial and effective, is qualified and experienced in providing on-site training and technical assistance to small publicly owned treatment works.
+
+Small flows clearinghouse
+
+In general
+
+Applicability
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title I, § 104, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 819](https://www.govinfo.gov/link/statute/86/819); amended [Pub. L. 93–207, § 1(1)](https://www.govinfo.gov/link/plaw/93/public/207), Dec. 28, 1973, [87 Stat. 906](https://www.govinfo.gov/link/statute/87/906); [Pub. L. 93–592, § 1](https://www.govinfo.gov/link/plaw/93/public/592), Jan. 2, 1975, [88 Stat. 1924](https://www.govinfo.gov/link/statute/88/1924); [Pub. L. 95–217](https://www.govinfo.gov/link/plaw/95/public/217), §§ 4(a), (b), 6, 7, Dec. 27, 1977, [91 Stat. 1566](https://www.govinfo.gov/link/statute/91/1566), 1567; [Pub. L. 95–576, § 1(a)](https://www.govinfo.gov/link/plaw/95/public/576), Nov. 2, 1978, [92 Stat. 2467](https://www.govinfo.gov/link/statute/92/2467); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695); [Pub. L. 96–483, § 1(a)](https://www.govinfo.gov/link/plaw/96/public/483), Oct. 21, 1980, [94 Stat. 2360](https://www.govinfo.gov/link/statute/94/2360); [Pub. L. 100–4, title I](https://www.govinfo.gov/link/plaw/100/public/4), §§ 101(a), 102, Feb. 4, 1987, [101 Stat. 8](https://www.govinfo.gov/link/statute/101/8), 9; [Pub. L. 102–154, title I](https://www.govinfo.gov/link/plaw/102/public/154), Nov. 13, 1991, [105 Stat. 1000](https://www.govinfo.gov/link/statute/105/1000); [Pub. L. 105–362, title V, § 501(a)(1)](https://www.govinfo.gov/link/plaw/105/public/362), (d)(2)(A), Nov. 10, 1998, [112 Stat. 3283](https://www.govinfo.gov/link/statute/112/3283); [Pub. L. 106–284, § 3(a)](https://www.govinfo.gov/link/plaw/106/public/284), Oct. 10, 2000, [114 Stat. 871](https://www.govinfo.gov/link/statute/114/871); [Pub. L. 107–303, title III, § 302(b)(1)](https://www.govinfo.gov/link/plaw/107/public/303), Nov. 27, 2002, [116 Stat. 2361](https://www.govinfo.gov/link/statute/116/2361); [Pub. L. 115–270, title IV, § 4103](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3872](https://www.govinfo.gov/link/statute/132/3872); [Pub. L. 117–58, div. E, title II](https://www.govinfo.gov/link/plaw/117/public/58), §§ 50201(a), 50210(a)(2), Nov. 15, 2021, [135 Stat. 1158](https://www.govinfo.gov/link/statute/135/1158), 1169.)*

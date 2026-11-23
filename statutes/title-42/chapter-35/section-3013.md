@@ -3,9 +3,10 @@ title: "Section 3013 - Federal agency consultation"
 usc_title: 42
 usc_section: "3013"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3013"
-generated_at: "2026-03-30T02:56:11.171Z"
+generated_at: "2026-11-23T21:26:32.464Z"
+status: "active"
 ---
 
 # § 3013. Federal agency consultation
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:56:11.171Z"
       - **(iii)** facilitate access to supportive services for older individuals;
     - **(B)** is not an assisted living facility or long-term care facility; and
     - **(C)** has a plan in place to meet local needs for housing, transportation, civic participation, social connectedness, and accessible public spaces.
+
+## Source Credit
+
+*([Pub. L. 89–73, title II, § 203](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 93–29, title II, § 201(c)](https://www.govinfo.gov/link/plaw/93/public/29), May 3, 1973, [87 Stat. 32](https://www.govinfo.gov/link/statute/87/32); amended [Pub. L. 95–478, title I, § 102(b)](https://www.govinfo.gov/link/plaw/95/public/478), Oct. 18, 1978, [92 Stat. 1513](https://www.govinfo.gov/link/statute/92/1513); [Pub. L. 97–115, § 2(d)](https://www.govinfo.gov/link/plaw/97/public/115), Dec. 29, 1981, [95 Stat. 1595](https://www.govinfo.gov/link/statute/95/1595); [Pub. L. 98–459, title II, § 203](https://www.govinfo.gov/link/plaw/98/public/459), Oct. 9, 1984, [98 Stat. 1768](https://www.govinfo.gov/link/statute/98/1768); [Pub. L. 100–175, title I](https://www.govinfo.gov/link/plaw/100/public/175), §§ 104(a), 105(b), 106(b), Nov. 29, 1987, [101 Stat. 929](https://www.govinfo.gov/link/statute/101/929), 930; [Pub. L. 102–240, title III, § 3003(b)](https://www.govinfo.gov/link/plaw/102/public/240), Dec. 18, 1991, [105 Stat. 2088](https://www.govinfo.gov/link/statute/105/2088); [Pub. L. 102–375, title II, § 203](https://www.govinfo.gov/link/plaw/102/public/375), title IX, § 904(a)(5), Sept. 30, 1992, [106 Stat. 1210](https://www.govinfo.gov/link/statute/106/1210), 1306; [Pub. L. 103–82, title IV, § 405(g)(2)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 921](https://www.govinfo.gov/link/statute/107/921); [Pub. L. 103–171](https://www.govinfo.gov/link/plaw/103/public/171), §§ 2(4), 3(a)(13), Dec. 2, 1993, [107 Stat. 1988](https://www.govinfo.gov/link/statute/107/1988), 1990; [Pub. L. 105–220, title II, § 251(b)(3)](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1080](https://www.govinfo.gov/link/statute/112/1080); [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(33)(A), (f)(25)(A)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–425, 2681–433; [Pub. L. 106–402, title IV, § 401(b)(9)(A)](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1739](https://www.govinfo.gov/link/statute/114/1739); [Pub. L. 106–501, title II, § 202(1)](https://www.govinfo.gov/link/plaw/106/public/501), Nov. 13, 2000, [114 Stat. 2230](https://www.govinfo.gov/link/statute/114/2230); [Pub. L. 109–365, title II, § 203](https://www.govinfo.gov/link/plaw/109/public/365), Oct. 17, 2006, [120 Stat. 2532](https://www.govinfo.gov/link/statute/120/2532); [Pub. L. 113–128, title V, § 512(w)(1)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1713](https://www.govinfo.gov/link/statute/128/1713); [Pub. L. 116–131, title I, § 124(a)](https://www.govinfo.gov/link/plaw/116/public/131), (b), title VII, § 701(4), Mar. 25, 2020, [134 Stat. 249](https://www.govinfo.gov/link/statute/134/249), 271.)*

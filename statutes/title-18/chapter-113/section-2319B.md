@@ -3,9 +3,10 @@ title: "Section 2319B - Unauthorized recording of Motion pictures in a Motion pi
 usc_title: 18
 usc_section: "2319B"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2319B"
-generated_at: "2026-03-30T02:54:16.502Z"
+generated_at: "2026-11-23T21:25:44.140Z"
+status: "active"
 ---
 
 # § 2319B. Unauthorized recording of Motion pictures in a Motion picture exhibition facility
@@ -28,3 +29,29 @@ generated_at: "2026-03-30T02:54:16.502Z"
 - **(g)** In this section, the following definitions shall apply:
   - **(1)** The terms “audiovisual work”, “copy”, “copyright owner”, “motion picture”, “motion picture exhibition facility”, and “transmit” have, respectively, the meanings given those terms in section 101 of title 17 .
   - **(2)** The term “audiovisual recording device” means a digital or analog photographic or video camera, or any other technology or device capable of enabling the recording or transmission of a copyrighted motion picture or other audiovisual work, or any part thereof, regardless of whether audiovisual recording is the sole or primary purpose of the device.
+
+Offense
+
+Forfeiture and Destruction of Property; Restitution
+
+Authorized Activities
+
+Immunity for Theaters
+
+Victim Impact Statement.—
+
+In general
+
+Contents
+
+State Law Not Preempted
+
+Definitions
+
+Title 17 definitions
+
+Audiovisual recording device
+
+## Source Credit
+
+*(Added [Pub. L. 109–9, title I, § 102(a)](https://www.govinfo.gov/link/plaw/109/public/9), Apr. 27, 2005, [119 Stat. 218](https://www.govinfo.gov/link/statute/119/218); amended [Pub. L. 110–403, title II, § 204](https://www.govinfo.gov/link/plaw/110/public/403), Oct. 13, 2008, [122 Stat. 4261](https://www.govinfo.gov/link/statute/122/4261).)*

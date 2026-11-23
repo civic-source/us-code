@@ -3,9 +3,10 @@ title: "Section 112 - Detail of employees of executive departments"
 usc_title: 3
 usc_section: "112"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "3 U.S.C. § 112"
-generated_at: "2026-03-30T02:52:49.879Z"
+generated_at: "2026-11-23T21:25:20.107Z"
+status: "active"
 ---
 
 # § 112. Detail of employees of executive departments
@@ -14,3 +15,7 @@ The head of any department, agency, or independent establishment of the executiv
 
   - **(1)** who is so detailed, and
   - **(2)** who is performing services which have been or would otherwise be performed by an employee of such office,
+
+## Source Credit
+
+*(Added [Pub. L. 95–570, § 3(a)](https://www.govinfo.gov/link/plaw/95/public/570), Nov. 2, 1978, [92 Stat. 2449](https://www.govinfo.gov/link/statute/92/2449).)*

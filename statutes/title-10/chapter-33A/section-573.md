@@ -3,9 +3,10 @@ title: "Section 573 - Convening of selection boards"
 usc_title: 10
 usc_section: "573"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 573"
-generated_at: "2026-03-30T02:53:38.066Z"
+generated_at: "2026-11-23T21:25:32.288Z"
+status: "active"
 ---
 
 # § 573. Convening of selection boards
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:53:38.066Z"
 - **(d)** When reserve warrant officers of one of the armed forces are to be considered by a selection board convened under subsection (a), the membership of the board shall, if practicable, include at least one reserve officer of that armed force, with the exact number of reserve officers to be determined by the Secretary concerned.
 - **(e)** No officer may serve on two consecutive boards under this section, if the second board considers any warrant officer who was considered by the first board.
 - **(f)** The Secretary concerned shall prescribe all other matters relating to the functions and duties of the boards, including the number of members constituting a quorum, and instructions concerning notice of convening of boards and communications with boards.
+
+In general
+
+Selection board described
+
+## Source Credit
+
+*(Added [Pub. L. 102–190, div. A, title XI, § 1112(a)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1493](https://www.govinfo.gov/link/statute/105/1493); amended [Pub. L. 103–337, div. A, title V, § 541(b)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2764](https://www.govinfo.gov/link/statute/108/2764); [Pub. L. 104–106, div. A, title XV, § 1503(a)(5)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 511](https://www.govinfo.gov/link/statute/110/511); [Pub. L. 116–283, div. A, title V, § 503(a)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3564](https://www.govinfo.gov/link/statute/134/3564).)*

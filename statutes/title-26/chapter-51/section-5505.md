@@ -3,9 +3,10 @@ title: "Section 5505 - Applicability of provisions of this chapter"
 usc_title: 26
 usc_section: "5505"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5505"
-generated_at: "2026-03-30T02:55:27.823Z"
+generated_at: "2026-11-23T21:26:06.727Z"
+status: "active"
 ---
 
 # § 5505. Applicability of provisions of this chapter
@@ -20,3 +21,38 @@ generated_at: "2026-03-30T02:55:27.823Z"
 - **(h)** The provisions of section 5556 relating to the prescribing of regulations shall be applicable to this part.
 - **(i)** The penalties and forfeitures provided in sections 5601(a)(1), (6), and (12), 5603, 5615(1) and (4), 5686, and 5687 shall be applicable to this part.
 - **(j)** This chapter (other than this part and the provisions referred to in subsection (a), (b), (c), (d), (e), (f), (g), (h), (i) shall not be applicable with respect to plants established or operations conducted under this part.
+
+| Present subsecs.: | Prior sections |
+| --- | --- |
+| (a) | 5216(a)(1). |
+| (b) | 5171. |
+| (c) | 5216(a)(3). |
+| (d) | 5174. |
+| (e) | 5552. |
+| (f) | 5553(a). |
+| (g) | 5555(b). |
+| (h) | 5556. |
+| (i) | 5601, 5607, 5608, 5686(b). |
+
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+(f)
+
+(g)
+
+(h)
+
+(i)
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1391](https://www.govinfo.gov/link/statute/72/1391); amended [Pub. L. 94–455, title XIX, § 1905(b)(6)(E)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1823](https://www.govinfo.gov/link/statute/90/1823).)*

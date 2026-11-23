@@ -3,9 +3,10 @@ title: "Section 1442 - Informational media guaranties"
 usc_title: 22
 usc_section: "1442"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1442"
-generated_at: "2026-03-30T02:55:05.331Z"
+generated_at: "2026-11-23T21:25:58.396Z"
+status: "active"
 ---
 
 # § 1442. Informational media guaranties
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:05.331Z"
   - **(2)** Such impairment shall consist of the amount by which the losses incurred and interest accrued on notes exceed the revenue earned and any previous appropriations made for the restoration of impairment. Losses shall include the dollar losses on foreign currencies sold, and the dollar cost of foreign currencies which (a) the Secretary of the Treasury, after consultation with the Director, has determined to be unavailable for, or in excess of, requirements of the United States, or (b) have been transferred to other accounts without reimbursement to the special account.
   - **(3)** Dollars appropriated pursuant to this section shall be applied to the payment of interest and in satisfaction of notes issued or assumed hereunder, and to the extent of such application to the principal of the notes, the Director is authorized to issue notes to the Secretary of the Treasury which will bear interest at a rate to be determined by the Secretary of the Treasury, taking into consideration the current average market yields of outstanding marketable obligations of the United States having maturities comparable to the guaranties. The currencies determined to be unavailable for, or in excess of, requirements of the United States as provided above shall be transferred to the Secretary of the Treasury to be held until disposed of, and any dollar proceeds realized from such disposition shall be deposited in miscellaneous receipts.
   - **(4)** Section 1476(a) of this title 1 shall not apply with respect to any amounts appropriated under this section for the purpose of liquidating the notes (and any accrued interest thereon) which were assumed in the operation of the informational media guaranty program under this section and which were outstanding on August 24, 1982 .
+
+## Source Credit
+
+*(Jan. 27, 1948, ch. 36, title X, § 1011, as added Aug. 26, 1954, ch. 937, title V, § 544(a), [68 Stat. 862](https://www.govinfo.gov/link/statute/68/862); amended Aug. 26, 1954, ch. 937, title V, § 544(g), as added July 18, 1956, ch. 627, § 11(a), [70 Stat. 563](https://www.govinfo.gov/link/statute/70/563), and amended [Pub. L. 85–141, § 11(b)(1)](https://www.govinfo.gov/link/plaw/85/public/141), Aug. 14, 1957, [71 Stat. 365](https://www.govinfo.gov/link/statute/71/365); [Pub. L. 85–477](https://www.govinfo.gov/link/plaw/85/public/477), ch. V, § 502(i), June 30, 1958, [72 Stat. 274](https://www.govinfo.gov/link/statute/72/274); [Pub. L. 86–108](https://www.govinfo.gov/link/plaw/86/public/108), ch. VII, § 701(c), July 24, 1959, [73 Stat. 257](https://www.govinfo.gov/link/statute/73/257); [Pub. L. 97–241, title III, § 304(f)](https://www.govinfo.gov/link/plaw/97/public/241), Aug. 24, 1982, [96 Stat. 293](https://www.govinfo.gov/link/statute/96/293).)*

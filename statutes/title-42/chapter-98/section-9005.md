@@ -3,9 +3,10 @@ title: "Section 9005 - Technology application"
 usc_title: 42
 usc_section: "9005"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9005"
-generated_at: "2026-03-30T02:56:11.349Z"
+generated_at: "2026-11-23T21:26:33.225Z"
+status: "active"
 ---
 
 # § 9005. Technology application
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.349Z"
   - **(4)** an assessment of the necessary Government actions to assist in eliminating economic uncertainties through financial incentives, such as loan guarantees, price supports, or other inducements.
 - **(b)** The Secretary shall transmit such comprehensive technology application and market development plan to the Congress within three years after July 17, 1980 , and update the plan on an annual basis thereafter.
 - **(c)** As part of the competitive procurement initiative for design and construction of the pilot and demonstration projects authorized in section 9009(c) of this title , each respondent shall include in its proposal (1) a plan leading to a full-scale, first-of-a-kind facility based on a proposed demonstration system; and (2) the financial and other contributions the respondent will make toward meeting the national goals.
+
+## Source Credit
+
+*([Pub. L. 96–310, § 6](https://www.govinfo.gov/link/plaw/96/public/310), July 17, 1980, [94 Stat. 944](https://www.govinfo.gov/link/statute/94/944).)*

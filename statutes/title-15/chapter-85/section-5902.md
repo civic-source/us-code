@@ -3,9 +3,10 @@ title: "Section 5902 - State reciprocity of weapons licenses issued to armored c
 usc_title: 15
 usc_section: "5902"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 5902"
-generated_at: "2026-03-30T02:54:08.208Z"
+generated_at: "2026-11-23T21:25:40.016Z"
+status: "active"
 ---
 
 # § 5902. State reciprocity of weapons licenses issued to armored car company crew members
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:08.208Z"
   - **(3)** in issuing a weapons license under paragraph (1) or paragraph (2), as the case may be—
     - **(A)** the agency issues such license for a period not to exceed 2 years; or
     - **(B)** the agency issues such license for a period not to exceed 5 years in the case of a State that enacted a State law before October 1, 1996 , that provides for the issuance of an initial weapons license or a renewal of a weapons license, as the case may be, for a period not to exceed 5 years.
+
+## Source Credit
+
+*([Pub. L. 103–55, § 3](https://www.govinfo.gov/link/plaw/103/public/55), July 28, 1993, [107 Stat. 276](https://www.govinfo.gov/link/statute/107/276); [Pub. L. 105–287, § 2](https://www.govinfo.gov/link/plaw/105/public/287), Oct. 27, 1998, [112 Stat. 2776](https://www.govinfo.gov/link/statute/112/2776).)*

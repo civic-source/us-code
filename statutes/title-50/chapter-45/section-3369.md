@@ -3,9 +3,10 @@ title: "Section 3369 - Cooperative actions to detect and counter foreign influen
 usc_title: 50
 usc_section: "3369"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3369"
-generated_at: "2026-03-30T02:56:26.248Z"
+generated_at: "2026-11-23T21:26:39.045Z"
+status: "active"
 ---
 
 # § 3369. Cooperative actions to detect and counter foreign influence operations
@@ -83,3 +84,7 @@ generated_at: "2026-03-30T02:56:26.248Z"
     - **(C)** the Committee on Armed Services, the Committee on Appropriations, the Committee on Homeland Security and Government Affairs, the Committee on Foreign Relations, and the Committee on the Judiciary of the Senate.
   - **(2)** The terms “covered foreign country” and “foreign malign influence” have the meanings given those terms in section 3059 of this title .
   - **(3)** The term “machine-manipulated media” has the meaning given that term in section 5724. 1 1 See References in Text note below.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. E, title LIII, § 5323](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2130](https://www.govinfo.gov/link/statute/133/2130); [Pub. L. 116–283, div. H, title XCIII, § 9301](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4801](https://www.govinfo.gov/link/statute/134/4801).)*

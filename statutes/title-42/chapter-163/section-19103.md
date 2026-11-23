@@ -3,9 +3,10 @@ title: "Section 19103 - Activities"
 usc_title: 42
 usc_section: "19103"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19103"
-generated_at: "2026-03-30T02:56:11.539Z"
+generated_at: "2026-11-23T21:26:33.868Z"
+status: "active"
 ---
 
 # § 19103. Activities
@@ -25,3 +26,7 @@ Subject to the availability of appropriated funds, the Director shall achieve th
   - **(5)** build capacity and infrastructure for use-inspired and translational research at institutions of higher education across the United States, including by making awards to support administrative activities that advance development, operation, integration, deployment, and sharing of innovation;
   - **(6)** support the education, mentoring, and training of undergraduate students, graduate students, and postdoctoral researchers, to both advance use-inspired and translational research and to address workforce challenges, through scholarships, fellowships, and traineeships; and
   - **(7)** identify social, behavioral, and economic drivers and consequences of technological innovations that could enable advances in the challenges and key technology focus areas under section 19107 of this title .
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10383](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1576](https://www.govinfo.gov/link/statute/136/1576).)*

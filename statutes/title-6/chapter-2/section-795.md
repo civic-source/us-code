@@ -3,9 +3,10 @@ title: "Section 795 - Fraud, waste, and abuse controls"
 usc_title: 6
 usc_section: "795"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 795"
-generated_at: "2026-03-30T02:53:09.500Z"
+generated_at: "2026-11-23T21:25:25.850Z"
+status: "active"
 ---
 
 # § 795. Fraud, waste, and abuse controls
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:09.500Z"
   - **(3)** such tracking is designed to highlight and identify ineligible applications; and
   - **(4)** the databases used to collect information from applications for such assistance must be integrated with disbursements and payment records.
 - **(b)** The Administrator shall ensure that any database or similar application processing system for Federal disaster relief assistance programs administered by the Agency undergoes a review by the Inspector General of the Agency to determine the existence and implementation of such internal controls required under this section and the amendments made by this section.
+
+## Source Credit
+
+*([Pub. L. 109–295, title VI, § 696](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1460](https://www.govinfo.gov/link/statute/120/1460).)*

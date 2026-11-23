@@ -3,9 +3,10 @@ title: "Section 4514a - Study and reports on guarantee fees"
 usc_title: 12
 usc_section: "4514a"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4514a"
-generated_at: "2026-03-30T02:53:53.506Z"
+generated_at: "2026-11-23T21:25:37.182Z"
+status: "active"
 ---
 
 # § 4514a. Study and reports on guarantee fees
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:53.506Z"
   - **(6)** a breakdown of the revenue and costs associated with providing guarantees, based on product type and risk classifications; and
   - **(7)** a breakdown of guarantee fees charged based on asset size of the originator and the number of loans sold or transferred to an enterprise.
 - **(e)** Nothing in this section may be construed to require or authorize the Director to publicly disclose information that is confidential or proprietary.
+
+## Source Credit
+
+*([Pub. L. 110–289, div. A, title VI, § 1601](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2824](https://www.govinfo.gov/link/statute/122/2824).)*

@@ -3,9 +3,10 @@ title: "Section 2286a - Mission and functions of Board"
 usc_title: 42
 usc_section: "2286a"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2286a"
-generated_at: "2026-03-30T02:56:11.160Z"
+generated_at: "2026-11-23T21:26:32.392Z"
+status: "active"
 ---
 
 # § 2286a. Mission and functions of Board
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.160Z"
   - **(4)** The Board shall review the design of a new Department of Energy defense nuclear facility before construction of such facility begins and shall recommend to the Secretary, within a reasonable time, such modifications of the design as the Board considers necessary to ensure adequate protection of public health and safety. During the construction of any such facility, the Board shall periodically review and monitor the construction and shall submit to the Secretary, within a reasonable time, such recommendations relating to the construction of that facility as the Board considers necessary to ensure adequate protection of public health and safety. An action of the Board, or a failure to act, under this paragraph may not delay or prevent the Secretary of Energy from carrying out the construction of such a facility.
   - **(5)** The Board shall make such recommendations to the Secretary of Energy with respect to Department of Energy defense nuclear facilities, including operations of such facilities, standards, and research needs, as the Board determines are necessary to ensure adequate protection of public health and safety. In making its recommendations the Board shall consider, and specifically assess risk (whenever sufficient data exists), the technical and economic feasibility of implementing the recommended measures.
 - **(c)** The functions of the Board under this subchapter do not include functions relating to the safety of atomic weapons. However, the Board shall have access to any information on atomic weapons that is within the Department of Energy and is necessary to carry out the functions of the Board.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 312, as added [Pub. L. 100–456, div. A, title XIV, § 1441(a)(1)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 2077](https://www.govinfo.gov/link/statute/102/2077); amended [Pub. L. 102–190, div. C, title XXXII, § 3202(b)(2)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1582](https://www.govinfo.gov/link/statute/105/1582); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944); [Pub. L. 112–239, div. C, title XXXII, § 3202(b)(1)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2218](https://www.govinfo.gov/link/statute/126/2218); [Pub. L. 116–92, div. C, title XXXII, § 3202(b)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1965](https://www.govinfo.gov/link/statute/133/1965).)*

@@ -3,9 +3,10 @@ title: "Section 3005 - Liability and damages"
 usc_title: 15
 usc_section: "3005"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3005"
-generated_at: "2026-03-30T02:54:08.185Z"
+generated_at: "2026-11-23T21:25:39.959Z"
+status: "active"
 ---
 
 # § 3005. Liability and damages
@@ -14,3 +15,7 @@ Any person accepting any interstate off-track wager in violation of this chapter
 
   - **(1)** If the interstate off-track wager was of a type accepted at the host racing association, damages shall be in an amount equal to that portion of the takeout which would have been distributed to the host State, host racing association and the horsemen’s group, as if each such interstate off-track wager had been placed at the host racing association.
   - **(2)** If such interstate off-track wager was of a type not accepted at the host racing association, the amount of damages shall be determined at the rate of takeout prevailing at the off-track betting system for that type of wager and shall be distributed according to the same formulas as in paragraph (1) above.
+
+## Source Credit
+
+*([Pub. L. 95–515, § 6](https://www.govinfo.gov/link/plaw/95/public/515), Oct. 25, 1978, [92 Stat. 1814](https://www.govinfo.gov/link/statute/92/1814).)*

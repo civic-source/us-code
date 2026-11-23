@@ -3,9 +3,10 @@ title: "Section 78o - Registration and regulation of brokers and dealers"
 usc_title: 15
 usc_section: "78o"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 78o"
-generated_at: "2026-03-30T02:54:08.047Z"
+generated_at: "2026-11-23T21:25:39.539Z"
+status: "active"
 ---
 
 # § 78o. Registration and regulation of brokers and dealers
@@ -241,3 +242,101 @@ generated_at: "2026-03-30T02:54:08.047Z"
       - **(i)** investment objectives, strategies, costs, and risks; and
       - **(ii)** any compensation or other financial incentive received by a broker, dealer, or other intermediary in connection with the purchase of retail investment products.
 - **(o)** The Commission, by rule, may prohibit, or impose conditions or limitations on the use of, agreements that require customers or clients of any broker, dealer, or municipal securities dealer to arbitrate any future dispute between them arising under the Federal securities laws, the rules and regulations thereunder, or the rules of a self-regulatory organization if it finds that such prohibition, imposition of conditions, or limitations are in the public interest and for the protection of investors.
+
+Broker/dealer registration with respect to transactions in security futures products.—
+
+Notice registration.—
+
+Contents of notice
+
+Immediate effectiveness
+
+Suspension
+
+Termination
+
+Exemptions for registered brokers and dealers
+
+Exemption for security futures product exchange members.—
+
+Registration exemption
+
+Other exemptions
+
+Registration exemption for merger and acquisition brokers.—
+
+In general
+
+Excluded activities
+
+Disqualification
+
+Rule of construction
+
+Definitions
+
+Business combination related shell company
+
+Control
+
+Eligible privately held company
+
+(aa) The earnings of the company before interest, taxes, depreciation, and amortization are less than $25,000,000.
+
+(bb) The gross revenues of the company are less than $250,000,000.
+
+M&A broker
+
+(aa) will control the eligible privately held company or the business conducted with the assets of the eligible privately held company; and
+
+(bb) directly or indirectly, will be active in the management of the eligible privately held company or the business conducted with the assets of the eligible privately held company, including without limitation, for example, by— (AA) electing executive officers; (BB) approving the annual budget; (CC) serving as an executive or other executive manager; or (DD) carrying out such other activities as the Commission may, by rule, determine to be in the public interest; and
+
+Shell company
+
+(aa) no or nominal assets;
+
+(bb) assets consisting solely of cash and cash equivalents; or
+
+(cc) assets consisting of any amount of cash and cash equivalents and nominal other assets.
+
+Inflation adjustment.—
+
+In general
+
+Rounding
+
+Prohibition of referral fees
+
+(aa) to which the customer was assigned for 14 days prior to the day of the transaction; and
+
+(bb) who is registered with a State in which the customer was a resident or was present for at least 30 consecutive days during the 1-year period prior to the day of the transaction; or
+
+(aa) 60 days after the date on which the application is filed; or
+
+(bb) the date on which such State notifies the associated person that it has denied the application for registration or has stayed the pendency of the application for cause.
+
+Definition
+
+Study
+
+Considerations
+
+Report.—
+
+In general
+
+Content requirements
+
+Public Comment
+
+Rulemaking
+
+Study
+
+Report
+
+“The Congress finds the following:
+
+## Source Credit
+
+*(June 6, 1934, ch. 404, title I, § 15, [48 Stat. 895](https://www.govinfo.gov/link/statute/48/895); May 27, 1936, ch. 462, § 3, [49 Stat. 1377](https://www.govinfo.gov/link/statute/49/1377); June 25, 1938, ch. 677, § 2, [52 Stat. 1075](https://www.govinfo.gov/link/statute/52/1075); [Pub. L. 88–467, § 6](https://www.govinfo.gov/link/plaw/88/public/467), Aug. 20, 1964, [78 Stat. 570](https://www.govinfo.gov/link/statute/78/570); [Pub. L. 91–598, § 11(d)](https://www.govinfo.gov/link/plaw/91/public/598), formerly § 7(d), Dec. 30, 1970, [84 Stat. 1653](https://www.govinfo.gov/link/statute/84/1653), renumbered § 11(d), [Pub. L. 95–283, § 9](https://www.govinfo.gov/link/plaw/95/public/283), May 21, 1978, [92 Stat. 260](https://www.govinfo.gov/link/statute/92/260); [Pub. L. 94–29, § 11](https://www.govinfo.gov/link/plaw/94/public/29), June 4, 1975, [89 Stat. 121](https://www.govinfo.gov/link/statute/89/121); [Pub. L. 95–213, title II, § 204](https://www.govinfo.gov/link/plaw/95/public/213), Dec. 19, 1977, [91 Stat. 1500](https://www.govinfo.gov/link/statute/91/1500); [Pub. L. 98–38, § 3(a)](https://www.govinfo.gov/link/plaw/98/public/38), June 6, 1983, [97 Stat. 206](https://www.govinfo.gov/link/statute/97/206); [Pub. L. 98–376](https://www.govinfo.gov/link/plaw/98/public/376), §§ 4, 6(b), Aug. 10, 1984, [98 Stat. 1265](https://www.govinfo.gov/link/statute/98/1265); [Pub. L. 99–571, title I, § 102(e)](https://www.govinfo.gov/link/plaw/99/public/571), (f), Oct. 28, 1986, [100 Stat. 3218](https://www.govinfo.gov/link/statute/100/3218); [Pub. L. 100–181, title III, § 317](https://www.govinfo.gov/link/plaw/100/public/181), Dec. 4, 1987, [101 Stat. 1256](https://www.govinfo.gov/link/statute/101/1256); [Pub. L. 100–704, § 3(b)(1)](https://www.govinfo.gov/link/plaw/100/public/704), Nov. 19, 1988, [102 Stat. 4679](https://www.govinfo.gov/link/statute/102/4679); [Pub. L. 101–429, title V](https://www.govinfo.gov/link/plaw/101/public/429), §§ 504(a), 505, Oct. 15, 1990, [104 Stat. 952](https://www.govinfo.gov/link/statute/104/952), 953; [Pub. L. 101–550, title II, § 203(a)](https://www.govinfo.gov/link/plaw/101/public/550), (c)(1), Nov. 15, 1990, [104 Stat. 2715](https://www.govinfo.gov/link/statute/104/2715), 2718; [Pub. L. 103–202, title I](https://www.govinfo.gov/link/plaw/103/public/202), §§ 105, 106(b)(2)(B), 109(b)(2), 110, Dec. 17, 1993, [107 Stat. 2348](https://www.govinfo.gov/link/statute/107/2348), 2350, 2353; [Pub. L. 104–67, title I, § 103(a)](https://www.govinfo.gov/link/plaw/104/public/67), Dec. 22, 1995, [109 Stat. 756](https://www.govinfo.gov/link/statute/109/756); [Pub. L. 104–290, title I, § 103(a)](https://www.govinfo.gov/link/plaw/104/public/290), Oct. 11, 1996, [110 Stat. 3420](https://www.govinfo.gov/link/statute/110/3420); [Pub. L. 105–353, title III, § 301(b)(8)](https://www.govinfo.gov/link/plaw/105/public/353), Nov. 3, 1998, [112 Stat. 3236](https://www.govinfo.gov/link/statute/112/3236); [Pub. L. 106–102, title II, § 205](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1391](https://www.govinfo.gov/link/statute/113/1391); [Pub. L. 106–554, § 1(a)(5) [title II, §§ 203(a)(1), (b), 206(h), title III, § 303(e), (f)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–421, 2763A–422, 2763A–432, 2763A–454, 2763A–455; [Pub. L. 107–204, title VI, § 604(a)](https://www.govinfo.gov/link/plaw/107/public/204), (c)(1)(B), July 30, 2002, [116 Stat. 795](https://www.govinfo.gov/link/statute/116/795), 796; [Pub. L. 109–291, § 4(b)(1)(A)](https://www.govinfo.gov/link/plaw/109/public/291), Sept. 29, 2006, [120 Stat. 1337](https://www.govinfo.gov/link/statute/120/1337); [Pub. L. 111–203, title I, § 173(c)](https://www.govinfo.gov/link/plaw/111/public/203), title VII, §§ 713(a), 762(d)(4), 766(d), title IX, §§ 913(g)(1), (h)(1), 919, 921(a), 925(a)(1), 929L(3), 929X(c), 942(a), 975(g), 985(b)(5)(A), July 21, 2010, [124 Stat. 1440](https://www.govinfo.gov/link/statute/124/1440), 1646, 1761, 1799, 1828, 1829, 1837, 1841, 1850, 1861, 1870, 1896, 1923, 1933; [Pub. L. 112–106, title III, § 305(d)(1)](https://www.govinfo.gov/link/plaw/112/public/106), title VI, § 601(b), Apr. 5, 2012, [126 Stat. 323](https://www.govinfo.gov/link/statute/126/323), 326; [Pub. L. 114–94, div. G, title LXXXV, § 85001(2)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1797](https://www.govinfo.gov/link/statute/129/1797); [Pub. L. 117–328, div. AA, title V, § 501(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5538](https://www.govinfo.gov/link/statute/136/5538).)*

@@ -3,9 +3,10 @@ title: "Section 4912 - Tax on disqualifying lobbying expenditures of certain org
 usc_title: 26
 usc_section: "4912"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4912"
-generated_at: "2026-03-30T02:55:27.806Z"
+generated_at: "2026-11-23T21:26:06.642Z"
+status: "active"
 ---
 
 # § 4912. Tax on disqualifying lobbying expenditures of certain organizations
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:27.806Z"
   - **(1)** The term “lobbying expenditure” means any amount paid or incurred by the organization in carrying on propaganda, or otherwise attempting to influence legislation.
   - **(2)** The term “organization manager” has the meaning given to such term by section 4955(f)(2).
   - **(3)** If more than 1 person is liable under subsection (b), all such persons shall be jointly and severally liable under such subsection.
+
+## Source Credit
+
+*(Added [Pub. L. 100–203, title X, § 10714(a)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–470](https://www.govinfo.gov/link/statute/101/1330).)*

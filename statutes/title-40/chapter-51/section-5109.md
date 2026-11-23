@@ -3,9 +3,10 @@ title: "Section 5109 - Penalties"
 usc_title: 40
 usc_section: "5109"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 5109"
-generated_at: "2026-03-30T02:55:43.381Z"
+generated_at: "2026-11-23T21:26:14.878Z"
+status: "active"
 ---
 
 # § 5109. Penalties
@@ -18,3 +19,44 @@ generated_at: "2026-03-30T02:55:43.381Z"
     - **(A)** section 5104(e)(1) of this title or for conduct that constitutes a felony under federal law or the laws of the District of Columbia shall be brought in the United States District Court for the District of Columbia; and
     - **(B)** any other section referred to in subsection (a) may be brought in the Superior Court of the District of Columbia.
   - **(3)** The penalty which may be imposed on a person convicted in an action under this subsection is the highest penalty authorized by any of the laws the defendant is convicted of violating.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5109 | 40:193h. | July 31, 1946, ch. 707, § 8 , 60 Stat. 719 ; Pub. L. 87–571 , Aug. 6, 1962 , 76 Stat. 307 ; Pub. L. 90–108, § 1(c) , Oct. 20, 1967 , 81 Stat. 277 . |
+
+
+Firearms, Dangerous Weapons, Explosives, or Incendiary Device Offenses
+
+Other Offenses
+
+Procedure.—
+
+In general
+
+Venue
+
+Amount of penalty
+
+Historical and Revision Notes
+
+5109
+
+July 31, 1946, ch. 707, § 8
+
+60 Stat. 719
+
+Pub. L. 87–571
+
+Aug. 6, 1962
+
+76 Stat. 307
+
+Pub. L. 90–108, § 1(c)
+
+Oct. 20, 1967
+
+81 Stat. 277
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1178](https://www.govinfo.gov/link/statute/116/1178).)*

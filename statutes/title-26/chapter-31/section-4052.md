@@ -3,9 +3,10 @@ title: "Section 4052 - Definitions and special rules"
 usc_title: 26
 usc_section: "4052"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4052"
-generated_at: "2026-03-30T02:55:27.798Z"
+generated_at: "2026-11-23T21:26:06.592Z"
+status: "active"
 ---
 
 # § 4052. Definitions and special rules
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:55:27.798Z"
   - **(1)** An article described in section 4051(a)(1) shall not be treated as manufactured or produced solely by reason of repairs or modifications to the article (including any modification which changes the transportation function of the article or restores a wrecked article to a functional condition) if the cost of such repairs and modifications does not exceed 75 percent of the retail price of a comparable new article.
   - **(2)** Paragraph (1) shall not apply if the article (as repaired or modified) would, if new, be taxable under section 4051 and the article when new was not taxable under such section or the corresponding provision of prior law.
 - **(g)** The Secretary shall prescribe regulations which permit, in lieu of any other certification, persons who are purchasing articles taxable under this subchapter for resale or leasing in a long-term lease to execute a statement (made under penalties of perjury) on the sale invoice that such sale is for resale. The Secretary shall not impose any registration requirement as a condition of using such procedure.
+
+## Source Credit
+
+*(Added [Pub. L. 97–424, title V, § 512(b)(1)](https://www.govinfo.gov/link/plaw/97/public/424), Jan. 6, 1983, [96 Stat. 2175](https://www.govinfo.gov/link/statute/96/2175); amended [Pub. L. 98–369, div. A, title VII](https://www.govinfo.gov/link/plaw/98/public/369), §§ 731, 735(b)(2), July 18, 1984, [98 Stat. 976](https://www.govinfo.gov/link/statute/98/976), 981; [Pub. L. 100–17, title V](https://www.govinfo.gov/link/plaw/100/public/17), §§ 505(a)–(c), 506(a), Apr. 2, 1987, [101 Stat. 258](https://www.govinfo.gov/link/statute/101/258), 259; [Pub. L. 100–647, title VI, § 6111(a)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3713](https://www.govinfo.gov/link/statute/102/3713); [Pub. L. 105–34, title XIV](https://www.govinfo.gov/link/plaw/105/public/34), §§ 1402(b), 1434(a), (b), Aug. 5, 1997, [111 Stat. 1046](https://www.govinfo.gov/link/statute/111/1046), 1052; [Pub. L. 105–206, title VI, § 6014(c)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 820](https://www.govinfo.gov/link/statute/112/820).)*

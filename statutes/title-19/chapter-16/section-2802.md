@@ -3,9 +3,10 @@ title: "Section 2802 - Definitions"
 usc_title: 19
 usc_section: "2802"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2802"
-generated_at: "2026-03-30T02:54:24.686Z"
+generated_at: "2026-11-23T21:25:42.830Z"
+status: "active"
 ---
 
 # § 2802. Definitions
@@ -22,3 +23,7 @@ For purposes of this chapter—
     - **(A)** is made from grapes or other fruit;
     - **(B)** contains not less than 0.5 percent alcohol by volume and not more than 24 percent alcohol by volume, including all dilutions and mixtures thereof by whatever process produced; and
     - **(C)** is for nonindustrial use.
+
+## Source Credit
+
+*([Pub. L. 98–573, title IX, § 903](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 3048](https://www.govinfo.gov/link/statute/98/3048).)*

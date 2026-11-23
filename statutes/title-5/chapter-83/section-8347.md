@@ -3,9 +3,10 @@ title: "Section 8347 - Administration; regulations"
 usc_title: 5
 usc_section: "8347"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8347"
-generated_at: "2026-03-30T02:52:56.052Z"
+generated_at: "2026-11-23T21:25:23.405Z"
+status: "active"
 ---
 
 # § 8347. Administration; regulations
@@ -56,3 +57,108 @@ generated_at: "2026-03-30T02:52:56.052Z"
     - **(B)** is a participant in a retirement system established for employees described in section 2105(c);
     - **(C)** moves, without a break in service of more than 1 year, to a position that is not described in section 2105(c); and
     - **(D)** is excluded from coverage under chapter 84 by section 8402(b),
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| (a)–(f) | 5 U.S.C. 2266 (less (f)). | July 31, 1956, ch. 804, § 401 “Sec. 16 (less (f))”, 70 Stat. 758 . |
+| (g)–(k) | 5 U.S.C. 2252(e) , (f) (words after semicolon), (h) (1). | July 31, 1956, ch. 804, § 401 “Sec. 2(e), (f) (words after semicolon)”, 70 Stat. 745 . |
+|  |  | July 1, 1960 , Pub. L. 86–568, § 115(b)(1) “(h) (1)”, 74 Stat. 302 . |
+
+| 1967 Act | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8347( l ) | 5 App.: 2252(f). | Sept. 26, 1966 , Pub. L. 89–604, § 1(c) , 80 Stat. 847 . |
+
+
+Historical and Revision Notes
+
+Act
+
+(a)–(f)
+
+5 U.S.C. 2266
+
+July 31, 1956, ch. 804, § 401
+
+70 Stat. 758
+
+(g)–(k)
+
+5 U.S.C. 2252(e)
+
+July 31, 1956, ch. 804, § 401
+
+70 Stat. 745
+
+July 1, 1960
+
+Pub. L. 86–568, § 115(b)(1)
+
+74 Stat. 302
+
+Act
+
+8347( l )
+
+Sept. 26, 1966
+
+Pub. L. 89–604, § 1(c)
+
+80 Stat. 847
+
+Regulations
+
+Applicability; Related Provisions.—
+
+Prospective rules
+
+Retroactive rules.—
+
+In general
+
+Deadline; related provisions
+
+Transfers of contributions.—
+
+In general
+
+Condition subsequent relating to repayment of lump-sum credit
+
+Condition subsequent relating to deficiency in payments relative to amounts needed to ensure that benefits are fully funded.—
+
+In general
+
+Payment of deficiency
+
+Alternative election for an individual then participating in fers.—
+
+Applicability
+
+Election
+
+Qualifying nafi service
+
+Service ceases to be creditable for nafi retirement system purposes
+
+Conditions
+
+Alternative election for an individual then participating in a nafi retirement system.—
+
+Applicability
+
+Election
+
+Qualifying fers service
+
+Service ceases to be creditable for purposes of fers
+
+Funding requirements.—
+
+In general
+
+Contribution required only if individual elects to have service made creditable for computation purposes as well
+
+Information
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 583](https://www.govinfo.gov/link/statute/80/583); [Pub. L. 90–83, § 1(84)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 218](https://www.govinfo.gov/link/statute/81/218); [Pub. L. 90–623, § 1(22)](https://www.govinfo.gov/link/plaw/90/public/623), Oct. 22, 1968, [82 Stat. 1313](https://www.govinfo.gov/link/statute/82/1313); [Pub. L. 95–437, § 4(a)](https://www.govinfo.gov/link/plaw/95/public/437), Oct. 10, 1978, [92 Stat. 1058](https://www.govinfo.gov/link/statute/92/1058); [Pub. L. 95–454, title IX, § 906(a)(2)](https://www.govinfo.gov/link/plaw/95/public/454), (3), (9), (c)(2)(F), Oct. 13, 1978, [92 Stat. 1224](https://www.govinfo.gov/link/statute/92/1224), 1225, 1227; [Pub. L. 96–54, § 2(a)(50)](https://www.govinfo.gov/link/plaw/96/public/54), Aug. 14, 1979, [93 Stat. 384](https://www.govinfo.gov/link/statute/93/384); [Pub. L. 96–499, title IV, § 404(b)](https://www.govinfo.gov/link/plaw/96/public/499), Dec. 5, 1980, [94 Stat. 2606](https://www.govinfo.gov/link/statute/94/2606); [Pub. L. 96–500, § 1](https://www.govinfo.gov/link/plaw/96/public/500), Dec. 5, 1980, [94 Stat. 2696](https://www.govinfo.gov/link/statute/94/2696); [Pub. L. 97–253, title III, § 302(b)](https://www.govinfo.gov/link/plaw/97/public/253), Sept. 8, 1982, [96 Stat. 793](https://www.govinfo.gov/link/statute/96/793); [Pub. L. 99–335, title II, § 207(i)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 596](https://www.govinfo.gov/link/statute/100/596); [Pub. L. 100–238, title I, § 108(a)(1)](https://www.govinfo.gov/link/plaw/100/public/238), Jan. 8, 1988, [101 Stat. 1747](https://www.govinfo.gov/link/statute/101/1747); [Pub. L. 101–474, § 5(n)](https://www.govinfo.gov/link/plaw/101/public/474), Oct. 30, 1990, [104 Stat. 1100](https://www.govinfo.gov/link/statute/104/1100); [Pub. L. 101–508, title VII, § 7202(j)(2)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–337](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–54, § 13(b)(5)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 274](https://www.govinfo.gov/link/statute/105/274); [Pub. L. 102–378, § 2(64)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1354](https://www.govinfo.gov/link/statute/106/1354); [Pub. L. 102–496, title VIII, § 803(c)](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3253](https://www.govinfo.gov/link/statute/106/3253); [Pub. L. 103–296, title I, § 108(e)(5)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1486](https://www.govinfo.gov/link/statute/108/1486); [Pub. L. 104–106, div. A, title X, § 1043(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 434](https://www.govinfo.gov/link/statute/110/434); [Pub. L. 107–107, div. A, title XI, § 1131(a)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1242](https://www.govinfo.gov/link/statute/115/1242).)*

@@ -3,9 +3,10 @@ title: "Section 4307 - Periodic statements"
 usc_title: 12
 usc_section: "4307"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4307"
-generated_at: "2026-03-30T02:53:53.504Z"
+generated_at: "2026-11-23T21:25:37.174Z"
+status: "active"
 ---
 
 # § 4307. Periodic statements
@@ -16,3 +17,7 @@ Each depository institution shall include on or with each periodic statement pro
   - **(2)** The amount of interest earned.
   - **(3)** The amount of any fees or charges imposed.
   - **(4)** The number of days in the reporting period.
+
+## Source Credit
+
+*([Pub. L. 102–242, title II, § 268](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2338](https://www.govinfo.gov/link/statute/105/2338).)*

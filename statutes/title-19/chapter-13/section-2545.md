@@ -3,9 +3,10 @@ title: "Section 2545 - Contracts and grants"
 usc_title: 19
 usc_section: "2545"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2545"
-generated_at: "2026-03-30T02:54:24.679Z"
+generated_at: "2026-11-23T21:25:42.816Z"
+status: "active"
 ---
 
 # § 2545. Contracts and grants
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:24.679Z"
 - **(b)** Any contract entered into, or any grant made, under subsection (a) shall be subject to such terms and conditions as the Trade Representative or Secretary concerned shall by regulation prescribe as being necessary or appropriate to protect the interests of the United States.
 - **(c)** Financial assistance extended under this section shall not exceed 75 percent of the total costs (as established by the Trade Representative or Secretary concerned, as the case may be) of the program or activity for which assistance is made available. The non-Federal share of such costs shall be made in cash or kind, consistent with the maintenance of the program or activity concerned.
 - **(d)** Each recipient of a grant or contract under this section shall make available to the Trade Representative or the Secretary concerned, as the case may be, and to the Comptroller General of the United States, for purposes of audit and examination, any book, document, paper, and record that is pertinent to the funds received under such grant or contract.
+
+## Source Credit
+
+*([Pub. L. 96–39, title IV, § 415](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 246](https://www.govinfo.gov/link/statute/93/246); [Pub. L. 103–182, title III, § 351(b)(2)(A)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2122](https://www.govinfo.gov/link/statute/107/2122); [Pub. L. 104–295, § 21(b)(1)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3529](https://www.govinfo.gov/link/statute/110/3529).)*

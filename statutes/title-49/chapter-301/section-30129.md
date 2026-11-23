@@ -3,9 +3,10 @@ title: "Section 30129 - Crash avoidance technology"
 usc_title: 49
 usc_section: "30129"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 30129"
-generated_at: "2026-03-30T02:56:19.352Z"
+generated_at: "2026-11-23T21:26:40.762Z"
+status: "active"
 ---
 
 # § 30129. Crash avoidance technology
@@ -22,3 +23,11 @@ generated_at: "2026-03-30T02:56:19.352Z"
       - **(i)** warns the driver to maintain the lane of travel; and
       - **(ii)** corrects the course of travel if the driver fails to do so.
 - **(b)** The Secretary of Transportation shall determine the appropriate effective date, and any phasing-in of requirements, of the final rule promulgated pursuant to subsection (a).
+
+In General
+
+Compliance Date
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. B, title IV, § 24208(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 823](https://www.govinfo.gov/link/statute/135/823).)*

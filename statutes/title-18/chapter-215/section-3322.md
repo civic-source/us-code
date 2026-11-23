@@ -3,9 +3,10 @@ title: "Section 3322 - Disclosure of certain matters occurring before grand jury
 usc_title: 18
 usc_section: "3322"
 chapter: 215
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3322"
-generated_at: "2026-03-30T02:54:16.516Z"
+generated_at: "2026-11-23T21:25:44.199Z"
+status: "active"
 ---
 
 # § 3322. Disclosure of certain matters occurring before grand jury
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:16.516Z"
     - **(C)** any provision of subchapter II of chapter 53 of title 31, United States Code;
   - **(2)** the term “attorney for the government” has the meaning given such term in the Federal Rules of Criminal Procedure; and
   - **(3)** the term “grand jury information” means matters occurring before a grand jury other than the deliberations of the grand jury or the vote of any grand juror.
+
+## Source Credit
+
+*(Added [Pub. L. 101–73, title IX, § 964(a)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 505](https://www.govinfo.gov/link/statute/103/505); amended [Pub. L. 106–102, title VII, § 740](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1480](https://www.govinfo.gov/link/statute/113/1480); [Pub. L. 106–185, § 10](https://www.govinfo.gov/link/plaw/106/public/185), Apr. 25, 2000, [114 Stat. 217](https://www.govinfo.gov/link/statute/114/217); [Pub. L. 107–273, div. C, title I, § 11002](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1816](https://www.govinfo.gov/link/statute/116/1816).)*

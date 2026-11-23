@@ -3,12 +3,17 @@ title: "Section 4005 - “Fuel conversion price” defined"
 usc_title: 7
 usc_section: "4005"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 4005"
-generated_at: "2026-03-30T02:53:42.405Z"
+generated_at: "2026-11-23T21:25:28.342Z"
+status: "active"
 ---
 
 # § 4005. “Fuel conversion price” defined
 
 As used in this chapter, the phrase “fuel conversion price” means the price for an agricultural commodity determined by the Secretary of Agriculture that will permit gasoline-alcohol mixtures using alcohol produced from the commodity to be competitive in price with unleaded gasoline priced at the point it leaves the refinery, adjusted for differences in octane rating, taking into consideration the energy value of the commodity and other appropriate values designed to represent, on a national average basis, the value of byproducts also recoverable from the commodity; the direct costs and capital recovery costs for a grain alcohol distillery capable of producing forty million gallons of alcohol and recovering byproducts annually; and Federal tax and other Federal incentives applicable to alcohol used for fuel.
 
+
+## Source Credit
+
+*([Pub. L. 96–494, title II, § 212](https://www.govinfo.gov/link/plaw/96/public/494), Dec. 3, 1980, [94 Stat. 2578](https://www.govinfo.gov/link/statute/94/2578).)*

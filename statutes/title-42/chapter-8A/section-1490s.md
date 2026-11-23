@@ -3,9 +3,10 @@ title: "Section 1490s - Enforcement provisions"
 usc_title: 42
 usc_section: "1490s"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1490s"
-generated_at: "2026-03-30T02:56:11.099Z"
+generated_at: "2026-11-23T21:26:32.082Z"
+status: "active"
 ---
 
 # § 1490s. Enforcement provisions
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:11.099Z"
   - **(5)**
     - **(A)** If a person or entity fails to comply with a final determination by the Secretary imposing a civil monetary penalty under this subsection, the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against such individual or entity and such other relief as may be available. The monetary judgment may, in the court’s discretion, include the attorney’s fees and other expenses incurred by the United States in connection with the action.
     - **(B)** In an action under this paragraph, the validity and appropriateness of a determination by the Secretary imposing the penalty shall not be subject to review.
+
+## Source Credit
+
+*(July 15, 1949, ch. 338, title V, § 543, as added [Pub. L. 106–569, title VII, § 708(a)](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 3016](https://www.govinfo.gov/link/statute/114/3016).)*

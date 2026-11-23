@@ -3,9 +3,10 @@ title: "Section 3831b - Farmable wetland program"
 usc_title: 16
 usc_section: "3831b"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3831b"
-generated_at: "2026-03-30T02:54:23.025Z"
+generated_at: "2026-11-23T21:25:51.988Z"
+status: "active"
 ---
 
 # § 3831b. Farmable wetland program
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:54:23.025Z"
     - **(B)** provide assistance to the owner or operator in accordance with sections 3833 and 3834 of this title.
   - **(2)** The Secretary shall use the method of determination described in section 3834(d) of this title to determine the acceptability of contract offers and the amount of rental payments under this section.
   - **(3)** The amounts payable to owners and operators in the form of rental payments under contracts entered into under this section shall reflect incentives that are provided to owners and operators to enroll filterstrips in the conservation reserve under section 3834 of this title .
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1231B](https://www.govinfo.gov/link/plaw/99/public/198), as added [Pub. L. 110–234, title II, § 2106(a)(1)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1029](https://www.govinfo.gov/link/statute/122/1029), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title II, § 2106(a)(1), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1757; amended [Pub. L. 113–79, title II, § 2002](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 714](https://www.govinfo.gov/link/statute/128/714); [Pub. L. 115–334, title II](https://www.govinfo.gov/link/plaw/115/public/334), §§ 2203, 2821(c), Dec. 20, 2018, [132 Stat. 4538](https://www.govinfo.gov/link/statute/132/4538), 4603.)*

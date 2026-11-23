@@ -3,9 +3,10 @@ title: "Section 2225a - Prohibiting Federal funding of conferences held at non-c
 usc_title: 15
 usc_section: "2225a"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2225a"
-generated_at: "2026-03-30T02:54:08.169Z"
+generated_at: "2026-11-23T21:25:39.921Z"
+status: "active"
 ---
 
 # § 2225a. Prohibiting Federal funding of conferences held at non-certified places of public accommodation
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:08.169Z"
     - **(A)** Each Executive department, Government corporation, and independent establishment providing Federal funds to non-Federal entities shall notify recipients of such funds of the prohibition described in subsection (a).
     - **(B)** In subparagraph (A), the terms “Executive department”, “Government corporation”, and “independent establishment” have the meanings given such terms in chapter 1 of title 5.
 - **(d)** The provisions of this section shall take effect on the first day of the first fiscal year that begins after the expiration of the 425-day period that begins on the date of the publication in the Federal Register of the master list referred to in section 2224(b) of this title .
+
+## Source Credit
+
+*([Pub. L. 101–391, § 6](https://www.govinfo.gov/link/plaw/101/public/391), Sept. 25, 1990, [104 Stat. 751](https://www.govinfo.gov/link/statute/104/751).)*

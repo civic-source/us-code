@@ -3,9 +3,10 @@ title: "Section 906 - General and special sequestration rules"
 usc_title: 2
 usc_section: "906"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 906"
-generated_at: "2026-03-30T02:53:04.806Z"
+generated_at: "2026-11-23T21:25:21.202Z"
+status: "active"
 ---
 
 # § 906. General and special sequestration rules
@@ -88,3 +89,7 @@ generated_at: "2026-03-30T02:53:04.806Z"
   - **(4)** Except as otherwise provided, obligations in sequestered accounts shall be reduced only in the fiscal year in which a sequester occurs.
   - **(5)** If an automatic spending increase is sequestered, the increase (in the applicable index) that was disregarded as a result of that sequestration shall not be taken into account in any subsequent fiscal year.
   - **(6)** Budgetary resources sequestered in revolving, trust, and special fund accounts and offsetting collections sequestered in appropriation accounts shall not be available for obligation during the fiscal year in which the sequestration occurs, but shall be available in subsequent years to the extent otherwise provided in law.
+
+## Source Credit
+
+*([Pub. L. 99–177, title II, § 256](https://www.govinfo.gov/link/plaw/99/public/177), Dec. 12, 1985, [99 Stat. 1086](https://www.govinfo.gov/link/statute/99/1086); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 100–86, title V, § 506(b)](https://www.govinfo.gov/link/plaw/100/public/86), Aug. 10, 1987, [101 Stat. 634](https://www.govinfo.gov/link/statute/101/634); [Pub. L. 100–119, title I](https://www.govinfo.gov/link/plaw/100/public/119), §§ 102(b)(2), (3), (11), 104(a)(3), (4), Sept. 29, 1987, [101 Stat. 773](https://www.govinfo.gov/link/statute/101/773), 775, 776; [Pub. L. 101–73, title VII, § 743(b)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 437](https://www.govinfo.gov/link/statute/103/437); [Pub. L. 101–508, title XIII, § 13101(d)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–589](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 101–509, title V, § 529 [title I, § 101(b)(2)(A), (4)(H)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1439, 1440; [Pub. L. 104–193, title I, § 110(r)(2)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2175](https://www.govinfo.gov/link/statute/110/2175); [Pub. L. 105–33, title X, § 10208(a)(1)](https://www.govinfo.gov/link/plaw/105/public/33), (b)–(g), Aug. 5, 1997, [111 Stat. 708–710](https://www.govinfo.gov/link/statute/111/708); [Pub. L. 111–139, title I](https://www.govinfo.gov/link/plaw/111/public/139), §§ 9(b), 10, Feb. 12, 2010, [124 Stat. 21](https://www.govinfo.gov/link/statute/124/21); [Pub. L. 111–203, title III, § 352](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1546](https://www.govinfo.gov/link/statute/124/1546); [Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1465](https://www.govinfo.gov/link/statute/125/1465); [Pub. L. 112–239, div. A, title X, § 1076(a)(9)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1948](https://www.govinfo.gov/link/statute/126/1948); [Pub. L. 116–260, div. N, title II, § 235(a)](https://www.govinfo.gov/link/plaw/116/public/260), (c), Dec. 27, 2020, [134 Stat. 1959](https://www.govinfo.gov/link/statute/134/1959); [Pub. L. 117–168, title VIII, § 805(b)](https://www.govinfo.gov/link/plaw/117/public/168), Aug. 10, 2022, [136 Stat. 1805](https://www.govinfo.gov/link/statute/136/1805); [Pub. L. 117–263, div. A, title VI, § 626(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2628](https://www.govinfo.gov/link/statute/136/2628).)*

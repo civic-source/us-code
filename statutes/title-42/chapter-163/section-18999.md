@@ -3,9 +3,10 @@ title: "Section 18999 - Programs to address the STEM workforce"
 usc_title: 42
 usc_section: "18999"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18999"
-generated_at: "2026-03-30T02:56:11.537Z"
+generated_at: "2026-11-23T21:26:33.862Z"
+status: "active"
 ---
 
 # § 18999. Programs to address the STEM workforce
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.537Z"
     - **(A)** scholarships to attend community colleges; and
     - **(B)** research experiences and internships under sections 1862p–5, 1862p–6, and 1862p–7 of this title; and
   - **(4)** awards to institutions of higher education to enable the institutions to fund innovation in undergraduate and graduate education, increased educational capacity, and the development and establishment of new or specialized programs of study for graduate, undergraduate, or technical college students, and the evaluation of the effectiveness of the programs of study.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10321](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1537](https://www.govinfo.gov/link/statute/136/1537).)*

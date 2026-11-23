@@ -3,9 +3,10 @@ title: "Section 3058i - Prevention of elder abuse, neglect, and exploitation"
 usc_title: 42
 usc_section: "3058i"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3058i"
-generated_at: "2026-03-30T02:56:11.181Z"
+generated_at: "2026-11-23T21:26:32.526Z"
+status: "active"
 ---
 
 # § 3058i. Prevention of elder abuse, neglect, and exploitation
@@ -77,3 +78,7 @@ generated_at: "2026-03-30T02:56:11.181Z"
 - **(h)** The Assistant Secretary shall develop accountability measures to ensure the effectiveness of the activities carried out under this section.
 - **(i)** The Assistant Secretary shall evaluate the activities carried out under this section, using funds made available under section 3017(h) of this title .
 - **(j)** In order to receive funds made available to carry out this section, an entity shall comply with all applicable laws, regulations, and guidelines.
+
+## Source Credit
+
+*([Pub. L. 89–73, title VII, § 721](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 102–375, title VII, § 703(b)](https://www.govinfo.gov/link/plaw/102/public/375), Sept. 30, 1992, [106 Stat. 1282](https://www.govinfo.gov/link/statute/106/1282); amended [Pub. L. 106–501, title VII, § 705](https://www.govinfo.gov/link/plaw/106/public/501), title VIII, § 801(e)(3), Nov. 13, 2000, [114 Stat. 2290](https://www.govinfo.gov/link/statute/114/2290), 2293; [Pub. L. 109–365, title VII, § 702](https://www.govinfo.gov/link/plaw/109/public/365), Oct. 17, 2006, [120 Stat. 2591](https://www.govinfo.gov/link/statute/120/2591); [Pub. L. 114–144, § 8(e)](https://www.govinfo.gov/link/plaw/114/public/144), Apr. 19, 2016, [130 Stat. 351](https://www.govinfo.gov/link/statute/130/351); [Pub. L. 116–131, title VI, § 603](https://www.govinfo.gov/link/plaw/116/public/131), title VII, § 701(12), Mar. 25, 2020, [134 Stat. 269](https://www.govinfo.gov/link/statute/134/269), 272.)*

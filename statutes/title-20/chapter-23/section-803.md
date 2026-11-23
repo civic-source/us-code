@@ -3,9 +3,10 @@ title: "Section 803 - Matching grants to States"
 usc_title: 20
 usc_section: "803"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 803"
-generated_at: "2026-03-30T02:54:48.086Z"
+generated_at: "2026-11-23T21:25:46.965Z"
+status: "active"
 ---
 
 # § 803. Matching grants to States
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:48.086Z"
   - **(4)** designates an officer or agency of the State government who has responsibility and authority for the administration of a statewide research and training program as the officer or agency with responsibility and authority for the execution of the State’s program under this section; and
   - **(5)** provides that such officer or agency will make such reports to the Secretary, in such form, and containing such information, as may be reasonably necessary to enable the Secretary to perform his duties under this section.
 - **(d)** No grant may be made under this section for any use unless an amount at least equal to such grant is made available from non-Federal sources for the same purpose and for concurrent use.
+
+## Source Credit
+
+*([Pub. L. 88–560, title VIII, § 803](https://www.govinfo.gov/link/plaw/88/public/560), Sept. 2, 1964, [78 Stat. 803](https://www.govinfo.gov/link/statute/78/803); [Pub. L. 89–117, title XI, § 1103(b)](https://www.govinfo.gov/link/plaw/89/public/117), Aug. 10, 1965, [79 Stat. 503](https://www.govinfo.gov/link/statute/79/503); [Pub. L. 91–152, title III, § 307](https://www.govinfo.gov/link/plaw/91/public/152), Dec. 24, 1969, [83 Stat. 393](https://www.govinfo.gov/link/statute/83/393); [Pub. L. 91–609, title IX, § 904](https://www.govinfo.gov/link/plaw/91/public/609), Dec. 31, 1970, [84 Stat. 1809](https://www.govinfo.gov/link/statute/84/1809).)*

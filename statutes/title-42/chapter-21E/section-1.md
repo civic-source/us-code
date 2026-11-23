@@ -3,9 +3,10 @@ title: "Section 1 - Privacy and civil liberties officers"
 usc_title: 42
 usc_section: "1"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T02:56:11.143Z"
+generated_at: "2026-11-23T21:26:32.301Z"
+status: "active"
 ---
 
 # § 2000ee–1. Privacy and civil liberties officers
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:56:11.143Z"
   - **(1)** make the reports of such officer, including reports to Congress, available to the public to the greatest extent that is consistent with the protection of classified information and applicable law; and
   - **(2)** otherwise inform the public of the activities of such officer, as appropriate and in a manner consistent with the protection of classified information and applicable law.
 - **(h)** Nothing in this section shall be construed to limit or otherwise supplant any other authorities or responsibilities provided by law to privacy officers or civil liberties officers.
+
+## Source Credit
+
+*([Pub. L. 108–458, title I, § 1062](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3688](https://www.govinfo.gov/link/statute/118/3688); [Pub. L. 110–53, title VIII, § 803(a)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 360](https://www.govinfo.gov/link/statute/121/360); [Pub. L. 113–126, title III, § 329(b)(4)](https://www.govinfo.gov/link/plaw/113/public/126), July 7, 2014, [128 Stat. 1406](https://www.govinfo.gov/link/statute/128/1406); [Pub. L. 115–118, title I, § 109](https://www.govinfo.gov/link/plaw/115/public/118), Jan. 19, 2018, [132 Stat. 15](https://www.govinfo.gov/link/statute/132/15); [Pub. L. 117–263, div. F, title LXVIII, § 6811(d)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3601](https://www.govinfo.gov/link/statute/136/3601).)*

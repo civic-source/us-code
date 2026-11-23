@@ -3,9 +3,10 @@ title: "Section 657 - Oversight of regulatory enforcement"
 usc_title: 15
 usc_section: "657"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 657"
-generated_at: "2026-03-30T02:54:08.105Z"
+generated_at: "2026-11-23T21:25:39.695Z"
+status: "active"
 ---
 
 # § 657. Oversight of regulatory enforcement
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:08.105Z"
   - **(1)** hyperlinks to small entity compliance guides described under section 212(a)(1) of the Small Business Regulatory Enforcement Fairness Act of 1996; and
   - **(2)** with respect to each such small entity compliance guide, the contact information for an individual who can offer assistance to small entities with respect to the rules that are the subject of such guide.
 - **(f)** The Ombudsman shall include in the annual report required under subsection (b)(2)(C) an assessment of agency compliance with the requirements of section 212 of the Small Business Regulatory Enforcement Fairness Act of 1996 for the year covered by such annual report.
+
+## Source Credit
+
+*([Pub. L. 85–536, § 2[30]](https://www.govinfo.gov/link/plaw/85/public/536), as added [Pub. L. 104–121, title II, § 222(2)](https://www.govinfo.gov/link/plaw/104/public/121), Mar. 29, 1996, [110 Stat. 860](https://www.govinfo.gov/link/statute/110/860); amended [Pub. L. 117–188, § 2](https://www.govinfo.gov/link/plaw/117/public/188), Oct. 10, 2022, [136 Stat. 2203](https://www.govinfo.gov/link/statute/136/2203); [Pub. L. 117–286, § 4(b)(37)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4347](https://www.govinfo.gov/link/statute/136/4347).)*

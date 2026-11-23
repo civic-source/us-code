@@ -3,9 +3,10 @@ title: "Section 16131 - Definitions"
 usc_title: 42
 usc_section: "16131"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16131"
-generated_at: "2026-03-30T02:56:11.469Z"
+generated_at: "2026-11-23T21:26:33.697Z"
+status: "active"
 ---
 
 # § 16131. Definitions
@@ -37,3 +38,11 @@ In this part:
   - **(9)** The term “verified technology” means a pollution control technology, including a retrofit technology or auxiliary power unit, that has been verified by—
     - **(A)** the Administrator; or
     - **(B)** the California Air Resources Board.
+
+General Rule
+
+Exception
+
+## Source Credit
+
+*([Pub. L. 109–58, title VII, § 791](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 838](https://www.govinfo.gov/link/statute/119/838); [Pub. L. 110–255, § 3(a)](https://www.govinfo.gov/link/plaw/110/public/255), June 30, 2008, [122 Stat. 2423](https://www.govinfo.gov/link/statute/122/2423); [Pub. L. 111–364, § 2(a)](https://www.govinfo.gov/link/plaw/111/public/364), Jan. 4, 2011, [124 Stat. 4056](https://www.govinfo.gov/link/statute/124/4056).)*

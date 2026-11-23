@@ -3,9 +3,10 @@ title: "Section 2401e - Qualifying requirements for agricultural commodity produ
 usc_title: 19
 usc_section: "2401e"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2401e"
-generated_at: "2026-03-30T02:54:24.672Z"
+generated_at: "2026-11-23T21:25:42.798Z"
+status: "active"
 ---
 
 # § 2401e. Qualifying requirements for agricultural commodity producers
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:54:24.672Z"
 - **(d)** An agricultural commodity producer entitled to receive a cash benefit under this part—
   - **(1)** shall not be eligible for any other cash benefit under this subchapter, and
   - **(2)** shall be entitled to employment services and training benefits under division II of subpart B of part 2.
+
+## Source Credit
+
+*([Pub. L. 93–618, title II, § 296](https://www.govinfo.gov/link/plaw/93/public/618), as added [Pub. L. 107–210, div. A, title I, § 141(a)](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 949](https://www.govinfo.gov/link/statute/116/949); amended [Pub. L. 108–429, title II, § 2004(a)(9)](https://www.govinfo.gov/link/plaw/108/public/429), Dec. 3, 2004, [118 Stat. 2590](https://www.govinfo.gov/link/statute/118/2590); [Pub. L. 111–5, div. B, title I, § 1883(a)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 416](https://www.govinfo.gov/link/statute/123/416); [Pub. L. 112–40, title II, § 201(b)](https://www.govinfo.gov/link/plaw/112/public/40), (c), Oct. 21, 2011, [125 Stat. 403](https://www.govinfo.gov/link/statute/125/403); [Pub. L. 114–27, title IV, § 402(b)](https://www.govinfo.gov/link/plaw/114/public/27), (c), June 29, 2015, [129 Stat. 374](https://www.govinfo.gov/link/statute/129/374).)*

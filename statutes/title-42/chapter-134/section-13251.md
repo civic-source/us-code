@@ -3,9 +3,10 @@ title: "Section 13251 - Mandate for alternative fuel providers"
 usc_title: 42
 usc_section: "13251"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13251"
-generated_at: "2026-03-30T02:56:11.439Z"
+generated_at: "2026-11-23T21:26:33.585Z"
+status: "active"
 ---
 
 # § 13251. Mandate for alternative fuel providers
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:11.439Z"
   - **(2)** extend the time under subsection (a)(1) for up to 2 model years.
 - **(c)** The Secretary shall, within 1 year after October 24, 1992 , issue regulations requiring that, in the case of a covered person whose principal business is generating, transmitting, importing, or selling at wholesale or retail electricity, the requirements of subsection (a)(1) shall not apply until after December 31, 1997 , with respect to electric motor vehicles. Any covered person described in this subsection which plans to acquire electric motor vehicles to comply with the requirements of this section shall so notify the Secretary before January 1, 1996 .
 - **(d)** The Secretary shall, before January 1, 1998 , submit a report to the Congress providing detailed information on actions taken to carry out this section, and the progress made and problems encountered thereunder.
+
+## Source Credit
+
+*([Pub. L. 102–486, title V, § 501](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2887](https://www.govinfo.gov/link/statute/106/2887).)*

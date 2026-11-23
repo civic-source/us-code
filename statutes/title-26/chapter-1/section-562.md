@@ -3,9 +3,10 @@ title: "Section 562 - Rules applicable in determining dividends eligible for div
 usc_title: 26
 usc_section: "562"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 562"
-generated_at: "2026-03-30T02:55:27.719Z"
+generated_at: "2026-11-23T21:26:06.339Z"
+status: "active"
 ---
 
 # § 562. Rules applicable in determining dividends eligible for dividends paid deduction
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:27.719Z"
   - **(2)** In the case of a failure of a distribution by a real estate investment trust to comply with the requirements of subsection (c), the Secretary may provide an appropriate remedy to cure such failure in lieu of not considering the distribution to be a dividend for purposes of computing the dividends paid deduction if—
     - **(A)** the Secretary determines that such failure is inadvertent or is due to reasonable cause and not due to willful neglect, or
     - **(B)** such failure is of a type of failure which the Secretary has identified for purposes of this paragraph as being described in subparagraph (A).
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 198; [Pub. L. 88–272, title II, § 225(f)(3)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 88](https://www.govinfo.gov/link/statute/78/88); [Pub. L. 97–248, title II, § 222(e)(7)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 480](https://www.govinfo.gov/link/statute/96/480); [Pub. L. 97–448, title I, § 102(c)(2)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2370](https://www.govinfo.gov/link/statute/96/2370); [Pub. L. 99–514, title VI, § 657(a)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1804(d)(1), Oct. 22, 1986, [100 Stat. 2299](https://www.govinfo.gov/link/statute/100/2299), 2800; [Pub. L. 108–357, title IV, § 413(c)(9)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1507](https://www.govinfo.gov/link/statute/118/1507); [Pub. L. 111–325, title III, § 307(a)](https://www.govinfo.gov/link/plaw/111/public/325), (b), Dec. 22, 2010, [124 Stat. 3550](https://www.govinfo.gov/link/statute/124/3550); [Pub. L. 114–113, div. Q, title III](https://www.govinfo.gov/link/plaw/114/public/113), §§ 314(a), (b), 315(a), 320(b), Dec. 18, 2015, [129 Stat. 3093](https://www.govinfo.gov/link/statute/129/3093), 3097.)*

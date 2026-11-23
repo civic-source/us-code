@@ -3,9 +3,10 @@ title: "Section 14953 - Relationship to other laws"
 usc_title: 42
 usc_section: "14953"
 chapter: 143
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 14953"
-generated_at: "2026-03-30T02:56:11.453Z"
+generated_at: "2026-11-23T21:26:33.647Z"
+status: "active"
 ---
 
 # § 14953. Relationship to other laws
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:11.453Z"
 - **(a)** The Convention and this chapter shall not be construed to preempt any provision of the law of any State or political subdivision thereof, or prevent a State or political subdivision thereof from enacting any provision of law with respect to the subject matter of the Convention or this chapter, except to the extent that such provision of State law is inconsistent with the Convention or this chapter, and then only to the extent of the inconsistency.
 - **(b)** The Convention and this chapter shall not be construed to affect the application of the Indian Child Welfare Act of 1978 ( 25 U.S.C. 1901 et seq.).
 - **(c)** Sections 3506(c), 3507, and 3512 of title 44 shall not apply to information collection for purposes of sections 14914, 14922(b)(4), and 14932(d) of this title or for use as a Convention record as defined in this chapter.
+
+## Source Credit
+
+*([Pub. L. 106–279, title V, § 503](https://www.govinfo.gov/link/plaw/106/public/279), Oct. 6, 2000, [114 Stat. 843](https://www.govinfo.gov/link/statute/114/843).)*

@@ -3,9 +3,10 @@ title: "Section 19 - Partial payment of claims on defaulted mortgages and in con
 usc_title: 12
 usc_section: "19"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 19"
-generated_at: "2026-03-30T02:53:53.430Z"
+generated_at: "2026-11-23T21:25:36.922Z"
+status: "active"
 ---
 
 # § 1735f–19. Partial payment of claims on defaulted mortgages and in connection with mortgage restructuring
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.430Z"
   - **(2)** recast the mortgage, under such terms and conditions as the Secretary may determine.
 - **(b)** Notwithstanding any other provision of law, the Secretary, in connection with a mortgage restructuring under section 514 of the Multifamily Assisted Housing Reform and Affordability Act of 1997, may make a one time, nondefault partial or full payment of claim under one or more mortgage insurance contracts, which shall include a determination by the Secretary or the participating administrative entity, in accordance with the Multifamily Assisted Housing Reform and Affordability Act of 1997, of the market value of the project and a restructuring of the mortgage, under such terms and conditions as are permitted by section 517(a) of such Act.
 - **(c)** As a condition to a partial claim payment under this section, the mortgagor shall agree to repay to the Secretary the amount of such payment and such obligation shall be secured by a second mortgage on the property on such terms and conditions as the Secretary may determine.
+
+## Source Credit
+
+*(June 27, 1934, ch. 847, title V, § 541, as added [Pub. L. 103–233, title I, § 101(e)](https://www.govinfo.gov/link/plaw/103/public/233), Apr. 11, 1994, [108 Stat. 357](https://www.govinfo.gov/link/statute/108/357); amended [Pub. L. 105–65, title II, § 210](https://www.govinfo.gov/link/plaw/105/public/65), title V, § 523(b), Oct. 27, 1997, [111 Stat. 1366](https://www.govinfo.gov/link/statute/111/1366), 1406; [Pub. L. 106–74, title II, § 213(a)](https://www.govinfo.gov/link/plaw/106/public/74), Oct. 20, 1999, [113 Stat. 1073](https://www.govinfo.gov/link/statute/113/1073).)*

@@ -3,9 +3,10 @@ title: "Section 10007 - Innovation Fund"
 usc_title: 20
 usc_section: "10007"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 10007"
-generated_at: "2026-03-30T02:54:48.233Z"
+generated_at: "2026-11-23T21:25:47.685Z"
+status: "active"
 ---
 
 # § 10007. Innovation Fund
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:48.233Z"
   - **(3)** demonstrate that it has established one or more partnerships with the private sector, which may include philanthropic organizations, and that the private sector will provide matching funds in order to help bring results to scale.
 - **(c)** In the case of an eligible entity that includes a nonprofit organization, the eligible entity shall be considered to have met the eligibility requirements of paragraphs (1)(A) or (1)(B) and (2) of subsection (b) if the nonprofit organization has a record of significantly improving student achievement, attainment, or retention and shall be considered to have met the requirements of subsection (b)(3) if it demonstrates that it will meet the requirement relating to private-sector matching.
 - **(d)** In the case of an eligible entity that is a partnership described in subsection (a)(1)(B), the partner serving as the fiscal agent may make subgrants to one or more of the other entities in the partnership.
+
+## Source Credit
+
+*([Pub. L. 111–5, div. A, title XIV, § 14007](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 284](https://www.govinfo.gov/link/statute/123/284); [Pub. L. 111–117, div. D, title III, § 307](https://www.govinfo.gov/link/plaw/111/public/117), Dec. 16, 2009, [123 Stat. 3271](https://www.govinfo.gov/link/statute/123/3271).)*

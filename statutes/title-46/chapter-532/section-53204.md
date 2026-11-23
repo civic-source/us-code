@@ -3,9 +3,10 @@ title: "Section 53204 - Effectiveness of operating agreements"
 usc_title: 46
 usc_section: "53204"
 chapter: 532
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 53204"
-generated_at: "2026-03-30T02:56:15.573Z"
+generated_at: "2026-11-23T21:26:37.253Z"
+status: "active"
 ---
 
 # § 53204. Effectiveness of operating agreements
@@ -23,3 +24,21 @@ generated_at: "2026-03-30T02:56:15.573Z"
   - **(1)** each vessel covered by the Operating Agreement that is not renewed is thereby released from any further obligation under the Operating Agreement;
   - **(2)** the owner or operator of the vessel whose Operating Agreement was not renewed may transfer and register such vessel under a foreign registry that is acceptable to the Secretary and the Operating Agency, notwithstanding section 56101 of this title ; and
   - **(3)** if chapter 563 of this title is applicable to such vessel after registration, then the vessel is available to be requisitioned by the Secretary pursuant to chapter 563.
+
+Effectiveness Generally
+
+Vessels Under Charter to the United States
+
+Termination.—
+
+Termination by the secretary
+
+Early termination by a contractor
+
+Nonrenewal for Lack of Funds
+
+Release of Vessels From Obligations
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. C, title XXXV, § 3521(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1993](https://www.govinfo.gov/link/statute/133/1993).)*

@@ -3,9 +3,10 @@ title: "Section 8543 - Destinations of Diversion Concern"
 usc_title: 22
 usc_section: "8543"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8543"
-generated_at: "2026-03-30T02:55:05.453Z"
+generated_at: "2026-11-23T21:25:58.744Z"
+status: "active"
 ---
 
 # § 8543. Destinations of Diversion Concern
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:05.453Z"
     - **(C)** encouraging the government of the country to participate in the Proliferation Security Initiative, such as by entering into a ship boarding agreement pursuant to the Initiative.
 - **(e)** The designation of a country as a Destination of Diversion Concern under subsection (a) shall terminate on the date on which the President determines, and certifies to the appropriate congressional committees, that the country has adequately strengthened the export control system of the country to prevent the diversion of goods, services, and technologies described in section 8542(b) of this title to Iranian end-users or Iranian intermediaries.
 - **(f)** A report required by subsection (b) or (d) may be submitted in classified form.
+
+## Source Credit
+
+*([Pub. L. 111–195, title III, § 303](https://www.govinfo.gov/link/plaw/111/public/195), July 1, 2010, [124 Stat. 1347](https://www.govinfo.gov/link/statute/124/1347).)*

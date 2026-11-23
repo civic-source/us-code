@@ -3,9 +3,10 @@ title: "Section 12281 - Gang Resistance Education and Training projects"
 usc_title: 34
 usc_section: "12281"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 12281"
-generated_at: "2026-03-30T02:55:33.285Z"
+generated_at: "2026-11-23T21:26:09.735Z"
+status: "active"
 ---
 
 # § 12281. Gang Resistance Education and Training projects
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:33.285Z"
   - **(3)** $20,000,000 for fiscal year 2008;
   - **(4)** $20,000,000 for fiscal year 2009; and
   - **(5)** $20,000,000 for fiscal year 2010.
+
+## Source Credit
+
+*([Pub. L. 103–322, title III, § 32401](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1902](https://www.govinfo.gov/link/statute/108/1902); [Pub. L. 107–296, title XI, § 1112(p)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2278](https://www.govinfo.gov/link/statute/116/2278); [Pub. L. 109–162, title XI, § 1188](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3128](https://www.govinfo.gov/link/statute/119/3128).)*

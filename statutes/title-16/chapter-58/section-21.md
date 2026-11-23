@@ -3,9 +3,10 @@ title: "Section 21 - Definitions"
 usc_title: 16
 usc_section: "21"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 21"
-generated_at: "2026-03-30T02:54:23.030Z"
+generated_at: "2026-11-23T21:25:51.995Z"
+status: "active"
 ---
 
 # § 3839aa–21. Definitions
@@ -49,3 +50,33 @@ In this subpart:
     - **(B)** predictive analytics tools or models developed or approved by the Natural Resources Conservation Service;
     - **(C)** data from past and current enrollment in the program; and
     - **(D)** other methods that measure conservation and improvement in priority resource concerns, as determined by the Secretary.
+
+Transitional provisions.—
+
+Effect on existing contracts and agreements
+
+Extension permitted
+
+Renewal not permitted.—
+
+In general
+
+Exception
+
+RCPP contracts.—
+
+Treatment of acreage
+
+Funds and acres not obligated
+
+Contract administration
+
+Funding
+
+In general
+
+Conservation stewardship program
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1240I](https://www.govinfo.gov/link/plaw/99/public/198), formerly § 1238D, as added [Pub. L. 110–234, title II, § 2301(a)(2)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1040](https://www.govinfo.gov/link/statute/122/1040), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title II, § 2301(a)(2), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1768; amended [Pub. L. 113–79, title II, § 2101(a)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 721](https://www.govinfo.gov/link/statute/128/721); renumbered § 1240I and amended [Pub. L. 115–334, title II](https://www.govinfo.gov/link/plaw/115/public/334), §§ 2301(b), 2308(a), Dec. 20, 2018, [132 Stat. 4551](https://www.govinfo.gov/link/statute/132/4551), 4564.)*

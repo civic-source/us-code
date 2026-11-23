@@ -3,9 +3,10 @@ title: "Section 3652 - Purposes"
 usc_title: 25
 usc_section: "3652"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3652"
-generated_at: "2026-03-30T02:54:52.855Z"
+generated_at: "2026-11-23T21:25:54.696Z"
+status: "active"
 ---
 
 # § 3652. Purposes
@@ -17,3 +18,7 @@ The purposes of this chapter are as follows:
   - **(3)** To strengthen tribal governments and the economies of Indian tribes through the enhancement and, where appropriate, development of tribal court systems for the administration of justice in Indian country by providing technical and legal assistance services.
   - **(4)** To encourage collaborative efforts between national or regional membership organizations and associations whose membership consists of judicial system personnel within tribal justice systems; non-profit entities which provide legal assistance services for Indian tribes, members of Indian tribes, and/or tribal justice systems.
   - **(5)** To assist in the development of tribal judicial systems by supplementing prior congressional efforts such as the Indian Tribal Justice Act [ 25 U.S.C. 3601 et seq.] ( Public Law 103–176 ).
+
+## Source Credit
+
+*([Pub. L. 106–559, § 3](https://www.govinfo.gov/link/plaw/106/public/559), Dec. 21, 2000, [114 Stat. 2779](https://www.govinfo.gov/link/statute/114/2779).)*

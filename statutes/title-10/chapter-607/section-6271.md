@@ -3,9 +3,10 @@ title: "Section 6271 - Definitions"
 usc_title: 10
 usc_section: "6271"
 chapter: 607
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6271"
-generated_at: "2026-03-30T02:53:38.225Z"
+generated_at: "2026-11-23T21:25:32.825Z"
+status: "active"
 ---
 
 # § 6271. Definitions
@@ -19,3 +20,7 @@ In this subchapter:
       - **(i)** submits to the congressional defense committees a report on the method used by the Administrator to calculate the adjustment;
       - **(ii)** a period of 30 days elapses following the date of such submission; and
       - **(iii)** publishes the adjusted amount in the Federal Register.
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1425](https://www.govinfo.gov/link/statute/139/1425).)*

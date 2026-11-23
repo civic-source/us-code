@@ -3,9 +3,10 @@ title: "Section 44748 - Aircraft dispatching"
 usc_title: 49
 usc_section: "44748"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44748"
-generated_at: "2026-03-30T02:56:19.388Z"
+generated_at: "2026-11-23T21:26:40.909Z"
+status: "active"
 ---
 
 # § 44748. Aircraft dispatching
@@ -21,3 +22,23 @@ generated_at: "2026-03-30T02:56:19.388Z"
 - **(d)**
   - **(1)** Except as provided in paragraph (2), an air carrier may not dispatch aircraft from any location other than the dispatch center or flight following center of the air carrier.
   - **(2)** In the event of an emergency or other event that renders a dispatch center or a flight following center inoperable, an air carrier may dispatch aircraft from a location other than the dispatch center or flight following center of the air carrier for a period of time not to exceed 14 consecutive days per location without approval of the Administrator.
+
+Aircraft Dispatching Certificate
+
+Proof of Certification
+
+Dispatch Centers and Flight Following Centers.—
+
+Establishment
+
+Requirements
+
+Prohibition.—
+
+In general
+
+Emergency authority
+
+## Source Credit
+
+*(Added [Pub. L. 118–63, title IV, § 420(b)(1)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1164](https://www.govinfo.gov/link/statute/138/1164).)*

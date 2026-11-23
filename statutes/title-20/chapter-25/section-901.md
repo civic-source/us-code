@@ -3,9 +3,10 @@ title: "Section 901 - Definitions"
 usc_title: 20
 usc_section: "901"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 901"
-generated_at: "2026-03-30T02:54:48.086Z"
+generated_at: "2026-11-23T21:25:46.969Z"
+status: "active"
 ---
 
 # § 901. Definitions
@@ -24,3 +25,7 @@ For the purposes of this chapter, the term—
     - **(C)** who is employed in a teaching position described in paragraph (1).
   - **(3)** “overseas area” means any area situated outside the United States.
   - **(4)** “United States”, when used in a geographical sense, means the several States of the United States of America, the District of Columbia, Hawaii, the Commonwealth of Puerto Rico, the Canal Zone, and the possessions of the United States (excluding the Trust Territory of the Pacific Islands and Midway Islands).
+
+## Source Credit
+
+*([Pub. L. 86–91, § 2](https://www.govinfo.gov/link/plaw/86/public/91), July 17, 1959, [73 Stat. 213](https://www.govinfo.gov/link/statute/73/213); [Pub. L. 104–201, div. A, title XVI, § 1606(a)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2736](https://www.govinfo.gov/link/statute/110/2736); [Pub. L. 105–85, div. A, title X, § 1073(c)(9)(A)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1904](https://www.govinfo.gov/link/statute/111/1904); [Pub. L. 113–291, div. A, title V, § 564](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3384](https://www.govinfo.gov/link/statute/128/3384).)*

@@ -3,9 +3,10 @@ title: "Section 5531 - Program to increase employment opportunities in House of 
 usc_title: 2
 usc_section: "5531"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 5531"
-generated_at: "2026-03-30T02:53:04.837Z"
+generated_at: "2026-11-23T21:25:21.333Z"
+status: "active"
 ---
 
 # § 5531. Program to increase employment opportunities in House of Representatives for individuals with disabilities
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:04.837Z"
   - **(2)** the non-governmental entity provides adequate education and training for individuals with disabilities to enhance such employment opportunities; and
   - **(3)** efforts are made to educate employing offices in the House about opportunities to employ individuals with disabilities.
 - **(c)** There are authorized to be appropriated from the applicable accounts of the House of Representatives $500,000 to carry out this section for each of the fiscal years 2003 through 2007.
+
+## Source Credit
+
+*([Pub. L. 108–7, div. H, title I, § 106](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 354](https://www.govinfo.gov/link/statute/117/354).)*

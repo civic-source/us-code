@@ -3,9 +3,10 @@ title: "Section 1 - Transparency and accountability for socially disadvantaged f
 usc_title: 7
 usc_section: "1"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-30T02:53:42.384Z"
+generated_at: "2026-11-23T21:25:28.293Z"
+status: "active"
 ---
 
 # § 2279–1. Transparency and accountability for socially disadvantaged farmers and ranchers
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:42.384Z"
 - **(e)** In any case in which a current or prospective producer or landowner, in person or in writing, requests from the Farm Service Agency, the Natural Resources Conservation Service, or an agency of the Rural Development Mission Area any benefit or service offered by the Department to agricultural producers or landowners, the Secretary shall issue, on the date of the request, a receipt to the producer or landowner that contains—
   - **(1)** the date, place, and subject of the request; and
   - **(2)** the action taken, not taken, or recommended to the producer or landowner.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XXV, § 2501A](https://www.govinfo.gov/link/plaw/101/public/624), as added [Pub. L. 107–171, title X, § 10708(a)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 522](https://www.govinfo.gov/link/statute/116/522); amended [Pub. L. 110–234, title XIV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 14003, 14006, May 22, 2008, [122 Stat. 1443](https://www.govinfo.gov/link/statute/122/1443), 1445; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, §§ 14003, 14006, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2205, 2207; [Pub. L. 113–79, title XII, § 12204](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 984](https://www.govinfo.gov/link/statute/128/984).)*

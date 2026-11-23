@@ -3,9 +3,10 @@ title: "Section 5564 - Litigation authority"
 usc_title: 12
 usc_section: "5564"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5564"
-generated_at: "2026-03-30T02:53:53.546Z"
+generated_at: "2026-11-23T21:25:37.291Z"
+status: "active"
 ---
 
 # § 5564. Litigation authority
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:53.546Z"
     - **(A)** An action arising under this title 1 does not include claims arising solely under enumerated consumer laws.
     - **(B)** In any action arising solely under an enumerated consumer law, the Bureau may commence, defend, or intervene in the action in accordance with the requirements of that provision of law, as applicable.
     - **(C)** In any action arising solely under laws for which authorities were transferred under subtitles F and H, the Bureau may commence, defend, or intervene in the action in accordance with the requirements of that provision of law, as applicable.
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1054](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2028](https://www.govinfo.gov/link/statute/124/2028).)*

@@ -3,9 +3,10 @@ title: "Section 1984 - Agreements with Federated States of Micronesia"
 usc_title: 48
 usc_section: "1984"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1984"
-generated_at: "2026-03-30T02:56:14.599Z"
+generated_at: "2026-11-23T21:26:38.133Z"
+status: "active"
 ---
 
 # § 1984. Agreements with Federated States of Micronesia
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:56:14.599Z"
   - **(7)** Not later than 90 days after the date on which the Government of the Federated States of Micronesia submits to the Committee a report required under the 2023 Amended U.S.-FSM Compact, or any related subsidiary agreement, the Secretary of the Interior shall submit to the appropriate committees of Congress—
     - **(A)** if the report is submitted by the applicable deadline, written notice attesting that the report is complete and accurate; or
     - **(B)** if the report is not submitted by the applicable deadline, written notice that the report has not been timely submitted.
+
+## Source Credit
+
+*([Pub. L. 118–42, div. G, title II, § 205](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 424](https://www.govinfo.gov/link/statute/138/424).)*

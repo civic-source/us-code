@@ -3,9 +3,10 @@ title: "Section 553 - Rule making"
 usc_title: 5
 usc_section: "553"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 553"
-generated_at: "2026-03-30T02:52:55.988Z"
+generated_at: "2026-11-23T21:25:23.067Z"
+status: "active"
 ---
 
 # § 553. Rule making
@@ -26,3 +27,20 @@ generated_at: "2026-03-30T02:52:55.988Z"
   - **(2)** interpretative rules and statements of policy; or
   - **(3)** as otherwise provided by the agency for good cause found and published with the rule.
 - **(e)** Each agency shall give an interested person the right to petition for the issuance, amendment, or repeal of a rule.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 1003 . | June 11, 1946, ch. 324, § 4 , 60 Stat. 238 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 1003
+
+June 11, 1946, ch. 324, § 4
+
+60 Stat. 238
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 383](https://www.govinfo.gov/link/statute/80/383); [Pub. L. 118–9, § 2](https://www.govinfo.gov/link/plaw/118/public/9), July 25, 2023, [137 Stat. 55](https://www.govinfo.gov/link/statute/137/55).)*

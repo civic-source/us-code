@@ -3,9 +3,10 @@ title: "Section 1305 - Federal lessee protection"
 usc_title: 30
 usc_section: "1305"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1305"
-generated_at: "2026-03-30T02:55:29.403Z"
+generated_at: "2026-11-23T21:26:00.433Z"
+status: "active"
 ---
 
 # § 1305. Federal lessee protection
@@ -14,3 +15,7 @@ In those instances where the coal proposed to be mined by surface coal mining op
 
   - **(1)** the written consent of the permittee or lessee of the surface lands involved to enter and commence surface coal mining operations on such land, or in lieu thereof;
   - **(2)** evidence of the execution of a bond or undertaking to the United States or the State, whichever is applicable, for the use and benefit of the permittee or lessee of the surface lands involved to secure payment of any damages to the surface estate which the operations will cause to the crops, or to the tangible improvements of the permittee or lessee of the surface lands as may be determined by the parties involved, or as determined and fixed in an action brought against the operator or upon the bond in a court of competent jurisdiction. This bond is in addition to the performance bond required for reclamation under this chapter.
+
+## Source Credit
+
+*([Pub. L. 95–87, title VII, § 715](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 525](https://www.govinfo.gov/link/statute/91/525).)*

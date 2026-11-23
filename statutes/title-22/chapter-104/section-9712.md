@@ -3,9 +3,10 @@ title: "Section 9712 - Support for efforts at the United Nations on the humanita
 usc_title: 22
 usc_section: "9712"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9712"
-generated_at: "2026-03-30T02:55:05.472Z"
+generated_at: "2026-11-23T21:25:58.786Z"
+status: "active"
 ---
 
 # § 9712. Support for efforts at the United Nations on the humanitarian crisis in Venezuela
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.472Z"
 - **(b)** The President should instruct the Permanent Representative to the United Nations to use the voice, vote, and influence of the United States at the United Nations to support the efforts of the Resident Coordinator for Venezuela in a manner that—
   - **(1)** contributes to Venezuela’s long-term recovery; and
   - **(2)** advances humanitarian efforts in Venezuela and for Venezuelans residing in neighboring countries.
+
+## Source Credit
+
+*([Pub. L. 116–94, div. J, title I, § 122](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3033](https://www.govinfo.gov/link/statute/133/3033).)*

@@ -3,9 +3,10 @@ title: "Section 896 - Adjustment of tax on nationals, residents, and corporation
 usc_title: 26
 usc_section: "896"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 896"
-generated_at: "2026-03-30T02:55:27.742Z"
+generated_at: "2026-11-23T21:26:06.421Z"
+status: "active"
 ---
 
 # § 896. Adjustment of tax on nationals, residents, and corporations of certain foreign countries
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:27.742Z"
   - **(2)** the laws of any foreign country with respect to which the President has made a proclamation under subsection (b) have been modified so that citizens of the United States or domestic corporations (or any class of such citizens or corporations) are no longer subject to a higher effective rate of tax on the item of income,
 - **(d)** No proclamation shall be issued by the President pursuant to this section unless, at least 30 days prior to such proclamation, he has notified the Senate and the House of Representatives of his intention to issue such proclamation.
 - **(e)** The Secretary shall prescribe such regulations as he deems necessary or appropriate to implement this section.
+
+## Source Credit
+
+*(Added [Pub. L. 89–809, title I, § 105(b)](https://www.govinfo.gov/link/plaw/89/public/809), Nov. 13, 1966, [80 Stat. 1563](https://www.govinfo.gov/link/statute/80/1563); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834).)*

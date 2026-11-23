@@ -3,9 +3,10 @@ title: "Section 20103 - General authority"
 usc_title: 49
 usc_section: "20103"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 20103"
-generated_at: "2026-03-30T02:56:19.334Z"
+generated_at: "2026-11-23T21:26:40.699Z"
+status: "active"
 ---
 
 # § 20103. General authority
@@ -46,3 +47,150 @@ generated_at: "2026-03-30T02:56:19.334Z"
   - **(3)** The Secretary shall state in the decision issued under this subsection the reasons for granting the waiver.
   - **(4)** In granting a waiver under this subsection, the Secretary shall consult and coordinate with other Federal agencies, as appropriate, for matters that may impact such agencies.
   - **(5)** In this subsection, the terms “emergency situation” and “emergency event” mean a natural or manmade disaster, such as a hurricane, flood, earthquake, mudslide, forest fire, snowstorm, terrorist act, biological outbreak, release of a dangerous radiological, chemical, explosive, or biological material, or a war-related activity, that poses a risk of death, serious illness, severe injury, or substantial property damage. The disaster may be local, regional, or national in scope.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 20103(a) | 45:431(a) (1st sentence cl. (1)). | Oct. 16, 1970 , Pub. L. 91–458, § 202(a) (1st sentence cl. (1)), (b), (c), 84 Stat. 971 . |
+| 20103(b) | 45:431(d) (21st–last words). | Oct. 16, 1970 , Pub. L. 91–458, § 202(d) , 84 Stat. 971 ; restated July 8, 1976 , Pub. L. 94–348, § 5(a) , 90 Stat. 819 . |
+| 20103(c) | 45:431(d) (1st–20th words). |  |
+| 20103(d) | 45:431(c). |  |
+| 20103(e) | 45:431(b). |  |
+
+
+Regulations and Orders
+
+Regulations of Practice for Proceedings
+
+Consideration of Information and Standards
+
+Nonemergency Waivers.—
+
+In general
+
+Notice required
+
+Information protection
+
+Rulemaking.—
+
+In general
+
+Factors
+
+Notice and comment.—
+
+In general
+
+Notice of proposed rulemaking
+
+Regulatory update
+
+Rule of construction
+
+Hearings
+
+Tourist Railroad Carriers
+
+Emergency Waivers.—
+
+In general
+
+Period of waiver
+
+Statement of reasons
+
+Consultation
+
+Emergency situation; emergency event
+
+Historical and Revision Notes
+
+20103(a)
+
+Oct. 16, 1970
+
+Pub. L. 91–458, § 202(a)
+
+84 Stat. 971
+
+20103(b)
+
+Oct. 16, 1970
+
+Pub. L. 91–458, § 202(d)
+
+84 Stat. 971
+
+July 8, 1976
+
+Pub. L. 94–348, § 5(a)
+
+90 Stat. 819
+
+20103(c)
+
+20103(d)
+
+20103(e)
+
+Supporting Research and Analysis
+
+Report
+
+“All railroads shall—
+
+In General
+
+Definitions
+
+Class i railroad; class ii railroad; class iii railroad
+
+Class 3 flammable liquid
+
+Hazardous material
+
+High-hazard flammable train
+
+Train consist
+
+Savings Clause
+
+In General
+
+Rulemaking.—
+
+In general
+
+Alternate practice or technology
+
+In General
+
+Locomotive Cab Environment
+
+Report
+
+Authority
+
+In General
+
+Requirements
+
+Use of Bridge Management Programs Required
+
+Review of Data
+
+In general
+
+Availability of bridge condition.—
+
+In general
+
+Public version of report
+
+Provision of report
+
+Technical assistance
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 863](https://www.govinfo.gov/link/statute/108/863); [Pub. L. 103–440, title II, § 217](https://www.govinfo.gov/link/plaw/103/public/440), Nov. 2, 1994, [108 Stat. 4624](https://www.govinfo.gov/link/statute/108/4624); [Pub. L. 107–296, title XVII, § 1710(b)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2319](https://www.govinfo.gov/link/statute/116/2319); [Pub. L. 110–432, div. A, title III, § 308](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4881](https://www.govinfo.gov/link/statute/122/4881); [Pub. L. 117–58, div. B, title II, § 22411](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 742](https://www.govinfo.gov/link/statute/135/742).)*

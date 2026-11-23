@@ -3,9 +3,10 @@ title: "Section 78c - Definitions and application"
 usc_title: 15
 usc_section: "78c"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 78c"
-generated_at: "2026-03-30T02:54:08.037Z"
+generated_at: "2026-11-23T21:25:39.517Z"
+status: "active"
 ---
 
 # § 78c. Definitions and application
@@ -393,3 +394,225 @@ generated_at: "2026-03-30T02:54:08.037Z"
     - **(B)** is a member of a national securities association registered under section 78 o –3 of this title; and
     - **(C)** is subject to such other requirements under this chapter as the Commission determines appropriate under such rule.
   - **(2)** For purposes of sections 78 o (b)(8) and 78 o –3 of this title, the term “broker or dealer” includes a funding portal and the term “registered broker or dealer” includes a registered funding portal, except to the extent that the Commission, by rule, determines otherwise, provided that a national securities association shall only examine for and enforce against a registered funding portal rules of such national securities association written specifically for registered funding portals.
+
+Broker.—
+
+In general
+
+Exception for certain bank activities
+
+Third party brokerage arrangements
+
+Trust activities
+
+Permissible securities transactions
+
+Certain stock purchase plans.—
+
+Employee benefit plans
+
+Dividend reinvestment plans
+
+(aa) the bank does not solicit transactions or provide investment advice with respect to the purchase or sale of securities in connection with the plan; and
+
+(bb) the bank does not net shareholders’ buy and sell orders, other than for programs for odd-lot holders or plans registered with the Commission.
+
+Issuer plans
+
+(aa) the bank does not solicit transactions or provide investment advice with respect to the purchase or sale of securities in connection with the plan or program; and
+
+(bb) the bank does not net shareholders’ buy and sell orders, other than for programs for odd-lot holders or plans registered with the Commission.
+
+Permissible delivery of materials
+
+(aa) comparable in scope or nature to that permitted by the Commission as of November 12, 1999 ; or
+
+(bb) otherwise permitted by the Commission.
+
+Sweep accounts
+
+Affiliate transactions
+
+Private securities offerings
+
+Safekeeping and custody activities.—
+
+In general
+
+(aa) provides safekeeping or custody services with respect to securities, including the exercise of warrants and other rights on behalf of customers;
+
+(bb) facilitates the transfer of funds or securities, as a custodian or a clearing agency, in connection with the clearance and settlement of its customers’ transactions in securities;
+
+(cc) effects securities lending or borrowing transactions with or on behalf of customers as part of services provided to customers pursuant to division (aa) or (bb) or invests cash collateral pledged in connection with such transactions;
+
+(dd) holds securities pledged by a customer to another person or securities subject to purchase or resale agreements involving a customer, or facilitates the pledging or transfer of such securities by book entry or as otherwise provided under applicable law, if the bank maintains records separately identifying the securities and the customer; or
+
+(ee) serves as a custodian or provider of other related administrative services to any individual retirement account, pension, retirement, profit sharing, bonus, thrift savings, incentive, or other similar benefit plan.
+
+Exception for carrying broker activities
+
+Identified banking products
+
+Municipal securities
+
+De minimis exception
+
+Execution by broker or dealer
+
+Fiduciary capacity
+
+Exception for entities subject to section 78
+
+Joint rulemaking required
+
+Dealer.—
+
+In general
+
+Exception for person not engaged in the business of dealing
+
+Exception for certain bank activities
+
+Permissible securities transactions
+
+Investment, trustee, and fiduciary transactions
+
+Asset-backed transactions
+
+Identified banking products
+
+Qualified investor.—
+
+Definition
+
+Altered thresholds for asset-backed securities and loan participations
+
+Additional authority
+
+(aa) registered pursuant to section 78 l of this title;
+
+(bb) one of 750 securities with the largest market capitalization; and
+
+(cc) one of 675 securities with the largest dollar value of average daily trading volume;
+
+Audit committee
+
+Registered public accounting firm
+
+Credit rating
+
+Credit rating agency
+
+Nationally recognized statistical rating organization
+
+Person associated with a nationally recognized statistical rating organization
+
+Qualified institutional buyer
+
+Eligible contract participant
+
+Major swap participant
+
+Major security-based swap participant.—
+
+In general
+
+(aa) is highly leveraged relative to the amount of capital such entity holds and that is not subject to capital requirements established by an appropriate Federal banking agency; and
+
+(bb) maintains a substantial position in outstanding security-based swaps in any major security-based swap category, as such categories are determined by the Commission.
+
+Definition of substantial position
+
+Scope of designation
+
+Security-based swap.—
+
+In general
+
+Rule of construction regarding master agreements
+
+Exclusions
+
+Mixed swap
+
+Rule of construction regarding use of the term index
+
+Swap
+
+Person associated with a security-based swap dealer or major security-based swap participant.—
+
+In general
+
+Exclusion
+
+Security-based swap dealer.—
+
+In general
+
+Designation by type or class
+
+Exception
+
+De minimis exception
+
+Appropriate federal banking agency
+
+Board
+
+Prudential regulator
+
+Security-based swap data repository
+
+Swap dealer
+
+Security-based swap execution facility
+
+Security-based swap agreement.—
+
+In general
+
+Exclusions
+
+Asset-backed security
+
+Emerging growth company
+
+Funding portal
+
+“The amendments made by this Act shall take effect as follows:
+
+Timing
+
+Rulemaking supersedes previous rulemaking
+
+Consultation
+
+Definition
+
+In General
+
+Special Rule
+
+“As used in this title [amending this section and sections 77b, 77e to 77g, 78k–1, 78m, 78n, 78n–1, 78 o –6, 7213, and 7262 of this title, enacting provisions set out as notes under this section and sections 77b, 77g, and 78 o –6 of this title, and amending provisions set out as a note under section 78 l of this title], the following definitions shall apply:
+
+Commission
+
+Initial public offering date
+
+Definition of Identified Banking Product
+
+Definition of Swap Agreement
+
+Classification Limited
+
+Incorporated Definitions
+
+In General
+
+Exclusions
+
+Rule of Construction Regarding Master Agreements
+
+## Source Credit
+
+*(June 6, 1934, ch. 404, title I, § 3, [48 Stat. 882](https://www.govinfo.gov/link/statute/48/882); Aug. 23, 1935, ch. 614, § 203(a), [49 Stat. 704](https://www.govinfo.gov/link/statute/49/704); Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, [60 Stat. 1352](https://www.govinfo.gov/link/statute/60/1352); [Pub. L. 86–70, § 12(b)](https://www.govinfo.gov/link/plaw/86/public/70), June 25, 1959, [73 Stat. 143](https://www.govinfo.gov/link/statute/73/143); [Pub. L. 86–624, § 7(b)](https://www.govinfo.gov/link/plaw/86/public/624), July 12, 1960, [74 Stat. 412](https://www.govinfo.gov/link/statute/74/412); [Pub. L. 88–467, § 2](https://www.govinfo.gov/link/plaw/88/public/467), Aug. 20, 1964, [78 Stat. 565](https://www.govinfo.gov/link/statute/78/565); [Pub. L. 91–373, title IV, § 401(b)](https://www.govinfo.gov/link/plaw/91/public/373), Aug. 10, 1970, [84 Stat. 718](https://www.govinfo.gov/link/statute/84/718); [Pub. L. 91–547, § 28(a)](https://www.govinfo.gov/link/plaw/91/public/547), (b), Dec. 14, 1970, [84 Stat. 1435](https://www.govinfo.gov/link/statute/84/1435); [Pub. L. 91–567, § 6(b)](https://www.govinfo.gov/link/plaw/91/public/567), Dec. 22, 1970, [84 Stat. 1499](https://www.govinfo.gov/link/statute/84/1499); [Pub. L. 94–29, § 3](https://www.govinfo.gov/link/plaw/94/public/29), June 4, 1975, [89 Stat. 97](https://www.govinfo.gov/link/statute/89/97); [Pub. L. 95–283, § 16](https://www.govinfo.gov/link/plaw/95/public/283), May 21, 1978, [92 Stat. 274](https://www.govinfo.gov/link/statute/92/274); [Pub. L. 96–477, title VII, § 702](https://www.govinfo.gov/link/plaw/96/public/477), Oct. 21, 1980, [94 Stat. 2295](https://www.govinfo.gov/link/statute/94/2295); [Pub. L. 97–303, § 2](https://www.govinfo.gov/link/plaw/97/public/303), Oct. 13, 1982, [96 Stat. 1409](https://www.govinfo.gov/link/statute/96/1409); [Pub. L. 98–376, § 6(a)](https://www.govinfo.gov/link/plaw/98/public/376), Aug. 10, 1984, [98 Stat. 1265](https://www.govinfo.gov/link/statute/98/1265); [Pub. L. 98–440, title I, § 101](https://www.govinfo.gov/link/plaw/98/public/440), Oct. 3, 1984, [98 Stat. 1689](https://www.govinfo.gov/link/statute/98/1689); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 99–571, title I, § 102(a)](https://www.govinfo.gov/link/plaw/99/public/571) –(d), Oct. 28, 1986, [100 Stat. 3214–3216](https://www.govinfo.gov/link/statute/100/3214); [Pub. L. 100–181, title III](https://www.govinfo.gov/link/plaw/100/public/181), §§ 301–306, Dec. 4, 1987, [101 Stat. 1253](https://www.govinfo.gov/link/statute/101/1253), 1254; [Pub. L. 100–704, § 6(a)](https://www.govinfo.gov/link/plaw/100/public/704), Nov. 19, 1988, [102 Stat. 4681](https://www.govinfo.gov/link/statute/102/4681); [Pub. L. 101–73, title VII, § 744(u)(1)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 441](https://www.govinfo.gov/link/statute/103/441); [Pub. L. 101–429, title V, § 503](https://www.govinfo.gov/link/plaw/101/public/429), Oct. 15, 1990, [104 Stat. 952](https://www.govinfo.gov/link/statute/104/952); [Pub. L. 101–550, title II](https://www.govinfo.gov/link/plaw/101/public/550), §§ 203(b), 204, Nov. 15, 1990, [104 Stat. 2717](https://www.govinfo.gov/link/statute/104/2717), 2718; [Pub. L. 103–202, title I](https://www.govinfo.gov/link/plaw/103/public/202), §§ 106(b)(2)(A), 109(a), Dec. 17, 1993, [107 Stat. 2350](https://www.govinfo.gov/link/statute/107/2350), 2352; [Pub. L. 103–325, title II, § 202](https://www.govinfo.gov/link/plaw/103/public/325), title III, § 347(a), Sept. 23, 1994, [108 Stat. 2198](https://www.govinfo.gov/link/statute/108/2198), 2241; [Pub. L. 104–62, § 4(a)](https://www.govinfo.gov/link/plaw/104/public/62), (b), Dec. 8, 1995, [109 Stat. 684](https://www.govinfo.gov/link/statute/109/684); [Pub. L. 104–290, title I, § 106(b)](https://www.govinfo.gov/link/plaw/104/public/290), title V, § 508(c), Oct. 11, 1996, [110 Stat. 3424](https://www.govinfo.gov/link/statute/110/3424), 3447; [Pub. L. 105–353, title III, § 301(b)(1)](https://www.govinfo.gov/link/plaw/105/public/353) –(4), Nov. 3, 1998, [112 Stat. 3235](https://www.govinfo.gov/link/statute/112/3235), 3236; [Pub. L. 106–102, title II](https://www.govinfo.gov/link/plaw/106/public/102), §§ 201, 202, 207, 208, 221(b), 231(b)(1), Nov. 12, 1999, [113 Stat. 1385](https://www.govinfo.gov/link/statute/113/1385), 1390, 1394, 1395, 1401, 1406; [Pub. L. 106–554, § 1(a)(5) [title II, § 201]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–413; [Pub. L. 107–204, § 2(b)](https://www.govinfo.gov/link/plaw/107/public/204), title II, § 205(a), title VI, § 604(c)(1)(A), July 30, 2002, [116 Stat. 749](https://www.govinfo.gov/link/statute/116/749), 773, 796; [Pub. L. 108–359, § 1(c)(1)](https://www.govinfo.gov/link/plaw/108/public/359), Oct. 25, 2004, [118 Stat. 1666](https://www.govinfo.gov/link/statute/118/1666); [Pub. L. 108–386, § 8(f)(1)](https://www.govinfo.gov/link/plaw/108/public/386) –(3), Oct. 30, 2004, [118 Stat. 2232](https://www.govinfo.gov/link/statute/118/2232); [Pub. L. 108–447, div. H, title V, § 520(1)](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3267](https://www.govinfo.gov/link/statute/118/3267); [Pub. L. 109–291, § 3(a)](https://www.govinfo.gov/link/plaw/109/public/291), Sept. 29, 2006, [120 Stat. 1328](https://www.govinfo.gov/link/statute/120/1328); [Pub. L. 109–351, title I, § 101(a)(1)](https://www.govinfo.gov/link/plaw/109/public/351), title IV, § 401(a)(1), (2), Oct. 13, 2006, [120 Stat. 1968](https://www.govinfo.gov/link/statute/120/1968), 1971, 1972; [Pub. L. 111–203, title III, § 376(1)](https://www.govinfo.gov/link/plaw/111/public/203), title VII, § 761(a), title IX, §§ 932(b), 939(e), 941(a), 944(b), 985(b)(2), 986(a)(1), July 21, 2010, [124 Stat. 1566](https://www.govinfo.gov/link/statute/124/1566), 1754, 1883, 1886, 1890, 1898, 1933, 1935; [Pub. L. 112–106, title I, § 101(b)](https://www.govinfo.gov/link/plaw/112/public/106), title III, § 304(a)(1), (b), Apr. 5, 2012, [126 Stat. 307](https://www.govinfo.gov/link/statute/126/307), 321, 322; [Pub. L. 119–27, § 17(d)](https://www.govinfo.gov/link/plaw/119/public/27), July 18, 2025, [139 Stat. 463](https://www.govinfo.gov/link/statute/139/463).)*

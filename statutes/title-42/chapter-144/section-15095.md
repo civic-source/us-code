@@ -3,9 +3,10 @@ title: "Section 15095 - Designation of the lead entity"
 usc_title: 42
 usc_section: "15095"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15095"
-generated_at: "2026-03-30T02:56:11.459Z"
+generated_at: "2026-11-23T21:26:33.664Z"
+status: "active"
 ---
 
 # § 15095. Designation of the lead entity
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.459Z"
   - **(3)** a public agency;
   - **(4)** a council established under Federal or State law; or
   - **(5)** another appropriate office, agency, or entity.
+
+## Source Credit
+
+*([Pub. L. 106–402, title II, § 206](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1731](https://www.govinfo.gov/link/statute/114/1731).)*

@@ -3,9 +3,10 @@ title: "Section 2708 - Recovery by responsible party"
 usc_title: 33
 usc_section: "2708"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2708"
-generated_at: "2026-03-30T02:55:41.131Z"
+generated_at: "2026-11-23T21:26:11.463Z"
+status: "active"
 ---
 
 # § 2708. Recovery by responsible party
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:41.131Z"
   - **(1)** the responsible party is entitled to a defense to liability under section 2703 of this title ; or
   - **(2)** the responsible party is entitled to a limitation of liability under section 2704 of this title .
 - **(b)** A responsible party who is entitled to a limitation of liability may assert a claim under section 2713 of this title only to the extent that the sum of the removal costs and damages incurred by the responsible party plus the amounts paid by the responsible party, or by the guarantor on behalf of the responsible party, for claims asserted under section 2713 of this title exceeds the amount to which the total of the liability under section 2702 of this title and removal costs and damages incurred by, or on behalf of, the responsible party is limited under section 2704 of this title .
+
+## Source Credit
+
+*([Pub. L. 101–380, title I, § 1008](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 497](https://www.govinfo.gov/link/statute/104/497).)*

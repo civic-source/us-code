@@ -3,9 +3,10 @@ title: "Section 3370 - Supply Chain and Counterintelligence Risk Management Task
 usc_title: 50
 usc_section: "3370"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3370"
-generated_at: "2026-03-30T02:56:26.251Z"
+generated_at: "2026-11-23T21:26:39.047Z"
+status: "active"
 ---
 
 # § 3370. Supply Chain and Counterintelligence Risk Management Task Force
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:26.251Z"
   - **(7)** any other members the Director of National Intelligence determines appropriate.
 - **(d)** Each member of the Supply Chain and Counterintelligence Risk Management Task Force established under subsection (b) shall have a security clearance at the top secret level and be able to access sensitive compartmented information.
 - **(e)** The Supply Chain and Counterintelligence Risk Management Task Force established under subsection (b) shall submit to the appropriate congressional committees an annual report that describes the activities of the Task Force during the previous year, including identification of the supply chain, cybersecurity, and counterintelligence risks shared with the acquisition community of the United States Government by the intelligence community.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. E, title LXIII, § 6306](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2188](https://www.govinfo.gov/link/statute/133/2188).)*

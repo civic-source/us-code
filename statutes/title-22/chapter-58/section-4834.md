@@ -3,9 +3,10 @@ title: "Section 4834 - Security Review Committee findings and report"
 usc_title: 22
 usc_section: "4834"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4834"
-generated_at: "2026-03-30T02:55:05.414Z"
+generated_at: "2026-11-23T21:25:58.651Z"
+status: "active"
 ---
 
 # § 4834. Security Review Committee findings and report
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:05.414Z"
     - **(E)** the Permanent Select Committee on Intelligence of the House of Representatives; and
     - **(F)** the Committee on Appropriations of the House of Representatives.
 - **(c)** If in the course of conducting an investigation under section 4833 of this title , the investigative team finds reasonable cause to believe any individual described in section 4833(a)(2)(D) of this title has breached the duty of that individual or finds lesser failures on the part of an individual in the performance of his or her duties related to the incident, it shall be reported to the Security Review Committee. If the Security Review Committee finds reasonable cause to support the determination, it shall be reported to the Secretary for appropriate action.
+
+## Source Credit
+
+*([Pub. L. 99–399, title III, § 304](https://www.govinfo.gov/link/plaw/99/public/399), Aug. 27, 1986, [100 Stat. 861](https://www.govinfo.gov/link/statute/100/861); [Pub. L. 100–204, title I, § 156(b)](https://www.govinfo.gov/link/plaw/100/public/204), Dec. 22, 1987, [101 Stat. 1354](https://www.govinfo.gov/link/statute/101/1354); [Pub. L. 114–323, title I, § 104(a)](https://www.govinfo.gov/link/plaw/114/public/323), Dec. 16, 2016, [130 Stat. 1909](https://www.govinfo.gov/link/statute/130/1909); [Pub. L. 117–263, div. I, title XCIII, § 9302(g)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3887](https://www.govinfo.gov/link/statute/136/3887).)*

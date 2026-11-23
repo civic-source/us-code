@@ -3,9 +3,10 @@ title: "Section 2118 - Access to supplies"
 usc_title: 19
 usc_section: "2118"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2118"
-generated_at: "2026-03-30T02:54:24.664Z"
+generated_at: "2026-11-23T21:25:42.772Z"
+status: "active"
 ---
 
 # § 2118. Access to supplies
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:24.664Z"
 - **(b)** Any agreement entered into under section 2112 of this title may include provisions which—
   - **(1)** assure to the United States the continued availability of important articles at reasonable prices, and
   - **(2)** provide reciprocal concessions or comparable trade obligations, or both, by the United States.
+
+## Source Credit
+
+*([Pub. L. 93–618, title I, § 108](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 1985](https://www.govinfo.gov/link/statute/88/1985).)*

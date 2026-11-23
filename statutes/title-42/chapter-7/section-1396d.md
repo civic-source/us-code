@@ -3,9 +3,10 @@ title: "Section 1396d - Definitions"
 usc_title: 42
 usc_section: "1396d"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1396d"
-generated_at: "2026-03-30T02:56:11.040Z"
+generated_at: "2026-11-23T21:26:31.820Z"
+status: "active"
 ---
 
 # § 1396d. Definitions
@@ -13,6 +14,24 @@ generated_at: "2026-03-30T02:56:11.040Z"
 For purposes of this subchapter—
 
 - **(a)** The term “medical assistance” means payment of part or all of the cost of the following care and services or the care and services themselves, or both (if provided in or after the third month before the month in which the recipient makes application for assistance or, in the case of medicare cost-sharing with respect to a qualified medicare beneficiary described in subsection (p)(1), if provided after the month in which the individual becomes such a beneficiary) for individuals, and, with respect to physicians’ or dentists’ services, at the option of the State, to individuals (other than individuals with respect to whom there is being paid, or who are eligible, or would be eligible if they were not in a medical institution, to have paid with respect to them a State supplementary payment and are eligible for medical assistance equal in amount, duration, and scope to the medical assistance made available to individuals described in section 1396a(a)(10)(A) of this title ) not receiving aid or assistance under any plan of the State approved under subchapter I, X, XIV, or XVI, or part A of subchapter IV, and with respect to whom supplemental security income benefits are not being paid under subchapter XVI, who are—
+      - **(i)** under the age of 21, or, at the option of the State, under the age of 20, 19, or 18 as the State may choose,
+      - **(ii)** relatives specified in section 606(b)(1) 1 1 See References in Text note below. of this title with whom a child is living if such child is (or would, if needy, be) a dependent child under part A of subchapter IV,
+      - **(iii)** 65 years of age or older,
+      - **(iv)** blind, with respect to States eligible to participate in the State plan program established under subchapter XVI,
+      - **(v)** 18 years of age or older and permanently and totally disabled, with respect to States eligible to participate in the State plan program established under subchapter XVI,
+      - **(vi)** persons essential (as described in the second sentence of this subsection) to individuals receiving aid or assistance under State plans approved under subchapter I, X, XIV, or XVI,
+      - **(vii)** blind or disabled as defined in section 1382c of this title , with respect to States not eligible to participate in the State plan program established under subchapter XVI,
+      - **(viii)** pregnant women,
+      - **(ix)** individuals provided extended benefits under section 1396r–6 of this title ,
+      - **(x)** individuals described in section 1396a(u)(1) of this title ,
+      - **(xi)** individuals described in section 1396a(z)(1) of this title ,
+      - **(xii)** employed individuals with a medically improved disability (as defined in subsection (v)),
+      - **(xiii)** individuals described in section 1396a(aa) of this title ,
+      - **(xiv)** individuals described in section 1396a(a)(10)(A)(i)(VIII) or 1396a(a)(10)(A)(i)(IX) of this title,
+      - **(xv)** individuals described in section 1396a(a)(10)(A)(ii)(XX) of this title ,
+      - **(xvi)** individuals described in section 1396a(ii) of this title ,
+      - **(xvii)** individuals who are eligible for home and community-based services under needs-based criteria established under paragraph (1)(A) of section 1396n(i) of this title , or who are eligible for home and community-based services under paragraph (6) of such section, and who will receive home and community-based services pursuant to a State plan amendment under such subsection, or
+      - **(xviii)** individuals who, but for earnings in excess of the limit established under subsection (q)(2)(B), would be considered to be receiving supplemental security income, and who are at least 16 years of age,
   - **(1)** inpatient hospital services (other than services in an institution for mental diseases);
   - **(2)**
     - **(A)** outpatient hospital services, (B) consistent with State law permitting such services, rural health clinic services (as defined in subsection ( l )(1)) and any other ambulatory services which are offered by a rural health clinic (as defined in subsection ( l )(1)) and which are otherwise included in the plan, and (C) Federally-qualified health center services (as defined in subsection ( l )(2)) and any other ambulatory services offered by a Federally-qualified health center and which are otherwise included in the plan;
@@ -56,23 +75,6 @@ For purposes of this subchapter—
   - **(32)** any other medical care, and any other type of remedial care recognized under State law, specified by the Secretary,
     - **(A)** any such payments with respect to care or services for any individual who is an inmate of a public institution (except as a patient in a medical institution, or in the case of an eligible juvenile described in section 1396a(a)(84)(D) of this title with respect to the screenings, diagnostic services, referrals, and targeted case management services required under such section, or, at the option of the State, for an individual who is an eligible juvenile (as defined in section 1396a(nn)(2) of this title ), while such individual is an inmate of a public institution (as defined in section 1396a(nn)(3) of this title ) pending disposition of charges); or
     - **(B)** any such payments with respect to care or services for any individual who has not attained 65 years of age and who is a patient in an institution for mental diseases (except in the case of services provided under a State plan amendment described in section 1396n( l ) of this title).
-      - **(i)** under the age of 21, or, at the option of the State, under the age of 20, 19, or 18 as the State may choose,
-      - **(ii)** relatives specified in section 606(b)(1) 1 1 See References in Text note below. of this title with whom a child is living if such child is (or would, if needy, be) a dependent child under part A of subchapter IV,
-      - **(iii)** 65 years of age or older,
-      - **(iv)** blind, with respect to States eligible to participate in the State plan program established under subchapter XVI,
-      - **(v)** 18 years of age or older and permanently and totally disabled, with respect to States eligible to participate in the State plan program established under subchapter XVI,
-      - **(vi)** persons essential (as described in the second sentence of this subsection) to individuals receiving aid or assistance under State plans approved under subchapter I, X, XIV, or XVI,
-      - **(vii)** blind or disabled as defined in section 1382c of this title , with respect to States not eligible to participate in the State plan program established under subchapter XVI,
-      - **(viii)** pregnant women,
-      - **(ix)** individuals provided extended benefits under section 1396r–6 of this title ,
-      - **(x)** individuals described in section 1396a(u)(1) of this title ,
-      - **(xi)** individuals described in section 1396a(z)(1) of this title ,
-      - **(xii)** employed individuals with a medically improved disability (as defined in subsection (v)),
-      - **(xiii)** individuals described in section 1396a(aa) of this title ,
-      - **(xiv)** individuals described in section 1396a(a)(10)(A)(i)(VIII) or 1396a(a)(10)(A)(i)(IX) of this title,
-      - **(xv)** individuals described in section 1396a(a)(10)(A)(ii)(XX) of this title ,
-      - **(xvi)** individuals described in section 1396a(ii) of this title , or
-      - **(xvii)** individuals who are eligible for home and community-based services under needs-based criteria established under paragraph (1)(A) of section 1396n(i) of this title , or who are eligible for home and community-based services under paragraph (6) of such section, and who will receive home and community-based services pursuant to a State plan amendment under such subsection,
 - **(b)** Subject to subsections (y), (z), (aa), (ff), (hh), and (ii) and section 1396u–3(d) of this title , the term “Federal medical assistance percentage” for any State shall be 100 per centum less the State percentage; and the State percentage shall be that percentage which bears the same ratio to 45 per centum as the square of the per capita income of such State bears to the square of the per capita income of the continental United States (including Alaska) and Hawaii; except that (1) the Federal medical assistance percentage shall in no case be less than 50 per centum or more than 83 per centum, (2) the Federal medical assistance percentage for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa shall be 55 percent, (3) for purposes of this subchapter and subchapter XXI, the Federal medical assistance percentage for the District of Columbia shall be 70 percent, (4) the Federal medical assistance percentage shall be equal to the enhanced FMAP described in section 1397ee(b) of this title with respect to medical assistance provided to individuals who are eligible for such assistance only on the basis of section 1396a(a)(10)(A)(ii)(XVIII) of this title , (5) in the case of a State that provides medical assistance for services described in subsection (a)(13)(A), and prohibits cost-sharing for such services, the Federal medical assistance percentage, as determined under this subsection and subsection (y) (without regard to paragraph (1)(C) of such subsection), shall be increased by 1 percentage point with respect to medical assistance for such services and for items and services described in subsection (a)(4)(D), and (6) during the first 8 fiscal quarters beginning on or after the effective date of this clause, in the case of a State which, as of August 16, 2022 , provides medical assistance for vaccines described in subsection (a)(13)(B) and their administration and prohibits cost-sharing for such vaccines, the Federal medical assistance percentage, as determined under this subsection and subsection (y), shall be increased by 1 percentage point with respect to medical assistance for such vaccines and their administration. The Federal medical assistance percentage for any State shall be determined and promulgated in accordance with the provisions of section 1301(a)(8)(B) of this title . Notwithstanding the first sentence of this section, the Federal medical assistance percentage shall be 100 per centum with respect to amounts expended as medical assistance for services which are received through an Indian Health Service facility whether operated by the Indian Health Service or by an Indian tribe or tribal organization (as defined in section 4 of the Indian Health Care Improvement Act [ 25 U.S.C. 1603 ]); for the 8 fiscal year quarters beginning with the first fiscal year quarter beginning after March 11, 2021 , the Federal medical assistance percentage shall also be 100 per centum with respect to amounts expended as medical assistance for services which are received through an Urban Indian organization (as defined in paragraph (29) of section 4 of the Indian Health Care Improvement Act [ 25 U.S.C. 1603(29) ]) that has a grant or contract with the Indian Health Service under title V of such Act [ 25 U.S.C. 1651 et seq.]; and, for such 8 fiscal year quarters, the Federal medical assistance percentage shall also be 100 per centum with respect to amounts expended as medical assistance for services which are received through a Native Hawaiian Health Center (as defined in section 11711(4) of this title ) or a qualified entity (as defined in section 11705(b) of this title ) that has a grant or contract with the Papa Ola Lokahi under section 11707 of this title . Notwithstanding the first sentence of this subsection, in the case of a State plan that meets the condition described in subsection (u)(1), with respect to expenditures (other than expenditures under section 1396r–4 of this title ) described in subsection (u)(2)(A) or subsection (u)(3) for the State for a fiscal year, and that do not exceed the amount of the State’s available allotment under section 1397dd of this title , the Federal medical assistance percentage is equal to the enhanced FMAP described in section 1397ee(b) of this title . Notwithstanding the first sentence of this subsection, the Federal medical assistance percentage shall be 100 per centum with respect to (and, notwithstanding any other provision of this subchapter, available for) medical assistance provided to uninsured individuals (as defined in section 1396a(ss) of this title ) who are eligible for such assistance only on the basis of section 1396a(a)(10)(A)(ii)(XXIII) of this title and with respect to expenditures described in section 1396b(a)(7) of this title that a State demonstrates to the satisfaction of the Secretary are attributable to administrative costs related to providing for such medical assistance to such individuals under the State plan.
 - **(c)** For definition of the term “nursing facility”, see section 1396r(a) of this title .
 - **(d)** The term “intermediate care facility for the mentally retarded” means an institution (or distinct part thereof) for the mentally retarded or persons with related conditions if—
@@ -237,7 +239,7 @@ For purposes of this subchapter—
   - **(4)** The limitations on payment under subsections (f) and (g) of section 1308 of this title shall not apply to Federal payments made under section 1396b(a)(1) of this title based on an enhanced FMAP described in section 1397ee(b) of this title .
 - **(v)**
   - **(1)** The term “employed individual with a medically improved disability” means an individual who—
-    - **(A)** is at least 16, but less than 65, years of age;
+    - **(A)** is at least 16 years of age;
     - **(B)** is employed (as defined in paragraph (2));
     - **(C)** ceases to be eligible for medical assistance under section 1396a(a)(10)(A)(ii)(XV) of this title because the individual, by reason of medical improvement, is determined at the time of a regularly scheduled continuing disability review to no longer be eligible for benefits under section 423(d) or 1382c(a)(3) of this title; and
     - **(D)** continues to have a severe medically determinable impairment, as determined under regulations of the Secretary.
@@ -383,3 +385,167 @@ For purposes of this subchapter—
     - **(B)** is engaged in furnishing all of the services described in paragraph (1); and
     - **(C)** agrees, as a condition of the certification described in subparagraph (A), to furnish to the State or Secretary any data required as part of ongoing monitoring of the organization’s provision of services, including encounter data, clinical outcomes data, quality data, and such other data as the State or Secretary may require.
 - **(kk)** Notwithstanding subsection 10 10 So in original. Probably should be “subsections”. (y) and (z), beginning on October 1, 2026 , the Federal medical assistance percentage for payments for care and services described in paragraph (2) of subsection 11 11 So in original. Probably should be “section”. 1396b(v) of this title furnished to an alien described in paragraph (1) of such subsection 11 shall not exceed the Federal medical assistance percentage determined under subsection (b) for such State.
+
+(aa) The Department of Veterans Affairs.
+
+(bb) The Department of Defense.
+
+(cc) The Department of Energy.
+
+In general
+
+Rule for changes requiring state legislation
+
+“The amendments made by paragraph (1) [amending this section] shall apply to—
+
+Review.—
+
+In general
+
+Reports to congress
+
+Funding
+
+GAO Study and Report.—
+
+Study
+
+Report
+
+Definitions
+
+Medicaid
+
+Secretary
+
+State
+
+Increased FMAP.—
+
+In general
+
+Definitions
+
+HCBS program improvement period
+
+Home and community-based services
+
+Eligible individual
+
+Medicaid program
+
+State
+
+State Requirements for FMAP Increase
+
+Supplement, not supplant
+
+Required implementation of certain activities
+
+In General.—
+
+Temporary fmap increase
+
+Applicable number of percentage points
+
+Requirement for All States
+
+Delay in Application of Premium Requirement
+
+Application to Title IV-E Payments
+
+Eligibility Redeterminations During Transition Period.—
+
+In general
+
+Conditions for fmap increase during transition period
+
+Compliance with federal requirements
+
+Maintenance of up-to-date contact information
+
+Requirement to attempt to contact beneficiaries prior to disenrollment
+
+Applicable Quarters
+
+State Balancing Incentive Payments Program
+
+Balancing Incentive Payment State
+
+Conditions
+
+Application
+
+Target spending percentages.—
+
+Maintenance of eligibility requirements
+
+Use of additional funds
+
+Structural changes
+
+No wrong door—single entry point system
+
+Conflict-free case management services
+
+Core standardized assessment instruments
+
+Data collection
+
+Services data
+
+Quality data
+
+Outcomes measures
+
+Applicable Percentage Points Increase in
+
+Eligible Medical Assistance Expenditures.—
+
+In general
+
+Limitation on payments
+
+Definitions
+
+Long-term services and supports defined
+
+Balancing incentive period
+
+Poverty line
+
+State medicaid program
+
+In General
+
+Significantly Disproportionate Employer Pension and Insurance Fund Contribution.—
+
+In general
+
+Data to be used
+
+Special adjustment for negative growth
+
+Hold Harmless
+
+Report
+
+Defined
+
+“Notwithstanding the first sentence of section 1905(b) of the Social Security Act ( 42 U.S.C. 1396d(b) ), the Federal medical assistance percentage determined under such sentence for Alaska shall be 59.8 percent but only with respect to—
+
+Study.—
+
+In general
+
+Required contents
+
+Report
+
+In General
+
+Effective Date
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XIX, § 1905, as added [Pub. L. 89–97, title I, § 121(a)](https://www.govinfo.gov/link/plaw/89/public/97), July 30, 1965, [79 Stat. 351](https://www.govinfo.gov/link/statute/79/351); amended [Pub. L. 90–248, title II](https://www.govinfo.gov/link/plaw/90/public/248), §§ 230, 233, 241(f)(6), 248(e), title III, § 302(a), Jan. 2, 1968, [81 Stat. 905](https://www.govinfo.gov/link/statute/81/905), 917, 919, 929; [Pub. L. 92–223, § 4(a)](https://www.govinfo.gov/link/plaw/92/public/223), Dec. 28, 1971, [85 Stat. 809](https://www.govinfo.gov/link/statute/85/809); [Pub. L. 92–603, title II](https://www.govinfo.gov/link/plaw/92/public/603), §§ 212(a), 247(b), 275(a), 278(a)(21)–(23), 280, 297(a), 299, 299B, 299E(b), 299L, Oct. 30, 1972, [86 Stat. 1384](https://www.govinfo.gov/link/statute/86/1384), 1425, 1452–1454, 1459–1462, 1464; [Pub. L. 93–233](https://www.govinfo.gov/link/plaw/93/public/233), §§ 13(a)(13)–(18), 18(w), (x)(7)–(10), (y)(2), Dec. 31, 1973, [87 Stat. 963](https://www.govinfo.gov/link/statute/87/963), 964, 972, 973; [Pub. L. 94–437, title IV, § 402(e)](https://www.govinfo.gov/link/plaw/94/public/437), Sept. 30, 1976, [90 Stat. 1410](https://www.govinfo.gov/link/statute/90/1410); [Pub. L. 95–210, § 2(a)](https://www.govinfo.gov/link/plaw/95/public/210), (b), Dec. 13, 1977, [91 Stat. 1488](https://www.govinfo.gov/link/statute/91/1488); [Pub. L. 95–292, § 8(a)](https://www.govinfo.gov/link/plaw/95/public/292), (b), June 13, 1978, [92 Stat. 316](https://www.govinfo.gov/link/statute/92/316); [Pub. L. 96–473, § 6(k)](https://www.govinfo.gov/link/plaw/96/public/473), Oct. 19, 1980, [94 Stat. 2266](https://www.govinfo.gov/link/statute/94/2266); [Pub. L. 96–499, title IX, § 965(a)](https://www.govinfo.gov/link/plaw/96/public/499), Dec. 5, 1980, [94 Stat. 2651](https://www.govinfo.gov/link/statute/94/2651); [Pub. L. 97–35, title XXI](https://www.govinfo.gov/link/plaw/97/public/35), §§ 2162(a)(2), 2172(b), Aug. 13, 1981, [95 Stat. 806](https://www.govinfo.gov/link/statute/95/806), 808; [Pub. L. 97–248, title I](https://www.govinfo.gov/link/plaw/97/public/248), §§ 136(c), 137(b)(17), (18), (f), Sept. 3, 1982, [96 Stat. 376](https://www.govinfo.gov/link/statute/96/376), 379, 381; [Pub. L. 98–369, div. B, title III](https://www.govinfo.gov/link/plaw/98/public/369), §§ 2335(f), 2340(b), 2361(b), 2371(a), 2373(b)(15)–(20), July 18, 1984, [98 Stat. 1091](https://www.govinfo.gov/link/statute/98/1091), 1093, 1104, 1110, 1112; [Pub. L. 99–272, title IX](https://www.govinfo.gov/link/plaw/99/public/272), §§ 9501(a), 9505(a), 9511(a), Apr. 7, 1986, [100 Stat. 201](https://www.govinfo.gov/link/statute/100/201), 208, 212; [Pub. L. 99–509, title IX](https://www.govinfo.gov/link/plaw/99/public/509), §§ 9403(b), (d), (g)(3), 9404(b), 9408(c)(1), 9435(b)(2), Oct. 21, 1986, [100 Stat. 2053](https://www.govinfo.gov/link/statute/100/2053), 2054, 2056, 2061, 2070; [Pub. L. 99–514, title XVIII, § 1895(c)(3)(A)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2935](https://www.govinfo.gov/link/statute/100/2935); [Pub. L. 100–203, title IV](https://www.govinfo.gov/link/plaw/100/public/203), §§ 4073(d), 4101(c)(1), 4103(a), 4105(a), 4114, 4118(p)(8), 4211(e), (f), (h)(6), Dec. 22, 1987, [101 Stat. 1330–119](https://www.govinfo.gov/link/statute/101/1330), 1330–141, 1330–146, 1330–147, 1330–152, 1330–159, 1330–204 to 1330–206; [Pub. L. 100–360, title III, § 301(a)(2)](https://www.govinfo.gov/link/plaw/100/public/360) –(d), (g)(2), title IV, § 411(h)(4)(E), (k)(4), (8), (14)(A), July 1, 1988, [102 Stat. 748–750](https://www.govinfo.gov/link/statute/102/748), 787, 791, 794, 798; [Pub. L. 100–485, title III, § 303(b)(2)](https://www.govinfo.gov/link/plaw/100/public/485), title IV, § 401(d)(2), title VI, § 608(d)(14)(A)–(G), (J), (f)(3), Oct. 13, 1988, [102 Stat. 2392](https://www.govinfo.gov/link/statute/102/2392), 2396, 2415, 2416, 2424; [Pub. L. 100–647, title VIII, § 8434(a)](https://www.govinfo.gov/link/plaw/100/public/647), (b)(3), (4), Nov. 10, 1988, [102 Stat. 3805](https://www.govinfo.gov/link/statute/102/3805); [Pub. L. 101–234, title II, § 201(b)](https://www.govinfo.gov/link/plaw/101/public/234), Dec. 13, 1989, [103 Stat. 1981](https://www.govinfo.gov/link/statute/103/1981); [Pub. L. 101–239, title VI](https://www.govinfo.gov/link/plaw/101/public/239), §§ 6402(c)(1), 6403(a), (c), (d)(2), 6404(a), (b), 6405(a), 6408(d)(2), (4)(A), (B), Dec. 19, 1989, [103 Stat. 2261–2265](https://www.govinfo.gov/link/statute/103/2261), 2268, 2269; [Pub. L. 101–508, title IV](https://www.govinfo.gov/link/plaw/101/public/508), §§ 4402(d)(2), 4501(a), (c), (e)(1), 4601(a)(2), 4704(c), (d), (e)(1), 4705(a), 4711(a), 4712(a), 4713(b), 4717, 4719(a), 4721(a), 4722, 4755(a)(1)(A), Nov. 5, 1990, [104 Stat. 1388–163](https://www.govinfo.gov/link/statute/104/1388) to 1388–166, 1388–172, 1388–174, 1388–187, 1388–191, 1388–193, 1388–194, 1388–209; [Pub. L. 103–66, title XIII](https://www.govinfo.gov/link/plaw/103/public/66), §§ 13601(a), 13603(e), 13605(a), 13606(a), 13631(f)(2), (g)(1), Aug. 10, 1993, [107 Stat. 612](https://www.govinfo.gov/link/statute/107/612), 620, 621, 644, 645; [Pub. L. 103–296, title I, § 108(d)(2)](https://www.govinfo.gov/link/plaw/103/public/296), (3), Aug. 15, 1994, [108 Stat. 1486](https://www.govinfo.gov/link/statute/108/1486); [Pub. L. 104–299, § 4(b)(2)](https://www.govinfo.gov/link/plaw/104/public/299), Oct. 11, 1996, [110 Stat. 3645](https://www.govinfo.gov/link/statute/110/3645); [Pub. L. 105–33, title IV](https://www.govinfo.gov/link/plaw/105/public/33), §§ 4702(a), 4711(c)(1), 4712(d)(1), 4714(a)(2), 4725(b)(1), 4732(b), 4802(a)(1), 4911(a), Aug. 5, 1997, [111 Stat. 494](https://www.govinfo.gov/link/statute/111/494), 508–510, 518, 520, 538, 570; [Pub. L. 105–100, title I, § 162(1)](https://www.govinfo.gov/link/plaw/105/public/100), (2), Nov. 19, 1997, [111 Stat. 2188](https://www.govinfo.gov/link/statute/111/2188); [Pub. L. 106–113, div. B, § 1000(a)(6)](https://www.govinfo.gov/link/plaw/106/public/113) [title VI, §§ 605(a), 608(l), (m), (aa)(3)], Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–396 to 1501A–398; [Pub. L. 106–169, title I, § 121(a)(2)](https://www.govinfo.gov/link/plaw/106/public/169), (c)(5), Dec. 14, 1999, [113 Stat. 1829](https://www.govinfo.gov/link/statute/113/1829), 1830; [Pub. L. 106–170, title II, § 201(a)(2)(B)](https://www.govinfo.gov/link/plaw/106/public/170), (C), Dec. 17, 1999, [113 Stat. 1892](https://www.govinfo.gov/link/statute/113/1892); [Pub. L. 106–354, § 2(a)(4)](https://www.govinfo.gov/link/plaw/106/public/354), (c), Oct. 24, 2000, [114 Stat. 1382](https://www.govinfo.gov/link/statute/114/1382), 1384; [Pub. L. 106–554, § 1(a)(6) [title VII, § 709(a), title VIII, § 802(d)(1), (2), title IX, § 911(a)(2)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–578, 2763A–581, 2763A–584; [Pub. L. 108–357, title VII, § 712(a)(1)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1558](https://www.govinfo.gov/link/statute/118/1558); [Pub. L. 109–171, title VI, § 6062(c)(2)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 98](https://www.govinfo.gov/link/statute/120/98); [Pub. L. 110–275, title I](https://www.govinfo.gov/link/plaw/110/public/275), §§ 112, 118(a), July 15, 2008, [122 Stat. 2503](https://www.govinfo.gov/link/statute/122/2503), 2507; [Pub. L. 111–148, title II](https://www.govinfo.gov/link/plaw/111/public/148), §§ 2001(a)(3), (5)(C), (e)(2)(A), 2005(c)(1), 2006, 2301(a), 2302(a), 2303(a)(4)(A), 2304, 2402(d)(2)(B), title IV, §§ 4106(a), (b), 4107(a), title X, § 10201(c), Mar. 23, 2010, [124 Stat. 272](https://www.govinfo.gov/link/statute/124/272), 275, 279, 284, 292–294, 296, 304, 559, 560, 918; [Pub. L. 111–152, title I](https://www.govinfo.gov/link/plaw/111/public/152), §§ 1201, 1202(b), Mar. 30, 2010, [124 Stat. 1051](https://www.govinfo.gov/link/statute/124/1051), 1053; [Pub. L. 112–96, title III, § 3204(a)](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 193](https://www.govinfo.gov/link/statute/126/193); [Pub. L. 112–141, div. F, title I, § 100123(b)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 915](https://www.govinfo.gov/link/statute/126/915); [Pub. L. 114–255, div. B, title XII, § 12005(a)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1275](https://www.govinfo.gov/link/statute/130/1275); [Pub. L. 115–271, title I](https://www.govinfo.gov/link/plaw/115/public/271), §§ 1006(b)(2), (3), 1012(a), title V, § 5052(a)(1), Oct. 24, 2018, [132 Stat. 3914](https://www.govinfo.gov/link/statute/132/3914), 3919, 3971; [Pub. L. 116–59, div. B, title III, § 1302](https://www.govinfo.gov/link/plaw/116/public/59), Sept. 27, 2019, [133 Stat. 1105](https://www.govinfo.gov/link/statute/133/1105); [Pub. L. 116–69, div. B, title III, § 1302](https://www.govinfo.gov/link/plaw/116/public/69), Nov. 21, 2019, [133 Stat. 1137](https://www.govinfo.gov/link/statute/133/1137); [Pub. L. 116–94, div. N, title I, § 202(c)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3107](https://www.govinfo.gov/link/statute/133/3107); [Pub. L. 116–127, div. F](https://www.govinfo.gov/link/plaw/116/public/127), §§ 6004(a)(1), (3)(D), 6008(c), Mar. 18, 2020, [134 Stat. 204](https://www.govinfo.gov/link/statute/134/204), 206, 209; [Pub. L. 116–136, div. A, title III, § 3717](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 425](https://www.govinfo.gov/link/statute/134/425); [Pub. L. 116–159, div. C, title VI, § 2601(a)](https://www.govinfo.gov/link/plaw/116/public/159), Oct. 1, 2020, [134 Stat. 738](https://www.govinfo.gov/link/statute/134/738); [Pub. L. 116–260, div. CC, title II, § 210(a)](https://www.govinfo.gov/link/plaw/116/public/260), title IV, § 402(f)(1), Dec. 27, 2020, [134 Stat. 2989](https://www.govinfo.gov/link/statute/134/2989), 3001; [Pub. L. 117–2, title IX](https://www.govinfo.gov/link/plaw/117/public/2), §§ 9811(a)(1), (b), 9814, 9815, Mar. 11, 2021, [135 Stat. 208](https://www.govinfo.gov/link/statute/135/208), 211, 215; [Pub. L. 117–43, div. D, title I, § 3105(a)](https://www.govinfo.gov/link/plaw/117/public/43), Sept. 30, 2021, [135 Stat. 380](https://www.govinfo.gov/link/statute/135/380); [Pub. L. 117–70, div. C, title I, § 2104(a)](https://www.govinfo.gov/link/plaw/117/public/70), Dec. 3, 2021, [135 Stat. 1504](https://www.govinfo.gov/link/statute/135/1504); [Pub. L. 117–86, div. B, title I, § 1104(a)](https://www.govinfo.gov/link/plaw/117/public/86), Feb. 18, 2022, [136 Stat. 17](https://www.govinfo.gov/link/statute/136/17); [Pub. L. 117–103, div. P, title II, § 201(a)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 802](https://www.govinfo.gov/link/statute/136/802); [Pub. L. 117–169, title I, § 11405(a)(3)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1901](https://www.govinfo.gov/link/statute/136/1901); [Pub. L. 117–180, div. D, title I, § 103](https://www.govinfo.gov/link/plaw/117/public/180), Sept. 30, 2022, [136 Stat. 2135](https://www.govinfo.gov/link/statute/136/2135); [Pub. L. 117–229, div. C, title I, § 103](https://www.govinfo.gov/link/plaw/117/public/229), Dec. 16, 2022, [136 Stat. 2311](https://www.govinfo.gov/link/statute/136/2311); [Pub. L. 117–328, div. FF, title V](https://www.govinfo.gov/link/plaw/117/public/328), §§ 5101(b), 5121(b), 5122(a)(1), Dec. 29, 2022, [136 Stat. 5934](https://www.govinfo.gov/link/statute/136/5934), 5942, 5943; [Pub. L. 118–42, div. G, title I](https://www.govinfo.gov/link/plaw/118/public/42), §§ 201(a), 205(c)(3), (4), 209(a), Mar. 9, 2024, [138 Stat. 399](https://www.govinfo.gov/link/statute/138/399), 406, 412; [Pub. L. 119–21, title VII](https://www.govinfo.gov/link/plaw/119/public/21), §§ 71110(a), 71112(b), 71114, July 4, 2025, [139 Stat. 298](https://www.govinfo.gov/link/statute/139/298), 299, 301; [Pub. L. 119–75, div. J, title I, § 6102(a)(2)](https://www.govinfo.gov/link/plaw/119/public/75), (3), Feb. 3, 2026, [140 Stat. 638](https://www.govinfo.gov/link/statute/140/638), 639.)*

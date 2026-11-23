@@ -3,9 +3,10 @@ title: "Section 2441 - Federal agency cooperation"
 usc_title: 16
 usc_section: "2441"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2441"
-generated_at: "2026-03-30T02:54:23.003Z"
+generated_at: "2026-11-23T21:25:51.949Z"
+status: "active"
 ---
 
 # § 2441. Federal agency cooperation
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:23.003Z"
     - **(C)** The Secretary of Commerce shall submit to the Congress each year the plan required under subparagraph (A). That part of the plan covering fiscal years 1986 through 1988 shall be submitted not later than October 1, 1985 . That part of the plan covering each 3-fiscal-year period thereafter shall be submitted not later than the February 1 occurring before the beginning of the first fiscal year covered by that part of the plan.
 - **(b)** In carrying out their functions under this section, the Secretary of State, the Secretary of Commerce, and the Director of the National Science Foundation shall consult, as appropriate, with the Marine Mammal Commission and with other departments and agencies of the United States.
 - **(c)** The Department of Homeland Security shall facilitate planning for the design, procurement, maintenance, deployment, and operation of icebreakers needed to provide a platform for Antarctic research. All funds necessary to support icebreaking operations, except for recurring incremental costs associated with specific projects, shall be allocated to the United States Coast Guard.
+
+## Source Credit
+
+*([Pub. L. 98–623, title III, § 312](https://www.govinfo.gov/link/plaw/98/public/623), Nov. 8, 1984, [98 Stat. 3405](https://www.govinfo.gov/link/statute/98/3405); [Pub. L. 109–241, title IX, § 902(h)(2)](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 567](https://www.govinfo.gov/link/statute/120/567).)*

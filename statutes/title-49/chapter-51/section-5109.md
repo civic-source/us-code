@@ -3,9 +3,10 @@ title: "Section 5109 - Motor carrier safety permits"
 usc_title: 49
 usc_section: "5109"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 5109"
-generated_at: "2026-03-30T02:56:19.306Z"
+generated_at: "2026-11-23T21:26:40.617Z"
+status: "active"
 ---
 
 # § 5109. Motor carrier safety permits
@@ -33,3 +34,81 @@ generated_at: "2026-03-30T02:56:19.306Z"
 - **(h)** The Secretary may not deny a non-temporary permit held by a motor carrier pursuant to this section based on a comprehensive review of that carrier triggered by safety management system scores or out-of-service disqualification standards, unless—
   - **(1)** the carrier has the opportunity, prior to the denial of such permit, to submit a written description of corrective actions taken and other documentation the carrier wishes the Secretary to consider, including a corrective action plan; and
   - **(2)** the Secretary determines the actions or plan is insufficient to address the safety concerns identified during the course of the comprehensive review.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5109(a) | 49 App.:1805(d)(1), (2). | Jan. 3, 1975 , Pub. L. 93–633 , 88 Stat. 2156 , § 106(d); added Nov. 16, 1990 , Pub. L. 101–615, § 8(a) , 104 Stat. 3257 ; Oct. 24, 1992 , Pub. L. 102–508, § 503(a)(4) , (5), (b), 106 Stat. 3311 . |
+| 5109(b) | 49 App.:1805(d)(5). |  |
+| 5109(c) | 49 App.:1805(d)(7). |  |
+| 5109(d) | 49 App.:1805(d)(4). |  |
+| 5109(e) | 49 App.:1805(d)(6). |  |
+| 5109(f) | 49 App.:1805(d)(3). |  |
+| 5109(g) | 49 App.:1805(d)(8). |  |
+| 5109(h) | 49 App.:1805 (note). | Nov. 16, 1990 , Pub. L. 101–615, § 8(b) , 104 Stat. 3258 . |
+
+
+Requirement
+
+Applicable Transportation
+
+Applications
+
+Amendments, Suspensions, and Revocations
+
+Procedures
+
+Shipper Responsibility
+
+Conditions
+
+Limitation on Denial
+
+Historical and Revision Notes
+
+5109(a)
+
+Jan. 3, 1975
+
+Pub. L. 93–633
+
+88 Stat. 2156
+
+Nov. 16, 1990
+
+Pub. L. 101–615, § 8(a)
+
+104 Stat. 3257
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 503(a)(4)
+
+106 Stat. 3311
+
+5109(b)
+
+5109(c)
+
+5109(d)
+
+5109(e)
+
+5109(f)
+
+5109(g)
+
+5109(h)
+
+Nov. 16, 1990
+
+Pub. L. 101–615, § 8(b)
+
+104 Stat. 3258
+
+Review
+
+Actions Taken
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 767](https://www.govinfo.gov/link/statute/108/767); [Pub. L. 109–59, title VII, § 7126](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1909](https://www.govinfo.gov/link/statute/119/1909); [Pub. L. 114–94, div. A, title VII, § 7202](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1589](https://www.govinfo.gov/link/statute/129/1589).)*

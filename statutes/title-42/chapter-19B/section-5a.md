@@ -3,9 +3,10 @@ title: "Section 5a - Reimbursement to States"
 usc_title: 42
 usc_section: "5a"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5a"
-generated_at: "2026-03-30T02:56:11.134Z"
+generated_at: "2026-11-23T21:26:32.247Z"
+status: "active"
 ---
 
 # § 1962d–5a. Reimbursement to States
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.134Z"
 - **(d)** Reimbursement for work commenced by non-Federal public bodies no later than one year after August 13, 1968 , to carry out or assist in carrying out projects for beach erosion control, may be made in accordance with the provisions of section 426f of title 33 . Reimbursement for such work may, as an alternative, be made in accordance with the provisions of this section, provided that agreement required herein shall have been executed prior to commencement of the work. Expenditures for projects for beach erosion control commenced by non-Federal public bodies subsequent to one year after August 13, 1968 , may be reimbursed by the Secretary of the Army, acting through the Chief of Engineers, only in accordance with the provisions of this section.
 - **(e)** This section shall not be construed (1) as authorizing the United States to assume any responsibilities placed upon a non-Federal body by the conditions of project authorization, or (2) as committing the United States to reimburse non-Federal interests if the Federal project is not undertaken or is modified so as to make the work performed by the non-Federal Public body no longer applicable.
 - **(f)** The Secretary of the Army is authorized to allot from any appropriations hereafter made for civil works, not to exceed $10,000,000 for any one fiscal year to carry out the provisions of this section. This limitation does not include specific project authorizations providing for reimbursement.
+
+## Source Credit
+
+*([Pub. L. 90–483, title II, § 215](https://www.govinfo.gov/link/plaw/90/public/483), Aug. 13, 1968, [82 Stat. 747](https://www.govinfo.gov/link/statute/82/747); [Pub. L. 99–662, title IX, § 913](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4190](https://www.govinfo.gov/link/statute/100/4190); [Pub. L. 100–676, § 12](https://www.govinfo.gov/link/plaw/100/public/676), Nov. 17, 1988, [102 Stat. 4025](https://www.govinfo.gov/link/statute/102/4025); [Pub. L. 104–303, title II, § 224(a)](https://www.govinfo.gov/link/plaw/104/public/303), Oct. 12, 1996, [110 Stat. 3697](https://www.govinfo.gov/link/statute/110/3697); [Pub. L. 110–161, div. C, title I, § 116](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 1945](https://www.govinfo.gov/link/statute/121/1945).)*

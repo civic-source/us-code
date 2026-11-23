@@ -3,9 +3,10 @@ title: "Section 8193 - Administration"
 usc_title: 5
 usc_section: "8193"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8193"
-generated_at: "2026-03-30T02:52:56.043Z"
+generated_at: "2026-11-23T21:25:23.362Z"
+status: "active"
 ---
 
 # § 8193. Administration
@@ -27,3 +28,19 @@ generated_at: "2026-03-30T02:52:56.043Z"
 - **(d)** The Secretary of Labor may refer any application received by him pursuant to this subchapter to the Attorney General for his assistance, comments and advice as to any determination required to be made pursuant to paragraph (1), (2), or (3) of section 8191. To insure that all Federal assistance under this subchapter is carried out in a coordinated manner, the Secretary of Labor is authorized to request any Federal department or agency to supply any statistics, data, or any other materials he deems necessary to carry out his functions under this subchapter. Each such department or agency is authorized to cooperate with the Secretary of Labor and, to the extent permitted by law, to furnish such materials to him.
 - **(e)** The Secretary of Labor shall cooperate fully with the appropriate State and local officials, and shall take all other practicable measures, to assure that the benefits of this subchapter are made available to eligible officers and their survivors with a minimum of delay and difficulty.
 - **(f)** There are authorized to be appropriated such sums as may be necessary to carry out this subchapter.
+
+Definitions and Rules of Construction
+
+Delegation.—
+
+Applications
+
+Consultation With Attorney General and Other Agencies
+
+Cooperation With State Agencies
+
+Appropriations
+
+## Source Credit
+
+*(Added [Pub. L. 90–291, § 1(a)](https://www.govinfo.gov/link/plaw/90/public/291), Apr. 19, 1968, [82 Stat. 99](https://www.govinfo.gov/link/statute/82/99); amended [Pub. L. 94–183, § 2(31)](https://www.govinfo.gov/link/plaw/94/public/183), Dec. 31, 1975, [89 Stat. 1058](https://www.govinfo.gov/link/statute/89/1058).)*

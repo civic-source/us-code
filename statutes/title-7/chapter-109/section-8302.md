@@ -3,9 +3,10 @@ title: "Section 8302 - Definitions"
 usc_title: 7
 usc_section: "8302"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 8302"
-generated_at: "2026-03-30T02:53:42.473Z"
+generated_at: "2026-11-23T21:25:28.471Z"
+status: "active"
 ---
 
 # § 8302. Definitions
@@ -49,3 +50,7 @@ In this chapter:
   - **(16)** Except when used in this section, the term “this chapter” includes any regulation or order issued by the Secretary under the authority of this chapter.
   - **(17)** The term “United States” means all of the States.
   - **(18)** The term “veterinary countermeasure” means any biological product (including an animal vaccine or diagnostic), pharmaceutical product (including a therapeutic), non-pharmaceutical product (including a disinfectant), or other product or equipment to prevent, detect, respond to, or mitigate harm to public or animal health resulting from, animal pests or diseases.
+
+## Source Credit
+
+*([Pub. L. 107–171, title X, § 10403](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 494](https://www.govinfo.gov/link/statute/116/494); [Pub. L. 115–334, title XII, § 12101(a)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4937](https://www.govinfo.gov/link/statute/132/4937); [Pub. L. 117–328, div. HH, title V, § 603](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5996](https://www.govinfo.gov/link/statute/136/5996).)*

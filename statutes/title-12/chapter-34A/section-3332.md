@@ -3,9 +3,10 @@ title: "Section 3332 - Functions of Appraisal Subcommittee"
 usc_title: 12
 usc_section: "3332"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3332"
-generated_at: "2026-03-30T02:53:53.492Z"
+generated_at: "2026-11-23T21:25:37.130Z"
+status: "active"
 ---
 
 # § 3332. Functions of Appraisal Subcommittee
@@ -17,8 +18,11 @@ generated_at: "2026-03-30T02:53:53.492Z"
   - **(2)** monitor the requirements established by the Federal financial institutions regulatory agencies with respect to—
     - **(A)** appraisal standards for federally related transactions under their jurisdiction, and
     - **(B)** determinations as to which federally related transactions under their jurisdiction require the services of a State certified appraiser and which require the services of a State licensed appraiser;
-  - **(3)** maintain a national registry of State certified and licensed appraisers who are eligible to perform appraisals in federally related transactions; and 1 1 So in original. The word “and” probably should not appear.
-  - **(4)** Omitted
-  - **(5)** transmit an annual report to the Congress not later than June 15 of each year that describes the manner in which each function assigned to the Appraisal Subcommittee has been carried out during the preceding year. The report shall also detail the activities of the Appraisal Subcommittee, including the results of all audits of State appraiser regulatory agencies, and provide an accounting of disapproved actions and warnings taken in the previous year, including a description of the conditions causing the disapproval and actions taken to achieve compliance. 2 2 So in original. Probably should be “compliance; and”.
-  - **(6)** maintain a national registry of appraisal management companies that either are registered with and subject to supervision of a State appraiser certifying and licensing agency or are operating subsidiaries of a Federally regulated financial institution.
+  - **(3)** maintain a national registry of State certified and licensed appraisers and State credentialed trainee appraisers who are eligible to perform appraisals in federally related transactions;
+  - **(4)** transmit an annual report to the Congress not later than June 15 of each year that describes the manner in which each function assigned to the Appraisal Subcommittee has been carried out during the preceding year, detailing the activities of the Appraisal Subcommittee, including the results of all audits of State appraiser regulatory agencies, and provides an accounting of disapproved actions and warnings taken in the previous year, including a description of the conditions causing the disapproval and actions taken to achieve compliance; and
+  - **(5)** maintain a national registry of appraisal management companies that either are registered with and subject to supervision of a State appraiser certifying and licensing agency or are operating subsidiaries of a Federally regulated financial institution.
 - **(b)** The Appraisal Subcommittee shall monitor and review the practices, procedures, activities, and organizational structure of the Appraisal Foundation.
+
+## Source Credit
+
+*([Pub. L. 101–73, title XI, § 1103](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 512](https://www.govinfo.gov/link/statute/103/512); [Pub. L. 111–203, title III, § 367(6)](https://www.govinfo.gov/link/plaw/111/public/203), title XIV, § 1473(b), (f)(1), July 21, 2010, [124 Stat. 1557](https://www.govinfo.gov/link/statute/124/1557), 2190, 2191; [Pub. L. 119–101, title IV, § 403(c)](https://www.govinfo.gov/link/plaw/119/public/101), July 11, 2026, [140 Stat. 900](https://www.govinfo.gov/link/statute/140/900).)*

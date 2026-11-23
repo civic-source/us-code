@@ -3,9 +3,10 @@ title: "Section 1031 - Repeal and effective date"
 usc_title: 29
 usc_section: "1031"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1031"
-generated_at: "2026-03-30T02:55:18.705Z"
+generated_at: "2026-11-23T21:26:02.231Z"
+status: "active"
 ---
 
 # § 1031. Repeal and effective date
@@ -25,3 +26,11 @@ generated_at: "2026-03-30T02:55:18.705Z"
   - **(2)** In the case of a plan which has a plan year which begins before January 1, 1975 , and ends after December 31, 1974 , the Secretary may postpone by regulation the effective date of the repeal of any provision of the Welfare and Pension Plans Disclosure Act (and of any amendment made by subsection (a)(2)) and the effective date of any provision of this part, until the beginning of the first plan year of such plan which begins after January 1, 1975 .
 - **(c)** The provisions of this subchapter authorizing the Secretary to promulgate regulations shall take effect on September 2, 1974 .
 - **(d)** Subsections (b) and (c) shall not apply with respect to amendments made to this part in provisions enacted after September 2, 1974 .
+
+welfare and pension plans disclosure act
+
+employee retirement income security act of 1974”.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 112](https://www.govinfo.gov/link/plaw/93/public/406), formerly § 111, Sept. 2, 1974, [88 Stat. 851](https://www.govinfo.gov/link/statute/88/851); [Pub. L. 101–239, title VII, § 7894(h)(1)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2451](https://www.govinfo.gov/link/statute/103/2451); renumbered § 112, [Pub. L. 117–328, div. T, title III, § 320(a)(1)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5354](https://www.govinfo.gov/link/statute/136/5354).)*

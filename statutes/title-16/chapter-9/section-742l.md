@@ -3,9 +3,10 @@ title: "Section 742l - Enforcement authority for the protection of fish and wild
 usc_title: 16
 usc_section: "742l"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 742l"
-generated_at: "2026-03-30T02:54:22.904Z"
+generated_at: "2026-11-23T21:25:51.744Z"
+status: "active"
 ---
 
 # § 742l. Enforcement authority for the protection of fish and wildlife resources
@@ -39,3 +40,11 @@ generated_at: "2026-03-30T02:54:22.904Z"
   - **(1)** direct the advance of funds which may be deposited in commercial banks or other financial institutions;
   - **(2)** use appropriations for payment for information, rewards, or evidence concerning violations, without reference to any rewards to which such persons may otherwise be entitled by law, and any moneys subsequently recovered shall be reimbursed to the current appropriation; and
   - **(3)** use appropriations to establish or acquire proprietary corporations or business entities as part of an undercover operation, operate such corporations or business entities on a commercial basis, lease space and make other necessary expenditures, and use the proceeds from such undercover operations to offset necessary and reasonable expenses incurred in such operations: Provided , That at the conclusion of each such operation the proceeds shall be deposited in the Treasury of the United States as miscellaneous receipts.
+
+Findings
+
+Purposes
+
+## Source Credit
+
+*([Pub. L. 95–616, § 3](https://www.govinfo.gov/link/plaw/95/public/616) (less (e)–(j)), Nov. 8, 1978, [92 Stat. 3110](https://www.govinfo.gov/link/statute/92/3110); [Pub. L. 97–396, § 7](https://www.govinfo.gov/link/plaw/97/public/396), Dec. 31, 1982, [96 Stat. 2006](https://www.govinfo.gov/link/statute/96/2006); [Pub. L. 105–328, § 3](https://www.govinfo.gov/link/plaw/105/public/328), Oct. 30, 1998, [112 Stat. 3058](https://www.govinfo.gov/link/statute/112/3058).)*

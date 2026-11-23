@@ -3,9 +3,10 @@ title: "Section 1847 - Penalties"
 usc_title: 12
 usc_section: "1847"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1847"
-generated_at: "2026-03-30T02:53:53.468Z"
+generated_at: "2026-11-23T21:25:37.043Z"
+status: "active"
 ---
 
 # § 1847. Penalties
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:53.468Z"
   - **(3)** Notwithstanding paragraph (2), if any company knowingly or with reckless disregard for the accuracy of any information or report described in paragraph (2) submits or publishes any false or misleading report or information, the Board may, in its discretion, assess a penalty of not more than $1,000,000 or 1 percent of total assets of such company, whichever is less, per day for each day during which such failure continues or such false or misleading information is not corrected.
   - **(4)** Any penalty imposed under paragraph (1), (2), or (3) shall be assessed and collected by the Board in the manner provided in subsection (b) (for penalties imposed under such subsection) and any such assessment (including the determination of the amount of the penalty) shall be subject to the provisions of such subsection.
   - **(5)** Any company against which any penalty is assessed under this subsection shall be afforded an agency hearing if such company submits a request for such hearing within 20 days after the issuance of the notice of assessment. Section 1818(h) of this title shall apply to any proceeding under this subsection.
+
+## Source Credit
+
+*(May 9, 1956, ch. 240, § 8, [70 Stat. 138](https://www.govinfo.gov/link/statute/70/138); [Pub. L. 95–630, title I, § 106(a)](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3647](https://www.govinfo.gov/link/statute/92/3647); [Pub. L. 97–320, title IV, § 424(a)](https://www.govinfo.gov/link/plaw/97/public/320), (d)(4), Oct. 15, 1982, [96 Stat. 1522](https://www.govinfo.gov/link/statute/96/1522), 1523; [Pub. L. 101–73, title IX](https://www.govinfo.gov/link/plaw/101/public/73), §§ 905(i), 907(j), 911(e), Aug. 9, 1989, [103 Stat. 461](https://www.govinfo.gov/link/statute/103/461), 475, 481.)*

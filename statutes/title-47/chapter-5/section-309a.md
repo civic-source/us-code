@@ -3,9 +3,10 @@ title: "Section 309a - Reports related to spectrum auctions"
 usc_title: 47
 usc_section: "309a"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 309a"
-generated_at: "2026-03-30T02:56:24.507Z"
+generated_at: "2026-11-23T21:26:35.988Z"
+status: "active"
 ---
 
 # § 309a. Reports related to spectrum auctions
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:24.507Z"
   - **(2)** the Committee on Appropriations of the Senate;
   - **(3)** the Committee on Energy and Commerce of the House of Representatives; and
   - **(4)** the Committee on Appropriations of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 115–141, div. P, title V, § 512](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1097](https://www.govinfo.gov/link/statute/132/1097).)*

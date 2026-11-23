@@ -3,9 +3,10 @@ title: "Section 20108 - Research, development, testing, and training"
 usc_title: 49
 usc_section: "20108"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 20108"
-generated_at: "2026-03-30T02:56:19.334Z"
+generated_at: "2026-11-23T21:26:40.701Z"
+status: "active"
 ---
 
 # § 20108. Research, development, testing, and training
@@ -28,3 +29,113 @@ generated_at: "2026-03-30T02:56:19.334Z"
     - **(C)** consider the regional and national impacts of the applicant’s proposal.
   - **(4)** Grant funds awarded pursuant to this subsection shall be used for basic and applied research, evaluation, education, workforce development, and training efforts related to safety, project delivery, efficiency, reliability, resiliency, and sustainability of urban commuter, intercity high-speed, and freight rail transportation, to include advances in rolling stock, advanced positive train control, human factors, rail infrastructure, shared corridors, grade crossing safety, inspection technology, remote sensing, rail systems maintenance, network resiliency, operational reliability, energy efficiency, and other advanced technologies.
   - **(5)** The Federal share of a grant awarded under this subsection shall be 50 percent of the cost of establishing and operating the center of excellence and related research activities carried out by the grant recipient.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 20108(a) | 45:431(a) (1st sentence cl. (2)). | Oct. 16, 1970 , Pub. L. 91–458 , §§ 202(a) (1st sentence cl. (2)), 208(a) (1st sentence words before 3d comma and between 9th–14th commas), 84 Stat. 971 , 974. |
+| 20108(b) | 45:437(a) (1st sentence words before 3d comma and between 9th–14th commas). |  |
+|  | 45:437(d)(1) (1st sentence). | Oct. 16, 1970 , Pub. L. 91–458 , 84 Stat. 971 , § 208(d)(1) (1st sentence); added Oct. 10, 1980 , Pub. L. 96–423, § 6(b) , 94 Stat. 1813 . |
+| 20108(c) | 45:444(a) (last sentence). | Oct. 16, 1970 , Pub. L. 91–458 , 84 Stat. 971 , § 214(a) (last sentence); added Oct. 10, 1980 , Pub. L. 96–423, § 2 , 94 Stat. 1811 ; Aug. 13, 1981 , Pub. L. 97–35, § 1195 , 95 Stat. 702 ; Jan. 14, 1983 , Pub. L. 97–468, § 703 , 96 Stat. 2580 ; restated June 22, 1988 , Pub. L. 100–342, § 2 , 102 Stat. 624 ; Nov. 5, 1990 , Pub. L. 101–508, § 10501(b) , 104 Stat. 1388–400 ; restated Sept. 3, 1992 , Pub. L. 102–365, § 12 , 106 Stat. 980 . |
+
+
+General
+
+Contracts
+
+Amounts From Non-Government Sources for Training Safety Employees
+
+Facilities
+
+Offsetting Collections
+
+Revolving Fund
+
+Leases and Contracts
+
+Property and Casualty Loss Insurance
+
+Energy Projects
+
+Rail Research and Development Center of Excellence.—
+
+Center of excellence
+
+Eligibility
+
+Selection criteria
+
+Use of funds
+
+Federal share
+
+Historical and Revision Notes
+
+20108(a)
+
+Oct. 16, 1970
+
+Pub. L. 91–458
+
+84 Stat. 971
+
+20108(b)
+
+Oct. 16, 1970
+
+Pub. L. 91–458
+
+84 Stat. 971
+
+Oct. 10, 1980
+
+Pub. L. 96–423, § 6(b)
+
+94 Stat. 1813
+
+20108(c)
+
+Oct. 16, 1970
+
+Pub. L. 91–458
+
+84 Stat. 971
+
+Oct. 10, 1980
+
+Pub. L. 96–423, § 2
+
+94 Stat. 1811
+
+Aug. 13, 1981
+
+Pub. L. 97–35, § 1195
+
+95 Stat. 702
+
+Jan. 14, 1983
+
+Pub. L. 97–468, § 703
+
+96 Stat. 2580
+
+June 22, 1988
+
+Pub. L. 100–342, § 2
+
+102 Stat. 624
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 10501(b)
+
+104 Stat. 1388–400
+
+Sept. 3, 1992
+
+Pub. L. 102–365, § 12
+
+106 Stat. 980
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 867](https://www.govinfo.gov/link/statute/108/867); [Pub. L. 117–58, div. B, title II](https://www.govinfo.gov/link/plaw/117/public/58), §§ 22412, 22413, Nov. 15, 2021, [135 Stat. 743](https://www.govinfo.gov/link/statute/135/743), 744.)*

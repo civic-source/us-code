@@ -3,9 +3,10 @@ title: "Section 971 - Definitions"
 usc_title: 26
 usc_section: "971"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 971"
-generated_at: "2026-03-30T02:55:27.751Z"
+generated_at: "2026-11-23T21:26:06.447Z"
+status: "active"
 ---
 
 # § 971. Definitions
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:27.751Z"
   - **(4)** any other ordinary and necessary expenses of the corporation to the extent reasonably allocable to the receipt or production of export trade income.
 - **(e)** For purposes of this subpart, the term “export property” means any property or any interest in property manufactured, produced, grown, or extracted in the United States.
 - **(f)** For purposes of this subpart, the term “unrelated person” means a person other than a related person as defined in section 954(d)(3).
+
+## Source Credit
+
+*(Added [Pub. L. 87–834, § 12(a)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 1029](https://www.govinfo.gov/link/statute/76/1029); amended [Pub. L. 92–178, title V, § 505(c)](https://www.govinfo.gov/link/plaw/92/public/178), Dec. 10, 1971, [85 Stat. 553](https://www.govinfo.gov/link/statute/85/553).)*

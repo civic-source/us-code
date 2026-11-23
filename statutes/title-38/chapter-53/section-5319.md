@@ -3,9 +3,10 @@ title: "Section 5319 - Limitations on access to financial records"
 usc_title: 38
 usc_section: "5319"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 5319"
-generated_at: "2026-03-30T02:55:53.521Z"
+generated_at: "2026-11-23T21:26:16.821Z"
+status: "active"
 ---
 
 # § 5319. Limitations on access to financial records
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:53.521Z"
   - **(2)** cannot be secured by a reasonable search of records and information of the Department.
 - **(b)** The Secretary shall include a certification of the determinations referred to in subsection (a) in each request presented to a financial institution.
 - **(c)** Information disclosed pursuant to a request referred to in subsection (a) may be used solely for the purpose of the administration of benefits programs under laws administered by the Secretary if, except for the exemption in subsection (a), the disclosure of that information would otherwise be prohibited by any provision of the Right to Financial Privacy Act of 1978.
+
+## Source Credit
+
+*(Added [Pub. L. 102–568, title VI, § 603(b)(1)](https://www.govinfo.gov/link/plaw/102/public/568), Oct. 29, 1992, [106 Stat. 4342](https://www.govinfo.gov/link/statute/106/4342).)*

@@ -3,9 +3,10 @@ title: "Section 1841 - Funds and services"
 usc_title: 48
 usc_section: "1841"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1841"
-generated_at: "2026-03-30T02:56:14.593Z"
+generated_at: "2026-11-23T21:26:38.031Z"
+status: "active"
 ---
 
 # § 1841. Funds and services
@@ -20,3 +21,29 @@ generated_at: "2026-03-30T02:56:14.593Z"
   - **(1)** The Secretary of the Treasury is authorized and directed, upon the request of the Governor of the Northern Mariana Islands, acting pursuant to legislation enacted in accordance with sections 5 and 7 of article II of the Constitution of the Northern Mariana Islands, or upon receipt of a resolution adopted by both houses of the legislature of the Northern Mariana Islands accompanied by a letter of request from either the Governor or the Lieutenant Governor of the Northern Mariana Islands, without reimbursement or other cost to the government of the Northern Mariana Islands, to administer and enforce the provisions of section 601, 603, or 604 of the Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America ( Public Law 94–241 ; 90 Stat. 263 , 269) and in order to administer and enforce the collection of any payroll tax or other tax measured by income which may be in force in the Northern Mariana Islands pursuant to section 602 of such Covenant. This authority shall continue until such time as the Governor of the Northern Mariana Islands, acting pursuant to legislation enacted in accordance with sections 5 and 7 of article II of the Constitution of the Northern Mariana Islands, requests the Secretary of the Treasury to discontinue the administration and enforcement of such taxes. The administration and enforcement of such taxes by the government of the Northern Mariana Islands shall begin on January 1 of the year following the year in which such Northern Mariana Islands law is enacted.
   - **(2)** For purposes of carrying out any administration and enforcement required by this subsection, the Secretary of the Treasury (hereinafter in this subsection referred to as the “Secretary”), or his delegate, at no cost to the Northern Marianas government, may (A) employ citizens of the Northern Mariana Islands (as defined by Article III of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States (approved, Public Law 94–241 ; 90 Stat. 265 ), or (B) use the services of employees of the government of the Northern Mariana Islands, upon agreement to pay such government for the use of such services. In addition, the Secretary, or his delegate, shall make every effort to assure that citizens of the Northern Mariana Islands (as so defined) are trained to ultimately assume the administration and enforcement duties required of the Secretary or his delegate under this section. Notwithstanding any other provision of law, the Secretary or his delegate is authorized to the maximum extent feasible in administering and enforcing the requested sections of the Covenant, to employ and train Northern Mariana Islands’ citizens without regard to United States Civil Service hiring or job classification laws or any employment ceilings imposed upon the Secretary. The preceding sentence shall not exempt such Northern Mariana Islands’ citizens so hired from any other laws affecting Federal or Internal Revenue Service employees and shall remain in effect until the end of the third full fiscal year following March 12, 1980 .
   - **(3)** As part of the administration of taxes required by this subsection, the Secretary or his delegate shall establish, at no cost to the Northern Marianas government, a taxpayers information service to provide such information and assistance to citizens of the Northern Mariana Islands (as so defined) as may be necessary for the filing of returns and the payment of such taxes.
+
+Study.—
+
+In general
+
+Scope
+
+Establishment
+
+Scope
+
+Report
+
+Funding.—
+
+Study
+
+Pilot program.—
+
+In general
+
+Exception
+
+## Source Credit
+
+*([Pub. L. 95–348, § 3](https://www.govinfo.gov/link/plaw/95/public/348), Aug. 18, 1978, [92 Stat. 489](https://www.govinfo.gov/link/statute/92/489); [Pub. L. 96–205, title II, § 204(a)](https://www.govinfo.gov/link/plaw/96/public/205), Mar. 12, 1980, [94 Stat. 86](https://www.govinfo.gov/link/statute/94/86); [Pub. L. 110–234, title IV, § 4002(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/234), (B), (2)(HH), May 22, 2008, [122 Stat. 1095](https://www.govinfo.gov/link/statute/122/1095), 1096, 1098; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4002(b)(1)(A), (B), (2)(HH), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1859.)*

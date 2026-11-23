@@ -3,9 +3,10 @@ title: "Section 32304B - Child safety"
 usc_title: 49
 usc_section: "32304B"
 chapter: 323
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 32304B"
-generated_at: "2026-03-30T02:56:19.363Z"
+generated_at: "2026-11-23T21:26:40.800Z"
+status: "active"
 ---
 
 # § 32304B. Child safety
@@ -19,3 +20,21 @@ generated_at: "2026-03-30T02:56:19.363Z"
   - **(1)** shall include a distinct auditory and visual alert, which may be combined with a haptic alert; and
   - **(2)** shall be activated when the vehicle motor is deactivated by the operator.
 - **(d)** The rule issued pursuant to subsection (b) shall require full compliance with the rule beginning on September 1st of the first calendar year that begins 2 years after the date on which the final rule is issued.
+
+Definitions
+
+Passenger motor vehicle
+
+Rear-designated seating position
+
+Secretary
+
+Rulemaking
+
+Means
+
+Phase-in
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. B, title IV, § 24222(a)(1)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 835](https://www.govinfo.gov/link/statute/135/835).)*

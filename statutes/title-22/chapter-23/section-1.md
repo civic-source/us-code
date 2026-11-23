@@ -3,9 +3,10 @@ title: "Section 1 - Designation of a foreign country as a State Sponsor of Unlaw
 usc_title: 22
 usc_section: "1"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1"
-generated_at: "2026-03-30T02:55:05.339Z"
+generated_at: "2026-11-23T21:25:58.414Z"
+status: "active"
 ---
 
 # § 1741d–1. Designation of a foreign country as a State Sponsor of Unlawful or Wrongful Detention
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:55:05.339Z"
 - **(f)** Nothing in this section may be construed to imply that—
   - **(1)** the United States Government formally recognizes any particular country or the government of such country as legitimate; or
   - **(2)** every United States national detained in a country designated as a State Sponsor of Unlawful or Wrongful Detention under subsection (a) should be or is determined to be wrongfully detained under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. FF, title III, § 306A](https://www.govinfo.gov/link/plaw/116/public/260), as added [Pub. L. 119–60, div. H, title LXXXIII, § 8352](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1880](https://www.govinfo.gov/link/statute/139/1880).)*

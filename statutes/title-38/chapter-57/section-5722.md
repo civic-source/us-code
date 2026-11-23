@@ -3,9 +3,10 @@ title: "Section 5722 - Policy"
 usc_title: 38
 usc_section: "5722"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 5722"
-generated_at: "2026-03-30T02:55:53.522Z"
+generated_at: "2026-11-23T21:26:16.825Z"
+status: "active"
 ---
 
 # § 5722. Policy
@@ -25,3 +26,13 @@ generated_at: "2026-03-30T02:55:53.522Z"
   - **(8)** Procedures for detecting, immediately reporting, and responding to security incidents, including mitigating risks before substantial damage is done as well as notifying and consulting with the US-Computer Emergency Readiness Team of the Department of Homeland Security, law enforcement agencies, the Inspector General of the Department, and other offices as appropriate.
   - **(9)** Plans and procedures to ensure continuity of operations for Department systems.
 - **(c)** The Secretary shall comply with the provisions of subchapter III of chapter 35 of title 44 and other related information security requirements promulgated by the National Institute of Standards and Technology and the Office of Management and Budget that define Department information system mandates.
+
+In General
+
+Elements
+
+Compliance With Certain Requirements
+
+## Source Credit
+
+*(Added [Pub. L. 109–461, title IX, § 902(a)](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3450](https://www.govinfo.gov/link/statute/120/3450).)*

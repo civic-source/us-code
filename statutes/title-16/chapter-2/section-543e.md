@@ -3,9 +3,10 @@ title: "Section 543e - Scenic Area Advisory Board"
 usc_title: 16
 usc_section: "543e"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 543e"
-generated_at: "2026-03-30T02:54:22.869Z"
+generated_at: "2026-11-23T21:25:51.666Z"
+status: "active"
 ---
 
 # § 543e. Scenic Area Advisory Board
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:22.869Z"
 - **(g)** Any vacancy in the Board shall be filled in the same manner in which the original appointment was made.
 - **(h)** A majority of those members appointed shall constitute a quorum for the conduct of all business of the Board.
 - **(i)** The Board shall terminate ten years from the date of its first meeting.
+
+## Source Credit
+
+*([Pub. L. 98–425, title III, § 306](https://www.govinfo.gov/link/plaw/98/public/425), Sept. 28, 1984, [98 Stat. 1637](https://www.govinfo.gov/link/statute/98/1637).)*

@@ -3,9 +3,10 @@ title: "Section 14915 - Penalties for failure to give up possession of household
 usc_title: 49
 usc_section: "14915"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 14915"
-generated_at: "2026-03-30T02:56:19.333Z"
+generated_at: "2026-11-23T21:26:40.696Z"
+status: "active"
 ---
 
 # § 14915. Penalties for failure to give up possession of household goods
@@ -17,3 +18,21 @@ generated_at: "2026-03-30T02:56:19.333Z"
   - **(4)** Nothing in this section shall be construed as prohibiting the Secretary from accepting partial payment of a civil penalty as part of a settlement agreement in the public interest, or from holding imposition of any part of a civil penalty in abeyance.
 - **(b)** Whoever has been convicted of having failed to give up possession of household goods shall be fined under title 18 or imprisoned for not more than 2 years, or both.
 - **(c)** For purposes of this section, the term “failed to give up possession of household goods” means the knowing and willful failure, in violation of a contract, to deliver to, or unload at, the destination of a shipment of household goods that is subject to jurisdiction under subchapter I or III of chapter 135 of this title, for which charges have been estimated by the motor carrier providing transportation of such goods, and for which the shipper has tendered a payment described in clause (i), (ii), or (iii) of section 13707(b)(3)(A).
+
+Civil Penalty.—
+
+In general
+
+Each day, a separate violation
+
+Suspension
+
+Settlement authority
+
+Criminal Penalty
+
+Failure To Give Up Possession of Household Goods Defined
+
+## Source Credit
+
+*(Added [Pub. L. 109–59, title IV, § 4210(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1758](https://www.govinfo.gov/link/statute/119/1758); amended [Pub. L. 112–141, div. C, title II](https://www.govinfo.gov/link/plaw/112/public/141), §§ 32922(b), 32923(b), July 6, 2012, [126 Stat. 828](https://www.govinfo.gov/link/statute/126/828).)*

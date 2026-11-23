@@ -3,9 +3,10 @@ title: "Section 18304 - Procedures for enforcement of awards"
 usc_title: 40
 usc_section: "18304"
 chapter: 183
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 18304"
-generated_at: "2026-03-30T02:55:43.390Z"
+generated_at: "2026-11-23T21:26:14.992Z"
+status: "active"
 ---
 
 # § 18304. Procedures for enforcement of awards
@@ -20,3 +21,28 @@ generated_at: "2026-03-30T02:55:43.390Z"
   - **(5)** there was partiality or misconduct by the arbitrator prejudicing the rights of a party;
   - **(6)** the award was procured by corruption, fraud, or bias on the part of the arbitrator; or
   - **(7)** the arbitrator did not comply with the provisions of section 18303 of this title .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 18304 | 40:1304. | Pub. L. 104–50, title IV, § 405 , Nov. 15, 1995 , 109 Stat. 465 . |
+
+
+Modifications and Finality of Award
+
+Implementation
+
+Judicial Review
+
+Historical and Revision Notes
+
+18304
+
+Pub. L. 104–50, title IV, § 405
+
+Nov. 15, 1995
+
+109 Stat. 465
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1294](https://www.govinfo.gov/link/statute/116/1294).)*

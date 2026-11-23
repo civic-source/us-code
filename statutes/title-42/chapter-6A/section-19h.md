@@ -3,9 +3,10 @@ title: "Section 19h - Advanced drinking water technologies"
 usc_title: 42
 usc_section: "19h"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19h"
-generated_at: "2026-03-30T02:56:10.806Z"
+generated_at: "2026-11-23T21:26:30.769Z"
+status: "active"
 ---
 
 # § 300j–19h. Advanced drinking water technologies
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:10.806Z"
   - **(5)**
     - **(A)** There is authorized to be appropriated to carry out the program $10,000,000 for each of fiscal years 2022 through 2026, to remain available until expended.
     - **(B)** Not more than 2 percent of the amount made available for a fiscal year under subparagraph (A) to carry out the program may be used by the Administrator for the administrative costs of carrying out the program.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XIV, § 1459G, as added [Pub. L. 117–58, div. E, title I, § 50112](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1154](https://www.govinfo.gov/link/statute/135/1154).)*

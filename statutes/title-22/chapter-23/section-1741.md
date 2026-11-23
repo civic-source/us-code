@@ -3,9 +3,10 @@ title: "Section 1741 - Assistance for United States nationals unlawfully or wron
 usc_title: 22
 usc_section: "1741"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1741"
-generated_at: "2026-03-30T02:55:05.338Z"
+generated_at: "2026-11-23T21:25:58.412Z"
+status: "active"
 ---
 
 # § 1741. Assistance for United States nationals unlawfully or wrongfully detained abroad
@@ -88,3 +89,11 @@ generated_at: "2026-03-30T02:55:05.338Z"
       - **(ii)** A waiver under clause (i) shall expire on the date that is 180 days after the date on which the Secretary submits the report on the waiver to Congress pursuant to clause (i)(II).
       - **(iii)** The Secretary may renew a waiver granted pursuant to clause (i) in the manner provided under such clause.
 - **(f)** Upon the release of a United States national determined to be unlawfully or wrongfully detained abroad and the return of that national, the President shall issue to that national a letter, to be known as a “declaration of invalidity”, that officially declares the detention abroad of the national as invalid for the purpose of completing any documentation that warrants a background investigation or review of prior offenses, such as a conviction.
+
+(aa) is approved by the Special Presidential Envoy for Hostage Affairs; and
+
+(bb) does not represent in any legal capacity a United States national unlawfully or wrongfully detained abroad or the family of such United States national;
+
+## Source Credit
+
+*([Pub. L. 116–260, div. FF, title III, § 302](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3091](https://www.govinfo.gov/link/statute/134/3091); [Pub. L. 117–263, div. I, title XCI, § 9102](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3858](https://www.govinfo.gov/link/statute/136/3858); [Pub. L. 118–31, div. F, title LXIV, § 6409](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1003](https://www.govinfo.gov/link/statute/137/1003); [Pub. L. 118–159, div. G, title LXXVII](https://www.govinfo.gov/link/plaw/118/public/159), §§ 7701, 7707, 7708, Dec. 23, 2024, [138 Stat. 2553](https://www.govinfo.gov/link/statute/138/2553), 2556, 2557.)*

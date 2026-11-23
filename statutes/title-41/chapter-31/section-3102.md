@@ -3,9 +3,10 @@ title: "Section 3102 - Delegation and assignment of powers, functions, and respo
 usc_title: 41
 usc_section: "3102"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 3102"
-generated_at: "2026-03-30T02:55:55.804Z"
+generated_at: "2026-11-23T21:26:18.801Z"
+status: "active"
 ---
 
 # § 3102. Delegation and assignment of powers, functions, and responsibilities
@@ -15,3 +16,28 @@ generated_at: "2026-03-30T02:55:55.804Z"
   - **(1)** the head of an executive agency may delegate functions and assign responsibilities relating to procurement to any officer or employee within the agency;
   - **(2)** the heads of 2 or more executive agencies, consistent with section 1535 of title 31 and regulations prescribed under section 1074 of the Federal Acquisition Streamlining Act of 1994 ( Public Law 103–355 , 31 U.S.C. 1535 note), may by agreement delegate procurement functions and assign procurement responsibilities from one executive agency to another of those executive agencies or to an officer or civilian employee of another of those executive agencies; and
   - **(3)** the heads of 2 or more executive agencies may establish joint or combined offices to exercise procurement functions and responsibilities.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3102 | 41:261. | June 30, 1949, ch. 288 , title III, § 311, as added Pub. L. 103–355, title I, § 1552 , Oct. 13, 1994 , 108 Stat. 3299 . |
+
+
+In General
+
+Procurements For or With Another Agency
+
+Historical and Revision Notes
+
+3102
+
+June 30, 1949, ch. 288
+
+Pub. L. 103–355, title I, § 1552
+
+Oct. 13, 1994
+
+108 Stat. 3299
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3743](https://www.govinfo.gov/link/statute/124/3743).)*

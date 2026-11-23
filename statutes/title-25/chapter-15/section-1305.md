@@ -3,9 +3,10 @@ title: "Section 1305 - Tribal jurisdiction in Alaska"
 usc_title: 25
 usc_section: "1305"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1305"
-generated_at: "2026-03-30T02:54:52.816Z"
+generated_at: "2026-11-23T21:25:54.601Z"
+status: "active"
 ---
 
 # § 1305. Tribal jurisdiction in Alaska
@@ -79,3 +80,31 @@ generated_at: "2026-03-30T02:54:52.816Z"
   - **(1)** limits, alters, expands, or diminishes the civil or criminal jurisdiction of the United States, the State, any subdivision of the State, or any Indian tribe in the State;
   - **(2)** creates or eliminates any Federal or State criminal jurisdiction over a Village; or
   - **(3)** affects the authority of the United States or any authority delegated by the United States to the State to investigate and prosecute a criminal violation in a Village.
+
+Findings
+
+Purposes
+
+“In this subtitle [subtitle B (§§ 811–813) of title VIII of div. W of Pub. L. 117–103 , Mar. 15, 2022 , 136 Stat. 904 , which enacted this section and provisions set out as a note above]:
+
+Assault of tribal justice personnel; covered crime; obstruction of justice; protection order; violation of a protection order.—
+
+In general
+
+Application
+
+Indian; Indian court; Indian tribe; powers of self-government
+
+Participating tribe
+
+Pilot program
+
+Special tribal criminal jurisdiction
+
+State
+
+Village
+
+## Source Credit
+
+*([Pub. L. 117–103, div. W, title VIII, § 813](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 906](https://www.govinfo.gov/link/statute/136/906).)*

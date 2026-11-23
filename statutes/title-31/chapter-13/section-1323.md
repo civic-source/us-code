@@ -3,9 +3,10 @@ title: "Section 1323 - Trust funds for certain fees, donations, quasi-public amo
 usc_title: 31
 usc_section: "1323"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 1323"
-generated_at: "2026-03-30T02:55:34.051Z"
+generated_at: "2026-11-23T21:26:10.551Z"
+status: "active"
 ---
 
 # § 1323. Trust funds for certain fees, donations, quasi-public amounts, and unearned amounts
@@ -19,3 +20,27 @@ generated_at: "2026-03-30T02:55:34.051Z"
 - **(c)** Donations, quasi-public amounts, and unearned amounts shall be deposited in the Treasury as trust funds and are appropriated for disbursement under the terms of the trusts when the donation or amount is—
   - **(1)** administered by officers and employees of the United States Government; and
   - **(2)** carried in checking accounts of disbursing officials or others required to account to the Comptroller General (except clerks and marshals of the United States district courts).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1323(a), (b) | 31:725r(less proviso). | June 26, 1934, ch. 756, § 19 , 48 Stat. 1232 ; Dec. 21, 1944, ch. 631, § 2 , 58 Stat. 845 . |
+| 1323(c) | 31:725r(proviso). |  |
+
+
+Historical and Revision Notes
+
+1323(a), (b)
+
+June 26, 1934, ch. 756, § 19
+
+48 Stat. 1232
+
+Dec. 21, 1944, ch. 631, § 2
+
+58 Stat. 845
+
+1323(c)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 922](https://www.govinfo.gov/link/statute/96/922).)*

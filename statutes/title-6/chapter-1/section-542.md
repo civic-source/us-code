@@ -3,9 +3,10 @@ title: "Section 542 - Reorganization plan"
 usc_title: 6
 usc_section: "542"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 542"
-generated_at: "2026-03-30T02:53:09.468Z"
+generated_at: "2026-11-23T21:25:25.803Z"
+status: "active"
 ---
 
 # § 542. Reorganization plan
@@ -27,3 +28,29 @@ generated_at: "2026-03-30T02:53:09.468Z"
     - **(B)** the end of the transition period.
   - **(2)** Nothing in this subsection may be construed to require the transfer of functions, personnel, records, balances of appropriations, or other assets of an agency on a single date.
   - **(3)** Paragraph (1) shall apply notwithstanding section 905(b) of title 5 .
+
+Introduction
+
+Plan Elements
+
+The White House
+
+George W. Bush.
+
+Introduction
+
+Purpose of Modification
+
+Plan Modifications
+
+Implementation Date
+
+Elements Required by the Act To Be Submitted With Modified Plan
+
+The White House
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XV, § 1502](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2308](https://www.govinfo.gov/link/statute/116/2308).)*

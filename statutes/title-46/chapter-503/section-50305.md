@@ -3,9 +3,10 @@ title: "Section 50305 - Appointment of trustee or receiver and operation of vess
 usc_title: 46
 usc_section: "50305"
 chapter: 503
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 50305"
-generated_at: "2026-03-30T02:56:15.568Z"
+generated_at: "2026-11-23T21:26:37.217Z"
+status: "active"
 ---
 
 # § 50305. Appointment of trustee or receiver and operation of vessels
@@ -21,3 +22,44 @@ generated_at: "2026-03-30T02:56:15.568Z"
   - **(1)** If the court is unwilling to allow the trustee or receiver to operate the vessel in foreign commerce without financial aid from the Government pending termination of the proceeding, and the Secretary certifies to the court that the continued operation of the vessel is essential to the foreign commerce of the United States and is reasonably calculated to carry out the purposes of this subtitle, the court may allow the Secretary to operate the vessel, either directly or through a managing agent or operator employed by the Secretary. The Secretary must agree to comply with terms imposed by the court sufficient to protect the parties in interest. The Secretary also must agree to pay all operating losses resulting from the operation. The operation shall be for the account of the trustee or receiver.
   - **(2)** The Secretary has no claim against the corporation, its estate, or its assets for operating losses paid by the Secretary, but the Secretary may pay amounts for depreciation the Secretary considers reasonable and other amounts the court considers just. The payment of operating losses and the other amounts and compliance with terms imposed by the court shall be in satisfaction of any claim against the Secretary resulting from the operation of the vessel.
   - **(3)** A vessel operated by the Secretary under this subsection is deemed to be a vessel operated by the United States under chapter 309 of this title.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 50305 | 46 App.:1247. | June 29, 1936, ch. 858 , title IX, § 908, as added Pub. L. 95–598, title III, § 334 , Nov. 6, 1978 , 92 Stat. 2680 ; Pub. L. 97–31, § 12(134) , Aug. 6, 1981 , 95 Stat. 165 . |
+
+
+Appointment of Trustees and Receivers
+
+Appointment of secretary
+
+Appointment of other person
+
+Operation of Vessels
+
+In general
+
+Payment of operating losses and other amounts
+
+Deemed operation by government
+
+Historical and Revision Notes
+
+50305
+
+June 29, 1936, ch. 858
+
+Pub. L. 95–598, title III, § 334
+
+Nov. 6, 1978
+
+92 Stat. 2680
+
+Pub. L. 97–31, § 12(134)
+
+Aug. 6, 1981
+
+95 Stat. 165
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(b)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1565](https://www.govinfo.gov/link/statute/120/1565).)*

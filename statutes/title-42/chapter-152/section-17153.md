@@ -3,9 +3,10 @@ title: "Section 17153 - Allocation of funds"
 usc_title: 42
 usc_section: "17153"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17153"
-generated_at: "2026-03-30T02:56:11.498Z"
+generated_at: "2026-11-23T21:26:33.770Z"
+status: "active"
 ---
 
 # § 17153. Allocation of funds
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.498Z"
 - **(d)** Of amounts available for distribution to Indian tribes under subsection (a)(3), the Secretary shall establish a formula for allocation of the amounts to Indian tribes, taking into account any factors that the Secretary determines to be appropriate.
 - **(e)** Not later than 90 days before the beginning of each fiscal year for which grants are provided under this part, the Secretary shall publish in the Federal Register the formulas for allocation established under this section.
 - **(f)** The Secretary shall establish a State and local advisory committee to advise the Secretary regarding administration, implementation, and evaluation of the program.
+
+## Source Credit
+
+*([Pub. L. 110–140, title V, § 543](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1668](https://www.govinfo.gov/link/statute/121/1668); [Pub. L. 111–5, div. A, title IV, § 404(a)](https://www.govinfo.gov/link/plaw/111/public/5), (b), Feb. 17, 2009, [123 Stat. 143](https://www.govinfo.gov/link/statute/123/143).)*

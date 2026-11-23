@@ -3,9 +3,10 @@ title: "Section 3771A - Motion to vacate; expungement; mitigating factors"
 usc_title: 18
 usc_section: "3771A"
 chapter: 237
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3771A"
-generated_at: "2026-03-30T02:54:16.526Z"
+generated_at: "2026-11-23T21:25:44.230Z"
+status: "active"
 ---
 
 # § 3771A. Motion to vacate; expungement; mitigating factors
@@ -105,3 +106,99 @@ generated_at: "2026-03-30T02:54:16.526Z"
   - **(1)** A motion under this section and any documents, pleadings, or orders relating to the motion shall be filed under seal.
   - **(2)** An officer or employee may not make available for public inspection any report, paper, picture, photograph, court file, or other document, in the custody or possession of the officer or employee, that identifies the movant.
 - **(i)** This section shall apply to any conviction or arrest occurring before, on, or after the date of enactment of this section.
+
+Definitions
+
+Motions To Vacate Convictions or Expunge Arrests.—
+
+In general.—
+
+Convictions of level a offenses
+
+Arrests for level a offenses
+
+Arrests for level b offenses
+
+(aa) the charges against the movant for the level B offense were reduced to an offense that is a level A offense; and
+
+(bb) the movant was acquitted of the level A offense, the Government did not pursue, or the Government moved to dismiss, criminal charges against the movant for the level A offense, or any subsequent conviction of the level A offense was vacated.
+
+Contents of motion
+
+Hearing.—
+
+Mandatory hearing.—
+
+Motion in opposition
+
+Mandatory hearing
+
+Discretionary hearing
+
+Factors.—
+
+Vacating convictions of level a offenses
+
+Expunging arrests for level a offenses
+
+Expunging arrests for level b offenses
+
+(aa) the charges against the movant for the level B offense were reduced to a level A offense; and
+
+(bb) the movant was acquitted of the level A offense, the Government did not pursue, or the Government moved to dismiss, criminal charges against the movant for the level A offense, or any subsequent conviction of that level A offense was vacated.
+
+Supporting evidence.—
+
+In general
+
+Affidavit or sworn testimony sufficient evidence
+
+Conviction or arrest of other persons not required
+
+Denial of motion.—
+
+Finality
+
+Reasons for denial
+
+Reasonable time to cure deficiencies in motion
+
+Appeal
+
+Vacatur of Convictions.—
+
+In general
+
+Limitation
+
+Effect
+
+Expungement of Arrests.—
+
+In general
+
+Effect
+
+Mitigating Factors.—
+
+In general
+
+Requirement
+
+Particularized inquiry
+
+Additional Actions by Court
+
+No Fees
+
+Confidentiality of Movant.—
+
+In general
+
+Information not available for public inspection
+
+Applicability
+
+## Source Credit
+
+*(Added [Pub. L. 119–73, § 2(a)](https://www.govinfo.gov/link/plaw/119/public/73), Jan. 23, 2026, [139 Stat. 2003](https://www.govinfo.gov/link/statute/139/2003).)*

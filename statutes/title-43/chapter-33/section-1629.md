@@ -3,9 +3,10 @@ title: "Section 1629 - Cape Krusenstern National Monument land exchange between 
 usc_title: 43
 usc_section: "1629"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1629"
-generated_at: "2026-03-30T02:55:57.482Z"
+generated_at: "2026-11-23T21:26:19.861Z"
+status: "active"
 ---
 
 # § 1629. Cape Krusenstern National Monument land exchange between United States and NANA Regional Corporation, Inc.
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:57.482Z"
   - **(2)** The Secretary of the Interior, acting through the National Park Service, shall monitor the construction, operation, maintenance, expansion and reclamation of the transportation system, as provided in the Agreement. Any complaint by any person or entity that any aspect of the construction, operation, maintenance, expansion or reclamation of the portion of the transportation system on the lands subject to the easement granted to NANA by this section is not in accordance with the terms and conditions specified in the Agreement shall be made to the Secretary in writing. The Secretary shall review any such complaint and shall provide to NANA or its successors or assigns and to the complainant a decision in writing on the complaint within 90 days of receipt thereof. If the Secretary determines that the activity made the subject of a complaint is not in accordance with the terms specified in the Agreement, and NANA or its successors or assigns disagrees with that determination, the dispute shall be resolved according to the procedures established in Exhibit B to the Agreement.
 - **(i)** The Secretary shall make available to NANA and its successors and assigns the right to use sand, gravel and related construction materials located in Sections 23, 24, 25, 26, 35 and 36 of Township 26 North, Range 24 West, Kateel River Meridian, Alaska, if the Secretary determines either (1) that use of such sand, gravel or related construction material is necessary because there is no other sand, gravel or related construction material reasonably available for the construction, operation, maintenance, expansion or reclamation of the transportation system; or (2) that use of such sand, gravel or related construction material is necessary in order to construct, operate, maintain, expand, or reclaim the transportation system in an environmentally sound manner, consistent with the requirements of Exhibit B of the Agreement. The right to use such sand, gravel and related construction material shall be subject to the terms and conditions of paragraph A of Exhibit B of the Agreement and such other reasonable terms and conditions as the Secretary may prescribe.
 - **(j)** Notwithstanding paragraph D(23) of the Agreement, the Secretary shall not agree to any amendment to the Agreement without first consulting with the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate and shall transmit copies of the text of any amendment to the Agreement to those Committees at the time of his agreeing to any such amendment.
+
+## Source Credit
+
+*([Pub. L. 92–203, § 34](https://www.govinfo.gov/link/plaw/92/public/203), as added [Pub. L. 99–96, § 1](https://www.govinfo.gov/link/plaw/99/public/96), Sept. 25, 1985, [99 Stat. 460](https://www.govinfo.gov/link/statute/99/460); amended [Pub. L. 103–437, § 16(a)(5)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4594](https://www.govinfo.gov/link/statute/108/4594).)*

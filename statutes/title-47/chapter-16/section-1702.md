@@ -3,9 +3,10 @@ title: "Section 1702 - Grants for broadband deployment"
 usc_title: 47
 usc_section: "1702"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1702"
-generated_at: "2026-03-30T02:56:24.537Z"
+generated_at: "2026-11-23T21:26:36.114Z"
+status: "active"
 ---
 
 # § 1702. Grants for broadband deployment
@@ -376,3 +377,113 @@ generated_at: "2026-03-30T02:56:24.537Z"
   - **(1)** section 3506 of title 44 (commonly referred to as the “Paperwork Reduction Act”);
   - **(2)** chapter 5 or 7 of title 5 (commonly referred to as the “Administrative Procedures Act”); and
   - **(3)** chapter 6 of title 5 (commonly referred to as the “Regulatory Flexibility Act”).
+
+(aa) 25 megabits per second for downloads; and
+
+(bb) 3 megabits per second for uploads; and
+
+(aa) 100 megabits per second for downloads; and
+
+(bb) 20 megabits per second for uploads; and
+
+(aa) the establishment of the Program; and
+
+(bb) the amount of the minimum initial allocation to each eligible entity under subsection (c)(2);
+
+(aa) participate in the Program; and
+
+(bb) receive funding for planning and pre-deployment activities under subparagraph (C);
+
+(aa) applications for grants under the Program, which shall consist of letters of intent, initial proposals, and final proposals; and
+
+(bb) allowed uses of grant amounts awarded under this section, as provided in subsection (f); and
+
+(aa) the existing broadband program or office of the eligible entity, including— (AA) activities that the program or office currently conducts; (BB) the number of rounds of broadband deployment grants that the eligible entity has awarded, if applicable; (CC) whether the eligible entity has an eligible entity-wide plan and goal for availability of broadband, and any relevant deadlines, as applicable; and (DD) the amount of funding that the eligible entity has available for broadband deployment or other broadband-related activities, including data collection and local planning, and the sources of that funding, including whether the funds are from the eligible entity or from the Federal Government under the American Rescue Plan Act of 2021 ( Public Law 117–2 );
+
+(bb) the number of full-time employees and part-time employees of the eligible entity who will assist in administering amounts received under the Program and the duties assigned to those employees;
+
+(cc) relevant contracted support; and
+
+(dd) the goals of the eligible entity for the use of amounts received under the Program, the process that the eligible entity will use to distribute those amounts to subgrantees, the timeline for awarding subgrants, and oversight and reporting requirements that the eligible entity will impose on subgrantees;
+
+(aa) enhancing the capacity of the broadband program or office of the eligible entity by receiving technical assistance from Federal entities or other partners, hiring additional employees, or obtaining support from contracted entities; or
+
+(bb) acquiring additional programmatic information or data, such as through surveys or asset inventories;
+
+(aa) investment priorities and associated costs;
+
+(bb) alignment of planned spending with economic development, telehealth, and related connectivity efforts.
+
+(aa) information developed by the eligible entity as part of the action plan submitted under paragraph (1)(D), if applicable; and
+
+(bb) information from any comparable strategic plan otherwise developed by the eligible entity, if applicable;
+
+(aa) identifies, and outlines steps to support, local and regional broadband planning processes or ongoing efforts to deploy broadband or close the digital divide; and
+
+(bb) describes coordination with local governments, along with local and regional broadband planning processes;
+
+(aa) each unserved location or underserved location under the jurisdiction of the eligible entity; and
+
+(bb) each community anchor institution under the jurisdiction of the eligible entity that is an eligible community anchor institution; and
+
+(aa) submit plans for consideration by the eligible entity; and
+
+(bb) comment on the initial proposal of the eligible entity before the initial proposal is submitted to the Assistant Secretary.
+
+(aa) complies with subsection (f);
+
+(bb) is in the public interest; and
+
+(cc) effectuates the purposes of this Act;
+
+(aa) 20 percent of the grant funds that were allocated to the eligible entity under subsection (c); or
+
+(bb) a higher percentage of the grant funds that were allocated to the eligible entity under subsection (c), at the discretion of the Assistant Secretary; and
+
+(aa) complies with subsection (f);
+
+(bb) is in the public interest; and
+
+(cc) effectuates the purposes of this Act;
+
+(aa) 20 percent of the grant funds that were allocated to the eligible entity under subsection (c); or
+
+(bb) a higher percentage of the grant funds that were allocated to the eligible entity under subsection (c), at the discretion of the Assistant Secretary; and
+
+(aa) allocate grant funds for the deployment of broadband networks to unserved locations and underserved locations, in accordance with subsection (h)(1)(A)(i); and
+
+(bb) align the grant funds allocated to the eligible entity under subsection (c), where practicable, with the use of other funds that the eligible entity receives from the Federal Government, a State, or a private entity for related purposes;
+
+(aa) submit plans for consideration by the eligible entity; and
+
+(bb) comment on the final proposal of the eligible entity before the final proposal is submitted to the Assistant Secretary.
+
+(aa) complies with subsection (f);
+
+(bb) is in the public interest; and
+
+(cc) effectuates the purposes of this Act;
+
+(aa) complies with subsection (f);
+
+(bb) is in the public interest; and
+
+(cc) effectuates the purposes of this Act;
+
+(aa) the Families First Coronavirus Response Act ( Public Law 116–127 ; 134 Stat. 178 );
+
+(bb) the CARES Act ( Public Law 116–136 ; 134 Stat. 281 );
+
+(cc) the Consolidated Appropriations Act, 2021 ( Public Law 116–260 ; 134 Stat. 1182 );
+
+(dd) the American Rescue Plan Act of 2021 ( Public Law 117–2 ; 135 Stat. 4 ); or
+
+(ee) any amendment made by an Act described in any of items (aa) through (dd); and
+
+(aa) notify the eligible entity and provide the eligible entity with an opportunity to resubmit the final proposal, as provided in subsection (e)(4), with an improved definition of “low-cost broadband service option”; and
+
+(bb) provide the eligible entity with instructions on how to cure the defects in the proposed definition.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. F, title I, § 60102](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1182](https://www.govinfo.gov/link/statute/135/1182).)*

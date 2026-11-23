@@ -3,9 +3,10 @@ title: "Section 6843 - Biennial reports"
 usc_title: 20
 usc_section: "6843"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6843"
-generated_at: "2026-03-30T02:54:48.204Z"
+generated_at: "2026-11-23T21:25:47.539Z"
+status: "active"
 ---
 
 # § 6843. Biennial reports
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:48.204Z"
   - **(7)** containing the number of programs or activities, if any, that were terminated because the entities carrying out the programs or activities were not able to reach program goals;
   - **(8)** containing the number of English learners served by eligible entities receiving funding under this part who were transitioned out of language instruction educational programs funded under this part; and
   - **(9)** containing other information gathered from the evaluations from specially qualified agencies and other reports submitted to the Secretary under this part when applicable.
+
+## Source Credit
+
+*([Pub. L. 89–10, title III, § 3122](https://www.govinfo.gov/link/plaw/89/public/10), formerly § 3123, as added [Pub. L. 107–110, title III, § 301](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1704](https://www.govinfo.gov/link/statute/115/1704); renumbered § 3122 and amended [Pub. L. 114–95, title III](https://www.govinfo.gov/link/plaw/114/public/95), §§ 3001(2)(B), 3003(i), Dec. 10, 2015, [129 Stat. 1953](https://www.govinfo.gov/link/statute/129/1953), 1963.)*

@@ -3,9 +3,10 @@ title: "Section 5402 - Contracts for transportation of mail by air"
 usc_title: 39
 usc_section: "5402"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 5402"
-generated_at: "2026-03-30T02:55:43.696Z"
+generated_at: "2026-11-23T21:26:12.800Z"
+status: "active"
 ---
 
 # § 5402. Contracts for transportation of mail by air
@@ -246,3 +247,27 @@ generated_at: "2026-03-30T02:55:43.696Z"
 - **(q)** The Secretary shall make a regular review of carriers receiving, or attempting to qualify to receive, equitable tender of nonpriority bypass mail on a city pair route in the State of Alaska. If the Secretary suspends or revokes an operating certificate, the Secretary shall notify the Postal Service. Upon such notification, the Postal Service shall cease tender of mail to such carrier until the Secretary certifies the carrier is operating in a safe manner. Upon such receipt, the carrier shall demonstrate that it otherwise meets the minimum carriage requirements of this section before being tendered mail under this section.
 - **(r)** The Postal Service shall have the authority to tender nonpriority bypass mail to any carrier that meets the requirements of subsection (g)(1) on any city pair route in the State of Alaska on an emergency basis. Such emergency tender shall cease when a carrier qualifies for tender on such route under the terms of this section.
 - **(s)** Notwithstanding any other provision of law, and except for written contracts authorized under subsections (b), (c) and (d), tender by the Postal Service of any category of mail to a carrier for transportation between any two points in the State of Alaska shall not give rise to any contract between the Postal Service and a carrier, nor shall any such carrier acquire any right in continued or future tender of such mail by virtue of past or present receipt of such mail. This subsection shall apply to any case commenced before, on, or after the date of enactment of this subsection.
+
+International Mail.—
+
+In general.—
+
+Contract process
+
+Emergency or unanticipated conditions; inadequate lift space
+
+Good Faith Effort Required
+
+In general
+
+Equitable tender
+
+In general
+
+Selection of carriers
+
+“Congress makes the following findings:
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 772](https://www.govinfo.gov/link/statute/84/772); [Pub. L. 98–443, § 9(g)(4)](https://www.govinfo.gov/link/plaw/98/public/443), Oct. 4, 1984, [98 Stat. 1707](https://www.govinfo.gov/link/statute/98/1707); [Pub. L. 100–238, title I, § 137](https://www.govinfo.gov/link/plaw/100/public/238), Jan. 8, 1988, [101 Stat. 1767](https://www.govinfo.gov/link/statute/101/1767); [Pub. L. 103–272, § 4(g)(2)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1364](https://www.govinfo.gov/link/statute/108/1364); [Pub. L. 103–429, § 5](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4378](https://www.govinfo.gov/link/statute/108/4378); [Pub. L. 104–52, title VI, § 631(a)](https://www.govinfo.gov/link/plaw/104/public/52), Nov. 19, 1995, [109 Stat. 505](https://www.govinfo.gov/link/statute/109/505); [Pub. L. 107–67, title VI, § 651](https://www.govinfo.gov/link/plaw/107/public/67), Nov. 12, 2001, [115 Stat. 557](https://www.govinfo.gov/link/statute/115/557); [Pub. L. 107–171, title X, § 10501](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 509](https://www.govinfo.gov/link/statute/116/509); [Pub. L. 107–206, title III, § 3002(c)](https://www.govinfo.gov/link/plaw/107/public/206), (e)(1), Aug. 2, 2002, [116 Stat. 911](https://www.govinfo.gov/link/statute/116/911), 924; [Pub. L. 108–447, div. J, title III, § 301(c)](https://www.govinfo.gov/link/plaw/108/public/447) –(f), Dec. 8, 2004, [118 Stat. 3350](https://www.govinfo.gov/link/statute/118/3350), 3351; [Pub. L. 109–435, title X](https://www.govinfo.gov/link/plaw/109/public/435), §§ 1002(b)(2), 1005(a)–(g), Dec. 20, 2006, [120 Stat. 3255–3258](https://www.govinfo.gov/link/statute/120/3255); [Pub. L. 110–405, § 2(a)](https://www.govinfo.gov/link/plaw/110/public/405), (b)(11), Oct. 13, 2008, [122 Stat. 4287](https://www.govinfo.gov/link/statute/122/4287), 4290.)*

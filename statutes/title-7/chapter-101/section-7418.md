@@ -3,9 +3,10 @@ title: "Section 7418 - Petition and review of orders"
 usc_title: 7
 usc_section: "7418"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7418"
-generated_at: "2026-03-30T02:53:42.451Z"
+generated_at: "2026-11-23T21:25:28.426Z"
+status: "active"
 ---
 
 # § 7418. Petition and review of orders
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:42.451Z"
     - **(A)** to make such ruling as the court determines to be in accordance with law; or
     - **(B)** to take such further action as, in the opinion of the court, the law requires.
 - **(c)** The pendency of a petition filed under subsection (a) or an action commenced under subsection (b) shall not operate as a stay of any action authorized by section 7419 of this title to be taken to enforce this subchapter, including any rule, order, or penalty in effect under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 519](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1044](https://www.govinfo.gov/link/statute/110/1044).)*

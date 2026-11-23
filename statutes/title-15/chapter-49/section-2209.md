@@ -3,9 +3,10 @@ title: "Section 2209 - Master plans"
 usc_title: 15
 usc_section: "2209"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2209"
-generated_at: "2026-03-30T02:54:08.168Z"
+generated_at: "2026-11-23T21:25:39.918Z"
+status: "active"
 ---
 
 # § 2209. Master plans
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:08.168Z"
     - **(C)** are consistent with the Federal Response Plan.
   - **(2)** The Administrator shall develop and make available to State and local fire service officials model mutual aid plans for both intrastate and interstate assistance.
 - **(c)** For the purposes of this section, a “master plan” is one which will result in the planning and implementation in the area involved of a general program of action for fire prevention and control. Such master plan is reasonably expected to include (1) a survey of the resources and personnel of existing fire services and an analysis of the effectiveness of the fire and building codes in such area; (2) an analysis of short and long term fire prevention and control needs in such area; (3) a plan to meet the fire prevention and control needs in such area; and (4) an estimate of cost and realistic plans for financing the implementation of the plan and operation on a continuing basis and a summary of problems that are anticipated in implementing such master plan.
+
+## Source Credit
+
+*([Pub. L. 93–498, § 10](https://www.govinfo.gov/link/plaw/93/public/498), Oct. 29, 1974, [88 Stat. 1542](https://www.govinfo.gov/link/statute/88/1542); [Pub. L. 106–503, title I, § 110(a)(1)(A)](https://www.govinfo.gov/link/plaw/106/public/503), Nov. 13, 2000, [114 Stat. 2302](https://www.govinfo.gov/link/statute/114/2302); [Pub. L. 108–169, title II, § 203(a)](https://www.govinfo.gov/link/plaw/108/public/169), Dec. 6, 2003, [117 Stat. 2038](https://www.govinfo.gov/link/statute/117/2038).)*

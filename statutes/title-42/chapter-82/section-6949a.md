@@ -3,9 +3,10 @@ title: "Section 6949a - Adequacy of certain guidelines and criteria"
 usc_title: 42
 usc_section: "6949a"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6949a"
-generated_at: "2026-03-30T02:56:11.276Z"
+generated_at: "2026-11-23T21:26:33.016Z"
+status: "active"
 ---
 
 # § 6949a. Adequacy of certain guidelines and criteria
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:11.276Z"
     - **(C)** Not later than 6 months after March 26, 1996 , the Administrator shall issue a guidance document to facilitate small community use of the no migration 1 1 So in original. Probably should be “no-migration”. exemption under this paragraph.
   - **(5)** Upon certification by the Governor of the State of Alaska that application of the requirements described in paragraph (1) to a solid waste landfill unit of a Native village (as defined in section 1602 of title 43 ) or unit that is located in or near a small, remote Alaska village would be infeasible, or would not be cost-effective, or is otherwise inappropriate because of the remote location of the unit, the State may exempt the unit from some or all of those requirements. This paragraph shall apply only to solid waste landfill units that dispose of less than 20 tons of municipal solid waste daily, based on an annual average.
   - **(6)** Recognizing the unique circumstances of small communities, the Administrator shall, not later than two years after March 26, 1996 , promulgate revisions to the guidelines and criteria promulgated under this subchapter to provide additional flexibility to approved States to allow landfills that receive 20 tons or less of municipal solid waste per day, based on an annual average, to use alternative frequencies of daily cover application, frequencies of methane gas monitoring, infiltration layers for final cover, and means for demonstrating financial assurance: Provided , That such alternative requirements take into account climatic and hydrogeologic conditions and are protective of human health and environment.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 4010](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 98–616, title III, § 302(a)(1)](https://www.govinfo.gov/link/plaw/98/public/616), Nov. 8, 1984, [98 Stat. 3267](https://www.govinfo.gov/link/statute/98/3267); amended [Pub. L. 104–119, § 3(a)](https://www.govinfo.gov/link/plaw/104/public/119), Mar. 26, 1996, [110 Stat. 831](https://www.govinfo.gov/link/statute/110/831).)*

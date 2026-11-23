@@ -3,9 +3,10 @@ title: "Section 286c - Congressional authorization needed for certain actions"
 usc_title: 22
 usc_section: "286c"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 286c"
-generated_at: "2026-03-30T02:55:05.318Z"
+generated_at: "2026-11-23T21:25:58.360Z"
+status: "active"
 ---
 
 # § 286c. Congressional authorization needed for certain actions
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.318Z"
 - **(f)** make any loan to the Fund or the Bank; or
 - **(g)** approve any disposition of Fund gold, unless the Secretary certifies to the Congress that such disposition is necessary for the Fund to restitute gold to its members, or for the Fund to provide liquidity that will enable the Fund to meet member country claims on the Fund or to meet threats to the systemic stability of the international financial system. Unless Congress by law authorizes such action, no governor or alternate appointed to represent the United States shall vote for an increase of capital stock of the Bank under article II, section 2, of the Articles of Agreement of the Bank, if such increase involves an increased subscription on the part of the United States. Neither the President nor any person or agency shall, on behalf of the United States, consent to any borrowing (other than borrowing from a foreign government or other official public source) by the Fund of funds denominated in United States dollars, unless the Secretary of the Treasury transmits a notice of such proposed borrowing to both Houses of the Congress at least 60 days prior to the date on which such borrowing is scheduled to occur.
 
+
+## Source Credit
+
+*(July 31, 1945, ch. 339, § 5, [59 Stat. 514](https://www.govinfo.gov/link/statute/59/514); [Pub. L. 89–126, § 1(2)](https://www.govinfo.gov/link/plaw/89/public/126), Aug. 14, 1965, [79 Stat. 519](https://www.govinfo.gov/link/statute/79/519); [Pub. L. 94–564, § 3](https://www.govinfo.gov/link/plaw/94/public/564), Oct. 19, 1976, [90 Stat. 2660](https://www.govinfo.gov/link/statute/90/2660); [Pub. L. 95–147, § 4(a)(1)](https://www.govinfo.gov/link/plaw/95/public/147), Oct. 28, 1977, [91 Stat. 1228](https://www.govinfo.gov/link/statute/91/1228); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title VIII, § 811], Nov. 30, 1983, [97 Stat. 1274](https://www.govinfo.gov/link/statute/97/1274); [Pub. L. 106–113, div. B, § 1000(a)(5) [title V, § 504(d)(1)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–317.)*

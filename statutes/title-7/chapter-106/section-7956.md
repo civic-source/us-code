@@ -3,9 +3,10 @@ title: "Section 7956 - Planting flexibility"
 usc_title: 7
 usc_section: "7956"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7956"
-generated_at: "2026-03-30T02:53:42.468Z"
+generated_at: "2026-11-23T21:25:28.458Z"
+status: "active"
 ---
 
 # § 7956. Planting flexibility
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:42.468Z"
   - **(3)** by the producers on a farm that the Secretary determines has an established planting history of a specific agricultural commodity specified in subsection (b)(3), except that—
     - **(A)** the quantity planted may not exceed the average annual planting history of such agricultural commodity by the producers on the farm in the 1991 through 1995 or 1998 through 2001 crop years (excluding any crop year in which no plantings were made), as determined by the Secretary; and
     - **(B)** direct payments and counter-cyclical payments shall be reduced by an acre for each acre planted to such agricultural commodity.
+
+## Source Credit
+
+*([Pub. L. 107–171, title I, § 1306](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 174](https://www.govinfo.gov/link/statute/116/174).)*

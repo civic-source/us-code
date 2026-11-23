@@ -3,9 +3,10 @@ title: "Section 6294 - Labeling"
 usc_title: 42
 usc_section: "6294"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6294"
-generated_at: "2026-03-30T02:56:11.247Z"
+generated_at: "2026-11-23T21:26:32.870Z"
+status: "active"
 ---
 
 # § 6294. Labeling
@@ -103,3 +104,49 @@ generated_at: "2026-03-30T02:56:11.247Z"
 - **(e)** The Secretary, in consultation with the Commission, shall study consumer products for which labeling rules under this section have not been proposed, in order to determine (1) the aggregate energy consumption of such products, and (2) whether the imposition of labeling requirements under this section would be feasible and useful to consumers in making purchasing decisions. The Secretary shall include the results of such study in the annual report under section 6308 of this title .
 - **(f)** The Secretary and the Commission shall consult with each other on a continuing basis as may be necessary or appropriate to carry out their respective responsibilities under this part. Before the Commission makes any determination under subsection (a)(1), it shall obtain the views of the Secretary and shall take such views into account in making such determination.
 - **(g)** Until such time as labeling rules under this section take effect with respect to a type or class of covered product, this section shall not affect any authority of the Commission under the Federal Trade Commission Act [ 15 U.S.C. 41 et seq.] to require labeling with respect to energy consumption of such type or class of covered product.
+
+Metal halide lamp fixtures.—
+
+In general
+
+Labeling
+
+Rulemaking to consider effectiveness of lamp labeling.—
+
+In general
+
+(aa) the effectiveness of current lamp labeling for power levels or watts, light output or lumens, and lamp lifetime; and
+
+(bb) alternative labeling approaches that will help consumers to understand new high-efficiency lamp products and to base the purchase decisions of the consumers on the most appropriate source that meets the requirements of the consumers for lighting level, light quality, lamp lifetime, and total lifecycle cost.
+
+Completion
+
+(aa) complete the rulemaking not later than the date that is 30 months after December 19, 2007 ; and
+
+(bb) consider reopening the rulemaking not later than 180 days before the effective dates of the standards for general service incandescent lamps established under section 6295(i)(1)(A) of this title , if the Commission determines that further labeling changes are needed to help consumers understand lamp alternatives.
+
+Labeling requirements.—
+
+In general
+
+Alternate testing procedures
+
+Deadline and requirements for labeling.—
+
+Deadline
+
+Requirements
+
+Determination of feasibility
+
+Authority to include additional product categories
+
+Discretionary application
+
+In general
+
+Authorization of appropriations
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 324](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 920](https://www.govinfo.gov/link/statute/89/920); [Pub. L. 95–619, title IV, § 425(b)](https://www.govinfo.gov/link/plaw/95/public/619), (c), title VI, § 691(b)(2), Nov. 9, 1978, [92 Stat. 3265](https://www.govinfo.gov/link/statute/92/3265), 3288; [Pub. L. 100–12, § 11(a)(1)](https://www.govinfo.gov/link/plaw/100/public/12), (b)(2), Mar. 17, 1987, [101 Stat. 124](https://www.govinfo.gov/link/statute/101/124), 125; [Pub. L. 100–357, § 2(d)](https://www.govinfo.gov/link/plaw/100/public/357), June 28, 1988, [102 Stat. 672](https://www.govinfo.gov/link/statute/102/672); [Pub. L. 102–486, title I, § 123(e)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2822](https://www.govinfo.gov/link/statute/106/2822); [Pub. L. 105–388, § 5(a)(4)](https://www.govinfo.gov/link/plaw/105/public/388), Nov. 13, 1998, [112 Stat. 3478](https://www.govinfo.gov/link/statute/112/3478); [Pub. L. 109–58, title I, § 137](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 645](https://www.govinfo.gov/link/statute/119/645); [Pub. L. 110–140, title III](https://www.govinfo.gov/link/plaw/110/public/140), §§ 321(b), 324(d), 325, Dec. 19, 2007, [121 Stat. 1584](https://www.govinfo.gov/link/statute/121/1584), 1593, 1595; [Pub. L. 112–210, § 10(a)(12)](https://www.govinfo.gov/link/plaw/112/public/210), Dec. 18, 2012, [126 Stat. 1525](https://www.govinfo.gov/link/statute/126/1525); [Pub. L. 115–115, § 2(c)(2)](https://www.govinfo.gov/link/plaw/115/public/115), Jan. 12, 2018, [131 Stat. 2281](https://www.govinfo.gov/link/statute/131/2281).)*

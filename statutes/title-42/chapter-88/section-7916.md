@@ -3,9 +3,10 @@ title: "Section 7916 - Acquisition of land by Secretary; transfer of public land
 usc_title: 42
 usc_section: "7916"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7916"
-generated_at: "2026-03-30T02:56:11.331Z"
+generated_at: "2026-11-23T21:26:33.174Z"
+status: "active"
 ---
 
 # § 7916. Acquisition of land by Secretary; transfer of public lands by Secretary of the Interior to Secretary; consultations with Governor; consent of Governor; transfer from Federal agency to Secretary
@@ -21,3 +22,7 @@ Where necessary or appropriate in order to consolidate in a safe and environment
     - **(E)** Grand and San Juan Counties in the State of Utah;
     - **(F)** Converse and Fremont Counties in the State of Wyoming; and
     - **(G)** Any other county in the vicinity of a processing site, if no site in the county in which a processing site is located is suitable.
+
+## Source Credit
+
+*([Pub. L. 95–604, title I, § 106](https://www.govinfo.gov/link/plaw/95/public/604), Nov. 8, 1978, [92 Stat. 3029](https://www.govinfo.gov/link/statute/92/3029); [Pub. L. 100–616, § 2](https://www.govinfo.gov/link/plaw/100/public/616), Nov. 5, 1988, [102 Stat. 3192](https://www.govinfo.gov/link/statute/102/3192).)*

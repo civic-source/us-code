@@ -3,9 +3,10 @@ title: "Section 5821 - Annual authorization Acts"
 usc_title: 42
 usc_section: "5821"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5821"
-generated_at: "2026-03-30T02:56:11.238Z"
+generated_at: "2026-11-23T21:26:32.825Z"
+status: "active"
 ---
 
 # § 5821. Annual authorization Acts
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:11.238Z"
   - **(1)** this subsection shall not apply with respect to sums received from disposal of property under the Atomic Energy Community Act of 1955 [ 42 U.S.C. 2301 et seq.] or the Strategic and Critical Materials Stockpiling Act, as amended [ 50 U.S.C. 98 et seq.], or with respect to fees received for tests or investigations under the Act of May 16, 1910 , as amended ( 30 U.S.C. 7 ); and
   - **(2)** revenues received by the Administration from the enrichment of uranium shall (when so specified) be retained and used for the specific purpose of offsetting costs incurred by the Administration in providing uranium enrichment service activities.
 - **(i)** When so specified in an appropriation Act, transfers of sums from the “Operating expenses” appropriation made pursuant to an annual authorization Act may be made to other agencies of the Government for the performance of the work for which the appropriation is made, and in such cases the sums so transferred may be merged with the appropriations to which they are transferred.
+
+## Source Credit
+
+*([Pub. L. 93–438, title I, § 111](https://www.govinfo.gov/link/plaw/93/public/438), as added [Pub. L. 95–238, title II, § 201](https://www.govinfo.gov/link/plaw/95/public/238), Feb. 25, 1978, [92 Stat. 56](https://www.govinfo.gov/link/statute/92/56); amended [Pub. L. 103–437, § 15(c)(7)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4592](https://www.govinfo.gov/link/statute/108/4592).)*

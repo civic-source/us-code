@@ -3,9 +3,10 @@ title: "Section 3423a - Office of Correctional Education"
 usc_title: 20
 usc_section: "3423a"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 3423a"
-generated_at: "2026-03-30T02:54:48.177Z"
+generated_at: "2026-11-23T21:25:47.407Z"
+status: "active"
 ---
 
 # § 3423a. Office of Correctional Education
@@ -32,3 +33,11 @@ generated_at: "2026-03-30T02:54:48.177Z"
     - **(E)** detention center, or
     - **(F)** halfway house, community-based rehabilitation center, or any other similar institution designed for the confinement or rehabilitation of criminal offenders; and
   - **(3)** the term “State educational agency” means the State board of education or other agency or officer primarily responsible for the State supervision of public elementary and secondary schools, or, if there is no such officer or agency, an officer or agency designated by the Governor or by State law.
+
+In General
+
+Special Rule
+
+## Source Credit
+
+*([Pub. L. 96–88, title II, § 212](https://www.govinfo.gov/link/plaw/96/public/88), formerly § 214, as added [Pub. L. 101–392, title VI, § 602(a)(3)](https://www.govinfo.gov/link/plaw/101/public/392), Sept. 25, 1990, [104 Stat. 840](https://www.govinfo.gov/link/statute/104/840); amended [Pub. L. 103–322, title II, § 20408(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1827](https://www.govinfo.gov/link/statute/108/1827); renumbered § 212, [Pub. L. 103–382, title II, § 271(a)(2)](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 3929](https://www.govinfo.gov/link/statute/108/3929).)*

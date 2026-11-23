@@ -3,9 +3,10 @@ title: "Section 12005 - Demonstration and commercial application projects"
 usc_title: 42
 usc_section: "12005"
 chapter: 125
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12005"
-generated_at: "2026-03-30T02:56:11.407Z"
+generated_at: "2026-11-23T21:26:33.448Z"
+status: "active"
 ---
 
 # § 12005. Demonstration and commercial application projects
@@ -66,3 +67,9 @@ generated_at: "2026-03-30T02:56:11.407Z"
     - **(A)** consider each proposal’s ability to meet the criteria developed pursuant to paragraph (1)(C); and
     - **(B)** attempt to achieve technological and geographic diversity.
 - **(d)** There are authorized to be appropriated to the Secretary for carrying out this section $50,000,000 for fiscal year 1994.
+
+Requirements
+
+## Source Credit
+
+*([Pub. L. 101–218, § 6](https://www.govinfo.gov/link/plaw/101/public/218), Dec. 11, 1989, [103 Stat. 1863](https://www.govinfo.gov/link/statute/103/1863); [Pub. L. 102–486, title XII, § 1202(a)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2956](https://www.govinfo.gov/link/statute/106/2956).)*

@@ -3,9 +3,10 @@ title: "Section 4318 - Employee pension benefit plans"
 usc_title: 38
 usc_section: "4318"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 4318"
-generated_at: "2026-03-30T02:55:53.518Z"
+generated_at: "2026-11-23T21:26:16.804Z"
+status: "active"
 ---
 
 # § 4318. Employee pension benefit plans
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:53.518Z"
     - **(A)** at the rate the employee would have received but for the period of service described in subsection (a)(2)(B), or
     - **(B)** in the case that the determination of such rate is not reasonably certain, on the basis of the employee’s average rate of compensation during the 12-month period immediately preceding such period (or, if shorter, the period of employment immediately preceding such period).
 - **(c)** Any employer who reemploys a person under this chapter and who is an employer contributing to a multiemployer plan, as defined in section 3(37) of the Employee Retirement Income Security Act of 1974, under which benefits are or may be payable to such person by reason of the obligations set forth in this chapter, shall, within 30 days after the date of such reemployment, provide information, in writing, of such reemployment to the administrator of such plan.
+
+## Source Credit
+
+*(Added [Pub. L. 103–353, § 2(a)](https://www.govinfo.gov/link/plaw/103/public/353), Oct. 13, 1994, [108 Stat. 3162](https://www.govinfo.gov/link/statute/108/3162); amended [Pub. L. 104–275, title III, § 311(8)](https://www.govinfo.gov/link/plaw/104/public/275), Oct. 9, 1996, [110 Stat. 3335](https://www.govinfo.gov/link/statute/110/3335).)*

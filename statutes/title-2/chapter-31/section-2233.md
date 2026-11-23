@@ -3,9 +3,10 @@ title: "Section 2233 - Use of monies"
 usc_title: 2
 usc_section: "2233"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 2233"
-generated_at: "2026-03-30T02:53:04.827Z"
+generated_at: "2026-11-23T21:25:21.291Z"
+status: "active"
 ---
 
 # § 2233. Use of monies
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:04.827Z"
 - **(b)** All monies in the Miscellaneous Receipts Account shall be available without fiscal year limitation for disbursement by the Architect of the Capitol, upon recommendation of the Chief Executive Officer, for the operations of the Capitol Visitor Center, after consultation with—
   - **(1)** the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives; and
   - **(2)** the Committees on Appropriations of the House of Representatives and Senate.
+
+## Source Credit
+
+*([Pub. L. 110–437, title III, § 303](https://www.govinfo.gov/link/plaw/110/public/437), Oct. 20, 2008, [122 Stat. 4989](https://www.govinfo.gov/link/statute/122/4989).)*

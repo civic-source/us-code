@@ -3,9 +3,10 @@ title: "Section 140502 - Principles and purposes"
 usc_title: 36
 usc_section: "140502"
 chapter: 1405
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 140502"
-generated_at: "2026-03-30T02:55:44.701Z"
+generated_at: "2026-11-23T21:26:13.637Z"
+status: "active"
 ---
 
 # § 140502. Principles and purposes
@@ -22,3 +23,32 @@ generated_at: "2026-03-30T02:55:44.701Z"
   - **(8)** ever cherishing the memory of General George Washington, who founded the Purple Heart at his headquarters at Newburgh-on-the-Hudson on August 7, 1782 ;
   - **(9)** influencing and teaching our citizenry, in a loyal appreciation of the heritages of American citizenship, with its responsibilities and privileges; and
   - **(10)** preserving and defending the United States from all enemies.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 140502 | 36:823. | Aug. 26, 1958 , Pub. L. 85–761, § 3 , 72 Stat. 856 ; June 13, 1991 , Pub. L. 102–54, § 13(n)(3) , 105 Stat. 278 . |
+
+
+Principles
+
+Purposes
+
+Historical and Revision Notes
+
+140502
+
+Aug. 26, 1958
+
+Pub. L. 85–761, § 3
+
+72 Stat. 856
+
+June 13, 1991
+
+Pub. L. 102–54, § 13(n)(3)
+
+105 Stat. 278
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1381](https://www.govinfo.gov/link/statute/112/1381).)*

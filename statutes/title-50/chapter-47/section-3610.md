@@ -3,9 +3,10 @@ title: "Section 3610 - Senior Cryptologic Executive Service"
 usc_title: 50
 usc_section: "3610"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3610"
-generated_at: "2026-03-30T02:56:26.257Z"
+generated_at: "2026-11-23T21:26:39.064Z"
+status: "active"
 ---
 
 # § 3610. Senior Cryptologic Executive Service
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:26.257Z"
   - **(4)** Notwithstanding any other provision of this section, the Director of the National Security Agency may detail or assign any member of the Senior Cryptologic Executive Service to serve in a position outside the National Security Agency in which the member’s expertise and experience may be of benefit to the National Security Agency or another Government agency. Any such member shall not by reason of such detail or assignment lose any entitlement or status associated with membership in the Senior Cryptologic Executive Service.
 - **(b)** The Secretary of Defense (or his designee) may by regulation establish a merit pay system for such employees of the National Security Agency as the Secretary of Defense (or his designee) considers appropriate. The merit pay system shall be designed to carry out purposes consistent with those set forth in section 5401(a) of title 5 .
 - **(c)** Nothing in this section shall be construed to allow the aggregate amount payable to a member of the Senior Cryptologic Executive Service under this section during any fiscal year to exceed the annual rate payable for positions at level I of the Executive Schedule in effect at the end of such year.
+
+## Source Credit
+
+*([Pub. L. 86–36, § 12](https://www.govinfo.gov/link/plaw/86/public/36), as added [Pub. L. 97–89, title VI, § 603](https://www.govinfo.gov/link/plaw/97/public/89), Dec. 4, 1981, [95 Stat. 1156](https://www.govinfo.gov/link/statute/95/1156); amended [Pub. L. 101–194, title V, § 506(c)(2)](https://www.govinfo.gov/link/plaw/101/public/194), Nov. 30, 1989, [103 Stat. 1759](https://www.govinfo.gov/link/statute/103/1759); [Pub. L. 104–106, div. A, title X, § 1064(b)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 445](https://www.govinfo.gov/link/statute/110/445).)*

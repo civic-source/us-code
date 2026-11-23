@@ -3,9 +3,10 @@ title: "Section 2342 - State plan"
 usc_title: 20
 usc_section: "2342"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 2342"
-generated_at: "2026-03-30T02:54:48.174Z"
+generated_at: "2026-11-23T21:25:47.382Z"
+status: "active"
 ---
 
 # § 2342. State plan
@@ -102,3 +103,7 @@ generated_at: "2026-03-30T02:54:48.174Z"
       - **(i)** determines how the State plan fails to meet the requirements of this chapter; and
       - **(ii)** provides to the eligible agency, in writing, notice of such determination and the supporting information and rationale to substantiate such determination; and
     - **(B)** shall not finally disapprove a State plan, except after making the determination and providing the information described in subparagraph (A), and giving the eligible agency notice and an opportunity for a hearing.
+
+## Source Credit
+
+*([Pub. L. 88–210, title I, § 122](https://www.govinfo.gov/link/plaw/88/public/210), as added [Pub. L. 109–270, § 1(b)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 715](https://www.govinfo.gov/link/statute/120/715); amended [Pub. L. 113–128, title V, § 512(e)(3)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1706](https://www.govinfo.gov/link/statute/128/1706); [Pub. L. 114–95, title IX, § 9215(n)(6)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2169](https://www.govinfo.gov/link/statute/129/2169); [Pub. L. 115–224, title I, § 122](https://www.govinfo.gov/link/plaw/115/public/224), July 31, 2018, [132 Stat. 1600](https://www.govinfo.gov/link/statute/132/1600).)*

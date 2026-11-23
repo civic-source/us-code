@@ -3,9 +3,10 @@ title: "Section 6004 - Standards"
 usc_title: 15
 usc_section: "6004"
 chapter: 86
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6004"
-generated_at: "2026-03-30T02:54:08.208Z"
+generated_at: "2026-11-23T21:25:40.017Z"
+status: "active"
 ---
 
 # § 6004. Standards
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.208Z"
 - **(d)**
   - **(1)** Until the final standard takes effect, a bicycle helmet that does not conform to an interim standard as required under subsection (a)(1) shall be considered in violation of a consumer product safety standard promulgated under the Consumer Product Safety Act [ 15 U.S.C. 2051 et seq.].
   - **(2)** The final standard developed under subsection (c) shall be considered a consumer product safety standard promulgated under the Consumer Product Safety Act.
+
+## Source Credit
+
+*([Pub. L. 103–267, title II, § 205](https://www.govinfo.gov/link/plaw/103/public/267), June 16, 1994, [108 Stat. 727](https://www.govinfo.gov/link/statute/108/727).)*

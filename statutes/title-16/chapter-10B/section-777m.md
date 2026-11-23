@@ -3,9 +3,10 @@ title: "Section 777m - Multistate conservation grant program"
 usc_title: 16
 usc_section: "777m"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 777m"
-generated_at: "2026-03-30T02:54:22.909Z"
+generated_at: "2026-11-23T21:25:51.753Z"
+status: "active"
 ---
 
 # § 777m. Multistate conservation grant program
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:54:22.909Z"
   - **(2)** $400,000 shall be made available for the Sport Fishing and Boating Partnership Council established by the United States Fish and Wildlife Service.
   - **(3)** A portion, as determined by the Sport Fishing and Boating Partnership Council, of funds disbursed for the purposes described in paragraph (2) but remaining unobligated as of October 1, 2021 , shall be used to study the impact of derelict vessels and identify recyclable solutions for recreational vessels.
 - **(f)** Chapter 10 of title 5 shall not apply to any activity carried out under this section.
+
+## Source Credit
+
+*(Aug. 9, 1950, ch. 658, § 14, as added [Pub. L. 106–408, title I, § 122(a)](https://www.govinfo.gov/link/plaw/106/public/408), Nov. 1, 2000, [114 Stat. 1772](https://www.govinfo.gov/link/statute/114/1772); amended [Pub. L. 109–59, title X, § 10118](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1929](https://www.govinfo.gov/link/statute/119/1929); [Pub. L. 109–241, title IX, § 901(r)(2)](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 566](https://www.govinfo.gov/link/statute/120/566); [Pub. L. 111–281, title IX, § 903(a)(3)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 3010](https://www.govinfo.gov/link/statute/124/3010); [Pub. L. 114–94, div. A, title X, § 10001(f)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1621](https://www.govinfo.gov/link/statute/129/1621); [Pub. L. 117–58, div. B, title VIII, § 28001(a)(3)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 887](https://www.govinfo.gov/link/statute/135/887); [Pub. L. 117–286, § 4(a)(103)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4317](https://www.govinfo.gov/link/statute/136/4317).)*

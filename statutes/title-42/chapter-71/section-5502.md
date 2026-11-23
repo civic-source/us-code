@@ -3,9 +3,10 @@ title: "Section 5502 - Definitions"
 usc_title: 42
 usc_section: "5502"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5502"
-generated_at: "2026-03-30T02:56:11.236Z"
+generated_at: "2026-11-23T21:26:32.812Z"
+status: "active"
 ---
 
 # § 5502. Definitions
@@ -18,3 +19,7 @@ For purposes of this subchapter—
   - **(4)** the term “Administrator” means the Administrator of the National Aeronautics and Space Administration;
   - **(5)** the term “Secretary” means the Secretary of Housing and Urban Development; and
   - **(6)** Omitted.
+
+## Source Credit
+
+*([Pub. L. 93–409, § 3](https://www.govinfo.gov/link/plaw/93/public/409), Sept. 3, 1974, [88 Stat. 1070](https://www.govinfo.gov/link/statute/88/1070); [Pub. L. 93–438, title I, § 104(f)](https://www.govinfo.gov/link/plaw/93/public/438), title III, § 301(h), Oct. 11, 1974, [88 Stat. 1238](https://www.govinfo.gov/link/statute/88/1238), 1250; [Pub. L. 95–91, title III, § 301(a)](https://www.govinfo.gov/link/plaw/95/public/91), title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577](https://www.govinfo.gov/link/statute/91/577), 606, 607; [Pub. L. 100–418, title V, § 5115(c)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1433](https://www.govinfo.gov/link/statute/102/1433).)*

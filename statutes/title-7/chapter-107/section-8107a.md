@@ -3,9 +3,10 @@ title: "Section 8107a - Rural energy savings program"
 usc_title: 7
 usc_section: "8107a"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 8107a"
-generated_at: "2026-03-30T02:53:42.471Z"
+generated_at: "2026-11-23T21:25:28.467Z"
+status: "active"
 ---
 
 # § 8107a. Rural energy savings program
@@ -73,3 +74,7 @@ generated_at: "2026-03-30T02:53:42.471Z"
   - **(2)** the number of loans made to eligible entities under this section for that fiscal year; and
   - **(3)** the recipients of the loans described in paragraph (2).
 - **(i)** There is authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2014 through 2023.
+
+## Source Credit
+
+*([Pub. L. 107–171, title VI, § 6407](https://www.govinfo.gov/link/plaw/107/public/171), as added [Pub. L. 113–79, title VI, § 6205](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 857](https://www.govinfo.gov/link/statute/128/857); amended [Pub. L. 115–334, title VI, § 6303](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4749](https://www.govinfo.gov/link/statute/132/4749).)*

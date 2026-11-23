@@ -3,9 +3,10 @@ title: "Section 2502 - Definitions"
 usc_title: 15
 usc_section: "2502"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2502"
-generated_at: "2026-03-30T02:54:08.172Z"
+generated_at: "2026-11-23T21:25:39.928Z"
+status: "active"
 ---
 
 # § 2502. Definitions
@@ -24,3 +25,7 @@ As used in this chapter, the term—
   - **(6)** “project” means the Electric and Hybrid Vehicle Research, Development, and Demonstration Project established under section 2503(a) of this title ;
   - **(7)** Omitted.
   - **(8)** “small business concern” shall have the meaning prescribed by the Secretary of Energy after consultation with the Small Business Administration.
+
+## Source Credit
+
+*([Pub. L. 94–413, § 3](https://www.govinfo.gov/link/plaw/94/public/413), Sept. 17, 1976, [90 Stat. 1261](https://www.govinfo.gov/link/statute/90/1261); [Pub. L. 95–91, title III, § 301(a)](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 577](https://www.govinfo.gov/link/statute/91/577).)*

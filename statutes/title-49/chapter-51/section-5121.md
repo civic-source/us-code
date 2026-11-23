@@ -3,9 +3,10 @@ title: "Section 5121 - Administrative"
 usc_title: 49
 usc_section: "5121"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 5121"
-generated_at: "2026-03-30T02:56:19.307Z"
+generated_at: "2026-11-23T21:26:40.621Z"
+status: "active"
 ---
 
 # § 5121. Administrative
@@ -69,3 +70,116 @@ generated_at: "2026-03-30T02:56:19.307Z"
   - **(4)** an evaluation of the effectiveness of enforcement activities relating to a function regulated by the Secretary under section 5103(b)(1) and the degree of voluntary compliance with regulations;
   - **(5)** a summary of outstanding problems in carrying out this chapter in order of priority; and
   - **(6)** recommendations for appropriate legislation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5121(a) | 49 App.:1808(a) (1st sentence, last sentence words before semicolon). | Jan. 3, 1975 , Pub. L. 93–633, § 109(a) (1st sentence, last sentence words before semicolon), (b), (c), 88 Stat. 2159 . |
+| 5121(b) | 49 App.:1808(b). |  |
+| 5121(c) | 49 App.:1808(c). |  |
+| 5121(d) | 49 App.:1808(d). | Jan. 3, 1975 , Pub. L. 93–633, § 109(d) , 88 Stat. 2159 ; Oct. 30, 1984 , Pub. L. 98–559, § 1(a) , 98 Stat. 2907 ; Nov. 16, 1990 , Pub. L. 101–615, § 11 , 104 Stat. 3259 . |
+| 5121(e) | 49 App.:1808(e). | Jan. 3, 1975 , Pub. L. 93–633, § 109(e) , 88 Stat. 2159 ; Oct. 30, 1984 , Pub. L. 98–559, § 1(b) , 98 Stat. 2907 . |
+
+
+General Authority
+
+Records, Reports, and Information
+
+Inspections and Investigations.—
+
+In general
+
+Display of credentials
+
+Safe resumption of transportation
+
+Emergency Orders.—
+
+In general
+
+Written orders
+
+Opportunity for review
+
+Expiration of effectiveness of order
+
+Out-of-service order defined
+
+Regulations.—
+
+Temporary regulations
+
+Final regulations
+
+Matters to be addressed
+
+Facility, Staff, and Reporting System on Risks, Emergencies, and Actions
+
+Grants and Cooperative Agreements
+
+Report
+
+Historical and Revision Notes
+
+5121(a)
+
+Jan. 3, 1975
+
+Pub. L. 93–633, § 109(a)
+
+88 Stat. 2159
+
+5121(b)
+
+5121(c)
+
+5121(d)
+
+Jan. 3, 1975
+
+Pub. L. 93–633, § 109(d)
+
+88 Stat. 2159
+
+Oct. 30, 1984
+
+Pub. L. 98–559, § 1(a)
+
+98 Stat. 2907
+
+Nov. 16, 1990
+
+Pub. L. 101–615, § 11
+
+104 Stat. 3259
+
+5121(e)
+
+Jan. 3, 1975
+
+Pub. L. 93–633, § 109(e)
+
+88 Stat. 2159
+
+Oct. 30, 1984
+
+Pub. L. 98–559, § 1(b)
+
+98 Stat. 2907
+
+In General
+
+Requirements
+
+Report
+
+Paperless Hazard Communications System Defined
+
+In General
+
+Standards and Guidelines
+
+Availability
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 779](https://www.govinfo.gov/link/statute/108/779); [Pub. L. 103–311, title I](https://www.govinfo.gov/link/plaw/103/public/311), §§ 108, 117(a)(2), Aug. 26, 1994, [108 Stat. 1674](https://www.govinfo.gov/link/statute/108/1674), 1678; [Pub. L. 109–59, title VII](https://www.govinfo.gov/link/plaw/109/public/59), §§ 7118, 7126, Aug. 10, 2005, [119 Stat. 1902](https://www.govinfo.gov/link/statute/119/1902), 1909; [Pub. L. 110–244, title III, § 302(e)](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1618](https://www.govinfo.gov/link/statute/122/1618); [Pub. L. 112–141, div. C, title II, § 32501(c)](https://www.govinfo.gov/link/plaw/112/public/141), title III, § 33009(a), (b)(1), (c), July 6, 2012, [126 Stat. 803](https://www.govinfo.gov/link/statute/126/803), 836, 837; [Pub. L. 114–94, div. A, title VII, § 7205](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1592](https://www.govinfo.gov/link/statute/129/1592).)*

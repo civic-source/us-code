@@ -3,9 +3,10 @@ title: "Section 4413 - Eligibility of the Endowment for grants"
 usc_title: 22
 usc_section: "4413"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4413"
-generated_at: "2026-03-30T02:55:05.411Z"
+generated_at: "2026-11-23T21:25:58.645Z"
+status: "active"
 ---
 
 # § 4413. Eligibility of the Endowment for grants
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:05.411Z"
   - **(2)** The Endowment shall ensure that it, or any of its duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient that are pertinent to assistance provided through the Endowment under this subchapter. The Comptroller General of the United States or any of his duly authorized representatives shall also have access thereto for such purpose.
 - **(i)** Not later than February 1 of each year, the Endowment shall submit an annual report for the preceding fiscal year to the President for transmittal to the Congress. The report shall include a comprehensive and detailed report of the Endowment’s operations, activities, financial condition, and accomplishments under this subchapter and may include such recommendations as the Endowment deems appropriate. The Board members and officers of the Endowment shall be available to testify before appropriate committees of the Congress with respect to such report, the report of any audit made by the Comptroller General pursuant to subsection (f), or any other matter which any such committee may determine.
 - **(j)** After January 31, 1993 , no member of the Board of the Endowment may be a member of the board of directors or an officer of any grantee of the National Endowment for Democracy which receives more than 5 percent of the funds of the Endowment for any fiscal year.
+
+## Source Credit
+
+*([Pub. L. 98–164, title V, § 504](https://www.govinfo.gov/link/plaw/98/public/164), Nov. 22, 1983, [97 Stat. 1040](https://www.govinfo.gov/link/statute/97/1040); [Pub. L. 99–93, title II, § 210(b)](https://www.govinfo.gov/link/plaw/99/public/93), (d), Aug. 16, 1985, [99 Stat. 432](https://www.govinfo.gov/link/statute/99/432); [Pub. L. 100–204, title II, § 211](https://www.govinfo.gov/link/plaw/100/public/204), Dec. 22, 1987, [101 Stat. 1376](https://www.govinfo.gov/link/statute/101/1376); [Pub. L. 102–138, title II](https://www.govinfo.gov/link/plaw/102/public/138), §§ 211(d), 215, Oct. 28, 1991, [105 Stat. 695](https://www.govinfo.gov/link/statute/105/695), 697; [Pub. L. 103–236, title II, § 228](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 423](https://www.govinfo.gov/link/statute/108/423); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

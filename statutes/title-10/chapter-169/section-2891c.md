@@ -3,9 +3,10 @@ title: "Section 2891c - Transparency regarding finances and performance metrics"
 usc_title: 10
 usc_section: "2891c"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2891c"
-generated_at: "2026-03-30T02:53:38.183Z"
+generated_at: "2026-11-23T21:25:32.700Z"
+status: "active"
 ---
 
 # § 2891c. Transparency regarding finances and performance metrics
@@ -50,3 +51,11 @@ generated_at: "2026-03-30T02:53:38.183Z"
     - **(B)** The metrics used to determine the incentive fees.
     - **(C)** Whether incentive fees were paid in full, or were withheld in part or in full, during the period covered by the release of information.
     - **(D)** If any incentive fees were withheld, the reasons for such withholding.
+
+Submission of Landlord Financial Information
+
+Availability of Information on Performance Metrics and Use of Incentive Fees
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. B, title XXX, § 3016(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1927](https://www.govinfo.gov/link/statute/133/1927); amended [Pub. L. 116–283, div. B, title XXVIII, § 2814(a)](https://www.govinfo.gov/link/plaw/116/public/283) –(d)(1), Jan. 1, 2021, [134 Stat. 4327](https://www.govinfo.gov/link/statute/134/4327), 4328; [Pub. L. 119–60, div. B, title XXVIII, § 2825](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1308](https://www.govinfo.gov/link/statute/139/1308).)*

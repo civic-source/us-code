@@ -3,9 +3,10 @@ title: "Section 305 - Vice admirals"
 usc_title: 14
 usc_section: "305"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 305"
-generated_at: "2026-03-30T02:53:51.487Z"
+generated_at: "2026-11-23T21:25:35.354Z"
+status: "active"
 ---
 
 # § 305. Vice admirals
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:51.487Z"
   - **(1)** An appointment of an officer under subsection (a) does not vacate the permanent grade held by the officer.
   - **(2)** An officer serving in a grade above rear admiral who holds the permanent grade of rear admiral (lower half) shall be considered for promotion to the permanent grade of rear admiral as if the officer was serving in the officer’s permanent grade.
 - **(d)** Whenever a vacancy occurs in a position designated under subsection (a), the Commandant shall inform the President of the qualifications needed by an officer serving in that position or office to carry out effectively the duties and responsibilities of that position or office.
+
+## Source Credit
+
+*(Added [Pub. L. 92–451, § 1(5)](https://www.govinfo.gov/link/plaw/92/public/451), Oct. 2, 1972, [86 Stat. 755](https://www.govinfo.gov/link/statute/86/755), § 50; amended [Pub. L. 103–206, title II, § 204(c)](https://www.govinfo.gov/link/plaw/103/public/206), Dec. 20, 1993, [107 Stat. 2421](https://www.govinfo.gov/link/statute/107/2421); [Pub. L. 111–281, title V, § 511(a)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2951](https://www.govinfo.gov/link/statute/124/2951); [Pub. L. 111–330, § 1(5)](https://www.govinfo.gov/link/plaw/111/public/330), Dec. 22, 2010, [124 Stat. 3569](https://www.govinfo.gov/link/statute/124/3569); [Pub. L. 114–120, title II, § 202](https://www.govinfo.gov/link/plaw/114/public/120), Feb. 8, 2016, [130 Stat. 33](https://www.govinfo.gov/link/statute/130/33); renumbered § 305 and amended [Pub. L. 115–282, title I](https://www.govinfo.gov/link/plaw/115/public/282), §§ 104(b), 123(b)(2), Dec. 4, 2018, [132 Stat. 4196](https://www.govinfo.gov/link/statute/132/4196), 4240; [Pub. L. 116–283, div. A, title V, § 551(b)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3630](https://www.govinfo.gov/link/statute/134/3630); [Pub. L. 119–60, div. G, title LXXII](https://www.govinfo.gov/link/plaw/119/public/60), §§ 7201(b), (e)(3), Dec. 18, 2025, [139 Stat. 1675](https://www.govinfo.gov/link/statute/139/1675), 1678.)*

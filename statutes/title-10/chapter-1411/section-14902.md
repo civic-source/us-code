@@ -3,9 +3,10 @@ title: "Section 14902 - Separation for substandard performance and for certain o
 usc_title: 10
 usc_section: "14902"
 chapter: 1411
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 14902"
-generated_at: "2026-03-30T02:53:38.276Z"
+generated_at: "2026-11-23T21:25:33.069Z"
+status: "active"
 ---
 
 # § 14902. Separation for substandard performance and for certain other reasons
@@ -13,3 +14,13 @@ generated_at: "2026-03-30T02:53:38.276Z"
 - **(a)** The Secretary of the military department concerned shall prescribe, by regulation, procedures for the review at any time of the record of any reserve officer to determine whether that officer should be required, because that officer’s performance has fallen below standards prescribed by the Secretary concerned, to show cause for retention in an active status.
 - **(b)** The Secretary of the military department concerned shall prescribe, by regulation, procedures for the review at any time of the record of any reserve officer to determine whether that officer should be required, because of misconduct, because of moral or professional dereliction, or because the officer’s retention is not clearly consistent with the interests of national security, to show cause for retention in an active status.
 - **(c)** The authority of the Secretary of a military department under this section shall be carried out subject to such limitations as the Secretary of Defense may prescribe by regulation.
+
+Substandard Performance of Duty
+
+Misconduct, Etc
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1611](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2958](https://www.govinfo.gov/link/statute/108/2958).)*

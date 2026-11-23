@@ -3,9 +3,10 @@ title: "Section 7704 - Other protections for users of commercial electronic mail
 usc_title: 15
 usc_section: "7704"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7704"
-generated_at: "2026-03-30T02:54:08.225Z"
+generated_at: "2026-11-23T21:25:40.066Z"
+status: "active"
 ---
 
 # § 7704. Other protections for users of commercial electronic mail
@@ -61,3 +62,7 @@ generated_at: "2026-03-30T02:54:08.225Z"
   - **(3)** Not later than 120 days after December 16, 2003 , the Commission in consultation with the Attorney General shall prescribe clearly identifiable marks or notices to be included in or associated with commercial electronic mail that contains sexually oriented material, in order to inform the recipient of that fact and to facilitate filtering of such electronic mail. The Commission shall publish in the Federal Register and provide notice to the public of the marks or notices prescribed under this paragraph.
   - **(4)** In this subsection, the term “sexually oriented material” means any material that depicts sexually explicit conduct (as that term is defined in section 2256 of title 18 ), unless the depiction constitutes a small and insignificant part of the whole, the remainder of which is not primarily devoted to sexual matters.
   - **(5)** Whoever knowingly violates paragraph (1) shall be fined under title 18, or imprisoned not more than 5 years, or both.
+
+## Source Credit
+
+*([Pub. L. 108–187, § 5](https://www.govinfo.gov/link/plaw/108/public/187), Dec. 16, 2003, [117 Stat. 2706](https://www.govinfo.gov/link/statute/117/2706).)*

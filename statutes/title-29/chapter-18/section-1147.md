@@ -3,9 +3,10 @@ title: "Section 1147 - National Summit on Retirement Savings"
 usc_title: 29
 usc_section: "1147"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1147"
-generated_at: "2026-03-30T02:55:18.720Z"
+generated_at: "2026-11-23T21:26:02.265Z"
+status: "active"
 ---
 
 # § 1147. National Summit on Retirement Savings
@@ -72,3 +73,7 @@ generated_at: "2026-03-30T02:55:18.720Z"
   - **(1)** one-half of the costs of the National Summit; or
   - **(2)** $250,000.
 - **(k)** The Secretary may enter into contracts to carry out the Secretary’s responsibilities under this section. The Secretary shall enter into a contract on a sole-source basis to ensure the timely completion of the National Summit in fiscal year 1998.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 517](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 105–92, § 4(a)](https://www.govinfo.gov/link/plaw/105/public/92), Nov. 19, 1997, [111 Stat. 2141](https://www.govinfo.gov/link/statute/111/2141); amended [Pub. L. 117–286, § 4(a)(190)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4327](https://www.govinfo.gov/link/statute/136/4327).)*

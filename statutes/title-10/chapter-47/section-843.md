@@ -3,9 +3,10 @@ title: "Section 843 - Art. 43. Statute of limitations"
 usc_title: 10
 usc_section: "843"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 843"
-generated_at: "2026-03-30T02:53:38.080Z"
+generated_at: "2026-11-23T21:25:32.335Z"
+status: "active"
 ---
 
 # § 843. Art. 43. Statute of limitations
@@ -38,3 +39,60 @@ generated_at: "2026-03-30T02:53:38.080Z"
   - **(1)** In the case of an enlisted member, during the period of the enlistment or five years, whichever provides a longer period.
   - **(2)** In the case of an officer, during the period of the appointment or five years, whichever provides a longer period.
 - **(i)** If DNA testing implicates an identified person in the commission of an offense punishable by confinement for more than one year, no statute of limitations that would otherwise preclude prosecution of the offense shall preclude such prosecution until a period of time following the implication of the person by DNA testing has elapsed that is equal to the otherwise applicable limitation period.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 843(a) 843(b) | 50:618(a). 50:618(b). | May 5, 1950, ch. 169, § 1 (Art. 43), 64 Stat. 121 . |
+| 843(c) | 50:618(c). |  |
+| 843(d) | 50:618(d). |  |
+| 843(e) | 50:618(e). |  |
+| 843(f) | 50:618(f). |  |
+
+
+No Limitation for Certain Offenses
+
+Five-year Limitation for Trial by Court-martial
+
+Tolling for Absence Without Leave or Flight From Justice
+
+Tolling for Absence From US or Military Jurisdiction
+
+Extension for Offenses in Time of War Detrimental to Prosecution of War
+
+Extension for Other Offenses in Time of War
+
+Defective or Insufficient Charges
+
+Fraudulent Enlistment or Appointment
+
+DNA Evidence
+
+Historical and Revision Notes
+
+843(a)
+
+843(b)
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 121
+
+843(c)
+
+843(d)
+
+843(e)
+
+843(f)
+
+DNA Evidence
+
+Dna Evidence
+
+Child abuse offenses
+
+Fraudulent enlistment or appointment offenses
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 51; [Pub. L. 99–661, div. A, title VIII, § 805(a)](https://www.govinfo.gov/link/plaw/99/public/661), (b), Nov. 14, 1986, [100 Stat. 3908](https://www.govinfo.gov/link/statute/100/3908); [Pub. L. 108–136, div. A, title V, § 551](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1481](https://www.govinfo.gov/link/statute/117/1481); [Pub. L. 109–163, div. A, title V](https://www.govinfo.gov/link/plaw/109/public/163), §§ 552(e), 553, Jan. 6, 2006, [119 Stat. 3263](https://www.govinfo.gov/link/statute/119/3263), 3264; [Pub. L. 109–364, div. A, title X, § 1071(a)(4)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2398](https://www.govinfo.gov/link/statute/120/2398); [Pub. L. 111–383, div. A, title X, § 1075(b)(14)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4369](https://www.govinfo.gov/link/statute/124/4369); [Pub. L. 112–81, div. A, title V, § 541(d)(1)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1410](https://www.govinfo.gov/link/statute/125/1410); [Pub. L. 112–239, div. A, title X, § 1076(f)(8)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1952](https://www.govinfo.gov/link/statute/126/1952); [Pub. L. 113–66, div. A, title XVII, § 1703(a)](https://www.govinfo.gov/link/plaw/113/public/66), (b), Dec. 26, 2013, [127 Stat. 958](https://www.govinfo.gov/link/statute/127/958); [Pub. L. 113–291, div. A, title V, § 531(d)(2)(A)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3364](https://www.govinfo.gov/link/statute/128/3364); [Pub. L. 114–328, div. E, title LVII, § 5225(a)](https://www.govinfo.gov/link/plaw/114/public/328) –(e), Dec. 23, 2016, [130 Stat. 2909](https://www.govinfo.gov/link/statute/130/2909), 2910; [Pub. L. 115–91, div. A, title X, § 1081(c)(1)(E)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1598](https://www.govinfo.gov/link/statute/131/1598); [Pub. L. 116–92, div. A, title V, § 533(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1361](https://www.govinfo.gov/link/statute/133/1361).)*

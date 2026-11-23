@@ -3,9 +3,10 @@ title: "Section 943 - Art. 143. Organization and employees"
 usc_title: 10
 usc_section: "943"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 943"
-generated_at: "2026-03-30T02:53:38.088Z"
+generated_at: "2026-11-23T21:25:32.357Z"
+status: "active"
 ---
 
 # § 943. Art. 143. Organization and employees
@@ -26,3 +27,17 @@ generated_at: "2026-03-30T02:53:38.088Z"
 - **(c)**
   - **(1)** Attorney positions of employment under the Court of Appeals for the Armed Forces are excepted from the competitive service. A position of employment under the court that is provided primarily for the service of one judge of the court, reports directly to the judge, and is a position of a confidential character is excepted from the competitive service. Appointments to positions referred to in the preceding sentences shall be made by the court, without the concurrence of any other officer or employee of the executive branch, in the same manner as appointments are made to other executive branch positions of a confidential or policy-determining character for which it is not practicable to examine or to hold a competitive examination. Such positions shall not be counted as positions of that character for purposes of any limitation on the number of positions of that character provided in law.
   - **(2)** In making appointments to the positions described in paragraph (1), preference shall be given, among equally qualified persons, to persons who are preference eligibles (as defined in section 2108(3) of title 5 ).
+
+Chief Judge
+
+Precedence of Judges
+
+Status of Certain Positions
+
+Chief Judge
+
+“For purposes of section 943(a) (article 943(a)) of title 10, United States Code, as amended by subsection (a)—
+
+## Source Credit
+
+*(Added [Pub. L. 101–189, div. A, title XIII, § 1301(c)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1572](https://www.govinfo.gov/link/statute/103/1572); amended [Pub. L. 102–484, div. A, title X, § 1061(a)(1)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2503](https://www.govinfo.gov/link/statute/106/2503); [Pub. L. 103–337, div. A, title IX, § 924(c)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2831](https://www.govinfo.gov/link/statute/108/2831); [Pub. L. 104–201, div. A, title X, § 1068(b)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2655](https://www.govinfo.gov/link/statute/110/2655); [Pub. L. 105–85, div. A, title X, § 1073(a)(11)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1900](https://www.govinfo.gov/link/statute/111/1900).)*

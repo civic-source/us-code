@@ -3,9 +3,10 @@ title: "Section 305 - Penalties for unlawful export information activities"
 usc_title: 13
 usc_section: "305"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "13 U.S.C. § 305"
-generated_at: "2026-03-30T02:54:03.338Z"
+generated_at: "2026-11-23T21:25:34.411Z"
+status: "active"
 ---
 
 # § 305. Penalties for unlawful export information activities
@@ -31,3 +32,39 @@ generated_at: "2026-03-30T02:54:03.338Z"
   - **(2)** The Commissioner of Customs 1 1 See Change of Name note below. may designate officers or employees of the Customs Service to enforce the provisions of this chapter, or to conduct investigations pursuant to this chapter.
 - **(e)** The Secretary of Commerce shall promulgate regulations for the implementation and enforcement of this section.
 - **(f)** The criminal fines provided for in this section are exempt from the provisions of section 3571 of title 18 , United States Code.
+
+Criminal Penalties.—
+
+Failure to file; submission of false or misleading information
+
+Furtherance of illegal activities
+
+Forfeiture penalties
+
+Civil Penalties
+
+Civil Penalty Procedure.—
+
+In general
+
+Commencement of civil actions
+
+Remission or mitigation of penalties
+
+Applicable law for delegated functions
+
+Deposit of payments in general fund of the treasury
+
+Enforcement.—
+
+By the secretary of commerce
+
+By the commissioner of customs
+
+Regulations
+
+Exemption
+
+## Source Credit
+
+*(Added [Pub. L. 87–826, § 2](https://www.govinfo.gov/link/plaw/87/public/826), Oct. 15, 1962, [76 Stat. 952](https://www.govinfo.gov/link/statute/76/952); amended [Pub. L. 107–228, div. B, title XIV, § 1404(f)(1)](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1455](https://www.govinfo.gov/link/statute/116/1455); [Pub. L. 114–125, title VIII, § 802(d)(2)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 210](https://www.govinfo.gov/link/statute/130/210).)*

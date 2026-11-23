@@ -3,9 +3,10 @@ title: "Section 1502 - Definitions"
 usc_title: 33
 usc_section: "1502"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1502"
-generated_at: "2026-03-30T02:55:41.107Z"
+generated_at: "2026-11-23T21:26:11.407Z"
+status: "active"
 ---
 
 # § 1502. Definitions
@@ -35,3 +36,45 @@ In this chapter:
   - **(17)** The term “Secretary” means the Secretary of Transportation.
   - **(18)** The term “State” includes each of the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States.
   - **(19)** The term “vessel” means every description of watercraft or other artificial contrivance used as a means of transportation on or through the water.
+
+Adjacent coastal State
+
+Affiliate
+
+Application
+
+Citizen of the United States
+
+Coastal environment
+
+Coastal State
+
+Construction
+
+Control
+
+Deepwater port
+
+Governor
+
+Licensee
+
+Marine environment
+
+Natural gas
+
+Oil
+
+Person
+
+Safety zone
+
+Secretary
+
+State
+
+Vessel
+
+## Source Credit
+
+*([Pub. L. 93–627, § 3](https://www.govinfo.gov/link/plaw/93/public/627), Jan. 3, 1975, [88 Stat. 2127](https://www.govinfo.gov/link/statute/88/2127); [Pub. L. 98–419, § 2(a)](https://www.govinfo.gov/link/plaw/98/public/419), Sept. 25, 1984, [98 Stat. 1607](https://www.govinfo.gov/link/statute/98/1607); [Pub. L. 104–324, title V, § 503](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3926](https://www.govinfo.gov/link/statute/110/3926); [Pub. L. 107–295, title I, § 106(b)](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2086](https://www.govinfo.gov/link/statute/116/2086); [Pub. L. 109–58, title III, § 321(b)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 694](https://www.govinfo.gov/link/statute/119/694); [Pub. L. 112–213, title III, § 312](https://www.govinfo.gov/link/plaw/112/public/213), Dec. 20, 2012, [126 Stat. 1569](https://www.govinfo.gov/link/statute/126/1569); [Pub. L. 118–31, div. C, title XXXV, § 3514(k)(2)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 813](https://www.govinfo.gov/link/statute/137/813).)*

@@ -3,9 +3,10 @@ title: "Section 9722 - Waiver for sanctioned officials that recognize the Interi
 usc_title: 22
 usc_section: "9722"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9722"
-generated_at: "2026-03-30T02:55:05.472Z"
+generated_at: "2026-11-23T21:25:58.786Z"
+status: "active"
 ---
 
 # § 9722. Waiver for sanctioned officials that recognize the Interim President of Venezuela
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:05.472Z"
     - **(A)** Section 1(a)(ii) of Executive Order 13850.
     - **(B)** Paragraph (iii) of section 1(a) of such Executive Order, to the extent such paragraph relates to the provision of law cited in subparagraph (A).
 - **(c)** The President shall issue such regulations, licenses, and orders as may be necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 116–94, div. J, title I, § 133](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3036](https://www.govinfo.gov/link/statute/133/3036).)*

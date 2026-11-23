@@ -3,9 +3,10 @@ title: "Section 1631a - Property owned by Bulgaria, Hungary, and Rumania or any 
 usc_title: 22
 usc_section: "1631a"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1631a"
-generated_at: "2026-03-30T02:55:05.334Z"
+generated_at: "2026-11-23T21:25:58.405Z"
+status: "active"
 ---
 
 # § 1631a. Property owned by Bulgaria, Hungary, and Rumania or any national thereof
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.334Z"
 - **(b)** The net proceeds of any property which was vested in the Alien Property Custodian or the Attorney General after December 17, 1941 , pursuant to the Trading With the Enemy Act, as amended [ 50 U.S.C. 4301 et seq.], and which at the date of vesting was owned directly or indirectly by Bulgaria, Hungary, or Rumania, or any national thereof, shall after completion of the administration, liquidation, and disposition of such property pursuant to such Act, including the adjudication of any suits or claims with respect thereto under such Act, be covered into the Treasury, except that the net proceeds of any such property which the President or his designee shall determine was directly owned by a natural person at the date of vesting shall be divested by the President or such officer or agency as he may designate and carried in blocked accounts with the Treasury, bearing no interest, in the name of the owner thereof at the date of vesting, subject to release when, as, and upon such terms as the President or his designee may prescribe.
 - **(c)** The determination under this section that any vested property was not directly owned by a natural person at the date of vesting shall be within the sole discretion of the President or his designee and shall not be subject to review by any court.
 - **(d)** The President or his designee may require any person to furnish, in the form of reports or otherwise, complete information, including information with regard to past transactions, relative to any property blocked under Executive Order 8389 of April 10, 1940 , as amended, or as may be otherwise necessary to enforce the provisions of this section; and the President or his designee may require of any person the production of any books of account, records, contracts, letters, memoranda, or other papers relative to such property or as may be otherwise necessary to enforce the provisions of this section.
+
+## Source Credit
+
+*(Mar. 10, 1950, ch. 54, title II, § 202, as added Aug. 9, 1955, ch. 645, § 3, [69 Stat. 562](https://www.govinfo.gov/link/statute/69/562).)*

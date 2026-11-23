@@ -3,9 +3,10 @@ title: "Section 1665m - Domestic and sexual violence prevention and treatment"
 usc_title: 25
 usc_section: "1665m"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1665m"
-generated_at: "2026-03-30T02:54:52.825Z"
+generated_at: "2026-11-23T21:25:54.631Z"
+status: "active"
 ---
 
 # § 1665m. Domestic and sexual violence prevention and treatment
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:52.825Z"
     - **(C)** to identify problems or obstacles in the prosecution of domestic violence or sexual abuse; and
     - **(D)** to meet other needs or carry out other activities required to prevent, treat, and improve prosecutions of domestic violence and sexual abuse.
   - **(2)** Not later than 2 years after March 23, 2010 , the Secretary shall submit to the Committee on Indian Affairs of the Senate and the Committee on Natural Resources of the House of Representatives a report that describes, with respect to the matters described in paragraph (1), the improvements made and needed, problems or obstacles identified, and costs necessary to address the problems or obstacles, and any other recommendations that the Secretary determines to be appropriate.
+
+## Source Credit
+
+*([Pub. L. 94–437, title VII, § 714](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

@@ -3,9 +3,10 @@ title: "Section 1902 - Definitions"
 usc_title: 43
 usc_section: "1902"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1902"
-generated_at: "2026-03-30T02:55:57.494Z"
+generated_at: "2026-11-23T21:26:19.888Z"
+status: "active"
 ---
 
 # § 1902. Definitions
@@ -21,3 +22,7 @@ As used in this chapter—
 - **(g)** The term “court ordered environmental impact statement” means any environmental statements which are required to be prepared by the Secretary of the Interior pursuant to the final judgment or subsequent modification thereof as set forth on June 18, 1975 , in the matter of Natural Resources Defense Council against Andrus.
 - **(h)** The term “Secretary” unless specifically designated otherwise, means the Secretary of the Interior.
 - **(i)** The term “sixteen contiguous Western States” means the States of Arizona, California, Colorado, Idaho, Kansas, Montana, Nebraska, Nevada, New Mexico, North Dakota, Oklahoma, Oregon, South Dakota, Utah, Washington, and Wyoming.
+
+## Source Credit
+
+*([Pub. L. 95–514, § 3](https://www.govinfo.gov/link/plaw/95/public/514), Oct. 25, 1978, [92 Stat. 1804](https://www.govinfo.gov/link/statute/92/1804).)*

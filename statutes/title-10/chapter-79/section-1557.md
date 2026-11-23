@@ -3,14 +3,24 @@ title: "Section 1557 - Timeliness standards for disposition of applications befo
 usc_title: 10
 usc_section: "1557"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1557"
-generated_at: "2026-03-30T02:53:38.128Z"
+generated_at: "2026-11-23T21:25:32.502Z"
+status: "active"
 ---
 
 # § 1557. Timeliness standards for disposition of applications before Corrections Boards
 
-- **(a)** Of the applications received by a Corrections Board during a period specified in the following table, the percentage on which final action by the Corrections Board must be completed within 10 months of receipt (other than for those applications considered suitable for administrative correction) is as follows: For applications received during— The percentage on which final Correction Board action must be completed within 10 months of receipt is— the period of fiscal years 2001 and 2002 50 the period of fiscal years 2003 and 2004 60 the period of fiscal years 2005, 2006, and 2007 70 the period of fiscal years 2008, 2009, and 2010 80 the period of any fiscal year after fiscal year 2010 90.
+- **(a)** Of the applications received by a Corrections Board during a period specified in the following table, the percentage on which final action by the Corrections Board must be completed within 10 months of receipt (other than for those applications considered suitable for administrative correction) is as follows:
+
+| For applications received during— | The percentage on which final Correction Board action must be completed within 10 months of receipt is— |
+| --- | --- |
+| the period of fiscal years 2001 and 2002 | 50 |
+| the period of fiscal years 2003 and 2004 | 60 |
+| the period of fiscal years 2005, 2006, and 2007 | 70 |
+| the period of fiscal years 2008, 2009, and 2010 | 80 |
+| the period of any fiscal year after fiscal year 2010 | 90. |
+
 - **(b)** Final action by a Corrections Board on all applications received by the Corrections Board (other than those applications considered suitable for administrative correction) shall be completed within 18 months of receipt.
 - **(c)** The Secretary of the military department concerned may exclude an individual application from the timeliness standards prescribed in subsections (a) and (b) if the Secretary determines that the application warrants a longer period of consideration. The authority of the Secretary of a military department under this subsection may not be delegated.
 - **(d)** Failure of a Corrections Board to meet the applicable timeliness standard for any period of time under subsection (a) or (b) does not confer any presumption or advantage with respect to consideration by the board of any application.
@@ -19,3 +29,29 @@ generated_at: "2026-03-30T02:53:38.128Z"
   - **(1)** with respect to the Department of the Army, the Army Board for Correction of Military Records;
   - **(2)** with respect to the Department of the Navy, the Board for Correction of Naval Records; and
   - **(3)** with respect to the Department of the Air Force, the Department of the Air Force Board for Correction of Military Records.
+
+Ten-Month Clearance Percentage
+
+the period of fiscal years 2001 and 2002
+
+the period of fiscal years 2003 and 2004
+
+the period of fiscal years 2005, 2006, and 2007
+
+the period of fiscal years 2008, 2009, and 2010
+
+the period of any fiscal year after fiscal year 2010
+
+Clearance Deadline for All Applications
+
+Waiver Authority
+
+Failure To Meet Timeliness Standards Not To Affect Any Individual Application
+
+Reports on Failure To Meet Timeliness Standards
+
+Corrections Board Defined
+
+## Source Credit
+
+*(Added [Pub. L. 105–261, div. A, title V, § 544(a)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2021](https://www.govinfo.gov/link/statute/112/2021); amended [Pub. L. 106–65, div. A, title X, § 1067(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774); [Pub. L. 108–375, div. A, title X, § 1084(d)(12)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2062](https://www.govinfo.gov/link/statute/118/2062); [Pub. L. 118–31, div. A, title XVII, § 1722(j)(2)(A)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 673](https://www.govinfo.gov/link/statute/137/673).)*

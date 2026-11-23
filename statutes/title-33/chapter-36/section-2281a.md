@@ -3,9 +3,10 @@ title: "Section 2281a - Tribal Liaison"
 usc_title: 33
 usc_section: "2281a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2281a"
-generated_at: "2026-03-30T02:55:41.118Z"
+generated_at: "2026-11-23T21:26:11.433Z"
+status: "active"
 ---
 
 # § 2281a. Tribal Liaison
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:41.118Z"
   - **(2)** The term “Tribal Liaison” means a permanent employee of a Corps of Engineers district whose primary responsibilities are to—
     - **(A)** serve as a direct line of communication between the District Commander and the Tribal communities within the boundaries of the Corps of Engineers district; and
     - **(B)** ensure consistency in government-to-government relations.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. H, title LXXXI, § 8112](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3704](https://www.govinfo.gov/link/statute/136/3704).)*

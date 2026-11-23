@@ -3,9 +3,10 @@ title: "Section 44520 - Center of Excellence for Alternative Jet Fuels and Envir
 usc_title: 49
 usc_section: "44520"
 chapter: 445
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44520"
-generated_at: "2026-03-30T02:56:19.382Z"
+generated_at: "2026-11-23T21:26:40.889Z"
+status: "active"
 ---
 
 # § 44520. Center of Excellence for Alternative Jet Fuels and Environment
@@ -30,3 +31,19 @@ generated_at: "2026-03-30T02:56:19.382Z"
     - **(C)** consortia with experience across the alternative fuels supply chain, including with research, feedstock development and production, small-scale development, testing, and technology evaluation related to the creation, processing, production, and transportation of alternative aviation fuel; and
     - **(D)** consortia with experience in innovative technologies to reduce noise, emissions, and fuel burn in commercial aircraft.
   - **(2)** The Center shall, in consultation with the Administrator of NASA, consider using, on a reimbursable basis, the existing and available capacity in aeronautics research facilities at the Langley Research Center, the NASA John H. Glenn Center at the Neil A. Armstrong Test Facility, and other appropriate facilities of the National Aeronautics and Space Administration.
+
+In General
+
+Responsibilities
+
+Grant Authority
+
+Participation.—
+
+Participation of educational and research institutions
+
+Use of nasa facilities
+
+## Source Credit
+
+*(Added [Pub. L. 118–63, title X, § 1017(a)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1396](https://www.govinfo.gov/link/statute/138/1396).)*

@@ -3,9 +3,10 @@ title: "Section 1907 - Helen Keller National Center Federal Endowment Fund"
 usc_title: 29
 usc_section: "1907"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1907"
-generated_at: "2026-03-30T02:55:18.741Z"
+generated_at: "2026-11-23T21:26:02.311Z"
+status: "active"
 ---
 
 # § 1907. Helen Keller National Center Federal Endowment Fund
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:55:18.741Z"
   - **(2)** The term “Endowment Fund corpus” means an amount equal to the Federal payments made to the Endowment Fund and amounts contributed to the Endowment Fund from non-Federal sources.
   - **(3)** The term “Endowment Fund income” means an amount equal to the total market value of the Endowment Fund minus the Endowment Fund corpus.
 - **(h)** There are authorized to be appropriated to carry out this section, such sums as may be necessary for each of the fiscal years 1999 through 2003. Such sums shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 98–221, title II, § 208](https://www.govinfo.gov/link/plaw/98/public/221), as added [Pub. L. 102–569, title IX, § 907](https://www.govinfo.gov/link/plaw/102/public/569), Oct. 29, 1992, [106 Stat. 4483](https://www.govinfo.gov/link/statute/106/4483); amended [Pub. L. 105–220, title IV, § 412(b)](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1241](https://www.govinfo.gov/link/statute/112/1241).)*

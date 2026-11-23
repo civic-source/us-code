@@ -3,9 +3,10 @@ title: "Section 4212 - Veterans’ employment emphasis under Federal contracts"
 usc_title: 38
 usc_section: "4212"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 4212"
-generated_at: "2026-03-30T02:55:53.516Z"
+generated_at: "2026-11-23T21:26:16.797Z"
+status: "active"
 ---
 
 # § 4212. Veterans’ employment emphasis under Federal contracts
@@ -32,3 +33,19 @@ generated_at: "2026-03-30T02:55:53.516Z"
     - **(C)** the maximum number and the minimum number of employees of such contractor during the period covered by the report.
   - **(2)** The Secretary of Labor shall ensure that the administration of the reporting requirement under paragraph (1) is coordinated with respect to any requirement for the contractor to make any other report to the Secretary of Labor.
   - **(3)** The Secretary of Labor shall establish and maintain an Internet website on which the Secretary of Labor shall publicly disclose the information reported to the Secretary of Labor by contractors under paragraph (1).
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Richard Nixon.
+
+## Source Credit
+
+*(Added [Pub. L. 92–540, title V, § 503(a)](https://www.govinfo.gov/link/plaw/92/public/540), Oct. 24, 1972, [86 Stat. 1097](https://www.govinfo.gov/link/statute/86/1097), § 2012; amended [Pub. L. 93–508, title IV, § 402](https://www.govinfo.gov/link/plaw/93/public/508), Dec. 3, 1974, [88 Stat. 1593](https://www.govinfo.gov/link/statute/88/1593); [Pub. L. 94–502, title VI](https://www.govinfo.gov/link/plaw/94/public/502), §§ 605, 607(2), Oct. 15, 1976, [90 Stat. 2405](https://www.govinfo.gov/link/statute/90/2405); [Pub. L. 95–520, § 6(a)](https://www.govinfo.gov/link/plaw/95/public/520), Oct. 26, 1978, [92 Stat. 1821](https://www.govinfo.gov/link/statute/92/1821); [Pub. L. 96–466, title V, § 509](https://www.govinfo.gov/link/plaw/96/public/466), title VIII, § 801(j), Oct. 17, 1980, [94 Stat. 2206](https://www.govinfo.gov/link/statute/94/2206), 2217; [Pub. L. 97–306, title III, § 310(a)](https://www.govinfo.gov/link/plaw/97/public/306), Oct. 14, 1982, [96 Stat. 1442](https://www.govinfo.gov/link/statute/96/1442); renumbered § 4212 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(b)(8), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 405](https://www.govinfo.gov/link/statute/105/405), 406; [Pub. L. 103–446, title VII, § 702(a)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4674](https://www.govinfo.gov/link/statute/108/4674); [Pub. L. 105–339](https://www.govinfo.gov/link/plaw/105/public/339), §§ 7(a), 8, Oct. 31, 1998, [112 Stat. 3188](https://www.govinfo.gov/link/statute/112/3188), 3189; [Pub. L. 106–419, title III, § 322(a)](https://www.govinfo.gov/link/plaw/106/public/419), (b), Nov. 1, 2000, [114 Stat. 1855](https://www.govinfo.gov/link/statute/114/1855); [Pub. L. 107–288, § 2(b)(1)](https://www.govinfo.gov/link/plaw/107/public/288), (2)(A)–(C), Nov. 7, 2002, [116 Stat. 2034](https://www.govinfo.gov/link/statute/116/2034), 2035; [Pub. L. 112–154, title VII, § 708](https://www.govinfo.gov/link/plaw/112/public/154), Aug. 6, 2012, [126 Stat. 1207](https://www.govinfo.gov/link/statute/126/1207).)*

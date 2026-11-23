@@ -3,9 +3,10 @@ title: "Section 18061 - Transitional reinsurance program for individual market i
 usc_title: 42
 usc_section: "18061"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18061"
-generated_at: "2026-03-30T02:56:11.515Z"
+generated_at: "2026-11-23T21:26:33.812Z"
+status: "active"
 ---
 
 # § 18061. Transitional reinsurance program for individual market in each State
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:11.515Z"
   - **(2)** A State may have more than 1 applicable reinsurance entity to carry out the reinsurance program under this section within the State and 2 or more States may enter into agreements to provide for an applicable reinsurance entity to carry out such program in all such States.
   - **(3)** An applicable reinsurance entity established under this section shall be exempt from taxation under chapter 1 of title 26. The preceding sentence shall not apply to the tax imposed by section 511 such 3 3 So in original. Probably should be preceded by “of”. title (relating to tax on unrelated business taxable income of an exempt organization).
 - **(d)** The State shall eliminate or modify any State high-risk pool to the extent necessary to carry out the reinsurance program established under this section. The State may coordinate the State high-risk pool with such program to the extent not inconsistent with the provisions of this section.
+
+## Source Credit
+
+*([Pub. L. 111–148, title I, § 1341](https://www.govinfo.gov/link/plaw/111/public/148), title X, § 10104(r), Mar. 23, 2010, [124 Stat. 208](https://www.govinfo.gov/link/statute/124/208), 906.)*

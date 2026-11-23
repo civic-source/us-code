@@ -3,9 +3,10 @@ title: "Section 5332 - Functions of Council"
 usc_title: 7
 usc_section: "5332"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 5332"
-generated_at: "2026-03-30T02:53:42.414Z"
+generated_at: "2026-11-23T21:25:28.360Z"
+status: "active"
 ---
 
 # § 5332. Functions of Council
@@ -18,3 +19,7 @@ The Council shall—
   - **(4)** submit to the Secretaries annual reports that—
     - **(A)** shall contain the components specified in paragraphs (2) and (3); and
     - **(B)** shall be included in full in the biennial reports of the Secretaries to the President for transmittal to Congress under section 5312(b) of this title .
+
+## Source Credit
+
+*([Pub. L. 101–445, title II, § 202](https://www.govinfo.gov/link/plaw/101/public/445), Oct. 22, 1990, [104 Stat. 1042](https://www.govinfo.gov/link/statute/104/1042).)*

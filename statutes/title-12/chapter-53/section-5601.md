@@ -3,9 +3,10 @@ title: "Section 5601 - Remittance transfers"
 usc_title: 12
 usc_section: "5601"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5601"
-generated_at: "2026-03-30T02:53:53.548Z"
+generated_at: "2026-11-23T21:25:37.297Z"
+status: "active"
 ---
 
 # § 5601. Remittance transfers
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:53.548Z"
   - **(1)** the manner in which the remittance history of a consumer could be used to enhance the credit score of the consumer;
   - **(2)** the current legal and business model barriers and impediments that impede the use of the remittance history of the consumer to enhance the credit score of the consumer; and
   - **(3)** recommendations on the manner in which maximum transparency and disclosure to consumers of exchange rates for remittance transfers subject to this title 3 3 See References in Text note below. and the amendments made by this title 3 may be accomplished, whether or not such exchange rates are known at the time of origination or payment by the consumer for the remittance transfer, including disclosure to the sender of the actual exchange rate used and the amount of currency that the recipient of the remittance transfer received, using the values of the currency into which the funds were exchanged, as contained in sections 1693 o –1(a)(2)(D) 3 and 1693 o –1(a)(3) of title 15 (as amended by this section).
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1073](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2060](https://www.govinfo.gov/link/statute/124/2060).)*

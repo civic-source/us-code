@@ -3,9 +3,10 @@ title: "Section 13335 - Coal refinery program"
 usc_title: 42
 usc_section: "13335"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13335"
-generated_at: "2026-03-30T02:56:11.442Z"
+generated_at: "2026-11-23T21:26:33.594Z"
+status: "active"
 ---
 
 # § 13335. Coal refinery program
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.442Z"
   - **(4)** reduction in the cost of producing such coal-derived fuels and coproducts;
   - **(5)** the control of emissions from the combustion of coal-derived fuels; and
   - **(6)** the availability for commercial use of such technologies by the year 2000.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XIII, § 1305](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2973](https://www.govinfo.gov/link/statute/106/2973).)*

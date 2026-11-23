@@ -3,9 +3,10 @@ title: "Section 300d - Establishment"
 usc_title: 42
 usc_section: "300d"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 300d"
-generated_at: "2026-03-30T02:56:10.790Z"
+generated_at: "2026-11-23T21:26:30.698Z"
+status: "active"
 ---
 
 # § 300d. Establishment
@@ -21,3 +22,9 @@ generated_at: "2026-03-30T02:56:10.790Z"
   - **(2)** disseminating, as appropriate, information on evidence-based or evidence-informed trauma care practices, taking into consideration emergency medical services and trauma care systems, including such practices identified through activities conducted under subsection (a) and which may include the identification and dissemination of performance metrics, as applicable and appropriate; and
   - **(3)** other activities, as appropriate, to optimize a coordinated and flexible approach to the emergency response and medical surge capacity of hospitals, other health care facilities, critical care, and emergency medical systems.
 - **(c)** The Secretary may make grants, and enter into cooperative agreements and contracts, for the purpose of carrying out subsection (a).
+
+“The Congress finds that—
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XII, § 1201, as added [Pub. L. 101–590, § 3](https://www.govinfo.gov/link/plaw/101/public/590), Nov. 16, 1990, [104 Stat. 2916](https://www.govinfo.gov/link/statute/104/2916); amended [Pub. L. 103–183, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/103/public/183), Dec. 14, 1993, [107 Stat. 2238](https://www.govinfo.gov/link/statute/107/2238); [Pub. L. 104–146, § 12(b)](https://www.govinfo.gov/link/plaw/104/public/146), May 20, 1996, [110 Stat. 1373](https://www.govinfo.gov/link/statute/110/1373); [Pub. L. 110–23, § 2](https://www.govinfo.gov/link/plaw/110/public/23), May 3, 2007, [121 Stat. 90](https://www.govinfo.gov/link/statute/121/90); [Pub. L. 117–328, div. FF, title II, § 2113(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5722](https://www.govinfo.gov/link/statute/136/5722).)*

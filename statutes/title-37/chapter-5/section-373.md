@@ -3,9 +3,10 @@ title: "Section 373 - Repayment of unearned portion of bonus, incentive pay, or 
 usc_title: 37
 usc_section: "373"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 373"
-generated_at: "2026-03-30T02:55:44.056Z"
+generated_at: "2026-11-23T21:26:14.222Z"
+status: "active"
 ---
 
 # § 373. Repayment of unearned portion of bonus, incentive pay, or similar benefit, and termination of remaining payments, when conditions of payment not met
@@ -40,3 +41,21 @@ generated_at: "2026-03-30T02:55:44.056Z"
     - **(B)** to perform duty in a specified skill, with or without a specified qualification or credential;
     - **(C)** to perform duty in a specified assignment, location or unit; or
     - **(D)** to perform duty for a specified period of time.
+
+Repayment and Termination
+
+Exceptions.—
+
+Discretion to provide exception to termination and repayment requirements
+
+Special rule for deceased and disabled members
+
+Special rule for members who receive sole survivorship discharge
+
+Effect of Bankruptcy
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 110–181, div. A, title VI, § 661(a)(2)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 177](https://www.govinfo.gov/link/statute/122/177); amended [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title VI, § 651(c)(1), (2)(A), Oct. 14, 2008, [122 Stat. 4496](https://www.govinfo.gov/link/statute/122/4496), 4497; [Pub. L. 111–84, div. A, title VI, § 617(b)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2355](https://www.govinfo.gov/link/statute/123/2355); [Pub. L. 119–60, div. A, title VI, § 601(d)(2)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 904](https://www.govinfo.gov/link/statute/139/904).)*

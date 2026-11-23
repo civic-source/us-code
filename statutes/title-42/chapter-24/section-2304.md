@@ -3,9 +3,10 @@ title: "Section 2304 - Definitions"
 usc_title: 42
 usc_section: "2304"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2304"
-generated_at: "2026-03-30T02:56:11.163Z"
+generated_at: "2026-11-23T21:26:32.411Z"
+status: "active"
 ---
 
 # § 2304. Definitions
@@ -34,3 +35,7 @@ The intent of Congress in the definitions as given in this section should be con
   - **(2)** a project-connected person who is entitled, in accordance with a lease or similar agreement, to residential occupancy of privately owned rental housing in the community.
 - **(l)** The term “utility” means any electrical distribution system, any natural gas distribution system, any public transportation system, or any public communication system, and any fixtures, equipment, or other property appropriate to the operation, maintenance or repair of the foregoing.
 - **(m)** The terms “single” and “single family” when used in connection with “house” or “residential property” shall include each separate unit of a residential structure which the Commission has classified as a residential structure containing two or more separate single family units pursuant to section 2331(c) of this title .
+
+## Source Credit
+
+*(Aug. 4, 1955, ch. 543, ch. 2, § 21, [69 Stat. 473](https://www.govinfo.gov/link/statute/69/473); [Pub. L. 87–719](https://www.govinfo.gov/link/plaw/87/public/719), §§ 1–4, Sept. 28, 1962, [76 Stat. 664](https://www.govinfo.gov/link/statute/76/664).)*

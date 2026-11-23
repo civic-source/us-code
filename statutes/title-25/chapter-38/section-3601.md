@@ -3,9 +3,10 @@ title: "Section 3601 - Findings"
 usc_title: 25
 usc_section: "3601"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3601"
-generated_at: "2026-03-30T02:54:52.854Z"
+generated_at: "2026-11-23T21:25:54.695Z"
+status: "active"
 ---
 
 # § 3601. Findings
@@ -21,3 +22,7 @@ The Congress finds and declares that—
   - **(7)** traditional tribal justice practices are essential to the maintenance of the culture and identity of Indian tribes and to the goals of this chapter;
   - **(8)** tribal justice systems are inadequately funded, and the lack of adequate funding impairs their operation; and
   - **(9)** tribal government involvement in and commitment to improving tribal justice systems is essential to the accomplishment of the goals of this chapter.
+
+## Source Credit
+
+*([Pub. L. 103–176, § 2](https://www.govinfo.gov/link/plaw/103/public/176), Dec. 3, 1993, [107 Stat. 2004](https://www.govinfo.gov/link/statute/107/2004).)*

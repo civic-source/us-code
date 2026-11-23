@@ -3,9 +3,10 @@ title: "Section 10479 - Mental health responses in the judicial system"
 usc_title: 34
 usc_section: "10479"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10479"
-generated_at: "2026-03-30T02:55:33.270Z"
+generated_at: "2026-11-23T21:26:09.668Z"
+status: "active"
 ---
 
 # § 10479. Mental health responses in the judicial system
@@ -70,3 +71,7 @@ generated_at: "2026-03-30T02:55:33.270Z"
   - **(2)** If the Attorney General awards multiple grants to the same applicant for the same purpose, the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that includes—
     - **(A)** a list of all duplicate grants awarded, including the total dollar amount of any such grants awarded; and
     - **(B)** the reason the Attorney General awarded the duplicate grants.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2209](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 114–255, div. B, title XIV, § 14004](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1291](https://www.govinfo.gov/link/statute/130/1291).)*

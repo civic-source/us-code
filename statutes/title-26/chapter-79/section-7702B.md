@@ -3,9 +3,10 @@ title: "Section 7702B - Treatment of qualified long-term care insurance"
 usc_title: 26
 usc_section: "7702B"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7702B"
-generated_at: "2026-03-30T02:55:27.885Z"
+generated_at: "2026-11-23T21:26:07.011Z"
+status: "active"
 ---
 
 # § 7702B. Treatment of qualified long-term care insurance
@@ -127,3 +128,21 @@ generated_at: "2026-03-30T02:55:27.885Z"
         - **(III)** Shortened benefit period.
         - **(IV)** Other similar offerings approved by the appropriate State regulatory agency.
   - **(5)** For coordination of the requirements of this subsection with State requirements, see section 4980C(f).
+
+General effective date.—
+
+In general
+
+Reserve method
+
+Continuation of existing policies
+
+Exchanges of existing policies
+
+Issuance of certain riders permitted
+
+Application of per diem limitation to existing contracts
+
+## Source Credit
+
+*(Added and amended [Pub. L. 104–191, title III](https://www.govinfo.gov/link/plaw/104/public/191), §§ 321(a), 325, Aug. 21, 1996, [110 Stat. 2054](https://www.govinfo.gov/link/statute/110/2054), 2063; [Pub. L. 105–34, title XVI, § 1602(b)](https://www.govinfo.gov/link/plaw/105/public/34), (e), Aug. 5, 1997, [111 Stat. 1094](https://www.govinfo.gov/link/statute/111/1094); [Pub. L. 105–206, title VI, § 6023(28)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 826](https://www.govinfo.gov/link/statute/112/826); [Pub. L. 108–311, title II, § 207(25)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1178](https://www.govinfo.gov/link/statute/118/1178); [Pub. L. 109–280, title VIII, § 844(c)](https://www.govinfo.gov/link/plaw/109/public/280), (f), Aug. 17, 2006, [120 Stat. 1011](https://www.govinfo.gov/link/statute/120/1011), 1013.)*

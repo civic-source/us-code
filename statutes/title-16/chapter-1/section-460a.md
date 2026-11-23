@@ -3,12 +3,17 @@ title: "Section 460a - Licenses or permits for right-of-way over parkway lands"
 usc_title: 16
 usc_section: "460a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 460a"
-generated_at: "2026-03-30T02:54:22.810Z"
+generated_at: "2026-11-23T21:25:51.557Z"
+status: "active"
 ---
 
 # § 460a. Licenses or permits for right-of-way over parkway lands
 
 In the administration of the Natchez Trace Parkway, the Secretary of the Interior may issue revocable licenses or permits for rights-of-way over, across, and upon parkway lands, or for the use of parkway lands by the owners or lessees of adjacent lands, for such purposes and under such nondiscriminatory terms, regulations, and conditions as he may determine to be not inconsistent with the use of such lands for parkway purposes.
 
+
+## Source Credit
+
+*(May 18, 1938, ch. 251, § 2, [52 Stat. 408](https://www.govinfo.gov/link/statute/52/408).)*

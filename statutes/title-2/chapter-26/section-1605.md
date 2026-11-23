@@ -3,9 +3,10 @@ title: "Section 1605 - Disclosure and enforcement"
 usc_title: 2
 usc_section: "1605"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1605"
-generated_at: "2026-03-30T02:53:04.816Z"
+generated_at: "2026-11-23T21:25:21.237Z"
+status: "active"
 ---
 
 # § 1605. Disclosure and enforcement
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:04.816Z"
 - **(b)**
   - **(1)** The Attorney General shall report to the congressional committees referred to in paragraph (2), after the end of each semiannual period beginning on January 1 and July 1, the aggregate number of enforcement actions taken by the Department of Justice under this chapter during that semiannual period and, by case, any sentences imposed, except that such report shall not include the names of individuals, or personally identifiable information, that is not already a matter of public record.
   - **(2)** The congressional committees referred to in paragraph (1) are the Committee on Homeland Security and Governmental Affairs and the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 104–65, § 6](https://www.govinfo.gov/link/plaw/104/public/65), Dec. 19, 1995, [109 Stat. 698](https://www.govinfo.gov/link/statute/109/698); [Pub. L. 110–81, title II](https://www.govinfo.gov/link/plaw/110/public/81), §§ 201(b)(3), 209(a), (b), 210, Sept. 14, 2007, [121 Stat. 742](https://www.govinfo.gov/link/statute/121/742), 748.)*

@@ -3,9 +3,10 @@ title: "Section 1600d - Limitations on Federal expenditures affecting Floodway"
 usc_title: 43
 usc_section: "1600d"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1600d"
-generated_at: "2026-03-30T02:55:57.478Z"
+generated_at: "2026-11-23T21:26:19.850Z"
+status: "active"
 ---
 
 # § 1600d. Limitations on Federal expenditures affecting Floodway
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:57.478Z"
 - **(b)** An expenditure or financial assistance made available under authority of Federal law shall, for purposes of this chapter, be a new expenditure or new financial assistance if—
   - **(1)** in any case with respect to which specific appropriations are required, no money for construction or purchase purposes was appropriated before October 8, 1986 ; or
   - **(2)** no legally binding commitment for the expenditure or financial assistance was made before October 8, 1986 .
+
+## Source Credit
+
+*([Pub. L. 99–450, § 6](https://www.govinfo.gov/link/plaw/99/public/450), Oct. 8, 1986, [100 Stat. 1132](https://www.govinfo.gov/link/statute/100/1132).)*

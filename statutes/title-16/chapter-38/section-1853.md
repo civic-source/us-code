@@ -3,9 +3,10 @@ title: "Section 1853 - Contents of fishery management plans"
 usc_title: 16
 usc_section: "1853"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1853"
-generated_at: "2026-03-30T02:54:22.989Z"
+generated_at: "2026-11-23T21:25:51.922Z"
+status: "active"
 ---
 
 # § 1853. Contents of fishery management plans
@@ -74,3 +75,11 @@ generated_at: "2026-03-30T02:54:22.989Z"
 - **(c)** Proposed regulations which the Council deems necessary or appropriate for the purposes of—
   - **(1)** implementing a fishery management plan or plan amendment shall be submitted to the Secretary simultaneously with the plan or amendment under section 1854 of this title ; and
   - **(2)** making modifications to regulations implementing a fishery management plan or plan amendment may be submitted to the Secretary at any time after the plan or amendment is approved under section 1854 of this title .
+
+“The amendment made by subsection (a)(10) [amending this section]—
+
+“The amendments made by paragraph (1) [amending this section] apply to each fishery management plan that—
+
+## Source Credit
+
+*([Pub. L. 94–265, title III, § 303](https://www.govinfo.gov/link/plaw/94/public/265), Apr. 13, 1976, [90 Stat. 351](https://www.govinfo.gov/link/statute/90/351); [Pub. L. 95–354, § 5(2)](https://www.govinfo.gov/link/plaw/95/public/354), (3), Aug. 28, 1978, [92 Stat. 521](https://www.govinfo.gov/link/statute/92/521); [Pub. L. 97–453, § 6](https://www.govinfo.gov/link/plaw/97/public/453), Jan. 12, 1983, [96 Stat. 2486](https://www.govinfo.gov/link/statute/96/2486); [Pub. L. 99–659, title I](https://www.govinfo.gov/link/plaw/99/public/659), §§ 101(c)(2), 105(a)(1), (b), Nov. 14, 1986, [100 Stat. 3707](https://www.govinfo.gov/link/statute/100/3707), 3711; [Pub. L. 101–627, title I, § 109](https://www.govinfo.gov/link/plaw/101/public/627), Nov. 28, 1990, [104 Stat. 4447](https://www.govinfo.gov/link/statute/104/4447); [Pub. L. 102–251, title III, § 301(g)](https://www.govinfo.gov/link/plaw/102/public/251), Mar. 9, 1992, [106 Stat. 64](https://www.govinfo.gov/link/statute/106/64); [Pub. L. 104–297, title I, § 108(a)](https://www.govinfo.gov/link/plaw/104/public/297), (c)–(e), Oct. 11, 1996, [110 Stat. 3574–3576](https://www.govinfo.gov/link/statute/110/3574); [Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(a)(1), (2)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–238; [Pub. L. 109–479, title I](https://www.govinfo.gov/link/plaw/109/public/479), §§ 101(b), 104(a), 105, 106(a)(1), Jan. 12, 2007, [120 Stat. 3579](https://www.govinfo.gov/link/statute/120/3579), 3584–3586.)*

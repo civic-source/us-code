@@ -3,9 +3,10 @@ title: "Section 1572 - Canal or canal lining"
 usc_title: 43
 usc_section: "1572"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1572"
-generated_at: "2026-03-30T02:55:57.476Z"
+generated_at: "2026-11-23T21:26:19.846Z"
+status: "active"
 ---
 
 # § 1572. Canal or canal lining
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:57.476Z"
 - **(c)** The Secretary is authorized to acquire by purchase, eminent domain, or exchange private lands or interests therein, as may be determined by him to be appropriate, within the Imperial Irrigation District on the Imperial East Mesa which receive, or which have been granted rights to receive, water from Imperial Irrigation District’s capacity in the Coachella Canal. Costs of such acquisitions shall be nonreimbursable and the Secretary shall return such lands to the public domain. The United States shall not acquire any water rights by reason of this land acquisition.
 - **(d)** The Secretary is authorized to credit Imperial Irrigation District against its final payments for certain outstanding construction charges payable to the United States on account of capacity to be relinquished in the Coachella Canal as a result of the canal lining program, all as determined by the Secretary: Provided , That, relinquishment of capacity shall not affect the established basis for allocating operation and maintenance costs of the main All-American Canal to existing contractors.
 - **(e)** The Secretary is authorized and directed to cede the following land to the Cocopah Tribe of Indians, subject to rights-of-way for existing levees, to be held in trust by the United States for the Cocopah Tribe of Indians: Township 9 south, range 25 west of the Gila and Salt River meridian, Arizona; Section 25: Lots 18, 19, 20, 21, 22, and 23; Section 26: Lots 1, 12, 13, 14, and 15; Section 27: Lot 3; and all accretion to the above described lands. The Secretary is authorized and directed to construct three bridges, one of which shall be capable of accommodating heavy vehicular traffic, over the portion of the bypass drain which crosses the reservation of the Cocopah Tribe of Indians. The transfer of lands to the Cocopah Indian Reservation and the construction of bridges across the bypass drain shall constitute full and complete payment to said tribe for the rights-of-way required for construction of the bypass drain and electrical transmission lines for works authorized by this subchapter.
+
+## Source Credit
+
+*([Pub. L. 93–320, title I, § 102](https://www.govinfo.gov/link/plaw/93/public/320), June 24, 1974, [88 Stat. 268](https://www.govinfo.gov/link/statute/88/268).)*

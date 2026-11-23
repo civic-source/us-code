@@ -3,9 +3,10 @@ title: "Section 1708 - Temporary lodging"
 usc_title: 38
 usc_section: "1708"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1708"
-generated_at: "2026-03-30T02:55:53.482Z"
+generated_at: "2026-11-23T21:26:16.624Z"
+status: "active"
 ---
 
 # § 1708. Temporary lodging
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:53.482Z"
   - **(3)** establishing criteria for persons considered to be accompanying a veteran under subsection (b)(2);
   - **(4)** establishing criteria for the use of the premises of temporary lodging facilities under this section; and
   - **(5)** establishing any other limitations, conditions, and priorities that the Secretary considers appropriate with respect to lodging under this section.
+
+## Source Credit
+
+*(Added [Pub. L. 106–419, title II, § 221(a)](https://www.govinfo.gov/link/plaw/106/public/419), Nov. 1, 2000, [114 Stat. 1844](https://www.govinfo.gov/link/statute/114/1844); amended [Pub. L. 110–387, title IX, § 901(a)(8)](https://www.govinfo.gov/link/plaw/110/public/387), Oct. 10, 2008, [122 Stat. 4142](https://www.govinfo.gov/link/statute/122/4142).)*

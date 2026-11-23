@@ -3,9 +3,10 @@ title: "Section 2442 - Recruitment or use of child soldiers"
 usc_title: 18
 usc_section: "2442"
 chapter: 118
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2442"
-generated_at: "2026-03-30T02:54:16.506Z"
+generated_at: "2026-11-23T21:25:44.157Z"
+status: "active"
 ---
 
 # § 2442. Recruitment or use of child soldiers
@@ -24,3 +25,19 @@ generated_at: "2026-03-30T02:54:16.506Z"
     - **(A)** combat or military activities related to combat, including sabotage and serving as a decoy, a courier, or at a military checkpoint; or
     - **(B)** direct support functions related to combat, including transporting supplies or providing other services.
   - **(2)** The term “armed force or group” means any army, militia, or other military organization, whether or not it is state-sponsored, excluding any group assembled solely for nonviolent political association.
+
+Offense
+
+Penalty
+
+Jurisdiction
+
+Definitions
+
+Participate actively in hostilities
+
+Armed force or group
+
+## Source Credit
+
+*(Added [Pub. L. 110–340, § 2(a)(1)](https://www.govinfo.gov/link/plaw/110/public/340), Oct. 3, 2008, [122 Stat. 3735](https://www.govinfo.gov/link/statute/122/3735).)*

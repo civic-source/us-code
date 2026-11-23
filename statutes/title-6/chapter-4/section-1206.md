@@ -3,12 +3,17 @@ title: "Section 1206 - Use of transportation security card in hazmat licensing"
 usc_title: 6
 usc_section: "1206"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1206"
-generated_at: "2026-03-30T02:53:09.509Z"
+generated_at: "2026-11-23T21:25:25.877Z"
+status: "active"
 ---
 
 # § 1206. Use of transportation security card in hazmat licensing
 
   - **(1)** An individual who has a valid transportation employee identification card issued by the Secretary under section 70105 of title 46 shall be deemed to have met the background records check required under section 5103a of title 49 .
   - **(2)** Nothing in this section prevents or preempts a State from conducting a criminal records check of an individual that has applied for a license to operate a motor vehicle transporting in commerce a hazardous material.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XV, § 1556(b)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 475](https://www.govinfo.gov/link/statute/121/475).)*

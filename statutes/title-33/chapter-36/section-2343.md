@@ -3,9 +3,10 @@ title: "Section 2343 - Independent peer review"
 usc_title: 33
 usc_section: "2343"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2343"
-generated_at: "2026-03-30T02:55:41.126Z"
+generated_at: "2026-11-23T21:26:11.452Z"
+status: "active"
 ---
 
 # § 2343. Independent peer review
@@ -99,3 +100,7 @@ generated_at: "2026-03-30T02:55:41.126Z"
     - **(D)** does not carry out or advocate for or against Federal water resources projects; and
     - **(E)** has experience in establishing and administering peer review panels.
   - **(4)** The term “total cost”, as used with respect to a water resources project, means the cost of construction (including planning and designing) of the project. In the case of a project for hurricane and storm damage reduction or flood damage reduction that includes periodic nourishment over the life of the project, the term includes the total cost of the nourishment.
+
+## Source Credit
+
+*([Pub. L. 110–114, title II, § 2034](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1086](https://www.govinfo.gov/link/statute/121/1086); [Pub. L. 113–121, title I, § 1044](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1250](https://www.govinfo.gov/link/statute/128/1250); [Pub. L. 115–270, title I, § 1141](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3785](https://www.govinfo.gov/link/statute/132/3785); [Pub. L. 117–286, § 4(a)(203)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4328](https://www.govinfo.gov/link/statute/136/4328); [Pub. L. 118–272, div. A, title I, § 1122](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3015](https://www.govinfo.gov/link/statute/138/3015).)*

@@ -3,9 +3,10 @@ title: "Section 1052 - Authorization of Secretary of the Interior"
 usc_title: 16
 usc_section: "1052"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1052"
-generated_at: "2026-03-30T02:54:22.940Z"
+generated_at: "2026-11-23T21:25:51.806Z"
+status: "active"
 ---
 
 # § 1052. Authorization of Secretary of the Interior
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:22.940Z"
   - **(3)** employ, as authorized by section 3109 of title 5 , but at rates not to exceed $50 per diem plus expenses, experts, consultants, or organizations thereof, as required to assist with the planning, design, construction, and operation of the National Fisheries Center and Aquarium;
   - **(4)** permit on such terms and conditions as he shall consider to be in the public interest the use of auditorium and other areas for meetings and exhibits of societies and groups whose purposes are related to fish and wildlife generally; and
   - **(5)** encourage the use of the educational and scientific facilities and equipment at the National Fisheries Center and Aquarium by individuals of any nation with which the United States maintains diplomatic relations and which extends similar use of its educational and scientific facilities and equipment to citizens of the United States.
+
+## Source Credit
+
+*([Pub. L. 87–758, § 2](https://www.govinfo.gov/link/plaw/87/public/758), Oct. 9, 1962, [76 Stat. 752](https://www.govinfo.gov/link/statute/76/752).)*

@@ -3,9 +3,10 @@ title: "Section 7274l - Authority to transfer certain Department of Energy prope
 usc_title: 42
 usc_section: "7274l"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7274l"
-generated_at: "2026-03-30T02:56:11.286Z"
+generated_at: "2026-11-23T21:26:33.060Z"
+status: "active"
 ---
 
 # § 7274l. Authority to transfer certain Department of Energy property
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.286Z"
 - **(b)** Property referred to in subsection (a) is the following property of the Department of Energy that is located at a Department of Energy facility to be closed or reconfigured:
   - **(1)** The personal property and equipment at the facility that the Secretary determines to be excess to the needs of the Department of Energy.
   - **(2)** Any personal property and equipment at the facility (other than the property and equipment referred to in paragraph (1)) the replacement cost of which does not exceed an amount equal to 110 percent of the costs of relocating the property or equipment to another facility of the Department of Energy.
+
+## Source Credit
+
+*([Pub. L. 103–160, div. C, title XXXI, § 3155](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1953](https://www.govinfo.gov/link/statute/107/1953).)*

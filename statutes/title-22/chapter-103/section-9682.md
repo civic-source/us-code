@@ -3,9 +3,10 @@ title: "Section 9682 - Reorganization plan"
 usc_title: 22
 usc_section: "9682"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9682"
-generated_at: "2026-03-30T02:55:05.472Z"
+generated_at: "2026-11-23T21:25:58.785Z"
+status: "active"
 ---
 
 # § 9682. Reorganization plan
@@ -30,3 +31,9 @@ generated_at: "2026-03-30T02:55:05.472Z"
 - **(e)**
   - **(1)** The reorganization plan described in this section, including any modifications or revisions of the plan under subsection (c), shall become effective for an agency on the date specified in the plan (or the plan as modified pursuant to subsection (d)), except that such date may not be earlier than 90 days after the date the President has transmitted the reorganization plan to the appropriate congressional committees pursuant to subsection (a).
   - **(2)** Nothing in this subsection may be construed to require the transfer of functions, personnel, records, balances of appropriations, or other assets of an agency on a single date.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. F, title VI, § 1462](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3511](https://www.govinfo.gov/link/statute/132/3511).)*

@@ -3,9 +3,10 @@ title: "Section 21145 - No effect on other laws"
 usc_title: 52
 usc_section: "21145"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 21145"
-generated_at: "2026-03-30T02:56:30.169Z"
+generated_at: "2026-11-23T21:26:42.340Z"
+status: "active"
 ---
 
 # § 21145. No effect on other laws
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:30.169Z"
   - **(5)** The Americans with Disabilities Act of 1990 ( 42 U.S.C. 12101 et seq.).
   - **(6)** The Rehabilitation Act of 1973 ( 29 U.S.C. 701 et seq.).
 - **(b)** The approval by the Administrator or the Commission of a payment or grant application under subchapter I or subchapter II, or any other action taken by the Commission or a State under such subchapter, shall not be considered to have any effect on requirements for preclearance under section 5 of the Voting Rights Act of 1965 ( 42 U.S.C. 1973c ) [now 52 U.S.C. 10304 ] or any other requirements of such Act [ 52 U.S.C. 10301 et seq.].
+
+## Source Credit
+
+*([Pub. L. 107–252, title IX, § 906](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1729](https://www.govinfo.gov/link/statute/116/1729).)*

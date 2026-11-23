@@ -3,9 +3,10 @@ title: "Section 8 - Coverage for individuals participating in approved clinical 
 usc_title: 42
 usc_section: "8"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-30T02:56:10.832Z"
+generated_at: "2026-11-23T21:26:30.891Z"
+status: "active"
 ---
 
 # § 300gg–8. Coverage for individuals participating in approved clinical trials
@@ -50,4 +51,10 @@ generated_at: "2026-03-30T02:56:10.832Z"
 - **(e)** In this section, the term “life-threatening condition” means any disease or condition from which the likelihood of death is probable unless the course of the disease or condition is interrupted.
 - **(f)** Nothing in this section shall be construed to limit a plan’s or issuer’s coverage with respect to clinical trials.
 - **(g)** Notwithstanding any provision of chapter 89 of title 5, this section shall apply to health plans offered under the program under such chapter.
-- **(h)** Notwithstanding any other provision of this chapter, nothing in this section shall preempt State laws that require a clinical trials policy for State regulated health insurance plans that is in addition to the policy required under this section..
+- **(h)** Notwithstanding any other provision of this chapter, nothing in this section shall preempt State laws that require a clinical trials policy for State regulated health insurance plans that is in addition to the policy required under this section.
+
+Federally funded trials
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVII, § 2709, as added [Pub. L. 111–148, title X, § 10103(c)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 892](https://www.govinfo.gov/link/statute/124/892).)*

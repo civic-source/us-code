@@ -3,9 +3,10 @@ title: "Section 1 - Enforcement action plan for advertising and promotion restri
 usc_title: 21
 usc_section: "1"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 1"
-generated_at: "2026-03-30T02:54:54.280Z"
+generated_at: "2026-11-23T21:25:56.184Z"
+status: "active"
 ---
 
 # § 387f–1. Enforcement action plan for advertising and promotion restrictions
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:54.280Z"
 - **(b)**
   - **(1)** Not later than 3 months after June 22, 2009 , the Secretary shall inform State, local, and tribal governments of the authority provided to such entities under section 1334(c) of title 15 , as added by section 203 of this division, or preserved by such entities under section 387p of this title , as added by section 101(b) of this division.
   - **(2)** At the request of communities seeking assistance to prevent underage tobacco use, the Secretary shall provide such assistance, including assistance with strategies to address the prevention of underage tobacco use in communities with a disproportionate use of menthol cigarettes by minors.
+
+## Source Credit
+
+*([Pub. L. 111–31, div. A, title I, § 105](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1841](https://www.govinfo.gov/link/statute/123/1841).)*

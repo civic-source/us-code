@@ -3,9 +3,10 @@ title: "Section 53401 - Definitions"
 usc_title: 46
 usc_section: "53401"
 chapter: 534
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 53401"
-generated_at: "2026-03-30T02:56:15.573Z"
+generated_at: "2026-11-23T21:26:37.258Z"
+status: "active"
 ---
 
 # § 53401. Definitions
@@ -29,3 +30,27 @@ In this chapter:
     - **(B)** does not include a trust for which any person that is not a citizen of the United States has authority to direct, or participate in directing, a trustee for a trust in matters involving any ownership or operation of the vessel that may adversely affect the interests of the United States or in removing a trustee without cause, either directly or indirectly through the control of another person, unless the trust instrument provides that persons who are not citizens of the United States may not hold more than 25 percent of the aggregate authority to so direct or remove a trustee; and
     - **(C)** may include a trust for which a person who is not a citizen of the United States holds more than 25 percent of the beneficial interest in the trust.
   - **(8)** The term “long term charter” means any time charter of a product tank vessel to the United States Government that, together with options, occurs for a continuous period of more than 180 days.
+
+Foreign commerce
+
+Participating fleet vessel
+
+Person
+
+Product tank vessel
+
+Program participant
+
+Secretary
+
+United states citizen trust
+
+Long term charter
+
+In general
+
+Appropriate committees of congress defined
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. C, title XXXV, § 3511(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4408](https://www.govinfo.gov/link/statute/134/4408); amended [Pub. L. 117–81, div. C, title XXXV, § 3515(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2243](https://www.govinfo.gov/link/statute/135/2243).)*

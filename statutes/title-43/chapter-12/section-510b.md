@@ -3,9 +3,10 @@ title: "Section 510b - Extraordinary operation and maintenance work performed by
 usc_title: 43
 usc_section: "510b"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 510b"
-generated_at: "2026-03-30T02:55:57.454Z"
+generated_at: "2026-11-23T21:26:19.788Z"
+status: "active"
 ---
 
 # § 510b. Extraordinary operation and maintenance work performed by the Secretary
@@ -70,3 +71,7 @@ generated_at: "2026-03-30T02:55:57.454Z"
   - **(7)** Nothing in this subsection affects—
     - **(A)** any funding provided, or contracts entered into, under subsection (a) before December 27, 2020 ; or
     - **(B)** the use of funds otherwise made available to the Secretary to carry out subsection (a).
+
+## Source Credit
+
+*([Pub. L. 111–11, title IX, § 9603](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1348](https://www.govinfo.gov/link/statute/123/1348); [Pub. L. 116–260, div. FF, title XI, § 1101](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3221](https://www.govinfo.gov/link/statute/134/3221).)*

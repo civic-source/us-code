@@ -3,9 +3,10 @@ title: "Section 4882 - Industrial mobilization: orders; priorities; possession o
 usc_title: 10
 usc_section: "4882"
 chapter: 385
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4882"
-generated_at: "2026-03-30T02:53:38.215Z"
+generated_at: "2026-11-23T21:25:32.800Z"
+status: "active"
 ---
 
 # § 4882. Industrial mobilization: orders; priorities; possession of manufacturing plants; violations
@@ -19,3 +20,19 @@ generated_at: "2026-03-30T02:53:38.215Z"
 - **(d)** The President, through the head of any department, may manufacture products that are needed in time of war or when war is imminent, in any plant that is seized under subsection (c).
 - **(e)** Each person or industry from whom products or materials are ordered under subsection (a) is entitled to fair and just compensation. Each person or industry whose plant is seized under subsection (c) is entitled to a fair and just rental.
 - **(f)** Whoever fails to comply with this section shall be imprisoned for not more than three years and fined under title 18.
+
+Ordering Authority
+
+Compliance With Order Required
+
+Seizure of Manufacturing Plants Upon Noncompliance
+
+Use of Seized Plant
+
+Compensation Required
+
+Criminal Penalty
+
+## Source Credit
+
+*(Added [Pub. L. 103–160, div. A, title VIII, § 822(a)(1)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1704](https://www.govinfo.gov/link/statute/107/1704), § 2538; amended [Pub. L. 103–337, div. A, title VIII, § 811](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2815](https://www.govinfo.gov/link/statute/108/2815); renumbered § 4882, [Pub. L. 116–283, div. A, title XVIII, § 1870(e)(2)(A)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4286](https://www.govinfo.gov/link/statute/134/4286).)*

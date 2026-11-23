@@ -3,9 +3,10 @@ title: "Section 3141 - Grants for public works and economic development"
 usc_title: 42
 usc_section: "3141"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3141"
-generated_at: "2026-03-30T02:56:11.182Z"
+generated_at: "2026-11-23T21:26:32.534Z"
+status: "active"
 ---
 
 # § 3141. Grants for public works and economic development
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.182Z"
   - **(7)** promote travel and tourism; or
   - **(8)** promote blue economy activities.
 - **(d)** Not more than 15 percent of the amounts made available to carry out this section may be expended in any 1 State.
+
+## Source Credit
+
+*([Pub. L. 89–136, title II, § 201](https://www.govinfo.gov/link/plaw/89/public/136), as added [Pub. L. 105–393, title I, § 102(a)](https://www.govinfo.gov/link/plaw/105/public/393), Nov. 13, 1998, [112 Stat. 3601](https://www.govinfo.gov/link/statute/112/3601); amended [Pub. L. 118–272, div. B, title II, § 2213(a)](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3179](https://www.govinfo.gov/link/statute/138/3179).)*

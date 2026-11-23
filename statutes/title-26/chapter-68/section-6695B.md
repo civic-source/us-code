@@ -3,9 +3,10 @@ title: "Section 6695B - Penalty for substantial misstatements on certification p
 usc_title: 26
 usc_section: "6695B"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6695B"
-generated_at: "2026-03-30T02:55:27.864Z"
+generated_at: "2026-11-23T21:26:06.921Z"
+status: "active"
 ---
 
 # § 6695B. Penalty for substantial misstatements on certification provided by supplier
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:27.864Z"
   - **(2)** $5,000.
 - **(c)** No penalty shall be imposed under subsection (a) if the person establishes to the satisfaction of the Secretary that any inaccuracy or falsity described in subsection (a)(2) is due to a reasonable cause and not willful neglect.
 - **(d)** Any term used in this section which is also used in section 7701(a)(52) shall have the meaning given such term in such section.
+
+## Source Credit
+
+*(Added [Pub. L. 119–21, title VII, § 70512(k)(1)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 268](https://www.govinfo.gov/link/statute/139/268).)*

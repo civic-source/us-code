@@ -3,9 +3,10 @@ title: "Section 10314 - Advances"
 usc_title: 46
 usc_section: "10314"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 10314"
-generated_at: "2026-03-30T02:56:15.553Z"
+generated_at: "2026-11-23T21:26:37.111Z"
+status: "active"
 ---
 
 # § 10314. Advances
@@ -20,3 +21,16 @@ generated_at: "2026-03-30T02:56:15.553Z"
 - **(c)** This section applies to a foreign vessel when in waters of the United States. An owner, charterer, managing operator, agent, or master of a foreign vessel violating this section is liable to the Government for the same penalty as an owner, charterer, managing operator, agent, or master of a vessel of the United States for the same violation.
 - **(d)** The owner, charterer, managing operator, agent, or master of a vessel seeking clearance from a port of the United States shall present the agreement required by section 10302 of this title at the office of clearance. Clearance may be granted to a vessel only if this section has been complied with.
 - **(e)** This section does not apply to a fishing or whaling vessel or a yacht.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 10314 | 46:599 |
+
+
+Historical and Revision Notes
+
+10314
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 567](https://www.govinfo.gov/link/statute/97/567); [Pub. L. 99–640, § 10(b)(4)](https://www.govinfo.gov/link/plaw/99/public/640), Nov. 10, 1986, [100 Stat. 3550](https://www.govinfo.gov/link/statute/100/3550).)*

@@ -3,9 +3,10 @@ title: "Section 20914 - Information required in registration"
 usc_title: 34
 usc_section: "20914"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20914"
-generated_at: "2026-03-30T02:55:33.300Z"
+generated_at: "2026-11-23T21:26:09.796Z"
+status: "active"
 ---
 
 # § 20914. Information required in registration
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:33.300Z"
   - **(7)** A photocopy of a valid driver’s license or identification card issued to the sex offender by a jurisdiction.
   - **(8)** Any other information required by the Attorney General.
 - **(c)** A sex offender shall provide and update information required under subsection (a), including information relating to intended travel outside the United States required under paragraph (7) of that subsection, in conformity with any time and manner requirements prescribed by the Attorney General.
+
+## Source Credit
+
+*([Pub. L. 109–248, title I, § 114](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 594](https://www.govinfo.gov/link/statute/120/594); [Pub. L. 114–119, § 6(a)](https://www.govinfo.gov/link/plaw/114/public/119), Feb. 8, 2016, [130 Stat. 22](https://www.govinfo.gov/link/statute/130/22).)*

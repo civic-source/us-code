@@ -3,9 +3,10 @@ title: "Section 942 - Coordination of 9–1–1, E9–1–1, and Next Generation
 usc_title: 47
 usc_section: "942"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 942"
-generated_at: "2026-03-30T02:56:24.529Z"
+generated_at: "2026-11-23T21:26:36.082Z"
+status: "active"
 ---
 
 # § 942. Coordination of 9–1–1, E9–1–1, and Next Generation 9–1–1 implementation
@@ -72,3 +73,15 @@ generated_at: "2026-03-30T02:56:24.529Z"
   - **(6)** The term “Office” means the 9–1–1 Implementation Coordination Office.
   - **(7)** The term “public safety answering point” has the meaning given the term in section 222 of this title .
   - **(8)** The term “State” means any State of the United States, the District of Columbia, Puerto Rico, American Samoa, Guam, the United States Virgin Islands, the Northern Mariana Islands, and any other territory or possession of the United States.
+
+In general
+
+Implementation plan
+
+“The Congress finds that—
+
+“The purposes of this title [see section 101 of title I of Pub. L. 108–494 , set out as a Short Title of 2004 Amendment note under section 901 of this title ] are—
+
+## Source Credit
+
+*([Pub. L. 102–538, title I, § 158](https://www.govinfo.gov/link/plaw/102/public/538), as added [Pub. L. 108–494, title I, § 104](https://www.govinfo.gov/link/plaw/108/public/494), Dec. 23, 2004, [118 Stat. 3987](https://www.govinfo.gov/link/statute/118/3987); amended [Pub. L. 110–53, title XXIII, § 2303](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 543](https://www.govinfo.gov/link/statute/121/543); [Pub. L. 110–283, title I, § 102](https://www.govinfo.gov/link/plaw/110/public/283), July 23, 2008, [122 Stat. 2623](https://www.govinfo.gov/link/statute/122/2623); [Pub. L. 112–96, title VI, § 6503](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 237](https://www.govinfo.gov/link/statute/126/237); [Pub. L. 117–58, div. B, title IV, § 24215](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 829](https://www.govinfo.gov/link/statute/135/829).)*

@@ -3,12 +3,17 @@ title: "Section 1701 - Publications for public distribution to be distributed by
 usc_title: 44
 usc_section: "1701"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 1701"
-generated_at: "2026-03-30T02:55:56.291Z"
+generated_at: "2026-11-23T21:26:18.396Z"
+status: "active"
 ---
 
 # § 1701. Publications for public distribution to be distributed by the Director of the Government Publishing Office; mailing lists
 
 Money appropriated by any Act may not be used for services in an executive department or other Government establishment at the District of Columbia, in the work of addressing, wrapping, mailing, or otherwise dispatching a publication for public distribution, except maps, weather reports, and weather cards issued by them or for the purchase of material or supplies to be used in this work. The Director of the Government Publishing Office shall perform this work at the Government Publishing Office. The head of an executive department, independent office, and establishment of the Government at the District of Columbia, shall furnish from time to time to the Director of the Government Publishing Office mailing lists, in convenient form, and changes in them, or penalty mail slips, for use in the public distribution of publications issued by the department or establishment. The Director of the Government Publishing Office may furnish copies of a publication only in accordance with law or the instruction of the head of the department or establishment issuing the publication. This section does not apply to orders, instructions, directions, notices, or circulars of information printed for and issued by an executive department or other Government establishment or to the distribution of public documents by Senators or Members of the House of Representatives or to the Senate Service Department, House of Representatives Publications Distribution Service, and document rooms of the Senate or House of Representatives.
 
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1278](https://www.govinfo.gov/link/statute/82/1278); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), (c), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537).)*

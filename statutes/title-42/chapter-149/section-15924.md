@@ -3,9 +3,10 @@ title: "Section 15924 - Project to improve Federal permit coordination"
 usc_title: 42
 usc_section: "15924"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15924"
-generated_at: "2026-03-30T02:56:11.465Z"
+generated_at: "2026-11-23T21:26:33.685Z"
+status: "active"
 ---
 
 # § 15924. Project to improve Federal permit coordination
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:56:11.465Z"
 - **(i)** Nothing in this section affects—
   - **(1)** the operation of any Federal or State law; or
   - **(2)** any delegation of authority made by the head of a Federal agency whose employees are participating in the Project.
+
+## Source Credit
+
+*([Pub. L. 109–58, title III, § 365](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 723](https://www.govinfo.gov/link/statute/119/723); [Pub. L. 113–69, § 1](https://www.govinfo.gov/link/plaw/113/public/69), Dec. 26, 2013, [127 Stat. 1207](https://www.govinfo.gov/link/statute/127/1207); [Pub. L. 113–291, div. B, title XXX, § 3021(a)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3759](https://www.govinfo.gov/link/statute/128/3759).)*

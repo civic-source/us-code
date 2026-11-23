@@ -3,9 +3,10 @@ title: "Section 10191 - Crime prevention campaign grant"
 usc_title: 34
 usc_section: "10191"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10191"
-generated_at: "2026-03-30T02:55:33.261Z"
+generated_at: "2026-11-23T21:26:09.626Z"
+status: "active"
 ---
 
 # § 10191. Crime prevention campaign grant
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:33.261Z"
   - **(2)** for fiscal year 2008, $8,000,000;
   - **(3)** for fiscal year 2009, $9,000,000; and
   - **(4)** for fiscal year 2010, $10,000,000.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 519](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 109–248, title VI, § 626](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 636](https://www.govinfo.gov/link/statute/120/636).)*

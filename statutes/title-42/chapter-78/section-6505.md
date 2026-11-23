@@ -3,9 +3,10 @@ title: "Section 6505 - Executive department responsibility for studies to determ
 usc_title: 42
 usc_section: "6505"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6505"
-generated_at: "2026-03-30T02:56:11.262Z"
+generated_at: "2026-11-23T21:26:32.958Z"
+status: "active"
 ---
 
 # § 6505. Executive department responsibility for studies to determine procedures used in development, production, transportation, and distribution of petroleum resources in reserve; reports to Congress by President; establishment of task force by Secretary of the Interior; purposes; membership; report and recommendations to Congress by Secretary; contents
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.262Z"
   - **(1)** The Secretary of the Interior shall establish a task force to conduct a study to determine the values of, and best uses for, the lands contained in the reserve, taking into consideration (A) the natives who live or depend upon such lands, (B) the scenic, historical, recreational, fish and wildlife, and wilderness values, (C) mineral potential, and (D) other values of such lands.
   - **(2)** Such task force shall be composed of representatives from the government of Alaska, the Arctic slope native community, and such offices and bureaus of the Department of the Interior as the Secretary of the Interior deems appropriate, including, but not limited to, the Bureau of Land Management, the United States Fish and Wildlife Service, the United States Geological Survey, and the United States Bureau of Mines.
   - **(3)** The Secretary of the Interior shall submit a report, together with the concurring or dissenting views, if any, of any non-Federal representatives of the task force, of the results of such study to the Committees on Interior and Insular Affairs of the Senate and the House of Representatives within three years after April 5, 1976 , and shall include in such report his recommendations with respect to the value, best use, and appropriate designation of the lands referred to in paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 94–258, title I, § 105](https://www.govinfo.gov/link/plaw/94/public/258), Apr. 5, 1976, [90 Stat. 305](https://www.govinfo.gov/link/statute/90/305); [Pub. L. 102–285, § 10(b)](https://www.govinfo.gov/link/plaw/102/public/285), May 18, 1992, [106 Stat. 172](https://www.govinfo.gov/link/statute/106/172).)*

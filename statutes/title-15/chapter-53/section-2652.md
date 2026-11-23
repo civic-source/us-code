@@ -3,9 +3,10 @@ title: "Section 2652 - Asbestos Ombudsman"
 usc_title: 15
 usc_section: "2652"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2652"
-generated_at: "2026-03-30T02:54:08.180Z"
+generated_at: "2026-11-23T21:25:39.948Z"
+status: "active"
 ---
 
 # § 2652. Asbestos Ombudsman
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.180Z"
   - **(1)** to receive complaints, grievances, and requests for information submitted by any person with respect to any aspect of this subchapter,
   - **(2)** to render assistance with respect to the complaints, grievances, and requests received, and
   - **(3)** to make such recommendations to the Administrator as the Ombudsman considers appropriate.
+
+## Source Credit
+
+*([Pub. L. 94–469, title II, § 212](https://www.govinfo.gov/link/plaw/94/public/469), as added [Pub. L. 99–519, § 2](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2987](https://www.govinfo.gov/link/statute/100/2987).)*

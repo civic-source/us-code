@@ -3,9 +3,10 @@ title: "Section 1513 - Access of foreign creditors to a case under this title"
 usc_title: 11
 usc_section: "1513"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1513"
-generated_at: "2026-03-30T02:53:53.888Z"
+generated_at: "2026-11-23T21:25:34.977Z"
+status: "active"
 ---
 
 # § 1513. Access of foreign creditors to a case under this title
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:53.888Z"
   - **(2)**
     - **(A)** Subsection (a) and paragraph (1) do not change or codify present law as to the allowability of foreign revenue claims or other foreign public law claims in a proceeding under this title.
     - **(B)** Allowance and priority as to a foreign tax claim or other foreign public law claim shall be governed by any applicable tax treaty of the United States, under the conditions and circumstances specified therein.
+
+## Source Credit
+
+*(Added [Pub. L. 109–8, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 138](https://www.govinfo.gov/link/statute/119/138).)*

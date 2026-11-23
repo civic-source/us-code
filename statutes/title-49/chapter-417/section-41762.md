@@ -3,9 +3,10 @@ title: "Section 41762 - Definitions"
 usc_title: 49
 usc_section: "41762"
 chapter: 417
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 41762"
-generated_at: "2026-03-30T02:56:19.378Z"
+generated_at: "2026-11-23T21:26:40.867Z"
+status: "active"
 ---
 
 # § 41762. Definitions
@@ -33,3 +34,35 @@ In this subchapter, the following definitions apply:
     - **(A)** is served (as determined by the Secretary) by a nonhub airport or a small hub airport;
     - **(B)** is not within a 40-mile radius of an airport that each year has at least .25 percent of the total annual boardings in the United States; and
     - **(C)** the Secretary determines does not have sufficient air service.
+
+Air carrier
+
+Aircraft purchase
+
+Capital reserve subsidy amount
+
+Commuter air carrier
+
+Federal credit instrument
+
+Financial obligation
+
+Lender
+
+Line of credit
+
+Loan guarantee
+
+New entrant air carrier
+
+Obligor
+
+Regional jet aircraft
+
+Secured loan
+
+Underserved market
+
+## Source Credit
+
+*(Added [Pub. L. 106–181, title II, § 210(a)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 96](https://www.govinfo.gov/link/statute/114/96); amended [Pub. L. 108–176, title II, § 225(b)(5)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2529](https://www.govinfo.gov/link/statute/117/2529).)*

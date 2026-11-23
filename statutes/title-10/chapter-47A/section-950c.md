@@ -3,9 +3,10 @@ title: "Section 950c - Appellate referral; waiver or withdrawal of appeal"
 usc_title: 10
 usc_section: "950c"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 950c"
-generated_at: "2026-03-30T02:53:38.090Z"
+generated_at: "2026-11-23T21:25:32.363Z"
+status: "active"
 ---
 
 # § 950c. Appellate referral; waiver or withdrawal of appeal
@@ -17,3 +18,15 @@ generated_at: "2026-03-30T02:53:38.090Z"
   - **(3)** A waiver under paragraph (1) must be filed, if at all, within 10 days after notice of the action is served on the accused or on defense counsel under section 950b(c)(4) of this title . The convening authority, for good cause, may extend the period for such filing by not more than 30 days.
 - **(c)** Except in a case in which the sentence as approved under section 950b of this title extends to death, the accused may withdraw an appeal at any time.
 - **(d)** A waiver of the right to appellate review or the withdrawal of an appeal under this section bars review under section 950f of this title .
+
+Automatic Referral for Appellate Review
+
+Waiver of Right of Review
+
+Withdrawal of Appeal
+
+Effect of Waiver or Withdrawal
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title XVIII, § 1802](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2600](https://www.govinfo.gov/link/statute/123/2600).)*

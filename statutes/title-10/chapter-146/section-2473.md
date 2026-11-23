@@ -3,9 +3,10 @@ title: "Section 2473 - Annual five-year plans on improvement of depot infrastruc
 usc_title: 10
 usc_section: "2473"
 chapter: 146
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2473"
-generated_at: "2026-03-30T02:53:38.160Z"
+generated_at: "2026-11-23T21:25:32.616Z"
+status: "active"
 ---
 
 # § 2473. Annual five-year plans on improvement of depot infrastructure
@@ -21,3 +22,13 @@ generated_at: "2026-03-30T02:53:38.160Z"
   - **(2)** results-oriented metrics;
   - **(3)** the identification of required resources, risks, and stakeholders; and
   - **(4)** regular reporting on progress to decision makers.
+
+Submission
+
+Elements
+
+Incorporation of Results-oriented Management Practices
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. A, title III, § 373](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2540](https://www.govinfo.gov/link/statute/136/2540).)*

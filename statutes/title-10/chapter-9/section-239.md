@@ -3,9 +3,10 @@ title: "Section 239 - National security space programs: major force program and 
 usc_title: 10
 usc_section: "239"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 239"
-generated_at: "2026-03-30T02:53:38.048Z"
+generated_at: "2026-11-23T21:25:32.245Z"
+status: "active"
 ---
 
 # § 239. National security space programs: major force program and budget assessment
@@ -23,3 +24,13 @@ generated_at: "2026-03-30T02:53:38.048Z"
 - **(c)** In this section:
   - **(1)** The term “budget”, with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under section 1105(a) of title 31 .
   - **(2)** The term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
+
+Establishment of Major Force Program
+
+Budget Assessment
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 114–92, div. A, title XVI, § 1601(a)(1)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1095](https://www.govinfo.gov/link/statute/129/1095); amended [Pub. L. 115–232, div. A, title XVI, § 1605](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2107](https://www.govinfo.gov/link/statute/132/2107).)*

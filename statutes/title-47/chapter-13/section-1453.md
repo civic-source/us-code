@@ -3,9 +3,10 @@ title: "Section 1453 - Unlicensed use in the 5 GHZ band"
 usc_title: 47
 usc_section: "1453"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1453"
-generated_at: "2026-03-30T02:56:24.535Z"
+generated_at: "2026-11-23T21:26:36.104Z"
+status: "active"
 ---
 
 # § 1453. Unlicensed use in the 5 GHZ band
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:24.535Z"
 - **(c)** In this section:
   - **(1)** The term “5350–5470 MHz band” means the portion of the electromagnetic spectrum between the frequencies from 5350 megahertz to 5470 megahertz.
   - **(2)** The term “5850–5925 MHz band” means the portion of the electromagnetic spectrum between the frequencies from 5850 megahertz to 5925 megahertz.
+
+## Source Credit
+
+*([Pub. L. 112–96, title VI, § 6406](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 231](https://www.govinfo.gov/link/statute/126/231).)*

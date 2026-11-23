@@ -3,9 +3,10 @@ title: "Section 7651k - Monitoring, reporting, and recordkeeping requirements"
 usc_title: 42
 usc_section: "7651k"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7651k"
-generated_at: "2026-03-30T02:56:11.324Z"
+generated_at: "2026-11-23T21:26:33.156Z"
+status: "active"
 ---
 
 # § 7651k. Monitoring, reporting, and recordkeeping requirements
@@ -15,3 +16,11 @@ generated_at: "2026-03-30T02:56:11.324Z"
 - **(c)** Not later than January 1, 1995 , the owner or operator of each affected unit that has not previously met the requirements of subsections (a) and (b) shall install and operate CEMS, quality assure the data, and keep records and reports in accordance with the regulations issued under subsection (a). Upon commencement of commercial operation of each new utility unit, the unit shall comply with the requirements of subsection (a).
 - **(d)** If CEMS data or data from an alternative monitoring system approved by the Administrator under subsection (a) is not available for any affected unit during any period of a calendar year in which such data is required under this subchapter, and the owner or operator cannot provide information, satisfactory to the Administrator, on emissions during that period, the Administrator shall deem the unit to be operating in an uncontrolled manner during the entire period for which the data was not available and shall, by regulation which shall be issued not later than eighteen months after November 15, 1990 , prescribe means to calculate emissions for that period. The owner or operator shall be liable for excess emissions fees and offsets under section 7651j of this title in accordance with such regulations. Any fee due and payable under this subsection shall not diminish the liability of the unit’s owner or operator for any fine, penalty, fee or assessment against the unit for the same violation under any other section of this chapter.
 - **(e)** It shall be unlawful for the owner or operator of any source subject to this subchapter to operate a source without complying with the requirements of this section, and any regulations implementing this section.
+
+Monitoring
+
+Public Availability of Carbon Dioxide Information
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title IV, § 412, as added [Pub. L. 101–549, title IV, § 401](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2624](https://www.govinfo.gov/link/statute/104/2624).)*

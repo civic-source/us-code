@@ -3,12 +3,17 @@ title: "Section 1645 - Congressional declaration of purpose"
 usc_title: 22
 usc_section: "1645"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1645"
-generated_at: "2026-03-30T02:55:05.337Z"
+generated_at: "2026-11-23T21:25:58.411Z"
+status: "active"
 ---
 
 # § 1645. Congressional declaration of purpose
 
 It is the purpose of this subchapter to provide for the determination of the validity and amounts of outstanding claims against Vietnam which arose out of the nationalization, expropriation, or other taking of (or special measures directed against) property of nationals of the United States. This subchapter shall not be construed as authorizing or as any intention to authorize an appropriation by the United States for the purpose of paying such claims.
 
+
+## Source Credit
+
+*(Mar. 10, 1950, ch. 54, title VII, § 701, as added [Pub. L. 96–606](https://www.govinfo.gov/link/plaw/96/public/606), Dec. 28, 1980, [94 Stat. 3534](https://www.govinfo.gov/link/statute/94/3534).)*

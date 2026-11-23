@@ -3,9 +3,10 @@ title: "Section 1491 - Claims against United States generally; actions involving
 usc_title: 28
 usc_section: "1491"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1491"
-generated_at: "2026-03-30T02:55:30.141Z"
+generated_at: "2026-11-23T21:26:01.091Z"
+status: "active"
 ---
 
 # § 1491. Claims against United States generally; actions involving Tennessee Valley Authority
@@ -21,3 +22,15 @@ generated_at: "2026-03-30T02:55:30.141Z"
   - **(5)** If an interested party who is a member of the private sector commences an action described in paragraph (1) with respect to a public-private competition conducted under Office of Management and Budget Circular A–76 regarding the performance of an activity or function of a Federal agency, or a decision to convert a function performed by Federal employees to private sector performance without a competition under Office of Management and Budget Circular A–76, then an interested party described in section 3551(2)(B) of title 31 shall be entitled to intervene in that action.
   - **(6)** Jurisdiction over any action described in paragraph (1) arising out of a maritime contract, or a solicitation for a proposed maritime contract, shall be governed by this section and shall not be subject to the jurisdiction of the district courts of the United States under the Suits in Admiralty Act (chapter 309 of title 46) or the Public Vessels Act (chapter 311 of title 46).
 - **(c)** Nothing herein shall be construed to give the United States Court of Federal Claims jurisdiction of any civil action within the exclusive jurisdiction of the Court of International Trade, or of any action against, or founded on conduct of, the Tennessee Valley Authority, or to amend or modify the provisions of the Tennessee Valley Authority Act of 1933 with respect to actions by or against the Authority.
+
+“Subparagraph (B) of section 3551(2) of title 31 , United States Code (as added by subsection (a)), and paragraph (5) of section 1491(b) of title 28 , United States Code (as added by subsection (c)), shall apply to—
+
+“The amendment made by paragraph (1) [amending this section] shall be effective with respect to all actions filed before, on, or after the date of the enactment of this Act [ Oct. 29, 1992 ], except for those actions which, before such date of enactment, have been the subject of—
+
+Orders
+
+Proceedings and applications
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 940](https://www.govinfo.gov/link/statute/62/940); July 28, 1953, ch. 253, § 7, [67 Stat. 226](https://www.govinfo.gov/link/statute/67/226); Sept. 3, 1954, ch. 1263, § 44(a), (b), [68 Stat. 1241](https://www.govinfo.gov/link/statute/68/1241); [Pub. L. 91–350, § 1(b)](https://www.govinfo.gov/link/plaw/91/public/350), July 23, 1970, [84 Stat. 449](https://www.govinfo.gov/link/statute/84/449); [Pub. L. 92–415, § 1](https://www.govinfo.gov/link/plaw/92/public/415), Aug. 29, 1972, [86 Stat. 652](https://www.govinfo.gov/link/statute/86/652); [Pub. L. 95–563, § 14(i)](https://www.govinfo.gov/link/plaw/95/public/563), Nov. 1, 1978, [92 Stat. 2391](https://www.govinfo.gov/link/statute/92/2391); [Pub. L. 96–417, title V, § 509](https://www.govinfo.gov/link/plaw/96/public/417), Oct. 10, 1980, [94 Stat. 1743](https://www.govinfo.gov/link/statute/94/1743); [Pub. L. 97–164, title I, § 133(a)](https://www.govinfo.gov/link/plaw/97/public/164), Apr. 2, 1982, [96 Stat. 39](https://www.govinfo.gov/link/statute/96/39); [Pub. L. 102–572, title IX](https://www.govinfo.gov/link/plaw/102/public/572), §§ 902(a), 907(b)(1), Oct. 29, 1992, [106 Stat. 4516](https://www.govinfo.gov/link/statute/106/4516), 4519; [Pub. L. 104–320, § 12(a)](https://www.govinfo.gov/link/plaw/104/public/320), Oct. 19, 1996, [110 Stat. 3874](https://www.govinfo.gov/link/statute/110/3874); [Pub. L. 110–161, div. D, title VII, § 739(c)(2)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2031](https://www.govinfo.gov/link/statute/121/2031); [Pub. L. 110–181, div. A, title III, § 326(c)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 63](https://www.govinfo.gov/link/statute/122/63); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title X, § 1061(d), Oct. 14, 2008, [122 Stat. 4613](https://www.govinfo.gov/link/statute/122/4613); [Pub. L. 111–350, § 5(g)(7)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3848](https://www.govinfo.gov/link/statute/124/3848); [Pub. L. 112–81, div. A, title VIII, § 861(a)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1521](https://www.govinfo.gov/link/statute/125/1521).)*

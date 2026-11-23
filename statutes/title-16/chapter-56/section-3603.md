@@ -3,9 +3,10 @@ title: "Section 3603 - Receipt of Organization communications by Secretary of St
 usc_title: 16
 usc_section: "3603"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3603"
-generated_at: "2026-03-30T02:54:23.018Z"
+generated_at: "2026-11-23T21:25:51.978Z"
+status: "active"
 ---
 
 # § 3603. Receipt of Organization communications by Secretary of State
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:23.018Z"
 - **(b)** If the concurrence required under subsection (a)(2) of this section has not been obtained by the Secretary of State—
   - **(1)** regarding the approval of, or the objection to, a proposed regulatory measure within forty-five days after the measure was received on behalf of the United States; or
   - **(2)** regarding the withdrawal of an objection of the United States to a proposed regulatory measure within forty-five days after such withdrawal is proposed by the Secretary of State;
+
+## Source Credit
+
+*([Pub. L. 97–389, title III, § 304](https://www.govinfo.gov/link/plaw/97/public/389), Dec. 29, 1982, [96 Stat. 1952](https://www.govinfo.gov/link/statute/96/1952).)*

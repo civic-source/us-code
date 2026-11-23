@@ -3,9 +3,10 @@ title: "Section 3322 - Local application"
 usc_title: 29
 usc_section: "3322"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3322"
-generated_at: "2026-03-30T02:55:18.762Z"
+generated_at: "2026-11-23T21:26:02.354Z"
+status: "active"
 ---
 
 # § 3322. Local application
@@ -19,3 +20,7 @@ Each eligible provider desiring a grant or contract from an eligible agency shal
   - **(5)** a description of how the eligible provider will fulfill one-stop partner responsibilities as described in section 3151(b)(1)(A) of this title , as appropriate;
   - **(6)** a description of how the eligible provider will provide services in a manner that meets the needs of eligible individuals; and
   - **(7)** information that addresses the considerations described under section 3321(e) of this title , as applicable.
+
+## Source Credit
+
+*([Pub. L. 113–128, title II, § 232](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1620](https://www.govinfo.gov/link/statute/128/1620).)*

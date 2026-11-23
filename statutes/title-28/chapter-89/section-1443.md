@@ -3,9 +3,10 @@ title: "Section 1443 - Civil rights cases"
 usc_title: 28
 usc_section: "1443"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1443"
-generated_at: "2026-03-30T02:55:30.140Z"
+generated_at: "2026-11-23T21:26:01.090Z"
+status: "active"
 ---
 
 # § 1443. Civil rights cases
@@ -14,3 +15,7 @@ Any of the following civil actions or criminal prosecutions, commenced in a Stat
 
   - **(1)** Against any person who is denied or cannot enforce in the courts of such State a right under any law providing for the equal civil rights of citizens of the United States, or of all persons within the jurisdiction thereof;
   - **(2)** For any act under color of authority derived from any law providing for equal rights, or for refusing to do any act on the ground that it would be inconsistent with such law.
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 938](https://www.govinfo.gov/link/statute/62/938).)*

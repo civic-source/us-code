@@ -3,9 +3,10 @@ title: "Section 4852a - Task force on lead-based paint hazard reduction and fina
 usc_title: 42
 usc_section: "4852a"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4852a"
-generated_at: "2026-03-30T02:56:11.209Z"
+generated_at: "2026-11-23T21:26:32.695Z"
+status: "active"
 ---
 
 # § 4852a. Task force on lead-based paint hazard reduction and financing
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.209Z"
   - **(7)** increasing the availability of liability insurance for owners of rental housing and certified contractors and establishing alternative systems to compensate victims of lead-based paint poisoning; and
   - **(8)** evaluating the utility and appropriateness of requiring risk assessments or inspections and notification to prospective lessees of rental housing.
 - **(d)** The members of the task force shall not receive Federal compensation for their participation.
+
+## Source Credit
+
+*([Pub. L. 102–550, title X, § 1015](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3908](https://www.govinfo.gov/link/statute/106/3908).)*

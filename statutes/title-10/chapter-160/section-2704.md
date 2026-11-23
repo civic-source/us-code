@@ -3,9 +3,10 @@ title: "Section 2704 - Commonly found unregulated hazardous substances"
 usc_title: 10
 usc_section: "2704"
 chapter: 160
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2704"
-generated_at: "2026-03-30T02:53:38.172Z"
+generated_at: "2026-11-23T21:25:32.662Z"
+status: "active"
 ---
 
 # § 2704. Commonly found unregulated hazardous substances
@@ -29,3 +30,29 @@ generated_at: "2026-03-30T02:53:38.172Z"
   - **(3)** The Secretary of Defense shall transfer to the Administrator such toxicological data, such sums from amounts appropriated to the Department of Defense, and such personnel of the Department of Defense as may be necessary for the preparation of such health advisories. The Secretary and the Administrator shall enter into a memorandum of understanding regarding the manner in which this subsection shall be carried out, including the manner for transferring funds and personnel and for coordination of activities under this subsection.
 - **(e)** Section 104(i) of CERCLA ( 42 U.S.C. 9604(i) ) applies to facilities under the jurisdiction of the Secretary of Defense in the manner prescribed in that section.
 - **(f)** The functions of the Secretary of Health and Human Services under this section shall be carried out through the Administrator of the Agency for Toxic Substances and Disease Registry of the Department of Health and Human Services established under section 104(i) of CERCLA ( 42 U.S.C. 9604(i) ).
+
+Notice to HHS.—
+
+In general
+
+Definition
+
+Toxicological Profiles
+
+DOD Support
+
+EPA Health Advisories.—
+
+Preparation
+
+Content of health advisories
+
+DOD support for health advisories
+
+Cross Reference
+
+Functions of HHS To Be Carried Out Through ATSDR
+
+## Source Credit
+
+*(Added [Pub. L. 99–499, title II, § 211(a)(1)(B)](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1722](https://www.govinfo.gov/link/statute/100/1722); amended [Pub. L. 102–25, title VII, § 701(j)(10)](https://www.govinfo.gov/link/plaw/102/public/25), Apr. 6, 1991, [105 Stat. 116](https://www.govinfo.gov/link/statute/105/116); [Pub. L. 108–375, div. A, title X, § 1084(d)(27)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2063](https://www.govinfo.gov/link/statute/118/2063).)*

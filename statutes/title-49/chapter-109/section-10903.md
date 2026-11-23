@@ -3,9 +3,10 @@ title: "Section 10903 - Filing and procedure for application to abandon or disco
 usc_title: 49
 usc_section: "10903"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 10903"
-generated_at: "2026-03-30T02:56:19.324Z"
+generated_at: "2026-11-23T21:26:40.676Z"
+status: "active"
 ---
 
 # § 10903. Filing and procedure for application to abandon or discontinue
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:19.324Z"
     - **(A)** approve the application as filed; or
     - **(B)** approve the application with modifications and require compliance with conditions that the Board finds are required by public convenience and necessity; or
   - **(2)** fails to find public convenience and necessity, it shall deny the application.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 823](https://www.govinfo.gov/link/statute/109/823); amended [Pub. L. 112–141, div. C, title II, § 32932(b)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 829](https://www.govinfo.gov/link/statute/126/829).)*

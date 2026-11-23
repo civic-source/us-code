@@ -3,9 +3,10 @@ title: "Section 17086 - Advanced integration of buildings onto the electric grid
 usc_title: 42
 usc_section: "17086"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17086"
-generated_at: "2026-03-30T02:56:11.495Z"
+generated_at: "2026-11-23T21:26:33.762Z"
+status: "active"
 ---
 
 # § 17086. Advanced integration of buildings onto the electric grid
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:56:11.495Z"
 - **(d)** In carrying out this section, the Secretary shall—
   - **(1)** implement the recommendations from the report in subsection (c); and
   - **(2)** coordinate across all relevant program offices at the Department to achieve the goals established in this section, including the Office of Electricity.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IV, § 426](https://www.govinfo.gov/link/plaw/110/public/140), as added [Pub. L. 116–260, div. Z, title I, § 1007(e)(1)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2435](https://www.govinfo.gov/link/statute/134/2435).)*

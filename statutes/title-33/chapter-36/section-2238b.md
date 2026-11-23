@@ -3,9 +3,10 @@ title: "Section 2238b - Funding for harbor maintenance programs"
 usc_title: 33
 usc_section: "2238b"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2238b"
-generated_at: "2026-03-30T02:55:41.116Z"
+generated_at: "2026-11-23T21:26:11.428Z"
+status: "active"
 ---
 
 # § 2238b. Funding for harbor maintenance programs
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:41.116Z"
 - **(d)**
   - **(1)** It is the sense of Congress that any increase in funding for harbor maintenance programs under this section shall result from an overall increase in appropriations for the civil works program of the Corps of Engineers and not from reductions in the appropriations for other programs, projects, and activities carried out by the Corps of Engineers for other authorized purposes.
   - **(2)** The target total budget resources for a fiscal year specified in subsection (b)(1) shall only apply in a fiscal year for which the level of appropriations provided for the civil works program of the Corps of Engineers in that fiscal year is increased, as compared to the previous fiscal year, by a dollar amount that is at least equivalent to the dollar amount necessary to address such target total budget resources in that fiscal year.
+
+## Source Credit
+
+*([Pub. L. 113–121, title II, § 2101](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1272](https://www.govinfo.gov/link/statute/128/1272); [Pub. L. 114–322, title I, § 1108](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1634](https://www.govinfo.gov/link/statute/130/1634).)*

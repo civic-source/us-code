@@ -3,9 +3,10 @@ title: "Section 1183a - Requirements for sponsor’s affidavit of support"
 usc_title: 8
 usc_section: "1183a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1183a"
-generated_at: "2026-03-30T02:53:10.480Z"
+generated_at: "2026-11-23T21:25:25.138Z"
+status: "active"
 ---
 
 # § 1183a. Requirements for sponsor’s affidavit of support
@@ -72,3 +73,19 @@ generated_at: "2026-03-30T02:53:10.480Z"
   - **(3)** The Attorney General shall submit an annual report to the Committees on the Judiciary of the House of Representatives and the Senate setting forth—
     - **(A)** for the most recent fiscal year for which data are available the number of sponsors under this section and the number of sponsors in compliance with the financial obligations of this section; and
     - **(B)** a comparison of such numbers with the numbers of such sponsors for the preceding fiscal year.
+
+In general
+
+Promulgation of form
+
+Authority To Charge Fee
+
+Limitation
+
+Treatment of Fees
+
+“Requirements for reimbursement by a sponsor for benefits provided to a sponsored alien pursuant to an affidavit of support under section 213A of the Immigration and Nationality Act [ 8 U.S.C. 1183a ] shall not apply with respect to the following:
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 2, § 213A, as added [Pub. L. 104–193, title IV, § 423(a)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2271](https://www.govinfo.gov/link/statute/110/2271); amended [Pub. L. 104–208, div. C, title V, § 551(a)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–675](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 107–150, § 2(a)(1)](https://www.govinfo.gov/link/plaw/107/public/150), (3), Mar. 13, 2002, [116 Stat. 74](https://www.govinfo.gov/link/statute/116/74), 75; [Pub. L. 111–83, title V, § 568(e)](https://www.govinfo.gov/link/plaw/111/public/83), Oct. 28, 2009, [123 Stat. 2187](https://www.govinfo.gov/link/statute/123/2187).)*

@@ -3,9 +3,10 @@ title: "Section 339 - Carriage of distant television stations by satellite carri
 usc_title: 47
 usc_section: "339"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 339"
-generated_at: "2026-03-30T02:56:24.510Z"
+generated_at: "2026-11-23T21:26:36.003Z"
+status: "active"
 ---
 
 # § 339. Carriage of distant television stations by satellite carriers
@@ -74,3 +75,27 @@ generated_at: "2026-03-30T02:56:24.510Z"
   - **(3)** The term “network station” has the meaning given such term under section 119(d) of title 17 .
   - **(4)** The term “satellite carrier” has the meaning given such term under section 119(d) of title 17 .
   - **(5)** The term “television network” means a television network in the United States which offers an interconnected program service on a regular basis for 15 or more hours per week to at least 25 affiliated broadcast stations in 10 or more States.
+
+(aa) if, within 60 days after receiving the notice of the satellite carrier under section 338(h)(1) of this title , the subscriber elects to retain the distant signal; but
+
+(bb) only until such time as the subscriber elects to receive such local signal.
+
+(aa) that subscriber seeks to subscribe to such distant signal before the date on which such carrier commences to carry pursuant to section 338 of this title the signals of stations from the local market of such local network station; and
+
+(bb) the satellite carrier, within 60 days after such date, submits to each television network the list and statement required by subparagraph (F)(ii).
+
+(aa) name;
+
+(bb) address (street or rural route number, city, State, and zip code); and
+
+(cc) the distant network signal or signals received; and
+
+(aa) name;
+
+(bb) address (street or rural route number, city, State, and zip code); and
+
+(cc) the distant network signal or signals received; and
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 339, as added [Pub. L. 106–113, div. B, § 1000(a)(9) [title I, § 1008(a)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–534; amended [Pub. L. 106–553, § 1(a)(2) [title X, § 1001, formerly § 1008]](https://www.govinfo.gov/link/plaw/106/public/553), Dec. 21, 2000, [114 Stat. 2762](https://www.govinfo.gov/link/statute/114/2762), 2762A–140, renumbered § 1001, [Pub. L. 115–334, title VI, § 6603(3)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4777](https://www.govinfo.gov/link/statute/132/4777); [Pub. L. 108–447, div. J, title IX](https://www.govinfo.gov/link/plaw/108/public/447) [title II, §§ 204, 209], Dec. 8, 2004, [118 Stat. 3416](https://www.govinfo.gov/link/statute/118/3416), 3429; [Pub. L. 111–175, title II, § 204(b)](https://www.govinfo.gov/link/plaw/111/public/175), May 27, 2010, [124 Stat. 1246](https://www.govinfo.gov/link/statute/124/1246); [Pub. L. 115–141, div. P, title IV, § 402(i)(7)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1090](https://www.govinfo.gov/link/statute/132/1090).)*

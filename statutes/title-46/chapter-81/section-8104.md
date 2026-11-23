@@ -3,9 +3,10 @@ title: "Section 8104 - Watches"
 usc_title: 46
 usc_section: "8104"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 8104"
-generated_at: "2026-03-30T02:56:15.551Z"
+generated_at: "2026-11-23T21:26:37.095Z"
+status: "active"
 ---
 
 # § 8104. Watches
@@ -47,3 +48,24 @@ generated_at: "2026-03-30T02:56:15.551Z"
       - **(i)** before September 8, 1990 , was purchased to be used in that trade; and
       - **(ii)** before June 1, 1992 , entered into service in that trade.
 - **(p)** The Secretary may prescribe the watchstanding and work hours requirements for an oil spill response vessel.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 8104 | 46:235 46:405(b) 46:673 |
+
+
+Historical and Revision Notes
+
+8104
+
+In General
+
+Definitions
+
+Certificate of inspection
+
+Inspected towing vessel
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 549](https://www.govinfo.gov/link/statute/97/549); [Pub. L. 98–364, title IV, § 402(11)](https://www.govinfo.gov/link/plaw/98/public/364), July 17, 1984, [98 Stat. 448](https://www.govinfo.gov/link/statute/98/448); [Pub. L. 98–557, § 33(c)](https://www.govinfo.gov/link/plaw/98/public/557), Oct. 30, 1984, [98 Stat. 2876](https://www.govinfo.gov/link/statute/98/2876); [Pub. L. 99–307, § 1(12)](https://www.govinfo.gov/link/plaw/99/public/307), May 19, 1986, [100 Stat. 445](https://www.govinfo.gov/link/statute/100/445); [Pub. L. 101–380, title IV](https://www.govinfo.gov/link/plaw/101/public/380), §§ 4114(b), 4302(f), Aug. 18, 1990, [104 Stat. 517](https://www.govinfo.gov/link/statute/104/517), 538; [Pub. L. 101–595, title VI, § 602(e)(1)](https://www.govinfo.gov/link/plaw/101/public/595), Nov. 16, 1990, [104 Stat. 2991](https://www.govinfo.gov/link/statute/104/2991); [Pub. L. 102–587, title V, § 5212](https://www.govinfo.gov/link/plaw/102/public/587), Nov. 4, 1992, [106 Stat. 5077](https://www.govinfo.gov/link/statute/106/5077); [Pub. L. 103–206, title III, § 322(a)](https://www.govinfo.gov/link/plaw/103/public/206), Dec. 20, 1993, [107 Stat. 2428](https://www.govinfo.gov/link/statute/107/2428); [Pub. L. 104–324, title VII, § 728](https://www.govinfo.gov/link/plaw/104/public/324), title XI, §§ 1104(c), 1114, Oct. 19, 1996, [110 Stat. 3939](https://www.govinfo.gov/link/statute/110/3939), 3967, 3971; [Pub. L. 109–241, title III, § 311(b)](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 530](https://www.govinfo.gov/link/statute/120/530); [Pub. L. 111–281, title VI, § 617(d)](https://www.govinfo.gov/link/plaw/111/public/281), title IX, § 903(a)(1), Oct. 15, 2010, [124 Stat. 2973](https://www.govinfo.gov/link/statute/124/2973), 3010; [Pub. L. 113–281, title III, § 316](https://www.govinfo.gov/link/plaw/113/public/281), Dec. 18, 2014, [128 Stat. 3050](https://www.govinfo.gov/link/statute/128/3050); [Pub. L. 116–283, div. G, title LVXXXV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXV], § 8505(b)(9), Jan. 1, 2021, [134 Stat. 4751](https://www.govinfo.gov/link/statute/134/4751).)*

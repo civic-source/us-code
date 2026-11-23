@@ -3,9 +3,10 @@ title: "Section 2111b - Senior military colleges: Department of Defense internat
 usc_title: 10
 usc_section: "2111b"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2111b"
-generated_at: "2026-03-30T02:53:38.142Z"
+generated_at: "2026-11-23T21:25:32.554Z"
+status: "active"
 ---
 
 # § 2111b. Senior military colleges: Department of Defense international student program
@@ -17,3 +18,17 @@ generated_at: "2026-03-30T02:53:38.142Z"
 - **(c)** Guidelines for implementation of the program shall be developed in coordination with the senior military colleges.
 - **(d)** The Secretary of Defense shall annually identify to the senior military colleges the international students who, based on criteria established by the Secretary, the Secretary recommends be considered for admission under the program. The Secretary shall identify the recommended international students to the senior military colleges as early as possible each year to enable those colleges to consider them in a timely manner in their respective admissions processes.
 - **(e)** An international student who is admitted to a senior military college under the program under this section is responsible for the cost of instruction at that college. The Secretary of Defense may, from funds available to the Department of Defense other than funds available for financial assistance under section 2107a of this title , provide some or all of the costs of instruction for any such student.
+
+Program Requirement
+
+Purposes
+
+Coordination With the Senior Military Colleges
+
+Recommendations for Admission of Students Under the Program
+
+DOD Financial Support
+
+## Source Credit
+
+*(Added [Pub. L. 106–65, div. A, title V, § 541(a)(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 606](https://www.govinfo.gov/link/statute/113/606).)*

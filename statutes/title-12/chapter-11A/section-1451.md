@@ -3,9 +3,10 @@ title: "Section 1451 - Definitions"
 usc_title: 12
 usc_section: "1451"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1451"
-generated_at: "2026-03-30T02:53:53.394Z"
+generated_at: "2026-11-23T21:25:36.831Z"
+status: "active"
 ---
 
 # § 1451. Definitions
@@ -24,3 +25,7 @@ As used in this chapter—
 - **(j)** The term “security” has the meaning ascribed to it by section 77b of title 15 .
 - **(k)** The term “State”, whether used as a noun or otherwise, includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States.
 - **(l)** The term “mortgage insurance program” includes, in the case of a residential mortgage secured by a manufactured home, any manufactured home lending program under title I of the National Housing Act [ 12 U.S.C. 1702 et seq.].
+
+## Source Credit
+
+*([Pub. L. 91–351, title III, § 302](https://www.govinfo.gov/link/plaw/91/public/351), July 24, 1970, [84 Stat. 451](https://www.govinfo.gov/link/statute/84/451); [Pub. L. 95–619, title II, § 245](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3233](https://www.govinfo.gov/link/statute/92/3233); [Pub. L. 95–630, title XVII, § 1702](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3718](https://www.govinfo.gov/link/statute/92/3718); [Pub. L. 96–153, title III, § 316(c)](https://www.govinfo.gov/link/plaw/96/public/153), Dec. 21, 1979, [93 Stat. 1118](https://www.govinfo.gov/link/statute/93/1118); [Pub. L. 96–294, title V, § 534(a)(2)](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 741](https://www.govinfo.gov/link/statute/94/741); [Pub. L. 98–440, title II](https://www.govinfo.gov/link/plaw/98/public/440), §§ 202, 203(b)(1), 204, Oct. 3, 1984, [98 Stat. 1693–1695](https://www.govinfo.gov/link/statute/98/1693); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 102–550, title XIII, § 1382(b)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4002](https://www.govinfo.gov/link/statute/106/4002).)*

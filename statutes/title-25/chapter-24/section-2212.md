@@ -3,9 +3,10 @@ title: "Section 2212 - Fractional interest acquisition program"
 usc_title: 25
 usc_section: "2212"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2212"
-generated_at: "2026-03-30T02:54:52.839Z"
+generated_at: "2026-11-23T21:25:54.664Z"
+status: "active"
 ---
 
 # § 2212. Fractional interest acquisition program
@@ -36,3 +37,9 @@ generated_at: "2026-03-30T02:54:52.839Z"
   - **(2)** If more than one Indian owner requests an interest under paragraph (1), the Secretary shall convey the interest to the Indian owner who owns the largest percentage of the undivided interest in the parcel of trust or restricted land involved.
   - **(3)** If an Indian tribe that has jurisdiction over a parcel of trust or restricted land owns an undivided interest in a parcel of such land, such interest may only be acquired under paragraph (1) with the consent of such Indian tribe.
 - **(d)** There is authorized to be appropriated to carry out this section $75,000,000 for fiscal year 2005, $95,000,000 for fiscal year 2006, and $145,000,000 for each of fiscal years 2007 through 2010.
+
+(B) Required report
+
+## Source Credit
+
+*([Pub. L. 97–459, title II, § 213](https://www.govinfo.gov/link/plaw/97/public/459), as added [Pub. L. 106–462, title I, § 103(6)](https://www.govinfo.gov/link/plaw/106/public/462), Nov. 7, 2000, [114 Stat. 1999](https://www.govinfo.gov/link/statute/114/1999); amended [Pub. L. 108–374, § 6(a)(5)](https://www.govinfo.gov/link/plaw/108/public/374), Oct. 27, 2004, [118 Stat. 1800](https://www.govinfo.gov/link/statute/118/1800); [Pub. L. 109–157, § 5](https://www.govinfo.gov/link/plaw/109/public/157), Dec. 30, 2005, [119 Stat. 2952](https://www.govinfo.gov/link/statute/119/2952); [Pub. L. 110–453, title II, § 207(d)](https://www.govinfo.gov/link/plaw/110/public/453), Dec. 2, 2008, [122 Stat. 5033](https://www.govinfo.gov/link/statute/122/5033).)*

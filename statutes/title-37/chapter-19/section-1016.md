@@ -3,9 +3,10 @@ title: "Section 1016 - Pay statements: descriptions of types of pay"
 usc_title: 37
 usc_section: "1016"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 1016"
-generated_at: "2026-03-30T02:55:44.061Z"
+generated_at: "2026-11-23T21:26:14.273Z"
+status: "active"
 ---
 
 # § 1016. Pay statements: descriptions of types of pay
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:55:44.061Z"
 - **(b)** The descriptions required to be made available with a pay statement under paragraph (1) shall be—
   - **(1)** published on a website accessible by a member and printable with the pay statement of the member; and
   - **(2)** presented in language easily understood by individuals without specialized knowledge of military finance, accounting, or law.
+
+In General
+
+Requirements
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title VI, § 661(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 913](https://www.govinfo.gov/link/statute/139/913).)*

@@ -3,12 +3,17 @@ title: "Section 10162 - Authorization of monitored retrievable storage"
 usc_title: 42
 usc_section: "10162"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10162"
-generated_at: "2026-03-30T02:56:11.382Z"
+generated_at: "2026-11-23T21:26:33.344Z"
+status: "active"
 ---
 
 # § 10162. Authorization of monitored retrievable storage
 
 - **(a)** The proposal of the Secretary (EC–1022, 100th Congress) to locate a monitored retrievable storage facility at a site on the Clinch River in the Roane County portion of Oak Ridge, Tennessee, with alternative sites on the Oak Ridge Reservation of the Department of Energy and on the former site of a proposed nuclear powerplant in Hartsville, Tennessee, is annulled and revoked. In carrying out the provisions of sections 10164 and 10165 of this title, the Secretary shall make no presumption or preference to such sites by reason of their previous selection.
 - **(b)** The Secretary is authorized to site, construct, and operate one monitored retrievable storage facility subject to the conditions described in sections 10163 through 10169 of this title.
+
+## Source Credit
+
+*([Pub. L. 97–425, title I, § 142](https://www.govinfo.gov/link/plaw/97/public/425), as added [Pub. L. 100–202, § 101(d) [title III, § 300]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–104](https://www.govinfo.gov/link/statute/101/1329), 1329–121; [Pub. L. 100–203, title V, § 5021](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–232](https://www.govinfo.gov/link/statute/101/1330).)*

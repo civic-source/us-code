@@ -3,9 +3,10 @@ title: "Section 2152j - Statement of policy"
 usc_title: 22
 usc_section: "2152j"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2152j"
-generated_at: "2026-03-30T02:55:05.348Z"
+generated_at: "2026-11-23T21:25:58.442Z"
+status: "active"
 ---
 
 # § 2152j. Statement of policy
@@ -19,3 +20,7 @@ It shall be the policy of the United States to promote the meaningful participat
   - **(5)** collect and analyze gender data for the purpose of developing and enhancing early warning systems of conflict and violence;
   - **(6)** adjust policies and programs to improve outcomes in gender equality and the empowerment of women; and
   - **(7)** monitor, analyze, and evaluate the efforts related to each strategy submitted under section 2152j–1 of this title and the impact of such efforts.
+
+## Source Credit
+
+*([Pub. L. 115–68, § 4](https://www.govinfo.gov/link/plaw/115/public/68), Oct. 6, 2017, [131 Stat. 1203](https://www.govinfo.gov/link/statute/131/1203).)*

@@ -3,9 +3,10 @@ title: "Section 3512 - Gifts, devises, and bequests"
 usc_title: 50
 usc_section: "3512"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3512"
-generated_at: "2026-03-30T02:56:26.253Z"
+generated_at: "2026-11-23T21:26:39.053Z"
+status: "active"
 ---
 
 # § 3512. Gifts, devises, and bequests
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:26.253Z"
 - **(g)** The Director, in consultation with the Director of the Office of Government Ethics, shall issue regulations to carry out the authority provided in this section. Such regulations shall ensure that such authority is exercised consistent with all relevant ethical constraints and principles, including—
   - **(1)** the avoidance of any prohibited conflict of interest or appearance of impropriety; and
   - **(2)** a prohibition against the acceptance of a gift from a foreign government or an agent of a foreign government.
+
+## Source Credit
+
+*(June 20, 1949, ch. 227, § 12, as added [Pub. L. 96–450, title IV, § 404](https://www.govinfo.gov/link/plaw/96/public/450), Oct. 14, 1980, [94 Stat. 1979](https://www.govinfo.gov/link/statute/94/1979); amended [Pub. L. 112–87, title IV, § 411](https://www.govinfo.gov/link/plaw/112/public/87), Jan. 3, 2012, [125 Stat. 1889](https://www.govinfo.gov/link/statute/125/1889); [Pub. L. 113–126, title IV, § 421](https://www.govinfo.gov/link/plaw/113/public/126), July 7, 2014, [128 Stat. 1410](https://www.govinfo.gov/link/statute/128/1410); [Pub. L. 115–31, div. N, title III, § 303(b)](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 810](https://www.govinfo.gov/link/statute/131/810); [Pub. L. 118–31, div. G, title IX, § 7901(g)(3)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1107](https://www.govinfo.gov/link/statute/137/1107).)*

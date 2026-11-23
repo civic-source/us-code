@@ -3,9 +3,10 @@ title: "Section 22 - Roads and travel access"
 usc_title: 16
 usc_section: "22"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 22"
-generated_at: "2026-03-30T02:54:22.843Z"
+generated_at: "2026-11-23T21:25:51.623Z"
+status: "active"
 ---
 
 # § 460nnn–22. Roads and travel access
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:22.843Z"
 - **(e)**
   - **(1)** The Secretary shall provide reasonable access to nonfederally owned lands or interests in land within the boundaries of the Cooperative Management and Protection Area and the Wilderness Area to provide the owner of the land or interest the reasonable use thereof.
   - **(2)** Nothing in this subchapter shall have the effect of terminating any valid existing right-of-way on Federal lands included in the Cooperative Management and Protection Area.
+
+## Source Credit
+
+*([Pub. L. 106–399, title I, § 112](https://www.govinfo.gov/link/plaw/106/public/399), Oct. 30, 2000, [114 Stat. 1660](https://www.govinfo.gov/link/statute/114/1660).)*

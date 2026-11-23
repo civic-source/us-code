@@ -3,9 +3,10 @@ title: "Section 1023 - Annual reports"
 usc_title: 29
 usc_section: "1023"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1023"
-generated_at: "2026-03-30T02:55:18.704Z"
+generated_at: "2026-11-23T21:26:02.229Z"
+status: "active"
 ---
 
 # § 1023. Annual reports
@@ -108,3 +109,11 @@ generated_at: "2026-03-30T02:55:18.704Z"
 - **(g)** An annual report under this section for a plan year shall include—
   - **(1)** with respect to any plan to which section 1060(a) of this title applies (including a pooled employer plan), a list of employers in the plan and a good faith estimate of the percentage of total contributions made by such employers during the plan year and the aggregate account balances attributable to each employer in the plan (determined as the sum of the account balances of the employees of such employer (and the beneficiaries of such employees)); and
   - **(2)** with respect to a pooled employer plan, the identifying information for the person designated under the terms of the plan as the pooled plan provider.
+
+“The Secretary of Labor shall—
+
+“Not later than 1 year after the date of enactment of this Act [ Aug. 17, 2006 ], the Secretary of Labor shall publish guidance to assist multiemployer defined benefit plans to—
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 103](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 841](https://www.govinfo.gov/link/statute/88/841); [Pub. L. 96–364, title III, § 307](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1295](https://www.govinfo.gov/link/statute/94/1295); [Pub. L. 99–272, title XI, § 11016(b)(1)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 272](https://www.govinfo.gov/link/statute/100/272); [Pub. L. 100–203, title IX, § 9342(a)(1)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–371](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 101–239, title VII, § 7881(j)(1)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2442](https://www.govinfo.gov/link/statute/103/2442); [Pub. L. 109–280, title I, § 108(a)(2)](https://www.govinfo.gov/link/plaw/109/public/280), (3), formerly § 107(a)(2), (3), title V, § 503(a)(1), (b), Aug. 17, 2006, [120 Stat. 818](https://www.govinfo.gov/link/statute/120/818), 942, 943, renumbered [Pub. L. 111–192, title II, § 202(a)](https://www.govinfo.gov/link/plaw/111/public/192), June 25, 2010, [124 Stat. 1297](https://www.govinfo.gov/link/statute/124/1297); [Pub. L. 110–458, title I, § 101(d)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/458), Dec. 23, 2008, [122 Stat. 5098](https://www.govinfo.gov/link/statute/122/5098); [Pub. L. 113–97, title I](https://www.govinfo.gov/link/plaw/113/public/97), §§ 102(b)(5), 104(c), Apr. 7, 2014, [128 Stat. 1116](https://www.govinfo.gov/link/statute/128/1116), 1121; [Pub. L. 116–94, div. O, title I, § 101(d)(1)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3145](https://www.govinfo.gov/link/statute/133/3145).)*

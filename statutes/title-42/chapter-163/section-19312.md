@@ -3,9 +3,10 @@ title: "Section 19312 - Entrepreneurial leave program"
 usc_title: 42
 usc_section: "19312"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19312"
-generated_at: "2026-03-30T02:56:11.547Z"
+generated_at: "2026-11-23T21:26:33.885Z"
+status: "active"
 ---
 
 # § 19312. Entrepreneurial leave program
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.547Z"
 - **(c)** To reduce barriers to participation in the program, the Secretary shall delegate to the Directors the requirement to establish streamlined mechanisms for facilitating the licensing of technology that is the focus of National Laboratory employees who participate in the program.
 - **(d)** In accordance with section 16391a of this title , the Secretary shall report annually on the utilization of this authority at National Laboratories, including the number of employees who participate in this program at each National Laboratory and the number of employees who take a permanent leave from their positions at National Laboratories as a result of participating in this program.
 - **(e)** Nothing in this section shall affect existing Federal ethics rules applicable to Federal personnel.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title VI, § 10719](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1707](https://www.govinfo.gov/link/statute/136/1707).)*

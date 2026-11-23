@@ -3,9 +3,10 @@ title: "Section 819 - Posting of orders and decisions"
 usc_title: 30
 usc_section: "819"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 819"
-generated_at: "2026-03-30T02:55:29.388Z"
+generated_at: "2026-11-23T21:26:00.392Z"
+status: "active"
 ---
 
 # § 819. Posting of orders and decisions
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:29.388Z"
 - **(b)** The Secretary shall (1) cause a copy of any order, citation, notice, or decision required by this chapter to be given to an operator to be mailed immediately to a representative of the miners in the affected coal or other mine, and (2) cause a copy thereof to be mailed to the public official or agency of the State charged with administering State laws, if any, relating to health or safety in such mine. Such notice, order, citation, or decision shall be available for public inspection.
 - **(c)** In order to insure prompt compliance with any notice, order, citation, or decision issued under this chapter, the authorized representative of the Secretary may deliver such notice, order, citation, or decision to an agent of the operator, and such agent shall immediately take appropriate measures to insure compliance with such notice, order, citation, or decision.
 - **(d)** Each operator of a coal or other mine subject to this chapter shall file with the Secretary the name and address of such mine and the name and address of the person who controls or operates the mine. Any revisions in such names or addresses shall be promptly filed with the Secretary. Each operator of a coal or other mine subject to this chapter shall designate a responsible official at such mine as the principal officer in charge of health and safety at such mine, and such official shall receive a copy of any notice, order, citation, or decision issued under this chapter affecting such mine. In any case where the mine is subject to the control of any person not directly involved in the daily operations of the coal or other mine, there shall be filed with the Secretary the name and address of such person and the name and address of a principal official of such person who shall have overall responsibility for the conduct of an effective health and safety program at any coal or other mine subject to the control of such person, and such official shall receive a copy of any notice, order, citation, or decision issued affecting any such mine. The mere designation of a health and safety official under this subsection shall not be construed as making such official subject to any penalty under this chapter.
+
+## Source Credit
+
+*([Pub. L. 91–173, title I, § 109](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 756](https://www.govinfo.gov/link/statute/83/756); [Pub. L. 95–164, title II, § 201](https://www.govinfo.gov/link/plaw/95/public/164), Nov. 9, 1977, [91 Stat. 1310](https://www.govinfo.gov/link/statute/91/1310).)*

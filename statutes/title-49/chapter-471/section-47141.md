@@ -3,9 +3,10 @@ title: "Section 47141 - Compatible land use planning and projects by State and l
 usc_title: 49
 usc_section: "47141"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 47141"
-generated_at: "2026-03-30T02:56:19.405Z"
+generated_at: "2026-11-23T21:26:40.987Z"
+status: "active"
 ---
 
 # § 47141. Compatible land use planning and projects by State and local governments
@@ -28,3 +29,45 @@ generated_at: "2026-03-30T02:56:19.405Z"
 - **(d)** The Secretary shall establish guidelines to administer this section in accordance with the purposes and conditions described in this section. The Secretary may require a State or unit of local government to which a grant may be made under this section to provide progress reports and other information as the Secretary determines to be necessary to carry out this section.
 - **(e)** The Secretary may approve a grant under this section to a State or unit of local government for a project resulting from a land use compatibility plan only if the Secretary is satisfied that the project is consistent with the guidelines established by the Secretary under this section, the State or unit of local government has provided the assurances required by this section, the State or unit of local government has implemented (or has made provision to implement) those elements of the plan that are not eligible for Federal financial assistance, and that the project is not inconsistent with applicable Federal Aviation Administration standards.
 - **(f)** This section shall not be in effect after May 10, 2024 .
+
+In General
+
+Eligibility
+
+Assurances
+
+Guidelines
+
+Eligible Projects
+
+Sunset
+
+In General
+
+Grants
+
+Eligibility
+
+Distribution
+
+Partnership With Neighboring Local Jurisdictions
+
+Grant Requirements
+
+Exceptions to Repayment and Reinvestment Requirements
+
+Federal Share.—
+
+In general
+
+Allowable costs
+
+Maximum Amount
+
+Use of Passenger Revenue
+
+Sunset
+
+## Source Credit
+
+*(Added [Pub. L. 108–176, title I, § 160(a)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2511](https://www.govinfo.gov/link/statute/117/2511); amended [Pub. L. 110–253, § 3(c)(2)](https://www.govinfo.gov/link/plaw/110/public/253), June 30, 2008, [122 Stat. 2417](https://www.govinfo.gov/link/statute/122/2417); [Pub. L. 110–330, § 5(g)](https://www.govinfo.gov/link/plaw/110/public/330), Sept. 30, 2008, [122 Stat. 3718](https://www.govinfo.gov/link/statute/122/3718); [Pub. L. 111–12, § 5(f)](https://www.govinfo.gov/link/plaw/111/public/12), Mar. 30, 2009, [123 Stat. 1458](https://www.govinfo.gov/link/statute/123/1458); [Pub. L. 111–69, § 5(g)](https://www.govinfo.gov/link/plaw/111/public/69), Oct. 1, 2009, [123 Stat. 2055](https://www.govinfo.gov/link/statute/123/2055); [Pub. L. 111–116, § 5(f)](https://www.govinfo.gov/link/plaw/111/public/116), Dec. 16, 2009, [123 Stat. 3032](https://www.govinfo.gov/link/statute/123/3032); [Pub. L. 111–153, § 5(f)](https://www.govinfo.gov/link/plaw/111/public/153), Mar. 31, 2010, [124 Stat. 1085](https://www.govinfo.gov/link/statute/124/1085); [Pub. L. 111–161, § 5(f)](https://www.govinfo.gov/link/plaw/111/public/161), Apr. 30, 2010, [124 Stat. 1127](https://www.govinfo.gov/link/statute/124/1127); [Pub. L. 111–197, § 5(f)](https://www.govinfo.gov/link/plaw/111/public/197), July 2, 2010, [124 Stat. 1354](https://www.govinfo.gov/link/statute/124/1354); [Pub. L. 111–216, title I, § 104(f)](https://www.govinfo.gov/link/plaw/111/public/216), Aug. 1, 2010, [124 Stat. 2349](https://www.govinfo.gov/link/statute/124/2349); [Pub. L. 111–249, § 5(g)](https://www.govinfo.gov/link/plaw/111/public/249), Sept. 30, 2010, [124 Stat. 2628](https://www.govinfo.gov/link/statute/124/2628); [Pub. L. 111–329, § 5(f)](https://www.govinfo.gov/link/plaw/111/public/329), Dec. 22, 2010, [124 Stat. 3567](https://www.govinfo.gov/link/statute/124/3567); [Pub. L. 112–7, § 5(f)](https://www.govinfo.gov/link/plaw/112/public/7), Mar. 31, 2011, [125 Stat. 32](https://www.govinfo.gov/link/statute/125/32); [Pub. L. 112–16, § 5(f)](https://www.govinfo.gov/link/plaw/112/public/16), May 31, 2011, [125 Stat. 219](https://www.govinfo.gov/link/statute/125/219); [Pub. L. 112–21, § 5(f)](https://www.govinfo.gov/link/plaw/112/public/21), June 29, 2011, [125 Stat. 234](https://www.govinfo.gov/link/statute/125/234); [Pub. L. 112–27, § 5(f)](https://www.govinfo.gov/link/plaw/112/public/27), Aug. 5, 2011, [125 Stat. 271](https://www.govinfo.gov/link/statute/125/271); [Pub. L. 112–30, title II, § 205(g)](https://www.govinfo.gov/link/plaw/112/public/30), Sept. 16, 2011, [125 Stat. 358](https://www.govinfo.gov/link/statute/125/358); [Pub. L. 112–91, § 5(g)](https://www.govinfo.gov/link/plaw/112/public/91), Jan. 31, 2012, [126 Stat. 4](https://www.govinfo.gov/link/statute/126/4); [Pub. L. 112–95, title I, § 153](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 34](https://www.govinfo.gov/link/statute/126/34); [Pub. L. 114–55, title I, § 102(d)](https://www.govinfo.gov/link/plaw/114/public/55), Sept. 30, 2015, [129 Stat. 523](https://www.govinfo.gov/link/statute/129/523); [Pub. L. 114–141, title I, § 102(d)](https://www.govinfo.gov/link/plaw/114/public/141), Mar. 30, 2016, [130 Stat. 323](https://www.govinfo.gov/link/statute/130/323); [Pub. L. 114–190, title I, § 1102(d)](https://www.govinfo.gov/link/plaw/114/public/190), July 15, 2016, [130 Stat. 617](https://www.govinfo.gov/link/statute/130/617); [Pub. L. 115–63, title I, § 102(e)](https://www.govinfo.gov/link/plaw/115/public/63), Sept. 29, 2017, [131 Stat. 1169](https://www.govinfo.gov/link/statute/131/1169); [Pub. L. 115–141, div. M, title I, § 102(d)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1046](https://www.govinfo.gov/link/statute/132/1046); [Pub. L. 115–254, div. B, title I, § 117(b)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3201](https://www.govinfo.gov/link/statute/132/3201); [Pub. L. 118–15, div. B, title II, § 2202(h)](https://www.govinfo.gov/link/plaw/118/public/15), Sept. 30, 2023, [137 Stat. 83](https://www.govinfo.gov/link/statute/137/83); [Pub. L. 118–34, title I, § 102(h)](https://www.govinfo.gov/link/plaw/118/public/34), Dec. 26, 2023, [137 Stat. 1113](https://www.govinfo.gov/link/statute/137/1113); [Pub. L. 118–41, title I, § 102(h)](https://www.govinfo.gov/link/plaw/118/public/41), Mar. 8, 2024, [138 Stat. 21](https://www.govinfo.gov/link/statute/138/21).)*

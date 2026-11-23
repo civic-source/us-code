@@ -3,9 +3,10 @@ title: "Section 1490p - Accountability"
 usc_title: 42
 usc_section: "1490p"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1490p"
-generated_at: "2026-03-30T02:56:11.099Z"
+generated_at: "2026-11-23T21:26:32.079Z"
+status: "active"
 ---
 
 # § 1490p. Accountability
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:56:11.099Z"
 - **(g)** Not less than 180 days following December 15, 1989 , the Secretary shall promulgate regulations to implement this section.
 - **(h)** For purposes of this section, the term “assistance” means any housing grant, loan, guarantee, insurance, rebate, subsidy, tax credit benefit, or other form of direct or indirect assistance, for the original construction or development of the project.
 - **(i)** The Secretary shall submit to the Congress, not later than 180 days following December 15, 1989 , a report describing actions taken to carry out this section, including actions to inform and educate officers and employees of the Department of Agriculture regarding the provisions of this section.
+
+## Source Credit
+
+*(July 15, 1949, ch. 338, title V, § 536, as added [Pub. L. 101–235, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/101/public/235), Dec. 15, 1989, [103 Stat. 2045](https://www.govinfo.gov/link/statute/103/2045); amended [Pub. L. 101–625, title VII, § 719(a)](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4297](https://www.govinfo.gov/link/statute/104/4297); [Pub. L. 104–65, § 11(b)(2)](https://www.govinfo.gov/link/plaw/104/public/65), Dec. 19, 1995, [109 Stat. 701](https://www.govinfo.gov/link/statute/109/701).)*

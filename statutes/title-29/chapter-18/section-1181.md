@@ -3,9 +3,10 @@ title: "Section 1181 - Increased portability through limitation on preexisting c
 usc_title: 29
 usc_section: "1181"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1181"
-generated_at: "2026-03-30T02:55:18.722Z"
+generated_at: "2026-11-23T21:26:02.269Z"
+status: "active"
 ---
 
 # § 1181. Increased portability through limitation on preexisting condition exclusions
@@ -107,3 +108,63 @@ generated_at: "2026-03-30T02:55:18.722Z"
     - **(B)** Such period shall begin on the enrollment date.
     - **(C)** An affiliation period under a plan shall run concurrently with any waiting period under the plan.
   - **(3)** A health maintenance organization described in paragraph (1) may use alternative methods, from those described in such paragraph, to address adverse selection as approved by the State insurance commissioner or official or officials designated by the State to enforce the requirements of part A of title XXVII of the Public Health Service Act [ 42 U.S.C. 300gg et seq.] for the State involved with respect to such issuer.
+
+In general
+
+Determination of creditable coverage.—
+
+Period of coverage.—
+
+In general
+
+Special rule for certain periods
+
+Certifications, etc.—
+
+In general
+
+No certification required to be provided before june 1, 1997
+
+Certification only on written request for events occurring before october 1, 1996
+
+Transitional rule
+
+Special rule for collective bargaining agreements
+
+Timely regulations
+
+Limitation on actions
+
+Medicaid, chip, and employer-sponsored coverage coordination working group.—
+
+In general
+
+Model coverage coordination disclosure form described
+
+“(aa) A determination of whether the employee is eligible for coverage under the group health plan.
+
+“(bb) The name and contract information of the plan administrator of the group health plan.
+
+“(cc) The benefits offered under the plan.
+
+“(dd) The premiums and cost-sharing required under the plan.
+
+“(ee) Any other information relevant to coverage under the plan.
+
+Membership
+
+Compensation
+
+Administrative support
+
+Report.—
+
+Report by working group to the secretaries
+
+Report by secretaries to the congress
+
+Termination
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 701](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 104–191, title I, § 101(a)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 1939](https://www.govinfo.gov/link/statute/110/1939); amended [Pub. L. 104–204, title VI, § 603(b)(3)(H)](https://www.govinfo.gov/link/plaw/104/public/204), Sept. 26, 1996, [110 Stat. 2938](https://www.govinfo.gov/link/statute/110/2938); [Pub. L. 111–3, title III, § 311(b)(1)(A)](https://www.govinfo.gov/link/plaw/111/public/3), Feb. 4, 2009, [123 Stat. 65](https://www.govinfo.gov/link/statute/123/65); [Pub. L. 111–5, div. B, title I, § 1899D(b)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 426](https://www.govinfo.gov/link/statute/123/426); [Pub. L. 111–344, title I, § 114(b)](https://www.govinfo.gov/link/plaw/111/public/344), Dec. 29, 2010, [124 Stat. 3615](https://www.govinfo.gov/link/statute/124/3615); [Pub. L. 112–40, title II, § 242(a)(2)](https://www.govinfo.gov/link/plaw/112/public/40), Oct. 21, 2011, [125 Stat. 419](https://www.govinfo.gov/link/statute/125/419).)*

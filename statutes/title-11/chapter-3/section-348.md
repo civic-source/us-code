@@ -3,9 +3,10 @@ title: "Section 348 - Effect of conversion"
 usc_title: 11
 usc_section: "348"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 348"
-generated_at: "2026-03-30T02:53:53.874Z"
+generated_at: "2026-11-23T21:25:34.898Z"
+status: "active"
 ---
 
 # § 348. Effect of conversion
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:53.874Z"
       - **(i)** the claim of any creditor holding security as of the date of the filing of the petition shall continue to be secured by that security unless the full amount of such claim determined under applicable nonbankruptcy law has been paid in full as of the date of conversion, notwithstanding any valuation or determination of the amount of an allowed secured claim made for the purposes of the case under chapter 13; and
       - **(ii)** unless a prebankruptcy default has been fully cured under the plan at the time of conversion, in any proceeding under this title or otherwise, the default shall have the effect given under applicable nonbankruptcy law.
   - **(2)** If the debtor converts a case under chapter 13 of this title to a case under another chapter under this title in bad faith, the property of the estate in the converted case shall consist of the property of the estate as of the date of conversion.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2568](https://www.govinfo.gov/link/statute/92/2568); [Pub. L. 99–554, title II, § 257(i)](https://www.govinfo.gov/link/plaw/99/public/554), Oct. 27, 1986, [100 Stat. 3115](https://www.govinfo.gov/link/statute/100/3115); [Pub. L. 103–394, title III, § 311](https://www.govinfo.gov/link/plaw/103/public/394), title V, § 501(d)(5), Oct. 22, 1994, [108 Stat. 4138](https://www.govinfo.gov/link/statute/108/4138), 4144; [Pub. L. 109–8, title III, § 309(a)](https://www.govinfo.gov/link/plaw/109/public/8), title XII, § 1207, Apr. 20, 2005, [119 Stat. 82](https://www.govinfo.gov/link/statute/119/82), 194; [Pub. L. 111–327, § 2(a)(11)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3558](https://www.govinfo.gov/link/statute/124/3558).)*

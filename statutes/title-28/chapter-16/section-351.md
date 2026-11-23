@@ -3,9 +3,10 @@ title: "Section 351 - Complaints; judge defined"
 usc_title: 28
 usc_section: "351"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 351"
-generated_at: "2026-03-30T02:55:30.127Z"
+generated_at: "2026-11-23T21:26:01.035Z"
+status: "active"
 ---
 
 # § 351. Complaints; judge defined
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:55:30.127Z"
 - **(d)** In this chapter—
   - **(1)** the term “judge” means a circuit judge, district judge, bankruptcy judge, or magistrate judge; and
   - **(2)** the term “complainant” means the person filing a complaint under subsection (a) of this section.
+
+Filing of Complaint by Any Person
+
+Identifying Complaint by Chief Judge
+
+Transmittal of Complaint
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 107–273, div. C, title I, § 11042(a)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1848](https://www.govinfo.gov/link/statute/116/1848).)*

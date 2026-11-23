@@ -3,9 +3,10 @@ title: "Section 3102 - Definitions"
 usc_title: 29
 usc_section: "3102"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3102"
-generated_at: "2026-03-30T02:55:18.748Z"
+generated_at: "2026-11-23T21:26:02.323Z"
+status: "active"
 ---
 
 # § 3102. Definitions
@@ -191,3 +192,7 @@ In this Act, and the core program provisions that are not in this Act, except as
   - **(69)** The term “workforce preparation activities” has the meaning given the term in section 3272 of this title .
   - **(70)** The term “workplace learning advisor” means an individual employed by an organization who has the knowledge and skills necessary to advise other employees of that organization about the education, skill development, job training, career counseling services, and credentials, including services provided through the workforce development system, required to progress toward career goals of such employees in order to meet employer requirements related to job openings and career advancements that support economic self-sufficiency.
   - **(71)** The term “youth workforce investment activity” means an activity described in section 3164 of this title that is carried out for eligible youth (or as described in section 3164(a)(3)(A) of this title ).
+
+## Source Credit
+
+*([Pub. L. 113–128, § 3](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1429](https://www.govinfo.gov/link/statute/128/1429); [Pub. L. 114–95, title IX, § 9215(yyy)(1)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2191](https://www.govinfo.gov/link/statute/129/2191).)*

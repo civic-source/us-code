@@ -3,9 +3,10 @@ title: "Section 1503 - License for ownership, construction, and operation of dee
 usc_title: 33
 usc_section: "1503"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1503"
-generated_at: "2026-03-30T02:55:41.107Z"
+generated_at: "2026-11-23T21:26:11.407Z"
+status: "active"
 ---
 
 # § 1503. License for ownership, construction, and operation of deepwater port
@@ -36,3 +37,9 @@ generated_at: "2026-03-30T02:55:41.107Z"
 - **(g)** Any citizen of the United States who otherwise qualifies under the terms of this chapter shall be eligible to be issued a license for the ownership, construction, and operation of a deepwater port.
 - **(h)** A license issued under this chapter remains in effect unless suspended or revoked by the Secretary or until surrendered by the licensee.
 - **(i)** To promote the security of the United States, the Secretary shall give top priority to the processing of a license under this chapter for liquefied natural gas facilities that will be supplied with or that will supply liquefied natural gas by United States flag vessels.
+
+“Not later than 180 days after the date of the enactment this Act [ Feb. 8, 2016 ], the Secretary of Transportation shall—
+
+## Source Credit
+
+*([Pub. L. 93–627, § 4](https://www.govinfo.gov/link/plaw/93/public/627), Jan. 3, 1975, [88 Stat. 2128](https://www.govinfo.gov/link/statute/88/2128); [Pub. L. 98–419, § 2(b)](https://www.govinfo.gov/link/plaw/98/public/419) –(e), Sept. 25, 1984, [98 Stat. 1607](https://www.govinfo.gov/link/statute/98/1607); [Pub. L. 101–380, title II, § 2003(a)(1)](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 507](https://www.govinfo.gov/link/statute/104/507); [Pub. L. 104–324, title V, § 504](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3926](https://www.govinfo.gov/link/statute/110/3926); [Pub. L. 107–295, title I, § 106(a)(2)](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2086](https://www.govinfo.gov/link/statute/116/2086); [Pub. L. 109–241, title III, § 304(b)](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 527](https://www.govinfo.gov/link/statute/120/527); [Pub. L. 113–281, title III, § 307(c)](https://www.govinfo.gov/link/plaw/113/public/281), Dec. 18, 2014, [128 Stat. 3045](https://www.govinfo.gov/link/statute/128/3045); [Pub. L. 118–31, div. C, title XXXV, § 3514(k)(3)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 813](https://www.govinfo.gov/link/statute/137/813).)*

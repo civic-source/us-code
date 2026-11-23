@@ -3,9 +3,10 @@ title: "Section 1450 - Payment of annuity: beneficiaries"
 usc_title: 10
 usc_section: "1450"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1450"
-generated_at: "2026-03-30T02:53:38.122Z"
+generated_at: "2026-11-23T21:25:32.482Z"
+status: "active"
 ---
 
 # § 1450. Payment of annuity: beneficiaries
@@ -122,3 +123,167 @@ generated_at: "2026-03-30T02:53:38.122Z"
       - **(ii)** an amount equal to a percentage of the amount determined pursuant to clause (i), which percentage is the percentage by which the retired pay of the member would have increased for the month, as described in subparagraph (A), if the member was alive (and otherwise entitled to such pay).
     - **(C)** The monthly amount of an allowance payable under this subsection, if not a multiple of $1, shall be rounded to the next lower multiple of $1.
     - **(D)** Whenever an increase in the amount of the allowance payable under paragraph (1) is made pursuant to this paragraph, the Secretary of Defense shall publish the amount of the allowance so payable by reason of such increase, including the months for which payable.
+
+In General
+
+Surviving spouse or former spouse
+
+Surviving children
+
+Dependent children
+
+Special needs trusts for sole benefit of certain dependent children
+
+Natural person designated under “insurable interest” coverage
+
+Termination of Annuity for Death, Remarriage Before Age
+
+Etc.—
+
+General rule
+
+Termination of spouse annuity upon death or remarriage before age 55
+
+Effect of termination of subsequent marriage before age 55
+
+Offset for Amount of Dependency and Indemnity Compensation.—
+
+Required offset
+
+Effective date of offset
+
+Limitation on recoupment of offset amount
+
+Limitation on Payment of Annuities When Coverage Under Civil Service Retirement Elected
+
+Refund of Amounts Deducted From Retired Pay or CRSC When DIC Offset Is Applicable.—
+
+Full refund when dic greater than sbp annuity
+
+Partial refund when sbp annuity reduced by dic
+
+Change in Election of Insurable Interest or Former Spouse Beneficiary.—
+
+Authorized changes.—
+
+Election in favor of spouse or child
+
+Notice
+
+Procedures, effective date, etc
+
+Limitation on change in beneficiary when former spouse coverage in effect
+
+Required former spouse election to be deemed to have been made.—
+
+Deemed election upon request by former spouse
+
+Request from former spouse
+
+Copy of court order or other official statement
+
+Persons required to make election
+
+Time limit for request by former spouse
+
+Effective date of deemed election
+
+Former spouse coverage may be required by court order
+
+Limitation on Changing or Revoking Elections.—
+
+In general
+
+Exceptions
+
+Treatment of Annuities Under Other Laws
+
+Annuities Exempt From Certain Legal Process
+
+Effective Date of Reserve-Component Annuities.—
+
+Persons making section 1448
+
+designation
+
+Persons dying before making section 1448
+
+designation
+
+Adjustment of Spouse or Former Spouse Annuity Upon Loss of Dependency and Indemnity Compensation.—
+
+Readjustment if beneficiary 55 years of age or more
+
+Repayment of amounts previously refunded.—
+
+General rule
+
+Interest required if repayment not a lump sum
+
+Manner of repayment; rate of interest
+
+Deposit of amounts repaid
+
+Participants in the Plan Who Are Missing.—
+
+Authority to presume death of missing participant.—
+
+In general
+
+Participant who is missing
+
+Requirements applicable to presumption of death
+
+Commencement of annuity
+
+Effect of person not being dead.—
+
+Termination of annuity
+
+Collection from participant of annuity amounts erroneously paid
+
+Collection from beneficiary
+
+Special Survivor Indemnity Allowance.—
+
+Provision of allowance
+
+Amount of payment
+
+Limitation
+
+Status of payments
+
+Source of funds
+
+Cost-of-living adjustments after november 2018.—
+
+In general
+
+Amount of increase
+
+Rounding down
+
+Public notice on amount of allowance payable
+
+after november 2018
+
+after 2018
+
+In general
+
+Public notice on amount of allowance payable
+
+Periodic recomputation required
+
+Time for recomputation
+
+Savings provision
+
+Cases Not Covered by Existing Authority
+
+Adjusted Time Limit for Request by Former Spouse
+
+## Source Credit
+
+*(Added [Pub. L. 92–425, § 1(3)](https://www.govinfo.gov/link/plaw/92/public/425), Sept. 21, 1972, [86 Stat. 708](https://www.govinfo.gov/link/statute/86/708); amended [Pub. L. 94–496, § 1(3)](https://www.govinfo.gov/link/plaw/94/public/496), (4), Oct. 14, 1976, [90 Stat. 2375](https://www.govinfo.gov/link/statute/90/2375); [Pub. L. 95–397, title II](https://www.govinfo.gov/link/plaw/95/public/397), §§ 203, 207(b), (c), Sept. 30, 1978, [92 Stat. 845](https://www.govinfo.gov/link/statute/92/845), 848; [Pub. L. 97–22, § 11(a)(3)](https://www.govinfo.gov/link/plaw/97/public/22), July 10, 1981, [95 Stat. 137](https://www.govinfo.gov/link/statute/95/137); [Pub. L. 97–252, title X, § 1003(c)](https://www.govinfo.gov/link/plaw/97/public/252), (d), Sept. 8, 1982, [96 Stat. 736](https://www.govinfo.gov/link/statute/96/736); [Pub. L. 98–94, title IX, § 941(a)(3)](https://www.govinfo.gov/link/plaw/98/public/94), (c)(3), Sept. 24, 1983, [97 Stat. 653](https://www.govinfo.gov/link/statute/97/653); [Pub. L. 98–525, title VI](https://www.govinfo.gov/link/plaw/98/public/525), §§ 642(b), 644, Oct. 19, 1984, [98 Stat. 2546](https://www.govinfo.gov/link/statute/98/2546), 2548; [Pub. L. 99–145, title VII](https://www.govinfo.gov/link/plaw/99/public/145), §§ 713(b), 717, 718, 719(4)–(6), (8)(A), 722, 723(a), (b)(1), title XIII, § 1303(a)(11), Nov. 8, 1985, [99 Stat. 672](https://www.govinfo.gov/link/statute/99/672), 674–677, 739; [Pub. L. 99–661, div. A, title VI](https://www.govinfo.gov/link/plaw/99/public/661), §§ 641(a), (b)(2), (3), 643(a), title XIII, § 1343(a)(8)(C), Nov. 14, 1986, [100 Stat. 3885](https://www.govinfo.gov/link/statute/100/3885), 3886, 3992; [Pub. L. 100–26, § 3(3)](https://www.govinfo.gov/link/plaw/100/public/26), Apr. 21, 1987, [101 Stat. 273](https://www.govinfo.gov/link/statute/101/273); [Pub. L. 100–180, div. A, title VI, § 636(a)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1106](https://www.govinfo.gov/link/statute/101/1106); [Pub. L. 100–224, § 5(b)(1)](https://www.govinfo.gov/link/plaw/100/public/224), Dec. 30, 1987, [101 Stat. 1538](https://www.govinfo.gov/link/statute/101/1538); [Pub. L. 101–189, div. A, title XIV, § 1407(a)(2)](https://www.govinfo.gov/link/plaw/101/public/189) –(4), title XVI, § 1621(a)(1), Nov. 29, 1989, [103 Stat. 1588](https://www.govinfo.gov/link/statute/103/1588), 1602; [Pub. L. 103–337, div. A, title X, § 1070(e)(3)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2859](https://www.govinfo.gov/link/statute/108/2859); [Pub. L. 104–201, div. A, title VI, § 634](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2561](https://www.govinfo.gov/link/statute/110/2561); [Pub. L. 105–85, div. A, title VI, § 642(a)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1799](https://www.govinfo.gov/link/statute/111/1799); [Pub. L. 105–261, div. A, title VI, § 643(b)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2048](https://www.govinfo.gov/link/statute/112/2048); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title VI, § 655(c)(4)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–166; [Pub. L. 110–181, div. A, title VI](https://www.govinfo.gov/link/plaw/110/public/181), §§ 643(a), 644, Jan. 28, 2008, [122 Stat. 157](https://www.govinfo.gov/link/statute/122/157), 158; [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title VI, § 631(a), Oct. 14, 2008, [122 Stat. 4492](https://www.govinfo.gov/link/statute/122/4492); [Pub. L. 111–31, div. B, title II, § 201](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1857](https://www.govinfo.gov/link/statute/123/1857); [Pub. L. 112–239, div. A, title VI, § 641(b)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1783](https://www.govinfo.gov/link/statute/126/1783); [Pub. L. 113–291, div. A, title VI, § 624(a)(1)](https://www.govinfo.gov/link/plaw/113/public/291), (2)(A), Dec. 19, 2014, [128 Stat. 3403](https://www.govinfo.gov/link/statute/128/3403); [Pub. L. 114–328, div. A, title VI](https://www.govinfo.gov/link/plaw/114/public/328), §§ 642(d), 643(c)(2), 646, Dec. 23, 2016, [130 Stat. 2165](https://www.govinfo.gov/link/statute/130/2165), 2166, 2168; [Pub. L. 115–91, div. A, title VI, § 621](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1427](https://www.govinfo.gov/link/statute/131/1427); [Pub. L. 115–232, div. A, title VI, § 622(a)](https://www.govinfo.gov/link/plaw/115/public/232), (b), Aug. 13, 2018, [132 Stat. 1799](https://www.govinfo.gov/link/statute/132/1799); [Pub. L. 116–92, div. A, title VI, § 622(a)(1)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1427](https://www.govinfo.gov/link/statute/133/1427).)*

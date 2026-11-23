@@ -3,12 +3,17 @@ title: "Section 375c - Sales of small tracts to resident farm owners and entryme
 usc_title: 43
 usc_section: "375c"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 375c"
-generated_at: "2026-03-30T02:55:57.440Z"
+generated_at: "2026-11-23T21:26:19.758Z"
+status: "active"
 ---
 
 # § 375c. Sales of small tracts to resident farm owners and entrymen; price; terms; acreage purchasable
 
 The Secretary is authorized to sell such land to resident farm owners or resident entrymen, on the project upon which such land is located, at prices not less than that fixed by independent appraisal approved by the Secretary, and upon such terms and at private sale or at public auction as he may prescribe: Provided , That such resident farm landowner or resident entryman shall be permitted to purchase under sections 375b to 375f of this title not more than one hundred and sixty acres of such land, or an area which, together with land already owned or entered on such project shall not exceed one hundred and sixty irrigable acres.
 
+
+## Source Credit
+
+*(Mar. 31, 1950, ch. 78, § 2, [64 Stat. 39](https://www.govinfo.gov/link/statute/64/39).)*

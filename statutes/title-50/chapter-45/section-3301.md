@@ -3,9 +3,10 @@ title: "Section 3301 - Multiyear national intelligence program"
 usc_title: 50
 usc_section: "3301"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3301"
-generated_at: "2026-03-30T02:56:26.242Z"
+generated_at: "2026-11-23T21:26:39.029Z"
+status: "active"
 ---
 
 # § 3301. Multiyear national intelligence program
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:26.242Z"
 - **(d)** The congressional committees referred to in subsection (a) are the following:
   - **(1)** The Committee on Armed Services, the Committee on Appropriations, and the Select Committee on Intelligence of the Senate.
   - **(2)** The Committee on Armed Services, the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 101–510, div. A, title XIV, § 1403](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1675](https://www.govinfo.gov/link/statute/104/1675); [Pub. L. 104–106, div. A, title XV, § 1502(c)(4)(B)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 507](https://www.govinfo.gov/link/statute/110/507); [Pub. L. 106–65, div. A, title X, § 1067(10)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774); [Pub. L. 111–259, title VIII, § 805(a)](https://www.govinfo.gov/link/plaw/111/public/259) –(d)(1), Oct. 7, 2010, [124 Stat. 2748](https://www.govinfo.gov/link/statute/124/2748).)*

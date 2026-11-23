@@ -3,9 +3,10 @@ title: "Section 1252 - Initial regulatory procedures"
 usc_title: 30
 usc_section: "1252"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1252"
-generated_at: "2026-03-30T02:55:29.399Z"
+generated_at: "2026-11-23T21:26:00.424Z"
+status: "active"
 ---
 
 # § 1252. Initial regulatory procedures
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:29.399Z"
   - **(4)** provide that moneys authorized by section 1302 of this title shall be available to the Secretary prior to the approval of a State program pursuant to this chapter to reimburse the State for conducting those inspections in which the standards of this chapter are enforced and for the administration of this section. 1 1 So in original. The period probably should be a semicolon.
   - **(5)** for purposes of this section, the term “Federal inspector” means personnel of the Office of Surface Mining Reclamation and Enforcement and such additional personnel of the United States Geological Survey, Bureau of Land Management, or of the Mining Enforcement and Safety Administration so designated by the Secretary, or such other personnel of the Forest Service, Soil Conservation Service, or the Agricultural Stabilization and Conservation Service as arranged by appropriate agreement with the Secretary on a reimbursable or other basis; 2 2 So in original. The semicolon probably should be a period.
 - **(f)** Following the final disapproval of a State program, and prior to promulgation of a Federal program or a Federal lands program pursuant to this chapter, including judicial review of such a program, existing surface coal mining operations may continue surface mining operations pursuant to the provisions of this section. During such period no new permits shall be issued by the State whose program has been disapproved. Permits which lapse during such period may continue in full force and effect until promulgation of a Federal program or a Federal lands program.
+
+## Source Credit
+
+*([Pub. L. 95–87, title V, § 502](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 468](https://www.govinfo.gov/link/statute/91/468).)*

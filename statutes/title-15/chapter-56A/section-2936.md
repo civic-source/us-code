@@ -3,9 +3,10 @@ title: "Section 2936 - Scientific assessment"
 usc_title: 15
 usc_section: "2936"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2936"
-generated_at: "2026-03-30T02:54:08.185Z"
+generated_at: "2026-11-23T21:25:39.958Z"
+status: "active"
 ---
 
 # § 2936. Scientific assessment
@@ -15,3 +16,7 @@ On a periodic basis (not less frequently than every 4 years), the Council, throu
   - **(1)** integrates, evaluates, and interprets the findings of the Program and discusses the scientific uncertainties associated with such findings;
   - **(2)** analyzes the effects of global change on the natural environment, agriculture, energy production and use, land and water resources, transportation, human health and welfare, human social systems, and biological diversity; and
   - **(3)** analyzes current trends in global change, both human-inducted 1 1 So in original. Probably should be “human-induced”. and natural, and projects major trends for the subsequent 25 to 100 years.
+
+## Source Credit
+
+*([Pub. L. 101–606, title I, § 106](https://www.govinfo.gov/link/plaw/101/public/606), Nov. 16, 1990, [104 Stat. 3101](https://www.govinfo.gov/link/statute/104/3101).)*

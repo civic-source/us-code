@@ -3,9 +3,10 @@ title: "Section 7905 - Greenhouse Gas Intensity Reducing Technology Export Initi
 usc_title: 22
 usc_section: "7905"
 chapter: 86
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7905"
-generated_at: "2026-03-30T02:55:05.447Z"
+generated_at: "2026-11-23T21:25:58.730Z"
+status: "active"
 ---
 
 # § 7905. Greenhouse Gas Intensity Reducing Technology Export Initiative
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.447Z"
 - **(c)** Not later than 180 days after August 8, 2005 , and each year thereafter, the interagency working group shall—
   - **(1)** conduct a performance review of actions taken and results achieved by the Federal Government (including each of the agencies represented on the interagency working group) to promote the export of greenhouse gas intensity reducing technologies and practices from the United States; and
   - **(2)** submit to the appropriate authorizing and appropriating committees of Congress a report that describes the results of the performance reviews and evaluates progress in promoting the export of greenhouse gas intensity reducing technologies and practices from the United States, including any recommendations for increasing the export of the technologies and practices.
+
+## Source Credit
+
+*([Pub. L. 101–240, title VII, § 735](https://www.govinfo.gov/link/plaw/101/public/240), as added [Pub. L. 109–58, title XVI, § 1611](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1115](https://www.govinfo.gov/link/statute/119/1115).)*

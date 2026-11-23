@@ -3,9 +3,10 @@ title: "Section 2014 - Administrative actions adversely affecting military train
 usc_title: 10
 usc_section: "2014"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2014"
-generated_at: "2026-03-30T02:53:38.140Z"
+generated_at: "2026-11-23T21:25:32.548Z"
+status: "active"
 ---
 
 # § 2014. Administrative actions adversely affecting military training or other readiness activities
@@ -27,3 +28,21 @@ generated_at: "2026-03-30T02:53:38.140Z"
   - **(2)** Not later than 30 days after the date on which the President takes final action on a matter under paragraph (1), the President shall submit to the committees referred to in subsection (a) a notification of the action.
 - **(f)** The head of an Executive agency may not delegate any responsibility under this section.
 - **(g)** In this section, the term “Executive agency” has the meaning given such term in section 105 of title 5 , except that the term does not include the Government Accountability Office.
+
+Congressional Notification
+
+Notification To Be Prompt
+
+Consultation Between Secretary and Head of Executive Agency
+
+Moratorium
+
+Effect of Lack of Agreement
+
+Limitation on Delegation of Authority
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 105–85, div. A, title III, § 325(a)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1678](https://www.govinfo.gov/link/statute/111/1678); amended [Pub. L. 106–65, div. A, title X, § 1067(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774); [Pub. L. 108–375, div. A, title X, § 1084(c)(3)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2061](https://www.govinfo.gov/link/statute/118/2061).)*

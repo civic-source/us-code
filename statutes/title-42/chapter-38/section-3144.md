@@ -3,9 +3,10 @@ title: "Section 3144 - Cost sharing"
 usc_title: 42
 usc_section: "3144"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3144"
-generated_at: "2026-03-30T02:56:11.182Z"
+generated_at: "2026-11-23T21:26:32.535Z"
+status: "active"
 ---
 
 # § 3144. Cost sharing
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.182Z"
   - **(2)** In the case of a grant to a State, or a political subdivision of a State, that the Secretary determines has exhausted the effective taxing and borrowing capacity of the State or political subdivision or can otherwise document that no local matching funds are reasonably obtainable, or in the case of a grant to a nonprofit organization that the Secretary determines has exhausted the effective borrowing capacity of the nonprofit organization, the Secretary may increase the Federal share above the percentage specified in subsection (a) up to 100 percent of the cost of the project.
   - **(3)** In the case of a grant provided under section 3143 or 3147 of this title, the Secretary may increase the Federal share above the percentage specified in subsection (a) up to 100 percent of the cost of the project.
   - **(4)** In the case of a grant to a political subdivision of a State (as described in section 3122(6)(A)(iv) of this title ) that has a population of fewer than 10,000 residents and meets 1 or more of the eligibility criteria described in section 3161(a) of this title , the Secretary may increase the Federal share under paragraph (1) up to 100 percent of the total cost of the project.
+
+## Source Credit
+
+*([Pub. L. 89–136, title II, § 204](https://www.govinfo.gov/link/plaw/89/public/136), as added [Pub. L. 105–393, title I, § 102(a)](https://www.govinfo.gov/link/plaw/105/public/393), Nov. 13, 1998, [112 Stat. 3603](https://www.govinfo.gov/link/statute/112/3603); amended [Pub. L. 108–373, title II, § 202](https://www.govinfo.gov/link/plaw/108/public/373), Oct. 27, 2004, [118 Stat. 1759](https://www.govinfo.gov/link/statute/118/1759); [Pub. L. 118–272, div. B, title II, § 2215](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3181](https://www.govinfo.gov/link/statute/138/3181).)*

@@ -3,9 +3,10 @@ title: "Section 18793 - Energy auditor training grant program"
 usc_title: 42
 usc_section: "18793"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18793"
-generated_at: "2026-03-30T02:56:11.530Z"
+generated_at: "2026-11-23T21:26:33.849Z"
+status: "active"
 ---
 
 # § 18793. Energy auditor training grant program
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:56:11.530Z"
   - **(2)** Not more than 10 percent of grant funds provided under subsection (b) to an eligible State may be used for the purpose described in paragraph (1)(B).
 - **(f)** In carrying out this section, the Secretary shall consult with the Secretary of Labor.
 - **(g)** There is authorized to be appropriated to the Secretary to carry out this section $40,000,000 for the period of fiscal years 2022 through 2026.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title V, § 40503](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1056](https://www.govinfo.gov/link/statute/135/1056).)*

@@ -3,9 +3,10 @@ title: "Section 411 - Registration and civil infringement actions"
 usc_title: 17
 usc_section: "411"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 411"
-generated_at: "2026-03-30T02:54:15.351Z"
+generated_at: "2026-11-23T21:25:41.718Z"
+status: "active"
 ---
 
 # § 411. Registration and civil infringement actions
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:15.351Z"
 - **(c)** In the case of a work consisting of sounds, images, or both, the first fixation of which is made simultaneously with its transmission, the copyright owner may, either before or after such fixation takes place, institute an action for infringement under section 501, fully subject to the remedies provided by sections 502 through 505 and section 510, if, in accordance with requirements that the Register of Copyrights shall prescribe by regulation, the copyright owner—
   - **(1)** serves notice upon the infringer, not less than 48 hours before such fixation, identifying the work and the specific time and source of its first transmission, and declaring an intention to secure copyright in the work; and
   - **(2)** makes registration for the work, if required by subsection (a), within three months after its first transmission.
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2583](https://www.govinfo.gov/link/statute/90/2583); [Pub. L. 100–568, § 9(b)(1)](https://www.govinfo.gov/link/plaw/100/public/568), Oct. 31, 1988, [102 Stat. 2859](https://www.govinfo.gov/link/statute/102/2859); [Pub. L. 101–650, title VI, § 606(c)(1)](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5131](https://www.govinfo.gov/link/statute/104/5131); [Pub. L. 105–80, § 6](https://www.govinfo.gov/link/plaw/105/public/80), Nov. 13, 1997, [111 Stat. 1532](https://www.govinfo.gov/link/statute/111/1532); [Pub. L. 105–304, title I, § 102(d)](https://www.govinfo.gov/link/plaw/105/public/304), Oct. 28, 1998, [112 Stat. 2863](https://www.govinfo.gov/link/statute/112/2863); [Pub. L. 109–9, title I, § 104(b)](https://www.govinfo.gov/link/plaw/109/public/9), Apr. 27, 2005, [119 Stat. 222](https://www.govinfo.gov/link/statute/119/222); [Pub. L. 110–403, title I, § 101(a)](https://www.govinfo.gov/link/plaw/110/public/403), title II, § 209(a)(6), Oct. 13, 2008, [122 Stat. 4257](https://www.govinfo.gov/link/statute/122/4257), 4264.)*

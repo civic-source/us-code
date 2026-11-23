@@ -3,9 +3,10 @@ title: "Section 20943 - Membership of Standards Board"
 usc_title: 52
 usc_section: "20943"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 20943"
-generated_at: "2026-03-30T02:56:30.166Z"
+generated_at: "2026-11-23T21:26:42.331Z"
+status: "active"
 ---
 
 # § 20943. Membership of Standards Board
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:30.166Z"
     - **(B)** three shall serve for 2 consecutive terms; and
     - **(C)** three shall serve for 3 consecutive terms,
   - **(4)** In addition to any other duties assigned under this subchapter, the Executive Board of the Standards Board may carry out such duties of the Standards Board as the Standards Board may delegate.
+
+## Source Credit
+
+*([Pub. L. 107–252, title II, § 213](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1678](https://www.govinfo.gov/link/statute/116/1678).)*

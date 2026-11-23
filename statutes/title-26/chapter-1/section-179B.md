@@ -3,9 +3,10 @@ title: "Section 179B - Deduction for capital costs incurred in complying with En
 usc_title: 26
 usc_section: "179B"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 179B"
-generated_at: "2026-03-30T02:55:27.648Z"
+generated_at: "2026-11-23T21:26:06.075Z"
+status: "active"
 ---
 
 # § 179B. Deduction for capital costs incurred in complying with Environmental Protection Agency sulfur regulations
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:27.648Z"
     - **(B)** one or more persons directly holding an ownership interest in the refiner are organizations to which part I of subchapter T apply,
   - **(2)** An election under paragraph (1) for any taxable year shall be made on a timely filed return for such year. Such election, once made, shall be irrevocable for such taxable year.
   - **(3)** If any portion of the deduction available under subsection (a) is allocated to owners under paragraph (1), the cooperative shall provide any owner receiving an allocation written notice of the amount of the allocation. Such notice shall be provided before the date on which the return described in paragraph (2) is due.
+
+## Source Credit
+
+*(Added [Pub. L. 108–357, title III, § 338(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1480](https://www.govinfo.gov/link/statute/118/1480); amended [Pub. L. 109–58, title XIII, § 1324(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1015](https://www.govinfo.gov/link/statute/119/1015); [Pub. L. 110–172, § 7(a)(3)(A)](https://www.govinfo.gov/link/plaw/110/public/172), (C), Dec. 29, 2007, [121 Stat. 2482](https://www.govinfo.gov/link/statute/121/2482).)*

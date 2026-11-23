@@ -3,9 +3,10 @@ title: "Section 44909 - Passenger manifests"
 usc_title: 49
 usc_section: "44909"
 chapter: 449
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44909"
-generated_at: "2026-03-30T02:56:19.390Z"
+generated_at: "2026-11-23T21:26:40.925Z"
+status: "active"
 ---
 
 # § 44909. Passenger manifests
@@ -37,3 +38,81 @@ generated_at: "2026-03-30T02:56:19.390Z"
     - **(B)**
       - **(i)** The Secretary of Homeland Security shall establish a timely and fair process for individuals identified as a threat under subparagraph (A) to appeal to the Department of Homeland Security the determination and correct any erroneous information.
       - **(ii)** The process shall include the establishment of a method by which the Secretary of Homeland Security will be able to maintain a record of air passengers and other individuals who have been misidentified and have corrected erroneous information. To prevent repeated delays of misidentified passengers and other individuals, the Department of Homeland Security record shall contain information determined by the Secretary of Homeland Security to authenticate the identity of such a passenger or individual.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44909(a)(1) | 49 App.:1380(a). | Aug. 23, 1958 , Pub. L. 85–726, § 410 , 72 Stat. 769 ; Oct. 15, 1962 , Pub. L. 87–820, § 8 , 76 Stat. 936 ; restated Nov. 16, 1990 , Pub. L. 101–604, § 203(a) , 104 Stat. 3082 . |
+| 44909(a)(2) | 49 App.:1380(b). |  |
+| 44909(a)(3) | 49 App.:1380 (note). | Nov. 16, 1990 , Pub. L. 101–604, § 203(b) , 104 Stat. 3082 . |
+| 44909(b) | 49 App.:1380 (note). | Nov. 16, 1990 , Pub. L. 101–604, § 203(c) , 104 Stat. 3083 . |
+
+
+Air Carrier Requirements
+
+Foreign Air Carrier Requirements
+
+Flights in Foreign Air Transportation to the United States.—
+
+In general
+
+Information
+
+Passenger name records
+
+Transmission of manifest
+
+Transmission of manifests to other federal agencies
+
+Prescreening international passengers.—
+
+In general
+
+Appeal procedures.—
+
+In general
+
+Records
+
+Historical and Revision Notes
+
+44909(a)(1)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 410
+
+72 Stat. 769
+
+Oct. 15, 1962
+
+Pub. L. 87–820, § 8
+
+76 Stat. 936
+
+Nov. 16, 1990
+
+Pub. L. 101–604, § 203(a)
+
+104 Stat. 3082
+
+44909(a)(2)
+
+44909(a)(3)
+
+Nov. 16, 1990
+
+Pub. L. 101–604, § 203(b)
+
+104 Stat. 3082
+
+44909(b)
+
+Nov. 16, 1990
+
+Pub. L. 101–604, § 203(c)
+
+104 Stat. 3083
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1211](https://www.govinfo.gov/link/statute/108/1211); [Pub. L. 106–181, title VII, § 718](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 163](https://www.govinfo.gov/link/statute/114/163); [Pub. L. 107–71, title I, § 115](https://www.govinfo.gov/link/plaw/107/public/71), Nov. 19, 2001, [115 Stat. 623](https://www.govinfo.gov/link/statute/115/623); [Pub. L. 108–458, title IV, § 4012(a)(2)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3717](https://www.govinfo.gov/link/statute/118/3717); [Pub. L. 114–125, title VIII, § 802(d)(2)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 210](https://www.govinfo.gov/link/statute/130/210); [Pub. L. 115–254, div. K, title I, § 1991(d)(8)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3633](https://www.govinfo.gov/link/statute/132/3633).)*

@@ -3,9 +3,10 @@ title: "Section 356j - Discontinuance or interruption in the production of medic
 usc_title: 21
 usc_section: "356j"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 356j"
-generated_at: "2026-03-30T02:54:54.243Z"
+generated_at: "2026-11-23T21:25:56.062Z"
+status: "active"
 ---
 
 # § 356j. Discontinuance or interruption in the production of medical devices
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:54:54.243Z"
     - **(C)** does not include interruptions in manufacturing of components or raw materials so long as such interruptions do not result in a shortage of the device and the manufacturer expects to resume operations in a reasonable period of time; and
     - **(D)** does not include interruptions in manufacturing that do not lead to a reduction in procedures or diagnostic tests associated with a medical device designed to perform more than one procedure or diagnostic test.
   - **(2)** The term “shortage”, with respect to a device, means a period of time when the demand or projected demand for the device within the United States exceeds the supply of the device.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 506J, as added [Pub. L. 116–136, div. A, title III, § 3121](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 363](https://www.govinfo.gov/link/statute/134/363); amended [Pub. L. 117–328, div. FF, title II, § 2514(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5805](https://www.govinfo.gov/link/statute/136/5805).)*

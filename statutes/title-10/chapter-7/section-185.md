@@ -3,9 +3,10 @@ title: "Section 185 - Joint Safety Council"
 usc_title: 10
 usc_section: "185"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 185"
-generated_at: "2026-03-30T02:53:38.045Z"
+generated_at: "2026-11-23T21:25:32.235Z"
+status: "active"
 ---
 
 # § 185. Joint Safety Council
@@ -75,3 +76,53 @@ generated_at: "2026-03-30T02:53:38.045Z"
       - **(i)** releasable information regarding any mishap that occurred during such year; and
       - **(ii)** an identification of any corrective or preventative action implemented pursuant to a recommendation made in a safety or legal investigation report of such a mishap.
 - **(l)** Not later than March 31 and December 31 of each year, the Chairperson of the Council shall provide to the congressional defense committees a briefing on the contents of the report required to be submitted under subsection (k)(1) that covers the six-month period preceding the date of the briefing.
+
+In General
+
+Membership; Appointment; Compensation
+
+Chairperson and Vice Chairperson
+
+Responsibilities
+
+Oversight
+
+Staff
+
+Contract Authority
+
+Procurement of Temporary and Intermittent Services
+
+Data Collection
+
+Meetings
+
+Reports
+
+Biannual Briefings
+
+Establishment
+
+Investigations.—
+
+Grade of investigating officer
+
+Timeline for investigations
+
+Briefing requirement
+
+Accountability Actions
+
+Briefing Requirement
+
+Deadline for Implementation
+
+Establishment
+
+Appointment of first members
+
+Directors of safety
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. A, title III, § 372(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1664](https://www.govinfo.gov/link/statute/135/1664), § 184; amended [Pub. L. 117–263, div. A, title III](https://www.govinfo.gov/link/plaw/117/public/263), §§ 381, 383, Dec. 23, 2022, [136 Stat. 2542](https://www.govinfo.gov/link/statute/136/2542), 2544; renumbered § 185 and amended [Pub. L. 118–31, div. A, title III, § 363](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 233](https://www.govinfo.gov/link/statute/137/233); [Pub. L. 118–159, div. A, title III, § 331](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1854](https://www.govinfo.gov/link/statute/138/1854).)*

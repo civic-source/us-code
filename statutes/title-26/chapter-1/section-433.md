@@ -3,9 +3,10 @@ title: "Section 433 - Minimum funding standards for CSEC plans"
 usc_title: 26
 usc_section: "433"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 433"
-generated_at: "2026-03-30T02:55:27.698Z"
+generated_at: "2026-11-23T21:26:06.263Z"
+status: "active"
 ---
 
 # § 433. Minimum funding standards for CSEC plans
@@ -109,7 +110,15 @@ generated_at: "2026-03-30T02:55:27.698Z"
     - **(C)** For purposes of subparagraph (A)(ii), contributions shall be credited against unpaid required installments in the order in which such installments are required to be paid.
   - **(3)** For purposes of this subsection—
     - **(A)** There shall be 4 required installments for each plan year.
-    - **(B)** In the case of the following required installments: The due date is: 1st April 15 2nd July 15 3rd October 15 4th January 15 of the following year.
+    - **(B)**
+
+|  | In the case of the following required installments: | The due date is: |
+| --- | --- | --- |
+|  | 1st | April 15 |
+|  | 2nd | July 15 |
+|  | 3rd | October 15 |
+|  | 4th | January 15 of the following year. |
+
   - **(4)** For purposes of this subsection—
     - **(A)** The amount of any required installment shall be 25 percent of the required annual payment.
     - **(B)** For purposes of subparagraph (A), the term “required annual payment” means the lesser of—
@@ -198,3 +207,40 @@ generated_at: "2026-03-30T02:55:27.698Z"
     - **(C)** The term “funding liability” for a plan year means the present value of all benefits accrued or earned under the plan as of the beginning of the plan year, based on the assumptions used by the plan pursuant to this section, including the interest rate described in subsection (b)(5)(A) (without regard to subsection (b)(5)(B)).
     - **(D)** The term “spread gain funding method” has the meaning given such term under rules and forms issued by the Secretary.
     - **(E)** The term “plan sponsor” means, with respect to a CSEC plan, the association, committee, joint board of trustees, or other similar group of representatives of the parties who establish or maintain the plan.
+
+|  | If the years of participation are: | The applicable percentage is: |
+| --- | --- | --- |
+|  | 1 | 20 |
+|  | 2 | 40 |
+|  | 3 | 60 |
+|  | 4 | 80 |
+|  | 5 or more | 100. |
+
+
+Minimum amount.—
+
+In general
+
+Assets
+
+1st
+
+2nd
+
+3rd
+
+4th
+
+1
+
+2
+
+3
+
+4
+
+5 or more
+
+## Source Credit
+
+*(Added [Pub. L. 113–97, title II, § 202(a)](https://www.govinfo.gov/link/plaw/113/public/97), Apr. 7, 2014, [128 Stat. 1122](https://www.govinfo.gov/link/statute/128/1122); amended [Pub. L. 115–141, div. U, title IV, § 401(a)(108)](https://www.govinfo.gov/link/plaw/115/public/141), (109)(A), Mar. 23, 2018, [132 Stat. 1189](https://www.govinfo.gov/link/statute/132/1189).)*

@@ -3,9 +3,10 @@ title: "Section 52 - Special rules"
 usc_title: 26
 usc_section: "52"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 52"
-generated_at: "2026-03-30T02:55:27.612Z"
+generated_at: "2026-11-23T21:26:05.960Z"
+status: "active"
 ---
 
 # § 52. Special rules
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:27.612Z"
 - **(e)** Under regulations prescribed by the Secretary, in the case of—
   - **(1)** a regulated investment company or a real estate investment trust subject to taxation under subchapter M (section 851 and following), and
   - **(2)** a cooperative organization described in section 1381(a),
+
+## Source Credit
+
+*(Added [Pub. L. 95–30, title II, § 202(b)](https://www.govinfo.gov/link/plaw/95/public/30), May 23, 1977, [91 Stat. 143](https://www.govinfo.gov/link/statute/91/143); amended [Pub. L. 95–600, title III, § 321(c)(1)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2835](https://www.govinfo.gov/link/statute/92/2835); [Pub. L. 96–222, title I, § 103(a)(5)](https://www.govinfo.gov/link/plaw/96/public/222), Apr. 1, 1980, [94 Stat. 209](https://www.govinfo.gov/link/statute/94/209); [Pub. L. 97–354, § 5(a)(11)](https://www.govinfo.gov/link/plaw/97/public/354), Oct. 19, 1982, [96 Stat. 1693](https://www.govinfo.gov/link/statute/96/1693); [Pub. L. 98–369, div. A, title IV, § 474(p)(4)](https://www.govinfo.gov/link/plaw/98/public/369) –(7), July 18, 1984, [98 Stat. 838](https://www.govinfo.gov/link/statute/98/838); [Pub. L. 101–508, title XI, § 11813(b)(4)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–551](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 104–188, title I, § 1616(b)(2)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1856](https://www.govinfo.gov/link/statute/110/1856); [Pub. L. 105–34, title XVI, § 1601(b)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1087](https://www.govinfo.gov/link/statute/111/1087); [Pub. L. 112–56, title II, § 261(e)(1)](https://www.govinfo.gov/link/plaw/112/public/56), Nov. 21, 2011, [125 Stat. 730](https://www.govinfo.gov/link/statute/125/730).)*

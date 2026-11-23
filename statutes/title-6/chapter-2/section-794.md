@@ -3,9 +3,10 @@ title: "Section 794 - Limitation on length of certain noncompetitive contracts"
 usc_title: 6
 usc_section: "794"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 794"
-generated_at: "2026-03-30T02:53:09.500Z"
+generated_at: "2026-11-23T21:25:25.850Z"
+status: "active"
 ---
 
 # § 794. Limitation on length of certain noncompetitive contracts
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:09.500Z"
   - **(2)** to enter into another contract for the required goods or services through the use of competitive procedures.
 - **(b)** The regulations promulgated under subsection (a) shall require the contract period to not to exceed 1 1 So in original. Probably should be “period not to exceed”. 150 days, unless the Secretary determines that exceptional circumstances apply.
 - **(c)** This section applies to any contract in an amount greater than the simplified acquisition threshold (as defined by section 134 of title 41 ) entered into by the Department to facilitate response to or recovery from a natural disaster, act of terrorism, or other man-made disaster.
+
+## Source Credit
+
+*([Pub. L. 109–295, title VI, § 695](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1460](https://www.govinfo.gov/link/statute/120/1460).)*

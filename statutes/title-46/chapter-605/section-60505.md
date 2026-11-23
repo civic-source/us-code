@@ -3,9 +3,10 @@ title: "Section 60505 - Retaliatory suspension of commercial privileges"
 usc_title: 46
 usc_section: "60505"
 chapter: 605
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 60505"
-generated_at: "2026-03-30T02:56:15.584Z"
+generated_at: "2026-11-23T21:26:37.339Z"
+status: "active"
 ---
 
 # § 60505. Retaliatory suspension of commercial privileges
@@ -18,3 +19,32 @@ generated_at: "2026-03-30T02:56:15.584Z"
 - **(d)**
   - **(1)** If the master, officer, or agent of a vessel of a foreign country does an act for the vessel in the ports or waters of the United States in violation of a proclamation issued under this section, the vessel and the goods on the vessel may be seized by, and forfeited to, the United States Government.
   - **(2)** A person opposing an official of the Government enforcing this section shall be fined under title 18, imprisoned for not more than 2 years, or both.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60505 | 46 App.:142. | June 19, 1886, ch. 421, § 17 , 24 Stat. 82 . |
+
+
+General Authority
+
+Application
+
+Effective Date
+
+Penalties
+
+Seizure and forfeiture
+
+Fine or imprisonment
+
+Historical and Revision Notes
+
+60505
+
+June 19, 1886, ch. 421, § 17
+
+24 Stat. 82
+
+## Source Credit
+
+*([Pub. L. 109–304, § 9(b)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1681](https://www.govinfo.gov/link/statute/120/1681).)*

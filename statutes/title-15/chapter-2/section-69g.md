@@ -3,9 +3,10 @@ title: "Section 69g - Condemnation and injunction proceedings"
 usc_title: 15
 usc_section: "69g"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 69g"
-generated_at: "2026-03-30T02:54:08.029Z"
+generated_at: "2026-11-23T21:25:39.493Z"
+status: "active"
 ---
 
 # § 69g. Condemnation and injunction proceedings
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.029Z"
 - **(b)** Whenever the Commission has reason to believe that—
   - **(1)** any person is volating, 1 1 So in original. Probably should be “violating,”. or is about to violate, section 69a, 69d, or 69h(b) of this title; and
   - **(2)** it would be to the public interest to enjoin such violation until complaint is issued by the Commission under the Federal Trade Commission Act [ 15 U.S.C. 41 et seq.] and such complaint dismissed by the Commission or set aside by the court on review, or until order to cease and desist made thereon by the Commission has become final within the meaning of said Act,
+
+## Source Credit
+
+*(Aug. 8, 1951, ch. 298, § 9, [65 Stat. 180](https://www.govinfo.gov/link/statute/65/180).)*

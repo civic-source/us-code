@@ -3,9 +3,10 @@ title: "Section 2073 - Domestic distribution of special nuclear material"
 usc_title: 42
 usc_section: "2073"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2073"
-generated_at: "2026-03-30T02:56:11.148Z"
+generated_at: "2026-11-23T21:26:32.328Z"
+status: "active"
 ---
 
 # § 2073. Domestic distribution of special nuclear material
@@ -40,3 +41,41 @@ generated_at: "2026-03-30T02:56:11.148Z"
   - **(7)** special nuclear material shall be distributed only pursuant to such safety standards as may be established by rule of the Commission to protect health and to minimize danger to life or property; and
   - **(8)** except to the extent that the indemnification and limitation of liability provisions of section 2210 of this title apply, the licensee will hold the United States and the Commission harmless from any damages resulting from the use or possession of special nuclear material by the licensee.
 - **(f)** The Commission is directed to distribute within the United States sufficient special nuclear material to permit the conduct of widespread independent research and development activities to the maximum extent practicable. In the event that applications for special nuclear material exceed the amount available for distribution, preference shall be given to those activities which are most likely, in the opinion of the Commission, to contribute to basic research, to the development of peacetime uses of atomic energy, or to the economic and military strength of the Nation.
+
+Definition of Covered Fuel
+
+Prohibition on Unlicensed Possession or Ownership of Covered Fuel
+
+License To Possess or Own Covered Fuel.—
+
+Consultation required prior to issuance
+
+Prohibition on issuance of license.—
+
+In general
+
+Determination.—
+
+In general
+
+Joint determination
+
+Timeline.—
+
+Notice of application
+
+Determination
+
+Commission notification
+
+Congressional notification
+
+Public notice
+
+Effect of no determination
+
+Savings Clause
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 53, as added Aug. 30, 1954, ch. 1073, § 1, [68 Stat. 930](https://www.govinfo.gov/link/statute/68/930); amended [Pub. L. 85–256, § 2](https://www.govinfo.gov/link/plaw/85/public/256), Sept. 2, 1957, [71 Stat. 576](https://www.govinfo.gov/link/statute/71/576); [Pub. L. 85–681](https://www.govinfo.gov/link/plaw/85/public/681), §§ 1, 2, Aug. 19, 1958, [72 Stat. 632](https://www.govinfo.gov/link/statute/72/632); [Pub. L. 88–489](https://www.govinfo.gov/link/plaw/88/public/489), §§ 5–8, Aug. 26, 1964, [78 Stat. 603](https://www.govinfo.gov/link/statute/78/603), 604; [Pub. L. 90–190](https://www.govinfo.gov/link/plaw/90/public/190), §§ 9, 10, Dec. 14, 1967, [81 Stat. 577](https://www.govinfo.gov/link/statute/81/577); renumbered title I and amended [Pub. L. 102–486, title IX, § 902(a)(3)](https://www.govinfo.gov/link/plaw/102/public/486), (8), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944).)*

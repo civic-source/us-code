@@ -3,9 +3,10 @@ title: "Section 4212 - Risk management and mitigation in major defense acquisiti
 usc_title: 10
 usc_section: "4212"
 chapter: 322
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4212"
-generated_at: "2026-03-30T02:53:38.205Z"
+generated_at: "2026-11-23T21:25:32.765Z"
+status: "active"
 ---
 
 # § 4212. Risk management and mitigation in major defense acquisition programs and major systems
@@ -30,3 +31,15 @@ generated_at: "2026-03-30T02:53:38.205Z"
   - **(1)** the production of competitive prototypes at the system or subsystem level before Milestone B approval; or
   - **(2)** if the production of competitive prototypes is not practicable, the production of single prototypes at the system or subsystem level.
 - **(d)** In this section, the term “concurrency” means, with respect to an acquisition strategy, the combination or overlap of program phases or activities.
+
+Requirement
+
+Approach to Manage and Mitigate Risks
+
+Preference for Prototyping
+
+Concurrency Defined
+
+## Source Credit
+
+*(Added [Pub. L. 114–92, div. A, title VIII, § 822(a)(1)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 900](https://www.govinfo.gov/link/statute/129/900), § 2431b; amended [Pub. L. 114–328, div. A, title X, § 1081(a)(7)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2417](https://www.govinfo.gov/link/statute/130/2417); renumbered § 4212 and amended [Pub. L. 116–283, div. A, title XVIII, § 1847(b)(3)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4254](https://www.govinfo.gov/link/statute/134/4254).)*

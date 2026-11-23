@@ -3,12 +3,17 @@ title: "Section 379 - Sale of allotted lands by heirs"
 usc_title: 25
 usc_section: "379"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 379"
-generated_at: "2026-03-30T02:54:52.806Z"
+generated_at: "2026-11-23T21:25:54.568Z"
+status: "active"
 ---
 
 # § 379. Sale of allotted lands by heirs
 
 The adult heirs of any deceased Indian to whom a trust or other patent containing restrictions upon alienation has been or shall be issued for lands allotted to him may sell and convey the lands inherited from such decedent, but in case of minor heirs their interests shall be sold only by a guardian duly appointed by the proper court upon the order of such court, made upon petition filed by the guardian, but all such conveyances shall be subject to the approval of the Secretary of the Interior, and when so approved shall convey a full title to the purchaser, the same as if a final patent without restriction upon the alienation had been issued to the allottee. All allotted land so alienated by the heirs of an Indian allottee and all land so patented to a white allottee shall thereupon be subject to taxation under the laws of the State or Territory where the same is situate: Provided , That the sale herein provided for shall not apply to the homestead during the life of the father, mother or the minority of any child or children.
 
+
+## Source Credit
+
+*(May 27, 1902, ch. 888, § 7, [32 Stat. 275](https://www.govinfo.gov/link/statute/32/275).)*

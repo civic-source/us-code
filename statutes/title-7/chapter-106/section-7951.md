@@ -3,9 +3,10 @@ title: "Section 7951 - Definitions"
 usc_title: 7
 usc_section: "7951"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7951"
-generated_at: "2026-03-30T02:53:42.467Z"
+generated_at: "2026-11-23T21:25:28.456Z"
+status: "active"
 ---
 
 # § 7951. Definitions
@@ -26,3 +27,7 @@ In this subchapter:
   - **(10)** The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any other territory or possession of the United States.
   - **(11)** The term “target price” means the price per ton of peanuts used to determine the payment rate for counter-cyclical payments.
   - **(12)** The term “United States”, when used in a geographical sense, means all of the States.
+
+## Source Credit
+
+*([Pub. L. 107–171, title I, § 1301](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 166](https://www.govinfo.gov/link/statute/116/166).)*

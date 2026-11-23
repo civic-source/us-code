@@ -3,9 +3,10 @@ title: "Section 3809 - Selective Service System"
 usc_title: 50
 usc_section: "3809"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3809"
-generated_at: "2026-03-30T02:56:26.262Z"
+generated_at: "2026-11-23T21:26:39.073Z"
+status: "active"
 ---
 
 # § 3809. Selective Service System
@@ -32,3 +33,21 @@ generated_at: "2026-03-30T02:56:26.262Z"
 - **(f)** The Director is authorized to make final settlement of individual claims, for amounts not exceeding $500, for travel and other expenses of uncompensated personnel of the Office of Selective Service Records, or the Selective Service System, incurred while in the performance of official duties, without regard to other provisions of law governing the travel of civilian employees of the Federal Government.
 - **(g)** The Director of Selective Service shall submit to the Congress annually a written report covering the operation of the Selective Service System and such report shall include, by States, information as to the number of persons registered under this Act; the number of persons inducted in to the military service under this Act; and the number of deferments granted under this Act and the basis for such deferments; and such other specific kinds of information as the Congress may from time to time request.
 - **(h)** The Selective Service system 1 1 So in original. Probably should be capitalized. shall be maintained as an active standby organization, with (1) a complete registration and classification structure capable of immediate operation in the event of a national emergency (including a structure for registration and classification of persons qualified for practice or employment in a health care occupation essential to the maintenance of the Armed Forces), and (2) personnel adequate to reinstitute immediately the full operation of the System, including military reservists who are trained to operate such System and who can be ordered to active duty for such purpose in the event of a national emergency.
+
+Section
+
+Sec
+
+Federal Register
+
+Federal Register
+
+Federal Register
+
+Federal Register
+
+Sec
+
+## Source Credit
+
+*(June 24, 1948, ch. 625, title I, § 10, [62 Stat. 618](https://www.govinfo.gov/link/statute/62/618); Oct. 28, 1949, ch. 782, title XI, § 1106(a), [63 Stat. 972](https://www.govinfo.gov/link/statute/63/972); June 30, 1950, ch. 445, § 3, [64 Stat. 319](https://www.govinfo.gov/link/statute/64/319); Sept. 27, 1950, ch. 1059, § 3(b), [64 Stat. 1074](https://www.govinfo.gov/link/statute/64/1074); June 19, 1951, ch. 144, title I, § 1(u), [65 Stat. 87](https://www.govinfo.gov/link/statute/65/87); [Pub. L. 90–40, § 1(8)](https://www.govinfo.gov/link/plaw/90/public/40) –(10), June 30, 1967, [81 Stat. 104](https://www.govinfo.gov/link/statute/81/104), 105; [Pub. L. 92–129, title I, § 101(a)(24)](https://www.govinfo.gov/link/plaw/92/public/129) –(29), Sept. 28, 1971, [85 Stat. 351](https://www.govinfo.gov/link/statute/85/351), 352; [Pub. L. 93–176, § 3](https://www.govinfo.gov/link/plaw/93/public/176), Dec. 5, 1973, [87 Stat. 693](https://www.govinfo.gov/link/statute/87/693); [Pub. L. 96–513, title V, § 507(d)](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2919](https://www.govinfo.gov/link/statute/94/2919); [Pub. L. 97–60, title II, § 208](https://www.govinfo.gov/link/plaw/97/public/60), Oct. 14, 1981, [95 Stat. 1008](https://www.govinfo.gov/link/statute/95/1008); [Pub. L. 98–473, title II, § 234](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2031](https://www.govinfo.gov/link/statute/98/2031); [Pub. L. 100–180, div. A, title VII, § 715](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1113](https://www.govinfo.gov/link/statute/101/1113); [Pub. L. 102–190, div. A, title X, § 1091](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1486](https://www.govinfo.gov/link/statute/105/1486); [Pub. L. 104–201, div. A, title IV, § 414](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2508](https://www.govinfo.gov/link/statute/110/2508); [Pub. L. 107–314, div. A, title X, § 1062](https://www.govinfo.gov/link/plaw/107/public/314) (o)(2), Dec. 2, 2002, [116 Stat. 2652](https://www.govinfo.gov/link/statute/116/2652); [Pub. L. 112–166, § 2(c)(3)](https://www.govinfo.gov/link/plaw/112/public/166), Aug. 10, 2012, [126 Stat. 1284](https://www.govinfo.gov/link/statute/126/1284); [Pub. L. 112–239, div. A, title X, § 1076](https://www.govinfo.gov/link/plaw/112/public/239) (l), Jan. 2, 2013, [126 Stat. 1956](https://www.govinfo.gov/link/statute/126/1956); [Pub. L. 113–235, div. H, title I, § 1301(d)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537); [Pub. L. 119–60, div. A, title V, § 535(b)(3)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 872](https://www.govinfo.gov/link/statute/139/872).)*

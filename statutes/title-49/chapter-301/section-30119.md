@@ -3,9 +3,10 @@ title: "Section 30119 - Notification procedures"
 usc_title: 49
 usc_section: "30119"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 30119"
-generated_at: "2026-03-30T02:56:19.351Z"
+generated_at: "2026-11-23T21:26:40.758Z"
+status: "active"
 ---
 
 # § 30119. Notification procedures
@@ -45,3 +46,143 @@ generated_at: "2026-03-30T02:56:19.351Z"
   - **(1)** The name of the component or components.
   - **(2)** A description of the component or components.
   - **(3)** The part number of the component or components, if any.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30119(a) | 15:1397(a)(1)(D) (related to 15:1413(a)). | Sept. 9, 1966 , Pub. L. 89–563, § 108(a)(1)(D) (related to §§ 153(a)–(c) (1st sentence cls. (1)–(5), last sentence), 154(b)(2) (2d, last sentences)), 80 Stat. 722 ; restated Oct. 27, 1974 , Pub. L. 93–492, § 103(a)(1)(A) , (3), 88 Stat. 1477 , 1478. |
+|  | 15:1413(a). | Sept. 9, 1966 , Pub. L. 89–563 , 80 Stat. 718 , §§ 153(a), (b), 154(b)(2) (2d, last sentences); added Oct. 27, 1974 , Pub. L. 93–492, § 102(a) , 88 Stat. 1471 , 1473. |
+| 30119(b) | 15:1397(a)(1)(D) (related to 15:1414(b)(2) (2d, last sentences)). |  |
+|  | 15:1414(b)(2) (2d, last sentences). |  |
+| 30119(c) | 15:1397(a)(1)(D) (related to 15:1413(b)). |  |
+|  | 15:1413(b). |  |
+| 30119(d) | 15:1397(a)(1)(D) (related to 15:1413(c) (1st sentence cls. (1)–(5), last sentence). |  |
+|  | 15:1413(c) (1st sentence cls. (1)–(5), last sentence). | Sept. 9, 1966 , Pub. L. 89–563 , 80 Stat. 718 , § 153(c) (1st sentence cls. (1)–(5), last sentence); added Oct. 27, 1974 , Pub. L. 93–492, § 102(a) , 88 Stat. 1471 , 1472; Oct. 15, 1982 , Pub. L. 97–331, § 4(b) , 96 Stat. 1620 . |
+| 30119(e) | 15:1413(d). | Sept. 9, 1966 , Pub. L. 89–563 , 80 Stat. 718 , § 153(d), (e); added Dec. 18, 1991 , Pub. L. 102–240, § 2504(a) , 105 Stat. 2083 . |
+| 30119(f) | 15:1413(e). |  |
+
+
+Contents of Notification
+
+Earliest Remedy Date
+
+Time for Notification
+
+Means of Providing Notification
+
+Additional Notification.—
+
+Second notification
+
+Additional notifications
+
+Notification by Lessor to Lessee
+
+Information Regarding Components Involved in Recall
+
+Historical and Revision Notes
+
+30119(a)
+
+Sept. 9, 1966
+
+Pub. L. 89–563, § 108(a)(1)(D)
+
+80 Stat. 722
+
+Oct. 27, 1974
+
+Pub. L. 93–492, § 103(a)(1)(A)
+
+88 Stat. 1477
+
+Sept. 9, 1966
+
+Pub. L. 89–563
+
+80 Stat. 718
+
+Oct. 27, 1974
+
+Pub. L. 93–492, § 102(a)
+
+88 Stat. 1471
+
+30119(b)
+
+30119(c)
+
+30119(d)
+
+Sept. 9, 1966
+
+Pub. L. 89–563
+
+80 Stat. 718
+
+Oct. 27, 1974
+
+Pub. L. 93–492, § 102(a)
+
+88 Stat. 1471
+
+Oct. 15, 1982
+
+Pub. L. 97–331, § 4(b)
+
+96 Stat. 1620
+
+30119(e)
+
+Sept. 9, 1966
+
+Pub. L. 89–563
+
+80 Stat. 718
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 2504(a)
+
+105 Stat. 2083
+
+30119(f)
+
+“Not later than 2 years after the date of enactment of this Act [ Dec. 4, 2015 ], the Secretary shall implement current information technology, web design trends, and best practices that will help ensure that motor vehicle safety recall information available to the public on the Federal website is readily accessible and easy to use, including—
+
+In general
+
+Definition of electronic means
+
+In General
+
+Grants
+
+Eligibility
+
+Awards
+
+Performance Period
+
+Report
+
+Evaluation
+
+Definitions
+
+Consumer
+
+Motor vehicle
+
+Open recall
+
+Registration
+
+State
+
+In General
+
+Tire Identification Number
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 951](https://www.govinfo.gov/link/statute/108/951); [Pub. L. 112–141, div. C, title I, § 31310](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 771](https://www.govinfo.gov/link/statute/126/771); [Pub. L. 114–94, div. B, title XXIV, § 24116](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1711](https://www.govinfo.gov/link/statute/129/1711).)*

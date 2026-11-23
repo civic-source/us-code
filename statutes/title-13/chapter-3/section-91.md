@@ -3,9 +3,10 @@ title: "Section 91 - Collection and publication"
 usc_title: 13
 usc_section: "91"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "13 U.S.C. § 91"
-generated_at: "2026-03-30T02:54:03.337Z"
+generated_at: "2026-11-23T21:25:34.406Z"
+status: "active"
 ---
 
 # § 91. Collection and publication
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:03.337Z"
   - **(4)** For purposes of this subsection:
     - **(A)** The term “small business concern” means a business concern that meets the requirements of section 3(a) of the Small Business Act and the regulations promulgated pursuant thereto.
     - **(B)** The term “survey” means the collection of information by the Secretary pursuant to this section for the purpose of preparing the publication entitled “Quarterly Financial Report for Manufacturing, Mining, and Trade Corporations”.
+
+## Source Credit
+
+*(Added [Pub. L. 97–454, § 1(a)(2)](https://www.govinfo.gov/link/plaw/97/public/454), Jan. 12, 1983, [96 Stat. 2494](https://www.govinfo.gov/link/statute/96/2494); amended [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 104–13, § 3](https://www.govinfo.gov/link/plaw/104/public/13), May 22, 1995, [109 Stat. 184](https://www.govinfo.gov/link/statute/109/184).)*

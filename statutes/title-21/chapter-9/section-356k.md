@@ -3,9 +3,10 @@ title: "Section 356k - Platform technologies"
 usc_title: 21
 usc_section: "356k"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 356k"
-generated_at: "2026-03-30T02:54:54.244Z"
+generated_at: "2026-11-23T21:25:56.062Z"
+status: "active"
 ---
 
 # § 356k. Platform technologies
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:54.244Z"
 - **(i)** Nothing in this section shall be construed to—
   - **(1)** alter the authority of the Secretary to approve drugs pursuant to section 505 of this Act [ 21 U.S.C. 355 ] or license biological products pursuant to section 351 of the Public Health Service Act [ 42 U.S.C. 262 ], including standards of evidence and applicable conditions for approval or licensure under the applicable Act; or
   - **(2)** confer any new rights with respect to the permissibility of a sponsor of an application for a drug product or biological product referencing information contained in another application submitted by the holder of an approved application under section 355(c) of this title or of a license under section 351(a) of the Public Health Service Act [ 42 U.S.C. 262(a) ].
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 506K, as added [Pub. L. 117–328, div. FF, title II, § 2503(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5798](https://www.govinfo.gov/link/statute/136/5798).)*

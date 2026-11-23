@@ -3,9 +3,10 @@ title: "Section 5207 - Firearms policies"
 usc_title: 42
 usc_section: "5207"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5207"
-generated_at: "2026-03-30T02:56:11.228Z"
+generated_at: "2026-11-23T21:26:32.778Z"
+status: "active"
 ---
 
 # § 5207. Firearms policies
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.228Z"
   - **(1)** Any individual aggrieved by a violation of this section may seek relief in an action at law, suit in equity, or other proper proceeding for redress against any person who subjects such individual, or causes such individual to be subjected, to the deprivation of any of the rights, privileges, or immunities secured by this section.
   - **(2)** In addition to any existing remedy in law or equity, under any law, an individual aggrieved by the seizure or confiscation of a firearm in violation of this section may bring an action for return of such firearm in the United States district court in the district in which that individual resides or in which such firearm may be found.
   - **(3)** In any action or proceeding to enforce this section, the court shall award the prevailing party, other than the United States, a reasonable attorney’s fee as part of the costs.
+
+## Source Credit
+
+*([Pub. L. 93–288, title VII, § 706](https://www.govinfo.gov/link/plaw/93/public/288), as added [Pub. L. 109–295, title V, § 557](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1391](https://www.govinfo.gov/link/statute/120/1391).)*

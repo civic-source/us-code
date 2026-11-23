@@ -3,9 +3,10 @@ title: "Section 505 - Civil money penalty"
 usc_title: 12
 usc_section: "505"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 505"
-generated_at: "2026-03-30T02:53:53.383Z"
+generated_at: "2026-11-23T21:25:36.798Z"
+status: "active"
 ---
 
 # § 505. Civil money penalty
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:53.383Z"
   - **(7)** All penalties collected under authority of this section shall be deposited into the Treasury.
   - **(8)** For purposes of this section, the term “violate” includes any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
   - **(9)** The Board shall prescribe regulations establishing such procedures as may be necessary to carry out this section.
+
+## Source Credit
+
+*(Dec. 23, 1913, ch. 6, § 19 (l), formerly § 19(j), as added [Pub. L. 95–630, title I, § 102](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3642](https://www.govinfo.gov/link/statute/92/3642); renumbered § 19(l), [Pub. L. 96–221, title I, § 105(f)](https://www.govinfo.gov/link/plaw/96/public/221), Mar. 31, 1980, [94 Stat. 140](https://www.govinfo.gov/link/statute/94/140); amended [Pub. L. 97–320, title IV, § 424(a)](https://www.govinfo.gov/link/plaw/97/public/320), (d)(2), (e), Oct. 15, 1982, [96 Stat. 1522](https://www.govinfo.gov/link/statute/96/1522), 1523; [Pub. L. 101–73, title IX, § 907(h)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 472](https://www.govinfo.gov/link/statute/103/472).)*

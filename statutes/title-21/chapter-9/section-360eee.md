@@ -3,9 +3,10 @@ title: "Section 360eee - Definitions"
 usc_title: 21
 usc_section: "360eee"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 360eee"
-generated_at: "2026-03-30T02:54:54.259Z"
+generated_at: "2026-11-23T21:25:56.112Z"
+status: "active"
 ---
 
 # § 360eee. Definitions
@@ -113,3 +114,25 @@ In this part:
     - **(G)** did not knowingly alter the transaction history.
   - **(28)** The term “verification” or “verify” means determining whether the product identifier affixed to, or imprinted upon, a package or homogeneous case corresponds to the standardized numerical identifier or lot number and expiration date assigned to the product by the manufacturer or the repackager, as applicable in accordance with section 360eee–1 of this title .
   - **(29)** The term “wholesale distributor” means a person (other than a manufacturer, a manufacturer’s co-licensed partner, a third-party logistics provider, or repackager) engaged in wholesale distribution (as defined in section 353(e)(4) of this title ).
+
+(aa) purchased such product directly from the pharmaceutical manufacturer or from a wholesale distributor that purchased the product directly from the pharmaceutical manufacturer; and
+
+(bb) does not alter the primary container or label of the product as purchased from the manufacturer or wholesale distributor; and
+
+(aa) an intravenous solution intended for the replenishment of fluids and electrolytes;
+
+(bb) a product intended to maintain the equilibrium of water and minerals in the body;
+
+(cc) a product intended for irrigation or reconstitution;
+
+(dd) an anesthetic;
+
+(ee) an anticoagulant;
+
+(ff) a vasopressor; or
+
+(gg) a sympathomimetic;
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 581, as added [Pub. L. 113–54, title II, § 202](https://www.govinfo.gov/link/plaw/113/public/54), Nov. 27, 2013, [127 Stat. 599](https://www.govinfo.gov/link/statute/127/599).)*

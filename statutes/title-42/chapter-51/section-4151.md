@@ -3,9 +3,10 @@ title: "Section 4151 - “Building” defined"
 usc_title: 42
 usc_section: "4151"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4151"
-generated_at: "2026-03-30T02:56:11.200Z"
+generated_at: "2026-11-23T21:26:32.641Z"
+status: "active"
 ---
 
 # § 4151. “Building” defined
@@ -16,3 +17,7 @@ As used in this chapter, the term “building” means any building or facility 
   - **(2)** to be leased in whole or in part by the United States after August 12, 1968 ;
   - **(3)** to be financed in whole or in part by a grant or a loan made by the United States after August 12, 1968 , if such building or facility is subject to standards for design, construction, or alteration issued under authority of the law authorizing such grant or loan; or
   - **(4)** to be constructed under authority of the National Capital Transportation Act of 1960, the National Capital Transportation Act of 1965, or title III of the Washington Metropolitan Area Transit Regulation Compact.
+
+## Source Credit
+
+*([Pub. L. 90–480, § 1](https://www.govinfo.gov/link/plaw/90/public/480), Aug. 12, 1968, [82 Stat. 718](https://www.govinfo.gov/link/statute/82/718); [Pub. L. 91–205](https://www.govinfo.gov/link/plaw/91/public/205), Mar. 5, 1970, [84 Stat. 49](https://www.govinfo.gov/link/statute/84/49); [Pub. L. 94–541, title II, § 201(1)](https://www.govinfo.gov/link/plaw/94/public/541), Oct. 18, 1976, [90 Stat. 2507](https://www.govinfo.gov/link/statute/90/2507).)*

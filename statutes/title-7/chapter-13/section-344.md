@@ -3,9 +3,10 @@ title: "Section 344 - Ascertainment of entitlement of State to funds; time and m
 usc_title: 7
 usc_section: "344"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 344"
-generated_at: "2026-03-30T02:53:42.281Z"
+generated_at: "2026-11-23T21:25:27.948Z"
+status: "active"
 ---
 
 # § 344. Ascertainment of entitlement of State to funds; time and manner of payment; State reporting requirements; plans of work
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:42.281Z"
   - **(1)** The Secretary of Agriculture shall develop protocols to be used to evaluate the success of multistate, multi-institutional, and multidisciplinary extension activities and joint research and extension activities in addressing critical agricultural issues identified in the plans of work submitted under subsection (a).
   - **(2)** The Secretary of Agriculture shall develop the protocols in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board established under section 3123 of this title and land-grant colleges and universities.
 - **(e)** To the maximum extent practicable, the Secretary shall consider a plan of work submitted under subsection (a) to satisfy other appropriate Federal reporting requirements.
+
+## Source Credit
+
+*(May 8, 1914, ch. 79, § 4, [38 Stat. 374](https://www.govinfo.gov/link/statute/38/374); June 26, 1953, ch. 157, § 1, [67 Stat. 85](https://www.govinfo.gov/link/statute/67/85); [Pub. L. 87–749, § 1(f)](https://www.govinfo.gov/link/plaw/87/public/749), Oct. 5, 1962, [76 Stat. 745](https://www.govinfo.gov/link/statute/76/745); [Pub. L. 94–273, § 15](https://www.govinfo.gov/link/plaw/94/public/273), Apr. 21, 1976, [90 Stat. 379](https://www.govinfo.gov/link/statute/90/379); [Pub. L. 101–624, title XVI, § 1617](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3732](https://www.govinfo.gov/link/statute/104/3732); [Pub. L. 105–185, title II, § 202(a)](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 531](https://www.govinfo.gov/link/statute/112/531); [Pub. L. 115–334, title VII, § 7612(a)(2)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4831](https://www.govinfo.gov/link/statute/132/4831).)*

@@ -3,9 +3,10 @@ title: "Section 16279 - Budget plan"
 usc_title: 42
 usc_section: "16279"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16279"
-generated_at: "2026-03-30T02:56:11.477Z"
+generated_at: "2026-11-23T21:26:33.716Z"
+status: "active"
 ---
 
 # § 16279. Budget plan
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.477Z"
   - **(3)** the justification of the Department for continuing or terminating existing civilian nuclear energy research and development programs; and
   - **(4)** a description of the progress made under the programs described in section 16279a of this title .
 - **(e)** Not less frequently than once every 2 years, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate updated 10-year budget plans which shall identify, and provide a justification for, any major deviation from a previous budget plan submitted under this section.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 959](https://www.govinfo.gov/link/plaw/109/public/58), as added [Pub. L. 115–248, § 2(i)](https://www.govinfo.gov/link/plaw/115/public/248), Sept. 28, 2018, [132 Stat. 3160](https://www.govinfo.gov/link/statute/132/3160); amended [Pub. L. 116–260, div. Z, title II, § 2005](https://www.govinfo.gov/link/plaw/116/public/260), [134 Stat. 2470](https://www.govinfo.gov/link/statute/134/2470).)*

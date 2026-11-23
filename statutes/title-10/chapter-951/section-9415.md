@@ -3,9 +3,10 @@ title: "Section 9415 - Community College of the Air Force: associate degrees"
 usc_title: 10
 usc_section: "9415"
 chapter: 951
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 9415"
-generated_at: "2026-03-30T02:53:38.258Z"
+generated_at: "2026-11-23T21:25:32.995Z"
+status: "active"
 ---
 
 # § 9415. Community College of the Air Force: associate degrees
@@ -27,3 +28,15 @@ generated_at: "2026-03-30T02:53:38.258Z"
 - **(d)**
   - **(1)** Subject to paragraph (2), an academic degree at the level of associate may be conferred under section 9417 of this title upon any person who has completed a program prescribed by the Community College of the Air Force.
   - **(2)** No degree may be conferred upon any person under this section unless the Secretary of Education determines that the standards for the award of academic degrees in agencies of the United States have been met.
+
+Establishment and Mission
+
+Members Eligible for Programs
+
+Seriously Wounded, Ill, or Injured Former and Retired Enlisted Members
+
+Associate Degrees
+
+## Source Credit
+
+*(Added [Pub. L. 94–361, title VI, § 602](https://www.govinfo.gov/link/plaw/94/public/361), July 14, 1976, [90 Stat. 928](https://www.govinfo.gov/link/statute/90/928), § 9315; amended [Pub. L. 96–513, title V, § 514(9)](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2935](https://www.govinfo.gov/link/statute/94/2935); [Pub. L. 103–160, div. A, title XI, § 1182(a)(12)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1772](https://www.govinfo.gov/link/statute/107/1772); [Pub. L. 104–106, div. A, title X, § 1078(a)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 451](https://www.govinfo.gov/link/statute/110/451); [Pub. L. 105–85, div. A, title V, § 552(a)](https://www.govinfo.gov/link/plaw/105/public/85), (b), Nov. 18, 1997, [111 Stat. 1748](https://www.govinfo.gov/link/statute/111/1748); [Pub. L. 108–375, div. A, title V, § 556(b)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1915](https://www.govinfo.gov/link/statute/118/1915); [Pub. L. 112–81, div. A, title V, § 555(a)](https://www.govinfo.gov/link/plaw/112/public/81), (b), Dec. 31, 2011, [125 Stat. 1415](https://www.govinfo.gov/link/statute/125/1415); renumbered § 9415 and amended [Pub. L. 115–232, div. A, title VIII](https://www.govinfo.gov/link/plaw/115/public/232), §§ 806(a)(3), 809(a), Aug. 13, 2018, [132 Stat. 1832](https://www.govinfo.gov/link/statute/132/1832), 1840; [Pub. L. 116–92, div. A, title V, § 557](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1392](https://www.govinfo.gov/link/statute/133/1392); [Pub. L. 116–283, div. A, title IX, § 923(d)(6)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3814](https://www.govinfo.gov/link/statute/134/3814).)*

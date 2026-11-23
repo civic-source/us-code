@@ -3,9 +3,10 @@ title: "Section 6383 - Certification"
 usc_title: 5
 usc_section: "6383"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 6383"
-generated_at: "2026-03-30T02:52:56.033Z"
+generated_at: "2026-11-23T21:25:23.331Z"
+status: "active"
 ---
 
 # § 6383. Certification
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:52:56.033Z"
   - **(2)** The opinion of the third health care provider concerning the information certified under subsection (b) shall be considered to be final and shall be binding on the employing agency and the employee.
 - **(e)** The employing agency may require, at the expense of the agency, that the employee obtain subsequent recertifications on a reasonable basis.
 - **(f)** An employing agency may require that a request for leave under paragraph (1)(E) or (3) of section 6382(a) be supported by a certification issued at such time and in such manner as the Office of Personnel Management may by regulation prescribe.
+
+## Source Credit
+
+*(Added [Pub. L. 103–3, title II, § 201(a)(1)](https://www.govinfo.gov/link/plaw/103/public/3), Feb. 5, 1993, [107 Stat. 21](https://www.govinfo.gov/link/statute/107/21); amended [Pub. L. 110–181, div. A, title V, § 585(b)(3)(D)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 132](https://www.govinfo.gov/link/statute/122/132); [Pub. L. 111–84, div. A, title V, § 565(b)(1)(C)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2311](https://www.govinfo.gov/link/statute/123/2311).)*

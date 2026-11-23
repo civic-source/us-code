@@ -3,9 +3,10 @@ title: "Section 18a - Premerger notification and waiting period"
 usc_title: 15
 usc_section: "18a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 18a"
-generated_at: "2026-03-30T02:54:08.022Z"
+generated_at: "2026-11-23T21:25:39.469Z"
+status: "active"
 ---
 
 # § 18a. Premerger notification and waiting period
@@ -77,3 +78,7 @@ generated_at: "2026-03-30T02:54:08.022Z"
   - **(2)** Nothing contained in this section shall limit the authority of the Assistant Attorney General or the Federal Trade Commission to secure at any time from any person documentary material, oral testimony, or other information under the Antitrust Civil Process Act [ 15 U.S.C. 1311 et seq.], the Federal Trade Commission Act [ 15 U.S.C. 41 et seq.], or any other provision of law.
 - **(j)**
 - **(k)** If the end of any period of time provided in this section falls on a Saturday, Sunday, or legal public holiday (as defined in section 6103(a) of title 5 ), then such period shall be extended to the end of the next day that is not a Saturday, Sunday, or legal public holiday.
+
+## Source Credit
+
+*(Oct. 15, 1914, ch. 323, § 7A, as added [Pub. L. 94–435, title II, § 201](https://www.govinfo.gov/link/plaw/94/public/435), Sept. 30, 1976, [90 Stat. 1390](https://www.govinfo.gov/link/statute/90/1390); amended [Pub. L. 98–620, title IV, § 402(10)(A)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3358](https://www.govinfo.gov/link/statute/98/3358); [Pub. L. 101–73, title XII, § 1214](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 529](https://www.govinfo.gov/link/statute/103/529); [Pub. L. 106–102, title I, § 133(c)](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1383](https://www.govinfo.gov/link/statute/113/1383); [Pub. L. 106–553, § 1(a)(2) [title VI, § 630(a), (c), (d)]](https://www.govinfo.gov/link/plaw/106/public/553), Dec. 21, 2000, [114 Stat. 2762](https://www.govinfo.gov/link/statute/114/2762), 2762A–108, 2762A–110.)*

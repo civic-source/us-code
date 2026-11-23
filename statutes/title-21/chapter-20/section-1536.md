@@ -3,9 +3,10 @@ title: "Section 1536 - Community-based coalition enhancement grants to address l
 usc_title: 21
 usc_section: "1536"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 1536"
-generated_at: "2026-03-30T02:54:54.303Z"
+generated_at: "2026-11-23T21:25:56.279Z"
+status: "active"
 ---
 
 # § 1536. Community-based coalition enhancement grants to address local drug crises
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:54.303Z"
 - **(g)** Not more than 8 percent of the amounts made available to carry out this section for a fiscal year may be used to pay for administrative expenses.
 - **(h)** The Director may enter into an interagency agreement with the Administrator to delegate authority for the execution of grants and for such other activities as may be necessary to carry out this section.
 - **(i)** For the purpose of carrying out this section, there are authorized to be appropriated $5,000,000 for each of fiscal years 2017 through 2021.
+
+## Source Credit
+
+*([Pub. L. 114–198, title I, § 103](https://www.govinfo.gov/link/plaw/114/public/198), July 22, 2016, [130 Stat. 699](https://www.govinfo.gov/link/statute/130/699).)*

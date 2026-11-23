@@ -3,9 +3,10 @@ title: "Section 12118 - Owners engaged primarily in manufacturing or mineral ind
 usc_title: 46
 usc_section: "12118"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 12118"
-generated_at: "2026-03-30T02:56:15.558Z"
+generated_at: "2026-11-23T21:26:37.133Z"
+status: "active"
 ---
 
 # § 12118. Owners engaged primarily in manufacturing or mineral industry
@@ -47,3 +48,85 @@ generated_at: "2026-03-30T02:56:15.558Z"
   - **(2)** If a vessel transports merchandise for hire in violation of this section, the merchandise shall be forfeited to the United States Government.
   - **(3)** If a vessel transports passengers for hire in violation of this section, the vessel is liable for a penalty of $200 for each passenger so transported.
   - **(4)** A penalty or forfeiture incurred under this subsection may be remitted or mitigated under section 2107(b) of this title .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 12118(a)(1) | 46 App.:883–1 (1st par. words through cl. (e) less citizenship, 4th par. 1st sentence). | June 5, 1920, ch. 250, § 27A , as added Pub. L. 85–902 , Sept. 2, 1958 , 72 Stat. 1736 ; Pub. L. 104–88, title III, § 321(2) , Dec. 29, 1995 , 109 Stat. 950 ; Pub. L. 104–324, title VII, § 706 , Oct. 19, 1996 , 110 Stat. 3934 . |
+| 12118(a)(2), (3) | 46 App.:883–1 (2d par., 4th par. 2d sentence). |  |
+| 12118(b) | 46 App.:883–1 (1st par. related to citizenship). |  |
+| 12118(c) | 46 App.:883–1 (3d par. words before 5th comma). |  |
+| 12118(d)(1) | 46 App.:883–1 (3d par. words after 5th comma). |  |
+| 12118(d)(2) | 46 App.:883–1 (1st par. words after cl. (e)). |  |
+| 12118(e) | 46 App.:883–1 (last par.). |  |
+| 12118(f) | 46 App.:883–1 (4th par. 3d–6th sentences). |  |
+
+
+Definitions
+
+Bowaters corporation
+
+Parent
+
+Subsidiary
+
+Deemed Citizen
+
+Issuance of Documentation
+
+Effects of Documentation
+
+In general
+
+Transportation of passengers or merchandise
+
+Validity of Corporate Certificate
+
+Penalties
+
+Falsifying material fact
+
+Transporting merchandise
+
+Transporting passengers
+
+Remission or mitigation
+
+Historical and Revision Notes
+
+12118(a)(1)
+
+June 5, 1920, ch. 250, § 27A
+
+Pub. L. 85–902
+
+Sept. 2, 1958
+
+72 Stat. 1736
+
+Pub. L. 104–88, title III, § 321(2)
+
+Dec. 29, 1995
+
+109 Stat. 950
+
+Pub. L. 104–324, title VII, § 706
+
+Oct. 19, 1996
+
+110 Stat. 3934
+
+12118(b)
+
+12118(c)
+
+12118(d)(1)
+
+12118(d)(2)
+
+12118(e)
+
+12118(f)
+
+## Source Credit
+
+*([Pub. L. 109–304, § 5](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1500](https://www.govinfo.gov/link/statute/120/1500).)*

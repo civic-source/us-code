@@ -3,9 +3,10 @@ title: "Section 3524 - Auditing expenditures approved without vouchers"
 usc_title: 31
 usc_section: "3524"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 3524"
-generated_at: "2026-03-30T02:55:34.057Z"
+generated_at: "2026-11-23T21:26:10.579Z"
+status: "active"
 ---
 
 # § 3524. Auditing expenditures approved without vouchers
@@ -20,3 +21,44 @@ generated_at: "2026-03-30T02:55:34.057Z"
   - **(2)** affect authority under section 8(b) of the Central Intelligence Agency Act of 1949 ( 50 U.S.C. 403j(b) ). 1 1 See References in Text note below.
 - **(e)** Information about a financial transaction exempt under subsection (c) of this section or a financial transaction under section 8(b) of the Central Intelligence Agency Act of 1949 ( 50 U.S.C. 403j(b) ) 1 may be reviewed by the Permanent Select Committee on Intelligence of the House and the Select Committee on Intelligence of the Senate.
 - **(f)** Subsections (a)(1) and (d)(1) of this section may be superseded only by a law enacted after April 3, 1980 , specifically repealing or amending this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3524(a)(1) | 31:67(f)(1)(1st sentence). | Sept. 12, 1950, ch. 946 , 64 Stat. 832 , § 117(f); added Apr. 3, 1980 , Pub. L. 96–226, § 101 , 94 Stat. 311 . |
+| 3524(a)(2) | 31:67(f)(2). |  |
+| 3524(b) | 31:67(f)(4). |  |
+| 3524(c) | 31:67(f)(3)(B). |  |
+| 3524(d) | 31:67(f)(1)(last sentence), (3)(A). |  |
+| 3524(e) | 31:67(f)(3)(C). |  |
+| 3524(f) | 31:67(f)(1)(2d sentence). |  |
+
+
+Historical and Revision Notes
+
+3524(a)(1)
+
+Sept. 12, 1950, ch. 946
+
+64 Stat. 832
+
+Apr. 3, 1980
+
+Pub. L. 96–226, § 101
+
+94 Stat. 311
+
+3524(a)(2)
+
+3524(b)
+
+3524(c)
+
+3524(d)
+
+3524(e)
+
+3524(f)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 963](https://www.govinfo.gov/link/statute/96/963).)*

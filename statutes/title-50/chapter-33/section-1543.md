@@ -3,9 +3,10 @@ title: "Section 1543 - Reporting requirement"
 usc_title: 50
 usc_section: "1543"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1543"
-generated_at: "2026-03-30T02:56:26.206Z"
+generated_at: "2026-11-23T21:26:38.917Z"
+status: "active"
 ---
 
 # § 1543. Reporting requirement
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:26.206Z"
     - **(C)** the estimated scope and duration of the hostilities or involvement.
 - **(b)** The President shall provide such other information as the Congress may request in the fulfillment of its constitutional responsibilities with respect to committing the Nation to war and to the use of United States Armed Forces abroad.
 - **(c)** Whenever United States Armed Forces are introduced into hostilities or into any situation described in subsection (a) of this section, the President shall, so long as such armed forces continue to be engaged in such hostilities or situation, report to the Congress periodically on the status of such hostilities or situation as well as on the scope and duration of such hostilities or situation, but in no event shall he report to the Congress less often than once every six months.
+
+## Source Credit
+
+*([Pub. L. 93–148, § 4](https://www.govinfo.gov/link/plaw/93/public/148), Nov. 7, 1973, [87 Stat. 555](https://www.govinfo.gov/link/statute/87/555).)*

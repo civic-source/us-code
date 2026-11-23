@@ -3,9 +3,10 @@ title: "Section 8108 - Warnings to homeowners of foreclosure rescue scams"
 usc_title: 42
 usc_section: "8108"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8108"
-generated_at: "2026-03-30T02:56:11.336Z"
+generated_at: "2026-11-23T21:26:33.183Z"
+status: "active"
 ---
 
 # § 8108. Warnings to homeowners of foreclosure rescue scams
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.336Z"
   - **(3)** that there are Federal Government and nonprofit agencies that may provide information about the foreclosure process, including the Department of Housing and Urban Development;
   - **(4)** that they should contact their lender immediately, contact the Department of Housing and Urban Development to find a housing counseling agency certified by the Department to assist in avoiding foreclosure, or visit the Department’s website regarding tips for avoiding foreclosure; and
   - **(5)** of the telephone number of the loan servicer or successor, the telephone number of the Department of Housing and Urban Development housing counseling line, and the Uniform Resource Locators (URLs) for the Department of Housing and Urban Development Web sites for housing counseling and for tips for avoiding foreclosure.
+
+## Source Credit
+
+*([Pub. L. 111–203, title XIV, § 1452](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2177](https://www.govinfo.gov/link/statute/124/2177).)*

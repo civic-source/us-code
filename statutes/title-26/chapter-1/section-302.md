@@ -3,9 +3,10 @@ title: "Section 302 - Distributions in redemption of stock"
 usc_title: 26
 usc_section: "302"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 302"
-generated_at: "2026-03-30T02:55:27.664Z"
+generated_at: "2026-11-23T21:26:06.131Z"
+status: "active"
 ---
 
 # § 302. Distributions in redemption of stock
@@ -62,3 +63,33 @@ generated_at: "2026-03-30T02:55:27.664Z"
   - **(1)** Of stock to pay death taxes, see section 303.
   - **(2)** Of section 306 stock, see section 306.
   - **(3)** Of stock in complete liquidation, see section 331.
+
+In general
+
+Exceptions.—
+
+Ruling requests
+
+Plans adopted before july 23, 1982
+
+Control acquired after 1981 and before july 23, 1982 .—
+
+Tender offer or binding contract outstanding on july 22, 1982 .—
+
+In general
+
+Extension of time for adopting plan where acquisition subject to federal regulatory approval
+
+Special rule where offer subject to approval by foreign regulatory body
+
+Special rule where one-third of shares acquired during march and april 1982
+
+Insurance companies
+
+Approval of plan by board of directors
+
+Coordination with amendments made by section 224
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 85; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 96–589, § 5(b)](https://www.govinfo.gov/link/plaw/96/public/589), Dec. 24, 1980, [94 Stat. 3405](https://www.govinfo.gov/link/statute/94/3405); [Pub. L. 97–248, title II](https://www.govinfo.gov/link/plaw/97/public/248), §§ 222(c), 228(a), Sept. 3, 1982, [96 Stat. 478](https://www.govinfo.gov/link/statute/96/478), 493; [Pub. L. 98–369, div. A, title VII, § 712(i)(1)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 948](https://www.govinfo.gov/link/statute/98/948); [Pub. L. 111–325, title III, § 306(a)](https://www.govinfo.gov/link/plaw/111/public/325), Dec. 22, 2010, [124 Stat. 3549](https://www.govinfo.gov/link/statute/124/3549).)*

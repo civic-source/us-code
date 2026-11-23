@@ -3,9 +3,10 @@ title: "Section 5108 - Monitoring and oversight"
 usc_title: 42
 usc_section: "5108"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5108"
-generated_at: "2026-03-30T02:56:11.218Z"
+generated_at: "2026-11-23T21:26:32.730Z"
+status: "active"
 ---
 
 # § 5108. Monitoring and oversight
@@ -20,3 +21,7 @@ The Secretary shall conduct monitoring to ensure that each State that receives a
     - **(B)** a review of information available on the website of the State relating to its compliance with the requirements of section 5106a(b) of this title ;
     - **(C)** site visits, as may be necessary to carry out such monitoring; and
     - **(D)** a review of information available in the State’s Annual Progress and Services Report most recently submitted under section 1357.16 of title 45, Code of Federal Regulations (or successor regulations).
+
+## Source Credit
+
+*([Pub. L. 93–247, title I, § 114](https://www.govinfo.gov/link/plaw/93/public/247), as added [Pub. L. 114–198, title V, § 503(d)(1)](https://www.govinfo.gov/link/plaw/114/public/198), July 22, 2016, [130 Stat. 730](https://www.govinfo.gov/link/statute/130/730).)*

@@ -3,9 +3,10 @@ title: "Section 704 - Determination as to when and how migratory birds may be ta
 usc_title: 16
 usc_section: "704"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 704"
-generated_at: "2026-03-30T02:54:22.900Z"
+generated_at: "2026-11-23T21:25:51.731Z"
+status: "active"
 ---
 
 # § 704. Determination as to when and how migratory birds may be taken, killed, or possessed
@@ -30,3 +31,37 @@ generated_at: "2026-03-30T02:54:22.900Z"
       - **(ii)** the total number of days in a hunting season for any migratory bird species, including any days selected under subparagraph (A), is not more than 107 days.
     - **(C)** A State may combine the 2 days allowed for youths with the 2 days allowed for veterans and members of the Armed Forces on active duty under subparagraph (A), but in no circumstance may a State have more than a total of 4 additional days added to its regular hunting season for any purpose.
   - **(3)** The Secretary shall promulgate regulations in accordance with this subsection for the Federal framework for migratory bird hunting for the 2019–2020 hunting season and each hunting season thereafter.
+
+Federal Framework Closing Date for Hunting of Ducks, Mergansers, and Coots.—
+
+Regulations relating to framework closing date.—
+
+In general
+
+Requirement
+
+Special hunting days for youths, veterans, and active military personnel.—
+
+In general
+
+Requirements
+
+Limitation
+
+Regulations
+
+Definitions
+
+Normal agricultural operation
+
+Post-disaster flooding
+
+Rice ratooning
+
+Regulations to Exclude Rice Ratooning and Post-disaster Flooding
+
+Reports
+
+## Source Credit
+
+*(July 3, 1918, ch. 128, § 3, [40 Stat. 755](https://www.govinfo.gov/link/statute/40/755); June 20, 1936, ch. 634, § 2, [49 Stat. 1556](https://www.govinfo.gov/link/statute/49/1556); 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433](https://www.govinfo.gov/link/statute/53/1433); [Pub. L. 105–312, title I, § 102](https://www.govinfo.gov/link/plaw/105/public/312), Oct. 30, 1998, [112 Stat. 2956](https://www.govinfo.gov/link/statute/112/2956); [Pub. L. 116–9, title IV, § 4301](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 764](https://www.govinfo.gov/link/statute/133/764).)*

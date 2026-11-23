@@ -3,9 +3,10 @@ title: "Section 3265 - Initial proceedings"
 usc_title: 18
 usc_section: "3265"
 chapter: 212
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3265"
-generated_at: "2026-03-30T02:54:16.515Z"
+generated_at: "2026-11-23T21:25:44.193Z"
+status: "active"
 ---
 
 # § 3265. Initial proceedings
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:16.515Z"
   - **(2)** For purposes of this subsection, the term “qualified military counsel” means a judge advocate made available by the Secretary of Defense for purposes of such proceedings, who—
     - **(A)** is a graduate of an accredited law school or is a member of the bar of a Federal court or of the highest court of a State; and
     - **(B)** is certified as competent to perform such duties by the Judge Advocate General of the armed force of which he is a member.
+
+## Source Credit
+
+*(Added [Pub. L. 106–523, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/523), Nov. 22, 2000, [114 Stat. 2490](https://www.govinfo.gov/link/statute/114/2490).)*

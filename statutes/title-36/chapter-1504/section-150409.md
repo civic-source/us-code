@@ -3,9 +3,10 @@ title: "Section 150409 - Restrictions"
 usc_title: 36
 usc_section: "150409"
 chapter: 1504
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 150409"
-generated_at: "2026-03-30T02:55:44.702Z"
+generated_at: "2026-11-23T21:26:13.648Z"
+status: "active"
 ---
 
 # § 150409. Restrictions
@@ -20,3 +21,19 @@ generated_at: "2026-03-30T02:55:44.702Z"
   - **(2)** Nothing in this subsection prevents the payment of reasonable compensation to the officers of the corporation, or reimbursement for actual and necessary expenses, in amounts approved by the board of directors.
 - **(c)** The corporation may not make any loan to any officer, director, member, or employee of the corporation.
 - **(d)** The corporation may not claim congressional approval or Federal Government authority by virtue of the charter granted by this chapter for any of the activities of the corporation.
+
+Stock and Dividends
+
+Distribution of Income or Assets
+
+In general
+
+Effect
+
+Loans
+
+No Federal Endorsement
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. E, title LI, § 5103(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 937](https://www.govinfo.gov/link/statute/137/937).)*

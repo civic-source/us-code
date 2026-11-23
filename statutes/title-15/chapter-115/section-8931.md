@@ -3,9 +3,10 @@ title: "Section 8931 - Definitions"
 usc_title: 15
 usc_section: "8931"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8931"
-generated_at: "2026-03-30T02:54:08.235Z"
+generated_at: "2026-11-23T21:25:40.100Z"
+status: "active"
 ---
 
 # § 8931. Definitions
@@ -19,3 +20,7 @@ In this subchapter:
       - **(i)** The term “fully fluorinated carbon atom” means a carbon atom on which all the hydrogen substituents have been replaced by fluorine.
       - **(ii)** The term “perfluoroalkyl substance” means a chemical of which all of the carbon atoms are fully fluorinated carbon atoms.
       - **(iii)** The term “polyfluoroalkyl substance” means a chemical containing at least one fully fluorinated carbon atom and at least one carbon atom that is not a fully fluorinated carbon atom.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. F, title LXXIII, § 7331](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2281](https://www.govinfo.gov/link/statute/133/2281).)*

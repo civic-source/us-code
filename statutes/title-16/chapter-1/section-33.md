@@ -3,9 +3,10 @@ title: "Section 33 - Management of reclamation lands"
 usc_title: 16
 usc_section: "33"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 33"
-generated_at: "2026-03-30T02:54:22.813Z"
+generated_at: "2026-11-23T21:25:51.563Z"
+status: "active"
 ---
 
 # § 460l–33. Management of reclamation lands
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:22.813Z"
       - **(iii)** shall be developed with appropriate public participation.
     - **(C)** Each plan described in subparagraph (A) shall provide for the development, use, conservation, protection, enhancement, and management of resources of Reclamation lands in a manner that is compatible with the authorized purposes of the Reclamation project associated with the Reclamation lands.
 - **(d)** Funds expended by the Secretary in carrying out the provisions of this part shall be nonreimbursable under the Federal reclamation laws (the Act of June 17, 1902 ( 32 Stat. 388 , chapter 1093; 43 U.S.C. 371 ), 2 2 See References in Text note below. and Acts supplementary thereto and amendatory thereof).
+
+## Source Credit
+
+*([Pub. L. 102–575, title XXVIII, § 2805](https://www.govinfo.gov/link/plaw/102/public/575), Oct. 30, 1992, [106 Stat. 4692](https://www.govinfo.gov/link/statute/106/4692).)*

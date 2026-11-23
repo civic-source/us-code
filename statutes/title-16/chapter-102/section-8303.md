@@ -3,9 +3,10 @@ title: "Section 8303 - Coastal Program"
 usc_title: 16
 usc_section: "8303"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8303"
-generated_at: "2026-03-30T02:54:23.083Z"
+generated_at: "2026-11-23T21:25:52.076Z"
+status: "active"
 ---
 
 # § 8303. Coastal Program
@@ -18,3 +19,7 @@ The Secretary shall carry out the Coastal Program within the Service to—
   - **(4)** build the capacity of Federal, State, local, and Tribal governments, nongovernmental institutions, nonprofit organizations, and private individuals and entities to carry out environmental conservation and stewardship measures;
   - **(5)** assist in the development and implementation of monitoring protocols to ensure the success of coastal ecosystem restoration and coastal ecosystem enhancement measures; and
   - **(6)** collaborate and share information with partners and the public relating to best management practices for the conservation, restoration, and enhancement of coastal ecosystems.
+
+## Source Credit
+
+*([Pub. L. 118–138, § 4](https://www.govinfo.gov/link/plaw/118/public/138), Dec. 11, 2024, [138 Stat. 1653](https://www.govinfo.gov/link/statute/138/1653).)*

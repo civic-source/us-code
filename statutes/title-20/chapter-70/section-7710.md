@@ -3,9 +3,10 @@ title: "Section 7710 - Federal administration"
 usc_title: 20
 usc_section: "7710"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7710"
-generated_at: "2026-03-30T02:54:48.217Z"
+generated_at: "2026-11-23T21:25:47.607Z"
+status: "active"
 ---
 
 # § 7710. Federal administration
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:48.217Z"
 - **(d)**
   - **(1)** Subject to paragraph (2), the Secretary shall pay a local educational agency the full amount that the agency is eligible to receive under this subchapter for a fiscal year not later than September 30 of the second fiscal year following the fiscal year for which such amount has been appropriated if, not later than 1 calendar year following the fiscal year in which such amount has been appropriated, such local educational agency submits to the Secretary all the data and information necessary for the Secretary to pay the full amount that the agency is eligible to receive under this subchapter for such fiscal year.
   - **(2)** For a fiscal year in which the amount appropriated under section 7714 of this title is insufficient to pay the full amount a local educational agency is eligible to receive under this subchapter, paragraph (1) shall be applied by substituting “is available to pay the agency” for “the agency is eligible to receive” each place the term appears.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VII, § 7010](https://www.govinfo.gov/link/plaw/89/public/10), formerly title VIII, § 8010, as added [Pub. L. 103–382, title I, § 101](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 3767](https://www.govinfo.gov/link/statute/108/3767); amended [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title XVIII, § 1813], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–387; [Pub. L. 112–239, div. A, title V, § 563(b)(3)](https://www.govinfo.gov/link/plaw/112/public/239), (c)(4), Jan. 2, 2013, [126 Stat. 1747](https://www.govinfo.gov/link/statute/126/1747), 1748; renumbered title VII, § 7010, and amended [Pub. L. 114–95, title VII](https://www.govinfo.gov/link/plaw/114/public/95), §§ 7001(a)(1), (c)(2), (d)(3), (6), 7010, Dec. 10, 2015, [129 Stat. 2074](https://www.govinfo.gov/link/statute/129/2074), 2087.)*

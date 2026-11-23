@@ -3,9 +3,10 @@ title: "Section 16375 - Program administration"
 usc_title: 42
 usc_section: "16375"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16375"
-generated_at: "2026-03-30T02:56:11.485Z"
+generated_at: "2026-11-23T21:26:33.738Z"
+status: "active"
 ---
 
 # § 16375. Program administration
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.485Z"
   - **(3)** A servicer appointed under paragraph (1) shall receive a servicing fee, subject to approval by the Secretary.
 - **(d)** The Secretary may retain the services of expert firms, including counsel, in the field of municipal and project finance to assist in the underwriting and servicing of Federal credit instruments.
 - **(e)** The Secretary shall implement procedures and measures to economize the time and cost involved in obtaining approval and the issuance of credit assistance under the CIFIA program.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 999E](https://www.govinfo.gov/link/plaw/109/public/58), as added [Pub. L. 117–58, div. D, title III, § 40304(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 999](https://www.govinfo.gov/link/statute/135/999).)*

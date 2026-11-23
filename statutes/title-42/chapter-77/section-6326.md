@@ -3,9 +3,10 @@ title: "Section 6326 - State energy security plans"
 usc_title: 42
 usc_section: "6326"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6326"
-generated_at: "2026-03-30T02:56:11.256Z"
+generated_at: "2026-11-23T21:26:32.930Z"
+status: "active"
 ---
 
 # § 6326. State energy security plans
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:56:11.256Z"
   - **(1)** shall be exempt from disclosure under section 552(b)(3) of title 5 ; and
   - **(2)** shall not be made available by any Federal agency, State, political subdivision of a State, or Tribal authority pursuant to any Federal, State, political subdivision of a State, or Tribal law, respectively, requiring public disclosure of information or records.
 - **(i)** The requirements of this section shall expire on October 31, 2025 .
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 366](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 935](https://www.govinfo.gov/link/statute/89/935); [Pub. L. 94–385, title IV, § 431](https://www.govinfo.gov/link/plaw/94/public/385), Aug. 14, 1976, [90 Stat. 1158](https://www.govinfo.gov/link/statute/90/1158); [Pub. L. 95–619, title VI, § 691(b)(2)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3288](https://www.govinfo.gov/link/statute/92/3288); [Pub. L. 101–440, § 2(b)](https://www.govinfo.gov/link/plaw/101/public/440), Oct. 18, 1990, [104 Stat. 1006](https://www.govinfo.gov/link/statute/104/1006); [Pub. L. 117–58, div. D, title I, § 40108(a)(2)](https://www.govinfo.gov/link/plaw/117/public/58) –(4), Nov. 15, 2021, [135 Stat. 941](https://www.govinfo.gov/link/statute/135/941), 942.)*

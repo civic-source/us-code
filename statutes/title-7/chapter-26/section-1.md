@@ -3,12 +3,17 @@ title: "Section 1 - Authorization for appropriations to increase domestic consum
 usc_title: 7
 usc_section: "1"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-30T02:53:42.292Z"
+generated_at: "2026-11-23T21:25:27.989Z"
+status: "active"
 ---
 
 # § 612c–1. Authorization for appropriations to increase domestic consumption of surplus farm commodities
 
 On and after December 30, 1963 , such sums (not in excess of $25,000,000 in any one year) as may be approved by the Congress shall be available for the purpose of increasing domestic consumption of any farm commodity or farm commodities determined by the Secretary of Agriculture to be in surplus supply, such authorization not to restrict authority in existing law, of which amount $11,000,000 shall remain available until expended for construction and equipping of research facilities determined to be needed as a result of a special survey.
 
+
+## Source Credit
+
+*([Pub. L. 88–250, title I, § 101](https://www.govinfo.gov/link/plaw/88/public/250), Dec. 30, 1963, [77 Stat. 826](https://www.govinfo.gov/link/statute/77/826).)*

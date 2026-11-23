@@ -3,9 +3,10 @@ title: "Section 10361 - Findings"
 usc_title: 42
 usc_section: "10361"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10361"
-generated_at: "2026-03-30T02:56:11.386Z"
+generated_at: "2026-11-23T21:26:33.361Z"
+status: "active"
 ---
 
 # § 10361. Findings
@@ -37,3 +38,37 @@ Congress finds that—
   - **(7)** the study of water use is vital—
     - **(A)** to the understanding of the impacts of human activity on water and ecological resources; and
     - **(B)** to the assessment of whether available surface and groundwater supplies will be available to meet the future needs of the United States.
+
+Establishment.—
+
+In general
+
+Requirements.—
+
+Data sharing
+
+Use of existing data
+
+Eligible Entities
+
+Applications
+
+Regional Consortia.—
+
+Establishment
+
+Requirements
+
+Regional intended use plan
+
+Report
+
+Funding.—
+
+Authorization of appropriations
+
+Requirement
+
+## Source Credit
+
+*([Pub. L. 111–11, title IX, § 9501](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1329](https://www.govinfo.gov/link/statute/123/1329).)*

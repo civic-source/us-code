@@ -3,9 +3,10 @@ title: "Section 460fff - Establishment"
 usc_title: 16
 usc_section: "460fff"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 460fff"
-generated_at: "2026-03-30T02:54:22.838Z"
+generated_at: "2026-11-23T21:25:51.613Z"
+status: "active"
 ---
 
 # § 460fff. Establishment
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:22.838Z"
   - **(1)** provide for public outdoor recreation use and enjoyment of the lands and waters associated with the United States portion of the reservoir known as Lake Amistad, located on the boundary between the State of Texas and Mexico, and
   - **(2)** protect the scenic, scientific, cultural, and other value contributing to the public enjoyment of such lands and waters,
 - **(b)** The recreation area shall consist of the Federal lands, waters, and interests therein within the area generally depicted on the map entitled “Boundary Map, Proposed Amistad National Recreation Area”, numbered 621/20,013–B, and dated July 1969. The map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. The Secretary of the Interior (hereafter in this Act referred to as the “Secretary”) may from time to time make minor revisions in the boundary of the recreation area, but the total acreage of the recreation area may not exceed 58,500 acres. Within the boundary of the recreation area, the Secretary may acquire lands and interests in lands by purchase with donated or appropriated funds, exchange, or transfer without reimbursement from any Federal agency.
+
+## Source Credit
+
+*([Pub. L. 101–628, title V, § 505](https://www.govinfo.gov/link/plaw/101/public/628), Nov. 28, 1990, [104 Stat. 4494](https://www.govinfo.gov/link/statute/104/4494).)*

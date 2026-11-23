@@ -3,9 +3,10 @@ title: "Section 206 - Recreational trails program"
 usc_title: 23
 usc_section: "206"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 206"
-generated_at: "2026-03-30T02:55:12.565Z"
+generated_at: "2026-11-23T21:25:53.915Z"
+status: "active"
 ---
 
 # § 206. Recreational trails program
@@ -85,3 +86,97 @@ generated_at: "2026-03-30T02:55:12.565Z"
     - **(B)** Any use of the apportionments to a State to carry out this section on privately owned land must be accompanied by an easement or other legally binding agreement that ensures public access to the recreational trail improvements funded by the apportionments.
 - **(i)** Funds authorized to carry out this section shall be available for obligation in the same manner as if the funds were apportioned under chapter 1, except that the Federal share of the cost of a project under this section shall be determined in accordance with this section.
 - **(j)** Funds apportioned to a State under section 104(b) that are obligated for a recreational trail or a related project shall be administered as if the funds were made available to carry out this section.
+
+Definitions
+
+Motorized recreation
+
+Recreational trail
+
+Program
+
+State Responsibilities
+
+Use of Apportioned Funds.—
+
+In general
+
+Permissible uses
+
+Use of apportionments.—
+
+In general
+
+Small state exclusion
+
+State administrative costs
+
+Grants.—
+
+In general
+
+Compliance
+
+Environmental Benefit or Mitigation
+
+Federal Share.—
+
+In general
+
+Federal agency project sponsor
+
+Use of funds from federal programs to provide non-federal share
+
+Use of recreational trails program funds to match other federal program funds
+
+Programmatic non-federal share
+
+Uses Not Permitted
+
+Project Administration.—
+
+Credit for donations of funds, materials, services, or new right-of-way.—
+
+In general
+
+Federal project sponsors
+
+Planning and environmental assessment costs incurred prior to project approval
+
+Recreational purpose
+
+Continuing recreational use
+
+Cooperation by private persons.—
+
+Written assurances
+
+Public access
+
+Contract Authority
+
+Use of Other Apportioned Funds
+
+Definitions
+
+Highway trust fund
+
+Nonhighway recreational fuel taxes
+
+Recreational trails program
+
+Assessment; Report.—
+
+Assessment
+
+Report
+
+Consultation
+
+In General
+
+Requirements
+
+## Source Credit
+
+*(Added [Pub. L. 105–178, title I, § 1112(a)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 146](https://www.govinfo.gov/link/statute/112/146); amended [Pub. L. 109–59, title I, § 1109(b)](https://www.govinfo.gov/link/plaw/109/public/59) –(e), Aug. 10, 2005, [119 Stat. 1168–1170](https://www.govinfo.gov/link/statute/119/1168); [Pub. L. 110–244, title I, § 101(q)](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1576](https://www.govinfo.gov/link/statute/122/1576); [Pub. L. 113–287, § 5(f)(3)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3268](https://www.govinfo.gov/link/statute/128/3268); [Pub. L. 117–58, div. A, title I](https://www.govinfo.gov/link/plaw/117/public/58), §§ 11134, 11525(n), Nov. 15, 2021, [135 Stat. 515](https://www.govinfo.gov/link/statute/135/515), 608.)*

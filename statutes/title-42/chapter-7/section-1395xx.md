@@ -3,9 +3,10 @@ title: "Section 1395xx - Payment of provider-based physicians and payment under 
 usc_title: 42
 usc_section: "1395xx"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1395xx"
-generated_at: "2026-03-30T02:56:11.023Z"
+generated_at: "2026-11-23T21:26:31.733Z"
+status: "active"
 ---
 
 # § 1395xx. Payment of provider-based physicians and payment under certain percentage arrangements
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.023Z"
     - **(B)** under regulations established by the Secretary, where the amount involved under the percentage contract is reasonable and the contract—
       - **(i)** is a customary commercial business practice, or
       - **(ii)** provides incentives for the efficient and economical operation of the provider of services.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1887, as added and amended [Pub. L. 97–248, title I](https://www.govinfo.gov/link/plaw/97/public/248), §§ 108(a)[(1)], 109(a), Sept. 3, 1982, [96 Stat. 337](https://www.govinfo.gov/link/statute/96/337), 338; [Pub. L. 98–21, title VI, § 602(j)](https://www.govinfo.gov/link/plaw/98/public/21), Apr. 20, 1983, [97 Stat. 165](https://www.govinfo.gov/link/statute/97/165).)*

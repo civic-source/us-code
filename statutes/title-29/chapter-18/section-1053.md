@@ -3,9 +3,10 @@ title: "Section 1053 - Minimum vesting standards"
 usc_title: 29
 usc_section: "1053"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1053"
-generated_at: "2026-03-30T02:55:18.706Z"
+generated_at: "2026-11-23T21:26:02.232Z"
+status: "active"
 ---
 
 # § 1053. Minimum vesting standards
@@ -16,11 +17,29 @@ generated_at: "2026-03-30T02:55:18.706Z"
     - **(A)**
       - **(i)** In the case of a defined benefit plan, a plan satisfies the requirements of this paragraph if it satisfies the requirements of clause (ii) or (iii).
       - **(ii)** A plan satisfies the requirements of this clause if an employee who has completed at least 5 years of service has a nonforfeitable right to 100 percent of the employee’s accrued benefit derived from employer contributions.
-      - **(iii)** A plan satisfies the requirements of this clause if an employee has a nonforfeitable right to a percentage of the employee’s accrued benefit derived from employer contributions determined under the following table: Years of service: The nonforfeitable percentage is: 3 20 4 40 5 60 6 80 7 or more 100.
+      - **(iii)** A plan satisfies the requirements of this clause if an employee has a nonforfeitable right to a percentage of the employee’s accrued benefit derived from employer contributions determined under the following table:
+
+| Years of service: | The nonforfeitable percentage is: |
+| --- | --- |
+| 3 | 20 |
+| 4 | 40 |
+| 5 | 60 |
+| 6 | 80 |
+| 7 or more | 100. |
+
     - **(B)**
       - **(i)** In the case of an individual account plan, a plan satisfies the requirements of this paragraph if it satisfies the requirements of clause (ii) or (iii).
       - **(ii)** A plan satisfies the requirements of this clause if an employee who has completed at least 3 years of service has a nonforfeitable right to 100 percent of the employee’s accrued benefit derived from employer contributions.
-      - **(iii)** A plan satisfies the requirements of this clause if an employee has a nonforfeitable right to a percentage of the employee’s accrued benefit derived from employer contributions determined under the following table: Years of service: The nonforfeitable percentage is: 2 20 3 40 4 60 5 80 6 or more 100.
+      - **(iii)** A plan satisfies the requirements of this clause if an employee has a nonforfeitable right to a percentage of the employee’s accrued benefit derived from employer contributions determined under the following table:
+
+| Years of service: | The nonforfeitable percentage is: |
+| --- | --- |
+| 2 | 20 |
+| 3 | 40 |
+| 4 | 60 |
+| 5 | 80 |
+| 6 or more | 100. |
+
   - **(3)**
     - **(A)** A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that it is not payable if the participant dies (except in the case of a survivor annuity which is payable as provided in section 1055 of this title ).
     - **(B)** A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that the payment of benefits is suspended for such period as the employee is employed, subsequent to the commencement of payment of such benefits—
@@ -108,3 +127,29 @@ generated_at: "2026-03-30T02:55:18.706Z"
   - **(3)** For purposes of this subsection—
     - **(A)** The term “applicable defined benefit plan” means a defined benefit plan under which the accrued benefit (or any portion thereof) is calculated as the balance of a hypothetical account maintained for the participant or as an accumulated percentage of the participant’s final average compensation.
     - **(B)** The Secretary of the Treasury shall issue regulations which include in the definition of an applicable defined benefit plan any defined benefit plan (or any portion of such a plan) which has an effect similar to an applicable defined benefit plan.
+
+3
+
+4
+
+5
+
+6
+
+7 or more
+
+2
+
+3
+
+4
+
+5
+
+6 or more
+
+Part-time employees
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 203](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 854](https://www.govinfo.gov/link/statute/88/854); [Pub. L. 96–364, title III, § 303](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1292](https://www.govinfo.gov/link/statute/94/1292); [Pub. L. 98–397, title I](https://www.govinfo.gov/link/plaw/98/public/397), §§ 102(b), (c), (d)(2), (e)(2), 105(a), Aug. 23, 1984, [98 Stat. 1426–1428](https://www.govinfo.gov/link/statute/98/1426), 1436; [Pub. L. 99–514, title XI](https://www.govinfo.gov/link/plaw/99/public/514), §§ 1113(e)(1), (2), (4)(A), 1139(c)(1), title XVIII, § 1898(a)(1)(B), (4)(B)(i), (d)(1)(B), (2)(B), Oct. 22, 1986, [100 Stat. 2447](https://www.govinfo.gov/link/statute/100/2447), 2448, 2487, 2942, 2944, 2955; [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7861(a)(1), (5)(B), (6)(B), 7862(d)(4), (5), (10), 7891(a)(1), (b)(1), (2), 7894(c)(3), Dec. 19, 1989, [103 Stat. 2430](https://www.govinfo.gov/link/statute/103/2430), 2434, 2445, 2449; [Pub. L. 103–465, title VII, § 767(c)(1)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 5039](https://www.govinfo.gov/link/statute/108/5039); [Pub. L. 104–188, title I, § 1442(b)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1808](https://www.govinfo.gov/link/statute/110/1808); [Pub. L. 105–34, title X, § 1071(b)(1)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 948](https://www.govinfo.gov/link/statute/111/948); [Pub. L. 107–16, title VI](https://www.govinfo.gov/link/plaw/107/public/16), §§ 633(b), 648(a)(2), June 7, 2001, [115 Stat. 116](https://www.govinfo.gov/link/statute/115/116), 127; [Pub. L. 108–311, title IV, § 408(b)(8)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1193](https://www.govinfo.gov/link/statute/118/1193); [Pub. L. 109–280, title I, § 108(a)(4)](https://www.govinfo.gov/link/plaw/109/public/280), formerly § 107(a)(4), title VII, § 701(a)(2), title IX, §§ 902(d)(2)(E), 904(b), Aug. 17, 2006, [120 Stat. 819](https://www.govinfo.gov/link/statute/120/819), 984, 1038, 1049, renumbered [Pub. L. 111–192, title II, § 202(a)](https://www.govinfo.gov/link/plaw/111/public/192), June 25, 2010, [124 Stat. 1297](https://www.govinfo.gov/link/statute/124/1297); [Pub. L. 110–458, title I, § 107(a)(1)](https://www.govinfo.gov/link/plaw/110/public/458), Dec. 23, 2008, [122 Stat. 5107](https://www.govinfo.gov/link/statute/122/5107); [Pub. L. 117–328, div. T, title I, § 125(b)](https://www.govinfo.gov/link/plaw/117/public/328), title III, § 304(a), Dec. 29, 2022, [136 Stat. 5315](https://www.govinfo.gov/link/statute/136/5315), 5341.)*

@@ -3,9 +3,10 @@ title: "Section 638 - Continental shelf areas"
 usc_title: 26
 usc_section: "638"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 638"
-generated_at: "2026-03-30T02:55:27.722Z"
+generated_at: "2026-11-23T21:26:06.353Z"
+status: "active"
 ---
 
 # § 638. Continental shelf areas
@@ -14,3 +15,7 @@ For purposes of applying the provisions of this chapter (including sections 861(
 
   - **(1)** the term “United States” when used in a geographical sense includes the seabed and subsoil of those submarine areas which are adjacent to the territorial waters of the United States and over which the United States has exclusive rights, in accordance with international law, with respect to the exploration and exploitation of natural resources; and
   - **(2)** the terms “foreign country” and “possession of the United States” when used in a geographical sense include the seabed and subsoil of those submarine areas which are adjacent to the territorial waters of the foreign country or such possession and over which the foreign country (or the United States in case of such possession) has exclusive rights, in accordance with international law, with respect to the exploration and exploitation of natural resources, but this paragraph shall apply in the case of a foreign country only if it exercises, directly or indirectly, taxing jurisdiction with respect to such exploration or exploitation.
+
+## Source Credit
+
+*(Added [Pub. L. 91–172, title V, § 505(a)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 634](https://www.govinfo.gov/link/statute/83/634).)*

@@ -3,9 +3,10 @@ title: "Section 4315 - Certification of organizations; applicable criteria and c
 usc_title: 7
 usc_section: "4315"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 4315"
-generated_at: "2026-03-30T02:53:42.407Z"
+generated_at: "2026-11-23T21:25:28.345Z"
+status: "active"
 ---
 
 # § 4315. Certification of organizations; applicable criteria and considerations
@@ -20,3 +21,7 @@ The eligibility of any organization to represent producers of flowers and plants
   - **(6)** functions of the organization;
   - **(7)** whether the majority of the governing board of the organization is composed of producers and importers; and
   - **(8)** the organization’s ability and willingness to further the aims and objectives of this chapter.
+
+## Source Credit
+
+*([Pub. L. 97–98, title XVII, § 1716](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1357](https://www.govinfo.gov/link/statute/95/1357).)*

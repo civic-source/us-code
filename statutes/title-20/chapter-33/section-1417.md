@@ -3,9 +3,10 @@ title: "Section 1417 - Administration"
 usc_title: 20
 usc_section: "1417"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1417"
-generated_at: "2026-03-30T02:54:48.165Z"
+generated_at: "2026-11-23T21:25:47.332Z"
+status: "active"
 ---
 
 # § 1417. Administration
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:48.165Z"
   - **(2)** a model individualized family service plan (IFSP) form;
   - **(3)** a model form of the notice of procedural safeguards described in section 1415(d) of this title ; and
   - **(4)** a model form of the prior written notice described in subsections (b)(3) and (c)(1) of section 1415 of this title that is consistent with the requirements of this subchapter and is sufficient to meet such requirements.
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 617](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2737](https://www.govinfo.gov/link/statute/118/2737).)*

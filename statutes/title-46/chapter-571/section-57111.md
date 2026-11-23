@@ -3,9 +3,10 @@ title: "Section 57111 - Definition of obsolete vessel"
 usc_title: 46
 usc_section: "57111"
 chapter: 571
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 57111"
-generated_at: "2026-03-30T02:56:15.581Z"
+generated_at: "2026-11-23T21:26:37.323Z"
+status: "active"
 ---
 
 # § 57111. Definition of obsolete vessel
@@ -16,3 +17,7 @@ In this chapter, the term “obsolete vessel” means a vessel that—
   - **(2)** has been determined by the Secretary of Transportation to be of insufficient value, with respect to the programs of the Maritime Administration, to warrant—
     - **(A)** preserving for future use or spare parts harvesting; or
     - **(B)** retaining in the National Defense Reserve Fleet.
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. C, title XXXV, § 3514(j)(1)(B)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 811](https://www.govinfo.gov/link/statute/137/811).)*

@@ -3,9 +3,10 @@ title: "Section 1983 - Approval of 2023 Agreement to Amend the U.S.-FSM Compact,
 usc_title: 48
 usc_section: "1983"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1983"
-generated_at: "2026-03-30T02:56:14.599Z"
+generated_at: "2026-11-23T21:26:38.132Z"
+status: "active"
 ---
 
 # § 1983. Approval of 2023 Agreement to Amend the U.S.-FSM Compact, 2023 Agreement to Amend the U.S.-RMI Compact, 2023 U.S.-Palau Compact Review Agreement, and Subsidiary Agreements
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:56:14.599Z"
       - **(i)** the necessity of the amendment, change, or termination; and
       - **(ii)** any impacts of the amendment, change, or termination.
   - **(2)** Subparagraphs (A) and (D)(iii) of section 1931(c)(2) of this title and subsection (d)(2)(A) shall not apply to an agreement that would amend, change, or terminate the agreement described in section 462(f) of the U.S.-Palau Compact.
+
+## Source Credit
+
+*([Pub. L. 118–42, div. G, title II, § 204](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 423](https://www.govinfo.gov/link/statute/138/423); [Pub. L. 118–83, div. B, title I, § 110(b)(1)](https://www.govinfo.gov/link/plaw/118/public/83), Sept. 26, 2024, [138 Stat. 1536](https://www.govinfo.gov/link/statute/138/1536).)*

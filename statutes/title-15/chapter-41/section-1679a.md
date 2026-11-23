@@ -3,9 +3,10 @@ title: "Section 1679a - Definitions"
 usc_title: 15
 usc_section: "1679a"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1679a"
-generated_at: "2026-03-30T02:54:08.146Z"
+generated_at: "2026-11-23T21:25:39.866Z"
+status: "active"
 ---
 
 # § 1679a. Definitions
@@ -23,3 +24,7 @@ For purposes of this subchapter, the following definitions apply:
       - **(ii)** any creditor (as defined in section 1602 of this title ), with respect to any consumer, to the extent the creditor is assisting the consumer to restructure any debt owed by the consumer to the creditor; or
       - **(iii)** any depository institution (as that term is defined in section 1813 of title 12 ) or any Federal or State credit union (as those terms are defined in section 1752 of title 12 ), or any affiliate or subsidiary of such a depository institution or credit union.
   - **(4)** The term “credit” has the meaning given to such term in section 1602(e) 1 1 See References in Text note below. of this title.
+
+## Source Credit
+
+*([Pub. L. 90–321, title IV, § 403](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 104–208, div. A, title II, § 2451](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–455](https://www.govinfo.gov/link/statute/110/3009).)*

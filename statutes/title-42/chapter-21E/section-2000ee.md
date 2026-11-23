@@ -3,9 +3,10 @@ title: "Section 2000ee - Privacy and Civil Liberties Oversight Board"
 usc_title: 42
 usc_section: "2000ee"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2000ee"
-generated_at: "2026-03-30T02:56:11.142Z"
+generated_at: "2026-11-23T21:26:32.300Z"
+status: "active"
 ---
 
 # § 2000ee. Privacy and Civil Liberties Oversight Board
@@ -105,3 +106,39 @@ generated_at: "2026-03-30T02:56:11.142Z"
   - **(3)** For fiscal year 2010, $8,300,000.
   - **(4)** For fiscal year 2011, $10,000,000.
   - **(5)** For fiscal year 2012 and each subsequent fiscal year, such sums as may be necessary.
+
+In general
+
+Transition provisions
+
+Treatment of incumbent members of the privacy and civil liberties oversight board.—
+
+Continuation of service
+
+Termination of terms
+
+Appointments.—
+
+In general
+
+Designations
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 108–458, title I, § 1061](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3684](https://www.govinfo.gov/link/statute/118/3684); [Pub. L. 110–53, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 352](https://www.govinfo.gov/link/statute/121/352); [Pub. L. 114–113, div. M, title III, § 305](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2913](https://www.govinfo.gov/link/statute/129/2913); [Pub. L. 115–118, title I, § 108](https://www.govinfo.gov/link/plaw/115/public/118), Jan. 19, 2018, [132 Stat. 15](https://www.govinfo.gov/link/statute/132/15); [Pub. L. 117–263, div. F, title LXVIII, § 6801](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3586](https://www.govinfo.gov/link/statute/136/3586); [Pub. L. 117–286, § 4(a)(259)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4334](https://www.govinfo.gov/link/statute/136/4334).)*

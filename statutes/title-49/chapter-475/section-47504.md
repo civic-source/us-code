@@ -3,9 +3,10 @@ title: "Section 47504 - Noise compatibility programs"
 usc_title: 49
 usc_section: "47504"
 chapter: 475
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 47504"
-generated_at: "2026-03-30T02:56:19.407Z"
+generated_at: "2026-11-23T21:26:40.994Z"
+status: "active"
 ---
 
 # § 47504. Noise compatibility programs
@@ -67,3 +68,91 @@ generated_at: "2026-03-30T02:56:19.407Z"
     - **(B)** shall be available for expenditure only to pay the costs of activities and services for which the funds are accepted; and
     - **(C)** shall remain available until expended.
 - **(f)** In approving a project to acquire residential real property using financial assistance made available under this section or chapter 471, the Secretary shall ensure that the appraisal of the property to be acquired disregards any decrease or increase in the fair market value of the real property caused by the project for which the property is to be acquired, or by the likelihood that the property would be acquired for the project, other than that due to physical deterioration within the reasonable control of the owner.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 47504(a) | 49 App.:2104(a). | Feb. 18, 1980 , Pub. L. 96–193, § 104(a) , 94 Stat. 51 ; Dec. 30, 1987 , Pub. L. 100–223, § 301(a) , 101 Stat. 1523 . |
+| 47504(b) | 49 App.:2104(b). | Feb. 18, 1980 , Pub. L. 96–193, § 104(b) , (d), 94 Stat. 52 , 53. |
+| 47504(c) | 49 App.:2104(c). | Feb. 18, 1980 , Pub. L. 96–193, § 104(c) , 94 Stat. 52 ; Sept. 3, 1982 , Pub. L. 97–248, § 524(b)(4) , 96 Stat. 696 ; Dec. 30, 1987 , Pub. L. 100–223, § 301(b) , (c), 101 Stat. 1523 ; Oct. 28, 1991 , Pub. L. 102–143, § 336 , 105 Stat. 947 . |
+| 47504(d) | 49 App.:2104(d). |  |
+
+
+Submissions
+
+Approvals
+
+Grants
+
+Soundproofing and acquisition of certain residential buildings and properties
+
+Aircraft noise primarily caused by military aircraft
+
+Government Relief From Liability
+
+Grants for Assessment of Flight Procedures.—
+
+In general
+
+Additional staff
+
+Receipts credited as offsetting collections
+
+Determination of Fair Market Value of Residential Properties
+
+Historical and Revision Notes
+
+Pub. L
+
+47504(a)
+
+Feb. 18, 1980
+
+Pub. L. 96–193, § 104(a)
+
+94 Stat. 51
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 301(a)
+
+101 Stat. 1523
+
+47504(b)
+
+Feb. 18, 1980
+
+Pub. L. 96–193, § 104(b)
+
+94 Stat. 52
+
+47504(c)
+
+Feb. 18, 1980
+
+Pub. L. 96–193, § 104(c)
+
+94 Stat. 52
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 524(b)(4)
+
+96 Stat. 696
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 301(b)
+
+101 Stat. 1523
+
+Oct. 28, 1991
+
+Pub. L. 102–143, § 336
+
+105 Stat. 947
+
+47504(d)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1285](https://www.govinfo.gov/link/statute/108/1285); [Pub. L. 103–305, title I, § 119](https://www.govinfo.gov/link/plaw/103/public/305), Aug. 23, 1994, [108 Stat. 1580](https://www.govinfo.gov/link/statute/108/1580); [Pub. L. 103–429, § 6(71)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4387](https://www.govinfo.gov/link/statute/108/4387); [Pub. L. 106–181, title I, § 154](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 88](https://www.govinfo.gov/link/statute/114/88); [Pub. L. 108–176, title I, § 189](https://www.govinfo.gov/link/plaw/108/public/176), title III, § 306, Dec. 12, 2003, [117 Stat. 2519](https://www.govinfo.gov/link/statute/117/2519), 2539; [Pub. L. 112–95, title V](https://www.govinfo.gov/link/plaw/112/public/95), §§ 504, 505, Feb. 14, 2012, [126 Stat. 104](https://www.govinfo.gov/link/statute/126/104); [Pub. L. 115–232, div. A, title X, § 1044](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1958](https://www.govinfo.gov/link/statute/132/1958).)*

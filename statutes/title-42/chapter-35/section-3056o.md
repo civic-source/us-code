@@ -3,9 +3,10 @@ title: "Section 3056o - Authorization of appropriations"
 usc_title: 42
 usc_section: "3056o"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3056o"
-generated_at: "2026-03-30T02:56:11.179Z"
+generated_at: "2026-11-23T21:26:32.517Z"
+status: "active"
 ---
 
 # § 3056o. Authorization of appropriations
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.179Z"
   - **(1)** incentive grants to entities that are State grantees or national grantees under section 3056(b) of this title ;
   - **(2)** technical assistance; or
   - **(3)** grants or contracts for any other activity under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 89–73, title V, § 517](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 109–365, title V, § 501](https://www.govinfo.gov/link/plaw/109/public/365), Oct. 17, 2006, [120 Stat. 2587](https://www.govinfo.gov/link/statute/120/2587); amended [Pub. L. 114–144, § 6(f)](https://www.govinfo.gov/link/plaw/114/public/144), Apr. 19, 2016, [130 Stat. 346](https://www.govinfo.gov/link/statute/130/346); [Pub. L. 116–131, title IV, § 402](https://www.govinfo.gov/link/plaw/116/public/131), Mar. 25, 2020, [134 Stat. 267](https://www.govinfo.gov/link/statute/134/267).)*

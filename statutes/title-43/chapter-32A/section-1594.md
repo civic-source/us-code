@@ -3,9 +3,10 @@ title: "Section 1594 - Colorado River Basin Salinity Control Ad­visory Council"
 usc_title: 43
 usc_section: "1594"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1594"
-generated_at: "2026-03-30T02:55:57.477Z"
+generated_at: "2026-11-23T21:26:19.848Z"
+status: "active"
 ---
 
 # § 1594. Colorado River Basin Salinity Control Ad­visory Council
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:57.477Z"
   - **(1)** act as liaison between both the Secretaries of Interior and Agriculture and the Administrator of the Environmental Protection Agency and the States in accomplishing the purposes of this subchapter;
   - **(2)** receive reports from the Secretary on the progress of the salinity control program and review and comment on said reports; and
   - **(3)** recommend to both the Secretary and the Administrator of the Environmental Protection Agency appropriate studies of further projects, techniques, or methods for accomplishing the purposes of this subchapter.
+
+## Source Credit
+
+*([Pub. L. 93–320, title II, § 204](https://www.govinfo.gov/link/plaw/93/public/320), June 24, 1974, [88 Stat. 272](https://www.govinfo.gov/link/statute/88/272).)*

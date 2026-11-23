@@ -3,9 +3,10 @@ title: "Section 9 - Translational research grants"
 usc_title: 42
 usc_section: "9"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9"
-generated_at: "2026-03-30T02:56:11.129Z"
+generated_at: "2026-11-23T21:26:32.226Z"
+status: "active"
 ---
 
 # § 1862s–9. Translational research grants
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.129Z"
     - **(D)** A consortia of 2 or more of the organizations described under subparagraphs (A) through (C).
   - **(2)** Any eligible organization under paragraph (1) may apply as a lead organization.
 - **(e)** An eligible entity seeking a grant under this section shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require.
+
+## Source Credit
+
+*([Pub. L. 114–329, title VI, § 602](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 3035](https://www.govinfo.gov/link/statute/130/3035).)*

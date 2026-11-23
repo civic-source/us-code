@@ -3,9 +3,10 @@ title: "Section 7427 - Authority to free members of the Armed Forces of the Unit
 usc_title: 22
 usc_section: "7427"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7427"
-generated_at: "2026-03-30T02:55:05.440Z"
+generated_at: "2026-11-23T21:25:58.716Z"
+status: "active"
 ---
 
 # § 7427. Authority to free members of the Armed Forces of the United States and certain other persons detained or imprisoned by or on behalf of the International Criminal Court
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.440Z"
   - **(2)** exculpatory evidence on behalf of that person; and
   - **(3)** defense of the interests of the United States through appearance before the International Criminal Court pursuant to Article 18 or 19 of the Rome Statute, or before the courts or tribunals of any country.
 - **(d)** This section does not authorize the payment of bribes or the provision of other such incentives to induce the release of a person described in subsection (b).
+
+## Source Credit
+
+*([Pub. L. 107–206, title II, § 2008](https://www.govinfo.gov/link/plaw/107/public/206), Aug. 2, 2002, [116 Stat. 905](https://www.govinfo.gov/link/statute/116/905).)*

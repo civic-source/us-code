@@ -3,9 +3,10 @@ title: "Section 3102 - Attachment"
 usc_title: 28
 usc_section: "3102"
 chapter: 176
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 3102"
-generated_at: "2026-03-30T02:55:30.152Z"
+generated_at: "2026-11-23T21:26:01.142Z"
+status: "active"
 ---
 
 # § 3102. Attachment
@@ -59,3 +60,33 @@ generated_at: "2026-03-30T02:55:30.152Z"
   - **(1)** On entry of judgment for the United States, the court shall order the proceeds of personal property sold pursuant to section 3007 to be applied to the satisfaction of the judgment, and shall order the sale of any remaining personal property and any real property levied on to the extent necessary to satisfy the judgment.
   - **(2)** With respect to personal property under attachment that is replevied, the judgment which may be entered shall be against the debtor against whom the writ of attachment is issued and also against the sureties on the debtor’s replevin bond for the value of the property.
   - **(3)** If the attachment is vacated or if the judgment on the claim for the debt is for the person against whom the writ attachment is issued, the court shall order the property, or proceeds of perishable property sold under section 3007, restored to the debtor and shall exonerate any replevin bond.
+
+Property Subject to Attachment
+
+Availability of Attachment
+
+Issuance of Writ; Contents
+
+Levy of Attachment
+
+Return of Writ; Duties of Marshal; Further Return
+
+Levy of Attachment as Lien on Property; Satisfaction of Lien
+
+Reduction or Dissolution of Attachment
+
+Replevin of Attached Property by Debtor; Bond
+
+Preservation of Personal Property Under Attachment
+
+Judgment and Disposition of Attached Property.—
+
+Judgment for the united states
+
+Judgment for the united states when personal property replevied
+
+Restoration of property and exoneration of replevin bond
+
+## Source Credit
+
+*(Added [Pub. L. 101–647, title XXXVI, § 3611](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4942](https://www.govinfo.gov/link/statute/104/4942).)*

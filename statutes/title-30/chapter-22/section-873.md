@@ -3,9 +3,10 @@ title: "Section 873 - Blasting and explosives"
 usc_title: 30
 usc_section: "873"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 873"
-generated_at: "2026-03-30T02:55:29.391Z"
+generated_at: "2026-11-23T21:26:00.398Z"
+status: "active"
 ---
 
 # § 873. Blasting and explosives
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:29.391Z"
 - **(e)** Explosives or detonators shall be transported in special closed containers (1) in cars moved by means of a locomotive or rope, (2) on belts, (3) in shuttle cars, or (4) in equipment designed especially to transport such explosives or detonators.
 - **(f)** When supplies of explosives and detonators for use in one or more working sections are stored underground, they shall be kept in section boxes or magazines of substantial construction with no metal exposed on the inside, located at least twenty-five feet from roadways and power wires, and in a dry, well rock-dusted location protected from falls of roof, except in pitching beds, where it is not possible to comply with the location requirement, such boxes shall be placed in niches cut into the solid coal or rock.
 - **(g)** Explosives and detonators stored in the working places shall be kept in separate closed containers which shall be located out of the line of blast and not less than fifty feet from the working face and fifteen feet from any pipeline, powerline, rail, or conveyor, except that, if kept in niches in the rib, the distance from any pipeline, powerline, rail, or conveyor shall be at least five feet. Such explosives and detonators, when stored, shall be separated by a distance of at least five feet.
+
+## Source Credit
+
+*([Pub. L. 91–173, title III, § 313](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 785](https://www.govinfo.gov/link/statute/83/785).)*

@@ -3,9 +3,10 @@ title: "Section 285aa - Capital increase"
 usc_title: 22
 usc_section: "285aa"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 285aa"
-generated_at: "2026-03-30T02:55:05.317Z"
+generated_at: "2026-11-23T21:25:58.359Z"
+status: "active"
 ---
 
 # § 285aa. Capital increase
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:05.317Z"
 - **(a)**
   - **(1)** The United States Governor of the Bank may subscribe on behalf of the United States to 35,230 additional shares of the capital stock of the Bank. (2) Any subscription by the United States to the capital stock of the Bank shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
 - **(b)** In order to pay for the increase in the United States subscription to the Bank provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $213,000,000 for payment by the Secretary of the Treasury.
+
+## Source Credit
+
+*([Pub. L. 89–369, § 30](https://www.govinfo.gov/link/plaw/89/public/369), as added [Pub. L. 102–145, § 125(b)](https://www.govinfo.gov/link/plaw/102/public/145), as added [Pub. L. 102–266, § 102](https://www.govinfo.gov/link/plaw/102/public/266), Apr. 1, 1992, [106 Stat. 97](https://www.govinfo.gov/link/statute/106/97).)*

@@ -3,9 +3,10 @@ title: "Section 3348 - Recognition of State certified and licensed appraisers fo
 usc_title: 12
 usc_section: "3348"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3348"
-generated_at: "2026-03-30T02:53:53.493Z"
+generated_at: "2026-11-23T21:25:37.133Z"
+status: "active"
 ---
 
 # § 3348. Recognition of State certified and licensed appraisers for purposes of this chapter
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.493Z"
   - **(2)** Subject to the approval of the Council, the Appraisal Subcommittee may extend, until December 31, 1991 , the effective date for the use of certified or licensed appraisers if it makes a written finding that a State has made substantial progress in establishing a State certification and licensing system that appears to conform to the provisions of this chapter.
 - **(b)** Subject to the approval of the Council, the Appraisal Subcommittee may waive any requirement relating to certification or licensing of a person to perform appraisals under this chapter if the Appraisal Subcommittee or a State agency whose certifications and licenses are in compliance with this chapter, makes a written determination that there is a scarcity of certified or licensed appraisers to perform appraisals in connection with federally related transactions in a State, or in any geographical political subdivision of a State, leading to significant delays in the performance of such appraisals. The waiver terminates when the Appraisal Subcommittee determines that such significant delays have been eliminated.
 - **(c)** The Appraisal Subcommittee, any other Federal agency or instrumentality, or any federally recognized entity shall report any action of a State certified or licensed appraiser that is contrary to the purposes of this chapter, to the appropriate State agency for a disposition of the subject of the referral. The State agency shall provide the Appraisal Subcommittee or the other Federal agency or instrumentality with a report on its disposition of the matter referred. Subsequent to such disposition, the subcommittee or the agency or instrumentality may take such further action, pursuant to written procedures, it deems necessary to carry out the purposes of this chapter.
+
+## Source Credit
+
+*([Pub. L. 101–73, title XI, § 1119](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 516](https://www.govinfo.gov/link/statute/103/516); [Pub. L. 102–233, title VII, § 701(b)](https://www.govinfo.gov/link/plaw/102/public/233), Dec. 12, 1991, [105 Stat. 1792](https://www.govinfo.gov/link/statute/105/1792); [Pub. L. 102–242, title IV, § 472(b)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2386](https://www.govinfo.gov/link/statute/105/2386); [Pub. L. 102–550, title XVI, § 1617(a)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4096](https://www.govinfo.gov/link/statute/106/4096); [Pub. L. 111–203, title XIV, § 1473(t)(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2199](https://www.govinfo.gov/link/statute/124/2199).)*

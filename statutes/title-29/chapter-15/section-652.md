@@ -3,9 +3,10 @@ title: "Section 652 - Definitions"
 usc_title: 29
 usc_section: "652"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 652"
-generated_at: "2026-03-30T02:55:18.687Z"
+generated_at: "2026-11-23T21:26:02.189Z"
+status: "active"
 ---
 
 # § 652. Definitions
@@ -26,3 +27,7 @@ For the purposes of this chapter—
   - **(12)** The term “Director” means the Director of the National Institute for Occupational Safety and Health.
   - **(13)** The term “Institute” means the National Institute for Occupational Safety and Health established under this chapter.
   - **(14)** The term “Workmen’s Compensation Commission” means the National Commission on State Workmen’s Compensation Laws established under this chapter.
+
+## Source Credit
+
+*([Pub. L. 91–596, § 3](https://www.govinfo.gov/link/plaw/91/public/596), Dec. 29, 1970, [84 Stat. 1591](https://www.govinfo.gov/link/statute/84/1591); [Pub. L. 105–241, § 2(a)](https://www.govinfo.gov/link/plaw/105/public/241), Sept. 28, 1998, [112 Stat. 1572](https://www.govinfo.gov/link/statute/112/1572).)*

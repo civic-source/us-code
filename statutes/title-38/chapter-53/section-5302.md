@@ -3,9 +3,10 @@ title: "Section 5302 - Waiver of recovery of claims by the United States"
 usc_title: 38
 usc_section: "5302"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 5302"
-generated_at: "2026-03-30T02:55:53.520Z"
+generated_at: "2026-11-23T21:26:16.818Z"
+status: "active"
 ---
 
 # § 5302. Waiver of recovery of claims by the United States
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:53.520Z"
 - **(c)** The recovery of any payment or the collection of any indebtedness (or any interest thereon) may not be waived under this section if, in the Secretary’s opinion, there exists in connection with the claim for such waiver an indication of fraud, misrepresentation or bad faith on the part of the person or persons having an interest in obtaining a waiver of such recovery or the collection of such indebtedness (or any interest thereon).
 - **(d)** No certifying or disbursing officer shall be liable for any amount paid to any person where the recovery of such amount is waived under subsection (a) or (b).
 - **(e)** Where the recovery of a payment or overpayment made from the National Service Life Insurance Fund or United States Government Life Insurance Fund is waived under this section, the fund from which the payment was made shall be reimbursed from the National Service Life Insurance appropriation or the military and naval insurance appropriation, as applicable.
+
+## Source Credit
+
+*([Pub. L. 85–857](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1230](https://www.govinfo.gov/link/statute/72/1230), § 3102; [Pub. L. 92–328, title II, § 202(a)](https://www.govinfo.gov/link/plaw/92/public/328), June 30, 1972, [86 Stat. 396](https://www.govinfo.gov/link/statute/86/396); [Pub. L. 96–466, title VI, § 605(c)(3)](https://www.govinfo.gov/link/plaw/96/public/466), Oct. 17, 1980, [94 Stat. 2211](https://www.govinfo.gov/link/statute/94/2211); [Pub. L. 97–306, title IV, § 407(a)](https://www.govinfo.gov/link/plaw/97/public/306), Oct. 14, 1982, [96 Stat. 1445](https://www.govinfo.gov/link/statute/96/1445); [Pub. L. 99–576, title VII, § 701(69)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3296](https://www.govinfo.gov/link/statute/100/3296); [Pub. L. 101–237, title III, § 311](https://www.govinfo.gov/link/plaw/101/public/237), Dec. 18, 1989, [103 Stat. 2075](https://www.govinfo.gov/link/statute/103/2075); renumbered § 5302, [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238); [Pub. L. 102–54, § 5](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 268](https://www.govinfo.gov/link/statute/105/268); [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(a)(1), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, [105 Stat. 403–406](https://www.govinfo.gov/link/statute/105/403); [Pub. L. 102–547, § 12](https://www.govinfo.gov/link/plaw/102/public/547), Oct. 28, 1992, [106 Stat. 3645](https://www.govinfo.gov/link/statute/106/3645); [Pub. L. 105–33, title VIII, § 8033(b)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 669](https://www.govinfo.gov/link/statute/111/669); [Pub. L. 117–328, div. U, title II](https://www.govinfo.gov/link/plaw/117/public/328), §§ 254(a), 255(c), Dec. 29, 2022, [136 Stat. 5464](https://www.govinfo.gov/link/statute/136/5464), 5465.)*

@@ -3,9 +3,10 @@ title: "Section 1804 - Vocational training and rehabilitation"
 usc_title: 38
 usc_section: "1804"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1804"
-generated_at: "2026-03-30T02:55:53.489Z"
+generated_at: "2026-11-23T21:26:16.668Z"
+status: "active"
 ---
 
 # § 1804. Vocational training and rehabilitation
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:53.489Z"
 - **(e)**
   - **(1)** A child who is pursuing a program of vocational training under this section and is also eligible for assistance under a program under chapter 35 of this title may not receive assistance under both such programs concurrently. The child shall elect (in such form and manner as the Secretary may prescribe) the program under which the child is to receive assistance.
   - **(2)** The aggregate period for which a child may receive assistance under this section and chapter 35 of this title may not exceed 48 months (or the part-time equivalent thereof).
+
+## Source Credit
+
+*(Added [Pub. L. 104–204, title IV, § 421(b)(1)](https://www.govinfo.gov/link/plaw/104/public/204), Sept. 26, 1996, [110 Stat. 2924](https://www.govinfo.gov/link/statute/110/2924); amended [Pub. L. 105–114, title IV, § 404(c)](https://www.govinfo.gov/link/plaw/105/public/114), Nov. 21, 1997, [111 Stat. 2295](https://www.govinfo.gov/link/statute/111/2295); [Pub. L. 108–183, title VII, § 708(a)(3)](https://www.govinfo.gov/link/plaw/108/public/183), Dec. 16, 2003, [117 Stat. 2673](https://www.govinfo.gov/link/statute/117/2673).)*

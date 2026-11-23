@@ -3,9 +3,10 @@ title: "Section 843 - Licenses and user permits"
 usc_title: 18
 usc_section: "843"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 843"
-generated_at: "2026-03-30T02:54:16.471Z"
+generated_at: "2026-11-23T21:25:43.997Z"
+status: "active"
 ---
 
 # § 843. Licenses and user permits
@@ -43,3 +44,17 @@ generated_at: "2026-03-30T02:54:16.471Z"
     - **(B)** information on chemical composition of those products; and
     - **(C)** any other information that the Secretary 1 determines is relevant to the identification of the explosive materials or to identification of the ammonium nitrate.
   - **(2)** The Secretary 1 shall, by regulation, authorize reimbursement of the fair market value of samples furnished pursuant to this subsection, as well as the reasonable costs of shipment.
+
+Furnishing of Samples.—
+
+In general
+
+Reimbursement
+
+In general
+
+Exception
+
+## Source Credit
+
+*(Added [Pub. L. 91–452, title XI, § 1102(a)](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 955](https://www.govinfo.gov/link/statute/84/955); amended [Pub. L. 107–296, title XI](https://www.govinfo.gov/link/plaw/107/public/296), §§ 1112(e)(3), 1122(c)–(h), 1124, Nov. 25, 2002, [116 Stat. 2276](https://www.govinfo.gov/link/statute/116/2276), 2281, 2282, 2285.)*

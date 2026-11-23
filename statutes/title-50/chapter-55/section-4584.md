@@ -3,9 +3,10 @@ title: "Section 4584 - Multilateral engagement and coordination"
 usc_title: 50
 usc_section: "4584"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4584"
-generated_at: "2026-03-30T02:56:26.281Z"
+generated_at: "2026-11-23T21:26:39.114Z"
+status: "active"
 ---
 
 # § 4584. Multilateral engagement and coordination
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:26.281Z"
 - **(d)** In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate; and
   - **(2)** the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives.
+
+## Source Credit
+
+*(Sept. 8, 1950, ch. 932, title VIII, § 804, as added [Pub. L. 119–60, div. H, title LXXXV, § 8521](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1929](https://www.govinfo.gov/link/statute/139/1929).)*

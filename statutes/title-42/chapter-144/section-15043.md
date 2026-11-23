@@ -3,9 +3,10 @@ title: "Section 15043 - System required"
 usc_title: 42
 usc_section: "15043"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15043"
-generated_at: "2026-03-30T02:56:11.457Z"
+generated_at: "2026-11-23T21:26:33.659Z"
+status: "active"
 ---
 
 # § 15043. System required
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:56:11.457Z"
   - **(1)** a report prepared or received by any staff at any location at which services, supports, or other assistance is provided to individuals with developmental disabilities;
   - **(2)** a report prepared by an agency or staff person charged with investigating reports of incidents of abuse or neglect, injury, or death occurring at such location, that describes such incidents and the steps taken to investigate such incidents; and
   - **(3)** a discharge planning record.
+
+## Source Credit
+
+*([Pub. L. 106–402, title I, § 143](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1714](https://www.govinfo.gov/link/statute/114/1714); [Pub. L. 108–364, § 3(a)(3)](https://www.govinfo.gov/link/plaw/108/public/364), Oct. 25, 2004, [118 Stat. 1736](https://www.govinfo.gov/link/statute/118/1736).)*

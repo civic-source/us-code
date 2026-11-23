@@ -3,9 +3,10 @@ title: "Section 4374 - Cooperation with foreign countries on preventing evasion 
 usc_title: 19
 usc_section: "4374"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4374"
-generated_at: "2026-03-30T02:54:24.707Z"
+generated_at: "2026-11-23T21:25:42.883Z"
+status: "active"
 ---
 
 # § 4374. Cooperation with foreign countries on preventing evasion of trade remedy laws
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:24.707Z"
   - **(1)** the status of any ongoing negotiations of bilateral agreements described in subsection (a), including the identities of the countries involved in such negotiations;
   - **(2)** the terms of any completed bilateral agreements described in subsection (a); and
   - **(3)** bilateral cooperation and other activities conducted pursuant to or enabled by any completed bilateral agreements described in subsection (a).
+
+## Source Credit
+
+*([Pub. L. 114–125, title IV, § 414](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 160](https://www.govinfo.gov/link/statute/130/160); [Pub. L. 116–113, title IV, § 401](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 61](https://www.govinfo.gov/link/statute/134/61).)*

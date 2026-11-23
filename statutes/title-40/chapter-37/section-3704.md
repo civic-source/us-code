@@ -3,9 +3,10 @@ title: "Section 3704 - Health and safety standards in building trades and constr
 usc_title: 40
 usc_section: "3704"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 3704"
-generated_at: "2026-03-30T02:55:43.380Z"
+generated_at: "2026-11-23T21:26:14.872Z"
+status: "active"
 ---
 
 # § 3704. Health and safety standards in building trades and construction industry
@@ -35,3 +36,75 @@ generated_at: "2026-03-30T02:55:43.380Z"
     - **(B)** on policy matters arising in carrying out this section.
   - **(5)** The Secretary may appoint special advisory and technical experts or consultants as may be necessary to carry out the functions of the Committee.
   - **(6)** Committee members are entitled to receive compensation at rates the Secretary fixes, but not more than $100 a day, including traveltime, when performing Committee business, and expenses under section 5703 of title 5 .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3704(a) | 40:333(a). | Pub. L. 87–581, title I, § 107(a) –(e), as added Pub. L. 91–54, § 1 , Aug. 9, 1969 , 83 Stat. 96 ; Pub. L. 103–355, title IV, § 4104(c)(2) , Oct. 13, 1994 , 108 Stat. 3342 . |
+| 3704(b) | 40:333(b), (c). |  |
+| 3704(c) | 40:333(d). |  |
+| 3704(d) | 40:333(e). |  |
+
+
+Condition of Contracts.—
+
+In general
+
+Consultation
+
+Compliance.—
+
+Actions to gain compliance
+
+Remedy when noncompliance found
+
+Nonapplicability
+
+Repeated Violations.—
+
+Transmittal of names of repeat violators to comptroller general
+
+Ban on awarding contracts
+
+Judicial review
+
+Advisory Committee on Construction Safety and Health.—
+
+Establishment
+
+Composition
+
+Chairman
+
+Duties
+
+Experts and consultants
+
+Compensation and expenses
+
+Historical and Revision Notes
+
+3704(a)
+
+Pub. L. 87–581, title I, § 107(a)
+
+Pub. L. 91–54, § 1
+
+Aug. 9, 1969
+
+83 Stat. 96
+
+Pub. L. 103–355, title IV, § 4104(c)(2)
+
+Oct. 13, 1994
+
+108 Stat. 3342
+
+3704(b)
+
+3704(c)
+
+3704(d)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1172](https://www.govinfo.gov/link/statute/116/1172); [Pub. L. 109–284, § 6(16)](https://www.govinfo.gov/link/plaw/109/public/284), (17), Sept. 27, 2006, [120 Stat. 1213](https://www.govinfo.gov/link/statute/120/1213); [Pub. L. 111–350, § 5](https://www.govinfo.gov/link/plaw/111/public/350) (l)(20), Jan. 4, 2011, [124 Stat. 3852](https://www.govinfo.gov/link/statute/124/3852).)*

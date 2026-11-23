@@ -3,9 +3,10 @@ title: "Section 3515 - Financial statements of agencies"
 usc_title: 31
 usc_section: "3515"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 3515"
-generated_at: "2026-03-30T02:55:34.057Z"
+generated_at: "2026-11-23T21:26:10.577Z"
+status: "active"
 ---
 
 # § 3515. Financial statements of agencies
@@ -25,3 +26,11 @@ generated_at: "2026-03-30T02:55:34.057Z"
 - **(f)** The term “covered executive agency”—
   - **(1)** means an executive agency that is not required by another provision of Federal law to prepare and submit to the Congress and the Director of the Office of Management and Budget an audited financial statement for each fiscal year, covering all accounts and associated activities of each office, bureau, and activity of the agency; and
   - **(2)** does not include a corporation, agency, or instrumentality subject to chapter 91 of this title.
+
+In general
+
+Agencies described
+
+## Source Credit
+
+*(Added [Pub. L. 101–576, title III, § 303(a)(1)](https://www.govinfo.gov/link/plaw/101/public/576), Nov. 15, 1990, [104 Stat. 2849](https://www.govinfo.gov/link/statute/104/2849); amended [Pub. L. 103–356, title IV, § 405(a)](https://www.govinfo.gov/link/plaw/103/public/356), Oct. 13, 1994, [108 Stat. 3415](https://www.govinfo.gov/link/statute/108/3415); [Pub. L. 106–531, § 4(a)](https://www.govinfo.gov/link/plaw/106/public/531), Nov. 22, 2000, [114 Stat. 2539](https://www.govinfo.gov/link/statute/114/2539); [Pub. L. 107–289, § 2(a)](https://www.govinfo.gov/link/plaw/107/public/289), Nov. 7, 2002, [116 Stat. 2049](https://www.govinfo.gov/link/statute/116/2049).)*

@@ -3,9 +3,10 @@ title: "Section 220 - Illegal remunerations for referrals to recovery homes, cli
 usc_title: 18
 usc_section: "220"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 220"
-generated_at: "2026-03-30T02:54:16.460Z"
+generated_at: "2026-11-23T21:25:43.954Z"
+status: "active"
 ---
 
 # § 220. Illegal remunerations for referrals to recovery homes, clinical treatment facilities, and laboratories
@@ -39,3 +40,21 @@ generated_at: "2026-03-30T02:54:16.460Z"
   - **(3)** the term “health care benefit program” has the meaning given the term in section 24(b);
   - **(4)** the term “laboratory” has the meaning given the term in section 353 of the Public Health Service Act ( 42 U.S.C. 263a ); and
   - **(5)** the term “recovery home” means a shared living environment that is, or purports to be, free from alcohol and illicit drug use and centered on peer support and connection to services that promote sustained recovery from substance use disorders.
+
+Offense
+
+Applicability
+
+Regulations
+
+Preemption.—
+
+Federal law
+
+State law
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 115–271, title VIII, § 8122(a)](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 4108](https://www.govinfo.gov/link/statute/132/4108).)*

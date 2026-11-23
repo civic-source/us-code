@@ -3,9 +3,10 @@ title: "Section 1598 - Assistance to terminated employees to obtain certificatio
 usc_title: 10
 usc_section: "1598"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1598"
-generated_at: "2026-03-30T02:53:38.132Z"
+generated_at: "2026-11-23T21:25:32.521Z"
+status: "active"
 ---
 
 # § 1598. Assistance to terminated employees to obtain certification and employment as teachers or employment as teachers’ aides
@@ -43,3 +44,21 @@ generated_at: "2026-03-30T02:53:38.132Z"
   - **(2)** A civilian employee selected to participate in the placement program who receives separation pay under section 5597 of title 5 shall not be paid a stipend under paragraph (1).
   - **(3)** A stipend paid under paragraph (1) shall be taken into account in determining the eligibility of the participant for Federal student financial assistance provided under title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1070 et seq.).
 - **(f)** Subsections (h) through (k) of section 1151 1 of this title, as in effect on October 4, 1999 , shall apply with respect to the placement program authorized by this section.
+
+Placement Program
+
+Eligible Employees
+
+Selection of Participants
+
+Agreement
+
+Stipend for Participants
+
+Placement of Participants as Teachers and Teachers’ Aides
+
+“The amendments made by subsections (c) and (d) [amending this section and section 4703 of this title and former section 1151 of this title ] shall not apply with respect to—
+
+## Source Credit
+
+*(Added [Pub. L. 102–484, div. D, title XLIV, § 4442(a)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2730](https://www.govinfo.gov/link/statute/106/2730); amended [Pub. L. 103–35, title II, § 201(h)(1)](https://www.govinfo.gov/link/plaw/103/public/35), May 31, 1993, [107 Stat. 100](https://www.govinfo.gov/link/statute/107/100); [Pub. L. 103–160, div. A, title XIII, § 1331(c)(2)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1792](https://www.govinfo.gov/link/statute/107/1792); [Pub. L. 103–382, title III, § 391(b)(3)](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 4021](https://www.govinfo.gov/link/statute/108/4021); [Pub. L. 104–106, div. A, title XV, § 1503(a)(14)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 511](https://www.govinfo.gov/link/statute/110/511); [Pub. L. 104–201, div. A, title V, § 576(b)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2535](https://www.govinfo.gov/link/statute/110/2535); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1087(a)(11)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–290.)*

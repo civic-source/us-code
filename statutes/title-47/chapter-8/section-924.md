@@ -3,9 +3,10 @@ title: "Section 924 - Withdrawal or limitation of assignment to Federal Governme
 usc_title: 47
 usc_section: "924"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 924"
-generated_at: "2026-03-30T02:56:24.528Z"
+generated_at: "2026-11-23T21:26:36.078Z"
+status: "active"
 ---
 
 # § 924. Withdrawal or limitation of assignment to Federal Government stations
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:24.528Z"
   - **(4)** If the President determines that any action cannot be completed by the delayed effective date recommended by the Secretary pursuant to section 923(e) of this title , or that such an action by such date would result in a frequency being unused as a consequence of the Commission’s plan under section 925 of this title , the President may—
     - **(A)** withdraw or limit the assignment to Federal Government stations on a later date that is consistent with such plan, except that the President shall notify each committee specified in paragraph (1)(B) and the Commission of the reason that withdrawal or limitation at a later date is required; or
     - **(B)** substitute alternative frequencies pursuant to the provisions of this subsection.
+
+## Source Credit
+
+*([Pub. L. 102–538, title I, § 114](https://www.govinfo.gov/link/plaw/102/public/538), as added [Pub. L. 103–66, title VI, § 6001(a)(3)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 384](https://www.govinfo.gov/link/statute/107/384); amended [Pub. L. 105–33, title III, § 3002(d)(2)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 264](https://www.govinfo.gov/link/statute/111/264).)*

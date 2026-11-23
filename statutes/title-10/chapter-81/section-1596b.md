@@ -3,9 +3,10 @@ title: "Section 1596b - Foreign language proficiency: National Foreign Language 
 usc_title: 10
 usc_section: "1596b"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1596b"
-generated_at: "2026-03-30T02:53:38.131Z"
+generated_at: "2026-11-23T21:25:32.521Z"
+status: "active"
 ---
 
 # § 1596b. Foreign language proficiency: National Foreign Language Skills Registry
@@ -30,3 +31,19 @@ generated_at: "2026-03-30T02:53:38.131Z"
 - **(d)** The Secretary may withhold from public disclosure the information maintained in the Registry in accordance with section 552a of title 5 .
 - **(e)** The Secretary shall designate those languages that are critical foreign languages for the purposes of this section. The Secretary shall make such a designation for any foreign language for which there is a shortage of experts in translation or interpretation available to meet requirements of the Secretary or of the head of any other department or agency of the United States for translation or interpretation in the national security interests of the United States.
 - **(f)** In this section, the term “linguistic services” means translation or interpretation of communication in a foreign language.
+
+Establishment
+
+Eligible Persons
+
+Registered Information
+
+Protection of Privacy
+
+Designation of Critical Foreign Languages
+
+Linguistic Services Defined
+
+## Source Credit
+
+*(Added [Pub. L. 107–314, div. A, title X, § 1064(a)(1)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2653](https://www.govinfo.gov/link/statute/116/2653).)*

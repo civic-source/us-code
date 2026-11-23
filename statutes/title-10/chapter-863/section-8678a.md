@@ -3,9 +3,10 @@ title: "Section 8678a - Limitation on decommissioning or inactivating a battle f
 usc_title: 10
 usc_section: "8678a"
 chapter: 863
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 8678a"
-generated_at: "2026-03-30T02:53:38.248Z"
+generated_at: "2026-11-23T21:25:32.940Z"
+status: "active"
 ---
 
 # § 8678a. Limitation on decommissioning or inactivating a battle force ship before the end of expected service life
@@ -30,3 +31,17 @@ generated_at: "2026-03-30T02:53:38.248Z"
     - **(A)** A commissioned United States Ship warship capable of contributing to combat operations.
     - **(B)** A United States Naval Ship that contributes directly to Navy warfighting or support missions.
   - **(2)** The term “expected service life” means the number of years a naval vessel is expected to be in service.
+
+Limitation
+
+Waiver
+
+Certification Described
+
+Form
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. A, title X, § 1014(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1894](https://www.govinfo.gov/link/statute/135/1894); amended [Pub. L. 117–263, div. A, title X, § 1024(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2764](https://www.govinfo.gov/link/statute/136/2764).)*

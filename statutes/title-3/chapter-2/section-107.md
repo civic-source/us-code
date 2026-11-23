@@ -3,9 +3,10 @@ title: "Section 107 - Domestic Policy Staff and Office of Administration; person
 usc_title: 3
 usc_section: "107"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "3 U.S.C. § 107"
-generated_at: "2026-03-30T02:52:49.878Z"
+generated_at: "2026-11-23T21:25:20.106Z"
+status: "active"
 ---
 
 # § 107. Domestic Policy Staff and Office of Administration; personnel
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:52:49.878Z"
     - **(B)** to procure, as provided in appropriation Acts, temporary or intermittent services of experts and consultants, as described in and in accordance with the first two sentences of section 3109(b) of title 5 , at respective daily rates of pay for individuals which are not more than the daily equivalent of the maximum rate of basic pay then currently paid for GS–18 of the General Schedule of section 5332 of title 5 .
   - **(2)** In addition to any authority granted under paragraph (1) of this subsection, the President (or his designee) is authorized to employ individuals in the Office of Administration in accordance with section 3101 of title 5 and provisions relating thereto. Any individual so employed under the authority granted under such section 3101 shall be subject to the limitation specified in section 114 of this title .
 - **(c)** There are authorized to be appropriated each fiscal year such sums as may be necessary for the official expenses of the Domestic Policy Staff and the Office of Administration.
+
+## Source Credit
+
+*(Added [Pub. L. 95–570, § 2(a)](https://www.govinfo.gov/link/plaw/95/public/570), Nov. 2, 1978, [92 Stat. 2448](https://www.govinfo.gov/link/statute/92/2448).)*

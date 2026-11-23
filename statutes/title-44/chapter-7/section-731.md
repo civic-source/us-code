@@ -3,12 +3,17 @@ title: "Section 731 - Allotments of public documents printed after expiration of
 usc_title: 44
 usc_section: "731"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 731"
-generated_at: "2026-03-30T02:55:56.289Z"
+generated_at: "2026-11-23T21:26:18.382Z"
+status: "active"
 ---
 
 # § 731. Allotments of public documents printed after expiration of terms of Members of Congress; rights of retiring Members to documents
 
 The Congressional allotment of public documents, other than the Congressional Record, printed after the expiration of the term of office of the Vice President of the United States, or Senator, Representative, or Resident Commissioner, shall be delivered to his successor in office. Unless the Vice President of the United States, a Senator, Representative, or Resident Commissioner, having public documents to his credit at the expiration of his term of office takes them prior to the 30th day of June next following the date of expiration, he shall forfeit them to his successor in office.
 
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1253](https://www.govinfo.gov/link/statute/82/1253).)*

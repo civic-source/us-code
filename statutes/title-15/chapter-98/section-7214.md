@@ -3,9 +3,10 @@ title: "Section 7214 - Inspections of registered public accounting firms"
 usc_title: 15
 usc_section: "7214"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7214"
-generated_at: "2026-03-30T02:54:08.219Z"
+generated_at: "2026-11-23T21:25:40.041Z"
+status: "active"
 ---
 
 # § 7214. Inspections of registered public accounting firms
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:54:08.219Z"
       - **(ii)** through any other method that is within the jurisdiction of the Commission to regulate, including through the method of trading that is commonly referred to as the “over-the-counter” trading of securities.
     - **(D)** If, after the end of the 5-year period beginning on the date on which the Commission imposes a prohibition on a covered issuer under subparagraph (C), the covered issuer certifies to the Commission that the covered issuer will retain a registered public accounting firm that the Board is able to inspect under this section, the Commission shall end that prohibition.
   - **(4)** Not later than 90 days after December 18, 2020 , the Commission shall issue rules that establish the manner and form in which a covered issuer shall make a submission required under paragraph (2)(B).
+
+## Source Credit
+
+*([Pub. L. 107–204, title I, § 104](https://www.govinfo.gov/link/plaw/107/public/204), July 30, 2002, [116 Stat. 757](https://www.govinfo.gov/link/statute/116/757); [Pub. L. 111–203, title IX, § 982(e)(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1929](https://www.govinfo.gov/link/statute/124/1929); [Pub. L. 116–222, § 2](https://www.govinfo.gov/link/plaw/116/public/222), Dec. 18, 2020, [134 Stat. 1063](https://www.govinfo.gov/link/statute/134/1063); [Pub. L. 117–328, div. AA, title III, § 301](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5536](https://www.govinfo.gov/link/statute/136/5536).)*

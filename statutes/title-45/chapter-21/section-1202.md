@@ -3,9 +3,10 @@ title: "Section 1202 - Definitions"
 usc_title: 45
 usc_section: "1202"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 1202"
-generated_at: "2026-03-30T02:55:56.560Z"
+generated_at: "2026-11-23T21:26:19.239Z"
+status: "active"
 ---
 
 # § 1202. Definitions
@@ -38,3 +39,7 @@ As used in this chapter, the term—
   - **(13)** “State” means the State of Alaska or the State-owned railroad, as the context requires;
   - **(14)** “State-owned railroad” means the authority, agency, corporation or other entity which the State of Alaska designates or contracts with to own, operate or manage the rail properties of the Alaska Railroad or, as the context requires, the railroad owned, operated, or managed by such authority, agency, corporation, or other entity; and
   - **(15)** “Village Corporation” has the same meaning as such term has under section 3(j) of the Alaska Native Claims Settlement Act ( 43 U.S.C. 1602(j) ).
+
+## Source Credit
+
+*([Pub. L. 97–468, title VI, § 603](https://www.govinfo.gov/link/plaw/97/public/468), Jan. 14, 1983, [96 Stat. 2556](https://www.govinfo.gov/link/statute/96/2556).)*

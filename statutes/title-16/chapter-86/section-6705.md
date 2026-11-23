@@ -3,9 +3,10 @@ title: "Section 6705 - Cooperation between Institutes and Federal agencies"
 usc_title: 16
 usc_section: "6705"
 chapter: 86
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6705"
-generated_at: "2026-03-30T02:54:23.066Z"
+generated_at: "2026-11-23T21:25:52.051Z"
+status: "active"
 ---
 
 # § 6705. Cooperation between Institutes and Federal agencies
@@ -25,3 +26,7 @@ In carrying out this chapter, the Secretary, in consultation with the Secretary 
   - **(6)** may support a program of internships for qualified individuals at the undergraduate and graduate levels to carry out the educational and training objectives of this chapter;
   - **(7)** shall encourage professional education and public information activities relating to the purposes of this chapter; and
   - **(8)** may promulgate such regulations as the Secretaries determine are necessary to carry out this chapter.
+
+## Source Credit
+
+*([Pub. L. 108–317, § 6](https://www.govinfo.gov/link/plaw/108/public/317), Oct. 5, 2004, [118 Stat. 1208](https://www.govinfo.gov/link/statute/118/1208).)*

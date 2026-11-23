@@ -3,9 +3,10 @@ title: "Section 5107 - Hazmat employee training requirements and grants"
 usc_title: 49
 usc_section: "5107"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 5107"
-generated_at: "2026-03-30T02:56:19.306Z"
+generated_at: "2026-11-23T21:26:40.616Z"
+status: "active"
 ---
 
 # § 5107. Hazmat employee training requirements and grants
@@ -44,3 +45,80 @@ generated_at: "2026-03-30T02:56:19.306Z"
 - **(i)** The Secretary shall establish a competitive program for making grants to nonprofit organizations for—
   - **(1)** conducting national outreach and training programs to assist communities in preparing for and responding to accidents and incidents involving the transportation of hazardous materials, including Class 3 flammable liquids by rail; and
   - **(2)** training State and local personnel responsible for enforcing the safe transportation of hazardous materials, including Class 3 flammable liquids.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5107(a) | 49 App.:1805(b)(1), (2), (5) (1st sentence). | Jan. 3, 1975 , Pub. L. 93–633 , 88 Stat. 2156 , § 106(b); added Nov. 16, 1990 , Pub. L. 101–615, § 7(3) , 104 Stat. 3253 . |
+| 5107(b) | 49 App.:1805(b)(4), (5) (last sentence). |  |
+| 5107(c) | 49 App.:1805(b)(6). |  |
+| 5107(d) | 49 App.:1805(b)(3) (1st sentence). |  |
+| 5107(e) | 49 App.:1816(a)–(c). | Jan. 3, 1975 , Pub. L. 93–633 , 88 Stat. 2156 , § 118(a)–(c); added Nov. 16, 1990 , Pub. L. 101–615, § 18 , 104 Stat. 3269 . |
+| 5107(f)(1) | 49 App.:1805(b)(7). |  |
+| 5107(f)(2) | 49 App.:1805(b)(3) (last sentence). |  |
+
+
+Training Requirements
+
+Beginning and Completing Training
+
+Certification of Training
+
+Coordination of Training Requirements
+
+Training Grants.—
+
+In general
+
+Eligibility
+
+Training of Certain Employees
+
+Relationship to Other Laws
+
+Existing Effort
+
+Community Safety Grants
+
+Historical and Revision Notes
+
+5107(a)
+
+Jan. 3, 1975
+
+Pub. L. 93–633
+
+88 Stat. 2156
+
+Nov. 16, 1990
+
+Pub. L. 101–615, § 7(3)
+
+104 Stat. 3253
+
+5107(b)
+
+5107(c)
+
+5107(d)
+
+5107(e)
+
+Jan. 3, 1975
+
+Pub. L. 93–633
+
+88 Stat. 2156
+
+Nov. 16, 1990
+
+Pub. L. 101–615, § 18
+
+104 Stat. 3269
+
+5107(f)(1)
+
+5107(f)(2)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 763](https://www.govinfo.gov/link/statute/108/763); [Pub. L. 103–311, title I](https://www.govinfo.gov/link/plaw/103/public/311), §§ 106, 119(c)(1)–(3), Aug. 26, 1994, [108 Stat. 1674](https://www.govinfo.gov/link/statute/108/1674), 1680; [Pub. L. 109–59, title VII](https://www.govinfo.gov/link/plaw/109/public/59), §§ 7108, 7126, Aug. 10, 2005, [119 Stat. 1897](https://www.govinfo.gov/link/statute/119/1897), 1909; [Pub. L. 112–141, div. C, title III, § 33016](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 841](https://www.govinfo.gov/link/statute/126/841); [Pub. L. 114–94, div. A, title VII, § 7301](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1594](https://www.govinfo.gov/link/statute/129/1594).)*

@@ -3,9 +3,10 @@ title: "Section 1440f - Fingerprints and other biometric information for members
 usc_title: 8
 usc_section: "1440f"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1440f"
-generated_at: "2026-03-30T02:53:10.501Z"
+generated_at: "2026-11-23T21:25:25.195Z"
+status: "active"
 ---
 
 # § 1440f. Fingerprints and other biometric information for members of the United States Armed Forces
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:10.501Z"
 - **(e)**
   - **(1)** The Secretary of Homeland Security shall centralize the data processing of all applications for naturalization filed by members of the United States Armed Forces on active duty serving abroad.
   - **(2)** The Secretary of Homeland Security, the Director of the Federal Bureau of Investigation, and the Director of National Intelligence shall take appropriate actions to ensure that applications for naturalization by members of the United States Armed Forces described in paragraph (1), and associated background checks, receive expedited processing and are adjudicated within 180 days of the receipt of responses to all background checks.
+
+## Source Credit
+
+*([Pub. L. 110–251, § 2](https://www.govinfo.gov/link/plaw/110/public/251), June 26, 2008, [122 Stat. 2319](https://www.govinfo.gov/link/statute/122/2319).)*

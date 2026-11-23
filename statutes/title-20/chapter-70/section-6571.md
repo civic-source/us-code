@@ -3,9 +3,10 @@ title: "Section 6571 - Federal regulations"
 usc_title: 20
 usc_section: "6571"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6571"
-generated_at: "2026-03-30T02:54:48.200Z"
+generated_at: "2026-11-23T21:25:47.520Z"
+status: "active"
 ---
 
 # § 6571. Federal regulations
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:48.200Z"
     - **(C)** conduct immediately thereafter regional meetings to review such proposed regulation before issuing any final regulation.
 - **(d)** Regulations to carry out this subchapter may not require local programs to follow a particular instructional model, such as the provision of services outside the regular classroom or school program.
 - **(e)** Nothing in this section affects the applicability of subchapter II of chapter 5, and chapter 7, of title 5 (commonly known as the “Administrative Procedure Act”) or chapter 8 of title 5 (commonly known as the “Congressional Review Act”).
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1601](https://www.govinfo.gov/link/plaw/89/public/10), formerly § 1901, as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1617](https://www.govinfo.gov/link/statute/115/1617); renumbered § 1601 and amended [Pub. L. 114–95, title I](https://www.govinfo.gov/link/plaw/114/public/95), §§ 1501(a)(4), 1601(a), Dec. 10, 2015, [129 Stat. 1906](https://www.govinfo.gov/link/statute/129/1906), 1910; [Pub. L. 117–286, § 4(a)(152)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4322](https://www.govinfo.gov/link/statute/136/4322).)*

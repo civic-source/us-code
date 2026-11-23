@@ -3,9 +3,10 @@ title: "Section 42301 - Emergency contingency plans"
 usc_title: 49
 usc_section: "42301"
 chapter: 423
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 42301"
-generated_at: "2026-03-30T02:56:19.379Z"
+generated_at: "2026-11-23T21:26:40.874Z"
+status: "active"
 ---
 
 # § 42301. Emergency contingency plans
@@ -54,3 +55,49 @@ generated_at: "2026-03-30T02:56:19.379Z"
   - **(4)** The term “excessive tarmac delay” means a tarmac delay of more than—
     - **(A)** 3 hours for a flight in interstate air transportation; or
     - **(B)** 4 hours for a flight in foreign air transportation.
+
+Submission of Air Carrier and Airport Plans
+
+Air Carrier Plans.—
+
+Plans for individual airports
+
+Contents
+
+Deplaning following an excessive tarmac delay
+
+Airport Plans
+
+Updates.—
+
+Air carriers
+
+Airports
+
+Approval.—
+
+In general
+
+Failure to approve or require modifications
+
+Adherence required
+
+Minimum Standards
+
+Public Access
+
+Reports
+
+Definitions
+
+Commercial airport
+
+Covered air transportation
+
+Tarmac delay
+
+Excessive tarmac delay
+
+## Source Credit
+
+*(Added [Pub. L. 112–95, title IV, § 415(a)](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 93](https://www.govinfo.gov/link/statute/126/93); amended [Pub. L. 114–190, title II, § 2308(a)](https://www.govinfo.gov/link/plaw/114/public/190), (b), July 15, 2016, [130 Stat. 648](https://www.govinfo.gov/link/statute/130/648).)*

@@ -3,9 +3,10 @@ title: "Section 4621 - Findings"
 usc_title: 15
 usc_section: "4621"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4621"
-generated_at: "2026-03-30T02:54:08.200Z"
+generated_at: "2026-11-23T21:25:39.997Z"
+status: "active"
 ---
 
 # § 4621. Findings
@@ -23,3 +24,7 @@ Congress makes the following findings:
   - **(9)** The most effective means of regaining that leadership is through a joint research effort of the Federal Government and private industry of the United States to improve semiconductor manufacturing technology and to develop practical uses for such technology.
   - **(10)** In order to meet the national defense needs of the United States and to insure the continued vitality of a commercial manufacturing base in the United States, it is essential that priority be given to the development, demonstration, and advancement of the semiconductor technology base in the United States.
   - **(11)** The national laboratories of the Department of Energy are a major national research resource, and the extensive involvement of such laboratories in the semiconductor research initiatives of the Federal Government and private industry would be an effective use of such laboratories and would help insure the success of such initiatives.
+
+## Source Credit
+
+*([Pub. L. 100–180, div. C, title I, § 3141](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1241](https://www.govinfo.gov/link/statute/101/1241).)*

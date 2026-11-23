@@ -3,9 +3,10 @@ title: "Section 47175 - Definitions"
 usc_title: 49
 usc_section: "47175"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 47175"
-generated_at: "2026-03-30T02:56:19.407Z"
+generated_at: "2026-11-23T21:26:40.992Z"
+status: "active"
 ---
 
 # § 47175. Definitions
@@ -27,3 +28,23 @@ In this subchapter, the following definitions apply:
     - **(B)** any other airport development project that the Secretary designates as facilitating aviation capacity building projects at a general aviation airport.
   - **(7)** The term “joint use airport” means an airport owned by the Department of Defense, at which both military and civilian aircraft make shared use of the airfield.
   - **(8)** The term “terminal development” has the meaning given such term in section 47102.
+
+Airport capacity enhancement project
+
+Airport sponsor
+
+Aviation safety project
+
+Congested airport
+
+Federal agency
+
+General aviation airport construction or improvement project
+
+Joint use airport
+
+Terminal development
+
+## Source Credit
+
+*(Added [Pub. L. 108–176, title III, § 304(a)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2538](https://www.govinfo.gov/link/statute/117/2538); amended [Pub. L. 112–95, title I, § 152(g)](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 34](https://www.govinfo.gov/link/statute/126/34); [Pub. L. 115–254, div. B, title I, § 191(b)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3239](https://www.govinfo.gov/link/statute/132/3239); [Pub. L. 118–63, title VII, § 784](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1313](https://www.govinfo.gov/link/statute/138/1313).)*

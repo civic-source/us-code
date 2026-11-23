@@ -3,9 +3,10 @@ title: "Section 352 - Annual employee award program"
 usc_title: 6
 usc_section: "352"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 352"
-generated_at: "2026-03-30T02:53:09.462Z"
+generated_at: "2026-11-23T21:25:25.786Z"
+status: "active"
 ---
 
 # § 352. Annual employee award program
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:09.462Z"
   - **(5)** publicize such program within the Department.
 - **(b)** The internal review board described in subsection (a)(3) shall, when carrying out its function under such subsection, consult with representatives from operational components and headquarters, including supervisory and nonsupervisory personnel, and employee labor organizations that represent Department employees.
 - **(c)** Nothing in this section may be construed to authorize additional funds to carry out the requirements of this section or to require the Secretary to provide monetary bonuses to recipients of an award under this section.
+
+## Source Credit
+
+*([Pub. L. 107–296, title VII, § 712](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 117–81, div. F, title LXIV, § 6402(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2398](https://www.govinfo.gov/link/statute/135/2398).)*

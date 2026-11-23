@@ -3,9 +3,10 @@ title: "Section 7456A - Nurses: alternate work schedules"
 usc_title: 38
 usc_section: "7456A"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7456A"
-generated_at: "2026-03-30T02:55:53.532Z"
+generated_at: "2026-11-23T21:26:16.879Z"
+status: "active"
 ---
 
 # § 7456A. Nurses: alternate work schedules
@@ -33,3 +34,19 @@ generated_at: "2026-03-30T02:55:53.532Z"
   - **(4)** A nurse who works under the authority in paragraph (1) shall be considered a full-time employee for purposes of chapter 89 of title 5.
 - **(e)** The Secretary shall provide each employee with respect to whom an alternate work schedule under this section may apply written notice of the effect, if any, that the alternate work schedule will have on the employee’s health care premium, retirement, life insurance premium, probationary status, or other benefit or condition of employment. The notice shall be provided not later than 14 days before the employee consents to the alternate work schedule.
 - **(f)** The Secretary shall prescribe regulations to carry out this section.
+
+Applicability
+
+Work Schedule
+
+Holiday Pay
+
+Month Work Schedule for Certain Nurses
+
+Notification of Modification of Benefits
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 108–445, § 4(a)(1)](https://www.govinfo.gov/link/plaw/108/public/445), Dec. 3, 2004, [118 Stat. 2643](https://www.govinfo.gov/link/statute/118/2643); amended [Pub. L. 111–163, title VI, § 602(c)](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1173](https://www.govinfo.gov/link/statute/124/1173).)*

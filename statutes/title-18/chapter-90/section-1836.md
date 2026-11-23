@@ -3,9 +3,10 @@ title: "Section 1836 - Civil proceedings"
 usc_title: 18
 usc_section: "1836"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1836"
-generated_at: "2026-03-30T02:54:16.491Z"
+generated_at: "2026-11-23T21:25:44.096Z"
+status: "active"
 ---
 
 # § 1836. Civil proceedings
@@ -66,3 +67,63 @@ generated_at: "2026-03-30T02:54:16.491Z"
     - **(D)** if a claim of the misappropriation is made in bad faith, which may be established by circumstantial evidence, a motion to terminate an injunction is made or opposed in bad faith, or the trade secret was willfully and maliciously misappropriated, award reasonable attorney’s fees to the prevailing party.
 - **(c)** The district courts of the United States shall have original jurisdiction of civil actions brought under this section.
 - **(d)** A civil action under subsection (b) may not be commenced later than 3 years after the date on which the misappropriation with respect to which the action would relate is discovered or by the exercise of reasonable diligence should have been discovered. For purposes of this subsection, a continuing misappropriation constitutes a single claim of misappropriation.
+
+Private Civil Actions.—
+
+In general
+
+Civil seizure.—
+
+In general.—
+
+Application
+
+Requirements for issuing order
+
+(aa) the information is a trade secret; and
+
+(bb) the person against whom seizure would be ordered— (AA) misappropriated the trade secret of the applicant by improper means; or (BB) conspired to use improper means to misappropriate the trade secret of the applicant;
+
+(aa) the trade secret; and
+
+(bb) any property to be seized;
+
+Elements of order
+
+Protection from publicity
+
+Materials in custody of court.—
+
+In general
+
+Storage medium
+
+Protection of confidentiality
+
+Appointment of special master
+
+Service of order
+
+Seizure hearing.—
+
+Date
+
+Burden of proof
+
+Dissolution or modification of order
+
+Discovery time limits
+
+Action for damage caused by wrongful seizure
+
+Motion for encryption
+
+Remedies
+
+Jurisdiction
+
+Period of Limitations
+
+## Source Credit
+
+*(Added [Pub. L. 104–294, title I, § 101(a)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3490](https://www.govinfo.gov/link/statute/110/3490); amended [Pub. L. 107–273, div. B, title IV, § 4002(e)(9)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1810](https://www.govinfo.gov/link/statute/116/1810); [Pub. L. 114–153, § 2(a)](https://www.govinfo.gov/link/plaw/114/public/153), (d)(1), May 11, 2016, [130 Stat. 376](https://www.govinfo.gov/link/statute/130/376), 381.)*

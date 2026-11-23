@@ -3,9 +3,10 @@ title: "Section 5607a - Environmental Dispute Resolution Fund"
 usc_title: 20
 usc_section: "5607a"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 5607a"
-generated_at: "2026-03-30T02:54:48.188Z"
+generated_at: "2026-11-23T21:25:47.470Z"
+status: "active"
 ---
 
 # § 5607a. Environmental Dispute Resolution Fund
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:48.188Z"
     - **(B)** by purchase of outstanding obligations at the market price.
   - **(4)** Any obligation acquired by the Fund may be sold by the Secretary of the Treasury at the market price.
   - **(5)** The interest on, and the proceeds from the sale or redemption of, any obligations held in the Fund shall be credited to and form a part of the Fund.
+
+## Source Credit
+
+*([Pub. L. 102–259, § 10](https://www.govinfo.gov/link/plaw/102/public/259), as added [Pub. L. 105–156, § 6(b)](https://www.govinfo.gov/link/plaw/105/public/156), Feb. 11, 1998, [112 Stat. 10](https://www.govinfo.gov/link/statute/112/10); amended [Pub. L. 105–277, div. A, § 101(h) [title V, § 517(c)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–480](https://www.govinfo.gov/link/statute/112/2681), 2681–512; [Pub. L. 116–94, div. P, title III, § 306](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3190](https://www.govinfo.gov/link/statute/133/3190).)*

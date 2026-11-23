@@ -3,9 +3,10 @@ title: "Section 1829 - Penalty for unauthorized participation by convicted indiv
 usc_title: 12
 usc_section: "1829"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1829"
-generated_at: "2026-03-30T02:53:53.456Z"
+generated_at: "2026-11-23T21:25:37.010Z"
+status: "active"
 ---
 
 # § 1829. Penalty for unauthorized participation by convicted individual
@@ -89,3 +90,7 @@ generated_at: "2026-03-30T02:53:53.456Z"
       - **(i)** a misdemeanor criminal offense committed more than one year before the date on which an individual files a consent application, excluding any period of incarceration; or
       - **(ii)** an offense involving the possession of controlled substances.
   - **(3)** The term “pretrial diversion or similar program” means a program characterized by a suspension or eventual dismissal or reversal of charges or criminal prosecution upon agreement by the accused to restitution, drug or alcohol rehabilitation, anger management, or community service.
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [19], [64 Stat. 893](https://www.govinfo.gov/link/statute/64/893); [Pub. L. 101–73, title IX, § 910(a)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 477](https://www.govinfo.gov/link/statute/103/477); [Pub. L. 101–647, title XXV, § 2502(a)](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4860](https://www.govinfo.gov/link/statute/104/4860); [Pub. L. 102–550, title XV, § 1505](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4055](https://www.govinfo.gov/link/statute/106/4055); [Pub. L. 103–322, title XXXII, § 320605](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2119](https://www.govinfo.gov/link/statute/108/2119); [Pub. L. 109–351, title VII, § 710(a)](https://www.govinfo.gov/link/plaw/109/public/351), Oct. 13, 2006, [120 Stat. 1990](https://www.govinfo.gov/link/statute/120/1990); [Pub. L. 111–203, title III, § 363(8)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1554](https://www.govinfo.gov/link/statute/124/1554); [Pub. L. 117–263, div. E, title LVII, § 5705(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3411](https://www.govinfo.gov/link/statute/136/3411).)*

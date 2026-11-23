@@ -3,9 +3,10 @@ title: "Section 2006 - Relationship between the Treasury and the Postal Service"
 usc_title: 39
 usc_section: "2006"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 2006"
-generated_at: "2026-03-30T02:55:43.690Z"
+generated_at: "2026-11-23T21:26:12.775Z"
+status: "active"
 ---
 
 # § 2006. Relationship between the Treasury and the Postal Service
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:43.690Z"
 - **(c)** Notwithstanding section 2005(d)(5) or 2011(e)(4)(E) of this title, obligations issued by the Postal Service shall be obligations of the Government of the United States, and payment of principal and interest thereon shall be fully guaranteed by the Government of the United States, such guaranty being expressed on the face thereof, if and to the extent that—
   - **(1)** the Postal Service requests the Secretary of the Treasury to pledge the full faith and credit of the Government of the United States for the payment of principal and interest thereon; and
   - **(2)** the Secretary, in his discretion, determines that it would be in the public interest to do so.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 741](https://www.govinfo.gov/link/statute/84/741); [Pub. L. 109–435, title IV, § 401(b)(4)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3225](https://www.govinfo.gov/link/statute/120/3225).)*

@@ -3,9 +3,10 @@ title: "Section 6154 - Reporting requirements"
 usc_title: 15
 usc_section: "6154"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6154"
-generated_at: "2026-03-30T02:54:08.209Z"
+generated_at: "2026-11-23T21:25:40.019Z"
+status: "active"
 ---
 
 # § 6154. Reporting requirements
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:08.209Z"
   - **(1)** the effectiveness of do-not-call outreach and enforcement efforts with regard to senior citizens and immigrant communities;
   - **(2)** the impact of the exceptions to the do-not-call registry on businesses and consumers, including an analysis of the effectiveness of the registry and consumer perceptions of the registry’s effectiveness; and
   - **(3)** the impact of abandoned calls made by predictive dialing devices on do-not-call enforcement.
+
+## Source Credit
+
+*([Pub. L. 108–10, § 4](https://www.govinfo.gov/link/plaw/108/public/10), Mar. 11, 2003, [117 Stat. 557](https://www.govinfo.gov/link/statute/117/557); [Pub. L. 110–188, § 3](https://www.govinfo.gov/link/plaw/110/public/188), Feb. 15, 2008, [122 Stat. 637](https://www.govinfo.gov/link/statute/122/637).)*

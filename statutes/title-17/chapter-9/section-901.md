@@ -3,9 +3,10 @@ title: "Section 901 - Definitions"
 usc_title: 17
 usc_section: "901"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 901"
-generated_at: "2026-03-30T02:54:15.355Z"
+generated_at: "2026-11-23T21:25:41.729Z"
+status: "active"
 ---
 
 # § 901. Definitions
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:15.355Z"
   - **(8)** having “notice of protection” means having actual knowledge that, or reasonable grounds to believe that, a mask work is protected under this chapter; and
   - **(9)** an “infringing semiconductor chip product” is a semiconductor chip product which is made, imported, or distributed in violation of the exclusive rights of the owner of a mask work under this chapter.
 - **(b)** For purposes of this chapter, the distribution or importation of a product incorporating a semiconductor chip product as a part thereof is a distribution or importation of that semiconductor chip product.
+
+## Source Credit
+
+*(Added [Pub. L. 98–620, title III, § 302](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3347](https://www.govinfo.gov/link/statute/98/3347).)*

@@ -3,9 +3,10 @@ title: "Section 2120a - Special selection review boards"
 usc_title: 14
 usc_section: "2120a"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 2120a"
-generated_at: "2026-03-30T02:53:51.497Z"
+generated_at: "2026-11-23T21:25:35.415Z"
+status: "active"
 ---
 
 # § 2120a. Special selection review boards
@@ -53,3 +54,23 @@ generated_at: "2026-03-30T02:53:51.497Z"
   - **(2)** A person who is appointed to the next higher grade as described in paragraph (1) shall, upon that appointment, have the same date of rank, the same effective date for the pay and allowances of that grade, and the same position on the active-duty list as the person would have had pursuant to the original recommendation for promotion of the promotion board concerned.
 - **(g)** The Secretary shall prescribe regulations to carry out this section.
 - **(h)** In this section, the term “promotion board” means a selection board convened by the Secretary under section 2106 of this title .
+
+In General
+
+Convening
+
+Information Considered
+
+Consideration
+
+Reports
+
+Appointment of Persons
+
+Regulations
+
+Promotion Board Defined
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. K, title CXII, § 11245(b)(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4043](https://www.govinfo.gov/link/statute/136/4043).)*

@@ -3,9 +3,10 @@ title: "Section 1605A - Terrorism exception to the jurisdictional immunity of a 
 usc_title: 28
 usc_section: "1605A"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1605A"
-generated_at: "2026-03-30T02:55:30.141Z"
+generated_at: "2026-11-23T21:26:01.095Z"
+status: "active"
 ---
 
 # § 1605A. Terrorism exception to the jurisdictional immunity of a foreign state
@@ -51,3 +52,157 @@ generated_at: "2026-03-30T02:55:30.141Z"
   - **(5)** the term “national of the United States” has the meaning given that term in section 101(a)(22) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(22) );
   - **(6)** the term “state sponsor of terrorism” means a country the government of which the Secretary of State has determined, for purposes of section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)), 1 section 620A of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2371 ), section 40 of the Arms Export Control Act ( 22 U.S.C. 2780 ), or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism; and
   - **(7)** the terms “torture” and “extrajudicial killing” have the meaning given those terms in section 3 of the Torture Victim Protection Act of 1991 ( 28 U.S.C. 1350 note).
+
+In General.—
+
+No immunity
+
+Claim heard
+
+Limitations
+
+Private Right of Action
+
+Additional Damages
+
+Special Masters.—
+
+In general
+
+Transfer of funds
+
+Appeal
+
+Property Disposition.—
+
+In general
+
+Notice
+
+Enforceability
+
+Definitions
+
+In general
+
+Prior actions.—
+
+In general
+
+Defenses waived
+
+Time limitations
+
+Related actions
+
+Preserving the jurisdiction of the courts
+
+Appropriate congressional committees
+
+Claims agreement
+
+Foreign national
+
+Secretary
+
+State sponsor of terrorism
+
+Sudan
+
+Immunity.—
+
+In general
+
+Certification
+
+Scope
+
+Authority of the Secretary
+
+Findings
+
+Sense of Congress
+
+In General
+
+Applicable Law
+
+Rule of Construction
+
+Compensation.—
+
+In general
+
+Payments
+
+Distribution and Requirements.—
+
+Distribution
+
+Authorization letter
+
+Requirement before distribution
+
+Foreign Nationals
+
+Department of State Reporting Requirements.—
+
+Initial report
+
+Updated report
+
+Comptroller General Report
+
+Findings
+
+Amendment to Case-Zablocki Act
+
+Designation of Entity.—
+
+Designation
+
+Authority of the secretary
+
+Immunity.—
+
+Property.—
+
+In general
+
+Property described
+
+Other acts
+
+Nonapplicability of the Government Corporation Control Act
+
+Immunity.—
+
+In general
+
+Certification
+
+Temporal Scope
+
+Authority of the Secretary
+
+Applicability
+
+Temporal scope
+
+Notification to congress
+
+Sense of congress
+
+Section
+
+Sec
+
+Sec
+
+George W. Bush.
+
+George W. Bush.
+
+## Source Credit
+
+*(Added [Pub. L. 110–181, div. A, title X, § 1083(a)(1)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 338](https://www.govinfo.gov/link/statute/122/338).)*

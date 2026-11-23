@@ -3,9 +3,10 @@ title: "Section 2463 - Guidelines and procedures for use of civilian employees t
 usc_title: 10
 usc_section: "2463"
 chapter: 146
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2463"
-generated_at: "2026-03-30T02:53:38.159Z"
+generated_at: "2026-11-23T21:25:32.614Z"
+status: "active"
 ---
 
 # § 2463. Guidelines and procedures for use of civilian employees to perform Department of Defense functions
@@ -44,3 +45,33 @@ generated_at: "2026-03-30T02:53:38.159Z"
   - **(1)** The term “functions closely associated with inherently governmental functions” has the meaning given that term in section 4508(b)(3) of this title .
   - **(2)** The term “acquisition function” has the meaning given that term under section 1721(a) of this title .
   - **(3)** The term “inherently governmental function” has the meaning given that term in the Federal Activities Inventory Reform Act of 1998 ( Public Law 105–270 ; 31 U.S.C. 501 note).
+
+Guidelines Required
+
+Special Consideration for Certain Functions
+
+Exclusion of Certain Functions From Competitions
+
+Use of Flexible Hiring Authority
+
+Determinations Relating to the Conversion of Certain Functions
+
+Notification Relating to the Conversion of Certain Functions
+
+Definitions
+
+Prohibition
+
+Decisions to Insource
+
+Reports.—
+
+Report to congress
+
+Comptroller general review
+
+Construction
+
+## Source Credit
+
+*(Added [Pub. L. 110–181, div. A, title III, § 324(a)(1)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 60](https://www.govinfo.gov/link/statute/122/60); amended [Pub. L. 111–383, div. A, title III, § 353](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4194](https://www.govinfo.gov/link/statute/124/4194); [Pub. L. 112–81, div. A, title IX, § 938](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1547](https://www.govinfo.gov/link/statute/125/1547); [Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4294](https://www.govinfo.gov/link/statute/134/4294).)*

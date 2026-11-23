@@ -3,9 +3,10 @@ title: "Section 332 - Minority Resource Center"
 usc_title: 49
 usc_section: "332"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 332"
-generated_at: "2026-03-30T02:56:19.299Z"
+generated_at: "2026-11-23T21:26:40.593Z"
+status: "active"
 ---
 
 # § 332. Minority Resource Center
@@ -24,3 +25,43 @@ generated_at: "2026-03-30T02:56:19.299Z"
 - **(e)**
   - **(1)** The Secretary, acting through the Minority Resource Center established under subsection (b), shall provide assistance in obtaining bid, payment, and performance bonds by disadvantaged business enterprises pursuant to subsection (b)(4).
   - **(2)** There is authorized to be appropriated such sums as may be necessary for each of fiscal years 2005 through 2009 to carry out activities under this subsection.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 332(a) | 49:1657a(e). | Oct. 15, 1966 , Pub. L. 89–670 , 80 Stat. 931 , § 11; added Feb. 5, 1976 , Pub. L. 94–210, § 906(2) , 90 Stat. 149 . |
+| 332(b) | 49:1657a(a), (c). |  |
+| 332(c) | 49:1657a(b). |  |
+| 332(d) | 49:1657a(d). |  |
+
+
+Bonding Assistance.—
+
+In general
+
+Authorization of appropriation
+
+Historical and Revision Notes
+
+332(a)
+
+Oct. 15, 1966
+
+Pub. L. 89–670
+
+80 Stat. 931
+
+Feb. 5, 1976
+
+Pub. L. 94–210, § 906(2)
+
+90 Stat. 149
+
+332(b)
+
+332(c)
+
+332(d)
+
+## Source Credit
+
+*([Pub. L. 97–449, § 1(b)](https://www.govinfo.gov/link/plaw/97/public/449), Jan. 12, 1983, [96 Stat. 2428](https://www.govinfo.gov/link/statute/96/2428); [Pub. L. 109–59, title I, § 1951](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1514](https://www.govinfo.gov/link/statute/119/1514).)*

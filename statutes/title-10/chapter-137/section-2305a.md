@@ -3,9 +3,10 @@ title: "Section 2305a - Renumbered § 3241]"
 usc_title: 10
 usc_section: "2305a"
 chapter: 137
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2305a"
-generated_at: "2026-03-30T02:53:38.153Z"
+generated_at: "2026-11-23T21:25:32.596Z"
+status: "renumbered"
 ---
 
 # [§ 2305a. Renumbered § 3241]

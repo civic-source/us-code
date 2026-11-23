@@ -3,9 +3,10 @@ title: "Section 3011 - Definitions incorporated from title 41"
 usc_title: 10
 usc_section: "3011"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3011"
-generated_at: "2026-03-30T02:53:38.188Z"
+generated_at: "2026-11-23T21:25:32.711Z"
+status: "active"
 ---
 
 # § 3011. Definitions incorporated from title 41
@@ -25,3 +26,7 @@ In any chapter 137 legacy provision, the following terms have the meanings provi
   - **(11)** The term “nondevelopmental item”.
   - **(12)** The term “commercial component”.
   - **(13)** The term “component”.
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1806(b)(1)](https://www.govinfo.gov/link/plaw/116/public/283), (2), Jan. 1, 2021, [134 Stat. 4153](https://www.govinfo.gov/link/statute/134/4153).)*

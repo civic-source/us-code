@@ -3,9 +3,10 @@ title: "Section 31329 - Court sales of documented vessels"
 usc_title: 46
 usc_section: "31329"
 chapter: 313
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 31329"
-generated_at: "2026-03-30T02:56:15.563Z"
+generated_at: "2026-11-23T21:26:37.176Z"
+status: "active"
 ---
 
 # § 31329. Court sales of documented vessels
@@ -21,3 +22,16 @@ generated_at: "2026-03-30T02:56:15.563Z"
 - **(d)** The vessel may be operated by the mortgagee not eligible to own a documented vessel only with the approval of the Secretary of Transportation.
 - **(e)** A sale of a vessel contrary to this section is void.
 - **(f)** This section does not apply to a documented vessel that has been operated only for pleasure.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 31329 | 46:961(f) |
+
+
+Historical and Revision Notes
+
+31329
+
+## Source Credit
+
+*([Pub. L. 100–710, title I, § 102(c)](https://www.govinfo.gov/link/plaw/100/public/710), Nov. 23, 1988, [102 Stat. 4747](https://www.govinfo.gov/link/statute/102/4747); [Pub. L. 104–324, title XI, § 1118](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3973](https://www.govinfo.gov/link/statute/110/3973); [Pub. L. 109–304, § 15(32)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1704](https://www.govinfo.gov/link/statute/120/1704); [Pub. L. 111–281, title IX, § 913(c)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 3017](https://www.govinfo.gov/link/statute/124/3017).)*

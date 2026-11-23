@@ -3,9 +3,10 @@ title: "Section 6 - Federal broadband program coordination"
 usc_title: 7
 usc_section: "6"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6"
-generated_at: "2026-03-30T02:53:42.299Z"
+generated_at: "2026-11-23T21:25:28.015Z"
+status: "active"
 ---
 
 # § 950bb–6. Federal broadband program coordination
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:42.299Z"
   - **(1)** The term “Assistant Secretary” means the Assistant Secretary of Commerce for Communications and Information.
   - **(2)** The term “Commission” means the Federal Communications Commission.
   - **(3)** The term “rural area” has the meaning given the term in section 950bb(b)(3) of this title .
+
+## Source Credit
+
+*([Pub. L. 115–334, title VI, § 6212](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4744](https://www.govinfo.gov/link/statute/132/4744).)*

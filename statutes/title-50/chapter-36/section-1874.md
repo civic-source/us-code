@@ -3,9 +3,10 @@ title: "Section 1874 - Public reporting by persons subject to orders"
 usc_title: 50
 usc_section: "1874"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1874"
-generated_at: "2026-03-30T02:56:26.211Z"
+generated_at: "2026-11-23T21:26:38.943Z"
+status: "active"
 ---
 
 # § 1874. Public reporting by persons subject to orders
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:56:26.211Z"
 - **(d)** In this section:
   - **(1)** The term “contents” has the meaning given that term under section 2510 of title 18 .
   - **(2)** The term “national security letter” has the meaning given that term under section 1873 of this title .
+
+## Source Credit
+
+*([Pub. L. 95–511, title VI, § 604](https://www.govinfo.gov/link/plaw/95/public/511), as added [Pub. L. 114–23, title VI, § 603(a)](https://www.govinfo.gov/link/plaw/114/public/23), June 2, 2015, [129 Stat. 295](https://www.govinfo.gov/link/statute/129/295); amended [Pub. L. 115–118, title II, § 205(a)(4)](https://www.govinfo.gov/link/plaw/115/public/118), Jan. 19, 2018, [132 Stat. 21](https://www.govinfo.gov/link/statute/132/21).)*

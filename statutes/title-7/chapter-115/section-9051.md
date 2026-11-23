@@ -3,9 +3,10 @@ title: "Section 9051 - Definitions"
 usc_title: 7
 usc_section: "9051"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 9051"
-generated_at: "2026-03-30T02:53:42.486Z"
+generated_at: "2026-11-23T21:25:28.493Z"
+status: "active"
 ---
 
 # § 9051. Definitions
@@ -29,3 +30,7 @@ In this part:
   - **(8)** The term “production history” means the production history determined for a participating dairy operation under subsection (a) or (b) of section 9055 of this title .
   - **(9)** The term “Secretary” means the Secretary of Agriculture.
   - **(10)** The term “United States”, in a geographical sense, means the 50 States, the District of Columbia, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, and any other territory or possession of the United States.
+
+## Source Credit
+
+*([Pub. L. 113–79, title I, § 1401](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 688](https://www.govinfo.gov/link/statute/128/688); [Pub. L. 115–123, div. F, § 60101(b)(1)(A)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 311](https://www.govinfo.gov/link/statute/132/311); [Pub. L. 115–334, title I](https://www.govinfo.gov/link/plaw/115/public/334), §§ 1401(k)(2), 1404(b)(2), Dec. 20, 2018, [132 Stat. 4516](https://www.govinfo.gov/link/statute/132/4516), 4521; [Pub. L. 119–21, title I, § 10313(a)(1)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 99](https://www.govinfo.gov/link/statute/139/99).)*

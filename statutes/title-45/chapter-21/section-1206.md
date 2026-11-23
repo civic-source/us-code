@@ -3,9 +3,10 @@ title: "Section 1206 - Employees of Alaska Railroad"
 usc_title: 45
 usc_section: "1206"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 1206"
-generated_at: "2026-03-30T02:55:56.560Z"
+generated_at: "2026-11-23T21:26:19.240Z"
+status: "active"
 ---
 
 # § 1206. Employees of Alaska Railroad
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:56.560Z"
       - **(ii)** was enrolled in a health benefits plan pursuant to chapter 89 of title 5 on January 4, 1985 , for the purpose of enrolling in a health benefits plan under the provisions of paragraph (1).
   - **(3)** For purposes of this section, any person described under the provisions of paragraph (2) shall be deemed to have been covered under a life insurance policy under chapter 87 of title 5 and to have been enrolled in a health benefits plan under chapter 89 of title 5 during the period beginning on January 5, 1985 , through the date of retirement of any such person.
   - **(4)** The provisions of paragraph (1) shall not apply to any person described under paragraph (2) until the date such person retires from the State-owned railroad.
+
+## Source Credit
+
+*([Pub. L. 97–468, title VI, § 607](https://www.govinfo.gov/link/plaw/97/public/468), Jan. 14, 1983, [96 Stat. 2571](https://www.govinfo.gov/link/statute/96/2571); [Pub. L. 100–238, title I, § 136(a)](https://www.govinfo.gov/link/plaw/100/public/238), Jan. 8, 1988, [101 Stat. 1766](https://www.govinfo.gov/link/statute/101/1766); [Pub. L. 103–226, § 10](https://www.govinfo.gov/link/plaw/103/public/226), Mar. 30, 1994, [108 Stat. 122](https://www.govinfo.gov/link/statute/108/122).)*

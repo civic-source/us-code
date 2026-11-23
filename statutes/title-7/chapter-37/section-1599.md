@@ -3,9 +3,10 @@ title: "Section 1599 - Cease and desist proceedings"
 usc_title: 7
 usc_section: "1599"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1599"
-generated_at: "2026-03-30T02:53:42.328Z"
+generated_at: "2026-11-23T21:25:28.125Z"
+status: "active"
 ---
 
 # § 1599. Cease and desist proceedings
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:42.328Z"
 - **(b)** If, after such hearing, the Secretary of Agriculture finds that the person has violated or is violating any provisions of the chapter or rules and regulations covered by the charges, he shall make a report in writing in which he shall state his findings as to the facts, and shall issue and cause to be served on the person an order requiring such person to cease and desist from continuing such violation. The testimony taken at the hearing shall be reduced to writing and filed in the records of the Department of Agriculture.
 - **(c)** Until the record in such hearing has been filed in a court of appeals as provided in section 1600 of this title , the Secretary of Agriculture at any time, upon such notice and in such manner as he deems proper, but only after reasonable opportunity to the person to be heard, may amend or set aside the report or order, in whole or in part.
 - **(d)** Complaints, orders, and other processes of the Secretary of Agriculture under this section may be served by anyone duly authorized by the Secretary of Agriculture, either (1) by delivering a copy thereof to the person to be served, or to a member of the partnership to be served, or to the president, secretary, or other executive officer or a director of the corporation to be served; or (2) by leaving a copy thereof at the principal office or place of business of such person, partnership, or corporation; or (3) by mailing a copy thereof by registered mail or by certified mail addressed to such person, partnership, or corporation at his or its last known principal office or place of business. The verified return by the person so serving said complaint, order, or other process setting forth the manner of said order shall be proof of the same, and the return postoffice receipt for said complaint, order, or other process mailed by registered mail or by certified mail as aforesaid shall be proof of the service of the same.
+
+## Source Credit
+
+*(Aug. 9, 1939, ch. 615, title IV, § 409, [53 Stat. 1287](https://www.govinfo.gov/link/statute/53/1287); June 25, 1948, ch. 646, § 32(a), [62 Stat. 991](https://www.govinfo.gov/link/statute/62/991); May 24, 1949, ch. 139, § 127, [63 Stat. 107](https://www.govinfo.gov/link/statute/63/107); [Pub. L. 85–791, § 24(a)](https://www.govinfo.gov/link/plaw/85/public/791), Aug. 28, 1958, [72 Stat. 949](https://www.govinfo.gov/link/statute/72/949); [Pub. L. 86–507, § 1(7)](https://www.govinfo.gov/link/plaw/86/public/507), June 11, 1960, [74 Stat. 200](https://www.govinfo.gov/link/statute/74/200).)*

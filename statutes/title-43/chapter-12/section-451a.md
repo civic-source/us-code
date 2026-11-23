@@ -3,9 +3,10 @@ title: "Section 451a - Persons eligible for benefits"
 usc_title: 43
 usc_section: "451a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 451a"
-generated_at: "2026-03-30T02:55:57.450Z"
+generated_at: "2026-11-23T21:26:19.781Z"
+status: "active"
 ---
 
 # § 451a. Persons eligible for benefits
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:57.450Z"
       - **(ii)** who lawfully acquired his lands as an entire farm unit under the Federal reclamation laws from the United States or, in the case of a widow, widower, heir, or devisee, from a spouse or ancestor, as the case may be, who so acquired them, and
       - **(iii)** who conveys, free from all encumbrances, to the United States all of his lands served by the project or such portion thereof as the Secretary may designate.
 
+
+## Source Credit
+
+*(Aug. 13, 1953, ch. 428, § 2, [67 Stat. 566](https://www.govinfo.gov/link/statute/67/566).)*

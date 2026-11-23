@@ -3,9 +3,10 @@ title: "Section 2905 - Certification of organizations to nominate"
 usc_title: 7
 usc_section: "2905"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2905"
-generated_at: "2026-03-30T02:53:42.392Z"
+generated_at: "2026-11-23T21:25:28.308Z"
+status: "active"
 ---
 
 # § 2905. Certification of organizations to nominate
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.392Z"
   - **(4)** A primary or overriding purpose of the association or organization is to promote the economic welfare of cattle producers.
 - **(c)** Certification of State cattle associations and State general farm organizations shall be based on a factual report submitted by the association or organization involved.
 - **(d)** If more than one State organization is certified in a State (or in a unit referred to in section 2904(1) of this title ), such organizations may caucus to determine any of such State’s (or such unit’s) nominations under section 2904(1) of this title .
+
+## Source Credit
+
+*([Pub. L. 94–294, § 6](https://www.govinfo.gov/link/plaw/94/public/294), May 28, 1976, [90 Stat. 531](https://www.govinfo.gov/link/statute/90/531); [Pub. L. 99–198, title XVI, § 1601(b)](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1603](https://www.govinfo.gov/link/statute/99/1603).)*

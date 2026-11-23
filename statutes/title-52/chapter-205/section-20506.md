@@ -3,9 +3,10 @@ title: "Section 20506 - Voter registration agencies"
 usc_title: 52
 usc_section: "20506"
 chapter: 205
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 20506"
-generated_at: "2026-03-30T02:56:30.164Z"
+generated_at: "2026-11-23T21:26:42.328Z"
+status: "active"
 ---
 
 # § 20506. Voter registration agencies
@@ -53,3 +54,13 @@ generated_at: "2026-03-30T02:56:30.164Z"
 - **(d)**
   - **(1)** Subject to paragraph (2), a completed registration application accepted at a voter registration agency shall be transmitted to the appropriate State election official not later than 10 days after the date of acceptance.
   - **(2)** If a registration application is accepted within 5 days before the last day for registration to vote in an election, the application shall be transmitted to the appropriate State election official not later than 5 days after the date of acceptance.
+
+Section
+
+Sec
+
+Sec
+
+## Source Credit
+
+*([Pub. L. 103–31, § 7](https://www.govinfo.gov/link/plaw/103/public/31), May 20, 1993, [107 Stat. 80](https://www.govinfo.gov/link/statute/107/80).)*

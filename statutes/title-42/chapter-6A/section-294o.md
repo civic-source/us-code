@@ -3,9 +3,10 @@ title: "Section 294o - Advisory Council on Graduate Medical Education"
 usc_title: 42
 usc_section: "294o"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 294o"
-generated_at: "2026-03-30T02:56:10.779Z"
+generated_at: "2026-11-23T21:26:30.643Z"
+status: "active"
 ---
 
 # § 294o. Advisory Council on Graduate Medical Education
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:56:10.779Z"
   - **(2)** The Council shall coordinate its activities with the activities of the Secretary under section 295k of this title . The Secretary shall, in cooperation with the Council and pursuant to the recommendations of the Council, take such steps as are practicable to eliminate deficiencies in the data base established under section 295k of this title and shall make available in its reports such comprehensive data sets as are developed pursuant to this section.
 - **(i)** Not later than September 30, 2023 , and not less than every 5 years thereafter, the Council shall submit to the Secretary, and to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report on the recommendations described in subsection (a).
 - **(j)** Amounts otherwise appropriated under this subchapter may be utilized by the Secretary to support the activities of the Council.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 762, formerly [Pub. L. 102–408, title III, § 301](https://www.govinfo.gov/link/plaw/102/public/408), Oct. 13, 1992, [106 Stat. 2080](https://www.govinfo.gov/link/statute/106/2080), as amended [Pub. L. 102–531, title III, § 313(b)](https://www.govinfo.gov/link/plaw/102/public/531), Oct. 27, 1992, [106 Stat. 3507](https://www.govinfo.gov/link/statute/106/3507); renumbered § 762 of act July 1, 1944, and amended [Pub. L. 105–392, title I, § 104(b)](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3552](https://www.govinfo.gov/link/statute/112/3552); [Pub. L. 107–251, title V, § 502](https://www.govinfo.gov/link/plaw/107/public/251), Oct. 26, 2002, [116 Stat. 1664](https://www.govinfo.gov/link/statute/116/1664); [Pub. L. 111–148, title V, § 5103(d)(3)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 606](https://www.govinfo.gov/link/statute/124/606); [Pub. L. 116–136, div. A, title III, § 3401(10)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 386](https://www.govinfo.gov/link/statute/134/386).)*

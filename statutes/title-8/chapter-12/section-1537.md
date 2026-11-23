@@ -3,9 +3,10 @@ title: "Section 1537 - Custody and release after removal hearing"
 usc_title: 8
 usc_section: "1537"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1537"
-generated_at: "2026-03-30T02:53:10.505Z"
+generated_at: "2026-11-23T21:25:25.207Z"
+status: "active"
 ---
 
 # § 1537. Custody and release after removal hearing
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:10.505Z"
 - **(e)**
   - **(1)** An alien in the custody of the Attorney General pursuant to this subchapter shall be given reasonable opportunity, as determined by the Attorney General, to communicate with and receive visits from members of the alien’s family, and to contact, retain, and communicate with an attorney.
   - **(2)** An alien in the custody of the Attorney General pursuant to this subchapter shall have the right to contact an appropriate diplomatic or consular official of the alien’s country of citizenship or nationality or of any country providing representation services therefore. The Attorney General shall notify the appropriate embassy, mission, or consular office of the alien’s detention.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title V, § 507, as added [Pub. L. 104–132, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1266](https://www.govinfo.gov/link/statute/110/1266); amended [Pub. L. 104–208, div. C, title III, § 308(d)(4)(Q)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–619](https://www.govinfo.gov/link/statute/110/3009).)*

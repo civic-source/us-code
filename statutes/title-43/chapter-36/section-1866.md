@@ -3,12 +3,17 @@ title: "Section 1866 - Relationship to existing law"
 usc_title: 43
 usc_section: "1866"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1866"
-generated_at: "2026-03-30T02:55:57.494Z"
+generated_at: "2026-11-23T21:26:19.888Z"
+status: "active"
 ---
 
 # § 1866. Relationship to existing law
 
 - **(a)** Except as otherwise expressly provided in this chapter, nothing in this chapter shall be construed to amend, modify, or repeal any provision of the Coastal Zone Management Act of 1972 [ 16 U.S.C. 1451 et seq.], the National Environmental Policy Act of 1969 [ 42 U.S.C. 4321 et seq.], the Mining and Mineral Policy Act of 1970 [ 30 U.S.C. 21a ], or any other Act.
 - **(b)** Nothing in this chapter or any amendment made by this Act to the Outer Continental Shelf Lands Act ( 43 U.S.C. 1331 et seq.) or any other Act shall be construed to affect or modify the provisions of the Department of Energy Organization Act ( 42 U.S.C. 7101 et seq.) which provide for the transferring and vesting of functions to and in the Secretary of Energy or any component of the Department of Energy.
+
+## Source Credit
+
+*([Pub. L. 95–372, title VI, § 608](https://www.govinfo.gov/link/plaw/95/public/372), Sept. 18, 1978, [92 Stat. 698](https://www.govinfo.gov/link/statute/92/698).)*

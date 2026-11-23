@@ -3,9 +3,10 @@ title: "Section 908 - Limitations on use of assistance"
 usc_title: 7
 usc_section: "908"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 908"
-generated_at: "2026-03-30T02:53:42.295Z"
+generated_at: "2026-11-23T21:25:27.997Z"
+status: "active"
 ---
 
 # § 908. Limitations on use of assistance
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:42.295Z"
 - **(b)** A recipient who sets aside funds under subsection (a) of this section may use the funds only in an area that is not being provided with the minimum acceptable level of broadband service established under section 950bb(e) of this title , unless the recipient meets the requirements of section 950bb(d) of this title .
 - **(c)** Nothing in this section shall be construed to limit the ability of any borrower to finance or deploy services authorized under this chapter.
 - **(d)** The Secretary shall not provide funding under subsection (a) if the funding would result in competitive harm to any grant, loan, or loan guarantee referred to in subsection (a).
+
+## Source Credit
+
+*(May 20, 1936, ch. 432, title I, § 8, as added [Pub. L. 115–334, title VI, § 6210(b)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4744](https://www.govinfo.gov/link/statute/132/4744).)*

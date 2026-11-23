@@ -3,9 +3,10 @@ title: "Section 190 - Transfer of Plum Island Animal Disease Center, Department 
 usc_title: 6
 usc_section: "190"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 190"
-generated_at: "2026-03-30T02:53:09.448Z"
+generated_at: "2026-11-23T21:25:25.759Z"
+status: "active"
 ---
 
 # § 190. Transfer of Plum Island Animal Disease Center, Department of Agriculture
@@ -16,3 +17,9 @@ generated_at: "2026-03-30T02:53:09.448Z"
 - **(d)**
   - **(1)** At least 180 days before any change in the biosafety level at the Plum Island Animal Disease Center, the President shall notify Congress of the change and describe the reasons for the change.
   - **(2)** No change described in paragraph (1) may be made earlier than 180 days after the completion of the transition period (as defined in section 541 of this title ).
+
+“The Administrator of General Services shall ensure that—
+
+## Source Credit
+
+*([Pub. L. 107–296, title III, § 310](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2174](https://www.govinfo.gov/link/statute/116/2174).)*

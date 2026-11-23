@@ -3,9 +3,10 @@ title: "Section 1002 - Incorporation of copying controls"
 usc_title: 17
 usc_section: "1002"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 1002"
-generated_at: "2026-03-30T02:54:15.356Z"
+generated_at: "2026-11-23T21:25:41.732Z"
+status: "active"
 ---
 
 # § 1002. Incorporation of copying controls
@@ -20,3 +21,21 @@ generated_at: "2026-03-30T02:54:15.356Z"
   - **(1)** No person shall encode a digital musical recording of a sound recording with inaccurate information relating to the category code, copyright status, or generation status of the source material for the recording.
   - **(2)** Nothing in this chapter requires any person engaged in the importation or manufacture of digital musical recordings to encode any such digital musical recording with respect to its copyright status.
 - **(e)** Any person who transmits or otherwise communicates to the public any sound recording in digital format is not required under this chapter to transmit or otherwise communicate the information relating to the copyright status of the sound recording. Any such person who does transmit or otherwise communicate such copyright status information shall transmit or communicate such information accurately.
+
+Prohibition on Importation, Manufacture, and Distribution
+
+Development of Verification Procedure
+
+Prohibition on Circumvention of the System
+
+Encoding of Information on Digital Musical Recordings.—
+
+Prohibition on encoding inaccurate information
+
+Encoding of copyright status not required
+
+Information Accompanying Transmissions in Digital Format
+
+## Source Credit
+
+*(Added [Pub. L. 102–563, § 2](https://www.govinfo.gov/link/plaw/102/public/563), Oct. 28, 1992, [106 Stat. 4240](https://www.govinfo.gov/link/statute/106/4240).)*

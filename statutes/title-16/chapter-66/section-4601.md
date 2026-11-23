@@ -3,9 +3,10 @@ title: "Section 4601 - Establishment of Take Pride in America Program"
 usc_title: 16
 usc_section: "4601"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4601"
-generated_at: "2026-03-30T02:54:23.044Z"
+generated_at: "2026-11-23T21:25:52.019Z"
+status: "active"
 ---
 
 # § 4601. Establishment of Take Pride in America Program
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:23.044Z"
     - **(B)** to encourage an attitude of stewardship and responsibility toward these lands, facilities, and resources; and
     - **(C)** to promote participation by individuals, organizations, and communities of a conservation ethic in caring for these lands, facilities, and resources.
   - **(2)** To conduct a national awards program to honor those individuals and entities which, in the opinion of the Secretary of the Interior (hereafter in this chapter referred to as the “Secretary”), have distinguished themselves in the activities described in paragraph (1) of this subsection.
+
+## Source Credit
+
+*([Pub. L. 101–628, title XI, § 1102](https://www.govinfo.gov/link/plaw/101/public/628), Nov. 28, 1990, [104 Stat. 4502](https://www.govinfo.gov/link/statute/104/4502).)*

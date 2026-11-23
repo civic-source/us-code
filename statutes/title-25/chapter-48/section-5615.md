@@ -3,9 +3,10 @@ title: "Section 5615 - Effect of subchapter"
 usc_title: 25
 usc_section: "5615"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5615"
-generated_at: "2026-03-30T02:54:52.873Z"
+generated_at: "2026-11-23T21:25:54.738Z"
+status: "active"
 ---
 
 # § 5615. Effect of subchapter
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:52.873Z"
   - **(2)** Nothing in this subchapter limits or otherwise affects the authority of an Indian tribe, including an Indian tribe participating in the project, to enter into and carry out a contract, compact, or other agreement under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.) 1 1 See References in Text note below. (including regulations).
 - **(e)** An Indian tribe may submit to the Secretary tribal regulations described in section 5614(b) of this title governing forest land management activities for review and approval under this subchapter if the Indian tribe does not submit or intend to submit an Indian trust asset management plan.
 - **(f)** Nothing in this subchapter enhances, diminishes, or otherwise affects the trust responsibility of the United States to Indian tribes or individual Indians.
+
+## Source Credit
+
+*([Pub. L. 114–178, title II, § 206](https://www.govinfo.gov/link/plaw/114/public/178), June 22, 2016, [130 Stat. 439](https://www.govinfo.gov/link/statute/130/439).)*

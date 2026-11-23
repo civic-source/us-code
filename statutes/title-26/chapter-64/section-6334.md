@@ -3,9 +3,10 @@ title: "Section 6334 - Property exempt from levy"
 usc_title: 26
 usc_section: "6334"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6334"
-generated_at: "2026-03-30T02:55:27.850Z"
+generated_at: "2026-11-23T21:26:06.852Z"
+status: "active"
 ---
 
 # § 6334. Property exempt from levy
@@ -66,3 +67,11 @@ generated_at: "2026-03-30T02:55:27.850Z"
     - **(A)** such dollar amount, multiplied by
     - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, by substituting “calendar year 1998” for “calendar year 2016” in subparagraph (A)(ii) thereof.
   - **(2)** If any dollar amount after being increased under paragraph (1) is not a multiple of $10, such dollar amount shall be rounded to the nearest multiple of $10.
+
+In general
+
+Construction
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 784; [Pub. L. 85–840, title IV, § 406](https://www.govinfo.gov/link/plaw/85/public/840), Aug. 28, 1958, [72 Stat. 1047](https://www.govinfo.gov/link/statute/72/1047); [Pub. L. 89–44, title VIII, § 812(a)](https://www.govinfo.gov/link/plaw/89/public/44), June 21, 1965, [79 Stat. 170](https://www.govinfo.gov/link/statute/79/170); [Pub. L. 89–719, title I, § 104(c)](https://www.govinfo.gov/link/plaw/89/public/719), Nov. 2, 1966, [80 Stat. 1137](https://www.govinfo.gov/link/statute/80/1137); [Pub. L. 91–172, title IX, § 945(a)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 729](https://www.govinfo.gov/link/statute/83/729); [Pub. L. 94–455, title XII, § 1209(a)](https://www.govinfo.gov/link/plaw/94/public/455) –(c), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1709](https://www.govinfo.gov/link/statute/90/1709), 1710, 1834; [Pub. L. 97–248, title III, § 347(a)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 638](https://www.govinfo.gov/link/statute/96/638); [Pub. L. 98–369, div. B, title VI, § 2661](https://www.govinfo.gov/link/plaw/98/public/369) (o)(5), July 18, 1984, [98 Stat. 1159](https://www.govinfo.gov/link/statute/98/1159); [Pub. L. 99–514, title XV, § 1565(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2763](https://www.govinfo.gov/link/statute/100/2763); [Pub. L. 100–647, title I, § 1015](https://www.govinfo.gov/link/plaw/100/public/647) (o), title VI, § 6236(c), Nov. 10, 1988, [102 Stat. 3572](https://www.govinfo.gov/link/statute/102/3572), 3738; [Pub. L. 102–83, § 5(c)(2)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 104–168, title V, § 502(a)](https://www.govinfo.gov/link/plaw/104/public/168) –(c), July 30, 1996, [110 Stat. 1461](https://www.govinfo.gov/link/statute/110/1461); [Pub. L. 104–193, title I, § 110](https://www.govinfo.gov/link/plaw/104/public/193) (l)(3), formerly § 110(l)(6), Aug. 22, 1996, [110 Stat. 2173](https://www.govinfo.gov/link/statute/110/2173), renumbered and amended [Pub. L. 105–33, title V, § 5514(a)(2)](https://www.govinfo.gov/link/plaw/105/public/33), (3), Aug. 5, 1997, [111 Stat. 620](https://www.govinfo.gov/link/statute/111/620); [Pub. L. 105–34, title III, § 312(d)(1)](https://www.govinfo.gov/link/plaw/105/public/34), title X, § 1025(a), Aug. 5, 1997, [111 Stat. 839](https://www.govinfo.gov/link/statute/111/839), 924; [Pub. L. 105–206, title III](https://www.govinfo.gov/link/plaw/105/public/206), §§ 3431(a)–(c), 3445(a), (b), July 22, 1998, [112 Stat. 758](https://www.govinfo.gov/link/statute/112/758), 762, 763; [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 11002(d)(1)(II), 11041(d), Dec. 22, 2017, [131 Stat. 2060](https://www.govinfo.gov/link/statute/131/2060), 2084; [Pub. L. 115–141, div. U, title IV, § 401(a)(283)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1198](https://www.govinfo.gov/link/statute/132/1198).)*

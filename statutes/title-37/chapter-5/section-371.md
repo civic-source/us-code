@@ -3,9 +3,10 @@ title: "Section 371 - Relationship to other incentives and pays"
 usc_title: 37
 usc_section: "371"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 371"
-generated_at: "2026-03-30T02:55:44.056Z"
+generated_at: "2026-11-23T21:26:14.222Z"
+status: "active"
 ---
 
 # § 371. Relationship to other incentives and pays
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:55:44.056Z"
 - **(c)** The amount of a bonus or incentive pay to which a member is entitled under subchapter II may not be included in computing the amount of—
   - **(1)** any increase in pay authorized by any other provision of this title; or
   - **(2)** any retired pay, retainer pay, separation pay, or disability severance pay.
+
+Treatment
+
+Exception
+
+Relationship to Other Computations
+
+## Source Credit
+
+*(Added [Pub. L. 110–181, div. A, title VI, § 661(a)(2)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 176](https://www.govinfo.gov/link/statute/122/176).)*

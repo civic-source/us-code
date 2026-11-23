@@ -3,9 +3,10 @@ title: "Section 1304 - Forms for registration and fingerprinting"
 usc_title: 8
 usc_section: "1304"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1304"
-generated_at: "2026-03-30T02:53:10.493Z"
+generated_at: "2026-11-23T21:25:25.171Z"
+status: "active"
 ---
 
 # § 1304. Forms for registration and fingerprinting
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:10.493Z"
 - **(d)** Every alien in the United States who has been registered and fingerprinted under the provisions of the Alien Registration Act, 1940, or under the provisions of this chapter shall be issued a certificate of alien registration or an alien registration receipt card in such form and manner and at such time as shall be prescribed under regulations issued by the Attorney General.
 - **(e)** Every alien, eighteen years of age and over, shall at all times carry with him and have in his personal possession any certificate of alien registration or alien registration receipt card issued to him pursuant to subsection (d). Any alien who fails to comply with the provisions of this subsection shall be guilty of a misdemeanor and shall upon conviction for each offense be fined not to exceed $100 or be imprisoned not more than thirty days, or both.
 - **(f)** Notwithstanding any other provision of law, the Attorney General is authorized to require any alien to provide the alien’s social security account number for purposes of inclusion in any record of the alien maintained by the Attorney General or the Service.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 7, § 264, [66 Stat. 224](https://www.govinfo.gov/link/statute/66/224); [Pub. L. 99–653, § 10](https://www.govinfo.gov/link/plaw/99/public/653), Nov. 14, 1986, [100 Stat. 3657](https://www.govinfo.gov/link/statute/100/3657); [Pub. L. 100–525, § 8(i)](https://www.govinfo.gov/link/plaw/100/public/525), Oct. 24, 1988, [102 Stat. 2617](https://www.govinfo.gov/link/statute/102/2617); [Pub. L. 101–649, title V, § 503(b)(2)](https://www.govinfo.gov/link/plaw/101/public/649), Nov. 29, 1990, [104 Stat. 5049](https://www.govinfo.gov/link/statute/104/5049); [Pub. L. 104–208, div. C, title IV, § 415](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–669](https://www.govinfo.gov/link/statute/110/3009).)*

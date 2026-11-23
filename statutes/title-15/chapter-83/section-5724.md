@@ -3,9 +3,10 @@ title: "Section 5724 - Definitions"
 usc_title: 15
 usc_section: "5724"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 5724"
-generated_at: "2026-03-30T02:54:08.208Z"
+generated_at: "2026-11-23T21:25:40.016Z"
+status: "active"
 ---
 
 # § 5724. Definitions
@@ -31,3 +32,7 @@ As used in this subchapter—
   - **(4)** The term “providing carrier” means a local exchange or interexchange common carrier providing telephone services (other than local exchange services) to a vendor for a telephone-billed purchase that is the subject of a billing error complaint.
   - **(5)** The term “vendor” means any person who, through the use of the telephone, offers goods or services for a telephone-billed purchase.
   - **(6)** The term “customer” means any person who acquires or attempts to acquire goods or services in a telephone-billed purchase.
+
+## Source Credit
+
+*([Pub. L. 102–556, title III, § 304](https://www.govinfo.gov/link/plaw/102/public/556), Oct. 28, 1992, [106 Stat. 4193](https://www.govinfo.gov/link/statute/106/4193).)*

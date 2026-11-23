@@ -3,9 +3,10 @@ title: "Section 1571 - Purposes"
 usc_title: 8
 usc_section: "1571"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1571"
-generated_at: "2026-03-30T02:53:10.505Z"
+generated_at: "2026-11-23T21:25:25.208Z"
+status: "active"
 ---
 
 # § 1571. Purposes
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:10.505Z"
   - **(1)** provide the Immigration and Naturalization Service with the mechanisms it needs to eliminate the current backlog in the processing of immigration benefit applications within 1 year after October 17, 2000 , and to maintain the elimination of the backlog in future years; and
   - **(2)** provide for regular congressional oversight of the performance of the Immigration and Naturalization Service in eliminating the backlog and processing delays in immigration benefits adjudications.
 - **(b)** It is the sense of Congress that the processing of an immigration benefit application should be completed not later than 180 days after the initial filing of the application, except that a petition for a nonimmigrant visa under section 1184(c) of this title should be processed not later than 30 days after the filing of the petition.
+
+## Source Credit
+
+*([Pub. L. 106–313, title II, § 202](https://www.govinfo.gov/link/plaw/106/public/313), Oct. 17, 2000, [114 Stat. 1262](https://www.govinfo.gov/link/statute/114/1262).)*

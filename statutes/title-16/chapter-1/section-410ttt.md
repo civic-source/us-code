@@ -3,9 +3,10 @@ title: "Section 410ttt - Harriet Tubman National Historical Park, Auburn, New Yo
 usc_title: 16
 usc_section: "410ttt"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410ttt"
-generated_at: "2026-03-30T02:54:22.783Z"
+generated_at: "2026-11-23T21:25:51.486Z"
+status: "active"
 ---
 
 # § 410ttt. Harriet Tubman National Historical Park, Auburn, New York
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:54:22.783Z"
   - **(2)** The Secretary shall coordinate the preparation and implementation of the management plan with—
     - **(A)** the Harriet Tubman Underground Railroad National Historical Park established by section 410sss of this title ; and
     - **(B)** the National Underground Railroad Network to Freedom.
+
+## Source Credit
+
+*([Pub. L. 113–291, div. B, title XXX, § 3036](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3780](https://www.govinfo.gov/link/statute/128/3780); [Pub. L. 114–289, title VI, § 601(d)](https://www.govinfo.gov/link/plaw/114/public/289), Dec. 16, 2016, [130 Stat. 1491](https://www.govinfo.gov/link/statute/130/1491).)*

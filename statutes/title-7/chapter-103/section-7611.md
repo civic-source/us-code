@@ -3,9 +3,10 @@ title: "Section 7611 - Standards for Federal funding of agricultural research, e
 usc_title: 7
 usc_section: "7611"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7611"
-generated_at: "2026-03-30T02:53:42.458Z"
+generated_at: "2026-11-23T21:25:28.437Z"
+status: "active"
 ---
 
 # § 7611. Standards for Federal funding of agricultural research, extension, and education
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.458Z"
 - **(b)** Subsection (a) applies to—
   - **(1)** research activities conducted by the Agricultural Research Service; and
   - **(2)** research, extension, or education activities administered, on a competitive basis, by the National Institute of Food and Agriculture.
+
+## Source Credit
+
+*([Pub. L. 105–185, title I, § 101](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 526](https://www.govinfo.gov/link/statute/112/526); [Pub. L. 110–234, title VII, § 7511(c)(29)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1270](https://www.govinfo.gov/link/statute/122/1270); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7511(c)(29), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2031.)*

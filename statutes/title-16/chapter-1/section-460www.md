@@ -3,9 +3,10 @@ title: "Section 460www - Red Cliffs National Conservation Area"
 usc_title: 16
 usc_section: "460www"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 460www"
-generated_at: "2026-03-30T02:54:22.848Z"
+generated_at: "2026-11-23T21:25:51.630Z"
+status: "active"
 ---
 
 # § 460www. Red Cliffs National Conservation Area
@@ -63,3 +64,27 @@ generated_at: "2026-03-30T02:54:22.848Z"
 - **(h)** Nothing in this section prohibits the authorization of the development of utilities within the National Conservation Area if the development is carried out in accordance with—
   - **(1)** each utility development protocol described in the habitat conservation plan; and
   - **(2)** any other applicable law (including regulations).
+
+“In this subtitle [subtitle O (§§ 1971–1983) of title I of Pub. L. 111–11 , enacting this subchapter, subchapter CXXXV of this chapter, and section 346a–6 of this title , amending section 1274 of this title , enacting provisions set out as notes under section 1274 of this title and provisions formerly set out as a note under section 766 of Title 25 , Indians, and enacting provisions listed in a table of Wilderness Areas set out under section 1132 of this title ]:
+
+Beaver dam wash national conservation area map
+
+Canaan mountain wilderness map
+
+County
+
+Northeastern washington county wilderness map
+
+Northwestern washington county wilderness map
+
+Red cliffs national conservation area map
+
+Secretary
+
+State
+
+Washington county growth and conservation act map
+
+## Source Credit
+
+*([Pub. L. 111–11, title I, § 1974](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1081](https://www.govinfo.gov/link/statute/123/1081).)*

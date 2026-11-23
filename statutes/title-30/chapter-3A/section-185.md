@@ -3,9 +3,10 @@ title: "Section 185 - Rights-of-way for pipelines through Federal lands"
 usc_title: 30
 usc_section: "185"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 185"
-generated_at: "2026-03-30T02:55:29.378Z"
+generated_at: "2026-11-23T21:26:00.368Z"
+status: "active"
 ---
 
 # § 185. Rights-of-way for pipelines through Federal lands
@@ -74,3 +75,9 @@ generated_at: "2026-03-30T02:55:29.378Z"
   - **(6)** Any regulation or stipulation promulgated or imposed pursuant to this section shall provide that all owners of any interest in, and all affiliates or subsidiaries of any holder of, a right-of-way or permit shall be liable to the United States in the event that a claim for damage or injury cannot be collected from the holder.
   - **(7)** In any case where liability without fault is imposed pursuant to this subsection and the damages involved were caused by the negligence of a third party, the rules of subrogation shall apply in accordance with the law of the jurisdiction where the damage occurred.
 - **(y)** The grant of a right-of-way or permit pursuant to this section shall grant no immunity from the operation of the Federal antitrust laws.
+
+William J. Clinton.
+
+## Source Credit
+
+*(Feb. 25, 1920, ch. 85, § 28, [41 Stat. 449](https://www.govinfo.gov/link/statute/41/449); Aug. 21, 1935, ch. 599, § 1, [49 Stat. 678](https://www.govinfo.gov/link/statute/49/678); Aug. 12, 1953, ch. 408, [67 Stat. 557](https://www.govinfo.gov/link/statute/67/557); [Pub. L. 93–153, title I, § 101](https://www.govinfo.gov/link/plaw/93/public/153), Nov. 16, 1973, [87 Stat. 576](https://www.govinfo.gov/link/statute/87/576); [Pub. L. 95–91, title III](https://www.govinfo.gov/link/plaw/95/public/91), §§ 301(b), 306, title IV, § 402(a), (b), title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 578](https://www.govinfo.gov/link/statute/91/578), 581, 583, 584, 606, 607; [Pub. L. 99–64, title I, § 123(b)](https://www.govinfo.gov/link/plaw/99/public/64), July 12, 1985, [99 Stat. 156](https://www.govinfo.gov/link/statute/99/156); [Pub. L. 101–475, § 1](https://www.govinfo.gov/link/plaw/101/public/475), Oct. 30, 1990, [104 Stat. 1102](https://www.govinfo.gov/link/statute/104/1102); [Pub. L. 103–437, § 11(a)(1)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4589](https://www.govinfo.gov/link/statute/108/4589); [Pub. L. 104–58, title II, § 201](https://www.govinfo.gov/link/plaw/104/public/58), Nov. 28, 1995, [109 Stat. 560](https://www.govinfo.gov/link/statute/109/560); [Pub. L. 104–66, title I, § 1121(k)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 724](https://www.govinfo.gov/link/statute/109/724).)*

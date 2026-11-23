@@ -3,9 +3,10 @@ title: "Section 823a - Conduit hydroelectric facilities"
 usc_title: 16
 usc_section: "823a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 823a"
-generated_at: "2026-03-30T02:54:22.913Z"
+generated_at: "2026-11-23T21:25:51.759Z"
+status: "active"
 ---
 
 # § 823a. Conduit hydroelectric facilities
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:22.913Z"
   - **(2)** such terms and conditions as the Commission deems appropriate to insure that such facility continues to comply with the provisions of this section and terms and conditions included in any such exemption.
 - **(d)** Any violation of a term or condition of any exemption granted under subsection (b) shall be treated as a violation of a rule or order of the Commission under this chapter.
 - **(e)** The Commission, in addition to the requirements of section 803(e) of this title , shall establish fees which shall be paid by an applicant for a license or exemption for a project that is required to meet terms and conditions set by fish and wildlife agencies under subsection (c). Such fees shall be adequate to reimburse the fish and wildlife agencies referred to in subsection (c) for any reasonable costs incurred in connection with any studies or other reviews carried out by such agencies for purposes of compliance with this section. The fees shall, subject to annual appropriations Acts, be transferred to such agencies by the Commission for use solely for purposes of carrying out such studies and shall remain available until expended.
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. I, § 30, as added [Pub. L. 95–617, title II, § 213](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3148](https://www.govinfo.gov/link/statute/92/3148); amended [Pub. L. 99–495, § 7](https://www.govinfo.gov/link/plaw/99/public/495), Oct. 16, 1986, [100 Stat. 1248](https://www.govinfo.gov/link/statute/100/1248); [Pub. L. 113–23, § 4(a)](https://www.govinfo.gov/link/plaw/113/public/23), Aug. 9, 2013, [127 Stat. 494](https://www.govinfo.gov/link/statute/127/494); [Pub. L. 115–270, title III, § 3002](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3863](https://www.govinfo.gov/link/statute/132/3863).)*

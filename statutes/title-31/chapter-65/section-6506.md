@@ -3,9 +3,10 @@ title: "Section 6506 - Development assistance"
 usc_title: 31
 usc_section: "6506"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 6506"
-generated_at: "2026-03-30T02:55:34.073Z"
+generated_at: "2026-11-23T21:26:10.640Z"
+status: "active"
 ---
 
 # § 6506. Development assistance
@@ -24,3 +25,58 @@ generated_at: "2026-03-30T02:55:34.073Z"
 - **(e)** To the maximum extent practicable, each executive agency carrying out a development assistance program shall consult with and seek advice from all other significantly affected executive agencies in an effort to ensure completely coordinated programs. To the extent possible, systematic planning required by individual United States Government programs (such as highway construction, urban renewal, and open space) shall be coordinated with and, to the extent authorized by law, made part of comprehensive local and areawide development planning.
 - **(f)** When a law of the United States provides that both a special-purpose unit of local government and a unit of general local government are eligible to receive a loan or grant, the head of an executive agency shall make the loan or grant to the unit of general local government instead of the special-purpose unit of local government in the absence of substantial reasons to the contrary.
 - **(g)** The President may designate an executive agency to prescribe regulations to carry out this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 6506(a) | 42:4231(a)(1st, 2d sentences). | Oct. 16, 1968 , Pub. L. 90–577 , §§ 401–403, 82 Stat. 1103 . |
+| 6506(b) | 42:4231(a)(3d–last sentences). |  |
+| 6506(c) | 42:4231(b). |  |
+| 6506(d) | 42:4231(c). |  |
+| 6506(e) | 42:4231(d), (e). |  |
+| 6506(f) | 42:4232. |  |
+| 6506(g) | 42:4233. |  |
+
+
+Historical and Revision Notes
+
+6506(a)
+
+Oct. 16, 1968
+
+Pub. L. 90–577
+
+82 Stat. 1103
+
+6506(b)
+
+6506(c)
+
+6506(d)
+
+6506(e)
+
+6506(f)
+
+6506(g)
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Ronald Reagan.
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1008](https://www.govinfo.gov/link/statute/96/1008).)*

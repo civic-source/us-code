@@ -3,9 +3,10 @@ title: "Section 1833e - Equal opportunity"
 usc_title: 12
 usc_section: "1833e"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1833e"
-generated_at: "2026-03-30T02:53:53.464Z"
+generated_at: "2026-11-23T21:25:37.034Z"
+status: "active"
 ---
 
 # § 1833e. Equal opportunity
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:53.464Z"
   - **(3)** the Federal Housing Finance Board;
   - **(4)** the Federal Home Loan Mortgage Corporation; and
   - **(5)** the Federal National Mortgage Association,
+
+## Source Credit
+
+*([Pub. L. 101–73, title XII, § 1216](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 529](https://www.govinfo.gov/link/statute/103/529); [Pub. L. 102–233, title III, § 302(a)](https://www.govinfo.gov/link/plaw/102/public/233), Dec. 12, 1991, [105 Stat. 1767](https://www.govinfo.gov/link/statute/105/1767); [Pub. L. 110–289, div. A, title II, § 1216(g)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2793](https://www.govinfo.gov/link/statute/122/2793); [Pub. L. 111–203, title III, § 367(9)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1557](https://www.govinfo.gov/link/statute/124/1557).)*

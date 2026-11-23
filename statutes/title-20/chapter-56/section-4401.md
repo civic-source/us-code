@@ -3,9 +3,10 @@ title: "Section 4401 - Findings"
 usc_title: 20
 usc_section: "4401"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 4401"
-generated_at: "2026-03-30T02:54:48.184Z"
+generated_at: "2026-11-23T21:25:47.443Z"
+status: "active"
 ---
 
 # § 4401. Findings
@@ -21,3 +22,7 @@ The Congress finds that—
   - **(7)** in order to coordinate the Federal Government’s effort to preserve, support, revitalize, and disseminate Indian art and culture and Native Hawaiian art and culture, it is desirable to establish—
     - **(A)** a national Institute of American Indian and Alaska Native Culture and Arts Development, and
     - **(B)** a program for Native Hawaiian culture and arts development.
+
+## Source Credit
+
+*([Pub. L. 99–498, title XV, § 1502](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1600](https://www.govinfo.gov/link/statute/100/1600).)*

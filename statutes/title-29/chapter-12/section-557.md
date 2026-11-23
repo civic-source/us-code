@@ -3,12 +3,17 @@ title: "Section 557 - Bureaus and offices in Department"
 usc_title: 29
 usc_section: "557"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 557"
-generated_at: "2026-03-30T02:55:18.686Z"
+generated_at: "2026-11-23T21:26:02.184Z"
+status: "active"
 ---
 
 # § 557. Bureaus and offices in Department
 
 The following-named offices, bureaus, divisions, and branches of the public service, and all that pertains to the same, shall be under the jurisdiction and supervision of the Department of Labor: 1. Bureau of Employees’ Compensation. 2. Bureau of Labor Standards. 3. Bureau of Labor Statistics. 4. Division of Public Contracts. 5. Employees’ Compensation Appeals Board. 6. United States Employment Service. 7. Wage and Hour Division. 8. Women’s Bureau.
 
+
+## Source Credit
+
+*(Mar. 4, 1913, ch. 141, § 3, [37 Stat. 737](https://www.govinfo.gov/link/statute/37/737); June 5, 1920, ch. 248, § 1, [41 Stat. 987](https://www.govinfo.gov/link/statute/41/987); June 6, 1933, ch. 49, § 1, [48 Stat. 113](https://www.govinfo.gov/link/statute/48/113); Ex. Ord. No. 6166, § 14, June 10, 1933; June 30, 1936, ch. 881, § 4, [49 Stat. 2038](https://www.govinfo.gov/link/statute/49/2038); June 25, 1938, ch. 676, § 4, [52 Stat. 1061](https://www.govinfo.gov/link/statute/52/1061); 1939 Reorg. Plan No. I, § 201, eff. July 1, 1939, 4 F.R. 2728, [53 Stat. 1424](https://www.govinfo.gov/link/statute/53/1424); 1940 Reorg. Plan No. V, § 1, eff. June 4, 1940, 5 F.R. 2223, [54 Stat. 1238](https://www.govinfo.gov/link/statute/54/1238); Ex. Ord. No. 9247, Sept. 17, 1942, 7 F.R. 7379; Ex. Ord. No. 9617, Sept. 19, 1945, 10 F.R. 11929; 1946 Reorg. Plan No. 2, § 1, eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095](https://www.govinfo.gov/link/statute/60/1095); June 23, 1947, ch. 120, title II, § 202, [61 Stat. 153](https://www.govinfo.gov/link/statute/61/153); 1949 Reorg. Plan No. 2, § 1, eff. Aug. 20, 1949, 14 F.R. 5225, [63 Stat. 1065](https://www.govinfo.gov/link/statute/63/1065); 1950 Reorg. Plan No. 19, §§ 1, 2, eff. May 24, 1952, 15 F.R. 3178, [64 Stat. 1271](https://www.govinfo.gov/link/statute/64/1271), 1272.)*

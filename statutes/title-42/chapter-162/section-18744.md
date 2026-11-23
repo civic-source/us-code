@@ -3,9 +3,10 @@ title: "Section 18744 - 21st Century Energy Workforce Advisory Board"
 usc_title: 42
 usc_section: "18744"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18744"
-generated_at: "2026-03-30T02:56:11.529Z"
+generated_at: "2026-11-23T21:26:33.842Z"
+status: "active"
 ---
 
 # § 18744. 21st Century Energy Workforce Advisory Board
@@ -73,3 +74,7 @@ generated_at: "2026-03-30T02:56:11.529Z"
 - **(f)**
   - **(1)** Subject to paragraph (2), the Board shall terminate on September 30, 2026 .
   - **(2)** The Secretary may renew the Board for 1 or more 5-year periods by submitting, not later than the date described in subsection (d), a report described in that subsection that contains a determination by the Secretary that the Board should be renewed.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title II, § 40211](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 983](https://www.govinfo.gov/link/statute/135/983).)*

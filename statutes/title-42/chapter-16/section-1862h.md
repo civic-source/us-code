@@ -3,9 +3,10 @@ title: "Section 1862h - Congressional statement of findings and declaration of p
 usc_title: 42
 usc_section: "1862h"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1862h"
-generated_at: "2026-03-30T02:56:11.124Z"
+generated_at: "2026-11-23T21:26:32.201Z"
+status: "active"
 ---
 
 # § 1862h. Congressional statement of findings and declaration of purposes respecting scientific and technical education and training
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.124Z"
   - **(2)** improve secondary school and postsecondary curricula in STEM fields;
   - **(3)** improve the educational opportunities of postsecondary students by creating comprehensive articulation agreements and planning between 2-year and 4-year institutions; and
   - **(4)** promote outreach to secondary schools to improve STEM instruction.
+
+## Source Credit
+
+*([Pub. L. 102–476, § 2](https://www.govinfo.gov/link/plaw/102/public/476), Oct. 23, 1992, [106 Stat. 2297](https://www.govinfo.gov/link/statute/106/2297); [Pub. L. 117–167, div. B, title III, § 10312(f)(1)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1519](https://www.govinfo.gov/link/statute/136/1519).)*

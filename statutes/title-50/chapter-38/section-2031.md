@@ -3,9 +3,10 @@ title: "Section 2031 - Computation of annuities"
 usc_title: 50
 usc_section: "2031"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2031"
-generated_at: "2026-03-30T02:56:26.216Z"
+generated_at: "2026-11-23T21:26:38.953Z"
+status: "active"
 ---
 
 # § 2031. Computation of annuities
@@ -119,3 +120,7 @@ generated_at: "2026-03-30T02:56:26.216Z"
 - **(m)** The Director shall, on an annual basis—
   - **(1)** inform each retired participant of the participant’s right of election under subsections (c), (f)(2), and (g); and
   - **(2)** to the maximum extent practicable, inform spouses and former spouses of participants, former participants, and retired participants of their rights under this chapter.
+
+## Source Credit
+
+*([Pub. L. 88–643, title II, § 221](https://www.govinfo.gov/link/plaw/88/public/643), as added [Pub. L. 102–496, title VIII, § 802](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3204](https://www.govinfo.gov/link/statute/106/3204); amended [Pub. L. 103–178, title II, § 202(a)(4)](https://www.govinfo.gov/link/plaw/103/public/178), Dec. 3, 1993, [107 Stat. 2026](https://www.govinfo.gov/link/statute/107/2026); [Pub. L. 116–92, div. E, title LXII, § 6202(a)(1)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2184](https://www.govinfo.gov/link/statute/133/2184).)*

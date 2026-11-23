@@ -3,9 +3,10 @@ title: "Section 414A - Requirements related to automatic enrollment"
 usc_title: 26
 usc_section: "414A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 414A"
-generated_at: "2026-03-30T02:55:27.687Z"
+generated_at: "2026-11-23T21:26:06.231Z"
+status: "active"
 ---
 
 # § 414A. Requirements related to automatic enrollment
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:27.687Z"
     - **(A)** Subsection (a) shall not apply to any qualified cash or deferred arrangement, or any annuity contract purchased under a plan, while the employer maintaining such plan (and any predecessor employer) has been in existence for less than 3 years.
     - **(B)** Subsection (a) shall not apply to any qualified cash or deferred arrangement, or any annuity contract purchased under a plan, earlier than the date that is 1 year after the close of the first taxable year with respect to which the employer maintaining the plan normally employed more than 10 employees.
     - **(C)** In the case of a plan maintained by more than 1 employer, subparagraphs (A) and (B) shall be applied separately with respect to each such employer, and all such employers to which subsection (a) applies (after the application of this paragraph) shall be treated as maintaining a separate plan for purposes of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 117–328, div. T, title I, § 101(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5275](https://www.govinfo.gov/link/statute/136/5275).)*

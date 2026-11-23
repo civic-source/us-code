@@ -3,9 +3,10 @@ title: "Section 2265A - Repeat offenders"
 usc_title: 18
 usc_section: "2265A"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2265A"
-generated_at: "2026-03-30T02:54:16.500Z"
+generated_at: "2026-11-23T21:25:44.131Z"
+status: "active"
 ---
 
 # § 2265A. Repeat offenders
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:54:16.500Z"
     - **(A)** under section 2261, 2261A, or 2262 of this chapter; or
     - **(B)** under State or tribal law for an offense consisting of conduct that would have been an offense under a section referred to in subparagraph (A) if the conduct had occurred within the special maritime and territorial jurisdiction of the United States, or in interstate or foreign commerce; and
   - **(2)** the term “State” means a State of the United States, the District of Columbia, or any commonwealth, territory, or possession of the United States.
+
+Maximum Term of Imprisonment
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 109–162, title I, § 115](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 2988](https://www.govinfo.gov/link/statute/119/2988); amended [Pub. L. 113–4, title IX, § 906(c)](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 125](https://www.govinfo.gov/link/statute/127/125).)*

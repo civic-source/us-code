@@ -3,9 +3,10 @@ title: "Section 6662 - Presidential and Congressional Academies for American His
 usc_title: 20
 usc_section: "6662"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6662"
-generated_at: "2026-03-30T02:54:48.202Z"
+generated_at: "2026-11-23T21:25:47.530Z"
+status: "active"
 ---
 
 # § 6662. Presidential and Congressional Academies for American History and Civics
@@ -42,3 +43,15 @@ generated_at: "2026-03-30T02:54:48.202Z"
 - **(g)**
   - **(1)** An eligible entity that receives funds under subsection (a) shall provide, toward the cost of the activities assisted under the grant, from non-Federal sources, an amount equal to 100 percent of the amount of the grant.
   - **(2)** The Secretary may waive all or part of the matching requirement described in paragraph (1) for any fiscal year for an eligible entity if the Secretary determines that applying the matching requirement would result in serious hardship or an inability to carry out the activities described in subsection (e) or (f).
+
+Establishment
+
+Application
+
+Demonstrated Expertise
+
+Available Funds
+
+## Source Credit
+
+*([Pub. L. 89–10, title II, § 2232](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title II, § 2002](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1945](https://www.govinfo.gov/link/statute/129/1945).)*

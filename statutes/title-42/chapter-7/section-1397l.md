@@ -3,9 +3,10 @@ title: "Section 1397l - Establishment and support of elder abuse, neglect, and e
 usc_title: 42
 usc_section: "1397l"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1397l"
-generated_at: "2026-03-30T02:56:11.067Z"
+generated_at: "2026-11-23T21:26:31.934Z"
+status: "active"
 ---
 
 # § 1397l. Establishment and support of elder abuse, neglect, and exploitation forensic centers
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.067Z"
   - **(1)** for fiscal year 2011, $4,000,000;
   - **(2)** for fiscal year 2012, $6,000,000; and
   - **(3)** for each of fiscal years 2013 and 2014, $8,000,000.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XX, § 2031, as added [Pub. L. 111–148, title VI, § 6703(a)(1)(C)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 790](https://www.govinfo.gov/link/statute/124/790).)*

@@ -3,9 +3,10 @@ title: "Section 127c - Purchase of weapons overseas: force protection"
 usc_title: 10
 usc_section: "127c"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 127c"
-generated_at: "2026-03-30T02:53:38.033Z"
+generated_at: "2026-11-23T21:25:32.211Z"
+status: "active"
 ---
 
 # § 127c. Purchase of weapons overseas: force protection
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:53:38.033Z"
 - **(c)** In any case in which the authority provided in subsection (a) is used during the period of the first six months of a fiscal year, or during the period of the second six months of a fiscal year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and Committee on Armed Services of the House of Representatives a report on the use of that authority during that six-month period. Each such report shall be submitted not later than 30 days after the end of the six-month period during which the authority is used. Each such report shall include the following:
   - **(1)** The number and type of weapons purchased under subsection (a) during that six-month period covered by the report, together with the amount spent for those weapons and the Secretary’s estimate of the fair market value of those weapons.
   - **(2)** A description of the dispositions (if any) during that six-month period of weapons purchased under subsection (a).
+
+Authority
+
+Limitation
+
+Semiannual Congressional Report
+
+## Source Credit
+
+*(Added [Pub. L. 109–163, div. A, title XII, § 1231(a)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3467](https://www.govinfo.gov/link/statute/119/3467).)*

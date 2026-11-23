@@ -3,9 +3,10 @@ title: "Section 7612a - HIV/AIDS Working Capital Fund"
 usc_title: 22
 usc_section: "7612a"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7612a"
-generated_at: "2026-03-30T02:55:05.442Z"
+generated_at: "2026-11-23T21:25:58.721Z"
+status: "active"
 ---
 
 # § 7612a. HIV/AIDS Working Capital Fund
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:05.442Z"
   - **(4)** There may be deposited in the HIV/AIDS Fund payments for the loss of, or damage to, HIV/AIDS pharmaceuticals and products held in the HIV/AIDS Fund, rebates, reimbursements, refunds and other credits applicable to the operation of the HIV/AIDS Fund.
   - **(5)** At the close of each fiscal year the Coordinator may transfer out of the HIV/AIDS Fund to other HIV/AIDS programmatic areas such amounts as the Coordinator determines to be in excess of the needs of the HIV/AIDS Fund.
   - **(6)** At the close of each fiscal year the Coordinator shall submit a report to the Committees on Appropriations detailing the financial activities of the HIV/AIDS Fund, including sources of income and information regarding disbursements.
+
+## Source Credit
+
+*([Pub. L. 108–447, div. D, title V, § 525(b)](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3000](https://www.govinfo.gov/link/statute/118/3000).)*

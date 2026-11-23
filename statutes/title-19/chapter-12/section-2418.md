@@ -3,9 +3,10 @@ title: "Section 2418 - Request for information"
 usc_title: 19
 usc_section: "2418"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2418"
-generated_at: "2026-03-30T02:54:24.674Z"
+generated_at: "2026-11-23T21:25:42.803Z"
+status: "active"
 ---
 
 # § 2418. Request for information
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:24.674Z"
   - **(2)** The Trade Representative may—
     - **(A)** use such information, or make such information available (in his own discretion) to any employee of the Federal Government for use, in any investigation under this subchapter, or
     - **(B)** may make such information available to any other person in a form which cannot be associated with, or otherwise identify, the person providing the information.
+
+## Source Credit
+
+*([Pub. L. 93–618, title III, § 308](https://www.govinfo.gov/link/plaw/93/public/618), as added [Pub. L. 100–418, title I, § 1301(a)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1175](https://www.govinfo.gov/link/statute/102/1175).)*

@@ -3,9 +3,10 @@ title: "Section 3515 - Security personnel at Agency installations"
 usc_title: 50
 usc_section: "3515"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3515"
-generated_at: "2026-03-30T02:56:26.254Z"
+generated_at: "2026-11-23T21:26:39.054Z"
+status: "active"
 ---
 
 # § 3515. Security personnel at Agency installations
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:26.254Z"
     - **(C)** prevent the escape of any individual whom such Agency personnel reasonably believe to have committed a crime of violence in the presence of such Agency personnel.
   - **(2)** Paragraph (1) shall not affect the authorities of the Attorney General under section 2679 of title 28 .
   - **(3)** In this subsection, the term “crime of violence” has the meaning given that term in section 16 of title 18 .
+
+## Source Credit
+
+*(June 20, 1949, ch. 227, § 15, as added [Pub. L. 98–473, title I, § 140](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 1973](https://www.govinfo.gov/link/statute/98/1973), and [Pub. L. 98–618, title IV, § 401](https://www.govinfo.gov/link/plaw/98/public/618), Nov. 8, 1984, [98 Stat. 3301](https://www.govinfo.gov/link/statute/98/3301); amended [Pub. L. 105–107, title IV, § 404](https://www.govinfo.gov/link/plaw/105/public/107), Nov. 20, 1997, [111 Stat. 2260](https://www.govinfo.gov/link/statute/111/2260); [Pub. L. 107–306, title VIII, § 841(d)](https://www.govinfo.gov/link/plaw/107/public/306), Nov. 27, 2002, [116 Stat. 2432](https://www.govinfo.gov/link/statute/116/2432); [Pub. L. 108–177, title III, § 377(b)(3)](https://www.govinfo.gov/link/plaw/108/public/177), title IV, § 402, Dec. 13, 2003, [117 Stat. 2630](https://www.govinfo.gov/link/statute/117/2630), 2631; [Pub. L. 116–92, div. E, title LXIV, § 6413](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2198](https://www.govinfo.gov/link/statute/133/2198); [Pub. L. 117–263, div. F, title LXIII, § 6303(a)](https://www.govinfo.gov/link/plaw/117/public/263), title LXIV, § 6414(b), Dec. 23, 2022, [136 Stat. 3503](https://www.govinfo.gov/link/statute/136/3503), 3528; [Pub. L. 118–31, div. G, title III, § 7331](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1045](https://www.govinfo.gov/link/statute/137/1045); [Pub. L. 119–60, div. F, title LXV, § 6502(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1620](https://www.govinfo.gov/link/statute/139/1620).)*

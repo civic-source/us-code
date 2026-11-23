@@ -3,9 +3,10 @@ title: "Section 4106A - Transfer of offenders on parole; parole of offenders tra
 usc_title: 18
 usc_section: "4106A"
 chapter: 306
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 4106A"
-generated_at: "2026-03-30T02:54:16.528Z"
+generated_at: "2026-11-23T21:25:44.239Z"
+status: "active"
 ---
 
 # § 4106A. Transfer of offenders on parole; parole of offenders transferred
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:16.528Z"
     - **(B)** The court of appeals shall decide and dispose of the appeal in accordance with section 3742 of this title as though the determination appealed had been a sentence imposed by a United States district court.
   - **(3)** During the supervised release of an offender under this subsection, the United States district court for the district in which the offender resides shall supervise the offender.
 - **(c)** This section shall apply only to offenses committed on or after November 1, 1987 .
+
+## Source Credit
+
+*(Added [Pub. L. 100–690, title VII, § 7101(a)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4415](https://www.govinfo.gov/link/statute/102/4415); amended [Pub. L. 101–647, title XXXV](https://www.govinfo.gov/link/plaw/101/public/647), §§ 3599B, 3599C, Nov. 29, 1990, [104 Stat. 4931](https://www.govinfo.gov/link/statute/104/4931), 4932.)*

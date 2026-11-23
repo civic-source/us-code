@@ -3,9 +3,10 @@ title: "Section 4128 - Laboratory Quality Enhancement Program"
 usc_title: 10
 usc_section: "4128"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4128"
-generated_at: "2026-03-30T02:53:38.202Z"
+generated_at: "2026-11-23T21:25:32.758Z"
+status: "active"
 ---
 
 # § 4128. Laboratory Quality Enhancement Program
@@ -42,3 +43,19 @@ generated_at: "2026-03-30T02:53:38.202Z"
   - **(3)** In interpreting or defining under paragraph (1), the Under Secretary shall, to the extent practicable, consult and coordinate with the secretaries of the military departments and such other agencies or entities as the Under Secretary considers relevant on any proposed revision to regulations under paragraph (1).
   - **(4)** In interpreting or defining under paragraph (1), the Under Secretary shall seek recommendations from the panel described in subsection (b)(4).
 - **(f)** In this section, the term “science and technology reinvention laboratory” means a Department of Defense laboratory designated as a Department of Defense science and technology reinvention laboratory under section 4121 of this title .
+
+Program Required
+
+Panels
+
+Composition of Panels
+
+Governance of Panels
+
+Interpretation of Provisions of Law
+
+Science and Technology Reinvention Laboratory Defined
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title II, § 217(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1825](https://www.govinfo.gov/link/statute/138/1825).)*

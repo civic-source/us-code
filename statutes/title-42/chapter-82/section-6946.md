@@ -3,9 +3,10 @@ title: "Section 6946 - Procedure for development and implementation of State pla
 usc_title: 42
 usc_section: "6946"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6946"
-generated_at: "2026-03-30T02:56:11.275Z"
+generated_at: "2026-11-23T21:26:33.014Z"
+status: "active"
 ---
 
 # § 6946. Procedure for development and implementation of State plan
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.275Z"
   - **(2)** Within one hundred and eighty days after an interstate region is identified by agreement under paragraph (1), appropriate elected officials of general purpose units of local government within such region shall jointly establish or designate an agency to develop a plan for such region. If no such agency is established or designated within such period by such officials, the Governors of the respective States may, by agreement, establish or designate for such purpose a single representative organization including elected officials of general purpose units of local government within such region.
   - **(3)** Implementation of interstate regional solid waste management plans shall be conducted by units of local government for any portion of a region within their jurisdiction, or by multijurisdictional agencies or authorities designated in accordance with State law, including those designated by agreement by such units of local government for such purpose. If no such unit, agency, or authority is so designated, the respective Governors shall designate or establish a single interstate agency to implement such plan.
   - **(4)** For purposes of this subchapter, so much of an interstate regional plan as is carried out within a particular State shall be deemed part of the State plan for such State.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 4006](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2816](https://www.govinfo.gov/link/statute/90/2816); amended [Pub. L. 96–482, § 19(b)](https://www.govinfo.gov/link/plaw/96/public/482), Oct. 21, 1980, [94 Stat. 2345](https://www.govinfo.gov/link/statute/94/2345).)*

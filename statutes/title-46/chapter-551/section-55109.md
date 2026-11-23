@@ -3,9 +3,10 @@ title: "Section 55109 - Dredging"
 usc_title: 46
 usc_section: "55109"
 chapter: 551
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 55109"
-generated_at: "2026-03-30T02:56:15.579Z"
+generated_at: "2026-11-23T21:26:37.302Z"
+status: "active"
 ---
 
 # § 55109. Dredging
@@ -16,3 +17,32 @@ generated_at: "2026-03-30T02:56:15.579Z"
   - **(3)** the vessel has been issued a certificate of documentation with a coastwise endorsement under chapter 121 of this title or is exempt from documentation but would otherwise be eligible for such a certificate and endorsement.
 - **(b)** A documented vessel with a registry endorsement may engage in the dredging of gold in Alaska.
 - **(c)** If a vessel is operated in knowing violation of this section, the vessel and its equipment are liable to seizure by and forfeiture to the United States Government.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 55109 | 46 App.:292. | May 28, 1906, ch. 2566, § 1 , 34 Stat. 204 ; Pub. L. 102–87, title V, § 5501(a)(1) , Nov. 4, 1992 , 106 Stat. 5084 . |
+
+
+In General
+
+Dredging of Gold in Alaska
+
+Penalty
+
+Historical and Revision Notes
+
+55109
+
+May 28, 1906, ch. 2566, § 1
+
+34 Stat. 204
+
+Pub. L. 102–87, title V, § 5501(a)(1)
+
+Nov. 4, 1992
+
+106 Stat. 5084
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1637](https://www.govinfo.gov/link/statute/120/1637).)*

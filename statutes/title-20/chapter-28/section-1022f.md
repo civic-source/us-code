@@ -3,9 +3,10 @@ title: "Section 1022f - State functions"
 usc_title: 20
 usc_section: "1022f"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1022f"
-generated_at: "2026-03-30T02:54:48.098Z"
+generated_at: "2026-11-23T21:25:47.024Z"
+status: "active"
 ---
 
 # § 1022f. State functions
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:48.098Z"
   - **(4)** shall be reinstated upon demonstration of improved performance, as determined by the State.
 - **(c)** If the Secretary develops any regulations implementing subsection (b)(2), the Secretary shall submit such proposed regulations to a negotiated rulemaking process, which shall include representatives of States, institutions of higher education, and educational and student organizations.
 - **(d)** The requirements of this section shall apply to both traditional teacher preparation programs and alternative routes to State certification and licensure programs.
+
+## Source Credit
+
+*([Pub. L. 89–329, title II, § 207](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title II, § 201(2)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3152](https://www.govinfo.gov/link/statute/122/3152); amended [Pub. L. 114–95, title IX, § 9214(c)(6)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2163](https://www.govinfo.gov/link/statute/129/2163).)*

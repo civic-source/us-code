@@ -3,9 +3,10 @@ title: "Section 3910 - Kimberley Process Implementation Coordinating Committee"
 usc_title: 19
 usc_section: "3910"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 3910"
-generated_at: "2026-03-30T02:54:24.698Z"
+generated_at: "2026-11-23T21:25:42.869Z"
+status: "active"
 ---
 
 # § 3910. Kimberley Process Implementation Coordinating Committee
@@ -17,3 +18,7 @@ The President shall establish a Kimberley Process Implementation Coordinating Co
   - **(3)** The United States Trade Representative.
   - **(4)** The Secretary of Homeland Security.
   - **(5)** A representative of any other agency the President deems appropriate.
+
+## Source Credit
+
+*([Pub. L. 108–19, § 11](https://www.govinfo.gov/link/plaw/108/public/19), Apr. 25, 2003, [117 Stat. 635](https://www.govinfo.gov/link/statute/117/635).)*

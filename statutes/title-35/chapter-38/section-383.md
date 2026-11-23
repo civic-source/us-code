@@ -3,9 +3,10 @@ title: "Section 383 - International design application"
 usc_title: 35
 usc_section: "383"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "35 U.S.C. § 383"
-generated_at: "2026-03-30T02:55:34.241Z"
+generated_at: "2026-11-23T21:26:08.641Z"
+status: "active"
 ---
 
 # § 383. International design application
@@ -19,3 +20,7 @@ In addition to any requirements pursuant to chapter 16, the international design
   - **(5)** an indication of the product or products that constitute the industrial design or in relation to which the industrial design is to be used, as prescribed in the treaty and the Regulations;
   - **(6)** the fees prescribed in the treaty and the Regulations; and
   - **(7)** any other particulars prescribed in the Regulations.
+
+## Source Credit
+
+*(Added [Pub. L. 112–211, title I, § 101(a)](https://www.govinfo.gov/link/plaw/112/public/211), Dec. 18, 2012, [126 Stat. 1528](https://www.govinfo.gov/link/statute/126/1528).)*

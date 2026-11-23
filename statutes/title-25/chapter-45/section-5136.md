@@ -3,9 +3,10 @@ title: "Section 5136 - Loans to purchasers of highly fractioned land"
 usc_title: 25
 usc_section: "5136"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5136"
-generated_at: "2026-03-30T02:54:52.864Z"
+generated_at: "2026-11-23T21:25:54.720Z"
+status: "active"
 ---
 
 # § 5136. Loans to purchasers of highly fractioned land
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:52.864Z"
 - **(b)**
   - **(1)** Subject to paragraph (2), the Secretary of Agriculture may make and insure loans in accordance with section 1929 of title 7 to eligible purchasers of highly fractionated land or to intermediaries in order to establish revolving loan funds for the purchase of highly fractionated land under that section.
   - **(2)** Section 5140 of this title shall not apply to trust land, restricted tribal land, or tribal corporation land that is mortgaged in accordance with paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 91–229, § 1](https://www.govinfo.gov/link/plaw/91/public/229), Apr. 11, 1970, [84 Stat. 120](https://www.govinfo.gov/link/statute/84/120); [Pub. L. 110–234, title V, § 5501](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1161](https://www.govinfo.gov/link/statute/122/1161); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title V, § 5501, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1922; [Pub. L. 113–79, title V, § 5402](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 840](https://www.govinfo.gov/link/statute/128/840).)*

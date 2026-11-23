@@ -3,9 +3,10 @@ title: "Section 1128 - National Sea Grant Advisory Board"
 usc_title: 33
 usc_section: "1128"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1128"
-generated_at: "2026-03-30T02:55:41.081Z"
+generated_at: "2026-11-23T21:26:11.357Z"
+status: "active"
 ---
 
 # § 1128. National Sea Grant Advisory Board
@@ -29,3 +30,13 @@ generated_at: "2026-03-30T02:55:41.081Z"
   - **(6)** The Board shall meet on a biannual basis and, at any other time, at the call of the Chairman or upon the request of a majority of the voting members or of the Director.
   - **(7)** The Board may exercise such powers as are reasonably necessary in order to carry out its duties under subsection (b).
   - **(8)** The Board may establish such subcommittees as are reasonably necessary to carry out its duties under subsection (b). Such subcommittees may include individuals who are not Board members.
+
+Redesignation
+
+Membership not affected
+
+References
+
+## Source Credit
+
+*([Pub. L. 89–454, title II, § 209](https://www.govinfo.gov/link/plaw/89/public/454), as added [Pub. L. 94–461, § 2](https://www.govinfo.gov/link/plaw/94/public/461), Oct. 8, 1976, [90 Stat. 1967](https://www.govinfo.gov/link/statute/90/1967); amended [Pub. L. 96–289, § 1(5)](https://www.govinfo.gov/link/plaw/96/public/289), June 28, 1980, [94 Stat. 605](https://www.govinfo.gov/link/statute/94/605); [Pub. L. 100–220, title III](https://www.govinfo.gov/link/plaw/100/public/220), §§ 3104(b)(1)(F), 3108, Dec. 29, 1987, [101 Stat. 1471](https://www.govinfo.gov/link/statute/101/1471), 1473; [Pub. L. 102–186](https://www.govinfo.gov/link/plaw/102/public/186), §§ 4(b)(1)(E), (F), 5(b)(2), Dec. 4, 1991, [105 Stat. 1283](https://www.govinfo.gov/link/statute/105/1283), 1284; [Pub. L. 105–160](https://www.govinfo.gov/link/plaw/105/public/160), §§ 4(b)(1), 8, Mar. 6, 1998, [112 Stat. 22](https://www.govinfo.gov/link/statute/112/22), 25; [Pub. L. 107–299, § 6](https://www.govinfo.gov/link/plaw/107/public/299), Nov. 26, 2002, [116 Stat. 2346](https://www.govinfo.gov/link/statute/116/2346); [Pub. L. 110–394, § 9(a)(4)(A)](https://www.govinfo.gov/link/plaw/110/public/394), (C)(iii)–(e), Oct. 13, 2008, [122 Stat. 4208](https://www.govinfo.gov/link/statute/122/4208); [Pub. L. 116–221](https://www.govinfo.gov/link/plaw/116/public/221), §§ 5, 11(2), Dec. 18, 2020, [134 Stat. 1058](https://www.govinfo.gov/link/statute/134/1058), 1061.)*

@@ -3,9 +3,10 @@ title: "Section 1681j - Charges for certain disclosures"
 usc_title: 15
 usc_section: "1681j"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1681j"
-generated_at: "2026-03-30T02:54:08.151Z"
+generated_at: "2026-11-23T21:25:39.876Z"
+status: "active"
 ---
 
 # § 1681j. Charges for certain disclosures
@@ -46,3 +47,29 @@ generated_at: "2026-03-30T02:54:08.151Z"
 - **(g)**
   - **(1)** Subject to rulemaking pursuant to section 205(b) of the Credit CARD Act of 2009, any advertisement for a free credit report in any medium shall prominently disclose in such advertisement that free credit reports are available under Federal law at: “AnnualCreditReport.com” (or such other source as may be authorized under Federal law).
   - **(2)** In the case of an advertisement broadcast by television, the disclosures required under paragraph (1) shall be included in the audio and visual part of such advertisement. In the case of an advertisement broadcast by televison 3 3 So in original. Probably should be “television”. or radio, the disclosure required under paragraph (1) shall consist only of the following: “This is not the free credit report provided for by Federal law”.
+
+In general
+
+Content
+
+Interim disclosures
+
+In general
+
+Considerations
+
+Centralized source
+
+Transition
+
+Timing
+
+Scope of regulations.—
+
+In general
+
+Considerations
+
+## Source Credit
+
+*([Pub. L. 90–321, title VI, § 612](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 91–508, title VI, § 601](https://www.govinfo.gov/link/plaw/91/public/508), Oct. 26, 1970, [84 Stat. 1132](https://www.govinfo.gov/link/statute/84/1132); amended [Pub. L. 104–208, div. A, title II, § 2410](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–442](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 108–159, title II, § 211(a)](https://www.govinfo.gov/link/plaw/108/public/159), Dec. 4, 2003, [117 Stat. 1968](https://www.govinfo.gov/link/statute/117/1968); [Pub. L. 111–24, title II, § 205(a)](https://www.govinfo.gov/link/plaw/111/public/24), May 22, 2009, [123 Stat. 1747](https://www.govinfo.gov/link/statute/123/1747); [Pub. L. 111–203, title X, § 1088(a)(2)(A)](https://www.govinfo.gov/link/plaw/111/public/203), (C), July 21, 2010, [124 Stat. 2087](https://www.govinfo.gov/link/statute/124/2087).)*

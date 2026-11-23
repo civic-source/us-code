@@ -3,9 +3,10 @@ title: "Section 4055 - Lump-sum payments"
 usc_title: 22
 usc_section: "4055"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4055"
-generated_at: "2026-03-30T02:55:05.403Z"
+generated_at: "2026-11-23T21:25:58.617Z"
+status: "active"
 ---
 
 # § 4055. Lump-sum payments
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:05.403Z"
 - **(i)** Unless otherwise expressly provided by any spousal agreement or court order under section 4060(b)(1) of this title , the amount of a participant’s or former participant’s lump-sum credit payable to a former spouse of that participant shall be—
   - **(1)** if the former spouse was married to the participant throughout the period of creditable service of the participant, 50 percent of the lump-sum credit to which such participant would be entitled in the absence of this subsection, or
   - **(2)** if such former spouse was not married to the participant throughout such creditable service, an amount equal to such former spouse’s pro rata share of 50 percent of such lump-sum credit.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 815](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2116](https://www.govinfo.gov/link/statute/94/2116); [Pub. L. 99–335, title IV](https://www.govinfo.gov/link/plaw/99/public/335), §§ 402(a)(2), 404(c), 413, June 6, 1986, [100 Stat. 609](https://www.govinfo.gov/link/statute/100/609), 610, 614; [Pub. L. 100–238, title II, § 218](https://www.govinfo.gov/link/plaw/100/public/238), Jan. 8, 1988, [101 Stat. 1775](https://www.govinfo.gov/link/statute/101/1775).)*

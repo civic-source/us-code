@@ -3,9 +3,10 @@ title: "Section 1385 - Partial withdrawals"
 usc_title: 29
 usc_section: "1385"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1385"
-generated_at: "2026-03-30T02:55:18.734Z"
+generated_at: "2026-11-23T21:26:02.298Z"
+status: "active"
 ---
 
 # § 1385. Partial withdrawals
@@ -31,3 +32,9 @@ generated_at: "2026-03-30T02:55:18.734Z"
   - **(2)** Any amendment adopted under paragraph (1) shall provide rules for the equitable reduction of withdrawal liability in any case in which the number of the plan’s contribution base units, in the 2 plan years following the plan year of withdrawal of the employer, is higher than such number immediately after the withdrawal.
   - **(3)** Section 1388 of this title shall not apply to a plan which has been amended under paragraph (1).
 - **(d)** In the case of a plan described in section 404(c) of title 26 , or a continuation thereof, the plan may be amended to provide rules setting forth other conditions consistent with the purposes of this chapter under which an employer has liability for partial withdrawal.
+
+“For purposes of section 4205 of the Employee Retirement Income Security Act of 1974 [this section]—
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4205](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 96–364, title I, § 104(2)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1221](https://www.govinfo.gov/link/statute/94/1221); amended [Pub. L. 101–239, title VII, § 7891(a)(1)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2445](https://www.govinfo.gov/link/statute/103/2445); [Pub. L. 109–280, title II, § 204(b)(1)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 887](https://www.govinfo.gov/link/statute/120/887).)*

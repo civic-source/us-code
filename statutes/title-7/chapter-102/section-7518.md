@@ -3,9 +3,10 @@ title: "Section 7518 - Micro-grants for food security"
 usc_title: 7
 usc_section: "7518"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7518"
-generated_at: "2026-03-30T02:53:42.456Z"
+generated_at: "2026-11-23T21:25:28.437Z"
+status: "active"
 ---
 
 # § 7518. Micro-grants for food security
@@ -90,3 +91,7 @@ generated_at: "2026-03-30T02:53:42.456Z"
 - **(g)**
   - **(1)** There is authorized to be appropriated to the Secretary to carry out this section $10,000,000 for fiscal year 2019 and each fiscal year thereafter, to remain available until expended.
   - **(2)** Only funds appropriated under paragraph (1) in advance specifically to carry out this section shall be available to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 115–334, title IV, § 4206](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4663](https://www.govinfo.gov/link/statute/132/4663).)*

@@ -3,9 +3,10 @@ title: "Section 4623 - Judicial review of Director action"
 usc_title: 12
 usc_section: "4623"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4623"
-generated_at: "2026-03-30T02:53:53.514Z"
+generated_at: "2026-11-23T21:25:37.204Z"
+status: "active"
 ---
 
 # § 4623. Judicial review of Director action
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:53.514Z"
 - **(b)** The Court may modify, terminate, or set aside an action taken by the Director and reviewed by the Court pursuant to this section only if the court finds, on the record on which the Director acted, that the action of the Director was arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with applicable laws.
 - **(c)** The commencement of proceedings for judicial review pursuant to this section shall not operate as a stay of any action taken by the Director. Pending judicial review of the action, the court shall not have jurisdiction to stay, enjoin, or otherwise delay any supervisory action taken by the Director with respect to a regulated entity that is classified as significantly or critically undercapitalized or any action of the Director that results in the classification of a regulated entity as significantly or critically undercapitalized.
 - **(d)** Except as provided in this section, no court shall have jurisdiction to affect, by injunction or otherwise, the issuance or effectiveness of any classification or action of the Director under this subchapter (other than appointment of a conservator under section 4616 or 4617 of this title or action under section 4619 1 of this title) or to review, modify, suspend, terminate, or set aside such classification or action.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1369D](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3985](https://www.govinfo.gov/link/statute/106/3985); [Pub. L. 110–289, div. A, title I, § 1145(b)(3)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2767](https://www.govinfo.gov/link/statute/122/2767).)*

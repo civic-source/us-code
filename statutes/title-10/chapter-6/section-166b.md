@@ -3,9 +3,10 @@ title: "Section 166b - Combatant commands: funding for combating terrorism readi
 usc_title: 10
 usc_section: "166b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 166b"
-generated_at: "2026-03-30T02:53:38.042Z"
+generated_at: "2026-11-23T21:25:32.228Z"
+status: "active"
 ---
 
 # § 166b. Combatant commands: funding for combating terrorism readiness initiatives
@@ -22,3 +23,17 @@ generated_at: "2026-03-30T02:53:38.042Z"
 - **(c)** The Chairman of the Joint Chiefs of Staff, in considering requests for funds in the Combating Terrorism Readiness Initiatives Fund, should give priority consideration to emergency or emergent unforeseen high-priority requirements for combating terrorism.
 - **(d)** Any amount provided by the Chairman of the Joint Chiefs of Staff for a fiscal year out of the Combating Terrorism Readiness Initiatives Fund for an activity referred to in subsection (b) shall be in addition to amounts otherwise available for that activity for that fiscal year.
 - **(e)** Funds may not be provided under this section for any activity that has been denied authorization by Congress.
+
+Combating Terrorism Readiness Initiatives Fund
+
+Authorized Activities
+
+Priority
+
+Relationship to Other Funding
+
+Limitation
+
+## Source Credit
+
+*(Added [Pub. L. 107–107, div. A, title XV, § 1512(a)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1272](https://www.govinfo.gov/link/statute/115/1272).)*

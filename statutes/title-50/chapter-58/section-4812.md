@@ -3,9 +3,10 @@ title: "Section 4812 - Authority of the President"
 usc_title: 50
 usc_section: "4812"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4812"
-generated_at: "2026-03-30T02:56:26.283Z"
+generated_at: "2026-11-23T21:26:39.121Z"
+status: "active"
 ---
 
 # § 4812. Authority of the President
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:26.283Z"
   - **(6)** strengthen the United States industrial base, both with respect to current and future defense requirements; and
   - **(7)** enforce the controls through means such as regulations, requirements for compliance, lists of controlled items, lists of foreign persons who threaten the national security or foreign policy of the United States, and guidance in a form that facilitates compliance by United States persons and foreign persons, in particular academic institutions, scientific and research establishments, and small- and medium-sized businesses.
 - **(c)** The President shall impose controls over the export, reexport, or in-country transfer of items for purposes of the objectives described in subsections (b)(1) or (b)(2) without regard to the nature of the underlying transaction or any circumstances pertaining to the activity, including whether such export, reexport, or in-country transfer occurs pursuant to a purchase order or other contract requirement, voluntary decision, inter-company arrangement, marketing effort, or during a joint venture, joint development agreement, or similar collaborative agreement.
+
+## Source Credit
+
+*([Pub. L. 115–232, div. A, title XVII, § 1753](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2211](https://www.govinfo.gov/link/statute/132/2211); [Pub. L. 117–263, div. E, title LV, § 5589(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3380](https://www.govinfo.gov/link/statute/136/3380).)*

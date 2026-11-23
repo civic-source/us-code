@@ -3,9 +3,10 @@ title: "Section 1821 - Small purchase contracting authority"
 usc_title: 2
 usc_section: "1821"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1821"
-generated_at: "2026-03-30T02:53:04.817Z"
+generated_at: "2026-11-23T21:25:21.245Z"
+status: "active"
 ---
 
 # § 1821. Small purchase contracting authority
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:04.817Z"
   - **(1)** section 6101 of title 41 shall apply with respect to purchases and contracts for the Architect of the Capitol as if the reference to “$25,000” in paragraph (1) of such section were a reference to “$100,000”; and
   - **(2)** the Architect may procure services, equipment, and construction for security related projects in the most efficient manner he determines appropriate.
 - **(b)** This section shall apply to fiscal year 2003 and each fiscal year thereafter.
+
+## Source Credit
+
+*([Pub. L. 108–7, div. H, title I, § 1201](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 372](https://www.govinfo.gov/link/statute/117/372); [Pub. L. 115–244, div. B, title I, § 133(a)](https://www.govinfo.gov/link/plaw/115/public/244), Sept. 21, 2018, [132 Stat. 2936](https://www.govinfo.gov/link/statute/132/2936).)*

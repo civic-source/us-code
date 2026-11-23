@@ -3,9 +3,10 @@ title: "Section 30504 - Reporting requirements"
 usc_title: 49
 usc_section: "30504"
 chapter: 305
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 30504"
-generated_at: "2026-03-30T02:56:19.354Z"
+generated_at: "2026-11-23T21:26:40.771Z"
+status: "active"
 ---
 
 # § 30504. Reporting requirements
@@ -25,3 +26,34 @@ generated_at: "2026-03-30T02:56:19.354Z"
   - **(3)** the name of the individual or entity from whom the automobile was obtained; and
   - **(4)** the name of the owner of the automobile at the time of the filing of the report.
 - **(c)** The Attorney General shall establish by regulation procedures and practices to facilitate reporting in the least burdensome and costly fashion.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30504(a) | 15:2044(a). | Oct. 25, 1992 , Pub. L. 102–519, § 204(a) , (b), (d), 106 Stat. 3392 , 3393. |
+| 30504(b) | 15:2044(b). |  |
+| 30504(c) | 15:2044(d). |  |
+
+
+Junk Yard and Salvage Yard Operators
+
+Insurance Carriers
+
+Procedures and Practices
+
+Historical and Revision Notes
+
+30504(a)
+
+Oct. 25, 1992
+
+Pub. L. 102–519, § 204(a)
+
+106 Stat. 3392
+
+30504(b)
+
+30504(c)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 982](https://www.govinfo.gov/link/statute/108/982); [Pub. L. 104–152](https://www.govinfo.gov/link/plaw/104/public/152), §§ 2(c), 3(a), July 2, 1996, [110 Stat. 1384](https://www.govinfo.gov/link/statute/110/1384); [Pub. L. 105–102, § 3(b)](https://www.govinfo.gov/link/plaw/105/public/102), Nov. 20, 1997, [111 Stat. 2215](https://www.govinfo.gov/link/statute/111/2215).)*

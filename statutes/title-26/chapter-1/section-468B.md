@@ -3,9 +3,10 @@ title: "Section 468B - Special rules for designated settlement funds"
 usc_title: 26
 usc_section: "468B"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 468B"
-generated_at: "2026-03-30T02:55:27.706Z"
+generated_at: "2026-11-23T21:26:06.292Z"
+status: "active"
 ---
 
 # § 468B. Special rules for designated settlement funds
@@ -46,3 +47,9 @@ generated_at: "2026-03-30T02:55:27.706Z"
     - **(B)** it is created for the receipt of settlement payments as directed by a government entity for the sole purpose of resolving or satisfying one or more claims asserting liability under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980,
     - **(C)** the authority and control over the expenditure of funds therein (including the expenditure of contributions thereto and any net earnings thereon) is with such government entity, and
     - **(D)** upon termination, any remaining funds will be disbursed to such government entity for use in accordance with applicable law.
+
+“In the case of any settlement fund which is established for claimants against a corporation which filed a petition for reorganization under chapter 11 of title 11, United States Code, on August 26, 1982 , and which filed with a United States district court a first amended and restated plan of reorganization before March 1, 1986 —
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XVIII, § 1807(a)(7)(A)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2814](https://www.govinfo.gov/link/statute/100/2814); amended [Pub. L. 100–647, title I, § 1018(f)(1)](https://www.govinfo.gov/link/plaw/100/public/647), (2), (4), (5)(A), Nov. 10, 1988, [102 Stat. 3582](https://www.govinfo.gov/link/statute/102/3582); [Pub. L. 101–508, title XI, § 11702(e)(1)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–515](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 109–222, title II, § 201(a)](https://www.govinfo.gov/link/plaw/109/public/222), May 17, 2006, [120 Stat. 347](https://www.govinfo.gov/link/statute/120/347); [Pub. L. 109–432, div. A, title IV, § 409(a)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2963](https://www.govinfo.gov/link/statute/120/2963).)*

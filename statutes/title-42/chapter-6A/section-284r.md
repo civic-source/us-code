@@ -3,9 +3,10 @@ title: "Section 284r - Basic research"
 usc_title: 42
 usc_section: "284r"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 284r"
-generated_at: "2026-03-30T02:56:10.743Z"
+generated_at: "2026-11-23T21:26:30.477Z"
+status: "active"
 ---
 
 # § 284r. Basic research
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:10.743Z"
   - **(4)** The Director of the National Institutes of Health shall—
     - **(A)** ensure that projects of basic research funded by the National Institutes of Health are conducted in accordance with the policies developed, updated, or revised under this section, as applicable; and
     - **(B)** encourage that the results of such research, when published or reported, be disaggregated as appropriate with respect to the analysis of any sex differences.
+
+## Source Credit
+
+*([Pub. L. 114–255, div. A, title II, § 2038(g)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1066](https://www.govinfo.gov/link/statute/130/1066).)*

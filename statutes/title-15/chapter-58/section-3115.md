@@ -3,9 +3,10 @@ title: "Section 3115 - Youth employment policies and programs"
 usc_title: 15
 usc_section: "3115"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3115"
-generated_at: "2026-03-30T02:54:08.187Z"
+generated_at: "2026-11-23T21:25:39.964Z"
+status: "active"
 ---
 
 # § 3115. Youth employment policies and programs
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:08.187Z"
   - **(3)** prepare disadvantaged and other youths with employability handicaps for regular self-sustaining employment;
   - **(4)** develop realistic methods for combining training with work; and
   - **(5)** develop provisions designed to attract structurally unemployed youth into productive full-time employment through incentives to private and independent sector businesses; 2 2 So in original. The semicolon probably should be a period.
+
+## Source Credit
+
+*([Pub. L. 95–523, title II, § 205](https://www.govinfo.gov/link/plaw/95/public/523), Oct. 27, 1978, [92 Stat. 1901](https://www.govinfo.gov/link/statute/92/1901).)*

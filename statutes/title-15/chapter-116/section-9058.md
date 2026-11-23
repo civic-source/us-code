@@ -3,9 +3,10 @@ title: "Section 9058 - Temporary moratorium on eviction filings"
 usc_title: 15
 usc_section: "9058"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9058"
-generated_at: "2026-03-30T02:54:08.242Z"
+generated_at: "2026-11-23T21:25:40.127Z"
+status: "active"
 ---
 
 # § 9058. Temporary moratorium on eviction filings
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:54:08.242Z"
 - **(c)** The lessor of a covered dwelling unit—
   - **(1)** may not require the tenant to vacate the covered dwelling unit before the date that is 30 days after the date on which the lessor provides the tenant with a notice to vacate; and
   - **(2)** may not issue a notice to vacate under paragraph (1) until after the expiration of the period described in subsection (b).
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title IV, § 4024](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 492](https://www.govinfo.gov/link/statute/134/492).)*

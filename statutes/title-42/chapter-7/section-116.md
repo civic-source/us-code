@@ -3,9 +3,10 @@ title: "Section 116 - Medicare Prescription Drug Account in the Federal Suppleme
 usc_title: 42
 usc_section: "116"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 116"
-generated_at: "2026-03-30T02:56:10.989Z"
+generated_at: "2026-11-23T21:26:31.589Z"
+status: "active"
 ---
 
 # § 1395w–116. Medicare Prescription Drug Account in the Federal Supplementary Medical Insurance Trust Fund
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:10.989Z"
   - **(3)** There are authorized to be appropriated from time to time, out of any moneys in the Treasury not otherwise appropriated, to the Account, an amount equivalent to the amount of payments made from the Account under subsection (b) plus such amounts as the Managing Trustee certifies is necessary to maintain an appropriate contingency margin, reduced by the amounts deposited under paragraph (1) or subsection (a)(2).
   - **(4)** In order to assure prompt payment of benefits provided under this part and the administrative expenses thereunder during the early months of the program established by this part and to provide an initial contingency reserve, there are authorized to be appropriated to the Account, out of any moneys in the Treasury not otherwise appropriated, such amount as the Secretary certifies are required, but not to exceed 10 percent of the estimated total expenditures from such Account in 2006.
   - **(5)** Any balance in the Transitional Assistance Account that is transferred under section 1395w–141(k)(5) of this title shall be deposited into the Account.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1860D–16, as added [Pub. L. 108–173, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2120](https://www.govinfo.gov/link/statute/117/2120); amended [Pub. L. 117–169, title I, § 11201(c)(3)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1888](https://www.govinfo.gov/link/statute/136/1888).)*

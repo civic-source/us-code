@@ -3,9 +3,10 @@ title: "Section 3101 - Congressional statement of purpose"
 usc_title: 16
 usc_section: "3101"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3101"
-generated_at: "2026-03-30T02:54:23.008Z"
+generated_at: "2026-11-23T21:25:51.958Z"
+status: "active"
 ---
 
 # § 3101. Congressional statement of purpose
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:23.008Z"
 - **(b)** It is the intent of Congress in this Act to preserve unrivaled scenic and geological values associated with natural landscapes; to provide for the maintenance of sound populations of, and habitat for, wildlife species of inestimable value to the citizens of Alaska and the Nation, including those species dependent on vast relatively undeveloped areas; to preserve in their natural state extensive unaltered arctic tundra, boreal forest, and coastal rainforest ecosystems; to protect the resources related to subsistence needs; to protect and preserve historic and archeological sites, rivers, and lands, and to preserve wilderness resource values and related recreational opportunities including but not limited to hiking, canoeing, fishing, and sport hunting, within large arctic and subarctic wildlands and on freeflowing rivers; and to maintain opportunities for scientific research and undisturbed ecosystems.
 - **(c)** It is further the intent and purpose of this Act consistent with management of fish and wildlife in accordance with recognized scientific principles and the purposes for which each conservation system unit is established, designated, or expanded by or pursuant to this Act, to provide the opportunity for rural residents engaged in a subsistence way of life to continue to do so.
 - **(d)** This Act provides sufficient protection for the national interest in the scenic, natural, cultural and environmental values on the public lands in Alaska, and at the same time provides adequate opportunity for satisfaction of the economic and social needs of the State of Alaska and its people; accordingly, the designation and disposition of the public lands in Alaska pursuant to this Act are found to represent a proper balance between the reservation of national conservation system units and those public lands necessary and appropriate for more intensive use and disposition, and thus Congress believes that the need for future legislation designating new conservation system units, new national conservation areas, or new national recreation areas, has been obviated thereby.
+
+## Source Credit
+
+*([Pub. L. 96–487, title I, § 101](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2374](https://www.govinfo.gov/link/statute/94/2374).)*

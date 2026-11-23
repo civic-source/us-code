@@ -3,9 +3,10 @@ title: "Section 579g - Annual reports"
 usc_title: 33
 usc_section: "579g"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 579g"
-generated_at: "2026-03-30T02:55:41.063Z"
+generated_at: "2026-11-23T21:26:11.319Z"
+status: "active"
 ---
 
 # § 579g. Annual reports
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:41.063Z"
   - **(5)** In this subsection, the term “covered report”—
     - **(A)** means any report or study required to be submitted by the Secretary under this Act or any Act providing authorizations for water resources development projects enacted after January 4, 2025 , to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate that has not been so submitted; and
     - **(B)** does not include a feasibility study (as such term is defined in section 2215(d) of this title ).
+
+## Source Credit
+
+*([Pub. L. 118–272, div. A, title I, § 1150(b)](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3041](https://www.govinfo.gov/link/statute/138/3041).)*

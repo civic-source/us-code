@@ -3,9 +3,10 @@ title: "Section 42 - Authority to assess and use human generic drug fees"
 usc_title: 21
 usc_section: "42"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 42"
-generated_at: "2026-03-30T02:54:54.271Z"
+generated_at: "2026-11-23T21:25:56.154Z"
+status: "active"
 ---
 
 # § 379j–42. Authority to assess and use human generic drug fees
@@ -188,3 +189,23 @@ generated_at: "2026-03-30T02:54:54.271Z"
     - **(A)** all approved abbreviated new drug applications owned by such person; and
     - **(B)** if any affiliate of such person also owns an abbreviated new drug application, all affiliates that own any such abbreviated new drug application and all approved abbreviated new drug applications owned by any such affiliate.
   - **(2)** The Secretary shall specify in guidance the format and method for submission of lists under this subsection.
+
+(aa) the total number of abbreviated new drug applications submitted was greater than or equal to 2,000; or
+
+(bb) thirty-five percent or more of abbreviated new drug applications submitted related to complex products (as that term is defined in section XI of the letters described in section 3001(b) of the Generic Drug User Fee Amendments of 2022);
+
+(aa) the total number of abbreviated new drug applications submitted was greater than or equal to 2,300; or
+
+(bb) thirty-five percent or more of abbreviated new drug applications submitted related to complex products (as so defined);
+
+(aa) the total number of abbreviated new drug applications submitted was greater than or equal to 2,300; or
+
+(bb) thirty-five percent or more of abbreviated new drug applications submitted related to complex products (as so defined); and
+
+(aa) the total number of abbreviated new drug applications submitted was greater than or equal to 2,300; or
+
+(bb) thirty-five percent or more of abbreviated new drug applications submitted related to complex products (as so defined).
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 744B, as added [Pub. L. 112–144, title III, § 302](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 1011](https://www.govinfo.gov/link/statute/126/1011); amended [Pub. L. 112–193, § 2(b)(2)](https://www.govinfo.gov/link/plaw/112/public/193), (3), Oct. 5, 2012, [126 Stat. 1443](https://www.govinfo.gov/link/statute/126/1443); [Pub. L. 115–52, title III, § 303](https://www.govinfo.gov/link/plaw/115/public/52), title IX, § 905(b)(3), Aug. 18, 2017, [131 Stat. 1021](https://www.govinfo.gov/link/statute/131/1021), 1090; [Pub. L. 117–180, div. F, title III, § 3002](https://www.govinfo.gov/link/plaw/117/public/180), Sept. 30, 2022, [136 Stat. 2155](https://www.govinfo.gov/link/statute/136/2155); [Pub. L. 117–328, div. FF, title III, § 3625(c)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5881](https://www.govinfo.gov/link/statute/136/5881).)*

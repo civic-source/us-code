@@ -3,9 +3,10 @@ title: "Section 761 - Terms defined"
 usc_title: 26
 usc_section: "761"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 761"
-generated_at: "2026-03-30T02:55:27.728Z"
+generated_at: "2026-11-23T21:26:06.380Z"
+status: "active"
 ---
 
 # § 761. Terms defined
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:27.728Z"
     - **(B)** both spouses materially participate (within the meaning of section 469(h) without regard to paragraph (5) thereof) in such trade or business, and
     - **(C)** both spouses elect the application of this subsection.
 - **(g)** For rules in the case of the sale, exchange, liquidation, or reduction of a partner’s interest, see sections 704(b) and 706(c)(2).
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 252; [Pub. L. 94–455, title II, § 213(c)(3)(B)](https://www.govinfo.gov/link/plaw/94/public/455), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1548](https://www.govinfo.gov/link/statute/90/1548), 1834; [Pub. L. 96–222, title I, § 102(a)(2)(C)](https://www.govinfo.gov/link/plaw/96/public/222), Apr. 1, 1980, [94 Stat. 208](https://www.govinfo.gov/link/statute/94/208); [Pub. L. 98–369, div. A, title I, § 75(b)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 594](https://www.govinfo.gov/link/statute/98/594); [Pub. L. 99–514, title XVIII, § 1805(c)(2)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2810](https://www.govinfo.gov/link/statute/100/2810); [Pub. L. 110–28, title VIII, § 8215(a)](https://www.govinfo.gov/link/plaw/110/public/28), May 25, 2007, [121 Stat. 193](https://www.govinfo.gov/link/statute/121/193); [Pub. L. 114–74, title XI, § 1102(a)](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 638](https://www.govinfo.gov/link/statute/129/638).)*

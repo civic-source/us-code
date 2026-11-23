@@ -3,9 +3,10 @@ title: "Section 1154 - Procedure for granting immigrant status"
 usc_title: 8
 usc_section: "1154"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1154"
-generated_at: "2026-03-30T02:53:10.475Z"
+generated_at: "2026-11-23T21:25:25.124Z"
+status: "active"
 ---
 
 # § 1154. Procedure for granting immigrant status
@@ -125,3 +126,47 @@ generated_at: "2026-03-30T02:53:10.475Z"
     - **(E)** an alien admitted in “T” nonimmigrant status as described in section 1101(a)(15)(T)(ii) of this title or in “U” nonimmigrant status as described in section 1101(a)(15)(U)(ii) of this title ;
     - **(F)** a child of an alien who filed a pending or approved petition for classification or application for adjustment of status or other benefit specified in section 1101(a)(51) of this title as a VAWA self-petitioner; or
     - **(G)** an asylee (as described in section 1158(b)(3) of this title ).
+
+(aa) the marriage or the intent to marry the United States citizen was entered into in good faith by the alien; and
+
+(bb) during the marriage or relationship intended by the alien to be legally a marriage, the alien or a child of the alien has been battered or has been the subject of extreme cruelty perpetrated by the alien’s spouse or intended spouse.
+
+(aa) (AA) who is the spouse of a citizen of the United States; (BB) who believed that he or she had married a citizen of the United States and with whom a marriage ceremony was actually performed and who otherwise meets any applicable requirements under this chapter to establish the existence of and bona fides of a marriage, but whose marriage is not legitimate solely because of the bigamy of such citizen of the United States; or (CC) who was a bona fide spouse of a United States citizen within the past 2 years and— (aaa) whose spouse died within the past 2 years; (bbb) whose spouse lost or renounced citizenship status within the past 2 years related to an incident of domestic violence; or (ccc) who demonstrates a connection between the legal termination of the marriage within the past 2 years and battering or extreme cruelty by the United States citizen spouse;
+
+(bb) who is a person of good moral character;
+
+(cc) who is eligible to be classified as an immediate relative under section 1151(b)(2)(A)(i) of this title or who would have been so classified but for the bigamy of the citizen of the United States that the alien intended to marry; and
+
+(dd) who has resided with the alien’s spouse or intended spouse.
+
+(aa) is an employee of the United States Government;
+
+(bb) is a member of the uniformed services (as defined in section 101(a) of title 10 ); or
+
+(cc) has subjected the alien or the alien’s child to battery or extreme cruelty in the United States; and
+
+(aa) the marriage or the intent to marry the lawful permanent resident was entered into in good faith by the alien; and
+
+(bb) during the marriage or relationship intended by the alien to be legally a marriage, the alien or a child of the alien has been battered or has been the subject of extreme cruelty perpetrated by the alien’s spouse or intended spouse.
+
+(aa) (AA) who is the spouse of a lawful permanent resident of the United States; or (BB) who believed that he or she had married a lawful permanent resident of the United States and with whom a marriage ceremony was actually performed and who otherwise meets any applicable requirements under this chapter to establish the existence of and bona fides of a marriage, but whose marriage is not legitimate solely because of the bigamy of such lawful permanent resident of the United States; or (CC) who was a bona fide spouse of a lawful permanent resident within the past 2 years and— (aaa) whose spouse lost status within the past 2 years due to an incident of domestic violence; or (bbb) who demonstrates a connection between the legal termination of the marriage within the past 2 years and battering or extreme cruelty by the lawful permanent resident spouse;
+
+(bb) who is a person of good moral character;
+
+(cc) who is eligible to be classified as a spouse of an alien lawfully admitted for permanent residence under section 1153(a)(2)(A) of this title or who would have been so classified but for the bigamy of the lawful permanent resident of the United States that the alien intended to marry; and
+
+(dd) who has resided with the alien’s spouse or intended spouse.
+
+(aa) is an employee of the United States Government;
+
+(bb) is a member of the uniformed services (as defined in section 101(a) of title 10 ); or
+
+(cc) has subjected the alien or the alien’s child to battery or extreme cruelty in the United States; and
+
+In general
+
+Applicability to petitions
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 1, § 204, [66 Stat. 179](https://www.govinfo.gov/link/statute/66/179); [Pub. L. 87–885, § 3](https://www.govinfo.gov/link/plaw/87/public/885), Oct. 24, 1962, [76 Stat. 1247](https://www.govinfo.gov/link/statute/76/1247); [Pub. L. 89–236, § 4](https://www.govinfo.gov/link/plaw/89/public/236), Oct. 3, 1965, [79 Stat. 915](https://www.govinfo.gov/link/statute/79/915); [Pub. L. 94–571, § 7(b)](https://www.govinfo.gov/link/plaw/94/public/571), Oct. 20, 1976, [90 Stat. 2706](https://www.govinfo.gov/link/statute/90/2706); [Pub. L. 95–417](https://www.govinfo.gov/link/plaw/95/public/417), §§ 2, 3, Oct. 5, 1978, [92 Stat. 917](https://www.govinfo.gov/link/statute/92/917); [Pub. L. 96–470, title II, § 207](https://www.govinfo.gov/link/plaw/96/public/470), Oct. 19, 1980, [94 Stat. 2245](https://www.govinfo.gov/link/statute/94/2245); [Pub. L. 97–116](https://www.govinfo.gov/link/plaw/97/public/116), §§ 3, 18(d), Dec. 29, 1981, [95 Stat. 1611](https://www.govinfo.gov/link/statute/95/1611), 1620; [Pub. L. 97–359](https://www.govinfo.gov/link/plaw/97/public/359), Oct. 22, 1982, [96 Stat. 1716](https://www.govinfo.gov/link/statute/96/1716); [Pub. L. 99–639](https://www.govinfo.gov/link/plaw/99/public/639), §§ 2(c), 4(a), 5(b), Nov. 10, 1986, [100 Stat. 3541](https://www.govinfo.gov/link/statute/100/3541), 3543; [Pub. L. 100–525, § 9(g)](https://www.govinfo.gov/link/plaw/100/public/525), Oct. 24, 1988, [102 Stat. 2620](https://www.govinfo.gov/link/statute/102/2620); [Pub. L. 101–649, title I, § 162(b)](https://www.govinfo.gov/link/plaw/101/public/649), title VII, § 702(b), Nov. 29, 1990, [104 Stat. 5010](https://www.govinfo.gov/link/statute/104/5010), 5086; [Pub. L. 102–232, title III](https://www.govinfo.gov/link/plaw/102/public/232), §§ 302(e)(4), (5), 308(b), 309(b)(5), Dec. 12, 1991, [105 Stat. 1745](https://www.govinfo.gov/link/statute/105/1745), 1746, 1757, 1758; [Pub. L. 103–322, title IV, § 40701(a)](https://www.govinfo.gov/link/plaw/103/public/322), (b)(1), (c), Sept. 13, 1994, [108 Stat. 1953](https://www.govinfo.gov/link/statute/108/1953), 1954; [Pub. L. 103–416, title II, § 219(b)(2)](https://www.govinfo.gov/link/plaw/103/public/416), Oct. 25, 1994, [108 Stat. 4316](https://www.govinfo.gov/link/statute/108/4316); [Pub. L. 104–208, div. C, title III, § 308(e)(1)(A)](https://www.govinfo.gov/link/plaw/104/public/208), (f)(2)(A), title VI, § 624(b), Sept. 30, 1996, [110 Stat. 3009–619](https://www.govinfo.gov/link/statute/110/3009), 3009–621, 3009–699; [Pub. L. 106–279, title III, § 302(b)](https://www.govinfo.gov/link/plaw/106/public/279), Oct. 6, 2000, [114 Stat. 839](https://www.govinfo.gov/link/statute/114/839); [Pub. L. 106–313, title I, § 106(c)(1)](https://www.govinfo.gov/link/plaw/106/public/313), Oct. 17, 2000, [114 Stat. 1254](https://www.govinfo.gov/link/statute/114/1254); [Pub. L. 106–386, div. B, title V](https://www.govinfo.gov/link/plaw/106/public/386), §§ 1503(b)–(d), 1507(a)(1), (2), (b), Oct. 28, 2000, [114 Stat. 1518–1521](https://www.govinfo.gov/link/statute/114/1518), 1529, 1530; [Pub. L. 107–208](https://www.govinfo.gov/link/plaw/107/public/208), §§ 6, 7, Aug. 6, 2002, [116 Stat. 929](https://www.govinfo.gov/link/statute/116/929); [Pub. L. 109–162, title VIII](https://www.govinfo.gov/link/plaw/109/public/162), §§ 805(a),(c), 814(b),(e), 816, Jan. 5, 2006, [119 Stat. 3056](https://www.govinfo.gov/link/statute/119/3056), 3059, 3060; [Pub. L. 109–248, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 622](https://www.govinfo.gov/link/statute/120/622); [Pub. L. 109–271, § 6(a)](https://www.govinfo.gov/link/plaw/109/public/271), Aug. 12, 2006, [120 Stat. 762](https://www.govinfo.gov/link/statute/120/762); [Pub. L. 111–83, title V, § 568(d)(1)](https://www.govinfo.gov/link/plaw/111/public/83), Oct. 28, 2009, [123 Stat. 2187](https://www.govinfo.gov/link/statute/123/2187); [Pub. L. 113–4, title VIII, § 803](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 111](https://www.govinfo.gov/link/statute/127/111); [Pub. L. 113–6, div. D, title V, § 563](https://www.govinfo.gov/link/plaw/113/public/6), Mar. 26, 2013, [127 Stat. 380](https://www.govinfo.gov/link/statute/127/380); [Pub. L. 117–103, div. BB, § 105(a)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 1103](https://www.govinfo.gov/link/statute/136/1103).)*

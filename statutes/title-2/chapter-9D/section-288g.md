@@ -3,9 +3,10 @@ title: "Section 288g - Advisory and other functions"
 usc_title: 2
 usc_section: "288g"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 288g"
-generated_at: "2026-03-30T02:53:04.795Z"
+generated_at: "2026-11-23T21:25:21.155Z"
+status: "active"
 ---
 
 # § 288g. Advisory and other functions
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:04.795Z"
   - **(6)** any committee or subcommittee of the Senate in promulgating and revising their rules and procedures for the use of congressional investigative powers and with respect to questions which may arise in the course of any investigation.
 - **(b)** The Counsel shall compile and maintain legal research files of materials from court proceedings which have involved Congress, a House of Congress, an office or agency of Congress, or any committee, subcommittee, Member, officer, or employee of Congress. Public court papers and other research memoranda which do not contain information of a confidential or privileged nature shall be made available to the public consistent with any applicable procedures set forth in such rules of the Senate as may apply and the interests of the Senate.
 - **(c)** The Counsel shall perform such other duties consistent with the purposes and limitations of this chapter as the Senate may direct.
+
+## Source Credit
+
+*([Pub. L. 95–521, title VII, § 708](https://www.govinfo.gov/link/plaw/95/public/521), Oct. 26, 1978, [92 Stat. 1880](https://www.govinfo.gov/link/statute/92/1880); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

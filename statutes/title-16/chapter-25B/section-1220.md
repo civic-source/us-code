@@ -3,9 +3,10 @@ title: "Section 1220 - State applications for obsolete ships for use as offshore
 usc_title: 16
 usc_section: "1220"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1220"
-generated_at: "2026-03-30T02:54:22.944Z"
+generated_at: "2026-11-23T21:25:51.837Z"
+status: "active"
 ---
 
 # § 1220. State applications for obsolete ships for use as offshore reefs
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:22.944Z"
 - **(b)** A State shall apply for obsolete ships under this chapter in such manner and form as the Secretary shall prescribe, but such application shall include at least (1) the location at which the State proposes to sink the ships, (2) a certificate from the Administrator, Environmental Protection Agency, that the proposed use of the particular vessel or vessels requested by the State will be compatible with water quality standards and other appropriate environmental protection requirements, and (3) statements and estimates with respect to the conservation goals which are sought to be achieved by use of the ships.
 - **(c)** Before taking any action with respect to an application submitted under this chapter, the Secretary shall provide copies of the application to the Secretary of the Interior, the Secretary of Defense, and any other appropriate Federal officer, and shall consider comments and views of such officers with respect to the application.
 - **(d)** Any territory, possession, or Commonwealth of the United States, and any foreign country, may apply to the Secretary for an obsolete vessel to be used for an artificial reef under this section. The application process and reefing of any such obsolete vessel shall be performed in a manner consistent with the process jointly developed by the Secretary of Transportation and the Administrator of the Environmental Protection Agency under section 3504(b) of Public Law 107–314 ( 16 U.S.C. 1220 note).
+
+## Source Credit
+
+*([Pub. L. 92–402, § 3](https://www.govinfo.gov/link/plaw/92/public/402), Aug. 22, 1972, [86 Stat. 618](https://www.govinfo.gov/link/statute/86/618); [Pub. L. 98–623, title II, § 207(1)](https://www.govinfo.gov/link/plaw/98/public/623), (2), Nov. 8, 1984, [98 Stat. 3397](https://www.govinfo.gov/link/statute/98/3397); [Pub. L. 111–84, div. C, title XXXV, § 3513(a)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2724](https://www.govinfo.gov/link/statute/123/2724).)*

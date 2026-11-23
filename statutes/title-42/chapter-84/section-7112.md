@@ -3,9 +3,10 @@ title: "Section 7112 - Congressional declaration of purpose"
 usc_title: 42
 usc_section: "7112"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7112"
-generated_at: "2026-03-30T02:56:11.282Z"
+generated_at: "2026-11-23T21:26:33.043Z"
+status: "active"
 ---
 
 # § 7112. Congressional declaration of purpose
@@ -35,3 +36,7 @@ The Congress therefore declares that the establishment of a Department of Energy
   - **(17)** To foster insofar as possible the continued good health of the Nation’s small business firms, public utility districts, municipal utilities, and private cooperatives involved in energy production, transportation, research, development, demonstration, marketing, and merchandising.
   - **(18)** To provide for the administration of the functions of the Energy Research and Development Administration related to nuclear weapons and national security which are transferred to the Department by this chapter.
   - **(19)** To ensure that the Department can continue current support of mathematics, science, and engineering education programs by using the personnel, facilities, equipment, and resources of its laboratories and by working with State and local education agencies, institutions of higher education, and business and industry. The Department’s involvement in mathematics, science, and engineering education should be consistent with its main mission and should be coordinated with all Federal efforts in mathematics, science, and engineering education, especially with the Department of Education and the National Science Foundation (which have the primary Federal responsibility for mathematics, science, and engineering education).
+
+## Source Credit
+
+*([Pub. L. 95–91, title I, § 102](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 567](https://www.govinfo.gov/link/statute/91/567); [Pub. L. 101–510, div. C, title XXXI, § 3163](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1841](https://www.govinfo.gov/link/statute/104/1841).)*

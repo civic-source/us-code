@@ -3,9 +3,10 @@ title: "Section 2705 - Identification and dissemination of best practices"
 usc_title: 29
 usc_section: "2705"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 2705"
-generated_at: "2026-03-30T02:55:18.746Z"
+generated_at: "2026-11-23T21:26:02.318Z"
+status: "active"
 ---
 
 # § 2705. Identification and dissemination of best practices
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:18.746Z"
     - **(B)** criteria for assessment of current workplace practices; and
     - **(C)** information on the best available education and training materials and services relating to the development, implementation, and operation of systems utilizing new and advanced workplace technologies, and advanced workplace practices.
 - **(b)** The information and materials developed under this section shall be distributed through an appropriate entity designated by the Secretary of Commerce to the Regional Centers for the Transfer of Manufacturing Technology, to the Manufacturing Outreach Center, to other technology training entities, and directly to others as determined appropriate by the Secretary of Labor and the Secretary of Commerce.
+
+## Source Credit
+
+*([Pub. L. 103–382, title V, § 546](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 4055](https://www.govinfo.gov/link/statute/108/4055).)*

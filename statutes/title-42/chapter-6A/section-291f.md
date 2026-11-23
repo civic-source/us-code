@@ -3,9 +3,10 @@ title: "Section 291f - Payments for construction or modernization"
 usc_title: 42
 usc_section: "291f"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 291f"
-generated_at: "2026-03-30T02:56:10.771Z"
+generated_at: "2026-11-23T21:26:30.608Z"
+status: "active"
 ---
 
 # § 291f. Payments for construction or modernization
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:10.771Z"
 - **(c)**
   - **(1)** At the request of any State, a portion of any allotment or allotments of such State under this part shall be available to pay one-half (or such smaller share as the State may request) of the expenditures found necessary by the Surgeon General for the proper and efficient administration during such year of the State plan approved under this part; except that not more than 4 per centum of the total of the allotments of such State for a year, or $100,000, whichever is less, shall be available for such purpose for such year. Payments of amounts due under this paragraph may be made in advance or by way of reimbursement, and in such installments, as the Surgeon General may determine.
   - **(2)** Any amount paid under paragraph (1) of this subsection to any State for any fiscal year shall be paid on condition that there shall be expended from State sources for such year for administration of the State plan approved under this part not less than the total amount expended for such purposes from such sources during the fiscal year ending June 30, 1970 .
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VI, § 606, as added [Pub. L. 88–443, § 3(a)](https://www.govinfo.gov/link/plaw/88/public/443), Aug. 18, 1964, [78 Stat. 454](https://www.govinfo.gov/link/statute/78/454); amended [Pub. L. 91–296, title I, § 112](https://www.govinfo.gov/link/plaw/91/public/296), June 30, 1970, [84 Stat. 340](https://www.govinfo.gov/link/statute/84/340).)*

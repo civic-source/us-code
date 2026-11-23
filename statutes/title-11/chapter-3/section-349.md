@@ -3,9 +3,10 @@ title: "Section 349 - Effect of dismissal"
 usc_title: 11
 usc_section: "349"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 349"
-generated_at: "2026-03-30T02:53:53.874Z"
+generated_at: "2026-11-23T21:25:34.898Z"
+status: "active"
 ---
 
 # § 349. Effect of dismissal
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.874Z"
     - **(C)** any lien voided under section 506(d) of this title ;
   - **(2)** vacates any order, judgment, or transfer ordered, under section 522(i)(1), 542, 550, or 553 of this title; and
   - **(3)** revests the property of the estate in the entity in which such property was vested immediately before the commencement of the case under this title.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2569](https://www.govinfo.gov/link/statute/92/2569); [Pub. L. 98–353, title III, § 303](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 352](https://www.govinfo.gov/link/statute/98/352); [Pub. L. 103–394, title V, § 501(d)(6)](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4144](https://www.govinfo.gov/link/statute/108/4144).)*

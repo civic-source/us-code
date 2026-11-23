@@ -3,12 +3,25 @@ title: "Section 715j - “President” as including agencies, officers and emplo
 usc_title: 15
 usc_section: "715j"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 715j"
-generated_at: "2026-03-30T02:54:08.117Z"
+generated_at: "2026-11-23T21:25:39.744Z"
+status: "active"
 ---
 
 # § 715j. “President” as including agencies, officers and employees
 
 Wherever reference is made in this chapter to the President such reference shall be held to include, in addition to the President, any agency, officer, or employee who may be designated by the President for the execution of any of the powers and functions vested in the President under this chapter.
 
+
+Section
+
+Sec
+
+Sec
+
+Dwight D. Eisenhower.
+
+## Source Credit
+
+*(Feb. 22, 1935, ch. 18, § 11, [49 Stat. 33](https://www.govinfo.gov/link/statute/49/33).)*

@@ -3,9 +3,10 @@ title: "Section 1103 - Goals and objectives"
 usc_title: 45
 usc_section: "1103"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 1103"
-generated_at: "2026-03-30T02:55:56.559Z"
+generated_at: "2026-11-23T21:26:19.237Z"
+status: "active"
 ---
 
 # § 1103. Goals and objectives
@@ -22,3 +23,7 @@ It is the goal of this subtitle to provide Conrail the opportunity to become pro
     - **(B)** Agreements under this subparagraph may provide for reductions in wage increases and for changes in fringe benefits common to agreement employees, including vacations and holidays.
     - **(C)** The cost reductions required under this subparagraph in the first year of the agreement may be deferred, but the aggregate cost reductions should be no less than an average of $200,000,000 per year for each of the first three one-year periods beginning April 1, 1981 .
     - **(D)** The amount of cost reductions provided under this paragraph shall be calculated by subtracting the cost of an agreement entered into under this paragraph from (i) the cost that would otherwise result from the application of the national agreement reached by railroad industry and its employees, or (ii) until such national agreement is reached, the cost which the United States Railway Association estimates would result from the application of such a national agreement.
+
+## Source Credit
+
+*([Pub. L. 97–35, title XI, § 1134](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 645](https://www.govinfo.gov/link/statute/95/645).)*

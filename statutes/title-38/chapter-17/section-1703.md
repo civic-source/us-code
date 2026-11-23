@@ -3,9 +3,10 @@ title: "Section 1703 - Veterans Community Care Program"
 usc_title: 38
 usc_section: "1703"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1703"
-generated_at: "2026-03-30T02:55:53.480Z"
+generated_at: "2026-11-23T21:26:16.613Z"
+status: "active"
 ---
 
 # § 1703. Veterans Community Care Program
@@ -174,3 +175,249 @@ generated_at: "2026-03-30T02:55:53.480Z"
     - **(A)** the Committee on Veterans’ Affairs and the Committee on Appropriations of the Senate; and
     - **(B)** the Committee on Veterans’ Affairs and the Committee on Appropriations of the House of Representatives.
   - **(2)** The term “medical service line” means a clinic within a Department medical center.
+
+In General
+
+Covered Veterans
+
+Health Care Providers Specified
+
+Conditions Under Which Care Is Required To Be Furnished Through Non-Department Providers
+
+(aa) received care or services under this title in the year preceding the enactment of the Caring for Our Veterans Act of 2018; and
+
+(bb) is seeking care or services within 2 years of the date of the enactment of the Caring for Our Veterans Act of 2018;
+
+Conditions Under Which Care Is Authorized To Be Furnished Through Non-Department Providers
+
+Review of Decisions
+
+Tiered Network
+
+Contracts To Establish Networks of Health Care Providers
+
+Payment Rates for Care and Services
+
+Treatment of Other Health Plan Contracts
+
+Payment by Veteran
+
+Transplant Authority for Improved Access
+
+Monitoring of Care Provided
+
+Prohibition on Certain Limitations
+
+Outreach Regarding Availability of Care and Services
+
+Annual Review and Report on Waivers of Payment Rates
+
+Definitions
+
+“ Section 1703 of title 38 , United States Code, as amended by subsection (a), shall take effect on the later of—
+
+In general
+
+Updates.—
+
+Periodic
+
+First update
+
+Appropriate committees of congress defined
+
+In General
+
+Correction of Errors
+
+Period Specified
+
+Report
+
+Rule of Construction
+
+Covered Veteran Defined
+
+Establishment
+
+Report
+
+Definitions
+
+In General
+
+Locations
+
+Reports.—
+
+Initial report
+
+Final report
+
+Sunset
+
+Covered Dental Care Defined
+
+In General
+
+Briefing on Assessments
+
+In General
+
+Implementation
+
+Matters To Be Included
+
+Updates
+
+Appropriate congressional committees
+
+Covered veteran
+
+Pilot program
+
+Veterans community care program
+
+Pilot Program
+
+Expansion or Development of New Technology
+
+Competition
+
+Selection of Locations
+
+Duration of Pilot Program.—
+
+In general
+
+Extension
+
+Outreach
+
+In General
+
+Independent Validation and Verification.—
+
+In general
+
+Briefing
+
+Certification
+
+Third Party Administrator Defined
+
+Maternal mortality
+
+Postpartum
+
+Pregnancy-associated death
+
+Pregnancy-related death
+
+Racial and ethnic minority group
+
+Severe maternal morbidity
+
+Program on Maternity Care Coordination.—
+
+In general
+
+Training and support
+
+Authorization of Appropriations.—
+
+In general
+
+Supplement not supplant
+
+Definitions
+
+Community maternity care providers
+
+Non-department facilities
+
+Certification of Proper Administration of Non-Department Care.—
+
+Review.—
+
+In general
+
+Elements
+
+Submittal to congress
+
+Scheduling of Appointments.—
+
+Measurement of timeliness for each facility
+
+Submissions to congress.—
+
+In general
+
+Update
+
+Comptroller General Report.—
+
+Review
+
+Report
+
+In General
+
+Training Materials Provided
+
+Administration of Training Module
+
+Annual Report
+
+Definitions
+
+Community provider
+
+Preauthorized health care
+
+In general
+
+Modifications
+
+In General
+
+Geographic Distribution
+
+Report
+
+Authorization of Appropriations
+
+Pilot Program Required.—
+
+In general
+
+Commencement
+
+Duration
+
+Program locations
+
+Covered Veterans
+
+Covered Health Services
+
+Qualifying Non-Department Health Care Providers
+
+Election
+
+Provision of Services Through Contract
+
+Exchange of Medical Information
+
+Appointments
+
+Outreach
+
+Use of Existing Contracts
+
+Reports
+
+## Source Credit
+
+*(Added [Pub. L. 99–272, title XIX, § 19012(b)(1)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 380](https://www.govinfo.gov/link/statute/100/380), § 603; amended [Pub. L. 99–166, title I, § 102(b)(1)](https://www.govinfo.gov/link/plaw/99/public/166), Dec. 3, 1985, [99 Stat. 943](https://www.govinfo.gov/link/statute/99/943); [Pub. L. 99–272, title XIX, § 19012(c)(5)(A)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 382](https://www.govinfo.gov/link/statute/100/382); [Pub. L. 100–322, title I](https://www.govinfo.gov/link/plaw/100/public/322), §§ 101(e)(3), 104, 112(a), May 20, 1988, [102 Stat. 492](https://www.govinfo.gov/link/statute/102/492), 493, 499; [Pub. L. 100–687, div. B, title XV, § 1503(a)(1)](https://www.govinfo.gov/link/plaw/100/public/687), Nov. 18, 1988, [102 Stat. 4133](https://www.govinfo.gov/link/statute/102/4133); [Pub. L. 102–54, § 14(b)(9)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 283](https://www.govinfo.gov/link/statute/105/283); renumbered § 1703 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(a)(1), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 403–406](https://www.govinfo.gov/link/statute/105/403); [Pub. L. 102–585, title V, § 501](https://www.govinfo.gov/link/plaw/102/public/585), Nov. 4, 1992, [106 Stat. 4955](https://www.govinfo.gov/link/statute/106/4955); [Pub. L. 104–262, title I, § 104(b)](https://www.govinfo.gov/link/plaw/104/public/262), Oct. 9, 1996, [110 Stat. 3184](https://www.govinfo.gov/link/statute/110/3184); [Pub. L. 108–422, title VI, § 601](https://www.govinfo.gov/link/plaw/108/public/422), Nov. 30, 2004, [118 Stat. 2396](https://www.govinfo.gov/link/statute/118/2396); [Pub. L. 109–13, div. A, title VI, § 6080](https://www.govinfo.gov/link/plaw/109/public/13), May 11, 2005, [119 Stat. 302](https://www.govinfo.gov/link/statute/119/302); [Pub. L. 110–387, title VIII, § 802](https://www.govinfo.gov/link/plaw/110/public/387), Oct. 10, 2008, [122 Stat. 4141](https://www.govinfo.gov/link/statute/122/4141); [Pub. L. 112–37, § 10(a)](https://www.govinfo.gov/link/plaw/112/public/37), Oct. 5, 2011, [125 Stat. 396](https://www.govinfo.gov/link/statute/125/396); [Pub. L. 115–182, title I, § 101(a)(1)](https://www.govinfo.gov/link/plaw/115/public/182), June 6, 2018, [132 Stat. 1395](https://www.govinfo.gov/link/statute/132/1395); [Pub. L. 115–251, title II](https://www.govinfo.gov/link/plaw/115/public/251), §§ 201(a), 202, Sept. 29, 2018, [132 Stat. 3171](https://www.govinfo.gov/link/statute/132/3171), 3172; [Pub. L. 117–328, div. U, title I](https://www.govinfo.gov/link/plaw/117/public/328), §§ 121, 125(b), Dec. 29, 2022, [136 Stat. 5415](https://www.govinfo.gov/link/statute/136/5415), 5418; [Pub. L. 118–210, title I](https://www.govinfo.gov/link/plaw/118/public/210), §§ 102(a), 103(a), Jan. 2, 2025, [138 Stat. 2709](https://www.govinfo.gov/link/statute/138/2709), 2710.)*

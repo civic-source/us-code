@@ -3,9 +3,10 @@ title: "Section 3017 - Evaluation of programs"
 usc_title: 42
 usc_section: "3017"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3017"
-generated_at: "2026-03-30T02:56:11.172Z"
+generated_at: "2026-11-23T21:26:32.469Z"
+status: "active"
 ---
 
 # § 3017. Evaluation of programs
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.172Z"
 - **(f)** The Secretary shall take the necessary action to assure that all studies, evaluations, proposals, and data produced or developed with Federal funds shall become the property of the United States.
 - **(g)** Such information as the Secretary may deem necessary for purposes of the evaluations conducted under this section shall be made available to him, upon request, by the departments and agencies of the executive branch.
 - **(h)** From the total amount appropriated for each fiscal year to carry out subchapter III, the Secretary may use such sums as may be necessary, but not to exceed ½ of 1 percent of such amount, for purposes of conducting evaluations under this section, either directly or through grants or contracts. No part of such sums may be reprogrammed, transferred, or used for any other purpose. Funds expended under this subsection shall be justified and accounted for by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 89–73, title II, § 206](https://www.govinfo.gov/link/plaw/89/public/73), formerly § 207, as added [Pub. L. 93–29, title II, § 201(c)](https://www.govinfo.gov/link/plaw/93/public/29), May 3, 1973, [87 Stat. 35](https://www.govinfo.gov/link/statute/87/35); amended [Pub. L. 95–478, title I, § 102(g)](https://www.govinfo.gov/link/plaw/95/public/478), Oct. 18, 1978, [92 Stat. 1515](https://www.govinfo.gov/link/statute/92/1515); renumbered § 206 and amended [Pub. L. 97–115, § 2(e)(2)](https://www.govinfo.gov/link/plaw/97/public/115), (h), Dec. 29, 1981, [95 Stat. 1596](https://www.govinfo.gov/link/statute/95/1596); [Pub. L. 98–459, title II, § 206](https://www.govinfo.gov/link/plaw/98/public/459), Oct. 9, 1984, [98 Stat. 1770](https://www.govinfo.gov/link/statute/98/1770); [Pub. L. 100–175, title I, § 106(c)](https://www.govinfo.gov/link/plaw/100/public/175), Nov. 29, 1987, [101 Stat. 930](https://www.govinfo.gov/link/statute/101/930); [Pub. L. 102–375, title II, § 207](https://www.govinfo.gov/link/plaw/102/public/375), Sept. 30, 1992, [106 Stat. 1213](https://www.govinfo.gov/link/statute/106/1213); [Pub. L. 103–171](https://www.govinfo.gov/link/plaw/103/public/171), §§ 2(5), 3(a)(13), Dec. 2, 1993, [107 Stat. 1988](https://www.govinfo.gov/link/statute/107/1988), 1990; [Pub. L. 106–501, title II, § 203](https://www.govinfo.gov/link/plaw/106/public/501), Nov. 13, 2000, [114 Stat. 2234](https://www.govinfo.gov/link/statute/114/2234); [Pub. L. 109–365, title II, § 205](https://www.govinfo.gov/link/plaw/109/public/365), Oct. 17, 2006, [120 Stat. 2535](https://www.govinfo.gov/link/statute/120/2535); [Pub. L. 116–131, title I, § 127(b)](https://www.govinfo.gov/link/plaw/116/public/131), Mar. 25, 2020, [134 Stat. 253](https://www.govinfo.gov/link/statute/134/253).)*

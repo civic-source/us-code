@@ -3,9 +3,10 @@ title: "Section 4546 - Prohibition of public disclosure of proprietary informati
 usc_title: 12
 usc_section: "4546"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4546"
-generated_at: "2026-03-30T02:53:53.507Z"
+generated_at: "2026-11-23T21:25:37.187Z"
+status: "active"
 ---
 
 # § 4546. Prohibition of public disclosure of proprietary information
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:53.507Z"
 - **(d)** Subject to privacy considerations, as described in section 304(j) of the Home Mortgage Disclosure Act of 1975 ( 12 U.S.C. 2803(j) ), the Director shall, by regulation or order, provide that certain information relating to single family mortgage data of the enterprises shall be disclosed to the public, in order to make available to the public—
   - **(1)** the same data from the enterprises that is required of insured depository institutions under the Home Mortgage Disclosure Act of 1975 [ 12 U.S.C. 2801 et seq.]; and
   - **(2)** information collected by the Director under section 4544(b)(6) of this title .
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1326](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3955](https://www.govinfo.gov/link/statute/106/3955); [Pub. L. 110–289, div. A, title I](https://www.govinfo.gov/link/plaw/110/public/289), §§ 1122(a)(1), 1127, July 30, 2008, [122 Stat. 2689](https://www.govinfo.gov/link/statute/122/2689), 2695.)*

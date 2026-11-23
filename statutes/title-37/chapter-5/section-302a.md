@@ -3,9 +3,10 @@ title: "Section 302a - Special pay: optometrists"
 usc_title: 37
 usc_section: "302a"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 302a"
-generated_at: "2026-03-30T02:55:44.050Z"
+generated_at: "2026-11-23T21:26:14.181Z"
+status: "active"
 ---
 
 # § 302a. Special pay: optometrists
@@ -26,3 +27,11 @@ generated_at: "2026-03-30T02:55:44.050Z"
     - **(C)** is determined by the Secretary concerned to be qualified as an optometrist.
   - **(3)** An officer may not be paid retention special pay under paragraph (1) for any twelve-month period unless the officer first executes a written agreement under which the officer agrees to remain on active duty for a period of not less than one year beginning on the date the officer accepts the award of such special pay.
   - **(4)** The Secretary concerned may terminate at any time the eligibility of an officer to receive retention special pay under paragraph (1). An officer who does not complete the period for which the payment was made under paragraph (1) shall be subject to the repayment provisions of section 303a(e) of this title .
+
+Regular Special Pay
+
+Retention Special Pay
+
+## Source Credit
+
+*(Added [Pub. L. 92–129, title II, § 202(a)](https://www.govinfo.gov/link/plaw/92/public/129), Sept. 28, 1971, [85 Stat. 357](https://www.govinfo.gov/link/statute/85/357); amended [Pub. L. 93–64, title II, § 202](https://www.govinfo.gov/link/plaw/93/public/64), July 9, 1973, [87 Stat. 149](https://www.govinfo.gov/link/statute/87/149); [Pub. L. 95–114, § 2](https://www.govinfo.gov/link/plaw/95/public/114), Sept. 30, 1977, [91 Stat. 1046](https://www.govinfo.gov/link/statute/91/1046); [Pub. L. 95–485, title VIII, § 801(b)](https://www.govinfo.gov/link/plaw/95/public/485), Oct. 20, 1978, [92 Stat. 1619](https://www.govinfo.gov/link/statute/92/1619); [Pub. L. 96–284, § 4(a)](https://www.govinfo.gov/link/plaw/96/public/284), June 28, 1980, [94 Stat. 591](https://www.govinfo.gov/link/statute/94/591); [Pub. L. 100–26, § 8(d)(2)](https://www.govinfo.gov/link/plaw/100/public/26), Apr. 21, 1987, [101 Stat. 285](https://www.govinfo.gov/link/statute/101/285); [Pub. L. 101–510, div. A, title VI, § 617(a)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1578](https://www.govinfo.gov/link/statute/104/1578); [Pub. L. 104–201, div. A, title VI, § 614(a)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2544](https://www.govinfo.gov/link/statute/110/2544); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title VI, § 626(a)(1)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–153; [Pub. L. 107–314, div. A, title VI, § 615(d)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2568](https://www.govinfo.gov/link/statute/116/2568); [Pub. L. 109–163, div. A, title VI, § 687(b)(5)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3328](https://www.govinfo.gov/link/statute/119/3328).)*

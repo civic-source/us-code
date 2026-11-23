@@ -3,9 +3,10 @@ title: "Section 1 - Investigation requirement"
 usc_title: 33
 usc_section: "1"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1"
-generated_at: "2026-03-30T02:55:41.075Z"
+generated_at: "2026-11-23T21:26:11.347Z"
+status: "active"
 ---
 
 # § 894d–1. Investigation requirement
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:41.075Z"
   - **(1)** The Secretary of Commerce, acting through the Under Secretary for Oceans and Atmosphere, shall ensure that each allegation of sexual harassment reported under section 894 of this title and each allegation of sexual assault reported under section 894a of this title is investigated thoroughly and promptly.
   - **(2)** It is the sense of Congress that the Secretary should ensure that an investigation of alleged sexual harassment reported under section 894 of this title or sexual assault reported under section 894a of this title commences not later than 48 hours after the time at which the allegation was reported.
 - **(b)** In any case in which the time between the reporting of alleged sexual harassment or sexual assault under section 894 or 894a of this title, respectively, and commencement of an investigation of the allegation exceeds 48 hours, the Secretary shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives of the delay.
+
+## Source Credit
+
+*([Pub. L. 114–328, div. C, title XXXV, § 3546](https://www.govinfo.gov/link/plaw/114/public/328), as added [Pub. L. 116–259, title V, § 504(b)(2)](https://www.govinfo.gov/link/plaw/116/public/259), Dec. 23, 2020, [134 Stat. 1180](https://www.govinfo.gov/link/statute/134/1180).)*

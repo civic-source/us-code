@@ -3,9 +3,10 @@ title: "Section 991 - Management of deployments of members and measurement and d
 usc_title: 10
 usc_section: "991"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 991"
-generated_at: "2026-03-30T02:53:38.094Z"
+generated_at: "2026-11-23T21:25:32.371Z"
+status: "active"
 ---
 
 # § 991. Management of deployments of members and measurement and data collection of unit operating and personnel tempo
@@ -65,3 +66,29 @@ generated_at: "2026-03-30T02:53:38.094Z"
     - **(B)** The Secretary of Defense may modify the definition of dwell time specified in subparagraph (A). If the Secretary establishes a different definition of such term, the Secretary shall transmit the new definition to Congress.
   - **(2)** The term “operating tempo” means the rate at which units of the armed forces are involved in all military activities, including contingency operations, exercises, and training deployments.
   - **(3)** The term “personnel tempo” means the amount of time members of the armed forces are engaged in their official duties at a location or under circumstances that make it infeasible for a member to spend off-duty time in the housing in which the member resides.
+
+Management Responsibilities
+
+Deployment Defined
+
+Recordkeeping
+
+National Security Waiver Authority
+
+Inapplicability to Coast Guard
+
+Other Definitions
+
+Sense of Congress
+
+Operational Data
+
+Briefing
+
+Publication of Policy
+
+Dual-Military Family Defined
+
+## Source Credit
+
+*(Added [Pub. L. 106–65, div. A, title V, § 586(a)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 637](https://www.govinfo.gov/link/statute/113/637); amended [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title V, § 574(a), (b)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–136, 1654A–137; [Pub. L. 107–107, div. A, title V, § 515(a)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1093](https://www.govinfo.gov/link/statute/115/1093); [Pub. L. 108–136, div. A, title V, § 541(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1475](https://www.govinfo.gov/link/statute/117/1475); [Pub. L. 112–81, div. A, title V, § 522(a)](https://www.govinfo.gov/link/plaw/112/public/81) –(d)(1), Dec. 31, 2011, [125 Stat. 1399–1401](https://www.govinfo.gov/link/statute/125/1399); [Pub. L. 116–92, div. A, title V](https://www.govinfo.gov/link/plaw/116/public/92), §§ 506, 507(a), Dec. 20, 2019, [133 Stat. 1345](https://www.govinfo.gov/link/statute/133/1345); [Pub. L. 116–283, div. A, title X, § 1081(a)(21)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3871](https://www.govinfo.gov/link/statute/134/3871).)*

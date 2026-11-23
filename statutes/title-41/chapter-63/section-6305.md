@@ -3,9 +3,10 @@ title: "Section 6305 - Prohibition on transfer of contract and certain allowable
 usc_title: 41
 usc_section: "6305"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 6305"
-generated_at: "2026-03-30T02:55:55.810Z"
+generated_at: "2026-11-23T21:26:18.827Z"
+status: "active"
 ---
 
 # § 6305. Prohibition on transfer of contract and certain allowable assignments
@@ -32,3 +33,99 @@ generated_at: "2026-03-30T02:55:55.810Z"
       - **(iv)** on account of penalties; or
       - **(v)** on account of taxes, social security contributions, or the withholding or non-withholding of taxes or social security contributions, whether arising from or independently of the contract.
     - **(C)** Subparagraph (B)(iv) does not apply to amounts which may be collected or withheld from the assignor in accordance with or for failure to comply with the terms of the contract.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 6305(a) | 41:15(a). | R.S. § 3737; Oct. 9, 1940, ch. 779, § 1 , 54 Stat. 1029 ; May 15, 1951, ch. 75 , 65 Stat. 41 ; Pub. L. 103–355, title II, § 2451 , Oct. 13, 1994 , 108 Stat. 3324 ; Pub. L. 104–106, div. D, title XLIII, § 4321(i)(9) , Feb. 10, 1996 , 110 Stat. 676 . |
+| 6305(b)(1) | 41:15(b) (words before par. (1) less words related to minimum amount). |  |
+| 6305(b)(2) | 41:15(b) (words before par. (1) related to minimum amount). |  |
+| 6305(b)(3) | 41:15(b)(1). |  |
+| 6305(b)(4) | 41:15(b)(2) (related to full balance due). |  |
+| 6305(b)(5) | 41:15(b)(2) (related to single assignment). |  |
+| 6305(b)(6) | 41:15(b)(3). |  |
+| 6305(b)(7) | 41:15(c). |  |
+| 6305(b)(8) | 41:15(d). |  |
+| 6305(b)(9)(A) | 41:15(e). |  |
+| 6305(b)(9)(B) | 41:15(f) (less parenthetical phrase in par. (3)). |  |
+| 6305(b)(9)(C) | 41:15(f) (parenthetical phrase in par. (3)), (g). |  |
+
+
+General Prohibition on Transfer of Contracts
+
+Assignment.—
+
+In general
+
+Minimum amount
+
+Accord with contract terms
+
+Full balance due
+
+Single assignment
+
+Written notice
+
+Validity
+
+No refund to cover assignor’s liability
+
+Avoiding reduction or setoff with certain contracts.—
+
+Contract provision
+
+Carrying out contract provision
+
+Limitation
+
+Historical and Revision Notes
+
+6305(a)
+
+Oct. 9, 1940, ch. 779, § 1
+
+54 Stat. 1029
+
+May 15, 1951, ch. 75
+
+65 Stat. 41
+
+Pub. L. 103–355, title II, § 2451
+
+Oct. 13, 1994
+
+108 Stat. 3324
+
+Pub. L. 104–106, div. D, title XLIII, § 4321(i)(9)
+
+Feb. 10, 1996
+
+110 Stat. 676
+
+6305(b)(1)
+
+6305(b)(2)
+
+6305(b)(3)
+
+6305(b)(4)
+
+6305(b)(5)
+
+6305(b)(6)
+
+6305(b)(7)
+
+6305(b)(8)
+
+6305(b)(9)(A)
+
+6305(b)(9)(B)
+
+6305(b)(9)(C)
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3804](https://www.govinfo.gov/link/statute/124/3804).)*

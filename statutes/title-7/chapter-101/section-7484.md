@@ -3,9 +3,10 @@ title: "Section 7484 - Required terms in orders"
 usc_title: 7
 usc_section: "7484"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7484"
-generated_at: "2026-03-30T02:53:42.454Z"
+generated_at: "2026-11-23T21:25:28.432Z"
+status: "active"
 ---
 
 # § 7484. Required terms in orders
@@ -77,3 +78,7 @@ generated_at: "2026-03-30T02:53:42.454Z"
       - **(i)** the issuance of general statements based on the reports of a number of persons subject to an order or statistical data collected from the reports, if the statements do not identify the information provided by any person; or
       - **(ii)** the publication, by direction of the Secretary, of the name of a person violating the order, together with a statement of the particular provisions of the order violated by the person.
 - **(j)** The order shall contain such other terms and conditions, consistent with this subchapter, as are necessary to effectuate this subchapter, including regulations relating to the assessment of late payment charges.
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 575](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1077](https://www.govinfo.gov/link/statute/110/1077).)*

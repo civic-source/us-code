@@ -3,9 +3,10 @@ title: "Section 1455b - Protecting coastal waters"
 usc_title: 16
 usc_section: "1455b"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1455b"
-generated_at: "2026-03-30T02:54:22.971Z"
+generated_at: "2026-11-23T21:25:51.886Z"
+status: "active"
 ---
 
 # § 1455b. Protecting coastal waters
@@ -83,3 +84,7 @@ generated_at: "2026-03-30T02:54:22.971Z"
   - **(4)** the term “coastal management agency” means a State agency designated pursuant to section 306(d)(6) of the Coastal Zone Management Act of 1972 [ 16 U.S.C. 1455(d)(6) ];
   - **(5)** the term “land use” includes a use of waters adjacent to coastal waters; and
   - **(6)** the term “Secretary” means the Secretary of Commerce.
+
+## Source Credit
+
+*([Pub. L. 101–508, title VI, § 6217](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–314](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–587, title II, § 2205(b)(24)](https://www.govinfo.gov/link/plaw/102/public/587), Nov. 4, 1992, [106 Stat. 5052](https://www.govinfo.gov/link/statute/106/5052).)*

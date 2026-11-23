@@ -3,9 +3,10 @@ title: "Section 1936 - Beginning farmer or rancher and socially disadvantaged fa
 usc_title: 7
 usc_section: "1936"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1936"
-generated_at: "2026-03-30T02:53:42.348Z"
+generated_at: "2026-11-23T21:25:28.202Z"
+status: "active"
 ---
 
 # § 1936. Beginning farmer or rancher and socially disadvantaged farmer or rancher contract land sales program
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:42.348Z"
 - **(f)**
   - **(1)** The Secretary may phase-in the implementation of the changes to the Beginning Farmer and Rancher and Socially Disadvantaged Farmer or Rancher Contract Land Sales Program provided for in this section.
   - **(2)** All changes to the Beginning Farmer and Rancher and Socially Disadvantaged Farmer or Rancher Contract Land Sales Program must be implemented for the 2011 Fiscal Year.
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 310F](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 107–171, title V, § 5006](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 342](https://www.govinfo.gov/link/statute/116/342); amended [Pub. L. 110–234, title V, § 5005](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1145](https://www.govinfo.gov/link/statute/122/1145); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title V, § 5005, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1906.)*

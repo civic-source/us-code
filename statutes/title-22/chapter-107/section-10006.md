@@ -3,9 +3,10 @@ title: "Section 10006 - Support for accountability for war crimes, crimes agains
 usc_title: 22
 usc_section: "10006"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10006"
-generated_at: "2026-03-30T02:55:05.474Z"
+generated_at: "2026-11-23T21:25:58.792Z"
+status: "active"
 ---
 
 # § 10006. Support for accountability for war crimes, crimes against humanity, and genocide in Sudan
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.474Z"
   - **(4)** to protect witnesses who participate in court proceedings or other transitional justice mechanisms; and
   - **(5)** to support other related conflict mitigation programs and activities.
 - **(c)** Of the amounts authorized to be appropriated to carry out part I and chapter 4 of part II of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2151 et seq. and 2346 et seq.) for fiscal years 2021 and 2022, $10,000,000 is authorized to be appropriated for each such fiscal year to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. A, title XII, § 1267](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3971](https://www.govinfo.gov/link/statute/134/3971).)*

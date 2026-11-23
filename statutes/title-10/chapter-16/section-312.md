@@ -3,9 +3,10 @@ title: "Section 312 - Payment of personnel expenses necessary for theater securi
 usc_title: 10
 usc_section: "312"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 312"
-generated_at: "2026-03-30T02:53:38.052Z"
+generated_at: "2026-11-23T21:25:32.252Z"
+status: "active"
 ---
 
 # § 312. Payment of personnel expenses necessary for theater security cooperation
@@ -37,3 +38,39 @@ generated_at: "2026-03-30T02:53:38.052Z"
   - **(2)** The amount paid for expenses specified in subsection (b)(3) for any liaison officer in any fiscal year may not exceed $150,000.
 - **(f)** The Secretary of Defense shall prescribe regulations for the administration of this section. Such regulations shall be submitted to the Committees on Armed Services of the Senate and the House of Representatives.
 - **(g)** In this section, the term “administrative services and support” includes base or installation support services, office space, utilities, copying services, fire and police protection, training programs conducted to familiarize, orient, or certify liaison personnel regarding unique aspects of the assignments of the liaison personnel, and computer support.
+
+Authority
+
+Types of Expenses
+
+Personnel expenses
+
+Administrative services and support for liaison officers
+
+Travel, subsistence, and medical care for liaison officers
+
+Conferences, seminars, and similar meetings
+
+Other expenses
+
+Limitations on Expenses Payable.—
+
+Personnel from developing countries
+
+Non-defense liaison officers
+
+Reimbursement
+
+Monetary Limitations on Expenses Payable.—
+
+Travel and subsistence expenses generally
+
+Travel and related expenses of liaison officers
+
+Regulations
+
+Administrative Services and Support Defined
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title XII, § 1243(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2514](https://www.govinfo.gov/link/statute/130/2514); amended [Pub. L. 116–283, div. A, title IX, § 924(b)(11)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3823](https://www.govinfo.gov/link/statute/134/3823).)*

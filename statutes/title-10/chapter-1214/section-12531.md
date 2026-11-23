@@ -3,9 +3,10 @@ title: "Section 12531 - Purchase of insurance"
 usc_title: 10
 usc_section: "12531"
 chapter: 1214
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 12531"
-generated_at: "2026-03-30T02:53:38.270Z"
+generated_at: "2026-11-23T21:25:33.048Z"
+status: "active"
 ---
 
 # § 12531. Purchase of insurance
@@ -19,3 +20,17 @@ generated_at: "2026-03-30T02:53:38.270Z"
   - **(2)** For the purposes of carrying out this chapter, the Secretary may use the facilities and services of any insurance company issuing any policy for purposes of subsection (a), may designate one such company as the representative of the other companies for such purposes, and may contract to pay a reasonable fee to the designated company for its services.
 - **(d)** The Secretary shall arrange with each insurance company issuing any policy for purposes of subsection (a) to reinsure, under conditions approved by the Secretary, portions of the total amount of the insurance under such policy or policies with such other insurance companies (which meet qualifying criteria prescribed by the Secretary) as may elect to participate in such reinsurance.
 - **(e)** The Secretary may at any time terminate any policy purchased under this section.
+
+Purchase Authorized
+
+Eligible Insurers
+
+Administrative Provisions
+
+Reinsurance
+
+Termination
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title V, § 512(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 304](https://www.govinfo.gov/link/statute/110/304).)*

@@ -3,9 +3,10 @@ title: "Section 1479 - General powers of Secretary"
 usc_title: 42
 usc_section: "1479"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1479"
-generated_at: "2026-03-30T02:56:11.095Z"
+generated_at: "2026-11-23T21:26:32.055Z"
+status: "active"
 ---
 
 # § 1479. General powers of Secretary
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:56:11.095Z"
     - **(B)** is in the area of the United States within 150 miles of the border between the United States and Mexico, except that the term does not include any standard metropolitan statistical area that has a population exceeding 1,000,000;
     - **(C)** is determined to be a colonia on the basis of objective criteria, including lack of potable water supply, lack of adequate sewage systems, and lack of decent, safe, and sanitary housing; and
     - **(D)** was in existence as a colonia before November 28, 1990 .
+
+## Source Credit
+
+*(July 15, 1949, ch. 338, title V, § 509, [63 Stat. 436](https://www.govinfo.gov/link/statute/63/436); [Pub. L. 95–128, title V, § 504](https://www.govinfo.gov/link/plaw/95/public/128), Oct. 12, 1977, [91 Stat. 1139](https://www.govinfo.gov/link/statute/91/1139); [Pub. L. 96–153, title V, § 508](https://www.govinfo.gov/link/plaw/96/public/153), Dec. 21, 1979, [93 Stat. 1136](https://www.govinfo.gov/link/statute/93/1136); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title V, § 506(a)], Nov. 30, 1983, [97 Stat. 1242](https://www.govinfo.gov/link/statute/97/1242); [Pub. L. 101–625, title VII](https://www.govinfo.gov/link/plaw/101/public/625), §§ 708, 709(b), Nov. 28, 1990, [104 Stat. 4287](https://www.govinfo.gov/link/statute/104/4287), 4288; [Pub. L. 102–550, title VII, § 705](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3835](https://www.govinfo.gov/link/statute/106/3835); [Pub. L. 104–120, § 4(a)](https://www.govinfo.gov/link/plaw/104/public/120), Mar. 28, 1996, [110 Stat. 835](https://www.govinfo.gov/link/statute/110/835); [Pub. L. 104–180, title VII, § 734(b)](https://www.govinfo.gov/link/plaw/104/public/180), Aug. 6, 1996, [110 Stat. 1602](https://www.govinfo.gov/link/statute/110/1602); [Pub. L. 105–86, title VII, § 735(a)](https://www.govinfo.gov/link/plaw/105/public/86), Nov. 18, 1997, [111 Stat. 2110](https://www.govinfo.gov/link/statute/111/2110); [Pub. L. 105–276, title V, § 599C(a)](https://www.govinfo.gov/link/plaw/105/public/276), (e)(2)(B), Oct. 21, 1998, [112 Stat. 2661](https://www.govinfo.gov/link/statute/112/2661), 2662.)*

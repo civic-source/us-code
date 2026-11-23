@@ -3,9 +3,10 @@ title: "Section 9121 - Relief for airports"
 usc_title: 15
 usc_section: "9121"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9121"
-generated_at: "2026-03-30T02:54:08.245Z"
+generated_at: "2026-11-23T21:25:40.137Z"
+status: "active"
 ---
 
 # § 9121. Relief for airports
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:54:08.245Z"
   - **(2)** The term “eligible small airport concession” means a concession (as defined in section 23.3 of title 49, Code of Federal Regulations), that is in-terminal and—
     - **(A)** a small business with maximum gross receipts, averaged over the previous 3 fiscal years, of less than $56,420,000; or
     - **(B)** is a joint venture (as defined in section 23.3 of title 49, Code of Federal Regulations).
+
+## Source Credit
+
+*([Pub. L. 117–2, title VII, § 7102](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 96](https://www.govinfo.gov/link/statute/135/96).)*

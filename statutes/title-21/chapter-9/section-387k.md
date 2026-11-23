@@ -3,9 +3,10 @@ title: "Section 387k - Modified risk tobacco products"
 usc_title: 21
 usc_section: "387k"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 387k"
-generated_at: "2026-03-30T02:54:54.281Z"
+generated_at: "2026-11-23T21:25:56.187Z"
+status: "active"
 ---
 
 # § 387k. Modified risk tobacco products
@@ -102,3 +103,7 @@ generated_at: "2026-03-30T02:54:54.281Z"
   - **(3)** The regulations or guidance under paragraph (1) shall be revised on a regular basis as new scientific information becomes available.
   - **(4)** Not later than 2 years after June 22, 2009 , the Secretary shall issue a regulation or guidance that permits the filing of a single application for any tobacco product that is a new tobacco product under section 387j of this title and which the applicant seeks to commercially market under this section.
 - **(m)** Except as provided in this section, no distributor may take any action, after June 22, 2009 , with respect to a tobacco product that would reasonably be expected to result in consumers believing that the tobacco product or its smoke may present a lower risk of disease or is less harmful than one or more commercially marketed tobacco products, or presents a reduced exposure to, or does not contain or is free of, a substance or substances.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 911, as added [Pub. L. 111–31, div. A, title I, § 101(b)(3)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1812](https://www.govinfo.gov/link/statute/123/1812).)*

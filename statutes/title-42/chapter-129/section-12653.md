@@ -3,9 +3,10 @@ title: "Section 12653 - Additional Corporation activities to support national se
 usc_title: 42
 usc_section: "12653"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12653"
-generated_at: "2026-03-30T02:56:11.424Z"
+generated_at: "2026-11-23T21:26:33.523Z"
+status: "active"
 ---
 
 # § 12653. Additional Corporation activities to support national service
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:11.424Z"
   - **(1)** The Corporation may organize and carry out appropriate ceremonies and activities, which may include activities that are part of the broader Call to Service Campaign under subsection (j), in order to observe the September 11th National Day of Service and Remembrance at the Federal level.
   - **(2)** The Corporation may make grants and provide other support to community-based organizations to assist in planning and carrying out appropriate service, charity, and remembrance opportunities in conjunction with the September 11th National Day of Service and Remembrance.
   - **(3)** The Corporation may consult with and make grants or provide other forms of support to nonprofit organizations with expertise in representing families of victims of the September 11, 2001 terrorist attacks and other impacted constituencies, and in promoting the establishment of September 11 as an annually recognized National Day of Service and Remembrance.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 198](https://www.govinfo.gov/link/plaw/101/public/610), as added and amended [Pub. L. 103–82, title I, § 104(c)](https://www.govinfo.gov/link/plaw/103/public/82), title IV, § 405(p)(2), Sept. 21, 1993, [107 Stat. 840](https://www.govinfo.gov/link/statute/107/840), 922; [Pub. L. 103–304, § 3(a)](https://www.govinfo.gov/link/plaw/103/public/304), (b)(6), Aug. 23, 1994, [108 Stat. 1566](https://www.govinfo.gov/link/statute/108/1566), 1568; [Pub. L. 105–354, § 2(b)](https://www.govinfo.gov/link/plaw/105/public/354), Nov. 3, 1998, [112 Stat. 3244](https://www.govinfo.gov/link/statute/112/3244); [Pub. L. 111–13, title I, § 1802](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1552](https://www.govinfo.gov/link/statute/123/1552).)*

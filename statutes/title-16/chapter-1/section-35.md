@@ -3,9 +3,10 @@ title: "Section 35 - Powers of Commission"
 usc_title: 16
 usc_section: "35"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 35"
-generated_at: "2026-03-30T02:54:22.764Z"
+generated_at: "2026-11-23T21:25:51.442Z"
+status: "active"
 ---
 
 # § 410cc–35. Powers of Commission
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:22.764Z"
 - **(e)** The Commission may use its funds to obtain money from any source under any program or law requiring the recipient of such money to make a contribution in order to receive such money.
 - **(f)** The Commission may use the United States mails in the same manner and upon the same conditions as other departments and agencies of the United States.
 - **(g)** The Commission may obtain by purchase, rental, donation, or otherwise, such property, facilities, and services as may be needed to carry out its duties. Any acquisition of property by the Commission shall be in accordance with section 410cc–34 of this title : Provided, however , That the Commission may not acquire lands or interests therein pursuant to this subsection by condemnation. Upon the termination of the Commission, all property, personal and real, and unexpended funds shall be transferred to the Department of the Interior.
+
+## Source Credit
+
+*([Pub. L. 95–290, title III, § 305](https://www.govinfo.gov/link/plaw/95/public/290), June 5, 1978, [92 Stat. 302](https://www.govinfo.gov/link/statute/92/302).)*

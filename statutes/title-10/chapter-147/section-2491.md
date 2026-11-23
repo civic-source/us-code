@@ -3,9 +3,10 @@ title: "Section 2491 - Uniform funding and management of morale, welfare, and re
 usc_title: 10
 usc_section: "2491"
 chapter: 147
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2491"
-generated_at: "2026-03-30T02:53:38.161Z"
+generated_at: "2026-11-23T21:25:32.621Z"
+status: "active"
 ---
 
 # § 2491. Uniform funding and management of morale, welfare, and recreation programs
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:53:38.161Z"
   - **(2)** The status of an employee in a position identified by the Secretary under paragraph (1) may, with the consent of the employee, be converted to the status of an employee of a nonappropriated fund instrumentality. An employee who does not consent to the conversion may not be removed from the position because of the failure to provide such consent.
   - **(3)** The conversion of an employee from the status of an employee paid by appropriated funds to the status of an employee of a nonappropriated fund instrumentality shall be without a break in service for the concerned employee. The conversion shall not entitle an employee to severance pay, back pay or separation pay under subchapter IX of chapter 55 of title 5, or be considered an involuntary separation or other adverse personnel action entitling an employee to any right or benefit under such title or any other provision of law or regulation.
   - **(4)** In this subsection, the term “an employee of a nonappropriated fund instrumentality” means an employee described in section 2105(c) of title 5 .
+
+Authority for Uniform Funding and Management
+
+Conditions on Availability
+
+Conversion of Employment Positions
+
+## Source Credit
+
+*(Added [Pub. L. 107–314, div. A, title III, § 323(a)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2510](https://www.govinfo.gov/link/statute/116/2510), § 2494; renumbered § 2491, [Pub. L. 108–375, div. A, title VI, § 651(c)(2)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1972](https://www.govinfo.gov/link/statute/118/1972).)*

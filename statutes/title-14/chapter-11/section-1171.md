@@ -3,9 +3,10 @@ title: "Section 1171 - Definitions"
 usc_title: 14
 usc_section: "1171"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 1171"
-generated_at: "2026-03-30T02:53:51.493Z"
+generated_at: "2026-11-23T21:25:35.401Z"
+status: "active"
 ---
 
 # § 1171. Definitions
@@ -41,3 +42,29 @@ In this chapter:
   - **(11)** The term “operational test and evaluation” means—
     - **(A)** the testing of a capability or asset and the subsystems of the capability or asset, under conditions similar to those in which the capability or asset and subsystems will actually be deployed, for the purpose of determining the effectiveness and suitability of the capability or asset and subsystems for use by typical Coast Guard users to conduct those missions for which the capability or asset and subsystems are intended to be used; and
     - **(B)** the evaluation of the results of such testing.
+
+Appropriate congressional committees
+
+Chief acquisition officer
+
+Customer of a major acquisition program
+
+Level 1 acquisition
+
+Level 2 acquisition
+
+Life-cycle cost
+
+Major acquisition program
+
+Project or program manager defined
+
+Safety concern
+
+Developmental test and evaluation
+
+Operational test and evaluation
+
+## Source Credit
+
+*(Added [Pub. L. 111–281, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2948](https://www.govinfo.gov/link/statute/124/2948), § 581; amended [Pub. L. 114–120, title II, § 209(8)](https://www.govinfo.gov/link/plaw/114/public/120), Feb. 8, 2016, [130 Stat. 41](https://www.govinfo.gov/link/statute/130/41); [Pub. L. 114–328, div. A, title VIII, § 899(b)(1)(F)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2334](https://www.govinfo.gov/link/statute/130/2334); [Pub. L. 115–232, div. C, title XXXV, § 3531(c)(8)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2320](https://www.govinfo.gov/link/statute/132/2320); renumbered § 1171 and amended [Pub. L. 115–282, title I](https://www.govinfo.gov/link/plaw/115/public/282), §§ 108(b), 123(b)(2), Dec. 4, 2018, [132 Stat. 4208](https://www.govinfo.gov/link/statute/132/4208), 4240.)*

@@ -3,9 +3,10 @@ title: "Section 38 - Fraud involving aircraft or space vehicle parts in intersta
 usc_title: 18
 usc_section: "38"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 38"
-generated_at: "2026-03-30T02:54:16.456Z"
+generated_at: "2026-11-23T21:25:43.937Z"
+status: "active"
 ---
 
 # § 38. Fraud involving aircraft or space vehicle parts in interstate or foreign commerce
@@ -42,3 +43,39 @@ generated_at: "2026-03-30T02:54:16.456Z"
   - **(1)** the offender is a natural person who is a citizen or permanent resident alien of the United States, or an organization organized under the laws of the United States or political subdivision thereof;
   - **(2)** the aircraft or spacecraft part as to which the violation relates was installed in an aircraft or space vehicle owned or operated at the time of the offense by a citizen or permanent resident alien of the United States, or by an organization thereof; or
   - **(3)** an act in furtherance of the offense was committed in the United States.
+
+Offenses
+
+Penalties
+
+Aviation quality
+
+Failure to operate as represented
+
+Failure resulting in death
+
+Other circumstances
+
+Organizations
+
+Civil Remedies.—
+
+In general
+
+Restraining orders and prohibition
+
+Estoppel
+
+Criminal Forfeiture.—
+
+In general
+
+Application of other law
+
+Construction With Other Law
+
+Territorial Scope
+
+## Source Credit
+
+*(Added [Pub. L. 106–181, title V, § 506(c)(1)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 137](https://www.govinfo.gov/link/statute/114/137).)*

@@ -3,9 +3,10 @@ title: "Section 16231 - Renewable energy"
 usc_title: 42
 usc_section: "16231"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16231"
-generated_at: "2026-03-30T02:56:11.474Z"
+generated_at: "2026-11-23T21:26:33.707Z"
+status: "active"
 ---
 
 # § 16231. Renewable energy
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:56:11.474Z"
     - **(B)** analysis of past program performance, both in terms of technical advances and in market introduction of renewable energy; and
     - **(C)** any other analysis or evaluation that the Secretary considers appropriate.
   - **(2)** The Secretary may designate up to 1 percent of the funds appropriated for carrying out this part for analysis and evaluation activities under this subsection.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 931](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 868](https://www.govinfo.gov/link/statute/119/868); [Pub. L. 110–140, title II, § 231](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1536](https://www.govinfo.gov/link/statute/121/1536); [Pub. L. 116–260, div. Z, title III, § 3006(b)(3)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2512](https://www.govinfo.gov/link/statute/134/2512).)*

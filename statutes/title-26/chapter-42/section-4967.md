@@ -3,9 +3,10 @@ title: "Section 4967 - Taxes on prohibited benefits"
 usc_title: 26
 usc_section: "4967"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4967"
-generated_at: "2026-03-30T02:55:27.810Z"
+generated_at: "2026-11-23T21:26:06.656Z"
+status: "active"
 ---
 
 # § 4967. Taxes on prohibited benefits
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:27.810Z"
   - **(1)** If more than one person is liable under paragraph (1) or (2) of subsection (a) with respect to a distribution described in subsection (a), all such persons shall be jointly and severally liable under such paragraph with respect to such distribution.
   - **(2)** With respect to any one distribution described in subsection (a), the maximum amount of the tax imposed by subsection (a)(2) shall not exceed $10,000.
 - **(d)** A person is described in this subsection if such person is described in section 4958(f)(7) with respect to a donor advised fund.
+
+## Source Credit
+
+*(Added [Pub. L. 109–280, title XII, § 1231(a)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1097](https://www.govinfo.gov/link/statute/120/1097).)*

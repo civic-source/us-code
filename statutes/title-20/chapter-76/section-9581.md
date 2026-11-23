@@ -3,12 +3,17 @@ title: "Section 9581 - Rulemaking"
 usc_title: 20
 usc_section: "9581"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9581"
-generated_at: "2026-03-30T02:54:48.230Z"
+generated_at: "2026-11-23T21:25:47.668Z"
+status: "active"
 ---
 
 # § 9581. Rulemaking
 
 Notwithstanding section 1232(d) of this title , the exemption for public property, loans, grants, and benefits in section 553(a)(2) of title 5 shall apply to the Institute.
 
+
+## Source Credit
+
+*([Pub. L. 107–279, title I, § 191](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1974](https://www.govinfo.gov/link/statute/116/1974).)*

@@ -3,9 +3,10 @@ title: "Section 10004 - Uses of funds by institutions of higher education"
 usc_title: 20
 usc_section: "10004"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 10004"
-generated_at: "2026-03-30T02:54:48.233Z"
+generated_at: "2026-11-23T21:25:47.684Z"
+status: "active"
 ---
 
 # § 10004. Uses of funds by institutions of higher education
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:48.233Z"
   - **(3)** modernization, renovation, or repair of facilities—
     - **(A)** used for sectarian instruction or religious worship; or
     - **(B)** in which a substantial portion of the functions of the facilities are subsumed in a religious mission.
+
+## Source Credit
+
+*([Pub. L. 111–5, div. A, title XIV, § 14004](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 281](https://www.govinfo.gov/link/statute/123/281).)*

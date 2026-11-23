@@ -3,9 +3,10 @@ title: "Section 11225 - The National Alzheimer’s Project"
 usc_title: 42
 usc_section: "11225"
 chapter: 118
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11225"
-generated_at: "2026-03-30T02:56:11.396Z"
+generated_at: "2026-11-23T21:26:33.402Z"
+status: "active"
 ---
 
 # § 11225. The National Alzheimer’s Project
@@ -84,3 +85,7 @@ generated_at: "2026-03-30T02:56:11.396Z"
   - **(4)** an annually updated national plan.
 - **(h)** For fiscal year 2024 and each subsequent fiscal year, the Director of the National Institutes of Health shall prepare and submit, directly to the President for review and transmittal to Congress, after reasonable opportunity for comment, but without change, by the Secretary of Health and Human Services and the Advisory Council, an annual budget estimate for the initiatives of the National Institutes of Health pursuant to the reports and recommendations made under this Act, including an estimate of the number and type of personnel needs for the National Institutes of Health.
 - **(i)** The Project shall expire on December 31, 2035 .
+
+## Source Credit
+
+*([Pub. L. 111–375, § 2](https://www.govinfo.gov/link/plaw/111/public/375), Jan. 4, 2011, [124 Stat. 4100](https://www.govinfo.gov/link/statute/124/4100); [Pub. L. 118–92, § 2](https://www.govinfo.gov/link/plaw/118/public/92), Oct. 1, 2024, [138 Stat. 1562](https://www.govinfo.gov/link/statute/138/1562); [Pub. L. 118–93, § 2](https://www.govinfo.gov/link/plaw/118/public/93), Oct. 1, 2024, [138 Stat. 1565](https://www.govinfo.gov/link/statute/138/1565).)*

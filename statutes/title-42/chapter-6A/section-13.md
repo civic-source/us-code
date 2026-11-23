@@ -3,9 +3,10 @@ title: "Section 13 - Setting priorities for standards adoption"
 usc_title: 42
 usc_section: "13"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13"
-generated_at: "2026-03-30T02:56:10.845Z"
+generated_at: "2026-11-23T21:26:30.943Z"
+status: "active"
 ---
 
 # § 300jj–13. Setting priorities for standards adoption
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:10.845Z"
     - **(B)** phase out such standards and implementation specifications.
   - **(2)** The HIT Advisory Committee, in collaboration with the National Institute for Standards and Technology, shall annually and through the use of public input, review and publish priorities for the use of health information technology, standards, and implementation specifications to support those priorities.
 - **(c)** Nothing in this section shall be construed to prevent the use or adoption of novel standards that improve upon the existing health information technology infrastructure and facilitate the secure exchange of health information.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXX, § 3003, as added [Pub. L. 114–255, div. A, title IV, § 4003(f)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1175](https://www.govinfo.gov/link/statute/130/1175).)*

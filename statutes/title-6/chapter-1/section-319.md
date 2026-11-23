@@ -3,9 +3,10 @@ title: "Section 319 - National Integration Center"
 usc_title: 6
 usc_section: "319"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 319"
-generated_at: "2026-03-30T02:53:09.457Z"
+generated_at: "2026-11-23T21:25:25.778Z"
+status: "active"
 ---
 
 # § 319. National Integration Center
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:09.457Z"
   - **(2)** The Principal Federal Official (or the successor thereto) or Director of a Joint Task Force established under section 348 of this title shall not—
     - **(A)** direct or replace the incident command structure established at the incident; or
     - **(B)** have directive authority over the Senior Federal Law Enforcement Official, Federal Coordinating Officer, or other Federal and State officials.
+
+## Source Credit
+
+*([Pub. L. 107–296, title V, § 509](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 109–295, title VI, § 611(13)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1405](https://www.govinfo.gov/link/statute/120/1405); amended [Pub. L. 114–328, div. A, title XIX, § 1901(d)(2)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2670](https://www.govinfo.gov/link/statute/130/2670).)*

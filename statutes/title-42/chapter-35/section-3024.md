@@ -3,9 +3,10 @@ title: "Section 3024 - Allotment to States"
 usc_title: 42
 usc_section: "3024"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3024"
-generated_at: "2026-03-30T02:56:11.172Z"
+generated_at: "2026-11-23T21:26:32.482Z"
+status: "active"
 ---
 
 # § 3024. Allotment to States
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:56:11.172Z"
     - **(C)** not less than $150,000 and not more than 4 percent of the amount allotted to the State for carrying out part B, shall be available for conducting outreach demonstration projects under section 3058e of this title ; and
     - **(D)** the remainder of such allotment shall be available to such State only for paying such percentage as the State agency determines, but not more than 85 percent of the cost of supportive services, senior centers, and nutrition services under this subchapter provided in the State as part of a comprehensive and coordinated system in planning and service areas for which there is an area plan approved by the State agency.
   - **(2)** The non-Federal share shall be in cash or in kind. In determining the amount of the non-Federal share, the Assistant Secretary may attribute fair market value to services and facilities contributed from non-Federal sources.
+
+## Source Credit
+
+*([Pub. L. 89–73, title III, § 304](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 95–478, title I, § 103(b)](https://www.govinfo.gov/link/plaw/95/public/478), Oct. 18, 1978, [92 Stat. 1519](https://www.govinfo.gov/link/statute/92/1519); amended [Pub. L. 97–115, § 4](https://www.govinfo.gov/link/plaw/97/public/115), Dec. 29, 1981, [95 Stat. 1597](https://www.govinfo.gov/link/statute/95/1597); [Pub. L. 98–459, title III, § 304](https://www.govinfo.gov/link/plaw/98/public/459), Oct. 9, 1984, [98 Stat. 1772](https://www.govinfo.gov/link/statute/98/1772); [Pub. L. 100–175, title I](https://www.govinfo.gov/link/plaw/100/public/175), §§ 123, 155(c), (d), 182(f), Nov. 29, 1987, [101 Stat. 933](https://www.govinfo.gov/link/statute/101/933), 952, 965; [Pub. L. 102–375, title III, § 304](https://www.govinfo.gov/link/plaw/102/public/375), title IX, § 904(a)(10), Sept. 30, 1992, [106 Stat. 1221](https://www.govinfo.gov/link/statute/106/1221), 1306; [Pub. L. 103–171, § 3(a)(13)](https://www.govinfo.gov/link/plaw/103/public/171), Dec. 2, 1993, [107 Stat. 1990](https://www.govinfo.gov/link/statute/107/1990); [Pub. L. 106–501, title III, § 303](https://www.govinfo.gov/link/plaw/106/public/501), title VIII, § 801(c)(2), Nov. 13, 2000, [114 Stat. 2239](https://www.govinfo.gov/link/statute/114/2239), 2292; [Pub. L. 109–365, title III, § 304](https://www.govinfo.gov/link/plaw/109/public/365), Oct. 17, 2006, [120 Stat. 2539](https://www.govinfo.gov/link/statute/120/2539); [Pub. L. 114–144, § 4(b)](https://www.govinfo.gov/link/plaw/114/public/144), Apr. 19, 2016, [130 Stat. 338](https://www.govinfo.gov/link/statute/130/338); [Pub. L. 116–131, title II, § 204](https://www.govinfo.gov/link/plaw/116/public/131), title VII, § 701(6), (7), Mar. 25, 2020, [134 Stat. 255](https://www.govinfo.gov/link/statute/134/255), 271.)*

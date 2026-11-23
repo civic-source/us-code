@@ -3,9 +3,10 @@ title: "Section 176 - Seizure, forfeiture, and destruction"
 usc_title: 18
 usc_section: "176"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 176"
-generated_at: "2026-03-30T02:54:16.458Z"
+generated_at: "2026-11-23T21:25:43.945Z"
+status: "active"
 ---
 
 # § 176. Seizure, forfeiture, and destruction
@@ -19,3 +20,13 @@ generated_at: "2026-03-30T02:54:16.458Z"
 - **(c)** It is an affirmative defense against a forfeiture under subsection (a)(1)(B) of this section that—
   - **(1)** such biological agent, toxin, or delivery system is for a prophylactic, protective, or other peaceful purpose; and
   - **(2)** such biological agent, toxin, or delivery system, is of a type and quantity reasonable for that purpose.
+
+In General
+
+Procedure
+
+Affirmative Defense
+
+## Source Credit
+
+*(Added [Pub. L. 101–298, § 3(a)](https://www.govinfo.gov/link/plaw/101/public/298), May 22, 1990, [104 Stat. 202](https://www.govinfo.gov/link/statute/104/202); amended [Pub. L. 103–322, title XXXIII, § 330010(16)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2144](https://www.govinfo.gov/link/statute/108/2144); [Pub. L. 107–188, title II, § 231(c)(3)](https://www.govinfo.gov/link/plaw/107/public/188), June 12, 2002, [116 Stat. 661](https://www.govinfo.gov/link/statute/116/661).)*

@@ -3,9 +3,10 @@ title: "Section 1382d - Rehabilitation services for blind and disabled individua
 usc_title: 42
 usc_section: "1382d"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1382d"
-generated_at: "2026-03-30T02:56:10.929Z"
+generated_at: "2026-11-23T21:26:31.337Z"
+status: "active"
 ---
 
 # § 1382d. Rehabilitation services for blind and disabled individuals
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:10.929Z"
     - **(A)** benefits under section 1382 or 1382h(a) of this title;
     - **(B)** assistance under section 1382h(b) of this title ; or
     - **(C)** a federally administered State supplementary payment under section 1382e of this title or section 212(b) of Public Law 93–66 .
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVI, § 1615, as added [Pub. L. 92–603, title III, § 301](https://www.govinfo.gov/link/plaw/92/public/603), Oct. 30, 1972, [86 Stat. 1474](https://www.govinfo.gov/link/statute/86/1474); amended [Pub. L. 94–566, title V, § 501(a)](https://www.govinfo.gov/link/plaw/94/public/566), Oct. 20, 1976, [90 Stat. 2683](https://www.govinfo.gov/link/statute/90/2683); [Pub. L. 96–272, title III, § 304](https://www.govinfo.gov/link/plaw/96/public/272), June 17, 1980, [94 Stat. 529](https://www.govinfo.gov/link/statute/94/529); [Pub. L. 97–35, title XXI, § 2193(a)(4)](https://www.govinfo.gov/link/plaw/97/public/35), (c)(8), title XXIII, § 2344, Aug. 13, 1981, [95 Stat. 827](https://www.govinfo.gov/link/statute/95/827), 828, 867; [Pub. L. 98–369, div. B, title VI, § 2663(g)(8)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1169](https://www.govinfo.gov/link/statute/98/1169); [Pub. L. 98–460, § 11(b)](https://www.govinfo.gov/link/plaw/98/public/460), Oct. 9, 1984, [98 Stat. 1806](https://www.govinfo.gov/link/statute/98/1806); [Pub. L. 101–508, title V, § 5037(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–226](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–296, title I, § 107(a)(4)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1478](https://www.govinfo.gov/link/statute/108/1478); [Pub. L. 105–33, title V, § 5523](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 623](https://www.govinfo.gov/link/statute/111/623); [Pub. L. 106–170, title I, § 101(b)(2)(A)](https://www.govinfo.gov/link/plaw/106/public/170), (B), Dec. 17, 1999, [113 Stat. 1874](https://www.govinfo.gov/link/statute/113/1874).)*

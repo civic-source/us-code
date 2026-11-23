@@ -3,9 +3,10 @@ title: "Section 8805 - Imposition of sanctions with respect to the provision of 
 usc_title: 22
 usc_section: "8805"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8805"
-generated_at: "2026-03-30T02:55:05.458Z"
+generated_at: "2026-11-23T21:25:58.756Z"
+status: "active"
 ---
 
 # § 8805. Imposition of sanctions with respect to the provision of underwriting services or insurance or reinsurance for activities or persons with respect to which sanctions have been imposed
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:05.458Z"
     - **(A)** determines that such a waiver is vital to the national security of the United States; and
     - **(B)** submits to the appropriate congressional committees a report providing a justification for the waiver.
   - **(2)** Each report submitted under paragraph (1)(B) shall be submitted in unclassified form, but may include a classified annex.
+
+## Source Credit
+
+*([Pub. L. 112–239, div. A, title XII, § 1246](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2011](https://www.govinfo.gov/link/statute/126/2011).)*

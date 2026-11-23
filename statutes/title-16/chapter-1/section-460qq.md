@@ -3,9 +3,10 @@ title: "Section 460qq - Establishment"
 usc_title: 16
 usc_section: "460qq"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 460qq"
-generated_at: "2026-03-30T02:54:22.829Z"
+generated_at: "2026-11-23T21:25:51.598Z"
+status: "active"
 ---
 
 # § 460qq. Establishment
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:22.829Z"
 - **(e)** The Secretary shall permit hunting, fishing, and trapping within the boundaries of the national recreation area in accordance with applicable Federal and State laws except that the Secretary may designate zones where, and establish periods when, no hunting, fishing, or trapping shall be permitted for reasons of public safety, administration, or public use and enjoyment. Except in emergencies, any prohibitions or restrictions made pursuant to this subsection shall be put into effect only after consultation with the appropriate State fish and game department.
 - **(f)** Subject to valid existing rights, the minerals in all federally owned lands within the national recreation area designated by this subchapter are withdrawn from all forms of appropriation under the mining laws and from disposition under all laws pertaining to mineral leasing, including all laws pertaining to geothermal leasing, and all amendments thereto.
 - **(g)** Nothing in this section shall be construed to apply to or have any effect on any other management area of the National Forest System, including any wilderness area or any other national recreation area.
+
+## Source Credit
+
+*([Pub. L. 98–585, § 6](https://www.govinfo.gov/link/plaw/98/public/585), Oct. 30, 1984, [98 Stat. 3101](https://www.govinfo.gov/link/statute/98/3101).)*

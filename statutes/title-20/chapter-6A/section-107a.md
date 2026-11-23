@@ -3,9 +3,10 @@ title: "Section 107a - Federal and State responsibilities"
 usc_title: 20
 usc_section: "107a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 107a"
-generated_at: "2026-03-30T02:54:48.083Z"
+generated_at: "2026-11-23T21:25:46.948Z"
+status: "active"
 ---
 
 # § 107a. Federal and State responsibilities
@@ -24,3 +25,9 @@ generated_at: "2026-03-30T02:54:48.083Z"
   - **(2)** The provisions of paragraph (1) shall not apply (A) when the Secretary and the State licensing agency determine that the number of people using the property is or will be insufficient to support a vending facility, or (B) to any privately owned building, any part of which is leased by any department, agency, or instrumentality of the United States and in which, (i) prior to the execution of such lease, the lessor or any of his tenants had in operation a restaurant or other food facility in a part of the building not included in such lease, and (ii) the operation of such a vending facility by a blind person would be in proximate and substantial direct competition with such restaurant or other food facility except that each such department, agency, and instrumentality shall make every effort to lease property in privately owned buildings capable of accommodating a vending facility.
   - **(3)** For the purposes of this subsection, the term “satisfactory site” means an area determined by the Secretary to have sufficient space, electrical and plumbing outlets, and such other facilities as the Secretary may by regulation prescribe, for the location and operation of a vending facility by a blind person.
 - **(e)** In any State having an approved plan for vocational rehabilitation pursuant to the Vocational Rehabilitation Act or the Rehabilitation Act of 1973 [ 29 U.S.C. 701 et seq.], the State licensing agency designated under paragraph (5) of subsection (a) of this section shall be the State agency designated under section 101(a)(2)(A) of such Rehabilitation Act of 1973 [ 29 U.S.C. 721(a)(2)(A) ].
+
+Barack Obama.
+
+## Source Credit
+
+*(June 20, 1936, ch. 638, § 2, [49 Stat. 1559](https://www.govinfo.gov/link/statute/49/1559); 1939 Reorg. Plan No. I, §§ 201, 204, eff. July 1, 1939, 4 F.R. 2728, [53 Stat. 1424](https://www.govinfo.gov/link/statute/53/1424); 1946 Reorg. Plan No. 2, § 6, eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095](https://www.govinfo.gov/link/statute/60/1095); 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631](https://www.govinfo.gov/link/statute/67/631); Aug. 3, 1954, ch. 655, § 4(b) –(d), [68 Stat. 663](https://www.govinfo.gov/link/statute/68/663); [Pub. L. 93–516, title II, § 203](https://www.govinfo.gov/link/plaw/93/public/516), Dec. 7, 1974, [88 Stat. 1623](https://www.govinfo.gov/link/statute/88/1623); [Pub. L. 93–651, title II, § 203](https://www.govinfo.gov/link/plaw/93/public/651), Nov. 21, 1974, [89 Stat. 2–8](https://www.govinfo.gov/link/statute/89/2); [Pub. L. 96–88, title III, § 301(a)(4)(B)](https://www.govinfo.gov/link/plaw/96/public/88), title V, § 507, Oct. 17, 1979, [93 Stat. 678](https://www.govinfo.gov/link/statute/93/678), 692; [Pub. L. 104–66, title I, § 1041(i)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 715](https://www.govinfo.gov/link/statute/109/715); [Pub. L. 105–220, title IV, § 414(a)](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1241](https://www.govinfo.gov/link/statute/112/1241).)*

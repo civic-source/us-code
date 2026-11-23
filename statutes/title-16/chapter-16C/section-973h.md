@@ -3,9 +3,10 @@ title: "Section 973h - Enforcement"
 usc_title: 16
 usc_section: "973h"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 973h"
-generated_at: "2026-03-30T02:54:22.938Z"
+generated_at: "2026-11-23T21:25:51.800Z"
+status: "active"
 ---
 
 # § 973h. Enforcement
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:22.938Z"
   - **(2)** To the extent possible, Authorized Officers shall exercise their powers under paragraph (1)(A)(ii), (iii), and (iv) of this subsection so as not to interfere unduly with the lawful operation of the vessel.
   - **(3)** Nothing in this chapter shall be construed to limit the enforcement of this or other applicable Federal laws under section 89 1 1 See References in Text note below. of title 14.
 - **(e)** The district courts of the United States shall have exclusive jurisdiction over any case or controversy arising under the provisions of this chapter.
+
+## Source Credit
+
+*([Pub. L. 100–330, § 10](https://www.govinfo.gov/link/plaw/100/public/330), June 7, 1988, [102 Stat. 597](https://www.govinfo.gov/link/statute/102/597); [Pub. L. 119–60, div. H, title LXXXIV, § 8418](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1917](https://www.govinfo.gov/link/statute/139/1917).)*

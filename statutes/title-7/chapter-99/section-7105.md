@@ -3,9 +3,10 @@ title: "Section 7105 - Referenda"
 usc_title: 7
 usc_section: "7105"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7105"
-generated_at: "2026-03-30T02:53:42.444Z"
+generated_at: "2026-11-23T21:25:28.415Z"
+status: "active"
 ---
 
 # § 7105. Referenda
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:42.444Z"
   - **(2)** Each referendum under this section shall be conducted on a date established by the Secretary, under a procedure by which producers, feeders, and importers intending to vote in the referendum shall certify that the producers, feeders, and importers were engaged in the production, feeding, or importation of sheep or sheep products during the representative period and, on the same day, shall be provided an opportunity to vote in the referendum.
   - **(3)** Referenda under this section shall be conducted at locations determined by the Secretary. Absentee mail ballots shall be furnished by the Secretary on request made in person, by mail, or by telephone.
   - **(4)** The Secretary shall determine a method of allocating, by a pro rata percentage of annual projected or actual assessments from importers, the volume of production represented by importers in referenda conducted pursuant to this section.
+
+## Source Credit
+
+*([Pub. L. 103–407, § 6](https://www.govinfo.gov/link/plaw/103/public/407), Oct. 22, 1994, [108 Stat. 4223](https://www.govinfo.gov/link/statute/108/4223).)*

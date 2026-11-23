@@ -3,9 +3,10 @@ title: "Section 6854 - Data consolidation and publication of route and area data
 usc_title: 16
 usc_section: "6854"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6854"
-generated_at: "2026-03-30T02:54:23.070Z"
+generated_at: "2026-11-23T21:25:52.055Z"
+status: "active"
 ---
 
 # § 6854. Data consolidation and publication of route and area data for public recreational use
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:23.070Z"
   - **(1)** The Secretaries, to the maximum extent practicable, shall update the data described in subsection (a) not less frequently than twice per year.
   - **(2)** The Secretaries shall develop a process to allow members of the public to submit questions or comments regarding the information described in subsection (a).
 - **(c)** Geographic information system data made publicly available under subsection (a) shall not disclose information regarding the nature, location, character, or ownership of historic, paleontological, or archaeological resources, consistent with applicable law.
+
+## Source Credit
+
+*([Pub. L. 117–114, § 5](https://www.govinfo.gov/link/plaw/117/public/114), Apr. 29, 2022, [136 Stat. 1176](https://www.govinfo.gov/link/statute/136/1176); [Pub. L. 118–234, title III, § 354(2)](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2917](https://www.govinfo.gov/link/statute/138/2917).)*

@@ -3,9 +3,10 @@ title: "Section 3147 - Grants for training, research, and technical assistance"
 usc_title: 42
 usc_section: "3147"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3147"
-generated_at: "2026-03-30T02:56:11.182Z"
+generated_at: "2026-11-23T21:26:32.536Z"
+status: "active"
 ---
 
 # § 3147. Grants for training, research, and technical assistance
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:56:11.182Z"
   - **(4)** In making grants under this subsection, the Secretary shall consider—
     - **(A)** the significant role of regional public universities in supporting economic development in distressed communities through the planning and the implementation of economic development projects and initiatives; and
     - **(B)** the location of the university center in or near a distressed community.
+
+## Source Credit
+
+*([Pub. L. 89–136, title II, § 207](https://www.govinfo.gov/link/plaw/89/public/136), as added [Pub. L. 105–393, title I, § 102(a)](https://www.govinfo.gov/link/plaw/105/public/393), Nov. 13, 1998, [112 Stat. 3604](https://www.govinfo.gov/link/statute/112/3604); amended [Pub. L. 108–373, title II, § 205](https://www.govinfo.gov/link/plaw/108/public/373), Oct. 27, 2004, [118 Stat. 1761](https://www.govinfo.gov/link/statute/118/1761); [Pub. L. 118–272, div. B, title II](https://www.govinfo.gov/link/plaw/118/public/272), §§ 2211(b), 2217, Jan. 4, 2025, [138 Stat. 3178](https://www.govinfo.gov/link/statute/138/3178), 3181.)*

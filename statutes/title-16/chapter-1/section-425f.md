@@ -3,12 +3,17 @@ title: "Section 425f - Ascertaining and marking lines of battle"
 usc_title: 16
 usc_section: "425f"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 425f"
-generated_at: "2026-03-30T02:54:22.791Z"
+generated_at: "2026-11-23T21:25:51.506Z"
+status: "active"
 ---
 
 # § 425f. Ascertaining and marking lines of battle
 
 It shall be lawful for the authorities of any State having had troops engaged in said battles of Fredericksburg, Spotsylvania Court House, Wilderness, and Chancellorsville, including Salem Church, or in any of said battles, to enter upon the lands and approaches of the Fredericksburg and Spotsylvania County Battle Fields Memorial for the purposes of ascertaining and marking the lines of battle of troops engaged therein: Provided , That before any such lines are permanently designated, the position of the lines and the proposed methods of marking them by monuments, tablets, or otherwise, including the design and inscription for the same, shall be submitted to the Secretary of the Interior, and shall first receive written approval of the Secretary, which approval shall be based upon formal written reports to be made to him in each case by the commissioners of the park: Provided , That no discrimination shall be made against any State as to the manner of designing lines, but any grant made to any State by the Secretary of the Interior may be used by any other State.
 
+
+## Source Credit
+
+*(Feb. 14, 1927, ch. 127, § 7, [44 Stat. 1093](https://www.govinfo.gov/link/statute/44/1093); Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933.)*

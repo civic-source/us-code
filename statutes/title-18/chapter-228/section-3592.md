@@ -3,9 +3,10 @@ title: "Section 3592 - Mitigating and aggravating factors to be considered in de
 usc_title: 18
 usc_section: "3592"
 chapter: 228
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3592"
-generated_at: "2026-03-30T02:54:16.520Z"
+generated_at: "2026-11-23T21:25:44.212Z"
+status: "active"
 ---
 
 # § 3592. Mitigating and aggravating factors to be considered in determining whether a sentence of death is justified
@@ -56,3 +57,85 @@ generated_at: "2026-03-30T02:54:16.520Z"
   - **(6)** The offense, or a continuing criminal enterprise of which the offense was a part, involved conduct proscribed by section 419 of the Controlled Substances Act ( 21 U.S.C. 860 ) which was committed directly by the defendant.
   - **(7)** The offense, or a continuing criminal enterprise of which the offense was a part, involved conduct proscribed by section 420 of the Controlled Substances Act ( 21 U.S.C. 861 ) which was committed directly by the defendant.
   - **(8)** The offense involved the importation, manufacture, or distribution of a controlled substance (as defined in section 102 of the Controlled Substances Act ( 21 U.S.C. 802 )), mixed with a potentially lethal adulterant, and the defendant was aware of the presence of the adulterant.
+
+Mitigating Factors
+
+Impaired capacity
+
+Duress
+
+Minor participation
+
+Equally culpable defendants
+
+No prior criminal record
+
+Disturbance
+
+Victim’s consent
+
+Other factors
+
+Aggravating Factors for Espionage and Treason
+
+Prior espionage or treason offense
+
+Grave risk to national security
+
+Grave risk of death
+
+Aggravating Factors for Homicide
+
+Death during commission of another crime
+
+Previous conviction of violent felony involving firearm
+
+Previous conviction of offense for which a sentence of death or life imprisonment was authorized
+
+Previous conviction of other serious offenses
+
+Grave risk of death to additional persons
+
+Heinous, cruel, or depraved manner of committing offense
+
+Procurement of offense by payment
+
+Pecuniary gain
+
+Substantial planning and premeditation
+
+Conviction for two felony drug offenses
+
+Vulnerability of victim
+
+Conviction for serious federal drug offenses
+
+Continuing criminal enterprise involving drug sales to minors
+
+High public officials
+
+Prior conviction of sexual assault or child molestation
+
+Multiple killings or attempted killings
+
+Aggravating Factors for Drug Offense Death Penalty
+
+Previous conviction of offense for which a sentence of death or life imprisonment was authorized
+
+Previous conviction of other serious offenses
+
+Previous serious drug felony conviction
+
+Use of firearm
+
+Distribution to persons under 21
+
+Distribution near schools
+
+Using minors in trafficking
+
+Lethal adulterant
+
+## Source Credit
+
+*(Added and amended [Pub. L. 103–322, title VI, § 60002(a)](https://www.govinfo.gov/link/plaw/103/public/322), title XXXIII, § 330021(1), Sept. 13, 1994, [108 Stat. 1960](https://www.govinfo.gov/link/statute/108/1960), 2150; [Pub. L. 104–132, title VII, § 728](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1302](https://www.govinfo.gov/link/statute/110/1302); [Pub. L. 104–294, title VI](https://www.govinfo.gov/link/plaw/104/public/294), §§ 601(b)(7), 604(b)(35), Oct. 11, 1996, [110 Stat. 3499](https://www.govinfo.gov/link/statute/110/3499), 3508; [Pub. L. 107–273, div. B, title IV, § 4002(e)(2)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1810](https://www.govinfo.gov/link/statute/116/1810); [Pub. L. 109–248, title II, § 206(a)(4)](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 614](https://www.govinfo.gov/link/statute/120/614).)*

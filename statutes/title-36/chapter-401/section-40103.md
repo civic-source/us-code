@@ -3,9 +3,10 @@ title: "Section 40103 - Purposes"
 usc_title: 36
 usc_section: "40103"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 40103"
-generated_at: "2026-03-30T02:55:44.695Z"
+generated_at: "2026-11-23T21:26:13.562Z"
+status: "active"
 ---
 
 # § 40103. Purposes
@@ -25,3 +26,22 @@ The purposes of the corporation are as provided in the articles of incorporation
   - **(11)** promote the realization that the family is the basic unit of society;
   - **(12)** increase our love, honor, and service to God and to our fellow man without regard to race, creed, color, or national origin; and
   - **(13)** function as a veterans’ and patriotic organization as authorized by the laws of each State in which it is incorporated.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40103 | 36:2603. | Aug. 17, 1984 , Pub. L. 98–382, § 3 , 98 Stat. 1343 . |
+
+
+Historical and Revision Notes
+
+40103
+
+Aug. 17, 1984
+
+Pub. L. 98–382, § 3
+
+98 Stat. 1343
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1329](https://www.govinfo.gov/link/statute/112/1329); [Pub. L. 109–284, § 5(6)](https://www.govinfo.gov/link/plaw/109/public/284), Sept. 27, 2006, [120 Stat. 1212](https://www.govinfo.gov/link/statute/120/1212).)*

@@ -3,9 +3,10 @@ title: "Section 16471 - Consumer privacy and unfair trade practices"
 usc_title: 42
 usc_section: "16471"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16471"
-generated_at: "2026-03-30T02:56:11.487Z"
+generated_at: "2026-11-23T21:26:33.744Z"
+status: "active"
 ---
 
 # § 16471. Consumer privacy and unfair trade practices
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.487Z"
 - **(f)** For purposes of this section:
   - **(1)** The term “State regulatory authority” has the meaning given that term in section 796(21) of title 16 .
   - **(2)** The terms “electric consumer” and “electric utility” have the meanings given those terms in section 2602 of title 16 .
+
+## Source Credit
+
+*([Pub. L. 109–58, title XII, § 1287](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 981](https://www.govinfo.gov/link/statute/119/981).)*

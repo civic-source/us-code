@@ -3,9 +3,10 @@ title: "Section 12501 - Findings and purpose"
 usc_title: 42
 usc_section: "12501"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12501"
-generated_at: "2026-03-30T02:56:11.413Z"
+generated_at: "2026-11-23T21:26:33.477Z"
+status: "active"
 ---
 
 # § 12501. Findings and purpose
@@ -37,3 +38,63 @@ generated_at: "2026-03-30T02:56:11.413Z"
   - **(17)** leverage Federal investments to increase State, local, business, and philanthropic resources to address national and local challenges;
   - **(18)** support institutions of higher education that engage students in community service activities and provide high-quality service-learning opportunities; and
   - **(19)** recognize the expertise veterans can offer to national service programs, expand the participation of the veterans in the national service programs, and assist the families of veterans and members of the Armed Forces on active duty.
+
+Accrual of Service Hours.—
+
+Accrual through other service hours.—
+
+In general
+
+Affected individuals
+
+Provisions in case of early exit
+
+No Required Return of Grant Funds
+
+Extension of Terms and Age Limits
+
+Purchase of American-Made Equipment and Products
+
+Notice to Recipients of Assistance
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+George W. Bush.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+George W. Bush.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 101–610, § 2](https://www.govinfo.gov/link/plaw/101/public/610), Nov. 16, 1990, [104 Stat. 3129](https://www.govinfo.gov/link/statute/104/3129); [Pub. L. 103–82, § 2(a)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 787](https://www.govinfo.gov/link/statute/107/787); [Pub. L. 111–13, title I, § 1101](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1463](https://www.govinfo.gov/link/statute/123/1463).)*

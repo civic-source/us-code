@@ -3,9 +3,10 @@ title: "Section 60140 - Cover over buried pipelines"
 usc_title: 49
 usc_section: "60140"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 60140"
-generated_at: "2026-03-30T02:56:19.416Z"
+generated_at: "2026-11-23T21:26:41.034Z"
+status: "active"
 ---
 
 # § 60140. Cover over buried pipelines
@@ -19,3 +20,25 @@ generated_at: "2026-03-30T02:56:19.416Z"
     - **(A)** If the Secretary determines under paragraph (1) that the current requirements for the depth of cover over buried pipelines are insufficient, the Secretary shall develop legislative recommendations for improving the safety of buried pipelines at crossings of inland bodies of water with a width of at least 100 feet from high water mark to high water mark.
     - **(B)** In developing legislative recommendations under subparagraph (A), the Secretary shall consider the factors specified in section 60102(b)(2).
     - **(C)** If the Secretary develops legislative recommendations under subparagraph (A), the Secretary shall submit to the committees referred to in subsection (a)(2) a report containing the legislative recommendations.
+
+Hazardous Liquid Pipeline Incidents Involving Buried Pipelines.—
+
+Study
+
+Report
+
+Assessment of Current Requirements for Depth of Cover Over Buried Pipelines.—
+
+In general
+
+Legislative recommendations.—
+
+Development
+
+Consideration of factors
+
+Report to congress
+
+## Source Credit
+
+*(Added [Pub. L. 112–90, § 28(a)](https://www.govinfo.gov/link/plaw/112/public/90), Jan. 3, 2012, [125 Stat. 1920](https://www.govinfo.gov/link/statute/125/1920).)*

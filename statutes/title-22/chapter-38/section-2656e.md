@@ -3,12 +3,17 @@ title: "Section 2656e - Terrorism-related travel advisories"
 usc_title: 22
 usc_section: "2656e"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2656e"
-generated_at: "2026-03-30T02:55:05.375Z"
+generated_at: "2026-11-23T21:25:58.520Z"
+status: "active"
 ---
 
 # § 2656e. Terrorism-related travel advisories
 
 The Secretary of State shall promptly advise the Congress whenever the Department of State issues a travel advisory, or other public warning notice for United States citizens traveling abroad, because of a terrorist threat or other security concern.
 
+
+## Source Credit
+
+*([Pub. L. 99–399, title V, § 505](https://www.govinfo.gov/link/plaw/99/public/399), Aug. 27, 1986, [100 Stat. 871](https://www.govinfo.gov/link/statute/100/871).)*

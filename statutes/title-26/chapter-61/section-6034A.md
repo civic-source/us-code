@@ -3,9 +3,10 @@ title: "Section 6034A - Information to beneficiaries of estates and trusts"
 usc_title: 26
 usc_section: "6034A"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6034A"
-generated_at: "2026-03-30T02:55:27.830Z"
+generated_at: "2026-11-23T21:26:06.760Z"
+status: "active"
 ---
 
 # § 6034A. Information to beneficiaries of estates and trusts
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:27.830Z"
     - **(A)** The term “reported item” means any item for which information is required to be furnished under subsection (a).
     - **(B)** The term “applicable entity” means the estate or trust of which the taxpayer is the beneficiary.
   - **(5)** For addition to tax in the case of a beneficiary’s negligence in connection with, or disregard of, the requirements of this section, see part II of subchapter A of chapter 68.
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title VII, § 714(q)(1)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 965](https://www.govinfo.gov/link/statute/98/965); amended [Pub. L. 99–514, title XV, § 1501(c)(15)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1875(d)(3)(A), Oct. 22, 1986, [100 Stat. 2740](https://www.govinfo.gov/link/statute/100/2740), 2896; [Pub. L. 105–34, title X, § 1027(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 925](https://www.govinfo.gov/link/statute/111/925).)*

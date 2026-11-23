@@ -3,9 +3,10 @@ title: "Section 7453 - Nurses: additional pay"
 usc_title: 38
 usc_section: "7453"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7453"
-generated_at: "2026-03-30T02:55:53.532Z"
+generated_at: "2026-11-23T21:26:16.878Z"
+status: "active"
 ---
 
 # § 7453. Nurses: additional pay
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:53.532Z"
   - **(2)** An increase under paragraph (1) in rates of additional pay—
     - **(A)** may be made at any specific Department health-care facility in order to provide nurses, or any category of nurses, at such facility additional pay in an amount competitive with, but not exceeding, the amount of the same type of pay that is paid to the same category of nurses at non-Federal health-care facilities in the same geographic area as such Department health-care facility (based upon a reasonably representative sampling of such non-Federal facilities); and
     - **(B)** may be made on a nationwide, local, or other geographic basis if the Secretary finds that such an increase is justified on the basis of a review of the need for such increase (based upon a reasonably representative sampling of non-Federal health-care facilities in the geographic area involved).
+
+## Source Credit
+
+*(Added [Pub. L. 102–40, title IV, § 401(b)(4)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 232](https://www.govinfo.gov/link/statute/105/232); amended [Pub. L. 103–446, title XII, § 1201(e)(24)](https://www.govinfo.gov/link/plaw/103/public/446), (g)(6), Nov. 2, 1994, [108 Stat. 4686](https://www.govinfo.gov/link/statute/108/4686), 4687; [Pub. L. 111–163, title VI, § 601(k)(1)](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1171](https://www.govinfo.gov/link/statute/124/1171).)*

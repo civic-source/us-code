@@ -3,9 +3,10 @@ title: "Section 518a - Contract payments to tobacco quota holders"
 usc_title: 7
 usc_section: "518a"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 518a"
-generated_at: "2026-03-30T02:53:42.288Z"
+generated_at: "2026-11-23T21:25:27.972Z"
+status: "active"
 ---
 
 # § 518a. Contract payments to tobacco quota holders
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:42.288Z"
     - **(B)** the base quota level of the tobacco quota holder determined under subsection (c) with respect to that kind of tobacco.
   - **(2)** During each of fiscal years 2005 through 2014, the Secretary shall make a contract payment under this section to each eligible tobacco quota holder, with respect to a kind of tobacco, in an amount equal to ⅒ of the amount determined under paragraph (1) for the tobacco quota holder for that kind of tobacco.
 - **(f)** If a tobacco quota holder who is entitled to contract payments under this section dies and is survived by a spouse or one or more dependents, the right to receive the payments shall transfer to the surviving spouse or, if there is no surviving spouse, to the estate of the tobacco quota holder.
+
+## Source Credit
+
+*([Pub. L. 108–357, title VI, § 622](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1525](https://www.govinfo.gov/link/statute/118/1525).)*

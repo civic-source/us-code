@@ -3,9 +3,10 @@ title: "Section 5326 - Reports"
 usc_title: 12
 usc_section: "5326"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5326"
-generated_at: "2026-03-30T02:53:53.529Z"
+generated_at: "2026-11-23T21:25:37.239Z"
+status: "active"
 ---
 
 # § 5326. Reports
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:53.529Z"
     - **(C)** externally audited financial statements.
   - **(2)** Each bank holding company described in subsection (a) and nonbank financial company supervised by the Board of Governors, and any subsidiary thereof, shall provide to the Council, at the request of the Council, copies of all reports referred to in paragraph (1).
   - **(3)** The Council shall maintain the confidentiality of the reports obtained under subsection (a) and paragraph (1)(A) of this subsection.
+
+## Source Credit
+
+*([Pub. L. 111–203, title I, § 116](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1406](https://www.govinfo.gov/link/statute/124/1406); [Pub. L. 115–174, title IV, § 401(c)(1)(B)](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1358](https://www.govinfo.gov/link/statute/132/1358).)*

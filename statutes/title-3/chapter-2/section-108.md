@@ -3,9 +3,10 @@ title: "Section 108 - Assistance to the President for unanticipated needs"
 usc_title: 3
 usc_section: "108"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "3 U.S.C. § 108"
-generated_at: "2026-03-30T02:52:49.879Z"
+generated_at: "2026-11-23T21:25:20.106Z"
+status: "active"
 ---
 
 # § 108. Assistance to the President for unanticipated needs
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:52:49.879Z"
 - **(a)** There is authorized to be appropriated to the President an amount not to exceed $1,000,000 each fiscal year to enable the President, in his discretion, to meet unanticipated needs for the furtherance of the national interest, security, or defense, including personnel needs and needs for services described in section 3109(b) of title 5 , and administrative expenses related thereto, without regard to any provision of law regulating the employment or compensation of persons in the Government service or regulating expenditures of Government funds.
 - **(b)** The President shall transmit a report to each House of the Congress for each fiscal year beginning on or after the effective date of this subsection which sets forth the purposes for which expenditures were made under this section for such fiscal year and the amount expended for each such purpose. Each such report shall be transmitted no later than 60 days after the close of the fiscal year covered by such report.
 - **(c)** An individual may not be paid under the authority of this section at a rate of pay in excess of the rate of basic pay then currently paid for level II of the Executive Schedule of section 5313 of title 5 .
+
+## Source Credit
+
+*(Added [Pub. L. 95–570, § 2(a)](https://www.govinfo.gov/link/plaw/95/public/570), Nov. 2, 1978, [92 Stat. 2449](https://www.govinfo.gov/link/statute/92/2449).)*

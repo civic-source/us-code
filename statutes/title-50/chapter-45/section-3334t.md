@@ -3,9 +3,10 @@ title: "Section 3334t - Program for beyond 5G"
 usc_title: 50
 usc_section: "3334t"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3334t"
-generated_at: "2026-03-30T02:56:26.245Z"
+generated_at: "2026-11-23T21:26:39.037Z"
+status: "active"
 ---
 
 # § 3334t. Program for beyond 5G
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:26.245Z"
     - **(E)** federally funded research and development centers; and
   - **(2)** such other individuals and entities as the Director determines appropriate.
 - **(c)** In this section, the term “6G technology” means hardware, software, or other technologies relating to sixth-generation wireless networks.
+
+## Source Credit
+
+*([Pub. L. 118–31, div. G, title V, § 7508](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1090](https://www.govinfo.gov/link/statute/137/1090).)*

@@ -3,9 +3,10 @@ title: "Section 1257 - Application requirements"
 usc_title: 30
 usc_section: "1257"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1257"
-generated_at: "2026-03-30T02:55:29.399Z"
+generated_at: "2026-11-23T21:26:00.425Z"
+status: "active"
 ---
 
 # § 1257. Application requirements
@@ -43,3 +44,9 @@ generated_at: "2026-03-30T02:55:29.399Z"
 - **(f)** Each applicant for a permit shall be required to submit to the regulatory authority as part of the permit application a certificate issued by an insurance company authorized to do business in the United States certifying that the applicant has a public liability insurance policy in force for the surface mining and reclamation operations for which such permit is sought, or evidence that the applicant has satisfied other State or Federal self-insurance requirements. Such policy shall provide for personal injury and property damage protection in an amount adequate to compensate any persons damaged as a result of surface coal mining and reclamation operations including use of explosives and entitled to compensation under the applicable provisions of State law. Such policy shall be maintained in full force and effect during the terms of the permit or any renewal, including the length of all reclamation operations.
 - **(g)** Each applicant for a surface coal mining and reclamation permit shall submit to the regulatory authority as part of the permit application a blasting plan which shall outline the procedures and standards by which the operator will meet the provisions of section 1265(b)(15) of this title .
 - **(h)** A coal operator that has received assistance pursuant to subsection (c)(1) or (2) shall reimburse the regulatory authority for the cost of the services rendered if the program administrator finds that the operator’s actual and attributed annual production of coal for all locations exceeds 300,000 tons during the 12 months immediately following the date on which the operator is issued the surface coal mining and reclamation permit.
+
+Office of Surface Mining Reclamation and Enforcement—regulation and technology
+
+## Source Credit
+
+*([Pub. L. 95–87, title V, § 507](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 474](https://www.govinfo.gov/link/statute/91/474); [Pub. L. 101–508, title VI, § 6011](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–297](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–486, title XXV, § 2513](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3112](https://www.govinfo.gov/link/statute/106/3112).)*

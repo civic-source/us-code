@@ -3,9 +3,10 @@ title: "Section 3713 - Transfer of title and possession"
 usc_title: 12
 usc_section: "3713"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3713"
-generated_at: "2026-03-30T02:53:53.497Z"
+generated_at: "2026-11-23T21:25:37.147Z"
+status: "active"
 ---
 
 # § 3713. Transfer of title and possession
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.497Z"
 - **(c)** A purchaser at a foreclosure sale held pursuant to this chapter shall be entitled to possession upon passage of title to the mortgaged property, subject to an interest or interests senior to that of the mortgage and subject to the terms of any lease of a residential tenant for the remaining term of the lease or for one year, whichever period is shorter. Any other person remaining in possession after the sale and any residential tenant remaining in possession after the applicable period shall be deemed a tenant at sufferance.
 - **(d)** There shall be no right of redemption, or right of possession based upon right of redemption, in the mortgagor or others subsequent to a foreclosure pursuant to this chapter.
 - **(e)** When conveyance is made to the Secretary, no tax shall be imposed or collected with respect to the foreclosure commissioner’s deed, whether as a tax upon the instrument or upon the privilege of conveying or transferring title to the property. Failure to collect or pay a tax of the type and under the circumstances stated in the preceding sentence shall not be grounds for refusing to record such a deed, for failing to recognize such recordation as imparting notice or for denying the enforcement of such a deed and its provisions in any State or Federal court.
+
+## Source Credit
+
+*([Pub. L. 97–35, title III, § 369E](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 430](https://www.govinfo.gov/link/statute/95/430).)*

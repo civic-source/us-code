@@ -3,9 +3,10 @@ title: "Section 60505 - Audit and accountability of grantees"
 usc_title: 34
 usc_section: "60505"
 chapter: 605
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 60505"
-generated_at: "2026-03-30T02:55:33.317Z"
+generated_at: "2026-11-23T21:26:09.861Z"
+status: "active"
 ---
 
 # § 60505. Audit and accountability of grantees
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:33.317Z"
   - **(2)** If the Attorney General determines that a covered grantee has violated paragraph (1), the Attorney General shall—
     - **(A)** require the covered grantee to repay the grant in full; and
     - **(B)** prohibit the covered grantee from receiving a grant under the covered grant program from which it received a grant award during at least the 5-year period beginning on the date of such violation.
+
+## Source Credit
+
+*([Pub. L. 115–391, title V, § 503](https://www.govinfo.gov/link/plaw/115/public/391), Dec. 21, 2018, [132 Stat. 5232](https://www.govinfo.gov/link/statute/132/5232).)*

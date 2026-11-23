@@ -3,9 +3,10 @@ title: "Section 11251 - Research program and plan"
 usc_title: 42
 usc_section: "11251"
 chapter: 118
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11251"
-generated_at: "2026-03-30T02:56:11.396Z"
+generated_at: "2026-11-23T21:26:33.403Z"
+status: "active"
 ---
 
 # § 11251. Research program and plan
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.396Z"
     - **(F)** methods to sustain family members who provide care for individuals with Alzheimer’s disease and related dementias through interventions to reduce psychological and social problems and physical problems induced by stress; and
     - **(G)** improved methods to deliver services for individuals with Alzheimer’s disease and related dementias and their families, including services such as outreach services, comprehensive assessment and care management services, outpatient treatment services, home care services, respite care services, adult day care services, partial hospitalization services, nursing home services, and other residential services and care; and
   - **(2)** ensure that the research is coordinated with, and uses, to the maximum extent feasible, resources of, other Federal programs relating to Alzheimer’s disease and dementia, including centers supported under section 285e–2 of this title , centers supported by the National Institute of Mental Health on the psychopathology of the elderly, relevant activities of the Administration on Aging, other programs and centers involved in research on Alzheimer’s disease and related dementias supported by the Department, and other programs relating to Alzheimer’s disease and related dementias which are planned or conducted by Federal agencies other than the Department, State or local agencies, community organizations, or private foundations.
+
+## Source Credit
+
+*([Pub. L. 99–660, title IX, § 931](https://www.govinfo.gov/link/plaw/99/public/660), formerly § 944, Nov. 14, 1986, [100 Stat. 3809](https://www.govinfo.gov/link/statute/100/3809); renumbered § 931, [Pub. L. 100–607, title I, § 142(c)(2)(B)](https://www.govinfo.gov/link/plaw/100/public/607), Nov. 4, 1988, [102 Stat. 3057](https://www.govinfo.gov/link/statute/102/3057); [Pub. L. 102–507, § 7(a)(1)](https://www.govinfo.gov/link/plaw/102/public/507), (2), Oct. 24, 1992, [106 Stat. 3284](https://www.govinfo.gov/link/statute/106/3284).)*

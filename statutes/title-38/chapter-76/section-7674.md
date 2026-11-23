@@ -3,9 +3,10 @@ title: "Section 7674 - Obligated service"
 usc_title: 38
 usc_section: "7674"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7674"
-generated_at: "2026-03-30T02:55:53.535Z"
+generated_at: "2026-11-23T21:26:16.889Z"
+status: "active"
 ---
 
 # § 7674. Obligated service
@@ -31,3 +32,15 @@ generated_at: "2026-03-30T02:55:53.535Z"
     - **(B)** if the participant is a full-time employee in the Veterans Health Administration on such course completion date, on the date thereafter on which the participant is assigned to a position for which the participant’s course of training prepared the participant.
   - **(2)** A participant in the Program who on the participant’s course completion date is a full-time employee in the Veterans Health Administration serving in a capacity for which the participant’s course of training prepared the participant shall be considered to have begun serving the participant’s period of obligated service on such course completion date.
 - **(d)** In this section, the term “course completion date” means the date on which a participant in the Program completes the participant’s course of education or training under the Program.
+
+In General
+
+Determination of Service Commencement Date
+
+Commencement of Obligated Service
+
+Course Completion Date Defined
+
+## Source Credit
+
+*(Added [Pub. L. 105–368, title VIII, § 802(a)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3354](https://www.govinfo.gov/link/statute/112/3354).)*

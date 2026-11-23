@@ -3,9 +3,10 @@ title: "Section 937 - Application of BBEDCA"
 usc_title: 2
 usc_section: "937"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 937"
-generated_at: "2026-03-30T02:53:04.808Z"
+generated_at: "2026-11-23T21:25:21.211Z"
+status: "active"
 ---
 
 # § 937. Application of BBEDCA
@@ -20,3 +21,7 @@ For purposes of this chapter—
   - **(6)** the reference in section 906(d)(4) of this title to “section 902 or 903 of this title” shall be interpreted as referencing section 934 of this title ;
   - **(7)** section 906(k) of this title shall apply to a sequestration, if any, under this chapter; and
   - **(8)** references 2 2 So in original. Probably should be “the reference”. in section 907(e) of this title to “section 901, 902, or 903 of this title” shall be interpreted as referencing section 933 of this title .
+
+## Source Credit
+
+*([Pub. L. 111–139, title I, § 8](https://www.govinfo.gov/link/plaw/111/public/139), Feb. 12, 2010, [124 Stat. 21](https://www.govinfo.gov/link/statute/124/21).)*

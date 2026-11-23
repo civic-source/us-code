@@ -3,9 +3,10 @@ title: "Section 2282c - Vertical integration and acceleration of studies"
 usc_title: 33
 usc_section: "2282c"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2282c"
-generated_at: "2026-03-30T02:55:41.119Z"
+generated_at: "2026-11-23T21:26:11.435Z"
+status: "active"
 ---
 
 # § 2282c. Vertical integration and acceleration of studies
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:55:41.119Z"
   - **(1)** the status of the implementation of this section, including a description of each feasibility study subject to the requirements of this section;
   - **(2)** the amount of time taken to complete each feasibility study; and
   - **(3)** any recommendations for additional authority necessary to support efforts to expedite the feasibility study process, including an analysis of whether the limitation established by subsection (a)(2) needs to be adjusted to address the impacts of inflation.
+
+## Source Credit
+
+*([Pub. L. 113–121, title I, § 1001](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1196](https://www.govinfo.gov/link/statute/128/1196); [Pub. L. 115–270, title I, § 1330(b)](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3827](https://www.govinfo.gov/link/statute/132/3827); [Pub. L. 116–260, div. AA, title III, § 360(c)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2733](https://www.govinfo.gov/link/statute/134/2733); [Pub. L. 118–272, div. A, title I, § 1103(a)](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3000](https://www.govinfo.gov/link/statute/138/3000).)*

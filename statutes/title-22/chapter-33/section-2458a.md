@@ -3,9 +3,10 @@ title: "Section 2458a - Federal employee participation in cultural exchange prog
 usc_title: 22
 usc_section: "2458a"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2458a"
-generated_at: "2026-03-30T02:55:05.369Z"
+generated_at: "2026-11-23T21:25:58.498Z"
+status: "active"
 ---
 
 # § 2458a. Federal employee participation in cultural exchange programs
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.369Z"
   - **(2)** For purposes of this section, the term “Federal employee” means any employee as defined in subparagraphs (A) through (F) of section 7342(a)(1) of title 5 , but does not include a person described in subparagraph (G) of such section.
 - **(b)** The grants and other forms of assistance with respect to which the consent of Congress is given in subsection (a) of this section shall not constitute gifts for purposes of section 7342 of title 5 .
 - **(c)** The Secretary of State is authorized to promulgate regulations for purposes of this section.
+
+## Source Credit
+
+*([Pub. L. 87–256, § 108A](https://www.govinfo.gov/link/plaw/87/public/256), as added [Pub. L. 94–350, title I, § 111](https://www.govinfo.gov/link/plaw/94/public/350), July 12, 1976, [90 Stat. 825](https://www.govinfo.gov/link/statute/90/825); amended [Pub. L. 96–60, title II, § 204(d)](https://www.govinfo.gov/link/plaw/96/public/60), Aug. 15, 1979, [93 Stat. 400](https://www.govinfo.gov/link/statute/93/400).)*

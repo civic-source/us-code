@@ -3,9 +3,10 @@ title: "Section 31343 - Recording and discharging notices of claim of maritime l
 usc_title: 46
 usc_section: "31343"
 chapter: 313
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 31343"
-generated_at: "2026-03-30T02:56:15.563Z"
+generated_at: "2026-11-23T21:26:37.177Z"
+status: "active"
 ---
 
 # § 31343. Recording and discharging notices of claim of maritime lien
@@ -32,3 +33,16 @@ generated_at: "2026-03-30T02:56:15.563Z"
   - **(1)** A notice of claim of lien recorded under subsection (b) of this section shall expire 3 years after the date the lien was established, as such date is stated in the notice under subsection (a) of this section.
   - **(2)** On expiration of a notice of claim of lien under paragraph (1), and after a request by the vessel owner, the Secretary shall annotate the abstract of title to reflect the expiration of the lien.
 - **(f)** This section does not alter in any respect the law pertaining to the establishment of a maritime lien, the remedy provided by such a lien, or the defenses thereto, including any defense under the doctrine of laches.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 31343 | 46:925 |
+
+
+Historical and Revision Notes
+
+31343
+
+## Source Credit
+
+*([Pub. L. 100–710, title I, § 102(c)](https://www.govinfo.gov/link/plaw/100/public/710), Nov. 23, 1988, [102 Stat. 4748](https://www.govinfo.gov/link/statute/102/4748); [Pub. L. 107–295, title II, § 205(a)(1)](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2095](https://www.govinfo.gov/link/statute/116/2095); [Pub. L. 111–281, title IX, § 913(a)(1)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 3017](https://www.govinfo.gov/link/statute/124/3017); [Pub. L. 116–283, div. G, title LVXXXIII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXIII], § 8333, Jan. 1, 2021, [134 Stat. 4705](https://www.govinfo.gov/link/statute/134/4705).)*

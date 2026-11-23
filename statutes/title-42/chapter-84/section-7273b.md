@@ -3,9 +3,10 @@ title: "Section 7273b - Security investigations"
 usc_title: 42
 usc_section: "7273b"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7273b"
-generated_at: "2026-03-30T02:56:11.286Z"
+generated_at: "2026-11-23T21:26:33.059Z"
+status: "active"
 ---
 
 # § 7273b. Security investigations
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.286Z"
     - **(A)** That a current, complete investigation file is not available from any other department or agency of the Federal government with respect to that individual or facility.
     - **(B)** That no other department or agency of the Federal government is conducting an investigation with respect to that individual or facility that could be used as the basis for determining whether to grant the security clearance.
   - **(2)** For purposes of paragraph (1)(A), a current investigation file is a file on an investigation that has been conducted within the past five years.
+
+## Source Credit
+
+*([Pub. L. 101–510, div. C, title XXXI, § 3104(d)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1828](https://www.govinfo.gov/link/statute/104/1828).)*

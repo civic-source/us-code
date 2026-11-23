@@ -3,9 +3,10 @@ title: "Section 247 - Fair treatment in storage of agricultural products"
 usc_title: 7
 usc_section: "247"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 247"
-generated_at: "2026-03-30T02:53:42.279Z"
+generated_at: "2026-11-23T21:25:27.939Z"
+status: "active"
 ---
 
 # § 247. Fair treatment in storage of agricultural products
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:42.279Z"
   - **(2)** is tendered to the warehouse operator in a suitable condition for warehousing; and
   - **(3)** is tendered in a manner that is consistent with the ordinary and usual course of business.
 - **(b)** Nothing in this section prohibits a warehouse operator from entering into an agreement with a depositor of an agricultural product to allocate available storage space.
+
+## Source Credit
+
+*(Aug. 11, 1916, ch. 313, pt. C, § 8, as added [Pub. L. 106–472, title II, § 201](https://www.govinfo.gov/link/plaw/106/public/472), Nov. 9, 2000, [114 Stat. 2065](https://www.govinfo.gov/link/statute/114/2065).)*

@@ -3,9 +3,10 @@ title: "Section 521d - Sale, exchange, or interchange of National Forest System 
 usc_title: 16
 usc_section: "521d"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 521d"
-generated_at: "2026-03-30T02:54:22.861Z"
+generated_at: "2026-11-23T21:25:51.653Z"
+status: "active"
 ---
 
 # § 521d. Sale, exchange, or interchange of National Forest System land
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:22.861Z"
     - **(A)** the acquisition of land or interests in land for administrative sites for the National Forest System in the State from which the amounts were derived;
     - **(B)** the acquisition of land or interests in land for inclusion in the National Forest System in that State, including land or interests in land that enhance opportunities for recreational access; or
     - **(C)** the reimbursement of the Secretary for costs incurred in preparing a sale conducted under the authority of section 521e of this title if the sale is a competitive sale.
+
+## Source Credit
+
+*([Pub. L. 97–465, § 2](https://www.govinfo.gov/link/plaw/97/public/465), Jan. 12, 1983, [96 Stat. 2535](https://www.govinfo.gov/link/statute/96/2535); [Pub. L. 115–334, title VIII, § 8621(c)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4852](https://www.govinfo.gov/link/statute/132/4852).)*

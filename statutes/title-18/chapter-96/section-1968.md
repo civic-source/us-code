@@ -3,9 +3,10 @@ title: "Section 1968 - Civil investigative demand"
 usc_title: 18
 usc_section: "1968"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1968"
-generated_at: "2026-03-30T02:54:16.494Z"
+generated_at: "2026-11-23T21:25:44.111Z"
+status: "active"
 ---
 
 # § 1968. Civil investigative demand
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:16.494Z"
 - **(h)** Within twenty days after the service of any such demand upon any person, or at any time before the return date specified in the demand, whichever period is shorter, such person may file, in the district court of the United States for the judicial district within which such person resides, is found, or transacts business, and serve upon such custodian a petition for an order of such court modifying or setting aside such demand. The time allowed for compliance with the demand in whole or in part as deemed proper and ordered by the court shall not run during the pendency of such petition in the court. Such petition shall specify each ground upon which the petitioner relies in seeking such relief, and may be based upon any failure of such demand to comply with the provisions of this section or upon any constitutional or other legal right or privilege of such person.
 - **(i)** At any time during which any custodian is in custody or control of any documentary material delivered by any person in compliance with any such demand, such person may file, in the district court of the United States for the judicial district within which the office of such custodian is situated, and serve upon such custodian a petition for an order of such court requiring the performance by such custodian of any duty imposed upon him by this section.
 - **(j)** Whenever any petition is filed in any district court of the United States under this section, such court shall have jurisdiction to hear and determine the matter so presented, and to enter such order or orders as may be required to carry into effect the provisions of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 91–452, title IX, § 901(a)](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 944](https://www.govinfo.gov/link/statute/84/944).)*

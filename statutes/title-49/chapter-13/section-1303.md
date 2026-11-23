@@ -3,9 +3,10 @@ title: "Section 1303 - Administrative provisions"
 usc_title: 49
 usc_section: "1303"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 1303"
-generated_at: "2026-03-30T02:56:19.305Z"
+generated_at: "2026-11-23T21:26:40.612Z"
+status: "active"
 ---
 
 # § 1303. Administrative provisions
@@ -33,3 +34,39 @@ generated_at: "2026-03-30T02:56:19.305Z"
     - **(A)** the Committee on Commerce, Science, and Transportation of the Senate; and
     - **(B)** the Committee on Transportation and Infrastructure of the House of Representatives.
   - **(2)** No officer or agency of the United States has any authority to require the Board to submit budget estimates or requests, legislative recommendations, prepared testimony for congressional hearings, or comments on legislation to any officer or agency of the United States for approval, comments, or review before submitting such recommendations, testimony, or comments to Congress.
+
+Open Meetings.—
+
+In general
+
+Nonpublic collaborative discussions.—
+
+In general
+
+Disclosure of nonpublic collaborative discussions
+
+Summary
+
+Ongoing proceedings
+
+Preservation of open meetings requirements for agency action
+
+Statutory construction
+
+Representation by Attorneys
+
+Admission To Practice
+
+Submission of Certain Documents to Congress.—
+
+In general
+
+No approval required
+
+Budget Requests
+
+Direct Transmittal to Congress
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title II, § 201(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 934](https://www.govinfo.gov/link/statute/109/934), § 703; renumbered § 1303 and amended [Pub. L. 114–110](https://www.govinfo.gov/link/plaw/114/public/110), §§ 3(a)(3), (c)(1), 5, Dec. 18, 2015, [129 Stat. 2228–2230](https://www.govinfo.gov/link/statute/129/2228).)*

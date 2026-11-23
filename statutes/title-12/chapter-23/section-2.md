@@ -3,9 +3,10 @@ title: "Section 2 - Minimum capital level"
 usc_title: 12
 usc_section: "2"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2"
-generated_at: "2026-03-30T02:53:53.484Z"
+generated_at: "2026-11-23T21:25:37.096Z"
+status: "active"
 ---
 
 # § 2279bb–2. Minimum capital level
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:53.484Z"
   - **(2)** For purposes of this subsection, the designated on-balance sheet assets of the Corporation shall be—
     - **(A)** the aggregate on-balance sheet assets of the Corporation acquired under section 2279aa–6(d) of this title ; and
     - **(B)** the aggregate amount of qualified loans purchased and held by the Corporation under section 2279aa–3(c)(13) of this title .
+
+## Source Credit
+
+*([Pub. L. 92–181, title VIII, § 8](https://www.govinfo.gov/link/plaw/92/public/181).33, as added [Pub. L. 102–237, title V, § 503(b)(2)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1873](https://www.govinfo.gov/link/statute/105/1873); amended [Pub. L. 104–105, title I, § 114](https://www.govinfo.gov/link/plaw/104/public/105), Feb. 10, 1996, [110 Stat. 166](https://www.govinfo.gov/link/statute/110/166); [Pub. L. 115–334, title V, § 5411(49)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4685](https://www.govinfo.gov/link/statute/132/4685).)*

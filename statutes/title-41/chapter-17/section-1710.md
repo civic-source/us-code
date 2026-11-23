@@ -3,9 +3,10 @@ title: "Section 1710 - Public-private competition required before conversion to 
 usc_title: 41
 usc_section: "1710"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 1710"
-generated_at: "2026-03-30T02:55:55.803Z"
+generated_at: "2026-11-23T21:26:18.792Z"
+status: "active"
 ---
 
 # § 1710. Public-private competition required before conversion to contractor performance
@@ -58,3 +59,62 @@ generated_at: "2026-03-30T02:55:55.803Z"
   - **(1)** included on the procurement list established pursuant to section 8503 of this title ; or
   - **(2)** planned to be changed to performance by a qualified nonprofit agency for the blind or by a qualified nonprofit agency for other severely disabled people in accordance with chapter 85 of this title.
 - **(e)** The provisions of this section shall not apply during war or during a period of national emergency declared by the President or Congress.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1710 | 41:439. | Pub. L. 93–400, § 43 , as added Pub. L. 110–181, title III, § 327(a) , Jan. 28, 2008 , 122 Stat. 63 . |
+
+
+Public-private competition.—
+
+When conversion to contractor performance is allowed
+
+Not a new requirement
+
+Prohibitions
+
+Consulting With Affected Employees or Their Representatives.—
+
+Consulting with affected employees
+
+Consulting with representatives.—
+
+Employees represented by a labor organization
+
+Employees not represented by a labor organization
+
+Regulations
+
+Congressional Notification.—
+
+Report
+
+Examination of potential economic effect
+
+Objections to public-private competition.—
+
+Grounds
+
+Deadlines
+
+Report and certification required before solicitation or award of contract
+
+Exemption for the Purchase of Products and Services of the Blind and Other Severely Disabled People
+
+Inapplicability During War or Emergency
+
+Historical and Revision Notes
+
+1710
+
+Pub. L. 93–400, § 43
+
+Pub. L. 110–181, title III, § 327(a)
+
+Jan. 28, 2008
+
+122 Stat. 63
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3715](https://www.govinfo.gov/link/statute/124/3715).)*

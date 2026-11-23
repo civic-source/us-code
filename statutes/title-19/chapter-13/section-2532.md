@@ -3,9 +3,10 @@ title: "Section 2532 - Federal standards-related activities"
 usc_title: 19
 usc_section: "2532"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2532"
-generated_at: "2026-03-30T02:54:24.679Z"
+generated_at: "2026-11-23T21:25:42.816Z"
+status: "active"
 ---
 
 # § 2532. Federal standards-related activities
@@ -31,3 +32,7 @@ No Federal agency may engage in any standards-related activity that creates unne
       - **(ii)** In developing standards, a Federal agency may, but is not required to, take into consideration any international standard promulgated by an international standards organization the membership of which is described in section 2571(6)(A)(ii) 1 1 See References in Text note below. of this title.
   - **(3)** Each Federal agency shall, if appropriate, develop standards based on performance criteria, such as those relating to the intended use of a product and the level of performance that the product must achieve under defined conditions, rather than on design criteria, such as those relating to the physical form of the product or the types of material of which the product is made.
   - **(4)** Each Federal agency shall, with respect to any conformity assessment procedure used by it, permit access for obtaining an assessment of conformity and the mark of the system, if any, to foreign suppliers of a product on the same basis as access is permitted to suppliers of like products, whether of domestic or other foreign origin.
+
+## Source Credit
+
+*([Pub. L. 96–39, title IV, § 402](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 242](https://www.govinfo.gov/link/statute/93/242); [Pub. L. 103–465, title III, § 351(c)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4956](https://www.govinfo.gov/link/statute/108/4956); [Pub. L. 104–295, § 20(c)(14)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3529](https://www.govinfo.gov/link/statute/110/3529).)*

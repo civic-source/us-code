@@ -3,9 +3,10 @@ title: "Section 6041 - Information at source"
 usc_title: 26
 usc_section: "6041"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6041"
-generated_at: "2026-03-30T02:55:27.832Z"
+generated_at: "2026-11-23T21:26:06.769Z"
+status: "active"
 ---
 
 # § 6041. Information at source
@@ -28,3 +29,15 @@ generated_at: "2026-03-30T02:55:27.832Z"
 - **(h)** In the case of any calendar year after 2026, the dollar amount in subsection (a) shall be increased by an amount equal to—
   - **(1)** such dollar amount, multiplied by
   - **(2)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, determined by substituting “calendar year 2025” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+
+Application to Corporations
+
+Regulations
+
+Suspension of Rulings
+
+Effective Date
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 745; [Pub. L. 87–834, § 19(f)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 1058](https://www.govinfo.gov/link/statute/76/1058); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 95–600, title V, § 501(b)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2878](https://www.govinfo.gov/link/statute/92/2878); [Pub. L. 97–34, title VII, § 723(b)(1)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 344](https://www.govinfo.gov/link/statute/95/344); [Pub. L. 97–248, title III, § 309(b)(1)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 595](https://www.govinfo.gov/link/statute/96/595); [Pub. L. 98–369, div. A, title VII, § 722(h)(4)(B)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 976](https://www.govinfo.gov/link/statute/98/976); [Pub. L. 99–514, title XV](https://www.govinfo.gov/link/plaw/99/public/514), §§ 1501(c)(1), 1523(b)(2), Oct. 22, 1986, [100 Stat. 2736](https://www.govinfo.gov/link/statute/100/2736), 2748; [Pub. L. 104–168, title XII, § 1201(a)(1)](https://www.govinfo.gov/link/plaw/104/public/168), July 30, 1996, [110 Stat. 1469](https://www.govinfo.gov/link/statute/110/1469); [Pub. L. 108–173, title XII, § 1203(a)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2480](https://www.govinfo.gov/link/statute/117/2480); [Pub. L. 108–357, title VIII, § 885(b)(3)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1640](https://www.govinfo.gov/link/statute/118/1640); [Pub. L. 111–148, title IX, § 9006(a)](https://www.govinfo.gov/link/plaw/111/public/148), (b), Mar. 23, 2010, [124 Stat. 855](https://www.govinfo.gov/link/statute/124/855); [Pub. L. 111–240, title II, § 2101(a)](https://www.govinfo.gov/link/plaw/111/public/240), Sept. 27, 2010, [124 Stat. 2561](https://www.govinfo.gov/link/statute/124/2561); [Pub. L. 112–9](https://www.govinfo.gov/link/plaw/112/public/9), §§ 2(a), (b), 3(a), Apr. 14, 2011, [125 Stat. 36](https://www.govinfo.gov/link/statute/125/36); [Pub. L. 119–21, title VII](https://www.govinfo.gov/link/plaw/119/public/21), §§ 70201(f)(1), 70202(c)(2), 70433(a), (b), (e), July 4, 2025, [139 Stat. 172](https://www.govinfo.gov/link/statute/139/172), 175, 243, 244.)*

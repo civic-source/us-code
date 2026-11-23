@@ -3,9 +3,10 @@ title: "Section 130 - Certain personal injury liability assignments"
 usc_title: 26
 usc_section: "130"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 130"
-generated_at: "2026-03-30T02:55:27.627Z"
+generated_at: "2026-11-23T21:26:06.010Z"
+status: "active"
 ---
 
 # § 130. Certain personal injury liability assignments
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:27.627Z"
   - **(2)** the periods of the payments under the annuity contract or obligation are reasonably related to the periodic payments under the qualified assignment, and the amount of any such payment under the contract or obligation does not exceed the periodic payment to which it relates,
   - **(3)** such annuity contract or obligation is designated by the taxpayer (in such manner as the Secretary shall by regulations prescribe) as being taken into account under this section with respect to such qualified assignment, and
   - **(4)** such annuity contract or obligation is purchased by the taxpayer not more than 60 days before the date of the qualified assignment and not later than 60 days after the date of such assignment.
+
+## Source Credit
+
+*(Added [Pub. L. 97–473, title I, § 101(b)(1)](https://www.govinfo.gov/link/plaw/97/public/473), Jan. 14, 1983, [96 Stat. 2605](https://www.govinfo.gov/link/statute/96/2605); amended [Pub. L. 99–514, title X, § 1002(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2388](https://www.govinfo.gov/link/statute/100/2388); [Pub. L. 100–647, title VI, § 6079(b)(1)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3709](https://www.govinfo.gov/link/statute/102/3709); [Pub. L. 105–34, title IX, § 962(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 891](https://www.govinfo.gov/link/statute/111/891).)*

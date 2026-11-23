@@ -3,9 +3,10 @@ title: "Section 5397 - Regulations"
 usc_title: 25
 usc_section: "5397"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5397"
-generated_at: "2026-03-30T02:54:52.871Z"
+generated_at: "2026-11-23T21:25:54.734Z"
+status: "active"
 ---
 
 # § 5397. Regulations
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:52.871Z"
 - **(c)** The Secretary shall adapt the negotiated rulemaking procedures to the unique context of self-governance and the government-to-government relationship between the United States and Indian tribes.
 - **(d)** The lack of promulgated regulations shall not limit the effect of this subchapter.
 - **(e)** Unless expressly agreed to by the participating Indian tribe in the compact or funding agreement, the participating Indian tribe shall not be subject to any agency circular, policy, manual, guidance, or rule adopted by the Indian Health Service, except for the eligibility provisions of section 5324(g) of this title and regulations promulgated under this section.
+
+## Source Credit
+
+*([Pub. L. 93–638, title V, § 517](https://www.govinfo.gov/link/plaw/93/public/638), as added [Pub. L. 106–260, § 4](https://www.govinfo.gov/link/plaw/106/public/260), Aug. 18, 2000, [114 Stat. 730](https://www.govinfo.gov/link/statute/114/730).)*

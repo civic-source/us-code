@@ -3,9 +3,10 @@ title: "Section 6864 - Financial assistance"
 usc_title: 42
 usc_section: "6864"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6864"
-generated_at: "2026-03-30T02:56:11.267Z"
+generated_at: "2026-11-23T21:26:32.985Z"
+status: "active"
 ---
 
 # § 6864. Financial assistance
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.267Z"
   - **(3)** established policies and procedures designed to assure that financial assistance provided under this part will be used to supplement, and not to supplant, State or local funds, and, to the extent practicable, to increase the amounts of such funds that would be made available in the absence of Federal funds for carrying out the purpose of this part, including plans and procedures (A) for securing, to the maximum extent practicable, the services of volunteers and training participants and public service employment workers, pursuant to title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3111 et seq.], to work under the supervision of qualified supervisors and foremen, (B) for using Federal financial assistance under this part to increase the portion of low-income weatherization assistance that the State obtains from non-Federal sources, including private sources, and (C) for complying with the limitations set forth in section 6865 of this title ; and
   - **(4)** selected on the basis of public comment received during a public hearing conducted pursuant to section 6865(b)(1) of this title , and other appropriate findings, community action agencies or other public or nonprofit entities to undertake the weatherization activities authorized by this subchapter: Provided , Such selection shall be based on the agency’s experience and performance in weatherization or housing renovation activities, experience in assisting low-income persons in the area to be served, and the capacity to undertake a timely and effective weatherization program: Provided further , That in making such selection preference shall be given to any community action agency or other public or nonprofit entity which has, or is currently administering, an effective program under this subchapter or under title II of the Economic Opportunity Act of 1964 [ 42 U.S.C. 2781 et seq.].
 - **(c)** Effective with fiscal year 1991, and annually thereafter, the Secretary shall update the population, eligible households, climatic, residential energy use, and all other data used in allocating the funds under this part among the States pursuant to subsection (a).
+
+## Source Credit
+
+*([Pub. L. 94–385, title IV, § 414](https://www.govinfo.gov/link/plaw/94/public/385), Aug. 14, 1976, [90 Stat. 1154](https://www.govinfo.gov/link/statute/90/1154); [Pub. L. 96–294, title V](https://www.govinfo.gov/link/plaw/96/public/294), §§ 573(c), 577(2), June 30, 1980, [94 Stat. 759](https://www.govinfo.gov/link/statute/94/759), 760; [Pub. L. 101–440, § 7(c)](https://www.govinfo.gov/link/plaw/101/public/440), (g), Oct. 18, 1990, [104 Stat. 1012](https://www.govinfo.gov/link/statute/104/1012), 1014; [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(38), (f)(29)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–427, 2681–434; [Pub. L. 113–128, title V, § 512(k)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1709](https://www.govinfo.gov/link/statute/128/1709).)*

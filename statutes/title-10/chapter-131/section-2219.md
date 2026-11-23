@@ -3,9 +3,10 @@ title: "Section 2219 - Grants for improvement of Navy ship repair or alterations
 usc_title: 10
 usc_section: "2219"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2219"
-generated_at: "2026-03-30T02:53:38.149Z"
+generated_at: "2026-11-23T21:25:32.575Z"
+status: "active"
 ---
 
 # § 2219. Grants for improvement of Navy ship repair or alterations capability
@@ -50,3 +51,15 @@ generated_at: "2026-03-30T02:53:38.149Z"
     - **(A)** means an article, material, or supply brought to the site where the project or program is being carried out for incorporation into the project or program; and
     - **(B)** includes an item brought to the site preassembled from articles, materials, or supplies.
   - **(3)** The term “United States” includes the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, and the Virgin Islands.
+
+Assistance Authorized
+
+Eligibility
+
+Guidelines
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title X, § 1017](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 382](https://www.govinfo.gov/link/statute/137/382).)*

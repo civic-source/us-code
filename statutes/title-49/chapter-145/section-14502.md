@@ -3,9 +3,10 @@ title: "Section 14502 - Tax discrimination against motor carrier transportation 
 usc_title: 49
 usc_section: "14502"
 chapter: 145
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 14502"
-generated_at: "2026-03-30T02:56:19.331Z"
+generated_at: "2026-11-23T21:26:40.692Z"
+status: "active"
 ---
 
 # § 14502. Tax discrimination against motor carrier transportation property
@@ -26,3 +27,35 @@ generated_at: "2026-03-30T02:56:19.331Z"
   - **(4)** If the ratio of the assessed value of other commercial and industrial property in the assessment jurisdiction to the true market value of all other commercial and industrial property cannot be determined to the satisfaction of the district court through the random-sampling method known as a sales assessment ratio study (to be carried out under statistical principles applicable to such a study), the court shall find, as a violation of this section—
     - **(A)** an assessment of the motor carrier transportation property at a value that has a higher ratio to the true market value of the motor carrier transportation property than the assessment value of all other property subject to a property tax levy in the assessment jurisdiction has to the true market value of all such other property; and
     - **(B)** the collection of ad valorem property tax on the motor carrier transportation property at a tax rate that exceeds the tax ratio rate applicable to taxable property in the taxing district.
+
+Definitions
+
+Assessment
+
+Assessment jurisdiction
+
+Motor carrier transportation property
+
+Commercial and industrial property
+
+Acts Burdening Interstate Commerce
+
+Excessive valuation of property
+
+Tax on assessment
+
+Ad valorem tax
+
+Jurisdiction.—
+
+In general
+
+Limitation in relief
+
+Burden of proof
+
+Violation
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 900](https://www.govinfo.gov/link/statute/109/900).)*

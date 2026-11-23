@@ -3,9 +3,10 @@ title: "Section 8401 - Regulation of certain biological agents and toxins"
 usc_title: 7
 usc_section: "8401"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 8401"
-generated_at: "2026-03-30T02:53:42.476Z"
+generated_at: "2026-11-23T21:25:28.475Z"
+status: "active"
 ---
 
 # § 8401. Regulation of certain biological agents and toxins
@@ -130,3 +131,31 @@ generated_at: "2026-03-30T02:53:42.476Z"
   - **(6)** The term “registered person” means a person registered under regulations under subsection (b) or (c).
   - **(7)** The term “Secretary” means the Secretary of Agriculture.
 - **(m)** For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2002 through 2007, in addition to other funds that may be available.
+
+(aa) whether such inclusion would have a substantial negative impact on the research and development of solutions for the animal or plant disease caused by the agent or toxin; and
+
+(bb) whether the negative impact described in item (aa) would substantially outweigh the risk posed by the agent or toxin to animal or plant health if it is not included on the list; and
+
+(aa) are listed pursuant to subsection (a)(1); and
+
+(bb) are listed pursuant to section 262a(a)(1) of title 42 . 3 3 See References in Text note below.
+
+(aa) is listed pursuant to subsection (a)(1); and
+
+(bb) is listed pursuant to section 262a(a)(1) of title 42 . 3
+
+(aa) The person has submitted to the Secretary an application for the exemption meeting the requirements established by the Secretary.
+
+(bb) The person has notified the Secretary that the investigation has been authorized under such an Act.
+
+Date Certain for Promulgation of List
+
+Date Certain for Notice of Possession
+
+Date Certain for Promulgation; Effective Date Regarding Criminal and Civil Penalties
+
+Transitional Provision Regarding Current Research and Education
+
+## Source Credit
+
+*([Pub. L. 107–188, title II, § 212](https://www.govinfo.gov/link/plaw/107/public/188), June 12, 2002, [116 Stat. 647](https://www.govinfo.gov/link/statute/116/647); [Pub. L. 107–296, title XVII, § 1709(b)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2319](https://www.govinfo.gov/link/statute/116/2319); [Pub. L. 115–334, title XII, § 12204](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4949](https://www.govinfo.gov/link/statute/132/4949).)*

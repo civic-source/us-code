@@ -3,9 +3,10 @@ title: "Section 13293 - Protection of proprietary information"
 usc_title: 42
 usc_section: "13293"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13293"
-generated_at: "2026-03-30T02:56:11.441Z"
+generated_at: "2026-11-23T21:26:33.591Z"
+status: "active"
 ---
 
 # § 13293. Protection of proprietary information
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.441Z"
   - **(1)** results from research and development activities conducted under this subchapter; and
   - **(2)** would be a trade secret or commercial or financial information that is privileged or confidential if the information had been obtained from a participant,
 - **(b)** For purposes of subsection (a), the term “domestic companies” means entities which are substantially involved in the United States in the domestic production of motor vehicles for sale in the United States and have a substantial percentage of their production facilities in the United States.
+
+## Source Credit
+
+*([Pub. L. 102–486, title VI, § 623](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2904](https://www.govinfo.gov/link/statute/106/2904).)*

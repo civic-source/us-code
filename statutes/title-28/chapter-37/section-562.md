@@ -3,9 +3,10 @@ title: "Section 562 - Vacancies"
 usc_title: 28
 usc_section: "562"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 562"
-generated_at: "2026-03-30T02:55:30.132Z"
+generated_at: "2026-11-23T21:26:01.057Z"
+status: "active"
 ---
 
 # § 562. Vacancies
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:30.132Z"
   - **(1)** The entry into office of a United States marshal appointed by the President, pursuant to section 561(c).
   - **(2)** The expiration of the thirtieth day following the end of the next session of the Senate.
   - **(3)** If such designee of the Attorney General is appointed by the President pursuant to section 561(c), but the Senate refuses to give its advice and consent to the appointment, the expiration of the thirtieth day following such refusal.
+
+## Source Credit
+
+*(Added [Pub. L. 100–690, title VII, § 7608(a)(1)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4513](https://www.govinfo.gov/link/statute/102/4513).)*

@@ -3,9 +3,10 @@ title: "Section 3039 - Assistance to United States law enforcement agencies"
 usc_title: 50
 usc_section: "3039"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3039"
-generated_at: "2026-03-30T02:56:26.230Z"
+generated_at: "2026-11-23T21:26:39.000Z"
+status: "active"
 ---
 
 # § 3039. Assistance to United States law enforcement agencies
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:26.230Z"
     - **(B)** An alien known by the intelligence agency concerned to be a permanent resident alien.
     - **(C)** An unincorporated association substantially composed of United States citizens or permanent resident aliens.
     - **(D)** A corporation incorporated in the United States, except for a corporation directed and controlled by a foreign government or governments.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title I, § 105A, as added [Pub. L. 104–293, title VIII, § 814(a)](https://www.govinfo.gov/link/plaw/104/public/293), Oct. 11, 1996, [110 Stat. 3483](https://www.govinfo.gov/link/statute/110/3483); amended [Pub. L. 108–136, div. A, title IX, § 921(e)(3)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1569](https://www.govinfo.gov/link/statute/117/1569).)*

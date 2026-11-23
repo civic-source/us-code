@@ -3,9 +3,10 @@ title: "Section 1905 - Supplemental provisions"
 usc_title: 48
 usc_section: "1905"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1905"
-generated_at: "2026-03-30T02:56:14.595Z"
+generated_at: "2026-11-23T21:26:38.058Z"
+status: "active"
 ---
 
 # § 1905. Supplemental provisions
@@ -63,3 +64,13 @@ generated_at: "2026-03-30T02:56:14.595Z"
 - **(p)** The responsibilities of the United States with regard to implementation of section 235 of the Compact shall be discharged by the Secretary of the Interior, who shall consult with the Government of the Marshall Islands and the designated beneficiaries of the funds held in trust by the High Commissioner of the Trust Territory of the Pacific Islands.
 - **(q)**
 - **(r)** Any person in the Federated States of Micronesia or the Marshall Islands shall be liable for user fees, if any, for services provided in the Federated States of Micronesia or the Marshall Islands by the Government of the United States to the same extent as any person in the United States would be liable for fees, if any, for such services in the United States.
+
+(1) For fiscal year 1987, an amount not to exceed 75 per centum of the total amount appropriated for such programs for fiscal year 1986;
+
+(2) For fiscal year 1988, an amount not to exceed 50 per centum of the total amount appropriated for such programs for fiscal year 1986;
+
+(3) For fiscal year 1989, an amount not to exceed 25 per centum of the total amount appropriated for such programs for fiscal year 1986.
+
+## Source Credit
+
+*([Pub. L. 99–239, title I, § 105](https://www.govinfo.gov/link/plaw/99/public/239), Jan. 14, 1986, [99 Stat. 1791](https://www.govinfo.gov/link/statute/99/1791); [Pub. L. 99–396, § 20(a)](https://www.govinfo.gov/link/plaw/99/public/396), Aug. 27, 1986, [100 Stat. 844](https://www.govinfo.gov/link/statute/100/844); [Pub. L. 99–658, title I, § 104(c)](https://www.govinfo.gov/link/plaw/99/public/658), Nov. 14, 1986, [100 Stat. 3676](https://www.govinfo.gov/link/statute/100/3676); [Pub. L. 100–369, § 9](https://www.govinfo.gov/link/plaw/100/public/369), July 18, 1988, [102 Stat. 837](https://www.govinfo.gov/link/statute/102/837); [Pub. L. 102–486, title XXVII, § 2704](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3120](https://www.govinfo.gov/link/statute/106/3120); [Pub. L. 113–287, § 5](https://www.govinfo.gov/link/plaw/113/public/287) (o)(1), Dec. 19, 2014, [128 Stat. 3272](https://www.govinfo.gov/link/statute/128/3272).)*

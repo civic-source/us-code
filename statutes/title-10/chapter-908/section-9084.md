@@ -3,9 +3,10 @@ title: "Section 9084 - Office of the Chief of Space Operations: function; compos
 usc_title: 10
 usc_section: "9084"
 chapter: 908
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 9084"
-generated_at: "2026-03-30T02:53:38.256Z"
+generated_at: "2026-11-23T21:25:32.978Z"
+status: "active"
 ---
 
 # § 9084. Office of the Chief of Space Operations: function; composition
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:53:38.256Z"
   - **(2)** Other members of the Space Force and Air Force assigned or detailed to the Office of the Chief of Space Operations.
   - **(3)** Civilian employees in the Department of the Air Force assigned or detailed to the Office of the Chief of Space Operations.
 - **(c)** Except as otherwise specifically prescribed by law, the Office of the Chief of Space Operations shall be organized in such manner, and the members of the Office of the Chief of Space Operations shall perform such duties and have such titles, as the Secretary of the Air Force may prescribe.
+
+Function
+
+Composition
+
+Organization
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. A, title IX, § 921(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3805](https://www.govinfo.gov/link/statute/134/3805), § 9083; renumbered § 9084, [Pub. L. 118–159, div. A, title V, § 509C(a)(1)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1873](https://www.govinfo.gov/link/statute/138/1873).)*

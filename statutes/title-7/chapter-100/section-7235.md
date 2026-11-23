@@ -3,9 +3,10 @@ title: "Section 7235 - Loan deficiency payments"
 usc_title: 7
 usc_section: "7235"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7235"
-generated_at: "2026-03-30T02:53:42.446Z"
+generated_at: "2026-11-23T21:25:28.418Z"
+status: "active"
 ---
 
 # § 7235. Loan deficiency payments
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:42.446Z"
 - **(g)** For the 2001 crop year, the Secretary shall determine the amount of the loan deficiency payment to be made under this section to the producers on a farm with respect to a quantity of a loan commodity using the payment rate in effect under subsection (c) as of the earlier of the following:
   - **(1)** The date on which the producers marketed or otherwise lost beneficial interest in the crop of the loan commodity, as determined by the Secretary.
   - **(2)** The date the producers requested the payment.
+
+## Source Credit
+
+*([Pub. L. 104–127, title I, § 135](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 909](https://www.govinfo.gov/link/statute/110/909); [Pub. L. 106–224, title II, § 206](https://www.govinfo.gov/link/plaw/106/public/224), June 20, 2000, [114 Stat. 405](https://www.govinfo.gov/link/statute/114/405); [Pub. L. 107–171, title I, § 1205(f)(2)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 159](https://www.govinfo.gov/link/statute/116/159).)*

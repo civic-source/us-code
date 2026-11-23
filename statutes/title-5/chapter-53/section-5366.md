@@ -3,9 +3,10 @@ title: "Section 5366 - Appeals"
 usc_title: 5
 usc_section: "5366"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5366"
-generated_at: "2026-03-30T02:52:56.015Z"
+generated_at: "2026-11-23T21:25:23.252Z"
+status: "active"
 ---
 
 # § 5366. Appeals
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:52:56.015Z"
 - **(b)** For purposes of any appeal procedures (other than those described in subsection (a) of this section) or any grievance procedure negotiated under the provisions of chapter 71 of this title—
   - **(1)** any action which is the basis of an individual’s entitlement to benefits under this subchapter, and
   - **(2)** any termination of any such benefits under this subchapter,
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title VIII, § 801(a)(1)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1221](https://www.govinfo.gov/link/statute/92/1221).)*

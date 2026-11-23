@@ -3,9 +3,10 @@ title: "Section 283dd - Restrictions"
 usc_title: 22
 usc_section: "283dd"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 283dd"
-generated_at: "2026-03-30T02:55:05.316Z"
+generated_at: "2026-11-23T21:25:58.356Z"
+status: "active"
 ---
 
 # § 283dd. Restrictions
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.316Z"
   - **(1)** subscribe to additional shares of stock of the Corporation;
   - **(2)** vote for or agree to any amendment of the agreement which increases the obligations of the United States, or which changes the purpose or functions of the Corporation; or
   - **(3)** make a loan or provide other financing to the Corporation.
+
+## Source Credit
+
+*([Pub. L. 98–473, title I, § 101(1) [title I]](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 1884](https://www.govinfo.gov/link/statute/98/1884), 1885.)*

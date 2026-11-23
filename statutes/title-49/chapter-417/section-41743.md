@@ -3,9 +3,10 @@ title: "Section 41743 - Airports not receiving sufficient service"
 usc_title: 49
 usc_section: "41743"
 chapter: 417
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 41743"
-generated_at: "2026-03-30T02:56:19.378Z"
+generated_at: "2026-11-23T21:26:40.866Z"
+status: "active"
 ---
 
 # § 41743. Airports not receiving sufficient service
@@ -48,3 +49,43 @@ generated_at: "2026-03-30T02:56:19.378Z"
   - **(3)** to ensure that the Bureau of Transportation Statistics collects data on passenger information to assess the service needs of small communities;
   - **(4)** to work with and coordinate efforts with other Federal, State, and local agencies to increase the viability of service to small communities; and
   - **(5)** to provide policy recommendations to the Secretary and Congress that will ensure that small communities have access to quality, affordable air transportation services.
+
+Small Community Air Service Development Program
+
+Application Required
+
+Criteria for Participation
+
+Size
+
+Characteristics
+
+State limit
+
+Overall limit.—
+
+In general
+
+Same projects
+
+Exception
+
+Priorities
+
+Types of Assistance
+
+Authority To Make Agreements.—
+
+In general
+
+Authorization of appropriations
+
+Designation of Responsible Official
+
+Pilot
+
+Program
+
+## Source Credit
+
+*(Added [Pub. L. 106–181, title II, § 203(a)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 92](https://www.govinfo.gov/link/statute/114/92); amended [Pub. L. 108–11, title II, § 2708](https://www.govinfo.gov/link/plaw/108/public/11), Apr. 16, 2003, [117 Stat. 601](https://www.govinfo.gov/link/statute/117/601); [Pub. L. 108–176, title II, § 225(b)(3)](https://www.govinfo.gov/link/plaw/108/public/176), title IV, § 412, Dec. 12, 2003, [117 Stat. 2529](https://www.govinfo.gov/link/statute/117/2529), 2551; [Pub. L. 110–330, § 5(b)](https://www.govinfo.gov/link/plaw/110/public/330), Sept. 30, 2008, [122 Stat. 3718](https://www.govinfo.gov/link/statute/122/3718); [Pub. L. 111–69, § 5(b)](https://www.govinfo.gov/link/plaw/111/public/69), Oct. 1, 2009, [123 Stat. 2055](https://www.govinfo.gov/link/statute/123/2055); [Pub. L. 111–249, § 5(b)](https://www.govinfo.gov/link/plaw/111/public/249), Sept. 30, 2010, [124 Stat. 2628](https://www.govinfo.gov/link/statute/124/2628); [Pub. L. 112–30, title II, § 205(b)](https://www.govinfo.gov/link/plaw/112/public/30), Sept. 16, 2011, [125 Stat. 358](https://www.govinfo.gov/link/statute/125/358); [Pub. L. 112–91, § 5(b)](https://www.govinfo.gov/link/plaw/112/public/91), Jan. 31, 2012, [126 Stat. 4](https://www.govinfo.gov/link/statute/126/4); [Pub. L. 112–95, title IV, § 429](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 100](https://www.govinfo.gov/link/statute/126/100); [Pub. L. 114–190, title I, § 1102(e)](https://www.govinfo.gov/link/plaw/114/public/190), July 15, 2016, [130 Stat. 617](https://www.govinfo.gov/link/statute/130/617); [Pub. L. 115–63, title I, § 104(b)](https://www.govinfo.gov/link/plaw/115/public/63), Sept. 29, 2017, [131 Stat. 1170](https://www.govinfo.gov/link/statute/131/1170); [Pub. L. 115–141, div. M, title I, § 104(b)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1047](https://www.govinfo.gov/link/statute/132/1047); [Pub. L. 115–254, div. B, title IV, § 455](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3349](https://www.govinfo.gov/link/statute/132/3349); [Pub. L. 118–15, div. B, title II, § 2206(b)](https://www.govinfo.gov/link/plaw/118/public/15), Sept. 30, 2023, [137 Stat. 85](https://www.govinfo.gov/link/statute/137/85); [Pub. L. 118–34, title I, § 106(b)](https://www.govinfo.gov/link/plaw/118/public/34), Dec. 26, 2023, [137 Stat. 1115](https://www.govinfo.gov/link/statute/137/1115); [Pub. L. 118–41, title I, § 106(b)](https://www.govinfo.gov/link/plaw/118/public/41), Mar. 8, 2024, [138 Stat. 23](https://www.govinfo.gov/link/statute/138/23); [Pub. L. 118–63, title V, § 562](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1217](https://www.govinfo.gov/link/statute/138/1217).)*

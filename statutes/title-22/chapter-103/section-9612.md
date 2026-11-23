@@ -3,9 +3,10 @@ title: "Section 9612 - United States International Development Finance Corporati
 usc_title: 22
 usc_section: "9612"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9612"
-generated_at: "2026-03-30T02:55:05.468Z"
+generated_at: "2026-11-23T21:25:58.779Z"
+status: "active"
 ---
 
 # § 9612. United States International Development Finance Corporation
@@ -14,9 +15,9 @@ generated_at: "2026-03-30T02:55:05.468Z"
 - **(b)** The purpose of the Corporation shall be to mobilize and facilitate the participation of private sector capital and skills in the economic development of less developed countries, as described in subsection (c), countries in transition from nonmarket to market economies, and other eligible foreign countries, in order to complement the development assistance objectives, and advance the foreign policy and national security interests, of the United States. In carrying out its purpose, the Corporation, utilizing broad criteria, shall take into account in its financing operations the economic and financial soundness and development objectives of projects for which it provides support under subchapter II of this chapter.
 - **(c)**
   - **(1)** The Corporation shall prioritize the provision of support under subchapter II of this chapter in less developed countries.
-  - **(2)** The Corporation may provide support for a project under title II in an advancing income country if, before providing such support, the Chief Executive Officer certifies in writing to the appropriate congressional committees, that such support will be provided in accordance with the policy established pursuant to subsection (d)(2). Such certification may be included as an appendix to the report required by section 1446.
+  - **(2)** The Corporation may provide support for a project under subchapter II of this chapter in an advancing income country if, before providing such support, the Chief Executive Officer certifies in writing to the appropriate congressional committees, that such support will be provided in accordance with the policy established pursuant to subsection (d)(2). Such certification may be included as an appendix to the report required by section 9656 of this title .
   - **(3)**
-    - **(A)** The Corporation may provide support for a project under title II in a high-income country if, before providing such support, the Chief Executive Officer certifies in writing to the appropriate congressional committees that such support will be provided in accordance with the policy established pursuant to subsection (d)(3). Such certification may be included as an appendix to the report required by section 9656 of this title .
+    - **(A)** The Corporation may provide support for a project under subchapter II of this chapter in a high-income country if, before providing such support, the Chief Executive Officer certifies in writing to the appropriate congressional committees that such support will be provided in accordance with the policy established pursuant to subsection (d)(3). Such certification may be included as an appendix to the report required by section 9656 of this title .
     - **(B)** Not later than 120 days after December 18, 2025 , and annually thereafter, the Corporation shall submit to the appropriate congressional committees a report, which may be submitted in classified or confidential form, that includes—
       - **(i)** a list of all high-income countries in which the Corporation anticipates providing support in the subsequent fiscal year (and, with respect to the first such report, the then-current fiscal year); and
       - **(ii)** to the extent practicable, a description of the type of projects anticipated to receive such support.
@@ -51,3 +52,9 @@ generated_at: "2026-03-30T02:55:05.468Z"
 - **(g)** It is the sense of Congress that—
   - **(1)** the Corporation should continuously operate in a manner that advances its core mission and purposes, as described in this title; and
   - **(2)** resources of the Corporation should not be diverted for domestic or other activities extending beyond the scope of such mission and purpose.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. F, title I, § 1412](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3486](https://www.govinfo.gov/link/statute/132/3486); [Pub. L. 119–60, div. H, title LXXXVII, § 8712](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1947](https://www.govinfo.gov/link/statute/139/1947).)*

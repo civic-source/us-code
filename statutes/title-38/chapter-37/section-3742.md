@@ -3,9 +3,10 @@ title: "Section 3742 - Small business loan program"
 usc_title: 38
 usc_section: "3742"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3742"
-generated_at: "2026-03-30T02:55:53.514Z"
+generated_at: "2026-11-23T21:26:16.782Z"
+status: "active"
 ---
 
 # § 3742. Small business loan program
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:53.514Z"
       - **(ii)** pursuant to a repayment schedule agreed upon by the Secretary and the small business concern, or
       - **(iii)** by a combination of the method of payments described in clauses (i) and (ii) of this subparagraph.
     - **(B)** In addition to requiring the small business concern to execute the agreement described in subparagraph (A) of this paragraph, the Secretary shall, before the undertaking or suspension of the obligation, take such action and require the small business concern to take such action as the Secretary considers appropriate in the circumstances, including the provision of such security as the Secretary considers necessary or appropriate, to assure that the rights and interest of the United States and any lender will be safeguarded adequately during and after the period in which such obligation is so undertaken or suspended.
+
+## Source Credit
+
+*(Added [Pub. L. 97–72, title III, § 302(a)](https://www.govinfo.gov/link/plaw/97/public/72), Nov. 3, 1981, [95 Stat. 1055](https://www.govinfo.gov/link/statute/95/1055), § 1842; amended [Pub. L. 99–576, title VII, § 702(10)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3302](https://www.govinfo.gov/link/statute/100/3302); [Pub. L. 101–237, title III, § 313(b)(1)](https://www.govinfo.gov/link/plaw/101/public/237), Dec. 18, 1989, [103 Stat. 2077](https://www.govinfo.gov/link/statute/103/2077); renumbered § 3742 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(a)(3), (4), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404](https://www.govinfo.gov/link/statute/105/404), 406.)*

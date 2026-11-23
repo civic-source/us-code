@@ -3,9 +3,10 @@ title: "Section 3004 - Grants for protection and advocacy services related to as
 usc_title: 29
 usc_section: "3004"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3004"
-generated_at: "2026-03-30T02:55:18.747Z"
+generated_at: "2026-11-23T21:26:02.321Z"
+status: "active"
 ---
 
 # § 3004. Grants for protection and advocacy services related to assistive technology
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:18.747Z"
   - **(6)** effectively allocating funds made available under this section to improve the awareness of individuals with disabilities about the accessibility of assistive technology and assist such individuals in the acquisition, utilization, or maintenance of assistive technology devices or assistive technology services.
 - **(f)** A protection and advocacy system that receives a grant under this section shall prepare and submit to the lead agency of the State designated under section 3003(c)(1) of this title the report described in subsection (e) and quarterly updates concerning the activities described in such subsection.
 - **(g)** On making a grant under this section to a protection and advocacy system in a State, the Secretary shall solicit and consider the opinions of the lead agency of the State with respect to efforts at coordination of activities, collaboration, and promoting outcomes between the lead agency and the protection and advocacy system that receives the grant under this section.
+
+## Source Credit
+
+*([Pub. L. 105–394, § 5](https://www.govinfo.gov/link/plaw/105/public/394), as added [Pub. L. 108–364, § 2](https://www.govinfo.gov/link/plaw/108/public/364), Oct. 25, 2004, [118 Stat. 1725](https://www.govinfo.gov/link/statute/118/1725); amended [Pub. L. 117–263, div. E, title LIV, § 5402](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3279](https://www.govinfo.gov/link/statute/136/3279).)*

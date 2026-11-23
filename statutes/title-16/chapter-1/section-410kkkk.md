@@ -3,9 +3,10 @@ title: "Section 410kkkk - Boundary Revision of Salem Maritime National Historic 
 usc_title: 16
 usc_section: "410kkkk"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410kkkk"
-generated_at: "2026-03-30T02:54:22.789Z"
+generated_at: "2026-11-23T21:25:51.499Z"
+status: "active"
 ---
 
 # § 410kkkk. Boundary Revision of Salem Maritime National Historic Site 1 1 See Redesignation of Salem Maritime National Historic Site note below.
@@ -23,3 +24,11 @@ generated_at: "2026-03-30T02:54:22.789Z"
         - **(IV)** under any lease, rental payments be reduced by the fair market value of improvements in the leased premises made by or at the expense of the Secretary.
       - **(ii)** The Secretary may not acquire an interest in more than 12,000 square feet under this paragraph.
       - **(iii)** The Secretary shall submit the economic analysis, together with any proposed acquisition, to the appropriate committees of Congress for their review at least 120 days before the effective date of such acquisition.
+
+Redesignation
+
+References in Law
+
+## Source Credit
+
+*([Pub. L. 100–349, § 1](https://www.govinfo.gov/link/plaw/100/public/349), June 27, 1988, [102 Stat. 659](https://www.govinfo.gov/link/statute/102/659); [Pub. L. 101–632](https://www.govinfo.gov/link/plaw/101/public/632), Nov. 28, 1990, [104 Stat. 4575](https://www.govinfo.gov/link/statute/104/4575).)*

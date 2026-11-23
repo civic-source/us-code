@@ -3,9 +3,10 @@ title: "Section 3223 - International undertakings"
 usc_title: 22
 usc_section: "3223"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3223"
-generated_at: "2026-03-30T02:55:05.390Z"
+generated_at: "2026-11-23T21:25:58.578Z"
+status: "active"
 ---
 
 # § 3223. International undertakings
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:05.390Z"
 - **(f)**
   - **(1)** The President may not enter into any binding international undertaking negotiated pursuant to subsection (a) which is not a treaty until such time as such proposed undertaking has been submitted to the Congress and has been approved by concurrent resolution.
   - **(2)** The proposals prepared pursuant to subsection (b) shall be submitted to the Congress as part of an annual authorization Act for the Department of Energy.
+
+## Source Credit
+
+*([Pub. L. 95–242, title I, § 104](https://www.govinfo.gov/link/plaw/95/public/242), Mar. 10, 1978, [92 Stat. 122](https://www.govinfo.gov/link/statute/92/122).)*

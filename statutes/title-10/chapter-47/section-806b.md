@@ -3,9 +3,10 @@ title: "Section 806b - Art. 6b. Rights of the victim of an offense under this ch
 usc_title: 10
 usc_section: "806b"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 806b"
-generated_at: "2026-03-30T02:53:38.077Z"
+generated_at: "2026-11-23T21:25:32.324Z"
+status: "active"
 ---
 
 # § 806b. Art. 6b. Rights of the victim of an offense under this chapter
@@ -52,3 +53,27 @@ generated_at: "2026-03-30T02:53:38.077Z"
 - **(f)**
   - **(1)** Upon notice by counsel for the Government to counsel for the accused of the name of an alleged victim of an offense under this chapter who counsel for the Government intends to call as a witness at a proceeding under this chapter, counsel for the accused shall make any request to interview the victim through the Special Victims’ Counsel or other counsel for the victim, if applicable.
   - **(2)** If requested by an alleged victim who is subject to a request for interview under paragraph (1), any interview of the victim by counsel for the accused shall take place only in the presence of the counsel for the Government, a counsel for the victim, or, if applicable, a victim advocate.
+
+Rights of a Victim of an Offense Under This Chapter
+
+Victim of an Offense Under This Chapter Defined
+
+Appointment of Individuals to Assume Rights for Certain Victims
+
+Rule of Construction
+
+Enforcement by Court of Criminal Appeals
+
+Counsel for Accused Interview of Victim of Alleged Offense
+
+Appointment of Individuals to Assume Rights
+
+Legal Guardian
+
+Issuance
+
+Mechanisms for affording rights
+
+## Source Credit
+
+*(Added [Pub. L. 113–66, div. A, title XVII, § 1701(a)(1)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 952](https://www.govinfo.gov/link/statute/127/952); amended [Pub. L. 113–291, div. A, title V](https://www.govinfo.gov/link/plaw/113/public/291), §§ 531(f), 535, Dec. 19, 2014, [128 Stat. 3364](https://www.govinfo.gov/link/statute/128/3364), 3368; [Pub. L. 114–92, div. A, title V, § 531](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 814](https://www.govinfo.gov/link/statute/129/814); [Pub. L. 114–328, div. E, title LI, § 5105](https://www.govinfo.gov/link/plaw/114/public/328), title LVI, § 5203(e)(1), Dec. 23, 2016, [130 Stat. 2895](https://www.govinfo.gov/link/statute/130/2895), 2906; [Pub. L. 115–91, div. A, title V, § 531(a)](https://www.govinfo.gov/link/plaw/115/public/91), title X, § 1081(a)(22), (c)(1)(B), Dec. 12, 2017, [131 Stat. 1384](https://www.govinfo.gov/link/statute/131/1384), 1595, 1597; [Pub. L. 116–283, div. A, title V, § 541](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3611](https://www.govinfo.gov/link/statute/134/3611); [Pub. L. 117–81, div. A, title V, § 541](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1708](https://www.govinfo.gov/link/statute/135/1708).)*

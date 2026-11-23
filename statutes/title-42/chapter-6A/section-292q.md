@@ -3,9 +3,10 @@ title: "Section 292q - Agreements for operation of school loan funds"
 usc_title: 42
 usc_section: "292q"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 292q"
-generated_at: "2026-03-30T02:56:10.774Z"
+generated_at: "2026-11-23T21:26:30.620Z"
+status: "active"
 ---
 
 # § 292q. Agreements for operation of school loan funds
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:10.774Z"
     - **(D)** The term “matured loans” means the total principal amount of all loans made by a school under this subpart minus the total principal amount of loans made by such school to students who are—
       - **(i)** enrolled in a full-time course of study at such school; or
       - **(ii)** in their grace period.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 721, as added [Pub. L. 102–408, title I, § 102](https://www.govinfo.gov/link/plaw/102/public/408), Oct. 13, 1992, [106 Stat. 2011](https://www.govinfo.gov/link/statute/106/2011).)*

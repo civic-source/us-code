@@ -3,9 +3,10 @@ title: "Section 1281a - Total treatment system funding"
 usc_title: 33
 usc_section: "1281a"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1281a"
-generated_at: "2026-03-30T02:55:41.087Z"
+generated_at: "2026-11-23T21:26:11.369Z"
+status: "active"
 ---
 
 # § 1281a. Total treatment system funding
@@ -14,3 +15,7 @@ Notwithstanding any other provision of law, in any case where the Administrator 
 
   - **(1)** such sewage collection system was constructed as part of the same total treatment system as the treatment works for which such section 201 [ 33 U.S.C. 1281 ] grants were approved, and
   - **(2)** an application for assistance for the construction of such sewage collection system was filed in accordance with section 3102 of title 42 before all such section 201 grants were made and such grant under section 3102 of title 42 could not be approved due to lack of funding under such section 3102 of title 42 .
+
+## Source Credit
+
+*([Pub. L. 95–217, § 78](https://www.govinfo.gov/link/plaw/95/public/217), Dec. 27, 1977, [91 Stat. 1611](https://www.govinfo.gov/link/statute/91/1611).)*

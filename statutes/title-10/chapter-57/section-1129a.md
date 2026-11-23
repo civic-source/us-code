@@ -3,9 +3,10 @@ title: "Section 1129a - Purple Heart: members killed or wounded in attacks by fo
 usc_title: 10
 usc_section: "1129a"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1129a"
-generated_at: "2026-03-30T02:53:38.110Z"
+generated_at: "2026-11-23T21:25:32.429Z"
+status: "active"
 ---
 
 # § 1129a. Purple Heart: members killed or wounded in attacks by foreign terrorist organizations
@@ -17,3 +18,21 @@ generated_at: "2026-03-30T02:53:38.110Z"
     - **(A)** the individual or entity was in communication with the foreign terrorist organization before the attack; and
     - **(B)** the attack was inspired or motivated by the foreign terrorist organization.
 - **(c)** In this section, the term “foreign terrorist organization” means an entity designated as a foreign terrorist organization by the Secretary of State pursuant to section 219 of the Immigration and Nationality Act ( 8 U.S.C. 1189 ).
+
+In General
+
+Covered Members
+
+Foreign Terrorist Organization Defined
+
+Effective date
+
+Review of certain previous incidents
+
+Actions following review
+
+Secretary concerned defined
+
+## Source Credit
+
+*(Added [Pub. L. 113–291, div. A, title V, § 571(a)(1)(A)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3387](https://www.govinfo.gov/link/statute/128/3387).)*

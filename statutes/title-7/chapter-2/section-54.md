@@ -3,12 +3,17 @@ title: "Section 54 - Classification by Department of Agriculture; certification 
 usc_title: 7
 usc_section: "54"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 54"
-generated_at: "2026-03-30T02:53:42.252Z"
+generated_at: "2026-11-23T21:25:27.870Z"
+status: "active"
 ---
 
 # § 54. Classification by Department of Agriculture; certification thereof; effect of certificate; regulations for classification
 
 Any person who has custody of or a financial interest in any cotton may submit the same or samples thereof, drawn in accordance with the regulations of the Secretary of Agriculture, to such officer or officers of the Department of Agriculture, as may be designated for the purpose pursuant to the regulations of the Secretary of Agriculture for a determination of the true classification of such cotton or samples, including the comparison thereof, if requested, with types or other samples submitted for the purpose. The final certificate of the Department of Agriculture showing such determination shall be binding on officers of the United States and shall be accepted in the courts of the United States as prima facie evidence of the true classification or comparison of such cotton or samples when involved in any transaction or shipment in commerce. The Secretary of Agriculture shall fix rules and regulations for submitting samples of cotton for classification providing that all samples shall be numbered so that no one interested in the transaction involved shall be known by any classifier engaged in the classification of such cotton samples.
 
+
+## Source Credit
+
+*(Mar. 4, 1923, ch. 288, § 4, [42 Stat. 1517](https://www.govinfo.gov/link/statute/42/1517).)*

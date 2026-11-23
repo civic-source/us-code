@@ -3,9 +3,10 @@ title: "Section 3622 - Code of conduct for Commission personnel"
 usc_title: 22
 usc_section: "3622"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3622"
-generated_at: "2026-03-30T02:55:05.395Z"
+generated_at: "2026-11-23T21:25:58.590Z"
+status: "active"
 ---
 
 # § 3622. Code of conduct for Commission personnel
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:05.395Z"
     - **(B)** Members of a reserve component of the armed forces.
     - **(C)** Members of the Commissioned Reserve Corps 1 1 See Change of Name note below. of the Public Health Service.
   - **(2)** The consent of the Congress under paragraph (1) is effective without regard to subsection (b) of section 908 of title 37 (relating to approval required for employment of Reserve and retired members by foreign governments).
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1112](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 459](https://www.govinfo.gov/link/statute/93/459); [Pub. L. 105–85, div. C, title XXXV](https://www.govinfo.gov/link/plaw/105/public/85), §§ 3522, 3550(d)(2)(A), Nov. 18, 1997, [111 Stat. 2064](https://www.govinfo.gov/link/statute/111/2064), 2074; [Pub. L. 117–286, § 4(c)(31)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4358](https://www.govinfo.gov/link/statute/136/4358).)*

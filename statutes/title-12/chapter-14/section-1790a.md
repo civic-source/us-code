@@ -3,9 +3,10 @@ title: "Section 1790a - Board disapproval of directors, committee members, and s
 usc_title: 12
 usc_section: "1790a"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1790a"
-generated_at: "2026-03-30T02:53:53.442Z"
+generated_at: "2026-11-23T21:25:36.957Z"
+status: "active"
 ---
 
 # § 1790a. Board disapproval of directors, committee members, and senior executive officers of insured credit unions
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:53.442Z"
   - **(2)** such other information as the Board may prescribe by regulation.
 - **(e)** The Board shall issue a notice of disapproval with respect to a notice submitted pursuant to subsection (a) if the competence, experience, character, or integrity of the individual with respect to whom such notice is submitted indicates that it would not be in the best interests of the depositors of the insured credit union or in the best interests of the public to permit the individual to be employed by, or associated with, such insured credit union.
 - **(f)** The Board shall prescribe by regulation a definition for the terms “troubled condition” and “senior executive officer” for purposes of subsection (a).
+
+## Source Credit
+
+*(June 26, 1934, ch. 750, title II, § 212, as added [Pub. L. 101–73, title IX, § 914(b)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 485](https://www.govinfo.gov/link/statute/103/485).)*

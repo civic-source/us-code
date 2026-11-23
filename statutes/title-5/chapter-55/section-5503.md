@@ -3,9 +3,10 @@ title: "Section 5503 - Recess appointments"
 usc_title: 5
 usc_section: "5503"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5503"
-generated_at: "2026-03-30T02:52:56.017Z"
+generated_at: "2026-11-23T21:25:23.263Z"
+status: "active"
 ---
 
 # § 5503. Recess appointments
@@ -15,3 +16,20 @@ generated_at: "2026-03-30T02:52:56.017Z"
   - **(2)** if, at the end of the session, a nomination for the office, other than the nomination of an individual appointed during the preceding recess of the Senate, was pending before the Senate for its advice and consent; or
   - **(3)** if a nomination for the office was rejected by the Senate within 30 days before the end of the session and an individual other than the one whose nomination was rejected thereafter receives a recess appointment.
 - **(b)** A nomination to fill a vacancy referred to by paragraph (1), (2), or (3) of subsection (a) of this section shall be submitted to the Senate not later than 40 days after the beginning of the next session of the Senate.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 56 . | R.S. § 1761. July 11, 1940, ch. 580 , 54 Stat. 751 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 56
+
+July 11, 1940, ch. 580
+
+54 Stat. 751
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 475](https://www.govinfo.gov/link/statute/80/475).)*

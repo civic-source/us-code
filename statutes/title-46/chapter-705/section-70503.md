@@ -3,9 +3,10 @@ title: "Section 70503 - Prohibited acts"
 usc_title: 46
 usc_section: "70503"
 chapter: 705
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 70503"
-generated_at: "2026-03-30T02:56:15.588Z"
+generated_at: "2026-11-23T21:26:37.364Z"
+status: "active"
 ---
 
 # § 70503. Prohibited acts
@@ -24,3 +25,63 @@ generated_at: "2026-03-30T02:56:15.588Z"
 - **(e)** In this section the term “covered vessel” means—
   - **(1)** a vessel of the United States or a vessel subject to the jurisdiction of the United States; or
   - **(2)** any other vessel if the individual is a citizen of the United States or a resident alien of the United States.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 70503(a) | 46 App.:1903(a). | Pub. L. 96–350, § 3(a) , (e), (h), Sept. 15, 1980 , 94 Stat. 1160 ; Pub. L. 99–570, title III, § 3202 , Oct. 27, 1986 , 100 Stat. 3207–95 , 3207–96, 3207–97; Pub. L. 99–640, § 17 , Nov. 10, 1986 , 100 Stat. 3552 , 3554; Pub. L. 100–690, title VII, § 7402(a) , Nov. 18, 1988 , 102 Stat. 4483 . |
+| 70503(b) | 46 App.:1903(h). |  |
+| 70503(c) | 46 App.:1903(e) (1st sentence). |  |
+| 70503(d) | 46 App.:1903(e) (last sentence). |  |
+
+
+Prohibitions
+
+Extension Beyond Territorial Jurisdiction
+
+Nonapplication
+
+In general
+
+Entered in manifest
+
+Burden of Proof
+
+Covered Vessel Defined
+
+Historical and Revision Notes
+
+70503(a)
+
+Pub. L. 96–350, § 3(a)
+
+Sept. 15, 1980
+
+94 Stat. 1160
+
+Pub. L. 99–570, title III, § 3202
+
+Oct. 27, 1986
+
+100 Stat. 3207–95
+
+Pub. L. 99–640, § 17
+
+Nov. 10, 1986
+
+100 Stat. 3552
+
+Pub. L. 100–690, title VII, § 7402(a)
+
+Nov. 18, 1988
+
+102 Stat. 4483
+
+70503(b)
+
+70503(c)
+
+70503(d)
+
+## Source Credit
+
+*([Pub. L. 109–304, § 10(2)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1687](https://www.govinfo.gov/link/statute/120/1687); [Pub. L. 114–120, title III, § 314(a)](https://www.govinfo.gov/link/plaw/114/public/120), (b), (e)(1), Feb. 8, 2016, [130 Stat. 59](https://www.govinfo.gov/link/statute/130/59); [Pub. L. 119–60, div. G, title LXXIII, § 7324](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1770](https://www.govinfo.gov/link/statute/139/1770).)*

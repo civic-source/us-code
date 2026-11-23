@@ -3,9 +3,10 @@ title: "Section 3444 - Transfer of programs from National Science Foundation"
 usc_title: 20
 usc_section: "3444"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 3444"
-generated_at: "2026-03-30T02:54:48.179Z"
+generated_at: "2026-11-23T21:25:47.410Z"
+status: "active"
 ---
 
 # § 3444. Transfer of programs from National Science Foundation
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:48.179Z"
 - **(b)** The Secretary is authorized to conduct the programs transferred by subsection (a). In conducting such programs the Secretary shall consult, as appropriate, with the Director of the National Science Foundation, and shall establish advisory mechanisms designed to assure that scientists and engineers are fully involved in the development, implementation, and review of science education programs.
 - **(c)** The annual report to be transmitted by the Secretary pursuant to section 3486 of this title shall include a description of arrangements, developed by the Secretary in consultation with the Director of the National Science Foundation, for coordinated planning and operation of science education programs, including measures to facilitate the implementations of successful innovations.
 - **(d)** Nothing in this section is intended to repeal or limit the authority of the National Science Foundation or the Director of the National Science Foundation to initiate and conduct programs under the National Science Foundation Act of 1950 [ 42 U.S.C. 1861 et seq.].
+
+## Source Credit
+
+*([Pub. L. 96–88, title III, § 303](https://www.govinfo.gov/link/plaw/96/public/88), formerly § 304, Oct. 17, 1979, [93 Stat. 680](https://www.govinfo.gov/link/statute/93/680); renumbered § 303, [Pub. L. 103–382, title II, § 271(a)(2)](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 3929](https://www.govinfo.gov/link/statute/108/3929).)*

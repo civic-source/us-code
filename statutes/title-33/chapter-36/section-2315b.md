@@ -3,9 +3,10 @@ title: "Section 2315b - Transparency and accountability in cost sharing for wate
 usc_title: 33
 usc_section: "2315b"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2315b"
-generated_at: "2026-03-30T02:55:41.122Z"
+generated_at: "2026-11-23T21:26:11.442Z"
+status: "active"
 ---
 
 # § 2315b. Transparency and accountability in cost sharing for water resources development projects
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:41.122Z"
   - **(1)** maintain a balance sheet for each water resources development project carried out by the Secretary for which a non-Federal cost share is required; and
   - **(2)** on request of a non-Federal interest that provided funds for the project, provide to the non-Federal interest a copy of the balance sheet.
 - **(c)** In the case of a water resources development project carried out by the Secretary that is completed at a cost less than the estimated cost, the Secretary shall transfer any excess non-Federal funds to the non-Federal interest in accordance with the cost-share requirement applicable to the project.
+
+## Source Credit
+
+*([Pub. L. 115–270, title I, § 1120](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3777](https://www.govinfo.gov/link/statute/132/3777).)*

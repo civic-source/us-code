@@ -3,9 +3,10 @@ title: "Section 2051 - Continued benefits for certain Senate Restaurants employe
 usc_title: 2
 usc_section: "2051"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 2051"
-generated_at: "2026-03-30T02:53:04.823Z"
+generated_at: "2026-11-23T21:25:21.274Z"
+status: "active"
 ---
 
 # § 2051. Continued benefits for certain Senate Restaurants employees
@@ -104,3 +105,21 @@ generated_at: "2026-03-30T02:53:04.823Z"
   - **(1)** Any commissions paid by a contractor under a food services contract shall be deposited in the miscellaneous items account within the contingent fund of the Senate.
   - **(2)** Any funds deposited under paragraph (1) shall be available for expenditure in the same manner as funds appropriated into that account.
 - **(i)** This section shall take effect on July 17, 2008 , and apply to the remainder of the fiscal year in which enacted and each fiscal year thereafter.
+
+Senate Office Buildings
+
+Senate Office Buildings
+
+Senate Office Buildings
+
+Definitions
+
+Applicability
+
+In general
+
+Effective date
+
+## Source Credit
+
+*([Pub. L. 110–279, § 1](https://www.govinfo.gov/link/plaw/110/public/279), July 17, 2008, [122 Stat. 2604](https://www.govinfo.gov/link/statute/122/2604); [Pub. L. 116–21, § 1(a)](https://www.govinfo.gov/link/plaw/116/public/21), June 12, 2019, [133 Stat. 903](https://www.govinfo.gov/link/statute/133/903).)*

@@ -3,9 +3,10 @@ title: "Section 12304b - Selected Reserve: order to active duty for preplanned m
 usc_title: 10
 usc_section: "12304b"
 chapter: 1209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 12304b"
-generated_at: "2026-03-30T02:53:38.269Z"
+generated_at: "2026-11-23T21:25:33.042Z"
+status: "active"
 ---
 
 # § 12304b. Selected Reserve: order to active duty for preplanned missions in support of the combatant commands
@@ -31,3 +32,25 @@ generated_at: "2026-03-30T02:53:38.269Z"
   - **(4)** employment necessary to maintain the national health, safety, or interest.
 - **(h)** The Secretaries of the military departments shall prescribe policies and procedures to carry out this section, including on determinations with respect to orders to active duty under subsection (g). Such policies and procedures shall not go into effect until approved by the Secretary of Defense.
 - **(i)** In this section, the term “defense budget materials” has the meaning given that term in section 231(f)(2) 1 1 See References in Text note below. of this title.
+
+Authority
+
+Limitations
+
+Exclusion From Strength Limitations
+
+Notice to Congress
+
+Termination of Duty
+
+Relationship to War Powers Resolution
+
+Considerations for Involuntary Order to Active Duty
+
+Policies and Procedures
+
+Defense Budget Materials Defined
+
+## Source Credit
+
+*(Added [Pub. L. 112–81, div. A, title V, § 516(a)(1)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1395](https://www.govinfo.gov/link/statute/125/1395); amended [Pub. L. 112–239, div. A, title X, § 1014(b)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1908](https://www.govinfo.gov/link/statute/126/1908); [Pub. L. 118–31, div. A, title V, § 513](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 245](https://www.govinfo.gov/link/statute/137/245).)*

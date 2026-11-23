@@ -3,9 +3,10 @@ title: "Section 6272 - International voluntary agreements"
 usc_title: 42
 usc_section: "6272"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6272"
-generated_at: "2026-03-30T02:56:11.244Z"
+generated_at: "2026-11-23T21:26:32.859Z"
+status: "active"
 ---
 
 # § 6272. International voluntary agreements
@@ -85,3 +86,7 @@ generated_at: "2026-03-30T02:56:11.244Z"
   - **(6)**
     - **(A)** Motions to postpone made with respect to the discharge from committee or consideration of a joint resolution, shall be decided without debate.
     - **(B)** Appeals from the decision of the Chair relating to the application of rules of the Senate to the procedures relating to a joint resolution shall be decided without debate.
+
+## Source Credit
+
+*([Pub. L. 94–163, title II, § 252](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 894](https://www.govinfo.gov/link/statute/89/894); [Pub. L. 95–619, title VI, § 691(b)(2)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3288](https://www.govinfo.gov/link/statute/92/3288); [Pub. L. 96–30](https://www.govinfo.gov/link/plaw/96/public/30), June 30, 1979, [93 Stat. 80](https://www.govinfo.gov/link/statute/93/80); [Pub. L. 96–94](https://www.govinfo.gov/link/plaw/96/public/94), Oct. 31, 1979, [93 Stat. 720](https://www.govinfo.gov/link/statute/93/720); [Pub. L. 96–133](https://www.govinfo.gov/link/plaw/96/public/133), §§ 1, 2, Nov. 30, 1979, [93 Stat. 1053](https://www.govinfo.gov/link/statute/93/1053); [Pub. L. 97–5](https://www.govinfo.gov/link/plaw/97/public/5), Mar. 13, 1981, [95 Stat. 7](https://www.govinfo.gov/link/statute/95/7); [Pub. L. 97–50](https://www.govinfo.gov/link/plaw/97/public/50), Sept. 30, 1981, [95 Stat. 957](https://www.govinfo.gov/link/statute/95/957); [Pub. L. 97–163](https://www.govinfo.gov/link/plaw/97/public/163), Apr. 1, 1982, [96 Stat. 24](https://www.govinfo.gov/link/statute/96/24); [Pub. L. 97–190](https://www.govinfo.gov/link/plaw/97/public/190), June 1, 1982, [96 Stat. 106](https://www.govinfo.gov/link/statute/96/106); [Pub. L. 97–217](https://www.govinfo.gov/link/plaw/97/public/217), July 19, 1982, [96 Stat. 196](https://www.govinfo.gov/link/statute/96/196); [Pub. L. 97–229, § 2(a)](https://www.govinfo.gov/link/plaw/97/public/229), (b)(2), Aug. 3, 1982, [96 Stat. 248](https://www.govinfo.gov/link/statute/96/248); [Pub. L. 98–239](https://www.govinfo.gov/link/plaw/98/public/239), Mar. 20, 1984, [98 Stat. 93](https://www.govinfo.gov/link/statute/98/93); [Pub. L. 99–58, title I](https://www.govinfo.gov/link/plaw/99/public/58), §§ 104(c)(2), (4), 105, July 2, 1985, [99 Stat. 105](https://www.govinfo.gov/link/statute/99/105); [Pub. L. 104–66, title I, § 1091(g)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 722](https://www.govinfo.gov/link/statute/109/722); [Pub. L. 105–177, § 1(4)](https://www.govinfo.gov/link/plaw/105/public/177), June 1, 1998, [112 Stat. 105](https://www.govinfo.gov/link/statute/112/105).)*

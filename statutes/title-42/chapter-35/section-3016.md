@@ -3,9 +3,10 @@ title: "Section 3016 - Authority of Assistant Secretary"
 usc_title: 42
 usc_section: "3016"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3016"
-generated_at: "2026-03-30T02:56:11.171Z"
+generated_at: "2026-11-23T21:26:32.465Z"
+status: "active"
 ---
 
 # § 3016. Authority of Assistant Secretary
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:11.171Z"
       - **(i)** have expertise in nutrition, energy balance, and meal planning; and
       - **(ii)** be a registered dietitian or registered dietitian nutritionist.
 - **(b)** In administering the functions of the Administration under this chapter, the Assistant Secretary may utilize the services and facilities of any agency of the Federal Government and of any other public or nonprofit agency or organization, in accordance with agreements between the Assistant Secretary and the head thereof, and is authorized to pay therefor, in advance or by way of reimbursement, as may be provided in the agreement.
+
+## Source Credit
+
+*([Pub. L. 89–73, title II, § 205](https://www.govinfo.gov/link/plaw/89/public/73), formerly § 206, as added [Pub. L. 93–29, title II, § 201(c)](https://www.govinfo.gov/link/plaw/93/public/29), May 3, 1973, [87 Stat. 34](https://www.govinfo.gov/link/statute/87/34); amended [Pub. L. 95–478, title I, § 102(f)](https://www.govinfo.gov/link/plaw/95/public/478), Oct. 18, 1978, [92 Stat. 1515](https://www.govinfo.gov/link/statute/92/1515); renumbered § 205 and amended [Pub. L. 97–115, § 2(e)(2)](https://www.govinfo.gov/link/plaw/97/public/115), (g), Dec. 29, 1981, [95 Stat. 1596](https://www.govinfo.gov/link/statute/95/1596); [Pub. L. 98–459, title II, § 205](https://www.govinfo.gov/link/plaw/98/public/459), Oct. 9, 1984, [98 Stat. 1770](https://www.govinfo.gov/link/statute/98/1770); [Pub. L. 100–175, title I](https://www.govinfo.gov/link/plaw/100/public/175), §§ 109, 110, Nov. 29, 1987, [101 Stat. 932](https://www.govinfo.gov/link/statute/101/932); [Pub. L. 102–375, title II, § 206](https://www.govinfo.gov/link/plaw/102/public/375), title IX, § 904(a)(7), Sept. 30, 1992, [106 Stat. 1212](https://www.govinfo.gov/link/statute/106/1212), 1306; [Pub. L. 103–171, § 3(a)(13)](https://www.govinfo.gov/link/plaw/103/public/171), Dec. 2, 1993, [107 Stat. 1990](https://www.govinfo.gov/link/statute/107/1990); [Pub. L. 106–501, title II, § 202(3)](https://www.govinfo.gov/link/plaw/106/public/501), title VIII, § 801(b)(3), Nov. 13, 2000, [114 Stat. 2231](https://www.govinfo.gov/link/statute/114/2231), 2292; [Pub. L. 109–365, title II, § 204](https://www.govinfo.gov/link/plaw/109/public/365), Oct. 17, 2006, [120 Stat. 2535](https://www.govinfo.gov/link/statute/120/2535); [Pub. L. 114–144, § 3(c)](https://www.govinfo.gov/link/plaw/114/public/144), Apr. 19, 2016, [130 Stat. 337](https://www.govinfo.gov/link/statute/130/337); [Pub. L. 116–131, title I](https://www.govinfo.gov/link/plaw/116/public/131), §§ 124(c), 125, Mar. 25, 2020, [134 Stat. 250](https://www.govinfo.gov/link/statute/134/250), 251.)*

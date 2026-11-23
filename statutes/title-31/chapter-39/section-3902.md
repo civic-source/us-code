@@ -3,9 +3,10 @@ title: "Section 3902 - Interest penalties"
 usc_title: 31
 usc_section: "3902"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 3902"
-generated_at: "2026-03-30T02:55:34.062Z"
+generated_at: "2026-11-23T21:26:10.601Z"
+status: "active"
 ---
 
 # § 3902. Interest penalties
@@ -40,3 +41,46 @@ generated_at: "2026-03-30T02:55:34.062Z"
       - **(vii)** for an advance deficiency payment, 30 days after the date the Commodity Credit Corporation executes the contract with the producer.
   - **(3)** Payment of the interest penalty under this subsection shall be made out of funds available under section 8 of the Act of June 29, 1948 ( 15 U.S.C. 714f ).
   - **(4)** Section 3907 of this title shall not apply to interest penalty payments made under this subsection.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3902(a) | 31 App.:1801(a)(1), (b)(1) (2d, last sentences). | May 21, 1982 , Pub. L. 97–177, § 2(a)(1) , (b)–(d), 96 Stat. 85 . |
+| 3902(b) | 31 App.:1801(b)(1) (1st sentence). |  |
+| 3902(c) | 31 App.:1801(b)(2). |  |
+| 3902(d) | 31 App.:1801(c). |  |
+| 3902(e) | 31 App.:1801(d). |  |
+
+
+Historical and Revision Notes
+
+Act
+
+3902(a)
+
+May 21, 1982
+
+Pub. L. 97–177, § 2(a)(1)
+
+96 Stat. 85
+
+3902(b)
+
+3902(c)
+
+3902(d)
+
+3902(e)
+
+Act
+
+Prompt Payment Requirement for Interim Payments
+
+Regulations
+
+Incorporation of Certain Provisions of Law
+
+Effective Date
+
+## Source Credit
+
+*(Added [Pub. L. 97–452, § 1(18)(A)](https://www.govinfo.gov/link/plaw/97/public/452), Jan. 12, 1983, [96 Stat. 2475](https://www.govinfo.gov/link/statute/96/2475); amended [Pub. L. 98–216, § 1(6)](https://www.govinfo.gov/link/plaw/98/public/216), Feb. 14, 1984, [98 Stat. 4](https://www.govinfo.gov/link/statute/98/4); [Pub. L. 100–496, § 3](https://www.govinfo.gov/link/plaw/100/public/496), Oct. 17, 1988, [102 Stat. 2456](https://www.govinfo.gov/link/statute/102/2456); [Pub. L. 105–362, title XIII, § 1301(c)(2)(B)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3293](https://www.govinfo.gov/link/statute/112/3293); [Pub. L. 111–350, § 5(h)(7)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3849](https://www.govinfo.gov/link/statute/124/3849).)*

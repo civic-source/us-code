@@ -3,9 +3,10 @@ title: "Section 6966b - Use of granular mine tailings"
 usc_title: 42
 usc_section: "6966b"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6966b"
-generated_at: "2026-03-30T02:56:11.277Z"
+generated_at: "2026-11-23T21:26:33.021Z"
+status: "active"
 ---
 
 # § 6966b. Use of granular mine tailings
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.277Z"
   - **(3)** In establishing the criteria under paragraph (1), the Administrator shall solicit and consider comments from the public.
   - **(4)** On the establishment of the criteria under paragraph (1), any use of the granular mine tailings described in paragraph (1) in a transportation project that is carried out, in whole or in part, using Federal funds, shall meet the criteria established under paragraph (1).
 - **(b)** Nothing in this section or section 6966a of this title affects any requirement of any law (including a regulation) in effect on August 10, 2005 .
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 6006](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 109–59, title VI, § 6018(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1890](https://www.govinfo.gov/link/statute/119/1890).)*

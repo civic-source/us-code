@@ -3,9 +3,10 @@ title: "Section 1705 - Grants for broadband connectivity"
 usc_title: 47
 usc_section: "1705"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1705"
-generated_at: "2026-03-30T02:56:24.538Z"
+generated_at: "2026-11-23T21:26:36.120Z"
+status: "active"
 ---
 
 # § 1705. Grants for broadband connectivity
@@ -186,3 +187,11 @@ generated_at: "2026-03-30T02:56:24.538Z"
     - **(C)** Not later than 5 days after receiving a report from an eligible entity under subparagraph (A), the Assistant Secretary shall transmit the report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.
   - **(2)** Not later than 6 months after the date on which the first grant is awarded under this section, and every 6 months thereafter until all of the grant funds awarded under this section are expended, the Inspector General of the Department and the Comptroller General of the United States shall each submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that reviews the grants awarded under this section during the preceding 6-month period. Each such report shall include recommendations to address waste, fraud, and abuse, if any.
 - **(g)** The use of grant funds received under this section by an eligible entity, covered partnership, or subgrantee shall not impact the eligibility of, or otherwise disadvantage, the eligible entity, covered partnership, or subgrantee with respect to participation in any other Federal broadband program.
+
+(aa) any program to provide grants, loans, or loan guarantees under sections 601 through 603 of that Act ( 7 U.S.C. 950bb et seq.); and
+
+(bb) the Community Connect Grant Program established under section 604 of that Act ( 7 U.S.C. 950bb–3 ); or
+
+## Source Credit
+
+*([Pub. L. 116–260, div. N, title IX, § 905](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2136](https://www.govinfo.gov/link/statute/134/2136); [Pub. L. 117–58, div. F, title II, § 60201](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1208](https://www.govinfo.gov/link/statute/135/1208).)*

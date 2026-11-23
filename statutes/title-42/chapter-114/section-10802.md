@@ -3,9 +3,10 @@ title: "Section 10802 - Definitions"
 usc_title: 42
 usc_section: "10802"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10802"
-generated_at: "2026-03-30T02:56:11.391Z"
+generated_at: "2026-11-23T21:26:33.385Z"
+status: "active"
 ---
 
 # § 10802. Definitions
@@ -31,3 +32,7 @@ For purposes of this subchapter:
   - **(6)** The term “Secretary” means the Secretary of Health and Human Services.
   - **(7)** The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, American Samoa, the Virgin Islands, and the Trust Territory of the Pacific Islands.
   - **(8)** The term “American Indian consortium” means a consortium established under part C of the Developmental Disabilities Assistance and Bill of Rights Act 3 3 See References in Text note below. ( 42 U.S.C. 6042 et seq.).
+
+## Source Credit
+
+*([Pub. L. 99–319, title I, § 102](https://www.govinfo.gov/link/plaw/99/public/319), May 23, 1986, [100 Stat. 478](https://www.govinfo.gov/link/statute/100/478); [Pub. L. 100–509, § 3](https://www.govinfo.gov/link/plaw/100/public/509), Oct. 20, 1988, [102 Stat. 2543](https://www.govinfo.gov/link/statute/102/2543); [Pub. L. 102–173](https://www.govinfo.gov/link/plaw/102/public/173), §§ 4, 10(1), Nov. 27, 1991, [105 Stat. 1217](https://www.govinfo.gov/link/statute/105/1217), 1219; [Pub. L. 106–310, div. B, title XXXII, § 3206(b)](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1194](https://www.govinfo.gov/link/statute/114/1194); [Pub. L. 106–402, title IV, § 401(b)(13)(A)](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1739](https://www.govinfo.gov/link/statute/114/1739).)*

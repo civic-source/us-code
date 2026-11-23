@@ -3,9 +3,10 @@ title: "Section 2676 - Renumbered § 2664]"
 usc_title: 10
 usc_section: "2676"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2676"
-generated_at: "2026-03-30T02:53:38.169Z"
+generated_at: "2026-11-23T21:25:32.650Z"
+status: "renumbered"
 ---
 
 # [§ 2676. Renumbered § 2664]

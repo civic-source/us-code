@@ -3,9 +3,10 @@ title: "Section 8464 - Outdoor Recreation Legacy Partnership Program"
 usc_title: 16
 usc_section: "8464"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8464"
-generated_at: "2026-03-30T02:54:23.086Z"
+generated_at: "2026-11-23T21:25:52.080Z"
+status: "active"
 ---
 
 # § 8464. Outdoor Recreation Legacy Partnership Program
@@ -74,3 +75,7 @@ generated_at: "2026-03-30T02:54:23.086Z"
     - **(A)** summarize project activities conducted during the report period; and
     - **(B)** provide the status of the project.
   - **(2)** Not later than 90 days after the earlier of the date of expiration of a project period or the completion of a project, each State-lead agency that receives a grant under this section shall submit to the Secretary a final report containing such information as the Secretary may require.
+
+## Source Credit
+
+*([Pub. L. 118–234, title I, § 156](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2876](https://www.govinfo.gov/link/statute/138/2876).)*

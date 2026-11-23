@@ -3,9 +3,10 @@ title: "Section 704 - Partner’s distributive share"
 usc_title: 26
 usc_section: "704"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 704"
-generated_at: "2026-03-30T02:55:27.725Z"
+generated_at: "2026-11-23T21:26:06.368Z"
+status: "active"
 ---
 
 # § 704. Partner’s distributive share
@@ -40,3 +41,11 @@ generated_at: "2026-03-30T02:55:27.725Z"
   - **(1)** In the case of any partnership interest created by gift, the distributive share of the donee under the partnership agreement shall be includible in his gross income, except to the extent that such share is determined without allowance of reasonable compensation for services rendered to the partnership by the donor, and except to the extent that the portion of such share attributable to donated capital is proportionately greater than the share of the donor attributable to the donor’s capital. The distributive share of a partner in the earnings of the partnership shall not be diminished because of absence due to military service.
   - **(2)** For purposes of this subsection, an interest purchased by one member of a family from another shall be considered to be created by gift from the seller, and the fair market value of the purchased interest shall be considered to be donated capital. The “family” of any individual shall include only his spouse, ancestors, and lineal descendants, and any trusts for the primary benefit of such persons.
 - **(f)** For rules in the case of the sale, exchange, liquidation, or reduction of a partner’s interest, see section 706(c)(2).
+
+In general
+
+Binding contracts
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 240; [Pub. L. 94–455, title II, § 213(c)(2)](https://www.govinfo.gov/link/plaw/94/public/455), (3)(A), (d), (e), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1548](https://www.govinfo.gov/link/statute/90/1548), 1834; [Pub. L. 95–600, title II, § 201(b)(1)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2816](https://www.govinfo.gov/link/statute/92/2816); [Pub. L. 98–369, div. A, title I, § 71(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 589](https://www.govinfo.gov/link/statute/98/589); [Pub. L. 101–239, title VII, § 7642(a)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2379](https://www.govinfo.gov/link/statute/103/2379); [Pub. L. 102–486, title XIX, § 1937(b)(1)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3033](https://www.govinfo.gov/link/statute/106/3033); [Pub. L. 105–34, title X, § 1063(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 947](https://www.govinfo.gov/link/statute/111/947); [Pub. L. 108–357, title VIII, § 833(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1589](https://www.govinfo.gov/link/statute/118/1589); [Pub. L. 114–74, title XI, § 1102(b)](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 639](https://www.govinfo.gov/link/statute/129/639); [Pub. L. 115–97, title I, § 13503(a)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2141](https://www.govinfo.gov/link/statute/131/2141).)*

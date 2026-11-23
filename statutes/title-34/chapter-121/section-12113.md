@@ -3,9 +3,10 @@ title: "Section 12113 - Aimee’s Law"
 usc_title: 34
 usc_section: "12113"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 12113"
-generated_at: "2026-03-30T02:55:33.282Z"
+generated_at: "2026-11-23T21:26:09.725Z"
+status: "active"
 ---
 
 # § 12113. Aimee’s Law
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:55:33.282Z"
     - **(B)** a report, by not later than October 1, 2007 , and October 1 of each year thereafter, that provides statistical analysis and criminal history profiles of interstate recidivists identified in any State applications under this section; and
     - **(C)** reports, at regular intervals not to exceed every five years, that include the information described in paragraph (1).
 - **(j)** This section shall take effect on January 1, 2002 .
+
+## Source Credit
+
+*([Pub. L. 106–386, div. C, § 2001](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1539](https://www.govinfo.gov/link/statute/114/1539); [Pub. L. 109–162, title XI, § 1170](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3122](https://www.govinfo.gov/link/statute/119/3122); [Pub. L. 109–271, § 8(m)](https://www.govinfo.gov/link/plaw/109/public/271), Aug. 12, 2006, [120 Stat. 767](https://www.govinfo.gov/link/statute/120/767).)*

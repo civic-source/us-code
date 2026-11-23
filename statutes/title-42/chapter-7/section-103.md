@@ -3,9 +3,10 @@ title: "Section 103 - Access to a choice of qualified prescription drug coverage
 usc_title: 42
 usc_section: "103"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 103"
-generated_at: "2026-03-30T02:56:10.982Z"
+generated_at: "2026-11-23T21:26:31.559Z"
+status: "active"
 ---
 
 # § 1395w–103. Access to a choice of qualified prescription drug coverage
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:10.982Z"
 - **(b)** In order to ensure access pursuant to subsection (a) in an area—
   - **(1)** the Secretary may approve limited risk plans under section 1395w–111(f) of this title for the area; and
   - **(2)** only if such access is still not provided in the area after applying paragraph (1), the Secretary shall provide for the offering of a fallback prescription drug plan for that area under section 1395w–111(g) of this title .
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1860D–3, as added [Pub. L. 108–173, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2081](https://www.govinfo.gov/link/statute/117/2081).)*

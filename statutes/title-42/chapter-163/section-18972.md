@@ -3,9 +3,10 @@ title: "Section 18972 - Promoting domestic production of technologies developed 
 usc_title: 42
 usc_section: "18972"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18972"
-generated_at: "2026-03-30T02:56:11.534Z"
+generated_at: "2026-11-23T21:26:33.859Z"
+status: "active"
 ---
 
 # § 18972. Promoting domestic production of technologies developed under Manufacturing USA Program
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.534Z"
     - **(B)** In this paragraph, the term “company” has the meaning given such term in section 847(a) of the National Defense Authorization Act for Fiscal Year 2020 ( Public Law 116–92 ; 10 U.S.C. 4819 note).
 - **(b)**
 - **(e)** The Secretary shall seek advice from the United States Manufacturing Council of the International Trade Administration of the Department of Commerce on matters concerning investment in and support of the manufacturing workforce within the Manufacturing USA Program.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title II, § 10263](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1504](https://www.govinfo.gov/link/statute/136/1504).)*

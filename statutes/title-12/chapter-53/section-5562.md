@@ -3,9 +3,10 @@ title: "Section 5562 - Investigations and administrative discovery"
 usc_title: 12
 usc_section: "5562"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5562"
-generated_at: "2026-03-30T02:53:53.546Z"
+generated_at: "2026-11-23T21:25:37.289Z"
+status: "active"
 ---
 
 # § 5562. Investigations and administrative discovery
@@ -92,3 +93,7 @@ generated_at: "2026-03-30T02:53:53.546Z"
 - **(h)**
   - **(1)** Whenever any petition is filed in any district court of the United States under this section, such court shall have jurisdiction to hear and determine the matter so presented, and to enter such order or orders as may be required to carry out the provisions of this section.
   - **(2)** Any final order entered as described in paragraph (1) shall be subject to appeal pursuant to section 1291 of title 28 .
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1052](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2019](https://www.govinfo.gov/link/statute/124/2019).)*

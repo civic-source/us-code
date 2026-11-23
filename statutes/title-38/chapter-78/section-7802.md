@@ -3,9 +3,10 @@ title: "Section 7802 - Duties of Secretary with respect to Service"
 usc_title: 38
 usc_section: "7802"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7802"
-generated_at: "2026-03-30T02:55:53.535Z"
+generated_at: "2026-11-23T21:26:16.893Z"
+status: "active"
 ---
 
 # § 7802. Duties of Secretary with respect to Service
@@ -21,3 +22,29 @@ generated_at: "2026-03-30T02:55:53.535Z"
 - **(i)** The Secretary shall make such rules and regulations, not inconsistent with the provisions of this chapter, as the Secretary considers necessary or appropriate to effectuate its purposes.
 - **(j)** The Secretary may delegate such duties and powers to employees as the Secretary considers necessary or appropriate, whose official acts performed within the scope of the delegated authority shall have the same force and effect as though performed by the Secretary.
 - **(k)** The Secretary may authorize the use of funds of the Service when available, subject to such regulations as the Secretary may deem appropriate, for the purpose of cashing checks, money orders, and similar instruments in nominal amounts for the payment of money presented by veterans hospitalized or domiciled at hospitals and homes of the Department, and by other persons authorized by section 7803 of this title to make purchases at canteens. Such checks, money orders, and other similar instruments may be cashed outright or may be accepted, subject to strict administrative controls, in payment for merchandise or services, and the difference between the amount of the purchase and the amount of the tendered instrument refunded in cash.
+
+Locations for Canteens
+
+Warehouses and Storage Depots
+
+Space, Buildings, and Structures
+
+Equipment, Services, and Utilities
+
+Personnel
+
+Contracts and Agreements
+
+Prices
+
+Gifts and Donations
+
+Rules and Regulations
+
+Delegation
+
+Authority To Cash Checks, Etc
+
+## Source Credit
+
+*([Pub. L. 85–857](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1248](https://www.govinfo.gov/link/statute/72/1248), § 4202; [Pub. L. 86–109, § 1](https://www.govinfo.gov/link/plaw/86/public/109), July 28, 1959, [73 Stat. 258](https://www.govinfo.gov/link/statute/73/258); [Pub. L. 94–581, title II, § 210(d)](https://www.govinfo.gov/link/plaw/94/public/581), Oct. 21, 1976, [90 Stat. 2864](https://www.govinfo.gov/link/statute/90/2864); [Pub. L. 97–295, § 4(88)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1312](https://www.govinfo.gov/link/statute/96/1312); [Pub. L. 99–576, title VII, § 702(13)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3302](https://www.govinfo.gov/link/statute/100/3302); renumbered § 7802 and amended [Pub. L. 102–40, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/102/public/40), (b)(1), (d)(1), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238), 239; [Pub. L. 102–54, § 14(e)(7)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 287](https://www.govinfo.gov/link/statute/105/287); [Pub. L. 102–83, § 4(a)(3)](https://www.govinfo.gov/link/plaw/102/public/83), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404](https://www.govinfo.gov/link/statute/105/404), 405; [Pub. L. 108–170, title III, § 304](https://www.govinfo.gov/link/plaw/108/public/170), Dec. 6, 2003, [117 Stat. 2058](https://www.govinfo.gov/link/statute/117/2058); [Pub. L. 111–350, § 5(j)(5)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3850](https://www.govinfo.gov/link/statute/124/3850).)*

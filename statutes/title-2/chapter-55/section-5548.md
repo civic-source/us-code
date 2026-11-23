@@ -3,9 +3,10 @@ title: "Section 5548 - Payments to ensure continuing availability of goods and s
 usc_title: 2
 usc_section: "5548"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 5548"
-generated_at: "2026-03-30T02:53:04.838Z"
+generated_at: "2026-11-23T21:25:21.336Z"
+status: "active"
 ---
 
 # § 5548. Payments to ensure continuing availability of goods and services during the coronavirus emergency
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.838Z"
   - **(1)** The Chief Administrative Officer may not make payments under the authority of subsection (a) without the approval of the Committee on House Administration of the House of Representatives.
   - **(2)** The authority of the Chief Administrative Officer to make payments under the authority of subsection (a) is subject to the availability of appropriations to make such payments.
 - **(c)** This section shall apply with respect to fiscal year 2020 and each succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 116–136, div. B, title IX, § 19003](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 578](https://www.govinfo.gov/link/statute/134/578).)*

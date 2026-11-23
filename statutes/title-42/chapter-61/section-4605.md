@@ -3,9 +3,10 @@ title: "Section 4605 - Displaced persons not eligible for assistance"
 usc_title: 42
 usc_section: "4605"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4605"
-generated_at: "2026-03-30T02:56:11.206Z"
+generated_at: "2026-11-23T21:26:32.679Z"
+status: "active"
 ---
 
 # § 4605. Displaced persons not eligible for assistance
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.206Z"
     - **(D)** prescribe standards for a displacing agency to apply in making determinations relating to exceptional and extremely unusual hardship under subsection (c).
 - **(c)** If a displacing agency determines by clear and convincing evidence that a determination of the ineligibility of a displaced person under subsection (a) would result in exceptional and extremely unusual hardship to an individual who is the displaced person’s spouse, parent, or child and who is a citizen of the United States or an alien lawfully admitted for permanent residence in the United States, the displacing agency shall provide relocation payments and other assistance to the displaced person under this chapter if the displaced person would be eligible for the assistance but for subsection (a).
 - **(d)** Nothing in this section affects any right available to a displaced person under any other provision of Federal or State law.
+
+## Source Credit
+
+*([Pub. L. 91–646, title I, § 104](https://www.govinfo.gov/link/plaw/91/public/646), as added [Pub. L. 105–117, § 1](https://www.govinfo.gov/link/plaw/105/public/117), Nov. 21, 1997, [111 Stat. 2384](https://www.govinfo.gov/link/statute/111/2384).)*

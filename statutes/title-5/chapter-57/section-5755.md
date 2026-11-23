@@ -3,9 +3,10 @@ title: "Section 5755 - Supervisory differentials"
 usc_title: 5
 usc_section: "5755"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5755"
-generated_at: "2026-03-30T02:52:56.026Z"
+generated_at: "2026-11-23T21:25:23.300Z"
+status: "active"
 ---
 
 # § 5755. Supervisory differentials
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:52:56.026Z"
   - **(1)** the terms “agency” and “employee” have the meanings given them by section 5102; and
   - **(2)** any reference to “an employee under the General Schedule” shall be considered to be a reference to any employee holding a position to which subchapter III of chapter 53 applies.
 - **(d)** The Office shall prescribe such regulations as it considers necessary for the administration of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 101–509, title V, § 529 [title II, § 211(a)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1461; amended [Pub. L. 115–73, title I, § 107(a)(2)(B)](https://www.govinfo.gov/link/plaw/115/public/73), Oct. 26, 2017, [131 Stat. 1239](https://www.govinfo.gov/link/statute/131/1239); [Pub. L. 115–91, div. A, title X, § 1097(b)(3)(B)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1617](https://www.govinfo.gov/link/statute/131/1617).)*

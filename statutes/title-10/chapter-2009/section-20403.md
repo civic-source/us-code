@@ -3,9 +3,10 @@ title: "Section 20403 - Officers: standards and qualifications for retention"
 usc_title: 10
 usc_section: "20403"
 chapter: 2009
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 20403"
-generated_at: "2026-03-30T02:53:38.282Z"
+generated_at: "2026-11-23T21:25:33.091Z"
+status: "active"
 ---
 
 # § 20403. Officers: standards and qualifications for retention
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:53:38.282Z"
   - **(2)** conform to such other standards and qualifications as the Secretary may prescribe for officers of the Space Force.
 - **(b)** The Secretary may not prescribe a minimum of more than 50 points under subsection (a).
 - **(c)** A Space Force officer who fails to attain the number of points prescribed under subsection (a)(1), or to conform to the standards and qualifications prescribed under subsection (a)(2), may be referred to a board convened under section 20501(a) of this title .
+
+Standards and Qualifications
+
+Limitation on Minimum Number of Points
+
+Result of Failure to Comply
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVII, § 1718(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 656](https://www.govinfo.gov/link/statute/137/656).)*

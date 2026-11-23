@@ -3,9 +3,10 @@ title: "Section 330 - Program for eliminating duplication of environmental revie
 usc_title: 23
 usc_section: "330"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 330"
-generated_at: "2026-03-30T02:55:12.568Z"
+generated_at: "2026-11-23T21:25:53.923Z"
+status: "active"
 ---
 
 # § 330. Program for eliminating duplication of environmental reviews
@@ -95,3 +96,99 @@ generated_at: "2026-03-30T02:55:12.568Z"
   - **(4)** The term “project” means—
     - **(A)** a project requiring approval under this title, chapter 53 of subtitle III of title 49, or subtitle V of title 49; and
     - **(B)** a multimodal project.
+
+Establishment.—
+
+In general
+
+Participating states
+
+Alternative environmental review and approval procedures defined
+
+Application
+
+Review of Application
+
+Approval of Application.—
+
+In general
+
+(aa) authorize the State to take the actions necessary to carry out the responsibilities being assumed; and
+
+(bb) are comparable to section 552 of title 5 , including providing that any decision regarding the public availability of a document under those State laws is reviewable by a court of competent jurisdiction; and
+
+Exclusion
+
+Judicial Review.—
+
+In general
+
+Limitation on review.—
+
+In general
+
+Deadlines.—
+
+Notification
+
+Publication
+
+Savings provision
+
+New information.—
+
+In general
+
+Treatment of final agency action.—
+
+In general
+
+Deadlines.—
+
+Notification
+
+Publication
+
+Election
+
+Adoption or Incorporation by Reference of Documents
+
+Relationship to Locally Administered Projects.—
+
+In general
+
+Scope
+
+Review and Termination.—
+
+In general
+
+Review
+
+Public notice and comment
+
+Withdrawal of approval
+
+Extensions and terminations
+
+Report to Congress
+
+Sunset
+
+Definitions
+
+Chair
+
+Multimodal project
+
+Program
+
+Project
+
+In general
+
+Determination of stringency
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title I, § 1309(b)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1392](https://www.govinfo.gov/link/statute/129/1392); amended [Pub. L. 115–254, div. B, title V, § 578](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3394](https://www.govinfo.gov/link/statute/132/3394).)*

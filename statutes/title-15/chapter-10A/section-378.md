@@ -3,9 +3,10 @@ title: "Section 378 - Enforcement"
 usc_title: 15
 usc_section: "378"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 378"
-generated_at: "2026-03-30T02:54:08.084Z"
+generated_at: "2026-11-23T21:25:39.633Z"
+status: "active"
 ---
 
 # § 378. Enforcement
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:08.084Z"
 - **(f)**
   - **(1)** The Attorney General of the United States shall make available to the public, by posting information on the Internet and by other appropriate means, information regarding all enforcement actions brought by the United States, or reported to the Attorney General of the United States, under this section, including information regarding the resolution of the enforcement actions and how the Attorney General of the United States has responded to referrals of evidence of violations pursuant to subsection (c)(2).
   - **(2)** Not later than 1 year after March 31, 2010 , and every year thereafter until the date that is 5 years after March 31, 2010 , the Attorney General of the United States shall submit to Congress a report containing the information described in paragraph (1).
+
+## Source Credit
+
+*(Oct. 19, 1949, ch. 699, § 4, as added [Pub. L. 111–154, § 2(e)](https://www.govinfo.gov/link/plaw/111/public/154), Mar. 31, 2010, [124 Stat. 1101](https://www.govinfo.gov/link/statute/124/1101).)*

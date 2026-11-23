@@ -3,9 +3,10 @@ title: "Section 7281 - Administration"
 usc_title: 7
 usc_section: "7281"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7281"
-generated_at: "2026-03-30T02:53:42.448Z"
+generated_at: "2026-11-23T21:25:28.421Z"
+status: "active"
 ---
 
 # § 7281. Administration
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.448Z"
   - **(1)** the notice and comment provisions of section 553 of title 5 ;
   - **(2)** the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804) relating to notices of proposed rulemaking and public participation in rulemaking; and
   - **(3)** chapter 35 of title 44, United States Code (commonly know 1 1 So in original. Probably should be “known”. as the “Paperwork Reduction Act”).
+
+## Source Credit
+
+*([Pub. L. 104–127, title I, § 161](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 934](https://www.govinfo.gov/link/statute/110/934).)*

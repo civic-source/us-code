@@ -3,9 +3,10 @@ title: "Section 6615b - Quadrennial science and technology review"
 usc_title: 42
 usc_section: "6615b"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6615b"
-generated_at: "2026-03-30T02:56:11.263Z"
+generated_at: "2026-11-23T21:26:32.966Z"
+status: "active"
 ---
 
 # § 6615b. Quadrennial science and technology review
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:11.263Z"
   - **(1)** Not later than December 31 of the year in which a quadrennial science and technology review is conducted, the Director of the Office of Science and Technology Policy shall submit to Congress a report relating to such review.
   - **(2)** The Director of the Office of Science and Technology Policy shall, consistent with the protection of national security and other sensitive matters to the maximum extent practicable, make each report submitted under paragraph (1) publicly available on an internet website of the Office of Science and Technology Policy. Each report may include a classified annex if the Director of the Office of Science and Technology Policy determines such appropriate.
 - **(d)** This section shall terminate on the date that is ten years after August 9, 2022 .
+
+## Source Credit
+
+*([Pub. L. 94–282, title II, § 206B](https://www.govinfo.gov/link/plaw/94/public/282), as added [Pub. L. 117–167, div. B, title VI, § 10613](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1640](https://www.govinfo.gov/link/statute/136/1640).)*

@@ -3,9 +3,10 @@ title: "Section 136h - Protection of trade secrets and other information"
 usc_title: 7
 usc_section: "136h"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 136h"
-generated_at: "2026-03-30T02:53:42.261Z"
+generated_at: "2026-11-23T21:25:27.894Z"
+status: "active"
 ---
 
 # § 136h. Protection of trade secrets and other information
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:42.261Z"
   - **(1)** The Administrator shall not knowingly disclose information submitted by an applicant or registrant under this subchapter to any employee or agent of any business or other entity engaged in the production, sale, or distribution of pesticides in countries other than the United States or in addition to the United States or to any other person who intends to deliver such data to such foreign or multinational business or entity unless the applicant or registrant has consented to such disclosure. The Administrator shall require an affirmation from any person who intends to inspect data that such person does not seek access to the data for purposes of delivering it or offering it for sale to any such business or entity or its agents or employees and will not purposefully deliver or negligently cause the data to be delivered to such business or entity or its agents or employees. Notwithstanding any other provision of this subsection, the Administrator may disclose information to any person in connection with a public proceeding under law or regulation, subject to restrictions on the availability of information contained elsewhere in this subchapter, which information is relevant to a determination by the Administrator with respect to whether a pesticide, or any ingredient of a pesticide, causes unreasonable adverse effects on health or the environment.
   - **(2)** The Administrator shall maintain records of the names of persons to whom data are disclosed under this subsection and the persons or organizations they represent and shall inform the applicant or registrant of the names and affiliations of such persons.
   - **(3)** Section 1001 of title 18 shall apply to any affirmation made under paragraph (1) of this subsection.
+
+## Source Credit
+
+*(June 25, 1947, ch. 125, § 10, as added [Pub. L. 92–516, § 2](https://www.govinfo.gov/link/plaw/92/public/516), Oct. 21, 1972, [86 Stat. 989](https://www.govinfo.gov/link/statute/86/989); amended [Pub. L. 95–396, § 15](https://www.govinfo.gov/link/plaw/95/public/396), Sept. 30, 1978, [92 Stat. 829](https://www.govinfo.gov/link/statute/92/829); [Pub. L. 98–620, title IV, § 402(4)(B)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3357](https://www.govinfo.gov/link/statute/98/3357); [Pub. L. 100–532, title VIII, § 801(f)](https://www.govinfo.gov/link/plaw/100/public/532), Oct. 25, 1988, [102 Stat. 2682](https://www.govinfo.gov/link/statute/102/2682); [Pub. L. 102–237, title X, § 1006(b)(1)](https://www.govinfo.gov/link/plaw/102/public/237), (2), (3)(J), Dec. 13, 1991, [105 Stat. 1895](https://www.govinfo.gov/link/statute/105/1895), 1896.)*

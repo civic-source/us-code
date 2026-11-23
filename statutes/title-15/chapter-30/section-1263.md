@@ -3,9 +3,10 @@ title: "Section 1263 - Prohibited acts"
 usc_title: 15
 usc_section: "1263"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1263"
-generated_at: "2026-03-30T02:54:08.131Z"
+generated_at: "2026-11-23T21:25:39.806Z"
+status: "active"
 ---
 
 # § 1263. Prohibited acts
@@ -23,3 +24,7 @@ The following acts and the causing thereof are prohibited:
 - **(i)** The failure to notify the Commission with respect to exports, pursuant to section 1273(d) of this title .
 - **(j)** The failure to comply with an order issued under section 1274 of this title .
 - **(k)** The introduction or delivery for introduction into interstate commerce of any lead solder which has a lead content in excess of 0.2 percent which does not prominently display a warning label stating the lead content of the solder and warning that the use of such solder in the making of joints or fittings in any private or public potable water supply system is prohibited.
+
+## Source Credit
+
+*([Pub. L. 86–613, § 4](https://www.govinfo.gov/link/plaw/86/public/613), July 12, 1960, [74 Stat. 375](https://www.govinfo.gov/link/statute/74/375); [Pub. L. 89–756](https://www.govinfo.gov/link/plaw/89/public/756), §§ 2(f), 3(b), Nov. 3, 1966, [80 Stat. 1304](https://www.govinfo.gov/link/statute/80/1304), 1305; [Pub. L. 95–631, § 7(a)](https://www.govinfo.gov/link/plaw/95/public/631), Nov. 10, 1978, [92 Stat. 3745](https://www.govinfo.gov/link/statute/92/3745); [Pub. L. 97–35, title XII, § 1211(f)(2)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 723](https://www.govinfo.gov/link/statute/95/723); [Pub. L. 99–339, title I, § 109(d)(2)](https://www.govinfo.gov/link/plaw/99/public/339), June 19, 1986, [100 Stat. 653](https://www.govinfo.gov/link/statute/100/653); [Pub. L. 110–314, title II, § 204(b)(4)(B)](https://www.govinfo.gov/link/plaw/110/public/314), (C), (H), Aug. 14, 2008, [122 Stat. 3041](https://www.govinfo.gov/link/statute/122/3041), 3042.)*

@@ -3,9 +3,10 @@ title: "Section 545 - Modification of franchise obligations"
 usc_title: 47
 usc_section: "545"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 545"
-generated_at: "2026-03-30T02:56:24.519Z"
+generated_at: "2026-11-23T21:26:36.037Z"
+status: "active"
 ---
 
 # § 545. Modification of franchise obligations
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:24.519Z"
 - **(d)** Notwithstanding subsections (a) and (b), a cable operator may take such actions to rearrange a particular service from one service tier to another, or otherwise offer the service, if the rates for all of the service tiers involved in such actions are not subject to regulation under section 543 of this title .
 - **(e)** A cable operator may not obtain modification under this section of any requirement for services relating to public, educational, or governmental access.
 - **(f)** For purposes of this section, the term “commercially impracticable” means, with respect to any requirement applicable to a cable operator, that it is commercially impracticable for the operator to comply with such requirement as a result of a change in conditions which is beyond the control of the operator and the nonoccurrence of which was a basic assumption on which the requirement was based.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VI, § 625, as added [Pub. L. 98–549, § 2](https://www.govinfo.gov/link/plaw/98/public/549), Oct. 30, 1984, [98 Stat. 2790](https://www.govinfo.gov/link/statute/98/2790).)*

@@ -3,9 +3,10 @@ title: "Section 9141 - Air transportation payroll support program extension"
 usc_title: 15
 usc_section: "9141"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9141"
-generated_at: "2026-03-30T02:54:08.245Z"
+generated_at: "2026-11-23T21:25:40.138Z"
+status: "active"
 ---
 
 # § 9141. Air transportation payroll support program extension
@@ -58,3 +59,23 @@ generated_at: "2026-03-30T02:54:08.245Z"
   - **(4)** The Secretary shall receive financial instruments issued by recipients of financial assistance under this section in the same form and amount, and under the same terms and conditions, as determined by the Secretary under section 9098 of this title .
   - **(5)** Of the amounts made available under paragraph (1)(A), $10,000,000 shall be made available to the Secretary for costs and administrative expenses associated with providing financial assistance under this section.
 - **(c)** In addition to amounts otherwise available, there is appropriated for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $15,000,000,000, to remain available until expended, to carry out this section.
+
+(aa) total compensation that exceeds, during any 12 consecutive months of such 2-year period, the total compensation received by the officer or employee from the air carrier in calendar year 2019; or
+
+(bb) severance pay or other benefits upon termination of employment with the air carrier which exceeds twice the maximum total compensation received by the officer or employee from the air carrier in calendar year 2019; and
+
+(aa) $3,000,000; and
+
+(bb) 50 percent of the excess over $3,000,000 of the total compensation received by the officer or employee from the air carrier in calendar year 2019. 2 2 So in original. The period probably should be a semicolon.
+
+(aa) total compensation that exceeds, during any 12 consecutive months of such 2-year period, the total compensation received by the officer or employee from the contractor in calendar year 2019; or
+
+(bb) severance pay or other benefits upon termination of employment with the contractor which exceeds twice the maximum total compensation received by the officer or employee from the contractor in calendar year 2019; and
+
+(aa) $3,000,000; and
+
+(bb) 50 percent of the excess over $3,000,000 of the total compensation received by the officer or employee from the contractor in calendar year 2019. 3 3 So in original. The period probably should be “; and”.
+
+## Source Credit
+
+*([Pub. L. 117–2, title VII, § 7301](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 104](https://www.govinfo.gov/link/statute/135/104).)*

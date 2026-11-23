@@ -3,9 +3,10 @@ title: "Section 3952 - Priority Louisiana coastal wetlands restoration projects"
 usc_title: 16
 usc_section: "3952"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3952"
-generated_at: "2026-03-30T02:54:23.038Z"
+generated_at: "2026-11-23T21:25:52.007Z"
+status: "active"
 ---
 
 # § 3952. Priority Louisiana coastal wetlands restoration projects
@@ -52,3 +53,11 @@ generated_at: "2026-03-30T02:54:23.038Z"
   - **(3)** The share of the cost required of the State shall be from a non-Federal source. Such State share shall consist of a cash contribution of not less than 5 percent of the cost of the project. The balance of such State share may take the form of lands, easements, or right-of-way, or any other form of in-kind contribution determined to be appropriate by the lead Task Force member.
   - **(4)** Paragraphs (1), (2), (3), and (5) of this subsection shall not affect the existing cost-sharing agreements for the following projects: Caernarvon Freshwater Diversion, Davis Pond Freshwater Diversion, and Bonnet Carre Freshwater Diversion.
   - **(5)** Notwithstanding paragraphs (1) and (2), upon approval of the conservation plan under section 3953 of this title and a determination by the Secretary that a reduction in the non-Federal share is warranted, amounts made available in accordance with section 3955 of this title to carry out coastal wetlands restoration projects under this section in calendar years 1996 and 1997 shall provide 90 percent of the cost of such projects.
+
+Area identification; project description
+
+Pre-plan
+
+## Source Credit
+
+*([Pub. L. 101–646, title III, § 303](https://www.govinfo.gov/link/plaw/101/public/646), Nov. 29, 1990, [104 Stat. 4779](https://www.govinfo.gov/link/statute/104/4779); [Pub. L. 104–303, title V, § 532](https://www.govinfo.gov/link/plaw/104/public/303), Oct. 12, 1996, [110 Stat. 3774](https://www.govinfo.gov/link/statute/110/3774).)*

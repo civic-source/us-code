@@ -3,9 +3,10 @@ title: "Section 2255 - Trade monitoring"
 usc_title: 19
 usc_section: "2255"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2255"
-generated_at: "2026-03-30T02:54:24.668Z"
+generated_at: "2026-11-23T21:25:42.782Z"
+status: "active"
 ---
 
 # § 2255. Trade monitoring
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:24.668Z"
   - **(1)** Not later than 270 days after February 24, 2016 , and not less frequently than quarterly thereafter, the Secretary of Commerce shall publish on a website of the Department of Commerce, and notify the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives of the availability of, a monitoring report on changes in the volume and value of trade with respect to imports and exports of goods categorized based on the 6-digit subheading number of the goods under the Harmonized Tariff Schedule of the United States during the most recent quarter for which such data are available and previous quarters as the Secretary considers practicable.
   - **(2)** Not later than one year after February 24, 2016 , the Secretary of Commerce shall solicit through the Federal Register public comment on the monitoring reports described in paragraph (1).
 - **(c)** The requirements under this section terminate on the date that is seven years after February 24, 2016 .
+
+## Source Credit
+
+*([Pub. L. 93–618, title II, § 205](https://www.govinfo.gov/link/plaw/93/public/618), as added [Pub. L. 114–125, title VI, § 603(a)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 185](https://www.govinfo.gov/link/statute/130/185).)*

@@ -3,9 +3,10 @@ title: "Section 8513b - Expansion of, and reports on, mandatory sanctions with r
 usc_title: 22
 usc_section: "8513b"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8513b"
-generated_at: "2026-03-30T02:55:05.452Z"
+generated_at: "2026-11-23T21:25:58.742Z"
+status: "active"
 ---
 
 # § 8513b. Expansion of, and reports on, mandatory sanctions with respect to financial institutions that engage in certain activities
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:05.452Z"
     - **(B)** a financial institution located in Iran;
     - **(C)** a financial institution, wherever located, owned or controlled by the Government of Iran; and
     - **(D)** a financial institution, wherever located, owned or controlled by a financial institution described in subparagraph (A), (B), or (C).
+
+## Source Credit
+
+*([Pub. L. 111–195, title I, § 104A](https://www.govinfo.gov/link/plaw/111/public/195), as added [Pub. L. 112–158, title II, § 216(a)](https://www.govinfo.gov/link/plaw/112/public/158), Aug. 10, 2012, [126 Stat. 1232](https://www.govinfo.gov/link/statute/126/1232); amended [Pub. L. 116–283, div. F, title LXI, § 6110(e)(1)(B)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4563](https://www.govinfo.gov/link/statute/134/4563).)*

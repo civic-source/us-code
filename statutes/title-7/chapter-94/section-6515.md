@@ -3,9 +3,10 @@ title: "Section 6515 - Requirements of certifying agents"
 usc_title: 7
 usc_section: "6515"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6515"
-generated_at: "2026-03-30T02:53:42.432Z"
+generated_at: "2026-11-23T21:25:28.392Z"
+status: "active"
 ---
 
 # § 6515. Requirements of certifying agents
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:53:42.432Z"
     - **(B)** The Secretary shall provide for a process that is otherwise consistent with this section that authorizes a suspended office to resume operations.
   - **(3)** If the accreditation of a certifying agent is suspended under paragraph (1), the Secretary or the governing State official (if applicable) shall promptly determine whether farming or handling operations certified by such certifying agent may retain their organic certification.
 - **(j)** Not later than 90 days after the date on which a new certifying office performing certification activities opens, an accredited certifying agent shall notify the Secretary of the opening.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XXI, § 2116](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3944](https://www.govinfo.gov/link/statute/104/3944); [Pub. L. 102–237, title X, § 1001(5)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1893](https://www.govinfo.gov/link/statute/105/1893); [Pub. L. 113–79, title X, § 10005(b)(1)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 944](https://www.govinfo.gov/link/statute/128/944); [Pub. L. 115–334, title X, § 10104(d)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4900](https://www.govinfo.gov/link/statute/132/4900).)*

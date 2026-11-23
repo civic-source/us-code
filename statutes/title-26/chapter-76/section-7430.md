@@ -3,9 +3,10 @@ title: "Section 7430 - Awarding of costs and certain fees"
 usc_title: 26
 usc_section: "7430"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7430"
-generated_at: "2026-03-30T02:55:27.871Z"
+generated_at: "2026-11-23T21:26:06.957Z"
+status: "active"
 ---
 
 # § 7430. Awarding of costs and certain fees
@@ -87,3 +88,25 @@ generated_at: "2026-03-30T02:55:27.871Z"
   - **(2)** For purposes of this subsection, the term “qualified offer period” means the period—
     - **(A)** beginning on the date on which the first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Independent Office of Appeals is sent, and
     - **(B)** ending on the date which is 30 days before the date the case is first set for trial.
+
+Exclusion of declaratory judgment proceedings.—
+
+In general
+
+Exception for section 501(
+
+)(3) determination revocation proceedings
+
+General rule
+
+Subsection
+
+Applicability of amendments to certain prior cases
+
+In general
+
+Penalty
+
+## Source Credit
+
+*(Added [Pub. L. 97–248, title II, § 292(a)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 572](https://www.govinfo.gov/link/statute/96/572); amended [Pub. L. 98–369, div. A, title VII, § 714(c)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 961](https://www.govinfo.gov/link/statute/98/961); [Pub. L. 99–514, title XV, § 1551(a)](https://www.govinfo.gov/link/plaw/99/public/514) –(g), Oct. 22, 1986, [100 Stat. 2752](https://www.govinfo.gov/link/statute/100/2752), 2753; [Pub. L. 100–647, title I, § 1015(i)](https://www.govinfo.gov/link/plaw/100/public/647), title VI, § 6239(a), Nov. 10, 1988, [102 Stat. 3571](https://www.govinfo.gov/link/statute/102/3571), 3743; [Pub. L. 104–168, title VII](https://www.govinfo.gov/link/plaw/104/public/168), §§ 701(a)–(c)(2), 702(a), 703(a), 704(a), July 30, 1996, [110 Stat. 1463](https://www.govinfo.gov/link/statute/110/1463), 1464; [Pub. L. 105–34, title XII, § 1285(a)](https://www.govinfo.gov/link/plaw/105/public/34) –(c), title XIV, § 1453(a), Aug. 5, 1997, [111 Stat. 1038](https://www.govinfo.gov/link/statute/111/1038), 1055; [Pub. L. 105–206, title III, § 3101(a)](https://www.govinfo.gov/link/plaw/105/public/206) –(e), title VI, §§ 6012(h), 6014(e), July 22, 1998, [112 Stat. 727](https://www.govinfo.gov/link/statute/112/727), 728, 819, 820; [Pub. L. 106–554, § 1(a)(7) [title III, § 319(25)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–647; [Pub. L. 115–97, title I, § 11002(d)(1)(SS)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2061](https://www.govinfo.gov/link/statute/131/2061); [Pub. L. 115–141, div. U, title IV, § 401(a)(325)(A)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1199](https://www.govinfo.gov/link/statute/132/1199); [Pub. L. 116–25, title I, § 1001(b)(1)(H)](https://www.govinfo.gov/link/plaw/116/public/25), (2), July 1, 2019, [133 Stat. 985](https://www.govinfo.gov/link/statute/133/985).)*

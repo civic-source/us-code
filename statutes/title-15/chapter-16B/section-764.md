@@ -3,9 +3,10 @@ title: "Section 764 - Specific functions and purposes"
 usc_title: 15
 usc_section: "764"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 764"
-generated_at: "2026-03-30T02:54:08.121Z"
+generated_at: "2026-11-23T21:25:39.760Z"
+status: "active"
 ---
 
 # § 764. Specific functions and purposes
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:08.121Z"
 - **(c)**
   - **(1)** The Administrator shall not exercise the discretion delegated to him by the President, pursuant to section 754(b) 1 1 See References in Text note below. of this title, to submit to the Congress as one energy action any amendment to the regulation under section 753(a) 1 of this title, pursuant to section 760a 1 of this title, which amendment exempts any oil, refined petroleum product, or refined product category from both the allocation and pricing provisions of the regulation under section 753 1 of this title.
   - **(2)** Nothing in this subsection shall prevent the Administrator from concurrently submitting an energy action relating to price together with an energy action relating to allocation of the same oil, refined petroleum product, or refined product category.
+
+## Source Credit
+
+*([Pub. L. 93–275, § 5](https://www.govinfo.gov/link/plaw/93/public/275), May 7, 1974, [88 Stat. 98](https://www.govinfo.gov/link/statute/88/98); [Pub. L. 94–385, title I, § 102](https://www.govinfo.gov/link/plaw/94/public/385), Aug. 14, 1976, [90 Stat. 1127](https://www.govinfo.gov/link/statute/90/1127).)*

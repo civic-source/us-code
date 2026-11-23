@@ -3,9 +3,10 @@ title: "Section 2279d - Limitation on construction on United States territory of
 usc_title: 10
 usc_section: "2279d"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2279d"
-generated_at: "2026-03-30T02:53:38.153Z"
+generated_at: "2026-11-23T21:25:32.594Z"
+status: "active"
 ---
 
 # § 2279d. Limitation on construction on United States territory of satellite positioning ground monitoring stations of certain foreign governments
@@ -34,3 +35,27 @@ generated_at: "2026-03-30T02:53:38.153Z"
     - **(B)** the Committee on Armed Services, the committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives.
 - **(b)** The limitation in subsection (a) shall not apply to foreign governments that are allies of the United States.
 - **(c)** The limitation in subsection (a) shall terminate on December 31, 2023 .
+
+Limitation.—
+
+Certification.—
+
+In general
+
+Form
+
+National security waiver
+
+Waiver report
+
+Notice
+
+Appropriate congressional committees defined
+
+Exception
+
+Sunset
+
+## Source Credit
+
+*(Added and amended [Pub. L. 115–91, div. A, title XVI, § 1602](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1721](https://www.govinfo.gov/link/statute/131/1721), § 2279c; renumbered § 2279d, [Pub. L. 115–232, div. A, title X, § 1081(a)(18)(A)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1984](https://www.govinfo.gov/link/statute/132/1984); [Pub. L. 116–92, div. A, title XVII, § 1731(a)(35)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1814](https://www.govinfo.gov/link/statute/133/1814).)*

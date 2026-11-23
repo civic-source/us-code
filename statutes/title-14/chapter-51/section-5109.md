@@ -3,9 +3,10 @@ title: "Section 5109 - Report on gender diversity in the Coast Guard"
 usc_title: 14
 usc_section: "5109"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 5109"
-generated_at: "2026-03-30T02:53:51.506Z"
+generated_at: "2026-11-23T21:25:35.464Z"
+status: "active"
 ---
 
 # § 5109. Report on gender diversity in the Coast Guard
@@ -24,3 +25,21 @@ generated_at: "2026-03-30T02:53:51.506Z"
     - **(B)** opportunities to serve at remote units; and
     - **(C)** any other limitations on the opportunities of female members.
   - **(5)** An update on the Coast Guard’s progress on the implementation of the action plan required under subsection (a) of section 8215 of the Elijah E. Cummings Coast Guard Authorization Act of 2020.
+
+In General
+
+Contents
+
+Gender diversity overview
+
+Recruitment and retention.—
+
+Parental leave.—
+
+Limitations
+
+Progress update
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. G, title LVXXXII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXII], § 8215(d)(1), Jan. 1, 2021, [134 Stat. 4652](https://www.govinfo.gov/link/statute/134/4652).)*

@@ -3,9 +3,10 @@ title: "Section 1157 - Annual admission of refugees and admission of emergency s
 usc_title: 8
 usc_section: "1157"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1157"
-generated_at: "2026-03-30T02:53:10.475Z"
+generated_at: "2026-11-23T21:25:25.126Z"
+status: "active"
 ---
 
 # § 1157. Annual admission of refugees and admission of emergency situation refugees
@@ -40,3 +41,227 @@ generated_at: "2026-03-30T02:53:10.475Z"
 - **(f)**
   - **(1)** The Attorney General, in consultation with the Secretary of State, shall provide all United States officials adjudicating refugee cases under this section with the same training as that provided to officers adjudicating asylum cases under section 1158 of this title .
   - **(2)** Such training shall include country-specific conditions, instruction on the internationally recognized right to freedom of religion, instruction on methods of religious persecution practiced in foreign countries, and applicable distinctions within a country between the nature of and treatment of various religious practices and believers.
+
+In General
+
+Suspension
+
+Improved Application Process.—
+
+In general
+
+Construction
+
+Representation
+
+In General
+
+Identification of Other Persecuted Groups
+
+Ineligible Organizations and Entities
+
+Applicability of Other Requirements
+
+Numerical Limitations
+
+Eligibility for Admission as Refugee
+
+In General
+
+Aliens Described.—
+
+Principal aliens
+
+Spouses and children
+
+Treatment of surviving spouse or child.—
+
+In general
+
+Employment requirements
+
+Approval by chief of mission required
+
+In general
+
+Review process for denial by chief of mission.—
+
+In general
+
+“(aa) that shall be submitted not more than 120 days after the date that the applicant receives such decision in writing; and
+
+“(bb) that may request reopening of such decision and provide additional information, clarify existing information, or explain any unfavorable information.
+
+Iraqi special immigrant visa coordinator
+
+Evidence of serious threat
+
+Numerical Limitations.—
+
+In general
+
+Exclusion from numerical limitations
+
+Carry forward.—
+
+Fiscal years 2008 through 2011
+
+Fiscal years 2012 and 2013
+
+Limitation on number of visas.—
+
+In general
+
+Employment period
+
+Application deadline
+
+Visa and Passport Issuance and Fees
+
+Protection of Aliens
+
+Eligibility for Admission Under Other Classification
+
+Resettlement Support
+
+Rule of Construction
+
+Designation in Iraq
+
+Responsibilities
+
+Designation of Additional Senior Coordinators
+
+Secretary of Homeland Security
+
+President
+
+Report on Iraqi Citizens and Nationals Employed by the United States Government or Federal Contractors in Iraq.—
+
+In general
+
+Information required
+
+Executive agency defined
+
+Report on Establishment of Database
+
+Noncompliance Report
+
+Report on Improvements.—
+
+In general
+
+Contents
+
+Public Quarterly Reports
+
+Senior Coordinating Officials.—
+
+Requirement to designate
+
+Duties
+
+Submission to congress
+
+In general
+
+Asylum for Eligible Aliens
+
+Eligibility
+
+Definitions
+
+American vietnam war pow/mia.—
+
+In general
+
+Exclusion
+
+Missing status
+
+Vietnam war
+
+Asylum for Eligible Aliens
+
+Eligibility
+
+Definitions
+
+American korean war pow/mia.—
+
+In general
+
+Exclusion
+
+Korean war
+
+Missing status
+
+Asylum for Eligible Aliens
+
+Eligibility.—
+
+In general
+
+Exceptions
+
+Definitions
+
+American persian gulf war pow/mia.—
+
+In general
+
+Exclusion
+
+Missing status
+
+Persian gulf war
+
+Requirement.—
+
+In general
+
+Covered countries
+
+Level of Programming
+
+Availability of Information on the Internet
+
+Sense of Congress
+
+Definition
+
+Establishment of Task Force
+
+Report
+
+In General
+
+Establishment of Categories.—
+
+Written Reasons for Denials of Refugee Status
+
+Permitting Certain Aliens Within Categories to Reapply for Refugee Status
+
+Period of Application.—
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 1, § 207, as added [Pub. L. 96–212, title II, § 201(b)](https://www.govinfo.gov/link/plaw/96/public/212), Mar. 17, 1980, [94 Stat. 103](https://www.govinfo.gov/link/statute/94/103); amended [Pub. L. 100–525, § 9(h)](https://www.govinfo.gov/link/plaw/100/public/525), Oct. 24, 1988, [102 Stat. 2620](https://www.govinfo.gov/link/statute/102/2620); [Pub. L. 101–649, title I, § 104(b)](https://www.govinfo.gov/link/plaw/101/public/649), title VI, § 603(a)(4), Nov. 29, 1990, [104 Stat. 4985](https://www.govinfo.gov/link/statute/104/4985), 5082; [Pub. L. 102–232, title III, § 307](https://www.govinfo.gov/link/plaw/102/public/232) (l)(1), Dec. 12, 1991, [105 Stat. 1756](https://www.govinfo.gov/link/statute/105/1756); [Pub. L. 104–208, div. C, title VI, § 601(b)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–689](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 105–292, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/105/public/292), Oct. 27, 1998, [112 Stat. 2812](https://www.govinfo.gov/link/statute/112/2812); [Pub. L. 107–208, § 5](https://www.govinfo.gov/link/plaw/107/public/208), Aug. 6, 2002, [116 Stat. 929](https://www.govinfo.gov/link/statute/116/929); [Pub. L. 109–13, div. B, title I, § 101(g)(2)](https://www.govinfo.gov/link/plaw/109/public/13), May 11, 2005, [119 Stat. 305](https://www.govinfo.gov/link/statute/119/305).)*

@@ -3,9 +3,10 @@ title: "Section 871 - Fire protection"
 usc_title: 30
 usc_section: "871"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 871"
-generated_at: "2026-03-30T02:55:29.390Z"
+generated_at: "2026-11-23T21:26:00.397Z"
+status: "active"
 ---
 
 # § 871. Fire protection
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:29.390Z"
 - **(f)** Deluge-type water sprays or foam generators automatically actuated by rise in temperature, or other no less effective means approved by the Secretary of controlling fire, shall be installed at main and secondary belt-conveyor drives. Where sprays or foam generators are used they shall supply a sufficient quantity of water or foam to control fires.
 - **(g)** Underground belt conveyors shall be equipped with slippage and sequence switches. The Secretary shall, within sixty days after the operative date of this subchapter, require that devices be installed on all such belts which will give a warning automatically when a fire occurs on or near such belt. The Secretary shall prescribe a schedule for installing fire suppression devices on belt haulageways.
 - **(h)** On and after the operative date of this subchapter, all conveyor belts acquired for use underground shall meet the requirements to be established by the Secretary for flame-resistant conveyor belts.
+
+## Source Credit
+
+*([Pub. L. 91–173, title III, § 311](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 783](https://www.govinfo.gov/link/statute/83/783); [Pub. L. 102–285, § 10(b)](https://www.govinfo.gov/link/plaw/102/public/285), May 18, 1992, [106 Stat. 172](https://www.govinfo.gov/link/statute/106/172).)*

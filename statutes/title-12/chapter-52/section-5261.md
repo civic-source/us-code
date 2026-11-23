@@ -3,9 +3,10 @@ title: "Section 5261 - Gain or loss from sale or exchange of certain preferred s
 usc_title: 12
 usc_section: "5261"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5261"
-generated_at: "2026-03-30T02:53:53.527Z"
+generated_at: "2026-11-23T21:25:37.236Z"
+status: "active"
 ---
 
 # § 5261. Gain or loss from sale or exchange of certain preferred stock
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:53.527Z"
     - **(B)** sold or exchanged such stock during the period described in subsection (b)(2)(B).
 - **(e)** The Secretary of the Treasury or the Secretary’s delegate may prescribe such guidance, rules, or regulations as are necessary to carry out the purposes of this section.
 - **(f)** This section shall apply to sales or exchanges occurring after December 31, 2007 , in taxable years ending after such date.
+
+## Source Credit
+
+*([Pub. L. 110–343, div. A, title III, § 301](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3802](https://www.govinfo.gov/link/statute/122/3802).)*

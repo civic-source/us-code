@@ -3,9 +3,10 @@ title: "Section 1651 - Repeals"
 usc_title: 19
 usc_section: "1651"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1651"
-generated_at: "2026-03-30T02:54:24.649Z"
+generated_at: "2026-11-23T21:25:42.739Z"
+status: "active"
 ---
 
 # § 1651. Repeals
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:24.649Z"
   - **(3)** Section 296 of title 5 (providing for an Assistant Attorney General in charge of customs matters);
   - **(4)** The Act entitled “An Act relating to the use or disposal of vessels or vehicles forfeited to the United States for violation of the customs laws or the National Prohibition Act, and for other purposes”, approved March 3, 1925 ; nor
   - **(5)** The Antidumping Act, 1921 [ 19 U.S.C. 160 et seq.].
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 651, [46 Stat. 762](https://www.govinfo.gov/link/statute/46/762).)*

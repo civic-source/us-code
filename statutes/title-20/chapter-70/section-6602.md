@@ -3,9 +3,10 @@ title: "Section 6602 - Definitions"
 usc_title: 20
 usc_section: "6602"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6602"
-generated_at: "2026-03-30T02:54:48.200Z"
+generated_at: "2026-11-23T21:25:47.522Z"
+status: "active"
 ---
 
 # § 6602. Definitions
@@ -43,3 +44,7 @@ In this subchapter:
       - **(i)** through courses that may be taught by local educational agency personnel or by faculty of the teacher preparation program; and
       - **(ii)** in the teaching of the content area in which the teacher will become certified or licensed; and
     - **(C)** acquires effective teaching skills, as demonstrated through completion of a residency program, or other measure determined by the State, which may include a teacher performance assessment.
+
+## Source Credit
+
+*([Pub. L. 89–10, title II, § 2002](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title II, § 2002](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1914](https://www.govinfo.gov/link/statute/129/1914).)*

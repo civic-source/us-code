@@ -3,9 +3,10 @@ title: "Section 2013 - Training at non-Government facilities"
 usc_title: 10
 usc_section: "2013"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2013"
-generated_at: "2026-03-30T02:53:38.140Z"
+generated_at: "2026-11-23T21:25:32.547Z"
+status: "active"
 ---
 
 # § 2013. Training at non-Government facilities
@@ -29,3 +30,13 @@ generated_at: "2026-03-30T02:53:38.140Z"
     - **(E)** Purchase or rental of books, materials, and supplies.
     - **(F)** Other services or facilities directly related to the training of the member.
 - **(c)** The expenses of training do not include membership fees except to the extent that the fee is a necessary cost directly related to the training itself or that payment of the fee is a condition precedent to undergoing the training.
+
+Authority To Enter Into Agreements
+
+Expenses
+
+Certain Expenses Excluded
+
+## Source Credit
+
+*(Added [Pub. L. 104–201, div. A, title III, § 362(a)(1)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2491](https://www.govinfo.gov/link/statute/110/2491); amended [Pub. L. 111–350, § 5(b)(2)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3842](https://www.govinfo.gov/link/statute/124/3842); [Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1465](https://www.govinfo.gov/link/statute/125/1465); [Pub. L. 112–239, div. A, title X, § 1076(a)(9)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1948](https://www.govinfo.gov/link/statute/126/1948); [Pub. L. 113–291, div. A, title X, § 1071(a)(1)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3504](https://www.govinfo.gov/link/statute/128/3504); [Pub. L. 117–263, div. A, title VI, § 626(c)(6)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2628](https://www.govinfo.gov/link/statute/136/2628).)*

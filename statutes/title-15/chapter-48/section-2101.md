@@ -3,9 +3,10 @@ title: "Section 2101 - Marking requirements"
 usc_title: 15
 usc_section: "2101"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2101"
-generated_at: "2026-03-30T02:54:08.167Z"
+generated_at: "2026-11-23T21:25:39.915Z"
+status: "active"
 ---
 
 # § 2101. Marking requirements
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.167Z"
 - **(c)** The Federal Trade Commission shall prescribe rules for determining the manner and form in which items described in subsection (a) or (b) shall be permanently marked.
 - **(d)** It shall be a violation of subsection (a) or (b) for a person to provide substantial assistance or support to any manufacturer, importer, or seller if that person knows or should have known that the manufacturer, importer, or seller is engaged in any act or practice that violates subsection (a) or (b).
 - **(e)** Subsections (a) 1 1 So in original. Probably should be followed by a comma. (b), and (d), and regulations under subsection (c), shall not apply to any common carrier or contract carrier or freight forwarder with respect to an imitation political item or imitation numismatic item received, shipped, delivered, or handled by it for shipment in the ordinary course of its business.
+
+## Source Credit
+
+*([Pub. L. 93–167, § 2](https://www.govinfo.gov/link/plaw/93/public/167), Nov. 29, 1973, [87 Stat. 686](https://www.govinfo.gov/link/statute/87/686); [Pub. L. 113–288, § 2(1)](https://www.govinfo.gov/link/plaw/113/public/288), Dec. 19, 2014, [128 Stat. 3281](https://www.govinfo.gov/link/statute/128/3281).)*

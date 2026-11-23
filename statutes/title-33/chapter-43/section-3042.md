@@ -3,9 +3,10 @@ title: "Section 3042 - Separation pay"
 usc_title: 33
 usc_section: "3042"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3042"
-generated_at: "2026-03-30T02:55:41.137Z"
+generated_at: "2026-11-23T21:26:11.477Z"
+status: "active"
 ---
 
 # § 3042. Separation pay
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:41.137Z"
 - **(d)** An officer discharged for twice failing selection for promotion to the next higher grade is not entitled to separation pay under this section if the officer—
   - **(1)** expresses a desire not to be selected for promotion; or
   - **(2)** requests removal from the list of selectees.
+
+## Source Credit
+
+*([Pub. L. 107–372, title II, § 242](https://www.govinfo.gov/link/plaw/107/public/372), Dec. 19, 2002, [116 Stat. 3088](https://www.govinfo.gov/link/statute/116/3088); [Pub. L. 116–259, title IV, § 402](https://www.govinfo.gov/link/plaw/116/public/259), Dec. 23, 2020, [134 Stat. 1178](https://www.govinfo.gov/link/statute/134/1178).)*

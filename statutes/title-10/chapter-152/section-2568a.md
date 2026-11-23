@@ -3,9 +3,10 @@ title: "Section 2568a - Damaged personal protective equipment: award to members 
 usc_title: 10
 usc_section: "2568a"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2568a"
-generated_at: "2026-03-30T02:53:38.163Z"
+generated_at: "2026-11-23T21:25:32.627Z"
+status: "active"
 ---
 
 # § 2568a. Damaged personal protective equipment: award to members separating from the Armed Forces and veterans
@@ -20,3 +21,11 @@ generated_at: "2026-03-30T02:53:38.163Z"
   - **(2)** The term “PPE” means personal protective equipment that was damaged in combat or otherwise—
     - **(A)** during the deployment of a covered individual; and
     - **(B)** after September 11, 2001 .
+
+In General
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 115–232, div. A, title VI, § 623(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1800](https://www.govinfo.gov/link/statute/132/1800).)*

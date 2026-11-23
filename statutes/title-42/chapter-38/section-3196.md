@@ -3,9 +3,10 @@ title: "Section 3196 - Performance evaluations of grant recipients"
 usc_title: 42
 usc_section: "3196"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3196"
-generated_at: "2026-03-30T02:56:11.184Z"
+generated_at: "2026-11-23T21:26:32.544Z"
+status: "active"
 ---
 
 # § 3196. Performance evaluations of grant recipients
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.184Z"
   - **(2)** The criteria for evaluation of a university center shall, at a minimum, provide for an assessment of the center’s contribution to providing technical assistance, conducting applied research, program performance, and disseminating results of the activities of the center.
   - **(3)** The criteria for evaluation of an economic development district shall, at a minimum, provide for an assessment of management standards, financial accountability, and program performance.
 - **(e)** In conducting an evaluation of a university center or economic development district under subsection (a), the Secretary shall provide for the participation of at least 1 other university center or economic development district, as appropriate, on a cost-reimbursement basis.
+
+## Source Credit
+
+*([Pub. L. 89–136, title V, § 506](https://www.govinfo.gov/link/plaw/89/public/136), as added [Pub. L. 105–393, title I, § 102(a)](https://www.govinfo.gov/link/plaw/105/public/393), Nov. 13, 1998, [112 Stat. 3611](https://www.govinfo.gov/link/statute/112/3611); amended [Pub. L. 108–373, title V, § 503](https://www.govinfo.gov/link/plaw/108/public/373), Oct. 27, 2004, [118 Stat. 1769](https://www.govinfo.gov/link/statute/118/1769).)*

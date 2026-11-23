@@ -3,9 +3,10 @@ title: "Section 41721 - Reports by carriers on incidents involving animals durin
 usc_title: 49
 usc_section: "41721"
 chapter: 417
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 41721"
-generated_at: "2026-03-30T02:56:19.377Z"
+generated_at: "2026-11-23T21:26:40.861Z"
+status: "active"
 ---
 
 # § 41721. Reports by carriers on incidents involving animals during air transport
@@ -15,3 +16,17 @@ generated_at: "2026-03-30T02:56:19.377Z"
 - **(c)** The Secretary and the Secretary of Agriculture shall enter into a memorandum of understanding to ensure the sharing of information that the Secretary receives under subsection (a).
 - **(d)** The Secretary shall publish data on incidents and complaints involving the loss, injury, or death of an animal during air transport in a manner comparable to other consumer complaint and incident data.
 - **(e)** For purposes of this section, the air transport of an animal includes the entire period during which an animal is in the custody of an air carrier, from check-in of the animal prior to departure until the animal is returned to the owner or guardian of the animal at the final destination of the animal.
+
+In General
+
+Training of Air Carrier Employees
+
+Sharing of Information
+
+Publication of Data
+
+Air Transport
+
+## Source Credit
+
+*(Added [Pub. L. 106–181, title VII, § 710(a)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 159](https://www.govinfo.gov/link/statute/114/159).)*

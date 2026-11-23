@@ -3,9 +3,10 @@ title: "Section 13212 - Minimum Federal fleet requirement"
 usc_title: 42
 usc_section: "13212"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13212"
-generated_at: "2026-03-30T02:56:11.438Z"
+generated_at: "2026-11-23T21:26:33.580Z"
+status: "active"
 ---
 
 # § 13212. Minimum Federal fleet requirement
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:56:11.438Z"
     - **(B)** In identifying vehicles under subparagraph (A), the Administrator shall take into account the most stringent standards for vehicle greenhouse gas emissions applicable to and enforceable against motor vehicle manufacturers for vehicles sold anywhere in the United States.
     - **(C)** The Administrator shall not identify any vehicle as a low greenhouse gas emitting vehicle if the vehicle emits greenhouse gases at a higher rate than such standards allow for the manufacturer’s fleet average grams per mile of carbon dioxide-equivalent emissions for that class of vehicle, taking into account any emissions allowances and adjustment factors such standards provide.
 - **(g)** There are authorized to be appropriated for carrying out this section, such sums as may be necessary for fiscal years 1993 through 1998, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 102–486, title III, § 303](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2871](https://www.govinfo.gov/link/statute/106/2871); [Pub. L. 109–58, title VII, § 702](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 815](https://www.govinfo.gov/link/statute/119/815); [Pub. L. 110–140, title I, § 141](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1517](https://www.govinfo.gov/link/statute/121/1517); [Pub. L. 119–37, div. C, title I, § 113(a)](https://www.govinfo.gov/link/plaw/119/public/37), Nov. 12, 2025, [139 Stat. 570](https://www.govinfo.gov/link/statute/139/570).)*

@@ -3,9 +3,10 @@ title: "Section 918c - Rural and remote communities electrification grants"
 usc_title: 7
 usc_section: "918c"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 918c"
-generated_at: "2026-03-30T02:53:42.295Z"
+generated_at: "2026-11-23T21:25:28.000Z"
+status: "active"
 ---
 
 # § 918c. Rural and remote communities electrification grants
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:53:42.295Z"
   - **(2)** For each fiscal year, the Secretary shall allocate grant funds under this section equally between the purposes described in paragraphs (1) and (2) of subsection (b).
   - **(3)** In making grants for the purposes described in subsection (b)(2), the Secretary shall give preference to renewable energy facilities.
 - **(d)** There is authorized to be appropriated to the Secretary to carry out this section $20,000,000 for each of fiscal years 2006 through 2012.
+
+## Source Credit
+
+*([Pub. L. 95–617, title VI, § 609](https://www.govinfo.gov/link/plaw/95/public/617), as added [Pub. L. 109–58, title II, § 209](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 657](https://www.govinfo.gov/link/statute/119/657).)*

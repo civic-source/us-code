@@ -3,9 +3,10 @@ title: "Section 1092a - Persons entering the armed forces: baseline health data"
 usc_title: 10
 usc_section: "1092a"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1092a"
-generated_at: "2026-03-30T02:53:38.107Z"
+generated_at: "2026-11-23T21:25:32.418Z"
+status: "active"
 ---
 
 # § 1092a. Persons entering the armed forces: baseline health data
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:53:38.107Z"
 - **(b)** The program under this section shall be designed to achieve the following purposes:
   - **(1)** To facilitate understanding of how subsequent exposures related to service in the armed forces affect health.
   - **(2)** To facilitate development of early intervention and prevention programs to protect health and readiness.
+
+Program Required
+
+Purposes
+
+## Source Credit
+
+*(Added [Pub. L. 108–375, div. A, title VII, § 733(a)(1)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1997](https://www.govinfo.gov/link/statute/118/1997).)*

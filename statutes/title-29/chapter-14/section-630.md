@@ -3,9 +3,10 @@ title: "Section 630 - Definitions"
 usc_title: 29
 usc_section: "630"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 630"
-generated_at: "2026-03-30T02:55:18.687Z"
+generated_at: "2026-11-23T21:26:02.188Z"
+status: "active"
 ---
 
 # § 630. Definitions
@@ -29,3 +30,7 @@ For the purposes of this chapter—
 - **(j)** The term “firefighter” means an employee, the duties of whose position are primarily to perform work directly connected with the control and extinguishment of fires or the maintenance and use of firefighting apparatus and equipment, including an employee engaged in this activity who is transferred to a supervisory or administrative position.
 - **(k)** The term “law enforcement officer” means an employee, the duties of whose position are primarily the investigation, apprehension, or detention of individuals suspected or convicted of offenses against the criminal laws of a State, including an employee engaged in this activity who is transferred to a supervisory or administrative position. For the purpose of this subsection, “detention” includes the duties of employees assigned to guard individuals incarcerated in any penal institution.
 - **(l)** The term “compensation, terms, conditions, or privileges of employment” encompasses all employee benefits, including such benefits provided pursuant to a bona fide employee benefit plan.
+
+## Source Credit
+
+*([Pub. L. 90–202, § 11](https://www.govinfo.gov/link/plaw/90/public/202), Dec. 15, 1967, [81 Stat. 605](https://www.govinfo.gov/link/statute/81/605); [Pub. L. 93–259, § 28(a)(1)](https://www.govinfo.gov/link/plaw/93/public/259) –(4), Apr. 8, 1974, [88 Stat. 74](https://www.govinfo.gov/link/statute/88/74); [Pub. L. 98–459, title VIII, § 802(a)](https://www.govinfo.gov/link/plaw/98/public/459), Oct. 9, 1984, [98 Stat. 1792](https://www.govinfo.gov/link/statute/98/1792); [Pub. L. 99–592, § 4](https://www.govinfo.gov/link/plaw/99/public/592), Oct. 31, 1986, [100 Stat. 3343](https://www.govinfo.gov/link/statute/100/3343); [Pub. L. 101–433, title I, § 102](https://www.govinfo.gov/link/plaw/101/public/433), Oct. 16, 1990, [104 Stat. 978](https://www.govinfo.gov/link/statute/104/978).)*

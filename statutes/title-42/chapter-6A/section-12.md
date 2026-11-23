@@ -3,9 +3,10 @@ title: "Section 12 - Health Information Technology Advisory Committee"
 usc_title: 42
 usc_section: "12"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12"
-generated_at: "2026-03-30T02:56:10.845Z"
+generated_at: "2026-11-23T21:26:30.942Z"
+status: "active"
 ---
 
 # § 300jj–12. Health Information Technology Advisory Committee
@@ -86,3 +87,7 @@ generated_at: "2026-03-30T02:56:10.845Z"
   - **(8)** For the purposes of carrying out this section, the Secretary may provide or ensure that financial assistance is provided by the HIT Advisory Committee to defray in whole or in part any membership fees or dues charged by such Committee to those consumer advocacy groups and not-for-profit entities that work in the public interest as a party of their mission.
 - **(e)** Chapter 10 of title 5, other than section 1013 of title 5 , shall apply to the HIT Advisory Committee.
 - **(f)** The Secretary shall provide for publication in the Federal Register and the posting on the Internet website of the Office of the National Coordinator for Health Information Technology of all policy recommendations made by the HIT Advisory Committee under this section.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXX, § 3002, as added [Pub. L. 114–255, div. A, title IV, § 4003(e)(1)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1168](https://www.govinfo.gov/link/statute/130/1168); amended [Pub. L. 117–286, § 4(a)(246)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4332](https://www.govinfo.gov/link/statute/136/4332).)*

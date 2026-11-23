@@ -3,9 +3,10 @@ title: "Section 8351 - Temporary exemptions"
 usc_title: 42
 usc_section: "8351"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8351"
-generated_at: "2026-03-30T02:56:11.341Z"
+generated_at: "2026-11-23T21:26:33.198Z"
+status: "active"
 ---
 
 # § 8351. Temporary exemptions
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:11.341Z"
     - **(B)** Subject to paragraph (3), an exemption under subsections (b), (c), and (g) may be extended beyond the 5-year limit under paragraph (1), but such exemption, so extended, may not exceed 10 years.
   - **(3)** An exemption under subsections (d), (f), and (g) for the use of natural gas by a powerplant may not extend beyond December 31, 1994 .
   - **(4)** In computing the 5-year and 10-year limitations of paragraphs (1) and (2) in the case of any exemption under this section, the period before the prohibition on the use of natural gas and petroleum would first apply (if the exemption had not been granted) shall be disregarded.
+
+## Source Credit
+
+*([Pub. L. 95–620, title III, § 311](https://www.govinfo.gov/link/plaw/95/public/620), Nov. 9, 1978, [92 Stat. 3307](https://www.govinfo.gov/link/statute/92/3307); [Pub. L. 100–42, § 1(c)(10)](https://www.govinfo.gov/link/plaw/100/public/42), (11), May 21, 1987, [101 Stat. 313](https://www.govinfo.gov/link/statute/101/313).)*

@@ -3,9 +3,10 @@ title: "Section 7527A - Advance payment of child tax credit"
 usc_title: 26
 usc_section: "7527A"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7527A"
-generated_at: "2026-03-30T02:55:27.878Z"
+generated_at: "2026-11-23T21:26:06.985Z"
+status: "active"
 ---
 
 # § 7527A. Advance payment of child tax credit
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:55:27.878Z"
   - **(1)** any period before July 1, 2021 , or
   - **(2)** any period after December 31, 2021 .
 - **(g)** The Secretary shall issue such regulations or other guidance as the Secretary determines necessary or appropriate to carry out the purposes of this section and subsections (i)(1) and (j) of section 24, including regulations or other guidance which provides for the application of such provisions where the filing status of the taxpayer for a taxable year is different from the status used for determining the annual advance amount.
+
+## Source Credit
+
+*(Added [Pub. L. 117–2, title IX, § 9611(b)(1)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 146](https://www.govinfo.gov/link/statute/135/146).)*

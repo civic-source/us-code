@@ -3,9 +3,10 @@ title: "Section 7119 - Negotiation impasses; Federal Service Impasses Panel"
 usc_title: 5
 usc_section: "7119"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 7119"
-generated_at: "2026-03-30T02:52:56.035Z"
+generated_at: "2026-11-23T21:25:23.335Z"
+status: "active"
 ---
 
 # § 7119. Negotiation impasses; Federal Service Impasses Panel
@@ -28,3 +29,13 @@ generated_at: "2026-03-30T02:52:56.035Z"
       - **(ii)** administer oaths, take the testimony or deposition of any person under oath, and issue subpenas as provided in section 7132 of this title ; and
       - **(iii)** take whatever action is necessary and not inconsistent with this chapter to resolve the impasse.
     - **(C)** Notice of any final action of the Panel under this section shall be promptly served upon the parties, and the action shall be binding on such parties during the term of the agreement, unless the parties agree otherwise.
+
+Section
+
+Sec
+
+Donald J. Trump.
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title VII, § 701](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1208](https://www.govinfo.gov/link/statute/92/1208).)*

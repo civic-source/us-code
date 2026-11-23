@@ -3,9 +3,10 @@ title: "Section 6d - Dealing by unregistered futures commission merchants or int
 usc_title: 7
 usc_section: "6d"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6d"
-generated_at: "2026-03-30T02:53:42.240Z"
+generated_at: "2026-11-23T21:25:27.846Z"
+status: "active"
 ---
 
 # § 6d. Dealing by unregistered futures commission merchants or introducing brokers prohibited; duties in handling customer receipts; conflict-of-interest systems and procedures; Chief Compliance Officer; rules to avoid duplicative regulations; swap requirements; portfolio margining accounts
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:42.240Z"
   - **(6)** It shall be unlawful for any person, including any derivatives clearing organization and any depository institution, that has received any money, securities, or property for deposit in a separate account or accounts as provided in paragraph (2) to hold, dispose of, or use any such money, securities, or property as belonging to the depositing futures commission merchant or any person other than the swaps customer of the futures commission merchant.
 - **(g)** It shall be unlawful for any person to be an introducing broker unless such person shall have registered under this chapter with the Commission as an introducing broker and such registration shall not have expired nor been suspended nor revoked.
 - **(h)** Notwithstanding subsection (a)(2) or the rules and regulations thereunder, and pursuant to an exemption granted by the Commission under section 6(c) of this title or pursuant to a rule or regulation, a futures commission merchant that is registered pursuant to section 6f(a)(1) of this title and also registered as a broker or dealer pursuant to section 78( o )(b)(1) of title 15 may, pursuant to a portfolio margining program approved by the Securities and Exchange Commission pursuant to section 78s(b) of title 15 , hold in a portfolio margining account carried as a securities account subject to section 78( o )(c)(3) of title 15 and the rules and regulations thereunder, a contract for the purchase or sale of a commodity for future delivery or an option on such a contract, and any money, securities or other property received from a customer to margin, guarantee or secure such a contract, or accruing to a customer as the result of such a contract. The Commission shall consult with the Securities and Exchange Commission to adopt rules to ensure that such transactions and accounts are subject to comparable requirements to the extent practical for similar products.
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 4d, as added June 15, 1936, ch. 545, § 5, [49 Stat. 1494](https://www.govinfo.gov/link/statute/49/1494); amended [Pub. L. 90–258, § 6](https://www.govinfo.gov/link/plaw/90/public/258), Feb. 19, 1968, [82 Stat. 27](https://www.govinfo.gov/link/statute/82/27); [Pub. L. 93–463, title I, § 103(a)](https://www.govinfo.gov/link/plaw/93/public/463), Oct. 23, 1974, [88 Stat. 1392](https://www.govinfo.gov/link/statute/88/1392); [Pub. L. 95–405, § 4](https://www.govinfo.gov/link/plaw/95/public/405), Sept. 30, 1978, [92 Stat. 869](https://www.govinfo.gov/link/statute/92/869); [Pub. L. 97–444, title II, § 207](https://www.govinfo.gov/link/plaw/97/public/444), Jan. 11, 1983, [96 Stat. 2302](https://www.govinfo.gov/link/statute/96/2302); [Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(6), title II, § 251(f)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–407, 2763A–443; [Pub. L. 111–203, title VII](https://www.govinfo.gov/link/plaw/111/public/203), §§ 713(b), 724(a), 732, 749(a), July 21, 2010, [124 Stat. 1646](https://www.govinfo.gov/link/statute/124/1646), 1682, 1712, 1746.)*

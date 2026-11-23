@@ -3,9 +3,10 @@ title: "Section 3732 - False claims jurisdiction"
 usc_title: 31
 usc_section: "3732"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 3732"
-generated_at: "2026-03-30T02:55:34.061Z"
+generated_at: "2026-11-23T21:26:10.597Z"
+status: "active"
 ---
 
 # § 3732. False claims jurisdiction
@@ -13,3 +14,13 @@ generated_at: "2026-03-30T02:55:34.061Z"
 - **(a)** Any action under section 3730 may be brought in any judicial district in which the defendant or, in the case of multiple defendants, any one defendant can be found, resides, transacts business, or in which any act proscribed by section 3729 occurred. A summons as required by the Federal Rules of Civil Procedure shall be issued by the appropriate district court and served at any place within or outside the United States.
 - **(b)** The district courts shall have jurisdiction over any action brought under the laws of any State for the recovery of funds paid by a State or local government if the action arises from the same transaction or occurrence as an action brought under section 3730.
 - **(c)** With respect to any State or local government that is named as a co-plaintiff with the United States in an action brought under subsection (b), a seal on the action ordered by the court under section 3730(b) shall not preclude the Government or the person bringing the action from serving the complaint, any other pleadings, or the written disclosure of substantially all material evidence and information possessed by the person bringing the action on the law enforcement authorities that are authorized under the law of that State or local government to investigate and prosecute such actions on behalf of such governments, except that such seal applies to the law enforcement authorities so served to the same extent as the seal applies to other parties in the action.
+
+Actions Under Section
+
+Claims Under State Law
+
+Service on State or Local Authorities
+
+## Source Credit
+
+*(Added [Pub. L. 99–562, § 6(a)](https://www.govinfo.gov/link/plaw/99/public/562), Oct. 21, 1986, [100 Stat. 3158](https://www.govinfo.gov/link/statute/100/3158); amended [Pub. L. 111–21, § 4(e)](https://www.govinfo.gov/link/plaw/111/public/21), May 20, 2009, [123 Stat. 1625](https://www.govinfo.gov/link/statute/123/1625).)*

@@ -3,9 +3,10 @@ title: "Section 6991b - Release detection, prevention, and correction regulation
 usc_title: 42
 usc_section: "6991b"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6991b"
-generated_at: "2026-03-30T02:56:11.280Z"
+generated_at: "2026-11-23T21:26:33.030Z"
+status: "active"
 ---
 
 # § 6991b. Release detection, prevention, and correction regulations
@@ -122,3 +123,11 @@ generated_at: "2026-03-30T02:56:11.280Z"
     - **(C)** The Administrator shall make each report, received under subparagraph (A), available to the public through an appropriate media. 2 2 So in original. Probably should be “medium.”
   - **(2)** The Administrator may award to a State that develops a report described in paragraph (1), in addition to any other funds that the State is entitled to receive under this subchapter, not more than $50,000, to be used to carry out the report.
   - **(3)** This subsection does not relieve any person from any obligation or requirement under this subchapter.
+
+Study
+
+Report
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 9003](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 98–616, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/98/public/616), Nov. 8, 1984, [98 Stat. 3279](https://www.govinfo.gov/link/statute/98/3279); amended [Pub. L. 99–499, title II, § 205(c)](https://www.govinfo.gov/link/plaw/99/public/499), (d), Oct. 17, 1986, [100 Stat. 1697](https://www.govinfo.gov/link/statute/100/1697), 1698; [Pub. L. 104–208, div. A, title II, § 2503](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–468](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 109–58, title XV](https://www.govinfo.gov/link/plaw/109/public/58), §§ 1522(c), 1525, 1526(b), 1530(a), 1532(b)(1), (2), 1533(2), Aug. 8, 2005, [119 Stat. 1093](https://www.govinfo.gov/link/statute/119/1093), 1096, 1097, 1102, 1105; [Pub. L. 109–168, § 1(a)(2)](https://www.govinfo.gov/link/plaw/109/public/168), Jan. 10, 2006, [119 Stat. 3580](https://www.govinfo.gov/link/statute/119/3580).)*

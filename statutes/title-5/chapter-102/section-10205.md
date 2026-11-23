@@ -3,9 +3,10 @@ title: "Section 10205 - Service step adjustments"
 usc_title: 5
 usc_section: "10205"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 10205"
-generated_at: "2026-03-30T02:52:56.076Z"
+generated_at: "2026-11-23T21:25:23.468Z"
+status: "active"
 ---
 
 # § 10205. Service step adjustments
@@ -15,3 +16,11 @@ generated_at: "2026-03-30T02:52:56.076Z"
   - **(1)** Each member in service step 1, 2, or 3 shall be advanced successively to the next higher service step at the beginning of the first pay period immediately following the completion of 52 calendar weeks of active service in the member’s service step.
   - **(2)** Each member in service step 4, 5, 6, 7, 8, 9, 10, or 11 shall be advanced successively to the next higher service step at the beginning of the first pay period immediately following the completion of 104 calendar weeks of active service in the member’s service step.
   - **(3)** Each member in service step 12 shall be advanced successively to the next higher service step at the beginning of the first pay period immediately following the completion of 156 calendar weeks of active service in the member’s service step.
+
+Definition
+
+Adjustments
+
+## Source Credit
+
+*(Added [Pub. L. 111–282, § 2(a)](https://www.govinfo.gov/link/plaw/111/public/282), Oct. 15, 2010, [124 Stat. 3036](https://www.govinfo.gov/link/statute/124/3036).)*

@@ -3,9 +3,10 @@ title: "Section 3311 - Educational assistance for service in the Armed Forces co
 usc_title: 38
 usc_section: "3311"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3311"
-generated_at: "2026-03-30T02:55:53.502Z"
+generated_at: "2026-11-23T21:26:16.734Z"
+status: "active"
 ---
 
 # § 3311. Educational assistance for service in the Armed Forces commencing on or after September 11, 2001 : entitlement
@@ -78,3 +79,49 @@ generated_at: "2026-03-30T02:55:53.502Z"
       - **(i)** who is entitled to assistance under subsection (a) pursuant to paragraphs (8), (9), and (10) of subsection (b); and
       - **(ii)** who was the spouse of a member of the Armed Forces who died during the period beginning on September 11, 2001 , and ending on December 31, 2005 .
   - **(4)** For purposes of paragraphs (8), (9), and (10) of subsection (b), the term “child” includes a married individual or an individual who is above the age of twenty-three years.
+
+Entitlement
+
+Covered Individuals
+
+Covered Discharges and Releases
+
+Prohibition on Treatment of Certain Service as Period of Active Duty
+
+Treatment of Individuals Entitled Under Multiple Provisions
+
+Marine Gunnery Sergeant John David Fry Scholarship.—
+
+In general
+
+Election on receipt of certain benefits
+
+Exception for certain elections.—
+
+In general
+
+Eligible surviving spouse
+
+Definition of child
+
+In general
+
+Deaths that occurred between september 11, 2001 , and december 31, 2005
+
+Honorable service requirement
+
+Service in connection with attendance at coast guard academy
+
+Effective date
+
+Applicability
+
+In General
+
+Covered Individual Described
+
+Applicability
+
+## Source Credit
+
+*(Added [Pub. L. 110–252, title V, § 5003(a)(1)](https://www.govinfo.gov/link/plaw/110/public/252), June 30, 2008, [122 Stat. 2359](https://www.govinfo.gov/link/statute/122/2359); amended [Pub. L. 111–32, title X, § 1002(a)](https://www.govinfo.gov/link/plaw/111/public/32), June 24, 2009, [123 Stat. 1889](https://www.govinfo.gov/link/statute/123/1889); [Pub. L. 111–377, title I, § 101(b)](https://www.govinfo.gov/link/plaw/111/public/377), (c), Jan. 4, 2011, [124 Stat. 4107](https://www.govinfo.gov/link/statute/124/4107); [Pub. L. 113–146, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/113/public/146), (b), Aug. 7, 2014, [128 Stat. 1795](https://www.govinfo.gov/link/statute/128/1795); [Pub. L. 114–315, title IV, § 401(b)](https://www.govinfo.gov/link/plaw/114/public/315), (c), Dec. 16, 2016, [130 Stat. 1553](https://www.govinfo.gov/link/statute/130/1553); [Pub. L. 115–48, title I](https://www.govinfo.gov/link/plaw/115/public/48), §§ 102(a), 105(a), (c)(1), Aug. 16, 2017, [131 Stat. 975](https://www.govinfo.gov/link/statute/131/975); [Pub. L. 115–232, div. A, title VIII, § 809(n)(3)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1844](https://www.govinfo.gov/link/statute/132/1844); [Pub. L. 116–315, title I, § 1002(a)](https://www.govinfo.gov/link/plaw/116/public/315), (b)(1), Jan. 5, 2021, [134 Stat. 4938](https://www.govinfo.gov/link/statute/134/4938); [Pub. L. 117–333, § 10(b)](https://www.govinfo.gov/link/plaw/117/public/333), (c), Jan. 5, 2023, [136 Stat. 6131](https://www.govinfo.gov/link/statute/136/6131), 6132; [Pub. L. 118–31, div. A, title XVII, § 1723(c)(2)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 675](https://www.govinfo.gov/link/statute/137/675); [Pub. L. 118–210, title II, § 202](https://www.govinfo.gov/link/plaw/118/public/210), Jan. 2, 2025, [138 Stat. 2762](https://www.govinfo.gov/link/statute/138/2762).)*

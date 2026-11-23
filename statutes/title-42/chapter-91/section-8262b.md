@@ -3,9 +3,10 @@ title: "Section 8262b - Intergovernmental energy management planning and coordin
 usc_title: 42
 usc_section: "8262b"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8262b"
-generated_at: "2026-03-30T02:56:11.339Z"
+generated_at: "2026-11-23T21:26:33.192Z"
+status: "active"
 ---
 
 # § 8262b. Intergovernmental energy management planning and coordination
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.339Z"
   - **(4)** Dissemination of energy information on innovative programs, technologies, and methods which have proven successful in government.
   - **(5)** Technical assistance to design and incorporate effective energy management strategies.
 - **(c)** As a part of the first report to be submitted pursuant to section 8262a of this title , the Administrator shall set forth the schedule for the regional energy management workshops to be conducted under this section. Not less than five such workshops shall be held by September 30, 1993 , and at least one such workshop shall be held in each of the 10 Federal regions every two years beginning on September 30, 1993 .
+
+## Source Credit
+
+*([Pub. L. 102–486, title I, § 156](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2855](https://www.govinfo.gov/link/statute/106/2855).)*

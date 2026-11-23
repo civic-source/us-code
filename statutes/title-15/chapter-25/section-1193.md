@@ -3,9 +3,10 @@ title: "Section 1193 - Flammability standards or regulations"
 usc_title: 15
 usc_section: "1193"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1193"
-generated_at: "2026-03-30T02:54:08.129Z"
+generated_at: "2026-11-23T21:25:39.798Z"
+status: "active"
 ---
 
 # § 1193. Flammability standards or regulations
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:54:08.129Z"
     - **(A)** Any regulatory analysis prepared under subsection (i) or paragraph (1) shall not be subject to independent judicial review, except that when an action for judicial review of a regulation is instituted, the contents of any such regulatory analysis shall constitute part of the whole rulemaking record of agency action in connection with such review.
     - **(B)** The provisions of subparagraph (A) shall not be construed to alter the substantive or procedural standards otherwise applicable to judicial review of any action by the Commission.
 - **(k)** The Commission shall grant, in whole or in part, or deny any petition under section 553(e) of title 5 requesting the Commission to initiate a rulemaking, within a reasonable time after the date on which such petition is filed. The Commission shall state the reasons for granting or denying such petition. The Commission may not deny any such petition on the basis of a voluntary standard unless the voluntary standard is in existence at the time of the denial of the petition, the Commission has determined that the voluntary standard is likely to result in the elimination or adequate reduction of the risk of injury identified in the petition, and it is likely that there will be substantial compliance with the standard.
+
+## Source Credit
+
+*(June 30, 1953, ch. 164, § 4, [67 Stat. 112](https://www.govinfo.gov/link/statute/67/112); Aug. 23, 1954, ch. 833, [68 Stat. 770](https://www.govinfo.gov/link/statute/68/770); [Pub. L. 90–189, § 3](https://www.govinfo.gov/link/plaw/90/public/189), Dec. 14, 1967, [81 Stat. 569](https://www.govinfo.gov/link/statute/81/569); [Pub. L. 94–284, § 20(a)](https://www.govinfo.gov/link/plaw/94/public/284), May 11, 1976, [90 Stat. 515](https://www.govinfo.gov/link/statute/90/515); [Pub. L. 97–35, title XII, § 1203(b)(2)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 711](https://www.govinfo.gov/link/statute/95/711); [Pub. L. 101–608, title I](https://www.govinfo.gov/link/plaw/101/public/608), §§ 107(c), 108(c), 110(c), Nov. 16, 1990, [104 Stat. 3112–3114](https://www.govinfo.gov/link/statute/104/3112); [Pub. L. 110–314, title II, § 204(c)(1)](https://www.govinfo.gov/link/plaw/110/public/314), (2)(B)–(E), Aug. 14, 2008, [122 Stat. 3042](https://www.govinfo.gov/link/statute/122/3042).)*

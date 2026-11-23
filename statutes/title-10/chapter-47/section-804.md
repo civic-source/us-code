@@ -3,9 +3,10 @@ title: "Section 804 - Art. 4. Dismissed officer’s right to trial by court-mart
 usc_title: 10
 usc_section: "804"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 804"
-generated_at: "2026-03-30T02:53:38.077Z"
+generated_at: "2026-11-23T21:25:32.324Z"
+status: "active"
 ---
 
 # § 804. Art. 4. Dismissed officer’s right to trial by court-martial
@@ -14,3 +15,28 @@ generated_at: "2026-03-30T02:53:38.077Z"
 - **(b)** If the President fails to convene a general court-martial within six months from the presentation of an application for trial under this article, the Secretary concerned shall substitute for the dismissal ordered by the President a form of discharge authorized for administrative issue.
 - **(c)** If a discharge is substituted for a dismissal under this article, the President alone may reappoint the officer to such commissioned grade and with such rank as, in the opinion of the President, that former officer would have attained had he not been dismissed. The reappointment of such a former officer shall be without regard to the existence of a vacancy and shall affect the promotion status of other officers only insofar as the President may direct. All time between the dismissal and the reappointment shall be considered as actual service for all purposes, including the right to pay and allowances.
 - **(d)** If an officer is discharged from any armed force by administrative action or is dropped from the rolls by order of the President, he has no right to trial under this article.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 804(a) 804(b) | 50:554(a). 50:554(b). | May 5, 1950, ch. 169, § 1 (Art. 4), 64 Stat. 110 . |
+| 804(c) | 50:554(c). |  |
+| 804(d) | 50:554(d). |  |
+
+
+Historical and Revision Notes
+
+804(a)
+
+804(b)
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 110
+
+804(c)
+
+804(d)
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 38.)*

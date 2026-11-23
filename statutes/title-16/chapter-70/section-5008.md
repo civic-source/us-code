@@ -3,9 +3,10 @@ title: "Section 5008 - Enforcement provisions"
 usc_title: 16
 usc_section: "5008"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 5008"
-generated_at: "2026-03-30T02:54:23.049Z"
+generated_at: "2026-11-23T21:25:52.026Z"
+status: "active"
 ---
 
 # § 5008. Enforcement provisions
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:23.049Z"
     - **(A)** board a vessel of any Party that reasonably can be believed to be engaged in directed fishing for, incidental taking of, or processing of anadromous fish, and, without warrant or process, inspect equipment, logs, documents, catch, and other articles, and question persons, on board the vessel, for the purpose of carrying out the provisions of the Convention, this chapter, or any regulation issued under this chapter; and
     - **(B)** If 1 1 So in original. Probably should not be capitalized. any such vessel or person on board is actually engaged in operations in violation of any such provision, or there is reasonable ground to believe any person or vessel was obviously so engaged before the boarding of such vessel by the authorized officer, arrest or seize such person or vessel and further investigate the circumstance if necessary.
   - **(2)** When requested by the appropriate authorities of a Party, an authorized officer may be directed to attend as a witness, and to produce such available records and files or duly certified copies thereof as may be necessary, for the prosecution by that Party of any violation of the provisions of the Convention or any law of that Party relating to the enforcement thereof.
+
+## Source Credit
+
+*([Pub. L. 102–567, title VIII, § 809](https://www.govinfo.gov/link/plaw/102/public/567), Oct. 29, 1992, [106 Stat. 4312](https://www.govinfo.gov/link/statute/106/4312); [Pub. L. 102–587, title VIII, § 8009](https://www.govinfo.gov/link/plaw/102/public/587), Nov. 4, 1992, [106 Stat. 5101](https://www.govinfo.gov/link/statute/106/5101); [Pub. L. 106–562, title III, § 304(a)](https://www.govinfo.gov/link/plaw/106/public/562), Dec. 23, 2000, [114 Stat. 2806](https://www.govinfo.gov/link/statute/114/2806).)*

@@ -3,9 +3,10 @@ title: "Section 77kkk - Preferential collection of claims against obligor"
 usc_title: 15
 usc_section: "77kkk"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 77kkk"
-generated_at: "2026-03-30T02:54:08.036Z"
+generated_at: "2026-11-23T21:25:39.514Z"
+status: "active"
 ---
 
 # § 77kkk. Preferential collection of claims against obligor
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.036Z"
   - **(4)** an indebtedness created as a result of services rendered or premises rented; or an indebtedness created as a result of goods or securities sold in a cash transaction as defined in the indenture;
   - **(5)** the ownership of stock or of other securities of a corporation organized under the provisions of section 25(a) 1 1 See References in Text note below. of the Federal Reserve Act, as amended [ 12 U.S.C. 611 et seq.], which is directly or indirectly a creditor of an obligor upon the indenture securities; or
   - **(6)** the acquisition, ownership, acceptance, or negotiation of any drafts, bills of exchange, acceptances, or obligations which fall within the classification of self-liquidating paper as defined in the indenture.
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title III, § 311, as added Aug. 3, 1939, ch. 411, [53 Stat. 1161](https://www.govinfo.gov/link/statute/53/1161); amended [Pub. L. 101–550, title IV, § 409](https://www.govinfo.gov/link/plaw/101/public/550), Nov. 15, 1990, [104 Stat. 2728](https://www.govinfo.gov/link/statute/104/2728); [Pub. L. 111–203, title IX, § 986(b)(4)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1936](https://www.govinfo.gov/link/statute/124/1936).)*

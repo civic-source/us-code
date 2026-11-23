@@ -3,9 +3,10 @@ title: "Section 16291 - Fossil energy"
 usc_title: 42
 usc_section: "16291"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16291"
-generated_at: "2026-03-30T02:56:11.479Z"
+generated_at: "2026-11-23T21:26:33.722Z"
+status: "active"
 ---
 
 # § 16291. Fossil energy
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:56:11.479Z"
 - **(e)**
   - **(1)** None of the funds authorized under this section may be used for Fossil Energy Environmental Restoration or Import/Export Authorization.
   - **(2)** Of the funds authorized under subsection (c)(2), not less than 20 percent of the funds appropriated for each fiscal year shall be dedicated to research and development carried out at institutions of higher education.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 961](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 889](https://www.govinfo.gov/link/statute/119/889); [Pub. L. 116–260, div. Z, title IV, § 4001](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2527](https://www.govinfo.gov/link/statute/134/2527).)*

@@ -3,9 +3,10 @@ title: "Section 44713 - Inspection and maintenance"
 usc_title: 49
 usc_section: "44713"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44713"
-generated_at: "2026-03-30T02:56:19.385Z"
+generated_at: "2026-11-23T21:26:40.900Z"
+status: "active"
 ---
 
 # § 44713. Inspection and maintenance
@@ -28,3 +29,110 @@ generated_at: "2026-03-30T02:56:19.385Z"
     - **(A)** The initial phase of the operational deployment of the system developed under this subsection shall begin not later than December 31, 1997 .
     - **(B)** The final phase of field deployment of the system developed under this subsection shall begin not later than December 31, 1999 . By that date, all principal operations and maintenance inspectors of the Administration, and appropriate supervisors and analysts of the Administration shall have been provided access to the necessary information and resources to carry out the system.
   - **(3)** In developing the system under this section, the Administration shall consider the near-term integration of accident and incident data into the safety performance analysis system under this subsection.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44713(a) | 49 App.:1425(a). | Aug. 23, 1958 , Pub. L. 85–726, § 605(a) , (b), 72 Stat. 778 . |
+|  | 49 App.:1655(c)(1). | Oct. 15, 1966 , Pub. L. 89–670, § 6(c)(1) , 80 Stat. 938 ; Jan. 12, 1983 , Pub. L. 97–449, § 7(b) , 96 Stat. 2444 . |
+| 44713(b) | 49 App.:1425(b) (1st sentence). |  |
+|  | 49 App.:1655(c)(1). |  |
+| 44713(c) | 49 App.:1425(b) (last sentence). |  |
+|  | 49 App.:1655(c)(1). |  |
+| 44713(d)(1) | 49 App.:1303 (note). | Nov. 18, 1988 , Pub. L. 100–690, § 7214 , 102 Stat. 4434 . |
+|  | 49 App.:1425(c). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 605(c); added Nov. 18, 1988 , Pub. L. 100–690, § 7206(a) , 102 Stat. 4426 . |
+| 44713(d)(2) | 49 App.:1401 (note). | Nov. 18, 1988 , Pub. L. 100–690, § 7207(a) (1st sentence), (b), 102 Stat. 4427 . |
+
+
+General Equipment Requirements
+
+Duties of Inspectors
+
+Unsafe Aircraft, Engines, Propellers, and Appliances
+
+Modifications in System
+
+Automated Surveillance Targeting Systems.—
+
+In general
+
+Deadlines for deployment.—
+
+Initial phase
+
+Final phase
+
+Integration of information
+
+Historical and Revision Notes
+
+44713(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 605(a)
+
+72 Stat. 778
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 6(c)(1)
+
+80 Stat. 938
+
+Jan. 12, 1983
+
+Pub. L. 97–449, § 7(b)
+
+96 Stat. 2444
+
+44713(b)
+
+44713(c)
+
+44713(d)(1)
+
+Nov. 18, 1988
+
+Pub. L. 100–690, § 7214
+
+102 Stat. 4434
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Nov. 18, 1988
+
+Pub. L. 100–690, § 7206(a)
+
+102 Stat. 4426
+
+44713(d)(2)
+
+Nov. 18, 1988
+
+Pub. L. 100–690, § 7207(a)
+
+102 Stat. 4427
+
+Regulations
+
+Persons Authorized To Perform Certain Work
+
+Terms and Conditions
+
+Definitions
+
+Covered work
+
+Part 121 air carrier
+
+Part 145 repair station
+
+Person
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1194](https://www.govinfo.gov/link/statute/108/1194); [Pub. L. 104–264, title IV, § 407(b)](https://www.govinfo.gov/link/plaw/104/public/264), Oct. 9, 1996, [110 Stat. 3258](https://www.govinfo.gov/link/statute/110/3258); [Pub. L. 114–125, title VIII, § 802(d)(2)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 210](https://www.govinfo.gov/link/statute/130/210).)*

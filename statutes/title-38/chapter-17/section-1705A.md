@@ -3,9 +3,10 @@ title: "Section 1705A - Management of health care: information regarding health-
 usc_title: 38
 usc_section: "1705A"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1705A"
-generated_at: "2026-03-30T02:55:53.482Z"
+generated_at: "2026-11-23T21:26:16.623Z"
+status: "active"
 ---
 
 # § 1705A. Management of health care: information regarding health-plan contracts
@@ -20,3 +21,15 @@ generated_at: "2026-03-30T02:55:53.482Z"
 - **(b)** The Secretary may take such action as the Secretary considers appropriate to collect the information required under subsection (a).
 - **(c)** The Secretary may not deny any services under this chapter to an individual solely due to the fact that the individual fails to provide information required under subsection (a).
 - **(d)** In this section, the term “health-plan contract” has the meaning given that term in section 1725(h) of this title .
+
+In General
+
+Action To Collect Information
+
+Effect on Services From Department
+
+Health-Plan Contract Defined
+
+## Source Credit
+
+*(Added [Pub. L. 114–315, title VI, § 604(a)](https://www.govinfo.gov/link/plaw/114/public/315), Dec. 16, 2016, [130 Stat. 1571](https://www.govinfo.gov/link/statute/130/1571); amended [Pub. L. 117–328, div. U, title I, § 142(c)(1)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5424](https://www.govinfo.gov/link/statute/136/5424).)*

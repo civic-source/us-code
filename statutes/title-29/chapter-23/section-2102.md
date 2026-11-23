@@ -3,9 +3,10 @@ title: "Section 2102 - Notice required before plant closings and mass layoffs"
 usc_title: 29
 usc_section: "2102"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 2102"
-generated_at: "2026-03-30T02:55:18.742Z"
+generated_at: "2026-11-23T21:26:02.313Z"
+status: "active"
 ---
 
 # § 2102. Notice required before plant closings and mass layoffs
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:18.742Z"
   - **(1)** the extension beyond 6 months is caused by business circumstances (including unforeseeable changes in price or cost) not reasonably foreseeable at the time of the initial layoff; and
   - **(2)** notice is given at the time it becomes reasonably foreseeable that the extension beyond 6 months will be required.
 - **(d)** For purposes of this section, in determining whether a plant closing or mass layoff has occurred or will occur, employment losses for 2 or more groups at a single site of employment, each of which is less than the minimum number of employees specified in section 2101(a)(2) or (3) of this title but which in the aggregate exceed that minimum number, and which occur within any 90-day period shall be considered to be a plant closing or mass layoff unless the employer demonstrates that the employment losses are the result of separate and distinct actions and causes and are not an attempt by the employer to evade the requirements of this chapter.
+
+## Source Credit
+
+*([Pub. L. 100–379, § 3](https://www.govinfo.gov/link/plaw/100/public/379), Aug. 4, 1988, [102 Stat. 891](https://www.govinfo.gov/link/statute/102/891); [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(26), (f)(18)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–424, 2681–432; [Pub. L. 113–128, title V, § 512(kk)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1722](https://www.govinfo.gov/link/statute/128/1722).)*

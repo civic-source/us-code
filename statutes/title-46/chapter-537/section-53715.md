@@ -3,9 +3,10 @@ title: "Section 53715 - Escrow fund"
 usc_title: 46
 usc_section: "53715"
 chapter: 537
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 53715"
-generated_at: "2026-03-30T02:56:15.577Z"
+generated_at: "2026-11-23T21:26:37.285Z"
+status: "active"
 ---
 
 # § 53715. Escrow fund
@@ -36,3 +37,86 @@ generated_at: "2026-03-30T02:56:15.577Z"
   - **(2)** Any remaining balance of the escrow fund shall be paid to the obligor.
 - **(f)** The Secretary or Administrator may invest and reinvest any part of an escrow fund in obligations of the United States Government with maturities such that the escrow fund will be available as required for purposes of the escrow agreement. Investment income shall be paid to the obligor when received.
 - **(g)** The escrow agreement shall contain other terms the Secretary or Administrator considers necessary to protect fully the interests of the Government.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 53715(a) | 46 App.:1279a(a) (less proviso). | June 29, 1936, ch. 858 , title XI, § 1108, formerly § 1111, as added Pub. L. 86–127, § 1(2) , July 31, 1959 , 73 Stat. 272 ; renumbered Pub. L. 92–507, § 5 , Oct. 19, 1972 , 86 Stat. 916 ; Pub. L. 97–31, § 12(136) , Aug. 6, 1981 , 95 Stat. 166 ; Pub. L. 108–136, title XXXV, § 3521(a) , Nov. 24, 2003 , 117 Stat. 1799 . |
+| 53715(b) | 46 App.:1279a(a) (proviso). |  |
+| 53715(c) | 46 App.:1279a(b). |  |
+| 53715(d) | 46 App.:1279a(g). |  |
+| 53715(e) | 46 App.:1279a(c). |  |
+| 53715(f) | 46 App.:1279a(d), (e). |  |
+| 53715(g) | 46 App.:1279a(f). |  |
+
+
+In General
+
+Security Involving Both Uncompleted and Delivered Vessels
+
+Disbursement Before Termination of Agreement
+
+Purposes
+
+Manner of payment
+
+Payments Required Before Disbursement
+
+In general
+
+Documented proof of progress requirement
+
+Disbursement on Termination of Agreement
+
+In general
+
+Remaining balance
+
+Investment
+
+Terms To Protect Government
+
+Historical and Revision Notes
+
+53715(a)
+
+June 29, 1936, ch. 858
+
+Pub. L. 86–127, § 1(2)
+
+July 31, 1959
+
+73 Stat. 272
+
+Pub. L. 92–507, § 5
+
+Oct. 19, 1972
+
+86 Stat. 916
+
+Pub. L. 97–31, § 12(136)
+
+Aug. 6, 1981
+
+95 Stat. 166
+
+Pub. L. 108–136, title XXXV, § 3521(a)
+
+Nov. 24, 2003
+
+117 Stat. 1799
+
+53715(b)
+
+53715(c)
+
+53715(d)
+
+53715(e)
+
+53715(f)
+
+53715(g)
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1614](https://www.govinfo.gov/link/statute/120/1614); [Pub. L. 109–163, div. C, title XXXV, § 3507(a)(1)(H)](https://www.govinfo.gov/link/plaw/109/public/163), (3), Jan. 6, 2006, [119 Stat. 3555](https://www.govinfo.gov/link/statute/119/3555); [Pub. L. 110–181, div. C, title XXXV, § 3522(a)(10)(B)](https://www.govinfo.gov/link/plaw/110/public/181), (11), (b), Jan. 28, 2008, [122 Stat. 598](https://www.govinfo.gov/link/statute/122/598).)*

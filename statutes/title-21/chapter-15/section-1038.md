@@ -3,12 +3,17 @@ title: "Section 1038 - Cooperation with appropriate State and other governmental
 usc_title: 21
 usc_section: "1038"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 1038"
-generated_at: "2026-03-30T02:54:54.301Z"
+generated_at: "2026-11-23T21:25:56.268Z"
+status: "active"
 ---
 
 # § 1038. Cooperation with appropriate State and other governmental agencies; utilization of employees; reimbursement
 
 The Secretary shall, whenever he determines that it would effectuate the purposes of this chapter, cooperate with appropriate State and other governmental agencies, in carrying out any provisions of this chapter. In carrying out the provisions of this chapter, the Secretary may conduct such examinations, investigations, and inspections as he determines practicable through any officer or employee of any such agency commissioned by him for such purpose. The Secretary shall reimburse the States and other agencies for the costs incurred by them in such cooperative programs.
 
+
+## Source Credit
+
+*([Pub. L. 91–597, § 9](https://www.govinfo.gov/link/plaw/91/public/597), Dec. 29, 1970, [84 Stat. 1627](https://www.govinfo.gov/link/statute/84/1627).)*

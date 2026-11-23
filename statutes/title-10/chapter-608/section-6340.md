@@ -3,9 +3,10 @@ title: "Section 6340 - Appropriate scoping of artificial intelligence research w
 usc_title: 10
 usc_section: "6340"
 chapter: 608
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6340"
-generated_at: "2026-03-30T02:53:38.227Z"
+generated_at: "2026-11-23T21:25:32.830Z"
+status: "active"
 ---
 
 # § 6340. Appropriate scoping of artificial intelligence research within the administration
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:53:38.227Z"
   - **(2)** to impede the use of resources of the Administration, including resources provided by a national security laboratory or a nuclear weapons production facility site, to support the execution of an enduring national security artificial intelligence research and development program or activity, if such support is provided—
     - **(A)** on a full cost recovery basis, including any associated infrastructure or utility costs, to an entity that is not a component of the Department of Energy; and
     - **(B)** in a manner that does not interfere with the nuclear security mission of such laboratory or facility.
+
+In General
+
+Rule of Construction
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI](https://www.govinfo.gov/link/plaw/119/public/60), §§ 3111(d)(1)(H), 3117(a), Dec. 18, 2025, [139 Stat. 1462](https://www.govinfo.gov/link/statute/139/1462), 1465.)*

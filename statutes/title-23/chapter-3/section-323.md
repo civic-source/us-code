@@ -3,9 +3,10 @@ title: "Section 323 - Donations and credits"
 usc_title: 23
 usc_section: "323"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 323"
-generated_at: "2026-03-30T02:55:12.567Z"
+generated_at: "2026-11-23T21:25:53.921Z"
+status: "active"
 ---
 
 # § 323. Donations and credits
@@ -32,3 +33,27 @@ generated_at: "2026-03-30T02:55:12.567Z"
   - **(1)** all alternatives to a proposed alignment will be studied and considered pursuant to such Act;
   - **(2)** acquisition of property under this section shall not influence the environmental assessment of a project including the decision relative to the need to construct the project or the selection of a specific location; and
   - **(3)** any property acquired by gift or donation shall be revested in the grantor or successors in interest if such property is not required for the alignment chosen after public hearings, if required, and completion of the environmental document.
+
+Donations of Property Being Acquired
+
+Credit for Acquired Lands.—
+
+In general
+
+Establishment of fair market value
+
+Limitation on applicability
+
+Limitation on amount of credit
+
+Credit for Donations of Funds, Materials, or Services
+
+Procedures
+
+General rule
+
+Establishment of fair market value
+
+## Source Credit
+
+*(Added [Pub. L. 93–87, title I, § 145(a)](https://www.govinfo.gov/link/plaw/93/public/87), Aug. 13, 1973, [87 Stat. 273](https://www.govinfo.gov/link/statute/87/273); amended [Pub. L. 93–643, § 112](https://www.govinfo.gov/link/plaw/93/public/643), Jan. 4, 1975, [88 Stat. 2285](https://www.govinfo.gov/link/statute/88/2285); [Pub. L. 100–17, title I, § 146(a)](https://www.govinfo.gov/link/plaw/100/public/17), Apr. 2, 1987, [101 Stat. 179](https://www.govinfo.gov/link/statute/101/179); [Pub. L. 104–59, title III, § 322](https://www.govinfo.gov/link/plaw/104/public/59), Nov. 28, 1995, [109 Stat. 591](https://www.govinfo.gov/link/statute/109/591); [Pub. L. 105–178, title I](https://www.govinfo.gov/link/plaw/105/public/178), §§ 1212(a)(2)(A)(i), 1301(b)–(d)(1), June 9, 1998, [112 Stat. 193](https://www.govinfo.gov/link/statute/112/193), 225, 226; [Pub. L. 109–59, title I, § 1902](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1464](https://www.govinfo.gov/link/statute/119/1464); [Pub. L. 117–58, div. A, title I, § 11525(q)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 608](https://www.govinfo.gov/link/statute/135/608).)*

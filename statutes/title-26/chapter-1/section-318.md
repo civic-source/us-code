@@ -3,9 +3,10 @@ title: "Section 318 - Constructive ownership of stock"
 usc_title: 26
 usc_section: "318"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 318"
-generated_at: "2026-03-30T02:55:27.665Z"
+generated_at: "2026-11-23T21:26:06.139Z"
+status: "active"
 ---
 
 # § 318. Constructive ownership of stock
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:55:27.665Z"
   - **(6)** section 856(d) (relating to definition of rents from real property in the case of real estate investment trusts);
   - **(7)** section 958(b) (relating to constructive ownership rules with respect to controlled foreign corporations); and
   - **(8)** section 6038(e)(2) (relating to information with respect to certain foreign corporations).
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 99; [Pub. L. 86–779, § 10(h)](https://www.govinfo.gov/link/plaw/86/public/779), Sept. 14, 1960, [74 Stat. 1009](https://www.govinfo.gov/link/statute/74/1009); [Pub. L. 87–834, § 20(d)(1)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 1063](https://www.govinfo.gov/link/statute/76/1063); [Pub. L. 88–554, § 4(a)](https://www.govinfo.gov/link/plaw/88/public/554), (b)(2), Aug. 31, 1964, [78 Stat. 762](https://www.govinfo.gov/link/statute/78/762), 763; [Pub. L. 97–248, title II, § 224(c)(3)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 489](https://www.govinfo.gov/link/statute/96/489); [Pub. L. 98–369, div. A, title VII](https://www.govinfo.gov/link/plaw/98/public/369), §§ 712(k)(5)(E), 721(j), July 18, 1984, [98 Stat. 950](https://www.govinfo.gov/link/statute/98/950), 969; [Pub. L. 99–514, title VI, § 621(c)(1)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2266](https://www.govinfo.gov/link/statute/100/2266); [Pub. L. 105–34, title XI, § 1142(e)(3)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 983](https://www.govinfo.gov/link/statute/111/983); [Pub. L. 109–135, title IV, § 412(u)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2638](https://www.govinfo.gov/link/statute/119/2638).)*

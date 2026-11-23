@@ -3,9 +3,10 @@ title: "Section 3403 - Matter for blind and other handicapped persons"
 usc_title: 39
 usc_section: "3403"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 3403"
-generated_at: "2026-03-30T02:55:43.693Z"
+generated_at: "2026-11-23T21:26:12.786Z"
+status: "active"
 ---
 
 # § 3403. Matter for blind and other handicapped persons
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:43.693Z"
   - **(3)** paper, records, tapes, and other material for the production of reading matter, musical scores, or sound reproductions;
   - **(4)** reproducers or parts thereof, for sound reproductions; and
   - **(5)** braille writers, typewriters, educational or other materials or devices, or parts thereof, used for writing by, or specifically designed or adapted for use of, a blind person or a person having a physical impairment as described in subsection (a)(1) of this section.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 757](https://www.govinfo.gov/link/statute/84/757).)*

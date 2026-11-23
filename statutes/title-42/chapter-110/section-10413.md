@@ -3,9 +3,10 @@ title: "Section 10413 - National domestic violence hotline grant"
 usc_title: 42
 usc_section: "10413"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10413"
-generated_at: "2026-03-30T02:56:11.389Z"
+generated_at: "2026-11-23T21:26:33.373Z"
+status: "active"
 ---
 
 # § 10413. National domestic violence hotline grant
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:11.389Z"
     - **(G)** may provide appropriate assistance and referrals for family and household members of victims of family violence, domestic violence, or dating violence, and persons affected by the victimization described in subsection (a); and
     - **(H)** at the discretion of the hotline operator, may provide assistance, or referrals for counseling or intervention, for identified adult and youth perpetrators, including self-identified perpetrators, of family violence, domestic violence, or dating violence, but shall not be required to provide such assistance or referrals in any circumstance in which the hotline operator fears the safety of a victim may be impacted by an abuser or suspected abuser.
 - **(f)** The entity receiving a grant under this section shall submit a performance report to the Secretary at such time as shall be reasonably required by the Secretary. Such performance report shall describe the activities that have been carried out with such grant funds, contain an evaluation of the effectiveness of such activities, and provide such additional information as the Secretary may reasonably require.
+
+## Source Credit
+
+*([Pub. L. 98–457, title III, § 313](https://www.govinfo.gov/link/plaw/98/public/457), as added [Pub. L. 111–320, title II, § 201](https://www.govinfo.gov/link/plaw/111/public/320), Dec. 20, 2010, [124 Stat. 3504](https://www.govinfo.gov/link/statute/124/3504).)*

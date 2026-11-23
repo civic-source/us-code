@@ -3,9 +3,10 @@ title: "Section 9401 - Definitions"
 usc_title: 15
 usc_section: "9401"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9401"
-generated_at: "2026-03-30T02:54:08.246Z"
+generated_at: "2026-11-23T21:25:40.141Z"
+status: "active"
 ---
 
 # § 9401. Definitions
@@ -26,3 +27,91 @@ In this chapter:
   - **(9)** The term “Interagency Committee” means the interagency committee established under section 9413(a) of this title .
   - **(10)** The term “K-12 education” means elementary school and secondary school education provided by local educational agencies, as such agencies are defined in section 7801 of title 20 .
   - **(11)** The term “machine learning” means an application of artificial intelligence that is characterized by providing systems the ability to automatically learn and improve on the basis of data or experience, without being explicitly programmed.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. E, § 5002](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4523](https://www.govinfo.gov/link/statute/134/4523).)*

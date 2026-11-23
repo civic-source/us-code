@@ -3,9 +3,10 @@ title: "Section 401 - Notice of copyright: Visually perceptible copies"
 usc_title: 17
 usc_section: "401"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 401"
-generated_at: "2026-03-30T02:54:15.351Z"
+generated_at: "2026-11-23T21:25:41.712Z"
+status: "active"
 ---
 
 # § 401. Notice of copyright: Visually perceptible copies
@@ -17,3 +18,15 @@ generated_at: "2026-03-30T02:54:15.351Z"
   - **(3)** the name of the owner of copyright in the work, or an abbreviation by which the name can be recognized, or a generally known alternative designation of the owner.
 - **(c)** The notice shall be affixed to the copies in such manner and location as to give reasonable notice of the claim of copyright. The Register of Copyrights shall prescribe by regulation, as examples, specific methods of affixation and positions of the notice on various types of works that will satisfy this requirement, but these specifications shall not be considered exhaustive.
 - **(d)** If a notice of copyright in the form and position specified by this section appears on the published copy or copies to which a defendant in a copyright infringement suit had access, then no weight shall be given to such a defendant’s interposition of a defense based on innocent infringement in mitigation of actual or statutory damages, except as provided in the last sentence of section 504(c)(2).
+
+General Provisions
+
+Form of Notice
+
+Position of Notice
+
+Evidentiary Weight of Notice
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2576](https://www.govinfo.gov/link/statute/90/2576); [Pub. L. 100–568, § 7(a)](https://www.govinfo.gov/link/plaw/100/public/568), Oct. 31, 1988, [102 Stat. 2857](https://www.govinfo.gov/link/statute/102/2857).)*

@@ -3,9 +3,10 @@ title: "Section 2291 - Qualifying requirements for workers"
 usc_title: 19
 usc_section: "2291"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2291"
-generated_at: "2026-03-30T02:54:24.669Z"
+generated_at: "2026-11-23T21:25:42.785Z"
+status: "active"
 ---
 
 # § 2291. Qualifying requirements for workers
@@ -62,3 +63,15 @@ generated_at: "2026-03-30T02:54:24.669Z"
   - **(3)**
     - **(A)** Pursuant to an agreement under section 2311 of this title , the Secretary may authorize a cooperating State to issue waivers as described in paragraph (1).
     - **(B)** An agreement under section 2311 of this title shall include a requirement that the cooperating State submit to the Secretary the written statements provided under paragraph (1) and a statement of the reasons for the waiver.
+
+In General
+
+Job Search Program Requirements
+
+Extension and Authorization
+
+Application of Gramm-Rudman
+
+## Source Credit
+
+*([Pub. L. 93–618, title II, § 231](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 2020](https://www.govinfo.gov/link/statute/88/2020); [Pub. L. 97–35, title XXV, § 2503](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 881](https://www.govinfo.gov/link/statute/95/881); [Pub. L. 99–272, title XIII, § 13003(a)(1)](https://www.govinfo.gov/link/plaw/99/public/272), (2), (b), Apr. 7, 1986, [100 Stat. 300](https://www.govinfo.gov/link/statute/100/300), 301; [Pub. L. 100–418, title I, § 1423(a)(1)](https://www.govinfo.gov/link/plaw/100/public/418) –(3), Aug. 23, 1988, [102 Stat. 1244](https://www.govinfo.gov/link/statute/102/1244), 1245; [Pub. L. 102–318, title I, § 106(a)](https://www.govinfo.gov/link/plaw/102/public/318), July 3, 1992, [106 Stat. 294](https://www.govinfo.gov/link/statute/106/294); [Pub. L. 107–210, div. A, title I](https://www.govinfo.gov/link/plaw/107/public/210), §§ 114, 115, Aug. 6, 2002, [116 Stat. 939](https://www.govinfo.gov/link/statute/116/939); [Pub. L. 109–270, § 2(b)(1)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 746](https://www.govinfo.gov/link/statute/120/746); [Pub. L. 111–5, div. B, title I](https://www.govinfo.gov/link/plaw/111/public/5), §§ 1801(e)(3), 1821(a)–(c)(1), 1858(b), Feb. 17, 2009, [123 Stat. 371](https://www.govinfo.gov/link/statute/123/371), 375, 376, 395; [Pub. L. 112–40, title II](https://www.govinfo.gov/link/plaw/112/public/40), §§ 201(b), (c), 212(a), Oct. 21, 2011, [125 Stat. 403](https://www.govinfo.gov/link/statute/125/403), 404; [Pub. L. 114–27, title IV, § 402(b)](https://www.govinfo.gov/link/plaw/114/public/27), (c), June 29, 2015, [129 Stat. 374](https://www.govinfo.gov/link/statute/129/374).)*

@@ -3,9 +3,10 @@ title: "Section 7112 - Additional activities to monitor and combat forced labor 
 usc_title: 22
 usc_section: "7112"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7112"
-generated_at: "2026-03-30T02:55:05.438Z"
+generated_at: "2026-11-23T21:25:58.712Z"
+status: "active"
 ---
 
 # § 7112. Additional activities to monitor and combat forced labor and child labor
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:05.438Z"
     - **(D)** to work with persons who are involved in the production of goods on the list described in subparagraph (C) to create a standard set of practices that will reduce the likelihood that such persons will produce goods using the labor described in such subparagraph; and
     - **(E)** to consult with other departments and agencies of the United States Government to reduce forced and child labor internationally and ensure that products made by forced labor and child labor in violation of international standards are not imported into the United States.
   - **(3)** Not later than December 1, 2014 , and every 2 years thereafter, the Secretary of Labor shall submit the list developed under paragraph (2)(C) to Congress.
+
+## Source Credit
+
+*([Pub. L. 109–164, title I, § 105](https://www.govinfo.gov/link/plaw/109/public/164), Jan. 10, 2006, [119 Stat. 3566](https://www.govinfo.gov/link/statute/119/3566); [Pub. L. 113–4, title XII](https://www.govinfo.gov/link/plaw/113/public/4), §§ 1232, 1233, Mar. 7, 2013, [127 Stat. 146](https://www.govinfo.gov/link/statute/127/146); [Pub. L. 115–425, title I, § 133(a)](https://www.govinfo.gov/link/plaw/115/public/425), Jan. 8, 2019, [132 Stat. 5481](https://www.govinfo.gov/link/statute/132/5481).)*

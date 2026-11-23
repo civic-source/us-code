@@ -3,9 +3,10 @@ title: "Section 1222 - Research funds to institutes"
 usc_title: 30
 usc_section: "1222"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1222"
-generated_at: "2026-03-30T02:55:29.396Z"
+generated_at: "2026-11-23T21:26:00.416Z"
+status: "active"
 ---
 
 # § 1222. Research funds to institutes
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:29.396Z"
 - **(c)** The Committee shall review all such funding applications and recommend to the Secretary the use of the institutes, insofar as practicable, to perform special research. Recommendations shall be made without regard to the race, religion, or sex of the personnel who will conduct and direct the research, and on the basis of the facilities available in relation to the particular needs of the research project; special geographic, geologic, or climatic conditions within the immediate vicinity of the institute; any other special requirements of the research project; and the extent to which such project will provide an opportunity for training individuals as mineral engineers and scientists. The Committee shall recommend to the Secretary the designation and utilization of such portions of the funds authorized to be appropriated by this section as it deems appropriate for the purpose of providing scholarships, graduate fellowships, and postdoctoral fellowships.
 - **(d)** No funds shall be made available under subsection (a) of this section except for a project approved by the Secretary and all funds shall be made available upon the basis of merit of the project, the need for the knowledge which it is expected to produce when completed, and the opportunity it provides for the training of individuals as mineral engineers and scientists.
 - **(e)** No funds made available under this section shall be applied to the acquisition by purchase or lease of any land or interests therein, or the rental, purchase, construction, preservation, or repair of any building.
+
+## Source Credit
+
+*([Pub. L. 98–409, § 2](https://www.govinfo.gov/link/plaw/98/public/409), Aug. 29, 1984, [98 Stat. 1537](https://www.govinfo.gov/link/statute/98/1537); [Pub. L. 100–483, § 5](https://www.govinfo.gov/link/plaw/100/public/483), Oct. 12, 1988, [102 Stat. 2339](https://www.govinfo.gov/link/statute/102/2339); [Pub. L. 104–312, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/312), Oct. 19, 1996, [110 Stat. 3819](https://www.govinfo.gov/link/statute/110/3819).)*

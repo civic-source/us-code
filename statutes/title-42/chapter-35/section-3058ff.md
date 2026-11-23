@@ -3,9 +3,10 @@ title: "Section 3058ff - Rule of construction"
 usc_title: 42
 usc_section: "3058ff"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3058ff"
-generated_at: "2026-03-30T02:56:11.181Z"
+generated_at: "2026-11-23T21:26:32.529Z"
+status: "active"
 ---
 
 # § 3058ff. Rule of construction
@@ -18,3 +19,7 @@ Nothing in this subchapter shall be construed to interfere with or abridge the r
     - **(C)** when the older individual is competent to make the decision;
   - **(2)** is set forth prior to the occurrence of the illness or injury in a living will, health care proxy, or other advance directive document that is validly executed and applied under State law; or
   - **(3)** may be unambiguously deduced from the older individual’s life history.
+
+## Source Credit
+
+*([Pub. L. 89–73, title VII, § 765](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 109–365, title VII, § 705](https://www.govinfo.gov/link/plaw/109/public/365), Oct. 17, 2006, [120 Stat. 2594](https://www.govinfo.gov/link/statute/120/2594).)*

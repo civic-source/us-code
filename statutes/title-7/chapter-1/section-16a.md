@@ -3,9 +3,10 @@ title: "Section 16a - Service fees and National Futures Association study"
 usc_title: 7
 usc_section: "16a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 16a"
-generated_at: "2026-03-30T02:53:42.247Z"
+generated_at: "2026-11-23T21:25:27.864Z"
+status: "active"
 ---
 
 # § 16a. Service fees and National Futures Association study
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:42.247Z"
   - **(6)** an assessment of the actual and projected efficiencies the Commission has achieved or expects to be achieved as a result of the continuing regulatory activities of the Association; and
   - **(7)** the immediate and projected capabilities of the Commission at the time of submission of the study to turn its attention to more immediate problems of regulation, as a result of the activities of the Association.
 - **(c)** Nothing in this section shall limit the authority of the Commission to promulgate, after notice and opportunity for hearing, a schedule of appropriate fees to be charged for services rendered and activities and functions performed by the Commission in conjunction with its administration and enforcement of the Commodity Exchange Act [ 7 U.S.C. 1 et seq.]: Provided , That the fees for any specified service or activity or function shall not exceed the actual cost thereof to the Commission.
+
+## Source Credit
+
+*([Pub. L. 95–405, § 26](https://www.govinfo.gov/link/plaw/95/public/405), Sept. 30, 1978, [92 Stat. 877](https://www.govinfo.gov/link/statute/92/877); [Pub. L. 97–444, title II, § 237](https://www.govinfo.gov/link/plaw/97/public/444), Jan. 11, 1983, [96 Stat. 2325](https://www.govinfo.gov/link/statute/96/2325).)*

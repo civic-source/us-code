@@ -3,9 +3,10 @@ title: "Section 4815 - Unfunded priorities of the national technology and indust
 usc_title: 10
 usc_section: "4815"
 chapter: 382
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4815"
-generated_at: "2026-03-30T02:53:38.211Z"
+generated_at: "2026-11-23T21:25:32.789Z"
+status: "active"
 ---
 
 # § 4815. Unfunded priorities of the national technology and industrial base: annual report
@@ -26,3 +27,17 @@ generated_at: "2026-03-30T02:53:38.211Z"
   - **(3)** would have been recommended for funding through the budget referred to in paragraph (1) if—
     - **(A)** additional resources had been available for the budget to fund the program, activity, or mission requirement; or
     - **(B)** the program, activity, or mission requirement had emerged before the budget was formulated.
+
+Annual Report
+
+Elements.—
+
+In general
+
+Prioritization of priorities
+
+Unfunded Priority Defined
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. A, title VIII, § 846(c)(1)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1504](https://www.govinfo.gov/link/statute/133/1504), § 2504a; renumbered § 4815, [Pub. L. 116–283, div. A, title XVIII, § 1867(b)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4281](https://www.govinfo.gov/link/statute/134/4281).)*

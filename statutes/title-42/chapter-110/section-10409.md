@@ -3,9 +3,10 @@ title: "Section 10409 - Grants for Indian tribes"
 usc_title: 42
 usc_section: "10409"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10409"
-generated_at: "2026-03-30T02:56:11.388Z"
+generated_at: "2026-11-23T21:26:33.371Z"
+status: "active"
 ---
 
 # § 10409. Grants for Indian tribes
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.388Z"
 - **(c)** Each recipient of such a grant shall comply with requirements that are consistent with the requirements applicable to grantees under section 10406 of this title .
 - **(d)** To be eligible to receive a grant under this section, an entity shall submit an application to the Secretary under section 10407 of this title at such time, in such manner, and containing such information as the Secretary determines to be essential to carry out the objectives and provisions of this chapter. The Secretary shall approve any application that meets requirements consistent with the requirements of section 10406(c) of this title and section 10407(a) of this title .
 - **(e)** An amount provided under a grant to an eligible entity shall be used for the services described in section 10408(b) of this title .
+
+## Source Credit
+
+*([Pub. L. 98–457, title III, § 309](https://www.govinfo.gov/link/plaw/98/public/457), as added [Pub. L. 111–320, title II, § 201](https://www.govinfo.gov/link/plaw/111/public/320), Dec. 20, 2010, [124 Stat. 3496](https://www.govinfo.gov/link/statute/124/3496).)*

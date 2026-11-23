@@ -3,9 +3,10 @@ title: "Section 4811 - Statement of policy"
 usc_title: 50
 usc_section: "4811"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4811"
-generated_at: "2026-03-30T02:56:26.283Z"
+generated_at: "2026-11-23T21:26:39.120Z"
+status: "active"
 ---
 
 # § 4811. Statement of policy
@@ -37,3 +38,25 @@ The following is the policy of the United States:
   - **(9)** Implementation and enforcement of United States export controls require robust capabilities in monitoring, intelligence, and investigation, appropriate penalties for violations, and the ability to swiftly interdict unapproved transfers.
   - **(10)** Export controls complement and are a critical element of the national security policies underlying the laws and regulations governing foreign direct investment in the United States, including controlling the transfer of critical technologies to certain foreign persons. Thus, the President, in coordination with the Secretary, the Secretary of Defense, the Secretary of State, the Secretary of Energy, and the heads of other Federal agencies, as appropriate, should have a regular and robust process to identify the emerging and other types of critical technologies of concern and regulate their release to foreign persons as warranted regardless of the nature of the underlying transaction. Such identification efforts should draw upon the resources and expertise of all relevant parts of the United States Government, industry, and academia. These efforts should be in addition to traditional efforts to modernize and update the lists of controlled items under the multilateral export control regimes.
   - **(11)** The authority under this subchapter may be exercised only in furtherance of all of the objectives set forth in paragraphs (1) through (10).
+
+In General
+
+Product Scope Requirements
+
+Destination Scope Requirements
+
+License Requirements.—
+
+In general
+
+Exceptions
+
+National Interest Waiver
+
+Sunset
+
+Definitions
+
+## Source Credit
+
+*([Pub. L. 115–232, div. A, title XVII, § 1752](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2210](https://www.govinfo.gov/link/statute/132/2210).)*

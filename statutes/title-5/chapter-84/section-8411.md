@@ -3,9 +3,10 @@ title: "Section 8411 - Creditable service"
 usc_title: 5
 usc_section: "8411"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8411"
-generated_at: "2026-03-30T02:52:56.053Z"
+generated_at: "2026-11-23T21:25:23.411Z"
+status: "active"
 ---
 
 # § 8411. Creditable service
@@ -83,3 +84,61 @@ generated_at: "2026-03-30T02:52:56.053Z"
     - **(A)** the terms “finally convicted” and “final conviction” refer to a conviction (i) which has not been appealed and is no longer appealable because the time for taking an appeal has expired, or (ii) which has been appealed and the appeals process for which is completed;
     - **(B)** the term “Member” has the meaning given such term by section 2106, notwithstanding section 8401(20); and
     - **(C)** the term “child” has the meaning given such term by section 8441.
+
+Retirement Credit for Certain Government Service Performed Abroad
+
+Requirements.—
+
+Requirements of the individual
+
+Government contributions.—
+
+In general
+
+Amount described
+
+Special rule
+
+Related requirements
+
+Notification and assistance requirements.—
+
+In general
+
+Assistance to individuals
+
+Assistance from instrumentalities
+
+Definitions
+
+Abroad
+
+Basic pay
+
+Civil service retirement and disability fund
+
+Temporary appointment
+
+Rule of Construction
+
+Applicability.—
+
+Annuities commencing on or after effective date of implementing regulations
+
+Annuities with commencement date preceding effective date of implementing regulations.—
+
+Recomputation cases
+
+Other cases
+
+Retroactive effect
+
+Lump-sum payment
+
+Order of precedence
+
+Implementation
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 522](https://www.govinfo.gov/link/statute/100/522); amended [Pub. L. 99–556, title I, § 103](https://www.govinfo.gov/link/plaw/99/public/556), title V, § 502(b), Oct. 27, 1986, [100 Stat. 3131](https://www.govinfo.gov/link/statute/100/3131), 3140; [Pub. L. 100–238, title I](https://www.govinfo.gov/link/plaw/100/public/238), §§ 104(b), 105(a), Jan. 8, 1988, [101 Stat. 1746](https://www.govinfo.gov/link/statute/101/1746); [Pub. L. 102–83, § 5(c)(2)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 102–242, title IV, § 466(b)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2385](https://www.govinfo.gov/link/statute/105/2385); [Pub. L. 103–82, title III, § 371(b)(1)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 910](https://www.govinfo.gov/link/statute/107/910); [Pub. L. 103–337, div. A, title XVI, § 1677(a)(3)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 3019](https://www.govinfo.gov/link/statute/108/3019); [Pub. L. 104–201, div. A, title VI, § 637(b)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2580](https://www.govinfo.gov/link/statute/110/2580); [Pub. L. 106–168, title II, § 202(a)](https://www.govinfo.gov/link/plaw/106/public/168), Dec. 12, 1999, [113 Stat. 1817](https://www.govinfo.gov/link/statute/113/1817); [Pub. L. 106–554, § 1(a)(4) [div. A, § 901(a)(2)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–196; [Pub. L. 107–107, div. A, title XI, § 1132(b)(1)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1243](https://www.govinfo.gov/link/statute/115/1243); [Pub. L. 110–81, title IV, § 401(b)](https://www.govinfo.gov/link/plaw/110/public/81), Sept. 14, 2007, [121 Stat. 756](https://www.govinfo.gov/link/statute/121/756); [Pub. L. 112–105, § 15(a)(2)](https://www.govinfo.gov/link/plaw/112/public/105), Apr. 4, 2012, [126 Stat. 301](https://www.govinfo.gov/link/statute/126/301).)*

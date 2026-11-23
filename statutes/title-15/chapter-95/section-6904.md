@@ -3,9 +3,10 @@ title: "Section 6904 - Qualified organizations"
 usc_title: 15
 usc_section: "6904"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6904"
-generated_at: "2026-03-30T02:54:08.217Z"
+generated_at: "2026-11-23T21:25:40.036Z"
+status: "active"
 ---
 
 # § 6904. Qualified organizations
@@ -16,3 +17,7 @@ For purposes of eligibility for assistance under this chapter, a qualified organ
   - **(2)** an intermediary;
   - **(3)** a microenterprise development organization or program that is accountable to a local community, working in conjunction with a State or local government or Indian tribe; or
   - **(4)** an Indian tribe acting on its own, if the Indian tribe can certify that no private organization or program referred to in this paragraph exists within its jurisdiction.
+
+## Source Credit
+
+*([Pub. L. 103–325, title I, § 175](https://www.govinfo.gov/link/plaw/103/public/325), as added [Pub. L. 106–102, title VII, § 725](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1473](https://www.govinfo.gov/link/statute/113/1473).)*

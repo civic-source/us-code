@@ -3,9 +3,10 @@ title: "Section 17337 - United States-Israel energy cooperation"
 usc_title: 42
 usc_section: "17337"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17337"
-generated_at: "2026-03-30T02:56:11.505Z"
+generated_at: "2026-11-23T21:26:33.787Z"
+status: "active"
 ---
 
 # § 17337. United States-Israel energy cooperation
@@ -93,3 +94,7 @@ generated_at: "2026-03-30T02:56:11.505Z"
     - **(B)** any projects undertaken pursuant to such agreements.
 - **(d)** The Secretary may establish a joint United States-Israel Energy Center in the United States leveraging the experience, knowledge, and expertise of institutions of higher education and entities in the private sector, among others, in offshore energy development to further dialogue and collaboration to develop more robust academic cooperation in energy innovation technology and engineering, water science, technology transfer, and analysis of emerging geopolitical implications, crises and threats from foreign natural resource and energy acquisitions, and the development of domestic resources as a response.
 - **(e)** The grant program and the advisory committee established under this section terminate on September 30, 2024 .
+
+## Source Credit
+
+*([Pub. L. 110–140, title IX, § 917](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1730](https://www.govinfo.gov/link/statute/121/1730); [Pub. L. 113–296, § 12(a)](https://www.govinfo.gov/link/plaw/113/public/296) –(c)(1), Dec. 19, 2014, [128 Stat. 4078–4080](https://www.govinfo.gov/link/statute/128/4078).)*

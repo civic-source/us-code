@@ -3,9 +3,10 @@ title: "Section 1538 - Prohibited acts"
 usc_title: 16
 usc_section: "1538"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1538"
-generated_at: "2026-03-30T02:54:22.976Z"
+generated_at: "2026-11-23T21:25:51.896Z"
+status: "active"
 ---
 
 # § 1538. Prohibited acts
@@ -54,3 +55,31 @@ generated_at: "2026-03-30T02:54:22.976Z"
   - **(1)** It is unlawful for any person subject to the jurisdiction of the United States to import into or export from the United States any fish or wildlife (other than shellfish and fishery products which (A) are not listed pursuant to section 1533 of this title as endangered species or threatened species, and (B) are imported for purposes of human or animal consumption or taken in waters under the jurisdiction of the United States or on the high seas for recreational purposes) or plants, except at a port or ports designated by the Secretary of the Interior. For the purpose of facilitating enforcement of this chapter and reducing the costs thereof, the Secretary of the Interior, with approval of the Secretary of the Treasury and after notice and opportunity for public hearing, may, by regulation, designate ports and change such designations. The Secretary of the Interior, under such terms and conditions as he may prescribe, may permit the importation or exportation at nondesignated ports in the interest of the health or safety of the fish or wildlife or plants, or for other reasons, if, in his discretion, he deems it appropriate and consistent with the purpose of this subsection.
   - **(2)** Any port designated by the Secretary of the Interior under the authority of section 668cc–4(d) 1 1 See References in Text note below. of this title, shall, if such designation is in effect on December 27, 1973 , be deemed to be a port designated by the Secretary under paragraph (1) of this subsection until such time as the Secretary otherwise provides.
 - **(g)** It is unlawful for any person subject to the jurisdiction of the United States to attempt to commit, solicit another to commit, or cause to be committed, any offense defined in this section.
+
+Definitions
+
+Conservation and management
+
+Marine Fisheries Commission
+
+State jurisdiction
+
+Exemption
+
+Covered Fish or Wildlife
+
+Information Collection on Exports.—
+
+In general
+
+Privacy
+
+Exclusion
+
+Lawful Approaches
+
+Termination of Legal Effect of Certain Regulations
+
+## Source Credit
+
+*([Pub. L. 93–205, § 9](https://www.govinfo.gov/link/plaw/93/public/205), Dec. 28, 1973, [87 Stat. 893](https://www.govinfo.gov/link/statute/87/893); [Pub. L. 95–632, § 4](https://www.govinfo.gov/link/plaw/95/public/632), Nov. 10, 1978, [92 Stat. 3760](https://www.govinfo.gov/link/statute/92/3760); [Pub. L. 97–304, § 9(b)](https://www.govinfo.gov/link/plaw/97/public/304), Oct. 13, 1982, [96 Stat. 1426](https://www.govinfo.gov/link/statute/96/1426); [Pub. L. 100–478, title I, § 1006](https://www.govinfo.gov/link/plaw/100/public/478), title II, § 2301, Oct. 7, 1988, [102 Stat. 2308](https://www.govinfo.gov/link/statute/102/2308), 2321; [Pub. L. 100–653, title IX, § 905](https://www.govinfo.gov/link/plaw/100/public/653), Nov. 14, 1988, [102 Stat. 3835](https://www.govinfo.gov/link/statute/102/3835).)*

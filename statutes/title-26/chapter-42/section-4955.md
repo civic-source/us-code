@@ -3,9 +3,10 @@ title: "Section 4955 - Taxes on political expenditures of section 501(c)(3) orga
 usc_title: 26
 usc_section: "4955"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4955"
-generated_at: "2026-03-30T02:55:27.808Z"
+generated_at: "2026-11-23T21:26:06.652Z"
+status: "active"
 ---
 
 # § 4955. Taxes on political expenditures of section 501(c)(3) organizations
@@ -37,3 +38,11 @@ generated_at: "2026-03-30T02:55:27.808Z"
   - **(4)** The term “taxable period” means, with respect to any political expenditure, the period beginning with the date on which the political expenditure occurs and ending on the earlier of—
     - **(A)** the date of mailing a notice of deficiency under section 6212 with respect to the tax imposed by subsection (a)(1), or
     - **(B)** the date on which tax imposed by subsection (a)(1) is assessed.
+
+In general
+
+Binding contracts
+
+## Source Credit
+
+*(Added [Pub. L. 100–203, title X, § 10712(a)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–465](https://www.govinfo.gov/link/statute/101/1330); amended [Pub. L. 104–168, title XIII, § 1311(c)(1)](https://www.govinfo.gov/link/plaw/104/public/168), July 30, 1996, [110 Stat. 1478](https://www.govinfo.gov/link/statute/110/1478).)*

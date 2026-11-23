@@ -3,9 +3,10 @@ title: "Section 3 - Collection of paleontological resources"
 usc_title: 16
 usc_section: "3"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T02:54:22.855Z"
+generated_at: "2026-11-23T21:25:51.640Z"
+status: "active"
 ---
 
 # § 470aaa–3. Collection of paleontological resources
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:22.855Z"
     - **(B)** when there is a violation of term or condition of a permit issued pursuant to this section.
   - **(2)** The permit shall be revoked if any person working under the authority of the permit is convicted under section 470aaa–5 of this title or is assessed a civil penalty under section 470aaa–6 of this title .
 - **(e)** In order to protect paleontological or other resources or to provide for public safety, the Secretary may restrict access to or close areas under the Secretary’s jurisdiction to the collection of paleontological resources.
+
+## Source Credit
+
+*([Pub. L. 111–11, title VI, § 6304](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1173](https://www.govinfo.gov/link/statute/123/1173).)*

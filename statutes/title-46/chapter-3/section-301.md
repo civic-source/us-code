@@ -3,9 +3,10 @@ title: "Section 301 - Automatic execution of conforming changes"
 usc_title: 46
 usc_section: "301"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 301"
-generated_at: "2026-03-30T02:56:15.540Z"
+generated_at: "2026-11-23T21:26:37.024Z"
+status: "active"
 ---
 
 # § 301. Automatic execution of conforming changes
@@ -18,3 +19,13 @@ generated_at: "2026-03-30T02:56:15.540Z"
   - **(1)** this title;
   - **(2)** any Maritime Administration authorization Act that authorizes funds to be appropriated for a fiscal year to the Maritime Administration; and
   - **(3)** any other law designated in the text thereof as a covered maritime law for purposes of application of this section.
+
+In General
+
+Exceptions
+
+Covered Maritime Law Defined
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. G, § 7103(b)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1662](https://www.govinfo.gov/link/statute/139/1662).)*

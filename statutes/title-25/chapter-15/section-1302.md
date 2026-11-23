@@ -3,9 +3,10 @@ title: "Section 1302 - Constitutional rights"
 usc_title: 25
 usc_section: "1302"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1302"
-generated_at: "2026-03-30T02:54:52.815Z"
+generated_at: "2026-11-23T21:25:54.599Z"
+status: "active"
 ---
 
 # § 1302. Constitutional rights
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:54:52.815Z"
   - **(2)** to serve another alternative form of punishment, as determined by the tribal court judge pursuant to tribal law.
 - **(e)** In this section, the term “offense” means a violation of a criminal law.
 - **(f)** Nothing in this section affects the obligation of the United States, or any State government that has been delegated authority by the United States, to investigate and prosecute any criminal violation in Indian country.
+
+## Source Credit
+
+*([Pub. L. 90–284, title II, § 202](https://www.govinfo.gov/link/plaw/90/public/284), Apr. 11, 1968, [82 Stat. 77](https://www.govinfo.gov/link/statute/82/77); [Pub. L. 99–570, title IV, § 4217](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–146](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 111–211, title II, § 234(a)](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2279](https://www.govinfo.gov/link/statute/124/2279).)*

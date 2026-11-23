@@ -3,12 +3,17 @@ title: "Section 625 - Stockholders’ meetings; books and records; reports; exam
 usc_title: 12
 usc_section: "625"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 625"
-generated_at: "2026-03-30T02:53:53.384Z"
+generated_at: "2026-11-23T21:25:36.801Z"
+status: "active"
 ---
 
 # § 625. Stockholders’ meetings; books and records; reports; examination
 
 Every corporation organized under the provisions of this subchapter shall hold a meeting of its stockholders annually upon a date fixed in its bylaws, such meeting to be held at its home office in the United States. Every such corporation shall keep at its home office books containing the names of all stockholders thereof, and the names and addresses of the members of its board of directors, together with copies of all reports made by it to the Board of Governors of the Federal Reserve System. Every such corporation shall make reports to the Board of Governors of the Federal Reserve System at such times and in such form as it may require; and shall be subject to examination once a year and at such other times as may be deemed necessary by the Board of Governors of the Federal Reserve System by examiners appointed by the Board of Governors of the Federal Reserve System, the cost of such examinations, including the compensation of the examiners, to be fixed by the Board of Governors of the Federal Reserve System and to be paid by the Corporation examined.
 
+
+## Source Credit
+
+*(Dec. 23, 1913, ch. 6, § 25A (par.), formerly § 25(a), as added Dec. 24, 1919, ch. 18, [41 Stat. 378](https://www.govinfo.gov/link/statute/41/378); amended Aug. 23, 1935, ch. 614, title II, § 203(a), [49 Stat. 704](https://www.govinfo.gov/link/statute/49/704); renumbered § 25A, [Pub. L. 102–242, title I, § 142(e)(2)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2281](https://www.govinfo.gov/link/statute/105/2281).)*

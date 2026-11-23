@@ -3,9 +3,10 @@ title: "Section 1080 - Default of student under Federal loan insurance program"
 usc_title: 20
 usc_section: "1080"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1080"
-generated_at: "2026-03-30T02:54:48.117Z"
+generated_at: "2026-11-23T21:25:47.116Z"
+status: "active"
 ---
 
 # § 1080. Default of student under Federal loan insurance program
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:48.117Z"
   - **(1)** The Secretary shall annually publish a list indicating the cohort default rate (determined in accordance with section 1085(m) of this title ) for each originating lender, subsequent holder, and guaranty agency participating in the program assisted under this part and an average cohort default rate for all institutions of higher education within each State.
   - **(2)** The Secretary shall prescribe regulations designed to prevent an institution from evading the application to that institution of a cohort default rate through the use of such measures as branching, consolidation, change of ownership or control, or any similar device.
   - **(3)** The Secretary shall establish a cohort default rate for lenders, holders, and guaranty agencies (determined consistent with section 1085(m) of this title ), except that the rate for lenders, holders, and guaranty agencies shall not reflect any loans issued in accordance with section 1078(j) of this title . The Secretary shall allow institutions, lenders, holders, and guaranty agencies the opportunity to correct such cohort default rate information.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 430](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1397](https://www.govinfo.gov/link/statute/100/1397); amended [Pub. L. 102–325, title IV, § 423](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 543](https://www.govinfo.gov/link/statute/106/543); [Pub. L. 105–244, title IV, § 426](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1702](https://www.govinfo.gov/link/statute/112/1702).)*

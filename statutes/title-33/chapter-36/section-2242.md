@@ -3,9 +3,10 @@ title: "Section 2242 - Remote and subsistence harbors"
 usc_title: 33
 usc_section: "2242"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2242"
-generated_at: "2026-03-30T02:55:41.116Z"
+generated_at: "2026-11-23T21:26:11.429Z"
+status: "active"
 ---
 
 # § 2242. Remote and subsistence harbors
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:41.116Z"
   - **(1)** The Secretary may carry out any project identified in the study carried out pursuant to subsection (a) in accordance with the criteria for projects carried out under the authority of the Secretary under section 577 of this title .
   - **(2)** In evaluating and implementing a project under this section, the Secretary shall allow a non-Federal interest to participate in the financing of a project in accordance with the criteria established for flood control projects under section 903(c) of the Water Resources Development Act of 1986 ( Public Law 99–662 ; 100 Stat. 4184 ).
 - **(e)** For a project that cannot be carried out under the authority specified in subsection (d), on a determination by the Secretary of the feasibility of the project under subsection (a), the Secretary may include a recommendation concerning the project in the annual report submitted to Congress under section 2282d of this title .
+
+## Source Credit
+
+*([Pub. L. 110–114, title II, § 2006](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1073](https://www.govinfo.gov/link/statute/121/1073); [Pub. L. 113–121, title II, § 2104](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1279](https://www.govinfo.gov/link/statute/128/1279); [Pub. L. 114–322, title I, § 1105](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1633](https://www.govinfo.gov/link/statute/130/1633); [Pub. L. 118–272, div. A, title I, § 1147](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3038](https://www.govinfo.gov/link/statute/138/3038).)*

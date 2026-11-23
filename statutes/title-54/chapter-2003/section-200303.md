@@ -3,9 +3,10 @@ title: "Section 200303 - Availability of funds"
 usc_title: 54
 usc_section: "200303"
 chapter: 2003
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "54 U.S.C. § 200303"
-generated_at: "2026-03-30T02:56:28.421Z"
+generated_at: "2026-11-23T21:26:42.790Z"
+status: "active"
 ---
 
 # § 200303. Availability of funds
@@ -23,3 +24,58 @@ generated_at: "2026-03-30T02:56:28.421Z"
       - **(ii)** If Congress enacts legislation establishing alternate allocations for amounts made available under subsection (a) that are less than the full amount appropriated under that subsection, the difference between the amount appropriated and the alternate allocation shall be allocated by the President.
   - **(3)** Amounts expended from the Fund under this section shall be consistent with the requirements for recreational public access for hunting, fishing, recreational shooting, or other outdoor recreational purposes under section 200306(c).
   - **(4)** The President shall submit to Congress an annual report that describes the final allocation by account, program, and project of amounts made available under subsection (a), including a description of the status of obligations and expenditures.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 200303 | 16 U.S.C. 460 l –6. | Pub. L. 88–578, title I, § 3 , Sept. 3, 1964 , 78 Stat. 899 ; Pub. L. 100–203, title V, § 5201(f)(2) , Dec. 22, 1987 , 101 Stat. 1330–267 . |
+
+
+In General
+
+Additional Amounts
+
+Allocation Authority.—
+
+Submission of cost estimates
+
+Alternate allocation.—
+
+In general
+
+Allocation by president.—
+
+No alternate allocations
+
+Insufficient alternate allocation
+
+Recreational public access
+
+Annual report
+
+Historical and Revision Notes
+
+200303
+
+16 U.S.C. 460
+
+Pub. L. 88–578, title I, § 3
+
+Sept. 3, 1964
+
+78 Stat. 899
+
+Pub. L. 100–203, title V, § 5201(f)(2)
+
+Dec. 22, 1987
+
+101 Stat. 1330–267
+
+Section
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3172](https://www.govinfo.gov/link/statute/128/3172); [Pub. L. 116–152, § 3(a)](https://www.govinfo.gov/link/plaw/116/public/152), Aug. 4, 2020, [134 Stat. 686](https://www.govinfo.gov/link/statute/134/686).)*

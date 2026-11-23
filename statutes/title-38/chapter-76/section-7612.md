@@ -3,9 +3,10 @@ title: "Section 7612 - Eligibility; application; agreement"
 usc_title: 38
 usc_section: "7612"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7612"
-generated_at: "2026-03-30T02:55:53.534Z"
+generated_at: "2026-11-23T21:26:16.884Z"
+status: "active"
 ---
 
 # § 7612. Eligibility; application; agreement
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:55:53.534Z"
     - **(A)** the period of obligated service shall be reduced in accordance with the proportion that the number of credit hours carried by such participant in any such school year bears to the number of credit hours required to be carried by a full-time student in the course of training being pursued by the participant, but in no event to less than one year; and
     - **(B)** the agreement shall include the participant’s agreement to maintain employment, while enrolled in such course of education or training, as a Department employee permanently assigned to a Department health-care facility.
   - **(4)** If a participant’s period of obligated service is deferred under section 7616(b)(3)(A)(i) of this title , the agreement terms under paragraph (1) of this subsection shall provide for the participant to serve any additional period of obligated service that is prescribed by the Secretary under section 7616(b)(4)(B) of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 100–322, title II, § 216(b)](https://www.govinfo.gov/link/plaw/100/public/322), May 20, 1988, [102 Stat. 520](https://www.govinfo.gov/link/statute/102/520), § 4312; amended [Pub. L. 101–237, title II, § 207(a)](https://www.govinfo.gov/link/plaw/101/public/237), Dec. 18, 1989, [103 Stat. 2068](https://www.govinfo.gov/link/statute/103/2068); renumbered § 7612 and amended [Pub. L. 102–40, title IV](https://www.govinfo.gov/link/plaw/102/public/40), §§ 402(b)(1), (d)(1), 403(b)(4), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238), 239; [Pub. L. 102–83, § 4(a)(3)](https://www.govinfo.gov/link/plaw/102/public/83), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404](https://www.govinfo.gov/link/statute/105/404), 405; [Pub. L. 102–405, title II, § 202(a)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1983](https://www.govinfo.gov/link/statute/106/1983); [Pub. L. 103–446, title XII, § 1201(b)(1)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4682](https://www.govinfo.gov/link/statute/108/4682); [Pub. L. 111–163, title VI, § 603(b)](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1173](https://www.govinfo.gov/link/statute/124/1173); [Pub. L. 113–146, title III, § 301(c)](https://www.govinfo.gov/link/plaw/113/public/146), Aug. 7, 2014, [128 Stat. 1786](https://www.govinfo.gov/link/statute/128/1786); [Pub. L. 115–182, title III, § 301(a)](https://www.govinfo.gov/link/plaw/115/public/182), June 6, 2018, [132 Stat. 1462](https://www.govinfo.gov/link/statute/132/1462).)*

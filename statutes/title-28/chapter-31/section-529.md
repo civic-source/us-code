@@ -3,9 +3,10 @@ title: "Section 529 - Annual report of Attorney General"
 usc_title: 28
 usc_section: "529"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 529"
-generated_at: "2026-03-30T02:55:30.131Z"
+generated_at: "2026-11-23T21:26:01.051Z"
+status: "active"
 ---
 
 # § 529. Annual report of Attorney General
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:30.131Z"
     - **(A)** the appropriated funds were spent for such purpose or purposes, and only such purpose or purposes;
     - **(B)** the terms of the grant, cooperative agreement, or contract were complied with; and
     - **(C)** all documentation necessary for conducting a full and proper audit under generally accepted accounting principles, and any (additional) documentation that may have been required under the grant, cooperative agreement, or contract, have been kept in orderly fashion and will be preserved for not less than 3 years from the date of such close out, termination, or end;
+
+## Source Credit
+
+*(Added [Pub. L. 95–521, title VI, § 603(a)](https://www.govinfo.gov/link/plaw/95/public/521), Oct. 26, 1978, [92 Stat. 1874](https://www.govinfo.gov/link/statute/92/1874); amended [Pub. L. 107–273, div. A, title II, § 205(a)](https://www.govinfo.gov/link/plaw/107/public/273), div. B, title IV, § 4003(b)(3), Nov. 2, 2002, [116 Stat. 1777](https://www.govinfo.gov/link/statute/116/1777), 1811.)*

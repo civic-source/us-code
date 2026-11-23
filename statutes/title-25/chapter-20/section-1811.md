@@ -3,9 +3,10 @@ title: "Section 1811 - Grant adjustments"
 usc_title: 25
 usc_section: "1811"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1811"
-generated_at: "2026-03-30T02:54:52.829Z"
+generated_at: "2026-11-23T21:25:54.643Z"
+status: "active"
 ---
 
 # § 1811. Grant adjustments
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:52.829Z"
   - **(2)** If any additional funds become available for making payments under section 1807 of this title for any fiscal year to which subsection (a) or paragraph (1) of this subsection applies, such additional amounts shall be allocated by first increasing grants reduced under paragraph (1) of this subsection on the same basis as they were reduced and by then allocating the remainder in accordance with subsection (a). Sums appropriated in excess of the amount necessary to pay in full the total amounts for which applicants are eligible under section 1807 of this title shall be allocated by ratably increasing such total amounts.
   - **(3)** References in this subsection and subsection (a) to section 1807 of this title shall, with respect to fiscal year 1983, be deemed to refer to section 1806 of this title as in effect at the beginning of such fiscal year.
 - **(c)** In any fiscal year in which the amounts for which grant recipients are eligible to receive have been reduced under the first sentence of subsection (a) of this section, and in which additional funds have not been made available to pay in full the total of such amounts under the second sentence of such subsection, each grantee shall report to the Secretary any unused portion of received funds ninety days prior to the grant expiration date. The amounts so reported by any grant recipient shall be made available for reallocation to eligible grantees on a basis proportionate to the amount which is unfunded as a result of the ratable reduction, but no grant recipient shall receive, as a result of such reallocation, more than the amount provided for under section 1807(a) of this title .
+
+## Source Credit
+
+*([Pub. L. 95–471, title I, § 111](https://www.govinfo.gov/link/plaw/95/public/471), formerly § 110, Oct. 17, 1978, [92 Stat. 1328](https://www.govinfo.gov/link/statute/92/1328); renumbered § 111 and amended [Pub. L. 98–192](https://www.govinfo.gov/link/plaw/98/public/192), §§ 4(a)(1), (b)(3), 10, Dec. 1, 1983, [97 Stat. 1336](https://www.govinfo.gov/link/statute/97/1336), 1338; [Pub. L. 101–477, § 1(c)](https://www.govinfo.gov/link/plaw/101/public/477), Oct. 30, 1990, [104 Stat. 1152](https://www.govinfo.gov/link/statute/104/1152); [Pub. L. 105–244, title IX, § 901(b)(6)](https://www.govinfo.gov/link/plaw/105/public/244), (8), Oct. 7, 1998, [112 Stat. 1828](https://www.govinfo.gov/link/statute/112/1828).)*

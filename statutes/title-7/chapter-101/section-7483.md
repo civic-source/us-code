@@ -3,9 +3,10 @@ title: "Section 7483 - Issuance of orders"
 usc_title: 7
 usc_section: "7483"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7483"
-generated_at: "2026-03-30T02:53:42.454Z"
+generated_at: "2026-11-23T21:25:28.432Z"
+status: "active"
 ---
 
 # § 7483. Issuance of orders
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.454Z"
   - **(2)** Not later than 60 days after the receipt of a request and proposal for an order under paragraph (1), or at such time as the Secretary determines to propose an order, the Secretary shall publish a proposed order and give due notice and opportunity for public comment on the proposed order.
   - **(3)** After notice and opportunity for public comment under paragraph (2), the Secretary shall issue an order, taking into consideration the comments received and including in the order such provisions as are necessary to ensure that the order conforms to this subchapter. The order shall be issued and become effective not later than 150 days after the date of publication of the proposed order.
 - **(c)** The Secretary, as appropriate, may amend an order. The provisions of this subchapter applicable to an order shall be applicable to any amendment to an order, except that an amendment to an order may not require a referendum to become effective.
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 574](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1076](https://www.govinfo.gov/link/statute/110/1076).)*

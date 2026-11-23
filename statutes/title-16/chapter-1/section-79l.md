@@ -3,9 +3,10 @@ title: "Section 79l - Employment of personnel for rehabilitation, protection, an
 usc_title: 16
 usc_section: "79l"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 79l"
-generated_at: "2026-03-30T02:54:22.731Z"
+generated_at: "2026-11-23T21:25:51.373Z"
+status: "active"
 ---
 
 # § 79l. Employment of personnel for rehabilitation, protection, and improvements of additional lands
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:22.731Z"
     - **(B)** appoint, from among nominees proposed by certified or recognized unions representing employees, a person or persons who shall serve as the Secretary’s liaison with employees and their union and as consultant to the Secretary with regard to the administration of those provisions of this Act for which the Secretary is responsible.
 - **(h)** An employee, a group of employees, a certified or recognized union, or an authorized representative of such employee or group, aggrieved by any determination by the Secretary under this Act shall be entitled to judicial review of such determination in the same manner and under the same conditions as provided by section 2395 of title 19 , except that such review shall be in the appropriate court of appeals of the United States, and the judgment of such court shall be subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28 .
 - **(i)** Nothing in this section shall be construed to affect any additional or alternative rights under a law, regulation, or contract (including, but not limited to, veteran preference and contracts between private employers and unions) in effect as of March 27, 1978 , and the implementation of this section shall be carried out in accord with applicable civil service laws and regulations except as otherwise provided for in this section. Employees appointed to Federal jobs pursuant to this section shall have their compensation fixed at rates not to exceed that now or hereafter prescribed for the highest rate of grade 15 of the General Schedule under section 5332 of title 5 .
+
+## Source Credit
+
+*([Pub. L. 95–250, title I, § 103](https://www.govinfo.gov/link/plaw/95/public/250), Mar. 27, 1978, [92 Stat. 167](https://www.govinfo.gov/link/statute/92/167); [Pub. L. 96–417, title VI, § 602](https://www.govinfo.gov/link/plaw/96/public/417), Oct. 10, 1980, [94 Stat. 1744](https://www.govinfo.gov/link/statute/94/1744); [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(b)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–417.)*

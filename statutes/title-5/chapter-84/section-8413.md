@@ -3,9 +3,10 @@ title: "Section 8413 - Deferred retirement"
 usc_title: 5
 usc_section: "8413"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8413"
-generated_at: "2026-03-30T02:52:56.054Z"
+generated_at: "2026-11-23T21:25:23.413Z"
+status: "active"
 ---
 
 # § 8413. Deferred retirement
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:52:56.054Z"
     - **(A)** it is made at such time and in such manner as the Office shall by regulation prescribe; and
     - **(B)** the employee or Member will not otherwise be eligible to receive an annuity within 31 days after filing the election.
   - **(3)** The election of an annuity under this subsection extinguishes the right of the employee or Member to receive any other annuity based on the service on which the annuity under this subsection is based.
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 525](https://www.govinfo.gov/link/statute/100/525); amended [Pub. L. 99–556, title I, § 105(b)(1)](https://www.govinfo.gov/link/plaw/99/public/556), Oct. 27, 1986, [100 Stat. 3132](https://www.govinfo.gov/link/statute/100/3132).)*

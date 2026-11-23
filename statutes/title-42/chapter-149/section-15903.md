@@ -3,9 +3,10 @@ title: "Section 15903 - Marginal property production incentives"
 usc_title: 42
 usc_section: "15903"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15903"
-generated_at: "2026-03-30T02:56:11.462Z"
+generated_at: "2026-11-23T21:26:33.680Z"
+status: "active"
 ---
 
 # § 15903. Marginal property production incentives
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:56:11.462Z"
     - **(G)** national energy security issues; and
     - **(H)** other relevant matters, as determined by the Secretary.
 - **(f)** Nothing in this section prevents a lessee from receiving royalty relief or a royalty reduction pursuant to any other law (including a regulation) that provides more relief than the amounts provided by this section.
+
+## Source Credit
+
+*([Pub. L. 109–58, title III, § 343](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 700](https://www.govinfo.gov/link/statute/119/700).)*

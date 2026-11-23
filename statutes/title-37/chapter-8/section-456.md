@@ -3,9 +3,10 @@ title: "Section 456 - Managed travel program refunds"
 usc_title: 37
 usc_section: "456"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 456"
-generated_at: "2026-03-30T02:55:44.059Z"
+generated_at: "2026-11-23T21:26:14.245Z"
+status: "active"
 ---
 
 # § 456. Managed travel program refunds
@@ -15,3 +16,17 @@ generated_at: "2026-03-30T02:55:44.059Z"
 - **(c)** In this section:
   - **(1)** The term “managed travel program” includes air, rental car, train, bus, dining, lodging, and travel management, but does not include rebates or refunds attributable to the use of the Government travel card, the Government Purchase Card, or Government travel arranged by Government Contracted Travel Management Centers.
   - **(2)** The term “refund” includes miscellaneous receipts credited to the Department identified as a refund, rebate, repayment, or other similar amounts collected.
+
+Credit of Refunds
+
+Use of Refunds
+
+Definitions
+
+Managed travel program
+
+Refund
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. A, title VI, § 606(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1424](https://www.govinfo.gov/link/statute/133/1424).)*

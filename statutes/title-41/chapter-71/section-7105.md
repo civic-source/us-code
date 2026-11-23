@@ -3,9 +3,10 @@ title: "Section 7105 - Agency boards"
 usc_title: 41
 usc_section: "7105"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 7105"
-generated_at: "2026-03-30T02:55:55.811Z"
+generated_at: "2026-11-23T21:26:18.833Z"
+status: "active"
 ---
 
 # § 7105. Agency boards
@@ -46,3 +47,177 @@ generated_at: "2026-03-30T02:55:55.811Z"
   - **(1)** to the fullest extent practicable provide informal, expeditious, and inexpensive resolution of disputes;
   - **(2)** issue a decision in writing or take other appropriate action on each appeal submitted; and
   - **(3)** mail or otherwise furnish a copy of the decision to the contractor and the contracting officer.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 7105(a) | 41:607(a)(1), (b)(1). | Pub. L. 95–563, § 8(a)(1) , (b)(1), Nov. 1, 1978 , 92 Stat. 2385 ; Pub. L. 101–509, title V, § 529 [title I, § 104(d)(4)] , Nov. 5, 1990 , 104 Stat. 1447 ; Pub. L. 109–163, div. A, title VIII, § 847(d)(3) , Jan. 6, 2006 , 119 Stat. 3394 . |
+| 7105(b) | 41:438. | Pub. L. 93–400, § 42 , as added Pub. L. 109–163, div. A, title VIII, § 847(a) , Jan. 6, 2006 , 119 Stat. 3391 . |
+| 7105(c) | 41:607(a)(2), (b)(2). | Pub. L. 95–563, § 8(a)(2) , (b)(2), Nov. 1, 1978 , 92 Stat. 2385 , 2386. |
+| 7105(d) | 41:607(c) (1st, 3d, last sentences). | Pub. L. 95–563, § 8(c) , Nov. 1, 1978 , 92 Stat. 2386 ; Pub. L. 109–163, div. A, title VIII, § 847(d)(2)(B) , Jan. 6, 2006 , 119 Stat. 3394 . |
+| 7105(e)(1) (A), (B) | 41:607(d) (1st, 2d sentences). | Pub. L. 95–563, § 8(d) , Nov. 1, 1978 , 92 Stat. 2386 ; Pub. L. 97–164, title I, § 160(a)(15) , Apr. 2, 1982 , 96 Stat. 48 ; Pub. L. 109–163, div. A, title VIII, § 847(d)(2)(A) , Jan. 6, 2006 , 119 Stat. 3393 . |
+| 7105(e)(1)(C) | 41:607(c) (2d sentence). |  |
+| 7105(e)(1)(D) | 41:607(d) (3d sentence). |  |
+| 7105(e)(2) | 41:607(d) (last sentence). |  |
+| 7105(f) | 41:610. | Pub. L. 95–563, § 11 , Nov. 1, 1978 , 92 Stat. 2388 . |
+| 7105(g) | 41:607(e). | Pub. L. 95–563, § 8(e) , Nov. 1, 1978 , 92 Stat. 2386 . |
+
+
+Armed Services Board.—
+
+Establishment
+
+Appointment of members and compensation
+
+Civilian Board.—
+
+Establishment
+
+Membership.—
+
+Eligibility
+
+Appointment of members and compensation
+
+Removal
+
+Functions.—
+
+In general
+
+Additional jurisdiction
+
+Tennessee Valley Authority Board.—
+
+Establishment
+
+Appointment of members and compensation
+
+Postal Service Board.—
+
+Establishment
+
+Appointment and service of members
+
+Application
+
+Jurisdiction.—
+
+In general.—
+
+Armed services board
+
+Civilian board
+
+Postal service board
+
+Other agency boards
+
+Administrative False Claims Act.—
+
+In general
+
+Declining referral
+
+Relief
+
+Subpoena, Discovery, and Deposition
+
+Decisions
+
+Historical and Revision Notes
+
+7105(a)
+
+Pub. L. 95–563, § 8(a)(1)
+
+Nov. 1, 1978
+
+92 Stat. 2385
+
+Pub. L. 101–509, title V, § 529 [title I, § 104(d)(4)]
+
+Nov. 5, 1990
+
+104 Stat. 1447
+
+Pub. L. 109–163, div. A, title VIII, § 847(d)(3)
+
+Jan. 6, 2006
+
+119 Stat. 3394
+
+7105(b)
+
+Pub. L. 93–400, § 42
+
+Pub. L. 109–163, div. A, title VIII, § 847(a)
+
+Jan. 6, 2006
+
+119 Stat. 3391
+
+7105(c)
+
+Pub. L. 95–563, § 8(a)(2)
+
+Nov. 1, 1978
+
+92 Stat. 2385
+
+7105(d)
+
+Pub. L. 95–563, § 8(c)
+
+Nov. 1, 1978
+
+92 Stat. 2386
+
+Pub. L. 109–163, div. A, title VIII, § 847(d)(2)(B)
+
+Jan. 6, 2006
+
+119 Stat. 3394
+
+Pub. L. 95–563, § 8(d)
+
+Nov. 1, 1978
+
+92 Stat. 2386
+
+Pub. L. 97–164, title I, § 160(a)(15)
+
+Apr. 2, 1982
+
+96 Stat. 48
+
+Pub. L. 109–163, div. A, title VIII, § 847(d)(2)(A)
+
+Jan. 6, 2006
+
+119 Stat. 3393
+
+7105(e)(1)(C)
+
+7105(e)(1)(D)
+
+7105(e)(2)
+
+7105(f)
+
+Pub. L. 95–563, § 11
+
+Nov. 1, 1978
+
+92 Stat. 2388
+
+7105(g)
+
+Pub. L. 95–563, § 8(e)
+
+Nov. 1, 1978
+
+92 Stat. 2386
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3820](https://www.govinfo.gov/link/statute/124/3820); [Pub. L. 111–259, title IV, § 422](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2727](https://www.govinfo.gov/link/statute/124/2727); [Pub. L. 111–383, div. A, title X, § 1075](https://www.govinfo.gov/link/plaw/111/public/383) (o), Jan. 7, 2011, [124 Stat. 4378](https://www.govinfo.gov/link/statute/124/4378); [Pub. L. 118–159, div. E, title LII, § 5203(g)(2)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2442](https://www.govinfo.gov/link/statute/138/2442).)*

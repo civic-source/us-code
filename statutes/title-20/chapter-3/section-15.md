@@ -3,9 +3,10 @@ title: "Section 15 - Authorization of appropriations"
 usc_title: 20
 usc_section: "15"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 15"
-generated_at: "2026-03-30T02:54:48.077Z"
+generated_at: "2026-11-23T21:25:46.937Z"
+status: "active"
 ---
 
 # § 80q–15. Authorization of appropriations
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:48.077Z"
   - **(1)** $10,000,000 for fiscal year 1990; and
   - **(2)** such sums as may be necessary for each succeeding fiscal year.
 - **(b)** Funds appropriated under subsection (a) shall remain available without fiscal year limitation for any period prior to the availability of the facilities to be constructed under section 80q–5 of this title for administrative and planning expenses and for the care and custody of the collections of the National Museum.
+
+## Source Credit
+
+*([Pub. L. 101–185, § 17](https://www.govinfo.gov/link/plaw/101/public/185), Nov. 28, 1989, [103 Stat. 1347](https://www.govinfo.gov/link/statute/103/1347).)*

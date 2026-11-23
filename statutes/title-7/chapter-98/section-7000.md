@@ -3,9 +3,10 @@ title: "Section 7000 - Implementation of final determinations of Division"
 usc_title: 7
 usc_section: "7000"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7000"
-generated_at: "2026-03-30T02:53:42.442Z"
+generated_at: "2026-11-23T21:25:28.410Z"
+status: "active"
 ---
 
 # § 7000. Implementation of final determinations of Division
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.442Z"
       - **(i)** the reason that the final determination has not been implemented; and
       - **(ii)** the projected date of implementation of the final determination.
   - **(2)** Each month, the head of each agency shall publish on the website of the Department any updates to the reports submitted under paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 103–354, title II, § 280](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3233](https://www.govinfo.gov/link/statute/108/3233); [Pub. L. 110–234, title XIV, § 14009](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1446](https://www.govinfo.gov/link/statute/122/1446); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14009, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2208.)*

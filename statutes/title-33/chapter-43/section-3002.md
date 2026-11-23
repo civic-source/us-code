@@ -3,9 +3,10 @@ title: "Section 3002 - Definitions"
 usc_title: 33
 usc_section: "3002"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3002"
-generated_at: "2026-03-30T02:55:41.136Z"
+generated_at: "2026-11-23T21:26:11.474Z"
+status: "active"
 ---
 
 # § 3002. Definitions
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:41.136Z"
   - **(6)** The term “Secretary” means the Secretary of Commerce.
   - **(7)** The term “Administration” means the National Oceanic and Atmospheric Administration.
   - **(8)** The term “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere.
+
+## Source Credit
+
+*([Pub. L. 107–372, title II, § 212](https://www.govinfo.gov/link/plaw/107/public/372), Dec. 19, 2002, [116 Stat. 3082](https://www.govinfo.gov/link/statute/116/3082); [Pub. L. 116–259, title III, § 305(c)](https://www.govinfo.gov/link/plaw/116/public/259), Dec. 23, 2020, [134 Stat. 1173](https://www.govinfo.gov/link/statute/134/1173); [Pub. L. 117–263, div. K, title CXVII, § 11701](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4156](https://www.govinfo.gov/link/statute/136/4156).)*

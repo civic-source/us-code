@@ -3,9 +3,10 @@ title: "Section 8433 - Benefits and election of benefits"
 usc_title: 5
 usc_section: "8433"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8433"
-generated_at: "2026-03-30T02:52:56.058Z"
+generated_at: "2026-11-23T21:25:23.423Z"
+status: "active"
 ---
 
 # § 8433. Benefits and election of benefits
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:52:56.058Z"
   - **(2)** A withdrawal under paragraph (1)(B) shall be available only for an amount not exceeding the value of that portion of such account which is attributable to contributions made by the employee or Member.
   - **(3)** Withdrawals under paragraph (1) shall be subject to such other limitations or conditions as the Executive Director may prescribe by regulation.
   - **(4)** A withdrawal may not be made under this subsection unless the requirements of section 8435(e) of this title are satisfied.
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 544](https://www.govinfo.gov/link/statute/100/544); amended [Pub. L. 100–238, title I, § 132](https://www.govinfo.gov/link/plaw/100/public/238), Jan. 8, 1988, [101 Stat. 1760](https://www.govinfo.gov/link/statute/101/1760); [Pub. L. 101–335](https://www.govinfo.gov/link/plaw/101/public/335), §§ 5(a), 6(a)(2), July 17, 1990, [104 Stat. 321](https://www.govinfo.gov/link/statute/104/321), 322; [Pub. L. 102–484, div. D, title XLIV, § 4437(a)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2724](https://www.govinfo.gov/link/statute/106/2724); [Pub. L. 103–226, § 9(b)](https://www.govinfo.gov/link/plaw/103/public/226), (i)(3)–(7), Mar. 30, 1994, [108 Stat. 119](https://www.govinfo.gov/link/statute/108/119), 121, 122; [Pub. L. 103–353](https://www.govinfo.gov/link/plaw/103/public/353), §§ 4(b), 5(e)(4), Oct. 13, 1994, [108 Stat. 3172](https://www.govinfo.gov/link/statute/108/3172), 3174; [Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title II, § 203(a)]](https://www.govinfo.gov/link/plaw/104/public/208) ], Sept. 30, 1996, [110 Stat. 3009–314](https://www.govinfo.gov/link/statute/110/3009), 3009–372, 3009–374; [Pub. L. 106–65, div. A, title VI, § 661(a)(4)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 672](https://www.govinfo.gov/link/statute/113/672); [Pub. L. 108–469, § 3(1)](https://www.govinfo.gov/link/plaw/108/public/469), Dec. 21, 2004, [118 Stat. 3893](https://www.govinfo.gov/link/statute/118/3893); [Pub. L. 111–31, div. B, title I, § 109](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1856](https://www.govinfo.gov/link/statute/123/1856); [Pub. L. 115–84, § 2(a)](https://www.govinfo.gov/link/plaw/115/public/84) –(d), Nov. 17, 2017, [131 Stat. 1272](https://www.govinfo.gov/link/statute/131/1272), 1273.)*

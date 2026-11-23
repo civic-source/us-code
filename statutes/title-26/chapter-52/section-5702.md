@@ -3,9 +3,10 @@ title: "Section 5702 - Definitions"
 usc_title: 26
 usc_section: "5702"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5702"
-generated_at: "2026-03-30T02:55:27.825Z"
+generated_at: "2026-11-23T21:26:06.738Z"
+status: "active"
 ---
 
 # § 5702. Definitions
@@ -42,3 +43,7 @@ When used in this chapter—
 - **(p)**
   - **(1)** The term “manufacturer of processed tobacco” means any person who processes any tobacco other than tobacco products.
   - **(2)** The processing of tobacco shall not include the farming or growing of tobacco or the handling of tobacco solely for sale, shipment, or delivery to a manufacturer of tobacco products or processed tobacco.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 706; [Pub. L. 85–859, title II, § 202](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1415](https://www.govinfo.gov/link/statute/72/1415); [Pub. L. 89–44, title V, § 502(b)(3)](https://www.govinfo.gov/link/plaw/89/public/44), title VIII, § 808(a), June 21, 1965, [79 Stat. 151](https://www.govinfo.gov/link/statute/79/151), 164; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), title XXI, § 2128(b), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834), 1921; [Pub. L. 99–272, title XIII, § 13202(b)(2)](https://www.govinfo.gov/link/plaw/99/public/272) –(4), Apr. 7, 1986, [100 Stat. 312](https://www.govinfo.gov/link/statute/100/312); [Pub. L. 100–647, title V, § 5061(b)](https://www.govinfo.gov/link/plaw/100/public/647) –(c)(2), Nov. 10, 1988, [102 Stat. 3679](https://www.govinfo.gov/link/statute/102/3679); [Pub. L. 101–508, title XI, § 11202(g)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–419](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 105–33, title IX, § 9302(g)(2)](https://www.govinfo.gov/link/plaw/105/public/33) –(3)(B), (h)(4), Aug. 5, 1997, [111 Stat. 672](https://www.govinfo.gov/link/statute/111/672), 674; [Pub. L. 106–554, § 1(a)(7) [title III, § 315(a)(2)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–644; [Pub. L. 111–3, title VII, § 702(a)(4)](https://www.govinfo.gov/link/plaw/111/public/3), (5), (d)(1), Feb. 4, 2009, [123 Stat. 108](https://www.govinfo.gov/link/statute/123/108), 110; [Pub. L. 112–141, div. F, title I, § 100122(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 914](https://www.govinfo.gov/link/statute/126/914).)*

@@ -3,9 +3,10 @@ title: "Section 6864d - Financial assistance for WAP enhancement and innovation"
 usc_title: 42
 usc_section: "6864d"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6864d"
-generated_at: "2026-03-30T02:56:11.267Z"
+generated_at: "2026-11-23T21:26:32.986Z"
+status: "active"
 ---
 
 # § 6864d. Financial assistance for WAP enhancement and innovation
@@ -78,3 +79,7 @@ generated_at: "2026-03-30T02:56:11.267Z"
     - **(B)** For each of fiscal years 2021 through 2025, if the amount made available under section 6872 of this title (not including any of such amount made available for Department of Energy headquarters training or technical assistance) for such fiscal year is less than $225,000,000, no funds shall be made available to carry out this section.
   - **(2)** For any fiscal year, the Secretary may not use more than $25,000,000 of the amount made available under section 6872 of this title to carry out this section.
 - **(k)** The Secretary may not award financial assistance under this section after September 30, 2025 .
+
+## Source Credit
+
+*([Pub. L. 94–385, title IV, § 414D](https://www.govinfo.gov/link/plaw/94/public/385), as added [Pub. L. 116–260, div. Z, title I, § 1011(e)(1)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2443](https://www.govinfo.gov/link/statute/134/2443).)*

@@ -3,9 +3,10 @@ title: "Section 3175c - Program of food, nutrition, and consumer education by St
 usc_title: 7
 usc_section: "3175c"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3175c"
-generated_at: "2026-03-30T02:53:42.397Z"
+generated_at: "2026-11-23T21:25:28.321Z"
+status: "active"
 ---
 
 # § 3175c. Program of food, nutrition, and consumer education by State cooperative extension services
@@ -15,3 +16,7 @@ The cooperative extension services of the States shall, with funds made availabl
   - **(1)** provide effective and meaningful food, nutrition, and consumer education services to as many low-income individuals as possible;
   - **(2)** employ educational methodologies, including innovative approaches, that accomplish the purpose set forth in section 3175b of this title ; and
   - **(3)** to the extent practicable, coordinate activities carried out under the program with the delivery to low-income individuals of benefits under food assistance programs.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XV, § 1586](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1596](https://www.govinfo.gov/link/statute/99/1596).)*

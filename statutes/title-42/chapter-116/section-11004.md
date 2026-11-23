@@ -3,9 +3,10 @@ title: "Section 11004 - Emergency notification"
 usc_title: 42
 usc_section: "11004"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11004"
-generated_at: "2026-03-30T02:56:11.393Z"
+generated_at: "2026-11-23T21:26:33.392Z"
+status: "active"
 ---
 
 # § 11004. Emergency notification
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:56:11.393Z"
   - **(3)** In this subsection:
     - **(A)** The term “community water system” has the meaning given such term in section 1401(15) of the Safe Drinking Water Act [ 42 U.S.C. 300f(15) ].
     - **(B)** The term “applicable State agency” means the State agency that has primary responsibility to enforce the requirements of the Safe Drinking Water Act in the State.
+
+## Source Credit
+
+*([Pub. L. 99–499, title III, § 304](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1733](https://www.govinfo.gov/link/statute/100/1733); [Pub. L. 115–270, title II, § 2018(a)](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3857](https://www.govinfo.gov/link/statute/132/3857).)*

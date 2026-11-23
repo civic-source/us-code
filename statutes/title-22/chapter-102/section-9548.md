@@ -3,9 +3,10 @@ title: "Section 9548 - Appropriate congressional committees defined"
 usc_title: 22
 usc_section: "9548"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9548"
-generated_at: "2026-03-30T02:55:05.468Z"
+generated_at: "2026-11-23T21:25:58.778Z"
+status: "active"
 ---
 
 # § 9548. Appropriate congressional committees defined
@@ -14,3 +15,7 @@ Except as otherwise provided, in this subchapter, the term “appropriate congre
 
   - **(1)** the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, the Committee on Appropriations, and the Select Committee on Intelligence of the Senate; and
   - **(2)** the Committee on Foreign Affairs, the Committee on Financial Services, the Committee on Armed Services, the Committee on Homeland Security, the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 115–44, title II, § 259](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 934](https://www.govinfo.gov/link/statute/131/934).)*

@@ -3,9 +3,10 @@ title: "Section 231n - Railroad Retirement Account"
 usc_title: 45
 usc_section: "231n"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 231n"
-generated_at: "2026-03-30T02:55:56.547Z"
+generated_at: "2026-11-23T21:26:19.199Z"
+status: "active"
 ---
 
 # § 231n. Railroad Retirement Account
@@ -90,3 +91,49 @@ generated_at: "2026-03-30T02:55:56.547Z"
   - **(7)** Five members of the Board of Trustees constitute a quorum to do business. Investment guidelines must be adopted by a unanimous vote of the Trustees then holding office. All other decisions of the Board of Trustees shall be decided by a majority vote of the quorum present. All decisions of the Board of Trustees shall be entered upon the records of the Board of Trustees.
 - **(k)** The Board shall, upon establishment of the National Railroad Retirement Investment Trust and from time to time thereafter, direct the Secretary of the Treasury to transfer, in such manner as will maximize the investment returns to the Railroad Retirement system, that portion of the Railroad Retirement Account that is not needed to pay current administrative expenses of the Board to the National Railroad Retirement Investment Trust. The Secretary shall make that transfer.
 - **(l)** The National Railroad Retirement Investment Trust shall from time to time transfer to the disbursing agent described in section 231f(b)(4) of this title or as otherwise directed by the Railroad Retirement Board pursuant to section 231f(b)(4) of this title , such amounts as may be necessary to pay benefits under this subchapter (other than benefits paid from the Social Security Equivalent Benefit Account or the Dual Benefit Payments Account).
+
+In general
+
+Account in existence until transfer made
+
+Determination
+
+Transfer by the secretary of the treasury
+
+In general.—
+
+Transfers to railroad retirement account
+
+Revenue increases attributable to windfall benefits received after september 30, 1988 , transferred to dual benefits payments account
+
+Windfall benefits defined
+
+Transfers
+
+Revenue increases from tax on supplemental annuities not included
+
+Transfer to Railroad Retirement Account.—
+
+In general
+
+Taxes credited against loans to railroad unemployment insurance account.—
+
+Taxes attributable to basic rate to reduce railroad unemployment loans made before october 1, 1985
+
+Taxes attributable to surtax rate to reduce railroad unemployment loans made after september 30, 1985
+
+Transfers Made Monthly
+
+Transfers to Railroad Unemployment Fund After Loans Repaid
+
+Definitions
+
+Additional railroad unemployment taxes
+
+Railroad unemployment account
+
+Railroad unemployment loans
+
+## Source Credit
+
+*(Aug. 29, 1935, ch. 812, § 15, as restated June 24, 1937, ch. 382, pt. I, [50 Stat. 307](https://www.govinfo.gov/link/statute/50/307), as restated [Pub. L. 93–445, title I, § 101](https://www.govinfo.gov/link/plaw/93/public/445), Oct. 16, 1974, [88 Stat. 1346](https://www.govinfo.gov/link/statute/88/1346); amended [Pub. L. 94–92, title II, § 201(a)](https://www.govinfo.gov/link/plaw/94/public/92) –(d), Aug. 9, 1975, [89 Stat. 464](https://www.govinfo.gov/link/statute/89/464), 465; [Pub. L. 94–547, § 3(a)](https://www.govinfo.gov/link/plaw/94/public/547), Oct. 18, 1976, [90 Stat. 2525](https://www.govinfo.gov/link/statute/90/2525); [Pub. L. 97–34, title VII, § 742](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 348](https://www.govinfo.gov/link/statute/95/348); [Pub. L. 97–35, title XI](https://www.govinfo.gov/link/plaw/97/public/35), §§ 1124, 1127(a), Aug. 13, 1981, [95 Stat. 639](https://www.govinfo.gov/link/statute/95/639), 641; [Pub. L. 98–76, title III, § 301(b)](https://www.govinfo.gov/link/plaw/98/public/76), title IV, §§ 401(a), 417(a), Aug. 12, 1983, [97 Stat. 431](https://www.govinfo.gov/link/statute/97/431), 433, 437; [Pub. L. 107–90, title I](https://www.govinfo.gov/link/plaw/107/public/90), §§ 105(a), (b), 106(b), (c), 107(a), (b), (d), Dec. 21, 2001, [115 Stat. 882](https://www.govinfo.gov/link/statute/115/882), 886–889; [Pub. L. 108–203, title IV, § 426(a)](https://www.govinfo.gov/link/plaw/108/public/203) –(d), (f), Mar. 2, 2004, [118 Stat. 537](https://www.govinfo.gov/link/statute/118/537), 538.)*

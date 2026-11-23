@@ -3,9 +3,10 @@ title: "Section 2269 - Tribal partnership program"
 usc_title: 33
 usc_section: "2269"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2269"
-generated_at: "2026-03-30T02:55:41.117Z"
+generated_at: "2026-11-23T21:26:11.432Z"
+status: "active"
 ---
 
 # § 2269. Tribal partnership program
@@ -75,3 +76,51 @@ generated_at: "2026-03-30T02:55:41.117Z"
     - **(A)** a project for the removal of a dam that otherwise is a project described in paragraph (2);
     - **(B)** the study of the removal of a dam; or
     - **(C)** the study of any Federal dam, including the study of power, flood control, or navigation replacement, or the implementation of any functional alteration to that dam, that is located along a body of water described in paragraph (2).
+
+In general
+
+Specific authorization
+
+Definitions
+
+Eligible project
+
+Indian tribe
+
+Authorization
+
+Purposes
+
+Administration.—
+
+In general
+
+Detailed project schedule
+
+Technical assistance
+
+Cost Share
+
+Implementation Guidance.—
+
+In general
+
+New project partnership agreements
+
+Report.—
+
+In general
+
+Update
+
+Failure to meet deadline
+
+Administration
+
+Termination of Authority
+
+Authorization of Appropriations
+
+## Source Credit
+
+*([Pub. L. 106–541, title II, § 203](https://www.govinfo.gov/link/plaw/106/public/541), Dec. 11, 2000, [114 Stat. 2588](https://www.govinfo.gov/link/statute/114/2588); [Pub. L. 110–114, title II, § 2011](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1074](https://www.govinfo.gov/link/statute/121/1074); [Pub. L. 113–121, title I, § 1031(a)](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1232](https://www.govinfo.gov/link/statute/128/1232); [Pub. L. 114–322, title I, § 1121](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1644](https://www.govinfo.gov/link/statute/130/1644); [Pub. L. 115–270, title I, § 1157(i)](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3794](https://www.govinfo.gov/link/statute/132/3794); [Pub. L. 116–260, div. AA, title III, § 303](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2703](https://www.govinfo.gov/link/statute/134/2703); [Pub. L. 117–263, div. H, title LXXXI, § 8111](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3703](https://www.govinfo.gov/link/statute/136/3703); [Pub. L. 118–272, div. A, title I, § 1140](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3028](https://www.govinfo.gov/link/statute/138/3028).)*

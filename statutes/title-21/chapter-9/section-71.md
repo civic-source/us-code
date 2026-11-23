@@ -3,9 +3,10 @@ title: "Section 71 - Definitions"
 usc_title: 21
 usc_section: "71"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 71"
-generated_at: "2026-03-30T02:54:54.274Z"
+generated_at: "2026-11-23T21:25:56.162Z"
+status: "active"
 ---
 
 # § 379j–71. Definitions
@@ -69,3 +70,7 @@ In this subpart:
   - **(11)** The term “OTC monograph drug meeting” means any meeting regarding the content of a proposed OTC monograph order request.
   - **(12)** The term “person” includes an affiliate of a person.
   - **(13)** The terms “requestor” and “sponsor” have the meanings given such terms in section 355h of this title .
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 744L, as added [Pub. L. 116–136, div. A, title III, § 3862](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 459](https://www.govinfo.gov/link/statute/134/459); amended [Pub. L. 119–37, div. F, title V, § 6503](https://www.govinfo.gov/link/plaw/119/public/37), Nov. 12, 2025, [139 Stat. 637](https://www.govinfo.gov/link/statute/139/637).)*

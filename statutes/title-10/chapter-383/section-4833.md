@@ -3,9 +3,10 @@ title: "Section 4833 - Federal Defense Laboratory Diversification Program"
 usc_title: 10
 usc_section: "4833"
 chapter: 383
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4833"
-generated_at: "2026-03-30T02:53:38.212Z"
+generated_at: "2026-11-23T21:25:32.792Z"
+status: "active"
 ---
 
 # § 4833. Federal Defense Laboratory Diversification Program
@@ -23,3 +24,21 @@ generated_at: "2026-03-30T02:53:38.212Z"
 - **(e)** Competitive procedures shall be used in the establishment of partnerships.
 - **(f)** The criteria for the selection of a proposed partnership for establishment under this section shall include the criteria set forth in section 4831(e) of this title .
 - **(g)** The Secretary shall prescribe regulations for the purposes of this section.
+
+Establishment of Program
+
+Partnerships
+
+Assistance Authorized
+
+Financial Commitment of Non-Federal Government Participants
+
+Selection Process
+
+Selection Criteria
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XI, § 1113(a)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2864](https://www.govinfo.gov/link/statute/108/2864), § 2519; amended [Pub. L. 104–106, div. A, title X, § 1081(d)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 454](https://www.govinfo.gov/link/statute/110/454); renumbered § 4833 and amended [Pub. L. 116–283, div. A, title XVIII, § 1868(b)](https://www.govinfo.gov/link/plaw/116/public/283), (c)(3), Jan. 1, 2021, [134 Stat. 4282](https://www.govinfo.gov/link/statute/134/4282), 4283; [Pub. L. 117–263, div. A, title X, § 1081(a)(7)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2797](https://www.govinfo.gov/link/statute/136/2797).)*

@@ -3,9 +3,10 @@ title: "Section 1231c - Advice, counsel, and technical assistance"
 usc_title: 20
 usc_section: "1231c"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1231c"
-generated_at: "2026-03-30T02:54:48.157Z"
+generated_at: "2026-11-23T21:25:47.299Z"
+status: "active"
 ---
 
 # § 1231c. Advice, counsel, and technical assistance
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:48.157Z"
   - **(2)** permit applicants to include provision for reasonable consultation fees or planning costs; and
   - **(3)** insure that grants to public agencies and nonprofit private organizations and contracts with public agencies and private organizations for publication and dissemination of curricula or instructional materials, or both, are awarded competitively to such agencies and organizations which provide assurances that the curricula and instructional materials will reach the target populations for which they were developed.
 - **(d)** The Secretary’s annual report shall contain a statement of the Secretary’s activities under this section.
+
+## Source Credit
+
+*([Pub. L. 90–247, title IV, § 433](https://www.govinfo.gov/link/plaw/90/public/247), formerly § 414, as added [Pub. L. 91–230, title IV, § 401(a)(10)](https://www.govinfo.gov/link/plaw/91/public/230), Apr. 13, 1970, [84 Stat. 167](https://www.govinfo.gov/link/statute/84/167); renumbered § 424, [Pub. L. 92–318, title III, § 301(a)(1)](https://www.govinfo.gov/link/plaw/92/public/318), June 23, 1972, [86 Stat. 326](https://www.govinfo.gov/link/statute/86/326); renumbered § 426, [Pub. L. 93–380, title V, § 508(a)](https://www.govinfo.gov/link/plaw/93/public/380), Aug. 21, 1974, [88 Stat. 565](https://www.govinfo.gov/link/statute/88/565); amended [Pub. L. 95–561, title XII, § 1248](https://www.govinfo.gov/link/plaw/95/public/561), Nov. 1, 1978, [92 Stat. 2354](https://www.govinfo.gov/link/statute/92/2354); [Pub. L. 96–88, title III, § 301(a)(1)](https://www.govinfo.gov/link/plaw/96/public/88), title V, § 507, Oct. 17, 1979, [93 Stat. 677](https://www.govinfo.gov/link/statute/93/677), 692; renumbered § 433, [Pub. L. 103–382, title II, § 212(b)(1)](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 3913](https://www.govinfo.gov/link/statute/108/3913).)*

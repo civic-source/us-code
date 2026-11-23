@@ -3,9 +3,10 @@ title: "Section 3954 - National coastal wetlands conservation grants"
 usc_title: 16
 usc_section: "3954"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3954"
-generated_at: "2026-03-30T02:54:23.039Z"
+generated_at: "2026-11-23T21:25:52.007Z"
+status: "active"
 ---
 
 # § 3954. National coastal wetlands conservation grants
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:23.039Z"
   - **(1)** The Director may from time to time make matching payments to carry out coastal wetlands conservation projects as such projects progress, but such payments, including previous payments, if any, shall not be more than the Federal pro rata share of any such project in conformity with subsection (d) of this section.
   - **(2)** The Director may enter into agreements to make matching payments on an initial portion of a coastal wetlands conservation project and to agree to make payments on the remaining Federal share of the costs of such project from subsequent moneys if and when they become available. The liability of the United States under such an agreement is contingent upon the continued availability of funds for the purpose of this section.
 - **(f)** The Director shall, with the funds made available in accordance with section 3955 of this title , direct the U.S. Fish and Wildlife Service’s National Wetland Inventory to update and digitize wetlands maps in the State of Texas and to conduct an assessment of the status, condition, and trends of wetlands in that State.
+
+## Source Credit
+
+*([Pub. L. 101–646, title III, § 305](https://www.govinfo.gov/link/plaw/101/public/646), Nov. 29, 1990, [104 Stat. 4785](https://www.govinfo.gov/link/statute/104/4785); [Pub. L. 102–212, title III, § 302(a)](https://www.govinfo.gov/link/plaw/102/public/212), Dec. 11, 1991, [105 Stat. 1660](https://www.govinfo.gov/link/statute/105/1660).)*

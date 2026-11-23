@@ -3,9 +3,10 @@ title: "Section 18813 - Leveraging smart manufacturing infrastructure at Nationa
 usc_title: 42
 usc_section: "18813"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18813"
-generated_at: "2026-03-30T02:56:11.531Z"
+generated_at: "2026-11-23T21:26:33.852Z"
+status: "active"
 ---
 
 # § 18813. Leveraging smart manufacturing infrastructure at National Laboratories
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.531Z"
       - **(ii)** the security of the National Laboratory facility is maintained.
   - **(3)** Not later than 1 year after November 15, 2021 , the Secretary shall submit to Congress a report describing the results of the study.
 - **(b)** The Secretary shall facilitate access to the National Laboratories studied under subsection (a) for small and medium manufacturers so that small and medium manufacturers can fully use the high-performance computing resources of the National Laboratories to enhance the manufacturing competitiveness of the United States.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title V, § 40533](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1069](https://www.govinfo.gov/link/statute/135/1069).)*

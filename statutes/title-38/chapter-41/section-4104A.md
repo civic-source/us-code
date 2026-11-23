@@ -3,9 +3,10 @@ title: "Section 4104A - Collaborative veterans’ training, mentoring, and place
 usc_title: 38
 usc_section: "4104A"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 4104A"
-generated_at: "2026-03-30T02:55:53.516Z"
+generated_at: "2026-11-23T21:26:16.791Z"
+status: "active"
 ---
 
 # § 4104A. Collaborative veterans’ training, mentoring, and placement program
@@ -41,3 +42,19 @@ generated_at: "2026-03-30T02:55:53.516Z"
     - **(A)** the Committee on Veterans’ Affairs and the Committee on Health, Education, Labor, and Pension of the Senate; and
     - **(B)** the Committee on Veterans’ Affairs and the Committee on Education and Workforce 1 1 So in original. Probably should be preceded by “the”. of the House of Representatives; and
   - **(2)** the term “nonprofit organization” means an organization that is described in section 501(c)(3) of the Internal Revenue Code of 1986 and that is exempt from taxation under section 501(a) of such Code.
+
+Grants
+
+Collaboration and Facilitation
+
+Application
+
+Reports
+
+Authorization of Appropriations
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 112–56, title II, § 234(a)](https://www.govinfo.gov/link/plaw/112/public/56), Nov. 21, 2011, [125 Stat. 721](https://www.govinfo.gov/link/statute/125/721); amended [Pub. L. 113–128, title V, § 512(gg)(3)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1719](https://www.govinfo.gov/link/statute/128/1719).)*

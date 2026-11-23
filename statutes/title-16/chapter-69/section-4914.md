@@ -3,9 +3,10 @@ title: "Section 4914 - Marking and recordkeeping"
 usc_title: 16
 usc_section: "4914"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4914"
-generated_at: "2026-03-30T02:54:23.049Z"
+generated_at: "2026-11-23T21:25:52.025Z"
+status: "active"
 ---
 
 # § 4914. Marking and recordkeeping
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:23.049Z"
       - **(i)** the export of which from any country of origin is prohibited; and
       - **(ii)** that is subject to a high level of illegal trade.
 - **(b)** The Secretary shall seek to ensure that regulations promulgated under this section will not have the effect of deterring captive breeding of exotic birds.
+
+## Source Credit
+
+*([Pub. L. 102–440, title I, § 115](https://www.govinfo.gov/link/plaw/102/public/440), Oct. 23, 1992, [106 Stat. 2232](https://www.govinfo.gov/link/statute/106/2232).)*

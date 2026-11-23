@@ -3,9 +3,10 @@ title: "Section 4006 - Miscellaneous provisions"
 usc_title: 12
 usc_section: "4006"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4006"
-generated_at: "2026-03-30T02:53:53.499Z"
+generated_at: "2026-11-23T21:25:37.158Z"
+status: "active"
 ---
 
 # § 4006. Miscellaneous provisions
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:53.499Z"
   - **(1)** take such actions as may be necessary fully to inform each employee (who performs duties subject to the requirements of this chapter) of the requirements of this chapter; and
   - **(2)** establish and maintain procedures reasonably designed to assure and monitor employee compliance with such requirements.
 - **(f)** The dollar amounts under this chapter shall be adjusted every 5 years after December 31, 2011 , by the annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers, as published by the Bureau of Labor Statistics, rounded to the nearest multiple of $25.
+
+## Source Credit
+
+*([Pub. L. 100–86, title VI, § 607](https://www.govinfo.gov/link/plaw/100/public/86), Aug. 10, 1987, [101 Stat. 646](https://www.govinfo.gov/link/statute/101/646); [Pub. L. 111–203, title X, § 1086(f)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2086](https://www.govinfo.gov/link/statute/124/2086).)*

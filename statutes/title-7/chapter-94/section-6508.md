@@ -3,9 +3,10 @@ title: "Section 6508 - Prohibited crop production practices and materials"
 usc_title: 7
 usc_section: "6508"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6508"
-generated_at: "2026-03-30T02:53:42.431Z"
+generated_at: "2026-11-23T21:25:28.391Z"
+status: "active"
 ---
 
 # § 6508. Prohibited crop production practices and materials
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.431Z"
   - **(1)** use natural poisons such as arsenic or lead salts that have long-term effects and persist in the environment, as determined by the applicable governing State official or the Secretary;
   - **(2)** use plastic mulches, unless such mulches are removed at the end of each growing or harvest season; or
   - **(3)** use transplants that are treated with any synthetic or prohibited material.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XXI, § 2109](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3940](https://www.govinfo.gov/link/statute/104/3940).)*

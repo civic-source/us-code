@@ -3,9 +3,10 @@ title: "Section 831c - Corporate powers generally; eminent domain; construction 
 usc_title: 16
 usc_section: "831c"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 831c"
-generated_at: "2026-03-30T02:54:22.922Z"
+generated_at: "2026-11-23T21:25:51.772Z"
+status: "active"
 ---
 
 # § 831c. Corporate powers generally; eminent domain; construction of dams, transmission lines, etc.
@@ -24,3 +25,15 @@ Except as otherwise specifically provided in this chapter, the Corporation—
 - **(j)** Shall have power to construct such dams, and reservoirs, in the Tennessee River and its tributaries, as in conjunction with Wilson Dam, and Norris, Wheeler, and Pickwick Landing Dams, now under construction, will provide a nine-foot channel in the said river and maintain a water supply for the same, from Knoxville to its mouth, and will best serve to promote navigation on the Tennessee River and its tributaries and control destructive flood waters in the Tennessee and Mississippi River drainage basins; and shall have power to acquire or construct power houses, power structures, transmission lines, navigation projects, and incidental works in the Tennessee River and its tributaries, and to unite the various power installations into one or more systems by transmission lines.
 - **(k)** Shall have power in the name of the United States—
 - **(l)** Shall have power to advise and cooperate in the readjustment of the population displaced by the construction of dams, the acquisition of reservoir areas, the protection of watersheds, the acquisition of rights-of-way, and other necessary acquisitions of land, in order to effectuate the purposes of the chapter; and may cooperate with Federal, State, and local agencies to that end.
+
+(a) to convey by deed, lease, or otherwise, any real property in the possession of or under the control of the Corporation to any person or persons, for the purpose of recreation or use as a summer residence, or for the operation on such premises of pleasure resorts for boating, fishing, bathing, or any similar purpose;
+
+(b) to convey by deed, lease, or otherwise, the possession and control of any such real property to any corporation, partnership, person, or persons for the purpose of erecting thereon docks and buildings for shipping purposes or the manufacture or storage thereon of products for the purpose of trading or shipping in transportation: Provided , That no transfer authorized herein in (b) shall be made without the approval of Congress: And provided further , That said corporation, without further action of Congress, shall have power to convey by deed, lease, or otherwise, to the Ingalls Shipbuilding Corporation, a tract or tracts of land at or near Decatur, Alabama, and to the Commercial Barge Lines, Inc., a tract or tracts of land at or near Guntersville, Alabama;
+
+(c) to transfer any part of the possession and control of the real estate now in possession of and under the control of said Corporation to any other department, agency, or instrumentality of the United States: Provided, however , That no land shall be conveyed, leased, or transferred, upon which there is located any permanent dam, hydroelectric power plant, or munitions plant heretofore or hereafter built by or for the United States or for the Authority, except that this prohibition shall not apply to the transfer of Nitrate Plant Numbered 1, at Muscle Shoals, Alabama, or to Waco Quarry: And provided further , That no transfer authorized herein in (a) or (c) except leases for terms of less than twenty years, shall be made without the approval of the President of the United States, if the property to be conveyed exceeds $500 in value; and
+
+(d) to convey by warranty deed, or otherwise, lands, easements, and rights-of-way to States, counties, municipalities, school districts, railroad companies, telephone, telegraph, water, and power companies, where any such conveyance is necessary in order to replace any such lands, easements, or rights-of-way to be flooded or destroyed as the result of the construction of any dam or reservoir now under construction by the Corporation, or subsequently authorized by Congress, and easements and rights-of-way upon which are located transmission or distribution lines. The Corporation shall also have power to convey or lease Nitrate Plant Numbered 1, at Muscle Shoals, Alabama, and Waco Quarry, with the approval of the Department of the Army and the President.
+
+## Source Credit
+
+*(May 18, 1933, ch. 32, § 4, [48 Stat. 60](https://www.govinfo.gov/link/statute/48/60); Aug. 31, 1935, ch. 836, §§ 1–3, 13, [49 Stat. 1075](https://www.govinfo.gov/link/statute/49/1075), 1076, 1080; July 18, 1941, ch. 309, [55 Stat. 599](https://www.govinfo.gov/link/statute/55/599); July 26, 1947, ch. 343, title II, § 205(a), [61 Stat. 501](https://www.govinfo.gov/link/statute/61/501); [Pub. L. 92–310, title II, § 225(b)](https://www.govinfo.gov/link/plaw/92/public/310), June 6, 1972, [86 Stat. 206](https://www.govinfo.gov/link/statute/86/206); [Pub. L. 108–447, div. C, title VI, § 603(a)(2)](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 2966](https://www.govinfo.gov/link/statute/118/2966).)*

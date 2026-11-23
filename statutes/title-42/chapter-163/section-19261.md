@@ -3,9 +3,10 @@ title: "Section 19261 - Quantum networking and communications"
 usc_title: 42
 usc_section: "19261"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19261"
-generated_at: "2026-03-30T02:56:11.544Z"
+generated_at: "2026-11-23T21:26:33.881Z"
+status: "active"
 ---
 
 # § 19261. Quantum networking and communications
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:56:11.544Z"
     - **(B)** If determined to be effective, a plan for integrating the Program into existing programs, including the feasibility and advisability of expanding the scope of the Program to include additional technology areas, grade levels, and educational institutions beyond those originally selected to participate in the Program.
   - **(5)** There are authorized to be appropriated to the Director $8,000,000 for each of fiscal years 2023 through 2026 to carry out this section.
   - **(6)** This subsection shall terminate on the date that is four years after August 9, 2022 .
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title VI, § 10661](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1683](https://www.govinfo.gov/link/statute/136/1683).)*

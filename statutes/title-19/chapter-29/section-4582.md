@@ -3,9 +3,10 @@ title: "Section 4582 - Organizational and administrative provisions"
 usc_title: 19
 usc_section: "4582"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4582"
-generated_at: "2026-03-30T02:54:24.713Z"
+generated_at: "2026-11-23T21:25:42.894Z"
+status: "active"
 ---
 
 # § 4582. Organizational and administrative provisions
@@ -82,3 +83,7 @@ generated_at: "2026-03-30T02:54:24.713Z"
 - **(f)** With the exception of acts described in section 777(f)(3) of the Tariff Act of 1930 ( 19 U.S.C. 1677f(f)(3) ), individuals serving on panels or committees convened pursuant to chapter 10, and individuals designated to assist the individuals serving on such panels or committees, shall be immune from suit and legal process relating to acts performed by such individuals in their official capacity and within the scope of their functions as such panelists or committee members or assistants to such panelists or committee members.
 - **(g)** The administering authority under title VII of the Tariff Act of 1930 [ 19 U.S.C. 1671 et seq.], the International Trade Commission, and the Trade Representative may promulgate such regulations as are necessary or appropriate to carry out actions in order to implement their respective responsibilities under chapter 10. Initial regulations to carry out such functions shall be issued before the date on which the Agreement enters into force with respect to the United States.
 - **(h)** At such time as the final candidate lists are submitted under subsection (c)(4)(A) and the final forms of amendments are submitted under subsection (c)(4)(C)(iv), the Trade Representative shall submit to the Committee on the Judiciary and the Committee on Ways and Means of the House of Representatives, and to the Committee on Finance and the Committee on the Judiciary of the Senate, a report regarding the efforts made to secure the participation of judges and former judges on binational panels, extraordinary challenge committees, and special committees established under chapter 10.
+
+## Source Credit
+
+*([Pub. L. 116–113, title IV, § 412](https://www.govinfo.gov/link/plaw/116/public/113), formerly [Pub. L. 103–182, title IV, § 402](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2129](https://www.govinfo.gov/link/statute/107/2129); [Pub. L. 104–295, § 21(c)(1)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3530](https://www.govinfo.gov/link/statute/110/3530); renumbered [§ 412 of Pub. L. 116–113](https://www.govinfo.gov/link/plaw/116/public/113) and amended [Pub. L. 116–113, title V, § 504(c)](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 73](https://www.govinfo.gov/link/statute/134/73).)*

@@ -3,9 +3,10 @@ title: "Section 3370b - Collaboration between intelligence community and Departm
 usc_title: 50
 usc_section: "3370b"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3370b"
-generated_at: "2026-03-30T02:56:26.251Z"
+generated_at: "2026-11-23T21:26:39.047Z"
+status: "active"
 ---
 
 # § 3370b. Collaboration between intelligence community and Department of Commerce to counter foreign commercial threats
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:26.251Z"
       - **(iii)** The plan of the intelligence community to provide to the Department of Commerce and other nontraditional customers of the intelligence community support in addressing foreign commercial threats.
       - **(iv)** Any other significant activity of the Working Group.
 - **(c)** If the Director of National Intelligence and the Secretary of Commerce make a joint determination that the requirements of the Working Group under subsection (b) (including the duties under paragraph (3) and the reporting requirement under paragraph (6) of such subsection) may be appropriately filled by an existing entity or structure, and submit to the congressional intelligence committees a notification of such determination (including a description of the justification for such determination), the Director and Secretary may task such entity or structure with such requirements in lieu of establishing the Working Group.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. F, title LXV, § 6514](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3546](https://www.govinfo.gov/link/statute/136/3546).)*

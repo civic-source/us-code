@@ -3,9 +3,10 @@ title: "Section 945 - Art. 145. Annuities for judges and survivors"
 usc_title: 10
 usc_section: "945"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 945"
-generated_at: "2026-03-30T02:53:38.088Z"
+generated_at: "2026-11-23T21:25:32.358Z"
+status: "active"
 ---
 
 # § 945. Art. 145. Annuities for judges and survivors
@@ -32,3 +33,23 @@ generated_at: "2026-03-30T02:53:38.088Z"
     - **(A)** prior to being appointed as a judge of the United States Court of Appeals for the Armed Forces, performed civilian service of a type making such person subject to the Civil Service Retirement System; and
     - **(B)** would be eligible to make an election under section 301(a)(2) of the Federal Employees’ Retirement System Act of 1986, by virtue of being appointed as such a judge, but for the fact that such person has not had a break in service of sufficient duration to be considered someone who is being reemployed by the Federal Government.
   - **(2)** Any person with respect to whom this subsection applies shall be eligible to make an election under section 301(a)(2) of the Federal Employees’ Retirement System Act of 1986 to the same extent and in the same manner (including subject to the condition set forth in section 301(d) of such Act) as if such person’s appointment constituted reemployment with the Federal Government.
+
+Retirement Annuities for Judges
+
+Amount of Annuity
+
+Relation to Thrift Savings Plan
+
+Survivor Annuities
+
+Cost-of-Living Increases
+
+Election of Judicial Retirement Benefits
+
+Source of Payment of Annuities
+
+Eligibility to Elect Between Retirement Systems
+
+## Source Credit
+
+*(Added [Pub. L. 101–189, div. A, title XIII, § 1301(c)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1572](https://www.govinfo.gov/link/statute/103/1572); amended [Pub. L. 102–190, div. A, title X, § 1061(b)(1)(C)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1474](https://www.govinfo.gov/link/statute/105/1474); [Pub. L. 102–484, div. A, title X](https://www.govinfo.gov/link/plaw/102/public/484), §§ 1052(11), 1062(a)(1), Oct. 23, 1992, [106 Stat. 2499](https://www.govinfo.gov/link/statute/106/2499), 2504; [Pub. L. 103–337, div. A, title IX, § 924(c)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2831](https://www.govinfo.gov/link/statute/108/2831); [Pub. L. 114–328, div. A, title V, § 541(e)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2125](https://www.govinfo.gov/link/statute/130/2125).)*

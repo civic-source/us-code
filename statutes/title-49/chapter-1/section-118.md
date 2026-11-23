@@ -3,9 +3,10 @@ title: "Section 118 - Office of Multimodal Freight Infrastructure and Policy"
 usc_title: 49
 usc_section: "118"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 118"
-generated_at: "2026-03-30T02:56:19.297Z"
+generated_at: "2026-11-23T21:26:40.585Z"
+status: "active"
 ---
 
 # § 118. Office of Multimodal Freight Infrastructure and Policy
@@ -95,3 +96,79 @@ generated_at: "2026-03-30T02:56:19.297Z"
 - **(k)**
   - **(1)** There are authorized to be appropriated to the Secretary such sums as are necessary to carry out this section.
   - **(2)** Authorizations under subsections (f) and (g) are subject to appropriations.
+
+Definitions
+
+Department
+
+Freight office
+
+Secretary
+
+Establishment
+
+Purposes
+
+Administration of Policies and Programs
+
+Assistant Secretary.—
+
+In general
+
+Duties
+
+Consolidation and Elimination of Duplicative Offices.—
+
+Consolidation of offices and office functions
+
+Elimination of offices
+
+Staffing and Budgetary Resources.—
+
+In general
+
+Staffing.—
+
+Transfer of positions to freight office
+
+Requirement
+
+Budgetary resources.—
+
+Transfer of funds from consolidated or eliminated offices.—
+
+In general
+
+Retransfer
+
+Transfer of funds allocated for administrative costs.—
+
+In general
+
+Retransfer
+
+Website.—
+
+Description of freight office
+
+Clearinghouse
+
+Notification to Congress
+
+Savings Provisions.—
+
+Effect on other law
+
+Effect on responsibilities of other agencies
+
+Effect on pending applications
+
+Authorization of Appropriations.—
+
+In general
+
+Certain activities
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. B, title I, § 21101(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 652](https://www.govinfo.gov/link/statute/135/652).)*

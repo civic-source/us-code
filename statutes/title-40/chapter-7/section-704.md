@@ -3,9 +3,10 @@ title: "Section 704 - Other methods of disposal"
 usc_title: 40
 usc_section: "704"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 704"
-generated_at: "2026-03-30T02:55:43.377Z"
+generated_at: "2026-11-23T21:26:14.835Z"
+status: "active"
 ---
 
 # § 704. Other methods of disposal
@@ -19,3 +20,46 @@ generated_at: "2026-03-30T02:55:43.377Z"
   - **(3)** The head of an executive agency may authorize the abandonment, destruction, or donation of foreign excess property if the property has no commercial value or if estimated costs of care and handling exceed the estimated proceeds from sale.
 - **(c)** The head of an executive agency may dispose of foreign excess property without advertising if the head of the executive agency finds that disposal without advertising is the most practicable and advantageous means for the Federal Government to dispose of the property.
 - **(d)** The head of an executive agency may execute documents to transfer title or other interests in, and take other action necessary or proper to dispose of, foreign excess property.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 704 | 40:512(a). | June 30, 1949, ch. 288 , title IV, § 402(a), 63 Stat. 398 ; Pub. L. 91–426, § 2(a) –(c), Sept. 26, 1970 , 84 Stat. 883 ; Pub. L. 99–627, § 3(a) , Nov. 7, 1986 , 100 Stat. 3509 . |
+
+
+In General
+
+Methods of Disposal.—
+
+Sale, exchange, lease, or transfer
+
+Exchange for foreign currency or credit
+
+Abandonment, destruction, or donation
+
+Advertising
+
+Transfer of Title
+
+Historical and Revision Notes
+
+704
+
+June 30, 1949, ch. 288
+
+63 Stat. 398
+
+Pub. L. 91–426, § 2(a)
+
+Sept. 26, 1970
+
+84 Stat. 883
+
+Pub. L. 99–627, § 3(a)
+
+Nov. 7, 1986
+
+100 Stat. 3509
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1126](https://www.govinfo.gov/link/statute/116/1126).)*

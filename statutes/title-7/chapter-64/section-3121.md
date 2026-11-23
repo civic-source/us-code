@@ -3,9 +3,10 @@ title: "Section 3121 - Responsibilities of Secretary and Department of Agricultu
 usc_title: 7
 usc_section: "3121"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3121"
-generated_at: "2026-03-30T02:53:42.393Z"
+generated_at: "2026-11-23T21:25:28.311Z"
+status: "active"
 ---
 
 # § 3121. Responsibilities of Secretary and Department of Agriculture
@@ -24,3 +25,29 @@ The Department of Agriculture is designated as the lead agency of the Federal Go
   - **(10)** coordinate all agricultural research, extension, and teaching activities conducted or financed by the Department of Agriculture with the periodic renewable resource assessment and program provided for in sections 1601 and 1602 of title 16 and the appraisal and program provided for in sections 2004 and 2005 of title 16;
   - **(11)** coordinate the efforts of States, State cooperative institutions, State extension services, the Advisory Board, and other appropriate institutions in assessing the current status of, and developing a plan for, the effective transfer of new technologies, including biotechnology, to the farming community, with particular emphasis on addressing the unique problems of small- and medium-sized farms in gaining information about those technologies; and
   - **(12)** establish appropriate controls with respect to the development and use of the application of biotechnology to agriculture.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1405](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 985](https://www.govinfo.gov/link/statute/91/985); [Pub. L. 97–98, title XIV, § 1405](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1298](https://www.govinfo.gov/link/statute/95/1298); [Pub. L. 99–198, title XIV, § 1404](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1544](https://www.govinfo.gov/link/statute/99/1544); [Pub. L. 101–624, title XVI, § 1605(b)(3)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3714](https://www.govinfo.gov/link/statute/104/3714); [Pub. L. 104–127, title VIII](https://www.govinfo.gov/link/plaw/104/public/127), §§ 852(b)(1), 853(b)(2), Apr. 4, 1996, [110 Stat. 1171](https://www.govinfo.gov/link/statute/110/1171), 1172.)*

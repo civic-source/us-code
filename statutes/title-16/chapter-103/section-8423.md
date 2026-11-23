@@ -3,9 +3,10 @@ title: "Section 8423 - Range access"
 usc_title: 16
 usc_section: "8423"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8423"
-generated_at: "2026-03-30T02:54:23.084Z"
+generated_at: "2026-11-23T21:25:52.077Z"
+status: "active"
 ---
 
 # § 8423. Range access
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:54:23.084Z"
     - **(B)** explore opportunities to leverage funding to maximize non-Federal investment in the construction, modification, operation, or maintenance of a target shooting range.
 - **(e)** Not later than 2 years after January 4, 2025 , and annually thereafter through fiscal year 2033, the Secretaries shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report describing the progress made with respect to the implementation of this section.
 - **(f)** Nothing in this section affects the authority of the Secretary concerned to administer a target shooting range that is in addition to the target shooting ranges that meet the requirements described in subsection (b)(3)(B) on Federal recreational lands and waters administered by the Secretary concerned.
+
+## Source Credit
+
+*([Pub. L. 118–234, title I, § 123](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2844](https://www.govinfo.gov/link/statute/138/2844).)*

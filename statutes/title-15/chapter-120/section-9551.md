@@ -3,9 +3,10 @@ title: "Section 9551 - Definitions"
 usc_title: 15
 usc_section: "9551"
 chapter: 120
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9551"
-generated_at: "2026-03-30T02:54:08.249Z"
+generated_at: "2026-11-23T21:25:40.149Z"
+status: "active"
 ---
 
 # § 9551. Definitions
@@ -23,3 +24,7 @@ In this subchapter:
   - **(5)** The term “minority-serving institution” means an institution described in any of paragraphs (1) through (7) of section 1067q(a) of title 20 .
   - **(6)** The term “rural area” has the meaning given the term in section 1991(a) of title 7 .
   - **(7)** The term “rural minority business enterprise” means a minority business enterprise located in a rural area.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. K, title III, § 100301](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1458](https://www.govinfo.gov/link/statute/135/1458).)*

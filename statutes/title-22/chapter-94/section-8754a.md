@@ -3,9 +3,10 @@ title: "Section 8754a - Strategy and grant program to promote internet freedom i
 usc_title: 22
 usc_section: "8754a"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8754a"
-generated_at: "2026-03-30T02:55:05.456Z"
+generated_at: "2026-11-23T21:25:58.753Z"
+status: "active"
 ---
 
 # § 8754a. Strategy and grant program to promote internet freedom in Iran
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:05.456Z"
   - **(5)**
     - **(A)** There is authorized to be appropriated for the Open Technology Fund established under section 6208a of this title $15,000,000 for each of fiscal years 2025 and 2026 to carry out the grant program authorized under this subsection.
     - **(B)** Amounts appropriated pursuant to the authorization in subparagraph (A) are authorized remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 118–159, div. E, title LI, § 5124](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2431](https://www.govinfo.gov/link/statute/138/2431).)*

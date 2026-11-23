@@ -3,9 +3,10 @@ title: "Section 533 - Service credit upon original appointment as a commissioned
 usc_title: 10
 usc_section: "533"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 533"
-generated_at: "2026-03-30T02:53:38.066Z"
+generated_at: "2026-11-23T21:25:32.287Z"
+status: "active"
 ---
 
 # § 533. Service credit upon original appointment as a commissioned officer
@@ -37,3 +38,11 @@ generated_at: "2026-03-30T02:53:38.066Z"
 - **(f)** A reserve officer (other than a warrant officer) who receives an original appointment as an officer (other than as a warrant officer) in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Space Force shall—
   - **(1)** in the case of an officer on the active-duty list immediately before that appointment as a regular officer, be appointed in the same grade and with the same date of rank as the grade and date of rank held by the officer on the active-duty list immediately before the appointment; and
   - **(2)** in the case of an officer not on the active-duty list immediately before that appointment as a regular officer, be appointed in the same grade and with the same date of rank as the grade and date of rank which the officer would have held had the officer been serving on the active-duty list on the date of the appointment as a regular officer.
+
+In general
+
+Elements
+
+## Source Credit
+
+*(Added [Pub. L. 96–513, title I, § 104(a)](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2846](https://www.govinfo.gov/link/statute/94/2846); amended [Pub. L. 97–22, § 3(c)](https://www.govinfo.gov/link/plaw/97/public/22), July 10, 1981, [95 Stat. 125](https://www.govinfo.gov/link/statute/95/125); [Pub. L. 98–94, title X, § 1007(c)(1)](https://www.govinfo.gov/link/plaw/98/public/94), Sept. 24, 1983, [97 Stat. 662](https://www.govinfo.gov/link/statute/97/662); [Pub. L. 100–180, div. A, title VII, § 714(a)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1112](https://www.govinfo.gov/link/statute/101/1112); [Pub. L. 103–160, div. A, title V, § 509(a)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1647](https://www.govinfo.gov/link/statute/107/1647); [Pub. L. 113–66, div. A, title V, § 502](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 750](https://www.govinfo.gov/link/statute/127/750); [Pub. L. 115–91, div. A, title V, § 512(b)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1377](https://www.govinfo.gov/link/statute/131/1377); [Pub. L. 115–232, div. A, title V, § 502(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1739](https://www.govinfo.gov/link/statute/132/1739); [Pub. L. 116–283, div. A, title V, § 502(a)](https://www.govinfo.gov/link/plaw/116/public/283), title IX, § 924(b)(1)(B), (4)(C), (14), Jan. 1, 2021, [134 Stat. 3563](https://www.govinfo.gov/link/statute/134/3563), 3820, 3822, 3823; [Pub. L. 118–31, div. A, title XVII, § 1716(b)(4)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 633](https://www.govinfo.gov/link/statute/137/633); [Pub. L. 118–159, div. A, title V, § 521(c)(2)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1881](https://www.govinfo.gov/link/statute/138/1881).)*

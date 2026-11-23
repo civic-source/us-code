@@ -3,9 +3,10 @@ title: "Section 300jj - Definitions"
 usc_title: 42
 usc_section: "300jj"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 300jj"
-generated_at: "2026-03-30T02:56:10.844Z"
+generated_at: "2026-11-23T21:26:30.940Z"
+status: "active"
 ---
 
 # § 300jj. Definitions
@@ -36,3 +37,21 @@ In this subchapter:
       - **(iv)** to exchange electronic health information with, and integrate such information from other sources; and
     - **(C)** includes, or is capable of including, a real-time benefit tool that conveys patient-specific real-time cost and coverage information with respect to prescription drugs that, with respect to any health information technology certified for electronic prescribing, the technology shall be capable of incorporating the information described in clauses (i) through (iii) of paragraph (2)(B) of section 1395w–104( o ) of this title at a time specified by the Secretary but not before the Secretary adopts a standard for such tools as described in paragraph (1) of such section.
   - **(15)** The term “State” means each of the several States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
+
+Reduction in Burdens Goal
+
+Strategy and Recommendations.—
+
+In general
+
+Strategy
+
+Recommendations
+
+FACA
+
+Application of Certain Regulatory Requirements
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXX, § 3000, as added [Pub. L. 111–5, div. A, title XIII, § 13101](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 228](https://www.govinfo.gov/link/statute/123/228); amended [Pub. L. 114–255, div. A, title IV, § 4003(a)](https://www.govinfo.gov/link/plaw/114/public/255), (e)(2)(B), Dec. 13, 2016, [130 Stat. 1165](https://www.govinfo.gov/link/statute/130/1165), 1174; [Pub. L. 116–260, div. CC, title I, § 119(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2952](https://www.govinfo.gov/link/statute/134/2952).)*

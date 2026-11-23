@@ -3,9 +3,10 @@ title: "Section 7384q - Designation of additional members of special exposure co
 usc_title: 42
 usc_section: "7384q"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7384q"
-generated_at: "2026-03-30T02:56:11.292Z"
+generated_at: "2026-11-23T21:26:33.070Z"
+status: "active"
 ---
 
 # § 7384q. Designation of additional members of special exposure cohort
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.292Z"
     - **(B)** If the determination submitted by the President under subparagraph (A) is in the affirmative, the President shall also submit a report meeting the requirements of section 7384 l (14)(C)(ii) of this title.
     - **(C)** If the President does not submit a determination required by subparagraph (A) within the period required by subparagraph (A), then upon the day following the expiration of that period, it shall be deemed for purposes of section 7384 l (14)(C)(ii) of this title that the President submitted the report under that provision on that day.
 - **(d)** The Secretary of Energy shall provide, in accordance with law, the Secretary of Health and Human Services and the members and staff of the Advisory Board on Radiation and Worker Health access to relevant information on worker exposures, including access to Restricted Data (as defined in section 2014(y) of this title . 1 1 So in original. A closing parenthesis should probably follow “title”.
+
+## Source Credit
+
+*([Pub. L. 106–398, § 1 [div. C, title XXXVI, § 3626]](https://www.govinfo.gov/link/plaw/106/public/398), Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–504; [Pub. L. 107–107, div. C, title XXXI, § 3151(a)(2)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1372](https://www.govinfo.gov/link/statute/115/1372); [Pub. L. 108–375, div. C, title XXXI, § 3166(b)(1)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2188](https://www.govinfo.gov/link/statute/118/2188).)*

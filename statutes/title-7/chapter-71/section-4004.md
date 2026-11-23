@@ -3,9 +3,10 @@ title: "Section 4004 - Food bank special nutrition projects"
 usc_title: 7
 usc_section: "4004"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 4004"
-generated_at: "2026-03-30T02:53:42.405Z"
+generated_at: "2026-11-23T21:25:28.342Z"
+status: "active"
 ---
 
 # § 4004. Food bank special nutrition projects
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.405Z"
 - **(e)** The sale of food provided under this section shall be prohibited and any person who receives any remuneration in exchange for food provided under this section shall be subject to a fine of not more than $1,000 or imprisonment for not more than six months, or both.
 - **(f)** The Secretary shall minimize paperwork requirements placed on food banks which participate in the special nutrition projects established under this section and shall otherwise encourage food banks to participate in such projects.
 - **(g)** There is authorized to be appropriated such sums as may be necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 96–494, title II, § 211](https://www.govinfo.gov/link/plaw/96/public/494), Dec. 3, 1980, [94 Stat. 2577](https://www.govinfo.gov/link/statute/94/2577); [Pub. L. 97–98, title XI, § 1114(b)](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1269](https://www.govinfo.gov/link/statute/95/1269); [Pub. L. 106–78, title VII, § 752(b)(4)](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1169](https://www.govinfo.gov/link/statute/113/1169).)*

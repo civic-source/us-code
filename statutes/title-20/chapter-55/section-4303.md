@@ -3,9 +3,10 @@ title: "Section 4303 - Board of Trustees"
 usc_title: 20
 usc_section: "4303"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 4303"
-generated_at: "2026-03-30T02:54:48.182Z"
+generated_at: "2026-11-23T21:25:47.435Z"
+status: "active"
 ---
 
 # § 4303. Board of Trustees
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:48.182Z"
   - **(7)** confer such degrees and marks of honor as are conferred by colleges and universities generally, and issue such diplomas and certificates of graduation as, in its opinion, may be deemed advisable, and consistent with academic standards;
   - **(8)** subject to section 4353 of this title , control expenditures of all moneys appropriated by Congress for the benefit of Gallaudet University; and
   - **(9)** control the expenditure and investment of any moneys or funds or property which Gallaudet University may have or may receive from sources other than appropriations by Congress.
+
+## Source Credit
+
+*([Pub. L. 99–371, title I, § 103](https://www.govinfo.gov/link/plaw/99/public/371), Aug. 4, 1986, [100 Stat. 782](https://www.govinfo.gov/link/statute/100/782); [Pub. L. 102–421, title I](https://www.govinfo.gov/link/plaw/102/public/421), §§ 101(c), 111, Oct. 16, 1992, [106 Stat. 2152](https://www.govinfo.gov/link/statute/106/2152); [Pub. L. 103–73, title II, § 203(c)](https://www.govinfo.gov/link/plaw/103/public/73), Aug. 11, 1993, [107 Stat. 733](https://www.govinfo.gov/link/statute/107/733).)*

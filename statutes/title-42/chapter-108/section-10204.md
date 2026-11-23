@@ -3,9 +3,10 @@ title: "Section 10204 - Subseabed disposal"
 usc_title: 42
 usc_section: "10204"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10204"
-generated_at: "2026-03-30T02:56:11.384Z"
+generated_at: "2026-11-23T21:26:33.351Z"
+status: "active"
 ---
 
 # § 10204. Subseabed disposal
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.384Z"
       - **(ii)** develop conceptual designs for a subseabed disposal system, including estimated costs and institutional requirements; and
       - **(iii)** identify and assess the potential impacts of subseabed disposal on the human and marine environment.
     - **(C)** In 1990, and again in 1995, the Subseabed Consortium shall report to Congress on the progress being made in achieving the objectives of paragraph (2).
+
+## Source Credit
+
+*([Pub. L. 97–425, title II, § 224](https://www.govinfo.gov/link/plaw/97/public/425), as added [Pub. L. 100–202, § 101(d) [title III]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–104](https://www.govinfo.gov/link/statute/101/1329), 1329–121; [Pub. L. 100–203, title V, § 5063](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–253](https://www.govinfo.gov/link/statute/101/1330); amended [Pub. L. 104–66, title I, § 1051(d)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 716](https://www.govinfo.gov/link/statute/109/716); [Pub. L. 105–245, title III, § 309(b)(2)(E)](https://www.govinfo.gov/link/plaw/105/public/245), Oct. 7, 1998, [112 Stat. 1853](https://www.govinfo.gov/link/statute/112/1853).)*

@@ -3,9 +3,10 @@ title: "Section 3606 - E-Government report"
 usc_title: 44
 usc_section: "3606"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 3606"
-generated_at: "2026-03-30T02:55:56.299Z"
+generated_at: "2026-11-23T21:26:18.443Z"
+status: "active"
 ---
 
 # § 3606. E-Government report
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:56.299Z"
   - **(1)** a summary of the information reported by agencies under section 202(f) 1 1 So in original. Probably should be “section 202(g)”. of the E-Government Act of 2002;
   - **(2)** the information required to be reported by section 3604(f); and
   - **(3)** a description of compliance by the Federal Government with other goals and provisions of the E-Government Act of 2002.
+
+## Source Credit
+
+*(Added [Pub. L. 107–347, title I, § 101(a)](https://www.govinfo.gov/link/plaw/107/public/347), Dec. 17, 2002, [116 Stat. 2909](https://www.govinfo.gov/link/statute/116/2909).)*

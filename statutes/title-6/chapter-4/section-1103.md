@@ -3,9 +3,10 @@ title: "Section 1103 - National Transportation Security Center of Excellence"
 usc_title: 6
 usc_section: "1103"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1103"
-generated_at: "2026-03-30T02:53:09.503Z"
+generated_at: "2026-11-23T21:25:25.861Z"
+status: "active"
 ---
 
 # § 1103. National Transportation Security Center of Excellence
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:09.503Z"
   - **(2)** $18,000,000 for fiscal year 2009;
   - **(3)** $18,000,000 for fiscal year 2010; and
   - **(4)** $18,000,000 for fiscal year 2011.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XII, § 1205](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 387](https://www.govinfo.gov/link/statute/121/387).)*

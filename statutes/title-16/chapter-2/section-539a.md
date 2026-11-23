@@ -3,12 +3,17 @@ title: "Section 539a - Mining and mineral leasing on certain national forest lan
 usc_title: 16
 usc_section: "539a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 539a"
-generated_at: "2026-03-30T02:54:22.862Z"
+generated_at: "2026-11-23T21:25:51.656Z"
+status: "active"
 ---
 
 # § 539a. Mining and mineral leasing on certain national forest lands
 
 Subject to valid existing rights, the minerals in public lands within the Copper River addition to the Chugach National Forest, are hereby withdrawn from location, entry, and patent under the United States mining laws. With respect to such areas, the Secretary, under such reasonable regulations as he deems appropriate, may permit the removal of non­leasable minerals from the lands in the manner prescribed by Reorganization Plan Numbered 3 of 1946 and section 520 of this title , and the removal of leasable minerals from such lands in accordance with the mineral leasing laws, if the Secretary finds that such disposition would not have significant adverse effects on the administration of the area. All receipts derived from disposal of nonleasable minerals under this section shall be paid into the same funds or accounts in the Treasury of the United States and shall be distributed in the same manner as provided for receipts from national forests.
 
+
+## Source Credit
+
+*([Pub. L. 96–487, title V, § 502](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2399](https://www.govinfo.gov/link/statute/94/2399).)*

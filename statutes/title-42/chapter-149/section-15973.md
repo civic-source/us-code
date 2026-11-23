@@ -3,9 +3,10 @@ title: "Section 15973 - Western integrated coal gasification demonstration proje
 usc_title: 42
 usc_section: "15973"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15973"
-generated_at: "2026-03-30T02:56:11.466Z"
+generated_at: "2026-11-23T21:26:33.689Z"
+status: "active"
 ---
 
 # § 15973. Western integrated coal gasification demonstration project
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.466Z"
 - **(d)** The demonstration project shall be located in a western State at an altitude of greater than 4,000 feet above sea level.
 - **(e)** The Federal share of the cost of the demonstration project shall be determined in accordance with section 16352 of this title .
 - **(f)** Notwithstanding subchapter XIII, the demonstration project shall not be eligible for Federal loan guarantees.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IV, § 413](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 755](https://www.govinfo.gov/link/statute/119/755).)*

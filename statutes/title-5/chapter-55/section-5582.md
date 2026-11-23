@@ -3,9 +3,10 @@ title: "Section 5582 - Designation of beneficiary; order of precedence"
 usc_title: 5
 usc_section: "5582"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5582"
-generated_at: "2026-03-30T02:52:56.022Z"
+generated_at: "2026-11-23T21:25:23.288Z"
+status: "active"
 ---
 
 # § 5582. Designation of beneficiary; order of precedence
@@ -15,3 +16,31 @@ generated_at: "2026-03-30T02:52:56.022Z"
   - **(2)** jointly by the President pro tempore of the Senate and the Speaker of the House of Representatives, or their designee, in the case of an employee of the legislative branch; and
   - **(3)** by the Chief Justice of the United States or his or her designee, in the case of an employee of the judicial branch.
 - **(b)** In order to facilitate the settlement of the accounts of deceased employees, money due an employee at the time of his death shall be paid to the person or persons surviving at the date of death, in the following order of precedence, and the payment bars recovery by another person of amounts so paid: First, to the beneficiary or beneficiaries designated by the employee in a writing received in the employing agency before his death. Second, if there is no designated beneficiary, to the widow or widower of the employee. Third, if none of the above, to the child or children of the employee and descendants of deceased children by representation. Fourth, if none of the above, to the parents of the employee or the survivor of them. Fifth, if none of the above, to the duly appointed legal representative of the estate of the employee. Sixth, if none of the above, to the person or persons entitled under the laws of the domicile of the employee at the time of his death.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| (a) | 5 U.S.C. 61j . | Aug. 3, 1950, ch. 518, § 5 , 64 Stat. 396 . |
+| (b) | 5 U.S.C. 61f . | Aug. 3, 1950, ch. 518, § 1 , 64 Stat. 395 . |
+
+
+Historical and Revision Notes
+
+(a)
+
+5 U.S.C. 61j
+
+Aug. 3, 1950, ch. 518, § 5
+
+64 Stat. 396
+
+(b)
+
+5 U.S.C. 61f
+
+Aug. 3, 1950, ch. 518, § 1
+
+64 Stat. 395
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 495](https://www.govinfo.gov/link/statute/80/495); [Pub. L. 104–316, title I, § 103(c)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3828](https://www.govinfo.gov/link/statute/110/3828).)*

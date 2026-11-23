@@ -3,9 +3,10 @@ title: "Section 1 - Report to Congress on authorized studies and projects"
 usc_title: 33
 usc_section: "1"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1"
-generated_at: "2026-03-30T02:55:41.119Z"
+generated_at: "2026-11-23T21:26:11.436Z"
+status: "active"
 ---
 
 # § 2282d–1. Report to Congress on authorized studies and projects
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:55:41.119Z"
 - **(d)** In this section:
   - **(1)** The term “non-Federal interest” has the meaning given that term in section 1962d–5b of title 42 .
   - **(2)** The term “water resources development project” includes a separable element of a project, a project under an environmental infrastructure assistance program, and a project the authorized purposes of which include water supply.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. AA, title II, § 222](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2694](https://www.govinfo.gov/link/statute/134/2694).)*

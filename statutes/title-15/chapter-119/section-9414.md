@@ -3,9 +3,10 @@ title: "Section 9414 - National Artificial Intelligence Advisory Committee"
 usc_title: 15
 usc_section: "9414"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9414"
-generated_at: "2026-03-30T02:54:08.246Z"
+generated_at: "2026-11-23T21:25:40.142Z"
+status: "active"
 ---
 
 # § 9414. National Artificial Intelligence Advisory Committee
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:08.246Z"
 - **(f)** Not later than 1 year after January 1, 2021 , and not less frequently than once every 3 years thereafter, the Advisory Committee shall submit to the President, the Committee on Science, Space, and Technology, the Committee on Energy and Commerce, the House Permanent Select Committee on Intelligence, the Committee on the Judiciary, and the Committee on Armed Services of the House of Representatives, and the Committee on Commerce, Science, and Transportation, the Senate Select Committee on Intelligence, the Committee on Homeland Security and Governmental Affairs, the Committee on the Judiciary, and the Committee on Armed Services of the Senate, a report on the Advisory Committee’s findings and recommendations under subsection (d) and subsection (e).
 - **(g)** Non-Federal members of the Advisory Committee, while attending meetings of the Advisory Committee or while otherwise serving at the request of the head of the Advisory Committee away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for individuals in the Government serving without pay. Nothing in this subsection shall be construed to prohibit members of the Advisory Committee who are officers or employees of the United States from being allowed travel expenses, including per diem in lieu of subsistence, in accordance with existing law.
 - **(h)** The Secretary of Commerce shall charter the Advisory Committee in accordance with the Federal Advisory Committee Act (5 U.S.C. App.), 1 except that the Advisory Committee shall be exempt from section 14 of such Act.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. E, title LI, § 5104](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4528](https://www.govinfo.gov/link/statute/134/4528).)*

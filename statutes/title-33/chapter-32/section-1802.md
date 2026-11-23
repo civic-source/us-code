@@ -3,9 +3,10 @@ title: "Section 1802 - Repealed. Pub. L. 99–662, title XIV, § 1405(b) , Nov. 
 usc_title: 33
 usc_section: "1802"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1802"
-generated_at: "2026-03-30T02:55:41.109Z"
+generated_at: "2026-11-23T21:26:11.411Z"
+status: "repealed"
 ---
 
 # §§ 1801, 1802. Repealed. Pub. L. 99–662, title XIV, § 1405(b) , Nov. 17, 1986 , 100 Stat. 4271

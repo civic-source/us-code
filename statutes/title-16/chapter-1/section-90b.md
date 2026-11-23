@@ -3,12 +3,17 @@ title: "Section 90b - Land acquisition; authority of Secretary; manner and place
 usc_title: 16
 usc_section: "90b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 90b"
-generated_at: "2026-03-30T02:54:22.732Z"
+generated_at: "2026-11-23T21:25:51.377Z"
+status: "active"
 ---
 
 # § 90b. Land acquisition; authority of Secretary; manner and place; donation of State lands; transfer to administrative jurisdiction of Secretary; elimination of lands from national forests
 
 - **(a)** 1 1 Subsec. (a) designation editorially supplied. Within the boundaries of the park and recreation areas, the Secretary of the Interior (hereinafter referred to in this subchapter as the “Secretary”) may acquire lands, waters, and interests therein by donation, purchase with donated or appropriated funds, or exchange, except that he may not acquire any such interests within the recreation areas without the consent of the owner, so long as the lands are devoted to uses compatible with the purposes of this subchapter. Lands owned by the State of Washington or any political subdivision thereof may be acquired only by donation. Federal property within the boundaries of the park and recreation areas is hereby transferred to the administrative jurisdiction of the Secretary for administration by him as part of the park and recreation areas. The national forest land within such boundaries is hereby eliminated from the national forests within which it was heretofore located.
 - **(b)** The Secretary is hereby authorized to acquire, with the consent of the owner, lands outside of the authorized boundaries of North Cascades National Park Service Complex for the purpose of construction and operation of a backcountry information center not to exceed five acres. The Secretary of the Interior is further authorized to acquire with the consent of the owner, lands for the construction of a headquarters and administrative site or sites, for the North Cascades National Park, Ross Lake National Recreation Area, and Lake Chelan National Recreation Area not to exceed ten acres. The lands so acquired shall be managed as part of the park.
+
+## Source Credit
+
+*([Pub. L. 90–544, title III, § 301](https://www.govinfo.gov/link/plaw/90/public/544), Oct. 2, 1968, [82 Stat. 927](https://www.govinfo.gov/link/statute/82/927); [Pub. L. 100–668, title II, § 203](https://www.govinfo.gov/link/plaw/100/public/668), Nov. 16, 1988, [102 Stat. 3963](https://www.govinfo.gov/link/statute/102/3963).)*

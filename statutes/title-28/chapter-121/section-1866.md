@@ -3,9 +3,10 @@ title: "Section 1866 - Selection and summoning of jury panels"
 usc_title: 28
 usc_section: "1866"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1866"
-generated_at: "2026-03-30T02:55:30.145Z"
+generated_at: "2026-11-23T21:26:01.109Z"
+status: "active"
 ---
 
 # § 1866. Selection and summoning of jury panels
@@ -17,3 +18,11 @@ generated_at: "2026-03-30T02:55:30.145Z"
 - **(e)** In any two-year period, no person shall be required to (1) serve or attend court for prospective service as a petit juror for a total of more than thirty days, except when necessary to complete service in a particular case, or (2) serve on more than one grand jury, or (3) serve as both a grand and petit juror.
 - **(f)** When there is an unanticipated shortage of available petit jurors drawn from the qualified jury wheel, the court may require the marshal to summon a sufficient number of petit jurors selected at random from the voter registration lists, lists of actual voters, or other lists specified in the plan, in a manner ordered by the court consistent with sections 1861 and 1862 of this title.
 - **(g)** Any person summoned for jury service who fails to appear as directed may be ordered by the district court to appear forthwith and show cause for failure to comply with the summons. Any person who fails to show good cause for noncompliance with a summons may be fined not more than $1,000, imprisoned not more than three days, ordered to perform community service, or any combination thereof.
+
+Act
+
+Act
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 952](https://www.govinfo.gov/link/statute/62/952); May 24, 1949, ch. 179, § 96, [63 Stat. 103](https://www.govinfo.gov/link/statute/63/103); [Pub. L. 90–274, § 101](https://www.govinfo.gov/link/plaw/90/public/274), Mar. 27, 1968, [82 Stat. 58](https://www.govinfo.gov/link/statute/82/58); [Pub. L. 91–543](https://www.govinfo.gov/link/plaw/91/public/543), Dec. 11, 1970, [84 Stat. 1408](https://www.govinfo.gov/link/statute/84/1408); [Pub. L. 95–572, § 2(b)](https://www.govinfo.gov/link/plaw/95/public/572), Nov. 2, 1978, [92 Stat. 2453](https://www.govinfo.gov/link/statute/92/2453); [Pub. L. 97–463, § 2](https://www.govinfo.gov/link/plaw/97/public/463), Jan. 12, 1983, [96 Stat. 2531](https://www.govinfo.gov/link/statute/96/2531); [Pub. L. 100–702, title VIII, § 801](https://www.govinfo.gov/link/plaw/100/public/702), Nov. 19, 1988, [102 Stat. 4657](https://www.govinfo.gov/link/statute/102/4657); [Pub. L. 110–406](https://www.govinfo.gov/link/plaw/110/public/406), §§ 4, 5(b), 17(b), Oct. 13, 2008, [122 Stat. 4292](https://www.govinfo.gov/link/statute/122/4292), 4295.)*

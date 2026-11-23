@@ -3,9 +3,10 @@ title: "Section 1703F - Credentialing verification requirements for providers of
 usc_title: 38
 usc_section: "1703F"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1703F"
-generated_at: "2026-03-30T02:55:53.482Z"
+generated_at: "2026-11-23T21:26:16.621Z"
+status: "active"
 ---
 
 # § 1703F. Credentialing verification requirements for providers of non-Department health care services
@@ -28,3 +29,13 @@ generated_at: "2026-03-30T02:55:53.482Z"
     - **(B)** provided under section 101 of the Veterans Access, Choice, and Accountability Act of 2014 ( Public Law 113–146 ; 38 U.S.C. 1701 note);
     - **(C)** purchased through the Medical Community Care account of the Department; or
     - **(D)** purchased with amounts deposited in the Veterans Choice Fund under section 802 of the Veterans Access, Choice, and Accountability Act of 2014 ( Public Law 113–146 ; 38 U.S.C. 1701 note).
+
+In General
+
+Requirements Specified
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 117–328, div. U, title I, § 141(a)(1)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5422](https://www.govinfo.gov/link/statute/136/5422).)*

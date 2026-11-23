@@ -3,12 +3,17 @@ title: "Section 356 - Furnishing description of lands and title documents; recor
 usc_title: 30
 usc_section: "356"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 356"
-generated_at: "2026-03-30T02:55:29.382Z"
+generated_at: "2026-11-23T21:26:00.381Z"
+status: "active"
 ---
 
 # § 356. Furnishing description of lands and title documents; recordation of documents; authenticated copies
 
 Upon request by the Secretary, the heads of all executive departments, independent establishments, or instrumentalities having jurisdiction over any of the lands referred to in section 351 of this title shall furnish to the Secretary the legal description of all of such lands, and all pertinent abstracts, title papers, and other documents in the possession of such agencies concerning the status of the title of the United States to the mineral deposits that may be found in such lands. Abstracts, title papers, and other documents furnished to the Secretary under this section shall be recorded promptly in the Bureau of Land Management in such form as the Secretary shall deem adequate for their preservation and use in the administration of this chapter, whereupon the originals shall be returned promptly to the agency from which they were received. Duly authenticated copies of any such abstracts, title papers, or other documents may, however, be furnished to the Secretary, in lieu of the originals, in the discretion of the agency concerned.
 
+
+## Source Credit
+
+*(Aug. 7, 1947, ch. 513, § 7, [61 Stat. 915](https://www.govinfo.gov/link/statute/61/915).)*

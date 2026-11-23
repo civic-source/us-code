@@ -3,9 +3,10 @@ title: "Section 2328 - Mandatory forfeiture"
 usc_title: 18
 usc_section: "2328"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2328"
-generated_at: "2026-03-30T02:54:16.502Z"
+generated_at: "2026-11-23T21:25:44.144Z"
+status: "active"
 ---
 
 # § 2328. Mandatory forfeiture
@@ -14,3 +15,11 @@ generated_at: "2026-03-30T02:54:16.502Z"
   - **(1)** any property, real or personal, constituting or traceable to gross proceeds obtained from such offense; and
   - **(2)** any equipment, software, or other technology used or intended to be used to commit or to facilitate the commission of such offense.
 - **(b)** The procedures set forth in section 413 of the Controlled Substances Act ( 21 U.S.C. 853 ), other than subsection (d) of that section, and in Rule 32.2 of the Federal Rules of Criminal Procedure, shall apply to all stages of a criminal forfeiture proceeding under this section.
+
+In General
+
+Procedures
+
+## Source Credit
+
+*(Added [Pub. L. 115–70, title IV, § 402(a)(4)](https://www.govinfo.gov/link/plaw/115/public/70), Oct. 18, 2017, [131 Stat. 1214](https://www.govinfo.gov/link/statute/131/1214).)*

@@ -3,9 +3,10 @@ title: "Section 70 - Definitions"
 usc_title: 15
 usc_section: "70"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 70"
-generated_at: "2026-03-30T02:54:08.029Z"
+generated_at: "2026-11-23T21:25:39.498Z"
+status: "active"
 ---
 
 # § 70. Definitions
@@ -28,3 +29,7 @@ As used in this subchapter—
 - **(k)** The term “commerce” means commerce among the several States or with foreign nations, or in any Territory of the United States or in the District of Columbia, or between any such Territory and another, or between any such Territory and any State or foreign nation or between the District of Columbia and any State or Territory or foreign nation.
 - **(l)** The term “Territory” includes the insular possessions of the United States, and also any Territory of the United States.
 - **(m)** The term “ultimate consumer” means a person who obtains a textile fiber product by purchase or exchange with no intent to sell or exchange such textile fiber product in any form.
+
+## Source Credit
+
+*([Pub. L. 85–897, § 2](https://www.govinfo.gov/link/plaw/85/public/897), Sept. 2, 1958, [72 Stat. 1717](https://www.govinfo.gov/link/statute/72/1717).)*

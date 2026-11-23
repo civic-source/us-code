@@ -3,9 +3,10 @@ title: "Section 7772 - Heritage Center for the National Museum of the United Sta
 usc_title: 10
 usc_section: "7772"
 chapter: 779
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 7772"
-generated_at: "2026-03-30T02:53:38.236Z"
+generated_at: "2026-11-23T21:25:32.878Z"
+status: "active"
 ---
 
 # § 7772. Heritage Center for the National Museum of the United States Army: development and operation
@@ -28,3 +29,21 @@ generated_at: "2026-03-30T02:53:38.236Z"
   - **(2)** The annual amount of consideration paid to the Secretary by the Army Historical Foundation for a lease under paragraph (1) may not exceed an amount equal to the actual cost, as determined by the Secretary, of the annual operations and maintenance of the Center.
   - **(3)** Notwithstanding any other provision of law, the Secretary shall use amounts paid under paragraph (2) to cover the costs of operation of the Center.
 - **(g)** The Secretary of the Army may require such additional terms and conditions in connection with the agreement authorized by subsection (a) as the Secretary considers appropriate to protect the interests of the United States.
+
+Agreement for Development of Center
+
+Purpose of Center
+
+Design and Construction
+
+Acceptance by Secretary
+
+Use of Certain Gifts
+
+Lease of Facility
+
+Additional Terms and Conditions
+
+## Source Credit
+
+*(Added [Pub. L. 108–375, div. B, title XXVIII, § 2822(a)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2130](https://www.govinfo.gov/link/statute/118/2130), § 4772; amended [Pub. L. 113–291, div. B, title XXVIII, § 2851](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3713](https://www.govinfo.gov/link/statute/128/3713); renumbered § 7772, [Pub. L. 115–232, div. A, title VIII, § 808(d)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1839](https://www.govinfo.gov/link/statute/132/1839).)*

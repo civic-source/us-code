@@ -3,12 +3,17 @@ title: "Section 1199 - Chapter as additional legislation"
 usc_title: 15
 usc_section: "1199"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1199"
-generated_at: "2026-03-30T02:54:08.129Z"
+generated_at: "2026-11-23T21:25:39.801Z"
+status: "active"
 ---
 
 # § 1199. Chapter as additional legislation
 
 The provisions of this chapter shall be held to be in addition to, and not in substitution for or limitation of, the provisions of any other law. If any provision of this chapter or the application thereof to any person or circumstances is held invalid the remainder of the chapter and the application of such provisions to any other person or circumstances shall not be affected thereby.
 
+
+## Source Credit
+
+*(June 30, 1953, ch. 164, § 10, [67 Stat. 115](https://www.govinfo.gov/link/statute/67/115).)*

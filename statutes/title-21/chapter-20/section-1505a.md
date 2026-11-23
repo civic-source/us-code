@@ -3,9 +3,10 @@ title: "Section 1505a - Annual report on development and deployment of narcotics
 usc_title: 21
 usc_section: "1505a"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 1505a"
-generated_at: "2026-03-30T02:54:54.302Z"
+generated_at: "2026-11-23T21:25:56.276Z"
+status: "active"
 ---
 
 # § 1505a. Annual report on development and deployment of narcotics detection technologies
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:54.302Z"
   - **(3)** the amount of funds obligated or expended to carry out each project described in paragraph (1) during the fiscal year in which the report is submitted or during any fiscal year preceding the fiscal year in which the report is submitted;
   - **(4)** the amount of funds estimated to be obligated or expended for each project described in paragraph (1) during any fiscal year after the fiscal year in which the report is submitted to Congress; and
   - **(5)** a detailed timeline for implementation of each project described in paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 105–85, div. A, title X, § 1034](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1884](https://www.govinfo.gov/link/statute/111/1884); [Pub. L. 107–296, title XVII, § 1704(e)(10)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2315](https://www.govinfo.gov/link/statute/116/2315).)*

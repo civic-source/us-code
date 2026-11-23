@@ -3,9 +3,10 @@ title: "Section 963 - Minimum requirements"
 usc_title: 6
 usc_section: "963"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 963"
-generated_at: "2026-03-30T02:53:09.502Z"
+generated_at: "2026-11-23T21:25:25.855Z"
+status: "active"
 ---
 
 # § 963. Minimum requirements
@@ -23,3 +24,7 @@ An applicant seeking to participate in C–TPAT shall—
     - **(G)** information technology security;
   - **(3)** implement and maintain security measures and supply chain security practices meeting security criteria established by the Commissioner; and
   - **(4)** meet all other requirements established by the Commissioner, in consultation with the Commercial Operations Advisory Committee.
+
+## Source Credit
+
+*([Pub. L. 109–347, title II, § 213](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1909](https://www.govinfo.gov/link/statute/120/1909).)*

@@ -3,9 +3,10 @@ title: "Section 2404 - Administration"
 usc_title: 38
 usc_section: "2404"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 2404"
-generated_at: "2026-03-30T02:55:53.497Z"
+generated_at: "2026-11-23T21:26:16.704Z"
+status: "active"
 ---
 
 # § 2404. Administration
@@ -40,3 +41,13 @@ generated_at: "2026-03-30T02:55:53.497Z"
   - **(2)** In this subsection, the term “green burial section” means a section of a cemetery in which the remains of individuals interred in that section—
     - **(A)** have been prepared for interment in a manner that does not involve chemicals or embalming fluids; and
     - **(B)** have been interred in a natural manner or in completely biodegradable burial receptacles.
+
+Study
+
+Matters Studied
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 93–43, § 2(a)](https://www.govinfo.gov/link/plaw/93/public/43), June 18, 1973, [87 Stat. 76](https://www.govinfo.gov/link/statute/87/76), § 1004; amended [Pub. L. 99–576, title IV, § 411](https://www.govinfo.gov/link/plaw/99/public/576), title VII, § 701(55), Oct. 28, 1986, [100 Stat. 3283](https://www.govinfo.gov/link/statute/100/3283), 3295; [Pub. L. 100–322, title III](https://www.govinfo.gov/link/plaw/100/public/322), §§ 341(a), 342, May 20, 1988, [102 Stat. 539](https://www.govinfo.gov/link/statute/102/539), 540; [Pub. L. 101–237, title III, § 313(b)(1)](https://www.govinfo.gov/link/plaw/101/public/237), Dec. 18, 1989, [103 Stat. 2077](https://www.govinfo.gov/link/statute/103/2077); [Pub. L. 102–54, § 14(b)(21)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 284](https://www.govinfo.gov/link/statute/105/284); renumbered § 2404 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(a)(3), (4), (b)(7), 5(a), Aug. 6, 1991, [105 Stat. 404–406](https://www.govinfo.gov/link/statute/105/404); [Pub. L. 112–260, title I, § 102(a)](https://www.govinfo.gov/link/plaw/112/public/260), Jan. 10, 2013, [126 Stat. 2418](https://www.govinfo.gov/link/statute/126/2418); [Pub. L. 117–355, § 3](https://www.govinfo.gov/link/plaw/117/public/355), Jan. 5, 2023, [136 Stat. 6278](https://www.govinfo.gov/link/statute/136/6278); [Pub. L. 118–83, div. B, title III, § 313](https://www.govinfo.gov/link/plaw/118/public/83), Sept. 26, 2024, [138 Stat. 1540](https://www.govinfo.gov/link/statute/138/1540).)*

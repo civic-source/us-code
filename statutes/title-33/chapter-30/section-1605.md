@@ -3,9 +3,10 @@ title: "Section 1605 - Navy and Coast Guard vessels of special construction or p
 usc_title: 33
 usc_section: "1605"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1605"
-generated_at: "2026-03-30T02:55:41.109Z"
+generated_at: "2026-11-23T21:26:11.411Z"
+status: "active"
 ---
 
 # § 1605. Navy and Coast Guard vessels of special construction or purpose
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:41.109Z"
 - **(b)** Whenever a certification is issued under the authority of subsection (a) of this section, the vessel involved shall comply with the requirement as to which the certification is made to the extent that the Secretary issuing the certification shall certify as the closest possible compliance by that vessel.
 - **(c)** Notice of the certifications issued pursuant to subsections (a) and (b) of this section shall be published in the Federal Register.
 - **(d)** A certification authorized by this section may be issued for a class of vessels.
+
+## Source Credit
+
+*([Pub. L. 95–75, § 6](https://www.govinfo.gov/link/plaw/95/public/75), July 27, 1977, [91 Stat. 309](https://www.govinfo.gov/link/statute/91/309); [Pub. L. 96–591, § 6(2)](https://www.govinfo.gov/link/plaw/96/public/591), Dec. 24, 1980, [94 Stat. 3434](https://www.govinfo.gov/link/statute/94/3434).)*

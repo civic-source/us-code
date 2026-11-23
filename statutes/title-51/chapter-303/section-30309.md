@@ -3,9 +3,10 @@ title: "Section 30309 - Use of abandoned and underutilized buildings, grounds, a
 usc_title: 51
 usc_section: "30309"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 30309"
-generated_at: "2026-03-30T02:56:28.705Z"
+generated_at: "2026-11-23T21:26:42.535Z"
+status: "active"
 ---
 
 # § 30309. Use of abandoned and underutilized buildings, grounds, and facilities
@@ -19,3 +20,28 @@ generated_at: "2026-03-30T02:56:28.705Z"
     - **(B)** considered by the head of the agency involved to be—
       - **(i)** excess to the needs of that agency; or
       - **(ii)** underutilized by that agency.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30309 | 42 U.S.C. 2473d . | Pub. L. 106–391, title III, § 325 , Oct. 30, 2000 , 114 Stat. 1600 . |
+
+
+Definition of Depressed Communities
+
+In General
+
+Historical and Revision Notes
+
+30309
+
+42 U.S.C. 2473d
+
+Pub. L. 106–391, title III, § 325
+
+Oct. 30, 2000
+
+114 Stat. 1600
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3366](https://www.govinfo.gov/link/statute/124/3366).)*

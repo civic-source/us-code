@@ -3,9 +3,10 @@ title: "Section 3922 - Utilization of Foreign Service personnel system by other 
 usc_title: 22
 usc_section: "3922"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3922"
-generated_at: "2026-03-30T02:55:05.398Z"
+generated_at: "2026-11-23T21:25:58.600Z"
+status: "active"
 ---
 
 # § 3922. Utilization of Foreign Service personnel system by other agencies
@@ -24,3 +25,13 @@ generated_at: "2026-03-30T02:55:05.398Z"
 - **(b)** Subject to section 3921(b) of this title —
   - **(1)** the agency heads referred to in subsection (a), and
   - **(2)** the head of any other agency (to the extent authority to utilize the Foreign Service personnel system is granted to such agency head under any other chapter),
+
+Section
+
+Sec
+
+Dwight D. Eisenhower.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 202](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2078](https://www.govinfo.gov/link/statute/94/2078); [Pub. L. 97–241, title III, § 303(b)](https://www.govinfo.gov/link/plaw/97/public/241), Aug. 24, 1982, [96 Stat. 291](https://www.govinfo.gov/link/statute/96/291); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XIII, § 1335(k)(1), title XIV, § 1422(b)(4)(A), Oct. 21, 1998, [112 Stat. 2681–789](https://www.govinfo.gov/link/statute/112/2681), 2681–793; [Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 332]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–439.)*

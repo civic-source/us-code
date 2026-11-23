@@ -3,9 +3,10 @@ title: "Section 7261 - Disclosures in periodic reports"
 usc_title: 15
 usc_section: "7261"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7261"
-generated_at: "2026-03-30T02:54:08.221Z"
+generated_at: "2026-11-23T21:25:40.050Z"
+status: "active"
 ---
 
 # § 7261. Disclosures in periodic reports
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:08.221Z"
     - **(C)** whether generally accepted accounting principles or the rules of the Commission result in financial statements of issuers reflecting the economics of such transactions to investors in a transparent fashion;
     - **(D)** whether generally accepted accounting principles specifically result in the consolidation of special purpose entities sponsored by an issuer in cases in which the issuer has the majority of the risks and rewards of the special purpose entity; and
     - **(E)** any recommendations of the Commission for improving the transparency and quality of reporting off-balance sheet transactions in the financial statements and disclosures required to be filed by an issuer with the Commission.
+
+## Source Credit
+
+*([Pub. L. 107–204, title IV, § 401](https://www.govinfo.gov/link/plaw/107/public/204), July 30, 2002, [116 Stat. 785](https://www.govinfo.gov/link/statute/116/785).)*

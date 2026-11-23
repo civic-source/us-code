@@ -3,9 +3,10 @@ title: "Section 7105 - Powers and duties of the Authority"
 usc_title: 5
 usc_section: "7105"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 7105"
-generated_at: "2026-03-30T02:52:56.034Z"
+generated_at: "2026-11-23T21:25:23.334Z"
+status: "active"
 ---
 
 # § 7105. Powers and duties of the Authority
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:52:56.034Z"
   - **(3)** may require an agency or a labor organization to cease and desist from violations of this chapter and require it to take any remedial action it considers appropriate to carry out the policies of this chapter.
 - **(h)** Except as provided in section 518 of title 28 , relating to litigation before the Supreme Court, attorneys designated by the Authority may appear for the Authority and represent the Authority in any civil action brought in connection with any function carried out by the Authority pursuant to this title or as otherwise authorized by law.
 - **(i)** In the exercise of the functions of the Authority under this title, the Authority may request from the Director of the Office of Personnel Management an advisory opinion concerning the proper interpretation of rules, regulations, or policy directives issued by the Office of Personnel Management in connection with any matter before the Authority.
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title VII, § 701](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1196](https://www.govinfo.gov/link/statute/92/1196).)*

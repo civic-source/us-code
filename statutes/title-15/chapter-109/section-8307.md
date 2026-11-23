@@ -3,9 +3,10 @@ title: "Section 8307 - Studies"
 usc_title: 15
 usc_section: "8307"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8307"
-generated_at: "2026-03-30T02:54:08.229Z"
+generated_at: "2026-11-23T21:25:40.080Z"
+status: "active"
 ---
 
 # § 8307. Studies
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:08.229Z"
     - **(B)** If the Commissions determine that stable value contracts fall within the definition of a swap, the Commissions jointly shall determine if an exemption for stable value contracts from the definition of swap is appropriate and in the public interest. The Commissions shall issue regulations implementing the determinations required under this paragraph. Until the effective date of such regulations, and notwithstanding any other provision of this title, 1 the requirements of this title 1 shall not apply to stable value contracts.
     - **(C)** Stable value contracts in effect prior to the effective date of the regulations described in subparagraph (B) shall not be considered swaps.
   - **(2)** For purposes of this subsection, the term “stable value contract” means any contract, agreement, or transaction that provides a crediting interest rate and guaranty or financial assurance of liquidity at contract or book value prior to maturity offered by a bank, insurance company, or other State or federally regulated financial institution for the benefit of any individual or commingled fund available as an investment in an employee benefit plan (as defined in section 1002(3) of title 29 , including plans described in section 1002(32) of title 29 ) subject to participant direction, an eligible deferred compensation plan (as defined in section 457(b) of title 26 ) that is maintained by an eligible employer described in section 457(e)(1)(A) of title 26 , an arrangement described in section 403(b) of title 26 , or a qualified tuition program (as defined in section 529 of title 26 ).
+
+## Source Credit
+
+*([Pub. L. 111–203, title VII, § 719](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1654](https://www.govinfo.gov/link/statute/124/1654).)*

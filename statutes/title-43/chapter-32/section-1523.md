@@ -3,9 +3,10 @@ title: "Section 1523 - Power requirements of Central Arizona Project and augment
 usc_title: 43
 usc_section: "1523"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1523"
-generated_at: "2026-03-30T02:55:57.475Z"
+generated_at: "2026-11-23T21:26:19.844Z"
+status: "active"
 ---
 
 # § 1523. Power requirements of Central Arizona Project and augmentation of Lower Colorado River Basin Development Fund
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:57.475Z"
   - **(4)** costs to be borne by the United States under clauses (1) and (2) shall not include (a) interest and interest during construction, (b) financing charges, (c) franchise fees, and (d) such other costs as shall be specified in the agreement.
 - **(c)** No later than one year from September 30, 1968 , the Secretary shall submit his recommended plan to the Congress. Except as authorized by subsection (b) of this section, such plan shall not become effective until approved by the Congress.
 - **(d)** If any thermal generating plant referred to in subsection (b) of this section is located in Arizona, and if it is served by water diverted from the drainage area of the Colorado River system above Lee Ferry, other provisions of existing law to the contrary notwithstanding, such consumptive use of water shall be a part of the fifty thousand acre-feet per annum apportioned to the State of Arizona by article III(a) of the Upper Colorado River Basin Compact ( 63 Stat. 31 ).
+
+## Source Credit
+
+*([Pub. L. 90–537, title III, § 303](https://www.govinfo.gov/link/plaw/90/public/537), Sept. 30, 1968, [82 Stat. 889](https://www.govinfo.gov/link/statute/82/889).)*

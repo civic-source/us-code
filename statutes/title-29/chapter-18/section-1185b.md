@@ -3,9 +3,10 @@ title: "Section 1185b - Required coverage for reconstructive surgery following m
 usc_title: 29
 usc_section: "1185b"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1185b"
-generated_at: "2026-03-30T02:55:18.724Z"
+generated_at: "2026-11-23T21:26:02.272Z"
+status: "active"
 ---
 
 # § 1185b. Required coverage for reconstructive surgery following mastectomies
@@ -25,3 +26,11 @@ generated_at: "2026-03-30T02:55:18.724Z"
 - **(e)**
   - **(1)** Nothing in this section shall be construed to preempt any State law in effect on October 21, 1998 , with respect to health insurance coverage that requires coverage of at least the coverage of reconstructive breast surgery otherwise required under this section.
   - **(2)** Nothing in this section shall be construed to affect or modify the provisions of section 1144 of this title with respect to group health plans.
+
+In general
+
+Special rule for collective bargaining agreements
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 713](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 105–277, div. A, § 101(f) [title IX, § 902(a)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–436.)*

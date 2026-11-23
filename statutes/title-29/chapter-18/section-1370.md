@@ -3,9 +3,10 @@ title: "Section 1370 - Enforcement authority relating to terminations of single-
 usc_title: 29
 usc_section: "1370"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1370"
-generated_at: "2026-03-30T02:55:18.734Z"
+generated_at: "2026-11-23T21:26:02.296Z"
+status: "active"
 ---
 
 # § 1370. Enforcement authority relating to terminations of single-employer plans
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:18.734Z"
     - **(A)** Except as provided in subparagraph (B), the applicable date specified in this paragraph is the earliest date on which the plaintiff acquired or should have acquired actual knowledge of the existence of such cause of action.
     - **(B)** In the case of a plaintiff who is a fiduciary bringing the action in the exercise of fiduciary duties, the applicable date specified in this paragraph is the date on which the plaintiff became a fiduciary with respect to the plan if such date is later than the date described in subparagraph (A).
   - **(3)** In the case of fraud or concealment, the period described in paragraph (1)(B) shall be extended to 6 years after the applicable date specified in paragraph (2).
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4070](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 99–272, title XI, § 11014(a)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 261](https://www.govinfo.gov/link/statute/100/261); amended [Pub. L. 101–239, title VII, § 7881(f)(8)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2440](https://www.govinfo.gov/link/statute/103/2440).)*

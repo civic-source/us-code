@@ -3,9 +3,10 @@ title: "Section 0a - Investigational drugs for use by eligible patients"
 usc_title: 21
 usc_section: "0a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 0a"
-generated_at: "2026-03-30T02:54:54.255Z"
+generated_at: "2026-11-23T21:25:56.097Z"
+status: "active"
 ---
 
 # § 360bbb–0a. Investigational drugs for use by eligible patients
@@ -39,3 +40,13 @@ generated_at: "2026-03-30T02:54:54.255Z"
     - **(A)** used in accordance with subsection (c)(1)(A);
     - **(B)** used in accordance with subsection (c)(1)(B); and
     - **(C)** not used in the review of an application under section 355 of this title or section 351 of the Public Health Service Act [ 42 U.S.C. 262 ].
+
+Alleged acts or omissions
+
+Determination not to provide drug
+
+Limitation
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 561B, as added [Pub. L. 115–176, § 2(a)](https://www.govinfo.gov/link/plaw/115/public/176), May 30, 2018, [132 Stat. 1372](https://www.govinfo.gov/link/statute/132/1372).)*

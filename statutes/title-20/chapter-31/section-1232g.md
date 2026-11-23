@@ -3,9 +3,10 @@ title: "Section 1232g - Family educational and privacy rights"
 usc_title: 20
 usc_section: "1232g"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1232g"
-generated_at: "2026-03-30T02:54:48.157Z"
+generated_at: "2026-11-23T21:25:47.303Z"
+status: "active"
 ---
 
 # § 1232g. Family educational and privacy rights
@@ -99,3 +100,9 @@ generated_at: "2026-03-30T02:54:48.157Z"
     - **(B)** The court shall issue an order described in paragraph (1) if the court finds that the application for the order includes the certification described in subparagraph (A).
   - **(3)** An educational agency or institution that, in good faith, produces education records in accordance with an order issued under this subsection shall not be liable to any person for that production.
   - **(4)** Subsection (b)(4) does not apply to education records subject to a court order under this subsection.
+
+In general
+
+## Source Credit
+
+*([Pub. L. 90–247, title IV, § 444](https://www.govinfo.gov/link/plaw/90/public/247), formerly § 438, as added [Pub. L. 93–380, title V, § 513(a)](https://www.govinfo.gov/link/plaw/93/public/380), Aug. 21, 1974, [88 Stat. 571](https://www.govinfo.gov/link/statute/88/571); amended [Pub. L. 93–568, § 2(a)](https://www.govinfo.gov/link/plaw/93/public/568), Dec. 31, 1974, [88 Stat. 1858](https://www.govinfo.gov/link/statute/88/1858); [Pub. L. 96–46, § 4(c)](https://www.govinfo.gov/link/plaw/96/public/46), Aug. 6, 1979, [93 Stat. 342](https://www.govinfo.gov/link/statute/93/342); [Pub. L. 101–542, title II, § 203](https://www.govinfo.gov/link/plaw/101/public/542), Nov. 8, 1990, [104 Stat. 2385](https://www.govinfo.gov/link/statute/104/2385); [Pub. L. 102–325, title XV, § 1555(a)](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 840](https://www.govinfo.gov/link/statute/106/840); renumbered § 444 and amended [Pub. L. 103–382, title II](https://www.govinfo.gov/link/plaw/103/public/382), §§ 212(b)(1), 249, 261(h), Oct. 20, 1994, [108 Stat. 3913](https://www.govinfo.gov/link/statute/108/3913), 3924, 3928; [Pub. L. 105–244, title IX](https://www.govinfo.gov/link/plaw/105/public/244), §§ 951, 952, Oct. 7, 1998, [112 Stat. 1835](https://www.govinfo.gov/link/statute/112/1835), 1836; [Pub. L. 106–386, div. B, title VI, § 1601(d)](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1538](https://www.govinfo.gov/link/statute/114/1538); [Pub. L. 107–56, title V, § 507](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 367](https://www.govinfo.gov/link/statute/115/367); [Pub. L. 107–110, title X, § 1062(3)](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2088](https://www.govinfo.gov/link/statute/115/2088); [Pub. L. 111–296, title I, § 103(d)](https://www.govinfo.gov/link/plaw/111/public/296), Dec. 13, 2010, [124 Stat. 3192](https://www.govinfo.gov/link/statute/124/3192); [Pub. L. 112–278, § 2](https://www.govinfo.gov/link/plaw/112/public/278), Jan. 14, 2013, [126 Stat. 2480](https://www.govinfo.gov/link/statute/126/2480).)*

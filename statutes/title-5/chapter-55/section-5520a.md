@@ -3,9 +3,10 @@ title: "Section 5520a - Garnishment of pay"
 usc_title: 5
 usc_section: "5520a"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5520a"
-generated_at: "2026-03-30T02:52:56.018Z"
+generated_at: "2026-11-23T21:25:23.268Z"
+status: "active"
 ---
 
 # § 5520a. Garnishment of pay
@@ -49,3 +50,13 @@ generated_at: "2026-03-30T02:52:56.018Z"
     - **(A)** the involuntary allotment of the pay of a member of the uniformed services for indebtedness owed a third party as determined by the final judgment of a court of competent jurisdiction, and as further determined by competent military or executive authority, as appropriate, to be in compliance with the procedural requirements of the Servicemembers Civil Relief Act (50 App. U.S.C. 501 et seq.); 1 1 See References in Text note below. and
     - **(B)** consideration for the absence of a member of the uniformed service from an appearance in a judicial proceeding resulting from the exigencies of military duty.
   - **(3)** The Secretaries of the Executive departments concerned shall promulgate regulations under this subsection that are, as far as practicable, uniform for all of the uniformed services. The Secretary of Defense shall consult with the Secretary of Homeland Security with regard to the promulgation of such regulations that might affect members of the Coast Guard when the Coast Guard is operating as a service in the Navy.
+
+Section
+
+Sec
+
+William J. Clinton.
+
+## Source Credit
+
+*(Added [Pub. L. 103–94, § 9(a)](https://www.govinfo.gov/link/plaw/103/public/94), Oct. 6, 1993, [107 Stat. 1007](https://www.govinfo.gov/link/statute/107/1007); amended [Pub. L. 104–106, div. A, title VI, § 643](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 368](https://www.govinfo.gov/link/statute/110/368); [Pub. L. 104–193, title III, § 362(b)(2)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2246](https://www.govinfo.gov/link/statute/110/2246); [Pub. L. 105–85, div. A, title XI, § 1105](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1923](https://www.govinfo.gov/link/statute/111/1923); [Pub. L. 108–189, § 2(b)(1)](https://www.govinfo.gov/link/plaw/108/public/189), Dec. 19, 2003, [117 Stat. 2865](https://www.govinfo.gov/link/statute/117/2865); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 109–241, title IX, § 902(a)(3)](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 566](https://www.govinfo.gov/link/statute/120/566); [Pub. L. 109–435, title VI, § 604(f)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3242](https://www.govinfo.gov/link/statute/120/3242).)*

@@ -3,9 +3,10 @@ title: "Section 4 - Program requirements"
 usc_title: 42
 usc_section: "4"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-30T02:56:11.091Z"
+generated_at: "2026-11-23T21:26:32.040Z"
+status: "active"
 ---
 
 # § 1437bbb–4. Program requirements
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.091Z"
   - **(4)** Paragraphs (2) and (3) of section 1437f( o ) of this title (to the extent such paragraphs limit the amount of rent paid by families assisted with tenant-based assistance).
   - **(5)** Section 1437p of this title (relating to demolition or disposition of public housing).
 - **(b)** A participating jurisdiction shall provide assistance using amounts received pursuant to this subchapter in the manner set forth in the plan of the jurisdiction approved by the Secretary under section 1437bbb–5(a)(2) of this title .
+
+## Source Credit
+
+*(Sept. 1, 1937, ch. 896, title IV, § 405, as added [Pub. L. 105–276, title V, § 561](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2619](https://www.govinfo.gov/link/statute/112/2619).)*

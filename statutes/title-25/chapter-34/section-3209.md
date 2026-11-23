@@ -3,9 +3,10 @@ title: "Section 3209 - National Indian Child Resource and Family Services Center
 usc_title: 25
 usc_section: "3209"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3209"
-generated_at: "2026-03-30T02:54:52.850Z"
+generated_at: "2026-11-23T21:25:54.688Z"
+status: "active"
 ---
 
 # § 3209. National Indian Child Resource and Family Services Center
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:52.850Z"
 - **(f)** The Secretary shall establish an advisory board to advise and assist the National Indian Child Resource and Family Services Center in carrying out its activities under this section. The advisory board shall consist of 12 members appointed by the Secretary from Indian Tribes, Tribal organizations, and urban Indian organizations with expertise in child abuse and child neglect. Members shall serve without compensation, but may be reimbursed for travel and other expenses while carrying out the duties of the board. The advisory board shall assist the Center in coordinating programs, identifying training and technical assistance materials, and developing intergovernmental agreements relating to family violence, child abuse, and child neglect.
 - **(g)** The National Indian Child Resource and Family Services Center shall be subject to the provisions of the Indian Self-Determination Act [ 25 U.S.C. 5321 et seq.]. The Secretary may also contract for the operation of the Center with a nonprofit Indian organization governed by an Indian-controlled board of directors that have substantial experience in child abuse, child neglect, and family violence involving Indian children and families.
 - **(h)** There are authorized to be appropriated to carry out the provisions of this section $3,000,000 for each of the fiscal years 1992, 1993, 1994, 1995, 1996, and 1997.
+
+## Source Credit
+
+*([Pub. L. 101–630, title IV, § 410](https://www.govinfo.gov/link/plaw/101/public/630), Nov. 28, 1990, [104 Stat. 4552](https://www.govinfo.gov/link/statute/104/4552); [Pub. L. 104–16, § 1](https://www.govinfo.gov/link/plaw/104/public/16), June 21, 1995, [109 Stat. 190](https://www.govinfo.gov/link/statute/109/190); [Pub. L. 118–160, § 2(3)](https://www.govinfo.gov/link/plaw/118/public/160), Dec. 23, 2024, [138 Stat. 2568](https://www.govinfo.gov/link/statute/138/2568).)*

@@ -3,9 +3,10 @@ title: "Section 7412 - Hazardous air pollutants"
 usc_title: 42
 usc_section: "7412"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7412"
-generated_at: "2026-03-30T02:56:11.296Z"
+generated_at: "2026-11-23T21:26:33.081Z"
+status: "active"
 ---
 
 # § 7412. Hazardous air pollutants
@@ -360,3 +361,354 @@ generated_at: "2026-03-30T02:56:11.296Z"
   - **(2)** information with respect to compliance with such standards including the costs of compliance experienced by sources in various categories and subcategories;
   - **(3)** development and implementation of the national urban air toxics program; and
   - **(4)** recommendations of the Chemical Safety and Hazard Investigation Board with respect to the prevention and mitigation of accidental releases.
+
+| CAS number | Chemical name |
+| --- | --- |
+| 75070 | Acetaldehyde |
+| 60355 | Acetamide |
+| 75058 | Acetonitrile |
+| 98862 | Acetophenone |
+| 53963 | 2-Acetylaminofluorene |
+| 107028 | Acrolein |
+| 79061 | Acrylamide |
+| 79107 | Acrylic acid |
+| 107131 | Acrylonitrile |
+| 107051 | Allyl chloride |
+| 92671 | 4-Aminobiphenyl |
+| 62533 | Aniline |
+| 90040 | o-Anisidine |
+| 1332214 | Asbestos |
+| 71432 | Benzene (including benzene from gasoline) |
+| 92875 | Benzidine |
+| 98077 | Benzotrichloride |
+| 100447 | Benzyl chloride |
+| 92524 | Biphenyl |
+| 117817 | Bis(2-ethylhexyl)phthalate (DEHP) |
+| 542881 | Bis(chloromethyl)ether |
+| 75252 | Bromoform |
+| 106990 | 1,3-Butadiene |
+| 156627 | Calcium cyanamide |
+| 105602 | Caprolactam |
+| 133062 | Captan |
+| 63252 | Carbaryl |
+| 75150 | Carbon disulfide |
+| 56235 | Carbon tetrachloride |
+| 463581 | Carbonyl sulfide |
+| 120809 | Catechol |
+| 133904 | Chloramben |
+| 57749 | Chlordane |
+| 7782505 | Chlorine |
+| 79118 | Chloroacetic acid |
+| 532274 | 2-Chloroacetophenone |
+| 108907 | Chlorobenzene |
+| 510156 | Chlorobenzilate |
+| 67663 | Chloroform |
+| 107302 | Chloromethyl methyl ether |
+| 126998 | Chloroprene |
+| 1319773 | Cresols/Cresylic acid (isomers and mixture) |
+| 95487 | o-Cresol |
+| 108394 | m-Cresol |
+| 106445 | p-Cresol |
+| 98828 | Cumene |
+| 94757 | 2,4-D, salts and esters |
+| 3547044 | DDE |
+| 334883 | Diazomethane |
+| 132649 | Dibenzofurans |
+| 96128 | 1,2-Dibromo-3-chloropropane |
+| 84742 | Dibutylphthalate |
+| 106467 | 1,4-Dichlorobenzene(p) |
+| 91941 | 3,3-Dichlorobenzidene |
+| 111444 | Dichloroethyl ether (Bis(2-chloroethyl)ether) |
+| 542756 | 1,3-Dichloropropene |
+| 62737 | Dichlorvos |
+| 111422 | Diethanolamine |
+| 121697 | N,N-Diethyl aniline (N,N-Dimethylaniline) |
+| 64675 | Diethyl sulfate |
+| 119904 | 3,3-Dimethoxybenzidine |
+| 60117 | Dimethyl aminoazobenzene |
+| 119937 | 3,3′-Dimethyl benzidine |
+| 79447 | Dimethyl carbamoyl chloride |
+| 68122 | Dimethyl formamide |
+| 57147 | 1,1-Dimethyl hydrazine |
+| 131113 | Dimethyl phthalate |
+| 77781 | Dimethyl sulfate |
+| 534521 | 4,6-Dinitro-o-cresol, and salts |
+| 51285 | 2,4-Dinitrophenol |
+| 121142 | 2,4-Dinitrotoluene |
+| 123911 | 1,4-Dioxane (1,4-Diethyleneoxide) |
+| 122667 | 1,2-Diphenylhydrazine |
+| 106898 | Epichlorohydrin (l-Chloro-2,3-epoxypropane) |
+| 106887 | 1,2-Epoxybutane |
+| 140885 | Ethyl acrylate |
+| 100414 | Ethyl benzene |
+| 51796 | Ethyl carbamate (Urethane) |
+| 75003 | Ethyl chloride (Chloroethane) |
+| 106934 | Ethylene dibromide (Dibromoethane) |
+| 107062 | Ethylene dichloride (1,2-Dichloroethane) |
+| 107211 | Ethylene glycol |
+| 151564 | Ethylene imine (Aziridine) |
+| 75218 | Ethylene oxide |
+| 96457 | Ethylene thiourea |
+| 75343 | Ethylidene dichloride (1,1-Dichloroethane) |
+| 50000 | Formaldehyde |
+| 76448 | Heptachlor |
+| 118741 | Hexachlorobenzene |
+| 87683 | Hexachlorobutadiene |
+| 77474 | Hexachlorocyclopentadiene |
+| 67721 | Hexachloroethane |
+| 822060 | Hexamethylene-1,6-diisocyanate |
+| 680319 | Hexamethylphosphoramide |
+| 110543 | Hexane |
+| 302012 | Hydrazine |
+| 7647010 | Hydrochloric acid |
+| 7664393 | Hydrogen fluoride (Hydrofluoric acid) |
+| 123319 | Hydroquinone |
+| 78591 | Isophorone |
+| 58899 | Lindane (all isomers) |
+| 108316 | Maleic anhydride |
+| 67561 | Methanol |
+| 72435 | Methoxychlor |
+| 74839 | Methyl bromide (Bromomethane) |
+| 74873 | Methyl chloride (Chloromethane) |
+| 71556 | Methyl chloroform (1,1,1-Trichloroethane) |
+| 78933 | Methyl ethyl ketone (2-Butanone) |
+| 60344 | Methyl hydrazine |
+| 74884 | Methyl iodide (Iodomethane) |
+| 108101 | Methyl isobutyl ketone (Hexone) |
+| 624839 | Methyl isocyanate |
+| 80626 | Methyl methacrylate |
+| 1634044 | Methyl tert butyl ether |
+| 101144 | 4,4-Methylene bis(2-chloroaniline) |
+| 75092 | Methylene chloride (Dichloromethane) |
+| 101688 | Methylene diphenyl diisocyanate (MDI) |
+| 101779 | 4,4′-Methylenedianiline |
+| 91203 | Naphthalene |
+| 98953 | Nitrobenzene |
+| 92933 | 4-Nitrobiphenyl |
+| 100027 | 4-Nitrophenol |
+| 79469 | 2-Nitropropane |
+| 684935 | N-Nitroso-N-methylurea |
+| 62759 | N-Nitrosodimethylamine |
+| 59892 | N-Nitrosomorpholine |
+| 56382 | Parathion |
+| 82688 | Pentachloronitrobenzene (Quintobenzene) |
+| 87865 | Pentachlorophenol |
+| 108952 | Phenol |
+| 106503 | p-Phenylenediamine |
+| 75445 | Phosgene |
+| 7803512 | Phosphine |
+| 7723140 | Phosphorus |
+| 85449 | Phthalic anhydride |
+| 1336363 | Polychlorinated biphenyls (Aroclors) |
+| 1120714 | 1,3-Propane sultone |
+| 57578 | beta-Propiolactone |
+| 123386 | Propionaldehyde |
+| 114261 | Propoxur (Baygon) |
+| 78875 | Propylene dichloride (1,2-Dichloropropane) |
+| 75569 | Propylene oxide |
+| 75558 | 1,2-Propylenimine (2-Methyl aziridine) |
+| 91225 | Quinoline |
+| 106514 | Quinone |
+| 100425 | Styrene |
+| 96093 | Styrene oxide |
+| 1746016 | 2,3,7,8-Tetrachlorodibenzo-p-dioxin |
+| 79345 | 1,1,2,2-Tetrachloroethane |
+| 127184 | Tetrachloroethylene (Perchloroethylene) |
+| 7550450 | Titanium tetrachloride |
+| 108883 | Toluene |
+| 95807 | 2,4-Toluene diamine |
+| 584849 | 2,4-Toluene diisocyanate |
+| 95534 | o-Toluidine |
+| 8001352 | Toxaphene (chlorinated camphene) |
+| 120821 | 1,2,4-Trichlorobenzene |
+| 79005 | 1,1,2-Trichloroethane |
+| 79016 | Trichloroethylene |
+| 95954 | 2,4,5-Trichlorophenol |
+| 88062 | 2,4,6-Trichlorophenol |
+| 121448 | Triethylamine |
+| 1582098 | Trifluralin |
+| 540841 | 2,2,4-Trimethylpentane |
+| 108054 | Vinyl acetate |
+| 593602 | Vinyl bromide |
+| 75014 | Vinyl chloride |
+| 75354 | Vinylidene chloride (1,1-Dichloroethylene) |
+| 1330207 | Xylenes (isomers and mixture) |
+| 95476 | o-Xylenes |
+| 108383 | m-Xylenes |
+| 106423 | p-Xylenes |
+| 0 | Antimony Compounds |
+| 0 | Arsenic Compounds (inorganic including arsine) |
+| 0 | Beryllium Compounds |
+| 0 | Cadmium Compounds |
+| 0 | Chromium Compounds |
+| 0 | Cobalt Compounds |
+| 0 | Coke Oven Emissions |
+| 0 | Cyanide Compounds 1 |
+| 0 | Glycol ethers 2 |
+| 0 | Lead Compounds |
+| 0 | Manganese Compounds |
+| 0 | Mercury Compounds |
+| 0 | Fine mineral fibers 3 |
+| 0 | Nickel Compounds |
+| 0 | Polycylic Organic Matter 4 |
+| 0 | Radionuclides (including radon) 5 |
+| 0 | Selenium Compounds |
+
+
+NOTE: For all listings above which contain the word “compounds” and for glycol ethers, the following applies: Unless otherwise specified, these listings are defined as including any unique chemical substance that contains the named chemical (i.e., antimony, arsenic, etc.) as part of that chemical’s infrastructure. 1 X′CN where X = H′ or any other group where a formal dissociation may occur. For example KCN or Ca(CN) 2 . 2 Includes mono- and di- ethers of ethylene glycol, diethylene glycol, and triethylene glycol R–(OCH2CH2) n –OR′ where n = 1, 2, or 3 R = alkyl or aryl groups R′ = R, H, or groups which, when removed, yield glycol ethers with the structure: R–(OCH2CH) n –OH. Polymers are excluded from the glycol category. 3 Includes mineral fiber emissions from facilities manufacturing or processing glass, rock, or slag fibers (or other mineral derived fibers) of average diameter 1 micrometer or less. 4 Includes organic compounds with more than one benzene ring, and which have a boiling point greater than or equal to 100°C. 5 A type of atom which spontaneously undergoes radioactive decay.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Public access to off-site consequence analysis information.—
+
+Definitions
+
+Covered person
+
+(aa) an officer or employee of the United States;
+
+(bb) an officer or employee of an agent or contractor of the Federal Government;
+
+(cc) an officer or employee of a State or local government;
+
+(dd) an officer or employee of an agent or contractor of a State or local government;
+
+(ee) an individual affiliated with an entity that has been given, by a State or local government, responsibility for preventing, planning for, or responding to accidental releases;
+
+(ff) an officer or employee or an agent or contractor of an entity described in item (ee); and
+
+(gg) a qualified researcher under clause (vii).
+
+Official use
+
+Off-site consequence analysis information
+
+Risk management plan
+
+Regulations
+
+(aa) the increased risk of terrorist and other criminal activity associated with the posting of off-site consequence analysis information on the Internet; and
+
+(bb) the incentives created by public disclosure of off-site consequence analysis information for reduction in the risk of accidental releases; and
+
+(aa) allows access by any member of the public to paper copies of off-site consequence analysis information for a limited number of stationary sources located anywhere in the United States, without any geographical restriction;
+
+(bb) allows other public access to off-site consequence analysis information as appropriate;
+
+(cc) allows access for official use by a covered person described in any of items (cc) through (ff) of clause (i)(I) (referred to in this subclause as a “State or local covered person”) to off-site consequence analysis information relating to stationary sources located in the person’s State;
+
+(dd) allows a State or local covered person to provide, for official use, off-site consequence analysis information relating to stationary sources located in the person’s State to a State or local covered person in a contiguous State; and
+
+(ee) allows a State or local covered person to obtain for official use, by request to the Administrator, off-site consequence analysis information that is not available to the person under item (cc).
+
+Availability under freedom of information act.—
+
+First year
+
+After first year
+
+Applicability
+
+Availability of information during transition period
+
+Prohibition on unauthorized disclosure of information by covered persons.—
+
+In general
+
+Criminal penalties
+
+Applicability
+
+(aa) subclauses (I) and (II) shall not apply with respect to the information; and
+
+(bb) the owner or operator shall notify the Administrator of the public availability of the information.
+
+List
+
+Notice
+
+Qualified researchers.—
+
+In general
+
+Limitation on dissemination
+
+Read-only information technology system
+
+Voluntary industry accident prevention standards
+
+Effect on state or local law.—
+
+In general
+
+Availability of information under state law
+
+Report.—
+
+In general
+
+Interim report
+
+(aa) the preliminary findings under subclause (I);
+
+(bb) the methods used to develop the findings; and
+
+(cc) an explanation of the activities expected to occur that could cause the findings of the report under subclause (I) to be different than the preliminary findings.
+
+Availability of information
+
+Scope
+
+Authorization of appropriations
+
+Definition of accidental release
+
+Report on status of certain amendments
+
+Report on compliance with certain information submission requirements
+
+In General
+
+Enforcement
+
+Establishment
+
+Charge
+
+Membership
+
+Assistance from Agencies
+
+Staff and Contracts.—
+
+Report
+
+Authorization
+
+William J. Clinton.
+
+William J. Clinton.
+
+Barack Obama.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 112, as added [Pub. L. 91–604, § 4(a)](https://www.govinfo.gov/link/plaw/91/public/604), Dec. 31, 1970, [84 Stat. 1685](https://www.govinfo.gov/link/statute/84/1685); amended [Pub. L. 95–95, title I](https://www.govinfo.gov/link/plaw/95/public/95), §§ 109(d)(2), 110, title IV, § 401(c), Aug. 7, 1977, [91 Stat. 701](https://www.govinfo.gov/link/statute/91/701), 703, 791; [Pub. L. 95–623, § 13(b)](https://www.govinfo.gov/link/plaw/95/public/623), Nov. 9, 1978, [92 Stat. 3458](https://www.govinfo.gov/link/statute/92/3458); [Pub. L. 101–549, title III, § 301](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2531](https://www.govinfo.gov/link/statute/104/2531); [Pub. L. 102–187](https://www.govinfo.gov/link/plaw/102/public/187), Dec. 4, 1991, [105 Stat. 1285](https://www.govinfo.gov/link/statute/105/1285); [Pub. L. 105–362, title IV, § 402(b)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3283](https://www.govinfo.gov/link/statute/112/3283); [Pub. L. 106–40](https://www.govinfo.gov/link/plaw/106/public/40), §§ 2, 3(a), Aug. 5, 1999, [113 Stat. 207](https://www.govinfo.gov/link/statute/113/207), 208.)*

@@ -3,9 +3,10 @@ title: "Section 12241 - Purpose"
 usc_title: 34
 usc_section: "12241"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 12241"
-generated_at: "2026-03-30T02:55:33.284Z"
+generated_at: "2026-11-23T21:26:09.733Z"
+status: "active"
 ---
 
 # § 12241. Purpose
@@ -15,3 +16,7 @@ The purpose of this part is to evaluate the effectiveness of certain demonstrati
   - **(1)** alleviate the harm to children and primary caretaker parents caused by separation due to the incarceration of the parents;
   - **(2)** reduce recidivism rates of prisoners by encouraging strong and supportive family relationships; and
   - **(3)** explore the cost effectiveness of community correctional facilities.
+
+## Source Credit
+
+*([Pub. L. 103–322, title III, § 31902](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1892](https://www.govinfo.gov/link/statute/108/1892).)*

@@ -3,9 +3,10 @@ title: "Section 2116 - Military nursing research"
 usc_title: 10
 usc_section: "2116"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2116"
-generated_at: "2026-03-30T02:53:38.142Z"
+generated_at: "2026-11-23T21:25:32.557Z"
+status: "active"
 ---
 
 # § 2116. Military nursing research
@@ -32,3 +33,17 @@ generated_at: "2026-03-30T02:53:38.142Z"
   - **(9)** Preventive medicine issues.
   - **(10)** Home care management issues.
   - **(11)** Case management issues.
+
+Definitions
+
+Program Authorized
+
+TriService Research Group
+
+Duties of Group
+
+Research Topics
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title VII, § 741(a)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 384](https://www.govinfo.gov/link/statute/110/384).)*

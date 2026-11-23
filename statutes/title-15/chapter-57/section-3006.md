@@ -3,9 +3,10 @@ title: "Section 3006 - Civil action"
 usc_title: 15
 usc_section: "3006"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3006"
-generated_at: "2026-03-30T02:54:08.185Z"
+generated_at: "2026-11-23T21:25:39.960Z"
+status: "active"
 ---
 
 # § 3006. Civil action
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.185Z"
 - **(b)** In any civil action under this section, the host State, the host racing association and horsemen’s group, if not a party, shall be permitted to intervene as a matter of right.
 - **(c)** A civil action may not be commenced pursuant to this section more than 3 years after the discovery of the alleged violation upon which such civil action is based.
 - **(d)** Nothing in this chapter shall be construed to permit a State to be sued under this section other than in accordance with its applicable laws.
+
+## Source Credit
+
+*([Pub. L. 95–515, § 7](https://www.govinfo.gov/link/plaw/95/public/515), Oct. 25, 1978, [92 Stat. 1814](https://www.govinfo.gov/link/statute/92/1814).)*

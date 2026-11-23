@@ -3,9 +3,10 @@ title: "Section 657 - Distribution of collected support"
 usc_title: 42
 usc_section: "657"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 657"
-generated_at: "2026-03-30T02:56:10.883Z"
+generated_at: "2026-11-23T21:26:31.132Z"
+status: "active"
 ---
 
 # § 657. Distribution of collected support
@@ -57,3 +58,11 @@ generated_at: "2026-03-30T02:56:10.883Z"
   - **(1)** shall be retained by the State to the extent necessary to reimburse it for the foster care maintenance payments made with respect to the child during such period (with appropriate reimbursement of the Federal Government to the extent of its participation in the financing);
   - **(2)** shall be paid to the public agency responsible for supervising the placement of the child to the extent that the amounts collected exceed the foster care maintenance payments made with respect to the child during such period but not the amounts required by a court or administrative order to be paid as support on behalf of the child during such period; and the responsible agency may use the payments in the manner it determines will serve the best interests of the child, including setting such payments aside for the child’s future needs or making all or a part thereof available to the person responsible for meeting the child’s day-to-day needs; and
   - **(3)** shall be retained by the State, if any portion of the amounts collected remains after making the payments required under paragraphs (1) and (2), to the extent that such portion is necessary to reimburse the State (with appropriate reimbursement to the Federal Government to the extent of its participation in the financing) for any past foster care maintenance payments (or payments of assistance under the State program funded under part A) which were made with respect to the child (and with respect to which past collections have not previously been retained);
+
+In General
+
+Conforming amendments
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 457, as added [Pub. L. 93–647, § 101(a)](https://www.govinfo.gov/link/plaw/93/public/647), Jan. 4, 1975, [88 Stat. 2356](https://www.govinfo.gov/link/statute/88/2356); amended [Pub. L. 95–171, § 11](https://www.govinfo.gov/link/plaw/95/public/171), Nov. 12, 1977, [91 Stat. 1357](https://www.govinfo.gov/link/statute/91/1357); [Pub. L. 97–35, title XXIII, § 2332(e)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 862](https://www.govinfo.gov/link/statute/95/862); [Pub. L. 98–369, div. B, title VI, § 2640(b)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1145](https://www.govinfo.gov/link/statute/98/1145); [Pub. L. 98–378](https://www.govinfo.gov/link/plaw/98/public/378), §§ 7(a), 11(a), Aug. 16, 1984, [98 Stat. 1315](https://www.govinfo.gov/link/statute/98/1315), 1317; [Pub. L. 99–514, title XVIII](https://www.govinfo.gov/link/plaw/99/public/514), §§ 1883(b)(6), 1899(a), Oct. 22, 1986, [100 Stat. 2917](https://www.govinfo.gov/link/statute/100/2917), 2957; [Pub. L. 100–203, title IX, § 9141(a)(1)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–321](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–485, title I, § 102(b)](https://www.govinfo.gov/link/plaw/100/public/485), Oct. 13, 1988, [102 Stat. 2346](https://www.govinfo.gov/link/statute/102/2346); [Pub. L. 104–193, title III, § 302(a)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2200](https://www.govinfo.gov/link/statute/110/2200); [Pub. L. 105–33, title V](https://www.govinfo.gov/link/plaw/105/public/33), §§ 5532(a), (b)(1), (c)–(h), 5547, Aug. 5, 1997, [111 Stat. 626](https://www.govinfo.gov/link/statute/111/626), 627, 632; [Pub. L. 106–169, title III, § 301(a)](https://www.govinfo.gov/link/plaw/106/public/169), (c), title IV, § 401(j), (k), Dec. 14, 1999, [113 Stat. 1857](https://www.govinfo.gov/link/statute/113/1857), 1858; [Pub. L. 109–171, title VII](https://www.govinfo.gov/link/plaw/109/public/171), §§ 7301(b)(1)(A), (B)(i), (iii), (2), (c), 7310(b), Feb. 8, 2006, [120 Stat. 141–143](https://www.govinfo.gov/link/statute/120/141), 147.)*

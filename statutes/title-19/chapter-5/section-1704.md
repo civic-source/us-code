@@ -3,12 +3,17 @@ title: "Section 1704 - Refusal or revocation of registry, enrollment, license or
 usc_title: 19
 usc_section: "1704"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1704"
-generated_at: "2026-03-30T02:54:24.660Z"
+generated_at: "2026-11-23T21:25:42.760Z"
+status: "active"
 ---
 
 # § 1704. Refusal or revocation of registry, enrollment, license or number on evidence that vessel engaging in smuggling; appeal; immunity from liability
 
 Subject to appeal to the Secretary of the Treasury and under such regulations as he may prescribe, when the Secretary of Transportation is shown upon evidence which he deems sufficient that such vessel is being, or is intended to be, employed to smuggle, transport, or otherwise assist in the unlawful introduction or importation into the United States of any merchandise or person, or to smuggle any merchandise into the territory of any foreign government in violation of the laws there in force, if under the laws of such foreign government any penalty or forfeiture is provided for violation of the laws of the United States respecting the customs revenue, or whenever, from the design or fittings of any vessel or the nature of any repairs made thereon, it is apparent to the Secretary of Transportation that such vessel has been built or adapted for the purpose of smuggling merchandise, the the 1 1 So in original. Secretary of Transportation shall revoke any endorsement on the vessel’s certificate of documentation or number (when the Secretary is the authority issuing the number under chapter 123 of title 46) or refuse the same if application be made therefor, as the case may be. The Secretary of Transportation and all persons acting by or under his direction shall be indemnified from any penalties or actions for damages for carrying out the provisions of this section.
 
+
+## Source Credit
+
+*(Aug. 5, 1935, ch. 438, title I, § 4, [49 Stat. 519](https://www.govinfo.gov/link/statute/49/519); 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, [60 Stat. 1097](https://www.govinfo.gov/link/statute/60/1097); [Pub. L. 103–182, title VI, § 689(b)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2222](https://www.govinfo.gov/link/statute/107/2222).)*

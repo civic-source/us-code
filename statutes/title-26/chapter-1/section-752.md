@@ -3,9 +3,10 @@ title: "Section 752 - Treatment of certain liabilities"
 usc_title: 26
 usc_section: "752"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 752"
-generated_at: "2026-03-30T02:55:27.728Z"
+generated_at: "2026-11-23T21:26:06.380Z"
+status: "active"
 ---
 
 # § 752. Treatment of certain liabilities
@@ -14,3 +15,11 @@ generated_at: "2026-03-30T02:55:27.728Z"
 - **(b)** Any decrease in a partner’s share of the liabilities of a partnership, or any decrease in a partner’s individual liabilities by reason of the assumption by the partnership of such individual liabilities, shall be considered as a distribution of money to the partner by the partnership.
 - **(c)** For purposes of this section, a liability to which property is subject shall, to the extent of the fair market value of such property, be considered as a liability of the owner of the property.
 - **(d)** In the case of a sale or exchange of an interest in a partnership, liabilities shall be treated in the same manner as liabilities in connection with the sale or exchange of property not associated with partnerships.
+
+General Rule
+
+Regulations
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 251.)*

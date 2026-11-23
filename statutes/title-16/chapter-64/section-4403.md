@@ -3,9 +3,10 @@ title: "Section 4403 - Establishment of North American Wetlands Conservation Cou
 usc_title: 16
 usc_section: "4403"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4403"
-generated_at: "2026-03-30T02:54:23.043Z"
+generated_at: "2026-11-23T21:25:52.015Z"
+status: "active"
 ---
 
 # § 4403. Establishment of North American Wetlands Conservation Council
@@ -35,3 +36,11 @@ generated_at: "2026-03-30T02:54:23.043Z"
   - **(1)** who shall be educated and experienced in the principles of fish, wildlife, and wetlands conservation;
   - **(2)** who shall be responsible, with assistance from the United States Fish and Wildlife Service, for facilitating consideration of wetlands conservation projects by the Council and otherwise assisting the Council in carrying out its responsibilities under this chapter; and
   - **(3)** who shall be compensated with the funds available under section 4407(a)(1) of this title for administering this chapter.
+
+In General
+
+Publication of Policy
+
+## Source Credit
+
+*([Pub. L. 101–233, § 4](https://www.govinfo.gov/link/plaw/101/public/233), Dec. 13, 1989, [103 Stat. 1970](https://www.govinfo.gov/link/statute/103/1970); [Pub. L. 101–593, title I, § 112(1)](https://www.govinfo.gov/link/plaw/101/public/593) –(3), Nov. 16, 1990, [104 Stat. 2962](https://www.govinfo.gov/link/statute/104/2962); [Pub. L. 107–308, § 8(a)(6)](https://www.govinfo.gov/link/plaw/107/public/308), (7), (b)(1), Dec. 2, 2002, [116 Stat. 2447](https://www.govinfo.gov/link/statute/116/2447), 2448; [Pub. L. 116–188, title I, § 107(a)(2)](https://www.govinfo.gov/link/plaw/116/public/188), Oct. 30, 2020, [134 Stat. 917](https://www.govinfo.gov/link/statute/134/917); [Pub. L. 117–286, § 4(a)(122)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4319](https://www.govinfo.gov/link/statute/136/4319).)*

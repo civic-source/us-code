@@ -3,9 +3,10 @@ title: "Section 12134 - Regulations"
 usc_title: 42
 usc_section: "12134"
 chapter: 126
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12134"
-generated_at: "2026-03-30T02:56:11.408Z"
+generated_at: "2026-11-23T21:26:33.453Z"
+status: "active"
 ---
 
 # § 12134. Regulations
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:11.408Z"
 - **(a)** Not later than 1 year after July 26, 1990 , the Attorney General shall promulgate regulations in an accessible format that implement this part. Such regulations shall not include any matter within the scope of the authority of the Secretary of Transportation under section 12143, 12149, or 12164 of this title.
 - **(b)** Except for “program accessibility, existing facilities”, and “communications”, regulations under subsection (a) shall be consistent with this chapter and with the coordination regulations under part 41 of title 28, Code of Federal Regulations (as promulgated by the Department of Health, Education, and Welfare on January 13, 1978 ), applicable to recipients of Federal financial assistance under section 794 of title 29 . With respect to “program accessibility, existing facilities”, and “communications”, such regulations shall be consistent with regulations and analysis as in part 39 of title 28 of the Code of Federal Regulations, applicable to federally conducted activities under section 794 of title 29 .
 - **(c)** Regulations under subsection (a) shall include standards applicable to facilities and vehicles covered by this part, other than facilities, stations, rail passenger cars, and vehicles covered by part B. Such standards shall be consistent with the minimum guidelines and requirements issued by the Architectural and Transportation Barriers Compliance Board in accordance with section 12204(a) of this title .
+
+## Source Credit
+
+*([Pub. L. 101–336, title II, § 204](https://www.govinfo.gov/link/plaw/101/public/336), July 26, 1990, [104 Stat. 337](https://www.govinfo.gov/link/statute/104/337).)*

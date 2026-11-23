@@ -3,9 +3,10 @@ title: "Section 50901 - Confidentiality of peer support communications"
 usc_title: 34
 usc_section: "50901"
 chapter: 509
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 50901"
-generated_at: "2026-03-30T02:55:33.316Z"
+generated_at: "2026-11-23T21:26:09.855Z"
+status: "active"
 ---
 
 # § 50901. Confidentiality of peer support communications
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:55:33.316Z"
   - **(1)** an observation made by a law enforcement officer of a peer support participant outside of a peer support counseling session; or
   - **(2)** knowledge of a law enforcement officer about a peer support participant not gained from a peer support communication.
 - **(e)** Before the initial peer support counseling session of a peer support participant, a peer support specialist shall inform the peer support participant in writing of the confidentiality requirement under subsection (b) and the exceptions to the requirement under subsection (c).
+
+## Source Credit
+
+*([Pub. L. 117–60, § 2](https://www.govinfo.gov/link/plaw/117/public/60), Nov. 18, 2021, [135 Stat. 1470](https://www.govinfo.gov/link/statute/135/1470).)*

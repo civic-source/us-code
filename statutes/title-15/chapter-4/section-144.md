@@ -3,9 +3,10 @@ title: "Section 144 - China trade corporations"
 usc_title: 15
 usc_section: "144"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 144"
-generated_at: "2026-03-30T02:54:08.073Z"
+generated_at: "2026-11-23T21:25:39.606Z"
+status: "active"
 ---
 
 # § 144. China trade corporations
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.073Z"
   - **(7)** The fact that an amount equal to 25 per centum of the amount of the authorized capital stock has been in good faith subscribed to.
 - **(c)** A China Trade Act corporation shall not engage in the business of discounting bills, notes, or other evidences of debt, of receiving deposits, of buying and selling bills of exchange, or of issuing bills, notes, or other evidences of debt, for circulation as money; nor engage in any other form of banking business; nor engage in any form of insurance business; nor engage in, nor be formed to engage in, the business of owning or operating any vessel, unless the controlling interest in such corporation is owned by citizens of the United States, within the meaning of section 50501 of title 46 .
 - **(d)** No certificate of incorporation shall be delivered to a China Trade Act corporation and no incorporation shall be complete until at least 25 per centum of its authorized capital stock has been paid in cash, or, in accordance with the provisions of section 148 of this title , in real or personal property which has been placed in the custody of the directors, and such corporation has filed a statement to this effect under oath with the registrar within six months after the issuance of its certificate of incorporation, except that the registrar may grant additional time for the filing of such statement upon application made prior to the expiration of such six months. If any such corporation transacts business in violation of this subdivision of this section or fails to file such statement within six months, or within such time as the registrar prescribes upon such application, the registrar shall institute proceedings under section 154 of this title for the revocation of the certificate.
+
+## Source Credit
+
+*(Sept. 19, 1922, ch. 346, § 4, [42 Stat. 850](https://www.govinfo.gov/link/statute/42/850); Feb. 26, 1925, ch. 345, §§ 1–5, [43 Stat. 995](https://www.govinfo.gov/link/statute/43/995); June 25, 1938, ch. 696, § 1, [52 Stat. 1195](https://www.govinfo.gov/link/statute/52/1195).)*

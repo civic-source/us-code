@@ -3,9 +3,10 @@ title: "Section 6753 - Membership"
 usc_title: 15
 usc_section: "6753"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6753"
-generated_at: "2026-03-30T02:54:08.214Z"
+generated_at: "2026-11-23T21:25:40.031Z"
+status: "active"
 ---
 
 # § 6753. Membership
@@ -104,3 +105,7 @@ generated_at: "2026-03-30T02:54:08.214Z"
 - **(k)** The provisions of this section shall take effect on the later of—
   - **(1)** the expiration of the 2-year period beginning on January 12, 2015 ; and
   - **(2)** the date of incorporation of the Association.
+
+## Source Credit
+
+*([Pub. L. 106–102, title III, § 323](https://www.govinfo.gov/link/plaw/106/public/102), as added [Pub. L. 114–1, title II, § 202(a)](https://www.govinfo.gov/link/plaw/114/public/1), Jan. 12, 2015, [129 Stat. 13](https://www.govinfo.gov/link/statute/129/13).)*

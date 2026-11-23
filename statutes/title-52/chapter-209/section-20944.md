@@ -3,9 +3,10 @@ title: "Section 20944 - Membership of Board of Advisors"
 usc_title: 52
 usc_section: "20944"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 20944"
-generated_at: "2026-03-30T02:56:30.166Z"
+generated_at: "2026-11-23T21:26:42.331Z"
+status: "active"
 ---
 
 # § 20944. Membership of Board of Advisors
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:30.166Z"
 - **(b)** Appointments shall be made to the Board of Advisors under subsection (a) in a manner which ensures that the Board of Advisors will be bipartisan in nature and will reflect the various geographic regions of the United States.
 - **(c)** Members of the Board of Advisors shall serve for a term of 2 years, and may be reappointed. Any vacancy in the Board of Advisors shall be filled in the manner in which the original appointment was made.
 - **(d)** The Board of Advisors shall elect a Chair from among its members.
+
+## Source Credit
+
+*([Pub. L. 107–252, title II, § 214](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1680](https://www.govinfo.gov/link/statute/116/1680).)*

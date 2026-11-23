@@ -3,9 +3,10 @@ title: "Section 118a - Quadrennial quality of life review"
 usc_title: 10
 usc_section: "118a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 118a"
-generated_at: "2026-03-30T02:53:38.031Z"
+generated_at: "2026-11-23T21:25:32.207Z"
+status: "active"
 ---
 
 # § 118a. Quadrennial quality of life review
@@ -38,3 +39,15 @@ generated_at: "2026-03-30T02:53:38.031Z"
     - **(A)** The assumptions used in the review.
     - **(B)** The results of the review, including a comprehensive discussion of how the quality of life of members of the armed forces affects the national security strategy of the United States.
   - **(2)** The report shall be submitted in the year following the year in which the review is conducted, but not later than the date on which the President submits the budget for the next fiscal year to Congress under section 1105(a) of title 31 .
+
+Review Required
+
+Conduct of Review
+
+Considerations
+
+Submission to Congressional Committees
+
+## Source Credit
+
+*(Added [Pub. L. 107–314, div. A, title V, § 581(a)(1)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2559](https://www.govinfo.gov/link/statute/116/2559); amended [Pub. L. 113–291, div. A, title X, § 1071(c)(2)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3508](https://www.govinfo.gov/link/statute/128/3508); [Pub. L. 117–81, div. A, title X, § 1061(a)(1)](https://www.govinfo.gov/link/plaw/117/public/81), (b), Dec. 27, 2021, [135 Stat. 1909](https://www.govinfo.gov/link/statute/135/1909).)*

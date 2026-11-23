@@ -3,9 +3,10 @@ title: "Section 913 - Filing of claims"
 usc_title: 33
 usc_section: "913"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 913"
-generated_at: "2026-03-30T02:55:41.077Z"
+generated_at: "2026-11-23T21:26:11.350Z"
+status: "active"
 ---
 
 # § 913. Filing of claims
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:41.077Z"
   - **(2)** Notwithstanding the provisions of subsection (a), a claim for compensation for death or disability due to an occupational disease which does not immediately result in such death or disability shall be timely if filed within two years after the employee or claimant becomes aware, or in the exercise of reasonable diligence or by reason of medical advice should have been aware, of the relationship between the employment, the disease, and the death or disability, or within one year of the date of the last payment of compensation, whichever is later.
 - **(c)** If a person who is entitled to compensation under this chapter is mentally incompetent or a minor, the provisions of subsection (a) shall not be applicable so long as such person has no guardian or other authorized representative, but shall be applicable in the case of a person who is mentally incompetent or a minor from the date of appointment of such guardian or other representative, or in the case of a minor, if no guardian is appointed before he becomes of age, from the date he becomes of age.
 - **(d)** Where recovery is denied to any person, in a suit brought at law or in admiralty to recover damages in respect of injury or death, on the ground that such person was an employee and that the defendant was an employer within the meaning of this chapter and that such employer had secured compensation to such employee under this chapter, the limitation of time prescribed in subsection (a) shall begin to run only from the date of termination of such suit.
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 509, § 13, [44 Stat. 1432](https://www.govinfo.gov/link/statute/44/1432); [Pub. L. 92–576, § 12(b)](https://www.govinfo.gov/link/plaw/92/public/576), Oct. 27, 1972, [86 Stat. 1259](https://www.govinfo.gov/link/statute/86/1259); [Pub. L. 98–426, § 12](https://www.govinfo.gov/link/plaw/98/public/426), Sept. 28, 1984, [98 Stat. 1649](https://www.govinfo.gov/link/statute/98/1649).)*

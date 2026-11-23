@@ -3,9 +3,10 @@ title: "Section 256 - Grants to strengthen the effectiveness, efficiency, and co
 usc_title: 42
 usc_section: "256"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 256"
-generated_at: "2026-03-30T02:56:10.716Z"
+generated_at: "2026-11-23T21:26:30.364Z"
+status: "active"
 ---
 
 # § 256. Grants to strengthen the effectiveness, efficiency, and coordination of services for the uninsured and underinsured
@@ -96,3 +97,15 @@ generated_at: "2026-03-30T02:56:10.716Z"
   - **(3)** supporting the research-related costs of patient care, data collection, and academic training resulting from such affiliations.
 - **(k)** There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2002 through 2006.
 - **(l)** Funds may not be appropriated to carry out this section after September 30, 2006 .
+
+In General
+
+Eligibility
+
+Authorization
+
+“The purpose of this title [enacting this subpart and subpart X (§ 256f et seq.) of this part and provisions set out as a note under section 1396a of this title ] is to provide assistance to communities and consortia of health care providers and others, to develop or strengthen integrated community health care delivery systems that coordinate health care services for individuals who are uninsured or underinsured and to develop or strengthen activities related to providing coordinated care for individuals with chronic conditions who are uninsured or underinsured, through the—
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 340, as added [Pub. L. 107–251, title IV, § 402](https://www.govinfo.gov/link/plaw/107/public/251), Oct. 26, 2002, [116 Stat. 1655](https://www.govinfo.gov/link/statute/116/1655).)*

@@ -3,9 +3,10 @@ title: "Section 4979 - Tax on certain excess contributions"
 usc_title: 26
 usc_section: "4979"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4979"
-generated_at: "2026-03-30T02:55:27.813Z"
+generated_at: "2026-11-23T21:26:06.668Z"
+status: "active"
 ---
 
 # § 4979. Tax on certain excess contributions
@@ -25,3 +26,11 @@ generated_at: "2026-03-30T02:55:27.813Z"
 - **(f)**
   - **(1)** No tax shall be imposed under this section on any excess contribution or excess aggregate contribution, as the case may be, to the extent such contribution (together with any income allocable thereto through the end of the plan year for which the contribution was made) is distributed (or, if forfeitable, is forfeited) before the close of the first 2½ months (6 months in the case of an excess contribution or excess aggregate contribution to an eligible automatic contribution arrangement (as defined in section 414(w)(3))) of the following plan year.
   - **(2)** Any amount distributed as provided in paragraph (1) shall be treated as earned and received by the recipient in the recipient’s taxable year in which such distributions were made.
+
+In general
+
+De minimis distributions
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XI, § 1117(b)(1)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2461](https://www.govinfo.gov/link/statute/100/2461); amended [Pub. L. 100–647, title I, § 1011](https://www.govinfo.gov/link/plaw/100/public/647) (l)(8)–(11), Nov. 10, 1988, [102 Stat. 3470](https://www.govinfo.gov/link/statute/102/3470), 3471; [Pub. L. 109–280, title IX, § 902(e)(1)](https://www.govinfo.gov/link/plaw/109/public/280) –(3)(A), Aug. 17, 2006, [120 Stat. 1038](https://www.govinfo.gov/link/statute/120/1038).)*

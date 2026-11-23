@@ -3,9 +3,10 @@ title: "Section 1252 - Judicial review of orders of removal"
 usc_title: 8
 usc_section: "1252"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1252"
-generated_at: "2026-03-30T02:53:10.489Z"
+generated_at: "2026-11-23T21:25:25.159Z"
+status: "active"
 ---
 
 # § 1252. Judicial review of orders of removal
@@ -85,3 +86,25 @@ generated_at: "2026-03-30T02:53:10.489Z"
   - **(2)** Notwithstanding any other provision of law, no court shall enjoin the removal of any alien pursuant to a final order under this section unless the alien shows by clear and convincing evidence that the entry or execution of such order is prohibited as a matter of law.
   - **(3)** Paragraph (1) shall not apply to an action brought pursuant to section 1225(b)(3) of this title , subsections (e) or (f) of section 1226 of this title , or section 1231(a)(2)(B) of this title .
 - **(g)** Except as provided in this section and notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28 , or any other habeas corpus provision, and sections 1361 and 1651 of such title, no court shall have jurisdiction to hear any cause or claim by or on behalf of any alien arising from the decision or action by the Attorney General to commence proceedings, adjudicate cases, or execute removal orders against any alien under this chapter.
+
+In general
+
+Limitation
+
+Notice-related provisions.—
+
+Certain limits on discretionary relief; sanctions for frivolous behavior
+
+Limits on discretionary relief for failure to appear in asylum hearing
+
+Consolidation of relief in judicial review
+
+“Within 6 months after the date of the enactment of this Act [ Nov. 29, 1990 ], the Attorney General shall issue regulations with respect to—
+
+In General
+
+Limitation
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 5, § 242, [66 Stat. 208](https://www.govinfo.gov/link/statute/66/208); Sept. 3, 1954, ch. 1263, § 17, [68 Stat. 1232](https://www.govinfo.gov/link/statute/68/1232); [Pub. L. 97–116, § 18(h)(1)](https://www.govinfo.gov/link/plaw/97/public/116), Dec. 29, 1981, [95 Stat. 1620](https://www.govinfo.gov/link/statute/95/1620); [Pub. L. 98–473, title II, § 220(b)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2028](https://www.govinfo.gov/link/statute/98/2028); [Pub. L. 99–603, title VII, § 701](https://www.govinfo.gov/link/plaw/99/public/603), Nov. 6, 1986, [100 Stat. 3445](https://www.govinfo.gov/link/statute/100/3445); [Pub. L. 100–525, § 9(n)](https://www.govinfo.gov/link/plaw/100/public/525), Oct. 24, 1988, [102 Stat. 2620](https://www.govinfo.gov/link/statute/102/2620); [Pub. L. 100–690, title VII, § 7343(a)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4470](https://www.govinfo.gov/link/statute/102/4470); [Pub. L. 101–649, title V](https://www.govinfo.gov/link/plaw/101/public/649), §§ 504(a), 545(e), title VI, § 603(b)(2), Nov. 29, 1990, [104 Stat. 5049](https://www.govinfo.gov/link/statute/104/5049), 5066, 5085; [Pub. L. 102–232, title III](https://www.govinfo.gov/link/plaw/102/public/232), §§ 306(a)(4), (c)(7), 307(m)(2), 309(b)(9), Dec. 12, 1991, [105 Stat. 1751](https://www.govinfo.gov/link/statute/105/1751), 1753, 1757, 1759; [Pub. L. 103–322, title II, § 20301(a)](https://www.govinfo.gov/link/plaw/103/public/322), title XIII, § 130001(a), Sept. 13, 1994, [108 Stat. 1823](https://www.govinfo.gov/link/statute/108/1823), 2023; [Pub. L. 103–416, title II](https://www.govinfo.gov/link/plaw/103/public/416), §§ 219(h), 224(b), Oct. 25, 1994, [108 Stat. 4317](https://www.govinfo.gov/link/statute/108/4317), 4324; [Pub. L. 104–132, title IV](https://www.govinfo.gov/link/plaw/104/public/132), §§ 436(a), (b)(1), 438(a), 440(c), (h), Apr. 24, 1996, [110 Stat. 1275](https://www.govinfo.gov/link/statute/110/1275), 1277, 1279; [Pub. L. 104–208, div. C, title III](https://www.govinfo.gov/link/plaw/104/public/208), §§ 306(a), (d), 308(g)(10)(H), 371(b)(6), Sept. 30, 1996, [110 Stat. 3009–607](https://www.govinfo.gov/link/statute/110/3009), 3009–612, 3009–625, 3009–645; [Pub. L. 109–13, div. B, title I](https://www.govinfo.gov/link/plaw/109/public/13), §§ 101(e), (f), 106(a), May 11, 2005, [119 Stat. 305](https://www.govinfo.gov/link/statute/119/305), 310; [Pub. L. 119–1, § 3(f)](https://www.govinfo.gov/link/plaw/119/public/1), Jan. 29, 2025, [139 Stat. 5](https://www.govinfo.gov/link/statute/139/5).)*

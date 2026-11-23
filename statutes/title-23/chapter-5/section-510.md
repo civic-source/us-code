@@ -3,9 +3,10 @@ title: "Section 510 - Future strategic highway research program"
 usc_title: 23
 usc_section: "510"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 510"
-generated_at: "2026-03-30T02:55:12.573Z"
+generated_at: "2026-11-23T21:25:53.938Z"
+status: "active"
 ---
 
 # § 510. Future strategic highway research program
@@ -45,3 +46,47 @@ generated_at: "2026-03-30T02:55:12.573Z"
   - **(3)** Employees of the National Academy of Sciences and other individuals appointed by the president of the National Academy of Sciences and acting on its behalf in connection with activities carried out under this section shall be treated as if they are employees of the Federal Government under section 2671 of title 28 for purposes of a civil action or proceeding with respect to a claim described in paragraph (1). The civil action or proceeding shall proceed in the same manner as any proceeding under chapter 171 of title 28 or action against the United States filed pursuant to section 1346(b) of title 28 and shall be subject to the limitations and exceptions applicable to such a proceeding or action.
   - **(4)** Payment of any award, compromise, or settlement of a civil action or proceeding with respect to a claim described in paragraph (1) shall be paid first out of insurance maintained by the National Academy of Sciences, second from funds made available to carry out this section, and then from sums made available under section 1304 of title 31 . For purposes of such section, such an award, compromise, or settlement shall be deemed to be a judgment, award, or settlement payable under section 2414 or 2672 of title 28. The Secretary may establish a reserve of funds to carry out this section for making payments under this paragraph.
 - **(h)** Notwithstanding any other provision of this section, the Secretary may use funds made available to carry out this section for implementation of research products related to the future strategic highway research program, including development, demonstration, evaluation, and technology transfer activities.
+
+Establishment
+
+Cooperative Agreements
+
+Program Priorities.—
+
+Program elements
+
+Dissemination of results
+
+Program Administration
+
+Report on Implementation of Results.—
+
+Report
+
+Components
+
+Consultation
+
+Submission
+
+Funding.—
+
+Federal share
+
+Advance payments
+
+Limitation of Remedies.—
+
+Same remedy as if united states
+
+Exclusiveness of remedy
+
+Treatment
+
+Sources of payments
+
+Implementation
+
+## Source Credit
+
+*(Added [Pub. L. 109–59, title V, § 5210(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1801](https://www.govinfo.gov/link/statute/119/1801); amended [Pub. L. 111–322, title II, § 2203(d)](https://www.govinfo.gov/link/plaw/111/public/322), Dec. 22, 2010, [124 Stat. 3526](https://www.govinfo.gov/link/statute/124/3526).)*

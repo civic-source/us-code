@@ -3,9 +3,10 @@ title: "Section 5112 - Highway routing of hazardous material"
 usc_title: 49
 usc_section: "5112"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 5112"
-generated_at: "2026-03-30T02:56:19.306Z"
+generated_at: "2026-11-23T21:26:40.618Z"
+status: "active"
 ---
 
 # § 5112. Highway routing of hazardous material
@@ -64,3 +65,69 @@ generated_at: "2026-03-30T02:56:19.306Z"
     - **(B)** A State or Indian tribe adversely affected by a decision of the Secretary under this subsection may bring a civil action for judicial review of the decision in an appropriate district court of the United States not later than 89 days after the day the decision becomes final.
 - **(e)** This section and regulations prescribed under this section do not affect sections 31111 and 31113 of this title or section 127 of title 23 .
 - **(f)** The Secretary is not required to amend or again prescribe regulations related to highway routing designations over which radioactive material may and may not be transported by motor vehicles, and limitations and requirements related to the routing, that were in effect on November 16, 1990 .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5112(a)(1) | 49 App.:1804(b)(7). | Jan. 3, 1975 , Pub. L. 93–633, § 105(b)(1) –(3), (5)–(9), (c), 88 Stat. 2157 ; restated Nov. 16, 1990 , Pub. L. 101–615, § 4 , 104 Stat. 3248 , 3251. |
+| 5112(a)(2) | 49 App.:1804(b)(1). |  |
+| 5112(b)(1) | 49 App.:1804(b)(2), (3). |  |
+| 5112(b)(2) | 49 App.:1804(b)(9). |  |
+| 5112(c) | 49 App.:1804(c). |  |
+| 5112(d) | 49 App.:1804(b)(5). |  |
+| 5112(e) | 49 App.:1804(b)(6). |  |
+| 5112(f) | 49 App.:1804(b)(8). |  |
+
+
+Application
+
+Standards for States and Indian Tribes
+
+List of Route Designations.—
+
+In general
+
+State responsibilities.—
+
+In general
+
+Frequency
+
+Dispute Resolution
+
+Relationship to Other Laws
+
+Existing Radioactive Material Routing Regulations
+
+Historical and Revision Notes
+
+5112(a)(1)
+
+Jan. 3, 1975
+
+Pub. L. 93–633, § 105(b)(1)
+
+88 Stat. 2157
+
+Nov. 16, 1990
+
+Pub. L. 101–615, § 4
+
+104 Stat. 3248
+
+5112(a)(2)
+
+5112(b)(1)
+
+5112(b)(2)
+
+5112(c)
+
+5112(d)
+
+5112(e)
+
+5112(f)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 769](https://www.govinfo.gov/link/statute/108/769); [Pub. L. 109–59, title VII, § 7126](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1909](https://www.govinfo.gov/link/statute/119/1909); [Pub. L. 112–141, div. C, title III, § 33013(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 839](https://www.govinfo.gov/link/statute/126/839).)*

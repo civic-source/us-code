@@ -3,9 +3,10 @@ title: "Section 13472 - High efficiency heat engines"
 usc_title: 42
 usc_section: "13472"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13472"
-generated_at: "2026-03-30T02:56:11.445Z"
+generated_at: "2026-11-23T21:26:33.609Z"
+status: "active"
 ---
 
 # § 13472. High efficiency heat engines
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.445Z"
 - **(c)** Within 180 days after October 24, 1992 , the Secretary shall prepare and submit to the Congress a 5-year program plan, to be included in the plan required under section 13451(c) of this title , to guide the activities under this section. In preparing the program plan, the Secretary shall consult with appropriate representatives of industry, institutions of higher education, Federal agencies, including the Environmental Protection Agency and national laboratories, and professional and technical societies.
 - **(d)** Within 1 year after October 24, 1992 , the Secretary shall solicit proposals for conducting activities under this section.
 - **(e)** There are authorized to be appropriated to the Secretary for carrying out this section such sums as may be necessary to be derived from sums authorized under section 13451(e) of this title .
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXI, § 2112](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3072](https://www.govinfo.gov/link/statute/106/3072).)*

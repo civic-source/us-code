@@ -3,9 +3,10 @@ title: "Section 9414 - United States Air Force Institute of Technology: degree g
 usc_title: 10
 usc_section: "9414"
 chapter: 951
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 9414"
-generated_at: "2026-03-30T02:53:38.258Z"
+generated_at: "2026-11-23T21:25:32.994Z"
+status: "active"
 ---
 
 # § 9414. United States Air Force Institute of Technology: degree granting authority; faculty, reimbursement and tuition; acceptance of research grants
@@ -45,3 +46,34 @@ generated_at: "2026-03-30T02:53:38.258Z"
   - **(4)** The Secretary shall establish an account for administering funds received as research grants under this section. The Director and Chancellor of the Institute shall use the funds in the account in accordance with applicable provisions of the regulations and the terms and condition of the grants received.
   - **(5)** Subject to such limitations as may be provided in appropriations Acts, appropriations available for the Institute may be used to pay expenses incurred by the Institute in applying for, and otherwise pursuing, the award of qualifying research grants.
   - **(6)** The Secretary shall prescribe regulations for the administration of this subsection.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 9314 | [Uncodified]. | Aug. 31, 1954, ch. 1151 , 68 Stat. 1006 . |
+
+
+Authority
+
+Limitation
+
+Congressional Notification Requirements
+
+Civilian Faculty
+
+Space Force Faculty
+
+Reimbursement and Tuition
+
+Acceptance of Research Grants
+
+Historical and Revision Notes
+
+9314
+
+Aug. 31, 1954, ch. 1151
+
+68 Stat. 1006
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 561, § 9314; [Pub. L. 99–145, title V, § 504(a)(1)](https://www.govinfo.gov/link/plaw/99/public/145), (2)(A), Nov. 8, 1985, [99 Stat. 622](https://www.govinfo.gov/link/statute/99/622); [Pub. L. 99–661, div. A, title V, § 510](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3868](https://www.govinfo.gov/link/statute/100/3868); [Pub. L. 101–509, title V, § 529 [title I, § 106(b)(6)(C)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1440; [Pub. L. 105–261, div. A, title XI, § 1102](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2141](https://www.govinfo.gov/link/statute/112/2141); [Pub. L. 108–136, div. A, title V, § 533](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1473](https://www.govinfo.gov/link/statute/117/1473); [Pub. L. 109–163, div. A, title V, § 522(e)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3243](https://www.govinfo.gov/link/statute/119/3243); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title V, §§ 543(h)(1), 544, Oct. 14, 2008, [122 Stat. 4463](https://www.govinfo.gov/link/statute/122/4463), 4465; renumbered § 9414, [Pub. L. 115–232, div. A, title VIII, § 806(a)(3)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1832](https://www.govinfo.gov/link/statute/132/1832); [Pub. L. 116–92, div. A, title V, § 556(b)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1392](https://www.govinfo.gov/link/statute/133/1392); [Pub. L. 116–283, div. A, title IX, § 923(d)(4)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3814](https://www.govinfo.gov/link/statute/134/3814); [Pub. L. 119–60, div. A, title V, § 559(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 880](https://www.govinfo.gov/link/statute/139/880).)*

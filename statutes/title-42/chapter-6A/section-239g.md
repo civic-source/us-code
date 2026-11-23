@@ -3,12 +3,17 @@ title: "Section 239g - Authorization of appropriations"
 usc_title: 42
 usc_section: "239g"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 239g"
-generated_at: "2026-03-30T02:56:10.690Z"
+generated_at: "2026-11-23T21:26:30.243Z"
+status: "active"
 ---
 
 # § 239g. Authorization of appropriations
 
 For the purpose of carrying out this part, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2003 through 2007, to remain available until expended, including administrative costs and costs of provision and payment of benefits. The Secretary’s payment of any benefit under section 239c, 239d, or 239e of this title shall be subject to the availability of appropriations under this section.
 
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title II, § 268, as added [Pub. L. 108–20, § 2](https://www.govinfo.gov/link/plaw/108/public/20), Apr. 30, 2003, [117 Stat. 645](https://www.govinfo.gov/link/statute/117/645).)*

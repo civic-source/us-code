@@ -3,9 +3,10 @@ title: "Section 284s - Tick-borne diseases"
 usc_title: 42
 usc_section: "284s"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 284s"
-generated_at: "2026-03-30T02:56:10.743Z"
+generated_at: "2026-11-23T21:26:30.477Z"
+status: "active"
 ---
 
 # § 284s. Tick-borne diseases
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:56:10.743Z"
     - **(B)** make such report publicly available on the Internet website of the Department of Health and Human Services.
   - **(6)** The Working Group shall be treated as an advisory committee subject to the Federal Advisory Committee Act (5 U.S.C. App.). 1 1 See References in Text note below.
   - **(7)** The Working Group under this section shall terminate 6 years after December 13, 2016 .
+
+## Source Credit
+
+*([Pub. L. 114–255, div. A, title II, § 2062](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1079](https://www.govinfo.gov/link/statute/130/1079).)*

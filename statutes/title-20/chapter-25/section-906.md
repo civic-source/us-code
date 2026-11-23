@@ -3,9 +3,10 @@ title: "Section 906 - Entitlements in addition to basic compensation"
 usc_title: 20
 usc_section: "906"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 906"
-generated_at: "2026-03-30T02:54:48.086Z"
+generated_at: "2026-11-23T21:25:46.971Z"
+status: "active"
 ---
 
 # § 906. Entitlements in addition to basic compensation
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:48.086Z"
   - **(1)** cost-of-living allowances equal to those authorized by section 5924 of title 5 , and
   - **(2)** additional compensation equal to that authorized under section 5941 of title 5 .
 - **(b)** The cost-of-living allowances and additional compensation provided under subsection (a) of this section for any teacher shall be based on the teaching position in which he rendered services on a school-year basis, except that, if such teacher is employed in another position during any recess period between two school years, such allowances and compensation for such recess period shall be based on the position in which he is employed during such recess period.
+
+## Source Credit
+
+*([Pub. L. 86–91, § 8](https://www.govinfo.gov/link/plaw/86/public/91), July 17, 1959, [73 Stat. 216](https://www.govinfo.gov/link/statute/73/216); [Pub. L. 96–465, title II, § 2206(d)](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2162](https://www.govinfo.gov/link/statute/94/2162).)*

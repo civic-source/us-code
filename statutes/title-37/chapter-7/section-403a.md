@@ -3,9 +3,10 @@ title: "Section 403a - Housing treatment for certain members of the armed forces
 usc_title: 37
 usc_section: "403a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 403a"
-generated_at: "2026-03-30T02:55:44.057Z"
+generated_at: "2026-11-23T21:26:14.232Z"
+status: "active"
 ---
 
 # § 403a. Housing treatment for certain members of the armed forces, and their spouses and other dependents, undergoing a permanent change of station within the United States
@@ -35,3 +36,35 @@ generated_at: "2026-03-30T02:55:44.057Z"
     - **(B)** The regulations prescribed pursuant to this section may provide for a shortening or lengthening of the covered relocation period of a member for purposes of this section.
   - **(2)** The term “dependent” has the meaning given that term in section 401 of this title .
   - **(3)** The term “permanent change of station” means a permanent change of station described in section 452(b)(2) of this title .
+
+Housing Treatment for Certain Members Who Have a Spouse or Other Dependents.—
+
+Housing treatment regulations
+
+Eligible members
+
+Housing Treatment.—
+
+Continuation of housing for the spouse and other dependents
+
+Early housing eligibility
+
+Temporary use of government-owned or government-leased housing intended for members without a spouse or dependent
+
+Equitable basic allowance for housing
+
+Rule of Construction Related to Certain Basic Allowance for Housing Payments
+
+Housing Treatment Education
+
+Definitions
+
+Covered relocation period
+
+Dependent
+
+Permanent change of station
+
+## Source Credit
+
+*(Added [Pub. L. 115–91, div. A, title VI, § 604(a)(1)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1419](https://www.govinfo.gov/link/statute/131/1419).)*

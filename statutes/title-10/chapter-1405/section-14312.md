@@ -3,9 +3,10 @@ title: "Section 14312 - Delay of promotion: voluntary"
 usc_title: 10
 usc_section: "14312"
 chapter: 1405
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 14312"
-generated_at: "2026-03-30T02:53:38.275Z"
+generated_at: "2026-11-23T21:25:33.061Z"
+status: "active"
 ---
 
 # § 14312. Delay of promotion: voluntary
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:53:38.275Z"
   - **(1)** The Secretary concerned has not authorized voluntary delays of promotion under subsection (a) to the grade concerned and the officer declines to accept an appointment to a higher grade.
   - **(2)** The Secretary concerned has authorized voluntary delays of promotion under subsection (a), but has denied the request of the officer for a delay of promotion and the officer then declines to accept an appointment to a higher grade.
   - **(3)** The Secretary concerned has approved the request of an officer for a delay of promotion and, upon the end of the period of delay authorized in accordance with regulations prescribed under subsection (a), the officer then declines to accept an appointment to a higher grade.
+
+Authority for Voluntary Delays
+
+Effect of Approval of Request
+
+Effect of Declining a Promotion
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1611](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2941](https://www.govinfo.gov/link/statute/108/2941).)*

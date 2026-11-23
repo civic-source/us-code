@@ -3,9 +3,10 @@ title: "Section 2421f - Sustainability requirements for certain capital projects
 usc_title: 22
 usc_section: "2421f"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2421f"
-generated_at: "2026-03-30T02:55:05.366Z"
+generated_at: "2026-11-23T21:25:58.492Z"
+status: "active"
 ---
 
 # § 2421f. Sustainability requirements for certain capital projects in connection with overseas contingency operations
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:55:05.366Z"
     - **(B)** the Committee on Armed Services, the Committee on Foreign Affairs, the Committee on Oversight and Government Reform, and the Committee on Appropriations of the House of Representatives.
   - **(2)** The term “capital project” has the meaning given that term in section 2421e of this title .
   - **(3)** The term “overseas contingency operation” means a military operation outside the United States and its territories and possessions that is a contingency operation (as that term is defined in section 101(a)(13) of title 10 ).
+
+## Source Credit
+
+*([Pub. L. 112–239, div. A, title XII, § 1273](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2023](https://www.govinfo.gov/link/statute/126/2023).)*

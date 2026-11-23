@@ -3,9 +3,10 @@ title: "Section 6102 - Telemarketing rules"
 usc_title: 15
 usc_section: "6102"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6102"
-generated_at: "2026-03-30T02:54:08.208Z"
+generated_at: "2026-11-23T21:25:40.017Z"
+status: "active"
 ---
 
 # § 6102. Telemarketing rules
@@ -37,3 +38,11 @@ generated_at: "2026-03-30T02:54:08.208Z"
 - **(e)**
   - **(1)** The rules promulgated by the Federal Trade Commission under subsection (a) shall not apply to persons described in section 9b(1) of title 7 .
   - **(2)**
+
+Rulemaking
+
+Enforcement
+
+## Source Credit
+
+*([Pub. L. 103–297, § 3](https://www.govinfo.gov/link/plaw/103/public/297), Aug. 16, 1994, [108 Stat. 1545](https://www.govinfo.gov/link/statute/108/1545); [Pub. L. 107–56, title X, § 1011(b)(1)](https://www.govinfo.gov/link/plaw/107/public/56), (2), Oct. 26, 2001, [115 Stat. 396](https://www.govinfo.gov/link/statute/115/396); [Pub. L. 111–203, title X, § 1100C(a)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2110](https://www.govinfo.gov/link/statute/124/2110).)*

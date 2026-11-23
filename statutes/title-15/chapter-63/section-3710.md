@@ -3,9 +3,10 @@ title: "Section 3710 - Utilization of Federal technology"
 usc_title: 15
 usc_section: "3710"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3710"
-generated_at: "2026-03-30T02:54:08.192Z"
+generated_at: "2026-11-23T21:25:39.975Z"
+status: "active"
 ---
 
 # § 3710. Utilization of Federal technology
@@ -86,3 +87,33 @@ generated_at: "2026-03-30T02:54:08.192Z"
   - **(2)** are to be implemented in coordination with the implementation of that Act; and
   - **(3)** are satisfied if an agency provided the information concerning technology transfer activities described in this section in its annual submission under the Government Performance and Results Act of 1993 ( 31 U.S.C. 1101 note).
 - **(i)** The Director of a laboratory, or the head of any Federal agency or department, may loan, lease, or give research equipment that is excess to the needs of the laboratory, agency, or department to an educational institution or nonprofit organization for the conduct of technical and scientific education and research activities. Title of ownership shall transfer with a gift under this section.
+
+Reports.—
+
+Annual report required
+
+Content
+
+Public availability
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Ronald Reagan.
+
+## Source Credit
+
+*([Pub. L. 96–480, § 11](https://www.govinfo.gov/link/plaw/96/public/480), Oct. 21, 1980, [94 Stat. 2318](https://www.govinfo.gov/link/statute/94/2318); renumbered § 10 and amended [Pub. L. 99–502](https://www.govinfo.gov/link/plaw/99/public/502), §§ 3–5, 9(e)(1), Oct. 20, 1986, [100 Stat. 1787](https://www.govinfo.gov/link/statute/100/1787), 1789, 1791, 1797; renumbered § 11 and amended [Pub. L. 100–418, title V](https://www.govinfo.gov/link/plaw/100/public/418), §§ 5115(b)(2), 5122(a)(1), 5162(b), 5163(c)(1), (3), Aug. 23, 1988, [102 Stat. 1433](https://www.govinfo.gov/link/statute/102/1433), 1438, 1450, 1451; [Pub. L. 100–519, title II](https://www.govinfo.gov/link/plaw/100/public/519), §§ 201(d)(3), 212(a)(4), Oct. 24, 1988, [102 Stat. 2594](https://www.govinfo.gov/link/statute/102/2594), 2595; [Pub. L. 101–189, div. C, title XXXI, § 3133(e)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1679](https://www.govinfo.gov/link/statute/103/1679); [Pub. L. 102–245, title III](https://www.govinfo.gov/link/plaw/102/public/245), §§ 301, 303, Feb. 14, 1992, [106 Stat. 19](https://www.govinfo.gov/link/statute/106/19), 20; [Pub. L. 104–66, title III, § 3001(f)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 734](https://www.govinfo.gov/link/statute/109/734); [Pub. L. 104–113](https://www.govinfo.gov/link/plaw/104/public/113), §§ 3, 9, Mar. 7, 1996, [110 Stat. 775](https://www.govinfo.gov/link/statute/110/775), 779; [Pub. L. 105–394, title II, § 212(d)](https://www.govinfo.gov/link/plaw/105/public/394), Nov. 13, 1998, [112 Stat. 3655](https://www.govinfo.gov/link/statute/112/3655); [Pub. L. 106–404](https://www.govinfo.gov/link/plaw/106/public/404), §§ 7(5), (6), 10(a), Nov. 1, 2000, [114 Stat. 1745–1747](https://www.govinfo.gov/link/statute/114/1745); [Pub. L. 110–69, title III, § 3002(c)(4)](https://www.govinfo.gov/link/plaw/110/public/69), Aug. 9, 2007, [121 Stat. 586](https://www.govinfo.gov/link/statute/121/586).)*

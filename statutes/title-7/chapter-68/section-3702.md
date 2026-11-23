@@ -3,9 +3,10 @@ title: "Section 3702 - Definitions"
 usc_title: 7
 usc_section: "3702"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3702"
-generated_at: "2026-03-30T02:53:42.404Z"
+generated_at: "2026-11-23T21:25:28.339Z"
+status: "active"
 ---
 
 # § 3702. Definitions
@@ -19,3 +20,7 @@ As used in this chapter, the term—
     - **(A)** used for the transient storage of bulk agricultural commodities and may include equipment or structures necessary for the transportation, upgrading, receiving, drying, or loading out of such commodities; or
     - **(B)** any rail siding, loading, or unloading facility that can accommodate unit railroad trains or multiple car trains and other appropriate transportation modes designed for the transport of bulk agricultural commodities and production materials; and
   - **(5)** “region” means two or more States acting together to develop a coordinated regional subterminal facilities plan.
+
+## Source Credit
+
+*([Pub. L. 96–358, § 3](https://www.govinfo.gov/link/plaw/96/public/358), Sept. 25, 1980, [94 Stat. 1184](https://www.govinfo.gov/link/statute/94/1184).)*

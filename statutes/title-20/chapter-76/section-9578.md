@@ -3,9 +3,10 @@ title: "Section 9578 - Scientific or technical employees"
 usc_title: 20
 usc_section: "9578"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9578"
-generated_at: "2026-03-30T02:54:48.230Z"
+generated_at: "2026-11-23T21:25:47.667Z"
+status: "active"
 ---
 
 # § 9578. Scientific or technical employees
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:48.230Z"
   - **(3)** the appointment of such employee is necessary (as determined by the Director on the basis of clear and convincing evidence) to provide the Institute or the office, board, committee, or center with scientific or technical expertise which could not otherwise be obtained by the Institute or the office, board, committee, or center through the competitive service; and
   - **(4)** the total number of such employees does not exceed 40 individuals or ⅕ of the number of full-time, regular scientific or professional employees of the Institute, whichever is greater.
 - **(b)** All employees described in subsection (a) shall work on activities of the Institute or the office, board, committee, or center, and shall not be reassigned to other duties outside the Institute or the office, board, committee, or center during their term.
+
+## Source Credit
+
+*([Pub. L. 107–279, title I, § 188](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1973](https://www.govinfo.gov/link/statute/116/1973).)*

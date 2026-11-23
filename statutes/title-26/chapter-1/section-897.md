@@ -3,9 +3,10 @@ title: "Section 897 - Disposition of investment in United States real property"
 usc_title: 26
 usc_section: "897"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 897"
-generated_at: "2026-03-30T02:55:27.742Z"
+generated_at: "2026-11-23T21:26:06.421Z"
+status: "active"
 ---
 
 # § 897. Disposition of investment in United States real property
@@ -177,3 +178,49 @@ generated_at: "2026-03-30T02:55:27.742Z"
       - **(i)** contributions to such trust, corporation, organization, or arrangement which would otherwise be subject to tax under such laws are deductible or excluded from the gross income of such entity or arrangement or taxed at a reduced rate, or
       - **(ii)** taxation of any investment income of such trust, corporation, organization or arrangement is deferred, or such income is excluded from the gross income of such entity or arrangement or is taxed at a reduced rate.
   - **(3)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection.
+
+Distributions by Domestic Corporations to Foreign Shareholders
+
+In general
+
+Amounts withheld on or before date of enactment
+
+Determination of domestic control
+
+In general
+
+Amounts withheld on or before date of enactment
+
+In general
+
+Amounts withheld on or before date of enactment
+
+In general
+
+Amounts withheld on or before date of enactment
+
+In general
+
+Amounts withheld on or before date of enactment
+
+In general.—
+
+Reporting.—
+
+In General
+
+Member of a Qualified Ownership Group
+
+Effective Date
+
+In general.—
+
+Special rule for treaties renegotiated before 1985.—
+
+In general.—
+
+Nontaxed gain.—
+
+## Source Credit
+
+*(Added [Pub. L. 96–499, title XI, § 1122(a)](https://www.govinfo.gov/link/plaw/96/public/499), Dec. 5, 1980, [94 Stat. 2682](https://www.govinfo.gov/link/statute/94/2682); amended [Pub. L. 97–34, title VIII, § 831(a)(1)](https://www.govinfo.gov/link/plaw/97/public/34), (b)–(d), (f), (g), Aug. 13, 1981, [95 Stat. 352–354](https://www.govinfo.gov/link/statute/95/352); [Pub. L. 97–248, title II, § 201(d)(6)](https://www.govinfo.gov/link/plaw/97/public/248), formerly § 201(c)(6), Sept. 3, 1982, [96 Stat. 419](https://www.govinfo.gov/link/statute/96/419), renumbered § 201(d)(6), [Pub. L. 97–448, title III, § 306(a)(1)(A)(i)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2400](https://www.govinfo.gov/link/statute/96/2400); [Pub. L. 99–514, title VI, § 631(e)(12)](https://www.govinfo.gov/link/plaw/99/public/514), title VII, § 701(e)(4)(G), title XVIII, § 1810(f)(1), Oct. 22, 1986, [100 Stat. 2275](https://www.govinfo.gov/link/statute/100/2275), 2343, 2826; [Pub. L. 100–647, title I, § 1006(e)(19)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3403](https://www.govinfo.gov/link/statute/102/3403); [Pub. L. 101–508, title XI, § 11801(a)(30)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–521](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–66, title XIII, § 13203(c)(2)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 462](https://www.govinfo.gov/link/statute/107/462); [Pub. L. 104–188, title I, § 1702(g)(2)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1873](https://www.govinfo.gov/link/statute/110/1873); [Pub. L. 108–357, title IV](https://www.govinfo.gov/link/plaw/108/public/357), §§ 411(c), 418(a), Oct. 22, 2004, [118 Stat. 1504](https://www.govinfo.gov/link/statute/118/1504), 1512; [Pub. L. 109–135, title IV, § 403(p)(1)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2626](https://www.govinfo.gov/link/statute/119/2626); [Pub. L. 109–222, title V](https://www.govinfo.gov/link/plaw/109/public/222), §§ 504(a), 505(a), 506(a), May 17, 2006, [120 Stat. 355](https://www.govinfo.gov/link/statute/120/355), 357; [Pub. L. 110–343, div. C, title II, § 208(a)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3865](https://www.govinfo.gov/link/statute/122/3865); [Pub. L. 111–312, title VII, § 749(a)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3320](https://www.govinfo.gov/link/statute/124/3320); [Pub. L. 112–240, title III, § 321(a)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2332](https://www.govinfo.gov/link/statute/126/2332); [Pub. L. 113–295, div. A, title I, § 133(a)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4018](https://www.govinfo.gov/link/statute/128/4018); [Pub. L. 114–113, div. Q, title I, § 133(a)](https://www.govinfo.gov/link/plaw/114/public/113), title III, §§ 322(a)(1), (2)(A), (b), 323(a), 325(a), Dec. 18, 2015, [129 Stat. 3055](https://www.govinfo.gov/link/statute/129/3055), 3098, 3101–3103; [Pub. L. 115–97, title I, § 12001(b)(3)(D)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2093](https://www.govinfo.gov/link/statute/131/2093); [Pub. L. 115–141, div. U, title I, § 101(p)(1)](https://www.govinfo.gov/link/plaw/115/public/141) –(6), (q), title IV, § 401(a)(155), (156), Mar. 23, 2018, [132 Stat. 1166](https://www.govinfo.gov/link/statute/132/1166), 1167, 1191; [Pub. L. 117–169, title I, § 10101(a)(4)(B)(iii)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1822](https://www.govinfo.gov/link/statute/136/1822).)*

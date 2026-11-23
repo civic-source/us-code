@@ -3,9 +3,10 @@ title: "Section 4741 - Authorization of appropriations"
 usc_title: 16
 usc_section: "4741"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4741"
-generated_at: "2026-03-30T02:54:23.048Z"
+generated_at: "2026-11-23T21:25:52.023Z"
+status: "active"
 ---
 
 # § 4741. Authorization of appropriations
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:23.048Z"
 - **(d)** There are authorized to be appropriated for fiscal year 1991, $500,000 to the Director and the Under Secretary to conduct the intentional introduction policy review under section 4727 of this title .
 - **(e)** There are authorized to be appropriated $2,500,000 to carry out section 4714 of this title .
 - **(f)** There are authorized to be appropriated to the Director $1,000,000 to carry out research on the prevention, monitoring, and control of aquatic nuisance species in Narragansett Bay, Rhode Island. The funds shall be made available for use by the Department of Environmental Management of the State of Rhode Island.
+
+## Source Credit
+
+*([Pub. L. 101–646, title I, § 1301](https://www.govinfo.gov/link/plaw/101/public/646), Nov. 29, 1990, [104 Stat. 4772](https://www.govinfo.gov/link/statute/104/4772); [Pub. L. 102–186, § 4(b)(2)](https://www.govinfo.gov/link/plaw/102/public/186), Dec. 4, 1991, [105 Stat. 1283](https://www.govinfo.gov/link/statute/105/1283); [Pub. L. 104–332, § 2(f)](https://www.govinfo.gov/link/plaw/104/public/332), (h)(1), Oct. 26, 1996, [110 Stat. 4090](https://www.govinfo.gov/link/statute/110/4090), 4091.)*

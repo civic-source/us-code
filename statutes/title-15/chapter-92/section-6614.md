@@ -3,9 +3,10 @@ title: "Section 6614 - Y2K actions as class actions"
 usc_title: 15
 usc_section: "6614"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6614"
-generated_at: "2026-03-30T02:54:08.213Z"
+generated_at: "2026-11-23T21:25:40.027Z"
+status: "active"
 ---
 
 # § 6614. Y2K actions as class actions
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:08.213Z"
     - **(C)** Upon dismissal or remand, the period of limitations for any claim that was asserted in an action on behalf of any named or unnamed member of any proposed class shall be deemed tolled to the full extent provided under Federal law.
     - **(D)** The dismissal of a Y2K action under subparagraph (A) shall be without prejudice.
 - **(d)** Except as otherwise provided in this section, nothing in this section supersedes any rule of Federal or State civil procedure applicable to class actions.
+
+## Source Credit
+
+*([Pub. L. 106–37, § 15](https://www.govinfo.gov/link/plaw/106/public/37), July 20, 1999, [113 Stat. 201](https://www.govinfo.gov/link/statute/113/201).)*

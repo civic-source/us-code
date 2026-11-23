@@ -3,9 +3,10 @@ title: "Section 358 - Basis to distributees"
 usc_title: 26
 usc_section: "358"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 358"
-generated_at: "2026-03-30T02:55:27.667Z"
+generated_at: "2026-11-23T21:26:06.152Z"
+status: "active"
 ---
 
 # § 358. Basis to distributees
@@ -40,3 +41,13 @@ generated_at: "2026-03-30T02:55:27.667Z"
     - **(A)** the trade or business with which the liability is associated is transferred to the person assuming the liability as part of the exchange, or
     - **(B)** substantially all of the assets with which the liability is associated are transferred to the person assuming the liability as part of the exchange.
   - **(3)** For purposes of this subsection, the term “liability” shall include any fixed or contingent obligation to make payment, without regard to whether the obligation is otherwise taken into account for purposes of this title.
+
+In general
+
+Rules
+
+“The Secretary of the Treasury or his delegate—
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 117; [Pub. L. 85–866, title I, § 21(a)](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1620](https://www.govinfo.gov/link/statute/72/1620); [Pub. L. 90–621, § 2(a)](https://www.govinfo.gov/link/plaw/90/public/621), Oct. 22, 1968, [82 Stat. 1311](https://www.govinfo.gov/link/statute/82/1311); [Pub. L. 94–253, § 1(b)](https://www.govinfo.gov/link/plaw/94/public/253), Mar. 31, 1976, [90 Stat. 296](https://www.govinfo.gov/link/statute/90/296); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 95–600, title III, § 365(b)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2855](https://www.govinfo.gov/link/statute/92/2855); [Pub. L. 100–647, title I, § 1018(d)(5)(B)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3580](https://www.govinfo.gov/link/statute/102/3580); [Pub. L. 101–508, title XI, § 11801(c)(8)(G)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–524](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 105–34, title X, § 1012(b)(2)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 916](https://www.govinfo.gov/link/statute/111/916); [Pub. L. 106–36, title III, § 3001(a)(2)](https://www.govinfo.gov/link/plaw/106/public/36), (d)(6), June 25, 1999, [113 Stat. 182](https://www.govinfo.gov/link/statute/113/182), 184; [Pub. L. 106–554, § 1(a)(7) [title III, § 309(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–638; [Pub. L. 107–147, title IV, § 412(c)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 53](https://www.govinfo.gov/link/statute/116/53).)*

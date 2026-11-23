@@ -3,9 +3,10 @@ title: "Section 10552 - Applications"
 usc_title: 34
 usc_section: "10552"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10552"
-generated_at: "2026-03-30T02:55:33.272Z"
+generated_at: "2026-11-23T21:26:09.674Z"
+status: "active"
 ---
 
 # § 10552. Applications
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:33.272Z"
     - **(B)** all the information contained in the application is correct; and
     - **(C)** the applicant will comply with all provisions of this subchapter and all other applicable Federal laws.
 - **(b)** Not later than 90 days after March 23, 2018 , the COPS Director and the BJA Director shall each promulgate guidelines to implement this section (including the information that must be included and the requirements that the States, units of local government, and Indian tribes must meet) in submitting the applications required under this section.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2702](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 106–386, div. B, title I, § 1108(b)](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1502](https://www.govinfo.gov/link/statute/114/1502); amended [Pub. L. 109–271, § 8(j)(2)](https://www.govinfo.gov/link/plaw/109/public/271), Aug. 12, 2006, [120 Stat. 767](https://www.govinfo.gov/link/statute/120/767); [Pub. L. 115–141, div. S, title V, § 502(2)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1130](https://www.govinfo.gov/link/statute/132/1130).)*

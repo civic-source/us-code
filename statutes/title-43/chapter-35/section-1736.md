@@ -3,9 +3,10 @@ title: "Section 1736 - Working capital fund"
 usc_title: 43
 usc_section: "1736"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1736"
-generated_at: "2026-03-30T02:55:57.488Z"
+generated_at: "2026-11-23T21:26:19.876Z"
+status: "active"
 ---
 
 # § 1736. Working capital fund
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:57.488Z"
 - **(b)** The initial capital of the fund shall consist of appropriations made for that purpose together with the fair and reasonable value at the fund’s inception of the inventories, equipment, receivables, and other assets, less the liabilities, transferred to the fund. The Secretary is authorized to make such subsequent transfers to the fund as he deems appropriate in connection with the functions to be carried on through the fund.
 - **(c)** The fund shall be credited with payments from appropriations, and funds of the Bureau, other agencies of the Department of the Interior, other Federal agencies, and other sources, as authorized by law, at rates approximately equal to the cost of furnishing the facilities, supplies, equipment, and services (including depreciation and accrued annual leave). Such payments may be made in advance in connection with firm orders, or by way of reimbursement.
 - **(d)** There is hereby authorized to be appropriated a sum not to exceed $3,000,000 as initial capital of the working capital fund.
+
+## Source Credit
+
+*([Pub. L. 94–579, title III, § 306](https://www.govinfo.gov/link/plaw/94/public/579), Oct. 21, 1976, [90 Stat. 2766](https://www.govinfo.gov/link/statute/90/2766).)*

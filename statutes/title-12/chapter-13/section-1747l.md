@@ -3,9 +3,10 @@ title: "Section 1747l - Definitions"
 usc_title: 12
 usc_section: "1747l"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1747l"
-generated_at: "2026-03-30T02:53:53.432Z"
+generated_at: "2026-11-23T21:25:36.926Z"
+status: "active"
 ---
 
 # § 1747l. Definitions
@@ -29,3 +30,7 @@ The following terms shall have the meanings, respectively, ascribed to them belo
 - **(o)** “Excess earnings” for any operating year shall mean the net income derived from a proj­ect in excess of the minimum annual amortization charge and the minimum annual return and income taxes.
 - **(p)** “Outstanding investment” for any operating year shall mean the established investment, less an amount equal to (1) the aggregate of the minimum annual amortization charge for each preceding operating year, plus (2) the aggregate of the excess earnings, if any, during each preceding operating year applied, in addition to the minimum annual amortization charge, to amortization in accordance with the provisions of section 1747d of this title .
 - **(q)** “State” shall include the several States and Puerto Rico, the District of Columbia, Guam, and the Virgin Islands.
+
+## Source Credit
+
+*(June 27, 1934, ch. 847, title VII, § 713, as added Aug. 10, 1948, ch. 832, title IV, § 401, [62 Stat. 1281](https://www.govinfo.gov/link/statute/62/1281); amended Apr. 20, 1950, ch. 94, title I, § 122, [64 Stat. 59](https://www.govinfo.gov/link/statute/64/59); Sept. 1, 1951, ch. 378, title VI, §§ 610, 612, [65 Stat. 316](https://www.govinfo.gov/link/statute/65/316); July 14, 1952, ch. 723, § 10(a)(4), [66 Stat. 603](https://www.govinfo.gov/link/statute/66/603); [Pub. L. 86–70, § 10(a)](https://www.govinfo.gov/link/plaw/86/public/70), June 25, 1959, [73 Stat. 142](https://www.govinfo.gov/link/statute/73/142); [Pub. L. 86–624, § 6](https://www.govinfo.gov/link/plaw/86/public/624), July 12, 1960, [74 Stat. 411](https://www.govinfo.gov/link/statute/74/411); [Pub. L. 90–19, § 1(a)(3)](https://www.govinfo.gov/link/plaw/90/public/19), May 25, 1967, [81 Stat. 17](https://www.govinfo.gov/link/statute/81/17).)*

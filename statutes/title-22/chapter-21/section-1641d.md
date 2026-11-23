@@ -3,9 +3,10 @@ title: "Section 1641d - Claims of nationals of the United States against the Sov
 usc_title: 22
 usc_section: "1641d"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1641d"
-generated_at: "2026-03-30T02:55:05.336Z"
+generated_at: "2026-11-23T21:25:58.407Z"
+status: "active"
 ---
 
 # § 1641d. Claims of nationals of the United States against the Soviet Union
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.336Z"
   - **(2)** claims, arising prior to November 16, 1933 , of nationals of the United States against the Soviet Government.
 - **(b)** Any judgment entered in any court of the United States or of a State of the United States shall be binding upon the Commission in its determination, under paragraph (1) of subsection (a) of this section, of any issue which was determined by the court in which the judgment was entered.
 - **(c)** The Commission shall give preference to the disposition of the claims referred to in paragraph (1) of subsection (a) of this section, over all other claims presented to it under this subchapter.
+
+## Source Credit
+
+*(Mar. 10, 1950, ch. 54, title III, § 305, as added Aug. 9, 1955, ch. 645, § 3, [69 Stat. 572](https://www.govinfo.gov/link/statute/69/572).)*

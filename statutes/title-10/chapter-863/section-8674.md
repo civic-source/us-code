@@ -3,9 +3,10 @@ title: "Section 8674 - Examination of vessels; striking of vessels from Naval Ve
 usc_title: 10
 usc_section: "8674"
 chapter: 863
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 8674"
-generated_at: "2026-03-30T02:53:38.247Z"
+generated_at: "2026-11-23T21:25:32.938Z"
+status: "active"
 ---
 
 # § 8674. Examination of vessels; striking of vessels from Naval Vessel Register
@@ -25,3 +26,15 @@ generated_at: "2026-03-30T02:53:38.247Z"
   - **(2)** Each report under this subsection shall be submitted in—
     - **(A)** a classified form; and
     - **(B)** an unclassified form that is releasable to the public without further redaction.
+
+Boards of Officers To Examine Naval Vessels
+
+Actions by Board
+
+Action by Secretary
+
+Annual Report
+
+## Source Credit
+
+*(Added [Pub. L. 103–160, div. A, title VIII, § 824(b)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1708](https://www.govinfo.gov/link/statute/107/1708), § 7304; renumbered § 8674 and amended [Pub. L. 115–232, div. A, title III, § 322](https://www.govinfo.gov/link/plaw/115/public/232), title VIII, § 807(d)(2), Aug. 13, 2018, [132 Stat. 1719](https://www.govinfo.gov/link/statute/132/1719), 1836; [Pub. L. 117–81, div. A, title III, § 362](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1660](https://www.govinfo.gov/link/statute/135/1660).)*

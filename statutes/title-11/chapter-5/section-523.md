@@ -3,9 +3,10 @@ title: "Section 523 - Exceptions to discharge"
 usc_title: 11
 usc_section: "523"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 523"
-generated_at: "2026-03-30T02:53:53.877Z"
+generated_at: "2026-11-23T21:25:34.914Z"
+status: "active"
 ---
 
 # § 523. Exceptions to discharge
@@ -74,3 +75,15 @@ generated_at: "2026-03-30T02:53:53.877Z"
   - **(2)** Paragraph (1) shall not apply in the case of a Federal depository institutions regulatory agency seeking, in its capacity as conservator, receiver, or liquidating agent for an insured depository institution, to recover a debt described in subsection (a)(2), (a)(4), (a)(6), or (a)(11) owed to such institution by an institution-affiliated party unless the receiver, conservator, or liquidating agent was appointed in time to reasonably comply, or for a Federal depository institutions regulatory agency acting in its corporate capacity as a successor to such receiver, conservator, or liquidating agent to reasonably comply, with subsection (a)(3)(B) as a creditor of such institution-affiliated party with respect to such debt.
 - **(d)** If a creditor requests a determination of dischargeability of a consumer debt under subsection (a)(2) of this section, and such debt is discharged, the court shall grant judgment in favor of the debtor for the costs of, and a reasonable attorney’s fee for, the proceeding if the court finds that the position of the creditor was not substantially justified, except that the court shall not award such costs and fees if special circumstances would make the award unjust.
 - **(e)** Any institution-affiliated party of an insured depository institution shall be considered to be acting in a fiduciary capacity with respect to the purposes of subsection (a)(4) or (11).
+
+Effective Date
+
+Application of Amendments
+
+Effective Date
+
+Application of Amendments
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2590](https://www.govinfo.gov/link/statute/92/2590); [Pub. L. 96–56, § 3](https://www.govinfo.gov/link/plaw/96/public/56), Aug. 14, 1979, [93 Stat. 387](https://www.govinfo.gov/link/statute/93/387); [Pub. L. 97–35, title XXIII, § 2334(b)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 863](https://www.govinfo.gov/link/statute/95/863); [Pub. L. 98–353, title III](https://www.govinfo.gov/link/plaw/98/public/353), §§ 307, 371, 454, July 10, 1984, [98 Stat. 353](https://www.govinfo.gov/link/statute/98/353), 364, 375; [Pub. L. 99–554, title II](https://www.govinfo.gov/link/plaw/99/public/554), §§ 257(n), 281, 283(j), Oct. 27, 1986, [100 Stat. 3115–3117](https://www.govinfo.gov/link/statute/100/3115); [Pub. L. 101–581, § 2(a)](https://www.govinfo.gov/link/plaw/101/public/581), Nov. 15, 1990, [104 Stat. 2865](https://www.govinfo.gov/link/statute/104/2865); [Pub. L. 101–647, title XXV, § 2522(a)](https://www.govinfo.gov/link/plaw/101/public/647), title XXXI, § 3102(a), title XXXVI, § 3621, Nov. 29, 1990, [104 Stat. 4865](https://www.govinfo.gov/link/statute/104/4865), 4916, 4964; [Pub. L. 103–322, title XXXII, § 320934](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2135](https://www.govinfo.gov/link/statute/108/2135); [Pub. L. 103–394, title II, § 221](https://www.govinfo.gov/link/plaw/103/public/394), title III, §§ 304(e), (h)(3), 306, 309, title V, § 501(d)(13), Oct. 22, 1994, [108 Stat. 4129](https://www.govinfo.gov/link/statute/108/4129), 4133–4135, 4137, 4145; [Pub. L. 104–134, title I, § 101[(a)]](https://www.govinfo.gov/link/plaw/104/public/134) [title VIII, § 804(b)], Apr. 26, 1996, [110 Stat. 1321](https://www.govinfo.gov/link/statute/110/1321), 1321–74; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327); [Pub. L. 104–193, title III, § 374(a)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2255](https://www.govinfo.gov/link/statute/110/2255); [Pub. L. 105–244, title IX, § 971(a)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1837](https://www.govinfo.gov/link/statute/112/1837); [Pub. L. 107–204, title VIII, § 803](https://www.govinfo.gov/link/plaw/107/public/204), July 30, 2002, [116 Stat. 801](https://www.govinfo.gov/link/statute/116/801); [Pub. L. 109–8, title II](https://www.govinfo.gov/link/plaw/109/public/8), §§ 215, 220, 224(c), title III, §§ 301, 310, 314(a), title IV, § 412, title VII, § 714, title XII, §§ 1209, 1235, title XIV, § 1404(a), title XV, § 1502(a)(2), Apr. 20, 2005, [119 Stat. 54](https://www.govinfo.gov/link/statute/119/54), 59, 64, 75, 84, 88, 107, 128, 194, 204, 215, 216; [Pub. L. 111–327, § 2(a)(18)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3559](https://www.govinfo.gov/link/statute/124/3559); [Pub. L. 116–54, § 4(a)(8)](https://www.govinfo.gov/link/plaw/116/public/54), Aug. 23, 2019, [133 Stat. 1086](https://www.govinfo.gov/link/statute/133/1086); [Pub. L. 117–347, title II, § 201](https://www.govinfo.gov/link/plaw/117/public/347), Jan. 5, 2023, [136 Stat. 6205](https://www.govinfo.gov/link/statute/136/6205).)*

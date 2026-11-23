@@ -3,9 +3,10 @@ title: "Section 44802 - Integration of civil unmanned aircraft systems into nati
 usc_title: 49
 usc_section: "44802"
 chapter: 448
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44802"
-generated_at: "2026-03-30T02:56:19.388Z"
+generated_at: "2026-11-23T21:26:40.913Z"
+status: "active"
 ---
 
 # § 44802. Integration of civil unmanned aircraft systems into national airspace system
@@ -38,3 +39,441 @@ generated_at: "2026-03-30T02:56:19.388Z"
   - **(1)** a final rule on small unmanned aircraft systems that will allow for civil operation of such systems in the national airspace system, to the extent the systems do not meet the requirements for expedited operational authorization under section 44807;
   - **(2)** a notice of proposed rulemaking to implement the recommendations of the plan required under subsection (a)(1), with the final rule to be published not later than 16 months after the date of publication of the notice; and
   - **(3)** an update to the Administration’s most recent policy statement on unmanned aircraft systems, contained in Docket No. FAA–2006–25714.
+
+Required Planning for Integration.—
+
+Comprehensive plan
+
+Contents of plan
+
+Deadline
+
+Report to congress
+
+Roadmap
+
+Rulemaking
+
+In General
+
+Standardization of Waiver Application.—
+
+In general
+
+Format
+
+Data.—
+
+In general
+
+Considerations
+
+Consideration of Property Access.—
+
+In general
+
+Rule of construction
+
+Public Availability of Waivers.—
+
+In general
+
+Publication
+
+Precedential Use of Previously Approved Waivers.—
+
+Waiver approval precedent
+
+Rule of construction
+
+Modification of Waivers.—
+
+In general
+
+Use of review process
+
+Authority
+
+Use of Grant Amounts
+
+Application
+
+Selection of Applicants
+
+Rule of Construction
+
+Report to Congress
+
+Funding.—
+
+Federal share.—
+
+In general
+
+Waiver
+
+Authorization of appropriations
+
+Definitions
+
+Critical infrastructure
+
+Element of critical infrastructure
+
+Governmental entity
+
+Project
+
+In General
+
+Briefing
+
+Approval Process
+
+Acceptance of Standards
+
+Approvals
+
+Harmonization
+
+Coordination
+
+Third-party Service Supplier Defined
+
+Rules of Construction.—
+
+Beyond visual line of sight operations
+
+Airspace
+
+In general
+
+Public participation
+
+In General
+
+Considerations
+
+Consultation
+
+Program Alignment Report
+
+Authority
+
+Applications
+
+Objectives
+
+Application Submission
+
+Monitoring and Enforcement of Limitations.—
+
+In general
+
+Savings provision
+
+Examples of limitations
+
+Selection Criteria
+
+Implementation
+
+Notification
+
+Sunset
+
+Savings Clause
+
+Definitions
+
+Transparency
+
+Technology Improvements
+
+Sense of Congress
+
+Updates
+
+Best Practices
+
+In General
+
+Dangerous Weapon Defined
+
+Penalty
+
+In General
+
+Completion of UTM System Pilot Program
+
+Implementation Plan Contents
+
+Safety Standards
+
+Revocation
+
+Low-risk Areas
+
+Consultation
+
+Sense of Congress
+
+Deadline
+
+In General
+
+Assessment of UTM Services
+
+Requirements for Safe Operation
+
+Expedited Procedures
+
+Consultation
+
+Preexisting UTM Services Approvals
+
+Regulations
+
+Laws Described
+
+Effect on Pending Proceedings
+
+Collaboration.—
+
+In general
+
+Elements
+
+Participation by FAA in DOD Activities.—
+
+In general
+
+Participation through test sites
+
+Definitions
+
+Restoration of Rules for Registration and Marking of Unmanned Aircraft
+
+Definitions Applied
+
+FAA Modernization and Reform Act
+
+In General
+
+Considerations
+
+Deadline
+
+Guidance
+
+Required Information
+
+Safety Statement.—
+
+In general
+
+Requirements
+
+Civil Penalty
+
+Firefighting Operations
+
+Utility Restoration
+
+Definition of Utility
+
+In General
+
+FAA To Impose Civil Penalty
+
+Clerical Amendment
+
+In General
+
+Requirements
+
+Review
+
+Research Plan for UTM Development and Deployment.—
+
+In general
+
+Requirements
+
+Assessment
+
+Deadlines
+
+Pilot Program.—
+
+In general
+
+Sunset
+
+Updates
+
+Applications for Designation
+
+Review Process.—
+
+Application procedures.—
+
+In general
+
+Requirements
+
+Considerations
+
+Determination.—
+
+In general
+
+Affirmative designations
+
+Considerations
+
+Opportunity for resubmission
+
+Public Information
+
+Savings Clause
+
+Deadlines.—
+
+Deadlines.—
+
+Definition of State Prison
+
+In General
+
+Activities Described
+
+Definitions
+
+Covered facility
+
+Critical infrastructure
+
+Deadlines.—
+
+Certification to congress
+
+Failure to meet certification deadline
+
+Exemptions
+
+Research
+
+Report
+
+Study
+
+Completion Date
+
+Methods
+
+Report
+
+Interagency Collaboration.—
+
+In general
+
+Activities in support of plan on access to national airspace for unmanned aircraft systems
+
+Nonduplicative efforts
+
+Reports.—
+
+Requirement
+
+Termination
+
+UAS Executive Committee Defined
+
+Arctic
+
+Certificate of waiver; certificate of authorization
+
+Permanent areas
+
+Public unmanned aircraft system
+
+Sense and avoid capability
+
+Small unmanned aircraft
+
+Test range.—
+
+In general
+
+Inclusions
+
+Unmanned aircraft
+
+Unmanned aircraft system
+
+Establishment
+
+Program Requirements
+
+Locations
+
+Test Range Operation
+
+Report
+
+Duration
+
+Definition
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Donald J. Trump.
+
+## Source Credit
+
+*(Added [Pub. L. 115–254, div. B, title III, § 341(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3285](https://www.govinfo.gov/link/statute/132/3285).)*

@@ -3,9 +3,10 @@ title: "Section 7201 - Antidiscrimination policy; minority recruitment program"
 usc_title: 5
 usc_section: "7201"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 7201"
-generated_at: "2026-03-30T02:52:56.036Z"
+generated_at: "2026-11-23T21:25:23.336Z"
+status: "active"
 ---
 
 # § 7201. Antidiscrimination policy; minority recruitment program
@@ -27,3 +28,22 @@ generated_at: "2026-03-30T02:52:56.036Z"
   - **(2)** make determinations of underrepresentation which are proposed to be used initially under such program; and
   - **(3)** transmit to the Executive agencies involved, to the Office of Personnel Management, and to the Congress the determinations made under paragraph (2) of this subsection.
 - **(e)** Not later than January 31 of each year, the Office shall prepare and transmit to each House of the Congress a report on the activities of the Office and of Executive agencies under subsection (c) of this section, including the affirmative action plans submitted under section 717 of the Civil Rights Act of 1964 ( 42 U.S.C. 2000e–16 ), the personnel data file maintained by the Office of Personnel Management, and any other data necessary to evaluate the effectiveness of the program for each category of civil service employment and for each minority group designation, for the preceding fiscal year, together with recommendations for administrative or legislative action the Office considers appropriate.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 42 U.S.C. 2000e(b) (2d proviso). | July 2, 1964 , Pub. L. 88–352, § 701(b) (2d proviso), 78 Stat. 254 . |
+
+
+Historical and Revision Notes
+
+42 U.S.C. 2000e(b)
+
+July 2, 1964
+
+Pub. L. 88–352, § 701(b)
+
+78 Stat. 254
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 523](https://www.govinfo.gov/link/statute/80/523), § 7151; renumbered § 7201 and amended [Pub. L. 95–454, title III, § 310](https://www.govinfo.gov/link/plaw/95/public/454), title VII, § 703(a)(1), Oct. 13, 1978, [92 Stat. 1152](https://www.govinfo.gov/link/statute/92/1152), 1216.)*

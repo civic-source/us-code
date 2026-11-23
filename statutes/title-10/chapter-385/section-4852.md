@@ -3,9 +3,10 @@ title: "Section 4852 - Offset policy; notification"
 usc_title: 10
 usc_section: "4852"
 chapter: 385
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4852"
-generated_at: "2026-03-30T02:53:38.212Z"
+generated_at: "2026-11-23T21:25:32.794Z"
+status: "active"
 ---
 
 # § 4852. Offset policy; notification
@@ -22,3 +23,17 @@ generated_at: "2026-03-30T02:53:38.212Z"
 - **(d)** In this section:
   - **(1)** The term “United States firm” means a business entity that performs substantially all of its manufacturing, production, and research and development activities in the United States.
   - **(2)** The term “foreign firm” means a business entity other than a United States firm.
+
+Establishment of Offset Policy
+
+Technology Transfer
+
+Notification Regarding Offsets
+
+Definitions
+
+“Congress makes the following findings:
+
+## Source Credit
+
+*(Added [Pub. L. 100–456, div. A, title VIII, § 825(b)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 2020](https://www.govinfo.gov/link/statute/102/2020), § 2505; renumbered § 2532, [Pub. L. 102–484, div. D, title XLII, § 4202(a)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2659](https://www.govinfo.gov/link/statute/106/2659); renumbered § 4852, [Pub. L. 116–283, div. A, title XVIII, § 1870(b)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4284](https://www.govinfo.gov/link/statute/134/4284).)*

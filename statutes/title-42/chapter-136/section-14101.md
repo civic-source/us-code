@@ -3,9 +3,10 @@ title: "Section 14101 - Omitted"
 usc_title: 42
 usc_section: "14101"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 14101"
-generated_at: "2026-03-30T02:56:11.451Z"
+generated_at: "2026-11-23T21:26:33.633Z"
+status: "omitted"
 ---
 
 # § 14101. Omitted

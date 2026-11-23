@@ -3,9 +3,10 @@ title: "Section 2082 - Prior service credit"
 usc_title: 50
 usc_section: "2082"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2082"
-generated_at: "2026-03-30T02:56:26.218Z"
+generated_at: "2026-11-23T21:26:38.957Z"
+status: "active"
 ---
 
 # § 2082. Prior service credit
@@ -60,10 +61,28 @@ generated_at: "2026-03-30T02:56:26.218Z"
 - **(g)** For the purpose of survivor annuities, deposits authorized by subsections (b) and (h) may also be made by the survivor of a participant.
 - **(h)**
   - **(1)**
-    - **(A)** Each participant who has performed military service before the date of separation on which entitlement to an annuity under this subchapter is based may pay to the Agency an amount equal to 7 percent of the amount of basic pay paid under section 204 of title 37 to the participant for each period of military service after December 1956; except, the amount to be paid for military service performed beginning on January 1, 1999 , through December 31, 2000 , shall be as follows: 7.25 percent of basic pay January 1, 1999 , to December 31, 1999 . 7.4 percent of basic pay January 1, 2000 , to December 31, 2000 .
+    - **(A)** Each participant who has performed military service before the date of separation on which entitlement to an annuity under this subchapter is based may pay to the Agency an amount equal to 7 percent of the amount of basic pay paid under section 204 of title 37 to the participant for each period of military service after December 1956; except, the amount to be paid for military service performed beginning on January 1, 1999 , through December 31, 2000 , shall be as follows:
+
+|  | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 7.25 percent of basic pay | January 1, 1999 , to December 31, 1999 . |
+|  | 7.4 percent of basic pay | January 1, 2000 , to December 31, 2000 . |
+
     - **(B)** The amount of such payments shall be based on such evidence of basic pay for military service as the participant may provide or, if the Director determines sufficient evidence has not been provided to adequately determine basic pay for military service, such payment shall be based upon estimates of such basic pay provided to the Director under paragraph (4).
   - **(2)** Any deposit made under paragraph (1) more than two years after the later of—
     - **(A)** October 1, 1983 , or
     - **(B)** the date on which the participant making the deposit first becomes an employee of the Federal Government,
   - **(3)** Any payment received by the Director under this subsection shall be deposited in the Treasury of the United States to the credit of the fund.
   - **(4)** The provisions of section 2031( l ) of this title shall apply with respect to such information as the Director determines to be necessary for the administration of this subsection in the same manner that such section applies concerning information described in that section.
+
+January 1, 1999
+
+December 31, 1999
+
+January 1, 2000
+
+December 31, 2000
+
+## Source Credit
+
+*([Pub. L. 88–643, title II, § 252](https://www.govinfo.gov/link/plaw/88/public/643), as added [Pub. L. 102–496, title VIII, § 802](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3229](https://www.govinfo.gov/link/statute/106/3229); amended [Pub. L. 105–33, title VII, § 7001(c)(3)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 659](https://www.govinfo.gov/link/statute/111/659); [Pub. L. 106–346, § 101(a) [title V, § 505(c)(2)]](https://www.govinfo.gov/link/plaw/106/public/346), Oct. 23, 2000, [114 Stat. 1356](https://www.govinfo.gov/link/statute/114/1356), 1356A–53; [Pub. L. 116–92, div. E, title LXII, § 6202(a)(2)(A)(ii)](https://www.govinfo.gov/link/plaw/116/public/92), (c), Dec. 20, 2019, [133 Stat. 2185](https://www.govinfo.gov/link/statute/133/2185), 2186.)*

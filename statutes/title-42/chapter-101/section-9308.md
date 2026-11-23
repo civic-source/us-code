@@ -3,9 +3,10 @@ title: "Section 9308 - International cooperation; examination of impact on natio
 usc_title: 42
 usc_section: "9308"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9308"
-generated_at: "2026-03-30T02:56:11.352Z"
+generated_at: "2026-11-23T21:26:33.236Z"
+status: "active"
 ---
 
 # § 9308. International cooperation; examination of impact on national magnetic fusion program; exploration of prospects for joint funding in construction of fusion engineering device; report to Congressional committees on results of examination and exploration
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.352Z"
   - **(1)** The Secretary shall examine the potential impacts on the national magnetic fusion program of United States participation in an international effort to construct fusion engineering devices.
   - **(2)** The Secretary shall explore, to the extent feasible, the prospects for joint financial participation by other nations with the United States in the construction of a fusion engineering device.
   - **(3)** Within two years of October 7, 1980 , the Secretary shall transmit to the House Committee on Science and Technology and the Senate Committee on Energy and Natural Resources the results of such examinations and explorations with his recommendations for construction of a national or international fusion engineering device: Provided, however , That such examinations and explorations shall not have the effect of delaying design activities related to a national fusion engineering device.
+
+## Source Credit
+
+*([Pub. L. 96–386, § 9](https://www.govinfo.gov/link/plaw/96/public/386), Oct. 7, 1980, [94 Stat. 1543](https://www.govinfo.gov/link/statute/94/1543).)*

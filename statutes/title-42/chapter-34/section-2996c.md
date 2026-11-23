@@ -3,9 +3,10 @@ title: "Section 2996c - Board of Directors"
 usc_title: 42
 usc_section: "2996c"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2996c"
-generated_at: "2026-03-30T02:56:11.169Z"
+generated_at: "2026-11-23T21:26:32.447Z"
+status: "active"
 ---
 
 # § 2996c. Board of Directors
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.169Z"
 - **(f)** Within six months after the first meeting of the Board, the Board shall request the Governor of each State to appoint a nine-member advisory council for such State. A majority of the members of the advisory council shall be appointed, after recommendations have been received from the State bar association, from among the attorneys admitted to practice in the State, and the membership of the council shall be subject to annual reappointment. If ninety days have elapsed without such an advisory council appointed by the Governor, the Board is authorized to appoint such a council. The advisory council shall be charged with notifying the Corporation of any apparent violation of the provisions of this subchapter and applicable rules, regulations, and guidelines promulgated pursuant to this subchapter. The advisory council shall, at the same time, furnish a copy of the notification to any recipient affected thereby, and the Corporation shall allow such recipient a reasonable time (but in no case less than thirty days) to reply to any allegation contained in the notification.
 - **(g)** All meetings of the Board, of any executive committee of the Board, and of any advisory council established in connection with this subchapter shall be open and shall be subject to the requirements and provisions of section 552b of title 5 (relating to open meetings).
 - **(h)** The Board shall meet at least four times during each calendar year.
+
+## Source Credit
+
+*([Pub. L. 88–452, title X, § 1004](https://www.govinfo.gov/link/plaw/88/public/452), as added [Pub. L. 93–355, § 2](https://www.govinfo.gov/link/plaw/93/public/355), July 25, 1974, [88 Stat. 379](https://www.govinfo.gov/link/statute/88/379); amended [Pub. L. 95–222](https://www.govinfo.gov/link/plaw/95/public/222), §§ 3, 4, Dec. 28, 1977, [91 Stat. 1619](https://www.govinfo.gov/link/statute/91/1619).)*

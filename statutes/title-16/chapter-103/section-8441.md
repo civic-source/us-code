@@ -3,9 +3,10 @@ title: "Section 8441 - Gateway communities"
 usc_title: 16
 usc_section: "8441"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8441"
-generated_at: "2026-03-30T02:54:23.084Z"
+generated_at: "2026-11-23T21:25:52.078Z"
+status: "active"
 ---
 
 # § 8441. Gateway communities
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:23.084Z"
   - **(1)** The Secretary of Agriculture (acting through the Administrator of the Rural Business-Cooperative Service), in coordination with the Secretary and the Secretary of Commerce, shall provide to businesses in gateway communities the assistance described in paragraph (2) to establish, operate, or expand infrastructure to accommodate and manage sustainable visitation, including hotels, campgrounds, and restaurants.
   - **(2)** The Secretary of Agriculture may provide assistance under paragraph (1) through the use of existing, or the establishment of new, entrepreneur and vocational training programs, technical assistance programs, low-interest business loan programs, and loan guarantee programs.
 - **(c)** In carrying out this section, the Secretaries may, in accordance with applicable laws, enter into a public-private partnership, cooperative agreement, memorandum of understanding, or similar agreement with a gateway community or a business in a gateway community.
+
+## Source Credit
+
+*([Pub. L. 118–234, title I, § 131](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2858](https://www.govinfo.gov/link/statute/138/2858).)*

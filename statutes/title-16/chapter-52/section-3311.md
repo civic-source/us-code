@@ -3,9 +3,10 @@ title: "Section 3311 - Salmon and Steelhead Advisory Commission"
 usc_title: 16
 usc_section: "3311"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3311"
-generated_at: "2026-03-30T02:54:23.014Z"
+generated_at: "2026-11-23T21:25:51.967Z"
+status: "active"
 ---
 
 # § 3311. Salmon and Steelhead Advisory Commission
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:23.014Z"
 - **(f)** The members of the Commission (other than those who are full-time employees of the Federal or a State government), while away from their homes or regular places of business for purposes of carrying out their duties as members, shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons intermittently employed in Government service.
 - **(g)** The Secretary shall provide such clerical and technical support as may be necessary to enable the Commission to carry out its functions.
 - **(h)** Unless otherwise agreed to by the voting members of the Commission and approved by the Secretary, the Commission shall terminate upon the Secretary’s approval of the Commission’s report pursuant to subsection (e).
+
+## Source Credit
+
+*([Pub. L. 96–561, title I, § 110](https://www.govinfo.gov/link/plaw/96/public/561), Dec. 22, 1980, [94 Stat. 3277](https://www.govinfo.gov/link/statute/94/3277).)*

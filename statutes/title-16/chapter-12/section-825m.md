@@ -3,9 +3,10 @@ title: "Section 825m - Enforcement provisions"
 usc_title: 16
 usc_section: "825m"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 825m"
-generated_at: "2026-03-30T02:54:22.921Z"
+generated_at: "2026-11-23T21:25:51.769Z"
+status: "active"
 ---
 
 # § 825m. Enforcement provisions
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:22.921Z"
   - **(2)** engaging in the business of purchasing or selling—
     - **(A)** electric energy; or
     - **(B)** transmission services subject to the jurisdiction of the Commission.
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. III, § 314, as added Aug. 26, 1935, ch. 687, title II, § 213, [49 Stat. 861](https://www.govinfo.gov/link/statute/49/861); amended June 25, 1936, ch. 804, [49 Stat. 1921](https://www.govinfo.gov/link/statute/49/1921); June 25, 1948, ch. 646, § 32(b), [62 Stat. 991](https://www.govinfo.gov/link/statute/62/991); May 24, 1949, ch. 139, § 127, [63 Stat. 107](https://www.govinfo.gov/link/statute/63/107); [Pub. L. 109–58, title XII, § 1288](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 982](https://www.govinfo.gov/link/statute/119/982).)*

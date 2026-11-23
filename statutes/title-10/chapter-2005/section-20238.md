@@ -3,9 +3,10 @@ title: "Section 20238 - Establishment of promotion zones"
 usc_title: 10
 usc_section: "20238"
 chapter: 2005
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 20238"
-generated_at: "2026-03-30T02:53:38.281Z"
+generated_at: "2026-11-23T21:25:33.087Z"
+status: "active"
 ---
 
 # § 20238. Establishment of promotion zones
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:53:38.281Z"
   - **(2)** the number of officers to be serving in that competitive category in the next higher grade in each of the next five years;
   - **(3)** in the case of a promotion zone for officers to be promoted to a grade to which section 523 of this title is applicable, the number of officers authorized for such grade under such section to be on sustained duty on the last day of each of the next five fiscal years; and
   - **(4)** the number of officers that should be placed in that promotion zone in each of the next five years to provide to officers in those years relatively similar opportunity for promotion.
+
+In General
+
+Determination of Number
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVII, § 1716(c)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 645](https://www.govinfo.gov/link/statute/137/645).)*

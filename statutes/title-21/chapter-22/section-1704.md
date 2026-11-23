@@ -3,9 +3,10 @@ title: "Section 1704 - Coordination with National Drug Control Program agencies 
 usc_title: 21
 usc_section: "1704"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 1704"
-generated_at: "2026-03-30T02:54:54.305Z"
+generated_at: "2026-11-23T21:25:56.286Z"
+status: "active"
 ---
 
 # § 1704. Coordination with National Drug Control Program agencies in demand reduction, supply reduction, and State and local affairs
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:54:54.305Z"
   - **(2)** The head of each National Drug Control Program agency shall provide to the Director a complete list of all drug control program grant programs and any other relevant information for inclusion in the system developed under paragraph (1) and annually update such list.
   - **(3)** The Director may meet the requirements of this subsection by utilizing, updating, or improving existing Federal information systems to ensure they meet the requirements of this subsection.
   - **(4)** Not later than 3 years after October 24, 2018 , the Comptroller General of the United States shall submit to Congress a report examining implementation of this subsection.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. C, title VII](https://www.govinfo.gov/link/plaw/105/public/277), §§ 705, 715, Oct. 21, 1998, [112 Stat. 2681–680](https://www.govinfo.gov/link/statute/112/2681), 2681–693; [Pub. L. 109–469, title I, § 104](https://www.govinfo.gov/link/plaw/109/public/469), title VI, § 602, Dec. 29, 2006, [120 Stat. 3510](https://www.govinfo.gov/link/statute/120/3510), 3533; [Pub. L. 115–271, title VIII](https://www.govinfo.gov/link/plaw/115/public/271), §§ 8202(a), (b)(2), 8207, 8217(g), Oct. 24, 2018, [132 Stat. 4110](https://www.govinfo.gov/link/statute/132/4110), 4113, 4124; [Pub. L. 116–74, § 2(a)(1)](https://www.govinfo.gov/link/plaw/116/public/74), (6), Nov. 27, 2019, [133 Stat. 1155](https://www.govinfo.gov/link/statute/133/1155), 1156.)*

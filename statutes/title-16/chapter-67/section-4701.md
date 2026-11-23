@@ -3,9 +3,10 @@ title: "Section 4701 - Findings and purposes"
 usc_title: 16
 usc_section: "4701"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4701"
-generated_at: "2026-03-30T02:54:23.044Z"
+generated_at: "2026-11-23T21:25:52.019Z"
+status: "active"
 ---
 
 # § 4701. Findings and purposes
@@ -42,3 +43,27 @@ generated_at: "2026-03-30T02:54:23.044Z"
   - **(3)** to develop and carry out environmentally sound control methods to prevent, monitor and control unintentional introductions of nonindigenous species from pathways other than ballast water exchange;
   - **(4)** to understand and minimize economic and ecological impacts of nonindigenous aquatic nuisance species that become established, including the zebra mussel; and
   - **(5)** to establish a program of research and technology development and assistance to States in the management and removal of zebra mussels.
+
+Establishment
+
+Partnerships
+
+Authorization of Appropriations
+
+Multiagency effort to slow the spread of asian carp in the mississippi river and tributaries, including sub-basins.—
+
+In general
+
+Best practices
+
+Report to congress.—
+
+In general
+
+Contents
+
+“Nothing in this Act [see Short Title of 1996 Amendment note above] or the amendments made by this Act is intended to affect the authorities and responsibilities of the Great Lakes Fishery Commission established under article II of the Convention on Great Lakes Fisheries between the United States of America and Canada, signed at Washington on September 10, 1954 (hereafter in this section referred to as the ‘Convention’), including the authorities and responsibilities of the Great Lakes Fishery Commission—
+
+## Source Credit
+
+*([Pub. L. 101–646, title I, § 1002](https://www.govinfo.gov/link/plaw/101/public/646), Nov. 29, 1990, [104 Stat. 4761](https://www.govinfo.gov/link/statute/104/4761); [Pub. L. 104–182, title III, § 308(a)](https://www.govinfo.gov/link/plaw/104/public/182), Aug. 6, 1996, [110 Stat. 1689](https://www.govinfo.gov/link/statute/110/1689); [Pub. L. 104–332, § 2(a)(1)](https://www.govinfo.gov/link/plaw/104/public/332), (h)(1), Oct. 26, 1996, [110 Stat. 4073](https://www.govinfo.gov/link/statute/110/4073), 4091; [Pub. L. 117–263, div. K, title CXIII, § 11327(e)(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4097](https://www.govinfo.gov/link/statute/136/4097).)*

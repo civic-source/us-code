@@ -3,9 +3,10 @@ title: "Section 5501 - Congressional findings and declaration of policy"
 usc_title: 42
 usc_section: "5501"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5501"
-generated_at: "2026-03-30T02:56:11.236Z"
+generated_at: "2026-11-23T21:26:32.812Z"
+status: "active"
 ---
 
 # § 5501. Congressional findings and declaration of policy
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.236Z"
   - **(10)** evaluation of the performance and reliability of solar heating and combined solar heating and cooling technologies can be expedited by testing under carefully controlled conditions; and
   - **(11)** commercial application of solar heating and combined solar heating and cooling technologies can be expedited by early commercial demonstration under practical conditions.
 - **(b)** It is therefore declared to be the policy of the United States and the purpose of this subchapter to provide for the demonstration within a three-year period of the practical use of solar heating technology, and to provide for the development and demonstration within a five-year period of the practical use of combined heating and cooling technology.
+
+## Source Credit
+
+*([Pub. L. 93–409, § 2](https://www.govinfo.gov/link/plaw/93/public/409), Sept. 3, 1974, [88 Stat. 1069](https://www.govinfo.gov/link/statute/88/1069).)*

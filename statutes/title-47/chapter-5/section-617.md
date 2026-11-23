@@ -3,9 +3,10 @@ title: "Section 617 - Access to advanced communications services and equipment"
 usc_title: 47
 usc_section: "617"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 617"
-generated_at: "2026-03-30T02:56:24.523Z"
+generated_at: "2026-11-23T21:26:36.054Z"
+status: "active"
 ---
 
 # § 617. Access to advanced communications services and equipment
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:56:24.523Z"
   - **(2)** The Commission may exempt small entities from the requirements of this section.
 - **(i)** The provisions of this section shall not apply to customized equipment or services that are not offered directly to the public, or to such classes of users as to be effectively available directly to the public, regardless of the facilities used.
 - **(j)** This section shall not be construed to require a manufacturer of equipment used for advanced communications or a provider of advanced communications services to make every feature and function of every device or service accessible for every disability.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VII, § 716, as added [Pub. L. 111–260, title I, § 104(a)](https://www.govinfo.gov/link/plaw/111/public/260), Oct. 8, 2010, [124 Stat. 2755](https://www.govinfo.gov/link/statute/124/2755); amended [Pub. L. 111–265, § 2(1)](https://www.govinfo.gov/link/plaw/111/public/265), (2), Oct. 8, 2010, [124 Stat. 2795](https://www.govinfo.gov/link/statute/124/2795).)*

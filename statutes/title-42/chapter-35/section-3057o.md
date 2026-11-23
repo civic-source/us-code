@@ -3,9 +3,10 @@ title: "Section 3057o - Funding set aside"
 usc_title: 42
 usc_section: "3057o"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3057o"
-generated_at: "2026-03-30T02:56:11.180Z"
+generated_at: "2026-11-23T21:26:32.522Z"
+status: "active"
 ---
 
 # § 3057o. Funding set aside
@@ -14,3 +15,7 @@ Of the funds appropriated under section 3057n(1) for a fiscal year, not more tha
 
   - **(1)** the funds appropriated for parts A and B are greater than the funds appropriated for fiscal year 2019; and
   - **(2)** the Assistant Secretary makes available for parts A and B no less than the amount of resources made available for fiscal year 2019.
+
+## Source Credit
+
+*([Pub. L. 89–73, title VI, § 644](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 116–131, title V, § 501(1)(B)](https://www.govinfo.gov/link/plaw/116/public/131), Mar. 25, 2020, [134 Stat. 267](https://www.govinfo.gov/link/statute/134/267).)*

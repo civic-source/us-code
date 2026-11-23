@@ -3,9 +3,10 @@ title: "Section 7384e - Establishment of Energy Employees Occupational Illness C
 usc_title: 42
 usc_section: "7384e"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7384e"
-generated_at: "2026-03-30T02:56:11.291Z"
+generated_at: "2026-11-23T21:26:33.068Z"
+status: "active"
 ---
 
 # § 7384e. Establishment of Energy Employees Occupational Illness Compensation Fund
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.291Z"
 - **(d)** Subject to subsection (e), amounts in the compensation fund shall be used to carry out the compensation program.
 - **(e)** No cost incurred in carrying out the compensation program, or in administering the compensation fund, shall be paid from the compensation fund or set off against or otherwise deducted from any payment to any individual under the compensation program.
 - **(f)** Amounts in the compensation fund shall be invested in accordance with section 9702 of title 31 , and any interest on, and proceeds from, any such investment shall be credited to and become a part of the compensation fund.
+
+## Source Credit
+
+*([Pub. L. 106–398, § 1 [div. C, title XXXVI, § 3612]](https://www.govinfo.gov/link/plaw/106/public/398), Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–497.)*

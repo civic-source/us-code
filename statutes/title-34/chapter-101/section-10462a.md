@@ -3,9 +3,10 @@ title: "Section 10462a - Grants to State and Tribal courts to implement protecti
 usc_title: 34
 usc_section: "10462a"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10462a"
-generated_at: "2026-03-30T02:55:33.269Z"
+generated_at: "2026-11-23T21:26:09.666Z"
+status: "active"
 ---
 
 # § 10462a. Grants to State and Tribal courts to implement protection order pilot programs
@@ -77,3 +78,7 @@ generated_at: "2026-03-30T02:55:33.269Z"
       - **(ii)** usage of electronic service, similar to the service used by the eligible entity, for other commonly used court orders, including with respect to viability and cost.
 - **(g)** Notwithstanding section 10464 of this title , the Attorney General shall not be required to publish regulations or guidelines implementing this section.
 - **(h)** There is authorized to be appropriated to carry out this section $10,000,000 for fiscal years 2023 through 2027.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2103](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 117–103, div. W, title XV, § 1506(2)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 957](https://www.govinfo.gov/link/statute/136/957).)*

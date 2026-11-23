@@ -3,9 +3,10 @@ title: "Section 6137 - Transfer of funds from appropriations account of Majority
 usc_title: 2
 usc_section: "6137"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 6137"
-generated_at: "2026-03-30T02:53:04.839Z"
+generated_at: "2026-11-23T21:25:21.343Z"
+status: "active"
 ---
 
 # § 6137. Transfer of funds from appropriations account of Majority and Minority Leaders of Senate to appropriations account, Miscellaneous Items, within Senate contingent fund
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:53:04.839Z"
 - **(a)** Upon the written request of the Majority or Minority Leader of the Senate, the Secretary of the Senate shall transfer during any fiscal year, from the appropriations account appropriated under the headings “Salaries, Officers and Employees” and “Offices of the Majority and Minority Leaders”, such amount as either Leader shall specify to the appropriations account, within the contingent fund of the Senate, “Miscellaneous Items”.
 - **(b)** The Majority and Minority Leaders of the Senate are each authorized to incur such expenses as may be necessary or appropriate. Expenses incurred by either such leader shall be paid from the amount transferred pursuant to subsection (a) by such leader and upon vouchers approved by such leader.
 - **(c)** The Secretary of the Senate is authorized to advance such sums as may be necessary to defray expenses incurred in carrying out subsections (a) and (b).
+
+## Source Credit
+
+*([Pub. L. 102–27, title II](https://www.govinfo.gov/link/plaw/102/public/27), Apr. 10, 1991, [105 Stat. 144](https://www.govinfo.gov/link/statute/105/144).)*

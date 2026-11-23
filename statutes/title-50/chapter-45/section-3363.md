@@ -3,9 +3,10 @@ title: "Section 3363 - Terrorist Identification Classification System"
 usc_title: 50
 usc_section: "3363"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3363"
-generated_at: "2026-03-30T02:56:26.248Z"
+generated_at: "2026-11-23T21:26:39.044Z"
+status: "active"
 ---
 
 # § 3363. Terrorist Identification Classification System
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:26.248Z"
 - **(g)** In this section, the term “congressional intelligence committees” means—
   - **(1)** the Select Committee on Intelligence of the Senate; and
   - **(2)** the Permanent Select Committee on Intelligence of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 107–306, title III, § 343](https://www.govinfo.gov/link/plaw/107/public/306), Nov. 27, 2002, [116 Stat. 2399](https://www.govinfo.gov/link/statute/116/2399); [Pub. L. 108–177, title III, § 377(d)](https://www.govinfo.gov/link/plaw/108/public/177), Dec. 13, 2003, [117 Stat. 2631](https://www.govinfo.gov/link/statute/117/2631); [Pub. L. 108–458, title I](https://www.govinfo.gov/link/plaw/108/public/458), §§ 1071(g)(2)(A)(ii), 1072(d)(1)(A), Dec. 17, 2004, [118 Stat. 3691](https://www.govinfo.gov/link/statute/118/3691), 3693; [Pub. L. 111–259, title III, § 347(f)](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2699](https://www.govinfo.gov/link/statute/124/2699); [Pub. L. 118–31, div. G, title IX, § 7901(f)(2)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1107](https://www.govinfo.gov/link/statute/137/1107); [Pub. L. 119–60, div. F, title LXIV, § 6402(c)(2)(G)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1616](https://www.govinfo.gov/link/statute/139/1616).)*

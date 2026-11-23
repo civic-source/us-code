@@ -3,9 +3,10 @@ title: "Section 18912 - Research security"
 usc_title: 42
 usc_section: "18912"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18912"
-generated_at: "2026-03-30T02:56:11.533Z"
+generated_at: "2026-11-23T21:26:33.856Z"
+status: "active"
 ---
 
 # § 18912. Research security
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:56:11.533Z"
     - **(B)** if applicable, the science and technology risk matrix developed under that subsection and how that matrix has been applied;
   - **(2)** includes a mitigation plan for managing risks posed by countries of risk with respect to future or ongoing research and development activities of the Department of Energy; and
   - **(3)** defines critical research areas, designated by risk, as determined by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title I, § 10114](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1469](https://www.govinfo.gov/link/statute/136/1469).)*

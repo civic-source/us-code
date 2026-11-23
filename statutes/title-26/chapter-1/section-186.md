@@ -3,9 +3,10 @@ title: "Section 186 - Recoveries of damages for antitrust violations, etc."
 usc_title: 26
 usc_section: "186"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 186"
-generated_at: "2026-03-30T02:55:27.650Z"
+generated_at: "2026-11-23T21:26:06.082Z"
+status: "active"
 ---
 
 # § 186. Recoveries of damages for antitrust violations, etc.
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:27.650Z"
 - **(e)** If for the taxable year in which a compensatory amount is received or accrued any portion of a net operating loss carryover to such year is attributable to the compensable injury for which such amount is received or accrued, such portion of such net operating loss carryover shall be reduced by an amount equal to—
   - **(1)** the deduction allowed under subsection (a) with respect to such compensatory amount, reduced by
   - **(2)** any portion of the unrecovered losses sustained as a result of the compensable injury with respect to which the period for carryover under section 172 has expired.
+
+## Source Credit
+
+*(Added [Pub. L. 91–172, title IX, § 904(a)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 711](https://www.govinfo.gov/link/statute/83/711).)*

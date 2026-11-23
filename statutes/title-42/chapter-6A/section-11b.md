@@ -3,9 +3,10 @@ title: "Section 11b - Best practices for long-term follow-up services for pediat
 usc_title: 42
 usc_section: "11b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11b"
-generated_at: "2026-03-30T02:56:10.744Z"
+generated_at: "2026-11-23T21:26:30.487Z"
+status: "active"
 ---
 
 # § 285a–11b. Best practices for long-term follow-up services for pediatric cancer survivors
@@ -20,3 +21,7 @@ The Secretary of Health and Human Services may facilitate the identification of 
   - **(6)** mental health professionals;
   - **(7)** allied health professionals, including physical therapists and occupational therapists; and
   - **(8)** others, as the Secretary determines appropriate.
+
+## Source Credit
+
+*([Pub. L. 115–180, title II, § 203](https://www.govinfo.gov/link/plaw/115/public/180), June 5, 2018, [132 Stat. 1389](https://www.govinfo.gov/link/statute/132/1389).)*

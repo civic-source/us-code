@@ -3,9 +3,10 @@ title: "Section 8007 - United States-India scientific cooperative nuclear nonpro
 usc_title: 22
 usc_section: "8007"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8007"
-generated_at: "2026-03-30T02:55:05.448Z"
+generated_at: "2026-11-23T21:25:58.733Z"
+status: "active"
 ---
 
 # § 8007. United States-India scientific cooperative nuclear nonproliferation program
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.448Z"
   - **(3)** The recommendations and assessments prepared under this subsection shall be made publicly available.
 - **(d)** All United States activities related to the program shall be consistent with United States obligations under the Nuclear Non-Proliferation Treaty.
 - **(e)** There are authorized to be appropriated such sums as may be necessary to carry out this section for each of fiscal years 2007 through 2011.
+
+## Source Credit
+
+*([Pub. L. 109–401, title I, § 109](https://www.govinfo.gov/link/plaw/109/public/401), Dec. 18, 2006, [120 Stat. 2739](https://www.govinfo.gov/link/statute/120/2739).)*

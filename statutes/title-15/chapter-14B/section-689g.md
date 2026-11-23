@@ -3,9 +3,10 @@ title: "Section 689g - Operational assistance grants"
 usc_title: 15
 usc_section: "689g"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 689g"
-generated_at: "2026-03-30T02:54:08.111Z"
+generated_at: "2026-11-23T21:25:39.719Z"
+status: "active"
 ---
 
 # § 689g. Operational assistance grants
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:08.111Z"
   - **(1)** The Administrator may make supplemental grants to New Markets Venture Capital companies and to other entities, as authorized by this part under such terms as the Administrator may require, to provide additional operational assistance to smaller enterprises financed, or expected to be financed, by the companies.
   - **(2)** The Administrator may require, as a condition of any supplemental grant made under this subsection, that the company or entity receiving the grant provide from resources (in a 1 1 So in original. The article probably should not appear. cash or in kind), other then 2 2 So in original. Probably should be “than”. those provided by the Administrator, a matching contribution equal to the amount of the supplemental grant.
 - **(c)** None of the assistance made available under this section may be used for any overhead or general and administrative expense of a New Markets Venture Capital company or a specialized small business investment company.
+
+## Source Credit
+
+*([Pub. L. 85–699, title III, § 358](https://www.govinfo.gov/link/plaw/85/public/699), as added [Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–660.)*

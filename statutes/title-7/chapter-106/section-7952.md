@@ -3,9 +3,10 @@ title: "Section 7952 - Establishment of payment yield and base acres for peanuts
 usc_title: 7
 usc_section: "7952"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7952"
-generated_at: "2026-03-30T02:53:42.467Z"
+generated_at: "2026-11-23T21:25:28.457Z"
+status: "active"
 ---
 
 # § 7952. Establishment of payment yield and base acres for peanuts for a farm
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:53:42.467Z"
   - **(4)** In applying paragraph (1), the Secretary shall make an exception in the case of double cropping, as determined by the Secretary.
   - **(5)** The Secretary shall take into account section 7911(g) of this title when applying the requirements of this subsection.
 - **(g)** The owner of a farm may reduce, at any time, the base acres for peanuts assigned to the farm. The reduction shall be permanent and made in the manner prescribed by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 107–171, title I, § 1302](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 167](https://www.govinfo.gov/link/statute/116/167).)*

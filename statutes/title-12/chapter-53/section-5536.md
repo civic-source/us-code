@@ -3,9 +3,10 @@ title: "Section 5536 - Prohibited acts"
 usc_title: 12
 usc_section: "5536"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5536"
-generated_at: "2026-03-30T02:53:53.545Z"
+generated_at: "2026-11-23T21:25:37.286Z"
+status: "active"
 ---
 
 # § 5536. Prohibited acts
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:53.545Z"
     - **(C)** to make reports or provide information to the Bureau; or
   - **(3)** any person to knowingly or recklessly provide substantial assistance to a covered person or service provider in violation of the provisions of section 5531 of this title , or any rule or order issued thereunder, and notwithstanding any provision of this title, 1 1 See References in Text note below. the provider of such substantial assistance shall be deemed to be in violation of that section to the same extent as the person to whom such assistance is provided.
 - **(b)** No person shall be held to have violated subsection (a)(1) solely by virtue of providing or selling time or space to a covered person or service provider placing an advertisement.
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1036](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2010](https://www.govinfo.gov/link/statute/124/2010).)*

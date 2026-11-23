@@ -3,9 +3,10 @@ title: "Section 30109 - National strategy, classification, and reporting on cybe
 usc_title: 34
 usc_section: "30109"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 30109"
-generated_at: "2026-03-30T02:55:33.306Z"
+generated_at: "2026-11-23T21:26:09.819Z"
+status: "active"
 ---
 
 # § 30109. National strategy, classification, and reporting on cybercrime
@@ -24,3 +25,25 @@ generated_at: "2026-03-30T02:55:33.306Z"
   - **(3)** classify the category established under paragraph (1) as a Part I crime in the Uniform Crime Reports; and
   - **(4)** classify each type of cybercrime against individuals that is an offense under Federal or State law as a Group A offense for the purpose of the National Incident-Based Reporting System.
 - **(d)** The Attorney General shall publish an annual summary of the information reported in the Uniform Crime Reports and the National Incident-Based Reporting System relating to cybercrimes against individuals, including an evaluation of the implementation process for the national strategy developed under subsection (b) and outcome measurements on its impact on Tribal and culturally specific communities.
+
+National Strategy
+
+In General
+
+Development
+
+Report
+
+Authorization of Appropriations
+
+In General
+
+Recommendations
+
+In General
+
+Authorization of Appropriations
+
+## Source Credit
+
+*([Pub. L. 117–103, div. W, title XIV, § 1403](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 950](https://www.govinfo.gov/link/statute/136/950).)*

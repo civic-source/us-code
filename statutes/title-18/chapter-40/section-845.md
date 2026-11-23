@@ -3,9 +3,10 @@ title: "Section 845 - Exceptions; relief from disabilities"
 usc_title: 18
 usc_section: "845"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 845"
-generated_at: "2026-03-30T02:54:16.471Z"
+generated_at: "2026-11-23T21:25:43.999Z"
+status: "active"
 ---
 
 # § 845. Exceptions; relief from disabilities
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:16.471Z"
     - **(C)** forensic science purposes; or
   - **(2)** was plastic explosive that, within 3 years after the date of enactment of the Antiterrorism and Effective Death Penalty Act of 1996, will be or is incorporated in a military device within the territory of the United States and remains an integral part of such military device, or is intended to be, or is incorporated in, and remains an integral part of a military device that is intended to become, or has become, the property of any agency of the United States performing military or police functions (including any military reserve component) or the National Guard of any State, wherever such device is located.
   - **(3)** For purposes of this subsection, the term “military device” includes, but is not restricted to, shells, bombs, projectiles, mines, missiles, rockets, shaped charges, grenades, perforators, and similar devices lawfully manufactured exclusively for military or police purposes.
+
+## Source Credit
+
+*(Added [Pub. L. 91–452, title XI, § 1102(a)](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 958](https://www.govinfo.gov/link/statute/84/958); amended [Pub. L. 93–639, § 101](https://www.govinfo.gov/link/plaw/93/public/639), Jan. 4, 1975, [88 Stat. 2217](https://www.govinfo.gov/link/statute/88/2217); [Pub. L. 104–132, title VI, § 605](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1289](https://www.govinfo.gov/link/statute/110/1289); [Pub. L. 107–296, title XI](https://www.govinfo.gov/link/plaw/107/public/296), §§ 1112(e)(3), 1126, Nov. 25, 2002, [116 Stat. 2276](https://www.govinfo.gov/link/statute/116/2276), 2285; [Pub. L. 109–59, title VII, § 7127](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1909](https://www.govinfo.gov/link/statute/119/1909); [Pub. L. 111–211, title II, § 236(a)](https://www.govinfo.gov/link/plaw/111/public/211), (c), July 29, 2010, [124 Stat. 2286](https://www.govinfo.gov/link/statute/124/2286).)*

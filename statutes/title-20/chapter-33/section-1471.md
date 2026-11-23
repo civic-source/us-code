@@ -3,9 +3,10 @@ title: "Section 1471 - Parent training and information centers"
 usc_title: 20
 usc_section: "1471"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1471"
-generated_at: "2026-03-30T02:54:48.168Z"
+generated_at: "2026-11-23T21:25:47.348Z"
+status: "active"
 ---
 
 # § 1471. Parent training and information centers
@@ -61,3 +62,7 @@ generated_at: "2026-03-30T02:54:48.168Z"
 - **(f)**
   - **(1)** The board of directors of each parent organization that receives an award under this section shall meet not less than once in each calendar quarter to review the activities for which the award was made.
   - **(2)** When a parent organization requests a continuation award under this section, the board of directors shall submit to the Secretary a written review of the parent training and information program conducted by the parent organization during the preceding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 671](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2788](https://www.govinfo.gov/link/statute/118/2788).)*

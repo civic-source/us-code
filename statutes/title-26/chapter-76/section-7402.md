@@ -3,9 +3,10 @@ title: "Section 7402 - Jurisdiction of district courts"
 usc_title: 26
 usc_section: "7402"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7402"
-generated_at: "2026-03-30T02:55:27.870Z"
+generated_at: "2026-11-23T21:26:06.952Z"
+status: "active"
 ---
 
 # § 7402. Jurisdiction of district courts
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:27.870Z"
 - **[(d)**
 - **(e)** The United States district courts shall have jurisdiction of any action brought by the United States to quiet title to property if the title claimed by the United States to such property was derived from enforcement of a lien under this title.
 - **(f)** For general jurisdiction of the district courts of the United States in civil actions involving internal revenue, see section 1340 of title 28 of the United States Code.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 873; [Pub. L. 89–719, title I, § 107(a)](https://www.govinfo.gov/link/plaw/89/public/719), Nov. 2, 1966, [80 Stat. 1140](https://www.govinfo.gov/link/statute/80/1140); [Pub. L. 93–310, title II, § 230(d)](https://www.govinfo.gov/link/plaw/93/public/310), June 6, 1972, [86 Stat. 209](https://www.govinfo.gov/link/statute/86/209).)*

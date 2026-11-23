@@ -3,9 +3,10 @@ title: "Section 19016 - Chief Diversity Officer of the NSF"
 usc_title: 42
 usc_section: "19016"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19016"
-generated_at: "2026-03-30T02:56:11.537Z"
+generated_at: "2026-11-23T21:26:33.863Z"
+status: "active"
 ---
 
 # § 19016. Chief Diversity Officer of the NSF
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:11.537Z"
   - **(6)** advising on the application of the Foundation’s broader impacts review criterion; and
   - **(7)** performing such additional duties and exercise such powers as the Director may prescribe.
 - **(c)** To carry out this section, there are authorized to be appropriated $5,000,000 for each of fiscal years 2023 through 2027.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10327](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1544](https://www.govinfo.gov/link/statute/136/1544).)*

@@ -3,9 +3,10 @@ title: "Section 2 - Education and outreach"
 usc_title: 42
 usc_section: "2"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T02:56:10.848Z"
+generated_at: "2026-11-23T21:26:30.958Z"
+status: "active"
 ---
 
 # § 300mm–2. Education and outreach
@@ -20,3 +21,7 @@ The WTC Program Administrator shall institute a program that provides education 
   - **(2)** shall be conducted in a manner intended—
     - **(A)** to reach all affected populations; and
     - **(B)** to include materials for culturally and linguistically diverse populations.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXXIII, § 3303, as added [Pub. L. 111–347, title I, § 101](https://www.govinfo.gov/link/plaw/111/public/347), Jan. 2, 2011, [124 Stat. 3629](https://www.govinfo.gov/link/statute/124/3629).)*

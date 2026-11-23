@@ -3,9 +3,10 @@ title: "Section 1667 - Definitions"
 usc_title: 15
 usc_section: "1667"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1667"
-generated_at: "2026-03-30T02:54:08.145Z"
+generated_at: "2026-11-23T21:25:39.865Z"
+status: "active"
 ---
 
 # § 1667. Definitions
@@ -17,3 +18,7 @@ For purposes of this part—
   - **(3)** The term “lessor” means a person who is regularly engaged in leasing, offering to lease, or arranging to lease under a consumer lease.
   - **(4)** The term “personal property” means any property which is not real property under the laws of the State where situated at the time offered or otherwise made available for lease.
   - **(5)** The terms “security” and “security interest” mean any interest in property which secures payment or performance of an obligation.
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 181](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 94–240, § 3](https://www.govinfo.gov/link/plaw/94/public/240), Mar. 23, 1976, [90 Stat. 257](https://www.govinfo.gov/link/statute/90/257); amended [Pub. L. 111–203, title X, § 1100E(a)(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2111](https://www.govinfo.gov/link/statute/124/2111).)*

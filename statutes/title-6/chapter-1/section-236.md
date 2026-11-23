@@ -3,9 +3,10 @@ title: "Section 236 - Visa issuance"
 usc_title: 6
 usc_section: "236"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 236"
-generated_at: "2026-03-30T02:53:09.453Z"
+generated_at: "2026-11-23T21:25:25.768Z"
+status: "active"
 ---
 
 # § 236. Visa issuance
@@ -65,3 +66,7 @@ generated_at: "2026-03-30T02:53:09.453Z"
   - **(2)** Not later than 1 year after November 25, 2002 , the Secretary shall submit a report containing the findings of the study conducted under paragraph (1) to the Committee on the Judiciary, the Committee on International Relations, and the Committee on Government Reform of the House of Representatives, and the Committee on the Judiciary, the Committee on Foreign Relations, and the Committee on Government 4 4 So in original. Probably should be “Governmental”. Affairs of the Senate.
 - **(h)** Not later than 120 days after November 25, 2002 , the Director of the Office of Science and Technology Policy shall submit to Congress a report on how the provisions of this section will affect procedures for the issuance of student visas.
 - **(i)** Notwithstanding any other provision of law, after November 25, 2002 , all third party screening programs in Saudi Arabia shall be terminated. On-site personnel of the Department of Homeland Security shall review all visa applications prior to adjudication.
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 428](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2187](https://www.govinfo.gov/link/statute/116/2187).)*

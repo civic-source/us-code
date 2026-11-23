@@ -3,9 +3,10 @@ title: "Section 6050R - Returns relating to certain purchases of fish"
 usc_title: 26
 usc_section: "6050R"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6050R"
-generated_at: "2026-03-30T02:55:27.835Z"
+generated_at: "2026-11-23T21:26:06.783Z"
+status: "active"
 ---
 
 # § 6050R. Returns relating to certain purchases of fish
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:27.835Z"
 - **(d)** For purposes of this section:
   - **(1)** The term “cash” has the meaning given such term by section 6050I(d).
   - **(2)** The term “fish” includes other forms of aquatic life.
+
+## Source Credit
+
+*(Added [Pub. L. 104–188, title I, § 1116(b)(1)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1763](https://www.govinfo.gov/link/statute/110/1763); amended [Pub. L. 105–34, title XVI, § 1601(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1086](https://www.govinfo.gov/link/statute/111/1086); [Pub. L. 105–206, title VI, § 6023(21)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 826](https://www.govinfo.gov/link/statute/112/826).)*

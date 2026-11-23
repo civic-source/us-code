@@ -3,9 +3,10 @@ title: "Section 2108 - Pacific War Memorial and other historical and memorial si
 usc_title: 36
 usc_section: "2108"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 2108"
-generated_at: "2026-03-30T02:55:44.690Z"
+generated_at: "2026-11-23T21:26:13.490Z"
+status: "active"
 ---
 
 # § 2108. Pacific War Memorial and other historical and memorial sites on Corregidor
@@ -25,3 +26,54 @@ generated_at: "2026-03-30T02:55:44.690Z"
 - **(g)** There are authorized to be appropriated—
   - **(1)** $6,000,000 for site preparation, design, planning, construction, and associated administrative costs for the restoration of the Memorial and other historical and memorial sites referred to in subsection (a) of this section; and
   - **(2)** amounts necessary to operate and maintain the Memorial and those other historical and memorial sites.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 2108(a) | 36:125b(a), (b). | Nov. 18, 1988 , Pub. L. 100–687, title XVI, § 1602 , 102 Stat. 4137 . |
+| 2108(b) | 36:125b(c). |  |
+| 2108(c) | 36:125b(d). |  |
+| 2108(d) | 36:125b(f). |  |
+| 2108(e) | 36:125b(e). |  |
+| 2108(f) | 36:125b(g). |  |
+| 2108(g) | 36:125b(h). |  |
+
+
+General
+
+Personnel
+
+Use of Other Departments, Agencies, and Instrumentalities
+
+Authority To Solicit Contributions
+
+Use of Private Amounts
+
+Fund
+
+Authorization of Appropriations
+
+Historical and Revision Notes
+
+2108(a)
+
+Nov. 18, 1988
+
+Pub. L. 100–687, title XVI, § 1602
+
+102 Stat. 4137
+
+2108(b)
+
+2108(c)
+
+2108(d)
+
+2108(e)
+
+2108(f)
+
+2108(g)
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1274](https://www.govinfo.gov/link/statute/112/1274).)*

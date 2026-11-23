@@ -3,9 +3,10 @@ title: "Section 5857 - Waiver of certain provisions"
 usc_title: 22
 usc_section: "5857"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5857"
-generated_at: "2026-03-30T02:55:05.420Z"
+generated_at: "2026-11-23T21:25:58.670Z"
+status: "active"
 ---
 
 # § 5857. Waiver of certain provisions
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.420Z"
 - **(b)** Subsection (a) does not apply with respect to—
   - **(1)** this subchapter; and
   - **(2)** section 1341 of title 31 (commonly referred to as the “Anti-Deficiency Act”), the Congressional Budget and Impoundment Control Act of 1974, the Balanced Budget and Emergency Deficit Control Act of 1985, and the Budget Enforcement Act of 1990.
+
+## Source Credit
+
+*([Pub. L. 102–511, title V, § 507](https://www.govinfo.gov/link/plaw/102/public/511), Oct. 24, 1992, [106 Stat. 3341](https://www.govinfo.gov/link/statute/106/3341).)*

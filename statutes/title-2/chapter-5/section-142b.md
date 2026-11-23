@@ -3,9 +3,10 @@ title: "Section 142b - Certifying officers of the Library of Congress; accountab
 usc_title: 2
 usc_section: "142b"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 142b"
-generated_at: "2026-03-30T02:53:04.788Z"
+generated_at: "2026-11-23T21:25:21.135Z"
+status: "active"
 ---
 
 # § 142b. Certifying officers of the Library of Congress; accountability; relief by Comptroller General
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:04.788Z"
   - **(1)** that the certification was based on official records and that such certifying officer or employee did not know, and by reasonable diligence and inquiry could not have ascertained, the actual facts, or
   - **(2)** that the obligation was incurred in good faith, that the payment was not contrary to any statutory provision specifically prohibiting payments of the character involved, and the United States has received value for such payment: Provided further , That the Comptroller General shall relieve such certifying officer or employee of liability for an overpayment for transportation services made to any common carrier covered by section 3726 of title 31 , whenever he finds that the overpayment occurred solely because the administrative examination made prior to payment of the transportation bill did not include a verification of transportation rates, freight classifications, or land grant deductions.
 
+
+## Source Credit
+
+*([Pub. L. 85–53, § 1](https://www.govinfo.gov/link/plaw/85/public/53), June 13, 1957, [71 Stat. 81](https://www.govinfo.gov/link/statute/71/81); [Pub. L. 92–310, title II, § 220(k)](https://www.govinfo.gov/link/plaw/92/public/310), June 6, 1972, [86 Stat. 205](https://www.govinfo.gov/link/statute/86/205).)*

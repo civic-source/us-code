@@ -3,12 +3,17 @@ title: "Section 165 - Notice to Congressional committees"
 usc_title: 25
 usc_section: "165"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 165"
-generated_at: "2026-03-30T02:54:52.799Z"
+generated_at: "2026-11-23T21:25:54.547Z"
+status: "active"
 ---
 
 # § 165. Notice to Congressional committees
 
 The Secretary shall not restore to tribal ownership or deposit in the general fund of the Treasury any funds pursuant to section 164 of this title and this section until sixty calendar days (exclusive of days on which either the Senate or the House of Representatives is not in session because of an adjournment of more than three days to a day certain) after he has submitted notice of his proposed action to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives unless each of said committees has theretofore notified him that it has no objection to the proposed action.
 
+
+## Source Credit
+
+*([Pub. L. 87–283, § 2](https://www.govinfo.gov/link/plaw/87/public/283), Sept. 22, 1961, [75 Stat. 584](https://www.govinfo.gov/link/statute/75/584); [Pub. L. 103–437, § 10(b)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4589](https://www.govinfo.gov/link/statute/108/4589).)*

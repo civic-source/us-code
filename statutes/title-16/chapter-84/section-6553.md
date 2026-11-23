@@ -3,9 +3,10 @@ title: "Section 6553 - Accelerated information gathering regarding forest-damagi
 usc_title: 16
 usc_section: "6553"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6553"
-generated_at: "2026-03-30T02:54:23.062Z"
+generated_at: "2026-11-23T21:25:52.044Z"
+status: "active"
 ---
 
 # § 6553. Accelerated information gathering regarding forest-damaging insects
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:23.062Z"
     - **(B)** Federal, State, and local agencies; and
     - **(C)** private and industrial landowners; and
   - **(2)** designate such colleges and universities to assist in carrying out the program.
+
+## Source Credit
+
+*([Pub. L. 108–148, title IV, § 403](https://www.govinfo.gov/link/plaw/108/public/148), Dec. 3, 2003, [117 Stat. 1909](https://www.govinfo.gov/link/statute/117/1909).)*

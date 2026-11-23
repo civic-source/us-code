@@ -3,12 +3,17 @@ title: "Section 434 - Exemption of attorney-client communications"
 usc_title: 29
 usc_section: "434"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 434"
-generated_at: "2026-03-30T02:55:18.683Z"
+generated_at: "2026-11-23T21:26:02.181Z"
+status: "active"
 ---
 
 # § 434. Exemption of attorney-client communications
 
 Nothing contained in this chapter shall be construed to require an attorney who is a member in good standing of the bar of any State, to include in any report required to be filed pursuant to the provisions of this chapter any information which was lawfully communicated to such attorney by any of his clients in the course of a legitimate attorney-client relationship.
 
+
+## Source Credit
+
+*([Pub. L. 86–257, title II, § 204](https://www.govinfo.gov/link/plaw/86/public/257), Sept. 14, 1959, [73 Stat. 528](https://www.govinfo.gov/link/statute/73/528).)*

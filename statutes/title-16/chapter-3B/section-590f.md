@@ -3,9 +3,10 @@ title: "Section 590f - Authorization of appropriations and conservation technica
 usc_title: 16
 usc_section: "590f"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 590f"
-generated_at: "2026-03-30T02:54:22.882Z"
+generated_at: "2026-11-23T21:25:51.688Z"
+status: "active"
 ---
 
 # § 590f. Authorization of appropriations and conservation technical assistance funds
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:22.882Z"
     - **(A)** only be available to the extent and in the amount provided in advance in appropriations Acts;
     - **(B)** be used for the costs of carrying out this chapter; and
     - **(C)** remain available until expended.
+
+## Source Credit
+
+*(Apr. 27, 1935, ch. 85, § 6, [49 Stat. 164](https://www.govinfo.gov/link/statute/49/164); Sept. 21, 1944, ch. 412, title III, § 302(a), [58 Stat. 738](https://www.govinfo.gov/link/statute/58/738); [Pub. L. 113–67, div. A, title VII, § 705(b)](https://www.govinfo.gov/link/plaw/113/public/67), Dec. 26, 2013, [127 Stat. 1193](https://www.govinfo.gov/link/statute/127/1193).)*

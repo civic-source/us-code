@@ -3,9 +3,10 @@ title: "Section 2146a - Searchable database requirements"
 usc_title: 7
 usc_section: "2146a"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2146a"
-generated_at: "2026-03-30T02:53:42.378Z"
+generated_at: "2026-11-23T21:25:28.278Z"
+status: "active"
 ---
 
 # § 2146a. Searchable database requirements
@@ -18,3 +19,7 @@ The Animal and Plant Health Inspection Service shall, notwithstanding any other 
   - **(2)** all final Animal Welfare Act and Horse Protection Act enforcement records for the current year and the preceding three years;
   - **(3)** all reports or other materials documenting any violations and non-compliances observed by USDA officials for the current year and the preceding three years; and
   - **(4)** within six months of receipt by the agency, all final Animal Welfare Act research facility annual reports, including their attachments with appropriate redactions made for confidential business information that USDA could withhold under FOIA Exemption 4.
+
+## Source Credit
+
+*([Pub. L. 116–94, div. B, title VII, § 788](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 2657](https://www.govinfo.gov/link/statute/133/2657); [Pub. L. 117–103, div. A, title VII, § 765](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 98](https://www.govinfo.gov/link/statute/136/98).)*

@@ -3,9 +3,10 @@ title: "Section 410dddd - White Sands National Park"
 usc_title: 16
 usc_section: "410dddd"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410dddd"
-generated_at: "2026-03-30T02:54:22.786Z"
+generated_at: "2026-11-23T21:25:51.492Z"
+status: "active"
 ---
 
 # § 410dddd. White Sands National Park
@@ -81,3 +82,33 @@ generated_at: "2026-03-30T02:54:22.786Z"
         - **(I)** the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ( 42 U.S.C. 9601 et seq.);
         - **(II)** the purposes for which the Park was established; and
         - **(III)** any other applicable law.
+
+(aa) manage the land described in subclause (III) in a manner consistent with the protection of natural and cultural resources within the missile range and the Park and in accordance with section 670a(a)(1)(B) of this title , division A of subtitle III of title 54, and the Native American Graves Protection and Repatriation Act ( 25 U.S.C. 3001 et seq.); and
+
+(bb) include the land described in subclause (III) in the integrated natural and cultural resource management plan for the missile range.
+
+(aa) T. 17 S., R. 5 E., sec. 31;
+
+(bb) T. 18 S., R. 5 E.; and
+
+(cc) T. 19 S., R. 5 E., sec. 5.
+
+Historical Markers Required.—
+
+Holloman air force base
+
+White sands missile range
+
+Required Information
+
+Briefing Required
+
+Definitions
+
+Manhattan project
+
+Trinity site
+
+## Source Credit
+
+*([Pub. L. 116–92, div. B, title XXVIII, § 2851](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1895](https://www.govinfo.gov/link/statute/133/1895).)*

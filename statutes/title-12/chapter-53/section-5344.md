@@ -3,9 +3,10 @@ title: "Section 5344 - Organizational structure; responsibilities of primary pro
 usc_title: 12
 usc_section: "5344"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5344"
-generated_at: "2026-03-30T02:53:53.530Z"
+generated_at: "2026-11-23T21:25:37.241Z"
+status: "active"
 ---
 
 # § 5344. Organizational structure; responsibilities of primary programmatic units
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:53:53.530Z"
     - **(A)** an analysis of any threats to the financial stability of the United States;
     - **(B)** the status of the efforts of the Office in meeting the mission of the Office; and
     - **(C)** key findings from the research and analysis of the financial system by the Office.
+
+## Source Credit
+
+*([Pub. L. 111–203, title I, § 154](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1416](https://www.govinfo.gov/link/statute/124/1416).)*

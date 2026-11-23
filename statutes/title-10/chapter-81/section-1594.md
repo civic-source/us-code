@@ -3,9 +3,10 @@ title: "Section 1594 - Reimbursement for financial institution charges incurred 
 usc_title: 10
 usc_section: "1594"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1594"
-generated_at: "2026-03-30T02:53:38.131Z"
+generated_at: "2026-11-23T21:25:32.519Z"
+status: "active"
 ---
 
 # § 1594. Reimbursement for financial institution charges incurred because of Government error in direct deposit of pay
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:38.131Z"
 - **(d)** In this section:
   - **(1)** The term “financial institution” means a bank, savings and loan association, or similar institution or a credit union chartered by the United States or a State.
   - **(2)** The term “pay” includes allowances.
+
+## Source Credit
+
+*(Added [Pub. L. 101–189, div. A, title VI, § 664(b)(1)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1466](https://www.govinfo.gov/link/statute/103/1466); amended [Pub. L. 101–510, div. A, title XIV, § 1484(k)(6)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1719](https://www.govinfo.gov/link/statute/104/1719); [Pub. L. 102–25, title VII, § 701(e)(8)(A)](https://www.govinfo.gov/link/plaw/102/public/25), Apr. 6, 1991, [105 Stat. 115](https://www.govinfo.gov/link/statute/105/115); [Pub. L. 105–261, div. A, title V, § 564(b)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2029](https://www.govinfo.gov/link/statute/112/2029).)*

@@ -3,9 +3,10 @@ title: "Section 9402 - Regional strategy for countering conventional and asymmet
 usc_title: 22
 usc_section: "9402"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9402"
-generated_at: "2026-03-30T02:55:05.465Z"
+generated_at: "2026-11-23T21:25:58.771Z"
+status: "active"
 ---
 
 # § 9402. Regional strategy for countering conventional and asymmetric Iranian threats in the Middle East and North Africa
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:05.465Z"
 - **(d)** In this section, the term “appropriate congressional committees and leadership” means—
   - **(1)** the Committee on Finance, the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, and the majority and minority leaders of the Senate; and
   - **(2)** the Committee on Ways and Means, the Committee on Financial Services, the Committee on Foreign Affairs, and the Speaker, the majority leader, and the minority leader of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 115–44, title I, § 103](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 889](https://www.govinfo.gov/link/statute/131/889).)*

@@ -3,9 +3,10 @@ title: "Section 2731 - Oil Spill Recovery Institute"
 usc_title: 33
 usc_section: "2731"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2731"
-generated_at: "2026-03-30T02:55:41.133Z"
+generated_at: "2026-11-23T21:26:11.465Z"
+status: "active"
 ---
 
 # § 2731. Oil Spill Recovery Institute
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:41.133Z"
 - **(j)** No funds made available to carry out this section may be used to initiate litigation. No funds made available to carry out this section may be used for the acquisition of real property (including buildings) or construction of any building. No more than 20 percent of funds made available to carry out this section may be used to lease necessary facilities and to administer the Institute. The Advisory Board may compensate its Federal representatives for their reasonable travel costs. None of the funds authorized by this section shall be used for any purpose other than the functions specified in subsection (b).
 - **(k)** The Institute shall publish and make available to any person upon request the results of all research, educational, and demonstration projects conducted by the Institute. The Administrator shall provide a copy of all research, educational, and demonstration projects conducted by the Institute to the National Oceanic and Atmospheric Administration.
 - **(l)** In this section, the term “Prince William Sound and its adjacent waters” means such sound and waters as generally depicted on the map entitled “EXXON VALDEZ oil spill dated March 1990”.
+
+## Source Credit
+
+*([Pub. L. 101–380, title V, § 5001](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 542](https://www.govinfo.gov/link/statute/104/542); [Pub. L. 104–324, title XI, § 1102(a)](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3964](https://www.govinfo.gov/link/statute/110/3964); [Pub. L. 107–295, title IV, § 427](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2127](https://www.govinfo.gov/link/statute/116/2127); [Pub. L. 109–58, title III, § 389(1)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 747](https://www.govinfo.gov/link/statute/119/747); [Pub. L. 109–241, title IX, § 902](https://www.govinfo.gov/link/plaw/109/public/241) (l)(1), July 11, 2006, [120 Stat. 568](https://www.govinfo.gov/link/statute/120/568).)*

@@ -3,9 +3,10 @@ title: "Section 30301 - Findings"
 usc_title: 34
 usc_section: "30301"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 30301"
-generated_at: "2026-03-30T02:55:33.306Z"
+generated_at: "2026-11-23T21:26:09.820Z"
+status: "active"
 ---
 
 # § 30301. Findings
@@ -37,3 +38,9 @@ Congress makes the following findings:
     - **(B)** the incidence and spread of HIV, AIDS, tuberculosis, hepatitis B and C, and other diseases, contributing to increased health and medical expenditures throughout the Nation;
     - **(C)** the rate of post-traumatic stress disorder, depression, suicide, and the exacerbation of existing mental illnesses among current and former inmates, contributing to increased health and medical expenditures throughout the Nation; and
     - **(D)** the risk of recidivism, civil strife, and violent crime by individuals who have been brutalized by prison rape.
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 108–79, § 2](https://www.govinfo.gov/link/plaw/108/public/79), Sept. 4, 2003, [117 Stat. 972](https://www.govinfo.gov/link/statute/117/972).)*

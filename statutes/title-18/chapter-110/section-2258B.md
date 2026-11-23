@@ -3,9 +3,10 @@ title: "Section 2258B - Limited liability for the reporting, storage, and handli
 usc_title: 18
 usc_section: "2258B"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2258B"
-generated_at: "2026-03-30T02:54:16.499Z"
+generated_at: "2026-11-23T21:25:44.128Z"
+status: "active"
 ---
 
 # § 2258B. Limited liability for the reporting, storage, and handling of certain visual depictions of apparent child pornography to the National Center for Missing & Exploited Children
@@ -57,3 +58,31 @@ generated_at: "2026-03-30T02:54:16.499Z"
       - **(iv)** a representative of the estate of the individual; or
       - **(v)** a person who is a mandated reporter under section 226(a)(1) of the Victims of Child Abuse Act of 1990 ( 34 U.S.C. 20341(a)(1) ); and
     - **(B)** does not include a person who engaged in any activity which constitutes a violation of section 2251.
+
+In General
+
+Intentional, Reckless, or Other Misconduct
+
+Minimizing Access
+
+Limited Liability for NCMEC-Contracted Vendors.—
+
+In general
+
+Intentional, reckless, or other misconduct
+
+Vendor cybersecurity requirements
+
+Limited Liability for Reporting Apparent Child Pornography by an Individual Depicted in the Child Pornography as a Minor, or a Representative of Such Individual.—
+
+In general
+
+Intentional, reckless, or other misconduct
+
+Minimizing access
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 110–401, title V, § 501(a)](https://www.govinfo.gov/link/plaw/110/public/401), Oct. 13, 2008, [122 Stat. 4248](https://www.govinfo.gov/link/statute/122/4248); amended [Pub. L. 115–395, § 3](https://www.govinfo.gov/link/plaw/115/public/395), Dec. 21, 2018, [132 Stat. 5292](https://www.govinfo.gov/link/statute/132/5292); [Pub. L. 118–59, § 2(a)](https://www.govinfo.gov/link/plaw/118/public/59), May 7, 2024, [138 Stat. 1014](https://www.govinfo.gov/link/statute/138/1014).)*

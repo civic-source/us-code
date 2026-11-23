@@ -3,9 +3,10 @@ title: "Section 8421 - Annuity supplement"
 usc_title: 5
 usc_section: "8421"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8421"
-generated_at: "2026-03-30T02:52:56.055Z"
+generated_at: "2026-11-23T21:25:23.415Z"
+status: "active"
 ---
 
 # § 8421. Annuity supplement
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:52:56.055Z"
     - **(B)** the term “average total wages of all workers”, for a year, means the average of the total wages, as defined and computed under section 215(b)(3)(A)(ii)(I) of the Social Security Act for such year; and
     - **(C)** the term “service” does not include military service.
 - **(c)** An amount under this section shall, for purposes of section 8467, be treated in the same way as an amount computed under section 8415.
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 533](https://www.govinfo.gov/link/statute/100/533); amended [Pub. L. 101–194, title V, § 506(b)(10)](https://www.govinfo.gov/link/plaw/101/public/194), Nov. 30, 1989, [103 Stat. 1759](https://www.govinfo.gov/link/statute/103/1759); [Pub. L. 102–378, § 2(65)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1354](https://www.govinfo.gov/link/statute/106/1354); [Pub. L. 107–296, title XIII, § 1321(a)(5)(B)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2297](https://www.govinfo.gov/link/statute/116/2297); [Pub. L. 117–225, § 3(b)(2)(A)(iii)](https://www.govinfo.gov/link/plaw/117/public/225), Dec. 9, 2022, [136 Stat. 2295](https://www.govinfo.gov/link/statute/136/2295).)*

@@ -3,9 +3,10 @@ title: "Section 28501 - Definitions"
 usc_title: 49
 usc_section: "28501"
 chapter: 285
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 28501"
-generated_at: "2026-03-30T02:56:19.350Z"
+generated_at: "2026-11-23T21:26:40.752Z"
+status: "active"
 ---
 
 # § 28501. Definitions
@@ -19,3 +20,7 @@ In this chapter—
   - **(5)** the term “rail carrier” means a person, other than a governmental authority, providing common carrier railroad transportation for compensation subject to the jurisdiction of the Board under chapter 105;
   - **(6)** the term “segregated fixed guideway facility” means a fixed guideway facility constructed within the railroad right-of-way of a rail carrier but physically separate from trackage, including relocated trackage, within the right-of-way used by a rail carrier for freight transportation purposes; and
   - **(7)** the term “trackage” means a railroad line of a rail carrier, including a spur, industrial, team, switching, side, yard, or station track, and a facility of a rail carrier.
+
+## Source Credit
+
+*(Added [Pub. L. 110–432, div. B, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4955](https://www.govinfo.gov/link/statute/122/4955); amended [Pub. L. 117–58, div. C, § 30001(b)(4)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 890](https://www.govinfo.gov/link/statute/135/890).)*

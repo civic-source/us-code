@@ -3,9 +3,10 @@ title: "Section 549a - Donation of personal property through nonprofit refurbish
 usc_title: 40
 usc_section: "549a"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 549a"
-generated_at: "2026-03-30T02:55:43.374Z"
+generated_at: "2026-11-23T21:26:14.809Z"
+status: "active"
 ---
 
 # § 549a. Donation of personal property through nonprofit refurbishers
@@ -74,3 +75,73 @@ generated_at: "2026-03-30T02:55:43.374Z"
   - **(17)** The term “surplus computer or technology equipment” means computer or technology equipment that is property described under section 549(b)(2).
   - **(18)** The term “technology equipment” means any physical asset related to a computer or information technology, including any peripheral component, tablet, communication device (such as a router, server, or cell phone), printer, scanner, uninterruptible power source, cable, or connection.
   - **(19)** The term “veteran” has the meaning given that term in section 101 of title 38 .
+
+Authorization
+
+Eligibility, Participation, and Duties.—
+
+Eligibility
+
+Participation
+
+Duties of refurbishers
+
+Reporting Requirements.—
+
+Refurbisher reports
+
+Administrator reports
+
+Agency reports
+
+Regulations
+
+Judicial Review
+
+Rule of Construction
+
+Definitions
+
+Administrator
+
+Digital divide
+
+Disability
+
+Educational institution
+
+Eligible recipient
+
+Institution of higher education
+
+Low-income individual
+
+Nongovernmental entity
+
+Nonprofit computer refurbisher
+
+Nonprofit organization
+
+Repairable
+
+Secondary school
+
+Senior
+
+Senior in need
+
+State agency for surplus property
+
+Student
+
+Surplus computer or technology equipment
+
+Technology equipment
+
+Veteran
+
+“Congress finds the following:
+
+## Source Credit
+
+*(Added [Pub. L. 117–328, div. Z, § 103(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5524](https://www.govinfo.gov/link/statute/136/5524).)*

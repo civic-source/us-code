@@ -3,9 +3,10 @@ title: "Section 620d - Upper Colorado River Basin Fund"
 usc_title: 43
 usc_section: "620d"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 620d"
-generated_at: "2026-03-30T02:55:57.459Z"
+generated_at: "2026-11-23T21:26:19.802Z"
+status: "active"
 ---
 
 # § 620d. Upper Colorado River Basin Fund
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:57.459Z"
 - **(e)** Revenues in the Basin Fund in excess of the amounts needed to meet the requirements of clause (1) of subsection (c) of this section, and to return to the general fund of the Treasury the costs set out in subsection (d) of this section, shall be apportioned among the States of the Upper Division in the following percentages: Colorado, 46 per centum; Utah, 21.5 per centum; Wyoming, 15.5 per centum; and New Mexico, 17 per centum: Provided , That prior to the application of such percentages, all revenues remaining in the Basin Fund from each participating project (or part thereof), herein or hereafter authorized, after payments, where applicable, with respect to such projects, to the general fund of the Treasury under subparagraphs (1), (2), and (3) of subsection (d) of this section shall be apportioned to the State in which such participating project, or part thereof, is located. Revenues so apportioned to each State shall be used only for the repayment of construction costs of participating projects or parts of such projects in the State to which such revenues are apportioned and shall not be used for such purpose in any other State without the consent, as expressed through its legally constituted authority, of the State to which such revenues are apportioned. Subject to such requirement, there shall be paid annually into the general fund of the Treasury from the revenues apportioned to each State (1) the costs of each participating project herein authorized (except Paonia) or any separable feature thereof, which are allocated to irrigation pursuant to section 620e of this title , within a period not exceeding fifty years, in addition to any development period authorized by law, from the date of completion of such participating project or separable feature thereof, or, in the case of Indian lands, payment in accordance with section 620c of this title ; (2) costs of the Paonia project, which are beyond the ability of the water users to repay, within a period prescribed in the Act of June 25, 1947 ( 61 Stat. 181 ); and (3) costs in connection with the irrigation features of the Eden project as specified in the Act of June 28, 1949 ( 63 Stat. 277 ).
 - **(f)** The interest rate applicable to each unit of the storage project and each participating project for purposes of computing interest during construction and interest on the unpaid balance shall be determined by the Secretary of the Treasury, as of the beginning of the fiscal year in which construction is initiated, on the basis of the computed average interest rate payable by the Treasury upon its outstanding marketable public obligations, which are neither due nor callable for redemption for fifteen years from the date of issue.
 - **(g)** Business-type budgets shall be submitted to the Congress annually for all operations financed by the Basin Fund.
+
+## Source Credit
+
+*(Apr. 11, 1956, ch. 203, § 5, [70 Stat. 107](https://www.govinfo.gov/link/statute/70/107); [Pub. L. 86–529, § 9](https://www.govinfo.gov/link/plaw/86/public/529) (part), June 27, 1960, [74 Stat. 227](https://www.govinfo.gov/link/statute/74/227); [Pub. L. 87–483, § 18](https://www.govinfo.gov/link/plaw/87/public/483), June 13, 1962, [76 Stat. 102](https://www.govinfo.gov/link/statute/76/102); [Pub. L. 93–320, title II, § 205(d)](https://www.govinfo.gov/link/plaw/93/public/320), June 24, 1974, [88 Stat. 273](https://www.govinfo.gov/link/statute/88/273); [Pub. L. 98–569, § 4(h)](https://www.govinfo.gov/link/plaw/98/public/569), Oct. 30, 1984, [98 Stat. 2939](https://www.govinfo.gov/link/statute/98/2939).)*

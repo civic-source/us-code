@@ -3,9 +3,10 @@ title: "Section 16 - Address information reviewed by States and local government
 usc_title: 13
 usc_section: "16"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "13 U.S.C. § 16"
-generated_at: "2026-03-30T02:54:03.337Z"
+generated_at: "2026-11-23T21:25:34.403Z"
+status: "active"
 ---
 
 # § 16. Address information reviewed by States and local governments
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:03.337Z"
 - **(c)** For the purposes of this section—
   - **(1)** the term “local unit of general purpose government” has the meaning given such term by section 184(1) of this title ; and
   - **(2)** the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, the Virgin Islands, and any other territory or possession of the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 103–430, § 2(a)](https://www.govinfo.gov/link/plaw/103/public/430), Oct. 31, 1994, [108 Stat. 4393](https://www.govinfo.gov/link/statute/108/4393).)*

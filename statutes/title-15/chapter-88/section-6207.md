@@ -3,9 +3,10 @@ title: "Section 6207 - Conditions on use of antitrust mutual assistance agreemen
 usc_title: 15
 usc_section: "6207"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6207"
-generated_at: "2026-03-30T02:54:08.209Z"
+generated_at: "2026-11-23T21:25:40.019Z"
+status: "active"
 ---
 
 # § 6207. Conditions on use of antitrust mutual assistance agreements
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:08.209Z"
   - **(3)** conducting such investigation, applying for such order, or providing the requested antitrust evidence, as the case may be, is consistent with the public interest of the United States, taking into consideration, among other factors, whether the foreign state or regional economic integration organization represented by the foreign antitrust authority holds any proprietary interest that could benefit or otherwise be affected by such investigation, by the granting of such order, or by the provision of such antitrust evidence.
 - **(b)** Neither the Attorney General nor the Commission may disclose in violation of an antitrust mutual assistance agreement any antitrust evidence received under such agreement, except that such agreement may not prevent the disclosure of such antitrust evidence to a defendant in an action or proceeding brought by the Attorney General or the Commission for a violation of any of the Federal laws if such disclosure would otherwise be required by Federal law.
 - **(c)** If the Attorney General or the Commission receives a notice described in section 6211(2)(H) of this title , the Attorney General or the Commission, as the case may be, shall transmit such notice to the person that provided the evidence with respect to which such notice is received.
+
+## Source Credit
+
+*([Pub. L. 103–438, § 8](https://www.govinfo.gov/link/plaw/103/public/438), Nov. 2, 1994, [108 Stat. 4601](https://www.govinfo.gov/link/statute/108/4601).)*

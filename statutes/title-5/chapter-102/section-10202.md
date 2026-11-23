@@ -3,9 +3,10 @@ title: "Section 10202 - Authorities"
 usc_title: 5
 usc_section: "10202"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 10202"
-generated_at: "2026-03-30T02:52:56.076Z"
+generated_at: "2026-11-23T21:25:23.468Z"
+status: "active"
 ---
 
 # § 10202. Authorities
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:52:56.076Z"
   - **(4)** determine the rate of basic pay of a member who is changed or demoted to a lower rank, in accordance with section 10208.
 - **(b)** The Secretary is authorized to delegate to the designated agent or agents of the Secretary, any power or function vested in the Secretary under in 1 1 So in original. this chapter.
 - **(c)** The Secretary may prescribe such regulations as may be necessary to administer this chapter.
+
+In General
+
+Delegation of Authority
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 111–282, § 2(a)](https://www.govinfo.gov/link/plaw/111/public/282), Oct. 15, 2010, [124 Stat. 3034](https://www.govinfo.gov/link/statute/124/3034).)*

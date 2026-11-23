@@ -3,9 +3,10 @@ title: "Section 5688 - Disposition and release of seized property"
 usc_title: 26
 usc_section: "5688"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5688"
-generated_at: "2026-03-30T02:55:27.825Z"
+generated_at: "2026-11-23T21:26:06.736Z"
+status: "active"
 ---
 
 # § 5688. Disposition and release of seized property
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:27.825Z"
   - **(5)** Nothing in this section shall affect the authority of the Secretary, under the customs or internal revenue laws, to remit or mitigate the forfeiture, or alleged forfeiture, of such distilled spirits, wines, or beer, or the authority of the Secretary, to compromise any civil or criminal case in respect of such distilled spirits, wines, or beer prior to commencement of suit thereon, or the authority of the Secretary to compromise any claim under the customs laws in respect to such distilled spirits, wines, or beer.
 - **(b)** Except as provided in section 5243, all distilled spirits sold by order of court, or under process of distraint, shall be sold subject to tax; and the purchaser shall immediately, and before he takes possession of said spirits, pay the tax thereon, pursuant to the applicable provisions of this chapter and in accordance with regulations to be prescribed by the Secretary.
 - **(c)** Notwithstanding any provisions of law relating to the return on bond of any vessel or vehicle seized for the violation of any law of the United States, the court having jurisdiction of the subject matter may, in its discretion and upon good cause shown by the United States, refuse to order such return of any such vessel or vehicle to the claimant thereof. As used in this subsection, the word “vessel” includes every description of watercraft used, or capable of being used, as a means of transportation in water or in water and air; and the word “vehicle” includes every animal and description of carriage or other contrivance used, or capable of being used, as a means of transportation on land or through the air.
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1412](https://www.govinfo.gov/link/statute/72/1412); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834).)*

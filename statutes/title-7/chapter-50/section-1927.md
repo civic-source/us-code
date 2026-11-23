@@ -3,9 +3,10 @@ title: "Section 1927 - Repayment requirements"
 usc_title: 7
 usc_section: "1927"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1927"
-generated_at: "2026-03-30T02:53:42.347Z"
+generated_at: "2026-11-23T21:25:28.195Z"
+status: "active"
 ---
 
 # § 1927. Repayment requirements
@@ -47,3 +48,21 @@ generated_at: "2026-03-30T02:53:42.347Z"
 - **(d)** The Secretary may not—
   - **(1)** require any borrower to provide additional collateral to secure a farmer program loan made or insured under this chapter, if the borrower is current in the payment of principal and interest on the loan; or
   - **(2)** bring any action to foreclose, or otherwise liquidate, any such loan as a result of the failure of a borrower to provide additional collateral to secure a loan, if the borrower was current in the payment of principal and interest on the loan at the time the additional collateral was requested.
+
+Joint financing arrangements
+
+Interest rates for water and waste disposal facilities loans.—
+
+In general
+
+Exception
+
+In general
+
+State option
+
+Transitional period
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 307](https://www.govinfo.gov/link/plaw/87/public/128), Aug. 8, 1961, [75 Stat. 308](https://www.govinfo.gov/link/statute/75/308); [Pub. L. 92–419, title I](https://www.govinfo.gov/link/plaw/92/public/419), §§ 113, 114, 128(b), Aug. 30, 1972, [86 Stat. 660](https://www.govinfo.gov/link/statute/86/660), 666; [Pub. L. 95–334, title I, § 108](https://www.govinfo.gov/link/plaw/95/public/334), Aug. 4, 1978, [92 Stat. 422](https://www.govinfo.gov/link/statute/92/422); [Pub. L. 97–35, title I, § 160(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 376](https://www.govinfo.gov/link/statute/95/376); [Pub. L. 99–198, title XIII](https://www.govinfo.gov/link/plaw/99/public/198), §§ 1304A, 1305, Dec. 23, 1985, [99 Stat. 1521](https://www.govinfo.gov/link/statute/99/1521); [Pub. L. 100–233, title VI](https://www.govinfo.gov/link/plaw/100/public/233), §§ 603, 604, Jan. 6, 1988, [101 Stat. 1665](https://www.govinfo.gov/link/statute/101/1665), 1666; [Pub. L. 101–624, title XVIII, § 1803(a)](https://www.govinfo.gov/link/plaw/101/public/624), title XXIII, § 2383, Nov. 28, 1990, [104 Stat. 3818](https://www.govinfo.gov/link/statute/104/3818), 4050; [Pub. L. 102–552, title V, § 516(c)(1)](https://www.govinfo.gov/link/plaw/102/public/552), Oct. 28, 1992, [106 Stat. 4137](https://www.govinfo.gov/link/statute/106/4137); [Pub. L. 103–328, title I, § 113(a)](https://www.govinfo.gov/link/plaw/103/public/328), Sept. 29, 1994, [108 Stat. 2366](https://www.govinfo.gov/link/statute/108/2366); [Pub. L. 104–127, title VI](https://www.govinfo.gov/link/plaw/104/public/127), §§ 604, 661(a), title VII, § 747(b)(1), Apr. 4, 1996, [110 Stat. 1086](https://www.govinfo.gov/link/statute/110/1086), 1106, 1128; [Pub. L. 110–234, title VI](https://www.govinfo.gov/link/plaw/110/public/234), §§ 6011, 6012(b)(1), May 22, 2008, [122 Stat. 1163](https://www.govinfo.gov/link/statute/122/1163), 1165; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VI, §§ 6011, 6012(b)(1), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1925, 1927; [Pub. L. 113–79, title V](https://www.govinfo.gov/link/plaw/113/public/79), §§ 5003, 5004, Feb. 7, 2014, [128 Stat. 834](https://www.govinfo.gov/link/statute/128/834).)*

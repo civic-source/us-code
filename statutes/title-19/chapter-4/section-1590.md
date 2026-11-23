@@ -3,9 +3,10 @@ title: "Section 1590 - Aviation smuggling"
 usc_title: 19
 usc_section: "1590"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1590"
-generated_at: "2026-03-30T02:54:24.645Z"
+generated_at: "2026-11-23T21:25:42.728Z"
+status: "active"
 ---
 
 # § 1590. Aviation smuggling
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:54:24.645Z"
   - **(6)** The presence on board of controlled substances which are not manifested or which are not accompanied by the permits or licenses required under Single Convention on Narcotic Drugs or other international treaty.
   - **(7)** The presence of any compartment or equipment which is built or fitted out for smuggling.
   - **(8)** The failure of a vessel to stop when hailed by a customs officer or other government authority.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 590, as added [Pub. L. 99–570, title III, § 3120](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–84](https://www.govinfo.gov/link/statute/100/3207); amended [Pub. L. 112–93, § 2(a)](https://www.govinfo.gov/link/plaw/112/public/93), (b), Feb. 10, 2012, [126 Stat. 8](https://www.govinfo.gov/link/statute/126/8).)*

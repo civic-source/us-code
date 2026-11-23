@@ -3,9 +3,10 @@ title: "Section 6214 - Cabin user and transfer fees"
 usc_title: 16
 usc_section: "6214"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6214"
-generated_at: "2026-03-30T02:54:23.055Z"
+generated_at: "2026-11-23T21:25:52.036Z"
+status: "active"
 ---
 
 # § 6214. Cabin user and transfer fees
@@ -40,3 +41,66 @@ generated_at: "2026-03-30T02:54:23.055Z"
   - **(1)** Beginning 10 years after December 19, 2014 , the Secretary may retain, and expend, for the purposes described in paragraph (2), any fees collected under this section without further appropriation.
   - **(2)** Amounts made available under paragraph (1) shall be used to administer the recreational residence program and other recreation programs carried out on National Forest System land.
 - **(k)** Effective on the date of the assessment of annual permit fees in accordance with subsection (f) (as certified to Congress by the Secretary), the Cabin User Fee Fairness Act of 2000 ( 16 U.S.C. 6201 et seq.) is repealed.
+
+| Fee Tier | Approximate Percent of Permits Nationally | Fee Amount |
+| --- | --- | --- |
+| Tier 1 | 6 percent | $650 |
+| Tier 2 | 16 percent | $1,150 |
+| Tier 3 | 26 percent | $1,650 |
+| Tier 4 | 22 percent | $2,150 |
+| Tier 5 | 10 percent | $2,650 |
+| Tier 6 | 5 percent | $3,150 |
+| Tier 7 | 5 percent | $3,650 |
+| Tier 8 | 3 percent | $4,150 |
+| Tier 9 | 3 percent | $4,650 |
+| Tier 10 | 3 percent | $5,150 |
+| Tier 11 | 1 percent | $5,650. |
+
+
+Tier 1
+
+6 percent
+
+Tier 2
+
+16 percent
+
+Tier 3
+
+26 percent
+
+Tier 4
+
+22 percent
+
+Tier 5
+
+10 percent
+
+Tier 6
+
+5 percent
+
+Tier 7
+
+5 percent
+
+Tier 8
+
+3 percent
+
+Tier 9
+
+3 percent
+
+Tier 10
+
+3 percent
+
+Tier 11
+
+1 percent
+
+## Source Credit
+
+*([Pub. L. 113–291, div. B, title XXX, § 3024](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3764](https://www.govinfo.gov/link/statute/128/3764).)*

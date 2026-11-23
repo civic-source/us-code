@@ -3,9 +3,10 @@ title: "Section 1161e - American history for freedom"
 usc_title: 20
 usc_section: "1161e"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1161e"
-generated_at: "2026-03-30T02:54:48.151Z"
+generated_at: "2026-11-23T21:25:47.271Z"
+status: "active"
 ---
 
 # § 1161e. American history for freedom
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:54:48.151Z"
       - **(ii)** nonprofit organizations whose mission is consistent with the purpose of this section, such as academic organizations, museums, and libraries, for assistance in carrying out activities described under subsection (a); and
     - **(B)** other activities that meet the purposes of this section.
 - **(f)** For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VIII, § 805](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title VIII, § 801](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3388](https://www.govinfo.gov/link/statute/122/3388).)*

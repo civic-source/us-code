@@ -3,9 +3,10 @@ title: "Section 5196b - Contributions for personnel and administrative expenses"
 usc_title: 42
 usc_section: "5196b"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5196b"
-generated_at: "2026-03-30T02:56:11.227Z"
+generated_at: "2026-11-23T21:26:32.773Z"
+status: "active"
 ---
 
 # § 5196b. Contributions for personnel and administrative expenses
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.227Z"
 - **(g)** In approving standards for State and local emergency preparedness operational plans pursuant to subsection (b)(3), the Administrator shall ensure that such plans take into account the needs of individuals with household pets and service animals prior to, during, and following a major disaster or emergency.
 - **(h)** If a State fails to submit a plan for approval as required by this section within 60 days after the Administrator notifies the States of the allocations under this section, the Administrator may reallocate such funds, or portions thereof, among the other States in such amounts as, in the judgment of the Administrator, will best assure the adequate development of the emergency preparedness capability of the United States.
 - **(h)** The Administrator shall report annually to the Congress all contributions made pursuant to this section.
+
+## Source Credit
+
+*([Pub. L. 93–288, title VI, § 613](https://www.govinfo.gov/link/plaw/93/public/288), as added [Pub. L. 103–337, div. C, title XXXIV, § 3411(a)(3)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 3106](https://www.govinfo.gov/link/statute/108/3106); amended [Pub. L. 107–188, title I, § 151](https://www.govinfo.gov/link/plaw/107/public/188), June 12, 2002, [116 Stat. 630](https://www.govinfo.gov/link/statute/116/630); [Pub. L. 109–295, title VI, § 631](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1420](https://www.govinfo.gov/link/statute/120/1420); [Pub. L. 109–308, § 2](https://www.govinfo.gov/link/plaw/109/public/308), Oct. 6, 2006, [120 Stat. 1725](https://www.govinfo.gov/link/statute/120/1725); [Pub. L. 111–351, § 3(c)(2)](https://www.govinfo.gov/link/plaw/111/public/351), Jan. 4, 2011, [124 Stat. 3864](https://www.govinfo.gov/link/statute/124/3864).)*

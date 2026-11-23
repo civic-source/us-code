@@ -3,9 +3,10 @@ title: "Section 32101 - Definitions"
 usc_title: 49
 usc_section: "32101"
 chapter: 321
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 32101"
-generated_at: "2026-03-30T02:56:19.362Z"
+generated_at: "2026-11-23T21:26:40.798Z"
+status: "active"
 ---
 
 # § 32101. Definitions
@@ -36,3 +37,78 @@ In this part (except chapter 329 and except as provided in section 33101)—
     - **(C)** a device made or sold for use in towing a passenger motor vehicle.
   - **(12)** “State” means a State of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, and the Virgin Islands.
   - **(13)** “United States district court” means a district court of the United States, a United States court for Guam, the Virgin Islands, and American Samoa, and the district court for the Northern Mariana Islands.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 32101(1) | 15:1901(5), (6) (words before semicolon), (11). | Oct. 20, 1972 , Pub. L. 92–513, § 2(1) –(6) (words before semicolon), (7)–(12), (15)–(18), 86 Stat. 947 , 948; Dec. 22, 1975 , Pub. L. 94–163, § 301 , 89 Stat. 901 ; Oct. 10, 1980 , Pub. L. 96–425, § 8(a)(2) , 94 Stat. 1828 ; Oct. 25, 1984 , Pub. L. 98–547, § 101(b) , 98 Stat. 2767 . |
+| 32101(2) | 15:1901(12). |  |
+| 32101(3) | 15:1901(17). |  |
+| 32101(4) | 15:1901(8). |  |
+| 32101(5) | 15:1901(7). |  |
+| 32101(6) | 15:1901(9). |  |
+| 32101(7) | 15:1901(15). |  |
+| 32101(8) | 15:1901(10). |  |
+| 32101(9) | 15:1901(2). |  |
+| 32101(10) | 15:1901(1). |  |
+| 32101(11) | 15:1901(3), (4). |  |
+| 32101(12) | 15:1901(16). |  |
+| 32101(13) | 15:1901(18). |  |
+
+
+Historical and Revision Notes
+
+Pub. L
+
+32101(1)
+
+Oct. 20, 1972
+
+Pub. L. 92–513, § 2(1)
+
+86 Stat. 947
+
+Dec. 22, 1975
+
+Pub. L. 94–163, § 301
+
+89 Stat. 901
+
+Oct. 10, 1980
+
+Pub. L. 96–425, § 8(a)(2)
+
+94 Stat. 1828
+
+Oct. 25, 1984
+
+Pub. L. 98–547, § 101(b)
+
+98 Stat. 2767
+
+32101(2)
+
+32101(3)
+
+32101(4)
+
+32101(5)
+
+32101(6)
+
+32101(7)
+
+32101(8)
+
+32101(9)
+
+32101(10)
+
+32101(11)
+
+32101(12)
+
+32101(13)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1034](https://www.govinfo.gov/link/statute/108/1034); [Pub. L. 103–429, § 6(27)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4380](https://www.govinfo.gov/link/statute/108/4380).)*

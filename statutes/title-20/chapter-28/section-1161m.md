@@ -3,9 +3,10 @@ title: "Section 1161m - Incentives and rewards for low tuition"
 usc_title: 20
 usc_section: "1161m"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1161m"
-generated_at: "2026-03-30T02:54:48.153Z"
+generated_at: "2026-11-23T21:25:47.280Z"
+status: "active"
 ---
 
 # § 1161m. Incentives and rewards for low tuition
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:54:48.153Z"
         - **(II)** the percentage change in tuition and fees at the institution for the three most recent academic years for which data is available, multiplied by the amount determined under subclause (I).
 - **(d)** In this section, the terms “tuition and fees” and “net price” have the meaning given to such terms in section 1015a of this title .
 - **(e)** There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VIII, § 830](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title VIII, § 801](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3413](https://www.govinfo.gov/link/statute/122/3413); amended [Pub. L. 111–39, title VIII, § 801(10)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1956](https://www.govinfo.gov/link/statute/123/1956).)*

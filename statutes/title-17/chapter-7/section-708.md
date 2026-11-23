@@ -3,9 +3,10 @@ title: "Section 708 - Copyright Office fees"
 usc_title: 17
 usc_section: "708"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 708"
-generated_at: "2026-03-30T02:54:15.354Z"
+generated_at: "2026-11-23T21:25:41.725Z"
+status: "active"
 ---
 
 # § 708. Copyright Office fees
@@ -40,3 +41,15 @@ generated_at: "2026-03-30T02:54:15.354Z"
   - **(2)** With respect to a work that wins a covered competition, the Register of Copyrights—
     - **(A)** shall waive the requirement under subsection (a)(1) with respect to an application for registration of a copyright claim for that work if that application is submitted to the Copyright Office not later than the last day of the calendar year following the year in which the work claimed by the application wins the covered competition (referred to in this paragraph as the “covered year”); and
     - **(B)** may waive a fee described in subparagraph (A) for an application submitted after the end of the covered year if the fee would have been waived under that subparagraph had the application been submitted before the last day of the covered year.
+
+Fees
+
+Adjustment of Fees
+
+In general
+
+Prior claims
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2593](https://www.govinfo.gov/link/statute/90/2593); [Pub. L. 95–94, title IV, § 406(b)](https://www.govinfo.gov/link/plaw/95/public/94), Aug. 5, 1977, [91 Stat. 682](https://www.govinfo.gov/link/statute/91/682); [Pub. L. 97–366, § 1](https://www.govinfo.gov/link/plaw/97/public/366), Oct. 25, 1982, [96 Stat. 1759](https://www.govinfo.gov/link/statute/96/1759); [Pub. L. 101–318, § 2(a)](https://www.govinfo.gov/link/plaw/101/public/318), (b), July 3, 1990, [104 Stat. 287](https://www.govinfo.gov/link/statute/104/287), 288; [Pub. L. 102–307, title I, § 102(f)](https://www.govinfo.gov/link/plaw/102/public/307), June 26, 1992, [106 Stat. 266](https://www.govinfo.gov/link/statute/106/266); [Pub. L. 105–80, § 7](https://www.govinfo.gov/link/plaw/105/public/80), Nov. 13, 1997, [111 Stat. 1532](https://www.govinfo.gov/link/statute/111/1532); [Pub. L. 106–379, § 3(a)(3)](https://www.govinfo.gov/link/plaw/106/public/379), Oct. 27, 2000, [114 Stat. 1445](https://www.govinfo.gov/link/statute/114/1445); [Pub. L. 111–175, title I, § 106](https://www.govinfo.gov/link/plaw/111/public/175), May 27, 2010, [124 Stat. 1244](https://www.govinfo.gov/link/statute/124/1244); [Pub. L. 117–201, § 2](https://www.govinfo.gov/link/plaw/117/public/201), Oct. 17, 2022, [136 Stat. 2222](https://www.govinfo.gov/link/statute/136/2222).)*

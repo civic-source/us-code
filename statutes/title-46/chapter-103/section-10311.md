@@ -3,9 +3,10 @@ title: "Section 10311 - Certificates of discharge"
 usc_title: 46
 usc_section: "10311"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 10311"
-generated_at: "2026-03-30T02:56:15.553Z"
+generated_at: "2026-11-23T21:26:37.110Z"
+status: "active"
 ---
 
 # § 10311. Certificates of discharge
@@ -26,3 +27,16 @@ generated_at: "2026-03-30T02:56:15.553Z"
   - **(1)** A record of each discharge shall be maintained by the owner, charterer, managing operator, master, or individual in charge in the manner and location prescribed by regulation. The records may not be open for general or public use or inspection.
   - **(2)** A duplicate of a record of discharge shall be issued to a seaman at the request of the seaman.
 - **(e)** This section does not apply to a fishing or whaling vessel or a yacht.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 10311 | 46:643 |
+
+
+Historical and Revision Notes
+
+10311
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 564](https://www.govinfo.gov/link/statute/97/564); [Pub. L. 103–206, title IV, § 409](https://www.govinfo.gov/link/plaw/103/public/206), Dec. 20, 1993, [107 Stat. 2436](https://www.govinfo.gov/link/statute/107/2436).)*

@@ -3,12 +3,17 @@ title: "Section 1455 - Boarding and discharging inspectors"
 usc_title: 19
 usc_section: "1455"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1455"
-generated_at: "2026-03-30T02:54:24.636Z"
+generated_at: "2026-11-23T21:25:42.706Z"
+status: "active"
 ---
 
 # § 1455. Boarding and discharging inspectors
 
 The appropriate customs officer for the district in which any vessel or vehicle arrives from a foreign port or place may put on board of such vessel or vehicle while within such district, and if necessary while going from one district to another, one or more inspectors or other customs officers to examine the cargo and contents of such vessel or vehicle and superintend the unlading thereof, and to perform such other duties as may be required by law or the customs regulations for the protection of the revenue. Such inspector or other customs officer may, if he shall deem the same necessary for the protection of the revenue, secure the hatches or other communications or outlets of such vessel or vehicle with customs seals or other proper fastenings while such vessel is not in the act of unlading and such fastenings shall not be removed without permission of the inspector or other customs officer. Such inspector or other customs officer may require any vessel or vehicle to discontinue or suspend unlading during the continuance of unfavorable weather or any conditions rendering the discharge of cargo dangerous or detrimental to the revenue. Any officer, owner, agent of the owner, or member of the crew of any such vessel who obstructs or hinders any such inspector or other customs officer in the performance of his duties, shall be liable to a penalty of not more than $500.
 
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 455, [46 Stat. 716](https://www.govinfo.gov/link/statute/46/716); [Pub. L. 91–271, title III, § 301(b)](https://www.govinfo.gov/link/plaw/91/public/271), June 2, 1970, [84 Stat. 287](https://www.govinfo.gov/link/statute/84/287).)*

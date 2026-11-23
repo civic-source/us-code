@@ -3,12 +3,17 @@ title: "Section 714l - Interest of Members of Congress"
 usc_title: 15
 usc_section: "714l"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 714l"
-generated_at: "2026-03-30T02:54:08.117Z"
+generated_at: "2026-11-23T21:25:39.742Z"
+status: "active"
 ---
 
 # § 714l. Interest of Members of Congress
 
 The provisions of section 6306(a) of title 41 shall apply to all contracts or agreements of the Corporation, except contracts or agreements of a kind which the Corporation may enter into with farmers participating in a program of the Corporation.
 
+
+## Source Credit
+
+*(June 29, 1948, ch. 704, § 14, [62 Stat. 1074](https://www.govinfo.gov/link/statute/62/1074).)*

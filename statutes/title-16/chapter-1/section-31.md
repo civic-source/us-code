@@ -3,9 +3,10 @@ title: "Section 31 - Trust Fund"
 usc_title: 16
 usc_section: "31"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 31"
-generated_at: "2026-03-30T02:54:22.841Z"
+generated_at: "2026-11-23T21:25:51.620Z"
+status: "active"
 ---
 
 # § 460lll–31. Trust Fund
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:22.841Z"
   - **(1)** public education, grants, and internships related to recreation, conservation, and multiple use land management in the Recreation Area; and
   - **(2)** regional promotion in the Recreation Area, in cooperation with development districts, chambers of commerce, and State and local governments.
 - **(c)** The Tennessee Valley Authority shall deposit into the Fund $1,000,000 annually for each of the 5 fiscal years commencing in the first fiscal year of the transfer. Funding to carry out this section shall be derived from funding described in section 460 lll –49 of this title.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. A, § 101(e) [title V, § 531]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–231](https://www.govinfo.gov/link/statute/112/2681), 2681–317.)*

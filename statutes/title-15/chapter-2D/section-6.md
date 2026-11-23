@@ -3,9 +3,10 @@ title: "Section 6 - Prohibited transactions by investment advisers"
 usc_title: 15
 usc_section: "6"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6"
-generated_at: "2026-03-30T02:54:08.072Z"
+generated_at: "2026-11-23T21:25:39.603Z"
+status: "active"
 ---
 
 # § 80b–6. Prohibited transactions by investment advisers
@@ -16,3 +17,7 @@ It shall be unlawful for any investment adviser by use of the mails or any means
   - **(2)** to engage in any transaction, practice, or course of business which operates as a fraud or deceit upon any client or prospective client;
   - **(3)** acting as principal for his own account, knowingly to sell any security to or purchase any security from a client, or acting as broker for a person other than such client, knowingly to effect any sale or purchase of any security for the account of such client, without disclosing to such client in writing before the completion of such transaction the capacity in which he is acting and obtaining the consent of the client to such transaction. The prohibitions of this paragraph shall not apply to any transaction with a customer of a broker or dealer if such broker or dealer is not acting as an investment adviser in relation to such transaction; or
   - **(4)** to engage in any act, practice, or course of business which is fraudulent, deceptive, or manipulative. The Commission shall, for the purposes of this paragraph (4) by rules and regulations define, and prescribe means reasonably designed to prevent, such acts, practices, and courses of business as are fraudulent, deceptive, or manipulative.
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title II, § 206, [54 Stat. 852](https://www.govinfo.gov/link/statute/54/852); [Pub. L. 86–750](https://www.govinfo.gov/link/plaw/86/public/750), §§ 8, 9, Sept. 13, 1960, [74 Stat. 887](https://www.govinfo.gov/link/statute/74/887); [Pub. L. 111–203, title IX, § 985(e)(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1935](https://www.govinfo.gov/link/statute/124/1935).)*

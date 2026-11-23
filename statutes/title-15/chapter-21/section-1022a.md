@@ -3,9 +3,10 @@ title: "Section 1022a - Medium-term economic goals and policies respecting full 
 usc_title: 15
 usc_section: "1022a"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1022a"
-generated_at: "2026-03-30T02:54:08.123Z"
+generated_at: "2026-11-23T21:25:39.774Z"
+status: "active"
 ---
 
 # § 1022a. Medium-term economic goals and policies respecting full employment and balanced growth
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:08.123Z"
 - **(g)**
   - **(1)** The term “middle-aged and older persons” as used in this section includes any individual forty-five years of age or older.
   - **(2)** For purposes of this section, the term “veteran” shall mean the same as defined in section 4211(1) or (2) of title 38.
+
+## Source Credit
+
+*(Feb. 20, 1946, ch. 33, § 4, as added [Pub. L. 95–523, title I, § 104](https://www.govinfo.gov/link/plaw/95/public/523), Oct. 27, 1978, [92 Stat. 1893](https://www.govinfo.gov/link/statute/92/1893); amended [Pub. L. 96–10, § 6(a)](https://www.govinfo.gov/link/plaw/96/public/10) –(c), May 10, 1979, [93 Stat. 23](https://www.govinfo.gov/link/statute/93/23), 24; [Pub. L. 103–446, title XII, § 1203(c)(4)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4690](https://www.govinfo.gov/link/statute/108/4690); [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(11)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–420.)*

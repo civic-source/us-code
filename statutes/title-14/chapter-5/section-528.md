@@ -3,9 +3,10 @@ title: "Section 528 - Protecting against unmanned aircraft"
 usc_title: 14
 usc_section: "528"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 528"
-generated_at: "2026-03-30T02:53:51.489Z"
+generated_at: "2026-11-23T21:25:35.375Z"
+status: "active"
 ---
 
 # § 528. Protecting against unmanned aircraft
@@ -25,3 +26,7 @@ For the purposes of section 210G(k)(3)(C)(iv) 1 1 See References in Text note be
         - **(VI)** air defense of the United States, including air sovereignty, ground-based air defense, and the National Capital Region integrated air defense system; or
         - **(VII)** a search and rescue operation; and
   - **(2)** missions directed by the Secretary pursuant to 2 2 So in original. Probably should be followed by “section”. 210G(k)(3)(C)(iii) 1 of the Homeland Security Act of 2002.
+
+## Source Credit
+
+*(Added [Pub. L. 115–254, div. H, § 1603(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3529](https://www.govinfo.gov/link/statute/132/3529), § 104; renumbered § 528 and amended [Pub. L. 115–282, title I](https://www.govinfo.gov/link/plaw/115/public/282), §§ 105(b), 123(b)(2), Dec. 4, 2018, [132 Stat. 4200](https://www.govinfo.gov/link/statute/132/4200), 4240.)*

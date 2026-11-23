@@ -3,9 +3,10 @@ title: "Section 2 - Employment agency practices"
 usc_title: 42
 usc_section: "2"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T02:56:11.143Z"
+generated_at: "2026-11-23T21:26:32.304Z"
+status: "active"
 ---
 
 # § 2000ff–2. Employment agency practices
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:11.143Z"
       - **(ii)** State genetic monitoring regulations, in the case of a State that is implementing genetic monitoring regulations under the authority of the Occupational Safety and Health Act of 1970 ( 29 U.S.C. 651 et seq.); and
     - **(E)** the employment agency, excluding any licensed health care professional or board certified genetic counselor that is involved in the genetic monitoring program, receives the results of the monitoring only in aggregate terms that do not disclose the identity of specific individuals.
 - **(c)** In the case of information to which any of paragraphs (1) through (5) of subsection (b) applies, such information may not be used in violation of paragraph (1), (2), or (3) of subsection (a) or treated or disclosed in a manner that violates section 2000ff–5 of this title .
+
+## Source Credit
+
+*([Pub. L. 110–233, title II, § 203](https://www.govinfo.gov/link/plaw/110/public/233), May 21, 2008, [122 Stat. 908](https://www.govinfo.gov/link/statute/122/908).)*

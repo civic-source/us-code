@@ -3,9 +3,10 @@ title: "Section 5003 - United States Commissioners"
 usc_title: 16
 usc_section: "5003"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 5003"
-generated_at: "2026-03-30T02:54:23.049Z"
+generated_at: "2026-11-23T21:25:52.026Z"
+status: "active"
 ---
 
 # § 5003. United States Commissioners
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:23.049Z"
 - **(e)**
   - **(1)** The Secretary may pay the necessary travel expenses of the United States Commissioners and Alternate United States Commissioners in carrying out the duties of the Commission in accordance with the Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5.
   - **(2)** The Secretary of Commerce may reimburse the Secretary for amounts expended by the Secretary under this subparagraph. 1 1 So in original. Probably should be “subsection”.
+
+## Source Credit
+
+*([Pub. L. 102–567, title VIII, § 804](https://www.govinfo.gov/link/plaw/102/public/567), Oct. 29, 1992, [106 Stat. 4310](https://www.govinfo.gov/link/statute/106/4310); [Pub. L. 102–587, title VIII, § 8004](https://www.govinfo.gov/link/plaw/102/public/587), Nov. 4, 1992, [106 Stat. 5099](https://www.govinfo.gov/link/statute/106/5099); [Pub. L. 106–562, title III, § 304](https://www.govinfo.gov/link/plaw/106/public/562), Dec. 23, 2000, [114 Stat. 2806](https://www.govinfo.gov/link/statute/114/2806); [Pub. L. 114–327, title I, § 121(b)(1)](https://www.govinfo.gov/link/plaw/114/public/327), Dec. 16, 2016, [130 Stat. 1984](https://www.govinfo.gov/link/statute/130/1984).)*

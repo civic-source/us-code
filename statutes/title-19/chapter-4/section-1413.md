@@ -3,9 +3,10 @@ title: "Section 1413 - Implementation and evaluation of Program"
 usc_title: 19
 usc_section: "1413"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1413"
-generated_at: "2026-03-30T02:54:24.634Z"
+generated_at: "2026-11-23T21:25:42.702Z"
+status: "active"
 ---
 
 # § 1413. Implementation and evaluation of Program
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:24.634Z"
       - **(ii)** a report on such component for each of the 3 full fiscal years occurring after December 8, 1993 , which report shall be transmitted not later than the 90th day after the close of each such year; and
     - **(D)** not later than the 90th day after the close of fiscal year 1994, and annually thereafter through fiscal year 2000, transmit to the Committees a written evaluation with respect to the implementation and effect on users of each of the planned Program components listed in section 1411(a)(2) of this title .
 - **(c)** For purposes of this section, the term “Committees” means the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 413, as added [Pub. L. 103–182, title VI, § 631(2)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2189](https://www.govinfo.gov/link/statute/107/2189); amended [Pub. L. 104–295, § 21(e)(15)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3531](https://www.govinfo.gov/link/statute/110/3531).)*

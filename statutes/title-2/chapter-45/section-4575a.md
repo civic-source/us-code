@@ -3,12 +3,17 @@ title: "Section 4575a - Change in maximum rates of pay for statutory employees"
 usc_title: 2
 usc_section: "4575a"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 4575a"
-generated_at: "2026-03-30T02:53:04.833Z"
+generated_at: "2026-11-23T21:25:21.313Z"
+status: "active"
 ---
 
 # § 4575a. Change in maximum rates of pay for statutory employees
 
       - **(i)** For any position for which the Secretary of the Senate disburses the pay for the position and for which the specific amount of the rate of pay for the particular position is fixed by statute on the day before the effective date of the amendments made by this section, on and after such effective date the amount of the rate of pay for such position shall be fixed by the President pro tempore in an amount not to exceed the maximum rate of pay in effect under section 4575(f) of this title .
       - **(ii)** For any position for which the Secretary of the Senate disburses the pay for the position and for which the maximum rate of pay for the particular position is fixed by statute on the day before the effective date of the amendments made by this section, on and after such effective date the maximum rate of pay for such position shall be fixed by the President pro tempore, which shall not exceed the maximum rate of pay in effect under section 4575(f) of this title .
+
+## Source Credit
+
+*([Pub. L. 116–94, div. E, title II, § 212(a)(1)(B)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 2774](https://www.govinfo.gov/link/statute/133/2774).)*

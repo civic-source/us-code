@@ -3,9 +3,10 @@ title: "Section 818 - Injunctions"
 usc_title: 30
 usc_section: "818"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 818"
-generated_at: "2026-03-30T02:55:29.388Z"
+generated_at: "2026-11-23T21:26:00.392Z"
+status: "active"
 ---
 
 # § 818. Injunctions
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:29.388Z"
     - **(F)** refuses to permit access to, and copying of, such records as the Secretary or the Secretary of Health and Human Services determines necessary in carrying out the provisions of this chapter.
   - **(2)** The Secretary may institute a civil action for relief, including permanent or temporary injunction, restraining order, or any other appropriate order in the district court of the United States for the district in which the coal or other mine is located or in which the operator of such mine has his principal office whenever the Secretary believes that the operator of a coal or other mine is engaged in a pattern of violation of the mandatory health or safety standards of this chapter, which in the judgment of the Secretary constitutes a continuing hazard to the health or safety of miners.
 - **(b)** In any action brought under subsection (a), the court shall have jurisdiction to provide such relief as may be appropriate. In the case of an action under subsection (a)(2), the court shall in its order require such assurance or affirmative steps as it deems necessary to assure itself that the protection afforded to miners under this chapter shall be provided by the operator. Temporary restraining orders shall be issued in accordance with rule 65 of the Federal Rules of Civil Procedure, as amended, except that the time limit in such orders, when issued without notice, shall be seven days from the date of entry. Except as otherwise provided herein, any relief granted by the court to enforce any order under paragraph (1) of subsection (a) shall continue in effect until the completion or final termination of all proceedings for review of such order under this subchapter, unless prior thereto, the district court granting such relief sets it aside or modifies it. In any action instituted under this section to enforce an order or decision issued by the Commission or the Secretary after a public hearing in accordance with section 554 of title 5 , the findings of the Commission or the Secretary, as the case may be, if supported by substantial evidence on the record considered as a whole, shall be conclusive.
+
+## Source Credit
+
+*([Pub. L. 91–173, title I, § 108](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 756](https://www.govinfo.gov/link/statute/83/756); [Pub. L. 95–164, title II, § 201](https://www.govinfo.gov/link/plaw/95/public/164), Nov. 9, 1977, [91 Stat. 1309](https://www.govinfo.gov/link/statute/91/1309); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695); [Pub. L. 109–236, § 9](https://www.govinfo.gov/link/plaw/109/public/236), June 15, 2006, [120 Stat. 501](https://www.govinfo.gov/link/statute/120/501).)*

@@ -3,9 +3,10 @@ title: "Section 3441 - Transfers from Department of Health, Education, and Welfa
 usc_title: 20
 usc_section: "3441"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 3441"
-generated_at: "2026-03-30T02:54:48.178Z"
+generated_at: "2026-11-23T21:25:47.409Z"
+status: "active"
 ---
 
 # § 3441. Transfers from Department of Health, Education, and Welfare
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:54:48.178Z"
   - **(2)** the Office of the Assistant Secretary for Education, including the National Center for Education Statistics; and
   - **(3)** any advisory committee in the Department of Health, Education, and Welfare giving advice and making recommendations principally concerning education functions transferred by this section.
 - **(d)** Nothing in the provisions of this section or in the provisions of this chapter shall authorize the transfer of functions under part A of title V of the Economic Opportunity Act of 1964 [ 42 U.S.C. 2928 et seq.], relating to Project Head Start, from the Secretary of Health, Education, and Welfare to the Secretary.
+
+## Source Credit
+
+*([Pub. L. 96–88, title III, § 301](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 677](https://www.govinfo.gov/link/statute/93/677); [Pub. L. 101–476, title IX, § 901(a)(2)](https://www.govinfo.gov/link/plaw/101/public/476), Oct. 30, 1990, [104 Stat. 1142](https://www.govinfo.gov/link/statute/104/1142); [Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 709(b)(2)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–233](https://www.govinfo.gov/link/statute/110/3009), 3009–313.)*

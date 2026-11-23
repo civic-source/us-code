@@ -3,9 +3,10 @@ title: "Section 2062 - Dental care"
 usc_title: 38
 usc_section: "2062"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 2062"
-generated_at: "2026-03-30T02:55:53.494Z"
+generated_at: "2026-11-23T21:26:16.692Z"
+status: "active"
 ---
 
 # § 2062. Dental care
@@ -23,3 +24,13 @@ generated_at: "2026-03-30T02:55:53.494Z"
     - **(D)** A setting for which the Secretary provides funds for a grant and per diem provider.
   - **(3)** For purposes of paragraph (2), in determining whether a veteran has received treatment for a period of 60 consecutive days, the Secretary may disregard breaks in the continuity of treatment for which the veteran is not responsible.
 - **(c)** Dental benefits provided by reason of this section shall be a one-time course of dental care provided in the same manner as the dental benefits provided to a newly discharged veteran.
+
+In General
+
+Eligible Veterans
+
+Limitation
+
+## Source Credit
+
+*(Added [Pub. L. 107–95, § 5(a)(1)](https://www.govinfo.gov/link/plaw/107/public/95), Dec. 21, 2001, [115 Stat. 913](https://www.govinfo.gov/link/statute/115/913).)*

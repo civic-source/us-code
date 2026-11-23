@@ -3,9 +3,10 @@ title: "Section 81b - Wildlife corridors"
 usc_title: 16
 usc_section: "81b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 81b"
-generated_at: "2026-03-30T02:54:22.774Z"
+generated_at: "2026-11-23T21:25:51.464Z"
+status: "active"
 ---
 
 # § 410aaa–81b. Wildlife corridors
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:22.774Z"
     - **(B)** the Endangered Species Act of 1973 ( 16 U.S.C. 1531 et seq.); and
     - **(C)** any other applicable law.
 - **(c)** The Secretary shall incorporate into all land management plans applicable to the California Desert Conservation Area the findings and recommendations of the study completed under subsection (b).
+
+## Source Credit
+
+*([Pub. L. 103–433, title VII, § 713](https://www.govinfo.gov/link/plaw/103/public/433), as added [Pub. L. 116–9, title I, § 1452](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 711](https://www.govinfo.gov/link/statute/133/711).)*

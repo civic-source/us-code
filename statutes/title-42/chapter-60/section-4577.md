@@ -3,9 +3,10 @@ title: "Section 4577 - Grants and contracts for demonstration of new and more ef
 usc_title: 42
 usc_section: "4577"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4577"
-generated_at: "2026-03-30T02:56:11.206Z"
+generated_at: "2026-11-23T21:26:32.676Z"
+status: "active"
 ---
 
 # § 4577. Grants and contracts for demonstration of new and more effective drug and alcohol abuse prevention, treatment, and rehabilitation programs
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:11.206Z"
       - **(ii)** For purposes of this subparagraph, no grant or contract shall be considered to have been made under this section for a fiscal year ending before September 30, 1981 .
   - **(6)** Each applicant, upon filing its application with the Secretary for a grant or contract to provide prevention or treatment services, shall provide a proposed performance standard or standards to measure, or research protocol to determine, the effectiveness of such services.
   - **(7)** Nothing shall prevent the use of funds provided under this section for programs and projects aimed at the prevention, treatment, or rehabilitation of drug abuse as well as alcohol abuse and alcoholism.
+
+## Source Credit
+
+*([Pub. L. 91–616, title III, § 311](https://www.govinfo.gov/link/plaw/91/public/616), as added [Pub. L. 93–282, title I, § 111](https://www.govinfo.gov/link/plaw/93/public/282), May 14, 1974, [88 Stat. 129](https://www.govinfo.gov/link/statute/88/129); amended [Pub. L. 94–371](https://www.govinfo.gov/link/plaw/94/public/371), §§ 4(c)(1), 6, 12(a), July 26, 1976, [90 Stat. 1035](https://www.govinfo.gov/link/statute/90/1035), 1037, 1041; [Pub. L. 94–573, § 19(a)](https://www.govinfo.gov/link/plaw/94/public/573), Oct. 21, 1976, [90 Stat. 2720](https://www.govinfo.gov/link/statute/90/2720); [Pub. L. 95–83, title III, § 311(c)](https://www.govinfo.gov/link/plaw/95/public/83), Aug. 1, 1977, [91 Stat. 398](https://www.govinfo.gov/link/statute/91/398); [Pub. L. 96–180, § 11](https://www.govinfo.gov/link/plaw/96/public/180), Jan. 2, 1980, [93 Stat. 1304](https://www.govinfo.gov/link/statute/93/1304); [Pub. L. 97–35, title IX, § 963(b)](https://www.govinfo.gov/link/plaw/97/public/35), (c), Aug. 13, 1981, [95 Stat. 593](https://www.govinfo.gov/link/statute/95/593); [Pub. L. 97–414, § 9(d)](https://www.govinfo.gov/link/plaw/97/public/414), Jan. 4, 1983, [96 Stat. 2064](https://www.govinfo.gov/link/statute/96/2064); [Pub. L. 98–24, § 5(a)(1)](https://www.govinfo.gov/link/plaw/98/public/24), Apr. 26, 1983, [97 Stat. 183](https://www.govinfo.gov/link/statute/97/183).)*

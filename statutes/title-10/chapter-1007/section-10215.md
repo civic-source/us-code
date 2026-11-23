@@ -3,9 +3,10 @@ title: "Section 10215 - Officers of Army National Guard of the United States and
 usc_title: 10
 usc_section: "10215"
 chapter: 1007
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 10215"
-generated_at: "2026-03-30T02:53:38.265Z"
+generated_at: "2026-11-23T21:25:33.024Z"
+status: "active"
 ---
 
 # § 10215. Officers of Army National Guard of the United States and Air National Guard of the United States: authority with respect to Federal status
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:38.265Z"
   - **(1)** may enlist, reenlist, or extend the enlistments of persons as Reserves of the Army or Reserves of the Air Force for service in the Army National Guard of the United States or the Air National Guard of the United States, as the case may be; and
   - **(2)** with respect to their Federal status, may promote or discharge persons enlisted or reenlisted as Reserves of the Army or Reserves of the Air Force for that service.
 - **(c)** This section shall be carried out under regulations prescribed by the Secretary of the Army, with respect to matters concerning the Army, and by the Secretary of the Air Force, with respect to matters concerning the Air Force.
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1661(a)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2979](https://www.govinfo.gov/link/statute/108/2979).)*

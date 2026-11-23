@@ -3,9 +3,10 @@ title: "Section 3167 - Reports to Congress"
 usc_title: 18
 usc_section: "3167"
 chapter: 208
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3167"
-generated_at: "2026-03-30T02:54:16.513Z"
+generated_at: "2026-11-23T21:25:44.184Z"
+status: "active"
 ---
 
 # § 3167. Reports to Congress
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:16.513Z"
   - **(3)** the additional resources for the offices of the United States Attorneys which would be necessary to achieve compliance with the time limits of subsections (b) and (c) of section 3161;
   - **(4)** suggested changes in the guidelines or other rules implementing this chapter or statutory amendments which the Department of Justice deems necessary to further improve the administration of justice and meet the objectives of this chapter; and
   - **(5)** the impact of compliance with the time limits of subsections (b) and (c) of section 3161 upon the litigation of civil cases by the offices of the United States Attorneys and the rule changes, statutory amendments, and resources necessary to assure that such litigation is not prejudiced by full compliance with this chapter.
+
+## Source Credit
+
+*(Added [Pub. L. 93–619, title I, § 101](https://www.govinfo.gov/link/plaw/93/public/619), Jan. 3, 1975, [88 Stat. 2083](https://www.govinfo.gov/link/statute/88/2083); amended [Pub. L. 96–43, § 9(e)](https://www.govinfo.gov/link/plaw/96/public/43), Aug. 2, 1979, [93 Stat. 330](https://www.govinfo.gov/link/statute/93/330).)*

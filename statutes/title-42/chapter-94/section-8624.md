@@ -3,9 +3,10 @@ title: "Section 8624 - Applications and requirements"
 usc_title: 42
 usc_section: "8624"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8624"
-generated_at: "2026-03-30T02:56:11.346Z"
+generated_at: "2026-11-23T21:26:33.207Z"
+status: "active"
 ---
 
 # § 8624. Applications and requirements
@@ -97,3 +98,15 @@ generated_at: "2026-03-30T02:56:11.346Z"
   - **(1)** Any State may use amounts provided under this subchapter for the purpose of providing credits against State tax to energy suppliers who supply home energy at reduced rates to low-income households.
   - **(2)** Any such credit provided by a State shall not exceed the amount of the loss of revenue to such supplier on account of such reduced rate.
   - **(3)** Any certification for such tax credits shall be made by the State, but such State may use Federal data available to such State with respect to recipients of supplemental security income benefits if timely delivery of benefits to households described in subsection (b) and suppliers will not be impeded by the use of such data.
+
+Eligibility
+
+Equal Treatment in Benefit Programs
+
+Applicability
+
+Special Rule for Low-Income Home Energy Assistance Program
+
+## Source Credit
+
+*([Pub. L. 97–35, title XXVI, § 2605](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 896](https://www.govinfo.gov/link/statute/95/896); [Pub. L. 98–558, title VI, § 605](https://www.govinfo.gov/link/plaw/98/public/558), Oct. 30, 1984, [98 Stat. 2891](https://www.govinfo.gov/link/statute/98/2891); [Pub. L. 99–425, title V, § 504](https://www.govinfo.gov/link/plaw/99/public/425), Sept. 30, 1986, [100 Stat. 974](https://www.govinfo.gov/link/statute/100/974); [Pub. L. 101–501, title VII](https://www.govinfo.gov/link/plaw/101/public/501), §§ 704, 705, Nov. 3, 1990, [104 Stat. 1259](https://www.govinfo.gov/link/statute/104/1259); [Pub. L. 102–83, § 5(c)(2)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 103–252, title III](https://www.govinfo.gov/link/plaw/103/public/252), §§ 305–309, 311(a)(1), (b), (c)(4), (5), May 18, 1994, [108 Stat. 659–662](https://www.govinfo.gov/link/statute/108/659); [Pub. L. 104–66, title I, § 1072(c)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 721](https://www.govinfo.gov/link/statute/109/721); [Pub. L. 104–193, title I, § 110(p)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2175](https://www.govinfo.gov/link/statute/110/2175); [Pub. L. 105–285, title III, § 306](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2758](https://www.govinfo.gov/link/statute/112/2758); [Pub. L. 110–234, title IV, § 4002(b)(1)(B)](https://www.govinfo.gov/link/plaw/110/public/234), (E), (2)(EE), May 22, 2008, [122 Stat. 1096](https://www.govinfo.gov/link/statute/122/1096), 1097; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4002(b)(1)(B), (E), (2)(EE), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1859; [Pub. L. 113–79, title IV, § 4006(b)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 787](https://www.govinfo.gov/link/statute/128/787).)*

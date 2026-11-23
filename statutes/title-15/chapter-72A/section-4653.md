@@ -3,9 +3,10 @@ title: "Section 4653 - Department of Defense"
 usc_title: 15
 usc_section: "4653"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4653"
-generated_at: "2026-03-30T02:54:08.201Z"
+generated_at: "2026-11-23T21:25:40.001Z"
+status: "active"
 ---
 
 # § 4653. Department of Defense
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:54:08.201Z"
   - **(3)**
     - **(A)** In carrying out paragraph (1), the Secretary shall, through a competitive process, select two or more entities to carry out the activities described in paragraph (2) as part of the network established under paragraph (1).
     - **(B)** The Secretary shall, to the extent practicable, ensure that the entities selected under subparagraph (A) collectively represent the geographic diversity of the United States.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. H, title XCIX, § 9903](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4849](https://www.govinfo.gov/link/statute/134/4849); [Pub. L. 117–81, div. A, title II, § 217](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1596](https://www.govinfo.gov/link/statute/135/1596).)*

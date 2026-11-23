@@ -3,9 +3,10 @@ title: "Section 12592 - Index to facilitate law enforcement exchange of DNA iden
 usc_title: 34
 usc_section: "12592"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 12592"
-generated_at: "2026-03-30T02:55:33.291Z"
+generated_at: "2026-11-23T21:26:09.760Z"
+status: "active"
 ---
 
 # § 12592. Index to facilitate law enforcement exchange of DNA identification information
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:55:33.291Z"
       - **(i)** the responsible agency or official of that State receives, for each conviction of the person of an offense on the basis of which that analysis was or could have been included in the index, a certified copy of a final court order establishing that such conviction has been overturned; or
       - **(ii)** the person has not been convicted of an offense on the basis of which that analysis was or could have been included in the index, and the responsible agency or official of that State receives, for each charge against the person on the basis of which the analysis was or could have been included in the index, a certified copy of a final court order establishing that such charge has been dismissed or has resulted in an acquittal or that no charge was filed within the applicable time period.
     - **(B)** For purposes of subparagraph (A), a court order is not “final” if time remains for an appeal or application for discretionary review with respect to the order.
+
+## Source Credit
+
+*([Pub. L. 103–322, title XXI, § 210304](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2069](https://www.govinfo.gov/link/statute/108/2069); [Pub. L. 106–113, div. B, § 1000(a)(1) [title I, § 120]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1535](https://www.govinfo.gov/link/statute/113/1535), 1501A–23; [Pub. L. 106–546, § 6(b)](https://www.govinfo.gov/link/plaw/106/public/546), Dec. 19, 2000, [114 Stat. 2733](https://www.govinfo.gov/link/statute/114/2733); [Pub. L. 108–405, title II, § 203(a)](https://www.govinfo.gov/link/plaw/108/public/405), (d), title III, § 302, Oct. 30, 2004, [118 Stat. 2269](https://www.govinfo.gov/link/statute/118/2269), 2270, 2272; [Pub. L. 109–162, title X, § 1002](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3084](https://www.govinfo.gov/link/statute/119/3084); [Pub. L. 115–50, § 2(b)](https://www.govinfo.gov/link/plaw/115/public/50), Aug. 18, 2017, [131 Stat. 1001](https://www.govinfo.gov/link/statute/131/1001).)*

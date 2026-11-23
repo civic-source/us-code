@@ -3,12 +3,17 @@ title: "Section 5213 - Joint development assistance agreements with certain trad
 usc_title: 7
 usc_section: "5213"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 5213"
-generated_at: "2026-03-30T02:53:42.413Z"
+generated_at: "2026-11-23T21:25:28.358Z"
+status: "active"
 ---
 
 # § 5213. Joint development assistance agreements with certain trading partners
 
 - **(a)** With respect to any country that has a substantial positive trade balance with the United States, the Secretary of Agriculture, in consultation with the Secretary of State and (through the Secretary of State) representatives of such country, may develop an appropriate plan under which that country would purchase United States agricultural commodities or products for use in development activities in developing countries. In developing such plan, the Secretary of Agriculture shall take into consideration the agricultural economy of such country, the nature and extent of such country’s programs to assist developing countries, and other relevant factors. The Secretary of Agriculture shall submit each such plan to the President as soon as practicable.
 - **(b)** The President may enter into an agreement with any country that has a positive trade balance with the United States under which that country would purchase United States agricultural commodities or products for use in agreed-on development activities in developing countries.
+
+## Source Credit
+
+*([Pub. L. 100–418, title IV, § 4203](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1392](https://www.govinfo.gov/link/statute/102/1392).)*

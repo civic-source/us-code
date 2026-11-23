@@ -3,9 +3,10 @@ title: "Section 7153 - Administration of leasing transfers"
 usc_title: 42
 usc_section: "7153"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7153"
-generated_at: "2026-03-30T02:56:11.283Z"
+generated_at: "2026-11-23T21:26:33.051Z"
+status: "active"
 ---
 
 # § 7153. Administration of leasing transfers
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.283Z"
 - **(b)** In exercising the authority under section 7152(b) 1 of this title to promulgate regulations, the Secretary shall consult with the Secretary of the Interior during the preparation of such regulations and shall afford the Secretary of the Interior not less than thirty days, prior to the date on which the Department first publishes or otherwise prescribes regulations, to comment on the content and effect of such regulations.
 - **(c)**
 - **(d)** The Department of the Interior shall be the lead agency for the purpose of preparation of an environmental impact statement required by section 4332(2)(C) of this title for any action with respect to the Federal leases taken under the authority of this section, unless the action involves only matters within the exclusive authority of the Secretary.
+
+## Source Credit
+
+*([Pub. L. 95–91, title III, § 303](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 579](https://www.govinfo.gov/link/statute/91/579); [Pub. L. 97–100, title II, § 201](https://www.govinfo.gov/link/plaw/97/public/100), Dec. 23, 1981, [95 Stat. 1407](https://www.govinfo.gov/link/statute/95/1407).)*

@@ -3,9 +3,10 @@ title: "Section 7704 - National Earthquake Hazards Reduction Program"
 usc_title: 42
 usc_section: "7704"
 chapter: 86
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7704"
-generated_at: "2026-03-30T02:56:11.329Z"
+generated_at: "2026-11-23T21:26:33.169Z"
+status: "active"
 ---
 
 # § 7704. National Earthquake Hazards Reduction Program
@@ -120,3 +121,89 @@ generated_at: "2026-03-30T02:56:11.329Z"
     - **(A)** identifies each element of the proposed Program activities of the agency;
     - **(B)** specifies how each of these activities contributes to the Program; and
     - **(C)** states the portion of its request for appropriations allocated to each element of the Program.
+
+(aa) a strategic plan that establishes goals and priorities for the Program activities described under subsection (a)(2); and
+
+(bb) a detailed management plan to implement such strategic plan.
+
+Automatic Seismic Warning System Development.—
+
+Definitions
+
+Director
+
+High-risk activity
+
+Real-time seismic warning system
+
+In general
+
+Upgrade of seismic sensors
+
+Development of communications and computation infrastructure
+
+Procurement of computer hardware and computer software
+
+Reports on progress.—
+
+In general
+
+Additional reports
+
+Authorization of appropriations
+
+Seismic Monitoring Networks Assessment.—
+
+In general
+
+Results
+
+Earth Science Teaching Materials.—
+
+Definitions
+
+Local educational agency
+
+School
+
+Teaching materials
+
+Improved Seismic Hazard Assessment.—
+
+In general
+
+Reports.—
+
+In general
+
+Final report
+
+Study of National Earthquake Emergency Training Capabilities.—
+
+In general
+
+Contents of assessment
+
+Report
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 95–124, § 5](https://www.govinfo.gov/link/plaw/95/public/124), Oct. 7, 1977, [91 Stat. 1099](https://www.govinfo.gov/link/statute/91/1099); [Pub. L. 96–472, title I, § 101](https://www.govinfo.gov/link/plaw/96/public/472), Oct. 19, 1980, [94 Stat. 2257](https://www.govinfo.gov/link/statute/94/2257); [Pub. L. 99–105](https://www.govinfo.gov/link/plaw/99/public/105), §§ 5, 6, Sept. 30, 1985, [99 Stat. 475](https://www.govinfo.gov/link/statute/99/475); [Pub. L. 100–252, § 2](https://www.govinfo.gov/link/plaw/100/public/252), Feb. 29, 1988, [102 Stat. 18](https://www.govinfo.gov/link/statute/102/18); [Pub. L. 100–418, title V, § 5115(c)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1433](https://www.govinfo.gov/link/statute/102/1433); [Pub. L. 100–707, title I, § 109(u)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4710](https://www.govinfo.gov/link/statute/102/4710); [Pub. L. 101–614, § 5](https://www.govinfo.gov/link/plaw/101/public/614), Nov. 16, 1990, [104 Stat. 3232](https://www.govinfo.gov/link/statute/104/3232); [Pub. L. 105–47, § 3](https://www.govinfo.gov/link/plaw/105/public/47), Oct. 1, 1997, [111 Stat. 1162](https://www.govinfo.gov/link/statute/111/1162); [Pub. L. 106–503, title II](https://www.govinfo.gov/link/plaw/106/public/503), §§ 206, 208, Nov. 13, 2000, [114 Stat. 2307](https://www.govinfo.gov/link/statute/114/2307); [Pub. L. 108–360, title I, § 103](https://www.govinfo.gov/link/plaw/108/public/360), Oct. 25, 2004, [118 Stat. 1669](https://www.govinfo.gov/link/statute/118/1669); [Pub. L. 115–307](https://www.govinfo.gov/link/plaw/115/public/307), §§ 2(c)(1)(B), 3(a)–(b)(4)(A), (c)–(f), 8(a)(1), (c), Dec. 11, 2018, [132 Stat. 4409–4413](https://www.govinfo.gov/link/statute/132/4409), 4417; [Pub. L. 117–286, § 4(a)(271)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4335](https://www.govinfo.gov/link/statute/136/4335).)*

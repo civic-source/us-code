@@ -3,9 +3,10 @@ title: "Section 350c - Maintenance and inspection of records"
 usc_title: 21
 usc_section: "350c"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 350c"
-generated_at: "2026-03-30T02:54:54.226Z"
+generated_at: "2026-11-23T21:25:56.002Z"
+status: "active"
 ---
 
 # § 350c. Maintenance and inspection of records
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:54.226Z"
   - **(2)** to authorize the Secretary to impose any requirements with respect to a food to the extent that it is within the exclusive jurisdiction of the Secretary of Agriculture pursuant to the Federal Meat Inspection Act ( 21 U.S.C. 601 et seq.), the Poultry Products Inspection Act ( 21 U.S.C. 451 et seq.), or the Egg Products Inspection Act ( 21 U.S.C. 1031 et seq.);
   - **(3)** to have any legal effect on section 552 of title 5 or section 1905 of title 18 ; or
   - **(4)** to extend to recipes for food, financial data, pricing data, personnel data, research data, or sales data (other than shipment data regarding sales).
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 414, as added [Pub. L. 107–188, title III, § 306(a)](https://www.govinfo.gov/link/plaw/107/public/188), June 12, 2002, [116 Stat. 669](https://www.govinfo.gov/link/statute/116/669); amended [Pub. L. 111–353, title I, § 101(a)](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3886](https://www.govinfo.gov/link/statute/124/3886).)*

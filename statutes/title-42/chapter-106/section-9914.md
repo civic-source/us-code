@@ -3,9 +3,10 @@ title: "Section 9914 - Monitoring of eligible entities"
 usc_title: 42
 usc_section: "9914"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9914"
-generated_at: "2026-03-30T02:56:11.377Z"
+generated_at: "2026-11-23T21:26:33.327Z"
+status: "active"
 ---
 
 # § 9914. Monitoring of eligible entities
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.377Z"
   - **(4)** Other reviews as appropriate, including reviews of entities with programs that have had other Federal, State, or local grants (other than assistance provided under this chapter) terminated for cause.
 - **(b)** The State may request training and technical assistance from the Secretary as needed to comply with the requirements of this section.
 - **(c)** The Secretary shall conduct in several States in each fiscal year evaluations (including investigations) of the use of funds received by the States under this chapter in order to evaluate compliance with the provisions of this chapter, and especially with respect to compliance with section 9908(b) of this title . The Secretary shall submit, to each State evaluated, a report containing the results of such evaluations, and recommendations of improvements designed to enhance the benefit and impact of the activities carried out with such funds for people in need. On receiving the report, the State shall submit to the Secretary a plan of action in response to the recommendations contained in the report. The results of the evaluations shall be submitted annually to the Chairperson of the Committee on Education and the Workforce of the House of Representatives and the Chairperson of the Committee on Labor and Human Resources of the Senate as part of the report submitted by the Secretary in accordance with section 9917(b)(2) of this title .
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 678B](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 105–285, title II, § 201](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2743](https://www.govinfo.gov/link/statute/112/2743).)*

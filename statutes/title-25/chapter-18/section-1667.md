@@ -3,9 +3,10 @@ title: "Section 1667 - Findings and purpose"
 usc_title: 25
 usc_section: "1667"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1667"
-generated_at: "2026-03-30T02:54:52.826Z"
+generated_at: "2026-11-23T21:25:54.632Z"
+status: "active"
 ---
 
 # § 1667. Findings and purpose
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:54:52.826Z"
     - **(E)** data collection and reporting;
   - **(2)** to encourage Indian tribes, tribal organizations, and other mental health care providers serving residents of Indian country to obtain the services of predoctoral psychology and psychiatry interns; and
   - **(3)** to enhance the provision of mental health care services to Indian youth through existing grant programs of the Substance Abuse and Mental Health Services Administration.
+
+## Source Credit
+
+*([Pub. L. 94–437, title VII, § 721](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

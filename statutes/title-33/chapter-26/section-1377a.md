@@ -3,9 +3,10 @@ title: "Section 1377a - Green infrastructure promotion"
 usc_title: 33
 usc_section: "1377a"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1377a"
-generated_at: "2026-03-30T02:55:41.104Z"
+generated_at: "2026-11-23T21:26:11.400Z"
+status: "active"
 ---
 
 # § 1377a. Green infrastructure promotion
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:41.104Z"
   - **(2)** protecting water resources;
   - **(3)** complying with regulatory requirements; and
   - **(4)** achieving other environmental, public health, and community goals.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title V, § 519, as added [Pub. L. 115–436, § 5(b)(2)](https://www.govinfo.gov/link/plaw/115/public/436), Jan. 14, 2019, [132 Stat. 5561](https://www.govinfo.gov/link/statute/132/5561).)*

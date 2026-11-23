@@ -3,9 +3,10 @@ title: "Section 372 - Continuation of pays during hospitalization and rehabilita
 usc_title: 37
 usc_section: "372"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 372"
-generated_at: "2026-03-30T02:55:44.056Z"
+generated_at: "2026-11-23T21:26:14.222Z"
+status: "active"
 ---
 
 # § 372. Continuation of pays during hospitalization and rehabilitation resulting from wounds, injury, or illness incurred while on duty in a hostile fire area or exposed to an event of hostile fire or other hostile action
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:55:44.056Z"
   - **(2)** One year after the date on which the member is first hospitalized for the treatment of the wound, injury, or illness, except that the Secretary concerned may extend the termination date in six-month increments.
   - **(3)** The date on which the member is discharged, separated, or retired (including temporary disability retirement) from the uniformed services.
 - **(c)** In this section, the term “bonus, incentive pay, or similar benefit” means a bonus, incentive pay, special pay, or similar payment paid to a member of the uniformed services under this title or title 10.
+
+Continuation of Pays
+
+Duration
+
+Bonus, Incentive Pay, or Similar Benefit Defined
+
+## Source Credit
+
+*(Added [Pub. L. 110–181, div. A, title VI, § 661(a)(2)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 176](https://www.govinfo.gov/link/statute/122/176); amended [Pub. L. 116–92, div. A, title VI, § 601](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1423](https://www.govinfo.gov/link/statute/133/1423); [Pub. L. 119–60, div. A, title VI, § 601(d)(1)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 904](https://www.govinfo.gov/link/statute/139/904).)*

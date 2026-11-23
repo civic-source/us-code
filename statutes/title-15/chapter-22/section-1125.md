@@ -3,9 +3,10 @@ title: "Section 1125 - False designations of origin, false descriptions, and dil
 usc_title: 15
 usc_section: "1125"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1125"
-generated_at: "2026-03-30T02:54:08.127Z"
+generated_at: "2026-11-23T21:25:39.791Z"
+status: "active"
 ---
 
 # § 1125. False designations of origin, false descriptions, and dilution forbidden
@@ -93,3 +94,15 @@ generated_at: "2026-03-30T02:54:08.127Z"
       - **(ii)** The domain name registrar or registry or other domain name authority shall not be liable for injunctive or monetary relief under this paragraph except in the case of bad faith or reckless disregard, which includes a willful failure to comply with any such court order.
   - **(3)** The civil action established under paragraph (1) and the in rem action established under paragraph (2), and any remedy available under either such action, shall be in addition to any other civil action or remedy otherwise applicable.
   - **(4)** The in rem jurisdiction established under paragraph (2) shall be in addition to any other jurisdiction that otherwise exists, whether in rem or in personam.
+
+(aa) sending a notice of the alleged violation and intent to proceed under this paragraph to the registrant of the domain name at the postal and e-mail address provided by the registrant to the registrar; and
+
+(bb) publishing notice of the action as the court may direct promptly after filing the action.
+
+In General
+
+Guidelines and Procedures
+
+## Source Credit
+
+*(July 5, 1946, ch. 540, title VIII, § 43, [60 Stat. 441](https://www.govinfo.gov/link/statute/60/441); [Pub. L. 100–667, title I, § 132](https://www.govinfo.gov/link/plaw/100/public/667), Nov. 16, 1988, [102 Stat. 3946](https://www.govinfo.gov/link/statute/102/3946); [Pub. L. 102–542, § 3(c)](https://www.govinfo.gov/link/plaw/102/public/542), Oct. 27, 1992, [106 Stat. 3568](https://www.govinfo.gov/link/statute/106/3568); [Pub. L. 104–98, § 3(a)](https://www.govinfo.gov/link/plaw/104/public/98), Jan. 16, 1996, [109 Stat. 985](https://www.govinfo.gov/link/statute/109/985); [Pub. L. 106–43](https://www.govinfo.gov/link/plaw/106/public/43), §§ 3(a)(2), 5, Aug. 5, 1999, [113 Stat. 219](https://www.govinfo.gov/link/statute/113/219), 220; [Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3002(a)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–545; [Pub. L. 109–312, § 2](https://www.govinfo.gov/link/plaw/109/public/312), Oct. 6, 2006, [120 Stat. 1730](https://www.govinfo.gov/link/statute/120/1730); [Pub. L. 112–190, § 1(a)](https://www.govinfo.gov/link/plaw/112/public/190), Oct. 5, 2012, [126 Stat. 1436](https://www.govinfo.gov/link/statute/126/1436).)*

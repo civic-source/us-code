@@ -3,9 +3,10 @@ title: "Section 2903 - Estuary habitat restoration program"
 usc_title: 33
 usc_section: "2903"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2903"
-generated_at: "2026-03-30T02:55:41.135Z"
+generated_at: "2026-11-23T21:26:11.472Z"
+status: "active"
 ---
 
 # § 2903. Estuary habitat restoration program
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:55:41.135Z"
       - **(iv)** the Secretary of Agriculture.
     - **(C)** A small project delegated to the head of a Federal department or agency under this paragraph may be carried out using funds appropriated to the department or agency under section 2908(a)(1) of this title or other funds available to the department or agency.
     - **(D)** The head of a Federal department or agency to which a small project is delegated under this paragraph shall enter into an agreement with the non-Federal interest for the project generally in conformance with the criteria in subsections (d) and (e). Cooperative agreements may be used for any delegated project to allow the non-Federal interest to carry out the project on behalf of the Federal agency.
+
+## Source Credit
+
+*([Pub. L. 106–457, title I, § 104](https://www.govinfo.gov/link/plaw/106/public/457), Nov. 7, 2000, [114 Stat. 1960](https://www.govinfo.gov/link/statute/114/1960); [Pub. L. 110–114, title V, § 5017(c)](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1197](https://www.govinfo.gov/link/statute/121/1197); [Pub. L. 114–322, title IV, § 5013(a)](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1903](https://www.govinfo.gov/link/statute/130/1903).)*

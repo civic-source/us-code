@@ -3,9 +3,10 @@ title: "Section 353 - Executive Director; additional personnel; detail of person
 usc_title: 2
 usc_section: "353"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 353"
-generated_at: "2026-03-30T02:53:04.796Z"
+generated_at: "2026-11-23T21:25:21.158Z"
+status: "active"
 ---
 
 # § 353. Executive Director; additional personnel; detail of personnel of other agencies
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:04.796Z"
     - **(A)** the Commission is authorized to appoint an Executive Director and fix his basic pay at the rate provided for level V of the Executive Schedule by section 5316 of title 5 ; and
     - **(B)** with the approval of the Commission, the Executive Director is authorized to appoint and fix the basic pay (at respective rates not in excess of the maximum rate of the General Schedule in section 5332 of title 5 ) of such additional personnel as may be necessary to carry out the function of the Commission.
   - **(2)** Upon the request of the Commission, the head of any department, agency, or establishment of any branch of the Federal Government is authorized to detail, on a reimbursable basis, for periods covering all or part of any fiscal year referred to in subparagraphs (A) and (B) of section 352(8) of this title , any of the personnel of such department, agency, or establishment to assist the Commission in carrying out its function.
+
+## Source Credit
+
+*([Pub. L. 90–206, title II, § 225(c)](https://www.govinfo.gov/link/plaw/90/public/206), Dec. 16, 1967, [81 Stat. 643](https://www.govinfo.gov/link/statute/81/643); [Pub. L. 101–194, title VII, § 701(c)](https://www.govinfo.gov/link/plaw/101/public/194), Nov. 30, 1989, [103 Stat. 1764](https://www.govinfo.gov/link/statute/103/1764).)*

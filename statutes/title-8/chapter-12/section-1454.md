@@ -3,9 +3,10 @@ title: "Section 1454 - Documents and copies issued by Attorney General"
 usc_title: 8
 usc_section: "1454"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1454"
-generated_at: "2026-03-30T02:53:10.502Z"
+generated_at: "2026-11-23T21:25:25.198Z"
+status: "active"
 ---
 
 # § 1454. Documents and copies issued by Attorney General
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:10.502Z"
 - **(b)** The Attorney General shall issue for any naturalized citizen, on such citizen’s application therefor, a special certificate of naturalization for use by such citizen only for the purpose of obtaining recognition as a citizen of the United States by a foreign state. Such certificate when issued shall be furnished to the Secretary of State for transmission to the proper authority in such foreign state.
 - **(c)** If the name of any naturalized citizen has, subsequent to naturalization, been changed by order of any court of competent jurisdiction, or by marriage, the citizen may make application for a new certificate of naturalization in the new name of such citizen. If the Attorney General finds the name of the applicant to have been changed as claimed, the Attorney General shall issue to the applicant a new certificate and shall notify the naturalization court of such action.
 - **(d)** The Attorney General is authorized to make and issue certifications of any part of the naturalization records of any court, or of any certificate of naturalization or citizenship, for use in complying with any statute, State or Federal, or in any judicial proceeding. No such certification shall be made by any clerk of court except upon order of the court.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title III, ch. 2, § 343, [66 Stat. 263](https://www.govinfo.gov/link/statute/66/263); [Pub. L. 100–525, § 9(ee)](https://www.govinfo.gov/link/plaw/100/public/525), Oct. 24, 1988, [102 Stat. 2621](https://www.govinfo.gov/link/statute/102/2621).)*

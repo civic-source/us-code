@@ -3,9 +3,10 @@ title: "Section 499f - Complaints, written notifications, and investigations"
 usc_title: 7
 usc_section: "499f"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 499f"
-generated_at: "2026-03-30T02:53:42.286Z"
+generated_at: "2026-11-23T21:25:27.965Z"
+status: "active"
 ---
 
 # § 499f. Complaints, written notifications, and investigations
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:42.286Z"
   - **(3)** Whenever the Secretary initiates an investigation on the basis of a written notification made under subsection (b) or expands such an investigation, the Secretary shall promptly notify the subject of the investigation of the existence of the investigation and the nature of the alleged violations of this chapter to be investigated. Not later than 180 days after providing the initial notification, the Secretary shall provide the subject of the investigation with notice of the status of the investigation, including whether the Secretary intends to issue a complaint under paragraph (2), terminate the investigation, or continue or expand the investigation. The Secretary shall provide additional status reports at the request of the subject of the investigation and shall promptly notify the subject of the investigation whenever the Secretary terminates the investigation.
 - **(d)** After opportunity for hearing on complaints where the damages claimed exceed the sum of $30,000 has been provided or waived and on complaints where damages claimed do not exceed the sum of $30,000 not requiring hearing as provided herein, the Secretary shall determine whether or not the commission merchant, dealer, or broker has violated any provision of section 499b of this title .
 - **(e)** In case a complaint is made by a nonresident of the United States, or by a resident of the United States to whom the claim of a nonresident of the United States has been assigned, the complainant shall be required, before any formal action is taken on his complaint, to furnish a bond in double the amount of the claim conditioned upon the payment of costs, including a reasonable attorney’s fee for the respondent if the respondent shall prevail, and any reparation award that may be issued by the Secretary of Agriculture against the complainant on any counter claim by respondent: Provided , That the Secretary shall have authority to waive the furnishing of a bond by a complainant who is a resident of a country which permits the filing of a complaint by a resident of the United States without the furnishing of a bond.
+
+## Source Credit
+
+*(June 10, 1930, ch. 436, § 6, [46 Stat. 534](https://www.govinfo.gov/link/statute/46/534); Apr. 13, 1934, ch. 120, §§ 8–10, [48 Stat. 586](https://www.govinfo.gov/link/statute/48/586), 587; Aug. 20, 1937, ch. 719, §§ 8, 9, [50 Stat. 728](https://www.govinfo.gov/link/statute/50/728); [Pub. L. 86–507, § 1(4)](https://www.govinfo.gov/link/plaw/86/public/507), June 11, 1960, [74 Stat. 200](https://www.govinfo.gov/link/statute/74/200); [Pub. L. 87–725, § 8](https://www.govinfo.gov/link/plaw/87/public/725), Oct. 1, 1962, [76 Stat. 675](https://www.govinfo.gov/link/statute/76/675); [Pub. L. 92–231, § 1](https://www.govinfo.gov/link/plaw/92/public/231), Feb. 15, 1972, [86 Stat. 38](https://www.govinfo.gov/link/statute/86/38); [Pub. L. 97–98, title XI, § 1115(c)](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1270](https://www.govinfo.gov/link/statute/95/1270); [Pub. L. 97–352, § 2](https://www.govinfo.gov/link/plaw/97/public/352), Oct. 18, 1982, [96 Stat. 1667](https://www.govinfo.gov/link/statute/96/1667); [Pub. L. 102–237, title X, § 1011(4)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1898](https://www.govinfo.gov/link/statute/105/1898); [Pub. L. 104–48](https://www.govinfo.gov/link/plaw/104/public/48), §§ 7, 8(a), Nov. 15, 1995, [109 Stat. 428](https://www.govinfo.gov/link/statute/109/428), 429.)*

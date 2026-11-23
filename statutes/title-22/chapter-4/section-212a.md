@@ -3,9 +3,10 @@ title: "Section 212a - Restriction of passports for sex tourism"
 usc_title: 22
 usc_section: "212a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 212a"
-generated_at: "2026-03-30T02:55:05.302Z"
+generated_at: "2026-11-23T21:25:58.316Z"
+status: "active"
 ---
 
 # § 212a. Restriction of passports for sex tourism
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.302Z"
       - **(i)** the date on which the individual is released from a sentence of imprisonment relating to the offense; and
       - **(ii)** the end of a period of parole or other supervised release of the covered individual relating to the offense; and
     - **(B)** the term “imprisonment” means being confined in or otherwise restricted to a jail, prison, half-way house, treatment facility, or another institution, on a full or part-time basis, pursuant to the sentence imposed as the result of a criminal conviction.
+
+## Source Credit
+
+*([Pub. L. 110–457, title II, § 236](https://www.govinfo.gov/link/plaw/110/public/457), Dec. 23, 2008, [122 Stat. 5082](https://www.govinfo.gov/link/statute/122/5082).)*

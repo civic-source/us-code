@@ -3,9 +3,10 @@ title: "Section 641 - Definitions"
 usc_title: 47
 usc_section: "641"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 641"
-generated_at: "2026-03-30T02:56:24.525Z"
+generated_at: "2026-11-23T21:26:36.061Z"
+status: "active"
 ---
 
 # § 641. Definitions
@@ -30,3 +31,7 @@ In this subchapter:
   - **(14)** The term “standard broadband installation”—
     - **(A)** means the initiation by a provider of fixed broadband internet access service in an area in which the provider has not previously offered that service, with no charges or delays attributable to the extension of the network of the provider; and
     - **(B)** includes the initiation of fixed broadband internet access service through routine installation that can be completed not later than 10 business days after the date on which the service request is submitted.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VIII, § 801, as added [Pub. L. 116–130, § 2](https://www.govinfo.gov/link/plaw/116/public/130), Mar. 23, 2020, [134 Stat. 228](https://www.govinfo.gov/link/statute/134/228).)*

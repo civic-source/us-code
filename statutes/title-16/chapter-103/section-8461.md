@@ -3,9 +3,10 @@ title: "Section 8461 - Partnership agreements to modernize federally owned campg
 usc_title: 16
 usc_section: "8461"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8461"
-generated_at: "2026-03-30T02:54:23.085Z"
+generated_at: "2026-11-23T21:25:52.079Z"
+status: "active"
 ---
 
 # § 8461. Partnership agreements to modernize federally owned campgrounds, resorts, cabins, and visitor centers on Federal recreational lands and waters
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:54:23.085Z"
       - **(iii)** the eligible entity shall be solely responsible for any cost associated with the decommissioning or removal of a capital improvement, if needed, at the conclusion of the agreement or land use authorization; and
     - **(G)** be subject to any other terms and conditions determined to be necessary or appropriate by the Secretary concerned.
 - **(e)** A land use fee paid or revenue shared with the Secretary concerned under an agreement or land use authorization under this section shall be available for expenditure by the Secretary concerned for recreation-related purposes on the unit or area of Federal recreational lands and waters at which the land use fee or revenue is collected, without further appropriation.
+
+## Source Credit
+
+*([Pub. L. 118–234, title I, § 153](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2868](https://www.govinfo.gov/link/statute/138/2868).)*

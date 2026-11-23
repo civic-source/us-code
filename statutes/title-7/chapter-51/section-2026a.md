@@ -3,9 +3,10 @@ title: "Section 2026a - Healthy fluid milk incentives projects"
 usc_title: 7
 usc_section: "2026a"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2026a"
-generated_at: "2026-03-30T02:53:42.372Z"
+generated_at: "2026-11-23T21:25:28.266Z"
+status: "active"
 ---
 
 # § 2026a. Healthy fluid milk incentives projects
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:42.372Z"
 - **(e)**
   - **(1)** There is authorized to be appropriated $20,000,000 to carry out and evaluate the outcomes of projects under this section, to remain available until expended.
   - **(2)** Only funds appropriated under paragraph (1) in advance specifically to carry out this section shall be available to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 115–334, title IV, § 4208](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4667](https://www.govinfo.gov/link/statute/132/4667).)*

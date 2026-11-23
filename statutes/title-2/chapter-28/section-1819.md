@@ -3,9 +3,10 @@ title: "Section 1819 - Computer backup facilities for legislative offices"
 usc_title: 2
 usc_section: "1819"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1819"
-generated_at: "2026-03-30T02:53:04.817Z"
+generated_at: "2026-11-23T21:25:21.245Z"
+status: "active"
 ---
 
 # § 1819. Computer backup facilities for legislative offices
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:04.817Z"
 - **(c)** Any building or facility acquired by the Architect of the Capitol pursuant to subsection (a) shall be a part of the United States Capitol Grounds and shall be subject to the provisions of sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40.
 - **(d)** In the case of a building or facility acquired through purchase pursuant to subsection (a), the Architect of the Capitol may enter into or assume a lease with another person for the use of any portion of the building or facility that the Architect of the Capitol determines is not required to be used to carry out the purposes of this section, subject to the approval of the entity which approved the acquisition of such building or facility under subsection (b).
 - **(e)** This section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 107–206, title I, § 905](https://www.govinfo.gov/link/plaw/107/public/206), Aug. 2, 2002, [116 Stat. 877](https://www.govinfo.gov/link/statute/116/877); [Pub. L. 109–55, title I, § 1202(a)](https://www.govinfo.gov/link/plaw/109/public/55), Aug. 2, 2005, [119 Stat. 579](https://www.govinfo.gov/link/statute/119/579).)*

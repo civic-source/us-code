@@ -3,9 +3,10 @@ title: "Section 4657 - Prohibition on criminal history inquiries by contractors 
 usc_title: 10
 usc_section: "4657"
 chapter: 363
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4657"
-generated_at: "2026-03-30T02:53:38.209Z"
+generated_at: "2026-11-23T21:25:32.781Z"
+status: "active"
 ---
 
 # § 4657. Prohibition on criminal history inquiries by contractors prior to conditional offer
@@ -37,3 +38,41 @@ generated_at: "2026-03-30T02:53:38.209Z"
 - **(d)** In this section:
   - **(1)** The term “conditional offer” means an offer of employment for a position related to work under a contract that is conditioned upon the results of a criminal history inquiry.
   - **(2)** The term “criminal history record information” has the meaning given that term in section 9201 of title 5 .
+
+Limitation on Criminal History Inquiries.—
+
+In general
+
+Otherwise required by law
+
+Exception for certain positions.—
+
+In general
+
+Regulations.—
+
+Issuance
+
+Compliance with civil rights laws
+
+Complaint Procedures
+
+Action for Violations of Prohibition on Criminal History Inquiries.—
+
+First violation
+
+Subsequent violations
+
+Definitions
+
+Conditional offer
+
+Criminal history record information
+
+In general
+
+Consistency with office of personnel management regulations
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. A, title XI, § 1123(b)(1)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1612](https://www.govinfo.gov/link/statute/133/1612), § 2339; renumbered § 4657, [Pub. L. 116–283, div. A, title XVIII, § 1862(b)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4277](https://www.govinfo.gov/link/statute/134/4277).)*

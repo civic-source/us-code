@@ -3,9 +3,10 @@ title: "Section 311 - Inter partes review"
 usc_title: 35
 usc_section: "311"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "35 U.S.C. § 311"
-generated_at: "2026-03-30T02:55:34.240Z"
+generated_at: "2026-11-23T21:26:08.629Z"
+status: "active"
 ---
 
 # § 311. Inter partes review
@@ -15,3 +16,17 @@ generated_at: "2026-03-30T02:55:34.240Z"
 - **(c)** A petition for inter partes review shall be filed after the later of either—
   - **(1)** the date that is 9 months after the grant of a patent; or
   - **(2)** if a post-grant review is instituted under chapter 32, the date of the termination of such post-grant review.
+
+In General
+
+Scope
+
+Filing Deadline
+
+In general
+
+Graduated implementation
+
+## Source Credit
+
+*(Added [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4604(a)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–567; amended [Pub. L. 107–273, div. C, title III, § 13202(a)(1)](https://www.govinfo.gov/link/plaw/107/public/273), (c)(1), Nov. 2, 2002, [116 Stat. 1901](https://www.govinfo.gov/link/statute/116/1901), 1902; [Pub. L. 112–29, § 6(a)](https://www.govinfo.gov/link/plaw/112/public/29), Sept. 16, 2011, [125 Stat. 299](https://www.govinfo.gov/link/statute/125/299); [Pub. L. 112–274, § 1(d)(2)](https://www.govinfo.gov/link/plaw/112/public/274), Jan. 14, 2013, [126 Stat. 2456](https://www.govinfo.gov/link/statute/126/2456).)*

@@ -3,9 +3,10 @@ title: "Section 7411 - Standards of performance for new stationary sources"
 usc_title: 42
 usc_section: "7411"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7411"
-generated_at: "2026-03-30T02:56:11.295Z"
+generated_at: "2026-11-23T21:26:33.080Z"
+status: "active"
 ---
 
 # § 7411. Standards of performance for new stationary sources
@@ -90,3 +91,11 @@ generated_at: "2026-03-30T02:56:11.295Z"
   - **(2)**
     - **(A)** If a waiver under paragraph (1) is terminated under clause (ii) of paragraph (1)(D), the Administrator shall grant an extension of the requirements of this section for such source for such minimum period as may be necessary to comply with the applicable standard of performance under this section. Such period shall not extend beyond the date three years from the time such waiver is terminated.
     - **(B)** An extension granted under this paragraph shall set forth emission limits and a compliance schedule containing increments of progress which require compliance with the applicable standards of performance as expeditiously as practicable and include such measures as are necessary and practicable in the interim to minimize emissions. Such schedule shall be treated as a standard of performance for purposes of subsection (e) of this section and section 7413 of this title .
+
+Revised Regulations
+
+Applicability
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 111, as added [Pub. L. 91–604, § 4(a)](https://www.govinfo.gov/link/plaw/91/public/604), Dec. 31, 1970, [84 Stat. 1683](https://www.govinfo.gov/link/statute/84/1683); amended [Pub. L. 92–157, title III, § 302(f)](https://www.govinfo.gov/link/plaw/92/public/157), Nov. 18, 1971, [85 Stat. 464](https://www.govinfo.gov/link/statute/85/464); [Pub. L. 95–95, title I, § 109(a)](https://www.govinfo.gov/link/plaw/95/public/95) –(d)(1), (e), (f), title IV, § 401(b), Aug. 7, 1977, [91 Stat. 697–703](https://www.govinfo.gov/link/statute/91/697), 791; [Pub. L. 95–190, § 14(a)(7)](https://www.govinfo.gov/link/plaw/95/public/190) –(9), Nov. 16, 1977, [91 Stat. 1399](https://www.govinfo.gov/link/statute/91/1399); [Pub. L. 95–623, § 13(a)](https://www.govinfo.gov/link/plaw/95/public/623), Nov. 9, 1978, [92 Stat. 3457](https://www.govinfo.gov/link/statute/92/3457); [Pub. L. 101–549, title I, § 108(e)](https://www.govinfo.gov/link/plaw/101/public/549) –(g), title III, § 302(a), (b), title IV, § 403(a), Nov. 15, 1990, [104 Stat. 2467](https://www.govinfo.gov/link/statute/104/2467), 2574, 2631.)*

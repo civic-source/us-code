@@ -3,9 +3,10 @@ title: "Section 6764 - Definitions"
 usc_title: 15
 usc_section: "6764"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6764"
-generated_at: "2026-03-30T02:54:08.215Z"
+generated_at: "2026-11-23T21:25:40.033Z"
+status: "active"
 ---
 
 # § 6764. Definitions
@@ -24,3 +25,7 @@ For purposes of this subchapter, the following definitions shall apply:
   - **(10)**
     - **(A)** The term “State law” includes all laws, decisions, rules, regulations, or other State action having the effect of law, of any State.
     - **(B)** A law of the United States applicable only to or within the District of Columbia shall be treated as a State law rather than a law of the United States.
+
+## Source Credit
+
+*([Pub. L. 106–102, title III, § 334](https://www.govinfo.gov/link/plaw/106/public/102), as added [Pub. L. 114–1, title II, § 202(a)](https://www.govinfo.gov/link/plaw/114/public/1), Jan. 12, 2015, [129 Stat. 27](https://www.govinfo.gov/link/statute/129/27).)*

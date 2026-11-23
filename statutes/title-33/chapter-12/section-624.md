@@ -3,9 +3,10 @@ title: "Section 624 - Limitation on improvement work by private contract"
 usc_title: 33
 usc_section: "624"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 624"
-generated_at: "2026-03-30T02:55:41.065Z"
+generated_at: "2026-11-23T21:26:11.323Z"
+status: "active"
 ---
 
 # § 624. Limitation on improvement work by private contract
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:41.065Z"
   - **(2)** in any other circumstance where the Secretary of the Army, acting through the Chief of Engineers, determines that the contract price is more than 25 per centum in excess of what he determines to be a fair and reasonable estimated cost of a well-equipped contractor doing the work.
 - **(b)** In estimating the comparable cost of doing the work under subsection (a)(1) by Government plant the Secretary of the Army, acting through the Chief of Engineers shall, in addition to the cost of labor and materials, take into account proper charges for depreciation of plant, all supervising and overhead expenses, interest on the capital invested in the Government plant (but the rate of interest shall not exceed the maximum prevailing rate being paid by the United States on current issues of bonds or other evidences of indebtedness) and such other Government expenses and charges as the Chief of Engineers determines to be appropriate.
 - **(c)** In determining a fair and reasonable estimated cost of doing work by private contract under subsection (a)(2), the Secretary of the Army, acting through the Chief of Engineers, shall, in addition to the cost of labor and materials, take into account proper charges for depreciation of plant, all expenses for supervision, overhead, workmen’s compensation, general liability insurance, taxes (State and local), interest on capital invested in plant, and such other expenses and charges the Secretary of the Army, acting through the Chief of Engineers, determines to be appropriate.
+
+## Source Credit
+
+*(Mar. 2, 1919, ch. 95, § 8, [40 Stat. 1290](https://www.govinfo.gov/link/statute/40/1290); [Pub. L. 95–269, § 2](https://www.govinfo.gov/link/plaw/95/public/269), Apr. 26, 1978, [92 Stat. 219](https://www.govinfo.gov/link/statute/92/219).)*

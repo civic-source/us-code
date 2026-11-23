@@ -3,9 +3,10 @@ title: "Section 5408 - Remedies and penalties"
 usc_title: 15
 usc_section: "5408"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 5408"
-generated_at: "2026-03-30T02:54:08.206Z"
+generated_at: "2026-11-23T21:25:40.011Z"
+status: "active"
 ---
 
 # § 5408. Remedies and penalties
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:08.206Z"
 - **(d)**
   - **(1)** The Secretary may designate officers or employees of the Department of Commerce to conduct investigations pursuant to this chapter. In conducting such investigations, those officers or employees may, to the extent necessary or appropriate to the enforcement of this chapter, exercise such authorities as are conferred upon them by other laws of the United States, subject to policies and procedures approved by the Attorney General.
   - **(2)** The Secretary shall establish and maintain a hotline system to facilitate the reporting of alleged violations of this chapter, and the Secretary shall evaluate allegations reported through that system and report any credible allegations to the Attorney General.
+
+## Source Credit
+
+*([Pub. L. 101–592, § 6](https://www.govinfo.gov/link/plaw/101/public/592), formerly § 9, Nov. 16, 1990, [104 Stat. 2950](https://www.govinfo.gov/link/statute/104/2950); [Pub. L. 104–113, § 11(g)](https://www.govinfo.gov/link/plaw/104/public/113), Mar. 7, 1996, [110 Stat. 782](https://www.govinfo.gov/link/statute/110/782); renumbered § 6 and amended [Pub. L. 106–34, § 6](https://www.govinfo.gov/link/plaw/106/public/34), June 8, 1999, [113 Stat. 122](https://www.govinfo.gov/link/statute/113/122).)*

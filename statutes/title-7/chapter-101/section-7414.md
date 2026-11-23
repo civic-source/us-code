@@ -3,9 +3,10 @@ title: "Section 7414 - Required terms in orders"
 usc_title: 7
 usc_section: "7414"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7414"
-generated_at: "2026-03-30T02:53:42.450Z"
+generated_at: "2026-11-23T21:25:28.425Z"
+status: "active"
 ---
 
 # § 7414. Required terms in orders
@@ -93,3 +94,7 @@ generated_at: "2026-03-30T02:53:42.450Z"
       - **(ii)** the publication, by direction of the Secretary, of the name of any person violating any order and a statement of the particular provisions of the order violated by the person.
     - **(D)** Any person who willfully violates this subsection shall be subject, on conviction, to a fine of not more than $1,000 or to imprisonment for not more than 1 year, or both.
   - **(5)** This subsection shall not authorize the withholding of information from Congress.
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 515](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1036](https://www.govinfo.gov/link/statute/110/1036).)*

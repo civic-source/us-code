@@ -3,9 +3,10 @@ title: "Section 6302 - Biennial plan"
 usc_title: 38
 usc_section: "6302"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 6302"
-generated_at: "2026-03-30T02:55:53.523Z"
+generated_at: "2026-11-23T21:26:16.829Z"
+status: "active"
 ---
 
 # § 6302. Biennial plan
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:55:53.523Z"
   - **(3)** Representatives of nongovernmental organizations that carry out veterans outreach programs.
   - **(4)** Representatives of State and local veterans employment organizations.
   - **(5)** Other individuals and organizations that the Secretary considers appropriate.
+
+Biennial Plan Required
+
+Elements
+
+Coordination in Development
+
+## Source Credit
+
+*(Added [Pub. L. 109–233, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/109/public/233), June 15, 2006, [120 Stat. 408](https://www.govinfo.gov/link/statute/120/408).)*

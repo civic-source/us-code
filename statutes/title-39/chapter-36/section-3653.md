@@ -3,9 +3,10 @@ title: "Section 3653 - Annual determination of compliance"
 usc_title: 39
 usc_section: "3653"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 3653"
-generated_at: "2026-03-30T02:55:43.694Z"
+generated_at: "2026-11-23T21:26:12.794Z"
+status: "active"
 ---
 
 # § 3653. Annual determination of compliance
@@ -17,3 +18,17 @@ generated_at: "2026-03-30T02:55:43.694Z"
 - **(c)** If, for a year, a timely written determination of noncompliance is made under subsection (b), the Postal Regulatory Commission shall take appropriate action in accordance with subsections (c) and (e) of section 3662 (as if a complaint averring such noncompliance had been duly filed and found under such section to be justified).
 - **(d)** The Postal Regulatory Commission shall also evaluate annually whether the Postal Service has met the goals established under sections 2803 and 2804, and may provide recommendations to the Postal Service related to the protection or promotion of public policy objectives set out in this title.
 - **(e)** A timely written determination described in the last sentence of subsection (b) shall, for purposes of any proceeding under section 3662, create a rebuttable presumption of compliance by the Postal Service (with regard to the matters described under paragraphs (1) and (2) of subsection (b)) during the year to which such determination relates.
+
+Opportunity for Public Comment
+
+Determination of Compliance or Noncompliance
+
+Noncompliance With Regard to Rates or Services
+
+Review of Performance Goals
+
+Rebuttable Presumption
+
+## Source Credit
+
+*(Added [Pub. L. 109–435, title II, § 204(b)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3213](https://www.govinfo.gov/link/statute/120/3213).)*

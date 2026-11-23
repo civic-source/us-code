@@ -3,9 +3,10 @@ title: "Section 32302 - Passenger motor vehicle information"
 usc_title: 49
 usc_section: "32302"
 chapter: 323
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 32302"
-generated_at: "2026-03-30T02:56:19.362Z"
+generated_at: "2026-11-23T21:26:40.799Z"
+status: "active"
 ---
 
 # § 32302. Passenger motor vehicle information
@@ -42,3 +43,73 @@ generated_at: "2026-03-30T02:56:19.362Z"
       - **(iv)** updating overall vehicle ratings to incorporate vulnerable road user safety technology ratings; and
     - **(B)** such other information and analyses as the Secretary determines to be necessary to implement the rating of vulnerable road user safety technologies.
   - **(3)** Not later than 18 months after the date of enactment of this subsection, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that describes a plan for implementing an information and rating system for vulnerable road user safety technologies, in accordance with subsection (a).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 32302(a) | 15:1941(c) (19th–60th words). | Oct. 20, 1972 , Pub. L. 92–513, § 201(c) , (e), 86 Stat. 956 . |
+|  | 15:1941(d) (1st–13th words). | Oct. 20, 1972 , Pub. L. 92–513, § 201(d) , 86 Stat. 956 ; July 14, 1976 , Pub. L. 94–364, § 201 , 90 Stat. 981 . |
+| 32302(b) | 15:1941(c) (1st–18th and 61st–last words), (d) (14th–last words). |  |
+| 32302(c) | 15:1941(e). |  |
+
+
+Information Program
+
+Motor Vehicle Information
+
+Crash Avoidance
+
+Motor Vehicle Defect Reporting Information.—
+
+Rulemaking required
+
+Application
+
+Advanced Crash-avoidance Technologies.—
+
+Notice
+
+Inclusions
+
+Report
+
+Vulnerable Road User Safety.—
+
+Notice
+
+Inclusions
+
+Report
+
+Historical and Revision Notes
+
+32302(a)
+
+Oct. 20, 1972
+
+Pub. L. 92–513, § 201(c)
+
+86 Stat. 956
+
+Oct. 20, 1972
+
+Pub. L. 92–513, § 201(d)
+
+86 Stat. 956
+
+July 14, 1976
+
+Pub. L. 94–364, § 201
+
+90 Stat. 981
+
+32302(b)
+
+32302(c)
+
+“Not later than 3 years after the date of enactment of this Act [ Nov. 15, 2021 ], after consultation with frequent users of publicly available databases, the Secretary [of Transportation] shall improve public accessibility to information relating to the publicly accessible vehicle safety databases of the National Highway Traffic Safety Administration by revising the publicly accessible vehicle safety databases—
+
+“Not later than 1 year after the date of enactment of this Act [ Dec. 4, 2015 ], the Secretary shall make available to the public on the Internet detailed guidance for consumers submitting safety complaints, including—
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1035](https://www.govinfo.gov/link/statute/108/1035); [Pub. L. 112–141, div. C, title I](https://www.govinfo.gov/link/plaw/112/public/141), §§ 31305(b), 31306, July 6, 2012, [126 Stat. 765](https://www.govinfo.gov/link/statute/126/765); [Pub. L. 112–252](https://www.govinfo.gov/link/plaw/112/public/252), §§ 1, 2(a), Jan. 10, 2013, [126 Stat. 2406](https://www.govinfo.gov/link/statute/126/2406); [Pub. L. 114–94, div. B, title XXIV, § 24322](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1713](https://www.govinfo.gov/link/statute/129/1713); [Pub. L. 117–58, div. B, title IV, § 24213(b)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 826](https://www.govinfo.gov/link/statute/135/826).)*

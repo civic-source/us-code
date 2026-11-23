@@ -3,9 +3,10 @@ title: "Section 3348 - Reports relating to certain special access programs and s
 usc_title: 50
 usc_section: "3348"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3348"
-generated_at: "2026-03-30T02:56:26.246Z"
+generated_at: "2026-11-23T21:26:39.039Z"
+status: "active"
 ---
 
 # § 3348. Reports relating to certain special access programs and similar programs
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:56:26.246Z"
       - **(ii)** the National Nuclear Security Administration (which is required to submit reports on special access programs under section 2426 of this title ); or
       - **(iii)** an agency in the Intelligence Community (as defined in section 3003(4) of this title ).
   - **(3)** The term “special access program” means any program that, under the authority of Executive Order 12356 (or any successor Executive order), is established by the head of a department or agency whom the President has designated in the Federal Register as an original “secret” or “top secret” classification authority that imposes “need-to-know” controls or access controls beyond those controls normally required (by regulations applicable to such department or agency) for access to information classified as “confidential”, “secret”, or “top secret”.
+
+## Source Credit
+
+*([Pub. L. 103–160, div. A, title XI, § 1152](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1758](https://www.govinfo.gov/link/statute/107/1758); [Pub. L. 106–65, div. C, title XXXII, § 3294(e)(2)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 970](https://www.govinfo.gov/link/statute/113/970); [Pub. L. 115–390, title I, § 103](https://www.govinfo.gov/link/plaw/115/public/390), Dec. 21, 2018, [132 Stat. 5177](https://www.govinfo.gov/link/statute/132/5177).)*

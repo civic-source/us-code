@@ -3,9 +3,10 @@ title: "Section 346a - Tolerances and exemptions for pesticide chemical residues
 usc_title: 21
 usc_section: "346a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 346a"
-generated_at: "2026-03-30T02:54:54.222Z"
+generated_at: "2026-11-23T21:25:55.991Z"
+status: "active"
 ---
 
 # § 346a. Tolerances and exemptions for pesticide chemical residues
@@ -248,3 +249,13 @@ generated_at: "2026-03-30T02:54:54.222Z"
   - **(3)** Not later than 12 months after August 3, 1996 , the Administrator shall publish a schedule for review of tolerances and exemptions established prior to August 3, 1996 . The determination of priorities for the review of tolerances and exemptions pursuant to this subsection is not a rulemaking and shall not be subject to judicial review, except that failure to take final action pursuant to the schedule established by this paragraph shall be subject to judicial review.
 - **(r)** The Administrator may, upon the request of any person who has obtained an experimental permit for a pesticide chemical under the Federal Insecticide, Fungicide, and Rodenticide Act [ 7 U.S.C. 136 et seq.] or upon the Administrator’s own initiative, establish a temporary tolerance or exemption for the pesticide chemical residue for the uses covered by the permit. Subsections (b)(2), (c)(2), (d), and (e) shall apply to actions taken under this subsection.
 - **(s)** Nothing in this section shall be construed to amend or modify the provisions of the Toxic Substances Control Act [ 15 U.S.C. 2601 et seq.] or the Federal Insecticide, Fungicide, and Rodenticide Act [ 7 U.S.C. 136 et seq.].
+
+In General
+
+Procedures
+
+Residue Data Collection
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 408, as added July 22, 1954, ch. 559, § 3, [68 Stat. 511](https://www.govinfo.gov/link/statute/68/511); amended [Pub. L. 85–791, § 20](https://www.govinfo.gov/link/plaw/85/public/791), Aug. 28, 1958, [72 Stat. 947](https://www.govinfo.gov/link/statute/72/947); [Pub. L. 91–515, title VI, § 601(d)(1)](https://www.govinfo.gov/link/plaw/91/public/515), Oct. 30, 1970, [84 Stat. 1311](https://www.govinfo.gov/link/statute/84/1311); [Pub. L. 92–157, title III, § 303(a)](https://www.govinfo.gov/link/plaw/92/public/157), Nov. 18, 1971, [85 Stat. 464](https://www.govinfo.gov/link/statute/85/464); [Pub. L. 92–516, § 3(3)](https://www.govinfo.gov/link/plaw/92/public/516), Oct. 21, 1972, [86 Stat. 998](https://www.govinfo.gov/link/statute/86/998); [Pub. L. 98–620, title IV, § 402(25)(A)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3359](https://www.govinfo.gov/link/statute/98/3359); [Pub. L. 102–300, § 6(b)(1)](https://www.govinfo.gov/link/plaw/102/public/300), June 16, 1992, [106 Stat. 240](https://www.govinfo.gov/link/statute/106/240); [Pub. L. 102–571, title I, § 107(7)](https://www.govinfo.gov/link/plaw/102/public/571), Oct. 29, 1992, [106 Stat. 4499](https://www.govinfo.gov/link/statute/106/4499); [Pub. L. 103–80, § 3(k)](https://www.govinfo.gov/link/plaw/103/public/80), Aug. 13, 1993, [107 Stat. 776](https://www.govinfo.gov/link/statute/107/776); [Pub. L. 104–170, title IV, § 405](https://www.govinfo.gov/link/plaw/104/public/170), Aug. 3, 1996, [110 Stat. 1514](https://www.govinfo.gov/link/statute/110/1514); [Pub. L. 105–324, § 2(b)](https://www.govinfo.gov/link/plaw/105/public/324), Oct. 30, 1998, [112 Stat. 3036](https://www.govinfo.gov/link/statute/112/3036); [Pub. L. 110–94, § 4(d)(2)](https://www.govinfo.gov/link/plaw/110/public/94), Oct. 9, 2007, [121 Stat. 1002](https://www.govinfo.gov/link/statute/121/1002); [Pub. L. 112–177, § 2(a)(3)](https://www.govinfo.gov/link/plaw/112/public/177), Sept. 28, 2012, [126 Stat. 1329](https://www.govinfo.gov/link/statute/126/1329); [Pub. L. 116–8, § 2(c)](https://www.govinfo.gov/link/plaw/116/public/8), Mar. 8, 2019, [133 Stat. 485](https://www.govinfo.gov/link/statute/133/485); [Pub. L. 117–328, div. HH, title VI, § 703(b)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 6002](https://www.govinfo.gov/link/statute/136/6002).)*

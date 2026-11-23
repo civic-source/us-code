@@ -3,9 +3,10 @@ title: "Section 50301 - Definitions"
 usc_title: 51
 usc_section: "50301"
 chapter: 503
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 50301"
-generated_at: "2026-03-30T02:56:28.707Z"
+generated_at: "2026-11-23T21:26:42.547Z"
+status: "active"
 ---
 
 # § 50301. Definitions
@@ -21,3 +22,38 @@ In this chapter:
     - **(C)** to be reusable and refueled in space.
   - **(5)** The term “Secretary” means the Secretary of Defense.
   - **(6)** The term “United States commercial provider” means any commercial provider organized under the laws of the United States that is more than 50 percent owned by United States nationals.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 50301 | 42 U.S.C. 14753 . | Pub. L. 107–248, title IX, § 904 , Oct. 23, 2002 , 116 Stat. 1576 . |
+
+
+Commercial provider
+
+In-space transportation services
+
+In-space transportation system
+
+In-space transportation vehicle
+
+Secretary
+
+United states commercial provider
+
+Historical and Revision Notes
+
+50301
+
+42 U.S.C. 14753
+
+Pub. L. 107–248, title IX, § 904
+
+Oct. 23, 2002
+
+116 Stat. 1576
+
+“Congress makes the following findings:
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3401](https://www.govinfo.gov/link/statute/124/3401).)*

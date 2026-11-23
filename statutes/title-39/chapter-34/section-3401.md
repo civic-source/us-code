@@ -3,9 +3,10 @@ title: "Section 3401 - Mailing privileges of members of Armed Forces of the Unit
 usc_title: 39
 usc_section: "3401"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 3401"
-generated_at: "2026-03-30T02:55:43.693Z"
+generated_at: "2026-11-23T21:26:12.785Z"
+status: "active"
 ---
 
 # § 3401. Mailing privileges of members of Armed Forces of the United States
@@ -27,3 +28,13 @@ generated_at: "2026-03-30T02:55:43.693Z"
 - **(f)** In this section:
   - **(1)** The term “military aircraft” means an aircraft owned, operated, or chartered by the Department of Defense.
   - **(2)** The term “United States air carrier” has the meaning given the term “air carrier” in section 40102 of title 49 .
+
+Section
+
+Sec
+
+Ronald Reagan.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 755](https://www.govinfo.gov/link/statute/84/755); [Pub. L. 92–469](https://www.govinfo.gov/link/plaw/92/public/469), Oct. 6, 1972, [86 Stat. 782](https://www.govinfo.gov/link/statute/86/782); [Pub. L. 96–70, title I, § 1331(e)(2)](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 482](https://www.govinfo.gov/link/statute/93/482); [Pub. L. 98–443, § 9(g)(1)](https://www.govinfo.gov/link/plaw/98/public/443), Oct. 4, 1984, [98 Stat. 1707](https://www.govinfo.gov/link/statute/98/1707); [Pub. L. 101–384](https://www.govinfo.gov/link/plaw/101/public/384), Sept. 18, 1990, [104 Stat. 737](https://www.govinfo.gov/link/statute/104/737); [Pub. L. 101–509, title VI, § 631(a)](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1480](https://www.govinfo.gov/link/statute/104/1480); [Pub. L. 101–510, div. A, title XI, § 1113](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1636](https://www.govinfo.gov/link/statute/104/1636); [Pub. L. 102–484, div. A, title X, § 1051(b)(3)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2498](https://www.govinfo.gov/link/statute/106/2498); [Pub. L. 103–160, div. A, title III, § 364](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1628](https://www.govinfo.gov/link/statute/107/1628); [Pub. L. 103–272, § 5(k)(1)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1375](https://www.govinfo.gov/link/statute/108/1375); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1088], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–294; [Pub. L. 108–375, div. A, title X, § 1071](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2056](https://www.govinfo.gov/link/statute/118/2056); [Pub. L. 110–405, § 2(b)(10)](https://www.govinfo.gov/link/plaw/110/public/405), Oct. 13, 2008, [122 Stat. 4290](https://www.govinfo.gov/link/statute/122/4290); [Pub. L. 116–92, div. A, title X, § 1055(a)](https://www.govinfo.gov/link/plaw/116/public/92) –(c)(1), Dec. 20, 2019, [133 Stat. 1592](https://www.govinfo.gov/link/statute/133/1592), 1593.)*

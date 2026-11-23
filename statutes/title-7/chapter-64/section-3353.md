@@ -3,9 +3,10 @@ title: "Section 3353 - Agricultural biosecurity"
 usc_title: 7
 usc_section: "3353"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3353"
-generated_at: "2026-03-30T02:53:42.402Z"
+generated_at: "2026-11-23T21:25:28.335Z"
+status: "active"
 ---
 
 # § 3353. Agricultural biosecurity
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.402Z"
   - **(2)** Each individual association eligible under paragraph (1) may be awarded one grant under such paragraph, the amount of which shall not exceed $100,000. Each consortium eligible under paragraph (1) may be awarded one grant under such paragraph, the amount of which shall not exceed $100,000 per association participating in the consortium.
   - **(3)** Associations of food producers receiving grants under paragraph (1) may use such grants to enter into contracts with independent private organizations with established and demonstrated expertise in biosecurity to assist in the development and implementation of educational programs to improve biosecurity specified in such paragraph.
 - **(c)** There are authorized to be appropriated to carry out this section such sums as may be necessary for each fiscal year.
+
+## Source Credit
+
+*([Pub. L. 107–188, title III, § 334](https://www.govinfo.gov/link/plaw/107/public/188), June 12, 2002, [116 Stat. 679](https://www.govinfo.gov/link/statute/116/679).)*

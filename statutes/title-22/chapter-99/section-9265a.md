@@ -3,9 +3,10 @@ title: "Section 9265a - Reports on certain licensing actions"
 usc_title: 22
 usc_section: "9265a"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9265a"
-generated_at: "2026-03-30T02:55:05.464Z"
+generated_at: "2026-11-23T21:25:58.769Z"
+status: "active"
 ---
 
 # § 9265a. Reports on certain licensing actions
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:05.464Z"
     - **(A)** Part 743, 744, or 746 of title 15, Code of Federal Regulations.
     - **(B)** Part 510 of title 31, Code of Federal Regulations.
     - **(C)** Any other provision of title 31, Code of Federal Regulations.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. F, title LXXI, § 7132](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2252](https://www.govinfo.gov/link/statute/133/2252).)*

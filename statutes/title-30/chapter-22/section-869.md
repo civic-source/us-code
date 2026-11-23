@@ -3,9 +3,10 @@ title: "Section 869 - Underground low- and medium-voltage alternating current ci
 usc_title: 30
 usc_section: "869"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 869"
-generated_at: "2026-03-30T02:55:29.390Z"
+generated_at: "2026-11-23T21:26:00.397Z"
+status: "active"
 ---
 
 # § 869. Underground low- and medium-voltage alternating current circuits
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:29.390Z"
 - **(e)** Single phase loads shall be connected phase to phase.
 - **(f)** Circuit breakers shall be marked for identification.
 - **(g)** Trailing cables for medium voltage circuits shall include grounding conductors, a ground check conductor, and ground metallic shields around each power conductor or a grounded metallic shield over the assembly, except that on equipment employing cable reels, cables without shields may be used if the insulation is rated 2,000 volts or more.
+
+## Source Credit
+
+*([Pub. L. 91–173, title III, § 309](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 782](https://www.govinfo.gov/link/statute/83/782).)*

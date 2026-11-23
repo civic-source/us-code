@@ -3,9 +3,10 @@ title: "Section 1635 - State selections and conveyances"
 usc_title: 43
 usc_section: "1635"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1635"
-generated_at: "2026-03-30T02:55:57.485Z"
+generated_at: "2026-11-23T21:26:19.866Z"
+status: "active"
 ---
 
 # § 1635. State selections and conveyances
@@ -71,3 +72,71 @@ generated_at: "2026-03-30T02:55:57.485Z"
   - **(1)** Notwithstanding any other provision of law, subject to valid existing rights any land withdrawn pursuant to section 17(d)(1) of the Alaska Native Claims Settlement Act [ 43 U.S.C. 1616(d)(1) ] and within the boundaries of any conservation system unit, National Recreation Area, National Conservation Area, new national forest or forest addition, shall be added to such unit and administered accordingly unless, before, on, or after December 2, 1980 , such land has been validly selected by and conveyed to a Native Corporation, or unless before December 2, 1980 , such land has been validly selected by, and after December 2, 1980 , is conveyed to the State. At such time as the entitlement of any Native Corporation to land under the Alaska Native Claims Settlement Act [ 43 U.S.C. 1601 et seq.] is satisfied, any land within a conservation system unit selected by such Native Corporation shall, to the extent that such land is in excess of its entitlement, become part of such unit and administered accordingly: Provided , That nothing in this subsection shall necessarily preclude the future conveyance to the State of those Federal lands which are specified in a list dated October 19, 1979 , submitted by the State of Alaska and on file with the Office of the Secretary: Provided further , That nothing in this subsection shall affect any conveyance to the State pursuant to subsections (b), (c), (d), or (g) of this section.
   - **(2)** Until conveyed, all Federal lands within the boundaries of a conservation system unit, National Recreation Area, National Conservation Area, new national forest or forest addition, shall be administered in accordance with the laws applicable to such unit.
 - **(p)** The second proviso of section 6(b) of the Alaska Statehood Act regarding Presidential approval of land selection north and west of the line described in section 10 of such Act shall not apply to any conveyance of land to the State pursuant to subsections (c), (d), and (g) of this section but shall apply to future State selections.
+
+(aa) include at least 5,760 acres; or
+
+(bb) if a waiver has been granted under section 6(g) of that Act or less than 5,760 acres of the entitlement remains, prioritize the selection in such increments as are available for conveyance.
+
+In General
+
+Effect on Entitlement
+
+Minimum Acreage Requirement Not Applicable
+
+State Waiver
+
+Limitation
+
+In General
+
+Consultation
+
+Errors
+
+Availability of Agreements
+
+Effect
+
+Conditional Relinquishments.—
+
+In general
+
+Conveyance of relinquished claim
+
+Obligations under federal law
+
+No relinquishment
+
+Rights-of-Way; Other Interest
+
+Filing of Final Priorities.—
+
+In general
+
+Ranking
+
+Inclusions
+
+Acreage limitation.—
+
+In general
+
+Relinquishment.—
+
+In general
+
+Failure to relinquish
+
+Lower-priority selections
+
+Deadline for Prioritization.—
+
+In general
+
+Reprioritization
+
+Financial Assistance
+
+## Source Credit
+
+*([Pub. L. 96–487, title IX, § 906](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2437](https://www.govinfo.gov/link/statute/94/2437); [Pub. L. 108–452, title I, § 102](https://www.govinfo.gov/link/plaw/108/public/452), Dec. 10, 2004, [118 Stat. 3577](https://www.govinfo.gov/link/statute/118/3577).)*

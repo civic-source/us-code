@@ -3,9 +3,10 @@ title: "Section 8336 - Immediate retirement"
 usc_title: 5
 usc_section: "8336"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8336"
-generated_at: "2026-03-30T02:52:56.047Z"
+generated_at: "2026-11-23T21:25:23.386Z"
+status: "active"
 ---
 
 # § 8336. Immediate retirement
@@ -130,3 +131,82 @@ generated_at: "2026-03-30T02:52:56.047Z"
       - **(ii)** to achieve one or more reductions in strength;
       - **(iii)** to correct skill imbalances; or
       - **(iv)** to reduce the number of high-grade, managerial, supervisory, or similar positions.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 2256 (less last sentence in (f)). | July 31, 1956, ch. 804, § 401 “Sec. 6 (less last sentence in (f))”, 70 Stat. 749 . |
+|  |  | July 7, 1960 , Pub. L. 86–604, § 1(b) , 74 Stat. 358 . |
+|  |  | July 12, 1960 , Pub. L. 86–622, § 3(b) , 74 Stat. 410 . |
+
+| 1967 Act | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8336(a) 8336(b) | 5 App.: 2256(a). 5 App.: 2256(b). | July 18, 1966 , Pub. L. 89–504, § 504 , 80 Stat. 301 . |
+
+
+(aa) is not a covered position; and
+
+(bb) is within an agency that regularly appoints individuals to supervisory or administrative positions related to the activities of the former covered position of the individual;
+
+Historical and Revision Notes
+
+Act
+
+5 U.S.C. 2256
+
+July 31, 1956, ch. 804, § 401
+
+70 Stat. 749
+
+July 7, 1960
+
+Pub. L. 86–604, § 1(b)
+
+74 Stat. 358
+
+July 12, 1960
+
+Pub. L. 86–622, § 3(b)
+
+74 Stat. 410
+
+Act
+
+8336(a)
+
+8336(b)
+
+July 18, 1966
+
+Pub. L. 89–504, § 504
+
+80 Stat. 301
+
+“The amendments made by this Act [amending this section, sections 8412, 8414, 8415, 8421, 8421a, 8425, and 8462 of this title, sections 4045, 4046, and 4052 of Title 22, Foreign Relations and Intercourse, and section 2152 of Title 50 , War and National Defense]—
+
+Office of personnel management
+
+CIA employees
+
+Foreign service retirement and disability system
+
+Agency certification
+
+Agency reappointment
+
+Treatment of service
+
+“It is the sense of Congress that—
+
+Civil Service Retirement System
+
+Federal Employees’ Retirement System
+
+Numerical Limitation
+
+Regulations
+
+Sense of Congress
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 571](https://www.govinfo.gov/link/statute/80/571); [Pub. L. 90–83, § 1(75)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 214](https://www.govinfo.gov/link/statute/81/214); [Pub. L. 92–297, § 5](https://www.govinfo.gov/link/plaw/92/public/297), May 16, 1972, [86 Stat. 144](https://www.govinfo.gov/link/statute/86/144); [Pub. L. 92–382](https://www.govinfo.gov/link/plaw/92/public/382), Aug. 14, 1972, [86 Stat. 539](https://www.govinfo.gov/link/statute/86/539); [Pub. L. 93–39](https://www.govinfo.gov/link/plaw/93/public/39), June 12, 1973, [87 Stat. 73](https://www.govinfo.gov/link/statute/87/73); [Pub. L. 93–350, § 5](https://www.govinfo.gov/link/plaw/93/public/350), July 12, 1974, [88 Stat. 356](https://www.govinfo.gov/link/statute/88/356); [Pub. L. 94–183, § 2(40)](https://www.govinfo.gov/link/plaw/94/public/183), (41), Dec. 31, 1975, [89 Stat. 1059](https://www.govinfo.gov/link/statute/89/1059); [Pub. L. 95–454, title III, § 306](https://www.govinfo.gov/link/plaw/95/public/454), title IV, § 412(a), Oct. 13, 1978, [92 Stat. 1147](https://www.govinfo.gov/link/statute/92/1147), 1175; [Pub. L. 96–70, title I, § 1241(a)](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 471](https://www.govinfo.gov/link/statute/93/471); [Pub. L. 96–135, § 1(a)](https://www.govinfo.gov/link/plaw/96/public/135), Dec. 5, 1979, [93 Stat. 1056](https://www.govinfo.gov/link/statute/93/1056); [Pub. L. 97–89, title VIII, § 803](https://www.govinfo.gov/link/plaw/97/public/89), Dec. 4, 1981, [95 Stat. 1161](https://www.govinfo.gov/link/statute/95/1161); [Pub. L. 97–253, title III, § 308(a)](https://www.govinfo.gov/link/plaw/97/public/253), Sept. 8, 1982, [96 Stat. 798](https://www.govinfo.gov/link/statute/96/798); [Pub. L. 98–94, title XII, § 1256(b)](https://www.govinfo.gov/link/plaw/98/public/94), Sept. 24, 1983, [97 Stat. 701](https://www.govinfo.gov/link/statute/97/701); [Pub. L. 98–353, title I, § 116(c)](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 344](https://www.govinfo.gov/link/statute/98/344); [Pub. L. 98–531, § 2(b)](https://www.govinfo.gov/link/plaw/98/public/531), Oct. 19, 1984, [98 Stat. 2704](https://www.govinfo.gov/link/statute/98/2704); [Pub. L. 98–615, title III, § 304(d)](https://www.govinfo.gov/link/plaw/98/public/615), Nov. 8, 1984, [98 Stat. 3219](https://www.govinfo.gov/link/statute/98/3219); [Pub. L. 99–190, § 101(d) [title III, § 315]](https://www.govinfo.gov/link/plaw/99/public/190), Dec. 19, 1985, [99 Stat. 1224](https://www.govinfo.gov/link/statute/99/1224), 1266; [Pub. L. 100–53, § 2(c)](https://www.govinfo.gov/link/plaw/100/public/53), June 18, 1987, [101 Stat. 368](https://www.govinfo.gov/link/statute/101/368); [Pub. L. 100–325, § 2](https://www.govinfo.gov/link/plaw/100/public/325) (l), May 30, 1988, [102 Stat. 582](https://www.govinfo.gov/link/statute/102/582); [Pub. L. 101–194, title V, § 506(b)(7)](https://www.govinfo.gov/link/plaw/101/public/194), Nov. 30, 1989, [103 Stat. 1758](https://www.govinfo.gov/link/statute/103/1758); [Pub. L. 101–428, § 2(a)](https://www.govinfo.gov/link/plaw/101/public/428), Oct. 15, 1990, [104 Stat. 928](https://www.govinfo.gov/link/statute/104/928); [Pub. L. 101–510, div. C, title XXXV, § 3506(a)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1846](https://www.govinfo.gov/link/statute/104/1846); [Pub. L. 101–650, title III](https://www.govinfo.gov/link/plaw/101/public/650), §§ 306(c)(3), 321, Dec. 1, 1990, [104 Stat. 5110](https://www.govinfo.gov/link/statute/104/5110), 5117; [Pub. L. 102–572, title IX, § 902(b)(2)](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4516](https://www.govinfo.gov/link/statute/106/4516); [Pub. L. 103–337, div. A, title IX, § 924(d)(1)(A)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2832](https://www.govinfo.gov/link/statute/108/2832); [Pub. L. 105–261, div. A, title XI, § 1109(a)](https://www.govinfo.gov/link/plaw/105/public/261), div. C, title XXXI, § 3154(e), Oct. 17, 1998, [112 Stat. 2143](https://www.govinfo.gov/link/statute/112/2143), 2255; [Pub. L. 106–58, title VI, § 651(b)](https://www.govinfo.gov/link/plaw/106/public/58), Sept. 29, 1999, [113 Stat. 480](https://www.govinfo.gov/link/statute/113/480); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title XI, § 1152(a)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–320; [Pub. L. 106–553, § 1(a)(2) [title III, § 308(b)(3)]](https://www.govinfo.gov/link/plaw/106/public/553), Dec. 21, 2000, [114 Stat. 2762](https://www.govinfo.gov/link/statute/114/2762), 2762A–87; [Pub. L. 107–107, div. A, title X, § 1048(i)(5)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1229](https://www.govinfo.gov/link/statute/115/1229); [Pub. L. 107–296, title XIII](https://www.govinfo.gov/link/plaw/107/public/296), §§ 1313(b)(1), 1321(a)(4)(A), Nov. 25, 2002, [116 Stat. 2294](https://www.govinfo.gov/link/statute/116/2294), 2297; [Pub. L. 110–161, div. E, title V, § 535(a)(4)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2075](https://www.govinfo.gov/link/statute/121/2075); [Pub. L. 117–225, § 3(a)](https://www.govinfo.gov/link/plaw/117/public/225), Dec. 9, 2022, [136 Stat. 2293](https://www.govinfo.gov/link/statute/136/2293).)*

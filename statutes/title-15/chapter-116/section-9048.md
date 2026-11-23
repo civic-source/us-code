@@ -3,9 +3,10 @@ title: "Section 9048 - Temporary Government in the Sunshine Act relief"
 usc_title: 15
 usc_section: "9048"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9048"
-generated_at: "2026-03-30T02:54:08.241Z"
+generated_at: "2026-11-23T21:25:40.123Z"
+status: "active"
 ---
 
 # § 9048. Temporary Government in the Sunshine Act relief
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.241Z"
   - **(1)** the date on which the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared by the President on March 13, 2020 under the National Emergencies Act ( 50 U.S.C. 1601 et seq.) terminates; or
   - **(2)** December 31, 2020 .
 - **(b)** The Board of Governors of the Federal Reserve System shall keep a record of all Board votes and the reasons for such votes during the period described in subsection (a).
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title IV, § 4009](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 478](https://www.govinfo.gov/link/statute/134/478).)*

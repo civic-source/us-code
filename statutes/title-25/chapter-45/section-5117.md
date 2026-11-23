@@ -3,9 +3,10 @@ title: "Section 5117 - Indian preference laws applicable to Bureau of Indian Aff
 usc_title: 25
 usc_section: "5117"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5117"
-generated_at: "2026-03-30T02:54:52.864Z"
+generated_at: "2026-11-23T21:25:54.718Z"
+status: "active"
 ---
 
 # § 5117. Indian preference laws applicable to Bureau of Indian Affairs and Indian Health Service positions
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:52.864Z"
     - **(B)** in connection with any personnel action referred to in subsection (c)(1) of this section, any legally established organization of Indians which is controlled, sanctioned, or chartered by a governing body referred to in subparagraph (A) of this paragraph and which has been delegated by such governing body the authority to grant a waiver under such subsection with respect to such personnel action.
   - **(2)** The term “Indian preference laws” means section 5116 of this title or any other provision of law granting a preference to Indians in promotions and other personnel actions.
   - **(3)** The term “Bureau of Indian Affairs” means (A) the Bureau of Indian Affairs and (B) all other organizational units in the Department of the Interior directly and primarily related to providing services to Indians and in which positions are filled in accordance with the Indian preference laws.
+
+## Source Credit
+
+*([Pub. L. 96–135, § 2](https://www.govinfo.gov/link/plaw/96/public/135), Dec. 5, 1979, [93 Stat. 1057](https://www.govinfo.gov/link/statute/93/1057); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695); [Pub. L. 100–581, title II, § 205](https://www.govinfo.gov/link/plaw/100/public/581), Nov. 1, 1988, [102 Stat. 2940](https://www.govinfo.gov/link/statute/102/2940); [Pub. L. 101–509, title V, § 529 [title I, § 112(c)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1454; [Pub. L. 105–362, title VIII, § 801(e)](https://www.govinfo.gov/link/plaw/105/public/362), title XIII, § 1302(d), Nov. 10, 1998, [112 Stat. 3288](https://www.govinfo.gov/link/statute/112/3288), 3294.)*

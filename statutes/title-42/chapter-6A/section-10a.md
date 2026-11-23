@@ -3,9 +3,10 @@ title: "Section 10a - Public Health Emergency Medical Countermeasures Enterprise
 usc_title: 42
 usc_section: "10a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10a"
-generated_at: "2026-03-30T02:56:10.842Z"
+generated_at: "2026-11-23T21:26:30.929Z"
+status: "active"
 ---
 
 # § 300hh–10a. Public Health Emergency Medical Countermeasures Enterprise
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:10.842Z"
     - **(C)** Assist the Secretary in developing strategies related to logistics, deployment, distribution, dispensing, and use of countermeasures that may be applicable to the activities of the strategic national stockpile under section 247d–6b(a) of this title .
     - **(D)** Provide consultation for the development of the strategy and implementation plan under section 300hh–10(d) of this title .
   - **(2)** In carrying out subparagraphs (B) and (C) of paragraph (1), the PHEMCE shall solicit and consider input from State, local, Tribal, and territorial public health departments or officials, as appropriate.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVIII, § 2811–1, as added [Pub. L. 116–22, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/116/public/22), June 24, 2019, [133 Stat. 942](https://www.govinfo.gov/link/statute/133/942); amended [Pub. L. 117–328, div. FF, title II, § 2104(k)(1)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5719](https://www.govinfo.gov/link/statute/136/5719).)*

@@ -3,9 +3,10 @@ title: "Section 8173 - Content of reports on United States declarations"
 usc_title: 22
 usc_section: "8173"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8173"
-generated_at: "2026-03-30T02:55:05.449Z"
+generated_at: "2026-11-23T21:25:58.735Z"
+status: "active"
 ---
 
 # § 8173. Content of reports on United States declarations
@@ -14,3 +15,7 @@ The reports required under section 8171 of this title and section 8172 of this t
 
   - **(1)** each site, location, facility, and activity included in the list has been examined by each agency with national security equities with respect to such site, location, facility, or activity; and
   - **(2)** appropriate measures have been taken to ensure that information of direct national security significance will not be compromised at any such site, location, facility, or activity in connection with an IAEA inspection.
+
+## Source Credit
+
+*([Pub. L. 109–401, title II, § 273](https://www.govinfo.gov/link/plaw/109/public/401), Dec. 18, 2006, [120 Stat. 2752](https://www.govinfo.gov/link/statute/120/2752).)*

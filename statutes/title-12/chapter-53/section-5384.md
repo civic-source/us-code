@@ -3,9 +3,10 @@ title: "Section 5384 - Orderly liquidation of covered financial companies"
 usc_title: 12
 usc_section: "5384"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5384"
-generated_at: "2026-03-30T02:53:53.533Z"
+generated_at: "2026-11-23T21:25:37.249Z"
+status: "active"
 ---
 
 # § 5384. Orderly liquidation of covered financial companies
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:53.533Z"
       - **(ii)** if the Corporation determines, after consultation with the State insurance authority, that such lien will not unduly impede or delay the liquidation or rehabilitation of the insurance company, or the recovery by its policyholders;
   - **(5)** selling or transferring all, or any part, of such acquired assets, liabilities, or obligations of the covered financial company or any covered subsidiary; and
   - **(6)** making payments pursuant to subsections (b)(4), (d)(4), and (h)(5)(E) of section 5390 of this title .
+
+## Source Credit
+
+*([Pub. L. 111–203, title II, § 204](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1454](https://www.govinfo.gov/link/statute/124/1454); [Pub. L. 114–113, div. O, title VII, § 706(b)(2)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3029](https://www.govinfo.gov/link/statute/129/3029).)*

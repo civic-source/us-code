@@ -3,9 +3,10 @@ title: "Section 1203 - Research and development"
 usc_title: 47
 usc_section: "1203"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1203"
-generated_at: "2026-03-30T02:56:24.530Z"
+generated_at: "2026-11-23T21:26:36.088Z"
+status: "active"
 ---
 
 # § 1203. Research and development
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:24.530Z"
   - **(2)** ensure that the program addresses, at a minimum—
     - **(A)** developing innovative technologies that will transmit geographically targeted emergency alerts to the public; and
     - **(B)** research on understanding and improving public response to warnings.
+
+## Source Credit
+
+*([Pub. L. 109–347, title VI, § 604](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1940](https://www.govinfo.gov/link/statute/120/1940).)*

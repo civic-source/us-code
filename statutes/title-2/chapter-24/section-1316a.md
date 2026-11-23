@@ -3,9 +3,10 @@ title: "Section 1316a - Legislative branch appointments"
 usc_title: 2
 usc_section: "1316a"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1316a"
-generated_at: "2026-03-30T02:53:04.810Z"
+generated_at: "2026-11-23T21:25:21.220Z"
+status: "active"
 ---
 
 # § 1316a. Legislative branch appointments
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:04.810Z"
     - **(B)** whose appointment is made by a Member of Congress or by a committee or subcommittee of either House of Congress; or
     - **(C)** who is appointed to a position, the duties of which are equivalent to those of a Senior Executive Service position (within the meaning of section 3132(a)(2) of title 5 ).
   - **(6)** Paragraphs (2) and (3) shall be effective as of the effective date of the regulations under paragraph (4).
+
+## Source Credit
+
+*([Pub. L. 105–339, § 4(c)](https://www.govinfo.gov/link/plaw/105/public/339), Oct. 31, 1998, [112 Stat. 3185](https://www.govinfo.gov/link/statute/112/3185).)*

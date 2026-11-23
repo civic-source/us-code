@@ -3,9 +3,10 @@ title: "Section 2058 - State death taxes"
 usc_title: 26
 usc_section: "2058"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 2058"
-generated_at: "2026-03-30T02:55:27.783Z"
+generated_at: "2026-11-23T21:26:06.532Z"
+status: "active"
 ---
 
 # § 2058. State death taxes
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:27.783Z"
       - **(i)** 60 days from the date of mailing by certified mail or registered mail by the Secretary to the taxpayer of a notice of the disallowance of any part of such claim,
       - **(ii)** 60 days after a decision by any court of competent jurisdiction becomes final with respect to a timely suit instituted upon such claim, or
       - **(iii)** 2 years after a notice of the waiver of disallowance is filed under section 6532(a)(3).
+
+## Source Credit
+
+*(Added [Pub. L. 107–16, title V, § 532(b)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 73](https://www.govinfo.gov/link/statute/115/73).)*

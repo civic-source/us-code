@@ -3,9 +3,10 @@ title: "Section 1117 - Compensation for disabilities occurring in Persian Gulf W
 usc_title: 38
 usc_section: "1117"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1117"
-generated_at: "2026-03-30T02:55:53.477Z"
+generated_at: "2026-11-23T21:26:16.577Z"
+status: "active"
 ---
 
 # § 1117. Compensation for disabilities occurring in Persian Gulf War veterans
@@ -53,3 +54,89 @@ generated_at: "2026-03-30T02:55:53.477Z"
 - **(i)**
   - **(1)** The Secretary shall take such actions as may be necessary to ensure that health care personnel of the Department are appropriately trained to effectively carry out this section.
   - **(2)** Not less frequently than once each year, the Secretary shall submit to Congress a report on the actions taken by the Secretary to carry out paragraph (1).
+
+Assessment by National Academy of Sciences
+
+Action on Report
+
+Purpose
+
+Agreement
+
+Identification of Agents and Illnesses
+
+Initial Consideration of Specific Agents
+
+Determinations of Associations Between Agents and Illnesses
+
+Review of Potential Treatment Models for Certain Illnesses
+
+Recommendations for Additional Scientific Studies
+
+Subsequent Reviews
+
+Reports
+
+Sunset
+
+Alternative Contract Scientific Organization
+
+Definitions
+
+Uniform Medical Evaluation Protocol
+
+Relationship to Other Comprehensive Clinical Evaluation Protocols
+
+Case Definitions and Diagnoses
+
+In General
+
+Newsletter
+
+Toll-Free Number
+
+Evaluation Program
+
+Duration of Program
+
+Funding Limitation
+
+Contracting
+
+Standard Protocols and Guidelines
+
+Entry of Results in Registry
+
+Outreach
+
+Use Outside Department of Standard Protocols and Guidelines
+
+Report to Congress
+
+Definitions
+
+In General
+
+Coordination With Department of Defense
+
+Persian Gulf Veteran
+
+Study of Health Consequences of Persian Gulf Service
+
+Oversight
+
+Access to Data
+
+Authorization
+
+Section
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+## Source Credit
+
+*(Added [Pub. L. 103–446, title I, § 106(a)(1)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4650](https://www.govinfo.gov/link/statute/108/4650); amended [Pub. L. 105–277, div. C, title XVI, § 1602(c)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–744](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 107–103, title II](https://www.govinfo.gov/link/plaw/107/public/103), §§ 202(a), (b)(1), (d)(1), 203(a), Dec. 27, 2001, [115 Stat. 988](https://www.govinfo.gov/link/statute/115/988), 989; [Pub. L. 109–233, title V, § 503(1)](https://www.govinfo.gov/link/plaw/109/public/233), June 15, 2006, [120 Stat. 415](https://www.govinfo.gov/link/statute/120/415); [Pub. L. 117–168, title IV, § 405](https://www.govinfo.gov/link/plaw/117/public/168), Aug. 10, 2022, [136 Stat. 1783](https://www.govinfo.gov/link/statute/136/1783).)*

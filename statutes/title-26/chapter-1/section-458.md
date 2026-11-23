@@ -3,9 +3,10 @@ title: "Section 458 - Magazines, paperbacks, and records returned after the clos
 usc_title: 26
 usc_section: "458"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 458"
-generated_at: "2026-03-30T02:55:27.703Z"
+generated_at: "2026-11-23T21:26:06.281Z"
+status: "active"
 ---
 
 # § 458. Magazines, paperbacks, and records returned after the close of the taxable year
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:55:27.703Z"
     - **(A)** In the case of any reduction under paragraph (3)(A) in the account for the taxable year, an amount equal to such reduction shall be excluded from gross income for such taxable year.
     - **(B)** In the case of any increase under paragraph (3)(B) in the account for the taxable year, an amount equal to such increase shall be included in gross income for such taxable year.
   - **(5)** The application of this subsection with respect to a taxpayer which is a party to any transaction with respect to which there is nonrecognition of gain or loss to any party to the transaction by reason of subchapter C shall be determined under regulations prescribed by the Secretary.
+
+## Source Credit
+
+*(Added [Pub. L. 95–600, title III, § 372(a)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2860](https://www.govinfo.gov/link/statute/92/2860); amended [Pub. L. 115–141, div. U, title IV, § 401(a)(114)](https://www.govinfo.gov/link/plaw/115/public/141), (115), Mar. 23, 2018, [132 Stat. 1189](https://www.govinfo.gov/link/statute/132/1189).)*

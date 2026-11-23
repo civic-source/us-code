@@ -3,9 +3,10 @@ title: "Section 4655 - Prohibition of contractors limiting subcontractor sales d
 usc_title: 10
 usc_section: "4655"
 chapter: 363
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4655"
-generated_at: "2026-03-30T02:53:38.209Z"
+generated_at: "2026-11-23T21:25:32.781Z"
+status: "active"
 ---
 
 # § 4655. Prohibition of contractors limiting subcontractor sales directly to the United States
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:38.209Z"
 - **(d)**
   - **(1)** An agreement between the contractor in a contract for the acquisition of commercial products or commercial services and a subcontractor under such contract that restricts sales by such subcontractor directly to persons other than the contractor may not be considered to unreasonably restrict sales by that subcontractor to the United States in violation of the provision included in such contract pursuant to subsection (a) if the agreement does not result in the United States being treated differently with regard to the restriction than any other prospective purchaser of such commercial products or commercial services from that subcontractor.
   - **(2)** In paragraph (1), the terms “commercial product” and “commercial service” have the meanings given those terms in sections 103 and 103a, respectively, of title 41.
+
+## Source Credit
+
+*(Added [Pub. L. 98–525, title XII, § 1234(a)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2601](https://www.govinfo.gov/link/statute/98/2601), § 2402; amended [Pub. L. 103–355, title IV, § 4102(f)](https://www.govinfo.gov/link/plaw/103/public/355), title VIII, § 8105(g), Oct. 13, 1994, [108 Stat. 3340](https://www.govinfo.gov/link/statute/108/3340), 3392; [Pub. L. 111–350, § 5(b)(25)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3844](https://www.govinfo.gov/link/statute/124/3844); [Pub. L. 115–232, div. A, title VIII, § 836(e)(4)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1869](https://www.govinfo.gov/link/statute/132/1869); renumbered § 4655, [Pub. L. 116–283, div. A, title XVIII, § 1862(b)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4277](https://www.govinfo.gov/link/statute/134/4277).)*

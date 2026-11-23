@@ -3,9 +3,10 @@ title: "Section 1693a - Definitions"
 usc_title: 15
 usc_section: "1693a"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1693a"
-generated_at: "2026-03-30T02:54:08.156Z"
+generated_at: "2026-11-23T21:25:39.886Z"
+status: "active"
 ---
 
 # § 1693a. Definitions
@@ -29,3 +30,7 @@ As used in this subchapter—
   - **(10)** the term “preauthorized electronic fund transfer” means an electronic fund transfer authorized in advance to recur at substantially regular intervals;
   - **(11)** the term “State” means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any political subdivision of any of the foregoing; and
   - **(12)** the term “unauthorized electronic fund transfer” means an electronic fund transfer from a consumer’s account initiated by a person other than the consumer without actual authority to initiate such transfer and from which the consumer receives no benefit, but the term does not include any electronic fund transfer (A) initiated by a person other than the consumer who was furnished with the card, code, or other means of access to such consumer’s account by such consumer, unless the consumer has notified the financial institution involved that transfers by such other person are no longer authorized, (B) initiated with fraudulent intent by the consumer or any person acting in concert with the consumer, or (C) which constitutes an error committed by a financial institution.
+
+## Source Credit
+
+*([Pub. L. 90–321, title IX, § 903](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 95–630, title XX, § 2001](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3728](https://www.govinfo.gov/link/statute/92/3728); amended [Pub. L. 111–203, title X, § 1084(1)](https://www.govinfo.gov/link/plaw/111/public/203), (2), July 21, 2010, [124 Stat. 2081](https://www.govinfo.gov/link/statute/124/2081).)*

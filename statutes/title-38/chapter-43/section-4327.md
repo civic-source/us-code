@@ -3,9 +3,10 @@ title: "Section 4327 - Noncompliance of Federal officials with deadlines; inappl
 usc_title: 38
 usc_section: "4327"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 4327"
-generated_at: "2026-03-30T02:55:53.519Z"
+generated_at: "2026-11-23T21:26:16.809Z"
+status: "active"
 ---
 
 # § 4327. Noncompliance of Federal officials with deadlines; inapplicability of statutes of limitations
@@ -21,3 +22,11 @@ generated_at: "2026-03-30T02:55:53.519Z"
     - **(D)** shall not constitute a defense, including a statute of limitations period, that any employer (including a State, a private employer, or a Federal executive agency) or the Office of Personnel Management may raise in an action filed by the Attorney General, the Special Counsel, or a person under section 4323 or 4324 of this title.
   - **(2)** If the Secretary, the Attorney General, or the Special Counsel is unable to meet a deadline applicable to such official in section 4322(f), 4323(a)(1), 4323(a)(2), 4324(a)(1), or 4324(a)(2)(B) of this title, and the person agrees to an extension of time, the Secretary, the Attorney General, or the Special Counsel, as the case may be, shall complete the required action within the additional period of time agreed to by the person.
 - **(b)** If any person seeks to file a complaint or claim with the Secretary, the Merit Systems Protection Board, or a Federal or State court under this chapter alleging a violation of this chapter, there shall be no limit on the period for filing the complaint or claim.
+
+Effect of Noncompliance of Federal Officials With Deadlines
+
+Inapplicability of Statutes of Limitations
+
+## Source Credit
+
+*(Added [Pub. L. 110–389, title III, § 311(f)(1)](https://www.govinfo.gov/link/plaw/110/public/389), Oct. 10, 2008, [122 Stat. 4163](https://www.govinfo.gov/link/statute/122/4163).)*

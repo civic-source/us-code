@@ -3,9 +3,10 @@ title: "Section 77ccc - Definitions"
 usc_title: 15
 usc_section: "77ccc"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 77ccc"
-generated_at: "2026-03-30T02:54:08.036Z"
+generated_at: "2026-11-23T21:25:39.512Z"
+status: "active"
 ---
 
 # § 77ccc. Definitions
@@ -30,3 +31,7 @@ When used in this subchapter, unless the context otherwise requires—
   - **(16)** The term “voting security” means any security presently entitling the owner or holder thereof to vote in the direction or management of the affairs of a person, or any security issued under or pursuant to any trust, agreement, or arrangement whereby a trustee or trustees or agent or agents for the owner or holder of such security are presently entitled to vote in the direction or management of the affairs of a person; and a specified percentage of the voting securities of a person means such amount of the outstanding voting securities of such person as entitles the holder or holders thereof to cast such specified percentage of the aggregate votes which the holders of all the outstanding voting securities of such person are entitled to cast in the direction or management of the affairs of such person.
   - **(17)** The terms “Securities Act of 1933” [ 15 U.S.C. 77a et seq.] and “Securities Exchange Act of 1934” [ 15 U.S.C. 78a et seq.] shall be deemed to refer, respectively, to such Acts, as amended, whether amended prior to or after the enactment of this subchapter.
   - **(18)** The term “Bankruptcy Act” means the Bankruptcy Act or title 11.
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title III, § 303, as added Aug. 3, 1939, ch. 411, [53 Stat. 1151](https://www.govinfo.gov/link/statute/53/1151); amended Aug. 10, 1954, ch. 667, title III, § 301, [68 Stat. 686](https://www.govinfo.gov/link/statute/68/686); [Pub. L. 95–598, title III, § 307](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2674](https://www.govinfo.gov/link/statute/92/2674); [Pub. L. 100–181, title V](https://www.govinfo.gov/link/plaw/100/public/181), §§ 501, 502, Dec. 4, 1987, [101 Stat. 1260](https://www.govinfo.gov/link/statute/101/1260); [Pub. L. 101–550, title IV, § 402](https://www.govinfo.gov/link/plaw/101/public/550), Nov. 15, 1990, [104 Stat. 2722](https://www.govinfo.gov/link/statute/104/2722); [Pub. L. 105–353, title III, § 301(e)(1)](https://www.govinfo.gov/link/plaw/105/public/353), Nov. 3, 1998, [112 Stat. 3237](https://www.govinfo.gov/link/statute/112/3237); [Pub. L. 111–203, title IX, § 986(b)(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1935](https://www.govinfo.gov/link/statute/124/1935).)*

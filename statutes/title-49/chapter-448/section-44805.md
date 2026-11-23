@@ -3,9 +3,10 @@ title: "Section 44805 - Small unmanned aircraft safety standards"
 usc_title: 49
 usc_section: "44805"
 chapter: 448
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44805"
-generated_at: "2026-03-30T02:56:19.388Z"
+generated_at: "2026-11-23T21:26:40.915Z"
+status: "active"
 ---
 
 # § 44805. Small unmanned aircraft safety standards
@@ -55,3 +56,27 @@ generated_at: "2026-03-30T02:56:19.388Z"
     - **(A)** the make and model has been authorized for operation under subsection (a); or
     - **(B)** the aircraft has alternatively received design and production approval issued by the Federal Aviation Administration.
 - **(h)** The Administrator may exempt from the requirements of this section small unmanned aircraft systems that are not capable of navigating beyond the visual line of sight of the operator through advanced flight systems and technology, if the Administrator determines that such an exemption does not pose a risk to the safety of the national airspace system.
+
+FAA Process for Acceptance and Authorization
+
+Considerations
+
+Nonapplicability of Other Laws
+
+Revocation
+
+Requirements
+
+Manufacturer’s Statement of Compliance for Small UAS
+
+Prohibitions.—
+
+False statements of compliance
+
+Introduction into interstate commerce
+
+Exclusions
+
+## Source Credit
+
+*(Added [Pub. L. 115–254, div. B, title III, § 345(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3291](https://www.govinfo.gov/link/statute/132/3291); amended [Pub. L. 118–63, title IX, § 903](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1341](https://www.govinfo.gov/link/statute/138/1341).)*

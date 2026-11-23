@@ -3,9 +3,10 @@ title: "Section 648b - Grants for SBDCs"
 usc_title: 15
 usc_section: "648b"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 648b"
-generated_at: "2026-03-30T02:54:08.103Z"
+generated_at: "2026-11-23T21:25:39.687Z"
+status: "active"
 ---
 
 # § 648b. Grants for SBDCs
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:08.103Z"
 - **(c)** Notwithstanding section 648(a)(4)(A) of this title , the recipient of a grant made under this section shall not be required to provide non-Federal matching funds.
 - **(d)** Not later than 30 days after the date on which amounts are appropriated to carry out this section, the Administrator shall disburse the total amount appropriated.
 - **(e)** There is authorized to be appropriated to the Administrator $50,000,000 to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 111–240, title I, § 1402](https://www.govinfo.gov/link/plaw/111/public/240), Sept. 27, 2010, [124 Stat. 2550](https://www.govinfo.gov/link/statute/124/2550).)*

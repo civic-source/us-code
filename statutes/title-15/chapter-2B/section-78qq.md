@@ -3,9 +3,10 @@ title: "Section 78qq - Small Business Capital Formation Advisory Committee"
 usc_title: 15
 usc_section: "78qq"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 78qq"
-generated_at: "2026-03-30T02:54:08.061Z"
+generated_at: "2026-11-23T21:25:39.574Z"
+status: "active"
 ---
 
 # § 78qq. Small Business Capital Formation Advisory Committee
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:54:08.061Z"
     - **(A)** assessing the finding or recommendation of the Committee; and
     - **(B)** disclosing the action, if any, the Commission intends to take with respect to the finding or recommendation.
 - **(h)** The Federal Advisory Committee Act (5 U.S.C. App.) 1 1 See References in Text note below. shall not apply with respect to the Committee and its activities.
+
+## Source Credit
+
+*(June 6, 1934, ch. 404, title I, § 40, as added [Pub. L. 114–284, § 2(b)](https://www.govinfo.gov/link/plaw/114/public/284), Dec. 16, 2016, [130 Stat. 1450](https://www.govinfo.gov/link/statute/130/1450).)*

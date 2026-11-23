@@ -3,9 +3,10 @@ title: "Section 2111 - Domestic distribution"
 usc_title: 42
 usc_section: "2111"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2111"
-generated_at: "2026-03-30T02:56:11.149Z"
+generated_at: "2026-11-23T21:26:32.334Z"
+status: "active"
 ---
 
 # § 2111. Domestic distribution
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.149Z"
   - **(2)** carrying out a compact that is—
     - **(A)** entered into in accordance with that Act ( 42 U.S.C. 2021b et seq.); and
     - **(B)** approved by Congress.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 81, as added Aug. 30, 1954, ch. 1073, § 1, [68 Stat. 935](https://www.govinfo.gov/link/statute/68/935); amended [Pub. L. 93–377, § 4](https://www.govinfo.gov/link/plaw/93/public/377), Aug. 17, 1974, [88 Stat. 475](https://www.govinfo.gov/link/statute/88/475); [Pub. L. 95–604, title II, § 205(b)](https://www.govinfo.gov/link/plaw/95/public/604), Nov. 8, 1978, [92 Stat. 3039](https://www.govinfo.gov/link/statute/92/3039); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944); [Pub. L. 109–58, title VI, § 651(e)(3)(A)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 807](https://www.govinfo.gov/link/statute/119/807).)*

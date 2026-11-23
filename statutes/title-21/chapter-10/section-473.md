@@ -3,9 +3,10 @@ title: "Section 473 - Grants for improvements to meat and poultry facilities to 
 usc_title: 21
 usc_section: "473"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 473"
-generated_at: "2026-03-30T02:54:54.287Z"
+generated_at: "2026-11-23T21:25:56.206Z"
+status: "active"
 ---
 
 # § 473. Grants for improvements to meat and poultry facilities to allow for interstate shipment
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:54:54.287Z"
     - **(B)** the operational status of facilities that were awarded grants under this section.
   - **(2)** Beginning not later than 1 year after December 27, 2020 , the Secretary shall submit to the Committee on Agriculture and the Committee on Appropriations of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry and the Committee on Appropriations of the Senate a report describing any recommendations, developed in consultation with all States, for possible improvements to the cooperative interstate shipment programs under section 501 of the Federal Meat Inspection Act ( 21 U.S.C. 683 ) and section 31 of the Poultry Products Inspection Act ( 21 U.S.C. 472 ).
 - **(f)** Of the funds of the Treasury not otherwise appropriated, there is appropriated to carry out this section $60,000,000 for the period of fiscal years 2021 through 2023, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. N, title VII, § 764](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2115](https://www.govinfo.gov/link/statute/134/2115); [Pub. L. 117–103, div. A, title VII, § 776](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 99](https://www.govinfo.gov/link/statute/136/99).)*

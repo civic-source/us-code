@@ -3,9 +3,10 @@ title: "Section 634b - Primary functions of Office of Advocacy"
 usc_title: 15
 usc_section: "634b"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 634b"
-generated_at: "2026-03-30T02:54:08.087Z"
+generated_at: "2026-11-23T21:25:39.645Z"
+status: "active"
 ---
 
 # § 634b. Primary functions of Office of Advocacy
@@ -24,3 +25,7 @@ The primary functions of the Office of Advocacy shall be to—
   - **(10)** determine the desirability of developing a set of rational, objective criteria to be used to define small business, and to develop such criteria, if appropriate;
   - **(11)** advise, cooperate with, and consult with, the Chairman of the Administrative Conference of the United States with respect to section 504(e) of title 5 ; and
   - **(12)** evaluate the efforts of each department and agency of the United States, and of private industry, to assist small business concerns owned and controlled by veterans, as defined in section 632(q) of this title , and small business concerns owned and controlled by serviced-disabled 2 2 So in original. veterans, as defined in such section 632(q) of this title , and to provide statistical information on the utilization of such programs by such small business concerns, and to make appropriate recommendations to the Administrator of the Small Business Administration and to the Congress in order to promote the establishment and growth of those small business concerns.
+
+## Source Credit
+
+*([Pub. L. 94–305, title II, § 202](https://www.govinfo.gov/link/plaw/94/public/305), June 4, 1976, [90 Stat. 668](https://www.govinfo.gov/link/statute/90/668); [Pub. L. 96–481, title II, § 203(b)](https://www.govinfo.gov/link/plaw/96/public/481), Oct. 21, 1980, [94 Stat. 2327](https://www.govinfo.gov/link/statute/94/2327); [Pub. L. 106–50, title VII, § 702](https://www.govinfo.gov/link/plaw/106/public/50), Aug. 17, 1999, [113 Stat. 250](https://www.govinfo.gov/link/statute/113/250).)*

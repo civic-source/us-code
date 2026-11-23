@@ -3,9 +3,10 @@ title: "Section 4001 - Definitions"
 usc_title: 25
 usc_section: "4001"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4001"
-generated_at: "2026-03-30T02:54:52.857Z"
+generated_at: "2026-11-23T21:25:54.701Z"
+status: "active"
 ---
 
 # § 4001. Definitions
@@ -18,3 +19,7 @@ For the purposes of this chapter:
   - **(4)** The term “Office” means the Office of Special Trustee for American Indians established by section 4042 of this title .
   - **(5)** The term “Bureau” means the Bureau of Indian Affairs within the Department of the Interior.
   - **(6)** The term “Department” means the Department of the Interior.
+
+## Source Credit
+
+*([Pub. L. 103–412, § 2](https://www.govinfo.gov/link/plaw/103/public/412), Oct. 25, 1994, [108 Stat. 4239](https://www.govinfo.gov/link/statute/108/4239).)*

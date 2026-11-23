@@ -3,9 +3,10 @@ title: "Section 1408 - Payment of retired or retainer pay in compliance with cou
 usc_title: 10
 usc_section: "1408"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1408"
-generated_at: "2026-03-30T02:53:38.119Z"
+generated_at: "2026-11-23T21:25:32.469Z"
+status: "active"
 ---
 
 # § 1408. Payment of retired or retainer pay in compliance with court orders
@@ -132,3 +133,31 @@ generated_at: "2026-03-30T02:53:38.119Z"
   - **(5)** For purposes of this subsection, a judgment rendered for physically, sexually, or emotionally abusing a child is any legal claim perfected through a final enforceable judgment, which claim is based in whole or in part upon the physical, sexual, or emotional abuse of an individual under 18 years of age, whether or not that abuse is accompanied by other actionable wrongdoing, such as sexual exploitation or gross negligence.
   - **(6)** If the Secretary concerned is served with more than one court order with respect to the retired pay of a member, the disposable retired pay of the member shall be available to satisfy such court orders on a first-come, first-served basis, subject to the order of precedence specified in paragraph (2), with any such process being satisfied out of such monies as remain after the satisfaction of all such processes which have been previously served.
   - **(7)** The Secretary concerned shall not be required to vary normal pay and disbursement cycles for retired pay in order to comply with a child abuse garnishment order.
+
+Definitions
+
+Effective Service of Process
+
+Authority for Court To Treat Retired Pay as Property of the Member and Spouse
+
+Payments by Secretary Concerned to (or for Benefit of) Spouse or Former Spouse
+
+Limitations
+
+Immunity of Officers and Employees of United States
+
+Notice to Member of Service of Court Order on Secretary Concerned
+
+Benefits for Dependents Who Are Victims of Abuse by Members Losing Right to Retired Pay
+
+Certification Date
+
+Regulations
+
+Relationship to Other Laws
+
+Garnishment To Satisfy a Judgment Rendered for Physically, Sexually, or Emotionally Abusing a Child
+
+## Source Credit
+
+*(Added [Pub. L. 97–252, title X, § 1002(a)](https://www.govinfo.gov/link/plaw/97/public/252), Sept. 8, 1982, [96 Stat. 730](https://www.govinfo.gov/link/statute/96/730); amended [Pub. L. 98–525, title VI, § 643(a)](https://www.govinfo.gov/link/plaw/98/public/525) –(d), Oct. 19, 1984, [98 Stat. 2547](https://www.govinfo.gov/link/statute/98/2547); [Pub. L. 99–661, div. A, title VI, § 644(a)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3887](https://www.govinfo.gov/link/statute/100/3887); [Pub. L. 100–26](https://www.govinfo.gov/link/plaw/100/public/26), §§ 3(3), 7(h)(1), Apr. 21, 1987, [101 Stat. 273](https://www.govinfo.gov/link/statute/101/273), 282; [Pub. L. 101–189, div. A, title VI, § 653(a)(5)](https://www.govinfo.gov/link/plaw/101/public/189), title XVI, § 1622(e)(6), Nov. 29, 1989, [103 Stat. 1462](https://www.govinfo.gov/link/statute/103/1462), 1605; [Pub. L. 101–510, div. A, title V, § 555(a)](https://www.govinfo.gov/link/plaw/101/public/510) –(d), (f), (g), Nov. 5, 1990, [104 Stat. 1569](https://www.govinfo.gov/link/statute/104/1569), 1570; [Pub. L. 102–190, div. A, title X, § 1061(a)(7)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1472](https://www.govinfo.gov/link/statute/105/1472); [Pub. L. 102–484, div. A, title VI, § 653(a)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2426](https://www.govinfo.gov/link/statute/106/2426); [Pub. L. 103–160, div. A, title V, § 555(a)](https://www.govinfo.gov/link/plaw/103/public/160), (b), title XI, § 1182(a)(2), Nov. 30, 1993, [107 Stat. 1666](https://www.govinfo.gov/link/statute/107/1666), 1771; [Pub. L. 104–106, div. A, title XV, § 1501(c)(16)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 499](https://www.govinfo.gov/link/statute/110/499); [Pub. L. 104–193, title III](https://www.govinfo.gov/link/plaw/104/public/193), §§ 362(c), 363(c)(1)–(3), Aug. 22, 1996, [110 Stat. 2246](https://www.govinfo.gov/link/statute/110/2246), 2249; [Pub. L. 104–201, div. A, title VI, § 636](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2579](https://www.govinfo.gov/link/statute/110/2579); [Pub. L. 105–85, div. A, title X, § 1073(a)(24)](https://www.govinfo.gov/link/plaw/105/public/85), (25), Nov. 18, 1997, [111 Stat. 1901](https://www.govinfo.gov/link/statute/111/1901); [Pub. L. 107–107, div. A, title X, § 1048(c)(9)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1226](https://www.govinfo.gov/link/statute/115/1226); [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 108–189, § 2(c)](https://www.govinfo.gov/link/plaw/108/public/189), Dec. 19, 2003, [117 Stat. 2866](https://www.govinfo.gov/link/statute/117/2866); [Pub. L. 109–163, div. A, title VI, § 665(a)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3317](https://www.govinfo.gov/link/statute/119/3317); [Pub. L. 111–84, div. A, title X, § 1073(a)(15)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2473](https://www.govinfo.gov/link/statute/123/2473); [Pub. L. 114–328, div. A, title VI, § 641(a)](https://www.govinfo.gov/link/plaw/114/public/328), title X, § 1081(b)(2)(B), Dec. 23, 2016, [130 Stat. 2164](https://www.govinfo.gov/link/statute/130/2164), 2418; [Pub. L. 115–91, div. A, title V](https://www.govinfo.gov/link/plaw/115/public/91), §§ 531(m), 534(a), title VI, § 624(a), Dec. 12, 2017, [131 Stat. 1386](https://www.govinfo.gov/link/statute/131/1386), 1390, 1429.)*

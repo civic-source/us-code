@@ -3,9 +3,10 @@ title: "Section 242 - Department of Homeland Security Blue Campaign"
 usc_title: 6
 usc_section: "242"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 242"
-generated_at: "2026-03-30T02:53:09.454Z"
+generated_at: "2026-11-23T21:25:25.770Z"
+status: "active"
 ---
 
 # § 242. Department of Homeland Security Blue Campaign
@@ -51,3 +52,15 @@ generated_at: "2026-03-30T02:53:09.454Z"
     - **(B)** The development of effective awareness tools for distribution to Federal and non-Federal officials to identify and prevent instances of human trafficking.
     - **(C)** Identification of additional persons or entities that may be uniquely positioned to recognize signs of human trafficking and the development of materials for such persons.
 - **(h)** With regard to the development of programs under the Blue Campaign and the implementation of such programs, the Director is authorized to consult with State, local, Tribal, and territorial agencies, non-governmental organizations, private sector organizations, and experts.
+
+Blue Campaign
+
+Other Transfer.—
+
+Authorization
+
+Notification
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 434](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 115–125, § 2(a)](https://www.govinfo.gov/link/plaw/115/public/125), Feb. 14, 2018, [132 Stat. 315](https://www.govinfo.gov/link/statute/132/315); amended [Pub. L. 117–81, div. F, title LXIV, § 6407](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2403](https://www.govinfo.gov/link/statute/135/2403).)*

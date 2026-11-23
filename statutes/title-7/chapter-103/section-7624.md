@@ -3,9 +3,10 @@ title: "Section 7624 - Biobased products"
 usc_title: 7
 usc_section: "7624"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7624"
-generated_at: "2026-03-30T02:53:42.458Z"
+generated_at: "2026-11-23T21:25:28.439Z"
+status: "active"
 ---
 
 # § 7624. Biobased products
@@ -37,3 +38,23 @@ generated_at: "2026-03-30T02:53:42.458Z"
   - **(2)** The Secretary may not use funds referred to in paragraph (1)(B) to carry out subsection (e).
 - **(g)** For the purpose of determining the market potential for new biobased products produced at a pilot plant or other large-scale preparation facility under a cooperative agreement under this section, the Secretary shall authorize the private partner or partners to the agreement to sell the products.
 - **(h)** There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2012.
+
+Definitions
+
+Construction product
+
+Consumer product
+
+Covered agricultural commodity
+
+Qualified institution
+
+Secretary
+
+Establishment
+
+Authorization of Appropriations
+
+## Source Credit
+
+*([Pub. L. 105–185, title IV, § 404](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 570](https://www.govinfo.gov/link/statute/112/570); [Pub. L. 107–171, title VI, § 6201(d)(4)](https://www.govinfo.gov/link/plaw/107/public/171), title VII, § 7124, May 13, 2002, [116 Stat. 419](https://www.govinfo.gov/link/statute/116/419), 434; [Pub. L. 110–234, title VII, § 7304](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1242](https://www.govinfo.gov/link/statute/122/1242); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7304, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2003; [Pub. L. 111–88, div. A, title IV, § 431](https://www.govinfo.gov/link/plaw/111/public/88), Oct. 30, 2009, [123 Stat. 2964](https://www.govinfo.gov/link/statute/123/2964).)*

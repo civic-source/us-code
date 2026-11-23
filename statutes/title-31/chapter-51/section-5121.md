@@ -3,9 +3,10 @@ title: "Section 5121 - Refining, assaying, and valuation of bullion"
 usc_title: 31
 usc_section: "5121"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 5121"
-generated_at: "2026-03-30T02:55:34.065Z"
+generated_at: "2026-11-23T21:26:10.611Z"
+status: "active"
 ---
 
 # § 5121. Refining, assaying, and valuation of bullion
@@ -23,3 +24,66 @@ generated_at: "2026-03-30T02:55:34.065Z"
     - **(B)** necessary supplies of acids cannot be procured at reasonable rates.
   - **(2)** The charge for refining in an exchange under this subsection may be not more than the charge imposed in an exchange of unrefined bullion for refined bullion.
 - **(e)** The Secretary shall prepare bars for payment of deposits. The Secretary shall stamp each bar with a designation of the weight and fineness of the bar and a symbol the Secretary considers suitable to prevent fraudulent imitation of the bar.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5121(a) | 31:274. | R.S. § 3508; Aug. 23, 1912, ch. 350, § 1 (last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384 . |
+|  | 31:277. | R.S. § 3507. |
+|  | 31:330. | R.S. § 3522. |
+|  | 31:343. | R.S. § 3530; Aug. 23, 1912, ch. 350, § 1 (last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384 . |
+|  | 31:344. | R.S. § 3531; Aug. 23, 1912, ch. 350, § 1 (last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384 . |
+| 5121(b) | 31:325(words before 4th comma and after last comma). | R.S. § 3518. |
+|  | 31:327(1st sentence). | R.S. § 3519. |
+|  | 31:328(1st sentence). | R.S. § 3520; Mar. 3, 1887, ch. 396, § 3 , 24 Stat. 635 . |
+|  | 31:329. | R.S. § 3521; Aug. 23, 1912, ch. 350, § 1 (last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384 . |
+| 5121(c) | 31:327(last sentence). |  |
+|  | 31:328(last sentence). |  |
+| 5121(d) | 31:360. | R.S. § 3546. |
+|  | 31:362. | June 19, 1878, ch. 329, § 1 (2d sentence words after last semicolon on p. 191), 20 Stat. 191 . |
+| 5121(e) | 31:325(words between 4th and last commas). |  |
+|  | 31:347. | R.S. § 3534; Aug. 23, 1912, ch. 350, § 1 (last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384 . |
+
+
+Historical and Revision Notes
+
+5121(a)
+
+Aug. 23, 1912, ch. 350, § 1
+
+37 Stat. 384
+
+Aug. 23, 1912, ch. 350, § 1
+
+37 Stat. 384
+
+Aug. 23, 1912, ch. 350, § 1
+
+37 Stat. 384
+
+5121(b)
+
+Mar. 3, 1887, ch. 396, § 3
+
+24 Stat. 635
+
+Aug. 23, 1912, ch. 350, § 1
+
+37 Stat. 384
+
+5121(c)
+
+5121(d)
+
+June 19, 1878, ch. 329, § 1
+
+20 Stat. 191
+
+5121(e)
+
+Aug. 23, 1912, ch. 350, § 1
+
+37 Stat. 384
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 987](https://www.govinfo.gov/link/statute/96/987).)*

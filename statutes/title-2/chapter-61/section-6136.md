@@ -3,9 +3,10 @@ title: "Section 6136 - Transfer of funds from representation allowance of Majori
 usc_title: 2
 usc_section: "6136"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 6136"
-generated_at: "2026-03-30T02:53:04.839Z"
+generated_at: "2026-11-23T21:25:21.342Z"
+status: "active"
 ---
 
 # § 6136. Transfer of funds from representation allowance of Majority and Minority Leaders of Senate to expense allowance; availability; definitions
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:04.839Z"
 - **(b)**
   - **(1)** The term “Leader’s Representation Allowance” means the Representation Allowance Account for the Majority and Minority Leaders established by section 6135 of this title .
   - **(2)** The term “Leader’s Expense Allowance”, when used in reference to the Majority or Minority Leader of the Senate, refers to the moneys available, for any fiscal year, to such Leader as an expense allowance and the appropriation account from which such moneys are funded.
+
+## Source Credit
+
+*([Pub. L. 100–71, title I, § 1](https://www.govinfo.gov/link/plaw/100/public/71), July 11, 1987, [101 Stat. 422](https://www.govinfo.gov/link/statute/101/422).)*

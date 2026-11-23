@@ -3,9 +3,10 @@ title: "Section 3904 - Authority of Director of Indian Health Service"
 usc_title: 25
 usc_section: "3904"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3904"
-generated_at: "2026-03-30T02:54:52.857Z"
+generated_at: "2026-11-23T21:25:54.701Z"
+status: "active"
 ---
 
 # § 3904. Authority of Director of Indian Health Service
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:52.857Z"
   - **(1)** close such dumps; and
   - **(2)** provide for postclosure maintenance of such dumps.
 - **(c)** All assistance provided pursuant to subsection (b) shall be made available on a site-specific basis in accordance with priorities developed by the Director. Priorities on specific Indian lands or Alaska Native lands shall be developed in consultation with the Indian tribal government or Alaska Native entity. The priorities shall take into account the relative severity of the threat to public health and the environment posed by each open dump and the availability of funds necessary for closure and postclosure maintenance.
+
+## Source Credit
+
+*([Pub. L. 103–399, § 5](https://www.govinfo.gov/link/plaw/103/public/399), Oct. 22, 1994, [108 Stat. 4166](https://www.govinfo.gov/link/statute/108/4166).)*

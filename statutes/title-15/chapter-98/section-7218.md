@@ -3,9 +3,10 @@ title: "Section 7218 - Accounting standards"
 usc_title: 15
 usc_section: "7218"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7218"
-generated_at: "2026-03-30T02:54:08.220Z"
+generated_at: "2026-11-23T21:25:40.047Z"
+status: "active"
 ---
 
 # § 7218. Accounting standards
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:08.220Z"
       - **(iii)** the feasibility of and proposed methods by which a principles-based system may be implemented; and
       - **(iv)** a thorough economic analysis of the implementation of a principles-based system.
   - **(2)** Not later than 1 year after July 30, 2002 , the Commission shall submit a report on the results of the study required by paragraph (1) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 107–204, title I, § 108](https://www.govinfo.gov/link/plaw/107/public/204), July 30, 2002, [116 Stat. 768](https://www.govinfo.gov/link/statute/116/768).)*

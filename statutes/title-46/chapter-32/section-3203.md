@@ -3,9 +3,10 @@ title: "Section 3203 - Safety management system"
 usc_title: 46
 usc_section: "3203"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 3203"
-generated_at: "2026-03-30T02:56:15.542Z"
+generated_at: "2026-11-23T21:26:37.038Z"
+status: "active"
 ---
 
 # § 3203. Safety management system
@@ -41,3 +42,33 @@ generated_at: "2026-03-30T02:56:15.542Z"
 - **(e)** In prescribing regulations for passenger vessels and small passenger vessels, the Secretary shall consider—
   - **(1)** the characteristics, methods of operation, and nature of the service of these vessels; and
   - **(2)** with respect to vessels that are ferries, the sizes of the ferry systems within which the vessels operate.
+
+In General
+
+Procedures and Training Requirements
+
+Audits.—
+
+Certificates.—
+
+Suspension
+
+Revocation
+
+Documents of compliance.—
+
+In general
+
+Suspension
+
+Revocation
+
+Compliance With Code
+
+Freight Vessels; Damage Control Information
+
+Recognized Organizations; United States Supplement
+
+## Source Credit
+
+*(Added [Pub. L. 104–324, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3928](https://www.govinfo.gov/link/statute/110/3928); amended [Pub. L. 108–293, title IV, § 405(b)](https://www.govinfo.gov/link/plaw/108/public/293), Aug. 9, 2004, [118 Stat. 1043](https://www.govinfo.gov/link/statute/118/1043); [Pub. L. 111–281, title VI, § 610(b)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2969](https://www.govinfo.gov/link/statute/124/2969); [Pub. L. 116–283, div. G, title LVXXXIV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXIV], § 8441(c), Jan. 1, 2021, [134 Stat. 4744](https://www.govinfo.gov/link/statute/134/4744); [Pub. L. 117–263, div. K, title CXVI, § 11610(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4154](https://www.govinfo.gov/link/statute/136/4154).)*

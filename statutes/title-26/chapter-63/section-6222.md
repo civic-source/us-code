@@ -3,9 +3,10 @@ title: "Section 6222 - Partner’s return must be consistent with partnership re
 usc_title: 26
 usc_section: "6222"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6222"
-generated_at: "2026-03-30T02:55:27.846Z"
+generated_at: "2026-11-23T21:26:06.835Z"
+status: "active"
 ---
 
 # § 6222. Partner’s return must be consistent with partnership return
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:27.846Z"
     - **(B)** elects to have this paragraph apply with respect to that item.
 - **(d)** Any final decision with respect to an inconsistent position identified under subsection (c) in a proceeding to which the partnership is not a party shall not be binding on the partnership.
 - **(e)** For addition to tax in the case of a partner’s disregard of the requirements of this section, see part II of subchapter A of chapter 68.
+
+## Source Credit
+
+*(Added [Pub. L. 114–74, title XI, § 1101(c)(1)](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 626](https://www.govinfo.gov/link/statute/129/626); amended [Pub. L. 115–141, div. U, title II, § 201(c)(3)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1173](https://www.govinfo.gov/link/statute/132/1173).)*

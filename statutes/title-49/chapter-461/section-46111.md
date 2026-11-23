@@ -3,9 +3,10 @@ title: "Section 46111 - Certificate actions in response to a security threat"
 usc_title: 49
 usc_section: "46111"
 chapter: 461
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 46111"
-generated_at: "2026-03-30T02:56:19.397Z"
+generated_at: "2026-11-23T21:26:40.943Z"
+status: "active"
 ---
 
 # § 46111. Certificate actions in response to a security threat
@@ -22,3 +23,31 @@ generated_at: "2026-03-30T02:56:19.397Z"
     - **(A)** As part of a hearing conducted under this section, if the order of the Administrator of the Federal Aviation Administration issued under subsection (a) is based on classified information (as defined in section 1(a) of the Classified Information Procedures Act (18 U.S.C. App.)), such information may be submitted by the Administrator of the Transportation Security Administration to the reviewing administrative law judge, pursuant to appropriate security procedures, and shall be reviewed by the administrative law judge ex parte and in camera.
     - **(B)** Pursuant to existing procedures and requirements, the Administrator of the Transportation Security Administration shall, in coordination, as necessary, with the heads of other affected departments or agencies, ensure that administrative law judges reviewing orders of the Administrator of the Federal Aviation Administration under this section possess security clearances appropriate for their work under this section.
   - **(3)** As part of a hearing conducted under this section and upon the request of the individual adversely affected by an order of the Administrator of the Federal Aviation Administration under subsection (a), the Administrator of the Transportation Security Administration shall provide to the individual and reviewing administrative law judge, consistent with the procedures established under paragraph (1), an unclassified summary of any classified information upon which the order of the Administrator of the Federal Aviation Administration is based.
+
+Orders
+
+Hearings for Citizens
+
+Hearings
+
+Appeals
+
+Review
+
+Explanation of Decisions
+
+Classified Evidence.—
+
+In general
+
+Review of classified evidence by administrative law judge.—
+
+Review
+
+Security clearances
+
+Unclassified summaries of classified evidence
+
+## Source Credit
+
+*(Added [Pub. L. 108–176, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2561](https://www.govinfo.gov/link/statute/117/2561); amended [Pub. L. 115–254, div. B, title V, § 539](https://www.govinfo.gov/link/plaw/115/public/254) (l), div. K, title I, § 1991(f)(9), Oct. 5, 2018, [132 Stat. 3371](https://www.govinfo.gov/link/statute/132/3371), 3643.)*

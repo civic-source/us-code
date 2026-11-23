@@ -3,9 +3,10 @@ title: "Section 1431 - Authorization; official approval; Congressional action: n
 usc_title: 50
 usc_section: "1431"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1431"
-generated_at: "2026-03-30T02:56:26.202Z"
+generated_at: "2026-11-23T21:26:38.911Z"
+status: "active"
 ---
 
 # § 1431. Authorization; official approval; Congressional action: notification of committees of certain proposed obligations, resolution of disapproval, continuity of session, computation of period
@@ -28,3 +29,29 @@ generated_at: "2026-03-30T02:56:26.202Z"
   - **(1)** The term “covered subcontractor” means a subcontractor who has entered into an eligible subcontract with a prime contractor.
   - **(2)** The term “eligible contract” means a contract awarded to a prime contractor by the Secretary of Defense pursuant to subsection (a).
   - **(3)** The term “eligible subcontract” means a subcontract made under an eligible contract to a covered subcontractor.
+
+Temporary Authority to Modify Certain Contracts and Options Based on the Impacts of Inflation
+
+Review
+
+Deadline
+
+Delegation
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 85–804, § 1](https://www.govinfo.gov/link/plaw/85/public/804), Aug. 28, 1958, [72 Stat. 972](https://www.govinfo.gov/link/statute/72/972); [Pub. L. 93–155, title VIII, § 807(a)](https://www.govinfo.gov/link/plaw/93/public/155), Nov. 16, 1973, [87 Stat. 615](https://www.govinfo.gov/link/statute/87/615); [Pub. L. 101–510, div. A, title XIII, § 1313](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1670](https://www.govinfo.gov/link/statute/104/1670); [Pub. L. 102–25, title VII, § 705(f)](https://www.govinfo.gov/link/plaw/102/public/25), Apr. 6, 1991, [105 Stat. 120](https://www.govinfo.gov/link/statute/105/120); [Pub. L. 116–92, div. C, title XXXV, § 3507(c)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1976](https://www.govinfo.gov/link/statute/133/1976); [Pub. L. 117–263, div. A, title VIII, § 822(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2709](https://www.govinfo.gov/link/statute/136/2709); [Pub. L. 118–31, div. A, title VIII, § 824](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 332](https://www.govinfo.gov/link/statute/137/332); [Pub. L. 118–159, div. A, title VIII, § 824](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1984](https://www.govinfo.gov/link/statute/138/1984).)*

@@ -3,9 +3,10 @@ title: "Section 299 - Joinder of parties"
 usc_title: 35
 usc_section: "299"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "35 U.S.C. § 299"
-generated_at: "2026-03-30T02:55:34.240Z"
+generated_at: "2026-11-23T21:26:08.627Z"
+status: "active"
 ---
 
 # § 299. Joinder of parties
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:55:34.240Z"
   - **(2)** questions of fact common to all defendants or counterclaim defendants will arise in the action.
 - **(b)** For purposes of this subsection, accused infringers may not be joined in one action as defendants or counterclaim defendants, or have their actions consolidated for trial, based solely on allegations that they each have infringed the patent or patents in suit.
 - **(c)** A party that is an accused infringer may waive the limitations set forth in this section with respect to that party.
+
+Joinder of Accused Infringers
+
+Allegations Insufficient for Joinder
+
+Waiver
+
+## Source Credit
+
+*(Added [Pub. L. 112–29, § 19(d)(1)](https://www.govinfo.gov/link/plaw/112/public/29), Sept. 16, 2011, [125 Stat. 332](https://www.govinfo.gov/link/statute/125/332); amended [Pub. L. 112–274, § 1(c)](https://www.govinfo.gov/link/plaw/112/public/274), Jan. 14, 2013, [126 Stat. 2456](https://www.govinfo.gov/link/statute/126/2456).)*

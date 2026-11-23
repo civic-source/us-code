@@ -3,9 +3,10 @@ title: "Section 8451 - Connect our parks"
 usc_title: 16
 usc_section: "8451"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8451"
-generated_at: "2026-03-30T02:54:23.085Z"
+generated_at: "2026-11-23T21:25:52.078Z"
+status: "active"
 ---
 
 # § 8451. Connect our parks
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:54:23.085Z"
       - **(i)** a 100–Mbps downstream transmission capacity; and
       - **(ii)** a 20–Mbps upstream transmission capacity.
   - **(4)** Notwithstanding paragraph (1), a plan developed under that paragraph shall not be required to address broadband internet access service or cellular service in any National Park with respect to which the superintendent of the National Park determines that there is adequate access to broadband internet access service or cellular service, as applicable.
+
+## Source Credit
+
+*([Pub. L. 118–234, title I, § 141](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2862](https://www.govinfo.gov/link/statute/138/2862).)*

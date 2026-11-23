@@ -3,9 +3,10 @@ title: "Section 23102 - Purposes"
 usc_title: 36
 usc_section: "23102"
 chapter: 231
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 23102"
-generated_at: "2026-03-30T02:55:44.694Z"
+generated_at: "2026-11-23T21:26:13.543Z"
+status: "active"
 ---
 
 # § 23102. Purposes
@@ -19,3 +20,22 @@ The purposes of the corporation are—
   - **(5)** to establish and maintain a library and museum for the collection and preservation for posterity of the history of those honored by the organization, together with a documentation of their accomplishments and contributions to aviation, including items such as aviation pictures, paintings, books, papers, documents, scientific data, relics, mementos, artifacts, and other items related to that history;
   - **(6)** to cooperate with other recognized aviation organizations actively engaged and interested in similar projects; and
   - **(7)** to engage in any other activities appropriate to carry out the purposes of the corporation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 23102 | 36:4303(1) (1st sentence words before 8th comma, last sentence), (2)–(7). | July 14, 1964 , Pub. L. 88–372, § 3(1) (1st sentence words before 8th comma, last sentence), (2)–(7), 78 Stat. 314 , 315. |
+
+
+Historical and Revision Notes
+
+23102
+
+July 14, 1964
+
+Pub. L. 88–372, § 3(1)
+
+78 Stat. 314
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1311](https://www.govinfo.gov/link/statute/112/1311).)*

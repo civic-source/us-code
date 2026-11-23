@@ -3,9 +3,10 @@ title: "Section 2487 - Relationship between defense commissary system and exchan
 usc_title: 10
 usc_section: "2487"
 chapter: 147
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2487"
-generated_at: "2026-03-30T02:53:38.161Z"
+generated_at: "2026-11-23T21:25:32.621Z"
+status: "active"
 ---
 
 # § 2487. Relationship between defense commissary system and exchange stores system
@@ -29,3 +30,15 @@ generated_at: "2026-03-30T02:53:38.161Z"
     - **(A)** use funds appropriated pursuant to section 2483 of this title to reimburse a nonappropriated fund entity or instrumentality for the portion of the cost of a contract or agreement entered by the nonappropriated fund entity or instrumentality that is attributable to the defense commissary system; and
     - **(B)** authorize the defense commissary system to accept reimbursement from a nonappropriated fund entity or instrumentality for the portion of the cost of a contract or agreement entered by the defense commissary system that is attributable to the nonappropriated fund entity or instrumentality.
 - **(d)** To facilitate the provision of in-store credit to patrons of the exchange stores system while reducing the costs of providing such credit, the Army and Air Force Exchange Service, Navy Exchange Service Command, and Marine Corps exchanges may issue and sell their obligations to the Federal Financing Bank as provided in section 6 of the Federal Financing Bank Act of 1973 ( 12 U.S.C. 2285 ).
+
+Separate Operation of Systems
+
+Consolidation or Other Organizational Changes of Defense Retail Systems
+
+Common Business Practices
+
+Access of Exchange Stores System to Federal Financing Bank
+
+## Source Credit
+
+*(Added [Pub. L. 108–375, div. A, title VI, § 651(b)(1)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1971](https://www.govinfo.gov/link/statute/118/1971); amended [Pub. L. 112–81, div. A, title VI, § 642](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1466](https://www.govinfo.gov/link/statute/125/1466); [Pub. L. 114–328, div. A, title VI, § 661(d)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2171](https://www.govinfo.gov/link/statute/130/2171).)*

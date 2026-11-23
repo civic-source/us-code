@@ -3,9 +3,10 @@ title: "Section 7330B - Annual report on Veterans Health Administration and furn
 usc_title: 38
 usc_section: "7330B"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7330B"
-generated_at: "2026-03-30T02:55:53.529Z"
+generated_at: "2026-11-23T21:26:16.859Z"
+status: "active"
 ---
 
 # § 7330B. Annual report on Veterans Health Administration and furnishing of hospital care, medical services, and nursing home care
@@ -25,3 +26,13 @@ generated_at: "2026-03-30T02:55:53.529Z"
     - **(F)** pharmaceutical prices; and
     - **(G)** third-party health billings owed to the Department, including the total amount of such billings and the total amount collected by the Department, set forth separately for claims greater than $1,000 and for claims equal to or less than $1,000.
 - **(c)** In this section, the terms “hospital care”, “medical services”, “nursing home care”, “facilities of the Department”, and “non-Department facilities” have the meanings given those terms in section 1701 of this title .
+
+Report Required
+
+Elements
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 114–315, title VI, § 612(a)](https://www.govinfo.gov/link/plaw/114/public/315), Dec. 16, 2016, [130 Stat. 1575](https://www.govinfo.gov/link/statute/130/1575).)*

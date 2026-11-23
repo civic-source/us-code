@@ -3,9 +3,10 @@ title: "Section 8339 - Computation of annuity"
 usc_title: 5
 usc_section: "8339"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8339"
-generated_at: "2026-03-30T02:52:56.048Z"
+generated_at: "2026-11-23T21:25:23.390Z"
+status: "active"
 ---
 
 # § 8339. Computation of annuity
@@ -141,10 +142,109 @@ generated_at: "2026-03-30T02:52:56.048Z"
 - **(s)**
   - **(1)** 1 For purposes of this subsection, the term “physicians comparability allowance” refers to an amount described in section 8331(3)(H).
   - **(2)** Except as otherwise provided in this subsection, no part of a physicians comparability allowance shall be treated as basic pay for purposes of any computation under this section unless, before the date of the separation on which entitlement to annuity is based, the separating individual has completed at least 15 years of service as a Government physician (whether performed before, on, or after the date of the enactment of this subsection).
-  - **(3)** If the condition under paragraph (2) is met, then, any amounts received by the individual in the form of a physicians comparability allowance shall (for the purposes referred to in paragraph (2)) be treated as basic pay, but only to the extent that such amounts are attributable to service performed on or after the date of the enactment of this subsection, and only to the extent of the percentage allowable, which shall be determined as follows: If the total amount of service performed, on or after the date of the enactment of this subsection, as a Government physician is: Then, the percentage allowable is: Less than 2 years 0 At least 2 but less than 4 years 25 At least 4 but less than 6 years 50 At least 6 but less than 8 years 75 At least 8 years 100.
+  - **(3)** If the condition under paragraph (2) is met, then, any amounts received by the individual in the form of a physicians comparability allowance shall (for the purposes referred to in paragraph (2)) be treated as basic pay, but only to the extent that such amounts are attributable to service performed on or after the date of the enactment of this subsection, and only to the extent of the percentage allowable, which shall be determined as follows:
+
+| If the total amount of service performed, on or after the date of the enactment of this subsection, as a Government physician is: | Then, the percentage allowable is: |
+| --- | --- |
+| Less than 2 years | 0 |
+| At least 2 but less than 4 years | 25 |
+| At least 4 but less than 6 years | 50 |
+| At least 6 but less than 8 years | 75 |
+| At least 8 years | 100. |
+
   - **(4)** Notwithstanding any other provision of this subsection, 100 percent of all amounts received as a physicians comparability allowance shall, to the extent attributable to service performed on or after the date of the enactment of this subsection, be treated as basic pay (without regard to any of the preceding provisions of this subsection) for purposes of computing—
     - **(A)** an annuity under subsection (g); and
     - **(B)** a survivor annuity under section 8341, if based on the service of an individual who dies before separating from service.
 - **(u)** 2 2 So in original. No subsec. (t) has been enacted. The annuity of an employee retiring under this subchapter with service credited under section 8332(b)(17) shall be reduced by the amount necessary to ensure that the present value of the annuity payable to the employee is actuarially equivalent to the present value of the annuity that would be payable to the employee under this subchapter if it were computed—
   - **(1)** on the basis of service that does not include service credited under section 8332(b)(17); and
   - **(2)** assuming the employee separated from service on the actual date of the separation of the employee.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 2259 . | July 31, 1956, ch. 804, § 401 “Sec. 9”, 70 Stat. 752 . |
+|  |  | July 7, 1960 , Pub. L. 86–604, § 1(d) , (e), 74 Stat. 358 . |
+|  |  | July 12, 1960 , Pub. L. 86–622, § 2(b) , 74 Stat. 410 . |
+|  |  | Oct. 4, 1961 , Pub. L. 87–350, § 6 , 75 Stat. 772 . |
+|  |  | Oct. 11, 1962 , Pub. L. 87–793, § 1103(a) , 76 Stat. 870 . |
+
+| 1967 Act | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8339(g) | 5 App.: 2259(d). | July 18, 1966 , Pub. L. 89–504, § 505 , 80 Stat. 301 . |
+
+| “If the annuity commences between— | The annuity shall be increased by— |
+| --- | --- |
+| “ January 2, 1963 , and December 31, 1963 | 4 per centum |
+| “ January 1, 1964 , and December 31, 1964 | 3 per centum |
+| “ January 1, 1965 , and December 31, 1965 | 2 per centum |
+| “ January 1, 1966 , and December 31, 1966 | 1 per centum |
+
+
+Less than 2 years
+
+At least 2 but less than 4 years
+
+At least 4 but less than 6 years
+
+At least 6 but less than 8 years
+
+At least 8 years
+
+Historical and Revision Notes
+
+Act
+
+5 U.S.C. 2259
+
+July 31, 1956, ch. 804, § 401
+
+70 Stat. 752
+
+July 7, 1960
+
+Pub. L. 86–604, § 1(d)
+
+74 Stat. 358
+
+July 12, 1960
+
+Pub. L. 86–622, § 2(b)
+
+74 Stat. 410
+
+Oct. 4, 1961
+
+Pub. L. 87–350, § 6
+
+75 Stat. 772
+
+Oct. 11, 1962
+
+Pub. L. 87–793, § 1103(a)
+
+76 Stat. 870
+
+Act
+
+8339(g)
+
+July 18, 1966
+
+Pub. L. 89–504, § 505
+
+80 Stat. 301
+
+In general
+
+Partial deposit
+
+“ January 2, 1963 , and December 31, 1963
+
+“ January 1, 1964 , and December 31, 1964
+
+“ January 1, 1965 , and December 31, 1965
+
+“ January 1, 1966 , and December 31, 1966
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 574](https://www.govinfo.gov/link/statute/80/574); [Pub. L. 90–83, § 1(78)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 214](https://www.govinfo.gov/link/statute/81/214); [Pub. L. 90–206, title II, § 224(b)](https://www.govinfo.gov/link/plaw/90/public/206), Dec. 16, 1967, [81 Stat. 642](https://www.govinfo.gov/link/statute/81/642); [Pub. L. 90–486, § 5(c)](https://www.govinfo.gov/link/plaw/90/public/486), Aug. 13, 1968, [82 Stat. 757](https://www.govinfo.gov/link/statute/82/757); [Pub. L. 91–93, title II, § 203](https://www.govinfo.gov/link/plaw/91/public/93), Oct. 20, 1969, [83 Stat. 139](https://www.govinfo.gov/link/statute/83/139); [Pub. L. 91–658, § 2](https://www.govinfo.gov/link/plaw/91/public/658), Jan. 8, 1971, [84 Stat. 1961](https://www.govinfo.gov/link/statute/84/1961); [Pub. L. 92–297](https://www.govinfo.gov/link/plaw/92/public/297), §§ 6, 7(3), May 16, 1972, [86 Stat. 144](https://www.govinfo.gov/link/statute/86/144); [Pub. L. 93–260, § 2(a)](https://www.govinfo.gov/link/plaw/93/public/260), Apr. 9, 1974, [88 Stat. 76](https://www.govinfo.gov/link/statute/88/76); [Pub. L. 93–350, § 6](https://www.govinfo.gov/link/plaw/93/public/350), July 12, 1974, [88 Stat. 356](https://www.govinfo.gov/link/statute/88/356); [Pub. L. 93–474, § 1](https://www.govinfo.gov/link/plaw/93/public/474), Oct. 26, 1974, [88 Stat. 1438](https://www.govinfo.gov/link/statute/88/1438); [Pub. L. 94–126, § 1(b)](https://www.govinfo.gov/link/plaw/94/public/126), Nov. 12, 1975, [89 Stat. 679](https://www.govinfo.gov/link/statute/89/679); [Pub. L. 94–397, § 1(d)](https://www.govinfo.gov/link/plaw/94/public/397), Sept. 3, 1976, [90 Stat. 1203](https://www.govinfo.gov/link/statute/90/1203); [Pub. L. 95–256, § 5(d)](https://www.govinfo.gov/link/plaw/95/public/256), Apr. 6, 1978, [92 Stat. 191](https://www.govinfo.gov/link/statute/92/191); [Pub. L. 95–317](https://www.govinfo.gov/link/plaw/95/public/317), §§ 1(a), (c), 2, July 10, 1978, [92 Stat. 382](https://www.govinfo.gov/link/statute/92/382); [Pub. L. 95–454, title IV, § 412(b)](https://www.govinfo.gov/link/plaw/95/public/454), title IX, § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1175](https://www.govinfo.gov/link/statute/92/1175), 1224; [Pub. L. 95–519, § 3](https://www.govinfo.gov/link/plaw/95/public/519), Oct. 25, 1978, [92 Stat. 1819](https://www.govinfo.gov/link/statute/92/1819); [Pub. L. 95–598, title III, § 338(a)](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2681](https://www.govinfo.gov/link/statute/92/2681); [Pub. L. 96–54, § 2(a)(49)](https://www.govinfo.gov/link/plaw/96/public/54), Aug. 14, 1979, [93 Stat. 384](https://www.govinfo.gov/link/statute/93/384); [Pub. L. 96–70, title I, § 1242(a)](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 472](https://www.govinfo.gov/link/statute/93/472); [Pub. L. 96–135, § 1(b)](https://www.govinfo.gov/link/plaw/96/public/135), (c), Dec. 5, 1979, [93 Stat. 1057](https://www.govinfo.gov/link/statute/93/1057); [Pub. L. 96–391, § 1](https://www.govinfo.gov/link/plaw/96/public/391), Oct. 7, 1980, [94 Stat. 1557](https://www.govinfo.gov/link/statute/94/1557); [Pub. L. 96–499, title IV, § 404(a)](https://www.govinfo.gov/link/plaw/96/public/499), Dec. 5, 1980, [94 Stat. 2606](https://www.govinfo.gov/link/statute/94/2606); [Pub. L. 97–253, title III, § 303(b)](https://www.govinfo.gov/link/plaw/97/public/253), Sept. 8, 1982, [96 Stat. 794](https://www.govinfo.gov/link/statute/96/794); [Pub. L. 97–276, § 151(f)](https://www.govinfo.gov/link/plaw/97/public/276), Oct. 2, 1982, [96 Stat. 1202](https://www.govinfo.gov/link/statute/96/1202); [Pub. L. 98–94, title XII, § 1256(e)](https://www.govinfo.gov/link/plaw/98/public/94), Sept. 24, 1983, [97 Stat. 702](https://www.govinfo.gov/link/statute/97/702); [Pub. L. 98–249, § 3(a)](https://www.govinfo.gov/link/plaw/98/public/249), Mar. 31, 1984, [98 Stat. 117](https://www.govinfo.gov/link/statute/98/117); [Pub. L. 98–271, § 3(a)](https://www.govinfo.gov/link/plaw/98/public/271), Apr. 30, 1984, [98 Stat. 163](https://www.govinfo.gov/link/statute/98/163); [Pub. L. 98–299, § 3(a)](https://www.govinfo.gov/link/plaw/98/public/299), May 25, 1984, [98 Stat. 214](https://www.govinfo.gov/link/statute/98/214); [Pub. L. 98–325, § 3(a)](https://www.govinfo.gov/link/plaw/98/public/325), June 20, 1984, [98 Stat. 268](https://www.govinfo.gov/link/statute/98/268); [Pub. L. 98–353, title I](https://www.govinfo.gov/link/plaw/98/public/353), §§ 112, 116(d), 121(f), July 10, 1984, [98 Stat. 343](https://www.govinfo.gov/link/statute/98/343), 344, 346; [Pub. L. 98–531, § 2(c)](https://www.govinfo.gov/link/plaw/98/public/531), Oct. 19, 1984, [98 Stat. 2704](https://www.govinfo.gov/link/statute/98/2704); [Pub. L. 98–615, § 2(3)](https://www.govinfo.gov/link/plaw/98/public/615), Nov. 8, 1984, [98 Stat. 3195](https://www.govinfo.gov/link/statute/98/3195); [Pub. L. 99–251, title II, § 203(a)](https://www.govinfo.gov/link/plaw/99/public/251) –(c), title III, § 307(a), Feb. 27, 1986, [100 Stat. 23](https://www.govinfo.gov/link/statute/100/23), 24, 28; [Pub. L. 99–272, title XV, § 15204(a)(1)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 334](https://www.govinfo.gov/link/statute/100/334); [Pub. L. 100–53, § 2(d)](https://www.govinfo.gov/link/plaw/100/public/53), June 18, 1987, [101 Stat. 368](https://www.govinfo.gov/link/statute/101/368); [Pub. L. 101–194, title V, § 506(b)(8)](https://www.govinfo.gov/link/plaw/101/public/194), Nov. 30, 1989, [103 Stat. 1759](https://www.govinfo.gov/link/statute/103/1759); [Pub. L. 101–428, § 2(c)(1)](https://www.govinfo.gov/link/plaw/101/public/428), (d)(2)–(6), Oct. 15, 1990, [104 Stat. 928](https://www.govinfo.gov/link/statute/104/928), 929; [Pub. L. 101–508, title VII, § 7001(b)(2)(B)](https://www.govinfo.gov/link/plaw/101/public/508), (C), Nov. 5, 1990, [104 Stat. 1388–329](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 101–510, div. C, title XXXV, § 3506(b)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1847](https://www.govinfo.gov/link/statute/104/1847); [Pub. L. 101–650, title III](https://www.govinfo.gov/link/plaw/101/public/650), §§ 306(c)(4), 321, Dec. 1, 1990, [104 Stat. 5110](https://www.govinfo.gov/link/statute/104/5110), 5117; [Pub. L. 102–54, § 13(b)(4)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 274](https://www.govinfo.gov/link/statute/105/274); [Pub. L. 102–198, § 7(b)](https://www.govinfo.gov/link/plaw/102/public/198), Dec. 9, 1991, [105 Stat. 1624](https://www.govinfo.gov/link/statute/105/1624); [Pub. L. 102–378, § 2(62)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1354](https://www.govinfo.gov/link/statute/106/1354); [Pub. L. 102–572, title IX, § 902(b)(2)](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4516](https://www.govinfo.gov/link/statute/106/4516); [Pub. L. 103–66, title XI, § 11004(a)(1)](https://www.govinfo.gov/link/plaw/103/public/66), (2), Aug. 10, 1993, [107 Stat. 410](https://www.govinfo.gov/link/statute/107/410), 411; [Pub. L. 103–337, div. A, title IX, § 924(d)(1)(A)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2832](https://www.govinfo.gov/link/statute/108/2832); [Pub. L. 104–106, div. A, title XV, § 1505(b)(3)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 514](https://www.govinfo.gov/link/statute/110/514); [Pub. L. 105–61, title V, § 516(a)(3)](https://www.govinfo.gov/link/plaw/105/public/61), Oct. 10, 1997, [111 Stat. 1306](https://www.govinfo.gov/link/statute/111/1306); [Pub. L. 105–261, div. A, title XI, § 1109(c)(1)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2145](https://www.govinfo.gov/link/statute/112/2145); [Pub. L. 106–58, title VI, § 651(b)](https://www.govinfo.gov/link/plaw/106/public/58), Sept. 29, 1999, [113 Stat. 480](https://www.govinfo.gov/link/statute/113/480); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1087(f)(4), title XI, § 1152(c)(1)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–293, 1654A–322; [Pub. L. 106–553, § 1(a)(2) [title III, § 308(b)(4), (h)(2)–(6)]](https://www.govinfo.gov/link/plaw/106/public/553), Dec. 21, 2000, [114 Stat. 2762](https://www.govinfo.gov/link/statute/114/2762), 2762A–87 to 2762A–89; [Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 141(b)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–235; [Pub. L. 106–571, § 3(b)(1)](https://www.govinfo.gov/link/plaw/106/public/571), Dec. 28, 2000, [114 Stat. 3055](https://www.govinfo.gov/link/statute/114/3055); [Pub. L. 107–107, div. A, title XI, § 1132(a)(3)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1243](https://www.govinfo.gov/link/statute/115/1243); [Pub. L. 107–296, title XIII, § 1321(a)(4)(B)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2297](https://www.govinfo.gov/link/statute/116/2297); [Pub. L. 111–84, div. A, title XIX, § 1903(a)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2616](https://www.govinfo.gov/link/statute/123/2616).)*

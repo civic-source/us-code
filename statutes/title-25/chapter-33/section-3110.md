@@ -3,9 +3,10 @@ title: "Section 3110 - Tribal forestry programs"
 usc_title: 25
 usc_section: "3110"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3110"
-generated_at: "2026-03-30T02:54:52.848Z"
+generated_at: "2026-11-23T21:25:54.685Z"
+status: "active"
 ---
 
 # § 3110. Tribal forestry programs
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:52.848Z"
     - **(A)** one professional forester, including fringe benefits and support costs, for each eligible tribe, and
     - **(B)** one additional professional forester or forest technician, including fringe benefits and support costs, for each level of assistance for which an eligible Indian tribe qualifies.
   - **(3)** In any fiscal year that appropriations are not sufficient to fully fund tribal forestry programs at each level of assistance under the formula required to be established in this section, available funds for each level of assistance shall be evenly divided among the tribes qualifying for that level of assistance.
+
+## Source Credit
+
+*([Pub. L. 101–630, title III, § 311](https://www.govinfo.gov/link/plaw/101/public/630), Nov. 28, 1990, [104 Stat. 4538](https://www.govinfo.gov/link/statute/104/4538).)*

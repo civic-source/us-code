@@ -3,9 +3,10 @@ title: "Section 4568 - Annual report on impact of offsets"
 usc_title: 50
 usc_section: "4568"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4568"
-generated_at: "2026-03-30T02:56:26.280Z"
+generated_at: "2026-11-23T21:26:39.113Z"
+status: "active"
 ---
 
 # § 4568. Annual report on impact of offsets
@@ -33,3 +34,99 @@ generated_at: "2026-03-30T02:56:26.280Z"
     - **(E)** a summary and analysis of any bilateral and multilateral negotiations relating to the use of offsets completed during the reporting period.
   - **(2)** Each report required under this section shall include any alternative findings or recommendations offered by any departmental Secretary, agency head, or the United States Trade Representative to the Secretary.
 - **(e)** The findings and recommendations of the reports required by subsection (a), and any interagency reports and analyses shall be considered by representatives of the United States during bilateral and multilateral negotiations to minimize the adverse effects of offsets.
+
+In general
+
+Use of internal documents
+
+Information from non-federal entities.—
+
+Existing information
+
+Format
+
+Findings
+
+Declaration of Policy
+
+Appropriate congressional committees
+
+Offset
+
+Transatlantic economic partnership
+
+Wassenaar arrangement
+
+World trade organization
+
+WTO agreement
+
+In General
+
+Commission Membership
+
+Duties
+
+Commission Report
+
+Period of Appointment; Vacancies
+
+Initial Meeting
+
+Meetings
+
+Commission Personnel Matters.—
+
+Compensation of members
+
+Travel expenses
+
+Staff.—
+
+In general
+
+Compensation
+
+Detail of government employees
+
+Procurement of temporary and intermittent services
+
+Termination
+
+In General
+
+Report Required
+
+Required Information
+
+Comptroller General Review
+
+In General
+
+Presidential Approval of Exceptions
+
+Negotiations.—
+
+Interagency team.—
+
+In general
+
+Meetings
+
+Reports
+
+Recommendations for modifications
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Secs
+
+## Source Credit
+
+*(Sept. 8, 1950, ch. 932, title VII, § 723, as added [Pub. L. 111–67, § 12(a)](https://www.govinfo.gov/link/plaw/111/public/67), Sept. 30, 2009, [123 Stat. 2020](https://www.govinfo.gov/link/statute/123/2020).)*

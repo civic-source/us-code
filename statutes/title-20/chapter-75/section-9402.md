@@ -3,9 +3,10 @@ title: "Section 9402 - Definitions"
 usc_title: 20
 usc_section: "9402"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9402"
-generated_at: "2026-03-30T02:54:48.225Z"
+generated_at: "2026-11-23T21:25:47.652Z"
+status: "active"
 ---
 
 # § 9402. Definitions
@@ -32,3 +33,7 @@ In this chapter:
     - **(C)** is received in a postsecondary education program focused on early learning or early childhood development in which the individual is enrolled; or
     - **(D)** is provided, certified, or sponsored by an organization that is recognized for its expertise in promoting early learning or early childhood development.
   - **(14)** The term “young child” means any child from birth to the age of mandatory school attendance in the State where the child resides.
+
+## Source Credit
+
+*([Pub. L. 106–554, § 1(a)(1) [title VIII, § 803]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–81.)*

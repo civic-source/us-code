@@ -3,9 +3,10 @@ title: "Section 6366 - Eligibility for leave recipients"
 usc_title: 5
 usc_section: "6366"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 6366"
-generated_at: "2026-03-30T02:52:56.033Z"
+generated_at: "2026-11-23T21:25:23.329Z"
+status: "active"
 ---
 
 # § 6366. Eligibility for leave recipients
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:52:56.033Z"
     - **(B)** increase the number of minimum hours required under paragraph (1) for the succeeding leave year, in any leave year in which the Board determines there is a shortage of leave in the leave bank.
 - **(c)** An employee shall meet the requirements of subsection (a)(2)(A) if such employee contributes the minimum number of hours as required under subsection (b) of accrued or accumulated annual leave to the leave bank with which such employee submits an application to be a leave recipient under section 6367(a).
 - **(d)** The provisions of subsection (a) may not be construed to limit the amount of the voluntary contribution of annual leave to a leave bank, which does not exceed the limitations of section 6365(b).
+
+## Source Credit
+
+*(Added [Pub. L. 100–566, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/566), Oct. 31, 1988, [102 Stat. 2840](https://www.govinfo.gov/link/statute/102/2840).)*

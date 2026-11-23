@@ -3,9 +3,10 @@ title: "Section 103 - Minnesota"
 usc_title: 28
 usc_section: "103"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 103"
-generated_at: "2026-03-30T02:55:30.123Z"
+generated_at: "2026-11-23T21:26:01.009Z"
+status: "active"
 ---
 
 # § 103. Minnesota
@@ -18,3 +19,7 @@ Minnesota constitutes one judicial district comprising six divisions.
   - **(4)** The Fourth Division comprises the counties of Anoka, Carver, Chippewa, Hennepin, Isanti, Kandiyohi, McLeod, Meeker, Renville, Sherburne, Swift, and Wright. Court for the Fourth Division shall be held at Minneapolis.
   - **(5)** The Fifth Division comprises the counties of Aitkin, Benton, Carlton, Cass, Cook, Crow Wing, Itasca, Kanabec, Koochiching, Lake, Mille Lacs, Morrison, Pine, and Saint Louis. Court for the Fifth Division shall be held at Duluth.
   - **(6)** The Sixth Division comprises the counties of Becker, Beltrami, Big Stone, Clay, Clearwater, Douglas, Grant, Hubbard, Kittson, Lake of the Woods, Mahnomen, Marshall, Norman, Otter Tail, Pennington, Polk, Pope, Red Lake, Roseau, Stearns, Stevens, Todd, Traverse, Wadena, and Wilkin. Court for the Sixth Division shall be held at Fergus Falls and Bemidji.
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 882](https://www.govinfo.gov/link/statute/62/882); [Pub. L. 110–406, § 18](https://www.govinfo.gov/link/plaw/110/public/406), Oct. 13, 2008, [122 Stat. 4295](https://www.govinfo.gov/link/statute/122/4295).)*

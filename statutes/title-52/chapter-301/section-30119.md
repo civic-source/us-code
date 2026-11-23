@@ -3,9 +3,10 @@ title: "Section 30119 - Contributions by Government contractors"
 usc_title: 52
 usc_section: "30119"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 30119"
-generated_at: "2026-03-30T02:56:30.174Z"
+generated_at: "2026-11-23T21:26:42.348Z"
+status: "active"
 ---
 
 # § 30119. Contributions by Government contractors
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:30.174Z"
   - **(2)** knowingly to solicit any such contribution from any such person for any such purpose during any such period.
 - **(b)** This section does not prohibit or make unlawful the establishment or administration of, or the solicitation of contributions to, any separate segregated fund by any corporation, labor organization, membership organization, cooperative, or corporation without capital stock for the purpose of influencing the nomination for election, or election, of any person to Federal office, unless the provisions of section 30118 of this title prohibit or make unlawful the establishment or administration of, or the solicitation of contributions to, such fund. Each specific prohibition, allowance, and duty applicable to a corporation, labor organization, or separate segregated fund under section 30118 of this title applies to a corporation, labor organization, or separate segregated fund to which this subsection applies.
 - **(c)** For purposes of this section, the term “labor organization” has the meaning given it by section 30118(b)(1) of this title .
+
+## Source Credit
+
+*([Pub. L. 92–225, title III, § 317](https://www.govinfo.gov/link/plaw/92/public/225), formerly § 322, as added [Pub. L. 94–283, title I, § 112(2)](https://www.govinfo.gov/link/plaw/94/public/283), May 11, 1976, [90 Stat. 492](https://www.govinfo.gov/link/statute/90/492); renumbered § 317, [Pub. L. 96–187, title I, § 105(5)](https://www.govinfo.gov/link/plaw/96/public/187), Jan. 8, 1980, [93 Stat. 1354](https://www.govinfo.gov/link/statute/93/1354).)*

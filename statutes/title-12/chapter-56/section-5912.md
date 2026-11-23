@@ -3,9 +3,10 @@ title: "Section 5912 - Interoperability standards"
 usc_title: 12
 usc_section: "5912"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5912"
-generated_at: "2026-03-30T02:53:53.553Z"
+generated_at: "2026-11-23T21:25:37.310Z"
+status: "active"
 ---
 
 # § 5912. Interoperability standards
@@ -14,3 +15,7 @@ The primary Federal payment stablecoin regulators, in consultation with the Nati
 
   - **(1)** other permitted payment stablecoin issuers; and
   - **(2)** the broader digital finance ecosystem, including accepted communications protocols and blockchains, permissioned or public.
+
+## Source Credit
+
+*([Pub. L. 119–27, § 12](https://www.govinfo.gov/link/plaw/119/public/27), July 18, 2025, [139 Stat. 459](https://www.govinfo.gov/link/statute/139/459).)*

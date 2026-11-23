@@ -3,9 +3,10 @@ title: "Section 1396t - Home and community care for functionally disabled elderl
 usc_title: 42
 usc_section: "1396t"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1396t"
-generated_at: "2026-03-30T02:56:11.057Z"
+generated_at: "2026-11-23T21:26:31.900Z"
+status: "active"
 ---
 
 # § 1396t. Home and community care for functionally disabled elderly individuals
@@ -174,3 +175,7 @@ generated_at: "2026-03-30T02:56:11.057Z"
   - **(2)** A State which receives Federal medical assistance for expenditures for home and community care under this section must provide home and community care specified under the Individual Community Care Plan under subsection (d) to individuals described in subsection (b) for the duration of the election period, without regard to the amount of funds available to the State under paragraph (1). For purposes of this paragraph, an election period is the period of 4 or more calendar quarters elected by the State, and approved by the Secretary, for the provision of home and community care under this section.
   - **(3)** The State may limit eligibility for home and community care under this section during an election period under paragraph (2) to reasonable classifications (based on age, degree of functional disability, and need for services).
   - **(4)** The Secretary shall establish a limitation on the amount of Federal medical assistance available to any State during the State’s election period under paragraph (2). The limitation under this paragraph shall take into account the limitation under paragraph (1) and the number of elderly individuals age 65 or over residing in such State in relation to the number of such elderly individuals in the United States during 1990. For purposes of the previous sentence, elderly individuals shall, to the maximum extent practicable, be low-income elderly individuals.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XIX, § 1929, as added [Pub. L. 101–508, title IV, § 4711(b)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–174](https://www.govinfo.gov/link/statute/104/1388); amended [Pub. L. 106–113, div. B, § 1000(a)(6) [title VI, § 608(v)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–398.)*

@@ -3,9 +3,10 @@ title: "Section 3377 - Inapplicability to Coast Guard and National Aeronautics a
 usc_title: 10
 usc_section: "3377"
 chapter: 244
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3377"
-generated_at: "2026-03-30T02:53:38.192Z"
+generated_at: "2026-11-23T21:25:32.725Z"
+status: "active"
 ---
 
 # § 3377. Inapplicability to Coast Guard and National Aeronautics and Space Administration; definitions
@@ -17,3 +18,11 @@ generated_at: "2026-03-30T02:53:38.192Z"
     - **(B)** Special access programs.
     - **(C)** Congressionally mandated long-lead procurement contracts.
   - **(2)** The term “qualifying proposal” means a proposal that contains sufficient information to enable the Department of Defense to conduct a meaningful audit of the information contained in the proposal.
+
+Applicability
+
+Definitions
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1819(a)](https://www.govinfo.gov/link/plaw/116/public/283), (g), Jan. 1, 2021, [134 Stat. 4189](https://www.govinfo.gov/link/statute/134/4189), 4191.)*

@@ -3,9 +3,10 @@ title: "Section 1240a - Certification"
 usc_title: 30
 usc_section: "1240a"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1240a"
-generated_at: "2026-03-30T02:55:29.398Z"
+generated_at: "2026-11-23T21:26:00.422Z"
+status: "active"
 ---
 
 # § 1240a. Certification
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:55:29.398Z"
   - **(4)**
     - **(A)** The annual amount allocated under subparagraph (A) or (B) of section 1232(g)(1) of this title to any State or Indian tribe that makes a certification under subsection (a) of this section in which the Secretary concurs shall be reallocated and available for grants under section 1232(g)(5) of this title .
     - **(B)** The grants shall be allocated based on the amount of coal historically produced before August 3, 1977 , in the same manner as under section 1232(g)(5) of this title .
+
+## Source Credit
+
+*([Pub. L. 95–87, title IV, § 411](https://www.govinfo.gov/link/plaw/95/public/87), as added [Pub. L. 101–508, title VI, § 6010(2)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–296](https://www.govinfo.gov/link/statute/104/1388); amended [Pub. L. 109–432, div. C, title II, § 206](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 3016](https://www.govinfo.gov/link/statute/120/3016); [Pub. L. 112–141, div. F, title I, § 100125](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 915](https://www.govinfo.gov/link/statute/126/915); [Pub. L. 112–175, § 142](https://www.govinfo.gov/link/plaw/112/public/175), Sept. 28, 2012, [126 Stat. 1321](https://www.govinfo.gov/link/statute/126/1321); [Pub. L. 113–40, § 10(d)](https://www.govinfo.gov/link/plaw/113/public/40), Oct. 2, 2013, [127 Stat. 546](https://www.govinfo.gov/link/statute/127/546); [Pub. L. 114–94, div. D, title XLIII, § 43001](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1762](https://www.govinfo.gov/link/statute/129/1762).)*

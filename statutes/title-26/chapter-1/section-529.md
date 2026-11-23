@@ -3,9 +3,10 @@ title: "Section 529 - Qualified tuition programs"
 usc_title: 26
 usc_section: "529"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 529"
-generated_at: "2026-03-30T02:55:27.715Z"
+generated_at: "2026-11-23T21:26:06.326Z"
+status: "active"
 ---
 
 # § 529. Qualified tuition programs
@@ -137,3 +138,35 @@ generated_at: "2026-03-30T02:55:27.715Z"
     - **(C)** any occupational or professional license issued or recognized by a State or the Federal Government (and any certification that satisfies a condition for obtaining such a license), and
     - **(D)** any recognized postsecondary credential as defined in section 3(52) of the Workforce Innovation and Opportunity Act ( 29 U.S.C. 3102(52) ), provided through a program described in paragraph (2)(A).
 - **(g)** Notwithstanding any other provision of this section, the Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section and to prevent abuse of such purposes, including regulations under chapters 11, 12, and 13 of this title.
+
+Reporting Requirements.—
+
+In general
+
+In general
+
+Transition rule
+
+In general
+
+Expenses to include room and board
+
+Eligible educational institution
+
+Coordination with education savings bonds
+
+Estate and gift tax changes.—
+
+Gift tax changes
+
+Estate tax changes
+
+Transition rule for pre- august 20, 1996 contracts
+
+In general
+
+Transition rule
+
+## Source Credit
+
+*(Added [Pub. L. 104–188, title I, § 1806(a)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1895](https://www.govinfo.gov/link/statute/110/1895); amended [Pub. L. 105–34, title II, § 211(a)](https://www.govinfo.gov/link/plaw/105/public/34), (b), (d), (e)(2)(A), title XVI, § 1601(h)(1)(A), (B), Aug. 5, 1997, [111 Stat. 810](https://www.govinfo.gov/link/statute/111/810), 812, 1092; [Pub. L. 105–206, title VI, § 6004(c)(2)](https://www.govinfo.gov/link/plaw/105/public/206), (3), July 22, 1998, [112 Stat. 793](https://www.govinfo.gov/link/statute/112/793); [Pub. L. 106–554, § 1(a)(7) [title III, § 319(5)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–646; [Pub. L. 107–16, title IV, § 402(a)(1)](https://www.govinfo.gov/link/plaw/107/public/16) –(3), (4)(A), (C), (D), (b)(1), (c)–(g), June 7, 2001, [115 Stat. 60–63](https://www.govinfo.gov/link/statute/115/60); [Pub. L. 107–22, § 1(b)(3)(C)](https://www.govinfo.gov/link/plaw/107/public/22), July 26, 2001, [115 Stat. 197](https://www.govinfo.gov/link/statute/115/197); [Pub. L. 107–147, title IV, § 417(11)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 56](https://www.govinfo.gov/link/statute/116/56); [Pub. L. 108–311, title II, § 207(21)](https://www.govinfo.gov/link/plaw/108/public/311), title IV, § 406(a), Oct. 4, 2004, [118 Stat. 1178](https://www.govinfo.gov/link/statute/118/1178), 1189; [Pub. L. 109–135, title IV, § 412(ee)(3)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2639](https://www.govinfo.gov/link/statute/119/2639); [Pub. L. 109–280, title XIII, § 1304(b)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1110](https://www.govinfo.gov/link/statute/120/1110); [Pub. L. 111–5, div. B, title I, § 1005(a)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 316](https://www.govinfo.gov/link/statute/123/316); [Pub. L. 113–295, div. B, title I, § 105(a)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4064](https://www.govinfo.gov/link/statute/128/4064); [Pub. L. 114–113, div. Q, title III, § 302(a)(1)](https://www.govinfo.gov/link/plaw/114/public/113), (b)(1), (c)(1), Dec. 18, 2015, [129 Stat. 3086](https://www.govinfo.gov/link/statute/129/3086); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 11025(a), 11032(a), Dec. 22, 2017, [131 Stat. 2076](https://www.govinfo.gov/link/statute/131/2076), 2081; [Pub. L. 115–141, div. U, title I, § 101](https://www.govinfo.gov/link/plaw/115/public/141) (l)(15), title IV, § 401(a)(127), (128), Mar. 23, 2018, [132 Stat. 1165](https://www.govinfo.gov/link/statute/132/1165), 1190; [Pub. L. 116–94, div. O, title III, § 302(a)](https://www.govinfo.gov/link/plaw/116/public/94), (b)(1), Dec. 20, 2019, [133 Stat. 3175](https://www.govinfo.gov/link/statute/133/3175); [Pub. L. 117–328, div. T, title I, § 126(a)](https://www.govinfo.gov/link/plaw/117/public/328), (c), Dec. 29, 2022, [136 Stat. 5316](https://www.govinfo.gov/link/statute/136/5316), 5317; [Pub. L. 119–21, title VII](https://www.govinfo.gov/link/plaw/119/public/21), §§ 70117(a), 70413(a)(1), (b)(1), 70414(a), (b), July 4, 2025, [139 Stat. 167](https://www.govinfo.gov/link/statute/139/167), 218, 219.)*

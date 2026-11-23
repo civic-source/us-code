@@ -3,9 +3,10 @@ title: "Section 1629f - Claims arising from contamination of transferred lands"
 usc_title: 43
 usc_section: "1629f"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1629f"
-generated_at: "2026-03-30T02:55:57.483Z"
+generated_at: "2026-11-23T21:26:19.863Z"
+status: "active"
 ---
 
 # § 1629f. Claims arising from contamination of transferred lands
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:57.483Z"
   - **(3)** identification of existing remedies;
   - **(4)** recommendations for any additional legislation that the Secretary concludes is necessary to remedy the problem of contaminants on the lands; and
   - **(5)** in addition to the identification of contaminants, identification of structures known to have asbestos present and recommendations to inform Native landowners on the containment of asbestos.
+
+## Source Credit
+
+*([Pub. L. 92–203, § 40](https://www.govinfo.gov/link/plaw/92/public/203), as added [Pub. L. 104–42, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/42), Nov. 2, 1995, [109 Stat. 354](https://www.govinfo.gov/link/statute/109/354).)*

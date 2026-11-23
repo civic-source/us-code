@@ -3,9 +3,10 @@ title: "Section 2688 - Utility systems: conveyance authority"
 usc_title: 10
 usc_section: "2688"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2688"
-generated_at: "2026-03-30T02:53:38.170Z"
+generated_at: "2026-11-23T21:25:32.656Z"
+status: "active"
 ---
 
 # § 2688. Utility systems: conveyance authority
@@ -62,3 +63,31 @@ generated_at: "2026-03-30T02:53:38.170Z"
     - **(B)** Subchapters I and III of chapter 169 of this title.
     - **(C)** Chapters 221 and 223 of this title.
 - **(l)** This section shall not apply to projects constructed or operated by the Army Corps of Engineers under its civil works authorities.
+
+Conveyance Authority
+
+Selection of Conveyee
+
+Consideration
+
+Contracts for Utility Services
+
+Treatment of Payments
+
+Additional Terms and Conditions
+
+Assistance for Construction, Repair, or Replacement of Utility Systems
+
+Utility System Defined
+
+Conveyance of Additional Utility Infrastructure After Conveyance of a Utility System
+
+Improvement of Conveyed Utility System
+
+Limitation
+
+Contracts for Utility Services
+
+## Source Credit
+
+*(Added [Pub. L. 105–85, div. B, title XXVIII, § 2812(a)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1992](https://www.govinfo.gov/link/statute/111/1992); amended [Pub. L. 106–65, div. A, title X, § 1067(1)](https://www.govinfo.gov/link/plaw/106/public/65), div. B, title XXVIII, § 2812, Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774), 851; [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1087(a)(15), div. B, title XXVIII, § 2813], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–291, 1654A–418; [Pub. L. 108–136, div. A, title X, § 1031(a)(32)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1600](https://www.govinfo.gov/link/statute/117/1600); [Pub. L. 109–163, div. B, title XXVIII, § 2823(a)](https://www.govinfo.gov/link/plaw/109/public/163) –(d), Jan. 6, 2006, [119 Stat. 3514–3516](https://www.govinfo.gov/link/statute/119/3514); [Pub. L. 110–417, div. B, title XXVIII, § 2813](https://www.govinfo.gov/link/plaw/110/public/417), Oct. 14, 2008, [122 Stat. 4728](https://www.govinfo.gov/link/statute/122/4728); [Pub. L. 111–84, div. B, title XXVIII, § 2821](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2664](https://www.govinfo.gov/link/statute/123/2664); [Pub. L. 112–81, div. A, title X, § 1061(21)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1584](https://www.govinfo.gov/link/statute/125/1584); [Pub. L. 113–66, div. B, title XXVIII, § 2813](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 1014](https://www.govinfo.gov/link/statute/127/1014); [Pub. L. 114–92, div. B, title XXVIII, § 2813](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1175](https://www.govinfo.gov/link/statute/129/1175); [Pub. L. 115–91, div. B, title XXVIII, § 2834](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1858](https://www.govinfo.gov/link/statute/131/1858); [Pub. L. 115–232, div. A, title III, § 312(e)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1710](https://www.govinfo.gov/link/statute/132/1710); [Pub. L. 116–92, div. A, title III, § 315](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1304](https://www.govinfo.gov/link/statute/133/1304); [Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2)](https://www.govinfo.gov/link/plaw/116/public/283), div. B, title XXVIII, §§ 2823(a), 2824, Jan. 1, 2021, [134 Stat. 4294](https://www.govinfo.gov/link/statute/134/4294), 4333; [Pub. L. 118–31, div. B, title XXVIII, § 2811(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 748](https://www.govinfo.gov/link/statute/137/748); [Pub. L. 118–159, div. A, title XVII, § 1701(a)(29)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2204](https://www.govinfo.gov/link/statute/138/2204); [Pub. L. 119–60, div. B, title XXVIII, § 2842](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1317](https://www.govinfo.gov/link/statute/139/1317).)*

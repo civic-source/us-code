@@ -3,9 +3,10 @@ title: "Section 7111 - Exclusive recognition of labor organizations"
 usc_title: 5
 usc_section: "7111"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 7111"
-generated_at: "2026-03-30T02:52:56.035Z"
+generated_at: "2026-11-23T21:25:23.334Z"
+status: "active"
 ---
 
 # § 7111. Exclusive recognition of labor organizations
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:52:56.035Z"
     - **(B)** the petition for exclusive recognition is filed not more than 105 days and not less than 60 days before the expiration date of the collective bargaining agreement; or
   - **(4)** if the Authority has, within the previous 12 calendar months, conducted a secret ballot election for the unit described in any petition under this section and in such election a majority of the employees voting chose a labor organization for certification as the unit’s exclusive representative.
 - **(g)** Nothing in this section shall be construed to prohibit the waiving of hearings by stipulation for the purpose of a consent election in conformity with regulations and rules or decisions of the Authority.
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title VII, § 701](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1199](https://www.govinfo.gov/link/statute/92/1199).)*

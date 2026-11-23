@@ -3,9 +3,10 @@ title: "Section 3501 - Establishment of program"
 usc_title: 33
 usc_section: "3501"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3501"
-generated_at: "2026-03-30T02:55:41.141Z"
+generated_at: "2026-11-23T21:26:11.484Z"
+status: "active"
 ---
 
 # § 3501. Establishment of program
@@ -29,3 +30,19 @@ generated_at: "2026-03-30T02:55:41.141Z"
   - **(11)** support—
     - **(A)** the Ocean Science and Technology Subcommittee of the Ocean Policy Committee established under section 8932(c) of title 10 ; and
     - **(B)** the National Ocean Mapping, Exploration, and Characterization Council established under section 5405 of the National Ocean Exploration Act. 1 1 See References in Text note below.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 111–11, title XII, § 12202](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1421](https://www.govinfo.gov/link/statute/123/1421); [Pub. L. 117–263, div. J, title CIII, § 10307(a)](https://www.govinfo.gov/link/plaw/117/public/263), (b)(1)(A), Dec. 23, 2022, [136 Stat. 3974](https://www.govinfo.gov/link/statute/136/3974), 3975.)*

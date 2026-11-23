@@ -3,9 +3,10 @@ title: "Section 2103 - National artificial reef plan"
 usc_title: 33
 usc_section: "2103"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2103"
-generated_at: "2026-03-30T02:55:41.112Z"
+generated_at: "2026-11-23T21:26:11.420Z"
+status: "active"
 ---
 
 # § 2103. National artificial reef plan
@@ -18,3 +19,7 @@ Not later than one year after November 8, 1984 , the Secretary of Commerce, in c
   - **(4)** mechanisms and methodologies for managing the use of artificial reefs;
   - **(5)** a synopsis of existing information on artificial reefs and needs for further research on artificial reef technology and management strategies; and
   - **(6)** an evaluation of alternatives for facilitating the transfer of artificial reef construction materials to persons holding permits issued pursuant to section 2104 of this title , including, but not limited to, credits for environmental mitigation and modified tax obligations.
+
+## Source Credit
+
+*([Pub. L. 98–623, title II, § 204](https://www.govinfo.gov/link/plaw/98/public/623), Nov. 8, 1984, [98 Stat. 3395](https://www.govinfo.gov/link/statute/98/3395).)*

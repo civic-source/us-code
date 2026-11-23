@@ -3,9 +3,10 @@ title: "Section 3308 - Planning for future competition in contracts for major sy
 usc_title: 41
 usc_section: "3308"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 3308"
-generated_at: "2026-03-30T02:55:55.805Z"
+generated_at: "2026-11-23T21:26:18.806Z"
+status: "active"
 ---
 
 # § 3308. Planning for future competition in contracts for major systems
@@ -21,3 +22,50 @@ generated_at: "2026-03-30T02:55:55.805Z"
     - **(A)** Proposals to provide to the Federal Government the right to use technical data to be provided under the contract for competitive reprocurement of the item, together with the cost to the Federal Government of acquiring the data and the right to use the data.
     - **(B)** Proposals for the qualification or development of multiple sources of supply for the item.
 - **(c)** If the head of an agency is making a noncompetitive award of a development contract or a production contract for a major system, the factors specified in subsections (a) and (b) to be considered in evaluating an offer for a contract may be considered as objectives in negotiating the contract to be awarded.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3308 | 41:253b(j). | June 30, 1949, ch. 288 , title III, § 303B(j), formerly § 303B(f), as added Pub. L. 98–577, title II, § 201(a) , Oct. 30, 1984 , 98 Stat. 3068 ; redesignated as § 303B(g), Pub. L. 103–355, title I, § 1064(1) , Oct. 13, 1994 , 108 Stat. 3268 ; redesignated as § 303B(j), Pub. L. 104–106, title XLI, § 4104(b)(2) , Feb. 10, 1996 , 110 Stat. 645 . |
+
+
+Development Contract.—
+
+Determining whether proposals are necessary
+
+Contents of proposals
+
+Production Contract.—
+
+Determining whether proposals are necessary
+
+Content of proposals
+
+Consideration of Factors as Objectives in Negotiations
+
+Historical and Revision Notes
+
+3308
+
+June 30, 1949, ch. 288
+
+Pub. L. 98–577, title II, § 201(a)
+
+Oct. 30, 1984
+
+98 Stat. 3068
+
+Pub. L. 103–355, title I, § 1064(1)
+
+Oct. 13, 1994
+
+108 Stat. 3268
+
+Pub. L. 104–106, title XLI, § 4104(b)(2)
+
+Feb. 10, 1996
+
+110 Stat. 645
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3758](https://www.govinfo.gov/link/statute/124/3758).)*

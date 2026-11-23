@@ -3,9 +3,10 @@ title: "Section 511 - Retention of certain records"
 usc_title: 14
 usc_section: "511"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 511"
-generated_at: "2026-03-30T02:53:51.489Z"
+generated_at: "2026-11-23T21:25:35.367Z"
+status: "active"
 ---
 
 # § 511. Retention of certain records
@@ -19,3 +20,19 @@ generated_at: "2026-03-30T02:53:51.489Z"
 - **(d)**
   - **(1)** CST and T&I 1 1 So in original.
   - **(2)** The term “Coast Guard message board” means the Coast Guard official platform for disseminating time-sensitive or service-wide administrative information to Coast Guard personnel, including the publishing of official general messages including ALCOAST, ALCGPSC, ALCGENL, and similar formats that provide timely policy updates, operational guidance, or announcements to the field.
+
+Coast Guard Message Board
+
+Commandant Instruction
+
+Cost-Benefit Review
+
+Definitions.—
+
+Appropriate congressional committees
+
+Coast guard message board
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. G, title LXXII, § 7277(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1750](https://www.govinfo.gov/link/statute/139/1750).)*

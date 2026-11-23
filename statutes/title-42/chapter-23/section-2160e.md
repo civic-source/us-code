@@ -3,9 +3,10 @@ title: "Section 2160e - Congressional review and oversight of agreements with Ir
 usc_title: 42
 usc_section: "2160e"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2160e"
-generated_at: "2026-03-30T02:56:11.152Z"
+generated_at: "2026-11-23T21:26:32.356Z"
+status: "active"
 ---
 
 # § 2160e. Congressional review and oversight of agreements with Iran
@@ -144,3 +145,9 @@ generated_at: "2026-03-30T02:56:11.152Z"
   - **(8)** The term “noncompliance” means any departure from the terms of an agreement described in subsection (a) that is not a material breach.
   - **(9)** The term “P5+1 countries” means the United States, France, the Russian Federation, the People’s Republic of China, the United Kingdom, and Germany.
   - **(10)** The term “United States person” has the meaning given that term in section 8511 of title 22 .
+
+Barack Obama.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 135, as added [Pub. L. 114–17, § 2](https://www.govinfo.gov/link/plaw/114/public/17), May 22, 2015, [129 Stat. 201](https://www.govinfo.gov/link/statute/129/201).)*

@@ -3,9 +3,10 @@ title: "Section 6807 - State utility regulatory assistance"
 usc_title: 42
 usc_section: "6807"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6807"
-generated_at: "2026-03-30T02:56:11.266Z"
+generated_at: "2026-11-23T21:26:32.978Z"
+status: "active"
 ---
 
 # § 6807. State utility regulatory assistance
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.266Z"
 - **(d)** The funds appropriated for purposes of this section shall be apportioned among the States in such manner that grants made under this section in each State shall not exceed the lesser of—
   - **(1)** the amount determined by dividing equally among all States the total amount available under this section for such grants, or
   - **(2)** the amount which the Secretary is authorized to provide pursuant to subsections (b) and (c) of this section for such State.
+
+## Source Credit
+
+*([Pub. L. 94–385, title II, § 207](https://www.govinfo.gov/link/plaw/94/public/385), Aug. 14, 1976, [90 Stat. 1144](https://www.govinfo.gov/link/statute/90/1144); [Pub. L. 95–617, title I, § 141](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3133](https://www.govinfo.gov/link/statute/92/3133).)*

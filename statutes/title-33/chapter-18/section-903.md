@@ -3,9 +3,10 @@ title: "Section 903 - Coverage"
 usc_title: 33
 usc_section: "903"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 903"
-generated_at: "2026-03-30T02:55:41.075Z"
+generated_at: "2026-11-23T21:26:11.348Z"
+status: "active"
 ---
 
 # § 903. Coverage
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:41.075Z"
     - **(A)** a commercial barge which is under 900 lightship displacement tons; or
     - **(B)** a commercial tugboat, towboat, crew boat, supply boat, fishing vessel, or other work vessel which is under 1,600 tons gross as measured under section 14502 of title 46 , or an alternate tonnage measured under section 14302 of that title as prescribed by the Secretary under section 14104 of that title.
 - **(e)** Notwithstanding any other provision of law, any amounts paid to an employee for the same injury, disability, or death for which benefits are claimed under this chapter pursuant to any other workers’ compensation law or section 30104 of title 46 shall be credited against any liability imposed by this chapter.
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 509, § 3, [44 Stat. 1426](https://www.govinfo.gov/link/statute/44/1426); [Pub. L. 92–576](https://www.govinfo.gov/link/plaw/92/public/576), §§ 2(c), 21, Oct. 27, 1972, [86 Stat. 1251](https://www.govinfo.gov/link/statute/86/1251), 1265; [Pub. L. 98–426, § 3](https://www.govinfo.gov/link/plaw/98/public/426), Sept. 28, 1984, [98 Stat. 1640](https://www.govinfo.gov/link/statute/98/1640); [Pub. L. 104–324, title VII, § 703](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3933](https://www.govinfo.gov/link/statute/110/3933).)*

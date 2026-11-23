@@ -3,9 +3,10 @@ title: "Section 1769j - Ensuring safety of school meals"
 usc_title: 42
 usc_section: "1769j"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1769j"
-generated_at: "2026-03-30T02:56:11.118Z"
+generated_at: "2026-11-23T21:26:32.167Z"
+status: "active"
 ---
 
 # § 1769j. Ensuring safety of school meals
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.118Z"
   - **(3)** improve the timeliness and completeness of direct communication between the Food and Nutrition Service and States about holds and recalls, such as through the commodity alert system of the Food and Nutrition Service; and
   - **(4)** establish a timeframe to improve the commodity hold and recall procedures of the Department of Agriculture to address the role of processors and determine the involvement of distributors with processed products that may contain recalled ingredients, to facilitate the provision of more timely and complete information to schools.
 - **(b)** Not later than 1 year after December 13, 2010 , the Secretary, acting through the Administrator of the Food Safety and Inspection Service, shall revise the procedures of the Food Safety and Inspection Service to ensure that schools are included in effectiveness checks.
+
+## Source Credit
+
+*(June 4, 1946, ch. 281, § 29, as added [Pub. L. 111–296, title III, § 308](https://www.govinfo.gov/link/plaw/111/public/296), Dec. 13, 2010, [124 Stat. 3246](https://www.govinfo.gov/link/statute/124/3246).)*

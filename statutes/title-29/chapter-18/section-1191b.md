@@ -3,9 +3,10 @@ title: "Section 1191b - Definitions"
 usc_title: 29
 usc_section: "1191b"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1191b"
-generated_at: "2026-03-30T02:55:18.726Z"
+generated_at: "2026-11-23T21:26:02.278Z"
+status: "active"
 ---
 
 # § 1191b. Definitions
@@ -74,3 +75,7 @@ generated_at: "2026-03-30T02:55:18.726Z"
     - **(B)** the computation of premium or contribution amounts under the plan or coverage;
     - **(C)** the application of any pre-existing condition exclusion under the plan or coverage; and
     - **(D)** other activities related to the creation, renewal, or replacement of a contract of health insurance or health benefits.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 733](https://www.govinfo.gov/link/plaw/93/public/406), formerly § 706, as added [Pub. L. 104–191, title I, § 101(a)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 1949](https://www.govinfo.gov/link/statute/110/1949); renumbered § 733, [Pub. L. 104–204, title VI, § 603(a)(3)](https://www.govinfo.gov/link/plaw/104/public/204), Sept. 26, 1996, [110 Stat. 2935](https://www.govinfo.gov/link/statute/110/2935); amended [Pub. L. 110–233, title I, § 101(d)](https://www.govinfo.gov/link/plaw/110/public/233), May 21, 2008, [122 Stat. 885](https://www.govinfo.gov/link/statute/122/885); [Pub. L. 114–255, div. C, title XVIII, § 18001(b)(1)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1343](https://www.govinfo.gov/link/statute/130/1343).)*

@@ -3,9 +3,10 @@ title: "Section 5214 - Financial Stability Oversight Board"
 usc_title: 12
 usc_section: "5214"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5214"
-generated_at: "2026-03-30T02:53:53.524Z"
+generated_at: "2026-11-23T21:25:37.231Z"
+status: "active"
 ---
 
 # § 5214. Financial Stability Oversight Board
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:53.524Z"
 - **(h)** The Financial Stability Oversight Board, and its authority under this section, shall terminate on the expiration of the 15-day period beginning upon the later of—
   - **(1)** the date that the last troubled asset acquired by the Secretary under section 5211 of this title has been sold or transferred out of the ownership or control of the Federal Government; or
   - **(2)** the date of expiration of the last insurance contract issued under section 5212 of this title .
+
+## Source Credit
+
+*([Pub. L. 110–343, div. A, title I, § 104](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3770](https://www.govinfo.gov/link/statute/122/3770).)*

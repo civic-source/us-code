@@ -3,9 +3,10 @@ title: "Section 9082 - Chief of Space Operations"
 usc_title: 10
 usc_section: "9082"
 chapter: 908
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 9082"
-generated_at: "2026-03-30T02:53:38.256Z"
+generated_at: "2026-11-23T21:25:32.978Z"
+status: "active"
 ---
 
 # § 9082. Chief of Space Operations
@@ -35,3 +36,25 @@ generated_at: "2026-03-30T02:53:38.256Z"
   - **(2)** if there is a vacancy in the position of the Vice Chief of Space Operations or the Vice Chief of Space Operations is absent or disabled, unless the President directs otherwise, the most senior officer of the Space Force in the Space Staff who is not absent or disabled and who is not restricted in performance of duty shall perform the duties of the Chief of Space Operations until the earliest of—
     - **(A)** the appointment of a successor to the Chief of Space Operations or the Vice Chief of Space Operations; or
     - **(B)** the cessation of the absence or disability of the Chief of Space Operations or Vice Chief of Space Operations.
+
+Appointment
+
+Grade
+
+Relationship to the Secretary of the Air Force
+
+Duties
+
+Joint Chiefs of Staff
+
+Vacancy in Position of Chief of Space Operations
+
+“Not later than 90 days after the date of the enactment of this Act [ Dec. 27, 2021 ], the Secretary of Defense shall—
+
+Incumbent
+
+U.S. space command
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. A, title IX, § 953(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1563](https://www.govinfo.gov/link/statute/133/1563); amended [Pub. L. 116–283, div. A, title IX, § 922(c)](https://www.govinfo.gov/link/plaw/116/public/283), title XVIII, § 1883(b)(2), Jan. 1, 2021, [134 Stat. 3806](https://www.govinfo.gov/link/statute/134/3806), 4294; [Pub. L. 118–31, div. A, title XVII, § 1741(b)(7)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 681](https://www.govinfo.gov/link/statute/137/681); [Pub. L. 118–159, div. A, title V](https://www.govinfo.gov/link/plaw/118/public/159), §§ 509C(b), 521(j), Dec. 23, 2024, [138 Stat. 1873](https://www.govinfo.gov/link/statute/138/1873), 1882.)*

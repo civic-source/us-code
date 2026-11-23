@@ -3,9 +3,10 @@ title: "Section 507A - Assistant Attorney General for National Security"
 usc_title: 28
 usc_section: "507A"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 507A"
-generated_at: "2026-03-30T02:55:30.130Z"
+generated_at: "2026-11-23T21:26:01.046Z"
+status: "active"
 ---
 
 # § 507A. Assistant Attorney General for National Security
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:30.130Z"
   - **(1)** serve as the head of the National Security Division of the Department of Justice under section 509A of this title ;
   - **(2)** serve as primary liaison to the Director of National Intelligence for the Department of Justice; and
   - **(3)** perform such other duties as the Attorney General may prescribe.
+
+## Source Credit
+
+*(Added [Pub. L. 109–177, title V, § 506(a)(1)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 247](https://www.govinfo.gov/link/statute/120/247).)*

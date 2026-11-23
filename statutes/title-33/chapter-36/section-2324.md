@@ -3,9 +3,10 @@ title: "Section 2324 - Reduced pricing for certain water supply storage"
 usc_title: 33
 usc_section: "2324"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2324"
-generated_at: "2026-03-30T02:55:41.123Z"
+generated_at: "2026-11-23T21:26:11.445Z"
+status: "active"
 ---
 
 # § 2324. Reduced pricing for certain water supply storage
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:41.123Z"
 - **(g)** The term “low income community” means—
   - **(1)** a community with a population of less than 20,000 which is located in a county with a per capita income less than the per capita income of two-thirds of the counties in the United States; or
   - **(2)** a regional water system that serves a population of less than 100,000, for which the per capita income is less than the per capita income of not less than 50 percent of the counties in the United States.
+
+## Source Credit
+
+*([Pub. L. 101–640, title III, § 322](https://www.govinfo.gov/link/plaw/101/public/640), Nov. 28, 1990, [104 Stat. 4643](https://www.govinfo.gov/link/statute/104/4643); [Pub. L. 116–260, div. AA, title III, § 350](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2716](https://www.govinfo.gov/link/statute/134/2716).)*

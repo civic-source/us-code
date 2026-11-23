@@ -3,9 +3,10 @@ title: "Section 8013 - Assistance by Federal agencies to improve law enforcement
 usc_title: 16
 usc_section: "8013"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8013"
-generated_at: "2026-03-30T02:54:23.081Z"
+generated_at: "2026-11-23T21:25:52.072Z"
+status: "active"
 ---
 
 # § 8013. Assistance by Federal agencies to improve law enforcement within priority regions and priority flag states
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:23.081Z"
   - **(10)** to conduct training to raise awareness of the use of whistleblower information and ways to incentivize whistleblowers to come forward with original information related to IUU fishing.
 - **(e)** The officials referred to in subsection (a) shall evaluate opportunities to provide assistance, as appropriate, to key countries in priority regions and priority flag states in the form of training, equipment, and systems development to build capacity for information sharing related to maritime enforcement and port security.
 - **(f)** The Secretary of State shall coordinate, as appropriate, with the Secretary of Commerce, the Commandant of the Coast Guard when the Coast Guard is not operating as a service in the Department of the Navy, and with other relevant Federal agencies in accordance with this section.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. C, title XXXV, § 3543](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2002](https://www.govinfo.gov/link/statute/133/2002); [Pub. L. 117–263, div. K, title CXIII, § 11339(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4105](https://www.govinfo.gov/link/statute/136/4105).)*

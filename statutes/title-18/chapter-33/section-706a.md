@@ -3,9 +3,10 @@ title: "Section 706a - Geneva distinctive emblems"
 usc_title: 18
 usc_section: "706a"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 706a"
-generated_at: "2026-03-30T02:54:16.468Z"
+generated_at: "2026-11-23T21:25:43.989Z"
+status: "active"
 ---
 
 # § 706a. Geneva distinctive emblems
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:16.468Z"
   - **(4)** The sanitary and hospital authorities of the armed forces of State Parties to the Geneva Conventions of August 12, 1949 .
 - **(d)** This section does not make unlawful the use of any such emblem, sign, insignia, or words which was lawful on or before December 8, 2005 , if such use would not appear in time of armed conflict to confer the protections of the Geneva Conventions of August 12, 1949 , and, if applicable, the Additional Protocols.
 - **(e)** A violation of this section or section 706 may be enjoined at the civil suit of the Attorney General.
+
+## Source Credit
+
+*(Added [Pub. L. 109–481, § 2(a)](https://www.govinfo.gov/link/plaw/109/public/481), Jan. 12, 2007, [120 Stat. 3673](https://www.govinfo.gov/link/statute/120/3673).)*

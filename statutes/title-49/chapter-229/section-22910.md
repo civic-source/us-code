@@ -3,9 +3,10 @@ title: "Section 22910 - Interstate Rail Compacts Grant Program"
 usc_title: 49
 usc_section: "22910"
 chapter: 229
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 22910"
-generated_at: "2026-03-30T02:56:19.343Z"
+generated_at: "2026-11-23T21:26:40.727Z"
+status: "active"
 ---
 
 # § 22910. Interstate Rail Compacts Grant Program
@@ -34,3 +35,21 @@ generated_at: "2026-03-30T02:56:19.343Z"
   - **(3)** the plans of grant recipients for continued implementation of the interstate rail compacts;
   - **(4)** the status of, and data regarding, any new, restored, or enhanced rail services initiated under the interstate rail compacts; and
   - **(5)** any legislative recommendations.
+
+Grants Authorized
+
+Maximum Amount
+
+Selection Criteria
+
+Numerical Limitation
+
+Operator Limitation
+
+Non-Federal Match
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. B, title II, § 22306(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 723](https://www.govinfo.gov/link/statute/135/723).)*

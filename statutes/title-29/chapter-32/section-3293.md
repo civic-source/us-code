@@ -3,9 +3,10 @@ title: "Section 3293 - Educational assistance and training"
 usc_title: 29
 usc_section: "3293"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3293"
-generated_at: "2026-03-30T02:55:18.762Z"
+generated_at: "2026-11-23T21:26:02.353Z"
+status: "active"
 ---
 
 # § 3293. Educational assistance and training
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:18.762Z"
 - **(d)** The Secretaries shall provide that not more than 2 percent of the amount of funds disbursed to States under this section may be used by the Federal Government in the administration of this section.
 - **(e)** The Secretary of Labor shall report annually to the Congress on the grants to States provided under this section.
 - **(f)** In this section, the term “State” has the meaning given such term in section 1101(a)(36) of title 8 .
+
+## Source Credit
+
+*([Pub. L. 101–649, title VIII, § 801](https://www.govinfo.gov/link/plaw/101/public/649), Nov. 29, 1990, [104 Stat. 5087](https://www.govinfo.gov/link/statute/104/5087).)*

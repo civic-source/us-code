@@ -3,9 +3,10 @@ title: "Section 24906 - Eliminating highway at-grade crossings"
 usc_title: 49
 usc_section: "24906"
 chapter: 249
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 24906"
-generated_at: "2026-03-30T02:56:19.349Z"
+generated_at: "2026-11-23T21:26:40.748Z"
+status: "active"
 ---
 
 # § 24906. Eliminating highway at-grade crossings
@@ -14,3 +15,35 @@ generated_at: "2026-03-30T02:56:19.349Z"
   - **(1)** impracticable or unnecessary; and
   - **(2)** using the crossing is consistent with conditions the Secretary considers appropriate to ensure safety.
 - **(b)** Amtrak shall pay 20 percent of the cost of eliminating each highway at-grade crossing under the plan.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 24906(a) | 45:650(a), (b). | Oct. 30, 1970 , Pub. L. 91–518 , 84 Stat. 1327 , § 811; added Oct. 27, 1992 , Pub. L. 102–533, § 2 , 106 Stat. 3515 . |
+| 24906(b) | 45:650(c). |  |
+
+
+Plan
+
+Amtrak’s Share of Costs
+
+Historical and Revision Notes
+
+24906(a)
+
+Oct. 30, 1970
+
+Pub. L. 91–518
+
+84 Stat. 1327
+
+Oct. 27, 1992
+
+Pub. L. 102–533, § 2
+
+106 Stat. 3515
+
+24906(b)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 936](https://www.govinfo.gov/link/statute/108/936).)*

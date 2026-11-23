@@ -3,12 +3,17 @@ title: "Section 6979 - Labor standards"
 usc_title: 42
 usc_section: "6979"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6979"
-generated_at: "2026-03-30T02:56:11.277Z"
+generated_at: "2026-11-23T21:26:33.025Z"
+status: "active"
 ---
 
 # § 6979. Labor standards
 
 No grant for a project of construction under this chapter shall be made unless the Administrator finds that the application contains or is supported by reasonable assurance that all laborers and mechanics employed by contractors or subcontractors on projects of the type covered by sections 3141–3144, 3146, and 3147 of title 40, will be paid wages at rates not less than those prevailing on similar work in the locality as determined by the Secretary of Labor in accordance with those sections; and the Secretary of Labor shall have with respect to the labor standards specified in this section the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176) and section 3145 of title 40 .
 
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 7009](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2828](https://www.govinfo.gov/link/statute/90/2828); amended [Pub. L. 96–482, § 28](https://www.govinfo.gov/link/plaw/96/public/482), Oct. 21, 1980, [94 Stat. 2349](https://www.govinfo.gov/link/statute/94/2349).)*

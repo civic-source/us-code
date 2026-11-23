@@ -3,9 +3,10 @@ title: "Section 1094a - Regulatory relief and improvement"
 usc_title: 20
 usc_section: "1094a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1094a"
-generated_at: "2026-03-30T02:54:48.138Z"
+generated_at: "2026-11-23T21:25:47.215Z"
+status: "active"
 ---
 
 # § 1094a. Regulatory relief and improvement
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:48.138Z"
     - **(A)** the ability of the experimental site to reduce administrative burdens to the institution, as documented in the Secretary’s biennial report under paragraph (2), without creating costs for the taxpayer; and
     - **(B)** whether the experimental site has improved the delivery of services to, or otherwise benefitted, students.
 - **(c)** For purposes of this section, the term “current award year” means the award year during which the participating institution indicates the institution’s intention to cease participation.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 487A](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 102–325, title IV, § 491](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 629](https://www.govinfo.gov/link/statute/106/629); amended [Pub. L. 105–244, title IV, § 490](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1751](https://www.govinfo.gov/link/statute/112/1751); [Pub. L. 110–315, title I, § 103(b)(13)](https://www.govinfo.gov/link/plaw/110/public/315), title IV, § 494, Aug. 14, 2008, [122 Stat. 3090](https://www.govinfo.gov/link/statute/122/3090), 3318; [Pub. L. 111–39, title IV, § 407(b)(9)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1952](https://www.govinfo.gov/link/statute/123/1952).)*

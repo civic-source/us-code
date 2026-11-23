@@ -3,9 +3,10 @@ title: "Section 2339B - Providing material support or resources to designated fo
 usc_title: 18
 usc_section: "2339B"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2339B"
-generated_at: "2026-03-30T02:54:16.504Z"
+generated_at: "2026-11-23T21:25:44.149Z"
+status: "active"
 ---
 
 # § 2339B. Providing material support or resources to designated foreign terrorist organizations
@@ -80,3 +81,85 @@ generated_at: "2026-03-30T02:54:16.504Z"
 - **(h)** No person may be prosecuted under this section in connection with the term “personnel” unless that person has knowingly provided, attempted to provide, or conspired to provide a foreign terrorist organization with 1 or more individuals (who may be or include himself) to work under that terrorist organization’s direction or control or to organize, manage, supervise, or otherwise direct the operation of that organization. Individuals who act entirely independently of the foreign terrorist organization to advance its goals or objectives shall not be considered to be working under the foreign terrorist organization’s direction and control.
 - **(i)** Nothing in this section shall be construed or applied so as to abridge the exercise of rights guaranteed under the First Amendment to the Constitution of the United States.
 - **(j)** No person may be prosecuted under this section in connection with the term “personnel”, “training”, or “expert advice or assistance” if the provision of that material support or resources to a foreign terrorist organization was approved by the Secretary of State with the concurrence of the Attorney General. The Secretary of State may not approve the provision of any material support that may be used to carry out terrorist activity (as defined in section 212(a)(3)(B)(iii) of the Immigration and Nationality Act).
+
+Prohibited Activities.—
+
+Unlawful conduct
+
+Financial institutions
+
+Civil Penalty
+
+Injunction
+
+Extraterritorial Jurisdiction
+
+In general
+
+Extraterritorial jurisdiction
+
+Investigations.—
+
+In general
+
+Coordination with the department of the treasury
+
+Referral
+
+Classified Information in Civil Proceedings Brought by the United States.—
+
+Discovery of classified information by defendants.—
+
+Request by united states
+
+Order granting request
+
+Denial of request
+
+Introduction of classified information; precautions by court.—
+
+Exhibits
+
+Determination by court
+
+Taking of trial testimony.—
+
+Objection
+
+Action by court
+
+Obligation of defendant
+
+Appeal
+
+Interlocutory appeal.—
+
+Subject of appeal
+
+Expedited consideration.—
+
+In general
+
+Appeals prior to trial
+
+Appeals during trial
+
+Effect of ruling
+
+Construction
+
+Definitions
+
+Provision of Personnel
+
+Rule of Construction
+
+Exception
+
+Findings
+
+Purpose
+
+## Source Credit
+
+*(Added [Pub. L. 104–132, title III, § 303(a)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1250](https://www.govinfo.gov/link/statute/110/1250); amended [Pub. L. 107–56, title VIII, § 810(d)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 380](https://www.govinfo.gov/link/statute/115/380); [Pub. L. 108–458, title VI, § 6603(c)](https://www.govinfo.gov/link/plaw/108/public/458) –(f), Dec. 17, 2004, [118 Stat. 3762](https://www.govinfo.gov/link/statute/118/3762), 3763; [Pub. L. 111–16, § 3(6)](https://www.govinfo.gov/link/plaw/111/public/16) –(8), May 7, 2009, [123 Stat. 1608](https://www.govinfo.gov/link/statute/123/1608); [Pub. L. 114–23, title VII, § 704](https://www.govinfo.gov/link/plaw/114/public/23), June 2, 2015, [129 Stat. 300](https://www.govinfo.gov/link/statute/129/300).)*

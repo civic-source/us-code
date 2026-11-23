@@ -3,12 +3,17 @@ title: "Section 3403 - Supplemental authorization of economic support for Egypt"
 usc_title: 22
 usc_section: "3403"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3403"
-generated_at: "2026-03-30T02:55:05.394Z"
+generated_at: "2026-11-23T21:25:58.587Z"
+status: "active"
 ---
 
 # § 3403. Supplemental authorization of economic support for Egypt
 
 There is authorized to be appropriated to the President to carry out chapter 4 of part II of the Foreign Assistance Act of 1961 [ 22 U.S.C. 2346 et seq.], $300,000,000 for the fiscal year 1979 for Egypt, in addition to amounts otherwise authorized to be appropriated for such chapter for the fiscal year 1979. The amounts appropriated pursuant to this section may be made available until expended.
 
+
+## Source Credit
+
+*([Pub. L. 96–35, § 5](https://www.govinfo.gov/link/plaw/96/public/35), July 20, 1979, [93 Stat. 91](https://www.govinfo.gov/link/statute/93/91).)*

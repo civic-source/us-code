@@ -3,9 +3,10 @@ title: "Section 10841 - Restatement of bill of rights"
 usc_title: 42
 usc_section: "10841"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10841"
-generated_at: "2026-03-30T02:56:11.392Z"
+generated_at: "2026-11-23T21:26:33.389Z"
+status: "active"
 ---
 
 # § 10841. Restatement of bill of rights
@@ -63,3 +64,7 @@ It is the sense of the Congress that, as previously stated in title V of the Men
     - **(A)** In the case of a person adjudicated by a court of competent jurisdiction as being incompetent to exercise the right to consent to treatment or experimentation described in subparagraph (D) or (E) of paragraph (1), or the right to confidentiality of or access to records described in subparagraph (H) or (I) of such paragraph, or to provide authorization as described in paragraph (3)(C)(iii), such right may be exercised or such authorization may be provided by the individual appointed by such court as such person’s guardian or representative for the purpose of exercising such right or such authorization.
     - **(B)** In the case of a person who lacks capacity to exercise the right to consent to treatment or experimentation under subparagraph (D) or (E) of paragraph (1), or the right to confidentiality of or access to records described in subparagraph (H) or (I) of such paragraph, or to provide authorization as described in paragraph (3)(C)(iii), because such person has not attained an age considered sufficiently advanced under State law to permit the exercise of such right or such authorization to be legally binding, such right may be exercised or such authorization may be provided on behalf of such person by a parent or legal guardian of such person.
     - **(C)** Notwithstanding subparagraphs (A) and (B), in the case of a person admitted to a program or facility for the purpose of receiving mental health services, no individual employed by or receiving any remuneration from such program or facility should act as such person’s guardian or representative.
+
+## Source Credit
+
+*([Pub. L. 99–319, title II, § 201](https://www.govinfo.gov/link/plaw/99/public/319), May 23, 1986, [100 Stat. 485](https://www.govinfo.gov/link/statute/100/485); [Pub. L. 102–173, § 10(2)](https://www.govinfo.gov/link/plaw/102/public/173), Nov. 27, 1991, [105 Stat. 1219](https://www.govinfo.gov/link/statute/105/1219).)*

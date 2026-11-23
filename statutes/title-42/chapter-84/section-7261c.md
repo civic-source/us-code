@@ -3,9 +3,10 @@ title: "Section 7261c - Technology partnerships ombudsman"
 usc_title: 42
 usc_section: "7261c"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7261c"
-generated_at: "2026-03-30T02:56:11.286Z"
+generated_at: "2026-11-23T21:26:33.058Z"
+status: "active"
 ---
 
 # § 7261c. Technology partnerships ombudsman
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.286Z"
     - **(B)** the Administrator for Nuclear Security;
     - **(C)** the Director of the Office of Dispute Resolution of the Department of Energy; and
     - **(D)** the employees of the Department responsible for the administration of the contract for the operation of each national laboratory or facility that is a subject of the report, for consideration in the administration and review of that contract.
+
+## Source Credit
+
+*([Pub. L. 106–404, § 11](https://www.govinfo.gov/link/plaw/106/public/404), Nov. 1, 2000, [114 Stat. 1749](https://www.govinfo.gov/link/statute/114/1749).)*

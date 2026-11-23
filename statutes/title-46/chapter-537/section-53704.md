@@ -3,9 +3,10 @@ title: "Section 53704 - Funding limits"
 usc_title: 46
 usc_section: "53704"
 chapter: 537
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 53704"
-generated_at: "2026-03-30T02:56:15.576Z"
+generated_at: "2026-11-23T21:26:37.277Z"
+status: "active"
 ---
 
 # § 53704. Funding limits
@@ -36,3 +37,146 @@ generated_at: "2026-03-30T02:56:15.576Z"
     - **(H)** the management and operating experience of an obligor or applicant for a guarantee;
     - **(I)** whether a guarantee under this chapter is or will be in effect during the construction period of the project; and
     - **(J)** the concentration risk presented by an unduly large percentage of loans outstanding by any one borrower or group of affiliated borrowers.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 53704(a) | 46 App.:1273(f) (1st sentence). | June 29, 1936, ch. 858 , title XI, § 1103(f), as added June 23, 1938, ch. 600, § 46 , 52 Stat. 969 ; Aug. 15, 1953, ch. 513, § 1 , 67 Stat. 626 ; Sept. 3, 1954, ch. 1265, § 3 , 68 Stat. 1268 ; June 25, 1956, ch. 438 , 70 Stat. 332 ; Aug. 7, 1956, ch. 1026, § 1(a) , (c), (d), 70 Stat. 1087 ; Pub. L. 91–469, § 30 , Oct. 21, 1970 , 84 Stat. 1035 ; restated Pub. L. 92–507, § 3 , Oct. 19, 1972 , 86 Stat. 910 ; Pub. L. 93–70, § 3 , July 10, 1973 , 87 Stat. 168 ; Pub. L. 94–127, § 5 , Nov. 13, 1975 , 89 Stat. 681 ; Pub. L. 95–298, § 5 , June 26, 1978 , 92 Stat. 340 ; Pub. L. 96–320, title II, § 203(b)(1) , Aug. 3, 1980 , 94 Stat. 994 ; Pub. L. 96–561, title II, § 220(2) , Dec. 22, 1980 , 94 Stat. 3292 ; Pub. L. 97–35, title XVI, § 1606(a) , (b), Aug. 13, 1981 , 95 Stat. 752 ; Pub. L. 97–424, title IV, § 425 , Jan. 6, 1983 , 96 Stat. 2167 ; Pub. L. 103–160, title XIII, § 1356(2)(A) , Nov. 30, 1993 , 107 Stat. 1812 ; Pub. L. 108–136, title XXXV, § 3528(b) , Nov. 24, 2003 , 117 Stat. 1802 . |
+| 53704(b) | 46 App.:1273(f) (2d, last sentences). |  |
+| 53704(c) | 46 App.:1273(h). | June 29, 1936, ch. 858 , title XI, § 1103(h), as added Pub. L. 104–239, § 13(a) , Oct. 8, 1996 , 110 Stat. 3134 ; Pub. L. 108–136, title XXXV, § 3528(b) , Nov. 24, 2003 , 117 Stat. 1802 . |
+
+
+General Limitations
+
+Additional Limitations
+
+Limits Based on Risk Factors
+
+Definition
+
+System of risk categories
+
+Use of system
+
+Placing obligation in category
+
+Reduction of available amount
+
+Estimated cost
+
+Restriction on further guarantees
+
+Risk factors
+
+Historical and Revision Notes
+
+53704(a)
+
+June 29, 1936, ch. 858
+
+June 23, 1938, ch. 600, § 46
+
+52 Stat. 969
+
+Aug. 15, 1953, ch. 513, § 1
+
+67 Stat. 626
+
+Sept. 3, 1954, ch. 1265, § 3
+
+68 Stat. 1268
+
+June 25, 1956, ch. 438
+
+70 Stat. 332
+
+Aug. 7, 1956, ch. 1026, § 1(a)
+
+70 Stat. 1087
+
+Pub. L. 91–469, § 30
+
+Oct. 21, 1970
+
+84 Stat. 1035
+
+Pub. L. 92–507, § 3
+
+Oct. 19, 1972
+
+86 Stat. 910
+
+Pub. L. 93–70, § 3
+
+July 10, 1973
+
+87 Stat. 168
+
+Pub. L. 94–127, § 5
+
+Nov. 13, 1975
+
+89 Stat. 681
+
+Pub. L. 95–298, § 5
+
+June 26, 1978
+
+92 Stat. 340
+
+Pub. L. 96–320, title II, § 203(b)(1)
+
+Aug. 3, 1980
+
+94 Stat. 994
+
+Pub. L. 96–561, title II, § 220(2)
+
+Dec. 22, 1980
+
+94 Stat. 3292
+
+Pub. L. 97–35, title XVI, § 1606(a)
+
+Aug. 13, 1981
+
+95 Stat. 752
+
+Pub. L. 97–424, title IV, § 425
+
+Jan. 6, 1983
+
+96 Stat. 2167
+
+Pub. L. 103–160, title XIII, § 1356(2)(A)
+
+Nov. 30, 1993
+
+107 Stat. 1812
+
+Pub. L. 108–136, title XXXV, § 3528(b)
+
+Nov. 24, 2003
+
+117 Stat. 1802
+
+53704(b)
+
+53704(c)
+
+June 29, 1936, ch. 858
+
+Pub. L. 104–239, § 13(a)
+
+Oct. 8, 1996
+
+110 Stat. 3134
+
+Pub. L. 108–136, title XXXV, § 3528(b)
+
+Nov. 24, 2003
+
+117 Stat. 1802
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1604](https://www.govinfo.gov/link/statute/120/1604); [Pub. L. 109–163, div. C, title XXXV, § 3507(a)(1)(C)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3555](https://www.govinfo.gov/link/statute/119/3555); [Pub. L. 110–181, div. C, title XXXV, § 3522(a)(10)(B)](https://www.govinfo.gov/link/plaw/110/public/181), (b), Jan. 28, 2008, [122 Stat. 598](https://www.govinfo.gov/link/statute/122/598); [Pub. L. 116–92, div. C, title XXXV, § 3506(d)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1972](https://www.govinfo.gov/link/statute/133/1972).)*

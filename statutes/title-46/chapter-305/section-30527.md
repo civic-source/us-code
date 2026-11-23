@@ -3,9 +3,10 @@ title: "Section 30527 - Provisions limiting liability for personal injury or dea
 usc_title: 46
 usc_section: "30527"
 chapter: 305
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 30527"
-generated_at: "2026-03-30T02:56:15.561Z"
+generated_at: "2026-11-23T21:26:37.160Z"
+status: "active"
 ---
 
 # § 30527. Provisions limiting liability for personal injury or death
@@ -21,3 +22,38 @@ generated_at: "2026-03-30T02:56:15.561Z"
     - **(B)** the result of the claimant having been at actual risk of physical injury, and the risk was caused by the negligence or fault of a crewmember or the owner, master, manager, agent, or operator; or
     - **(C)** intentionally inflicted by a crewmember or the owner, master, manager, agent, or operator.
   - **(2)** This subsection does not limit the liability of a crewmember or the owner, master, manager, agent, or operator of a vessel in a case involving sexual harassment, sexual assault, or rape.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30509 | 46 App.:183c. | R.S. § 4283B, as added June 5, 1936, ch. 521, § 2 , 49 Stat. 1480 ; Oct. 19, 1996 , Pub. L. 104–324, § 1129(b) , 110 Stat. 3984 . |
+
+
+Prohibition
+
+In general
+
+Voidness
+
+Emotional Distress, Mental Suffering, and Psychological Injury
+
+In general
+
+Sexual offenses
+
+Historical and Revision Notes
+
+30509
+
+June 5, 1936, ch. 521, § 2
+
+49 Stat. 1480
+
+Oct. 19, 1996
+
+Pub. L. 104–324, § 1129(b)
+
+110 Stat. 3984
+
+## Source Credit
+
+*([Pub. L. 109–304, § 6(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1514](https://www.govinfo.gov/link/statute/120/1514), § 30509; renumbered § 30527, [Pub. L. 117–263, div. K, title CXV, § 11503(a)(3)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4130](https://www.govinfo.gov/link/statute/136/4130).)*

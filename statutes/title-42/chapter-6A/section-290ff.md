@@ -3,9 +3,10 @@ title: "Section 290ff - Comprehensive community mental health services for child
 usc_title: 42
 usc_section: "290ff"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 290ff"
-generated_at: "2026-03-30T02:56:10.769Z"
+generated_at: "2026-11-23T21:26:30.598Z"
+status: "active"
 ---
 
 # § 290ff. Comprehensive community mental health services for children with serious emotional disturbances
@@ -40,3 +41,11 @@ generated_at: "2026-03-30T02:56:10.769Z"
   - **(2)**
     - **(A)** Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
     - **(B)** In making a determination of the amount of non-Federal contributions for purposes of subparagraph (A), the Secretary may include only non-Federal contributions in excess of the average amount of non-Federal contributions made by the public entity involved toward the purpose described in subsection (a) for the 2-year period preceding the first fiscal year for which the entity receives a grant under such section.
+
+In general
+
+Limitation
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title V, § 561, as added [Pub. L. 102–321, title I, § 119](https://www.govinfo.gov/link/plaw/102/public/321), July 10, 1992, [106 Stat. 349](https://www.govinfo.gov/link/statute/106/349); amended [Pub. L. 103–43, title XX, § 2017(1)](https://www.govinfo.gov/link/plaw/103/public/43), June 10, 1993, [107 Stat. 218](https://www.govinfo.gov/link/statute/107/218); [Pub. L. 106–310, div. B, title XXXI, § 3105(a)](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1175](https://www.govinfo.gov/link/statute/114/1175); [Pub. L. 114–255, div. B, title X, § 10001(a)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1262](https://www.govinfo.gov/link/statute/130/1262).)*

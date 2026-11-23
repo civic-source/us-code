@@ -3,9 +3,10 @@ title: "Section 7505 - Authorization of appropriations"
 usc_title: 15
 usc_section: "7505"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7505"
-generated_at: "2026-03-30T02:54:08.224Z"
+generated_at: "2026-11-23T21:25:40.063Z"
+status: "active"
 ---
 
 # § 7505. Authorization of appropriations
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:08.224Z"
   - **(2)** $6,050,000 for fiscal year 2006;
   - **(3)** $6,413,000 for fiscal year 2007; and
   - **(4)** $6,800,000 for fiscal year 2008.
+
+## Source Credit
+
+*([Pub. L. 108–153, § 6](https://www.govinfo.gov/link/plaw/108/public/153), Dec. 3, 2003, [117 Stat. 1929](https://www.govinfo.gov/link/statute/117/1929).)*

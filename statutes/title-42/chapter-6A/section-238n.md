@@ -3,9 +3,10 @@ title: "Section 238n - Abortion-related discrimination in governmental activitie
 usc_title: 42
 usc_section: "238n"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 238n"
-generated_at: "2026-03-30T02:56:10.689Z"
+generated_at: "2026-11-23T21:26:30.239Z"
+status: "active"
 ---
 
 # § 238n. Abortion-related discrimination in governmental activities regarding training and licensing of physicians
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:10.689Z"
   - **(1)** The term “financial assistance”, with respect to a government program, includes governmental payments provided as reimbursement for carrying out health-related activities.
   - **(2)** The term “health care entity” includes an individual physician, a postgraduate physician training program, and a participant in a program of training in the health professions.
   - **(3)** The term “postgraduate physician training program” includes a residency training program.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title II, § 245, as added [Pub. L. 104–134, title I, § 101(d) [title V, § 515]](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–211](https://www.govinfo.gov/link/statute/110/1321), 1321–245; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327).)*

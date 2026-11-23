@@ -3,12 +3,17 @@ title: "Section 837a - Limitation of sale, delivery, and exchange of electric en
 usc_title: 16
 usc_section: "837a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 837a"
-generated_at: "2026-03-30T02:54:22.928Z"
+generated_at: "2026-11-23T21:25:51.782Z"
+status: "active"
 ---
 
 # § 837a. Limitation of sale, delivery, and exchange of electric energy and electric peaking capacity for use outside Pacific Northwest to surplus energy and surplus peaking capacity; notice to customers; inspection of contract drafts
 
 Subject to the provisions of this chapter, the sale, delivery, and exchange of electric energy generated at, and peaking capacity of, Federal hydroelectric plants in the Pacific Northwest for use outside the Pacific Northwest shall be limited to surplus energy and surplus peaking capacity. At least 30 days prior to the execution of any contract for the sale, delivery, or exchange of surplus energy or surplus peaking capacity for use outside the Pacific Northwest, the Secretary shall give the then customers of the Bonneville Power Administration written notice that negotiations for such a contract are pending, and thereafter, at any customer’s request, make available for its inspection current drafts of the proposed contract.
 
+
+## Source Credit
+
+*([Pub. L. 88–552, § 2](https://www.govinfo.gov/link/plaw/88/public/552), Aug. 31, 1964, [78 Stat. 756](https://www.govinfo.gov/link/statute/78/756).)*

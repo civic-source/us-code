@@ -3,9 +3,10 @@ title: "Section 155 - Functions of Mediation Board"
 usc_title: 45
 usc_section: "155"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 155"
-generated_at: "2026-03-30T02:55:56.543Z"
+generated_at: "2026-11-23T21:26:19.186Z"
+status: "active"
 ---
 
 # § 155. Functions of Mediation Board
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:56.543Z"
 - **(e)** Within sixty days after June 21, 1934 , every carrier shall file with the Mediation Board a copy of each contract with its employees in effect on the 1st day of April 1934, covering rates of pay, rules, and working conditions. If no contract with any craft or class of its employees has been entered into, the carrier shall file with the Mediation Board a statement of that fact, including also a statement of the rates of pay, rules, and working conditions applicable in dealing with such craft or class. When any new contract is executed or change is made in an existing contract with any class or craft of its employees covering rates of pay, rules, or working conditions, or in those rates of pay, rules, and working conditions of employees not covered by contract, the carrier shall file the same with the Mediation Board within thirty days after such new contract or change in existing contract has been executed or rates of pay, rules, and working conditions have been made effective.
 - **(f)** The Mediation Board shall be the custodian of all papers and documents heretofore filed with or transferred to the Board of Mediation bearing upon the settlement, adjustment, or determination of disputes between carriers and their employees or upon mediation or arbitration proceedings held under or pursuant to the provisions of any Act of Congress in respect thereto; and the President is authorized to designate a custodian of the records and property of the Board of Mediation until the transfer and delivery of such records to the Mediation Board and to require the transfer and delivery to the Mediation Board of any and all such papers and documents filed with it or in its possession.
 
+
+## Source Credit
+
+*(May 20, 1926, ch. 347, § 5, [44 Stat. 580](https://www.govinfo.gov/link/statute/44/580); June 21, 1934, ch. 691, § 5, [48 Stat. 1195](https://www.govinfo.gov/link/statute/48/1195); June 25, 1948, ch. 646, § 32(a), [62 Stat. 991](https://www.govinfo.gov/link/statute/62/991); May 24, 1949, ch. 139, § 127, [63 Stat. 107](https://www.govinfo.gov/link/statute/63/107).)*

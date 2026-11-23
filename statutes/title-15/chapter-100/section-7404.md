@@ -3,9 +3,10 @@ title: "Section 7404 - National Science Foundation computer and network security
 usc_title: 15
 usc_section: "7404"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7404"
-generated_at: "2026-03-30T02:54:08.222Z"
+generated_at: "2026-11-23T21:25:40.054Z"
+status: "active"
 ---
 
 # § 7404. National Science Foundation computer and network security programs
@@ -94,3 +95,7 @@ generated_at: "2026-03-30T02:54:08.222Z"
     - **(B)** demonstrate a commitment to a career in higher education.
   - **(8)** In making selections for graduate traineeships under this paragraph, an institution receiving a grant under this subsection shall consider, to the extent possible, a diverse pool of applicants whose interests are of an interdisciplinary nature, encompassing the social scientific as well as the technical dimensions of cyber security.
   - **(9)** There are authorized to be appropriated to the National Science Foundation to carry out this paragraph $5,000,000 for each of fiscal years 2003 through 2007.
+
+## Source Credit
+
+*([Pub. L. 107–305, § 5](https://www.govinfo.gov/link/plaw/107/public/305), Nov. 27, 2002, [116 Stat. 2370](https://www.govinfo.gov/link/statute/116/2370); [Pub. L. 116–115, § 3(f)](https://www.govinfo.gov/link/plaw/116/public/115), (g), Feb. 11, 2020, [134 Stat. 107](https://www.govinfo.gov/link/statute/134/107).)*

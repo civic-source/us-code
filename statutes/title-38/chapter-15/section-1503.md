@@ -3,9 +3,10 @@ title: "Section 1503 - Determinations with respect to annual income"
 usc_title: 38
 usc_section: "1503"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1503"
-generated_at: "2026-03-30T02:55:53.479Z"
+generated_at: "2026-11-23T21:26:16.602Z"
+status: "active"
 ---
 
 # § 1503. Determinations with respect to annual income
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:53.479Z"
   - **(11)** payment of a monetary amount of up to $5,000 to a veteran from a State or municipality that is paid as a veterans’ benefit due to injury or disease; and
   - **(12)** lump-sum proceeds of any life insurance policy on a veteran, for purposes of pension under subchapter III of this chapter.
 - **(b)** Where a fraction of a dollar is involved, annual income shall be fixed at the next lower dollar.
+
+## Source Credit
+
+*([Pub. L. 85–857](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1134](https://www.govinfo.gov/link/statute/72/1134), § 503; [Pub. L. 86–211, § 2(a)](https://www.govinfo.gov/link/plaw/86/public/211), Aug. 29, 1959, [73 Stat. 432](https://www.govinfo.gov/link/statute/73/432); [Pub. L. 87–268, § 1(b)](https://www.govinfo.gov/link/plaw/87/public/268), Sept. 21, 1961, [75 Stat. 566](https://www.govinfo.gov/link/statute/75/566); [Pub. L. 88–664, § 1](https://www.govinfo.gov/link/plaw/88/public/664), Oct. 13, 1964, [78 Stat. 1094](https://www.govinfo.gov/link/statute/78/1094); [Pub. L. 90–77, title I, § 103](https://www.govinfo.gov/link/plaw/90/public/77), Aug. 31, 1967, [81 Stat. 178](https://www.govinfo.gov/link/statute/81/178); [Pub. L. 91–588, § 7](https://www.govinfo.gov/link/plaw/91/public/588), Dec. 24, 1970, [84 Stat. 1584](https://www.govinfo.gov/link/statute/84/1584); [Pub. L. 92–198, § 2](https://www.govinfo.gov/link/plaw/92/public/198), Dec. 15, 1971, [85 Stat. 664](https://www.govinfo.gov/link/statute/85/664); [Pub. L. 92–425, § 6(2)](https://www.govinfo.gov/link/plaw/92/public/425), Sept. 21, 1972, [86 Stat. 713](https://www.govinfo.gov/link/statute/86/713); [Pub. L. 94–169, title I](https://www.govinfo.gov/link/plaw/94/public/169), §§ 101(2)(A), 106(3)–(8), Dec. 23, 1975, [89 Stat. 1013](https://www.govinfo.gov/link/statute/89/1013), 1017; [Pub. L. 95–588, title I, § 102](https://www.govinfo.gov/link/plaw/95/public/588), Nov. 4, 1978, [92 Stat. 2497](https://www.govinfo.gov/link/statute/92/2497); [Pub. L. 97–295, § 4(13)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1305](https://www.govinfo.gov/link/statute/96/1305); [Pub. L. 100–687, div. B, title XIV, § 1402(b)](https://www.govinfo.gov/link/plaw/100/public/687), Nov. 18, 1988, [102 Stat. 4130](https://www.govinfo.gov/link/statute/102/4130); [Pub. L. 102–54, § 14(b)(5)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 283](https://www.govinfo.gov/link/statute/105/283); renumbered § 1503 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406](https://www.govinfo.gov/link/statute/105/404); [Pub. L. 108–454, title III, § 303](https://www.govinfo.gov/link/plaw/108/public/454), Dec. 10, 2004, [118 Stat. 3611](https://www.govinfo.gov/link/statute/118/3611); [Pub. L. 111–275, title VI, § 604(a)](https://www.govinfo.gov/link/plaw/111/public/275), Oct. 13, 2010, [124 Stat. 2885](https://www.govinfo.gov/link/statute/124/2885); [Pub. L. 112–154, title V, § 509(a)](https://www.govinfo.gov/link/plaw/112/public/154), Aug. 6, 2012, [126 Stat. 1195](https://www.govinfo.gov/link/statute/126/1195); [Pub. L. 114–58, title VI, § 601(3)](https://www.govinfo.gov/link/plaw/114/public/58), Sept. 30, 2015, [129 Stat. 538](https://www.govinfo.gov/link/statute/129/538).)*

@@ -3,9 +3,10 @@ title: "Section 6103 - Management structure for nuclear security enterprise"
 usc_title: 10
 usc_section: "6103"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6103"
-generated_at: "2026-03-30T02:53:38.218Z"
+generated_at: "2026-11-23T21:25:32.809Z"
+status: "active"
 ---
 
 # § 6103. Management structure for nuclear security enterprise
@@ -24,3 +25,43 @@ generated_at: "2026-03-30T02:53:38.218Z"
     - **(B)** relating to any other matter in accordance with paragraph (1).
   - **(4)** Not later than 60 days after the date on which any recommendation under paragraph (3) is received, the Administrator or the Secretary, as the case may be, shall respond to the Council with respect to whether such recommendation will be implemented and the reasoning for implementing or not implementing such recommendation.
 - **(c)** This section may not be construed as affecting the authority of the Secretary of Energy, in carrying out national security programs, with respect to the management, planning, and oversight of the Administration or as affecting the delegation by the Secretary of authority to carry out such activities, as set forth under subsection (a) of section 4102 of the Atomic Energy Defense Act ( 50 U.S.C. 2512 ) as it existed before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013 ( Public Law 112–239 ; 126 Stat. 2169 ).
+
+In General
+
+National Nuclear Security Administration Council
+
+Rule of Construction
+
+Sense of Congress
+
+Implementation Plan.—
+
+Implementation action team
+
+Elements
+
+Submission
+
+Implementation Assessment Panel.—
+
+Agreement
+
+Duties
+
+Reports
+
+Cooperation
+
+Definitions
+
+Appropriate congressional committees
+
+Covered study
+
+Nuclear security enterprise
+
+Rules of Construction
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2)(B), Dec. 18, 2025, [139 Stat. 1340](https://www.govinfo.gov/link/statute/139/1340), 1462.)*

@@ -3,9 +3,10 @@ title: "Section 6313 - Senators’ Official Personnel and Office Expense Account
 usc_title: 2
 usc_section: "6313"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 6313"
-generated_at: "2026-03-30T02:53:04.839Z"
+generated_at: "2026-11-23T21:25:21.350Z"
+status: "active"
 ---
 
 # § 6313. Senators’ Official Personnel and Office Expense Account
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:04.839Z"
   - **(4)** On January 1, 1988 , there shall be transferred to the Senators’ Account, from the appropriation account for “Agency Contributions”, under the headings “SENATE” and “Salaries, Officers and Employees”, so much of the moneys in such account as was appropriated for the purpose of making agency contributions for administrative, clerical, and legislative assistance to Senators with respect to compensation payable for the period commencing January 1, 1988 , and ending September 30, 1988 ; and the moneys so transferred shall be available only for the payment of such agency contributions with respect to such compensation.
   - **(5)** Vouchers shall not be required for the disbursement, from the Senators’ Account, of salaries of employees in the office of a Senator.
   - **(6)** Effective on and after October 1, 1997 , the Senators’ Account shall be available for the payment of franked mail expenses of Senators.
+
+## Source Credit
+
+*([Pub. L. 100–137, § 1(a)](https://www.govinfo.gov/link/plaw/100/public/137), Oct. 21, 1987, [101 Stat. 814](https://www.govinfo.gov/link/statute/101/814); [Pub. L. 105–55, title I, § 3(b)](https://www.govinfo.gov/link/plaw/105/public/55), Oct. 7, 1997, [111 Stat. 1180](https://www.govinfo.gov/link/statute/111/1180).)*

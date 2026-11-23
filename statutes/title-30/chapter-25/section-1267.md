@@ -3,9 +3,10 @@ title: "Section 1267 - Inspections and monitoring"
 usc_title: 30
 usc_section: "1267"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1267"
-generated_at: "2026-03-30T02:55:29.401Z"
+generated_at: "2026-11-23T21:26:00.428Z"
+status: "active"
 ---
 
 # § 1267. Inspections and monitoring
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:29.401Z"
 - **(h)**
   - **(1)** Any person who is or may be adversely affected by a surface mining operation may notify the Secretary or any representative of the Secretary responsible for conducting the inspection, in writing, of any violation of this chapter which he has reason to believe exists at the surface mining site. The Secretary shall, by regulation, establish procedures for informal review of any refusal by a representative of the Secretary to issue a citation with respect to any such alleged violation. The Secretary shall furnish such persons requesting the review a written statement of the reasons for the Secretary’s final disposition of the case.
   - **(2)** The Secretary shall also, by regulation, establish procedures to insure that adequate and complete inspections are made. Any such person may notify the Secretary of any failure to make such inspections, after which the Secretary shall determine whether adequate and complete inspections have been made. The Secretary shall furnish such persons a written statement of the reasons for the Secretary’s determination that adequate and complete inspections have or have not been conducted.
+
+## Source Credit
+
+*([Pub. L. 95–87, title V, § 517](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 498](https://www.govinfo.gov/link/statute/91/498).)*

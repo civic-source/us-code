@@ -3,9 +3,10 @@ title: "Section 9201 - Congressional findings and declaration of purpose"
 usc_title: 42
 usc_section: "9201"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9201"
-generated_at: "2026-03-30T02:56:11.351Z"
+generated_at: "2026-11-23T21:26:33.233Z"
+status: "active"
 ---
 
 # § 9201. Congressional findings and declaration of purpose
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.351Z"
   - **(1)** to reduce the average cost of electricity produced by installed wind energy systems, by the end of fiscal year 1988, to a level competitive with conventional energy sources;
   - **(2)** to reach a total megawatt capacity in the United States from wind energy systems, by the end of fiscal year 1988, of at least eight hundred megawatts, of which at least one hundred megawatts are provided by small wind energy systems; and
   - **(3)** to accelerate the growth of a commercially viable and competitive industry to make wind energy systems available to the general public as an option in order to reduce national consumption of fossil fuel.
+
+## Source Credit
+
+*([Pub. L. 96–345, § 2](https://www.govinfo.gov/link/plaw/96/public/345), Sept. 8, 1980, [94 Stat. 1139](https://www.govinfo.gov/link/statute/94/1139).)*

@@ -3,9 +3,10 @@ title: "Section 2236 - Port or harbor dues"
 usc_title: 33
 usc_section: "2236"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2236"
-generated_at: "2026-03-30T02:55:41.115Z"
+generated_at: "2026-11-23T21:26:11.426Z"
+status: "active"
 ---
 
 # § 2236. Port or harbor dues
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:55:41.115Z"
   - **(1)** withhold the clearance required by section 60105 of title 46 for a vessel if the master, owner, or operator of a vessel subject to port or harbor dues under this section fails to comply with the provisions of this section including any non-Federal law, regulation or ordinance issued hereunder; and
   - **(2)** assess a penalty or initiate a forfeiture of the cargo in the same manner and under the same procedures as are applicable for failure to pay customs duties under the Tariff Act of 1930 ( 19 U.S.C. 1202 et seq.) if the shipper, consignor, consignee, or terminal operator having title to or custody of cargo subject to port or harbor dues under this section fails to comply with the provisions of this section including any non-Federal law, regulation, or ordinance issued hereunder.
 - **(e)** Port or harbor dues levied under this section against a vessel constitute a maritime lien against the vessel and port or harbor dues levied against cargo constitute a lien against the cargo that may be recovered in an action in the district court of the United States for the district in which the vessel or cargo is found.
+
+## Source Credit
+
+*([Pub. L. 99–662, title II, § 208](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4102](https://www.govinfo.gov/link/statute/100/4102); [Pub. L. 104–66, title I, § 1021(g)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 713](https://www.govinfo.gov/link/statute/109/713).)*

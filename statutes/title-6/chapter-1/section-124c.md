@@ -3,9 +3,10 @@ title: "Section 124c - Coordination with information sharing environment"
 usc_title: 6
 usc_section: "124c"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 124c"
-generated_at: "2026-03-30T02:53:09.444Z"
+generated_at: "2026-11-23T21:25:25.749Z"
+status: "active"
 ---
 
 # § 124c. Coordination with information sharing environment
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:09.444Z"
   - **(3)** consistent with any applicable guidance issued by the Director of National Intelligence; and
   - **(4)** consistent with any applicable guidance issued by the Secretary relating to the protection of law enforcement information or proprietary information.
 - **(b)** In carrying out the duties and responsibilities under this part, the Under Secretary for Intelligence and Analysis shall take into account the views of the heads of the intelligence components of the Department.
+
+## Source Credit
+
+*([Pub. L. 107–296, title II, § 206](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 110–53, title V, § 501(a)(1)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 309](https://www.govinfo.gov/link/statute/121/309).)*

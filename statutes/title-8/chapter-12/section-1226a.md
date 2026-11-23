@@ -3,9 +3,10 @@ title: "Section 1226a - Mandatory detention of suspected terrorists; habeas corp
 usc_title: 8
 usc_section: "1226a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1226a"
-generated_at: "2026-03-30T02:53:10.486Z"
+generated_at: "2026-11-23T21:25:25.152Z"
+status: "active"
 ---
 
 # § 1226a. Mandatory detention of suspected terrorists; habeas corpus; judicial review
@@ -32,3 +33,9 @@ generated_at: "2026-03-30T02:53:10.486Z"
   - **(3)** Notwithstanding any other provision of law, including section 2253 of title 28 , in habeas corpus proceedings described in paragraph (1) before a circuit or district judge, the final order shall be subject to review, on appeal, by the United States Court of Appeals for the District of Columbia Circuit. There shall be no right of appeal in such proceedings to any other circuit court of appeals.
   - **(4)** The law applied by the Supreme Court and the United States Court of Appeals for the District of Columbia Circuit shall be regarded as the rule of decision in habeas corpus proceedings described in paragraph (1).
 - **(c)** The provisions of this section shall not be applicable to any other provision of this chapter.
+
+“Not later than 6 months after the date of the enactment of this Act [ Oct. 26, 2001 ], and every 6 months thereafter, the Attorney General shall submit a report to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate, with respect to the reporting period, on—
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 4, § 236A, as added [Pub. L. 107–56, title IV, § 412(a)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 350](https://www.govinfo.gov/link/statute/115/350).)*

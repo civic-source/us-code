@@ -3,9 +3,10 @@ title: "Section 3079 - Student pre-commissioning education assistance program"
 usc_title: 33
 usc_section: "3079"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3079"
-generated_at: "2026-03-30T02:55:41.138Z"
+generated_at: "2026-11-23T21:26:11.478Z"
+status: "active"
 ---
 
 # § 3079. Student pre-commissioning education assistance program
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:55:41.138Z"
   - **(5)** A discharge in bankruptcy under title 11 that is entered less than five years after the termination of a written agreement entered into under subsection (b)(1)(C) does not discharge the person signing the agreement from a debt arising under such agreement or under paragraph (2).
 - **(i)** The Secretary may prescribe such regulations and orders as the Secretary considers appropriate to carry out this section.
 - **(j)** A service obligation under this section may be completed concurrently with a service obligation under section 3006 of this title .
+
+## Source Credit
+
+*([Pub. L. 107–372, title II, § 269](https://www.govinfo.gov/link/plaw/107/public/372), as added [Pub. L. 116–259, title II, § 203(a)](https://www.govinfo.gov/link/plaw/116/public/259), Dec. 23, 2020, [134 Stat. 1163](https://www.govinfo.gov/link/statute/134/1163).)*

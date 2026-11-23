@@ -3,9 +3,10 @@ title: "Section 1776 - Training program"
 usc_title: 8
 usc_section: "1776"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1776"
-generated_at: "2026-03-30T02:53:10.508Z"
+generated_at: "2026-11-23T21:25:25.218Z"
+status: "active"
 ---
 
 # § 1776. Training program
@@ -39,3 +40,9 @@ generated_at: "2026-03-30T02:53:10.508Z"
         - **(IV)** describes the status of periodic retraining of appropriate personnel described in paragraph (1)(C)(ii).
   - **(4)** The Secretary of Homeland Security may assist States, Indian tribes, local governments, and private organizations to establish training programs related to terrorist travel intelligence.
   - **(5)** There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2005 through 2009 to carry out the provisions of this section.
+
+“Consistent with the report of the National Commission on Terrorist Attacks Upon the United States, Congress makes the following findings:
+
+## Source Credit
+
+*([Pub. L. 108–458, title VII, § 7201(d)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3811](https://www.govinfo.gov/link/statute/118/3811).)*

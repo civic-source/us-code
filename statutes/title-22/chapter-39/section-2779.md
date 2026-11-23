@@ -3,9 +3,10 @@ title: "Section 2779 - Fees of military sales agents"
 usc_title: 22
 usc_section: "2779"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2779"
-generated_at: "2026-03-30T02:55:05.386Z"
+generated_at: "2026-11-23T21:25:58.563Z"
+status: "active"
 ---
 
 # § 2779. Fees of military sales agents
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.386Z"
 - **(d)**
   - **(1)** All information reported to the Secretary of State and all records maintained by any person pursuant to regulations prescribed under this section shall be available, upon request, to any standing committee of the Congress or any subcommittee thereof and to any agency of the United States Government authorized by law to have access to the books and records of the person required to submit reports or to maintain records under this section.
   - **(2)** Access by an agency of the United States Government to records maintained under this section shall be on the same terms and conditions which govern the access by such agency to the books and records of the person concerned.
+
+## Source Credit
+
+*([Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 3, § 39, as added [Pub. L. 94–329, title VI, § 604(b)](https://www.govinfo.gov/link/plaw/94/public/329), June 30, 1976, [90 Stat. 767](https://www.govinfo.gov/link/statute/90/767); amended [Pub. L. 96–533, title I, § 105(e)(2)](https://www.govinfo.gov/link/plaw/96/public/533), Dec. 16, 1980, [94 Stat. 3135](https://www.govinfo.gov/link/statute/94/3135); [Pub. L. 111–266, title I, § 104(e)](https://www.govinfo.gov/link/plaw/111/public/266), Oct. 8, 2010, [124 Stat. 2800](https://www.govinfo.gov/link/statute/124/2800).)*

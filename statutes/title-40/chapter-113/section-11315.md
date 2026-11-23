@@ -3,9 +3,10 @@ title: "Section 11315 - Agency Chief Information Officer"
 usc_title: 40
 usc_section: "11315"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 11315"
-generated_at: "2026-03-30T02:55:43.385Z"
+generated_at: "2026-11-23T21:26:14.945Z"
+status: "active"
 ---
 
 # § 11315. Agency Chief Information Officer
@@ -23,3 +24,52 @@ generated_at: "2026-03-30T02:55:43.385Z"
     - **(B)** assesses the extent to which the positions and personnel at the executive level of the agency and the positions and personnel at management level of the agency below the executive level meet those requirements;
     - **(C)** develops strategies and specific plans for hiring, training, and professional development to rectify any deficiency in meeting those requirements; and
     - **(D)** reports to the head of the agency on the progress made in improving information resources management capability.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 11315 | 40:1425(b)–(d). | Pub. L. 104–106, div. E, title LI, § 5125(b) –(d), Feb. 10, 1996 , 110 Stat. 685 . |
+
+
+Definition
+
+General Responsibilities
+
+Duties and Qualifications
+
+Historical and Revision Notes
+
+11315
+
+Pub. L. 104–106, div. E, title LI, § 5125(b)
+
+Feb. 10, 1996
+
+110 Stat. 685
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1241](https://www.govinfo.gov/link/statute/116/1241); [Pub. L. 108–458, title VIII, § 8401(4)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3869](https://www.govinfo.gov/link/statute/118/3869).)*

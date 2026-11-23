@@ -3,9 +3,10 @@ title: "Section 4710 - Administrative provisions"
 usc_title: 20
 usc_section: "4710"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 4710"
-generated_at: "2026-03-30T02:54:48.186Z"
+generated_at: "2026-11-23T21:25:47.459Z"
+status: "active"
 ---
 
 # § 4710. Administrative provisions
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:48.186Z"
   - **(9)** expend not more than 5 percent of the Foundation’s annual operating budget to pay the costs associated with fundraising activities, including public and private gatherings; and
   - **(10)** make other necessary expenditures.
 - **(b)** The Foundation shall submit to the President and to Congress an annual report of its operations under this chapter.
+
+## Source Credit
+
+*([Pub. L. 99–661, div. A, title XIV, § 1411](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 4011](https://www.govinfo.gov/link/statute/100/4011); [Pub. L. 103–160, div. A, title XI, § 1179(b)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1770](https://www.govinfo.gov/link/statute/107/1770); [Pub. L. 117–81, div. F, title LXIII, § 6307](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2395](https://www.govinfo.gov/link/statute/135/2395).)*

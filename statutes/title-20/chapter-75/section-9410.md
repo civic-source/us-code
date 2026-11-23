@@ -3,9 +3,10 @@ title: "Section 9410 - State requirements"
 usc_title: 20
 usc_section: "9410"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9410"
-generated_at: "2026-03-30T02:54:48.225Z"
+generated_at: "2026-11-23T21:25:47.654Z"
+status: "active"
 ---
 
 # § 9410. State requirements
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:48.225Z"
   - **(3)** The State shall award grants to Local Councils only for purposes that are consistent with the performance goals established under paragraph (2).
   - **(4)** The State shall report to the Secretary annually regarding the State’s progress toward achieving the performance goals established in paragraph (2) and any necessary modifications to those goals, including the rationale for the modifications.
   - **(5)** If the Secretary determines, based on the State report submitted under paragraph (4), that the State is not making progress toward achieving the performance goals described in paragraph (2), then the State shall submit a performance improvement plan to the Secretary, and demonstrate reasonable progress in implementing such plan, in order to remain eligible for funding under this chapter.
+
+## Source Credit
+
+*([Pub. L. 106–554, § 1(a)(1) [title VIII, § 811]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–86.)*

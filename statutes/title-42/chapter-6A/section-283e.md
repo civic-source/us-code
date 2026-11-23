@@ -3,9 +3,10 @@ title: "Section 283e - Plan for use of animals in research"
 usc_title: 42
 usc_section: "283e"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 283e"
-generated_at: "2026-03-30T02:56:10.738Z"
+generated_at: "2026-11-23T21:26:30.462Z"
+status: "active"
 ---
 
 # § 283e. Plan for use of animals in research
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:10.738Z"
   - **(3)** The Committee shall be composed of—
     - **(A)** the Directors of each of the national research institutes (or the designees of such Directors); and
     - **(B)** representatives of the Environmental Protection Agency, the Food and Drug Administration, the Consumer Product Safety Commission, the National Science Foundation, and such additional agencies as the Director of NIH determines to be appropriate, which representatives shall include not less than one veterinarian with expertise in laboratory-animal medicine.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 404C, as added [Pub. L. 103–43, title II, § 205(a)](https://www.govinfo.gov/link/plaw/103/public/43), June 10, 1993, [107 Stat. 146](https://www.govinfo.gov/link/statute/107/146); amended [Pub. L. 112–74, div. F, title II, § 221(d)(2)](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 1090](https://www.govinfo.gov/link/statute/125/1090).)*

@@ -3,9 +3,10 @@ title: "Section 575 - Recommendations for promotion by selection boards"
 usc_title: 10
 usc_section: "575"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 575"
-generated_at: "2026-03-30T02:53:38.066Z"
+generated_at: "2026-11-23T21:25:32.289Z"
+status: "active"
 ---
 
 # § 575. Recommendations for promotion by selection boards
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:38.066Z"
       - **(iv)** a career progression requirement delayed by an assignment or education;
     - **(B)** such Secretary determines that such exclusion from consideration is in the best interest of the Armed Force concerned; and
     - **(C)** the officer has not previously failed of selection for promotion to the grade for which the officer requests exclusion from consideration.
+
+## Source Credit
+
+*(Added [Pub. L. 102–190, div. A, title XI, § 1112(a)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1495](https://www.govinfo.gov/link/statute/105/1495); amended [Pub. L. 103–337, div. A, title V](https://www.govinfo.gov/link/plaw/103/public/337), §§ 501(a), 541(b)(3), Oct. 5, 1994, [108 Stat. 2748](https://www.govinfo.gov/link/statute/108/2748), 2764; [Pub. L. 104–201, div. A, title V, § 506(b)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2512](https://www.govinfo.gov/link/statute/110/2512); [Pub. L. 106–65, div. A, title V, § 505](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 591](https://www.govinfo.gov/link/statute/113/591); [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 117–263, div. A, title V, § 508(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2559](https://www.govinfo.gov/link/statute/136/2559).)*

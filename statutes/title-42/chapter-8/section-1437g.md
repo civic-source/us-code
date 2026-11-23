@@ -3,9 +3,10 @@ title: "Section 1437g - Public housing Capital and Operating Funds"
 usc_title: 42
 usc_section: "1437g"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1437g"
-generated_at: "2026-03-30T02:56:11.084Z"
+generated_at: "2026-11-23T21:26:32.011Z"
+status: "active"
 ---
 
 # § 1437g. Public housing Capital and Operating Funds
@@ -157,3 +158,21 @@ generated_at: "2026-03-30T02:56:11.084Z"
   - **(4)** Funds in a replacement reserve may be used for purposes authorized by subsection (d)(1) and contained in its Capital Fund 5-Year Action Plan.
   - **(5)** The Secretary shall establish appropriate accounting and reporting requirements to ensure that public housing agencies are spending funds on eligible projects and that funds in the replacement reserve are connected to capital needs.
 - **(o)** The Secretary shall publish model guidelines for minimum heating requirements for public housing dwelling units operated by public housing agencies receiving assistance under this section.
+
+Transitional Provision of Assistance.—
+
+In general
+
+Qualifications
+
+Effective Date of Operating Formula
+
+Effective Date
+
+Public Housing Operating Fund
+
+public housing capital fund (including transfer of funds)
+
+## Source Credit
+
+*(Sept. 1, 1937, ch. 896, title I, § 9, as added [Pub. L. 93–383, title II, § 201(a)](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 666](https://www.govinfo.gov/link/statute/88/666); amended [Pub. L. 94–375, § 2(c)](https://www.govinfo.gov/link/plaw/94/public/375), Aug. 3, 1976, [90 Stat. 1068](https://www.govinfo.gov/link/statute/90/1068); [Pub. L. 95–24, title I, § 101(b)](https://www.govinfo.gov/link/plaw/95/public/24), Apr. 30, 1977, [91 Stat. 55](https://www.govinfo.gov/link/statute/91/55); [Pub. L. 95–128, title II, § 201(f)](https://www.govinfo.gov/link/plaw/95/public/128), Oct. 12, 1977, [91 Stat. 1129](https://www.govinfo.gov/link/statute/91/1129); [Pub. L. 95–557, title II, § 206(g)](https://www.govinfo.gov/link/plaw/95/public/557), Oct. 31, 1978, [92 Stat. 2093](https://www.govinfo.gov/link/statute/92/2093); [Pub. L. 96–153, title II](https://www.govinfo.gov/link/plaw/96/public/153), §§ 201(c), 207, 211(a), Dec. 21, 1979, [93 Stat. 1106](https://www.govinfo.gov/link/statute/93/1106), 1109, 1110; [Pub. L. 96–399, title II, § 201(b)](https://www.govinfo.gov/link/plaw/96/public/399), (d), Oct. 8, 1980, [94 Stat. 1625](https://www.govinfo.gov/link/statute/94/1625); [Pub. L. 97–35, title III](https://www.govinfo.gov/link/plaw/97/public/35), §§ 321(d), 322(c), Aug. 13, 1981, [95 Stat. 399](https://www.govinfo.gov/link/statute/95/399), 402; [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title II, § 212], Nov. 30, 1983, [97 Stat. 1184](https://www.govinfo.gov/link/statute/97/1184); [Pub. L. 99–272, title III, § 3003](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 102](https://www.govinfo.gov/link/statute/100/102); [Pub. L. 100–242, title I](https://www.govinfo.gov/link/plaw/100/public/242), §§ 112(b)(4), 118, Feb. 5, 1988, [101 Stat. 1824](https://www.govinfo.gov/link/statute/101/1824), 1828; renumbered title I, [Pub. L. 100–358, § 5](https://www.govinfo.gov/link/plaw/100/public/358), June 29, 1988, [102 Stat. 681](https://www.govinfo.gov/link/statute/102/681); [Pub. L. 101–625, title V](https://www.govinfo.gov/link/plaw/101/public/625), §§ 507, 572(2), title VIII, § 802(p), Nov. 28, 1990, [104 Stat. 4186](https://www.govinfo.gov/link/statute/104/4186), 4236, 4317; [Pub. L. 102–550, title I, § 114](https://www.govinfo.gov/link/plaw/102/public/550), title VI, § 673, Oct. 28, 1992, [106 Stat. 3691](https://www.govinfo.gov/link/statute/106/3691), 3827; [Pub. L. 103–233, title III, § 304](https://www.govinfo.gov/link/plaw/103/public/233), Apr. 11, 1994, [108 Stat. 370](https://www.govinfo.gov/link/statute/108/370); [Pub. L. 104–134, title I, § 101(e) [title II, § 218]](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–257](https://www.govinfo.gov/link/statute/110/1321), 1321–290; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327); [Pub. L. 104–330, title V, § 501(b)(5)](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4042](https://www.govinfo.gov/link/statute/110/4042); [Pub. L. 105–276, title II, § 210](https://www.govinfo.gov/link/plaw/105/public/276), title V, § 519(a), Oct. 21, 1998, [112 Stat. 2485](https://www.govinfo.gov/link/statute/112/2485), 2551; [Pub. L. 106–377, § 1(a)(1) [title II, § 214(a)]](https://www.govinfo.gov/link/plaw/106/public/377), Oct. 27, 2000, [114 Stat. 1441](https://www.govinfo.gov/link/statute/114/1441), 1441A–27; [Pub. L. 108–7, div. K, title II, § 212(a)](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 503](https://www.govinfo.gov/link/statute/117/503); [Pub. L. 109–58, title I, § 151](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 648](https://www.govinfo.gov/link/statute/119/648); [Pub. L. 110–161, div. K, title II, § 229](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2438](https://www.govinfo.gov/link/statute/121/2438); [Pub. L. 110–289, div. B, title VIII, § 2804](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2866](https://www.govinfo.gov/link/statute/122/2866); [Pub. L. 114–201, title I](https://www.govinfo.gov/link/plaw/114/public/201), §§ 109, 111, July 29, 2016, [130 Stat. 801](https://www.govinfo.gov/link/statute/130/801), 803; [Pub. L. 115–174, title II, § 209(b)](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1315](https://www.govinfo.gov/link/statute/132/1315).)*

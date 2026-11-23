@@ -3,9 +3,10 @@ title: "Section 21 - John Glenn Great Lakes basin program"
 usc_title: 42
 usc_section: "21"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 21"
-generated_at: "2026-03-30T02:56:11.135Z"
+generated_at: "2026-11-23T21:26:32.265Z"
+status: "active"
 ---
 
 # § 1962d–21. John Glenn Great Lakes basin program
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:56:11.135Z"
 - **(e)** The Secretary may provide technical assistance to the Great Lakes States to develop interstate guidelines to improve the consistency and efficiency of State-level water use activities and policies in the Great Lakes basin.
 - **(f)** The Secretary may seek and accept funds from non-Federal entities to be used to pay up to 25 percent of the cost of carrying out subsections (b), (c), (d), and (e).
 - **(g)** The non-Federal interest may provide up to 100 percent of the non-Federal share required under subsection (f) in the form of in-kind services and materials.
+
+## Source Credit
+
+*([Pub. L. 106–53, title IV, § 455](https://www.govinfo.gov/link/plaw/106/public/53), Aug. 17, 1999, [113 Stat. 330](https://www.govinfo.gov/link/statute/113/330); [Pub. L. 110–114, title IV, § 4001](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1173](https://www.govinfo.gov/link/statute/121/1173).)*

@@ -3,9 +3,10 @@ title: "Section 10313 - Wages"
 usc_title: 46
 usc_section: "10313"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 10313"
-generated_at: "2026-03-30T02:56:15.553Z"
+generated_at: "2026-11-23T21:26:37.111Z"
+status: "active"
 ---
 
 # § 10313. Wages
@@ -26,3 +27,28 @@ generated_at: "2026-03-30T02:56:15.553Z"
     - **(B)** the receipt, by a seaman who is a claimant in the suit, of a payment of wages that are the subject of the suit that is made in the ordinary course of employment.
 - **(h)** Subsections (f) and (g) of this section do not apply to a fishing or whaling vessel or a yacht.
 - **(i)** This section applies to a seaman on a foreign vessel when in a harbor of the United States. The courts are available to the seaman for the enforcement of this section.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 10313(a) | 46:591 |
+| 10313(b) | 46:592 46:593 |
+| 10313(c) | 46:594 |
+| 10313(d) | 46:595 |
+| 10313(e)–(i) | 46:596 46:597 46:598 |
+
+
+Historical and Revision Notes
+
+10313(a)
+
+10313(b)
+
+10313(c)
+
+10313(d)
+
+10313(e)–(i)
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 566](https://www.govinfo.gov/link/statute/97/566); [Pub. L. 99–640, § 10(b)(4)](https://www.govinfo.gov/link/plaw/99/public/640), Nov. 10, 1986, [100 Stat. 3550](https://www.govinfo.gov/link/statute/100/3550); [Pub. L. 111–281, title IX, § 902(a)(1)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 3008](https://www.govinfo.gov/link/statute/124/3008).)*

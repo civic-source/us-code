@@ -3,9 +3,10 @@ title: "Section 719 - Congressional findings"
 usc_title: 15
 usc_section: "719"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 719"
-generated_at: "2026-03-30T02:54:08.119Z"
+generated_at: "2026-11-23T21:25:39.752Z"
+status: "active"
 ---
 
 # § 719. Congressional findings
@@ -16,3 +17,7 @@ The Congress finds and declares that—
   - **(2)** large reserves of natural gas in the State of Alaska could help significantly to alleviate this supply shortage;
   - **(3)** the expeditious construction of a viable natural gas transportation system for delivery of Alaska natural gas to United States markets is in the national interest; and
   - **(4)** the determinations whether to authorize a transportation system for delivery of Alaska natural gas to the contiguous States and, if so, which system to select, involve questions of the utmost importance respecting national energy policy, international relations, national security, and economic and environmental impact, and therefore should appropriately be addressed by the Congress and the President in addition to those Federal officers and agencies assigned functions under law pertaining to the selection, construction, and initial operation of such a system.
+
+## Source Credit
+
+*([Pub. L. 94–586, § 2](https://www.govinfo.gov/link/plaw/94/public/586), Oct. 22, 1976, [90 Stat. 2903](https://www.govinfo.gov/link/statute/90/2903).)*

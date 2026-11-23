@@ -3,9 +3,10 @@ title: "Section 114 - Transportation Security Administration"
 usc_title: 49
 usc_section: "114"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 114"
-generated_at: "2026-03-30T02:56:19.295Z"
+generated_at: "2026-11-23T21:26:40.581Z"
+status: "active"
 ---
 
 # § 114. Transportation Security Administration
@@ -279,3 +280,521 @@ generated_at: "2026-03-30T02:56:19.295Z"
     - **(H)** A description of any potential obstacles, including funding constraints and limitations to authorities, that could restrict the ability of the Administration to respond appropriately to a communicable disease outbreak.
   - **(4)** Upon development of the plan required under paragraph (1), the Administrator shall disseminate the plan to the partners identified under paragraph (3)(A) and to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate.
   - **(5)** Not later than two years after the date on which the plan is disseminated under paragraph (4), and biennially thereafter, the Secretary, acting through the Administrator and in coordination with the Chief Medical Officer of the Department of Homeland Security, shall review the plan and, after consultation with the partners identified under paragraphs (3)(A)(i) through (3)(A)(iv), update the plan as appropriate.
+
+In General
+
+Leadership.—
+
+Head of transportation security administration.—
+
+Appointment
+
+Qualifications
+
+Term
+
+Deputy administrator.—
+
+Appointment
+
+Vacancy
+
+Qualifications
+
+Chief counsel.—
+
+Appointment
+
+Qualifications
+
+Limitation on Ownership of Stocks and Bonds
+
+Functions
+
+Screening Operations
+
+Additional Duties and Powers
+
+National Emergency Responsibilities.—
+
+In general
+
+Authority of other departments and agencies
+
+Circumstances
+
+Management of Security Information
+
+View of NTSB
+
+Acquisitions.—
+
+In general
+
+Title
+
+Transfers of Funds
+
+Regulations.—
+
+In general
+
+Emergency procedures.—
+
+In general
+
+Review by transportation security oversight board
+
+Factors to consider
+
+Airworthiness objections by faa.—
+
+In general
+
+Review by secretary
+
+Personnel and Services; Cooperation by Administrator.—
+
+Authority of administrator
+
+Authority of agency heads
+
+Personnel Management System.—
+
+In general
+
+Meritorious executive or distinguished executive rank awards
+
+Definition of applicable sections of title 5
+
+Authority of Inspector General
+
+Law Enforcement Powers.—
+
+In general
+
+Powers
+
+Guidelines on exercise of authority
+
+Revocation or suspension of authority
+
+Authority To Exempt
+
+Nondisclosure of Security Activities.—
+
+In general
+
+Availability of information to congress
+
+Limitation on transferability of duties
+
+Limitations
+
+Transportation Security Strategic Planning.—
+
+In general
+
+Role of secretary of transportation
+
+Contents of national strategy for transportation security
+
+Submission of plans.—
+
+In general
+
+Periodic progress report.—
+
+Requirement for report
+
+Content
+
+(aa) funds requested in the President’s budget submitted pursuant to section 1105 of title 31 for the most recent fiscal year for transportation security, by mode;
+
+(bb) personnel working on transportation security by mode, including the number of contractors; and
+
+(cc) information on the turnover in the previous year among senior staff of the Department of Homeland Security, including component agencies, working on transportation security issues. Such information shall include the number of employees who have permanently left the office, agency, or area in which they worked, and the amount of time that they worked for the Department of Homeland Security.
+
+Written explanation of transportation security activities not delineated in the national strategy for transportation security
+
+Classified material
+
+Appropriate congressional committees defined
+
+Priority Status.—
+
+In general
+
+Other plans and reports
+
+Coordination
+
+Plan distribution
+
+Transportation Security Information Sharing Plan.—
+
+Definitions
+
+Appropriate congressional committees
+
+Plan
+
+Public and private stakeholders
+
+Transportation security information
+
+Establishment of plan
+
+Purpose of plan
+
+Content of plan
+
+Coordination with information sharing
+
+Annual report on plan
+
+Security clearances
+
+Classification of material
+
+Enforcement of Regulations and Orders of the Secretary of Homeland Security.—
+
+Application of subsection.—
+
+In general
+
+Violations of chapter 449
+
+Nonapplication to certain violations.—
+
+Civil penalty.—
+
+In general
+
+Repeat violations
+
+Administrative imposition of civil penalties.—
+
+In general
+
+Scope of civil action
+
+Jurisdiction
+
+Maximum penalty
+
+Notice and opportunity to request hearing
+
+Compromise and setoff.—
+
+Investigations and proceedings
+
+Definitions
+
+Person
+
+Small business concern
+
+Enforcement transparency.—
+
+In general
+
+Electronic availability
+
+Relationship to the freedom of information act and the privacy act
+
+Authorization of Appropriations
+
+Leadership and Organization.—
+
+In general
+
+Areas described
+
+Notification
+
+Transportation Security Preparedness Plan.—
+
+In general
+
+Considerations
+
+Contents of plan
+
+Dissemination
+
+Review of plan
+
+Appointment
+
+Qualifications
+
+Term
+
+In general
+
+Annual report
+
+Administrator
+
+HAZMAT endorsement
+
+State
+
+TSA
+
+TWIC
+
+Streamlining.—
+
+In general
+
+State requirements for streamlining
+
+Special rule
+
+Publication
+
+Expedited Rulemaking
+
+Briefing
+
+Audit
+
+Elements.—
+
+TSA audit
+
+State audit
+
+Report and Recommendations
+
+Implementation.—
+
+In general
+
+Briefings
+
+Coordination
+
+Briefing
+
+In general
+
+Briefing to congress
+
+Decisions not subject to judicial review
+
+Establishment; Appropriation
+
+Purpose
+
+Limitations.—
+
+Period of availability
+
+Total hours; amount
+
+Relationship to other leave
+
+Calculation of retirement benefit
+
+In General
+
+Detection Testing.—
+
+In general
+
+Results
+
+Coordination with final testing
+
+International standards
+
+Operational Testing.—
+
+In general
+
+Limitation
+
+Alternative
+
+Testing and Verification Framework.—
+
+In general
+
+Recommendations
+
+Field Testing
+
+Appropriate Third Parties.—
+
+Citizenship requirement
+
+Waiver
+
+Conflicts of interest
+
+GAO Review.—
+
+In general
+
+Review
+
+In General
+
+Requirements
+
+Staffing and Resource Allocation
+
+Deadline.—
+
+In general
+
+Notification
+
+Definition of delivery date
+
+Retesting and Evaluation
+
+Rule of Construction
+
+Definitions
+
+Public and private stakeholders
+
+Surface transportation asset
+
+Public Area Security Working Group.—
+
+Working group
+
+Annual report.—
+
+In general
+
+Publication
+
+Nonapplicability of faca
+
+Technical Assistance.—
+
+In general
+
+Best practices
+
+Review.—
+
+In general
+
+Consultation
+
+In General
+
+Information Sharing
+
+Mass Notification
+
+Public Awareness Programs
+
+Security Assessment.—
+
+In general
+
+Considerations
+
+Risk-based Surface Transportation Security Strategy.—
+
+In general
+
+Coordinated approach
+
+Report.—
+
+In general
+
+Protections
+
+Updates
+
+Report
+
+Budget Transparency
+
+Resource Reallocation.—
+
+In general
+
+Notification
+
+-year Capital Investment Plan
+
+Regulations.—
+
+In general
+
+Contents
+
+Inspector General Review
+
+In general
+
+Exception
+
+In General
+
+Scenarios
+
+Report
+
+Classification
+
+Framework
+
+Report
+
+Federal Security Directors
+
+Plan to Improve Information Sharing.—
+
+In general
+
+Contents
+
+Solicitation
+
+Best Practices Sharing.—
+
+In general
+
+Consultation
+
+Cybersecurity.—
+
+In general
+
+Cybersecurity enhancements to aviation security activities
+
+TSA trusted traveler and credentialing program cyber evaluation.—
+
+Evaluation required
+
+Submission to congress
+
+Definitions
+
+In general
+
+No report required if no changes in stakeholders
+
+In General
+
+Aviation Security
+
+In General
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 107–71, title I, § 101(a)](https://www.govinfo.gov/link/plaw/107/public/71), Nov. 19, 2001, [115 Stat. 597](https://www.govinfo.gov/link/statute/115/597); amended [Pub. L. 107–296, title XVI, § 1601(b)](https://www.govinfo.gov/link/plaw/107/public/296), title XVII, § 1707, Nov. 25, 2002, [116 Stat. 2312](https://www.govinfo.gov/link/statute/116/2312), 2318; [Pub. L. 108–7, div. I, title III, § 351(d)](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 420](https://www.govinfo.gov/link/statute/117/420); [Pub. L. 108–458, title IV, § 4001(a)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3710](https://www.govinfo.gov/link/statute/118/3710); [Pub. L. 110–53, title XII](https://www.govinfo.gov/link/plaw/110/public/53), §§ 1202, 1203(a), title XIII, § 1302(a), title XV, § 1503(a), Aug. 3, 2007, [121 Stat. 381](https://www.govinfo.gov/link/statute/121/381), 383, 390, 425; [Pub. L. 110–161, div. E, title V, § 568(a)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2092](https://www.govinfo.gov/link/statute/121/2092); [Pub. L. 111–83, title V, § 561(c)(1)](https://www.govinfo.gov/link/plaw/111/public/83), Oct. 28, 2009, [123 Stat. 2182](https://www.govinfo.gov/link/statute/123/2182); [Pub. L. 114–301, § 2(d)](https://www.govinfo.gov/link/plaw/114/public/301), Dec. 16, 2016, [130 Stat. 1514](https://www.govinfo.gov/link/statute/130/1514); [Pub. L. 115–254, div. K, title I](https://www.govinfo.gov/link/plaw/115/public/254), §§ 1903, 1904(a), (b)(1), 1905, 1909, 1988(c), Oct. 5, 2018, [132 Stat. 3543](https://www.govinfo.gov/link/statute/132/3543), 3544, 3546, 3549, 3623; [Pub. L. 117–81, div. F, title LXIV, § 6412(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2409](https://www.govinfo.gov/link/statute/135/2409); [Pub. L. 117–286, § 4(b)(95)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4353](https://www.govinfo.gov/link/statute/136/4353).)*

@@ -3,9 +3,10 @@ title: "Section 5926 - Compensatory time off at certain posts in foreign areas"
 usc_title: 5
 usc_section: "5926"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5926"
-generated_at: "2026-03-30T02:52:56.028Z"
+generated_at: "2026-11-23T21:25:23.305Z"
+status: "active"
 ---
 
 # § 5926. Compensatory time off at certain posts in foreign areas
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:52:56.028Z"
   - **(1)** at an isolated post performing functions required to be maintained on a substantially continuous basis, grant the employee compensatory time off for an equal amount of time spent in regularly scheduled overtime work; or
   - **(2)** at a post in a locality that customarily observes irregular hours of work or where other special conditions are present, in order to cope with those special circumstances, grant the employee compensatory time off for an equal amount of time spent in regularly scheduled overtime work for use during the pay period in which it is earned.
 - **(b)** Compensatory time earned under this section shall be for use only while the employee is assigned to the post where it is earned. Any such compensatory time not used at the time the employee is reassigned to another post shall be forfeited.
+
+## Source Credit
+
+*(Added [Pub. L. 95–426, title IV, § 411(a)](https://www.govinfo.gov/link/plaw/95/public/426), Oct. 7, 1978, [92 Stat. 980](https://www.govinfo.gov/link/statute/92/980).)*

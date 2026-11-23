@@ -3,9 +3,10 @@ title: "Section 4631 - Federal share of costs"
 usc_title: 42
 usc_section: "4631"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4631"
-generated_at: "2026-03-30T02:56:11.207Z"
+generated_at: "2026-11-23T21:26:32.682Z"
+status: "active"
 ---
 
 # § 4631. Federal share of costs
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:11.207Z"
 - **(a)** The cost to a displacing agency of providing payments and assistance under this subchapter and subchapter III of this chapter shall be included as part of the cost of a program or project undertaken by a Federal agency or with Federal financial assistance. A displacing agency, other than a Federal agency, shall be eligible for Federal financial assistance with respect to such payments and assistance in the same manner and to the same extent as other program or project costs.
 - **(b)** No payment or assistance under this subchapter or subchapter III of this chapter shall be required to be made to any person or included as a program or project cost under this section, if such person receives a payment required by Federal, State, or local law which is determined by the head of the Federal agency to have substantially the same purpose and effect as such payment under this section.
 - **(c)** Any grant to, or contract or agreement with, a State agency executed before January 2, 1971 , under which Federal financial assistance is available to pay all or part of the cost of any program or project which will result in the displacement of any person on or after January 2, 1971 , shall be amended to include the cost of providing payments and services under sections 4630 and 4655 of this title. If the head of a Federal agency determines that it is necessary for the expeditious completion of a program or project he may advance to the State agency the Federal share of the cost of any payments or assistance by such State agency pursuant to sections 4626, 4630, 4635, and 4655 of this title.
+
+## Source Credit
+
+*([Pub. L. 91–646, title II, § 211](https://www.govinfo.gov/link/plaw/91/public/646), Jan. 2, 1971, [84 Stat. 1900](https://www.govinfo.gov/link/statute/84/1900); [Pub. L. 100–17, title IV, § 411](https://www.govinfo.gov/link/plaw/100/public/17), Apr. 2, 1987, [101 Stat. 254](https://www.govinfo.gov/link/statute/101/254).)*

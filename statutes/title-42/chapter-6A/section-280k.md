@@ -3,9 +3,10 @@ title: "Section 280k - Oral healthcare prevention education campaign"
 usc_title: 42
 usc_section: "280k"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 280k"
-generated_at: "2026-03-30T02:56:10.735Z"
+generated_at: "2026-11-23T21:26:30.446Z"
+status: "active"
 ---
 
 # § 280k. Oral healthcare prevention education campaign
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:10.735Z"
     - **(B)** a State or tribal health department or State or tribal oral health program;
     - **(C)** an accredited dental education, dental hygiene, or postdoctoral dental education program; or
     - **(D)** a non-profit community-based organization that partners with public and private non-profit entities, such as an academic institution, to facilitate the provision of dental services to underserved populations.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 399LL, as added [Pub. L. 111–148, title IV, § 4102(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 550](https://www.govinfo.gov/link/statute/124/550); amended [Pub. L. 115–302, § 2(a)](https://www.govinfo.gov/link/plaw/115/public/302), Dec. 11, 2018, [132 Stat. 4396](https://www.govinfo.gov/link/statute/132/4396).)*

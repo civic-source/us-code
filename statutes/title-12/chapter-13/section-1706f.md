@@ -3,9 +3,10 @@ title: "Section 1706f - Prohibition against kickbacks and unearned fees"
 usc_title: 12
 usc_section: "1706f"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1706f"
-generated_at: "2026-03-30T02:53:53.409Z"
+generated_at: "2026-11-23T21:25:36.869Z"
+status: "active"
 ---
 
 # § 1706f. Prohibition against kickbacks and unearned fees
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:53.409Z"
   - **(1)** the term “federally related mortgage loan” as used in sections 2602, 2607, 2614, 2615, 2616, and 2617 of this title shall include an FHA-insured loan or extension of credit made to a borrower for the purpose of purchasing a manufactured home that the borrower intends to occupy as a personal residence; and
   - **(2)** the term “real estate settlement service” as used in sections 2602, 2607, 2614, 2615, 2616, and 2617 of this title shall include any service rendered in connection with a loan or extension of credit insured by the Federal Housing Administration for the purchase of a manufactured home.
 - **(d)** In connection with the purchase of a manufactured home financed with a loan or extension of credit insured by the Federal Housing Administration under this subchapter, the Secretary shall prohibit acts or practices in connection with loans or extensions of credit that the Secretary finds to be unfair, deceptive, or otherwise not in the interests of the borrower.
+
+## Source Credit
+
+*(June 27, 1934, ch. 847, title I, § 10, as added [Pub. L. 110–289, div. B, title I, § 2149](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2847](https://www.govinfo.gov/link/statute/122/2847).)*

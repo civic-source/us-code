@@ -3,9 +3,10 @@ title: "Section 602 - Eligible States; State plan"
 usc_title: 42
 usc_section: "602"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 602"
-generated_at: "2026-03-30T02:56:10.870Z"
+generated_at: "2026-11-23T21:26:31.066Z"
+status: "active"
 ---
 
 # § 602. Eligible States; State plan
@@ -58,3 +59,23 @@ generated_at: "2026-03-30T02:56:10.870Z"
       - **(iii)** the terms “sexual assault” and “stalking” have the meanings given such terms in section 12291 of title 34 .
 - **(b)** Within 30 days after a State amends a plan submitted pursuant to subsection (a), the State shall notify the Secretary of the amendment.
 - **(c)** The State shall make available to the public a summary of any plan or plan amendment submitted by the State under this section.
+
+Grants authorized.—
+
+Model training program
+
+Grants
+
+Eligible partner defined
+
+Report.—
+
+Report to congress
+
+Report available to public
+
+Authorization of appropriations
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 402, as added [Pub. L. 104–193, title I, § 103(a)(1)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2113](https://www.govinfo.gov/link/statute/110/2113); amended [Pub. L. 105–33, title V](https://www.govinfo.gov/link/plaw/105/public/33), §§ 5501, 5514(c), Aug. 5, 1997, [111 Stat. 606](https://www.govinfo.gov/link/statute/111/606), 620; [Pub. L. 106–169, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/106/public/169), Dec. 14, 1999, [113 Stat. 1858](https://www.govinfo.gov/link/statute/113/1858); [Pub. L. 111–148, title VI, § 6703(a)(2)(A)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 798](https://www.govinfo.gov/link/statute/124/798); [Pub. L. 112–96, title IV, § 4004(c)](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 198](https://www.govinfo.gov/link/statute/126/198); [Pub. L. 117–103, div. W, title VII, § 703(a)(1)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 892](https://www.govinfo.gov/link/statute/136/892).)*

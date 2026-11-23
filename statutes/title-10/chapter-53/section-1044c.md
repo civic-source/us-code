@@ -3,9 +3,10 @@ title: "Section 1044c - Advance medical directives of members and dependents: re
 usc_title: 10
 usc_section: "1044c"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1044c"
-generated_at: "2026-03-30T02:53:38.096Z"
+generated_at: "2026-11-23T21:25:32.378Z"
+status: "active"
 ---
 
 # § 1044c. Advance medical directives of members and dependents: requirement for recognition by States
@@ -24,3 +25,17 @@ generated_at: "2026-03-30T02:53:38.096Z"
   - **(1)** The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and a possession of the United States.
   - **(2)** The term “person eligible for legal assistance” means a person who is eligible for legal assistance under section 1044 of this title .
   - **(3)** The term “legal assistance” means legal services authorized under section 1044 of this title .
+
+Instruments To Be Given Legal Effect Without Regard to State Law
+
+Advance Medical Directives
+
+Statement To Be Included
+
+States Not Recognizing Advance Medical Directives
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title VII, § 749(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 388](https://www.govinfo.gov/link/statute/110/388).)*

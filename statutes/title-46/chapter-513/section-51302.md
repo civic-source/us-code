@@ -3,9 +3,10 @@ title: "Section 51302 - Nomination and competitive appointment of cadets"
 usc_title: 46
 usc_section: "51302"
 chapter: 513
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 51302"
-generated_at: "2026-03-30T02:56:15.569Z"
+generated_at: "2026-11-23T21:26:37.226Z"
+status: "active"
 ---
 
 # § 51302. Nomination and competitive appointment of cadets
@@ -33,3 +34,57 @@ generated_at: "2026-03-30T02:56:15.569Z"
   - **(2)** The Secretary shall appoint individuals to fill the positions allocated under subsection (c) for each jurisdiction in the order of merit of the individuals nominated from that jurisdiction.
   - **(3)** If positions remain unfilled after the appointments are made under paragraph (2), the Secretary shall appoint individuals to fill the positions in the order of merit of the remaining individuals nominated from all jurisdictions.
 - **(e)** When a nominee of a Senator, Representative, or Delegate is selected for appointment as a cadet, the Senator, Representative, or Delegate shall be notified at least 48 hours before the official notification or announcement of the appointment is made.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 51302(a) | 46 App.:1295b(b) (1)(A). | June 29, 1936, ch. 858 , title XIII, § 1303(b)(1)–(3)(A), as added Pub. L. 96–453, § 2 , Oct. 15, 1980 , 94 Stat. 1998 ; Pub. L. 101–595, title VII, § 708(1) , (2), Nov. 16, 1990 , 104 Stat. 2995 . |
+|  | 46 App.:1295b(b)(2) (A) (related to nominations). |  |
+| 51302(b) | 46 App.:1295b(b)(1) (less cl. (A)). |  |
+|  | 46 App.:1295b(b)(3) (A)(ii) (related to who may be nominated). |  |
+| 51302(c) | 46 App.:1295b(b)(3) (A) (less (ii) (related to who may be nominated)). |  |
+| 51302(d) | 46 App.:1295b(b)(2) (A) (related to selection), (B), (3)(B), (C). |  |
+
+
+Requirements
+
+Nominators
+
+Allocation of Positions
+
+Competitive System for Appointment
+
+Establishment of system
+
+Appointments by jurisdiction
+
+Remaining unfilled positions
+
+Congressional Notification in Advance of Appointments
+
+Historical and Revision Notes
+
+51302(a)
+
+June 29, 1936, ch. 858
+
+Pub. L. 96–453, § 2
+
+Oct. 15, 1980
+
+94 Stat. 1998
+
+Pub. L. 101–595, title VII, § 708(1)
+
+Nov. 16, 1990
+
+104 Stat. 2995
+
+51302(b)
+
+51302(c)
+
+51302(d)
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(b)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1570](https://www.govinfo.gov/link/statute/120/1570); [Pub. L. 111–383, div. C, title XXXV, § 3503](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4518](https://www.govinfo.gov/link/statute/124/4518); [Pub. L. 114–328, div. A, title V, § 566(d)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2139](https://www.govinfo.gov/link/statute/130/2139).)*

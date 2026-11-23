@@ -3,9 +3,10 @@ title: "Section 312 - Alternative timing system"
 usc_title: 49
 usc_section: "312"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 312"
-generated_at: "2026-03-30T02:56:19.299Z"
+generated_at: "2026-11-23T21:26:40.590Z"
+status: "active"
 ---
 
 # § 312. Alternative timing system
@@ -53,3 +54,43 @@ generated_at: "2026-03-30T02:56:19.299Z"
   - **(4)** The Secretary may not purchase timing system services from the entity for use by the Department of Transportation or for provision to other Federal and non-Federal governmental agencies until the system achieves operational status, and then only if the necessary funds for such purchases are provided for in subsequent yearly appropriations acts made available to the Secretary for each and every year in which such purchases are made.
   - **(5)** The Secretary may not enter into a cooperative agreement under this subsection unless the Secretary determines that the cooperative agreement is in the best financial interest of the Federal Government. The Secretary shall notify the Committee on Committee on 2 2 So in original. Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of such determination not later than 30 days after the date of the determination.
   - **(6)** In this subsection the term “entity” means a non-Federal entity with the demonstrated technical expertise and requisite administrative and financial resources to meet any terms and conditions established by the Secretary for purposes of this subsection.
+
+In General
+
+Establishment of Requirements.—
+
+In general
+
+Requirements
+
+Implementation Plan.—
+
+Plan required
+
+Deadline for commencement of operation
+
+Minimum duration of operational capability
+
+LORAN Facilities.—
+
+In general
+
+CERCLA not affected
+
+Cooperative Agreement.—
+
+In general
+
+Requirements
+
+Competition required
+
+Authorization to purchase services
+
+Determination requirement
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 115–282, title V, § 514(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4276](https://www.govinfo.gov/link/statute/132/4276); amended [Pub. L. 116–283, div. G, title LVXXXV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXV], § 8507(d)(2), Jan. 1, 2021, [134 Stat. 4754](https://www.govinfo.gov/link/statute/134/4754); [Pub. L. 117–103, div. L, title I, § 109A](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 691](https://www.govinfo.gov/link/statute/136/691).)*

@@ -3,9 +3,10 @@ title: "Section 195 - Start-up expenditures"
 usc_title: 26
 usc_section: "195"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 195"
-generated_at: "2026-03-30T02:55:27.650Z"
+generated_at: "2026-11-23T21:26:06.084Z"
+status: "active"
 ---
 
 # § 195. Start-up expenditures
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:27.650Z"
 - **(d)**
   - **(1)** An election under subsection (b) shall be made not later than the time prescribed by law for filing the return for the taxable year in which the trade or business begins (including extensions thereof).
   - **(2)** The period selected under subsection (b) shall be adhered to in computing taxable income for the taxable year for which the election is made and all subsequent taxable years.
+
+## Source Credit
+
+*(Added [Pub. L. 96–605, title I, § 102(a)](https://www.govinfo.gov/link/plaw/96/public/605), Dec. 28, 1980, [94 Stat. 3522](https://www.govinfo.gov/link/statute/94/3522); amended [Pub. L. 98–369, div. A, title I, § 94(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 614](https://www.govinfo.gov/link/statute/98/614); [Pub. L. 108–357, title VIII, § 902(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1651](https://www.govinfo.gov/link/statute/118/1651); [Pub. L. 111–240, title II, § 2031(a)](https://www.govinfo.gov/link/plaw/111/public/240), Sept. 27, 2010, [124 Stat. 2559](https://www.govinfo.gov/link/statute/124/2559); [Pub. L. 119–21, title VII, § 70302(b)(6)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 192](https://www.govinfo.gov/link/statute/139/192).)*

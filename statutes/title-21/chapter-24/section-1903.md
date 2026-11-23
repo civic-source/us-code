@@ -3,9 +3,10 @@ title: "Section 1903 - Public identification of significant foreign narcotics tr
 usc_title: 21
 usc_section: "1903"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 1903"
-generated_at: "2026-03-30T02:54:54.307Z"
+generated_at: "2026-11-23T21:25:56.294Z"
+status: "active"
 ---
 
 # § 1903. Public identification of significant foreign narcotics traffickers and required reports
@@ -41,3 +42,11 @@ generated_at: "2026-03-30T02:54:54.307Z"
     - **(A)** Whenever the President finds that a foreign person that has been publicly identified as a significant foreign narcotics trafficker in the report required under subsection (b) or this subsection no longer engages in those activities for which sanctions under this chapter may be applied, the President shall issue public notice of such a finding.
     - **(B)** Not later than the date of the public notice issued pursuant to subparagraph (A), the President shall notify, in writing and in classified or unclassified form, the Permanent Select Committee on Intelligence, and the Committees on the Judiciary, International Relations, Armed Services, and Ways and Means of the House of Representatives, and the Select Committee on Intelligence, and the Committees on the Judiciary, Foreign Relations, Armed Services, and Finance of the Senate of actions taken under this paragraph and a description of the basis for such actions.
 - **(i)** In any judicial review of a determination made under this section, if the determination was based on classified information (as defined in section 1(a) of the Classified Information Procedures Act) such information may be submitted to the reviewing court ex parte and in camera. This subsection does not confer or imply any right to judicial review.
+
+Barack Obama.
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 106–120, title VIII, § 804](https://www.govinfo.gov/link/plaw/106/public/120), Dec. 3, 1999, [113 Stat. 1626](https://www.govinfo.gov/link/statute/113/1626); [Pub. L. 114–198, title VIII, § 801](https://www.govinfo.gov/link/plaw/114/public/198), July 22, 2016, [130 Stat. 755](https://www.govinfo.gov/link/statute/130/755).)*

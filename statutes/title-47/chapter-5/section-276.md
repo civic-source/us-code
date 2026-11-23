@@ -3,9 +3,10 @@ title: "Section 276 - Provision of payphone service"
 usc_title: 47
 usc_section: "276"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 276"
-generated_at: "2026-03-30T02:56:24.503Z"
+generated_at: "2026-11-23T21:26:35.976Z"
+status: "active"
 ---
 
 # § 276. Provision of payphone service
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:24.503Z"
   - **(3)** Nothing in this section shall affect any existing contracts between location providers and payphone service providers or interLATA or intraLATA carriers that are in force and effect as of February 8, 1996 .
 - **(c)** To the extent that any State requirements are inconsistent with the Commission’s regulations, the Commission’s regulations on such matters shall preempt such State requirements.
 - **(d)** As used in this section, the term “payphone service” means the provision of public or semi-public pay telephones, the provision of inmate telephone service and advanced communications services described in subparagraphs (A), (B), (D), and (E) of section 153(1) of this title in correctional institutions, and any ancillary services.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title II, § 276, as added [Pub. L. 104–104, title I, § 151(a)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [10 Stat. 106](https://www.govinfo.gov/link/statute/10/106); amended [Pub. L. 117–338, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/338), Jan. 5, 2023, [136 Stat. 6156](https://www.govinfo.gov/link/statute/136/6156).)*

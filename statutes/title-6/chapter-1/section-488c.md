@@ -3,9 +3,10 @@ title: "Section 488c - Administrative provisions"
 usc_title: 6
 usc_section: "488c"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 488c"
-generated_at: "2026-03-30T02:53:09.468Z"
+generated_at: "2026-11-23T21:25:25.801Z"
+status: "active"
 ---
 
 # § 488c. Administrative provisions
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:09.468Z"
     - **(B)** Materials made available under subparagraph (A) shall be designed to notify prospective ammonium nitrate purchasers of—
       - **(i)** the record-keeping requirements under section 488a of this title ; and
       - **(ii)** the penalties for violating such requirements.
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 899D](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 110–161, div. E, title V, § 563(a)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2087](https://www.govinfo.gov/link/statute/121/2087).)*

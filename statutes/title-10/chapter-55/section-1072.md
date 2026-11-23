@@ -3,9 +3,10 @@ title: "Section 1072 - Definitions"
 usc_title: 10
 usc_section: "1072"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1072"
-generated_at: "2026-03-30T02:53:38.098Z"
+generated_at: "2026-11-23T21:25:32.388Z"
+status: "active"
 ---
 
 # § 1072. Definitions
@@ -60,3 +61,22 @@ In this chapter:
   - **(13)** The term “TRICARE for Life” means the Medicare wraparound coverage option of the TRICARE program made available to the beneficiary by reason of section 1086(d) of this title .
   - **(14)** The term “TRICARE Prime” means the managed care option of the TRICARE program.
   - **(15)** The term “TRICARE Standard” means the TRICARE program made available prior to January 1, 2018 , covering health benefits contracted for under the authority of section 1079(a) or 1086(a) of this title and subject to the same rates and conditions as apply to persons covered under those sections.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1072(1) 1072(2) | 37:402(a)(1). 37:402(a)(4). | June 7, 1956, ch. 374, § 102(a)(1) , (4), 70 Stat. 250 . |
+
+
+Historical and Revision Notes
+
+1072(1)
+
+1072(2)
+
+June 7, 1956, ch. 374, § 102(a)(1)
+
+70 Stat. 250
+
+## Source Credit
+
+*(Added [Pub. L. 85–861, § 1(25)(B)](https://www.govinfo.gov/link/plaw/85/public/861), Sept. 2, 1958, [72 Stat. 1446](https://www.govinfo.gov/link/statute/72/1446); amended [Pub. L. 89–614, § 2(1)](https://www.govinfo.gov/link/plaw/89/public/614), Sept. 30, 1966, [80 Stat. 862](https://www.govinfo.gov/link/statute/80/862); [Pub. L. 89–718, § 8(a)](https://www.govinfo.gov/link/plaw/89/public/718), Nov. 2, 1966, [80 Stat. 1117](https://www.govinfo.gov/link/statute/80/1117); [Pub. L. 96–513, title I, § 115(b)](https://www.govinfo.gov/link/plaw/96/public/513), title V, § 511(34)(A), (35), (36), Dec. 12, 1980, [94 Stat. 2877](https://www.govinfo.gov/link/statute/94/2877), 2922, 2923; [Pub. L. 97–252, title X, § 1004(a)](https://www.govinfo.gov/link/plaw/97/public/252), Sept. 8, 1982, [96 Stat. 737](https://www.govinfo.gov/link/statute/96/737); [Pub. L. 98–525, title VI, § 645(a)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2548](https://www.govinfo.gov/link/statute/98/2548); [Pub. L. 98–557, § 19(1)](https://www.govinfo.gov/link/plaw/98/public/557), Oct. 30, 1984, [98 Stat. 2869](https://www.govinfo.gov/link/statute/98/2869); [Pub. L. 99–661, div. A, title VII, § 701(b)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3898](https://www.govinfo.gov/link/statute/100/3898); [Pub. L. 101–189, div. A, title VII, § 731(a)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1481](https://www.govinfo.gov/link/statute/103/1481); [Pub. L. 102–484, div. A, title VII, § 706](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2433](https://www.govinfo.gov/link/statute/106/2433); [Pub. L. 103–160, div. A, title VII, § 702(a)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1686](https://www.govinfo.gov/link/statute/107/1686); [Pub. L. 103–337, div. A, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2797](https://www.govinfo.gov/link/statute/108/2797); [Pub. L. 105–85, div. A, title VII, § 711](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1808](https://www.govinfo.gov/link/statute/111/1808); [Pub. L. 107–107, div. A, title VII, § 701(c)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1160](https://www.govinfo.gov/link/statute/115/1160); [Pub. L. 109–163, div. A, title V, § 592(b)](https://www.govinfo.gov/link/plaw/109/public/163), title X, § 1057(a)(2), Jan. 6, 2006, [119 Stat. 3280](https://www.govinfo.gov/link/statute/119/3280), 3440; [Pub. L. 110–181, div. A, title VII, § 708(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 190](https://www.govinfo.gov/link/statute/122/190); [Pub. L. 114–328, div. A, title VII, § 701(j)(1)(A)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2191](https://www.govinfo.gov/link/statute/130/2191); [Pub. L. 115–91, div. A, title VII, § 739(a)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1446](https://www.govinfo.gov/link/statute/131/1446).)*

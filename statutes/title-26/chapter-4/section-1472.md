@@ -3,9 +3,10 @@ title: "Section 1472 - Withholdable payments to other foreign entities"
 usc_title: 26
 usc_section: "1472"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1472"
-generated_at: "2026-03-30T02:55:27.777Z"
+generated_at: "2026-11-23T21:26:06.515Z"
+status: "active"
 ---
 
 # § 1472. Withholdable payments to other foreign entities
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:27.777Z"
     - **(G)** any other class of persons identified by the Secretary for purposes of this subsection, and
   - **(2)** any class of payments identified by the Secretary for purposes of this subsection as posing a low risk of tax evasion.
 - **(d)** For purposes of this section, the term “non-financial foreign entity” means any foreign entity which is not a financial institution (as defined in section 1471(d)(5)).
+
+## Source Credit
+
+*(Added [Pub. L. 111–147, title V, § 501(a)](https://www.govinfo.gov/link/plaw/111/public/147), Mar. 18, 2010, [124 Stat. 102](https://www.govinfo.gov/link/statute/124/102).)*

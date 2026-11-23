@@ -3,9 +3,10 @@ title: "Section 2083 - Congressional veto of consumer product safety rules"
 usc_title: 15
 usc_section: "2083"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2083"
-generated_at: "2026-03-30T02:54:08.166Z"
+generated_at: "2026-11-23T21:25:39.913Z"
+status: "active"
 ---
 
 # § 2083. Congressional veto of consumer product safety rules
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:08.166Z"
 - **(d)** For purposes of this section—
   - **(1)** continuity of session is broken only by an adjournment of the Congress sine die; and
   - **(2)** the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of the periods of continuous session of the Congress specified in subsection (b).
+
+## Source Credit
+
+*([Pub. L. 92–573, § 36](https://www.govinfo.gov/link/plaw/92/public/573), as added [Pub. L. 97–35, title XII, § 1207(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 718](https://www.govinfo.gov/link/statute/95/718).)*

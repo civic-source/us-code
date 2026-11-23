@@ -3,9 +3,10 @@ title: "Section 200306 - Allocation of Fund amounts for Federal purposes"
 usc_title: 54
 usc_section: "200306"
 chapter: 2003
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "54 U.S.C. § 200306"
-generated_at: "2026-03-30T02:56:28.421Z"
+generated_at: "2026-11-23T21:26:42.792Z"
+status: "active"
 ---
 
 # § 200306. Allocation of Fund amounts for Federal purposes
@@ -42,3 +43,114 @@ generated_at: "2026-03-30T02:56:28.421Z"
   - **(5)** geographic distribution;
   - **(6)** threats to the integrity of the land; and
   - **(7)** the recreational value of the land.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 200306 | 16 U.S.C. 460 l –9(a), (b). | Pub. L. 88–578, title I, § 7 , formerly § 6, Sept. 3, 1964 , 78 Stat. 903 ; Pub. L. 90–401, § 1(c) , July 15, 1968 , 82 Stat. 355 ; renumbered § 7, Pub. L. 92–347, § 2 , July 11, 1972 , 86 Stat. 459 ; amended Pub. L. 93–205, § 13(c) , Dec. 28, 1973 , 87 Stat. 902 ; Pub. L. 94–422, title I, § 101(4) , Sept. 28, 1976 , 90 Stat. 1317 ; Pub. L. 95–42, § 1(3) –(5), June 10, 1977 , 91 Stat. 210 , 211; Pub. L. 96–203, § 2 , Mar. 10, 1980 , 94 Stat. 81 ; Pub. L. 99–645, title III, § 302 , Nov. 10, 1986 , 100 Stat. 3587 ; Pub. L. 103–437, § 6(p)(3) , Nov. 2, 1994 , 108 Stat. 4586 ; Pub. L. 104–333, div. I, title VIII, § 814(b) , (d)(2)(C), Nov. 12, 1996 , 110 Stat. 4194 , 4196; Pub. L. 106–176, title I , §§ 120(b), 129, Mar. 10, 2000 , 114 Stat. 28 , 30. |
+
+
+Allowable Purposes and Subpurposes.—
+
+In general
+
+Acquisition of land, water, or an interest in land or water.—
+
+System units and recreation areas administered for recreation purposes
+
+National forest system.—
+
+In general
+
+Adjacent land
+
+Endangered species and threatened species; fish and wildlife refuge areas; national wildlife refuge system
+
+Payment as offset of capital costs
+
+Availability of appropriations
+
+Acquisition Restrictions
+
+Recreational Public Access.—
+
+In general
+
+Priority list
+
+Acquisition Considerations
+
+Historical and Revision Notes
+
+200306
+
+16 U.S.C. 460
+
+Pub. L. 88–578, title I, § 7
+
+Sept. 3, 1964
+
+78 Stat. 903
+
+Pub. L. 90–401, § 1(c)
+
+July 15, 1968
+
+82 Stat. 355
+
+Pub. L. 92–347, § 2
+
+July 11, 1972
+
+86 Stat. 459
+
+Pub. L. 93–205, § 13(c)
+
+Dec. 28, 1973
+
+87 Stat. 902
+
+Pub. L. 94–422, title I, § 101(4)
+
+Sept. 28, 1976
+
+90 Stat. 1317
+
+Pub. L. 95–42, § 1(3)
+
+June 10, 1977
+
+91 Stat. 210
+
+Pub. L. 96–203, § 2
+
+Mar. 10, 1980
+
+94 Stat. 81
+
+Pub. L. 99–645, title III, § 302
+
+Nov. 10, 1986
+
+100 Stat. 3587
+
+Pub. L. 103–437, § 6(p)(3)
+
+Nov. 2, 1994
+
+108 Stat. 4586
+
+Pub. L. 104–333, div. I, title VIII, § 814(b)
+
+Nov. 12, 1996
+
+110 Stat. 4194
+
+Pub. L. 106–176, title I
+
+Mar. 10, 2000
+
+114 Stat. 28
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3177](https://www.govinfo.gov/link/statute/128/3177); [Pub. L. 116–9, title III, § 3001(d)](https://www.govinfo.gov/link/plaw/116/public/9), (e), Mar. 12, 2019, [133 Stat. 755](https://www.govinfo.gov/link/statute/133/755); [Pub. L. 116–152, § 3(b)(2)](https://www.govinfo.gov/link/plaw/116/public/152), Aug. 4, 2020, [134 Stat. 687](https://www.govinfo.gov/link/statute/134/687).)*

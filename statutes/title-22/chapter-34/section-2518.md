@@ -3,9 +3,10 @@ title: "Section 2518 - Seal and name"
 usc_title: 22
 usc_section: "2518"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2518"
-generated_at: "2026-03-30T02:55:05.372Z"
+generated_at: "2026-11-23T21:25:58.508Z"
+status: "active"
 ---
 
 # § 2518. Seal and name
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.372Z"
 - **(b)**
   - **(1)** The use of the official seal or emblem and the use of the name “Peace Corps” shall be restricted exclusively to designate programs authorized under this chapter.
   - **(2)** Whoever, whether an individual, partnership, corporation, or association, uses the seal for which provision is made in this section, or any sign, insignia, or symbol in colorable imitation thereof, or the words “Peace Corps” or any combination of these or other words or characters in colorable imitation thereof, other than to designate programs authorized under this chapter, shall be fined not more than $500 or imprisoned not more than six months, or both. A violation of this subsection may be enjoined at the suit of the Attorney General, United States attorneys, or other persons duly authorized to represent the United States.
+
+## Source Credit
+
+*([Pub. L. 87–293, title I, § 19](https://www.govinfo.gov/link/plaw/87/public/293), Sept. 22, 1961, [75 Stat. 623](https://www.govinfo.gov/link/statute/75/623); [Pub. L. 88–200, § 7](https://www.govinfo.gov/link/plaw/88/public/200), Dec. 13, 1963, [77 Stat. 360](https://www.govinfo.gov/link/statute/77/360).)*

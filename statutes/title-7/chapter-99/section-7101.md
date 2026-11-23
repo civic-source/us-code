@@ -3,9 +3,10 @@ title: "Section 7101 - Findings and declaration of policy"
 usc_title: 7
 usc_section: "7101"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7101"
-generated_at: "2026-03-30T02:53:42.443Z"
+generated_at: "2026-11-23T21:25:28.412Z"
+status: "active"
 ---
 
 # § 7101. Findings and declaration of policy
@@ -23,3 +24,57 @@ generated_at: "2026-03-30T02:53:42.443Z"
   - **(2)** maintain and expand existing domestic and foreign markets and uses for sheep and sheep products; and
   - **(3)** develop new markets and uses for sheep and sheep products.
 - **(c)** Nothing in this chapter provides for the control of production, or otherwise limits, the right of any person to produce sheep or sheep products.
+
+Establishment of Trust Fund
+
+Distribution of Funds.—
+
+In general
+
+Submission of affidavits
+
+Payment of Amounts
+
+Memoranda of Understanding
+
+Increase in Payments in the Event of Expiration of Duty Suspensions.—
+
+In general
+
+No appeal of determinations
+
+Funding.—
+
+In general
+
+Availability
+
+In General
+
+Authorization to Distribute Unexpended Balance
+
+Establishment
+
+Transfer of Amounts
+
+In general
+
+Limitation
+
+Transfers based on estimates
+
+Investment of Trust Fund
+
+In general
+
+Interest and proceeds from sale or redemption of obligations
+
+Availability of Amounts from Trust Fund
+
+Reports to Congress
+
+Sunset Provision
+
+## Source Credit
+
+*([Pub. L. 103–407, § 2](https://www.govinfo.gov/link/plaw/103/public/407), Oct. 22, 1994, [108 Stat. 4210](https://www.govinfo.gov/link/statute/108/4210).)*

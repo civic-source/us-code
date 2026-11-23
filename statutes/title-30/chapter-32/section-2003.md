@@ -3,9 +3,10 @@ title: "Section 2003 - Methane hydrate research and development program"
 usc_title: 30
 usc_section: "2003"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 2003"
-generated_at: "2026-03-30T02:55:29.410Z"
+generated_at: "2026-11-23T21:26:00.452Z"
+status: "active"
 ---
 
 # § 2003. Methane hydrate research and development program
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:55:29.410Z"
   - **(4)** promote cooperation among agencies that are developing technologies that may hold promise for methane hydrate resource development;
   - **(5)** report annually to Congress on the results of actions taken to carry out this chapter; and
   - **(6)** ensure, to the maximum extent practicable, greater participation by the Department of Energy in international cooperative efforts.
+
+## Source Credit
+
+*([Pub. L. 106–193, § 4](https://www.govinfo.gov/link/plaw/106/public/193), as added [Pub. L. 109–58, title IX, § 968(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 895](https://www.govinfo.gov/link/statute/119/895).)*

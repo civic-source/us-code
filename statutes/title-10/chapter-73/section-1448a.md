@@ -3,9 +3,10 @@ title: "Section 1448a - Election to discontinue participation: one-year opportun
 usc_title: 10
 usc_section: "1448a"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1448a"
-generated_at: "2026-03-30T02:53:38.122Z"
+generated_at: "2026-11-23T21:25:32.482Z"
+status: "active"
 ---
 
 # § 1448a. Election to discontinue participation: one-year opportunity after second anniversary of commencement of payment of retired pay
@@ -21,3 +22,29 @@ generated_at: "2026-03-30T02:53:38.122Z"
 - **(f)** The Secretary concerned shall notify any former spouse or other natural person previously designated under section 1448(b) of this title of an election to discontinue participation under subsection (a).
 - **(g)** An election under subsection (a) is effective as of the first day of the first calendar month following the month in which the election is received by the Secretary concerned.
 - **(h)** Paragraphs (4)(B) and (5)(C) of section 1448(a) of this title do not apply to prevent an election under subsection (a).
+
+Authority
+
+Concurrence of Spouse.—
+
+Concurrence required
+
+Exceptions
+
+Form of concurrence
+
+Limitation on Election When Former Spouse Coverage in Effect
+
+Withdrawal of Election To Discontinue
+
+Consequences of Discontinuation
+
+Notice to Affected Beneficiaries
+
+Effective Date of Election
+
+Inapplicability of Irrevocability Provisions
+
+## Source Credit
+
+*(Added [Pub. L. 105–85, div. A, title VI, § 641(a)(1)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1797](https://www.govinfo.gov/link/statute/111/1797).)*

@@ -3,9 +3,10 @@ title: "Section 1986 - Agreements with and other provisions related to the Repub
 usc_title: 48
 usc_section: "1986"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1986"
-generated_at: "2026-03-30T02:56:14.599Z"
+generated_at: "2026-11-23T21:26:38.134Z"
+status: "active"
 ---
 
 # § 1986. Agreements with and other provisions related to the Republic of Palau
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:14.599Z"
   - **(2)** Not later than 90 days after the date on which the Government of the Republic of Palau submits a report required under the 2023 U.S.-Palau Compact Review Agreement, or any related subsidiary agreement, the Secretary of the Interior shall submit to the appropriate committees of Congress—
     - **(A)** if the report is submitted by the applicable deadline, written notice attesting that the report is complete and accurate; or
     - **(B)** if the report is not submitted by the applicable deadline, written notice that the report has not been timely submitted.
+
+## Source Credit
+
+*([Pub. L. 118–42, div. G, title II, § 207](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 433](https://www.govinfo.gov/link/statute/138/433).)*

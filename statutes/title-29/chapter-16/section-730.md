@@ -3,9 +3,10 @@ title: "Section 730 - State allotments"
 usc_title: 29
 usc_section: "730"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 730"
-generated_at: "2026-03-30T02:55:18.693Z"
+generated_at: "2026-11-23T21:26:02.204Z"
+status: "active"
 ---
 
 # § 730. State allotments
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:18.693Z"
 - **(d)**
   - **(1)** From any State allotment under subsection (a) for a fiscal year, the State shall reserve not less than 15 percent of the allotted funds for the provision of pre-employment transition services.
   - **(2)** Such reserved funds shall not be used to pay for the administrative costs of providing pre-employment transition services.
+
+## Source Credit
+
+*([Pub. L. 93–112, title I, § 110](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 105–220, title IV, § 404](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1160](https://www.govinfo.gov/link/statute/112/1160); amended [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(7)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–413; [Pub. L. 113–128, title IV, § 419](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1656](https://www.govinfo.gov/link/statute/128/1656).)*

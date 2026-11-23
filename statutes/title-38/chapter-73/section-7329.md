@@ -3,9 +3,10 @@ title: "Section 7329 - Parkinson’s Disease research, education, and clinical c
 usc_title: 38
 usc_section: "7329"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7329"
-generated_at: "2026-03-30T02:55:53.528Z"
+generated_at: "2026-11-23T21:26:16.858Z"
+status: "active"
 ---
 
 # § 7329. Parkinson’s Disease research, education, and clinical centers
@@ -42,3 +43,21 @@ generated_at: "2026-03-30T02:55:53.528Z"
 - **(e)** Before providing funds for the operation of a center designated under subsection (a) at a Department health-care facility other than at a facility designated pursuant to subsection (b)(2), the Secretary shall ensure that each Parkinson’s Disease center at a facility designated pursuant to subsection (b)(2) is receiving adequate funding to enable that center to function effectively in the areas of Parkinson’s Disease research, education, and clinical activities.
 - **(f)** There are authorized to be appropriated such sums as may be necessary for the support of the research and education activities of the centers established pursuant to subsection (a). The Under Secretary for Health shall allocate to such centers from other funds appropriated generally for the Department medical services account and medical and prosthetics research account, as appropriate, such amounts as the Under Secretary for Health determines appropriate.
 - **(g)** Activities of clinical and scientific investigation at each center established under subsection (a) shall be eligible to compete for the award of funding from funds appropriated for the Department medical and prosthetics research account. Such activities shall receive priority in the award of funding from such account insofar as funds are awarded to projects for research in Parkinson’s Disease and other movement disorders.
+
+Establishment of Centers
+
+Criteria for Designation of Facilities
+
+Requirements for Designation
+
+Peer Review Panel
+
+Priority of Funding
+
+Authorization of Appropriations
+
+Award Competitions
+
+## Source Credit
+
+*(Added [Pub. L. 109–461, title II, § 209(a)(1)](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3413](https://www.govinfo.gov/link/statute/120/3413); amended [Pub. L. 117–286, § 4(a)(223)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4330](https://www.govinfo.gov/link/statute/136/4330).)*

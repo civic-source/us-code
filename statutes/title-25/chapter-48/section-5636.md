@@ -3,9 +3,10 @@ title: "Section 5636 - Cost savings"
 usc_title: 25
 usc_section: "5636"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5636"
-generated_at: "2026-03-30T02:54:52.873Z"
+generated_at: "2026-11-23T21:25:54.739Z"
+status: "active"
 ---
 
 # § 5636. Cost savings
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:52.873Z"
   - **(4)** the Committee on Natural Resources of the House of Representatives;
   - **(5)** the Committee on Appropriations of the Senate; and
   - **(6)** the Committee on Indian Affairs of the Senate.
+
+## Source Credit
+
+*([Pub. L. 114–178, title III, § 306](https://www.govinfo.gov/link/plaw/114/public/178), June 22, 2016, [130 Stat. 442](https://www.govinfo.gov/link/statute/130/442).)*

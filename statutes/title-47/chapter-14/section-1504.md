@@ -3,9 +3,10 @@ title: "Section 1504 - Broadband infrastructure deployment"
 usc_title: 47
 usc_section: "1504"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1504"
-generated_at: "2026-03-30T02:56:24.536Z"
+generated_at: "2026-11-23T21:26:36.107Z"
+status: "active"
 ---
 
 # § 1504. Broadband infrastructure deployment
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:24.536Z"
     - **(D)** coordinate initiatives carried out under this section with other statewide telecommunication and broadband plans and State and local transportation and land use plans, including strategies to minimize repeated excavations that involve the installation of broadband infrastructure in a right-of-way.
   - **(2)** If a State chooses to provide for the installation of broadband infrastructure in the right-of-way of an applicable Federal-aid highway project under this subsection, the State department of transportation shall carry out any appropriate measures to ensure that any existing broadband infrastructure entities are not disadvantaged, as compared to other broadband infrastructure entities, with respect to the program under this subsection.
 - **(c)** This section applies only to activities for which Federal obligations or expenditures are initially approved on or after the date regulations under subsection (b) become effective. Nothing in this section establishes a mandate or requirement that a State install or allow the installation of broadband infrastructure in a highway right-of-way. Nothing in this section authorizes the Secretary of Transportation to withhold or reserve funds or approval of a project under title 23.
+
+## Source Credit
+
+*([Pub. L. 115–141, div. P, title VI, § 607](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1104](https://www.govinfo.gov/link/statute/132/1104).)*

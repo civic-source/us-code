@@ -3,9 +3,10 @@ title: "Section 803 - Life insurance gross income"
 usc_title: 26
 usc_section: "803"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 803"
-generated_at: "2026-03-30T02:55:27.729Z"
+generated_at: "2026-11-23T21:26:06.382Z"
+status: "active"
 ---
 
 # § 803. Life insurance gross income
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:27.729Z"
   - **(2)** For purposes of subsection (a)(1)(B)—
     - **(A)** Except as provided in subparagraph (B), the term “return premiums” does not include any policyholder dividends.
     - **(B)** Subparagraph (A) shall not apply to amounts of premiums or other consideration returned to another life insurance company in respect of indemnity reinsurance.
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title II, § 211(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 721](https://www.govinfo.gov/link/statute/98/721).)*

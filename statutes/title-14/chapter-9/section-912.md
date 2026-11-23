@@ -3,9 +3,10 @@ title: "Section 912 - Air facility closures"
 usc_title: 14
 usc_section: "912"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 912"
-generated_at: "2026-03-30T02:53:51.491Z"
+generated_at: "2026-11-23T21:25:35.387Z"
+status: "active"
 ---
 
 # § 912. Air facility closures
@@ -34,3 +35,25 @@ generated_at: "2026-03-30T02:53:51.491Z"
       - **(viii)** The Committee on Commerce, Science, and Transportation of the Senate.
   - **(5)** The Secretary may not close, cease operations, or significantly reduce personnel and use of a Coast Guard air facility for which a written notice is provided under paragraph (4)(A) until a period of 18 months beginning on the date on which such notice is provided has elapsed.
 - **(b)** The Secretary may implement any reasonable management efficiencies within the air station and air facility network, such as modifying the operational posture of units or reallocating resources as necessary to ensure the safety of the maritime public nationwide.
+
+Closures.—
+
+In general
+
+Determinations
+
+Public notice and comment.—
+
+In general
+
+Public meetings
+
+Notice to congress
+
+Congressional review
+
+Operational Flexibility
+
+## Source Credit
+
+*(Added [Pub. L. 114–120, title II, § 208(a)](https://www.govinfo.gov/link/plaw/114/public/120), Feb. 8, 2016, [130 Stat. 38](https://www.govinfo.gov/link/statute/130/38), § 676a; amended [Pub. L. 114–328, div. C, title XXXV, § 3503(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2775](https://www.govinfo.gov/link/statute/130/2775); renumbered § 912 and amended [Pub. L. 115–282, title I, § 107(b)](https://www.govinfo.gov/link/plaw/115/public/282), title III, § 319, Dec. 4, 2018, [132 Stat. 4205](https://www.govinfo.gov/link/statute/132/4205), 4252.)*

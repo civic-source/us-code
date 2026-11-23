@@ -3,9 +3,10 @@ title: "Section 24321 - Food and beverage service"
 usc_title: 49
 usc_section: "24321"
 chapter: 243
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 24321"
-generated_at: "2026-03-30T02:56:19.345Z"
+generated_at: "2026-11-23T21:26:40.742Z"
+status: "active"
 ---
 
 # § 24321. Food and beverage service
@@ -26,3 +27,19 @@ generated_at: "2026-03-30T02:56:19.345Z"
   - **(6)** any other issue that the working group determines to be appropriate.
 - **(c)** Not later than 180 days after the submission of the report pursuant to subsection (b), Amtrak shall submit a plan for implementing the recommendations of the working group, and an explanation for any of the working group’s recommendations it does not agree with and does not plan on implementing to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 - **(d)** Amtrak shall ensure that no Amtrak employee who held a position on a long-distance or Northeast Corridor route as of the date of enactment of the Passenger Rail Expansion and Rail Safety Act of 2021, is involuntarily separated because of the development and implementation of the plan required under this section.
+
+Working Group.—
+
+Establishment
+
+Membership
+
+Report
+
+Implementation
+
+Savings Clause
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title XI, § 11207(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1638](https://www.govinfo.gov/link/statute/129/1638); amended [Pub. L. 116–159, div. B, title I, § 1104(a)](https://www.govinfo.gov/link/plaw/116/public/159), Oct. 1, 2020, [134 Stat. 727](https://www.govinfo.gov/link/statute/134/727); [Pub. L. 117–58, div. B, title II, § 22208(b)(1)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 706](https://www.govinfo.gov/link/statute/135/706).)*

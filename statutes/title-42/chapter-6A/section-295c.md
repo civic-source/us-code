@@ -3,9 +3,10 @@ title: "Section 295c - Preventive medicine and public health training grant prog
 usc_title: 42
 usc_section: "295c"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 295c"
-generated_at: "2026-03-30T02:56:10.780Z"
+generated_at: "2026-11-23T21:26:30.649Z"
+status: "active"
 ---
 
 # § 295c. Preventive medicine and public health training grant program
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:10.780Z"
     - **(A)** academic administrative units (including departments, divisions, or other appropriate units) in preventive medicine and public health; or
     - **(B)** programs that improve clinical teaching in preventive medicine and public health.
 - **(d)** The Secretary shall submit to the Congress an annual report on the program carried out under this section.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 768, as added [Pub. L. 105–392, title I, § 105](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3555](https://www.govinfo.gov/link/statute/112/3555); amended [Pub. L. 111–148, title X, § 10501(m)(1)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 1001](https://www.govinfo.gov/link/statute/124/1001).)*

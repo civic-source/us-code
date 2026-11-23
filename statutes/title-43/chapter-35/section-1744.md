@@ -3,9 +3,10 @@ title: "Section 1744 - Recordation of mining claims"
 usc_title: 43
 usc_section: "1744"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1744"
-generated_at: "2026-03-30T02:55:57.489Z"
+generated_at: "2026-11-23T21:26:19.877Z"
+status: "active"
 ---
 
 # § 1744. Recordation of mining claims
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:57.489Z"
 - **(b)** The owner of an unpatented lode or placer mining claim or mill or tunnel site located prior to October 21, 1976 shall, within the three-year period following October 21, 1976 , file in the office of the Bureau designated by the Secretary a copy of the official record of the notice of location or certificate of location, including a description of the location of the mining claim or mill or tunnel site sufficient to locate the claimed lands on the ground. The owner of an unpatented lode or placer mining claim or mill or tunnel site located after October 21, 1976 shall, within ninety days after the date of location of such claim, file in the office of the Bureau designated by the Secretary a copy of the official record of the notice of location or certificate of location, including a description of the location of the mining claim or mill or tunnel site sufficient to locate the claimed lands on the ground.
 - **(c)** The failure to file such instruments as required by subsections (a) and (b) shall be deemed conclusively to constitute an abandonment of the mining claim or mill or tunnel site by the owner; but it shall not be considered a failure to file if the instrument is defective or not timely filed for record under other Federal laws permitting filing or recording thereof, or if the instrument is filed for record by or on behalf of some but not all of the owners of the mining claim or mill or tunnel site.
 - **(d)** Such recordation or application by itself shall not render valid any claim which would not be otherwise valid under applicable law. Nothing in this section shall be construed as a waiver of the assessment and other requirements of such law.
+
+## Source Credit
+
+*([Pub. L. 94–579, title III, § 314](https://www.govinfo.gov/link/plaw/94/public/579), Oct. 21, 1976, [90 Stat. 2769](https://www.govinfo.gov/link/statute/90/2769).)*

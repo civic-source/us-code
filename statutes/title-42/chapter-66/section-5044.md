@@ -3,9 +3,10 @@ title: "Section 5044 - Special limitations"
 usc_title: 42
 usc_section: "5044"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5044"
-generated_at: "2026-03-30T02:56:11.214Z"
+generated_at: "2026-11-23T21:26:32.713Z"
+status: "active"
 ---
 
 # § 5044. Special limitations
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.214Z"
 - **(f)**
   - **(1)** Notwithstanding any other provision of law except as may be provided expressly in limitation of this subsection, payments to volunteers under this chapter shall not in any way reduce or eliminate the level of or eligibility for assistance or services any such volunteers may be receiving under any governmental program, except that this paragraph shall not apply in the case of such payments when the Director determines that the value of all such payments, adjusted to reflect the number of hours such volunteers are serving, is equivalent to or greater than the minimum wage then in effect under the Fair Labor Standards Act of 1938 ( 29 U.S.C. 201 et seq.) or the minimum wage, under the laws of the State where such volunteers are serving, whichever is the greater.
   - **(2)** Notwithstanding any other provision of law, a person enrolled for full-time service as a volunteer under subchapter I of this chapter who was otherwise entitled to receive assistance or services under any governmental program prior to such volunteer’s enrollment shall not be denied such assistance or services because of such volunteer’s failure or refusal to register for, seek, or accept employment or training during the period of such service.
+
+## Source Credit
+
+*([Pub. L. 93–113, title IV, § 404](https://www.govinfo.gov/link/plaw/93/public/113), Oct. 1, 1973, [87 Stat. 408](https://www.govinfo.gov/link/statute/87/408); [Pub. L. 96–143, § 9](https://www.govinfo.gov/link/plaw/96/public/143), Dec. 13, 1979, [93 Stat. 1077](https://www.govinfo.gov/link/statute/93/1077); [Pub. L. 98–288, § 19](https://www.govinfo.gov/link/plaw/98/public/288), May 21, 1984, [98 Stat. 195](https://www.govinfo.gov/link/statute/98/195); [Pub. L. 99–551, § 10(i)(7)](https://www.govinfo.gov/link/plaw/99/public/551), Oct. 27, 1986, [100 Stat. 3078](https://www.govinfo.gov/link/statute/100/3078); [Pub. L. 103–82, title III, § 364](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 908](https://www.govinfo.gov/link/statute/107/908); [Pub. L. 111–13, title II, § 2151](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1591](https://www.govinfo.gov/link/statute/123/1591).)*

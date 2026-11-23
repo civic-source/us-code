@@ -3,9 +3,10 @@ title: "Section 1008 - Payment of costs of telecommunications carriers to comply
 usc_title: 47
 usc_section: "1008"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1008"
-generated_at: "2026-03-30T02:56:24.529Z"
+generated_at: "2026-11-23T21:26:36.085Z"
+status: "active"
 ---
 
 # § 1008. Payment of costs of telecommunications carriers to comply with capability requirements
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:24.529Z"
     - **(B)** in the case of any modification that may be used for any purpose other than lawfully authorized electronic surveillance by a law enforcement agency of a government, permit recovery of only the incremental cost of making the modification suitable for such law enforcement purposes; and
     - **(C)** maintain the confidentiality of trade secrets.
   - **(3)** Such regulations shall require any telecommunications carrier that the Attorney General has agreed to pay for modifications pursuant to this section and that has installed or deployed such modification to submit to the Attorney General a claim for payment that contains or is accompanied by such information as the Attorney General may require.
+
+## Source Credit
+
+*([Pub. L. 103–414, title I, § 109](https://www.govinfo.gov/link/plaw/103/public/414), Oct. 25, 1994, [108 Stat. 4286](https://www.govinfo.gov/link/statute/108/4286).)*

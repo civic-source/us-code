@@ -3,9 +3,10 @@ title: "Section 2730 - Prohibition on funding the involuntary return of refugees
 usc_title: 22
 usc_section: "2730"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2730"
-generated_at: "2026-03-30T02:55:05.381Z"
+generated_at: "2026-11-23T21:25:58.538Z"
+status: "active"
 ---
 
 # § 2730. Prohibition on funding the involuntary return of refugees
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.381Z"
 - **(d)** In this section:
   - **(1)** The term “appropriate congressional committees” means the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives.
   - **(2)** The term “to effect the involuntary return” means to require, by means of physical force or circumstances amounting to a threat thereof, a person to return to a country against the person’s will, regardless of whether the person is physically present in the United States and regardless of whether the United States acts directly or through an agent.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title I, § 58, as added [Pub. L. 107–228, div. A, title II, § 241](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1373](https://www.govinfo.gov/link/statute/116/1373).)*

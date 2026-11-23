@@ -3,12 +3,17 @@ title: "Section 2508 - Foreign participants; admission into the United States as
 usc_title: 22
 usc_section: "2508"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2508"
-generated_at: "2026-03-30T02:55:05.371Z"
+generated_at: "2026-11-23T21:25:58.506Z"
+status: "active"
 ---
 
 # § 2508. Foreign participants; admission into the United States as nonimmigrants; removal
 
 In order to provide for assistance by foreign nationals in the training of volunteers, and to permit effective implementation of Peace Corps projects with due regard for the desirability of cost-sharing arrangements, where appropriate, the President may make provision for transportation, housing, subsistence, or per diem in lieu thereof, and health care or health and accident insurance for foreign nationals engaged in activities authorized by this chapter while they are away from their homes, without regard to the provisions of any other law: Provided, however , That per diem in lieu of subsistence furnished to such persons shall not be at rates higher than those prescribed by the Secretary of State pursuant to section 2679 of title 22 . Such persons, and persons coming to the United States under contract pursuant to section 2509(a)(5) of this title , may be admitted to the United States, if otherwise qualified, as nonimmigrants under section 1101(a)(15) of title 8 for such time and under such conditions as may be prescribed by regulations promulgated by the Secretary of State and the Attorney General. A person admitted under this section who fails to maintain the status under which he was admitted or who fails to depart from the United States at the expiration of the time for which he was admitted, or who engages in activities of a political nature detrimental to the interests of the United States, or in activities not consistent with the security of the United States, shall, upon the warrant of the Attorney General, be taken into custody and promptly removed pursuant to chapter 4 of title II of the Immigration and Nationality Act [ 8 U.S.C. 1221 et seq.] 1 1 So in original. Probably should be followed by a period and “Removal”. proceedings under this section shall be summary and the findings of the Attorney General as to matters of fact shall be conclusive.
 
+
+## Source Credit
+
+*([Pub. L. 87–293, title I, § 9](https://www.govinfo.gov/link/plaw/87/public/293), Sept. 22, 1961, [75 Stat. 617](https://www.govinfo.gov/link/statute/75/617); [Pub. L. 97–113, title VI, § 605(a)](https://www.govinfo.gov/link/plaw/97/public/113), Dec. 29, 1981, [95 Stat. 1543](https://www.govinfo.gov/link/statute/95/1543); [Pub. L. 104–208, div. C, title III, § 308(e)(18)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–621](https://www.govinfo.gov/link/statute/110/3009).)*

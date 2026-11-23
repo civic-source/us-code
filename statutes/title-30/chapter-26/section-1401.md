@@ -3,9 +3,10 @@ title: "Section 1401 - Congressional findings and declaration of purpose"
 usc_title: 30
 usc_section: "1401"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1401"
-generated_at: "2026-03-30T02:55:29.404Z"
+generated_at: "2026-11-23T21:26:00.435Z"
+status: "active"
 ---
 
 # § 1401. Congressional findings and declaration of purpose
@@ -33,3 +34,19 @@ generated_at: "2026-03-30T02:55:29.404Z"
   - **(3)** to establish, pending the ratification by, and entering into force with respect to, the United States of such a Treaty, an interim program to regulate the exploration for and commercial recovery of hard mineral resources of the deep seabed by United States citizens;
   - **(4)** to accelerate the program of environmental assessment of exploration for and commercial recovery of hard mineral resources of the deep seabed and assure that such exploration and recovery activities are conducted in a manner which will encourage the conservation of such resources, protect the quality of the environment, and promote the safety of life and property at sea; and
   - **(5)** to encourage the continued development of technology necessary to recover the hard mineral resources of the deep seabed.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 96–283, § 2](https://www.govinfo.gov/link/plaw/96/public/283), June 28, 1980, [94 Stat. 553](https://www.govinfo.gov/link/statute/94/553).)*

@@ -3,12 +3,17 @@ title: "Section 388 - Contracts for materials; liability of United States"
 usc_title: 43
 usc_section: "388"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 388"
-generated_at: "2026-03-30T02:55:57.441Z"
+generated_at: "2026-11-23T21:26:19.759Z"
+status: "active"
 ---
 
 # § 388. Contracts for materials; liability of United States
 
 When appropriations have been made for the commencement or continuation of construction or operation and maintenance of any project, the Secretary may, in connection with such construction or operation and maintenance, enter into contracts for miscellaneous services, for materials and supplies, as well as for construction, which may cover such periods of time as the Secretary may consider necessary but in which the liability of the United States shall be contingent upon appropriations being made therefor.
 
+
+## Source Credit
+
+*(Aug. 4, 1939, ch. 418, § 12, [53 Stat. 1197](https://www.govinfo.gov/link/statute/53/1197).)*

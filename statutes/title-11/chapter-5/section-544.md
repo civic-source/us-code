@@ -3,9 +3,10 @@ title: "Section 544 - Trustee as lien creditor and as successor to certain credi
 usc_title: 11
 usc_section: "544"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 544"
-generated_at: "2026-03-30T02:53:53.879Z"
+generated_at: "2026-11-23T21:25:34.926Z"
+status: "active"
 ---
 
 # § 544. Trustee as lien creditor and as successor to certain creditors and purchasers
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:53.879Z"
 - **(b)**
   - **(1)** Except as provided in paragraph (2), the trustee may avoid any transfer of an interest of the debtor in property or any obligation incurred by the debtor that is voidable under applicable law by a creditor holding an unsecured claim that is allowable under section 502 of this title or that is not allowable only under section 502(e) of this title .
   - **(2)** Paragraph (1) shall not apply to a transfer of a charitable contribution (as that term is defined in section 548(d)(3)) that is not covered under section 548(a)(1)(B), by reason of section 548(a)(2). Any claim by any person to recover a transferred contribution described in the preceding sentence under Federal or State law in a Federal or State court shall be preempted by the commencement of the case.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2596](https://www.govinfo.gov/link/statute/92/2596); [Pub. L. 98–353, title III, § 459](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 377](https://www.govinfo.gov/link/statute/98/377); [Pub. L. 105–183, § 3(b)](https://www.govinfo.gov/link/plaw/105/public/183), June 19, 1998, [112 Stat. 518](https://www.govinfo.gov/link/statute/112/518).)*

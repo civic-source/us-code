@@ -3,12 +3,17 @@ title: "Section 1735d - Payment of insurance benefits in cash or debentures; bor
 usc_title: 12
 usc_section: "1735d"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1735d"
-generated_at: "2026-03-30T02:53:53.428Z"
+generated_at: "2026-11-23T21:25:36.918Z"
+status: "active"
 ---
 
 # § 1735d. Payment of insurance benefits in cash or debentures; borrowing money from Treasury to make payments
 
 - **(a)** Notwithstanding any other provisions of this chapter with respect to the payment of insurance benefits, the Secretary is authorized, in his discretion, to pay in cash or in debentures any insurance claim or part thereof which is paid on or after August 10, 1965 , on a mortgage or a loan which was insured under any section of this chapter either before or after such date. If payment is made in cash, it shall be in an amount equivalent to the face amount of the debentures that would otherwise be issued plus an amount equivalent to the interest which the debentures would have earned, computed to a date to be established pursuant to regulations issued by the Secretary.
 - **(b)** The Secretary is authorized to borrow from the Treasury from time to time such amounts as the Secretary shall determine are necessary (1) to make payments in cash (in lieu of issuing debentures guaranteed by the United States, as provided in this chapter) pursuant to the provisions of this section, and (2) to make payments for reinsured and directly insured losses under subchapter IX–C 1 1 See References in Text note below. of this chapter: Provided, however , That borrowings to make payments for reinsured and directly insured losses under subchapter IX–C 1 shall be limited to $250,000,000 or such further sum as the Congress, by joint resolution, may from time to time determine. Notes or other obligations issued by the Secretary in borrowing under this subsection shall be subject to such terms and conditions as the secretary of the Treasury may prescribe. Each sum borrowed pursuant to this subsection shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of such notes or other obligations.
+
+## Source Credit
+
+*(June 27, 1934, ch. 847, title V, § 520, as added [Pub. L. 89–117, title II, § 215](https://www.govinfo.gov/link/plaw/89/public/117), Aug. 10, 1965, [79 Stat. 472](https://www.govinfo.gov/link/statute/79/472); amended [Pub. L. 90–19, § 1(a)(3)](https://www.govinfo.gov/link/plaw/90/public/19), May 25, 1967, [81 Stat. 17](https://www.govinfo.gov/link/statute/81/17); [Pub. L. 90–448, title XI, § 1104](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 566](https://www.govinfo.gov/link/statute/82/566); [Pub. L. 91–609, title VI, § 604](https://www.govinfo.gov/link/plaw/91/public/609), Dec. 31, 1970, [84 Stat. 1791](https://www.govinfo.gov/link/statute/84/1791).)*

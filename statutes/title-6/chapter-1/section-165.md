@@ -3,9 +3,10 @@ title: "Section 165 - National Law Enforcement and Corrections Technology Center
 usc_title: 6
 usc_section: "165"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 165"
-generated_at: "2026-03-30T02:53:09.447Z"
+generated_at: "2026-11-23T21:25:25.757Z"
+status: "active"
 ---
 
 # § 165. National Law Enforcement and Corrections Technology Centers
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:09.447Z"
   - **(4)** provide technology assistance, information, and support for law enforcement, corrections, and criminal justice purposes.
 - **(c)** Each year, the Director shall convene a meeting of the Centers in order to foster collaboration and communication between Center participants.
 - **(d)** Not later than 12 months after November 25, 2002 , the Director shall transmit to the Congress a report assessing the effectiveness of the existing system of Centers and identify the number of Centers necessary to meet the technology needs of Federal, State, and local law enforcement in the United States.
+
+## Source Credit
+
+*([Pub. L. 107–296, title II, § 235](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2162](https://www.govinfo.gov/link/statute/116/2162).)*

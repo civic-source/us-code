@@ -3,10 +3,31 @@ title: "Section 4218 - Repealed. Pub. L. 98–473, title II, § 218(a)(5) , Oct.
 usc_title: 18
 usc_section: "4218"
 chapter: 311
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 4218"
-generated_at: "2026-03-30T02:54:16.528Z"
+generated_at: "2026-11-23T21:25:44.243Z"
+status: "repealed"
 ---
 
 # [§§ 4201 to 4218. Repealed. Pub. L. 98–473, title II, § 218(a)(5) , Oct. 12, 1984 , 98 Stat. 2027 ]
 
+
+Extension of the Parole Commission
+
+Study by Attorney General
+
+Service as Commissioner
+
+In General
+
+Powers and Duties of Parole Commission
+
+In General
+
+Transfer Within the Department of Justice.—
+
+Effect of plan
+
+Conditional repeal
+
+Gerald R. Ford.

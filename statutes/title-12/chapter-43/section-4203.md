@@ -3,9 +3,10 @@ title: "Section 4203 - Confidentiality of declarations"
 usc_title: 12
 usc_section: "4203"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4203"
-generated_at: "2026-03-30T02:53:53.502Z"
+generated_at: "2026-11-23T21:25:37.169Z"
+status: "active"
 ---
 
 # § 4203. Confidentiality of declarations
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.502Z"
   - **(1)** Notwithstanding any other law, the contents of a declaration shall not be disclosed by the declarant if the disclosure would prejudice or compromise in any way the completion of any government investigation or any criminal or civil case that may arise out of, or make use of, information contained in a declaration, but information contained in a declaration may be disclosed as required by duly issued and authorized legal process.
   - **(2)** The Attorney General may in a circumstance described in paragraph (1) notify a declarant that continued confidentiality is required under this subsection notwithstanding paragraph (1) or (2) of subsection (a).
 - **(c)** A declarant who discloses, except as provided by this chapter, 1 1 See References in Text note below. the existence or filing of a declaration or the contents thereof to anyone other than a duly authorized Federal or State investigator or the declarant’s attorney shall immediately lose all rights under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 101–647, title XXV, § 2563](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4894](https://www.govinfo.gov/link/statute/104/4894).)*

@@ -3,9 +3,10 @@ title: "Section 4012a - Flood insurance purchase and compliance requirements and
 usc_title: 42
 usc_section: "4012a"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4012a"
-generated_at: "2026-03-30T02:56:11.195Z"
+generated_at: "2026-11-23T21:26:32.609Z"
+status: "active"
 ---
 
 # § 4012a. Flood insurance purchase and compliance requirements and escrow accounts
@@ -108,3 +109,37 @@ generated_at: "2026-03-30T02:56:11.195Z"
     - **(B)** is made pursuant to a revision or updating under section 1360(f) 4 4 So in original. Probably should be followed by “of the National Flood Insurance Act of 1968”. [ 42 U.S.C. 4101(f) ] of the floodplain areas and flood-risk zones or publication of a notice or compendia under subsection (h) or (i) of section 1360 4 [ 42 U.S.C. 4101(h) , (i)] that affects the area in which the improved real estate or mobile home securing the loan is located or that, in the determination of the Administrator, may reasonably be considered to require a determination under this subsection; or
     - **(C)** results in the purchase of flood insurance coverage pursuant to the requirement under subsection (e)(2).
   - **(2)** The purchaser or transferee of such a loan may be charged the fee in the case of sale or transfer of the loan.
+
+(aa) in the case of a loan secured by residential improved real estate or a mobile home, was not required under Federal or State law to deposit taxes, insurance premiums, fees, or any other charges in an escrow account for the entire term of the loan; and
+
+(bb) did not have a policy of consistently and uniformly requiring the deposit of taxes, insurance premiums, fees, or any other charges in an escrow account for loans secured by residential improved real estate or a mobile home; or
+
+(aa) meets the requirements that the regulated lending institution is required to enforce under subsection (b)(1);
+
+(bb) is provided by the condominium association, cooperative, homeowners association, or other applicable group; and
+
+(cc) the premium for which is paid by the condominium association, cooperative, homeowners association, or other applicable group as a common expense;
+
+In general.—
+
+Required application
+
+Optional application.—
+
+Definitions
+
+“(aa) is outstanding as of January 1, 2016 ;
+
+“(bb) is not subject to the requirement to escrow premiums and fees for flood insurance under section 102(d)(1) of the Flood Disaster Protection Act of 1973 ( 42 U.S.C. 4012a(d)(1) ) as in effect on July 5, 2012 ; and
+
+“(cc) would, if the loan had been originated, refinanced, increased, extended, or renewed on or after January 1, 2016 , be subject to the requirements under section 102(d)(1)(A) of the Flood Disaster Protection Act of 1973, as amended; and
+
+“(aa) section 100209(a) of the Biggert-Waters Flood Insurance Reform Act of 2012 ( Public Law 112–141 ; 126 Stat. 920 ); and
+
+“(bb) subsection (a) of this section.
+
+Option to escrow flood insurance payments
+
+## Source Credit
+
+*([Pub. L. 93–234, title I, § 102](https://www.govinfo.gov/link/plaw/93/public/234), Dec. 31, 1973, [87 Stat. 978](https://www.govinfo.gov/link/statute/87/978); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title IV, § 451(e)(1)], Nov. 30, 1983, [97 Stat. 1229](https://www.govinfo.gov/link/statute/97/1229); [Pub. L. 103–325, title V](https://www.govinfo.gov/link/plaw/103/public/325), §§ 522–526, 531, 582(c), Sept. 23, 1994, [108 Stat. 2257–2262](https://www.govinfo.gov/link/statute/108/2257), 2267, 2287; [Pub. L. 110–289, div. A, title I, § 1161(e)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2780](https://www.govinfo.gov/link/statute/122/2780); [Pub. L. 112–141, div. F, title II](https://www.govinfo.gov/link/plaw/112/public/141), §§ 100208, 100209(a), 100238(a)(1), 100239(a), 100244(a), July 6, 2012, [126 Stat. 919](https://www.govinfo.gov/link/statute/126/919), 920, 958, 966; [Pub. L. 112–281, § 1](https://www.govinfo.gov/link/plaw/112/public/281), Jan. 14, 2013, [126 Stat. 2485](https://www.govinfo.gov/link/statute/126/2485); [Pub. L. 113–89](https://www.govinfo.gov/link/plaw/113/public/89), §§ 13(a), 25(a), Mar. 21, 2014, [128 Stat. 1026](https://www.govinfo.gov/link/statute/128/1026), 1030.)*

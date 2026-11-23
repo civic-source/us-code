@@ -3,9 +3,10 @@ title: "Section 1397gg - Strategic objectives and performance goals; plan admini
 usc_title: 42
 usc_section: "1397gg"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1397gg"
-generated_at: "2026-03-30T02:56:11.074Z"
+generated_at: "2026-11-23T21:26:31.958Z"
+status: "active"
 ---
 
 # § 1397gg. Strategic objectives and performance goals; plan administration
@@ -67,3 +68,9 @@ generated_at: "2026-03-30T02:56:11.074Z"
   - **(2)** In this subsection, the term “qualified CHIP look-alike program” means a State program—
     - **(A)** under which children who are under the age of 19 and are not eligible to receive medical assistance under subchapter XIX or child health assistance under this subchapter may purchase coverage through the State that provides benefits that are at least identical to the benefits provided under the State child health plan under this subchapter (or a waiver of such plan); and
     - **(B)** that is funded exclusively through non-Federal funds, including funds received by the State in the form of premiums for the purchase of such coverage.
+
+“Subject to section 2111 of the Social Security Act [ 42 U.S.C. 1397kk ], as added by section 112 of the Children’s Health Insurance Program Reauthorization Act of 2009 [ Pub. L. 111–3 ], nothing in this section [amending this section and section 1397ee of this title and enacting provisions set out as a note above] or the amendments made by this section shall be construed to—
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XXI, § 2107, as added [Pub. L. 105–33, title IV, § 4901(a)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 565](https://www.govinfo.gov/link/statute/111/565); amended [Pub. L. 106–554, § 1(a)(6) [title VIII, § 803]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–582; [Pub. L. 109–171, title VI, § 6102(a)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 131](https://www.govinfo.gov/link/statute/120/131); [Pub. L. 111–3, title I, § 112(a)(2)(A)](https://www.govinfo.gov/link/plaw/111/public/3), title II, §§ 203(a)(2), (d)(2), 214(b), title V, §§ 501(d)(2), 503(a)(1), Feb. 4, 2009, [123 Stat. 33](https://www.govinfo.gov/link/statute/123/33), 46, 49, 57, 87, 89; [Pub. L. 111–5, div. B, title V, § 5006(b)(2)](https://www.govinfo.gov/link/plaw/111/public/5), (d)(2), (e)(2)(B), Feb. 17, 2009, [123 Stat. 506](https://www.govinfo.gov/link/statute/123/506), 510; [Pub. L. 111–148, title II, § 2101(d)(2)](https://www.govinfo.gov/link/plaw/111/public/148), (e), title VI, § 6401(c), Mar. 23, 2010, [124 Stat. 287](https://www.govinfo.gov/link/statute/124/287), 753; [Pub. L. 111–152, title I, § 1004(b)(2)(B)](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1034](https://www.govinfo.gov/link/statute/124/1034); [Pub. L. 111–309, title II, § 205(f)(2)](https://www.govinfo.gov/link/plaw/111/public/309), Dec. 15, 2010, [124 Stat. 3291](https://www.govinfo.gov/link/statute/124/3291); [Pub. L. 114–255, div. A, title V, § 5005(c)(1)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1194](https://www.govinfo.gov/link/statute/130/1194); [Pub. L. 115–120, div. C, § 3002(g)(1)](https://www.govinfo.gov/link/plaw/115/public/120), Jan. 22, 2018, [132 Stat. 35](https://www.govinfo.gov/link/statute/132/35); [Pub. L. 115–123, div. E, title XII, § 53102(d)(1)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 299](https://www.govinfo.gov/link/statute/132/299); [Pub. L. 117–2, title IX, § 9822(a)(1)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 220](https://www.govinfo.gov/link/statute/135/220); [Pub. L. 117–328, div. FF, title V](https://www.govinfo.gov/link/plaw/117/public/328), §§ 5112(b), 5123(c), Dec. 29, 2022, [136 Stat. 5940](https://www.govinfo.gov/link/statute/136/5940), 5946; [Pub. L. 119–21, title VII](https://www.govinfo.gov/link/plaw/119/public/21), §§ 71103(b)(1), 71109(b), July 4, 2025, [139 Stat. 293](https://www.govinfo.gov/link/statute/139/293), 297; [Pub. L. 119–75, div. J, title I, § 6101(b)(3)](https://www.govinfo.gov/link/plaw/119/public/75), Feb. 3, 2026, [140 Stat. 638](https://www.govinfo.gov/link/statute/140/638).)*

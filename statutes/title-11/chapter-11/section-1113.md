@@ -3,9 +3,10 @@ title: "Section 1113 - Rejection of collective bargaining agreements"
 usc_title: 11
 usc_section: "1113"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1113"
-generated_at: "2026-03-30T02:53:53.884Z"
+generated_at: "2026-11-23T21:25:34.950Z"
+status: "active"
 ---
 
 # § 1113. Rejection of collective bargaining agreements
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:53.884Z"
   - **(3)** The court may enter such protective orders, consistent with the need of the authorized representative of the employee to evaluate the trustee’s proposal and the application for rejection, as may be necessary to prevent disclosure of information provided to such representative where such disclosure could compromise the position of the debtor with respect to its competitors in the industry in which it is engaged.
 - **(e)** If during a period when the collective bargaining agreement continues in effect, and if essential to the continuation of the debtor’s business, or in order to avoid irreparable damage to the estate, the court, after notice and a hearing, may authorize the trustee to implement interim changes in the terms, conditions, wages, benefits, or work rules provided by a collective bargaining agreement. Any hearing under this paragraph shall be scheduled in accordance with the needs of the trustee. The implementation of such interim changes shall not render the application for rejection moot.
 - **(f)** No provision of this title shall be construed to permit a trustee to unilaterally terminate or alter any provisions of a collective bargaining agreement prior to compliance with the provisions of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 98–353, title III, § 541(a)](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 390](https://www.govinfo.gov/link/statute/98/390).)*

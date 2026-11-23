@@ -3,9 +3,10 @@ title: "Section 2204g - Authority of Secretary of Agriculture to conduct census 
 usc_title: 7
 usc_section: "2204g"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2204g"
-generated_at: "2026-03-30T02:53:42.380Z"
+generated_at: "2026-11-23T21:25:28.282Z"
+status: "active"
 ---
 
 # § 2204g. Authority of Secretary of Agriculture to conduct census of agriculture
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:42.380Z"
 - **(g)** A regulation necessary to carry out this section may be promulgated by—
   - **(1)** the Secretary of Agriculture, to the extent that a matter under the jurisdiction of the Secretary is involved; and
   - **(2)** the Secretary of Commerce, to the extent that a matter under the jurisdiction of the Secretary of Commerce is involved.
+
+## Source Credit
+
+*([Pub. L. 105–113, § 2](https://www.govinfo.gov/link/plaw/105/public/113), Nov. 21, 1997, [111 Stat. 2274](https://www.govinfo.gov/link/statute/111/2274); [Pub. L. 110–234, title X, § 10103](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1336](https://www.govinfo.gov/link/statute/122/1336); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title X, § 10103, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2097.)*

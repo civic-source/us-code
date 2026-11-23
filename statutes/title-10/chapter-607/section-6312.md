@@ -3,9 +3,10 @@ title: "Section 6312 - Independent acquisition project reviews of capital assets
 usc_title: 10
 usc_section: "6312"
 chapter: 607
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6312"
-generated_at: "2026-03-30T02:53:38.226Z"
+generated_at: "2026-11-23T21:25:32.828Z"
+status: "active"
 ---
 
 # § 6312. Independent acquisition project reviews of capital assets acquisition projects
@@ -23,3 +24,17 @@ generated_at: "2026-03-30T02:53:38.226Z"
   - **(3)** The term “capital assets acquisition project” means a project—
     - **(A)** the total project cost of which is more than $500,000,000; and
     - **(B)** that is covered by Department of Energy Order 413.3B, or a successor order, for the acquisition of capital assets for atomic energy defense activities.
+
+Reviews
+
+Pre-critical Decision
+
+Reviews
+
+Independent Entities
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1439](https://www.govinfo.gov/link/statute/139/1439).)*

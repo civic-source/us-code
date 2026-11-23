@@ -3,9 +3,10 @@ title: "Section 563 - Determination of need for negotiated rulemaking committee"
 usc_title: 5
 usc_section: "563"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 563"
-generated_at: "2026-03-30T02:52:55.989Z"
+generated_at: "2026-11-23T21:25:23.070Z"
+status: "active"
 ---
 
 # § 563. Determination of need for negotiated rulemaking committee
@@ -25,3 +26,17 @@ generated_at: "2026-03-30T02:52:55.989Z"
     - **(A)** identifying persons who will be significantly affected by a proposed rule, including residents of rural areas; and
     - **(B)** conducting discussions with such persons to identify the issues of concern to such persons, and to ascertain whether the establishment of a negotiated rulemaking committee is feasible and appropriate in the particular rulemaking.
   - **(2)** The convener shall report findings and may make recommendations to the agency. Upon request of the agency, the convener shall ascertain the names of persons who are willing and qualified to represent interests that will be significantly affected by the proposed rule, including residents of rural areas. The report and any recommendations of the convener shall be made available to the public upon request.
+
+Determination of Need by the Agency
+
+Use of Conveners.—
+
+Purposes of conveners
+
+Duties of conveners
+
+“The Director of the Office of Management and Budget shall—
+
+## Source Credit
+
+*(Added [Pub. L. 101–648, § 3(a)](https://www.govinfo.gov/link/plaw/101/public/648), Nov. 29, 1990, [104 Stat. 4970](https://www.govinfo.gov/link/statute/104/4970), § 583; renumbered § 563, [Pub. L. 102–354, § 3(a)(2)](https://www.govinfo.gov/link/plaw/102/public/354), Aug. 26, 1992, [106 Stat. 944](https://www.govinfo.gov/link/statute/106/944).)*

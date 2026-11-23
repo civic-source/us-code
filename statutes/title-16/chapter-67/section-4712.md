@@ -3,9 +3,10 @@ title: "Section 4712 - National ballast water management information"
 usc_title: 16
 usc_section: "4712"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4712"
-generated_at: "2026-03-30T02:54:23.045Z"
+generated_at: "2026-11-23T21:25:52.020Z"
+status: "active"
 ---
 
 # § 4712. National ballast water management information
@@ -74,3 +75,7 @@ generated_at: "2026-03-30T02:54:23.045Z"
         - **(III)** the Committee on Transportation and Infrastructure of the House of Representatives; and
       - **(ii)** make each report available to the public.
   - **(5)** Not later than 1 year after December 4, 2018 , the Secretary shall establish a working group, including members from the National Ballast Information Clearinghouse and States with ballast water management programs, to establish a process for compiling and readily sharing Federal and State commercial vessel reporting and enforcement data regarding compliance with this chapter.
+
+## Source Credit
+
+*([Pub. L. 101–646, title I, § 1102](https://www.govinfo.gov/link/plaw/101/public/646), Nov. 29, 1990, [104 Stat. 4764](https://www.govinfo.gov/link/statute/104/4764); [Pub. L. 104–332, § 2(c)](https://www.govinfo.gov/link/plaw/104/public/332), (g), (h)(1), Oct. 26, 1996, [110 Stat. 4081](https://www.govinfo.gov/link/statute/110/4081), 4091; [Pub. L. 105–362, title XV, § 1502(d)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3295](https://www.govinfo.gov/link/statute/112/3295); [Pub. L. 115–282, title IX, § 903(a)(2)(B)](https://www.govinfo.gov/link/plaw/115/public/282), (h)(1), Dec. 4, 2018, [132 Stat. 4354](https://www.govinfo.gov/link/statute/132/4354), 4362.)*

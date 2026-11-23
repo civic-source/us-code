@@ -3,9 +3,10 @@ title: "Section 3616 - Federal Secure Cloud Advisory Committee"
 usc_title: 44
 usc_section: "3616"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 3616"
-generated_at: "2026-03-30T02:55:56.299Z"
+generated_at: "2026-11-23T21:26:18.445Z"
+status: "active"
 ---
 
 # § 3616. Federal Secure Cloud Advisory Committee
@@ -47,3 +48,53 @@ generated_at: "2026-03-30T02:55:56.299Z"
 - **(h)**
   - **(1)** The Committee may submit to the Administrator and Congress interim reports containing such findings, conclusions, and recommendations as have been agreed to by the Committee.
   - **(2)** Not later than 540 days after the date of enactment of this section, and annually thereafter, the Committee shall submit to the Administrator and Congress a report containing such findings, conclusions, and recommendations as have been agreed to by the Committee.
+
+Establishment, Purposes, and Duties.—
+
+Establishment
+
+Purposes
+
+Duties
+
+Members.—
+
+Composition
+
+Deadline for appointment
+
+Period of appointment; vacancies.—
+
+In general
+
+Vacancies
+
+Meetings and Rules of Procedures.—
+
+Meetings
+
+Initial meeting
+
+Rules of procedure
+
+Employee Status.—
+
+In general
+
+Pay not permitted
+
+Applicability to the Federal Advisory Committee Act
+
+Detail of Employees
+
+Postal Services
+
+Reports.—
+
+Interim reports
+
+Annual reports
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. E, title LIX, § 5921(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3456](https://www.govinfo.gov/link/statute/136/3456).)*

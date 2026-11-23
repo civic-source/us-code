@@ -3,9 +3,10 @@ title: "Section 2407 - Civil penalties"
 usc_title: 16
 usc_section: "2407"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2407"
-generated_at: "2026-03-30T02:54:23.002Z"
+generated_at: "2026-11-23T21:25:51.947Z"
+status: "active"
 ---
 
 # § 2407. Civil penalties
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:23.002Z"
 - **(b)** Hearings for the assessment of civil penalties under subsection (a) shall be conducted in accordance with section 554 of title 5 . For the purposes of conducting any such hearing, the Director may issue subpenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and may administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States. In case of contumacy or refusal to obey a subpena served upon any person pursuant to this subsection, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Director or to appear and produce documents before the Director, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 - **(c)** Upon the failure of any person against whom a civil penalty is assessed under subsection (a) to pay such penalty, the Director may request the Attorney General to institute a civil action in a district court of the United States for any district in which such person is found, resides, or transacts business to collect the penalty and such court shall have jurisdiction to hear and decide any such action. The court shall hear such action on the record made before the Director and shall sustain the decision of the Director if it is supported by substantial evidence on the record considered as a whole.
 - **(d)** The assessment of a civil penalty under subsection (a) for any act shall not be deemed to preclude the assessment of a civil penalty for such act under any other law, including, but not limited to, the Marine Mammal Protection Act of 1972 [ 16 U.S.C. 1361 et seq.], the Endangered Species Act of 1973 [ 16 U.S.C. 1531 et seq.], and the Migratory Bird Treaty Act [ 16 U.S.C. 703 et seq.].
+
+## Source Credit
+
+*([Pub. L. 95–541, § 8](https://www.govinfo.gov/link/plaw/95/public/541), Oct. 28, 1978, [92 Stat. 2054](https://www.govinfo.gov/link/statute/92/2054).)*

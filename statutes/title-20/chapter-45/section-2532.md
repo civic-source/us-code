@@ -3,9 +3,10 @@ title: "Section 2532 - Authorization of appropriations"
 usc_title: 20
 usc_section: "2532"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 2532"
-generated_at: "2026-03-30T02:54:48.176Z"
+generated_at: "2026-11-23T21:25:47.393Z"
+status: "active"
 ---
 
 # § 2532. Authorization of appropriations
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:48.176Z"
     - **(A)** The Secretary of Education shall allot the amounts appropriated under this subsection among Guam, American Samoa, the Virgin Islands, and the Trust Territory of the Pacific Islands according to their respective needs for assistance under this subsection. In addition, he shall allot from such amounts to (i) the Secretary of the Interior the amounts necessary for the programs, projects, and activities authorized by this subsection for children and teachers in elementary and secondary schools operated for Indian children by the Department of the Interior; and (ii) the Secretary of Defense the amounts necessary for the programs, projects, and activities authorized by this subsection for children and teachers in the overseas dependents schools of the Department of Defense. The terms upon which payment for such purposes shall be made to the Secretary of the Interior and the Secretary of Defense shall be determined pursuant to such criteria as the Secretary of Education determines will best carry out the purposes of this subsection.
     - **(B)** From the amounts appropriated to carry out this subsection, the Secretary of Education shall allot to each State from such amounts an amount which bears the same ratio to such amounts as the number of children aged five to seventeen, inclusive, in the State bears to the number of such children in all the States. For the purposes of this subparagraph, the term “State” shall not include Guam, American Samoa, the Virgin Islands, and the Trust Territory of the Pacific Islands. The number of children aged five to seventeen, inclusive, in a State and in all the States shall be determined by the Secretary of Education on the basis of the most recent satisfactory data available to him.
     - **(C)** The amount of any State’s allotment under subparagraph (A) or subparagraph (B) to carry out this subsection which the Secretary of Education determines will not be required to carry out this subsection shall be available for reallotment from time to time, on such dates as the Secretary of Education may fix, to other States in proportion to the original allotments to such States under subparagraph (A) or subparagraph (B) but with such proportionate amount for any of such other States being reduced to the extent it exceeds the sum the Secretary of Education estimates such State needs and will be able to use. The total of such reductions shall be similarly reallotted among the States whose proportionate amounts were not so reduced. Any amounts reallotted to a State under this subparagraph from funds appropriated under this subsection shall be deemed a part of its allotment under subparagraph (A) or subparagraph (B).
+
+## Source Credit
+
+*([Pub. L. 94–482, title III, § 342](https://www.govinfo.gov/link/plaw/94/public/482), Oct. 12, 1976, [90 Stat. 2224](https://www.govinfo.gov/link/statute/90/2224); [Pub. L. 95–561, title XIII, § 1351](https://www.govinfo.gov/link/plaw/95/public/561), Nov. 1, 1978, [92 Stat. 2364](https://www.govinfo.gov/link/statute/92/2364); [Pub. L. 96–88, title III, § 301(a)(1)](https://www.govinfo.gov/link/plaw/96/public/88), title V, § 507, Oct. 17, 1979, [93 Stat. 677](https://www.govinfo.gov/link/statute/93/677), 692.)*

@@ -3,9 +3,10 @@ title: "Section 3371 - Required counterintelligence assessments, briefings, noti
 usc_title: 50
 usc_section: "3371"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3371"
-generated_at: "2026-03-30T02:56:26.251Z"
+generated_at: "2026-11-23T21:26:39.047Z"
+status: "active"
 ---
 
 # § 3371. Required counterintelligence assessments, briefings, notifications, and reports
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:56:26.251Z"
   - **(3)** The Director shall, not later than 60 days after the end of a Federal election cycle, make available to the public, to the greatest extent possible consistent with the protection of sources and methods, the findings transmitted under paragraph (1)(B).
   - **(4)** In this section, the term “Federal election cycle” means the period which begins on the day after the date of a regularly scheduled general election for Federal office and which ends on the date of the first regularly scheduled general election for Federal office held after such date.
   - **(5)** This subsection shall apply with respect to the Federal election cycle that began during November 2018, and each succeeding Federal election cycle.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. E, title LIII, § 5304](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2119](https://www.govinfo.gov/link/statute/133/2119).)*

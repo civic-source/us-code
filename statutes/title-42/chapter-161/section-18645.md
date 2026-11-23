@@ -3,9 +3,10 @@ title: "Section 18645 - Fusion energy"
 usc_title: 42
 usc_section: "18645"
 chapter: 161
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18645"
-generated_at: "2026-03-30T02:56:11.523Z"
+generated_at: "2026-11-23T21:26:33.830Z"
+status: "active"
 ---
 
 # § 18645. Fusion energy
@@ -171,3 +172,7 @@ generated_at: "2026-03-30T02:56:11.523Z"
   - **(5)** $1,053,266,107 for fiscal year 2025;
   - **(6)** $1,047,962,074 for fiscal year 2026; and
   - **(7)** $1,114,187,798 for fiscal year 2027.
+
+## Source Credit
+
+*([Pub. L. 115–246, title III, § 307](https://www.govinfo.gov/link/plaw/115/public/246), Sept. 28, 2018, [132 Stat. 3148](https://www.govinfo.gov/link/statute/132/3148); [Pub. L. 116–260, div. Z, title II, § 2008(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2474](https://www.govinfo.gov/link/statute/134/2474); [Pub. L. 117–167, div. B, title I, § 10105(a)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1441](https://www.govinfo.gov/link/statute/136/1441).)*

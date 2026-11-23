@@ -3,9 +3,10 @@ title: "Section 631 - Declaration of policy"
 usc_title: 15
 usc_section: "631"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 631"
-generated_at: "2026-03-30T02:54:08.085Z"
+generated_at: "2026-11-23T21:25:39.635Z"
+status: "active"
 ---
 
 # § 631. Declaration of policy
@@ -68,3 +69,159 @@ generated_at: "2026-03-30T02:54:08.085Z"
   - **(1)** comply with congressional intent to foster the participation of small business concerns as prime contractors, subcontractors, and suppliers;
   - **(2)** structure its contracting requirements to facilitate competition by and among small business concerns, taking all reasonable steps to eliminate obstacles to their participation; and
   - **(3)** avoid unnecessary and unjustified bundling of contract requirements that precludes small business participation in procurements as prime contractors.
+
+In General
+
+Special Rules
+
+Proposed Regulations
+
+Final Regulations
+
+Disaster Mitigation Pilot Program
+
+Fiscal Year
+
+Program levels
+
+Additional authorizations.—
+
+Fiscal Year
+
+Program levels
+
+Additional authorizations.—
+
+Fiscal Year
+
+Purchase and Guarantee Authority Under Title III of Small Business Investment Act of
+
+Authority To Increase Amount of General Business Loans.—
+
+In general
+
+Notice required before exercising authority
+
+Limitation
+
+Microloan Program
+
+In General
+
+Use of Curriculum
+
+Submission to Congress
+
+Category Management Defined
+
+Establishment
+
+Course Required
+
+Responsibility for Achieving Small Business Goals
+
+Definitions
+
+Eligible veteran
+
+Small business concern owned and controlled by eligible veterans
+
+Study and Report.—
+
+In general
+
+Contents
+
+Conduct of Study
+
+“In this Act [see Short Title of 1997 Amendment note above]—
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Section
+
+Sec
+
+Ronald Reagan.
+
+Ronald Reagan.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+George W. Bush.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 85–536, § 2[2]](https://www.govinfo.gov/link/plaw/85/public/536), July 18, 1958, [72 Stat. 384](https://www.govinfo.gov/link/statute/72/384); [Pub. L. 87–70, title III, § 305(b)](https://www.govinfo.gov/link/plaw/87/public/70), June 30, 1961, [75 Stat. 167](https://www.govinfo.gov/link/statute/75/167); [Pub. L. 87–305, § 6](https://www.govinfo.gov/link/plaw/87/public/305), Sept. 26, 1961, [75 Stat. 667](https://www.govinfo.gov/link/statute/75/667); [Pub. L. 93–386, § 2(a)(1)](https://www.govinfo.gov/link/plaw/93/public/386), Aug. 23, 1974, [88 Stat. 742](https://www.govinfo.gov/link/statute/88/742); [Pub. L. 94–305, title I, § 112(a)](https://www.govinfo.gov/link/plaw/94/public/305), June 4, 1976, [90 Stat. 667](https://www.govinfo.gov/link/statute/90/667); [Pub. L. 95–507, title II](https://www.govinfo.gov/link/plaw/95/public/507), §§ 201, 203, Oct. 24, 1978, [92 Stat. 1760](https://www.govinfo.gov/link/statute/92/1760), 1763; [Pub. L. 96–302, title I, § 118(a)](https://www.govinfo.gov/link/plaw/96/public/302), July 2, 1980, [94 Stat. 840](https://www.govinfo.gov/link/statute/94/840); [Pub. L. 99–272, title XVIII, § 18015(a)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 370](https://www.govinfo.gov/link/statute/100/370); [Pub. L. 100–418, title VIII, § 8002](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1553](https://www.govinfo.gov/link/statute/102/1553); [Pub. L. 100–533, title I, § 101](https://www.govinfo.gov/link/plaw/100/public/533), Oct. 25, 1988, [102 Stat. 2689](https://www.govinfo.gov/link/statute/102/2689); [Pub. L. 100–590, title I, § 118](https://www.govinfo.gov/link/plaw/100/public/590), Nov. 3, 1988, [102 Stat. 2999](https://www.govinfo.gov/link/statute/102/2999); [Pub. L. 100–656, title II](https://www.govinfo.gov/link/plaw/100/public/656), §§ 204, 207(b), Nov. 15, 1988, [102 Stat. 3859](https://www.govinfo.gov/link/statute/102/3859), 3861; [Pub. L. 101–37, § 6(c)](https://www.govinfo.gov/link/plaw/101/public/37), June 15, 1989, [103 Stat. 72](https://www.govinfo.gov/link/statute/103/72); [Pub. L. 103–403, title VI, § 609](https://www.govinfo.gov/link/plaw/103/public/403), Oct. 22, 1994, [108 Stat. 4204](https://www.govinfo.gov/link/statute/108/4204); [Pub. L. 105–135, title IV, § 411](https://www.govinfo.gov/link/plaw/105/public/135), Dec. 2, 1997, [111 Stat. 2617](https://www.govinfo.gov/link/statute/111/2617); [Pub. L. 111–240, title I, § 1203(d)](https://www.govinfo.gov/link/plaw/111/public/240), Sept. 27, 2010, [124 Stat. 2522](https://www.govinfo.gov/link/statute/124/2522).)*

@@ -3,9 +3,10 @@ title: "Section 1140 - Definitions"
 usc_title: 20
 usc_section: "1140"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1140"
-generated_at: "2026-03-30T02:54:48.148Z"
+generated_at: "2026-11-23T21:25:47.255Z"
+status: "active"
 ---
 
 # § 1140. Definitions
@@ -27,3 +28,7 @@ In this part:
       - **(i)** intellectual and cognitive functioning; and
       - **(ii)** adaptive behavior as expressed in conceptual, social, and practical adaptive skills; and
     - **(B)** who is currently, or was formerly, eligible for a free appropriate public education under the Individuals with Disabilities Education Act [ 20 U.S.C. 1400 et seq.].
+
+## Source Credit
+
+*([Pub. L. 89–329, title VII, § 760](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title VII, § 709(2)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3361](https://www.govinfo.gov/link/statute/122/3361); amended [Pub. L. 111–39, title VII, § 701(4)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1954](https://www.govinfo.gov/link/statute/123/1954); [Pub. L. 111–256, § 2(a)](https://www.govinfo.gov/link/plaw/111/public/256), Oct. 5, 2010, [124 Stat. 2643](https://www.govinfo.gov/link/statute/124/2643).)*

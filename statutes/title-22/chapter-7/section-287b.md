@@ -3,9 +3,10 @@ title: "Section 287b - Reports to Congress by President"
 usc_title: 22
 usc_section: "287b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 287b"
-generated_at: "2026-03-30T02:55:05.321Z"
+generated_at: "2026-11-23T21:25:58.368Z"
+status: "active"
 ---
 
 # § 287b. Reports to Congress by President
@@ -90,3 +91,7 @@ generated_at: "2026-03-30T02:55:05.321Z"
     - **(B)** The President shall submit an annual report to the designated congressional committees on all assistance provided by the United States during the preceding calendar year to the United Nations to support peacekeeping operations. Each such report shall describe the assistance provided for each such operation, listed by category of assistance.
 - **(e)** In this section, the term “designated congressional committees” means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations and the Committee on Appropriations of the House of Representatives.
 - **(f)** Nothing in this section is intended to alter or supersede any notification requirement with respect to peacekeeping operations that is established under any other provision of law.
+
+## Source Credit
+
+*(Dec. 20, 1945, ch. 583, § 4, [59 Stat. 620](https://www.govinfo.gov/link/statute/59/620); [Pub. L. 103–236, title IV](https://www.govinfo.gov/link/plaw/103/public/236), §§ 406, 407(b), Apr. 30, 1994, [108 Stat. 448](https://www.govinfo.gov/link/statute/108/448), 450; [Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VII, § 724(a)(1), (2), (b)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–465, 1501A–467; [Pub. L. 107–228, div. A, title IV, § 405(a)](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1390](https://www.govinfo.gov/link/statute/116/1390); [Pub. L. 114–323, title III, § 306(a)](https://www.govinfo.gov/link/plaw/114/public/323), Dec. 16, 2016, [130 Stat. 1920](https://www.govinfo.gov/link/statute/130/1920).)*

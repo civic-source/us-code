@@ -3,9 +3,10 @@ title: "Section 1042 - Sales of stock to employee stock ownership plans or certa
 usc_title: 26
 usc_section: "1042"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1042"
-generated_at: "2026-03-30T02:55:27.757Z"
+generated_at: "2026-11-23T21:26:06.460Z"
+status: "active"
 ---
 
 # § 1042. Sales of stock to employee stock ownership plans or certain cooperatives
@@ -94,3 +95,9 @@ generated_at: "2026-03-30T02:55:27.757Z"
     - **(B)** subsection (b)(2) shall be applied by substituting “100 percent” for “30 percent” each place it appears,
     - **(C)** the determination as to whether any stock in the domestic corporation is a qualified security shall be made without regard to whether the stock is an employer security or to subsection (c)(1)(A), and
     - **(D)** paragraphs (2)(D) and (7) of subsection (c) shall not apply.
+
+Employees must own 30 percent of stock after sale
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title V, § 541(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 887](https://www.govinfo.gov/link/statute/98/887); amended [Pub. L. 99–514, title XVIII](https://www.govinfo.gov/link/plaw/99/public/514), §§ 1854(a)(1), (2)(A), (3)(B), (4), (5)(A), (6)(A), (7), (8)(A), (9)(B), (10), (11), (f)(3)(B), 1899A(26), Oct. 22, 1986, [100 Stat. 2872–2878](https://www.govinfo.gov/link/statute/100/2872), 2882, 2959; [Pub. L. 100–647, title I, § 1018(t)(4)(D)](https://www.govinfo.gov/link/plaw/100/public/647) –(F), Nov. 10, 1988, [102 Stat. 3588](https://www.govinfo.gov/link/statute/102/3588); [Pub. L. 101–239, title VII, § 7303(a)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2352](https://www.govinfo.gov/link/statute/103/2352); [Pub. L. 101–508, title XI, § 11801(c)(9)(H)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–526](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1311(b)(3), 1316(d)(3), 1616(b)(13), 1704(t)(50), Aug. 20, 1996, [110 Stat. 1784](https://www.govinfo.gov/link/statute/110/1784), 1786, 1857, 1890; [Pub. L. 105–34, title IX, § 968(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 895](https://www.govinfo.gov/link/statute/111/895); [Pub. L. 117–328, div. T, title I, § 114(a)](https://www.govinfo.gov/link/plaw/117/public/328), (b), Dec. 29, 2022, [136 Stat. 5296](https://www.govinfo.gov/link/statute/136/5296).)*

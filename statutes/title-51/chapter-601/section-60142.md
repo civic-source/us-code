@@ -3,9 +3,10 @@ title: "Section 60142 - Archiving of data"
 usc_title: 51
 usc_section: "60142"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 60142"
-generated_at: "2026-03-30T02:56:28.712Z"
+generated_at: "2026-11-23T21:26:42.558Z"
+status: "active"
 ---
 
 # § 60142. Archiving of data
@@ -24,3 +25,32 @@ generated_at: "2026-03-30T02:56:28.712Z"
   - **(6)** include, as the Secretary of the Interior considers appropriate, data collected by foreign ground stations or by foreign remote sensing space systems; and
   - **(7)** ensure that the content of the archive is developed in accordance with section 60146 of this title .
 - **(d)** After the expiration of any exclusive right to sell, or after relinquishment of such right, the data provided to the National Satellite Land Remote Sensing Data Archive shall be in the public domain and shall be made available to requesting parties by the Secretary of the Interior at the cost of fulfilling user requests.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60142 | 15 U.S.C. 5652 . | Pub. L. 102–555, title V, § 502 , Oct. 28, 1992 , 106 Stat. 4176 . |
+
+
+Public Interest
+
+Archiving Practices
+
+Determination of Content of Basic Data Set
+
+Public Domain
+
+Historical and Revision Notes
+
+60142
+
+15 U.S.C. 5652
+
+Pub. L. 102–555, title V, § 502
+
+Oct. 28, 1992
+
+106 Stat. 4176
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3419](https://www.govinfo.gov/link/statute/124/3419).)*

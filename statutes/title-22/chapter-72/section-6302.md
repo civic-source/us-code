@@ -3,12 +3,17 @@ title: "Section 6302 - Role of international financial institutions"
 usc_title: 22
 usc_section: "6302"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6302"
-generated_at: "2026-03-30T02:55:05.427Z"
+generated_at: "2026-11-23T21:25:58.684Z"
+status: "active"
 ---
 
 # § 6302. Role of international financial institutions
 
 The Secretary of the Treasury shall instruct the United States executive director to each of the international financial institutions described in section 262d(a) of this title to use the voice and vote of the United States to oppose any use of the institution’s funds to promote the acquisition of unsafeguarded special nuclear material or the development, stockpiling, or use of any nuclear explosive device by any non-nuclear-weapon state.
 
+
+## Source Credit
+
+*([Pub. L. 103–236, title VIII, § 823(a)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 512](https://www.govinfo.gov/link/statute/108/512).)*

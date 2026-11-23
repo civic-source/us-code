@@ -3,9 +3,10 @@ title: "Section 7503 - National Oceans and Coastal Security Fund"
 usc_title: 16
 usc_section: "7503"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 7503"
-generated_at: "2026-03-30T02:54:23.076Z"
+generated_at: "2026-11-23T21:25:52.067Z"
+status: "active"
 ---
 
 # § 7503. National Oceans and Coastal Security Fund
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:23.076Z"
 - **(e)** After notice and an opportunity for a hearing, the Administrator is authorized to recover any Federal payments under this section if the Foundation—
   - **(1)** makes a withdrawal or expenditure from the Fund that is not consistent with the requirements of section 7504 of this title ; or
   - **(2)** fails to comply with a procedure, measure, method, or standard established under section 7505(a)(1) of this title .
+
+## Source Credit
+
+*([Pub. L. 114–113, div. O, title IX, § 904](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3031](https://www.govinfo.gov/link/statute/129/3031).)*

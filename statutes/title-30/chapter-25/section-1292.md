@@ -3,9 +3,10 @@ title: "Section 1292 - Other Federal laws"
 usc_title: 30
 usc_section: "1292"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1292"
-generated_at: "2026-03-30T02:55:29.403Z"
+generated_at: "2026-11-23T21:26:00.431Z"
+status: "active"
 ---
 
 # § 1292. Other Federal laws
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:29.403Z"
 - **(b)** Nothing in this chapter shall affect in any way the authority of the Secretary or the heads of other Federal agencies under other provisions of law to include in any lease, license, permit, contract, or other instrument such conditions as may be appropriate to regulate surface coal mining and reclamation operations on land under their jurisdiction.
 - **(c)** To the greatest extent practicable each Federal agency shall cooperate with the Secretary and the States in carrying out the provisions of this chapter.
 - **(d)** Approval of the State programs, pursuant to section 1253(b) of this title , promulgation of Federal programs, pursuant to section 1254 of this title , and implementation of the Federal lands programs, pursuant to section 1273 of this title , shall not constitute a major action within the meaning of section 102(2)(C) of the National Environmental Policy Act of 1969 ( 42 U.S.C. 4332 ). Adoption of regulations under section 1251(b) of this title shall constitute a major action within the meaning of section 102(2)(C) of the National Environmental Policy Act of 1969 ( 42 U.S.C. 4332 ).
+
+## Source Credit
+
+*([Pub. L. 95–87, title VII, § 702](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 519](https://www.govinfo.gov/link/statute/91/519).)*

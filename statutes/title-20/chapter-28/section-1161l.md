@@ -3,9 +3,10 @@ title: "Section 1161l - Student safety and campus emergency management"
 usc_title: 20
 usc_section: "1161l"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1161l"
-generated_at: "2026-03-30T02:54:48.152Z"
+generated_at: "2026-11-23T21:25:47.277Z"
+status: "active"
 ---
 
 # § 1161l. Student safety and campus emergency management
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:48.152Z"
 - **(d)** Each institution of higher education or consortium desiring a grant under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 - **(e)** The Secretary shall coordinate technical assistance provided by State and local emergency management agencies, the Department of Homeland Security, and other agencies as appropriate, to institutions of higher education or consortia that request assistance in developing and implementing the activities assisted under this section.
 - **(f)** There are authorized to be appropriated to carry out this part such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VIII, § 821](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title VIII, § 801](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3408](https://www.govinfo.gov/link/statute/122/3408); amended [Pub. L. 111–39, title VIII, § 801(6)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1956](https://www.govinfo.gov/link/statute/123/1956).)*

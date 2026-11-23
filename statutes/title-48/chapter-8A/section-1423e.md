@@ -3,12 +3,17 @@ title: "Section 1423e - Prohibition against acceptance of salary increases or ne
 usc_title: 48
 usc_section: "1423e"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1423e"
-generated_at: "2026-03-30T02:56:14.585Z"
+generated_at: "2026-11-23T21:26:37.998Z"
+status: "active"
 ---
 
 # § 1423e. Prohibition against acceptance of salary increases or newly created offices
 
 No member of the legislature shall, during the term for which he was elected or during the year following the expiration of such term, be appointed to any office which has been created, or the salary or emoluments of which have been increased during such term.
 
+
+## Source Credit
+
+*(Aug. 1, 1950, ch. 512, § 15, [64 Stat. 388](https://www.govinfo.gov/link/statute/64/388).)*

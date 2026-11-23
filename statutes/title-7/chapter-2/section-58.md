@@ -3,12 +3,17 @@ title: "Section 58 - General inspection and sampling of cotton"
 usc_title: 7
 usc_section: "58"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 58"
-generated_at: "2026-03-30T02:53:42.252Z"
+generated_at: "2026-11-23T21:25:27.871Z"
+status: "active"
 ---
 
 # § 58. General inspection and sampling of cotton
 
 In order to carry out the provisions of this chapter, the Secretary of Agriculture is authorized to cause the inspection, including the sampling, of any cotton involved in any transaction or shipment in commerce, wherever such cotton may be found, or of any cotton with respect to which a determination of the true classification is requested under section 54 of this title .
 
+
+## Source Credit
+
+*(Mar. 4, 1923, ch. 288, § 7, [42 Stat. 1518](https://www.govinfo.gov/link/statute/42/1518).)*

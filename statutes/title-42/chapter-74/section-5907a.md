@@ -3,9 +3,10 @@ title: "Section 5907a - Small grant program"
 usc_title: 42
 usc_section: "5907a"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5907a"
-generated_at: "2026-03-30T02:56:11.240Z"
+generated_at: "2026-11-23T21:26:32.839Z"
+status: "active"
 ---
 
 # § 5907a. Small grant program
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:11.240Z"
 - **(e)** The Secretary shall—
   - **(1)** prepare and submit no later than October 1, 1977 , a detailed report on plans for implementation, including the timing of implementation, of the provisions of this section to the Committee on Energy and Natural Resources of the Senate and the Committee on Science and Technology of the House of Representatives and shall keep such committees fully and currently informed concerning the development of such plans; and
   - **(2)** include as a part of the annual report required by section 15(a)(1) 1 1 See References in Text note below. of the Federal Nonnuclear Energy Research and Development Act of 1974 beginning in 1977, a full and complete report on the program under this section.
+
+## Source Credit
+
+*([Pub. L. 95–39, title I, § 112](https://www.govinfo.gov/link/plaw/95/public/39), June 3, 1977, [91 Stat. 186](https://www.govinfo.gov/link/statute/91/186); [Pub. L. 95–91, title III, § 301(a)](https://www.govinfo.gov/link/plaw/95/public/91), title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577](https://www.govinfo.gov/link/statute/91/577), 606, 607.)*

@@ -3,9 +3,10 @@ title: "Section 1553 - Review of discharge or dismissal"
 usc_title: 10
 usc_section: "1553"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1553"
-generated_at: "2026-03-30T02:53:38.128Z"
+generated_at: "2026-11-23T21:25:32.499Z"
+status: "active"
 ---
 
 # § 1553. Review of discharge or dismissal
@@ -31,3 +32,17 @@ generated_at: "2026-03-30T02:53:38.128Z"
   - **(2)** The number of claims submitted during the calendar quarter preceding the calendar quarter in which such information is made available that relate to service by a former member during a war or contingency operation, catalogued by each war or contingency operation.
   - **(3)** The number of discharges or dismissals corrected pursuant to the consideration described in paragraph (1) to upgrade the characterization of discharge or dismissal of former members.
   - **(4)** The number and disposition of claims decided during the calendar quarter preceding the calendar quarter in which such information is made available in which sexual assault is alleged to have contributed, whether in whole or in part, to the original characterization of the discharge or release of the former member.
+
+Mandatory Review
+
+Covered Armed Force Defined
+
+In general
+
+Uniformity of training
+
+Secretary concerned defined
+
+## Source Credit
+
+*(Added [Pub. L. 85–857, § 13(v)(2)](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1266](https://www.govinfo.gov/link/statute/72/1266); amended [Pub. L. 87–651, title I, § 110(a)](https://www.govinfo.gov/link/plaw/87/public/651), Sept. 7, 1962, [76 Stat. 509](https://www.govinfo.gov/link/statute/76/509); [Pub. L. 98–209, § 11(b)](https://www.govinfo.gov/link/plaw/98/public/209), Dec. 6, 1983, [97 Stat. 1407](https://www.govinfo.gov/link/statute/97/1407); [Pub. L. 101–189, div. A, title XVI, § 1621(a)(2)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1603](https://www.govinfo.gov/link/statute/103/1603); [Pub. L. 111–84, div. A, title V, § 512(b)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2281](https://www.govinfo.gov/link/statute/123/2281); [Pub. L. 113–291, div. A, title V, § 521(b)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3360](https://www.govinfo.gov/link/statute/128/3360); [Pub. L. 114–328, div. A, title V](https://www.govinfo.gov/link/plaw/114/public/328), §§ 533(b), 535, Dec. 23, 2016, [130 Stat. 2121](https://www.govinfo.gov/link/statute/130/2121), 2123; [Pub. L. 115–91, div. A, title V](https://www.govinfo.gov/link/plaw/115/public/91), §§ 520(b), 521(b), (c)(2), title X, § 1081(a)(28), Dec. 12, 2017, [131 Stat. 1379](https://www.govinfo.gov/link/statute/131/1379), 1380, 1595; [Pub. L. 116–92, div. A, title V](https://www.govinfo.gov/link/plaw/116/public/92), §§ 521(b), 522, 523(b)(2)(B), Dec. 20, 2019, [133 Stat. 1353](https://www.govinfo.gov/link/statute/133/1353), 1354; [Pub. L. 116–283, div. A, title X, § 1081(a)(28)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3872](https://www.govinfo.gov/link/statute/134/3872).)*

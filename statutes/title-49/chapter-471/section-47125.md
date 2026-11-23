@@ -3,9 +3,10 @@ title: "Section 47125 - Conveyances of United States Government land"
 usc_title: 49
 usc_section: "47125"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 47125"
-generated_at: "2026-03-30T02:56:19.404Z"
+generated_at: "2026-11-23T21:26:40.984Z"
+status: "active"
 ---
 
 # § 47125. Conveyances of United States Government land
@@ -26,3 +27,37 @@ generated_at: "2026-03-30T02:56:19.404Z"
       - **(iii)** is necessary to protect or advance the civil aviation interests of the United States.
     - **(D)** Any other conditions required by the Secretary.
   - **(3)** The Secretary shall include a list and description of each waiver granted pursuant to paragraph (1) in the plan required under section 47103.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 47125(a) | 49 App.:2215(a), (b). | Sept. 3, 1982 , Pub. L. 97–248, § 516 , 96 Stat. 692 . |
+| 47125(b) | 49 App.:2215(c). |  |
+
+
+Conveyances to Public Agencies
+
+Nonapplication
+
+Waiving Restrictions.—
+
+In general
+
+Conditions
+
+Annual reporting
+
+Historical and Revision Notes
+
+47125(a)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 516
+
+96 Stat. 692
+
+47125(b)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1276](https://www.govinfo.gov/link/statute/108/1276); [Pub. L. 106–181, title I, § 125(b)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 75](https://www.govinfo.gov/link/statute/114/75); [Pub. L. 118–63, title VII, § 719(a)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1260](https://www.govinfo.gov/link/statute/138/1260).)*

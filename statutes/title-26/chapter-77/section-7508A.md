@@ -3,9 +3,10 @@ title: "Section 7508A - Authority to postpone certain deadlines by reason of Fed
 usc_title: 26
 usc_section: "7508A"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7508A"
-generated_at: "2026-03-30T02:55:27.876Z"
+generated_at: "2026-11-23T21:26:06.978Z"
+status: "active"
 ---
 
 # § 7508A. Authority to postpone certain deadlines by reason of Federally declared disaster, significant fire, or terroristic or military actions
@@ -41,3 +42,33 @@ generated_at: "2026-03-30T02:55:27.876Z"
   - **(6)** For purposes of paragraph (1), in the case of multiple declarations relating to a disaster area which are issued within a 120-day period, a separate period shall be determined under such paragraph with respect to each such declaration.
 - **(f)** For purposes of this section, the term “significant fire” means any fire with respect to which assistance is provided under section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act.
 - **(f)** For purposes of section 6511(b)(2)(A), any period disregarded under this section with respect to the time prescribed for filing any return of tax shall be treated as an extension of time for filing such return.
+
+“The Secretary of the Treasury (or the Secretary’s delegate) shall ensure that Internal Revenue Service Notice 2020–65 (entitled ‘Relief with Respect to Employment Tax Deadlines Applicable to Employers Affected by the Ongoing Coronavirus (COVID–19) Disease 2019 Pandemic’) and any successor or related regulation, notice, or guidance is applied—
+
+In General
+
+Applicability of Certain Rules
+
+In General
+
+Presidentially Declared Disaster Area
+
+Individual
+
+Effective Date
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*(Added [Pub. L. 105–34, title IX, § 911(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 877](https://www.govinfo.gov/link/statute/111/877); amended [Pub. L. 107–16, title VIII, § 802(a)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 149](https://www.govinfo.gov/link/statute/115/149); [Pub. L. 107–134, title I, § 112(a)](https://www.govinfo.gov/link/plaw/107/public/134), Jan. 23, 2002, [115 Stat. 2433](https://www.govinfo.gov/link/statute/115/2433); [Pub. L. 110–343, div. C, title VII, § 706(a)(2)(D)(vii)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3922](https://www.govinfo.gov/link/statute/122/3922); [Pub. L. 115–141, div. U, title IV, § 401(b)(10)(B)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1202](https://www.govinfo.gov/link/statute/132/1202); [Pub. L. 116–94, div. Q, title II, § 205(a)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3245](https://www.govinfo.gov/link/statute/133/3245); [Pub. L. 117–58, div. H, title V](https://www.govinfo.gov/link/plaw/117/public/58), §§ 80501(a), 80504(a), (b)(1), Nov. 15, 2021, [135 Stat. 1335](https://www.govinfo.gov/link/statute/135/1335), 1336; [Pub. L. 119–29, § 2(a)](https://www.govinfo.gov/link/plaw/119/public/29), (b), July 24, 2025, [139 Stat. 471](https://www.govinfo.gov/link/statute/139/471); [Pub. L. 119–64, § 2(a)(1)](https://www.govinfo.gov/link/plaw/119/public/64), Dec. 26, 2025, [139 Stat. 1984](https://www.govinfo.gov/link/statute/139/1984).)*

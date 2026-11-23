@@ -3,9 +3,10 @@ title: "Section 410bbbb - Reconstruction Era National Historical Park and Recons
 usc_title: 16
 usc_section: "410bbbb"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410bbbb"
-generated_at: "2026-03-30T02:54:22.785Z"
+generated_at: "2026-11-23T21:25:51.491Z"
+status: "active"
 ---
 
 # § 410bbbb. Reconstruction Era National Historical Park and Reconstruction Era National Historic Network
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:54:22.785Z"
       - **(ii)** are included in, or determined by the Secretary to be eligible for inclusion in, the National Register of Historic Places.
     - **(C)** Other governmental and nongovernmental sites, facilities, and programs of an educational, research, or interpretive nature that are directly related to the Reconstruction Era.
   - **(4)** To achieve the purposes of this section and to ensure effective coordination of the Federal and non-Federal elements of the Network and units and programs of the National Park Service, the Secretary may enter into cooperative agreements and memoranda of understanding with, and provide technical assistance to, the heads of other Federal agencies, States, units of local government, regional governmental bodies, and private entities.
+
+## Source Credit
+
+*([Pub. L. 116–9, title II, § 2204](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 735](https://www.govinfo.gov/link/statute/133/735).)*

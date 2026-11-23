@@ -3,9 +3,10 @@ title: "Section 6809 - Investigations and power to subpoena"
 usc_title: 7
 usc_section: "6809"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6809"
-generated_at: "2026-03-30T02:53:42.438Z"
+generated_at: "2026-11-23T21:25:28.401Z"
+status: "active"
 ---
 
 # § 6809. Investigations and power to subpoena
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.438Z"
   - **(2)** The court may issue an order requiring the person referred to in paragraph (1) to comply with a subpoena referred to in paragraph (1).
   - **(3)** Any failure to obey the order of the court may be punished by the court as a contempt of court.
   - **(4)** Process in any proceeding under this subsection may be served in the United States judicial district in which the person being proceeded against resides or conducts business or wherever the person may be found.
+
+## Source Credit
+
+*([Pub. L. 103–190, § 10](https://www.govinfo.gov/link/plaw/103/public/190), Dec. 14, 1993, [107 Stat. 2288](https://www.govinfo.gov/link/statute/107/2288).)*

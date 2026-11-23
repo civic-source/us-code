@@ -3,9 +3,10 @@ title: "Section 8257 - Interagency Energy Management Task Force"
 usc_title: 42
 usc_section: "8257"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8257"
-generated_at: "2026-03-30T02:56:11.338Z"
+generated_at: "2026-11-23T21:26:33.190Z"
+status: "active"
 ---
 
 # § 8257. Interagency Energy Management Task Force
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.338Z"
   - **(4)** develop options for use in conserving energy;
   - **(5)** report to the committee organized under section 7266 of this title ; and
   - **(6)** review, from time to time as may be necessary, the regulations relating to building temperature settings to determine whether changes in such regulations would be appropriate to assist in meeting the goals specified in section 8253 of this title .
+
+## Source Credit
+
+*([Pub. L. 95–619, title V, § 547](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3279](https://www.govinfo.gov/link/statute/92/3279); [Pub. L. 100–615, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/615), Nov. 5, 1988, [102 Stat. 3187](https://www.govinfo.gov/link/statute/102/3187).)*

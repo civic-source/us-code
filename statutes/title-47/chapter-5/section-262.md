@@ -3,9 +3,10 @@ title: "Section 262 - Ensuring the integrity of voice communications"
 usc_title: 47
 usc_section: "262"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 262"
-generated_at: "2026-03-30T02:56:24.502Z"
+generated_at: "2026-11-23T21:26:35.965Z"
+status: "active"
 ---
 
 # § 262. Ensuring the integrity of voice communications
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:24.502Z"
       - **(i)** from an end user connection using a North American Numbering Plan resource; or
       - **(ii)** to an end user connection using such a numbering resource; and
     - **(B)** does not itself, either directly or in conjunction with an affiliate, serve as a covered provider in the context of originating or terminating a given call.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title II, § 262, as added [Pub. L. 115–129, § 2](https://www.govinfo.gov/link/plaw/115/public/129), Feb. 26, 2018, [132 Stat. 329](https://www.govinfo.gov/link/statute/132/329).)*

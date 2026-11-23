@@ -3,9 +3,10 @@ title: "Section 3504a - Ocean and coastal mapping Federal funding opportunity"
 usc_title: 33
 usc_section: "3504a"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3504a"
-generated_at: "2026-03-30T02:55:41.141Z"
+generated_at: "2026-11-23T21:26:11.485Z"
+status: "active"
 ---
 
 # § 3504a. Ocean and coastal mapping Federal funding opportunity
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:41.141Z"
   - **(2)** determination of the appropriate funding match amounts and mechanisms to use, such as grants, agreements, or contracts; and
   - **(3)** other funding award criteria as are necessary or appropriate to ensure that evaluations of proposals and decisions to award funding under this section are based on objective standards applied fairly and equitably to those proposals.
 - **(c)** The ocean and coastal mapping Federal funding match opportunity developed under subsection (a) shall leverage Federal expertise and capacities for geospatial services and Federal geospatial contract vehicles using the private sector for acquisition efficiencies.
+
+## Source Credit
+
+*([Pub. L. 111–11, title XII, § 12206](https://www.govinfo.gov/link/plaw/111/public/11), as added [Pub. L. 117–263, div. J, title CIII, § 10307(e)(2)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3978](https://www.govinfo.gov/link/statute/136/3978).)*

@@ -3,9 +3,10 @@ title: "Section 1391 - Near real-time monitoring and mitigation program for larg
 usc_title: 16
 usc_section: "1391"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1391"
-generated_at: "2026-03-30T02:54:22.963Z"
+generated_at: "2026-11-23T21:25:51.869Z"
+status: "active"
 ---
 
 # § 1391. Near real-time monitoring and mitigation program for large cetaceans
@@ -55,3 +56,17 @@ generated_at: "2026-03-30T02:54:22.963Z"
 - **(g)** The Under Secretary may enter into and perform such contracts, leases, grants, or cooperative agreements as may be necessary to carry out this section on such terms as the Under Secretary considers appropriate, consistent with the Federal Acquisition Regulation.
 - **(h)** An activity may not be carried out under this section if the Secretary of Defense, in consultation with the Under Secretary, determines that the activity would negatively impact the defense readiness or the national security of the United States.
 - **(i)** From funds otherwise appropriated to the Under Secretary $5,000,000 is authorized to support development, deployment, application, and ongoing maintenance of the Program and to otherwise carry out this section for each of fiscal years 2023 through 2027.
+
+(aa) an assessment of the benefits and efficacy of the pilot project;
+
+(bb) a strategic plan to expand the pilot project to provide near real-time monitoring and mitigation measures— (AA) to additional large cetaceans of concern for which such measures would reduce risk of serious injury or death; and (BB) in important feeding, breeding, calving, rearing, or migratory habitats of large cetaceans that co-occur with areas of high risk of mortality or serious injury from vessel strikes or disturbance;
+
+(cc) a budget and description of funds necessary to carry out such plan;
+
+(dd) a prioritized plan for acquisition, deployment, and maintenance of monitoring technologies; and
+
+(ee) the locations or species to which such plan would apply.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. K, title CXIII, § 11303](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4072](https://www.govinfo.gov/link/statute/136/4072).)*

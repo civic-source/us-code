@@ -3,9 +3,10 @@ title: "Section 1397a - Payments to States"
 usc_title: 42
 usc_section: "1397a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1397a"
-generated_at: "2026-03-30T02:56:11.065Z"
+generated_at: "2026-11-23T21:26:31.927Z"
+status: "active"
 ---
 
 # § 1397a. Payments to States
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.065Z"
   - **(2)** families denied cash assistance under the State program funded under part A of subchapter IV for a child who is born to a member of the family who is—
     - **(A)** a recipient of assistance under the program; or
     - **(B)** a person who received such assistance at any time during the 10-month period ending with the birth of the child.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XX, § 2002, as added [Pub. L. 97–35, title XXIII, § 2352(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 867](https://www.govinfo.gov/link/statute/95/867); amended [Pub. L. 98–369, div. B, title VI, § 2663(h)(1)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1169](https://www.govinfo.gov/link/statute/98/1169); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 104–193, title IX, § 908(b)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2351](https://www.govinfo.gov/link/statute/110/2351); [Pub. L. 111–148, title VI, § 6703(d)(1)(B)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 803](https://www.govinfo.gov/link/statute/124/803).)*

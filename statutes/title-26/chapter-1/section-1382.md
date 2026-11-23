@@ -3,9 +3,10 @@ title: "Section 1382 - Taxable income of cooperatives"
 usc_title: 26
 usc_section: "1382"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1382"
-generated_at: "2026-03-30T02:55:27.771Z"
+generated_at: "2026-11-23T21:26:06.500Z"
+status: "active"
 ---
 
 # § 1382. Taxable income of cooperatives
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:55:27.771Z"
       - **(iii)** an amount equal to the net proceeds (as determined under such agreement) from the sale or exchange of the products in the pool shall be used to repay such loan until such loan is repaid in full (or all the products in the pool are disposed of), and
       - **(iv)** the net gains (as determined under such agreement) from the sale or exchange of such products shall be distributed to eligible producers, except to the extent that the United States or such agency permits otherwise.
   - **(2)** For purposes of this subsection, the term “completed crop pool method of accounting” means a method of accounting under which gain or loss is computed separately for each crop year pool in the year in which the last of the products in the pool are disposed of.
+
+## Source Credit
+
+*(Added [Pub. L. 87–834, § 17(a)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 1046](https://www.govinfo.gov/link/statute/76/1046); amended [Pub. L. 89–809, title II, § 211(a)(1)](https://www.govinfo.gov/link/plaw/89/public/809) –(4), Nov. 13, 1966, [80 Stat. 1580](https://www.govinfo.gov/link/statute/80/1580), 1581; [Pub. L. 91–172, title IX, § 911(a)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 722](https://www.govinfo.gov/link/statute/83/722); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 95–345, § 3](https://www.govinfo.gov/link/plaw/95/public/345), Aug. 15, 1978, [92 Stat. 483](https://www.govinfo.gov/link/statute/92/483).)*

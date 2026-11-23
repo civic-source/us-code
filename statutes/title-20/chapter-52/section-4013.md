@@ -3,9 +3,10 @@ title: "Section 4013 - State records and priority lists"
 usc_title: 20
 usc_section: "4013"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 4013"
-generated_at: "2026-03-30T02:54:48.182Z"
+generated_at: "2026-11-23T21:25:47.430Z"
+status: "active"
 ---
 
 # § 4013. State records and priority lists
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:48.182Z"
     - **(E)** The borrowing capacity of the local educational agency.
     - **(F)** Any additional costs to the local educational agency of meeting the special needs of disadvantaged students.
     - **(G)** Any other factor that demonstrates that the local educational agency has limited financial resources.
+
+## Source Credit
+
+*([Pub. L. 98–377, title V, § 504](https://www.govinfo.gov/link/plaw/98/public/377), Aug. 11, 1984, [98 Stat. 1289](https://www.govinfo.gov/link/statute/98/1289); [Pub. L. 101–637](https://www.govinfo.gov/link/plaw/101/public/637), §§ 5, 14(a)(4), (b)(5), (6), Nov. 28, 1990, [104 Stat. 4590](https://www.govinfo.gov/link/statute/104/4590), 4594, 4595.)*

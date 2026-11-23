@@ -3,9 +3,10 @@ title: "Section 1505 - Payment of duties and fees"
 usc_title: 19
 usc_section: "1505"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1505"
-generated_at: "2026-03-30T02:54:24.638Z"
+generated_at: "2026-11-23T21:25:42.716Z"
+status: "active"
 ---
 
 # § 1505. Payment of duties and fees
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:24.638Z"
 - **(b)** The Customs Service shall collect any increased or additional duties and fees due, together with interest thereon, or refund any excess moneys deposited, together with interest thereon, as determined on a liquidation or reliquidation. Duties, fees, and interest determined to be due upon liquidation or reliquidation are due 30 days after issuance of the bill for such payment. Refunds of excess moneys deposited, together with interest thereon, shall be paid within 30 days of liquidation or reliquidation.
 - **(c)** Interest assessed due to an underpayment of duties, fees, or interest shall accrue, at a rate determined by the Secretary, from the date the importer of record is required to deposit estimated duties, fees, and interest to the date of liquidation or reliquidation of the applicable entry or reconciliation. Interest on excess moneys deposited shall accrue, at a rate determined by the Secretary, from the date the importer of record deposits estimated duties, fees, and interest or, in a case in which a claim is made under section 1520(d) of this title , from the date on which such claim is made, to the date of liquidation or reliquidation of the applicable entry or reconciliation. The Secretary may prescribe an alternative mid-point interest accounting methodology, which may be employed by the importer, based upon aggregate data in lieu of accounting for such interest from each deposit data provided in this subsection.
 - **(d)** If duties, fees, and interest determined to be due or refunded are not paid in full within the 30-day period specified in subsection (b), any unpaid balance shall be considered delinquent and bear interest by 30-day periods, at a rate determined by the Secretary, from the date of liquidation or reliquidation until the full balance is paid. No interest shall accrue during the 30-day period in which payment is actually made.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 505, [46 Stat. 732](https://www.govinfo.gov/link/statute/46/732); [Pub. L. 91–271, title II, § 204(c)](https://www.govinfo.gov/link/plaw/91/public/271), June 2, 1970, [84 Stat. 283](https://www.govinfo.gov/link/statute/84/283); [Pub. L. 95–410, title I, § 103](https://www.govinfo.gov/link/plaw/95/public/410), Oct. 3, 1978, [92 Stat. 889](https://www.govinfo.gov/link/statute/92/889); [Pub. L. 97–446, title II, § 201(e)](https://www.govinfo.gov/link/plaw/97/public/446), Jan. 12, 1983, [96 Stat. 2350](https://www.govinfo.gov/link/statute/96/2350); [Pub. L. 98–573, title II, § 210(a)](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 2977](https://www.govinfo.gov/link/statute/98/2977); [Pub. L. 103–182, title VI, § 642(a)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2205](https://www.govinfo.gov/link/statute/107/2205); [Pub. L. 104–295, § 2(a)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3515](https://www.govinfo.gov/link/statute/110/3515); [Pub. L. 106–36, title II, § 2418(e)](https://www.govinfo.gov/link/plaw/106/public/36), June 25, 1999, [113 Stat. 177](https://www.govinfo.gov/link/statute/113/177); [Pub. L. 106–476, title I, § 1451](https://www.govinfo.gov/link/plaw/106/public/476), Nov. 9, 2000, [114 Stat. 2167](https://www.govinfo.gov/link/statute/114/2167); [Pub. L. 107–210, div. A, title III, § 383](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 992](https://www.govinfo.gov/link/statute/116/992); [Pub. L. 108–429, title II, § 2004(c)](https://www.govinfo.gov/link/plaw/108/public/429), Dec. 3, 2004, [118 Stat. 2592](https://www.govinfo.gov/link/statute/118/2592).)*

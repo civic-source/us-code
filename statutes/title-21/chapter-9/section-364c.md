@@ -3,9 +3,10 @@ title: "Section 364c - Registration and product listing"
 usc_title: 21
 usc_section: "364c"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 364c"
-generated_at: "2026-03-30T02:54:54.263Z"
+generated_at: "2026-11-23T21:25:56.124Z"
+status: "active"
 ---
 
 # § 364c. Registration and product listing
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:54:54.263Z"
   - **(5)** Upon a determination by the Secretary that adequate grounds do not exist to continue the suspension actions, the Secretary shall promptly vacate the suspension and reinstate the registration of the facility.
   - **(6)** If the registration of the facility is suspended under this section, no person shall introduce or deliver for introduction into commerce in the United States cosmetic products from such facility.
   - **(7)** The authority conferred by this section to issue an order to suspend a registration or vacate an order of suspension shall not be delegated to any officer or employee other than the Commissioner.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 607, as added [Pub. L. 117–328, div. FF, title III, § 3502](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5851](https://www.govinfo.gov/link/statute/136/5851).)*

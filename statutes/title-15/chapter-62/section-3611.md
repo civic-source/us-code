@@ -3,9 +3,10 @@ title: "Section 3611 - Additional remedies"
 usc_title: 15
 usc_section: "3611"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3611"
-generated_at: "2026-03-30T02:54:08.191Z"
+generated_at: "2026-11-23T21:25:39.972Z"
+status: "active"
 ---
 
 # § 3611. Additional remedies
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.191Z"
 - **(b)** In any action authorized by this section for a violation of section 3607 or 3609 of this title where actual damages have been suffered, such damages may be awarded or such other relief granted as deemed fair, just, and equitable.
 - **(c)** Every person who becomes liable to make any payment under this section may recover contributions from any person who if sued separately, would have been liable to make the same payment.
 - **(d)** The amounts recoverable under this section may include interest paid, reasonable attorneys’ fees, independent engineer and appraisers’ fees, and court costs. A defendant may recover reasonable attorneys’ fees if the court determines that the cause of action filed by the plaintiff is frivolous, malicious, or lacking in substantial merit.
+
+## Source Credit
+
+*([Pub. L. 96–399, title VI, § 612](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1679](https://www.govinfo.gov/link/statute/94/1679).)*

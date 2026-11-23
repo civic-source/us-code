@@ -3,9 +3,10 @@ title: "Section 3502 - Definitions"
 usc_title: 16
 usc_section: "3502"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3502"
-generated_at: "2026-03-30T02:54:23.017Z"
+generated_at: "2026-11-23T21:25:51.975Z"
+status: "active"
 ---
 
 # § 3502. Definitions
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:23.017Z"
   - **(8)** The term “System unit” means any undeveloped coastal barrier, or combination of closely-related undeveloped coastal barriers, included within the John H. Chafee Coastal Barrier Resources System established under section 3503(a) of this title .
   - **(9)** The term “undeveloped coastal barrier” means a coastal barrier the features and associated habitats of which contain few manmade structures and these structures, and man’s activities on such features and within such habitats, do not significantly impede geomorphic and ecological processes.
 - **(b)** Nothing in this section supersedes the official maps described in section 3503(a) of this title .
+
+## Source Credit
+
+*([Pub. L. 97–348, § 3](https://www.govinfo.gov/link/plaw/97/public/348), Oct. 18, 1982, [96 Stat. 1653](https://www.govinfo.gov/link/statute/96/1653); [Pub. L. 99–272, title XIV, § 14001(b)(5)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 329](https://www.govinfo.gov/link/statute/100/329); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 100–707, title II, § 204(c)(2)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4714](https://www.govinfo.gov/link/statute/102/4714); [Pub. L. 101–591, § 2(a)](https://www.govinfo.gov/link/plaw/101/public/591), (b)(1), (c), Nov. 16, 1990, [104 Stat. 2931](https://www.govinfo.gov/link/statute/104/2931); [Pub. L. 106–167, § 3(c)(2)](https://www.govinfo.gov/link/plaw/106/public/167), Dec. 9, 1999, [113 Stat. 1804](https://www.govinfo.gov/link/statute/113/1804); [Pub. L. 106–514, § 4(a)(1)](https://www.govinfo.gov/link/plaw/106/public/514), (2), Nov. 13, 2000, [114 Stat. 2396](https://www.govinfo.gov/link/statute/114/2396); [Pub. L. 118–117, title I, § 101](https://www.govinfo.gov/link/plaw/118/public/117), Nov. 25, 2024, [138 Stat. 1608](https://www.govinfo.gov/link/statute/138/1608).)*

@@ -3,9 +3,10 @@ title: "Section 18326 - Development of technologies and in-space capabilities fo
 usc_title: 42
 usc_section: "18326"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18326"
-generated_at: "2026-03-30T02:56:11.519Z"
+generated_at: "2026-11-23T21:26:33.820Z"
+status: "active"
 ---
 
 # § 18326. Development of technologies and in-space capabilities for beyond near-Earth space missions
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.519Z"
   - **(7)** in expanded research to understand the greatest biological impediments to human deep space missions, especially the radiation challenge.
 - **(c)** The Administrator may utilize the ISS as a testbed for any technology or capability developed under subsection (a) in a manner consistent with the provisions of this chapter.
 - **(d)** The Administrator shall coordinate development of technologies and capabilities under this section through an overall agency technology approach, as authorized by section 905 of this Act.
+
+## Source Credit
+
+*([Pub. L. 111–267, title III, § 308](https://www.govinfo.gov/link/plaw/111/public/267), Oct. 11, 2010, [124 Stat. 2818](https://www.govinfo.gov/link/statute/124/2818).)*

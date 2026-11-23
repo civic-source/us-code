@@ -3,9 +3,10 @@ title: "Section 281b - Acquisition of lands; restrictions; tribal-owned lands"
 usc_title: 16
 usc_section: "281b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 281b"
-generated_at: "2026-03-30T02:54:22.747Z"
+generated_at: "2026-11-23T21:25:51.405Z"
+status: "active"
 ---
 
 # § 281b. Acquisition of lands; restrictions; tribal-owned lands
@@ -17,3 +18,7 @@ The Secretary of the Interior may acquire by donation or with donated funds such
   - **(3)** such lands or interests are located—
     - **(A)** within an area depicted on Sheet 3, 4, or 5 of the map entitled “Nez Perce Additions”, numbered 429–20018, and dated September 1991, or
     - **(B)** within the 8-acre parcel of Old Chief Joseph’s Gravesite and Cemetery, Oregon, depicted as “Parcel A” on Sheet 2 of such map.
+
+## Source Credit
+
+*([Pub. L. 89–19, § 3](https://www.govinfo.gov/link/plaw/89/public/19), May 15, 1965, [79 Stat. 110](https://www.govinfo.gov/link/statute/79/110); [Pub. L. 102–576, § 2(3)](https://www.govinfo.gov/link/plaw/102/public/576), Oct. 30, 1992, [106 Stat. 4770](https://www.govinfo.gov/link/statute/106/4770).)*

@@ -3,9 +3,10 @@ title: "Section 5124 - Criminal penalty"
 usc_title: 49
 usc_section: "5124"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 5124"
-generated_at: "2026-03-30T02:56:19.307Z"
+generated_at: "2026-11-23T21:26:40.623Z"
+status: "active"
 ---
 
 # § 5124. Criminal penalty
@@ -20,3 +21,36 @@ generated_at: "2026-03-30T02:56:19.307Z"
   - **(1)** the person has knowledge of the facts giving rise to the violation; and
   - **(2)** the person has knowledge that the conduct was unlawful.
 - **(d)** For purposes of this section, a person acts recklessly when the person displays a deliberate indifference or conscious disregard to the consequences of that person’s conduct.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5124 | 49 App.:1809(b). | Jan. 3, 1975 , Pub. L. 93–633, § 110(b) , 88 Stat. 2161 ; restated Nov. 16, 1990 , Pub. L. 101–615, § 12(b) , 104 Stat. 3259 . |
+
+
+In General
+
+Knowing Violations
+
+Willful Violations
+
+Reckless Violations
+
+Historical and Revision Notes
+
+5124
+
+Jan. 3, 1975
+
+Pub. L. 93–633, § 110(b)
+
+88 Stat. 2161
+
+Nov. 16, 1990
+
+Pub. L. 101–615, § 12(b)
+
+104 Stat. 3259
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 781](https://www.govinfo.gov/link/statute/108/781); [Pub. L. 109–59, title VII, § 7121](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1906](https://www.govinfo.gov/link/statute/119/1906).)*

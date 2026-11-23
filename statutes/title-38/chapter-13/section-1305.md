@@ -3,9 +3,10 @@ title: "Section 1305 - Reevaluation of dependency and indemnity compensation det
 usc_title: 38
 usc_section: "1305"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1305"
-generated_at: "2026-03-30T02:55:53.478Z"
+generated_at: "2026-11-23T21:26:16.593Z"
+status: "active"
 ---
 
 # § 1305. Reevaluation of dependency and indemnity compensation determinations pursuant to changes in presumptions of service connection
@@ -23,3 +24,11 @@ generated_at: "2026-03-30T02:55:53.478Z"
     - **(A)** The Secretary shall publish on the internet website of the Department a notice that such claimants may elect to have a claim so reevaluated.
     - **(B)** The Secretary shall notify, in writing or by electronic means, veterans service organizations of the ability of such claimants to elect to have a claim so reevaluated.
     - **(C)** The Secretary shall contact each claimant identified under subsection (a) in the same manner that the Department last provided notice of a decision.
+
+Reevaluation
+
+Outreach
+
+## Source Credit
+
+*(Added [Pub. L. 117–168, title II, § 204(a)](https://www.govinfo.gov/link/plaw/117/public/168), Aug. 10, 2022, [136 Stat. 1776](https://www.govinfo.gov/link/statute/136/1776).)*

@@ -3,9 +3,10 @@ title: "Section 3716 - Administrative offset"
 usc_title: 31
 usc_section: "3716"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 3716"
-generated_at: "2026-03-30T02:55:34.059Z"
+generated_at: "2026-11-23T21:26:10.587Z"
+status: "active"
 ---
 
 # § 3716. Administrative offset
@@ -67,3 +68,47 @@ generated_at: "2026-03-30T02:55:34.059Z"
     - **(B)** any collection of any other type, class, or amount of claim, as the Secretary considers necessary to protect the interest of the United States; or
     - **(C)** the disbursement of any class or type of payment exempted by the Secretary of the Treasury at the request of a Federal agency.
   - **(3)** In applying this section with respect to any debt owed to a State, subsection (c)(3)(A) shall not apply.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3716(a) | 31 App.:954(a) (words before last comma), (c). | July 19, 1966 , Pub. L. 89–508 , 80 Stat. 308 , § 5(a)–(d); added Oct. 25, 1982 , Pub. L. 97–365, § 10(2) , 96 Stat. 1754 . |
+| 3716(b) | 31 App.:954(b). |  |
+| 3716(c)(1) | 31 App.:954(a) (words after last comma). |  |
+| 3716(c)(2) | 31 App.:954(d). |  |
+
+
+Historical and Revision Notes
+
+3716(a)
+
+July 19, 1966
+
+Pub. L. 89–508
+
+80 Stat. 308
+
+Oct. 25, 1982
+
+Pub. L. 97–365, § 10(2)
+
+96 Stat. 1754
+
+3716(b)
+
+3716(c)(1)
+
+3716(c)(2)
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+## Source Credit
+
+*(Added [Pub. L. 97–452, § 1(16)(A)](https://www.govinfo.gov/link/plaw/97/public/452), Jan. 12, 1983, [96 Stat. 2471](https://www.govinfo.gov/link/statute/96/2471); amended [Pub. L. 104–134, title III, § 31001(c)(1)](https://www.govinfo.gov/link/plaw/104/public/134), (d)(2), (e), (f), Apr. 26, 1996, [110 Stat. 1321–359](https://www.govinfo.gov/link/statute/110/1321), 1321–362; [Pub. L. 106–169, title II, § 251(b)(10)](https://www.govinfo.gov/link/plaw/106/public/169), Dec. 14, 1999, [113 Stat. 1856](https://www.govinfo.gov/link/statute/113/1856); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 110–234, title XIV, § 14219(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1482](https://www.govinfo.gov/link/statute/122/1482); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14219(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2244; [Pub. L. 110–275, title I, § 189(b)](https://www.govinfo.gov/link/plaw/110/public/275), July 15, 2008, [122 Stat. 2590](https://www.govinfo.gov/link/statute/122/2590); [Pub. L. 113–101, § 5](https://www.govinfo.gov/link/plaw/113/public/101), May 9, 2014, [128 Stat. 1153](https://www.govinfo.gov/link/statute/128/1153).)*

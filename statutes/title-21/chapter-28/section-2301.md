@@ -3,9 +3,10 @@ title: "Section 2301 - Sense of Congress"
 usc_title: 21
 usc_section: "2301"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 2301"
-generated_at: "2026-03-30T02:54:54.311Z"
+generated_at: "2026-11-23T21:25:56.304Z"
+status: "active"
 ---
 
 # § 2301. Sense of Congress
@@ -15,3 +16,7 @@ It is the sense of Congress that—
   - **(1)** the United States should apply economic and other financial sanctions to foreign traffickers of illicit opioids to protect the national security, foreign policy, and economy of the United States and the health of the people of the United States;
   - **(2)** it is imperative that the People’s Republic of China follow through on full implementation of the new regulations, adopted May 1, 2019 , to treat all fentanyl analogues as controlled substances under the laws of the People’s Republic of China, including by devoting sufficient resources for implementation and strict enforcement of the new regulations; and
   - **(3)** the effective enforcement of the new regulations should result in diminished trafficking of illicit fentanyl originating from the People’s Republic of China into the United States.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. F, title LXXII, § 7202](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2262](https://www.govinfo.gov/link/statute/133/2262).)*

@@ -3,9 +3,10 @@ title: "Section 6239 - Development, operation, and maintenance of the Reserve"
 usc_title: 42
 usc_section: "6239"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6239"
-generated_at: "2026-03-30T02:56:11.243Z"
+generated_at: "2026-11-23T21:26:32.852Z"
+status: "active"
 ---
 
 # § 6239. Development, operation, and maintenance of the Reserve
@@ -25,3 +26,33 @@ generated_at: "2026-03-30T02:56:11.243Z"
 - **(j)** If the Secretary determines expansion beyond 700,000,000 barrels of petroleum product inventory is appropriate, the Secretary shall submit a plan for expansion to the Congress.
 - **(k)** A storage or related facility of the Strategic Petroleum Reserve owned by or leased to the United States is not subject to the Interstate Commerce Act.
 - **(l)** During a drawdown and sale of Strategic Petroleum Reserve petroleum products, the Secretary may issue implementing rules, regulations, or orders in accordance with section 553 of title 5 , without regard to rulemaking requirements in section 6393 of this title , and section 7191 of this title .
+
+Establishment
+
+Purpose
+
+Collection and Deposit of Sale Proceeds in Fund.—
+
+Drawdown and sale
+
+Emergency protection
+
+Authorized Uses of Fund.—
+
+In general
+
+Program to modernize the strategic petroleum reserve.—
+
+Findings
+
+Program
+
+Authorization of Appropriations
+
+Transmission of Department Budget Requests
+
+Sunset
+
+## Source Credit
+
+*([Pub. L. 94–163, title I, § 159](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 886](https://www.govinfo.gov/link/statute/89/886); [Pub. L. 95–619, title VI, § 691(b)(2)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3288](https://www.govinfo.gov/link/statute/92/3288); [Pub. L. 97–229, § 4(b)(1)](https://www.govinfo.gov/link/plaw/97/public/229), (2)(B), Aug. 3, 1982, [96 Stat. 251](https://www.govinfo.gov/link/statute/96/251), 252; [Pub. L. 99–58, title I, § 102(a)](https://www.govinfo.gov/link/plaw/99/public/58), July 2, 1985, [99 Stat. 102](https://www.govinfo.gov/link/statute/99/102); [Pub. L. 101–383](https://www.govinfo.gov/link/plaw/101/public/383), §§ 4(a), 9, 11, Sept. 15, 1990, [104 Stat. 728](https://www.govinfo.gov/link/statute/104/728), 735; [Pub. L. 106–469, title I, § 103(12)](https://www.govinfo.gov/link/plaw/106/public/469), (13), Nov. 9, 2000, [114 Stat. 2030](https://www.govinfo.gov/link/statute/114/2030).)*

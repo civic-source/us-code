@@ -3,9 +3,10 @@ title: "Section 7 - Position and manner of display"
 usc_title: 4
 usc_section: "7"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "4 U.S.C. § 7"
-generated_at: "2026-03-30T02:52:51.497Z"
+generated_at: "2026-11-23T21:25:19.970Z"
+status: "active"
 ---
 
 # § 7. Position and manner of display
@@ -31,3 +32,44 @@ The flag, when carried in a procession with another flag or flags, should be eit
   - **(4)** the term “first responder” means a “public safety officer” as defined in section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ( 34 U.S.C. 10284 ).
 - **(n)** When the flag is used to cover a casket, it should be so placed that the union is at the head and over the left shoulder. The flag should not be lowered into the grave or allowed to touch the ground.
 - **(o)** When the flag is suspended across a corridor or lobby in a building with only one main entrance, it should be suspended vertically with the union of the flag to the observer’s left upon entering. If the building has more than one main entrance, the flag should be suspended vertically near the center of the corridor or lobby with the union to the north, when entrances are to the east and west or to the east when entrances are to the north and south. If there are entrances in more than two directions, the union should be to the east.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 7 | 36:175. | June 22, 1942, ch. 435, § 3 , 56 Stat. 378 ; Dec. 22, 1942, ch. 806, § 3 , 56 Stat. 1075 ; July 9, 1953, ch. 183 , 67 Stat. 142 ; July 7, 1976 , Pub. L. 94–344 , (6)–(11), 90 Stat. 811 ; Sept. 13, 1994 , Pub. L. 103–322, title XXXII, § 320922(b) , 108 Stat. 2131 . |
+
+
+Historical and Revision Notes
+
+7
+
+June 22, 1942, ch. 435, § 3
+
+56 Stat. 378
+
+Dec. 22, 1942, ch. 806, § 3
+
+56 Stat. 1075
+
+July 9, 1953, ch. 183
+
+67 Stat. 142
+
+July 7, 1976
+
+Pub. L. 94–344
+
+90 Stat. 811
+
+Sept. 13, 1994
+
+Pub. L. 103–322, title XXXII, § 320922(b)
+
+108 Stat. 2131
+
+[seal]
+
+Dwight D. Eisenhower.
+
+## Source Credit
+
+*(Added [Pub. L. 105–225, § 2(a)](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1495](https://www.govinfo.gov/link/statute/112/1495); amended [Pub. L. 110–41, § 3](https://www.govinfo.gov/link/plaw/110/public/41), June 29, 2007, [121 Stat. 233](https://www.govinfo.gov/link/statute/121/233); [Pub. L. 115–123, div. A, § 10102(a)](https://www.govinfo.gov/link/plaw/115/public/123), (b), Feb. 9, 2018, [132 Stat. 64](https://www.govinfo.gov/link/statute/132/64).)*

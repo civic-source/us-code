@@ -3,9 +3,10 @@ title: "Section 6 - Online survey tool for campus safety"
 usc_title: 20
 usc_section: "6"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6"
-generated_at: "2026-03-30T02:54:48.152Z"
+generated_at: "2026-11-23T21:25:47.279Z"
+status: "active"
 ---
 
 # § 1161l–6. Online survey tool for campus safety
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:54:48.152Z"
 - **(g)** Each institution of higher education shall publish, in a manner that is readily accessible and usable by individuals, including individuals with disabilities—
   - **(1)** the campus-level results of the standardized elements of the survey under this section on the website of the institution and in the biennial report required under subsection (f) for the campuses affiliated with the institution; and
   - **(2)** the campus-level results of the additional elements modifying the survey by the institution, if any, on the website of the institution.
+
+## Source Credit
+
+*([Pub. L. 117–103, div. W, title XV, § 1507](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 959](https://www.govinfo.gov/link/statute/136/959).)*

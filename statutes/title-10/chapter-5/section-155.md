@@ -3,9 +3,10 @@ title: "Section 155 - Joint Staff"
 usc_title: 10
 usc_section: "155"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 155"
-generated_at: "2026-03-30T02:53:38.041Z"
+generated_at: "2026-11-23T21:25:32.226Z"
+status: "active"
 ---
 
 # § 155. Joint Staff
@@ -39,3 +40,35 @@ generated_at: "2026-03-30T02:53:38.041Z"
   - **(2)** Not more than 1,500 members of the armed forces on the active-duty list may be assigned or detailed to permanent duty for the Joint Staff.
   - **(3)** The limitations in paragraphs (1) and (2) do not apply in time of war.
   - **(4)** Each limitation in paragraphs (1) and (2) may be exceeded by a number equal to 15 percent of such limitation in time of national emergency.
+
+Appointment of Officers to Joint Staff
+
+Director
+
+Management of Joint Staff
+
+Operation of Joint Staff
+
+Prohibition of Function as Armed Forces General Staff
+
+Tour of Duty of Joint Staff Officers
+
+Composition of Joint Staff
+
+Personnel Limitations
+
+Limitation on Size of Joint Staff
+
+Chairman’s Controlled Activity
+
+Lead Agent
+
+Data Collection and Analysis to Support ISR Allocation and Synchronization Processes
+
+In General
+
+Supplement Not Supplant
+
+## Source Credit
+
+*(Added [Pub. L. 99–433, title II, § 201](https://www.govinfo.gov/link/plaw/99/public/433), Oct. 1, 1986, [100 Stat. 1009](https://www.govinfo.gov/link/statute/100/1009); amended [Pub. L. 100–180, div. A, title XIII, § 1314(b)(2)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1175](https://www.govinfo.gov/link/statute/101/1175); [Pub. L. 101–510, div. A, title IX, § 902](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1620](https://www.govinfo.gov/link/statute/104/1620); [Pub. L. 102–484, div. A, title IX, § 911(b)(2)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2473](https://www.govinfo.gov/link/statute/106/2473); [Pub. L. 103–35, title II, § 202(a)(8)](https://www.govinfo.gov/link/plaw/103/public/35), May 31, 1993, [107 Stat. 101](https://www.govinfo.gov/link/statute/107/101); [Pub. L. 113–291, div. A, title X, § 1071(c)(1)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3508](https://www.govinfo.gov/link/statute/128/3508); [Pub. L. 114–328, div. A, title IX, § 903(b)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2344](https://www.govinfo.gov/link/statute/130/2344); [Pub. L. 116–92, div. A, title IX, § 901(a)(2)(A)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1541](https://www.govinfo.gov/link/statute/133/1541); [Pub. L. 116–283, div. A, title IX, § 924(b)(7)(B)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3822](https://www.govinfo.gov/link/statute/134/3822).)*

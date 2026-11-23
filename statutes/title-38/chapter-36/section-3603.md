@@ -3,9 +3,10 @@ title: "Section 3603 - Continuation of educational assistance benefits for certa
 usc_title: 38
 usc_section: "3603"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3603"
-generated_at: "2026-03-30T02:55:53.506Z"
+generated_at: "2026-11-23T21:26:16.753Z"
+status: "active"
 ---
 
 # § 3603. Continuation of educational assistance benefits for certain programs of education converted to distance learning by reason of emergency situations
@@ -14,3 +15,7 @@ In the case of a program of education approved by a State approving agency, or t
 
   - **(1)** monthly housing stipends under chapter 33 of this title; or
   - **(2)** payments or subsistence allowances under chapters 30, 31, 32, and 35 of this title and chapter 1606 of title 10.
+
+## Source Credit
+
+*(Added [Pub. L. 117–333, § 2(a)(2)](https://www.govinfo.gov/link/plaw/117/public/333), Jan. 5, 2023, [136 Stat. 6123](https://www.govinfo.gov/link/statute/136/6123).)*

@@ -3,9 +3,10 @@ title: "Section 50 - Other special rules"
 usc_title: 26
 usc_section: "50"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 50"
-generated_at: "2026-03-30T02:55:27.611Z"
+generated_at: "2026-11-23T21:26:05.956Z"
+status: "active"
 ---
 
 # § 50. Other special rules
@@ -85,3 +86,26 @@ generated_at: "2026-03-30T02:55:27.611Z"
   - **(6)** Section 48(f) (relating to estates and trusts).
   - **(7)** Section 48(r) (relating to certain 501(d) organizations).
 - **(e)** For purposes of this section and section 168, the ownership of energy property described in section 48(a)(3)(A)(vii) shall be determined without regard to whether such property is readily usable by a person other than the lessee or service recipient.
+
+| If the property ceases to be investment credit property within— | The recapture percentage is: |
+| --- | --- |
+| (i) One full year after placed in service | 100 |
+| (ii) One full year after the close of the period described in clause (i) | 80 |
+| (iii) One full year after the close of the period described in clause (ii) | 60 |
+| (iv) One full year after the close of the period described in clause (iii) | 40 |
+| (v) One full year after the close of the period described in clause (iv) | 20 |
+
+
+(i) One full year after placed in service
+
+(ii) One full year after the close of the period described in clause (i)
+
+(iii) One full year after the close of the period described in clause (ii)
+
+(iv) One full year after the close of the period described in clause (iii)
+
+(v) One full year after the close of the period described in clause (iv)
+
+## Source Credit
+
+*(Added [Pub. L. 101–508, title XI, § 11813(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–546](https://www.govinfo.gov/link/statute/104/1388); amended [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1616(b)(1), 1702(h)(11), 1704(t)(29), Aug. 20, 1996, [110 Stat. 1856](https://www.govinfo.gov/link/statute/110/1856), 1874, 1889; [Pub. L. 105–206, title VI, § 6004(g)(7)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 796](https://www.govinfo.gov/link/statute/112/796); [Pub. L. 108–357, title III, § 322(d)(2)(D)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1475](https://www.govinfo.gov/link/statute/118/1475); [Pub. L. 109–135, title IV, § 412](https://www.govinfo.gov/link/plaw/109/public/135) (o), Dec. 21, 2005, [119 Stat. 2638](https://www.govinfo.gov/link/statute/119/2638); [Pub. L. 113–295, div. A, title II, § 220(d)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4036](https://www.govinfo.gov/link/statute/128/4036); [Pub. L. 115–141, div. U, title IV, § 401(a)(25)](https://www.govinfo.gov/link/plaw/115/public/141), (d)(3)(B)(ii), Mar. 23, 2018, [132 Stat. 1185](https://www.govinfo.gov/link/statute/132/1185), 1209; [Pub. L. 117–167, div. A, § 107(b)(1)](https://www.govinfo.gov/link/plaw/117/public/167) –(3)(B), (d)(3), Aug. 9, 2022, [136 Stat. 1397–1399](https://www.govinfo.gov/link/statute/136/1397); [Pub. L. 117–169, title I](https://www.govinfo.gov/link/plaw/117/public/169), §§ 13102(f)(5), (i), 13702(b)(3), (4), 13801(c), Aug. 16, 2022, [136 Stat. 1917](https://www.govinfo.gov/link/statute/136/1917), 1997, 2012; [Pub. L. 119–21, title VII, § 70513(b)(3)(A)](https://www.govinfo.gov/link/plaw/119/public/21), (c)(2), July 4, 2025, [139 Stat. 271](https://www.govinfo.gov/link/statute/139/271), 272.)*

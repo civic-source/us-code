@@ -3,9 +3,10 @@ title: "Section 8412 - Judicial review"
 usc_title: 42
 usc_section: "8412"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8412"
-generated_at: "2026-03-30T02:56:11.342Z"
+generated_at: "2026-11-23T21:26:33.201Z"
+status: "active"
 ---
 
 # § 8412. Judicial review
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.342Z"
   - **(2)** Upon the filing of the petition referred to in paragraph (1), the court shall have jurisdiction to review the rule, order, or denial in accordance with chapter 7 of title 5, and to grant appropriate relief as provided in such chapter. No rule or order (or denial thereof) may be affirmed unless supported by substantial evidence.
   - **(3)** The judgment of the court affirming or setting aside, in whole or in part, any such rule, order, or denial shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28 .
   - **(4)** Subject to the direction and control of the Attorney General, as provided in section 519 of title 28 , attorneys appointed by the Secretary may appear for and represent the Secretary in any proceeding instituted under this section in accordance with section 7192(c) of this title .
+
+## Source Credit
+
+*([Pub. L. 95–620, title VII, § 702](https://www.govinfo.gov/link/plaw/95/public/620), Nov. 9, 1978, [92 Stat. 3331](https://www.govinfo.gov/link/statute/92/3331).)*

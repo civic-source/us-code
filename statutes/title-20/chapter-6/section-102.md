@@ -3,9 +3,10 @@ title: "Section 102 - Application of appropriations"
 usc_title: 20
 usc_section: "102"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 102"
-generated_at: "2026-03-30T02:54:48.082Z"
+generated_at: "2026-11-23T21:25:46.947Z"
+status: "active"
 ---
 
 # § 102. Application of appropriations
@@ -20,3 +21,7 @@ The Secretary of Education is authorized to pay over semiannually, to the truste
   - **(4)** Fourth. The Secretary of the Treasury of the United States shall have the authority to withhold the appropriation whenever he shall receive satisfactory proof that the trustees of said American Printing House for the Blind, located in Louisville, Kentucky, are not using the appropriation for the benefit of the blind in the public and private nonprofit institutions for the education of the blind in the United States.
   - **(5)** Fifth. Before any money be paid to the treasurer of the American Printing House for the Blind by the Secretary of the Treasury of the United States, the treasurer of the American Printing House for the Blind shall execute a bond, with two approved sureties, to the amount of $20,000, conditioned that the money so received shall be expended according to this law and all amendments thereto, which shall be held by the Secretary of the Treasury of the United States, and shall be renewed every two years.
   - **(6)** Sixth. The superintendent of each public institution for the education of the blind (or his designee) and the chief State school officer (or his designee), of each State and possession of the United States, the Commonwealth of Puerto Rico, and the District of Columbia, shall each, ex officio, be a member of the Board of Trustees of the American Printing House for the Blind only for purposes of administering sections 101, 102 and 104 of this title.
+
+## Source Credit
+
+*(Mar. 3, 1879, ch. 186, § 3, [20 Stat. 468](https://www.govinfo.gov/link/statute/20/468); June 25, 1906, ch. 3536, [34 Stat. 460](https://www.govinfo.gov/link/statute/34/460); Aug. 2, 1956, ch. 882, § 1, [70 Stat. 938](https://www.govinfo.gov/link/statute/70/938); [Pub. L. 87–294](https://www.govinfo.gov/link/plaw/87/public/294), §§ 1–3, Sept. 22, 1961, [75 Stat. 627](https://www.govinfo.gov/link/statute/75/627); [Pub. L. 91–230, title VIII, § 811(a)](https://www.govinfo.gov/link/plaw/91/public/230), (b), Apr. 13, 1970, [84 Stat. 194](https://www.govinfo.gov/link/statute/84/194), 195; [Pub. L. 96–88, title III, § 301(a)(2)(M)](https://www.govinfo.gov/link/plaw/96/public/88), title V, § 507, Oct. 17, 1979, [93 Stat. 678](https://www.govinfo.gov/link/statute/93/678), 692.)*

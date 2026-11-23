@@ -3,9 +3,10 @@ title: "Section 5371 - Leverage and risk-based capital requirements"
 usc_title: 12
 usc_section: "5371"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5371"
-generated_at: "2026-03-30T02:53:53.532Z"
+generated_at: "2026-11-23T21:25:37.245Z"
+status: "active"
 ---
 
 # § 5371. Leverage and risk-based capital requirements
@@ -56,3 +57,51 @@ generated_at: "2026-03-30T02:53:53.532Z"
   - **(3)**
     - **(A)** A depository institution holding company or nonbank financial company supervised by the Board of Governors of the Federal Reserve that is also a person regulated by a State insurance regulator that is engaged in the business of insurance that files financial statements with a State insurance regulator or the National Association of Insurance Commissioners utilizing only Statutory Accounting Principles in accordance with State law, shall not be required by the Board under the authority of this section or the authority of the Home Owners’ Loan Act [ 12 U.S.C. 1461 et seq.] to prepare such financial statements in accordance with Generally Accepted Accounting Principles.
     - **(B)** Nothing in subparagraph (A) shall limit the authority of the Board under any other applicable provision of law to conduct any regulatory or supervisory activity of a depository institution holding company or non-bank financial company supervised by the Board of Governors, including the collection or reporting of any information on an entity or group-wide basis. Nothing in this paragraph shall excuse the Board from its obligations to comply with section 5361(a) of this title and section 10(b)(2) of the Home Owners’ Loan Act ( 12 U.S.C. 1467a(b)(2) ), as appropriate.
+
+Definitions
+
+Community bank leverage ratio
+
+Generally applicable leverage capital requirements; generally applicable risk-based capital requirements
+
+Qualifying community bank.—
+
+Asset threshold
+
+Risk profile
+
+Community Bank Leverage Ratio
+
+Capital Compliance.—
+
+In general
+
+Existing authorities
+
+Consultation
+
+Definitions
+
+Board
+
+Savings and loan holding company
+
+Changes Required to Small Bank Holding Company Policy Statement on Assessment of Financial and Managerial Factors
+
+Exclusions
+
+In General
+
+Exclusions
+
+In General
+
+Transition Period
+
+Bank Holding Company
+
+Savings and Loan Holding Company
+
+## Source Credit
+
+*([Pub. L. 111–203, title I, § 171](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1435](https://www.govinfo.gov/link/statute/124/1435); [Pub. L. 113–250, § 2(a)](https://www.govinfo.gov/link/plaw/113/public/250), Dec. 18, 2014, [128 Stat. 2886](https://www.govinfo.gov/link/statute/128/2886); [Pub. L. 113–279, § 2](https://www.govinfo.gov/link/plaw/113/public/279), Dec. 18, 2014, [128 Stat. 3017](https://www.govinfo.gov/link/statute/128/3017); [Pub. L. 114–94, div. G, title LXXXVII, § 87001](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1798](https://www.govinfo.gov/link/statute/129/1798); [Pub. L. 115–174, title II, § 207(d)](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1312](https://www.govinfo.gov/link/statute/132/1312).)*

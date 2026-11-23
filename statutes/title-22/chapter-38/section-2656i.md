@@ -3,9 +3,10 @@ title: "Section 2656i - Counterdrug and anticrime activities of Department of St
 usc_title: 22
 usc_section: "2656i"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2656i"
-generated_at: "2026-03-30T02:55:05.376Z"
+generated_at: "2026-11-23T21:25:58.521Z"
+status: "active"
 ---
 
 # § 2656i. Counterdrug and anticrime activities of Department of State
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:05.376Z"
     - **(A)** Consistent with existing memoranda of understanding between the Department of State and other departments and agencies of the United States, including the Department of Justice, the chief of mission of every diplomatic mission of the United States shall designate an officer or officers within the mission to carry out the responsibility of the mission under paragraph (1), including the coordination of counterdrug, law enforcement, rule of law, and administration of justice programs, policy, and assistance. Such officer or officers shall report to the chief of mission, or the designee of the chief of mission, on a regular basis regarding activities undertaken in carrying out such responsibility.
     - **(B)** The chief of mission of every diplomatic mission of the United States shall submit to the Secretary on a regular basis a report on the actions undertaken by the mission to carry out such responsibility.
   - **(3)** Not later than 180 days after October 21, 1998 , the Secretary shall submit to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives a report on the status of any proposals for action or on action undertaken to improve staffing and personnel management at diplomatic missions of the United States in order to carry out the responsibility set forth in paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. B, title XXII, § 2214, Oct. 21, 1998, [112 Stat. 2681–812](https://www.govinfo.gov/link/statute/112/2681).)*

@@ -3,9 +3,10 @@ title: "Section 4016 - Annual report"
 usc_title: 20
 usc_section: "4016"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 4016"
-generated_at: "2026-03-30T02:54:48.182Z"
+generated_at: "2026-11-23T21:25:47.431Z"
+status: "active"
 ---
 
 # § 4016. Annual report
@@ -18,3 +19,7 @@ During each calendar year until 1999, the Administrator shall prepare and submit
   - **(4)** describe the types of programs for which loans or grants were made;
   - **(5)** specify the estimated total costs of such programs to the recipients of loans or grants and specify the amount of loans or grants made under the program authorized by this section; and
   - **(6)** estimate the number of schools still in need of assistance and the amount of resources needed by such schools, categorized by State, to abate all remaining asbestos hazards.
+
+## Source Credit
+
+*([Pub. L. 98–377, title V, § 507](https://www.govinfo.gov/link/plaw/98/public/377), Aug. 11, 1984, [98 Stat. 1293](https://www.govinfo.gov/link/statute/98/1293); [Pub. L. 101–637](https://www.govinfo.gov/link/plaw/101/public/637), §§ 8, 14(a)(7), Nov. 28, 1990, [104 Stat. 4592](https://www.govinfo.gov/link/statute/104/4592), 4594.)*

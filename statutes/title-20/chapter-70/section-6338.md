@@ -3,9 +3,10 @@ title: "Section 6338 - Special allocation procedures"
 usc_title: 20
 usc_section: "6338"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6338"
-generated_at: "2026-03-30T02:54:48.197Z"
+generated_at: "2026-11-23T21:25:47.506Z"
+status: "active"
 ---
 
 # § 6338. Special allocation procedures
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:48.197Z"
   - **(2)** if a local educational agency provides free public education for children who reside in the school district of another local educational agency; or
   - **(3)** to reflect the merger, creation, or change of boundaries of one or more local educational agencies.
 - **(c)** If a State educational agency determines that the amount of a grant a local educational agency would receive under sections 6333, 6334, 6335, and 6337 of this title is more than such local educational agency will use, the State educational agency shall make the excess amount available to other local educational agencies in the State that need additional funds in accordance with criteria established by the State educational agency.
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1126](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1534](https://www.govinfo.gov/link/statute/115/1534).)*

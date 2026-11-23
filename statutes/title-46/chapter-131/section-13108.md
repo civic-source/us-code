@@ -3,9 +3,10 @@ title: "Section 13108 - Computing amounts allocated to States and State records 
 usc_title: 46
 usc_section: "13108"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 13108"
-generated_at: "2026-03-30T02:56:15.560Z"
+generated_at: "2026-11-23T21:26:37.146Z"
+status: "active"
 ---
 
 # § 13108. Computing amounts allocated to States and State records requirements
@@ -19,3 +20,16 @@ generated_at: "2026-03-30T02:56:15.560Z"
   - **(1)** the State recreational boating safety program submitted by the State and accepted by the Secretary has been so changed that it no longer complies with this chapter or standards prescribed by regulations; or
   - **(2)** in carrying out the State recreational boating safety program, there has been a failure to comply substantially with the standards prescribed by regulations.
 - **(d)** The Secretary shall provide for the accounting, budgeting, and other fiscal procedures that are necessary and reasonable to carry out this section properly and efficiently. Records related to amounts allocated under this chapter shall be made available to the Secretary and the Comptroller General to conduct audits.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 13108 | 46:1480 |
+
+
+Historical and Revision Notes
+
+13108
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 596](https://www.govinfo.gov/link/statute/97/596); [Pub. L. 98–369, div. A, title X, § 1011(f)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1013](https://www.govinfo.gov/link/statute/98/1013); [Pub. L. 101–595, title III, § 312(d)](https://www.govinfo.gov/link/plaw/101/public/595), Nov. 16, 1990, [104 Stat. 2987](https://www.govinfo.gov/link/statute/104/2987); [Pub. L. 104–324, title VII, § 746(a)(3)](https://www.govinfo.gov/link/plaw/104/public/324), (4), Oct. 19, 1996, [110 Stat. 3943](https://www.govinfo.gov/link/statute/110/3943); [Pub. L. 109–304, § 16(c)(6)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1706](https://www.govinfo.gov/link/statute/120/1706).)*

@@ -3,9 +3,10 @@ title: "Section 10503 - Bilingual election requirements"
 usc_title: 52
 usc_section: "10503"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 10503"
-generated_at: "2026-03-30T02:56:30.161Z"
+generated_at: "2026-11-23T21:26:42.322Z"
+status: "active"
 ---
 
 # § 10503. Bilingual election requirements
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:30.161Z"
 - **(c)** Whenever any State or political subdivision subject to the prohibition of subsection (b) of this section provides any registration or voting notices, forms, instructions, assistance, or other materials or information relating to the electoral process, including ballots, it shall provide them in the language of the applicable minority group as well as in the English language: Provided , That where the language of the applicable minority group is oral or unwritten or in the case of Alaskan natives and American Indians, if the predominant language is historically unwritten, the State or political subdivision is only required to furnish oral instructions, assistance, or other information relating to registration and voting.
 - **(d)** Any State or political subdivision subject to the prohibition of subsection (b) of this section, which seeks to provide English-only registration or voting materials or information, including ballots, may file an action against the United States in the United States District Court for a declaratory judgment permitting such provision. The court shall grant the requested relief if it determines that the illiteracy rate of the applicable language minority group within the State or political subdivision is equal to or less than the national illiteracy rate.
 - **(e)** For purposes of this section, the term “language minorities” or “language minority group” means persons who are American Indian, Asian American, Alaskan Natives, or of Spanish heritage.
+
+## Source Credit
+
+*([Pub. L. 89–110, title II, § 203](https://www.govinfo.gov/link/plaw/89/public/110), as added [Pub. L. 94–73, title III, § 301](https://www.govinfo.gov/link/plaw/94/public/73), Aug. 6, 1975, [89 Stat. 402](https://www.govinfo.gov/link/statute/89/402); amended [Pub. L. 97–205](https://www.govinfo.gov/link/plaw/97/public/205), §§ 2(d), 4, June 29, 1982, [96 Stat. 134](https://www.govinfo.gov/link/statute/96/134); [Pub. L. 102–344, § 2](https://www.govinfo.gov/link/plaw/102/public/344), Aug. 26, 1992, [106 Stat. 921](https://www.govinfo.gov/link/statute/106/921); [Pub. L. 109–246](https://www.govinfo.gov/link/plaw/109/public/246), §§ 7, 8, July 27, 2006, [120 Stat. 581](https://www.govinfo.gov/link/statute/120/581).)*

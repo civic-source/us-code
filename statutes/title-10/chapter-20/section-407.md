@@ -3,9 +3,10 @@ title: "Section 407 - Humanitarian demining assistance and stockpiled convention
 usc_title: 10
 usc_section: "407"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 407"
-generated_at: "2026-03-30T02:53:38.057Z"
+generated_at: "2026-11-23T21:25:32.264Z"
+status: "active"
 ---
 
 # § 407. Humanitarian demining assistance and stockpiled conventional munitions assistance: authority; limitations
@@ -36,3 +37,23 @@ generated_at: "2026-03-30T02:53:38.057Z"
 - **(e)** In this section:
   - **(1)** The term “humanitarian demining assistance”, as it relates to training and support, means detection and clearance of landmines, unexploded explosive ordnance, and other explosive remnants of war, and includes activities related to the furnishing of education, training, and technical assistance with respect to explosive safety, the detection and clearance of landmines, unexploded explosive ordnance, and other explosive remnants of war.
   - **(2)** The term “stockpiled conventional munitions assistance”, as it relates to the support of humanitarian assistance efforts, means training and support in the disposal, demilitarization, physical security, and stockpile management of potentially dangerous stockpiles of explosive ordnance, small arms, and light weapons, including man-portable air-defense systems. Such term includes activities related to the furnishing of education, training, and technical assistance with respect to explosive safety and the disposal, demilitarization, physical security, and stockpile management of potentially dangerous stockpiles of explosive ordnance, small arms, and light weapons, including man-portable air-defense systems.
+
+Authority
+
+Limitations
+
+Expenses
+
+Annual Report
+
+Definitions
+
+Authority
+
+Terms and Conditions
+
+Notification
+
+## Source Credit
+
+*(Added [Pub. L. 109–364, div. A, title XII, § 1203(b)(1)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2413](https://www.govinfo.gov/link/statute/120/2413); amended [Pub. L. 112–81, div. A, title X, § 1092(a)](https://www.govinfo.gov/link/plaw/112/public/81), (b)(1), Dec. 31, 2011, [125 Stat. 1605](https://www.govinfo.gov/link/statute/125/1605), 1606; [Pub. L. 113–66, div. A, title X, § 1083](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 871](https://www.govinfo.gov/link/statute/127/871); [Pub. L. 113–291, div. A, title X](https://www.govinfo.gov/link/plaw/113/public/291), §§ 1041, 1071(f)(5), Dec. 19, 2014, [128 Stat. 3492](https://www.govinfo.gov/link/statute/128/3492), 3510; [Pub. L. 114–328, div. A, title X, § 1082](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2420](https://www.govinfo.gov/link/statute/130/2420); [Pub. L. 115–91, div. A, title X, § 1043](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1554](https://www.govinfo.gov/link/statute/131/1554); [Pub. L. 117–263, div. A, title X, § 1043](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2770](https://www.govinfo.gov/link/statute/136/2770).)*

@@ -3,9 +3,10 @@ title: "Section 18312 - Goals and objectives"
 usc_title: 42
 usc_section: "18312"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18312"
-generated_at: "2026-03-30T02:56:11.518Z"
+generated_at: "2026-11-23T21:26:33.819Z"
+status: "active"
 ---
 
 # § 18312. Goals and objectives
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.518Z"
   - **(3)** to maximize the role that human exploration of space can play in advancing overall knowledge of the universe, supporting United States national and economic security and the United States global competitive posture, and inspiring young people in their educational pursuits;
   - **(4)** to build upon the cooperative and mutually beneficial framework established by the ISS partnership agreements and experience in developing and undertaking programs and meeting objectives designed to realize the goal of human space flight set forth in subsection (a); and
   - **(5)** to achieve human exploration of Mars and beyond through the prioritization of those technologies and capabilities best suited for such a mission in accordance with the stepping stone approach to exploration under section 70504 of title 51 .
+
+## Source Credit
+
+*([Pub. L. 111–267, title II, § 202](https://www.govinfo.gov/link/plaw/111/public/267), Oct. 11, 2010, [124 Stat. 2812](https://www.govinfo.gov/link/statute/124/2812); [Pub. L. 115–10, title IV](https://www.govinfo.gov/link/plaw/115/public/10), §§ 411, 412, Mar. 21, 2017, [131 Stat. 33](https://www.govinfo.gov/link/statute/131/33).)*

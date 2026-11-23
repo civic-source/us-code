@@ -3,9 +3,10 @@ title: "Section 3641 - Authorization of appropriations"
 usc_title: 16
 usc_section: "3641"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3641"
-generated_at: "2026-03-30T02:54:23.019Z"
+generated_at: "2026-11-23T21:25:51.980Z"
+status: "active"
 ---
 
 # § 3641. Authorization of appropriations
@@ -16,3 +17,7 @@ There are authorized to be appropriated from time to time such sums as may be ne
 - **(b)** the United States share of the joint expenses of the Commission: Provided , That the United States Commissioners and Panel members and alternates shall not, with respect to commitments concerning the United States share of the joint expenses of the Organization, be subject to section 262b of title 22 insofar as it limits the authority of United States representatives to international organizations with respect to such commitments;
 - **(c)** amounts for research, enhancement, and other activities necessary to carry out the purposes of the Treaty and this chapter; and
 - **(d)** such amounts as may be due to settle accounts upon termination of the International Pacific Salmon Fisheries Commission.
+
+## Source Credit
+
+*([Pub. L. 99–5, § 12](https://www.govinfo.gov/link/plaw/99/public/5), Mar. 15, 1985, [99 Stat. 14](https://www.govinfo.gov/link/statute/99/14).)*

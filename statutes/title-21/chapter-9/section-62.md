@@ -3,9 +3,10 @@ title: "Section 62 - Authority to assess and use outsourcing facility fees"
 usc_title: 21
 usc_section: "62"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 62"
-generated_at: "2026-03-30T02:54:54.274Z"
+generated_at: "2026-11-23T21:25:56.162Z"
+status: "active"
 ---
 
 # § 379j–62. Authority to assess and use outsourcing facility fees
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:54:54.274Z"
   - **(4)** In any case where the Secretary does not receive payment of a fee assessed under this section within 30 calendar days after it is due, such fee shall be treated as a claim of the United States Government subject to provisions of subchapter II of chapter 37 of title 31.
 - **(h)** Not later than 120 calendar days after each fiscal year in which fees are assessed and collected under this section, the Secretary shall submit a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, to include a description of fees assessed and collected for such year, a summary description of entities paying the fees, a description of the hiring and placement of new staff, a description of the use of fee resources to support inspecting outsourcing facilities, and the number of inspections and reinspections of such facilities performed each year.
 - **(i)** For fiscal year 2014 and each subsequent fiscal year, there is authorized to be appropriated for fees under this section an amount equivalent to the total amount of fees assessed for such fiscal year under this section.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 744K, as added [Pub. L. 113–54, title I, § 102(b)](https://www.govinfo.gov/link/plaw/113/public/54), Nov. 27, 2013, [127 Stat. 594](https://www.govinfo.gov/link/statute/127/594).)*

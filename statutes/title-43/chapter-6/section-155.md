@@ -3,9 +3,10 @@ title: "Section 155 - Withdrawal, reservation, or restriction of public lands fo
 usc_title: 43
 usc_section: "155"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 155"
-generated_at: "2026-03-30T02:55:57.435Z"
+generated_at: "2026-11-23T21:26:19.747Z"
+status: "active"
 ---
 
 # § 155. Withdrawal, reservation, or restriction of public lands for defense purposes; “public lands” defined; exception
@@ -16,3 +17,7 @@ Notwithstanding any other provisions of law, except in time of war or national e
   - **(2)** nothing in this Act shall be deemed to be applicable to the withdrawal or reservation of public lands specifically as naval petroleum, naval oil shale, or naval coal reserves;
   - **(3)** nothing in this Act shall be deemed to be applicable to the warning areas over the Federal lands and waters of the Outer Continental Shelf and Federal lands and waters off the coast of the Territory of Alaska reserved for use of the military departments prior to August 7, 1953 , and
   - **(4)** nothing in this section, section 156, or section 157 of this title shall be deemed to be applicable either to those reservations or withdrawals which expired due to the ending of the unlimited national emergency of May 27, 1941 , and which subsequent to such expiration have been and are now used by the military departments with the concurrence of the Department of the Interior, or to the withdrawal of public domain lands of the Marine Corps Training Center, Twentynine Palms, California, and the naval gunnery ranges in the State of Nevada designated as Basic Black Rock and Basic Sahwave Mountain.
+
+## Source Credit
+
+*([Pub. L. 85–337, § 1](https://www.govinfo.gov/link/plaw/85/public/337), Feb. 28, 1958, [72 Stat. 27](https://www.govinfo.gov/link/statute/72/27).)*

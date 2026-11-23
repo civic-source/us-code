@@ -3,9 +3,10 @@ title: "Section 48B - Qualifying gasification project credit"
 usc_title: 26
 usc_section: "48B"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 48B"
-generated_at: "2026-03-30T02:55:27.609Z"
+generated_at: "2026-11-23T21:26:05.952Z"
+status: "active"
 ---
 
 # § 48B. Qualifying gasification project credit
@@ -61,3 +62,7 @@ generated_at: "2026-03-30T02:55:27.609Z"
     - **(B)** give high priority to applicant participants who have a research partnership with an eligible educational institution (as defined in section 529(e)(5)).
 - **(e)** A credit shall not be allowed under this section for any qualified investment for which a credit is allowed under section 48A.
 - **(f)** The Secretary shall provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any project which fails to attain or maintain the separation and sequestration requirements for such project under subsection (d)(1).
+
+## Source Credit
+
+*(Added [Pub. L. 109–58, title XIII, § 1307(b)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1004](https://www.govinfo.gov/link/statute/119/1004); amended [Pub. L. 110–343, div. B, title I, § 112(a)](https://www.govinfo.gov/link/plaw/110/public/343) –(e), Oct. 3, 2008, [122 Stat. 3824](https://www.govinfo.gov/link/statute/122/3824); [Pub. L. 111–5, div. B, title I, § 1103(b)(2)(D)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 321](https://www.govinfo.gov/link/statute/123/321).)*

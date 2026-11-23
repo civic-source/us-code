@@ -3,9 +3,10 @@ title: "Section 4201 - Trade negotiating objectives"
 usc_title: 19
 usc_section: "4201"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4201"
-generated_at: "2026-03-30T02:54:24.702Z"
+generated_at: "2026-11-23T21:25:42.874Z"
+status: "active"
 ---
 
 # § 4201. Trade negotiating objectives
@@ -199,3 +200,15 @@ generated_at: "2026-03-30T02:54:24.702Z"
   - **(2)** seek to establish consultative mechanisms among parties to trade agreements to strengthen the capacity of United States trading partners to develop and implement standards for the protection of the environment and human health based on sound science;
   - **(3)** promote consideration of multilateral environmental agreements and consult with parties to such agreements regarding the consistency of any such agreement that includes trade measures with existing environmental exceptions under Article XX of GATT 1994; and
   - **(4)** submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate an annual report on capacity-building activities undertaken in connection with trade agreements negotiated or being negotiated pursuant to this chapter.
+
+Section
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 114–26, title I, § 102](https://www.govinfo.gov/link/plaw/114/public/26), June 29, 2015, [129 Stat. 320](https://www.govinfo.gov/link/statute/129/320); [Pub. L. 114–125, title IX, § 914(a)](https://www.govinfo.gov/link/plaw/114/public/125) –(c), Feb. 24, 2016, [130 Stat. 273](https://www.govinfo.gov/link/statute/130/273).)*

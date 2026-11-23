@@ -3,9 +3,10 @@ title: "Section 1044d - Military testamentary instruments: requirement for recog
 usc_title: 10
 usc_section: "1044d"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1044d"
-generated_at: "2026-03-30T02:53:38.096Z"
+generated_at: "2026-11-23T21:25:32.378Z"
+status: "active"
 ---
 
 # § 1044d. Military testamentary instruments: requirement for recognition by States
@@ -46,3 +47,21 @@ generated_at: "2026-03-30T02:53:38.096Z"
     - **(A)** a judge advocate (as defined in section 801(13) of this title ); or
     - **(B)** a civilian attorney serving as a legal assistance officer under the provisions of section 1044 of this title .
   - **(3)** The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and each possession of the United States.
+
+Testamentary Instruments To Be Given Legal Effect
+
+Military Testamentary Instruments
+
+Requirements for Execution of Military Testamentary Instruments
+
+Self-Proving Military Testamentary Instruments
+
+Statement To Be Included
+
+Regulations
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title V, § 551(a)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–123; amended [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 114–328, div. A, title V, § 523(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2116](https://www.govinfo.gov/link/statute/130/2116).)*

@@ -3,9 +3,10 @@ title: "Section 21 - Stolen or counterfeit nature of property for certain crimes
 usc_title: 18
 usc_section: "21"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 21"
-generated_at: "2026-03-30T02:54:16.456Z"
+generated_at: "2026-11-23T21:25:43.934Z"
+status: "active"
 ---
 
 # § 21. Stolen or counterfeit nature of property for certain crimes defined
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:16.456Z"
   - **(1)** any property was embezzled, robbed, stolen, converted, taken, altered, counterfeited, falsely made, forged, or obliterated; and
   - **(2)** the defendant knew that the property was of such character;
 - **(b)** For purposes of this section, the term “official representation” means any representation made by a Federal law enforcement officer (as defined in section 115) or by another person at the direction or with the approval of such an officer.
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title XXXII, § 320910(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2127](https://www.govinfo.gov/link/statute/108/2127).)*

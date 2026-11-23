@@ -3,9 +3,10 @@ title: "Section 12782 - Priorities for capacity development"
 usc_title: 42
 usc_section: "12782"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12782"
-generated_at: "2026-03-30T02:56:11.432Z"
+generated_at: "2026-11-23T21:26:33.554Z"
+status: "active"
 ---
 
 # § 12782. Priorities for capacity development
@@ -18,3 +19,7 @@ To carry out section 12781 of this title , the Secretary shall provide assistanc
   - **(4)** improve the ability of States and units of general local government, community housing development organizations, private lenders, and for-profit developers of low-income housing to incorporate energy efficiency into the planning, design, financing, construction, and operation of affordable housing;
   - **(5)** facilitate the establishment and efficient operation of employer-assisted housing programs through research, technical assistance and demonstration projects; and
   - **(6)** facilitate the establishment and efficient operation of land bank programs, under which title to vacant and abandoned parcels of real estate located in or causing blighted neighborhoods is cleared for use consistent with the purposes of this subchapter.
+
+## Source Credit
+
+*([Pub. L. 101–625, title II, § 242](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4118](https://www.govinfo.gov/link/statute/104/4118); [Pub. L. 102–550, title II, § 214(a)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3759](https://www.govinfo.gov/link/statute/106/3759).)*

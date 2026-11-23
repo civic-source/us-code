@@ -3,9 +3,10 @@ title: "Section 1667c - Substance abuse and mental health services Administratio
 usc_title: 25
 usc_section: "1667c"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1667c"
-generated_at: "2026-03-30T02:54:52.826Z"
+generated_at: "2026-11-23T21:25:54.632Z"
+status: "active"
 ---
 
 # § 1667c. Substance abuse and mental health services Administration grants
@@ -51,3 +52,11 @@ generated_at: "2026-03-30T02:54:52.826Z"
     - **(A)** that receives a grant for suicide intervention, prevention, or treatment under a program administered by the Administration; and
     - **(B)** the population to be served by which includes Indian youth.
   - **(2)** The Secretary, acting through the Administration, shall ensure that each affected entity carrying out a youth suicide early intervention and prevention strategy described in section 290bb–36(c)(1) of title 42 , or any other youth suicide-related early intervention and assessment activity, provides training or education to individuals who interact frequently with the Indian youth to be served by the affected entity (including parents, teachers, coaches, and mentors) on identifying warning signs of Indian youth who are at risk of committing suicide.
+
+(aa) the Indian population of the affected State; bears to
+
+(bb) the total population of the affected State; and
+
+## Source Credit
+
+*([Pub. L. 94–437, title VII, § 724](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

@@ -3,9 +3,10 @@ title: "Section 4305 - Intertribal tourism demonstration projects"
 usc_title: 25
 usc_section: "4305"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4305"
-generated_at: "2026-03-30T02:54:52.863Z"
+generated_at: "2026-11-23T21:25:54.716Z"
+status: "active"
 ---
 
 # § 4305. Intertribal tourism demonstration projects
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:52.863Z"
   - **(3)** participation in tourism and trade missions; and
   - **(4)** any other activity that the Secretary, in consultation with the Director, determines to be appropriate to carry out this section.
 - **(c)** The demonstration projects conducted under this section shall include provisions to facilitate the development and financing of infrastructure, including the development of Indian reservation roads in a manner consistent with title 23.
+
+## Source Credit
+
+*([Pub. L. 106–464, § 6](https://www.govinfo.gov/link/plaw/106/public/464), Nov. 7, 2000, [114 Stat. 2016](https://www.govinfo.gov/link/statute/114/2016); [Pub. L. 116–261, § 3(e)(2)](https://www.govinfo.gov/link/plaw/116/public/261), (3), Dec. 30, 2020, [134 Stat. 3311](https://www.govinfo.gov/link/statute/134/3311).)*

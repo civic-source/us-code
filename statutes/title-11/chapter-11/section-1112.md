@@ -3,9 +3,10 @@ title: "Section 1112 - Conversion or dismissal"
 usc_title: 11
 usc_section: "1112"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1112"
-generated_at: "2026-03-30T02:53:53.884Z"
+generated_at: "2026-11-23T21:25:34.950Z"
+status: "active"
 ---
 
 # § 1112. Conversion or dismissal
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:53:53.884Z"
   - **(3)** if the debtor requests conversion to chapter 12 of this title, such conversion is equitable.
 - **(e)** Except as provided in subsections (c) and (f), the court, on request of the United States trustee, may convert a case under this chapter to a case under chapter 7 of this title or may dismiss a case under this chapter, whichever is in the best interest of creditors and the estate if the debtor in a voluntary case fails to file, within fifteen days after the filing of the petition commencing such case or such additional time as the court may allow, the information required by paragraph (1) of section 521(a), including a list containing the names and addresses of the holders of the twenty largest unsecured claims (or of all unsecured claims if there are fewer than twenty unsecured claims), and the approximate dollar amounts of each of such claims.
 - **(f)** Notwithstanding any other provision of this section, a case may not be converted to a case under another chapter of this title unless the debtor may be a debtor under such chapter.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2630](https://www.govinfo.gov/link/statute/92/2630); [Pub. L. 98–353, title III, § 505](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 384](https://www.govinfo.gov/link/statute/98/384); [Pub. L. 99–554, title II](https://www.govinfo.gov/link/plaw/99/public/554), §§ 224, 256, Oct. 27, 1986, [100 Stat. 3102](https://www.govinfo.gov/link/statute/100/3102), 3114; [Pub. L. 103–394, title II, § 217(c)](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4127](https://www.govinfo.gov/link/statute/108/4127); [Pub. L. 109–8, title IV, § 442(a)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 115](https://www.govinfo.gov/link/statute/119/115); [Pub. L. 111–327, § 2(a)(33)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3561](https://www.govinfo.gov/link/statute/124/3561).)*

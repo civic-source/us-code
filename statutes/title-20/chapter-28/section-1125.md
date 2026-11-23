@@ -3,9 +3,10 @@ title: "Section 1125 - Research; studies; annual report"
 usc_title: 20
 usc_section: "1125"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1125"
-generated_at: "2026-03-30T02:54:48.143Z"
+generated_at: "2026-11-23T21:25:47.237Z"
+status: "active"
 ---
 
 # § 1125. Research; studies; annual report
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:48.143Z"
   - **(11)** the systematic collection, analysis, and dissemination of data that contribute to achieving the purposes of this part; and
   - **(12)** support for programs or activities to make data collected, analyzed, or disseminated under this section publicly available and easy to understand.
 - **(b)** The Secretary shall prepare, publish, and announce an annual report listing the books and research materials produced with assistance under this section.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VI, § 605](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title VI, § 601](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1780](https://www.govinfo.gov/link/statute/112/1780); amended [Pub. L. 110–315, title VI, § 605](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3337](https://www.govinfo.gov/link/statute/122/3337).)*

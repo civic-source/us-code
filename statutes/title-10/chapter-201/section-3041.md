@@ -3,9 +3,10 @@ title: "Section 3041 - Major system"
 usc_title: 10
 usc_section: "3041"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3041"
-generated_at: "2026-03-30T02:53:38.188Z"
+generated_at: "2026-11-23T21:25:32.711Z"
+status: "active"
 ---
 
 # § 3041. Major system
@@ -22,3 +23,19 @@ generated_at: "2026-03-30T02:53:38.188Z"
 - **(d)** For purposes of subsection (b), a system for which a civilian agency is responsible shall be considered a major system if total expenditures for the system are estimated to exceed the greater of—
   - **(1)** $2,000,000 (based on fiscal year 2024 constant dollars); or
   - **(2)** the dollar threshold for a “major system” established by the agency pursuant to Office of Management and Budget (OMB) Circular A–109, entitled “Major Systems Acquisitions”.
+
+In General
+
+System Considered to Be a Major System
+
+Department of Defense Systems.—
+
+In general
+
+Adjustment authority
+
+Civilian Agency Systems
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1806(c)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4154](https://www.govinfo.gov/link/statute/134/4154); [Pub. L. 119–60, div. A, title XVIII, § 1804(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1234](https://www.govinfo.gov/link/statute/139/1234).)*

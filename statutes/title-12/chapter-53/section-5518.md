@@ -3,9 +3,10 @@ title: "Section 5518 - Authority to restrict mandatory pre-dispute arbitration"
 usc_title: 12
 usc_section: "5518"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5518"
-generated_at: "2026-03-30T02:53:53.544Z"
+generated_at: "2026-11-23T21:25:37.284Z"
+status: "active"
 ---
 
 # § 5518. Authority to restrict mandatory pre-dispute arbitration
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:53.544Z"
 - **(b)** The Bureau, by regulation, may prohibit or impose conditions or limitations on the use of an agreement between a covered person and a consumer for a consumer financial product or service providing for arbitration of any future dispute between the parties, if the Bureau finds that such a prohibition or imposition of conditions or limitations is in the public interest and for the protection of consumers. The findings in such rule shall be consistent with the study conducted under subsection (a).
 - **(c)** The authority described in subsection (b) may not be construed to prohibit or restrict a consumer from entering into a voluntary arbitration agreement with a covered person after a dispute has arisen.
 - **(d)** Notwithstanding any other provision of law, any regulation prescribed by the Bureau under subsection (b) shall apply, consistent with the terms of the regulation, to any agreement between a consumer and a covered person entered into after the end of the 180-day period beginning on the effective date of the regulation, as established by the Bureau.
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1028](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2003](https://www.govinfo.gov/link/statute/124/2003).)*

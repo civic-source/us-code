@@ -3,9 +3,10 @@ title: "Section 294 - Position standards and descriptions"
 usc_title: 2
 usc_section: "294"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 294"
-generated_at: "2026-03-30T02:53:04.795Z"
+generated_at: "2026-11-23T21:25:21.156Z"
+status: "active"
 ---
 
 # § 294. Position standards and descriptions
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:04.795Z"
   - **(5)** decide whether any such position is in its appropriate class and compensation level;
   - **(6)** change any such position from one class or compensation level to any other class or compensation level whenever the facts warrant; and
   - **(7)** prescribe such organization and position titles as may be appropriate to carry out the purposes of this chapter.
+
+## Source Credit
+
+*([Pub. L. 88–652, § 5](https://www.govinfo.gov/link/plaw/88/public/652), Oct. 13, 1964, [78 Stat. 1080](https://www.govinfo.gov/link/statute/78/1080); [Pub. L. 104–53, title I, § 108(3)](https://www.govinfo.gov/link/plaw/104/public/53), (4), Nov. 19, 1995, [109 Stat. 522](https://www.govinfo.gov/link/statute/109/522); [Pub. L. 104–186, title II, § 209(2)](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1743](https://www.govinfo.gov/link/statute/110/1743).)*

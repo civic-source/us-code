@@ -3,9 +3,10 @@ title: "Section 2060 - Judicial review of consumer product safety rules"
 usc_title: 15
 usc_section: "2060"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2060"
-generated_at: "2026-03-30T02:54:08.163Z"
+generated_at: "2026-11-23T21:25:39.906Z"
+status: "active"
 ---
 
 # § 2060. Judicial review of consumer product safety rules
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.163Z"
   - **(3)** Upon the filing of the petition under paragraph (2) of this subsection, the court shall have jurisdiction to review the rule in accordance with chapter 7 of title 5 and to grant appropriate relief, including interim relief, as provided in such chapter.
   - **(4)** The judgment of the court affirming or setting aside, in whole or in part, any final rule under this section shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification, as provided in section 1254 of title 28 .
   - **(5)** A rule or standard with respect to which this subsection applies shall not be subject to judicial review in proceedings under section 2066 of this title (relating to imported products) or in civil or criminal proceedings for enforcement.
+
+## Source Credit
+
+*([Pub. L. 92–573, § 11](https://www.govinfo.gov/link/plaw/92/public/573), Oct. 27, 1972, [86 Stat. 1218](https://www.govinfo.gov/link/statute/86/1218); [Pub. L. 94–284](https://www.govinfo.gov/link/plaw/94/public/284), §§ 10(b), 11(a), May 11, 1976, [90 Stat. 507](https://www.govinfo.gov/link/statute/90/507); [Pub. L. 97–35, title XII, § 1211(h)(1)](https://www.govinfo.gov/link/plaw/97/public/35) –(3)(A), Aug. 13, 1981, [95 Stat. 723](https://www.govinfo.gov/link/statute/95/723); [Pub. L. 97–414, § 9(j)(2)](https://www.govinfo.gov/link/plaw/97/public/414), Jan. 4, 1983, [96 Stat. 2064](https://www.govinfo.gov/link/statute/96/2064); [Pub. L. 110–314, title II, § 236(a)](https://www.govinfo.gov/link/plaw/110/public/314), Aug. 14, 2008, [122 Stat. 3075](https://www.govinfo.gov/link/statute/122/3075).)*

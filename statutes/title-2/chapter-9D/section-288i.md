@@ -3,9 +3,10 @@ title: "Section 288i - Representation conflict or inconsistency"
 usc_title: 2
 usc_section: "288i"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 288i"
-generated_at: "2026-03-30T02:53:04.795Z"
+generated_at: "2026-11-23T21:25:21.155Z"
+status: "active"
 ---
 
 # § 288i. Representation conflict or inconsistency
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:04.795Z"
   - **(1)** continuity of session is broken only by an adjournment of Congress sine die; and
   - **(2)** the days on which the Senate is not in session because of an adjournment of more than three days to a date certain are excluded.
 - **(d)** The Senate may by resolution authorize the reimbursement of any Member, officer, or employee of the Senate who is not represented by the Counsel for fees and costs, including attorneys’ fees, reasonably incurred in obtaining representation. Such reimbursement shall be from funds appropriated to the contingent fund of the Senate.
+
+## Source Credit
+
+*([Pub. L. 95–521, title VII, § 710](https://www.govinfo.gov/link/plaw/95/public/521), Oct. 26, 1978, [92 Stat. 1882](https://www.govinfo.gov/link/statute/92/1882).)*

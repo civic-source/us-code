@@ -3,12 +3,17 @@ title: "Section 714g - Board of Directors"
 usc_title: 15
 usc_section: "714g"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 714g"
-generated_at: "2026-03-30T02:54:08.116Z"
+generated_at: "2026-11-23T21:25:39.741Z"
+status: "active"
 ---
 
 # § 714g. Board of Directors
 
 - **(a)** The management of the Corporation shall be vested in a board of directors (hereinafter referred to as the “Board”), subject to the general supervision and direction of the Secretary. The Secretary shall be an ex officio director and shall serve as Chairman of the Board. The Board shall consist of seven members (in addition to the Secretary), who shall be appointed by the President. In addition to their duties as members of the Board, such appointed members shall perform such other duties as may be prescribed by the Secretary. Each appointed member of the Board shall receive compensation at such rate not in excess of the maximum then payable under chapter 51 and subchapter III of chapter 53 of title 5 as may be fixed by the Secretary, except that any such member who holds another office or position under the Federal Government the compensation for which exceeds such rate may elect to receive compensation at the rate provided for such other office or position in lieu of the compensation provided by this section. A majority of the directors shall constitute a quorum of the Board and action shall be taken only by a majority vote of those present.
 - **(b)** In addition to the Board of Directors there shall be an advisory board reflecting broad agricultural and business experience in its membership and consisting of five members who shall be appointed by the President, and who shall serve at the pleasure of the President. Not more than three of such members shall belong to the same political party. The advisory board shall meet at the call of the Secretary, who shall require it to meet not less often than once each ninety days; shall survey the general policies of the Corporation, including its policies in connection with the purchase, storage, and sale of commodities, and the operation of lending and price-support programs; and shall advise the Secretary with respect thereto. Members of the advisory board shall receive for their services as members compensation of not to exceed $50 per diem when actually engaged in the performance of their duties as such, together with their necessary traveling expenses while going to and coming from meetings.
+
+## Source Credit
+
+*(June 29, 1948, ch. 704, § 9, [62 Stat. 1072](https://www.govinfo.gov/link/statute/62/1072); June 7, 1949, ch. 175, § 3, [63 Stat. 155](https://www.govinfo.gov/link/statute/63/155); Oct. 28, 1949, ch. 782, title XI, § 1106(a), [63 Stat. 972](https://www.govinfo.gov/link/statute/63/972); [Pub. L. 94–561, § 4](https://www.govinfo.gov/link/plaw/94/public/561), Oct. 19, 1976, [90 Stat. 2643](https://www.govinfo.gov/link/statute/90/2643); [Pub. L. 112–166, § 2(a)(3)](https://www.govinfo.gov/link/plaw/112/public/166), Aug. 10, 2012, [126 Stat. 1283](https://www.govinfo.gov/link/statute/126/1283).)*

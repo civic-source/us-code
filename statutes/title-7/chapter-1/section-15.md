@@ -3,9 +3,10 @@ title: "Section 15 - Omitted"
 usc_title: 7
 usc_section: "15"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 15"
-generated_at: "2026-03-30T02:53:42.246Z"
+generated_at: "2026-11-23T21:25:27.863Z"
+status: "omitted"
 ---
 
 # § 15. Omitted

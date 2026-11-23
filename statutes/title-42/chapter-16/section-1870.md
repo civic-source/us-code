@@ -3,9 +3,10 @@ title: "Section 1870 - General authority of Foundation"
 usc_title: 42
 usc_section: "1870"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1870"
-generated_at: "2026-03-30T02:56:11.130Z"
+generated_at: "2026-11-23T21:26:32.231Z"
+status: "active"
 ---
 
 # § 1870. General authority of Foundation
@@ -24,3 +25,11 @@ The Foundation shall have the authority, within the limits of available appropri
 - **(j)** to arrange with and reimburse the heads of other Federal agencies for the performance of any activity which the Foundation is authorized to conduct;
 - **(k)** during the 5-year period beginning on August 21, 1986 , to indemnify grantees, contractors, and subcontractors associated with the Ocean Drilling Program under the provisions of section 2354 1 1 See References in Text note below. of title 10 with all approvals and certifications required by such indemnification made by the Director; and
 - **(l)** to provide for the widest practicable and appropriate dissemination of information within the United States concerning the Foundation’s activities and the results of those activities.
+
+Prohibition
+
+Interagency Communication
+
+## Source Credit
+
+*(May 10, 1950, ch. 171, § 11, [64 Stat. 153](https://www.govinfo.gov/link/statute/64/153); [Pub. L. 86–232, § 6](https://www.govinfo.gov/link/plaw/86/public/232), Sept. 8, 1959, [73 Stat. 468](https://www.govinfo.gov/link/statute/73/468); [Pub. L. 90–407, § 9](https://www.govinfo.gov/link/plaw/90/public/407), July 18, 1968, [82 Stat. 365](https://www.govinfo.gov/link/statute/82/365); [Pub. L. 99–159, title I, § 110(a)(14)](https://www.govinfo.gov/link/plaw/99/public/159), Nov. 22, 1985, [99 Stat. 891](https://www.govinfo.gov/link/statute/99/891); [Pub. L. 99–383, § 7(d)](https://www.govinfo.gov/link/plaw/99/public/383), Aug. 21, 1986, [100 Stat. 814](https://www.govinfo.gov/link/statute/100/814); [Pub. L. 110–69, title VII, § 7023](https://www.govinfo.gov/link/plaw/110/public/69), Aug. 9, 2007, [121 Stat. 686](https://www.govinfo.gov/link/statute/121/686); [Pub. L. 117–167, div. B, title III, § 10396(7)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1597](https://www.govinfo.gov/link/statute/136/1597).)*

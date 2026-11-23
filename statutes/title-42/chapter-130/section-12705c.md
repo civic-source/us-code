@@ -3,9 +3,10 @@ title: "Section 12705c - Grants for regulatory barrier removal strategies and im
 usc_title: 42
 usc_section: "12705c"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12705c"
-generated_at: "2026-03-30T02:56:11.429Z"
+generated_at: "2026-11-23T21:26:33.541Z"
+status: "active"
 ---
 
 # § 12705c. Grants for regulatory barrier removal strategies and implementation
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.429Z"
 - **(f)** To the extent amounts are made available to carry out this section, the Secretary shall provide grants on a competitive basis to eligible grantees based on the proposed uses of such amounts, as provided in applications under subsection (e).
 - **(g)** Each State and unit of general local government receiving a grant under this section, shall consult, coordinate, and exchange information with the clearinghouse established under section 12705d of this title .
 - **(h)** Each State and unit of general local government receiving a grant under this section shall submit a report to the Secretary, not less than 12 months after receiving the grant, describing any activities carried out with the grant amounts. The report shall contain an assessment of the impact of any regulatory barriers identified by the grantee on the housing patterns of minorities.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XII, § 1204](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3938](https://www.govinfo.gov/link/statute/106/3938); [Pub. L. 106–569, title I, § 102(a)](https://www.govinfo.gov/link/plaw/106/public/569) –(e), Dec. 27, 2000, [114 Stat. 2946](https://www.govinfo.gov/link/statute/114/2946), 2947.)*

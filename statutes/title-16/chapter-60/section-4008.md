@@ -3,9 +3,10 @@ title: "Section 4008 - Establishment of Fisheries Promotional Fund"
 usc_title: 16
 usc_section: "4008"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4008"
-generated_at: "2026-03-30T02:54:23.040Z"
+generated_at: "2026-11-23T21:25:52.009Z"
+status: "active"
 ---
 
 # § 4008. Establishment of Fisheries Promotional Fund
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:23.040Z"
   - **(3)** receipts from investments made under subsection (c) of this section.
 - **(c)** Sums in the Fund that are not currently needed for the purposes of the Fund shall be kept on deposit in appropriate interest-bearing accounts that shall be established by the Secretary of the Treasury, or invested in obligations of, or guaranteed by, the United States. Any revenue accruing from such deposits and investments shall be deposited in the Fund.
 - **(d)** There are authorized to be appropriated from the Fund, for the purposes of carrying out the annual marketing and promotion plan and annual budget of the National Council under this chapter, such sums as are deposited in the Fund under subsection (b) of this section in each fiscal year beginning in fiscal year 1987 through fiscal year 1991.
+
+## Source Credit
+
+*([Pub. L. 99–659, title II, § 209](https://www.govinfo.gov/link/plaw/99/public/659), Nov. 14, 1986, [100 Stat. 3720](https://www.govinfo.gov/link/statute/100/3720); [Pub. L. 101–627, title VII, § 702](https://www.govinfo.gov/link/plaw/101/public/627), Nov. 28, 1990, [104 Stat. 4463](https://www.govinfo.gov/link/statute/104/4463).)*

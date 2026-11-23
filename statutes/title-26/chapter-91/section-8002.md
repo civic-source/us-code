@@ -3,9 +3,10 @@ title: "Section 8002 - Membership"
 usc_title: 26
 usc_section: "8002"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 8002"
-generated_at: "2026-03-30T02:55:27.889Z"
+generated_at: "2026-11-23T21:26:07.026Z"
+status: "active"
 ---
 
 # § 8002. Membership
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:27.889Z"
     - **(A)** In case of a vacancy during an adjournment or recess of Congress for a period of more than 2 weeks, the members of the Joint Committee who are members of the Committee entitled to fill such vacancy may designate a member of such Committee to serve until his successor is chosen by such Committee; and
     - **(B)** In the case of a vacancy after the expiration of a Congress which would be filled by the Committee on Ways and Means, the members of such Committee who are continuing to serve as members of the Joint Committee may designate a person who, immediately prior to such expiration, was a member of such Committee and who is re-elected to the House of Representatives, to serve until his successor is chosen by such Committee.
 - **(d)** The members shall serve without compensation in addition to that received for their services as members of Congress; but they shall be reimbursed for travel, subsistence, and other necessary expenses incurred by them in the performance of the duties vested in the Joint Committee, other than expenses in connection with meetings of the Joint Committee held in the District of Columbia during such times as the Congress is in session.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 925.)*

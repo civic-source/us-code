@@ -3,9 +3,10 @@ title: "Section 4502 - Safety standards"
 usc_title: 46
 usc_section: "4502"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 4502"
-generated_at: "2026-03-30T02:56:15.548Z"
+generated_at: "2026-11-23T21:26:37.065Z"
+status: "active"
 ---
 
 # § 4502. Safety standards
@@ -93,3 +94,21 @@ generated_at: "2026-03-30T02:56:15.548Z"
   - **(3)** The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 75 percent.
   - **(4)** There is authorized to be appropriated $3,000,000 for each of fiscal years 2026, and 2027. 2 2 So in original. Period probably should not appear. for activities under this subsection.
 - **(k)** For the purposes of this section, the term “auxiliary craft” means a vessel that is carried onboard a fishing vessel and is normally used to support fishing operations.
+
+“This section [amending this section and sections 2102, 3302, 5102, 8104, and 8702 of this title, and enacting provisions set out as a note under section 7306 of this title ] is effective on the date of enactment of this section [ Nov. 16, 1990 ] except as follows:
+
+In General
+
+Automatic Communications
+
+Requirement for Plan
+
+Content
+
+Implementation
+
+Report and Updates
+
+## Source Credit
+
+*(Added [Pub. L. 98–364, title IV, § 402(7)(C)](https://www.govinfo.gov/link/plaw/98/public/364), July 17, 1984, [98 Stat. 447](https://www.govinfo.gov/link/statute/98/447); amended [Pub. L. 98–557, § 33(a)](https://www.govinfo.gov/link/plaw/98/public/557), Oct. 30, 1984, [98 Stat. 2876](https://www.govinfo.gov/link/statute/98/2876); [Pub. L. 100–424, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/424), Sept. 9, 1988, [102 Stat. 1585](https://www.govinfo.gov/link/statute/102/1585); [Pub. L. 101–595, title VI, § 602(c)](https://www.govinfo.gov/link/plaw/101/public/595), Nov. 16, 1990, [104 Stat. 2990](https://www.govinfo.gov/link/statute/104/2990); [Pub. L. 104–324, title III, § 307](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3918](https://www.govinfo.gov/link/statute/110/3918); [Pub. L. 105–383, title III, § 301(b)(5)](https://www.govinfo.gov/link/plaw/105/public/383), Nov. 13, 1998, [112 Stat. 3417](https://www.govinfo.gov/link/statute/112/3417); [Pub. L. 111–281, title VI, § 604(a)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2962](https://www.govinfo.gov/link/statute/124/2962); [Pub. L. 112–213, title III, § 305(a)](https://www.govinfo.gov/link/plaw/112/public/213), (b), Dec. 20, 2012, [126 Stat. 1564](https://www.govinfo.gov/link/statute/126/1564); [Pub. L. 113–281, title III, § 309](https://www.govinfo.gov/link/plaw/113/public/281), Dec. 18, 2014, [128 Stat. 3045](https://www.govinfo.gov/link/statute/128/3045); [Pub. L. 115–282, title V](https://www.govinfo.gov/link/plaw/115/public/282), §§ 504–506, Dec. 4, 2018, [132 Stat. 4271](https://www.govinfo.gov/link/statute/132/4271); [Pub. L. 116–283, div. G, title LVXXXIII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXIII], § 8321(a), (b), Jan. 1, 2021, [134 Stat. 4701](https://www.govinfo.gov/link/statute/134/4701); [Pub. L. 117–263, div. K, title CXIII, § 11328(a)](https://www.govinfo.gov/link/plaw/117/public/263), title CXV, § 11509(a)(1), Dec. 23, 2022, [136 Stat. 4098](https://www.govinfo.gov/link/statute/136/4098), 4137; [Pub. L. 119–60, div. G, title LXXIII, § 7313](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1761](https://www.govinfo.gov/link/statute/139/1761).)*

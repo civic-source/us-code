@@ -3,9 +3,10 @@ title: "Section 14512 - Separation at age 66: officers holding certain offices"
 usc_title: 10
 usc_section: "14512"
 chapter: 1407
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 14512"
-generated_at: "2026-03-30T02:53:38.276Z"
+generated_at: "2026-11-23T21:25:33.067Z"
+status: "active"
 ---
 
 # § 14512. Separation at age 66: officers holding certain offices
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:53:38.276Z"
 - **(b)**
   - **(1)** The Secretary of the Navy may defer the retirement under section 14510 or 14511 of a reserve officer of the Navy in a grade above captain or a reserve officer of the Marine Corps in a grade above colonel and retain the officer in an active status until the officer becomes 66 years of age. Not more than 10 officers may be so deferred at any one time, distributed between the Navy Reserve and the Marine Corps Reserve as the Secretary determines.
   - **(2)** The Secretary of Defense may defer the retirement of a reserve officer serving in the position of Chief of the Navy Reserve or Commander of the Marine Forces Reserve, but such deferment may not extend beyond the first day of the month following the month in which the officer becomes 66 years of age. A deferment under this paragraph shall not count toward the limitation on the total number of officers whose retirement may be deferred at any one time under paragraph (1).
+
+Army and Air Force
+
+Navy and Marine Corps
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1611](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2953](https://www.govinfo.gov/link/statute/108/2953); amended [Pub. L. 109–163, div. A, title V](https://www.govinfo.gov/link/plaw/109/public/163), §§ 511, 515(b)(1)(UU), Jan. 6, 2006, [119 Stat. 3231](https://www.govinfo.gov/link/statute/119/3231), 3234; [Pub. L. 109–364, div. A, title V, § 503(d)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2178](https://www.govinfo.gov/link/statute/120/2178); [Pub. L. 110–181, div. A, title XVIII, § 1825(b)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 502](https://www.govinfo.gov/link/statute/122/502).)*

@@ -3,9 +3,10 @@ title: "Section 16 - Commission operations"
 usc_title: 7
 usc_section: "16"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 16"
-generated_at: "2026-03-30T02:53:42.247Z"
+generated_at: "2026-11-23T21:25:27.863Z"
+status: "active"
 ---
 
 # § 16. Commission operations
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:53:42.247Z"
 - **(h)** A swap—
   - **(1)** shall not be considered to be insurance; and
   - **(2)** may not be regulated as an insurance contract under the law of any State.
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 12, [42 Stat. 1003](https://www.govinfo.gov/link/statute/42/1003); [Pub. L. 93–463, title I, § 101(b)](https://www.govinfo.gov/link/plaw/93/public/463), Oct. 23, 1974, [88 Stat. 1391](https://www.govinfo.gov/link/statute/88/1391); [Pub. L. 95–405, § 20](https://www.govinfo.gov/link/plaw/95/public/405), Sept. 30, 1978, [92 Stat. 875](https://www.govinfo.gov/link/statute/92/875); [Pub. L. 97–444, title II](https://www.govinfo.gov/link/plaw/97/public/444), §§ 228, 229, Jan. 11, 1983, [96 Stat. 2318](https://www.govinfo.gov/link/statute/96/2318); [Pub. L. 99–641, title I, § 106](https://www.govinfo.gov/link/plaw/99/public/641), Nov. 10, 1986, [100 Stat. 3558](https://www.govinfo.gov/link/statute/100/3558); [Pub. L. 102–546, title II](https://www.govinfo.gov/link/plaw/102/public/546), §§ 216, 220(a), title III, §§ 302, 303, title IV, § 401, title V, § 502(c), Oct. 28, 1992, [106 Stat. 3611](https://www.govinfo.gov/link/statute/106/3611), 3614, 3622, 3624, 3631; [Pub. L. 104–9, § 2](https://www.govinfo.gov/link/plaw/104/public/9), Apr. 21, 1995, [109 Stat. 154](https://www.govinfo.gov/link/statute/109/154); [Pub. L. 106–554, § 1(a)(5) [title I, §§ 116, 117]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–402; [Pub. L. 110–234, title XIII, § 13104](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1434](https://www.govinfo.gov/link/statute/122/1434); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIII, § 13104, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2196; [Pub. L. 111–203, title VII](https://www.govinfo.gov/link/plaw/111/public/203), §§ 722(b), 749(f), July 21, 2010, [124 Stat. 1673](https://www.govinfo.gov/link/statute/124/1673), 1747.)*

@@ -3,9 +3,10 @@ title: "Section 12113 - Fishery endorsement"
 usc_title: 46
 usc_section: "12113"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 12113"
-generated_at: "2026-03-30T02:56:15.558Z"
+generated_at: "2026-11-23T21:26:37.131Z"
+status: "active"
 ---
 
 # § 12113. Fishery endorsement
@@ -56,3 +57,115 @@ generated_at: "2026-03-30T02:56:15.558Z"
 - **(g)** A vessel purchased by the Secretary of Commerce through a fishing capacity reduction program under the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1801 et seq.) or section 308 2 2 See References in Text note below. of the Interjurisdictional Fisheries Act of 1986 ( 16 U.S.C. 4107 ) is not eligible for a fishery endorsement, and any fishery endorsement issued for that vessel is invalid.
 - **(h)** The Secretary shall revoke the fishery endorsement of any vessel subject to subsection (c) or (d) whose owner does not comply with those provisions.
 - **(i)** Regulations to implement subsections (c) and (d) and sections 12151(c) and 31322(b) of this title shall prohibit impermissible transfers of ownership or control, specify any transactions that require prior approval of an implementing agency, identify transactions that do not require prior agency approval, and to the extent practicable, minimize disruptions to the commercial fishing industry, to the traditional financing arrangements of that industry, and to the opportunity to form fishery cooperatives.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 12113(a) | 46:12108(a). |  |
+| 12113(b)(1) | 46:12108(b). |  |
+| 12113(b)(2) | 46:12102(c)(3). |  |
+| 12113(c)(1) | 46:12102(c)(1). |  |
+| 12113(c)(2) | 46:12102(c)(2). |  |
+| 12113(c)(3) | 46:12102(c)(4). |  |
+| 12113(d) | 46:12102(c)(5). |  |
+| 12113(e) | 46:12102 note. | Pub. L. 105–277, div. C, title II, § 203(c) , Oct. 21, 1998 , 112 Stat. 2681–619 . |
+| 12113(f) | 46:12102 note. | Pub. L. 105–277, div. C, title II, § 203(d) , Oct. 21, 1998 , 112 Stat. 2681–619 . |
+| 12113(g) | 46:12108(d). |  |
+| 12113(h) | 46:12102 note. | Pub. L. 105–277, div. C, title II, § 203(e) , Oct. 21, 1998 , 112 Stat. 2681–619 . |
+| 12113(i) | 46:12102 note. | Pub. L. 105–277, div. C, title II, § 203(b) , Oct. 21, 1998 , 112 Stat. 2681–619 . |
+
+
+Requirements
+
+Authorized Activity
+
+In general
+
+Use by prohibited persons
+
+Ownership Requirements for Entities
+
+In general
+
+Determining 75 percent interest
+
+Exceptions
+
+Requirements Based on Length, Tonnage, or Horsepower
+
+Application
+
+Requirements
+
+Vessels Measuring
+
+Feet or Greater
+
+In general
+
+Regulations
+
+Transfer of ownership
+
+Vessels Measuring Less Than
+
+Feet
+
+Vessels Purchased Through Fishing Capacity Reduction Program
+
+Revocation of Endorsements
+
+Regulations
+
+Historical and Revision Notes
+
+12113(a)
+
+12113(b)(1)
+
+12113(b)(2)
+
+12113(c)(1)
+
+12113(c)(2)
+
+12113(c)(3)
+
+12113(d)
+
+12113(e)
+
+Pub. L. 105–277, div. C, title II, § 203(c)
+
+Oct. 21, 1998
+
+112 Stat. 2681–619
+
+12113(f)
+
+Pub. L. 105–277, div. C, title II, § 203(d)
+
+Oct. 21, 1998
+
+112 Stat. 2681–619
+
+12113(g)
+
+12113(h)
+
+Pub. L. 105–277, div. C, title II, § 203(e)
+
+Oct. 21, 1998
+
+112 Stat. 2681–619
+
+12113(i)
+
+Pub. L. 105–277, div. C, title II, § 203(b)
+
+Oct. 21, 1998
+
+112 Stat. 2681–619
+
+## Source Credit
+
+*([Pub. L. 109–304, § 5](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1495](https://www.govinfo.gov/link/statute/120/1495); [Pub. L. 110–181, div. C, title XXXV, § 3529(a)(2)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 603](https://www.govinfo.gov/link/statute/122/603); [Pub. L. 111–281, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2959](https://www.govinfo.gov/link/statute/124/2959); [Pub. L. 112–213, title III, § 307](https://www.govinfo.gov/link/plaw/112/public/213), Dec. 20, 2012, [126 Stat. 1565](https://www.govinfo.gov/link/statute/126/1565); [Pub. L. 115–232, div. C, title XXXV, § 3546(j)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2326](https://www.govinfo.gov/link/statute/132/2326).)*

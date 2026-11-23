@@ -3,9 +3,10 @@ title: "Section 1501 - System for accounting for missing persons"
 usc_title: 10
 usc_section: "1501"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1501"
-generated_at: "2026-03-30T02:53:38.126Z"
+generated_at: "2026-11-23T21:25:32.493Z"
+status: "active"
 ---
 
 # § 1501. System for accounting for missing persons
@@ -41,3 +42,31 @@ generated_at: "2026-03-30T02:53:38.126Z"
 - **(d)** The individual who is primary next of kin of any person described in subsection (c) may for purposes of this chapter designate another individual to act on behalf of that individual as primary next of kin. The Secretary concerned shall treat an individual so designated as if the individual designated were the primary next of kin for purposes of this chapter. A designation under this subsection may be revoked at any time by the person who made the designation.
 - **(e)** The provisions of this chapter relating to boards of inquiry and to the actions by the Secretary concerned on the reports of those boards shall cease to apply in the case of a missing person upon the person becoming accounted for or otherwise being determined to be in a status other than missing.
 - **(f)** In this chapter, the term “Secretary concerned” includes, in the case of a civilian officer or employee of the Department of Defense or an employee of a contractor of the Department of Defense, the Secretary of the military department or head of the element of the Department of Defense employing the officer or employee or contracting with the contractor, as the case may be.
+
+Responsibility for Missing Persons
+
+Uniform DoD Procedures
+
+Covered Persons
+
+Primary Next of Kin
+
+Termination of Applicability of Procedures When Missing Person Is Accounted for
+
+Secretary Concerned
+
+Covered Persons
+
+Secretary Concerned
+
+Recovery of Remains
+
+Diplomatic Intervention if Required
+
+Intelligence Analysis
+
+Use of Intelligence in Analysis of POW/MIA Cases in Department of Defense
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title V, § 569(b)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 336](https://www.govinfo.gov/link/statute/110/336); amended [Pub. L. 104–201, div. A, title V, § 578(a)(1)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2536](https://www.govinfo.gov/link/statute/110/2536); [Pub. L. 105–85, div. A, title V, § 599(a)(1)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1766](https://www.govinfo.gov/link/statute/111/1766); [Pub. L. 106–65, div. A, title X, § 1066(a)(13)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 771](https://www.govinfo.gov/link/statute/113/771); [Pub. L. 107–314, div. A, title V, § 551](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2551](https://www.govinfo.gov/link/statute/116/2551); [Pub. L. 108–375, div. A, title V, § 582(a)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1928](https://www.govinfo.gov/link/statute/118/1928); [Pub. L. 111–383, div. A, title IX, § 901(g)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4322](https://www.govinfo.gov/link/statute/124/4322); [Pub. L. 113–66, div. A, title V, § 581(a)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 773](https://www.govinfo.gov/link/statute/127/773); [Pub. L. 113–291, div. A, title IX, § 916(a)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3476](https://www.govinfo.gov/link/statute/128/3476); [Pub. L. 114–328, div. A, title IX, § 953(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2376](https://www.govinfo.gov/link/statute/130/2376).)*

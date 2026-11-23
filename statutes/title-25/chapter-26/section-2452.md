@@ -3,9 +3,10 @@ title: "Section 2452 - Medical assessment and treatment of juvenile offenders"
 usc_title: 25
 usc_section: "2452"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2452"
-generated_at: "2026-03-30T02:54:52.841Z"
+generated_at: "2026-11-23T21:25:54.670Z"
+status: "active"
 ---
 
 # § 2452. Medical assessment and treatment of juvenile offenders
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:52.841Z"
   - **(2)** shall occur as soon as possible after the arrest or detention of an Indian youth, and
   - **(3)** shall be provided by the Indian Health Service, either through its direct or contract health service.
 - **(b)** The Indian Health Service shall not refuse to provide necessary interim treatment for any Indian youth referred pursuant to subsection (a) who has been charged or is being prosecuted for any crime unless such referral is prohibited by a court of competent jurisdiction or the youth is determined by a court of competent jurisdiction to be a danger to others.
+
+## Source Credit
+
+*([Pub. L. 99–570, title IV, § 4219](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–147](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 100–690, title II, § 2210](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4219](https://www.govinfo.gov/link/statute/102/4219).)*

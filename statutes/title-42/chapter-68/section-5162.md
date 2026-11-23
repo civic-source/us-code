@@ -3,9 +3,10 @@ title: "Section 5162 - Advance of non-Federal share"
 usc_title: 42
 usc_section: "5162"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5162"
-generated_at: "2026-03-30T02:56:11.221Z"
+generated_at: "2026-11-23T21:26:32.750Z"
+status: "active"
 ---
 
 # § 5162. Advance of non-Federal share
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.221Z"
   - **(1)** Any loan or advance under this section shall be repaid to the United States.
   - **(2)** Loans and advances under this section shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the current market yields on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the reimbursement period of the loan or advance.
 - **(c)** The President shall issue regulations describing the terms and conditions under which any loan or advance authorized by this section may be made.
+
+## Source Credit
+
+*([Pub. L. 93–288, title III, § 319](https://www.govinfo.gov/link/plaw/93/public/288), as added [Pub. L. 100–707, title I, § 105(m)(1)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4695](https://www.govinfo.gov/link/statute/102/4695).)*

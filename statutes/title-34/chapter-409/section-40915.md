@@ -3,9 +3,10 @@ title: "Section 40915 - Relief from disabilities program required as condition f
 usc_title: 34
 usc_section: "40915"
 chapter: 409
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 40915"
-generated_at: "2026-03-30T02:55:33.312Z"
+generated_at: "2026-11-23T21:26:09.843Z"
+status: "active"
 ---
 
 # § 40915. Relief from disabilities program required as condition for participation in grant programs
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:33.312Z"
   - **(2)** provides that a State court, board, commission, or other lawful authority shall grant the relief, pursuant to State law and in accordance with the principles of due process, if the circumstances regarding the disabilities referred to in paragraph (1), and the person’s record and reputation, are such that the person will not be likely to act in a manner dangerous to public safety and that the granting of the relief would not be contrary to the public interest; and
   - **(3)** permits a person whose application for the relief is denied to file a petition with the State court of appropriate jurisdiction for a de novo judicial review of the denial.
 - **(b)** If, under a State relief from disabilities program implemented in accordance with this section, an application for relief referred to in subsection (a)(1) of this section is granted with respect to an adjudication or a commitment to a mental institution or based upon a removal of a record under section 40912(c)(1)(B) of this title , the adjudication or commitment, as the case may be, is deemed not to have occurred for purposes of subsections (d)(4) and (g)(4) of section 922 of title 18 .
+
+## Source Credit
+
+*([Pub. L. 110–180, title I, § 105](https://www.govinfo.gov/link/plaw/110/public/180), Jan. 8, 2008, [121 Stat. 2569](https://www.govinfo.gov/link/statute/121/2569).)*

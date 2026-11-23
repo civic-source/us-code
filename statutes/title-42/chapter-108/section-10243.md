@@ -3,9 +3,10 @@ title: "Section 10243 - Duties of Negotiator"
 usc_title: 42
 usc_section: "10243"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10243"
-generated_at: "2026-03-30T02:56:11.384Z"
+generated_at: "2026-11-23T21:26:33.353Z"
+status: "active"
 ---
 
 # § 10243. Duties of Negotiator
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.384Z"
     - **(A)** No proposed agreement entered into under this section shall have legal effect unless enacted into Federal law.
     - **(B)** A State or Indian tribe shall enter into an agreement under this section in accordance with the laws of such State or tribe. Nothing in this section may be construed to prohibit the disapproval of a proposed agreement between a State and the United States under this section by a referendum or an act of the legislature of such State.
   - **(4)** Notwithstanding any proposed agreement under this section, the Secretary may construct a repository or monitored retrievable storage facility at a site agreed to under this subchapter only if authorized by the Nuclear Regulatory Commission in accordance with the Atomic Energy Act of 1954 [ 42 U.S.C. 2011 et seq.], title II of the Energy Reorganization Act of 1982 ( 42 U.S.C. 5841 et seq.) and any other law applicable to authorization of such construction.
+
+## Source Credit
+
+*([Pub. L. 97–425, title IV, § 403](https://www.govinfo.gov/link/plaw/97/public/425), as added [Pub. L. 100–202, § 101(d) [title III]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–104](https://www.govinfo.gov/link/statute/101/1329), 1329–121; [Pub. L. 100–203, title V, § 5041](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–244](https://www.govinfo.gov/link/statute/101/1330).)*

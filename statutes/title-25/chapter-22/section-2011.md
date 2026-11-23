@@ -3,9 +3,10 @@ title: "Section 2011 - Policy for Indian control of Indian education"
 usc_title: 25
 usc_section: "2011"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2011"
-generated_at: "2026-03-30T02:54:52.833Z"
+generated_at: "2026-11-23T21:25:54.652Z"
+status: "active"
 ---
 
 # § 2011. Policy for Indian control of Indian education
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:52.833Z"
       - **(i)** to present issues (including proposals regarding changes in current practices or programs) that will be considered for future action by the Secretary; and
       - **(ii)** to participate and discuss the options presented, or to present alternatives, with the views and concerns of the interested parties given effect unless the Secretary determines, from information available from or presented by the interested parties during one or more of the discussions and deliberations, that there is a substantial reason for another course of action.
     - **(C)** The Secretary shall submit to any Member of Congress, within 18 days of the receipt of a written request by such Member, a written explanation of any decision made by the Secretary which is not consistent with the views of the interested parties described in subparagraph (B).
+
+## Source Credit
+
+*([Pub. L. 95–561, title XI, § 1131](https://www.govinfo.gov/link/plaw/95/public/561), as added [Pub. L. 107–110, title X, § 1042](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2043](https://www.govinfo.gov/link/statute/115/2043).)*

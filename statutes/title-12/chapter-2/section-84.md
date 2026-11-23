@@ -3,9 +3,10 @@ title: "Section 84 - Lending limits"
 usc_title: 12
 usc_section: "84"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 84"
-generated_at: "2026-03-30T02:53:53.373Z"
+generated_at: "2026-11-23T21:25:36.768Z"
+status: "active"
 ---
 
 # § 84. Lending limits
@@ -38,3 +39,9 @@ generated_at: "2026-03-30T02:53:53.373Z"
 - **(d)**
   - **(1)** The Comptroller of the Currency may prescribe rules and regulations to administer and carry out the purposes of this section, including rules or regulations to define or further define terms used in this section and to establish limits or requirements other than those specified in this section for particular classes or categories of loans or extensions of credit.
   - **(2)** The Comptroller of the Currency also shall have authority to determine when a loan putatively made to a person shall for purposes of this section be attributed to another person.
+
+“This section, and the amendments made by this section [amending this section], shall be effective during the period beginning on the date of enactment of this Act [ Mar. 27, 2020 ] and ending on the sooner of—
+
+## Source Credit
+
+*(R.S. § 5200; June 22, 1906, ch. 3516, [34 Stat. 451](https://www.govinfo.gov/link/statute/34/451); Sept. 24, 1918, ch. 176, § 6, [40 Stat. 967](https://www.govinfo.gov/link/statute/40/967); Oct. 22, 1919, ch. 79, § 1, [41 Stat. 296](https://www.govinfo.gov/link/statute/41/296); Feb. 25, 1927, ch. 191, § 10, [44 Stat. 1229](https://www.govinfo.gov/link/statute/44/1229); May 20, 1933, ch. 35, § 1, [48 Stat. 73](https://www.govinfo.gov/link/statute/48/73); June 16, 1933, ch. 89, § 26(a), [48 Stat. 191](https://www.govinfo.gov/link/statute/48/191); Aug. 23, 1935, ch. 614, title III, § 321(b), [49 Stat. 713](https://www.govinfo.gov/link/statute/49/713); June 11, 1942, ch. 404, § 8, [56 Stat. 356](https://www.govinfo.gov/link/statute/56/356); July 15, 1949, ch. 338, title VI, § 602(b), [63 Stat. 440](https://www.govinfo.gov/link/statute/63/440); July 22, 1937, ch. 517, § 15(a), as added Aug. 14, 1946, ch. 964, § 5, [60 Stat. 1079](https://www.govinfo.gov/link/statute/60/1079); amended [Pub. L. 85–748, § 1(c)](https://www.govinfo.gov/link/plaw/85/public/748), Aug. 25, 1958, [72 Stat. 841](https://www.govinfo.gov/link/statute/72/841); [Pub. L. 86–251, § 3](https://www.govinfo.gov/link/plaw/86/public/251), Sept. 9, 1959, [73 Stat. 488](https://www.govinfo.gov/link/statute/73/488); [Pub. L. 87–723, § 4(c)(4)](https://www.govinfo.gov/link/plaw/87/public/723), Sept. 28, 1962, [76 Stat. 672](https://www.govinfo.gov/link/statute/76/672); [Pub. L. 90–19, § 27(b)](https://www.govinfo.gov/link/plaw/90/public/19), May 25, 1967, [81 Stat. 29](https://www.govinfo.gov/link/statute/81/29); [Pub. L. 92–318, title I, § 133(c)(2)](https://www.govinfo.gov/link/plaw/92/public/318), June 23, 1972, [86 Stat. 270](https://www.govinfo.gov/link/statute/86/270); [Pub. L. 97–320, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/97/public/320), Oct. 15, 1982, [96 Stat. 1508](https://www.govinfo.gov/link/statute/96/1508); [Pub. L. 97–457, § 17(a)](https://www.govinfo.gov/link/plaw/97/public/457), Jan. 12, 1983, [96 Stat. 2509](https://www.govinfo.gov/link/statute/96/2509); [Pub. L. 111–203, title VI, § 610(a)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1611](https://www.govinfo.gov/link/statute/124/1611); [Pub. L. 116–136, div. A, title IV, § 4011(a)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 478](https://www.govinfo.gov/link/statute/134/478).)*

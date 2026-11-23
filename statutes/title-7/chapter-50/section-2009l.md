@@ -3,9 +3,10 @@ title: "Section 2009l - Duties of Rural Economic and Community Development State
 usc_title: 7
 usc_section: "2009l"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2009l"
-generated_at: "2026-03-30T02:53:42.358Z"
+generated_at: "2026-11-23T21:25:28.234Z"
+status: "active"
 ---
 
 # § 2009l. Duties of Rural Economic and Community Development State Offices
@@ -17,3 +18,7 @@ In carrying out this subchapter, the Director of a Rural Economic and Community 
   - **(3)** establish links between local, State, and field office program administrators of the Department of Agriculture;
   - **(4)** ensure that recipient communities comply with applicable Federal and State laws and requirements; and
   - **(5)** integrate State development programs with assistance under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 381M](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 104–127, title VII, § 761](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1146](https://www.govinfo.gov/link/statute/110/1146).)*

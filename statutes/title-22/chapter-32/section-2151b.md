@@ -3,9 +3,10 @@ title: "Section 2151b - Population planning and health programs"
 usc_title: 22
 usc_section: "2151b"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2151b"
-generated_at: "2026-03-30T02:55:05.344Z"
+generated_at: "2026-11-23T21:25:58.431Z"
+status: "active"
 ---
 
 # § 2151b. Population planning and health programs
@@ -39,3 +40,161 @@ generated_at: "2026-03-30T02:55:05.344Z"
     - **(A)** $290,000,000 for fiscal year 1986 and $290,000,000 for fiscal year 1987 to carry out subsection (b) of this section; and
     - **(B)** $205,000,000 for fiscal year 1986 and $180,000,000 for fiscal year 1987 to carry out subsection (c) of this section.
   - **(2)** Funds appropriated under this subsection are authorized to remain available until expended.
+
+Relationship to other laws
+
+Leveraging United States Bilateral Global Health Programs for International Pandemic Response
+
+Roles of the Department of State, USAID, and the Department of Health and Human Services in International Pandemic Response.—
+
+Finding
+
+Lead agencies for coordination of the united states’ international response to infectious disease outbreaks with severe or pandemic potential
+
+Notification
+
+USAID Disaster Surge Capacity.—
+
+Disaster surge capacity
+
+Notification
+
+United States International Activities To Advance Global Health Security and Diplomacy Strategy and Report.—
+
+In general
+
+Submission of strategy.—
+
+In general
+
+Agency-specific plans
+
+Annual report.—
+
+In general
+
+Contents
+
+Form
+
+United States Coordinator for Global Health Security
+
+Ambassador-At-Large for Global Health Security and Diplomacy.—
+
+Establishment
+
+Appointment; qualifications
+
+Authorities
+
+Strengthening Health Systems for Global Health Security and Pandemic Prevention and Preparedness.—
+
+Statement of policy
+
+Coordination
+
+Coordination for International Pandemic Early Warning Network.—
+
+Sense of congress
+
+Report
+
+International Emergency Operations.—
+
+Sense of congress
+
+Public health emergencies of international concern
+
+Emergency operations
+
+In General.—
+
+Finding
+
+Objectives
+
+Governing board.—
+
+In general
+
+Duties
+
+Composition
+
+Contributions
+
+Qualifications
+
+Conflicts of interest
+
+Removal procedures
+
+Authority for United States Participation.—
+
+Founding member
+
+Effective date; termination date
+
+Effective date
+
+Termination date
+
+Enforceability
+
+Implementation of Program Objectives
+
+Priority Countries
+
+Accountability; Conflicts of Interest; Criteria for Programs
+
+Selection of Partner Countries, Projects, and Recipients
+
+Additional Transparency and Accountability Requirements.—
+
+Inspector general
+
+Sense of congress on corruption
+
+Administrative expenses; financial tracking systems
+
+Exemption from duties and taxes
+
+Reports to Congress.—
+
+Annual report.—
+
+In general
+
+Report elements
+
+GAO report on effectiveness
+
+United States Contributions.—
+
+In general
+
+Notification
+
+Limitation
+
+Withholdings.—
+
+Support for acts of international terrorism
+
+Excessive salaries
+
+Accountability certification requirement
+
+Authorization of Appropriations.—
+
+In general
+
+Exception
+
+Compliance With the Foreign Aid Transparency and Accountability Act of
+
+“Congress makes the following findings:
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 104, as added [Pub. L. 93–189, § 2(3)](https://www.govinfo.gov/link/plaw/93/public/189), Dec. 17, 1973, [87 Stat. 715](https://www.govinfo.gov/link/statute/87/715); amended [Pub. L. 93–559, § 4(1)](https://www.govinfo.gov/link/plaw/93/public/559), Dec. 30, 1974, [88 Stat. 1795](https://www.govinfo.gov/link/statute/88/1795); [Pub. L. 94–161, title III, § 304](https://www.govinfo.gov/link/plaw/94/public/161), Dec. 20, 1975, [89 Stat. 857](https://www.govinfo.gov/link/statute/89/857); [Pub. L. 95–88, title I, § 103(a)](https://www.govinfo.gov/link/plaw/95/public/88) –(c), Aug. 3, 1977, [91 Stat. 534](https://www.govinfo.gov/link/statute/91/534); [Pub. L. 95–424, title I, § 104(a)](https://www.govinfo.gov/link/plaw/95/public/424), Oct. 6, 1978, [92 Stat. 945](https://www.govinfo.gov/link/statute/92/945); [Pub. L. 96–53, title I, § 102](https://www.govinfo.gov/link/plaw/96/public/53), Aug. 14, 1979, [93 Stat. 360](https://www.govinfo.gov/link/statute/93/360); [Pub. L. 96–533, title III, § 302](https://www.govinfo.gov/link/plaw/96/public/533), Dec. 16, 1980, [94 Stat. 3145](https://www.govinfo.gov/link/statute/94/3145); [Pub. L. 97–113, title III, § 302](https://www.govinfo.gov/link/plaw/97/public/113), Dec. 29, 1981, [95 Stat. 1532](https://www.govinfo.gov/link/statute/95/1532); [Pub. L. 98–473, title I, § 101(1) [title V, § 541(a)]](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 1884](https://www.govinfo.gov/link/statute/98/1884), 1903; [Pub. L. 99–83, title III](https://www.govinfo.gov/link/plaw/99/public/83), §§ 303–305(a), Aug. 8, 1985, [99 Stat. 214](https://www.govinfo.gov/link/statute/99/214); [Pub. L. 99–529, title I, § 103](https://www.govinfo.gov/link/plaw/99/public/529), title IV, § 404(1), Oct. 24, 1986, [100 Stat. 3011](https://www.govinfo.gov/link/statute/100/3011), 3019; [Pub. L. 106–264, title I, § 111(a)](https://www.govinfo.gov/link/plaw/106/public/264), title II, § 203, Aug. 19, 2000, [114 Stat. 751](https://www.govinfo.gov/link/statute/114/751), 759; [Pub. L. 108–25, title III](https://www.govinfo.gov/link/plaw/108/public/25), §§ 301(a)(1), 303(c), May 27, 2003, [117 Stat. 728](https://www.govinfo.gov/link/statute/117/728), 737.)*

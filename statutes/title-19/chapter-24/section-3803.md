@@ -3,9 +3,10 @@ title: "Section 3803 - Trade agreements authority"
 usc_title: 19
 usc_section: "3803"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 3803"
-generated_at: "2026-03-30T02:54:24.697Z"
+generated_at: "2026-11-23T21:25:42.853Z"
+status: "active"
 ---
 
 # § 3803. Trade agreements authority
@@ -78,3 +79,7 @@ generated_at: "2026-03-30T02:54:24.697Z"
       - **(ii)** the House of Representatives to consider any extension disapproval resolution not reported by the Committee on Ways and Means and, in addition, by the Committee on Rules; or
       - **(iii)** either House of the Congress to consider an extension disapproval resolution after June 30, 2005 .
 - **(d)** In order to contribute to the continued economic expansion of the United States, the President shall commence negotiations covering tariff and nontariff barriers affecting any industry, product, or service sector, and expand existing sectoral agreements to countries that are not parties to those agreements, in cases where the President determines that such negotiations are feasible and timely and would benefit the United States. Such sectors include agriculture, commercial services, intellectual property rights, industrial and capital goods, government procurement, information technology products, environmental technology and services, medical equipment and services, civil aircraft, and infrastructure products. In so doing, the President shall take into account all of the principal negotiating objectives set forth in section 3802(b) of this title .
+
+## Source Credit
+
+*([Pub. L. 107–210, div. B, title XXI, § 2103](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 1004](https://www.govinfo.gov/link/statute/116/1004); [Pub. L. 108–429, title II, § 2004(a)(17)](https://www.govinfo.gov/link/plaw/108/public/429), Dec. 3, 2004, [118 Stat. 2591](https://www.govinfo.gov/link/statute/118/2591).)*

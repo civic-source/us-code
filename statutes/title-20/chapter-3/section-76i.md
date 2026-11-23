@@ -3,9 +3,10 @@ title: "Section 76i - John F. Kennedy Center for the Performing Arts"
 usc_title: 20
 usc_section: "76i"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 76i"
-generated_at: "2026-03-30T02:54:48.073Z"
+generated_at: "2026-11-23T21:25:46.920Z"
+status: "active"
 ---
 
 # § 76i. John F. Kennedy Center for the Performing Arts
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:48.073Z"
     - **(A)** is less than 100,000 square feet;
     - **(B)** will improve the existing (as of June 8, 2012 ) accessibility and education functions of the Center; and
     - **(C)** will become part of the existing (as of June 8, 2012 ) structure of the Center.
+
+## Source Credit
+
+*([Pub. L. 85–874, § 3](https://www.govinfo.gov/link/plaw/85/public/874), Sept. 2, 1958, [72 Stat. 1699](https://www.govinfo.gov/link/statute/72/1699); [Pub. L. 88–260, § 1(2)](https://www.govinfo.gov/link/plaw/88/public/260), Jan. 23, 1964, [78 Stat. 4](https://www.govinfo.gov/link/statute/78/4); [Pub. L. 105–95, § 2](https://www.govinfo.gov/link/plaw/105/public/95), Nov. 19, 1997, [111 Stat. 2148](https://www.govinfo.gov/link/statute/111/2148); [Pub. L. 112–131, § 2](https://www.govinfo.gov/link/plaw/112/public/131), June 8, 2012, [126 Stat. 377](https://www.govinfo.gov/link/statute/126/377).)*

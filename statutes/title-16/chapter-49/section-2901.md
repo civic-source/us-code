@@ -3,9 +3,10 @@ title: "Section 2901 - Congressional findings and declaration of purpose"
 usc_title: 16
 usc_section: "2901"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2901"
-generated_at: "2026-03-30T02:54:23.007Z"
+generated_at: "2026-11-23T21:25:51.956Z"
+status: "active"
 ---
 
 # § 2901. Congressional findings and declaration of purpose
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:23.007Z"
 - **(b)** It is the purpose of this chapter—
   - **(1)** to provide financial and technical assistance to the States for the development, revision, and implementation of conservation plans and programs for nongame fish and wildlife; and
   - **(2)** to encourage all Federal departments and agencies to utilize their statutory and administrative authority, to the maximum extent practicable and consistent with each agency’s statutory responsibilities, to conserve and to promote conservation of nongame fish and wildlife and their habitats, in furtherance of the provisions of this chapter.
+
+## Source Credit
+
+*([Pub. L. 96–366, § 2](https://www.govinfo.gov/link/plaw/96/public/366), Sept. 29, 1980, [94 Stat. 1322](https://www.govinfo.gov/link/statute/94/1322).)*

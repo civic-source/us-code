@@ -3,9 +3,10 @@ title: "Section 1467 - Examination fees"
 usc_title: 12
 usc_section: "1467"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1467"
-generated_at: "2026-03-30T02:53:53.398Z"
+generated_at: "2026-11-23T21:25:36.841Z"
+status: "active"
 ---
 
 # § 1467. Examination fees
@@ -40,3 +41,17 @@ generated_at: "2026-03-30T02:53:53.398Z"
 - **(k)** The appropriate Federal banking agency may assess against an institution fees to fund the direct and indirect expenses of the Office as the appropriate Federal banking agency deems necessary or appropriate. The fees may be imposed more frequently than annually at the discretion of the appropriate Federal banking agency.
 - **(l)** The appropriate Federal banking agency is authorized to impose fees and assessments pursuant to subsections (a), (b), (e), and (k) of this section, in excess of actual expenses for any given year, to permit the appropriate Federal banking agency to maintain a working capital fund. The appropriate Federal banking agency shall remit to the payors of such fees and assessments any funds collected in excess of what he deems necessary to maintain such working capital fund.
 - **(m)** The appropriate Federal banking agency is authorized to use the combined resources retained through fees and assessments imposed pursuant to this section to pay all direct and indirect salary and administrative expenses of the Office, including contracts and purchases of property and services, and the direct and indirect expenses of the examinations and supervisory activities of the Office.
+
+“Not later than the end of the 90-day period beginning on the date of the enactment of this Act [ Aug. 10, 1987 ]—
+
+In general
+
+Uniform gaap accounting standards.—
+
+In general
+
+Compliance at a later date
+
+## Source Credit
+
+*(June 13, 1933, ch. 64, § 9, as added [Pub. L. 100–86, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/100/public/86), Aug. 10, 1987, [101 Stat. 605](https://www.govinfo.gov/link/statute/101/605); amended [Pub. L. 101–73, title III, § 301](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 316](https://www.govinfo.gov/link/statute/103/316); [Pub. L. 102–242, title I, § 114(c)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2248](https://www.govinfo.gov/link/statute/105/2248); [Pub. L. 111–203, title III, § 369(7)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1563](https://www.govinfo.gov/link/statute/124/1563).)*

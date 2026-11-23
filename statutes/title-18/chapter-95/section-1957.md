@@ -3,9 +3,10 @@ title: "Section 1957 - Engaging in monetary transactions in property derived fro
 usc_title: 18
 usc_section: "1957"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1957"
-generated_at: "2026-03-30T02:54:16.493Z"
+generated_at: "2026-11-23T21:25:44.109Z"
+status: "active"
 ---
 
 # § 1957. Engaging in monetary transactions in property derived from specified unlawful activity
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:16.493Z"
   - **(1)** the term “monetary transaction” means the deposit, withdrawal, transfer, or exchange, in or affecting interstate or foreign commerce, of funds or a monetary instrument (as defined in section 1956(c)(5) of this title ) by, through, or to a financial institution (as defined in section 1956 of this title ), including any transaction that would be a financial transaction under section 1956(c)(4)(B) of this title , but such term does not include any transaction necessary to preserve a person’s right to representation as guaranteed by the sixth amendment to the Constitution;
   - **(2)** the term “criminally derived property” means any property constituting, or derived from, proceeds obtained from a criminal offense; and
   - **(3)** the terms “specified unlawful activity” and “proceeds” shall have the meaning given those terms in section 1956 of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 99–570, title I, § 1352(a)](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–21](https://www.govinfo.gov/link/statute/100/3207); amended [Pub. L. 100–690, title VI](https://www.govinfo.gov/link/plaw/100/public/690), §§ 6182, 6184, 6469(a)(2), Nov. 18, 1988, [102 Stat. 4354](https://www.govinfo.gov/link/statute/102/4354), 4377; [Pub. L. 102–550, title XV](https://www.govinfo.gov/link/plaw/102/public/550), §§ 1526(b), 1527(b), Oct. 28, 1992, [106 Stat. 4065](https://www.govinfo.gov/link/statute/106/4065); [Pub. L. 103–322, title XXXIII, § 330020](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2149](https://www.govinfo.gov/link/statute/108/2149); [Pub. L. 103–325, title IV, § 413(c)(2)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2255](https://www.govinfo.gov/link/statute/108/2255); [Pub. L. 109–177, title IV, § 403(c)(2)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 243](https://www.govinfo.gov/link/statute/120/243); [Pub. L. 111–21, § 2(f)(2)](https://www.govinfo.gov/link/plaw/111/public/21), May 20, 2009, [123 Stat. 1618](https://www.govinfo.gov/link/statute/123/1618); [Pub. L. 112–186, § 4(b)(2)](https://www.govinfo.gov/link/plaw/112/public/186), Oct. 5, 2012, [126 Stat. 1429](https://www.govinfo.gov/link/statute/126/1429).)*

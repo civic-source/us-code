@@ -3,9 +3,10 @@ title: "Section 221a - Additional definitions"
 usc_title: 12
 usc_section: "221a"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 221a"
-generated_at: "2026-03-30T02:53:53.376Z"
+generated_at: "2026-11-23T21:25:36.776Z"
+status: "active"
 ---
 
 # § 221a. Additional definitions
@@ -18,3 +19,7 @@ As used in this chapter—
   - **(2)** Of which control is held, directly or indirectly, through stock ownership or in any other manner, by the shareholders of a member bank who own or control either a majority of the shares of such bank or more than 50 per centum of the number of shares voted for the election of directors of such bank at the preceding election, or by trustees for the benefit of the shareholders of any such bank; or
   - **(3)** Of which a majority of its directors, trustees, or other persons exercising similar functions are directors of any one member bank; or
   - **(4)** Which owns or controls, directly or indirectly, either a majority of the shares of capital stock of a member bank or more than 50 per centum of the number of shares voted for the election of directors of a member bank at the preceding election, or controls in any manner the election of a majority of the directors of a member bank, or for the benefit of whose shareholders or members all or substantially all the capital stock of a member bank is held by trustees.
+
+## Source Credit
+
+*(June 16, 1933, ch. 89, § 2, [48 Stat. 162](https://www.govinfo.gov/link/statute/48/162); Aug. 23, 1935, ch. 614, title III, § 301, [49 Stat. 707](https://www.govinfo.gov/link/statute/49/707); [Pub. L. 89–485, § 13(a)](https://www.govinfo.gov/link/plaw/89/public/485), (b), July 1, 1966, [80 Stat. 242](https://www.govinfo.gov/link/statute/80/242).)*

@@ -3,9 +3,10 @@ title: "Section 20 - Authorization of appropriations"
 usc_title: 42
 usc_section: "20"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 20"
-generated_at: "2026-03-30T02:56:10.825Z"
+generated_at: "2026-11-23T21:26:30.860Z"
+status: "active"
 ---
 
 # § 300ff–20. Authorization of appropriations
@@ -45,3 +46,13 @@ generated_at: "2026-03-30T02:56:10.825Z"
   - **(2)** The reductions shall be made before the amounts referred to in paragraph (1) are used for purposes of section 300ff–13(a)(4) of this title .
   - **(3)** If the amounts referred to in paragraph (1) are not sufficient for making all the reductions, the reductions shall be reduced until the total amount of the reductions equals the total of the amounts referred to in such paragraph.
 - **(e)** Paragraphs (1) and (2) of subsection (c) apply with respect to each series of fiscal years during which a metropolitan area is an eligible area under subpart I or a transitional area under section 300ff–19 of this title for a fiscal year and then for a subsequent fiscal year ceases to be such an area by reason of section 300ff–11(b) or 300ff–19(c)(2) of this title, respectively, rather than applying to a single such series. Paragraph (3) of subsection (c) applies with respect to each series of fiscal years during which a metropolitan area is a transitional area under section 300ff–19 of this title for a fiscal year and then for a subsequent fiscal year becomes an eligible area under subpart I, rather than applying to a single such series.
+
+(aa) for the first fiscal year of the metropolitan area not being a transitional area, 75 percent of the amount described in subparagraph (A)(i) for such area;
+
+(bb) for the second fiscal year of the metropolitan area not being a transitional area, 50 percent of such amount; and
+
+(cc) for the third fiscal year of the metropolitan area not being a transitional area, 25 percent of such amount; and
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVI, § 2610, as added and amended [Pub. L. 109–415, title I, § 108](https://www.govinfo.gov/link/plaw/109/public/415), title VII, § 703, Dec. 19, 2006, [120 Stat. 2783](https://www.govinfo.gov/link/statute/120/2783), 2820; [Pub. L. 111–87](https://www.govinfo.gov/link/plaw/111/public/87), §§ 2(a)(1), (3)(A), (b), 4(b), Oct. 30, 2009, [123 Stat. 2885](https://www.govinfo.gov/link/statute/123/2885), 2889.)*

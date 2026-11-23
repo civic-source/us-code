@@ -3,9 +3,10 @@ title: "Section 296 - Step increases; waiting periods; service in Armed Forces; 
 usc_title: 2
 usc_section: "296"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 296"
-generated_at: "2026-03-30T02:53:04.795Z"
+generated_at: "2026-11-23T21:25:21.157Z"
+status: "active"
 ---
 
 # § 296. Step increases; waiting periods; service in Armed Forces; automatic advancement
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:04.795Z"
   - **(1)** the receipt of an increase in compensation during any of the waiting periods of service required for advancement by step increases under such system shall cause a new full waiting period of service to commence for further step increases under such system;
   - **(2)** any increase in compensation granted by law, or granted by reason of an increase made by the committee in the rates of compensation of the House Wage Schedule, to employees within the purview of such system of step increases shall not be held or considered to be an increase in compensation for the purposes of subparagraph (1) of this subsection; and
   - **(3)** the benefit of successive step increases under such system of step increases shall be preserved, under regulations prescribed by the committee, for employees whose continuous service is interrupted by service in the Armed Forces of the United States.
+
+## Source Credit
+
+*([Pub. L. 88–652, § 7](https://www.govinfo.gov/link/plaw/88/public/652), Oct. 13, 1964, [78 Stat. 1081](https://www.govinfo.gov/link/statute/78/1081).)*

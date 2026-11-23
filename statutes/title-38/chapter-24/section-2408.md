@@ -3,9 +3,10 @@ title: "Section 2408 - Aid to States, counties, and tribal organizations for est
 usc_title: 38
 usc_section: "2408"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 2408"
-generated_at: "2026-03-30T02:55:53.497Z"
+generated_at: "2026-11-23T21:26:16.705Z"
+status: "active"
 ---
 
 # § 2408. Aid to States, counties, and tribal organizations for establishment, expansion, and improvement of veterans’ cemeteries
@@ -73,3 +74,7 @@ generated_at: "2026-03-30T02:55:53.497Z"
 - **(l)** For purposes of this section:
   - **(1)** The term “tribal organization” has the meaning given that term in section 3765(4) of this title .
   - **(2)** The term “trust land” has the meaning given that term in section 3765(1) of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 95–476, title II, § 202(b)(1)](https://www.govinfo.gov/link/plaw/95/public/476), Oct. 18, 1978, [92 Stat. 1504](https://www.govinfo.gov/link/statute/92/1504), § 1008; amended [Pub. L. 98–223, title II, § 202](https://www.govinfo.gov/link/plaw/98/public/223), Mar. 2, 1984, [98 Stat. 41](https://www.govinfo.gov/link/statute/98/41); [Pub. L. 100–322, title III, § 343](https://www.govinfo.gov/link/plaw/100/public/322), May 20, 1988, [102 Stat. 540](https://www.govinfo.gov/link/statute/102/540); [Pub. L. 100–687, div. B, title XVI, § 1601](https://www.govinfo.gov/link/plaw/100/public/687), Nov. 18, 1988, [102 Stat. 4137](https://www.govinfo.gov/link/statute/102/4137); [Pub. L. 101–237, title III, § 313(b)(1)](https://www.govinfo.gov/link/plaw/101/public/237), Dec. 18, 1989, [103 Stat. 2077](https://www.govinfo.gov/link/statute/103/2077); renumbered § 2408 and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 103–446, title VIII, § 803](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4675](https://www.govinfo.gov/link/statute/108/4675); [Pub. L. 105–116, § 2](https://www.govinfo.gov/link/plaw/105/public/116), Nov. 21, 1997, [111 Stat. 2382](https://www.govinfo.gov/link/statute/111/2382); [Pub. L. 105–368, title IV](https://www.govinfo.gov/link/plaw/105/public/368), §§ 403(c)(8), 404(a)(1), (b), (c), title X, § 1005(b)(5), Nov. 11, 1998, [112 Stat. 3339](https://www.govinfo.gov/link/statute/112/3339), 3365; [Pub. L. 108–183, title V, § 503](https://www.govinfo.gov/link/plaw/108/public/183), Dec. 16, 2003, [117 Stat. 2667](https://www.govinfo.gov/link/statute/117/2667); [Pub. L. 109–461, title IV, § 403](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3430](https://www.govinfo.gov/link/statute/120/3430); [Pub. L. 110–157, title II, § 202(b)(1)](https://www.govinfo.gov/link/plaw/110/public/157) –(3), Dec. 26, 2007, [121 Stat. 1832](https://www.govinfo.gov/link/statute/121/1832), 1833; [Pub. L. 116–315, title II](https://www.govinfo.gov/link/plaw/116/public/315), §§ 2205(a), (b)(1), 2206, 2208(a), Jan. 5, 2021, [134 Stat. 4986–4988](https://www.govinfo.gov/link/statute/134/4986); [Pub. L. 117–103, div. CC, § 102(a)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 1109](https://www.govinfo.gov/link/statute/136/1109); [Pub. L. 118–159, div. E, title L, § 5001](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2407](https://www.govinfo.gov/link/statute/138/2407).)*

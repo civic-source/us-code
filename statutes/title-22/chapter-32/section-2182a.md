@@ -3,9 +3,10 @@ title: "Section 2182a - Agricultural and productive credit and self-help communi
 usc_title: 22
 usc_section: "2182a"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2182a"
-generated_at: "2026-03-30T02:55:05.349Z"
+generated_at: "2026-11-23T21:25:58.444Z"
+status: "active"
 ---
 
 # § 2182a. Agricultural and productive credit and self-help community development programs
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.349Z"
 - **(g)** The Overseas Private Investment Corporation shall, upon enactment of this subsection, transfer to the agency primarily responsible for administering subchapter I of this chapter all obligations, assets, and related rights and responsibilities arising out of, or related to the predecessor program provided for in section 2200 1 of this title.
 - **(h)** The authority of this section shall continue through September 30, 1988 .
 - **(i)** Notwithstanding the limitation in subsection (c) of this section, foreign currencies owned by the United States and determined by the Secretary of the Treasury to be excess to the needs of the United States may be utilized to carry out the purposes of this section, including the discharge of liabilities under this subsection. The authority conferred by this subsection shall be in addition to authority conferred by any other provision of law to implement guaranty programs utilizing excess local currency.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 222A, as added [Pub. L. 93–559, § 8(a)(2)](https://www.govinfo.gov/link/plaw/93/public/559), Dec. 30, 1974, [88 Stat. 1796](https://www.govinfo.gov/link/statute/88/1796); amended [Pub. L. 95–88, title I, § 117(b)(1)](https://www.govinfo.gov/link/plaw/95/public/88), Aug. 3, 1977, [91 Stat. 540](https://www.govinfo.gov/link/statute/91/540); [Pub. L. 95–424, title I, § 115(b)](https://www.govinfo.gov/link/plaw/95/public/424), title V, § 502(d)(1), Oct. 6, 1978, [92 Stat. 951](https://www.govinfo.gov/link/statute/92/951), 959; [Pub. L. 96–53, title I, § 112(b)](https://www.govinfo.gov/link/plaw/96/public/53), Aug. 14, 1979, [93 Stat. 364](https://www.govinfo.gov/link/statute/93/364); [Pub. L. 97–438](https://www.govinfo.gov/link/plaw/97/public/438), Jan. 8, 1983, [96 Stat. 2286](https://www.govinfo.gov/link/statute/96/2286); [Pub. L. 98–473, title I, § 101(1)](https://www.govinfo.gov/link/plaw/98/public/473) [title V, § 541(a)], Oct. 12, 1984, [98 Stat. 1884](https://www.govinfo.gov/link/statute/98/1884), 1903; [Pub. L. 99–83, title III, § 313(d)](https://www.govinfo.gov/link/plaw/99/public/83), Aug. 8, 1985, [99 Stat. 217](https://www.govinfo.gov/link/statute/99/217); [Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 586(h)(3)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1535](https://www.govinfo.gov/link/statute/113/1535), 1501A–120.)*

@@ -3,9 +3,10 @@ title: "Section 1703G - Quarterly report on referrals for non-Department health 
 usc_title: 38
 usc_section: "1703G"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1703G"
-generated_at: "2026-03-30T02:55:53.482Z"
+generated_at: "2026-11-23T21:26:16.621Z"
+status: "active"
 ---
 
 # § 1703G. Quarterly report on referrals for non-Department health care
@@ -19,3 +20,7 @@ The Secretary shall submit to the Committees on Veterans’ Affairs of the Senat
     - **(D)** the date on which such referral is completed and the date on which an appointment with a non-Department health care provider is made; and
     - **(E)** the date on which such an appointment is made and the date on which such appointment occurs; and
   - **(2)** any other period of time that the Secretary determines necessary.
+
+## Source Credit
+
+*(Added [Pub. L. 118–210, title I, § 140(a)](https://www.govinfo.gov/link/plaw/118/public/210), Jan. 2, 2025, [138 Stat. 2743](https://www.govinfo.gov/link/statute/138/2743).)*

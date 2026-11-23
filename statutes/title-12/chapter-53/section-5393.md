@@ -3,9 +3,10 @@ title: "Section 5393 - Ban on certain activities by senior executives and direct
 usc_title: 12
 usc_section: "5393"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5393"
-generated_at: "2026-03-30T02:53:53.537Z"
+generated_at: "2026-11-23T21:25:37.261Z"
+status: "active"
 ---
 
 # § 5393. Ban on certain activities by senior executives and directors
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:53.537Z"
   - **(1)** The appropriate agency for a financial company, as described in subsection (a), may serve upon a senior executive or director described in subsection (b) a written notice of the intention of the agency to prohibit any further participation by such person, in any manner, in the conduct of the affairs of any financial company for a period of time determined by the appropriate agency to be commensurate with such violation, practice, or breach, provided such period shall be not less than 2 years.
   - **(2)** The due process requirements and other procedures under section 8(e) of the Federal Deposit Insurance Act ( 12 U.S.C. 1818(e) ) shall apply to actions under this section as if the covered financial company were an insured depository institution and the senior executive or director were an institution-affiliated party, as those terms are defined in that Act [ 12 U.S.C. 1811 et seq.].
 - **(d)** The Corporation and the Board of Governors, in consultation with the Council, shall jointly prescribe rules or regulations to administer and carry out this section, including rules, regulations, or guidelines to further define the term senior executive for the purposes of this section.
+
+## Source Credit
+
+*([Pub. L. 111–203, title II, § 213](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1517](https://www.govinfo.gov/link/statute/124/1517).)*

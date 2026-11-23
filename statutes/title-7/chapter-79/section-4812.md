@@ -3,9 +3,10 @@ title: "Section 4812 - Suspension and termination of orders"
 usc_title: 7
 usc_section: "4812"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 4812"
-generated_at: "2026-03-30T02:53:42.412Z"
+generated_at: "2026-11-23T21:25:28.354Z"
+status: "active"
 ---
 
 # § 4812. Suspension and termination of orders
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.412Z"
       - **(ii)** terminate the order in an orderly manner as soon as practicable after the date of such determination.
   - **(2)** Except with respect to a referendum required to be conducted under section 4811 of this title , the Secretary shall not be required by paragraph (1) to conduct more than one referendum under this chapter in a 2-year period.
 - **(c)** The termination or suspension of an order, or a provision of an order, shall not be considered an order within the meaning of this chapter.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XVI, § 1623](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1618](https://www.govinfo.gov/link/statute/99/1618).)*

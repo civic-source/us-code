@@ -3,9 +3,10 @@ title: "Section 5226 - Oversight and audits"
 usc_title: 12
 usc_section: "5226"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5226"
-generated_at: "2026-03-30T02:53:53.526Z"
+generated_at: "2026-11-23T21:25:37.233Z"
+status: "active"
 ---
 
 # § 5226. Oversight and audits
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:53:53.526Z"
 - **(e)** Any oversight, reporting, or audit requirement under this section shall terminate on the later of—
   - **(1)** the date that the last troubled asset acquired by the Secretary under section 5211 of this title has been sold or transferred out of the ownership or control of the Federal Government; or
   - **(2)** the date of expiration of the last insurance contract issued under section 5212 of this title .
+
+## Source Credit
+
+*([Pub. L. 110–343, div. A, title I, § 116](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3783](https://www.govinfo.gov/link/statute/122/3783); [Pub. L. 111–22, div. A, title VI, § 601](https://www.govinfo.gov/link/plaw/111/public/22), May 20, 2009, [123 Stat. 1659](https://www.govinfo.gov/link/statute/123/1659); [Pub. L. 114–301, § 3(a)](https://www.govinfo.gov/link/plaw/114/public/301), Dec. 16, 2016, [130 Stat. 1514](https://www.govinfo.gov/link/statute/130/1514).)*

@@ -3,9 +3,10 @@ title: "Section 1592n - Definitions"
 usc_title: 42
 usc_section: "1592n"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1592n"
-generated_at: "2026-03-30T02:56:11.106Z"
+generated_at: "2026-11-23T21:26:32.103Z"
+status: "active"
 ---
 
 # § 1592n. Definitions
@@ -20,3 +21,7 @@ As used in this subchapter, the following terms shall have the meanings respecti
 - **(f)** “Nonprofit agency” shall mean any agency no part of the net earnings of which inures to the benefit of any private stockholder or individual.
 - **(g)** “Project” shall mean housing or community facilities acquired, developed, or constructed with financial assistance pursuant to this subchapter.
 - **(h)** “Veteran” shall mean a person, or the family of a person, who has served in the active military or naval service of the United States at any time (i) on or after September 16, 1940 , and prior to July 26, 1947 , (ii) on or after April 6, 1917 , and prior to November 11, 1918 , or (iii) on or after June 27, 1950 , and prior to such date thereafter as shall be determined by the President, and who shall have been discharged or released therefrom under conditions other than dishonorable or who shall be still serving therein. The term shall also include the family of a person who served in the active military or naval service of the United States within any such period and who shall have died of causes determined by the Secretary of Veterans Affairs to have been service-connected.
+
+## Source Credit
+
+*(Sept. 1, 1951, ch. 378, title III, § 315, [65 Stat. 309](https://www.govinfo.gov/link/statute/65/309); June 30, 1953, ch. 170, § 18, [67 Stat. 126](https://www.govinfo.gov/link/statute/67/126); [Pub. L. 102–54, § 13(q)(7)(B)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 281](https://www.govinfo.gov/link/statute/105/281).)*

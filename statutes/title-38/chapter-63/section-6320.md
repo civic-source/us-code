@@ -3,9 +3,10 @@ title: "Section 6320 - Solid Start program"
 usc_title: 38
 usc_section: "6320"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 6320"
-generated_at: "2026-03-30T02:55:53.524Z"
+generated_at: "2026-11-23T21:26:16.832Z"
+status: "active"
 ---
 
 # § 6320. Solid Start program
@@ -31,3 +32,11 @@ generated_at: "2026-03-30T02:55:53.524Z"
   - **(3)** In this subsection:
     - **(A)** The term “Vet Center” has the meaning given that term in section 1712A(h) of this title .
     - **(B)** The term “veterans service organization” means an organization recognized by the Secretary for the representation of veterans under section 5902 of this title .
+
+In General
+
+Activities of the Solid Start Program
+
+## Source Credit
+
+*(Added [Pub. L. 117–205, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/205), Oct. 17, 2022, [136 Stat. 2232](https://www.govinfo.gov/link/statute/136/2232); amended [Pub. L. 118–210, title I, § 102(b)](https://www.govinfo.gov/link/plaw/118/public/210), Jan. 2, 2025, [138 Stat. 2710](https://www.govinfo.gov/link/statute/138/2710).)*

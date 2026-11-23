@@ -3,9 +3,10 @@ title: "Section 6613 - Local uses of funds"
 usc_title: 20
 usc_section: "6613"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6613"
-generated_at: "2026-03-30T02:54:48.201Z"
+generated_at: "2026-11-23T21:25:47.525Z"
+status: "active"
 ---
 
 # § 6613. Local uses of funds
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:54:48.201Z"
     - **(N)** developing feedback mechanisms to improve school working conditions, including through periodically and publicly reporting results of educator support and working conditions feedback;
     - **(O)** providing high-quality professional development for teachers, principals, or other school leaders on effective strategies to integrate rigorous academic content, career and technical education, and work-based learning (if appropriate), which may include providing common planning time, to help prepare students for postsecondary education and the workforce; and
     - **(P)** carrying out other activities that are evidence-based, to the extent the State (in consultation with local educational agencies in the State) determines that such evidence is reasonably available, and identified by the local educational agency that meet the purpose of this subchapter.
+
+## Source Credit
+
+*([Pub. L. 89–10, title II, § 2103](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title II, § 2002](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1926](https://www.govinfo.gov/link/statute/129/1926).)*

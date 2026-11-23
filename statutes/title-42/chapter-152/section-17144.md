@@ -3,9 +3,10 @@ title: "Section 17144 - OMB Government efficiency reports and scorecards"
 usc_title: 42
 usc_section: "17144"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17144"
-generated_at: "2026-03-30T02:56:11.498Z"
+generated_at: "2026-11-23T21:26:33.770Z"
+status: "active"
 ---
 
 # § 17144. OMB Government efficiency reports and scorecards
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.498Z"
   - **(2)** an evaluation of the overall progress of the Federal Government toward achieving the goals of this title 1 1 See References in Text note below. and the amendments made by this title; 1 and
   - **(3)** recommendations for additional actions necessary to meet the goals of this title 1 and the amendments made by this title. 1
 - **(b)** The Director of the Office of Management and Budget shall include in any annual energy scorecard the Director is otherwise required to submit a description of the compliance of each agency with the requirements of this title 1 and the amendments made by this title. 1
+
+## Source Credit
+
+*([Pub. L. 110–140, title V, § 528](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1664](https://www.govinfo.gov/link/statute/121/1664).)*

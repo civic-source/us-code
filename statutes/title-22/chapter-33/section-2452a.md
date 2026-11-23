@@ -3,9 +3,10 @@ title: "Section 2452a - Exchange program with countries in transition from total
 usc_title: 22
 usc_section: "2452a"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2452a"
-generated_at: "2026-03-30T02:55:05.368Z"
+generated_at: "2026-11-23T21:25:58.497Z"
+status: "active"
 ---
 
 # § 2452a. Exchange program with countries in transition from totalitarianism to democracy
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.368Z"
     - **(B)** of or for citizens and nationals of foreign countries in American private businesses, trade associations, unions, chambers of commerce, and local, State, and Federal Government agencies, located in or outside the United States; and
   - **(2)** by financing visits and interchanges between the United States and countries in transition from totalitarianism to democracy.
 - **(b)** The President is authorized to transfer to the appropriate appropriations account of the Department of State such sums as the President shall determine to be necessary out of the travel accounts of the departments and agencies of the United States, except for the Department of State, as the President shall designate. Such transfers shall be subject to the approval of the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate. In addition, the President is authorized to accept such gifts or cost-sharing arrangements as may be proffered to sustain the program under this section.
+
+## Source Credit
+
+*([Pub. L. 101–610, title VI, § 602](https://www.govinfo.gov/link/plaw/101/public/610), Nov. 16, 1990, [104 Stat. 3186](https://www.govinfo.gov/link/statute/104/3186); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XIII, § 1335(c), Oct. 21, 1998, [112 Stat. 2681–787](https://www.govinfo.gov/link/statute/112/2681).)*

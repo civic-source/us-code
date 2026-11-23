@@ -3,9 +3,10 @@ title: "Section 11133 - Reporting of certain professional review actions taken b
 usc_title: 42
 usc_section: "11133"
 chapter: 117
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11133"
-generated_at: "2026-03-30T02:56:11.395Z"
+generated_at: "2026-11-23T21:26:33.400Z"
+status: "active"
 ---
 
 # § 11133. Reporting of certain professional review actions taken by health care entities
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.395Z"
   - **(1)** A health care entity that fails substantially to meet the requirement of subsection (a)(1) shall lose the protections of section 11111(a)(1) of this title if the Secretary publishes the name of the entity under section 11111(b) of this title .
   - **(2)** If, after notice of noncompliance and providing an opportunity to correct noncompliance, the Secretary determines that a Board of Medical Examiners has failed to report information in accordance with subsection (b), the Secretary shall designate another qualified entity for the reporting of information under subsection (b).
 - **(d)** Any reference in this subchapter to a Board of Medical Examiners includes, in the case of a Board in a State that fails to meet the reporting requirements of section 11132(a) of this title or subsection (b), a reference to such other qualified entity as the Secretary designates.
+
+## Source Credit
+
+*([Pub. L. 99–660, title IV, § 423](https://www.govinfo.gov/link/plaw/99/public/660), Nov. 14, 1986, [100 Stat. 3789](https://www.govinfo.gov/link/statute/100/3789).)*

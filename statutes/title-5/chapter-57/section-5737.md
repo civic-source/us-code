@@ -3,9 +3,10 @@ title: "Section 5737 - Relocation expenses of an employee who is performing an e
 usc_title: 5
 usc_section: "5737"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5737"
-generated_at: "2026-03-30T02:52:56.025Z"
+generated_at: "2026-11-23T21:25:23.299Z"
+status: "active"
 ---
 
 # § 5737. Relocation expenses of an employee who is performing an extended assignment
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:52:56.025Z"
   - **(9)** Expenses of nontemporary storage of household goods and personal effects as defined in section 5726(a) of this title , subject to the limitation that the weight of the household goods and personal effects stored, together with the weight of property transported under section 5724(a) of this title , may not exceed the total maximum weight which could be transported in accordance with section 5724(a) of this title .
   - **(10)** Expenses of property management services.
 - **(b)** An agency shall not make payment under this section to or on behalf of the employee for expenses incurred after termination of the temporary assignment.
+
+## Source Credit
+
+*(Added [Pub. L. 104–201, div. A, title XVII, § 1716](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2756](https://www.govinfo.gov/link/statute/110/2756).)*

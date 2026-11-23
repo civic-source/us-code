@@ -3,12 +3,17 @@ title: "Section 8285c - Authorization of appropriations"
 usc_title: 42
 usc_section: "8285c"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8285c"
-generated_at: "2026-03-30T02:56:11.340Z"
+generated_at: "2026-11-23T21:26:33.194Z"
+status: "active"
 ---
 
 # § 8285c. Authorization of appropriations
 
 - **(a)** To carry out this subchapter there is authorized to be appropriated the sum of $10,000,000 for the fiscal year ending on September 30, 1981 , and the sum of $15,000,000 for the fiscal year ending on September 30, 1982 .
 - **(b)** Any funds appropriated under the authorization contained in this section shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 96–294, title V, § 584](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 761](https://www.govinfo.gov/link/statute/94/761).)*

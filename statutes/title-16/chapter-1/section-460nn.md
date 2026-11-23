@@ -3,9 +3,10 @@ title: "Section 460nn - Findings and purpose"
 usc_title: 16
 usc_section: "460nn"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 460nn"
-generated_at: "2026-03-30T02:54:22.829Z"
+generated_at: "2026-11-23T21:25:51.597Z"
+status: "active"
 ---
 
 # § 460nn. Findings and purpose
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:22.829Z"
   - **(3)** certain lands designated as the Big Branch and Peru Peak Wilderness Areas by title I of this Act are suitable for inclusion as part of the national recreation area; and
   - **(4)** certain other lands in the Green Mountain National Forest not designated as wilderness by this Act are of a predominantly roadless nature and possess outstanding wild values that are important for primitive and semiprimitive recreation, watershed protection, wildlife habitat, ecological study, education, and historic and archeological resources, and are deemed suitable for preservation and protection as part of a national recreation area.
 - **(b)** The purpose of this subchapter is to designate certain National Forest System lands in the State of Vermont as the Robert T. Stafford White Rocks National Recreation Area in order to preserve and protect their existing wilderness and wild values and to promote wild forest and aquatic habitat for wildlife, watershed protection, opportunities for primitive and semiprimitive recreation, and scenic, ecological, and scientific values.
+
+## Source Credit
+
+*([Pub. L. 98–322, title II, § 201](https://www.govinfo.gov/link/plaw/98/public/322), June 19, 1984, [98 Stat. 256](https://www.govinfo.gov/link/statute/98/256); [Pub. L. 110–1, § 1(b)](https://www.govinfo.gov/link/plaw/110/public/1), Jan. 17, 2007, [121 Stat. 3](https://www.govinfo.gov/link/statute/121/3).)*

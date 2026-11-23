@@ -3,9 +3,10 @@ title: "Section 368 - Repealed. Pub. L. 104–251, § 5(c) , Oct. 9, 1996 , 110 
 usc_title: 45
 usc_section: "368"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 368"
-generated_at: "2026-03-30T02:55:56.552Z"
+generated_at: "2026-11-23T21:26:19.213Z"
+status: "repealed"
 ---
 
 # § 368. Repealed. Pub. L. 104–251, § 5(c) , Oct. 9, 1996 , 110 Stat. 3165

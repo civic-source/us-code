@@ -3,9 +3,10 @@ title: "Section 6371c - State plans"
 usc_title: 42
 usc_section: "6371c"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6371c"
-generated_at: "2026-03-30T02:56:11.258Z"
+generated_at: "2026-11-23T21:26:32.940Z"
+status: "active"
 ---
 
 # § 6371c. State plans
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.258Z"
 - **(c)**
   - **(1)** If a State plan has not been approved under this section within 2 years and 90 days after November 9, 1978 , or within 90 days after the completion of the preliminary audits under section 6371b(a) of this title , whichever is later, the Secretary may take such action as necessary to develop and implement such a State plan and to carry out the functions which would otherwise be carried out under this part by the State energy agency, State school facilities agency, and State hospital facilities agency, in order that the energy conservation program for schools and hospitals may be implemented in such State.
   - **(2)** Notwithstanding any other provision contained in this section, a State may, at any time, submit a proposed State plan for such State under this section. The Secretary shall approve or disapprove such plan not later than 60 days after receipt by the Secretary. If such plan meets the requirements of subsection (a) and is not inconsistent with any plan developed and implemented by the Secretary under paragraph (1), the Secretary shall approve the plan and withdraw any such plan developed and implemented by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 394](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 95–619, title III, § 302(a)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3243](https://www.govinfo.gov/link/statute/92/3243); amended [Pub. L. 105–388, § 5(a)(10)](https://www.govinfo.gov/link/plaw/105/public/388), Nov. 13, 1998, [112 Stat. 3478](https://www.govinfo.gov/link/statute/112/3478).)*

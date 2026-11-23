@@ -3,9 +3,10 @@ title: "Section 5916 - Central source of nonnuclear energy information"
 usc_title: 42
 usc_section: "5916"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5916"
-generated_at: "2026-03-30T02:56:11.240Z"
+generated_at: "2026-11-23T21:26:32.842Z"
+status: "active"
 ---
 
 # § 5916. Central source of nonnuclear energy information
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.240Z"
     - **(A)** any delegate of the Secretary for the purpose of carrying out this chapter, and
     - **(B)** the Attorney General, the Secretary of Agriculture, the Secretary of the Interior, the Federal Trade Commission, the Environmental Protection Agency, the Federal Energy Regulatory Commission 1 1 So in original. Probably should be followed by a comma. the Government Accountability Office, other Federal agencies, when necessary to carry out their duties and responsibilities under this chapter and other statutes, but such agencies and agency heads shall not release such information to the public. This section is not authority to withhold information from Congress or any committee of Congress upon request of the chairman or ranking minority member.
 
+
+## Source Credit
+
+*([Pub. L. 93–577, § 17](https://www.govinfo.gov/link/plaw/93/public/577), as added [Pub. L. 94–187, title III, § 312](https://www.govinfo.gov/link/plaw/94/public/187), Dec. 31, 1975, [89 Stat. 1075](https://www.govinfo.gov/link/statute/89/1075); amended [Pub. L. 109–58, title X, § 1009(b)(11)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 936](https://www.govinfo.gov/link/statute/119/936).)*

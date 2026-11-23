@@ -3,9 +3,10 @@ title: "Section 4106 - Funding and additional authorities"
 usc_title: 33
 usc_section: "4106"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 4106"
-generated_at: "2026-03-30T02:55:41.147Z"
+generated_at: "2026-11-23T21:26:11.496Z"
+status: "active"
 ---
 
 # § 4106. Funding and additional authorities
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:41.147Z"
     - **(A)** any department, agency, or instrumentality of the United States;
     - **(B)** any State or local government or tribal government; or
     - **(C)** any foreign government or international organization.
+
+## Source Credit
+
+*([Pub. L. 115–394, § 7](https://www.govinfo.gov/link/plaw/115/public/394), Dec. 21, 2018, [132 Stat. 5286](https://www.govinfo.gov/link/statute/132/5286).)*

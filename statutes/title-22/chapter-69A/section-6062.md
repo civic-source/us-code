@@ -3,9 +3,10 @@ title: "Section 6062 - Assistance for Cuban people"
 usc_title: 22
 usc_section: "6062"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6062"
-generated_at: "2026-03-30T02:55:05.423Z"
+generated_at: "2026-11-23T21:25:58.677Z"
+status: "active"
 ---
 
 # § 6062. Assistance for Cuban people
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:55:05.423Z"
     - **(C)** specific trade negotiating objectives of the United States with respect to Cuba, including the objectives described in section 108(b)(5) of the North American Free Trade Agreement Implementation Act ( 19 U.S.C. 3317(b)(5) ); 1 1 See References in Text note below. and
     - **(D)** actions proposed or anticipated to be undertaken, and any proposed legislation necessary or appropriate, to achieve any of such policy and negotiating objectives.
   - **(2)** The President shall consult with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate and the appropriate congressional committees and shall seek advice from the appropriate advisory committees established under section 135 of the Trade Act of 1974 [ 19 U.S.C. 2155 ] regarding the policy and negotiating objectives and the legislative proposals described in paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 104–114, title II, § 202](https://www.govinfo.gov/link/plaw/104/public/114), Mar. 12, 1996, [110 Stat. 806](https://www.govinfo.gov/link/statute/110/806); [Pub. L. 110–246, title III, § 3001(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/246), (2)(W), June 18, 2008, [122 Stat. 1820](https://www.govinfo.gov/link/statute/122/1820), 1821; [Pub. L. 115–254, div. F, title VI, § 1470(n)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3518](https://www.govinfo.gov/link/statute/132/3518).)*

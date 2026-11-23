@@ -3,9 +3,10 @@ title: "Section 8286 - Consensus on factors and data for energy conservation sta
 usc_title: 42
 usc_section: "8286"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8286"
-generated_at: "2026-03-30T02:56:11.340Z"
+generated_at: "2026-11-23T21:26:33.194Z"
+status: "active"
 ---
 
 # § 8286. Consensus on factors and data for energy conservation standards
@@ -17,3 +18,7 @@ The Secretary of Energy shall assure that within 6 months after June 30, 1980 , 
   - **(3)** inflation rates;
   - **(4)** climatic conditions and zones; and
   - **(5)** the cost and energy saving characteristics of construction materials.
+
+## Source Credit
+
+*([Pub. L. 96–294, title V, § 595](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 762](https://www.govinfo.gov/link/statute/94/762).)*

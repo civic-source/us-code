@@ -3,9 +3,10 @@ title: "Section 3903 - Limitations on assistance; special training courses"
 usc_title: 38
 usc_section: "3903"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3903"
-generated_at: "2026-03-30T02:55:53.515Z"
+generated_at: "2026-11-23T21:26:16.786Z"
+status: "active"
 ---
 
 # § 3903. Limitations on assistance; special training courses
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:53.515Z"
   - **(1)** The Secretary shall provide, directly or by contract, for the conduct of special driver training courses at every hospital and, where appropriate, at regional offices and other medical facilities, of the Department to instruct such eligible person to operate the type of automobile or other conveyance such person wishes to obtain with assistance under this chapter, and may make such courses available to any veteran, eligible for care under chapter 17 of this title or member of the Armed Forces, who is determined by the Secretary to need the special training provided in such courses even though such veteran or member is not eligible for the assistance provided under this chapter.
   - **(2)** The Secretary is authorized to obtain insurance on automobiles and other conveyances used in conducting the special driver training courses provided under this subsection and to obtain, at Government expense, personal liability and property damage insurance for all persons taking such courses without regard to whether such persons are taking the course on an in-patient or out-patient basis.
   - **(3)** Notwithstanding any other provision of law, the Secretary may obtain, by purchase, lease, gift, or otherwise, any automobile, motor vehicle, or other conveyance deemed necessary to carry out the purposes of this subsection, and may sell, assign, transfer, or convey any such automobile, vehicle, or conveyance to which the Department obtains title for such price and upon such terms as the Secretary deems appropriate; and any proceeds received from any such disposition shall be credited to the applicable Department appropriation.
+
+## Source Credit
+
+*(Added [Pub. L. 91–666, § 2(a)](https://www.govinfo.gov/link/plaw/91/public/666), Jan. 11, 1971, [84 Stat. 2000](https://www.govinfo.gov/link/statute/84/2000), § 1903; amended [Pub. L. 93–538, § 4(a)](https://www.govinfo.gov/link/plaw/93/public/538), (b), Dec. 22, 1974, [88 Stat. 1736](https://www.govinfo.gov/link/statute/88/1736), 1737; [Pub. L. 94–581, title I, § 108](https://www.govinfo.gov/link/plaw/94/public/581), Oct. 21, 1976, [90 Stat. 2847](https://www.govinfo.gov/link/statute/90/2847); [Pub. L. 97–66, title III, § 303](https://www.govinfo.gov/link/plaw/97/public/66), Oct. 17, 1981, [95 Stat. 1030](https://www.govinfo.gov/link/statute/95/1030); [Pub. L. 98–543, title III, § 305(b)](https://www.govinfo.gov/link/plaw/98/public/543), Oct. 24, 1984, [98 Stat. 2748](https://www.govinfo.gov/link/statute/98/2748); renumbered § 3903 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406](https://www.govinfo.gov/link/statute/105/404); [Pub. L. 106–117, title VIII, § 804](https://www.govinfo.gov/link/plaw/106/public/117), Nov. 30, 1999, [113 Stat. 1586](https://www.govinfo.gov/link/statute/113/1586); [Pub. L. 112–154, title VII, § 701(e)](https://www.govinfo.gov/link/plaw/112/public/154), Aug. 6, 2012, [126 Stat. 1204](https://www.govinfo.gov/link/statute/126/1204); [Pub. L. 114–256, § 2](https://www.govinfo.gov/link/plaw/114/public/256), Dec. 14, 2016, [130 Stat. 1345](https://www.govinfo.gov/link/statute/130/1345); [Pub. L. 117–333, § 21](https://www.govinfo.gov/link/plaw/117/public/333), Jan. 5, 2023, [136 Stat. 6138](https://www.govinfo.gov/link/statute/136/6138).)*

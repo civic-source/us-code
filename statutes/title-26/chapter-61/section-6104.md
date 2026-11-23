@@ -3,9 +3,10 @@ title: "Section 6104 - Publicity of information required from certain exempt org
 usc_title: 26
 usc_section: "6104"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6104"
-generated_at: "2026-03-30T02:55:27.841Z"
+generated_at: "2026-11-23T21:26:06.813Z"
+status: "active"
 ---
 
 # § 6104. Publicity of information required from certain exempt organizations and certain trusts
@@ -71,3 +72,13 @@ generated_at: "2026-03-30T02:55:27.841Z"
   - **(6)** For purposes of paragraph (1), the term “notice materials” means the notice of status filed under section 527(i) and any papers submitted in support of such notice and any letter or other document issued by the Internal Revenue Service with respect to such notice.
   - **(7)** Any report filed by an organization under section 527(j) (relating to required disclosure of expenditures and contributions) shall be made available to the public at such times and in such places as the Secretary may prescribe.
   - **(8)** The organizations referred to in paragraphs (1) and (2) of section 6033(d) shall comply with the requirements of this subsection relating to annual returns filed under section 6033 in the same manner as the organizations referred to in paragraph (1).
+
+In general
+
+Publication of annual returns
+
+“The amendment made by subsection (a) [amending this section] shall apply—
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 755; [Pub. L. 85–866, title I, § 75(a)](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1660](https://www.govinfo.gov/link/statute/72/1660); [Pub. L. 91–172, title I, § 101(e)(1)](https://www.govinfo.gov/link/plaw/91/public/172) –(3), (j)(36), Dec. 30, 1969, [83 Stat. 523](https://www.govinfo.gov/link/statute/83/523), 530; [Pub. L. 93–406, title II, § 1022(g)(1)](https://www.govinfo.gov/link/plaw/93/public/406) –(3), Sept. 2, 1974, [88 Stat. 940](https://www.govinfo.gov/link/statute/88/940), 941; [Pub. L. 94–455, title XII, § 1201(d)(1)](https://www.govinfo.gov/link/plaw/94/public/455), title XIII, § 1307(d)(2)(B), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1667](https://www.govinfo.gov/link/statute/90/1667), 1727, 1834; [Pub. L. 95–227, § 4(e)](https://www.govinfo.gov/link/plaw/95/public/227), Feb. 10, 1978, [92 Stat. 23](https://www.govinfo.gov/link/statute/92/23); [Pub. L. 95–488, § 1(d)](https://www.govinfo.gov/link/plaw/95/public/488), Oct. 20, 1978, [92 Stat. 1638](https://www.govinfo.gov/link/statute/92/1638); [Pub. L. 95–600, title VII, § 703(m)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2943](https://www.govinfo.gov/link/statute/92/2943); [Pub. L. 96–603, § 1(b)](https://www.govinfo.gov/link/plaw/96/public/603), (d)(3), Dec. 28, 1980, [94 Stat. 3503](https://www.govinfo.gov/link/statute/94/3503), 3504; [Pub. L. 98–369, div. A, title III, § 306(b)](https://www.govinfo.gov/link/plaw/98/public/369), title IV, § 491(d)(49), July 18, 1984, [98 Stat. 784](https://www.govinfo.gov/link/statute/98/784), 852; [Pub. L. 100–203, title X, § 10702(a)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–459](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 104–168, title XIII, § 1313(a)](https://www.govinfo.gov/link/plaw/104/public/168), July 30, 1996, [110 Stat. 1479](https://www.govinfo.gov/link/statute/110/1479); [Pub. L. 105–206, title VI, § 6019(a)](https://www.govinfo.gov/link/plaw/105/public/206), (b), July 22, 1998, [112 Stat. 823](https://www.govinfo.gov/link/statute/112/823); [Pub. L. 105–277, div. J, title I, § 1004(b)(1)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–888](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–230](https://www.govinfo.gov/link/plaw/106/public/230), §§ 1(b), 2(b), 3(b), July 1, 2000, [114 Stat. 478](https://www.govinfo.gov/link/statute/114/478), 481, 482; [Pub. L. 106–554, § 1(a)(7) [title III, § 312(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–640; [Pub. L. 107–276, § 3(b)](https://www.govinfo.gov/link/plaw/107/public/276), Nov. 2, 2002, [116 Stat. 1931](https://www.govinfo.gov/link/statute/116/1931); [Pub. L. 109–280, title XII](https://www.govinfo.gov/link/plaw/109/public/280), §§ 1201(b)(3), 1224(a), (b)(4), 1225(a), Aug. 17, 2006, [120 Stat. 1066](https://www.govinfo.gov/link/statute/120/1066), 1091, 1093; [Pub. L. 110–172, § 3(g)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2475](https://www.govinfo.gov/link/statute/121/2475); [Pub. L. 113–295, div. A, title II, § 220(v)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4036](https://www.govinfo.gov/link/statute/128/4036); [Pub. L. 116–25, title III, § 3101(c)](https://www.govinfo.gov/link/plaw/116/public/25), July 1, 2019, [133 Stat. 1015](https://www.govinfo.gov/link/statute/133/1015).)*

@@ -3,9 +3,10 @@ title: "Section 1922 - Legacy service disabled veterans’ insurance"
 usc_title: 38
 usc_section: "1922"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1922"
-generated_at: "2026-03-30T02:55:53.490Z"
+generated_at: "2026-11-23T21:26:16.673Z"
+status: "active"
 ---
 
 # § 1922. Legacy service disabled veterans’ insurance
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:53.490Z"
       - **(i)** A veteran who elects under subparagraph (A) to be insured under section 1922B of this title shall be subject to the two-year waiting period specified in subsection (c) of such section.
       - **(ii)** If the veteran dies during such period, the Secretary shall pay the beneficiary under this section, and, if applicable, under section 1922A, plus the amount of premiums paid by the veteran under such section 1922B, plus interest.
   - **(3)** Except as provided by paragraph (2)(B), a veteran may not be insured under this section and section 1922B simultaneously.
+
+## Source Credit
+
+*([Pub. L. 85–857](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1155](https://www.govinfo.gov/link/statute/72/1155), § 722; renumbered § 1922 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(a)(2)(A)(iii)(IV), (D)(i), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 403–406](https://www.govinfo.gov/link/statute/105/403); [Pub. L. 102–86, title II](https://www.govinfo.gov/link/plaw/102/public/86), §§ 201(a), 202(a), Aug. 14, 1991, [105 Stat. 415](https://www.govinfo.gov/link/statute/105/415), 416; [Pub. L. 103–446, title XII, § 1201(i)(2)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4688](https://www.govinfo.gov/link/statute/108/4688); [Pub. L. 106–419, title III, § 311(a)](https://www.govinfo.gov/link/plaw/106/public/419), Nov. 1, 2000, [114 Stat. 1854](https://www.govinfo.gov/link/statute/114/1854); [Pub. L. 110–389, title IV, § 404](https://www.govinfo.gov/link/plaw/110/public/389), Oct. 10, 2008, [122 Stat. 4175](https://www.govinfo.gov/link/statute/122/4175); [Pub. L. 111–117, div. E, title II, § 226](https://www.govinfo.gov/link/plaw/111/public/117), Dec. 16, 2009, [123 Stat. 3307](https://www.govinfo.gov/link/statute/123/3307); [Pub. L. 116–283, div. A, title IX, § 926(a)(32)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3830](https://www.govinfo.gov/link/statute/134/3830); [Pub. L. 116–315, title II, § 2004(b)(1)](https://www.govinfo.gov/link/plaw/116/public/315), (c)(1), Jan. 5, 2021, [134 Stat. 4974](https://www.govinfo.gov/link/statute/134/4974).)*

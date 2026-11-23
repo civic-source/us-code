@@ -3,12 +3,17 @@ title: "Section 7257 - Authority to assist in establishment and maintenance of o
 usc_title: 7
 usc_section: "7257"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7257"
-generated_at: "2026-03-30T02:53:42.448Z"
+generated_at: "2026-11-23T21:25:28.420Z"
+status: "active"
 ---
 
 # § 7257. Authority to assist in establishment and maintenance of one or more export trading companies
 
 The Secretary of Agriculture shall, consistent with the obligations of the United States as a member of the World Trade Organization, provide such advice and assistance to the United States dairy industry as may be necessary to enable that industry to establish and maintain one or more export trading companies under the Export Trading Company Act of 1982 ( 15 U.S.C. 4001 et seq.) for the purpose of facilitating the international market development for and exportation of dairy products produced in the United States.
 
+
+## Source Credit
+
+*([Pub. L. 104–127, title I, § 149](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 921](https://www.govinfo.gov/link/statute/110/921).)*

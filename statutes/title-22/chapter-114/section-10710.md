@@ -3,9 +3,10 @@ title: "Section 10710 - Reports on Russian and Chinese malign influence operatio
 usc_title: 22
 usc_section: "10710"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10710"
-generated_at: "2026-03-30T02:55:05.480Z"
+generated_at: "2026-11-23T21:25:58.803Z"
+status: "active"
 ---
 
 # § 10710. Reports on Russian and Chinese malign influence operations and campaigns in the Western Balkans
@@ -24,3 +25,21 @@ generated_at: "2026-03-30T02:55:05.480Z"
     - **(A)** each network, entity and individual, to the extent such information is available, of Russia, China, or any other country with which Russia or China may cooperate, that is supporting such Russian or Chinese malign influence operations or campaigns, including the provision of financial or operational support to activities in a Western Balkans country that may limit freedom of speech or create barriers of access to democratic processes, including exercising the right to vote in a free and fair election; and
     - **(B)** the role of each such entity in providing such support;
 - **(c)** Each report required under subsection (a) shall be submitted in unclassified form, but may include a classified annex.
+
+(4) the identification of the tactics, techniques, and procedures used in Russian or Chinese malign influence operations and campaigns in Western Balkans countries;
+
+(5) an assessment of the effect of previous Russian or Chinese malign influence operations and campaigns that targeted alliances and partnerships of the United States Armed Forces in the Western Balkans, including the effectiveness of such operations and campaigns in achieving the objectives of Russia and China, respectively;
+
+(6) the identification of each Western Balkans country with respect to which Russia or China has conducted or attempted to conduct a malign influence operation or campaign;
+
+(7) an assessment of the capacity and efforts of NATO and of each individual Western Balkans country to counter Russian or Chinese malign influence operations and campaigns carried out with respect to Western Balkans countries;
+
+(8) the efforts by the United States to combat such malign influence operations in the Western Balkans, including through the Countering Russian Influence Fund and the Countering People’s Republic of China Malign Influence Fund;
+
+(9) an assessment of the tactics, techniques, and procedures that the Secretary of State, in consultation with the Director of National Intelligence and the Secretary of Defense, determines are likely to be used in future Russian or Chinese malign influence operations and campaigns carried out with respect to Western Balkans countries; and
+
+(10) activities that the Department of State and other relevant Federal agencies could use to increase the United States Government’s capacity to counter Russian and Chinese malign influence operations and campaigns in Western Balkans countries.
+
+## Source Credit
+
+*([Pub. L. 119–60, div. H, title LXXXIII, § 8341](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1878](https://www.govinfo.gov/link/statute/139/1878).)*

@@ -3,9 +3,10 @@ title: "Section 665e - Cybersecurity Advisory Committee"
 usc_title: 6
 usc_section: "665e"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 665e"
-generated_at: "2026-03-30T02:53:09.478Z"
+generated_at: "2026-11-23T21:25:25.826Z"
+status: "active"
 ---
 
 # § 665e. Cybersecurity Advisory Committee
@@ -63,3 +64,33 @@ generated_at: "2026-03-30T02:53:09.478Z"
     - **(D)** Public and private partnerships.
   - **(2)** Each subcommittee shall meet not less frequently than semiannually, and submit to the Advisory Committee for inclusion in the annual report required under subsection (b)(4) information, including activities, findings, and recommendations, regarding subject matter considered by the subcommittee.
   - **(3)** The chair of the Advisory Committee shall appoint members to subcommittees and shall ensure that each member appointed to a subcommittee has subject matter expertise relevant to the subject matter of the subcommittee.
+
+(aa) Defense.
+
+(bb) Education.
+
+(cc) Financial services and insurance.
+
+(dd) Healthcare.
+
+(ee) Manufacturing.
+
+(ff) Media and entertainment.
+
+(gg) Chemicals.
+
+(hh) Retail.
+
+(ii) Transportation.
+
+(jj) Energy.
+
+(kk) Information Technology.
+
+(ll) Communications.
+
+(mm) Other relevant fields identified by the Director.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XXII, § 2219](https://www.govinfo.gov/link/plaw/107/public/296), formerly § 2216, as added [Pub. L. 116–283, div. A, title XVII, § 1718(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4102](https://www.govinfo.gov/link/statute/134/4102); renumbered § 2219 and amended [Pub. L. 117–81, div. A, title XV, § 1547(b)(1)(A)(vi)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2061](https://www.govinfo.gov/link/statute/135/2061).)*

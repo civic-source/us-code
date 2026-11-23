@@ -3,9 +3,10 @@ title: "Section 761 - Emergency Management Assistance Compact grants"
 usc_title: 6
 usc_section: "761"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 761"
-generated_at: "2026-03-30T02:53:09.499Z"
+generated_at: "2026-11-23T21:25:25.845Z"
+status: "active"
 ---
 
 # § 761. Emergency Management Assistance Compact grants
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:09.499Z"
   - **(5)** to assist State and local governments, emergency response providers, and organizations representing such providers with credentialing emergency response providers and the typing of emergency response resources.
 - **(c)** The Administrator shall consult with the Administrator of the Emergency Management Assistance Compact to ensure effective coordination of efforts in responding to requests for assistance.
 - **(d)** There is authorized to be appropriated to carry out this section $4,000,000 for each of fiscal years 2018 through 2022. Such sums shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 109–295, title VI, § 661](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1432](https://www.govinfo.gov/link/statute/120/1432); [Pub. L. 115–254, div. D, § 1217(b)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3451](https://www.govinfo.gov/link/statute/132/3451).)*

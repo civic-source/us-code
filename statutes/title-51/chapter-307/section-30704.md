@@ -3,9 +3,10 @@ title: "Section 30704 - Offshore performance of contracts for the procurement of
 usc_title: 51
 usc_section: "30704"
 chapter: 307
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 30704"
-generated_at: "2026-03-30T02:56:28.705Z"
+generated_at: "2026-11-23T21:26:42.537Z"
+status: "active"
 ---
 
 # § 30704. Offshore performance of contracts for the procurement of goods and services
@@ -14,3 +15,24 @@ The Administrator shall submit to Congress, not later than 120 days after the en
 
   - **(1)** the contracts and subcontracts and their dollar values for which the Administrator determines that essential goods or services under the contract are available only from a source outside the United States; and
   - **(2)** the items and their dollar values for which the Buy American Act ( 41 U.S.C. 10a et seq.) 1 1 See References in Text note below. was waived pursuant to obligations of the United States under international agreements.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30704 | 42 U.S.C. 16823 . | Pub. L. 109–155, title VII, § 709 , Dec. 30, 2005 , 119 Stat. 2938 . |
+
+
+Historical and Revision Notes
+
+30704
+
+42 U.S.C. 16823
+
+Pub. L. 109–155, title VII, § 709
+
+Dec. 30, 2005
+
+119 Stat. 2938
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3371](https://www.govinfo.gov/link/statute/124/3371).)*

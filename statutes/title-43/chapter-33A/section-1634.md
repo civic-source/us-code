@@ -3,9 +3,10 @@ title: "Section 1634 - Alaska Native allotments"
 usc_title: 43
 usc_section: "1634"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1634"
-generated_at: "2026-03-30T02:55:57.484Z"
+generated_at: "2026-11-23T21:26:19.865Z"
+status: "active"
 ---
 
 # § 1634. Alaska Native allotments
@@ -85,3 +86,7 @@ generated_at: "2026-03-30T02:55:57.484Z"
         - **(I)** to a reduction of the acreage charged against the entitlement under the Alaska Native Claims Settlement Act ( 43 U.S.C. 1601 et seq.); or
         - **(II)** to select mineral interests to replace the acreage.
   - **(6)** The United States shall not be subject to liability for the presence of any hazardous substance in land or an interest in land solely as a result of any reconveyance to and transfer by the United States of the land or interest pursuant to this subsection.
+
+## Source Credit
+
+*([Pub. L. 96–487, title IX, § 905](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2435](https://www.govinfo.gov/link/statute/94/2435); [Pub. L. 102–415](https://www.govinfo.gov/link/plaw/102/public/415), §§ 2, 12, Oct. 14, 1992, [106 Stat. 2112](https://www.govinfo.gov/link/statute/106/2112), 2115; [Pub. L. 105–333, § 9](https://www.govinfo.gov/link/plaw/105/public/333), Oct. 31, 1998, [112 Stat. 3134](https://www.govinfo.gov/link/statute/112/3134).)*

@@ -3,9 +3,10 @@ title: "Section 6212a - Oil exports, safety valve, and maritime security"
 usc_title: 42
 usc_section: "6212a"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6212a"
-generated_at: "2026-03-30T02:56:11.243Z"
+generated_at: "2026-11-23T21:26:32.849Z"
+status: "active"
 ---
 
 # § 6212a. Oil exports, safety valve, and maritime security
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.243Z"
       - **(i)** the export of crude oil pursuant to this Act has caused sustained material oil supply shortages or sustained oil prices significantly above world market levels that are directly attributable to the export of crude oil produced in the United States; and
       - **(ii)** those supply shortages or price increases have caused or are likely to cause sustained material adverse employment effects in the United States.
   - **(2)** Any requirement or restriction imposed pursuant to subparagraph (A) of paragraph (1) may be renewed for 1 or more additional periods of not more than 1 year each.
+
+## Source Credit
+
+*([Pub. L. 114–113, div. O, title I, § 101](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2987](https://www.govinfo.gov/link/statute/129/2987).)*

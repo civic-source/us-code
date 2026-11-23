@@ -3,9 +3,10 @@ title: "Section 843 - Medical examinations"
 usc_title: 30
 usc_section: "843"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 843"
-generated_at: "2026-03-30T02:55:29.389Z"
+generated_at: "2026-11-23T21:26:00.394Z"
+status: "active"
 ---
 
 # § 843. Medical examinations
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:29.389Z"
   - **(3)** Any miner so transferred shall receive compensation for such work at not less than the regular rate of pay received by him immediately prior to his transfer.
 - **(c)** No payment may be required of any miner in connection with any examination or test given him pursuant to this subchapter. Where such examinations or tests cannot be given, due to the lack of adequate medical or other necessary facilities or personnel, in the locality where the miner resides, arrangements shall be made to have them conducted, in accordance with the provisions of this subchapter, in such locality by the Secretary of Health and Human Services, or by an appropriate person, agency, or institution, public or private, under an agreement or arrangement between the Secretary of Health and Human Services and such person, agency, or institution. The operator of the mine shall reimburse the Secretary of Health and Human Services, or such person, agency, or institution, as the case may be, for the cost of conducting each examination or test made, in accordance with this subchapter, and shall pay whatever other costs are necessary to enable the miner to take such examinations or tests.
 - **(d)** If the death of any active miner occurs in any coal mine, or if the death of any active or inactive miner occurs in any other place, the Secretary of Health and Human Services is authorized to provide for an autopsy to be performed on such miner, with the consent of his surviving widow or, if he has no such widow, then with the consent of his surviving next of kin. The results of such autopsy shall be submitted to the Secretary of Health and Human Services and, with the consent of such survivor, to the miner’s physician or other interested person. Such autopsy shall be paid for by the Secretary of Health and Human Services.
+
+## Source Credit
+
+*([Pub. L. 91–173, title II, § 203](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 763](https://www.govinfo.gov/link/statute/83/763); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695).)*

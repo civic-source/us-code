@@ -3,9 +3,10 @@ title: "Section 2162 - Protection of borrower stock"
 usc_title: 12
 usc_section: "2162"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2162"
-generated_at: "2026-03-30T02:53:53.473Z"
+generated_at: "2026-11-23T21:25:37.058Z"
+status: "active"
 ---
 
 # § 2162. Protection of borrower stock
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:53.473Z"
     - **(A)** in the case of stock, par value;
     - **(B)** in the case of participation certificates and other equities and interests not described in subparagraph (C), face or equivalent value; or
     - **(C)** in the case of participation certificates and allocated equities subject to retirement under a revolving cycle but that a System institution elects to retire out of order for application against a loan in default or otherwise as provided in this chapter, par or face value discounted, at a rate determined by the institution, to reflect the present value of the equity or interest as of the date of such retirement.
+
+## Source Credit
+
+*([Pub. L. 92–181, title IV, § 4](https://www.govinfo.gov/link/plaw/92/public/181).9A, as added [Pub. L. 100–233, title I, § 101](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1572](https://www.govinfo.gov/link/statute/101/1572); amended [Pub. L. 100–399, title I, § 101(b)](https://www.govinfo.gov/link/plaw/100/public/399) –(d), Aug. 17, 1988, [102 Stat. 989](https://www.govinfo.gov/link/statute/102/989); [Pub. L. 115–334, title V, § 5411(20)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4681](https://www.govinfo.gov/link/statute/132/4681).)*

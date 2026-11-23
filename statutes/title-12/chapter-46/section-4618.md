@@ -3,9 +3,10 @@ title: "Section 4618 - Notice of classification and enforcement action"
 usc_title: 12
 usc_section: "4618"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4618"
-generated_at: "2026-03-30T02:53:53.514Z"
+generated_at: "2026-11-23T21:25:37.203Z"
+status: "active"
 ---
 
 # § 4618. Notice of classification and enforcement action
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:53.514Z"
   - **(4)** The failure of a regulated entity to provide information during the response period under this subsection (as extended or shortened) shall waive any right of the regulated entity to comment on the proposed action of the Director.
 - **(d)** After the expiration of the response period under subsection (c) or upon receipt of information provided during such period by the regulated entity, whichever occurs earlier, the Director shall determine whether to take the action proposed, taking into consideration any relevant information submitted by the regulated entity during the response period. The Director shall provide written notice of a determination to take action and the reasons for such determination to the regulated entity, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate. Such notice shall respond to any information submitted during the response period.
 - **(e)** An action referred to in subsection (b) shall take effect upon receipt by the regulated entity of notice of the determination of the Director under subsection (d), unless otherwise provided in such notice.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1368](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3980](https://www.govinfo.gov/link/statute/106/3980); [Pub. L. 110–289, div. A, title I, § 1145(b)(1)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2767](https://www.govinfo.gov/link/statute/122/2767).)*

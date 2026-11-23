@@ -3,9 +3,10 @@ title: "Section 80103 - Negotiable and nonnegotiable bills"
 usc_title: 49
 usc_section: "80103"
 chapter: 801
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 80103"
-generated_at: "2026-03-30T02:56:19.418Z"
+generated_at: "2026-11-23T21:26:41.039Z"
+status: "active"
 ---
 
 # § 80103. Negotiable and nonnegotiable bills
@@ -22,3 +23,34 @@ generated_at: "2026-03-30T02:56:19.418Z"
     - **(A)** make the bill negotiable; or
     - **(B)** give the transferee any additional right.
   - **(2)** A common carrier issuing a nonnegotiable bill of lading must put “nonnegotiable” or “not negotiable” on the bill. This paragraph does not apply to an informal memorandum or acknowledgment.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 80103(a)(1) | 49 App.:83. | Aug. 29, 1916, ch. 415 , §§ 2, 3, 6, 7, 29 (last sentence), 39 Stat. 539 , 543. |
+| 80103(a)(2) | 49 App.:87. |  |
+| 80103(b)(1) | 49 App.:82. |  |
+|  | 49 App.:109 (last sentence). |  |
+| 80103(b)(2) | 49 App.:86. |  |
+
+
+Negotiable Bills
+
+Nonnegotiable Bills
+
+Historical and Revision Notes
+
+80103(a)(1)
+
+Aug. 29, 1916, ch. 415
+
+39 Stat. 539
+
+80103(a)(2)
+
+80103(b)(1)
+
+80103(b)(2)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1346](https://www.govinfo.gov/link/statute/108/1346).)*

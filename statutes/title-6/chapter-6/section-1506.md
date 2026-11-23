@@ -3,9 +3,10 @@ title: "Section 1506 - Oversight of government activities"
 usc_title: 6
 usc_section: "1506"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1506"
-generated_at: "2026-03-30T02:53:09.510Z"
+generated_at: "2026-11-23T21:25:25.879Z"
+status: "active"
 ---
 
 # § 1506. Oversight of government activities
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:09.510Z"
 - **(c)** Not later than 3 years after December 18, 2015 , the Comptroller General of the United States shall submit to Congress a report on the actions taken by the Federal Government to remove personal information from cyber threat indicators or defensive measures pursuant to this subchapter. Such report shall include an assessment of the sufficiency of the policies, procedures, and guidelines established under this subchapter in addressing concerns relating to privacy and civil liberties.
 - **(d)** Each report required under this section shall be submitted in an unclassified form, but may include a classified annex.
 - **(e)** The unclassified portions of the reports required under this section shall be made available to the public.
+
+## Source Credit
+
+*([Pub. L. 114–113, div. N, title I, § 107](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2951](https://www.govinfo.gov/link/statute/129/2951).)*

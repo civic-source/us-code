@@ -3,9 +3,10 @@ title: "Section 18713 - Transmission facilitation program"
 usc_title: 42
 usc_section: "18713"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18713"
-generated_at: "2026-03-30T02:56:11.525Z"
+generated_at: "2026-11-23T21:26:33.836Z"
+status: "active"
 ---
 
 # § 18713. Transmission facilitation program
@@ -119,3 +120,7 @@ generated_at: "2026-03-30T02:56:11.525Z"
     - **(B)** will improve the resiliency and reliability of an electric power transmission system;
     - **(C)** facilitate interregional transfer capacity that supports strong and equitable economic growth; and
     - **(D)** contribute to national or subnational goals to lower electricity sector greenhouse gas emissions.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title I, § 40106](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 934](https://www.govinfo.gov/link/statute/135/934).)*

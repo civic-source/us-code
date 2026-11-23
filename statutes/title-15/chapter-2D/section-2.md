@@ -3,9 +3,10 @@ title: "Section 2 - Definitions"
 usc_title: 15
 usc_section: "2"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-30T02:54:08.071Z"
+generated_at: "2026-11-23T21:25:39.599Z"
+status: "active"
 ---
 
 # § 80b–2. Definitions
@@ -57,3 +58,11 @@ generated_at: "2026-03-30T02:54:08.071Z"
   - **(29)** 3 3 So in original. Another par. (29) is set out preceding par. (30). The terms “commodity pool”, “commodity pool operator”, “commodity trading advisor”, “major swap participant”, “swap”, “swap dealer”, and “swap execution facility” have the same meanings as in section 1a of title 7 .
 - **(b)** No provision in this subchapter shall apply to, or be deemed to include, the United States, a State, or any political subdivision of a State, or any agency, authority, or instrumentality of any one or more of the foregoing, or any corporation which is wholly owned directly or indirectly by any one or more of the foregoing, or any officer, agent, or employee of any of the foregoing acting as such in the course of his official duty, unless such provision makes specific reference thereto.
 - **(c)** Whenever pursuant to this subchapter the Commission is engaged in rulemaking and is required to consider or determine whether an action is necessary or appropriate in the public interest, the Commission shall also consider, in addition to the protection of investors, whether the action will promote efficiency, competition, and capital formation.
+
+Rulemaking
+
+Antifraud Authority
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title II, § 202, [54 Stat. 847](https://www.govinfo.gov/link/statute/54/847); [Pub. L. 86–70, § 12(c)](https://www.govinfo.gov/link/plaw/86/public/70), June 25, 1959, [73 Stat. 143](https://www.govinfo.gov/link/statute/73/143); [Pub. L. 86–624, § 7(d)](https://www.govinfo.gov/link/plaw/86/public/624), July 12, 1960, [74 Stat. 412](https://www.govinfo.gov/link/statute/74/412); [Pub. L. 86–750, § 1](https://www.govinfo.gov/link/plaw/86/public/750), Sept. 13, 1960, [74 Stat. 885](https://www.govinfo.gov/link/statute/74/885); [Pub. L. 89–485, § 13(j)](https://www.govinfo.gov/link/plaw/89/public/485), July 1, 1966, [80 Stat. 243](https://www.govinfo.gov/link/statute/80/243); [Pub. L. 91–547, § 23](https://www.govinfo.gov/link/plaw/91/public/547), Dec. 14, 1970, [84 Stat. 1430](https://www.govinfo.gov/link/statute/84/1430); [Pub. L. 95–598, title III, § 311](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2676](https://www.govinfo.gov/link/statute/92/2676); [Pub. L. 96–477, title II, § 201](https://www.govinfo.gov/link/plaw/96/public/477), Oct. 21, 1980, [94 Stat. 2289](https://www.govinfo.gov/link/statute/94/2289); [Pub. L. 97–303, § 6](https://www.govinfo.gov/link/plaw/97/public/303), Oct. 13, 1982, [96 Stat. 1410](https://www.govinfo.gov/link/statute/96/1410); [Pub. L. 100–181, title VII, § 701](https://www.govinfo.gov/link/plaw/100/public/181), Dec. 4, 1987, [101 Stat. 1263](https://www.govinfo.gov/link/statute/101/1263); [Pub. L. 101–550, title II, § 206(b)](https://www.govinfo.gov/link/plaw/101/public/550), Nov. 15, 1990, [104 Stat. 2720](https://www.govinfo.gov/link/statute/104/2720); [Pub. L. 104–290, title III, § 303(c)](https://www.govinfo.gov/link/plaw/104/public/290), Oct. 11, 1996, [110 Stat. 3438](https://www.govinfo.gov/link/statute/110/3438); [Pub. L. 106–102, title II](https://www.govinfo.gov/link/plaw/106/public/102), §§ 217–219, 224, Nov. 12, 1999, [113 Stat. 1399](https://www.govinfo.gov/link/statute/113/1399), 1400, 1402; [Pub. L. 106–554, § 1(a)(5) [title II, § 209(a)(2), (4)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–435, 2763A–436; [Pub. L. 109–291, § 4(b)(3)(A)](https://www.govinfo.gov/link/plaw/109/public/291), (B), Sept. 29, 2006, [120 Stat. 1337](https://www.govinfo.gov/link/statute/120/1337); [Pub. L. 109–351, title IV, § 401(b)(1)](https://www.govinfo.gov/link/plaw/109/public/351), Oct. 13, 2006, [120 Stat. 1973](https://www.govinfo.gov/link/statute/120/1973); [Pub. L. 111–203, title IV](https://www.govinfo.gov/link/plaw/111/public/203), §§ 402(a), 409(a), title VII, § 770, title IX, § 986(d), July 21, 2010, [124 Stat. 1570](https://www.govinfo.gov/link/statute/124/1570), 1575, 1801, 1936; [Pub. L. 119–27, § 17(a)](https://www.govinfo.gov/link/plaw/119/public/27), July 18, 2025, [139 Stat. 462](https://www.govinfo.gov/link/statute/139/462).)*

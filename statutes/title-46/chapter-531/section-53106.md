@@ -3,9 +3,10 @@ title: "Section 53106 - Payments"
 usc_title: 46
 usc_section: "53106"
 chapter: 531
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 53106"
-generated_at: "2026-03-30T02:56:15.572Z"
+generated_at: "2026-11-23T21:26:37.250Z"
+status: "active"
 ---
 
 # § 53106. Payments
@@ -39,3 +40,27 @@ generated_at: "2026-03-30T02:56:15.572Z"
   - **(1)** No contractor shall receive payments pursuant to this chapter during a period in which it participates in noncontiguous domestic trade.
   - **(2)** Paragraph (1) shall not apply to any person that is a citizen of the United States within the meaning of section 50501 of this title , applying the 75 percent ownership requirement of that section.
   - **(3)** In this subsection the term “participates in a noncontiguous domestic trade” means directly or indirectly owns, charters, or operates a vessel engaged in transportation of cargo between a point in the contiguous 48 States and a point in Alaska, Hawaii, or Puerto Rico, other than a point in Alaska north of the Arctic Circle.
+
+Annual Payment
+
+In general
+
+Timing
+
+Certification Required for Payment
+
+General Limitations
+
+Reductions in Payments
+
+Limitation Regarding Noncontiguous Domestic Trade
+
+In general
+
+Limitation on application
+
+Participates in a noncontiguous domestic trade defined
+
+## Source Credit
+
+*(Added [Pub. L. 108–136, div. C, title XXXV, § 3531(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1813](https://www.govinfo.gov/link/statute/117/1813); amended [Pub. L. 109–304, § 13(a)(5)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1701](https://www.govinfo.gov/link/statute/120/1701); [Pub. L. 109–364, div. C, title XXXV, § 3502(c)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2516](https://www.govinfo.gov/link/statute/120/2516); [Pub. L. 111–383, div. C, title XXXV, § 3502(2)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4518](https://www.govinfo.gov/link/statute/124/4518); [Pub. L. 112–239, div. C, title XXXV, § 3508(f)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2225](https://www.govinfo.gov/link/statute/126/2225); [Pub. L. 114–113, div. O, title I, § 101(e)(1)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2988](https://www.govinfo.gov/link/statute/129/2988); [Pub. L. 114–328, div. C, title XXXV, § 3502(b)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2775](https://www.govinfo.gov/link/statute/130/2775); [Pub. L. 115–91, div. C, title XXXV, § 3503(b)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1911](https://www.govinfo.gov/link/statute/131/1911); [Pub. L. 115–232, div. C, title XXXV, § 3546](https://www.govinfo.gov/link/plaw/115/public/232) (o), Aug. 13, 2018, [132 Stat. 2327](https://www.govinfo.gov/link/statute/132/2327); [Pub. L. 116–92, div. C, title XXXV, § 3502(c)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1969](https://www.govinfo.gov/link/statute/133/1969); [Pub. L. 116–283, div. C, title XXXV, § 3501(b)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4397](https://www.govinfo.gov/link/statute/134/4397); [Pub. L. 117–263, div. C, title XXXV, § 3517(b)(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3074](https://www.govinfo.gov/link/statute/136/3074); [Pub. L. 118–159, div. C, title XXXV, § 3502(c)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2304](https://www.govinfo.gov/link/statute/138/2304).)*

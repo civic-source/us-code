@@ -3,9 +3,10 @@ title: "Section 1083 - Student loan information by eligible lenders"
 usc_title: 20
 usc_section: "1083"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1083"
-generated_at: "2026-03-30T02:54:48.118Z"
+generated_at: "2026-11-23T21:25:47.120Z"
+status: "active"
 ---
 
 # § 1083. Student loan information by eligible lenders
@@ -100,3 +101,11 @@ generated_at: "2026-03-30T02:54:48.118Z"
     - **(B)** provide a basis for a claim for civil damages.
   - **(3)** Nothing in this section shall be construed as subjecting the lender to the Truth in Lending Act [ 15 U.S.C. 1601 et seq.] with regard to loans made under this part.
   - **(4)** The Secretary may limit, suspend, or terminate the continued participation of an eligible lender in making loans under this part for failure by that lender to comply with this section.
+
+Regular disclosure requirements and disclosure requirements to borrowers having difficulty making payments
+
+Disclosure requirements for borrowers with delinquent loans
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 433](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1406](https://www.govinfo.gov/link/statute/100/1406); amended [Pub. L. 100–50, § 10(z)](https://www.govinfo.gov/link/plaw/100/public/50), June 3, 1987, [101 Stat. 346](https://www.govinfo.gov/link/statute/101/346); [Pub. L. 102–325, title IV, § 426](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 548](https://www.govinfo.gov/link/statute/106/548); [Pub. L. 103–208, § 2(c)(53)](https://www.govinfo.gov/link/plaw/103/public/208), (54), (k)(4), Dec. 20, 1993, [107 Stat. 2468](https://www.govinfo.gov/link/statute/107/2468), 2485; [Pub. L. 105–244, title IV, § 428](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1704](https://www.govinfo.gov/link/statute/112/1704); [Pub. L. 110–315, title IV, § 434(a)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3247](https://www.govinfo.gov/link/statute/122/3247).)*

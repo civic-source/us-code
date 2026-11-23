@@ -3,9 +3,10 @@ title: "Section 605 - Program administration"
 usc_title: 23
 usc_section: "605"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 605"
-generated_at: "2026-03-30T02:55:12.575Z"
+generated_at: "2026-11-23T21:25:53.943Z"
+status: "active"
 ---
 
 # § 605. Program administration
@@ -23,3 +24,29 @@ generated_at: "2026-03-30T02:55:12.575Z"
 - **(f)**
   - **(1)** Of the funds made available to carry out the TIFIA program for each fiscal year, and after the set aside under section 608(a)(6), not less than $2,000,000 shall be made available for the Secretary to use in lieu of fees collected under subsection (b) for projects under the TIFIA program having eligible project costs that are reasonably anticipated not to equal or exceed $75,000,000.
   - **(2)** Any funds not used under paragraph (1) in a fiscal year shall be made available on October 1 of the following fiscal year to provide credit assistance to any project under the TIFIA program.
+
+Requirement
+
+Fees
+
+Servicer.—
+
+In general
+
+Duties
+
+Fee
+
+Assistance From Expert Firms
+
+Expedited Processing
+
+Assistance to Small Projects.—
+
+Reservation of funds
+
+Release of funds
+
+## Source Credit
+
+*(Added [Pub. L. 105–178, title I, § 1503(a)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 249](https://www.govinfo.gov/link/statute/112/249), § 185; renumbered § 605 and amended [Pub. L. 109–59, title I](https://www.govinfo.gov/link/plaw/109/public/59), §§ 1601(f), 1602(b)(5), (d), Aug. 10, 2005, [119 Stat. 1241](https://www.govinfo.gov/link/statute/119/1241), 1247; [Pub. L. 112–141, div. A, title II, § 2002](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 619](https://www.govinfo.gov/link/statute/126/619); [Pub. L. 114–94, div. A, title II, § 2001(d)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1443](https://www.govinfo.gov/link/statute/129/1443); [Pub. L. 117–58, div. A, title II, § 12001(i)(2)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 621](https://www.govinfo.gov/link/statute/135/621).)*

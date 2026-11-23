@@ -3,9 +3,10 @@ title: "Section 184 - Limitations on leases held, owned or controlled by persons
 usc_title: 30
 usc_section: "184"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 184"
-generated_at: "2026-03-30T02:55:29.377Z"
+generated_at: "2026-11-23T21:26:00.367Z"
+status: "active"
 ---
 
 # § 184. Limitations on leases held, owned or controlled by persons, associations or corporations
@@ -40,3 +41,11 @@ generated_at: "2026-03-30T02:55:29.377Z"
     - **(C)** the Federal Trade Commission Act ( 15 U.S.C. 41 et seq.), as amended;
     - **(D)** sections 73 and 74 of the Act entitled “An Act to reduce taxation, to provide revenue for the Government, and for other purposes”, approved August 27, 1894 ( 15 U.S.C. 8 and 9), as amended; or
     - **(E)** the Act of June 19, 1936 , chapter 592 ( 15 U.S.C. 13 , 13a, 13b, and 21a).
+
+“Congress finds that—
+
+“The Congress finds and declares that—
+
+## Source Credit
+
+*(Feb. 25, 1920, ch. 85, § 27, [41 Stat. 448](https://www.govinfo.gov/link/statute/41/448); Apr. 30, 1926, ch. 197, [44 Stat. 373](https://www.govinfo.gov/link/statute/44/373); July 3, 1930, ch. 854, § 1, [46 Stat. 1007](https://www.govinfo.gov/link/statute/46/1007); Mar. 4, 1931, ch. 506, [46 Stat. 1524](https://www.govinfo.gov/link/statute/46/1524); Aug. 8, 1946, ch. 916, § 6, [60 Stat. 954](https://www.govinfo.gov/link/statute/60/954); June 1, 1948, ch. 365, [62 Stat. 285](https://www.govinfo.gov/link/statute/62/285); June 3, 1948, ch. 379, § 6, [62 Stat. 291](https://www.govinfo.gov/link/statute/62/291); Aug. 2, 1954, ch. 650, [68 Stat. 648](https://www.govinfo.gov/link/statute/68/648); [Pub. L. 85–122](https://www.govinfo.gov/link/plaw/85/public/122), Aug. 13, 1957, [71 Stat. 341](https://www.govinfo.gov/link/statute/71/341); [Pub. L. 85–698](https://www.govinfo.gov/link/plaw/85/public/698), Aug. 21, 1958, [72 Stat. 688](https://www.govinfo.gov/link/statute/72/688); [Pub. L. 86–294, § 1](https://www.govinfo.gov/link/plaw/86/public/294), Sept. 21, 1959, [73 Stat. 571](https://www.govinfo.gov/link/statute/73/571); [Pub. L. 86–391, § 1(c)](https://www.govinfo.gov/link/plaw/86/public/391), Mar. 18, 1960, [74 Stat. 8](https://www.govinfo.gov/link/statute/74/8); [Pub. L. 86–705, § 3](https://www.govinfo.gov/link/plaw/86/public/705), Sept. 2, 1960, [74 Stat. 785](https://www.govinfo.gov/link/statute/74/785); [Pub. L. 88–526, § 1](https://www.govinfo.gov/link/plaw/88/public/526), Aug. 31, 1964, [78 Stat. 710](https://www.govinfo.gov/link/statute/78/710); [Pub. L. 88–548](https://www.govinfo.gov/link/plaw/88/public/548), Aug. 31, 1964, [78 Stat. 754](https://www.govinfo.gov/link/statute/78/754); [Pub. L. 94–377](https://www.govinfo.gov/link/plaw/94/public/377), §§ 11, 15, Aug. 4, 1976, [90 Stat. 1090](https://www.govinfo.gov/link/statute/90/1090), 1091; [Pub. L. 97–78, § 1(2)](https://www.govinfo.gov/link/plaw/97/public/78), (5), Nov. 16, 1981, [95 Stat. 1070](https://www.govinfo.gov/link/statute/95/1070); [Pub. L. 106–191, § 2](https://www.govinfo.gov/link/plaw/106/public/191), Apr. 28, 2000, [114 Stat. 232](https://www.govinfo.gov/link/statute/114/232); [Pub. L. 106–463, § 3](https://www.govinfo.gov/link/plaw/106/public/463), Nov. 7, 2000, [114 Stat. 2011](https://www.govinfo.gov/link/statute/114/2011); [Pub. L. 109–58, title III, § 352](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 714](https://www.govinfo.gov/link/statute/119/714).)*

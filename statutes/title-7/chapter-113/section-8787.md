@@ -3,9 +3,10 @@ title: "Section 8787 - Hard white wheat development program"
 usc_title: 7
 usc_section: "8787"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 8787"
-generated_at: "2026-03-30T02:53:42.481Z"
+generated_at: "2026-11-23T21:25:28.485Z"
+status: "active"
 ---
 
 # § 8787. Hard white wheat development program
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:42.481Z"
       - **(i)** in an amount that is not less than $0.20 per bushel; and
       - **(ii)** in an amount that is not less than $2.00 per acre for planting eligible hard white wheat seed.
 - **(c)** There are authorized to be appropriated to carry out this section $35,000,000 for the period of fiscal years 2009 through 2012.
+
+## Source Credit
+
+*([Pub. L. 110–234, title I, § 1612](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1019](https://www.govinfo.gov/link/statute/122/1019); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1612, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1747.)*

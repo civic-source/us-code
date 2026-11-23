@@ -3,9 +3,10 @@ title: "Section 8484 - Electric utility conservation plan"
 usc_title: 42
 usc_section: "8484"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8484"
-generated_at: "2026-03-30T02:56:11.343Z"
+generated_at: "2026-11-23T21:26:33.204Z"
+status: "active"
 ---
 
 # § 8484. Electric utility conservation plan
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.343Z"
   - **(1)** The Secretary shall, by order, approve or disapprove any conservation plan proposed under this subsection 1 by an electric utility within 120 days after its submission. The Secretary shall approve any such proposed plan unless the Secretary finds that such plan does not meet the requirements of subsection (c) and states in writing the reasons therefor.
   - **(2)** In the event the Secretary disapproves under paragraph (1) the plan originally submitted, the Secretary shall provide a reasonable period of time for resubmission.
   - **(3)** An electric utility may amend any approved plan, except that the plan as amended shall be subject to approval in accordance with paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 95–620, title VIII, § 808](https://www.govinfo.gov/link/plaw/95/public/620), as added [Pub. L. 97–35, title X, § 1023(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 616](https://www.govinfo.gov/link/statute/95/616).)*

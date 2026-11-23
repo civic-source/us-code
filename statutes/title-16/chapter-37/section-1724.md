@@ -3,9 +3,10 @@ title: "Section 1724 - Conservation centers and program support"
 usc_title: 16
 usc_section: "1724"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1724"
-generated_at: "2026-03-30T02:54:22.982Z"
+generated_at: "2026-11-23T21:25:51.911Z"
+status: "active"
 ---
 
 # § 1724. Conservation centers and program support
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:22.982Z"
 - **(c)** The Secretary may make arrangements with the Secretary of Defense to identify military installations and other facilities of the Department of Defense and, in consultation with the adjutant generals of the State National Guards, National Guard facilities that may be used, in whole or in part, by the Corps for training or housing Corps participants.
 - **(d)** The Secretary may provide any services, facilities, equipment, supplies, technical assistance, oversight, monitoring, or evaluations that are appropriate to carry out this subchapter.
 - **(e)** The Secretary may provide to Corps participants who reside in their own homes transportation to and from appropriate conservation project sites.
+
+## Source Credit
+
+*([Pub. L. 91–378, title II, § 205](https://www.govinfo.gov/link/plaw/91/public/378), as added [Pub. L. 103–82, title I, § 105(6)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 851](https://www.govinfo.gov/link/statute/107/851); amended [Pub. L. 109–154, § 2(d)](https://www.govinfo.gov/link/plaw/109/public/154), (g)(2), Dec. 30, 2005, [119 Stat. 2891](https://www.govinfo.gov/link/statute/119/2891), 2893; [Pub. L. 116–9, title IX, § 9003(c)](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 833](https://www.govinfo.gov/link/statute/133/833).)*

@@ -3,9 +3,10 @@ title: "Section 104 - Beneficiary protections for qualified prescription drug co
 usc_title: 42
 usc_section: "104"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 104"
-generated_at: "2026-03-30T02:56:10.982Z"
+generated_at: "2026-11-23T21:26:31.560Z"
+status: "active"
 ---
 
 # § 1395w–104. Beneficiary protections for qualified prescription drug coverage
@@ -34,7 +35,12 @@ generated_at: "2026-03-30T02:56:10.982Z"
       - **(ii)** the annual out-of-pocket threshold for the current year.
 - **(b)**
   - **(1)**
-    - **(A)** A prescription drug plan shall permit the participation of any pharmacy that meets the terms and conditions under the plan.
+    - **(A)**
+      - **(i)** A PDP sponsor offering a prescription drug plan shall permit any pharmacy that meets the standard contract terms and conditions under such plan to participate as a network pharmacy of such plan.
+      - **(ii)**
+        - **(I)** Notwithstanding any other provision of law, for plan years beginning on or after January 1, 2029 , in accordance with clause (i), contract terms and conditions offered by such PDP sponsor shall be reasonable and relevant according to standards established by the Secretary under subclause (II).
+        - **(II)** Not later than the first Monday in April of 2028, the Secretary shall establish standards for reasonable and relevant contract terms and conditions for purposes of this clause.
+        - **(III)** Not later than April 1, 2027 , for purposes of establishing the standards under subclause (II), the Secretary shall issue a request for information to seek input on trends in prescription drug plan and network pharmacy contract terms and conditions, current prescription drug plan and network pharmacy contracting practices, whether pharmacy reimbursement and dispensing fees paid by PDP sponsors to network pharmacies sufficiently cover the ingredient and operational costs of such pharmacies, the use and application of pharmacy quality measures by PDP sponsors for network pharmacies, PDP sponsor restrictions or limitations on the dispensing of covered part D drugs by network pharmacies (or any subsets of such pharmacies), PDP sponsor auditing practices for network pharmacies, areas in current regulations or program guidance related to contracting between prescription drug plans and network pharmacies requiring clarification or additional specificity, factors for consideration in determining the reasonableness and relevance of contract terms and conditions between prescription drug plans and network pharmacies, and other issues as determined appropriate by the Secretary.
     - **(B)** For covered part D drugs dispensed through in-network pharmacies, a prescription drug plan may, notwithstanding subparagraph (A), reduce coinsurance or copayments for part D eligible individuals enrolled in the plan below the level otherwise required. In no case shall such a reduction result in an increase in payments made by the Secretary under section 1395w–115 of this title to a plan.
     - **(C)**
       - **(i)** The PDP sponsor of the prescription drug plan shall secure the participation in its network of a sufficient number of pharmacies that dispense (other than by mail order) drugs directly to patients to ensure convenient access (consistent with rules established by the Secretary).
@@ -43,6 +49,20 @@ generated_at: "2026-03-30T02:56:10.982Z"
       - **(iv)** Such rules may include standards with respect to access for enrollees who are residing in long-term care facilities and for pharmacies operated by the Indian Health Service, Indian tribes and tribal organizations, and urban Indian organizations (as defined in section 1603 of title 25 ).
     - **(D)** Such a sponsor shall permit enrollees to receive benefits (which may include a 90-day supply of drugs or biologicals) through a pharmacy (other than a mail order pharmacy), with any differential in charge paid by such enrollees.
     - **(E)** The terms and conditions under subparagraph (A) may not require participating pharmacies to accept insurance risk as a condition of participation.
+    - **(F)**
+      - **(i)**
+        - **(I)** Not later than January 1, 2029 , the Secretary shall establish a process through which a pharmacy may submit to the Secretary an allegation of a violation by a PDP sponsor offering a prescription drug plan of the standards for reasonable and relevant contract terms and conditions under subparagraph (A)(ii), or of subclause (VIII) of this clause.
+        - **(II)**
+        - **(III)** A PDP sponsor subject to an allegation under this clause—
+        - **(IV)** The Secretary shall establish a standardized template for pharmacies to use for the submission of allegations described in subclause (I). Such template shall require that the submission include a certification by the pharmacy that the information included is accurate, complete, and true to the best of the knowledge, information, and belief of such pharmacy.
+        - **(V)** In the case where the Secretary determines that a pharmacy has submitted frivolous allegations under this clause on a routine basis, the Secretary may temporarily prohibit such pharmacy from using the allegation submission process under this clause, as determined appropriate by the Secretary.
+        - **(VI)** Allegations submitted under this clause shall be exempt from disclosure under section 552 of title 5 .
+        - **(VII)** Nothing in this clause shall be construed as limiting the ability of a pharmacy to pursue other legal actions or remedies, consistent with applicable Federal or State law, with respect to a potential violation of a requirement described in this subparagraph.
+        - **(VIII)** Consistent with applicable Federal or State law, a PDP sponsor shall not—
+      - **(ii)** The Secretary shall investigate, as determined appropriate by the Secretary, allegations submitted pursuant to clause (i).
+      - **(iii)**
+        - **(I)** In the case where the Secretary determines that a PDP sponsor offering a prescription drug plan has violated the standards for reasonable and relevant contract terms and conditions under subparagraph (A)(ii) or the provisions of clause (i)(VIII) of this subparagraph, the Secretary may use authorities under sections 1395w–27(g) and 1395w–112(b)(3)(E) of this title to impose civil monetary penalties or other intermediate sanctions.
+        - **(II)** The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil monetary penalty under this clause in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title .
   - **(2)**
     - **(A)** The PDP sponsor of a prescription drug plan shall issue (and reissue, as appropriate) such a card (or other technology) that may be used by an enrollee to assure access to negotiated prices under section 1395w–102(d) of this title .
     - **(B)**
@@ -361,3 +381,81 @@ generated_at: "2026-03-30T02:56:10.982Z"
   - **(4)** Nothing in this subsection shall be construed—
     - **(A)** to prohibit the application of paragraph (b)(7) of section 423.160 of title 42, Code of Federal Regulations, as is to be added to such section pursuant to the final rule published in the Federal Register on May 23, 2019 , and titled “Modernizing Part D and Medicare Advantage To Lower Drug Prices and Reduce Out-of-Pocket Expenses” (84 Fed. Reg. 23832 through 23884); or
     - **(B)** to allow a PDP sponsor to use a real-time benefit tool to steer an individual, without the consent of the individual, to a particular pharmacy or pharmacy type over their preferred pharmacy or pharmacy type nor prohibit the designation of an individual’s preferred pharmacy under such tool.
+
+(aa) in the case of an MA–PD plan under part C, under such plan; and
+
+(bb) in the case of a prescription drug plan, under such plan and under parts A and B.
+
+(aa) In general Except as provided in item (bb), the allegation submission process under this clause shall allow pharmacies to submit any allegations of violations described in subclause (I) not more frequently than once per plan year per contract between a pharmacy and a PDP sponsor.
+
+(bb) Allegations relating to contract modifications In the case where a contract between a pharmacy and a PDP sponsor is modified following the submission of allegations by a pharmacy with respect to such contract and plan year, the allegation submission process under this clause shall allow such pharmacy to submit an additional allegation related to those modifications with respect to such contract and plan year.
+
+(aa) shall provide documents or materials, as specified by the Secretary, including contract offers made by such sponsor to such pharmacy or correspondence related to such offers, to the Secretary at a time, and in a form and manner, specified by the Secretary; and
+
+(bb) shall not prohibit or otherwise limit the ability of a pharmacy to submit such documents or materials to the Secretary for the purpose of submitting an allegation or providing evidence for such an allegation under this clause.
+
+(aa) retaliate against a pharmacy for submitting any allegations under this clause; or
+
+(bb) coerce, intimidate, threaten, or interfere with the ability of a pharmacy to submit any such allegations.
+
+(aa) have multiple chronic diseases (such as diabetes, asthma, hypertension, hyperlipidemia, and congestive heart failure);
+
+(bb) are taking multiple covered part D drugs; and
+
+(cc) are identified as likely to incur annual costs for covered part D drugs that exceed a level specified by the Secretary.
+
+(aa) Claims for covered part D drugs for part D eligible individuals who are receiving hospice care under this subchapter.
+
+(bb) Claims for covered part D drugs for part D eligible individuals who are receiving oncology services under this subchapter.
+
+(cc) Prescribers who are the subject of an investigation by the Centers for Medicare & Medicaid Services or the Inspector General of the Department of Health and Human Services.
+
+(aa) identify part D eligible individuals with a history of opioid-related overdose (as so defined); and
+
+(bb) notify the PDP sponsor of the prescription drug plan in which such an individual is enrolled of such identification.
+
+Grants Authorized
+
+Use of Funds
+
+Application
+
+Geographic Distribution
+
+Definitions
+
+Eligible entity
+
+Outlier prescriber of opioids
+
+Prescribers
+
+Funding
+
+In General
+
+Awarding of Grants.—
+
+Application
+
+Considerations and preferences
+
+Limitation on grants
+
+Terms and Conditions.—
+
+In general
+
+Use of grant funds
+
+Provision of information
+
+Audit
+
+Matching requirement
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1860D–4, as added [Pub. L. 108–173, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2082](https://www.govinfo.gov/link/statute/117/2082); amended [Pub. L. 110–275, title I](https://www.govinfo.gov/link/plaw/110/public/275), §§ 103(a)(2), (b)(2), (c)(2), (d)(2), 176, July 15, 2008, [122 Stat. 2499–2501](https://www.govinfo.gov/link/statute/122/2499), 2581; [Pub. L. 111–148, title III](https://www.govinfo.gov/link/plaw/111/public/148), §§ 3307(a), 3310(a), 3312(a), title X, § 10328(a), Mar. 23, 2010, [124 Stat. 471](https://www.govinfo.gov/link/statute/124/471), 475, 476, 964; [Pub. L. 114–10, title V, § 507](https://www.govinfo.gov/link/plaw/114/public/10), Apr. 16, 2015, [129 Stat. 168](https://www.govinfo.gov/link/statute/129/168); [Pub. L. 114–198, title VII, § 704(a)(1)](https://www.govinfo.gov/link/plaw/114/public/198), (2), (b), July 22, 2016, [130 Stat. 742–748](https://www.govinfo.gov/link/statute/130/742); [Pub. L. 115–123, div. E, title III, § 50354](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 213](https://www.govinfo.gov/link/statute/132/213); [Pub. L. 115–262, § 2(a)](https://www.govinfo.gov/link/plaw/115/public/262), Oct. 10, 2018, [132 Stat. 3670](https://www.govinfo.gov/link/statute/132/3670); [Pub. L. 115–271, title II](https://www.govinfo.gov/link/plaw/115/public/271), §§ 2003(a), 2004, 2006, 2007(a), title VI, §§ 6062, 6063(c)–6065, 6102, 6103(b), Oct. 24, 2018, [132 Stat. 3926](https://www.govinfo.gov/link/statute/132/3926), 3928, 3930, 3986, 3989, 4004, 4005; [Pub. L. 116–136, div. A, title III, § 3714(a)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 424](https://www.govinfo.gov/link/statute/134/424); [Pub. L. 116–260, div. CC, title I, § 119(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2951](https://www.govinfo.gov/link/statute/134/2951); [Pub. L. 117–169, title I](https://www.govinfo.gov/link/plaw/117/public/169), §§ 11001(b)(1)(E), 11201(e)(2), Aug. 16, 2022, [136 Stat. 1852](https://www.govinfo.gov/link/statute/136/1852), 1891; [Pub. L. 119–75, div. J, title II, § 6223(a)](https://www.govinfo.gov/link/plaw/119/public/75), (c)(1), Feb. 3, 2026, [140 Stat. 664](https://www.govinfo.gov/link/statute/140/664), 667.)*

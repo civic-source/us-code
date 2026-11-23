@@ -3,9 +3,10 @@ title: "Section 2605 - Prioritization, risk evaluation, and regulation of chemic
 usc_title: 15
 usc_section: "2605"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2605"
-generated_at: "2026-03-30T02:54:08.174Z"
+generated_at: "2026-11-23T21:25:39.933Z"
+status: "active"
 ---
 
 # § 2605. Prioritization, risk evaluation, and regulation of chemical substances and mixtures
@@ -156,3 +157,11 @@ generated_at: "2026-03-30T02:54:08.174Z"
   - **(1)** a determination by the Administrator under subsection (b)(4)(A) that a chemical substance does not present an unreasonable risk of injury to health or the environment shall be issued by order and considered to be a final agency action, effective beginning on the date of issuance of the order; and
   - **(2)** a final rule promulgated under subsection (a), including the associated determination by the Administrator under subsection (b)(4)(A) that a chemical substance presents an unreasonable risk of injury to health or the environment, shall be considered to be a final agency action, effective beginning on the date of promulgation of the final rule.
 - **(j)** For the purposes of this chapter, the term “requirement” as used in this section shall not displace statutory or common law.
+
+In general
+
+Variability
+
+## Source Credit
+
+*([Pub. L. 94–469, title I, § 6](https://www.govinfo.gov/link/plaw/94/public/469), Oct. 11, 1976, [90 Stat. 2020](https://www.govinfo.gov/link/statute/90/2020); renumbered title I, [Pub. L. 99–519, § 3(c)(1)](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2989](https://www.govinfo.gov/link/statute/100/2989); amended [Pub. L. 109–364, div. A, title III, § 317(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2142](https://www.govinfo.gov/link/statute/120/2142); [Pub. L. 110–414, § 3](https://www.govinfo.gov/link/plaw/110/public/414), Oct. 14, 2008, [122 Stat. 4342](https://www.govinfo.gov/link/statute/122/4342); [Pub. L. 114–182, title I, § 6](https://www.govinfo.gov/link/plaw/114/public/182), June 22, 2016, [130 Stat. 460](https://www.govinfo.gov/link/statute/130/460).)*

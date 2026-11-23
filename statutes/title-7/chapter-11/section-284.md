@@ -3,9 +3,10 @@ title: "Section 284 - Eradication and control of undesirable species and subspec
 usc_title: 7
 usc_section: "284"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 284"
-generated_at: "2026-03-30T02:53:42.280Z"
+generated_at: "2026-11-23T21:25:27.941Z"
+status: "active"
 ---
 
 # § 284. Eradication and control of undesirable species and subspecies
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:53:42.280Z"
 - **(a)** The Secretary of Agriculture either independently or in cooperation with States or political subdivisions thereof, farmers’ associations, and similar organizations and individuals, is authorized to carry out operations or measures in the United States to eradicate, suppress, control, and to prevent or retard the spread of undesirable species and subspecies of honeybees.
 - **(b)** The Secretary of Agriculture is authorized to cooperate with the Governments of Canada, Mexico, Guatemala, Belize, Honduras, El Salvador, Nicaragua, Costa Rica, Panama, and Colombia, or the local authorities thereof, in carrying out necessary research, surveys, and control operations in those countries in connection with the eradication, suppression, control, and prevention or retardation of the spread of undesirable species and subspecies of honeybees, including but not limited to Apis mellifera adansonii, commonly known as the African or Brazilian honeybee. The measure and character of cooperation carried out under this subsection on the part of such countries, including the expenditure or use of funds appropriated pursuant to this chapter, shall be such as may be prescribed by the Secretary of Agriculture. Arrangements for the cooperation authorized by this subsection shall be made through and in consultation with the Secretary of State.
 - **(c)** In performing the operations or measures authorized in this chapter, the cooperating foreign country, State, or local agency shall be responsible for the authority to carry out such operations or measures on all lands and properties within the foreign country or State, other than those owned or controlled by the Federal Government of the United States, and for such other facilities and means as in the discretion of the Secretary of Agriculture are necessary.
+
+## Source Credit
+
+*(Aug. 31, 1922, ch. 301, § 3, as added [Pub. L. 94–319, § 3](https://www.govinfo.gov/link/plaw/94/public/319), June 25, 1976, [90 Stat. 709](https://www.govinfo.gov/link/statute/90/709).)*

@@ -3,9 +3,10 @@ title: "Section 2695 - Grants for healthy school environments"
 usc_title: 15
 usc_section: "2695"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2695"
-generated_at: "2026-03-30T02:54:08.181Z"
+generated_at: "2026-11-23T21:25:39.951Z"
+status: "active"
 ---
 
 # § 2695. Grants for healthy school environments
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.181Z"
     - **(A)** standards for school building design, construction, and renovation; and
     - **(B)** identification of ongoing school building environmental problems, including contaminants, hazardous substances, and pollutant emissions, in the State and recommended solutions to address those problems, including assessment of information on the exposure of children to environmental hazards in school facilities.
 - **(b)** The authority of the Administrator to carry out this section shall expire 5 years after December 19, 2007 .
+
+## Source Credit
+
+*([Pub. L. 94–469, title V, § 501](https://www.govinfo.gov/link/plaw/94/public/469), as added [Pub. L. 110–140, title IV, § 461(a)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1640](https://www.govinfo.gov/link/statute/121/1640).)*

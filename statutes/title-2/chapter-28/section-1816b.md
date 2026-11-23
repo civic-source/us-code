@@ -3,12 +3,23 @@ title: "Section 1816b - Architect of the Capitol, authority for personal service
 usc_title: 2
 usc_section: "1816b"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1816b"
-generated_at: "2026-03-30T02:53:04.817Z"
+generated_at: "2026-11-23T21:25:21.244Z"
+status: "active"
 ---
 
 # § 1816b. Architect of the Capitol, authority for personal services contracts with legal entities
 
 Notwithstanding any other provision of law, the Architect of the Capitol is authorized to contract for personal services with any firm, partnership, corporation, association, or other legal entity in the same manner as he is authorized to contract for personal services with individuals under the provisions of section 6101 of title 41 .
 
+
+Authorizing Payments
+
+Availability of Appropriations
+
+Regulations
+
+## Source Credit
+
+*([Pub. L. 96–558](https://www.govinfo.gov/link/plaw/96/public/558), Dec. 19, 1980, [94 Stat. 3263](https://www.govinfo.gov/link/statute/94/3263).)*

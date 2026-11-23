@@ -3,9 +3,10 @@ title: "Section 2602 - Transportation of international mail by air carriers of t
 usc_title: 39
 usc_section: "2602"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 2602"
-generated_at: "2026-03-30T02:55:43.691Z"
+generated_at: "2026-11-23T21:26:12.777Z"
+status: "active"
 ---
 
 # § 2602. Transportation of international mail by air carriers of the United States
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:43.691Z"
   - **(2)** the Postal Service determines that the balance of funds available is such that the advances may be made therefrom.
 - **(d)** If the United States is unable to collect from the debtor country an amount paid or advanced to an air carrier within 12 months after payment or advance has been made, the United States may deduct the uncollected amount from any sums owed by it to the air carrier.
 - **(e)** The Postal Service shall adopt such accounting procedures as may be necessary to conform to and carry out the purposes of this section.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 744](https://www.govinfo.gov/link/statute/84/744).)*

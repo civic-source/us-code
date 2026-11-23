@@ -3,9 +3,10 @@ title: "Section 14301 - Security interests in certain motor vehicles"
 usc_title: 49
 usc_section: "14301"
 chapter: 143
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 14301"
-generated_at: "2026-03-30T02:56:19.331Z"
+generated_at: "2026-11-23T21:26:40.689Z"
+status: "active"
 ---
 
 # § 14301. Security interests in certain motor vehicles
@@ -19,3 +20,19 @@ generated_at: "2026-03-30T02:56:19.331Z"
   - **(1)** a certificate of title is issued for a motor vehicle under a law of a jurisdiction that requires or permits indication, on a certificate or title, of a security interest in the motor vehicle if the security interest is indicated on the certificate;
   - **(2)** a certificate of title has not been issued and the law of the State where the principal place of business of that carrier is located requires or permits public filing or recording of, or in relation to, that security interest if there has been such a public filing or recording; and
   - **(3)** a certificate of title has not been issued and the security interest cannot be perfected under paragraph (2) of this subsection, if the security interest has been perfected under the law (including the conflict of laws rules) of the State where the principal place of business of that carrier is located.
+
+Definitions
+
+Motor vehicle
+
+Lien creditor
+
+Security interest
+
+Perfection
+
+Requirements for Perfection of Security Interest
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 894](https://www.govinfo.gov/link/statute/109/894).)*

@@ -3,9 +3,10 @@ title: "Section 41110 - Effective periods and amendments, modifications, suspens
 usc_title: 49
 usc_section: "41110"
 chapter: 411
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 41110"
-generated_at: "2026-03-30T02:56:19.373Z"
+generated_at: "2026-11-23T21:26:40.849Z"
+status: "active"
 ---
 
 # § 41110. Effective periods and amendments, modifications, suspensions, and revocations of certificates
@@ -40,3 +41,153 @@ generated_at: "2026-03-30T02:56:19.373Z"
     - **(B)** does not adopt available measures to prevent the illegal importation of a controlled substance into the United States on its aircraft; and
   - **(2)** when appropriate, shall amend, modify, suspend, or revoke the certificate of the carrier issued under this chapter.
 - **(g)** An interested person may file a response with the Secretary opposing or supporting the amendment, modification, suspension, or revocation of a certificate under subsection (a) of this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 41110(a)(1) | 49 App.:1371(f). | Aug. 23, 1958 , Pub. L. 85–726, § 401(f) , 72 Stat. 755 ; Oct. 24, 1978 , Pub. L. 95–504 , §§ 10(b), 17, 92 Stat. 1716 , 1720. |
+|  | 49 App.:1551(b)(1)(E). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1601(b)(1)(E); added Oct. 4, 1984 , Pub. L. 98–443, § 3(e) , 98 Stat. 1704 . |
+| 41110(a) (2)–(4) | 49 App.:1371(g)(1). | Aug. 23, 1958 , Pub. L. 85–726, § 401(g) , 72 Stat. 756 ; Oct. 24, 1978 , Pub. L. 95–504, § 18 , 92 Stat. 1720 ; restated Feb. 15, 1980 , Pub. L. 96–192, § 6 , 94 Stat 37. |
+|  | 49 App.:1551(b)(1)(E). |  |
+| 41110(b) | 49 App.:1388(b)(4). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 418(b)(4); added Nov. 9, 1977 , Pub. L. 95–163, § 17(a) , 91 Stat. 1285 . |
+|  | 49 App.:1551(b)(1)(E). |  |
+| 41110(c) | 49 App.:1371(g)(3). |  |
+|  | 49 App.:1551(b)(1)(E). |  |
+| 41110(d) | 49 App.:1371(d)(8) (last sentence). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 401(d)(8) (last sentence); added Oct. 24, 1978 , Pub. L. 95–504, § 13 , 92 Stat. 1719 . |
+|  | 49 App.:1551(a)(1)(B). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1601(a)(1)(B); added Oct. 24, 1978 , Pub. L. 95–504, § 40(a) , 92 Stat. 1744 . |
+|  | 49 App.:1551(b)(1)(E). |  |
+| 41110(e) | 49 App.:1371(r) (related to certificate). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 401(r) (related to certificate); added Oct. 24, 1978 , Pub. L. 95–504, § 20(d)(1) , 92 Stat. 1722 . |
+|  | 49 App.:1551(b)(1)(E). |  |
+| 41110(f) | 49 App.:1371a (related to certificate). | Aug. 15, 1985 , Pub. L. 99–88, § 100 (1st complete par. related to certificate on p. 352), 99 Stat. 352 . |
+| 41110(g) | 49 App.:1371(g)(2). |  |
+|  | 49 App.:1551(b)(1)(E). |  |
+
+
+General
+
+All-Cargo Air Transportation
+
+Foreign Air Transportation
+
+Temporary Certificates
+
+Continuing Requirements
+
+Illegal Importation of Controlled Substances
+
+Responses
+
+Historical and Revision Notes
+
+Pub. L
+
+41110(a)(1)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 401(f)
+
+72 Stat. 755
+
+Oct. 24, 1978
+
+Pub. L. 95–504
+
+92 Stat. 1716
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 4, 1984
+
+Pub. L. 98–443, § 3(e)
+
+98 Stat. 1704
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 401(g)
+
+72 Stat. 756
+
+Oct. 24, 1978
+
+Pub. L. 95–504, § 18
+
+92 Stat. 1720
+
+Feb. 15, 1980
+
+Pub. L. 96–192, § 6
+
+41110(b)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Nov. 9, 1977
+
+Pub. L. 95–163, § 17(a)
+
+91 Stat. 1285
+
+41110(c)
+
+41110(d)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 24, 1978
+
+Pub. L. 95–504, § 13
+
+92 Stat. 1719
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 24, 1978
+
+Pub. L. 95–504, § 40(a)
+
+92 Stat. 1744
+
+41110(e)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 24, 1978
+
+Pub. L. 95–504, § 20(d)(1)
+
+92 Stat. 1722
+
+41110(f)
+
+Aug. 15, 1985
+
+Pub. L. 99–88, § 100
+
+99 Stat. 352
+
+41110(g)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1123](https://www.govinfo.gov/link/statute/108/1123); [Pub. L. 103–429, § 6(50)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4384](https://www.govinfo.gov/link/statute/108/4384).)*

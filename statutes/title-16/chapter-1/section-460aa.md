@@ -3,12 +3,17 @@ title: "Section 460aa - Establishment"
 usc_title: 16
 usc_section: "460aa"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 460aa"
-generated_at: "2026-03-30T02:54:22.821Z"
+generated_at: "2026-11-23T21:25:51.581Z"
+status: "active"
 ---
 
 # § 460aa. Establishment
 
 - **(a)** In order to assure the preservation and protection of the natural, scenic, historic, pastoral, and fish and wildlife values and to provide for the enhancement of the recreational values associated therewith, the Sawtooth National Recreation Area is hereby established.
 - **(b)** The Sawtooth National Recreation Area (hereafter referred to as the “recreation area”), including the Sawtooth Wilderness Area (hereafter referred to as the “wilderness area”), shall comprise the lands generally depicted on the map entitled “Sawtooth National Recreation Area” dated June 1972, which shall be on file and available for public inspection in the office of the Chief, Forest Service, Department of Agriculture. The Secretary of Agriculture (hereafter referred to as the “Secretary”) shall, as soon as practicable after August 22, 1972 , publish a detailed description and map showing the boundaries of the recreation area in the Federal Register.
+
+## Source Credit
+
+*([Pub. L. 92–400, § 1](https://www.govinfo.gov/link/plaw/92/public/400), Aug. 22, 1972, [86 Stat. 612](https://www.govinfo.gov/link/statute/86/612).)*

@@ -3,9 +3,10 @@ title: "Section 5467 - Examination of and enforcement actions against financial 
 usc_title: 12
 usc_section: "5467"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5467"
-generated_at: "2026-03-30T02:53:53.540Z"
+generated_at: "2026-11-23T21:25:37.270Z"
+status: "active"
 ---
 
 # § 5467. Examination of and enforcement actions against financial institutions subject to standards for designated activities
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:53:53.540Z"
         - **(II)** reasonable cause to believe that the financial institution’s noncompliance with this subchapter or the rules or orders prescribed under this subchapter poses significant liquidity, credit, operational, or other risks to the financial markets or to the financial stability of the United States, subject to the Board of Governors notifying the appropriate financial regulator of the Board’s enforcement action; and
       - **(iv)** obtained the approval of the Council upon an affirmative vote by a majority of the Council.
   - **(3)** For purposes of taking enforcement action under paragraph (1), the financial institution shall be subject to, and the Board of Governors shall have authority under 1 the provisions of subsections (b) through (n) of section 1818 of this title in the same manner and to the same extent as if the financial institution was an insured depository institution and the Board of Governors was the appropriate Federal banking agency for such insured depository institution.
+
+## Source Credit
+
+*([Pub. L. 111–203, title VIII, § 808](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1816](https://www.govinfo.gov/link/statute/124/1816).)*

@@ -3,9 +3,10 @@ title: "Section 5841 - Registration of firearms"
 usc_title: 26
 usc_section: "5841"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5841"
-generated_at: "2026-03-30T02:55:27.827Z"
+generated_at: "2026-11-23T21:26:06.746Z"
+status: "active"
 ---
 
 # § 5841. Registration of firearms
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:27.827Z"
 - **(c)** Each manufacturer shall notify the Secretary of the manufacture of a firearm in such manner as may by regulations be prescribed and such notification shall effect the registration of the firearm required by this section. Each importer, maker, and transferor of a firearm shall, prior to importing, making, or transferring a firearm, obtain authorization in such manner as required by this chapter or regulations issued thereunder to import, make, or transfer the firearm, and such authorization shall effect the registration of the firearm required by this section.
 - **(d)** A person shown as possessing a firearm by the records maintained by the Secretary pursuant to the National Firearms Act in force on the day immediately prior to the effective date of the National Firearms Act of 1968 1 1 So in original. See References in Text notes below. shall be considered to have registered under this section the firearms in his possession which are disclosed by that record as being in his possession.
 - **(e)** A person possessing a firearm registered as required by this section shall retain proof of registration which shall be made available to the Secretary upon request.
+
+## Source Credit
+
+*(Added [Pub. L. 90–618, title II, § 201](https://www.govinfo.gov/link/plaw/90/public/618), Oct. 22, 1968, [82 Stat. 1229](https://www.govinfo.gov/link/statute/82/1229); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834).)*

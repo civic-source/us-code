@@ -3,9 +3,10 @@ title: "Section 864 - Art. 64. Judge advocate review of finding of guilty in sum
 usc_title: 10
 usc_section: "864"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 864"
-generated_at: "2026-03-30T02:53:38.083Z"
+generated_at: "2026-11-23T21:25:32.341Z"
+status: "active"
 ---
 
 # § 864. Art. 64. Judge advocate review of finding of guilty in summary court-martial
@@ -28,3 +29,28 @@ generated_at: "2026-03-30T02:53:38.083Z"
     - **(D)** dismiss the charges.
   - **(2)** If a rehearing is ordered but the convening authority finds a rehearing impracticable, he shall dismiss the charges.
   - **(3)** If the opinion of the judge advocate in the judge advocate’s review under subsection (a) is that corrective action is required as a matter of law and if the person required to take action under subsection (b) does not take action that is at least as favorable to the accused as that recommended by the judge advocate, the record of trial and action thereon shall be sent to the Judge Advocate General for review under section 869 of this title (article 69).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 864 | 50:651. | May 5, 1950, ch. 169, § 1 (Art. 64), 64 Stat. 128 . |
+
+
+In General
+
+Record
+
+Historical and Revision Notes
+
+864
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 128
+
+In General
+
+In General
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 58; [Pub. L. 98–209, § 7(a)(1)](https://www.govinfo.gov/link/plaw/98/public/209), Dec. 6, 1983, [97 Stat. 1401](https://www.govinfo.gov/link/statute/97/1401); [Pub. L. 114–328, div. E, title LIX, § 5328](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2929](https://www.govinfo.gov/link/statute/130/2929); [Pub. L. 115–91, div. A, title X, § 1081(c)(1)(I)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1598](https://www.govinfo.gov/link/statute/131/1598).)*

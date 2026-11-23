@@ -3,9 +3,10 @@ title: "Section 7651 - Nutrient composition data"
 usc_title: 7
 usc_section: "7651"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7651"
-generated_at: "2026-03-30T02:53:42.460Z"
+generated_at: "2026-11-23T21:25:28.442Z"
+status: "active"
 ---
 
 # § 7651. Nutrient composition data
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:42.460Z"
 - **(b)** Not later than 180 days after June 23, 1998 , the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes—
   - **(1)** the method the Secretary will use to update nutrient composition data, including the quality assurance criteria that will be used and the method for generating the data; and
   - **(2)** the timing for updating the data.
+
+## Source Credit
+
+*([Pub. L. 105–185, title VI, § 611](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 605](https://www.govinfo.gov/link/statute/112/605).)*

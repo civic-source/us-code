@@ -3,9 +3,10 @@ title: "Section 6105 - Duties of the Secretary"
 usc_title: 16
 usc_section: "6105"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6105"
-generated_at: "2026-03-30T02:54:23.055Z"
+generated_at: "2026-11-23T21:25:52.035Z"
+status: "active"
 ---
 
 # § 6105. Duties of the Secretary
@@ -16,3 +17,7 @@ In carrying out this chapter, the Secretary shall—
   - **(2)** encourage submission of proposals for projects eligible for financial assistance under section 6104 of this title , particularly proposals from relevant wildlife management authorities;
   - **(3)** select proposals for financial assistance that satisfy the requirements of section 6104 of this title , giving preference to proposals that address conservation needs not adequately addressed by existing efforts and that are supported by relevant wildlife management authorities; and
   - **(4)** generally implement this chapter in accordance with its purposes.
+
+## Source Credit
+
+*([Pub. L. 106–247, § 6](https://www.govinfo.gov/link/plaw/106/public/247), July 20, 2000, [114 Stat. 595](https://www.govinfo.gov/link/statute/114/595).)*

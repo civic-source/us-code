@@ -3,9 +3,10 @@ title: "Section 2519 - Prevention of and response to hazing and bullying"
 usc_title: 14
 usc_section: "2519"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 2519"
-generated_at: "2026-03-30T02:53:51.500Z"
+generated_at: "2026-11-23T21:25:35.433Z"
+status: "active"
 ---
 
 # § 2519. Prevention of and response to hazing and bullying
@@ -41,3 +42,13 @@ generated_at: "2026-03-30T02:53:51.500Z"
   - **(10)** The status of efforts of the Commandant to evaluate the prevalence of hazing and bullying in the Coast Guard.
   - **(11)** Data on allegations of hazing and bullying in the Coast Guard, including final disposition of investigations.
   - **(12)** Plans of the Commandant to improve hazing and bullying prevention and response during the next reporting year.
+
+Anti-hazing and Anti-bullying Database
+
+Improved Training
+
+Annual Reports on Hazing and Bullying
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. G, title LXXII, § 7228(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1708](https://www.govinfo.gov/link/statute/139/1708).)*

@@ -3,14 +3,15 @@ title: "Section 2 - Reporting requirements"
 usc_title: 43
 usc_section: "2"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 2"
-generated_at: "2026-03-30T02:55:57.489Z"
+generated_at: "2026-11-23T21:26:19.878Z"
+status: "active"
 ---
 
 # § 1748a–2. Reporting requirements
 
-- **(a)** Not later than 90 days after the end of the fiscal year for which additional new budget authority is used, pursuant to section 901(b)(2)(F)(i) of title 2 , as added by section 102 of this division, the Secretary of the Interior or the Secretary of Agriculture (as applicable), in consultation with the Director of the Office of Management and Budget, shall—
+- **(a)** Not later than 180 days after the end of the fiscal year for which additional new budget authority is used, pursuant to section 901(b)(2)(F)(i) of title 2 , as added by section 102 of this division, the Secretary of the Interior or the Secretary of Agriculture (as applicable), in consultation with the Director of the Office of Management and Budget, shall—
   - **(1)** prepare an annual report with respect to the additional new budget authority;
   - **(2)** submit to the Committees on Appropriations, the Budget, and Natural Resources of the House of Representatives and the Committees on Appropriations, the Budget, and Energy and Natural Resources of the Senate the annual report prepared under paragraph (1); and
   - **(3)** make the report prepared under paragraph (1) available to the public.
@@ -27,6 +28,10 @@ generated_at: "2026-03-30T02:55:57.489Z"
     - **(G)** levels of exposure experienced by firefighters;
     - **(H)** suggested corrective actions; and
     - **(I)** any other factors the Secretary of the Interior or Secretary of Agriculture (as applicable) determines to be appropriate;
-  - **(4)** include an accounting of overall fire management and spending by the Department of the Interior or the Department of Agriculture, which shall be analyzed by fire size, cost, regional location, and other factors;
+  - **(4)** include an accounting of overall fire management and spending by the Department of the Interior or the Department of Agriculture, which shall be analyzed by fire size, cost, regional location, and other factors, and shall include an accounting of any spending in the first two quarters of the succeeding fiscal year that is attributable to suppression operations in the fiscal year for which the report was prepared;
   - **(5)** describe any lessons learned in the conduct of wildfire suppression operations; and
   - **(6)** include any other elements that the Secretary of the Interior or the Secretary of Agriculture (as applicable) determines to be necessary.
+
+## Source Credit
+
+*([Pub. L. 115–141, div. O, title I, § 104](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1061](https://www.govinfo.gov/link/statute/132/1061); [Pub. L. 119–74, div. C, title IV, § 439](https://www.govinfo.gov/link/plaw/119/public/74), Jan. 23, 2026, [140 Stat. 170](https://www.govinfo.gov/link/statute/140/170).)*

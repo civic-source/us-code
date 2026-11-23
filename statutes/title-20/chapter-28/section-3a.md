@@ -3,9 +3,10 @@ title: "Section 3a - Grants for access and persistence"
 usc_title: 20
 usc_section: "3a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 3a"
-generated_at: "2026-03-30T02:54:48.107Z"
+generated_at: "2026-11-23T21:25:47.072Z"
+status: "active"
 ---
 
 # § 1070c–3a. Grants for access and persistence
@@ -118,3 +119,17 @@ generated_at: "2026-03-30T02:54:48.107Z"
 - **(i)** Notwithstanding subsection (h), for purposes of determining a State’s share of the cost of the authorized activities described in subsection (d), the State shall consider only those expenditures from non-Federal sources that exceed the State’s total expenditures for need-based grants, scholarships, and work-study assistance for fiscal year 1999 (including any such assistance provided under this subpart).
 - **(j)** For the two-year period that begins on August 14, 2008 , the Secretary shall continue to award grants under section 1070c–3a of this title as such section existed on the day before August 14, 2008 , to States that choose to apply for grants under such predecessor section.
 - **(k)** Not later than three years after August 14, 2008 , and annually thereafter, the Secretary shall submit a report describing the activities and the impact of the partnerships under this section to the authorizing committees.
+
+(aa) room and board; or
+
+(bb) transportation passes; and
+
+(aa) meet the requirement under paragraph (3);
+
+(bb) graduate from secondary school; and
+
+(cc) enroll at an institution of higher education— (AA) that is a partner in the partnership; or (BB) with respect to which attendance is permitted under subsection (d)(1)(C)(ii);
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 415E](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title IV, § 407(c)(2)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1666](https://www.govinfo.gov/link/statute/112/1666); amended [Pub. L. 106–554, § 1(a)(1) [title III, § 316(2), (3)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–47; [Pub. L. 110–315, title IV, § 407(c)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3216](https://www.govinfo.gov/link/statute/122/3216); [Pub. L. 111–39, title IV, § 401(a)(6)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1938](https://www.govinfo.gov/link/statute/123/1938); [Pub. L. 116–260, div. FF, title VII, § 704(3)](https://www.govinfo.gov/link/plaw/116/public/260), (5), Dec. 27, 2020, [134 Stat. 3200](https://www.govinfo.gov/link/statute/134/3200).)*

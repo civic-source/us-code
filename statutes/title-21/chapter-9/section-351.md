@@ -3,9 +3,10 @@ title: "Section 351 - Adulterated drugs and devices"
 usc_title: 21
 usc_section: "351"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 351"
-generated_at: "2026-03-30T02:54:54.229Z"
+generated_at: "2026-11-23T21:25:56.010Z"
+status: "active"
 ---
 
 # § 351. Adulterated drugs and devices
@@ -41,3 +42,7 @@ A drug or device shall be deemed to be adulterated—
 - **(h)** If it is a device and the methods used in, or the facilities or controls used for, its manufacture, packing, storage, or installation are not in conformity with applicable requirements under section 360j(f)(1) of this title or an applicable condition prescribed by an order under section 360j(f)(2) of this title .
 - **(i)** If it is a device for which an exemption has been granted under section 360j(g) of this title for investigational use and the person who was granted such exemption or any investigator who uses such device under such exemption fails to comply with a requirement prescribed by or under such section.
 - **(j)** If it is a drug or device and it has been manufactured, processed, packed, or held in any factory, warehouse, or establishment and the owner, operator, or agent of such factory, warehouse, or establishment delays, denies, or limits an inspection, or refuses to permit entry or inspection. For purposes of paragraph (a)(2)(B), the term “current good manufacturing practice” includes the implementation of oversight and controls over the manufacture of drugs to ensure quality, including managing the risk of and establishing the safety of raw materials, materials used in the manufacturing of drugs, and finished drug products.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 501, [52 Stat. 1049](https://www.govinfo.gov/link/statute/52/1049); [Pub. L. 86–618, title I, § 102(b)(1)](https://www.govinfo.gov/link/plaw/86/public/618), July 12, 1960, [74 Stat. 398](https://www.govinfo.gov/link/statute/74/398); [Pub. L. 87–781, title I, § 101](https://www.govinfo.gov/link/plaw/87/public/781), Oct. 10, 1962, [76 Stat. 780](https://www.govinfo.gov/link/statute/76/780); [Pub. L. 90–399, § 101(a)](https://www.govinfo.gov/link/plaw/90/public/399), July 13, 1968, [82 Stat. 343](https://www.govinfo.gov/link/statute/82/343); [Pub. L. 94–295](https://www.govinfo.gov/link/plaw/94/public/295), §§ 3(d), 9(b)(1), May 28, 1976, [90 Stat. 576](https://www.govinfo.gov/link/statute/90/576), 583; [Pub. L. 101–629, § 9(b)](https://www.govinfo.gov/link/plaw/101/public/629), Nov. 28, 1990, [104 Stat. 4521](https://www.govinfo.gov/link/statute/104/4521); [Pub. L. 102–571, title I, § 107(8)](https://www.govinfo.gov/link/plaw/102/public/571), Oct. 29, 1992, [106 Stat. 4499](https://www.govinfo.gov/link/statute/106/4499); [Pub. L. 105–115, title I, § 121(b)(1)](https://www.govinfo.gov/link/plaw/105/public/115), title II, § 204(c), Nov. 21, 1997, [111 Stat. 2320](https://www.govinfo.gov/link/statute/111/2320), 2336; [Pub. L. 112–144, title VI, § 608(b)(2)](https://www.govinfo.gov/link/plaw/112/public/144), title VII, §§ 707(a), 711, July 9, 2012, [126 Stat. 1058](https://www.govinfo.gov/link/statute/126/1058), 1068, 1071; [Pub. L. 115–52, title VII, § 702(c)](https://www.govinfo.gov/link/plaw/115/public/52), Aug. 18, 2017, [131 Stat. 1056](https://www.govinfo.gov/link/statute/131/1056).)*

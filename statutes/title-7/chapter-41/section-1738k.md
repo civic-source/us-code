@@ -3,9 +3,10 @@ title: "Section 1738k - Eligible activities and grantees"
 usc_title: 7
 usc_section: "1738k"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1738k"
-generated_at: "2026-03-30T02:53:42.341Z"
+generated_at: "2026-11-23T21:25:28.178Z"
+status: "active"
 ---
 
 # § 1738k. Eligible activities and grantees
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:42.341Z"
   - **(2)** other appropriate local or regional entities; or
   - **(3)** in exceptional circumstances, the government of the eligible country.
 - **(e)** In providing assistance from an Environmental Fund, the body established under section 1738f(c) of this title within the eligible country shall give priority to projects that are run by nongovernmental organizations and other private entities, and that involve local communities in their planning and execution.
+
+## Source Credit
+
+*(July 10, 1954, ch. 469, title VI, § 612, as added [Pub. L. 101–624, title XV, § 1512](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3661](https://www.govinfo.gov/link/statute/104/3661); amended [Pub. L. 102–237, title III, § 306](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1856](https://www.govinfo.gov/link/statute/105/1856).)*

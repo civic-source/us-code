@@ -3,9 +3,10 @@ title: "Section 1475b - Volunteer authority"
 usc_title: 43
 usc_section: "1475b"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1475b"
-generated_at: "2026-03-30T02:55:57.475Z"
+generated_at: "2026-11-23T21:26:19.842Z"
+status: "active"
 ---
 
 # § 1475b. Volunteer authority
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:57.475Z"
     - **(B)** subchapter I of chapter 81 of title 5; and
     - **(C)** claims relating to damage to, or loss of, personal property of a volunteer incident to volunteer service, in which case the provisions of section 3721 of title 31 shall apply.
   - **(3)** Volunteers under this Act shall be subject to chapter 11 of title 18, unless the Secretary, with the concurrence of the Director of the Office of Government Ethics, determines in writing published in the Federal Register that the provisions of that chapter, except section 201, shall not apply to the actions of a class or classes of volunteers who carry out only those duties or functions specified in the determination.
+
+## Source Credit
+
+*([Pub. L. 109–125, § 3](https://www.govinfo.gov/link/plaw/109/public/125), Dec. 7, 2005, [119 Stat. 2544](https://www.govinfo.gov/link/statute/119/2544).)*

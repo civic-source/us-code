@@ -3,9 +3,10 @@ title: "Section 796a - Definitions"
 usc_title: 29
 usc_section: "796a"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 796a"
-generated_at: "2026-03-30T02:55:18.699Z"
+generated_at: "2026-11-23T21:26:02.216Z"
+status: "active"
 ---
 
 # § 796a. Definitions
@@ -17,3 +18,7 @@ As used in this part:
     - **(A)** is designed and operated within a local community by individuals with disabilities; and
     - **(B)** provides an array of independent living services, including, at a minimum, independent living core services as defined in section 705(17) of this title .
   - **(3)** The term “consumer control” means, with respect to a center for independent living, that the center vests power and authority in individuals with disabilities, in terms of the management, staffing, decisionmaking, operation, and provisions of services, of the center.
+
+## Source Credit
+
+*([Pub. L. 93–112, title VII, § 702](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 105–220, title IV, § 410](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1218](https://www.govinfo.gov/link/statute/112/1218); amended [Pub. L. 113–128, title IV, § 473](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1685](https://www.govinfo.gov/link/statute/128/1685).)*

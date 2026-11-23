@@ -3,9 +3,10 @@ title: "Section 1301 - Findings"
 usc_title: 45
 usc_section: "1301"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 1301"
-generated_at: "2026-03-30T02:55:56.561Z"
+generated_at: "2026-11-23T21:26:19.241Z"
+status: "active"
 ---
 
 # § 1301. Findings
@@ -23,3 +24,7 @@ The Congress finds that—
   - **(9)** the Corporation’s employees contributed significantly to the turnaround in the Corporation’s financial performance and they should share in the Corporation’s success through a settlement of their claims for reimbursement for wages below industry standard, and a share in the common equity of the Corporation;
   - **(10)** the requirements of section 761(e) 1 1 See References in Text note below. of this title are met by this chapter; and
   - **(11)** the Secretary of Transportation has discharged the responsibilities of the Department of Transportation under the Northeast Rail Service Act of 1981 with respect to the sale of the Corporation as a single entity.
+
+## Source Credit
+
+*([Pub. L. 99–509, title IV, § 4002](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1893](https://www.govinfo.gov/link/statute/100/1893).)*

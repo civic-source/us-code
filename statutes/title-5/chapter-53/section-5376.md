@@ -3,9 +3,10 @@ title: "Section 5376 - Pay for certain senior-level positions"
 usc_title: 5
 usc_section: "5376"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5376"
-generated_at: "2026-03-30T02:52:56.016Z"
+generated_at: "2026-11-23T21:25:23.255Z"
+status: "active"
 ---
 
 # § 5376. Pay for certain senior-level positions
@@ -22,3 +23,21 @@ generated_at: "2026-03-30T02:52:56.016Z"
   - **(2)** Subject to paragraph (1), effective at the beginning of the first applicable pay period commencing on or after the first day of the month in which an adjustment takes effect under section 5303 in the rates of pay under the General Schedule, each rate of pay established under this section for positions within an agency shall be adjusted by such amount as the head of such agency considers appropriate.
   - **(3)** In the case of an agency which has a performance appraisal system which, as designed and applied, is certified under section 5307(d) as making meaningful distinctions based on relative performance, paragraph (1)(B) shall apply as if the reference to “level III” were a reference to “level II”.
   - **(4)** No employee may suffer a reduction in pay by reason of transfer from an agency with an applicable maximum rate of pay prescribed under paragraph (3) to an agency with an applicable maximum rate of pay prescribed under paragraph (1)(B).
+
+Effective date
+
+No reductions in rates of pay.—
+
+In general
+
+Determination of rate of pay
+
+References to maximum rates
+
+Other References
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 101–509, title V, § 529 [title I, § 102(a)(1)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1443; amended [Pub. L. 110–372, § 2(b)](https://www.govinfo.gov/link/plaw/110/public/372), Oct. 8, 2008, [122 Stat. 4044](https://www.govinfo.gov/link/statute/122/4044).)*

@@ -3,9 +3,10 @@ title: "Section 77 - Official inspection and weighing requirements; waiver; supe
 usc_title: 7
 usc_section: "77"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 77"
-generated_at: "2026-03-30T02:53:42.252Z"
+generated_at: "2026-11-23T21:25:27.872Z"
+status: "active"
 ---
 
 # § 77. Official inspection and weighing requirements; waiver; supervision by representatives of Secretary
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.252Z"
     - **(A)** the disruption; and
     - **(B)** any actions necessary to address the concerns of the Secretary relating to the disruption so that inspections or weighings may resume; and
   - **(3)** once the initial report in paragraph (2) has been made, provide daily updates until official inspection or weighing services at the site of disruption have resumed.
+
+## Source Credit
+
+*(Aug. 11, 1916, ch. 313, pt. B, § 5, [39 Stat. 483](https://www.govinfo.gov/link/statute/39/483); [Pub. L. 90–487, § 1](https://www.govinfo.gov/link/plaw/90/public/487), Aug. 15, 1968, [82 Stat. 763](https://www.govinfo.gov/link/statute/82/763); [Pub. L. 94–582, § 6](https://www.govinfo.gov/link/plaw/94/public/582), Oct. 21, 1976, [90 Stat. 2869](https://www.govinfo.gov/link/statute/90/2869); [Pub. L. 95–113, title XVI, § 1606(b)](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 1030](https://www.govinfo.gov/link/statute/91/1030); [Pub. L. 96–437, § 2](https://www.govinfo.gov/link/plaw/96/public/437), Oct. 13, 1980, [94 Stat. 1870](https://www.govinfo.gov/link/statute/94/1870); [Pub. L. 101–624, title XX, § 2007](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3931](https://www.govinfo.gov/link/statute/104/3931); [Pub. L. 103–156, § 12(c)](https://www.govinfo.gov/link/plaw/103/public/156), Nov. 24, 1993, [107 Stat. 1528](https://www.govinfo.gov/link/statute/107/1528); [Pub. L. 103–354, title II, § 293(a)(3)](https://www.govinfo.gov/link/plaw/103/public/354), (7), Oct. 13, 1994, [108 Stat. 3237](https://www.govinfo.gov/link/statute/108/3237); [Pub. L. 106–472, title I, § 101](https://www.govinfo.gov/link/plaw/106/public/472), Nov. 9, 2000, [114 Stat. 2059](https://www.govinfo.gov/link/statute/114/2059); [Pub. L. 114–54, title III, § 301(a)](https://www.govinfo.gov/link/plaw/114/public/54), Sept. 30, 2015, [129 Stat. 516](https://www.govinfo.gov/link/statute/129/516).)*

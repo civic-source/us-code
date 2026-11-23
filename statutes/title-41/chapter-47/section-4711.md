@@ -3,9 +3,10 @@ title: "Section 4711 - Linking of award and incentive fees to acquisition outcom
 usc_title: 41
 usc_section: "4711"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 4711"
-generated_at: "2026-03-30T02:55:55.808Z"
+generated_at: "2026-11-23T21:26:18.822Z"
+status: "active"
 ---
 
 # § 4711. Linking of award and incentive fees to acquisition outcomes
@@ -26,3 +27,30 @@ generated_at: "2026-03-30T02:55:55.808Z"
   - **(9)** include performance measures to evaluate the effectiveness of award and incentive fees as a tool for improving contractor performance and achieving desired program outcomes; and
   - **(10)** provide mechanisms for sharing proven incentive strategies for the acquisition of different types of products and services among contracting and program management officials.
 - **(d)** The Department of Defense shall continue to be subject to guidance on award and incentive fees issued by the Secretary of Defense pursuant to section 814 of the John Warner National Defense Authorization Act for Fiscal Year 2007 ( Public Law 109–364 , 10 U.S.C. 2302 note).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 4711 | 41:251 note. | Pub. L. 110–417 , [div. A], title VIII, § 867, Oct. 14, 2008 , 122 Stat. 4551 . |
+
+
+Definition
+
+Guidance for Executive Agencies on Linking of Award and Incentive Fees to Acquisition Outcomes
+
+Elements
+
+Guidance for Department of Defense
+
+Historical and Revision Notes
+
+4711
+
+Pub. L. 110–417
+
+Oct. 14, 2008
+
+122 Stat. 4551
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3800](https://www.govinfo.gov/link/statute/124/3800).)*

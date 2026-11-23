@@ -3,9 +3,10 @@ title: "Section 3057 - National Counterproliferation and Biosecurity Center"
 usc_title: 50
 usc_section: "3057"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3057"
-generated_at: "2026-03-30T02:56:26.233Z"
+generated_at: "2026-11-23T21:26:39.004Z"
+status: "active"
 ---
 
 # § 3057. National Counterproliferation and Biosecurity Center
@@ -39,3 +40,11 @@ generated_at: "2026-03-30T02:56:26.233Z"
   - **(1)** Not later than nine months after the implementation of this chapter, the President shall submit to Congress, in classified form if necessary, the findings and recommendations of the President’s Commission on Weapons of Mass Destruction established by Executive Order in February 2004, together with the views of the President regarding the establishment of a National Counterproliferation and Biosecurity Center.
   - **(2)** If the President decides not to exercise the waiver authority granted by subsection (c), the President shall submit to Congress from time to time updates and plans regarding the establishment of a National Counterproliferation and Biosecurity Center.
 - **(e)** It is the sense of Congress that a central feature of counterproliferation activities, consistent with the President’s Proliferation Security Initiative, should include the physical interdiction, by air, sea, or land, of weapons of mass destruction, their delivery systems, and related materials and technologies, and enhanced law enforcement activities to identify and disrupt proliferation networks, activities, organizations, and persons.
+
+Termination of center
+
+Termination of director of the center
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title I, § 119A, as added [Pub. L. 108–458, title I, § 1022](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3675](https://www.govinfo.gov/link/statute/118/3675); amended [Pub. L. 111–259, title IV, § 407(a)](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2721](https://www.govinfo.gov/link/statute/124/2721); [Pub. L. 117–103, div. X, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/117/public/103) –(d), Mar. 15, 2022, [136 Stat. 973](https://www.govinfo.gov/link/statute/136/973), 974; [Pub. L. 118–159, div. F, title LXV, § 6502](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2494](https://www.govinfo.gov/link/statute/138/2494); [Pub. L. 119–60, div. F, title LXIV, § 6404(c)(2)](https://www.govinfo.gov/link/plaw/119/public/60), (d), Dec. 18, 2025, [139 Stat. 1618](https://www.govinfo.gov/link/statute/139/1618).)*

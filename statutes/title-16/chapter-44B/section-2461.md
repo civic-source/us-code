@@ -3,9 +3,10 @@ title: "Section 2461 - Findings and purpose"
 usc_title: 16
 usc_section: "2461"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2461"
-generated_at: "2026-03-30T02:54:23.003Z"
+generated_at: "2026-11-23T21:25:51.950Z"
+status: "active"
 ---
 
 # § 2461. Findings and purpose
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:23.003Z"
   - **(2)** prohibit prospecting, exploration, and development of Antarctic mineral resources by United States citizens and other persons subject to the jurisdiction of the United States;
   - **(3)** urge other nations to join the United States in immediately negotiating one or more new agreements to provide an indefinite ban on all Antarctic mineral resource activities and comprehensive protection for Antarctica and its associated and dependent ecosystems; and
   - **(4)** urge all nations to consider a permanent ban on Antarctic mineral resource activities.
+
+## Source Credit
+
+*([Pub. L. 101–594, § 2](https://www.govinfo.gov/link/plaw/101/public/594), Nov. 16, 1990, [104 Stat. 2975](https://www.govinfo.gov/link/statute/104/2975).)*

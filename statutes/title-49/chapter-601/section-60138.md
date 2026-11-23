@@ -3,9 +3,10 @@ title: "Section 60138 - Response plans"
 usc_title: 49
 usc_section: "60138"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 60138"
-generated_at: "2026-03-30T02:56:19.416Z"
+generated_at: "2026-11-23T21:26:41.034Z"
+status: "active"
 ---
 
 # § 60138. Response plans
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:56:19.416Z"
     - **(C)** specific response resources and tactical resource deployment plans; and
     - **(D)** the specific amount and location of worst case discharges (as defined in part 194 of title 49, Code of Federal Regulations), including the process by which an owner or operator determines the worst case discharge.
 - **(b)** Nothing in this section may be construed to require disclosure of information or records that are exempt from disclosure under section 552 of title 5 .
+
+In General
+
+Relationship to FOIA
+
+## Source Credit
+
+*(Added [Pub. L. 112–90, § 6(c)(1)](https://www.govinfo.gov/link/plaw/112/public/90), Jan. 3, 2012, [125 Stat. 1910](https://www.govinfo.gov/link/statute/125/1910).)*

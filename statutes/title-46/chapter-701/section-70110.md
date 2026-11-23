@@ -3,9 +3,10 @@ title: "Section 70110 - Actions and assistance for foreign ports or facilities a
 usc_title: 46
 usc_section: "70110"
 chapter: 701
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 70110"
-generated_at: "2026-03-30T02:56:15.587Z"
+generated_at: "2026-11-23T21:26:37.357Z"
+status: "active"
 ---
 
 # § 70110. Actions and assistance for foreign ports or facilities and United States territories
@@ -33,3 +34,27 @@ generated_at: "2026-03-30T02:56:15.587Z"
     - **(A)** may provide such assistance based upon an assessment of the risks to the security of the United States and the inability of the owner or operator of the port or facility to bring the port or facility into compliance with those standards and to maintain compliance with, or exceed, such standards;
     - **(B)** may not provide such assistance unless the port or facility has been subjected to a comprehensive port security assessment by the Coast Guard; and
     - **(C)** may only lend, lease, or otherwise provide equipment that the Secretary has first determined is not required by the Coast Guard for the performance of its missions.
+
+In General
+
+Effective Date for Sanctions
+
+State Department To Be Notified
+
+Action Canceled
+
+Assistance for Foreign Ports, Facilities, and United States Territories.—
+
+In general
+
+Caribbean basin
+
+Coast Guard Assistance Program.—
+
+In general
+
+Conditions
+
+## Source Credit
+
+*(Added [Pub. L. 107–295, title I, § 102(a)](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2080](https://www.govinfo.gov/link/statute/116/2080); amended [Pub. L. 109–347, title II, § 233(b)](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1917](https://www.govinfo.gov/link/statute/120/1917); [Pub. L. 111–281, title VIII, § 806(a)(3)](https://www.govinfo.gov/link/plaw/111/public/281) –(c)(2)(A), Oct. 15, 2010, [124 Stat. 2992](https://www.govinfo.gov/link/statute/124/2992), 2993; [Pub. L. 111–330, § 1(12)](https://www.govinfo.gov/link/plaw/111/public/330), Dec. 22, 2010, [124 Stat. 3570](https://www.govinfo.gov/link/statute/124/3570).)*

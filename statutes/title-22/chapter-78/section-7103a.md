@@ -3,9 +3,10 @@ title: "Section 7103a - Creating, building, and strengthening partnerships again
 usc_title: 22
 usc_section: "7103a"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7103a"
-generated_at: "2026-03-30T02:55:05.436Z"
+generated_at: "2026-11-23T21:25:58.706Z"
+status: "active"
 ---
 
 # § 7103a. Creating, building, and strengthening partnerships against significant trafficking in persons
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:05.436Z"
       - **(ii)** the country or entity has engaged in a pattern of actions inconsistent with the criteria used to determine the eligibility of the country or entity, as the case may be; or
       - **(iii)** the country or entity has failed to adhere to its responsibilities under the Compact.
     - **(B)** The Secretary may reinstate assistance for a country or entity suspended or terminated under this paragraph only if the Secretary determines that the country or entity has demonstrated a commitment to correcting each condition for which assistance was suspended or terminated under subparagraph (A).
+
+## Source Credit
+
+*([Pub. L. 106–386, div. A, § 105A](https://www.govinfo.gov/link/plaw/106/public/386), as added [Pub. L. 113–4, title XII, § 1202](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 136](https://www.govinfo.gov/link/statute/127/136).)*

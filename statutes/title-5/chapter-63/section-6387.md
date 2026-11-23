@@ -3,12 +3,17 @@ title: "Section 6387 - Regulations"
 usc_title: 5
 usc_section: "6387"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 6387"
-generated_at: "2026-03-30T02:52:56.033Z"
+generated_at: "2026-11-23T21:25:23.331Z"
+status: "active"
 ---
 
 # § 6387. Regulations
 
 The Office of Personnel Management shall prescribe regulations necessary for the administration of this subchapter. The regulations prescribed under this subchapter shall, to the extent appropriate, be consistent with the regulations prescribed by the Secretary of Labor to carry out title I of the Family and Medical Leave Act of 1993.
 
+
+## Source Credit
+
+*(Added [Pub. L. 103–3, title II, § 201(a)(1)](https://www.govinfo.gov/link/plaw/103/public/3), Feb. 5, 1993, [107 Stat. 23](https://www.govinfo.gov/link/statute/107/23).)*

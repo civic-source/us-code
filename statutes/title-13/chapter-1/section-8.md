@@ -3,9 +3,10 @@ title: "Section 8 - Authenticated transcripts or copies of certain returns; othe
 usc_title: 13
 usc_section: "8"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "13 U.S.C. § 8"
-generated_at: "2026-03-30T02:54:03.337Z"
+generated_at: "2026-11-23T21:25:34.402Z"
+status: "active"
 ---
 
 # § 8. Authenticated transcripts or copies of certain returns; other data; restriction on use; disposition of fees received
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:03.337Z"
 - **(b)** Subject to the limitations contained in sections 6(c) and 9 of this title, the Secretary may furnish copies of tabulations and other statistical materials which do not disclose the information reported by, or on behalf of, any particular respondent, and may make special statistical compilations and surveys, for departments, agencies, and establishments of the Federal Government, the government of the District of Columbia, the government of any possession or area (including political subdivisions thereof) referred to in section 191(a) of this title , State or local agencies, or other public and private persons and agencies, upon payment of the actual or estimated cost of such work. In the case of nonprofit agencies or organizations, the Secretary may engage in joint statistical projects, the purpose of which are otherwise authorized by law, but only if the cost of such projects are shared equitably, as determined by the Secretary.
 - **(c)** In no case shall information furnished under this section be used to the detriment of any respondent or other person to whom such information relates, except in the prosecution of alleged violations of this title.
 - **(d)** All moneys received in payment for work or services enumerated under this section shall be deposited in a separate account which may be used to pay directly the costs of such work or services, to repay appropriations which initially bore all or part of such costs, or to refund excess sums when necessary.
+
+## Source Credit
+
+*(Aug. 31, 1954, ch. 1158, [68 Stat. 1013](https://www.govinfo.gov/link/statute/68/1013); [Pub. L. 85–207, § 4](https://www.govinfo.gov/link/plaw/85/public/207), Aug. 28, 1957, [71 Stat. 481](https://www.govinfo.gov/link/statute/71/481); [Pub. L. 94–521, § 6(a)](https://www.govinfo.gov/link/plaw/94/public/521), Oct. 17, 1976, [90 Stat. 2460](https://www.govinfo.gov/link/statute/90/2460).)*

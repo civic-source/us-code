@@ -3,9 +3,10 @@ title: "Section 2199 - Expansion of HUBZones in Puerto Rico"
 usc_title: 48
 usc_section: "2199"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 2199"
-generated_at: "2026-03-30T02:56:14.606Z"
+generated_at: "2026-11-23T21:26:38.144Z"
+status: "active"
 ---
 
 # § 2199. Expansion of HUBZones in Puerto Rico
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:14.606Z"
     - **(C)** an assessment as to whether these measures have successfully ensured that only qualified HUBZone small business concerns are participating in the HUBZone program under section 657a of title 15 ;
     - **(D)** an assessment as to whether the reforms made by the criteria and guidance implemented under paragraph (1) have resulted in job creation in the Commonwealth of Puerto Rico; and
     - **(E)** recommendations on how to improve controls in the HUBZone program.
+
+## Source Credit
+
+*([Pub. L. 114–187, title IV, § 412](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 595](https://www.govinfo.gov/link/statute/130/595).)*

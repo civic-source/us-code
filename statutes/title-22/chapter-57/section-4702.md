@@ -3,9 +3,10 @@ title: "Section 4702 - Congressional findings and declaration of policy"
 usc_title: 22
 usc_section: "4702"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4702"
-generated_at: "2026-03-30T02:55:05.413Z"
+generated_at: "2026-11-23T21:25:58.648Z"
+status: "active"
 ---
 
 # § 4702. Congressional findings and declaration of policy
@@ -20,3 +21,7 @@ The Congress finds and declares that—
   - **(6)** an undergraduate scholarship program for students of limited financial means from developing countries to study in the United States would complement current assistance efforts in the areas of advanced education and training of people of developing countries in such disciplines as are required for planning and implementation of public and private development activities;
   - **(7)** the National Bipartisan Commission on Central America has recommended a program of 10,000 United States Government-sponsored scholarships to bring Central American students to the United States, which program would involve careful targeting to encourage participation by young people from all social and economic classes, would maintain existing admission standards by providing intensive English and other training, and would encourage graduates to return to their home countries after completing their education; and
   - **(8)** it is also in the interest of the United States, as well as peaceful cooperation in the Western Hemisphere, that particular attention be given to the students of the Caribbean region.
+
+## Source Credit
+
+*([Pub. L. 99–93, title VI, § 602](https://www.govinfo.gov/link/plaw/99/public/93), Aug. 16, 1985, [99 Stat. 439](https://www.govinfo.gov/link/statute/99/439); [Pub. L. 103–199, title III, § 305](https://www.govinfo.gov/link/plaw/103/public/199), Dec. 17, 1993, [107 Stat. 2324](https://www.govinfo.gov/link/statute/107/2324).)*

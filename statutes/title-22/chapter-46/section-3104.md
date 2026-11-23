@@ -3,9 +3,10 @@ title: "Section 3104 - Rules and regulations"
 usc_title: 22
 usc_section: "3104"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3104"
-generated_at: "2026-03-30T02:55:05.390Z"
+generated_at: "2026-11-23T21:25:58.576Z"
+status: "active"
 ---
 
 # § 3104. Rules and regulations
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.390Z"
   - **(2)** for the purpose of a proceeding under subsection (e) of this section or under section 3105(b) or (c) of this title.
 - **(d)** The Bureau of the Census of the Department of Commerce is authorized, for purposes of augmenting and improving the quality of data collected by the Bureau of the Census, to have, upon written request, access to data relating to business enterprises that is collected directly by the Bureau of Economic Analysis for purposes of this chapter. The Bureau of Labor Statistics of the Department of Labor is authorized, for purposes of augmenting and improving the data collected by the Bureau of Labor Statistics, to have access, upon written request, to selected identification information on business enterprises and data on international services transactions, that is collected directly by the Bureau of Economic Analysis for purposes of this chapter. Officers and employees of the Bureau of the Census and the Bureau of Labor Statistics shall, for purposes of subsection (c), be deemed to be officials or employees designated to perform functions under this chapter.
 - **(e)** Any person who willfully violates subsection (c) or (d) shall, upon conviction, be fined not more than $10,000, in addition to any other penalty imposed by law.
+
+## Source Credit
+
+*([Pub. L. 94–472, § 5](https://www.govinfo.gov/link/plaw/94/public/472), Oct. 11, 1976, [90 Stat. 2062](https://www.govinfo.gov/link/statute/90/2062); [Pub. L. 98–573, title III, § 306(b)(5)](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 3010](https://www.govinfo.gov/link/statute/98/3010); [Pub. L. 101–533](https://www.govinfo.gov/link/plaw/101/public/533), §§ 6(d), (e), 7(a), Nov. 7, 1990, [104 Stat. 2349](https://www.govinfo.gov/link/statute/104/2349).)*

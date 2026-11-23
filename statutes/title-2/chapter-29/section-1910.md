@@ -3,9 +3,10 @@ title: "Section 1910 - Report of disbursements"
 usc_title: 2
 usc_section: "1910"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1910"
-generated_at: "2026-03-30T02:53:04.820Z"
+generated_at: "2026-11-23T21:25:21.257Z"
+status: "active"
 ---
 
 # § 1910. Report of disbursements
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:04.820Z"
   - **(4)** such additional information as may be required by regulation of the Committee on House Administration of the House of Representatives or the Committee on Rules and Administration of the Senate.
 - **(c)** Each report under this section shall be printed as a House document.
 - **(d)** This section shall apply with respect to the semiannual periods of October 1 through March 31 and April 1 through September 30 of each year, beginning with the semiannual period in which this section is enacted.
+
+## Source Credit
+
+*([Pub. L. 109–55, title I, § 1005](https://www.govinfo.gov/link/plaw/109/public/55), Aug. 2, 2005, [119 Stat. 575](https://www.govinfo.gov/link/statute/119/575).)*

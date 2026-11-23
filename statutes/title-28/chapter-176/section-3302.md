@@ -3,9 +3,10 @@ title: "Section 3302 - Insolvency"
 usc_title: 28
 usc_section: "3302"
 chapter: 176
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 3302"
-generated_at: "2026-03-30T02:55:30.153Z"
+generated_at: "2026-11-23T21:26:01.145Z"
+status: "active"
 ---
 
 # § 3302. Insolvency
@@ -17,3 +18,17 @@ generated_at: "2026-03-30T02:55:30.153Z"
   - **(2)** the sum of the excess of the value of each general partner’s non-partnership assets over the partner’s non-partnership debts.
 - **(d)** For purposes of this section, assets do not include property that is transferred, concealed, or removed with intent to hinder, delay, or defraud creditors or that has been transferred in a manner making the transfer voidable under this subchapter.
 - **(e)** For purposes of this section, debts do not include an obligation to the extent such obligation is secured by a valid lien on property of the debtor not included as an asset.
+
+In General
+
+Presumption
+
+Calculation
+
+Assets
+
+Debts
+
+## Source Credit
+
+*(Added [Pub. L. 101–647, title XXXVI, § 3611](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4961](https://www.govinfo.gov/link/statute/104/4961).)*

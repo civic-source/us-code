@@ -3,12 +3,17 @@ title: "Section 136 - Commutation of rations and other supplies; payment per cap
 usc_title: 25
 usc_section: "136"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 136"
-generated_at: "2026-03-30T02:54:52.798Z"
+generated_at: "2026-11-23T21:25:54.538Z"
+status: "active"
 ---
 
 # § 136. Commutation of rations and other supplies; payment per capita
 
 When, in the judgment of the Secretary of the Interior, any Indian tribe, or part thereof, who are receiving rations and clothing and other supplies under the Act of July 1, 1898 , chapter 545, are sufficiently advanced in civilization to purchase such rations and clothing and other supplies judiciously, they may commute the same and pay the value thereof in money per capita to such tribe or part thereof, the manner of such payment to be prescribed by the Secretary of the Interior.
 
+
+## Source Credit
+
+*(July 1, 1898, ch. 545, § 7, [30 Stat. 596](https://www.govinfo.gov/link/statute/30/596).)*

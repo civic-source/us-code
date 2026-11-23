@@ -3,9 +3,10 @@ title: "Section 47171 - Expedited, coordinated environmental review process"
 usc_title: 49
 usc_section: "47171"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 47171"
-generated_at: "2026-03-30T02:56:19.406Z"
+generated_at: "2026-11-23T21:26:40.990Z"
+status: "active"
 ---
 
 # § 47171. Expedited, coordinated environmental review process
@@ -181,3 +182,213 @@ generated_at: "2026-03-30T02:56:19.406Z"
     - **(C)** The term “NEPA process” means the entirety of the development and documentation of the analysis required under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.), including the assessment and analysis of any impacts, alternatives, and mitigation of a proposed action, and any interagency participation and public involvement required to be carried out before the Secretary undertakes a proposed action.
     - **(D)** The term “proposed action” means an action (within the meaning of the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.)) under this title that the Secretary proposes to carry out.
     - **(E)** The term “reporting period” means the fiscal year prior to the fiscal year in which a report is issued under subsection (a).
+
+Aviation Project Review Process
+
+Aviation Projects Subject to a Streamlined Environmental Review Process.—
+
+In general
+
+Project designation criteria.—
+
+In general
+
+Requirements
+
+Guidelines.—
+
+In general
+
+Consideration
+
+High Priority of and Agency Participation in Coordinated Reviews.—
+
+High priority for environmental reviews
+
+Agency participation
+
+Identification of Jurisdictional Agencies
+
+State Authority
+
+Memorandum of Understanding
+
+Use of Interagency Environmental Impact Statement Teams.—
+
+In general
+
+Responsibility of interagency environmental impact statement team
+
+Lead Agency Responsibility
+
+Effect of Failure To Meet Deadline.—
+
+Notification of congress and ceq
+
+Agency report
+
+Purpose and Need.—
+
+In general
+
+Deadline
+
+Assistance
+
+Alternatives Analysis
+
+Solicitation and Consideration of Comments
+
+Coordination and Schedule.—
+
+Coordination plan.—
+
+In general
+
+Cloud-based, interactive digital platforms
+
+Schedule.—
+
+In general
+
+Factors for consideration
+
+Maximum project schedule
+
+Dispute resolution.—
+
+In general
+
+Responsibilities
+
+(aa) implement the requirements of this section consistent with any dispute resolution process established in an applicable law, regulation, or legally binding agreement to the maximum extent permitted by law; and
+
+(bb) seek to resolve issues or disputes at the earliest possible time at the project level through agency employees who have day-to-day involvement in the project.
+
+Secretary responsibilities.—
+
+(aa) In general .— The Secretary shall make information available to each cooperating and participating agency and project sponsor as early as practicable in the environmental review regarding the environmental, historic, and socioeconomic resources located within the project area and the general locations of the alternatives under consideration.
+
+(bb) Sources of information .— The information described in item (aa) may be based on existing data sources, including geographic information systems mapping.
+
+Cooperating and participating agency responsibilities
+
+(aa) identify, as early as practicable, any issues of concern regarding any potential environmental impacts of the project, including any issues that could substantially delay or prevent an agency from completing any environmental review or authorization required for the project; and
+
+(bb) communicate any issues described in item (aa) to the project sponsor.
+
+Elevation for missed milestone
+
+Exception
+
+Further evaluation
+
+Consistency with other time periods
+
+Modification.—
+
+In general
+
+Limitations.—
+
+Lengthened schedule
+
+Shortened schedule
+
+Failure to meet deadline
+
+Dissemination
+
+Comment deadlines
+
+Deadlines for decisions under other laws
+
+Involvement of the public
+
+Concurrent Reviews and Single NEPA Document.—
+
+Concurrent reviews
+
+Single nepa document.—
+
+In general
+
+Use of document.—
+
+In general
+
+Cooperation of participating agencies
+
+Treatment as participating and cooperating agencies
+
+Exceptions
+
+Participating agency responsibilities
+
+Environmental Impact Statement.—
+
+In general
+
+Single document
+
+Length of environmental document.—
+
+In general
+
+Extraordinary complexity
+
+Integration of Planning and Environmental Review.—
+
+In general
+
+Identification
+
+Adoption or incorporation by reference of planning products
+
+Timing
+
+Conditions
+
+Effect of adoption or incorporation by reference
+
+Report on NEPA Data.—
+
+In general
+
+Time to complete
+
+Information described
+
+Definitions
+
+Environmental assessment
+
+Environmental impact statement
+
+NEPA process
+
+Proposed action
+
+Reporting period
+
+Categorical Exclusion for Projects of Limited Federal Assistance
+
+Categorical Exclusion in Emergencies
+
+Extraordinary Circumstances
+
+Rule of Construction
+
+Definitions
+
+Categorical exclusion
+
+Public-use airport; sponsor
+
+“Congress finds that—
+
+“Nothing in this subtitle [subtitle A (§§ 301–309) of title III of Pub. L. 108–176 , enacting this subchapter, amending sections 40104, 47106, and 47504 of this title, and enacting provisions set out as notes under this section], including any amendment made by this title [enacting this subchapter and amending sections 40104, 40128, 47106, 47503, and 47504 of this title], shall preempt or interfere with—
+
+## Source Credit
+
+*(Added [Pub. L. 108–176, title III, § 304(a)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2534](https://www.govinfo.gov/link/statute/117/2534); amended [Pub. L. 115–254, div. B, title I, § 191(a)](https://www.govinfo.gov/link/plaw/115/public/254), title V, § 539(q), Oct. 5, 2018, [132 Stat. 3238](https://www.govinfo.gov/link/statute/132/3238), 3371; [Pub. L. 118–63, title VII, § 783](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1302](https://www.govinfo.gov/link/statute/138/1302).)*

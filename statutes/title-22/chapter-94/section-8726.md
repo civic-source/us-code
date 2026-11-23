@@ -3,9 +3,10 @@ title: "Section 8726 - Reports on, and authorization of imposition of sanctions 
 usc_title: 22
 usc_section: "8726"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8726"
-generated_at: "2026-03-30T02:55:05.455Z"
+generated_at: "2026-11-23T21:25:58.751Z"
+status: "active"
 ---
 
 # § 8726. Reports on, and authorization of imposition of sanctions with respect to, the provision of specialized financial messaging services to the Central Bank of Iran and other sanctioned Iranian financial institutions
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:05.455Z"
         - **(II)** the differences between those groups of financial institutions do not adversely affect the national interest of the United States; and
     - **(B)** the person has, pursuant to that sanctions regime, terminated the knowing provision of such messaging services to, and the knowing enabling and facilitation of direct or indirect access to such messaging services for, the Central Bank of Iran and each Iranian financial institution identified under such governing foreign law for purposes of that sanctions regime.
 - **(d)** Nothing in this section shall be construed to limit the authority of the President pursuant to the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.) or the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 ( 22 U.S.C. 8501 et seq.).
+
+## Source Credit
+
+*([Pub. L. 112–158, title II, § 220](https://www.govinfo.gov/link/plaw/112/public/158), Aug. 10, 2012, [126 Stat. 1237](https://www.govinfo.gov/link/statute/126/1237).)*

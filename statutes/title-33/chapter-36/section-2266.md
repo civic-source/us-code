@@ -3,9 +3,10 @@ title: "Section 2266 - Canadian tidal power study"
 usc_title: 33
 usc_section: "2266"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2266"
-generated_at: "2026-03-30T02:55:41.117Z"
+generated_at: "2026-11-23T21:26:11.431Z"
+status: "active"
 ---
 
 # § 2266. Canadian tidal power study
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:41.117Z"
   - **(1)** Studies to be completed not later than October 1, 1988 , to (A) identify effects of any such projects on tidal ranges and resulting impacts to beaches and estuarine areas, and (B) identify further studies which would be needed to meet the requirements of paragraph (2) of this subsection; and
   - **(2)** Studies to be completed not later than October 1, 1990 , to (A) determine further environmental, social, economic, and institutional impacts of such tidal power development, and (B) determine what measures could be taken in Canada and the United States to offset or minimize any adverse impacts of such development on the United States.
 - **(c)** In the fiscal year ending September 30, 1987 , or in any fiscal year thereafter, there is authorized to be appropriated to the Secretary the sum of $1,100,000 for the purposes of subsection (b)(1) of this section, and the sum of $8,900,000 for the purposes of subsection (b)(2) of this section, such sums to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 99–662, title VII, § 724](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4163](https://www.govinfo.gov/link/statute/100/4163).)*

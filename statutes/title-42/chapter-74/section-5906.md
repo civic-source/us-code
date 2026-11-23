@@ -3,9 +3,10 @@ title: "Section 5906 - Federal assistance and participation in programs"
 usc_title: 42
 usc_section: "5906"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5906"
-generated_at: "2026-03-30T02:56:11.240Z"
+generated_at: "2026-11-23T21:26:32.838Z"
+status: "active"
 ---
 
 # § 5906. Federal assistance and participation in programs
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:11.240Z"
   - **(5)** The estimated amount of the Federal price support for a demonstration facility’s product over the life of such facility shall be determined by the Secretary to facilitate a single congressional authorization of the full amount of such support at the time of the designation of the successful bidders.
   - **(6)** No price support program shall be implemented unless previously authorized by specific legislation enacted by the Congress.
 - **(d)** Nothing in this section shall preclude Federal participation in, and support for, joint university-industry nonnuclear energy research efforts.
+
+## Source Credit
+
+*([Pub. L. 93–577, § 7](https://www.govinfo.gov/link/plaw/93/public/577), Dec. 31, 1974, [88 Stat. 1883](https://www.govinfo.gov/link/statute/88/1883); [Pub. L. 95–238, title II, § 207(a)](https://www.govinfo.gov/link/plaw/95/public/238), Feb. 25, 1978, [92 Stat. 61](https://www.govinfo.gov/link/statute/92/61); [Pub. L. 99–386, title I, § 104(a)](https://www.govinfo.gov/link/plaw/99/public/386), Aug. 22, 1986, [100 Stat. 821](https://www.govinfo.gov/link/statute/100/821); [Pub. L. 109–58, title X, § 1009(b)(5)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 935](https://www.govinfo.gov/link/statute/119/935).)*

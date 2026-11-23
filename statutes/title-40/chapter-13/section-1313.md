@@ -3,9 +3,10 @@ title: "Section 1313 - Releasing property from attachment"
 usc_title: 40
 usc_section: "1313"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 1313"
-generated_at: "2026-03-30T02:55:43.377Z"
+generated_at: "2026-11-23T21:26:14.845Z"
+status: "active"
 ---
 
 # § 1313. Releasing property from attachment
@@ -18,3 +19,39 @@ generated_at: "2026-03-30T02:55:43.377Z"
       - **(ii)** held, owned, or employed by the Government, or by a department of the Government, for a public use; or
     - **(B)** waive an objection to a proceeding brought to enforce the claim.
 - **(b)** After a discharge, a final judgment which affirms the claim for the security or satisfaction and the right of the person asserting the claim to enforce it against the property, notwithstanding the claims of the Government, is deemed to be a full and final determination of the rights of the person and entitles the person, as against the Government, to the rights the person would have had if possession of the property had not been changed. When the claim is for the payment of money found to be due, presentation of an authenticated copy of the record of the judgment and proceedings is sufficient evidence to the proper accounting officers for the allowance of the claim, which shall be allowed and paid out of amounts in the Treasury not otherwise appropriated. The amount allowed and paid shall not exceed the value of the interest of the Government in the property.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1313(a) | 40:308. | R.S. § 3753; Pub. L. 89–30, § 1(a) , June 2, 1965 , 79 Stat. 118 . |
+| 1313(b) | 40:309. | R.S. § 3754; Pub. L. 89–30, § 1(b) , June 2, 1965 , 79 Stat. 119 . |
+
+
+Stipulation of Discharge.—
+
+Person asserting claim entitled to benefits
+
+Nonapplication
+
+Payment
+
+Historical and Revision Notes
+
+1313(a)
+
+Pub. L. 89–30, § 1(a)
+
+June 2, 1965
+
+79 Stat. 118
+
+1313(b)
+
+Pub. L. 89–30, § 1(b)
+
+June 2, 1965
+
+79 Stat. 119
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1138](https://www.govinfo.gov/link/statute/116/1138).)*

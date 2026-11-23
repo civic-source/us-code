@@ -3,9 +3,10 @@ title: "Section 406 - General requirements for Federal assistance"
 usc_title: 23
 usc_section: "406"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 406"
-generated_at: "2026-03-30T02:55:12.571Z"
+generated_at: "2026-11-23T21:25:53.931Z"
+status: "active"
 ---
 
 # § 406. General requirements for Federal assistance
@@ -17,3 +18,21 @@ generated_at: "2026-03-30T02:55:12.571Z"
   - **(1)** To be eligible to receive a grant under this chapter, a State shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
   - **(2)** The Secretary shall establish a single deadline for the submission of applications under paragraph (1) to enable the provision of grants under this chapter early in each applicable fiscal year beginning after the date of submission.
 - **(e)** Not later than 60 days after the later of the start of a fiscal year or the date of enactment of any appropriations Act making funds available to carry out this chapter for that fiscal year, the Secretary shall distribute to each State the portion of those funds to which the State is entitled for the applicable fiscal year.
+
+Definition of Funded Project
+
+Regulatory Authority
+
+State Matching Requirements
+
+Grant Application and Deadline.—
+
+Applications
+
+Deadline
+
+Distribution of Funds to States
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. B, title IV, § 24101(d)(1)(B)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 784](https://www.govinfo.gov/link/statute/135/784).)*

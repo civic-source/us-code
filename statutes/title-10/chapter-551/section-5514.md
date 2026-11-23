@@ -3,9 +3,10 @@ title: "Section 5514 - Acquisition accountability on the missile defense system"
 usc_title: 10
 usc_section: "5514"
 chapter: 551
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 5514"
-generated_at: "2026-03-30T02:53:38.217Z"
+generated_at: "2026-11-23T21:25:32.807Z"
+status: "active"
 ---
 
 # § 5514. Acquisition accountability on the missile defense system
@@ -53,3 +54,15 @@ generated_at: "2026-03-30T02:53:38.217Z"
     - **(A)** a citation to the source (such as a joint cost estimate or one or more military department estimates) that captures the operations and sustainment costs for which a military department or other element of the Department of Defense is responsible;
     - **(B)** the date the source was prepared; and
     - **(C)** if and when the source was independently verified by the Office for Cost Assessment and Program Evaluation.
+
+Baselines Required
+
+Elements of Baselines
+
+Exception to Limitation on Revision
+
+Operations and Sustainment Cost Estimates
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title XVI, § 1649(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2191](https://www.govinfo.gov/link/statute/138/2191); amended [Pub. L. 119–60, div. A, title XVIII, § 1811(g)(5)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1243](https://www.govinfo.gov/link/statute/139/1243).)*

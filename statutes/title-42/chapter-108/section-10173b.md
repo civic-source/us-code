@@ -3,9 +3,10 @@ title: "Section 10173b - Review Panel"
 usc_title: 42
 usc_section: "10173b"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10173b"
-generated_at: "2026-03-30T02:56:11.383Z"
+generated_at: "2026-11-23T21:26:33.347Z"
+status: "active"
 ---
 
 # § 10173b. Review Panel
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.383Z"
   - **(5)** participate in the planning for and the review of preoperational data on environmental, demographic, and socioeconomic conditions of the site and the local community.
 - **(d)** The Secretary shall promptly 1 1 So in original. make available promptly 1 any information in the Secretary’s possession requested by the Panel or its Chairman.
 - **(e)** The requirements of chapter 10 of title 5 shall not apply to a Review Panel established under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 97–425, title I, § 172](https://www.govinfo.gov/link/plaw/97/public/425), as added [Pub. L. 100–202, § 101(d) [title III, § 300]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–104](https://www.govinfo.gov/link/statute/101/1329), 1329–121; [Pub. L. 100–203, title V, § 5031](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–239](https://www.govinfo.gov/link/statute/101/1330); amended [Pub. L. 117–286, § 4(a)(272)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4335](https://www.govinfo.gov/link/statute/136/4335).)*

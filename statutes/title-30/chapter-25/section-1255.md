@@ -3,12 +3,17 @@ title: "Section 1255 - State laws"
 usc_title: 30
 usc_section: "1255"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1255"
-generated_at: "2026-03-30T02:55:29.399Z"
+generated_at: "2026-11-23T21:26:00.425Z"
+status: "active"
 ---
 
 # § 1255. State laws
 
 - **(a)** No State law or regulation in effect on August 3, 1977 , or which may become effective thereafter, shall be superseded by any provision of this chapter or any regulation issued pursuant thereto, except insofar as such State law or regulation is inconsistent with the provisions of this chapter.
 - **(b)** Any provision of any State law or regulation in effect upon August 3, 1977 , or which may become effective thereafter, which provides for more stringent land use and environmental controls and regulations of surface coal mining and reclamation operation than do the provisions of this chapter or any regulation issued pursuant thereto shall not be construed to be inconsistent with this chapter. The Secretary shall set forth any State law or regulation which is construed to be inconsistent with this chapter. Any provision of any State law or regulation in effect on August 3, 1977 , or which may become effective thereafter, which provides for the control and regulation of surface mining and reclamation operations for which no provision is contained in this chapter shall not be construed to be inconsistent with this chapter.
+
+## Source Credit
+
+*([Pub. L. 95–87, title V, § 505](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 473](https://www.govinfo.gov/link/statute/91/473).)*

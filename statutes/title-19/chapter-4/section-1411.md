@@ -3,9 +3,10 @@ title: "Section 1411 - National Customs Automation Program"
 usc_title: 19
 usc_section: "1411"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1411"
-generated_at: "2026-03-30T02:54:24.634Z"
+generated_at: "2026-11-23T21:25:42.701Z"
+status: "active"
 ---
 
 # § 1411. National Customs Automation Program
@@ -59,3 +60,27 @@ generated_at: "2026-03-30T02:54:24.634Z"
   - **(6)** It is the sense of Congress that agency participation in the ITDS is an important priority of the Federal Government and that the Secretary shall coordinate the operation of the ITDS closely among the participating agencies and the office within the United States Customs and Border Protection that is responsible for maintaining the ITDS.
   - **(7)** Nothing in this section shall be construed as amending or modifying subsection (g) of section 301 of title 13 .
   - **(8)** The term “Commercial Operations Advisory Committee” means the Advisory Committee established pursuant to section 4316 of this title or any successor committee.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Barack Obama.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 411, as added [Pub. L. 103–182, title VI, § 631(2)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2188](https://www.govinfo.gov/link/statute/107/2188); amended [Pub. L. 106–36, title II, § 2405](https://www.govinfo.gov/link/plaw/106/public/36), June 25, 1999, [113 Stat. 169](https://www.govinfo.gov/link/statute/113/169); [Pub. L. 107–210, div. A, title III, § 338](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 980](https://www.govinfo.gov/link/statute/116/980); [Pub. L. 109–347, title IV, § 405](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1929](https://www.govinfo.gov/link/statute/120/1929); [Pub. L. 114–125, title I, § 107](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 135](https://www.govinfo.gov/link/statute/130/135).)*

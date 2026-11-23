@@ -3,12 +3,17 @@ title: "Section 402 - Leases of surplus lands"
 usc_title: 25
 usc_section: "402"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 402"
-generated_at: "2026-03-30T02:54:52.807Z"
+generated_at: "2026-11-23T21:25:54.573Z"
+status: "active"
 ---
 
 # § 402. Leases of surplus lands
 
 The surplus lands of any tribe may be leased for farming purposes by the council of such tribe under the same rules and regulations and for the same term of years as was on August 15, 1894 , allowed in the case of leases for grazing purposes.
 
+
+## Source Credit
+
+*(Aug. 15, 1894, ch. 290, § 1, [28 Stat. 305](https://www.govinfo.gov/link/statute/28/305).)*

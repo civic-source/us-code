@@ -3,9 +3,10 @@ title: "Section 3902 - Appointment of Inspector General; supervision; removal; p
 usc_title: 44
 usc_section: "3902"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 3902"
-generated_at: "2026-03-30T02:55:56.300Z"
+generated_at: "2026-11-23T21:26:18.446Z"
+status: "active"
 ---
 
 # § 3902. Appointment of Inspector General; supervision; removal; pay; limits on bonuses; counsel
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:56.300Z"
   - **(2)** The Director of the Government Publishing Office shall establish the amount of the annual adjustment in the rate of basic pay for the Inspector General in an amount equal to the average of the annual adjustments in the rate of basic pay provided to all other senior level employees of the Government Publishing Office, consistent with this title.
 - **(d)** The Inspector General may not receive any cash award or cash bonus, including a cash award under chapter 45 of title 5.
 - **(e)** The Inspector General shall, in accordance with applicable laws and regulations governing selections, appointments, and employment at the Government Publishing Office, obtain legal advice from a counsel reporting directly to the Inspector General or another Inspector General.
+
+## Source Credit
+
+*(Added [Pub. L. 100–504, title II, § 202](https://www.govinfo.gov/link/plaw/100/public/504), Oct. 18, 1988, [102 Stat. 2530](https://www.govinfo.gov/link/statute/102/2530); amended [Pub. L. 113–235, div. H, title I, § 1301(c)(1)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537); [Pub. L. 116–94, div. P, title XVI, § 1602(c)(1)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3211](https://www.govinfo.gov/link/statute/133/3211).)*

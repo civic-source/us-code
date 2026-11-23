@@ -3,9 +3,10 @@ title: "Section 1501 - Cost Accounting Standards Board"
 usc_title: 41
 usc_section: "1501"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 1501"
-generated_at: "2026-03-30T02:55:55.801Z"
+generated_at: "2026-11-23T21:26:18.781Z"
+status: "active"
 ---
 
 # § 1501. Cost Accounting Standards Board
@@ -51,3 +52,83 @@ generated_at: "2026-03-30T02:55:55.801Z"
   - **(3)** An individual hired under subsection (h)(2) may receive compensation at a rate fixed by the Administrator, but not to exceed the daily equivalent of the rate for level V of the Executive Schedule for each day (including travel time) in which the individual is properly engaged in the actual performance of duties under this chapter.
   - **(4)** While serving away from home or regular place of business, Board members and other individuals serving on an intermittent basis under this chapter shall be allowed travel expenses in accordance with section 5703 of title 5 .
 - **(j)** In this section, the term “covered contract” means a contract that is subject to the cost accounting standards issued pursuant to section 1502 of this title .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1501(a) | 41:422(a)(1) (1st sentence). | Pub. L. 93–400, § 26(a) –(e), as added Pub. L. 100–679, § 5(a) , Nov. 17, 1988 , 102 Stat. 4058 . |
+| 1501(b) | 41:422(a)(1) (last sentence), (2). |  |
+| 1501(c) | 41:422(b). |  |
+| 1501(d) | 41:422(c). |  |
+| 1501(e) | 41:422(d). |  |
+| 1501(f) | 41:422(e). |  |
+
+
+Organization
+
+Membership.—
+
+Members, chairman, and appointment
+
+Voting members
+
+Nonvoting members
+
+Term of office.—
+
+Length of term
+
+Individual required to remain with appointing agency
+
+Vacancy
+
+Ineligibility
+
+Duties
+
+Meetings
+
+Report
+
+Senior Staff
+
+Other Staff
+
+Detailed and Temporary Personnel
+
+Compensation.—
+
+Officers and employees of the government
+
+Appointees from private sector
+
+Temporary and intermittent personnel
+
+Travel expenses
+
+Covered Contract Defined
+
+Historical and Revision Notes
+
+1501(a)
+
+Pub. L. 93–400, § 26(a)
+
+Pub. L. 100–679, § 5(a)
+
+Nov. 17, 1988
+
+102 Stat. 4058
+
+1501(b)
+
+1501(c)
+
+1501(d)
+
+1501(e)
+
+1501(f)
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3695](https://www.govinfo.gov/link/statute/124/3695); [Pub. L. 114–328, div. A, title VIII, § 820(a)(1)](https://www.govinfo.gov/link/plaw/114/public/328), (3), Dec. 23, 2016, [130 Stat. 2273](https://www.govinfo.gov/link/statute/130/2273), 2274; [Pub. L. 119–60, div. A, title XVIII, § 1806(b)(1)](https://www.govinfo.gov/link/plaw/119/public/60) –(6), Dec. 18, 2025, [139 Stat. 1237–1239](https://www.govinfo.gov/link/statute/139/1237).)*

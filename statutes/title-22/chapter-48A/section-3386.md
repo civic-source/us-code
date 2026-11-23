@@ -3,9 +3,10 @@ title: "Section 3386 - Taiwan fellows on detail from Government service"
 usc_title: 22
 usc_section: "3386"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3386"
-generated_at: "2026-03-30T02:55:05.393Z"
+generated_at: "2026-11-23T21:25:58.586Z"
+status: "active"
 ---
 
 # § 3386. Taiwan fellows on detail from Government service
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:05.393Z"
 - **(d)** The American Institute in Taiwan, the implementing partner, and Taiwan or non-public sector entities in Taiwan at which a fellow is detailed during the second year of the fellowship may not be held responsible for the pay, allowances, or any other benefit normally provided to the detailee.
 - **(e)** Fellows may be detailed under subsection (a)(1) without reimbursement to the United States by the American Institute in Taiwan.
 - **(f)** Detailees may be paid by the American Institute in Taiwan for the allowances and benefits listed in subsection (c).
+
+## Source Credit
+
+*([Pub. L. 117–263, div. E, title LV, § 5532](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3330](https://www.govinfo.gov/link/statute/136/3330).)*

@@ -3,9 +3,10 @@ title: "Section 5064 - Losses resulting from disaster, vandalism, or malicious m
 usc_title: 26
 usc_section: "5064"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5064"
-generated_at: "2026-03-30T02:55:27.819Z"
+generated_at: "2026-11-23T21:26:06.697Z"
+status: "active"
 ---
 
 # § 5064. Losses resulting from disaster, vandalism, or malicious mischief
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:27.819Z"
 - **(c)** When the Secretary has made payment under this section in respect of the tax, or tax and duty, on the distilled spirits, wines, or beer condemned by a duly authorized official or rendered unmarketable, such distilled spirits, wines, or beer shall be destroyed under such supervision as the Secretary may prescribe, unless such distilled spirits, wines, or beer were previously destroyed under supervision satisfactory to the Secretary.
 - **(d)** The provisions of this section shall not be applicable in respect of distilled spirits, wines, and beer of Puerto Rican manufacture brought into the United States and so lost or rendered unmarketable or condemned.
 - **(e)** All provisions of law, including penalties, applicable in respect of internal revenue taxes on distilled spirits, wines, and beer shall, insofar as applicable and not inconsistent with this section, be applied in respect of the payments provided for in this section to the same extent as if such payments constituted refunds of such taxes.
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1337](https://www.govinfo.gov/link/statute/72/1337); amended [Pub. L. 91–606, title III, § 301(i)](https://www.govinfo.gov/link/plaw/91/public/606), Dec. 31, 1970, [84 Stat. 1759](https://www.govinfo.gov/link/statute/84/1759); [Pub. L. 93–288, title VII, § 702(i)](https://www.govinfo.gov/link/plaw/93/public/288), formerly title VI, § 602(i), May 22, 1974, [88 Stat. 164](https://www.govinfo.gov/link/statute/88/164), renumbered title VII, § 702(i), [Pub. L. 103–337, div. C, title XXXIV, § 3411(a)(1)](https://www.govinfo.gov/link/plaw/103/public/337), (2), Oct. 5, 1994, [108 Stat. 3100](https://www.govinfo.gov/link/statute/108/3100); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 95–423, § 1(a)](https://www.govinfo.gov/link/plaw/95/public/423), Oct. 6, 1978, [92 Stat. 935](https://www.govinfo.gov/link/statute/92/935); [Pub. L. 96–39, title VIII, § 807(a)(10)](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 282](https://www.govinfo.gov/link/statute/93/282); [Pub. L. 100–707, title I, § 109](https://www.govinfo.gov/link/plaw/100/public/707) (l), Nov. 23, 1988, [102 Stat. 4709](https://www.govinfo.gov/link/statute/102/4709); [Pub. L. 108–311, title IV, § 408(a)(7)(D)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1191](https://www.govinfo.gov/link/statute/118/1191).)*

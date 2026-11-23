@@ -3,9 +3,10 @@ title: "Section 3512 - Treatment of certain persons as employers with respect to
 usc_title: 26
 usc_section: "3512"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 3512"
-generated_at: "2026-03-30T02:55:27.797Z"
+generated_at: "2026-11-23T21:26:06.588Z"
+status: "active"
 ---
 
 # § 3512. Treatment of certain persons as employers with respect to motion picture projects
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:27.797Z"
   - **(2)** The term “motion picture project worker” means any individual who provides services on motion picture projects for clients who are not affiliated with the motion picture project employer.
   - **(3)** The term “motion picture project” means the production of any property described in section 168(f)(3). Such term does not include property with respect to which records are required to be maintained under section 2257 of title 18 , United States Code.
   - **(4)** A person shall be treated as an affiliate of, or affiliated with, another person if such persons are treated as a single employer under subsection (b) or (c) of section 414.
+
+## Source Credit
+
+*(Added [Pub. L. 114–113, div. Q, title III, § 346(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3115](https://www.govinfo.gov/link/statute/129/3115).)*

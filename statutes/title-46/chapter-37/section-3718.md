@@ -3,9 +3,10 @@ title: "Section 3718 - Penalties"
 usc_title: 46
 usc_section: "3718"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 3718"
-generated_at: "2026-03-30T02:56:15.545Z"
+generated_at: "2026-11-23T21:26:37.059Z"
+status: "active"
 ---
 
 # § 3718. Penalties
@@ -19,3 +20,16 @@ generated_at: "2026-03-30T02:56:15.545Z"
 - **(e)**
   - **(1)** If any owner, operator, or individual in charge of a vessel is liable for any penalty or fine under this section, or if reasonable cause exists to believe that the owner, operator, or individual in charge may be subject to any penalty or fine under this section, the Secretary of Homeland Security, upon the request of the Secretary, shall with respect to such vessel refuse or revoke any clearance required by section 60105 of this title .
   - **(2)** Clearance or a permit refused or revoked under this subsection may be granted upon filing of a bond or other surety satisfactory to the Secretary.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 3718 | 46:391a(14) |
+
+
+Historical and Revision Notes
+
+3718
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 527](https://www.govinfo.gov/link/statute/97/527); [Pub. L. 101–380, title IV, § 4302(c)](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 538](https://www.govinfo.gov/link/statute/104/538); [Pub. L. 104–324, title III, § 312(d)](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3921](https://www.govinfo.gov/link/statute/110/3921); [Pub. L. 109–304, § 15(17)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1703](https://www.govinfo.gov/link/statute/120/1703).)*

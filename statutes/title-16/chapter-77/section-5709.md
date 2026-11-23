@@ -3,9 +3,10 @@ title: "Section 5709 - Authorization of appropriations"
 usc_title: 16
 usc_section: "5709"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 5709"
-generated_at: "2026-03-30T02:54:23.054Z"
+generated_at: "2026-11-23T21:25:52.033Z"
+status: "active"
 ---
 
 # § 5709. Authorization of appropriations
@@ -16,3 +17,7 @@ There are authorized to be appropriated $4,000,000 for each fiscal year for carr
   - **(2)** the United States share of the joint expenses of the Panel and the Joint Technical Committee: Provided , That Panel members and alternate Panel members shall not, with respect to commitments concerning the United States share of the joint expenses, be subject to section 262(b) 1 1 So in original. Probably should be section “262b”. of title 22, insofar as it limits the authority of United States representatives to international organizations with respect to such commitments;
   - **(3)** not more than $3,000,000 for each fiscal year to the Department of the Interior and to the Department of Commerce for survey, restoration, and enhancement activities related to Yukon River salmon; and
   - **(4)** $400,000 in each of fiscal years 1996, 1997, 1998, and 1999 to be contributed to the Yukon River Restoration and Enhancement Fund and used in accordance with the Agreement.
+
+## Source Credit
+
+*([Pub. L. 104–43, title VII, § 710](https://www.govinfo.gov/link/plaw/104/public/43), Nov. 3, 1995, [109 Stat. 395](https://www.govinfo.gov/link/statute/109/395).)*

@@ -3,9 +3,10 @@ title: "Section 2055 - Transfers for public, charitable, and religious uses"
 usc_title: 26
 usc_section: "2055"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 2055"
-generated_at: "2026-03-30T02:55:27.781Z"
+generated_at: "2026-11-23T21:26:06.529Z"
+status: "active"
 ---
 
 # § 2055. Transfers for public, charitable, and religious uses
@@ -76,3 +77,73 @@ generated_at: "2026-03-30T02:55:27.781Z"
   - **(10)** For treatment of gifts and bequests for benefit of the Naval Academy Museum as gifts or bequests to or for the use of the United States, see section 8474 of title 10 , United States Code.
   - **(11)** For exemption of gifts and bequests received by National Archives Trust Fund Board, see section 2308 of title 44 , United States Code.
   - **(12)** For treatment of gifts and bequests to or for the use of Indian tribal governments (or their subdivisions), see section 7871.
+
+Reformations to comply with paragraph (2).—
+
+In general
+
+Qualified reformation
+
+Reformable interest
+
+In general
+
+Beneficiary’s interest must be fixed
+
+Special rule where timely commencement of reformation
+
+Special rule for will executed before january 1, 1979 , etc
+
+Qualified interest
+
+Limitation
+
+Special rule where income beneficiary dies
+
+Statute of limitations
+
+Regulations
+
+Reformations permitted in case of remainder interests in residence or farm, pooled income funds, etc
+
+Void or reformed trust in cases of insufficient remainder interests
+
+Works of art and their copyrights treated as separate properties in certain cases.—
+
+In general
+
+Work of art defined
+
+Qualified contribution defined
+
+Qualified organization defined
+
+Contributions to donor advised funds
+
+In general
+
+Definitions
+
+Additional contribution
+
+Initial fractional contribution
+
+Subsections
+
+and
+
+Subsection
+
+Statute of limitations.—
+
+In general
+
+No interest where statute closed on date of enactment
+
+For subsection
+
+For subsection
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 390; Aug. 6, 1956, ch. 1020, § 1, [70 Stat. 1075](https://www.govinfo.gov/link/statute/70/1075); [Pub. L. 85–866, title I, § 30(d)](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1631](https://www.govinfo.gov/link/statute/72/1631); [Pub. L. 91–172, title II, § 201(d)(1)](https://www.govinfo.gov/link/plaw/91/public/172), (4)(A), Dec. 30, 1969, [83 Stat. 560](https://www.govinfo.gov/link/statute/83/560), 561; [Pub. L. 91–614, title I, § 101(c)](https://www.govinfo.gov/link/plaw/91/public/614), Dec. 31, 1970, [84 Stat. 1836](https://www.govinfo.gov/link/statute/84/1836); [Pub. L. 93–483, § 3(a)](https://www.govinfo.gov/link/plaw/93/public/483), Oct. 26, 1974, [88 Stat. 1457](https://www.govinfo.gov/link/statute/88/1457); [Pub. L. 94–455, title XIII](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1304(a), 1307(d)(1)(B)(ii), (C), 1313(b)(2), title XIX, §§ 1902(a)(4), (12)(A), 1906(b)(13)(A), title XX, § 2009(b)(4)(B), (C), title XXI, § 2124(e)(2), Oct. 4, 1976, [90 Stat. 1715](https://www.govinfo.gov/link/statute/90/1715), 1727, 1730, 1804, 1805, 1834, 1894, 1919; [Pub. L. 95–600, title V, § 514(a)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2883](https://www.govinfo.gov/link/statute/92/2883); [Pub. L. 96–222, title I, § 105(a)(4)(A)](https://www.govinfo.gov/link/plaw/96/public/222), Apr. 1, 1980, [94 Stat. 219](https://www.govinfo.gov/link/statute/94/219); [Pub. L. 96–465, title II, § 2206(e)(4)](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2163](https://www.govinfo.gov/link/statute/94/2163); [Pub. L. 96–605, title III, § 301(a)](https://www.govinfo.gov/link/plaw/96/public/605), Dec. 28, 1980, [94 Stat. 3530](https://www.govinfo.gov/link/statute/94/3530); [Pub. L. 97–34, title IV, § 423(a)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 316](https://www.govinfo.gov/link/statute/95/316); [Pub. L. 97–248, title II, § 286(b)(2)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 570](https://www.govinfo.gov/link/statute/96/570); [Pub. L. 97–258, § 3(f)(1)](https://www.govinfo.gov/link/plaw/97/public/258), (2), Sept. 13, 1982, [96 Stat. 1064](https://www.govinfo.gov/link/statute/96/1064); [Pub. L. 97–473, title II, § 202(b)(5)](https://www.govinfo.gov/link/plaw/97/public/473), Jan. 14, 1983, [96 Stat. 2610](https://www.govinfo.gov/link/statute/96/2610); [Pub. L. 98–369, div. A, title X](https://www.govinfo.gov/link/plaw/98/public/369), §§ 1022(a), 1032(b)(2), July 18, 1984, [98 Stat. 1026](https://www.govinfo.gov/link/statute/98/1026), 1033; [Pub. L. 99–514, title XIV, § 1422(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2716](https://www.govinfo.gov/link/statute/100/2716); [Pub. L. 100–203, title X, § 10711(a)(3)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–464](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 104–201, div. A, title X, § 1073(b)(3)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2657](https://www.govinfo.gov/link/statute/110/2657); [Pub. L. 105–34, title X, § 1089(b)(3)](https://www.govinfo.gov/link/plaw/105/public/34), (5), title XV, § 1530(c)(7), Aug. 5, 1997, [111 Stat. 960](https://www.govinfo.gov/link/statute/111/960), 961, 1078; [Pub. L. 109–280, title XII](https://www.govinfo.gov/link/plaw/109/public/280), §§ 1218(b), 1234(b), Aug. 17, 2006, [120 Stat. 1081](https://www.govinfo.gov/link/statute/120/1081), 1100; [Pub. L. 110–172, § 3(d)(1)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2474](https://www.govinfo.gov/link/statute/121/2474); [Pub. L. 115–141, div. U, title IV, § 401(a)(202)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1193](https://www.govinfo.gov/link/statute/132/1193); [Pub. L. 115–232, div. A, title VIII, § 809(h)(2)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1842](https://www.govinfo.gov/link/statute/132/1842).)*

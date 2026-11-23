@@ -3,9 +3,10 @@ title: "Section 7201 - Definitions"
 usc_title: 22
 usc_section: "7201"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7201"
-generated_at: "2026-03-30T02:55:05.438Z"
+generated_at: "2026-11-23T21:25:58.713Z"
+status: "active"
 ---
 
 # § 7201. Definitions
@@ -30,3 +31,11 @@ In this chapter:
   - **(7)** The term “unilateral medical sanction” means any prohibition, restriction, or condition on exports of, or the provision of assistance consisting of, medicine or a medical device with respect to a foreign country or foreign entity that is imposed by the United States for reasons of foreign policy or national security, except in a case in which the United States imposes the measure pursuant to—
     - **(A)** a multilateral regime and the other member countries of that regime have agreed to impose substantially equivalent measures; or
     - **(B)** a mandatory decision of the United Nations Security Council.
+
+In General
+
+Existing Sanctions
+
+## Source Credit
+
+*([Pub. L. 106–387, § 1(a) [title IX, § 902]](https://www.govinfo.gov/link/plaw/106/public/387), Oct. 28, 2000, [114 Stat. 1549](https://www.govinfo.gov/link/statute/114/1549), 1549A–67; [Pub. L. 110–246, title III, § 3001(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/246), (2)(X), June 18, 2008, [122 Stat. 1820](https://www.govinfo.gov/link/statute/122/1820), 1821; [Pub. L. 113–79, title I, § 1423(b)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 695](https://www.govinfo.gov/link/statute/128/695).)*

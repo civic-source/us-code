@@ -3,9 +3,10 @@ title: "Section 7231j - Authorization of appropriations; reservation"
 usc_title: 20
 usc_section: "7231j"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7231j"
-generated_at: "2026-03-30T02:54:48.208Z"
+generated_at: "2026-11-23T21:25:47.565Z"
+status: "active"
 ---
 
 # § 7231j. Authorization of appropriations; reservation
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:48.208Z"
   - **(4)** $108,530,379 for fiscal year 2020.
 - **(b)** The Secretary may reserve not more than 1 percent of the funds appropriated under subsection (a) for any fiscal year to provide technical assistance and share best practices with respect to magnet school programs assisted under this part.
 - **(c)** In any fiscal year for which the amount appropriated pursuant to subsection (a) exceeds $75,000,000, the Secretary shall give priority in using such amounts in excess of $75,000,000 to awarding grants to local educational agencies or consortia of such agencies that did not receive a grant under this part in the preceding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4409](https://www.govinfo.gov/link/plaw/89/public/10), formerly title V, § 5311, as added [Pub. L. 107–110, title V, § 501](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1810](https://www.govinfo.gov/link/statute/115/1810); renumbered title IV, § 4409, and amended [Pub. L. 114–95, title IV](https://www.govinfo.gov/link/plaw/114/public/95), §§ 4001(b)(3)(A), (B), (D)(iii), 4401(6), Dec. 10, 2015, [129 Stat. 1967](https://www.govinfo.gov/link/statute/129/1967), 2015.)*

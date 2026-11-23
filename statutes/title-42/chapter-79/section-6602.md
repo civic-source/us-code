@@ -3,9 +3,10 @@ title: "Section 6602 - Congressional declaration of policy"
 usc_title: 42
 usc_section: "6602"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6602"
-generated_at: "2026-03-30T02:56:11.262Z"
+generated_at: "2026-11-23T21:26:32.962Z"
+status: "active"
 ---
 
 # § 6602. Congressional declaration of policy
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:11.262Z"
   - **(8)** Formal recognition should be accorded those persons whose scientific and technological achievements have contributed significantly to the national welfare.
   - **(9)** The Federal Government should support applied scientific research, when appropriate, in proportion to the probability of its usefulness, insofar as this probability can be determined; but while maximizing the beneficial consequences of technology, the Government should act to minimize foreseeable injurious consequences.
   - **(10)** Federal departments, agencies, and instrumentalities should establish procedures to insure among them the systematic interchange of scientific data and technological findings developed under their programs.
+
+## Source Credit
+
+*([Pub. L. 94–282, title I, § 102](https://www.govinfo.gov/link/plaw/94/public/282), May 11, 1976, [90 Stat. 460](https://www.govinfo.gov/link/statute/90/460).)*

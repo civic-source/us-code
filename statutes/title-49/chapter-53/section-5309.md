@@ -3,9 +3,10 @@ title: "Section 5309 - Fixed guideway capital investment grants"
 usc_title: 49
 usc_section: "5309"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 5309"
-generated_at: "2026-03-30T02:56:19.312Z"
+generated_at: "2026-11-23T21:26:40.634Z"
+status: "active"
 ---
 
 # § 5309. Fixed guideway capital investment grants
@@ -334,3 +335,1040 @@ generated_at: "2026-03-30T02:56:19.312Z"
     - **(O)** Date on which a project grant agreement is anticipated to be executed.
   - **(2)** The Secretary shall update the information provided under paragraph (1) not less frequently than monthly.
   - **(3)** The Secretary shall continue to make profiles for projects that have applied for or are receiving assistance under this section publicly available in an easily identifiable location on the website of the Department of Transportation, in the same manner as the Secretary did as of the day before the date of enactment of this subsection.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5309(a) (1)–(5) | 49 App.:1602(a)(1)(A). | July 9, 1964 , Pub. L. 88–365, § 3(a)(1)(A) , 78 Stat. 303 ; May 25, 1967 , Pub. L. 90–19, § 20(a) , 81 Stat. 25 ; Oct. 15, 1970 , Pub. L. 91–453, § 2(2) , 84 Stat. 962 ; Nov. 26, 1974 , Pub. L. 93–503 , §§ 102, 104, 106, 88 Stat. 1566 , 1571, 1572; Nov. 6, 1978 , Pub. L. 95–599, § 302(a) , 92 Stat. 2735 ; Jan. 6, 1983 , Pub. L. 97–424, § 313 , 96 Stat. 2152 . |
+|  | 49 App.:1602(a)(1)(B), (C), (D) (1st, 3d sentences). | July 9, 1964 , Pub. L. 88–365, § 3(a)(1)(B) –(D), (2)(B), (3), 78 Stat. 303 ; May 25, 1967 , Pub. L. 90–19, § 20(a) , 81 Stat. 25 ; Oct. 15, 1970 , Pub. L. 91–453, § 2(2) , 84 Stat. 962 ; Nov. 26, 1974 , Pub. L. 93–503 , §§ 102, 104, 106, 88 Stat. 1566 , 1571, 1572; restated Nov. 6, 1978 , Pub. L. 95–599, § 302(a) , 92 Stat. 2735 , 2736. |
+| 5309(a)(6) | 49 App.:1602(a)(1)(E). | July 9, 1964 , Pub. L. 88–365, § 3(a)(1)(E) , 78 Stat. 303 ; May 25, 1967 , Pub. L. 90–19, § 20(a) , 81 Stat. 25 ; Oct. 15, 1970 , Pub. L. 91–453, § 2(2) , 84 Stat. 962 ; Nov. 26, 1974 , Pub. L. 93–503 , §§ 102, 104, 106, 88 Stat. 1566 , 1571, 1572; Nov. 6, 1978 , Pub. L. 95–599, § 302(a) , 92 Stat. 2736 ; restated Dec. 18, 1991 , Pub. L. 102–240, § 3006(a) , 105 Stat. 2089 . |
+| 5309(a)(7) | 49 App.:1602(a)(1)(F). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 3(a)(1)(F); added Dec. 18, 1991 , Pub. L. 102–240, § 3006(b) , 105 Stat. 2089 . |
+| 5309(b)(1) | 49 App.:1602(b) (1st sentence). | July 9, 1964 , Pub. L. 88–365, § 3(b) , 78 Stat. 303 ; May 25, 1967 , Pub. L. 90–19, § 20(a) , 81 Stat. 25 ; restated Oct. 15, 1970 , Pub. L. 91–453, § 2(2) , 84 Stat. 963 ; Nov. 6, 1978 , Pub. L. 95–599, § 302(b) , 92 Stat. 2737 . |
+| 5309(b)(2) | 49 App.:1602(a)(2)(B). |  |
+| 5309(b)(3) | 49 App.:1602(b) (8th, last sentences). |  |
+| 5309(b)(4), (5) | 49 App.:1602(b) (2d–6th sentences). |  |
+| 5309(c) | 49 App.:1602(a)(5). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 3(a)(5); added Jan. 6, 1983 , Pub. L. 97–424, § 304(b) , 96 Stat. 2149 . |
+| 5309(d) | 49 App.:1602(a)(2)(A). | July 9, 1964 , Pub. L. 88–365, § 3(a)(2)(A) , 78 Stat. 303 ; May 25, 1967 , Pub. L. 90–19, § 20(a) , 81 Stat. 25 ; Oct. 15, 1970 , Pub. L. 91–453, § 2(2) , 84 Stat. 962 ; Nov. 26, 1974 , Pub. L. 93–503 , §§ 102, 104, 106, 88 Stat. 1566 , 1571, 1572; Nov. 6, 1978 , Pub. L. 95–599, § 302(a) , 92 Stat. 2736 ; Jan. 6, 1983 , Pub. L. 97–424, § 304(a) , 96 Stat. 2149 ; restated Apr. 2, 1987 , Pub. L. 100–17, § 309(e) , 101 Stat. 227 . |
+|  | 49 App.:1602(a)(3). |  |
+| 5309(e)(1) | 49 App.:1602 (note). | Apr. 2, 1987 , Pub. L. 100–17, § 303(b) , 101 Stat. 223 . |
+| 5309(e) (2)–(7) | 49 App.:1602(i). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 3(i); added Apr. 2, 1987 , Pub. L. 100–17, § 303(a) , 101 Stat. 223 ; restated Dec. 18, 1991 , Pub. L. 102–240, § 3010 , 105 Stat. 2093 . |
+| 5309(f)(1) | 49 App.:1602(a)(1)(D) (last sentence). |  |
+| 5309(f)(2) | 49 App.:1602(a)(1)(D) (2d sentence). |  |
+| 5309(g) | 49 App.:1602(a)(4). | July 9, 1964 , Pub. L. 88–365, § 3(a)(4) , 78 Stat. 303 ; May 25, 1967 , Pub. L. 90–19, § 20(a) , 81 Stat. 25 ; Oct. 15, 1970 , Pub. L. 91–453, § 2(2) , 84 Stat. 962 ; Nov. 26, 1974 , Pub. L. 93–503 , §§ 102, 104, 106, 88 Stat. 1566 , 1571, 1572; restated Nov. 6, 1978 , Pub. L. 95–599, § 302(a) , 92 Stat. 2736 ; Jan. 6, 1983 , Pub. L. 97–424, § 305 , 96 Stat. 2150 ; Apr. 2, 1987 , Pub. L. 100–17, § 302 , 101 Stat. 223 ; Dec. 18, 1991 , Pub. L. 102–240, § 3007 , 105 Stat. 2090 . |
+| 5309(h) | 49 App.:1603(a). | July 9, 1964 , Pub. L. 88–365, § 4(a) , 78 Stat. 304 ; May 25, 1967 , Pub. L. 90–19, § 20(a) , 81 Stat. 25 ; Aug. 1, 1968 , Pub. L. 90–448, § 704(a) , 82 Stat. 535 ; Oct. 15, 1970 , Pub. L. 91–453, § 3(a) , 84 Stat. 965 ; Aug. 13, 1973 , Pub. L. 93–87, § 301(a) , 87 Stat. 295 ; Nov. 26, 1974 , Pub. L. 93–503, § 103(b) , 88 Stat. 1571 ; Nov. 6, 1978 , Pub. L. 95–599, § 303(b) , 92 Stat. 2737 ; Jan. 6, 1983 , Pub. L. 97–424, § 302(b) , 96 Stat. 2141 ; Dec. 18, 1991 , Pub. L. 102–240, § 3006(f) , (g), 105 Stat. 2089 . |
+| 5309(i) | 49 App.:1602(c) (2d, last sentences). | July 9, 1964 , Pub. L. 88–365, § 3(c) , 78 Stat. 303 ; May 25, 1967 , Pub. L. 90–19, § 20(a) , 81 Stat. 25 ; restated Oct. 15, 1970 , Pub. L. 91–453, § 2(2) , 84 Stat. 964 . |
+| 5309(j) | 49 App.:1602(b) (7th sentence). |  |
+| 5309(k) | 49 App.:1602(c) (1st sentence). |  |
+| 5309( l ) | 49 App.:1603(d). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 4(d); added Dec. 18, 1991 , Pub. L. 102–240, § 3006(h)(2) , 105 Stat. 2090 . |
+| 5309(m)(1) | 49 App.:1602(k)(1). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 3(k)(1); added Apr. 2, 1987 , Pub. L. 100–17, § 305 , 101 Stat. 224 ; restated Dec. 18, 1991 , Pub. L. 102–240, § 3006(d)(1) , 105 Stat. 2089 . |
+| 5309(m)(2) | 49 App.:1602(k)(3). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 3(k)(3); added Dec. 18, 1991 , Pub. L. 102–240, § 3006(d)(2) , 105 Stat. 2089 . |
+| 5309(m)(3) | 49 App.:1602(j). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 3(j); added Apr. 2, 1987 , Pub. L. 100–17, § 304 , 101 Stat. 223 . |
+| 5309(m)(4) | 49 App.:1602(k)(2). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 3(k)(2); added Apr. 2, 1987 , Pub. L. 100–17, § 305 , 101 Stat. 224 . |
+| 5309(n) | 49 App.:1602( l ). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 3( l ); added Apr. 2, 1987 , Pub. L. 100–17, § 306(a) , 101 Stat. 224 ; Dec. 18, 1991 , Pub. L. 102–240, § 3006(e) , 105 Stat. 2089 . |
+| 5309( o ) | 49 App.:1602(n). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 3(n); added Oct. 6, 1992 , Pub. L. 102–388, § 502(d) , 106 Stat. 1566 . |
+
+
+Definitions
+
+Applicant
+
+Core capacity improvement project
+
+Corridor-based bus rapid transit project
+
+Fixed guideway bus rapid transit project
+
+New fixed guideway capital project
+
+Small start project
+
+General Authority
+
+Grant Requirements.—
+
+In general
+
+Certification
+
+Technical capacity
+
+Recipient requirements
+
+New Fixed Guideway Grants.—
+
+Project development phase.—
+
+Entrance into project development phase
+
+Activities during project development phase
+
+Completion of project development activities required.—
+
+In general
+
+Extension of time
+
+Engineering phase.—
+
+In general
+
+Determination that project is justified
+
+Core Capacity Improvement Projects.—
+
+Project development phase.—
+
+Entrance into project development phase
+
+Activities during project development phase
+
+Completion of project development activities required.—
+
+In general
+
+Extension of time
+
+Engineering phase.—
+
+In general
+
+Determination that project is justified
+
+Financing Sources.—
+
+Requirements
+
+Considerations
+
+Project Advancement and Ratings.—
+
+Project advancement
+
+Ratings.—
+
+Overall rating
+
+Individual ratings for each criterion
+
+Medium rating not required
+
+Warrants
+
+Letters of intent and early systems work agreements
+
+Policy guidance
+
+Rules
+
+Project re-entry
+
+Applicability
+
+Small Start Projects.—
+
+In general
+
+Project development phase.—
+
+Entrance into project development phase
+
+Activities during project development phase
+
+Selection criteria
+
+Evaluation of benefits and federal investment
+
+Evaluation of local financial commitment
+
+Ratings
+
+In general
+
+Optional early rating
+
+Grants and expedited grant agreements.—
+
+In general
+
+Terms of expedited grant agreements
+
+Notice of proposed grants and expedited grant agreements
+
+Programs of Interrelated Projects.—
+
+Future bundling.—
+
+Definition
+
+Request
+
+Readiness
+
+Planning
+
+Project sponsor
+
+Program and project share
+
+Benefits
+
+Evaluation
+
+Letter of intent.—
+
+In general
+
+Amount
+
+Treatment
+
+Immediate bundling.—
+
+Definition
+
+Request
+
+Readiness
+
+Planning
+
+Project sponsor
+
+Program and project share
+
+Benefits
+
+Evaluation
+
+Letter of intent or single grant agreement.—
+
+In general
+
+Letter of intent.—
+
+In general
+
+Amount
+
+Treatment
+
+Evaluation criteria
+
+Grant agreements.—
+
+New start and core capacity improvement projects
+
+Small start
+
+Requirement
+
+Savings provision
+
+Previously Issued Letter of Intent or Full Funding Grant Agreement
+
+Letters of Intent, Full Funding Grant Agreements, and Early Systems Work Agreements.—
+
+Letters of intent.—
+
+Amounts intended to be obligated
+
+Treatment
+
+Full funding grant agreements.—
+
+In general
+
+Criteria
+
+Terms
+
+Special financial rules.—
+
+In general
+
+Statement of contingent commitment
+
+Interest and other financing costs
+
+Completion of operable segment
+
+Information collection and analysis plan.—
+
+Submission of plan
+
+Contents of plan
+
+Collection of data on current system
+
+Early systems work agreements.—
+
+Conditions
+
+Contents.—
+
+In general
+
+Contingent commitment
+
+Period covered
+
+Interest and other financing costs
+
+Failure to carry out project
+
+Crediting of funds received
+
+Limitation on amounts.—
+
+In general
+
+Appropriation required
+
+Notification to congress
+
+Government Share of Net Capital Project Cost.—
+
+In general.—
+
+Estimation of net capital project cost
+
+Grants.—
+
+Grant for new fixed guideway capital project
+
+Full funding grant agreement for new fixed guideway capital project
+
+Grant for core capacity improvement project
+
+Grant for small start project
+
+Adjustment for completion under budget
+
+Maximum government share
+
+Remaining costs
+
+Limitation on statutory construction
+
+Special rule for rolling stock costs
+
+Limitation on applicability
+
+Special rule for fixed guideway bus rapid transit projects
+
+Undertaking Projects in Advance.—
+
+In general
+
+Financing costs.—
+
+In general
+
+Limitation on amount of interest
+
+Certification
+
+Availability of Amounts.—
+
+In general
+
+Use of deobligated amounts
+
+Reports on New Fixed Guideway and Core Capacity Improvement Projects.—
+
+Annual report on funding recommendations
+
+Biennial gao review
+
+Special Rule
+
+Joint Public Transportation and Intercity Passenger Rail Projects.—
+
+In general
+
+Eligible costs
+
+Project justification and local financial commitment
+
+Calculation of net capital project cost
+
+Government share of net capital project cost.—
+
+Government share
+
+Non-government share
+
+Capital Investment Grant Dashboard.—
+
+In general
+
+Updates
+
+Project profiles
+
+Historical and Revision Notes
+
+Pub. L
+
+5309(a) (1)–(5)
+
+July 9, 1964
+
+Pub. L. 88–365, § 3(a)(1)(A)
+
+78 Stat. 303
+
+May 25, 1967
+
+Pub. L. 90–19, § 20(a)
+
+81 Stat. 25
+
+Oct. 15, 1970
+
+Pub. L. 91–453, § 2(2)
+
+84 Stat. 962
+
+Nov. 26, 1974
+
+Pub. L. 93–503
+
+88 Stat. 1566
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 302(a)
+
+92 Stat. 2735
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 313
+
+96 Stat. 2152
+
+July 9, 1964
+
+Pub. L. 88–365, § 3(a)(1)(B)
+
+78 Stat. 303
+
+May 25, 1967
+
+Pub. L. 90–19, § 20(a)
+
+81 Stat. 25
+
+Oct. 15, 1970
+
+Pub. L. 91–453, § 2(2)
+
+84 Stat. 962
+
+Nov. 26, 1974
+
+Pub. L. 93–503
+
+88 Stat. 1566
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 302(a)
+
+92 Stat. 2735
+
+5309(a)(6)
+
+July 9, 1964
+
+Pub. L. 88–365, § 3(a)(1)(E)
+
+78 Stat. 303
+
+May 25, 1967
+
+Pub. L. 90–19, § 20(a)
+
+81 Stat. 25
+
+Oct. 15, 1970
+
+Pub. L. 91–453, § 2(2)
+
+84 Stat. 962
+
+Nov. 26, 1974
+
+Pub. L. 93–503
+
+88 Stat. 1566
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 302(a)
+
+92 Stat. 2736
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3006(a)
+
+105 Stat. 2089
+
+5309(a)(7)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3006(b)
+
+105 Stat. 2089
+
+5309(b)(1)
+
+July 9, 1964
+
+Pub. L. 88–365, § 3(b)
+
+78 Stat. 303
+
+May 25, 1967
+
+Pub. L. 90–19, § 20(a)
+
+81 Stat. 25
+
+Oct. 15, 1970
+
+Pub. L. 91–453, § 2(2)
+
+84 Stat. 963
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 302(b)
+
+92 Stat. 2737
+
+5309(b)(2)
+
+5309(b)(3)
+
+5309(b)(4), (5)
+
+5309(c)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 304(b)
+
+96 Stat. 2149
+
+5309(d)
+
+July 9, 1964
+
+Pub. L. 88–365, § 3(a)(2)(A)
+
+78 Stat. 303
+
+May 25, 1967
+
+Pub. L. 90–19, § 20(a)
+
+81 Stat. 25
+
+Oct. 15, 1970
+
+Pub. L. 91–453, § 2(2)
+
+84 Stat. 962
+
+Nov. 26, 1974
+
+Pub. L. 93–503
+
+88 Stat. 1566
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 302(a)
+
+92 Stat. 2736
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 304(a)
+
+96 Stat. 2149
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 309(e)
+
+101 Stat. 227
+
+5309(e)(1)
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 303(b)
+
+101 Stat. 223
+
+5309(e) (2)–(7)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 303(a)
+
+101 Stat. 223
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3010
+
+105 Stat. 2093
+
+5309(f)(1)
+
+5309(f)(2)
+
+5309(g)
+
+July 9, 1964
+
+Pub. L. 88–365, § 3(a)(4)
+
+78 Stat. 303
+
+May 25, 1967
+
+Pub. L. 90–19, § 20(a)
+
+81 Stat. 25
+
+Oct. 15, 1970
+
+Pub. L. 91–453, § 2(2)
+
+84 Stat. 962
+
+Nov. 26, 1974
+
+Pub. L. 93–503
+
+88 Stat. 1566
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 302(a)
+
+92 Stat. 2736
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 305
+
+96 Stat. 2150
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 302
+
+101 Stat. 223
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3007
+
+105 Stat. 2090
+
+5309(h)
+
+July 9, 1964
+
+Pub. L. 88–365, § 4(a)
+
+78 Stat. 304
+
+May 25, 1967
+
+Pub. L. 90–19, § 20(a)
+
+81 Stat. 25
+
+Aug. 1, 1968
+
+Pub. L. 90–448, § 704(a)
+
+82 Stat. 535
+
+Oct. 15, 1970
+
+Pub. L. 91–453, § 3(a)
+
+84 Stat. 965
+
+Aug. 13, 1973
+
+Pub. L. 93–87, § 301(a)
+
+87 Stat. 295
+
+Nov. 26, 1974
+
+Pub. L. 93–503, § 103(b)
+
+88 Stat. 1571
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 303(b)
+
+92 Stat. 2737
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 302(b)
+
+96 Stat. 2141
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3006(f)
+
+105 Stat. 2089
+
+5309(i)
+
+July 9, 1964
+
+Pub. L. 88–365, § 3(c)
+
+78 Stat. 303
+
+May 25, 1967
+
+Pub. L. 90–19, § 20(a)
+
+81 Stat. 25
+
+Oct. 15, 1970
+
+Pub. L. 91–453, § 2(2)
+
+84 Stat. 964
+
+5309(j)
+
+5309(k)
+
+5309( l )
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3006(h)(2)
+
+105 Stat. 2090
+
+5309(m)(1)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 305
+
+101 Stat. 224
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3006(d)(1)
+
+105 Stat. 2089
+
+5309(m)(2)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3006(d)(2)
+
+105 Stat. 2089
+
+5309(m)(3)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 304
+
+101 Stat. 223
+
+5309(m)(4)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 305
+
+101 Stat. 224
+
+5309(n)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 306(a)
+
+101 Stat. 224
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3006(e)
+
+105 Stat. 2089
+
+5309( o )
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Oct. 6, 1992
+
+Pub. L. 102–388, § 502(d)
+
+106 Stat. 1566
+
+Fiscal years 2006 through 2012
+
+Fiscal years 2006 through 2011 and the period beginning on october 1, 2011 , and ending on june 30, 2012
+
+ending on july 6, 2012
+
+ending on june 30, 2012
+
+Fiscal years 2006 through 2011 and the period beginning on october 1, 2011 , and ending on june 30, 2012
+
+Fiscal years 2006 through 2011 and the period beginning on october 1, 2011 , and ending on march 31, 2012
+
+Fiscal years 2006 through 2011 and the period beginning on october 1, 2011 , and ending on march 31, 2012
+
+Fiscal years 2006 through 2011
+
+Fiscal years 2006 through 2011
+
+Fiscal years 2006 through 2010 and october 1, 2010 , through march 4, 2011
+
+march 4, 2011
+
+december 31, 2010
+
+2010 and october 1, 2010 , through december 31, 2010
+
+2009
+
+march 4, 2011
+
+december 31, 2010
+
+Capital
+
+Major capital
+
+july 30, 2005
+
+july 27, 2005
+
+july 27, 2005
+
+july 21, 2005
+
+july 21, 2005
+
+july 19, 2005
+
+july 19, 2005
+
+june 30, 2005
+
+june 30, 2005
+
+may 31, 2005
+
+Consideration of Decreased Commuter Rail Transportation
+
+Required Payments and Eligible Costs of Projects That Enhance Urban Economic Development or Incorporate Private Investment
+
+Definitions
+
+Applicant
+
+Capital project; fixed guideway; local governmental authority; public transportation; state; state of good repair
+
+Core capacity improvement project
+
+Corridor-based bus rapid transit project
+
+Eligible project
+
+Fixed guideway bus rapid transit project
+
+New fixed guideway capital project
+
+Recipient
+
+Small start project
+
+General authority
+
+Grant requirements.—
+
+In general
+
+Certification
+
+Technical capacity
+
+Financial commitment.—
+
+Requirements
+
+Considerations
+
+Labor standards
+
+Project advancement
+
+Written notice from the secretary.—
+
+In general
+
+Concurrent notice
+
+Waiver
+
+Selection criteria
+
+Letters of intent and full funding grant agreements.—
+
+Letters of intent.—
+
+Amounts intended to be obligated
+
+Treatment
+
+Full funding grant agreements.—
+
+In general
+
+Criteria
+
+Terms
+
+Special financial rules.—
+
+In general
+
+Statement of contingent commitment
+
+Interest and other financing costs
+
+Completion of operable segment
+
+Exception.—
+
+In general
+
+Terms of expedited grant agreements
+
+Limitation on amounts.—
+
+In general
+
+Appropriation required
+
+Notification to congress.—
+
+In general
+
+Contents
+
+Government share of net capital project cost.—
+
+In general
+
+Remainder of net capital project cost
+
+Limitation on statutory construction
+
+Special rule for rolling stock costs
+
+Failure to carry out project
+
+Crediting of funds received
+
+Availability of amounts.—
+
+In general
+
+Use of deobligated amounts
+
+Annual report on expedited project delivery for capital investment grants
+
+Rule of construction
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 800](https://www.govinfo.gov/link/statute/108/800); [Pub. L. 104–287, § 5(9)](https://www.govinfo.gov/link/plaw/104/public/287), (12), Oct. 11, 1996, [110 Stat. 3389](https://www.govinfo.gov/link/statute/110/3389); [Pub. L. 102–240, title III, § 3049(a)](https://www.govinfo.gov/link/plaw/102/public/240), as added [Pub. L. 105–130, § 8](https://www.govinfo.gov/link/plaw/105/public/130), Dec. 1, 1997, [111 Stat. 2559](https://www.govinfo.gov/link/statute/111/2559); [Pub. L. 105–178, title III, § 3009(a)](https://www.govinfo.gov/link/plaw/105/public/178), (c)–(h)(1), (3)(D), (i)–(k), June 9, 1998, [112 Stat. 352–357](https://www.govinfo.gov/link/statute/112/352); [Pub. L. 105–206, title IX, § 9009(g)](https://www.govinfo.gov/link/plaw/105/public/206), (h)(3), July 22, 1998, [112 Stat. 855](https://www.govinfo.gov/link/statute/112/855), 856; [Pub. L. 106–69, title III, § 347](https://www.govinfo.gov/link/plaw/106/public/69), Oct. 9, 1999, [113 Stat. 1024](https://www.govinfo.gov/link/statute/113/1024); [Pub. L. 106–346, § 101(a) [title III, § 380]](https://www.govinfo.gov/link/plaw/106/public/346), Oct. 23, 2000, [114 Stat. 1356](https://www.govinfo.gov/link/statute/114/1356), 1356A–42; [Pub. L. 106–554, § 1(a)(4) [div. A, § 1101]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–201; [Pub. L. 108–88, § 8(a)](https://www.govinfo.gov/link/plaw/108/public/88), Sept. 30, 2003, [117 Stat. 1121](https://www.govinfo.gov/link/statute/117/1121); [Pub. L. 108–202, § 9(a)](https://www.govinfo.gov/link/plaw/108/public/202), Feb. 29, 2004, [118 Stat. 484](https://www.govinfo.gov/link/statute/118/484); [Pub. L. 108–224, § 7(a)](https://www.govinfo.gov/link/plaw/108/public/224), Apr. 30, 2004, [118 Stat. 632](https://www.govinfo.gov/link/statute/118/632); [Pub. L. 108–263, § 7(a)](https://www.govinfo.gov/link/plaw/108/public/263), June 30, 2004, [118 Stat. 704](https://www.govinfo.gov/link/statute/118/704); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 108–280, § 7(a)](https://www.govinfo.gov/link/plaw/108/public/280), July 30, 2004, [118 Stat. 882](https://www.govinfo.gov/link/statute/118/882); [Pub. L. 108–310, § 8(a)](https://www.govinfo.gov/link/plaw/108/public/310), Sept. 30, 2004, [118 Stat. 1154](https://www.govinfo.gov/link/statute/118/1154); [Pub. L. 109–14, § 7(a)](https://www.govinfo.gov/link/plaw/109/public/14), May 31, 2005, [119 Stat. 330](https://www.govinfo.gov/link/statute/119/330); [Pub. L. 109–20, § 7(a)](https://www.govinfo.gov/link/plaw/109/public/20), July 1, 2005, [119 Stat. 352](https://www.govinfo.gov/link/statute/119/352); [Pub. L. 109–35, § 7(a)](https://www.govinfo.gov/link/plaw/109/public/35), July 20, 2005, [119 Stat. 386](https://www.govinfo.gov/link/statute/119/386); [Pub. L. 109–37, § 7(a)](https://www.govinfo.gov/link/plaw/109/public/37), July 22, 2005, [119 Stat. 401](https://www.govinfo.gov/link/statute/119/401); [Pub. L. 109–40, § 7(a)](https://www.govinfo.gov/link/plaw/109/public/40), July 28, 2005, [119 Stat. 417](https://www.govinfo.gov/link/statute/119/417); [Pub. L. 109–59, title III, § 3011(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1573](https://www.govinfo.gov/link/statute/119/1573); [Pub. L. 110–244, title II, § 201(d)](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1610](https://www.govinfo.gov/link/statute/122/1610); [Pub. L. 111–147, title IV, § 433](https://www.govinfo.gov/link/plaw/111/public/147), Mar. 18, 2010, [124 Stat. 88](https://www.govinfo.gov/link/statute/124/88); [Pub. L. 111–322, title II, § 2303](https://www.govinfo.gov/link/plaw/111/public/322), Dec. 22, 2010, [124 Stat. 3527](https://www.govinfo.gov/link/statute/124/3527); [Pub. L. 112–5, title III, § 303](https://www.govinfo.gov/link/plaw/112/public/5), Mar. 4, 2011, [125 Stat. 18](https://www.govinfo.gov/link/statute/125/18); [Pub. L. 112–30, title I, § 133](https://www.govinfo.gov/link/plaw/112/public/30), Sept. 16, 2011, [125 Stat. 350](https://www.govinfo.gov/link/statute/125/350); [Pub. L. 112–102, title III, § 303](https://www.govinfo.gov/link/plaw/112/public/102), Mar. 30, 2012, [126 Stat. 275](https://www.govinfo.gov/link/statute/126/275); [Pub. L. 112–140, title III, § 303](https://www.govinfo.gov/link/plaw/112/public/140), June 29, 2012, [126 Stat. 396](https://www.govinfo.gov/link/statute/126/396); [Pub. L. 112–141, div. B, § 20008(a)](https://www.govinfo.gov/link/plaw/112/public/141), div. G, title III, § 113003, July 6, 2012, [126 Stat. 656](https://www.govinfo.gov/link/statute/126/656), 984; [Pub. L. 114–94, div. A, title III, § 3005(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1450](https://www.govinfo.gov/link/statute/129/1450); [Pub. L. 117–58, div. C, § 30005(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 894](https://www.govinfo.gov/link/statute/135/894).)*

@@ -3,9 +3,10 @@ title: "Section 3100 - Intelligence community business system transformation"
 usc_title: 50
 usc_section: "3100"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3100"
-generated_at: "2026-03-30T02:56:26.235Z"
+generated_at: "2026-11-23T21:26:39.010Z"
+status: "active"
 ---
 
 # § 3100. Intelligence community business system transformation
@@ -76,3 +77,17 @@ generated_at: "2026-03-30T02:56:26.235Z"
     - **(B)** any significant modification or enhancement of an existing intelligence community business system (other than necessary to maintain current services).
   - **(5)** The term “national security system” has the meaning given that term in section 3542 1 1 See References in Text note below. of title 44.
   - **(6)** The term “Office of Business Transformation of the Office of the Director of National Intelligence” includes any successor office that assumes the functions of the Office of Business Transformation of the Office of the Director of National Intelligence as carried out by the Office of Business Transformation on October 7, 2010 .
+
+Certain duties
+
+Enterprise architecture.—
+
+Schedule for development
+
+Requirement for implementation plan
+
+Submission of acquisition strategy
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title V, § 506D, as added [Pub. L. 111–259, title III, § 322(a)(1)](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2669](https://www.govinfo.gov/link/statute/124/2669); amended [Pub. L. 112–277, title III, § 310(a)(3)](https://www.govinfo.gov/link/plaw/112/public/277), Jan. 14, 2013, [126 Stat. 2475](https://www.govinfo.gov/link/statute/126/2475); [Pub. L. 113–126, title III, § 329(b)(3)](https://www.govinfo.gov/link/plaw/113/public/126), July 7, 2014, [128 Stat. 1406](https://www.govinfo.gov/link/statute/128/1406).)*

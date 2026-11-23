@@ -3,9 +3,10 @@ title: "Section 1387 - Taking of marine mammals incidental to commercial fishing
 usc_title: 16
 usc_section: "1387"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1387"
-generated_at: "2026-03-30T02:54:22.961Z"
+generated_at: "2026-11-23T21:25:51.867Z"
+status: "active"
 ---
 
 # § 1387. Taking of marine mammals incidental to commercial fishing operations
@@ -169,3 +170,11 @@ generated_at: "2026-03-30T02:54:22.961Z"
 - **(j)** For purposes of carrying out this section, the Secretary may accept, solicit, receive, hold, administer, and use gifts, devises, and bequests.
 - **(k)** The Secretary shall consult with the Secretary of the Interior prior to taking actions or making determinations under this section that affect or relate to species or population stocks of marine mammals for which the Secretary of the Interior is responsible under this subchapter.
 - **(l)** As used in this section and section 1371(a)(5)(E) of this title , each of the terms “fishery” and “vessel of the United States” has the same meaning it does in section 1802 of this title .
+
+In General
+
+Exception
+
+## Source Credit
+
+*([Pub. L. 92–522, title I, § 118](https://www.govinfo.gov/link/plaw/92/public/522), as added [Pub. L. 103–238, § 11](https://www.govinfo.gov/link/plaw/103/public/238), Apr. 30, 1994, [108 Stat. 546](https://www.govinfo.gov/link/statute/108/546); amended [Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009](https://www.govinfo.gov/link/statute/110/3009), 3009–41; [Pub. L. 117–286, § 4(a)(109)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4317](https://www.govinfo.gov/link/statute/136/4317).)*

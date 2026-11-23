@@ -3,9 +3,10 @@ title: "Section 286ee - International cooperation"
 usc_title: 22
 usc_section: "286ee"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 286ee"
-generated_at: "2026-03-30T02:55:05.319Z"
+generated_at: "2026-11-23T21:25:58.365Z"
+status: "active"
 ---
 
 # § 286ee. International cooperation
@@ -17,3 +18,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
     - **(B)** consider to what extent and in what form these comments might be made available to the international banking community and the public.
   - **(2)** As part of any Fund-approved stabilization program, the Fund should give consideration to placing limits on public sector external short- and long-term borrowing.
   - **(3)** As a part of its annual report, and at such times as it may consider desirable, the Fund should publish its evaluation of the trend and volume of international lending as it affects the economic situation of lenders, borrowers, and the smooth functioning of the international monetary system.
+
+## Source Credit
+
+*(July 31, 1945, ch. 339, § 47, as added [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title VIII, § 809], Nov. 30, 1983, [97 Stat. 1274](https://www.govinfo.gov/link/statute/97/1274).)*

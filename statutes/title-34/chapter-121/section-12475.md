@@ -3,9 +3,10 @@ title: "Section 12475 - Grants to combat violence against women in public and as
 usc_title: 34
 usc_section: "12475"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 12475"
-generated_at: "2026-03-30T02:55:33.288Z"
+generated_at: "2026-11-23T21:26:09.749Z"
+status: "active"
 ---
 
 # § 12475. Grants to combat violence against women in public and assisted housing
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:55:33.288Z"
   - **(10)** effectively providing notice to applicants and residents of the above housing policies, practices, and procedures.
 - **(g)** There are authorized to be appropriated $4,000,000 for each of fiscal years 2023 through 2027 to carry out the provisions of this section.
 - **(h)** Up to 12 percent of the amount appropriated under subsection (g) for each fiscal year shall be used by the Attorney General for technical assistance costs under this section.
+
+## Source Credit
+
+*([Pub. L. 103–322, title IV, § 41405](https://www.govinfo.gov/link/plaw/103/public/322), as added [Pub. L. 109–162, title VI, § 601](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3035](https://www.govinfo.gov/link/statute/119/3035); amended [Pub. L. 113–4, title VI, § 603(2)](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 110](https://www.govinfo.gov/link/statute/127/110); [Pub. L. 117–103, div. W, title VI, § 605(c)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 887](https://www.govinfo.gov/link/statute/136/887).)*

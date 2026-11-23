@@ -3,9 +3,10 @@ title: "Section 1454 - Patent, plant variety protection, and copyright cases"
 usc_title: 28
 usc_section: "1454"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1454"
-generated_at: "2026-03-30T02:55:30.141Z"
+generated_at: "2026-11-23T21:26:01.091Z"
+status: "active"
 ---
 
 # § 1454. Patent, plant variety protection, and copyright cases
@@ -18,3 +19,15 @@ generated_at: "2026-03-30T02:55:30.141Z"
 - **(d)** If a civil action is removed solely under this section, the district court—
   - **(1)** shall remand all claims that are neither a basis for removal under subsection (a) nor within the original or supplemental jurisdiction of the district court under any Act of Congress; and
   - **(2)** may, under the circumstances specified in section 1367(c), remand any claims within the supplemental jurisdiction of the district court under section 1367.
+
+In General
+
+Special Rules
+
+Clarification of Jurisdiction in Certain Cases
+
+Remand
+
+## Source Credit
+
+*(Added [Pub. L. 112–29, § 19(c)(1)](https://www.govinfo.gov/link/plaw/112/public/29), Sept. 16, 2011, [125 Stat. 332](https://www.govinfo.gov/link/statute/125/332).)*

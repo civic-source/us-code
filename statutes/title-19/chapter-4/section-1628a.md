@@ -3,9 +3,10 @@ title: "Section 1628a - Exchange of information related to trade enforcement"
 usc_title: 19
 usc_section: "1628a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1628a"
-generated_at: "2026-03-30T02:54:24.648Z"
+generated_at: "2026-11-23T21:25:42.736Z"
+status: "active"
 ---
 
 # § 1628a. Exchange of information related to trade enforcement
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:24.648Z"
   - **(4)** in the case of merchandise suspected of being primarily designed or produced for the purpose of circumventing protection afforded by a technological measure that effectively protects a right of an owner of a copyright in a work or a portion of a work, and being imported in violation of section 1201(b)(1) of that title, the owner of the copyright.
 - **(c)** Subsection (a) applies only with respect to merchandise suspected of infringing a trademark or copyright that is recorded with U.S. Customs and Border Protection.
 - **(d)** The Commissioner may not provide under subsection (a) information, photographs, or samples to a person described in subsection (b) if providing such information, photographs, or samples would compromise an ongoing law enforcement investigation or national security.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 628A, as added [Pub. L. 114–125, title III, § 302(a)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 149](https://www.govinfo.gov/link/statute/130/149).)*

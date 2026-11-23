@@ -3,9 +3,10 @@ title: "Section 1060 - Findings and purposes"
 usc_title: 20
 usc_section: "1060"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1060"
-generated_at: "2026-03-30T02:54:48.101Z"
+generated_at: "2026-11-23T21:25:47.036Z"
+status: "active"
 ---
 
 # § 1060. Findings and purposes
@@ -16,3 +17,25 @@ The Congress finds that—
   - **(2)** States and the Federal Government have discriminated in the allocation of land and financial resources to support Black public institutions under the Morrill Act of 1862 [ 7 U.S.C. 301 et seq.] and its progeny, and against public and private Black colleges and universities in the award of Federal grants and contracts, and the distribution of Federal resources under this chapter and other Federal programs which benefit institutions of higher education;
   - **(3)** the current state of Black colleges and universities is partly attributable to the discriminatory action of the States and the Federal Government and this discriminatory action requires the remedy of enhancement of Black postsecondary institutions to ensure their continuation and participation in fulfilling the Federal mission of equality of educational opportunity; and
   - **(4)** financial assistance to establish or strengthen the physical plants, financial management, academic resources, and endowments of the historically Black colleges and universities are appropriate methods to enhance these institutions and facilitate a decrease in reliance on governmental financial support and to encourage reliance on endowments and private sources.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+George Bush.
+
+## Source Credit
+
+*([Pub. L. 89–329, title III, § 321](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title III, § 301(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1294](https://www.govinfo.gov/link/statute/100/1294).)*

@@ -3,9 +3,10 @@ title: "Section 402 - Judicial review of Commission’s orders and decisions"
 usc_title: 47
 usc_section: "402"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 402"
-generated_at: "2026-03-30T02:56:24.516Z"
+generated_at: "2026-11-23T21:26:36.021Z"
+status: "active"
 ---
 
 # § 402. Judicial review of Commission’s orders and decisions
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:24.516Z"
 - **(h)** In the event that the court shall render a decision and enter an order reversing the order of the Commission, it shall remand the case to the Commission to carry out the judgment of the court and it shall be the duty of the Commission, in the absence of the proceedings to review such judgment, to forthwith give effect thereto, and unless otherwise ordered by the court, to do so upon the basis of the proceedings already had and the record upon which said appeal was heard and determined.
 - **(i)** The court may, in its discretion, enter judgment for costs in favor of or against an appellant, or other interested parties intervening in said appeal, but not against the Commission, depending upon the nature of the issues involved upon said appeal and the outcome thereof.
 - **(j)** The court’s judgment shall be final, subject, however, to review by the Supreme Court of the United States upon writ of certiorari on petition therefor under section 1254 of title 28 , by the appellant, by the Commission, or by any interested party intervening in the appeal, or by certification by the court pursuant to the provisions of that section.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title IV, § 402, [48 Stat. 1093](https://www.govinfo.gov/link/statute/48/1093); May 20, 1937, ch. 229, §§ 11–13, [50 Stat. 197](https://www.govinfo.gov/link/statute/50/197); May 24, 1949, ch. 139, § 132, [63 Stat. 108](https://www.govinfo.gov/link/statute/63/108); July 16, 1952, ch. 879, § 14, [66 Stat. 718](https://www.govinfo.gov/link/statute/66/718); [Pub. L. 85–791, § 12](https://www.govinfo.gov/link/plaw/85/public/791), Aug. 28, 1958, [72 Stat. 945](https://www.govinfo.gov/link/statute/72/945); [Pub. L. 97–259, title I](https://www.govinfo.gov/link/plaw/97/public/259), §§ 121, 127(b), Sept. 13, 1982, [96 Stat. 1097](https://www.govinfo.gov/link/statute/96/1097), 1099; [Pub. L. 98–620, title IV, § 402(50)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3361](https://www.govinfo.gov/link/statute/98/3361); [Pub. L. 104–104, title I, § 151(b)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 107](https://www.govinfo.gov/link/statute/110/107); [Pub. L. 111–260, title I, § 104(d)](https://www.govinfo.gov/link/plaw/111/public/260), Oct. 8, 2010, [124 Stat. 2762](https://www.govinfo.gov/link/statute/124/2762).)*

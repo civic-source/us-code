@@ -3,9 +3,10 @@ title: "Section 10306 - Vulnerability disclosure policy and bug bounty program r
 usc_title: 22
 usc_section: "10306"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10306"
-generated_at: "2026-03-30T02:55:05.476Z"
+generated_at: "2026-11-23T21:25:58.796Z"
+status: "active"
 ---
 
 # § 10306. Vulnerability disclosure policy and bug bounty program report
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:05.476Z"
     - **(H)** the public accessibility of contact information for the Department regarding the bug bounty program;
     - **(I)** the incorporation of bug bounty program identified vulnerabilities into existing Department vulnerability prioritization and management processes; and
     - **(J)** any challenges in implementing the bug bounty program and plans for expansion or contraction in the scope of the bug bounty program across Department information systems.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. I, title XCV, § 9509](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3907](https://www.govinfo.gov/link/statute/136/3907).)*

@@ -3,9 +3,10 @@ title: "Section 943 - Automated Targeting System"
 usc_title: 6
 usc_section: "943"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 943"
-generated_at: "2026-03-30T02:53:09.501Z"
+generated_at: "2026-11-23T21:25:25.854Z"
+status: "active"
 ---
 
 # § 943. Automated Targeting System
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:09.501Z"
   - **(1)** $33,200,000 for fiscal year 2008;
   - **(2)** $35,700,000 for fiscal year 2009; and
   - **(3)** $37,485,000 for fiscal year 2010.
+
+## Source Credit
+
+*([Pub. L. 109–347, title II, § 203](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1904](https://www.govinfo.gov/link/statute/120/1904).)*

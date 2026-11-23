@@ -3,9 +3,10 @@ title: "Section 3110 - Annual report on violations of law or executive order"
 usc_title: 50
 usc_section: "3110"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3110"
-generated_at: "2026-03-30T02:56:26.236Z"
+generated_at: "2026-11-23T21:26:39.013Z"
+status: "active"
 ---
 
 # § 3110. Annual report on violations of law or executive order
@@ -15,3 +16,9 @@ generated_at: "2026-03-30T02:56:26.236Z"
   - **(1)** determined by the director, head, or general counsel of any element of the intelligence community to have occurred;
   - **(2)** referred to the Department of Justice for possible criminal prosecution; or
   - **(3)** substantiated by the inspector general of any element of the intelligence community.
+
+“Not later than 180 days after the date of the enactment of this Act [ Dec. 19, 2014 ], the Director of National Intelligence, in consultation with the head of each element of the intelligence community, shall—
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title V, § 511, as added [Pub. L. 113–293, title III, § 323(a)](https://www.govinfo.gov/link/plaw/113/public/293), Dec. 19, 2014, [128 Stat. 4003](https://www.govinfo.gov/link/statute/128/4003).)*

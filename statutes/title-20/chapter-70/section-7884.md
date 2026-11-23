@@ -3,9 +3,10 @@ title: "Section 7884 - By-pass determination process"
 usc_title: 20
 usc_section: "7884"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7884"
-generated_at: "2026-03-30T02:54:48.221Z"
+generated_at: "2026-11-23T21:25:47.620Z"
+status: "active"
 ---
 
 # § 7884. By-pass determination process
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:48.221Z"
 - **(b)** Any determination by the Secretary under this section shall continue in effect until the Secretary determines, in consultation with that agency, consortium, or entity and representatives of the affected private school children, teachers, or other educational personnel, that there will no longer be any failure or inability on the part of the agency, consortium, or entity to meet the applicable requirements of section 7881 of this title or any other provision of this chapter.
 - **(c)** When the Secretary arranges for services pursuant to this section, the Secretary shall, after consultation with the appropriate public and private school officials, pay the cost of those services, including the administrative costs of arranging for those services, from the appropriate allocation or allocations under this chapter.
 - **(d)** Any by-pass determination by the Secretary under this chapter as in effect on the day preceding January 8, 2002 , shall remain in effect to the extent the Secretary determines that that determination is consistent with the purpose of this section.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VIII, § 8504](https://www.govinfo.gov/link/plaw/89/public/10), formerly title IX, § 9504, as added [Pub. L. 107–110, title IX, § 901](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1978](https://www.govinfo.gov/link/statute/115/1978); renumbered title VIII, § 8504, and amended [Pub. L. 114–95, title VIII](https://www.govinfo.gov/link/plaw/114/public/95), §§ 8001(a)(5), (b)(4), 8018, Dec. 10, 2015, [129 Stat. 2088](https://www.govinfo.gov/link/statute/129/2088), 2089, 2112.)*

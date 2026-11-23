@@ -3,9 +3,10 @@ title: "Section 1396e - Enrollment of individuals under group health plans"
 usc_title: 42
 usc_section: "1396e"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1396e"
-generated_at: "2026-03-30T02:56:11.042Z"
+generated_at: "2026-11-23T21:26:31.831Z"
+status: "active"
 ---
 
 # § 1396e. Enrollment of individuals under group health plans
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.042Z"
 - **(e)** In this section:
   - **(1)** The term “group health plan” has the meaning given such term in section 5000(b)(1) of the Internal Revenue Code of 1986, and includes the provision of continuation coverage by such a plan pursuant to title XXII of the Public Health Service Act [ 42 U.S.C. 300bb–1 et seq.], section 4980B of the Internal Revenue Code of 1986, or title VI 1 1 See References in Text note below. of the Employee Retirement Income Security Act of 1974.
   - **(2)** The term “cost-effective” has the meaning given that term in section 1397ee(c)(3)(A) of this title .
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XIX, § 1906, as added [Pub. L. 101–508, title IV, § 4402(a)(2)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–161](https://www.govinfo.gov/link/statute/104/1388); amended [Pub. L. 105–33, title IV, § 4741(b)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 523](https://www.govinfo.gov/link/statute/111/523); [Pub. L. 111–148, title X, § 10203(b)(1)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 927](https://www.govinfo.gov/link/statute/124/927).)*

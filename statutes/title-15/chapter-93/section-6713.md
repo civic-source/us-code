@@ -3,9 +3,10 @@ title: "Section 6713 - Title insurance activities of national banks and their af
 usc_title: 15
 usc_section: "6713"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6713"
-generated_at: "2026-03-30T02:54:08.213Z"
+generated_at: "2026-11-23T21:25:40.029Z"
+status: "active"
 ---
 
 # § 6713. Title insurance activities of national banks and their affiliates
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:08.213Z"
   - **(3)** In the case of a national bank which has a subsidiary which provides insurance as principal and has no affiliate other than a subsidiary which provides insurance as principal, the national bank may not directly engage in any activity involving the underwriting of title insurance.
 - **(d)** For purposes of this section, the terms “affiliate” and “subsidiary” have the same meanings as in section 1841 of title 12 .
 - **(e)** No provision of this Act or any other Federal law shall be construed as superseding or affecting a State law which was in effect before November 12, 1999 , and which prohibits title insurance from being offered, provided, or sold in such State, or from being underwritten with respect to real property in such State, by any person whatsoever.
+
+## Source Credit
+
+*([Pub. L. 106–102, title III, § 303](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1408](https://www.govinfo.gov/link/statute/113/1408).)*

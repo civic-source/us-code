@@ -3,9 +3,10 @@ title: "Section 7673 - Allocation of funds"
 usc_title: 22
 usc_section: "7673"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7673"
-generated_at: "2026-03-30T02:55:05.444Z"
+generated_at: "2026-11-23T21:25:58.724Z"
+status: "active"
 ---
 
 # § 7673. Allocation of funds
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:05.444Z"
   - **(2)** any increase in the treatment goal under section 7672(a)(3) of this title above the percentage increase in the amount appropriated for bilateral global HIV/AIDS assistance for such fiscal year compared with fiscal year 2008 shall be based on long-term requirements, epidemiological evidence, the share of treatment needs being met by partner governments and other sources of treatment funding, and other appropriate factors;
   - **(3)** the treatment goal under section 7672(a)(3) of this title shall be increased above the number calculated under paragraph (1) by the same percentage that the average United States Government cost per patient of providing treatment in countries receiving bilateral HIV/AIDS assistance has decreased compared with fiscal year 2008; and
   - **(4)** the prevention and care goals established in clauses (i) and (iv) of section 2151b–2(b)(1)(A) of this title shall be increased consistent with epidemiological evidence and available resources.
+
+## Source Credit
+
+*([Pub. L. 108–25, title IV, § 403](https://www.govinfo.gov/link/plaw/108/public/25), May 27, 2003, [117 Stat. 746](https://www.govinfo.gov/link/statute/117/746); [Pub. L. 110–293, title IV, § 403](https://www.govinfo.gov/link/plaw/110/public/293), July 30, 2008, [122 Stat. 2966](https://www.govinfo.gov/link/statute/122/2966); [Pub. L. 113–56, § 6](https://www.govinfo.gov/link/plaw/113/public/56), Dec. 2, 2013, [127 Stat. 654](https://www.govinfo.gov/link/statute/127/654); [Pub. L. 115–305, § 4](https://www.govinfo.gov/link/plaw/115/public/305), Dec. 11, 2018, [132 Stat. 4403](https://www.govinfo.gov/link/statute/132/4403); [Pub. L. 118–47, div. F, title VII, § 7072(c)](https://www.govinfo.gov/link/plaw/118/public/47), Mar. 23, 2024, [138 Stat. 853](https://www.govinfo.gov/link/statute/138/853).)*

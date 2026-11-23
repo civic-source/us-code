@@ -3,9 +3,10 @@ title: "Section 9623 - Payment of losses"
 usc_title: 22
 usc_section: "9623"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9623"
-generated_at: "2026-03-30T02:55:05.470Z"
+generated_at: "2026-11-23T21:25:58.782Z"
+status: "active"
 ---
 
 # § 9623. Payment of losses
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.470Z"
     - **(B)** The limitation under subparagraph (A) shall not apply to direct insurance or reinsurance of loans provided by banks or other financial institutions to unrelated parties.
 - **(c)** The Attorney General shall take such action as may be appropriate to enforce any right accruing to the United States as a result of the issuance of any loan or guaranty under this subchapter.
 - **(d)** Nothing in this section shall be construed to preclude any forbearance for the benefit of a borrower that may be agreed upon by the parties to a loan guaranteed by the Corporation if budget authority for any resulting costs to the United States Government (as defined in section 661a of title 2 ) is available.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. F, title II, § 1423](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3498](https://www.govinfo.gov/link/statute/132/3498).)*

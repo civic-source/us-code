@@ -3,9 +3,10 @@ title: "Section 1833c - Comptroller General audit and access to records"
 usc_title: 12
 usc_section: "1833c"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1833c"
-generated_at: "2026-03-30T02:53:53.463Z"
+generated_at: "2026-11-23T21:25:37.034Z"
+status: "active"
 ---
 
 # § 1833c. Comptroller General audit and access to records
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:53.463Z"
   - **(3)** The Comptroller General, and any duly authorized representative of the Comptroller General, shall have access to, and the right to examine and copy, all records and other recorded information in any form, and to examine any property, within the possession or control of any agency or person which is subject to audit under this section which the Comptroller General deems relevant to an audit conducted under this section.
   - **(4)** The Comptroller General’s right of access to information under this section shall be enforceable pursuant to section 716 of title 31 .
   - **(5)** The provisions of section 716(e) of title 31 shall apply to information obtained by the Comptroller General under this section.
+
+## Source Credit
+
+*([Pub. L. 101–73, title XII, § 1213](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 528](https://www.govinfo.gov/link/statute/103/528).)*

@@ -3,9 +3,10 @@ title: "Section 7212 - Elements of contracts"
 usc_title: 7
 usc_section: "7212"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7212"
-generated_at: "2026-03-30T02:53:42.445Z"
+generated_at: "2026-11-23T21:25:28.417Z"
+status: "active"
 ---
 
 # § 7212. Elements of contracts
@@ -28,3 +29,11 @@ generated_at: "2026-03-30T02:53:42.445Z"
     - **(A)** At the option of the owner or producer, 50 percent of the contract payment for fiscal year 1996 shall be made not later than 30 days after the date on which the contract is entered into and approved by the Secretary and the owner or producer.
     - **(B)** At the option of the owner or producer for fiscal year 1997 and each subsequent fiscal year, 50 percent of the annual contract payment shall be made on December 15 or January 15 of the fiscal year. The owner or producer may change the date selected under this subparagraph for a subsequent fiscal year by providing advance notice to the Secretary.
   - **(3)** Notwithstanding the requirements for making an annual contract payment specified in paragraphs (1) and (2), at the option of the owner or producer, the Secretary shall pay the full amount (or such portion as the owner or producer may specify) of the contract payment required to be paid for any of fiscal years 1999 through 2002 at such time or times during that fiscal year as the owner or producer may specify.
+
+In General
+
+Effective Date
+
+## Source Credit
+
+*([Pub. L. 104–127, title I, § 112](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 899](https://www.govinfo.gov/link/statute/110/899); [Pub. L. 105–228, § 2](https://www.govinfo.gov/link/plaw/105/public/228), Aug. 12, 1998, [112 Stat. 1516](https://www.govinfo.gov/link/statute/112/1516); [Pub. L. 106–78, title VIII, § 811](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1181](https://www.govinfo.gov/link/statute/113/1181).)*

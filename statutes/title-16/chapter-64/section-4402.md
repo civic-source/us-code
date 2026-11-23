@@ -3,9 +3,10 @@ title: "Section 4402 - Definitions"
 usc_title: 16
 usc_section: "4402"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4402"
-generated_at: "2026-03-30T02:54:23.043Z"
+generated_at: "2026-11-23T21:25:52.015Z"
+status: "active"
 ---
 
 # § 4402. Definitions
@@ -24,3 +25,7 @@ For the purposes of this chapter:
     - **(A)** the obtaining of a real property interest in lands or waters, including water rights, of a wetland ecosystem and associated habitat if the obtaining of such interest is subject to terms and conditions that will ensure that the real property will be administered for the long-term conservation of such lands and waters and the migratory birds and other fish and wildlife dependent thereon;
     - **(B)** the restoration, management, or enhancement of wetland ecosystems and associated habitat for migratory birds and other fish and wildlife species if such restoration, management, or enhancement is conducted on lands and waters that are administered for the long-term conservation of such lands and waters and the migratory birds and other fish and wildlife dependent thereon; and
     - **(C)** in the case of projects undertaken in Mexico, includes technical training and development of infrastructure necessary for the conservation and management of wetlands and studies on the sustainable use of wetland resources.
+
+## Source Credit
+
+*([Pub. L. 101–233, § 3](https://www.govinfo.gov/link/plaw/101/public/233), Dec. 13, 1989, [103 Stat. 1969](https://www.govinfo.gov/link/statute/103/1969); [Pub. L. 107–308](https://www.govinfo.gov/link/plaw/107/public/308), §§ 4, 8(a)(3)–(5), Dec. 2, 2002, [116 Stat. 2446](https://www.govinfo.gov/link/statute/116/2446), 2447.)*

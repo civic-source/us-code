@@ -3,9 +3,10 @@ title: "Section 1603 - General requirements; applicability; preemption"
 usc_title: 21
 usc_section: "1603"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 1603"
-generated_at: "2026-03-30T02:54:54.303Z"
+generated_at: "2026-11-23T21:25:56.281Z"
+status: "active"
 ---
 
 # § 1603. General requirements; applicability; preemption
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:54.303Z"
 - **(d)** Nothing in this chapter may be construed—
   - **(1)** to affect any defense available to a defendant under any other provisions of Federal or State law in an action alleging harm caused by an implant; or
   - **(2)** to create a cause of action or Federal court jurisdiction pursuant to section 1331 or 1337 of title 28 that otherwise would not exist under applicable Federal or State law.
+
+## Source Credit
+
+*([Pub. L. 105–230, § 4](https://www.govinfo.gov/link/plaw/105/public/230), Aug. 13, 1998, [112 Stat. 1523](https://www.govinfo.gov/link/statute/112/1523).)*

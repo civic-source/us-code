@@ -3,9 +3,10 @@ title: "Section 4309a - United States responsibilities for employees of the Unit
 usc_title: 22
 usc_section: "4309a"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4309a"
-generated_at: "2026-03-30T02:55:05.410Z"
+generated_at: "2026-11-23T21:25:58.642Z"
+status: "active"
 ---
 
 # § 4309a. United States responsibilities for employees of the United Nations
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:05.410Z"
   - **(2)** not later than 6 months thereafter, on the actions taken pursuant to those plans.
 - **(d)** This section shall not apply with respect to any United States national.
 - **(e)** For purposes of this section, the term “United Nations Headquarters District” means the area within the United States which is agreed to by the United Nations and the United States to constitute such a district, together with such other areas as the Secretary of State may approve from time to time in order to permit effective functioning of the United Nations or missions to the United Nations.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title II, § 209A, as added [Pub. L. 99–93, title I, § 141](https://www.govinfo.gov/link/plaw/99/public/93), Aug. 16, 1985, [99 Stat. 423](https://www.govinfo.gov/link/statute/99/423); amended [Pub. L. 103–236, title I, § 139(26)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 399](https://www.govinfo.gov/link/statute/108/399).)*

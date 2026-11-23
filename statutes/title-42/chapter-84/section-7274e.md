@@ -3,9 +3,10 @@ title: "Section 7274e - Scholarship and fellowship program for environmental res
 usc_title: 42
 usc_section: "7274e"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7274e"
-generated_at: "2026-03-30T02:56:11.286Z"
+generated_at: "2026-11-23T21:26:33.059Z"
+status: "active"
 ---
 
 # § 7274e. Scholarship and fellowship program for environmental restoration and waste management
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:11.286Z"
   - **(2)** The requirement to award 20 scholarships and 20 fellowships under paragraph (1) applies only to the extent there is a sufficient number of applicants qualified for such awards.
 - **(h)** Not later than January 1, 1993 , the Secretary of Energy shall submit to Congress a report on activities undertaken under the program and recommendations for future activities under the program.
 - **(i)** Of the funds authorized to be appropriated pursuant to section 3101(9)(B), $1,000,000 may be used for the purpose of carrying out this section.
+
+## Source Credit
+
+*([Pub. L. 102–190, div. C, title XXXI, § 3132](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1572](https://www.govinfo.gov/link/statute/105/1572); [Pub. L. 103–337, div. C, title XXXI, § 3156(b)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 3092](https://www.govinfo.gov/link/statute/108/3092); [Pub. L. 105–244, title I, § 102(a)(13)(F)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1620](https://www.govinfo.gov/link/statute/112/1620).)*

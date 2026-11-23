@@ -3,9 +3,10 @@ title: "Section 1465 - Determination of contributions to the Fund"
 usc_title: 10
 usc_section: "1465"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1465"
-generated_at: "2026-03-30T02:53:38.124Z"
+generated_at: "2026-11-23T21:25:32.486Z"
+status: "active"
 ---
 
 # § 1465. Determination of contributions to the Fund
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:38.124Z"
   - **(5)** Contributions to the Fund in accordance with amortization schedules under paragraphs (2) and (3) shall be made as provided in section 1466(b) of this title .
 - **(d)** All determinations under this section shall be made using methods and assumptions approved by the Board of Actuaries (including assumptions of interest rates and inflation) and in accordance with generally accepted actuarial principles and practices.
 - **(e)** The Secretary of Defense and, with regard to the Coast Guard, the Secretary of the department in which the Coast Guard is operating shall provide for the keeping of such records as are necessary for determining the actuarial status of the Fund.
+
+## Source Credit
+
+*(Added [Pub. L. 98–94, title IX, § 925(a)(1)](https://www.govinfo.gov/link/plaw/98/public/94), Sept. 24, 1983, [97 Stat. 646](https://www.govinfo.gov/link/statute/97/646); amended [Pub. L. 98–525, title XIV, § 1405(28)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2623](https://www.govinfo.gov/link/statute/98/2623); [Pub. L. 99–500, § 101(c) [title IX, § 9131]](https://www.govinfo.gov/link/plaw/99/public/500), Oct. 18, 1986, [100 Stat. 1783–82](https://www.govinfo.gov/link/statute/100/1783), 1783–128, and [Pub. L. 99–591, § 101(c) [title IX, § 9131]](https://www.govinfo.gov/link/plaw/99/public/591), Oct. 30, 1986, [100 Stat. 3341–82](https://www.govinfo.gov/link/statute/100/3341), 3341–128; [Pub. L. 99–661, div. A, title VI, § 661(a)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3891](https://www.govinfo.gov/link/statute/100/3891); [Pub. L. 108–136, div. A, title VI, § 641(c)(3)](https://www.govinfo.gov/link/plaw/108/public/136), (4), Nov. 24, 2003, [117 Stat. 1515](https://www.govinfo.gov/link/statute/117/1515); [Pub. L. 108–375, div. A, title X, § 1084(d)(11)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2062](https://www.govinfo.gov/link/statute/118/2062); [Pub. L. 109–364, div. A, title V, § 591(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2232](https://www.govinfo.gov/link/statute/120/2232); [Pub. L. 116–283, div. G, title LVXXXII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXII], § 8224, Jan. 1, 2021, [134 Stat. 4658](https://www.govinfo.gov/link/statute/134/4658); [Pub. L. 117–81, div. A, title X, § 1081(a)(18)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1920](https://www.govinfo.gov/link/statute/135/1920); [Pub. L. 118–159, div. A, title XVII, § 1701(a)(21)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2204](https://www.govinfo.gov/link/statute/138/2204).)*

@@ -3,9 +3,10 @@ title: "Section 460zz - Findings and purposes"
 usc_title: 16
 usc_section: "460zz"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 460zz"
-generated_at: "2026-03-30T02:54:22.834Z"
+generated_at: "2026-11-23T21:25:51.606Z"
+status: "active"
 ---
 
 # § 460zz. Findings and purposes
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:22.834Z"
   - **(1)** To protect, preserve and enhance the significant values of the waters and land of the Mississippi River Corridor within the Saint Paul-Minneapolis Metropolitan Area.
   - **(2)** To encourage adequate coordination of all governmental programs affecting the land and water resources of the Mississippi River Corridor.
   - **(3)** To provide a management framework to assist the State of Minnesota and its units of local government in the development and implementation of integrated resource management programs for the Mississippi River Corridor in order to assure orderly public and private development in the area consistent with the findings of this part.
+
+## Source Credit
+
+*([Pub. L. 100–696, title VII, § 701](https://www.govinfo.gov/link/plaw/100/public/696), Nov. 18, 1988, [102 Stat. 4599](https://www.govinfo.gov/link/statute/102/4599).)*

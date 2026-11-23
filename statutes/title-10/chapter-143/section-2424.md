@@ -3,9 +3,10 @@ title: "Section 2424 - Procurement of supplies and services from exchange stores
 usc_title: 10
 usc_section: "2424"
 chapter: 143
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2424"
-generated_at: "2026-03-30T02:53:38.158Z"
+generated_at: "2026-11-23T21:25:32.611Z"
+status: "active"
 ---
 
 # § 2424. Procurement of supplies and services from exchange stores outside the United States
@@ -16,3 +17,17 @@ generated_at: "2026-03-30T02:53:38.158Z"
   - **(2)** Supplies provided under a contract entered into under subsection (a) shall be provided from the stocks of the exchange store on hand as of the date the contract is entered into with that exchange store.
   - **(3)** A contract entered into with an exchange store under subsection (a) may not provide for the procurement of services not regularly provided by that exchange store.
 - **(c)** Paragraphs (1) and (2) of subsection (b) do not apply to contracts for the procurement of soft drinks that are manufactured in the United States. The Secretary of Defense shall prescribe in regulations the standards and procedures for determining whether a particular beverage is a soft drink and whether the beverage was manufactured in the United States.
+
+Authority
+
+Limitations
+
+Exception
+
+Requirement
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 101–189, div. A, title III, § 324(a)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1414](https://www.govinfo.gov/link/statute/103/1414); amended [Pub. L. 103–355, title III, § 3066](https://www.govinfo.gov/link/plaw/103/public/355), Oct. 13, 1994, [108 Stat. 3337](https://www.govinfo.gov/link/statute/108/3337); [Pub. L. 104–106, div. D, title XLIII, § 4321(b)(17)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 673](https://www.govinfo.gov/link/statute/110/673); [Pub. L. 109–163, div. A, title VI, § 671](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3319](https://www.govinfo.gov/link/statute/119/3319).)*

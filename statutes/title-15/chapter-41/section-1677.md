@@ -3,9 +3,10 @@ title: "Section 1677 - Effect on State laws"
 usc_title: 15
 usc_section: "1677"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1677"
-generated_at: "2026-03-30T02:54:08.146Z"
+generated_at: "2026-11-23T21:25:39.866Z"
+status: "active"
 ---
 
 # § 1677. Effect on State laws
@@ -14,3 +15,7 @@ This subchapter does not annul, alter, or affect, or exempt any person from comp
 
   - **(1)** prohibiting garnishments or providing for more limited garnishment than are allowed under this subchapter, or
   - **(2)** prohibiting the discharge of any employee by reason of the fact that his earnings have been subjected to garnishment for more than one indebtedness.
+
+## Source Credit
+
+*([Pub. L. 90–321, title III, § 307](https://www.govinfo.gov/link/plaw/90/public/321), May 29, 1968, [82 Stat. 164](https://www.govinfo.gov/link/statute/82/164).)*

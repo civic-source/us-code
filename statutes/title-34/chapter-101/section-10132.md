@@ -3,9 +3,10 @@ title: "Section 10132 - Bureau of Justice Statistics"
 usc_title: 34
 usc_section: "10132"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10132"
-generated_at: "2026-03-30T02:55:33.260Z"
+generated_at: "2026-11-23T21:26:09.619Z"
+status: "active"
 ---
 
 # § 10132. Bureau of Justice Statistics
@@ -48,3 +49,35 @@ generated_at: "2026-03-30T02:55:33.260Z"
 - **(e)** Federal agencies requested to furnish information, data, or reports pursuant to subsection (d)(1)(C) shall provide such information to the Bureau as is required to carry out the purposes of this section.
 - **(f)** In recommending standards for gathering justice statistics under this section, the Director shall consult with representatives of State, tribal, and local government, including, where appropriate, representatives of the judiciary.
 - **(g)** Not later than 1 year after July 29, 2010 , and annually thereafter, the Director shall submit to Congress a report describing the data collected and analyzed under this section relating to crimes in Indian country.
+
+“Nothing in this section [amending this section and section 41507 of this title ] or any amendment made by this section—
+
+Definition
+
+Study and Report Required
+
+National Prisoner Statistics Program
+
+Report to Judiciary Committees
+
+In General
+
+Issues Addressed
+
+“Beginning not later than 2 years after the date of enactment of this Act [ Nov. 22, 2000 ], as part of each National Crime Victimization Survey, the Attorney General shall include statistics relating to—
+
+Findings
+
+Purposes
+
+In General
+
+Issues Addressed
+
+National Academy of Sciences
+
+Report
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 302](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 96–157, § 2](https://www.govinfo.gov/link/plaw/96/public/157), Dec. 27, 1979, [93 Stat. 1176](https://www.govinfo.gov/link/statute/93/1176); amended [Pub. L. 98–473, title II, § 605(b)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2079](https://www.govinfo.gov/link/statute/98/2079); [Pub. L. 100–690, title VI, § 6092(a)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4339](https://www.govinfo.gov/link/statute/102/4339); [Pub. L. 103–322, title XXXIII, § 330001(h)(2)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2139](https://www.govinfo.gov/link/statute/108/2139); [Pub. L. 109–162, title XI, § 1115(a)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3103](https://www.govinfo.gov/link/statute/119/3103); [Pub. L. 111–211, title II, § 251(b)](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2297](https://www.govinfo.gov/link/statute/124/2297); [Pub. L. 112–166, § 2(h)(1)](https://www.govinfo.gov/link/plaw/112/public/166), Aug. 10, 2012, [126 Stat. 1285](https://www.govinfo.gov/link/statute/126/1285).)*

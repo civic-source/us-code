@@ -3,9 +3,10 @@ title: "Section 10103 - Reports to Congress"
 usc_title: 22
 usc_section: "10103"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10103"
-generated_at: "2026-03-30T02:55:05.475Z"
+generated_at: "2026-11-23T21:25:58.794Z"
+status: "active"
 ---
 
 # § 10103. Reports to Congress
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:05.475Z"
 - **(e)** In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committee on Appropriations, the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, and the Committee on the Judiciary of the Senate; and
   - **(2)** the Committee on Appropriations, the Committee on Financial Services, the Committee on Foreign Affairs, and the Committee on the Judiciary of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 114–328, div. A, title XII, § 1264](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2536](https://www.govinfo.gov/link/statute/130/2536).)*

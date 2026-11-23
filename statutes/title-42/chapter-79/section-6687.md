@@ -3,9 +3,10 @@ title: "Section 6687 - Critical technology strategies"
 usc_title: 42
 usc_section: "6687"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6687"
-generated_at: "2026-03-30T02:56:11.265Z"
+generated_at: "2026-11-23T21:26:32.972Z"
+status: "active"
 ---
 
 # § 6687. Critical technology strategies
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.265Z"
   - **(1)** For each critical technology designated by the President for the purpose of subsection (a), a description of the progress made in implementing subsection (a) during the fiscal year preceding the fiscal year in which the report is submitted.
   - **(2)** A description of each proposed program, if any, for further implementing subsection (a) with respect to a critical technology through the date for the submission of the next annual report.
   - **(3)** A copy of each strategy, if any, completed or revised pursuant to subsection (a) during the fiscal year covered by the report.
+
+## Source Credit
+
+*([Pub. L. 102–190, div. A, title VIII, § 822(a)](https://www.govinfo.gov/link/plaw/102/public/190), (b), Dec. 5, 1991, [105 Stat. 1432](https://www.govinfo.gov/link/statute/105/1432), 1433.)*

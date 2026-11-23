@@ -3,9 +3,10 @@ title: "Section 2221 - Arson prevention grants"
 usc_title: 15
 usc_section: "2221"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2221"
-generated_at: "2026-03-30T02:54:08.169Z"
+generated_at: "2026-11-23T21:25:39.920Z"
+status: "active"
 ---
 
 # § 2221. Arson prevention grants
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:54:08.169Z"
 - **(l)**
   - **(1)** It is the sense of Congress that any recipient of a grant under this section should purchase, when available and cost-effective, American made equipment and products when expending grant monies.
   - **(2)** In allocating grants under this section, the Administrator shall provide to each recipient a notice describing the statement made in paragraph (1) by the Congress.
+
+## Source Credit
+
+*([Pub. L. 93–498, § 25](https://www.govinfo.gov/link/plaw/93/public/498), as added [Pub. L. 103–254, § 3](https://www.govinfo.gov/link/plaw/103/public/254), May 19, 1994, [108 Stat. 679](https://www.govinfo.gov/link/statute/108/679).)*

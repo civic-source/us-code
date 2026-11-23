@@ -3,9 +3,10 @@ title: "Section 363 - Use, sale, or lease of property"
 usc_title: 11
 usc_section: "363"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 363"
-generated_at: "2026-03-30T02:53:53.875Z"
+generated_at: "2026-11-23T21:25:34.902Z"
+status: "active"
 ---
 
 # § 363. Use, sale, or lease of property
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:53:53.875Z"
 - **(p)** In any hearing under this section—
   - **(1)** the trustee has the burden of proof on the issue of adequate protection; and
   - **(2)** the entity asserting an interest in property has the burden of proof on the issue of the validity, priority, or extent of such interest.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2572](https://www.govinfo.gov/link/statute/92/2572); [Pub. L. 98–353, title III, § 442](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 371](https://www.govinfo.gov/link/statute/98/371); [Pub. L. 99–554, title II, § 257(k)](https://www.govinfo.gov/link/plaw/99/public/554), Oct. 27, 1986, [100 Stat. 3115](https://www.govinfo.gov/link/statute/100/3115); [Pub. L. 103–394, title I, § 109](https://www.govinfo.gov/link/plaw/103/public/394), title II, §§ 214(b), 219(c), title V, § 501(d)(8), Oct. 22, 1994, [108 Stat. 4113](https://www.govinfo.gov/link/statute/108/4113), 4126, 4129, 4144; [Pub. L. 109–8, title II](https://www.govinfo.gov/link/plaw/109/public/8), §§ 204, 231(a), title XII, § 1221(a), Apr. 20, 2005, [119 Stat. 49](https://www.govinfo.gov/link/statute/119/49), 72, 195; [Pub. L. 111–327, § 2(a)(13)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3559](https://www.govinfo.gov/link/statute/124/3559); [Pub. L. 116–54, § 4(a)(6)](https://www.govinfo.gov/link/plaw/116/public/54), Aug. 23, 2019, [133 Stat. 1086](https://www.govinfo.gov/link/statute/133/1086).)*

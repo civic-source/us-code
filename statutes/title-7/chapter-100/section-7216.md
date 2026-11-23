@@ -3,9 +3,10 @@ title: "Section 7216 - Violations of contract"
 usc_title: 7
 usc_section: "7216"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7216"
-generated_at: "2026-03-30T02:53:42.445Z"
+generated_at: "2026-11-23T21:25:28.417Z"
+status: "active"
 ---
 
 # § 7216. Violations of contract
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.445Z"
   - **(1)** An owner or producer subject to a contract may not be required to make repayments to the Secretary of amounts received under the contract if the contract acreage has been foreclosed on and the Secretary determines that forgiving the repayments is appropriate to provide fair and equitable treatment.
   - **(2)** This subsection shall not void the responsibilities of the owner or producer under the contract if the owner or producer continues or resumes operation, or control, of the contract acreage. On the resumption of operation or control over the contract acreage by the owner or producer, the provisions of the contract in effect on the date of the foreclosure shall apply.
 - **(d)** A determination of the Secretary under this section shall be considered to be an adverse decision for purposes of the availability of administrative review of the determination.
+
+## Source Credit
+
+*([Pub. L. 104–127, title I, § 116](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 903](https://www.govinfo.gov/link/statute/110/903).)*

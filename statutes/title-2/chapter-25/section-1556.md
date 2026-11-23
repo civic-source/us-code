@@ -3,12 +3,17 @@ title: "Section 1556 - Authorization of appropriations"
 usc_title: 2
 usc_section: "1556"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1556"
-generated_at: "2026-03-30T02:53:04.815Z"
+generated_at: "2026-11-23T21:25:21.235Z"
+status: "active"
 ---
 
 # § 1556. Authorization of appropriations
 
 There are authorized to be appropriated to the Advisory Commission to carry out section 1551 of this title and section 1552 of this title , $500,000 for each of fiscal years 1995 and 1996.
 
+
+## Source Credit
+
+*([Pub. L. 104–4, title III, § 306](https://www.govinfo.gov/link/plaw/104/public/4), Mar. 22, 1995, [109 Stat. 70](https://www.govinfo.gov/link/statute/109/70).)*

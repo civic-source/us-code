@@ -3,9 +3,10 @@ title: "Section 4754 - Management of purchase cards"
 usc_title: 10
 usc_section: "4754"
 chapter: 367
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4754"
-generated_at: "2026-03-30T02:53:38.210Z"
+generated_at: "2026-11-23T21:25:32.785Z"
+status: "active"
 ---
 
 # § 4754. Management of purchase cards
@@ -41,3 +42,23 @@ generated_at: "2026-03-30T02:53:38.210Z"
     - **(A)** for the reimbursement of charges for unauthorized or erroneous purchases, in appropriate cases; and
     - **(B)** for appropriate adverse personnel actions or other punishment to be imposed in cases in which employees of the Department of Defense violate such regulations or are negligent or engage in misuse, abuse, or fraud with respect to a purchase card, including removal in appropriate cases; and
   - **(2)** provide that a violation of such regulations by a person subject to chapter 47 of this title (the Uniform Code of Military Justice) is punishable as a violation of section 892 of this title (article 92 of the Uniform Code of Military Justice).
+
+Management of Purchase Cards
+
+Required Safeguards and Internal Controls
+
+Penalties for Violations
+
+Policy Compliance
+
+Limitation on Number of Government Charge Card Accounts during Fiscal Year
+
+Requirement for Creditworthiness for Issuance of Government Charge Card
+
+Disciplinary Action for Misuse of Government Charge Card
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 106–65, div. A, title IX, § 933(a)(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 728](https://www.govinfo.gov/link/statute/113/728), § 2784; amended [Pub. L. 107–314, div. A, title X, § 1007(a)](https://www.govinfo.gov/link/plaw/107/public/314), (b)(1), Dec. 2, 2002, [116 Stat. 2633](https://www.govinfo.gov/link/statute/116/2633), 2634; [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title X, § 1003(a), Oct. 14, 2008, [122 Stat. 4582](https://www.govinfo.gov/link/statute/122/4582); [Pub. L. 112–194, § 2(b)](https://www.govinfo.gov/link/plaw/112/public/194), Oct. 5, 2012, [126 Stat. 1447](https://www.govinfo.gov/link/statute/126/1447); renumbered § 4754, [Pub. L. 116–283, div. A, title XVIII, § 1864(b)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4279](https://www.govinfo.gov/link/statute/134/4279).)*

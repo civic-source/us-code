@@ -3,9 +3,10 @@ title: "Section 5729 - Transportation expenses; prior return of family"
 usc_title: 5
 usc_section: "5729"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5729"
-generated_at: "2026-03-30T02:52:56.025Z"
+generated_at: "2026-11-23T21:25:23.298Z"
+status: "active"
 ---
 
 # § 5729. Transportation expenses; prior return of family
@@ -17,3 +18,20 @@ generated_at: "2026-03-30T02:52:56.025Z"
   - **(1)** their return was made at the expense of the employee before his return and for other than reasons of public interest; and
   - **(2)** he acquires eligibility for those transportation expenses.
 - **(c)** This section does not apply to appropriations for the Foreign Service of the United States.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 73b–3(a) (5th and 6th provisos). | Aug. 31, 1954, ch. 1155 (less 1st proviso), 68 Stat. 1008 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 73b–3(a)
+
+Aug. 31, 1954, ch. 1155
+
+68 Stat. 1008
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 505](https://www.govinfo.gov/link/statute/80/505); [Pub. L. 104–201, div. A, title XVII, § 1723(b)(1)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2759](https://www.govinfo.gov/link/statute/110/2759); [Pub. L. 105–264, § 6(9)](https://www.govinfo.gov/link/plaw/105/public/264), Oct. 19, 1998, [112 Stat. 2356](https://www.govinfo.gov/link/statute/112/2356).)*

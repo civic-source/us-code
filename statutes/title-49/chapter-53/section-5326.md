@@ -3,9 +3,10 @@ title: "Section 5326 - Transit asset management"
 usc_title: 49
 usc_section: "5326"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 5326"
-generated_at: "2026-03-30T02:56:19.315Z"
+generated_at: "2026-11-23T21:26:40.649Z"
+status: "active"
 ---
 
 # § 5326. Transit asset management
@@ -31,3 +32,27 @@ generated_at: "2026-03-30T02:56:19.315Z"
     - **(A)** the progress of the recipient during the fiscal year to which the report relates toward meeting the performance targets established under paragraph (2) for that fiscal year; and
     - **(B)** the performance targets established by the recipient for the subsequent fiscal year.
 - **(d)** Not later than 1 year after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall issue a final rule to implement the transit asset management system described in subsection (b).
+
+Definitions
+
+Capital asset
+
+Transit asset management plan
+
+Transit asset management system
+
+Transit Asset Management System
+
+Performance Measures and Targets.—
+
+In general
+
+Targets
+
+Reports
+
+Rulemaking
+
+## Source Credit
+
+*(Added [Pub. L. 112–141, div. B, § 20019](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 707](https://www.govinfo.gov/link/statute/126/707).)*

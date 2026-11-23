@@ -3,9 +3,10 @@ title: "Section 8441 - Preservation of contractual interest"
 usc_title: 42
 usc_section: "8441"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8441"
-generated_at: "2026-03-30T02:56:11.343Z"
+generated_at: "2026-11-23T21:26:33.202Z"
+status: "active"
 ---
 
 # § 8441. Preservation of contractual interest
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:56:11.343Z"
   - **(3)** the volume which would have been delivered, or for which payment would have been made, pursuant to such contract but for the prohibition on the use of such natural gas under subchapter III of this chapter or any rule or order thereunder; and
   - **(4)** the volume actually delivered or for which payment would have been made pursuant to such contract during the 12-calendar-month period ending immediately before such transfer of contractual interests pursuant to this section.
 - **(h)** Any action by the Commission under this section is subject to judicial review in accordance with chapter 7 of title 5.
+
+## Source Credit
+
+*([Pub. L. 95–620, title VII, § 731](https://www.govinfo.gov/link/plaw/95/public/620), Nov. 9, 1978, [92 Stat. 3336](https://www.govinfo.gov/link/statute/92/3336); [Pub. L. 100–42, § 1(c)(21)](https://www.govinfo.gov/link/plaw/100/public/42), May 21, 1987, [101 Stat. 314](https://www.govinfo.gov/link/statute/101/314).)*

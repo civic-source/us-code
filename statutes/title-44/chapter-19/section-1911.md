@@ -3,12 +3,17 @@ title: "Section 1911 - Free use of Government publications in depositories; disp
 usc_title: 44
 usc_section: "1911"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 1911"
-generated_at: "2026-03-30T02:55:56.292Z"
+generated_at: "2026-11-23T21:26:18.400Z"
+status: "active"
 ---
 
 # § 1911. Free use of Government publications in depositories; disposal of unwanted publications
 
 Depository libraries shall make Government publications available for the free use of the general public, and may dispose of them after retention for five years under section 1912 of this title , if the depository library is served by a regional depository library. Depository libraries not served by a regional depository library, or that are regional depository libraries themselves, shall retain Government publications permanently in either printed form or in microfacsimile form, except superseded publications or those issued later in bound form which may be discarded as authorized by the Superintendent of Documents.
 
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1286](https://www.govinfo.gov/link/statute/82/1286).)*

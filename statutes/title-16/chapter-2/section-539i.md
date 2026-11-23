@@ -3,9 +3,10 @@ title: "Section 539i - Fossil Ridge Recreation Management Area"
 usc_title: 16
 usc_section: "539i"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 539i"
-generated_at: "2026-03-30T02:54:22.863Z"
+generated_at: "2026-11-23T21:25:51.657Z"
+status: "active"
 ---
 
 # § 539i. Fossil Ridge Recreation Management Area
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:22.863Z"
 - **(e)** The designation of the recreation management area shall not be construed to prohibit, or change the administration of, the grazing of livestock within the recreation management area.
 - **(f)** No developed campgrounds shall be constructed within the recreation management area. After August 13, 1993 , no new roads or trails may be constructed within the recreation management area.
 - **(g)** Motorized travel shall be permitted within the recreation management area only on those established trails and routes existing as of July 1, 1991 , on which such travel was permitted as of such date, except that other trails and routes may be used where necessary for administrative purposes or to respond to an emergency. No later than one year after August 13, 1993 , the Secretary shall identify such routes and trails and shall prepare and make available to the public a map showing such routes and trails. Nothing in this subsection shall be construed as precluding the Secretary from closing any trail or route from use for purposes of resource protection or public safety.
+
+## Source Credit
+
+*([Pub. L. 103–77, § 5](https://www.govinfo.gov/link/plaw/103/public/77), Aug. 13, 1993, [107 Stat. 760](https://www.govinfo.gov/link/statute/107/760).)*

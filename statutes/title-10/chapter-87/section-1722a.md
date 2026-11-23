@@ -3,9 +3,10 @@ title: "Section 1722a - Special requirements for military personnel in the acqui
 usc_title: 10
 usc_section: "1722a"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1722a"
-generated_at: "2026-03-30T02:53:38.135Z"
+generated_at: "2026-11-23T21:25:32.530Z"
+status: "active"
 ---
 
 # § 1722a. Special requirements for military personnel in the acquisition field
@@ -26,3 +27,17 @@ generated_at: "2026-03-30T02:53:38.135Z"
   - **(3)** The Secretary of Defense shall ensure that a portion of the billets referred to in paragraphs (1) and (2) involve command of organizations primarily focused on contracting and are reserved for general officers and flag officers who have significant contracting experience.
 - **(d)** Any designation or reservation of a position for a member of the armed forces as a result of a policy established or guidance issued pursuant to this section shall be deemed to meet the requirements for an exception under paragraph (2) of section 1722(b) of this title from the limitation in paragraph (1) of such section.
 - **(e)** Not later than January 1 of each year, the Secretary of each military department shall submit to the Under Secretary of Defense for Acquisition and Sustainment a report describing how the Secretary fulfilled the objectives of this section in the preceding calendar year. The report shall include information on the reservation of acquisition billets for general officers and flag officers within the department concerned.
+
+Requirement for Policy and Guidance Regarding Military Personnel in Acquisition
+
+Objectives
+
+Reservation of Acquisition Billets for General Officers and Flag Officers
+
+Relationship to Limitation on Preference for Military Personnel
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title VIII, § 834(a)(1), Oct. 14, 2008, [122 Stat. 4535](https://www.govinfo.gov/link/statute/122/4535); amended [Pub. L. 114–92, div. A, title VIII, § 842](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 914](https://www.govinfo.gov/link/statute/129/914); [Pub. L. 116–92, div. A, title IX, § 902(16)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1544](https://www.govinfo.gov/link/statute/133/1544); [Pub. L. 116–283, div. A, title IX, § 924(b)(27)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3825](https://www.govinfo.gov/link/statute/134/3825); [Pub. L. 117–81, div. A, title X, § 1081(a)(23)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1920](https://www.govinfo.gov/link/statute/135/1920).)*

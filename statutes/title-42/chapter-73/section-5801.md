@@ -3,9 +3,10 @@ title: "Section 5801 - Congressional declaration of policy and purpose"
 usc_title: 42
 usc_section: "5801"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5801"
-generated_at: "2026-03-30T02:56:11.237Z"
+generated_at: "2026-11-23T21:26:32.821Z"
+status: "active"
 ---
 
 # § 5801. Congressional declaration of policy and purpose
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.237Z"
 - **(c)** The Congress finds that it is in the public interest that the licensing and related regulatory functions of the Atomic Energy Commission be separated from the performance of the other functions of the Commission, and that this separation be effected in an orderly manner, pursuant to this chapter, assuring adequacy of technical and other resources necessary for the performance of each.
 - **(d)** The Congress declares that it is in the public interest and the policy of Congress that small business concerns be given a reasonable opportunity to participate, insofar as is possible, fairly and equitably in grants, contracts, purchases, and other Federal activities relating to research, development, and demonstration of sources of energy efficiency, and utilization and conservation of energy. In carrying out this policy, to the extent practicable, the Administrator shall consult with the Administrator of the Small Business Administration.
 - **(e)** Determination of priorities which are warranted should be based on such considerations as power-related values of an energy source, preservation of material resources, reduction of pollutants, export market potential (including reduction of imports), among others. On such a basis, energy sources warranting priority might include, but not be limited to, the various methods of utilizing solar energy.
+
+## Source Credit
+
+*([Pub. L. 93–438, § 2](https://www.govinfo.gov/link/plaw/93/public/438), Oct. 11, 1974, [88 Stat. 1233](https://www.govinfo.gov/link/statute/88/1233).)*

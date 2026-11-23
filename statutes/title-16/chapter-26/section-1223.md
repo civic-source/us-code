@@ -3,9 +3,10 @@ title: "Section 1223 - Agreements with States and subdivisions; equitable sharin
 usc_title: 16
 usc_section: "1223"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1223"
-generated_at: "2026-03-30T02:54:22.944Z"
+generated_at: "2026-11-23T21:25:51.838Z"
+status: "active"
 ---
 
 # § 1223. Agreements with States and subdivisions; equitable sharing of costs; development improvements; availability of appropriations; State hunting and fishing laws applicable
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:22.944Z"
 - **(a)** and
 - **(b)** of section 1222 of this title . Such agreement shall, among other things, provide that the State or a political subdivision or agency thereof and the Secretary shall share in an equitable manner in the cost of managing, administering, and developing such areas, and such development may include the construction, operation, installation, and maintenance of buildings, devices, structures, recreational facilities, access roads, and other improvements, and such agreement shall be subject to the availability of appropriations. State hunting and fishing laws and regulations shall be applicable to such areas to the extent they are now or hereafter applicable.
 
+
+## Source Credit
+
+*([Pub. L. 90–454, § 3](https://www.govinfo.gov/link/plaw/90/public/454), Aug. 3, 1968, [82 Stat. 627](https://www.govinfo.gov/link/statute/82/627).)*

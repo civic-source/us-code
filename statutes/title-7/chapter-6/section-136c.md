@@ -3,9 +3,10 @@ title: "Section 136c - Experimental use permits"
 usc_title: 7
 usc_section: "136c"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 136c"
-generated_at: "2026-03-30T02:53:42.259Z"
+generated_at: "2026-11-23T21:25:27.892Z"
+status: "active"
 ---
 
 # § 136c. Experimental use permits
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.259Z"
 - **(e)** The Administrator may revoke any experimental use permit, at any time, if the Administrator finds that its terms or conditions are being violated, or that its terms and conditions are inadequate to avoid unreasonable adverse effects on the environment.
 - **(f)** Notwithstanding the foregoing provisions of this section, the Administrator shall, under such terms and conditions as the Administrator may by regulations prescribe, authorize any State to issue an experimental use permit for a pesticide. All provisions of section 136i of this title relating to State plans shall apply with equal force to a State plan for the issuance of experimental use permits under this section.
 - **(g)** Notwithstanding the foregoing provisions of this section, the Administrator may issue an experimental use permit for a pesticide to any public or private agricultural research agency or educational institution which applies for such permit. Each permit shall not exceed more than a one-year period or such other specific time as the Administrator may prescribe. Such permit shall be issued under such terms and conditions restricting the use of the pesticide as the Administrator may require. Such pesticide may be used only by such research agency or educational institution for purposes of experimentation.
+
+## Source Credit
+
+*(June 25, 1947, ch. 125, § 5, as added [Pub. L. 92–516, § 2](https://www.govinfo.gov/link/plaw/92/public/516), Oct. 21, 1972, [86 Stat. 983](https://www.govinfo.gov/link/statute/86/983); amended [Pub. L. 94–140, § 10](https://www.govinfo.gov/link/plaw/94/public/140), Nov. 28, 1975, [89 Stat. 754](https://www.govinfo.gov/link/statute/89/754); [Pub. L. 95–396, § 10](https://www.govinfo.gov/link/plaw/95/public/396), Sept. 30, 1978, [92 Stat. 828](https://www.govinfo.gov/link/statute/92/828); [Pub. L. 100–532, title VIII, § 801(d)](https://www.govinfo.gov/link/plaw/100/public/532), (q)(1)(D), Oct. 25, 1988, [102 Stat. 2681](https://www.govinfo.gov/link/statute/102/2681), 2683; [Pub. L. 102–237, title X, § 1006(b)(1)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1895](https://www.govinfo.gov/link/statute/105/1895); [Pub. L. 116–8, § 4](https://www.govinfo.gov/link/plaw/116/public/8), Mar. 8, 2019, [133 Stat. 487](https://www.govinfo.gov/link/statute/133/487).)*

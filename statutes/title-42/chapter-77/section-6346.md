@@ -3,9 +3,10 @@ title: "Section 6346 - Sustainable manufacturing initiative"
 usc_title: 42
 usc_section: "6346"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6346"
-generated_at: "2026-03-30T02:56:11.257Z"
+generated_at: "2026-11-23T21:26:32.935Z"
+status: "active"
 ---
 
 # § 6346. Sustainable manufacturing initiative
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.257Z"
   - **(3)** the Federal Energy Management Program of the Department of Energy; and
   - **(4)** the private sector and other appropriate agencies, including the National Institute of Standards and Technology.
 - **(c)** As part of the industrial efficiency programs of the Department of Energy, the Secretary shall carry out a joint industry-government partnership program to research, develop, and demonstrate new sustainable manufacturing and industrial technologies and processes that maximize the energy efficiency of industrial plants, reduce pollution, and conserve natural resources.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 376](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 117–58, div. D, title V, § 40522(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1067](https://www.govinfo.gov/link/statute/135/1067).)*

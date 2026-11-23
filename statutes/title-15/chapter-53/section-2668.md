@@ -3,9 +3,10 @@ title: "Section 2668 - Regional radon training centers"
 usc_title: 15
 usc_section: "2668"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2668"
-generated_at: "2026-03-30T02:54:08.180Z"
+generated_at: "2026-11-23T21:25:39.949Z"
+status: "active"
 ---
 
 # § 2668. Regional radon training centers
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:08.180Z"
   - **(6)** Any other uniform criteria that the Administrator deems necessary to promote the purpose described in subsection (b) and that the Administrator provides to potential applicants prior to the application process.
 - **(e)** No funding may be given under this section in any fiscal year to an applicant which in the preceding fiscal year received funding under this section unless the Administrator determines that the recipient satisfactorily implemented the activities that were funded in the preceding year.
 - **(f)** There is authorized to be appropriated to carry out the program under this section not to exceed $1,000,000 for each of fiscal years 1989, 1990, and 1991.
+
+## Source Credit
+
+*([Pub. L. 94–469, title III, § 308](https://www.govinfo.gov/link/plaw/94/public/469), as added [Pub. L. 100–551, § 1(a)](https://www.govinfo.gov/link/plaw/100/public/551), Oct. 28, 1988, [102 Stat. 2762](https://www.govinfo.gov/link/statute/102/2762).)*

@@ -3,9 +3,10 @@ title: "Section 12618 - Authorized benefits for Corps members"
 usc_title: 42
 usc_section: "12618"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12618"
-generated_at: "2026-03-30T02:56:11.420Z"
+generated_at: "2026-11-23T21:26:33.504Z"
+status: "active"
 ---
 
 # § 12618. Authorized benefits for Corps members
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.420Z"
   - **(1)** serves in an approved national service position; and
   - **(2)** satisfies the eligibility requirements specified in section 12602 of this title with respect to service in that approved national service position.
 - **(g)** If a Corps member who successfully completes a period of agreed service in the Corps is ineligible for the national service educational award described in division D, the Director may provide for the provision of a suitable alternative benefit for the Corps member.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 158](https://www.govinfo.gov/link/plaw/101/public/610), formerly § 195G, as added [Pub. L. 102–484, div. A, title X, § 1092(a)(1)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2526](https://www.govinfo.gov/link/statute/106/2526); renumbered § 158 and amended [Pub. L. 103–82, title I, § 104(b)](https://www.govinfo.gov/link/plaw/103/public/82), (g), title IV, § 403(b), Sept. 21, 1993, [107 Stat. 840](https://www.govinfo.gov/link/statute/107/840), 847, 920; [Pub. L. 111–13, title I, § 1508](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1525](https://www.govinfo.gov/link/statute/123/1525).)*

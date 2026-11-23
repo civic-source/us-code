@@ -3,9 +3,10 @@ title: "Section 9058a - Emergency rental assistance"
 usc_title: 15
 usc_section: "9058a"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9058a"
-generated_at: "2026-03-30T02:54:08.242Z"
+generated_at: "2026-11-23T21:25:40.127Z"
+status: "active"
 ---
 
 # § 9058a. Emergency rental assistance
@@ -150,3 +151,7 @@ generated_at: "2026-03-30T02:54:08.242Z"
   - **(5)** The term “Secretary” means the Secretary of the Treasury.
   - **(6)** The term “unit of local government” has the meaning given such term in paragraph (2) of section 801(g) of title 42 , except that, in applying such term for purposes of this section, such paragraph shall be applied by substituting “200,000” for “500,000”.
 - **(l)** The authority of an eligible grantee to make new obligations to provide payments under subsection (c) shall terminate on the date established in subsection (e) for that eligible grantee. Amounts not expended in accordance with this section shall revert to the Department of the Treasury.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. N, title V, § 501](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2069](https://www.govinfo.gov/link/statute/134/2069); [Pub. L. 117–2, title III, § 3201(h)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 58](https://www.govinfo.gov/link/statute/135/58).)*

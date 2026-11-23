@@ -3,9 +3,10 @@ title: "Section 2651 - Recovery by United States"
 usc_title: 42
 usc_section: "2651"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2651"
-generated_at: "2026-03-30T02:56:11.166Z"
+generated_at: "2026-11-23T21:26:32.428Z"
+status: "active"
 ---
 
 # § 2651. Recovery by United States
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.166Z"
     - **(B)** the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy;
     - **(C)** the Secretary of Health and Human Services, with respect to the commissioned corps of the Public Health Service; and
     - **(D)** the Secretary of Commerce, with respect to the commissioned corps of the National Oceanic and Atmospheric Administration.
+
+## Source Credit
+
+*([Pub. L. 87–693, § 1](https://www.govinfo.gov/link/plaw/87/public/693), Sept. 25, 1962, [76 Stat. 593](https://www.govinfo.gov/link/statute/76/593); [Pub. L. 102–54, § 13(q)(8)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 281](https://www.govinfo.gov/link/statute/105/281); [Pub. L. 104–201, div. A, title X, § 1075(a)](https://www.govinfo.gov/link/plaw/104/public/201), (b), Sept. 23, 1996, [110 Stat. 2661](https://www.govinfo.gov/link/statute/110/2661), 2663; [Pub. L. 109–241, title IX, § 902(m)](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 568](https://www.govinfo.gov/link/statute/120/568).)*

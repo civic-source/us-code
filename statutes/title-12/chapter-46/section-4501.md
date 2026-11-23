@@ -3,9 +3,10 @@ title: "Section 4501 - Congressional findings"
 usc_title: 12
 usc_section: "4501"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4501"
-generated_at: "2026-03-30T02:53:53.505Z"
+generated_at: "2026-11-23T21:25:37.178Z"
+status: "active"
 ---
 
 # § 4501. Congressional findings
@@ -20,3 +21,7 @@ The Congress finds that—
   - **(6)** an entity regulating such enterprises should have the authority to establish capital standards, require financial disclosure, prescribe adequate standards for books and records and other internal controls, conduct examinations when necessary, and enforce compliance with the standards and rules that it establishes;
   - **(7)** the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation have an affirmative obligation to facilitate the financing of affordable housing for low- and moderate-income families in a manner consistent with their overall public purposes, while maintaining a strong financial condition and a reasonable economic return; and
   - **(8)** the Federal Home Loan Bank Act [ 12 U.S.C. 1421 et seq.] should be amended to emphasize that providing for financial safety and soundness of the Federal Home Loan Banks is the primary mission of the Federal Housing Finance Board.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1302](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3941](https://www.govinfo.gov/link/statute/106/3941).)*

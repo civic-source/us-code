@@ -3,12 +3,17 @@ title: "Section 430k - Condemnation proceedings; purchase without condemnation; 
 usc_title: 16
 usc_section: "430k"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 430k"
-generated_at: "2026-03-30T02:54:22.796Z"
+generated_at: "2026-11-23T21:25:51.519Z"
+status: "active"
 ---
 
 # § 430k. Condemnation proceedings; purchase without condemnation; acceptance of donations of land
 
 The Secretary of the Interior is authorized to cause condemnation proceedings to be instituted in the name of the United States under the provisions of section 3113 of title 40 , to acquire title to the lands, interests therein, or rights pertaining thereto within the said battlefield, and the United States shall be entitled to immediate possession upon the filing of the petition in condemnation in the United States District Court for the District of Maryland: Provided , That when the owner of such lands, interests therein, or rights pertaining thereto shall fix a price for the same, which, in the opinion of the Secretary of the Interior, shall be reasonable, the Secretary may purchase the same without further delay: Provided further , That the Secretary of the Interior is authorized to accept, on behalf of the United States, donations of lands, interests therein, or rights pertaining thereto required for the battlefield: And provided further , That title and evidence of title to lands and interests therein acquired for said battlefield shall be satisfactory to the Secretary of the Interior.
 
+
+## Source Credit
+
+*(June 21, 1934, ch. 694, § 2, [48 Stat. 1199](https://www.govinfo.gov/link/statute/48/1199); [Pub. L. 94–578, title III, § 319(2)](https://www.govinfo.gov/link/plaw/94/public/578), Oct. 21, 1976, [90 Stat. 2738](https://www.govinfo.gov/link/statute/90/2738).)*

@@ -3,9 +3,10 @@ title: "Section 17093 - Federal green building performance"
 usc_title: 42
 usc_section: "17093"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17093"
-generated_at: "2026-03-30T02:56:11.495Z"
+generated_at: "2026-11-23T21:26:33.763Z"
+status: "active"
 ---
 
 # § 17093. Federal green building performance
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.495Z"
   - **(5)** high-performance building data that were collected and reported to the Office; and
   - **(6)** such other matters as the Comptroller General of the United States determines to be appropriate.
 - **(c)** The Federal Director shall consult with the Advisory Committee to enhance, and assist in the implementation of, the Office of Management and Budget government efficiency reports and scorecards under section 17144 of this title and the Environmental Stewardship Scorecard announced at the White House summit on Federal sustainable buildings in January 2006, to measure the implementation by each Federal agency of sustainable design and green building initiatives.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IV, § 437](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1619](https://www.govinfo.gov/link/statute/121/1619).)*

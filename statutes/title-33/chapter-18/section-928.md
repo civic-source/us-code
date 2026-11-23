@@ -3,9 +3,10 @@ title: "Section 928 - Fees for services"
 usc_title: 33
 usc_section: "928"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 928"
-generated_at: "2026-03-30T02:55:41.077Z"
+generated_at: "2026-11-23T21:26:11.351Z"
+status: "active"
 ---
 
 # § 928. Fees for services
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:41.077Z"
 - **(c)** In all cases fees for attorneys representing the claimant shall be approved in the manner herein provided. If any proceedings are had before the Board or any court for review of any action, award, order, or decision, the Board or court may approve an attorney’s fee for the work done before it by the attorney for the claimant. An approved attorney’s fee, in cases in which the obligation to pay the fee is upon the claimant, may be made a lien upon the compensation due under an award; and the deputy commissioner, Board, or court shall fix in the award approving the fee, such lien and manner of payment.
 - **(d)** In cases where an attorney’s fee is awarded against an employer or carrier there may be further assessed against such employer or carrier as costs, fees and mileage for necessary witnesses attending the hearing at the instance of claimant. Both the necessity for the witness and the reasonableness of the fees of expert witnesses must be approved by the hearing officer, the Board, or the court, as the case may be. The amounts awarded against an employer or carrier as attorney’s fees, costs, fees and mileage for witnesses shall not in any respect affect or diminish the compensation payable under this chapter.
 - **(e)** A person who receives a fee, gratuity, or other consideration on account of services rendered as a representative of a claimant, unless the consideration is approved by the deputy commissioner, administrative law judge, Board, or court, or who makes it a business to solicit employment for a lawyer, or for himself, with respect to a claim or award for compensation under this chapter, shall, upon conviction thereof, for each offense be punished by a fine of not more than $1,000 or be imprisoned for not more than one year, or both.
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 509, § 28, [44 Stat. 1438](https://www.govinfo.gov/link/statute/44/1438); [Pub. L. 92–576, § 13](https://www.govinfo.gov/link/plaw/92/public/576), Oct. 27, 1972, [86 Stat. 1259](https://www.govinfo.gov/link/statute/86/1259); [Pub. L. 98–426, § 17](https://www.govinfo.gov/link/plaw/98/public/426), Sept. 28, 1984, [98 Stat. 1650](https://www.govinfo.gov/link/statute/98/1650).)*

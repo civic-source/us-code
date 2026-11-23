@@ -3,9 +3,10 @@ title: "Section 23 - Standardized contracts for certain commodities"
 usc_title: 7
 usc_section: "23"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 23"
-generated_at: "2026-03-30T02:53:42.248Z"
+generated_at: "2026-11-23T21:25:27.867Z"
+status: "active"
 ---
 
 # § 23. Standardized contracts for certain commodities
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:42.248Z"
     - **(A)** may authorize or require, notwithstanding any other provision of law, a futures association registered under this chapter to perform such responsibilities in connection with such transactions as the Commission may specify; and
     - **(B)** may require that permission for additional persons to engage in such business be given on a gradual basis, so as not to place an undue burden on the resources of the Commission.
 - **(d)** This section shall not affect any rights or obligations arising out of any transaction subject to this section, as in effect before November 10, 1986 , that was entered into, or the execution of which was confirmed, before November 10, 1986 .
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 19, as added [Pub. L. 95–405, § 23](https://www.govinfo.gov/link/plaw/95/public/405), Sept. 30, 1978, [92 Stat. 876](https://www.govinfo.gov/link/statute/92/876); amended [Pub. L. 97–444, title II, § 234](https://www.govinfo.gov/link/plaw/97/public/444), Jan. 11, 1983, [96 Stat. 2322](https://www.govinfo.gov/link/statute/96/2322); [Pub. L. 99–641, title I, § 109](https://www.govinfo.gov/link/plaw/99/public/641), Nov. 10, 1986, [100 Stat. 3560](https://www.govinfo.gov/link/statute/100/3560).)*

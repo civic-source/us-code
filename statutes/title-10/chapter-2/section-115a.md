@@ -3,9 +3,10 @@ title: "Section 115a - Annual defense manpower profile report and related report
 usc_title: 10
 usc_section: "115a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 115a"
-generated_at: "2026-03-30T02:53:38.030Z"
+generated_at: "2026-11-23T21:25:32.205Z"
+status: "active"
 ---
 
 # § 115a. Annual defense manpower profile report and related reports
@@ -59,3 +60,19 @@ generated_at: "2026-03-30T02:53:38.030Z"
   - **(1)** The number of members of the Armed Forces who are not citizens of the United States during the year covered by such report.
   - **(2)** The immigration status of such members.
   - **(3)** The number of such members naturalized.
+
+Centralized Database Required
+
+Elements.—
+
+Identification of positions
+
+Additional details
+
+Consultation
+
+Implementation Report
+
+## Source Credit
+
+*(Added [Pub. L. 101–510, div. A, title XIV, § 1483(a)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1711](https://www.govinfo.gov/link/statute/104/1711); amended [Pub. L. 102–190, div. A, title X, § 1061(a)(1)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1472](https://www.govinfo.gov/link/statute/105/1472); [Pub. L. 104–106, div. A, title V, § 513(e)](https://www.govinfo.gov/link/plaw/104/public/106), title X, § 1061(d), Feb. 10, 1996, [110 Stat. 307](https://www.govinfo.gov/link/statute/110/307), 442; [Pub. L. 105–85, div. A, title V, § 522(i)(2)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1736](https://www.govinfo.gov/link/statute/111/1736); [Pub. L. 105–261, div. A, title IV, § 403](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 1996](https://www.govinfo.gov/link/statute/112/1996); [Pub. L. 111–84, div. A, title XI, § 1109(b)(1)](https://www.govinfo.gov/link/plaw/111/public/84) –(2)(B)(i), Oct. 28, 2009, [123 Stat. 2492](https://www.govinfo.gov/link/statute/123/2492), 2493; [Pub. L. 112–81, div. A, title IX, § 934](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1544](https://www.govinfo.gov/link/statute/125/1544); [Pub. L. 112–239, div. A, title V, § 519(b)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1721](https://www.govinfo.gov/link/statute/126/1721); [Pub. L. 115–91, div. A, title X, § 1051(a)(2)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1560](https://www.govinfo.gov/link/statute/131/1560); [Pub. L. 115–232, div. A, title V, § 591](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1788](https://www.govinfo.gov/link/statute/132/1788); [Pub. L. 116–92, div. A, title XVII, § 1701(a)](https://www.govinfo.gov/link/plaw/116/public/92) –(c)(1), Dec. 20, 2019, [133 Stat. 1794](https://www.govinfo.gov/link/statute/133/1794), 1795; [Pub. L. 116–283, div. A, title V, § 551(a)(4)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3629](https://www.govinfo.gov/link/statute/134/3629); [Pub. L. 117–263, div. A, title V, § 591](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2611](https://www.govinfo.gov/link/statute/136/2611); [Pub. L. 118–31, div. A, title XVII, § 1722(a)(1)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 667](https://www.govinfo.gov/link/statute/137/667); [Pub. L. 118–159, div. A, title IV, § 431](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1865](https://www.govinfo.gov/link/statute/138/1865); [Pub. L. 119–60, div. A, title IV, § 422(a)](https://www.govinfo.gov/link/plaw/119/public/60), (b)(1), (2)(B), Dec. 18, 2025, [139 Stat. 850](https://www.govinfo.gov/link/statute/139/850), 851.)*

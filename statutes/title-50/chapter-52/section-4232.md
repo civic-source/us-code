@@ -3,9 +3,10 @@ title: "Section 4232 - Definitions"
 usc_title: 50
 usc_section: "4232"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4232"
-generated_at: "2026-03-30T02:56:26.270Z"
+generated_at: "2026-11-23T21:26:39.091Z"
+status: "active"
 ---
 
 # § 4232. Definitions
@@ -22,3 +23,7 @@ As used in this subchapter—
   - **(6)** the term “Secretary” means the Secretary of the Interior;
   - **(7)** the term “Fund” means the Aleutian and Pribilof Islands Restitution Fund established in section 4233 of this title ; and
   - **(8)** the term “World War II” means the period beginning on December 7, 1941 , and ending on September 2, 1945 .
+
+## Source Credit
+
+*([Pub. L. 100–383, title II, § 202](https://www.govinfo.gov/link/plaw/100/public/383), Aug. 10, 1988, [102 Stat. 911](https://www.govinfo.gov/link/statute/102/911).)*

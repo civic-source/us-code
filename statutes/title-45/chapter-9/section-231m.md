@@ -3,9 +3,10 @@ title: "Section 231m - Assignability; exemption from levy"
 usc_title: 45
 usc_section: "231m"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 231m"
-generated_at: "2026-03-30T02:55:56.547Z"
+generated_at: "2026-11-23T21:26:19.199Z"
+status: "active"
 ---
 
 # § 231m. Assignability; exemption from levy
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:56.547Z"
       - **(iii)** The employee attains age 62 (or if deceased, would have attained age 62).
     - **(B)** Payments made pursuant to paragraph (2) of this subsection shall terminate upon the death of the spouse or former spouse, unless the court document provides for termination at an earlier date. Notwithstanding the language in a court order, that portion of payments made pursuant to paragraph (2) which represents payments computed pursuant to section 231b(f)(2) of this title shall not be paid after the death of the employee.
     - **(C)** If the employee is not entitled to an annuity under section 231a(a)(1) of this title , payments made pursuant to paragraph (2) of this subsection shall be computed as though the employee were entitled to an annuity.
+
+## Source Credit
+
+*(Aug. 29, 1935, ch. 812, § 14, as restated June 24, 1937, ch. 382, pt. I, [50 Stat. 307](https://www.govinfo.gov/link/statute/50/307), as restated [Pub. L. 93–445, title I, § 101](https://www.govinfo.gov/link/plaw/93/public/445), Oct. 16, 1974, [88 Stat. 1345](https://www.govinfo.gov/link/statute/88/1345); amended [Pub. L. 98–76, title IV, § 419(a)](https://www.govinfo.gov/link/plaw/98/public/76), Aug. 12, 1983, [97 Stat. 438](https://www.govinfo.gov/link/statute/97/438); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 110–458, title I, § 110(a)(1)](https://www.govinfo.gov/link/plaw/110/public/458), Dec. 23, 2008, [122 Stat. 5112](https://www.govinfo.gov/link/statute/122/5112).)*

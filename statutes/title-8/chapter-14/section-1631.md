@@ -3,9 +3,10 @@ title: "Section 1631 - Federal attribution of sponsor’s income and resources t
 usc_title: 8
 usc_section: "1631"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1631"
-generated_at: "2026-03-30T02:53:10.506Z"
+generated_at: "2026-11-23T21:25:25.213Z"
+status: "active"
 ---
 
 # § 1631. Federal attribution of sponsor’s income and resources to alien
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:10.506Z"
     - **(A)** during a 12 month period if the alien demonstrates that (i) the alien has been battered or subjected to extreme cruelty in the United States by a spouse or a parent, or by a member of the spouse or parent’s family residing in the same household as the alien and the spouse or parent consented to or acquiesced to such battery or cruelty, (ii) the alien’s child has been battered or subjected to extreme cruelty in the United States by the spouse or parent of the alien (without the active participation of the alien in the battery or cruelty), or by a member of the spouse’s or parent’s family residing in the same household as the alien when the spouse or parent consented or acquiesced to and the alien did not actively participate in such battery or cruelty, or (iii) the alien is a child whose parent (who resides in the same household as the alien child) has been battered or subjected to extreme cruelty in the United States by that parent’s spouse, or by a member of the spouse’s family residing in the same household as the parent and the spouse consented to, or acquiesced in, such battery or cruelty, and the battery or cruelty described in clause (i), (ii), or (iii) (in the opinion of the agency providing such public benefits, which opinion is not subject to review by any court) has a substantial connection to the need for the public benefits applied for; and
     - **(B)** after a 12 month period (regarding the batterer’s income and resources only) if the alien demonstrates that such battery or cruelty under subparagraph (A) has been recognized in an order of a judge or administrative law judge or a prior determination of the Immigration and Naturalization Service, and that such battery or cruelty (in the opinion of the agency providing such public benefits, which opinion is not subject to review by any court) has a substantial connection to the need for the benefits.
   - **(2)** The exception under paragraph (1) shall not apply to benefits for an alien during any period in which the individual responsible for such battery or cruelty resides in the same household or family eligibility unit as the individual who was subjected to such battery or cruelty.
+
+## Source Credit
+
+*([Pub. L. 104–193, title IV, § 421](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2270](https://www.govinfo.gov/link/statute/110/2270); [Pub. L. 104–208, div. C, title V](https://www.govinfo.gov/link/plaw/104/public/208), §§ 551(b)(1), 552, Sept. 30, 1996, [110 Stat. 3009–679](https://www.govinfo.gov/link/statute/110/3009), 3009–680; [Pub. L. 105–33, title V, § 5571(d)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 641](https://www.govinfo.gov/link/statute/111/641); [Pub. L. 107–171, title IV, § 4401(b)(2)(B)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 333](https://www.govinfo.gov/link/statute/116/333).)*

@@ -3,9 +3,10 @@ title: "Section 2302 - Penalties for negligent operations and interfering with s
 usc_title: 46
 usc_section: "2302"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 2302"
-generated_at: "2026-03-30T02:56:15.541Z"
+generated_at: "2026-11-23T21:26:37.034Z"
+status: "active"
 ---
 
 # § 2302. Penalties for negligent operations and interfering with safe operation
@@ -31,3 +32,28 @@ generated_at: "2026-03-30T02:56:15.541Z"
     - **(A)** 1 year after the date of the publication in electronic form on which the prohibition is based; or
     - **(B)** any date on which the owner or operator of the vessel prevails in an appeal of the violation of the relevant international convention on which the detention is based.
   - **(3)** As used in this subsection, the term “Government-impelled cargo” means cargo for which a Federal agency contracts directly for shipping by water or for which (or the freight of which) a Federal agency provides financing, including financing by grant, loan, or loan guarantee, resulting in shipment of the cargo by water.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 2302(a) | 46:1461(d) 46:1484(b) |
+| 2302(b) | 46:1461(d) 46:1483 |
+| 2302(c) | 46:1484(b) |
+
+
+Grossly Negligent Operation.—
+
+Misdemeanor
+
+Felony
+
+Historical and Revision Notes
+
+2302(a)
+
+2302(b)
+
+2302(c)
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 508](https://www.govinfo.gov/link/statute/97/508); [Pub. L. 98–557, § 7(a)](https://www.govinfo.gov/link/plaw/98/public/557), Oct. 30, 1984, [98 Stat. 2862](https://www.govinfo.gov/link/statute/98/2862); [Pub. L. 101–380, title IV](https://www.govinfo.gov/link/plaw/101/public/380), §§ 4105(b)(2), 4302(a), Aug. 18, 1990, [104 Stat. 513](https://www.govinfo.gov/link/statute/104/513), 537; [Pub. L. 102–587, title V, § 5102](https://www.govinfo.gov/link/plaw/102/public/587), Nov. 4, 1992, [106 Stat. 5071](https://www.govinfo.gov/link/statute/106/5071); [Pub. L. 105–383, title III](https://www.govinfo.gov/link/plaw/105/public/383), §§ 302(a), 304(c), title IV, § 408(a), Nov. 13, 1998, [112 Stat. 3417](https://www.govinfo.gov/link/statute/112/3417), 3419, 3430; [Pub. L. 107–295, title III, § 325](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2105](https://www.govinfo.gov/link/statute/116/2105); [Pub. L. 119–60, div. G, title LXXIII, § 7311](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1759](https://www.govinfo.gov/link/statute/139/1759).)*

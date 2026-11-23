@@ -3,9 +3,10 @@ title: "Section 504 - Training and education"
 usc_title: 23
 usc_section: "504"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 504"
-generated_at: "2026-03-30T02:55:12.573Z"
+generated_at: "2026-11-23T21:25:53.937Z"
+status: "active"
 ---
 
 # § 504. Training and education
@@ -162,3 +163,165 @@ generated_at: "2026-03-30T02:55:12.573Z"
 - **(i)** The Secretary may use funds made available to carry out this section to carry out activities related to workforce development and technical assistance and training if—
   - **(1)** the activities are authorized by another provision of this title; and
   - **(2)** the activities are for entities other than employees of the Secretary, such as States, units of local government, Federal land management agencies, and Tribal governments.
+
+National Highway Institute.—
+
+In general
+
+Duties of the institute
+
+Courses.—
+
+In general
+
+Additional courses
+
+Revision of courses offered
+
+Set-aside; federal share
+
+Federal responsibility.—
+
+In general
+
+Payment of full cost by private persons
+
+Training fellowships; cooperation
+
+Collection of fees.—
+
+General rule
+
+Limitation
+
+Persons subject to fees
+
+Amount of fees
+
+Use
+
+Relation to fees
+
+Local Technical Assistance Program.—
+
+Authority
+
+Grants, cooperative agreements, and contracts
+
+Federal share.—
+
+Local technical assistance centers.—
+
+In general
+
+Non-federal share
+
+Tribal technical assistance centers
+
+Research Fellowships.—
+
+General authority
+
+Dwight david eisenhower transportation fellowship program.—
+
+In general
+
+Use of amounts
+
+In general
+
+Authorized activities
+
+Application and review procedures.—
+
+In general
+
+Priority
+
+Eligibility
+
+Definitions
+
+Institution of higher education
+
+Local educational agency
+
+State educational agency
+
+Surface Transportation Workforce Development, Training, and Education.—
+
+Funding
+
+Federal share
+
+Surface transportation workforce development, training, and education defined
+
+Transportation Education and Training Development and Deployment Program.—
+
+Establishment
+
+Selection of grant recipients
+
+Reporting
+
+Limitations
+
+Freight Capacity Building Program.—
+
+Establishment
+
+Agreements
+
+Stakeholder involvement
+
+Eligible activities
+
+Federal share
+
+Use of funds
+
+Centers for Surface Transportation Excellence.—
+
+In general
+
+Goals
+
+Role of the centers
+
+Program administration.—
+
+Competition
+
+Strategic plan
+
+Use of Funds
+
+Pilot
+
+Program
+
+Establishment
+
+Activities
+
+Program Administration
+
+Funding.—
+
+In general
+
+Federal share
+
+In General.—
+
+Establishment of program
+
+Partnership
+
+Participation
+
+Funding
+
+## Source Credit
+
+*(Added [Pub. L. 105–178, title V, § 5104](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 429](https://www.govinfo.gov/link/statute/112/429); amended [Pub. L. 109–59, title V, § 5204(a)(1)](https://www.govinfo.gov/link/plaw/109/public/59), (b), (d)(1), (e), (h)(1), Aug. 10, 2005, [119 Stat. 1790](https://www.govinfo.gov/link/statute/119/1790), 1792–1794; [Pub. L. 112–141, div. E, title II, § 52004](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 880](https://www.govinfo.gov/link/statute/126/880); [Pub. L. 114–94, div. A, title I, § 1109(c)(4)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1343](https://www.govinfo.gov/link/statute/129/1343); [Pub. L. 114–95, title IX, § 9215(vvv)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2191](https://www.govinfo.gov/link/statute/129/2191); [Pub. L. 117–58, div. A, title I, § 11525(s)](https://www.govinfo.gov/link/plaw/117/public/58), title III, § 13007, Nov. 15, 2021, [135 Stat. 608](https://www.govinfo.gov/link/statute/135/608), 639.)*

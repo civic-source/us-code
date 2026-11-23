@@ -3,9 +3,10 @@ title: "Section 4331 - Congressional declaration of national environmental polic
 usc_title: 42
 usc_section: "4331"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4331"
-generated_at: "2026-03-30T02:56:11.201Z"
+generated_at: "2026-11-23T21:26:32.646Z"
+status: "active"
 ---
 
 # § 4331. Congressional declaration of national environmental policy
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.201Z"
   - **(5)** achieve a balance between population and resource use which will permit high standards of living and a wide sharing of life’s amenities; and
   - **(6)** enhance the quality of renewable resources and approach the maximum attainable recycling of depletable resources.
 - **(c)** The Congress recognizes that each person should enjoy a healthful environment and that each person has a responsibility to contribute to the preservation and enhancement of the environment.
+
+## Source Credit
+
+*([Pub. L. 91–190, title I, § 101](https://www.govinfo.gov/link/plaw/91/public/190), Jan. 1, 1970, [83 Stat. 852](https://www.govinfo.gov/link/statute/83/852).)*

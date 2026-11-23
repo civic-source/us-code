@@ -3,9 +3,10 @@ title: "Section 3013 - Board of Directors"
 usc_title: 12
 usc_section: "3013"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3013"
-generated_at: "2026-03-30T02:53:53.489Z"
+generated_at: "2026-11-23T21:25:37.115Z"
+status: "active"
 ---
 
 # § 3013. Board of Directors
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:53.489Z"
 - **(f)** The Board shall annually elect from among its members a chairman and vice chairman and select a secretary who need not be a member. The Board shall establish the policies of the Bank governing its funding, lending, and other financial and technical assistance, and shall direct the management of the Bank.
 - **(g)** The Board shall meet at least quarterly. Its meeting shall be open to members or representatives of all eligible cooperatives and other eligible organizations, as observers only, and to persons or representatives of groups who identify their interest in the Bank and who are invited to attend a meeting, subject to such rules as the Board may establish for the conduct of such meetings. Those rules shall include the manner of giving notice of meetings, the procedure for the conduct of meetings, the manner of submitting topics for the agenda, the allocation of time of presentations, and debate. The chairman, when sustained by the majority of the Board present, may adjourn the open meeting into an executive session on motion of the chairman, any Board member, or at the request of any applicant, borrower, officer, or employee when the matter under discussion involves an application, a loan, a personnel action, or other matter which might tend to impinge on the right of privacy of any person.
 - **(h)** Members of the Board appointed by the President from among the officers of the agencies and departments of the United States Government shall not receive any additional compensation by virtue of their service on the Board. The member of the Board appointed from among proprietors of small business and the member of the Board appointed pursuant to subsection (b)(1)(C) shall (1) receive compensation at a rate equal to the daily equivalent of the rate prescribed for grade GS–18 under section 5332 of title 5 for each day that they are engaged in the performance of their duties on the Board, and (2) be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) 1 1 See References in Text note below. of title 5 for each day that they are away from their homes or regular places of business in the performance of their duties on the Board. The members of the Board who are elected by the holders of class B stock and class C stock shall be compensated in accordance with the bylaws of the Bank. All compensation and expenses paid to the members of the Board of Directors shall be paid by the Bank.
+
+## Source Credit
+
+*([Pub. L. 95–351, title I, § 103](https://www.govinfo.gov/link/plaw/95/public/351), Aug. 20, 1978, [92 Stat. 502](https://www.govinfo.gov/link/statute/92/502); [Pub. L. 96–149](https://www.govinfo.gov/link/plaw/96/public/149), Dec. 16, 1979, [93 Stat. 1089](https://www.govinfo.gov/link/statute/93/1089); [Pub. L. 97–35, title III, § 393(a)](https://www.govinfo.gov/link/plaw/97/public/35), (b), Aug. 13, 1981, [95 Stat. 435](https://www.govinfo.gov/link/statute/95/435), 436.)*

@@ -3,9 +3,10 @@ title: "Section 108 - Extension of time"
 usc_title: 11
 usc_section: "108"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 108"
-generated_at: "2026-03-30T02:53:53.872Z"
+generated_at: "2026-11-23T21:25:34.887Z"
+status: "active"
 ---
 
 # § 108. Extension of time
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:53.872Z"
 - **(c)** Except as provided in section 524 of this title , if applicable nonbankruptcy law, an order entered in a nonbankruptcy proceeding, or an agreement fixes a period for commencing or continuing a civil action in a court other than a bankruptcy court on a claim against the debtor, or against an individual with respect to which such individual is protected under section 1201 or 1301 of this title, and such period has not expired before the date of the filing of the petition, then such period does not expire until the later of—
   - **(1)** the end of such period, including any suspension of such period occurring on or after the commencement of the case; or
   - **(2)** 30 days after notice of the termination or expiration of the stay under section 362, 922, 1201, or 1301 of this title, as the case may be, with respect to such claim.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2556](https://www.govinfo.gov/link/statute/92/2556); [Pub. L. 98–353, title III, § 424](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 369](https://www.govinfo.gov/link/statute/98/369); [Pub. L. 99–554, title II, § 257(b)](https://www.govinfo.gov/link/plaw/99/public/554), Oct. 27, 1986, [100 Stat. 3114](https://www.govinfo.gov/link/statute/100/3114); [Pub. L. 109–8, title XII, § 1203](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 193](https://www.govinfo.gov/link/statute/119/193).)*

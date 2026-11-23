@@ -3,9 +3,10 @@ title: "Section 3600A - Preservation of biological evidence"
 usc_title: 18
 usc_section: "3600A"
 chapter: 228
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3600A"
-generated_at: "2026-03-30T02:54:16.521Z"
+generated_at: "2026-11-23T21:25:44.215Z"
+status: "active"
 ---
 
 # § 3600A. Preservation of biological evidence
@@ -24,3 +25,21 @@ generated_at: "2026-03-30T02:54:16.521Z"
 - **(e)** Not later than 180 days after the date of enactment of the Innocence Protection Act of 2004, the Attorney General shall promulgate regulations to implement and enforce this section, including appropriate disciplinary sanctions to ensure that employees comply with such regulations.
 - **(f)** Whoever knowingly and intentionally destroys, alters, or tampers with biological evidence that is required to be preserved under this section with the intent to prevent that evidence from being subjected to DNA testing or prevent the production or use of that evidence in an official proceeding, shall be fined under this title, imprisoned for not more than 5 years, or both.
 - **(g)** Nothing in this section shall provide a basis for relief in any Federal habeas corpus proceeding.
+
+In General
+
+Defined Term
+
+Applicability
+
+Other Preservation Requirement
+
+Regulations
+
+Criminal Penalty
+
+Habeas Corpus
+
+## Source Credit
+
+*(Added [Pub. L. 108–405, title IV, § 411(a)(1)](https://www.govinfo.gov/link/plaw/108/public/405), Oct. 30, 2004, [118 Stat. 2283](https://www.govinfo.gov/link/statute/118/2283); amended [Pub. L. 114–324, § 11(b)](https://www.govinfo.gov/link/plaw/114/public/324), Dec. 16, 2016, [130 Stat. 1957](https://www.govinfo.gov/link/statute/130/1957).)*

@@ -3,9 +3,10 @@ title: "Section 12464 - Grants to support families in the justice system"
 usc_title: 34
 usc_section: "12464"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 12464"
-generated_at: "2026-03-30T02:55:33.288Z"
+generated_at: "2026-11-23T21:26:09.747Z"
+status: "active"
 ---
 
 # § 12464. Grants to support families in the justice system
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:55:33.288Z"
   - **(1)** Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized by section 10452 of this title . 1 1 So in original. See References in Text note below.
   - **(2)** The requirements of this section shall not apply to funds allocated for the program described in paragraph (1).
 - **(g)** Any services provided pursuant to a grant funded under this section shall be provided in a culturally relevant manner.
+
+## Source Credit
+
+*([Pub. L. 106–386, div. B, title III, § 1301](https://www.govinfo.gov/link/plaw/106/public/386), as added [Pub. L. 113–4, title I, § 104(a)](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 73](https://www.govinfo.gov/link/statute/127/73); amended [Pub. L. 117–103, div. W, title I, § 104](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 851](https://www.govinfo.gov/link/statute/136/851).)*

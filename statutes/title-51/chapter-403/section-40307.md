@@ -3,9 +3,10 @@ title: "Section 40307 - Space grant fellowship program"
 usc_title: 51
 usc_section: "40307"
 chapter: 403
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 40307"
-generated_at: "2026-03-30T02:56:28.706Z"
+generated_at: "2026-11-23T21:26:42.542Z"
+status: "active"
 ---
 
 # § 40307. Space grant fellowship program
@@ -13,3 +14,30 @@ generated_at: "2026-03-30T02:56:28.706Z"
 - **(a)** The Administrator shall support a space grant fellowship program to provide educational and training assistance to qualified individuals at the graduate level of education in fields related to space. Such fellowships shall be awarded pursuant to guidelines established by the Administrator. Space grant fellowships shall be awarded to individuals at space grant colleges, space grant regional consortia, other colleges and institutions of higher education, professional associations, and institutes in such a manner as to ensure wide geographic and institutional diversity in the pursuit of research under the fellowship program.
 - **(b)** The total amount which may be provided for grants under the space grant fellowship program during any fiscal year shall not exceed an amount equal to 50 percent of the total funds appropriated for such year pursuant to this chapter.
 - **(c)** Nothing in this section shall be construed to prohibit the Administrator from sponsoring any research fellowship program, including any special emphasis program, which is established under an authority other than this chapter.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40307 | 42 U.S.C. 2486g . | Pub. L. 100–147, title II, § 209 , Oct. 30, 1987 , 101 Stat. 874 . |
+
+
+Award of Fellowships
+
+Limitation on Amount Provided
+
+Authority To Sponsor Other Research Fellowship Programs Unaffected
+
+Historical and Revision Notes
+
+40307
+
+42 U.S.C. 2486g
+
+Pub. L. 100–147, title II, § 209
+
+Oct. 30, 1987
+
+101 Stat. 874
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3387](https://www.govinfo.gov/link/statute/124/3387).)*

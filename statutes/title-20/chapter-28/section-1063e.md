@@ -3,9 +3,10 @@ title: "Section 1063e - President’s Board of Advisors on HBCUs"
 usc_title: 20
 usc_section: "1063e"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1063e"
-generated_at: "2026-03-30T02:54:48.102Z"
+generated_at: "2026-11-23T21:25:47.040Z"
+status: "active"
 ---
 
 # § 1063e. President’s Board of Advisors on HBCUs
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:48.102Z"
   - **(5)** Encouraging public-private investments in HBCUs.
   - **(6)** Improving government-wide strategic planning related to HBCU competitiveness to align Federal resources and provide the context for decisions about HBCU partnerships, investments, performance goals, priorities, human capital development, and budget planning.
 - **(d)** The President’s Board of Advisors shall report annually to the President on the Board’s progress in carrying out its duties under this section.
+
+## Source Credit
+
+*([Pub. L. 116–270, § 5](https://www.govinfo.gov/link/plaw/116/public/270), Dec. 31, 2020, [134 Stat. 3328](https://www.govinfo.gov/link/statute/134/3328).)*

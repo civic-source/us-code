@@ -3,9 +3,10 @@ title: "Section 9751 - Developing and implementing a coordinated sanctions strat
 usc_title: 22
 usc_section: "9751"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9751"
-generated_at: "2026-03-30T02:55:05.473Z"
+generated_at: "2026-11-23T21:25:58.787Z"
+status: "active"
 ---
 
 # § 9751. Developing and implementing a coordinated sanctions strategy with partners in the Western Hemisphere and the European Union
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.473Z"
 - **(d)**
   - **(1)** There is authorized to be appropriated to the Secretary of State for fiscal year 2020, $3,000,000 to carry out the activities set forth in subsection (a).
   - **(2)** Amounts appropriated pursuant to paragraph (1) are subject to the notification requirements applicable to expenditures from the Economic Support Fund under section 2346(c) of this title and the International Narcotics and Law Enforcement Fund under section 2291h of this title to the extent that such funds are expended.
+
+## Source Credit
+
+*([Pub. L. 116–94, div. J, title I, § 161](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3040](https://www.govinfo.gov/link/statute/133/3040).)*

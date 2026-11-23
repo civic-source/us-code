@@ -3,9 +3,10 @@ title: "Section 6939c - Mixed waste inventory reports and plan"
 usc_title: 42
 usc_section: "6939c"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6939c"
-generated_at: "2026-03-30T02:56:11.273Z"
+generated_at: "2026-11-23T21:26:33.008Z"
+status: "active"
 ---
 
 # § 6939c. Mixed waste inventory reports and plan
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:56:11.273Z"
       - **(iii)** The number of orders requiring compliance with such plans that are in effect.
       - **(iv)** For the first 2 reports required under this paragraph, an identification of the plans required under such subsection (b) that the Secretary expects to submit in the 12-month period following submission of the report.
     - **(B)** The Secretary of Energy shall submit a report under subparagraph (A) not later than 12 months after October 6, 1992 , 24 months after October 6, 1992 , and 36 months after October 6, 1992 .
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 3021](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 102–386, title I, § 105(a)(1)](https://www.govinfo.gov/link/plaw/102/public/386), Oct. 6, 1992, [106 Stat. 1508](https://www.govinfo.gov/link/statute/106/1508).)*

@@ -3,9 +3,10 @@ title: "Section 1365 - Senate actions"
 usc_title: 28
 usc_section: "1365"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1365"
-generated_at: "2026-03-30T02:55:30.139Z"
+generated_at: "2026-11-23T21:26:01.087Z"
+status: "active"
 ---
 
 # § 1365. Senate actions
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:30.139Z"
 - **(d)** The Senate or any committee or subcommittee of the Senate commencing and prosecuting a civil action or contempt proceeding under this section may be represented in such action by such attorneys as the Senate may designate.
 - **(e)** A civil action commenced or prosecuted under this section, may not be authorized pursuant to the Standing Order of the Senate “authorizing suits by Senate Committees” (S. Jour. 572, May 28, 1928 ).
 - **(f)** For the purposes of this section the term “committee” includes standing, select, or special committees of the Senate established by law or resolution.
+
+## Source Credit
+
+*(Added [Pub. L. 95–521, title VII, § 705(f)(1)](https://www.govinfo.gov/link/plaw/95/public/521), Oct. 26, 1978, [92 Stat. 1879](https://www.govinfo.gov/link/statute/92/1879), § 1364; amended [Pub. L. 98–620, title IV, § 402(29)(D)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3359](https://www.govinfo.gov/link/statute/98/3359); renumbered § 1365, [Pub. L. 99–336, § 6(a)(1)(B)](https://www.govinfo.gov/link/plaw/99/public/336), June 19, 1986, [100 Stat. 638](https://www.govinfo.gov/link/statute/100/638); [Pub. L. 104–292, § 4](https://www.govinfo.gov/link/plaw/104/public/292), Oct. 11, 1996, [110 Stat. 3460](https://www.govinfo.gov/link/statute/110/3460).)*

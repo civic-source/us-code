@@ -3,9 +3,10 @@ title: "Section 9807 - Financial assistance requirements"
 usc_title: 42
 usc_section: "9807"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9807"
-generated_at: "2026-03-30T02:56:11.365Z"
+generated_at: "2026-11-23T21:26:33.277Z"
+status: "active"
 ---
 
 # § 9807. Financial assistance requirements
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.365Z"
   - **(14)** training programs carried out in connection with projects financed under this part shall be designed wherever feasible to provide those persons who successfully complete such training with skills which are also in demand in communities, neighborhoods, or rural areas other than those for which programs are established under this part.
 - **(b)** Financial assistance under this section shall not be extended to assist in the relocation of establishments from one location to another if such relocation would result in a substantial increase in unemployment in the area of original location.
 - **(c)** Financial assistance for commercial development under this part shall not be extended until the community economic development program that has applied for assistance under this subchapter has specified in some detail its development goals and its development time­table. The Secretary, in providing continued financial assistance to a community economic development program, shall give serious consideration to the experience such program has had in meeting development goals or in adhering to development timetables.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 618](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 491](https://www.govinfo.gov/link/statute/95/491).)*

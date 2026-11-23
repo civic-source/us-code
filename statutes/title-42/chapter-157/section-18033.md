@@ -3,9 +3,10 @@ title: "Section 18033 - Financial integrity"
 usc_title: 42
 usc_section: "18033"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18033"
-generated_at: "2026-03-30T02:56:11.513Z"
+generated_at: "2026-11-23T21:26:33.808Z"
+status: "active"
 ---
 
 # § 18033. Financial integrity
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.513Z"
   - **(3)** where appropriate, recommendations for improvements in the operations or policies of Exchanges;
   - **(4)** a survey of the cost and affordability of health care insurance provided under the Exchanges for owners and employees of small business concerns (as defined under section 632 of title 15 ), including data on enrollees in Exchanges and individuals purchasing health insurance coverage outside of Exchanges; and
   - **(5)** how many physicians, by area and specialty, are not taking or accepting new patients enrolled in Federal Government health care programs, and the adequacy of provider networks of Federal Government health care programs.
+
+## Source Credit
+
+*([Pub. L. 111–148, title I, § 1313](https://www.govinfo.gov/link/plaw/111/public/148), title X, § 10104(k), Mar. 23, 2010, [124 Stat. 184](https://www.govinfo.gov/link/statute/124/184), 902.)*

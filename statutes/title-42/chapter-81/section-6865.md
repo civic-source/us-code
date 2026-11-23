@@ -3,9 +3,10 @@ title: "Section 6865 - Limitations on financial assistance"
 usc_title: 42
 usc_section: "6865"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6865"
-generated_at: "2026-03-30T02:56:11.268Z"
+generated_at: "2026-11-23T21:26:32.986Z"
+status: "active"
 ---
 
 # § 6865. Limitations on financial assistance
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:56:11.268Z"
     - **(A)** Beginning with fiscal year 1992, the Secretary may allocate, from funds appropriated pursuant to section 6872(b) 3 of this title, among the States an equal amount for each State not to exceed $100,000 per State. Each State shall make available amounts received under this subsection to provide supplementary financial assistance to recipients of grants under this part that have achieved the best performance during the previous fiscal year in advancing the purposes of this part.
     - **(B)** None of the funds made available under this subsection may be used by any State for administrative purposes.
   - **(2)** The Secretary shall, after consulting with the State Energy Advisory Board referred to in subsection (d)(1), prescribe guidelines to be used by each State in making available supplementary financial assistance under this subsection, with a priority being given to subgrantees that, by law or through administrative or other executive action, provided non-Federal resources (including private resources) to supplement Federal financial assistance under this part during the previous fiscal year.
+
+## Source Credit
+
+*([Pub. L. 94–385, title IV, § 415](https://www.govinfo.gov/link/plaw/94/public/385), Aug. 14, 1976, [90 Stat. 1155](https://www.govinfo.gov/link/statute/90/1155); [Pub. L. 95–619, title II, § 231(c)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3225](https://www.govinfo.gov/link/statute/92/3225); [Pub. L. 96–294, title V](https://www.govinfo.gov/link/plaw/96/public/294), §§ 571, 572, 573(a), 575, 577(2), June 30, 1980, [94 Stat. 759](https://www.govinfo.gov/link/statute/94/759), 760; [Pub. L. 98–558, title IV](https://www.govinfo.gov/link/plaw/98/public/558), §§ 403, 404, Oct. 30, 1984, [98 Stat. 2887](https://www.govinfo.gov/link/statute/98/2887), 2888; [Pub. L. 101–440, § 7(d)](https://www.govinfo.gov/link/plaw/101/public/440) –(f), (i), Oct. 18, 1990, [104 Stat. 1013](https://www.govinfo.gov/link/statute/104/1013), 1014; [Pub. L. 106–469, title VI, § 601(b)](https://www.govinfo.gov/link/plaw/106/public/469), Nov. 9, 2000, [114 Stat. 2040](https://www.govinfo.gov/link/statute/114/2040); [Pub. L. 109–58, title II, § 206(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 654](https://www.govinfo.gov/link/statute/119/654); [Pub. L. 111–5, div. A, title IV, § 407(b)](https://www.govinfo.gov/link/plaw/111/public/5), (e), Feb. 17, 2009, [123 Stat. 146](https://www.govinfo.gov/link/statute/123/146); [Pub. L. 116–260, div. Z, title I, § 1011(g)](https://www.govinfo.gov/link/plaw/116/public/260), (h), Dec. 27, 2020, [134 Stat. 2446](https://www.govinfo.gov/link/statute/134/2446).)*

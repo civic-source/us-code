@@ -3,12 +3,17 @@ title: "Section 923 - Random searches of containers"
 usc_title: 6
 usc_section: "923"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 923"
-generated_at: "2026-03-30T02:53:09.501Z"
+generated_at: "2026-11-23T21:25:25.854Z"
+status: "active"
 ---
 
 # § 923. Random searches of containers
 
 Not later than 1 year after October 13, 2006 , the Secretary, acting through the Commissioner, shall develop and implement a plan, utilizing best practices for empirical scientific research design and random sampling, to conduct random searches of containers in addition to any targeted or preshipment inspection of such containers required by law or regulation or conducted under any other program conducted by the Secretary. Nothing in this section shall be construed to mean that implementation of the random sampling plan precludes additional searches of containers not inspected pursuant to the plan.
 
+
+## Source Credit
+
+*([Pub. L. 109–347, title I, § 123](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1899](https://www.govinfo.gov/link/statute/120/1899).)*

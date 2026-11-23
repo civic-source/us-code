@@ -3,9 +3,10 @@ title: "Section 1234a - Recovery of funds"
 usc_title: 20
 usc_section: "1234a"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1234a"
-generated_at: "2026-03-30T02:54:48.158Z"
+generated_at: "2026-11-23T21:25:47.307Z"
+status: "active"
 ---
 
 # § 1234a. Recovery of funds
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:48.158Z"
   - **(2)** Not less than 45 days prior to the exercise of the authority to compromise a preliminary departmental decision pursuant to paragraph (1), the Secretary shall publish in the Federal Register a notice of intention to do so. The notice shall provide interested persons an opportunity to comment on any proposed action under this subsection through the submission of written data, views, or arguments.
 - **(k)** No recipient under an applicable program shall be liable to return funds which were expended in a manner not authorized by law more than 5 years before the recipient received written notice of a preliminary departmental decision.
 - **(l)** No interest shall be charged arising from a claim during the administrative review of the preliminary departmental decision.
+
+## Source Credit
+
+*([Pub. L. 90–247, title IV, § 452](https://www.govinfo.gov/link/plaw/90/public/247), as added [Pub. L. 95–561, title XII, § 1232](https://www.govinfo.gov/link/plaw/95/public/561), Nov. 1, 1978, [92 Stat. 2347](https://www.govinfo.gov/link/statute/92/2347); amended [Pub. L. 100–297, title III, § 3501(a)](https://www.govinfo.gov/link/plaw/100/public/297), Apr. 28, 1988, [102 Stat. 350](https://www.govinfo.gov/link/statute/102/350); [Pub. L. 103–382, title II, § 250(a)](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 3926](https://www.govinfo.gov/link/statute/108/3926).)*

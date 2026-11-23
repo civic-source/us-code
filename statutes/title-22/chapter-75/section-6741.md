@@ -3,9 +3,10 @@ title: "Section 6741 - Reports required by United States National Authority"
 usc_title: 22
 usc_section: "6741"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6741"
-generated_at: "2026-03-30T02:55:05.433Z"
+generated_at: "2026-11-23T21:25:58.697Z"
+status: "active"
 ---
 
 # § 6741. Reports required by United States National Authority
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.433Z"
 - **(b)**
   - **(1)** To the extent feasible, the United States Government shall not require the submission of any report that is unnecessary or duplicative of any report required by or under any other law. The head of each Federal agency shall coordinate the actions of that agency with the heads of the other Federal agencies in order to avoid the imposition of duplicative reporting requirements under this chapter or any other law.
   - **(2)** As used in paragraph (1), the term “Federal agency” has the meaning given the term “agency” in section 551(1) of title 5 .
+
+## Source Credit
+
+*([Pub. L. 105–277, div. I, title IV, § 401](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–880](https://www.govinfo.gov/link/statute/112/2681).)*

@@ -3,9 +3,10 @@ title: "Section 101 - Certain death benefits"
 usc_title: 26
 usc_section: "101"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 101"
-generated_at: "2026-03-30T02:55:27.621Z"
+generated_at: "2026-11-23T21:26:05.992Z"
+status: "active"
 ---
 
 # § 101. Certain death benefits
@@ -151,3 +152,15 @@ generated_at: "2026-03-30T02:55:27.621Z"
   - **(5)** For purposes of this subsection—
     - **(A)** The term “employee” includes an officer, director, and highly compensated employee (within the meaning of section 414(q)).
     - **(B)** The term “insured” means, with respect to an employer-owned life insurance contract, an individual covered by the contract who is a United States citizen or resident. In the case of a contract covering the joint lives of 2 individuals, references to an insured include both of the individuals.
+
+Effective date
+
+Waiver of limitations
+
+Special rule for contracts entered into before january 1, 1983 .—
+
+Special rule for certain contracts
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 26; [Pub. L. 85–866, title I, § 23(d)](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1622](https://www.govinfo.gov/link/statute/72/1622); [Pub. L. 87–792, § 7(c)](https://www.govinfo.gov/link/plaw/87/public/792), Oct. 10, 1962, [76 Stat. 829](https://www.govinfo.gov/link/statute/76/829); [Pub. L. 89–365, § 1(c)](https://www.govinfo.gov/link/plaw/89/public/365), Mar. 8, 1966, [80 Stat. 32](https://www.govinfo.gov/link/statute/80/32); [Pub. L. 91–172, title I, § 101(j)(l)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 526](https://www.govinfo.gov/link/statute/83/526); [Pub. L. 93–406, title II](https://www.govinfo.gov/link/plaw/93/public/406), §§ 2005(c)(15), 2007(b)(3), Sept. 2, 1974, [88 Stat. 992](https://www.govinfo.gov/link/statute/88/992), 994; [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(a)(16), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1765](https://www.govinfo.gov/link/statute/90/1765), 1834; [Pub. L. 97–248, title II](https://www.govinfo.gov/link/plaw/97/public/248), §§ 239, 266(a), (b), Sept. 3, 1982, [96 Stat. 514](https://www.govinfo.gov/link/statute/96/514), 547, 550; [Pub. L. 98–369, div. A, title II, § 221(b)(2)](https://www.govinfo.gov/link/plaw/98/public/369), title IV, § 421(b)(2), title VII, § 713(e), July 18, 1984, [98 Stat. 772](https://www.govinfo.gov/link/statute/98/772), 794, 958; [Pub. L. 99–514, title X, § 1001(a)](https://www.govinfo.gov/link/plaw/99/public/514) –(c), Oct. 22, 1986, [100 Stat. 2387](https://www.govinfo.gov/link/statute/100/2387); [Pub. L. 104–188, title I, § 1402(a)](https://www.govinfo.gov/link/plaw/104/public/188), (b)(1), Aug. 20, 1996, [110 Stat. 1789](https://www.govinfo.gov/link/statute/110/1789); [Pub. L. 104–191, title III, § 331(a)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 2067](https://www.govinfo.gov/link/statute/110/2067); [Pub. L. 105–34, title X, § 1084(b)(2)](https://www.govinfo.gov/link/plaw/105/public/34), title XV, § 1528(a), Aug. 5, 1997, [111 Stat. 952](https://www.govinfo.gov/link/statute/111/952), 1074; [Pub. L. 107–134, title I, § 102(a)](https://www.govinfo.gov/link/plaw/107/public/134), Jan. 23, 2002, [115 Stat. 2429](https://www.govinfo.gov/link/statute/115/2429); [Pub. L. 108–121, title I, § 110(b)(1)](https://www.govinfo.gov/link/plaw/108/public/121), (2), Nov. 11, 2003, [117 Stat. 1342](https://www.govinfo.gov/link/statute/117/1342); [Pub. L. 109–280, title VIII, § 863(a)](https://www.govinfo.gov/link/plaw/109/public/280), (c)(1), Aug. 17, 2006, [120 Stat. 1021](https://www.govinfo.gov/link/statute/120/1021), 1024; [Pub. L. 112–239, div. A, title X, § 1086(b)(3)(B)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1968](https://www.govinfo.gov/link/statute/126/1968); [Pub. L. 115–97, title I, § 13522(a)](https://www.govinfo.gov/link/plaw/115/public/97), (b), Dec. 22, 2017, [131 Stat. 2151](https://www.govinfo.gov/link/statute/131/2151), 2152.)*

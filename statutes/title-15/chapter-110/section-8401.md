@@ -3,9 +3,10 @@ title: "Section 8401 - Findings; declaration of policy"
 usc_title: 15
 usc_section: "8401"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8401"
-generated_at: "2026-03-30T02:54:08.229Z"
+generated_at: "2026-11-23T21:25:40.082Z"
+status: "active"
 ---
 
 # § 8401. Findings; declaration of policy
@@ -20,3 +21,7 @@ The Congress finds the following:
   - **(6)** Third party sellers charged millions of consumers for membership clubs without ever obtaining consumers’ billing information, including their credit or debit card information, directly from the consumers. Because third party sellers acquired consumers’ billing information from the initial merchant through “data pass”, millions of consumers were unaware they had been enrolled in membership clubs.
   - **(7)** The use of a “data pass” process defied consumers’ expectations that they could only be charged for a good or a service if they submitted their billing information, including their complete credit or debit card numbers.
   - **(8)** Third party sellers used a free trial period to enroll members, after which they periodically charged consumers until consumers affirmatively canceled the memberships. This use of “free-to-pay conversion” and “negative option” sales took advantage of consumers’ expectations that they would have an opportunity to accept or reject the membership club offer at the end of the trial period.
+
+## Source Credit
+
+*([Pub. L. 111–345, § 2](https://www.govinfo.gov/link/plaw/111/public/345), Dec. 29, 2010, [124 Stat. 3618](https://www.govinfo.gov/link/statute/124/3618).)*

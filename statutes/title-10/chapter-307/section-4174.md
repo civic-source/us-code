@@ -3,9 +3,10 @@ title: "Section 4174 - Contracts: acquisition, construction, or furnishing of te
 usc_title: 10
 usc_section: "4174"
 chapter: 307
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4174"
-generated_at: "2026-03-30T02:53:38.203Z"
+generated_at: "2026-11-23T21:25:32.762Z"
+status: "active"
 ---
 
 # § 4174. Contracts: acquisition, construction, or furnishing of test facilities and equipment
@@ -32,3 +33,31 @@ generated_at: "2026-03-30T02:53:38.203Z"
 - **(f)** In this section, the term “covered contract” means—
   - **(1)** a contract of a military department; or
   - **(2)** a contract for a jointly funded project as described subsection (d).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 2353(a) | 5:235e (1st sentence; and 2d sentence, less 2d and last provisos). 5:475j (1st sentence; and 2d sentence, less 2d and last provisos). | July 16, 1952, ch. 882, § 4 (less 3d and last sentences), 66 Stat. 725 . |
+|  | 5:628e (1st sentence; and 2d sentence, less 2d and last provisos). |  |
+| 2353(b) | 5:235e (2d proviso of 2d sentence). |  |
+|  | 5:475j (2d proviso of 2d sentence). |  |
+|  | 5:628e (2d proviso of 2d sentence). |  |
+| 2353(c) | 5:235e (last proviso of 2d sentence). |  |
+|  | 5:475j (last proviso of 2d sentence). |  |
+|  | 5:628e (last proviso of 2d sentence). |  |
+
+
+Historical and Revision Notes
+
+2353(a)
+
+July 16, 1952, ch. 882, § 4
+
+66 Stat. 725
+
+2353(b)
+
+2353(c)
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 134, § 2353; [Pub. L. 115–232, div. B, title XXVIII, § 2801](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2260](https://www.govinfo.gov/link/statute/132/2260); renumbered § 4174 and amended [Pub. L. 116–283, div. A, title XVIII](https://www.govinfo.gov/link/plaw/116/public/283), §§ 1844(b)(1), 1845(b), Jan. 1, 2021, [134 Stat. 4245](https://www.govinfo.gov/link/statute/134/4245), 4247; [Pub. L. 117–81, div. A, title XVII, § 1701(u)(5)(B)](https://www.govinfo.gov/link/plaw/117/public/81), (6)(B), Dec. 27, 2021, [135 Stat. 2154](https://www.govinfo.gov/link/statute/135/2154); [Pub. L. 119–60, div. A, title II, § 214(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 774](https://www.govinfo.gov/link/statute/139/774).)*

@@ -3,9 +3,10 @@ title: "Section 3412 - Use of information"
 usc_title: 12
 usc_section: "3412"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3412"
-generated_at: "2026-03-30T02:53:53.494Z"
+generated_at: "2026-11-23T21:25:37.138Z"
+status: "active"
 ---
 
 # § 3412. Use of information
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:53.494Z"
     - **(A)** there is reason to believe that the records may be relevant to a violation of Federal criminal law; and
     - **(B)** the records were obtained in the exercise of the agency’s or department’s supervisory or regulatory functions.
   - **(2)** Records so transferred shall be used only for criminal investigative or prosecutive purposes, for civil actions under section 1833a of this title , or for forfeiture under sections 2 2 So in original. Probably should be “section”. 981 or 982 of title 18 by the Department of Justice and only for criminal investigative purposes relating to money laundering and other financial crimes by the Department of the Treasury and shall, upon completion of the investigation or prosecution (including any appeal), be returned only to the transferring agency or department. No agency or department so transferring such records shall be deemed to have waived any privilege applicable to those records under law.
+
+## Source Credit
+
+*([Pub. L. 95–630, title XI, § 1112](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3705](https://www.govinfo.gov/link/statute/92/3705); [Pub. L. 97–320, title IV, § 432(a)](https://www.govinfo.gov/link/plaw/97/public/320), Oct. 15, 1982, [96 Stat. 1527](https://www.govinfo.gov/link/statute/96/1527); [Pub. L. 100–690, title VI, § 6186(b)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4357](https://www.govinfo.gov/link/statute/102/4357); [Pub. L. 101–73, title IX, § 944](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 498](https://www.govinfo.gov/link/statute/103/498); [Pub. L. 102–242, title IV, § 411(1)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2375](https://www.govinfo.gov/link/statute/105/2375); [Pub. L. 102–550, title XV, § 1516](https://www.govinfo.gov/link/plaw/102/public/550), title XVI, § 1606(b), Oct. 28, 1992, [106 Stat. 4059](https://www.govinfo.gov/link/statute/106/4059), 4087; [Pub. L. 106–102, title II, § 231(b)(2)](https://www.govinfo.gov/link/plaw/106/public/102), title VII, § 727(b)(2), Nov. 12, 1999, [113 Stat. 1407](https://www.govinfo.gov/link/statute/113/1407), 1475; [Pub. L. 107–56, title III, § 358(f)(1)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 327](https://www.govinfo.gov/link/statute/115/327); [Pub. L. 109–455](https://www.govinfo.gov/link/plaw/109/public/455), §§ 10, 13, Dec. 22, 2006, [120 Stat. 3381](https://www.govinfo.gov/link/statute/120/3381), 3382; [Pub. L. 111–203, title X, § 1099(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2105](https://www.govinfo.gov/link/statute/124/2105); [Pub. L. 112–203, § 1](https://www.govinfo.gov/link/plaw/112/public/203), Dec. 4, 2012, [126 Stat. 1484](https://www.govinfo.gov/link/statute/126/1484).)*

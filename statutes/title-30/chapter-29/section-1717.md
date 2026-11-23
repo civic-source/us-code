@@ -3,9 +3,10 @@ title: "Section 1717 - Hearings and investigations"
 usc_title: 30
 usc_section: "1717"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1717"
-generated_at: "2026-03-30T02:55:29.408Z"
+generated_at: "2026-11-23T21:26:00.445Z"
+status: "active"
 ---
 
 # § 1717. Hearings and investigations
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:29.408Z"
   - **(4)** to order testimony to be taken by deposition before any person who is designated by the Secretary and who has the power to administer oaths, and to compel testimony and the production of evidence in the same manner as authorized under paragraph (3) of this subsection; and
   - **(5)** to pay witnesses the same fees and mileage as are paid in like circumstances in the courts of the United States.
 - **(b)** In case of refusal to obey a subpena served upon any person under this section, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the Attorney General at the request of the Secretary and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Secretary or to appear and produce documents before the Secretary. Any failure to obey such order of the court may be punished by such court as contempt thereof and subject to a penalty of up to $10,000 a day.
+
+## Source Credit
+
+*([Pub. L. 97–451, title I, § 107](https://www.govinfo.gov/link/plaw/97/public/451), Jan. 12, 1983, [96 Stat. 2452](https://www.govinfo.gov/link/statute/96/2452).)*

@@ -3,9 +3,10 @@ title: "Section 15002 - Definitions"
 usc_title: 42
 usc_section: "15002"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15002"
-generated_at: "2026-03-30T02:56:11.454Z"
+generated_at: "2026-11-23T21:26:33.649Z"
+status: "active"
 ---
 
 # § 15002. Definitions
@@ -109,3 +110,7 @@ In this subchapter:
     - **(B)** who, because of the nature and severity of their disabilities, need intensive supported employment services or extended services in order to perform such work.
   - **(31)** The term “transportation-related activities” means advocacy, capacity building, and systemic change activities that result in individuals with developmental disabilities having access to and use of transportation.
   - **(32)** The term “unserved and underserved” includes populations such as individuals from racial and ethnic minority backgrounds, disadvantaged individuals, individuals with limited English proficiency, individuals from underserved geographic areas (rural or urban), and specific groups of individuals within the population of individuals with developmental disabilities, including individuals who require assistive technology in order to participate in and contribute to community life.
+
+## Source Credit
+
+*([Pub. L. 106–402, title I, § 102](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1682](https://www.govinfo.gov/link/statute/114/1682).)*

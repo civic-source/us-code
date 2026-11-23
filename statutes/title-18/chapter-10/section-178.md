@@ -3,9 +3,10 @@ title: "Section 178 - Definitions"
 usc_title: 18
 usc_section: "178"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 178"
-generated_at: "2026-03-30T02:54:16.458Z"
+generated_at: "2026-11-23T21:25:43.946Z"
+status: "active"
 ---
 
 # § 178. Definitions
@@ -24,3 +25,7 @@ As used in this chapter—
     - **(B)** any vector;
   - **(4)** the term “vector” means a living organism, or molecule, including a recombinant or synthesized molecule, capable of carrying a biological agent or toxin to a host; and
   - **(5)** the term “national of the United States” has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(22) ).
+
+## Source Credit
+
+*(Added [Pub. L. 101–298, § 3(a)](https://www.govinfo.gov/link/plaw/101/public/298), May 22, 1990, [104 Stat. 202](https://www.govinfo.gov/link/statute/104/202); amended [Pub. L. 104–132, title V, § 511(b)(3)](https://www.govinfo.gov/link/plaw/104/public/132), title VII, § 721(h), Apr. 24, 1996, [110 Stat. 1284](https://www.govinfo.gov/link/statute/110/1284), 1299; [Pub. L. 107–188, title II, § 231(c)(4)](https://www.govinfo.gov/link/plaw/107/public/188), June 12, 2002, [116 Stat. 661](https://www.govinfo.gov/link/statute/116/661).)*

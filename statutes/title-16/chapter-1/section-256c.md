@@ -3,12 +3,17 @@ title: "Section 256c - Forfeiture of property used in hunting, fishing, etc."
 usc_title: 16
 usc_section: "256c"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 256c"
-generated_at: "2026-03-30T02:54:22.746Z"
+generated_at: "2026-11-23T21:25:51.401Z"
+status: "active"
 ---
 
 # § 256c. Forfeiture of property used in hunting, fishing, etc.
 
 All guns, bows, traps, nets, seines, fishing tackle, clothing, teams, horses, machinery, logging equipment, motor vehicles, aircraft, boats, or means of transportation of every nature or description used by any person or persons or organizations within the limits of the park when engaged in or attempting to engage in killing, trapping, ensnaring, taking or capturing such wild birds, fish or animals, or taking, destroying or damaging such trees, plants, or mineral deposits contrary to the provisions of this Act or the rules and regulations promulgated by the Secretary of the Interior shall be forfeited to the United States and may be seized by the officers in the park and held pending prosecution of any person or persons or organization arrested under or charged with violating the provisions of this Act, and upon conviction under this Act of such persons or organizations using said guns, bows, traps, nets, seines, fishing tackle, clothing, teams, horses, machinery, logging equipment, motor vehicles, aircraft, boats, or other means of transportation of every nature and description used by any person or persons or organization, such forfeiture shall be adjudicated as a penalty in addition to the other punishment prescribed in this Act. Such forfeited property shall be disposed of and accounted for by and under the authority of the Secretary of the Interior: Provided , That the forfeiture of teams, horses, machinery, logging equipment, motor vehicles, aircraft, boats, or other means of transportation shall be in the discretion of the Court.
 
+
+## Source Credit
+
+*(Mar. 6, 1942, ch. 151, § 4, [56 Stat. 136](https://www.govinfo.gov/link/statute/56/136); [Pub. L. 100–668, title I, § 104(b)](https://www.govinfo.gov/link/plaw/100/public/668), Nov. 16, 1988, [102 Stat. 3962](https://www.govinfo.gov/link/statute/102/3962).)*

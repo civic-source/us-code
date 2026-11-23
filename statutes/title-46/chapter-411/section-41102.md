@@ -3,9 +3,10 @@ title: "Section 41102 - General prohibitions"
 usc_title: 46
 usc_section: "41102"
 chapter: 411
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 41102"
-generated_at: "2026-03-30T02:56:15.564Z"
+generated_at: "2026-11-23T21:26:37.192Z"
+status: "active"
 ---
 
 # § 41102. General prohibitions
@@ -22,3 +23,52 @@ generated_at: "2026-03-30T02:56:15.564Z"
       - **(i)** patronized another carrier; or
       - **(ii)** filed a complaint against the common carrier, marine terminal operator, or ocean transportation intermediary; or
     - **(B)** any other reason.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 41102(a) | 46 App.:1709(a)(1). | Pub. L. 98–237, § 10(a) , Mar. 20, 1984 , 98 Stat. 77 . |
+| 41102(b) | 46 App.:1709(a)(2), (3). |  |
+| 41102(c) | 46 App.:1709(d)(1). | Pub. L. 98–237, § 10(d)(1) , Mar. 20, 1984 , 98 Stat. 77 ; Pub. L. 105–258, title I, § 109(c)(2) , Oct. 14, 1998 , 112 Stat. 1909 . |
+
+
+Obtaining Transportation at Less Than Applicable Rates
+
+Operating Contrary to Agreement
+
+Practices in Handling Property
+
+Retaliation and Other Discriminatory Actions
+
+Historical and Revision Notes
+
+41102(a)
+
+Pub. L. 98–237, § 10(a)
+
+Mar. 20, 1984
+
+98 Stat. 77
+
+41102(b)
+
+41102(c)
+
+Pub. L. 98–237, § 10(d)(1)
+
+Mar. 20, 1984
+
+98 Stat. 77
+
+Pub. L. 105–258, title I, § 109(c)(2)
+
+Oct. 14, 1998
+
+112 Stat. 1909
+
+In general
+
+Contents
+
+## Source Credit
+
+*([Pub. L. 109–304, § 7](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1540](https://www.govinfo.gov/link/statute/120/1540); [Pub. L. 117–146, § 5](https://www.govinfo.gov/link/plaw/117/public/146), June 16, 2022, [136 Stat. 1273](https://www.govinfo.gov/link/statute/136/1273).)*

@@ -3,9 +3,10 @@ title: "Section 2214 - Transfer of funds: procedure and limitations"
 usc_title: 10
 usc_section: "2214"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2214"
-generated_at: "2026-03-30T02:53:38.148Z"
+generated_at: "2026-11-23T21:25:32.574Z"
+status: "active"
 ---
 
 # § 2214. Transfer of funds: procedure and limitations
@@ -18,3 +19,15 @@ generated_at: "2026-03-30T02:53:38.148Z"
 - **(d)** Neither the Secretary of Defense nor the Secretary of a military department may prepare or present to the Congress, or to any committee of either House of the Congress, a request with respect to a reprogramming of funds—
   - **(1)** unless the funds to be transferred are to be used for a higher priority item, based on unforeseen military requirements, than the item for which the funds were originally appropriated; or
   - **(2)** if the request would be for authority to reprogram amounts to an item for which the Congress has denied funds.
+
+Procedure for Transfer of Funds
+
+Limitations on Programs for Which Authority May Be Used
+
+Notice to Congress
+
+Limitations on Requests to Congress for Reprogrammings
+
+## Source Credit
+
+*(Added [Pub. L. 101–510, div. A, title XIV, § 1482(c)(1)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1709](https://www.govinfo.gov/link/statute/104/1709).)*

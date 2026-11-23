@@ -3,9 +3,10 @@ title: "Section 9806 - Establishment and scope of programs"
 usc_title: 42
 usc_section: "9806"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9806"
-generated_at: "2026-03-30T02:56:11.365Z"
+generated_at: "2026-11-23T21:26:33.277Z"
+status: "active"
 ---
 
 # § 9806. Establishment and scope of programs
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.365Z"
   - **(3)** training and public service employment programs and related services for unemployed or low-income persons which support and complement community development programs financed under this part, including, without limitation, activities such as the activities described in title I of the Workforce Investment Act of 1998; 1 1 See References in Text note below. and
   - **(4)** social service programs which support and complement community business and commercial development programs financed under this part, including child care, educational services, health services, credit counseling, energy conservation, recreation services, and programs for the maintenance of housing facilities.
 - **(b)** The Secretary shall conduct programs assisted under this part so as to contribute, on an equitable basis between urban and rural areas, to the elimination of poverty and the establishment of permanent economic and social benefits in such areas.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 617](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 491](https://www.govinfo.gov/link/statute/95/491); [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(40), (f)(31)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–427, 2681–434.)*

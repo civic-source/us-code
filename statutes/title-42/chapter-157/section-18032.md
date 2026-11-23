@@ -3,9 +3,10 @@ title: "Section 18032 - Consumer choice"
 usc_title: 42
 usc_section: "18032"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18032"
-generated_at: "2026-03-30T02:56:11.513Z"
+generated_at: "2026-11-23T21:26:33.808Z"
+status: "active"
 ---
 
 # § 18032. Consumer choice
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:56:11.513Z"
       - **(i)** Beginning in 2017, each State may allow issuers of health insurance coverage in the large group market in the State to offer qualified health plans in such market through an Exchange. Nothing in this subparagraph shall be construed as requiring the issuer to offer such plans through an Exchange.
       - **(ii)** If a State under clause (i) allows issuers to offer qualified health plans in the large group market through an Exchange, the term “qualified employer” shall include a large employer that elects to make all full-time employees of such employer eligible for 1 or more qualified health plans offered in the large group market through the Exchange.
   - **(3)** If an individual is not, or is not reasonably expected to be for the entire period for which enrollment is sought, a citizen or national of the United States or an alien lawfully present in the United States, the individual shall not be treated as a qualified individual and may not be covered under a qualified health plan in the individual market that is offered through an Exchange.
+
+## Source Credit
+
+*([Pub. L. 111–148, title I, § 1312](https://www.govinfo.gov/link/plaw/111/public/148), title X, § 10104(i), Mar. 23, 2010, [124 Stat. 182](https://www.govinfo.gov/link/statute/124/182), 901.)*

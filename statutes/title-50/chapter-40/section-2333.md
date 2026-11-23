@@ -3,9 +3,10 @@ title: "Section 2333 - International border security"
 usc_title: 50
 usc_section: "2333"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2333"
-generated_at: "2026-03-30T02:56:26.220Z"
+generated_at: "2026-11-23T21:26:38.964Z"
+status: "active"
 ---
 
 # § 2333. International border security
@@ -13,3 +14,9 @@ generated_at: "2026-03-30T02:56:26.220Z"
 - **(a)** The Secretary of Defense, in consultation and cooperation with the Commissioner of U.S. Customs and Border Protection, shall carry out programs for assisting customs officials and border guard officials in the independent states of the former Soviet Union, the Baltic states, and other countries of Eastern Europe in preventing unauthorized transfer and transportation of nuclear, biological, and chemical weapons and related materials. Training, expert advice, maintenance of equipment, loan of equipment, and audits may be provided under or in connection with the programs.
 - **(b)** The Secretary of Defense may carry out programs under subsection (a) in a country other than a country specified in that subsection if the Secretary determines that there exists in that country a significant threat of the unauthorized transfer and transportation of nuclear, biological, or chemical weapons or related materials.
 - **(c)** Assistance under programs referred to in subsection (a) may (notwithstanding any provision of law prohibiting the extension of foreign assistance to any of the newly independent states of the former Soviet Union) be extended to include an independent state of the former Soviet Union if the President certifies to Congress that it is in the national interest of the United States to extend assistance under this section to that state.
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 104–201, div. A, title XIV, § 1424](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2726](https://www.govinfo.gov/link/statute/110/2726); [Pub. L. 108–375, div. A, title XII, § 1211(a)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2087](https://www.govinfo.gov/link/statute/118/2087); [Pub. L. 114–125, title VIII, § 802(d)(2)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 210](https://www.govinfo.gov/link/statute/130/210).)*

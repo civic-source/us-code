@@ -3,9 +3,10 @@ title: "Section 3316c - Development of definitions for certain terms relating to
 usc_title: 50
 usc_section: "3316c"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3316c"
-generated_at: "2026-03-30T02:56:26.243Z"
+generated_at: "2026-11-23T21:26:39.031Z"
+status: "active"
 ---
 
 # § 3316c. Development of definitions for certain terms relating to intelligence
@@ -40,3 +41,35 @@ generated_at: "2026-03-30T02:56:26.243Z"
 - **(d)** In this section, the term “appropriate congressional committees” means—
   - **(1)** the congressional intelligence committees; and
   - **(2)** the Committees on Armed Services of the House of Representatives and the Senate.
+
+National Intelligence Estimate.—]
+
+Definitions
+
+Gray zone activity
+
+Covert adversary operation
+
+Detectible covert adversary operation
+
+Unattributable adversary operation
+
+Deniable adversary operation
+
+Open adversary operation
+
+Requirement to Develop Lexicon.—
+
+Requirement
+
+Considerations
+
+Report.—
+
+Publication
+
+Form
+
+## Source Credit
+
+*([Pub. L. 117–103, div. X, title III, § 309](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 971](https://www.govinfo.gov/link/statute/136/971).)*

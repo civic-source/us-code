@@ -3,9 +3,10 @@ title: "Section 1316b - Rights and protections relating to criminal history inqu
 usc_title: 2
 usc_section: "1316b"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1316b"
-generated_at: "2026-03-30T02:53:04.810Z"
+generated_at: "2026-11-23T21:25:21.220Z"
+status: "active"
 ---
 
 # § 1316b. Rights and protections relating to criminal history inquiries
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:04.810Z"
   - **(1)** Not later than 18 months after December 20, 2019 , the Board shall, pursuant to section 1384 of this title , issue regulations to implement this section.
   - **(2)** The regulations issued under paragraph (1) shall be the same as substantive regulations issued by the Director of the Office of Personnel Management under section 2(b)(1) of the Fair Chance to Compete for Jobs Act of 2019 1 1 See References in Text note below. to implement the statutory provisions referred to in subsections (a) through (c) except to the extent that the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 - **(e)** Section 1302(a)(12) of this title and subsections (a) through (c) shall take effect on the date on which section 9202 of title 5 applies with respect to agencies.
+
+## Source Credit
+
+*([Pub. L. 104–1, title II, § 207](https://www.govinfo.gov/link/plaw/104/public/1), as added [Pub. L. 116–92, div. A, title XI, § 1122(d)(1)(C)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1608](https://www.govinfo.gov/link/statute/133/1608).)*

@@ -3,9 +3,10 @@ title: "Section 4089 - Portability of professional licenses"
 usc_title: 22
 usc_section: "4089"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4089"
-generated_at: "2026-03-30T02:55:05.406Z"
+generated_at: "2026-11-23T21:25:58.625Z"
+status: "active"
 ---
 
 # § 4089. Portability of professional licenses
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.406Z"
   - **(1)** that is in good standing with the licensing authority that issued such professional license or certificate;
   - **(2)** that the member of the Foreign Service or spouse of a member of the Foreign Service has actively used during the two years immediately preceding the relocation described in subsection (a); and
   - **(3)** that is not a license to practice law.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 909](https://www.govinfo.gov/link/plaw/96/public/465), as added [Pub. L. 118–159, div. G, title LXXI, § 7104(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2523](https://www.govinfo.gov/link/statute/138/2523).)*

@@ -3,9 +3,10 @@ title: "Section 2009e - Transfers of funds"
 usc_title: 7
 usc_section: "2009e"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2009e"
-generated_at: "2026-03-30T02:53:42.358Z"
+generated_at: "2026-11-23T21:25:28.233Z"
+status: "active"
 ---
 
 # § 2009e. Transfers of funds
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.358Z"
   - **(2)**
     - **(A)** there is no such approved application in the function category from which the funds are to be transferred; or
     - **(B)** the community that would benefit from the project has a smaller population and a lesser per capita income than any community that would benefit from a project in the function category from which the funds are to be transferred.
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 381F](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 104–127, title VII, § 761](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1142](https://www.govinfo.gov/link/statute/110/1142).)*

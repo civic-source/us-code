@@ -3,9 +3,10 @@ title: "Section 3701 - Definitions and application"
 usc_title: 31
 usc_section: "3701"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 3701"
-generated_at: "2026-03-30T02:55:34.058Z"
+generated_at: "2026-11-23T21:26:10.584Z"
+status: "active"
 ---
 
 # § 3701. Definitions and application
@@ -42,3 +43,129 @@ generated_at: "2026-03-30T02:55:34.058Z"
   - **(1)** “creditor agency” means any agency owed a claim that seeks to collect that claim through administrative offset; and
   - **(2)** “payment certifying agency” means any agency that has transmitted a voucher to a disbursing official for disbursement.
 - **(f)** In section 3711 of this title , “private collection contractor” means private debt collectors under contract with an agency to collect a nontax debt or claim owed the United States. The term includes private debt collectors, collection agencies, and commercial attorneys.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3701(1) | 31:951. | July 19, 1966 , Pub. L. 89–508, § 2 , 80 Stat. 308 . |
+| 3701(2) | 31:240(1), (4). | Aug. 31, 1964 , Pub. L. 88–558, § 2(1) , (2), (4), 78 Stat. 767 ; restated Sept. 15, 1965 , Pub. L. 89–185, § 3(a) , 79 Stat. 789 . |
+| 3701(3) | 31:240(2). |  |
+
+| 1983 Act | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3701(a)(1) | 31 App.:954(e)(1). | July 19, 1966 , Pub. L. 89–508 , 80 Stat. 308 , § 5(e); added Oct. 25, 1982 , Pub. L. 97–365, § 10(2) , 96 Stat. 1755 . |
+| 3701(a)(2) | 31 App.:952(e)(1) (last sentence). | July 19, 1966 , Pub. L. 89–508 , 80 Stat. 308 , § 3(e)(1)(last sentence), (8); added Oct. 25, 1982 , Pub. L. 97–365, § 11 , 96 Stat. 1755 , 1756. |
+| 3701(a)(3) | 31 App.:952(d)(4) (A). | July 19, 1966 , Pub. L. 89–508 , 80 Stat. 308 , § 3(d)(4); added Oct. 25, 1982 , Pub. L. 97–365, § 3 , 96 Stat. 1750 . |
+| 3701(a)(4), (5) | 31:3701(1), (2). |  |
+| 3701(a)(6) | 31 App.:952(d)(4) (B), (C). |  |
+| 3701(a)(7) | 31:3701(3). |  |
+| 3701(b) | 31 App.:952(g). | July 19, 1966 , Pub. L. 89–508 , 80 Stat. 308 , § 3(g); added Oct. 25, 1982 , Pub. L. 97–365, § 13(b) , 96 Stat. 1758 . |
+| 3701(c) | 31 App.:952(e)(8). |  |
+|  | 31 App.:954(e)(2). |  |
+| 3701(d) | 31 App.:954(note) (related to 31 App.:952(d)–(f), 954, 955). | Oct. 25, 1982 , Pub. L. 97–365, § 8(e) (related to §§ 3, 10(2)–12, 13(b)), 96 Stat. 1754 . |
+
+
+Historical and Revision Notes
+
+Act
+
+3701(1)
+
+July 19, 1966
+
+Pub. L. 89–508, § 2
+
+80 Stat. 308
+
+3701(2)
+
+Aug. 31, 1964
+
+Pub. L. 88–558, § 2(1)
+
+78 Stat. 767
+
+Sept. 15, 1965
+
+Pub. L. 89–185, § 3(a)
+
+79 Stat. 789
+
+3701(3)
+
+Act
+
+3701(a)(1)
+
+July 19, 1966
+
+Pub. L. 89–508
+
+80 Stat. 308
+
+Oct. 25, 1982
+
+Pub. L. 97–365, § 10(2)
+
+96 Stat. 1755
+
+3701(a)(2)
+
+July 19, 1966
+
+Pub. L. 89–508
+
+80 Stat. 308
+
+Oct. 25, 1982
+
+Pub. L. 97–365, § 11
+
+96 Stat. 1755
+
+3701(a)(3)
+
+July 19, 1966
+
+Pub. L. 89–508
+
+80 Stat. 308
+
+Oct. 25, 1982
+
+Pub. L. 97–365, § 3
+
+96 Stat. 1750
+
+3701(a)(6)
+
+3701(a)(7)
+
+3701(b)
+
+July 19, 1966
+
+Pub. L. 89–508
+
+80 Stat. 308
+
+Oct. 25, 1982
+
+Pub. L. 97–365, § 13(b)
+
+96 Stat. 1758
+
+3701(c)
+
+3701(d)
+
+Oct. 25, 1982
+
+Pub. L. 97–365, § 8(e)
+
+96 Stat. 1754
+
+“The purposes of this section [see Short Title of 1996 Amendment note above] are the following:
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 970](https://www.govinfo.gov/link/statute/96/970); [Pub. L. 97–452, § 1(13)(A)](https://www.govinfo.gov/link/plaw/97/public/452), Jan. 12, 1983, [96 Stat. 2469](https://www.govinfo.gov/link/statute/96/2469); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 103–387, § 5(b)](https://www.govinfo.gov/link/plaw/103/public/387), Oct. 22, 1994, [108 Stat. 4077](https://www.govinfo.gov/link/statute/108/4077); [Pub. L. 104–134, title III, § 31001(c)(2)](https://www.govinfo.gov/link/plaw/104/public/134), (d)(1), (3), (z)(1), Apr. 26, 1996, [110 Stat. 1321–359](https://www.govinfo.gov/link/statute/110/1321), 1321–361, 1321–378; [Pub. L. 104–316, title I, § 115(g)(2)(A)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3835](https://www.govinfo.gov/link/statute/110/3835); [Pub. L. 106–169, title II, § 203(b)](https://www.govinfo.gov/link/plaw/106/public/169), Dec. 14, 1999, [113 Stat. 1832](https://www.govinfo.gov/link/statute/113/1832); [Pub. L. 107–107, div. A, title III, § 335](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1060](https://www.govinfo.gov/link/statute/115/1060); [Pub. L. 116–283, div. A, title IX, § 927(d)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3831](https://www.govinfo.gov/link/statute/134/3831).)*

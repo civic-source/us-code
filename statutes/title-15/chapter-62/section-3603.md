@@ -3,9 +3,10 @@ title: "Section 3603 - Definitions"
 usc_title: 15
 usc_section: "3603"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3603"
-generated_at: "2026-03-30T02:54:08.190Z"
+generated_at: "2026-11-23T21:25:39.971Z"
+status: "active"
 ---
 
 # § 3603. Definitions
@@ -36,3 +37,7 @@ For the purpose of this chapter—
   - **(22)** “special developer control” means any right arising under State law, cooperative or condominium instruments, the association’s bylaws, charter or articles of association or incorporation, or power of attorney or similar agreement, through which the developer may control or direct the unit owners’ association or its executive board. A developer’s right to exercise the voting share allocated to any condominium or cooperative unit which he owns is not deemed a right of special developer control if the voting share allocated to that condominium or cooperative unit is the same voting share as would be allocated to the same condominium or cooperative unit were that unit owned by any other unit owner at that time;
   - **(23)** “State” includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States; and
   - **(24)** “tenants’ organization” means a bona fide organization of tenants who represent a majority of the occupied rental units in a rental housing project.
+
+## Source Credit
+
+*([Pub. L. 96–399, title VI, § 604](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1673](https://www.govinfo.gov/link/statute/94/1673).)*

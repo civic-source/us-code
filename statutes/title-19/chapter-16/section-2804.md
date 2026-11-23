@@ -3,9 +3,10 @@ title: "Section 2804 - Actions to reduce or eliminate tariff and nontariff barri
 usc_title: 19
 usc_section: "2804"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2804"
-generated_at: "2026-03-30T02:54:24.686Z"
+generated_at: "2026-11-23T21:25:42.830Z"
+status: "active"
 ---
 
 # § 2804. Actions to reduce or eliminate tariff and nontariff barriers affecting United States wine
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:24.686Z"
 - **(c)** If the President, after taking into account information and advice received under subsections (a) and (b), section 2805 of this title or from other sources, determines that action is appropriate to respond to any act, policy, or practice of a major wine trading country constitutes a tariff barrier or nontariff barrier to (or other distortion of) trade in United States wine and—
   - **(1)** is inconsistent with the provisions of, or otherwise denies benefits to the United States under, any trade agreement; or
   - **(2)** is unjustifiable, unreasonable, or discriminatory and burdens or restricts United States commerce;
+
+## Source Credit
+
+*([Pub. L. 98–573, title IX, § 905](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 3049](https://www.govinfo.gov/link/statute/98/3049).)*

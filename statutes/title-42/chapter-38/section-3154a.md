@@ -3,9 +3,10 @@ title: "Section 3154a - Performance awards"
 usc_title: 42
 usc_section: "3154a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3154a"
-generated_at: "2026-03-30T02:56:11.183Z"
+generated_at: "2026-11-23T21:26:32.539Z"
+status: "active"
 ---
 
 # § 3154a. Performance awards
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.183Z"
 - **(j)**
   - **(1)** The Comptroller General shall regularly review the implementation of this section.
   - **(2)** Not later than 1 year after October 27, 2004 , the Comptroller General shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the findings of the Comptroller on implementation of this subsection.
+
+## Source Credit
+
+*([Pub. L. 89–136, title II, § 215](https://www.govinfo.gov/link/plaw/89/public/136), as added [Pub. L. 108–373, title II, § 210(a)](https://www.govinfo.gov/link/plaw/108/public/373), Oct. 27, 2004, [118 Stat. 1764](https://www.govinfo.gov/link/statute/118/1764).)*

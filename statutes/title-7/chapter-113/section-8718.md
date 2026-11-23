@@ -3,9 +3,10 @@ title: "Section 8718 - Special rule for long grain and medium grain rice"
 usc_title: 7
 usc_section: "8718"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 8718"
-generated_at: "2026-03-30T02:53:42.479Z"
+generated_at: "2026-11-23T21:25:28.479Z"
+status: "active"
 ---
 
 # § 8718. Special rule for long grain and medium grain rice
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.479Z"
   - **(2)** the percentages of any acreage on the farm that the producers were prevented from planting to long grain rice and medium grain rice during the 2003 through 2006 crop years because of drought, flood, other natural disaster, or other condition beyond the control of the producers, as determined by the Secretary; and
   - **(3)** in the case of a crop year for which a producer on a farm elected not to plant to long grain and medium grain rice during the 2003 through 2006 crop years, the percentages of acreage planted in the applicable State to long grain rice and medium grain rice, as determined by the Secretary.
 - **(c)** In carrying out this section, the Secretary shall use the same total base acres, payment acres, and payment yields established with respect to rice under sections 7911 and 7912 of this title, as in effect on September 30, 2007 , subject to any adjustment under section 8711 of this title .
+
+## Source Credit
+
+*([Pub. L. 110–234, title I, § 1108](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 952](https://www.govinfo.gov/link/statute/122/952); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1108, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1681.)*

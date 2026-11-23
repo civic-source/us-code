@@ -3,9 +3,10 @@ title: "Section 9837b - Head Start collaboration; State early education and care
 usc_title: 42
 usc_section: "9837b"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9837b"
-generated_at: "2026-03-30T02:56:11.369Z"
+generated_at: "2026-11-23T21:26:33.292Z"
+status: "active"
 ---
 
 # § 9837b. Head Start collaboration; State early education and care
@@ -89,3 +90,7 @@ generated_at: "2026-03-30T02:56:11.369Z"
       - **(iii)** information regarding the remaining needs described in the periodic statewide needs assessment and statewide strategic report that have not yet been addressed by the State; and
       - **(iv)** any other information that the Secretary may require.
     - **(F)** Nothing in this subsection shall be construed to provide the State Advisory Council with authority to modify, supersede, or negate the requirements of this subchapter.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 642B](https://www.govinfo.gov/link/plaw/97/public/35), as added and amended [Pub. L. 110–134, § 11](https://www.govinfo.gov/link/plaw/110/public/134), Dec. 12, 2007, [121 Stat. 1408](https://www.govinfo.gov/link/statute/121/1408).)*

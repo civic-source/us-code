@@ -3,9 +3,10 @@ title: "Section 11103 - Applicability to national security systems"
 usc_title: 40
 usc_section: "11103"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 11103"
-generated_at: "2026-03-30T02:55:43.385Z"
+generated_at: "2026-11-23T21:26:14.937Z"
+status: "active"
 ---
 
 # § 11103. Applicability to national security systems
@@ -25,3 +26,52 @@ generated_at: "2026-03-30T02:55:43.385Z"
   - **(3)**
     - **(A)** Subject to subparagraph (B), the heads of executive agencies shall apply section 11303 of this title to national security systems to the extent practicable.
     - **(B)** National security systems are subject to section 11303(b)(5) of this title , except for subparagraph (B)(iv).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 11103(a) | 40:1452. | Pub. L. 104–106, div. E, title LI , §§ 5141, 5142, Feb. 10, 1996 , 110 Stat. 689 . |
+| 11103(b) | 40:1451(a). |  |
+| 11103(c) | 40:1451(b). |  |
+
+
+Definition.—
+
+National security system
+
+Limitation
+
+In General
+
+Exceptions.—
+
+In general
+
+Capital planning and investment control
+
+Applicability of performance-based and results-based management to national security systems.—
+
+In general
+
+Exception
+
+Historical and Revision Notes
+
+11103(a)
+
+Pub. L. 104–106, div. E, title LI
+
+Feb. 10, 1996
+
+110 Stat. 689
+
+11103(b)
+
+11103(c)
+
+Waiver Authority
+
+Milestone Decision Authority Defined
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1236](https://www.govinfo.gov/link/statute/116/1236).)*

@@ -3,12 +3,17 @@ title: "Section 81m - Permission to others to use zone"
 usc_title: 19
 usc_section: "81m"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 81m"
-generated_at: "2026-03-30T02:54:24.626Z"
+generated_at: "2026-11-23T21:25:42.686Z"
+status: "active"
 ---
 
 # § 81m. Permission to others to use zone
 
 The grantee may, with the approval of the Board, and under reasonable and uniform regulations for like conditions and circumstances to be prescribed by it, permit other persons, firms, corporations, or associations to erect such buildings and other structures within the zone as will meet their particular requirements: Provided , That such permission shall not constitute a vested right as against the United States, nor interfere with the regulation of the grantee or the permittee by the United States, nor interfere with or complicate the revocation of the grant by the United States: And provided further , That in the event of the United States or the grantee desiring to acquire the property of the permittee no good will shall be considered as accruing from the privilege granted to the zone: And provided further , That such permits shall not be granted on terms that conflict with the public use of the zone as set forth in this chapter.
 
+
+## Source Credit
+
+*(June 18, 1934, ch. 590, § 13, [48 Stat. 1001](https://www.govinfo.gov/link/statute/48/1001).)*

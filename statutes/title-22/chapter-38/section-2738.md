@@ -3,9 +3,10 @@ title: "Section 2738 - Mid-Career Mentoring Program"
 usc_title: 22
 usc_section: "2738"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2738"
-generated_at: "2026-03-30T02:55:05.383Z"
+generated_at: "2026-11-23T21:25:58.542Z"
+status: "active"
 ---
 
 # § 2738. Mid-Career Mentoring Program
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:05.383Z"
   - **(2)** Each session referred to in paragraph (1) shall focus on specific themes developed jointly by the Foreign Service Institute and the Executive Secretariat focused on substantive policy issues and leadership practices.
 - **(d)** The Secretary and the Administrator each is authorized to establish a mentoring and coaching program that pairs a senior leader of the Department or USAID with each of the program participants who complete the Program during the 1-year period immediately following their participation in the Program.
 - **(e)** Not later than one year after December 22, 2023 , and annually thereafter for three years, the Secretary shall submit a report to the appropriate congressional committees that describes the activities of the Program during the most recent year and includes disaggregated demographic data on participants in the Program.
+
+## Source Credit
+
+*([Pub. L. 118–31, div. F, title LXII, § 6205](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 973](https://www.govinfo.gov/link/statute/137/973).)*

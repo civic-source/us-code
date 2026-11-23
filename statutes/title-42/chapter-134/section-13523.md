@@ -3,9 +3,10 @@ title: "Section 13523 - Management plan"
 usc_title: 42
 usc_section: "13523"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13523"
-generated_at: "2026-03-30T02:56:11.448Z"
+generated_at: "2026-11-23T21:26:33.616Z"
+status: "active"
 ---
 
 # § 13523. Management plan
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.448Z"
   - **(3)** a projection of the future cost-competitiveness of the technology in comparison with alternative technologies to provide the same energy service.
 - **(d)** The Secretary shall publish the proposed management plan for a written public comment period of at least 90 days. The Secretary shall consider such comments and include a summary thereof in the management plan.
 - **(e)** Within one year after October 24, 1992 , the Secretary shall submit the first management plan under this section to Congress. Thereafter, the Secretary shall submit a revised management plan biennially, at the time of submittal of the President’s annual budget submission to the Congress.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXIII, § 2304](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3093](https://www.govinfo.gov/link/statute/106/3093).)*

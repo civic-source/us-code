@@ -3,9 +3,10 @@ title: "Section 129a - General policy for total force management"
 usc_title: 10
 usc_section: "129a"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 129a"
-generated_at: "2026-03-30T02:53:38.034Z"
+generated_at: "2026-11-23T21:25:32.213Z"
+status: "active"
 ---
 
 # § 129a. General policy for total force management
@@ -41,3 +42,51 @@ generated_at: "2026-03-30T02:53:38.034Z"
       - **(ii)** the military department concerned is in compliance with the policies, procedures, and analysis required by this section and section 129 of this title .
   - **(2)** In determining the workforce mix between civilian and military personnel, the Secretary of a military department shall reserve military personnel for the performance of the functions that, in the estimation of the Secretary, are required to be performed by military personnel in order to achieve national defense goals or in order to enable the proper functioning of the military department. In making workforce decisions, the Secretary shall account for the relative budgetary impact of military versus civilian personnel in determining the functions required to be performed by military personnel.
 - **(h)** Not later than 1 year after the date of the enactment of this subsection and annually thereafter, the Secretary of Defense shall submit a report to the congressional defense committees containing the analysis conducted pursuant to subsection (b).
+
+Policies and Procedures
+
+Risk Mitigation Over Cost
+
+Delegation of Responsibilities
+
+Use of Plan, Inventory, and List
+
+Considerations in Converting Performance of Functions
+
+Construction With Other Requirements
+
+Performance of Civilian Functions by Military Personnel
+
+Report to Congressional Defense Committees
+
+In General
+
+Management Activities
+
+Plan Required
+
+Briefings.—
+
+Initial briefing
+
+Subsequent briefing
+
+Establishment of Policy.—
+
+In general
+
+Elements
+
+Implementation Plan.—
+
+In general
+
+Elements
+
+Updates
+
+Comptroller General Report
+
+## Source Credit
+
+*(Added [Pub. L. 101–510, div. A, title XIV, § 1483(b)(2)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1715](https://www.govinfo.gov/link/statute/104/1715); amended [Pub. L. 112–81, div. A, title IX, § 931(a)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1541](https://www.govinfo.gov/link/statute/125/1541); [Pub. L. 114–328, div. A, title IX, § 914](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2350](https://www.govinfo.gov/link/statute/130/2350); [Pub. L. 115–91, div. A, title X](https://www.govinfo.gov/link/plaw/115/public/91), §§ 1051(a)(6)(B), 1081(a)(5), Dec. 12, 2017, [131 Stat. 1560](https://www.govinfo.gov/link/statute/131/1560), 1594; [Pub. L. 115–232, div. A, title IX, § 933](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1938](https://www.govinfo.gov/link/statute/132/1938); [Pub. L. 116–92, div. A, title IX, § 902(1)](https://www.govinfo.gov/link/plaw/116/public/92), title XI, § 1106, Dec. 20, 2019, [133 Stat. 1542](https://www.govinfo.gov/link/statute/133/1542), 1597; [Pub. L. 116–283, div. A, title IX, § 912](https://www.govinfo.gov/link/plaw/116/public/283), title XVIII, §§ 1808(d)(1), 1883(b)(2), Jan. 1, 2021, [134 Stat. 3802](https://www.govinfo.gov/link/statute/134/3802), 4160, 4294; [Pub. L. 118–31, div. A, title IX, § 911](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 364](https://www.govinfo.gov/link/statute/137/364); [Pub. L. 119–60, div. A, title XI, § 1107(b)](https://www.govinfo.gov/link/plaw/119/public/60), (c), Dec. 18, 2025, [139 Stat. 1074](https://www.govinfo.gov/link/statute/139/1074).)*

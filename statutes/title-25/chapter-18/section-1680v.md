@@ -3,9 +3,10 @@ title: "Section 1680v - Director of HIV/AIDS Prevention and Treatment"
 usc_title: 25
 usc_section: "1680v"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1680v"
-generated_at: "2026-03-30T02:54:52.828Z"
+generated_at: "2026-11-23T21:25:54.637Z"
+status: "active"
 ---
 
 # § 1680v. Director of HIV/AIDS Prevention and Treatment
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:52.828Z"
 - **(c)** Not later than 2 years after March 23, 2010 , and not less frequently than once every 2 years thereafter, the Director shall submit to Congress a report describing, with respect to the preceding 2-year period—
   - **(1)** each activity carried out under this section; and
   - **(2)** any findings of the Director with respect to HIV/AIDS prevention and treatment activities specific to Indians.
+
+## Source Credit
+
+*([Pub. L. 94–437, title VIII, § 832](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

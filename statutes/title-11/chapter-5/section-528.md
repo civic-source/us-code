@@ -3,9 +3,10 @@ title: "Section 528 - Requirements for debt relief agencies"
 usc_title: 11
 usc_section: "528"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 528"
-generated_at: "2026-03-30T02:53:53.878Z"
+generated_at: "2026-11-23T21:25:34.923Z"
+status: "active"
 ---
 
 # § 528. Requirements for debt relief agencies
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:53.878Z"
   - **(2)** An advertisement, directed to the general public, indicating that the debt relief agency provides assistance with respect to credit defaults, mortgage foreclosures, eviction proceedings, excessive debt, debt collection pressure, or inability to pay any consumer debt shall—
     - **(A)** disclose clearly and conspicuously in such advertisement that the assistance may involve bankruptcy relief under this title; and
     - **(B)** include the following statement: “We are a debt relief agency. We help people file for bankruptcy relief under the Bankruptcy Code.” or a substantially similar statement.
+
+## Source Credit
+
+*(Added [Pub. L. 109–8, title II, § 229(a)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 71](https://www.govinfo.gov/link/statute/119/71).)*

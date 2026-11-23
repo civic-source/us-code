@@ -3,9 +3,10 @@ title: "Section 4623 - Replacement housing for homeowner; mortgage insurance"
 usc_title: 42
 usc_section: "4623"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4623"
-generated_at: "2026-03-30T02:56:11.207Z"
+generated_at: "2026-11-23T21:26:32.680Z"
+status: "active"
 ---
 
 # § 4623. Replacement housing for homeowner; mortgage insurance
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.207Z"
     - **(C)** Reasonable expenses incurred by such displaced person for evidence of title, recording fees, and other closing costs incident to the purchase of the replacement dwelling, but not including prepaid expenses.
   - **(2)** The additional payment authorized by this section shall be made only to a displaced person who purchases and occupies a decent, safe, and sanitary replacement dwelling within 1 year after the date on which such person receives final payment from the displacing agency for the acquired dwelling or the date on which the displacing agency’s obligation under section 4625(c)(3) of this title is met, whichever is later, except that the displacing agency may extend such period for good cause. If such period is extended, the payment under this section shall be based on the costs of relocating the person to a comparable replacement dwelling within 1 year of such date.
 - **(b)** The head of any Federal agency may, upon application by a mortgagee, insure any mortgage (including advances during construction) on a comparable replacement dwelling executed by a displaced person assisted under this section, which mortgage is eligible for insurance under any Federal law administered by such agency notwithstanding any requirements under such law relating to age, physical condition, or other personal characteristics of eligible mortgagors, and may make commitments for the insurance of such mortgage prior to the date of execution of the mortgage.
+
+## Source Credit
+
+*([Pub. L. 91–646, title II, § 203](https://www.govinfo.gov/link/plaw/91/public/646), Jan. 2, 1971, [84 Stat. 1896](https://www.govinfo.gov/link/statute/84/1896); [Pub. L. 100–17, title IV, § 406](https://www.govinfo.gov/link/plaw/100/public/17), Apr. 2, 1987, [101 Stat. 251](https://www.govinfo.gov/link/statute/101/251); [Pub. L. 112–141, div. A, title I, § 1521(b)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 578](https://www.govinfo.gov/link/statute/126/578).)*

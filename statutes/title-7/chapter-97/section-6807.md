@@ -3,9 +3,10 @@ title: "Section 6807 - Petition and review"
 usc_title: 7
 usc_section: "6807"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6807"
-generated_at: "2026-03-30T02:53:42.436Z"
+generated_at: "2026-11-23T21:25:28.401Z"
+status: "active"
 ---
 
 # § 6807. Petition and review
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:42.436Z"
     - **(A)** to make such ruling as the court shall determine to be in accordance with law; or
     - **(B)** to take such further action as, in the opinion of the court, the law requires.
 - **(c)** The pendency of proceedings instituted under this section shall not impede, hinder, or delay the Attorney General or the Secretary from obtaining relief under section 6808 of this title .
+
+## Source Credit
+
+*([Pub. L. 103–190, § 8](https://www.govinfo.gov/link/plaw/103/public/190), Dec. 14, 1993, [107 Stat. 2285](https://www.govinfo.gov/link/statute/107/2285).)*

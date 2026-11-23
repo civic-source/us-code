@@ -3,9 +3,10 @@ title: "Section 1411 - Mergers and transfers between multiemployer plans"
 usc_title: 29
 usc_section: "1411"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1411"
-generated_at: "2026-03-30T02:55:18.736Z"
+generated_at: "2026-11-23T21:26:02.302Z"
+status: "active"
 ---
 
 # § 1411. Mergers and transfers between multiemployer plans
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:18.736Z"
       - **(ii)** such financial assistance is necessary for the merged plan to become or remain solvent;
     - **(C)** the corporation certifies that its ability to meet existing financial assistance obligations to other plans will not be impaired by such financial assistance; and
     - **(D)** such financial assistance is paid exclusively from the fund for basic benefits guaranteed for multiemployer plans.
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4231](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 96–364, title I, § 104(2)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1244](https://www.govinfo.gov/link/statute/94/1244); amended [Pub. L. 113–235, div. O, title I, § 121(a)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2794](https://www.govinfo.gov/link/statute/128/2794).)*

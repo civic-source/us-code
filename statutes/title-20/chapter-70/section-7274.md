@@ -3,9 +3,10 @@ title: "Section 7274 - Promise neighborhoods"
 usc_title: 20
 usc_section: "7274"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7274"
-generated_at: "2026-03-30T02:54:48.209Z"
+generated_at: "2026-11-23T21:25:47.569Z"
+status: "active"
 ---
 
 # § 7274. Promise neighborhoods
@@ -67,3 +68,7 @@ generated_at: "2026-03-30T02:54:48.209Z"
     - **(B)** access to a community-based continuum of high-quality services for children living in the most distressed communities of the United States, beginning at birth.
   - **(3)** Each eligible entity that receives a grant under this subpart for activities described in this section shall annually collect and report to the Secretary data on the performance indicators described in paragraph (2) for use by the Secretary in making a determination concerning continuation funding and grant extension under section 7273(b) of this title for each eligible entity.
 - **(i)** The Secretary shall reserve not more than 5 percent of the funds made available under section 7251(b)(2)(A) of this title to provide technical assistance and evaluate the implementation and impact of the activities funded under this section, in accordance with section 7981 of this title .
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4624](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title IV, § 4601](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2026](https://www.govinfo.gov/link/statute/129/2026).)*

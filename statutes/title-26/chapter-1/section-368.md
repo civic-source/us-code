@@ -3,9 +3,10 @@ title: "Section 368 - Definitions relating to corporate reorganizations"
 usc_title: 26
 usc_section: "368"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 368"
-generated_at: "2026-03-30T02:55:27.668Z"
+generated_at: "2026-11-23T21:26:06.154Z"
+status: "active"
 ---
 
 # § 368. Definitions relating to corporate reorganizations
@@ -65,3 +66,13 @@ generated_at: "2026-03-30T02:55:27.668Z"
   - **(1)** a corporation resulting from a reorganization, and
   - **(2)** both corporations, in the case of a reorganization resulting from the acquisition by one corporation of stock or properties of another.
 - **(c)** For purposes of part I (other than section 304), part II, this part, and part V, the term “control” means the ownership of stock possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote and at least 80 percent of the total number of shares of all other classes of stock of the corporation.
+
+Agency receivership proceedings which involve financial institutions
+
+In general
+
+Plans adopted on or before august 31, 1982
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 120; [Pub. L. 88–272, title II, § 218(a)](https://www.govinfo.gov/link/plaw/88/public/272), (b), Feb. 26, 1964, [78 Stat. 57](https://www.govinfo.gov/link/statute/78/57); [Pub. L. 90–621, § 1(a)](https://www.govinfo.gov/link/plaw/90/public/621), (b), Oct. 22, 1968, [82 Stat. 1310](https://www.govinfo.gov/link/statute/82/1310), 1311; [Pub. L. 91–693, § 1(a)](https://www.govinfo.gov/link/plaw/91/public/693), (b), Jan. 12, 1971, [84 Stat. 2077](https://www.govinfo.gov/link/statute/84/2077); [Pub. L. 94–455, title VIII, § 806(f)(1)](https://www.govinfo.gov/link/plaw/94/public/455), title XXI, § 2131(a), Oct. 4, 1976, [90 Stat. 1605](https://www.govinfo.gov/link/statute/90/1605), 1922; [Pub. L. 95–600, title VII, § 701(j)(1)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2905](https://www.govinfo.gov/link/statute/92/2905); [Pub. L. 96–589, § 4(a)](https://www.govinfo.gov/link/plaw/96/public/589) –(d), (h)(3), (4), Dec. 24, 1980, [94 Stat. 3401–3403](https://www.govinfo.gov/link/statute/94/3401), 3405; [Pub. L. 97–34, title II, § 241](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 254](https://www.govinfo.gov/link/statute/95/254); [Pub. L. 97–248, title II, § 225(a)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 490](https://www.govinfo.gov/link/statute/96/490); [Pub. L. 97–448, title III, § 304(b)](https://www.govinfo.gov/link/plaw/97/public/448), (c), Jan. 12, 1983, [96 Stat. 2398](https://www.govinfo.gov/link/statute/96/2398); [Pub. L. 98–369, div. A, title I](https://www.govinfo.gov/link/plaw/98/public/369), §§ 63(a), 64(a), 174(b)(5)(D), July 18, 1984, [98 Stat. 583](https://www.govinfo.gov/link/statute/98/583), 584, 707; [Pub. L. 99–514, title VI, § 621(e)(1)](https://www.govinfo.gov/link/plaw/99/public/514), title IX, § 904(a), title XVIII, §§ 1804(g)(2), (h), 1879(l)(1), Oct. 22, 1986, [100 Stat. 2266](https://www.govinfo.gov/link/statute/100/2266), 2385, 2806, 2909; [Pub. L. 100–647, title I, § 1018(q)(5)](https://www.govinfo.gov/link/plaw/100/public/647), title IV, § 4012(b)(1)(A), Nov. 10, 1988, [102 Stat. 3586](https://www.govinfo.gov/link/statute/102/3586), 3656; [Pub. L. 101–73, title XIV, § 1401(a)(1)](https://www.govinfo.gov/link/plaw/101/public/73), (b)(1), Aug. 9, 1989, [103 Stat. 548](https://www.govinfo.gov/link/statute/103/548), 549; [Pub. L. 105–34, title X, § 1012(c)(2)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 917](https://www.govinfo.gov/link/statute/111/917); [Pub. L. 105–206, title VI, § 6010(c)(3)(B)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 813](https://www.govinfo.gov/link/statute/112/813); [Pub. L. 105–277, div. J, title IV, § 4003(f)(2)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–910](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–36, title III, § 3001(a)(3)](https://www.govinfo.gov/link/plaw/106/public/36), June 25, 1999, [113 Stat. 182](https://www.govinfo.gov/link/statute/113/182); [Pub. L. 115–141, div. U, title IV, § 401(a)(68)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1187](https://www.govinfo.gov/link/statute/132/1187).)*

@@ -3,9 +3,10 @@ title: "Section 4814 - Petition and review"
 usc_title: 7
 usc_section: "4814"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 4814"
-generated_at: "2026-03-30T02:53:42.412Z"
+generated_at: "2026-11-23T21:25:28.354Z"
+status: "active"
 ---
 
 # § 4814. Petition and review
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.412Z"
   - **(3)** If a court determines that such determination is not in accordance with law, the court shall remand such proceedings to the Secretary with directions to—
     - **(A)** make such ruling as the court shall determine to be in accordance with law; or
     - **(B)** take such further proceedings as, in the opinion of the court, the law requires.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XVI, § 1625](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1619](https://www.govinfo.gov/link/statute/99/1619).)*

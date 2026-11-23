@@ -3,9 +3,10 @@ title: "Section 4p - Encouragement of fair labor practices"
 usc_title: 22
 usc_section: "4p"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4p"
-generated_at: "2026-03-30T02:55:05.307Z"
+generated_at: "2026-11-23T21:25:58.327Z"
+status: "active"
 ---
 
 # § 262p–4p. Encouragement of fair labor practices
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.307Z"
   - **(2)** in developing the policies referred to in paragraph (1), to use the relevant conventions of the International Labor Organization, which have set forth, among other things, the right of association, the right to organize and bargain collectively, a prohibition on the use of any form of forced or compulsory labor, and certain minimum labor standards that take into account differences in development levels among nations including a minimum age for the employment of children, acceptable conditions of work with respect to minimum wages, hours of work, and occupational safety and health; and
   - **(3)** to establish formal procedures to screen projects and programs funded by the institution for any negative impact in a borrowing country on the rights referred to in paragraph (1).
 - **(b)** The Secretary of the Treasury shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate by the end of each fiscal year a report on the extent to which each borrowing country guarantees internationally recognized worker rights to its labor force and on progress toward achieving each of the goals described in subsection (a).
+
+## Source Credit
+
+*([Pub. L. 95–118, title XVI, § 1621](https://www.govinfo.gov/link/plaw/95/public/118), as added [Pub. L. 103–306, title V, § 526(e)](https://www.govinfo.gov/link/plaw/103/public/306), Aug. 23, 1994, [108 Stat. 1634](https://www.govinfo.gov/link/statute/108/1634); amended [Pub. L. 104–188, title I, § 1954(b)(4)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1928](https://www.govinfo.gov/link/statute/110/1928).)*

@@ -3,9 +3,10 @@ title: "Section 1362 - Liability for termination of single-employer plans under 
 usc_title: 29
 usc_section: "1362"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1362"
-generated_at: "2026-03-30T02:55:18.733Z"
+generated_at: "2026-11-23T21:26:02.294Z"
+status: "active"
 ---
 
 # § 1362. Liability for termination of single-employer plans under a distress termination or a termination by corporation
@@ -93,3 +94,11 @@ generated_at: "2026-03-30T02:55:18.733Z"
       - **(i)** is related to the permanent cessation of operations of the employer at the facility, and
       - **(ii)** occurs during the 3-year period preceding such cessation.
     - **(C)** For purposes of section 1083(f)(6)(B) of this title and section 430(f)(6)(B) of title 26 , any additional contribution made under paragraph (4) shall be treated in the same manner as a contribution an employer is required to make in order to avoid a benefit reduction under paragraph (1), (2), or (4) of section 1056(g) of this title or subsection (b), (c), or (e) of section 436 of title 26 for the plan year.
+
+In general
+
+Transition rule
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4062](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 1029](https://www.govinfo.gov/link/statute/88/1029); [Pub. L. 95–598, title III, § 321(b)](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2678](https://www.govinfo.gov/link/statute/92/2678); [Pub. L. 96–364, title IV, § 403(g)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1301](https://www.govinfo.gov/link/statute/94/1301); [Pub. L. 99–272, title XI, § 11011(a)](https://www.govinfo.gov/link/plaw/99/public/272), (b), Apr. 7, 1986, [100 Stat. 253](https://www.govinfo.gov/link/statute/100/253), 257; [Pub. L. 100–203, title IX, § 9312(b)(1)](https://www.govinfo.gov/link/plaw/100/public/203), (2)(A), (B)(ii), Dec. 22, 1987, [101 Stat. 1330–361](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7881(f)(2), (10)(A), (B), 7891(a)(1), Dec. 19, 1989, [103 Stat. 2440](https://www.govinfo.gov/link/statute/103/2440), 2441, 2445; [Pub. L. 109–280, title I, § 108(b)(4)](https://www.govinfo.gov/link/plaw/109/public/280), formerly § 107(b)(4), Aug. 17, 2006, [120 Stat. 819](https://www.govinfo.gov/link/statute/120/819), renumbered [Pub. L. 111–192, title II, § 202(a)](https://www.govinfo.gov/link/plaw/111/public/192), June 25, 2010, [124 Stat. 1297](https://www.govinfo.gov/link/statute/124/1297); amended [Pub. L. 113–235, div. P, § 1(a)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2822](https://www.govinfo.gov/link/statute/128/2822).)*

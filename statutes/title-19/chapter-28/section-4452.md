@@ -3,9 +3,10 @@ title: "Section 4452 - United States-Israel trade and commercial enhancement"
 usc_title: 19
 usc_section: "4452"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4452"
-generated_at: "2026-03-30T02:54:24.709Z"
+generated_at: "2026-11-23T21:25:42.887Z"
+status: "active"
 ---
 
 # § 4452. United States-Israel trade and commercial enhancement
@@ -61,3 +62,7 @@ generated_at: "2026-03-30T02:54:24.709Z"
   - **(7)** The term “United States person” means—
     - **(A)** a natural person who is a national of the United States (as defined in section 1101(a)(22) of title 8 ); or
     - **(B)** a corporation or other legal entity that is organized under the laws of the United States, any State or territory thereof, or the District of Columbia, if natural persons described in subparagraph (A) own, directly or indirectly, more than 50 percent of the outstanding capital stock or other beneficial interest in such legal entity.
+
+## Source Credit
+
+*([Pub. L. 114–125, title IX, § 909](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 236](https://www.govinfo.gov/link/statute/130/236).)*

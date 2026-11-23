@@ -3,9 +3,10 @@ title: "Section 280G - Golden parachute payments"
 usc_title: 26
 usc_section: "280G"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 280G"
-generated_at: "2026-03-30T02:55:27.663Z"
+generated_at: "2026-11-23T21:26:06.127Z"
+status: "active"
 ---
 
 # § 280G. Golden parachute payments
@@ -76,3 +77,11 @@ generated_at: "2026-03-30T02:55:27.663Z"
         - **(II)** to apply this section and section 4999 in cases where one or more payments with respect to any individual are treated as parachute payments by reason of this subsection, and other payments with respect to such individual are treated as parachute payments under this section without regard to this subsection, and
         - **(III)** to prevent the avoidance of the application of this section through the mischaracterization of a severance from employment as other than an applicable severance from employment.
 - **(f)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section (including regulations for the application of this section in the case of related corporations and in the case of personal service corporations).
+
+In general
+
+Special rule for contract amendments
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title I, § 67(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 585](https://www.govinfo.gov/link/statute/98/585); amended [Pub. L. 99–121, title I, § 102(c)(4)](https://www.govinfo.gov/link/plaw/99/public/121), Oct. 11, 1985, [99 Stat. 508](https://www.govinfo.gov/link/statute/99/508); [Pub. L. 99–514, title XVIII, § 1804(j)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2807](https://www.govinfo.gov/link/statute/100/2807); [Pub. L. 100–647, title I, § 1018(d)(6)](https://www.govinfo.gov/link/plaw/100/public/647) –(8), Nov. 10, 1988, [102 Stat. 3581](https://www.govinfo.gov/link/statute/102/3581); [Pub. L. 104–188, title I, § 1421(b)(9)(A)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1798](https://www.govinfo.gov/link/statute/110/1798); [Pub. L. 110–343, div. A, title III, § 302(b)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3805](https://www.govinfo.gov/link/statute/122/3805).)*

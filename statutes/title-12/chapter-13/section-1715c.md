@@ -3,9 +3,10 @@ title: "Section 1715c - Labor standards"
 usc_title: 12
 usc_section: "1715c"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1715c"
-generated_at: "2026-03-30T02:53:53.412Z"
+generated_at: "2026-11-23T21:25:36.878Z"
+status: "active"
 ---
 
 # § 1715c. Labor standards
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.412Z"
   - **(2)** with respect to mortgages described in such subsection (h)(1) or section 1715z(j)(1) of this title , in cases or classes of cases where prospective owners of such dwellings, voluntarily donate their services without compensation, or other persons (not otherwise employed at any time in the rehabilitation of the property) voluntarily donate their services without compensation, and the Secretary determines that any amounts saved thereby are fully credited to the nonprofit organization undertaking the rehabilitation.
 - **(b)** The Secretary is authorized to make such rules and regulations as may be necessary to carry out the provisions of this section.
 - **(c)** There is authorized to be appropriated for the remainder of the fiscal year ending June 30, 1939 , and for each fiscal year thereafter, a sum sufficient to meet all necessary expenses of the Department of Labor in making the determinations provided for in subsection (a).
+
+## Source Credit
+
+*(June 27, 1934, ch. 847, title II, § 212, as added June 3, 1939, ch. 175, § 14, [53 Stat. 807](https://www.govinfo.gov/link/statute/53/807); amended May 26, 1942, ch. 319, § 10, [56 Stat. 303](https://www.govinfo.gov/link/statute/56/303); Aug. 8, 1949, ch. 403, § 3, [63 Stat. 576](https://www.govinfo.gov/link/statute/63/576); Apr. 20, 1950, ch. 94, title I, §§ 113, 122, [64 Stat. 54](https://www.govinfo.gov/link/statute/64/54), 59; Sept. 1, 1951, ch. 378, title II, § 203, [65 Stat. 303](https://www.govinfo.gov/link/statute/65/303); Aug. 2, 1954, ch. 649, title I, § 118, [68 Stat. 595](https://www.govinfo.gov/link/statute/68/595); [Pub. L. 86–372, title I, § 110(f)](https://www.govinfo.gov/link/plaw/86/public/372), title II, § 201(b), title VII, § 704(c), Sept. 23, 1959, [73 Stat. 661](https://www.govinfo.gov/link/statute/73/661), 667, 686; [Pub. L. 87–70, title VI, § 612(e)](https://www.govinfo.gov/link/plaw/87/public/70), June 30, 1961, [75 Stat. 181](https://www.govinfo.gov/link/statute/75/181); [Pub. L. 88–349, § 3](https://www.govinfo.gov/link/plaw/88/public/349), July 2, 1964, [78 Stat. 239](https://www.govinfo.gov/link/statute/78/239); [Pub. L. 88–560, title I, § 119(b)](https://www.govinfo.gov/link/plaw/88/public/560), Sept. 2, 1964, [78 Stat. 782](https://www.govinfo.gov/link/statute/78/782); [Pub. L. 89–117, title I, § 102(c)](https://www.govinfo.gov/link/plaw/89/public/117), title II, § 201(b)(4), Aug. 10, 1965, [79 Stat. 454](https://www.govinfo.gov/link/statute/79/454), 465; [Pub. L. 89–754, title III, § 311](https://www.govinfo.gov/link/plaw/89/public/754), title V, § 503, Nov. 3, 1966, [80 Stat. 1270](https://www.govinfo.gov/link/statute/80/1270), 1277; [Pub. L. 90–19, § 1(a)](https://www.govinfo.gov/link/plaw/90/public/19) (3), May 25, 1967, [81 Stat. 17](https://www.govinfo.gov/link/statute/81/17); [Pub. L. 90–448, title I, § 101(d)](https://www.govinfo.gov/link/plaw/90/public/448), title II, § 201(b)(1), title XV, § 1502, Aug. 1, 1968, [82 Stat. 484](https://www.govinfo.gov/link/statute/82/484), 501, 600; [Pub. L. 91–609, title I, § 110(c)](https://www.govinfo.gov/link/plaw/91/public/609), Dec. 31, 1970, [84 Stat. 1772](https://www.govinfo.gov/link/statute/84/1772); [Pub. L. 101–235, title I, § 133(d)(2)](https://www.govinfo.gov/link/plaw/101/public/235), Dec. 15, 1989, [103 Stat. 2027](https://www.govinfo.gov/link/statute/103/2027).)*

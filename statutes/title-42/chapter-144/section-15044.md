@@ -3,9 +3,10 @@ title: "Section 15044 - Administration"
 usc_title: 42
 usc_section: "15044"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15044"
-generated_at: "2026-03-30T02:56:11.457Z"
+generated_at: "2026-11-23T21:26:33.660Z"
+status: "active"
 ---
 
 # § 15044. Administration
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.457Z"
 - **(c)** For purposes of any periodic audit, report, or evaluation required under this part, the Secretary shall not require an entity carrying out a program to disclose the identity of, or any other personally identifiable information related to, any individual requesting assistance under such program.
 - **(d)** The Secretary shall provide advance public notice of any Federal programmatic or administrative onsite review of a system conducted under this part and solicit public comment on the system through such notice. The Secretary shall prepare an onsite visit report containing the results of such review, which shall be distributed to the Governor of the State and to other interested public and private parties. The comments received in response to the public comment solicitation notice shall be included in the onsite visit report.
 - **(e)** Beginning in fiscal year 2002, each system established in a State pursuant to this part shall annually prepare and transmit to the Secretary a report that describes the activities, accomplishments, and expenditures of the system during the preceding fiscal year, including a description of the system’s goals, the extent to which the goals were achieved, barriers to their achievement, the process used to obtain public input, the nature of such input, and how such input was used.
+
+## Source Credit
+
+*([Pub. L. 106–402, title I, § 144](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1717](https://www.govinfo.gov/link/statute/114/1717).)*

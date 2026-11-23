@@ -3,9 +3,10 @@ title: "Section 3342 - Check cashing and exchange transactions"
 usc_title: 31
 usc_section: "3342"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 3342"
-generated_at: "2026-03-30T02:55:34.055Z"
+generated_at: "2026-11-23T21:26:10.572Z"
+status: "active"
 ---
 
 # § 3342. Check cashing and exchange transactions
@@ -41,3 +42,34 @@ generated_at: "2026-03-30T02:55:34.055Z"
 - **(f)** With respect to automated teller machines on naval vessels, the authority of a disbursing official of the United States Government under subsection (a) also includes the following:
   - **(1)** The authority to provide operating funds to the automated teller machines.
   - **(2)** The authority to accept, for safekeeping, deposits and transfers of funds made through the automated teller machines.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3342(a) | 31:492a(less 1st sentence words between 2d–7th commas, last sentence). | Dec. 23, 1944, ch. 716 , §§ 1–3, 58 Stat. 921 ; restated June 16, 1953, ch. 115 , 67 Stat. 61 . |
+| 3342(b) | 31:492a(1st sentence words between 2d–7th commas). |  |
+| 3342(c)(1) | 31:492a(last sentence). |  |
+| 3342(c)(2), (3) | 31:492b. |  |
+| 3342(d) | 31:492c. |  |
+
+
+Historical and Revision Notes
+
+3342(a)
+
+Dec. 23, 1944, ch. 716
+
+58 Stat. 921
+
+June 16, 1953, ch. 115
+
+67 Stat. 61
+
+3342(b)
+
+3342(c)(1)
+
+3342(d)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 957](https://www.govinfo.gov/link/statute/96/957); [Pub. L. 104–106, div. A, title X, § 1090](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 459](https://www.govinfo.gov/link/statute/110/459); [Pub. L. 104–201, div. A, title X, § 1011](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2635](https://www.govinfo.gov/link/statute/110/2635); [Pub. L. 106–65, div. A, title III, § 372](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 580](https://www.govinfo.gov/link/statute/113/580); [Pub. L. 108–136, div. A, title XII, § 1224](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1653](https://www.govinfo.gov/link/statute/117/1653).)*

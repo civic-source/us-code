@@ -3,9 +3,10 @@ title: "Section 5 - Investment advisory contracts"
 usc_title: 15
 usc_section: "5"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 5"
-generated_at: "2026-03-30T02:54:08.072Z"
+generated_at: "2026-11-23T21:25:39.602Z"
+status: "active"
 ---
 
 # § 80b–5. Investment advisory contracts
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.072Z"
 - **(d)** As used in paragraphs (2) and (3) of subsection (a), “investment advisory contract” means any contract or agreement whereby a person agrees to act as investment adviser to or to manage any investment or trading account of another person other than an investment company registered under subchapter I of this chapter.
 - **(e)** The Commission, by rule or regulation, upon its own motion, or by order upon application, may conditionally or unconditionally exempt any person or transaction, or any class or classes of persons or transactions, from subsection (a)(1), if and to the extent that the exemption relates to an investment advisory contract with any person that the Commission determines does not need the protections of subsection (a)(1), on the basis of such factors as financial sophistication, net worth, knowledge of and experience in financial matters, amount of assets under management, relationship with a registered investment adviser, and such other factors as the Commission determines are consistent with this section. With respect to any factor used in any rule or regulation by the Commission in making a determination under this subsection, if the Commission uses a dollar amount test in connection with such factor, such as a net asset threshold, the Commission shall, by order, not later than 1 year after July 21, 2010 , and every 5 years thereafter, adjust for the effects of inflation on such test. Any such adjustment that is not a multiple of $100,000 shall be rounded to the nearest multiple of $100,000.
 - **(f)** The Commission, by rule, may prohibit, or impose conditions or limitations on the use of, agreements that require customers or clients of any investment adviser to arbitrate any future dispute between them arising under the Federal securities laws, the rules and regulations thereunder, or the rules of a self-regulatory organization if it finds that such prohibition, imposition of conditions, or limitations are in the public interest and for the protection of investors.
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title II, § 205, [54 Stat. 852](https://www.govinfo.gov/link/statute/54/852); [Pub. L. 86–750, § 7](https://www.govinfo.gov/link/plaw/86/public/750), Sept. 13, 1960, [74 Stat. 887](https://www.govinfo.gov/link/statute/74/887); [Pub. L. 91–547, § 25](https://www.govinfo.gov/link/plaw/91/public/547), Dec. 14, 1970, [84 Stat. 1432](https://www.govinfo.gov/link/statute/84/1432); [Pub. L. 96–477, title II, § 203](https://www.govinfo.gov/link/plaw/96/public/477), Oct. 21, 1980, [94 Stat. 2290](https://www.govinfo.gov/link/statute/94/2290); [Pub. L. 100–181, title VII, § 703](https://www.govinfo.gov/link/plaw/100/public/181), Dec. 4, 1987, [101 Stat. 1263](https://www.govinfo.gov/link/statute/101/1263); [Pub. L. 104–290, title II, § 210](https://www.govinfo.gov/link/plaw/104/public/290), Oct. 11, 1996, [110 Stat. 3436](https://www.govinfo.gov/link/statute/110/3436); [Pub. L. 111–203, title IV, § 418](https://www.govinfo.gov/link/plaw/111/public/203), title IX, §§ 921(b), 928, July 21, 2010, [124 Stat. 1579](https://www.govinfo.gov/link/statute/124/1579), 1841, 1852; [Pub. L. 115–141, div. S, title VIII, § 802(b)(1)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1140](https://www.govinfo.gov/link/statute/132/1140).)*

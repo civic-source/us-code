@@ -3,9 +3,10 @@ title: "Section 311 - Congressional notification requirements"
 usc_title: 49
 usc_section: "311"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 311"
-generated_at: "2026-03-30T02:56:19.298Z"
+generated_at: "2026-11-23T21:26:40.590Z"
+status: "active"
 ---
 
 # § 311. Congressional notification requirements
@@ -20,3 +21,19 @@ generated_at: "2026-03-30T02:56:19.298Z"
     - **(B)** the Committee on Environment and Public Works, the Committee on Commerce, Science, and Transportation, and the Committee on Banking, Housing, and Urban Affairs of the Senate.
   - **(2)** The term “covered project” means a project competitively selected by the Department to receive a discretionary grant award, letter of intent, loan commitment, loan guarantee commitment, or line of credit commitment in an amount equal to or greater than $750,000.
   - **(3)** The term “Department” means the Department of Transportation, including the modal administrations of the Department.
+
+In General
+
+Emergency Program
+
+Definitions
+
+Appropriate committees of congress
+
+Covered project
+
+Department
+
+## Source Credit
+
+*(Added [Pub. L. 114–322, title IV, § 5001(a)](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1884](https://www.govinfo.gov/link/statute/130/1884).)*

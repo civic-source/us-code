@@ -3,9 +3,10 @@ title: "Section 733 - Basis of distributee partner’s interest"
 usc_title: 26
 usc_section: "733"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 733"
-generated_at: "2026-03-30T02:55:27.726Z"
+generated_at: "2026-11-23T21:26:06.376Z"
+status: "active"
 ---
 
 # § 733. Basis of distributee partner’s interest
@@ -14,3 +15,7 @@ In the case of a distribution by a partnership to a partner other than in liquid
 
   - **(1)** the amount of any money distributed to such partner, and
   - **(2)** the amount of the basis to such partner of distributed property other than money, as determined under section 732.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 247.)*

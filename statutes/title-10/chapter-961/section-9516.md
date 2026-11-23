@@ -3,9 +3,10 @@ title: "Section 9516 - Airlift service"
 usc_title: 10
 usc_section: "9516"
 chapter: 961
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 9516"
-generated_at: "2026-03-30T02:53:38.261Z"
+generated_at: "2026-11-23T21:25:33.007Z"
+status: "active"
 ---
 
 # § 9516. Airlift service
@@ -24,3 +25,19 @@ generated_at: "2026-03-30T02:53:38.261Z"
     - **(A)** specifies the dollar value of the award; and
     - **(B)** provides a detailed explanation of the reasons for the award.
 - **(f)** In this section, “CRAF-eligible aircraft” means aircraft of a type the Secretary of Defense has determined to be eligible to participate in the civil reserve air fleet.
+
+Interstate Transportation
+
+Transportation Between the United States and Foreign Locations
+
+Transportation Between Foreign Locations
+
+Exception
+
+Annual Report
+
+CRAF-eligible Aircraft Defined
+
+## Source Credit
+
+*(Added [Pub. L. 113–291, div. A, title X, § 1042(a)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3492](https://www.govinfo.gov/link/statute/128/3492); amended [Pub. L. 117–81, div. A, title X, § 1083(b)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1922](https://www.govinfo.gov/link/statute/135/1922).)*

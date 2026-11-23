@@ -3,9 +3,10 @@ title: "Section 930 - Art. 130. Stalking"
 usc_title: 10
 usc_section: "930"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 930"
-generated_at: "2026-03-30T02:53:38.087Z"
+generated_at: "2026-11-23T21:25:32.354Z"
+status: "active"
 ---
 
 # § 930. Art. 130. Stalking
@@ -32,3 +33,11 @@ generated_at: "2026-03-30T02:53:38.087Z"
   - **(6)** The term “intimate partner”, in the case of a specific person, means—
     - **(A)** a former spouse of the specific person, a person who shares a child in common with the specific person, or a person who cohabits with or has cohabited as a spouse with the specific person; or
     - **(B)** a person who has been in a social relationship of a romantic or intimate nature with the specific person, as determined by the length of the relationship, the type of relationship, and the frequency of interaction between the persons involved in the relationship.
+
+In General
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 109–163, div. A, title V, § 551(a)(1)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3256](https://www.govinfo.gov/link/statute/119/3256), § 920a; renumbered § 930 and amended [Pub. L. 114–328, div. E, title LX](https://www.govinfo.gov/link/plaw/114/public/328), §§ 5401(11), 5443, Dec. 23, 2016, [130 Stat. 2939](https://www.govinfo.gov/link/statute/130/2939), 2955; [Pub. L. 118–31, div. A, title V, § 531(d)(2)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 259](https://www.govinfo.gov/link/statute/137/259).)*

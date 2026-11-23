@@ -3,9 +3,10 @@ title: "Section 1395p - Enrollment periods"
 usc_title: 42
 usc_section: "1395p"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1395p"
-generated_at: "2026-03-30T02:56:10.955Z"
+generated_at: "2026-11-23T21:26:31.454Z"
+status: "active"
 ---
 
 # § 1395p. Enrollment periods
@@ -78,3 +79,11 @@ generated_at: "2026-03-30T02:56:10.955Z"
       - **(ii)** a member of family (as defined in section 8901(5) of title 5 ) of a Postal Service annuitant and is entitled to benefits under part A of this subchapter, but excluding an individual who is eligible to enroll under such part under section 1395i–2 of this title or 1395i–2a of this title; and
     - **(B)** is not enrolled under this part, the individual may elect to be enrolled under this part during a special enrollment period during the 6-month period beginning on April 1, 2024 .
   - **(2)** In this subsection, the term “Postal Service annuitant” means an annuitant enrolled in a health benefits plan under chapter 89 of title 5, whose Government contribution is required to be paid under section 8906(g)(2) of such title.
+
+In general
+
+Coverage period
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1837, as added [Pub. L. 89–97, title I, § 102(a)](https://www.govinfo.gov/link/plaw/89/public/97), July 30, 1965, [79 Stat. 304](https://www.govinfo.gov/link/statute/79/304); amended [Pub. L. 89–384, § 3(a)](https://www.govinfo.gov/link/plaw/89/public/384), (b), Apr. 8, 1966, [80 Stat. 105](https://www.govinfo.gov/link/statute/80/105); [Pub. L. 90–248, title I](https://www.govinfo.gov/link/plaw/90/public/248), §§ 136(a), 145(a), (b), Jan. 2, 1968, [81 Stat. 853](https://www.govinfo.gov/link/statute/81/853), 859; [Pub. L. 92–603, title II](https://www.govinfo.gov/link/plaw/92/public/603), §§ 201(c)(2), 206(a), 259(a), 260, Oct. 30, 1972, [86 Stat. 1372](https://www.govinfo.gov/link/statute/86/1372), 1378, 1448; [Pub. L. 96–265, title I, § 103(a)(3)](https://www.govinfo.gov/link/plaw/96/public/265), June 9, 1980, [94 Stat. 444](https://www.govinfo.gov/link/statute/94/444); [Pub. L. 96–499, title IX, § 945(a)](https://www.govinfo.gov/link/plaw/96/public/499), (b), Dec. 5, 1980, [94 Stat. 2642](https://www.govinfo.gov/link/statute/94/2642); [Pub. L. 97–35, title XXI, § 2151(a)(1)](https://www.govinfo.gov/link/plaw/97/public/35), (2), Aug. 13, 1981, [95 Stat. 801](https://www.govinfo.gov/link/statute/95/801); [Pub. L. 98–369, div. B, title III](https://www.govinfo.gov/link/plaw/98/public/369), §§ 2338(b), 2354(b)(10), July 18, 1984, [98 Stat. 1092](https://www.govinfo.gov/link/statute/98/1092), 1101; [Pub. L. 99–272, title IX](https://www.govinfo.gov/link/plaw/99/public/272), §§ 9201(c)(1), 9219(a)(2), Apr. 7, 1986, [100 Stat. 171](https://www.govinfo.gov/link/statute/100/171), 182; [Pub. L. 99–509, title IX, § 9319(c)(1)](https://www.govinfo.gov/link/plaw/99/public/509) –(3), Oct. 21, 1986, [100 Stat. 2011](https://www.govinfo.gov/link/statute/100/2011); [Pub. L. 99–514, title XVIII, § 1895(b)(12)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2934](https://www.govinfo.gov/link/statute/100/2934); [Pub. L. 101–239, title VI, § 6202(b)(4)(C)](https://www.govinfo.gov/link/plaw/101/public/239), (c)(1), Dec. 19, 1989, [103 Stat. 2233](https://www.govinfo.gov/link/statute/103/2233); [Pub. L. 103–432, title I](https://www.govinfo.gov/link/plaw/103/public/432), §§ 147(f)(1)(A), 151(c)(2), Oct. 31, 1994, [108 Stat. 4430](https://www.govinfo.gov/link/statute/108/4430), 4435; [Pub. L. 105–33, title IV](https://www.govinfo.gov/link/plaw/105/public/33), §§ 4581(b)(1), 4631(a)(2), Aug. 5, 1997, [111 Stat. 465](https://www.govinfo.gov/link/statute/111/465), 486; [Pub. L. 106–554, § 1(a)(6) [title I, § 115(b)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–474; [Pub. L. 109–171, title V, § 5115(a)(2)(A)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 45](https://www.govinfo.gov/link/statute/120/45); [Pub. L. 111–148, title III, § 3110(a)(1)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 420](https://www.govinfo.gov/link/statute/124/420); [Pub. L. 116–260, div. CC, title I, § 120(a)(2)(A)](https://www.govinfo.gov/link/plaw/116/public/260), title IV, § 402(a)(2)(B), (b), Dec. 27, 2020, [134 Stat. 2954](https://www.govinfo.gov/link/statute/134/2954), 2999; [Pub. L. 117–108, title I, § 101(b)(1)](https://www.govinfo.gov/link/plaw/117/public/108), Apr. 6, 2022, [136 Stat. 1136](https://www.govinfo.gov/link/statute/136/1136).)*

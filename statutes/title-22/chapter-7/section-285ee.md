@@ -3,9 +3,10 @@ title: "Section 285ee - Fifth capital increase"
 usc_title: 22
 usc_section: "285ee"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 285ee"
-generated_at: "2026-03-30T02:55:05.318Z"
+generated_at: "2026-11-23T21:25:58.360Z"
+status: "active"
 ---
 
 # § 285ee. Fifth capital increase
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.318Z"
   - **(2)** Of the amount authorized to be appropriated under paragraph (1)—
     - **(A)** $532,929,240 is authorized to be appropriated for paid-in shares of the Bank; and
     - **(B)** $12,790,243,843 is authorized to be appropriated for callable shares of the Bank, for payment by the Secretary of the Treasury.
+
+## Source Credit
+
+*([Pub. L. 89–369, § 34](https://www.govinfo.gov/link/plaw/89/public/369), as added [Pub. L. 112–10, div. B, title XI, § 2126(e)](https://www.govinfo.gov/link/plaw/112/public/10), Apr. 15, 2011, [125 Stat. 191](https://www.govinfo.gov/link/statute/125/191).)*

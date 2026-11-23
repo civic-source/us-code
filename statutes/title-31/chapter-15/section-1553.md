@@ -3,9 +3,10 @@ title: "Section 1553 - Availability of appropriation accounts to pay obligations
 usc_title: 31
 usc_section: "1553"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 1553"
-generated_at: "2026-03-30T02:55:34.053Z"
+generated_at: "2026-11-23T21:26:10.559Z"
+status: "active"
 ---
 
 # § 1553. Availability of appropriation accounts to pay obligations
@@ -25,3 +26,23 @@ generated_at: "2026-03-30T02:55:34.053Z"
   - **(2)** This subchapter does not—
     - **(A)** relieve the Comptroller General of the duty to make decisions requested under law; or
     - **(B)** affect the authority of the Comptroller General to settle claims and accounts.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1553(a) | 31:702(1st sentence). | July 25, 1956, ch. 727, § 2 , 70 Stat. 648 . |
+| 1553(b) | 31:702(last sentence). |  |
+
+
+Historical and Revision Notes
+
+1553(a)
+
+July 25, 1956, ch. 727, § 2
+
+70 Stat. 648
+
+1553(b)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 936](https://www.govinfo.gov/link/statute/96/936); [Pub. L. 101–510, div. A, title XIV, § 1405(a)(1)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1676](https://www.govinfo.gov/link/statute/104/1676).)*

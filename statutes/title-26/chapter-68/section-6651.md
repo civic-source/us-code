@@ -3,9 +3,10 @@ title: "Section 6651 - Failure to file tax return or to pay tax"
 usc_title: 26
 usc_section: "6651"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6651"
-generated_at: "2026-03-30T02:55:27.859Z"
+generated_at: "2026-11-23T21:26:06.899Z"
+status: "active"
 ---
 
 # § 6651. Failure to file tax return or to pay tax
@@ -38,3 +39,21 @@ generated_at: "2026-03-30T02:55:27.859Z"
 - **(j)**
   - **(1)** In the case of any return required to be filed in a calendar year beginning after 2020, the $435 dollar amount under subsection (a) shall be increased by an amount equal to such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) for the calendar year determined by substituting “calendar year 2019” for “calendar year 2016” in subparagraph (A)(ii) thereof.
   - **(2)** If any amount adjusted under paragraph (1) is not a multiple of $5, such amount shall be rounded to the next lowest multiple of $5.
+
+In general
+
+Subsection
+
+Subsection
+
+Subsection
+
+Prohibition
+
+Designation of Nonfilers Allowed
+
+Effective Date
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 821; [Pub. L. 90–364, title I, § 103(e)(4)](https://www.govinfo.gov/link/plaw/90/public/364), June 28, 1968, [82 Stat. 264](https://www.govinfo.gov/link/statute/82/264); [Pub. L. 91–172, title IX, § 943(a)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 727](https://www.govinfo.gov/link/statute/83/727); [Pub. L. 92–9, § 3(j)(1)](https://www.govinfo.gov/link/plaw/92/public/9), Apr. 1, 1971, [85 Stat. 22](https://www.govinfo.gov/link/statute/85/22); [Pub. L. 94–455, title XIX, § 1904(b)(10)(A)(v)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1817](https://www.govinfo.gov/link/statute/90/1817); [Pub. L. 97–248, title III, § 318(a)](https://www.govinfo.gov/link/plaw/97/public/248), (b), Sept. 3, 1982, [96 Stat. 610](https://www.govinfo.gov/link/statute/96/610); [Pub. L. 98–369, div. A, title IV, § 412(b)(8)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 792](https://www.govinfo.gov/link/statute/98/792); [Pub. L. 99–514, title XV, § 1502(a)](https://www.govinfo.gov/link/plaw/99/public/514), (b), Oct. 22, 1986, [100 Stat. 2741](https://www.govinfo.gov/link/statute/100/2741); [Pub. L. 100–203, title X, § 10301(b)(6)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–429](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 101–239, title VII, § 7741(a)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2404](https://www.govinfo.gov/link/statute/103/2404); [Pub. L. 104–168, title III, § 303(b)(2)](https://www.govinfo.gov/link/plaw/104/public/168), title XIII, § 1301(a), July 30, 1996, [110 Stat. 1458](https://www.govinfo.gov/link/statute/110/1458), 1475; [Pub. L. 105–206, title III, § 3303(a)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 742](https://www.govinfo.gov/link/statute/112/742); [Pub. L. 110–245, title III, § 303(a)](https://www.govinfo.gov/link/plaw/110/public/245), June 17, 2008, [122 Stat. 1649](https://www.govinfo.gov/link/statute/122/1649); [Pub. L. 113–295, div. B, title II, § 208(a)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4072](https://www.govinfo.gov/link/statute/128/4072); [Pub. L. 114–125, title IX, § 921(a)](https://www.govinfo.gov/link/plaw/114/public/125), (b), Feb. 24, 2016, [130 Stat. 281](https://www.govinfo.gov/link/statute/130/281); [Pub. L. 115–97, title I, § 11002(d)(1)(KK)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2060](https://www.govinfo.gov/link/statute/131/2060); [Pub. L. 115–141, div. U, title II, § 206(n)(1)](https://www.govinfo.gov/link/plaw/115/public/141), title IV, § 401(a)(299)(A), Mar. 23, 2018, [132 Stat. 1181](https://www.govinfo.gov/link/statute/132/1181), 1198; [Pub. L. 116–25, title III, § 3201(a)](https://www.govinfo.gov/link/plaw/116/public/25), (b), July 1, 2019, [133 Stat. 1017](https://www.govinfo.gov/link/statute/133/1017); [Pub. L. 116–94, div. O, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/116/public/94), (b), Dec. 20, 2019, [133 Stat. 3179](https://www.govinfo.gov/link/statute/133/3179).)*

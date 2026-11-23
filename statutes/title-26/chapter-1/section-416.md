@@ -3,9 +3,10 @@ title: "Section 416 - Special rules for top-heavy plans"
 usc_title: 26
 usc_section: "416"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 416"
-generated_at: "2026-03-30T02:55:27.688Z"
+generated_at: "2026-11-23T21:26:06.235Z"
+status: "active"
 ---
 
 # § 416. Special rules for top-heavy plans
@@ -111,3 +112,32 @@ generated_at: "2026-03-30T02:55:27.688Z"
   - **(6)**
     - **(A)** A simplified employee pension shall be treated as a defined contribution plan.
     - **(B)** In the case of a simplified employee pension, at the election of the employer, paragraphs (1)(A)(ii) and (2)(B) of subsection (g) shall be applied by taking into account aggregate employer contributions in lieu of the aggregate of the accounts of employees.
+
+| Years of service | The nonforfeitable percentage is: |
+| --- | --- |
+| 2 | 20 |
+| 3 | 40 |
+| 4 | 60 |
+| 5 | 80 |
+| 6 or more | 100 |
+
+
+2
+
+3
+
+4
+
+5
+
+6 or more
+
+Determination of percentage
+
+General Rule
+
+Allowance of Exclusion of Death Benefit for Self-Employed Individuals
+
+## Source Credit
+
+*(Added [Pub. L. 97–248, title II, § 240(a)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 514](https://www.govinfo.gov/link/statute/96/514); amended [Pub. L. 98–369, div. A, title V, § 524(a)(1)](https://www.govinfo.gov/link/plaw/98/public/369), (b)(1), (c)(1), title VII, § 713(f)(1), (4), (5)(A), (6), July 18, 1984, [98 Stat. 872](https://www.govinfo.gov/link/statute/98/872), 958–960; [Pub. L. 99–514, title XI](https://www.govinfo.gov/link/plaw/99/public/514), §§ 1106(d)(3)(A), (B), 1118(a), title XVIII, § 1852(d), Oct. 22, 1986, [100 Stat. 2424](https://www.govinfo.gov/link/statute/100/2424), 2463, 2867; [Pub. L. 100–647, title I, § 1011(d)(8)](https://www.govinfo.gov/link/plaw/100/public/647), (i)(4)(B), (j)(3)(A), Nov. 10, 1988, [102 Stat. 3460](https://www.govinfo.gov/link/statute/102/3460), 3467, 3468; [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1421(b)(7), 1431(c)(1)(B), (C), 1452(c)(7), Aug. 20, 1996, [110 Stat. 1797](https://www.govinfo.gov/link/statute/110/1797), 1803, 1816; [Pub. L. 107–16, title VI, § 613(a)](https://www.govinfo.gov/link/plaw/107/public/16) –(e), June 7, 2001, [115 Stat. 100–102](https://www.govinfo.gov/link/statute/115/100); [Pub. L. 107–147, title IV, § 411(k)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 47](https://www.govinfo.gov/link/statute/116/47); [Pub. L. 108–311, title IV, § 408(a)(16)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1192](https://www.govinfo.gov/link/statute/118/1192); [Pub. L. 109–280, title IX, § 902(c)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1036](https://www.govinfo.gov/link/statute/120/1036); [Pub. L. 117–328, div. T, title I](https://www.govinfo.gov/link/plaw/117/public/328), §§ 121(c), 125(e), title III, § 310(a), Dec. 29, 2022, [136 Stat. 5311](https://www.govinfo.gov/link/statute/136/5311), 5315, 5346.)*

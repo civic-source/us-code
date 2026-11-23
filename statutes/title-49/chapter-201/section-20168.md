@@ -3,9 +3,10 @@ title: "Section 20168 - Installation of audio and image recording devices"
 usc_title: 49
 usc_section: "20168"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 20168"
-generated_at: "2026-03-30T02:56:19.338Z"
+generated_at: "2026-11-23T21:26:40.711Z"
+status: "active"
 ---
 
 # § 20168. Installation of audio and image recording devices
@@ -35,3 +36,39 @@ generated_at: "2026-03-30T02:56:19.338Z"
 - **(h)** The Secretary may not disclose publicly any part of an in-cab audio or image recording or transcript of oral communications by or among train employees or other operating employees responsible for the movement and direction of the train, or between such operating employees and company communication centers, related to an accident or incident investigated by the Secretary. The Secretary may make public any part of a transcript or any written depiction of visual information that the Secretary determines is relevant to the accident at the time a majority of the other factual reports on the accident or incident are released to the public.
 - **(i)** An in-cab audio or image recording obtained by a railroad carrier under this section may not be used to retaliate against an employee.
 - **(j)** Nothing in this section may be construed as requiring a railroad carrier to cease or restrict operations upon a technical failure of an inward- or outward-facing image recording device or in-cab audio device. Such railroad carrier shall repair or replace the failed inward- or outward-facing image recording device as soon as practicable.
+
+In General
+
+Device Standards
+
+Review
+
+Uses
+
+Discretion.—
+
+In general
+
+Exemptions
+
+Tampering.—
+
+In general
+
+Temporarily obscuring field of view of an image recording device while expressing breast milk.—
+
+In general
+
+Resuming operation
+
+Preservation of Data
+
+Information Protections
+
+Prohibited Use
+
+Savings Clause
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title XI, § 11411(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1686](https://www.govinfo.gov/link/statute/129/1686); amended [Pub. L. 117–328, div. KK, § 102(c)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 6096](https://www.govinfo.gov/link/statute/136/6096).)*

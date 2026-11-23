@@ -3,9 +3,10 @@ title: "Section 3704 - Strategic research plan"
 usc_title: 33
 usc_section: "3704"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3704"
-generated_at: "2026-03-30T02:55:41.143Z"
+generated_at: "2026-11-23T21:26:11.489Z"
+status: "active"
 ---
 
 # § 3704. Strategic research plan
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:55:41.143Z"
   - **(7)** Applied research to identify adaptation strategies for species impacted by changes in ocean chemistry including vegetation-based systems, shell recycling, species and genetic diversity, applied technologies, aquaculture methodologies, and management recommendations.
   - **(8)** Research to understand related and cumulative stressors and other biogeochemical processes occurring in conjunction with ocean acidification and coastal acidification.
 - **(d)** Concurrent with the submission of the plan to Congress, the Subcommittee shall publish the plan on a public website.
+
+## Source Credit
+
+*([Pub. L. 111–11, title XII, § 12405](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1438](https://www.govinfo.gov/link/statute/123/1438); [Pub. L. 116–271, title I, § 110(a)](https://www.govinfo.gov/link/plaw/116/public/271) –(c), Dec. 31, 2020, [134 Stat. 3343](https://www.govinfo.gov/link/statute/134/3343); [Pub. L. 117–167, div. B, title VI, § 10645](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1677](https://www.govinfo.gov/link/statute/136/1677).)*

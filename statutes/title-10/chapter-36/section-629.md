@@ -3,9 +3,10 @@ title: "Section 629 - Removal from a list of officers recommended for promotion"
 usc_title: 10
 usc_section: "629"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 629"
-generated_at: "2026-03-30T02:53:38.069Z"
+generated_at: "2026-11-23T21:25:32.303Z"
+status: "active"
 ---
 
 # § 629. Removal from a list of officers recommended for promotion
@@ -21,3 +22,19 @@ generated_at: "2026-03-30T02:53:38.069Z"
 - **(e)**
   - **(1)** An officer whose name is removed from a list under subsection (a), (b), or (c) continues to be eligible for consideration for promotion. If he is recommended for promotion by the next selection board convened for his grade and competitive category and he is promoted, the Secretary of the military department concerned may, upon such promotion, grant him the same date of rank, the same effective date for the pay and allowances of the grade to which promoted, and the same position on the active-duty list as he would have had if his name had not been so removed.
   - **(2)** If such an officer who is in a grade below the grade of colonel or, in the case of the Navy, captain is not recommended for promotion by the next selection board convened for his grade and competitive category, or if his name is again removed from the list of officers recommended for promotion, or if the Senate again does not give its advice and consent to his promotion, he shall be considered for all purposes to have twice failed of selection for promotion.
+
+Removal by President
+
+Removal Due to Senate Not Giving Advice and Consent
+
+Removal After
+
+Months
+
+Administrative Removal
+
+Continued Eligibility for Promotion
+
+## Source Credit
+
+*(Added [Pub. L. 96–513, title I, § 105](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2860](https://www.govinfo.gov/link/statute/94/2860); amended [Pub. L. 109–364, div. A, title V, § 515(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2185](https://www.govinfo.gov/link/statute/120/2185); [Pub. L. 110–181, div. A, title X, § 1063(a)(2)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 321](https://www.govinfo.gov/link/statute/122/321); [Pub. L. 111–383, div. A, title V, § 504(a)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4208](https://www.govinfo.gov/link/statute/124/4208); [Pub. L. 114–328, div. A, title V, § 504](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2107](https://www.govinfo.gov/link/statute/130/2107); [Pub. L. 115–91, div. A, title V, § 502](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1373](https://www.govinfo.gov/link/statute/131/1373); [Pub. L. 119–60, div. A, title V, § 503(a)(2)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 855](https://www.govinfo.gov/link/statute/139/855).)*

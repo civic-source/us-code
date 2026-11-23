@@ -3,9 +3,10 @@ title: "Section 8626a - Incentive program for leveraging non-Federal resources"
 usc_title: 42
 usc_section: "8626a"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8626a"
-generated_at: "2026-03-30T02:56:11.346Z"
+generated_at: "2026-11-23T21:26:33.209Z"
+status: "active"
 ---
 
 # § 8626a. Incentive program for leveraging non-Federal resources
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.346Z"
 - **(d)** Each State shall quantify the dollar value of leveraged resources received or acquired by such State under this section by using the best available data to calculate such leveraged resources less the sum of any costs incurred by the State to leverage such resources and any cost imposed on the federally eligible low-income households in such State.
 - **(e)** Not later than 2 months after the close of the fiscal year during which the State provided leveraged resources to eligible households, as described in subsection (b), each State shall prepare and submit, to the Secretary, a report that quantifies the leveraged resources of such State in order to qualify for assistance under this section for the following fiscal year.
 - **(f)** The Secretary shall determine the share of each State of the amounts made available under this section based on the formula described in subsection (c) and the State reports. The Secretary shall promulgate regulations for the calculation of the leveraged resources of the State and for the submission of supporting documentation. The Secretary may request any documentation that the Secretary determines necessary for the verification of the application of the State for assistance under this section.
+
+## Source Credit
+
+*([Pub. L. 97–35, title XXVI, § 2607A](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 101–501, title VII, § 707(a)](https://www.govinfo.gov/link/plaw/101/public/501), Nov. 3, 1990, [104 Stat. 1260](https://www.govinfo.gov/link/statute/104/1260); amended [Pub. L. 103–252, title III, § 311(a)(2)](https://www.govinfo.gov/link/plaw/103/public/252), (c)(6), May 18, 1994, [108 Stat. 661](https://www.govinfo.gov/link/statute/108/661), 662.)*

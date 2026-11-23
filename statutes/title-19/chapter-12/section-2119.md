@@ -3,9 +3,10 @@ title: "Section 2119 - Staging requirements and rounding authority"
 usc_title: 19
 usc_section: "2119"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2119"
-generated_at: "2026-03-30T02:54:24.664Z"
+generated_at: "2026-11-23T21:25:42.772Z"
+status: "active"
 ---
 
 # § 2119. Staging requirements and rounding authority
@@ -21,3 +22,11 @@ generated_at: "2026-03-30T02:54:24.664Z"
   - **(2)** If any part of a reduction takes effect, then any time thereafter during which any part of the reduction is not in effect by reason of legislation of the United States or action thereunder, the effect of which is to maintain or increase the rate of duty on an article, shall be excluded in determining—
     - **(A)** the 1-year intervals referred to in subsection (a)(2), and
     - **(B)** the expiration of the 10-year period referred to in paragraph (1) of this subsection.
+
+In General
+
+Opportunity for Comment
+
+## Source Credit
+
+*([Pub. L. 93–618, title I, § 109](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 1985](https://www.govinfo.gov/link/statute/88/1985); [Pub. L. 96–39, title XI, § 1106(c)(3)](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 312](https://www.govinfo.gov/link/statute/93/312).)*

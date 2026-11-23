@@ -3,9 +3,10 @@ title: "Section 3372 - Strategy to support Taiwan’s meaningful participation i
 usc_title: 22
 usc_section: "3372"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3372"
-generated_at: "2026-03-30T02:55:05.393Z"
+generated_at: "2026-11-23T21:25:58.585Z"
+status: "active"
 ---
 
 # § 3372. Strategy to support Taiwan’s meaningful participation in international organizations
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:05.393Z"
   - **(7)** A description of the diplomatic strategies and the coalitions the United States Government plans to develop to implement paragraph (6).
 - **(c)** The strategy required in subsection (a) shall be classified, but it may include an unclassified summary.
 - **(d)** The Permanent Representative of the United States to the United Nations and other relevant United States officials shall actively support Taiwan’s meaningful participation in all appropriate international organizations.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. E, title LV, § 5518](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3318](https://www.govinfo.gov/link/statute/136/3318).)*

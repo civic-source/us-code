@@ -3,9 +3,10 @@ title: "Section 41103 - Disclosure of information"
 usc_title: 46
 usc_section: "41103"
 chapter: 411
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 41103"
-generated_at: "2026-03-30T02:56:15.564Z"
+generated_at: "2026-11-23T21:26:37.193Z"
+status: "active"
 ---
 
 # § 41103. Disclosure of information
@@ -23,3 +24,46 @@ generated_at: "2026-03-30T02:56:15.564Z"
     - **(B)** determining whether a member of the conference has breached the conference agreement; or
     - **(C)** compiling statistics of cargo movement; and
   - **(2)** may not prevent the conference or its designee from soliciting or receiving information for any of those purposes.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 41103(a) | 46 App.:1709(b)(13), (d)(3) (related to (b)(13)), (5). | Pub. L. 98–237, § 10(b)(13) , (words after cl. (13)), (d)(3) (related to (b)(13)), (5), Mar. 20, 1984 , 98 Stat. 79 , 80; Pub. L. 101–595, title VII, § 710(c)(1) , (2), Nov. 16, 1990 , 104 Stat. 2997 ; Pub. L. 105–258, title I, § 109(a)(10) , (11), (16), (17), (c)(3), Oct. 14, 1998 , 112 Stat. 1910 , 1911. |
+| 41103(b) | 46 App.:1709(b) (next-to-last sentence). |  |
+| 41103(c) | 46 App.:1709(b) (last sentence). |  |
+
+
+Prohibition
+
+Exceptions
+
+Disclosure for Determining Breach or Compiling Statistics
+
+Historical and Revision Notes
+
+41103(a)
+
+Pub. L. 98–237, § 10(b)(13)
+
+Mar. 20, 1984
+
+98 Stat. 79
+
+Pub. L. 101–595, title VII, § 710(c)(1)
+
+Nov. 16, 1990
+
+104 Stat. 2997
+
+Pub. L. 105–258, title I, § 109(a)(10)
+
+Oct. 14, 1998
+
+112 Stat. 1910
+
+41103(b)
+
+41103(c)
+
+## Source Credit
+
+*([Pub. L. 109–304, § 7](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1540](https://www.govinfo.gov/link/statute/120/1540).)*

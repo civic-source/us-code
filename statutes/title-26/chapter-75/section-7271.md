@@ -3,9 +3,10 @@ title: "Section 7271 - Penalties for offenses relating to stamps"
 usc_title: 26
 usc_section: "7271"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7271"
-generated_at: "2026-03-30T02:55:27.869Z"
+generated_at: "2026-11-23T21:26:06.948Z"
+status: "active"
 ---
 
 # § 7271. Penalties for offenses relating to stamps
@@ -17,3 +18,7 @@ Any person who with respect to any tax payable by stamps—
   - **(3)** In the case of any container which is stamped, branded, or marked (whether or not under authority of law) in such manner as to show that the provisions of the internal revenue laws with respect to the contents or intended contents thereof have been complied with, and which is empty or contains any contents other than contents therein when the container was lawfully stamped, branded, or marked—
     - **(A)** Transfers or receives (whether by sale, gift, or otherwise) such container knowing it to be empty or to contain such other contents; or
     - **(B)** Stamps, brands, or marks such container, or otherwise produces such a stamped, branded, or marked container, knowing it to be empty or to contain such other contents;
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 865; [Pub. L. 94–455, title XIX, § 1906(a)(41)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1830](https://www.govinfo.gov/link/statute/90/1830).)*

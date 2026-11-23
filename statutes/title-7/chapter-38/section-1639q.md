@@ -3,9 +3,10 @@ title: "Section 1639q - Department of Agriculture"
 usc_title: 7
 usc_section: "1639q"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1639q"
-generated_at: "2026-03-30T02:53:42.334Z"
+generated_at: "2026-11-23T21:25:28.148Z"
+status: "active"
 ---
 
 # § 1639q. Department of Agriculture
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:53:42.334Z"
         - **(I)** a license or other required authorization from the State department of agriculture or Tribal government, as applicable; or
         - **(II)** a license from the Secretary; and
       - **(ii)** any changes to the status.
+
+## Source Credit
+
+*(Aug. 14, 1946, ch. 966, title II, § 297C, as added [Pub. L. 115–334, title X, § 10113](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4912](https://www.govinfo.gov/link/statute/132/4912).)*

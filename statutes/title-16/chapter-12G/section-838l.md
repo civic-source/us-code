@@ -3,9 +3,10 @@ title: "Section 838l - Bonneville Power Administration refinancing"
 usc_title: 16
 usc_section: "838l"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 838l"
-generated_at: "2026-03-30T02:54:22.929Z"
+generated_at: "2026-11-23T21:25:51.786Z"
+status: "active"
 ---
 
 # § 838l. Bonneville Power Administration refinancing
@@ -64,3 +65,7 @@ generated_at: "2026-03-30T02:54:22.929Z"
 - **(j)**
   - **(1)** This section does not affect the obligation of the Administrator to repay the principal associated with each capital investment, and to pay interest on the principal, only from the “Administrator’s net proceeds,” as defined in section 838k(b) of this title .
   - **(2)** Except as provided in subsection (e), this section does not affect the authority of the Administrator to pay all or a portion of the principal amount associated with a capital investment before the repayment date for the principal amount.
+
+## Source Credit
+
+*([Pub. L. 104–134, title III, § 3201](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–350](https://www.govinfo.gov/link/statute/110/1321).)*

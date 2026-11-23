@@ -3,9 +3,10 @@ title: "Section 6217 - Global internet freedom"
 usc_title: 22
 usc_section: "6217"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6217"
-generated_at: "2026-03-30T02:55:05.426Z"
+generated_at: "2026-11-23T21:25:58.683Z"
+status: "active"
 ---
 
 # § 6217. Global internet freedom
@@ -69,3 +70,7 @@ generated_at: "2026-03-30T02:55:05.426Z"
     - **(C)** increase the overseas bandwidth for companies that received Federal funding during the previous fiscal year.
   - **(2)** Amounts authorized to be appropriated pursuant to paragraph (1) may not be expended until the Secretary has certified to the appropriate congressional committees, the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives that the use of such funds is in the national interest of the United States.
 - **(i)** In this section, the term “internet censorship circumvention tool” means a software application or other tool that an individual can use to evade foreign government restrictions on internet access.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. I, title XCVII, § 9707](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3915](https://www.govinfo.gov/link/statute/136/3915).)*

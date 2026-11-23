@@ -3,9 +3,10 @@ title: "Section 22903 - Project management oversight"
 usc_title: 49
 usc_section: "22903"
 chapter: 229
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 22903"
-generated_at: "2026-03-30T02:56:19.342Z"
+generated_at: "2026-11-23T21:26:40.725Z"
+status: "active"
 ---
 
 # § 22903. Project management oversight
@@ -25,3 +26,11 @@ generated_at: "2026-03-30T02:56:19.342Z"
   - **(12)** the recipient’s commitment to submit periodically a project budget and project schedule to the Secretary.
 - **[(b)** Repealed. Pub. L. 114–94, div. A, title XI, § 11316(p) , Dec. 4, 2015 , 129 Stat. 1679 ]
 - **(c)** Each recipient of assistance under this chapter shall provide the Secretary and a contractor the Secretary chooses under subsection (b) of this section with access to the construction sites and records of the recipient when reasonably necessary.
+
+Project Management Plan Requirements
+
+Access to Sites and Records
+
+## Source Credit
+
+*(Added [Pub. L. 110–432, div. B, title III, § 301(a)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4941](https://www.govinfo.gov/link/statute/122/4941), § 24403; amended [Pub. L. 114–94, div. A, title XI, § 11316(p)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1679](https://www.govinfo.gov/link/statute/129/1679); renumbered § 22903, [Pub. L. 115–420, § 7(a)(1)](https://www.govinfo.gov/link/plaw/115/public/420), Jan. 3, 2019, [132 Stat. 5445](https://www.govinfo.gov/link/statute/132/5445).)*

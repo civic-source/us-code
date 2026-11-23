@@ -3,9 +3,10 @@ title: "Section 460f - Notice and method of sale; price; conveyance"
 usc_title: 16
 usc_section: "460f"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 460f"
-generated_at: "2026-03-30T02:54:22.811Z"
+generated_at: "2026-11-23T21:25:51.559Z"
+status: "active"
 ---
 
 # § 460f. Notice and method of sale; price; conveyance
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:22.811Z"
 - **(b)** The sale of lands for cottage site development and use shall be accomplished by any method which the Secretary of the Army determines to be in the public interest, including public auction, seal bids, and by negotiation with lessees and with others after competitive bidding.
 - **(c)** The price to be paid for any lands sold for cottage site development and use pursuant to the provisions of this subchapter shall be not less than the appraised fair market value thereof as determined by the Secretary of the Army.
 - **(d)** The Secretary of the Army is authorized to convey by quitclaim deed all the right, title, and interest of the United States in and to the lands sold for cottage site development and use pursuant to the provisions of this subchapter, the conveyance to be on condition that the property conveyed shall be used for cottage site purposes only, and in the event of use for any other purposes, title to the land and improvements shall revert to and vest in the United States; and subject to such other conditions, reservations, and restrictions as the Secretary may determine to be necessary for the management and operation of the reservoir, or for the protection of lessees or owners of cottage sites within the area.
+
+## Source Credit
+
+*(Aug. 6, 1956, ch. 987, § 2, [70 Stat. 1065](https://www.govinfo.gov/link/statute/70/1065).)*

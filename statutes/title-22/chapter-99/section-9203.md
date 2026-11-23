@@ -3,9 +3,10 @@ title: "Section 9203 - Strategy on North Korea"
 usc_title: 22
 usc_section: "9203"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9203"
-generated_at: "2026-03-30T02:55:05.462Z"
+generated_at: "2026-11-23T21:25:58.765Z"
+status: "active"
 ---
 
 # § 9203. Strategy on North Korea
@@ -25,3 +26,29 @@ generated_at: "2026-03-30T02:55:05.462Z"
   - **(11)** Any other matters the President considers appropriate.
 - **(c)** The President shall submit to Congress in writing on an annual basis a report describing and assessing progress in the implementation of the strategy described in subsection (a).
 - **(d)** The report under subsection (a) and each report under subsection (c) shall be submitted in unclassified form, but may include a classified annex.
+
+Findings
+
+Policy of the United States With Respect to Sanctions Against the Democratic People’s Republic of Korea.—
+
+Statement of policy
+
+Report
+
+Rule of construction
+
+Policy of the United States With Respect to Negotiation on the Democratic People’s Republic of Korea’s Nuclear and Ballistic Missile Programs
+
+Report on a Strategy to Address the Threats Posed by, and the Capabilities of, the Democratic People’s Republic of Korea.—
+
+In general
+
+Elements
+
+Form of report
+
+Sense of Congress
+
+## Source Credit
+
+*([Pub. L. 115–91, div. A, title XII, § 1256](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1682](https://www.govinfo.gov/link/statute/131/1682).)*

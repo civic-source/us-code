@@ -3,9 +3,10 @@ title: "Section 8571 - Good neighbor authority for recreation"
 usc_title: 16
 usc_section: "8571"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8571"
-generated_at: "2026-03-30T02:54:23.089Z"
+generated_at: "2026-11-23T21:25:52.084Z"
+status: "active"
 ---
 
 # § 8571. Good neighbor authority for recreation
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:54:23.089Z"
     - **(A)** The Secretary concerned may provide financial or technical assistance to a Governor, Indian Tribe, or county carrying out authorized recreation services.
     - **(B)**
   - **(4)** Any decision required to be made under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) with respect to any authorized recreation services to be provided under this section on Federal land shall not be delegated to a Governor, Indian Tribe, or county.
+
+## Source Credit
+
+*([Pub. L. 118–234, title III, § 351](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2915](https://www.govinfo.gov/link/statute/138/2915).)*

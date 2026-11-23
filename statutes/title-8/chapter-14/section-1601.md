@@ -3,9 +3,10 @@ title: "Section 1601 - Statements of national policy concerning welfare and immi
 usc_title: 8
 usc_section: "1601"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1601"
-generated_at: "2026-03-30T02:53:10.505Z"
+generated_at: "2026-11-23T21:25:25.208Z"
+status: "active"
 ---
 
 # § 1601. Statements of national policy concerning welfare and immigration
@@ -21,3 +22,21 @@ The Congress makes the following statements concerning national policy with resp
   - **(5)** It is a compelling government interest to enact new rules for eligibility and sponsorship agreements in order to assure that aliens be self-reliant in accordance with national immigration policy.
   - **(6)** It is a compelling government interest to remove the incentive for illegal immigration provided by the availability of public benefits.
   - **(7)** With respect to the State authority to make determinations concerning the eligibility of qualified aliens for public benefits in this chapter, a State that chooses to follow the Federal classification in determining the eligibility of such aliens for public assistance shall be considered to have chosen the least restrictive means available for achieving the compelling governmental interest of assuring that aliens be self-reliant in accordance with national immigration policy.
+
+Section
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 104–193, title IV, § 400](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2260](https://www.govinfo.gov/link/statute/110/2260).)*

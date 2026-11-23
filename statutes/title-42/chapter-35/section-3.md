@@ -3,9 +3,10 @@ title: "Section 3 - Waivers"
 usc_title: 42
 usc_section: "3"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T02:56:11.174Z"
+generated_at: "2026-11-23T21:26:32.497Z"
+status: "active"
 ---
 
 # § 3030c–3. Waivers
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.174Z"
   - **(5)** the requirement of section 3029(c) of this title that certain amounts of a State allotment be used for the provision of services, with respect to a State that reduces expenditures under the State plan of the State (but only to the extent that the non-Federal share of the expenditures is not reduced below any minimum specified in section 3024(d) of this title or any other provision of this subchapter).
 - **(c)** The application by a State agency for a waiver under this section shall include a recommendation as to the duration of the waiver (not to exceed the duration of the State plan of the State). The Assistant Secretary, in granting such a waiver, shall specify the duration of the waiver, which may be the duration recommended by the State agency or such shorter time period as the Assistant Secretary finds to be appropriate.
 - **(d)** With respect to each waiver granted under this section, not later than 1 year after the expiration of such waiver, and at any time during the waiver period that the Assistant Secretary may require, the State agency shall prepare and submit to the Assistant Secretary a report evaluating the impact of the waiver on the operation and effectiveness of programs and services provided under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 89–73, title III, § 316](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 106–501, title III, § 310](https://www.govinfo.gov/link/plaw/106/public/501), Nov. 13, 2000, [114 Stat. 2249](https://www.govinfo.gov/link/statute/114/2249).)*

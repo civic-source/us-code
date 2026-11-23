@@ -3,9 +3,10 @@ title: "Section 7293 - Ready to learn programming"
 usc_title: 20
 usc_section: "7293"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7293"
-generated_at: "2026-03-30T02:54:48.209Z"
+generated_at: "2026-11-23T21:25:47.572Z"
+status: "active"
 ---
 
 # § 7293. Ready to learn programming
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:54:48.209Z"
     - **(B)** A description of the education and training materials made available under subsection (a)(1)(B)(v), the manner in which outreach has been conducted to inform parents and child care providers of the availability of such materials, and the manner in which such materials have been distributed in accordance with such subsection.
 - **(d)** An entity that receives a grant, contract, or cooperative agreement under this section may use up to 5 percent of the amount received under the grant, contract, or agreement for the normal and customary expenses of administering the grant, contract, or agreement.
 - **(e)** Not less than 60 percent of the amount used by the Secretary to carry out this section for each fiscal year shall be used to carry out activities under clauses (ii) through (iv) of subsection (a)(1)(B).
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4643](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title IV, § 4601](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2034](https://www.govinfo.gov/link/statute/129/2034).)*

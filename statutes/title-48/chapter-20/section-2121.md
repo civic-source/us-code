@@ -3,9 +3,10 @@ title: "Section 2121 - Financial Oversight and Management Board"
 usc_title: 48
 usc_section: "2121"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 2121"
-generated_at: "2026-03-30T02:56:14.602Z"
+generated_at: "2026-11-23T21:26:38.137Z"
+status: "active"
 ---
 
 # § 2121. Financial Oversight and Management Board
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:56:14.602Z"
   - **(2)** Under the bylaws adopted pursuant to paragraph (1), the Oversight Board may conduct its operations under such procedures as it considers appropriate, except that an affirmative vote of a majority of the members of the Oversight Board’s full appointed membership shall be required in order for the Oversight Board to approve a Fiscal Plan under section 2141 of this title , to approve a Budget under section 2142 of this title , to cause a legislative act not to be enforced under section 2144 of this title , or to approve or disapprove an infrastructure project as a Critical Project under section 2213 of this title .
   - **(3)** The Oversight Board may incorporate in its bylaws, rules, and procedures under this subsection such rules and regulations of the territorial government as it considers appropriate to enable it to carry out its activities under this chapter with the greatest degree of independence practicable.
   - **(4)** Upon a majority vote of the Oversight Board’s full voting membership, the Oversight Board may conduct its business in an executive session that consists solely of the Oversight Board’s voting members and any professionals the Oversight Board determines necessary and is closed to the public, but only for the business items set forth as part of the vote to convene an executive session.
+
+## Source Credit
+
+*([Pub. L. 114–187, title I, § 101](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 553](https://www.govinfo.gov/link/statute/130/553).)*

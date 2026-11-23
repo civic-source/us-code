@@ -3,9 +3,10 @@ title: "Section 961 - Adjustments to basis of stock in controlled foreign corpor
 usc_title: 26
 usc_section: "961"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 961"
-generated_at: "2026-03-30T02:55:27.750Z"
+generated_at: "2026-11-23T21:26:06.444Z"
+status: "active"
 ---
 
 # § 961. Adjustments to basis of stock in controlled foreign corporations and of other property
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:27.750Z"
   - **(1)** the basis of such stock, and
   - **(2)** the basis of stock in any other controlled foreign corporation by reason of which the United States shareholder is considered under section 958(a)(2) as owning the stock described in paragraph (1),
 - **(d)** If a domestic corporation received a dividend from a specified 10-percent owned foreign corporation (as defined in section 245A) in any taxable year, solely for purposes of determining loss on any disposition of stock of such foreign corporation in such taxable year or any subsequent taxable year, the basis of such domestic corporation in such stock shall be reduced (but not below zero) by the amount of any deduction allowable to such domestic corporation under section 245A with respect to such stock except to the extent such basis was reduced under section 1059 by reason of a dividend for which such a deduction was allowable.
+
+## Source Credit
+
+*(Added [Pub. L. 87–834, § 12(a)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 1022](https://www.govinfo.gov/link/statute/76/1022); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 105–34, title XI, § 1112(b)(1)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 969](https://www.govinfo.gov/link/statute/111/969); [Pub. L. 109–135, title IV, § 409(b)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2635](https://www.govinfo.gov/link/statute/119/2635); [Pub. L. 115–97, title I, § 14102(b)(1)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2192](https://www.govinfo.gov/link/statute/131/2192).)*

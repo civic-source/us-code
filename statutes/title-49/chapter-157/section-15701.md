@@ -3,9 +3,10 @@ title: "Section 15701 - Providing transportation and service"
 usc_title: 49
 usc_section: "15701"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 15701"
-generated_at: "2026-03-30T02:56:19.333Z"
+generated_at: "2026-11-23T21:26:40.697Z"
+status: "active"
 ---
 
 # § 15701. Providing transportation and service
@@ -19,3 +20,17 @@ generated_at: "2026-03-30T02:56:19.333Z"
   - **(2)** has made arrangements with the carrier for a shipment that would be subject to such increased rates or changed terms.
 - **(d)** A pipeline carrier shall provide transportation or service in accordance with the rates and service terms, and any changes thereto, as published or otherwise made available under subsection (b) or (c).
 - **(e)** The Board shall, by regulation, establish rules to implement this section. The regulations shall provide for immediate disclosure and dissemination of rates and service terms, including classifications, rules, and practices, and their effective dates. The regulations may modify the 20-day period specified in subsection (c). Final regulations shall be adopted by the Board not later than 180 days after January 1, 1996 .
+
+Service on Reasonable Request
+
+Rates and Other Terms
+
+Limitation on Rate Increases and Changes to Service Terms
+
+Provision of Service
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 106(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 925](https://www.govinfo.gov/link/statute/109/925); amended [Pub. L. 104–287, § 5(44)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3393](https://www.govinfo.gov/link/statute/110/3393).)*

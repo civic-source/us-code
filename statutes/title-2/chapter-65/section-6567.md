@@ -3,9 +3,10 @@ title: "Section 6567 - Funds for Secretary of Senate to assist in proper dischar
 usc_title: 2
 usc_section: "6567"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 6567"
-generated_at: "2026-03-30T02:53:04.842Z"
+generated_at: "2026-11-23T21:25:21.361Z"
+status: "active"
 ---
 
 # § 6567. Funds for Secretary of Senate to assist in proper discharge within United States of responsibilities to foreign parliamentary groups or other foreign officials
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:53:04.842Z"
 - **(a)** On and after July 11, 1987 , the Secretary of the Senate is authorized to use any available funds (but not in excess of $50,000 for any fiscal year), out of the appropriation account (within the Contingent Fund of the Senate) for the Secretary of the Senate, to assist him in the proper discharge, within the United States, of his appropriate responsibilities to members of foreign parliamentary groups or other foreign officials.
 - **(b)** The provisions of subsection (a) shall be effective in the case of expenditures for fiscal years ending after September 30, 1986 .
 - **(c)** Upon the written request of the Secretary of the Senate, and upon notification to the Committee on Appropriations of the Senate, there shall be transferred any amount of funds available under subsection (a) specified in the request, but not to exceed $15,000 in any fiscal year, from the appropriation account (within the contingent fund of the Senate) for expenses of the Office of the Secretary of the Senate to the appropriation account for the expense allowance of the Secretary of the Senate. Any funds so transferred shall be available in like manner and for the same purposes as are other funds in the account to which the funds are transferred.
+
+## Source Credit
+
+*([Pub. L. 100–71, title I, § 2](https://www.govinfo.gov/link/plaw/100/public/71), July 11, 1987, [101 Stat. 423](https://www.govinfo.gov/link/statute/101/423); [Pub. L. 102–90, title I, § 4](https://www.govinfo.gov/link/plaw/102/public/90), Aug. 14, 1991, [105 Stat. 450](https://www.govinfo.gov/link/statute/105/450); [Pub. L. 105–18, title II, § 7003(a)](https://www.govinfo.gov/link/plaw/105/public/18), June 12, 1997, [111 Stat. 192](https://www.govinfo.gov/link/statute/111/192); [Pub. L. 108–447, div. G, title I, § 6](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3170](https://www.govinfo.gov/link/statute/118/3170); [Pub. L. 116–94, div. P, title XV, § 1501](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3209](https://www.govinfo.gov/link/statute/133/3209).)*

@@ -3,9 +3,10 @@ title: "Section 133a - Under Secretary of Defense for Research and Engineering"
 usc_title: 10
 usc_section: "133a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 133a"
-generated_at: "2026-03-30T02:53:38.036Z"
+generated_at: "2026-11-23T21:25:32.218Z"
+status: "active"
 ---
 
 # § 133a. Under Secretary of Defense for Research and Engineering
@@ -20,3 +21,41 @@ generated_at: "2026-03-30T02:53:38.036Z"
 - **(c)**
   - **(1)** With regard to all matters for which the Under Secretary has responsibility by the direction of the Secretary of Defense or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary and the Deputy Secretary of Defense.
   - **(2)** With regard to all matters other than the matters for which the Under Secretary has responsibility by the direction of the Secretary or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary, and the Secretaries of the military departments.
+
+Under Secretary of Defense
+
+Duties and Powers
+
+Precedence in Department of Defense.—
+
+Precedence in matters of responsibility
+
+Precedence in other matters
+
+Semiannual Updates
+
+Exception for Certain Budgetary Matters
+
+Form of Update
+
+Report required
+
+Matters covered
+
+Additional congressional notification
+
+Designation of Official for Oversight
+
+Guidance.—
+
+In general
+
+Urgent requirements
+
+Consultation
+
+Deadline for Designation
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title IX, § 901(a)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2339](https://www.govinfo.gov/link/statute/130/2339); amended [Pub. L. 115–91, div. A, title IX, § 910(c)(2)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1518](https://www.govinfo.gov/link/statute/131/1518); [Pub. L. 116–92, div. A, title IX, § 902(2)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1542](https://www.govinfo.gov/link/statute/133/1542); [Pub. L. 118–31, div. A, title IX, § 901(a)(1)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 354](https://www.govinfo.gov/link/statute/137/354); [Pub. L. 119–60, div. A, title IX, § 902](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1008](https://www.govinfo.gov/link/statute/139/1008).)*

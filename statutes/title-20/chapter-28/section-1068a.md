@@ -3,9 +3,10 @@ title: "Section 1068a - Waiver authority and reporting requirement"
 usc_title: 20
 usc_section: "1068a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1068a"
-generated_at: "2026-03-30T02:54:48.103Z"
+generated_at: "2026-11-23T21:25:47.050Z"
+status: "active"
 ---
 
 # § 1068a. Waiver authority and reporting requirement
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:54:48.103Z"
         - **(II)** has pursued collateral source compensation from insurance, the Federal Emergency Management Agency, and the Small Business Administration, as appropriate; and
         - **(III)** was not able to fully reopen in existing facilities or to fully reopen to the pre-hurricane enrollment levels during the 30-day period beginning on August 29, 2005 .
     - **(B)** The terms “area affected by a Gulf hurricane disaster” and “Gulf hurricane disaster” have the meanings given such terms in section 209 of the Higher Education Hurricane Relief Act of 2005 ( Public Law 109–148 , 119 Stat. 2809 ).
+
+## Source Credit
+
+*([Pub. L. 89–329, title III, § 392](https://www.govinfo.gov/link/plaw/89/public/329), formerly § 352, as added [Pub. L. 99–498, title III, § 301(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1304](https://www.govinfo.gov/link/statute/100/1304); amended [Pub. L. 100–50, § 2(a)(14)](https://www.govinfo.gov/link/plaw/100/public/50), (15), June 3, 1987, [101 Stat. 336](https://www.govinfo.gov/link/statute/101/336); [Pub. L. 102–325, title III, § 305(b)](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 478](https://www.govinfo.gov/link/statute/106/478); renumbered § 392 and amended [Pub. L. 105–244, title III](https://www.govinfo.gov/link/plaw/105/public/244), §§ 301(a)(2), 308(d), Oct. 7, 1998, [112 Stat. 1636](https://www.govinfo.gov/link/statute/112/1636), 1649; [Pub. L. 110–315, title III](https://www.govinfo.gov/link/plaw/110/public/315), §§ 318, 320(5), Aug. 14, 2008, [122 Stat. 3185](https://www.govinfo.gov/link/statute/122/3185), 3188; [Pub. L. 111–39, title III, § 301(8)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1938](https://www.govinfo.gov/link/statute/123/1938).)*

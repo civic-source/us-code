@@ -3,9 +3,10 @@ title: "Section 2321a - Hydroelectric power project uprating"
 usc_title: 33
 usc_section: "2321a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2321a"
-generated_at: "2026-03-30T02:55:41.123Z"
+generated_at: "2026-11-23T21:26:11.444Z"
+status: "active"
 ---
 
 # § 2321a. Hydroelectric power project uprating
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:41.123Z"
 - **(c)** In carrying out this section, the Secretary may accept and expend funds provided by preference customers under Federal law relating to the marketing of power.
 - **(d)** This section does not apply to any facility of the Department of the Army that is authorized to be funded under section 839d–1 of title 16 .
 - **(e)** This section shall not affect the authority of the Secretary and the Administrator of the Bonneville Power Administration under section 839d–1 of title 16 .
+
+## Source Credit
+
+*([Pub. L. 104–303, title II, § 216](https://www.govinfo.gov/link/plaw/104/public/303), Oct. 12, 1996, [110 Stat. 3694](https://www.govinfo.gov/link/statute/110/3694); [Pub. L. 106–541, title II, § 212](https://www.govinfo.gov/link/plaw/106/public/541), Dec. 11, 2000, [114 Stat. 2593](https://www.govinfo.gov/link/statute/114/2593).)*

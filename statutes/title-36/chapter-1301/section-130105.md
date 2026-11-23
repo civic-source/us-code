@@ -3,9 +3,10 @@ title: "Section 130105 - Powers"
 usc_title: 36
 usc_section: "130105"
 chapter: 1301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 130105"
-generated_at: "2026-03-30T02:55:44.701Z"
+generated_at: "2026-11-23T21:26:13.625Z"
+status: "active"
 ---
 
 # § 130105. Powers
@@ -20,3 +21,22 @@ The corporation may—
   - **(6)** borrow money, issue instruments of indebtedness, and secure its obligations by granting security interests in its property;
   - **(7)** sue and be sued; and
   - **(8)** do any other act necessary and proper to carry out the purposes of the corporation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 130105 | 36:78c(2)–(10). | June 17, 1959 , Pub. L. 86–47, § 4(2) –(10), 73 Stat. 77 . |
+
+
+Historical and Revision Notes
+
+130105
+
+June 17, 1959
+
+Pub. L. 86–47, § 4(2)
+
+73 Stat. 77
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1372](https://www.govinfo.gov/link/statute/112/1372).)*

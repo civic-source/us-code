@@ -3,9 +3,10 @@ title: "Section 391b - Strategic cybersecurity program"
 usc_title: 10
 usc_section: "391b"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 391b"
-generated_at: "2026-03-30T02:53:38.056Z"
+generated_at: "2026-11-23T21:25:32.260Z"
+status: "active"
 ---
 
 # § 391b. Strategic cybersecurity program
@@ -73,3 +74,27 @@ generated_at: "2026-03-30T02:53:38.056Z"
     - **(B)** Section 1650 of the National Defense Authorization Act for Fiscal Year 2017 ( Public Law 114–328 ; 10 U.S.C. 2224 note).
     - **(C)** Section 1505 of the National Defense Authorization Act for Fiscal Year 2022 ( Public Law 117–81 ; 10 U.S.C. 394 note).
     - **(D)** Section 1559 of the National Defense Authorization Act for Fiscal Year 2023.
+
+In General
+
+Membership
+
+Program Office
+
+Designation of Mission Elements of Program
+
+Additional Responsibilities of Head of Office of Primary Responsibility
+
+Responsibilities of Program Manager
+
+Responsibilities of Secretary of Defense
+
+Annual Reporting
+
+Annual Budget Display
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XV, § 1502(a)(1)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 533](https://www.govinfo.gov/link/statute/137/533); amended [Pub. L. 118–159, div. A, title XVII, § 1701(a)(7)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2203](https://www.govinfo.gov/link/statute/138/2203).)*

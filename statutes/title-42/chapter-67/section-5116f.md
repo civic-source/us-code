@@ -3,9 +3,10 @@ title: "Section 5116f - Performance measures"
 usc_title: 42
 usc_section: "5116f"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5116f"
-generated_at: "2026-03-30T02:56:11.219Z"
+generated_at: "2026-11-23T21:26:32.734Z"
+status: "active"
 ---
 
 # § 5116f. Performance measures
@@ -20,3 +21,7 @@ A State receiving a grant under this subchapter, through reports provided to the
   - **(6)** shall demonstrate the establishment or maintenance of innovative funding mechanisms, at the State or community level, that blend Federal, State, local, and private funds, and innovative, interdisciplinary service delivery mechanisms, for the development, operation, expansion, and enhancement of the community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect;
   - **(7)** shall describe the results of evaluation, or the outcomes of monitoring, conducted under the State program to demonstrate the effectiveness of activities conducted under this subchapter in meeting the purposes of the program; and
   - **(8)** shall demonstrate an implementation plan to ensure the continued leadership of parents in the on-going planning, implementation, and evaluation of such community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect.
+
+## Source Credit
+
+*([Pub. L. 93–247, title II, § 206](https://www.govinfo.gov/link/plaw/93/public/247), formerly § 207, as added [Pub. L. 104–235, title I, § 121](https://www.govinfo.gov/link/plaw/104/public/235), Oct. 3, 1996, [110 Stat. 3086](https://www.govinfo.gov/link/statute/110/3086); amended [Pub. L. 108–36, title I, § 127](https://www.govinfo.gov/link/plaw/108/public/36), June 25, 2003, [117 Stat. 817](https://www.govinfo.gov/link/statute/117/817); renumbered § 206 and amended [Pub. L. 111–320, title I](https://www.govinfo.gov/link/plaw/111/public/320), §§ 137, 141, Dec. 20, 2010, [124 Stat. 3481](https://www.govinfo.gov/link/statute/124/3481), 3482.)*

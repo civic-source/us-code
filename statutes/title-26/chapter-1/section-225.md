@@ -3,9 +3,10 @@ title: "Section 225 - Qualified overtime compensation"
 usc_title: 26
 usc_section: "225"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 225"
-generated_at: "2026-03-30T02:55:27.655Z"
+generated_at: "2026-11-23T21:26:06.102Z"
+status: "active"
 ---
 
 # § 225. Qualified overtime compensation
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:27.655Z"
 - **(e)** If the taxpayer is a married individual (within the meaning of section 7703), this section shall apply only if the taxpayer and the taxpayer’s spouse file a joint return for the taxable year.
 - **(f)** The Secretary shall issue such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this section, including regulations or other guidance to prevent abuse of the deduction allowed by this section.
 - **(g)** No deduction shall be allowed under this section for any taxable year beginning after December 31, 2028 .
+
+## Source Credit
+
+*(Added [Pub. L. 119–21, title VII, § 70202(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 174](https://www.govinfo.gov/link/statute/139/174).)*

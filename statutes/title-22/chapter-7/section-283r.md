@@ -3,9 +3,10 @@ title: "Section 283r - Expropriation of United States property; loan restriction
 usc_title: 22
 usc_section: "283r"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 283r"
-generated_at: "2026-03-30T02:55:05.315Z"
+generated_at: "2026-11-23T21:25:58.354Z"
+status: "active"
 ---
 
 # § 283r. Expropriation of United States property; loan restrictions
@@ -15,3 +16,7 @@ The President shall instruct the United States Executive Director of the Bank to
   - **(1)** nationalized or expropriated or seized ownership or control of property owned by any United States citizen or by any corporation, partnership, or association not less than 50 per centum of which is beneficially owned by United States citizens;
   - **(2)** taken steps to repudiate or nullify existing contracts or agreements with any United States citizen or any corporation, partnership, or association not less than 50 per centum of which is beneficially owned by United States citizens; or
   - **(3)** imposed or enforced discriminatory taxes or other exactions, or restrictive maintenance or operational conditions, or has taken other actions, which have the effect of nationalizing, expropriating, or otherwise seizing ownership or control of property so owned;
+
+## Source Credit
+
+*([Pub. L. 86–147, § 21](https://www.govinfo.gov/link/plaw/86/public/147), as added [Pub. L. 92–246, § 1](https://www.govinfo.gov/link/plaw/92/public/246), Mar. 10, 1972, [86 Stat. 59](https://www.govinfo.gov/link/statute/86/59).)*

@@ -3,9 +3,10 @@ title: "Section 1067c - Use of funds"
 usc_title: 20
 usc_section: "1067c"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1067c"
-generated_at: "2026-03-30T02:54:48.102Z"
+generated_at: "2026-11-23T21:25:47.045Z"
+status: "active"
 ---
 
 # § 1067c. Use of funds
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:48.102Z"
     - **(G)** development of learning experiences in science beyond those normally available to minority undergraduate students;
     - **(H)** development of pre-college enrichment activities in science; or
     - **(I)** any other activities designed to address specific barriers to the entry of minorities into science.
+
+## Source Credit
+
+*([Pub. L. 89–329, title III, § 353](https://www.govinfo.gov/link/plaw/89/public/329), formerly title X, § 1023, as added [Pub. L. 99–498, title X, § 1002](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1562](https://www.govinfo.gov/link/statute/100/1562); renumbered title III, § 353, and amended [Pub. L. 105–244, title III, § 301(a)(5)](https://www.govinfo.gov/link/plaw/105/public/244), (7), (c)(8), Oct. 7, 1998, [112 Stat. 1636](https://www.govinfo.gov/link/statute/112/1636), 1637.)*

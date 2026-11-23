@@ -3,9 +3,10 @@ title: "Section 1202 - Commercial Mobile Service Alert Advisory Committee"
 usc_title: 47
 usc_section: "1202"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1202"
-generated_at: "2026-03-30T02:56:24.530Z"
+generated_at: "2026-11-23T21:26:36.087Z"
+status: "active"
 ---
 
 # § 1202. Commercial Mobile Service Alert Advisory Committee
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:56:24.530Z"
   - **(3)** The Advisory Committee may adopt other rules as needed.
 - **(f)** Neither chapter 10 of title 5 nor any rule, order, or regulation promulgated under that chapter shall apply to the Advisory Committee.
 - **(g)** The Advisory Committee shall consult with the National Institute of Standards and Technology in its work on developing recommendations under paragraphs (2) and (3) of subsection (c).
+
+## Source Credit
+
+*([Pub. L. 109–347, title VI, § 603](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1938](https://www.govinfo.gov/link/statute/120/1938); [Pub. L. 117–286, § 4(a)(300)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4339](https://www.govinfo.gov/link/statute/136/4339).)*

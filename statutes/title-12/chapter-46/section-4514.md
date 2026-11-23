@@ -3,9 +3,10 @@ title: "Section 4514 - Authority to require reports by regulated entities"
 usc_title: 12
 usc_section: "4514"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4514"
-generated_at: "2026-03-30T02:53:53.506Z"
+generated_at: "2026-11-23T21:25:37.181Z"
+status: "active"
 ---
 
 # § 4514. Authority to require reports by regulated entities
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:53.506Z"
     - **(C)** A violation described in paragraph (1) shall be subject to a penalty of not more than $1,000,000 per day for each day during which such violation continues or such false or misleading information is not corrected, in any case in which the subject regulated entity committed such violation knowingly or with reckless disregard for the accuracy of any such information or report.
   - **(3)** Any penalty imposed under this subsection shall be in lieu of a penalty under section 4636 of this title , but shall be assessed and collected by the Director in the manner provided in section 4636 of this title for penalties imposed under that section, and any such assessment (including the determination of the amount of the penalty) shall be otherwise subject to the provisions of section 4636 of this title .
   - **(4)** A regulated entity against which a penalty is assessed under this section shall be afforded an agency hearing if the regulated entity submits a request for a hearing not later than 20 days after the date of the issuance of the notice of assessment. Section 4634 of this title shall apply to any such proceedings.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1314](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3946](https://www.govinfo.gov/link/statute/106/3946); [Pub. L. 110–289, div. A, title I, § 1104(a)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2666](https://www.govinfo.gov/link/statute/122/2666).)*

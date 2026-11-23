@@ -3,9 +3,10 @@ title: "Section 3 - Rulemaking"
 usc_title: 42
 usc_section: "3"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T02:56:11.145Z"
+generated_at: "2026-11-23T21:26:32.309Z"
+status: "active"
 ---
 
 # § 2000gg–3. Rulemaking
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.145Z"
 - **(b)**
   - **(1)** Not later than 6 months after the Commission issues regulations under subsection (a), the Board (as defined in section 1301 of title 2 ) shall (in accordance with section 1384 of title 2 ), issue regulations to implement the provisions of this chapter made applicable to employees described in section 2000gg(3)(B) of this title , under section 2000gg–2(b) of this title .
   - **(2)** The regulations issued under paragraph (1) shall be the same as substantive regulations issued by the Commission under subsection (a) except to the extent that the Board may determine, for good cause shown and stated together with the regulations issued under paragraph (1) that a modification of such substantive regulations would be more effective for the implementation of the rights and protection under this chapter.
+
+## Source Credit
+
+*([Pub. L. 117–328, div. II, § 105](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 6088](https://www.govinfo.gov/link/statute/136/6088).)*

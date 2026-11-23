@@ -3,9 +3,10 @@ title: "Section 21061 - Payments for protection and advocacy systems"
 usc_title: 52
 usc_section: "21061"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 21061"
-generated_at: "2026-03-30T02:56:30.167Z"
+generated_at: "2026-11-23T21:26:42.336Z"
+status: "active"
 ---
 
 # § 21061. Payments for protection and advocacy systems
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:30.167Z"
     - **(A)** is a public or private nonprofit entity with demonstrated experience in voting issues for individuals with disabilities;
     - **(B)** is governed by a board with respect to which the majority of its members are individuals with disabilities or family members of such individuals or individuals who are blind; and
     - **(C)** submits to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+
+## Source Credit
+
+*([Pub. L. 107–252, title II, § 291](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1702](https://www.govinfo.gov/link/statute/116/1702); [Pub. L. 117–182, § 2](https://www.govinfo.gov/link/plaw/117/public/182), Sept. 30, 2022, [136 Stat. 2178](https://www.govinfo.gov/link/statute/136/2178).)*

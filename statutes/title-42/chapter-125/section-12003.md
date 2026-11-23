@@ -3,9 +3,10 @@ title: "Section 12003 - National goals and multi-year funding for Federal alcoho
 usc_title: 42
 usc_section: "12003"
 chapter: 125
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12003"
-generated_at: "2026-03-30T02:56:11.407Z"
+generated_at: "2026-11-23T21:26:33.447Z"
+status: "active"
 ---
 
 # § 12003. National goals and multi-year funding for Federal alcohol from biomass and other technology programs
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.407Z"
   - **(2)** not to exceed $121,000,000 for fiscal year 1992, of which—
     - **(A)** not to exceed $20,500,000 shall be available for the Geothermal Energy Systems Program; and
     - **(B)** not to exceed $5,000,000 shall be available for the Hydrogen Energy Systems Program.
+
+## Source Credit
+
+*([Pub. L. 101–218, § 4](https://www.govinfo.gov/link/plaw/101/public/218), Dec. 11, 1989, [103 Stat. 1860](https://www.govinfo.gov/link/statute/103/1860); [Pub. L. 102–486, title XII, § 1202(b)](https://www.govinfo.gov/link/plaw/102/public/486), title XXI, § 2125(1)–(3), Oct. 24, 1992, [106 Stat. 2958](https://www.govinfo.gov/link/statute/106/2958), 3085; [Pub. L. 116–260, div. Z, title III, § 3006(a)(1)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2511](https://www.govinfo.gov/link/statute/134/2511).)*

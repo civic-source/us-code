@@ -3,9 +3,10 @@ title: "Section 1706 - High Intensity Drug Trafficking Areas Program"
 usc_title: 21
 usc_section: "1706"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 1706"
-generated_at: "2026-03-30T02:54:54.306Z"
+generated_at: "2026-11-23T21:25:56.289Z"
+status: "active"
 ---
 
 # § 1706. High Intensity Drug Trafficking Areas Program
@@ -110,3 +111,25 @@ generated_at: "2026-03-30T02:54:54.306Z"
   - **(1)** purchasing portable equipment to test for fentanyl and other substances;
   - **(2)** training law enforcement officers and other first responders on best practices for handling fentanyl and other substances; and
   - **(3)** purchasing protective equipment, including overdose reversal drugs.
+
+“Congress finds the following:
+
+In General.—
+
+In general
+
+Activities
+
+Authorization of Appropriations
+
+Apportionment of Funds.—
+
+Factors in apportionment
+
+Certification
+
+Limitation on Administrative Costs
+
+## Source Credit
+
+*([Pub. L. 105–277, div. C, title VII](https://www.govinfo.gov/link/plaw/105/public/277), §§ 707, 715, Oct. 21, 1998, [112 Stat. 2681–686](https://www.govinfo.gov/link/statute/112/2681), 2681–693; [Pub. L. 109–469, title III](https://www.govinfo.gov/link/plaw/109/public/469), §§ 301, § 302(c), title VI, § 602, Dec. 29, 2006, [120 Stat. 3518](https://www.govinfo.gov/link/statute/120/3518), 3525, 3533; [Pub. L. 115–271, title VIII](https://www.govinfo.gov/link/plaw/115/public/271), §§ 8202(a), 8202(b)(2), 8205, 8208, 8209, Oct. 24, 2018, [132 Stat. 4110](https://www.govinfo.gov/link/statute/132/4110), 4113, 4114; [Pub. L. 116–74, § 2(a)(7)](https://www.govinfo.gov/link/plaw/116/public/74), Nov. 27, 2019, [133 Stat. 1157](https://www.govinfo.gov/link/statute/133/1157).)*

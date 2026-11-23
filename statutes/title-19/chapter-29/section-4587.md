@@ -3,9 +3,10 @@ title: "Section 4587 - Identification of industries facing subsidized imports"
 usc_title: 19
 usc_section: "4587"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4587"
-generated_at: "2026-03-30T02:54:24.714Z"
+generated_at: "2026-11-23T21:25:42.895Z"
+status: "active"
 ---
 
 # § 4587. Identification of industries facing subsidized imports
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:24.714Z"
   - **(2)** prejudice, affect, or substitute for, any proceeding, investigation, determination, or action by the Secretary of Commerce, the International Trade Commission, or the Trade Representative pursuant to such a petition; or
   - **(3)** prejudice, affect, substitute for, or obviate any proceeding, investigation, or determination under section 2411 of this title , title VII of the Tariff Act of 1930 [ 19 U.S.C. 1671 et seq.], or any other trade law.
 - **(f)** Nothing in this section may be construed to alter in any manner the requirements in effect before January 29, 2020 , for standing under any law of the United States or to add any additional requirements for standing under any law of the United States.
+
+## Source Credit
+
+*([Pub. L. 116–113, title IV, § 417](https://www.govinfo.gov/link/plaw/116/public/113), formerly [Pub. L. 103–182, title IV, § 407](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2138](https://www.govinfo.gov/link/statute/107/2138); [Pub. L. 104–295, § 21(c)(2)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3530](https://www.govinfo.gov/link/statute/110/3530); renumbered [§ 417 of Pub. L. 116–113](https://www.govinfo.gov/link/plaw/116/public/113) and amended [Pub. L. 116–113, title V, § 504(h)](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 75](https://www.govinfo.gov/link/statute/134/75).)*

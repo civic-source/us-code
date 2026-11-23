@@ -3,9 +3,10 @@ title: "Section 80504 - Approval and examination"
 usc_title: 46
 usc_section: "80504"
 chapter: 805
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 80504"
-generated_at: "2026-03-30T02:56:15.589Z"
+generated_at: "2026-11-23T21:26:37.370Z"
+status: "active"
 ---
 
 # § 80504. Approval and examination
@@ -17,3 +18,28 @@ generated_at: "2026-03-30T02:56:15.589Z"
   - **(1)** approved initially under procedures prescribed by the Secretary or by the government of another country that is a party to the Convention; and
   - **(2)** examined periodically as provided in the Convention, under procedures prescribed by the government of the country in which the owner is domiciled or has its principal office, as long as that country is a party to the Convention.
 - **(c)** A container owner neither domiciled nor having its principal office in the United States or another country that is a party to the Convention may submit a container for initial approval and periodic examination under procedures prescribed by the Secretary.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 80504. | 46 App.:1502(a) (related to approval and examination). | Pub. L. 95–208, § 3(a) (related to approval and examination), Dec. 13, 1977 , 91 Stat. 1476 . |
+
+
+Domicile and Principal Office in United States
+
+Domicile or Principal Office in United States
+
+Neither Domicile Nor Principal Office in United States
+
+Historical and Revision Notes
+
+80504.
+
+Pub. L. 95–208, § 3(a)
+
+Dec. 13, 1977
+
+91 Stat. 1476
+
+## Source Credit
+
+*([Pub. L. 109–304, § 11](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1695](https://www.govinfo.gov/link/statute/120/1695).)*

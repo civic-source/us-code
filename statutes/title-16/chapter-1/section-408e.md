@@ -3,9 +3,10 @@ title: "Section 408e - Addition of lands; Passage Island"
 usc_title: 16
 usc_section: "408e"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 408e"
-generated_at: "2026-03-30T02:54:22.758Z"
+generated_at: "2026-11-23T21:25:51.430Z"
+status: "active"
 ---
 
 # § 408e. Addition of lands; Passage Island
@@ -17,3 +18,7 @@ Subject to valid existing rights the following-described lands, in addition to t
   - **(2)** Beginning at the center of Passage Island Light, thence north thirty-three degrees fifty-two minutes east three thousand five hundred and fifteen feet to a point from which this description shall begin to measure, being the southwest corner of said boathouse site; thence north two hundred feet to a point being the northwest corner of said site; thence east one hundred and seventy-five feet more or less to the harbor shore; thence southeasterly following the harbor shore to a point on the shore being a point on the south boundary of the boathouse site; thence two hundred feet more or less west to the point of beginning, containing approximately seventy-eight one-hundredths acre.
   - **(3)** A right-of-way between the sites described in the preceding subparagraphs, to be defined by the Secretary of the Navy within a reasonable length of time after March 6, 1942 .
 - **(b)** Gull Islands, containing approximately six acres, located in section 19, township 68 north, range 31 west, in Keweenaw County, Michigan.
+
+## Source Credit
+
+*(Mar. 6, 1942, ch. 152, § 1, [56 Stat. 138](https://www.govinfo.gov/link/statute/56/138); July 27, 1942, ch. 526, [56 Stat. 722](https://www.govinfo.gov/link/statute/56/722); [Pub. L. 94–567, § 4(a)(1)](https://www.govinfo.gov/link/plaw/94/public/567), Oct. 20, 1976, [90 Stat. 2694](https://www.govinfo.gov/link/statute/90/2694).)*

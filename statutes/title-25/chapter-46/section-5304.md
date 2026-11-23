@@ -3,9 +3,10 @@ title: "Section 5304 - Definitions"
 usc_title: 25
 usc_section: "5304"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5304"
-generated_at: "2026-03-30T02:54:52.865Z"
+generated_at: "2026-11-23T21:25:54.721Z"
+status: "active"
 ---
 
 # § 5304. Definitions
@@ -30,3 +31,7 @@ For purposes of this chapter, the term—
   - **(1)** that is limited to providing planning services and construction management services (or a combination of such services);
   - **(2)** for the Housing Improvement Program or roads maintenance program of the Bureau of Indian Affairs administered by the Secretary of the Interior; or
   - **(3)** for the health facility maintenance and improvement program administered by the Secretary of Health and Human Services.
+
+## Source Credit
+
+*([Pub. L. 93–638, § 4](https://www.govinfo.gov/link/plaw/93/public/638), Jan. 4, 1975, [88 Stat. 2204](https://www.govinfo.gov/link/statute/88/2204); [Pub. L. 100–472, title I, § 103](https://www.govinfo.gov/link/plaw/100/public/472), Oct. 5, 1988, [102 Stat. 2286](https://www.govinfo.gov/link/statute/102/2286); [Pub. L. 100–581, title II, § 208](https://www.govinfo.gov/link/plaw/100/public/581), Nov. 1, 1988, [102 Stat. 2940](https://www.govinfo.gov/link/statute/102/2940); [Pub. L. 101–301, § 2(a)(1)](https://www.govinfo.gov/link/plaw/101/public/301) –(3), May 24, 1990, [104 Stat. 206](https://www.govinfo.gov/link/statute/104/206); [Pub. L. 101–644, title II, § 202(1)](https://www.govinfo.gov/link/plaw/101/public/644), (2), Nov. 29, 1990, [104 Stat. 4665](https://www.govinfo.gov/link/statute/104/4665); [Pub. L. 103–413, title I, § 102(1)](https://www.govinfo.gov/link/plaw/103/public/413), Oct. 25, 1994, [108 Stat. 4250](https://www.govinfo.gov/link/statute/108/4250); [Pub. L. 116–180, title II, § 201(a)](https://www.govinfo.gov/link/plaw/116/public/180), Oct. 21, 2020, [134 Stat. 878](https://www.govinfo.gov/link/statute/134/878).)*

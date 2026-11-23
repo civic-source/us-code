@@ -3,9 +3,10 @@ title: "Section 8905 - Site and design approval"
 usc_title: 40
 usc_section: "8905"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 8905"
-generated_at: "2026-03-30T02:55:43.384Z"
+generated_at: "2026-11-23T21:26:14.930Z"
+status: "active"
 ---
 
 # § 8905. Site and design approval
@@ -39,3 +40,63 @@ generated_at: "2026-03-30T02:55:43.384Z"
       - **(ii)** any object in a museum collection.
   - **(4)** The sponsor shall bear all expenses related to the display of donor acknowledgments under paragraph (1).
   - **(5)** This subsection shall apply to any commemorative work dedicated after January 1, 2010 .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8905(a) | 40:1007(a). | Pub. L. 99–652, § 7 , Nov. 14, 1986 , 100 Stat. 3652 ; Pub. L. 103–321, § 2(d) , Aug. 26, 1994 , 108 Stat. 1794 . |
+| 8905(b) | 40:1007(b). |  |
+
+
+Consultation on, and Submission of, Proposals
+
+Consultation
+
+Submittal
+
+Decision Criteria
+
+Surroundings
+
+Location
+
+Material
+
+Landscape features
+
+Museums
+
+Site-specific guidelines
+
+Donor Contributions.—
+
+Acknowledgment of donor contribution
+
+Requirements
+
+Limitations
+
+Cost
+
+Applicability
+
+Historical and Revision Notes
+
+8905(a)
+
+Pub. L. 99–652, § 7
+
+Nov. 14, 1986
+
+100 Stat. 3652
+
+Pub. L. 103–321, § 2(d)
+
+Aug. 26, 1994
+
+108 Stat. 1794
+
+8905(b)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1229](https://www.govinfo.gov/link/statute/116/1229); [Pub. L. 108–126, title II](https://www.govinfo.gov/link/plaw/108/public/126), §§ 203(e), 204, Nov. 17, 2003, [117 Stat. 1351](https://www.govinfo.gov/link/statute/117/1351), 1352; [Pub. L. 113–291, div. B, title XXX, § 3054(c)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3807](https://www.govinfo.gov/link/statute/128/3807).)*

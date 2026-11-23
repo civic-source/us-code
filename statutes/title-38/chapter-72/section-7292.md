@@ -3,9 +3,10 @@ title: "Section 7292 - Review by United States Court of Appeals for the Federal 
 usc_title: 38
 usc_section: "7292"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7292"
-generated_at: "2026-03-30T02:55:53.525Z"
+generated_at: "2026-11-23T21:26:16.840Z"
+status: "active"
 ---
 
 # § 7292. Review by United States Court of Appeals for the Federal Circuit
@@ -25,3 +26,9 @@ generated_at: "2026-03-30T02:55:53.525Z"
 - **(e)**
   - **(1)** Upon such review, the Court of Appeals for the Federal Circuit shall have power to affirm or, if the decision of the Court of Appeals for Veterans Claims is not in accordance with law, to modify or reverse the decision of the Court of Appeals for Veterans Claims or to remand the matter, as appropriate.
   - **(2)** Rules for review of decisions of the Court of Appeals for Veterans Claims shall be those prescribed by the Supreme Court under section 2072 of title 28 .
+
+“The amendment made by subsection (a) [amending this section] shall apply with respect to any appeal—
+
+## Source Credit
+
+*(Added [Pub. L. 100–687, div. A, title III, § 301(a)](https://www.govinfo.gov/link/plaw/100/public/687), Nov. 18, 1988, [102 Stat. 4120](https://www.govinfo.gov/link/statute/102/4120), § 4092; amended [Pub. L. 101–94, title III, § 302(b)](https://www.govinfo.gov/link/plaw/101/public/94), Aug. 16, 1989, [103 Stat. 628](https://www.govinfo.gov/link/statute/103/628); renumbered § 7292, [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238); [Pub. L. 102–54, § 14(e)(5)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 287](https://www.govinfo.gov/link/statute/105/287); [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, [105 Stat. 404–406](https://www.govinfo.gov/link/statute/105/404); [Pub. L. 105–368, title V, § 512(a)(1)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3341](https://www.govinfo.gov/link/statute/112/3341); [Pub. L. 107–330, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/107/public/330), Dec. 6, 2002, [116 Stat. 2832](https://www.govinfo.gov/link/statute/116/2832).)*

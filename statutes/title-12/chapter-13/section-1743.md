@@ -3,9 +3,10 @@ title: "Section 1743 - Insurance of mortgages"
 usc_title: 12
 usc_section: "1743"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1743"
-generated_at: "2026-03-30T02:53:53.431Z"
+generated_at: "2026-11-23T21:25:36.924Z"
+status: "active"
 ---
 
 # § 1743. Insurance of mortgages
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:53.431Z"
 - **(e)** Debentures issued under this section shall be issued in accordance with the provisions of section 1739 (d) of this title except that such debentures shall be dated as of the date of default as determined in subsection (c) of this section, and shall bear interest from such date.
 - **(f)** The provisions of section 1713(k) of this title shall be applicable to mortgages insured under this section, except that, as applied to such mortgages, the reference therein to subsection (g) shall be construed to refer to subsection (c) of this section.
 - **(g)** The Secretary shall also have power to insure under this subchapter or subchapter I, II, VIII, or X any mortgage executed in connection with the sale by him of any property acquired under any of such subchapters without regard to limitations upon eligibility, time, or aggregate amount contained therein.
+
+## Source Credit
+
+*(June 27, 1934, ch. 847, title VI, § 608, as added May 26, 1942, ch. 319, § 11, [56 Stat. 303](https://www.govinfo.gov/link/statute/56/303); amended Mar. 31, 1945, ch. 48, § 2, [59 Stat. 47](https://www.govinfo.gov/link/statute/59/47); May 22, 1946, ch. 268, § 10(f), (g), [60 Stat. 214](https://www.govinfo.gov/link/statute/60/214); Aug. 10, 1948, ch. 832, title I, § 101(b), (c), [62 Stat. 1269](https://www.govinfo.gov/link/statute/62/1269); Apr. 20, 1950, ch. 94, title I, § 122, [64 Stat. 59](https://www.govinfo.gov/link/statute/64/59); Sept. 1, 1951, ch. 378, title II, § 206, [65 Stat. 303](https://www.govinfo.gov/link/statute/65/303); [Pub. L. 89–117, title XI, § 1108(q)](https://www.govinfo.gov/link/plaw/89/public/117), Aug. 10, 1965, [79 Stat. 506](https://www.govinfo.gov/link/statute/79/506); [Pub. L. 90–19, § 1(a)(3)](https://www.govinfo.gov/link/plaw/90/public/19), (4), May 25, 1967, [81 Stat. 17](https://www.govinfo.gov/link/statute/81/17).)*

@@ -3,9 +3,10 @@ title: "Section 3931 - Board of Examiners"
 usc_title: 22
 usc_section: "3931"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3931"
-generated_at: "2026-03-30T02:55:05.399Z"
+generated_at: "2026-11-23T21:25:58.602Z"
+status: "active"
 ---
 
 # § 3931. Board of Examiners
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.399Z"
   - **(3)** alternatives to any examinations which have such an adverse impact; and
   - **(4)** whether such examinations are valid in relation to job performance.
 - **(c)** Any vacancy or vacancies on the Board shall not impair the right of the remaining members to exercise the full powers of the Board.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 211](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2083](https://www.govinfo.gov/link/statute/94/2083).)*

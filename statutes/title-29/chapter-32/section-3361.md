@@ -3,9 +3,10 @@ title: "Section 3361 - References"
 usc_title: 29
 usc_section: "3361"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3361"
-generated_at: "2026-03-30T02:55:18.763Z"
+generated_at: "2026-11-23T21:26:02.355Z"
+status: "active"
 ---
 
 # § 3361. References
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:18.763Z"
 - **(a)** Except as otherwise specified, a reference in a Federal law to a provision of the Workforce Investment Act of 1998 ( 29 U.S.C. 2801 et seq.) shall be deemed to refer to the corresponding provision of this Act.
 - **(b)** Except as otherwise specified, a reference in a Federal law to a provision of the Wagner-Peyser Act ( 29 U.S.C. 49 et seq.) shall be deemed to refer to the corresponding provision of such Act, as amended by this Act.
 - **(c)** Except as otherwise specified, a reference in a Federal law to a provision of the Rehabilitation Act of 1973 ( 29 U.S.C. 701 et seq.) shall be deemed to refer to the corresponding provision of such Act, as amended by this Act.
+
+## Source Credit
+
+*([Pub. L. 113–128, title V, § 513](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1722](https://www.govinfo.gov/link/statute/128/1722).)*

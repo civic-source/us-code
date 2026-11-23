@@ -3,12 +3,17 @@ title: "Section 74a - Permanent loan of funds by Board of Trustees to Treasury; 
 usc_title: 20
 usc_section: "74a"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 74a"
-generated_at: "2026-03-30T02:54:48.073Z"
+generated_at: "2026-11-23T21:25:46.917Z"
+status: "active"
 ---
 
 # § 74a. Permanent loan of funds by Board of Trustees to Treasury; semiannual interest payments to Board
 
 The Secretary of the Treasury is authorized and directed to receive into the Treasury from time to time as a permanent loan by the Board of Trustees of the National Gallery of Art to the United States sums in cash of not to exceed $5,000,000 in the aggregate, and to pay interest on the principal amount of such loan at a rate which is the higher of the rate of 4 per centum per annum or a rate which is .25 percentage points less than a rate determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding long-term marketable obligations of the United States, adjusted to the nearest one-eighth of 1 per centum, payable semiannually. Such interest is permanently appropriated for payment to the Board of Trustees of the National Gallery of Art.
 
+
+## Source Credit
+
+*(Apr. 10, 1943, ch. 46, [57 Stat. 62](https://www.govinfo.gov/link/statute/57/62); [Pub. L. 94–418](https://www.govinfo.gov/link/plaw/94/public/418), Sept. 21, 1976, [90 Stat. 1278](https://www.govinfo.gov/link/statute/90/1278).)*

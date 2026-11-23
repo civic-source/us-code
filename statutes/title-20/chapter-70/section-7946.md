@@ -3,9 +3,10 @@ title: "Section 7946 - Limitation on liability for teachers"
 usc_title: 20
 usc_section: "7946"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7946"
-generated_at: "2026-03-30T02:54:48.222Z"
+generated_at: "2026-11-23T21:25:47.629Z"
+status: "active"
 ---
 
 # § 7946. Limitation on liability for teachers
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:48.222Z"
 - **(e)**
   - **(1)** Nothing in this section shall be construed to affect any civil action brought by any school or any governmental entity against any teacher of such school.
   - **(2)** Nothing in this subpart shall be construed to affect any State or local law (including a rule or regulation) or policy pertaining to the use of corporal punishment.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VIII, § 8556](https://www.govinfo.gov/link/plaw/89/public/10), formerly title II, § 2366, as added [Pub. L. 107–110, title II, § 201](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1668](https://www.govinfo.gov/link/statute/115/1668); renumbered title IX, § 9546, renumbered title VIII, § 8556, and amended [Pub. L. 114–95, title II, § 2001(a)(1)](https://www.govinfo.gov/link/plaw/114/public/95), (3)(A), (B), (D), title VIII, § 8001(a)(7), Dec. 10, 2015, [129 Stat. 1913](https://www.govinfo.gov/link/statute/129/1913), 2088, 2089.)*

@@ -3,9 +3,10 @@ title: "Section 10664 - Authority to award competitive grants to address methamp
 usc_title: 34
 usc_section: "10664"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10664"
-generated_at: "2026-03-30T02:55:33.275Z"
+generated_at: "2026-11-23T21:26:09.687Z"
+status: "active"
 ---
 
 # § 10664. Authority to award competitive grants to address methamphetamine use by pregnant and parenting women offenders
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:55:33.275Z"
   - **(1)** Successful applicants shall submit to the Attorney General a report on the activities carried out under the grant at the end of each fiscal year.
   - **(2)** Not later than 12 months at 5 5 So in original. Probably should be “after”. the end of the 3 year funding cycle under this section, the Attorney General shall submit a report to the appropriate committees of jurisdiction that summarizes the results of the evaluations conducted by recipients and recommendations for further legislative action.
 - **(f)** There are authorized to be appropriated to carry out this section such sums as may be necessary.
+
+## Source Credit
+
+*([Pub. L. 109–177, title VII, § 756](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 275](https://www.govinfo.gov/link/statute/120/275); [Pub. L. 110–161, div. B, title II, § 220(c)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 1916](https://www.govinfo.gov/link/statute/121/1916).)*

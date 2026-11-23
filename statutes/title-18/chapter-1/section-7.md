@@ -3,9 +3,10 @@ title: "Section 7 - Special maritime and territorial jurisdiction of the United 
 usc_title: 18
 usc_section: "7"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 7"
-generated_at: "2026-03-30T02:54:16.455Z"
+generated_at: "2026-11-23T21:25:43.933Z"
+status: "active"
 ---
 
 # § 7. Special maritime and territorial jurisdiction of the United States defined
@@ -23,3 +24,7 @@ The term “special maritime and territorial jurisdiction of the United States�
   - **(9)** With respect to offenses committed by or against a national of the United States as that term is used in section 101 of the Immigration and Nationality Act—
     - **(A)** the premises of United States diplomatic, consular, military or other United States Government missions or entities in foreign States, including the buildings, parts of buildings, and land appurtenant or ancillary thereto or used for purposes of those missions or entities, irrespective of ownership; and
     - **(B)** residences in foreign States and the land appurtenant or ancillary thereto, irrespective of ownership, used for purposes of those missions or entities or used by United States personnel assigned to those missions or entities.
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 685](https://www.govinfo.gov/link/statute/62/685); July 12, 1952, ch. 695, [66 Stat. 589](https://www.govinfo.gov/link/statute/66/589); [Pub. L. 97–96, § 6](https://www.govinfo.gov/link/plaw/97/public/96), Dec. 21, 1981, [95 Stat. 1210](https://www.govinfo.gov/link/statute/95/1210); [Pub. L. 98–473, title II, § 1210](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2164](https://www.govinfo.gov/link/statute/98/2164); [Pub. L. 103–322, title XII, § 120002](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2021](https://www.govinfo.gov/link/statute/108/2021); [Pub. L. 107–56, title VIII, § 804](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 377](https://www.govinfo.gov/link/statute/115/377).)*

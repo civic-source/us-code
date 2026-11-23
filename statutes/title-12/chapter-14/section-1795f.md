@@ -3,9 +3,10 @@ title: "Section 1795f - Powers of Board"
 usc_title: 12
 usc_section: "1795f"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1795f"
-generated_at: "2026-03-30T02:53:53.443Z"
+generated_at: "2026-11-23T21:25:36.962Z"
+status: "active"
 ---
 
 # § 1795f. Powers of Board
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:53.443Z"
   - **(1)** The Board may authorize the Central Liquidity Facility or its Agent members, subject to such rules and regulations, including definitions of terms used in this subsection, as the Board shall from time to time prescribe, to be drawees of, and to engage in, or be agents or intermediaries for, or otherwise participate or assist in, the collection and settlement of (including presentment, clearing, and payment of, and remitting for), checks, share drafts, or any other negotiable or nonnegotiable items or instruments of payment drawn on or issued by members of the Central Liquidity Facility, any of its Agent members, or any other credit union eligible to become a member of the Central Liquidity Facility, and to have such incidental powers as the Board shall find necessary for the exercise of any such authorization.
   - **(2)** The Central Liquidity Facility or its Agent members shall make charges, to be determined and regulated by the Board consistent with the principles set forth in section 248a(c) of this title , or utilize the services of, or act as agent for, or be a member of, a Federal Reserve bank, clearinghouse, or any other public or private financial institution or other agency, in the exercise of any powers or functions pursuant to this subsection.
   - **(3)** The Board is authorized, with respect to participation in the collection and settlement of any items by the Central Liquidity Facility or by its Agent members, and with respect to the collection and settlement (including payment by the payor institution) of items payable by members of the Central Liquidity Facility or of any of its Agent members, to prescribe rules and regulations regarding the rights, powers, responsibilities, duties, and liabilities, including standards relating thereto, of such entities and other parties to any such items or their collection and settlement. In prescribing such rules and regulations, the Board may adopt or apply, in whole or in part, general banking usage and practices, and, in instances or respects in which they would otherwise not be applicable, Federal Reserve regulations and operating letters, the Uniform Commercial Code, and clearinghouse rules.
+
+## Source Credit
+
+*(June 26, 1934, ch. 750, title III, formerly subch. III, § 307, as added and amended [Pub. L. 95–630, title V, § 502(b)](https://www.govinfo.gov/link/plaw/95/public/630), title XVIII, § 1802, Nov. 10, 1978, [92 Stat. 3681](https://www.govinfo.gov/link/statute/92/3681), 3722; [Pub. L. 96–221, title III](https://www.govinfo.gov/link/plaw/96/public/221), §§ 309(a)(3), (4), (b), 312, Mar. 31, 1980, [94 Stat. 149](https://www.govinfo.gov/link/statute/94/149), 150; [Pub. L. 97–320, title V, § 531](https://www.govinfo.gov/link/plaw/97/public/320), Oct. 15, 1982, [96 Stat. 1536](https://www.govinfo.gov/link/statute/96/1536); [Pub. L. 116–136, div. A, title IV, § 4016(a)(4)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 482](https://www.govinfo.gov/link/statute/134/482); [Pub. L. 116–260, div. N, title V, § 540(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2090](https://www.govinfo.gov/link/statute/134/2090).)*

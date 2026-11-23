@@ -3,9 +3,10 @@ title: "Section 4112 - Requirement for information sharing agreements"
 usc_title: 2
 usc_section: "4112"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 4112"
-generated_at: "2026-03-30T02:53:04.828Z"
+generated_at: "2026-11-23T21:25:21.295Z"
+status: "active"
 ---
 
 # § 4112. Requirement for information sharing agreements
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:53:04.828Z"
     - **(C)** identification, by position, of the officials at the operational and tactical level responsible for daily management of the agreement;
     - **(D)** the ability to seat cybersecurity personnel of the Office of the Sergeant at Arms and Doorkeeper of the Senate or the Office of the Chief Administrative Officer of the House of Representatives at cybersecurity operations centers within the executive branch; and
     - **(E)** any other elements the parties find appropriate.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. G, title LXXII, § 7201](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3665](https://www.govinfo.gov/link/statute/136/3665).)*

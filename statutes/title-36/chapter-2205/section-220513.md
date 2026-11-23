@@ -3,9 +3,10 @@ title: "Section 220513 - Annual amateur athlete survey"
 usc_title: 36
 usc_section: "220513"
 chapter: 2205
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 220513"
-generated_at: "2026-03-30T02:55:44.710Z"
+generated_at: "2026-11-23T21:26:13.749Z"
+status: "active"
 ---
 
 # § 220513. Annual amateur athlete survey
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:55:44.710Z"
 - **(b)** A contract under subsection (a) shall require the independent third-party organization to develop the survey in consultation with the Center.
 - **(c)** If the corporation or a national governing body makes any effort to undermine the independence of, introduce bias into, or otherwise influence a survey under subsection (a), such activity shall be reported immediately to Congress.
 - **(d)** The corporation shall make the results of each such survey available to the public on an internet website of the corporation.
+
+In General
+
+Consultation
+
+Prohibition on Interference
+
+Public Availability
+
+## Source Credit
+
+*(Added [Pub. L. 116–189, § 6(g)(1)](https://www.govinfo.gov/link/plaw/116/public/189), Oct. 30, 2020, [134 Stat. 955](https://www.govinfo.gov/link/statute/134/955).)*

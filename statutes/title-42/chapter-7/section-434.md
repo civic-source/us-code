@@ -3,9 +3,10 @@ title: "Section 434 - Demonstration project authority"
 usc_title: 42
 usc_section: "434"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 434"
-generated_at: "2026-03-30T02:56:10.867Z"
+generated_at: "2026-11-23T21:26:31.059Z"
+status: "active"
 ---
 
 # § 434. Demonstration project authority
@@ -42,3 +43,23 @@ generated_at: "2026-03-30T02:56:10.867Z"
       - **(i)** Notwithstanding subparagraph (A), in any case in which the amount of such an individual’s itemized impairment-related work expenses (as defined in clause (ii)) for a month is greater than the minimum threshold amount, the amount of the individual’s impairment-related work expenses for the month shall be equal to the amount of the individual’s itemized impairment-related work expenses (as so defined) for the month.
       - **(ii)** In this subparagraph, the term “itemized impairment-related work expenses” means the amount excluded under section 423(d)(4)(A) of this title from an individual’s earnings for a month in determining whether an individual is able to engage in substantial gainful activity by reason of such earnings in such month, except that such amount does not include the cost to the individual of any item or service for which the individual does not provide to the Commissioner a satisfactory itemized accounting.
     - **(D)** Notwithstanding the other provisions of this paragraph, for purposes of paragraph (2)(A), the amount of an individual’s impairment-related work expenses for a month shall not exceed the amount of earnings derived from services, prescribed by the Commissioner under regulations issued pursuant to section 423(d)(4)(A) of this title , sufficient to demonstrate an individual’s ability to engage in substantial gainful activity.
+
+Authority
+
+Scope and Scale and Matters To Be Determined.—
+
+In general
+
+Additional matters
+
+Waivers
+
+Interim Reports
+
+Final Report
+
+Expenditures
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title II, § 234, as added [Pub. L. 106–170, title III, § 301(a)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1900](https://www.govinfo.gov/link/statute/113/1900); amended [Pub. L. 108–203, title IV, § 401](https://www.govinfo.gov/link/plaw/108/public/203), Mar. 2, 2004, [118 Stat. 525](https://www.govinfo.gov/link/statute/118/525); [Pub. L. 114–74, title VIII](https://www.govinfo.gov/link/plaw/114/public/74), §§ 821–823, Nov. 2, 2015, [129 Stat. 605](https://www.govinfo.gov/link/statute/129/605).)*

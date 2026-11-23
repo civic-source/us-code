@@ -3,9 +3,10 @@ title: "Section 3544 - Preventing fraud and abuse in housing and urban developme
 usc_title: 42
 usc_section: "3544"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3544"
-generated_at: "2026-03-30T02:56:11.189Z"
+generated_at: "2026-11-23T21:26:32.577Z"
+status: "active"
 ---
 
 # § 3544. Preventing fraud and abuse in housing and urban development programs
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:11.189Z"
 - **(e)** An applicant or participant under any program of the Department of Housing and Urban Development may not be required or requested to consent to the release of information by third parties as a condition of initial or continuing eligibility for participation in the program unless—
   - **(1)** the request for consent is made, and the information secured is maintained, in accordance with this section, 2 2 So in original. The comma probably should be “and”. section 552a of title 5 ; and
   - **(2)** the consent that is requested is appropriately limited, with respect to time and information relevant and necessary to meet the requirements of this section.
+
+## Source Credit
+
+*([Pub. L. 100–628, title IX, § 904](https://www.govinfo.gov/link/plaw/100/public/628), Nov. 7, 1988, [102 Stat. 3259](https://www.govinfo.gov/link/statute/102/3259); [Pub. L. 102–550, title IX, § 903(a)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3867](https://www.govinfo.gov/link/statute/106/3867); [Pub. L. 103–66, title III, § 3003](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 338](https://www.govinfo.gov/link/statute/107/338); [Pub. L. 105–276, title V, § 508(d)(2)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2529](https://www.govinfo.gov/link/statute/112/2529); [Pub. L. 106–74, title II, § 214(b)](https://www.govinfo.gov/link/plaw/106/public/74), Oct. 20, 1999, [113 Stat. 1074](https://www.govinfo.gov/link/statute/113/1074).)*

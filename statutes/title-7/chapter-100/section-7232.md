@@ -3,9 +3,10 @@ title: "Section 7232 - Loan rates for marketing assistance loans"
 usc_title: 7
 usc_section: "7232"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7232"
-generated_at: "2026-03-30T02:53:42.445Z"
+generated_at: "2026-11-23T21:25:28.418Z"
+status: "active"
 ---
 
 # § 7232. Loan rates for marketing assistance loans
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:53:42.445Z"
     - **(A)** not less than 85 percent of the simple average price received by producers of sunflower seed, individually, as determined by the Secretary, during the marketing years for the immediately preceding 5 crops of sunflower seed, individually, excluding the year in which the average price was the highest and the year in which the average price was the lowest in the period; but
     - **(B)** not less than $0.087 or more than $0.093 per pound.
   - **(3)** The loan rates for a marketing assistance loan under section 7231 of this title for other oilseeds shall be established at such level as the Secretary determines is fair and reasonable in relation to the loan rate available for soybeans, except in no event shall the rate for the oilseeds (other than cottonseed) be less than the rate established for soybeans on a per-pound basis for the same crop.
+
+## Source Credit
+
+*([Pub. L. 104–127, title I, § 132](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 905](https://www.govinfo.gov/link/statute/110/905).)*

@@ -3,9 +3,10 @@ title: "Section 20901 - Declaration of purpose"
 usc_title: 34
 usc_section: "20901"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20901"
-generated_at: "2026-03-30T02:55:33.300Z"
+generated_at: "2026-11-23T21:26:09.794Z"
+status: "active"
 ---
 
 # § 20901. Declaration of purpose
@@ -29,3 +30,7 @@ In order to protect the public from sex offenders and offenders against children
   - **(15)** Elizabeth Smart, who was 14 years old, was abducted in Salt Lake City, Utah in June 2002.
   - **(16)** Molly Bish, who was 16 years old, was abducted in 2000 while working as a lifeguard in Warren, Massachusetts, where her remains were found 3 years later.
   - **(17)** Samantha Runnion, who was 5 years old, was abducted, sexually assaulted, and murdered in California on July 15, 2002 .
+
+## Source Credit
+
+*([Pub. L. 109–248, title I, § 102](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 590](https://www.govinfo.gov/link/statute/120/590).)*

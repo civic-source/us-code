@@ -3,9 +3,10 @@ title: "Section 7704 - Policies and procedures relating to children residing on 
 usc_title: 20
 usc_section: "7704"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7704"
-generated_at: "2026-03-30T02:54:48.216Z"
+generated_at: "2026-11-23T21:25:47.603Z"
+status: "active"
 ---
 
 # § 7704. Policies and procedures relating to children residing on Indian lands
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:48.216Z"
   - **(8)** If the local educational agency rejects the determination of the Secretary, or if the remedy required is not undertaken within the time established and the Secretary determines that an extension of the time established will not effectively encourage the remedy required, the Secretary shall withhold payment of all moneys to which such local agency is eligible under section 7703 of this title until such time as the remedy required is undertaken, except where the complaining tribe or its designee formally requests that such funds be released to the local educational agency, except that the Secretary may not withhold such moneys during the course of the school year if the Secretary determines that such withholding would substantially disrupt the educational programs of the local educational agency.
   - **(9)** If the local educational agency rejects the determination of the Secretary and a tribe exercises the option under section 1101(d) of the Education Amendments of 1978, to have education services provided either directly by the Bureau of Indian Education or by contract with the Bureau of Indian Education, any Indian students affiliated with that tribe who wish to remain in attendance at the local educational agency against whom the complaint which led to the tribal action under such subsection (d) was lodged may be counted with respect to that local educational agency for the purpose of receiving funds under section 7703 of this title . In such event, funds under such section shall not be withheld pursuant to paragraph (8) and no further complaints with respect to such students may be filed under paragraph (1).
 - **(f)** This section is based upon the special relationship between the Indian nations and the United States and nothing in this section shall be construed to relieve any State of any duty with respect to any citizens of that State.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VII, § 7004](https://www.govinfo.gov/link/plaw/89/public/10), formerly title VIII, § 8004, as added [Pub. L. 103–382, title I, § 101](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 3759](https://www.govinfo.gov/link/statute/108/3759); renumbered title VII, § 7004, and amended [Pub. L. 114–95, title VII](https://www.govinfo.gov/link/plaw/114/public/95), §§ 7001(c)(1), (d)(2), 7005, Dec. 10, 2015, [129 Stat. 2074](https://www.govinfo.gov/link/statute/129/2074), 2086.)*

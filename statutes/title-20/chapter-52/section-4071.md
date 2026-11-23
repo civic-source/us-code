@@ -3,9 +3,10 @@ title: "Section 4071 - Denial of equal access prohibited"
 usc_title: 20
 usc_section: "4071"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 4071"
-generated_at: "2026-03-30T02:54:48.182Z"
+generated_at: "2026-11-23T21:25:47.434Z"
+status: "active"
 ---
 
 # § 4071. Denial of equal access prohibited
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:48.182Z"
   - **(7)** to abridge the constitutional rights of any person.
 - **(e)** Notwithstanding the availability of any other remedy under the Constitution or the laws of the United States, nothing in this subchapter shall be construed to authorize the United States to deny or withhold Federal financial assistance to any school.
 - **(f)** Nothing in this subchapter shall be construed to limit the authority of the school, its agents or employees, to maintain order and discipline on school premises, to protect the well-being of students and faculty, and to assure that attendance of students at meetings is voluntary.
+
+## Source Credit
+
+*([Pub. L. 98–377, title VIII, § 802](https://www.govinfo.gov/link/plaw/98/public/377), Aug. 11, 1984, [98 Stat. 1302](https://www.govinfo.gov/link/statute/98/1302).)*

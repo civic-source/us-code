@@ -3,9 +3,10 @@ title: "Section 3391 - Natural gas for essential agricultural uses"
 usc_title: 15
 usc_section: "3391"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3391"
-generated_at: "2026-03-30T02:54:08.189Z"
+generated_at: "2026-11-23T21:25:39.969Z"
+status: "active"
 ---
 
 # § 3391. Natural gas for essential agricultural uses
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.189Z"
     - **(B)** uses natural gas in a commercial establishment in amounts of less than 50 Mcf on a peak day;
     - **(C)** uses natural gas in any school, hospital, or similar institution; or
     - **(D)** uses natural gas in any other use the curtailment of which the Secretary of Energy determines would endanger life, health, or maintenance of physical property.
+
+## Source Credit
+
+*([Pub. L. 95–621, title IV, § 401](https://www.govinfo.gov/link/plaw/95/public/621), Nov. 9, 1978, [92 Stat. 3394](https://www.govinfo.gov/link/statute/92/3394).)*

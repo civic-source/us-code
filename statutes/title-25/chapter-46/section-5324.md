@@ -3,9 +3,10 @@ title: "Section 5324 - Contract or grant provisions and administration"
 usc_title: 25
 usc_section: "5324"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5324"
-generated_at: "2026-03-30T02:54:52.866Z"
+generated_at: "2026-11-23T21:25:54.723Z"
+status: "active"
 ---
 
 # § 5324. Contract or grant provisions and administration
@@ -102,3 +103,9 @@ generated_at: "2026-03-30T02:54:52.866Z"
 - **(q)**
   - **(1)** 3 3 So in original. The heading of par. (1) was probably meant for subsec. (q), the heading of which was editorially supplied. In considering proposals for, amendments to, or in the course of, a contract under this subchapter and compacts under subchapters IV and V of this chapter, if the Secretary determines that the Indian Tribe lacks adequate internal controls necessary to manage the contracted program or programs, the Secretary shall, as soon as practicable, provide the necessary technical assistance to assist the Indian Tribe in developing adequate internal controls. As part of that technical assistance, the Secretary and the Tribe shall develop a plan for assessing the subsequent effectiveness of such technical assistance. The inability of the Secretary to provide technical assistance or lack of a plan under this subsection shall not result in the reassumption of an existing agreement, contract, or compact, or declination or rejection of a new agreement, contract, or compact.
   - **(2)** The Secretary shall prepare a report to be included in the information required for the reports under sections 5372(b)(2)(A) and 5394(b)(2)(A) of this title. The Secretary shall include in this report, in the aggregate, a description of the internal controls that were inadequate, the technical assistance provided, and a description of Secretarial actions taken to address any remaining inadequate internal controls after the provision of technical assistance and implementation of the plan required by paragraph (1).
+
+Technical Assistance for Internal Controls
+
+## Source Credit
+
+*([Pub. L. 93–638, title I, § 105](https://www.govinfo.gov/link/plaw/93/public/638), formerly § 106, Jan. 4, 1975, [88 Stat. 2210](https://www.govinfo.gov/link/statute/88/2210); renumbered § 105 and amended [Pub. L. 100–472, title II, § 204](https://www.govinfo.gov/link/plaw/100/public/472), Oct. 5, 1988, [102 Stat. 2291](https://www.govinfo.gov/link/statute/102/2291); [Pub. L. 101–301, § 2(a)(7)](https://www.govinfo.gov/link/plaw/101/public/301), May 24, 1990, [104 Stat. 207](https://www.govinfo.gov/link/statute/104/207); [Pub. L. 101–644, title II, § 203(c)](https://www.govinfo.gov/link/plaw/101/public/644) –(e), Nov. 29, 1990, [104 Stat. 4666](https://www.govinfo.gov/link/statute/104/4666); [Pub. L. 103–413, title I](https://www.govinfo.gov/link/plaw/103/public/413), §§ 102(10)–(13), 106, Oct. 25, 1994, [108 Stat. 4253–4255](https://www.govinfo.gov/link/statute/108/4253), 4270; [Pub. L. 104–109, § 7](https://www.govinfo.gov/link/plaw/104/public/109), Feb. 12, 1996, [110 Stat. 764](https://www.govinfo.gov/link/statute/110/764); [Pub. L. 106–260](https://www.govinfo.gov/link/plaw/106/public/260), §§ 7, 8, Aug. 18, 2000, [114 Stat. 732](https://www.govinfo.gov/link/statute/114/732), 733; [Pub. L. 116–180, title II, § 203](https://www.govinfo.gov/link/plaw/116/public/180), Oct. 21, 2020, [134 Stat. 880](https://www.govinfo.gov/link/statute/134/880).)*

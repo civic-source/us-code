@@ -3,9 +3,10 @@ title: "Section 2326 - Native American programs"
 usc_title: 20
 usc_section: "2326"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 2326"
-generated_at: "2026-03-30T02:54:48.174Z"
+generated_at: "2026-11-23T21:25:47.380Z"
+status: "active"
 ---
 
 # § 2326. Native American programs
@@ -41,3 +42,11 @@ generated_at: "2026-03-30T02:54:48.174Z"
   - **(1)** to limit the eligibility of any organization, Tribe, or entity described in subsection (b) to participate in any activity offered by an eligible agency or eligible recipient under this subchapter; or
   - **(2)** to preclude or discourage any agreement, between any organization, Tribe, or entity described in subsection (b) and any eligible agency or eligible recipient, to facilitate the provision of services by such eligible agency or eligible recipient to the population served by such eligible agency or eligible recipient.
 - **(h)** From the funds reserved pursuant to section 2321(a)(1)(B)(ii) of this title , the Secretary shall award grants to or enter into contracts with community-based organizations primarily serving and representing Native Hawaiians to plan, conduct, and administer programs, or portions thereof, which are authorized by and consistent with the provisions of this section for the benefit of Native Hawaiians.
+
+Indian tribes and tribal organizations
+
+Indian tribes and tribal organizations
+
+## Source Credit
+
+*([Pub. L. 88–210, title I, § 116](https://www.govinfo.gov/link/plaw/88/public/210), as added [Pub. L. 109–270, § 1(b)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 707](https://www.govinfo.gov/link/statute/120/707); amended [Pub. L. 114–95, title IX, § 9215(n)(5)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2169](https://www.govinfo.gov/link/statute/129/2169); [Pub. L. 115–224, title I, § 115](https://www.govinfo.gov/link/plaw/115/public/224), July 31, 2018, [132 Stat. 1598](https://www.govinfo.gov/link/statute/132/1598).)*

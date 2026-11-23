@@ -3,9 +3,10 @@ title: "Section 4856 - Reports of Secretary of Housing and Urban Development"
 usc_title: 42
 usc_section: "4856"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4856"
-generated_at: "2026-03-30T02:56:11.210Z"
+generated_at: "2026-11-23T21:26:32.697Z"
+status: "active"
 ---
 
 # § 4856. Reports of Secretary of Housing and Urban Development
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.210Z"
     - **(D)** identify the infrastructure needed to eliminate lead-based paint hazards in all housing as expeditiously as possible, including cost-effective technology, standards and regulations, trained and certified contractors, certified laboratories, liability insurance, private financing techniques, and appropriate Government subsidies;
     - **(E)** assess the extent to which the infrastructure described in subparagraph (D) exists, make recommendations to correct shortcomings, and provide estimates of the costs of measures needed to build an adequate infrastructure; and
     - **(F)** include any additional information that the Secretary deems appropriate.
+
+## Source Credit
+
+*([Pub. L. 102–550, title X, § 1061](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3926](https://www.govinfo.gov/link/statute/106/3926).)*

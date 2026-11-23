@@ -3,12 +3,17 @@ title: "Section 115 - Leases and permits; prehistoric ruins not included"
 usc_title: 16
 usc_section: "115"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 115"
-generated_at: "2026-03-30T02:54:22.734Z"
+generated_at: "2026-11-23T21:25:51.380Z"
+status: "active"
 ---
 
 # § 115. Leases and permits; prehistoric ruins not included
 
 The Secretary of the Interior may, upon terms and conditions to be fixed by him, grant leases and permits for the use of the land or development of the resources thereof, in the Mesa Verde National Park, and the funds derived therefrom shall be covered into the Treasury of the United States. Such leases or grants shall not include any of the prehistoric ruins in said park or exclude the public from free or convenient access thereto.
 
+
+## Source Credit
+
+*(June 25, 1910, ch. 385, § 1, [36 Stat. 796](https://www.govinfo.gov/link/statute/36/796).)*

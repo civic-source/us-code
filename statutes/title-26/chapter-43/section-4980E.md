@@ -3,9 +3,10 @@ title: "Section 4980E - Failure of employer to make comparable Archer MSA contri
 usc_title: 26
 usc_section: "4980E"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4980E"
-generated_at: "2026-03-30T02:55:27.814Z"
+generated_at: "2026-11-23T21:26:06.675Z"
+status: "active"
 ---
 
 # § 4980E. Failure of employer to make comparable Archer MSA contributions
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:27.814Z"
     - **(B)** For purposes of subparagraph (A), the term “part-time employee” means any employee who is customarily employed for fewer than 30 hours per week.
 - **(e)** For purposes of this section, all persons treated as a single employer under subsection (b), (c), (m), or ( o ) of section 414 shall be treated as 1 employer.
 - **(f)** Terms used in this section which are also used in section 220 have the respective meanings given such terms in section 220.
+
+## Source Credit
+
+*(Added [Pub. L. 104–191, title III, § 301(c)(4)(A)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 2049](https://www.govinfo.gov/link/statute/110/2049); amended [Pub. L. 106–554, § 1(a)(7) [title II, § 202(a)(8), (b)(2)(D)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–629; [Pub. L. 107–147, title IV, § 417(17)(A)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 56](https://www.govinfo.gov/link/statute/116/56).)*

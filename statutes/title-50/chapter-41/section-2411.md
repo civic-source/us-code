@@ -3,9 +3,10 @@ title: "Section 2411 - Director for Cost Estimating and Program Evaluation"
 usc_title: 50
 usc_section: "2411"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2411"
-generated_at: "2026-03-30T02:56:26.224Z"
+generated_at: "2026-11-23T21:26:38.974Z"
+status: "active"
 ---
 
 # § 2411. Director for Cost Estimating and Program Evaluation
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:56:26.224Z"
     - **(A)** the total project cost of which is more than $500,000,000; or
     - **(B)** the total lifetime cost of which is more than $1,000,000,000.
   - **(3)** The term “performance baseline”, with respect to a major atomic energy defense acquisition program, means the key parameters with respect to performance, scope, cost, and schedule for the project budget of the program.
+
+## Source Credit
+
+*([Pub. L. 106–65, div. C, title XXXII, § 3221](https://www.govinfo.gov/link/plaw/106/public/65), as added [Pub. L. 113–66, div. C, title XXXI, § 3112(a)(1)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 1050](https://www.govinfo.gov/link/statute/127/1050); amended [Pub. L. 113–291, div. C, title XXXI, § 3117](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3889](https://www.govinfo.gov/link/statute/128/3889); [Pub. L. 115–232, div. C, title XXXI, § 3113(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2290](https://www.govinfo.gov/link/statute/132/2290); [Pub. L. 116–92, div. C, title XXXI, § 3113(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1950](https://www.govinfo.gov/link/statute/133/1950).)*

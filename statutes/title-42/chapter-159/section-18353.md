@@ -3,9 +3,10 @@ title: "Section 18353 - Maintenance of the United States segment and assurance o
 usc_title: 42
 usc_section: "18353"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18353"
-generated_at: "2026-03-30T02:56:11.519Z"
+generated_at: "2026-11-23T21:26:33.821Z"
+status: "active"
 ---
 
 # § 18353. Maintenance of the United States segment and assurance of continued operations of the International Space Station
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:56:11.519Z"
 - **(f)**
   - **(1)** The Administrator shall take all actions necessary to preserve Space Shuttle launch capability through fiscal year 2011 in a manner that enables the launch, at a minimum, of missions and primary payloads in the Shuttle flight manifest as of February 28, 2010 .
   - **(2)** The Administrator may not terminate any contract that provides the system transitions necessary for shuttle-derived hardware to be used on either the multi-purpose crew vehicle described in section 18323 of this title or the Space Launch System described in section 18322 of this title .
+
+## Source Credit
+
+*([Pub. L. 111–267, title V, § 503](https://www.govinfo.gov/link/plaw/111/public/267), Oct. 11, 2010, [124 Stat. 2823](https://www.govinfo.gov/link/statute/124/2823); [Pub. L. 114–90, title I, § 114(b)(2)](https://www.govinfo.gov/link/plaw/114/public/90), Nov. 25, 2015, [129 Stat. 716](https://www.govinfo.gov/link/statute/129/716); [Pub. L. 117–167, div. B, title VII, § 10815(b)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1737](https://www.govinfo.gov/link/statute/136/1737).)*

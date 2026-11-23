@@ -3,9 +3,10 @@ title: "Section 825d - Officials dealing in securities"
 usc_title: 16
 usc_section: "825d"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 825d"
-generated_at: "2026-03-30T02:54:22.920Z"
+generated_at: "2026-11-23T21:25:51.768Z"
+status: "active"
 ---
 
 # § 825d. Officials dealing in securities
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:22.920Z"
   - **(3)** For purposes of this subsection—
     - **(A)** The term “public utility” includes any company which is a part of a holding company system which includes a registered holding company, unless no company in such system is an electric utility.
     - **(B)** The terms “holding company”, “registered holding company”, and “holding company system” have the same meaning as when used in the Public Utility Holding Company Act of 1935. 1 1 See References in Text note below.
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. III, § 305, as added Aug. 26, 1935, ch. 687, title II, § 213, [49 Stat. 856](https://www.govinfo.gov/link/statute/49/856); amended [Pub. L. 95–617, title II, § 211(a)](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3147](https://www.govinfo.gov/link/statute/92/3147); [Pub. L. 106–102, title VII, § 737](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1479](https://www.govinfo.gov/link/statute/113/1479).)*

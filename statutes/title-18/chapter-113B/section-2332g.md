@@ -3,9 +3,10 @@ title: "Section 2332g - Missile systems designed to destroy aircraft"
 usc_title: 18
 usc_section: "2332g"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2332g"
-generated_at: "2026-03-30T02:54:16.503Z"
+generated_at: "2026-11-23T21:25:44.146Z"
+status: "active"
 ---
 
 # § 2332g. Missile systems designed to destroy aircraft
@@ -32,3 +33,27 @@ generated_at: "2026-03-30T02:54:16.503Z"
   - **(2)** Any person who, in the course of a violation of subsection (a), uses, attempts or conspires to use, or possesses and threatens to use, any item or items described in subsection (a), shall be fined not more than $2,000,000 and imprisoned for not less than 30 years or imprisoned for life.
   - **(3)** If the death of another results from a person’s violation of subsection (a), the person shall be fined not more than $2,000,000 and punished by imprisonment for life.
 - **(d)** As used in this section, the term “aircraft” has the definition set forth in section 40102(a)(6) of title 49 , United States Code.
+
+Unlawful Conduct.—
+
+In general
+
+Nonweapon
+
+Excluded conduct
+
+Jurisdiction
+
+Criminal Penalties.—
+
+In general
+
+Other circumstances
+
+Special circumstances
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 108–458, title VI, § 6903](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3770](https://www.govinfo.gov/link/statute/118/3770).)*

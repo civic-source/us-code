@@ -3,9 +3,10 @@ title: "Section 2403 - Functions of Commission"
 usc_title: 12
 usc_section: "2403"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2403"
-generated_at: "2026-03-30T02:53:53.485Z"
+generated_at: "2026-11-23T21:25:37.101Z"
+status: "active"
 ---
 
 # § 2403. Functions of Commission
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:53.485Z"
   - **(9)** the need to protect the legal rights of users and consumers.
 - **(b)** The Commission shall make an interim report within one year of the date of the confirmation by the Senate of the Chairperson or the appointment by the President of an acting Chairperson and at such other times as it deems advisable and shall transmit to the President and to the Congress not later than two years after the date of the confirmation by the Senate of the Chairperson or the appointment by the President of an acting Chairperson, a final report of its findings and recommendations. Any such report shall include all hearing transcripts, staff studies, and other material used in preparation of the report. The interim and final reports shall be made available to the public upon transmittal. Sixty days after transmission of its final report the Commission shall cease to exist.
 - **(c)** The Commission shall not be required to obtain the clearance of any Federal agency prior to the transmittal of any interim or final report.
+
+## Source Credit
+
+*([Pub. L. 93–495, title II, § 203](https://www.govinfo.gov/link/plaw/93/public/495), Oct. 28, 1974, [88 Stat. 1508](https://www.govinfo.gov/link/statute/88/1508); [Pub. L. 94–200, title II, § 201](https://www.govinfo.gov/link/plaw/94/public/200), Dec. 31, 1975, [89 Stat. 1124](https://www.govinfo.gov/link/statute/89/1124).)*

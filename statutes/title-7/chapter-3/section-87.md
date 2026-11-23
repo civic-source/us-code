@@ -3,9 +3,10 @@ title: "Section 87 - Conflicts of interest"
 usc_title: 7
 usc_section: "87"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 87"
-generated_at: "2026-03-30T02:53:42.254Z"
+generated_at: "2026-11-23T21:25:27.879Z"
+status: "active"
 ---
 
 # § 87. Conflicts of interest
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.254Z"
   - **(4)** If a State or local governmental agency is delegated authority to perform official inspection or official weighing or supervision of weighing, or a State or local governmental agency is designated as an official agency, the Secretary shall specify the officials and other personnel thereof to which the conflict of interest provisions of this subsection (b) apply.
   - **(5)** Notwithstanding the foregoing provisions of this subsection, the Secretary may delegate authority to a State agency or designate a governmental agency, board of trade, chamber of commerce, or grain exchange to perform official inspection or perform official weighing or supervision of weighing except that for purposes of supervision of weighing only, the Secretary may also designate any other person, if the Secretary determines that any conflict of interest which may exist between the agency or person or any member, director, officer, employee, or stockholder thereof and any business involving the transportation, storage, merchandising, or other handling of grain or use of official inspection or weighing service is not such as to jeopardize the integrity or the effective and objective operation of the functions performed by such agency. Whenever the Secretary makes such a determination and makes a delegation or designation to an agency that has a conflict of interest otherwise prohibited by this subsection, the Secretary shall, within thirty days after making such a determination, submit a report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, detailing the factual bases for such determination.
 - **(c)** The provisions of this section shall not prevent an official agency or State agency delegated authority under this chapter from engaging in the business of weighing grain.
+
+## Source Credit
+
+*(Aug. 11, 1916, ch. 313, pt. B, § 11, [39 Stat. 485](https://www.govinfo.gov/link/statute/39/485); [Pub. L. 90–487, § 1](https://www.govinfo.gov/link/plaw/90/public/487), Aug. 15, 1968, [82 Stat. 766](https://www.govinfo.gov/link/statute/82/766); [Pub. L. 94–582, § 13](https://www.govinfo.gov/link/plaw/94/public/582), Oct. 21, 1976, [90 Stat. 2880](https://www.govinfo.gov/link/statute/90/2880); [Pub. L. 95–113, title XVI](https://www.govinfo.gov/link/plaw/95/public/113), §§ 1604(h), 1606(g), Sept. 29, 1977, [91 Stat. 1028](https://www.govinfo.gov/link/statute/91/1028), 1030; [Pub. L. 103–156, § 12(j)](https://www.govinfo.gov/link/plaw/103/public/156), Nov. 24, 1993, [107 Stat. 1529](https://www.govinfo.gov/link/statute/107/1529); [Pub. L. 103–354, title II, § 293(a)(7)](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3237](https://www.govinfo.gov/link/statute/108/3237); [Pub. L. 103–437, § 4(a)(1)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4581](https://www.govinfo.gov/link/statute/108/4581).)*

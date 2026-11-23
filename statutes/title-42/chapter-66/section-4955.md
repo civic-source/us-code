@@ -3,9 +3,10 @@ title: "Section 4955 - Support services"
 usc_title: 42
 usc_section: "4955"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4955"
-generated_at: "2026-03-30T02:56:11.211Z"
+generated_at: "2026-11-23T21:26:32.704Z"
+status: "active"
 ---
 
 # § 4955. Support services
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.211Z"
     - **(A)** make child care available for children of each volunteer enrolled under this part who need such child care in order to participate as volunteers; or
     - **(B)** provide a child care allowance to each such volunteer who needs such assistance in order to participate as volunteers.
   - **(2)** The Corporation shall establish guidelines regarding the circumstances under which child care shall be made available under this subsection and the value of any child care allowance to be provided.
+
+## Source Credit
+
+*([Pub. L. 93–113, title I, § 105](https://www.govinfo.gov/link/plaw/93/public/113), Oct. 1, 1973, [87 Stat. 398](https://www.govinfo.gov/link/statute/87/398); [Pub. L. 94–130, § 5(a)](https://www.govinfo.gov/link/plaw/94/public/130), Nov. 14, 1975, [89 Stat. 684](https://www.govinfo.gov/link/statute/89/684); [Pub. L. 96–143, § 3](https://www.govinfo.gov/link/plaw/96/public/143), Dec. 13, 1979, [93 Stat. 1074](https://www.govinfo.gov/link/statute/93/1074); [Pub. L. 98–288, § 6](https://www.govinfo.gov/link/plaw/98/public/288), May 21, 1984, [98 Stat. 191](https://www.govinfo.gov/link/statute/98/191); [Pub. L. 99–551, § 10(i)(1)](https://www.govinfo.gov/link/plaw/99/public/551), Oct. 27, 1986, [100 Stat. 3078](https://www.govinfo.gov/link/statute/100/3078); [Pub. L. 101–204, title I, § 102](https://www.govinfo.gov/link/plaw/101/public/204), Dec. 7, 1989, [103 Stat. 1811](https://www.govinfo.gov/link/statute/103/1811); [Pub. L. 103–82, title III, § 325](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 901](https://www.govinfo.gov/link/statute/107/901); [Pub. L. 111–13, title II, § 2103](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1583](https://www.govinfo.gov/link/statute/123/1583).)*

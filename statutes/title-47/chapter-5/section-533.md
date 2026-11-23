@@ -3,9 +3,10 @@ title: "Section 533 - Ownership restrictions"
 usc_title: 47
 usc_section: "533"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 533"
-generated_at: "2026-03-30T02:56:24.517Z"
+generated_at: "2026-11-23T21:26:36.030Z"
+status: "active"
 ---
 
 # § 533. Ownership restrictions
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:24.517Z"
     - **(G)** not impose limitations which would impair the development of diverse and high quality video programming.
 - **(g)** This section shall not apply to prohibit any combination of any interests held by any person on July 1, 1984 , to the extent of the interests so held as of such date, if the holding of such interests was not inconsistent with any applicable Federal or State law or regulations in effect on that date.
 - **(h)** For purposes of this section, the term “media of mass communications” shall have the meaning given such term under section 309(i)(3)(C)(i) of this title .
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VI, § 613, as added [Pub. L. 98–549, § 2](https://www.govinfo.gov/link/plaw/98/public/549), Oct. 30, 1984, [98 Stat. 2785](https://www.govinfo.gov/link/statute/98/2785); amended [Pub. L. 102–385, § 11](https://www.govinfo.gov/link/plaw/102/public/385), Oct. 5, 1992, [106 Stat. 1486](https://www.govinfo.gov/link/statute/106/1486); [Pub. L. 103–414, title III, § 303(a)(22)](https://www.govinfo.gov/link/plaw/103/public/414), Oct. 25, 1994, [108 Stat. 4295](https://www.govinfo.gov/link/statute/108/4295); [Pub. L. 104–104, title II, § 202(i)](https://www.govinfo.gov/link/plaw/104/public/104), title III, §§ 302(b)(1), Feb. 8, 1996, [110 Stat. 112](https://www.govinfo.gov/link/statute/110/112), 124.)*

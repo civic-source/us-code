@@ -3,9 +3,10 @@ title: "Section 130e - Treatment under Freedom of Information Act of certain cri
 usc_title: 10
 usc_section: "130e"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 130e"
-generated_at: "2026-03-30T02:53:38.035Z"
+generated_at: "2026-11-23T21:25:32.215Z"
+status: "active"
 ---
 
 # § 130e. Treatment under Freedom of Information Act of certain critical infrastructure security information
@@ -21,3 +22,17 @@ generated_at: "2026-03-30T02:53:38.035Z"
     - **(B)** If a person requests pursuant to a State or local law that a State or local government disclose information that is designated as Department of Defense critical infrastructure security information under subsection (b), the State or local government shall provide the Secretary an opportunity to carry out the determination process under subsection (a) to determine whether to exempt such information from disclosure pursuant to subparagraph (A).
 - **(d)** Each determination of the Secretary under subsection (a) shall be made in writing and accompanied by a statement of the basis for the determination. All such determinations and statements of basis shall be available to the public, upon request.
 - **(e)** In this section, the term “Department of Defense critical infrastructure security information” means sensitive but unclassified information that, if disclosed, would reveal vulnerabilities in Department of Defense critical infrastructure that, if exploited, would likely result in the significant disruption, destruction, or damage of or to Department of Defense operations, property, or facilities, including information regarding the securing and safeguarding of explosives, hazardous chemicals, or pipelines, related to critical infrastructure or protected systems owned or operated by or on behalf of the Department of Defense, including vulnerability assessments prepared by or on behalf of the Department of Defense, explosives safety information (including storage and handling), and other site-specific information on or relating to installation security.
+
+Exemption
+
+Designation of Department of Defense Critical Infrastructure Security Information
+
+Information Provided to State and Local Governments
+
+Transparency
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 112–81, div. A, title X, § 1091(a)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1604](https://www.govinfo.gov/link/statute/125/1604); amended [Pub. L. 114–92, div. A, title X, § 1081(a)(2)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1000](https://www.govinfo.gov/link/statute/129/1000); [Pub. L. 114–328, div. A, title XVI, § 1662(b)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2614](https://www.govinfo.gov/link/statute/130/2614); [Pub. L. 118–31, div. A, title IX, § 901(e)(1)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 355](https://www.govinfo.gov/link/statute/137/355).)*

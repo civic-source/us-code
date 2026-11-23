@@ -3,9 +3,10 @@ title: "Section 2002 - Definitions"
 usc_title: 30
 usc_section: "2002"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 2002"
-generated_at: "2026-03-30T02:55:29.410Z"
+generated_at: "2026-11-23T21:26:00.452Z"
+status: "active"
 ---
 
 # § 2002. Definitions
@@ -22,3 +23,7 @@ In this chapter:
   - **(8)** The term “Secretary of Commerce” means the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration.
   - **(9)** The term “Secretary of Defense” means the Secretary of Defense, acting through the Secretary of the Navy.
   - **(10)** The term “Secretary of the Interior” means the Secretary of the Interior, acting through the Director of the United States Geological Survey, the Director of the Bureau of Land Management, and the Director of the Minerals Management Service.
+
+## Source Credit
+
+*([Pub. L. 106–193, § 3](https://www.govinfo.gov/link/plaw/106/public/193), as added [Pub. L. 109–58, title IX, § 968(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 895](https://www.govinfo.gov/link/statute/119/895).)*

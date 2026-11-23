@@ -3,9 +3,10 @@ title: "Section 118 - Materiel readiness metrics and materiel readiness objectiv
 usc_title: 10
 usc_section: "118"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 118"
-generated_at: "2026-03-30T02:53:38.031Z"
+generated_at: "2026-11-23T21:25:32.206Z"
+status: "active"
 ---
 
 # § 118. Materiel readiness metrics and materiel readiness objectives for major weapon systems
@@ -31,3 +32,21 @@ generated_at: "2026-03-30T02:53:38.031Z"
   - **(4)** The term “materiel reliability” means the probability that a major weapon system will perform without failure over a specified interval.
   - **(5)** The term “operational availability” means a measure of the percentage of time a major weapon system is operationally capable.
   - **(6)** The term “operationally capable” means a materiel condition indicating that a major weapon system is capable of performing its assigned mission and has no discrepancies with a subsystem of a major weapon system.
+
+Materiel Readiness Metrics
+
+Required Metrics
+
+Materiel Readiness Objectives
+
+Budget Justification
+
+Funding Estimates
+
+Definitions
+
+“The Director of Cost Assessment and Performance Evaluation may meet the requirements of subsection (e) of section 118 of title 10 , United States Code, as added by subsection (a), through a phased submission of the funding estimates required under such subsection. In conducting a phased implementation, the Director shall ensure that—
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. A, title III, § 351(a)(1)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1319](https://www.govinfo.gov/link/statute/133/1319); amended [Pub. L. 116–283, div. A, title III, § 347(a)](https://www.govinfo.gov/link/plaw/116/public/283), title X, § 1081(a)(6), title XVIII, § 1883(b)(2), Jan. 1, 2021, [134 Stat. 3540](https://www.govinfo.gov/link/statute/134/3540), 3871, 4294; [Pub. L. 117–263, div. A, title III, § 351(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2532](https://www.govinfo.gov/link/statute/136/2532); [Pub. L. 119–60, div. A, title VIII, § 811(c)(2)(A)](https://www.govinfo.gov/link/plaw/119/public/60), title XVIII, § 1803(d), Dec. 18, 2025, [139 Stat. 950](https://www.govinfo.gov/link/statute/139/950), 1233.)*

@@ -3,9 +3,10 @@ title: "Section 6672 - Failure to collect and pay over tax, or attempt to evade 
 usc_title: 26
 usc_section: "6672"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6672"
-generated_at: "2026-03-30T02:55:27.862Z"
+generated_at: "2026-11-23T21:26:06.915Z"
+status: "active"
 ---
 
 # § 6672. Failure to collect and pay over tax, or attempt to evade or defeat tax
@@ -34,3 +35,13 @@ generated_at: "2026-03-30T02:55:27.862Z"
   - **(1)** is solely serving in an honorary capacity,
   - **(2)** does not participate in the day-to-day or financial operations of the organization, and
   - **(3)** does not have actual knowledge of the failure on which such penalty is imposed.
+
+In general
+
+Development of explanatory materials
+
+IRS instructions
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 828; [Pub. L. 95–628, § 9(a)](https://www.govinfo.gov/link/plaw/95/public/628), Nov. 10, 1978, [92 Stat. 3633](https://www.govinfo.gov/link/statute/92/3633); [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7721(c)(9), 7737(a), Dec. 19, 1989, [103 Stat. 2400](https://www.govinfo.gov/link/statute/103/2400), 2404; [Pub. L. 104–168, title IX](https://www.govinfo.gov/link/plaw/104/public/168), §§ 901(a), 903(a), 904(a), July 30, 1996, [110 Stat. 1465–1467](https://www.govinfo.gov/link/statute/110/1465); [Pub. L. 105–206, title III, § 3307(a)](https://www.govinfo.gov/link/plaw/105/public/206), (b), July 22, 1998, [112 Stat. 744](https://www.govinfo.gov/link/statute/112/744); [Pub. L. 115–141, div. U, title IV, § 401(a)(325)(D)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1200](https://www.govinfo.gov/link/statute/132/1200).)*

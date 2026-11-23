@@ -3,9 +3,10 @@ title: "Section 9412 - Local applications"
 usc_title: 20
 usc_section: "9412"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9412"
-generated_at: "2026-03-30T02:54:48.226Z"
+generated_at: "2026-11-23T21:25:47.655Z"
+status: "active"
 ---
 
 # § 9412. Local applications
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:48.226Z"
   - **(1)** a needs and resources assessment concerning early learning services and a statement describing how early learning programs will be funded consistent with the assessment;
   - **(2)** a statement of how the Local Council will ensure that early learning programs will meet the performance goals reported by the Lead State Agency under this chapter; and
   - **(3)** a description of how the Local Council will form collaboratives among local youth, social service, and educational providers to maximize resources and concentrate efforts on areas of greatest need.
+
+## Source Credit
+
+*([Pub. L. 106–554, § 1(a)(1) [title VIII, § 813]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–88.)*

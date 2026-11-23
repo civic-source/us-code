@@ -3,9 +3,10 @@ title: "Section 10251 - Authorization to provide technical assistance for effort
 usc_title: 22
 usc_section: "10251"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10251"
-generated_at: "2026-03-30T02:55:05.476Z"
+generated_at: "2026-11-23T21:25:58.795Z"
+status: "active"
 ---
 
 # § 10251. Authorization to provide technical assistance for efforts against human rights abuses
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.476Z"
   - **(3)** conduct criminal investigations of such crimes; and
   - **(4)** support investigations related to Burma conducted by other countries, and by entities mandated by the United Nations, such as the Independent Investigative Mechanism for Myanmar.
 - **(b)** The Secretary of State, taking into account any relevant findings in the report submitted under section 5941, 1 1 See References in Text note below. is authorized to provide support for the establishment and operation of transitional justice mechanisms, including a hybrid tribunal, to prosecute individuals suspected of committing war crimes, crimes against humanity, or genocide in Burma.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. E, title LV, § 5578](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3370](https://www.govinfo.gov/link/statute/136/3370).)*

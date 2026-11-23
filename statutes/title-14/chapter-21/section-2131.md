@@ -3,9 +3,10 @@ title: "Section 2131 - College student pre-commissioning initiative"
 usc_title: 14
 usc_section: "2131"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 2131"
-generated_at: "2026-03-30T02:53:51.498Z"
+generated_at: "2026-11-23T21:25:35.418Z"
+status: "active"
 ---
 
 # § 2131. College student pre-commissioning initiative
@@ -42,3 +43,53 @@ generated_at: "2026-03-30T02:53:51.498Z"
       - **(iii)** gender;
       - **(iv)** geographic origin; and
       - **(v)** educational institution.
+
+In General
+
+Criteria for Selection
+
+Age
+
+Character.—
+
+All applicants
+
+Coast guard applicants
+
+Citizenship
+
+Clearance
+
+Dependency.—
+
+In general
+
+Sole custody
+
+Education.—
+
+Institution
+
+Location
+
+Records
+
+Medical and administrative
+
+Enlistment and Obligation
+
+Military Activities Prior to Officer Candidate School
+
+Participation in Officer Candidate School
+
+Commissioning
+
+Briefing.—
+
+In general
+
+Contents
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. G, title LVXXXII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXII], § 8276(a), Jan. 1, 2021, [134 Stat. 4685](https://www.govinfo.gov/link/statute/134/4685).)*

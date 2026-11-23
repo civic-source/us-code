@@ -3,9 +3,10 @@ title: "Section 1352 - Definitions"
 usc_title: 15
 usc_section: "1352"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1352"
-generated_at: "2026-03-30T02:54:08.134Z"
+generated_at: "2026-11-23T21:25:39.818Z"
+status: "active"
 ---
 
 # § 1352. Definitions
@@ -22,3 +23,7 @@ For the purposes of this chapter—
 - **(e)** “Secretary” means the Secretary of Commerce.
 - **(f)** “State” means one of the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam or the Virgin Islands.
 - **(g)** “Governor”, in the case of the District of Columbia, means the Board of Commissioners of the District of Columbia.
+
+## Source Credit
+
+*([Pub. L. 89–182, § 2](https://www.govinfo.gov/link/plaw/89/public/182), Sept. 14, 1965, [79 Stat. 679](https://www.govinfo.gov/link/statute/79/679); [Pub. L. 89–771](https://www.govinfo.gov/link/plaw/89/public/771), Nov. 6, 1966, [80 Stat. 1322](https://www.govinfo.gov/link/statute/80/1322); [Pub. L. 96–88, title III, § 301(a)(1)](https://www.govinfo.gov/link/plaw/96/public/88), title V, § 507, Oct. 17, 1979, [93 Stat. 677](https://www.govinfo.gov/link/statute/93/677), 692.)*

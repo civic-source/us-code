@@ -3,9 +3,10 @@ title: "Section 2201b - Commission workforce"
 usc_title: 42
 usc_section: "2201b"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2201b"
-generated_at: "2026-03-30T02:56:11.155Z"
+generated_at: "2026-11-23T21:26:32.367Z"
+status: "active"
 ---
 
 # § 2201b. Commission workforce
@@ -80,3 +81,7 @@ generated_at: "2026-03-30T02:56:11.155Z"
   - **(1)** Except as provided in paragraph (2), the authorities provided by subsections (a) and (b) shall terminate on September 30, 2034 .
   - **(2)** If, no later than the date referenced in paragraph (1), the Commission issues a certification that the authorities provided by subsection (a), subsection (b), or both subsections are necessary for the Commission to carry out its responsibilities and activities in a timely, efficient, and effective manner, the authorities provided by the applicable subsection shall terminate on September 30, 2039 .
   - **(3)** The termination of the authorities provided by subsections (a) and (b) shall not affect the compensation of an employee or other personnel serving in a covered position whose compensation was fixed by the Chairman in accordance with subsection (a) or (b).
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 161B, as added [Pub. L. 118–67, div. B, title V, § 502(a)(1)](https://www.govinfo.gov/link/plaw/118/public/67), July 9, 2024, [138 Stat. 1471](https://www.govinfo.gov/link/statute/138/1471).)*

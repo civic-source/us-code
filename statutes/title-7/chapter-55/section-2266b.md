@@ -3,9 +3,10 @@ title: "Section 2266b - Eligibility for operators on heirs property land to obta
 usc_title: 7
 usc_section: "2266b"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2266b"
-generated_at: "2026-03-30T02:53:42.382Z"
+generated_at: "2026-11-23T21:25:28.289Z"
+status: "active"
 ---
 
 # § 2266b. Eligibility for operators on heirs property land to obtain a farm number
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:42.382Z"
   - **(1)** The Secretary shall provide for the assignment of a farm number to any farm operator who provides any form of eligible documentation for purposes of demonstrating that the farm operator has control of the land for purposes of defining that land as a farm.
   - **(2)** Any farm number provided under paragraph (1) shall be sufficient to satisfy any requirement of the Secretary to have a farm number to participate in a program of the Secretary.
 - **(c)** The Secretary shall identify alternative forms of eligible documentation that a farm operator may provide in seeking the assignment of a farm number under subsection (b)(1).
+
+## Source Credit
+
+*([Pub. L. 115–334, title XII, § 12615](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 5014](https://www.govinfo.gov/link/statute/132/5014).)*

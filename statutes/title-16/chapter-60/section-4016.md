@@ -3,9 +3,10 @@ title: "Section 4016 - Enforcement"
 usc_title: 16
 usc_section: "4016"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4016"
-generated_at: "2026-03-30T02:54:23.040Z"
+generated_at: "2026-11-23T21:25:52.010Z"
+status: "active"
 ---
 
 # § 4016. Enforcement
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:23.040Z"
     - **(A)** If any person fails to pay a civil penalty under this subsection after it has become final, the Secretary shall refer the matter to the Attorney General.
     - **(B)** The Attorney General shall institute appropriate action to recover the amount assessed under this subsection in a district court of the United States.
     - **(C)** If, within sixty days after such referral, the Attorney General fails to institute such appropriate action, the council to whose programs the assessment, order or regulation relates may institute an action in its own name.
+
+## Source Credit
+
+*([Pub. L. 99–659, title II, § 217](https://www.govinfo.gov/link/plaw/99/public/659), Nov. 14, 1986, [100 Stat. 3730](https://www.govinfo.gov/link/statute/100/3730).)*

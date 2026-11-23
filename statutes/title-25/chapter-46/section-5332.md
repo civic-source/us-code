@@ -3,9 +3,10 @@ title: "Section 5332 - Sovereign immunity and trusteeship rights unaffected"
 usc_title: 25
 usc_section: "5332"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5332"
-generated_at: "2026-03-30T02:54:52.867Z"
+generated_at: "2026-11-23T21:25:54.726Z"
+status: "active"
 ---
 
 # § 5332. Sovereign immunity and trusteeship rights unaffected
@@ -14,3 +15,7 @@ Nothing in this chapter shall be construed as—
 
   - **(1)** affecting, modifying, diminishing, or otherwise impairing the sovereign immunity from suit enjoyed by an Indian tribe; or
   - **(2)** authorizing or requiring the termination of any existing trust responsibility of the United States with respect to the Indian people.
+
+## Source Credit
+
+*([Pub. L. 93–638, title I, § 111](https://www.govinfo.gov/link/plaw/93/public/638), formerly § 110, Jan. 4, 1975, [88 Stat. 2213](https://www.govinfo.gov/link/statute/88/2213); renumbered § 111, [Pub. L. 100–472, title II, § 206(b)](https://www.govinfo.gov/link/plaw/100/public/472), Oct. 5, 1988, [102 Stat. 2295](https://www.govinfo.gov/link/statute/102/2295).)*

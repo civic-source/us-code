@@ -3,9 +3,10 @@ title: "Section 10109 - Biennial report on the spent nuclear fuel and high-level
 usc_title: 42
 usc_section: "10109"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10109"
-generated_at: "2026-03-30T02:56:11.379Z"
+generated_at: "2026-11-23T21:26:33.334Z"
+status: "active"
 ---
 
 # § 10109. Biennial report on the spent nuclear fuel and high-level radioactive waste inventory in the United States
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.379Z"
   - **(6)** any recommendations for improving the methods used by the Department of Energy for the accounting of spent nuclear fuel and high-level radioactive waste costs and liabilities;
   - **(7)** any actions taken in the previous fiscal year by the Department of Energy with respect to interim storage; and
   - **(8)** any activities taken in the previous fiscal year by the Department of Energy to develop and deploy nuclear technologies and fuels that enhance the safe transportation or storage of spent nuclear fuel or high-level radioactive waste, including technologies to protect against seismic, flooding, and other extreme weather events.
+
+## Source Credit
+
+*([Pub. L. 118–67, div. B, title IV, § 403](https://www.govinfo.gov/link/plaw/118/public/67), July 9, 2024, [138 Stat. 1468](https://www.govinfo.gov/link/statute/138/1468).)*

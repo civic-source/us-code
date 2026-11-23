@@ -3,9 +3,10 @@ title: "Section 148 - Arbitrage"
 usc_title: 26
 usc_section: "148"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 148"
-generated_at: "2026-03-30T02:55:27.634Z"
+generated_at: "2026-11-23T21:26:06.032Z"
+status: "active"
 ---
 
 # § 148. Arbitrage
@@ -180,3 +181,13 @@ generated_at: "2026-03-30T02:55:27.634Z"
 - **(g)** Except to the extent otherwise provided in regulations, payments made by the Secretary of Education pursuant to section 438 of the Higher Education Act of 1965 are not to be taken into account, for purposes of subsection (a)(1), in determining yields on student loan notes.
 - **(h)** For purposes of this section, the yield on an issue shall be determined on the basis of the issue price (within the meaning of sections 1273 and 1274).
 - **(i)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
+
+In general
+
+Election for outstanding bonds
+
+Definition of private activity bond
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XIII, § 1301(b)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2641](https://www.govinfo.gov/link/statute/100/2641); amended [Pub. L. 100–647, title I, § 1013(a)(14)](https://www.govinfo.gov/link/plaw/100/public/647) –(16)(A), (17)(A), (B), (18), (19), (43)(A), (B), title IV, § 4005(d)(2), title V, § 5053(b), title VI, §§ 6177(a), (b), 6181(a), (b), 6183(a), Nov. 10, 1988, [102 Stat. 3539](https://www.govinfo.gov/link/statute/102/3539), 3540, 3542, 3545, 3646, 3678, 3726, 3727, 3729; [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7652(a)–(d), 7814(c)(2), 7816(r), (t), Dec. 19, 1989, [103 Stat. 2385–2387](https://www.govinfo.gov/link/statute/103/2385), 2413, 2423; [Pub. L. 101–508, title XI, § 11701(j)(1)](https://www.govinfo.gov/link/plaw/101/public/508) –(6), Nov. 5, 1990, [104 Stat. 1388–508](https://www.govinfo.gov/link/statute/104/1388) to 1388–513; [Pub. L. 105–34, title II, § 223(a)](https://www.govinfo.gov/link/plaw/105/public/34), title XIV, §§ 1441–1444, Aug. 5, 1997, [111 Stat. 818](https://www.govinfo.gov/link/statute/111/818), 1053, 1054; [Pub. L. 107–16, title IV, § 421(a)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 64](https://www.govinfo.gov/link/statute/115/64); [Pub. L. 109–58, title XIII, § 1327(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1017](https://www.govinfo.gov/link/statute/119/1017); [Pub. L. 109–222, title V, § 508(c)](https://www.govinfo.gov/link/plaw/109/public/222), May 17, 2006, [120 Stat. 362](https://www.govinfo.gov/link/statute/120/362); [Pub. L. 115–97, title I, § 13532(b)(2)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2154](https://www.govinfo.gov/link/statute/131/2154).)*

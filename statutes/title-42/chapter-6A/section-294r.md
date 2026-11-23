@@ -3,9 +3,10 @@ title: "Section 294r - State health care workforce development grants"
 usc_title: 42
 usc_section: "294r"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 294r"
-generated_at: "2026-03-30T02:56:10.780Z"
+generated_at: "2026-11-23T21:26:30.646Z"
+status: "active"
 ---
 
 # § 294r. State health care workforce development grants
@@ -69,3 +70,7 @@ generated_at: "2026-03-30T02:56:10.780Z"
 - **(e)**
   - **(1)** There are authorized to be appropriated to award planning grants under subsection (c) $8,000,000 for fiscal year 2010, and such sums as may be necessary for each subsequent fiscal year.
   - **(2)** There are authorized to be appropriated to award implementation grants under subsection (d), $150,000,000 for fiscal year 2010, and such sums as may be necessary for each subsequent fiscal year.
+
+## Source Credit
+
+*([Pub. L. 111–148, title V, § 5102](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 599](https://www.govinfo.gov/link/statute/124/599).)*

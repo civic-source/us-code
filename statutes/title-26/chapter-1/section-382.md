@@ -3,9 +3,10 @@ title: "Section 382 - Limitation on net operating loss carryforwards and certain
 usc_title: 26
 usc_section: "382"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 382"
-generated_at: "2026-03-30T02:55:27.669Z"
+generated_at: "2026-11-23T21:26:06.158Z"
+status: "active"
 ---
 
 # § 382. Limitation on net operating loss carryforwards and certain built-in losses following ownership change
@@ -217,3 +218,65 @@ generated_at: "2026-03-30T02:55:27.669Z"
       - **(ii)** For purposes of clause (i), a person shall be treated as related to another person if—
         - **(I)** such person bears a relationship to such other person described in section 267(b) or 707(b), or
         - **(II)** such persons are members of a group of persons acting in concert.
+
+In general
+
+Clarification with subparagraph (b)
+
+In General
+
+Exception
+
+Subsection
+
+Subsection
+
+Amendments made by subsections
+
+and
+
+In general.—
+
+Changes after 1986
+
+Plans of reorganization adopted before 1987
+
+Termination of old section 382
+
+Coordination with section 382
+
+For amendments to tax reform act of 1976.—
+
+In general
+
+Election to have amendments apply.—
+
+Application of old rules to certain debt
+
+Special rule for oil and gas well drilling business
+
+Testing period
+
+Special transition rules
+
+Bankruptcy proceedings
+
+Certain plans
+
+Ownership change of regulated air carrier
+
+Definitions
+
+Findings
+
+Determination of Force and Effect of Internal Revenue Service Notice
+
+Exempting Banks From Limitation on Certain Built–in Losses Following Ownership Change.—
+
+In general
+
+Binding contracts
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 129; [Pub. L. 88–554, § 4(b)(3)](https://www.govinfo.gov/link/plaw/88/public/554), Aug. 31, 1964, [78 Stat. 763](https://www.govinfo.gov/link/statute/78/763); [Pub. L. 94–455, title VIII, § 806(e)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1599](https://www.govinfo.gov/link/statute/90/1599); [Pub. L. 96–589, § 2(d)](https://www.govinfo.gov/link/plaw/96/public/589), Dec. 24, 1980, [94 Stat. 3396](https://www.govinfo.gov/link/statute/94/3396); [Pub. L. 97–34, title II, § 242](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 255](https://www.govinfo.gov/link/statute/95/255); [Pub. L. 98–369, div. A, title I, § 62(b)(1)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 583](https://www.govinfo.gov/link/statute/98/583); [Pub. L. 99–514, title VI, § 621(a)](https://www.govinfo.gov/link/plaw/99/public/514), (e)(1), Oct. 22, 1986, [100 Stat. 2254](https://www.govinfo.gov/link/statute/100/2254), 2266; [Pub. L. 100–203, title X, § 10225(a)](https://www.govinfo.gov/link/plaw/100/public/203), (b), Dec. 22, 1987, [101 Stat. 1330–413](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title I, § 1006(d)(1)(A)](https://www.govinfo.gov/link/plaw/100/public/647) –(C), (2)–(10), (17)(A), (18)–(28)(A), (29), (t)(22)(A), title IV, § 4012(a)(3), (b)(1)(B), title V, § 5077(a), Nov. 10, 1988, [102 Stat. 3395–3400](https://www.govinfo.gov/link/statute/102/3395), 3426, 3656, 3657, 3683; [Pub. L. 101–73, title XIV, § 1401(a)(2)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 548](https://www.govinfo.gov/link/statute/103/548); [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7205(a), 7304(d)(1), 7811(c)(5)(A), 7815(h), 7841(d)(11), Dec. 19, 1989, [103 Stat. 2335](https://www.govinfo.gov/link/statute/103/2335), 2354, 2407, 2420, 2428; [Pub. L. 103–66, title XIII, § 13226(a)(2)(A)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 487](https://www.govinfo.gov/link/statute/107/487); [Pub. L. 104–188, title I, § 1621(b)(3)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1867](https://www.govinfo.gov/link/statute/110/1867); [Pub. L. 108–357, title VIII, § 835(b)(2)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1593](https://www.govinfo.gov/link/statute/118/1593); [Pub. L. 111–5, div. B, title I, § 1262(a)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 343](https://www.govinfo.gov/link/statute/123/343); [Pub. L. 113–295, div. A, title II, § 221(a)(30)(D)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4042](https://www.govinfo.gov/link/statute/128/4042); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 11051(b)(3)(F), 13301(b)(2), (3), Dec. 22, 2017, [131 Stat. 2090](https://www.govinfo.gov/link/statute/131/2090), 2121.)*

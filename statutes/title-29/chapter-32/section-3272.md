@@ -3,9 +3,10 @@ title: "Section 3272 - Definitions"
 usc_title: 29
 usc_section: "3272"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3272"
-generated_at: "2026-03-30T02:55:18.761Z"
+generated_at: "2026-11-23T21:26:02.352Z"
+status: "active"
 ---
 
 # § 3272. Definitions
@@ -68,3 +69,7 @@ In this subchapter:
   - **(15)** The term “Secretary” means the Secretary of Education.
   - **(16)** The term “workplace adult education and literacy activities” means adult education and literacy activities offered by an eligible provider in collaboration with an employer or employee organization at a workplace or an off-site location that is designed to improve the productivity of the workforce.
   - **(17)** The term “workforce preparation activities” means activities, programs, or services designed to help an individual acquire a combination of basic academic skills, critical thinking skills, digital literacy skills, and self-management skills, including competencies in utilizing resources, using information, working with others, understanding systems, and obtaining skills necessary for successful transition into and completion of postsecondary education or training, or employment.
+
+## Source Credit
+
+*([Pub. L. 113–128, title II, § 203](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1609](https://www.govinfo.gov/link/statute/128/1609); [Pub. L. 114–95, title IX, § 9215(c)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2166](https://www.govinfo.gov/link/statute/129/2166).)*

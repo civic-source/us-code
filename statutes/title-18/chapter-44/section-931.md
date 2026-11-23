@@ -3,9 +3,10 @@ title: "Section 931 - Prohibition on purchase, ownership, or possession of body 
 usc_title: 18
 usc_section: "931"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 931"
-generated_at: "2026-03-30T02:54:16.476Z"
+generated_at: "2026-11-23T21:25:44.018Z"
+status: "active"
 ---
 
 # § 931. Prohibition on purchase, ownership, or possession of body armor by violent felons
@@ -18,3 +19,15 @@ generated_at: "2026-03-30T02:54:16.476Z"
     - **(A)** the defendant obtained prior written certification from his or her employer that the defendant’s purchase, use, or possession of body armor was necessary for the safe performance of lawful business activity; and
     - **(B)** the use and possession by the defendant were limited to the course of such performance.
   - **(2)** In this subsection, the term “employer” means any other individual employed by the defendant’s business that supervises defendant’s activity. If that defendant has no supervisor, prior written certification is acceptable from any other employee of the business.
+
+In General
+
+Affirmative Defense.—
+
+In general
+
+Employer
+
+## Source Credit
+
+*(Added [Pub. L. 107–273, div. C, title I, § 11009(e)(2)(A)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1821](https://www.govinfo.gov/link/statute/116/1821).)*

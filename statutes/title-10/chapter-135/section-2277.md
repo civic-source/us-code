@@ -3,9 +3,10 @@ title: "Section 2277 - Disclosure of National Security Space Launch program cont
 usc_title: 10
 usc_section: "2277"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2277"
-generated_at: "2026-03-30T02:53:38.152Z"
+generated_at: "2026-11-23T21:25:32.593Z"
+status: "active"
 ---
 
 # § 2277. Disclosure of National Security Space Launch program contract pricing terms
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:53:38.152Z"
   - **(1)** treat a description of pricing terms submitted under subsection (a) as competitively sensitive trade secret data; and
   - **(2)** use the description solely for committee purposes, subject to appropriate restrictions to maintain the confidentiality of the description.
 - **(c)** For purposes of section 1905 of title 18 , a disclosure of contract pricing terms under subsection (a) shall be construed as a disclosure authorized by law.
+
+In General
+
+Competitively Sensitive Trade Secret Data
+
+Rule of Construction
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. A, title XVI, § 1601(a)(1)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2073](https://www.govinfo.gov/link/statute/135/2073).)*

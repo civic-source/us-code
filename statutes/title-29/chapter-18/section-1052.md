@@ -3,9 +3,10 @@ title: "Section 1052 - Minimum participation standards"
 usc_title: 29
 usc_section: "1052"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1052"
-generated_at: "2026-03-30T02:55:18.705Z"
+generated_at: "2026-11-23T21:26:02.232Z"
+status: "active"
 ---
 
 # § 1052. Minimum participation standards
@@ -62,3 +63,17 @@ generated_at: "2026-03-30T02:55:18.705Z"
   - **(2)** Paragraph (1)(B) shall not apply to any employee described in section 410(b)(3) of title 26 .
   - **(3)** In the case of employees who are eligible to participate in the arrangement or agreement solely by reason of paragraph (1)(B), or by reason of such paragraph and section 401(k)(2)(D)(ii) of title 26 , the rules of subsection (a)(4) shall apply to such employees.
   - **(4)** For purposes of this subsection, 12-month periods shall be determined in the same manner as under the last sentence of subsection (a)(3)(A), except that 12-month periods beginning before January 1, 2023 , shall not be taken into account.
+
+Special Rule for Certain Part-time Employees.—
+
+In general
+
+Exception
+
+Coordination with time of participation rules
+
+-month period
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 202](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 853](https://www.govinfo.gov/link/statute/88/853); [Pub. L. 98–397, title I, § 102(a)](https://www.govinfo.gov/link/plaw/98/public/397), (d)(1), (e)(1), Aug. 23, 1984, [98 Stat. 1426](https://www.govinfo.gov/link/statute/98/1426), 1427; [Pub. L. 99–509, title IX, § 9203(a)(1)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1979](https://www.govinfo.gov/link/statute/100/1979); [Pub. L. 99–514, title XI, § 1113(e)(3)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2448](https://www.govinfo.gov/link/statute/100/2448); [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7861(a)(2), 7891(a)(1), 7892(a), 7894(c)(2), Dec. 19, 1989, [103 Stat. 2430](https://www.govinfo.gov/link/statute/103/2430), 2445, 2447, 2449; [Pub. L. 117–328, div. T, title I, § 125(a)(1)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5314](https://www.govinfo.gov/link/statute/136/5314).)*

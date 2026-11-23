@@ -3,9 +3,10 @@ title: "Section 501 - Rules and regulations"
 usc_title: 38
 usc_section: "501"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 501"
-generated_at: "2026-03-30T02:55:53.471Z"
+generated_at: "2026-11-23T21:26:16.555Z"
+status: "active"
 ---
 
 # § 501. Rules and regulations
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:53.471Z"
 - **(b)** Any rule, regulation, guideline, or other published interpretation or order (and any amendment thereto) issued pursuant to the authority granted by this section or any other provision of this title shall contain citations to the particular section or sections of statutory law or other legal authority upon which such issuance is based. The citation to the authority shall appear immediately following each substantive provision of the issuance.
 - **(c)** In applying section 552(a)(1) of title 5 to the Department, the Secretary shall ensure that subparagraphs (C), (D), and (E) of that section are complied with, particularly with respect to opinions and interpretations of the General Counsel.
 - **(d)** The provisions of section 553 of title 5 shall apply, without regard to subsection (a)(2) of that section, to matters relating to loans, grants, or benefits under a law administered by the Secretary.
+
+## Source Credit
+
+*(Added [Pub. L. 102–83, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 386](https://www.govinfo.gov/link/statute/105/386).)*

@@ -3,9 +3,10 @@ title: "Section 404 - Overpayments and underpayments"
 usc_title: 42
 usc_section: "404"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 404"
-generated_at: "2026-03-30T02:56:10.856Z"
+generated_at: "2026-11-23T21:26:30.995Z"
+status: "active"
 ---
 
 # § 404. Overpayments and underpayments
@@ -57,3 +58,9 @@ generated_at: "2026-03-30T02:56:10.856Z"
     - **(B)** paid to a person after such person has attained 18 years of age; and
     - **(C)** determined by the Commissioner of Social Security, under regulations, to be otherwise unrecoverable under this section after such person ceases to be a beneficiary under this subchapter.
 - **(g)** For provisions relating to the cross-program recovery of overpayments made under programs administered by the Commissioner of Social Security, see section 1320b–17 of this title .
+
+“Not later than January 1 of each calendar year, the Commissioner of Social Security shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on—
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title II, § 204, [49 Stat. 624](https://www.govinfo.gov/link/statute/49/624); Aug. 10, 1939, ch. 666, title II, § 201, [53 Stat. 1362](https://www.govinfo.gov/link/statute/53/1362), 1368; Aug. 28, 1950, ch. 809, title I, § 109(b)(1), [64 Stat. 523](https://www.govinfo.gov/link/statute/64/523); Sept. 1, 1954, ch. 1206, title I, § 111(a), [68 Stat. 1085](https://www.govinfo.gov/link/statute/68/1085); [Pub. L. 89–97, title III, § 329](https://www.govinfo.gov/link/plaw/89/public/97), July 30, 1965, [79 Stat. 401](https://www.govinfo.gov/link/statute/79/401); [Pub. L. 90–248, title I](https://www.govinfo.gov/link/plaw/90/public/248), §§ 152, 153(a), 154(a), Jan. 2, 1968, [81 Stat. 860](https://www.govinfo.gov/link/statute/81/860), 861; [Pub. L. 96–265, title V, § 501(b)](https://www.govinfo.gov/link/plaw/96/public/265), June 9, 1980, [94 Stat. 470](https://www.govinfo.gov/link/statute/94/470); [Pub. L. 99–272, title XII, § 12113(a)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 288](https://www.govinfo.gov/link/statute/100/288); [Pub. L. 101–239, title X, § 10305(b)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2483](https://www.govinfo.gov/link/statute/103/2483); [Pub. L. 101–508, title V, § 5129(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–287](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–296, title I, § 107(a)(4)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1478](https://www.govinfo.gov/link/statute/108/1478); [Pub. L. 103–387, § 5(a)](https://www.govinfo.gov/link/plaw/103/public/387), Oct. 22, 1994, [108 Stat. 4077](https://www.govinfo.gov/link/statute/108/4077); [Pub. L. 104–134, title III, § 31001(z)(2)(A)](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–379](https://www.govinfo.gov/link/statute/110/1321); [Pub. L. 104–316, title I, § 115(g)(2)(E)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3835](https://www.govinfo.gov/link/statute/110/3835); [Pub. L. 105–306, § 8(b)(1)](https://www.govinfo.gov/link/plaw/105/public/306), Oct. 28, 1998, [112 Stat. 2929](https://www.govinfo.gov/link/statute/112/2929); [Pub. L. 106–169, title II](https://www.govinfo.gov/link/plaw/106/public/169), §§ 201(a), 203(c), Dec. 14, 1999, [113 Stat. 1831](https://www.govinfo.gov/link/statute/113/1831), 1832; [Pub. L. 108–203, title II, § 210(b)(1)](https://www.govinfo.gov/link/plaw/108/public/203), Mar. 2, 2004, [118 Stat. 517](https://www.govinfo.gov/link/statute/118/517); [Pub. L. 111–115, § 2(a)](https://www.govinfo.gov/link/plaw/111/public/115), Dec. 15, 2009, [123 Stat. 3029](https://www.govinfo.gov/link/statute/123/3029); [Pub. L. 114–74, title VIII, § 834(a)](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 614](https://www.govinfo.gov/link/statute/129/614); [Pub. L. 115–165, title I, § 104(a)](https://www.govinfo.gov/link/plaw/115/public/165), Apr. 13, 2018, [132 Stat. 1263](https://www.govinfo.gov/link/statute/132/1263).)*

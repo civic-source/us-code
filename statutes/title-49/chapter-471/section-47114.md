@@ -3,9 +3,10 @@ title: "Section 47114 - Apportionments"
 usc_title: 49
 usc_section: "47114"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 47114"
-generated_at: "2026-03-30T02:56:19.403Z"
+generated_at: "2026-11-23T21:26:40.973Z"
+status: "active"
 ---
 
 # § 47114. Apportionments
@@ -87,3 +88,249 @@ generated_at: "2026-03-30T02:56:19.403Z"
     - **(A)** A reduction in an apportionment under paragraph (1) shall not take effect until the first fiscal year following the year in which the collection of the charge imposed under section 40117 has begun.
     - **(B)** A reduction in an apportionment under paragraph (1) shall only be applied to an airport if such airport has been designated as a medium or large hub airport for 3 consecutive years.
 - **(g)** The Secretary shall apportion amounts for airports in Puerto Rico and all other United States territories in accordance with this section. This subsection does not prohibit the Secretary from making project grants for airports in Puerto Rico or other United States territories from the discretionary fund under section 47115.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 47114(a), (b) | 49 App.:2206(a) (words before cl. (1)). | Sept. 3, 1982 , Pub. L. 97–248, § 507(a)(1) , (3), (b)(2), (4)–(5)(C), (E), (6), 96 Stat. 679 ; Jan. 6, 1983 , Pub. L. 97–424, § 426(a) , (d), 96 Stat. 2167 , 2168; restated Dec. 30, 1987 , Pub. L. 100–223, § 106(a) , 101 Stat. 1494 , 1496. |
+| 47114(c) (1)(A) | 49 App.:2206(a)(1). |  |
+|  | 49 App.:2206(e)(1). | Sept. 3, 1982 , Pub. L. 97–248, § 507(e) , (f), 96 Stat. 679 ; Jan. 6, 1983 , Pub. L. 97–424, § 426(a) , (d), 96 Stat. 2167 , 2168; restated Dec. 30, 1987 , Pub. L. 100–223, § 106(a) , 101 Stat. 1497 ; Nov. 5, 1990 , Pub. L. 101–508, § 9112(b) , 104 Stat. 1388–362 . |
+| 47114(c) (1)(B) | 49 App.:2206(b)(1). | Sept. 3, 1982 , Pub. L. 97–248, § 507(a)(2) , (b)(1), (3), (5)(F), 96 Stat. 679 ; Jan. 6, 1983 , Pub. L. 97–424, § 426(a) , (d), 96 Stat. 2167 , 2168; restated Dec. 30, 1987 , Pub. L. 100–223, § 106(a) , 101 Stat. 1494 , 1496; Oct. 31, 1992 , Pub. L. 102–581, § 106 , 106 Stat. 4878 . |
+| 47114(c)(2) | 49 App.:2206(a)(2), (b)(4), (e)(2). |  |
+| 47114(c)(3) | 49 App.:2206(b)(2), (3). |  |
+| 47114(d)(1) | 49 App.:2206(f). |  |
+| 47114(d)(2) | 49 App.:2206(a)(3). |  |
+| 47114(d)(3) | 49 App.:2206(b)(6). |  |
+| 47114(e) | 49 App.:2206(b) (5)(A)–(C), (E), (F). |  |
+| 47114(f) | 49 App.:2206(b)(7). | Sept. 3, 1982 , Pub. L. 97–248 , 96 Stat. 324 , § 507(b)(7); added Nov. 5, 1990 , Pub. L. 101–508, § 9111 , 104 Stat. 1388–362 . |
+
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| --- | --- | --- |
+| 47114(c) (1)(B) | 49 App.:2206(b)(1). | Sept. 3, 1982 , Pub. L. 97–248, § 507(b)(1) , as amended May 26, 1994 , Pub. L. 103–260, § 103 , 108 Stat. 698 . |
+| 47114(c) (3)(B) | 49 App.:2206(b)(3). | Sept. 3, 1982 , Pub. L. 97–248, § 507(b)(3) , as amended May 26, 1994 , Pub. L. 103–260, § 102 , 108 Stat. 698 . |
+
+
+Definition
+
+Apportionment Date
+
+Amounts Apportioned to Sponsors.—
+
+Primary and commercial service airports.—
+
+Primary airport apportionment
+
+Minimum and maximum apportionments
+
+New airport
+
+Nonprimary commercial service airport apportionment.—
+
+In general
+
+Applicability
+
+Public airports with military use
+
+Special rule for fiscal year 2024
+
+Cargo airports.—
+
+Apportionment
+
+Suballocation formula
+
+Distribution to other airports
+
+Determination of landed weight
+
+Amounts Apportioned for General Aviation Airports.—
+
+Definitions
+
+Area
+
+Population
+
+Apportionment
+
+Airports in noncontiguous states and territories.—
+
+Alaska, puerto rico, and hawaii
+
+Other territories
+
+Use of state highway specifications
+
+Integrated airport system planning
+
+Eligibility to receive primary airport minimum apportionment amount
+
+Supplemental Apportionment for Alaska.—
+
+In general
+
+Authority for discretionary grants
+
+Airports eligible for funds
+
+Special rule
+
+Reducing Apportionments.—
+
+In general
+
+Effective date of reduction.—
+
+New charge collection
+
+New categorization
+
+Supplemental Apportionment for Puerto Rico and United States Territories
+
+Historical and Revision Notes
+
+Pub. L
+
+47114(a), (b)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 507(a)(1)
+
+96 Stat. 679
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 426(a)
+
+96 Stat. 2167
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 106(a)
+
+101 Stat. 1494
+
+47114(c) (1)(A)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 507(e)
+
+96 Stat. 679
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 426(a)
+
+96 Stat. 2167
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 106(a)
+
+101 Stat. 1497
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 9112(b)
+
+104 Stat. 1388–362
+
+47114(c) (1)(B)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 507(a)(2)
+
+96 Stat. 679
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 426(a)
+
+96 Stat. 2167
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 106(a)
+
+101 Stat. 1494
+
+Oct. 31, 1992
+
+Pub. L. 102–581, § 106
+
+106 Stat. 4878
+
+47114(c)(2)
+
+47114(c)(3)
+
+47114(d)(1)
+
+47114(d)(2)
+
+47114(d)(3)
+
+47114(e)
+
+47114(f)
+
+Sept. 3, 1982
+
+Pub. L. 97–248
+
+96 Stat. 324
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 9111
+
+104 Stat. 1388–362
+
+47114(c) (1)(B)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 507(b)(1)
+
+May 26, 1994
+
+Pub. L. 103–260, § 103
+
+108 Stat. 698
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 507(b)(3)
+
+May 26, 1994
+
+Pub. L. 103–260, § 102
+
+108 Stat. 698
+
+Effective date of reduction
+
+Special rule for transitioning airports.—
+
+In general
+
+Effective period
+
+In general
+
+Limitation
+
+only
+
+Cargo
+
+airports
+
+airorts
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1268](https://www.govinfo.gov/link/statute/108/1268); [Pub. L. 103–429, § 6(66)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4386](https://www.govinfo.gov/link/statute/108/4386); [Pub. L. 104–264, title I, § 121](https://www.govinfo.gov/link/plaw/104/public/264), Oct. 9, 1996, [110 Stat. 3217](https://www.govinfo.gov/link/statute/110/3217); [Pub. L. 106–181, title I](https://www.govinfo.gov/link/plaw/106/public/181), §§ 104(a)–(d), 105(c), Apr. 5, 2000, [114 Stat. 67–71](https://www.govinfo.gov/link/statute/114/67); [Pub. L. 108–176, title I](https://www.govinfo.gov/link/plaw/108/public/176), §§ 146, 147, Dec. 12, 2003, [117 Stat. 2504](https://www.govinfo.gov/link/statute/117/2504); [Pub. L. 109–115, div. A, title I, § 109](https://www.govinfo.gov/link/plaw/109/public/115), Nov. 30, 2005, [119 Stat. 2402](https://www.govinfo.gov/link/statute/119/2402); [Pub. L. 112–95, title I](https://www.govinfo.gov/link/plaw/112/public/95), §§ 111(c)(2)(A)(iii), 141–143, Feb. 14, 2012, [126 Stat. 18](https://www.govinfo.gov/link/statute/126/18), 28, 29; [Pub. L. 114–190, title II, § 2301](https://www.govinfo.gov/link/plaw/114/public/190), July 15, 2016, [130 Stat. 638](https://www.govinfo.gov/link/statute/130/638); [Pub. L. 115–63, title I, § 102(b)](https://www.govinfo.gov/link/plaw/115/public/63), Sept. 29, 2017, [131 Stat. 1169](https://www.govinfo.gov/link/statute/131/1169); [Pub. L. 115–254, div. B, title I](https://www.govinfo.gov/link/plaw/115/public/254), §§ 136, 148(b), 151, 164, Oct. 5, 2018, [132 Stat. 3210](https://www.govinfo.gov/link/statute/132/3210), 3214, 3215, 3225; [Pub. L. 116–260, div. L, title IV, § 422](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 1909](https://www.govinfo.gov/link/statute/134/1909); [Pub. L. 118–15, div. B, title II, § 2201(e)](https://www.govinfo.gov/link/plaw/118/public/15), Sept. 30, 2023, [137 Stat. 82](https://www.govinfo.gov/link/statute/137/82); [Pub. L. 118–34, title I, § 101(e)](https://www.govinfo.gov/link/plaw/118/public/34), Dec. 26, 2023, [137 Stat. 1113](https://www.govinfo.gov/link/statute/137/1113); [Pub. L. 118–41, title I, § 101(e)](https://www.govinfo.gov/link/plaw/118/public/41), Mar. 8, 2024, [138 Stat. 21](https://www.govinfo.gov/link/statute/138/21); [Pub. L. 118–63, title VII](https://www.govinfo.gov/link/plaw/118/public/63), §§ 712(a), (b), 713(a), May 16, 2024, [138 Stat. 1254](https://www.govinfo.gov/link/statute/138/1254), 1255, 1257.)*

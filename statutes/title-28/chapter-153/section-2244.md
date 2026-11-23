@@ -3,9 +3,10 @@ title: "Section 2244 - Finality of determination"
 usc_title: 28
 usc_section: "2244"
 chapter: 153
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 2244"
-generated_at: "2026-03-30T02:55:30.147Z"
+generated_at: "2026-11-23T21:26:01.120Z"
+status: "active"
 ---
 
 # § 2244. Finality of determination
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:30.147Z"
     - **(C)** the date on which the constitutional right asserted was initially recognized by the Supreme Court, if the right has been newly recognized by the Supreme Court and made retroactively applicable to cases on collateral review; or
     - **(D)** the date on which the factual predicate of the claim or claims presented could have been discovered through the exercise of due diligence.
   - **(2)** The time during which a properly filed application for State post-conviction or other collateral review with respect to the pertinent judgment or claim is pending shall not be counted toward any period of limitation under this subsection.
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 965](https://www.govinfo.gov/link/statute/62/965); [Pub. L. 89–711, § 1](https://www.govinfo.gov/link/plaw/89/public/711), Nov. 2, 1966, [80 Stat. 1104](https://www.govinfo.gov/link/statute/80/1104); [Pub. L. 104–132, title I](https://www.govinfo.gov/link/plaw/104/public/132), §§ 101, 106, Apr. 24, 1996, [110 Stat. 1217](https://www.govinfo.gov/link/statute/110/1217), 1220.)*

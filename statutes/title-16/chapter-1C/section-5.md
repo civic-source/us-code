@@ -3,9 +3,10 @@ title: "Section 5 - Prohibited acts; criminal penalties"
 usc_title: 16
 usc_section: "5"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-30T02:54:22.855Z"
+generated_at: "2026-11-23T21:25:51.640Z"
+status: "active"
 ---
 
 # § 470aaa–5. Prohibited acts; criminal penalties
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:22.855Z"
 - **(c)** A person who knowingly violates or counsels, procures, solicits, or employs another person to violate subsection (a) or (b) shall, upon conviction, be fined in accordance with title 18 or imprisoned not more than 5 years, or both; but if the sum of the commercial and paleontological value of the paleontological resources involved and the cost of restoration and repair of such resources does not exceed $500, such person shall be fined in accordance with title 18 or imprisoned not more than 2 years, or both.
 - **(d)** In the case of a second or subsequent violation by the same person, the amount of the penalty assessed under subsection (c) may be doubled.
 - **(e)** Nothing in subsection (a) shall apply to any person with respect to any paleontological resource which was in the lawful possession of such person prior to March 30, 2009 .
+
+## Source Credit
+
+*([Pub. L. 111–11, title VI, § 6306](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1174](https://www.govinfo.gov/link/statute/123/1174).)*

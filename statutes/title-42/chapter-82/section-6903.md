@@ -3,9 +3,10 @@ title: "Section 6903 - Definitions"
 usc_title: 42
 usc_section: "6903"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6903"
-generated_at: "2026-03-30T02:56:11.268Z"
+generated_at: "2026-11-23T21:26:32.991Z"
+status: "active"
 ---
 
 # § 6903. Definitions
@@ -63,3 +64,7 @@ As used in this chapter:
   - **(39)** The term “re-refined oil” means used oil from which the physical and chemical contaminants acquired through previous use have been removed through a refining process.
   - **(40)** Except as otherwise provided in this paragraph, the term “medical waste” means any solid waste which is generated in the diagnosis, treatment, or immunization of human beings or animals, in research pertaining thereto, or in the production or testing of biologicals. Such term does not include any hazardous waste identified or listed under subchapter III or any household waste as defined in regulations under subchapter III.
   - **(41)** The term “mixed waste” means waste that contains both hazardous waste and source, special nuclear, or by-product material subject to the Atomic Energy Act of 1954 ( 42 U.S.C. 2011 et seq.).
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 1004](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2798](https://www.govinfo.gov/link/statute/90/2798); amended [Pub. L. 95–609, § 7(b)](https://www.govinfo.gov/link/plaw/95/public/609), Nov. 8, 1978, [92 Stat. 3081](https://www.govinfo.gov/link/statute/92/3081); [Pub. L. 96–463, § 3](https://www.govinfo.gov/link/plaw/96/public/463), Oct. 15, 1980, [94 Stat. 2055](https://www.govinfo.gov/link/statute/94/2055); [Pub. L. 96–482, § 2](https://www.govinfo.gov/link/plaw/96/public/482), Oct. 21, 1980, [94 Stat. 2334](https://www.govinfo.gov/link/statute/94/2334); [Pub. L. 100–582, § 3](https://www.govinfo.gov/link/plaw/100/public/582), Nov. 1, 1988, [102 Stat. 2958](https://www.govinfo.gov/link/statute/102/2958); [Pub. L. 102–386, title I](https://www.govinfo.gov/link/plaw/102/public/386), §§ 103, 105(b), Oct. 6, 1992, [106 Stat. 1507](https://www.govinfo.gov/link/statute/106/1507), 1512; [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537).)*

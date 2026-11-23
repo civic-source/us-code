@@ -3,9 +3,10 @@ title: "Section 2504 - Relationship of trade agreements to United States law"
 usc_title: 19
 usc_section: "2504"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2504"
-generated_at: "2026-03-30T02:54:24.678Z"
+generated_at: "2026-11-23T21:25:42.814Z"
+status: "active"
 ---
 
 # § 2504. Relationship of trade agreements to United States law
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:24.678Z"
     - **(A)** the term “trade agreement” shall be treated as a reference to the requirement, amendment, or recommendation, and
     - **(B)** the term “implementing bill” or “implementing revenue bill”, whichever is appropriate, shall be treated as a reference to the bill submitted by the President.
 - **(d)** Neither the entry into force with respect to the United States of any agreement approved under section 2503(a) of this title , nor the enactment of this Act, shall be construed as creating any private right of action or remedy for which provision is not explicitly made under this Act or under the laws of the United States.
+
+## Source Credit
+
+*([Pub. L. 96–39, § 3(a)](https://www.govinfo.gov/link/plaw/96/public/39) –(c), (f), July 26, 1979, [93 Stat. 148–150](https://www.govinfo.gov/link/statute/93/148).)*

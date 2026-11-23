@@ -3,12 +3,17 @@ title: "Section 39 - Reservation of timber, minerals, or easements by owners on 
 usc_title: 16
 usc_section: "39"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 39"
-generated_at: "2026-03-30T02:54:22.727Z"
+generated_at: "2026-11-23T21:25:51.367Z"
+status: "active"
 ---
 
 # § 39. Reservation of timber, minerals, or easements by owners on exchange
 
 Reservations of timber, minerals, or easements, the values of which shall be duly considered in determining the values of the lands conveyed, may be made by the owner or owners thereof in lands conveyed to the United States under the provisions of sections 37 to 40 of this title. Where such reservations are made, the right to enjoy them shall be subject to such reasonable conditions respecting ingress and egress and the use of the surface of the land as may be deemed necessary by the Secretary of the Interior or the Secretary of Agriculture, whichever may be responsible for the handling and use of the land as provided in said sections: Provided , That all property, rights, easements, and benefits authorized by this section to be retained by or reserved to owners of land conveyed to the United States shall be subject to the tax laws of the States where such lands are located.
 
+
+## Source Credit
+
+*(May 26, 1926, ch. 399, § 3, [44 Stat. 656](https://www.govinfo.gov/link/statute/44/656).)*

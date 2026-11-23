@@ -3,9 +3,10 @@ title: "Section 19110 - Test beds"
 usc_title: 42
 usc_section: "19110"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19110"
-generated_at: "2026-03-30T02:56:11.539Z"
+generated_at: "2026-11-23T21:26:33.870Z"
+status: "active"
 ---
 
 # § 19110. Test beds
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.539Z"
   - **(11)** how the applicant plans to take measures to prevent the inappropriate use of research results, data, and intellectual property, as applicable and consistent with the requirements of the award.
 - **(c)** A recipient of an award under this section may, consistent with the purposes of this section, use the award for the purchase of equipment and for the support of students, faculty and staff, and postdoctoral researchers.
 - **(d)** In selecting award recipients under this section, the Director shall consider the extent to which proposals would expand the geographic diversity of test beds.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10390](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1585](https://www.govinfo.gov/link/statute/136/1585).)*

@@ -3,9 +3,10 @@ title: "Section 2934 - National Global Change Research Plan"
 usc_title: 15
 usc_section: "2934"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2934"
-generated_at: "2026-03-30T02:54:08.185Z"
+generated_at: "2026-11-23T21:25:39.958Z"
+status: "active"
 ---
 
 # § 2934. National Global Change Research Plan
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:08.185Z"
   - **(1)** evaluate the scientific content of the Plan; and
   - **(2)** provide information and advice obtained from United States and international sources, and recommended priorities for future global change research.
 - **(f)** In developing the Plan, the Committee shall consult with academic, State, industry, and environmental groups and representatives. Not later than 90 days before the Chairman of the Council submits the Plan, or any revision thereof, to the Congress, a summary of the proposed Plan shall be published in the Federal Register for a public comment period of not less than 60 days.
+
+## Source Credit
+
+*([Pub. L. 101–606, title I, § 104](https://www.govinfo.gov/link/plaw/101/public/606), Nov. 16, 1990, [104 Stat. 3099](https://www.govinfo.gov/link/statute/104/3099).)*

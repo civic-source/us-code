@@ -3,9 +3,10 @@ title: "Section 410t - Acquisition and transfer of lands; private owner’s rete
 usc_title: 16
 usc_section: "410t"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410t"
-generated_at: "2026-03-30T02:54:22.761Z"
+generated_at: "2026-11-23T21:25:51.436Z"
+status: "active"
 ---
 
 # § 410t. Acquisition and transfer of lands; private owner’s retention of right of use and occupancy
@@ -19,3 +20,29 @@ generated_at: "2026-03-30T02:54:22.761Z"
   - **(1)** Any individual who owns private property acquired by the Secretary under subsection (c) may, on the date of such acquisition and as a condition of such acquisition, retain for himself and his successors or assigns, a right of use and occupancy of the property for a definite term of not more than 25 years from the date of acquisition by the Secretary or a term ending at the death of the owner or the owner’s spouse, whichever is later. The owner shall elect the term to be reserved.
   - **(2)** Unless the property is wholly or partially donated, the Secretary shall pay to the owner reserving a right of use and occupancy under this subsection the fair market value of the property on the date of its acquisition, less the fair market value on that date of the right retained by the owner.
   - **(3)** For purposes of applying this subsection, ownership shall be determined as of July 1, 1991 .
+
+Definitions
+
+Map
+
+Park
+
+Secretary
+
+Minute Man National Historical Park.—
+
+Boundary adjustment.—
+
+In general
+
+Availability of map
+
+Acquisition of land
+
+Administration of land
+
+Authorization of Appropriations
+
+## Source Credit
+
+*([Pub. L. 86–321, § 2](https://www.govinfo.gov/link/plaw/86/public/321), Sept. 21, 1959, [73 Stat. 591](https://www.govinfo.gov/link/statute/73/591); [Pub. L. 102–488, § 2(3)[(2)]](https://www.govinfo.gov/link/plaw/102/public/488), Oct. 24, 1992, [106 Stat. 3135](https://www.govinfo.gov/link/statute/106/3135).)*

@@ -3,9 +3,10 @@ title: "Section 1315 - Rights and protections under Worker Adjustment and Retrai
 usc_title: 2
 usc_section: "1315"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1315"
-generated_at: "2026-03-30T02:53:04.810Z"
+generated_at: "2026-11-23T21:25:21.219Z"
+status: "active"
 ---
 
 # § 1315. Rights and protections under Worker Adjustment and Retraining Notification Act
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:04.810Z"
 - **(d)**
   - **(1)** Except as provided in paragraph (2), subsections (a) and (b) shall be effective 1 year after January 23, 1995 .
   - **(2)** This section shall be effective with respect to the Government Accountability Office and the Library of Congress 1 year after transmission to the Congress of the study under section 1371 of this title .
+
+## Source Credit
+
+*([Pub. L. 104–1, title II, § 205](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 11](https://www.govinfo.gov/link/statute/109/11); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 115–141, div. I, title I, § 153(a)(2)(B)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 785](https://www.govinfo.gov/link/statute/132/785).)*

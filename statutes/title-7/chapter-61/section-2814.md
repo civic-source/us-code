@@ -3,9 +3,10 @@ title: "Section 2814 - Management of undesirable plants on Federal lands"
 usc_title: 7
 usc_section: "2814"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2814"
-generated_at: "2026-03-30T02:53:42.391Z"
+generated_at: "2026-11-23T21:25:28.307Z"
+status: "active"
 ---
 
 # § 2814. Management of undesirable plants on Federal lands
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:53:42.391Z"
     - **(C)** disseminate such technical information to interested State, local, and private entities.
   - **(3)** The Secretary may provide cost share assistance to State and local agencies to manage noxious weeds in an area if a majority of landowners in that area agree to participate in a noxious weed management program.
 - **(g)** There is authorized to be appropriated such sums as may be necessary in each of fiscal years 1991 through 1995 to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 93–629, § 15](https://www.govinfo.gov/link/plaw/93/public/629), as added [Pub. L. 101–624, title XIV, § 1453](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3611](https://www.govinfo.gov/link/statute/104/3611).)*

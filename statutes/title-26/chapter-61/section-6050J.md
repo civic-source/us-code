@@ -3,9 +3,10 @@ title: "Section 6050J - Returns relating to foreclosures and abandonments of sec
 usc_title: 26
 usc_section: "6050J"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6050J"
-generated_at: "2026-03-30T02:55:27.834Z"
+generated_at: "2026-11-23T21:26:06.781Z"
+status: "active"
 ---
 
 # § 6050J. Returns relating to foreclosures and abandonments of security
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:27.834Z"
     - **(B)** any return under this section shall be made by the officer or employee appropriately designated for the purpose of making such return.
 - **(e)** Every person required to make a return under subsection (a) shall furnish to each person whose name is required to be set forth in such return a written statement showing the name, address, and phone number of the information contact of the person required to make such return. The written statement required under the preceding sentence shall be furnished to the person on or before January 31 of the year following the calendar year for which the return under subsection (a) was made.
 - **(f)** To the extent provided by regulations prescribed by the Secretary, any transfer of the property which secures the indebtedness to a person other than the lender shall be treated as an abandonment of such property.
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title I, § 148(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 687](https://www.govinfo.gov/link/statute/98/687); amended [Pub. L. 104–168, title XII, § 1201(a)(10)](https://www.govinfo.gov/link/plaw/104/public/168), July 30, 1996, [110 Stat. 1470](https://www.govinfo.gov/link/statute/110/1470).)*

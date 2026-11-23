@@ -3,9 +3,10 @@ title: "Section 6124 - Reports on critical difficulties at national security lab
 usc_title: 10
 usc_section: "6124"
 chapter: 602
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6124"
-generated_at: "2026-03-30T02:53:38.219Z"
+generated_at: "2026-11-23T21:25:32.812Z"
+status: "active"
 ---
 
 # § 6124. Reports on critical difficulties at national security laboratories and nuclear weapons production facilities
@@ -13,3 +14,13 @@ generated_at: "2026-03-30T02:53:38.219Z"
 - **(a)** In the event of a difficulty at a national security laboratory or a nuclear weapons production facility that has a significant bearing on confidence in the safety or reliability of a nuclear weapon or nuclear weapon type, the head of the laboratory or facility, as the case may be, shall submit to the Administrator a report on the difficulty. The head of the laboratory or facility shall submit the report as soon as practicable after discovery of the difficulty.
 - **(b)** Not later than 10 days after receipt of a report under subsection (a), the Administrator shall transmit the report (together with the comments of the Administrator) to the congressional defense committees, to the Secretary of Energy and the Secretary of Defense, and to the President.
 - **(c)** Any report submitted pursuant to subsection (a) shall also be submitted to the President and Congress with the matters required to be submitted under section 6117(f) for the year in which such report is submitted.
+
+Reports by Heads of Laboratories and Facilities
+
+Transmittal by Administrator
+
+Inclusion of Reports in Annual Stockpile Assessment
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1359](https://www.govinfo.gov/link/statute/139/1359).)*

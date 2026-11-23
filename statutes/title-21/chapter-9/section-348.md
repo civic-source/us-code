@@ -3,9 +3,10 @@ title: "Section 348 - Food additives"
 usc_title: 21
 usc_section: "348"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 348"
-generated_at: "2026-03-30T02:54:54.224Z"
+generated_at: "2026-11-23T21:25:55.996Z"
+status: "active"
 ---
 
 # § 348. Food additives
@@ -86,3 +87,17 @@ generated_at: "2026-03-30T02:54:54.224Z"
     - **(B)** how long each such petition submitted under subsection (b) has been pending, including such petitions the Secretary has extended under subsection (c)(2); and
     - **(C)** the number of study protocols that have been pending review for over 50 days, and the number that have received an extension.
   - **(3)** In the case of a food additive petition intended for use in animal food, the Secretary shall provide information to the petitioner on the required contents of such petition. If the Secretary requires additional studies beyond what the petitioner proposed, the Secretary shall provide the scientific rationale for such requirement.
+
+In general
+
+Contents
+
+Final guidance
+
+In General
+
+Lead and Cadmium Based Enamel
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 409, as added [Pub. L. 85–929, § 4](https://www.govinfo.gov/link/plaw/85/public/929), Sept. 6, 1958, [72 Stat. 1785](https://www.govinfo.gov/link/statute/72/1785); amended [Pub. L. 86–546, § 2](https://www.govinfo.gov/link/plaw/86/public/546), June 29, 1960, [74 Stat. 255](https://www.govinfo.gov/link/statute/74/255); [Pub. L. 87–781, title I, § 104(f)(1)](https://www.govinfo.gov/link/plaw/87/public/781), Oct. 10, 1962, [76 Stat. 785](https://www.govinfo.gov/link/statute/76/785); [Pub. L. 98–620, title IV, § 402(25)(B)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3359](https://www.govinfo.gov/link/statute/98/3359); [Pub. L. 105–115, title III, § 309](https://www.govinfo.gov/link/plaw/105/public/115), Nov. 21, 1997, [111 Stat. 2354](https://www.govinfo.gov/link/statute/111/2354); [Pub. L. 115–234, title III, § 306(a)](https://www.govinfo.gov/link/plaw/115/public/234), Aug. 14, 2018, [132 Stat. 2440](https://www.govinfo.gov/link/statute/132/2440).)*

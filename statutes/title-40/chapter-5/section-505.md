@@ -3,9 +3,10 @@ title: "Section 505 - Exchange or transfer of medical supplies"
 usc_title: 40
 usc_section: "505"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 505"
-generated_at: "2026-03-30T02:55:43.373Z"
+generated_at: "2026-11-23T21:26:14.785Z"
+status: "active"
 ---
 
 # § 505. Exchange or transfer of medical supplies
@@ -19,3 +20,38 @@ generated_at: "2026-03-30T02:55:43.373Z"
   - **(1)** In accordance with regulations the Administrator of General Services prescribes, medical materials or supplies considered excess property may be transferred to another federal agency or exchanged with another federal agency for other medical materials or supplies.
   - **(2)** Any proceeds derived from a transfer under this section may be credited to the current applicable appropriation or fund of the transferor agency and shall be available only to purchase medical materials or supplies to be held for national emergency purposes.
   - **(3)** If the materials or supplies are not transferred to or exchanged with another federal agency, they shall be disposed of as surplus property.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 505 | 40:481(e). | June 30, 1949, ch. 288 , title II, § 201(e), as added Pub. L. 91–426, § 1 , Sept. 26, 1970 , 84 Stat. 883 . |
+
+
+Excess Property Determination.—
+
+In general
+
+Timing
+
+Transfer or Exchange.—
+
+In general
+
+Use of proceeds
+
+Disposal as surplus property
+
+Historical and Revision Notes
+
+505
+
+June 30, 1949, ch. 288
+
+Pub. L. 91–426, § 1
+
+Sept. 26, 1970
+
+84 Stat. 883
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1081](https://www.govinfo.gov/link/statute/116/1081).)*

@@ -3,9 +3,10 @@ title: "Section 1032b - Application requirements"
 usc_title: 20
 usc_section: "1032b"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1032b"
-generated_at: "2026-03-30T02:54:48.098Z"
+generated_at: "2026-11-23T21:25:47.026Z"
+status: "active"
 ---
 
 # § 1032b. Application requirements
@@ -25,3 +26,7 @@ To be eligible to receive a grant or enter into a contract or cooperative agreem
     - **(A)** State teacher technology standards; and
     - **(B)** State student technology standards.
   - **(7)** A plan for the evaluation of the project, which shall include benchmarks to monitor progress toward specific project objectives.
+
+## Source Credit
+
+*([Pub. L. 89–329, title II, § 233](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title II, § 201(3)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3157](https://www.govinfo.gov/link/statute/122/3157).)*

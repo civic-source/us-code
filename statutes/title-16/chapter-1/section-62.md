@@ -3,9 +3,10 @@ title: "Section 62 - Administration of Wilderness Area"
 usc_title: 16
 usc_section: "62"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 62"
-generated_at: "2026-03-30T02:54:22.844Z"
+generated_at: "2026-11-23T21:25:51.624Z"
+status: "active"
 ---
 
 # § 460nnn–62. Administration of Wilderness Area
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:22.844Z"
 - **(d)**
   - **(1)** Except as provided in section 460nnn–23(e)(2) of this title , grazing of livestock shall be administered in accordance with the provision of section 4(d)(4) of the Wilderness Act ( 16 U.S.C. 1133(d)(4) ), in accordance with the provisions of this subchapter, and in accordance with the guidelines set forth in Appendices A and B of House Report 101–405 of the 101st Congress.
   - **(2)** The Secretary shall permanently retire all grazing permits applicable to certain lands in the Wilderness Area, as depicted on the map referred to in section 460nnn–11(a) of this title , and livestock shall be excluded from these lands.
+
+## Source Credit
+
+*([Pub. L. 106–399, title II, § 202](https://www.govinfo.gov/link/plaw/106/public/399), Oct. 30, 2000, [114 Stat. 1666](https://www.govinfo.gov/link/statute/114/1666).)*

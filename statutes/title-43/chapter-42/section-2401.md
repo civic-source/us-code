@@ -3,9 +3,10 @@ title: "Section 2401 - Definitions"
 usc_title: 43
 usc_section: "2401"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 2401"
-generated_at: "2026-03-30T02:55:57.496Z"
+generated_at: "2026-11-23T21:26:19.894Z"
+status: "active"
 ---
 
 # § 2401. Definitions
@@ -43,3 +44,7 @@ In this subchapter:
   - **(11)** The term “tribal organization” means—
     - **(A)** the recognized governing body of an Indian tribe; and
     - **(B)** any legally established organization of Indians that is controlled, sanctioned, or chartered by the governing body or democratically elected by the adult members of the Indian community to be served by the organization.
+
+## Source Credit
+
+*([Pub. L. 109–451, title I, § 102](https://www.govinfo.gov/link/plaw/109/public/451), Dec. 22, 2006, [120 Stat. 3346](https://www.govinfo.gov/link/statute/120/3346).)*

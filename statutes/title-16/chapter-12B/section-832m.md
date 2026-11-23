@@ -3,9 +3,10 @@ title: "Section 832m - Sale of excess Federal power; fish and wildlife conservat
 usc_title: 16
 usc_section: "832m"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 832m"
-generated_at: "2026-03-30T02:54:22.926Z"
+generated_at: "2026-11-23T21:25:51.778Z"
+status: "active"
 ---
 
 # § 832m. Sale of excess Federal power; fish and wildlife conservation within Federal Columbia River Power System; residential exchange; personnel flexibility
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:22.926Z"
 - **(e)** Notwithstanding the establishment, confirmation and approval of rates pursuant to section 839e of this title , and notwithstanding the provisions of section 839c(c) of this title , the cost benefits of eligible utilities’ total purchase and exchange sales under section 839c(c)(1) of this title shall be $145,000,000 for fiscal year 1997, and the net benefits paid to each eligible electric utility shall be $145,000,000 multiplied by the percentage of the total of such net benefits paid by the Administrator to such utility for fiscal year 1995.
 - **(f)** The Administrator may offer employees voluntary separation incentives as deemed necessary which shall not exceed $25,000. Recipients who accept employment with the United States within five years after separation shall repay the entire amount to the Bonneville Power Administration.
 - **(g)** Unless superseded by an Act of Congress, the authority provided by this section is expressly intended to extend beyond the fiscal year.
+
+## Source Credit
+
+*([Pub. L. 104–46, title V, § 508](https://www.govinfo.gov/link/plaw/104/public/46), Nov. 13, 1995, [109 Stat. 419](https://www.govinfo.gov/link/statute/109/419).)*

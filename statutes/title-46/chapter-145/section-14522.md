@@ -3,9 +3,10 @@ title: "Section 14522 - Measurement"
 usc_title: 46
 usc_section: "14522"
 chapter: 145
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 14522"
-generated_at: "2026-03-30T02:56:15.560Z"
+generated_at: "2026-11-23T21:26:37.150Z"
+status: "active"
 ---
 
 # § 14522. Measurement
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:15.560Z"
   - **(2)** The Secretary shall prescribe the way dimensions (except length) are measured and which coefficients are appropriate.
 - **(c)** The resulting gross tonnages, taken as a group, reasonably shall reflect the relative internal volumes of the vessels measured under this subchapter. The resulting net tonnages shall be in approximately the same ratios to corresponding gross tonnages as are the net and gross tonnages of comparable vessels measured under subchapter II of this chapter.
 - **(d)** Under regulations prescribed by the Secretary, the Secretary may determine the gross and net tonnages of a vessel representative of a designated class, model, or type, and then assign those gross and net tonnages to other vessels of the same class, model, or type.
+
+## Source Credit
+
+*([Pub. L. 99–509, title V, § 5101(3)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1925](https://www.govinfo.gov/link/statute/100/1925).)*

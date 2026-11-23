@@ -3,9 +3,10 @@ title: "Section 80 - Restoration of value of certain securities"
 usc_title: 26
 usc_section: "80"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 80"
-generated_at: "2026-03-30T02:55:27.620Z"
+generated_at: "2026-11-23T21:26:05.988Z"
+status: "active"
 ---
 
 # § 80. Restoration of value of certain securities
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:27.620Z"
   - **(1)** Except as provided in paragraph (2), the amount included in gross income under this section shall be treated as ordinary income.
   - **(2)** If the loss described in subsection (a)(2) was taken into account as a loss from the sale or exchange of a capital asset, the amount included in gross income under this section shall be treated as long-term capital gain.
 - **(d)** This section shall not apply to any recovery of a foreign expropriation loss to which section 1351 applies.
+
+## Source Credit
+
+*(Added [Pub. L. 89–384, § 1(b)(1)](https://www.govinfo.gov/link/plaw/89/public/384), Apr. 8, 1966, [80 Stat. 101](https://www.govinfo.gov/link/statute/80/101); amended [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1793](https://www.govinfo.gov/link/statute/90/1793), 1834; [Pub. L. 98–369, div. A, title II, § 211(b)(2)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 754](https://www.govinfo.gov/link/statute/98/754).)*

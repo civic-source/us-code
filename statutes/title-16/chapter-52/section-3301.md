@@ -3,9 +3,10 @@ title: "Section 3301 - Congressional findings and declaration of purpose"
 usc_title: 16
 usc_section: "3301"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3301"
-generated_at: "2026-03-30T02:54:23.014Z"
+generated_at: "2026-11-23T21:25:51.967Z"
+status: "active"
 ---
 
 # § 3301. Congressional findings and declaration of purpose
@@ -23,3 +24,47 @@ generated_at: "2026-03-30T02:54:23.014Z"
     - **(A)** the purchase of nontreaty commercial and charter fishing vessels, gear, and licenses; and
     - **(B)** coordinated research, enhancement, and management of salmon and steelhead resources and habitat; and
   - **(2)** improve the quality of, and maintain the opportunities for, salmon and steelhead recreational fishing.
+
+Salmon Survival Activities.—
+
+In general
+
+Accelerated activities
+
+Additional activities
+
+Coordination
+
+Report
+
+Authorization of appropriations
+
+Advanced Turbine Development.—
+
+In general
+
+Authorization of appropriations
+
+Management of Predation on Columbia/Snake River System Native Fishes.—
+
+Nesting avian predators
+
+Authorization of appropriations
+
+Implementation
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*([Pub. L. 96–561, title I, § 102](https://www.govinfo.gov/link/plaw/96/public/561), Dec. 22, 1980, [94 Stat. 3275](https://www.govinfo.gov/link/statute/94/3275).)*

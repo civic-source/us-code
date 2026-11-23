@@ -3,9 +3,10 @@ title: "Section 1907 - Coast Guard Academy Cadet Advisory Board"
 usc_title: 14
 usc_section: "1907"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 1907"
-generated_at: "2026-03-30T02:53:51.496Z"
+generated_at: "2026-11-23T21:25:35.406Z"
+status: "active"
 ---
 
 # § 1907. Coast Guard Academy Cadet Advisory Board
@@ -36,3 +37,43 @@ generated_at: "2026-03-30T02:53:51.496Z"
   - **(1)** Not less frequently than once per academic semester, the Advisory Board shall submit a report or provide a briefing to the Commandant and the Superintendent on the results of the activities carried out in furtherance of the duties of the Advisory Board described in subsection (g), including recommendations for actions to be taken based on such results.
   - **(2)** The Advisory Board shall transmit to the Commandant, through the Provost and the Superintendent, an annual report at the conclusion of each academic year, containing the information and materials presented to the Commandant, Superintendent, or both, during each brief provided during such academic year.
   - **(3)** Not later than 30 days after the receipt by the Commandant of a report under this subsection, the Commandant shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives any report or other materials provided to the Commandant and Superintendent under paragraph (1) and any other information related to the Advisory Board requested by the Committees.
+
+Establishment
+
+Membership
+
+Appointment.—
+
+In general
+
+Application
+
+Selection
+
+Term
+
+In general
+
+Term
+
+Meetings
+
+Duties
+
+Working Groups.—
+
+In general
+
+Other working groups
+
+Reporting.—
+
+Commandant and superintendent
+
+Annual report
+
+Congress
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. G, title LXXII, § 7243(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1727](https://www.govinfo.gov/link/statute/139/1727).)*

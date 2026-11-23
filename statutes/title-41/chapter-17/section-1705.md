@@ -3,9 +3,10 @@ title: "Section 1705 - Advocates for competition"
 usc_title: 41
 usc_section: "1705"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 1705"
-generated_at: "2026-03-30T02:55:55.802Z"
+generated_at: "2026-11-23T21:26:18.790Z"
+status: "active"
 ---
 
 # § 1705. Advocates for competition
@@ -31,3 +32,40 @@ generated_at: "2026-03-30T02:55:55.802Z"
     - **(B)** a system of personal and organizational accountability for competition, which may include the use of recognition and awards to motivate program managers, contracting officers, and others in authority to promote competition in procurement programs; and
   - **(6)** describe other ways in which the executive agency has emphasized competition in programs for procurement training and research.
 - **(c)** The advocate for competition for each procuring activity is responsible for promoting full and open competition, promoting the acquisition of commercial products and commercial services, and challenging barriers to acquisition, including unnecessarily restrictive statements of need, unnecessarily detailed specifications, and unnecessarily burdensome contract clauses.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1705 | 41:418. | Pub. L. 93–400, § 20 , as added Pub. L. 98–369, title VII, § 2732(a) , July 18, 1984 , 98 Stat. 1197 ; Pub. L. 103–355, title VIII, § 8303(a) , Oct. 13, 1994 , 108 Stat. 3398 . |
+
+
+Establishment and Designation.—
+
+Establishment
+
+Designation
+
+Duties and Functions
+
+Responsibilities
+
+Historical and Revision Notes
+
+1705
+
+Pub. L. 93–400, § 20
+
+Pub. L. 98–369, title VII, § 2732(a)
+
+July 18, 1984
+
+98 Stat. 1197
+
+Pub. L. 103–355, title VIII, § 8303(a)
+
+Oct. 13, 1994
+
+108 Stat. 3398
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3709](https://www.govinfo.gov/link/statute/124/3709); [Pub. L. 115–232, div. A, title VIII, § 836(b)(2)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1861](https://www.govinfo.gov/link/statute/132/1861).)*

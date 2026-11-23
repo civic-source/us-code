@@ -3,9 +3,10 @@ title: "Section 543 - Advisory Committee on Prosthetics and Special-Disabilities
 usc_title: 38
 usc_section: "543"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 543"
-generated_at: "2026-03-30T02:55:53.474Z"
+generated_at: "2026-11-23T21:26:16.559Z"
+status: "active"
 ---
 
 # § 543. Advisory Committee on Prosthetics and Special-Disabilities Programs
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:53.474Z"
   - **(3)** veterans who have lost or lost the use of extremities;
   - **(4)** hearing-impaired veterans; and
   - **(5)** other veterans with serious incapacities in terms of daily life functions.
+
+## Source Credit
+
+*(Added [Pub. L. 102–405, title I, § 105(b)(1)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1975](https://www.govinfo.gov/link/statute/106/1975).)*

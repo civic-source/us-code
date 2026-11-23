@@ -3,12 +3,17 @@ title: "Section 2261 - Credit of donations and proceeds from exhibitions to appr
 usc_title: 7
 usc_section: "2261"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2261"
-generated_at: "2026-03-30T02:53:42.382Z"
+generated_at: "2026-11-23T21:25:28.289Z"
+status: "active"
 ---
 
 # § 2261. Credit of donations and proceeds from exhibitions to appropriations concerned with foreign market development programs
 
 In the conduct of foreign market development programs, the Secretary of Agriculture is authorized to credit contributions from individuals, firms, associations, agencies, and other groups, and the proceeds received from space rentals, and sales of products and materials at exhibitions, to the appropriations charged with the cost of acquiring such space, products, and materials.
 
+
+## Source Credit
+
+*([Pub. L. 87–128, title II, § 203](https://www.govinfo.gov/link/plaw/87/public/128), Aug. 8, 1961, [75 Stat. 307](https://www.govinfo.gov/link/statute/75/307).)*

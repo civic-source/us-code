@@ -3,9 +3,10 @@ title: "Section 20140 - Alcohol and controlled substances testing"
 usc_title: 49
 usc_section: "20140"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 20140"
-generated_at: "2026-03-30T02:56:19.335Z"
+generated_at: "2026-11-23T21:26:40.706Z"
+status: "active"
 ---
 
 # § 20140. Alcohol and controlled substances testing
@@ -35,3 +36,59 @@ generated_at: "2026-03-30T02:56:19.335Z"
   - **(1)** shall establish only requirements that are consistent with international obligations of the United States; and
   - **(2)** shall consider applicable laws and regulations of foreign countries.
 - **(f)** This section does not prevent the Secretary of Transportation from continuing in effect, amending, or further supplementing a regulation prescribed or order issued before October 28, 1991 , governing the use of alcohol or a controlled substance in railroad operations.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 20140(a) | 45:431(r)(5). | Oct. 16, 1970 , Pub. L. 91–458 , 84 Stat. 971 , § 202(r); added Oct. 28, 1991 , Pub. L. 102–143, § 4 , 105 Stat. 957 . |
+| 20140(b) | 45:431(r)(1) (1st–3d sentences). |  |
+| 20140(c) | 45:431(r)(2). |  |
+| 20140(d) | 45:431(r)(3). |  |
+| 20140(e) | 45:431(r)(4). |  |
+| 20140(f) | 45:431(r)(1) (last sentence). |  |
+
+
+Definition
+
+General
+
+Testing and Laboratory Requirements
+
+Rehabilitation
+
+International Obligations and Foreign Laws and Regulations
+
+Other Regulations Allowed
+
+Historical and Revision Notes
+
+20140(a)
+
+Oct. 16, 1970
+
+Pub. L. 91–458
+
+84 Stat. 971
+
+Oct. 28, 1991
+
+Pub. L. 102–143, § 4
+
+105 Stat. 957
+
+20140(b)
+
+20140(c)
+
+20140(d)
+
+20140(e)
+
+20140(f)
+
+In General
+
+Definition of Mechanical Activities
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 876](https://www.govinfo.gov/link/statute/108/876); [Pub. L. 104–59, title III, § 342(b)](https://www.govinfo.gov/link/plaw/104/public/59), Nov. 28, 1995, [109 Stat. 609](https://www.govinfo.gov/link/statute/109/609).)*

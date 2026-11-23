@@ -3,9 +3,10 @@ title: "Section 1033a - Augustus F. Hawkins centers of excellence"
 usc_title: 20
 usc_section: "1033a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1033a"
-generated_at: "2026-03-30T02:54:48.098Z"
+generated_at: "2026-11-23T21:25:47.027Z"
+status: "active"
 ---
 
 # § 1033a. Augustus F. Hawkins centers of excellence
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:48.098Z"
 - **(d)** The minimum amount of each grant under this subpart shall be $500,000.
 - **(e)** An eligible institution that receives a grant under this subpart may use not more than two percent of the funds provided to administer the grant.
 - **(f)** The Secretary shall prescribe such regulations as may be necessary to carry out this subpart.
+
+## Source Credit
+
+*([Pub. L. 89–329, title II, § 242](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title II, § 201(3)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3158](https://www.govinfo.gov/link/statute/122/3158); amended [Pub. L. 114–95, title IX, § 9214(c)(8)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2163](https://www.govinfo.gov/link/statute/129/2163).)*

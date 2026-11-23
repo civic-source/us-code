@@ -3,9 +3,10 @@ title: "Section 2302 - Functions of the Council; membership"
 usc_title: 36
 usc_section: "2302"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 2302"
-generated_at: "2026-03-30T02:55:44.691Z"
+generated_at: "2026-11-23T21:26:13.493Z"
+status: "active"
 ---
 
 # § 2302. Functions of the Council; membership
@@ -24,3 +25,23 @@ generated_at: "2026-03-30T02:55:44.691Z"
 - **(f)** The Council shall adopt bylaws to carry out its functions under this chapter. The Chairperson may waive a bylaw when the Chairperson decides that waiver is in the best interest of the Council. Immediately after waiving a bylaw, the Chairperson shall send written notice of the waiver to every voting member of the Council. The waiver becomes final 30 days after the notice is sent unless a majority of Council members disagree in writing before the end of the 30-day period.
 - **(g)** One-third of the members of the Council shall constitute a quorum, and any vacancy in the Council shall not affect its powers to function.
 - **(h)** Subject to appointment by the Chairperson, an individual who is not a member of the Council may be designated as a member of a committee associated with the Council. Such an individual shall serve without cost to the Federal Government.
+
+In General
+
+Composition of Council; Appointment; Vacancies
+
+Term of Office.—
+
+Chairperson and Vice Chairperson; Term of Office
+
+Reappointment
+
+Bylaws
+
+Quorum
+
+Associated Committees
+
+## Source Credit
+
+*(Added [Pub. L. 106–292, § 1](https://www.govinfo.gov/link/plaw/106/public/292), Oct. 12, 2000, [114 Stat. 1031](https://www.govinfo.gov/link/statute/114/1031).)*

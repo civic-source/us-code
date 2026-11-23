@@ -3,9 +3,10 @@ title: "Section 860b - Art. 60b. Post-trial actions in summary courts-martial an
 usc_title: 10
 usc_section: "860b"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 860b"
-generated_at: "2026-03-30T02:53:38.082Z"
+generated_at: "2026-11-23T21:25:32.340Z"
+status: "active"
 ---
 
 # § 860b. Art. 60b. Post-trial actions in summary courts-martial and certain general and special courts-martial
@@ -30,3 +31,15 @@ generated_at: "2026-03-30T02:53:38.082Z"
 - **(d)**
   - **(1)** In a general or special court-martial, the decision of the convening authority under this section shall be forwarded to the military judge, with copies provided to the accused and to any victim of the offense.
   - **(2)** If the convening authority acts on the findings or the sentence under subsection (a)(1), the decision of the convening authority shall include a written explanation of the reasons for such action.
+
+In General
+
+Limitations on Rehearings
+
+Submissions by Accused and Victim
+
+Decision of Convening Authority
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. E, title LIX, § 5323](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2926](https://www.govinfo.gov/link/statute/130/2926).)*

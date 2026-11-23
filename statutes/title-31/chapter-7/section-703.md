@@ -3,9 +3,10 @@ title: "Section 703 - Comptroller General and Deputy Comptroller General"
 usc_title: 31
 usc_section: "703"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 703"
-generated_at: "2026-03-30T02:55:34.046Z"
+generated_at: "2026-11-23T21:26:10.525Z"
+status: "active"
 ---
 
 # § 703. Comptroller General and Deputy Comptroller General
@@ -37,3 +38,84 @@ generated_at: "2026-03-30T02:55:34.046Z"
 - **(f)** The annual rate of basic pay of the—
   - **(1)** Comptroller General is equal to the rate for level II of the Executive Schedule; and
   - **(2)** Deputy Comptroller General is equal to the rate for level III of the Executive Schedule.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 703(a)(1) | 31:42(a)(1st sentence words after comma). | June 10, 1921, ch. 18, § 302(a) (1st sentence words after 1st comma, last sentence), 42 Stat. 23 ; Apr. 3, 1980 , Pub. L. 96–226, § 104(a) , 94 Stat. 314 . |
+| 703(a)(2), (3) | 31:42(b). | June 10, 1921, ch. 18 , 42 Stat. 20 , § 302(b); added Apr. 3, 1980 , Pub. L. 96–226, § 104(a) , 94 Stat. 314 . |
+| 703(b) | 31:43(1st par. 1st, 2d sentence). | June 10, 1921, ch. 18, § 303 (1st par.), 42 Stat. 23 ; Apr. 3, 1980 , Pub. L. 96–226, § 104(b)(1) , 94 Stat. 315 . |
+| 703(c) | 31:42(a)(last sentence). |  |
+| 703(d) | 31:43a. | June 27, 1944, ch. 286, § 101 (last par. on p. 371), 58 Stat. 371 . |
+| 703(e) | 31:43(1st par. 3d–last sentences). |  |
+| 703(f) | 31:42a. | Aug. 14, 1964 , Pub. L. 88–426, § 203(a) , (b), 78 Stat. 415 ; Dec. 16, 1967 , Pub. L. 90–206, § 219(1) , 81 Stat. 639 ; restated Aug. 9, 1975 , Pub. L. 94–82, § 204(b) , 89 Stat. 421 . |
+
+
+Historical and Revision Notes
+
+703(a)(1)
+
+June 10, 1921, ch. 18, § 302(a)
+
+42 Stat. 23
+
+Apr. 3, 1980
+
+Pub. L. 96–226, § 104(a)
+
+94 Stat. 314
+
+June 10, 1921, ch. 18
+
+42 Stat. 20
+
+Apr. 3, 1980
+
+Pub. L. 96–226, § 104(a)
+
+94 Stat. 314
+
+703(b)
+
+June 10, 1921, ch. 18, § 303
+
+42 Stat. 23
+
+Apr. 3, 1980
+
+Pub. L. 96–226, § 104(b)(1)
+
+94 Stat. 315
+
+703(c)
+
+703(d)
+
+June 27, 1944, ch. 286, § 101
+
+58 Stat. 371
+
+703(e)
+
+703(f)
+
+Aug. 14, 1964
+
+Pub. L. 88–426, § 203(a)
+
+78 Stat. 415
+
+Dec. 16, 1967
+
+Pub. L. 90–206, § 219(1)
+
+81 Stat. 639
+
+Aug. 9, 1975
+
+Pub. L. 94–82, § 204(b)
+
+89 Stat. 421
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 888](https://www.govinfo.gov/link/statute/96/888); [Pub. L. 100–426, title II, § 201](https://www.govinfo.gov/link/plaw/100/public/426), Sept. 9, 1988, [102 Stat. 1599](https://www.govinfo.gov/link/statute/102/1599); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

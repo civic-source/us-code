@@ -3,9 +3,10 @@ title: "Section 1337 - Omitted"
 usc_title: 15
 usc_section: "1337"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1337"
-generated_at: "2026-03-30T02:54:08.134Z"
+generated_at: "2026-11-23T21:25:39.817Z"
+status: "omitted"
 ---
 
 # § 1337. Omitted

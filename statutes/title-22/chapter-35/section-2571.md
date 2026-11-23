@@ -3,9 +3,10 @@ title: "Section 2571 - Research, development and other studies"
 usc_title: 22
 usc_section: "2571"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2571"
-generated_at: "2026-03-30T02:55:05.372Z"
+generated_at: "2026-11-23T21:25:58.509Z"
+status: "active"
 ---
 
 # § 2571. Research, development and other studies
@@ -25,3 +26,7 @@ The Secretary of State is authorized and directed to exercise his powers in this
 - **(k)** methods for the maintenance of peace and security during different stages of arms control, nonproliferation, and disarmament;
 - **(l)** the scientific, economic, political, legal, social, psychological, military, and technological factors related to the prevention of war with a view to a better understanding of how the basic structure of a lasting peace may be established; and
 - **(m)** such related problems as the Secretary of State may determine to be in need of research, development, or study in order to carry out the provisions of this chapter.
+
+## Source Credit
+
+*([Pub. L. 87–297, title III, § 301](https://www.govinfo.gov/link/plaw/87/public/297), formerly § 31, Sept. 26, 1961, [75 Stat. 633](https://www.govinfo.gov/link/statute/75/633); [Pub. L. 88–186, § 5](https://www.govinfo.gov/link/plaw/88/public/186), Nov. 26, 1963, [77 Stat. 342](https://www.govinfo.gov/link/statute/77/342); [Pub. L. 95–108, § 3](https://www.govinfo.gov/link/plaw/95/public/108), Aug. 17, 1977, [91 Stat. 871](https://www.govinfo.gov/link/statute/91/871); [Pub. L. 97–339, § 4](https://www.govinfo.gov/link/plaw/97/public/339), Oct. 15, 1982, [96 Stat. 1636](https://www.govinfo.gov/link/statute/96/1636); [Pub. L. 103–236, title VII, § 719(c)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 501](https://www.govinfo.gov/link/statute/108/501); renumbered § 301 and amended [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XII, § 1223(6), (21), Oct. 21, 1998, [112 Stat. 2681–769](https://www.govinfo.gov/link/statute/112/2681), 2681–772.)*

@@ -3,9 +3,10 @@ title: "Section 3291 - International agricultural research, extension, and teach
 usc_title: 7
 usc_section: "3291"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3291"
-generated_at: "2026-03-30T02:53:42.400Z"
+generated_at: "2026-11-23T21:25:28.327Z"
+status: "active"
 ---
 
 # § 3291. International agricultural research, extension, and teaching
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:53:42.400Z"
   - **(2)** Activities under the BARD Fund to promote and support agricultural research and development that are of mutual benefit to the United States and Israel shall—
     - **(A)** accelerate the demonstration, development, and application of agricultural solutions resulting from or relating to BARD Fund programs, including BARD Fund-sponsored research and innovations in drip irrigation, pesticides, aquaculture, livestock, poultry, disease control, and farm equipment; and
     - **(B)** encourage research carried out by governmental, nongovernmental, and private entities, including through collaboration with colleges and universities, research institutions, and the private sector.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1458](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 1015](https://www.govinfo.gov/link/statute/91/1015); [Pub. L. 97–98, title XIV, § 1436](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1313](https://www.govinfo.gov/link/statute/95/1313); [Pub. L. 99–198, title XIV, § 1418](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1550](https://www.govinfo.gov/link/statute/99/1550); [Pub. L. 101–624, title XVI, § 1613(a)](https://www.govinfo.gov/link/plaw/101/public/624), (b), (d)(1), Nov. 28, 1990, [104 Stat. 3724](https://www.govinfo.gov/link/statute/104/3724), 3726; [Pub. L. 102–237, title IV, § 402(11)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1863](https://www.govinfo.gov/link/statute/105/1863); [Pub. L. 104–127, title VIII, § 816](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1167](https://www.govinfo.gov/link/statute/110/1167); [Pub. L. 105–185, title II, § 227(a)](https://www.govinfo.gov/link/plaw/105/public/185) –(d), June 23, 1998, [112 Stat. 543–545](https://www.govinfo.gov/link/statute/112/543); [Pub. L. 107–171, title VII, § 7209(c)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 445](https://www.govinfo.gov/link/statute/116/445); [Pub. L. 110–234, title VII](https://www.govinfo.gov/link/plaw/110/public/234), §§ 7130, 7511(c)(10)(B), May 22, 2008, [122 Stat. 1227](https://www.govinfo.gov/link/statute/122/1227), 1268; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, §§ 7130, 7511(c)(10)(B), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1988, 2029; [Pub. L. 115–334, title VII, § 7122](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4792](https://www.govinfo.gov/link/statute/132/4792).)*

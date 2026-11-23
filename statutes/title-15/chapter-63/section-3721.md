@@ -3,9 +3,10 @@ title: "Section 3721 - Federal loan guarantees for innovative technologies in ma
 usc_title: 15
 usc_section: "3721"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3721"
-generated_at: "2026-03-30T02:54:08.194Z"
+generated_at: "2026-11-23T21:25:39.980Z"
+status: "active"
 ---
 
 # § 3721. Federal loan guarantees for innovative technologies in manufacturing
@@ -75,3 +76,7 @@ generated_at: "2026-03-30T02:54:08.194Z"
   - **(5)** The term “obligation” means the loan or other debt obligation that is guaranteed under this section.
   - **(6)** The term “program” means the loan guarantee program established in subsection (a).
 - **(t)** There are authorized to be appropriated $20,000,000 for each of fiscal years 2011 through 2013 to provide the cost of loan guarantees under this section.
+
+## Source Credit
+
+*([Pub. L. 96–480, § 26](https://www.govinfo.gov/link/plaw/96/public/480), as added [Pub. L. 111–358, title VI, § 602](https://www.govinfo.gov/link/plaw/111/public/358), Jan. 4, 2011, [124 Stat. 4026](https://www.govinfo.gov/link/statute/124/4026); amended [Pub. L. 117–167, div. B, title II, § 10246(b)(2)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1492](https://www.govinfo.gov/link/statute/136/1492).)*

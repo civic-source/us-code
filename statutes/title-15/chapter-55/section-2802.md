@@ -3,9 +3,10 @@ title: "Section 2802 - Franchise relationship"
 usc_title: 15
 usc_section: "2802"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2802"
-generated_at: "2026-03-30T02:54:08.183Z"
+generated_at: "2026-11-23T21:25:39.954Z"
+status: "active"
 ---
 
 # § 2802. Franchise relationship
@@ -87,3 +88,7 @@ generated_at: "2026-03-30T02:54:08.183Z"
 - **(d)** In the case of any termination of a franchise (entered into or renewed on or after June 19, 1978 ), or in the case of any nonrenewal of a franchise relationship (without regard to the date on which such franchise relationship was entered into or renewed)—
   - **(1)** if such termination or nonrenewal is based upon an event described in subsection (c)(5), the franchisor shall fairly apportion between the franchisor and the franchisee compensation, if any, received by the franchisor based upon any loss of business opportunity or good will; and
   - **(2)** if such termination or nonrenewal is based upon an event described in subsection (c)(7) and the leased marketing premises are subsequently rebuilt or replaced by the franchisor and operated under a franchise, the franchisor shall, within a reasonable period of time, grant to the franchisee a right of first refusal of the franchise under which such premises are to be operated.
+
+## Source Credit
+
+*([Pub. L. 95–297, title I, § 102](https://www.govinfo.gov/link/plaw/95/public/297), June 19, 1978, [92 Stat. 324](https://www.govinfo.gov/link/statute/92/324); [Pub. L. 103–371](https://www.govinfo.gov/link/plaw/103/public/371), §§ 2, 3, Oct. 19, 1994, [108 Stat. 3484](https://www.govinfo.gov/link/statute/108/3484).)*

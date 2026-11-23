@@ -3,9 +3,10 @@ title: "Section 3315A - National tests"
 usc_title: 38
 usc_section: "3315A"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3315A"
-generated_at: "2026-03-30T02:55:53.503Z"
+generated_at: "2026-11-23T21:26:16.737Z"
+status: "active"
 ---
 
 # § 3315A. National tests
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:55:53.503Z"
 - **(c)** The number of months of entitlement charged an individual under this chapter for a test described in subsection (a) shall be pro-rated based on the actual amount of the fee charged for the test relative to the rate for 1 month payable—
   - **(1)** for the academic year beginning on August 1, 2011 , $1,460; or
   - **(2)** for an academic year beginning on any subsequent August 1, the amount for the previous academic year beginning on August 1 under this subsection, as increased by the percentage increase equal to the most recent percentage increase determined under section 3015(h).
+
+In General
+
+Amount
+
+Charge Against Entitlement
+
+## Source Credit
+
+*(Added [Pub. L. 111–377, title I, § 108(a)(1)](https://www.govinfo.gov/link/plaw/111/public/377), Jan. 4, 2011, [124 Stat. 4118](https://www.govinfo.gov/link/statute/124/4118); amended [Pub. L. 115–48, title I, § 108(b)](https://www.govinfo.gov/link/plaw/115/public/48), Aug. 16, 2017, [131 Stat. 978](https://www.govinfo.gov/link/statute/131/978).)*

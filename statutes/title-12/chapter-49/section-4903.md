@@ -3,9 +3,10 @@ title: "Section 4903 - Disclosure requirements"
 usc_title: 12
 usc_section: "4903"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4903"
-generated_at: "2026-03-30T02:53:53.520Z"
+generated_at: "2026-11-23T21:25:37.223Z"
+status: "active"
 ---
 
 # § 4903. Disclosure requirements
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:53.520Z"
   - **(2)** an address and telephone number that the mortgagor may use to contact the servicer to determine whether the mortgagor may cancel the private mortgage insurance.
 - **(c)** The information and disclosures required under subsection (b) and subsection (a)(3) may be provided on the annual disclosure relating to the escrow account made as required under the Real Estate Settlement Procedures Act of 1974 [ 12 U.S.C. 2601 et seq.], or as part of the annual disclosure of interest payments made pursuant to Internal Revenue Service regulations, and on a form promulgated by the Internal Revenue Service for that purpose.
 - **(d)** The mortgagee or servicer may use standardized forms for the provision of disclosures required under this section, which disclosures shall relate to the mortgagor’s rights under this chapter.
+
+## Source Credit
+
+*([Pub. L. 105–216, § 4](https://www.govinfo.gov/link/plaw/105/public/216), July 29, 1998, [112 Stat. 902](https://www.govinfo.gov/link/statute/112/902); [Pub. L. 106–569, title IV](https://www.govinfo.gov/link/plaw/106/public/569), §§ 402(c)(2), 403(b), Dec. 27, 2000, [114 Stat. 2957](https://www.govinfo.gov/link/statute/114/2957).)*

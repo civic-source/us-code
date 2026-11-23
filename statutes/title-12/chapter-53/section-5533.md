@@ -3,9 +3,10 @@ title: "Section 5533 - Consumer rights to access information"
 usc_title: 12
 usc_section: "5533"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5533"
-generated_at: "2026-03-30T02:53:53.545Z"
+generated_at: "2026-11-23T21:25:37.286Z"
+status: "active"
 ---
 
 # § 5533. Consumer rights to access information
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:53.545Z"
   - **(1)** impose substantively similar requirements on covered persons;
   - **(2)** take into account conditions under which covered persons do business both in the United States and in other countries; and
   - **(3)** do not require or promote the use of any particular technology in order to develop systems for compliance.
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1033](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2008](https://www.govinfo.gov/link/statute/124/2008).)*

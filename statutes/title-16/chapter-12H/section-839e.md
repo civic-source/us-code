@@ -3,9 +3,10 @@ title: "Section 839e - Rates"
 usc_title: 16
 usc_section: "839e"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 839e"
-generated_at: "2026-03-30T02:54:22.932Z"
+generated_at: "2026-11-23T21:25:51.790Z"
+status: "active"
 ---
 
 # § 839e. Rates
@@ -73,3 +74,7 @@ generated_at: "2026-03-30T02:54:22.932Z"
   - **(3)** Payments made pursuant to this subsection shall be made solely from the fund established by section 11 of the Federal Columbia River Transmission System Act [ 16 U.S.C. 838i ]. The provisions of section 13 of such Act [ 16 U.S.C. 838k ], and any appropriations provided to the Administrator under any law, shall not be available for such payments. The authorization of payments under this subsection shall not be construed as an obligation of the United States.
   - **(4)** No payment may be made under this subsection with respect to any land or interests in land owned by the United States within the region and administered by any Federal agency (other than the Administrator), without regard to how the United States obtained ownership thereof, including lands or interests therein acquired or withdrawn by a Federal agency for purposes of such agency and subsequently made available to the Administrator for such facilities.
 - **(n)** Notwithstanding any other provision of this section, rates established by the Administrator, under this section shall recover costs for protection, mitigation and enhancement of fish and wildlife, whether under this chapter or any other Act, not to exceed such amounts the Administrator forecasts will be expended during the fiscal year 2002–2006 rate period, while preserving the Administrator’s ability to establish appropriate reserves and maintain a high Treasury payment probability for the subsequent rate period.
+
+## Source Credit
+
+*([Pub. L. 96–501, § 7](https://www.govinfo.gov/link/plaw/96/public/501), Dec. 5, 1980, [94 Stat. 2723](https://www.govinfo.gov/link/statute/94/2723); [Pub. L. 106–60, title III, § 316](https://www.govinfo.gov/link/plaw/106/public/60), Sept. 29, 1999, [113 Stat. 497](https://www.govinfo.gov/link/statute/113/497).)*

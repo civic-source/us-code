@@ -3,9 +3,10 @@ title: "Section 7281 - National activities for school safety"
 usc_title: 20
 usc_section: "7281"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7281"
-generated_at: "2026-03-30T02:54:48.209Z"
+generated_at: "2026-11-23T21:25:47.571Z"
+status: "active"
 ---
 
 # § 7281. National activities for school safety
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:48.209Z"
 - **(c)** In this section, the term “eligible entity” means—
   - **(1)** a local educational agency, as defined in subparagraph (A), (B), or (C) of section 7801(30) of this title , or institution of higher education in which the learning environment has been disrupted due to a violent or traumatic crisis; or
   - **(2)** the Bureau of Indian Education in a case where the learning environment of a school operated or funded by the Bureau, including a school meeting the definition of a local educational agency under section 7801(30)(C) of this title , has been disrupted due to a violent or traumatic crisis.
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4631](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title IV, § 4601](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2032](https://www.govinfo.gov/link/statute/129/2032).)*

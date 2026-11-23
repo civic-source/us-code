@@ -3,9 +3,10 @@ title: "Section 426n - Boundary revision of Stones River National Battlefield"
 usc_title: 16
 usc_section: "426n"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 426n"
-generated_at: "2026-03-30T02:54:22.792Z"
+generated_at: "2026-11-23T21:25:51.508Z"
+status: "active"
 ---
 
 # § 426n. Boundary revision of Stones River National Battlefield
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:22.792Z"
     - **(B)** Any right of use and occupancy retained pursuant to this section may, during its existence, be conveyed or transferred, but all rights of use and occupancy shall be subject to such terms and conditions as the Secretary deems appropriate to assure the use of the property in accordance with the purposes of sections 426n to 426p of this title. Upon his determination that the property, or any portion thereof, has ceased to be so used in accordance with such terms and conditions, the Secretary may terminate the right of use and occupancy by tendering to the holder of such right an amount equal to the fair market value, as of the date of the tender, of that portion of the right which remains unexpired on the date of termination.
     - **(C)** This paragraph applies only to owners who have reached the age of majority.
     - **(D)** As used in this paragraph, the term “improved property” means a detached, year-round noncommercial residential dwelling, the construction of which was begun before December 11, 1991 , together with so much of the land on which the dwelling is situated, such land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
+
+## Source Credit
+
+*([Pub. L. 100–205, § 1](https://www.govinfo.gov/link/plaw/100/public/205), Dec. 23, 1987, [101 Stat. 1433](https://www.govinfo.gov/link/statute/101/1433); [Pub. L. 102–225, § 1(1)](https://www.govinfo.gov/link/plaw/102/public/225), (2), Dec. 11, 1991, [105 Stat. 1682](https://www.govinfo.gov/link/statute/105/1682); [Pub. L. 103–437, § 6(d)(15)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4584](https://www.govinfo.gov/link/statute/108/4584).)*

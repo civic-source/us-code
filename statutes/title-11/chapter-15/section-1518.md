@@ -3,9 +3,10 @@ title: "Section 1518 - Subsequent information"
 usc_title: 11
 usc_section: "1518"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1518"
-generated_at: "2026-03-30T02:53:53.888Z"
+generated_at: "2026-11-23T21:25:34.978Z"
+status: "active"
 ---
 
 # § 1518. Subsequent information
@@ -14,3 +15,7 @@ From the time of filing the petition for recognition of a foreign proceeding, th
 
   - **(1)** any substantial change in the status of such foreign proceeding or the status of the foreign representative’s appointment; and
   - **(2)** any other foreign proceeding regarding the debtor that becomes known to the foreign representative.
+
+## Source Credit
+
+*(Added [Pub. L. 109–8, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 140](https://www.govinfo.gov/link/statute/119/140).)*

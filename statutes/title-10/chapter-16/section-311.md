@@ -3,9 +3,10 @@ title: "Section 311 - Exchange of defense personnel between United States and fr
 usc_title: 10
 usc_section: "311"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 311"
-generated_at: "2026-03-30T02:53:38.052Z"
+generated_at: "2026-11-23T21:25:32.251Z"
+status: "active"
 ---
 
 # § 311. Exchange of defense personnel between United States and friendly foreign countries: authority
@@ -31,3 +32,119 @@ generated_at: "2026-03-30T02:53:38.052Z"
     - **(C)** Costs incident to the use of the facilities of the host government in the performance of assigned duties.
 - **(e)** No personnel exchanged pursuant to an agreement under this section may take or be required to take an oath of allegiance to the host country or to hold an official capacity in the government of such country.
 - **(f)** The requirements in subsections (c) and (d) shall apply in the exercise of any authority of the Secretaries of the military departments to enter into an agreement with the government of a foreign country to provide for the exchange of members of the armed forces and military personnel of the defense or security ministry of that foreign country. The Secretary of Defense may prescribe regulations for the application of such subsections in the exercise of such authority.
+
+Authority To Enter Into International Exchange Agreements
+
+Assignment of Personnel
+
+Reciprocity of Personnel Qualifications Required
+
+Payment of Personnel Costs
+
+Prohibited Conditions
+
+Relationship to Other Authority
+
+In General
+
+Purpose
+
+Membership.—
+
+Composition
+
+Subject matter.—
+
+In general
+
+Participant pay grade levels
+
+Expertise
+
+Exchange Program Content
+
+Meetings
+
+Exchange Program Coordinator.—
+
+In general
+
+Duties
+
+Notification to congress
+
+Report.—
+
+In general
+
+Form
+
+Definitions
+
+Department of defense school
+
+Participating militaries in support of middle east regional integration
+
+Establishment
+
+Institutional Partnership
+
+Termination Date
+
+Covered Personnel Defined
+
+Establishment
+
+Duration
+
+Limitations.—
+
+Purposes
+
+Prohibited assistance
+
+Security cooperation
+
+Sustainment and non-lethal assistance
+
+Funding
+
+Prioritization
+
+Annual Report.—
+
+In general
+
+Deadline
+
+Elements
+
+Temporary Cessation of Authorization
+
+Definitions
+
+In General
+
+Purposes
+
+Priority
+
+Briefings.—
+
+Design of pilot program
+
+Progress briefing
+
+Termination
+
+Appropriate Committees of Congress Defined
+
+Limitation
+
+Covered Exchanges and Contacts
+
+Exceptions
+
+## Source Credit
+
+*(Added and amended [Pub. L. 114–328, div. A, title XII, § 1242(a)](https://www.govinfo.gov/link/plaw/114/public/328), (b), Dec. 23, 2016, [130 Stat. 2512](https://www.govinfo.gov/link/statute/130/2512), 2513; [Pub. L. 115–232, div. A, title XII, § 1204(c)(1)(A)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2017](https://www.govinfo.gov/link/statute/132/2017).)*

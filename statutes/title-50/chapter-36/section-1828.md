@@ -3,9 +3,10 @@ title: "Section 1828 - Civil liability"
 usc_title: 50
 usc_section: "1828"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1828"
-generated_at: "2026-03-30T02:56:26.210Z"
+generated_at: "2026-11-23T21:26:38.940Z"
+status: "active"
 ---
 
 # § 1828. Civil liability
@@ -15,3 +16,7 @@ An aggrieved person, other than a foreign power or an agent of a foreign power, 
   - **(1)** actual damages, but not less than liquidated damages of $1,000 or $100 per day for each day of violation, whichever is greater;
   - **(2)** punitive damages; and
   - **(3)** reasonable attorney’s fees and other investigative and litigation costs reasonably incurred.
+
+## Source Credit
+
+*([Pub. L. 95–511, title III, § 308](https://www.govinfo.gov/link/plaw/95/public/511), as added [Pub. L. 103–359, title VIII, § 807(a)(3)](https://www.govinfo.gov/link/plaw/103/public/359), Oct. 14, 1994, [108 Stat. 3452](https://www.govinfo.gov/link/statute/108/3452).)*

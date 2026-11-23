@@ -3,9 +3,10 @@ title: "Section 1b - Tenant participation in multifamily housing projects"
 usc_title: 12
 usc_section: "1b"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1b"
-generated_at: "2026-03-30T02:53:53.420Z"
+generated_at: "2026-11-23T21:25:36.896Z"
+status: "active"
 ---
 
 # § 1715z–1b. Tenant participation in multifamily housing projects
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:53.420Z"
   - **(3)** leases approved by the Secretary provide that tenants may not be evicted without good cause or without adequate notice of the reasons therefor and do not contain unreasonable terms and conditions; and
   - **(4)** project owners do not impede the reasonable efforts of resident tenant organizations to represent their members or the reasonable efforts of tenants to organize.
 - **(c)** The Secretary shall promulgate regulations to carry out the provisions of this section not later than 90 days after October 31, 1978 .
+
+## Source Credit
+
+*([Pub. L. 95–557, title II, § 202](https://www.govinfo.gov/link/plaw/95/public/557), Oct. 31, 1978, [92 Stat. 2088](https://www.govinfo.gov/link/statute/92/2088); [Pub. L. 97–35, title III, § 329F](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 410](https://www.govinfo.gov/link/statute/95/410); [Pub. L. 100–242, title I, § 183(a)](https://www.govinfo.gov/link/plaw/100/public/242), (b), Feb. 5, 1988, [101 Stat. 1872](https://www.govinfo.gov/link/statute/101/1872); [Pub. L. 105–276, title V, § 599(a)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2660](https://www.govinfo.gov/link/statute/112/2660).)*

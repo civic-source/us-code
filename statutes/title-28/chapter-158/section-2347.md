@@ -3,9 +3,10 @@ title: "Section 2347 - Petitions to review; proceedings"
 usc_title: 28
 usc_section: "2347"
 chapter: 158
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 2347"
-generated_at: "2026-03-30T02:55:30.148Z"
+generated_at: "2026-11-23T21:26:01.125Z"
+status: "active"
 ---
 
 # § 2347. Petitions to review; proceedings
@@ -18,3 +19,27 @@ generated_at: "2026-03-30T02:55:30.148Z"
 - **(c)** If a party to a proceeding to review applies to the court of appeals in which the proceeding is pending for leave to adduce additional evidence and shows to the satisfaction of the court that—
   - **(1)** the additional evidence is material; and
   - **(2)** there were reasonable grounds for failure to adduce the evidence before the agency;
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 1037 . | Dec. 29, 1950, ch. 1189, § 7 , 64 Stat. 1130 . |
+|  |  | Aug. 28, 1958 , Pub. L. 85–791, § 31(b) , 72 Stat. 951 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 1037
+
+Dec. 29, 1950, ch. 1189, § 7
+
+64 Stat. 1130
+
+Aug. 28, 1958
+
+Pub. L. 85–791, § 31(b)
+
+72 Stat. 951
+
+## Source Credit
+
+*(Added [Pub. L. 89–554, § 4(e)](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 623](https://www.govinfo.gov/link/statute/80/623).)*

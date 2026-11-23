@@ -3,9 +3,10 @@ title: "Section 412 - Renumbered § 408]"
 usc_title: 23
 usc_section: "412"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 412"
-generated_at: "2026-03-30T02:55:12.571Z"
+generated_at: "2026-11-23T21:25:53.932Z"
+status: "renumbered"
 ---
 
 # [§ 412. Renumbered § 408]

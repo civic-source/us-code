@@ -3,9 +3,10 @@ title: "Section 6703 - National culvert removal, replacement, and restoration gr
 usc_title: 49
 usc_section: "6703"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 6703"
-generated_at: "2026-03-30T02:56:19.323Z"
+generated_at: "2026-11-23T21:26:40.672Z"
+status: "active"
 ---
 
 # § 6703. National culvert removal, replacement, and restoration grant program
@@ -37,3 +38,35 @@ generated_at: "2026-03-30T02:56:19.323Z"
 - **(g)** The Secretary, in consultation with the Undersecretary and the Director, shall develop a process to provide technical assistance to Indian Tribes and underserved communities to assist in the project design and grant process and procedures.
 - **(h)** Of the amounts made available for each fiscal year to carry out the program, the Secretary, the Undersecretary, and the Director may use not more than 2 percent to pay the administrative expenses necessary to carry out this section.
 - **(i)** There is authorized to be appropriated to carry out the program $800,000,000 for each of fiscal years 2022 through 2026.
+
+Definitions
+
+Director
+
+Indian tribe
+
+Program
+
+Secretary
+
+Undersecretary
+
+Establishment
+
+Eligible Entities
+
+Grant Selection Process
+
+Prioritization
+
+Federal Share
+
+Technical Assistance
+
+Administrative Expenses
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. B, title I, § 21203(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 676](https://www.govinfo.gov/link/statute/135/676).)*

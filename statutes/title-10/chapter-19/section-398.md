@@ -3,9 +3,10 @@ title: "Section 398 - Military information support operations in information env
 usc_title: 10
 usc_section: "398"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 398"
-generated_at: "2026-03-30T02:53:38.057Z"
+generated_at: "2026-11-23T21:25:32.263Z"
+status: "active"
 ---
 
 # § 398. Military information support operations in information environment
@@ -33,3 +34,13 @@ generated_at: "2026-03-30T02:53:38.057Z"
   - **(2)** the opinions of United States persons;
   - **(3)** United States policies; or
   - **(4)** media produced by United States entities for United States persons.
+
+Congressional Notification Requirement
+
+Annual Report
+
+Prohibition on Clandestine Operations Designed to Influence Opinions and Politics in United States
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. A, title X, § 1052(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2776](https://www.govinfo.gov/link/statute/136/2776).)*

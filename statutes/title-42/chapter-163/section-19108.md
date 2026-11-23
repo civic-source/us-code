@@ -3,9 +3,10 @@ title: "Section 19108 - Regional Innovation Engines"
 usc_title: 42
 usc_section: "19108"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19108"
-generated_at: "2026-03-30T02:56:11.539Z"
+generated_at: "2026-11-23T21:26:33.869Z"
+status: "active"
 ---
 
 # § 19108. Regional Innovation Engines
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:56:11.539Z"
   - **(1)** use a competitive, merit review process that includes peer review by a diverse group of individuals with relevant expertise from both the private and public sectors; and
   - **(2)** ensure the focus areas of the Regional Innovation Engines do not substantially and unnecessarily duplicate the efforts of any other Regional Innovation Engine or any other similar effort at another Federal agency.
 - **(i)** In making awards under this section, the Director may collaborate with Federal departments and agencies whose missions contribute to or are affected by the technology focus area of the institute.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10388](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1581](https://www.govinfo.gov/link/statute/136/1581).)*

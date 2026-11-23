@@ -3,9 +3,10 @@ title: "Section 5205a - Certain recoupment prohibited"
 usc_title: 42
 usc_section: "5205a"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5205a"
-generated_at: "2026-03-30T02:56:11.228Z"
+generated_at: "2026-11-23T21:26:32.778Z"
+status: "active"
 ---
 
 # § 5205a. Certain recoupment prohibited
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.228Z"
     - **(B)** the Technical Assistance Contractor provided inaccurate information to the local government; and
     - **(C)** the local government relied on the inaccurate information to determine that relevant contracts were eligible, reasonable, and reimbursable.
 - **(c)** This section shall be effective on October 5, 2018 .
+
+## Source Credit
+
+*([Pub. L. 115–254, div. D, § 1237](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3464](https://www.govinfo.gov/link/statute/132/3464).)*

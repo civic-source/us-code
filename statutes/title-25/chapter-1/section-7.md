@@ -3,12 +3,17 @@ title: "Section 7 - Fees for furnishing certified copies of records"
 usc_title: 25
 usc_section: "7"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 7"
-generated_at: "2026-03-30T02:54:52.796Z"
+generated_at: "2026-11-23T21:25:54.530Z"
+status: "active"
 ---
 
 # § 7. Fees for furnishing certified copies of records
 
 The Commissioner of Indian Affairs shall have the custody of said seal, and shall furnish certified copies of any such records, books, maps, or papers belonging to or on the files of said office, to any person applying therefor who shall comply with the requirements of said office, upon the payment by such parties at the rate of 10 cents per hundred words, and $1 for copies of maps or plats, and the additional sum of 25 cents for the Commissioner’s certificate of verification, with the seal of said office; and one of the employees of said office shall be designated by the Commissioner as the receiving clerk, and the amounts so received shall, under the direction of the Commissioner, be paid into the Treasury of the United States; but fees shall not be demanded for such authenticated copies as may be required by the officers of any branch of the Government or by any Indian who shall satisfy the Commissioner by satisfactory legal evidence that he or she is not able, by reason of poverty, to pay such fees, nor for such unverified copies as the Commissioner in his discretion may deem proper to furnish.
 
+
+## Source Credit
+
+*(July 26, 1892, ch. 256, § 4, [27 Stat. 273](https://www.govinfo.gov/link/statute/27/273); [Pub. L. 92–310, title II, § 229(b)](https://www.govinfo.gov/link/plaw/92/public/310), June 6, 1972, [86 Stat. 208](https://www.govinfo.gov/link/statute/86/208).)*

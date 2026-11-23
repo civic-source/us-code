@@ -3,9 +3,10 @@ title: "Section 2015b - Scholarship and fellowship program"
 usc_title: 42
 usc_section: "2015b"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2015b"
-generated_at: "2026-03-30T02:56:11.145Z"
+generated_at: "2026-11-23T21:26:32.315Z"
+status: "active"
 ---
 
 # § 2015b. Scholarship and fellowship program
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.145Z"
 - **(e)** The Commission may appoint directly, with no further competition, public notice, or consideration of any other potential candidate, an individual who has—
   - **(1)** received a scholarship or fellowship awarded by the Commission under this section; and
   - **(2)** completed the academic program for which the scholarship or fellowship was awarded.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 243, as added [Pub. L. 109–58, title VI, § 622(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 782](https://www.govinfo.gov/link/statute/119/782).)*

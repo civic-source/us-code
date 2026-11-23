@@ -3,9 +3,10 @@ title: "Section 2345 - Conditions for financial assistance"
 usc_title: 19
 usc_section: "2345"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2345"
-generated_at: "2026-03-30T02:54:24.671Z"
+generated_at: "2026-11-23T21:25:42.793Z"
+status: "active"
 ---
 
 # § 2345. Conditions for financial assistance
@@ -56,3 +57,11 @@ generated_at: "2026-03-30T02:54:24.671Z"
     - **(B)** “qualified trust” means a trust established under an employee stock ownership plan and meeting the requirements of title I of the Employee Retirement Income Security Act of 1974 [ 29 U.S.C. 1001 et seq.] and section 401 of title 26 ,
     - **(C)** “qualified employer securities” means common stock issued by the recipient corporation or by a parent or subsidiary of such corporation with voting power and dividend rights no less favorable than the voting power and dividend rights on other common stock issued by the issuing corporation and with voting power being exercised by the participants in the employee stock ownership plan after it is allocated to their plan accounts, and
     - **(D)** “equity capital” means, with respect to the recipient corporation, the sum of its money and other property (in an amount equal to the adjusted basis of such property but disregarding adjustments made on account of depreciation or amortization made during the period described in paragraph (3)(D)), less the amount of its indebtedness.
+
+In General
+
+Personnel
+
+## Source Credit
+
+*([Pub. L. 93–618, title II, § 255](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 2031](https://www.govinfo.gov/link/statute/88/2031); [Pub. L. 97–35, title XXV, § 2523](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 891](https://www.govinfo.gov/link/statute/95/891); [Pub. L. 98–120, § 4(a)](https://www.govinfo.gov/link/plaw/98/public/120), Oct. 12, 1983, [97 Stat. 809](https://www.govinfo.gov/link/statute/97/809); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095).)*

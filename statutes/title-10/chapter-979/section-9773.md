@@ -3,9 +3,10 @@ title: "Section 9773 - Acquisition and construction: installations and depots"
 usc_title: 10
 usc_section: "9773"
 chapter: 979
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 9773"
-generated_at: "2026-03-30T02:53:38.262Z"
+generated_at: "2026-11-23T21:25:33.016Z"
+status: "active"
 ---
 
 # § 9773. Acquisition and construction: installations and depots
@@ -31,3 +32,45 @@ generated_at: "2026-03-30T02:53:38.262Z"
 - **(e)** The Secretary may, by purchase, gift, lease, or otherwise, acquire at desired locations bombing and machine gun ranges necessary for practice by, and the training of, tactical units.
 - **(f)** At each installation or depot established under this section, the Secretary shall remove or remodel existing structures as necessary; do necessary grading; and provide buildings, utilities, communication systems, landing fields and mats, roads, walks, aprons, docks, runways, facilities for the storage and distribution of ammunition, fuel, oil, necessary protection against bombs, and all appurtenances to the foregoing.
 - **(g)** The Secretary may direct the transportation of personnel, and the purchase, renovation, and transportation of material, that he considers necessary to carry out this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 9773(a) 9773(b) | 10:1343a (1st sentence). 10:1343a (2d sentence). | Aug. 12, 1935, ch. 511 , §§ 1–3, 49 Stat. 610 . |
+| 9773(c) | 10:1343a (less 1st and 2d sentences). |  |
+| 9773(d) | 10:1343b. |  |
+| 9773(e) | 10:1343c (last sentence). |  |
+| 9773(f) | 10:1343c (1st sentence). |  |
+| 9773(g) | 10:1343c (2d sentence). |  |
+
+
+Historical and Revision Notes
+
+9773(a)
+
+9773(b)
+
+Aug. 12, 1935, ch. 511
+
+49 Stat. 610
+
+9773(c)
+
+9773(d)
+
+9773(e)
+
+9773(f)
+
+9773(g)
+
+Plan Required
+
+Air Base Air Defense Site Requirements
+
+Fielding Requirement
+
+Report
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 588; [Pub. L. 109–163, div. A, title X, § 1057(a)(3)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3440](https://www.govinfo.gov/link/statute/119/3440); [Pub. L. 116–283, div. A, title IX, § 923(e)(17)(A)](https://www.govinfo.gov/link/plaw/116/public/283), (B), Jan. 1, 2021, [134 Stat. 3818](https://www.govinfo.gov/link/statute/134/3818), 3819.)*

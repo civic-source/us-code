@@ -3,9 +3,10 @@ title: "Section 1424 - Eligibility for membership"
 usc_title: 12
 usc_section: "1424"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1424"
-generated_at: "2026-03-30T02:53:53.390Z"
+generated_at: "2026-11-23T21:25:36.819Z"
+status: "active"
 ---
 
 # § 1424. Eligibility for membership
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:53:53.390Z"
       - **(ii)** the Bank has the same right to access such collateral that the Bank would have had if the advance had been made to a federally insured credit union.
 - **(b)** An institution eligible to become a member under this section may become a member only of, or secure advances from, the Federal Home Loan Bank of the district in which is located the institution’s principal place of business, or of the bank of a district adjoining such district, if demanded by convenience and then only with the approval of the Director.
 - **(c)** Notwithstanding the provisions of clause (2) of subsection (a) of this section requiring inspection and regulation under law as a condition with respect to eligibility for membership, any building and loan association which would be eligible to become a member of a Federal Home Loan Bank except for the fact that it is not subject to inspection and regulation under the banking laws or similar laws of the State in which such association is organized shall, upon subjecting itself to such inspection and regulation as the Director shall prescribe, be eligible to become a member.
+
+## Source Credit
+
+*(July 22, 1932, ch. 522, § 4, [47 Stat. 726](https://www.govinfo.gov/link/statute/47/726); June 13, 1933, ch. 64, § 3, [48 Stat. 129](https://www.govinfo.gov/link/statute/48/129); [Pub. L. 101–73, title VII](https://www.govinfo.gov/link/plaw/101/public/73), §§ 701(b)(1), (3)(A), 704(a), 710(b)(1), Aug. 9, 1989, [103 Stat. 412](https://www.govinfo.gov/link/statute/103/412), 415, 418; [Pub. L. 106–102, title VI, § 605](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1452](https://www.govinfo.gov/link/statute/113/1452); [Pub. L. 110–289, div. A, title II](https://www.govinfo.gov/link/plaw/110/public/289), §§ 1204(8), 1206, July 30, 2008, [122 Stat. 2786](https://www.govinfo.gov/link/statute/122/2786), 2787; [Pub. L. 114–94, div. G, title LXXXII, § 82001(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1795](https://www.govinfo.gov/link/statute/129/1795).)*

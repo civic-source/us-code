@@ -3,9 +3,10 @@ title: "Section 1285b - Establishment of boundaries for certain component rivers
 usc_title: 16
 usc_section: "1285b"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1285b"
-generated_at: "2026-03-30T02:54:22.956Z"
+generated_at: "2026-11-23T21:25:51.857Z"
+status: "active"
 ---
 
 # § 1285b. Establishment of boundaries for certain component rivers in Alaska; withdrawal of minerals
@@ -14,3 +15,7 @@ Notwithstanding any other provision to the contrary in sections 1274 and 1280 of
 
   - **(1)** the boundary of each such river shall include an average of not more than six hundred and forty acres per mile on both sides of the river. Such boundary shall not include any lands owned by the State or a political subdivision of the State nor shall such boundary extend around any private lands adjoining the river in such manner as to surround or effectively surround such private lands; and
   - **(2)** the withdrawal made by paragraph (iii) of section 1280(a) of this title shall apply to the minerals in Federal lands which constitute the bed or bank or are situated within one-half mile of the bank of any river designated a wild river by the Alaska National Interest Lands Conservation Act.
+
+## Source Credit
+
+*([Pub. L. 90–542, § 15](https://www.govinfo.gov/link/plaw/90/public/542), as added [Pub. L. 96–487, title VI, § 606(a)](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2416](https://www.govinfo.gov/link/statute/94/2416).)*

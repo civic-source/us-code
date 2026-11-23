@@ -3,9 +3,10 @@ title: "Section 1852 - Withholding and remittance of State income tax"
 usc_title: 2
 usc_section: "1852"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1852"
-generated_at: "2026-03-30T02:53:04.818Z"
+generated_at: "2026-11-23T21:25:21.248Z"
+status: "active"
 ---
 
 # § 1852. Withholding and remittance of State income tax
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:04.818Z"
 - **(d)** The Architect may enter into agreements under subsection (a) of this section at such time or times as he considers appropriate.
 - **(e)** This section imposes no duty, burden, or requirement upon the United States, or any officer or employee of the United States, except as specifically provided in this section. Nothing in this section shall be deemed to consent to the application of any provision of law which has the effect of subjecting the United States, or any officer or employee of the United States to any penalty or liability by reason of the provisions of this section.
 - **(f)** For the purposes of this section, “State” means any of the States of the United States.
+
+## Source Credit
+
+*([Pub. L. 94–59, title V, § 501](https://www.govinfo.gov/link/plaw/94/public/59), July 25, 1975, [89 Stat. 290](https://www.govinfo.gov/link/statute/89/290).)*

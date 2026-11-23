@@ -3,9 +3,10 @@ title: "Section 1421g - Establishment and maintenance of public bodies and offic
 usc_title: 48
 usc_section: "1421g"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1421g"
-generated_at: "2026-03-30T02:56:14.584Z"
+generated_at: "2026-11-23T21:26:37.994Z"
+status: "active"
 ---
 
 # § 1421g. Establishment and maintenance of public bodies and offices
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:14.584Z"
   - **(2)** Instead of an appointed Attorney General, the legislature may, by law, provide for the election of the Attorney General of Guam by the qualified voters of Guam in general elections after 1998 in which the Governor of Guam is elected. The term of an elected Attorney General shall be 4 years. The Attorney General may be removed by the people of Guam according to the procedures specified in section 1422d of this title or may be removed for cause in accordance with procedures established by the legislature in law. A vacancy in the office of an elected Attorney General shall be filled—
     - **(A)** by appointment by the Governor of Guam if such vacancy occurs less than 6 months before a general election for the Office of Attorney General of Guam; or
     - **(B)** by a special election held no sooner than 3 months after such vacancy occurs and no later than 6 months before a general election for Attorney General of Guam, and by appointment by the Governor of Guam pending a special election under this subparagraph.
+
+## Source Credit
+
+*(Aug. 1, 1950, ch. 512, § 29, [64 Stat. 392](https://www.govinfo.gov/link/statute/64/392); [Pub. L. 99–396](https://www.govinfo.gov/link/plaw/99/public/396), §§ 5, 13, Aug. 27, 1986, [100 Stat. 839](https://www.govinfo.gov/link/statute/100/839), 842; [Pub. L. 105–291, § 2](https://www.govinfo.gov/link/plaw/105/public/291), Oct. 27, 1998, [112 Stat. 2785](https://www.govinfo.gov/link/statute/112/2785).)*

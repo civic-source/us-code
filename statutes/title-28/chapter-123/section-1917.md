@@ -3,12 +3,17 @@ title: "Section 1917 - District courts; fee on filing notice of or petition for 
 usc_title: 28
 usc_section: "1917"
 chapter: 123
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1917"
-generated_at: "2026-03-30T02:55:30.146Z"
+generated_at: "2026-11-23T21:26:01.114Z"
+status: "active"
 ---
 
 # § 1917. District courts; fee on filing notice of or petition for appeal
 
 Upon the filing of any separate or joint notice of appeal or application for appeal or upon the receipt of any order allowing, or notice of the allowance of, an appeal or of a writ of certiorari $5 shall be paid to the clerk of the district court, by the appellant or petitioner.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 955](https://www.govinfo.gov/link/statute/62/955).)*

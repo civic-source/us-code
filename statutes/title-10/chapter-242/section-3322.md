@@ -3,9 +3,10 @@ title: "Section 3322 - Cost contracts"
 usc_title: 10
 usc_section: "3322"
 chapter: 242
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3322"
-generated_at: "2026-03-30T02:53:38.191Z"
+generated_at: "2026-11-23T21:25:32.723Z"
+status: "active"
 ---
 
 # § 3322. Cost contracts
@@ -26,3 +27,29 @@ generated_at: "2026-03-30T02:53:38.191Z"
     - **(A)** The term “covered contract” means a cost reimbursement contract for the development of a major system.
     - **(B)** The term “low-rate initial production” has the same meaning as in section 4231 of this title .
     - **(C)** The term “major system” has the meaning given such term in section 3041 of this title .
+
+Cost-plus-a-percentage-of-cost System of Contracting Prohibited
+
+Cost-plus-a-fixed-fee Contracts
+
+Advance Notice of Certain Subcontracts.—
+
+In general
+
+Exception
+
+Limitation on Certain Options.—
+
+In general
+
+Waiver.—
+
+In general
+
+Delegation limit
+
+Definitions
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1817(a)](https://www.govinfo.gov/link/plaw/116/public/283), (c), (e), (f), Jan. 1, 2021, [134 Stat. 4186](https://www.govinfo.gov/link/statute/134/4186), 4187; [Pub. L. 118–159, div. A, title VIII, § 802(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1965](https://www.govinfo.gov/link/statute/138/1965).)*

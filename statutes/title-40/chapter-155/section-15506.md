@@ -3,9 +3,10 @@ title: "Section 15506 - Supplements to Federal grant programs"
 usc_title: 40
 usc_section: "15506"
 chapter: 155
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 15506"
-generated_at: "2026-03-30T02:55:43.388Z"
+generated_at: "2026-11-23T21:26:14.975Z"
+status: "active"
 ---
 
 # § 15506. Supplements to Federal grant programs
@@ -20,3 +21,19 @@ generated_at: "2026-03-30T02:55:43.388Z"
 - **(d)** Amounts provided pursuant to this subtitle are available without regard to any limitations on areas eligible for assistance or authorizations for appropriation in any other law.
 - **(e)** The Federal share of the cost of a project or activity receiving assistance under this section shall not exceed 80 percent.
 - **(f)** Section 15501(d), relating to limitations on Commission contributions, shall apply to a program, project, or activity receiving assistance under this section.
+
+Finding
+
+Federal Grant Program Funding
+
+Certification Required
+
+Limitations in Other Laws Inapplicable
+
+Federal Share
+
+Maximum Commission Contribution
+
+## Source Credit
+
+*(Added [Pub. L. 110–234, title XIV, § 14217(a)(2)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1477](https://www.govinfo.gov/link/statute/122/1477), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14217(a)(2), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2239.)*

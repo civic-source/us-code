@@ -3,9 +3,10 @@ title: "Section 110d - Mount Rainier National Park Boundary Adjustment"
 usc_title: 16
 usc_section: "110d"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 110d"
-generated_at: "2026-03-30T02:54:22.734Z"
+generated_at: "2026-11-23T21:25:51.379Z"
+status: "active"
 ---
 
 # § 110d. Mount Rainier National Park Boundary Adjustment
@@ -15,3 +16,9 @@ generated_at: "2026-03-30T02:54:22.734Z"
   - **(1)** land or interests in land, totaling not more than 800 acres, and improvements thereon within the boundary generally depicted on the map referred to in subsection (a) for development of camping and other recreational facilities; and
   - **(2)** land or interests in land, totaling not more than one acre, and improvements thereon in the vicinity of Wilkeson, Washington, for a facility to serve visitors to public lands along the Carbon and Mowich Corridors.
 - **(c)** Lands acquired under this section shall be administered by the Secretary of the Interior as part of Mount Rainier National Park in accordance with applicable laws and regulations.
+
+“The Congress finds the following:
+
+## Source Credit
+
+*([Pub. L. 108–312, § 3](https://www.govinfo.gov/link/plaw/108/public/312), Oct. 5, 2004, [118 Stat. 1194](https://www.govinfo.gov/link/statute/118/1194).)*

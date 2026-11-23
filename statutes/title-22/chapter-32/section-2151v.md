@@ -3,9 +3,10 @@ title: "Section 2151v - Aid to relatively least developed countries"
 usc_title: 22
 usc_section: "2151v"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2151v"
-generated_at: "2026-03-30T02:55:05.347Z"
+generated_at: "2026-11-23T21:25:58.439Z"
+status: "active"
 ---
 
 # § 2151v. Aid to relatively least developed countries
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.347Z"
   - **(3)** In exercising the authority granted by this subsection, the President should act in concert with other creditor countries.
 - **(d)** The President may on a case-by-case basis waive the requirement of section 2151h(a) of this title for financial or “in kind” contributions in the case of programs, projects, or activities in relatively least developed countries.
 - **(e)** Section 2151h(b) of this title shall not apply with respect to grants to relatively least developed countries.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 124, as added [Pub. L. 95–424, title I, § 112(a)(1)](https://www.govinfo.gov/link/plaw/95/public/424), Oct. 6, 1978, [92 Stat. 948](https://www.govinfo.gov/link/statute/92/948); amended [Pub. L. 96–53, title I, § 109](https://www.govinfo.gov/link/plaw/96/public/53), Aug. 14, 1979, [93 Stat. 363](https://www.govinfo.gov/link/statute/93/363); [Pub. L. 96–533, title III, § 308](https://www.govinfo.gov/link/plaw/96/public/533), Oct. 16, 1980, [94 Stat. 3147](https://www.govinfo.gov/link/statute/94/3147).)*

@@ -3,9 +3,10 @@ title: "Section 1862t - Supporting veterans in STEM education and computer scien
 usc_title: 42
 usc_section: "1862t"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1862t"
-generated_at: "2026-03-30T02:56:11.129Z"
+generated_at: "2026-11-23T21:26:32.226Z"
+status: "active"
 ---
 
 # § 1862t. Supporting veterans in STEM education and computer science
@@ -30,3 +31,17 @@ generated_at: "2026-03-30T02:56:11.129Z"
     - **(A)** not later than 1 year after February 11, 2020 , submit to Congress the strategic plan required under paragraph (2); and
     - **(B)** include in the annual report required by section 6621(d) of this title a description of any progress made in carrying out the activities described in paragraph (2) of this subsection.
   - **(4)** An interagency working group established under paragraph (1) shall terminate on the date that is 3 years after the date that it is established.
+
+“In this Act [see Short Title of 2020 Amendment note set out under section 1861 of this title ]:
+
+Director
+
+Foundation
+
+STEM
+
+Veteran
+
+## Source Credit
+
+*([Pub. L. 116–115, § 3](https://www.govinfo.gov/link/plaw/116/public/115), Feb. 11, 2020, [134 Stat. 106](https://www.govinfo.gov/link/statute/134/106); [Pub. L. 117–167, div. B, title III, § 10399D](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1599](https://www.govinfo.gov/link/statute/136/1599).)*

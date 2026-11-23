@@ -3,9 +3,10 @@ title: "Section 6303 - Great ape conservation assistance"
 usc_title: 16
 usc_section: "6303"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6303"
-generated_at: "2026-03-30T02:54:23.056Z"
+generated_at: "2026-11-23T21:25:52.037Z"
+status: "active"
 ---
 
 # § 6303. Great ape conservation assistance
@@ -69,3 +70,7 @@ generated_at: "2026-03-30T02:54:23.056Z"
 - **(j)**
   - **(1)** The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant of up to 5 years to carry out a project that the person demonstrates is an effective, long-term conservation strategy for great apes and the habitat of great apes.
   - **(2)** Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.
+
+## Source Credit
+
+*([Pub. L. 106–411, § 4](https://www.govinfo.gov/link/plaw/106/public/411), Nov. 1, 2000, [114 Stat. 1791](https://www.govinfo.gov/link/statute/114/1791); [Pub. L. 109–363, title VII, § 701](https://www.govinfo.gov/link/plaw/109/public/363), Oct. 17, 2006, [120 Stat. 2081](https://www.govinfo.gov/link/statute/120/2081); [Pub. L. 116–9, title VII, § 7001(c)(2)(A)](https://www.govinfo.gov/link/plaw/116/public/9), (B), Mar. 12, 2019, [133 Stat. 785](https://www.govinfo.gov/link/statute/133/785); [Pub. L. 117–286, § 4(a)(129)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4319](https://www.govinfo.gov/link/statute/136/4319); [Pub. L. 118–159, div. E, title LIII, § 5306(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2446](https://www.govinfo.gov/link/statute/138/2446).)*

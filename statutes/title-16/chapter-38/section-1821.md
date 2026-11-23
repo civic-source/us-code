@@ -3,9 +3,10 @@ title: "Section 1821 - Foreign fishing"
 usc_title: 16
 usc_section: "1821"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1821"
-generated_at: "2026-03-30T02:54:22.983Z"
+generated_at: "2026-11-23T21:25:51.914Z"
+status: "active"
 ---
 
 # § 1821. Foreign fishing
@@ -99,3 +100,19 @@ generated_at: "2026-03-30T02:54:22.983Z"
     - **(C)** establish a reasonable schedule of fees that certified observers or their agents shall be paid by the owners and operators of foreign fishing vessels for observer services; and
     - **(D)** monitor the performance of observers to ensure that it meets the purposes of this chapter.
 - **(i)** Notwithstanding any other provision of this subchapter, foreign fishing vessels which are not operated for profit may engage in recreational fishing within the exclusive economic zone and the waters within the boundaries of a State subject to obtaining such permits, paying such reasonable fees, and complying with such conditions and restrictions as the Secretary and the Governor of the State (or his designee) shall impose as being necessary or appropriate to insure that the fishing activity of such foreign vessels within such zone or waters, respectively, is consistent with all applicable Federal and State laws and any applicable fishery management plan implemented under section 1854 of this title . The Secretary shall consult with the Secretary of State and the Secretary of the Department in which the Coast Guard is operating in formulating the conditions and restrictions to be applied by the Secretary under the authority of this subsection.
+
+In General
+
+Regulations
+
+Enforcement.—
+
+In general
+
+Regulations
+
+“Notwithstanding any other provision of law—
+
+## Source Credit
+
+*([Pub. L. 94–265, title II, § 201](https://www.govinfo.gov/link/plaw/94/public/265), Apr. 13, 1976, [90 Stat. 337](https://www.govinfo.gov/link/statute/90/337); [Pub. L. 95–354, § 4(1)](https://www.govinfo.gov/link/plaw/95/public/354) –(4), Aug. 28, 1978, [92 Stat. 519](https://www.govinfo.gov/link/statute/92/519), 520; [Pub. L. 96–61, § 3(a)](https://www.govinfo.gov/link/plaw/96/public/61), Aug. 15, 1979, [93 Stat. 407](https://www.govinfo.gov/link/statute/93/407); [Pub. L. 96–118, § 5](https://www.govinfo.gov/link/plaw/96/public/118), Nov. 16, 1979, [93 Stat. 860](https://www.govinfo.gov/link/statute/93/860); Pub. L 96–561, title II, §§ 230, 231(a), 236, Dec. 22, 1980, [94 Stat. 3296](https://www.govinfo.gov/link/statute/94/3296), 3297, 3299; [Pub. L. 97–453, § 2(a)](https://www.govinfo.gov/link/plaw/97/public/453), Jan. 12, 1983, [96 Stat. 2481](https://www.govinfo.gov/link/statute/96/2481); [Pub. L. 98–623, title IV, § 404(1)](https://www.govinfo.gov/link/plaw/98/public/623), (2), Nov. 8, 1984, [98 Stat. 3408](https://www.govinfo.gov/link/statute/98/3408); [Pub. L. 99–386, title II, § 206(a)](https://www.govinfo.gov/link/plaw/99/public/386), Aug. 22, 1986, [100 Stat. 823](https://www.govinfo.gov/link/statute/100/823); [Pub. L. 99–659, title I](https://www.govinfo.gov/link/plaw/99/public/659), §§ 101(c)(2), 103(a), Nov. 14, 1986, [100 Stat. 3707](https://www.govinfo.gov/link/statute/100/3707), 3708; [Pub. L. 101–627, title I, § 104](https://www.govinfo.gov/link/plaw/101/public/627), Nov. 28, 1990, [104 Stat. 4439](https://www.govinfo.gov/link/statute/104/4439); [Pub. L. 102–251, title III, § 301(d)](https://www.govinfo.gov/link/plaw/102/public/251), Mar. 9, 1992, [106 Stat. 63](https://www.govinfo.gov/link/statute/106/63); [Pub. L. 103–236, title I, § 139(24)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 399](https://www.govinfo.gov/link/statute/108/399); [Pub. L. 104–297, title I, § 105(a)](https://www.govinfo.gov/link/plaw/104/public/297), Oct. 11, 1996, [110 Stat. 3563](https://www.govinfo.gov/link/statute/110/3563); [Pub. L. 109–479, § 5](https://www.govinfo.gov/link/plaw/109/public/479), title IV, § 404(a), Jan. 12, 2007, [120 Stat. 3578](https://www.govinfo.gov/link/statute/120/3578), 3632.)*

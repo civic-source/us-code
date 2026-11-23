@@ -3,9 +3,10 @@ title: "Section 3034 - Program administration"
 usc_title: 38
 usc_section: "3034"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3034"
-generated_at: "2026-03-30T02:55:53.500Z"
+generated_at: "2026-11-23T21:26:16.721Z"
+status: "active"
 ---
 
 # § 3034. Program administration
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:53.500Z"
   - **(2)** The information referred to in paragraph (1) is information with respect to the benefits, limitations, procedures, eligibility requirements (including time-in-service requirements), and other important aspects of the basic educational assistance program under this chapter, including application forms for such basic educational assistance under section 5102 of this title .
   - **(3)** The Secretary shall furnish the forms described in paragraph (2) and other educational materials to educational institutions, training establishments, and military education personnel, as the Secretary determines appropriate.
   - **(4)** The Secretary shall use amounts appropriated for readjustment benefits to carry out this subsection and section 5102 of this title with respect to application forms under that section for basic educational assistance under this chapter.
+
+## Source Credit
+
+*(Added [Pub. L. 98–525, title VII, § 702(a)(1)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2562](https://www.govinfo.gov/link/statute/98/2562), § 1434; amended [Pub. L. 99–576, title III](https://www.govinfo.gov/link/plaw/99/public/576), §§ 301(c), 302, 305, 308(a), Oct. 28, 1986, [100 Stat. 3268–3270](https://www.govinfo.gov/link/statute/100/3268); [Pub. L. 100–689, title I](https://www.govinfo.gov/link/plaw/100/public/689), §§ 106(a), 111(a)(7)(B), Nov. 18, 1988, [102 Stat. 4166](https://www.govinfo.gov/link/statute/102/4166), 4172; [Pub. L. 101–237, title IV](https://www.govinfo.gov/link/plaw/101/public/237), §§ 415(b), 422(a)(1), 423(a)(5)(A), (6), (b)(1)(A), Dec. 18, 1989, [103 Stat. 2086](https://www.govinfo.gov/link/statute/103/2086), 2088, 2091, 2092; [Pub. L. 102–16, § 2(b)(2)](https://www.govinfo.gov/link/plaw/102/public/16), Mar. 22, 1991, [105 Stat. 49](https://www.govinfo.gov/link/statute/105/49); renumbered § 3034 and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 102–568, title III, § 313(a)(4)](https://www.govinfo.gov/link/plaw/102/public/568), Oct. 29, 1992, [106 Stat. 4332](https://www.govinfo.gov/link/statute/106/4332); [Pub. L. 103–446, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4670](https://www.govinfo.gov/link/statute/108/4670); [Pub. L. 105–368, title II](https://www.govinfo.gov/link/plaw/105/public/368), §§ 204(a), 206(a), Nov. 11, 1998, [112 Stat. 3327](https://www.govinfo.gov/link/statute/112/3327); [Pub. L. 111–377, title II, § 203(a)(2)(A)](https://www.govinfo.gov/link/plaw/111/public/377), Jan. 4, 2011, [124 Stat. 4125](https://www.govinfo.gov/link/statute/124/4125).)*

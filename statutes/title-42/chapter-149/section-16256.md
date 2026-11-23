@@ -3,9 +3,10 @@ title: "Section 16256 - Education and outreach"
 usc_title: 42
 usc_section: "16256"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16256"
-generated_at: "2026-03-30T02:56:11.475Z"
+generated_at: "2026-11-23T21:26:33.712Z"
+status: "active"
 ---
 
 # § 16256. Education and outreach
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.475Z"
   - **(1)** training and technical assistance programs for feedstock producers to promote producer ownership, investment, and participation in the operation of processing facilities; and
   - **(2)** public education and outreach to familiarize consumers with the biobased fuels and biobased products.
 - **(b)** There is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2006 through 2010.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 947](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 883](https://www.govinfo.gov/link/statute/119/883).)*

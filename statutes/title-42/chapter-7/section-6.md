@@ -3,9 +3,10 @@ title: "Section 6 - Commission on Social Impact Partnerships"
 usc_title: 42
 usc_section: "6"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-30T02:56:11.068Z"
+generated_at: "2026-11-23T21:26:31.940Z"
+status: "active"
 ---
 
 # § 1397n–6. Commission on Social Impact Partnerships
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:11.068Z"
   - **(2)** The Commission shall designate the term length that each member appointed under subsection (c) shall serve by unanimous agreement. In the event that unanimous agreement cannot be reached, term lengths shall be assigned to the members by a random process.
 - **(g)** Subject to subsection (e), in the event of a vacancy in the Commission, whether due to the resignation of a member, the expiration of a member’s term, or any other reason, the vacancy shall be filled in the manner in which the original appointment was made and shall not affect the powers of the Commission.
 - **(h)** Members of the Commission appointed under subsection (c) shall not be subject to confirmation by the Senate.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XX, § 2057, as added [Pub. L. 115–123, div. E, title VIII, § 50802(2)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 279](https://www.govinfo.gov/link/statute/132/279).)*

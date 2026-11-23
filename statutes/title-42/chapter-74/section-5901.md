@@ -3,9 +3,10 @@ title: "Section 5901 - Congressional statement of findings"
 usc_title: 42
 usc_section: "5901"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5901"
-generated_at: "2026-03-30T02:56:11.239Z"
+generated_at: "2026-11-23T21:26:32.836Z"
+status: "active"
 ---
 
 # § 5901. Congressional statement of findings
@@ -17,3 +18,9 @@ The Congress hereby finds that—
 - **(c)** The urgency of the Nation’s energy challenge will require commitments similar to those undertaken in the Manhattan and Apollo projects; it will require that the Nation undertake a research, development, and demonstration program in nonnuclear energy technologies with a total Federal investment which may reach or exceed $20,000,000,000 over the next decade.
 - **(d)** In undertaking such program, full advantage must be taken of the existing technical and managerial expertise in the various energy fields within Federal agencies and particularly in the private sector.
 - **(e)** The Nation’s future energy needs can be met if a national commitment is made now to dedicate the necessary financial resources, to enlist our scientific and technological capabilities, and to accord the proper priority to developing new nonnuclear energy options to serve national needs, conserve vital resources, and protect the environment.
+
+“In this Act [enacting this chapter]:
+
+## Source Credit
+
+*([Pub. L. 93–577, § 2](https://www.govinfo.gov/link/plaw/93/public/577), Dec. 31, 1974, [88 Stat. 1879](https://www.govinfo.gov/link/statute/88/1879).)*

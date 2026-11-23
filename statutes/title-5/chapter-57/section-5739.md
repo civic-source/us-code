@@ -3,9 +3,10 @@ title: "Section 5739 - Authority for relocation expenses test programs"
 usc_title: 5
 usc_section: "5739"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5739"
-generated_at: "2026-03-30T02:52:56.026Z"
+generated_at: "2026-11-23T21:25:23.299Z"
+status: "active"
 ---
 
 # § 5739. Authority for relocation expenses test programs
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:52:56.026Z"
     - **(A)** Upon the request of the agency administering a test program, the Administrator may extend the program.
     - **(B)** An extension under subparagraph (A) may not exceed 4 years.
     - **(C)** The Administrator may exercise more than 1 extension under subparagraph (A) with respect to any test program.
+
+## Source Credit
+
+*(Added [Pub. L. 105–264, § 5(b)](https://www.govinfo.gov/link/plaw/105/public/264), Oct. 19, 1998, [112 Stat. 2355](https://www.govinfo.gov/link/statute/112/2355); amended [Pub. L. 109–325, § 1(a)](https://www.govinfo.gov/link/plaw/109/public/325), Oct. 11, 2006, [120 Stat. 1760](https://www.govinfo.gov/link/statute/120/1760); [Pub. L. 111–112, § 1(a)](https://www.govinfo.gov/link/plaw/111/public/112), Nov. 30, 2009, [123 Stat. 3024](https://www.govinfo.gov/link/statute/123/3024).)*

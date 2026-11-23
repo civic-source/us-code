@@ -3,9 +3,10 @@ title: "Section 7253 - Composition"
 usc_title: 38
 usc_section: "7253"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7253"
-generated_at: "2026-03-30T02:55:53.524Z"
+generated_at: "2026-11-23T21:26:16.836Z"
+status: "active"
 ---
 
 # § 7253. Composition
@@ -54,3 +55,29 @@ generated_at: "2026-03-30T02:55:53.524Z"
     - **(A)** Subject to paragraph (2), effective during the period beginning on December 31, 2009 , and ending on the date of the enactment of the Veterans Benefits Improvement Act of 2024, the authorized number of judges of the Court specified in subsection (a) is increased by two.
     - **(B)** Subject to paragraph (2), effective as of the date of the enactment of the Veterans Benefits Improvement Act of 2024, the authorized number of judges of the Court specified in subsection (a) is increased by three.
   - **(2)** Effective as of January 1, 2028 , an appointment may not be made to the Court if the appointment would result in there being more judges of the Court than the authorized number of judges of the Court specified in subsection (a).
+
+Composition
+
+Appointment
+
+Term of Office
+
+Chief Judge
+
+Salary
+
+Removal
+
+Rules
+
+Temporary Expansion of Court
+
+Additional Temporary Expansion of Court
+
+Effective Date
+
+Savings Provision for Incumbent Chief Judge
+
+## Source Credit
+
+*(Added [Pub. L. 100–687, div. A, title III, § 301(a)](https://www.govinfo.gov/link/plaw/100/public/687), Nov. 18, 1988, [102 Stat. 4114](https://www.govinfo.gov/link/statute/102/4114), § 4053; amended [Pub. L. 101–94, title I, § 102(c)](https://www.govinfo.gov/link/plaw/101/public/94), Aug. 16, 1989, [103 Stat. 626](https://www.govinfo.gov/link/statute/103/626); renumbered § 7253, [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238); [Pub. L. 102–82, § 3](https://www.govinfo.gov/link/plaw/102/public/82), Aug. 6, 1991, [105 Stat. 375](https://www.govinfo.gov/link/statute/105/375); [Pub. L. 102–585, title VIII, § 801](https://www.govinfo.gov/link/plaw/102/public/585), Nov. 4, 1992, [106 Stat. 4980](https://www.govinfo.gov/link/statute/106/4980); [Pub. L. 105–368, title V](https://www.govinfo.gov/link/plaw/105/public/368), §§ 501, 512(a)(1), Nov. 11, 1998, [112 Stat. 3340](https://www.govinfo.gov/link/statute/112/3340), 3341; [Pub. L. 106–117, title X](https://www.govinfo.gov/link/plaw/106/public/117), §§ 1031, 1032(a), 1033, Nov. 30, 1999, [113 Stat. 1594](https://www.govinfo.gov/link/statute/113/1594), 1595; [Pub. L. 107–103, title VI, § 601](https://www.govinfo.gov/link/plaw/107/public/103), Dec. 27, 2001, [115 Stat. 998](https://www.govinfo.gov/link/statute/115/998); [Pub. L. 107–273, div. C, title I, § 11043(f)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1856](https://www.govinfo.gov/link/statute/116/1856); [Pub. L. 108–454, title VIII, § 802](https://www.govinfo.gov/link/plaw/108/public/454), Dec. 10, 2004, [118 Stat. 3625](https://www.govinfo.gov/link/statute/118/3625); [Pub. L. 109–233, title V, § 503(15)](https://www.govinfo.gov/link/plaw/109/public/233), June 15, 2006, [120 Stat. 417](https://www.govinfo.gov/link/statute/120/417); [Pub. L. 110–389, title VI, § 601](https://www.govinfo.gov/link/plaw/110/public/389), Oct. 10, 2008, [122 Stat. 4176](https://www.govinfo.gov/link/statute/122/4176); [Pub. L. 112–260, title III, § 302(b)](https://www.govinfo.gov/link/plaw/112/public/260), Jan. 10, 2013, [126 Stat. 2425](https://www.govinfo.gov/link/statute/126/2425); [Pub. L. 114–315, title II](https://www.govinfo.gov/link/plaw/114/public/315), §§ 201(a), 204(a), Dec. 16, 2016, [130 Stat. 1548](https://www.govinfo.gov/link/statute/130/1548), 1549; [Pub. L. 116–159, div. E, title II, § 5205](https://www.govinfo.gov/link/plaw/116/public/159), Oct. 1, 2020, [134 Stat. 750](https://www.govinfo.gov/link/statute/134/750); [Pub. L. 118–196, § 7](https://www.govinfo.gov/link/plaw/118/public/196), Dec. 23, 2024, [138 Stat. 2675](https://www.govinfo.gov/link/statute/138/2675).)*

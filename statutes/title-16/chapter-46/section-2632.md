@@ -3,9 +3,10 @@ title: "Section 2632 - Consumer representation"
 usc_title: 16
 usc_section: "2632"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2632"
-generated_at: "2026-03-30T02:54:23.005Z"
+generated_at: "2026-11-23T21:25:51.953Z"
+status: "active"
 ---
 
 # § 2632. Consumer representation
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:23.005Z"
 - **(c)** The State regulatory authority or nonregulated electric utility, as the case may be, shall make transcripts of the proceeding available, at cost of reproduction, to parties or intervenors in any ratemaking proceeding, or other regulatory proceeding relating to rates or rate design, before a State regulatory authority or nonregulated electric utility.
 - **(d)** Any claim under this section against any Federal agency shall be subject to the availability of appropriated funds.
 - **(e)** Nothing in this section affects or restricts any rights of any participant or intervenor in any proceeding under any other applicable law or rule of law.
+
+## Source Credit
+
+*([Pub. L. 95–617, title I, § 122](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3129](https://www.govinfo.gov/link/statute/92/3129).)*

@@ -3,9 +3,10 @@ title: "Section 10221 - Definitions"
 usc_title: 22
 usc_section: "10221"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10221"
-generated_at: "2026-03-30T02:55:05.475Z"
+generated_at: "2026-11-23T21:25:58.794Z"
+status: "active"
 ---
 
 # § 10221. Definitions
@@ -26,3 +27,7 @@ In this subchapter:
     - **(A)** a United States citizen or an alien lawfully admitted to the United States for permanent residence;
     - **(B)** an entity organized under the laws of the United States or any jurisdiction within the United States, including a foreign branch of such an entity; or
     - **(C)** any person in the United States.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. E, title LV, § 5570](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3362](https://www.govinfo.gov/link/statute/136/3362).)*

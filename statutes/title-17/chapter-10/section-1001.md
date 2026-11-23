@@ -3,9 +3,10 @@ title: "Section 1001 - Definitions"
 usc_title: 17
 usc_section: "1001"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 1001"
-generated_at: "2026-03-30T02:54:15.356Z"
+generated_at: "2026-11-23T21:25:41.732Z"
+status: "active"
 ---
 
 # § 1001. Definitions
@@ -50,3 +51,7 @@ As used in this chapter, the following terms have the following meanings:
       - **(ii)** in the case of a domestic product, the manufacturer’s transfer price (FOB the manufacturer, and exclusive of any direct sales taxes or excise taxes incurred in connection with the sale); and
     - **(B)** shall, in a case in which the transferor and transferee are related entities or within a single entity, not be less than a reasonable arms-length price under the principles of the regulations adopted pursuant to section 482 of the Internal Revenue Code of 1986, or any successor provision to such section.
   - **(13)** A “writer” is the composer or lyricist of a particular musical work.
+
+## Source Credit
+
+*(Added [Pub. L. 102–563, § 2](https://www.govinfo.gov/link/plaw/102/public/563), Oct. 28, 1992, [106 Stat. 4237](https://www.govinfo.gov/link/statute/106/4237).)*

@@ -3,9 +3,10 @@ title: "Section 7720 - National plan for control and management of Sudden Oak De
 usc_title: 7
 usc_section: "7720"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7720"
-generated_at: "2026-03-30T02:53:42.461Z"
+generated_at: "2026-11-23T21:25:28.445Z"
+status: "active"
 ---
 
 # § 7720. National plan for control and management of Sudden Oak Death
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.461Z"
 - **(c)** The Secretary shall develop the plan in consultation with other Federal agencies that have appropriate expertise regarding the control and management of Sudden Oak Death.
 - **(d)** The Secretary shall complete the plan and commence implementation as soon as practicable after the date on which funds are first appropriated pursuant to the authorization of appropriations in subsection (e) to carry out this section.
 - **(e)** There is authorized to be appropriated to the Secretary such sums as may be necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 108–488, § 1](https://www.govinfo.gov/link/plaw/108/public/488), Dec. 23, 2004, [118 Stat. 3964](https://www.govinfo.gov/link/statute/118/3964).)*

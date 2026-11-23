@@ -3,9 +3,10 @@ title: "Section 4121 - Specific training programs"
 usc_title: 5
 usc_section: "4121"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 4121"
-generated_at: "2026-03-30T02:52:56.008Z"
+generated_at: "2026-11-23T21:25:23.187Z"
+status: "active"
 ---
 
 # § 4121. Specific training programs
@@ -17,3 +18,7 @@ In consultation with the Office of Personnel Management, the head of each agency
     - **(A)** relating to employees with unacceptable performance;
     - **(B)** mentoring employees and improving employee performance and productivity; and
     - **(C)** conducting employee performance appraisals.
+
+## Source Credit
+
+*(Added [Pub. L. 108–411, title II, § 201(b)(1)](https://www.govinfo.gov/link/plaw/108/public/411), Oct. 30, 2004, [118 Stat. 2311](https://www.govinfo.gov/link/statute/118/2311).)*

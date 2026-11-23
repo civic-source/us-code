@@ -3,9 +3,10 @@ title: "Section 1065 - Endowment challenge grants"
 usc_title: 20
 usc_section: "1065"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1065"
-generated_at: "2026-03-30T02:54:48.102Z"
+generated_at: "2026-11-23T21:25:47.041Z"
+status: "active"
 ---
 
 # § 1065. Endowment challenge grants
@@ -69,3 +70,7 @@ generated_at: "2026-03-30T02:54:48.102Z"
     - **(C)** fails to properly account to the Secretary concerning the investment and expenditures of the endowment funds.
   - **(2)** If the Secretary terminates a grant under paragraph (1), the grantee shall return to the Secretary an amount equal to the sum of each original grant under this section plus income earned thereon. The Secretary may use such repaid funds to make additional endowment grants, or to increase existing challenge grants, to other eligible institutions under this part.
 - **(i)** The Secretary, directly or by grant or contract, may provide technical assistance to eligible institutions to prepare the institutions to qualify, apply for, and maintain a grant, under this section.
+
+## Source Credit
+
+*([Pub. L. 89–329, title III, § 331](https://www.govinfo.gov/link/plaw/89/public/329), formerly § 332, as added [Pub. L. 99–498, title III, § 301(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1299](https://www.govinfo.gov/link/statute/100/1299); amended [Pub. L. 100–50, § 2(a)(12)](https://www.govinfo.gov/link/plaw/100/public/50), June 3, 1987, [101 Stat. 336](https://www.govinfo.gov/link/statute/101/336); renumbered § 331 and amended [Pub. L. 102–325, title III, § 304(a)(3)](https://www.govinfo.gov/link/plaw/102/public/325), (b), July 23, 1992, [106 Stat. 476](https://www.govinfo.gov/link/statute/106/476); [Pub. L. 103–208, § 2(a)(8)](https://www.govinfo.gov/link/plaw/103/public/208), (10), (11), Dec. 20, 1993, [107 Stat. 2457](https://www.govinfo.gov/link/statute/107/2457), 2458; [Pub. L. 105–244, title III, § 305](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1646](https://www.govinfo.gov/link/statute/112/1646); [Pub. L. 110–315, title III, § 313](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3180](https://www.govinfo.gov/link/statute/122/3180).)*

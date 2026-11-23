@@ -3,9 +3,10 @@ title: "Section 3204 - Regulations"
 usc_title: 50
 usc_section: "3204"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3204"
-generated_at: "2026-03-30T02:56:26.238Z"
+generated_at: "2026-11-23T21:26:39.021Z"
+status: "active"
 ---
 
 # § 3204. Regulations
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:26.238Z"
 - **(b)** The head of each covered element of the intelligence community shall prescribe regulations to carry out sections 3202 and 3203 of this title with respect to that element including the following:
   - **(1)** Procedures to be utilized for the acceptance of voluntary services under section 3203 of this title .
   - **(2)** Procedures and requirements relating to the installation of equipment under section 3203(f) of this title .
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title X, § 1014, as added [Pub. L. 108–487, title VI, § 612(a)(2)](https://www.govinfo.gov/link/plaw/108/public/487), Dec. 23, 2004, [118 Stat. 3958](https://www.govinfo.gov/link/statute/118/3958).)*

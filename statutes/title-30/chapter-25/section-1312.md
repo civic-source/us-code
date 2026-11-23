@@ -3,9 +3,10 @@ title: "Section 1312 - Financial assistance"
 usc_title: 30
 usc_section: "1312"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1312"
-generated_at: "2026-03-30T02:55:29.404Z"
+generated_at: "2026-11-23T21:26:00.434Z"
+status: "active"
 ---
 
 # § 1312. Financial assistance
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:29.404Z"
   - **(3)** provide such fiscal control and fund accounting procedures as may be necessary to assure the proper disbursement of and accounting for Federal funds received under this subchapter;
   - **(4)** provide for making an annual report which shall include a description of the activities conducted at the coal laboratory and an evaluation of the success of such activities, and such other necessary reports in such form and containing such information as the Secretary of Energy may require, and for keeping such records and affording such access thereto as may be necessary to assure the correctness and verification of such reports; and
   - **(5)** set forth such policies and procedures as will insure that Federal funds made available under this section for any fiscal year will be so used as to supplement and, to the extent practical, increase the level of funds that would, in the absence of such Federal funds, be made available for the purposes of the activities described in subsections (d)(1), (2), and (3) of section 1311 of this title , and in no case supplant such funds.
+
+## Source Credit
+
+*([Pub. L. 95–87, title VIII, § 802](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 527](https://www.govinfo.gov/link/statute/91/527); [Pub. L. 95–617, title VI, § 604(c)](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3167](https://www.govinfo.gov/link/statute/92/3167).)*

@@ -3,9 +3,10 @@ title: "Section 410qq - Findings and purpose"
 usc_title: 16
 usc_section: "410qq"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410qq"
-generated_at: "2026-03-30T02:54:22.769Z"
+generated_at: "2026-11-23T21:25:51.452Z"
+status: "active"
 ---
 
 # § 410qq. Findings and purpose
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:22.769Z"
   - **(7)** Information presently available indicates the existence of extensive archaeological evidence related to the development of the Samoan culture which needs to be examined and protected.
   - **(8)** The people of American Samoa have expressed a desire to have a portion of the tropical forest protected as a unit of the National Park System.
 - **(b)** The purpose of this subchapter is to preserve and protect the tropical forest and archaeological and cultural resources of American Samoa, and of associated reefs, to maintain the habitat of flying foxes, preserve the ecological balance of the Samoan tropical forest, and, consistent with the preservation of these resources, to provide for the enjoyment of the unique resources of the Samoan tropical forest by visitors from around the world.
+
+## Source Credit
+
+*([Pub. L. 100–571, § 1](https://www.govinfo.gov/link/plaw/100/public/571), Oct. 31, 1988, [102 Stat. 2879](https://www.govinfo.gov/link/statute/102/2879).)*

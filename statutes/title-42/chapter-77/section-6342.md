@@ -3,9 +3,10 @@ title: "Section 6342 - Survey and Registry"
 usc_title: 42
 usc_section: "6342"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6342"
-generated_at: "2026-03-30T02:56:11.256Z"
+generated_at: "2026-11-23T21:26:32.931Z"
+status: "active"
 ---
 
 # § 6342. Survey and Registry
@@ -67,3 +68,7 @@ generated_at: "2026-03-30T02:56:11.256Z"
   - **(2)** the Secretary—
     - **(A)** to assist site or source owners and operators in determining the feasibility of projects authorized by this section, $2,000,000 for each of fiscal years 2008 through 2012; and
     - **(B)** to provide funding for State energy office functions under this section, $5,000,000.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 372](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 110–140, title IV, § 451(a)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1624](https://www.govinfo.gov/link/statute/121/1624).)*

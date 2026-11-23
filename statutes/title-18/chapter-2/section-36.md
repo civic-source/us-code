@@ -3,9 +3,10 @@ title: "Section 36 - Drive-by shooting"
 usc_title: 18
 usc_section: "36"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 36"
-generated_at: "2026-03-30T02:54:16.456Z"
+generated_at: "2026-11-23T21:25:43.937Z"
+status: "active"
 ---
 
 # § 36. Drive-by shooting
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:54:16.456Z"
   - **(2)** A person who, in furtherance or to escape detection of a major drug offense and with the intent to intimidate, harass, injure, or maim, fires a weapon into a group of 2 or more persons and who, in the course of such conduct, kills any person shall, if the killing—
     - **(A)** is a first degree murder (as defined in section 1111(a)), be punished by death or imprisonment for any term of years or for life, fined under this title, or both; or
     - **(B)** is a murder other than a first degree murder (as defined in section 1111(a)), be fined under this title, imprisoned for any term of years or for life, or both.
+
+Definition
+
+Offense and Penalties
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title VI, § 60008(b)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1971](https://www.govinfo.gov/link/statute/108/1971); amended [Pub. L. 104–294, title VI, § 604(b)(30)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3508](https://www.govinfo.gov/link/statute/110/3508).)*

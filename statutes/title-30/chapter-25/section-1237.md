@@ -3,9 +3,10 @@ title: "Section 1237 - Acquisition and reclamation of land adversely affected by
 usc_title: 30
 usc_section: "1237"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1237"
-generated_at: "2026-03-30T02:55:29.398Z"
+generated_at: "2026-11-23T21:26:00.421Z"
+status: "active"
 ---
 
 # § 1237. Acquisition and reclamation of land adversely affected by past coal mining practices
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:29.398Z"
   - **(1)** Where land acquired pursuant to this section is deemed to be suitable for industrial, commercial, residential, or recreational development, the Secretary may sell or authorize the States to sell such land by public sale under a system of competitive bidding, at not less than fair market value and under such other regulations promulgated to insure that such lands are put to proper use consistent with local and State land use plans, if any, as determined by the Secretary.
   - **(2)** The Secretary or the State pursuant to an approved State program, when requested after appropriate public notice shall hold a public hearing, with the appropriate notice, in the county or counties or the appropriate subdivisions of the State in which lands acquired pursuant to this section are located. The hearings shall be held at a time which shall afford local citizens and governments the maximum opportunity to participate in the decision concerning the use or disposition of the lands after restoration, reclamation, abatement, control, or prevention of the adverse effects of past coal mining practices.
 - **(h)** In addition to the authority to acquire land under subsection (d) of this section the Secretary is authorized to use money in the fund to acquire land by purchase, donation, or condemnation, and to reclaim and transfer acquired land to any State or to a political subdivision thereof, or to any person, firm, association, or corporation, if he determines that such is an integral and necessary element of an economically feasible plan for the project to construct or rehabilitate housing for persons disabled as the result of employment in the mines or work incidental thereto, persons displaced by acquisition of land pursuant to this section, or persons dislocated as the result of adverse effects of coal mining practices which constitute an emergency as provided in section 1240 of this title or persons dislocated as the result of natural disasters or catastrophic failures from any cause. Such activities shall be accomplished under such terms and conditions as the Secretary shall require, which may include transfers of land with or without monetary consideration: Provided , That, to the extent that the consideration is below the fair market value of the land transferred, no portion of the difference between the fair market value and the consideration shall accrue as a profit to such persons, firm, association, or corporation. No part of the funds provided under this subchapter may be used to pay the actual construction costs of housing. The Secretary may carry out the purposes of this subsection directly or he may make grants and commitments for grants, and may advance money under such terms and conditions as he may require to any State, or any department, agency, or instrumentality of a State, or any public body or nonprofit organization designated by a State.
+
+## Source Credit
+
+*([Pub. L. 95–87, title IV, § 407](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 462](https://www.govinfo.gov/link/statute/91/462); [Pub. L. 101–508, title VI, § 6012(d)(4)](https://www.govinfo.gov/link/plaw/101/public/508) –(7), Nov. 5, 1990, [104 Stat. 1388–298](https://www.govinfo.gov/link/statute/104/1388).)*

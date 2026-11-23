@@ -3,9 +3,10 @@ title: "Section 4815 - Enforcement"
 usc_title: 7
 usc_section: "4815"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 4815"
-generated_at: "2026-03-30T02:53:42.412Z"
+generated_at: "2026-11-23T21:25:28.354Z"
+status: "active"
 ---
 
 # § 4815. Enforcement
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:42.412Z"
     - **(A)** If a person fails to pay a valid civil penalty imposed under this subsection by the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in an appropriate district court of the United States.
     - **(B)** In such action, the validity and appropriateness of the order imposing such civil penalty shall not be subject to review.
 - **(c)** The remedies provided in subsections (a) and (b) shall be in addition to, and not exclusive of, other remedies that may be available.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XVI, § 1626](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1620](https://www.govinfo.gov/link/statute/99/1620).)*

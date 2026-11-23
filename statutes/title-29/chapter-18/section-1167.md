@@ -3,9 +3,10 @@ title: "Section 1167 - Definitions and special rules"
 usc_title: 29
 usc_section: "1167"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1167"
-generated_at: "2026-03-30T02:55:18.721Z"
+generated_at: "2026-11-23T21:26:02.268Z"
+status: "active"
 ---
 
 # § 1167. Definitions and special rules
@@ -27,3 +28,7 @@ For purposes of this part—
   - **(5)** A group health plan shall not be treated as failing to meet the requirements of this part solely because the plan provides both—
     - **(A)** that the period of extended coverage referred to in section 1162(2) of this title commences with the date of the loss of coverage, and
     - **(B)** that the applicable notice period provided under section 1166(a)(2) of this title commences with the date of the loss of coverage.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 607](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 99–272, title X, § 10002(a)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 231](https://www.govinfo.gov/link/statute/100/231); amended [Pub. L. 99–509, title IX, § 9501(c)(2)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 2077](https://www.govinfo.gov/link/statute/100/2077); [Pub. L. 99–514, title XVIII, § 1895(d)(8)](https://www.govinfo.gov/link/plaw/99/public/514), (9)(A), Oct. 22, 1986, [100 Stat. 2940](https://www.govinfo.gov/link/statute/100/2940); [Pub. L. 100–647, title III, § 3011(b)(6)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3625](https://www.govinfo.gov/link/statute/102/3625); [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7862(c)(2)(A), (6)(A), 7891(a)(1), (d)(2)(B)(i), Dec. 19, 1989, [103 Stat. 2432](https://www.govinfo.gov/link/statute/103/2432), 2433, 2445, 2446; [Pub. L. 104–191, title III, § 321(d)(2)](https://www.govinfo.gov/link/plaw/104/public/191), title IV, § 421(b)(3), Aug. 21, 1996, [110 Stat. 2058](https://www.govinfo.gov/link/statute/110/2058), 2088; [Pub. L. 114–255, div. C, title XVIII, § 18001(b)(2)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1344](https://www.govinfo.gov/link/statute/130/1344).)*

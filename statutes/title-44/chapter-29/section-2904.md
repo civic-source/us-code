@@ -3,9 +3,10 @@ title: "Section 2904 - General responsibilities for records management"
 usc_title: 44
 usc_section: "2904"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 2904"
-generated_at: "2026-03-30T02:55:56.295Z"
+generated_at: "2026-11-23T21:26:18.417Z"
+status: "active"
 ---
 
 # § 2904. General responsibilities for records management
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:56.295Z"
     - **(C)** to the extent practicable, estimates of costs to the Federal Government resulting from the failure of agencies to implement such recommendations.
 - **(d)** The Archivist shall promulgate regulations requiring all Federal agencies to transfer all digital or electronic records to the National Archives of the United States in digital or electronic form to the greatest extent possible.
 - **(e)** The Administrator, in carrying out subsection (b), shall have the responsibility to promote economy and efficiency in the selection and utilization of space, staff, equipment, and supplies for processing mail at Federal facilities.
+
+## Source Credit
+
+*(Added [Pub. L. 94–575, § 2(a)(2)](https://www.govinfo.gov/link/plaw/94/public/575), Oct. 21, 1976, [90 Stat. 2725](https://www.govinfo.gov/link/statute/90/2725); amended [Pub. L. 96–511, § 2(c)(1)](https://www.govinfo.gov/link/plaw/96/public/511), Dec. 11, 1980, [94 Stat. 2825](https://www.govinfo.gov/link/statute/94/2825); [Pub. L. 98–497, title I, § 107(b)(16)](https://www.govinfo.gov/link/plaw/98/public/497), Oct. 19, 1984, [98 Stat. 2288](https://www.govinfo.gov/link/statute/98/2288); [Pub. L. 113–187](https://www.govinfo.gov/link/plaw/113/public/187), §§ 8(7), 9(c), Nov. 26, 2014, [128 Stat. 2012](https://www.govinfo.gov/link/statute/128/2012), 2013; [Pub. L. 115–85, § 2(a)(2)](https://www.govinfo.gov/link/plaw/115/public/85), Nov. 21, 2017, [131 Stat. 1274](https://www.govinfo.gov/link/statute/131/1274).)*

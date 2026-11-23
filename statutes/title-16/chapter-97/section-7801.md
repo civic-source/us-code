@@ -3,9 +3,10 @@ title: "Section 7801 - Definitions"
 usc_title: 16
 usc_section: "7801"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 7801"
-generated_at: "2026-03-30T02:54:23.078Z"
+generated_at: "2026-11-23T21:25:52.070Z"
+status: "active"
 ---
 
 # § 7801. Definitions
@@ -36,3 +37,7 @@ In this chapter:
   - **(10)** The term “Secretary” means the Secretary of Commerce.
   - **(11)** The term “South Pacific Fishery Resources Convention” means the Convention on the Conservation and Management of the High Seas Fishery Resources in the South Pacific Ocean (including any annexes, amendments, or protocols that are in force, or have come into force, for the United States), which was adopted at Auckland, New Zealand, on November 14, 2009 , by the International Consultations on the Proposed South Pacific Regional Fisheries Management Organization.
   - **(12)** The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, and any other commonwealth, territory, or possession of the United States.
+
+## Source Credit
+
+*([Pub. L. 114–327, title II, § 201](https://www.govinfo.gov/link/plaw/114/public/327), Dec. 16, 2016, [130 Stat. 1985](https://www.govinfo.gov/link/statute/130/1985).)*

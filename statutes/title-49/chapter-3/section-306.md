@@ -3,9 +3,10 @@ title: "Section 306 - Prohibited discrimination"
 usc_title: 49
 usc_section: "306"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 306"
-generated_at: "2026-03-30T02:56:19.298Z"
+generated_at: "2026-11-23T21:26:40.588Z"
+status: "active"
 ---
 
 # § 306. Prohibited discrimination
@@ -19,3 +20,33 @@ generated_at: "2026-03-30T02:56:19.298Z"
   - **(3)** carry out the duties and powers provided by title VI of the Civil Rights Act of 1964 ( 42 U.S.C. 2000d et seq.).
   - **(4)** take other action provided by law.
 - **(e)** When a matter is referred to the Attorney General under subsection (d)(2) of this section, or when the Attorney General has reason to believe that a person is engaged in a pattern or practice violating this section, the Attorney General may begin a civil action in a district court of the United States for appropriate relief.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 306(a) | 45:803(f). | Feb. 5, 1976 , Pub. L. 94–210, § 905 , 90 Stat. 148 . |
+| 306(b) | 45:803(a). |  |
+| 306(c), (d) | 45:803(b). |  |
+| 306(e) | 45:803(c)–(e). |  |
+
+
+Historical and Revision Notes
+
+Pub. L
+
+306(a)
+
+Feb. 5, 1976
+
+Pub. L. 94–210, § 905
+
+90 Stat. 148
+
+306(b)
+
+306(c), (d)
+
+306(e)
+
+## Source Credit
+
+*([Pub. L. 97–449, § 1(b)](https://www.govinfo.gov/link/plaw/97/public/449), Jan. 12, 1983, [96 Stat. 2421](https://www.govinfo.gov/link/statute/96/2421); [Pub. L. 98–216, § 2(3)](https://www.govinfo.gov/link/plaw/98/public/216), Feb. 14, 1984, [98 Stat. 5](https://www.govinfo.gov/link/statute/98/5); [Pub. L. 103–272, § 5(m)(7)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1376](https://www.govinfo.gov/link/statute/108/1376); [Pub. L. 117–58, div. B, title I, § 21301(j)(4)(B)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 693](https://www.govinfo.gov/link/statute/135/693).)*

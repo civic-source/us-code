@@ -3,9 +3,10 @@ title: "Section 5962 - Safe schools program authorized"
 usc_title: 20
 usc_section: "5962"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 5962"
-generated_at: "2026-03-30T02:54:48.190Z"
+generated_at: "2026-11-23T21:25:47.476Z"
+status: "active"
 ---
 
 # § 5962. Safe schools program authorized
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:48.190Z"
 - **(b)**
   - **(1)** There are authorized to be appropriated $50,000,000 for fiscal year 1994 to carry out this subchapter.
   - **(2)** The Secretary is authorized in each fiscal year to reserve not more than 10 percent of the amount appropriated pursuant to the authority of paragraph (1) to carry out national activities described in section 5966 of this title , of which 50 percent of such amount shall be available in such fiscal year to carry out the program described in section 5966(b) of this title .
+
+## Source Credit
+
+*([Pub. L. 103–227, title VII, § 702](https://www.govinfo.gov/link/plaw/103/public/227), Mar. 31, 1994, [108 Stat. 204](https://www.govinfo.gov/link/statute/108/204).)*

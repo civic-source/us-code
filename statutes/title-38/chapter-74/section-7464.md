@@ -3,9 +3,10 @@ title: "Section 7464 - Disciplinary Appeals Boards"
 usc_title: 38
 usc_section: "7464"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7464"
-generated_at: "2026-03-30T02:55:53.533Z"
+generated_at: "2026-11-23T21:26:16.881Z"
+status: "active"
 ---
 
 # § 7464. Disciplinary Appeals Boards
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:53.533Z"
   - **(1)** The Secretary shall provide for the periodic designation of employees of the Department who are qualified to serve on Disciplinary Appeals Boards. Those employees shall constitute the panel from which board members in a case are appointed. The Secretary shall provide (without charge) a list of the names of employees on the panel to any person requesting such list.
   - **(2)** The Secretary shall announce periodically, and not less often than annually, that the roster of employees on the panel is available as described in paragraph (1). Such announcement shall be made at Department medical facilities and through publication in the Federal Register. Notice of a name being on the list must be provided at least 30 days before the individual selected may serve on a Board or as a grievance examiner. Employees, employee organizations, and other interested parties may submit comments to the Secretary concerning the suitability for service on the panel of any employee whose name is on the list.
   - **(3)** The Secretary shall provide training in the functions and duties of Disciplinary Appeals Boards and grievance procedures under section 7463 of this title for employees selected to be on the panel.
+
+## Source Credit
+
+*(Added [Pub. L. 102–40, title II, § 203(a)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 206](https://www.govinfo.gov/link/statute/105/206).)*

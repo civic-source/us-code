@@ -3,9 +3,10 @@ title: "Section 2279 - Foreign commercial satellite services and foreign launche
 usc_title: 10
 usc_section: "2279"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2279"
-generated_at: "2026-03-30T02:53:38.153Z"
+generated_at: "2026-11-23T21:25:32.593Z"
+status: "active"
 ---
 
 # § 2279. Foreign commercial satellite services and foreign launches
@@ -36,3 +37,25 @@ generated_at: "2026-03-30T02:53:38.153Z"
     - **(A)** A country described in section 1261(c)(2) of the National Defense Authorization Act for Fiscal Year 2013 ( Public Law 112–239 ; 126 Stat. 2019 ).
     - **(B)** The Russian Federation.
   - **(2)** The term “cybersecurity risk” means threats to and vulnerabilities of information or information systems and any related consequences caused by or resulting from unauthorized access, use, disclosure, degradation, disruption, modification, or destruction of such information or information systems, including such related consequences caused by an act of terrorism.
+
+Prohibition
+
+Launches and Manufacturers.—
+
+Limitation
+
+Exception
+
+Launch vehicle defined
+
+Notice and Exception
+
+Delegation of Notice and Exception Authority
+
+Form of Assessments
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 113–66, div. A, title XVI, § 1602(a)(1)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 941](https://www.govinfo.gov/link/statute/127/941); amended [Pub. L. 115–91, div. A, title XVI, § 1603(a)](https://www.govinfo.gov/link/plaw/115/public/91) –(d)(1), Dec. 12, 2017, [131 Stat. 1722](https://www.govinfo.gov/link/statute/131/1722), 1723; [Pub. L. 115–232, div. A, title X, § 1081(a)(16)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1984](https://www.govinfo.gov/link/statute/132/1984); [Pub. L. 116–92, div. A, title IX, § 902(30)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1546](https://www.govinfo.gov/link/statute/133/1546).)*

@@ -3,9 +3,10 @@ title: "Section 5165d - Designation of Small State and Rural Advocate"
 usc_title: 42
 usc_section: "5165d"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5165d"
-generated_at: "2026-03-30T02:56:11.223Z"
+generated_at: "2026-11-23T21:26:32.752Z"
+status: "active"
 ---
 
 # § 5165d. Designation of Small State and Rural Advocate
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.223Z"
       - **(iii)** disruptions to transportation, infrastructure, and utilities; and
     - **(D)** any other information relevant to demonstrate severe local impacts; and
   - **(4)** conduct such other activities as the Administrator of the Federal Emergency Management Agency considers appropriate.
+
+## Source Credit
+
+*([Pub. L. 93–288, title III, § 326](https://www.govinfo.gov/link/plaw/93/public/288), as added [Pub. L. 109–295, title VI, § 689g(a)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1453](https://www.govinfo.gov/link/statute/120/1453); amended [Pub. L. 111–351, § 3(c)(2)](https://www.govinfo.gov/link/plaw/111/public/351), Jan. 4, 2011, [124 Stat. 3864](https://www.govinfo.gov/link/statute/124/3864); [Pub. L. 117–263, div. E, title LVI, § 5601(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3402](https://www.govinfo.gov/link/statute/136/3402).)*

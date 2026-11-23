@@ -3,9 +3,10 @@ title: "Section 30305 - Access to Register information"
 usc_title: 49
 usc_section: "30305"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 30305"
-generated_at: "2026-03-30T02:56:19.354Z"
+generated_at: "2026-11-23T21:26:40.769Z"
+status: "active"
 ---
 
 # § 30305. Access to Register information
@@ -38,3 +39,50 @@ generated_at: "2026-03-30T02:56:19.354Z"
   - **(2)** a request for, or receipt of, information by a chief driver licensing official, or by a person authorized by subsection (b) of this section to request and receive the information, is deemed to be a routine use under section 552a(b) of title 5 ; and
   - **(3)** receipt of information by a person authorized by this section to receive the information is deemed to be a disclosure under section 552a(c) of title 5 , except that the Secretary of Transportation is not required to retain the accounting made under section 552a(c)(1) for more than 7 years after the disclosure.
 - **(d)** Information provided by a State under the Act of July 14, 1960 ( Public Law 86–660 , 74 Stat. 526 ), as restated by section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 ( Public Law 89–563 , 80 Stat. 730 ), and under this chapter, shall be available under this section during the transition from the register maintained under that Act to the Register maintained under this chapter.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30305 | 23:401 (note). | Oct. 25, 1982 , Pub. L. 97–364, § 206 , 96 Stat. 1743 ; Dec. 30, 1987 , Pub. L. 100–223, § 305 , 101 Stat. 1525 ; June 22, 1988 , Pub. L. 100–342, § 4(b) , 102 Stat. 626 ; Aug. 18, 1990 , Pub. L. 101–380, § 4105(a) , 104 Stat. 512 . |
+
+
+Referrals of Information Requests
+
+Requests To Obtain Information
+
+Relationship to Other Laws
+
+Availability of Information Provided Under Prior Law
+
+Historical and Revision Notes
+
+Pub. L
+
+30305
+
+Oct. 25, 1982
+
+Pub. L. 97–364, § 206
+
+96 Stat. 1743
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 305
+
+101 Stat. 1525
+
+June 22, 1988
+
+Pub. L. 100–342, § 4(b)
+
+102 Stat. 626
+
+Aug. 18, 1990
+
+Pub. L. 101–380, § 4105(a)
+
+104 Stat. 512
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 976](https://www.govinfo.gov/link/statute/108/976); [Pub. L. 104–264, title V, § 502(b)](https://www.govinfo.gov/link/plaw/104/public/264), Oct. 9, 1996, [110 Stat. 3262](https://www.govinfo.gov/link/statute/110/3262); [Pub. L. 104–324, title II, § 207(b)](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3908](https://www.govinfo.gov/link/statute/110/3908); [Pub. L. 105–102, § 2(18)](https://www.govinfo.gov/link/plaw/105/public/102), Nov. 20, 1997, [111 Stat. 2205](https://www.govinfo.gov/link/statute/111/2205); [Pub. L. 105–178, title II, § 2006(b)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 335](https://www.govinfo.gov/link/statute/112/335); [Pub. L. 108–375, div. A, title X, § 1061](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2056](https://www.govinfo.gov/link/statute/118/2056); [Pub. L. 114–94, div. A, title V, § 5512](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1556](https://www.govinfo.gov/link/statute/129/1556); [Pub. L. 115–254, div. B, title V, § 563](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3384](https://www.govinfo.gov/link/statute/132/3384).)*

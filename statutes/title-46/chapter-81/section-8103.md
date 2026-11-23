@@ -3,9 +3,10 @@ title: "Section 8103 - Citizenship or noncitizen nationality and Navy Reserve re
 usc_title: 46
 usc_section: "8103"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 8103"
-generated_at: "2026-03-30T02:56:15.551Z"
+generated_at: "2026-11-23T21:26:37.093Z"
+status: "active"
 ---
 
 # § 8103. Citizenship or noncitizen nationality and Navy Reserve requirements
@@ -82,3 +83,62 @@ generated_at: "2026-03-30T02:56:15.551Z"
     - **(A)** The term “steward’s department” means the department that includes entertainment personnel and all service personnel, including wait staff, housekeeping staff, and galley workers, as defined in the vessel security plan approved by the Secretary pursuant to section 70103(c) of this title .
     - **(B)** The term “large passenger vessel” means a vessel of more than 70,000 gross tons, as measured under section 14302 of this title , with capacity for at least 2,000 passengers and documented with a coastwise endorsement under chapter 121 of this title.
 - **(l)** In this section, the term “noncitizen national” means an individual described in section 308 of the Immigration and Nationality Act ( 8 U.S.C. 1408 ).
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 8103 | 46:221 46:236 46:672(h) 46:672a 46:690 46:1132 |
+
+
+Riding Gang Member
+
+Crew Requirements for Large Passenger Vessels.—
+
+Citizenship and nationality
+
+Percentage limitation for alien seamen
+
+Special rules for certain unlicensed seamen.—
+
+Qualifications
+
+Restrictions
+
+Status, documentation, and employment
+
+Merchant mariner’s document requirements not affected
+
+Definitions
+
+Steward’s department
+
+Large passenger vessel
+
+Noncitizen National Defined
+
+Historical and Revision Notes
+
+8103
+
+Manning Requirements.—
+
+In general
+
+Definition
+
+Licensing Restrictions.—
+
+In general
+
+Treatment of credential
+
+Expiration
+
+Reports
+
+Definition
+
+Termination
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 548](https://www.govinfo.gov/link/statute/97/548); [Pub. L. 100–239](https://www.govinfo.gov/link/plaw/100/public/239), §§ 5(a)(1), (2), (b)–(d)(1), Jan. 11, 1988, [101 Stat. 1780](https://www.govinfo.gov/link/statute/101/1780); [Pub. L. 100–255](https://www.govinfo.gov/link/plaw/100/public/255), Mar. 4, 1988, [102 Stat. 23](https://www.govinfo.gov/link/statute/102/23); [Pub. L. 101–595, title VI, § 603(6)](https://www.govinfo.gov/link/plaw/101/public/595), title VII, § 711, Nov. 16, 1990, [104 Stat. 2993](https://www.govinfo.gov/link/statute/104/2993), 2997; [Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009](https://www.govinfo.gov/link/statute/110/3009), 3009–41; [Pub. L. 104–324, title VII, § 727](https://www.govinfo.gov/link/plaw/104/public/324), title XI, § 1123, Oct. 19, 1996, [110 Stat. 3939](https://www.govinfo.gov/link/statute/110/3939), 3980; [Pub. L. 108–293, title IV, § 412](https://www.govinfo.gov/link/plaw/108/public/293), Aug. 9, 2004, [118 Stat. 1046](https://www.govinfo.gov/link/statute/118/1046); [Pub. L. 109–163, div. A, title V, § 515(f)(3)(A)](https://www.govinfo.gov/link/plaw/109/public/163), (B), Jan. 6, 2006, [119 Stat. 3236](https://www.govinfo.gov/link/statute/119/3236); [Pub. L. 109–241, title III, § 312(c)(1)](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 533](https://www.govinfo.gov/link/statute/120/533); [Pub. L. 109–304, § 15(22)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1704](https://www.govinfo.gov/link/statute/120/1704); [Pub. L. 109–364, div. C, title XXXV, § 3509](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2518](https://www.govinfo.gov/link/statute/120/2518); [Pub. L. 110–181, div. C, title XXXV, § 3529(d)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 604](https://www.govinfo.gov/link/statute/122/604); [Pub. L. 114–120, title III](https://www.govinfo.gov/link/plaw/114/public/120), §§ 306(a)(6), 313(d), Feb. 8, 2016, [130 Stat. 54](https://www.govinfo.gov/link/statute/130/54), 59; [Pub. L. 116–260, div. AA, title V, § 512(c)(6)(B)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2757](https://www.govinfo.gov/link/statute/134/2757); [Pub. L. 116–283, div. G, title LVXXXV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXV], § 8505(b)(8), Jan. 1, 2021, [134 Stat. 4751](https://www.govinfo.gov/link/statute/134/4751); [Pub. L. 119–60, div. G, title LXXIII, § 7301(b)(2)(B)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1752](https://www.govinfo.gov/link/statute/139/1752).)*

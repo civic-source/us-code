@@ -3,9 +3,10 @@ title: "Section 1308 - Payment limitations"
 usc_title: 7
 usc_section: "1308"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1308"
-generated_at: "2026-03-30T02:53:42.301Z"
+generated_at: "2026-11-23T21:25:28.026Z"
+status: "active"
 ---
 
 # § 1308. Payment limitations
@@ -18,8 +19,8 @@ generated_at: "2026-03-30T02:53:42.301Z"
     - **(B)** produces an agricultural commodity.
   - **(4)** The term “person” means a natural person, and does not include a legal entity.
   - **(5)** The term “qualified pass-through entity” means—
-    - **(A)** a partnership (within the meaning of subchapter K of chapter 1 of the Internal Revenue Code of 1986 [ 26 U.S.C. 701 et seq.]);
-    - **(B)** an S corporation (as defined in section 1361 of that Code);
+    - **(A)** a partnership (within the meaning of subchapter K of chapter 1 of title 26 [ 26 U.S.C. 701 et seq.]);
+    - **(B)** an S corporation (as defined in section 1361 of title 26 );
     - **(C)** a limited liability company that does not affirmatively elect to be treated as a corporation; and
     - **(D)** a joint venture or general partnership.
   - **(6)** The term “Secretary” means the Secretary of Agriculture.
@@ -85,3 +86,23 @@ generated_at: "2026-03-30T02:53:42.301Z"
     - **(B)** The limitation in subparagraph (A) shall not apply to States with a population of less than 1,500,000.
 - **(h)** Regulations of the Secretary shall establish time limits for the various steps involved with notice, hearing, decision, and the appeals procedure in order to ensure expeditious handling and settlement of payment limitation disputes. Notwithstanding any other provision of law, actions taken by an individual or other entity in good faith on action or advice of an authorized representative of the Secretary may be accepted as meeting the requirement under this section or section 1308–1 of this title , to the extent the Secretary deems it desirable in order to provide fair and equitable treatment.
 - **(i)** For the 2025 crop year and each crop year thereafter, the Secretary shall annually adjust the amounts described in subsections (b) and (c) for inflation based on the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
+
+In general
+
+Training
+
+Implementation
+
+Commodity Credit Corporation
+
+Regulations.—
+
+Issuance
+
+Field instructions
+
+Allowance for Equitable Reorganizations
+
+## Source Credit
+
+*([Pub. L. 99–198, title X, § 1001](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1444](https://www.govinfo.gov/link/statute/99/1444); [Pub. L. 99–500, § 108(a)](https://www.govinfo.gov/link/plaw/99/public/500), Oct. 18, 1986, [100 Stat. 1783–346](https://www.govinfo.gov/link/statute/100/1783), and [Pub. L. 99–591, § 108(a)](https://www.govinfo.gov/link/plaw/99/public/591), Oct. 30, 1986, [100 Stat. 3341–346](https://www.govinfo.gov/link/statute/100/3341); [Pub. L. 100–71, title I](https://www.govinfo.gov/link/plaw/100/public/71), July 11, 1987, [101 Stat. 428](https://www.govinfo.gov/link/statute/101/428); [Pub. L. 100–203, title I](https://www.govinfo.gov/link/plaw/100/public/203), §§ 1301(a)(1), (2), 1303, 1305(c), 1307, Dec. 22, 1987, [101 Stat. 1330–12](https://www.govinfo.gov/link/statute/101/1330), 1330–16, 1330–18, 1330–19; [Pub. L. 101–217](https://www.govinfo.gov/link/plaw/101/public/217), §§ 1, 2, Dec. 11, 1989, [103 Stat. 1857](https://www.govinfo.gov/link/statute/103/1857); [Pub. L. 101–624, title XI, § 1111(a)](https://www.govinfo.gov/link/plaw/101/public/624), (c), (e), Nov. 28, 1990, [104 Stat. 3497–3499](https://www.govinfo.gov/link/statute/104/3497); [Pub. L. 102–237, title I, § 118(b)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1841](https://www.govinfo.gov/link/statute/105/1841); [Pub. L. 103–66, title I, § 1101(b)(3)(A)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 314](https://www.govinfo.gov/link/statute/107/314); [Pub. L. 104–127, title I, § 115(b)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 902](https://www.govinfo.gov/link/statute/110/902); [Pub. L. 107–171, title I, § 1603(a)](https://www.govinfo.gov/link/plaw/107/public/171), (b), May 13, 2002, [116 Stat. 213](https://www.govinfo.gov/link/statute/116/213), 214; [Pub. L. 110–234, title I, § 1603(a)](https://www.govinfo.gov/link/plaw/110/public/234), (b), May 22, 2008, [122 Stat. 1002](https://www.govinfo.gov/link/statute/122/1002); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1603(a), (b), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1730; [Pub. L. 113–79, title I](https://www.govinfo.gov/link/plaw/113/public/79), §§ 1603(a)–(b)(2), 1605(f), Feb. 7, 2014, [128 Stat. 705](https://www.govinfo.gov/link/statute/128/705), 706, 708; [Pub. L. 115–334, title I, § 1703(a)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4525](https://www.govinfo.gov/link/statute/132/4525); [Pub. L. 119–21, title I](https://www.govinfo.gov/link/plaw/119/public/21), §§ 10306(a), (b), 10307, July 4, 2025, [139 Stat. 91](https://www.govinfo.gov/link/statute/139/91), 92.)*

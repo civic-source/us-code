@@ -3,9 +3,10 @@ title: "Section 8542 - Interagency weather research and forecast innovation coor
 usc_title: 15
 usc_section: "8542"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8542"
-generated_at: "2026-03-30T02:54:08.231Z"
+generated_at: "2026-11-23T21:25:40.088Z"
+status: "active"
 ---
 
 # § 8542. Interagency weather research and forecast innovation coordination
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.231Z"
   - **(3)** share information regarding operational needs and forecasting improvements across relevant agencies.
 - **(b)** The Federal Coordinator for Meteorology shall serve as a co-chair of this panel.
 - **(c)** The Director of the Office of Science and Technology Policy shall take such other steps as are necessary to coordinate the activities of the Federal Government with those of the United States weather industry, State governments, emergency managers, and academic researchers.
+
+## Source Credit
+
+*([Pub. L. 115–25, title IV, § 402](https://www.govinfo.gov/link/plaw/115/public/25), Apr. 18, 2017, [131 Stat. 106](https://www.govinfo.gov/link/statute/131/106).)*

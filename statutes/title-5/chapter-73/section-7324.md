@@ -3,9 +3,10 @@ title: "Section 7324 - Political activities on duty; prohibition"
 usc_title: 5
 usc_section: "7324"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 7324"
-generated_at: "2026-03-30T02:52:56.037Z"
+generated_at: "2026-11-23T21:25:23.339Z"
+status: "active"
 ---
 
 # § 7324. Political activities on duty; prohibition
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:52:56.037Z"
     - **(B)** who is—
       - **(i)** an employee paid from an appropriation for the Executive Office of the President; or
       - **(ii)** an employee appointed by the President, by and with the advice and consent of the Senate, whose position is located within the United States, who determines policies to be pursued by the United States in relations with foreign powers or in the nationwide administration of Federal laws.
+
+## Source Credit
+
+*(Added [Pub. L. 103–94, § 2(a)](https://www.govinfo.gov/link/plaw/103/public/94), Oct. 6, 1993, [107 Stat. 1003](https://www.govinfo.gov/link/statute/107/1003).)*

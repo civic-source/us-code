@@ -3,9 +3,10 @@ title: "Section 8724 - Continuation in effect of sanctions with respect to the G
 usc_title: 22
 usc_section: "8724"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8724"
-generated_at: "2026-03-30T02:55:05.455Z"
+generated_at: "2026-11-23T21:25:58.751Z"
+status: "active"
 ---
 
 # § 8724. Continuation in effect of sanctions with respect to the Government of Iran, the Central Bank of Iran, and sanctions evaders
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:05.455Z"
     - **(A)** The President shall submit the certification described in paragraph (1) to the appropriate congressional committees in writing and shall include a justification for the certification.
     - **(B)** The certification described in paragraph (1) shall be submitted in unclassified form but may contain a classified annex.
 - **(e)** Nothing in this section shall be construed to limit the authority of the President pursuant to the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.) or the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 ( 22 U.S.C. 8501 et seq.).
+
+## Source Credit
+
+*([Pub. L. 112–158, title II, § 217](https://www.govinfo.gov/link/plaw/112/public/158), Aug. 10, 2012, [126 Stat. 1233](https://www.govinfo.gov/link/statute/126/1233).)*

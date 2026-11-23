@@ -3,9 +3,10 @@ title: "Section 3305 - Exhibits for inclusion with budget justification books"
 usc_title: 50
 usc_section: "3305"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3305"
-generated_at: "2026-03-30T02:56:26.242Z"
+generated_at: "2026-11-23T21:26:39.029Z"
+status: "active"
 ---
 
 # § 3305. Exhibits for inclusion with budget justification books
@@ -14,3 +15,7 @@ Beginning with the fiscal year 2010 budget request, the Director of National Int
 
   - **(1)** For procurement programs requesting more than $20,000,000 in any fiscal year, the P–1, Procurement Program; P–5, Cost Analysis; P–5a, Procurement History and Planning; P–21, Production Schedule; and P–40 1 1 So in original. Probably should be followed by a comma. Budget Item Justification.
   - **(2)** For research, development, test and evaluation projects requesting more than $10,000,000 in any fiscal year, the R–1, RDT&E Program; R–2, RDT&E Budget Item Justification; R–3, RDT&E Project Cost Analysis; and R–4, RDT&E Program Schedule Profile.
+
+## Source Credit
+
+*([Pub. L. 110–329, div. C, title VIII, § 8107](https://www.govinfo.gov/link/plaw/110/public/329), Sept. 30, 2008, [122 Stat. 3644](https://www.govinfo.gov/link/statute/122/3644).)*

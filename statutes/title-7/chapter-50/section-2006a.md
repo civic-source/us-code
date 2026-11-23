@@ -3,9 +3,10 @@ title: "Section 2006a - Borrower training"
 usc_title: 7
 usc_section: "2006a"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2006a"
-generated_at: "2026-03-30T02:53:42.354Z"
+generated_at: "2026-11-23T21:25:28.226Z"
+status: "active"
 ---
 
 # § 2006a. Borrower training
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.354Z"
 - **(f)**
   - **(1)** The Secretary may waive the requirements of this section for an individual borrower if the Secretary determines that the borrower demonstrates adequate knowledge in areas described in this section.
   - **(2)** The Secretary shall establish criteria providing for the application of paragraph (1) consistently in all counties nationwide.
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 359](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 101–624, title XVIII, § 1818(a)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3829](https://www.govinfo.gov/link/statute/104/3829); amended [Pub. L. 105–277, div. A, § 101(a) [title VIII, § 805(3)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681](https://www.govinfo.gov/link/statute/112/2681), 2681–39; [Pub. L. 107–171, title V](https://www.govinfo.gov/link/plaw/107/public/171), §§ 5316, 5501(c), May 13, 2002, [116 Stat. 348](https://www.govinfo.gov/link/statute/116/348), 351; [Pub. L. 113–79, title V, § 5306](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 840](https://www.govinfo.gov/link/statute/128/840).)*

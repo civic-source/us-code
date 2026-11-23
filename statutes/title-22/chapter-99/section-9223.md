@@ -3,9 +3,10 @@ title: "Section 9223 - Proliferation prevention sanctions"
 usc_title: 22
 usc_section: "9223"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9223"
-generated_at: "2026-03-30T02:55:05.463Z"
+generated_at: "2026-11-23T21:25:58.767Z"
+status: "active"
 ---
 
 # § 9223. Proliferation prevention sanctions
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:05.463Z"
 - **(e)**
   - **(1)** Not later than 180 days after August 2, 2017 , and annually thereafter for 5 years, the Secretary of State shall submit to the appropriate congressional committees a report that specifically describes the compliance of foreign countries and other foreign jurisdictions with the requirement to curtail the trade described in subsection (b)(1).
   - **(2)** The report required under paragraph (1) shall be submitted in unclassified form but may contain a classified annex.
+
+## Source Credit
+
+*([Pub. L. 114–122, title II, § 203](https://www.govinfo.gov/link/plaw/114/public/122), Feb. 18, 2016, [130 Stat. 106](https://www.govinfo.gov/link/statute/130/106); [Pub. L. 115–44, title III, § 313](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 945](https://www.govinfo.gov/link/statute/131/945); [Pub. L. 116–92, div. F, title LXXI, § 7123](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2248](https://www.govinfo.gov/link/statute/133/2248).)*

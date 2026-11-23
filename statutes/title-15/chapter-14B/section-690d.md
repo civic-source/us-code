@@ -3,9 +3,10 @@ title: "Section 690d - Debentures"
 usc_title: 15
 usc_section: "690d"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 690d"
-generated_at: "2026-03-30T02:54:08.112Z"
+generated_at: "2026-11-23T21:25:39.722Z"
+status: "active"
 ---
 
 # § 690d. Debentures
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:08.112Z"
 - **(d)**
   - **(1)** Under this section, the Administrator may guarantee the debentures issued by a Renewable Fuel Capital Investment company only to the extent that the total face amount of outstanding guaranteed debentures of such company does not exceed 150 percent of the private capital of the company, as determined by the Administrator.
   - **(2)** For the purposes of paragraph (1), private capital shall include capital that is considered to be Federal funds, if such capital is contributed by an investor other than a department or agency of the Federal Government.
+
+## Source Credit
+
+*([Pub. L. 85–699, title III, § 385](https://www.govinfo.gov/link/plaw/85/public/699), as added [Pub. L. 110–140, title XII, § 1207](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1778](https://www.govinfo.gov/link/statute/121/1778).)*

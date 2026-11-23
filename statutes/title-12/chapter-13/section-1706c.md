@@ -3,9 +3,10 @@ title: "Section 1706c - Insurance of mortgages"
 usc_title: 12
 usc_section: "1706c"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1706c"
-generated_at: "2026-03-30T02:53:53.408Z"
+generated_at: "2026-11-23T21:25:36.868Z"
+status: "active"
 ---
 
 # § 1706c. Insurance of mortgages
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:53.408Z"
 - **(e)** Any contract of insurance executed by the Secretary under this section shall be conclusive evidence of the eligibility of the mortgage for insurance, and the validity of any contract of insurance so executed shall be incontestable in the hands of an approved mortgagee from the date of the execution of such contract, except for fraud or misrepresentation on the part of such approved mortgagee.
 - **(f)** In any case in which the mortgagee under a mortgage insured under this section shall have foreclosed and taken possession of the mortgaged property in accordance with the regulations of, and within a period to be determined by, the Secretary or shall, with the consent of the Secretary, have otherwise acquired such property from the mortgagor after default, the mortgagee shall be entitled to receive the benefits of the insurance as provided in section 1710(a) of this title with respect to mortgages insured under section 203(b)(2)(D) of this Act.
 - **(g)** Subsections (c), (d), (e), (f), (g), (h), 1 1 See References in Text note below. (j), and (k) 1 of section 1710 of this title shall be applicable to mortgages insured under this section except that all references therein to the Mutual Mortgage Insurance Funds or the Fund shall be construed to refer to the General Insurance Fund, and all references therein to section 1709 of this title shall be construed to refer to this section: Provided , That debentures issued in connection with mortgages insured under this section shall have the same tax exemption as debentures issued in connection with mortgages insured under section 1709 of this title .
+
+## Source Credit
+
+*(June 27, 1934, ch. 847, title I, § 8, as added Apr. 20, 1950, ch. 94, title I, § 102, [64 Stat. 48](https://www.govinfo.gov/link/statute/64/48); amended Aug. 3, 1951, ch. 293, § 1, [65 Stat. 173](https://www.govinfo.gov/link/statute/65/173); June 30, 1953, ch. 170, § 2, [67 Stat. 121](https://www.govinfo.gov/link/statute/67/121); Aug. 2, 1954, ch. 649, title I, § 103, [68 Stat. 591](https://www.govinfo.gov/link/statute/68/591); [Pub. L. 86–372, title I, § 116(a)](https://www.govinfo.gov/link/plaw/86/public/372), Sept. 23, 1959, [73 Stat. 664](https://www.govinfo.gov/link/statute/73/664); [Pub. L. 89–117, title XI, § 1108(b)](https://www.govinfo.gov/link/plaw/89/public/117), Aug. 10, 1965, [79 Stat. 504](https://www.govinfo.gov/link/statute/79/504); [Pub. L. 90–19, § 1(a)(3)](https://www.govinfo.gov/link/plaw/90/public/19), (4), May 25, 1967, [81 Stat. 17](https://www.govinfo.gov/link/statute/81/17); [Pub. L. 91–606, title III, § 301(b)](https://www.govinfo.gov/link/plaw/91/public/606), Dec. 31, 1970, [84 Stat. 1758](https://www.govinfo.gov/link/statute/84/1758); [Pub. L. 93–288, title VII, § 702(b)](https://www.govinfo.gov/link/plaw/93/public/288), formerly title VI, § 602(b), May 22, 1974, [88 Stat. 163](https://www.govinfo.gov/link/statute/88/163), renumbered title VII, § 702(b), [Pub. L. 103–337, div. C, title XXXIV, § 3411(a)(1)](https://www.govinfo.gov/link/plaw/103/public/337), (2), Oct. 5, 1994, [108 Stat. 3100](https://www.govinfo.gov/link/statute/108/3100); [Pub. L. 100–707, title I, § 109(e)(1)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4708](https://www.govinfo.gov/link/statute/102/4708).)*

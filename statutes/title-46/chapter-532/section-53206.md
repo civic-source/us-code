@@ -3,9 +3,10 @@ title: "Section 53206 - Payments"
 usc_title: 46
 usc_section: "53206"
 chapter: 532
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 53206"
-generated_at: "2026-03-30T02:56:15.573Z"
+generated_at: "2026-11-23T21:26:37.254Z"
+status: "active"
 ---
 
 # § 53206. Payments
@@ -18,3 +19,19 @@ generated_at: "2026-03-30T02:56:15.573Z"
   - **(1)** not operated or maintained in accordance with an Operating Agreement under this chapter; or
   - **(2)** more than 40 years of age.
 - **(d)** With respect to payments under this chapter for a vessel covered by an Operating Agreement, the Secretary shall make a pro rata reduction for each day less than 365 in a fiscal year that the vessel is not operated in accordance with section 53205(a)(1), with days during which the vessel is drydocked or undergoing survey, inspection or repair to be considered days on which the vessel is operated as provided in subsection (b).
+
+Annual Payment.—
+
+In general
+
+Timing
+
+Certification Required for Payment
+
+General Limitations
+
+Reductions in Payments
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. C, title XXXV, § 3521(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1995](https://www.govinfo.gov/link/statute/133/1995); amended [Pub. L. 117–263, div. C, title XXXV, § 3517(b)(2)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3074](https://www.govinfo.gov/link/statute/136/3074).)*

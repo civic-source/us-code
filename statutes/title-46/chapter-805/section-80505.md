@@ -3,9 +3,10 @@ title: "Section 80505 - Enforcement"
 usc_title: 46
 usc_section: "80505"
 chapter: 805
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 80505"
-generated_at: "2026-03-30T02:56:15.589Z"
+generated_at: "2026-11-23T21:26:37.370Z"
+status: "active"
 ---
 
 # § 80505. Enforcement
@@ -34,3 +35,50 @@ generated_at: "2026-03-30T02:56:15.589Z"
   - **(1)** the Secretary declares the container to be in compliance with the standards of the Convention; or
   - **(2)** the container is removed permanently from service.
 - **(f)** If the Secretary has reason to believe that a container bearing a safety approval plate issued by another country was defective at the time of approval, the Secretary shall notify that country.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 80505 | 46 App.:1504. | Pub. L. 95–208, § 5 , Dec. 13, 1977 , 91 Stat. 1477 ; Pub. L. 97–249, § 1(2) , Sept. 8, 1982 , 96 Stat. 708 . |
+
+
+In General
+
+Payment of Expenses
+
+Examination
+
+Testing, inspection, and initial approval
+
+Credit to appropriation
+
+Presumption Based on Safety Approval Plate
+
+Notice of Orders
+
+In general
+
+Information to include
+
+Duration of Orders
+
+Notice of Defective Container to Country Issuing Safety Approval Plate
+
+Historical and Revision Notes
+
+80505
+
+Pub. L. 95–208, § 5
+
+Dec. 13, 1977
+
+91 Stat. 1477
+
+Pub. L. 97–249, § 1(2)
+
+Sept. 8, 1982
+
+96 Stat. 708
+
+## Source Credit
+
+*([Pub. L. 109–304, § 11](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1695](https://www.govinfo.gov/link/statute/120/1695); [Pub. L. 116–283, div. G, title LVXXXV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXV], § 8513(b), Jan. 1, 2021, [134 Stat. 4761](https://www.govinfo.gov/link/statute/134/4761).)*

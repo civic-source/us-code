@@ -3,9 +3,10 @@ title: "Section 242e - Repealed. Pub. L. 93–353, title I, § 102(a) , July 23,
 usc_title: 42
 usc_section: "242e"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 242e"
-generated_at: "2026-03-30T02:56:10.691Z"
+generated_at: "2026-11-23T21:26:30.249Z"
+status: "repealed"
 ---
 
 # § 242e. Repealed. Pub. L. 93–353, title I, § 102(a) , July 23, 1974 , 88 Stat. 362

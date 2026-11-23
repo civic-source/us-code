@@ -3,9 +3,10 @@ title: "Section 2016 - Undergraduate nurse training program: establishment throu
 usc_title: 10
 usc_section: "2016"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2016"
-generated_at: "2026-03-30T02:53:38.140Z"
+generated_at: "2026-11-23T21:25:32.549Z"
+status: "active"
 ---
 
 # § 2016. Undergraduate nurse training program: establishment through agreement with academic institution
@@ -22,3 +23,39 @@ generated_at: "2026-03-30T02:53:38.140Z"
   - **(2)** Before approving a location as the site of an undergraduate nurse training program, the Secretary of Defense shall conduct an assessment to ensure that the establishment of the program at that location will not adversely impact or displace existing nurse training programs, either conducted by the Department of Defense or by a civilian entity, at the location.
 - **(e)** An agreement entered into under subsection (a) shall not require members of the armed forces who are nurses to serve as faculty members for an undergraduate nurse training program.
 - **(f)** The Secretary of Defense shall encourage members of the armed forces to apply to participate in an undergraduate nurse training program. Graduates of the program shall incur a military service obligation in a regular or reserve component, as determined by the Secretary.
+
+Establishment Authorized
+
+Graduation Rates
+
+Elements
+
+Location of Programs
+
+Limitation on Faculty
+
+Military Service Commitment
+
+Undergraduate Nurse Training Program Plan
+
+Pilot Program.—
+
+Pilot program required
+
+Implementation and duration
+
+Graduation rates
+
+Implementation report
+
+Progress reports
+
+Final report
+
+Effect on Other Nursing Programs
+
+Effect on Other Recruitment Efforts
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title V, § 525(b)(1)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2286](https://www.govinfo.gov/link/statute/123/2286); amended [Pub. L. 111–383, div. A, title V, § 551(a)](https://www.govinfo.gov/link/plaw/111/public/383) –(c), Jan. 7, 2011, [124 Stat. 4219](https://www.govinfo.gov/link/statute/124/4219).)*

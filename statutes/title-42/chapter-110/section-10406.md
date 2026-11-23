@@ -3,9 +3,10 @@ title: "Section 10406 - Formula grants to States"
 usc_title: 42
 usc_section: "10406"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10406"
-generated_at: "2026-03-30T02:56:11.388Z"
+generated_at: "2026-11-23T21:26:33.369Z"
+status: "active"
 ---
 
 # § 10406. Formula grants to States
@@ -52,3 +53,13 @@ generated_at: "2026-03-30T02:56:11.388Z"
     - **(H)** The address or location of any shelter facility assisted under this chapter that otherwise maintains a confidential location shall, except with written authorization of the person or persons responsible for the operation of such shelter, not be made public.
   - **(6)** Federal funds made available to a State or Indian tribe under this chapter shall be used to supplement and not supplant other Federal, State, tribal, and local public funds expended to provide services and activities that promote the objectives of this chapter.
 - **(d)** Each grantee shall submit an annual performance report to the Secretary at such time as shall be reasonably required by the Secretary. Such performance report shall describe the grantee and subgrantee activities that have been carried out with grant funds made available under subsection (a) or section 10409 of this title , contain an evaluation of the effectiveness of such activities, and provide such additional information as the Secretary may reasonably require.
+
+(aa) the person, except as provided in item (bb) or (cc);
+
+(bb) in the case of an unemancipated minor, the minor and the minor’s parent or guardian; or
+
+(cc) in the case of an individual with a guardian, the individual’s guardian; and
+
+## Source Credit
+
+*([Pub. L. 98–457, title III, § 306](https://www.govinfo.gov/link/plaw/98/public/457), as added [Pub. L. 111–320, title II, § 201](https://www.govinfo.gov/link/plaw/111/public/320), Dec. 20, 2010, [124 Stat. 3489](https://www.govinfo.gov/link/statute/124/3489).)*

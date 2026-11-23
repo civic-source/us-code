@@ -3,9 +3,10 @@ title: "Section 5403 - Construction and safety standards"
 usc_title: 42
 usc_section: "5403"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5403"
-generated_at: "2026-03-30T02:56:11.234Z"
+generated_at: "2026-11-23T21:26:32.803Z"
+status: "active"
 ---
 
 # § 5403. Construction and safety standards
@@ -92,6 +93,12 @@ generated_at: "2026-03-30T02:56:11.234Z"
   - **(6)** If the Secretary fails to take final action under paragraph (5) and to cause notice of the action to be published in the Federal Register before the expiration of the 12-month period beginning on the date on which the proposed revised standard is submitted to the Secretary under paragraph (4)(A)—
     - **(A)** the Secretary shall appear in person before the appropriate housing and appropriations subcommittees and committees of the House of Representatives and the Senate (referred to in this paragraph as the “committees”) on a date or dates to be specified by the committees, but in no event later than 30 days after the expiration of that 12-month period, and shall state before the committees the reasons for failing to take final action as required under paragraph (5); and
     - **(B)** if the Secretary does not appear in person as required under subparagraph (A), the Secretary shall thereafter, and until such time as the Secretary does appear as required under subparagraph (A), be prohibited from expending any funds collected under authority of this title in an amount greater than that collected and expended in the fiscal year immediately preceding December 27, 2000 , indexed for inflation as determined by the Congressional Budget Office.
+  - **(7)**
+    - **(A)** The Secretary, in consultation with the consensus committee, shall issue revised standards for manufactured homes built without a permanent chassis using the process described in paragraph (4).
+    - **(B)** The Secretary shall, after consulting and conferring with the consensus committee, establish standards to ensure that manufactured homes without a permanent chassis have—
+      - **(i)** a distinct label, with revenue generated to be deposited into the Manufactured Housing Fees Trust Fund established under section 5419(e)(1) of this title , to be issued by the Secretary distinguishing manufactured home 1 1 So in original. Probably should be “homes”. built without a permanent chassis from manufactured homes built on a permanent chassis;
+      - **(ii)** a data plate, as described in section 3280.5 of title 24, Code of Federal Regulations (or any successor regulation), distinguishing manufactured homes built without a permanent chassis from manufactured homes built on a permanent chassis; and
+      - **(iii)** a notation on any invoice produced by the manufacturer of a manufactured home that is distinguishable from the invoice for a manufactured home constructed with a permanent chassis.
 - **(b)**
   - **(1)** The Secretary may issue procedural and enforcement regulations and revisions to existing regulations as necessary to implement the provisions of this chapter. The consensus committee may submit to the Secretary proposed procedural and enforcement regulations and recommendations for the revision of such regulations.
   - **(2)** The Secretary may issue interpretative bulletins to clarify the meaning of any Federal manufactured home construction and safety standard or procedural and enforcement regulation. The consensus committee may submit to the Secretary proposed interpretative bulletins to clarify the meaning of any Federal manufactured home construction and safety standard or procedural and enforcement regulation.
@@ -131,3 +138,42 @@ generated_at: "2026-03-30T02:56:11.234Z"
   - **(2)** The energy conservation standards established under this subsection shall be cost-effective energy conservation performance standards designed to ensure the lowest total of construction and operating costs.
   - **(3)** The energy conservation standards established under this subsection shall take into consideration the design and factory construction techniques of manufactured homes and shall provide for alternative practices that result in net estimated energy consumption equal to or less than the specified standards.
 - **(h)** The Secretary shall develop a new standard for hardboard panel siding on manufactured housing taking into account durability, longevity, consumer’s costs for maintenance and any other relevant information pursuant to subsection (e). The Secretary shall consult with the National Manufactured Home Advisory Council and the National Commission on Manufactured Housing in establishing the new standard. The new performance standard developed shall ensure the durability of hardboard sidings for at least a normal life of a mortgage with minimum maintenance required. Not later than 180 days from October 28, 1992 , the Secretary shall update the standards for hardboard siding.
+- **(i)**
+  - **(1)**
+    - **(A)** Subject to subparagraph (B), not later than 1 year after July 11, 2026 , a State shall submit to the Secretary an initial certification that the laws and regulations of the State—
+      - **(i)** treat any manufactured home in parity with a manufactured home (as defined and regulated by the State); and
+      - **(ii)** subject a manufactured home without a permanent chassis to the same laws and regulations of the State as a manufactured home built on a permanent chassis, including with respect to financing, title, insurance, manufacture, sale, taxes, transportation, installation, and other areas as the Secretary determines, after consultation with and approval by the consensus committee, are necessary to give effect to the purpose of this section.
+    - **(B)** Any State plan submitted under section 5422(b) of this title shall contain the required State certification under subparagraph (A) and, if contained therein, no additional or State certification under subparagraph (A) or paragraph (3).
+    - **(C)** With respect to a State with a legislature that meets biennially, the deadline for the submission of the initial certification required under subparagraph (A) shall be 2 years after July 11, 2026 .
+    - **(D)**
+      - **(i)** The Secretary may not waive the prohibition described in paragraph (5)(B) with respect to a certification submitted after the deadline under subparagraph (A) or paragraph (3) unless the Secretary approves the late certification.
+      - **(ii)** Nothing in this subsection shall be construed to prevent a State from submitting the initial certification required under subparagraph (A) after the required deadline under that subparagraph.
+  - **(2)** The initial certification required under paragraph (1)(A), if not submitted with a State plan under paragraph (1)(B), shall contain, in a form prescribed by the Secretary, an attestation by an official that the State has taken the steps necessary to ensure the veracity of the certification required under paragraph (1)(A), including, as necessary, by—
+    - **(A)** amending the definition of “manufactured home” in the laws and regulations of the State; and
+    - **(B)** directing State agencies to amend the definition of “manufactured home” in regulations.
+  - **(3)** Not later than a date to be determined by the Secretary each year, a State shall submit to the Secretary an additional certification that—
+    - **(A)** confirms the accuracy of the initial certification submitted under subparagraph (A) or (B) of paragraph (1); and
+    - **(B)** certifies that any new laws or regulations enacted or adopted by the State since the date of the previous certification do not change the veracity of the initial certification submitted under paragraph (1)(A).
+  - **(4)** The Secretary shall publish and maintain in the Federal Register and on the website of the Department of Housing and Urban Development a list of States that are up to date with the submission of initial and subsequent certifications required under this subsection.
+  - **(5)**
+    - **(A)** In this paragraph, the term “covered manufactured home” means a home that is—
+      - **(i)** not considered a manufactured home under the laws and regulations of a State because the home is constructed without a permanent chassis;
+      - **(ii)** considered a manufactured home under the definition of the term in section 5402 of this title ; and
+      - **(iii)** constructed after July 11, 2026 .
+    - **(B)** If a State does not submit a certification under paragraph (1)(A) or (3) by the date on which those certifications are required to be submitted—
+      - **(i)** with respect to a State in which the State administers the installation of manufactured homes, the State shall prohibit the manufacture, installation, or sale of a covered manufactured home within the State; and
+      - **(ii)** with respect to a State in which the Secretary administers the installation of manufactured homes, the State and the Secretary shall prohibit the manufacture, installation, or sale of a covered manufactured home within the State.
+
+In general
+
+Energy efficiency standards.—
+
+Manufactured home defined
+
+Process
+
+Minimum standards
+
+## Source Credit
+
+*([Pub. L. 93–383, title VI, § 604](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 701](https://www.govinfo.gov/link/statute/88/701); [Pub. L. 95–128, title IX, § 902(a)](https://www.govinfo.gov/link/plaw/95/public/128), Oct. 12, 1977, [91 Stat. 1149](https://www.govinfo.gov/link/statute/91/1149); [Pub. L. 96–399, title III, § 308(c)(4)](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1641](https://www.govinfo.gov/link/statute/94/1641); [Pub. L. 98–479, title II, § 204](https://www.govinfo.gov/link/plaw/98/public/479) (l), Oct. 17, 1984, [98 Stat. 2233](https://www.govinfo.gov/link/statute/98/2233); [Pub. L. 100–242, title V, § 568](https://www.govinfo.gov/link/plaw/100/public/242), Feb. 5, 1988, [101 Stat. 1948](https://www.govinfo.gov/link/statute/101/1948); [Pub. L. 102–550, title IX, § 907](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3873](https://www.govinfo.gov/link/statute/106/3873); [Pub. L. 106–569, title VI, § 604](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 2999](https://www.govinfo.gov/link/statute/114/2999); [Pub. L. 119–101, title III, § 301(b)](https://www.govinfo.gov/link/plaw/119/public/101), (c), July 11, 2026, [140 Stat. 888](https://www.govinfo.gov/link/statute/140/888).)*

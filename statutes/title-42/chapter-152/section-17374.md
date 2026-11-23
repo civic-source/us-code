@@ -3,9 +3,10 @@ title: "Section 17374 - Transparency in extractive industries resource payments"
 usc_title: 42
 usc_section: "17374"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17374"
-generated_at: "2026-03-30T02:56:11.506Z"
+generated_at: "2026-11-23T21:26:33.791Z"
+status: "active"
 ---
 
 # § 17374. Transparency in extractive industries resource payments
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.506Z"
   - **(1)** Not later than 180 days after December 19, 2007 , and annually thereafter, the Secretary of State, in consultation with the Secretary of Energy, shall submit to the appropriate congressional committees a report on progress made in promoting transparency in extractive industries resource payments.
   - **(2)** The report required by paragraph (1) shall include a detailed description of United States participation in the EITI, bilateral and multilateral diplomatic efforts to further participation in the EITI, and other United States initiatives to strengthen energy security, deter energy kleptocracy, and promote transparency in the extractive industries.
 - **(e)** There is authorized to be appropriated $3,000,000 for the purposes of United States contributions to the Multi-Donor Trust Fund of the EITI.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IX, § 935](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1748](https://www.govinfo.gov/link/statute/121/1748).)*

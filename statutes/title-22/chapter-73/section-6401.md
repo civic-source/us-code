@@ -3,9 +3,10 @@ title: "Section 6401 - Findings; policy"
 usc_title: 22
 usc_section: "6401"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6401"
-generated_at: "2026-03-30T02:55:05.427Z"
+generated_at: "2026-11-23T21:25:58.685Z"
+status: "active"
 ---
 
 # § 6401. Findings; policy
@@ -31,3 +32,27 @@ generated_at: "2026-03-30T02:55:05.427Z"
   - **(2)** Because the promotion of international religious freedom protects human rights, advances democracy abroad, and advances United States interests in stability, security, and development globally, the promotion of international religious freedom requires new and evolving policies and diplomatic responses that—
     - **(A)** are drawn from the expertise of the national security agencies, the diplomatic services, and other governmental agencies and nongovernmental organizations; and
     - **(B)** are coordinated across and carried out by the entire range of Federal agencies.
+
+“Congress finds the following:
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 105–292, § 2](https://www.govinfo.gov/link/plaw/105/public/292), Oct. 27, 1998, [112 Stat. 2788](https://www.govinfo.gov/link/statute/112/2788); [Pub. L. 113–154, § 2](https://www.govinfo.gov/link/plaw/113/public/154), Aug. 8, 2014, [128 Stat. 1827](https://www.govinfo.gov/link/statute/128/1827); [Pub. L. 114–281, § 2(a)](https://www.govinfo.gov/link/plaw/114/public/281), (b), Dec. 16, 2016, [130 Stat. 1426](https://www.govinfo.gov/link/statute/130/1426), 1427.)*

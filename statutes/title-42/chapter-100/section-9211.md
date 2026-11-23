@@ -3,9 +3,10 @@ title: "Section 9211 - Encouragement and protection of small business"
 usc_title: 42
 usc_section: "9211"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9211"
-generated_at: "2026-03-30T02:56:11.351Z"
+generated_at: "2026-11-23T21:26:33.235Z"
+status: "active"
 ---
 
 # § 9211. Encouragement and protection of small business
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:11.351Z"
 - **(a)** In carrying out his functions under this chapter, the Secretary shall take steps to assure that small business concerns will have realistic and adequate opportunities to participate in the programs under this chapter to the maximum extent practicable.
 - **(b)** The Secretary shall, to the maximum extent practicable, use all authority provided by law to protect trade secrets and other proprietary information submitted by small business under this chapter and to avoid the unnecessary disclosure of such information.
 - **(c)** The Secretary shall take such steps as may be necessary to assure compliance with the antitrust laws in the conduct of activities related to the manufacture or sale of wind energy systems directly or indirectly assisted under this chapter and shall implement this chapter in a manner which will protect against the creation of noncompetitive market situations in the conduct of such activities.
+
+## Source Credit
+
+*([Pub. L. 96–345, § 12](https://www.govinfo.gov/link/plaw/96/public/345), Sept. 8, 1980, [94 Stat. 1146](https://www.govinfo.gov/link/statute/94/1146).)*

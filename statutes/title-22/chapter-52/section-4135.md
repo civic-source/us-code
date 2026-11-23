@@ -3,9 +3,10 @@ title: "Section 4135 - Foreign Service Grievance Board"
 usc_title: 22
 usc_section: "4135"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4135"
-generated_at: "2026-03-30T02:55:05.408Z"
+generated_at: "2026-11-23T21:25:58.630Z"
+status: "active"
 ---
 
 # § 4135. Foreign Service Grievance Board
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:05.408Z"
     - **(E)** the number of instances in which interim relief was granted by the Board; and
     - **(F)** data on the average time for consideration of a grievance, from the time of filing to a decision of the Board.
   - **(2)** The report required under paragraph (1) shall be submitted to the Director General of the Foreign Service and the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 1105](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2144](https://www.govinfo.gov/link/statute/94/2144); [Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 331]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–439.)*

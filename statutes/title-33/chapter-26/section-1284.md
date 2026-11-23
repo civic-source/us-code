@@ -3,9 +3,10 @@ title: "Section 1284 - Limitations and conditions"
 usc_title: 33
 usc_section: "1284"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1284"
-generated_at: "2026-03-30T02:55:41.087Z"
+generated_at: "2026-11-23T21:26:11.369Z"
+status: "active"
 ---
 
 # § 1284. Limitations and conditions
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:41.087Z"
   - **(1)** A grant for the construction of treatment works under this subchapter shall provide that the engineer or engineering firm supervising construction or providing architect engineering services during construction shall continue its relationship to the grant applicant for a period of one year after the completion of construction and initial operation of such treatment works. During such period such engineer or engineering firm shall supervise operation of the treatment works, train operating personnel, and prepare curricula and training material for operating personnel. Costs associated with the implementation of this paragraph shall be eligible for Federal assistance in accordance with this subchapter.
   - **(2)** On the date one year after the completion of construction and initial operation of such treatment works, the owner and operator of such treatment works shall certify to the Administrator whether or not such treatment works meet the design specifications and effluent limitations contained in the grant agreement and permit pursuant to section 1342 of this title for such works. If the owner and operator of such treatment works cannot certify that such treatment works meet such design specifications and effluent limitations, any failure to meet such design specifications and effluent limitations shall be corrected in a timely manner, to allow such affirmative certification, at other than Federal expense.
   - **(3)** Nothing in this section shall be construed to prohibit a grantee under this subchapter from requiring more assurances, guarantees, or indemnity or other contractual requirements from any party to a contract pertaining to a project assisted under this subchapter, than those provided under this subsection.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title II, § 204, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 835](https://www.govinfo.gov/link/statute/86/835); amended [Pub. L. 95–217](https://www.govinfo.gov/link/plaw/95/public/217), §§ 20–24, Dec. 27, 1977, [91 Stat. 1572](https://www.govinfo.gov/link/statute/91/1572), 1573; [Pub. L. 96–483, § 2(a)](https://www.govinfo.gov/link/plaw/96/public/483), (b), Oct. 21, 1980, [94 Stat. 2360](https://www.govinfo.gov/link/statute/94/2360), 2361; [Pub. L. 97–117](https://www.govinfo.gov/link/plaw/97/public/117), §§ 10(a), (b), 11, 12, Dec. 29, 1981, [95 Stat. 1626](https://www.govinfo.gov/link/statute/95/1626), 1627; [Pub. L. 100–4, title II, § 205(a)](https://www.govinfo.gov/link/plaw/100/public/4) –(c), Feb. 4, 1987, [101 Stat. 18](https://www.govinfo.gov/link/statute/101/18).)*

@@ -3,12 +3,17 @@ title: "Section 1428e - Audit of books and records of agency, or agencies, admin
 usc_title: 48
 usc_section: "1428e"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1428e"
-generated_at: "2026-03-30T02:56:14.586Z"
+generated_at: "2026-11-23T21:26:38.002Z"
+status: "active"
 ---
 
 # § 1428e. Audit of books and records of agency, or agencies, administering loan funds
 
 The Comptroller General of the United States, or any of his duly authorized representatives, shall have access, for the purpose of audit and examination, to the books, documents, papers, and records of the agency, or agencies, of the government of Guam administering the plan that are pertinent to the funds received under this subchapter.
 
+
+## Source Credit
+
+*([Pub. L. 90–601, § 7](https://www.govinfo.gov/link/plaw/90/public/601), Oct. 17, 1968, [82 Stat. 1173](https://www.govinfo.gov/link/statute/82/1173).)*

@@ -3,9 +3,10 @@ title: "Section 242 - Oil shale claims"
 usc_title: 30
 usc_section: "242"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 242"
-generated_at: "2026-03-30T02:55:29.381Z"
+generated_at: "2026-11-23T21:26:00.378Z"
+status: "active"
 ---
 
 # § 242. Oil shale claims
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:29.381Z"
 - **(f)** In addition to other applicable requirements, any person who holds a limited patent or maintains a claim pursuant to this section shall be required to carry out reclamation as prescribed by the Secretary and to furnish a bond or other appropriate financial guarantee in an amount sufficient to ensure adequate reclamation of the lands to be disturbed by any aspect of the proposed mining activities.
 - **(g)** Without comment on the adequacy of current or former standards for determining validity of oil shale claims, Congress reaffirms the requirements of law that a patent may issue only to persons who hold valid claims and the need for careful review of any applications.
 - **(h)** Notwithstanding any other provision of law, with respect to any oil shale mining claim located under the general mining laws of the United States, no patent for such claim shall be issued except as provided by this section.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXV, § 2511](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3109](https://www.govinfo.gov/link/statute/106/3109).)*

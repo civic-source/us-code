@@ -3,9 +3,10 @@ title: "Section 5727 - Transportation of motor vehicles"
 usc_title: 5
 usc_section: "5727"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5727"
-generated_at: "2026-03-30T02:52:56.025Z"
+generated_at: "2026-11-23T21:25:23.297Z"
+status: "active"
 ---
 
 # § 5727. Transportation of motor vehicles
@@ -24,3 +25,46 @@ generated_at: "2026-03-30T02:52:56.025Z"
     - **(A)** the Foreign Service of the United States; or
     - **(B)** the Central Intelligence Agency.
   - **(2)** This section, except subsection (a), does not affect section 403e(4) of title 50 . 1 1 See References in Text note below.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| (a) | 5 U.S.C. 73c . | June 30, 1932, ch. 314, § 209 , 47 Stat. 405 . Apr. 30, 1940, ch. 172 , 54 Stat. 174 . |
+|  |  | Aug. 13, 1946, ch. 957, § 1131(64) , 60 Stat. Stat. 1040. |
+| (b)–(e) | 5 U.S.C. 73b–1(f) . | Sept. 6, 1960 , Pub. L. 86–707, § 321 , 74 Stat. 797 . Feb. 5, 1964 , Pub. L. 88–266 , 78 Stat. 8 . |
+
+
+Historical and Revision Notes
+
+(a)
+
+5 U.S.C. 73c
+
+June 30, 1932, ch. 314, § 209
+
+47 Stat. 405
+
+Apr. 30, 1940, ch. 172
+
+54 Stat. 174
+
+Aug. 13, 1946, ch. 957, § 1131(64)
+
+(b)–(e)
+
+5 U.S.C. 73b–1(f)
+
+Sept. 6, 1960
+
+Pub. L. 86–707, § 321
+
+74 Stat. 797
+
+Feb. 5, 1964
+
+Pub. L. 88–266
+
+78 Stat. 8
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 504](https://www.govinfo.gov/link/statute/80/504); [Pub. L. 96–465, title II, § 2314(e)](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2168](https://www.govinfo.gov/link/statute/94/2168); [Pub. L. 104–201, div. A, title XVII](https://www.govinfo.gov/link/plaw/104/public/201), §§ 1715(a), 1723(b)(1), Sept. 23, 1996, [110 Stat. 2755](https://www.govinfo.gov/link/statute/110/2755), 2759; [Pub. L. 105–264, § 6(7)](https://www.govinfo.gov/link/plaw/105/public/264), Oct. 19, 1998, [112 Stat. 2356](https://www.govinfo.gov/link/statute/112/2356).)*

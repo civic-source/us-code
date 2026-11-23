@@ -3,9 +3,10 @@ title: "Section 6038A - Information with respect to certain foreign-owned corpor
 usc_title: 26
 usc_section: "6038A"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6038A"
-generated_at: "2026-03-30T02:55:27.831Z"
+generated_at: "2026-11-23T21:26:06.763Z"
+status: "active"
 ---
 
 # § 6038A. Information with respect to certain foreign-owned corporations
@@ -57,3 +58,11 @@ generated_at: "2026-03-30T02:55:27.831Z"
     - **(C)** The United States district court for the district in which the person (to whom the summons is issued) resides or is found shall have jurisdiction to hear any proceeding brought under subparagraph (A) or (B). Any order or other determination in such a proceeding shall be treated as a final order which may be appealed.
     - **(D)** If the reporting corporation brings an action under subparagraph (A) or (B), the running of any period of limitations under section 6501 (relating to assessment and collection of tax) or under section 6531 (relating to criminal prosecutions) with respect to any affected taxable year shall be suspended for the period during which such proceeding, and appeals therein, are pending. In no event shall any such period expire before the 90th day after the day on which there is a final determination in such proceeding. For purposes of this subparagraph, the term “affected taxable year” means any taxable year if the determination of the amount of tax imposed for such taxable year is affected by the treatment of the transaction to which the summons relates.
 - **(f)** For provisions relating to criminal penalties for violation of this section, see section 7203.
+
+General Rule
+
+Continuation of Old Failures
+
+## Source Credit
+
+*(Added [Pub. L. 97–248, title III, § 339(a)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 632](https://www.govinfo.gov/link/statute/96/632); amended [Pub. L. 97–448, title III, § 306(b)(4)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2406](https://www.govinfo.gov/link/statute/96/2406); [Pub. L. 98–369, div. A, title VII, § 714](https://www.govinfo.gov/link/plaw/98/public/369) (l), July 18, 1984, [98 Stat. 963](https://www.govinfo.gov/link/statute/98/963); [Pub. L. 99–514, title XII, § 1245(a)](https://www.govinfo.gov/link/plaw/99/public/514), (b)(1)–(4), Oct. 22, 1986, [100 Stat. 2581](https://www.govinfo.gov/link/statute/100/2581); [Pub. L. 101–239, title VII, § 7403(a)](https://www.govinfo.gov/link/plaw/101/public/239) –(d), Dec. 19, 1989, [103 Stat. 2358](https://www.govinfo.gov/link/statute/103/2358), 2359; [Pub. L. 101–508, title XI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 11315(b)(1), 11704(a)(23), Nov. 5, 1990, [104 Stat. 1388–457](https://www.govinfo.gov/link/statute/104/1388), 1388–519; [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1702(c)(5), 1704(f)(5)(B), Aug. 20, 1996, [110 Stat. 1869](https://www.govinfo.gov/link/statute/110/1869), 1880; [Pub. L. 115–97, title I, § 14401(b)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2232](https://www.govinfo.gov/link/statute/131/2232).)*

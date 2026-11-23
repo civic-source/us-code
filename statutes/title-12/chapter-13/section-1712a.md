@@ -3,9 +3,10 @@ title: "Section 1712a - Indexing of FHA multifamily housing loan limits"
 usc_title: 12
 usc_section: "1712a"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1712a"
-generated_at: "2026-03-30T02:53:53.411Z"
+generated_at: "2026-11-23T21:25:36.876Z"
+status: "active"
 ---
 
 # § 1712a. Indexing of FHA multifamily housing loan limits
@@ -17,5 +18,11 @@ generated_at: "2026-03-30T02:53:53.411Z"
   - **(4)** section 1715 l (d)(3)(ii)(I) of this title;
   - **(5)** section 1715 l (d)(4)(ii)(I) of this title;
   - **(6)** section 1715v(c)(2)(A) of this title ; and
-  - **(7)** section 1715y(e)(3)(A) of this title ; (collectively hereinafter referred to as the “Dollar Amounts”) shall be adjusted annually (commencing in 2004) on the effective date of the Federal Reserve Board’s adjustment of the $400 figure in the Home Ownership and Equity Protection Act of 1994 (HOEPA). The adjustment of the Dollar Amounts shall be calculated using the percentage change in the Consumer Price Index for All Urban Consumers (CPI–U) as applied by the Federal Reserve Board for purposes of the above-described HOEPA adjustment.
-- **(b)** The Federal Reserve Board on a timely basis shall notify the Secretary, or his designee, in writing of the adjustment described in subsection (a) and of the effective date of such adjustment in order to permit the Secretary to undertake publication in the Federal Register of corresponding adjustments to the Dollar Amounts. The dollar amount of any adjustment shall be rounded to the next lower dollar.
+  - **(7)** section 1715y(e)(3)(A) of this title ; (collectively hereinafter referred to as the “Dollar Amounts”) shall be adjusted annually, commencing on July 1, 2025 . The adjustment of the Dollar Amounts shall be calculated by the Secretary using the percentage change in the Price Deflator Index of Multifamily Residential Units Under Construction released by the Bureau of the Census from March of the previous year to March of the year in which the adjustment is made, or by the Secretary using an alternative indicator after publishing information about such alternative indicator in the Federal Register for public comment if the Price Deflator Index of Multifamily Residential Units Under Construction is not available or published.
+- **(b)**
+  - **(1)** The Secretary shall publish in the Federal Register any adjustments made to the Dollar Amounts.
+  - **(2)** The dollar amount of any adjustment described in paragraph (1) shall be rounded to the next lower dollar.
+
+## Source Credit
+
+*(June 27, 1934, ch. 847, title II, § 206A, as added [Pub. L. 107–326, § 5(a)](https://www.govinfo.gov/link/plaw/107/public/326), Dec. 4, 2002, [116 Stat. 2794](https://www.govinfo.gov/link/statute/116/2794); amended [Pub. L. 119–101, title II, § 211(a)(1)](https://www.govinfo.gov/link/plaw/119/public/101), July 11, 2026, [140 Stat. 881](https://www.govinfo.gov/link/statute/140/881).)*

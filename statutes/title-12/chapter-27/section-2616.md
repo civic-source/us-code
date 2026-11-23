@@ -3,12 +3,17 @@ title: "Section 2616 - State laws unaffected; inconsistent Federal and State pro
 usc_title: 12
 usc_section: "2616"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2616"
-generated_at: "2026-03-30T02:53:53.487Z"
+generated_at: "2026-11-23T21:25:37.106Z"
+status: "active"
 ---
 
 # § 2616. State laws unaffected; inconsistent Federal and State provisions
 
 This chapter does not annul, alter, or affect, or exempt any person subject to the provisions of this chapter from complying with, the laws of any State with respect to settlement practices, except to the extent that those laws are inconsistent with any provision of this chapter, and then only to the extent of the inconsistency. The Bureau is authorized to determine whether such inconsistencies exist. The Bureau may not determine that any State law is inconsistent with any provision of this chapter if the Bureau determines that such law gives greater protection to the consumer. In making these determinations the Bureau shall consult with the appropriate Federal agencies.
 
+
+## Source Credit
+
+*([Pub. L. 93–533, § 18](https://www.govinfo.gov/link/plaw/93/public/533), Dec. 22, 1974, [88 Stat. 1731](https://www.govinfo.gov/link/statute/88/1731); [Pub. L. 94–205, § 9](https://www.govinfo.gov/link/plaw/94/public/205), Jan. 2, 1976, [89 Stat. 1159](https://www.govinfo.gov/link/statute/89/1159); [Pub. L. 111–203, title X, § 1098(10)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2104](https://www.govinfo.gov/link/statute/124/2104).)*

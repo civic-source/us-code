@@ -3,9 +3,10 @@ title: "Section 16193 - National Building Performance Initiative"
 usc_title: 42
 usc_section: "16193"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16193"
-generated_at: "2026-03-30T02:56:11.472Z"
+generated_at: "2026-11-23T21:26:33.705Z"
+status: "active"
 ---
 
 # § 16193. National Building Performance Initiative
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.472Z"
   - **(1)** analyze and provide recommendations on potential private sector roles and participation in the Initiative; and
   - **(2)** review and provide recommendations on the plan described in subsection (c).
 - **(f)** Nothing in this section provides any Federal agency with new authority to regulate building performance.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 913](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 860](https://www.govinfo.gov/link/statute/119/860).)*

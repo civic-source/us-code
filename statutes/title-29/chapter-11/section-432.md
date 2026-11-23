@@ -3,9 +3,10 @@ title: "Section 432 - Report of officers and employees of labor organizations"
 usc_title: 29
 usc_section: "432"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 432"
-generated_at: "2026-03-30T02:55:18.683Z"
+generated_at: "2026-11-23T21:26:02.181Z"
+status: "active"
 ---
 
 # § 432. Report of officers and employees of labor organizations
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:18.683Z"
   - **(6)** any payment of money or other thing of value (including reimbursed expenses) which he or his spouse or minor child received directly or indirectly from any employer or any person who acts as a labor relations consultant to an employer, except payments of the kinds referred to in section 186(c) of this title .
 - **(b)** The provisions of paragraphs (1), (2), (3), (4), and (5) of subsection (a) shall not be construed to require any such officer or employee to report his bona fide investments in securities traded on a securities exchange registered as a national securities exchange under the Securities Exchange Act of 1934 [ 15 U.S.C. 78a et seq.], in shares in an investment company registered under the Investment Company Act of 1940 [ 15 U.S.C. 80a–1 et seq.], or in securities of a public utility holding company registered under the Public Utility Holding Company Act of 1935, or to report any income derived therefrom.
 - **(c)** Nothing contained in this section shall be construed to require any officer or employee of a labor organization to file a report under subsection (a) unless he or his spouse or minor child holds or has held an interest, has received income or any other benefit with monetary value or a loan, or has engaged in a transaction described therein.
+
+## Source Credit
+
+*([Pub. L. 86–257, title II, § 202](https://www.govinfo.gov/link/plaw/86/public/257), Sept. 14, 1959, [73 Stat. 525](https://www.govinfo.gov/link/statute/73/525).)*

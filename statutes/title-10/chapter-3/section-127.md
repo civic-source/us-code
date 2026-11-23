@@ -3,9 +3,10 @@ title: "Section 127 - Emergency and extraordinary expenses"
 usc_title: 10
 usc_section: "127"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 127"
-generated_at: "2026-03-30T02:53:38.032Z"
+generated_at: "2026-11-23T21:25:32.210Z"
+status: "active"
 ---
 
 # § 127. Emergency and extraordinary expenses
@@ -32,3 +33,11 @@ generated_at: "2026-03-30T02:53:38.032Z"
     - **(D)** A justification why other authorities available to the Department could not be used for such expenditure.
     - **(E)** Any other matters the Secretary considers appropriate.
 - **(e)** In this section, the term “congressional intelligence committees” means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+
+Annual Report
+
+Definition of Congressional Intelligence Committees
+
+## Source Credit
+
+*(Added [Pub. L. 94–106, title VIII, § 804(a)](https://www.govinfo.gov/link/plaw/94/public/106), Oct. 7, 1975, [89 Stat. 538](https://www.govinfo.gov/link/statute/89/538), § 140; amended [Pub. L. 98–94, title XII, § 1268(2)](https://www.govinfo.gov/link/plaw/98/public/94), Sept. 24, 1983, [97 Stat. 705](https://www.govinfo.gov/link/statute/97/705); renumbered § 127 and amended [Pub. L. 99–433, title I](https://www.govinfo.gov/link/plaw/99/public/433), §§ 101(a)(3), 110(d)(4), Oct. 1, 1986, [100 Stat. 994](https://www.govinfo.gov/link/statute/100/994), 1002; [Pub. L. 103–160, div. A, title III, § 361](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1627](https://www.govinfo.gov/link/statute/107/1627); [Pub. L. 103–337, div. A, title III, § 378](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2737](https://www.govinfo.gov/link/statute/108/2737); [Pub. L. 104–106, div. A, title IX, § 915](https://www.govinfo.gov/link/plaw/104/public/106), title XV, § 1502(a)(5), Feb. 10, 1996, [110 Stat. 413](https://www.govinfo.gov/link/statute/110/413), 502; [Pub. L. 106–65, div. A, title X, § 1067(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774); [Pub. L. 108–136, div. A, title X, § 1031(a)(2)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1596](https://www.govinfo.gov/link/statute/117/1596); [Pub. L. 115–91, div. A, title X](https://www.govinfo.gov/link/plaw/115/public/91), §§ 1041(a)–(c), 1081(a)(4), Dec. 12, 2017, [131 Stat. 1552](https://www.govinfo.gov/link/statute/131/1552), 1553, 1594; [Pub. L. 116–92, div. A, title X, § 1012](https://www.govinfo.gov/link/plaw/116/public/92), title XVII, § 1731(a)(5), Dec. 20, 2019, [133 Stat. 1577](https://www.govinfo.gov/link/statute/133/1577), 1812; [Pub. L. 118–159, div. A, title XVI, § 1614(e)(2)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2169](https://www.govinfo.gov/link/statute/138/2169).)*

@@ -3,9 +3,10 @@ title: "Section 12894 - Homeownership program requirements"
 usc_title: 42
 usc_section: "12894"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12894"
-generated_at: "2026-03-30T02:56:11.434Z"
+generated_at: "2026-11-23T21:26:33.570Z"
+status: "active"
 ---
 
 # § 12894. Homeownership program requirements
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.434Z"
   - **(1)** will be free from any defects that pose a danger to health or safety before transfer of an ownership interest in, or shares representing, a unit to an eligible family; and
   - **(2)** will, not later than 2 years after the transfer to an eligible family, meet minimum housing standards established by the Secretary for the purpose of this title. 2 2 So in original. See References in Text note below.
 - **(f)** Each homeownership program under this part shall provide that, in making vacant units in eligible properties available for acquisition by eligible families, preference shall be given to eligible families who reside in public or Indian housing.
+
+## Source Credit
+
+*([Pub. L. 101–625, title IV, § 444](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4176](https://www.govinfo.gov/link/statute/104/4176); [Pub. L. 102–550, title I, § 181(f)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3736](https://www.govinfo.gov/link/statute/106/3736).)*

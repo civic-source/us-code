@@ -3,9 +3,10 @@ title: "Section 4 - Violation of final order by live poultry dealer; penalty"
 usc_title: 7
 usc_section: "4"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 4"
-generated_at: "2026-03-30T02:53:42.279Z"
+generated_at: "2026-11-23T21:25:27.936Z"
+status: "active"
 ---
 
 # § 228b–4. Violation of final order by live poultry dealer; penalty
@@ -15,3 +16,7 @@ Any live poultry dealer, or any officer, director, agent, or employee of a live 
   - **(1)** after the expiration of the time allowed for filing a petition in the court of appeals to set aside or modify such order, if no such petition has been filed within such time;
   - **(2)** after the expiration of the time allowed for applying for a writ of certiorari, if such order, or such order as modified, has been sustained by the court of appeals and no such writ has been applied for within such time; or
   - **(3)** after such order, or such order as modified, has been sustained by the courts as provided in section 228b–3 of this title ;
+
+## Source Credit
+
+*(Aug. 15, 1921, ch. 64, title IV, § 413, as added [Pub. L. 100–173, § 9(2)](https://www.govinfo.gov/link/plaw/100/public/173), Nov. 23, 1987, [101 Stat. 922](https://www.govinfo.gov/link/statute/101/922).)*

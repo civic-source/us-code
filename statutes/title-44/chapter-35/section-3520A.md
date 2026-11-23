@@ -3,9 +3,10 @@ title: "Section 3520A - Chief Data Officer Council"
 usc_title: 44
 usc_section: "3520A"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 3520A"
-generated_at: "2026-03-30T02:55:56.297Z"
+generated_at: "2026-11-23T21:26:18.433Z"
+status: "active"
 ---
 
 # § 3520A. Chief Data Officer Council
@@ -26,3 +27,29 @@ generated_at: "2026-03-30T02:55:56.297Z"
 - **(e)**
   - **(1)** Not later than 4 years after date 1 1 So in original. Probably should be preceded by “the”. of the enactment of this section, the Comptroller General shall submit to Congress a report on whether the additional duties of the Council improved the use of evidence and program evaluation in the Federal Government.
   - **(2)** The Council shall terminate and this section shall be repealed upon the expiration of the 2-year period that begins on the date the Comptroller General submits the report under paragraph (1) to Congress.
+
+Establishment
+
+Purpose and Functions
+
+Membership.—
+
+In general
+
+Chair
+
+Additional members
+
+Ex officio member
+
+Reports
+
+Evaluation and Termination.—
+
+GAO evaluation of council
+
+Termination of council
+
+## Source Credit
+
+*(Added [Pub. L. 115–435, title II, § 202(f)(1)](https://www.govinfo.gov/link/plaw/115/public/435), Jan. 14, 2019, [132 Stat. 5542](https://www.govinfo.gov/link/statute/132/5542).)*

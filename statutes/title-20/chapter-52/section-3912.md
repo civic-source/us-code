@@ -3,9 +3,10 @@ title: "Section 3912 - Functional objectives; uses of funds"
 usc_title: 20
 usc_section: "3912"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 3912"
-generated_at: "2026-03-30T02:54:48.181Z"
+generated_at: "2026-11-23T21:25:47.424Z"
+status: "active"
 ---
 
 # § 3912. Functional objectives; uses of funds
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:48.181Z"
   - **(7)** encouragement of potential students, including underrepresented and underserved populations, to pursue careers in mathematics, science, engineering, and critical foreign languages;
   - **(8)** development of instructional instrumentation and systems for postsecondary technical, engineering, and scientific education; and
   - **(9)** development of science, engineering, and education networks to aid in the development and dissemination of successful curricula, methods, and materials.
+
+## Source Credit
+
+*([Pub. L. 98–377, title I, § 102](https://www.govinfo.gov/link/plaw/98/public/377), as added [Pub. L. 99–159, title II, § 201](https://www.govinfo.gov/link/plaw/99/public/159), Nov. 22, 1985, [99 Stat. 894](https://www.govinfo.gov/link/statute/99/894).)*

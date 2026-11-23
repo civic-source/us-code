@@ -3,9 +3,10 @@ title: "Section 1228a - Equity for students, teachers, and other program benefic
 usc_title: 20
 usc_section: "1228a"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1228a"
-generated_at: "2026-03-30T02:54:48.156Z"
+generated_at: "2026-11-23T21:25:47.296Z"
+status: "active"
 ---
 
 # § 1228a. Equity for students, teachers, and other program beneficiaries
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:48.156Z"
 - **(b)** The Secretary shall require each applicant for assistance under an applicable program (other than an individual) to develop and describe in such applicant’s application the steps such applicant proposes to take to ensure equitable access to, and equitable participation in, the project or activity to be conducted with such assistance, by addressing the special needs of students, teachers, and other program beneficiaries in order to overcome barriers to equitable participation, including barriers based on gender, race, color, national origin, disability, and age.
 - **(c)** The Secretary may establish criteria and provide technical assistance for meeting the requirements of this section.
 - **(d)** Nothing in this section shall be construed to alter in any way the rights or responsibilities established under the laws cited in section 1221(d) of this title .
+
+## Source Credit
+
+*([Pub. L. 90–247, title IV, § 427](https://www.govinfo.gov/link/plaw/90/public/247), as added [Pub. L. 103–382, title II, § 236](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 3917](https://www.govinfo.gov/link/statute/108/3917).)*

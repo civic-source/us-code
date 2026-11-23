@@ -3,9 +3,10 @@ title: "Section 3903 - Duties, responsibilities, authority, and reports"
 usc_title: 44
 usc_section: "3903"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 3903"
-generated_at: "2026-03-30T02:55:56.300Z"
+generated_at: "2026-11-23T21:26:18.446Z"
+status: "active"
 ---
 
 # § 3903. Duties, responsibilities, authority, and reports
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:55:56.300Z"
     - **(A)** the Committee on Rules and Administration and the Committee on Appropriations of the Senate; and
     - **(B)** the Committee on House Administration and the Committee on Appropriations of the House of Representatives.
 - **(d)** The Director of the Government Publishing Office shall include the annual budget request of the Inspector General in the budget of the Government Publishing Office without change.
+
+## Source Credit
+
+*(Added [Pub. L. 100–504, title II, § 202](https://www.govinfo.gov/link/plaw/100/public/504), Oct. 18, 1988, [102 Stat. 2531](https://www.govinfo.gov/link/statute/102/2531); amended [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), (c)(1), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537); [Pub. L. 116–94, div. P, title XVI](https://www.govinfo.gov/link/plaw/116/public/94), §§ 1603(c), 1604(c), 1605(c), Dec. 20, 2019, [133 Stat. 3216](https://www.govinfo.gov/link/statute/133/3216), 3219, 3220; [Pub. L. 117–286, § 4(b)(90)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4352](https://www.govinfo.gov/link/statute/136/4352).)*

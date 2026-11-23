@@ -3,9 +3,10 @@ title: "Section 9451 - Artificial intelligence research and education"
 usc_title: 15
 usc_section: "9451"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9451"
-generated_at: "2026-03-30T02:54:08.247Z"
+generated_at: "2026-11-23T21:25:40.144Z"
+status: "active"
 ---
 
 # § 9451. Artificial intelligence research and education
@@ -77,3 +78,7 @@ generated_at: "2026-03-30T02:54:08.247Z"
   - **(3)** $956,970,000 for fiscal year 2023;
   - **(4)** $1,004,820,000 for fiscal year 2024; and
   - **(5)** $1,055,060,000 for fiscal year 2025.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. E, title LIV, § 5401](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4540](https://www.govinfo.gov/link/statute/134/4540).)*

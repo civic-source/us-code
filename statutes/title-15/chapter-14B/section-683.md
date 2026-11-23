@@ -3,9 +3,10 @@ title: "Section 683 - Borrowing operations"
 usc_title: 15
 usc_section: "683"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 683"
-generated_at: "2026-03-30T02:54:08.109Z"
+generated_at: "2026-11-23T21:25:39.710Z"
+status: "active"
 ---
 
 # § 683. Borrowing operations
@@ -15,15 +16,20 @@ generated_at: "2026-03-30T02:54:08.109Z"
   - **(1)** The total amount of debentures and participating securities that may be guaranteed by the Administration and outstanding from a company licensed under section 681(c) of this title shall not exceed 300 per centum of the private capital of such company: Provided , That nothing in this paragraph shall require any such company that on March 31, 1993 , has outstanding debentures in excess of 300 per centum of its private capital to prepay such excess: And provided further , That any such company may apply for an additional debenture guarantee or participating security guarantee with the proceeds to be used solely to pay the amount due on such maturing debenture, but the maturity of the new debenture or security shall be not later than September 30, 2002 .
   - **(2)**
     - **(A)** The maximum amount of outstanding leverage made available to any one company licensed under section 681(c) of this title may not exceed the lesser of—
-      - **(i)** 300 percent of such company’s private capital; or
-      - **(ii)** $175,000,000.
-    - **(B)** The maximum amount of outstanding leverage made available to two or more companies licensed under section 681(c) of this title that are commonly controlled (as determined by the Administrator) and not under capital impairment may not exceed $350,000,000.
+      - **(i)** 200 percent of such company’s private capital; or
+      - **(ii)**
+        - **(I)** with respect to such a company that makes quarterly or semiannual interest payments $250,000,000; or
+        - **(II)** $175,000,000 with respect to any other company licensed under section 681(c) of this title .
+    - **(B)** The maximum amount of outstanding leverage made available to two or more companies licensed under section 681(c) of this title that are commonly controlled (as determined by the Administrator) and not under capital impairment may not exceed—
+      - **(i)** with respect to such companies that are commonly controlled and that make quarterly or semiannual interest payments, $475,000,000; or
+      - **(ii)** $350,000,000 with respect to any other companies licensed under section 681(c) of this title that are commonly controlled.
     - **(C)**
-      - **(i)** In calculating the outstanding leverage of a company for the purposes of subparagraph (A), the Administrator shall not include the amount of the cost basis of any equity investment made by the company in a smaller enterprise located in a low-income geographic area (as defined in section 689 of this title ), to the extent that the total of such amounts does not exceed 50 percent of the company’s private capital.
-      - **(ii)** The maximum amount of outstanding leverage made available to—
-        - **(I)** any 1 company described in clause (iii) may not exceed the lesser of 300 percent of private capital of the company, or $175,000,000; and
-        - **(II)** 2 or more companies described in clause (iii) that are under common control (as determined by the Administrator) may not exceed $250,000,000.
-      - **(iii)** A company described in this clause is a company licensed under section 681(c) of this title in the first fiscal year after February 17, 2009 , or any fiscal year thereafter that certifies in writing that not less than 50 percent of the dollar amount of investments of that company shall be made in companies that are located in a low-income geographic area (as that term is defined in section 689 of this title ).
+      - **(i)** Except as provided in clause (iii), in calculating the outstanding leverage of a company or companies for the purposes of subparagraphs (A) and (B), the Administrator shall not include the amount of the cost basis of any investment made by the company or companies in—
+        - **(I)** a small business concern located in a low-income geographic area (as defined in section 689 of this title ) or in a rural area (as defined in section 1991(a)(13) of title 7 );
+        - **(II)** a small business concern operating primarily in a covered technology category (as defined in section 149(e) of title 10 ); or
+        - **(III)** a small manufacturer (as defined in section 695(e)(6) of this title ).
+      - **(ii)** While maintaining the limitation of subparagraph (A)(i) and consistent with a leverage determination ratio issued pursuant to section 681(c) of this title , the aggregate amount excluded for a company or companies under clause (i) from the calculation of the outstanding leverage such company or companies for the purposes of subparagraphs (A) and (B) may not exceed the lesser of 50 percent of the private capital of such company or companies or $125,000,000.
+      - **(iii)** An investment by a licensee is eligible for exclusion from the calculation of outstanding leverage under clause (i) only if such investment is made by such licensee after May 19, 2026 .
     - **(D)**
       - **(i)** Subject to clause (ii), in calculating the outstanding leverage of a company for purposes of subparagraph (A), the Administrator shall exclude the amount of the cost basis of any Energy Saving qualified investment in a smaller enterprise made in the first fiscal year after December 19, 2007 , or any fiscal year thereafter by a company licensed in the applicable fiscal year.
       - **(ii)**
@@ -80,3 +86,41 @@ generated_at: "2026-03-30T02:54:08.109Z"
 - **(i)** With respect to leverage granted by the Administration to a licensee, the Administration shall collect from the licensee a nonrefundable fee in an amount equal to 3 percent of the face amount of leverage granted to the licensee in the following manner: 1 percent upon the date on which the Administration enters into any commitment for such leverage with the licensee, and the balance of 2 percent (or 3 percent if no commitment has been entered into by the Administration) on the date on which the leverage is drawn by the licensee.
 - **(j)** All fees, interest, and profits received and retained by the Administration under this section shall be included in the calculations made by the Director of the Office of Management and Budget to offset the cost (as that term is defined in section 661a of title 2 ) to the Administration of purchasing and guaranteeing debentures and participating securities under this chapter.
 - **(k)** In addition to any other authority under this chapter, a small business investment company licensed in the first fiscal year after December 19, 2007 , or any fiscal year thereafter may issue Energy Saving debentures.
+
+Maximum leverage.—
+
+In general
+
+Multiple licenses under common control
+
+Investments in low-income or rural geographic areas, critical technology areas, or small manufacturers.—
+
+In general
+
+Limitation
+
+Prospective applicability
+
+Investments in energy saving small businesses.—
+
+In general
+
+Limitations.—
+
+Amount of exclusion
+
+Maximum investment
+
+Other terms
+
+In general
+
+Exception
+
+Uniform applicability
+
+Definitions
+
+## Source Credit
+
+*([Pub. L. 85–699, title III, § 303](https://www.govinfo.gov/link/plaw/85/public/699), Aug. 21, 1958, [72 Stat. 692](https://www.govinfo.gov/link/statute/72/692); [Pub. L. 87–341, § 4](https://www.govinfo.gov/link/plaw/87/public/341), Oct. 3, 1961, [75 Stat. 752](https://www.govinfo.gov/link/statute/75/752); [Pub. L. 88–273, § 3](https://www.govinfo.gov/link/plaw/88/public/273), Feb. 28, 1964, [78 Stat. 146](https://www.govinfo.gov/link/statute/78/146); [Pub. L. 90–104, title II, § 205](https://www.govinfo.gov/link/plaw/90/public/104), Oct. 11, 1967, [81 Stat. 270](https://www.govinfo.gov/link/statute/81/270); [Pub. L. 92–213, § 10](https://www.govinfo.gov/link/plaw/92/public/213), Dec. 22, 1971, [85 Stat. 776](https://www.govinfo.gov/link/statute/85/776); [Pub. L. 92–595, § 2(c)](https://www.govinfo.gov/link/plaw/92/public/595), (d), Oct. 27, 1972, [86 Stat. 1314](https://www.govinfo.gov/link/statute/86/1314); [Pub. L. 94–305, title I, § 104](https://www.govinfo.gov/link/plaw/94/public/305), June 4, 1976, [90 Stat. 665](https://www.govinfo.gov/link/statute/90/665); [Pub. L. 95–507, title I, § 101](https://www.govinfo.gov/link/plaw/95/public/507), Oct. 24, 1978, [92 Stat. 1757](https://www.govinfo.gov/link/statute/92/1757); [Pub. L. 101–162, title V](https://www.govinfo.gov/link/plaw/101/public/162), (4), Nov. 21, 1989, [103 Stat. 1025](https://www.govinfo.gov/link/statute/103/1025); [Pub. L. 101–574, title II, § 215(a)(1)](https://www.govinfo.gov/link/plaw/101/public/574), (b), Nov. 15, 1990, [104 Stat. 2822](https://www.govinfo.gov/link/statute/104/2822); [Pub. L. 102–366, title IV](https://www.govinfo.gov/link/plaw/102/public/366), §§ 402, 403, 412, 413, Sept. 4, 1992, [106 Stat. 1008](https://www.govinfo.gov/link/statute/106/1008), 1009, 1018; [Pub. L. 103–403, title II, § 215](https://www.govinfo.gov/link/plaw/103/public/403), Oct. 22, 1994, [108 Stat. 4184](https://www.govinfo.gov/link/statute/108/4184); [Pub. L. 104–208, div. D, title II, § 208(d)(1)](https://www.govinfo.gov/link/plaw/104/public/208) –(4)(A), (5), (6), (h)(1)(A), Sept. 30, 1996, [110 Stat. 3009–743](https://www.govinfo.gov/link/statute/110/3009), 3009–744, 3009–746; [Pub. L. 105–135, title II, § 215(b)](https://www.govinfo.gov/link/plaw/105/public/135) –(d), Dec. 2, 1997, [111 Stat. 2602](https://www.govinfo.gov/link/statute/111/2602), 2603; [Pub. L. 106–9, § 2(d)(1)](https://www.govinfo.gov/link/plaw/106/public/9), Apr. 5, 1999, [113 Stat. 18](https://www.govinfo.gov/link/statute/113/18); [Pub. L. 106–554, § 1(a)(8) [§ 1(d)]](https://www.govinfo.gov/link/plaw/106/public/554), § 1(a)(9) [title IV, §§ 404, 405], Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–664, 2763A–690, 2763A–691; [Pub. L. 107–100, § 2(a)](https://www.govinfo.gov/link/plaw/107/public/100), Dec. 21, 2001, [115 Stat. 966](https://www.govinfo.gov/link/statute/115/966); [Pub. L. 108–84, § 117](https://www.govinfo.gov/link/plaw/108/public/84), Sept. 30, 2003, [117 Stat. 1044](https://www.govinfo.gov/link/statute/117/1044); [Pub. L. 108–172, § 1(b)](https://www.govinfo.gov/link/plaw/108/public/172), Dec. 6, 2003, [117 Stat. 2065](https://www.govinfo.gov/link/statute/117/2065); [Pub. L. 108–447, div. K, title II, § 201](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3465](https://www.govinfo.gov/link/statute/118/3465); [Pub. L. 110–140, title XII](https://www.govinfo.gov/link/plaw/110/public/140), §§ 1205(a), 1206, Dec. 19, 2007, [121 Stat. 1773](https://www.govinfo.gov/link/statute/121/1773); [Pub. L. 111–5, div. A, title V, § 505(a)](https://www.govinfo.gov/link/plaw/111/public/5), (c), Feb. 17, 2009, [123 Stat. 156](https://www.govinfo.gov/link/statute/123/156), 157; [Pub. L. 114–113, div. E, title V, § 521(b)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2464](https://www.govinfo.gov/link/statute/129/2464); [Pub. L. 115–187, § 2](https://www.govinfo.gov/link/plaw/115/public/187), June 21, 2018, [132 Stat. 1489](https://www.govinfo.gov/link/statute/132/1489); [Pub. L. 119–92, § 2(b)](https://www.govinfo.gov/link/plaw/119/public/92), May 19, 2026, [140 Stat. 825](https://www.govinfo.gov/link/statute/140/825).)*

@@ -3,9 +3,10 @@ title: "Section 16523 - Alaska natural gas pipeline"
 usc_title: 42
 usc_section: "16523"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16523"
-generated_at: "2026-03-30T02:56:11.488Z"
+generated_at: "2026-11-23T21:26:33.748Z"
+status: "active"
 ---
 
 # § 16523. Alaska natural gas pipeline
@@ -14,3 +15,7 @@ Not later than 180 days after August 8, 2005 , and every 180 days thereafter unt
 
   - **(1)** the progress made in licensing and constructing the pipeline; and
   - **(2)** any issue impeding that progress.
+
+## Source Credit
+
+*([Pub. L. 109–58, title XVIII, § 1810](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1126](https://www.govinfo.gov/link/statute/119/1126).)*

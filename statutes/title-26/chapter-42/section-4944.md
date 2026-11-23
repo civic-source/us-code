@@ -3,9 +3,10 @@ title: "Section 4944 - Taxes on investments which jeopardize charitable purpose"
 usc_title: 26
 usc_section: "4944"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4944"
-generated_at: "2026-03-30T02:55:27.807Z"
+generated_at: "2026-11-23T21:26:06.648Z"
+status: "active"
 ---
 
 # § 4944. Taxes on investments which jeopardize charitable purpose
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:27.807Z"
     - **(B)** the date on which the tax imposed by subsection (a)(1) is assessed, or
     - **(C)** the date on which the amount so invested is removed from jeopardy.
   - **(2)** An investment which jeopardizes the carrying out of exempt purposes shall be considered to be removed from jeopardy when such investment is sold or otherwise disposed of, and the proceeds of such sale or other disposition are not investments which jeopardize the carrying out of exempt purposes.
+
+## Source Credit
+
+*(Added [Pub. L. 91–172, title I, § 101(b)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 511](https://www.govinfo.gov/link/statute/83/511); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 96–596, § 2(a)(1)(E)](https://www.govinfo.gov/link/plaw/96/public/596), (2)(D), (3)(D), Dec. 24, 1980, [94 Stat. 3469–3471](https://www.govinfo.gov/link/statute/94/3469); [Pub. L. 109–280, title XII, § 1212(d)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1074](https://www.govinfo.gov/link/statute/120/1074).)*

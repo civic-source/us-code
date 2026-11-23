@@ -3,9 +3,10 @@ title: "Section 17321 - Definitions"
 usc_title: 42
 usc_section: "17321"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17321"
-generated_at: "2026-03-30T02:56:11.504Z"
+generated_at: "2026-11-23T21:26:33.784Z"
+status: "active"
 ---
 
 # § 17321. Definitions
@@ -27,3 +28,7 @@ In this subchapter:
     - **(D)** hydrofluorocarbons;
     - **(E)** perfluorocarbons; or
     - **(F)** sulfur hexafluoride.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IX, § 901](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1725](https://www.govinfo.gov/link/statute/121/1725).)*

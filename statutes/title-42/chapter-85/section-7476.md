@@ -3,9 +3,10 @@ title: "Section 7476 - Other pollutants"
 usc_title: 42
 usc_section: "7476"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7476"
-generated_at: "2026-03-30T02:56:11.304Z"
+generated_at: "2026-11-23T21:26:33.102Z"
+status: "active"
 ---
 
 # § 7476. Other pollutants
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.304Z"
 - **(d)** The regulations of the Administrator under subsection (a) shall provide specific measures at least as effective as the increments established in section 7473 of this title to fulfill such goals and purposes, and may contain air quality increments, emission density requirements, or other measures.
 - **(e)** With respect to any air pollutant for which a national ambient air quality standard is established other than sulfur oxides or particulate matter, an area classification plan shall not be required under this section if the implementation plan adopted by the State and submitted for the Administrator’s approval or promulgated by the Administrator under section 7410(c) of this title contains other provisions which when considered as a whole, the Administrator finds will carry out the purposes in section 7470 of this title at least as effectively as an area classification plan for such pollutant. Such other provisions referred to in the preceding sentence need not require the establishment of maximum allowable increases with respect to such pollutant for any area to which this section applies.
 - **(f)** The Administrator is authorized to substitute, for the maximum allowable increases in particulate matter specified in section 7473(b) of this title and section 7475(d)(2)(C)(iv) of this title , maximum allowable increases in particulate matter with an aerodynamic diameter smaller than or equal to 10 micrometers. Such substituted maximum allowable increases shall be of equal stringency in effect as those specified in the provisions for which they are substituted. Until the Administrator promulgates regulations under the authority of this subsection, the current maximum allowable increases in concentrations of particulate matter shall remain in effect.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 166, as added [Pub. L. 95–95, title I, § 127(a)](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 739](https://www.govinfo.gov/link/statute/91/739); amended [Pub. L. 101–549, title I, § 105(b)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2462](https://www.govinfo.gov/link/statute/104/2462).)*

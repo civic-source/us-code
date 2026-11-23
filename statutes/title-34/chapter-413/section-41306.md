@@ -3,9 +3,10 @@ title: "Section 41306 - Report to Congress on banking law offenses"
 usc_title: 34
 usc_section: "41306"
 chapter: 413
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 41306"
-generated_at: "2026-03-30T02:55:33.313Z"
+generated_at: "2026-11-23T21:26:09.847Z"
+status: "active"
 ---
 
 # § 41306. Report to Congress on banking law offenses
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:33.313Z"
     - **(C)** any settlements or judgments obtained against offenders;
     - **(D)** indictments, guilty pleas, or verdicts obtained against offenders; and
     - **(E)** the resources allocated in pursuit of investigations, prosecutions, and sentencings (including indictments, guilty pleas, or verdicts obtained against offenders) and related proceedings.
+
+## Source Credit
+
+*([Pub. L. 101–647, title XXV, § 2546](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4885](https://www.govinfo.gov/link/statute/104/4885).)*

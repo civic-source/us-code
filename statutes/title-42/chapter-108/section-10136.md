@@ -3,9 +3,10 @@ title: "Section 10136 - Participation of States"
 usc_title: 42
 usc_section: "10136"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10136"
-generated_at: "2026-03-30T02:56:11.380Z"
+generated_at: "2026-11-23T21:26:33.338Z"
+status: "active"
 ---
 
 # § 10136. Participation of States
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:56:11.380Z"
   - **(5)** Financial assistance authorized in this subsection shall be made out of amounts held in the Waste Fund.
   - **(6)** No State, other than the State of Nevada, may receive financial assistance under this subsection after December 22, 1987 .
 - **(d)** Whenever the Secretary is required under any provision of this chapter to notify or consult with the governing body of an affected Indian tribe where a site is located, the Secretary shall also notify or consult with, as the case may be, the Governor of the State in which such reservation is located.
+
+## Source Credit
+
+*([Pub. L. 97–425, title I, § 116](https://www.govinfo.gov/link/plaw/97/public/425), Jan. 7, 1983, [96 Stat. 2220](https://www.govinfo.gov/link/statute/96/2220); [Pub. L. 100–202, § 101(d) [title III, § 300]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–104](https://www.govinfo.gov/link/statute/101/1329), 1329–121; [Pub. L. 100–203, title V, § 5032(a)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–241](https://www.govinfo.gov/link/statute/101/1330).)*

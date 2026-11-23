@@ -3,9 +3,10 @@ title: "Section 6939b - Interim control of hazardous waste injection"
 usc_title: 42
 usc_section: "6939b"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6939b"
-generated_at: "2026-03-30T02:56:11.273Z"
+generated_at: "2026-11-23T21:26:33.007Z"
+status: "active"
 ---
 
 # § 6939b. Interim control of hazardous waste injection
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.273Z"
   - **(1)** which has adopted identical or more stringent prohibitions under part C of the Safe Drinking Water Act [ 42 U.S.C. 300h et seq.] and which has assumed primary enforcement responsibility under that Act for enforcement of such prohibitions; or
   - **(2)** in which the Administrator has adopted identical or more stringent prohibitions under the Safe Drinking Water Act [ 42 U.S.C. 300f et seq.] and is exercising primary enforcement responsibility under that Act for enforcement of such prohibitions.
 - **(d)** The terms “primary enforcement responsibility”, “underground source of drinking water”, “formation” and “well” have the same meanings as provided in regulations of the Administrator under the Safe Drinking Water Act [ 42 U.S.C. 300f et seq.]. The term “Safe Drinking Water Act” means title XIV of the Public Health Service Act.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 3020](https://www.govinfo.gov/link/plaw/89/public/272), formerly § 7010, as added [Pub. L. 98–616, title IV, § 405(a)](https://www.govinfo.gov/link/plaw/98/public/616), Nov. 8, 1984, [98 Stat. 3273](https://www.govinfo.gov/link/statute/98/3273); renumbered § 3020, and amended [Pub. L. 99–339, title II, § 201(c)](https://www.govinfo.gov/link/plaw/99/public/339), June 19, 1986, [100 Stat. 654](https://www.govinfo.gov/link/statute/100/654).)*

@@ -3,9 +3,10 @@ title: "Section 44806 - Public unmanned aircraft systems and public safety use o
 usc_title: 49
 usc_section: "44806"
 chapter: 448
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44806"
-generated_at: "2026-03-30T02:56:19.388Z"
+generated_at: "2026-11-23T21:26:40.915Z"
+status: "active"
 ---
 
 # § 44806. Public unmanned aircraft systems and public safety use of tethered unmanned aircraft systems
@@ -45,3 +46,29 @@ generated_at: "2026-03-30T02:56:19.388Z"
   - **(4)** Nothing in this subsection shall be construed to preclude the Administrator of the Federal Aviation Administration from issuing new regulations for public actively tethered unmanned aircraft systems in order to ensure the safety of the national airspace system.
 - **(d)** The Administrator shall assist Federal civilian Government agencies that operate unmanned aircraft systems within civil-controlled airspace, in operationally deploying and integrating sense and avoid capabilities, as necessary to operate unmanned aircraft systems safely within the national airspace system.
 - **(e)** In this section, the term “public safety organization” means an entity that primarily engages in activities related to the safety and well-being of the general public, including law enforcement, fire departments, emergency medical services, and other organizations that protect and serve the public in matters of safety and security.
+
+Guidance
+
+Agreements With Government Agencies.—
+
+In general
+
+Contents
+
+Public Safety Use of Actively Tethered Unmanned Aircraft Systems.—
+
+In general
+
+Requirements
+
+Safety standards
+
+Savings provision
+
+Federal Agency Coordination to Enhance the Public Health and Safety Capabilities of Public Unmanned Aircraft Systems
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 115–254, div. B, title III, § 346(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3294](https://www.govinfo.gov/link/statute/132/3294); amended [Pub. L. 118–63, title IX, § 926(a)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1360](https://www.govinfo.gov/link/statute/138/1360).)*

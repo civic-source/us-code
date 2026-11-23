@@ -3,9 +3,10 @@ title: "Section 1822 - International fishery agreements"
 usc_title: 16
 usc_section: "1822"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1822"
-generated_at: "2026-03-30T02:54:22.984Z"
+generated_at: "2026-11-23T21:25:51.915Z"
+status: "active"
 ---
 
 # § 1822. International fishery agreements
@@ -53,3 +54,53 @@ generated_at: "2026-03-30T02:54:22.984Z"
   - **(2)** An international agreement negotiated under this subsection shall be—
     - **(A)** consistent with the policies and purposes of this chapter; and
     - **(B)** subject to approval by Congress under section 1823 of this title .
+
+Negotiations
+
+Issuance of Certificates
+
+Bilateral or Multilateral Agreements
+
+Regulations
+
+Report Required
+
+Certification
+
+Driftnet
+
+Driftnet fishing
+
+Exclusive economic zone of the united states
+
+Marine resources
+
+Marine resources of the united states
+
+Secretary
+
+Negotiations
+
+Report
+
+In General
+
+Information From Foreign Governments
+
+Negotiations
+
+Certification for Purposes of Fishermen’s Protective Act of
+
+Marking, Registry, and Identification System
+
+Alternative Driftnet Materials
+
+Driftnet Bounty System
+
+Driftnet Fishing Vessel Tracking System
+
+Report
+
+## Source Credit
+
+*([Pub. L. 94–265, title II, § 202](https://www.govinfo.gov/link/plaw/94/public/265), Apr. 13, 1976, [90 Stat. 339](https://www.govinfo.gov/link/statute/90/339); [Pub. L. 99–659, title I, § 101(c)(2)](https://www.govinfo.gov/link/plaw/99/public/659), Nov. 14, 1986, [100 Stat. 3707](https://www.govinfo.gov/link/statute/100/3707); [Pub. L. 101–627, title I](https://www.govinfo.gov/link/plaw/101/public/627), §§ 105(a), 120(a), Nov. 28, 1990, [104 Stat. 4439](https://www.govinfo.gov/link/statute/104/4439), 4459; [Pub. L. 102–251, title III, § 301(e)](https://www.govinfo.gov/link/plaw/102/public/251), Mar. 9, 1992, [106 Stat. 63](https://www.govinfo.gov/link/statute/106/63); [Pub. L. 104–297, title I, § 105(b)](https://www.govinfo.gov/link/plaw/104/public/297), Oct. 11, 1996, [110 Stat. 3564](https://www.govinfo.gov/link/statute/110/3564); [Pub. L. 117–328, div. S, title II, § 205(b)(1)(A)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5270](https://www.govinfo.gov/link/statute/136/5270).)*

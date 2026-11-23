@@ -3,9 +3,10 @@ title: "Section 4655 - Funding for development and adoption of measurably secure
 usc_title: 15
 usc_section: "4655"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4655"
-generated_at: "2026-03-30T02:54:08.202Z"
+generated_at: "2026-11-23T21:25:40.002Z"
+status: "active"
 ---
 
 # § 4655. Funding for development and adoption of measurably secure semiconductors and measurably secure semiconductors supply chains
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:08.202Z"
     - **(B)** an identification of the recipient or beneficiary; and
     - **(C)** a description of the project or activity and the purpose to be achieved by an expenditure of the Fund.
   - **(3)** The Secretary of State shall notify the appropriate committees of Congress not later than 30 days after entering into a new bilateral or multilateral arrangement or agreement described in subsection (a)(4)(B).
+
+## Source Credit
+
+*([Pub. L. 116–283, div. H, title XCIX, § 9905](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4854](https://www.govinfo.gov/link/statute/134/4854); [Pub. L. 118–31, div. F, title LXVII, § 6707(b)(1)(B)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1018](https://www.govinfo.gov/link/statute/137/1018).)*

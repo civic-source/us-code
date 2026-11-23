@@ -3,9 +3,10 @@ title: "Section 1485 - Declaration"
 usc_title: 19
 usc_section: "1485"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1485"
-generated_at: "2026-03-30T02:54:24.637Z"
+generated_at: "2026-11-23T21:25:42.713Z"
+status: "active"
 ---
 
 # § 1485. Declaration
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:24.637Z"
 - **(e)** The Secretary of the Treasury shall prescribe separate forms for the declaration in the case of merchandise which is imported in pursuance of a purchase or agreement to purchase and merchandise which is imported otherwise than in pursuance of a purchase or agreement to purchase.
 - **(f)** Whenever such merchandise is consigned to a deceased person, or to an insolvent person who has assigned the same for the benefit of his creditors, the executor or administrator, or the assignee of such person or trustee in a case under title 11, shall be considered as the importer of record; when consigned to a partnership the declaration of one of the partners only shall be required, and when consigned to a corporation such declaration may be made by any officer of such corporation. Whether the importer of record is an individual, a partnership, or a corporation, the declaration may be made by any person who has knowledge of the facts and who is specifically authorized by such individual, a member of such partnership, or an officer of such corporation to make such declaration.
 - **(g)** With respect to any importation of merchandise to which General Headnote 4(e) of the Harmonized Tariff Schedule of the United States applies, any person who gained any benefit from, or met any obligation to, the United States as a result of the prior exportation of such merchandise shall, in accordance with regulations prescribed by the Secretary, within a reasonable time inform the Customs Service of the return of the merchandise.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 485, [46 Stat. 724](https://www.govinfo.gov/link/statute/46/724); June 25, 1938, ch. 679, § 13, [52 Stat. 1083](https://www.govinfo.gov/link/statute/52/1083); [Pub. L. 91–271, title III, § 301(b)](https://www.govinfo.gov/link/plaw/91/public/271), June 2, 1970, [84 Stat. 287](https://www.govinfo.gov/link/statute/84/287); [Pub. L. 95–598, title III, § 315](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2678](https://www.govinfo.gov/link/statute/92/2678); [Pub. L. 97–446, title II, § 201(e)](https://www.govinfo.gov/link/plaw/97/public/446), Jan. 12, 1983, [96 Stat. 2350](https://www.govinfo.gov/link/statute/96/2350); [Pub. L. 103–182, title VI, § 657](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2212](https://www.govinfo.gov/link/statute/107/2212).)*

@@ -3,9 +3,10 @@ title: "Section 4424 - Compliance with other Acts"
 usc_title: 20
 usc_section: "4424"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 4424"
-generated_at: "2026-03-30T02:54:48.184Z"
+generated_at: "2026-11-23T21:25:47.447Z"
+status: "active"
 ---
 
 # § 4424. Compliance with other Acts
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:48.184Z"
 - **(c)**
   - **(1)** Funds received by the institute 1 1 So in original. Probably should be capitalized. pursuant to this chapter 2 2 See References in Text note below. shall not be regarded as Federal money for purposes of meeting any matching requirements for any Federal grant, contract or cooperative agreement.
   - **(2)** The Institute shall not be subject to any provision of law requiring that non-Federal funds or other moneys be used in part to fund any grant, contract, cooperative agreement, or project as a condition to the application for, or receipt of, Federal assistance. This subsection shall not be construed to effect 3 3 So in original. Probably should be “affect”. in a negative fashion the review, prioritization, or acceptance of any application or proposal for such a program, solicited or unsolicited.
+
+## Source Credit
+
+*([Pub. L. 99–498, title XV, § 1517](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1609](https://www.govinfo.gov/link/statute/100/1609); [Pub. L. 101–644, title V, § 504](https://www.govinfo.gov/link/plaw/101/public/644), Nov. 29, 1990, [104 Stat. 4669](https://www.govinfo.gov/link/statute/104/4669); [Pub. L. 102–325, title XIII, § 1331(i)](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 808](https://www.govinfo.gov/link/statute/106/808); [Pub. L. 113–287, § 5(e)(2)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3268](https://www.govinfo.gov/link/statute/128/3268).)*

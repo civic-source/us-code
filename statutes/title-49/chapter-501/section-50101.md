@@ -3,9 +3,10 @@ title: "Section 50101 - Buying goods produced in the United States"
 usc_title: 49
 usc_section: "50101"
 chapter: 501
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 50101"
-generated_at: "2026-03-30T02:56:19.409Z"
+generated_at: "2026-11-23T21:26:41.007Z"
+status: "active"
 ---
 
 # § 50101. Buying goods produced in the United States
@@ -35,3 +36,64 @@ generated_at: "2026-03-30T02:56:19.409Z"
   - **(4)**
     - **(A)** The Secretary may waive the limitation described in paragraph (1) using the criteria described in subsection (b).
     - **(B)** Not later than 10 days after issuing a waiver under subparagraph (A), the Secretary shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 49101(a) | 49 App.:2226a(a). | Nov. 5, 1990 , Pub. L. 101–508, § 9129 , 104 Stat. 1388–371 . |
+| 49101(b) | 49 App.:2226a(b). |  |
+| 49101(c) | 49 App.:2226a(c). |  |
+
+
+Preference
+
+Waiver
+
+Labor Costs
+
+Limitation on Certain Rolling Stock Procurements.—
+
+In general
+
+Exception.—
+
+In general
+
+Corporation based in people’s republic of china
+
+International agreements
+
+Waiver.—
+
+In general
+
+Notification
+
+Historical and Revision Notes
+
+Pub. L
+
+49101(a)
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 9129
+
+104 Stat. 1388–371
+
+49101(b)
+
+49101(c)
+
+Notice of Waivers
+
+Annual Report
+
+Prohibition Against Fraudulent Use of ‘Made in America’ Labels
+
+Compliance With Buy American Act
+
+Definitions
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1298](https://www.govinfo.gov/link/statute/108/1298), § 49101; renumbered § 50101 and amended [Pub. L. 104–287, § 5(88)(D)](https://www.govinfo.gov/link/plaw/104/public/287), (89), Oct. 11, 1996, [110 Stat. 3398](https://www.govinfo.gov/link/statute/110/3398); [Pub. L. 118–63, title VII, § 768(a)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1293](https://www.govinfo.gov/link/statute/138/1293).)*

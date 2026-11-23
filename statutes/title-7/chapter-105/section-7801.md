@@ -3,9 +3,10 @@ title: "Section 7801 - Findings and declaration of policy"
 usc_title: 7
 usc_section: "7801"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7801"
-generated_at: "2026-03-30T02:53:42.463Z"
+generated_at: "2026-11-23T21:25:28.450Z"
+status: "active"
 ---
 
 # § 7801. Findings and declaration of policy
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:42.463Z"
   - **(1)** strengthen the position of the Hass avocado industry in the domestic marketplace; and
   - **(2)** maintain, develop, and expand markets and uses for Hass avocados in the domestic marketplace.
 - **(c)** Nothing in this chapter may be construed to provide for the control of production or otherwise limit the right of any person to produce, handle, or import Hass avocados.
+
+## Source Credit
+
+*([Pub. L. 106–387, § 1(a) [title XII, § 1202]](https://www.govinfo.gov/link/plaw/106/public/387), Oct. 28, 2000, [114 Stat. 1549](https://www.govinfo.gov/link/statute/114/1549), 1549A–79.)*

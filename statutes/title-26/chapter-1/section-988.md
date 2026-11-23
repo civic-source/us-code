@@ -3,9 +3,10 @@ title: "Section 988 - Treatment of certain foreign currency transactions"
 usc_title: 26
 usc_section: "988"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 988"
-generated_at: "2026-03-30T02:55:27.752Z"
+generated_at: "2026-11-23T21:26:06.448Z"
+status: "active"
 ---
 
 # § 988. Treatment of certain foreign currency transactions
@@ -96,3 +97,13 @@ generated_at: "2026-03-30T02:55:27.752Z"
   - **(3)** For purposes of this subsection, the term “personal transaction” means any transaction entered into by an individual, except that such term shall not include any transaction to the extent that expenses properly allocable to such transaction meet the requirements of—
     - **(A)** section 162 (other than traveling expenses described in subsection (a)(2) thereof), or
     - **(B)** section 212 (other than that part of section 212 dealing with expenses incurred in connection with taxes).
+
+In general
+
+Time for making election
+
+Transitional rules.—
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XII, § 1261(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2587](https://www.govinfo.gov/link/statute/100/2587); amended [Pub. L. 100–647, title I, § 1012(v)(2)(A)](https://www.govinfo.gov/link/plaw/100/public/647), (3), (4), (6)–(8), title VI, § 6130(a), (b), Nov. 10, 1988, [102 Stat. 3529](https://www.govinfo.gov/link/statute/102/3529), 3530, 3717; [Pub. L. 101–239, title VII, § 7811(i)(7)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2410](https://www.govinfo.gov/link/statute/103/2410); [Pub. L. 103–66, title XIII, § 13223(b)(1)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 484](https://www.govinfo.gov/link/statute/107/484); [Pub. L. 105–34, title XI, § 1104(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 967](https://www.govinfo.gov/link/statute/111/967); [Pub. L. 106–170, title V, § 532(b)(3)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1930](https://www.govinfo.gov/link/statute/113/1930).)*

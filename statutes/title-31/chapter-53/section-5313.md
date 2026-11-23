@@ -3,9 +3,10 @@ title: "Section 5313 - Reports on domestic coins and currency transactions"
 usc_title: 31
 usc_section: "5313"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 5313"
-generated_at: "2026-03-30T02:55:34.067Z"
+generated_at: "2026-11-23T21:26:10.618Z"
+status: "active"
 ---
 
 # § 5313. Reports on domestic coins and currency transactions
@@ -54,3 +55,87 @@ generated_at: "2026-03-30T02:55:34.067Z"
     - **(A)** any branch, agency, or commercial lending company (as such terms are defined in section 1(b) of the International Banking Act of 1978);
     - **(B)** any corporation chartered under section 25A of the Federal Reserve Act; and
     - **(C)** any corporation having an agreement or undertaking with the Board of Governors of the Federal Reserve System under section 25 of the Federal Reserve Act.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5313(a) | 31:1081. | Oct. 26, 1970 , Pub. L. 91–508 , §§ 221–223, 84 Stat. 1122 . |
+|  | 31:1082. |  |
+| 5313(b) | 31:1083(a). |  |
+| 5313(c) | 31:1083(b). |  |
+
+
+Mandatory Exemptions From Reporting Requirements.—
+
+In general
+
+Notice of exemption
+
+Discretionary Exemptions From Reporting Requirements.—
+
+In general
+
+Qualified business customer defined
+
+Criteria for exemption
+
+Guidelines.—
+
+In general
+
+Contents
+
+Annual review
+
+year phase-in provision
+
+Provisions Applicable to Mandatory and Discretionary Exemptions.—
+
+Limitation on liability of depository institutions
+
+Coordination with other provisions
+
+Depository Institution Defined
+
+Historical and Revision Notes
+
+5313(a)
+
+Oct. 26, 1970
+
+Pub. L. 91–508
+
+84 Stat. 1122
+
+5313(b)
+
+5313(c)
+
+Review of Thresholds for Certain Currency Transaction Reports and Suspicious Activity Reports
+
+Considerations
+
+Report and Rulemakings
+
+Updates
+
+Findings
+
+Study and Report.—
+
+Study required
+
+Report required
+
+Report Reduction Goal; Reports.—
+
+In general
+
+Interim report
+
+Annual report
+
+Streamlined Currency Transaction Reports
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 996](https://www.govinfo.gov/link/statute/96/996); [Pub. L. 103–325, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2243](https://www.govinfo.gov/link/statute/108/2243).)*

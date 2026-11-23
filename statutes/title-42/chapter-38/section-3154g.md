@@ -3,9 +3,10 @@ title: "Section 3154g - High-speed broadband deployment initiative"
 usc_title: 42
 usc_section: "3154g"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3154g"
-generated_at: "2026-03-30T02:56:11.183Z"
+generated_at: "2026-11-23T21:26:32.541Z"
+status: "active"
 ---
 
 # § 3154g. High-speed broadband deployment initiative
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:11.183Z"
     - **(A)** The Secretary may permit a recipient of a grant for a broadband project to grant an option to acquire real or personal property (including contractual rights and intangible property) related to that project to a third party on such terms as the Secretary determines to be appropriate, subject to the condition that the option may only be exercised after the Secretary releases the Federal interest in the property.
     - **(B)** The grant or exercise of an option described in subparagraph (A) shall not constitute a redistribution of grant funds under section 3154c of this title .
 - **(c)** In determining the amount of the non-Federal share of the cost of a broadband project, the Secretary may provide credit toward the non-Federal share for the present value of allowable contributions over the useful life of the broadband project, subject to the condition that the Secretary may require such assurances of the value of the rights and of the commitment of the rights as the Secretary determines to be appropriate.
+
+## Source Credit
+
+*([Pub. L. 89–136, title II, § 221](https://www.govinfo.gov/link/plaw/89/public/136), as added [Pub. L. 118–272, div. B, title II, § 2223](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3188](https://www.govinfo.gov/link/statute/138/3188).)*

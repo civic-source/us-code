@@ -3,9 +3,10 @@ title: "Section 9302 - Great Lakes pilots required"
 usc_title: 46
 usc_section: "9302"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 9302"
-generated_at: "2026-03-30T02:56:15.552Z"
+generated_at: "2026-11-23T21:26:37.104Z"
+status: "active"
 ---
 
 # § 9302. Great Lakes pilots required
@@ -23,3 +24,25 @@ generated_at: "2026-03-30T02:56:15.552Z"
 - **(e)** A Canadian vessel regularly operating on the Great Lakes or between ports on the Great Lakes and the Saint Lawrence River, with only an occasional voyage to ports in the maritime provinces of Canada in the Canadian coastal trade, is exempt from subsection (a) of this section as long as Canada permits enrolled vessels of the United States to be operated on Canadian waters of the Great Lakes under the direction of individuals licensed under section 7101 of this title .
 - **(f)** A documented vessel regularly operating on the Great Lakes or between ports on the Great Lakes and the St. Lawrence River is exempt from the requirements of subsection (a) of this section.
 - **(g)** In this section, the term “Straits of Mackinac” includes all of the United States navigable waters bounded by longitudes 84 degrees 20 minutes west and 85 degrees 10 minutes west and latitudes 45 degrees 39 minutes north and 45 degrees 54 minutes north, including Gray’s Reef Passage, the South Channel, and Round Island Passage, and approaches thereto.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 9302(a), (b), (d) | 46:216a |
+| 9302(c) | 46:216f |
+
+
+Definition of the Straits of Mackinac
+
+Historical and Revision Notes
+
+9302(a), (b), (d)
+
+9302(c)
+
+seal]
+
+Dwight D. Eisenhower.
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 557](https://www.govinfo.gov/link/statute/97/557); [Pub. L. 101–380, title IV, § 4108(a)](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 514](https://www.govinfo.gov/link/statute/104/514); [Pub. L. 104–324, title XI, § 1115(b)(5)](https://www.govinfo.gov/link/plaw/104/public/324) –(7), Oct. 19, 1996, [110 Stat. 3972](https://www.govinfo.gov/link/statute/110/3972); [Pub. L. 119–60, div. G, title LXXIII, § 7314](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1762](https://www.govinfo.gov/link/statute/139/1762).)*

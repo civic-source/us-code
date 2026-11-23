@@ -3,9 +3,10 @@ title: "Section 40911 - Enhancement of requirement that Federal departments and 
 usc_title: 34
 usc_section: "40911"
 chapter: 409
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 40911"
-generated_at: "2026-03-30T02:55:33.312Z"
+generated_at: "2026-11-23T21:26:09.841Z"
+status: "active"
 ---
 
 # § 40911. Enhancement of requirement that Federal departments and agencies provide relevant information to the National Instant Criminal Background Check System
@@ -42,3 +43,19 @@ generated_at: "2026-03-30T02:55:33.312Z"
     - **(B)** information about the penalties imposed for unlawful possession, receipt, shipment or transportation of a firearm under section 924(a)(2) of title 18 ; and
     - **(C)** information about the availability of relief from the disabilities imposed by Federal laws with respect to the acquisition, receipt, transfer, shipment, transportation, or possession of firearms.
   - **(4)** Except for paragraph (3), this subsection shall apply to names and other information provided before, on, or after January 8, 2008 . Any name or information provided in violation of this subsection (other than in violation of paragraph (3)) before, on, or after such date shall be removed from the National Instant Criminal Background Check System.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 110–180, title I, § 101](https://www.govinfo.gov/link/plaw/110/public/180), Jan. 8, 2008, [121 Stat. 2561](https://www.govinfo.gov/link/statute/121/2561); [Pub. L. 116–283, div. A, title V, § 544](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3613](https://www.govinfo.gov/link/statute/134/3613).)*

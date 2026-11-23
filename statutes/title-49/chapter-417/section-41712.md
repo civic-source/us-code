@@ -3,9 +3,10 @@ title: "Section 41712 - Unfair and deceptive practices and unfair methods of com
 usc_title: 49
 usc_section: "41712"
 chapter: 417
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 41712"
-generated_at: "2026-03-30T02:56:19.376Z"
+generated_at: "2026-11-23T21:26:40.859Z"
+status: "active"
 ---
 
 # § 41712. Unfair and deceptive practices and unfair methods of competition
@@ -17,3 +18,51 @@ generated_at: "2026-03-30T02:56:19.376Z"
     - **(A)** the name of the air carrier providing the air transportation; and
     - **(B)** if the flight has more than one flight segment, the name of each air carrier providing the air transportation for each such flight segment.
   - **(2)** In the case of an offer to sell tickets described in paragraph (1) on an Internet Web site, disclosure of the information required by paragraph (1) shall be provided on the first display of the Web site following a search of a requested itinerary in a format that is easily visible to a viewer.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 41712 | 49 App.:1381(a). | Aug. 23, 1958 , Pub. L. 85–726, § 411(a) , 72 Stat. 769 ; Oct. 4, 1984 , Pub. L. 98–443, § 7(a) , 98 Stat. 1706 . |
+|  | 49 App.:1551(b)(1)(E). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1601(b)(1)(E); added Oct. 4, 1984 , Pub. L. 98–443, § 3(e) , 98 Stat. 1704 . |
+
+
+In General
+
+E-Ticket Expiration Notice
+
+Disclosure Requirement for Sellers of Tickets for Flights.—
+
+In general
+
+Internet offers
+
+Historical and Revision Notes
+
+41712
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 411(a)
+
+72 Stat. 769
+
+Oct. 4, 1984
+
+Pub. L. 98–443, § 7(a)
+
+98 Stat. 1706
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 4, 1984
+
+Pub. L. 98–443, § 3(e)
+
+98 Stat. 1704
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1143](https://www.govinfo.gov/link/statute/108/1143); [Pub. L. 106–181, title II, § 221](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 102](https://www.govinfo.gov/link/statute/114/102); [Pub. L. 111–216, title II, § 210](https://www.govinfo.gov/link/plaw/111/public/216), Aug. 1, 2010, [124 Stat. 2362](https://www.govinfo.gov/link/statute/124/2362); [Pub. L. 115–254, div. B, title IV, § 419(b)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3336](https://www.govinfo.gov/link/statute/132/3336).)*

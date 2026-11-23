@@ -3,12 +3,17 @@ title: "Section 69j - Application of other laws"
 usc_title: 15
 usc_section: "69j"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 69j"
-generated_at: "2026-03-30T02:54:08.029Z"
+generated_at: "2026-11-23T21:25:39.498Z"
+status: "active"
 ---
 
 # § 69j. Application of other laws
 
 The provisions of this subchapter shall be held to be in addition to, and not in substitution for or limitation of, the provisions of any other Act of Congress.
 
+
+## Source Credit
+
+*(Aug. 8, 1951, ch. 298, § 12, [65 Stat. 181](https://www.govinfo.gov/link/statute/65/181).)*

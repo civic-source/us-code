@@ -3,9 +3,10 @@ title: "Section 1781 - Medical care for survivors and dependents of certain vete
 usc_title: 38
 usc_section: "1781"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1781"
-generated_at: "2026-03-30T02:55:53.488Z"
+generated_at: "2026-11-23T21:26:16.666Z"
+status: "active"
 ---
 
 # § 1781. Medical care for survivors and dependents of certain veterans
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:53.488Z"
     - **(A)** The term “medicare program” means the program of health insurance administered by the Secretary of Health and Human Services under title XVIII of the Social Security Act ( 42 U.S.C. 1395 et seq.).
     - **(B)** The term “third party” has the meaning given that term in section 1729(i)(3) of this title .
 - **(e)** Payment by the Secretary under this section on behalf of a covered beneficiary for medical care shall constitute payment in full and extinguish any liability on the part of the beneficiary for that care.
+
+## Source Credit
+
+*(Added [Pub. L. 93–82, title I, § 103(b)](https://www.govinfo.gov/link/plaw/93/public/82), Aug. 2, 1973, [87 Stat. 181](https://www.govinfo.gov/link/statute/87/181), § 613; amended [Pub. L. 94–581, title I, § 104](https://www.govinfo.gov/link/plaw/94/public/581), title II, § 210(a)(4), Oct. 21, 1976, [90 Stat. 2845](https://www.govinfo.gov/link/statute/90/2845), 2862; [Pub. L. 96–151, title II, § 205(a)](https://www.govinfo.gov/link/plaw/96/public/151), Dec. 20, 1979, [93 Stat. 1094](https://www.govinfo.gov/link/statute/93/1094); [Pub. L. 97–72, title I, § 105](https://www.govinfo.gov/link/plaw/97/public/72), Nov. 3, 1981, [95 Stat. 1050](https://www.govinfo.gov/link/statute/95/1050); [Pub. L. 97–251, § 5(a)](https://www.govinfo.gov/link/plaw/97/public/251), Sept. 8, 1982, [96 Stat. 716](https://www.govinfo.gov/link/statute/96/716); renumbered § 1713 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(a)(3), (4), (b)(1), (2)(B), (E), 5(a), Aug. 6, 1991, [105 Stat. 404–406](https://www.govinfo.gov/link/statute/105/404); [Pub. L. 102–190, div. A, title VII, § 704(b)(2)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1402](https://www.govinfo.gov/link/statute/105/1402); [Pub. L. 107–14, § 3](https://www.govinfo.gov/link/plaw/107/public/14), June 5, 2001, [115 Stat. 25](https://www.govinfo.gov/link/statute/115/25); renumbered § 1781 and amended [Pub. L. 107–135, title II, § 208(c)](https://www.govinfo.gov/link/plaw/107/public/135), Jan. 23, 2002, [115 Stat. 2463](https://www.govinfo.gov/link/statute/115/2463); [Pub. L. 107–330, title III, § 308(g)(8)](https://www.govinfo.gov/link/plaw/107/public/330), Dec. 6, 2002, [116 Stat. 2829](https://www.govinfo.gov/link/statute/116/2829); [Pub. L. 111–163, title I, § 102](https://www.govinfo.gov/link/plaw/111/public/163), title V, § 503, May 5, 2010, [124 Stat. 1139](https://www.govinfo.gov/link/statute/124/1139), 1157; [Pub. L. 114–58, title VI, § 601(7)](https://www.govinfo.gov/link/plaw/114/public/58), Sept. 30, 2015, [129 Stat. 538](https://www.govinfo.gov/link/statute/129/538); [Pub. L. 116–283, div. A, title IX, § 926(a)(30)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3830](https://www.govinfo.gov/link/statute/134/3830); [Pub. L. 117–328, div. U, title I, § 142(c)(4)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5424](https://www.govinfo.gov/link/statute/136/5424).)*

@@ -3,9 +3,10 @@ title: "Section 5504 - Environmental Education and Training Program"
 usc_title: 20
 usc_section: "5504"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 5504"
-generated_at: "2026-03-30T02:54:48.187Z"
+generated_at: "2026-11-23T21:25:47.464Z"
+status: "active"
 ---
 
 # § 5504. Environmental Education and Training Program
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:48.187Z"
   - **(2)** Individuals shall be selected for participation in the program based on applications which shall be in such form as the Administrator determines to be appropriate.
   - **(3)** In selecting individuals to participate in the program, the Administrator shall provide for a wide geographic representation and a mix of individuals, including minorities, working at primary, secondary, postsecondary levels, and with appropriate other agencies and departments.
   - **(4)** Individuals selected for participation in the program may be provided with a stipend to cover travel and accommodations from grant funds awarded pursuant to this section in such amounts as the Administrator determines to be appropriate.
+
+## Source Credit
+
+*([Pub. L. 101–619, § 5](https://www.govinfo.gov/link/plaw/101/public/619), Nov. 16, 1990, [104 Stat. 3328](https://www.govinfo.gov/link/statute/104/3328).)*

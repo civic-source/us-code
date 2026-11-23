@@ -3,9 +3,10 @@ title: "Section 5103 - Restoration of lands to tribal ownership"
 usc_title: 25
 usc_section: "5103"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5103"
-generated_at: "2026-03-30T02:54:52.863Z"
+generated_at: "2026-11-23T21:25:54.717Z"
+status: "active"
 ---
 
 # § 5103. Restoration of lands to tribal ownership
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:52.863Z"
   - **(1)** , (2) Repealed. May 27, 1955, ch. 106, § 1 , 69 Stat. 67 .
   - **(3)** Water reservoirs, charcos, water holes, springs, wells, or any other form of water development by the United States or the Papago Indians shall not be used for mining purposes under the terms of this Act, except under permit from the Secretary of the Interior approved by the Papago Indian Council: Provided , That nothing herein shall be construed as interfering with or affecting the validity of the water rights of the Indians of this reservation: Provided further , That the appropriation of living water heretofore or hereafter affected, by the Papago Indians is recognized and validated subject to all the laws applicable thereto.
   - **(4)** Nothing herein contained shall restrict the granting or use of permits for easements or rights-of-way; or ingress or egress over the lands for all proper and lawful purposes.
+
+## Source Credit
+
+*(June 18, 1934, ch. 576, § 3, [48 Stat. 984](https://www.govinfo.gov/link/statute/48/984); Aug. 28, 1937, ch. 866, [50 Stat. 862](https://www.govinfo.gov/link/statute/50/862); May 27, 1955, ch. 106, § 1, [69 Stat. 67](https://www.govinfo.gov/link/statute/69/67).)*

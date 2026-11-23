@@ -3,9 +3,10 @@ title: "Section 2642 - Inclusion ratio"
 usc_title: 26
 usc_section: "2642"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 2642"
-generated_at: "2026-03-30T02:55:27.785Z"
+generated_at: "2026-11-23T21:26:06.542Z"
+status: "active"
 ---
 
 # § 2642. Inclusion ratio
@@ -96,3 +97,21 @@ generated_at: "2026-03-30T02:55:27.785Z"
       - **(ii)** an election under subsection (b)(3) or (c)(5) of section 2632.
     - **(B)** In determining whether to grant relief under this paragraph, the Secretary shall take into account all relevant circumstances, including evidence of intent contained in the trust instrument or instrument of transfer and such other factors as the Secretary deems relevant. For purposes of determining whether to grant relief under this paragraph, the time for making the allocation (or election) shall be treated as if not expressly prescribed by statute.
   - **(2)** An allocation of GST exemption under section 2632 that demonstrates an intent to have the lowest possible inclusion ratio with respect to a transfer or a trust shall be deemed to be an allocation of so much of the transferor’s unused GST exemption as produces the lowest possible inclusion ratio. In determining whether there has been substantial compliance, all relevant circumstances shall be taken into account, including evidence of intent contained in the trust instrument or instrument of transfer and such other factors as the Secretary deems relevant.
+
+Direct skips
+
+Treatment of nontaxable gifts made to trusts.—
+
+In general
+
+Determination of 1st transfer to trust
+
+Nontaxable gift
+
+Relief from late elections
+
+Substantial compliance
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XIV, § 1431(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2722](https://www.govinfo.gov/link/statute/100/2722); amended [Pub. L. 100–647, title I, § 1014(g)(3)(A)](https://www.govinfo.gov/link/plaw/100/public/647), (4), (17)(A), (B), (18), Nov. 10, 1988, [102 Stat. 3563](https://www.govinfo.gov/link/statute/102/3563), 3566, 3567; [Pub. L. 101–239, title VII, § 7811(j)(4)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2411](https://www.govinfo.gov/link/statute/103/2411); [Pub. L. 101–508, title XI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 11703(c)(1), (2), 11704(a)(17), (36), Nov. 5, 1990, [104 Stat. 1388–517](https://www.govinfo.gov/link/statute/104/1388), 1388–519; [Pub. L. 107–16, title V](https://www.govinfo.gov/link/plaw/107/public/16), §§ 562(a), 563(a), (b), 564(a), June 7, 2001, [115 Stat. 89–91](https://www.govinfo.gov/link/statute/115/89).)*

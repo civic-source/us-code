@@ -3,9 +3,10 @@ title: "Section 8469 - Withholding of State income taxes"
 usc_title: 5
 usc_section: "8469"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8469"
-generated_at: "2026-03-30T02:52:56.062Z"
+generated_at: "2026-11-23T21:25:23.434Z"
+status: "active"
 ---
 
 # § 8469. Withholding of State income taxes
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:52:56.062Z"
 - **(e)** For the purpose of this section—
   - **(1)** the term “State” means a State, the District of Columbia, or any territory or possession of the United States; and
   - **(2)** the term “annuitant” includes a survivor who is receiving an annuity from the Fund.
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 576](https://www.govinfo.gov/link/statute/100/576).)*

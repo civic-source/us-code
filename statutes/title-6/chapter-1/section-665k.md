@@ -3,9 +3,10 @@ title: "Section 665k - Federal Clearinghouse on School Safety Evidence-based Pra
 usc_title: 6
 usc_section: "665k"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 665k"
-generated_at: "2026-03-30T02:53:09.480Z"
+generated_at: "2026-11-23T21:25:25.831Z"
+status: "active"
 ---
 
 # § 665k. Federal Clearinghouse on School Safety Evidence-based Practices
@@ -45,3 +46,27 @@ generated_at: "2026-03-30T02:53:09.480Z"
       - **(i)** provide feedback on the implementation of evidence-based practices and recommendations of the Clearinghouse; and
       - **(ii)** propose additional recommendations for evidence-based practices for inclusion in the Clearinghouse that meet the requirements described in subsection (b)(2)(B).
 - **(e)** The Clearinghouse shall produce materials in accessible formats to assist parents and legal guardians of students with identifying relevant Clearinghouse resources related to supporting the implementation of Clearinghouse evidence-based practices and recommendations.
+
+In General
+
+Technical Amendments
+
+Notification by the Secretary of Education
+
+Notification by the Secretary of Homeland Security
+
+Notification by the Secretary of Health and Human Services
+
+Notification by the Attorney General
+
+Federal Grants and Resources
+
+State Grants and Resources
+
+Waiver of Requirements
+
+Prohibition on Federally Developed, Mandated, or Endorsed Curriculum
+
+## Source Credit
+
+*([Pub. L. 107–296, title XXII, § 2220D](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 117–159, div. A, title III, § 13302(a)](https://www.govinfo.gov/link/plaw/117/public/159), June 25, 2022, [136 Stat. 1334](https://www.govinfo.gov/link/statute/136/1334).)*

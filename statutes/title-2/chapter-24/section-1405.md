@@ -3,9 +3,10 @@ title: "Section 1405 - Hearing"
 usc_title: 2
 usc_section: "1405"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1405"
-generated_at: "2026-03-30T02:53:04.813Z"
+generated_at: "2026-11-23T21:25:21.228Z"
+status: "active"
 ---
 
 # § 1405. Hearing
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:04.813Z"
     - **(B)** Process in an action or contempt proceeding pursuant to subparagraph (A) may be served in any judicial district in which the person refusing or failing to comply, or threatening to refuse or not to comply, resides, transacts business, or may be found, and subpoenas for witnesses who are required to attend such proceedings may run into any other district.
 - **(g)** The hearing officer shall issue a written decision as expeditiously as possible, but in no case more than 90 days after the conclusion of the hearing. The written decision shall be transmitted by the Office to the parties. The decision shall state the issues raised in the claim, describe the evidence in the record, contain findings of fact and conclusions of law, contain a determination of whether a violation has occurred, and order such remedies as are appropriate pursuant to subchapter II. The decision shall be entered in the records of the Office. If a decision is not appealed under section 1406 of this title to the Board, the decision shall be considered the final decision of the Office.
 - **(h)** A hearing officer who conducts a hearing under this section shall be guided by judicial decisions under the laws made applicable by section 1302 of this title and by Board decisions under this chapter.
+
+## Source Credit
+
+*([Pub. L. 104–1, title IV, § 405](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 33](https://www.govinfo.gov/link/statute/109/33); [Pub. L. 115–397, title I, § 103(b)](https://www.govinfo.gov/link/plaw/115/public/397) –(e), Dec. 21, 2018, [132 Stat. 5304](https://www.govinfo.gov/link/statute/132/5304), 5305.)*

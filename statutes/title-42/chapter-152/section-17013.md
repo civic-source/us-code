@@ -3,9 +3,10 @@ title: "Section 17013 - Advanced technology vehicles manufacturing incentive pro
 usc_title: 42
 usc_section: "17013"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17013"
-generated_at: "2026-03-30T02:56:11.492Z"
+generated_at: "2026-11-23T21:26:33.756Z"
+status: "active"
 ---
 
 # § 17013. Advanced technology vehicles manufacturing incentive program
@@ -98,3 +99,9 @@ generated_at: "2026-03-30T02:56:11.492Z"
   - **(5)** evaluation of ongoing compliance with the assurances and commitments, and of the predictions, made by applicants pursuant to paragraphs (2) and (3) of subsection (d);
   - **(6)** the total number of applications received by the Department each year; and
   - **(7)** any other metrics the Secretary determines appropriate.
+
+“The Secretary of Energy shall reconsider applications for assistance under section 136 of the Energy Independence and Security Act of 2007 ( 42 U.S.C. 17013 ) that were—
+
+## Source Credit
+
+*([Pub. L. 110–140, title I, § 136](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1514](https://www.govinfo.gov/link/statute/121/1514); [Pub. L. 110–329, div. A, § 129(c)](https://www.govinfo.gov/link/plaw/110/public/329), Sept. 30, 2008, [122 Stat. 3578](https://www.govinfo.gov/link/statute/122/3578); [Pub. L. 111–85, title III, § 312(a)](https://www.govinfo.gov/link/plaw/111/public/85), Oct. 28, 2009, [123 Stat. 2874](https://www.govinfo.gov/link/statute/123/2874); [Pub. L. 117–58, div. D, title IV, § 40401(b)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1034](https://www.govinfo.gov/link/statute/135/1034); [Pub. L. 117–169, title V, § 50142(c)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2044](https://www.govinfo.gov/link/statute/136/2044); [Pub. L. 117–328, div. D, title III, § 308](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 4645](https://www.govinfo.gov/link/statute/136/4645); [Pub. L. 118–188, § 2(a)(2)(D)](https://www.govinfo.gov/link/plaw/118/public/188), Dec. 23, 2024, [138 Stat. 2645](https://www.govinfo.gov/link/statute/138/2645).)*

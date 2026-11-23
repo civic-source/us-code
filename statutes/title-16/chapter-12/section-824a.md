@@ -3,9 +3,10 @@ title: "Section 824a - Interconnection and coordination of facilities; emergenci
 usc_title: 16
 usc_section: "824a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 824a"
-generated_at: "2026-03-30T02:54:22.914Z"
+generated_at: "2026-11-23T21:25:51.761Z"
+status: "active"
 ---
 
 # § 824a. Interconnection and coordination of facilities; emergencies; transmission to foreign countries
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:22.914Z"
   - **(3)** accommodate any such shortages or circumstances in a manner which shall—
     - **(A)** give due consideration to the public health, safety, and welfare, and
     - **(B)** provide that all persons served directly or indirectly by such public utility will be treated, without undue prejudice or disadvantage.
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. II, § 202, as added Aug. 26, 1935, ch. 687, title II, § 213, [49 Stat. 848](https://www.govinfo.gov/link/statute/49/848); amended Aug. 7, 1953, ch. 343, [67 Stat. 461](https://www.govinfo.gov/link/statute/67/461); [Pub. L. 95–617, title II, § 206(a)](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3141](https://www.govinfo.gov/link/statute/92/3141); [Pub. L. 114–94, div. F, § 61002](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1772](https://www.govinfo.gov/link/statute/129/1772).)*

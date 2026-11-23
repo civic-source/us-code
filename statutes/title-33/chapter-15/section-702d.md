@@ -3,12 +3,17 @@ title: "Section 702d - Flowage rights; condemnation proceedings; benefits to pro
 usc_title: 33
 usc_section: "702d"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 702d"
-generated_at: "2026-03-30T02:55:41.071Z"
+generated_at: "2026-11-23T21:26:11.334Z"
+status: "active"
 ---
 
 # § 702d. Flowage rights; condemnation proceedings; benefits to property
 
 The United States shall provide flowage rights for additional destructive flood waters that will pass by reason of diversions from the main channel of the Mississippi River: Provided , That in all cases where the execution of the flood control plan herein adopted results in benefits to property such benefits shall be taken into consideration by way of reducing the amount of compensation to be paid. The Secretary of the Army may cause proceedings to be instituted for the acquirement by condemnation of any lands, easements, or rights of way which, in the opinion of the Secretary of the Army and the Chief of Engineers, are needed in carrying out this project, the said proceedings to be instituted in the United States district court for the district in which the land, easement, or right of way is located. In all such proceedings the practice, pleadings, forms, and modes of proceedings shall conform as near as may be to the practice, pleadings, forms, and proceedings existing at the time in like causes in the courts of record of the State within which such district court is held, any rule of the court to the contrary notwithstanding. When the owner of any land, easement, or right of way shall fix a price for the same which, in the opinion of the Secretary of the Army is reasonable, he may purchase the same at such price; and the Secretary of the Army is also authorized to accept donations of lands, easements, and rights of way required for this project. The provisions of sections 594 and 595 of this title are made applicable to the acquisition of lands, easements, or rights of way needed for works of flood control: Provided , That any land acquired under the provisions of this section shall be turned over without cost to the ownership of States or local interests.
 
+
+## Source Credit
+
+*(May 15, 1928, ch. 569, § 4, [45 Stat. 536](https://www.govinfo.gov/link/statute/45/536); Nov. 30, 1945, ch. 496, [59 Stat. 587](https://www.govinfo.gov/link/statute/59/587); July 26, 1947, ch. 343, title II, § 205(a), [61 Stat. 501](https://www.govinfo.gov/link/statute/61/501).)*

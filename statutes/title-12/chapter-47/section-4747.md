@@ -3,9 +3,10 @@ title: "Section 4747 - Reimbursement by Fund"
 usc_title: 12
 usc_section: "4747"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4747"
-generated_at: "2026-03-30T02:53:53.518Z"
+generated_at: "2026-11-23T21:25:37.221Z"
+status: "active"
 ---
 
 # § 4747. Reimbursement by Fund
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:53.518Z"
 - **(f)** In connection with the enrollment of a loan that will cause the aggregate covered amount of all enrolled loans to exceed $2,000,000, the amount of reimbursement by the Fund to the participating State shall be determined—
   - **(1)** by applying subsection (d) to the portion of the loan, which when added to the aggregate covered amount of all previously enrolled loans equals $2,000,000; and
   - **(2)** by applying subsection (e) to the balance of the loan.
+
+## Source Credit
+
+*([Pub. L. 103–325, title II, § 257](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2212](https://www.govinfo.gov/link/statute/108/2212).)*

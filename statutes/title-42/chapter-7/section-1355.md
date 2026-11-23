@@ -3,9 +3,10 @@ title: "Section 1355 - Definitions"
 usc_title: 42
 usc_section: "1355"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1355"
-generated_at: "2026-03-30T02:56:10.927Z"
+generated_at: "2026-11-23T21:26:31.327Z"
+status: "active"
 ---
 
 # § 1355. Definitions
@@ -17,3 +18,7 @@ For the purposes of this subchapter, the term “aid to the permanently and tota
   - **(3)** undertaking and continuing special efforts to protect the welfare of such individual and to improve, to the extent possible, his capacity for self-care and to manage funds;
   - **(4)** periodic review by such State agency of the determination under paragraph (1) to ascertain whether conditions justifying such determination still exist, with provision for termination of such payments if they do not and for seeking judicial appointment of a guardian or other legal representative, as described in section 1311 of this title , if and when it appears that such action will best serve the interests of such needy individual; and
   - **(5)** opportunity for a fair hearing before the State agency on the determination referred to in paragraph (1) for any individual with respect to whom it is made.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XIV, § 1405, as added Aug. 28, 1950, ch. 809, title III, pt. 5, § 351, [64 Stat. 557](https://www.govinfo.gov/link/statute/64/557); amended [Pub. L. 87–543, title I, § 156(d)](https://www.govinfo.gov/link/plaw/87/public/543), July 25, 1962, [76 Stat. 207](https://www.govinfo.gov/link/statute/76/207); [Pub. L. 89–97, title II, § 221(c)](https://www.govinfo.gov/link/plaw/89/public/97), title IV, § 402(d), July 30, 1965, [79 Stat. 358](https://www.govinfo.gov/link/statute/79/358), 417; [Pub. L. 92–603, title IV](https://www.govinfo.gov/link/plaw/92/public/603), §§ 408(c), 409(c), Oct. 30, 1972, [86 Stat. 1490](https://www.govinfo.gov/link/statute/86/1490), 1491; [Pub. L. 97–35, title XXI, § 2184(c)(3)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 817](https://www.govinfo.gov/link/statute/95/817).)*

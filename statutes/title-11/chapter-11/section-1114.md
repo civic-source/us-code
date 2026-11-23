@@ -3,9 +3,10 @@ title: "Section 1114 - Payment of insurance benefits to retired employees"
 usc_title: 11
 usc_section: "1114"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1114"
-generated_at: "2026-03-30T02:53:53.884Z"
+generated_at: "2026-11-23T21:25:34.951Z"
+status: "active"
 ---
 
 # § 1114. Payment of insurance benefits to retired employees
@@ -46,3 +47,11 @@ generated_at: "2026-03-30T02:53:53.884Z"
   - **(1)** modified retiree benefits; and
   - **(2)** was insolvent on the date such benefits were modified;
 - **(m)** This section shall not apply to any retiree, or the spouse or dependents of such retiree, if such retiree’s gross income for the twelve months preceding the filing of the bankruptcy petition equals or exceeds $250,000, unless such retiree can demonstrate to the satisfaction of the court that he is unable to obtain health, medical, life, and disability coverage for himself, his spouse, and his dependents who would otherwise be covered by the employer’s insurance plan, comparable to the coverage provided by the employer on the day before the filing of a petition under this title.
+
+General Effective Date
+
+Application of Amendments
+
+## Source Credit
+
+*(Added [Pub. L. 100–334, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/334), June 16, 1988, [102 Stat. 610](https://www.govinfo.gov/link/statute/102/610); amended [Pub. L. 109–8, title IV, § 447](https://www.govinfo.gov/link/plaw/109/public/8), title XIV, § 1403, Apr. 20, 2005, [119 Stat. 118](https://www.govinfo.gov/link/statute/119/118), 215.)*

@@ -3,9 +3,10 @@ title: "Section 936 - Confidentiality of medical quality assurance records; qual
 usc_title: 14
 usc_section: "936"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 936"
-generated_at: "2026-03-30T02:53:51.491Z"
+generated_at: "2026-11-23T21:25:35.389Z"
+status: "active"
 ---
 
 # § 936. Confidentiality of medical quality assurance records; qualified immunity for participants
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:51.491Z"
   - **(2)** authority to withhold any medical quality assurance record from a committee of either House of Congress, any joint committee of Congress, or the Government Accountability Office if the record pertains to any matter within their respective jurisdictions;
   - **(3)** limiting access to the information in a record created and maintained outside a medical quality assurance program, including a patient’s medical records, on the grounds that the information was presented during meetings of a review body that are part of a medical quality assurance program.
 - **(i)** Except as otherwise provided in this section, an individual who willfully discloses a medical quality assurance record knowing that the record is a medical quality assurance record, is liable to the United States Government for a civil penalty of not more than $3,000 in the case of a first offense and not more than $20,000 in the case of a subsequent offense.
+
+## Source Credit
+
+*(Added [Pub. L. 102–587, title V, § 5203(a)](https://www.govinfo.gov/link/plaw/102/public/587), Nov. 4, 1992, [106 Stat. 5072](https://www.govinfo.gov/link/statute/106/5072), § 645; amended [Pub. L. 104–324, title VII, § 746(b)](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3943](https://www.govinfo.gov/link/statute/110/3943); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); renumbered § 936, [Pub. L. 115–282, title I, § 107(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4205](https://www.govinfo.gov/link/statute/132/4205).)*

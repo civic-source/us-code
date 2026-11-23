@@ -3,9 +3,10 @@ title: "Section 1395e - Deductibles and coinsurance"
 usc_title: 42
 usc_section: "1395e"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1395e"
-generated_at: "2026-03-30T02:56:10.936Z"
+generated_at: "2026-11-23T21:26:31.369Z"
+status: "active"
 ---
 
 # § 1395e. Deductibles and coinsurance
@@ -29,3 +30,21 @@ generated_at: "2026-03-30T02:56:10.936Z"
   - **(3)** The inpatient hospital deductible for a year shall apply to—
     - **(A)** the deduction under the first sentence of subsection (a)(1) for the year in which the first day of inpatient hospital services or inpatient critical access hospital services occurs in a spell of illness, and
     - **(B)** to the coinsurance amounts under subsection (a) for inpatient hospital services, inpatient critical access hospital services and post-hospital extended care services furnished in that year.
+
+In General.—
+
+General rule
+
+Exception for blood deduction
+
+Transition Provisions for Medicare Beneficiaries.—
+
+Inpatient hospital services and post-hospital extended care services
+
+Hospice care
+
+“In the case of an individual for whom a spell of illness (as defined in section 1861(a) of the Social Security Act [ 42 U.S.C. 1395x(a) ], as in effect on December 31, 1988 ) began before January 1, 1989 , and had not yet ended as of such date—
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1813, as added [Pub. L. 89–97, title I, § 102(a)](https://www.govinfo.gov/link/plaw/89/public/97), July 30, 1965, [79 Stat. 292](https://www.govinfo.gov/link/statute/79/292); amended [Pub. L. 90–248, title I](https://www.govinfo.gov/link/plaw/90/public/248), §§ 129(c)(3), (4), 135(a), 137(b), Jan. 2, 1968, [81 Stat. 847](https://www.govinfo.gov/link/statute/81/847), 848, 852, 854; [Pub. L. 97–35, title XXI](https://www.govinfo.gov/link/plaw/97/public/35), §§ 2131(a), 2132(a), Aug. 13, 1981, [95 Stat. 797](https://www.govinfo.gov/link/statute/95/797); [Pub. L. 97–248, title I, § 122(e)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 361](https://www.govinfo.gov/link/statute/96/361); [Pub. L. 99–272, title IX, § 9125(a)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 168](https://www.govinfo.gov/link/statute/100/168); [Pub. L. 99–509, title IX, § 9301(a)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1981](https://www.govinfo.gov/link/statute/100/1981); [Pub. L. 100–203, title IV, § 4002(f)(3)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, as added [Pub. L. 100–360, title IV, § 411(b)(1)(H)(ii)](https://www.govinfo.gov/link/plaw/100/public/360), July 1, 1988, [102 Stat. 769](https://www.govinfo.gov/link/statute/102/769); [Pub. L. 100–360, title I, § 102](https://www.govinfo.gov/link/plaw/100/public/360), July 1, 1988, [102 Stat. 685](https://www.govinfo.gov/link/statute/102/685); [Pub. L. 101–234, title I, § 101(a)](https://www.govinfo.gov/link/plaw/101/public/234), Dec. 13, 1989, [103 Stat. 1979](https://www.govinfo.gov/link/statute/103/1979); [Pub. L. 103–432, title I, § 102(g)(2)](https://www.govinfo.gov/link/plaw/103/public/432), (3), Oct. 31, 1994, [108 Stat. 4404](https://www.govinfo.gov/link/statute/108/4404); [Pub. L. 105–33, title IV, § 4201(c)(1)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 373](https://www.govinfo.gov/link/statute/111/373).)*

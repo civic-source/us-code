@@ -3,9 +3,10 @@ title: "Section 4707 - Assistance provided by Fund"
 usc_title: 12
 usc_section: "4707"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4707"
-generated_at: "2026-03-30T02:53:53.516Z"
+generated_at: "2026-11-23T21:25:37.212Z"
+status: "active"
 ---
 
 # § 4707. Assistance provided by Fund
@@ -79,3 +80,7 @@ generated_at: "2026-03-30T02:53:53.516Z"
     - **(D)** In reviewing the performance of any assisted community development financial institution, the investment area of which includes an Indian reservation, or the targeted population of which includes an Indian tribe, the Fund shall consult with, and seek input from, any appropriate tribal government.
 - **(g)** The Fund may, at any time, sell its equity investments and loans, but the Fund shall retain the power to enforce limitations on assistance entered into in accordance with the requirements of this subchapter until the performance goals related to the investment or loan have been met.
 - **(h)** Nothing in this subchapter shall affect any authority of the appropriate Federal banking agency to supervise and regulate any institution or company.
+
+## Source Credit
+
+*([Pub. L. 103–325, title I, § 108](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2172](https://www.govinfo.gov/link/statute/108/2172).)*

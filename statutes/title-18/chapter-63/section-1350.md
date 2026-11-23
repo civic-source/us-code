@@ -3,9 +3,10 @@ title: "Section 1350 - Failure of corporate officers to certify financial report
 usc_title: 18
 usc_section: "1350"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1350"
-generated_at: "2026-03-30T02:54:16.483Z"
+generated_at: "2026-11-23T21:25:44.057Z"
+status: "active"
 ---
 
 # § 1350. Failure of corporate officers to certify financial reports
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:54:16.483Z"
 - **(c)** Whoever—
   - **(1)** certifies any statement as set forth in subsections (a) and (b) of this section knowing that the periodic report accompanying the statement does not comport with all the requirements set forth in this section shall be fined not more than $1,000,000 or imprisoned not more than 10 years, or both; or
   - **(2)** willfully certifies any statement as set forth in subsections (a) and (b) of this section knowing that the periodic report accompanying the statement does not comport with all the requirements set forth in this section shall be fined not more than $5,000,000, or imprisoned not more than 20 years, or both.
+
+Certification of Periodic Financial Reports
+
+Content
+
+Criminal Penalties
+
+## Source Credit
+
+*(Added [Pub. L. 107–204, title IX, § 906(a)](https://www.govinfo.gov/link/plaw/107/public/204), July 30, 2002, [116 Stat. 806](https://www.govinfo.gov/link/statute/116/806).)*

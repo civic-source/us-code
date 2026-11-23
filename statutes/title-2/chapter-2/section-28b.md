@@ -3,12 +3,17 @@ title: "Section 28b - Printing and binding as public document of Precedents of H
 usc_title: 2
 usc_section: "28b"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 28b"
-generated_at: "2026-03-30T02:53:04.785Z"
+generated_at: "2026-11-23T21:25:21.109Z"
+status: "active"
 ---
 
 # § 28b. Printing and binding as public document of Precedents of House of Representatives; number of sets authorized
 
 - **(a)** There shall be printed and bound as a public document two thousand sets of the Prec­edents of the House of Representatives compiled and prepared by Lewis Deschler (hereinafter in sections 28b to 28e of this title referred to as the “Precedents”) in accordance with the provisions of the Legislative Branch Appropriation Act, 1966 ( Public Law 89–90 ; 79 Stat. 265 ).
 - **(b)** The number of sets authorized to be printed and bound by or pursuant to sections 28b to 28e of this title shall be in lieu of the usual number of copies for binding and distribution required by section 701 of title 44 .
+
+## Source Credit
+
+*([Pub. L. 94–551, § 1](https://www.govinfo.gov/link/plaw/94/public/551), Oct. 18, 1976, [90 Stat. 2537](https://www.govinfo.gov/link/statute/90/2537).)*

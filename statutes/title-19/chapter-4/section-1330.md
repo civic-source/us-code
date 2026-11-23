@@ -3,9 +3,10 @@ title: "Section 1330 - Organization of Commission"
 usc_title: 19
 usc_section: "1330"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1330"
-generated_at: "2026-03-30T02:54:24.629Z"
+generated_at: "2026-11-23T21:25:42.694Z"
+status: "active"
 ---
 
 # § 1330. Organization of Commission
@@ -51,3 +52,13 @@ generated_at: "2026-03-30T02:54:24.629Z"
   - **(3)** There are authorized to be appropriated to the Commission for each fiscal year after September 30, 1977 , in addition to any other amount authorized to be appropriated for such fiscal year, such sums as may be necessary for increases authorized by law in salary, pay, retirement, and other employee benefits.
   - **(4)** By not later than the date on which the President submits to Congress the budget of the United States Government for a fiscal year, the Commission shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate the projected amount of funds for the succeeding fiscal year that will be necessary for the Commission to carry out its functions.
 - **(f)** The Commission shall be considered to be an independent regulatory agency for purposes of chapter 35 of title 44.
+
+Modification
+
+year requirement
+
+“In the case of the term of the chairman of the United States International Trade Commission beginning June 17, 1992 —
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title III, § 330, [46 Stat. 696](https://www.govinfo.gov/link/statute/46/696); Aug. 7, 1953, ch. 348, title II, § 201, [67 Stat. 472](https://www.govinfo.gov/link/statute/67/472); [Pub. L. 93–618, title I](https://www.govinfo.gov/link/plaw/93/public/618), §§ 172(a), (b), 175(b), Jan. 3, 1975, [88 Stat. 2009–2011](https://www.govinfo.gov/link/statute/88/2009); [Pub. L. 94–455, title XVIII, § 1801(a)](https://www.govinfo.gov/link/plaw/94/public/455), (b), Oct. 4, 1976, [90 Stat. 1762](https://www.govinfo.gov/link/statute/90/1762); [Pub. L. 95–106](https://www.govinfo.gov/link/plaw/95/public/106), §§ 1, 2(a), Aug. 17, 1977, [91 Stat. 867](https://www.govinfo.gov/link/statute/91/867); [Pub. L. 95–430](https://www.govinfo.gov/link/plaw/95/public/430), Oct. 10, 1978, [92 Stat. 1020](https://www.govinfo.gov/link/statute/92/1020); [Pub. L. 97–456, § 1(a)](https://www.govinfo.gov/link/plaw/97/public/456), Jan. 12, 1983, [96 Stat. 2503](https://www.govinfo.gov/link/statute/96/2503); [Pub. L. 98–573, title II, § 248(c)](https://www.govinfo.gov/link/plaw/98/public/573), title VII, § 701, Oct. 30, 1984, [98 Stat. 2998](https://www.govinfo.gov/link/statute/98/2998), 3043; [Pub. L. 99–272, title XIII, § 13021](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 305](https://www.govinfo.gov/link/statute/100/305); [Pub. L. 100–203, title IX, § 9502](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–380](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–418, title I](https://www.govinfo.gov/link/plaw/100/public/418), §§ 1401(b)(4), 1611, 1612, Aug. 23, 1988, [102 Stat. 1240](https://www.govinfo.gov/link/statute/102/1240), 1262; [Pub. L. 100–647, title IX, § 9001(a)(15)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3808](https://www.govinfo.gov/link/statute/102/3808); [Pub. L. 101–207, § 2](https://www.govinfo.gov/link/plaw/101/public/207), Dec. 7, 1989, [103 Stat. 1833](https://www.govinfo.gov/link/statute/103/1833); [Pub. L. 101–382, title I, § 101](https://www.govinfo.gov/link/plaw/101/public/382), Aug. 20, 1990, [104 Stat. 633](https://www.govinfo.gov/link/statute/104/633); [Pub. L. 102–185, § 1(a)(1)](https://www.govinfo.gov/link/plaw/102/public/185), (2), (c)(1), Dec. 4, 1991, [105 Stat. 1280](https://www.govinfo.gov/link/statute/105/1280); [Pub. L. 107–210, div. A, title III, § 371](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 991](https://www.govinfo.gov/link/statute/116/991); [Pub. L. 108–429, title II, § 2004(a)(13)](https://www.govinfo.gov/link/plaw/108/public/429), Dec. 3, 2004, [118 Stat. 2590](https://www.govinfo.gov/link/statute/118/2590).)*

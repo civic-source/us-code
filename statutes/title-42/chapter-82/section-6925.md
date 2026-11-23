@@ -3,9 +3,10 @@ title: "Section 6925 - Permits for treatment, storage, or disposal of hazardous 
 usc_title: 42
 usc_section: "6925"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6925"
-generated_at: "2026-03-30T02:56:11.272Z"
+generated_at: "2026-11-23T21:26:33.000Z"
+status: "active"
 ---
 
 # § 6925. Permits for treatment, storage, or disposal of hazardous waste
@@ -89,3 +90,7 @@ generated_at: "2026-03-30T02:56:11.272Z"
       - **(iii)** such system utilizes activated sludge treatment in the first portion of secondary treatment.
     - **(C)** For the purposes of this subsection, the term “underground source or 3 3 So in original. Probably should be “of”. drinking water” has the same meaning as provided in regulations under the Safe Drinking Water Act (title XIV of the Public Health Service Act [ 42 U.S.C. 300f et seq.]).
   - **(13)** The Administrator may modify the requirements of paragraph (1) in the case of a surface impoundment for which the owner or operator, prior to October 1, 1984 , has entered into, and is in compliance with, a consent order, decree, or agreement with the Administrator or a State with an authorized program mandating corrective action with respect to such surface impoundment that provides a degree of protection of human health and the environment which is at a minimum equivalent to that provided by paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 3005](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2808](https://www.govinfo.gov/link/statute/90/2808); amended [Pub. L. 95–609, § 7(h)](https://www.govinfo.gov/link/plaw/95/public/609), Nov. 8, 1978, [92 Stat. 3082](https://www.govinfo.gov/link/statute/92/3082); [Pub. L. 96–482](https://www.govinfo.gov/link/plaw/96/public/482), §§ 10, 11, Oct. 21, 1980, [94 Stat. 2338](https://www.govinfo.gov/link/statute/94/2338); [Pub. L. 98–616, title II](https://www.govinfo.gov/link/plaw/98/public/616), §§ 211–213(a), (c), 214(a), 215, 224(b), 243(c), Nov. 8, 1984, [98 Stat. 3240–3243](https://www.govinfo.gov/link/statute/98/3240), 3253, 3261; [Pub. L. 104–119, § 4(6)](https://www.govinfo.gov/link/plaw/104/public/119), (7), Mar. 26, 1996, [110 Stat. 833](https://www.govinfo.gov/link/statute/110/833).)*

@@ -3,9 +3,10 @@ title: "Section 3374 - Clauses prohibiting certain sales, transportation, and co
 usc_title: 15
 usc_section: "3374"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3374"
-generated_at: "2026-03-30T02:54:08.189Z"
+generated_at: "2026-11-23T21:25:39.968Z"
+status: "active"
 ---
 
 # § 3374. Clauses prohibiting certain sales, transportation, and commingling
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:08.189Z"
   - **(3)** natural gas, the transportation in interstate commerce of which is—
     - **(A)** pursuant to any order under section 3362(c) or section 3363(b), (c), (d), or (h) of this title; or
     - **(B)** authorized by the Commission under section 3371(a) of this title .
+
+## Source Credit
+
+*([Pub. L. 95–621, title III, § 314](https://www.govinfo.gov/link/plaw/95/public/621), Nov. 9, 1978, [92 Stat. 3392](https://www.govinfo.gov/link/statute/92/3392).)*

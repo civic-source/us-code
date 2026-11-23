@@ -3,12 +3,17 @@ title: "Section 6116 - Special delivery postage allowance for President of Senat
 usc_title: 2
 usc_section: "6116"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 6116"
-generated_at: "2026-03-30T02:53:04.839Z"
+generated_at: "2026-11-23T21:25:21.341Z"
+status: "active"
 ---
 
 # § 6116. Special delivery postage allowance for President of Senate
 
 The Secretary of the Senate is authorized and directed to procure and furnish each fiscal year (commencing with the fiscal year ending September 30, 1982 ) to the President of the Senate, upon request by such person, United States special delivery postage stamps in such amount as may be necessary for the mailing of postal matters arising in connection with his official business.
 
+
+## Source Credit
+
+*([Pub. L. 97–51, § 127(a)(1)](https://www.govinfo.gov/link/plaw/97/public/51), Oct. 1, 1981, [95 Stat. 965](https://www.govinfo.gov/link/statute/95/965).)*

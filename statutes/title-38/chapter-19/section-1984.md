@@ -3,9 +3,10 @@ title: "Section 1984 - Suits on insurance"
 usc_title: 38
 usc_section: "1984"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1984"
-generated_at: "2026-03-30T02:55:53.493Z"
+generated_at: "2026-11-23T21:26:16.685Z"
+status: "active"
 ---
 
 # § 1984. Suits on insurance
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:53.493Z"
 - **(g)** Whenever a judgment or decree shall be rendered in an action brought under the provisions of this section, the court, as a part of its judgment or decree, shall determine and allow reasonable fees for the attorneys of the successful party or parties and apportion same if proper, said fees not to exceed 10 per centum of the amount recovered and to be paid by the Department out of the payments to be made under the judgment or decree at a rate not exceeding one-tenth of each of such payments until paid; except that, in a suit brought by or on behalf of an insured during the insured’s lifetime for waiver of premiums on account of total disability, the court, as part of its judgment or decree, shall determine and allow a reasonable fee to be paid by the insured to the insured’s attorney.
 - **(h)** The term “claim” as used in this section means any writing which uses words showing an intention to claim insurance benefits; and the term “disagreement” means a denial of the claim, after consideration on its merits, by the Secretary or any employee or organizational unit of the Department heretofore or hereafter designated therefor by the Secretary.
 - **(i)** The Attorney General of the United States is authorized to agree to a judgment to be rendered by the chief judge of the United States court having jurisdiction of the case, pursuant to compromise approved by the Attorney General upon the recommendation of the United States attorney charged with the defense, upon such terms and for sums within the amount claimed to be payable, in any suit brought under the provisions of this section, on a contract of yearly renewable term insurance, and the Secretary shall make payments in accordance with any such judgment. The Comptroller General of the United States shall allow credit in the accounts of disbursing officers for all payments of insurance made in accordance with any such judgment. All such judgments shall constitute final settlement of the claim and no appeal therefrom shall be authorized.
+
+## Source Credit
+
+*([Pub. L. 85–857](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1165](https://www.govinfo.gov/link/statute/72/1165), § 784; [Pub. L. 86–507, § 1(32)](https://www.govinfo.gov/link/plaw/86/public/507), June 11, 1960, [74 Stat. 202](https://www.govinfo.gov/link/statute/74/202); [Pub. L. 97–295, § 4(32)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1307](https://www.govinfo.gov/link/statute/96/1307); [Pub. L. 99–576, title VII, § 701(46)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3294](https://www.govinfo.gov/link/statute/100/3294); renumbered § 1984 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(a)(2)(A)(iii)(VII), (VIII), (D)(ii), (3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 403–406](https://www.govinfo.gov/link/statute/105/403).)*

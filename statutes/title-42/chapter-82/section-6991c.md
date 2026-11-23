@@ -3,9 +3,10 @@ title: "Section 6991c - Approval of State programs"
 usc_title: 42
 usc_section: "6991c"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6991c"
-generated_at: "2026-03-30T02:56:11.281Z"
+generated_at: "2026-11-23T21:26:33.036Z"
+status: "active"
 ---
 
 # § 6991c. Approval of State programs
@@ -60,3 +61,9 @@ generated_at: "2026-03-30T02:56:11.281Z"
   - **(3)** Distributions from the Trust Fund under this subsection shall be made directly to a State agency that—
     - **(A)** enters into a cooperative agreement referred to in paragraph (2)(A); or
     - **(B)** is enforcing a State program approved under this section.
+
+Withdrawal of approval
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 9004](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 98–616, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/98/public/616), Nov. 8, 1984, [98 Stat. 3282](https://www.govinfo.gov/link/statute/98/3282); amended [Pub. L. 99–499, title II, § 205(e)](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1702](https://www.govinfo.gov/link/statute/100/1702); [Pub. L. 109–58, title XV](https://www.govinfo.gov/link/plaw/109/public/58), §§ 1522(a), (b), 1524(b), 1533(3), Aug. 8, 2005, [119 Stat. 1092](https://www.govinfo.gov/link/statute/119/1092), 1093, 1096, 1105.)*

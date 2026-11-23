@@ -3,9 +3,10 @@ title: "Section 45R - Employee health insurance expenses of small employers"
 usc_title: 26
 usc_section: "45R"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 45R"
-generated_at: "2026-03-30T02:55:27.603Z"
+generated_at: "2026-11-23T21:26:05.939Z"
+status: "active"
 ---
 
 # § 45R. Employee health insurance expenses of small employers
@@ -73,3 +74,7 @@ generated_at: "2026-03-30T02:55:27.603Z"
   - **(3)** An arrangement shall not fail to meet the requirements of subsection (d)(4) solely because it provides for the offering of insurance outside of an Exchange.
 - **(h)** Any term used in this section which is also used in the Public Health Service Act or subtitle A of title I of the Patient Protection and Affordable Care Act shall have the meaning given such term by such Act or subtitle.
 - **(i)** The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section, including regulations to prevent the avoidance of the 2-year limit on the credit period through the use of successor entities and the avoidance of the limitations under subsection (c) through the use of multiple entities.
+
+## Source Credit
+
+*(Added and amended [Pub. L. 111–148, title I, § 1421(a)](https://www.govinfo.gov/link/plaw/111/public/148), title X, § 10105(e)(1), (2), Mar. 23, 2010, [124 Stat. 237](https://www.govinfo.gov/link/statute/124/237), 906; [Pub. L. 115–97, title I, § 11002(d)(1)(H)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2060](https://www.govinfo.gov/link/statute/131/2060).)*

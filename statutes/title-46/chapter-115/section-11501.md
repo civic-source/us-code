@@ -3,9 +3,10 @@ title: "Section 11501 - Penalties for specified offenses"
 usc_title: 46
 usc_section: "11501"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 11501"
-generated_at: "2026-03-30T02:56:15.557Z"
+generated_at: "2026-11-23T21:26:37.125Z"
+status: "active"
 ---
 
 # § 11501. Penalties for specified offenses
@@ -20,3 +21,16 @@ When a seaman lawfully engaged commits any of the following offenses, the seaman
   - **(6)** For assaulting a master, mate, pilot, engineer, or staff officer, the seaman shall be imprisoned for not more than 2 years.
   - **(7)** For willfully damaging the vessel, or embezzling or willfully damaging any of the stores or cargo, the seaman forfeits from the seaman’s wages the amount of the loss sustained and, at the discretion of the court, may be imprisoned for not more than 12 months.
   - **(8)** For smuggling for which a seaman is convicted causing loss or damage to the owner or master, the seaman is liable to the owner or master for the loss or damage, and any part of the seaman’s wages may be retained to satisfy the liability. The seaman also may be imprisoned for not more than 12 months.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 11501 | 46:701 |
+
+
+Historical and Revision Notes
+
+11501
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 582](https://www.govinfo.gov/link/statute/97/582).)*

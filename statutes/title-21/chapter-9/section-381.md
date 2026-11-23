@@ -3,9 +3,10 @@ title: "Section 381 - Imports and exports"
 usc_title: 21
 usc_section: "381"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 381"
-generated_at: "2026-03-30T02:54:54.276Z"
+generated_at: "2026-11-23T21:25:56.169Z"
+status: "active"
 ---
 
 # § 381. Imports and exports
@@ -187,3 +188,23 @@ generated_at: "2026-03-30T02:54:54.276Z"
         - **(II)** for which—
       - **(ii)** a substance that has a chemical structure that is substantially similar to the chemical structure of an active ingredient in a drug or biological product described in subclause (I) or (II) of clause (i).
   - **(2)** This subsection shall not be construed to bear upon any determination of whether an article is a drug within the meaning of section 321(g) of this title , other than for the purposes described in paragraph (1).
+
+(aa) an investigational use exemption has been authorized under section 355(i) of this title or section 351(a) of the Public Health Service Act [ 42 U.S.C. 262(a) ]; and
+
+(bb) a substantial clinical investigation has been instituted, and such investigation has been made public; or
+
+In general
+
+Procedure
+
+Restrictions
+
+In general
+
+Default; minimum period of advance notice
+
+“The Congress finds as follows:
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 801, [52 Stat. 1058](https://www.govinfo.gov/link/statute/52/1058); Oct. 18, 1949, ch. 696, §§ 1–3, [63 Stat. 882](https://www.govinfo.gov/link/statute/63/882); [Pub. L. 87–781, title III, § 306](https://www.govinfo.gov/link/plaw/87/public/781), Oct. 10, 1962, [76 Stat. 796](https://www.govinfo.gov/link/statute/76/796); [Pub. L. 90–399, § 106](https://www.govinfo.gov/link/plaw/90/public/399), July 13, 1968, [82 Stat. 353](https://www.govinfo.gov/link/statute/82/353); [Pub. L. 91–513, title II, § 701(h)](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1282](https://www.govinfo.gov/link/statute/84/1282); [Pub. L. 94–295](https://www.govinfo.gov/link/plaw/94/public/295), §§ 3(f), 4(b)(3), May 28, 1976, [90 Stat. 578](https://www.govinfo.gov/link/statute/90/578), 580; [Pub. L. 100–293, § 3](https://www.govinfo.gov/link/plaw/100/public/293), Apr. 22, 1988, [102 Stat. 96](https://www.govinfo.gov/link/statute/102/96); [Pub. L. 102–300, § 6(b)(1)](https://www.govinfo.gov/link/plaw/102/public/300), June 16, 1992, [106 Stat. 240](https://www.govinfo.gov/link/statute/106/240); [Pub. L. 102–353, § 5](https://www.govinfo.gov/link/plaw/102/public/353), Aug. 26, 1992, [106 Stat. 943](https://www.govinfo.gov/link/statute/106/943); [Pub. L. 103–80, § 3(cc)](https://www.govinfo.gov/link/plaw/103/public/80), (dd)(1), Aug. 13, 1993, [107 Stat. 778](https://www.govinfo.gov/link/statute/107/778), 779; [Pub. L. 104–134, title II, § 2102(a)](https://www.govinfo.gov/link/plaw/104/public/134) –(c), Apr. 26, 1996, [110 Stat. 1321–313](https://www.govinfo.gov/link/statute/110/1321), 1321–314; [Pub. L. 104–180, title VI, § 603(a)](https://www.govinfo.gov/link/plaw/104/public/180), (b), Aug. 6, 1996, [110 Stat. 1594](https://www.govinfo.gov/link/statute/110/1594), 1595; [Pub. L. 105–115, title I, § 125(a)(2)(D)](https://www.govinfo.gov/link/plaw/105/public/115), Nov. 21, 1997, [111 Stat. 2325](https://www.govinfo.gov/link/statute/111/2325); [Pub. L. 106–387, § 1(a) [title VII, §§ 745(c)(1), 746(c)]](https://www.govinfo.gov/link/plaw/106/public/387), Oct. 28, 2000, [114 Stat. 1549](https://www.govinfo.gov/link/statute/114/1549), 1549A–36, 1549A–40; [Pub. L. 107–188, title III](https://www.govinfo.gov/link/plaw/107/public/188), §§ 302(a)–(d), 303(c), 304(e), 305(c), 307(a), 308(a), 321(b)(1), 322(a), June 12, 2002, [116 Stat. 662](https://www.govinfo.gov/link/statute/116/662), 663, 665, 667, 668, 670, 672, 676; [Pub. L. 109–462, § 5(a)](https://www.govinfo.gov/link/plaw/109/public/462), Dec. 22, 2006, [120 Stat. 3475](https://www.govinfo.gov/link/statute/120/3475); [Pub. L. 110–85, title IX, § 912(b)(2)](https://www.govinfo.gov/link/plaw/110/public/85), Sept. 27, 2007, [121 Stat. 952](https://www.govinfo.gov/link/statute/121/952); [Pub. L. 111–31, div. A, title I, § 103](https://www.govinfo.gov/link/plaw/111/public/31) (l), June 22, 2009, [123 Stat. 1837](https://www.govinfo.gov/link/statute/123/1837); [Pub. L. 111–353, title I](https://www.govinfo.gov/link/plaw/111/public/353), §§ 102(b)(3), 107(b), title II, § 204(j)(2), title III, §§ 301(c), 303(a)–(c), 304(a), Jan. 4, 2011, [124 Stat. 3889](https://www.govinfo.gov/link/statute/124/3889), 3910, 3937, 3955–3957; [Pub. L. 112–144, title VII](https://www.govinfo.gov/link/plaw/112/public/144), §§ 708(a), (b), 713, 714(b), July 9, 2012, [126 Stat. 1068](https://www.govinfo.gov/link/statute/126/1068), 1072, 1073; [Pub. L. 114–255, div. A, title III, § 3101(a)(2)(W)(i)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1155](https://www.govinfo.gov/link/statute/130/1155); [Pub. L. 115–52, title VI, § 604(a)](https://www.govinfo.gov/link/plaw/115/public/52), title VII, § 704, Aug. 18, 2017, [131 Stat. 1048](https://www.govinfo.gov/link/statute/131/1048), 1056; [Pub. L. 115–271, title III](https://www.govinfo.gov/link/plaw/115/public/271), §§ 3012(c), 3013, 3022(c), (d), Oct. 24, 2018, [132 Stat. 3936](https://www.govinfo.gov/link/statute/132/3936), 3939, 3940; [Pub. L. 116–136, div. A, title III, § 3856(a)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 458](https://www.govinfo.gov/link/statute/134/458); [Pub. L. 116–304, § 2(a)](https://www.govinfo.gov/link/plaw/116/public/304), Jan. 5, 2021, [134 Stat. 4915](https://www.govinfo.gov/link/statute/134/4915); [Pub. L. 117–328, div. FF, title III](https://www.govinfo.gov/link/plaw/117/public/328), §§ 3304, 3503(a)(4)(C), (D), Dec. 29, 2022, [136 Stat. 5832](https://www.govinfo.gov/link/statute/136/5832), 5858; [Pub. L. 119–37, div. B, title VII, § 772(d)](https://www.govinfo.gov/link/plaw/119/public/37), Nov. 12, 2025, [139 Stat. 556](https://www.govinfo.gov/link/statute/139/556).)*

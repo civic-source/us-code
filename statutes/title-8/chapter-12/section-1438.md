@@ -3,9 +3,10 @@ title: "Section 1438 - Former citizens losing citizenship by entering armed forc
 usc_title: 8
 usc_section: "1438"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1438"
-generated_at: "2026-03-30T02:53:10.501Z"
+generated_at: "2026-11-23T21:25:25.194Z"
+status: "active"
 ---
 
 # § 1438. Former citizens losing citizenship by entering armed forces of foreign countries during World War II
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:10.501Z"
 - **(c)** Any person naturalized in accordance with the provisions of this section, or any person who was naturalized in accordance with the provisions of section 323 of the Nationality Act of 1940, shall have, from and after such naturalization, the status of a native-born, or naturalized, citizen of the United States, whichever status existed in the case of such person prior to the loss of citizenship: Provided , That nothing contained herein, or in any other provision of law, shall be construed as conferring United States citizenship retroactively upon any such person during any period in which such person was not a citizen.
 - **(d)** For the purposes of this section, World War II shall be deemed to have begun on September 1, 1939 , and to have terminated on September 2, 1945 .
 - **(e)** This section shall not apply to any person who during World War II served in the armed forces of a country while such country was at war with the United States.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title III, ch. 2, § 327, [66 Stat. 248](https://www.govinfo.gov/link/statute/66/248); [Pub. L. 101–649, title IV, § 407(d)(7)](https://www.govinfo.gov/link/plaw/101/public/649), Nov. 29, 1990, [104 Stat. 5042](https://www.govinfo.gov/link/statute/104/5042).)*

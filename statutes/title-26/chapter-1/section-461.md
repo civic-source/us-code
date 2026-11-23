@@ -3,9 +3,10 @@ title: "Section 461 - General rule for taxable year of deduction"
 usc_title: 26
 usc_section: "461"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 461"
-generated_at: "2026-03-30T02:55:27.704Z"
+generated_at: "2026-11-23T21:26:06.283Z"
+status: "active"
 ---
 
 # § 461. General rule for taxable year of deduction
@@ -143,3 +144,61 @@ generated_at: "2026-03-30T02:55:27.704Z"
     - **(B)** each partner’s or shareholder’s allocable share of the items of income, gain, deduction, or loss of the partnership or S corporation for any taxable year from trades or businesses attributable to the partnership or S corporation shall be taken into account by the partner or shareholder in applying this subsection to the taxable year of such partner or shareholder with or within which the taxable year of the partnership or S corporation ends.
   - **(5)** The Secretary shall prescribe such additional reporting requirements as the Secretary determines necessary to carry out the purposes of this subsection.
   - **(6)** This subsection shall be applied after the application of section 469.
+
+Rule made permanent
+
+Adjustment of amounts for calculation of excess business loss
+
+In general
+
+Technical amendments
+
+Effective Dates.—
+
+In general
+
+Taxpayer may elect earlier application.—
+
+In general
+
+Election treated as change in the method of accounting
+
+Section 461(
+
+to apply in certain cases
+
+Effective date for treatment of mining and solid waste reclamation and closing costs
+
+Rules for nuclear decommissioning costs
+
+Modification of net operating loss carryback period
+
+Exception for Certain Existing Activities and Contracts
+
+Existing accounting practices
+
+Fixed price supply contract.—
+
+In general
+
+No extension or renegotiation
+
+Transitional Rule for Accrued Vacation Pay.—
+
+In general
+
+Vested accrued vacation pay
+
+In general
+
+Certain amounts paid before 1977
+
+“Except as provided in subsections (c) and (d) [set out below]—
+
+“For purposes of section 461(h) of the Internal Revenue Code of 1954 [now 1986], economic performance shall be treated as occurring on the date of a payment to an insurance company if—
+
+“A taxpayer shall be allowed to use the cash receipts and disbursements method of accounting for taxable years ending after January 1, 1982 , if such taxpayer—
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 157; [Pub. L. 86–781, § 6(a)](https://www.govinfo.gov/link/plaw/86/public/781), Sept. 14, 1960, [74 Stat. 1020](https://www.govinfo.gov/link/statute/74/1020); [Pub. L. 87–876, § 3(a)](https://www.govinfo.gov/link/plaw/87/public/876), Oct. 24, 1962, [76 Stat. 1199](https://www.govinfo.gov/link/statute/76/1199); [Pub. L. 88–272, title II, § 223(a)(1)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 76](https://www.govinfo.gov/link/statute/78/76); [Pub. L. 94–455, title II, § 208(a)](https://www.govinfo.gov/link/plaw/94/public/455), title XIX, §§ 1901(a)(69), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1541](https://www.govinfo.gov/link/statute/90/1541), 1775, 1834; [Pub. L. 98–369, div. A, title I, § 91(a)](https://www.govinfo.gov/link/plaw/98/public/369), (e), July 18, 1984, [98 Stat. 598](https://www.govinfo.gov/link/statute/98/598), 607; [Pub. L. 99–514, title VIII](https://www.govinfo.gov/link/plaw/99/public/514), §§ 801(b), 805(c)(5), 823(b)(1), title XVIII, § 1807(a)(1), (2), Oct. 22, 1986, [100 Stat. 2347](https://www.govinfo.gov/link/statute/100/2347), 2362, 2374, 2811; [Pub. L. 100–203, title X, § 10201(b)(5)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–387](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1008(a)(3), 1018(u)(5), Nov. 10, 1988, [102 Stat. 3436](https://www.govinfo.gov/link/statute/102/3436), 3590; [Pub. L. 101–239, title VII, § 7721(c)(10)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2400](https://www.govinfo.gov/link/statute/103/2400); [Pub. L. 101–508, title XI, § 11704(a)(5)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–518](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 104–188, title I, § 1704(t)(24)](https://www.govinfo.gov/link/plaw/104/public/188), (78), Aug. 20, 1996, [110 Stat. 1888](https://www.govinfo.gov/link/statute/110/1888), 1891; [Pub. L. 109–135, title IV, § 412(aa)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2638](https://www.govinfo.gov/link/statute/119/2638); [Pub. L. 110–234, title XV, § 15351(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1523](https://www.govinfo.gov/link/statute/122/1523); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XV, § 15351(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2285; [Pub. L. 113–295, div. A, title II, § 221(a)(58)(B)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4047](https://www.govinfo.gov/link/statute/128/4047); [Pub. L. 115–97, title I, § 11012(a)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2071](https://www.govinfo.gov/link/statute/131/2071); [Pub. L. 115–141, div. U, title IV, § 401(a)(117)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1190](https://www.govinfo.gov/link/statute/132/1190); [Pub. L. 116–136, div. A, title II, § 2304(a)](https://www.govinfo.gov/link/plaw/116/public/136), (b), Mar. 27, 2020, [134 Stat. 356](https://www.govinfo.gov/link/statute/134/356); [Pub. L. 117–2, title IX, § 9041(a)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 122](https://www.govinfo.gov/link/statute/135/122); [Pub. L. 117–169, title I, § 13903(b)(1)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2014](https://www.govinfo.gov/link/statute/136/2014); [Pub. L. 119–21, title VII, § 70601(a)](https://www.govinfo.gov/link/plaw/119/public/21), (b), July 4, 2025, [139 Stat. 283](https://www.govinfo.gov/link/statute/139/283).)*

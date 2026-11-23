@@ -3,9 +3,10 @@ title: "Section 2674 - Operation and control of Pentagon Reservation and defense
 usc_title: 10
 usc_section: "2674"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2674"
-generated_at: "2026-03-30T02:53:38.169Z"
+generated_at: "2026-11-23T21:25:32.649Z"
+status: "active"
 ---
 
 # § 2674. Operation and control of Pentagon Reservation and defense facilities in National Capital Region
@@ -41,3 +42,35 @@ generated_at: "2026-03-30T02:53:38.169Z"
   - **(3)** The term “Pentagon” means that area of land (consisting of approximately 227 acres) and improvements thereon, including parking areas, located in Arlington County, Virginia, containing the Pentagon Office Building and its supporting facilities.
   - **(4)** The term “Mark Center Campus” means that area of land (consisting of approximately 16 acres) and improvements thereon, including parking areas, located in Alexandria, Virginia, and known on the day before the date of the enactment of this paragraph as the Fort Belvoir Mark Center Campus.
   - **(5)** The term “Raven Rock Mountain Complex” means that area of land (consisting of approximately 720 acres) and improvements thereon, including parking areas, at the Raven Rock Mountain Complex and its supporting facilities located in Maryland and Pennsylvania.
+
+Pentagon Reservation
+
+Law Enforcement Authorities and Personnel
+
+Regulations and Enforcement
+
+Authority To Charge for Provision of Certain Services and Facilities
+
+Pentagon Reservation Maintenance Revolving Fund
+
+Definitions
+
+Limitation on Pentagon Renovation Costs
+
+Annual Adjustment
+
+Exclusion of Certain Costs
+
+Certification Cost Reports
+
+Duration of Certification Requirement
+
+Memorial Authorized
+
+Acceptance of Contributions
+
+Deposit of Contributions
+
+## Source Credit
+
+*(Added [Pub. L. 101–510, div. B, title XXVIII, § 2804(a)(1)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1784](https://www.govinfo.gov/link/statute/104/1784); amended [Pub. L. 102–190, div. A, title X, § 1061(a)(18)](https://www.govinfo.gov/link/plaw/102/public/190), div. B, title XXVIII, § 2864, Dec. 5, 1991, [105 Stat. 1473](https://www.govinfo.gov/link/statute/105/1473), 1561; [Pub. L. 104–106, div. A, title XV, § 1502(a)(24)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 505](https://www.govinfo.gov/link/statute/110/505); [Pub. L. 104–201, div. A, title III, § 369(a)](https://www.govinfo.gov/link/plaw/104/public/201), (b)(1), Sept. 23, 1996, [110 Stat. 2498](https://www.govinfo.gov/link/statute/110/2498); [Pub. L. 106–65, div. A, title X, § 1067(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774); [Pub. L. 107–107, div. A, title XI, § 1101](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1234](https://www.govinfo.gov/link/statute/115/1234); [Pub. L. 108–136, div. A, title IX, § 933](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1581](https://www.govinfo.gov/link/statute/117/1581); [Pub. L. 111–383, div. B, title XXVIII, § 2802](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4458](https://www.govinfo.gov/link/statute/124/4458); [Pub. L. 112–81, div. B, title XXVIII, § 2811](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1686](https://www.govinfo.gov/link/statute/125/1686); [Pub. L. 114–328, div. A, title IX, § 952(a)](https://www.govinfo.gov/link/plaw/114/public/328), (b), div. B, title XXVIII, § 2829E, Dec. 23, 2016, [130 Stat. 2374](https://www.govinfo.gov/link/statute/130/2374), 2375, 2733; [Pub. L. 115–91, div. A, title X, § 1081(d)(16)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1600](https://www.govinfo.gov/link/statute/131/1600).)*

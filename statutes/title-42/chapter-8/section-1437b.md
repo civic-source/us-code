@@ -3,9 +3,10 @@ title: "Section 1437b - Loans and commitments to make loans for low-income housi
 usc_title: 42
 usc_section: "1437b"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1437b"
-generated_at: "2026-03-30T02:56:11.077Z"
+generated_at: "2026-11-23T21:26:31.982Z"
+status: "active"
 ---
 
 # § 1437b. Loans and commitments to make loans for low-income housing projects
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.077Z"
     - **(A)** On April 7, 1986 , each note or other obligation issued by the Secretary to the Secretary of the Treasury pursuant to subsection (b), together with any promise to repay the principal and unpaid interest that has accrued on each note or obligation, shall be forgiven; and any other term or condition specified by each such obligation shall be canceled.
     - **(B)** On September 30, 1986 , and on any subsequent September 30, each such note or other obligation issued by the Secretary to the Secretary of the Treasury pursuant to subsection (b) during the fiscal year ending on such date, together with any promise to repay the principal and unpaid interest that has accrued on each note or obligation, shall be forgiven; and any other term or condition specified by each such obligation shall be canceled.
   - **(3)** Any amount of budget authority (and contract authority) that becomes available during any fiscal year as a result of the forgiveness of any loan, note, or obligation under this subsection shall be rescinded.
+
+## Source Credit
+
+*(Sept. 1, 1937, ch. 896, title I, § 4, as added [Pub. L. 93–383, title II, § 201(a)](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 656](https://www.govinfo.gov/link/statute/88/656); amended [Pub. L. 97–35, title III, § 322(c)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 402](https://www.govinfo.gov/link/statute/95/402); [Pub. L. 98–479, title II, § 203(b)(1)](https://www.govinfo.gov/link/plaw/98/public/479), Oct. 17, 1984, [98 Stat. 2229](https://www.govinfo.gov/link/statute/98/2229); [Pub. L. 99–272, title III, § 3004](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 102](https://www.govinfo.gov/link/statute/100/102); renumbered title I, [Pub. L. 100–358, § 5](https://www.govinfo.gov/link/plaw/100/public/358), June 29, 1988, [102 Stat. 681](https://www.govinfo.gov/link/statute/102/681); [Pub. L. 101–625, title V, § 572(2)](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4236](https://www.govinfo.gov/link/statute/104/4236).)*

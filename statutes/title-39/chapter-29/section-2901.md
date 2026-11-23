@@ -3,9 +3,10 @@ title: "Section 2901 - Definitions"
 usc_title: 39
 usc_section: "2901"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 2901"
-generated_at: "2026-03-30T02:55:43.691Z"
+generated_at: "2026-11-23T21:26:12.778Z"
+status: "active"
 ---
 
 # § 2901. Definitions
@@ -17,3 +18,13 @@ In this chapter:
   - **(3)** The term “underutilized property” means a portion or the entirety of any real property that is postal property, including any improvements, that is used—
     - **(A)** irregularly or intermittently by the Postal Service for program purposes of the Postal Service; or
     - **(B)** for program purposes that can be satisfied only with a portion of the property.
+
+Excess property
+
+Postal property
+
+Underutilized property
+
+## Source Credit
+
+*(Added [Pub. L. 114–318, § 4(a)](https://www.govinfo.gov/link/plaw/114/public/318), Dec. 16, 2016, [130 Stat. 1613](https://www.govinfo.gov/link/statute/130/1613).)*

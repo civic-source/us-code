@@ -3,9 +3,10 @@ title: "Section 912a - Art. 112a. Wrongful use, possession, etc., of controlled 
 usc_title: 10
 usc_section: "912a"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 912a"
-generated_at: "2026-03-30T02:53:38.085Z"
+generated_at: "2026-11-23T21:25:32.350Z"
+status: "active"
 ---
 
 # § 912a. Art. 112a. Wrongful use, possession, etc., of controlled substances
@@ -15,3 +16,19 @@ generated_at: "2026-03-30T02:53:38.085Z"
   - **(1)** Opium, heroin, cocaine, amphetamine, lysergic acid diethylamide, methamphetamine, phencyclidine, barbituric acid, and marijuana and any compound or derivative of any such substance.
   - **(2)** Any substance not specified in clause (1) that is listed on a schedule of controlled substances prescribed by the President for the purposes of this article.
   - **(3)** Any other substance not specified in clause (1) or contained on a list prescribed by the President under clause (2) that is listed in schedules I through V of section 202 of the Controlled Substances Act ( 21 U.S.C. 812 ).
+
+Establishment of Procedures
+
+Transportation of Specimens
+
+Tests for Use of LSD
+
+Rule of Construction
+
+Controlled Substances Covered
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 98–209, § 8(a)](https://www.govinfo.gov/link/plaw/98/public/209), Dec. 6, 1983, [97 Stat. 1403](https://www.govinfo.gov/link/statute/97/1403).)*

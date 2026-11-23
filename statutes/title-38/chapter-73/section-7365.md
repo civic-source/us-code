@@ -3,9 +3,10 @@ title: "Section 7365 - Coverage of employees under certain Federal tort claims l
 usc_title: 38
 usc_section: "7365"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7365"
-generated_at: "2026-03-30T02:55:53.529Z"
+generated_at: "2026-11-23T21:26:16.862Z"
+status: "active"
 ---
 
 # § 7365. Coverage of employees under certain Federal tort claims laws
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:53.529Z"
   - **(1)** has an appointment with the Department, whether with or without compensation;
   - **(2)** is directly or indirectly involved or engaged in research or education and training that is approved in accordance with procedures established by the Under Secretary for Health for research or education and training; and
   - **(3)** performs such duties under the supervision of Department personnel.
+
+## Source Credit
+
+*(Added [Pub. L. 108–170, title IV, § 402(a)(1)](https://www.govinfo.gov/link/plaw/108/public/170), Dec. 6, 2003, [117 Stat. 2061](https://www.govinfo.gov/link/statute/117/2061), § 7364A; renumbered § 7365, [Pub. L. 111–163, title VIII, § 805(a)](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1179](https://www.govinfo.gov/link/statute/124/1179).)*

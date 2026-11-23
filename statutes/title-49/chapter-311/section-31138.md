@@ -3,9 +3,10 @@ title: "Section 31138 - Minimum financial responsibility for transporting passen
 usc_title: 49
 usc_section: "31138"
 chapter: 311
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 31138"
-generated_at: "2026-03-30T02:56:19.359Z"
+generated_at: "2026-11-23T21:26:40.784Z"
+status: "active"
 ---
 
 # § 31138. Minimum financial responsibility for transporting passengers
@@ -44,3 +45,92 @@ generated_at: "2026-03-30T02:56:19.359Z"
   - **(2)** providing taxicab service (as defined in section 13102);
   - **(3)** carrying not more than 15 individuals in a single, daily round trip to and from work; or
   - **(4)** providing transportation service within a transit service area under an agreement with a Federal, State, or local government funded, in whole or in part, with a grant under section 5307, 5310, or 5311, including transportation designed and carried out to meet the special needs of elderly individuals and individuals with disabilities; except that, in any case in which the transit service area is located in more than 1 State, the minimum level of financial responsibility for such motor vehicle will be at least the highest level required for any of such States.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 31138(a) | 49:10927 (note). | Sept. 20, 1982 , Pub. L. 97–261, § 18(a) , 96 Stat. 1121 . |
+| 31138(b) | 49:10927 (note). | Sept. 20, 1982 , Pub. L. 97–261, § 18(b) , (c), 96 Stat. 1121 . |
+| 31138(c) | 49:10927 (note). | Sept. 20, 1982 , Pub. L. 97–261, § 18(d) , 96 Stat. 1121 ; Oct. 30, 1984 , Pub. L. 98–554, § 224 , 98 Stat. 2847 . |
+| 31138(d) | 49:10927 (note). | Sept. 20, 1982 , Pub. L. 97–261, § 18(e) , 96 Stat. 1122 . |
+| 31138(e) | 49:10927 (note). | Sept. 20, 1982 , Pub. L. 97–261, § 18(f) , (g), 96 Stat. 1122 . |
+
+
+General Requirement.—
+
+Transportation of passengers for compensation
+
+Transportation of passengers not for compensation
+
+Minimum Amounts
+
+Evidence of Financial Responsibility
+
+Other persons
+
+Civil Penalty
+
+Nonapplication
+
+Historical and Revision Notes
+
+31138(a)
+
+Sept. 20, 1982
+
+Pub. L. 97–261, § 18(a)
+
+96 Stat. 1121
+
+31138(b)
+
+Sept. 20, 1982
+
+Pub. L. 97–261, § 18(b)
+
+96 Stat. 1121
+
+31138(c)
+
+Sept. 20, 1982
+
+Pub. L. 97–261, § 18(d)
+
+96 Stat. 1121
+
+Oct. 30, 1984
+
+Pub. L. 98–554, § 224
+
+98 Stat. 2847
+
+31138(d)
+
+Sept. 20, 1982
+
+Pub. L. 97–261, § 18(e)
+
+96 Stat. 1122
+
+31138(e)
+
+Sept. 20, 1982
+
+Pub. L. 97–261, § 18(f)
+
+96 Stat. 1122
+
+Transporting Property
+
+Transporting Passengers.—
+
+In general
+
+Study contents
+
+Consultation
+
+Report
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1005](https://www.govinfo.gov/link/statute/108/1005); [Pub. L. 104–88, title I, § 104(c)](https://www.govinfo.gov/link/plaw/104/public/88), (d), Dec. 29, 1995, [109 Stat. 919](https://www.govinfo.gov/link/statute/109/919); [Pub. L. 107–298, § 3(b)(2)](https://www.govinfo.gov/link/plaw/107/public/298), Nov. 26, 2002, [116 Stat. 2343](https://www.govinfo.gov/link/statute/116/2343); [Pub. L. 109–59, title IV](https://www.govinfo.gov/link/plaw/109/public/59), §§ 4120(a), 4121, Aug. 10, 2005, [119 Stat. 1733](https://www.govinfo.gov/link/statute/119/1733), 1734; [Pub. L. 110–244, title III, § 305(a)](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1619](https://www.govinfo.gov/link/statute/122/1619).)*

@@ -3,9 +3,10 @@ title: "Section 1 - Enjoining or restraining violations"
 usc_title: 7
 usc_section: "1"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-30T02:53:42.246Z"
+generated_at: "2026-11-23T21:25:27.861Z"
+status: "active"
 ---
 
 # § 13a–1. Enjoining or restraining violations
@@ -25,3 +26,11 @@ generated_at: "2026-03-30T02:53:42.246Z"
 - **(f)** In lieu of bringing actions itself pursuant to this section, the Commission may request the Attorney General to bring the action.
 - **(g)** Where the Commission elects to bring the action, it shall inform the Attorney General of such suit and advise him of subsequent developments.
 - **(h)** The Commission shall provide the Securities and Exchange Commission with notice of the commencement of any proceeding and a copy of any order entered by the Commission against any futures commission merchant or introducing broker registered pursuant to section 6f(a)(2) of this title , any floor broker or floor trader exempt from registration pursuant to section 6f(a)(3) of this title , any associated person exempt from registration pursuant to section 6k(6) of this title , or any board of trade designated as a contract market pursuant to section 7b–1 of this title .
+
+In general
+
+Equitable remedies
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 6c, as added [Pub. L. 93–463, title II, § 211](https://www.govinfo.gov/link/plaw/93/public/463), Oct. 23, 1974, [88 Stat. 1402](https://www.govinfo.gov/link/statute/88/1402); amended [Pub. L. 97–444, title II, § 220](https://www.govinfo.gov/link/plaw/97/public/444), Jan. 11, 1983, [96 Stat. 2308](https://www.govinfo.gov/link/statute/96/2308); [Pub. L. 99–641, title I, § 104](https://www.govinfo.gov/link/plaw/99/public/641), Nov. 10, 1986, [100 Stat. 3557](https://www.govinfo.gov/link/statute/100/3557); [Pub. L. 102–546, title II, § 221](https://www.govinfo.gov/link/plaw/102/public/546), Oct. 28, 1992, [106 Stat. 3614](https://www.govinfo.gov/link/statute/106/3614); [Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(15), title II, § 253(c)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–409, 2763A–449; [Pub. L. 110–234, title XIII, § 13103(c)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1434](https://www.govinfo.gov/link/statute/122/1434); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIII, § 13103(c), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2196; [Pub. L. 111–203, title VII](https://www.govinfo.gov/link/plaw/111/public/203), §§ 741(b)(5), 744, July 21, 2010, [124 Stat. 1731](https://www.govinfo.gov/link/statute/124/1731), 1735.)*

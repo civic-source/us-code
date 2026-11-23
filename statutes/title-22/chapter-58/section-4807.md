@@ -3,9 +3,10 @@ title: "Section 4807 - Establishment of Visa and Passport Security Program in th
 usc_title: 22
 usc_section: "4807"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4807"
-generated_at: "2026-03-30T02:55:05.414Z"
+generated_at: "2026-11-23T21:25:58.650Z"
+status: "active"
 ---
 
 # § 4807. Establishment of Visa and Passport Security Program in the Department of State
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:05.414Z"
 - **(d)** Not later than 90 days after the date on which the strategy required under section 7201 1 is submitted to Congress, the Assistant Secretary for Diplomatic Security shall submit to Congress a report containing—
   - **(1)** a description of the strategic plan prepared under subsection (b); and
   - **(2)** an evaluation of the feasibility of establishing civil service positions in field offices of the Bureau of Diplomatic Security to investigate visa and passport fraud, including an evaluation of whether to allow diplomatic security agents to convert to civil service officers to fill such positions.
+
+## Source Credit
+
+*([Pub. L. 108–458, title VII, § 7218](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3833](https://www.govinfo.gov/link/statute/118/3833).)*

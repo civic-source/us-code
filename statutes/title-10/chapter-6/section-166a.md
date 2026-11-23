@@ -3,9 +3,10 @@ title: "Section 166a - Combatant commands: funding through the Chairman of Joint
 usc_title: 10
 usc_section: "166a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 166a"
-generated_at: "2026-03-30T02:53:38.042Z"
+generated_at: "2026-11-23T21:25:32.228Z"
+status: "active"
 ---
 
 # § 166a. Combatant commands: funding through the Chairman of Joint Chiefs of Staff
@@ -36,3 +37,27 @@ generated_at: "2026-03-30T02:53:38.042Z"
     - **(C)** not more than $10,000,000 may be used to provide military education and training (including transportation, translation, and administrative expenses) to military and related civilian personnel of foreign countries as authorized by subsection (b)(7).
   - **(2)** Funds may not be provided under this section for any activity that has been denied authorization by Congress.
 - **(f)** For purposes of this section, the Commander, United States Element, North American Aerospace Defense Command shall be considered to be a commander of a combatant command.
+
+Combatant Commander Initiative Fund
+
+Authorized Activities
+
+Priority
+
+Relationship to Other Funding
+
+Limitations
+
+Inclusion of NORAD
+
+Combatant Commander Initiative Fund
+
+CINC Initiative Fund
+
+Priority
+
+Priority
+
+## Source Credit
+
+*(Added [Pub. L. 102–190, div. A, title IX, § 902(a)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1450](https://www.govinfo.gov/link/statute/105/1450); amended [Pub. L. 102–396, title IX, § 9128](https://www.govinfo.gov/link/plaw/102/public/396), Oct. 6, 1992, [106 Stat. 1935](https://www.govinfo.gov/link/statute/106/1935); [Pub. L. 102–484, div. A, title IX, § 934](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2477](https://www.govinfo.gov/link/statute/106/2477); [Pub. L. 103–35, title II, § 201(a)](https://www.govinfo.gov/link/plaw/103/public/35), May 31, 1993, [107 Stat. 97](https://www.govinfo.gov/link/statute/107/97); [Pub. L. 105–85, div. A, title IX, § 902](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1854](https://www.govinfo.gov/link/statute/111/1854); [Pub. L. 108–136, div. A, title IX, § 902(a)(2)](https://www.govinfo.gov/link/plaw/108/public/136), (b), (c), Nov. 24, 2003, [117 Stat. 1558](https://www.govinfo.gov/link/statute/117/1558); [Pub. L. 109–364, div. A, title IX, § 902](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2351](https://www.govinfo.gov/link/statute/120/2351); [Pub. L. 111–84, div. A, title IX, § 904](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2424](https://www.govinfo.gov/link/statute/123/2424); [Pub. L. 114–328, div. A, title VIII, § 833(b)(1)(C)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2284](https://www.govinfo.gov/link/statute/130/2284); [Pub. L. 117–81, div. A, title X, § 1002](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1883](https://www.govinfo.gov/link/statute/135/1883); [Pub. L. 118–31, div. A, title XII, § 1202(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 441](https://www.govinfo.gov/link/statute/137/441).)*

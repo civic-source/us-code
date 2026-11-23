@@ -3,9 +3,10 @@ title: "Section 47146 - General aviation program runway extension pilot program"
 usc_title: 49
 usc_section: "47146"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 47146"
-generated_at: "2026-03-30T02:56:19.406Z"
+generated_at: "2026-11-23T21:26:40.989Z"
+status: "active"
 ---
 
 # § 47146. General aviation program runway extension pilot program
@@ -30,3 +31,27 @@ generated_at: "2026-03-30T02:56:19.406Z"
   - **(2)** the number of large aircraft that accessed each general aviation airport that received a grant under the pilot program in comparison to the number of such aircraft that accessed the airport prior to the date of enactment of the FAA Reauthorization Act of 2024, based on data provided to the Secretary by the airport sponsor not later than 6 months before the submission date described in this subsection; and
   - **(3)** a description, provided to the Secretary by the airport sponsor not later than 6 months before the submission date described in this subsection, of the economic development opportunities supported by increasing the runway length at general aviation airports.
 - **(f)** For each of fiscal years 2025 through 2028, the Secretary may use funds under section 47116(b)(2) to carry out this section.
+
+Establishment
+
+Grants.—
+
+In general
+
+Use of funds
+
+Eligibility
+
+Selection
+
+Project Justification
+
+Federal Share
+
+Report to Congress
+
+Funding
+
+## Source Credit
+
+*(Added [Pub. L. 118–63, title VII, § 726(a)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1269](https://www.govinfo.gov/link/statute/138/1269).)*

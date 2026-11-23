@@ -3,9 +3,10 @@ title: "Section 441 - Administration"
 usc_title: 6
 usc_section: "441"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 441"
-generated_at: "2026-03-30T02:53:09.463Z"
+generated_at: "2026-11-23T21:25:25.790Z"
+status: "active"
 ---
 
 # § 441. Administration
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:09.463Z"
   - **(6)** Evaluation of all scientific studies that can be feasibly conducted in order to assess the capability of the technology to substantially reduce risks of harm.
   - **(7)** Anti-terrorism technology that would be effective in facilitating the defense against acts of terrorism, including technologies that prevent, defeat or respond to such acts.
 - **(c)** The Secretary may issue such regulations, after notice and comment in accordance with section 553 of title 5 , as may be necessary to carry out this part.
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 862](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2238](https://www.govinfo.gov/link/statute/116/2238).)*

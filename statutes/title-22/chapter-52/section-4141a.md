@@ -3,9 +3,10 @@ title: "Section 4141a - Foreign Service Internship Program"
 usc_title: 22
 usc_section: "4141a"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4141a"
-generated_at: "2026-03-30T02:55:05.408Z"
+generated_at: "2026-11-23T21:25:58.632Z"
+status: "active"
 ---
 
 # § 4141a. Foreign Service Internship Program
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.408Z"
 - **(f)** Each intern shall be assigned a career Foreign Service officer as a mentor. The mentor shall act as a counselor and advisor throughout each summer internship and as a personal Foreign Service contact throughout the period of participation in the program. In the assignment of mentors, the Secretary shall give preference to Foreign Service officers who volunteer for such assignment and who may be role models for the interns.
 - **(g)** Interns shall be compensated at a rate determined by the Secretary which shall not be less than the compensation of comparable summer interns at the Department of State. As determined by the Secretary, for the purposes of travel, housing, health insurance, and other appropriate benefits, interns shall be considered employees of the Foreign Service during each internship period.
 - **(h)** The Secretary of State shall study the feasibility of administering the Foreign Service examination in separate segments over several years. Not later than 180 days after February 16, 1990 , the Secretary shall submit a report summarizing the findings of such a study to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 1202](https://www.govinfo.gov/link/plaw/96/public/465), as added [Pub. L. 101–246, title I, § 149(b)](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 40](https://www.govinfo.gov/link/statute/104/40); amended [Pub. L. 107–132, § 1(b)](https://www.govinfo.gov/link/plaw/107/public/132), Jan. 16, 2002, [115 Stat. 2412](https://www.govinfo.gov/link/statute/115/2412).)*

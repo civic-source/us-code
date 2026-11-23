@@ -3,9 +3,10 @@ title: "Section 1969 - Deductions; payment; investment; expenses"
 usc_title: 38
 usc_section: "1969"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1969"
-generated_at: "2026-03-30T02:55:53.492Z"
+generated_at: "2026-11-23T21:26:16.681Z"
+status: "active"
 ---
 
 # § 1969. Deductions; payment; investment; expenses
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:53.492Z"
     - **(B)** The premium amounts shall be determined on the basis of sound actuarial principles and shall include an amount necessary to cover the administrative costs to the insurer or insurers providing such insurance.
     - **(C)** Each premium rate for the first policy year shall be continued for subsequent policy years, except that the rate may be adjusted for any such subsequent policy year on the basis of the experience under the policy, as determined by the Secretary in advance of that policy year.
 - **(h)** Any overpayment of a premium for insurance coverage for an insurable dependent of a member that is terminated under section 1968(a)(5) of this title shall be refunded to the member.
+
+## Source Credit
+
+*(Added [Pub. L. 89–214, § 1(a)](https://www.govinfo.gov/link/plaw/89/public/214), Sept. 29, 1965, [79 Stat. 881](https://www.govinfo.gov/link/statute/79/881), § 769; amended [Pub. L. 91–291, § 4](https://www.govinfo.gov/link/plaw/91/public/291), June 25, 1970, [84 Stat. 329](https://www.govinfo.gov/link/statute/84/329); [Pub. L. 93–289](https://www.govinfo.gov/link/plaw/93/public/289), §§ 6, 10(2), May 24, 1974, [88 Stat. 168](https://www.govinfo.gov/link/statute/88/168), 172; [Pub. L. 97–66, title IV, § 402](https://www.govinfo.gov/link/plaw/97/public/66), Oct. 17, 1981, [95 Stat. 1031](https://www.govinfo.gov/link/statute/95/1031); [Pub. L. 99–576, title VII, § 701(39)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3293](https://www.govinfo.gov/link/statute/100/3293); [Pub. L. 100–322, title III, § 332(a)](https://www.govinfo.gov/link/plaw/100/public/322), May 20, 1988, [102 Stat. 537](https://www.govinfo.gov/link/statute/102/537); renumbered § 1969 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406](https://www.govinfo.gov/link/statute/105/404); [Pub. L. 103–337, div. A, title VI, § 651(d)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2793](https://www.govinfo.gov/link/statute/108/2793); [Pub. L. 103–446, title XII, § 1201(e)(8)](https://www.govinfo.gov/link/plaw/103/public/446), (i)(3), Nov. 2, 1994, [108 Stat. 4685](https://www.govinfo.gov/link/statute/108/4685), 4688; [Pub. L. 104–106, div. A, title VI, § 647(a)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 370](https://www.govinfo.gov/link/statute/110/370); [Pub. L. 104–275, title IV](https://www.govinfo.gov/link/plaw/104/public/275), §§ 402(d), 405(b)(1)(C), Oct. 9, 1996, [110 Stat. 3337](https://www.govinfo.gov/link/statute/110/3337), 3339; [Pub. L. 106–419, title III, § 313(b)](https://www.govinfo.gov/link/plaw/106/public/419), Nov. 1, 2000, [114 Stat. 1855](https://www.govinfo.gov/link/statute/114/1855); [Pub. L. 107–14, § 4(d)](https://www.govinfo.gov/link/plaw/107/public/14), June 5, 2001, [115 Stat. 29](https://www.govinfo.gov/link/statute/115/29); [Pub. L. 109–13, div. A, title I, § 1012(c)(2)](https://www.govinfo.gov/link/plaw/109/public/13), May 11, 2005, [119 Stat. 245](https://www.govinfo.gov/link/statute/119/245); [Pub. L. 109–80, § 2](https://www.govinfo.gov/link/plaw/109/public/80), Sept. 30, 2005, [119 Stat. 2045](https://www.govinfo.gov/link/statute/119/2045); [Pub. L. 110–389, title IV, § 403(a)(2)(B)](https://www.govinfo.gov/link/plaw/110/public/389), (c), Oct. 10, 2008, [122 Stat. 4174](https://www.govinfo.gov/link/statute/122/4174).)*

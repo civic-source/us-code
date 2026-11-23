@@ -3,12 +3,17 @@ title: "Section 1583a - Development of technology to detect illicit narcotics"
 usc_title: 19
 usc_section: "1583a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1583a"
-generated_at: "2026-03-30T02:54:24.644Z"
+generated_at: "2026-11-23T21:25:42.728Z"
+status: "active"
 ---
 
 # § 1583a. Development of technology to detect illicit narcotics
 
 - **(a)** The Postmaster General and the Commissioner of U.S. Customs and Border Protection, in coordination with the heads of other agencies as appropriate, shall collaborate to identify and develop technology for the detection of illicit fentanyl, other synthetic opioids, and other narcotics and psychoactive substances entering the United States by mail.
 - **(b)** The Postmaster General and the Commissioner shall conduct outreach to private sector entities to gather information regarding the current state of technology to identify areas for innovation relating to the detection of illicit fentanyl, other synthetic opioids, and other narcotics and psychoactive substances entering the United States.
+
+## Source Credit
+
+*([Pub. L. 115–271, title VIII, § 8006](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 4080](https://www.govinfo.gov/link/statute/132/4080).)*

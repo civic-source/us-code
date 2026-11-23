@@ -3,9 +3,10 @@ title: "Section 6617 - Law enforcement authority of Sergeant-at-Arms and Doorkee
 usc_title: 2
 usc_section: "6617"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 6617"
-generated_at: "2026-03-30T02:53:04.843Z"
+generated_at: "2026-11-23T21:25:21.365Z"
+status: "active"
 ---
 
 # § 6617. Law enforcement authority of Sergeant-at-Arms and Doorkeeper of the Senate
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:04.843Z"
   - **(2)** Current certification in the use of firearms by the appropriate Federal law enforcement entity or an equivalent non-Federal entity.
   - **(3)** Any other firearms qualification required for members of the Capitol Police.
 - **(c)** The Committee on Rules and Administration of the Senate shall have authority to prescribe regulations to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 111–145, § 8](https://www.govinfo.gov/link/plaw/111/public/145), Mar. 4, 2010, [124 Stat. 56](https://www.govinfo.gov/link/statute/124/56).)*

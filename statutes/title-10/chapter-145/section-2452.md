@@ -3,9 +3,10 @@ title: "Section 2452 - Duties of Secretary of Defense"
 usc_title: 10
 usc_section: "2452"
 chapter: 145
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2452"
-generated_at: "2026-03-30T02:53:38.159Z"
+generated_at: "2026-11-23T21:25:32.612Z"
+status: "active"
 ---
 
 # § 2452. Duties of Secretary of Defense
@@ -23,3 +24,24 @@ The Secretary of Defense shall—
   - **(6)** assign responsibility for parts of the cataloging and the standardization programs to the military departments, bureaus, and services within the Department of Defense, when practical and consistent with their capacity and interest in those supplies;
   - **(7)** establish time schedules for assignments made under clause (6); and
   - **(8)** make final decisions in all matters concerned with the cataloging and standardization programs.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 2452 | 5:173c. | July 1, 1952, ch. 539, § 5 , 66 Stat. 319 ; 1953 Reorg. Plan No. 6, § 1(a) (as applicable to Defense Supply Management Agency), eff. June 30, 1953 , 67 Stat. 638 . |
+
+
+Historical and Revision Notes
+
+2452
+
+July 1, 1952, ch. 539, § 5
+
+66 Stat. 319
+
+June 30, 1953
+
+67 Stat. 638
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 139.)*

@@ -3,9 +3,10 @@ title: "Section 366 - Utility service"
 usc_title: 11
 usc_section: "366"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 366"
-generated_at: "2026-03-30T02:53:53.876Z"
+generated_at: "2026-11-23T21:25:34.906Z"
+status: "active"
 ---
 
 # § 366. Utility service
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:53.876Z"
       - **(ii)** the payment by the debtor of charges for utility service in a timely manner before the date of the filing of the petition; or
       - **(iii)** the availability of an administrative expense priority.
   - **(4)** Notwithstanding any other provision of law, with respect to a case subject to this subsection, a utility may recover or set off against a security deposit provided to the utility by the debtor before the date of the filing of the petition without notice or order of the court.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2578](https://www.govinfo.gov/link/statute/92/2578); [Pub. L. 98–353, title III, § 443](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 373](https://www.govinfo.gov/link/statute/98/373); [Pub. L. 109–8, title IV, § 417](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 108](https://www.govinfo.gov/link/statute/119/108); [Pub. L. 116–260, div. FF, title X, § 1001(h)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3221](https://www.govinfo.gov/link/statute/134/3221).)*

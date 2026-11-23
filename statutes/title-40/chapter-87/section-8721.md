@@ -3,9 +3,10 @@ title: "Section 8721 - Comprehensive plan for the National Capital"
 usc_title: 40
 usc_section: "8721"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 8721"
-generated_at: "2026-03-30T02:55:43.384Z"
+generated_at: "2026-11-23T21:26:14.919Z"
+status: "active"
 ---
 
 # § 8721. Comprehensive plan for the National Capital
@@ -33,3 +34,105 @@ generated_at: "2026-03-30T02:55:43.384Z"
 - **(h)**
   - **(1)** The Commission and the Mayor jointly shall establish procedures for appropriate meaningful continuing consultation throughout the planning process for the National Capital.
   - **(2)** In order that the National Capital may be developed in accordance with the comprehensive plan, the Commission, with the consent of each agency concerned as to its representation, may establish advisory and coordinating committees composed of representatives of agencies of the Federal and District of Columbia Governments as may be necessary or helpful to obtain the maximum amount of cooperation and correlation of effort among the various agencies. As it considers appropriate, the Commission may invite representatives of the planning and developmental agencies of the environs to participate in the work of the committees.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8721(a) | 40:71c(a), (d). | June 6, 1924, ch. 270, § 4(a) , (d), (e) (1st par.), as added July 19, 1952, ch. 949, § 1 , 66 Stat. 785 , 787; Pub. L. 93–198, title II § 203(c)(1), (2), Dec. 24, 1973 , 87 Stat. 782 . |
+| 8721(b) | 40:71a(a)(3). | June 6, 1924, ch. 270, § 2(a)(3) , (4), as added July 19, 1952, ch. 949, § 1 , 66 Stat. 782 ; Pub. L. 93–198, title II, § 203(a) , Dec. 24, 1973 , 87 Stat. 779 . |
+| 8721(c), (d) | 40:71a(a)(4)(A)–(C). |  |
+| 8721(e) | 40:71c(e) (1st par.). |  |
+| 8721(f) | 40:71a(a)(4)(E). |  |
+| 8721(g) | 40:71a(a)(4)(D). |  |
+| 8721(h)(1) | 40:71a(a)(4)(F). |  |
+| 8721(h)(2) | 40:71a(d). | June 6, 1924, ch. 270, § 2(d) , as added July 19, 1952, ch. 949, § 1 , 66 Stat. 783 . |
+
+
+Preparation and Adoption by Commission
+
+Review by District of Columbia
+
+Commission Response to Council Action.—
+
+Period of review
+
+No negative impact
+
+Negative impact.—
+
+Certification to council
+
+Response of council
+
+Findings and recommendations accepted
+
+Findings and recommendations rejected
+
+Resubmission Deemed New Element or Amendment
+
+Review, Hearings, and Citizen Advisory Councils.—
+
+Review
+
+Hearings and citizen advisory councils
+
+Extension of Time Limitations
+
+Publishing Comprehensive Plan
+
+Procedures for Consultation.—
+
+Commission and mayor
+
+Government agencies
+
+Historical and Revision Notes
+
+8721(a)
+
+June 6, 1924, ch. 270, § 4(a)
+
+July 19, 1952, ch. 949, § 1
+
+66 Stat. 785
+
+Pub. L. 93–198, title II
+
+Dec. 24, 1973
+
+87 Stat. 782
+
+8721(b)
+
+June 6, 1924, ch. 270, § 2(a)(3)
+
+July 19, 1952, ch. 949, § 1
+
+66 Stat. 782
+
+Pub. L. 93–198, title II, § 203(a)
+
+Dec. 24, 1973
+
+87 Stat. 779
+
+8721(c), (d)
+
+8721(e)
+
+8721(f)
+
+8721(g)
+
+8721(h)(1)
+
+8721(h)(2)
+
+June 6, 1924, ch. 270, § 2(d)
+
+July 19, 1952, ch. 949, § 1
+
+66 Stat. 783
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1219](https://www.govinfo.gov/link/statute/116/1219).)*

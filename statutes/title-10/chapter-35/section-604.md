@@ -3,9 +3,10 @@ title: "Section 604 - Senior joint officer positions: recommendations to the Sec
 usc_title: 10
 usc_section: "604"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 604"
-generated_at: "2026-03-30T02:53:38.067Z"
+generated_at: "2026-11-23T21:25:32.291Z"
+status: "active"
 ---
 
 # § 604. Senior joint officer positions: recommendations to the Secretary of Defense
@@ -18,3 +19,13 @@ generated_at: "2026-03-30T02:53:38.067Z"
 - **(b)** Subsection (a) applies to the following positions:
   - **(1)** Commander of a combatant command.
   - **(2)** Commander, United States Forces, Korea.
+
+Joint
+
+Star Officer Positions
+
+Covered Positions
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title IV, § 405(c)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2745](https://www.govinfo.gov/link/statute/108/2745); amended [Pub. L. 104–201, div. A, title IV, § 404(a)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2506](https://www.govinfo.gov/link/statute/110/2506); [Pub. L. 106–65, div. A, title V, § 509(a)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 592](https://www.govinfo.gov/link/statute/113/592); [Pub. L. 107–314, div. A, title IV, § 405(a)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2526](https://www.govinfo.gov/link/statute/116/2526); [Pub. L. 108–136, div. A, title V, § 504(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1456](https://www.govinfo.gov/link/statute/117/1456); [Pub. L. 114–328, div. A, title V, § 502(e)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2102](https://www.govinfo.gov/link/statute/130/2102); [Pub. L. 116–283, div. A, title IX, § 924(b)(15)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3823](https://www.govinfo.gov/link/statute/134/3823).)*

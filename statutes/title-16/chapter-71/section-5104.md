@@ -3,9 +3,10 @@ title: "Section 5104 - State implementation of coastal fishery management plans"
 usc_title: 16
 usc_section: "5104"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 5104"
-generated_at: "2026-03-30T02:54:23.050Z"
+generated_at: "2026-11-23T21:25:52.027Z"
+status: "active"
 ---
 
 # § 5104. State implementation of coastal fishery management plans
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:23.050Z"
   - **(1)** Each State identified under subsection (a) with respect to a coastal fishery management plan shall implement and enforce the measures of such plan within the timeframe established in the plan.
   - **(2)** Within 90 days after December 20, 1993 , the Commission shall establish a schedule of timeframes within which States shall implement and enforce the measures of coastal fishery management plans in existence before December 20, 1993 . No such timeframe shall exceed 12 months after the date on which the schedule is adopted.
 - **(c)** The Commission shall, at least annually, review each State’s implementation and enforcement of coastal fishery management plans for the purpose of determining whether such State is effectively implementing and enforcing each such plan. Upon completion of such reviews, the Commission shall report the results of the reviews to the Secretaries.
+
+## Source Credit
+
+*([Pub. L. 103–206, title VIII, § 805](https://www.govinfo.gov/link/plaw/103/public/206), Dec. 20, 1993, [107 Stat. 2450](https://www.govinfo.gov/link/statute/107/2450).)*

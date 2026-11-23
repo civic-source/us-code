@@ -3,9 +3,10 @@ title: "Section 3330e - Review of official personnel file of former Federal empl
 usc_title: 5
 usc_section: "3330e"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3330e"
-generated_at: "2026-03-30T02:52:56.003Z"
+generated_at: "2026-11-23T21:25:23.156Z"
+status: "active"
 ---
 
 # § 3330e. Review of official personnel file of former Federal employees before rehiring
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:52:56.003Z"
 - **(a)** If a former Government employee is a candidate for a position within the competitive service or the excepted service, prior to making any determination with respect to the appointment or reinstatement of such employee to such position, the appointing authority shall review and consider merit-based information relating to such employee’s former period or periods of service such as official personnel actions, employee performance ratings, and disciplinary actions, if any, in such employee’s official personnel record file.
 - **(b)** In subsection (a), the term “former Government employee” means an individual whose most recent position with the Government prior to becoming a candidate as described under subsection (a) was within the competitive service or the excepted service.
 - **(c)** The Office of Personnel Management shall prescribe regulations to carry out the purpose of this section. Such regulations may not contain provisions that would increase the time required for agency hiring actions.
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title XI, § 1136(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2460](https://www.govinfo.gov/link/statute/130/2460).)*

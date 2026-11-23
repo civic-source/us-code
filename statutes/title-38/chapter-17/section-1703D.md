@@ -3,9 +3,10 @@ title: "Section 1703D - Prompt payment standard"
 usc_title: 38
 usc_section: "1703D"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1703D"
-generated_at: "2026-03-30T02:55:53.481Z"
+generated_at: "2026-11-23T21:26:16.619Z"
+status: "active"
 ---
 
 # § 1703D. Prompt payment standard
@@ -54,3 +55,25 @@ generated_at: "2026-03-30T02:55:53.481Z"
   - **(3)** The term “clean paper claim” means a paper claim for payment of covered health care expenses that is submitted to the Secretary which contains substantially all of the required data elements necessary for accurate adjudication, without obtaining additional information from the entity or provider that furnished the care or service, submitted in such format as prescribed by the Secretary in regulations for the purpose of paying claims for care or services.
   - **(4)** The term “fraudulent claims” means the knowing misrepresentation of a material fact or facts by a health care entity or provider made to induce the Secretary to pay a claim that was not legally payable to that provider.
   - **(5)** The term “health care entity or provider” includes any non-Department health care entity or provider, but does not include any Federal health care entity or provider.
+
+In General
+
+Submittal of Claims by Health Care Entities and Providers
+
+Fraudulent Claims
+
+Overdue Claims
+
+Overpayment
+
+Information and Documentation Required
+
+Processing of Claims
+
+Report on Encounter Data System
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 115–182, title I, § 111(a)](https://www.govinfo.gov/link/plaw/115/public/182), June 6, 2018, [132 Stat. 1418](https://www.govinfo.gov/link/statute/132/1418); amended [Pub. L. 115–251, title II](https://www.govinfo.gov/link/plaw/115/public/251), §§ 204, 211(a)(5), Sept. 29, 2018, [132 Stat. 3172](https://www.govinfo.gov/link/statute/132/3172), 3175.)*

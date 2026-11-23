@@ -3,9 +3,10 @@ title: "Section 94 - Indiana"
 usc_title: 28
 usc_section: "94"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 94"
-generated_at: "2026-03-30T02:55:30.122Z"
+generated_at: "2026-11-23T21:26:01.008Z"
+status: "active"
 ---
 
 # § 94. Indiana
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:30.122Z"
   - **(3)** The Evansville Division comprises the counties of Davies, Dubois, Gibson, Martin, Perry, Pike, Posey, Spencer, Vanderburgh, and Warrick. Court for the Evansville Division shall be held at Evansville.
   - **(4)** The New Albany Division comprises the counties of Clark, Crawford, Dearborn, Floyd, Harrison, Jackson, Jefferson, Jennings, Lawrence, Ohio, Orange, Ripley, Scott, Switzerland, and Washington. Court for the New Albany Division shall be held at New Albany.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 878](https://www.govinfo.gov/link/statute/62/878); Feb. 10, 1954, ch. 6, § 2(b)(7), [68 Stat. 11](https://www.govinfo.gov/link/statute/68/11); [Pub. L. 91–272, § 9](https://www.govinfo.gov/link/plaw/91/public/272), June 2, 1970, [84 Stat. 298](https://www.govinfo.gov/link/statute/84/298).)*

@@ -3,9 +3,10 @@ title: "Section 7457 - On-call pay"
 usc_title: 38
 usc_section: "7457"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7457"
-generated_at: "2026-03-30T02:55:53.533Z"
+generated_at: "2026-11-23T21:26:16.879Z"
+status: "active"
 ---
 
 # § 7457. On-call pay
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:53.533Z"
 - **(c)** An employee who is eligible for on-call pay under subsection (a) and who was receiving standby premium pay pursuant to section 5545 of title 5 on May 20, 1988 , shall, as long as such employee is employed in the same position and work unit and remains eligible for such standby pay, receive pay for any period of on-call duty at the rate equal to the greater of—
   - **(1)** the rate of pay which such employee would receive if being paid the rate of standby pay pursuant to such section that such individual would be entitled to receive if such individual were not scheduled to be on call instead, or
   - **(2)** the rate of pay which such employee is entitled to receive including on-call premium pay described in subsection (a).
+
+## Source Credit
+
+*(Added [Pub. L. 102–40, title IV, § 401(b)(4)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 236](https://www.govinfo.gov/link/statute/105/236).)*

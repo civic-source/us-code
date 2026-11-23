@@ -3,9 +3,10 @@ title: "Section 528 - Officers serving in certain intelligence positions: milita
 usc_title: 10
 usc_section: "528"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 528"
-generated_at: "2026-03-30T02:53:38.066Z"
+generated_at: "2026-11-23T21:25:32.287Z"
+status: "active"
 ---
 
 # § 528. Officers serving in certain intelligence positions: military status; application of distribution and strength limitations; pay and allowances
@@ -25,3 +26,25 @@ generated_at: "2026-03-30T02:53:38.066Z"
     - **(A)** For an officer serving in a position within the Central Intelligence Agency, such reimbursement shall be made from funds available to the Director of the Central Intelligence Agency.
     - **(B)** For an officer serving in a position within the Office of the Director of National Intelligence, such reimbursement shall be made from funds available to the Director of National Intelligence.
 - **(g)** The positions covered by this section are the positions specified in subsections (b) and (c) and the positions designated under subsection (d).
+
+Military Status
+
+Director and Deputy Director of CIA
+
+Associate Director of Military Affairs, CIA
+
+Officers Serving in Office of DNI
+
+Effect of Appointment
+
+Military Pay and Allowances
+
+Covered Positions
+
+Exclusion of Officer Serving in Certain CIA Positions
+
+Covered Positions
+
+## Source Credit
+
+*(Added [Pub. L. 108–136, div. A, title V, § 507(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1458](https://www.govinfo.gov/link/statute/117/1458); amended [Pub. L. 109–163, div. A, title V, § 507(a)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3228](https://www.govinfo.gov/link/statute/119/3228); [Pub. L. 109–364, div. A, title V, § 501(a)](https://www.govinfo.gov/link/plaw/109/public/364), (b)(1), Oct. 17, 2006, [120 Stat. 2175](https://www.govinfo.gov/link/statute/120/2175), 2176; [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title IX, § 933, Oct. 14, 2008, [122 Stat. 4576](https://www.govinfo.gov/link/statute/122/4576); [Pub. L. 111–259, title VIII, § 803](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2746](https://www.govinfo.gov/link/statute/124/2746); [Pub. L. 112–81, div. A, title V, § 502(d)(1)](https://www.govinfo.gov/link/plaw/112/public/81), (2)(A), Dec. 31, 2011, [125 Stat. 1387](https://www.govinfo.gov/link/statute/125/1387), 1388.)*

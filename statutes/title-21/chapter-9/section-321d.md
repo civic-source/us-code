@@ -3,9 +3,10 @@ title: "Section 321d - Market names for catfish and ginseng"
 usc_title: 21
 usc_section: "321d"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 321d"
-generated_at: "2026-03-30T02:54:54.217Z"
+generated_at: "2026-11-23T21:25:55.971Z"
+status: "active"
 ---
 
 # § 321d. Market names for catfish and ginseng
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:54.217Z"
     - **(A)** the term “ginseng” may only be considered to be a common or usual name (or part thereof) for any herb or herbal ingredient derived from a plant classified within the genus Panax; and
     - **(B)** only labeling or advertising for herbs or herbal ingredients classified within that genus may include the term “ginseng”.
   - **(2)**
+
+## Source Credit
+
+*([Pub. L. 107–171, title X, § 10806](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 526](https://www.govinfo.gov/link/statute/116/526).)*

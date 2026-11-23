@@ -3,9 +3,10 @@ title: "Section 1599f - United States Cyber Command recruitment and retention"
 usc_title: 10
 usc_section: "1599f"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1599f"
-generated_at: "2026-03-30T02:53:38.132Z"
+generated_at: "2026-11-23T21:25:32.523Z"
+status: "active"
 ---
 
 # § 1599f. United States Cyber Command recruitment and retention
@@ -80,3 +81,71 @@ generated_at: "2026-03-30T02:53:38.132Z"
   - **(4)** The term “preference eligible” has the meaning given that term in section 2108(3) of title 5 .
   - **(5)** The term “qualified position” means a position, designated by the Secretary for the purpose of this section, in which the individual occupying such position performs, manages, or supervises functions that execute the responsibilities of the United States Cyber Command relating to cyber operations.
   - **(6)** The term “Senior Executive Service” has the meaning given that term in section 2101a of title 5 .
+
+General Authority
+
+Rates of Pay
+
+Additional Compensation, Incentives, and Allowances
+
+Implementation Plan Required
+
+Collective Bargaining Agreements
+
+Training
+
+Required Regulations
+
+Annual Report
+
+Three-year Probationary Period
+
+Incumbents of Existing Competitive Service Positions
+
+Federal Wage System Positions
+
+Definitions
+
+Resources for Cyber Education.—
+
+In general
+
+Report.—
+
+In general
+
+Implementation plan
+
+Deadline
+
+Discharge Through Director
+
+Review Required
+
+Covered Departments, Components, and Agencies
+
+Scope of Review
+
+Elements
+
+Furnishing Data and Analysis.—
+
+Data and analysis
+
+Certification
+
+Recommendations
+
+Implementation
+
+In-progress Reviews
+
+Final Briefing
+
+Definition of Zero-based Review
+
+“Until the Secretary of Defense completes implementation of the authority in subsection (a) of section 1599f of title 10 , United States Code, for United States Cyber Command workforce positions in accordance with the implementation plan required by subsection (d) of such section, the Secretary shall do each of the following:
+
+## Source Credit
+
+*(Added [Pub. L. 114–92, div. A, title XI, § 1107(a)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1024](https://www.govinfo.gov/link/statute/129/1024); amended [Pub. L. 114–328, div. A, title XI, § 1103(a)](https://www.govinfo.gov/link/plaw/114/public/328), (b)(2), Dec. 23, 2016, [130 Stat. 2444](https://www.govinfo.gov/link/statute/130/2444); [Pub. L. 119–60, div. A, title XI, § 1113](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1077](https://www.govinfo.gov/link/statute/139/1077).)*

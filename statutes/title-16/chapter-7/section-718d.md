@@ -3,9 +3,10 @@ title: "Section 718d - Expenditure of funds"
 usc_title: 16
 usc_section: "718d"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 718d"
-generated_at: "2026-03-30T02:54:22.902Z"
+generated_at: "2026-11-23T21:25:51.736Z"
+status: "active"
 ---
 
 # § 718d. Expenditure of funds
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:22.902Z"
     - **(B)** a detailed description of each closure including detailed justification for such closure;
   - **(4)** the total number of acres of refuge land open for hunting and fishing, and the total number of acres of refuge land closed for hunting and fishing, in the year covered by the report; and
   - **(5)** a separate report on the hunting and fishing status of those lands added to the system in the year covered by the report.
+
+## Source Credit
+
+*(Mar. 16, 1934, ch. 71, § 4, [48 Stat. 451](https://www.govinfo.gov/link/statute/48/451); June 15, 1935, ch. 261, title I, §§ 3, 4, [49 Stat. 379](https://www.govinfo.gov/link/statute/49/379), 380; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433](https://www.govinfo.gov/link/statute/53/1433); Aug. 12, 1949, ch. 421, § 2, [63 Stat. 600](https://www.govinfo.gov/link/statute/63/600); Oct. 20, 1951, ch. 520, [65 Stat. 451](https://www.govinfo.gov/link/statute/65/451); [Pub. L. 85–585](https://www.govinfo.gov/link/plaw/85/public/585), §§ 2, 3, Aug. 1, 1958, [72 Stat. 486](https://www.govinfo.gov/link/statute/72/486), 487; [Pub. L. 89–669, § 6](https://www.govinfo.gov/link/plaw/89/public/669), Oct. 15, 1966, [80 Stat. 929](https://www.govinfo.gov/link/statute/80/929); [Pub. L. 92–214, § 2](https://www.govinfo.gov/link/plaw/92/public/214), Dec. 22, 1971, [85 Stat. 777](https://www.govinfo.gov/link/statute/85/777); [Pub. L. 94–215, § 3(d)](https://www.govinfo.gov/link/plaw/94/public/215), Feb. 17, 1976, [90 Stat. 190](https://www.govinfo.gov/link/statute/90/190); [Pub. L. 105–269, § 2](https://www.govinfo.gov/link/plaw/105/public/269), Oct. 19, 1998, [112 Stat. 2381](https://www.govinfo.gov/link/statute/112/2381); [Pub. L. 109–266, § 10(e)](https://www.govinfo.gov/link/plaw/109/public/266), Aug. 3, 2006, [120 Stat. 676](https://www.govinfo.gov/link/statute/120/676); [Pub. L. 113–264](https://www.govinfo.gov/link/plaw/113/public/264), §§ 2(3), 3, Dec. 18, 2014, [128 Stat. 2939](https://www.govinfo.gov/link/statute/128/2939), 2940.)*

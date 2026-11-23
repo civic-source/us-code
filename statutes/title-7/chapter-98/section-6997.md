@@ -3,9 +3,10 @@ title: "Section 6997 - Division hearings"
 usc_title: 7
 usc_section: "6997"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6997"
-generated_at: "2026-03-30T02:53:42.442Z"
+generated_at: "2026-11-23T21:25:28.410Z"
+status: "active"
 ---
 
 # § 6997. Division hearings
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:42.442Z"
   - **(4)** The appellant shall bear the burden of proving that the adverse decision of the agency was erroneous.
 - **(d)** The hearing officer shall issue a notice of the determination on the appeal not later than 30 days after a hearing or after receipt of the request of the appellant to waive a hearing, except that the Director may establish an earlier or later deadline. If the determination is not appealed to the Director for review under section 6998 of this title , the notice provided by the hearing officer shall be considered to be a notice of an administratively final determination.
 - **(e)** The final determination shall be effective as of the date of filing of an application, the date of the transaction or event in question, or the date of the original adverse decision, whichever is applicable.
+
+## Source Credit
+
+*([Pub. L. 103–354, title II, § 277](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3230](https://www.govinfo.gov/link/statute/108/3230).)*

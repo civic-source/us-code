@@ -3,9 +3,10 @@ title: "Section 1501a - Public-private partnerships; other forms of support"
 usc_title: 10
 usc_section: "1501a"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1501a"
-generated_at: "2026-03-30T02:53:38.126Z"
+generated_at: "2026-11-23T21:25:32.493Z"
+status: "active"
 ---
 
 # § 1501a. Public-private partnerships; other forms of support
@@ -29,3 +30,45 @@ generated_at: "2026-03-30T02:53:38.126Z"
   - **(1)** The term “cooperative agreement” means an authorized cooperative agreement as described in section 6305 of title 31 .
   - **(2)** The term “grant” means an authorized grant as described in section 6304 of title 31 .
   - **(3)** The term “gift” includes a devise or bequest.
+
+Public-private Partnerships
+
+Acceptance of Voluntary Personal Services
+
+Cooperative Agreements and Grants.—
+
+In general
+
+Inapplicability of certain contract requirements
+
+Use of Department of Defense Personal Property
+
+Acceptance of Gifts.—
+
+Authority to accept
+
+Gift funds
+
+Use of gifts
+
+Expenses of transfer
+
+Expenses of care
+
+Regulations.—
+
+In general
+
+Limitation
+
+Definitions
+
+Cooperative agreement
+
+Grant
+
+Gift
+
+## Source Credit
+
+*(Added [Pub. L. 113–291, div. A, title IX, § 916(b)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3477](https://www.govinfo.gov/link/statute/128/3477); amended [Pub. L. 115–232, div. A, title V, § 523](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1756](https://www.govinfo.gov/link/statute/132/1756); [Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4294](https://www.govinfo.gov/link/statute/134/4294).)*

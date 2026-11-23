@@ -3,9 +3,10 @@ title: "Section 3026 - Acceleration of the Final Government Equity Redemption Da
 usc_title: 12
 usc_section: "3026"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3026"
-generated_at: "2026-03-30T02:53:53.489Z"
+generated_at: "2026-11-23T21:25:37.118Z"
+status: "active"
 ---
 
 # § 3026. Acceleration of the Final Government Equity Redemption Date
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:53.489Z"
 - **(b)**
   - **(1)** The United States shall not be responsible for any obligation of the Bank which is incurred after the Final Government Equity Redemption Date.
   - **(2)** As soon as practicable after August 13, 1981 , the Board shall adopt bylaws which will assist in expediting and coordinating the activities which will occur with respect to the Final Government Equity Redemption Date.
+
+## Source Credit
+
+*([Pub. L. 95–351, title I, § 116](https://www.govinfo.gov/link/plaw/95/public/351), as added [Pub. L. 97–35, title III, § 391(a)(1)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 433](https://www.govinfo.gov/link/statute/95/433).)*

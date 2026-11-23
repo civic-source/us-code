@@ -3,9 +3,10 @@ title: "Section 3474 - Conservation incentives landowner education program"
 usc_title: 16
 usc_section: "3474"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3474"
-generated_at: "2026-03-30T02:54:23.017Z"
+generated_at: "2026-11-23T21:25:51.975Z"
+status: "active"
 ---
 
 # § 3474. Conservation incentives landowner education program
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:23.017Z"
 - **(d)** In any case in which the Secretary contacts a landowner directly about participation in a Federal conservation program, the Secretary shall, in writing—
   - **(1)** notify the landowner of the program; and
   - **(2)** make available information on the conservation program options that may be available to the landowner.
+
+## Source Credit
+
+*([Pub. L. 116–9, title III, § 3002](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 756](https://www.govinfo.gov/link/statute/133/756).)*

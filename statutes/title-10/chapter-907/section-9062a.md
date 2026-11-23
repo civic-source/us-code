@@ -3,9 +3,10 @@ title: "Section 9062a - Annual report on Air Force tactical fighter aircraft for
 usc_title: 10
 usc_section: "9062a"
 chapter: 907
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 9062a"
-generated_at: "2026-03-30T02:53:38.256Z"
+generated_at: "2026-11-23T21:25:32.976Z"
+status: "active"
 ---
 
 # § 9062a. Annual report on Air Force tactical fighter aircraft force structure
@@ -21,3 +22,15 @@ generated_at: "2026-03-30T02:53:38.256Z"
   - **(5)** Any plans of the Secretary to augment or supplant existing piloted tactical fighter aircraft training events through the acquisition and fielding of common, joint, all-domain, high-fidelity synthetic simulation environments.
 - **(c)** The report required by subsection (a) shall be submitted in unclassified form with accompanying graphs, tables, and charts, but may contain a classified annex.
 - **(d)** In this section, the term “fighter aircraft” has the meaning given that term in section 9062(i)(2) of this title .
+
+In General
+
+Elements of Report
+
+Form of Report
+
+Fighter Aircraft Defined
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title I, § 142](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1809](https://www.govinfo.gov/link/statute/138/1809); amended [Pub. L. 119–60, div. A, title I, § 144](https://www.govinfo.gov/link/plaw/119/public/60), title XVII, § 1701(a)(37), Dec. 18, 2025, [139 Stat. 760](https://www.govinfo.gov/link/statute/139/760), 1210.)*

@@ -3,9 +3,10 @@ title: "Section 9401 - Purposes"
 usc_title: 20
 usc_section: "9401"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9401"
-generated_at: "2026-03-30T02:54:48.225Z"
+generated_at: "2026-11-23T21:25:47.652Z"
+status: "active"
 ---
 
 # § 9401. Purposes
@@ -17,3 +18,11 @@ The purposes of this chapter are—
   - **(3)** to remove barriers to the provision of an accessible system of early childhood learning programs in communities throughout the United States;
   - **(4)** to increase the availability and affordability of professional development activities and compensation for caregivers and child care providers; and
   - **(5)** to facilitate the development of community-based systems of collaborative service delivery models characterized by resource sharing, linkages between appropriate supports, and local planning for services.
+
+Short Title
+
+Findings
+
+## Source Credit
+
+*([Pub. L. 106–554, § 1(a)(1) [title VIII, § 802]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–80.)*

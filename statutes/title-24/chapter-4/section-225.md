@@ -3,9 +3,10 @@ title: "Section 225 - Findings and purposes"
 usc_title: 24
 usc_section: "225"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "24 U.S.C. § 225"
-generated_at: "2026-03-30T02:54:50.790Z"
+generated_at: "2026-11-23T21:25:53.408Z"
+status: "active"
 ---
 
 # § 225. Findings and purposes
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:50.790Z"
   - **(6)** the Federal Government continue high quality mental health research, training, and demonstration programs at Saint Elizabeths Hospital;
   - **(7)** the District government establish and maintain accreditation and licensing standards for all services provided in District mental health facilities which assure quality care consistent with appropriate Federal regulations and comparable with standards of the Joint Commission on Accreditation of Hospitals; and
   - **(8)** the comprehensive mental health system plan include a component for direct services for the homeless mentally ill.
+
+## Source Credit
+
+*([Pub. L. 98–621, § 2](https://www.govinfo.gov/link/plaw/98/public/621), Nov. 8, 1984, [98 Stat. 3369](https://www.govinfo.gov/link/statute/98/3369); [Pub. L. 102–150, § 3(a)](https://www.govinfo.gov/link/plaw/102/public/150), Oct. 31, 1991, [105 Stat. 980](https://www.govinfo.gov/link/statute/105/980).)*

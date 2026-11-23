@@ -3,9 +3,10 @@ title: "Section 16422 - Advanced transmission technologies"
 usc_title: 42
 usc_section: "16422"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16422"
-generated_at: "2026-03-30T02:56:11.486Z"
+generated_at: "2026-11-23T21:26:33.742Z"
+status: "active"
 ---
 
 # § 16422. Advanced transmission technologies
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.486Z"
   - **(18)** mobile transformers and mobile substations; and
   - **(19)** any other technologies the Commission considers appropriate.
 - **(b)** In carrying out the Federal Power Act ( 16 U.S.C. 791a et seq.) and the Public Utility Regulatory Policies Act of 1978 ( 16 U.S.C. 2601 et seq.), the Commission shall encourage, as appropriate, the deployment of advanced transmission technologies.
+
+## Source Credit
+
+*([Pub. L. 109–58, title XII, § 1223](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 953](https://www.govinfo.gov/link/statute/119/953).)*

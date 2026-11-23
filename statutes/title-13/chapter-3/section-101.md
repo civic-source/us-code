@@ -3,9 +3,10 @@ title: "Section 101 - Defective, dependent, and delinquent classes; crime"
 usc_title: 13
 usc_section: "101"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "13 U.S.C. § 101"
-generated_at: "2026-03-30T02:54:03.338Z"
+generated_at: "2026-11-23T21:25:34.406Z"
+status: "active"
 ---
 
 # § 101. Defective, dependent, and delinquent classes; crime
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:03.338Z"
   - **(2)** to crime, including judicial statistics pertaining thereto.
 - **(b)** The statistics authorized by subsection (a) of this section shall include information upon the following questions, namely: age, sex, color, nativity, parentage, literacy by race, color, nativity, and parentage, and such other questions relating to such subjects as the Secretary deems proper.
 - **(c)** In addition to the decennial collections authorized by subsections (a) and (b) of this section, the Secretary may compile and publish annually statistics relating to crime and to the defective, dependent, and delinquent classes.
+
+## Source Credit
+
+*(Aug. 31, 1954, ch. 1158, [68 Stat. 1018](https://www.govinfo.gov/link/statute/68/1018).)*

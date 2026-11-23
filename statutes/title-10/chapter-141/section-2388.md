@@ -3,9 +3,10 @@ title: "Section 2388 - Security clearances for facilities of certain companies"
 usc_title: 10
 usc_section: "2388"
 chapter: 141
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2388"
-generated_at: "2026-03-30T02:53:38.157Z"
+generated_at: "2026-11-23T21:25:32.607Z"
+status: "active"
 ---
 
 # § 2388. Security clearances for facilities of certain companies
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:53:38.157Z"
   - **(3)** The company has certified to the Secretary that the senior officer, director, or employee appointed under paragraph (1) has the authority to act on behalf of the company with respect to such facility independent of any senior management official, senior officer, or director described in paragraph (2).
   - **(4)** The facility meets all of the requirements to be granted a security clearance other than any requirement relating to the senior management official of the company having an appropriate security clearance.
 - **(b)** In this section, the term “covered company” means a company that has entered into a contract or agreement with the Department of Defense, assists the Department, or requires a facility to process classified information.
+
+Authority
+
+Covered Company
+
+## Source Credit
+
+*(Added [Pub. L. 115–91, div. A, title XVI, § 1621(a)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1732](https://www.govinfo.gov/link/statute/131/1732), § 2410s; amended [Pub. L. 115–232, div. A, title X, § 1081(a)(23)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1984](https://www.govinfo.gov/link/statute/132/1984); renumbered § 2388, [Pub. L. 116–283, div. A, title XVIII, § 1882(b)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4293](https://www.govinfo.gov/link/statute/134/4293).)*

@@ -3,9 +3,10 @@ title: "Section 5910 - Treatment of payment stablecoin issuers in insolvency pro
 usc_title: 12
 usc_section: "5910"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5910"
-generated_at: "2026-03-30T02:53:53.553Z"
+generated_at: "2026-11-23T21:25:37.310Z"
+status: "active"
 ---
 
 # § 5910. Treatment of payment stablecoin issuers in insolvency proceedings
@@ -15,3 +16,7 @@ Subject to section 507(e) of title 11 , as added by subsection (d), in any insol
   - **(1)** the claim of a person holding payment stablecoins issued by the permitted payment stablecoin issuer shall have priority, on a ratable basis with the claims of other persons holding such payment stablecoins, over the claims of the permitted payment stablecoin issuer and any other holder of claims against the permitted payment stablecoin issuer, with respect to required payment stablecoin reserves;
   - **(2)** notwithstanding any other provision of law, including the definition of “claim” under section 101(5) of title 11 , any person holding a payment stablecoin issued by the permitted payment stablecoin issuer shall be deemed to hold a claim; and
   - **(3)** the priority under paragraph (1) shall not apply to claims other than those arising directly from the holding of payment stablecoins.
+
+## Source Credit
+
+*([Pub. L. 119–27, § 11(a)](https://www.govinfo.gov/link/plaw/119/public/27), July 18, 2025, [139 Stat. 457](https://www.govinfo.gov/link/statute/139/457).)*

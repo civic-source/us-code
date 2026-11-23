@@ -3,9 +3,10 @@ title: "Section 1853 - Administrative sanctions"
 usc_title: 29
 usc_section: "1853"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1853"
-generated_at: "2026-03-30T02:55:18.740Z"
+generated_at: "2026-11-23T21:26:02.310Z"
+status: "active"
 ---
 
 # § 1853. Administrative sanctions
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:18.740Z"
 - **(c)** Any person against whom an order imposing a civil money penalty has been entered after an agency hearing under this section may obtain review by the United States district court for any district in which he is located or the United States District Court for the District of Columbia by filing a notice of appeal in such court within thirty days from the date of such order, and simultaneously sending a copy of such notice by registered mail to the Secretary. The Secretary shall promptly certify and file in such court the record upon which the penalty was imposed. The findings of the Secretary shall be set aside only if found to be unsupported by substantial evidence as provided by section 706(2)(E) of title 5 . Any final decision, order, or judgment of such District Court concerning such review shall be subject to appeal as provided in chapter 83 of title 28.
 - **(d)** If any person fails to pay an assessment after it has become a final and unappealable order, or after the court has entered final judgment in favor of the agency, the Secretary shall refer the matter to the Attorney General, who shall recover the amount assessed by action in the appropriate United States district court. In such action the validity and appropriateness of the final order imposing the penalty shall not be subject to review.
 - **(e)** All penalties collected under authority of this section shall be paid into the Treasury of the United States.
+
+## Source Credit
+
+*([Pub. L. 97–470, title V, § 503](https://www.govinfo.gov/link/plaw/97/public/470), Jan. 14, 1983, [96 Stat. 2596](https://www.govinfo.gov/link/statute/96/2596).)*

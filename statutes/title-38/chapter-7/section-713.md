@@ -3,9 +3,10 @@ title: "Section 713 - Senior executives: removal, demotion, or suspension based 
 usc_title: 38
 usc_section: "713"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 713"
-generated_at: "2026-03-30T02:55:53.475Z"
+generated_at: "2026-11-23T21:26:16.562Z"
+status: "active"
 ---
 
 # § 713. Senior executives: removal, demotion, or suspension based on performance or misconduct
@@ -38,3 +39,15 @@ generated_at: "2026-03-30T02:55:53.475Z"
   - **(3)** The term “senior executive position” means—
     - **(A)** with respect to a career appointee (as that term is defined in section 3132(a) of title 5 ), a Senior Executive Service position (as such term is defined in such section); and
     - **(B)** with respect to a covered individual appointed under section 7306(a) or section 7401(1) of this title , an administrative or executive position.
+
+Authority
+
+Rights and Procedures
+
+Relation to Other Provisions of Law
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 113–146, title VII, § 707(a)(1)](https://www.govinfo.gov/link/plaw/113/public/146), Aug. 7, 2014, [128 Stat. 1798](https://www.govinfo.gov/link/statute/128/1798); amended [Pub. L. 115–41, title II, § 201(a)](https://www.govinfo.gov/link/plaw/115/public/41), June 23, 2017, [131 Stat. 868](https://www.govinfo.gov/link/statute/131/868).)*

@@ -3,9 +3,10 @@ title: "Section 7603 - Purpose"
 usc_title: 22
 usc_section: "7603"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7603"
-generated_at: "2026-03-30T02:55:05.442Z"
+generated_at: "2026-11-23T21:25:58.719Z"
+status: "active"
 ---
 
 # § 7603. Purpose
@@ -30,3 +31,7 @@ The purpose of this chapter is to strengthen and enhance United States leadershi
     - **(A)** strengthen health systems;
     - **(B)** expand health workforce; and
     - **(C)** address infrastructural weaknesses.
+
+## Source Credit
+
+*([Pub. L. 108–25, § 4](https://www.govinfo.gov/link/plaw/108/public/25), May 27, 2003, [117 Stat. 717](https://www.govinfo.gov/link/statute/117/717); [Pub. L. 110–293, § 4](https://www.govinfo.gov/link/plaw/110/public/293), July 30, 2008, [122 Stat. 2922](https://www.govinfo.gov/link/statute/122/2922).)*

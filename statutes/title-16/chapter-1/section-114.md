@@ -3,12 +3,17 @@ title: "Section 114 - Removal, disturbance, destruction, or molestation of ruins
 usc_title: 16
 usc_section: "114"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 114"
-generated_at: "2026-03-30T02:54:22.734Z"
+generated_at: "2026-11-23T21:25:51.380Z"
+status: "active"
 ---
 
 # § 114. Removal, disturbance, destruction, or molestation of ruins
 
 Any person or persons who may otherwise in any manner willfully remove, disturb, destroy, or molest any of the ruins, mounds, buildings, graves, relics, or other evidences of an ancient civilization or other property from said park shall be deemed guilty of a misdemeanor, and upon conviction before any court having jurisdiction of such offenses shall be fined not more than $1,000 or imprisoned not more than twelve months, or such person or persons may be fined and imprisoned, at the discretion of the judge, and shall be required to restore the property disturbed, if possible.
 
+
+## Source Credit
+
+*(June 29, 1906, ch. 3607, § 4, [34 Stat. 617](https://www.govinfo.gov/link/statute/34/617).)*

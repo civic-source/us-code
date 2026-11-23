@@ -3,9 +3,10 @@ title: "Section 18981 - Definitions"
 usc_title: 42
 usc_section: "18981"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18981"
-generated_at: "2026-03-30T02:56:11.534Z"
+generated_at: "2026-11-23T21:26:33.859Z"
+status: "active"
 ---
 
 # § 18981. Definitions
@@ -16,3 +17,7 @@ In this subchapter:
   - **(2)** The term “Director” means the Director of the National Science Foundation.
   - **(3)** The term “NSF INCLUDES” means the initiative carried out under section 19012 of this title .
   - **(4)** The term “STEM ecosystem” means a local, regional, or statewide network, consortium, or multi-sector partnership, which may be led or co-led by a nonprofit organizational entity, that is operating in the United States with the goal of supporting participation in STEM study, activities, and career pathways as defined in the CoSTEM Annual Progress Report of 2020 with a broad range of non-Federal partners.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10302](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1506](https://www.govinfo.gov/link/statute/136/1506).)*

@@ -3,9 +3,10 @@ title: "Section 4904 - Moratoria on imports of exotic birds covered by Conventio
 usc_title: 16
 usc_section: "4904"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4904"
-generated_at: "2026-03-30T02:54:23.048Z"
+generated_at: "2026-11-23T21:25:52.024Z"
+status: "active"
 ---
 
 # § 4904. Moratoria on imports of exotic birds covered by Convention
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:23.048Z"
   - **(2)** A species of exotic birds shall be subject to a suspension of importation under paragraph (1) until the Secretary, after notice and an opportunity for public comment, makes the findings described in section 4905(c) of this title and includes the species in the list published under section 4905(a) of this title .
 - **(c)** Effective on the date that is one year after October 23, 1992 , the importation of any exotic bird of a species that is listed in any Appendix to the Convention is prohibited unless the Secretary makes the findings described in section 4905(c) of this title and includes the species in the list published under section 4905(a) of this title .
 - **(d)** Notwithstanding any other provision of this chapter, the Secretary shall prohibit the importation, during the 1-year period beginning on October 23, 1992 , of exotic birds of each species that is listed under any Appendix to the Convention in excess of the number of that species that were imported during the most recent year for which the Secretary has complete import data.
+
+## Source Credit
+
+*([Pub. L. 102–440, title I, § 105](https://www.govinfo.gov/link/plaw/102/public/440), Oct. 23, 1992, [106 Stat. 2226](https://www.govinfo.gov/link/statute/106/2226).)*

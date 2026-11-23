@@ -3,9 +3,10 @@ title: "Section 698g - Acquisition of lands for Big Cypress Preserve"
 usc_title: 16
 usc_section: "698g"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 698g"
-generated_at: "2026-03-30T02:54:22.897Z"
+generated_at: "2026-11-23T21:25:51.726Z"
+status: "active"
 ---
 
 # § 698g. Acquisition of lands for Big Cypress Preserve
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:22.897Z"
       - **(ii)** the lands which he has previously acquired by purchase, donation, exchange or transfer for administration for the purpose of this preserve, and
       - **(iii)** the annual acquisition program (including the level of funding) which he recommends for the ensuing five fiscal years.
 - **(c)** It is the express intent of the Congress that the Secretary should substantially complete the land acquisition program contemplated by sections 698f to 698m–4 of this title within six years after October 11, 1974 .
+
+## Source Credit
+
+*([Pub. L. 93–440, § 2](https://www.govinfo.gov/link/plaw/93/public/440), Oct. 11, 1974, [88 Stat. 1259](https://www.govinfo.gov/link/statute/88/1259).)*

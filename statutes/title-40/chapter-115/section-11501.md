@@ -3,9 +3,10 @@ title: "Section 11501 - Authority to conduct pilot program"
 usc_title: 40
 usc_section: "11501"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 11501"
-generated_at: "2026-03-30T02:55:43.386Z"
+generated_at: "2026-11-23T21:26:14.949Z"
+status: "active"
 ---
 
 # § 11501. Authority to conduct pilot program
@@ -17,3 +18,50 @@ generated_at: "2026-03-30T02:55:43.386Z"
 - **(c)**
   - **(1)** Subject to paragraph (2), the pilot program may be carried out under this chapter for the period, not in excess of five years, the Administrator for Federal Procurement Policy determines is sufficient to establish reliable results.
   - **(2)** A contract entered into under the pilot program before the expiration of that program remains in effect according to the terms of the contract after the expiration of the program.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 11501 | 40:1471. | Pub. L. 104–106, div. E, title LIII, § 5301 , Feb. 10, 1996 , 110 Stat. 691 . |
+
+
+In General.—
+
+Purpose
+
+Multiagency, multi-activity conduct of each program
+
+Limitation on Amount
+
+Period of Programs.—
+
+In general
+
+Continuing validity of contracts
+
+Historical and Revision Notes
+
+11501
+
+Pub. L. 104–106, div. E, title LIII, § 5301
+
+Feb. 10, 1996
+
+110 Stat. 691
+
+Limitation on Amount
+
+Limitations
+
+Limitation on Amount
+
+Limitation on Amount
+
+Limitations.—
+
+Number
+
+Amount
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1245](https://www.govinfo.gov/link/statute/116/1245); [Pub. L. 107–314, div. A, title VIII, § 825(b)(2)(A)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2615](https://www.govinfo.gov/link/statute/116/2615); [Pub. L. 107–347, title II, § 210(h)(2)(A)](https://www.govinfo.gov/link/plaw/107/public/347), Dec. 17, 2002, [116 Stat. 2938](https://www.govinfo.gov/link/statute/116/2938).)*

@@ -3,12 +3,17 @@ title: "Section 1348 - Banking association as party"
 usc_title: 28
 usc_section: "1348"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1348"
-generated_at: "2026-03-30T02:55:30.139Z"
+generated_at: "2026-11-23T21:26:01.085Z"
+status: "active"
 ---
 
 # § 1348. Banking association as party
 
 The district courts shall have original jurisdiction of any civil action commenced by the United States, or by direction of any officer thereof, against any national banking association, any civil action to wind up the affairs of any such association, and any action by a banking association established in the district for which the court is held, under chapter 2 of Title 12, to enjoin the Comptroller of the Currency, or any receiver acting under his direction, as provided by such chapter. All national banking associations shall, for the purposes of all other actions by or against them, be deemed citizens of the States in which they are respectively located.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 933](https://www.govinfo.gov/link/statute/62/933).)*

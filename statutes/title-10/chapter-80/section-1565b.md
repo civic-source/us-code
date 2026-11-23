@@ -3,9 +3,10 @@ title: "Section 1565b - Victims of sexual assault: access to legal assistance an
 usc_title: 10
 usc_section: "1565b"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1565b"
-generated_at: "2026-03-30T02:53:38.130Z"
+generated_at: "2026-11-23T21:25:32.513Z"
+status: "active"
 ---
 
 # § 1565b. Victims of sexual assault: access to legal assistance and services of Sexual Assault Response Coordinators and Sexual Assault Victim Advocates
@@ -28,3 +29,43 @@ generated_at: "2026-03-30T02:53:38.130Z"
 - **(c)** In this section:
   - **(1)** The term “sexual assault” includes the offenses of rape, sexual assault, forcible sodomy, aggravated sexual contact, abusive sexual contact, and attempts to commit such offenses, as punishable under applicable Federal or State law.
   - **(2)** The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and any territory or possession of the United States.
+
+Availability of Legal Assistance and Victim Advocate Services
+
+Restricted Reporting
+
+Definitions
+
+Sexual assault
+
+State
+
+In General
+
+Minimum Elements
+
+Information for members of the armed forces
+
+Coordination between staff of the departments
+
+Reports.—
+
+Report on residential treatment
+
+Initial report
+
+Progress reports
+
+Updates
+
+Definitions
+
+In General
+
+Information From Sexual Assault Response Coordinators
+
+Sexual Trauma Defined
+
+## Source Credit
+
+*(Added [Pub. L. 112–81, div. A, title V, § 581(b)(1)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1431](https://www.govinfo.gov/link/statute/125/1431); amended [Pub. L. 113–66, div. A, title XVII, § 1716(a)(3)(C)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 969](https://www.govinfo.gov/link/statute/127/969); [Pub. L. 114–92, div. A, title V](https://www.govinfo.gov/link/plaw/114/public/92), §§ 534(b), 536, Nov. 25, 2015, [129 Stat. 816](https://www.govinfo.gov/link/statute/129/816), 817.)*

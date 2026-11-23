@@ -3,9 +3,10 @@ title: "Section 492 - Biennial assessment and report on the delivery platforms f
 usc_title: 10
 usc_section: "492"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 492"
-generated_at: "2026-03-30T02:53:38.062Z"
+generated_at: "2026-11-23T21:25:32.273Z"
+status: "active"
 ---
 
 # § 492. Biennial assessment and report on the delivery platforms for nuclear weapons and the nuclear command and control system
@@ -36,3 +37,15 @@ generated_at: "2026-03-30T02:53:38.062Z"
   - **(2)** the Director of the Strategic Systems Program of the Navy;
   - **(3)** the Commander of the Global Strike Command of the Air Force; and
   - **(4)** the Commander of the United States Air Forces in Europe.
+
+Biennial Assessments
+
+Biennial Report
+
+Report to President and Congress
+
+Covered Official Defined
+
+## Source Credit
+
+*(Added [Pub. L. 112–81, div. A, title X, § 1041(a)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1573](https://www.govinfo.gov/link/statute/125/1573), § 490a; renumbered § 492, [Pub. L. 112–239, div. A, title X, § 1031(b)(3)(A)(i)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1918](https://www.govinfo.gov/link/statute/126/1918); amended [Pub. L. 113–291, div. A, title XVI, § 1642](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3650](https://www.govinfo.gov/link/statute/128/3650); [Pub. L. 116–92, div. A, title XVI, § 1666](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1774](https://www.govinfo.gov/link/statute/133/1774).)*

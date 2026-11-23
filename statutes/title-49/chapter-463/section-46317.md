@@ -3,9 +3,10 @@ title: "Section 46317 - Criminal penalty for pilots operating in air transportat
 usc_title: 49
 usc_section: "46317"
 chapter: 463
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 46317"
-generated_at: "2026-03-30T02:56:19.397Z"
+generated_at: "2026-11-23T21:26:40.949Z"
+status: "active"
 ---
 
 # § 46317. Criminal penalty for pilots operating in air transportation without an airman’s certificate
@@ -19,3 +20,17 @@ generated_at: "2026-03-30T02:56:19.397Z"
     - **(A)** is punishable by death or imprisonment of more than 1 year under a Federal or State law; or
     - **(B)** is related to an act punishable by death or imprisonment for more than 1 year under a Federal or State law related to a controlled substance (except a law related to simple possession (as that term is used in section 46306(c)) of a controlled substance).
   - **(3)** A term of imprisonment imposed under paragraph (2) shall be served in addition to, and not concurrently with, any other term of imprisonment imposed on the individual subject to the imprisonment.
+
+General Criminal Penalty
+
+Controlled Substance Criminal Penalty.—
+
+Controlled substances defined
+
+Criminal penalty
+
+Terms of imprisonment
+
+## Source Credit
+
+*(Added [Pub. L. 106–181, title V, § 509(a)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 141](https://www.govinfo.gov/link/statute/114/141).)*

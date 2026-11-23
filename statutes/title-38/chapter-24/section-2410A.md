@@ -3,9 +3,10 @@ title: "Section 2410A - Arlington National Cemetery: other administrative matter
 usc_title: 38
 usc_section: "2410A"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 2410A"
-generated_at: "2026-03-30T02:55:53.497Z"
+generated_at: "2026-11-23T21:26:16.707Z"
+status: "active"
 ---
 
 # § 2410A. Arlington National Cemetery: other administrative matters
@@ -20,3 +21,15 @@ generated_at: "2026-03-30T02:55:53.497Z"
     - **(B)** Upon waiving the prohibition in paragraph (1), the President shall submit notice of such waiver to—
       - **(i)** the Committee on Veterans’ Affairs and the Committee on Armed Services of the Senate; and
       - **(ii)** the Committee on Veterans’ Affairs and the Committee on Armed Services of the House of Representatives.
+
+One Gravesite
+
+Prohibition Against Reservation of Gravesites
+
+In general
+
+Exception
+
+## Source Credit
+
+*(Added [Pub. L. 112–154, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/112/public/154), Aug. 6, 2012, [126 Stat. 1199](https://www.govinfo.gov/link/statute/126/1199).)*

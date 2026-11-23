@@ -3,9 +3,10 @@ title: "Section 26 - Unit investment trusts"
 usc_title: 15
 usc_section: "26"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 26"
-generated_at: "2026-03-30T02:54:08.068Z"
+generated_at: "2026-11-23T21:25:39.590Z"
+status: "active"
 ---
 
 # § 80a–26. Unit investment trusts
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:08.068Z"
       - **(iii)** together with its registered separate accounts, is supervised and examined periodically by the insurance authority of such State.
   - **(3)** For purposes of paragraph (2), the fees and charges deducted under the contract shall include all fees and charges imposed for any purpose and in any manner.
   - **(4)** The Commission may issue such rules and regulations to carry out paragraph (2)(A) as it determines are necessary or appropriate in the public interest or for the protection of investors.
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title I, § 26, [54 Stat. 827](https://www.govinfo.gov/link/statute/54/827); [Pub. L. 91–547, § 15](https://www.govinfo.gov/link/plaw/91/public/547), Dec. 14, 1970, [84 Stat. 1424](https://www.govinfo.gov/link/statute/84/1424); [Pub. L. 100–181, title VI](https://www.govinfo.gov/link/plaw/100/public/181), §§ 618, 619, Dec. 4, 1987, [101 Stat. 1262](https://www.govinfo.gov/link/statute/101/1262); [Pub. L. 104–290, title II, § 205(a)](https://www.govinfo.gov/link/plaw/104/public/290), Oct. 11, 1996, [110 Stat. 3429](https://www.govinfo.gov/link/statute/110/3429); [Pub. L. 106–102, title II, § 211(b)](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1396](https://www.govinfo.gov/link/statute/113/1396).)*

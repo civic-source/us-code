@@ -3,9 +3,10 @@ title: "Section 824s - Transmission infrastructure investment"
 usc_title: 16
 usc_section: "824s"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 824s"
-generated_at: "2026-03-30T02:54:22.919Z"
+generated_at: "2026-11-23T21:25:51.767Z"
+status: "active"
 ---
 
 # § 824s. Transmission infrastructure investment
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:22.919Z"
     - **(B)** all prudently incurred costs related to transmission infrastructure development pursuant to section 824p of this title .
 - **(c)** In the rule issued under this section, the Commission shall, to the extent within its jurisdiction, provide for incentives to each transmitting utility or electric utility that joins a Transmission Organization. The Commission shall ensure that any costs recoverable pursuant to this subsection may be recovered by such utility through the transmission rates charged by such utility or through the transmission rates charged by the Transmission Organization that provides transmission service to such utility.
 - **(d)** All rates approved under the rules adopted pursuant to this section, including any revisions to the rules, are subject to the requirements of sections 824d and 824e of this title that all rates, charges, terms, and conditions be just and reasonable and not unduly discriminatory or preferential.
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. II, § 219, as added [Pub. L. 109–58, title XII, § 1241](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 961](https://www.govinfo.gov/link/statute/119/961).)*

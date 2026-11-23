@@ -3,9 +3,10 @@ title: "Section 13503 - Supporting research and technical analysis"
 usc_title: 42
 usc_section: "13503"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13503"
-generated_at: "2026-03-30T02:56:11.447Z"
+generated_at: "2026-11-23T21:26:33.612Z"
+status: "active"
 ---
 
 # § 13503. Supporting research and technical analysis
@@ -116,3 +117,65 @@ generated_at: "2026-03-30T02:56:11.447Z"
     - **(B)** Providing for the repair and rehabilitation of existing facilities to keep them in use and prevent deterioration.
     - **(C)** Providing engineering design and construction services for those facilities which require modification or additions in order to meet the needs of new or expanded programs.
 - **(e)** There are authorized to be appropriated to the Secretary for Supporting Research and Technical Analysis, including Basic Energy Sciences, Energy Research Analysis, University and Science Education, Technology Transfer, Advisory and Oversight Program Direction, and Facilities Support for Multiprogram Energy Laboratories, $966,804,000 for fiscal year 1993 and such sums as may be necessary for fiscal year 1994.
+
+(aa) to develop the research bases in the State; and
+
+(bb) to improve science and engineering research and education programs at institutions of higher education in the State.
+
+(aa) advanced scientific computing research;
+
+(bb) basic energy sciences;
+
+(cc) biological and environmental research;
+
+(dd) fusion energy sciences;
+
+(ee) high energy physics;
+
+(ff) nuclear physics;
+
+(gg) isotope research, development, and production;
+
+(hh) accelerator research, development, and production; and
+
+(ii) other areas of research funded by the Office of Science, as determined by the Secretary.
+
+(aa) in the case of an undergraduate scholarship— (AA) shall be for a period of 1 year; and (BB) may be competitively renewable on an annual basis; and
+
+(bb) in the case of a graduate level fellowship, shall be for a period of not more than 5 years.
+
+(aa) to support investigator-initiated research, including associated research equipment and instrumentation;
+
+(bb) to support activities associated with identifying and responding to funding opportunities;
+
+(cc) to secure technical assistance for the pursuit of funding opportunities; and
+
+(dd) to develop and enhance collaboration among National Laboratories, Department of Energy programs, the private sector, and other relevant entities.
+
+(aa) for a period of not more than 5 years; and
+
+(bb) competitively renewable for an additional 5-year period.
+
+(aa) developing expertise in key technology areas, including associated equipment and instrumentation;
+
+(bb) developing and acquiring novel, state-of-the-art instruments and equipment that range in cost from $500,000 to $20,000,000;
+
+(cc) enhancing collaboration with National Laboratories, the Department of Energy, and the private sector through faculty or staff placement programs; and
+
+(dd) supporting formal partnership programs with institutions of higher education and National Laboratories.
+
+(aa) for a period of not more than 5 years; and
+
+(bb) renewable for an additional 5-year period.
+
+(aa) the number of EPSCoR awards made to institutions of higher education located in eligible jurisdictions; and
+
+(bb) the amount and type of each award;
+
+(aa) the number of representatives of institutions of higher education in eligible jurisdictions serving on each Office of Science advisory committee; and
+
+(bb) for each such advisory committee, the percentage of committee membership that those individuals constitute; and
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXII, § 2203](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3087](https://www.govinfo.gov/link/statute/106/3087); [Pub. L. 105–245, title III, § 309(b)(2)(F)](https://www.govinfo.gov/link/plaw/105/public/245), Oct. 7, 1998, [112 Stat. 1853](https://www.govinfo.gov/link/statute/112/1853); [Pub. L. 116–260, div. Z, title IX, § 9011](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2606](https://www.govinfo.gov/link/statute/134/2606); [Pub. L. 116–283, div. H, title XCIV, § 9411](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4815](https://www.govinfo.gov/link/statute/134/4815); [Pub. L. 117–167, div. B, title I, § 10113(a)](https://www.govinfo.gov/link/plaw/117/public/167) –(e), (g), Aug. 9, 2022, [136 Stat. 1464–1468](https://www.govinfo.gov/link/statute/136/1464).)*

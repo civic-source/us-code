@@ -3,9 +3,10 @@ title: "Section 2200a - Scholarship program"
 usc_title: 10
 usc_section: "2200a"
 chapter: 112
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2200a"
-generated_at: "2026-03-30T02:53:38.147Z"
+generated_at: "2026-11-23T21:25:32.569Z"
+status: "active"
 ---
 
 # § 2200a. Scholarship program
@@ -36,3 +37,21 @@ generated_at: "2026-03-30T02:53:38.147Z"
 - **(g)** The Secretary of Defense—
   - **(1)** may, without regard to any provision of title 5 governing appointments in the competitive service, appoint to a cyber position in the Department of Defense in the excepted service an individual who has successfully completed an academic program for which a scholarship under this section was awarded and who, under the terms of the agreement for such scholarship, at the time of such appointment owes a service commitment to the Department; and
   - **(2)** may, upon satisfactory completion of two years of substantially continuous service by an incumbent who was appointed to an excepted service position under the authority of paragraph (1), convert the appointment of such individual, without competition, to a career or career conditional appointment.
+
+Authority
+
+Service Agreement for Scholarship Recipients
+
+Amount of Assistance
+
+Use of Assistance for Support of Internships
+
+Repayment for Period of Unserved Obligated Service
+
+Allocation of Funding
+
+Employment of Program Participants
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title IX, § 922(a)(1)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–234; amended [Pub. L. 109–163, div. A, title VI, § 687(c)(8)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3334](https://www.govinfo.gov/link/statute/119/3334); [Pub. L. 111–84, div. A, title X, § 1073(a)(20)](https://www.govinfo.gov/link/plaw/111/public/84), title XI, § 1103, Oct. 28, 2009, [123 Stat. 2473](https://www.govinfo.gov/link/statute/123/2473), 2485; [Pub. L. 115–91, div. A, title VI, § 618(a)(1)(J)](https://www.govinfo.gov/link/plaw/115/public/91), title XVI, § 1649(b), (d)(1)(C), Dec. 12, 2017, [131 Stat. 1426](https://www.govinfo.gov/link/statute/131/1426), 1752; [Pub. L. 116–92, div. A, title XVI, § 1637](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1749](https://www.govinfo.gov/link/statute/133/1749).)*

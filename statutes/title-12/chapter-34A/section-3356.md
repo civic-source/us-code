@@ -3,9 +3,10 @@ title: "Section 3356 - Exemption from appraisals of real estate located in rural
 usc_title: 12
 usc_section: "3356"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3356"
-generated_at: "2026-03-30T02:53:53.494Z"
+generated_at: "2026-11-23T21:25:37.135Z"
+status: "active"
 ---
 
 # § 3356. Exemption from appraisals of real estate located in rural areas
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:53.494Z"
   - **(1)** a Federal financial institutions regulatory agency requires an appraisal under section 225.63(c), 323.3(c), 34.43(c), or 722.3(e) of title 12, Code of Federal Regulations; or
   - **(2)** the loan is a high-cost mortgage, as defined in section 1602 of title 15 .
 - **(e)** Each Federal financial institutions regulatory agency shall ensure that any mortgage originator that the Federal financial institutions regulatory agency oversees that makes a significant amount of loans under subsection (b) is complying with the requirements of subsection (b)(2) with respect to each loan.
+
+## Source Credit
+
+*([Pub. L. 101–73, title XI, § 1127](https://www.govinfo.gov/link/plaw/101/public/73), as added [Pub. L. 115–174, title I, § 103](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1299](https://www.govinfo.gov/link/statute/132/1299).)*

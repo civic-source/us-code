@@ -3,9 +3,10 @@ title: "Section 4413 - Executive Board"
 usc_title: 20
 usc_section: "4413"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 4413"
-generated_at: "2026-03-30T02:54:48.184Z"
+generated_at: "2026-11-23T21:25:47.444Z"
+status: "active"
 ---
 
 # § 4413. Executive Board
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:48.184Z"
 - **(c)** The Executive Board shall hold not more than 4 regular meetings per calendar year. Special meetings may be held upon the call of the chairman or 3 members of the Executive Board.
 - **(d)** A majority of the Executive Board shall constitute a quorum.
 - **(e)** The Executive Board may hold and use all the powers of the Board, subject to the approval of the Board.
+
+## Source Credit
+
+*([Pub. L. 99–498, title XV, § 1506](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1603](https://www.govinfo.gov/link/statute/100/1603).)*

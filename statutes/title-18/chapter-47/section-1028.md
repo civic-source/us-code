@@ -3,9 +3,10 @@ title: "Section 1028 - Fraud and related activity in connection with identificat
 usc_title: 18
 usc_section: "1028"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1028"
-generated_at: "2026-03-30T02:54:16.479Z"
+generated_at: "2026-11-23T21:25:44.033Z"
+status: "active"
 ---
 
 # § 1028. Fraud and related activity in connection with identification documents, authentication features, and information
@@ -74,3 +75,31 @@ generated_at: "2026-03-30T02:54:16.479Z"
 - **(g)** The forfeiture of property under this section, including any seizure and disposition of the property and any related judicial or administrative proceeding, shall be governed by the provisions of section 413 (other than subsection (d) of that section) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ( 21 U.S.C. 853 ).
 - **(h)** In the circumstance in which any person is convicted of a violation of subsection (a), the court shall order, in addition to the penalty prescribed, the forfeiture and destruction or other disposition of all illicit authentication features, identification documents, document-making implements, or means of identification.
 - **(i)** For purpose of subsection (a)(7), a single identification document or false identification document that contains 1 or more means of identification shall be construed to be 1 means of identification.
+
+Attempt and Conspiracy
+
+Forfeiture Procedures
+
+Forfeiture; Disposition
+
+Rule of Construction
+
+In General
+
+Membership
+
+Term
+
+Report.—
+
+In general
+
+Contents
+
+In General
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(Added [Pub. L. 97–398, § 2](https://www.govinfo.gov/link/plaw/97/public/398), Dec. 31, 1982, [96 Stat. 2009](https://www.govinfo.gov/link/statute/96/2009); amended [Pub. L. 99–646, § 44(a)](https://www.govinfo.gov/link/plaw/99/public/646), Nov. 10, 1986, [100 Stat. 3601](https://www.govinfo.gov/link/statute/100/3601); [Pub. L. 100–690, title VII, § 7023](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4397](https://www.govinfo.gov/link/statute/102/4397); [Pub. L. 101–647, title XII, § 1205(e)](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4831](https://www.govinfo.gov/link/statute/104/4831); [Pub. L. 103–322, title XXXIII, § 330016(1)(K)](https://www.govinfo.gov/link/plaw/103/public/322), (M), (O), Sept. 13, 1994, [108 Stat. 2147](https://www.govinfo.gov/link/statute/108/2147), 2148; [Pub. L. 104–208, div. C, title II, § 211(a)(1)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–569](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 104–294, title VI, § 601(a)(3)](https://www.govinfo.gov/link/plaw/104/public/294), (p), Oct. 11, 1996, [110 Stat. 3498](https://www.govinfo.gov/link/statute/110/3498), 3502; [Pub. L. 105–318, § 3(a)](https://www.govinfo.gov/link/plaw/105/public/318) –(h)(1), Oct. 30, 1998, [112 Stat. 3007–3009](https://www.govinfo.gov/link/statute/112/3007); [Pub. L. 106–578, § 3](https://www.govinfo.gov/link/plaw/106/public/578), Dec. 28, 2000, [114 Stat. 3076](https://www.govinfo.gov/link/statute/114/3076); [Pub. L. 108–21, title VI, § 607(b)](https://www.govinfo.gov/link/plaw/108/public/21), Apr. 30, 2003, [117 Stat. 689](https://www.govinfo.gov/link/statute/117/689); [Pub. L. 108–275](https://www.govinfo.gov/link/plaw/108/public/275), §§ 2(c), 3, July 15, 2004, [118 Stat. 832](https://www.govinfo.gov/link/statute/118/832); [Pub. L. 108–458, title VII, § 7216](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3833](https://www.govinfo.gov/link/statute/118/3833); [Pub. L. 109–13, div. B, title II, § 203(a)](https://www.govinfo.gov/link/plaw/109/public/13), May 11, 2005, [119 Stat. 315](https://www.govinfo.gov/link/statute/119/315); [Pub. L. 109–177, title VI, § 603](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 253](https://www.govinfo.gov/link/statute/120/253).)*

@@ -3,9 +3,10 @@ title: "Section 6174 - Future-years defense environmental cleanup plan"
 usc_title: 10
 usc_section: "6174"
 chapter: 604
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6174"
-generated_at: "2026-03-30T02:53:38.221Z"
+generated_at: "2026-11-23T21:25:32.819Z"
+status: "active"
 ---
 
 # § 6174. Future-years defense environmental cleanup plan
@@ -35,3 +36,15 @@ generated_at: "2026-03-30T02:53:38.221Z"
   - **(3)** Safeguards and security.
   - **(4)** Technology development and deployment.
   - **(5)** Federal contributions to the Uranium Enrichment Decontamination and Decommissioning Fund established under section 1801 of the Atomic Energy Act of 1954 ( 42 U.S.C. 2297g ).
+
+In General
+
+Elements
+
+Sites Specified
+
+Activities Specified
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1387](https://www.govinfo.gov/link/statute/139/1387).)*

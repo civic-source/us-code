@@ -3,9 +3,10 @@ title: "Section 1901 - Congressional findings"
 usc_title: 25
 usc_section: "1901"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1901"
-generated_at: "2026-03-30T02:54:52.830Z"
+generated_at: "2026-11-23T21:25:54.645Z"
+status: "active"
 ---
 
 # § 1901. Congressional findings
@@ -17,3 +18,7 @@ Recognizing the special relationship between the United States and the Indian tr
   - **(3)** that there is no resource that is more vital to the continued existence and integrity of Indian tribes than their children and that the United States has a direct interest, as trustee, in protecting Indian children who are members of or are eligible for membership in an Indian tribe;
   - **(4)** that an alarmingly high percentage of Indian families are broken up by the removal, often unwarranted, of their children from them by nontribal public and private agencies and that an alarmingly high percentage of such children are placed in non-Indian foster and adoptive homes and institutions; and
   - **(5)** that the States, exercising their recognized jurisdiction over Indian child custody proceedings through administrative and judicial bodies, have often failed to recognize the essential tribal relations of Indian people and the cultural and social standards prevailing in Indian communities and families.
+
+## Source Credit
+
+*([Pub. L. 95–608, § 2](https://www.govinfo.gov/link/plaw/95/public/608), Nov. 8, 1978, [92 Stat. 3069](https://www.govinfo.gov/link/statute/92/3069).)*

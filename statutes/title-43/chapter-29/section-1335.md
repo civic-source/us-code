@@ -3,9 +3,10 @@ title: "Section 1335 - Validation and maintenance of prior leases"
 usc_title: 43
 usc_section: "1335"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1335"
-generated_at: "2026-03-30T02:55:57.469Z"
+generated_at: "2026-11-23T21:26:19.829Z"
+status: "active"
 ---
 
 # § 1335. Validation and maintenance of prior leases
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:57.469Z"
 - **(c)** The permission granted in subsection (b) of this section shall not be construed to be a waiver of such claims, if any, as the United States may have against the lessor or the lessee or any other person respecting sums payable or paid for or under the lease, or respecting activities conducted under the lease, prior to August 7, 1953 .
 - **(d)** Any person complaining of a negative determination by the Secretary of the Interior under this section may have such determination reviewed by the United States District Court for the District of Columbia by filing a petition for review within sixty days after receiving notice of such action by the Secretary.
 - **(e)** In the event any lease maintained under this section covers lands beneath navigable waters, as that term is used in the Submerged Lands Act [ 43 U.S.C. 1301 et seq.], as well as lands of the outer Continental Shelf, the provisions of this section shall apply to such lease only insofar as it covers lands of the outer Continental Shelf.
+
+## Source Credit
+
+*(Aug. 7, 1953, ch. 345, § 6, [67 Stat. 465](https://www.govinfo.gov/link/statute/67/465).)*

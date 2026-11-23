@@ -3,9 +3,10 @@ title: "Section 1212 - Applicability of other laws"
 usc_title: 45
 usc_section: "1212"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 1212"
-generated_at: "2026-03-30T02:55:56.561Z"
+generated_at: "2026-11-23T21:26:19.241Z"
+status: "active"
 ---
 
 # § 1212. Applicability of other laws
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:56.561Z"
 - **(c)** Beginning on January 14, 1983 , the ceiling on Government contributions for Federal employees health benefits insurance premiums under section 8906(b)(2) of title 5 shall not apply to the Alaska Railroad.
 - **(d)** Nothing in this chapter is intended to enlarge or diminish the acreage entitlement of the State or any Native Corporation pursuant to existing law.
 - **(e)** With respect to interests of Native Corporations under the Alaska Native Claims Settlement Act ( 43 U.S.C. 1601 et seq.) and the Alaska National Interest Lands Conservation Act ( 16 U.S.C. 3101 et seq.), except as provided in this chapter, nothing contained in this chapter shall be construed to deny, enlarge, grant, impair, or otherwise affect any judgment heretofore entered in a court of competent jurisdiction, or valid existing right or claim of valid existing right.
+
+## Source Credit
+
+*([Pub. L. 97–468, title VI, § 613](https://www.govinfo.gov/link/plaw/97/public/468), Jan. 14, 1983, [96 Stat. 2577](https://www.govinfo.gov/link/statute/96/2577); [Pub. L. 113–287, § 5(m)(2)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3271](https://www.govinfo.gov/link/statute/128/3271); [Pub. L. 117–286, § 4(a)(289)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4337](https://www.govinfo.gov/link/statute/136/4337).)*

@@ -3,9 +3,10 @@ title: "Section 14 - Jurisdiction of offenses and suits"
 usc_title: 15
 usc_section: "14"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 14"
-generated_at: "2026-03-30T02:54:08.073Z"
+generated_at: "2026-11-23T21:25:39.604Z"
+status: "active"
 ---
 
 # § 80b–14. Jurisdiction of offenses and suits
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.073Z"
 - **(b)** The district courts of the United States and the United States courts of any Territory shall have jurisdiction of an action or proceeding brought or instituted by the Commission or the United States alleging a violation of section 80b–6 of this title involving—
   - **(1)** conduct within the United States that constitutes significant steps in furtherance of the violation, even if the violation is committed by a foreign adviser and involves only foreign investors; or
   - **(2)** conduct occurring outside the United States that has a foreseeable substantial effect within the United States.
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title II, § 214, [54 Stat. 856](https://www.govinfo.gov/link/statute/54/856); [Pub. L. 100–181, title VII, § 707](https://www.govinfo.gov/link/plaw/100/public/181), Dec. 4, 1987, [101 Stat. 1264](https://www.govinfo.gov/link/statute/101/1264); [Pub. L. 101–429, title IV, § 403](https://www.govinfo.gov/link/plaw/101/public/429), Oct. 15, 1990, [104 Stat. 951](https://www.govinfo.gov/link/statute/104/951); [Pub. L. 111–203, title IX](https://www.govinfo.gov/link/plaw/111/public/203), §§ 929E(d), 929P(b)(3), July 21, 2010, [124 Stat. 1853](https://www.govinfo.gov/link/statute/124/1853), 1865.)*

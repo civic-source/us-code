@@ -3,9 +3,10 @@ title: "Section 6394 - State applications; services"
 usc_title: 20
 usc_section: "6394"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6394"
-generated_at: "2026-03-30T02:54:48.198Z"
+generated_at: "2026-11-23T21:25:47.511Z"
+status: "active"
 ---
 
 # § 6394. State applications; services
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:54:48.198Z"
   - **(1)** a child who ceases to be a migratory child during a school term shall be eligible for services until the end of such term;
   - **(2)** a child who is no longer a migratory child may continue to receive services for 1 additional school year, but only if comparable services are not available through other programs; and
   - **(3)** students who were eligible for services in secondary school may continue to be served through credit accrual programs until graduation.
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1304](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1574](https://www.govinfo.gov/link/statute/115/1574); amended [Pub. L. 114–95, title I, § 1301(c)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1896](https://www.govinfo.gov/link/statute/129/1896).)*

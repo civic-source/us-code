@@ -3,9 +3,10 @@ title: "Section 6991 - Definitions and exemptions"
 usc_title: 42
 usc_section: "6991"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6991"
-generated_at: "2026-03-30T02:56:11.280Z"
+generated_at: "2026-11-23T21:26:33.029Z"
+status: "active"
 ---
 
 # § 6991. Definitions and exemptions
@@ -39,3 +40,45 @@ In this subchapter:
     - **(G)** flow-through process tank,
     - **(H)** liquid trap or associated gathering lines directly related to oil or gas production and gathering operations, or
     - **(I)** storage tank situated in an underground area (such as a basement, cellar, mineworking, drift, shaft, or tunnel) if the storage tank is situated upon or above the surface of the floor.
+
+Indian tribe.—
+
+In general
+
+Inclusions
+
+Trust fund
+
+Definitions
+
+Aboveground storage tank
+
+Administrator
+
+Denali Commission
+
+Federal environmental law
+
+Native village
+
+Program
+
+Regulated substance
+
+State
+
+Establishment.—
+
+In general
+
+Grants
+
+Use of Grants
+
+Reports
+
+Authorization of Appropriations
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 9001](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 98–616, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/98/public/616), Nov. 8, 1984, [98 Stat. 3277](https://www.govinfo.gov/link/statute/98/3277); amended [Pub. L. 99–499, title II, § 205(a)](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1696](https://www.govinfo.gov/link/statute/100/1696); [Pub. L. 102–508, title III, § 302](https://www.govinfo.gov/link/plaw/102/public/508), Oct. 24, 1992, [106 Stat. 3307](https://www.govinfo.gov/link/statute/106/3307); [Pub. L. 103–429, § 7(d)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4389](https://www.govinfo.gov/link/statute/108/4389); [Pub. L. 109–58, title XV](https://www.govinfo.gov/link/plaw/109/public/58), §§ 1532(a), 1533(1), Aug. 8, 2005, [119 Stat. 1104](https://www.govinfo.gov/link/statute/119/1104), 1105.)*

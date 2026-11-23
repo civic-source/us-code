@@ -3,9 +3,10 @@ title: "Section 157 - National Environmental Policy Act of 1969 reporting progra
 usc_title: 23
 usc_section: "157"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 157"
-generated_at: "2026-03-30T02:55:12.560Z"
+generated_at: "2026-11-23T21:25:53.898Z"
+status: "active"
 ---
 
 # § 157. National Environmental Policy Act of 1969 reporting program
@@ -42,3 +43,35 @@ generated_at: "2026-03-30T02:55:12.560Z"
     - **(J)** for the proposed actions reported under subparagraphs (F) and (I), the percentage of those proposed actions for which—
       - **(i)** funding has been identified; and
       - **(ii)** all other Federal, State, and local activities that are required to allow the proposed action to proceed are completed.
+
+Definitions
+
+Categorical exclusion
+
+Documented categorical exclusion
+
+Environmental assessment
+
+Environmental impact statement
+
+Federal agency
+
+NEPA process
+
+Proposed action
+
+Reporting period
+
+Secretary
+
+Report on NEPA Data.—
+
+In general
+
+Time to complete
+
+Information described
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. A, title I, § 11312(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 538](https://www.govinfo.gov/link/statute/135/538).)*

@@ -3,9 +3,10 @@ title: "Section 4502 - Definitions"
 usc_title: 7
 usc_section: "4502"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 4502"
-generated_at: "2026-03-30T02:53:42.408Z"
+generated_at: "2026-11-23T21:25:28.346Z"
+status: "active"
 ---
 
 # § 4502. Definitions
@@ -31,3 +32,7 @@ As used in this subchapter—
   - **(4)** casein and mixtures;
 - **(n)** the term “importer” means a person that imports an imported dairy product into the United States; and
 - **(o)** the term “Customs” means the United States Customs Service.
+
+## Source Credit
+
+*([Pub. L. 98–180, title I, § 111](https://www.govinfo.gov/link/plaw/98/public/180), Nov. 29, 1983, [97 Stat. 1136](https://www.govinfo.gov/link/statute/97/1136); [Pub. L. 107–171, title I, § 1505(a)](https://www.govinfo.gov/link/plaw/107/public/171), (h)(2), May 13, 2002, [116 Stat. 207](https://www.govinfo.gov/link/statute/116/207), 210; [Pub. L. 110–234, title I, § 1507(b)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 997](https://www.govinfo.gov/link/statute/122/997); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1507(b), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1725.)*

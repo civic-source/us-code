@@ -3,9 +3,10 @@ title: "Section 60118 - Compliance and waivers"
 usc_title: 49
 usc_section: "60118"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 60118"
-generated_at: "2026-03-30T02:56:19.415Z"
+generated_at: "2026-11-23T21:26:41.028Z"
+status: "active"
 ---
 
 # § 60118. Compliance and waivers
@@ -38,3 +39,109 @@ generated_at: "2026-03-30T02:56:19.415Z"
       - **(i)** In this paragraph, the term “obstructs” includes actions that were known, or reasonably should have been known, to prevent, hinder, or impede an investigation without good cause.
       - **(ii)** In clause (i), the term “good cause” may include actions such as restricting access to facilities that are not secure or safe for nonpipeline personnel or visitors.
 - **(f)** Nothing in this section may be construed to infringe upon the constitutional rights of an operator or its employees.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60118(a) | 49 App.:1677(a). | Aug. 12, 1968 , Pub. L. 90–481, § 10(a) , 82 Stat. 725 ; Nov. 30, 1979 , Pub. L. 96–129 , §[§] 105(b), 109(h)(4), 152(a), 93 Stat. 994 , 996, 999. |
+|  | 49 App.:2006(a). | Nov. 30, 1979 , Pub. L. 96–129 , §§ 203(h), 207(a), (b)(1), 93 Stat. 1005 , 1009. |
+| 60118(b) | 49 App.:1677(b)(1). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 10(b)(1); added Nov. 30, 1979 , Pub. L. 96–129 , §§ 104(a)(1), 152(a), 93 Stat. 992 , 999. |
+|  | 49 App.:2006(b)(1). |  |
+| 60118(c) | 49 App.:1672(d) (1st, 2d sentences). | Aug. 12, 1968 , Pub. L. 90–481, § 3(d) , 82 Stat. 721 ; Nov. 30, 1979 , Pub. L. 96–129 , §[§] 104(d), 109(c), 152(b)(2), 93 Stat. 994 , 996, 1001. |
+|  | 49 App.:2002(h) (1st, 2d sentences). |  |
+| 60118(d) | 49 App.:1672(d) (3d–last sentences). |  |
+|  | 49 App.:2002(h) (3d–last sentences). |  |
+
+
+General Requirements
+
+Compliance Orders
+
+Waivers by Secretary.—
+
+Nonemergency waivers.—
+
+In general
+
+Hearing
+
+Emergency waivers.—
+
+In general
+
+Period of waiver
+
+Statement of reasons
+
+Waivers by State Authorities
+
+Operator Assistance in Investigations.—
+
+Assistance and access
+
+Operator assistance in investigations.—
+
+In general
+
+Obstructs defined.—
+
+In general
+
+Good cause
+
+Limitation on Statutory Construction
+
+Historical and Revision Notes
+
+60118(a)
+
+Aug. 12, 1968
+
+Pub. L. 90–481, § 10(a)
+
+82 Stat. 725
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 994
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 1005
+
+60118(b)
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 992
+
+60118(c)
+
+Aug. 12, 1968
+
+Pub. L. 90–481, § 3(d)
+
+82 Stat. 721
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 994
+
+60118(d)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1322](https://www.govinfo.gov/link/statute/108/1322); [Pub. L. 104–304, § 13](https://www.govinfo.gov/link/plaw/104/public/304), Oct. 12, 1996, [110 Stat. 3802](https://www.govinfo.gov/link/statute/110/3802); [Pub. L. 107–355](https://www.govinfo.gov/link/plaw/107/public/355), §§ 10(a), (c), 14(c), Dec. 17, 2002, [116 Stat. 2995](https://www.govinfo.gov/link/statute/116/2995), 2996, 3005; [Pub. L. 109–468, § 10](https://www.govinfo.gov/link/plaw/109/public/468), Dec. 29, 2006, [120 Stat. 3494](https://www.govinfo.gov/link/statute/120/3494); [Pub. L. 112–90, § 2(b)](https://www.govinfo.gov/link/plaw/112/public/90), Jan. 3, 2012, [125 Stat. 1905](https://www.govinfo.gov/link/statute/125/1905); [Pub. L. 116–260, div. R, title I, § 108(b)(3)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2223](https://www.govinfo.gov/link/statute/134/2223).)*

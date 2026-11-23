@@ -3,9 +3,10 @@ title: "Section 3361 - National Virtual Translation Center"
 usc_title: 50
 usc_section: "3361"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3361"
-generated_at: "2026-03-30T02:56:26.248Z"
+generated_at: "2026-11-23T21:26:39.044Z"
+status: "active"
 ---
 
 # § 3361. National Virtual Translation Center
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:26.248Z"
     - **(A)** has been certified as a secure facility by a department or agency of the United States Government; or
     - **(B)** the Director has otherwise determined to be appropriate for such duties and functions.
 - **(e)** The element required by subsection (a) shall be established as soon as practicable after November 27, 2002 , but not later than 90 days after November 27, 2002 .
+
+## Source Credit
+
+*([Pub. L. 107–306, title III, § 313](https://www.govinfo.gov/link/plaw/107/public/306), Nov. 27, 2002, [116 Stat. 2391](https://www.govinfo.gov/link/statute/116/2391); [Pub. L. 108–458, title I, § 1071(g)(2)(A)(i)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3691](https://www.govinfo.gov/link/statute/118/3691); [Pub. L. 108–487, title III, § 304](https://www.govinfo.gov/link/plaw/108/public/487), Dec. 23, 2004, [118 Stat. 3944](https://www.govinfo.gov/link/statute/118/3944); [Pub. L. 118–31, div. G, title IX, § 7901(f)(1)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1107](https://www.govinfo.gov/link/statute/137/1107).)*

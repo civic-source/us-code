@@ -3,9 +3,10 @@ title: "Section 36d - Treatment Referral Routing Service"
 usc_title: 42
 usc_section: "36d"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 36d"
-generated_at: "2026-03-30T02:56:10.763Z"
+generated_at: "2026-11-23T21:26:30.571Z"
+status: "active"
 ---
 
 # § 290bb–36d. Treatment Referral Routing Service
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:10.763Z"
   - **(1)** shall provide an opportunity to such practitioner to have the contact information of the practitioner removed from the website at the request of the practitioner; and
   - **(2)** may evaluate other methods to periodically update the information displayed on such website.
 - **(d)** Nothing in this section shall be construed to prevent the Assistant Secretary from using any unobligated amounts otherwise made available to the Administration to maintain the Routing Service.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title V, § 520E–4, as added [Pub. L. 114–255, div. B, title IX, § 9006](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1239](https://www.govinfo.gov/link/statute/130/1239); amended [Pub. L. 117–215, title I, § 103(b)(3)(A)](https://www.govinfo.gov/link/plaw/117/public/215), Dec. 2, 2022, [136 Stat. 2263](https://www.govinfo.gov/link/statute/136/2263); [Pub. L. 117–328, div. FF, title I, § 1262(b)(3)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5682](https://www.govinfo.gov/link/statute/136/5682); [Pub. L. 119–26, § 4(2)(B)(iv)](https://www.govinfo.gov/link/plaw/119/public/26), July 16, 2025, [139 Stat. 417](https://www.govinfo.gov/link/statute/139/417).)*

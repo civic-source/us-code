@@ -3,9 +3,10 @@ title: "Section 12732 - Entitlement to retired pay: computation of years of serv
 usc_title: 10
 usc_section: "12732"
 chapter: 1223
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 12732"
-generated_at: "2026-03-30T02:53:38.271Z"
+generated_at: "2026-11-23T21:25:33.053Z"
+status: "active"
 ---
 
 # § 12732. Entitlement to retired pay: computation of years of service
@@ -51,3 +52,56 @@ generated_at: "2026-03-30T02:53:38.271Z"
   - **(6)** Service as an inactive Reserve nurse of the Army Nurse Corps established by the Act of February 2, 1901 (ch. 192, 31 Stat. 753 ), as amended, and service before July 1, 1938 , as an inactive Reserve nurse of the Navy Nurse Corps established by the Act of May 13, 1908 (ch. 166, 35 Stat. 146 ).
   - **(7)** Service in any status other than that as commissioned officer, warrant officer, nurse, flight officer, aviation midshipman, appointed aviation cadet, or enlisted member, and that described in clauses (I) and (J) of subsection (a)(1).
   - **(8)** Service in the screening performed pursuant to section 10149 of this title through electronic means, regardless of whether or not a stipend is paid the member concerned for such service under section 433a of title 37 .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1332(a) | 10:1036a(b). 10:1036a(c). 10:1036e(a). 10:1036e(b). 10:1036e(c) (less applicability to determination of retired pay). 10:1036e(d) (less applicability to determination of retired pay). | June 29, 1948, ch. 708, § 302(b) , (c), 62 Stat. 1089 ; Sept. 7, 1949, ch. 547 , §§ 1, 2, 63 Stat. 693 . June 29, 1948, ch. 708, § 306 (less (c) and (d), as applicable to determination of retired pay), 62 Stat. 1088 . |
+|  | 34:440i(b). |  |
+|  | 34:440i(c). |  |
+|  | 34:440m(a). |  |
+|  | 34:440m(b). |  |
+|  | 34:440m(c) (less applicability to determination of retired pay). |  |
+|  | 34:440m(d) (less applicability to determination of retired pay). |  |
+| 1332(b) | 10:1036e(e). |  |
+|  | 10:1036e(f). |  |
+|  | 34:440m(e). |  |
+|  | 34:440m(f). |  |
+
+
+Historical and Revision Notes
+
+Act
+
+1332(a)
+
+June 29, 1948, ch. 708, § 302(b)
+
+62 Stat. 1089
+
+Sept. 7, 1949, ch. 547
+
+63 Stat. 693
+
+June 29, 1948, ch. 708, § 306
+
+62 Stat. 1088
+
+1332(b)
+
+Act
+
+In general
+
+Separate credit for each period of leave
+
+When credited
+
+Tracking System for Award of Retirement Points
+
+Recommendations to Congress
+
+“That any person who was a member of the Coast Guard Women’s Reserve and who served on active duty therein for at least one year prior to July 25, 1947 ; who was separated therefrom under honorable conditions; and who also had membership therein for any period between November 1, 1949 , and July 1, 1956 , shall be deemed to have served on inactive duty with the Coast Guard Women’s Reserve from July 25, 1947 , to November 1, 1949 , in the grade or rating satisfactorily held on active duty prior to July 25, 1947 .
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 102, § 1332; [Pub. L. 85–861, § 33(a)(9)](https://www.govinfo.gov/link/plaw/85/public/861), Sept. 2, 1958, [72 Stat. 1565](https://www.govinfo.gov/link/statute/72/1565); [Pub. L. 86–197, § 1(1)](https://www.govinfo.gov/link/plaw/86/public/197) –(3), Aug. 25, 1959, [73 Stat. 425](https://www.govinfo.gov/link/statute/73/425); [Pub. L. 88–636, § 1](https://www.govinfo.gov/link/plaw/88/public/636), Oct. 8, 1964, [78 Stat. 1034](https://www.govinfo.gov/link/statute/78/1034); [Pub. L. 93–545, § 1](https://www.govinfo.gov/link/plaw/93/public/545), Dec. 26, 1974, [88 Stat. 1741](https://www.govinfo.gov/link/statute/88/1741); [Pub. L. 96–513, title V, § 511(48)](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2924](https://www.govinfo.gov/link/statute/94/2924); renumbered § 12732 and amended [Pub. L. 103–337, div. A, title XVI, § 1662(j)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2998](https://www.govinfo.gov/link/statute/108/2998), 3000; [Pub. L. 104–201, div. A, title V, § 543(b)(1)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2522](https://www.govinfo.gov/link/statute/110/2522); [Pub. L. 106–65, div. A, title V, § 578(h)(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 628](https://www.govinfo.gov/link/statute/113/628); [Pub. L. 109–163, div. A, title V, § 515(b)(1)(MM)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3234](https://www.govinfo.gov/link/statute/119/3234); [Pub. L. 110–181, div. A, title VI, § 633(c)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 155](https://www.govinfo.gov/link/statute/122/155); [Pub. L. 116–283, div. A, title V, § 516(a)](https://www.govinfo.gov/link/plaw/116/public/283), title VI, § 602(b)(4), Jan. 1, 2021, [134 Stat. 3589](https://www.govinfo.gov/link/statute/134/3589), 3671; [Pub. L. 118–31, div. A, title VI, § 601(c)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 289](https://www.govinfo.gov/link/statute/137/289).)*

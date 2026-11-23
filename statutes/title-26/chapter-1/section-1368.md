@@ -3,9 +3,10 @@ title: "Section 1368 - Distributions"
 usc_title: 26
 usc_section: "1368"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1368"
-generated_at: "2026-03-30T02:55:27.770Z"
+generated_at: "2026-11-23T21:26:06.498Z"
+status: "active"
 ---
 
 # § 1368. Distributions
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:27.770Z"
 - **(f)** If a director receives a distribution (not in part or full payment in exchange for stock) from an S corporation with respect to any restricted bank director stock (as defined in section 1361(f)), the amount of such distribution—
   - **(1)** shall be includible in gross income of the director, and
   - **(2)** shall be deductible by the corporation for the taxable year of such corporation in which or with which ends the taxable year in which such amount is included in the gross income of the director.
+
+## Source Credit
+
+*(Added [Pub. L. 97–354, § 2](https://www.govinfo.gov/link/plaw/97/public/354), Oct. 19, 1982, [96 Stat. 1680](https://www.govinfo.gov/link/statute/96/1680); amended [Pub. L. 97–448, title III, § 305(d)(2)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2399](https://www.govinfo.gov/link/statute/96/2399); [Pub. L. 98–369, div. A, title VII, § 721(r)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 970](https://www.govinfo.gov/link/statute/98/970); [Pub. L. 99–514, title XVIII, § 1879(m)(1)(B)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2910](https://www.govinfo.gov/link/statute/100/2910); [Pub. L. 104–188, title I, § 1309(a)(2)](https://www.govinfo.gov/link/plaw/104/public/188) –(c), Aug. 20, 1996, [110 Stat. 1783](https://www.govinfo.gov/link/statute/110/1783); [Pub. L. 110–28, title VIII, § 8232(b)](https://www.govinfo.gov/link/plaw/110/public/28), May 25, 2007, [121 Stat. 197](https://www.govinfo.gov/link/statute/121/197); [Pub. L. 115–141, div. U, title IV, § 401(a)(193)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1193](https://www.govinfo.gov/link/statute/132/1193).)*

@@ -3,9 +3,10 @@ title: "Section 506 - Grants to States for reemployment services and eligibility
 usc_title: 42
 usc_section: "506"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 506"
-generated_at: "2026-03-30T02:56:10.869Z"
+generated_at: "2026-11-23T21:26:31.065Z"
+status: "active"
 ---
 
 # § 506. Grants to States for reemployment services and eligibility assessments
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:56:10.869Z"
   - **(3)** The term “intervention” means a service delivery strategy for the provision of State reemployment services and eligibility assessment activities under this section.
   - **(4)** The term “State” has the meaning given the term in section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 ( 26 U.S.C. 3304 note).
   - **(5)** The term unemployment compensation means “regular compensation”, “extended compensation”, and “additional compensation” (as such terms are defined by section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 ( 26 U.S.C. 3304 note)).
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title III, § 306, as added [Pub. L. 115–123, div. C, title II, § 30206(a)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 127](https://www.govinfo.gov/link/statute/132/127); amended [Pub. L. 118–120, § 2(a)](https://www.govinfo.gov/link/plaw/118/public/120), Nov. 25, 2024, [138 Stat. 1626](https://www.govinfo.gov/link/statute/138/1626).)*

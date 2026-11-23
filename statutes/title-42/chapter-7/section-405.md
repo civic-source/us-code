@@ -3,9 +3,10 @@ title: "Section 405 - Evidence, procedure, and certification for payments"
 usc_title: 42
 usc_section: "405"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 405"
-generated_at: "2026-03-30T02:56:10.856Z"
+generated_at: "2026-11-23T21:26:30.997Z"
+status: "active"
 ---
 
 # § 405. Evidence, procedure, and certification for payments
@@ -234,13 +235,13 @@ generated_at: "2026-03-30T02:56:10.856Z"
     - **(A)** is not an individual (regardless of whether it is a “qualified organization” within the meaning of paragraph (4)(B)); or
     - **(B)** is an individual who, for any month during a period when misuse occurs, serves 15 or more individuals who are beneficiaries under this subchapter, subchapter VIII, subchapter XVI, or any combination of such subchapters;
   - **(6)** In addition to such other reviews of representative payees as the Commissioner of Social Security may otherwise conduct, the Commissioner shall provide for the periodic onsite review of any person or agency located in the United States that receives the benefits payable under this subchapter (alone or in combination with benefits payable under subchapter VIII or subchapter XVI) to another individual pursuant to the appointment of such person or agency as a representative payee under this subsection, section 1007 of this title , or section 1383(a)(2) of this title in any case in which—
-    - **(C)** 7 7 So in original. There are no subpars. (A) and (B). (i) The Commissioner of Social Security shall make annual grants directly to the protection and advocacy system serving each of the States and the American Indian consortium for the purpose of conducting reviews of representative payees in accordance with this subparagraph. The total amount used by the Commissioner for such grants each year—
-        - **(I)** shall be an amount sufficient, as determined by the Commissioner in consultation with each of the protection and advocacy systems, to carry out all of the activities described in clause (ii); and
-        - **(II)** shall not be less than $25,000,000.
       - **(i)** the representative payee is a person who serves in that capacity with respect to 15 or more such individuals;
       - **(ii)** the representative payee is a certified community-based nonprofit social service agency (as defined in paragraph (10) of this subsection or section 1383(a)(2)(I) of this title );
       - **(iii)** the representative payee is an agency (other than an agency described in clause (ii)) that serves in that capacity with respect to 50 or more such individuals; or
       - **(iv)** the representative payee collects a fee for its services.
+    - **(C)** 7 7 So in original. There are no subpars. (A) and (B). (i) The Commissioner of Social Security shall make annual grants directly to the protection and advocacy system serving each of the States and the American Indian consortium for the purpose of conducting reviews of representative payees in accordance with this subparagraph. The total amount used by the Commissioner for such grants each year—
+        - **(I)** shall be an amount sufficient, as determined by the Commissioner in consultation with each of the protection and advocacy systems, to carry out all of the activities described in clause (ii); and
+        - **(II)** shall not be less than $25,000,000.
 - **(ii)** A protection and advocacy system awarded a grant under this subparagraph shall use the grant funds to—
         - **(I)** conduct all periodic onsite reviews pursuant to this paragraph and such other reviews of representative payees as the Commissioner may request, including reviews conducted in response to allegations or concerns about the performance or suitability of the payee;
         - **(II)** conduct additional reviews that the protection and advocacy system has reason to believe are warranted;
@@ -248,6 +249,21 @@ generated_at: "2026-03-30T02:56:10.856Z"
         - **(IV)** submit a report to the Commissioner on each completed review containing such information as the Commissioner shall require; and
         - **(V)** conduct an initial onsite assessment of any organization that begins collecting a fee for its services as a representative payee to ensure that such organization is established as such a representative payee in accordance with requirements specified by the Commissioner.
 - **(iii)** To be eligible to receive grants under this section, a protection and advocacy system shall submit an initial application to the Commissioner at such time, in such form and manner, and accompanied by such information and assurances as the Commissioner may require.
+      - **(iv)**
+        - **(I)** Subject to subclause (II), the Commissioner shall ensure that any funds used for grants under clause (i) shall be allocated to the protection and advocacy systems serving each of the States and the American Indian consortium in a manner such that the amount provided to each protection and advocacy system bears the same ratio to the total of such funds as the number of represented beneficiaries in the State or American Indian consortium in which such protection and advocacy system is located bears to the total number of represented beneficiaries.
+        - **(II)** The amount of an annual grant to a protection and advocacy system under clause (i) shall—
+        - **(III)** Funds provided to a protection and advocacy system through a grant under clause (i) for a 1-year period shall remain available through the end of the following 1-year period.
+        - **(IV)** For purposes of this clause, the term “represented beneficiary” means an individual—
+      - **(v)**
+        - **(I)** The Commissioner shall make annual grants, in an amount equal to 4 percent of the total amount of grants awarded each year under clause (i), to an eligible national association for the provision of training and technical assistance, administrative support, and data collection services to protection and advocacy systems in connection with grants awarded under clause (i).
+        - **(II)** In this clause, the term “eligible national association” means a national disability association with extensive knowledge and demonstrated experience in providing training, technical assistance, and administrative oversight to protection and advocacy systems that monitor representative payees.
+      - **(vi)** In conducting reviews under this section, a protection and advocacy system shall have the same authorities, including access to records, facilities, and persons, as such system would have for purposes of providing services under subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ( 42 U.S.C. 15041 et seq.).
+      - **(vii)** Whenever benefit amounts under this subchapter are increased by any percentage effective with any month after November 2018 as a result of a determination made under section 415(i) of this title , each of the dollar amounts specified in clauses (i)(II) and (iv)(II) shall be increased by the same percentage.
+      - **(viii)** No additional funds are authorized to be appropriated to carry out the requirements of this subparagraph. Such requirements shall be carried out using amounts otherwise authorized.
+      - **(ix)** In this subparagraph:
+        - **(I)** The term “American Indian consortium” means a consortium established under subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ( 42 U.S.C. 15041 et seq.).
+        - **(II)** The term “protection and advocacy system” means a protection and advocacy system established under subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ( 42 U.S.C. 15041 et seq.).
+        - **(III)** The term “State” means the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
   - **(7)**
     - **(A)** If the Commissioner of Social Security or a court of competent jurisdiction determines that a representative payee that is not a Federal, State, or local government agency has misused all or part of an individual’s benefit that was paid to such representative payee under this subsection, the representative payee shall be liable for the amount misused, and such amount (to the extent not repaid by the representative payee) shall be treated as an overpayment of benefits under this subchapter to the representative payee for all purposes of this chapter and related laws pertaining to the recovery of such overpayments. Subject to subparagraph (B), upon recovering all or any part of such amount, the Commissioner shall certify an amount equal to the recovered amount for payment to such individual or such individual’s alternative representative payee.
     - **(B)** The total of the amount certified for payment to such individual or such individual’s alternative representative payee under subparagraph (A) and the amount certified for payment under paragraph (5) may not exceed the total benefit amount misused by the representative payee with respect to such individual.
@@ -281,21 +297,6 @@ generated_at: "2026-03-30T02:56:10.856Z"
       - **(ii)** all such representative payees that are organizations, separated by whether such organization collects a fee for its services as a representative payee;
       - **(iii)** all such representative payees that are individuals serving 15 or more individuals; and
       - **(iv)** all such representative payees that are individuals serving less than 15 individuals, separated by whether such representative payee is a family member.
-      - **(iv)**
-        - **(I)** Subject to subclause (II), the Commissioner shall ensure that any funds used for grants under clause (i) shall be allocated to the protection and advocacy systems serving each of the States and the American Indian consortium in a manner such that the amount provided to each protection and advocacy system bears the same ratio to the total of such funds as the number of represented beneficiaries in the State or American Indian consortium in which such protection and advocacy system is located bears to the total number of represented beneficiaries.
-        - **(II)** The amount of an annual grant to a protection and advocacy system under clause (i) shall—
-        - **(III)** Funds provided to a protection and advocacy system through a grant under clause (i) for a 1-year period shall remain available through the end of the following 1-year period.
-        - **(IV)** For purposes of this clause, the term “represented beneficiary” means an individual—
-      - **(v)**
-        - **(I)** The Commissioner shall make annual grants, in an amount equal to 4 percent of the total amount of grants awarded each year under clause (i), to an eligible national association for the provision of training and technical assistance, administrative support, and data collection services to protection and advocacy systems in connection with grants awarded under clause (i).
-        - **(II)** In this clause, the term “eligible national association” means a national disability association with extensive knowledge and demonstrated experience in providing training, technical assistance, and administrative oversight to protection and advocacy systems that monitor representative payees.
-      - **(vi)** In conducting reviews under this section, a protection and advocacy system shall have the same authorities, including access to records, facilities, and persons, as such system would have for purposes of providing services under subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ( 42 U.S.C. 15041 et seq.).
-      - **(vii)** Whenever benefit amounts under this subchapter are increased by any percentage effective with any month after November 2018 as a result of a determination made under section 415(i) of this title , each of the dollar amounts specified in clauses (i)(II) and (iv)(II) shall be increased by the same percentage.
-      - **(viii)** No additional funds are authorized to be appropriated to carry out the requirements of this subparagraph. Such requirements shall be carried out using amounts otherwise authorized.
-      - **(ix)** In this subparagraph:
-        - **(I)** The term “American Indian consortium” means a consortium established under subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ( 42 U.S.C. 15041 et seq.).
-        - **(II)** The term “protection and advocacy system” means a protection and advocacy system established under subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ( 42 U.S.C. 15041 et seq.).
-        - **(III)** The term “State” means the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 - **(k)** Any payment made after December 31, 1939 , under conditions set forth in subsection (j), any payment made before January 1, 1940 , to, or on behalf of, a legally incompetent individual, and any payment made after December 31, 1939 , to a legally incompetent individual without knowledge by the Commissioner of Social Security of incompetency prior to certification of payment, if otherwise valid under this subchapter, shall be a complete settlement and satisfaction of any claim, right, or interest in and to such payment.
 - **(l)** The Commissioner of Social Security is authorized to delegate to any member, officer, or employee of the Social Security Administration designated by the Commissioner any of the powers conferred upon the Commissioner by this section, and is authorized to be represented by the Commissioner’s own attorneys in any court in any case or proceeding arising under the provisions of subsection (e).
 - **(m)**
@@ -377,3 +378,133 @@ generated_at: "2026-03-30T02:56:10.856Z"
     - **(A)** an incorrect or incomplete statement that is material to the determination is knowingly made; or
     - **(B)** information that is material to the determination is knowingly concealed.
   - **(3)** If, after redetermining pursuant to this subsection the entitlement of an individual to monthly insurance benefits, the Commissioner of Social Security determines that there is insufficient evidence to support such entitlement, the Commissioner of Social Security may terminate such entitlement and may treat benefits paid on the basis of such insufficient evidence as overpayments.
+
+(aa) subparagraph (B)(i)(VII) shall not apply; and
+
+(bb) the Commissioner may grant an exemption from the provisions of clause (i)(VI) if the Commissioner determines that such exemption is in the best interest of the individual entitled to benefits.
+
+(aa) is the custodial parent of a minor child for whom the person applies to serve;
+
+(bb) is the custodial spouse of the beneficiary for whom the person applies to serve;
+
+(cc) is the custodial parent of a beneficiary who is under a disability (as defined in section 423(d) of this title ) which began before the beneficiary attained the age of 22, for whom the person applies to serve;
+
+(dd) is the custodial court appointed guardian of the beneficiary for whom the person applies to serve;
+
+(ee) is the custodial grandparent of a minor grandchild for whom the person applies to serve;
+
+(ff) is the parent who was previously representative payee for his or her minor child who has since turned 18 and continues to be eligible for such benefit; or
+
+(gg) received a presidential or gubernatorial pardon for the relevant conviction.
+
+(aa) in the case of a protection and advocacy system serving American Samoa, Guam, the United States Virgin Islands, or the Commonwealth of the Northern Mariana Islands, or the American Indian consortium, not be less than $30,000; and
+
+(bb) in the case of a protection and advocacy system serving any other State, not be less than $60,000.
+
+(aa) who is entitled to benefits under this subchapter, subchapter VIII, or subchapter XVI; and
+
+(bb) whose benefits have been certified for payment to a representative payee.
+
+(aa) paragraph (5) (on the basis of a negligent failure of the Commissioner described in such paragraph);
+
+(bb) paragraph (5) (on any other basis); and
+
+(cc) paragraph (7);
+
+(aa) paragraph (5); and
+
+(bb) paragraph (7);
+
+In general
+
+Delay
+
+In general
+
+Exception if state legislation required
+
+New appointments
+
+Prior appointments
+
+In general
+
+Reissuance
+
+General rule
+
+Treatment of current beneficiaries
+
+Use and selection of representative payees
+
+Compensation of representative payees
+
+“In implementing clause (xiii) of section 205(c)(2)(C) of the Social Security Act ( 42 U.S.C. 405(c)(2)(C) ), as added by subsection (a)(3), the Secretary of Health and Human Services shall do the following:
+
+In general
+
+Consideration of medicare beneficiary identified
+
+Protection and advocacy system grants
+
+National association grants
+
+In general
+
+Priority
+
+Restriction
+
+Regulations
+
+Report
+
+Definitions
+
+Agency
+
+CFO act agency
+
+Effective Date
+
+Security Enhancements
+
+Interagency Security Task Force
+
+Enumeration at Birth.—
+
+Improvement of application process
+
+Report to congress
+
+Study Regarding Process for Enumeration at Birth.—
+
+In general
+
+Report.—
+
+In general
+
+Contents
+
+Authorization of Appropriations
+
+Development.—
+
+In general
+
+Assistance by attorney general
+
+Studies and Reports.—
+
+In general
+
+Elements of studies
+
+Distribution of reports
+
+“The Secretary of Health and Human Services shall take such steps as may be necessary or appropriate to assure public understanding of the importance the Congress attaches to the face-to-face reconsiderations provided for in section 205(b)(2) of the Social Security Act [ 42 U.S.C. 405(b)(2) ] (as added by section 4 of this Act). For this purpose the Secretary shall—
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title II, § 205, [49 Stat. 624](https://www.govinfo.gov/link/statute/49/624); Aug. 10, 1939, ch. 666, title II, § 201, [53 Stat. 1362](https://www.govinfo.gov/link/statute/53/1362), 1368; June 25, 1948, ch. 646, § 32(b), [62 Stat. 991](https://www.govinfo.gov/link/statute/62/991); May 24, 1949, ch. 139, § 127, [63 Stat. 107](https://www.govinfo.gov/link/statute/63/107); Aug. 28, 1950, ch. 809, title I, §§ 101(b)(2), 108(a)–(c), 109(b), [64 Stat. 488](https://www.govinfo.gov/link/statute/64/488), 518, 523; July 18, 1952, ch. 945, § 5(b), [66 Stat. 775](https://www.govinfo.gov/link/statute/66/775); Sept. 1, 1954, ch. 1206, title I, § 101(a)(5), (c)(3), [68 Stat. 1052](https://www.govinfo.gov/link/statute/68/1052), 1054; Aug. 1, 1956, ch. 836, title I, §§ 107(b), 111(a), 117, [70 Stat. 829](https://www.govinfo.gov/link/statute/70/829), 831, 834; Aug. 1, 1956, ch. 837, title IV, § 402(b), [70 Stat. 871](https://www.govinfo.gov/link/statute/70/871); [Pub. L. 86–507, § 1(35)](https://www.govinfo.gov/link/plaw/86/public/507), June 11, 1960, [74 Stat. 202](https://www.govinfo.gov/link/statute/74/202); [Pub. L. 86–778, title I](https://www.govinfo.gov/link/plaw/86/public/778), §§ 102(f)(2), 103(j)(2)(E), title VII, § 702(a), Sept. 13, 1960, [74 Stat. 933](https://www.govinfo.gov/link/statute/74/933), 938, 993; [Pub. L. 87–293, title II, § 202(b)(3)](https://www.govinfo.gov/link/plaw/87/public/293), Sept. 21, 1961, [75 Stat. 626](https://www.govinfo.gov/link/statute/75/626); [Pub. L. 89–97, title III](https://www.govinfo.gov/link/plaw/89/public/97), §§ 308(d)(9), (10), 330, July 30, 1965, [79 Stat. 379](https://www.govinfo.gov/link/statute/79/379), 401; [Pub. L. 90–248, title I, § 171(a)](https://www.govinfo.gov/link/plaw/90/public/248), Jan. 2, 1968, [81 Stat. 876](https://www.govinfo.gov/link/statute/81/876); [Pub. L. 91–452, title II, § 236](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 930](https://www.govinfo.gov/link/statute/84/930); [Pub. L. 92–603, title I, § 137](https://www.govinfo.gov/link/plaw/92/public/603), Oct. 30, 1972, [86 Stat. 1364](https://www.govinfo.gov/link/statute/86/1364); [Pub. L. 93–445, title III](https://www.govinfo.gov/link/plaw/93/public/445), §§ 302(a), 303, Oct. 16, 1974, [88 Stat. 1358](https://www.govinfo.gov/link/statute/88/1358); [Pub. L. 94–202, § 4](https://www.govinfo.gov/link/plaw/94/public/202), Jan. 2, 1976, [89 Stat. 1136](https://www.govinfo.gov/link/statute/89/1136); [Pub. L. 94–455, title XII, § 1211(b)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1711](https://www.govinfo.gov/link/statute/90/1711); [Pub. L. 95–216, title III, § 353(f)(2)](https://www.govinfo.gov/link/plaw/95/public/216), Dec. 20, 1977, [91 Stat. 1554](https://www.govinfo.gov/link/statute/91/1554); [Pub. L. 95–600, title VII, § 703(j)(14)(B)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2942](https://www.govinfo.gov/link/statute/92/2942); [Pub. L. 96–265, title III](https://www.govinfo.gov/link/plaw/96/public/265), §§ 305(a), 307, June 9, 1980, [94 Stat. 457](https://www.govinfo.gov/link/statute/94/457), 458; [Pub. L. 97–455, § 4(a)](https://www.govinfo.gov/link/plaw/97/public/455), Jan. 12, 1983, [96 Stat. 2499](https://www.govinfo.gov/link/statute/96/2499); [Pub. L. 98–21, title III](https://www.govinfo.gov/link/plaw/98/public/21), §§ 301(d), 309(i), 336, 345(a), Apr. 20, 1983, [97 Stat. 111](https://www.govinfo.gov/link/statute/97/111), 117, 130, 137; [Pub. L. 98–369, div. B, title VI](https://www.govinfo.gov/link/plaw/98/public/369), §§ 2661(h), 2663(a)(4), (j)(4), July 18, 1984, [98 Stat. 1157](https://www.govinfo.gov/link/statute/98/1157), 1162, 1171; [Pub. L. 98–460, § 16(a)](https://www.govinfo.gov/link/plaw/98/public/460), Oct. 9, 1984, [98 Stat. 1809](https://www.govinfo.gov/link/statute/98/1809); [Pub. L. 99–509, title IX, § 9002(c)(2)(A)](https://www.govinfo.gov/link/plaw/99/public/509), (B), Oct. 21, 1986, [100 Stat. 1971](https://www.govinfo.gov/link/statute/100/1971); [Pub. L. 100–485, title I, § 125(a)](https://www.govinfo.gov/link/plaw/100/public/485), Oct. 13, 1988, [102 Stat. 2353](https://www.govinfo.gov/link/statute/102/2353); [Pub. L. 100–647, title VIII](https://www.govinfo.gov/link/plaw/100/public/647), §§ 8008(a), 8009(a), 8015(a)(1), 8016(a)(1), Nov. 10, 1988, [102 Stat. 3783](https://www.govinfo.gov/link/statute/102/3783), 3787, 3790, 3792; [Pub. L. 101–239, title X](https://www.govinfo.gov/link/plaw/101/public/239), §§ 10303(a), 10304, Dec. 19, 1989, [103 Stat. 2482](https://www.govinfo.gov/link/statute/103/2482), 2483; [Pub. L. 101–508, title V](https://www.govinfo.gov/link/plaw/101/public/508), §§ 5105(a)(1)(A), (2)(A)(i), (3)(A)(i), (b)(1)(A), (c)(1), (d)(1)(A), 5107(a)(1), 5109(a)(1), Nov. 5, 1990, [104 Stat. 1388–254](https://www.govinfo.gov/link/statute/104/1388), 1388–255, 1388–260, 1388–263, 1388–265, 1388–269, 1388–271; [Pub. L. 101–624, title XVII, § 1735(a)](https://www.govinfo.gov/link/plaw/101/public/624), (b), title XXII, § 2201(b), (c), Nov. 28, 1990, [104 Stat. 3791](https://www.govinfo.gov/link/statute/104/3791), 3792, 3951, 3952; [Pub. L. 103–296, title I, § 107(a)(1)](https://www.govinfo.gov/link/plaw/103/public/296), (2), (4), title II, §§ 201(a)(1)(A), (B), (2)(A)–(C), 206(a)(1), (d)(1), title III, §§ 304(a), 316(a), 318, 321(a)(7)–(11), (c)(3), (6)(B), (f)(2)(A), Aug. 15, 1994, [108 Stat. 1477](https://www.govinfo.gov/link/statute/108/1477), 1478, 1490–1493, 1509, 1514, 1520, 1531, 1533, 1536, 1538, 1541; [Pub. L. 104–121, title I, § 105(a)(2)](https://www.govinfo.gov/link/plaw/104/public/121), Mar. 29, 1996, [110 Stat. 852](https://www.govinfo.gov/link/statute/110/852); [Pub. L. 104–193, title I, § 108(a)(1)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2164](https://www.govinfo.gov/link/statute/110/2164); [Pub. L. 105–34, title X, § 1090(b)(1)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 962](https://www.govinfo.gov/link/statute/111/962); [Pub. L. 106–169, title II, § 251(b)(2)](https://www.govinfo.gov/link/plaw/106/public/169), Dec. 14, 1999, [113 Stat. 1854](https://www.govinfo.gov/link/statute/113/1854); [Pub. L. 107–90, title I, § 103(i)(3)](https://www.govinfo.gov/link/plaw/107/public/90), Dec. 21, 2001, [115 Stat. 882](https://www.govinfo.gov/link/statute/115/882); [Pub. L. 107–252, title III, § 303(a)(5)(C)](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1711](https://www.govinfo.gov/link/statute/116/1711); [Pub. L. 108–203, title I](https://www.govinfo.gov/link/plaw/108/public/203), §§ 101(a), 102(a)(1), (b)(1), 103(a), 104(a), 105(a), 106(a), title IV, § 411(a), Mar. 2, 2004, [118 Stat. 495](https://www.govinfo.gov/link/statute/118/495), 497, 498, 500, 503–505, 527; [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 108–458, title VII, § 7214(a)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3832](https://www.govinfo.gov/link/statute/118/3832); [Pub. L. 109–241, title IX, § 902(n)](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 568](https://www.govinfo.gov/link/statute/120/568); [Pub. L. 110–234, title IV, § 4002(b)(1)(B)](https://www.govinfo.gov/link/plaw/110/public/234), (2)(V), May 22, 2008, [122 Stat. 1096](https://www.govinfo.gov/link/statute/122/1096), 1097; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4002(b)(1)(B), (2)(V), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1858; [Pub. L. 111–148, title I, § 1414(a)(2)](https://www.govinfo.gov/link/plaw/111/public/148), title VI, § 6402(b)(3), Mar. 23, 2010, [124 Stat. 237](https://www.govinfo.gov/link/statute/124/237), 756; [Pub. L. 111–318, § 2(a)(1)](https://www.govinfo.gov/link/plaw/111/public/318), (b)(1), Dec. 18, 2010, [124 Stat. 3455](https://www.govinfo.gov/link/statute/124/3455); [Pub. L. 114–10, title V, § 501(a)](https://www.govinfo.gov/link/plaw/114/public/10), Apr. 16, 2015, [129 Stat. 163](https://www.govinfo.gov/link/statute/129/163); [Pub. L. 114–74, title VIII, § 843](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 617](https://www.govinfo.gov/link/statute/129/617); [Pub. L. 115–165, title I](https://www.govinfo.gov/link/plaw/115/public/165), §§ 101(a), (b), 102(a), 103(a)(1), 105(a), title II, §§ 201(a), 202(a), 203(a), Apr. 13, 2018, [132 Stat. 1257](https://www.govinfo.gov/link/statute/132/1257), 1259–1261, 1264, 1266, 1267, 1272; [Pub. L. 116–260, div. FF, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3201](https://www.govinfo.gov/link/statute/134/3201); [Pub. L. 119–77, § 2(a)](https://www.govinfo.gov/link/plaw/119/public/77), (b), Feb. 10, 2026, [140 Stat. 745](https://www.govinfo.gov/link/statute/140/745).)*

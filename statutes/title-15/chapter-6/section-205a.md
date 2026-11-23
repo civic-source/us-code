@@ -3,9 +3,10 @@ title: "Section 205a - Congressional statement of findings"
 usc_title: 15
 usc_section: "205a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 205a"
-generated_at: "2026-03-30T02:54:08.075Z"
+generated_at: "2026-11-23T21:25:39.610Z"
+status: "active"
 ---
 
 # § 205a. Congressional statement of findings
@@ -19,3 +20,19 @@ The Congress finds as follows:
   - **(5)** The inherent simplicity of the metric system of measurement and standardization of weights and measures has led to major cost savings in certain industries which have converted to that system.
   - **(6)** The Federal Government has a responsibility to develop procedures and techniques to assist industry, especially small business, as it voluntarily converts to the metric system of measurement.
   - **(7)** The metric system of measurement can provide substantial advantages to the Federal Government in its own operations.
+
+“The Congress finds the following:
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+George Bush.
+
+## Source Credit
+
+*([Pub. L. 94–168, § 2](https://www.govinfo.gov/link/plaw/94/public/168), Dec. 23, 1975, [89 Stat. 1007](https://www.govinfo.gov/link/statute/89/1007); [Pub. L. 100–418, title V, § 5164(a)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1451](https://www.govinfo.gov/link/statute/102/1451).)*

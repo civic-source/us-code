@@ -3,9 +3,10 @@ title: "Section 1822 - Leasing of space"
 usc_title: 2
 usc_section: "1822"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1822"
-generated_at: "2026-03-30T02:53:04.817Z"
+generated_at: "2026-11-23T21:25:21.245Z"
+status: "active"
 ---
 
 # § 1822. Leasing of space
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:04.817Z"
   - **(2)** the Committee on Appropriations of the House of Representatives and the House Office Building Commission for space to be leased for the House of Representatives; and
   - **(3)** the Committees on Appropriations of the Senate and House of Representatives, for space to be leased for any other entity under subsection (a).
 - **(c)** This section shall apply with respect to fiscal year 2004, and each fiscal year thereafter.
+
+## Source Credit
+
+*([Pub. L. 108–83, title I, § 1102](https://www.govinfo.gov/link/plaw/108/public/83), Sept. 30, 2003, [117 Stat. 1027](https://www.govinfo.gov/link/statute/117/1027); [Pub. L. 110–161, div. H, title I, § 1306(a)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2243](https://www.govinfo.gov/link/statute/121/2243).)*

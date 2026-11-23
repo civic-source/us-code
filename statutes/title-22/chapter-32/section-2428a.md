@@ -3,9 +3,10 @@ title: "Section 2428a - Congressional declaration of policy toward Korea; transm
 usc_title: 22
 usc_section: "2428a"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2428a"
-generated_at: "2026-03-30T02:55:05.366Z"
+generated_at: "2026-11-23T21:25:58.493Z"
+status: "active"
 ---
 
 # § 2428a. Congressional declaration of policy toward Korea; transmittal of report to Speaker of the House and Congressional committees
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.366Z"
 - **(b)**
   - **(1)** Any implementation of the foregoing policy shall be carried out in regular consultation with the Congress.
   - **(2)** Repealed. Pub. L. 103–236, title I, § 139(5) , Apr. 30, 1994 , 108 Stat. 398 .
+
+## Source Credit
+
+*([Pub. L. 95–105, title V, § 512](https://www.govinfo.gov/link/plaw/95/public/105), Aug. 17, 1977, [91 Stat. 861](https://www.govinfo.gov/link/statute/91/861); [Pub. L. 103–236, title I, § 139(5)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 398](https://www.govinfo.gov/link/statute/108/398).)*

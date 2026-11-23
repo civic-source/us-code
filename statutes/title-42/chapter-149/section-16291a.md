@@ -3,12 +3,17 @@ title: "Section 16291a - Property interests"
 usc_title: 42
 usc_section: "16291a"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16291a"
-generated_at: "2026-03-30T02:56:11.479Z"
+generated_at: "2026-11-23T21:26:33.723Z"
+status: "active"
 ---
 
 # § 16291a. Property interests
 
 That for all programs funded under Fossil Energy appropriations in this and subsequent Acts, the Secretary may vest fee title or other property interests acquired under projects in any entity, including the United States.
 
+
+## Source Credit
+
+*([Pub. L. 113–76, div. D, title III](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 165](https://www.govinfo.gov/link/statute/128/165).)*

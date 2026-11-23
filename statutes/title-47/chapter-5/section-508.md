@@ -3,9 +3,10 @@ title: "Section 508 - Disclosure of payments to individuals connected with broad
 usc_title: 47
 usc_section: "508"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 508"
-generated_at: "2026-03-30T02:56:24.517Z"
+generated_at: "2026-11-23T21:26:36.027Z"
+status: "active"
 ---
 
 # § 508. Disclosure of payments to individuals connected with broadcasts
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:24.517Z"
 - **(e)** The inclusion in the program of the announcement required by section 317 of this title shall constitute the disclosure required by this section.
 - **(f)** The term “service or other valuable consideration” as used in this section shall not include any service or property furnished without charge or at a nominal charge for use on, or in connection with, a broadcast, or for use on a program which is intended for broadcasting over any radio station, unless it is so furnished in consideration for an identification in such broadcast or in such program of any person, product, service, trademark, or brand name beyond an identification which is reasonably related to the use of such service or property in such broadcast or such program.
 - **(g)** Any person who violates any provision of this section shall, for each such violation, be fined not more than $10,000 or imprisoned not more than one year, or both.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title V, § 507, formerly § 508, as added [Pub. L. 86–752, § 8(b)](https://www.govinfo.gov/link/plaw/86/public/752), Sept. 13, 1960, [74 Stat. 896](https://www.govinfo.gov/link/statute/74/896); renumbered § 507, [Pub. L. 96–507, § 1](https://www.govinfo.gov/link/plaw/96/public/507), Dec. 8, 1980, [94 Stat. 2747](https://www.govinfo.gov/link/statute/94/2747).)*

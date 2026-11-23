@@ -3,9 +3,10 @@ title: "Section 10504 - Chief of National Guard Bureau: annual reports"
 usc_title: 10
 usc_section: "10504"
 chapter: 1011
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 10504"
-generated_at: "2026-03-30T02:53:38.266Z"
+generated_at: "2026-11-23T21:25:33.027Z"
+status: "active"
 ---
 
 # § 10504. Chief of National Guard Bureau: annual reports
@@ -38,3 +39,13 @@ generated_at: "2026-03-30T02:53:38.266Z"
     - **(H)** The Commander of the United States Indo-Pacific Command.
     - **(I)** The Commander of the United States Cyber Command.
   - **(4)** In this subsection, the term “covered period” means the fiscal year beginning after the date on which a report is submitted under paragraph (1).
+
+Annual Report on State of the National Guard
+
+Submission of Report to Congress
+
+Annual Report on Non-federalized Service National Guard Personnel, Training, and Equipment Requirements
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title IX, § 904(a)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2825](https://www.govinfo.gov/link/statute/108/2825); amended [Pub. L. 115–91, div. A, title III, § 333(a)](https://www.govinfo.gov/link/plaw/115/public/91), (b)(1), Dec. 12, 2017, [131 Stat. 1354–1356](https://www.govinfo.gov/link/statute/131/1354); [Pub. L. 115–232, div. A, title X, § 1081(a)(30)](https://www.govinfo.gov/link/plaw/115/public/232), title XII, § 1251(b)(1), Aug. 13, 2018, [132 Stat. 1985](https://www.govinfo.gov/link/statute/132/1985), 2053.)*

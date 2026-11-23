@@ -3,9 +3,10 @@ title: "Section 3553 - Authority and functions of the Director and the Secretary
 usc_title: 44
 usc_section: "3553"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 3553"
-generated_at: "2026-03-30T02:55:56.297Z"
+generated_at: "2026-11-23T21:26:18.435Z"
+status: "active"
 ---
 
 # § 3553. Authority and functions of the Director and the Secretary
@@ -100,3 +101,81 @@ generated_at: "2026-03-30T02:55:56.297Z"
 - **(l)**
   - **(1)** Notwithstanding any other provision of law, including any provision of law that would otherwise restrict or prevent the head of an agency from disclosing information to the Secretary, the Secretary in carrying out this section and title XXII of the Homeland Security Act of 2002 ( 6 U.S.C. 651 et seq.) may access, use, retain, and disclose, and the head of an agency may disclose to the Secretary, information, for the purpose of protecting information and information systems from cybersecurity risks.
   - **(2)** Paragraph (1) shall not apply to national security systems or to information systems described in paragraph (2) or (3) of subsection (e).
+
+Director
+
+Secretary
+
+Report
+
+National Security Systems
+
+Department of Defense and Intelligence Community Systems
+
+Consideration.—
+
+In general
+
+Directives
+
+Rule of construction
+
+Exercise of Authority
+
+Direction to Agencies.—
+
+Authority.—
+
+In general
+
+Exception
+
+Procedures for use of authority
+
+Imminent threats.—
+
+In general
+
+Limitation on delegation
+
+Advance procedures
+
+Limitation
+
+Annual Report to Congress
+
+Rule of Construction
+
+Appropriate Congressional Committees Defined
+
+Information Sharing.—
+
+In general
+
+Exception
+
+Definitions
+
+Prohibition on the Use of TikTok.—
+
+In general
+
+National security and research exceptions
+
+Requirements
+
+National security; law enforcement; remediation
+
+Reports.—
+
+Director of omb
+
+Secretary of homeland security
+
+Exception
+
+Rule of construction
+
+## Source Credit
+
+*(Added [Pub. L. 113–283, § 2(a)](https://www.govinfo.gov/link/plaw/113/public/283), Dec. 18, 2014, [128 Stat. 3075](https://www.govinfo.gov/link/statute/128/3075); amended [Pub. L. 114–113, div. N, title II](https://www.govinfo.gov/link/plaw/114/public/113), §§ 224(e), 229(a), Dec. 18, 2015, [129 Stat. 2967](https://www.govinfo.gov/link/statute/129/2967), 2972; [Pub. L. 115–390, title II, § 204(a)(1)](https://www.govinfo.gov/link/plaw/115/public/390), Dec. 21, 2018, [132 Stat. 5192](https://www.govinfo.gov/link/statute/132/5192); [Pub. L. 116–92, div. E, title LXIV, § 6432](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2200](https://www.govinfo.gov/link/statute/133/2200); [Pub. L. 116–283, div. A, title XVII, § 1705](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4082](https://www.govinfo.gov/link/statute/134/4082).)*

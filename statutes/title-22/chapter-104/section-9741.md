@@ -3,9 +3,10 @@ title: "Section 9741 - Recovering assets stolen from the Venezuelan people"
 usc_title: 22
 usc_section: "9741"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9741"
-generated_at: "2026-03-30T02:55:05.473Z"
+generated_at: "2026-11-23T21:25:58.787Z"
+status: "active"
 ---
 
 # § 9741. Recovering assets stolen from the Venezuelan people
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.473Z"
   - **(2)** The strategy required under paragraph (1) shall—
     - **(A)** assess whether the United States or another member of the international community should establish a managed fund to hold the assets identified pursuant to subsection (a)(2) that could be returned to a future democratic government in Venezuela; and
     - **(B)** include such recommendations as the President and the Secretary of State consider appropriate for legislative or administrative action in the United States that would be needed to establish and manage the fund described in subparagraph (A).
+
+## Source Credit
+
+*([Pub. L. 116–94, div. J, title I, § 151](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3039](https://www.govinfo.gov/link/statute/133/3039).)*

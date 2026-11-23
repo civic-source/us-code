@@ -3,9 +3,10 @@ title: "Section 5201 - Purposes"
 usc_title: 12
 usc_section: "5201"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5201"
-generated_at: "2026-03-30T02:53:53.524Z"
+generated_at: "2026-11-23T21:25:37.230Z"
+status: "active"
 ---
 
 # § 5201. Purposes
@@ -18,3 +19,21 @@ The purposes of this chapter are—
     - **(B)** preserves homeownership and promotes jobs and economic growth;
     - **(C)** maximizes overall returns to the taxpayers of the United States; and
     - **(D)** provides public accountability for the exercise of such authority.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 110–343, div. A, § 2](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3766](https://www.govinfo.gov/link/statute/122/3766).)*

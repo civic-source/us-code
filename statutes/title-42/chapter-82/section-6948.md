@@ -3,9 +3,10 @@ title: "Section 6948 - Federal assistance"
 usc_title: 42
 usc_section: "6948"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6948"
-generated_at: "2026-03-30T02:56:11.275Z"
+generated_at: "2026-11-23T21:26:33.015Z"
+status: "active"
 ---
 
 # § 6948. Federal assistance
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:56:11.275Z"
   - **(1)** The Administrator is authorized to make grants to municipalities, regional authorities, and intermunicipal agencies to carry out activities described in subparagraphs (A) and (B) of section 6943(b)(1) 1 of this title. Such grants may be made only pursuant to an application submitted to the Administrator by the municipality which application has been approved by the State and determined by the State to be consistent with any State plan approved or submitted under this subchapter or any other appropriate planning carried out by the State.
   - **(2)** There is authorized to be appropriated for the fiscal year beginning October 1, 1981 , and for each fiscal year thereafter before October 1, 1986 , $8,000,000 for purposes of making grants to municipalities under this subsection. No amount may be appropriated for such purposes for the fiscal year beginning on October 1, 1986 , or for any fiscal year thereafter.
   - **(3)** Assistance provided by the Administrator under this subsection shall be used only for the purposes specified in paragraph (1). Such assistance may not be used for purposes of land acquisition, final facility design, equipment purchase, construction, startup or operation activities.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 4008](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2818](https://www.govinfo.gov/link/statute/90/2818); amended [Pub. L. 96–463](https://www.govinfo.gov/link/plaw/96/public/463), §§ 5(b), 6, Oct. 15, 1980, [94 Stat. 2057](https://www.govinfo.gov/link/statute/94/2057); [Pub. L. 96–482](https://www.govinfo.gov/link/plaw/96/public/482), §§ 20, 31(c), (d), 32(e), (f), Oct. 21, 1980, [94 Stat. 2345](https://www.govinfo.gov/link/statute/94/2345), 2352, 2354, 2355; [Pub. L. 98–616, § 2(d)](https://www.govinfo.gov/link/plaw/98/public/616) –(g), (k), title V, § 502(d), (e), Nov. 8, 1984, [98 Stat. 3222](https://www.govinfo.gov/link/statute/98/3222), 3223, 3276.)*

@@ -3,9 +3,10 @@ title: "Section 2208 - Claims of constitutionally based privilege against disclo
 usc_title: 44
 usc_section: "2208"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 2208"
-generated_at: "2026-03-30T02:55:56.294Z"
+generated_at: "2026-11-23T21:26:18.412Z"
+status: "active"
 ---
 
 # § 2208. Claims of constitutionally based privilege against disclosure
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:56.294Z"
   - **(1)** the incumbent President withdraws the privilege claim; or
   - **(2)** the Archivist is otherwise directed by a final court order that is not subject to appeal.
 - **(e)** The Archivist shall adjust any otherwise applicable time period under this section as necessary to comply with the return date of any congressional subpoena, judicial subpoena, or judicial process.
+
+## Source Credit
+
+*(Added [Pub. L. 113–187, § 2(a)(1)](https://www.govinfo.gov/link/plaw/113/public/187), Nov. 26, 2014, [128 Stat. 2003](https://www.govinfo.gov/link/statute/128/2003).)*

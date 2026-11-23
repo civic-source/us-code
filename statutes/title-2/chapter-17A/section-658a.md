@@ -3,9 +3,10 @@ title: "Section 658a - Exclusions"
 usc_title: 2
 usc_section: "658a"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 658a"
-generated_at: "2026-03-30T02:53:04.801Z"
+generated_at: "2026-11-23T21:25:21.176Z"
+status: "active"
 ---
 
 # § 658a. Exclusions
@@ -19,3 +20,7 @@ This part shall not apply to any provision in a bill, joint resolution, amendmen
   - **(5)** is necessary for the national security or the ratification or implementation of international treaty obligations;
   - **(6)** the President designates as emergency legislation and that the Congress so designates in statute; or
   - **(7)** relates to the old-age, survivors, and disability insurance program under title II of the Social Security Act [ 42 U.S.C. 401 et seq.] (including taxes imposed by sections 3101(a) and 3111(a) of title 26 (relating to old-age, survivors, and disability insurance)).
+
+## Source Credit
+
+*([Pub. L. 93–344, title IV, § 422](https://www.govinfo.gov/link/plaw/93/public/344), as added [Pub. L. 104–4, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/104/public/4), Mar. 22, 1995, [109 Stat. 53](https://www.govinfo.gov/link/statute/109/53).)*

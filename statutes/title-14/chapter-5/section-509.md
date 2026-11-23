@@ -3,9 +3,10 @@ title: "Section 509 - Space-available travel on Coast Guard aircraft"
 usc_title: 14
 usc_section: "509"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 509"
-generated_at: "2026-03-30T02:53:51.489Z"
+generated_at: "2026-11-23T21:25:35.367Z"
+status: "active"
 ---
 
 # § 509. Space-available travel on Coast Guard aircraft
@@ -46,3 +47,49 @@ generated_at: "2026-03-30T02:53:51.489Z"
     - **(A)** affecting or in any way imposing on the Coast Guard, any armed force, or any commercial entity with which the Coast Guard or an armed force contracts, an obligation or expectation that the Coast Guard or such armed force will retrofit or alter, in any way, military aircraft or commercial aircraft, or related equipment or facilities, used or leased by the Coast Guard or such armed force to accommodate passengers provided travel under such authority on account of disability; or
     - **(B)** preempting the authority of an aircraft commander to determine who boards the aircraft and any other matters in connection with safe operation of the aircraft.
 - **(g)** The authority to provide transportation under the program is in addition to any other authority under law to provide transportation on Coast Guard aircraft on a space-available basis.
+
+Establishment.—
+
+In general
+
+Policy development
+
+Operation of Program.—
+
+In general
+
+Limitations.—
+
+In general
+
+De minimis expenditures
+
+Reimbursement not required
+
+Categories of Eligible Individuals
+
+Requirements
+
+Transportation.—
+
+In general
+
+Individuals covered
+
+Application to certain retired individuals
+
+Priority
+
+Primary care provider and specialty care provider defined
+
+Limitations on Travel.—
+
+In general
+
+Rule of construction
+
+Application of Section
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. K, title CXII, § 11231(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4030](https://www.govinfo.gov/link/statute/136/4030).)*

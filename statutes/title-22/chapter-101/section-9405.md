@@ -3,9 +3,10 @@ title: "Section 9405 - Imposition of additional sanctions with respect to person
 usc_title: 22
 usc_section: "9405"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9405"
-generated_at: "2026-03-30T02:55:05.465Z"
+generated_at: "2026-11-23T21:25:58.772Z"
+status: "active"
 ---
 
 # § 9405. Imposition of additional sanctions with respect to persons responsible for human rights abuses
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.465Z"
 - **(b)**
   - **(1)** The President may, in accordance with the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.), block all transactions in all property and interests in property of a person on the list required by subsection (a) if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
   - **(2)** A person that violates, attempts to violate, conspires to violate, or causes a violation of paragraph (1) or any regulation, license, or order issued to carry out paragraph (1) shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act ( 50 U.S.C. 1705 ) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
+
+## Source Credit
+
+*([Pub. L. 115–44, title I, § 106](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 893](https://www.govinfo.gov/link/statute/131/893).)*

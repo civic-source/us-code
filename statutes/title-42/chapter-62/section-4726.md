@@ -3,9 +3,10 @@ title: "Section 4726 - Coordination of Federal programs"
 usc_title: 42
 usc_section: "4726"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4726"
-generated_at: "2026-03-30T02:56:11.208Z"
+generated_at: "2026-11-23T21:26:32.686Z"
+status: "active"
 ---
 
 # § 4726. Coordination of Federal programs
@@ -14,3 +15,7 @@ The Office, after consultation with other agencies concerned, shall—
 
   - **(1)** coordinate the personnel administration support and technical assistance given to State and local governments and the support given State programs or projects to strengthen local government personnel administration, including the furnishing of needed personnel administration services and technical assistance, under authority of this chapter with any such support given under other Federal programs; and
   - **(2)** make such arrangements, including the collection, maintenance, and dissemination of data on grants for strengthening State and local government personnel administration and on grants to States for furnishing needed personnel administration services and technical assistance to local governments, as needed to avoid duplication and insure consistent administration of related Federal activities.
+
+## Source Credit
+
+*([Pub. L. 91–648, title II, § 206](https://www.govinfo.gov/link/plaw/91/public/648), Jan. 5, 1971, [84 Stat. 1914](https://www.govinfo.gov/link/statute/84/1914); 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783](https://www.govinfo.gov/link/statute/92/3783).)*

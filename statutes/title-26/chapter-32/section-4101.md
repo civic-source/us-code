@@ -3,9 +3,10 @@ title: "Section 4101 - Registration and bond"
 usc_title: 26
 usc_section: "4101"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4101"
-generated_at: "2026-03-30T02:55:27.799Z"
+generated_at: "2026-11-23T21:26:06.599Z"
+status: "active"
 ---
 
 # § 4101. Registration and bond
@@ -31,3 +32,15 @@ generated_at: "2026-03-30T02:55:27.799Z"
 - **(d)** The Secretary may require—
   - **(1)** information reporting by any person registered under this section, and
   - **(2)** information reporting by such other persons as the Secretary deems necessary to carry out this part.
+
+In general
+
+Exception
+
+Registration
+
+Bond
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 484; [Pub. L. 89–44, title VIII, § 802(b)(2)](https://www.govinfo.gov/link/plaw/89/public/44), June 21, 1965, [79 Stat. 159](https://www.govinfo.gov/link/statute/79/159); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 97–424, title V, § 515(b)(8)](https://www.govinfo.gov/link/plaw/97/public/424), Jan. 6, 1983, [96 Stat. 2182](https://www.govinfo.gov/link/statute/96/2182); [Pub. L. 99–514, title XVII, § 1703(b)(1)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2776](https://www.govinfo.gov/link/statute/100/2776); [Pub. L. 100–203, title X, § 10502(d)(3)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–444](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 101–508, title XI, § 11212(b)(1)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–430](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–66, title XIII, § 13242(d)(1)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 522](https://www.govinfo.gov/link/statute/107/522); [Pub. L. 105–34, title X, § 1032(d)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 934](https://www.govinfo.gov/link/statute/111/934); [Pub. L. 105–206, title VI, § 6010(h)(5)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 815](https://www.govinfo.gov/link/statute/112/815); [Pub. L. 107–147, title VI, § 615(a)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 62](https://www.govinfo.gov/link/statute/116/62); [Pub. L. 108–357, title III, § 301(b)](https://www.govinfo.gov/link/plaw/108/public/357), title VIII, §§ 853(d)(2)(F), 861(a), 862(a), 864(a), Oct. 22, 2004, [118 Stat. 1461](https://www.govinfo.gov/link/statute/118/1461), 1613, 1618, 1619, 1621; [Pub. L. 109–59, title XI](https://www.govinfo.gov/link/plaw/109/public/59), §§ 11113(c), 11163(a), 11164(a), Aug. 10, 2005, [119 Stat. 1949](https://www.govinfo.gov/link/statute/119/1949), 1973, 1975; [Pub. L. 110–172, § 11(a)(29)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2487](https://www.govinfo.gov/link/statute/121/2487); [Pub. L. 110–234, title XV, § 15321(b)(3)(A)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1513](https://www.govinfo.gov/link/statute/122/1513); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XV, § 15321(b)(3)(A), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2275; [Pub. L. 112–240, title IV, § 404(b)(3)(C)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2339](https://www.govinfo.gov/link/statute/126/2339); [Pub. L. 117–169, title I](https://www.govinfo.gov/link/plaw/117/public/169), §§ 13203(d)(2)(C), 13704(b)(5), Aug. 16, 2022, [136 Stat. 1935](https://www.govinfo.gov/link/statute/136/1935), 2003; [Pub. L. 119–21, title VII, § 70521(i)(1)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 278](https://www.govinfo.gov/link/statute/139/278).)*

@@ -3,9 +3,10 @@ title: "Section 7823 - Consolidation of funds for local administration"
 usc_title: 20
 usc_section: "7823"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7823"
-generated_at: "2026-03-30T02:54:48.218Z"
+generated_at: "2026-11-23T21:25:47.614Z"
+status: "active"
 ---
 
 # § 7823. Consolidation of funds for local administration
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:48.218Z"
   - **(1)** A local educational agency that consolidates administrative funds under this section may use the consolidated funds for the administration of the programs and for uses, at the school district and school levels, comparable to those described in section 7821(b)(2) of this title .
   - **(2)** A local educational agency that uses funds as described in section 7821(b)(2)(I) of this title may contribute State or local funds to expand the reach of such support without violating any supplement, not supplant requirement of any program contributing administrative funds.
 - **(e)** A local educational agency that consolidates administrative funds under this section shall not be required to keep separate records, by individual program, to account for costs relating to the administration of the programs included in the consolidation.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VIII, § 8203](https://www.govinfo.gov/link/plaw/89/public/10), formerly title IX, § 9203, as added [Pub. L. 107–110, title IX, § 901](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1967](https://www.govinfo.gov/link/statute/115/1967); renumbered title VIII, § 8203, and amended [Pub. L. 114–95, title VIII](https://www.govinfo.gov/link/plaw/114/public/95), §§ 8001(a)(2), 8006, Dec. 10, 2015, [129 Stat. 2088](https://www.govinfo.gov/link/statute/129/2088), 2089, 2100.)*

@@ -3,9 +3,10 @@ title: "Section 541b - Boundaries of scenic-research area; adjustments to subare
 usc_title: 16
 usc_section: "541b"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 541b"
-generated_at: "2026-03-30T02:54:22.868Z"
+generated_at: "2026-11-23T21:25:51.665Z"
+status: "active"
 ---
 
 # § 541b. Boundaries of scenic-research area; adjustments to subarea boundaries; development of management plan; establishment of subareas; management objectives
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:22.868Z"
   - **(2)** Lower Slope-Dispersed Residential Subarea: An area managed to maintain the scenic, soil and watershed, and fish and wildlife values, while allowing dispersed residential occupancy, selective recreation use, and agricultural use.
   - **(3)** Upper Timbered Slope and Headlands Subareas: Areas managed to protect the scenic, soil and watershed, and fish and wildlife values while allowing selective recreation and extensive research-educational activities. Timber harvesting activity may occur in these subareas only when the Secretary determines that such harvesting is to be conducted in connection with research activities or that the preservation of the timber resource is imminently threatened by fire, old age, infestation, or similar natural occurrences.
   - **(4)** Coastline and Sand Dune-Spit Subareas: Areas managed to protect and maintain the scenic and wildlife values while allowing selective recreation and extensive research-educational activities.
+
+## Source Credit
+
+*([Pub. L. 93–535, § 3](https://www.govinfo.gov/link/plaw/93/public/535), Dec. 22, 1974, [88 Stat. 1732](https://www.govinfo.gov/link/statute/88/1732).)*

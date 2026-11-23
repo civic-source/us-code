@@ -3,9 +3,10 @@ title: "Section 24a - Swap data repositories"
 usc_title: 7
 usc_section: "24a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 24a"
-generated_at: "2026-03-30T02:53:42.248Z"
+generated_at: "2026-11-23T21:25:27.867Z"
+status: "active"
 ---
 
 # § 24a. Swap data repositories
@@ -85,3 +86,7 @@ generated_at: "2026-03-30T02:53:42.248Z"
     - **(C)** The Commission shall establish additional duties for any registrant described in section 1a(48) of this title in order to minimize conflicts of interest, protect data, ensure compliance, and guarantee the safety and security of the swap data repository.
 - **(g)** Any person that is required to be registered as a swap data repository under this section shall register with the Commission regardless of whether that person is also licensed as a bank or registered with the Securities and Exchange Commission as a swap data repository.
 - **(h)** The Commission shall adopt rules governing persons that are registered under this section.
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 21, as added [Pub. L. 111–203, title VII, § 728](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1697](https://www.govinfo.gov/link/statute/124/1697); amended [Pub. L. 114–94, div. G, title LXXXVI, § 86001(b)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1797](https://www.govinfo.gov/link/statute/129/1797).)*

@@ -3,9 +3,10 @@ title: "Section 1787 - Payment of insurance"
 usc_title: 12
 usc_section: "1787"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1787"
-generated_at: "2026-03-30T02:53:53.439Z"
+generated_at: "2026-11-23T21:25:36.950Z"
+status: "active"
 ---
 
 # § 1787. Payment of insurance
@@ -415,3 +416,9 @@ generated_at: "2026-03-30T02:53:53.439Z"
 - **(r)** The Board, as conservator or liquidating agent of any insured credit union and for purposes of carrying out any power, authority, or duty with respect to an insured credit union—
   - **(1)** may request the assistance of any foreign banking authority and provide assistance to any foreign banking authority in accordance with section 1786(u) of this title ; and
   - **(2)** may maintain an office to coordinate foreign investigations or investigations on behalf of foreign banking authorities.
+
+Liquidation to facilitate prompt corrective action
+
+## Source Credit
+
+*(June 26, 1934, ch. 750, title II, § 207, as added [Pub. L. 91–468, § 1(3)](https://www.govinfo.gov/link/plaw/91/public/468), Oct. 19, 1970, [84 Stat. 1010](https://www.govinfo.gov/link/statute/84/1010); amended [Pub. L. 93–495, title I](https://www.govinfo.gov/link/plaw/93/public/495), §§ 101(c), 104(a), Oct. 28, 1974, [88 Stat. 1501](https://www.govinfo.gov/link/statute/88/1501), 1503; [Pub. L. 95–630, title V, § 502(b)](https://www.govinfo.gov/link/plaw/95/public/630), title XIV, § 1401(c), Nov. 10, 1978, [92 Stat. 3681](https://www.govinfo.gov/link/statute/92/3681), 3712; [Pub. L. 96–153, title III, § 323(c)](https://www.govinfo.gov/link/plaw/96/public/153), Dec. 21, 1979, [93 Stat. 1120](https://www.govinfo.gov/link/statute/93/1120); [Pub. L. 96–221, title III, § 308(c)(1)](https://www.govinfo.gov/link/plaw/96/public/221), Mar. 31, 1980, [94 Stat. 148](https://www.govinfo.gov/link/statute/94/148); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 100–86, title VII, § 714(a)](https://www.govinfo.gov/link/plaw/100/public/86), (b), Aug. 10, 1987, [101 Stat. 654](https://www.govinfo.gov/link/statute/101/654), 655; [Pub. L. 101–73, title IX, § 915(c)](https://www.govinfo.gov/link/plaw/101/public/73), title XII, § 1217(a), Aug. 9, 1989, [103 Stat. 486](https://www.govinfo.gov/link/statute/103/486), 530; [Pub. L. 101–647, title XXV](https://www.govinfo.gov/link/plaw/101/public/647), §§ 2521(a)(2), 2526(b), 2528(b), 2532(d), 2534(b), Nov. 29, 1990, [104 Stat. 4864](https://www.govinfo.gov/link/statute/104/4864), 4876, 4878, 4882, 4883; [Pub. L. 103–394, title V, § 501(c)(1)](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4143](https://www.govinfo.gov/link/statute/108/4143); [Pub. L. 105–219, title III, § 301(b)(2)](https://www.govinfo.gov/link/plaw/105/public/219), Aug. 7, 1998, [112 Stat. 930](https://www.govinfo.gov/link/statute/112/930); [Pub. L. 109–8, title IX](https://www.govinfo.gov/link/plaw/109/public/8), §§ 901(a)(2), (b)(2), (c)(2), (d)(2), (e)(2), (f)(2), (g)(2), (h)(2), (i)(2), 902(b), 903(b), 904(b), 905(b), 908(b), Apr. 20, 2005, [119 Stat. 147](https://www.govinfo.gov/link/statute/119/147), 148, 150, 152, 154, 156–159, 162, 166, 183; [Pub. L. 109–173, § 2(d)(1)](https://www.govinfo.gov/link/plaw/109/public/173), (2), Feb. 15, 2006, [119 Stat. 3602](https://www.govinfo.gov/link/statute/119/3602), 3604; [Pub. L. 109–351, title VII](https://www.govinfo.gov/link/plaw/109/public/351), §§ 718(b), 720(b), 721(b), 722(b), 726(21)–(23), Oct. 13, 2006, [120 Stat. 1997–1999](https://www.govinfo.gov/link/statute/120/1997), 2003; [Pub. L. 109–390](https://www.govinfo.gov/link/plaw/109/public/390), §§ 2(a)(2), (b)(2), (c)(2), 3(b), 6(b), Dec. 12, 2006, [120 Stat. 2693–2695](https://www.govinfo.gov/link/statute/120/2693), 2699; [Pub. L. 110–289, div. A, title VI, § 1604(b)(2)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2829](https://www.govinfo.gov/link/statute/122/2829); [Pub. L. 111–203, title III](https://www.govinfo.gov/link/plaw/111/public/203), §§ 335(b), 343(b)(1), (3), July 21, 2010, [124 Stat. 1540](https://www.govinfo.gov/link/statute/124/1540), 1545; [Pub. L. 113–252, § 2](https://www.govinfo.gov/link/plaw/113/public/252), Dec. 18, 2014, [128 Stat. 2893](https://www.govinfo.gov/link/statute/128/2893).)*

@@ -3,9 +3,10 @@ title: "Section 1342 - Rate orders of State agencies"
 usc_title: 28
 usc_section: "1342"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1342"
-generated_at: "2026-03-30T02:55:30.139Z"
+generated_at: "2026-11-23T21:26:01.085Z"
+status: "active"
 ---
 
 # § 1342. Rate orders of State agencies
@@ -16,3 +17,7 @@ The district courts shall not enjoin, suspend or restrain the operation of, or c
   - **(2)** The order does not interfere with interstate commerce; and,
   - **(3)** The order has been made after reasonable notice and hearing; and,
   - **(4)** A plain, speedy and efficient remedy may be had in the courts of such State.
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 932](https://www.govinfo.gov/link/statute/62/932).)*

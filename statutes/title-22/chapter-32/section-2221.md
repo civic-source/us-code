@@ -3,9 +3,10 @@ title: "Section 2221 - General authority"
 usc_title: 22
 usc_section: "2221"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2221"
-generated_at: "2026-03-30T02:55:05.352Z"
+generated_at: "2026-11-23T21:25:58.449Z"
+status: "active"
 ---
 
 # § 2221. General authority
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.352Z"
 - **(f)** The President is hereby authorized to permit United States participation in the International Fertilizer Development Center and is authorized to use any of the funds made available under this part for the purpose of furnishing assistance to the Center on such terms and conditions as he may determine.
 - **(g)** It is the sense of the Congress that the President should instruct the appropriate representatives of the United States to the United Nations to encourage the specialized agencies of the United Nations to transfer the funding of technical assistance programs carried out by such agencies to the United Nations Development Program.
 - **(h)** The President is authorized to permit the United States to participate in and to use any of the funds made available under subchapter I of this chapter after December 29, 1981 , for the purpose of furnishing assistance (on such terms and conditions as the President may determine) to the International Food Policy Research Institute.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 301, Sept. 4, 1961, [75 Stat. 433](https://www.govinfo.gov/link/statute/75/433); [Pub. L. 89–171](https://www.govinfo.gov/link/plaw/89/public/171), pt. I, § 106 (a), Sept. 6, 1965, [79 Stat. 656](https://www.govinfo.gov/link/statute/79/656); [Pub. L. 89–583](https://www.govinfo.gov/link/plaw/89/public/583), pt. I, § 107(a)–(c), Sept. 19, 1966, [80 Stat. 800](https://www.govinfo.gov/link/statute/80/800); [Pub. L. 90–137](https://www.govinfo.gov/link/plaw/90/public/137), pt. I, § 110(a), Nov. 14, 1967, [81 Stat. 453](https://www.govinfo.gov/link/statute/81/453); [Pub. L. 91–175](https://www.govinfo.gov/link/plaw/91/public/175), pt. I, § 108(a), Dec. 30, 1969, [83 Stat. 819](https://www.govinfo.gov/link/statute/83/819); [Pub. L. 93–189, § 9(1)](https://www.govinfo.gov/link/plaw/93/public/189), Dec. 17, 1973, [87 Stat. 718](https://www.govinfo.gov/link/statute/87/718); [Pub. L. 94–161, title III, § 313(c)](https://www.govinfo.gov/link/plaw/94/public/161), Dec. 20, 1975, [89 Stat. 866](https://www.govinfo.gov/link/statute/89/866); [Pub. L. 95–424, title I](https://www.govinfo.gov/link/plaw/95/public/424), §§ 102(b)(2)(A), 117(d), Oct. 6, 1978, [92 Stat. 941](https://www.govinfo.gov/link/statute/92/941), 953; [Pub. L. 96–533, title VII, § 702](https://www.govinfo.gov/link/plaw/96/public/533), Dec. 16, 1980, [94 Stat. 3156](https://www.govinfo.gov/link/statute/94/3156); [Pub. L. 97–113, title III, § 311(a)](https://www.govinfo.gov/link/plaw/97/public/113), title VII, § 734(a)(1), Dec. 29, 1981, [95 Stat. 1536](https://www.govinfo.gov/link/statute/95/1536), 1560.)*

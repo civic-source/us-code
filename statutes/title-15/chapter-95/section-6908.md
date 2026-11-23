@@ -3,12 +3,17 @@ title: "Section 6908 - Recordkeeping"
 usc_title: 15
 usc_section: "6908"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6908"
-generated_at: "2026-03-30T02:54:08.217Z"
+generated_at: "2026-11-23T21:25:40.037Z"
+status: "active"
 ---
 
 # § 6908. Recordkeeping
 
 The requirements of section 4714 of title 12 shall apply to a qualified organization receiving assistance from the Administration under this chapter as if it were a community development financial institution receiving assistance from the Fund under subtitle A.
 
+
+## Source Credit
+
+*([Pub. L. 103–325, title I, § 179](https://www.govinfo.gov/link/plaw/103/public/325), as added [Pub. L. 106–102, title VII, § 725](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1474](https://www.govinfo.gov/link/statute/113/1474).)*

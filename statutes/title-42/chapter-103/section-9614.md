@@ -3,9 +3,10 @@ title: "Section 9614 - Relationship to other law"
 usc_title: 42
 usc_section: "9614"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9614"
-generated_at: "2026-03-30T02:56:11.359Z"
+generated_at: "2026-11-23T21:26:33.258Z"
+status: "active"
 ---
 
 # § 9614. Relationship to other law
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.359Z"
   - **(3)** For purposes of this subsection, the terms “used oil” and “recycled oil” have the same meanings as set forth in sections 1004(36) and 1004(37) of the Solid Waste Disposal Act [ 42 U.S.C. 6903(36) , (37)] and regulations promulgated pursuant to that Act [ 42 U.S.C. 6901 et seq.].
   - **(4)** The effective date of paragraphs (1) and (2) of this subsection shall be the effective date of regulations or standards promulgated under section 3014 of the Solid Waste Disposal Act [ 42 U.S.C. 6935 ] that include, among other provisions, a requirement to conduct corrective action to respond to any releases of recycled oil under subtitle C or subtitle I of such Act [ 42 U.S.C. 6921 et seq., 6991 et seq.].
 - **(d)** Except as provided in this subchapter, no owner or operator of a vessel or facility who establishes and maintains evidence of financial responsibility in accordance with this subchapter shall be required under any State or local law, rule, or regulation to establish or maintain any other evidence of financial responsibility in connection with liability for the release of a hazardous substance from such vessel or facility. Evidence of compliance with the financial responsibility requirements of this subchapter shall be accepted by a State in lieu of any other requirement of financial responsibility imposed by such State in connection with liability for the release of a hazardous substance from such vessel or facility.
+
+## Source Credit
+
+*([Pub. L. 96–510, title I, § 114](https://www.govinfo.gov/link/plaw/96/public/510), Dec. 11, 1980, [94 Stat. 2795](https://www.govinfo.gov/link/statute/94/2795); [Pub. L. 99–499, title I, § 114(a)](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1652](https://www.govinfo.gov/link/statute/100/1652).)*

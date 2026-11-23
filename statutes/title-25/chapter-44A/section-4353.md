@@ -3,9 +3,10 @@ title: "Section 4353 - Integrating Federal tourism assets to strengthen Native t
 usc_title: 25
 usc_section: "4353"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4353"
-generated_at: "2026-03-30T02:54:52.863Z"
+generated_at: "2026-11-23T21:25:54.716Z"
+status: "active"
 ---
 
 # § 4353. Integrating Federal tourism assets to strengthen Native tourism opportunities
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:52.863Z"
   - **(2)** the efforts of the Secretary of the Interior or the Secretary of Commerce, as applicable, to develop departmental and agency tourism plans to support tourism programs of Indian tribes, tribal organizations, and Native Hawaiian organizations;
   - **(3)** the manner in which the entity or organization described in subsection (d)(1) is working to promote tourism to empower Indian tribes, tribal organizations, and Native Hawaiian organizations to participate fully in the tourism industry; and
   - **(4)** the effectiveness of the entity or organization described in subsection (d)(1) based on the metrics developed under subsection (d)(4).
+
+## Source Credit
+
+*([Pub. L. 114–221, § 4](https://www.govinfo.gov/link/plaw/114/public/221), Sept. 23, 2016, [130 Stat. 848](https://www.govinfo.gov/link/statute/130/848).)*

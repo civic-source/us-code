@@ -3,9 +3,10 @@ title: "Section 10707 - Evaluation of performance of Department of Justice progr
 usc_title: 34
 usc_section: "10707"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10707"
-generated_at: "2026-03-30T02:55:33.275Z"
+generated_at: "2026-11-23T21:26:09.690Z"
+status: "active"
 ---
 
 # § 10707. Evaluation of performance of Department of Justice programs
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:33.275Z"
   - **(6)** For purposes of paragraphs (1), (2), and (3), the Attorney General shall—
     - **(A)** enter into an arrangement with the National Academy of Sciences; or
     - **(B)** enter into a contract or cooperative agreement with an entity that is not an agency of the Federal Government, and is qualified to conduct and evaluate research pertaining to opioid use and abuse, and draw conclusions about overall opioid use and abuse on the basis of that research.
+
+## Source Credit
+
+*([Pub. L. 114–198, title VII, § 701(b)](https://www.govinfo.gov/link/plaw/114/public/198), July 22, 2016, [130 Stat. 737](https://www.govinfo.gov/link/statute/130/737).)*

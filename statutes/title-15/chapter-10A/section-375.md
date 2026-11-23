@@ -3,9 +3,10 @@ title: "Section 375 - Definitions"
 usc_title: 15
 usc_section: "375"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 375"
-generated_at: "2026-03-30T02:54:08.083Z"
+generated_at: "2026-11-23T21:25:39.631Z"
+status: "active"
 ---
 
 # § 375. Definitions
@@ -55,3 +56,27 @@ As used in this chapter, the following definitions apply:
   - **(13)** The term “smokeless tobacco” means any finely cut, ground, powdered, or leaf tobacco, or other product containing tobacco, that is intended to be placed in the oral or nasal cavity or otherwise consumed without being combusted.
   - **(14)** The term “tobacco tax administrator” means the State, local, or tribal official duly authorized to collect the tobacco tax or administer the tax law of a State, locality, or tribe, respectively.
   - **(15)** The term “use” includes the consumption, storage, handling, or disposal of cigarettes or smokeless tobacco.
+
+In General
+
+BATFE Authority
+
+Findings
+
+Purposes
+
+In General
+
+Coordination of Law Enforcement
+
+Treatment of State and Local Governments
+
+Enforcement Within Indian Country
+
+Ambiguity
+
+Definitions
+
+## Source Credit
+
+*(Oct. 19, 1949, ch. 699, § 1, as added [Pub. L. 111–154, § 2(a)](https://www.govinfo.gov/link/plaw/111/public/154), Mar. 31, 2010, [124 Stat. 1088](https://www.govinfo.gov/link/statute/124/1088); amended [Pub. L. 116–260, div. FF, title VI, § 602(a)(1)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3136](https://www.govinfo.gov/link/statute/134/3136).)*

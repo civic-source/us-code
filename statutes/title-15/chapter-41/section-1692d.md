@@ -3,9 +3,10 @@ title: "Section 1692d - Harassment or abuse"
 usc_title: 15
 usc_section: "1692d"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1692d"
-generated_at: "2026-03-30T02:54:08.155Z"
+generated_at: "2026-11-23T21:25:39.885Z"
+status: "active"
 ---
 
 # § 1692d. Harassment or abuse
@@ -18,3 +19,7 @@ A debt collector may not engage in any conduct the natural consequence of which 
   - **(4)** The advertisement for sale of any debt to coerce payment of the debt.
   - **(5)** Causing a telephone to ring or engaging any person in telephone conversation repeatedly or continuously with intent to annoy, abuse, or harass any person at the called number.
   - **(6)** Except as provided in section 1692b of this title , the placement of telephone calls without meaningful disclosure of the caller’s identity.
+
+## Source Credit
+
+*([Pub. L. 90–321, title VIII, § 806](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 95–109](https://www.govinfo.gov/link/plaw/95/public/109), Sept. 20, 1977, [91 Stat. 877](https://www.govinfo.gov/link/statute/91/877).)*

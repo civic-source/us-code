@@ -3,9 +3,10 @@ title: "Section 2801 - Definitions"
 usc_title: 15
 usc_section: "2801"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2801"
-generated_at: "2026-03-30T02:54:08.183Z"
+generated_at: "2026-11-23T21:25:39.954Z"
+status: "active"
 ---
 
 # § 2801. Definitions
@@ -52,3 +53,7 @@ As used in this subchapter:
     - **(A)** between any State and any place outside of such State; or
     - **(B)** which affects any trade, transportation, exchange, or other commerce described in subparagraph (A).
   - **(19)** The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and any other commonwealth, territory, or possession of the United States.
+
+## Source Credit
+
+*([Pub. L. 95–297, title I, § 101](https://www.govinfo.gov/link/plaw/95/public/297), June 19, 1978, [92 Stat. 322](https://www.govinfo.gov/link/statute/92/322); [Pub. L. 103–371, § 6](https://www.govinfo.gov/link/plaw/103/public/371), Oct. 19, 1994, [108 Stat. 3486](https://www.govinfo.gov/link/statute/108/3486); [Pub. L. 110–140, title II, § 241(c)(1)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1540](https://www.govinfo.gov/link/statute/121/1540).)*

@@ -3,9 +3,10 @@ title: "Section 12721 - Findings"
 usc_title: 42
 usc_section: "12721"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12721"
-generated_at: "2026-03-30T02:56:11.430Z"
+generated_at: "2026-11-23T21:26:33.544Z"
+status: "active"
 ---
 
 # § 12721. Findings
@@ -29,3 +30,37 @@ The Congress finds that—
   - **(11)** during the 1980’s, nonprofit community housing development organizations, despite severe obstacles caused by inadequate funding, have played an increasingly important role in the production and rehabilitation of affordable housing in communities across the Nation;
   - **(12)** additional financial resources and technical skills must be made available in local communities if the Nation is to mobilize the capacity of the private sector, including nonprofit community housing development organizations, to provide a more adequate supply of decent, safe, and sanitary housing that is affordable to very low-income, low-income, and moderate-income families and meets the need for large family units and other additional units that are available to very low-income families receiving rental assistance payments from Federal, State, and local governments; and
   - **(13)** the long-term success of efforts to provide more affordable housing depends upon tenants and homeowners being fiscally responsible and able managers.
+
+In general
+
+Updated guidance
+
+Report
+
+Appropriation
+
+Qualifying Individuals or Families Defined
+
+Terms and Conditions.—
+
+Funding restrictions
+
+Administrative costs
+
+Operating expenses
+
+Contracting
+
+Allocation.—
+
+Formula assistance
+
+Technical assistance
+
+Other costs
+
+Waivers or alternative requirements
+
+## Source Credit
+
+*([Pub. L. 101–625, title II, § 202](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4094](https://www.govinfo.gov/link/statute/104/4094).)*

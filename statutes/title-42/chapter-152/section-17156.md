@@ -3,9 +3,10 @@ title: "Section 17156 - Competitive grants"
 usc_title: 42
 usc_section: "17156"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17156"
-generated_at: "2026-03-30T02:56:11.498Z"
+generated_at: "2026-11-23T21:26:33.771Z"
+status: "active"
 ---
 
 # § 17156. Competitive grants
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.498Z"
 - **(c)** In providing grants under this section, the Secretary shall give priority to units of local government—
   - **(1)** located in States with populations of less than 2,000,000; or
   - **(2)** that plan to carry out projects that would result in significant energy efficiency improvements or reductions in fossil fuel use.
+
+## Source Credit
+
+*([Pub. L. 110–140, title V, § 546](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1673](https://www.govinfo.gov/link/statute/121/1673).)*

@@ -3,9 +3,10 @@ title: "Section 1074d - Certain primary and preventive health care services"
 usc_title: 10
 usc_section: "1074d"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1074d"
-generated_at: "2026-03-30T02:53:38.100Z"
+generated_at: "2026-11-23T21:25:32.396Z"
+status: "active"
 ---
 
 # § 1074d. Certain primary and preventive health care services
@@ -22,3 +23,61 @@ generated_at: "2026-03-30T02:53:38.100Z"
   - **(6)** Physical or psychological conditions arising out of acts of sexual violence.
   - **(7)** Gynecological cancers.
   - **(8)** Colon cancer screening, at the intervals and using the screening methods prescribed under subsection (a)(2).
+
+Services Available
+
+Definition
+
+Demonstration Program
+
+Elements.—
+
+Amount of reimbursement
+
+Information.—
+
+Providers
+
+Promotion
+
+Use of military medical treatment facilities
+
+Duration
+
+No Liability or Contractual Obligation
+
+Advanced Medical Directive
+
+Reports; Briefings.—
+
+Initial report
+
+Report
+
+Briefings
+
+Definitions
+
+In General
+
+Definitions
+
+Clinical Practice Guidelines.—
+
+Establishment
+
+Updates
+
+Dissemination.—
+
+Initial dissemination
+
+Dissemination of updates
+
+Protocols
+
+Access to Contraception Counseling
+
+## Source Credit
+
+*(Added [Pub. L. 103–160, div. A, title VII, § 701(a)(1)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1685](https://www.govinfo.gov/link/statute/107/1685); amended [Pub. L. 104–201, div. A, title VII, § 701(a)(1)](https://www.govinfo.gov/link/plaw/104/public/201), (2)(A), Sept. 23, 1996, [110 Stat. 2587](https://www.govinfo.gov/link/statute/110/2587); [Pub. L. 109–364, div. A, title VII, § 703(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2279](https://www.govinfo.gov/link/statute/120/2279); [Pub. L. 116–283, div. A, title VII, § 701](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3686](https://www.govinfo.gov/link/statute/134/3686).)*

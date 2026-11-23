@@ -3,9 +3,10 @@ title: "Section 316 - Colocation of regional offices and medical centers"
 usc_title: 38
 usc_section: "316"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 316"
-generated_at: "2026-03-30T02:55:53.470Z"
+generated_at: "2026-11-23T21:26:16.552Z"
+status: "active"
 ---
 
 # § 316. Colocation of regional offices and medical centers
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:55:53.470Z"
     - **(A)** at least 10 days before the issuance or other publication of the invitation referred to in paragraph (1), submit a copy of the invitation to the Committees on Veterans’ Affairs of the Senate and House of Representatives; and
     - **(B)** at least 30 days before entering into an agreement under paragraph (2), submit a copy to the Committees on Veterans’ Affairs of the Senate and House of Representatives of the proposals selected by the Secretary from those received in response to the invitation issued under paragraph (1).
 - **(g)** The authority to enter into an agreement under this section shall expire on September 30, 1992 .
+
+## Source Credit
+
+*(Added [Pub. L. 102–83, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 384](https://www.govinfo.gov/link/statute/105/384).)*

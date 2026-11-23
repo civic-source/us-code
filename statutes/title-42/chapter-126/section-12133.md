@@ -3,12 +3,17 @@ title: "Section 12133 - Enforcement"
 usc_title: 42
 usc_section: "12133"
 chapter: 126
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12133"
-generated_at: "2026-03-30T02:56:11.408Z"
+generated_at: "2026-11-23T21:26:33.453Z"
+status: "active"
 ---
 
 # § 12133. Enforcement
 
 The remedies, procedures, and rights set forth in section 794a of title 29 shall be the remedies, procedures, and rights this subchapter provides to any person alleging discrimination on the basis of disability in violation of section 12132 of this title .
 
+
+## Source Credit
+
+*([Pub. L. 101–336, title II, § 203](https://www.govinfo.gov/link/plaw/101/public/336), July 26, 1990, [104 Stat. 337](https://www.govinfo.gov/link/statute/104/337).)*

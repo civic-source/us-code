@@ -3,9 +3,10 @@ title: "Section 6432 - Allocation of funds"
 usc_title: 20
 usc_section: "6432"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6432"
-generated_at: "2026-03-30T02:54:48.199Z"
+generated_at: "2026-11-23T21:25:47.514Z"
+status: "active"
 ---
 
 # § 6432. Allocation of funds
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:48.199Z"
     - **(A)** the percentage in paragraph (1)(A) for such fiscal year; or
     - **(B)** the percentage used for the preceding fiscal year.
 - **(c)** If the amount appropriated for any fiscal year for subgrants under subsections (a) and (b) is insufficient to pay the full amount for which all State agencies are eligible under such subsections, the Secretary shall ratably reduce each such amount.
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1412](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1581](https://www.govinfo.gov/link/statute/115/1581); amended [Pub. L. 114–95, title I, § 1401(2)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1900](https://www.govinfo.gov/link/statute/129/1900).)*

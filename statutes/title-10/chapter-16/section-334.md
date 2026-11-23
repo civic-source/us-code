@@ -3,9 +3,10 @@ title: "Section 334 - Administrative support and payment of certain expenses for
 usc_title: 10
 usc_section: "334"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 334"
-generated_at: "2026-03-30T02:53:38.053Z"
+generated_at: "2026-11-23T21:25:32.254Z"
+status: "active"
 ---
 
 # § 334. Administrative support and payment of certain expenses for covered foreign defense personnel
@@ -35,3 +36,15 @@ generated_at: "2026-03-30T02:53:38.053Z"
   - **(3)** The term “developing country” has the meaning given the term in section 301(4) of this title .
   - **(4)** The term “Neutral Nations Supervisory Commission” means the delegations from Sweden and Switzerland (or successor delegations) appointed in accordance with the Korean War Armistice Agreement of 1953 or its subsequent agreements.
   - **(5)** The term “United Nations Command” means the headquarters of the United Nations Command, the United Nations Command Military Armistice Commission, the United Nations Command-Rear, and the United Nations Command Honor Guard.
+
+In General
+
+Types of Expenses
+
+Reimbursement
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. A, title XII, § 1201(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1957](https://www.govinfo.gov/link/statute/135/1957).)*

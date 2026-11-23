@@ -3,9 +3,10 @@ title: "Section 4820 - Enforcement"
 usc_title: 50
 usc_section: "4820"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4820"
-generated_at: "2026-03-30T02:56:26.284Z"
+generated_at: "2026-11-23T21:26:39.123Z"
+status: "active"
 ---
 
 # § 4820. Enforcement
@@ -67,3 +68,7 @@ generated_at: "2026-03-30T02:56:26.284Z"
   - **(1)** Any property, real or personal, tangible or intangible, seized under subsection (a) by designated officers or employees shall be subject to forfeiture to the United States in accordance with applicable law.
   - **(2)** Any seizure or forfeiture under this subsection shall be carried out in accordance with the procedures set forth in section 981 of title 18 .
 - **(k)** Nothing in this subchapter 1 1 See References in Text note below. shall be construed to limit or otherwise affect the enforcement authorities of the Department of Homeland Security which may also complement those set forth herein.
+
+## Source Credit
+
+*([Pub. L. 115–232, div. A, title XVII, § 1761](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2226](https://www.govinfo.gov/link/statute/132/2226).)*

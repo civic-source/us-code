@@ -3,9 +3,10 @@ title: "Section 12143 - Paratransit as a complement to fixed route service"
 usc_title: 42
 usc_section: "12143"
 chapter: 126
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12143"
-generated_at: "2026-03-30T02:56:11.409Z"
+generated_at: "2026-11-23T21:26:33.453Z"
+status: "active"
 ---
 
 # § 12143. Paratransit as a complement to fixed route service
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:56:11.409Z"
   - **(1)** from providing paratransit or other special transportation services at a level which is greater than the level of such services which are required by this section,
   - **(2)** from providing paratransit or other special transportation services in addition to those paratransit and special transportation services required by this section, or
   - **(3)** from providing such services to individuals in addition to those individuals to whom such services are required to be provided by this section.
+
+## Source Credit
+
+*([Pub. L. 101–336, title II, § 223](https://www.govinfo.gov/link/plaw/101/public/336), July 26, 1990, [104 Stat. 340](https://www.govinfo.gov/link/statute/104/340).)*

@@ -3,9 +3,10 @@ title: "Section 688 - Retired members: authority to order to active duty; duties
 usc_title: 10
 usc_section: "688"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 688"
-generated_at: "2026-03-30T02:53:38.073Z"
+generated_at: "2026-11-23T21:25:32.311Z"
+status: "active"
 ---
 
 # § 688. Retired members: authority to order to active duty; duties
@@ -30,3 +31,19 @@ generated_at: "2026-03-30T02:53:38.073Z"
     - **(C)** An officer assigned to duty with the American Battle Monuments Commission for the period of active duty to which ordered.
     - **(D)** An officer who is assigned to duty as a defense attaché or service attaché for the period of active duty to which ordered.
 - **(f)** Subsections (d) and (e) do not apply in time of war or of national emergency declared by Congress or the President.
+
+Authority
+
+Covered Members
+
+Duties of Member Ordered to Active Duty
+
+Exclusion of Officers Retired on Selective Early Retirement Basis
+
+Limitation of Period of Recall Service
+
+Waiver for Periods of War or National Emergency
+
+## Source Credit
+
+*(Added [Pub. L. 104–201, div. A, title V, § 521(a)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2515](https://www.govinfo.gov/link/statute/110/2515); amended [Pub. L. 105–85, div. A, title V, § 502](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1724](https://www.govinfo.gov/link/statute/111/1724); [Pub. L. 107–107, div. A, title V, § 509(a)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1091](https://www.govinfo.gov/link/statute/115/1091); [Pub. L. 115–232, div. A, title VIII, § 809(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1840](https://www.govinfo.gov/link/statute/132/1840); [Pub. L. 116–283, div. A, title IX, § 924(b)(4)(I)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3822](https://www.govinfo.gov/link/statute/134/3822); [Pub. L. 118–31, div. A, title XVII, § 1719A(b)(1)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 664](https://www.govinfo.gov/link/statute/137/664).)*

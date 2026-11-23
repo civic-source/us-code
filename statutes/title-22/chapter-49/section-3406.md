@@ -3,9 +3,10 @@ title: "Section 3406 - Trilateral scientific and technological cooperation by Eg
 usc_title: 22
 usc_section: "3406"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3406"
-generated_at: "2026-03-30T02:55:05.394Z"
+generated_at: "2026-11-23T21:25:58.587Z"
+status: "active"
 ---
 
 # § 3406. Trilateral scientific and technological cooperation by Egypt, Israel, and United States
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.394Z"
   - **(1)** potential projects in a variety of areas appropriate for scientific and technological cooperation by the three countries, including agriculture, health, energy, the environment, education, and water resources;
   - **(2)** the resources which are available or which would be needed to implement such projects; and
   - **(3)** the means by which such projects would be implemented.
+
+## Source Credit
+
+*([Pub. L. 96–35, § 8](https://www.govinfo.gov/link/plaw/96/public/35), July 20, 1979, [93 Stat. 92](https://www.govinfo.gov/link/statute/93/92); [Pub. L. 97–113, title VII, § 734(a)(4)](https://www.govinfo.gov/link/plaw/97/public/113), Dec. 29, 1981, [95 Stat. 1560](https://www.govinfo.gov/link/statute/95/1560).)*

@@ -3,9 +3,10 @@ title: "Section 7595 - Army Military History Institute: fee for providing histor
 usc_title: 10
 usc_section: "7595"
 chapter: 767
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 7595"
-generated_at: "2026-03-30T02:53:38.235Z"
+generated_at: "2026-11-23T21:25:32.871Z"
+status: "active"
 ---
 
 # § 7595. Army Military History Institute: fee for providing historical information to the public
@@ -19,3 +20,17 @@ generated_at: "2026-03-30T02:53:38.235Z"
 - **(e)** In this section:
   - **(1)** The term “United States Army Military History Institute” means the archive for historical records and materials of the Army that the Secretary of the Army designates as the primary archive for such records and materials.
   - **(2)** The terms “officer of the United States” and “employee of the United States” have the meanings given the terms “officer” and “employee”, respectively, in sections 2104 and 2105, respectively, of title 5.
+
+Authority
+
+Exceptions
+
+Limitation on Amount
+
+Retention of Fees
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1085(a)(1)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–287, § 4595; renumbered § 7595, [Pub. L. 115–232, div. A, title VIII, § 808(d)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1839](https://www.govinfo.gov/link/statute/132/1839).)*

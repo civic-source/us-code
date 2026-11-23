@@ -3,9 +3,10 @@ title: "Section 7652 - Shipments to the United States"
 usc_title: 26
 usc_section: "7652"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7652"
-generated_at: "2026-03-30T02:55:27.881Z"
+generated_at: "2026-11-23T21:26:06.996Z"
+status: "active"
 ---
 
 # § 7652. Shipments to the United States
@@ -48,3 +49,45 @@ generated_at: "2026-03-30T02:55:27.881Z"
   - **(1)** any provision of law which is not contained in this title or in a revenue Act; and
   - **(2)** whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this subsection.
 - **(i)** For purposes of subsections (a)(3), (b)(3), and (e)(1), refunds under section 5001(c)(4) shall not be taken into account as a refund, and the amount of taxes imposed by and collected under section 5001(a)(1) shall be determined without regard to section 5001(c).
+
+In general
+
+Exception for puerto rico for periods before january 1, 1985 .—
+
+In general
+
+limitation
+
+limitation
+
+Limitation on incentive payments to united states distillers.—
+
+In general
+
+Articles to which paragraph applies
+
+Limitation.—
+
+In general
+
+Special rule
+
+Payments in excess of limitation
+
+Incentive payments.—
+
+In general
+
+Transportation payments excluded
+
+“Notwithstanding section 7652 of the Internal Revenue Code of 1986, the following rules shall apply with respect to any transfer before the first day of the month within which the date of the enactment of the Trade and Development Act of 2000 [ May 18, 2000 ] occurs, of amounts relating to the increase in the cover over of taxes by reason of the amendment made by subsection (a) [amending this section]:
+
+Initial transfer of incremental increase in cover over
+
+Second transfer of incremental increase in cover over attributable to periods before resumption of regular payments
+
+Dwight D. Eisenhower
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 907; [Pub. L. 85–859, title II, § 204(17)](https://www.govinfo.gov/link/plaw/85/public/859), (18), Sept. 2, 1958, [72 Stat. 1430](https://www.govinfo.gov/link/statute/72/1430); [Pub. L. 89–44, title VIII, § 808(b)(3)](https://www.govinfo.gov/link/plaw/89/public/44), June 21, 1965, [79 Stat. 164](https://www.govinfo.gov/link/statute/79/164); [Pub. L. 94–202, § 10(a)](https://www.govinfo.gov/link/plaw/94/public/202), Jan. 2, 1976, [89 Stat. 1141](https://www.govinfo.gov/link/statute/89/1141); [Pub. L. 94–455, title XIX, § 1906(a)(55)](https://www.govinfo.gov/link/plaw/94/public/455), (b) (13)(A), Oct. 4, 1976, [90 Stat. 1832](https://www.govinfo.gov/link/statute/90/1832), 1834; [Pub. L. 98–67, title II, § 221(a)](https://www.govinfo.gov/link/plaw/98/public/67), Aug. 5, 1983, [97 Stat. 395](https://www.govinfo.gov/link/statute/97/395); [Pub. L. 98–213, § 5(c)](https://www.govinfo.gov/link/plaw/98/public/213), Dec. 8, 1983, [97 Stat. 1460](https://www.govinfo.gov/link/statute/97/1460); [Pub. L. 98–369, div. B, title VI](https://www.govinfo.gov/link/plaw/98/public/369), §§ 2681(a), 2682(a), July 18, 1984, [98 Stat. 1172](https://www.govinfo.gov/link/statute/98/1172), 1174; [Pub. L. 99–514, title XVIII, § 1879(i)(1)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2907](https://www.govinfo.gov/link/statute/100/2907); [Pub. L. 100–418, title I, § 1214(p)(1)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1159](https://www.govinfo.gov/link/statute/102/1159); [Pub. L. 103–66, title XIII, § 13227(e)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 494](https://www.govinfo.gov/link/statute/107/494); [Pub. L. 103–465, title I, § 136(b)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4841](https://www.govinfo.gov/link/statute/108/4841); [Pub. L. 106–170, title V, § 512(a)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1924](https://www.govinfo.gov/link/statute/113/1924); [Pub. L. 106–200, title VI, § 602(b)](https://www.govinfo.gov/link/plaw/106/public/200), (c), May 18, 2000, [114 Stat. 305](https://www.govinfo.gov/link/statute/114/305), 306; [Pub. L. 107–147, title VI, § 609(a)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 60](https://www.govinfo.gov/link/statute/116/60); [Pub. L. 108–311, title III, § 305(a)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1179](https://www.govinfo.gov/link/statute/118/1179); [Pub. L. 109–59, title XI, § 11125(b)(22)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1957](https://www.govinfo.gov/link/statute/119/1957); [Pub. L. 109–432, div. A, title I, § 114(a)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2940](https://www.govinfo.gov/link/statute/120/2940); [Pub. L. 110–343, div. C, title III, § 308(a)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3869](https://www.govinfo.gov/link/statute/122/3869); [Pub. L. 111–312, title VII, § 755(a)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3322](https://www.govinfo.gov/link/statute/124/3322); [Pub. L. 112–240, title III, § 329(a)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2335](https://www.govinfo.gov/link/statute/126/2335); [Pub. L. 113–295, div. A, title I, § 140(a)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4020](https://www.govinfo.gov/link/statute/128/4020); [Pub. L. 114–113, div. Q, title I, § 172(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3071](https://www.govinfo.gov/link/statute/129/3071); [Pub. L. 115–97, title I, § 13807(b)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2176](https://www.govinfo.gov/link/statute/131/2176); [Pub. L. 115–123, div. D, title II, § 41102(a)(1)](https://www.govinfo.gov/link/plaw/115/public/123), (b)(1), Feb. 9, 2018, [132 Stat. 155](https://www.govinfo.gov/link/statute/132/155); [Pub. L. 116–260, div. EE, title I, § 107(a)(2)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3046](https://www.govinfo.gov/link/statute/134/3046); [Pub. L. 119–21, title VII, § 70427(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 238](https://www.govinfo.gov/link/statute/139/238).)*

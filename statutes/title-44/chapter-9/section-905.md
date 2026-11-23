@@ -3,12 +3,17 @@ title: "Section 905 - Congressional Record: additional insertions"
 usc_title: 44
 usc_section: "905"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 905"
-generated_at: "2026-03-30T02:55:56.289Z"
+generated_at: "2026-11-23T21:26:18.383Z"
+status: "active"
 ---
 
 # § 905. Congressional Record: additional insertions
 
 The Joint Committee on Printing shall provide for printing in the daily Record the legislative program for the day together with a list of congressional committee meetings and hearings, and the place of meeting and subject matter. It shall cause a brief resume of congressional activities for the previous day to be incorporated in the Record, together with an index of its contents prepared under the supervision of the Secretary of the Senate and the Clerk of the House of Representatives, respectively.
 
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1256](https://www.govinfo.gov/link/statute/82/1256).)*

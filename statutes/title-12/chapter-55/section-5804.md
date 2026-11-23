@@ -3,9 +3,10 @@ title: "Section 5804 - Continuity of contract and safe harbor"
 usc_title: 12
 usc_section: "5804"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5804"
-generated_at: "2026-03-30T02:53:53.551Z"
+generated_at: "2026-11-23T21:25:37.305Z"
+status: "active"
 ---
 
 # § 5804. Continuity of contract and safe harbor
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:53.551Z"
 - **(e)** Except as provided in subsections 3 3 So in original. Probably should be “subsection”. (a), (b), or (c)(1) of section 5803 of this title , nothing in this chapter may be construed to create any negative inference or negative presumption regarding the validity or enforceability of—
   - **(1)** any benchmark replacement (including any method for calculating, determining, or implementing an adjustment to the benchmark replacement to account for any historical differences between LIBOR and the benchmark replacement) that is not a Board-selected benchmark replacement; or
   - **(2)** any changes, alterations, or modifications to or with respect to a LIBOR contract that are not benchmark replacement conforming changes.
+
+## Source Credit
+
+*([Pub. L. 117–103, div. U, § 105](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 830](https://www.govinfo.gov/link/statute/136/830).)*

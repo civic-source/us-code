@@ -3,9 +3,10 @@ title: "Section 8403 - Statement of principles"
 usc_title: 22
 usc_section: "8403"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8403"
-generated_at: "2026-03-30T02:55:05.450Z"
+generated_at: "2026-11-23T21:25:58.737Z"
+status: "active"
 ---
 
 # § 8403. Statement of principles
@@ -31,3 +32,7 @@ Congress declares that the relationship between the United States and Pakistan s
     - **(L)** to achieve full cooperation in matters of counter-proliferation of nuclear materials and related networks;
     - **(M)** to strengthen Pakistan’s efforts to gain control of its under-governed areas and address the threat posed by any person or group that conducts violence, sabotage, or other terrorist activities in Pakistan or its neighboring countries; and
     - **(N)** to explore means to consult with and utilize the relevant expertise and skills of the Pakistani-American community.
+
+## Source Credit
+
+*([Pub. L. 111–73, § 4](https://www.govinfo.gov/link/plaw/111/public/73), Oct. 15, 2009, [123 Stat. 2063](https://www.govinfo.gov/link/statute/123/2063).)*

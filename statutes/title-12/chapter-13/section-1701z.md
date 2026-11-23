@@ -3,9 +3,10 @@ title: "Section 1701z - New technologies in the development of housing for lower
 usc_title: 12
 usc_section: "1701z"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1701z"
-generated_at: "2026-03-30T02:53:53.405Z"
+generated_at: "2026-11-23T21:25:36.860Z"
+status: "active"
 ---
 
 # § 1701z. New technologies in the development of housing for lower income families
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:53.405Z"
 - **(c)** In approving projects for mortgage insurance under section 1715x(a)(2) of this title , the Secretary shall seek to achieve the construction of at least one thousand dwelling units a year over a five-year period for each of the various types of technologies proposed in approved plans under subsection (b). The Secretary shall evaluate each project with respect to which assistance is extended pursuant to this section with a view to determining (1) the detailed cost breakdown per dwelling unit, (2) the environmental quality achieved in each unit, and (3) the effect which local housing codes and zoning regulations have, or would have if applicable, on the cost per dwelling unit.
 - **(d)** Notwithstanding the provisions of chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, any land which is excess property within the meaning of chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 and which is determined by the Secretary to be suitable in furtherance of the purposes of this section may be transferred to the Secretary upon his request.
 - **(e)** The Secretary shall, at the earliest practicable date, report his findings with respect to projects assisted pursuant to this section (including evaluations of each such project in accordance with subsection (c)), together with such recommendations for additional legislation as he determines to be necessary or desirable to expand the available supply of decent, safe, and sanitary housing for lower income families through the use of technologies the efficacy of which has been demonstrated under this section.
+
+## Source Credit
+
+*([Pub. L. 90–448, title I, § 108(a)](https://www.govinfo.gov/link/plaw/90/public/448) –(e), Aug. 1, 1968, [82 Stat. 495](https://www.govinfo.gov/link/statute/82/495), 496.)*

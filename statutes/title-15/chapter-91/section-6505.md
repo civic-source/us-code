@@ -3,9 +3,10 @@ title: "Section 6505 - Administration and applicability"
 usc_title: 15
 usc_section: "6505"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6505"
-generated_at: "2026-03-30T02:54:08.211Z"
+generated_at: "2026-11-23T21:25:40.024Z"
+status: "active"
 ---
 
 # § 6505. Administration and applicability
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:08.211Z"
 - **(c)** For the purpose of the exercise by any agency referred to in subsection (a) 2 2 So in original. Probably should be subsection “(b)”. of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (a), 2 each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on it by law.
 - **(d)** The Commission shall prevent any person from violating a rule of the Commission under section 6502 of this title in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act ( 15 U.S.C. 41 et seq.) were incorporated into and made a part of this chapter. Any entity that violates such rule shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act in the same manner, by the same means, and with the same jurisdiction, power, and duties as though all applicable terms and provisions of the Federal Trade Commission Act were incorporated into and made a part of this chapter.
 - **(e)** Nothing contained in this chapter shall be construed to limit the authority of the Commission under any other provisions of law.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. C, title XIII, § 1306](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–734](https://www.govinfo.gov/link/statute/112/2681).)*

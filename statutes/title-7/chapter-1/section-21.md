@@ -3,9 +3,10 @@ title: "Section 21 - Registered futures associations"
 usc_title: 7
 usc_section: "21"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 21"
-generated_at: "2026-03-30T02:53:42.247Z"
+generated_at: "2026-11-23T21:25:27.865Z"
+status: "active"
 ---
 
 # § 21. Registered futures associations
@@ -104,3 +105,7 @@ generated_at: "2026-03-30T02:53:42.247Z"
 - **(r)** Consistent with this chapter, each futures association registered under this section shall issue such rules as are necessary to avoid duplicative or conflicting rules applicable to any futures commission merchant registered with the Commission pursuant to section 6f(a) of this title (except paragraph (2) thereof), that is also registered with the Securities and Exchange Commission pursuant to section 78 o (b) of title 15 (except paragraph (11) thereof), with respect to the application of—
   - **(1)** rules of such futures association of the type specified in section 6d(e) of this title involving security futures products; and
   - **(2)** similar rules of national securities associations registered pursuant to section 78 o –3(a) of title 15 involving security futures products.
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 17, as added [Pub. L. 93–463, title III, § 301](https://www.govinfo.gov/link/plaw/93/public/463), Oct. 23, 1974, [88 Stat. 1406](https://www.govinfo.gov/link/statute/88/1406); amended [Pub. L. 95–405, § 22](https://www.govinfo.gov/link/plaw/95/public/405), Sept. 30, 1978, [92 Stat. 876](https://www.govinfo.gov/link/statute/92/876); [Pub. L. 97–444, title II](https://www.govinfo.gov/link/plaw/97/public/444), §§ 217(b), 233, Jan. 11, 1983, [96 Stat. 2307](https://www.govinfo.gov/link/statute/96/2307), 2320; [Pub. L. 99–641, title I](https://www.govinfo.gov/link/plaw/99/public/641), §§ 107, 108, 110(6), (7), Nov. 10, 1986, [100 Stat. 3558](https://www.govinfo.gov/link/statute/100/3558), 3559, 3561; [Pub. L. 102–546, title II](https://www.govinfo.gov/link/plaw/102/public/546), §§ 204(a), 206(b), 209(b)(8), 222(c), 228, title IV, § 402(12), Oct. 28, 1992, [106 Stat. 3600](https://www.govinfo.gov/link/statute/106/3600), 3602, 3607, 3616, 3619, 3625; [Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(24), title II, § 251(g)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–410, 2763A–444; [Pub. L. 110–234, title XIII, § 13105(f)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1434](https://www.govinfo.gov/link/statute/122/1434); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIII, § 13105(f), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2196; [Pub. L. 111–203, title VII, § 749(g)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1748](https://www.govinfo.gov/link/statute/124/1748).)*

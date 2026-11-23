@@ -3,9 +3,10 @@ title: "Section 3303b - Reports"
 usc_title: 33
 usc_section: "3303b"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3303b"
-generated_at: "2026-03-30T02:55:41.140Z"
+generated_at: "2026-11-23T21:26:11.483Z"
+status: "active"
 ---
 
 # § 3303b. Reports
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:41.140Z"
 - **(d)** Not later than 1 year after December 16, 2016 , the Secretary shall submit to Congress and make publicly available a report that includes recommendations that identify and address any legal liability associated with levee engineering projects that prevent—
   - **(1)** levee owners from obtaining needed levee engineering services; or
   - **(2)** development and implementation of a State, regional, or tribal levee safety program.
+
+## Source Credit
+
+*([Pub. L. 110–114, title IX, § 9006](https://www.govinfo.gov/link/plaw/110/public/114), as added [Pub. L. 113–121, title III, § 3016(e)(2)](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1299](https://www.govinfo.gov/link/statute/128/1299); amended [Pub. L. 114–322, title I, § 1130(d)](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1652](https://www.govinfo.gov/link/statute/130/1652).)*

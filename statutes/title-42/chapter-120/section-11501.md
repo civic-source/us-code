@@ -3,9 +3,10 @@ title: "Section 11501 - Designation of enterprise zones"
 usc_title: 42
 usc_section: "11501"
 chapter: 120
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11501"
-generated_at: "2026-03-30T02:56:11.403Z"
+generated_at: "2026-11-23T21:26:33.432Z"
+status: "active"
 ---
 
 # § 11501. Designation of enterprise zones
@@ -93,3 +94,7 @@ generated_at: "2026-03-30T02:56:11.403Z"
     - **(C)** the District of Columbia.
   - **(3)** The term “Secretary” means the Secretary of Housing and Urban Development.
   - **(4)** The term “State” includes Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, and any other possession of the United States.
+
+## Source Credit
+
+*([Pub. L. 100–242, title VII, § 701](https://www.govinfo.gov/link/plaw/100/public/242), Feb. 5, 1988, [101 Stat. 1957](https://www.govinfo.gov/link/statute/101/1957); [Pub. L. 100–628, title X, § 1090(a)](https://www.govinfo.gov/link/plaw/100/public/628), (b), Nov. 7, 1988, [102 Stat. 3283](https://www.govinfo.gov/link/statute/102/3283); [Pub. L. 102–550, title VIII, § 834(a)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3855](https://www.govinfo.gov/link/statute/106/3855).)*

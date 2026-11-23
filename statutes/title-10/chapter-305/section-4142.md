@@ -3,9 +3,10 @@ title: "Section 4142 - Extramural acquisition innovation and research activities
 usc_title: 10
 usc_section: "4142"
 chapter: 305
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4142"
-generated_at: "2026-03-30T02:53:38.203Z"
+generated_at: "2026-11-23T21:25:32.759Z"
+status: "active"
 ---
 
 # § 4142. Extramural acquisition innovation and research activities
@@ -27,3 +28,43 @@ generated_at: "2026-03-30T02:53:38.203Z"
   - **(6)** Engagement with researchers and acquisition professionals in the Department of Defense, as appropriate.
 - **(d)** Subject to the availability of appropriations, the Secretary may use amounts available in the Defense Acquisition Workforce and Development Account to carry out the requirements of this section.
 - **(e)** Not later than September 30, 2021 , and annually thereafter, the Under Secretary of Defense for Acquisition and Sustainment shall submit to the Secretary of Defense and the congressional defense committees a report describing the activities conducted under this section during the previous year.
+
+Establishment
+
+Goals
+
+Activities
+
+Funding
+
+Annual Report
+
+Establishment
+
+Activities
+
+Inclusion in Future-years Defense Program
+
+Prohibition
+
+Certification
+
+Deadline
+
+Report.—
+
+In general
+
+Transmittal
+
+Transfer and maintenance of records
+
+Status of records
+
+Availability
+
+Section 809 panel defined
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. A, title VIII, § 835(a)(1)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1494](https://www.govinfo.gov/link/statute/133/1494), § 2361a; renumbered § 4142, [Pub. L. 116–283, div. A, title XVIII, § 1844(b)](https://www.govinfo.gov/link/plaw/116/public/283), as added [Pub. L. 117–81, div. A, title XVII, § 1701(u)(5)(B)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2154](https://www.govinfo.gov/link/statute/135/2154); [Pub. L. 116–283, div. A, title XVIII, § 1842(b)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4244](https://www.govinfo.gov/link/statute/134/4244); [Pub. L. 117–81, div. A, title XVII, § 1701(q)(1)](https://www.govinfo.gov/link/plaw/117/public/81), (u)(3)(B), Dec. 27, 2021, [135 Stat. 2148](https://www.govinfo.gov/link/statute/135/2148), 2152; [Pub. L. 118–159, div. A, title VIII, § 835](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1986](https://www.govinfo.gov/link/statute/138/1986).)*

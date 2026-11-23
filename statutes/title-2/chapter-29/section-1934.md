@@ -3,9 +3,10 @@ title: "Section 1934 - Waiver by Chief of Capitol Police of claims arising out o
 usc_title: 2
 usc_section: "1934"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1934"
-generated_at: "2026-03-30T02:53:04.821Z"
+generated_at: "2026-11-23T21:25:21.261Z"
+status: "active"
 ---
 
 # § 1934. Waiver by Chief of Capitol Police of claims arising out of erroneous payments to officers and employees
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:04.821Z"
 - **(f)** This section does not affect any authority under any other law to litigate, settle, compromise, or waive any claim of the United States.
 - **(g)** Subject to the approval of the Chief Administrative Officer of the House of Representatives and the Secretary of the Senate, the Chief shall promulgate rules and regulations to carry out this section.
 - **(h)** This section shall apply with respect to payments of pay and allowances made at any time after the Chief became the disbursing officer for the United States Capitol Police pursuant to section 1907(a) of this title .
+
+## Source Credit
+
+*([Pub. L. 112–74, div. G, title I, § 1102](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 1125](https://www.govinfo.gov/link/statute/125/1125).)*

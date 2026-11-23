@@ -3,9 +3,10 @@ title: "Section 1022g - General provisions"
 usc_title: 20
 usc_section: "1022g"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1022g"
-generated_at: "2026-03-30T02:54:48.098Z"
+generated_at: "2026-11-23T21:25:47.025Z"
+status: "active"
 ---
 
 # § 1022g. General provisions
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:48.098Z"
     - **(B)** may include—
       - **(i)** kindergarten through grade 12 academic achievement and demographic data, without revealing personally identifiable information about an individual student, for students who have been taught by graduates of the teacher preparation program; and
       - **(ii)** teacher effectiveness evaluations for teachers who graduated from the teacher preparation program.
+
+## Source Credit
+
+*([Pub. L. 89–329, title II, § 208](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title II, § 201(2)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3153](https://www.govinfo.gov/link/statute/122/3153); amended [Pub. L. 114–95, title IX, § 9214(c)(7)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2163](https://www.govinfo.gov/link/statute/129/2163).)*

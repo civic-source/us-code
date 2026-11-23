@@ -3,9 +3,10 @@ title: "Section 1866 - Services to nonstockholders or nonmembers"
 usc_title: 12
 usc_section: "1866"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1866"
-generated_at: "2026-03-30T02:53:53.470Z"
+generated_at: "2026-11-23T21:25:37.047Z"
+status: "active"
 ---
 
 # § 1866. Services to nonstockholders or nonmembers
@@ -14,3 +15,7 @@ No bank service company shall unreasonably discriminate in the provision of any 
 
   - **(1)** it shall not be considered unreasonable discrimination for a bank service company to provide services to a nonstockholding or nonmember institution only at a price that fully reflects all of the costs of offering those services, including the cost of capital and a reasonable return thereon; and
   - **(2)** a bank service company may refuse to provide services to a nonstockholding or nonmember institution if comparable services are available from another source at competitive overall costs, or if the providing of services would be beyond the practical capacity of the service company.
+
+## Source Credit
+
+*([Pub. L. 87–856, § 6](https://www.govinfo.gov/link/plaw/87/public/856), Oct. 23, 1962, as added [Pub. L. 97–320, title VII, § 709](https://www.govinfo.gov/link/plaw/97/public/320), Oct. 15, 1982, [96 Stat. 1543](https://www.govinfo.gov/link/statute/96/1543); amended [Pub. L. 104–208, div. A, title II, § 2613(g)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–478](https://www.govinfo.gov/link/statute/110/3009).)*

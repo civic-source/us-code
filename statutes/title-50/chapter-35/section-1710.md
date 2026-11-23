@@ -3,9 +3,10 @@ title: "Section 1710 - Confronting asymmetric and malicious cyber activities"
 usc_title: 50
 usc_section: "1710"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1710"
-generated_at: "2026-03-30T02:56:26.208Z"
+generated_at: "2026-11-23T21:26:38.932Z"
+status: "active"
 ---
 
 # § 1710. Confronting asymmetric and malicious cyber activities
@@ -31,3 +32,9 @@ generated_at: "2026-03-30T02:56:26.208Z"
 - **(d)** In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committee on Foreign Affairs, the Committee on Financial Services, and the Committee on the Judiciary of the House of Representatives; and
   - **(2)** the Committee on Foreign Relations, the Committee on the Judiciary, and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*([Pub. L. 118–50, div. O, § 5](https://www.govinfo.gov/link/plaw/118/public/50), Apr. 24, 2024, [138 Stat. 990](https://www.govinfo.gov/link/statute/138/990).)*

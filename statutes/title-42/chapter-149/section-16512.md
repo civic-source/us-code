@@ -3,9 +3,10 @@ title: "Section 16512 - Terms and conditions"
 usc_title: 42
 usc_section: "16512"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16512"
-generated_at: "2026-03-30T02:56:11.487Z"
+generated_at: "2026-11-23T21:26:33.745Z"
+status: "active"
 ---
 
 # § 16512. Terms and conditions
@@ -106,3 +107,7 @@ generated_at: "2026-03-30T02:56:11.487Z"
     - **(A)** shall meet the requirements of section 16513(a)(1) of this title ; and
     - **(B)** shall not be required to meet the requirements of section 16513(a)(2) of this title .
   - **(2)** In carrying out a project receiving a loan guarantee under this subchapter, State energy financing institutions may enter into partnerships with private entities, Tribal entities, and Alaska Native corporations.
+
+## Source Credit
+
+*([Pub. L. 109–58, title XVII, § 1702](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1117](https://www.govinfo.gov/link/statute/119/1117); [Pub. L. 111–85, title III, § 310](https://www.govinfo.gov/link/plaw/111/public/85), Oct. 28, 2009, [123 Stat. 2873](https://www.govinfo.gov/link/statute/123/2873); [Pub. L. 112–74, div. B, title III, § 305(1)](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 877](https://www.govinfo.gov/link/statute/125/877); [Pub. L. 116–260, div. Z, title IX, § 9010(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2603](https://www.govinfo.gov/link/statute/134/2603); [Pub. L. 117–58, div. D, title IV, § 40401(a)(1)](https://www.govinfo.gov/link/plaw/117/public/58), (3), (c)(2), Nov. 15, 2021, [135 Stat. 1033](https://www.govinfo.gov/link/statute/135/1033), 1034, 1037; [Pub. L. 117–169, title V](https://www.govinfo.gov/link/plaw/117/public/169), §§ 50141(f), 50144(d), Aug. 16, 2022, [136 Stat. 2044](https://www.govinfo.gov/link/statute/136/2044), 2045; [Pub. L. 117–328, div. D, title III, § 308](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 4645](https://www.govinfo.gov/link/statute/136/4645).)*

@@ -3,9 +3,10 @@ title: "Section 6288 - Unfunded priorities of the Administration"
 usc_title: 10
 usc_section: "6288"
 chapter: 607
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6288"
-generated_at: "2026-03-30T02:53:38.226Z"
+generated_at: "2026-11-23T21:25:32.827Z"
+status: "active"
 ---
 
 # § 6288. Unfunded priorities of the Administration
@@ -25,3 +26,17 @@ generated_at: "2026-03-30T02:53:38.226Z"
   - **(3)** would have been recommended for funding through the budget referred to in paragraph (1) by the Administrator—
     - **(A)** if additional resources were available for the budget to fund the program, activity, or mission requirement; or
     - **(B)** in the case of a program, activity, or mission requirement that emerged after the budget was formulated, if the program, activity, or mission requirement had emerged before the budget was formulated.
+
+Annual Report or Certification
+
+Elements
+
+Unfunded Priority Defined
+
+In general
+
+Prioritization of priorities
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI](https://www.govinfo.gov/link/plaw/119/public/60), §§ 3111(a), (d)(2), Dec. 18, 2025, [139 Stat. 1435](https://www.govinfo.gov/link/statute/139/1435), 1462.)*

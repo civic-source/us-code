@@ -3,9 +3,10 @@ title: "Section 1311 - Effluent limitations"
 usc_title: 33
 usc_section: "1311"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1311"
-generated_at: "2026-03-30T02:55:41.091Z"
+generated_at: "2026-11-23T21:26:11.377Z"
+status: "active"
 ---
 
 # § 1311. Effluent limitations
@@ -125,3 +126,49 @@ generated_at: "2026-03-30T02:55:41.091Z"
     - **(B)** The term “remined area” means only that area of any coal remining operation on which coal mining was conducted before August 3, 1977 .
     - **(C)** The term “pre-existing discharge” means any discharge at the time of permit application under this subsection.
   - **(4)** Nothing in this subsection shall affect the application of the Surface Mining Control and Reclamation Act of 1977 [ 30 U.S.C. 1201 et seq.] to any coal remining operation, including the application of such Act to suspended solids.
+
+| “Category | Date by which the final regulation shall be promulgated |
+| --- | --- |
+| Organic chemicals and plastics and synthetic fibers | December 31, 1986 . |
+| Pesticides | December 31, 1986 .” |
+
+
+Compliance requirements under subsection
+
+Effect of filing
+
+Effect of disapproval
+
+Deadline for subsection
+
+decision
+
+Extension of application deadline.—
+
+In general
+
+Application
+
+Additional conditions
+
+Preliminary decision deadline
+
+General rule
+
+Exception
+
+“The Administrator shall promulgate final regulations establishing effluent limitations in accordance with sections 301(b)(2)(A) and 307(b)(1) of the Federal Water Pollution Control Act [ 33 U.S.C. 1311(b)(2)(A) , 1317(b)(1)] for all toxic pollutants referred to in table 1 of Committee Print Numbered 95–30 of the Committee on Public Works and Transportation of the House of Representatives which are discharged from the categories of point sources in accordance with the following table:
+
+Organic chemicals and plastics and synthetic fibers
+
+December 31, 1986
+
+Pesticides
+
+December 31, 1986
+
+“Any discharge from a point source in the United States Virgin Islands in existence on the date of the enactment of this subsection [ Aug. 5, 1983 ] which discharge is attributable to the manufacture of rum (as defined in paragraphs (3) of section 7652(c) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954]) [ 26 U.S.C. 7652(c)(3) ] shall not be subject to the requirements of section 301 (other than toxic pollutant discharges), section 306 or section 403 of the Federal Water Pollution Control Act [ 33 U.S.C. 1311 , 1316, 1343] if—
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title III, § 301, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 844](https://www.govinfo.gov/link/statute/86/844); amended [Pub. L. 95–217](https://www.govinfo.gov/link/plaw/95/public/217), §§ 42–47, 53(c), Dec. 27, 1977, [91 Stat. 1582–1586](https://www.govinfo.gov/link/statute/91/1582), 1590; [Pub. L. 97–117](https://www.govinfo.gov/link/plaw/97/public/117), §§ 21, 22(a)–(d), Dec. 29, 1981, [95 Stat. 1631](https://www.govinfo.gov/link/statute/95/1631), 1632; [Pub. L. 97–440](https://www.govinfo.gov/link/plaw/97/public/440), Jan. 8, 1983, [96 Stat. 2289](https://www.govinfo.gov/link/statute/96/2289); [Pub. L. 100–4, title III](https://www.govinfo.gov/link/plaw/100/public/4), §§ 301(a)–(e), 302(a)–(d), 303(a), (b)(1), (c)–(f), 304(a), 305, 306(a), (b), 307, Feb. 4, 1987, [101 Stat. 29–37](https://www.govinfo.gov/link/statute/101/29); [Pub. L. 100–688, title III, § 3202(b)](https://www.govinfo.gov/link/plaw/100/public/688), Nov. 18, 1988, [102 Stat. 4154](https://www.govinfo.gov/link/statute/102/4154); [Pub. L. 103–431, § 2](https://www.govinfo.gov/link/plaw/103/public/431), Oct. 31, 1994, [108 Stat. 4396](https://www.govinfo.gov/link/statute/108/4396); [Pub. L. 104–66, title II, § 2021(b)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 727](https://www.govinfo.gov/link/statute/109/727).)*

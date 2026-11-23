@@ -3,12 +3,17 @@ title: "Section 121 - Payment of share of tribal funds to helpless Indians"
 usc_title: 25
 usc_section: "121"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 121"
-generated_at: "2026-03-30T02:54:52.798Z"
+generated_at: "2026-11-23T21:25:54.537Z"
+status: "active"
 ---
 
 # § 121. Payment of share of tribal funds to helpless Indians
 
 The pro rata share of any Indian who is mentally or physically incapable of managing his or her own affairs may be withdrawn from the Treasury in the discretion of the Secretary of the Interior and expended for the benefit of such Indian under such rules, regulations, and conditions as the said Secretary may prescribe: Provided , That said funds of any Indian shall not be withdrawn from the Treasury until needed by the Indian and upon his application and when approved by the Secretary of the Interior.
 
+
+## Source Credit
+
+*(Mar. 2, 1907, ch. 2523, § 2, [34 Stat. 1221](https://www.govinfo.gov/link/statute/34/1221); May 18, 1916, ch. 125, § 1, [39 Stat. 128](https://www.govinfo.gov/link/statute/39/128).)*

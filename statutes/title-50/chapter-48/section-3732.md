@@ -3,9 +3,10 @@ title: "Section 3732 - Requirement for on-site managers"
 usc_title: 50
 usc_section: "3732"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3732"
-generated_at: "2026-03-30T02:56:26.260Z"
+generated_at: "2026-11-23T21:26:39.066Z"
+status: "active"
 ---
 
 # § 3732. Requirement for on-site managers
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:26.260Z"
   - **(2)** Verification that the items, substances, or capabilities to be dismantled, secured, or otherwise modified are available for dismantlement, securing, or modification.
   - **(3)** Timely provision of financial, personnel, management, transportation, and other resources.
 - **(f)** In any case in which the Secretary directs an on-site manager to resume the participation of the United States in a project under subsection (c)(4), the Secretary shall notify the congressional defense committees of such direction by not later than 30 days after the date of such direction.
+
+## Source Credit
+
+*([Pub. L. 113–291, div. A, title XIII, § 1332](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3601](https://www.govinfo.gov/link/statute/128/3601).)*

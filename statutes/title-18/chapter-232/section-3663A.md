@@ -3,9 +3,10 @@ title: "Section 3663A - Mandatory restitution to victims of certain crimes"
 usc_title: 18
 usc_section: "3663A"
 chapter: 232
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3663A"
-generated_at: "2026-03-30T02:54:16.524Z"
+generated_at: "2026-11-23T21:25:44.223Z"
+status: "active"
 ---
 
 # § 3663A. Mandatory restitution to victims of certain crimes
@@ -46,3 +47,9 @@ generated_at: "2026-03-30T02:54:16.524Z"
     - **(A)** the number of identifiable victims is so large as to make restitution impracticable; or
     - **(B)** determining complex issues of fact related to the cause or amount of the victim’s losses would complicate or prolong the sentencing process to a degree that the need to provide restitution to any victim is outweighed by the burden on the sentencing process.
 - **(d)** An order of restitution under this section shall be issued and enforced in accordance with section 3664.
+
+Clarification
+
+## Source Credit
+
+*(Added [Pub. L. 104–132, title II, § 204(a)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1227](https://www.govinfo.gov/link/statute/110/1227); amended [Pub. L. 106–310, div. B, title XXXVI, § 3613(d)](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1230](https://www.govinfo.gov/link/statute/114/1230); [Pub. L. 112–186, § 6](https://www.govinfo.gov/link/plaw/112/public/186), Oct. 5, 2012, [126 Stat. 1430](https://www.govinfo.gov/link/statute/126/1430); [Pub. L. 116–206, § 5](https://www.govinfo.gov/link/plaw/116/public/206), Dec. 4, 2020, [134 Stat. 1000](https://www.govinfo.gov/link/statute/134/1000); [Pub. L. 118–77, § 2](https://www.govinfo.gov/link/plaw/118/public/77), July 30, 2024, [138 Stat. 1510](https://www.govinfo.gov/link/statute/138/1510).)*

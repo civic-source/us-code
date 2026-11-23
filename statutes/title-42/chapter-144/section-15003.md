@@ -3,9 +3,10 @@ title: "Section 15003 - Records and audits"
 usc_title: 42
 usc_section: "15003"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15003"
-generated_at: "2026-03-30T02:56:11.454Z"
+generated_at: "2026-11-23T21:26:33.650Z"
+status: "active"
 ---
 
 # § 15003. Records and audits
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.454Z"
     - **(C)** the amount of that portion of the cost of the project or undertaking that is supplied by other sources; and
   - **(2)** such other records as will facilitate an effective audit.
 - **(b)** The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipients of assistance under this subchapter that are pertinent to such assistance.
+
+## Source Credit
+
+*([Pub. L. 106–402, title I, § 103](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1688](https://www.govinfo.gov/link/statute/114/1688).)*

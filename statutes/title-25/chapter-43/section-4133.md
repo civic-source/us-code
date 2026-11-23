@@ -3,9 +3,10 @@ title: "Section 4133 - Program requirements"
 usc_title: 25
 usc_section: "4133"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4133"
-generated_at: "2026-03-30T02:54:52.859Z"
+generated_at: "2026-11-23T21:25:54.707Z"
+status: "active"
 ---
 
 # § 4133. Program requirements
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:52.859Z"
   - **(1)** To the extent that the Indian housing plan for an Indian tribe provides for the use of amounts of a grant under section 4111 of this title for a period of more than 1 fiscal year, or for affordable housing activities for which the amounts will be committed for use or expended during a subsequent fiscal year, the Secretary shall not require those amounts to be used or committed for use at any time earlier than otherwise provided for in the Indian housing plan.
   - **(2)** Any amount of a grant provided to an Indian tribe under section 4111 of this title for a fiscal year that is not used by the Indian tribe during that fiscal year may be used by the Indian tribe during any subsequent fiscal year.
 - **(g)** Notwithstanding any other provision of law, a recipient shall not be required to act in accordance with any otherwise applicable competitive procurement rule or procedure with respect to the procurement, using a grant provided under this chapter, of goods and services the value of which is less than $5,000.
+
+## Source Credit
+
+*([Pub. L. 104–330, title II, § 203](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4032](https://www.govinfo.gov/link/statute/110/4032); [Pub. L. 110–411, title II, § 203](https://www.govinfo.gov/link/plaw/110/public/411), Oct. 14, 2008, [122 Stat. 4325](https://www.govinfo.gov/link/statute/122/4325).)*

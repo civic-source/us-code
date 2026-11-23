@@ -3,9 +3,10 @@ title: "Section 12 - Purpose and objectives of Cooperative Management and Protec
 usc_title: 16
 usc_section: "12"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 12"
-generated_at: "2026-03-30T02:54:22.843Z"
+generated_at: "2026-11-23T21:25:51.623Z"
+status: "active"
 ---
 
 # § 460nnn–12. Purpose and objectives of Cooperative Management and Protection Area
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:22.843Z"
   - **(3)** to conserve, protect and to ensure traditional access to cultural, gathering, religious, and archaeological sites by the Burns Paiute Tribe on Federal lands and to promote cooperation with private landowners;
   - **(4)** to ensure the conservation, protection, and improved management of the ecological, social, and economic environment of the Cooperative Management and Protection Area, including geological, biological, wildlife, riparian, and scenic resources; and
   - **(5)** to promote and foster cooperation, communication, and understanding and to reduce conflict between Steens Mountain users and interests.
+
+## Source Credit
+
+*([Pub. L. 106–399, title I, § 102](https://www.govinfo.gov/link/plaw/106/public/399), Oct. 30, 2000, [114 Stat. 1658](https://www.govinfo.gov/link/statute/114/1658).)*

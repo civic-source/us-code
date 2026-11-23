@@ -3,9 +3,10 @@ title: "Section 7476 - Declaratory judgments relating to qualification of certai
 usc_title: 26
 usc_section: "7476"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7476"
-generated_at: "2026-03-30T02:55:27.875Z"
+generated_at: "2026-11-23T21:26:06.972Z"
+status: "active"
 ---
 
 # § 7476. Declaratory judgments relating to qualification of certain retirement plans
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:27.875Z"
   - **(1)** a pension, profit-sharing, or stock bonus plan described in section 401(a) or a trust which is part of such a plan, or
   - **(2)** an annuity plan described in section 403(a).
 - **(d)** For provisions concerning intervention by Pension Benefit Guaranty Corporation and Secretary of Labor in actions brought under this section and right of Pension Benefit Guaranty Corporation to bring action, see section 3001(c) of subtitle A of title III of the Employee Retirement Income Security Act of 1974.
+
+## Source Credit
+
+*(Added [Pub. L. 93–406, title II, § 1041(a)](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 949](https://www.govinfo.gov/link/statute/88/949); amended [Pub. L. 94–455, title X, § 1042(d)(2)(C)](https://www.govinfo.gov/link/plaw/94/public/455), title XIII, § 1306(b)(3), title XIX, §§ 1906(a)(48), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1639](https://www.govinfo.gov/link/statute/90/1639), 1719, 1831, 1834; [Pub. L. 95–600, title III, § 336(b)(2)(A)](https://www.govinfo.gov/link/plaw/95/public/600), title VII, § 701(dd)(1), Nov. 6, 1978, [92 Stat. 2842](https://www.govinfo.gov/link/statute/92/2842), 2924; [Pub. L. 98–369, div. A, title IV, § 491(d)(52)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 852](https://www.govinfo.gov/link/statute/98/852); [Pub. L. 99–514, title XVIII, § 1899A(59)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2962](https://www.govinfo.gov/link/statute/100/2962).)*

@@ -3,9 +3,10 @@ title: "Section 81o - Residents of zone"
 usc_title: 19
 usc_section: "81o"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 81o"
-generated_at: "2026-03-30T02:54:24.626Z"
+generated_at: "2026-11-23T21:25:42.687Z"
+status: "active"
 ---
 
 # § 81o. Residents of zone
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:24.626Z"
 - **(c)** The Board may at any time order the exclusion from the zone of any goods or process of treatment that in its judgment is detrimental to the public interest, health, or safety.
 - **(d)** No retail trade shall be conducted within the zone except under permits issued by the grantee and approved by the Board. Such permittees shall sell no goods except such domestic or duty-paid or duty-free goods as are brought into the zone from customs territory.
 - **(e)** Tangible personal property imported from outside the United States and held in a zone for the purpose of storage, sale, exhibition, repackaging, assembly, distribution, sorting, grading, cleaning, mixing, display, manufacturing, or processing, and tangible personal property produced in the United States and held in a zone for exportation, either in its original form or as altered by any of the above processes, shall be exempt from State and local ad valorem taxation.
+
+## Source Credit
+
+*(June 18, 1934, ch. 590, § 15, [48 Stat. 1002](https://www.govinfo.gov/link/statute/48/1002); [Pub. L. 98–573, title II, § 231(b)(1)](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 2991](https://www.govinfo.gov/link/statute/98/2991).)*

@@ -3,9 +3,10 @@ title: "Section 7703 - Functions of the Administration"
 usc_title: 38
 usc_section: "7703"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7703"
-generated_at: "2026-03-30T02:55:53.535Z"
+generated_at: "2026-11-23T21:26:16.892Z"
+status: "active"
 ---
 
 # § 7703. Functions of the Administration
@@ -17,3 +18,7 @@ The Veterans Benefits Administration is responsible for the administration of th
   - **(3)** Veterans’ housing loan programs.
   - **(4)** Veterans’ and servicemembers’ life insurance programs.
   - **(5)** Outreach programs and other veterans’ services programs.
+
+## Source Credit
+
+*(Added [Pub. L. 102–83, § 2(b)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 399](https://www.govinfo.gov/link/statute/105/399).)*

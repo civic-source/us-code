@@ -3,9 +3,10 @@ title: "Section 308 - Assistant Secretaries; Deputy Assistant Secretaries"
 usc_title: 38
 usc_section: "308"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 308"
-generated_at: "2026-03-30T02:55:53.470Z"
+generated_at: "2026-11-23T21:26:16.551Z"
+status: "active"
 ---
 
 # § 308. Assistant Secretaries; Deputy Assistant Secretaries
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:53.470Z"
     - **(A)** of a confidential, policy-determining, policy-making, or policy-advocating character;
     - **(B)** in which such individual served as a noncareer appointee in the Senior Executive Service, as such term is defined in section 3132(a)(7) of title 5 ; or
     - **(C)** to which such individual was appointed by the President.
+
+## Source Credit
+
+*(Added [Pub. L. 102–83, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 381](https://www.govinfo.gov/link/statute/105/381); amended [Pub. L. 107–287, § 5(a)](https://www.govinfo.gov/link/plaw/107/public/287) –(c), Nov. 7, 2002, [116 Stat. 2030](https://www.govinfo.gov/link/statute/116/2030); [Pub. L. 112–166, § 2(m)](https://www.govinfo.gov/link/plaw/112/public/166), Aug. 10, 2012, [126 Stat. 1287](https://www.govinfo.gov/link/statute/126/1287); [Pub. L. 115–41, title I, § 101(b)](https://www.govinfo.gov/link/plaw/115/public/41), June 23, 2017, [131 Stat. 865](https://www.govinfo.gov/link/statute/131/865).)*

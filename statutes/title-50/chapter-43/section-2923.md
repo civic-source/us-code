@@ -3,9 +3,10 @@ title: "Section 2923 - Authorization of appropriations for the Department of Ene
 usc_title: 50
 usc_section: "2923"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2923"
-generated_at: "2026-03-30T02:56:26.226Z"
+generated_at: "2026-11-23T21:26:38.983Z"
+status: "active"
 ---
 
 # § 2923. Authorization of appropriations for the Department of Energy programs to prevent weapons of mass destruction proliferation and terrorism
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:26.226Z"
   - **(3)** The International Materials Protection, Control and Accounting program.
   - **(4)** The Nonproliferation and Verification Research and Development program.
 - **(b)** The sums appropriated pursuant to subsection (a) may not exceed the amounts authorized to be appropriated by any national defense authorization Act for fiscal year 2008 (whether enacted before or after August 3, 2007 ) to Department of Energy National Nuclear Security Administration Defense Nuclear Nonproliferation for such purposes.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XVIII, § 1833](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 497](https://www.govinfo.gov/link/statute/121/497).)*

@@ -3,9 +3,10 @@ title: "Section 17051 - Renewable fuel dispenser requirements"
 usc_title: 42
 usc_section: "17051"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17051"
-generated_at: "2026-03-30T02:56:11.493Z"
+generated_at: "2026-11-23T21:26:33.758Z"
+status: "active"
 ---
 
 # § 17051. Renewable fuel dispenser requirements
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.493Z"
   - **(2)** The level of financial assistance provided on an annual basis by the Federal Government, State governments, and nonprofit entities for the installation of E–85 compatible infrastructure.
   - **(3)** The number of retailers whose retail locations are unable to support more than 2 underground storage tank dispensers.
   - **(4)** The expense incurred by retailers in the installation and sale of E–85 compatible dispensers and related systems and any potential effects on the price of motor vehicle fuel.
+
+## Source Credit
+
+*([Pub. L. 110–140, title II, § 242](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1540](https://www.govinfo.gov/link/statute/121/1540).)*

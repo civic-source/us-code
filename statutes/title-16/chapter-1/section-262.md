@@ -3,9 +3,10 @@ title: "Section 262 - Total area; consent of Congress to acquisition of lands an
 usc_title: 16
 usc_section: "262"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 262"
-generated_at: "2026-03-30T02:54:22.746Z"
+generated_at: "2026-11-23T21:25:51.402Z"
+status: "active"
 ---
 
 # § 262. Total area; consent of Congress to acquisition of lands and property and transfer thereof to United States
@@ -14,3 +15,7 @@ The total area of the Cumberland Gap National Historical Park, as determined pur
 
 - **(a)** The consent of Congress is given to the States of Tennessee, Kentucky, and Virginia to enter into a compact providing for (1) the acquisition of the lands, structures, and other property in the Cumberland Gap-Cumberland Ford areas referred to in section 261 of this title , and (2) the transfer of title to such lands, structures, and other property to the United States.
 - **(b)** The right to alter, amend, or repeal this section is expressly reserved.
+
+## Source Credit
+
+*(June 11, 1940, ch. 304, § 2, [54 Stat. 263](https://www.govinfo.gov/link/statute/54/263); May 26, 1943, ch. 103, § 2, [57 Stat. 85](https://www.govinfo.gov/link/statute/57/85).)*

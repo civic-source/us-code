@@ -3,9 +3,10 @@ title: "Section 415 - Limitations of actions"
 usc_title: 47
 usc_section: "415"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 415"
-generated_at: "2026-03-30T02:56:24.516Z"
+generated_at: "2026-11-23T21:26:36.025Z"
+status: "active"
 ---
 
 # § 415. Limitations of actions
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:24.516Z"
 - **(e)** The cause of action in respect of the transmission of a message shall, for the purposes of this section, be deemed to accrue upon delivery or tender of delivery thereof by the carrier, and not after.
 - **(f)** A petition for the enforcement of an order of the Commission for the payment of money shall be filed in the district court or the State court within one year from the date of the order, and not after.
 - **(g)** The term “overcharges” as used in this section shall be deemed to mean charges for services in excess of those applicable thereto under the schedules of charges lawfully on file with the Commission.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title IV, § 415, [48 Stat. 1099](https://www.govinfo.gov/link/statute/48/1099); [Pub. L. 93–507](https://www.govinfo.gov/link/plaw/93/public/507), Nov. 30, 1974, [88 Stat. 1577](https://www.govinfo.gov/link/statute/88/1577).)*

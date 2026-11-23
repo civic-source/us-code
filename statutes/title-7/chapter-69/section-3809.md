@@ -3,9 +3,10 @@ title: "Section 3809 - Primary enforcement responsibility"
 usc_title: 7
 usc_section: "3809"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3809"
-generated_at: "2026-03-30T02:53:42.404Z"
+generated_at: "2026-11-23T21:25:28.340Z"
+status: "active"
 ---
 
 # § 3809. Primary enforcement responsibility
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.404Z"
   - **(1)** On request of the Governor or other appropriate official of a State, the Secretary may terminate, effective as soon as the Secretary determines is practicable, the primary enforcement responsibility of a State under subsection (a). In terminating the primary enforcement responsibility under this subsection, the Secretary shall work with the appropriate State official to determine the level of support to be provided to the Secretary by the State under this chapter.
   - **(2)** Nothing in this subsection shall prevent a State from reassuming primary enforcement responsibility if the Secretary determines that the State meets the requirements of subsection (a).
 - **(d)** Nothing in this section shall limit the authority of the Secretary to enforce this chapter whenever the Secretary determines that emergency conditions exist that require immediate action on the part of the Secretary and the State authority is unwilling or unable adequately to respond to the emergency.
+
+## Source Credit
+
+*([Pub. L. 96–468, § 10](https://www.govinfo.gov/link/plaw/96/public/468), Oct. 17, 1980, [94 Stat. 2233](https://www.govinfo.gov/link/statute/94/2233); [Pub. L. 104–127, title IX, § 914(a)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1186](https://www.govinfo.gov/link/statute/110/1186).)*

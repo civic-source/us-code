@@ -3,9 +3,10 @@ title: "Section 225g - Financing provisions"
 usc_title: 24
 usc_section: "225g"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "24 U.S.C. § 225g"
-generated_at: "2026-03-30T02:54:50.790Z"
+generated_at: "2026-11-23T21:25:53.409Z"
+status: "active"
 ---
 
 # § 225g. Financing provisions
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:50.790Z"
 - **(h)** The Government of the United States shall be solely responsible for—
   - **(1)** all claims and causes of action against Saint Elizabeths Hospital that accrue before October 1, 1987 , regardless of the date on which legal proceedings asserting such claims were or may be filed, except that the United States shall, in the case of any tort claim, only be responsible for any such claim against the United States that accrues before October 1, 1987 , and the United States shall not compromise or settle any claim resulting in District liability without the consent of the District, which consent shall not be unreasonably withheld; and
   - **(2)** all claims that result in a judgment or award against Saint Elizabeths Hospital before October 1, 1987 .
+
+## Source Credit
+
+*([Pub. L. 98–621, § 9](https://www.govinfo.gov/link/plaw/98/public/621), Nov. 8, 1984, [98 Stat. 3377](https://www.govinfo.gov/link/statute/98/3377).)*

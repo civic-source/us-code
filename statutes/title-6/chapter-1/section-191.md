@@ -3,9 +3,10 @@ title: "Section 191 - Homeland Security Science and Technology Advisory Committe
 usc_title: 6
 usc_section: "191"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 191"
-generated_at: "2026-03-30T02:53:09.448Z"
+generated_at: "2026-11-23T21:25:25.759Z"
+status: "active"
 ---
 
 # § 191. Homeland Security Science and Technology Advisory Committee
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:09.448Z"
   - **(2)** The Advisory Committee may render to the Under Secretary for transmittal to Congress such additional reports on specific policy matters as it considers appropriate.
 - **(i)** Section 1013 of title 5 shall not apply to the Advisory Committee.
 - **(j)** The Department of Homeland Security Science and Technology Advisory Committee shall terminate on December 31, 2008 .
+
+## Source Credit
+
+*([Pub. L. 107–296, title III, § 311](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2174](https://www.govinfo.gov/link/statute/116/2174); [Pub. L. 108–334, title V, § 520](https://www.govinfo.gov/link/plaw/108/public/334), Oct. 18, 2004, [118 Stat. 1318](https://www.govinfo.gov/link/statute/118/1318); [Pub. L. 109–347, title III, § 302(a)](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1920](https://www.govinfo.gov/link/statute/120/1920); [Pub. L. 117–286, § 4(a)(14)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4306](https://www.govinfo.gov/link/statute/136/4306).)*

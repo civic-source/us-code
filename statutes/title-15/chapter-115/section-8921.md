@@ -3,9 +3,10 @@ title: "Section 8921 - Additions to toxics release inventory"
 usc_title: 15
 usc_section: "8921"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8921"
-generated_at: "2026-03-30T02:54:08.235Z"
+generated_at: "2026-11-23T21:25:40.099Z"
+status: "active"
 ---
 
 # § 8921. Additions to toxics release inventory
@@ -70,3 +71,7 @@ generated_at: "2026-03-30T02:54:08.235Z"
     - **(A)** review any such claim of protection from disclosure; and
     - **(B)** require that person to reassert and substantiate or resubstantiate that claim in accordance with section 2613(f) of this title .
   - **(2)** If the Administrator determines that the chemical identity of a perfluoroalkyl or polyfluoroalkyl substance or class of perfluoroalkyl or polyfluoroalkyl substances qualifies for protection from disclosure pursuant to paragraph (1), the Administrator shall include the substance or class of substances, as applicable, on the toxics release inventory in a manner that does not disclose the protected information.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. F, title LXXIII, § 7321](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2277](https://www.govinfo.gov/link/statute/133/2277).)*

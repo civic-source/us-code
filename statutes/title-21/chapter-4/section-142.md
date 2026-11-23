@@ -3,9 +3,10 @@ title: "Section 142 - Milk or cream when unfit for importation"
 usc_title: 21
 usc_section: "142"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 142"
-generated_at: "2026-03-30T02:54:54.215Z"
+generated_at: "2026-11-23T21:25:55.961Z"
+status: "active"
 ---
 
 # § 142. Milk or cream when unfit for importation
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:54.215Z"
   - **(4)** in the case of raw milk if the number of bacteria per cubic centimeter exceeds three hundred thousand and in the case of raw cream seven hundred and fifty thousand, in the case of pasteurized milk if the number of bacteria per cubic centimeter exceeds one hundred thousand, and in the case of pasteurized cream five hundred thousand;
   - **(5)** when the temperature of milk or cream at the time of importation exceeds fifty degrees Fahrenheit.
 
+
+## Source Credit
+
+*(Feb. 15, 1927, ch. 155, § 2, [44 Stat. 1101](https://www.govinfo.gov/link/statute/44/1101).)*

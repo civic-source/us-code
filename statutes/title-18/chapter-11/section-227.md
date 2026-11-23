@@ -3,9 +3,10 @@ title: "Section 227 - Wrongfully influencing a private entity’s employment dec
 usc_title: 18
 usc_section: "227"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 227"
-generated_at: "2026-03-30T02:54:16.460Z"
+generated_at: "2026-11-23T21:25:43.955Z"
+status: "active"
 ---
 
 # § 227. Wrongfully influencing a private entity’s employment decisions by a Member of Congress or an officer or employee of the legislative or executive branch
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:16.460Z"
   - **(1)** a Senator or Representative in, or a Delegate or Resident Commissioner to, the Congress;
   - **(2)** an employee of either House of Congress; or
   - **(3)** the President, Vice President, an employee of the United States Postal Service or the Postal Regulatory Commission, or any other executive branch employee (as such term is defined under section 2105 of title 5 , United States Code).
+
+## Source Credit
+
+*(Added [Pub. L. 110–81, title I, § 102(a)](https://www.govinfo.gov/link/plaw/110/public/81), Sept. 14, 2007, [121 Stat. 739](https://www.govinfo.gov/link/statute/121/739); amended [Pub. L. 112–105, § 18(a)](https://www.govinfo.gov/link/plaw/112/public/105), Apr. 4, 2012, [126 Stat. 304](https://www.govinfo.gov/link/statute/126/304).)*

@@ -3,9 +3,10 @@ title: "Section 579f - Budgetary evaluation metrics and transparency; public par
 usc_title: 33
 usc_section: "579f"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 579f"
-generated_at: "2026-03-30T02:55:41.063Z"
+generated_at: "2026-11-23T21:26:11.319Z"
+status: "active"
 ---
 
 # § 579f. Budgetary evaluation metrics and transparency; public participation
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:41.063Z"
   - **(3)** provide to non-Federal interests the opportunity to collaborate with District personnel for projects within each District’s jurisdiction—
     - **(A)** to support information sharing; and
     - **(B)** to the maximum extent practicable, to share in concept development and decisionmaking to achieve complementary or integrated solutions to problems.
+
+## Source Credit
+
+*([Pub. L. 115–270, title I, § 1154](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3791](https://www.govinfo.gov/link/statute/132/3791).)*

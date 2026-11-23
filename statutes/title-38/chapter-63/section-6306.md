@@ -3,9 +3,10 @@ title: "Section 6306 - Use of other agencies"
 usc_title: 38
 usc_section: "6306"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 6306"
-generated_at: "2026-03-30T02:55:53.523Z"
+generated_at: "2026-11-23T21:26:16.831Z"
+status: "active"
 ---
 
 # § 6306. Use of other agencies
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:53.523Z"
 - **(d)** In carrying out this subchapter, the Secretary shall, where appropriate, make referrals to any Federal department or agency or State or local governmental unit or recognized national or other organization.
 - **(e)** In carrying out this subchapter, the Secretary may furnish available space and office facilities for the use of authorized representatives of such governmental unit or other organization providing services.
 - **(f)** In carrying out this subchapter, the Secretary shall conduct and provide for studies, in consultation with appropriate Federal departments and agencies, to determine the most effective program design to carry out the purposes of this subchapter.
+
+## Source Credit
+
+*(Added [Pub. L. 109–233, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/109/public/233), June 15, 2006, [120 Stat. 409](https://www.govinfo.gov/link/statute/120/409); amended [Pub. L. 117–205, § 2(b)(2)](https://www.govinfo.gov/link/plaw/117/public/205), Oct. 17, 2022, [136 Stat. 2233](https://www.govinfo.gov/link/statute/136/2233).)*

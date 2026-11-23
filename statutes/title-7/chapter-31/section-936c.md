@@ -3,9 +3,10 @@ title: "Section 936c - Refinancing and prepayment of FFB loans"
 usc_title: 7
 usc_section: "936c"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 936c"
-generated_at: "2026-03-30T02:53:42.296Z"
+generated_at: "2026-11-23T21:25:28.005Z"
+status: "active"
 ---
 
 # § 936c. Refinancing and prepayment of FFB loans
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:53:42.296Z"
   - **(2)** A borrower may not exercise the option under paragraph (1) in the case of a loan or loan advance, or portion thereof, if the total amount of such loans for which such option would be exercised exceeds 50 percent of the outstanding principal balance of the loans made to such borrower and guaranteed under section 936 of this title .
   - **(3)** A borrower that exercises the maximum rate option under paragraph (1) shall, at the time of exercising such option, pay a fee equal to 1 percent of the outstanding principal balance of such loan or loan advance, or portion thereof, for which such option is exercised. Such fee shall be in addition to the penalties and other payments required under subsection (b).
   - **(4)** The option provided under paragraph (1) shall not be available in the case of any loan or loan advance, or portion thereof, unless a written request to exercise such option is sent to the Secretary not later than 1 year after the effective date of regulations issued to carry out the Rural Electrification Loan Restructuring Act of 1993.
+
+## Source Credit
+
+*(May 20, 1936, ch. 432, title III, § 306C, as added [Pub. L. 103–66, title I, § 1201(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 327](https://www.govinfo.gov/link/statute/107/327); amended [Pub. L. 103–129, § 2(c)(10)](https://www.govinfo.gov/link/plaw/103/public/129), Nov. 1, 1993, [107 Stat. 1365](https://www.govinfo.gov/link/statute/107/1365); [Pub. L. 103–354, title II, § 235(a)(13)](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3221](https://www.govinfo.gov/link/statute/108/3221).)*

@@ -3,9 +3,10 @@ title: "Section 41 - Payment of claims"
 usc_title: 42
 usc_section: "41"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 41"
-generated_at: "2026-03-30T02:56:10.851Z"
+generated_at: "2026-11-23T21:26:30.965Z"
+status: "active"
 ---
 
 # § 300mm–41. Payment of claims
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:56:10.851Z"
 - **(e)** For the purposes of this section, a WTC-related health condition shall be treated as a condition that is work-related if—
   - **(1)** the condition is diagnosed in an enrolled WTC responder, or in an individual who qualifies as a certified-eligible WTC survivor on the basis of being a rescue, recovery, or cleanup worker; or
   - **(2)** with respect to the condition the individual has filed and had established a claim under a workers’ compensation law or plan of the United States or a State, or other work-related injury or illness benefit plan of the employer of such individual.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXXIII, § 3331, as added [Pub. L. 111–347, title I, § 101](https://www.govinfo.gov/link/plaw/111/public/347), Jan. 2, 2011, [124 Stat. 3653](https://www.govinfo.gov/link/statute/124/3653); amended [Pub. L. 114–113, div. O, title III, § 302(g)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3000](https://www.govinfo.gov/link/statute/129/3000); [Pub. L. 117–328, div. FF, title VII, § 7701(b)(3)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5965](https://www.govinfo.gov/link/statute/136/5965); [Pub. L. 118–31, div. A, title XVIII, § 1851(c)(3)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 708](https://www.govinfo.gov/link/statute/137/708).)*

@@ -3,9 +3,10 @@ title: "Section 2081 - United States participation in Inter-American Cultural an
 usc_title: 22
 usc_section: "2081"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2081"
-generated_at: "2026-03-30T02:55:05.341Z"
+generated_at: "2026-11-23T21:25:58.422Z"
+status: "active"
 ---
 
 # § 2081. United States participation in Inter-American Cultural and Trade Center; purposes of Interama
@@ -15,3 +16,7 @@ The President is authorized, through such department or agency in the executive 
   - **(1)** to provide a permanent international center which will serve as a meeting ground for the governments and industries of the Western Hemisphere and of other areas of the world;
   - **(2)** to facilitate broad and continuous exchanges of ideas, persons, and products through cultural, educational, and other exchanges; and
   - **(3)** by other appropriate means, to promote mutual understanding between the peoples of the Western Hemisphere and to strengthen the ties which unite the United States with other nations of the free world.
+
+## Source Credit
+
+*([Pub. L. 89–355, § 1](https://www.govinfo.gov/link/plaw/89/public/355), Feb. 19, 1966, [80 Stat. 5](https://www.govinfo.gov/link/statute/80/5).)*

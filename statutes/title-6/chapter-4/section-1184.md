@@ -3,9 +3,10 @@ title: "Section 1184 - Over-the-road bus security training program"
 usc_title: 6
 usc_section: "1184"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1184"
-generated_at: "2026-03-30T02:53:09.508Z"
+generated_at: "2026-11-23T21:25:25.875Z"
+status: "active"
 ---
 
 # § 1184. Over-the-road bus security training program
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:09.508Z"
   - **(4)** The Secretary shall periodically review and update, as appropriate, the training regulations issued under subsection (a) to reflect new or changing security threats. Each over-the-road bus operator shall revise its training program accordingly and provide additional training as necessary to its employees within a reasonable time after the regulations are updated.
 - **(e)** The Secretary shall ensure that the training program developed under subsection (a) is a component of the National Training Program established under section 748 of this title .
 - **(f)** Not later than 2 years after the date of regulation issuance, the Secretary shall review implementation of the training program of a representative sample of over-the-road bus operators and over-the-road bus frontline employees, and report to the appropriate congressional committees of such reviews. The Secretary may submit the report in both classified and redacted formats as necessary.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XV, § 1534](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 461](https://www.govinfo.gov/link/statute/121/461).)*

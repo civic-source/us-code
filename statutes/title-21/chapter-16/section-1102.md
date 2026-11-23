@@ -3,9 +3,10 @@ title: "Section 1102 - Congressional declaration of national policy"
 usc_title: 21
 usc_section: "1102"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 1102"
-generated_at: "2026-03-30T02:54:54.301Z"
+generated_at: "2026-11-23T21:25:56.272Z"
+status: "active"
 ---
 
 # § 1102. Congressional declaration of national policy
@@ -16,3 +17,7 @@ The Congress declares that it is the policy of the United States and the purpose
   - **(2)** the development and support of community-based prevention programs;
   - **(3)** the development and encouragement of effective occupational prevention and treatment programs within the Government and in cooperation with the private sector; and
   - **(4)** increased Federal commitment to research into the behavioral and biomedical etiology of, the treatment of, and the mental and physical health and social and economic consequences of, drug abuse.
+
+## Source Credit
+
+*([Pub. L. 92–255, title I, § 102](https://www.govinfo.gov/link/plaw/92/public/255), Mar. 21, 1972, [86 Stat. 66](https://www.govinfo.gov/link/statute/86/66); [Pub. L. 94–237, § 2](https://www.govinfo.gov/link/plaw/94/public/237), Mar. 19, 1976, [90 Stat. 241](https://www.govinfo.gov/link/statute/90/241); [Pub. L. 96–181, § 3](https://www.govinfo.gov/link/plaw/96/public/181), Jan. 2, 1980, [93 Stat. 1309](https://www.govinfo.gov/link/statute/93/1309).)*

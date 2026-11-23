@@ -3,9 +3,10 @@ title: "Section 12105 - Army Reserve and Air Force Reserve: transfer from Guard 
 usc_title: 10
 usc_section: "12105"
 chapter: 1203
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 12105"
-generated_at: "2026-03-30T02:53:38.268Z"
+generated_at: "2026-11-23T21:25:33.036Z"
+status: "active"
 ---
 
 # § 12105. Army Reserve and Air Force Reserve: transfer from Guard components
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:38.268Z"
   - **(2)** an enlisted member of the Air National Guard of the United States may be transferred in grade to the Air Force Reserve.
 - **(b)** Upon such a transfer, the member transferred is eligible for promotion to the highest regular or reserve grade ever held by him in the Army, if transferred under subsection (a)(1), or the Air Force, if transferred under subsection (a)(2), if his service has been honorable.
 - **(c)** A transfer under this section may only be made with the consent of the governor or other appropriate authority of the State concerned.
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1662(b)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2988](https://www.govinfo.gov/link/statute/108/2988).)*

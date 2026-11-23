@@ -3,9 +3,10 @@ title: "Section 284 - Directors of national research institutes"
 usc_title: 42
 usc_section: "284"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 284"
-generated_at: "2026-03-30T02:56:10.739Z"
+generated_at: "2026-11-23T21:26:30.467Z"
+status: "active"
 ---
 
 # § 284. Directors of national research institutes
@@ -58,3 +59,17 @@ generated_at: "2026-03-30T02:56:10.739Z"
     - **(A)** establish technical and scientific peer review groups in addition to those appointed under section 282(b)(16) of this title ; and
     - **(B)** appoint the members of peer review groups established under subparagraph (A); and
   - **(4)** may publish, or arrange for the publication of, information with respect to the purpose of the Institute without regard to section 501 of title 44 .
+
+In General
+
+Activities
+
+In General
+
+Report
+
+Definition
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 405, as added [Pub. L. 99–158, § 2](https://www.govinfo.gov/link/plaw/99/public/158), Nov. 20, 1985, [99 Stat. 826](https://www.govinfo.gov/link/statute/99/826); amended [Pub. L. 100–607, title I, § 116](https://www.govinfo.gov/link/plaw/100/public/607), Nov. 4, 1988, [102 Stat. 3053](https://www.govinfo.gov/link/statute/102/3053); [Pub. L. 100–690, title II, § 2613(c)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4239](https://www.govinfo.gov/link/statute/102/4239); [Pub. L. 103–43, title III, § 301(a)(1)](https://www.govinfo.gov/link/plaw/103/public/43), (b), June 10, 1993, [107 Stat. 150](https://www.govinfo.gov/link/statute/107/150); [Pub. L. 109–482, title I, § 102(f)(1)(B)](https://www.govinfo.gov/link/plaw/109/public/482), Jan. 15, 2007, [120 Stat. 3685](https://www.govinfo.gov/link/statute/120/3685); [Pub. L. 114–255, div. A, title II](https://www.govinfo.gov/link/plaw/114/public/255), §§ 2033(a), (b), 2036(c), Dec. 13, 2016, [130 Stat. 1057](https://www.govinfo.gov/link/statute/130/1057), 1058, 1063; [Pub. L. 117–81, div. A, title XVII, § 1702(j)(1)(B)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2159](https://www.govinfo.gov/link/statute/135/2159); [Pub. L. 117–286, § 4(a)(232)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4331](https://www.govinfo.gov/link/statute/136/4331).)*

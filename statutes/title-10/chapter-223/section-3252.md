@@ -3,9 +3,10 @@ title: "Section 3252 - Requirements for information relating to supply chain ris
 usc_title: 10
 usc_section: "3252"
 chapter: 223
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3252"
-generated_at: "2026-03-30T02:53:38.191Z"
+generated_at: "2026-11-23T21:25:32.722Z"
+status: "active"
 ---
 
 # § 3252. Requirements for information relating to supply chain risk
@@ -48,3 +49,29 @@ generated_at: "2026-03-30T02:53:38.191Z"
   - **(7)** The term “appropriate congressional committees” means—
     - **(A)** in the case of a covered system included in the National Intelligence Program or the Military Intelligence Program, the Select Committee on Intelligence of the Senate, the Permanent Select Committee on Intelligence of the House of Representatives, and the congressional defense committees; and
     - **(B)** in the case of a covered system not otherwise included in subparagraph (A), the congressional defense committees.
+
+Authority
+
+Determination and Notification
+
+Limitation on Disclosure
+
+Definitions
+
+Head of a covered agency
+
+Covered procurement action
+
+Covered procurement
+
+Supply chain risk
+
+Covered system
+
+Covered item of supply
+
+Appropriate congressional committees
+
+## Source Credit
+
+*(Added [Pub. L. 115–232, div. A, title VIII, § 881(a)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1910](https://www.govinfo.gov/link/statute/132/1910), § 2339a; amended [Pub. L. 116–92, div. A, title XVII, § 1731(a)(43)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1814](https://www.govinfo.gov/link/statute/133/1814); renumbered § 3252 and amended [Pub. L. 116–283, div. A, title X, § 1081(a)(36)](https://www.govinfo.gov/link/plaw/116/public/283), title XVIII, § 1813(g), Jan. 1, 2021, [134 Stat. 3872](https://www.govinfo.gov/link/statute/134/3872), 4181; [Pub. L. 118–159, div. A, title VIII, § 841](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1990](https://www.govinfo.gov/link/statute/138/1990).)*

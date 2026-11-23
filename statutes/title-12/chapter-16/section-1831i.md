@@ -3,9 +3,10 @@ title: "Section 1831i - Agency disapproval of directors and senior executive off
 usc_title: 12
 usc_section: "1831i"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1831i"
-generated_at: "2026-03-30T02:53:53.458Z"
+generated_at: "2026-11-23T21:25:37.019Z"
+status: "active"
 ---
 
 # § 1831i. Agency disapproval of directors and senior executive officers of insured depository institutions or depository institution holding companies
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:53.458Z"
   - **(2)** such other information as the agency may prescribe by regulation.
 - **(e)** The appropriate Federal banking agency shall issue a notice of disapproval with respect to a notice submitted pursuant to subsection (a) if the competence, experience, character, or integrity of the individual with respect to whom such notice is submitted indicates that it would not be in the best interests of the depositors of the depository institution or in the best interests of the public to permit the individual to be employed by, or associated with, the depository institution or depository institution holding company.
 - **(f)** Each appropriate Federal banking agency shall prescribe by regulation a definition for the terms “troubled condition” and “senior executive officer” for purposes of subsection (a).
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [32], as added [Pub. L. 101–73, title IX, § 914(a)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 484](https://www.govinfo.gov/link/statute/103/484); amended [Pub. L. 104–208, div. A, title II, § 2209](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–409](https://www.govinfo.gov/link/statute/110/3009).)*

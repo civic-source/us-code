@@ -3,9 +3,10 @@ title: "Section 3104 - Garnishment"
 usc_title: 28
 usc_section: "3104"
 chapter: 176
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 3104"
-generated_at: "2026-03-30T02:55:30.152Z"
+generated_at: "2026-11-23T21:26:01.142Z"
+status: "active"
 ---
 
 # § 3104. Garnishment
@@ -21,3 +22,13 @@ generated_at: "2026-03-30T02:55:30.152Z"
 - **(c)** The value of property garnished shall not exceed the amount by which the sum of the amount of the debt claimed by the United States and the amount of interest and costs reasonably likely to be assessed against the debtor by the court exceeds the aggregate value of the nonexempt interest of the debtor in any—
   - **(1)** property securing the debt; and
   - **(2)** property attached or in receivership, or income sequestered, under this subchapter.
+
+In General
+
+Writ
+
+Limitation
+
+## Source Credit
+
+*(Added [Pub. L. 101–647, title XXXVI, § 3611](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4945](https://www.govinfo.gov/link/statute/104/4945).)*

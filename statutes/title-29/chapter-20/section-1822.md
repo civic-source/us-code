@@ -3,9 +3,10 @@ title: "Section 1822 - Wages, supplies, and other working arrangements"
 usc_title: 29
 usc_section: "1822"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1822"
-generated_at: "2026-03-30T02:55:18.739Z"
+generated_at: "2026-11-23T21:26:02.308Z"
+status: "active"
 ---
 
 # § 1822. Wages, supplies, and other working arrangements
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:18.739Z"
 - **(a)** Each farm labor contractor, agricultural employer, and agricultural association which employs any migrant agricultural worker shall pay the wages owed to such worker when due.
 - **(b)** No farm labor contractor, agricultural employer, or agricultural association shall require any migrant agricultural worker to purchase any goods or services solely from such farm labor contractor, agricultural employer, or agricultural association.
 - **(c)** No farm labor contractor, agricultural employer, or agricultural association shall, without justification, violate the terms of any working arrangement made by that contractor, employer, or association with any migrant agricultural worker.
+
+## Source Credit
+
+*([Pub. L. 97–470, title II, § 202](https://www.govinfo.gov/link/plaw/97/public/470), Jan. 14, 1983, [96 Stat. 2591](https://www.govinfo.gov/link/statute/96/2591).)*

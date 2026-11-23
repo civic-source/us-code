@@ -3,9 +3,10 @@ title: "Section 1037 - Certain exchanges of United States obligations"
 usc_title: 26
 usc_section: "1037"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1037"
-generated_at: "2026-03-30T02:55:27.756Z"
+generated_at: "2026-11-23T21:26:06.459Z"
+status: "active"
 ---
 
 # § 1037. Certain exchanges of United States obligations
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:27.756Z"
 - **(c)**
   - **(1)** For rules relating to the recognition of gain or loss in a case where subsection (a) would apply except for the fact that the exchange was not made solely for other obligations of the United States, see subsections (b) and (c) of section 1031.
   - **(2)** For rules relating to the basis of obligations of the United States acquired in an exchange for other obligations described in subsection (a), see subsection (d) of section 1031.
+
+## Source Credit
+
+*(Added [Pub. L. 86–346, title II, § 201(a)](https://www.govinfo.gov/link/plaw/86/public/346), Sept. 22, 1959, [73 Stat. 622](https://www.govinfo.gov/link/statute/73/622); amended [Pub. L. 94–455, title XIX, § 1901(a)(130)](https://www.govinfo.gov/link/plaw/94/public/455), (b)(3)(I), Oct. 4, 1976, [90 Stat. 1786](https://www.govinfo.gov/link/statute/90/1786), 1793; [Pub. L. 97–452, § 2(c)(3)](https://www.govinfo.gov/link/plaw/97/public/452), Jan. 12, 1983, [96 Stat. 2478](https://www.govinfo.gov/link/statute/96/2478); [Pub. L. 98–369, div. A, title I, § 42(a)(11)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 557](https://www.govinfo.gov/link/statute/98/557).)*

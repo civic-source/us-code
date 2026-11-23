@@ -3,9 +3,10 @@ title: "Section 4005 - Payment of interest"
 usc_title: 12
 usc_section: "4005"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4005"
-generated_at: "2026-03-30T02:53:53.499Z"
+generated_at: "2026-11-23T21:25:37.158Z"
+status: "active"
 ---
 
 # § 4005. Payment of interest
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.499Z"
   - **(1)** begins the accrual of interest or dividends at a later date than the date described in subsection (a) with respect to all funds, including cash, deposited in such account; and
   - **(2)** provides notice of the interest payment policy in the manner required under section 4004(e) of this title .
 - **(c)** No provision of this chapter shall be construed as requiring the payment of interest or dividends on funds deposited by a check which is returned unpaid.
+
+## Source Credit
+
+*([Pub. L. 100–86, title VI, § 606](https://www.govinfo.gov/link/plaw/100/public/86), Aug. 10, 1987, [101 Stat. 646](https://www.govinfo.gov/link/statute/101/646).)*

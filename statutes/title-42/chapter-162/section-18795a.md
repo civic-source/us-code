@@ -3,9 +3,10 @@ title: "Section 18795a - High-efficiency electric home rebate program"
 usc_title: 42
 usc_section: "18795a"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18795a"
-generated_at: "2026-03-30T02:56:11.531Z"
+generated_at: "2026-11-23T21:26:33.851Z"
+status: "active"
 ---
 
 # § 18795a. High-efficiency electric home rebate program
@@ -96,3 +97,7 @@ generated_at: "2026-03-30T02:56:11.531Z"
         - **(III)** as a first-time purchase with respect to that appliance; and
       - **(iii)** is carried out at, or relating to, a single-family home or multifamily building, as applicable and defined by the Secretary.
     - **(B)** The term “qualified electrification project” does not include any project with respect to which the appliance, system, equipment, infrastructure, component, or other item described in subclauses (I) through (VIII) of subparagraph (A)(i) is not certified under the Energy Star program established by section 6294a of this title , if applicable.
+
+## Source Credit
+
+*([Pub. L. 117–169, title V, § 50122](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2036](https://www.govinfo.gov/link/statute/136/2036).)*

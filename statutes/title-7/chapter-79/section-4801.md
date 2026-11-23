@@ -3,9 +3,10 @@ title: "Section 4801 - Congressional findings and declaration of purpose"
 usc_title: 7
 usc_section: "4801"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 4801"
-generated_at: "2026-03-30T02:53:42.411Z"
+generated_at: "2026-11-23T21:25:28.352Z"
+status: "active"
 ---
 
 # § 4801. Congressional findings and declaration of purpose
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:42.411Z"
     - **(A)** permit or require the imposition of quality standards for pork or pork products;
     - **(B)** provide for control of the production of pork or pork products; or
     - **(C)** otherwise limit the right of an individual pork producer to produce pork and pork products.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XVI, § 1612](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1607](https://www.govinfo.gov/link/statute/99/1607).)*

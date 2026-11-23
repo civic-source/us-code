@@ -3,9 +3,10 @@ title: "Section 44302 - General authority"
 usc_title: 49
 usc_section: "44302"
 chapter: 443
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44302"
-generated_at: "2026-03-30T02:56:19.380Z"
+generated_at: "2026-11-23T21:26:40.879Z"
+status: "active"
 ---
 
 # § 44302. General authority
@@ -30,3 +31,98 @@ generated_at: "2026-03-30T02:56:19.380Z"
   - **(1)** The Secretary may provide to an aircraft manufacturer insurance for loss or damage resulting from operation of an aircraft by an air carrier and involving war or terrorism.
   - **(2)** Insurance provided by the Secretary under this subsection shall be for loss or damage in excess of the greater of the amount of available primary insurance or $50,000,000.
   - **(3)** Insurance provided by the Secretary under this subsection shall be subject to the terms and conditions set forth in this chapter and such other terms and conditions as the Secretary may prescribe.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44302(a) | 49 App.:1532(a)(1) (less words between 1st and 3d commas), (3). | Aug. 23, 1958 , Pub. L. 85–726, § 1302(a) , 72 Stat. 801 ; restated Nov. 9, 1977 , Pub. L. 95–163, § 2 , 91 Stat. 1278 ; Oct. 31, 1992 , Pub. L. 102–581, § 401(b) , 106 Stat. 4897 . |
+|  | 49 App.:1537(a) (last sentence words between 2d and 3d commas). | Aug. 23, 1958 , Pub. L. 85–726, § 1307(a) (last sentence words between 2d and 3d commas), 72 Stat. 804 ; Oct. 4, 1984 , Pub. L. 98–443, § 9(b) , 98 Stat. 1706 . |
+| 44302(b) | 49 App.:1532(a)(1) (words between 1st and 2d commas), (2). |  |
+| 44302(c) | 49 App.:1532(a)(1) (words between 2d and 3d commas). |  |
+| 44302(d) | 49 App.:1541. | Aug. 23, 1958 , Pub. L. 85–726, § 1311 , 72 Stat. 806 . |
+
+
+Insurance and Reinsurance
+
+Reimbursement of Insurance Cost Increases.—
+
+In general
+
+Payment from revolving fund
+
+Further conditions
+
+Termination of authority
+
+Presidential Approval
+
+Consultation
+
+Additional Insurance
+
+Extension of Policies.—
+
+In general
+
+Special rules
+
+Aircraft Manufacturers.—
+
+In general
+
+Amount
+
+Terms and conditions
+
+Historical and Revision Notes
+
+44302(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 1302(a)
+
+72 Stat. 801
+
+Nov. 9, 1977
+
+Pub. L. 95–163, § 2
+
+91 Stat. 1278
+
+Oct. 31, 1992
+
+Pub. L. 102–581, § 401(b)
+
+106 Stat. 4897
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 1307(a)
+
+72 Stat. 804
+
+Oct. 4, 1984
+
+Pub. L. 98–443, § 9(b)
+
+98 Stat. 1706
+
+44302(b)
+
+44302(c)
+
+44302(d)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 1311
+
+72 Stat. 806
+
+William J. Clinton.
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1168](https://www.govinfo.gov/link/statute/108/1168); [Pub. L. 105–137, § 2(a)](https://www.govinfo.gov/link/plaw/105/public/137), Dec. 2, 1997, [111 Stat. 2640](https://www.govinfo.gov/link/statute/111/2640); [Pub. L. 107–42, title II, § 201(a)](https://www.govinfo.gov/link/plaw/107/public/42), Sept. 22, 2001, [115 Stat. 234](https://www.govinfo.gov/link/statute/115/234); [Pub. L. 107–296, title XII, § 1202](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2286](https://www.govinfo.gov/link/statute/116/2286); [Pub. L. 108–11, title IV, § 4001(a)](https://www.govinfo.gov/link/plaw/108/public/11), Apr. 16, 2003, [117 Stat. 606](https://www.govinfo.gov/link/statute/117/606); [Pub. L. 108–176, title I, § 106(a)(1)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2498](https://www.govinfo.gov/link/statute/117/2498); [Pub. L. 108–447, div. H, title I, § 106(a)](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3204](https://www.govinfo.gov/link/statute/118/3204); [Pub. L. 109–115, div. A, title I, § 108(a)](https://www.govinfo.gov/link/plaw/109/public/115), Nov. 30, 2005, [119 Stat. 2402](https://www.govinfo.gov/link/statute/119/2402); [Pub. L. 110–161, div. K, title I, § 114(a)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2381](https://www.govinfo.gov/link/statute/121/2381); [Pub. L. 110–253, § 3(c)(6)](https://www.govinfo.gov/link/plaw/110/public/253), June 30, 2008, [122 Stat. 2418](https://www.govinfo.gov/link/statute/122/2418); [Pub. L. 110–330, § 5(c)](https://www.govinfo.gov/link/plaw/110/public/330), Sept. 30, 2008, [122 Stat. 3718](https://www.govinfo.gov/link/statute/122/3718); [Pub. L. 111–12, § 5(b)](https://www.govinfo.gov/link/plaw/111/public/12), Mar. 30, 2009, [123 Stat. 1458](https://www.govinfo.gov/link/statute/123/1458); [Pub. L. 111–69, § 5(c)](https://www.govinfo.gov/link/plaw/111/public/69), Oct. 1, 2009, [123 Stat. 2055](https://www.govinfo.gov/link/statute/123/2055); [Pub. L. 111–116, § 5(b)](https://www.govinfo.gov/link/plaw/111/public/116), Dec. 16, 2009, [123 Stat. 3032](https://www.govinfo.gov/link/statute/123/3032); [Pub. L. 111–117, div. A, title I, § 114(a)](https://www.govinfo.gov/link/plaw/111/public/117), Dec. 16, 2009, [123 Stat. 3042](https://www.govinfo.gov/link/statute/123/3042); [Pub. L. 111–153, § 5(b)](https://www.govinfo.gov/link/plaw/111/public/153), Mar. 31, 2010, [124 Stat. 1085](https://www.govinfo.gov/link/statute/124/1085); [Pub. L. 111–161, § 5(b)](https://www.govinfo.gov/link/plaw/111/public/161), Apr. 30, 2010, [124 Stat. 1127](https://www.govinfo.gov/link/statute/124/1127); [Pub. L. 111–197, § 5(b)](https://www.govinfo.gov/link/plaw/111/public/197), July 2, 2010, [124 Stat. 1354](https://www.govinfo.gov/link/statute/124/1354); [Pub. L. 111–216, title I, § 104(b)](https://www.govinfo.gov/link/plaw/111/public/216), Aug. 1, 2010, [124 Stat. 2349](https://www.govinfo.gov/link/statute/124/2349); [Pub. L. 111–249, § 5(c)](https://www.govinfo.gov/link/plaw/111/public/249), Sept. 30, 2010, [124 Stat. 2628](https://www.govinfo.gov/link/statute/124/2628); [Pub. L. 111–329, § 5(b)](https://www.govinfo.gov/link/plaw/111/public/329), Dec. 22, 2010, [124 Stat. 3567](https://www.govinfo.gov/link/statute/124/3567); [Pub. L. 112–7, § 5(b)](https://www.govinfo.gov/link/plaw/112/public/7), Mar. 31, 2011, [125 Stat. 32](https://www.govinfo.gov/link/statute/125/32); [Pub. L. 112–16, § 5(b)](https://www.govinfo.gov/link/plaw/112/public/16), May 31, 2011, [125 Stat. 219](https://www.govinfo.gov/link/statute/125/219); [Pub. L. 112–21, § 5(b)](https://www.govinfo.gov/link/plaw/112/public/21), June 29, 2011, [125 Stat. 234](https://www.govinfo.gov/link/statute/125/234); [Pub. L. 112–27, § 5(b)](https://www.govinfo.gov/link/plaw/112/public/27), Aug. 5, 2011, [125 Stat. 271](https://www.govinfo.gov/link/statute/125/271); [Pub. L. 112–30, title II, § 205(c)](https://www.govinfo.gov/link/plaw/112/public/30), Sept. 16, 2011, [125 Stat. 358](https://www.govinfo.gov/link/statute/125/358); [Pub. L. 112–91, § 5(c)](https://www.govinfo.gov/link/plaw/112/public/91), Jan. 31, 2012, [126 Stat. 4](https://www.govinfo.gov/link/statute/126/4); [Pub. L. 112–95, title VII, § 701](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 118](https://www.govinfo.gov/link/statute/126/118); [Pub. L. 113–46, div. A, § 152](https://www.govinfo.gov/link/plaw/113/public/46), Oct. 17, 2013, [127 Stat. 565](https://www.govinfo.gov/link/statute/127/565); [Pub. L. 113–76, div. L, title I, § 119E(a)](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 582](https://www.govinfo.gov/link/statute/128/582); [Pub. L. 113–164, § 148(a)](https://www.govinfo.gov/link/plaw/113/public/164), Sept. 19, 2014, [128 Stat. 1874](https://www.govinfo.gov/link/statute/128/1874); [Pub. L. 113–235, div. L, § 102(a)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2767](https://www.govinfo.gov/link/statute/128/2767).)*

@@ -3,9 +3,10 @@ title: "Section 9302 - Definitions"
 usc_title: 42
 usc_section: "9302"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9302"
-generated_at: "2026-03-30T02:56:11.352Z"
+generated_at: "2026-11-23T21:26:33.235Z"
+status: "active"
 ---
 
 # § 9302. Definitions
@@ -18,3 +19,7 @@ For the purposes of this chapter—
   - **(4)** “fusion engineering device” means a magnetic fusion facility which achieves at least a burning plasma and serves to test components for engineering purposes;
   - **(5)** “demonstration plant” means a prototype energy system which is of sufficient size to provide safety, environmental reliability, availability, and ready engineering extrapolation of all components to commercial size but which system need not be economically competitive with then alternative energy sources; and
   - **(6)** “Secretary” means Secretary of Energy.
+
+## Source Credit
+
+*([Pub. L. 96–386, § 3](https://www.govinfo.gov/link/plaw/96/public/386), Oct. 7, 1980, [94 Stat. 1540](https://www.govinfo.gov/link/statute/94/1540).)*

@@ -3,9 +3,10 @@ title: "Section 494 - Other functions and activities"
 usc_title: 6
 usc_section: "494"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 494"
-generated_at: "2026-03-30T02:53:09.468Z"
+generated_at: "2026-11-23T21:25:25.802Z"
+status: "active"
 ---
 
 # § 494. Other functions and activities
@@ -15,3 +16,7 @@ For the purpose of more effectively coordinating the policies and functions of t
   - **(1)** assess the objectives, commitments, and risks of the United States in the interest of homeland security and to 1 1 So in original. The word “to” probably should not appear. make resulting recommendations to the President;
   - **(2)** oversee and review homeland security policies of the Federal Government and to 1 make resulting recommendations to the President; and
   - **(3)** perform such other functions as the President may direct.
+
+## Source Credit
+
+*([Pub. L. 107–296, title IX, § 904](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2259](https://www.govinfo.gov/link/statute/116/2259).)*

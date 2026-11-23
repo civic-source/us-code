@@ -3,12 +3,17 @@ title: "Section 78rr - Data standards for security-based swap reporting"
 usc_title: 15
 usc_section: "78rr"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 78rr"
-generated_at: "2026-03-30T02:54:08.061Z"
+generated_at: "2026-11-23T21:25:39.575Z"
+status: "active"
 ---
 
 # § 78rr. Data standards for security-based swap reporting
 
 - **(a)** The Commission shall, by rule, adopt data standards for all reports related to security-based swaps that are required under this chapter.
 - **(b)** The data standards required under subsection (a) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of title 12 , including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
+## Source Credit
+
+*(June 6, 1934, ch. 404, title I, § 41, as added [Pub. L. 117–263, div. E, title LVIII, § 5821(h)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3427](https://www.govinfo.gov/link/statute/136/3427).)*

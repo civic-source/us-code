@@ -3,9 +3,10 @@ title: "Section 720f - State jurisdiction over in-State delivery of natural gas"
 usc_title: 15
 usc_section: "720f"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 720f"
-generated_at: "2026-03-30T02:54:08.120Z"
+generated_at: "2026-11-23T21:25:39.757Z"
+status: "active"
 ---
 
 # § 720f. State jurisdiction over in-State delivery of natural gas
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.120Z"
 - **(c)**
   - **(1)** In accordance with the Natural Gas Act [ 15 U.S.C. 717 et seq.], the Commission shall establish rates for the transportation of natural gas on any Alaska natural gas transportation project.
   - **(2)** In carrying out paragraph (1), the Commission, in accordance with section 17(b) of the Natural Gas Act ( 15 U.S.C. 717p(b) ), shall consult with the State regarding rates (including rate settlements) applicable to natural gas transported on and delivered from the Alaska natural gas transportation project for use within the State.
+
+## Source Credit
+
+*([Pub. L. 108–324, div. C, § 108](https://www.govinfo.gov/link/plaw/108/public/324), Oct. 13, 2004, [118 Stat. 1261](https://www.govinfo.gov/link/statute/118/1261).)*

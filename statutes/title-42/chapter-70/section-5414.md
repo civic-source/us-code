@@ -3,9 +3,10 @@ title: "Section 5414 - Notification and correction of defects by manufacturer"
 usc_title: 42
 usc_section: "5414"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5414"
-generated_at: "2026-03-30T02:56:11.235Z"
+generated_at: "2026-11-23T21:26:32.809Z"
+status: "active"
 ---
 
 # § 5414. Notification and correction of defects by manufacturer
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.235Z"
   - **(2)** the defect can be related to an error in design or assembly of the manufactured home by the manufacturer.
 - **(h)** The manufacturer shall submit his plan for notifying owners of the defect and for repairing such defect (if required under subsection (g)) to the Secretary for his approval before implementing such plan. Whenever a manufacturer is required under subsection (g) to correct a defect, the Secretary shall approve with or without modification, after consultation with the manufacturer of the manufactured home involved, such manufacturer’s remedy plan including the date when, and the method by which, the notification and remedy required pursuant to this section shall be effectuated. Such date shall be the earliest practicable one but shall not be more than sixty days after the date of discovery or determination of the defect or failure to comply, unless the Secretary grants an extension of such period for good cause shown and publishes a notice of such extension in the Federal Register. Such manufacturer is bound to implement such remedy plan as approved by the Secretary.
 - **(i)** Where a defect or failure to comply in a manufactured home cannot be adequately repaired within sixty days from the date of discovery or determination of the defect, the Secretary may require that the manufactured home be replaced with a new or equivalent home without charge, or that the purchase price be refunded in full, less a reasonable allowance for depreciation based on actual use if the home has been in the possession of the owner for more than one year.
+
+## Source Credit
+
+*([Pub. L. 93–383, title VI, § 615](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 709](https://www.govinfo.gov/link/statute/88/709); [Pub. L. 96–399, title III, § 308(c)(4)](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1641](https://www.govinfo.gov/link/statute/94/1641); [Pub. L. 97–35, title III, § 339B(c)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 417](https://www.govinfo.gov/link/statute/95/417); [Pub. L. 106–569, title VI, § 603(b)(3)](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 2999](https://www.govinfo.gov/link/statute/114/2999).)*

@@ -3,9 +3,10 @@ title: "Section 2319C - Illicit digital transmission services"
 usc_title: 18
 usc_section: "2319C"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2319C"
-generated_at: "2026-03-30T02:54:16.502Z"
+generated_at: "2026-11-23T21:25:44.141Z"
+status: "active"
 ---
 
 # § 2319C. Illicit digital transmission services
@@ -36,3 +37,15 @@ generated_at: "2026-03-30T02:54:16.502Z"
 - **(d)** Nothing in this section shall be construed to—
   - **(1)** affect the interpretation of any other provision of civil copyright law, including the limitations of liability set forth in section 512 of title 17 , or principles of secondary liability; or
   - **(2)** prevent any Federal or State authority from enforcing cable theft or theft of service laws that are not subject to preemption under section 301 of title 17 .
+
+Definitions
+
+Prohibited Act
+
+Penalties
+
+Rule of Construction
+
+## Source Credit
+
+*(Added [Pub. L. 116–260, div. Q, title II, § 211(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2175](https://www.govinfo.gov/link/statute/134/2175).)*

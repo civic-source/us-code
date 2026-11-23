@@ -3,9 +3,10 @@ title: "Section 8127 - Small business concerns owned and controlled by veterans:
 usc_title: 38
 usc_section: "8127"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 8127"
-generated_at: "2026-03-30T02:55:53.538Z"
+generated_at: "2026-11-23T21:26:16.906Z"
+status: "active"
 ---
 
 # § 8127. Small business concerns owned and controlled by veterans: contracting goals and preferences
@@ -85,3 +86,33 @@ generated_at: "2026-03-30T02:55:53.538Z"
   - **(2)** The term “small business concern” has the meaning given that term under section 3 of the Small Business Act ( 15 U.S.C. 632 ).
   - **(3)** The term “small business concern owned and controlled by veterans” has the meaning given that term under section 3(q)(3) of the Small Business Act ( 15 U.S.C. 632(q)(3) ).
   - **(4)** The term “small business concern owned and controlled by veterans with service-connected disabilities” has the meaning given the term “small business concern owned and controlled by service-disabled veterans” under section 3(q)(2) of the Small Business Act ( 15 U.S.C. 632(q)(2) ).
+
+Contracting Goals
+
+Use of Noncompetitive Procedures for Certain Small Contracts
+
+Sole Source Contracts for Contracts Above Simplified Acquisition Threshold
+
+Use of Restricted Competition
+
+Eligibility of Small Business Concerns
+
+Enforcement Penalties for Misrepresentation
+
+Priority for Contracting Preferences
+
+Applicability of Requirements to Contracts
+
+Annual Reports
+
+Annual Transfer for Certification Costs
+
+Limitations on Subcontracting
+
+Definitions
+
+“In the case of a small business concern included in the database as of the date of the enactment of this Act [ Oct. 13, 2010 ] for which, as of such date, the Secretary of Veterans Affairs has not verified the status of such concern in accordance with paragraph (4) of subsection (f) of section 8127 of title 38 , United States Code, as amended by paragraph (1), not later than 60 days after the date of the enactment of this Act, the Secretary shall notify the person who owns and controls the concern that—
+
+## Source Credit
+
+*(Added [Pub. L. 109–461, title V, § 502(a)(1)](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3431](https://www.govinfo.gov/link/statute/120/3431); amended [Pub. L. 110–389, title VIII, § 806](https://www.govinfo.gov/link/plaw/110/public/389), Oct. 10, 2008, [122 Stat. 4189](https://www.govinfo.gov/link/statute/122/4189); [Pub. L. 111–275, title I, § 104(b)(1)](https://www.govinfo.gov/link/plaw/111/public/275), Oct. 13, 2010, [124 Stat. 2867](https://www.govinfo.gov/link/statute/124/2867); [Pub. L. 111–350, § 5(j)(7)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3850](https://www.govinfo.gov/link/statute/124/3850); Pub. L. 112—154, title VII, § 706, Aug. 6, 2012, [126 Stat. 1206](https://www.govinfo.gov/link/statute/126/1206); [Pub. L. 114–315, title V, § 501(a)](https://www.govinfo.gov/link/plaw/114/public/315), Dec. 16, 2016, [130 Stat. 1566](https://www.govinfo.gov/link/statute/130/1566); [Pub. L. 114–328, div. A, title XVIII, § 1832(b)](https://www.govinfo.gov/link/plaw/114/public/328), (d), (f)(1), Dec. 23, 2016, [130 Stat. 2659](https://www.govinfo.gov/link/statute/130/2659), 2660; [Pub. L. 116–155, § 2(a)](https://www.govinfo.gov/link/plaw/116/public/155), (b), Aug. 8, 2020, [134 Stat. 698](https://www.govinfo.gov/link/statute/134/698), 699; [Pub. L. 116–183, § 2(a)](https://www.govinfo.gov/link/plaw/116/public/183), Oct. 30, 2020, [134 Stat. 895](https://www.govinfo.gov/link/statute/134/895); [Pub. L. 116–283, div. A, title VIII, § 862(b)(1)](https://www.govinfo.gov/link/plaw/116/public/283), (2), Jan. 1, 2021, [134 Stat. 3776](https://www.govinfo.gov/link/statute/134/3776), 3778; [Pub. L. 116–315, title VII, § 7009](https://www.govinfo.gov/link/plaw/116/public/315), Jan. 5, 2021, [134 Stat. 5061](https://www.govinfo.gov/link/statute/134/5061).)*

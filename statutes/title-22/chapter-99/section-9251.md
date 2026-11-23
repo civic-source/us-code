@@ -3,9 +3,10 @@ title: "Section 9251 - Suspension of sanctions and other measures"
 usc_title: 22
 usc_section: "9251"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9251"
-generated_at: "2026-03-30T02:55:05.464Z"
+generated_at: "2026-11-23T21:25:58.769Z"
+status: "active"
 ---
 
 # § 9251. Suspension of sanctions and other measures
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.464Z"
   - **(5)** accepting and beginning to abide by internationally recognized standards for the distribution and monitoring of humanitarian aid; and
   - **(6)** taking verified steps to improve living conditions in its political prison camps.
 - **(b)** The suspension described in subsection (a) may be renewed for additional, consecutive 180-day periods after the President certifies to the appropriate congressional committees that the Government of North Korea has continued to comply with the conditions described in subsection (a) during the previous year.
+
+## Source Credit
+
+*([Pub. L. 114–122, title IV, § 401](https://www.govinfo.gov/link/plaw/114/public/122), Feb. 18, 2016, [130 Stat. 114](https://www.govinfo.gov/link/statute/130/114); [Pub. L. 116–92, div. F, title LXXI, § 7143(b)(2)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2256](https://www.govinfo.gov/link/statute/133/2256).)*

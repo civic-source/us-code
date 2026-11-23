@@ -3,9 +3,10 @@ title: "Section 8504 - Establishment of quarantine protocols to control the intr
 usc_title: 7
 usc_section: "8504"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 8504"
-generated_at: "2026-03-30T02:53:42.478Z"
+generated_at: "2026-11-23T21:25:28.477Z"
+status: "active"
 ---
 
 # § 8504. Establishment of quarantine protocols to control the introduction and spread of the brown tree snake
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.478Z"
 - **(d)** There is authorized to be appropriated to carry out this section the following amounts:
   - **(1)** To the Secretary of Agriculture, not more than $3,000,000 for each of the fiscal years 2006 through 2010.
   - **(2)** To the Secretary of the Interior, not more than $1,000,000 for each of the fiscal years 2006 through 2010.
+
+## Source Credit
+
+*([Pub. L. 108–384, § 5](https://www.govinfo.gov/link/plaw/108/public/384), Oct. 30, 2004, [118 Stat. 2224](https://www.govinfo.gov/link/statute/118/2224).)*

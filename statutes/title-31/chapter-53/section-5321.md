@@ -3,9 +3,10 @@ title: "Section 5321 - Civil penalties"
 usc_title: 31
 usc_section: "5321"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 5321"
-generated_at: "2026-03-30T02:55:34.069Z"
+generated_at: "2026-11-23T21:26:10.624Z"
+status: "active"
 ---
 
 # § 5321. Civil penalties
@@ -64,3 +65,111 @@ generated_at: "2026-03-30T02:55:34.069Z"
       - **(i)** the individual willfully committed the violation; and
       - **(ii)** the violation facilitated money laundering or the financing of terrorism.
   - **(2)** An individual found to have committed an egregious violation of the Bank Secrecy Act, as defined in section 6003 of the Anti-Money Laundering Act of 2020, or any rules issued under the Bank Secrecy Act, shall be barred from serving on the board of directors of a United States financial institution during the 10-year period that begins on the date on which the conviction or judgment, as applicable, with respect to the egregious violation is entered.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5321(a)(1) | 31:1054(b)(last sentence related to civil penalties). | Oct. 26, 1970 , Pub. L. 91–508 , §§ 205(b)(last sentence related to civil penalties), 207, 233, 234, 84 Stat. 1120 , 1123. |
+|  | 31:1056(a). |  |
+| 5321(a)(2) | 31:1103. |  |
+| 5321(a)(3) | 31:1143(a), (b)(words after last comma). | Sept. 21, 1973 , Pub. L. 93–110, § 203(a) , (b)(words after last comma), 87 Stat. 353 . |
+| 5321(b) | 31:1056(b). |  |
+| 5321(c) | 31:1104. |  |
+
+
+Structured Transaction Violation.—
+
+Penalty authorized
+
+Maximum amount limitation
+
+Coordination with forfeiture provision
+
+Foreign financial agency transaction violation.—
+
+Penalty authorized
+
+Amount of penalty.—
+
+In general
+
+Reasonable cause exception
+
+Willful violations
+
+Amount
+
+Negligence.—
+
+In general
+
+Pattern of negligent activity
+
+Penalties for international counter money laundering violations
+
+Time Limitations for Assessments and Commencement of Civil Actions.—
+
+Assessments
+
+Civil actions
+
+Criminal Penalty Not Exclusive of Civil Penalty
+
+Delegation of Assessment Authority to Banking Agencies.—
+
+In general
+
+Authority of agencies
+
+Terms and conditions.—
+
+In general
+
+Maximum dollar amount
+
+Additional Damages for Repeat Violators.—
+
+In general
+
+Application
+
+Certain Violators Barred From Serving on Boards of United States Financial Institutions.—
+
+Definition
+
+Bar
+
+Historical and Revision Notes
+
+5321(a)(1)
+
+Oct. 26, 1970
+
+Pub. L. 91–508
+
+84 Stat. 1120
+
+5321(a)(2)
+
+5321(a)(3)
+
+Sept. 21, 1973
+
+Pub. L. 93–110, § 203(a)
+
+87 Stat. 353
+
+5321(b)
+
+5321(c)
+
+Financial institution identification violations.—
+
+Penalty authorized
+
+Maximum amount limitation
+
+Negligence
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 999](https://www.govinfo.gov/link/statute/96/999); [Pub. L. 98–473, title II, § 901(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2135](https://www.govinfo.gov/link/statute/98/2135); [Pub. L. 99–570, title I](https://www.govinfo.gov/link/plaw/99/public/570), §§ 1356(c)(1), 1357(a)–(f), (h), Oct. 27, 1986, [100 Stat. 3207–24](https://www.govinfo.gov/link/statute/100/3207) —3207–26; [Pub. L. 100–690, title VI, § 6185(g)(2)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4357](https://www.govinfo.gov/link/statute/102/4357); [Pub. L. 102–550, title XV](https://www.govinfo.gov/link/plaw/102/public/550), §§ 1511(b), 1525(b), 1535(a)(2), 1561(a), Oct. 28, 1992, [106 Stat. 4057](https://www.govinfo.gov/link/statute/106/4057), 4065, 4066, 4071; [Pub. L. 103–322, title XXXIII, § 330017(a)(1)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2149](https://www.govinfo.gov/link/statute/108/2149); [Pub. L. 103–325, title IV](https://www.govinfo.gov/link/plaw/103/public/325), §§ 406, 411(b), 413(a)(1), Sept. 23, 1994, [108 Stat. 2247](https://www.govinfo.gov/link/statute/108/2247), 2253, 2254; [Pub. L. 104–208, div. A, title II, § 2223(3)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–415](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 107–56, title III](https://www.govinfo.gov/link/plaw/107/public/56), §§ 353(a), 363(a), 365(c)(2)(B)(i), Oct. 26, 2001, [115 Stat. 322](https://www.govinfo.gov/link/statute/115/322), 332, 335; [Pub. L. 108–357, title VIII, § 821(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1586](https://www.govinfo.gov/link/statute/118/1586); [Pub. L. 116–283, div. F, title LXIII](https://www.govinfo.gov/link/plaw/116/public/283), §§ 6309, 6310(a), title LXIV, § 6403(b)(1), Jan. 1, 2021, [134 Stat. 4594](https://www.govinfo.gov/link/statute/134/4594), 4595, 4623.)*

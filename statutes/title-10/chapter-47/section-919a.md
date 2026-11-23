@@ -3,9 +3,10 @@ title: "Section 919a - Art. 119a. Death or injury of an unborn child"
 usc_title: 10
 usc_section: "919a"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 919a"
-generated_at: "2026-03-30T02:53:38.086Z"
+generated_at: "2026-11-23T21:25:32.351Z"
+status: "active"
 ---
 
 # § 919a. Art. 119a. Death or injury of an unborn child
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:38.086Z"
   - **(2)** of any person for any medical treatment of the pregnant woman or her unborn child; or
   - **(3)** of any woman with respect to her unborn child.
 - **(d)** In this section, the term “unborn child” means a child in utero, and the term “child in utero” or “child, who is in utero” means a member of the species homo sapiens, at any stage of development, who is carried in the womb.
+
+## Source Credit
+
+*(Added [Pub. L. 108–212, § 3(a)](https://www.govinfo.gov/link/plaw/108/public/212), Apr. 1, 2004, [118 Stat. 569](https://www.govinfo.gov/link/statute/118/569); amended [Pub. L. 114–328, div. E, title LX, § 5401(13)(B)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2939](https://www.govinfo.gov/link/statute/130/2939); [Pub. L. 115–91, div. A, title X, § 1081(c)(1)(N)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1598](https://www.govinfo.gov/link/statute/131/1598).)*

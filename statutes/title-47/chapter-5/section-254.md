@@ -3,9 +3,10 @@ title: "Section 254 - Universal service"
 usc_title: 47
 usc_section: "254"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 254"
-generated_at: "2026-03-30T02:56:24.501Z"
+generated_at: "2026-11-23T21:26:35.960Z"
+status: "active"
 ---
 
 # § 254. Universal service
@@ -152,3 +153,111 @@ generated_at: "2026-03-30T02:56:24.501Z"
     - **(C)** consider the criteria employed by the certifying school, school board, local educational agency, library, or other authority in the administration of subsection (h)(1)(B).
   - **(3)** Each Internet safety policy adopted under this subsection shall be made available to the Commission, upon request of the Commission, by the school, school board, local educational agency, library, or other authority responsible for adopting such Internet safety policy for purposes of the review of such Internet safety policy by the Commission.
   - **(4)** This subsection shall apply with respect to schools and libraries on or after the date that is 120 days after December 21, 2000 .
+- **(m)**
+  - **(1)** In this subsection—
+    - **(A)** the term “covered funding” means any new offer of high-cost universal service program funding, including funding provided through a reverse competitive bidding mechanism provided under this section, for the deployment of a broadband-capable network and the provision of supported services over the network; and
+    - **(B)** the term “new covered funding award” means an award of covered funding that is made based on an application submitted to the Commission on or after the date on which rules are promulgated under paragraph (2).
+  - **(2)** Not later than 180 days after May 11, 2026 , the Commission shall initiate a rulemaking proceeding to establish a vetting process for applicants for, and other recipients of, a new covered funding award.
+  - **(3)**
+    - **(A)** In promulgating rules under paragraph (2), the Commission shall provide that, consistent with principles of technology neutrality, the Commission will only award covered funding to applicants that can demonstrate that they meet the qualifications in subparagraph (B).
+    - **(B)** An applicant for a new covered funding award shall include in the initial application a proposal containing sufficient detail and documentation for the Commission to ascertain that the applicant possesses the technical, financial, and operational capabilities, and has a reasonable business plan, to deploy the proposed network and deliver services with the relevant performance characteristics and requirements defined by the Commission and as pledged by the applicant.
+    - **(C)** The Commission shall evaluate a proposal described in subparagraph (B) against—
+      - **(i)** reasonable and well-established technical, financial, and operational standards, including the technical standards adopted by the Commission in orders of the Commission relating to Establishing the Digital Opportunity Data Collection (WC Docket No. 19–195) (or orders of the Commission relating to modernizing any successor collection) for purposes of entities that must report broadband availability coverage; and
+      - **(ii)** the applicant’s history of complying with requirements in Commission and other government broadband deployment funding programs.
+    - **(D)** In adopting rules for any new covered funding award, the Commission shall set a penalty for pre-authorization defaults of at least $9,000 per violation and may not limit the base forfeiture to an amount less than 30 percent of the applicant’s total support, unless the Commission demonstrates the need for lower penalties in a particular instance.
+
+(aa) for the first program year after the effective date of this subsection in which it is applying for funds under this subsection, shall certify that it is undertaking such actions, including any necessary procurement procedures, to put in place an Internet safety policy and technology protection measures meeting the requirements necessary for certification under subparagraphs (B) and (C); and
+
+(bb) for the second program year after the effective date of this subsection in which it is applying for funds under this subsection, shall certify that it is in compliance with subparagraphs (B) and (C).
+
+(aa) for the first program year after the effective date of this subsection in which it is applying for funds under this subsection, shall certify that it is undertaking such actions, including any necessary procurement procedures, to put in place an Internet safety policy and technology protection measures meeting the requirements necessary for certification under subparagraphs (B) and (C); and
+
+(bb) for the second program year after the effective date of this subsection in which it is applying for funds under this subsection, shall certify that it is in compliance with subparagraphs (B) and (C).
+
+Requirement
+
+Deadline
+
+Regulations Required
+
+Support Amount
+
+Emergency Connectivity Fund.—
+
+Establishment
+
+Appropriation
+
+Limitation
+
+Relationship to universal service contributions
+
+Definitions
+
+Advanced telecommunications and information services
+
+Commission
+
+Connected device
+
+Covered regulations
+
+emergency period
+
+Eligible equipment
+
+Eligible school or library
+
+Emergency connectivity fund
+
+Library
+
+Wi-fi
+
+Wi-fi hotspot
+
+Definitions
+
+salaries and expenses
+
+Federal Communications Commission
+
+Additional Appropriation
+
+Administrative Provisions.—
+
+Evaluation of applications.—
+
+Public notice
+
+Congressional notice
+
+Equitable distribution
+
+Previous applicants
+
+Information
+
+Denial
+
+Report to Congress
+
+Paperwork Reduction Act Requirements
+
+Definitions
+
+Methodology Established
+
+Requirements
+
+Disclaimer Regarding Content
+
+Disclaimer Regarding Privacy
+
+Three-Judge District Court Hearing
+
+Appellate Review
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title II, § 254, as added [Pub. L. 104–104, title I, § 101(a)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 71](https://www.govinfo.gov/link/statute/110/71); amended [Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 709(a)(8)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–233](https://www.govinfo.gov/link/statute/110/3009), 3009–313; [Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, §§ 1721(a)–(d), 1732]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–343 to 2763A–350; [Pub. L. 107–110, title X, § 1076(hh)](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2094](https://www.govinfo.gov/link/statute/115/2094); [Pub. L. 110–385, title II, § 215](https://www.govinfo.gov/link/plaw/110/public/385), Oct. 10, 2008, [122 Stat. 4104](https://www.govinfo.gov/link/statute/122/4104); [Pub. L. 114–95, title IX, § 9215(s)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2171](https://www.govinfo.gov/link/statute/129/2171); [Pub. L. 114–182, title II, § 202(a)](https://www.govinfo.gov/link/plaw/114/public/182), June 22, 2016, [130 Stat. 512](https://www.govinfo.gov/link/statute/130/512); [Pub. L. 119–89, § 2](https://www.govinfo.gov/link/plaw/119/public/89), May 11, 2026, [140 Stat. 818](https://www.govinfo.gov/link/statute/140/818).)*

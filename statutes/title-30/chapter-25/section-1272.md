@@ -3,9 +3,10 @@ title: "Section 1272 - Designating areas unsuitable for surface coal mining"
 usc_title: 30
 usc_section: "1272"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1272"
-generated_at: "2026-03-30T02:55:29.402Z"
+generated_at: "2026-11-23T21:26:00.430Z"
+status: "active"
 ---
 
 # § 1272. Designating areas unsuitable for surface coal mining
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:29.402Z"
   - **(3)** which will adversely affect any publicly owned park or places included in the National Register of Historic Sites unless approved jointly by the regulatory authority and the Federal, State, or local agency with jurisdiction over the park or the historic site;
   - **(4)** within one hundred feet of the outside right-of-way line of any public road, except where mine access roads or haulage roads join such right-of-way line and except that the regulatory authority may permit such roads to be relocated or the area affected to lie within one hundred feet of such road, if after public notice and opportunity for public hearing in the locality a written finding is made that the interests of the public and the landowners affected thereby will be protected; or
   - **(5)** within three hundred feet from any occupied dwelling, unless waived by the owner thereof, nor within three hundred feet of any public building, school, church, community, or institutional building, public park, or within one hundred feet of a cemetery.
+
+## Source Credit
+
+*([Pub. L. 95–87, title V, § 522](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 507](https://www.govinfo.gov/link/statute/91/507).)*

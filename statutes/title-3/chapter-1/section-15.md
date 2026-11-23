@@ -3,9 +3,10 @@ title: "Section 15 - Counting electoral votes in Congress"
 usc_title: 3
 usc_section: "15"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "3 U.S.C. § 15"
-generated_at: "2026-03-30T02:52:49.877Z"
+generated_at: "2026-11-23T21:25:20.078Z"
+status: "active"
 ---
 
 # § 15. Counting electoral votes in Congress
@@ -43,3 +44,51 @@ generated_at: "2026-03-30T02:52:49.877Z"
       - **(ii)** each House affirmatively sustains the objection as valid.
   - **(2)** If the number of electors lawfully appointed by any State pursuant to a certificate of ascertainment of appointment of electors that is issued under section 5 is fewer than the number of electors to which the State is entitled under section 3, or if an objection the grounds for which are described in subsection (d)(2)(B)(ii)(I) has been sustained, the total number of electors appointed for the purpose of determining a majority of the whole number of electors appointed as required by the Twelfth Amendment to the Constitution shall be reduced by the number of electors whom the State has failed to appoint or as to whom the objection was sustained.
   - **(3)** The tellers shall make a list of the votes as they shall appear from the said certificates; and the votes having been ascertained and counted according to the rules in this subchapter provided, the result of the same shall be delivered to the President of the Senate, who shall thereupon announce the state of the vote, which announcement shall be deemed a sufficient declaration of the persons, if any, elected President and Vice President of the United States, and, together with a list of the votes, be entered on the Journals of the two Houses.
+
+In General
+
+Powers of the President of Senate.—
+
+Ministerial in nature
+
+Powers explicitly denied
+
+Appointment of Tellers
+
+Procedure at Joint Session Generally.—
+
+In general
+
+Action on certificate.—
+
+In general
+
+Requirements for objections or questions.—
+
+Objections
+
+Grounds for objections
+
+Consideration of objections and questions.—
+
+In general
+
+Determination
+
+Reconvening
+
+Rules for Tabulating Votes.—
+
+Counting of votes.—
+
+In general
+
+Exception
+
+Determination of majority
+
+List of votes by tellers; declaration of winner
+
+## Source Credit
+
+*(June 25, 1948, ch. 644, [62 Stat. 675](https://www.govinfo.gov/link/statute/62/675); [Pub. L. 117–328, div. P, title I, § 109(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5237](https://www.govinfo.gov/link/statute/136/5237).)*

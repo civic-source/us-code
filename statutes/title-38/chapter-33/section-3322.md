@@ -3,9 +3,10 @@ title: "Section 3322 - Bar to duplication of educational assistance benefits"
 usc_title: 38
 usc_section: "3322"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3322"
-generated_at: "2026-03-30T02:55:53.504Z"
+generated_at: "2026-11-23T21:26:16.739Z"
+status: "active"
 ---
 
 # § 3322. Bar to duplication of educational assistance benefits
@@ -22,3 +23,27 @@ generated_at: "2026-03-30T02:55:53.504Z"
 - **(h)**
   - **(1)** An individual with qualifying service in the Armed Forces that establishes eligibility on the part of such individual for educational assistance under this chapter, chapter 30 or 32 of this title, and chapter 1606 or 1607 of title 10, shall elect (in such form and manner as the Secretary may prescribe) under which authority such service is to be credited.
   - **(2)** A child of a member of the Armed Forces who, on or after September 11, 2001 , dies in the line of duty while serving on active duty, who is eligible for educational assistance under either chapter 35 or paragraph (8), (9), or (10) of section 3311 of this title based on the parent’s death may not receive such assistance under both this chapter and chapter 35 of this title, but shall elect (in such form and manner as the Secretary may prescribe) under which chapter to receive such assistance.
+
+In General
+
+Inapplicability of Service Treated Under Educational Loan Repayment Programs
+
+Service in Selected Reserve
+
+Additional Coordination Matters
+
+Bar To Concurrent Receipt of Transferred Education Benefits and Marine Gunnery Sergeant John David Fry Scholarship Assistance
+
+Bar To Receipt of Compensation and Pension and Marine Gunnery Sergeant John David Fry Scholarship Assistance
+
+Bar To Concurrent Receipt of Transferred Education Benefits
+
+Bar To Duplication of Eligibility Based on a Single Event or Period of Service.—
+
+Active-duty service
+
+Eligibility for educational assistance based on parent’s service
+
+## Source Credit
+
+*(Added [Pub. L. 110–252, title V, § 5003(a)(1)](https://www.govinfo.gov/link/plaw/110/public/252), June 30, 2008, [122 Stat. 2373](https://www.govinfo.gov/link/statute/122/2373); amended [Pub. L. 111–377, title I, § 111(a)](https://www.govinfo.gov/link/plaw/111/public/377) –(d), title II, § 202(a), Jan. 4, 2011, [124 Stat. 4120](https://www.govinfo.gov/link/statute/124/4120), 4121, 4124; [Pub. L. 115–48, title I, § 105(c)(6)](https://www.govinfo.gov/link/plaw/115/public/48), Aug. 16, 2017, [131 Stat. 976](https://www.govinfo.gov/link/statute/131/976); [Pub. L. 116–315, title I, § 1002(b)(5)](https://www.govinfo.gov/link/plaw/116/public/315), Jan. 5, 2021, [134 Stat. 4938](https://www.govinfo.gov/link/statute/134/4938).)*

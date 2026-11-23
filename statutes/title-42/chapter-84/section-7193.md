@@ -3,9 +3,10 @@ title: "Section 7193 - Remedial orders"
 usc_title: 42
 usc_section: "7193"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7193"
-generated_at: "2026-03-30T02:56:11.284Z"
+generated_at: "2026-11-23T21:26:33.054Z"
+status: "active"
 ---
 
 # § 7193. Remedial orders
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.284Z"
 - **(g)** With respect to any person whose sole petroleum industry operation relates to the marketing of petroleum products, the Secretary or any person acting on his behalf may not exercise discretion to maintain a civil action (other than an action for injunctive relief) or issue a remedial order against such person for any violation of any rule or regulation if—
   - **(1)** such civil action or order is based on a retroactive application of such rule or regulation or is based upon a retroactive interpretation of such rule or regulation; and
   - **(2)** such person relied in good faith upon rules, regulations, or ruling in effect on the date of the violation interpreting such rules or regulations.
+
+## Source Credit
+
+*([Pub. L. 95–91, title V, § 503](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 590](https://www.govinfo.gov/link/statute/91/590); [Pub. L. 95–620, title VIII, § 805](https://www.govinfo.gov/link/plaw/95/public/620), Nov. 9, 1978, [92 Stat. 3348](https://www.govinfo.gov/link/statute/92/3348).)*

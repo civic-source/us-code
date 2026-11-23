@@ -3,9 +3,10 @@ title: "Section 1293 - Loan guarantees"
 usc_title: 33
 usc_section: "1293"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1293"
-generated_at: "2026-03-30T02:55:41.089Z"
+generated_at: "2026-11-23T21:26:11.373Z"
+status: "active"
 ---
 
 # § 1293. Loan guarantees
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:41.089Z"
   - **(2)** unless the Administrator determines that there is a reasonable assurance of repayment of the loan, obligation, or participation therein.
 - **(c)** The Administrator is authorized to charge reasonable fees for the investigation of an application for a guarantee and for the issuance of a commitment to make a guarantee.
 - **(d)** The Administrator, in determining whether there is a reasonable assurance of repayment, may require a commitment which would apply to such repayment. Such commitment may include, but not be limited to, any funds received by such grantee from the amounts appropriated under section 1286 of this title .
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title II, § 213, as added [Pub. L. 94–558](https://www.govinfo.gov/link/plaw/94/public/558), Oct. 19, 1976, [90 Stat. 2639](https://www.govinfo.gov/link/statute/90/2639); amended [Pub. L. 96–483, § 2(e)](https://www.govinfo.gov/link/plaw/96/public/483), Oct. 21, 1980, [94 Stat. 2361](https://www.govinfo.gov/link/statute/94/2361).)*

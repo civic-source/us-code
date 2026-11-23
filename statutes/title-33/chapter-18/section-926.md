@@ -3,12 +3,17 @@ title: "Section 926 - Costs in proceedings brought without reasonable grounds"
 usc_title: 33
 usc_section: "926"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 926"
-generated_at: "2026-03-30T02:55:41.077Z"
+generated_at: "2026-11-23T21:26:11.351Z"
+status: "active"
 ---
 
 # § 926. Costs in proceedings brought without reasonable grounds
 
 If the court having jurisdiction of proceedings in respect of any claim or compensation order determines that the proceedings in respect of such claim or order have been instituted or continued without reasonable ground, the costs of such proceedings shall be assessed against the party who has so instituted or continued such proceedings.
 
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 509, § 26, [44 Stat. 1438](https://www.govinfo.gov/link/statute/44/1438).)*

@@ -3,9 +3,10 @@ title: "Section 1 - Planning design or installation of pollution control facilit
 usc_title: 15
 usc_section: "1"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-30T02:54:08.113Z"
+generated_at: "2026-11-23T21:25:39.725Z"
+status: "active"
 ---
 
 # § 694–1. Planning design or installation of pollution control facilities
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.113Z"
   - **(4)** such other provisions, not inconsistent with the purposes of this section as the Administrator may in his discretion require.
 - **(e)** Any guarantee issued under this section may be assigned with the permission of the Administration by the person to whom the payments under qualified contracts are due.
 - **(f)** Section 693 of this title shall apply to the administration of this section.
+
+## Source Credit
+
+*([Pub. L. 85–699, title IV, § 404](https://www.govinfo.gov/link/plaw/85/public/699), as added [Pub. L. 94–305, title I, § 102](https://www.govinfo.gov/link/plaw/94/public/305), June 4, 1976, [90 Stat. 663](https://www.govinfo.gov/link/statute/90/663); amended [Pub. L. 98–473, title I, § 115](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 1967](https://www.govinfo.gov/link/statute/98/1967).)*

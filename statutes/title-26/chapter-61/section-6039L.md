@@ -3,9 +3,10 @@ title: "Section 6039L - Information required from qualified opportunity zone bus
 usc_title: 26
 usc_section: "6039L"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6039L"
-generated_at: "2026-03-30T02:55:27.832Z"
+generated_at: "2026-11-23T21:26:06.768Z"
+status: "active"
 ---
 
 # § 6039L. Information required from qualified opportunity zone businesses and qualified rural opportunity zone businesses
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:27.832Z"
 - **(d)** Every applicable qualified rural opportunity zone business (as defined in subsection (b) determined after application of the substitutions described in this sentence) shall furnish the written statement required under subsection (a), applied—
   - **(1)** by substituting “qualified rural opportunity” for “qualified opportunity” each place it appears, and
   - **(2)** by treating any reference (after the application of paragraph (1)) to qualified rural opportunity zone stock, a qualified rural opportunity zone partnership interest, or a qualified rural opportunity zone business as stock, an interest, or a business, respectively, described in subclause (I) or (II), as the case may be, of section 1400Z–2(b)(2)(C)(i).
+
+## Source Credit
+
+*(Added [Pub. L. 119–21, title VII, § 70421(d)(1)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 229](https://www.govinfo.gov/link/statute/139/229).)*

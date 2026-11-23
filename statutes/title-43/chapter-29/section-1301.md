@@ -3,9 +3,10 @@ title: "Section 1301 - Definitions"
 usc_title: 43
 usc_section: "1301"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1301"
-generated_at: "2026-03-30T02:55:57.468Z"
+generated_at: "2026-11-23T21:26:19.825Z"
+status: "active"
 ---
 
 # § 1301. Definitions
@@ -23,3 +24,7 @@ When used in this subchapter and subchapter II—
 - **(f)** The term “lands beneath navigable waters” does not include the beds of streams in lands now or heretofore constituting a part of the public lands of the United States if such streams were not meandered in connection with the public survey of such lands under the laws of the United States and if the title to the beds of such streams was lawfully patented or conveyed by the United States or any State to any person;
 - **(g)** The term “State” means any State of the Union;
 - **(h)** The term “person” includes, in addition to a natural person, an association, a State, a political subdivision of a State, or a private, public, or municipal corporation.
+
+## Source Credit
+
+*(May 22, 1953, ch. 65, title I, § 2, [67 Stat. 29](https://www.govinfo.gov/link/statute/67/29); [Pub. L. 99–272, title VIII, § 8005](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 151](https://www.govinfo.gov/link/statute/100/151).)*

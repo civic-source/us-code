@@ -3,9 +3,10 @@ title: "Section 3723 - Free trade agreements with sub-Saharan African countries"
 usc_title: 19
 usc_section: "3723"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 3723"
-generated_at: "2026-03-30T02:54:24.695Z"
+generated_at: "2026-11-23T21:25:42.850Z"
+status: "active"
 ---
 
 # § 3723. Free trade agreements with sub-Saharan African countries
@@ -25,3 +26,25 @@ generated_at: "2026-03-30T02:54:24.695Z"
       - **(iii)** Approval by the Congress of the agreement or agreements.
       - **(iv)** Adequate consultations with the relevant African governments and African regional and subregional intergovernmental organizations during the negotiation of the agreement or agreements.
 - **(c)** Not later than 12 months after May 18, 2000 , the President shall prepare and transmit to the Congress a report containing the plan developed pursuant to subsection (b).
+
+Coordination Between the United States Trade Representative and Other Agencies
+
+Coordination of USAID With Free Trade Agreement Policy.—
+
+Authorization of funds
+
+Definitions
+
+Eligible country
+
+Sub-saharan african country
+
+Coordination With Millennium Challenge Corporation.—
+
+In general
+
+Country description
+
+## Source Credit
+
+*([Pub. L. 106–200, title I, § 116](https://www.govinfo.gov/link/plaw/106/public/200), May 18, 2000, [114 Stat. 266](https://www.govinfo.gov/link/statute/114/266).)*

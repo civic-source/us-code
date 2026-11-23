@@ -3,9 +3,10 @@ title: "Section 7550 - Definitions"
 usc_title: 42
 usc_section: "7550"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7550"
-generated_at: "2026-03-30T02:56:11.315Z"
+generated_at: "2026-11-23T21:26:33.125Z"
+status: "active"
 ---
 
 # § 7550. Definitions
@@ -23,3 +24,17 @@ As used in this part—
   - **(9)** The term “motor vehicle or engine part manufacturer” as used in sections 7541 and 7542 of this title means any person engaged in the manufacturing, assembling or rebuilding of any device, system, part, component or element of design which is installed in or on motor vehicles or motor vehicle engines.
   - **(10)** The term “nonroad engine” means an internal combustion engine (including the fuel system) that is not used in a motor vehicle or a vehicle used solely for competition, or that is not subject to standards promulgated under section 7411 of this title or section 7521 of this title .
   - **(11)** The term “nonroad vehicle” means a vehicle that is powered by a nonroad engine and that is not a motor vehicle or a vehicle used solely for competition.
+
+Vehicle curb weight, gross vehicle weight rating, light-duty truck, light-duty vehicle, and loaded vehicle weight
+
+Test weight
+
+Motor vehicle or engine part manufacturer
+
+Nonroad engine
+
+Nonroad vehicle
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title II, § 216, formerly § 208, as added [Pub. L. 89–272, title I, § 101(8)](https://www.govinfo.gov/link/plaw/89/public/272), Oct. 20, 1965, [79 Stat. 994](https://www.govinfo.gov/link/statute/79/994); renumbered § 212, and amended [Pub. L. 90–148, § 2](https://www.govinfo.gov/link/plaw/90/public/148), Nov. 21, 1967, [81 Stat. 503](https://www.govinfo.gov/link/statute/81/503); renumbered § 213, and amended [Pub. L. 91–604](https://www.govinfo.gov/link/plaw/91/public/604), §§ 8(a), 10(d), 11(a)(2)(A), Dec. 31, 1970, [84 Stat. 1694](https://www.govinfo.gov/link/statute/84/1694), 1703, 1705; renumbered § 214, [Pub. L. 93–319, § 10](https://www.govinfo.gov/link/plaw/93/public/319), June 22, 1974, [88 Stat. 261](https://www.govinfo.gov/link/statute/88/261); renumbered § 216, [Pub. L. 95–95, title II, § 224(d)](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 767](https://www.govinfo.gov/link/statute/91/767); [Pub. L. 101–549, title II, § 223](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2503](https://www.govinfo.gov/link/statute/104/2503).)*

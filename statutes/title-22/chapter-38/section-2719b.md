@@ -3,9 +3,10 @@ title: "Section 2719b - Training and professional development prioritization"
 usc_title: 22
 usc_section: "2719b"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2719b"
-generated_at: "2026-03-30T02:55:05.381Z"
+generated_at: "2026-11-23T21:25:58.537Z"
+status: "active"
 ---
 
 # § 2719b. Training and professional development prioritization
@@ -23,3 +24,7 @@ In order to provide the Civil Service and the Foreign Service with the level of 
     - **(A)** the A–100 entry-level course to as long as 12 weeks, which better matches the length of entry-level training and professional development provided to the officers in other national security departments and agencies; and
     - **(B)** the Chief of Mission course to as long as 6 weeks for first time Chiefs of Mission and creating comparable courses for new Assistant Secretaries and Deputy Assistant Secretaries to more accurately reflect the significant responsibilities accompanying such roles; and
   - **(4)** ensure that Foreign Service officers who are assigned to a country experiencing significant population displacement due to the impacts of climatic and non-climatic shocks and stresses, including rising sea levels and lack of access to affordable and reliable energy and electricity, receive specific instruction on United States policy with respect to resiliency and adaptation to such climatic and non-climatic shocks and stresses.
+
+## Source Credit
+
+*([Pub. L. 117–81, div. E, title LI, § 5108(c)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2349](https://www.govinfo.gov/link/statute/135/2349); [Pub. L. 117–263, div. I, title XCII, § 9205(c)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3865](https://www.govinfo.gov/link/statute/136/3865).)*

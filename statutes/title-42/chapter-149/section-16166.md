@@ -3,9 +3,10 @@ title: "Section 16166 - Clean hydrogen production qualifications"
 usc_title: 42
 usc_section: "16166"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16166"
-generated_at: "2026-03-30T02:56:11.471Z"
+generated_at: "2026-11-23T21:26:33.703Z"
+status: "active"
 ---
 
 # § 16166. Clean hydrogen production qualifications
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.471Z"
     - **(A)** determine whether the definition of clean hydrogen required under paragraph (1)(B) should be adjusted below the standard described in that paragraph; and
     - **(B)** if the Secretary determines the adjustment described in subparagraph (A) is appropriate, carry out the adjustment.
 - **(c)** The standard developed under subsection (a) shall apply to clean hydrogen production from renewable, fossil fuel with carbon capture, utilization, and sequestration technologies, nuclear, and other fuel sources using any applicable production technology.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VIII, § 822](https://www.govinfo.gov/link/plaw/109/public/58), as added [Pub. L. 117–58, div. D, title III, § 40315(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1015](https://www.govinfo.gov/link/statute/135/1015).)*

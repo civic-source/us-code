@@ -3,9 +3,10 @@ title: "Section 1646 - Dissemination of annual percentage rates; implementation,
 usc_title: 15
 usc_section: "1646"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1646"
-generated_at: "2026-03-30T02:54:08.144Z"
+generated_at: "2026-11-23T21:25:39.860Z"
+status: "active"
 ---
 
 # § 1646. Dissemination of annual percentage rates; implementation, etc.
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:08.144Z"
     - **(A)** make the information collected pursuant to this subsection available to the public upon request; and
     - **(B)** report such information semiannually to Congress.
 - **(c)** The Bureau is authorized to enter into contracts or other arrangements with appropriate persons, organizations, or State agencies to carry out its functions under subsections (a) and (b) and to furnish financial assistance in support thereof.
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 136](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 96–221, title VI, § 618(a)](https://www.govinfo.gov/link/plaw/96/public/221), Mar. 31, 1980, [94 Stat. 183](https://www.govinfo.gov/link/statute/94/183); amended [Pub. L. 100–583, § 5](https://www.govinfo.gov/link/plaw/100/public/583), Nov. 3, 1988, [102 Stat. 2967](https://www.govinfo.gov/link/statute/102/2967); [Pub. L. 111–203, title X, § 1100A(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2107](https://www.govinfo.gov/link/statute/124/2107).)*

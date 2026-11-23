@@ -3,9 +3,10 @@ title: "Section 1314 - Judicial proceedings"
 usc_title: 15
 usc_section: "1314"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1314"
-generated_at: "2026-03-30T02:54:08.134Z"
+generated_at: "2026-11-23T21:25:39.814Z"
+status: "active"
 ---
 
 # § 1314. Judicial proceedings
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.134Z"
 - **(e)** Whenever any petition is filed in any district court of the United States under this section, such court shall have jurisdiction to hear and determine the matter so presented, and to enter such order or orders as may be required to carry into effect the provisions of this chapter. Any final order so entered shall be subject to appeal pursuant to section 1291 of title 28 . Any disobedience of any final order entered under this section by any court shall be punished as a contempt thereof.
 - **(f)** To the extent that such rules may have application and are not inconsistent with the provisions of this chapter, the Federal Rules of Civil Procedure shall apply to any petition under this chapter.
 - **(g)** Any documentary material, answers to written interrogatories, or transcripts of oral testimony provided pursuant to any demand issued under this chapter shall be exempt from disclosure under section 552 of title 5 .
+
+## Source Credit
+
+*([Pub. L. 87–664, § 5](https://www.govinfo.gov/link/plaw/87/public/664), Sept. 19, 1962, [76 Stat. 551](https://www.govinfo.gov/link/statute/76/551); [Pub. L. 94–435, title I, § 104](https://www.govinfo.gov/link/plaw/94/public/435), Sept. 30, 1976, [90 Stat. 1389](https://www.govinfo.gov/link/statute/90/1389); [Pub. L. 96–349, § 2(b)(5)](https://www.govinfo.gov/link/plaw/96/public/349), Sept. 12, 1980, [94 Stat. 1155](https://www.govinfo.gov/link/statute/94/1155).)*

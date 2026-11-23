@@ -3,9 +3,10 @@ title: "Section 497 - Notification required for reduction, consolidation, or wit
 usc_title: 10
 usc_section: "497"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 497"
-generated_at: "2026-03-30T02:53:38.063Z"
+generated_at: "2026-11-23T21:25:32.274Z"
+status: "active"
 ---
 
 # § 497. Notification required for reduction, consolidation, or withdrawal of nuclear forces based in Europe
@@ -19,3 +20,17 @@ generated_at: "2026-03-30T02:53:38.063Z"
 - **(c)** In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committees on Armed Services of the House of Representatives and the Senate; and
   - **(2)** the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
+
+Notification
+
+Prior Notification Required.—
+
+In general
+
+Exception
+
+Appropriate Congressional Committees Defined
+
+## Source Credit
+
+*(Added [Pub. L. 112–239, div. A, title X, § 1037(b)(1)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1926](https://www.govinfo.gov/link/statute/126/1926); amended [Pub. L. 117–81, div. A, title XVI, § 1635](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2091](https://www.govinfo.gov/link/statute/135/2091).)*

@@ -3,9 +3,10 @@ title: "Section 353 - Acquisition professional career program"
 usc_title: 6
 usc_section: "353"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 353"
-generated_at: "2026-03-30T02:53:09.462Z"
+generated_at: "2026-11-23T21:25:25.786Z"
+status: "active"
 ---
 
 # § 353. Acquisition professional career program
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:53:09.462Z"
   - **(1)** The term “Hispanic-serving institution” has the meaning given such term in section 1101a of title 20 .
   - **(2)** The term “historically Black colleges and universities” has the meaning given the term “part B institution” in section 1061(2) of title 20 .
   - **(3)** The term “institution of higher education” has the meaning given such term in section 1001 of title 20 .
+
+## Source Credit
+
+*([Pub. L. 107–296, title VII, § 713](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 117–81, div. F, title LXIV, § 6405(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2401](https://www.govinfo.gov/link/statute/135/2401).)*

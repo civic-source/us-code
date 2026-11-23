@@ -3,9 +3,10 @@ title: "Section 4703 - Validation of proprietary data restrictions"
 usc_title: 41
 usc_section: "4703"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 4703"
-generated_at: "2026-03-30T02:55:55.808Z"
+generated_at: "2026-11-23T21:26:18.818Z"
+status: "active"
 ---
 
 # § 4703. Validation of proprietary data restrictions
@@ -29,3 +30,70 @@ generated_at: "2026-03-30T02:55:55.808Z"
   - **(2)** If the contracting officer’s challenge to the restriction on the right of the Federal Government to use technical data is not sustained on final disposition, the Federal Government—
     - **(A)** continues to be bound by the restriction; and
     - **(B)** is liable for payment to the party asserting the restriction for fees and other expenses (as defined in section 2412(d)(2)(A) of title 28 ) incurred by the party asserting the restriction in defending the asserted restriction if the challenge by the Federal Government is found not to be made in good faith.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 4703(a) | 41:253d(a). | June 30, 1949, ch. 288 , title III, § 303D, formerly § 303E, as added Pub. L. 98–577, title II, § 203(a) , Oct. 30, 1984 , 98 Stat. 3071 ; renumbered § 303D, Pub. L. 99–145, title XIII, § 1304(c)(4)(A) , Nov. 8, 1985 , 99 Stat. 742 . |
+| 4703(b) | 41:253d(b). |  |
+| 4703(c) | 41:253d(c) (1st sentence). |  |
+| 4703(d) | 41:253d(c) (last sentence). |  |
+| 4703(e) | 41:253d(d). |  |
+| 4703(f) | 41:253d(e). |  |
+| 4703(g) | 41:253d(f). |  |
+
+
+Contract That Provides for Delivery of Technical Data
+
+Challenge of Restriction
+
+Additional Time for Responses
+
+Multiple Challenges
+
+Decision on Validity of Asserted Restriction.—
+
+No response submitted
+
+Response submitted
+
+Claim Deemed Claim Within Chapter
+
+Final Disposition of Challenge.—
+
+Challenge is sustained
+
+Challenge not sustained
+
+Historical and Revision Notes
+
+4703(a)
+
+June 30, 1949, ch. 288
+
+Pub. L. 98–577, title II, § 203(a)
+
+Oct. 30, 1984
+
+98 Stat. 3071
+
+Pub. L. 99–145, title XIII, § 1304(c)(4)(A)
+
+Nov. 8, 1985
+
+99 Stat. 742
+
+4703(b)
+
+4703(c)
+
+4703(d)
+
+4703(e)
+
+4703(f)
+
+4703(g)
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3794](https://www.govinfo.gov/link/statute/124/3794).)*

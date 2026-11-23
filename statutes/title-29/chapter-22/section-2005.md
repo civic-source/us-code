@@ -3,9 +3,10 @@ title: "Section 2005 - Enforcement provisions"
 usc_title: 29
 usc_section: "2005"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 2005"
-generated_at: "2026-03-30T02:55:18.742Z"
+generated_at: "2026-11-23T21:26:02.312Z"
+status: "active"
 ---
 
 # § 2005. Enforcement provisions
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:18.742Z"
   - **(2)** An action to recover the liability prescribed in paragraph (1) may be maintained against the employer in any Federal or State court of competent jurisdiction by an employee or prospective employee for or on behalf of such employee, prospective employee, and other employees or prospective employees similarly situated. No such action may be commenced more than 3 years after the date of the alleged violation.
   - **(3)** The court, in its discretion, may allow the prevailing party (other than the United States) reasonable costs, including attorney’s fees.
 - **(d)** The rights and procedures provided by this chapter may not be waived by contract or otherwise, unless such waiver is part of a written settlement agreed to and signed by the parties to the pending action or complaint under this chapter.
+
+## Source Credit
+
+*([Pub. L. 100–347, § 6](https://www.govinfo.gov/link/plaw/100/public/347), June 27, 1988, [102 Stat. 647](https://www.govinfo.gov/link/statute/102/647).)*

@@ -3,9 +3,10 @@ title: "Section 90105 - Powers"
 usc_title: 36
 usc_section: "90105"
 chapter: 901
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 90105"
-generated_at: "2026-03-30T02:55:44.700Z"
+generated_at: "2026-11-23T21:26:13.606Z"
+status: "active"
 ---
 
 # § 90105. Powers
@@ -25,3 +26,17 @@ generated_at: "2026-03-30T02:55:44.700Z"
 - **(c)** A gift, devise, or bequest may be accepted by the foundation even though it is encumbered, restricted, or subject to beneficial interests of private persons, if any current or future interest is for the benefit of the foundation.
 - **(d)** The foundation may enter into such contracts with public and private entities as it considers appropriate to carry out its purposes.
 - **(e)** During each year (beginning with 2003), the foundation may sponsor a conference in the Washington, D.C. metropolitan area to honor secondary school students and other individuals who have served (or plan to serve) as poll workers and assistants and who have otherwise participated in the programs and activities of the foundation.
+
+In General
+
+Powers as Trustee
+
+Encumbered or Restricted Gifts
+
+Contracts
+
+Annual Conference in Washington Metropolitan Area
+
+## Source Credit
+
+*(Added [Pub. L. 107–252, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1720](https://www.govinfo.gov/link/statute/116/1720), § 152605; renumbered § 90105, [Pub. L. 113–237, § 3(c)(6)(B)](https://www.govinfo.gov/link/plaw/113/public/237), Dec. 18, 2014, [128 Stat. 2840](https://www.govinfo.gov/link/statute/128/2840).)*

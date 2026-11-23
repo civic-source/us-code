@@ -3,9 +3,10 @@ title: "Section 159 - Revocation or suspension of drivers’ licenses of individ
 usc_title: 23
 usc_section: "159"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 159"
-generated_at: "2026-03-30T02:55:12.561Z"
+generated_at: "2026-11-23T21:25:53.898Z"
+status: "active"
 ---
 
 # § 159. Revocation or suspension of drivers’ licenses of individuals convicted of drug offenses
@@ -29,3 +30,25 @@ generated_at: "2026-03-30T02:55:12.561Z"
     - **(A)** the possession, distribution, manufacture, cultivation, sale, transfer, or the attempt or conspiracy to possess, distribute, manufacture, cultivate, sell, or transfer any substance the possession of which is prohibited under the Controlled Substances Act; or
     - **(B)** the operation of a motor vehicle under the influence of such a substance.
   - **(3)** The term “convicted” includes adjudicated under juvenile proceedings.
+
+Withholding of Apportionments for Noncompliance.—
+
+Beginning in fiscal year 1996
+
+Fiscal year 2012 and thereafter
+
+Requirements
+
+Effect of Noncompliance
+
+Definitions
+
+Driver’s license
+
+Drug offense
+
+Convicted
+
+## Source Credit
+
+*(Added [Pub. L. 102–143, title III, § 333(a)](https://www.govinfo.gov/link/plaw/102/public/143), Oct. 28, 1991, [105 Stat. 944](https://www.govinfo.gov/link/statute/105/944); amended [Pub. L. 102–388, title III, § 327(a)](https://www.govinfo.gov/link/plaw/102/public/388), Oct. 6, 1992, [106 Stat. 1547](https://www.govinfo.gov/link/statute/106/1547); [Pub. L. 105–178, title I, § 1103](https://www.govinfo.gov/link/plaw/105/public/178) (l)(3)(E), June 9, 1998, [112 Stat. 126](https://www.govinfo.gov/link/statute/112/126); [Pub. L. 112–141, div. A, title I, § 1404(g)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 558](https://www.govinfo.gov/link/statute/126/558).)*

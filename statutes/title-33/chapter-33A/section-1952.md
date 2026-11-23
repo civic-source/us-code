@@ -3,9 +3,10 @@ title: "Section 1952 - NOAA Marine Debris Program"
 usc_title: 33
 usc_section: "1952"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1952"
-generated_at: "2026-03-30T02:55:41.110Z"
+generated_at: "2026-11-23T21:26:11.416Z"
+status: "active"
 ---
 
 # § 1952. NOAA Marine Debris Program
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:55:41.110Z"
     - **(C)** provide notification of that approval or disapproval to the person who submitted the proposal.
   - **(6)** Each grantee under this section shall provide periodic reports as required by the Under Secretary. Each report shall include all information required by the Under Secretary for evaluating the progress and success in meeting its stated goals, and impact of the grant activities on the marine debris problem.
   - **(7)** With respect to any project carried out pursuant to a contract or other agreement entered into under paragraph (1) that is not a cooperative agreement or an agreement to provide financial assistance in the form of a grant, the Under Secretary may contribute on an in-kind basis the portion of the costs of the project that the Under Secretary determines represents the amount of benefit the National Oceanic and Atmospheric Administration derives from the project.
+
+## Source Credit
+
+*([Pub. L. 109–449, § 101](https://www.govinfo.gov/link/plaw/109/public/449), formerly § 3, Dec. 22, 2006, [120 Stat. 3333](https://www.govinfo.gov/link/statute/120/3333); [Pub. L. 112–213, title VI, § 604(a)](https://www.govinfo.gov/link/plaw/112/public/213) –(c), Dec. 20, 2012, [126 Stat. 1576](https://www.govinfo.gov/link/statute/126/1576), 1577; [Pub. L. 115–265, title I, § 101](https://www.govinfo.gov/link/plaw/115/public/265), Oct. 11, 2018, [132 Stat. 3742](https://www.govinfo.gov/link/statute/132/3742); renumbered § 101 and amended [Pub. L. 119–65](https://www.govinfo.gov/link/plaw/119/public/65), §§ 2(a)(2), (b), 6(a), (f), Dec. 26, 2025, [139 Stat. 1986](https://www.govinfo.gov/link/statute/139/1986), 1990, 1991.)*

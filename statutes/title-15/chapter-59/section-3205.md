@@ -3,9 +3,10 @@ title: "Section 3205 - Federal participation"
 usc_title: 15
 usc_section: "3205"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3205"
-generated_at: "2026-03-30T02:54:08.188Z"
+generated_at: "2026-11-23T21:25:39.965Z"
+status: "active"
 ---
 
 # § 3205. Federal participation
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:08.188Z"
 - **(a)** In addition to the authorities vested in the Secretary pursuant to any other provision of law, the Secretary, on his own motion, may intervene as a matter of right in any proceeding before a State regulatory authority which relates to gas utility rates or rate design. Such intervention shall be solely for the purpose of advocating policies or methods which carry out the purposes set forth in section 3201 of this title .
 - **(b)** The Secretary shall have the same rights as any other party to a proceeding before a State regulatory authority which relates to gas utility rates or rate design.
 - **(c)** The Secretary, on his own motion, may, to the same extent as provided in subsections (a) through (b), intervene as a matter of right in any proceeding which relates to rates or rate design of nonregulated gas utilities.
+
+## Source Credit
+
+*([Pub. L. 95–617, title III, § 305](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3152](https://www.govinfo.gov/link/statute/92/3152).)*

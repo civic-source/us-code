@@ -3,9 +3,10 @@ title: "Section 4091 - Authorities for certain positions at science and technolo
 usc_title: 10
 usc_section: "4091"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4091"
-generated_at: "2026-03-30T02:53:38.201Z"
+generated_at: "2026-11-23T21:25:32.754Z"
+status: "active"
 ---
 
 # § 4091. Authorities for certain positions at science and technology reinvention laboratories
@@ -42,3 +43,41 @@ generated_at: "2026-03-30T02:53:38.201Z"
   - **(2)** The term “employee” has the meaning given that term in section 2105 of title 5 .
   - **(3)** The term “Major Range and Test Facility Base” means the test and evaluation facilities and resources that are designated by the Secretary of Defense as facilities and resources comprising the Major Range and Test Facility Base.
   - **(4)** The term “veteran” has the meaning given that term in section 101 of title 38 .
+
+Authority to Make Direct Appointments.—
+
+Candidates for scientific and engineering positions at science and technology reinvention laboratories
+
+Veteran candidates for similar positions at research and engineering facilities
+
+Students enrolled in scientific and engineering programs
+
+Noncompetitive conversion of appointments
+
+Covered Positions.—
+
+Candidates for scientific and engineering positions
+
+Qualified veteran candidates
+
+Candidates enrolled in scientific and engineering programs
+
+Limitation on Number of Appointments Allowable in a Fiscal Year
+
+Senior Scientific Technical Managers.—
+
+Establishment
+
+Appointments
+
+Exclusion From Personnel Limitations.—
+
+In general
+
+Exceptions
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title XI, § 1122(a)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2453](https://www.govinfo.gov/link/statute/130/2453), § 2358a; amended [Pub. L. 115–91, div. A, title XI, § 1111](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1636](https://www.govinfo.gov/link/statute/131/1636); [Pub. L. 115–232, div. A, title XI, § 1112(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2012](https://www.govinfo.gov/link/statute/132/2012); renumbered § 4091, [Pub. L. 116–283, div. A, title XVIII, § 1843(a)](https://www.govinfo.gov/link/plaw/116/public/283), as added [Pub. L. 117–81, div. A, title XVII, § 1701(u)(4)(A)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2153](https://www.govinfo.gov/link/statute/135/2153); [Pub. L. 116–283, div. A, title XVIII](https://www.govinfo.gov/link/plaw/116/public/283), §§ 1843(b)(2), 1845(c)(5), Jan. 1, 2021, [134 Stat. 4245](https://www.govinfo.gov/link/statute/134/4245), 4247; [Pub. L. 117–81, div. A, title II](https://www.govinfo.gov/link/plaw/117/public/81), §§ 212(a), 215(d)(13), Dec. 27, 2021, [135 Stat. 1588](https://www.govinfo.gov/link/statute/135/1588), 1595; [Pub. L. 118–31, div. A, title XI, § 1103](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 427](https://www.govinfo.gov/link/statute/137/427).)*

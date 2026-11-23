@@ -3,9 +3,10 @@ title: "Section 6153 - Disposition of weapons-usable plutonium at Savannah River
 usc_title: 10
 usc_section: "6153"
 chapter: 603
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6153"
-generated_at: "2026-03-30T02:53:38.220Z"
+generated_at: "2026-11-23T21:25:32.817Z"
+status: "active"
 ---
 
 # § 6153. Disposition of weapons-usable plutonium at Savannah River Site
@@ -60,3 +61,23 @@ generated_at: "2026-03-30T02:53:38.220Z"
   - **(1)** The term “MOX production objective” means production at the MOX facility of mixed-oxide fuel from defense plutonium and defense plutonium materials at an average rate equivalent to not less than one metric ton of mixed-oxide fuel per year. The average rate shall be determined by measuring production at the MOX facility from the date the facility is declared operational to the Nuclear Regulatory Commission through the date of assessment.
   - **(2)** The term “MOX facility” means the mixed-oxide fuel fabrication facility at the Savannah River Site, Aiken, South Carolina.
   - **(3)** The terms “defense plutonium” and “defense plutonium materials” mean weapons-usable plutonium.
+
+Plan for Construction and Operation of MOX Facility
+
+Corrective Actions
+
+Contingent Requirement for Removal of Plutonium and Materials From Savannah River Site
+
+Economic and Impact Assistance
+
+Failure to Complete Planned Disposition Program
+
+Removal of Mixed-oxide Fuel Upon Completion of Operations of MOX Facility
+
+Baseline
+
+Definitions
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2), Dec. 18, 2025, [139 Stat. 1373](https://www.govinfo.gov/link/statute/139/1373), 1462.)*

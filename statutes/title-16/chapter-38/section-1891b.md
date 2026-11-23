@@ -3,9 +3,10 @@ title: "Section 1891b - Fisheries Conservation and Management Fund"
 usc_title: 16
 usc_section: "1891b"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1891b"
-generated_at: "2026-03-30T02:54:22.996Z"
+generated_at: "2026-11-23T21:25:51.937Z"
+status: "active"
 ---
 
 # § 1891b. Fisheries Conservation and Management Fund
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:22.996Z"
     - **(B)** States or other public sources or private or non-profit organizations for purposes of this section.
 - **(d)** The Secretary shall, every 2 years, apportion monies from the Fund among the eight Council regions according to recommendations of the Councils, based on regional priorities identified through the Council process, except that no region shall receive less than 5 percent of the Fund in each allocation period.
 - **(e)** No amount made available from the Fund may be used to defray the costs of carrying out requirements of this Act or the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1801 et seq.) other than those uses identified in this section.
+
+## Source Credit
+
+*([Pub. L. 109–479, title II, § 208](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3616](https://www.govinfo.gov/link/statute/120/3616).)*

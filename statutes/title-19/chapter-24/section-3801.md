@@ -3,9 +3,10 @@ title: "Section 3801 - Short title and findings"
 usc_title: 19
 usc_section: "3801"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 3801"
-generated_at: "2026-03-30T02:54:24.696Z"
+generated_at: "2026-11-23T21:25:42.851Z"
+status: "active"
 ---
 
 # § 3801. Short title and findings
@@ -17,3 +18,19 @@ generated_at: "2026-03-30T02:54:24.696Z"
   - **(3)** Support for continued trade expansion requires that dispute settlement procedures under international trade agreements not add to or diminish the rights and obligations provided in such agreements. Therefore—
     - **(A)** the recent pattern of decisions by dispute settlement panels of the WTO and the Appellate Body to impose obligations and restrictions on the use of antidumping, countervailing, and safeguard measures by WTO members under the Antidumping Agreement, the Agreement on Subsidies and Countervailing Measures, and the Agreement on Safeguards has raised concerns; and
     - **(B)** the Congress is concerned that dispute settlement panels of the WTO and the Appellate Body appropriately apply the standard of review contained in Article 17.6 of the Antidumping Agreement, to provide deference to a permissible interpretation by a WTO member of provisions of that Agreement, and to the evaluation by a WTO member of the facts where that evaluation is unbiased and objective and the establishment of the facts is proper.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 107–210, div. B, title XXI, § 2101](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 993](https://www.govinfo.gov/link/statute/116/993).)*

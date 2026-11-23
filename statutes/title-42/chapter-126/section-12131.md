@@ -3,9 +3,10 @@ title: "Section 12131 - Definitions"
 usc_title: 42
 usc_section: "12131"
 chapter: 126
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12131"
-generated_at: "2026-03-30T02:56:11.408Z"
+generated_at: "2026-11-23T21:26:33.452Z"
+status: "active"
 ---
 
 # § 12131. Definitions
@@ -17,3 +18,19 @@ As used in this subchapter:
     - **(B)** any department, agency, special purpose district, or other instrumentality of a State or States or local government; and
     - **(C)** the National Railroad Passenger Corporation, and any commuter authority (as defined in section 24102(4) 1 1 See References in Text note below. of title 49).
   - **(2)** The term “qualified individual with a disability” means an individual with a disability who, with or without reasonable modifications to rules, policies, or practices, the removal of architectural, communication, or transportation barriers, or the provision of auxiliary aids and services, meets the essential eligibility requirements for the receipt of services or the participation in programs or activities provided by a public entity.
+
+General Rule
+
+Exception
+
+Section
+
+Sec
+
+Sec
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 101–336, title II, § 201](https://www.govinfo.gov/link/plaw/101/public/336), July 26, 1990, [104 Stat. 337](https://www.govinfo.gov/link/statute/104/337).)*

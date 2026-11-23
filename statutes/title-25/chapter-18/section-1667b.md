@@ -3,9 +3,10 @@ title: "Section 1667b - Indian youth telemental health demonstration project"
 usc_title: 25
 usc_section: "1667b"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1667b"
-generated_at: "2026-03-30T02:54:52.826Z"
+generated_at: "2026-11-23T21:25:54.632Z"
+status: "active"
 ---
 
 # § 1667b. Indian youth telemental health demonstration project
@@ -71,3 +72,7 @@ generated_at: "2026-03-30T02:54:52.826Z"
       - **(ii)** designated as a permanent program; and
     - **(D)** evaluates the benefits of expanding the demonstration project to include urban Indian organizations.
 - **(g)** There is authorized to be appropriated to carry out this section $1,500,000 for each of fiscal years 2010 through 2013.
+
+## Source Credit
+
+*([Pub. L. 94–437, title VII, § 723](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

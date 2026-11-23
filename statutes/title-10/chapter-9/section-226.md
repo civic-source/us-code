@@ -3,9 +3,10 @@ title: "Section 226 - Special operations forces: display of service-common and o
 usc_title: 10
 usc_section: "226"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 226"
-generated_at: "2026-03-30T02:53:38.047Z"
+generated_at: "2026-11-23T21:25:32.243Z"
+status: "active"
 ---
 
 # § 226. Special operations forces: display of service-common and other support and enabling capabilities
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:53:38.047Z"
   - **(4)** Any other matters the Secretary of Defense or the Secretary of a military department determines are relevant.
 - **(b)** The Secretary of Defense shall include, in the budget materials submitted to Congress under section 1105 of title 31 , for fiscal year 2022 and any subsequent fiscal year, a consolidated budget justification display containing the same information as is required in the budget justification displays required under subsection (a). Such consolidated budget justification display may be provided as a summary by appropriation for each military department and a summary by appropriation for all Defense Agencies.
 - **(c)** In this section, the term “service-common and other support and enabling capabilities” means capabilities provided in support of special operations that are not reflected in Major Force Program–11 or designated as special operations forces-peculiar.
+
+In General
+
+Consolidated Budget Justification Display
+
+Service-common and Other Support and Enabling Capabilities
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. A, title X, § 1007(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1575](https://www.govinfo.gov/link/statute/133/1575); amended [Pub. L. 116–283, div. A, title X, § 1002](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3836](https://www.govinfo.gov/link/statute/134/3836).)*

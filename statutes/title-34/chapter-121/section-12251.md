@@ -3,9 +3,10 @@ title: "Section 12251 - Authority to make grants"
 usc_title: 34
 usc_section: "12251"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 12251"
-generated_at: "2026-03-30T02:55:33.284Z"
+generated_at: "2026-11-23T21:26:09.734Z"
+status: "active"
 ---
 
 # § 12251. Authority to make grants
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:33.284Z"
     - **(D)** not more than 50 days after reviewing such applications approve or disapprove the application; and
   - **(7)** for the purposes of selecting eligible offenders to participate in such project, the State has authorized State courts to sentence an eligible offender directly to a community correctional facility, provided that the court gives assurances that the offender would have otherwise served a term of imprisonment.
 - **(c)** The Attorney General shall make grants under subsection (a) on a competitive basis, based on such criteria as the Attorney General shall issue by rule and taking into account the preferences described in subsection (b).
+
+## Source Credit
+
+*([Pub. L. 103–322, title III, § 31911](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1894](https://www.govinfo.gov/link/statute/108/1894).)*

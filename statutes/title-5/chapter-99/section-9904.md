@@ -3,9 +3,10 @@ title: "Section 9904 - Special pay and benefits for certain employees outside th
 usc_title: 5
 usc_section: "9904"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 9904"
-generated_at: "2026-03-30T02:52:56.075Z"
+generated_at: "2026-11-23T21:25:23.466Z"
+status: "active"
 ---
 
 # § 9904. Special pay and benefits for certain employees outside the United States
@@ -16,3 +17,7 @@ The Secretary may provide to certain civilian employees of the Department of Def
     - **(A)** comparable to those provided by the Secretary of State to members of the Foreign Service under chapter 9 of title I of the Foreign Service Act of 1980 ( Public Law 96–465 , 22 U.S.C. 4081 et seq.) or any other provision of law; or
     - **(B)** comparable to those provided by the Director of Central Intelligence to personnel of the Central Intelligence Agency; and
   - **(2)** special retirement accrual benefits and disability in the same manner provided for by the Central Intelligence Agency Retirement Act ( 50 U.S.C. 2001 et seq.) and in section 18 of the Central Intelligence Agency Act of 1949 ( 50 U.S.C. 403r ). 1 1 See References in Text note below.
+
+## Source Credit
+
+*(Added [Pub. L. 108–136, div. A, title XI, § 1101(a)(1)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1633](https://www.govinfo.gov/link/statute/117/1633).)*

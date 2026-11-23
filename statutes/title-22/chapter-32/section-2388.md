@@ -3,12 +3,17 @@ title: "Section 2388 - Detail of personnel to international organizations"
 usc_title: 22
 usc_section: "2388"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2388"
-generated_at: "2026-03-30T02:55:05.363Z"
+generated_at: "2026-11-23T21:25:58.484Z"
+status: "active"
 ---
 
 # § 2388. Detail of personnel to international organizations
 
 Whenever the President determines it to be consistent with and in furtherance of the purposes of this chapter, the head of any agency of the United States Government is authorized to detail, assign, or otherwise make available to any international organization any officer or employee of his agency to serve with, or as a member of, the international staff of such organization, or to render any technical, scientific, or professional advice or service to, or in cooperation with, such organization.
 
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 628, Sept. 4, 1961, [75 Stat. 452](https://www.govinfo.gov/link/statute/75/452).)*

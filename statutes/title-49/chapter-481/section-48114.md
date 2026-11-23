@@ -3,9 +3,10 @@ title: "Section 48114 - Funding for aviation programs"
 usc_title: 49
 usc_section: "48114"
 chapter: 481
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 48114"
-generated_at: "2026-03-30T02:56:19.408Z"
+generated_at: "2026-11-23T21:26:41.003Z"
+status: "active"
 ---
 
 # § 48114. Funding for aviation programs
@@ -29,3 +30,29 @@ generated_at: "2026-03-30T02:56:19.408Z"
 - **(c)**
   - **(1)** It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report that would cause total budget resources in a fiscal year for aviation investment programs described in subsection (b) to be less than the amount required by subsection (a)(1)(A) for such fiscal year.
   - **(2)** It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report that provides an appropriation (or any amendment thereto) for any fiscal year through fiscal year 2018 for Research and Development or Operations if the sum of the obligation limitation for Grants-in-Aid for Airports and the appropriation for Facilities and Equipment for such fiscal year is below the sum of the authorized levels for Grants-in-Aid for Airports and for Facilities and Equipment for such fiscal year.
+
+Authorization of Appropriations.—
+
+Airport and airway trust fund guarantee.—
+
+In general
+
+Guarantee
+
+Additional authorizations of appropriations from the general fund
+
+Definitions
+
+Total budget resources
+
+Estimated level of receipts plus interest
+
+Enforcement of Guarantees.—
+
+Total airport and airway trust fund funding
+
+Capital priority
+
+## Source Credit
+
+*(Added [Pub. L. 108–176, title I, § 104(a)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2496](https://www.govinfo.gov/link/statute/117/2496); amended [Pub. L. 112–95, title I, § 104](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 16](https://www.govinfo.gov/link/statute/126/16); [Pub. L. 114–55, title I, § 106(a)](https://www.govinfo.gov/link/plaw/114/public/55), Sept. 30, 2015, [129 Stat. 524](https://www.govinfo.gov/link/statute/129/524); [Pub. L. 114–190, title I, § 1106(a)](https://www.govinfo.gov/link/plaw/114/public/190), July 15, 2016, [130 Stat. 618](https://www.govinfo.gov/link/statute/130/618); [Pub. L. 115–63, title I, § 107(a)](https://www.govinfo.gov/link/plaw/115/public/63), Sept. 29, 2017, [131 Stat. 1170](https://www.govinfo.gov/link/statute/131/1170); [Pub. L. 115–254, div. B, title I, § 116](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3201](https://www.govinfo.gov/link/statute/132/3201).)*

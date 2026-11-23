@@ -3,9 +3,10 @@ title: "Section 1134a - Allocation of fellowships"
 usc_title: 20
 usc_section: "1134a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1134a"
-generated_at: "2026-03-30T02:54:48.146Z"
+generated_at: "2026-11-23T21:25:47.245Z"
+status: "active"
 ---
 
 # § 1134a. Allocation of fellowships
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:48.146Z"
   - **(7)** Members of the Board, while serving on the business of the Board, shall be entitled to receive compensation at rates fixed by the Secretary, but not exceeding the rate of basic pay payable for level IV of the Executive Schedule, including travel time, and while so serving away from their homes or regular places of business, the members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in Government service employed intermittently.
 - **(b)** The recipients of fellowships shall be selected in each designated field from among all applicants nationwide in each field by distinguished panels appointed by the Board to make such selections under criteria established by the Board, except that, in the event that the Secretary enters into a contract with a nongovernmental entity to administer the program, such panels may be appointed by such nongovernmental entity. The number of recipients in each field in each year shall not exceed the number of fellows allocated to that field for that year by the Board.
 - **(c)** Each recipient shall be entitled to use the fellowship in a graduate program at any accredited institution of higher education in which the recipient may decide to enroll.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VII, § 702](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title VII, § 701](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1787](https://www.govinfo.gov/link/statute/112/1787); amended [Pub. L. 110–315, title VII, § 702(b)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3345](https://www.govinfo.gov/link/statute/122/3345).)*

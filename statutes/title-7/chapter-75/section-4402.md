@@ -3,9 +3,10 @@ title: "Section 4402 - Definitions"
 usc_title: 7
 usc_section: "4402"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 4402"
-generated_at: "2026-03-30T02:53:42.408Z"
+generated_at: "2026-11-23T21:25:28.345Z"
+status: "active"
 ---
 
 # § 4402. Definitions
@@ -22,3 +23,7 @@ As used in this chapter—
     - **(C)** any combination of rail and road, or
     - **(D)** any sea crossing of less than one hundred and fifty kilometers, if preceded or followed by one or more land journeys as referred to in clauses (A), (B), and (C) of this paragraph, and the perishable foodstuffs are shipped in the same equipment used for such land journeys without transloading of such foodstuffs.
   - **(6)** The term “United States” means the fifty States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands of the United States, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.
+
+## Source Credit
+
+*([Pub. L. 97–325, § 3](https://www.govinfo.gov/link/plaw/97/public/325), Oct. 15, 1982, [96 Stat. 1603](https://www.govinfo.gov/link/statute/96/1603).)*

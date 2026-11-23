@@ -3,9 +3,10 @@ title: "Section 3101 - Definitions"
 usc_title: 12
 usc_section: "3101"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3101"
-generated_at: "2026-03-30T02:53:53.490Z"
+generated_at: "2026-11-23T21:25:37.120Z"
+status: "active"
 ---
 
 # § 3101. Definitions
@@ -29,3 +30,7 @@ For the purposes of this chapter—
   - **(15)** the term “representative office” means any office of a foreign bank which is located in any State and is not a Federal branch, Federal agency, State branch, or State agency;
   - **(16)** the term “office” means any branch, agency, or representative office; and
   - **(17)** the term “State bank supervisor” has the meaning given to such term in section 1813 of this title .
+
+## Source Credit
+
+*([Pub. L. 95–369, § 1(b)](https://www.govinfo.gov/link/plaw/95/public/369), Sept. 17, 1978, [92 Stat. 607](https://www.govinfo.gov/link/statute/92/607); [Pub. L. 102–242, title II, § 202(e)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2290](https://www.govinfo.gov/link/statute/105/2290); [Pub. L. 106–102, title I, § 142(a)](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1384](https://www.govinfo.gov/link/statute/113/1384).)*

@@ -3,9 +3,10 @@ title: "Section 13494 - Prototype demonstration of advanced nuclear reactor tech
 usc_title: 42
 usc_section: "13494"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13494"
-generated_at: "2026-03-30T02:56:11.447Z"
+generated_at: "2026-11-23T21:26:33.611Z"
+status: "active"
 ---
 
 # § 13494. Prototype demonstration of advanced nuclear reactor technology
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.447Z"
     - **(D)** specify the extent and type of non-Federal financial support anticipated.
   - **(2)** The prototype demonstration program under this section shall be carried out to the maximum extent practicable with private sector funding. At least 50 percent of the funding for such program shall be non-Federal funding. The extent of non-Federal cost sharing proposed for any demonstration project shall be a criterion for the selection of the project.
 - **(c)** Any technology selected by the Secretary for recommendation for prototype demonstration under this section shall to the maximum extent possible exhibit the characteristics set forth in section 13493(a) of this title .
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXI, § 2124](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3084](https://www.govinfo.gov/link/statute/106/3084).)*

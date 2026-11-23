@@ -3,9 +3,10 @@ title: "Section 3204 - Exceptions"
 usc_title: 12
 usc_section: "3204"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3204"
-generated_at: "2026-03-30T02:53:53.492Z"
+generated_at: "2026-11-23T21:25:37.127Z"
+status: "active"
 ---
 
 # § 3204. Exceptions
@@ -33,3 +34,7 @@ The prohibitions contained in sections 3202 and 3203 of this title shall not app
       - **(iii)** the diversified savings and loan holding company has neglected, failed, or refused to furnish all the information required by such agency.
     - **(C)** Any appropriate Federal depository institutions regulatory agency may, at any time after the end of the 60-day period referred to in subparagraph (A), require that any dual service by any individual which was not disapproved by such agency during such period be terminated if a change in circumstances occurs with respect to any depository institution or depository holding company of which such individual is a director that would have provided a basis for disapproval of the dual service during such period.
   - **(9)** Any savings association (as defined in section 10(a)(1)(A) of the Home Owners’ Loan Act [ 12 U.S.C. 1467a(a)(1)(A) ] or any savings and loan holding company (as defined in section 10(a)(1)(D) of such Act) which has issued stock in connection with a qualified stock issuance pursuant to section 10(q) of such Act, except that this paragraph shall apply only with respect to service as a single management official of such savings association or holding company, or any subsidiary of such savings association or holding company, by a single management official of the savings and loan holding company which purchased the stock issued in connection with such qualified stock issuance, and shall apply only when the Director of the Office of Thrift Supervision has determined that such service is consistent with the purposes of this chapter and the Home Owners’ Loan Act [ 12 U.S.C. 1461 et seq.].
+
+## Source Credit
+
+*([Pub. L. 95–630, title II, § 205](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3673](https://www.govinfo.gov/link/statute/92/3673); [Pub. L. 97–320, title IV, § 425(d)](https://www.govinfo.gov/link/plaw/97/public/320), Oct. 15, 1982, [96 Stat. 1524](https://www.govinfo.gov/link/statute/96/1524); [Pub. L. 100–650](https://www.govinfo.gov/link/plaw/100/public/650), §§ 4, 5(a), Nov. 10, 1988, [102 Stat. 3819](https://www.govinfo.gov/link/statute/102/3819); [Pub. L. 101–73, title VI, § 604(a)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 410](https://www.govinfo.gov/link/statute/103/410).)*

@@ -3,9 +3,10 @@ title: "Section 4501 - Congressional findings and declaration of policy"
 usc_title: 7
 usc_section: "4501"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 4501"
-generated_at: "2026-03-30T02:53:42.408Z"
+generated_at: "2026-11-23T21:25:28.345Z"
+status: "active"
 ---
 
 # § 4501. Congressional findings and declaration of policy
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.408Z"
   - **(4)** the maintenance and expansion of existing markets for dairy products are vital to the welfare of milk producers and those concerned with marketing, using, and producing dairy products, as well as to the general economy of the Nation; and
   - **(5)** dairy products move in interstate and foreign commerce, and dairy products that do not move in such channels of commerce directly burden or affect interstate commerce of dairy products.
 - **(b)** It, therefore, is declared to be the policy of Congress that it is in the public interest to authorize the establishment, through the exercise of the powers provided herein, of an orderly procedure for financing (through assessments on all milk produced in the United States for commercial use and on imported dairy products) and carrying out a coordinated program of promotion designed to strengthen the dairy industry’s position in the marketplace and to maintain and expand domestic and foreign markets and uses for fluid milk and dairy products. Nothing in this subchapter may be construed to provide for the control of production or otherwise limit the right of individual milk producers to produce milk or the right of any person to import dairy products.
+
+## Source Credit
+
+*([Pub. L. 98–180, title I, § 110](https://www.govinfo.gov/link/plaw/98/public/180), Nov. 29, 1983, [97 Stat. 1136](https://www.govinfo.gov/link/statute/97/1136); [Pub. L. 107–171, title I, § 1505(h)(1)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 210](https://www.govinfo.gov/link/statute/116/210).)*

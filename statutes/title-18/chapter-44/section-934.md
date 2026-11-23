@@ -3,9 +3,10 @@ title: "Section 934 - Forfeiture and fines"
 usc_title: 18
 usc_section: "934"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 934"
-generated_at: "2026-03-30T02:54:16.476Z"
+generated_at: "2026-11-23T21:25:44.019Z"
+status: "active"
 ---
 
 # § 934. Forfeiture and fines
@@ -18,3 +19,15 @@ generated_at: "2026-03-30T02:54:16.476Z"
 - **(b)** A defendant who derives profits or other proceeds from an offense under section 932 or 933 may be fined not more than the greater of—
   - **(1)** the fine otherwise authorized by this part; or
   - **(2)** the amount equal to twice the gross profits or other proceeds of the offense under section 932 or 933.
+
+Forfeiture.—
+
+In general
+
+Imposition
+
+Fines
+
+## Source Credit
+
+*(Added [Pub. L. 117–159, div. A, title II, § 12004(a)(1)](https://www.govinfo.gov/link/plaw/117/public/159), June 25, 2022, [136 Stat. 1327](https://www.govinfo.gov/link/statute/136/1327).)*

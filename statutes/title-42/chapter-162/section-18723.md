@@ -3,9 +3,10 @@ title: "Section 18723 - Rural and municipal utility advanced cybersecurity grant
 usc_title: 42
 usc_section: "18723"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18723"
-generated_at: "2026-03-30T02:56:11.526Z"
+generated_at: "2026-11-23T21:26:33.838Z"
+status: "active"
 ---
 
 # § 18723. Rural and municipal utility advanced cybersecurity grant and technical assistance program
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:11.526Z"
   - **(1)** shall be exempt from disclosure under section 552(b)(3) of title 5 ; and
   - **(2)** shall not be made available by any Federal agency, State, political subdivision of a State, or Tribal authority pursuant to any Federal, State, political subdivision of a State, or Tribal law, respectively, requiring public disclosure of information or records.
 - **(f)** There is authorized to be appropriated to the Secretary to carry out this section $250,000,000 for the period of fiscal years 2022 through 2026.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title I, § 40124](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 953](https://www.govinfo.gov/link/statute/135/953); [Pub. L. 117–263, div. G, title LXXI, § 7143(d)(3)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3663](https://www.govinfo.gov/link/statute/136/3663).)*

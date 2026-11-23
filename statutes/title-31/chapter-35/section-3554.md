@@ -3,9 +3,10 @@ title: "Section 3554 - Decisions on protests"
 usc_title: 31
 usc_section: "3554"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 3554"
-generated_at: "2026-03-30T02:55:34.058Z"
+generated_at: "2026-11-23T21:26:10.583Z"
+status: "active"
 ---
 
 # § 3554. Decisions on protests
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:55:34.058Z"
       - **(iii)** further investigation by Congress; or
       - **(iv)** other action.
   - **(2)** Not later than January 31 of each year, the Comptroller General shall transmit to the Congress a report containing a summary of each instance in which a Federal agency did not fully implement a recommendation of the Comptroller General under subsection (b) or (c) during the preceding year. The report shall also describe each instance in which a final decision in a protest was not rendered within 100 days after the date the protest is submitted to the Comptroller General. The report shall also include a summary of the most prevalent grounds for sustaining protests during such preceding year.
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. B, title VII, § 2741(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1201](https://www.govinfo.gov/link/statute/98/1201); amended [Pub. L. 100–463, title VIII, § 8139](https://www.govinfo.gov/link/plaw/100/public/463), Oct. 1, 1988, [102 Stat. 2270–47](https://www.govinfo.gov/link/statute/102/2270); [Pub. L. 103–355, title I, § 1403(a)](https://www.govinfo.gov/link/plaw/103/public/355) –(b)(3), Oct. 13, 1994, [108 Stat. 3289](https://www.govinfo.gov/link/statute/108/3289), 3290; [Pub. L. 104–106, div. D, title XLIII, § 4321(d)(3)](https://www.govinfo.gov/link/plaw/104/public/106), div. E, title LV, § 5501(2), Feb. 10, 1996, [110 Stat. 674](https://www.govinfo.gov/link/statute/110/674), 698; [Pub. L. 111–84, div. A, title III, § 327(c)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2255](https://www.govinfo.gov/link/statute/123/2255); [Pub. L. 112–239, div. A, title VIII, § 867](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1862](https://www.govinfo.gov/link/statute/126/1862).)*

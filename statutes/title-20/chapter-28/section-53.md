@@ -3,9 +3,10 @@ title: "Section 53 - Grants for Federal work-study programs"
 usc_title: 20
 usc_section: "53"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 53"
-generated_at: "2026-03-30T02:54:48.123Z"
+generated_at: "2026-11-23T21:25:47.141Z"
+status: "active"
 ---
 
 # § 1087–53. Grants for Federal work-study programs
@@ -65,3 +66,7 @@ generated_at: "2026-03-30T02:54:48.123Z"
     - **(A)** give priority to the employment of students participating in projects that educate or train the public about evacuation, emergency response, and injury prevention strategies relating to natural disasters, acts of terrorism, and other emergency situations; and
     - **(B)** ensure that any student compensated with the funds described in paragraph (1) receives appropriate training to carry out the educational services required.
   - **(3)** The Federal share of the compensation of work-study students compensated under this subsection may exceed 75 percent.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 443](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1432](https://www.govinfo.gov/link/statute/100/1432); amended [Pub. L. 100–50, § 11(b)](https://www.govinfo.gov/link/plaw/100/public/50), (c), June 3, 1987, [101 Stat. 348](https://www.govinfo.gov/link/statute/101/348); [Pub. L. 102–325, title IV](https://www.govinfo.gov/link/plaw/102/public/325), §§ 441(a)(2), 443, July 23, 1992, [106 Stat. 563](https://www.govinfo.gov/link/statute/106/563), 564; [Pub. L. 103–208, § 2(d)(3)](https://www.govinfo.gov/link/plaw/103/public/208) –(5), Dec. 20, 1993, [107 Stat. 2470](https://www.govinfo.gov/link/statute/107/2470); [Pub. L. 105–244, title IV, § 443](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1712](https://www.govinfo.gov/link/statute/112/1712); [Pub. L. 110–315, title IV, § 443](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3258](https://www.govinfo.gov/link/statute/122/3258); [Pub. L. 111–39, title IV, § 403](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1945](https://www.govinfo.gov/link/statute/123/1945).)*

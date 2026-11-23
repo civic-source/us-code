@@ -3,9 +3,10 @@ title: "Section 359 - Penalties"
 usc_title: 45
 usc_section: "359"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 359"
-generated_at: "2026-03-30T02:55:56.551Z"
+generated_at: "2026-11-23T21:26:19.209Z"
+status: "active"
 ---
 
 # § 359. Penalties
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:56.551Z"
 - **(b)** Any agreement by an employee to pay all or any portion of the contribution required of his employer under this chapter shall be void, and it shall be unlawful for any employer, or officer or agent of an employer, to make, require, or permit any employee to bear all or any portion of such contribution. Any employer, or officer or agent of an employer, who violates any provision of this subsection shall be punished for each such violation by a fine of not more than $10,000 or by imprisonment not exceeding one year, or both.
 - **(c)** Any person who violates any provision of this chapter, the punishment for which is not otherwise provided, shall be punished for each such violation by a fine of not more than $1,000 or by imprisonment not exceeding one year, or both.
 - **(d)** All fines and penalties imposed by a court pursuant to this chapter shall be paid to the court and be remitted from time to time by order of the judge to the Treasury of the United States to be credited to the account.
+
+## Source Credit
+
+*(June 25, 1938, ch. 680, § 9, [52 Stat. 1103](https://www.govinfo.gov/link/statute/52/1103).)*

@@ -3,9 +3,10 @@ title: "Section 1423 - Federal Home Loan Bank districts; number and boundaries; 
 usc_title: 12
 usc_section: "1423"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1423"
-generated_at: "2026-03-30T02:53:53.390Z"
+generated_at: "2026-11-23T21:25:36.819Z"
+status: "active"
 ---
 
 # § 1423. Federal Home Loan Bank districts; number and boundaries; establishment of Federal Home Loan Banks; names
@@ -14,3 +15,11 @@ generated_at: "2026-03-30T02:53:53.390Z"
 - **(b)** Notwithstanding subsection (a), the number of districts may be reduced to a number less than 8—
   - **(1)** pursuant to a voluntary merger between Banks, as approved pursuant to section 1446(b) of this title ; or
   - **(2)** pursuant to a decision by the Director to liquidate a Bank pursuant to section 4617 of this title .
+
+c
+
+c
+
+## Source Credit
+
+*(July 22, 1932, ch. 522, § 3, [47 Stat. 726](https://www.govinfo.gov/link/statute/47/726); July 14, 1952, ch. 723, § 10(c), [66 Stat. 604](https://www.govinfo.gov/link/statute/66/604); [Pub. L. 101–73, title VII, § 701(b)(1)](https://www.govinfo.gov/link/plaw/101/public/73), (3)(A), Aug. 9, 1989, [103 Stat. 412](https://www.govinfo.gov/link/statute/103/412); [Pub. L. 110–289, div. A, title II](https://www.govinfo.gov/link/plaw/110/public/289), §§ 1204(8), 1210, July 30, 2008, [122 Stat. 2786](https://www.govinfo.gov/link/statute/122/2786), 2790.)*

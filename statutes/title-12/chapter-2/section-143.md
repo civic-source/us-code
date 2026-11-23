@@ -3,12 +3,17 @@ title: "Section 143 - Banks in Alaska and insular possessions; lawful money rese
 usc_title: 12
 usc_section: "143"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 143"
-generated_at: "2026-03-30T02:53:53.374Z"
+generated_at: "2026-11-23T21:25:36.771Z"
+status: "active"
 ---
 
 # § 143. Banks in Alaska and insular possessions; lawful money reserves
 
 Every national banking association located in Alaska or in a dependency or insular possession or any part of the United States outside of the continental United States, and not a member of the Federal reserve system, shall at all times have on hand in lawful money of the United States an amount equal to at least 15 percent of the aggregate amount of its deposits in all respects. Whenever the lawful money of any such association shall fall below 15 percent of its deposits such association shall not increase its liabilities by making any new loans or discounts other than by discounting or purchasing bills of exchange payable at sight nor make any dividends of its profits until the required proportion between the aggregate amount of its deposits and its lawful money of the United States has been restored. And the Comptroller of the Currency shall notify any such association whose lawful money reserve shall be below the amount required to be kept on hand to make good such reserve, and if such association shall fail for thirty days thereafter so to make good its lawful money the Comptroller may, with the concurrence of the Secretary of the Treasury, appoint a receiver to wind up the business of the association as provided in section 192 of this title .
 
+
+## Source Credit
+
+*(R.S. § 5191 (part).)*

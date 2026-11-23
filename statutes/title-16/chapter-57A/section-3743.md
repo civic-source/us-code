@@ -3,9 +3,10 @@ title: "Section 3743 - Definitions"
 usc_title: 16
 usc_section: "3743"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3743"
-generated_at: "2026-03-30T02:54:23.020Z"
+generated_at: "2026-11-23T21:25:51.982Z"
+status: "active"
 ---
 
 # § 3743. Definitions
@@ -24,3 +25,7 @@ As used in this chapter—
     - **(A)** are not ordinarily taken for recreation, fur, or food; except that if under applicable State law, any fish and wildlife may be taken for recreation, fur, or food in some but not all, areas of the State, a wildlife conservation and appreciation project may be directed toward the conservation of any of such fish and wildlife within any area of the State in which such taking is not permitted;
     - **(B)** are not listed as endangered species or threatened species under the Endangered Species Act of 1973, as amended ( 16 U.S.C. 1531–154 3); and
     - **(C)** are not marine mammals within the meaning of section 1362(6) of this title .
+
+## Source Credit
+
+*([Pub. L. 102–587, title VII, § 7104](https://www.govinfo.gov/link/plaw/102/public/587), Nov. 4, 1992, [106 Stat. 5096](https://www.govinfo.gov/link/statute/106/5096); [Pub. L. 103–375, § 6(2)](https://www.govinfo.gov/link/plaw/103/public/375), (3), Oct. 19, 1994, [108 Stat. 3495](https://www.govinfo.gov/link/statute/108/3495).)*

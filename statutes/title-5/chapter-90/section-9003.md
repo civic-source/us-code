@@ -3,9 +3,10 @@ title: "Section 9003 - Contracting authority"
 usc_title: 5
 usc_section: "9003"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 9003"
-generated_at: "2026-03-30T02:52:56.071Z"
+generated_at: "2026-11-23T21:25:23.459Z"
+status: "active"
 ---
 
 # § 9003. Contracting authority
@@ -38,3 +39,43 @@ generated_at: "2026-03-30T02:52:56.071Z"
   - **(3)** No later than 180 days after receiving the second report required under section 9006(c), the President (or his designee) shall submit to the Committees on Government Reform and on Armed Services of the House of Representatives and the Committees on Governmental Affairs and on Armed Services of the Senate, a written recommendation as to whether the program under this chapter should be continued without modification, terminated, or restructured. During the 180-day period following the date on which the President (or his designee) submits the recommendation required under the preceding sentence, the Office of Personnel Management may not take any steps to rebid or otherwise contract for any coverage to be available at any time following the expiration of the 7-year period described in paragraph (2)(B).
   - **(4)** Each master contract under this chapter shall include such provisions as may be necessary to ensure that, once an individual becomes duly enrolled, long-term care insurance coverage obtained by such individual pursuant to that enrollment shall not be terminated due to any change in status (such as separation from Government service or the uniformed services) or ceasing to meet the requirements for being considered a qualified relative (whether as a result of dissolution of marriage or otherwise).
 - **(e)** Coverage under a master contract under this chapter for long-term care insurance for an employee or member of the uniformed services enrolled under such contract and who, due to a lapse in appropriations, is furloughed or excepted from furlough and working without pay shall continue during such lapse and may not be cancelled as a result of nonpayment of premiums or other periodic charges due to such lapse.
+
+In General
+
+Terms and Conditions.—
+
+In general
+
+Premiums
+
+Nonrenewability
+
+Payment of Required Benefits; Dispute Resolution.—
+
+In general
+
+Eligibility
+
+Other claims
+
+Rule of construction
+
+Duration.—
+
+In general
+
+Exception.—
+
+Shorter duration
+
+Definition
+
+Congressional notification
+
+Full portability
+
+Effect of Government Shutdown
+
+## Source Credit
+
+*(Added [Pub. L. 106–265, title I, § 1002(a)](https://www.govinfo.gov/link/plaw/106/public/265), Sept. 19, 2000, [114 Stat. 764](https://www.govinfo.gov/link/statute/114/764); amended [Pub. L. 111–350, § 5(a)(18)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3842](https://www.govinfo.gov/link/statute/124/3842); [Pub. L. 116–92, div. A, title XI, § 1111(a)(3)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1601](https://www.govinfo.gov/link/statute/133/1601).)*

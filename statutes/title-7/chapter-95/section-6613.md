@@ -3,9 +3,10 @@ title: "Section 6613 - Rural natural resources and economic diversification acti
 usc_title: 7
 usc_section: "6613"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6613"
-generated_at: "2026-03-30T02:53:42.433Z"
+generated_at: "2026-11-23T21:25:28.395Z"
+status: "active"
 ---
 
 # § 6613. Rural natural resources and economic diversification action teams
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.433Z"
 - **(e)** The Secretary shall ensure that no substantially similar geographical or defined local area in a State receives a grant for technical assistance to an economically disadvantaged community under this subchapter and a grant for assistance under a designated rural development program during any continuous five-year period.
 - **(f)** After reviewing requests under this section for financial and economic feasibility and viability, the Secretary shall approve and implement in accordance with section 6614 of this title those action plans that will achieve the purposes of this subchapter.
 - **(g)** In this section, the term “designated rural development program” means a program carried out under section 1924(b), 1926(a), or 1932(e) of this title for which funds are available at any time during the fiscal year.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XXIII, § 2375](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 4047](https://www.govinfo.gov/link/statute/104/4047); [Pub. L. 104–127, title VII, § 753(b)(1)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1131](https://www.govinfo.gov/link/statute/110/1131); [Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 345(c)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1535](https://www.govinfo.gov/link/statute/113/1535), 1501A–204.)*

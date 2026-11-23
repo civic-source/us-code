@@ -3,9 +3,10 @@ title: "Section 21111 - Establishment of National Strategy for Child Exploitatio
 usc_title: 34
 usc_section: "21111"
 chapter: 211
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 21111"
-generated_at: "2026-03-30T02:55:33.302Z"
+generated_at: "2026-11-23T21:26:09.807Z"
+status: "active"
 ---
 
 # § 21111. Establishment of National Strategy for Child Exploitation Prevention and Interdiction
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:55:33.302Z"
     - **(B)** working to ensure that there is proper coordination among agencies in developing the National Strategy;
     - **(C)** being knowledgeable about budget priorities and familiar with all efforts within the Department of Justice and the FBI related to child exploitation prevention and interdiction; and
     - **(D)** communicating the National Strategy to Congress and being available to answer questions related to the strategy at congressional hearings, if requested by committees of appropriate jurisdictions, on the contents of the National Strategy and progress of the Department of Justice in implementing the National Strategy.
+
+## Source Credit
+
+*([Pub. L. 110–401, title I, § 101](https://www.govinfo.gov/link/plaw/110/public/401), Oct. 13, 2008, [122 Stat. 4230](https://www.govinfo.gov/link/statute/122/4230); [Pub. L. 112–206, § 6](https://www.govinfo.gov/link/plaw/112/public/206), Dec. 7, 2012, [126 Stat. 1493](https://www.govinfo.gov/link/statute/126/1493); [Pub. L. 119–60, div. H, title LXXXII, § 8202(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1840](https://www.govinfo.gov/link/statute/139/1840).)*

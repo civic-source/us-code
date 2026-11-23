@@ -3,9 +3,10 @@ title: "Section 55112 - Vessel escort operations and towing assistance"
 usc_title: 46
 usc_section: "55112"
 chapter: 551
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 55112"
-generated_at: "2026-03-30T02:56:15.579Z"
+generated_at: "2026-11-23T21:26:37.303Z"
+status: "active"
 ---
 
 # § 55112. Vessel escort operations and towing assistance
@@ -19,3 +20,30 @@ generated_at: "2026-03-30T02:56:15.579Z"
   - **(2)** in the case of a vessel being towed under section 55111 of this title , any vessel that is assigned and dedicated to the vessel being towed in addition to any towing vessel required under that section.
 - **(c)** This section does not affect section 55111 of this title .
 - **(d)** A person violating this section is liable to the Government for a civil penalty of not more than $10,000 for each day during which the violation occurs.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 55112 | 46 App.:316a. | Pub. L. 107–295, title IV, § 404 , Nov. 25, 2002 , 116 Stat. 2114 . |
+
+
+In General
+
+Escort Vessels
+
+Relationship to Other Law
+
+Penalty
+
+Historical and Revision Notes
+
+55112
+
+Pub. L. 107–295, title IV, § 404
+
+Nov. 25, 2002
+
+116 Stat. 2114
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1638](https://www.govinfo.gov/link/statute/120/1638); [Pub. L. 116–260, div. AA, title V, § 512(c)(6)(D)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2757](https://www.govinfo.gov/link/statute/134/2757).)*

@@ -3,9 +3,10 @@ title: "Section 6209 - Initial referendum"
 usc_title: 7
 usc_section: "6209"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6209"
-generated_at: "2026-03-30T02:53:42.427Z"
+generated_at: "2026-11-23T21:25:28.384Z"
+status: "active"
 ---
 
 # § 6209. Initial referendum
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:42.427Z"
       - **(i)** if demand is made personally, in accordance with regulations and on a form and within a time period prescribed by the Board, but in no event less than 90 days after the date of publication of the results of the referendum; and
       - **(ii)** on submission of proof satisfactory to the Board that the person paid the assessment for which refund is sought and did not collect the assessment from another person.
     - **(C)** Any funds not refunded under this paragraph shall be released to be used to carry out this chapter.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1960](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3879](https://www.govinfo.gov/link/statute/104/3879); [Pub. L. 103–194, § 5](https://www.govinfo.gov/link/plaw/103/public/194), Dec. 14, 1993, [107 Stat. 2295](https://www.govinfo.gov/link/statute/107/2295).)*

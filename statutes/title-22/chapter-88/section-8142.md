@@ -3,9 +3,10 @@ title: "Section 8142 - Penalties"
 usc_title: 22
 usc_section: "8142"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8142"
-generated_at: "2026-03-30T02:55:05.449Z"
+generated_at: "2026-11-23T21:25:58.734Z"
+status: "active"
 ---
 
 # § 8142. Penalties
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:05.449Z"
     - **(B)** In any such civil action, the validity and appropriateness of the final order shall not be subject to review.
     - **(C)** Payment of penalties assessed in a final order under this section shall include interest at currently prevailing rates calculated from the date of expiration of the 60-day period referred to in paragraph (3) or the date of such final order, as the case may be.
 - **(b)** Any person who violates section 8124 of this title or section 8141 of this title may, in addition to or in lieu of any civil penalty which may be imposed under subsection (a) for such violation, be fined under title 18, imprisoned for not more than five years, or both.
+
+## Source Credit
+
+*([Pub. L. 109–401, title II, § 242](https://www.govinfo.gov/link/plaw/109/public/401), Dec. 18, 2006, [120 Stat. 2747](https://www.govinfo.gov/link/statute/120/2747).)*

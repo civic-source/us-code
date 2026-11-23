@@ -3,9 +3,10 @@ title: "Section 3642 - Appointment and compensation; duties"
 usc_title: 22
 usc_section: "3642"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3642"
-generated_at: "2026-03-30T02:55:05.395Z"
+generated_at: "2026-11-23T21:25:58.590Z"
+status: "active"
 ---
 
 # § 3642. Appointment and compensation; duties
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.395Z"
   - **(1)** as provided in a collective bargaining agreement;
   - **(2)** as a result of an adverse action against the officer or employee; or
   - **(3)** pursuant to a voluntary demotion.
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1202](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 461](https://www.govinfo.gov/link/statute/93/461); [Pub. L. 104–201, div. C, title XXXV, § 3526](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2861](https://www.govinfo.gov/link/statute/110/2861); [Pub. L. 105–85, div. C, title XXXV, § 3523(b)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 2065](https://www.govinfo.gov/link/statute/111/2065); [Pub. L. 105–261, div. C, title XXXV, § 3512(a)(1)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2271](https://www.govinfo.gov/link/statute/112/2271).)*

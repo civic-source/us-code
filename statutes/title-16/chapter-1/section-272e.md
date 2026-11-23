@@ -3,9 +3,10 @@ title: "Section 272e - Omitted"
 usc_title: 16
 usc_section: "272e"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 272e"
-generated_at: "2026-03-30T02:54:22.747Z"
+generated_at: "2026-11-23T21:25:51.404Z"
+status: "omitted"
 ---
 
 # § 272e. Omitted

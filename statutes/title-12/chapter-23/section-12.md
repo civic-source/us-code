@@ -3,9 +3,10 @@ title: "Section 12 - Securities in credit enhanced pools"
 usc_title: 12
 usc_section: "12"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 12"
-generated_at: "2026-03-30T02:53:53.484Z"
+generated_at: "2026-11-23T21:25:37.094Z"
+status: "active"
 ---
 
 # § 2279aa–12. Securities in credit enhanced pools
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:53.484Z"
 - **(d)** A provision of the Constitution or law of any State shall not apply to an agricultural loan made by an originator or a certified facility in accordance with this subchapter for sale to the Corporation or to a certified facility for inclusion in a pool for which the Corporation has provided, or has committed to provide, a guarantee, if the loan, not later than 180 days after the date the loan was made, is sold to the Corporation or included in a pool for which the Corporation has provided a guarantee, if the provision—
   - **(1)** limits the rate or amount of interest, discount points, finance charges, or other charges that may be charged, taken, received, or reserved by an agricultural lender or a certified facility; or
   - **(2)** limits or prohibits a prepayment penalty (either fixed or declining), yield maintenance, or make-whole payment that may be charged, taken, or received by an agricultural lender or a certified facility in connection with the full or partial payment of the principal amount due on a loan by a borrower in advance of the scheduled date for the payment under the terms of the loan, otherwise known as a prepayment of the loan principal.
+
+## Source Credit
+
+*([Pub. L. 92–181, title VIII, § 8](https://www.govinfo.gov/link/plaw/92/public/181).12, as added [Pub. L. 100–233, title VII, § 702](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1703](https://www.govinfo.gov/link/statute/101/1703); amended [Pub. L. 100–399, title VI, § 601(k)](https://www.govinfo.gov/link/plaw/100/public/399), (l), Aug. 17, 1988, [102 Stat. 1006](https://www.govinfo.gov/link/statute/102/1006); [Pub. L. 104–105, title I, § 112](https://www.govinfo.gov/link/plaw/104/public/105), Feb. 10, 1996, [110 Stat. 165](https://www.govinfo.gov/link/statute/110/165).)*

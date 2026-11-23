@@ -3,9 +3,10 @@ title: "Section 4105 - Prisoners of war"
 usc_title: 50
 usc_section: "4105"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4105"
-generated_at: "2026-03-30T02:56:26.266Z"
+generated_at: "2026-11-23T21:26:39.086Z"
+status: "active"
 ---
 
 # § 4105. Prisoners of war
@@ -62,3 +63,15 @@ generated_at: "2026-03-30T02:56:26.266Z"
   - **(6)** Any claim allowed under the provisions of this subsection shall be paid from funds appropriated pursuant to paragraph (7) of this subsection.
   - **(7)** There are authorized to be appropriated such amounts as may be necessary to carry out the purposes of this subsection, including necessary administrative expenses.
 - **(g)** Where any person entitled to payment under this section is under any legal disability, payment may be made in accordance with the provisions of subsection (e) of section 4104 of this title .
+
+Authority To Make Payments
+
+Eligible Persons
+
+Amount of Payment
+
+One-Year Period for Submission of Applications
+
+## Source Credit
+
+*(July 3, 1948, ch. 826, title I, § 6, [62 Stat. 1244](https://www.govinfo.gov/link/statute/62/1244); Sept. 30, 1950, ch. 1116, [64 Stat. 1090](https://www.govinfo.gov/link/statute/64/1090); Apr. 9, 1952, ch. 167, § 1, [66 Stat. 47](https://www.govinfo.gov/link/statute/66/47); Apr. 9, 1952, ch. 168, § 2, [66 Stat. 49](https://www.govinfo.gov/link/statute/66/49); Aug. 21, 1954, ch. 784, § 2, [68 Stat. 761](https://www.govinfo.gov/link/statute/68/761); Aug. 31, 1954, ch. 1162, title I, § 102(a)(1), [68 Stat. 1034](https://www.govinfo.gov/link/statute/68/1034); [Pub. L. 87–846, title I, § 102](https://www.govinfo.gov/link/plaw/87/public/846), Oct. 22, 1962, [76 Stat. 1107](https://www.govinfo.gov/link/statute/76/1107); [Pub. L. 91–289](https://www.govinfo.gov/link/plaw/91/public/289), §§ 1, 2, June 24, 1970, [84 Stat. 323](https://www.govinfo.gov/link/statute/84/323).)*

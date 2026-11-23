@@ -3,9 +3,10 @@ title: "Section 3604 - Exemptions"
 usc_title: 15
 usc_section: "3604"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3604"
-generated_at: "2026-03-30T02:54:08.191Z"
+generated_at: "2026-11-23T21:25:39.971Z"
+status: "active"
 ---
 
 # § 3604. Exemptions
@@ -17,3 +18,7 @@ The provisions of this chapter shall not apply to—
   - **(3)** any lease or portion thereof—
     - **(A)** which establishes any leasehold or other estate or interest in, over or under land on or in which one or more residential condominium or cooperative units are located, the termination of which will terminate the condominium or cooperative project, or reduce the number of units in such project, or
     - **(B)** which establishes a leasehold interest in, or other rights to use, possess, or gain access to, a condominium or cooperative unit.
+
+## Source Credit
+
+*([Pub. L. 96–399, title VI, § 605](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1675](https://www.govinfo.gov/link/statute/94/1675).)*

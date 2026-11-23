@@ -3,9 +3,10 @@ title: "Section 3601 - Congressional statement of findings and purposes"
 usc_title: 20
 usc_section: "3601"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 3601"
-generated_at: "2026-03-30T02:54:48.180Z"
+generated_at: "2026-11-23T21:25:47.418Z"
+status: "active"
 ---
 
 # § 3601. Congressional statement of findings and purposes
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:48.180Z"
   - **(3)** provide scientific, technical, and financial assistance to State educational agencies and local educational agencies to enable them to conduct an asbestos detection program to identify asbestos hazards in schools;
   - **(4)** provide loans to local educational agencies for the mitigation of asbestos hazards which constitute an imminent hazard to the health and safety of school children and employees; and
   - **(5)** assure that no employee of any local educational agency suffers any disciplinary action as a result of calling attention to potential asbestos hazards which may exist in schools.
+
+## Source Credit
+
+*([Pub. L. 96–270, § 2](https://www.govinfo.gov/link/plaw/96/public/270), June 14, 1980, [94 Stat. 487](https://www.govinfo.gov/link/statute/94/487).)*

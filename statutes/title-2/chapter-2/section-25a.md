@@ -3,9 +3,10 @@ title: "Section 25a - Delegate to House of Representatives from District of Colu
 usc_title: 2
 usc_section: "25a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 25a"
-generated_at: "2026-03-30T02:53:04.785Z"
+generated_at: "2026-11-23T21:25:21.108Z"
+status: "active"
 ---
 
 # § 25a. Delegate to House of Representatives from District of Columbia
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:04.785Z"
   - **(2)** he is at least twenty-five years of age;
   - **(3)** he holds no other paid public office; and
   - **(4)** he has resided in the District of Columbia continuously since the beginning of the three-year period ending on such date.
+
+## Source Credit
+
+*([Pub. L. 91–405, title II, § 202](https://www.govinfo.gov/link/plaw/91/public/405), Sept. 22, 1970, [84 Stat. 848](https://www.govinfo.gov/link/statute/84/848).)*

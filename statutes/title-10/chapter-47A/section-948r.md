@@ -3,9 +3,10 @@ title: "Section 948r - Exclusion of statements obtained by torture or cruel, inh
 usc_title: 10
 usc_section: "948r"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 948r"
-generated_at: "2026-03-30T02:53:38.089Z"
+generated_at: "2026-11-23T21:25:32.360Z"
+status: "active"
 ---
 
 # § 948r. Exclusion of statements obtained by torture or cruel, inhuman, or degrading treatment; prohibition of self-incrimination; admission of other statements of the accused
@@ -21,3 +22,15 @@ generated_at: "2026-03-30T02:53:38.089Z"
   - **(1)** The details of the taking of the statement, accounting for the circumstances of the conduct of military and intelligence operations during hostilities.
   - **(2)** The characteristics of the accused, such as military training, age, and education level.
   - **(3)** The lapse of time, change of place, or change in identity of the questioners between the statement sought to be admitted and any prior questioning of the accused.
+
+Exclusion of Statements Obtain by Torture or Cruel, Inhuman, or Degrading Treatment
+
+Self-incrimination Prohibited
+
+Other Statements of the Accused
+
+Determination of Voluntariness
+
+## Source Credit
+
+*(Added by [Pub. L. 111–84, div. A, title XVIII, § 1802](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2580](https://www.govinfo.gov/link/statute/123/2580).)*

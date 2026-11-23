@@ -3,9 +3,10 @@ title: "Section 5341 - National money laundering and related financial crimes st
 usc_title: 31
 usc_section: "5341"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 5341"
-generated_at: "2026-03-30T02:55:34.071Z"
+generated_at: "2026-11-23T21:26:10.631Z"
+status: "active"
 ---
 
 # § 5341. National money laundering and related financial crimes strategy
@@ -43,3 +44,45 @@ generated_at: "2026-03-30T02:55:34.071Z"
   - **(8)** any other State or local government authority, to the extent appropriate;
   - **(9)** any other Federal Government authority or instrumentality, to the extent appropriate; and
   - **(10)** representatives of the private financial services sector, to the extent appropriate.
+
+Development and Transmittal to Congress.—
+
+Development
+
+Transmittal to congress
+
+Separate presentation of classified material
+
+Development of Strategy
+
+Goals, objectives, and priorities
+
+Prevention
+
+Detection and prosecution initiatives
+
+Enhancement of the role of the private financial sector in prevention
+
+Enhancement of intergovernmental cooperation
+
+Project and budget priorities
+
+Assessment of funding
+
+Designated areas
+
+Persons consulted
+
+Data regarding trends in money laundering and related financial crimes
+
+Improved communications systems
+
+Data regarding funding of terrorism
+
+Effectiveness Report
+
+Consultations
+
+## Source Credit
+
+*(Added [Pub. L. 105–310, § 2(a)](https://www.govinfo.gov/link/plaw/105/public/310), Oct. 30, 1998, [112 Stat. 2942](https://www.govinfo.gov/link/statute/112/2942); amended [Pub. L. 107–56, title III, § 354](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 323](https://www.govinfo.gov/link/statute/115/323); [Pub. L. 108–458, title VI, § 6102(a)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3744](https://www.govinfo.gov/link/statute/118/3744).)*

@@ -3,9 +3,10 @@ title: "Section 1851 - Prohibitions on proprietary trading and certain relations
 usc_title: 12
 usc_section: "1851"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1851"
-generated_at: "2026-03-30T02:53:53.469Z"
+generated_at: "2026-11-23T21:25:37.044Z"
+status: "active"
 ---
 
 # § 1851. Prohibitions on proprietary trading and certain relationships with hedge funds and private equity funds
@@ -133,3 +134,7 @@ generated_at: "2026-03-30T02:53:53.469Z"
       - **(i)** as of May 1, 2010 , was principally invested in, or was invested and contractually committed to principally invest in, illiquid assets, such as portfolio companies, real estate investments, and venture capital investments; and
       - **(ii)** makes all investments pursuant to, and consistent with, an investment strategy to principally invest in illiquid assets. In issuing rules regarding this subparagraph, the Board shall take into consideration the terms of investment for the hedge fund or private equity fund, including contractual obligations, the ability of the fund to divest of assets held by the fund, and any other factors that the Board determines are appropriate.
     - **(B)** For the purposes of this paragraph, the term “hedge fund” means any fund identified under subsection (h)(2), and does not include a private equity fund, as such term is used in section 80b–3(m) of title 15 .
+
+## Source Credit
+
+*(May 9, 1956, ch. 240, § 13, as added [Pub. L. 111–203, title VI, § 619](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1620](https://www.govinfo.gov/link/statute/124/1620); amended [Pub. L. 115–174, title II](https://www.govinfo.gov/link/plaw/115/public/174), §§ 203, 204, May 24, 2018, [132 Stat. 1309](https://www.govinfo.gov/link/statute/132/1309).)*

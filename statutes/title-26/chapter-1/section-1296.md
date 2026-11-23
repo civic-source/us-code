@@ -3,9 +3,10 @@ title: "Section 1296 - Election of mark to market for marketable stock"
 usc_title: 26
 usc_section: "1296"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1296"
-generated_at: "2026-03-30T02:55:27.767Z"
+generated_at: "2026-11-23T21:26:06.488Z"
+status: "active"
 ---
 
 # § 1296. Election of mark to market for marketable stock
@@ -67,3 +68,7 @@ generated_at: "2026-03-30T02:55:27.767Z"
   - **(1)** such stock ceases to be marketable stock, or
   - **(2)** the Secretary consents to the revocation of such election.
 - **(l)** If any individual becomes a United States person in a taxable year beginning after December 31, 1997 , solely for purposes of this section, the adjusted basis (before adjustments under subsection (b)) of any marketable stock in a passive foreign investment company owned by such individual on the first day of such taxable year shall be treated as being the greater of its fair market value on such first day or its adjusted basis on such first day.
+
+## Source Credit
+
+*(Added [Pub. L. 105–34, title XI, § 1122(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 972](https://www.govinfo.gov/link/statute/111/972); amended [Pub. L. 105–206, title VI, § 6011(c)(3)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 818](https://www.govinfo.gov/link/statute/112/818); [Pub. L. 107–16, title V, § 542(e)(5)(C)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 85](https://www.govinfo.gov/link/statute/115/85); [Pub. L. 108–311, title IV, § 408(a)(19)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1192](https://www.govinfo.gov/link/statute/118/1192); [Pub. L. 111–312, title III, § 301(a)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3300](https://www.govinfo.gov/link/statute/124/3300).)*

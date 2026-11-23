@@ -3,9 +3,10 @@ title: "Section 2332f - Bombings of places of public use, government facilities,
 usc_title: 18
 usc_section: "2332f"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2332f"
-generated_at: "2026-03-30T02:54:16.503Z"
+generated_at: "2026-11-23T21:25:44.146Z"
+status: "active"
 ---
 
 # § 2332f. Bombings of places of public use, government facilities, public transportation systems and infrastructure facilities
@@ -52,3 +53,21 @@ generated_at: "2026-03-30T02:54:16.503Z"
   - **(10)** “military forces of a state” means the armed forces of a state which are organized, trained, and equipped under its internal law for the primary purpose of national defense or security, and persons acting in support of those armed forces who are under their formal command, control, and responsibility;
   - **(11)** “armed conflict” does not include internal disturbances and tensions, such as riots, isolated and sporadic acts of violence, and other acts of a similar nature; and
   - **(12)** “state” has the same meaning as that term has under international law, and includes all political subdivisions thereof.
+
+Offenses.—
+
+In general
+
+Attempts and conspiracies
+
+Jurisdiction
+
+Penalties
+
+Exemptions to Jurisdiction
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 107–197, title I, § 102(a)](https://www.govinfo.gov/link/plaw/107/public/197), June 25, 2002, [116 Stat. 721](https://www.govinfo.gov/link/statute/116/721).)*

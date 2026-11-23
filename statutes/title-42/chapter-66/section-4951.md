@@ -3,12 +3,17 @@ title: "Section 4951 - Congressional statement of purpose"
 usc_title: 42
 usc_section: "4951"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4951"
-generated_at: "2026-03-30T02:56:11.211Z"
+generated_at: "2026-11-23T21:26:32.702Z"
+status: "active"
 ---
 
 # § 4951. Congressional statement of purpose
 
 This part provides for the Volunteers in Service to America (VISTA) program of full-time volunteer service, together with appropriate powers and responsibilities designed to assist in the development and coordination of such program. The purpose of this part is to strengthen and supplement efforts to eliminate and alleviate poverty and poverty-related problems in the United States by encouraging and enabling persons from all walks of life, all geographical areas, and all age groups, including low-income individuals, elderly and retired Americans, to perform meaningful and constructive volunteer service in agencies, institutions, and situations where the application of human talent and dedication may assist in the solution of poverty and poverty-related problems and secure and increase opportunities for self-advancement by persons affected by such problems. In addition, the objectives of this part are to generate the commitment of private sector resources, to encourage volunteer service at the local level, to support efforts by local agencies and community organizations to achieve long-term sustainability of projects, and to strengthen local agencies and community organizations to carry out the objectives of this part.
 
+
+## Source Credit
+
+*([Pub. L. 93–113, title I, § 101](https://www.govinfo.gov/link/plaw/93/public/113), Oct. 1, 1973, [87 Stat. 396](https://www.govinfo.gov/link/statute/87/396); [Pub. L. 98–288, § 2](https://www.govinfo.gov/link/plaw/98/public/288), May 21, 1984, [98 Stat. 189](https://www.govinfo.gov/link/statute/98/189); [Pub. L. 103–82, title III, § 321](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 899](https://www.govinfo.gov/link/statute/107/899); [Pub. L. 111–13, title II, § 2101](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1581](https://www.govinfo.gov/link/statute/123/1581).)*

@@ -3,9 +3,10 @@ title: "Section 1412 - Dumping permit program"
 usc_title: 33
 usc_section: "1412"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1412"
-generated_at: "2026-03-30T02:55:41.105Z"
+generated_at: "2026-11-23T21:26:11.402Z"
+status: "active"
 ---
 
 # § 1412. Dumping permit program
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:41.105Z"
   - **(5)** The Administrator shall develop a site management plan for any site designated prior to January 1, 1995 , as expeditiously as practicable, but not later than January 1, 1997 , giving priority consideration to management plans for designated sites that are considered to have the greatest impact on the environment.
 - **(d)** No permit is required under this subchapter for the transportation for dumping or the dumping of fish wastes, except when deposited in harbors or other protected or enclosed coastal waters, or where the Administrator finds that such deposits could endanger health, the environment, or ecological systems in a specific location. Where the Administrator makes such a finding, such material may be deposited only as authorized by a permit issued by the Administrator under this section.
 - **(e)** In the case of transportation of material, by an agency or instrumentality of the United States or by a vessel or aircraft registered in the United States or flying the United States flag, from a location in a foreign State Party to the Convention, a permit issued pursuant to the authority of that foreign State Party, in accordance with Convention requirements, and which otherwise could have been issued pursuant to subsection (a) of this section, shall be accepted, for the purposes of this subchapter, as if it were issued by the Administrator under the authority of this section: Provided , That in the case of an agency or instrumentality of the United States, no application shall be made for a permit to be issued pursuant to the authority of a foreign State Party to the Convention unless the Administrator concurs in the filing of such application.
+
+## Source Credit
+
+*([Pub. L. 92–532, title I, § 102](https://www.govinfo.gov/link/plaw/92/public/532), Oct. 23, 1972, [86 Stat. 1054](https://www.govinfo.gov/link/statute/86/1054); [Pub. L. 93–254, § 1(4)](https://www.govinfo.gov/link/plaw/93/public/254), Mar. 22, 1974, [88 Stat. 51](https://www.govinfo.gov/link/statute/88/51); [Pub. L. 96–572, § 3](https://www.govinfo.gov/link/plaw/96/public/572), Dec. 22, 1980, [94 Stat. 3345](https://www.govinfo.gov/link/statute/94/3345); [Pub. L. 100–688, title III, § 3201(b)](https://www.govinfo.gov/link/plaw/100/public/688), Nov. 18, 1988, [102 Stat. 4153](https://www.govinfo.gov/link/statute/102/4153); [Pub. L. 102–580, title V, § 506(a)](https://www.govinfo.gov/link/plaw/102/public/580), Oct. 31, 1992, [106 Stat. 4868](https://www.govinfo.gov/link/statute/106/4868); [Pub. L. 104–303, title V, § 582](https://www.govinfo.gov/link/plaw/104/public/303), Oct. 12, 1996, [110 Stat. 3791](https://www.govinfo.gov/link/statute/110/3791); [Pub. L. 106–53, title V, § 562](https://www.govinfo.gov/link/plaw/106/public/53), Aug. 17, 1999, [113 Stat. 355](https://www.govinfo.gov/link/statute/113/355); [Pub. L. 110–114, title V, § 5046](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1209](https://www.govinfo.gov/link/statute/121/1209).)*

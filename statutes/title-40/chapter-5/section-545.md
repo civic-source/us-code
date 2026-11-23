@@ -3,9 +3,10 @@ title: "Section 545 - Procedure for disposal"
 usc_title: 40
 usc_section: "545"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 545"
-generated_at: "2026-03-30T02:55:43.374Z"
+generated_at: "2026-11-23T21:26:14.805Z"
+status: "active"
 ---
 
 # § 545. Procedure for disposal
@@ -47,3 +48,86 @@ generated_at: "2026-03-30T02:55:43.374Z"
   - **(2)** The explanatory statement shall be transmitted to the appropriate committees of Congress in advance of the disposal, and a copy of the statement shall be preserved in the files of the executive agency making the disposal.
   - **(3)** A report of the Administrator under section 126 of this title must include a listing and description of any negotiated disposals of surplus property having an estimated fair market value of more than $15,000, in the case of real property, or $5,000, in the case of any other property, other than disposals for which an explanatory statement has been transmitted under this subsection.
 - **(f)** Section 6101(b)–(d) of title 41 does not apply to a disposal or contract for disposal made under this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 545 | 40:484(e). | June 30, 1949, ch. 288 , title II, § 203(e), 63 Stat. 386 ; July 12, 1952, ch. 703, § 1(i) , 66 Stat. 593 ; Aug. 8, 1953, ch. 399 , 67 Stat. 521 ; July 14, 1954, ch. 481 , 68 Stat. 474 ; Aug. 3, 1956, ch. 942 , 70 Stat. 1020 ; Pub. L. 85–486 , July 2, 1958 , 72 Stat. 288 ; Pub. L. 100–612 , §§ 3, 4, Nov. 5, 1988 , 102 Stat. 3180 . |
+
+
+Public Advertising for Bids.—
+
+Requirement.—
+
+In general
+
+Exceptions
+
+Time, method, and terms
+
+Public disclosure
+
+Awards
+
+Negotiated Disposal
+
+Disposal Through Contract Brokers
+
+Negotiated Sale at Fixed Price.—
+
+Authorization
+
+First offer
+
+Explanatory Statements for Negotiated Disposals.—
+
+Requirement.—
+
+In general
+
+Exception
+
+Transmittal to congress
+
+Listing in report
+
+Applicability of Other Law
+
+Historical and Revision Notes
+
+545
+
+June 30, 1949, ch. 288
+
+63 Stat. 386
+
+July 12, 1952, ch. 703, § 1(i)
+
+66 Stat. 593
+
+Aug. 8, 1953, ch. 399
+
+67 Stat. 521
+
+July 14, 1954, ch. 481
+
+68 Stat. 474
+
+Aug. 3, 1956, ch. 942
+
+70 Stat. 1020
+
+Pub. L. 85–486
+
+July 2, 1958
+
+72 Stat. 288
+
+Pub. L. 100–612
+
+Nov. 5, 1988
+
+102 Stat. 3180
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1087](https://www.govinfo.gov/link/statute/116/1087); [Pub. L. 111–350, § 5](https://www.govinfo.gov/link/plaw/111/public/350) (l)(10), Jan. 4, 2011, [124 Stat. 3852](https://www.govinfo.gov/link/statute/124/3852).)*

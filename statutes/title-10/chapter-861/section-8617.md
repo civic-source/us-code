@@ -3,9 +3,10 @@ title: "Section 8617 - National Museum of the United States Navy"
 usc_title: 10
 usc_section: "8617"
 chapter: 861
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 8617"
-generated_at: "2026-03-30T02:53:38.246Z"
+generated_at: "2026-11-23T21:25:32.933Z"
+status: "active"
 ---
 
 # § 8617. National Museum of the United States Navy
@@ -38,3 +39,35 @@ generated_at: "2026-03-30T02:53:38.246Z"
   - **(2)** The term “museum” means the National Museum of the United States Navy, including its facilities and grounds.
   - **(3)** The term “Navy indicator” includes trademarks and service marks, names, identities, abbreviations, official insignia, seals, emblems, and acronyms of the Navy and Marine Corps, including underlying units, and specifically includes the term “National Museum of the United States Navy”.
   - **(4)** The term “partner organization” means an eligible nonprofit organization with whom the Secretary of the Navy enters into a contract, cooperative agreement, or other agreement under subsection (a) or a lease under subsection (d).
+
+Authority to Support Development and Operation of Museum
+
+Purposes of Museum
+
+Acceptance Upon Completion
+
+Lease Authority
+
+Authority to Accept Gifts
+
+Additional Terms and Conditions
+
+Use of Navy Indicators
+
+Definitions
+
+Leases and Licenses Authorized
+
+Limitation
+
+Consideration
+
+Deposit and Use of Proceeds
+
+Additional Terms and Conditions
+
+United States Navy Museum
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. B, title XXVIII, § 2821](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2195](https://www.govinfo.gov/link/statute/135/2195).)*

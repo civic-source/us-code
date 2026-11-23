@@ -3,9 +3,10 @@ title: "Section 183 - Disputes within jurisdiction of Mediation Board"
 usc_title: 45
 usc_section: "183"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 183"
-generated_at: "2026-03-30T02:55:56.544Z"
+generated_at: "2026-11-23T21:26:19.188Z"
+status: "active"
 ---
 
 # § 183. Disputes within jurisdiction of Mediation Board
@@ -14,3 +15,7 @@ The parties or either party to a dispute between an employee or a group of emplo
 
 - **(a)** A dispute concerning changes in rates of pay, rules, or working conditions not adjusted by the parties in conference.
 - **(b)** Any other dispute not referable to an adjustment board, as hereinafter provided, and not adjusted in conference between the parties, or where conferences are refused. The National Mediation Board may proffer its services in case any labor emergency is found by it to exist at any time. The services of the Mediation Board may be invoked in a case under this subchapter in the same manner and to the same extent as are the disputes covered by section 155 of this title .
+
+## Source Credit
+
+*(May 20, 1926, ch. 347, § 203, as added Apr. 10, 1936, ch. 166, [49 Stat. 1189](https://www.govinfo.gov/link/statute/49/1189).)*

@@ -3,9 +3,10 @@ title: "Section 1282 - Federal share"
 usc_title: 33
 usc_section: "1282"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1282"
-generated_at: "2026-03-30T02:55:41.087Z"
+generated_at: "2026-11-23T21:26:11.369Z"
+status: "active"
 ---
 
 # § 1282. Federal share
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:41.087Z"
   - **(1)** a sewage collection system that is a part of the same total waste treatment system as the treatment works for which such grant was approved is under construction or is to be constructed for use in conjunction with such treatment works, and if the cost of such sewage collection system exceeds the cost of such treatment works, and
   - **(2)** the State water pollution control agency or other appropriate State authority certifies that the quantity of available ground water will be insufficient, inadequate, or unsuitable for public use, including the ecological preservation and recreational use of surface water bodies, unless effluents from publicly-owned treatment works after adequate treatment are returned to the ground water consistent with acceptable technological standards.
 - **(c)** Notwithstanding any other provision of law, sums allotted to the Commonwealth of Puerto Rico under section 1285 of this title for fiscal year 1981 shall remain available for obligation for the fiscal year for which authorized and for the period of the next succeeding twenty-four months. Such sums and any unobligated funds available to Puerto Rico from allotments for fiscal years ending prior to October 1, 1981 , shall be available for obligation by the Administrator of the Environmental Protection Agency only to fund the following systems: Aguadilla, Arecibo, Mayaguez, Carolina, and Camuy Hatillo. These funds may be used by the commonwealth of Puerto Rico to fund the non-Federal share of the costs of such projects. To the extent that these funds are used to pay the non-Federal share, the Commonwealth of Puerto Rico shall repay to the Environmental Protection Agency such amounts on terms and conditions developed and approved by the Administrator in consultation with the Governor of the Commonwealth of Puerto Rico. Agreement on such terms and conditions, including the payment of interest to be determined by the Secretary of the Treasury, shall be reached prior to the use of these funds for the Commonwealth’s non-Federal share. No Federal funds awarded under this provision shall be used to replace local governments funds previously expended on these projects.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title II, § 202, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 834](https://www.govinfo.gov/link/statute/86/834); amended [Pub. L. 95–217, § 17](https://www.govinfo.gov/link/plaw/95/public/217), Dec. 27, 1977, [91 Stat. 1571](https://www.govinfo.gov/link/statute/91/1571); [Pub. L. 96–483, § 9](https://www.govinfo.gov/link/plaw/96/public/483), Oct. 21, 1980, [94 Stat. 2362](https://www.govinfo.gov/link/statute/94/2362); [Pub. L. 97–117](https://www.govinfo.gov/link/plaw/97/public/117), §§ 7, 8(a), (b), Dec. 29, 1981, [95 Stat. 1625](https://www.govinfo.gov/link/statute/95/1625); [Pub. L. 97–357, title V, § 501](https://www.govinfo.gov/link/plaw/97/public/357), Oct. 19, 1982, [96 Stat. 1712](https://www.govinfo.gov/link/statute/96/1712); [Pub. L. 100–4, title II, § 202(a)](https://www.govinfo.gov/link/plaw/100/public/4) –(d), Feb. 4, 1987, [101 Stat. 15](https://www.govinfo.gov/link/statute/101/15), 16.)*

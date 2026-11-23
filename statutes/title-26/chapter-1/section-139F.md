@@ -3,9 +3,10 @@ title: "Section 139F - Certain amounts received by wrongfully incarcerated indiv
 usc_title: 26
 usc_section: "139F"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 139F"
-generated_at: "2026-03-30T02:55:27.629Z"
+generated_at: "2026-11-23T21:26:06.015Z"
+status: "active"
 ---
 
 # § 139F. Certain amounts received by wrongfully incarcerated individuals
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:27.629Z"
       - **(i)** for whom the judgment of conviction for that covered offense was reversed or vacated, and
       - **(ii)** for whom the indictment, information, or other accusatory instrument for that covered offense was dismissed or who was found not guilty at a new trial after the judgment of conviction for that covered offense was reversed or vacated.
 - **(c)** For purposes of this section, the term “covered offense” means any criminal offense under Federal or State law, and includes any criminal offense arising from the same course of conduct as that criminal offense.
+
+## Source Credit
+
+*(Added [Pub. L. 114–113, div. Q, title III, § 304(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3087](https://www.govinfo.gov/link/statute/129/3087).)*

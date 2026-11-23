@@ -3,9 +3,10 @@ title: "Section 3572 - Imposition of a sentence of fine and related matters"
 usc_title: 18
 usc_section: "3572"
 chapter: 227
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3572"
-generated_at: "2026-03-30T02:54:16.520Z"
+generated_at: "2026-11-23T21:25:44.210Z"
+status: "active"
 ---
 
 # § 3572. Imposition of a sentence of fine and related matters
@@ -36,3 +37,25 @@ generated_at: "2026-03-30T02:54:16.520Z"
   - **(3)** restrain the defendant from transferring or dissipating assets.
 - **(h)** A fine or payment of restitution is delinquent if a payment is more than 30 days late.
 - **(i)** A fine or payment of restitution is in default if a payment is delinquent for more than 90 days. Notwithstanding any installment schedule, when a fine or payment of restitution is in default, the entire amount of the fine or restitution is due within 30 days after notification of the default, subject to the provisions of section 3613A.
+
+Factors To Be Considered
+
+Fine Not to Impair Ability to Make Restitution
+
+Effect of Finality of Judgment
+
+Time, Method of Payment, and Related Items
+
+Alternative Sentence Precluded
+
+Responsibility for Payment of Monetary Obligation Relating to Organization
+
+Security for Stayed Fine
+
+Delinquency
+
+Default
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 212(a)(2)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 1995](https://www.govinfo.gov/link/statute/98/1995); amended [Pub. L. 100–185, § 7](https://www.govinfo.gov/link/plaw/100/public/185), Dec. 11, 1987, [101 Stat. 1280](https://www.govinfo.gov/link/statute/101/1280); [Pub. L. 101–647, title XXXV, § 3587](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4930](https://www.govinfo.gov/link/statute/104/4930); [Pub. L. 103–322, title II, § 20403(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1825](https://www.govinfo.gov/link/statute/108/1825); [Pub. L. 104–132, title II, § 207(b)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1236](https://www.govinfo.gov/link/statute/110/1236).)*

@@ -3,9 +3,10 @@ title: "Section 251a - State authority over fees"
 usc_title: 47
 usc_section: "251a"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 251a"
-generated_at: "2026-03-30T02:56:24.501Z"
+generated_at: "2026-11-23T21:26:35.959Z"
+status: "active"
 ---
 
 # § 251a. State authority over fees
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:24.501Z"
     - **(A)** an interconnected VoIP service, as defined in section 9.3 of the 1 1 So in original. title 47 of the Code of Federal Regulations, or any successor thereto; and
     - **(B)** a one-way interconnected VoIP service.
   - **(4)** The term “State” has the meaning given that term in section 615b of this title .
+
+## Source Credit
+
+*([Pub. L. 116–172, § 4](https://www.govinfo.gov/link/plaw/116/public/172), Oct. 17, 2020, [134 Stat. 833](https://www.govinfo.gov/link/statute/134/833).)*

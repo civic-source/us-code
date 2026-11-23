@@ -3,9 +3,10 @@ title: "Section 3405 - Special rules for pensions, annuities, and certain other 
 usc_title: 26
 usc_section: "3405"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 3405"
-generated_at: "2026-03-30T02:55:27.796Z"
+generated_at: "2026-11-23T21:26:06.584Z"
+status: "active"
 ---
 
 # § 3405. Special rules for pensions, annuities, and certain other deferred income
@@ -79,3 +80,21 @@ generated_at: "2026-03-30T02:55:27.796Z"
 - **(f)** For purposes of this chapter (and so much of subtitle F as relates to this chapter)—
   - **(1)** any designated distribution (whether or not an election under this section applies to such distribution) shall be treated as if it were wages paid by an employer to an employee with respect to which there has been withholding under section 3402, and
   - **(2)** in the case of any designated distribution not subject to withholding under this section by reason of an election under this section, the amount withheld shall be treated as zero.
+
+Amendment made by subsections
+
+and
+
+Amendments made by subsection
+
+Amendments made by subsection
+
+Periodic payments beginning before january 1, 1983
+
+Delay in application
+
+Waiver of penalty
+
+## Source Credit
+
+*(Added [Pub. L. 97–248, title III, § 334(a)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 623](https://www.govinfo.gov/link/statute/96/623); amended [Pub. L. 98–369, div. A, title V, § 542(c)](https://www.govinfo.gov/link/plaw/98/public/369), title VII, §§ 714(j)(1), (4), (5), 722(h)(4)(A), July 18, 1984, [98 Stat. 891](https://www.govinfo.gov/link/statute/98/891), 962, 963, 976; [Pub. L. 99–514, title XI, § 1102(e)(1)](https://www.govinfo.gov/link/plaw/99/public/514), title XII, § 1234(b)(1), title XVIII, § 1875(c)(10), Oct. 22, 1986, [100 Stat. 2416](https://www.govinfo.gov/link/statute/100/2416), 2566, 2895; [Pub. L. 100–647, title I, § 1012(bb)(2)(A)](https://www.govinfo.gov/link/plaw/100/public/647) –(C), Nov. 10, 1988, [102 Stat. 3534](https://www.govinfo.gov/link/statute/102/3534); [Pub. L. 102–318, title V](https://www.govinfo.gov/link/plaw/102/public/318), §§ 521(b)(36)–(40), 522(b)(1)–(2)(C), July 3, 1992, [106 Stat. 312–314](https://www.govinfo.gov/link/statute/106/312); [Pub. L. 104–188, title I, § 1704(t)(71)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1891](https://www.govinfo.gov/link/statute/110/1891); [Pub. L. 106–554, § 1(a)(7) [title III, § 314(b)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–643; [Pub. L. 107–16, title VI, § 641(a)(1)(D)(ii)](https://www.govinfo.gov/link/plaw/107/public/16), (iii), June 7, 2001, [115 Stat. 119](https://www.govinfo.gov/link/statute/115/119); [Pub. L. 115–97, title I, § 11041(c)(2)(F)](https://www.govinfo.gov/link/plaw/115/public/97), (G), Dec. 22, 2017, [131 Stat. 2084](https://www.govinfo.gov/link/statute/131/2084).)*

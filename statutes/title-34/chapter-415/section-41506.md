@@ -3,9 +3,10 @@ title: "Section 41506 - United States-Mexico Border Violence Task Force"
 usc_title: 34
 usc_section: "41506"
 chapter: 415
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 41506"
-generated_at: "2026-03-30T02:55:33.314Z"
+generated_at: "2026-11-23T21:26:09.849Z"
+status: "active"
 ---
 
 # § 41506. United States-Mexico Border Violence Task Force
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:33.314Z"
 - **(b)** There are authorized to be appropriated $10,000,000 for each of the fiscal years 2006 through 2009, for—
   - **(1)** the establishment and operation of the United States-Mexico Border Violence Task Force; and
   - **(2)** the investigation, apprehension, and prosecution of individuals engaged in drug and firearms trafficking, violence, and kidnapping along the border between the United States and Mexico.
+
+## Source Credit
+
+*([Pub. L. 109–162, title XI, § 1106](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3093](https://www.govinfo.gov/link/statute/119/3093).)*

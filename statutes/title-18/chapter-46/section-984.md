@@ -3,9 +3,10 @@ title: "Section 984 - Civil forfeiture of fungible property"
 usc_title: 18
 usc_section: "984"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 984"
-generated_at: "2026-03-30T02:54:16.478Z"
+generated_at: "2026-11-23T21:25:44.027Z"
+status: "active"
 ---
 
 # § 984. Civil forfeiture of fungible property
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:16.478Z"
     - **(A)** the term “financial institution” includes a foreign bank (as defined in section 1(b)(7) of the International Banking Act of 1978 ( 12 U.S.C. 3101(b)(7) )); 1 1 See References in Text note below. and
     - **(B)** the term “interbank account” means an account held by one financial institution at another financial institution primarily for the purpose of facilitating customer transactions.
 - **(d)** Nothing in this section may be construed to limit the ability of the Government to forfeit property under any provision of law if the property involved in the offense giving rise to the forfeiture or property traceable thereto is available for forfeiture.
+
+## Source Credit
+
+*(Added [Pub. L. 102–550, title XV, § 1522(a)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4063](https://www.govinfo.gov/link/statute/106/4063); amended [Pub. L. 103–325, title IV, § 411(c)(2)(E)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2253](https://www.govinfo.gov/link/statute/108/2253); [Pub. L. 106–185, § 13(a)](https://www.govinfo.gov/link/plaw/106/public/185), Apr. 25, 2000, [114 Stat. 218](https://www.govinfo.gov/link/statute/114/218).)*

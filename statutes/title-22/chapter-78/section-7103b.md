@@ -3,9 +3,10 @@ title: "Section 7103b - Survivors of Human Trafficking Empowerment Act"
 usc_title: 22
 usc_section: "7103b"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7103b"
-generated_at: "2026-03-30T02:55:05.436Z"
+generated_at: "2026-11-23T21:25:58.707Z"
+status: "active"
 ---
 
 # § 7103b. Survivors of Human Trafficking Empowerment Act
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:05.436Z"
   - **(2)** shall receive travel expenses, including per diem in lieu of subsistence, in accordance with the applicable provisions under subchapter I of chapter 57 of title 5; and
   - **(3)** may each receive compensation for each day such member is engaged in the actual performance of the duties of the Council.
 - **(g)** The Council shall not be subject to the requirements under the Federal Advisory Committee Act (5 U.S.C. App.). 1
+
+## Source Credit
+
+*([Pub. L. 114–22, title I, § 115](https://www.govinfo.gov/link/plaw/114/public/22), May 29, 2015, [129 Stat. 243](https://www.govinfo.gov/link/statute/129/243); [Pub. L. 115–425, title I, § 114](https://www.govinfo.gov/link/plaw/115/public/425), Jan. 8, 2019, [132 Stat. 5477](https://www.govinfo.gov/link/statute/132/5477); [Pub. L. 116–283, div. A, title XII, § 1299R(c)(1)](https://www.govinfo.gov/link/plaw/116/public/283), (2), Jan. 1, 2021, [134 Stat. 4027](https://www.govinfo.gov/link/statute/134/4027); [Pub. L. 117–348, title I, § 102](https://www.govinfo.gov/link/plaw/117/public/348), Jan. 5, 2023, [136 Stat. 6215](https://www.govinfo.gov/link/statute/136/6215).)*

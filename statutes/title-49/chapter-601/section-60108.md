@@ -3,9 +3,10 @@ title: "Section 60108 - Inspection and maintenance"
 usc_title: 49
 usc_section: "60108"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 60108"
-generated_at: "2026-03-30T02:56:19.413Z"
+generated_at: "2026-11-23T21:26:41.019Z"
+status: "active"
 ---
 
 # § 60108. Inspection and maintenance
@@ -77,3 +78,330 @@ generated_at: "2026-03-30T02:56:19.413Z"
 - **(e)** After the completion of a Pipeline and Hazardous Materials Safety Administration pipeline safety inspection, the Administrator of such Administration, or the State authority certified under section 60105 of title 49 , United States Code, to conduct such inspection, shall—
   - **(1)** within 30 days, conduct a post-inspection briefing with the owner or operator of the gas or hazardous liquid pipeline facility inspected outlining any concerns; and
   - **(2)** within 90 days, to the extent practicable, provide the owner or operator with written preliminary findings of the inspection.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60108(a)(1) | 49 App.:1680(a) (1st, 2d sentences). | Aug. 12, 1968 , Pub. L. 90–481, § 13(a) , 82 Stat. 726 ; Oct. 11, 1976 , Pub. L. 94–477, § 6 , 90 Stat. 2075 ; Nov. 30, 1979 , Pub. L. 96–129 , §§ 104(b), 105(a), 93 Stat. 992 , 994; Oct. 22, 1986 , Pub. L. 99–516, § 3(a)(2) , 100 Stat. 2966 ; Oct. 31, 1988 , Pub. L. 100–561, § 108(a)(1) , 102 Stat. 2808 ; Oct. 24, 1992 , Pub. L. 102–508, § 102(c) , 106 Stat. 3291 . |
+|  | 49 App.:2009(a) (1st, 2d sentences). | Nov. 30, 1979 , Pub. L. 96–129, § 210(a) , 93 Stat. 1011 ; Oct. 22, 1986 , Pub. L. 99–516, § 3(b)(2) , 100 Stat. 2966 ; Oct. 31, 1988 , Pub. L. 100–561, § 207(c) , 102 Stat. 2812 . |
+| 60108(a)(2) | 49 App.:1680(a) (3d–5th, last sentences). |  |
+|  | 49 App.:2009(a) (3d sentence 1st–18th words, last sentence). |  |
+|  | 49 App.:2009(b). | Nov. 30, 1979 , Pub. L. 96–129, § 210(b) , 93 Stat. 1012 ; Oct. 24, 1992 , Pub. L. 102–508, § 202(c)(1) , 106 Stat. 3301 . |
+| 60108(a)(3) | 49 App.:1680(a) (6th sentence). |  |
+|  | 49 App.:2009(a) (3d sentence 19th–last words). |  |
+| 60108(b)(1) | 49 App.:1680(b)(1) (1st sentence), (2). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 13(b); added Oct. 31, 1988 , Pub. L. 100–561, § 108(a)(2) , 102 Stat. 2808 . |
+|  | 49 App.:2009(d)(1) (1st sentence), (2). | Nov. 30, 1979 , Pub. L. 96–129 , 93 Stat. 989 , § 210(d); added Oct. 31, 1988 , Pub. L. 100–561, § 207(a) , 102 Stat. 2811 ; Oct. 24, 1992 , Pub. L. 102–508, § 202(c)(2) (related to § 210(d)(2)(D)), 106 Stat. 3301 . |
+| 60108(b)(2) | 49 App.:1680(b)(1) (2d, 3d sentences). |  |
+|  | 49 App.:2009(d)(1) (2d, 3d sentences). |  |
+| 60108(b)(3) | 49 App.:1680(b)(1) (last sentence). |  |
+|  | 49 App.:2009(d)(1) (last sentence). |  |
+| 60108(c)(1) | 49 App.:1672(h)(6)(A), (D). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 3(h)(6); added Oct. 24, 1992 , Pub. L. 102–508, § 117 , 106 Stat. 3298 . |
+|  | 49 App.:2002( l )(7)(A), (D). | Nov. 30, 1979 , Pub. L. 96–129 , 93 Stat. 989 , § 203( l )(7); added Oct. 24, 1992 , Pub. L. 102–508, § 216 , 106 Stat. 3306 . |
+| 60108(c) (2)(A) | 49 App.:1672(h)(3). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 3(h)(1)–(4); added Nov. 16, 1990 , Pub. L. 101–599, § 1(a) , 104 Stat. 3038 ; Oct. 24, 1992 , Pub. L. 102–508, § 108(1) –(4), 106 Stat. 3293 . |
+|  | 49 App.:2002( l )(3). | Nov. 30, 1979 , Pub. L. 96–129 , 93 Stat. 989 , § 203( l )(1)–(4); added Nov. 16, 1990 , Pub. L. 101–599, § 1(b) , 104 Stat. 3039 ; Oct. 24, 1992 , Pub. L. 102–508, § 207(1) –(4), 106 Stat. 3302 . |
+| 60108(c) (2)(B) | 49 App.:1672(h)(6) (B)(i), (ii) (related to paragraph (3)). |  |
+|  | 49 App.:2002( l )(7) (B)(i), (ii) (related to paragraph (3)). |  |
+| 60108(c)(3) | 49 App.:1672(h)(1), (2). |  |
+|  | 49 App.:2002( l )(1), (2). |  |
+| 60108(c) (4)(A) | 49 App.:1672(h)(4). |  |
+|  | 49 App.:2002( l )(4). |  |
+| 60108(c) (4)(B) | 49 App.:1672(h) (6)(B)(ii) (related to paragraph (4)). |  |
+|  | 49 App.:2002( l ) (7)(B)(ii) (related to paragraph (4)). |  |
+| 60108(c)(5) | 49 App.:1672(h)(5). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 3(h)(5); added Oct. 24, 1992 , Pub. L. 102–508, § 108(5) , 106 Stat. 3294 . |
+|  | 49 App.:2002( l )(6). | Nov. 30, 1979 , Pub. L. 96–129 , 93 Stat. 989 , § 203( l )(5), (6); added Oct. 24, 1992 , Pub. L. 102–508, § 207(5) , 106 Stat. 3302 . |
+| 60108(c)(6) | 49 App.:1672(h)(6)(C). |  |
+|  | 49 App.:2002( l )(7)(C). |  |
+| 60108(c)(7) | 49 App.:2002( l )(5). |  |
+| 60108(d) | 49 App.:1680(c). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 13(c); added Oct. 24, 1992 , Pub. L. 102–508, § 107 , 106 Stat. 3293 . |
+
+
+Plans
+
+Review of plans.—
+
+In general
+
+Context of review
+
+Inadequate programs
+
+Inspection and Testing
+
+Pipeline Facilities Offshore and in Other Waters
+
+Replacing Cast Iron Gas Pipelines
+
+In General
+
+Historical and Revision Notes
+
+60108(a)(1)
+
+Aug. 12, 1968
+
+Pub. L. 90–481, § 13(a)
+
+82 Stat. 726
+
+Oct. 11, 1976
+
+Pub. L. 94–477, § 6
+
+90 Stat. 2075
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 992
+
+Oct. 22, 1986
+
+Pub. L. 99–516, § 3(a)(2)
+
+100 Stat. 2966
+
+Oct. 31, 1988
+
+Pub. L. 100–561, § 108(a)(1)
+
+102 Stat. 2808
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 102(c)
+
+106 Stat. 3291
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 210(a)
+
+93 Stat. 1011
+
+Oct. 22, 1986
+
+Pub. L. 99–516, § 3(b)(2)
+
+100 Stat. 2966
+
+Oct. 31, 1988
+
+Pub. L. 100–561, § 207(c)
+
+102 Stat. 2812
+
+60108(a)(2)
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 210(b)
+
+93 Stat. 1012
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 202(c)(1)
+
+106 Stat. 3301
+
+60108(a)(3)
+
+60108(b)(1)
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Oct. 31, 1988
+
+Pub. L. 100–561, § 108(a)(2)
+
+102 Stat. 2808
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 989
+
+Oct. 31, 1988
+
+Pub. L. 100–561, § 207(a)
+
+102 Stat. 2811
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 202(c)(2)
+
+106 Stat. 3301
+
+60108(b)(2)
+
+60108(b)(3)
+
+60108(c)(1)
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 117
+
+106 Stat. 3298
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 989
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 216
+
+106 Stat. 3306
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Nov. 16, 1990
+
+Pub. L. 101–599, § 1(a)
+
+104 Stat. 3038
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 108(1)
+
+106 Stat. 3293
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 989
+
+Nov. 16, 1990
+
+Pub. L. 101–599, § 1(b)
+
+104 Stat. 3039
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 207(1)
+
+106 Stat. 3302
+
+60108(c)(3)
+
+60108(c)(5)
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 108(5)
+
+106 Stat. 3294
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 989
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 207(5)
+
+106 Stat. 3302
+
+60108(c)(6)
+
+60108(c)(7)
+
+60108(d)
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 107
+
+106 Stat. 3293
+
+Other Waters
+
+Navigable Waters
+
+In General
+
+Membership
+
+Considerations
+
+Publication
+
+Report
+
+Contents
+
+Consultation
+
+Establishment of Database
+
+In General
+
+Elements
+
+Consideration of Recommendations
+
+Review
+
+Report
+
+Implementation of Recommendations
+
+Leak Detection Report.—
+
+In general
+
+Contents
+
+Rulemaking Requirements.—
+
+Review period defined
+
+Congressional authority
+
+Standards
+
+Savings clause.—
+
+In general
+
+Imminent hazard defined
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1312](https://www.govinfo.gov/link/statute/108/1312); [Pub. L. 104–304](https://www.govinfo.gov/link/plaw/104/public/304), §§ 6, 20(h), Oct. 12, 1996, [110 Stat. 3800](https://www.govinfo.gov/link/statute/110/3800), 3805; [Pub. L. 112–90](https://www.govinfo.gov/link/plaw/112/public/90), §§ 7(a), 18(a), 21(c), Jan. 3, 2012, [125 Stat. 1910](https://www.govinfo.gov/link/statute/125/1910), 1916, 1917; [Pub. L. 114–183, § 7(a)](https://www.govinfo.gov/link/plaw/114/public/183), June 22, 2016, [130 Stat. 518](https://www.govinfo.gov/link/statute/130/518); [Pub. L. 116–260, div. R, title I, § 114(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2230](https://www.govinfo.gov/link/statute/134/2230).)*

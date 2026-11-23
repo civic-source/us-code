@@ -3,9 +3,10 @@ title: "Section 6903 - Definitions"
 usc_title: 22
 usc_section: "6903"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6903"
-generated_at: "2026-03-30T02:55:05.434Z"
+generated_at: "2026-11-23T21:25:58.700Z"
+status: "active"
 ---
 
 # § 6903. Definitions
@@ -19,3 +20,7 @@ In this chapter:
   - **(5)** The terms “WTO” and “World Trade Organization” mean the organization established pursuant to the WTO Agreement.
   - **(6)** The term “WTO Agreement” means the Agreement Establishing the World Trade Organization entered into on April 15, 1994 .
   - **(7)** The term “WTO member” has the meaning given that term in section 3501(10) of title 19 .
+
+## Source Credit
+
+*([Pub. L. 106–286, div. B, title II, § 204](https://www.govinfo.gov/link/plaw/106/public/286), Oct. 10, 2000, [114 Stat. 894](https://www.govinfo.gov/link/statute/114/894).)*

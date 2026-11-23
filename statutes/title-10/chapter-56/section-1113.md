@@ -3,9 +3,10 @@ title: "Section 1113 - Payments from the Fund"
 usc_title: 10
 usc_section: "1113"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1113"
-generated_at: "2026-03-30T02:53:38.109Z"
+generated_at: "2026-11-23T21:25:32.427Z"
+status: "active"
 ---
 
 # § 1113. Payments from the Fund
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:38.109Z"
 - **(d)** The Secretary of Defense shall by regulation establish the method or methods for calculating amounts to be transferred under subsection (c). Such method or methods may be based (in whole or in part) on a proportionate share of the volume (measured as the Secretary determines appropriate) of health care services provided or paid for under uniformed service retiree health care programs for beneficiaries under those programs who are medicare-eligible in relation to the total volume of health care services provided or paid for under Department of Defense health care programs.
 - **(e)** The regulations prescribed by the Secretary under subsection (d) shall be provided to the Comptroller General not less than 60 days before such regulations become effective. The Comptroller General shall, not later than 30 days after receiving such regulations, report to the Secretary of Defense and Congress on the adequacy and appropriateness of the regulations.
 - **(f)** If the Secretary of Defense enters into an agreement with another administering Secretary pursuant to section 1111(c), the Secretary of Defense may take the actions described in subsections (c), (d), and (e) on behalf of the beneficiaries and programs of the other participating uniformed service.
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title VII, § 713(a)(1)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–180; amended [Pub. L. 107–107, div. A, title VII, § 711(c)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1165](https://www.govinfo.gov/link/statute/115/1165).)*

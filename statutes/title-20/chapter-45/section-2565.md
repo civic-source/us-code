@@ -3,9 +3,10 @@ title: "Section 2565 - Wayne Morse Chair of Law and Politics"
 usc_title: 20
 usc_section: "2565"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 2565"
-generated_at: "2026-03-30T02:54:48.176Z"
+generated_at: "2026-11-23T21:25:47.394Z"
+status: "active"
 ---
 
 # § 2565. Wayne Morse Chair of Law and Politics
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:48.176Z"
   - **(1)** For purposes of this section, the Federal share of the cost of establishing the Wayne Morse Chair of Law and Politics shall not exceed 50 per centum.
   - **(2)** No financial assistance under this section may be made except upon an application at such time, in such manner, and containing or accompanied by such information, as the Secretary may reasonably require.
 - **(c)** There are authorized to be appropriated such sums, not to exceed $500,000, as may be necessary to carry out the provisions of this section. Funds appropriated pursuant to this section shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 94–482, title V, § 525](https://www.govinfo.gov/link/plaw/94/public/482), Oct. 12, 1976, [90 Stat. 2241](https://www.govinfo.gov/link/statute/90/2241); [Pub. L. 96–88, title III, § 301(a)(1)](https://www.govinfo.gov/link/plaw/96/public/88), title V, § 507, Oct. 17, 1979, [93 Stat. 677](https://www.govinfo.gov/link/statute/93/677), 692.)*

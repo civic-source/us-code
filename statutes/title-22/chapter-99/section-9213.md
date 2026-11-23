@@ -3,9 +3,10 @@ title: "Section 9213 - Reporting requirements"
 usc_title: 22
 usc_section: "9213"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9213"
-generated_at: "2026-03-30T02:55:05.462Z"
+generated_at: "2026-11-23T21:25:58.765Z"
+status: "active"
 ---
 
 # § 9213. Reporting requirements
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.462Z"
 - **(b)** Not later than 180 days after February 18, 2016 , the Secretary of State shall conduct, coordinate, and submit to Congress a comprehensive report on United States policy towards North Korea that—
   - **(1)** is based on a full and complete interagency review of current policies and possible alternatives, including with respect to North Korea’s weapons of mass destruction and missile programs, human rights atrocities, and significant activities undermining cybersecurity; and
   - **(2)** includes recommendations for such legislative or administrative action as the Secretary considers appropriate based on the results of the review.
+
+## Source Credit
+
+*([Pub. L. 114–122, title I, § 103](https://www.govinfo.gov/link/plaw/114/public/122), Feb. 18, 2016, [130 Stat. 98](https://www.govinfo.gov/link/statute/130/98).)*

@@ -3,9 +3,10 @@ title: "Section 2174 - Confirmation"
 usc_title: 48
 usc_section: "2174"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 2174"
-generated_at: "2026-03-30T02:56:14.605Z"
+generated_at: "2026-11-23T21:26:38.142Z"
+status: "active"
 ---
 
 # § 2174. Confirmation
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:14.605Z"
   - **(1)** with respect to which all claims are substantially similar under section 2161(e) of this title ;
   - **(2)** that includes only one class of claims, which claims are impaired claims; and
   - **(3)** that was not accepted by such impaired class,
+
+## Source Credit
+
+*([Pub. L. 114–187, title III, § 314](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 583](https://www.govinfo.gov/link/statute/130/583).)*

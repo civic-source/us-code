@@ -3,9 +3,10 @@ title: "Section 21116 - ICAC grant program"
 usc_title: 34
 usc_section: "21116"
 chapter: 211
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 21116"
-generated_at: "2026-03-30T02:55:33.303Z"
+generated_at: "2026-11-23T21:26:09.809Z"
+status: "active"
 ---
 
 # § 21116. ICAC grant program
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:55:33.303Z"
   - **(2)** Not later than 1 year after October 13, 2008 , the Attorney General shall submit a report to Congress on—
     - **(A)** the progress of the development of the ICAC Task Force Program established under section 21112 of this title ; and
     - **(B)** the number of Federal and State investigations, prosecutions, and convictions in the prior 12-month period related to child exploitation.
+
+## Source Credit
+
+*([Pub. L. 110–401, title I, § 106](https://www.govinfo.gov/link/plaw/110/public/401), Oct. 13, 2008, [122 Stat. 4238](https://www.govinfo.gov/link/statute/122/4238); [Pub. L. 119–60, div. H, title LXXXII, § 8202(f)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1844](https://www.govinfo.gov/link/statute/139/1844).)*

@@ -3,12 +3,17 @@ title: "Section 2237 - Use of field work funds for employment of men with equipm
 usc_title: 7
 usc_section: "2237"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2237"
-generated_at: "2026-03-30T02:53:42.381Z"
+generated_at: "2026-11-23T21:25:28.287Z"
+status: "active"
 ---
 
 # § 2237. Use of field work funds for employment of men with equipment, etc.
 
 Funds available for field work in the Department of Agriculture shall be available for employment by contract or otherwise of men with equipment, boats, work animals, animal-drawn, and motor-propelled vehicles.
 
+
+## Source Credit
+
+*(June 4, 1936, ch. 489, [49 Stat. 1422](https://www.govinfo.gov/link/statute/49/1422).)*

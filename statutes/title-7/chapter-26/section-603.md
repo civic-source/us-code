@@ -3,9 +3,10 @@ title: "Section 603 - Government owned cotton; transfer to Secretary of Agricult
 usc_title: 7
 usc_section: "603"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 603"
-generated_at: "2026-03-30T02:53:42.289Z"
+generated_at: "2026-11-23T21:25:27.978Z"
+status: "active"
 ---
 
 # § 603. Government owned cotton; transfer to Secretary of Agriculture; powers of Secretary
@@ -17,3 +18,7 @@ The Farm Credit Administration and all departments and other agencies of the Gov
   - **(1)** In making such settlements with regard to cotton, including operations to which such cotton is related, such cotton shall be taken over by all such departments or agencies other than the Secretary of Agriculture at a price or sum equal to the amounts directly or indirectly loaned or advanced thereon and outstanding, including loans by the Government, department or agency and any loans senior thereto, plus any sums required to adjust advances to growers to 90 per centum of the value of their cotton at the date of its delivery in the first instance as collateral to the department or agency involved, such sums to be computed by subtracting the total amount already advanced to growers on account of pools of which such cotton was a part, from 90 per centum of the value of the cotton to be taken over as of the time of such delivery as collateral, plus unpaid accrued carrying charges and operating costs on such cotton, less, however, any existing assets of the borrower derived from net income, earnings, or profits arising from such cotton, and from operations to which such cotton is related; all as determined by the department or agency making the settlement.
   - **(2)** The Secretary of Agriculture shall make settlements with respect to cotton held as collateral for loans or advances made by him on such terms as in his judgment may be deemed advisable, and to carry out the provisions of this section, is authorized to indemnify or furnish bonds to warehousemen for lost warehouse receipts and to pay the premiums on such bonds.
 - **(c)** The Secretary of Agriculture is authorized to purchase the cotton specified in subsections (a) and (b).
+
+## Source Credit
+
+*(May 12, 1933, ch. 25, title I, § 3, [48 Stat. 32](https://www.govinfo.gov/link/statute/48/32); 1933 Ex. Ord. No. 6084, Mar. 27, 1933.)*

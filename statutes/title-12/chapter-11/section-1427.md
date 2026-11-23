@@ -3,9 +3,10 @@ title: "Section 1427 - Directors"
 usc_title: 12
 usc_section: "1427"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1427"
-generated_at: "2026-03-30T02:53:53.391Z"
+generated_at: "2026-11-23T21:25:36.820Z"
+status: "active"
 ---
 
 # § 1427. Directors
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:53:53.391Z"
 - **(k)** The board of directors of each Bank shall determine the terms and conditions under which such Bank may indemnify its directors, officers, employees or agents.
 - **(l)** Notwithstanding any other provision of this section, a Federal Home Loan Bank shall not transfer, disburse, or pay compensation to any executive officer, or enter into an agreement with such executive officer, without the approval of the Director, for matters being reviewed under section 4518 of this title .
 - **(l)** Any member of the board of directors of a Bank elected or appointed in accordance with this section prior to July 30, 2008 , may continue to serve as a member of that board of directors for the remainder of the existing term of service.
+
+## Source Credit
+
+*(July 22, 1932, ch. 522, § 7, [47 Stat. 730](https://www.govinfo.gov/link/statute/47/730); May 28, 1935, ch. 150, § 3, [49 Stat. 294](https://www.govinfo.gov/link/statute/49/294); Aug. 11, 1955, ch. 783, title I, § 109(a)(2), [69 Stat. 640](https://www.govinfo.gov/link/statute/69/640); [Pub. L. 86–349](https://www.govinfo.gov/link/plaw/86/public/349), §§ 1, 2, Sept. 22, 1959, [73 Stat. 625](https://www.govinfo.gov/link/statute/73/625); [Pub. L. 87–211, § 1](https://www.govinfo.gov/link/plaw/87/public/211), Sept. 8, 1961, [75 Stat. 486](https://www.govinfo.gov/link/statute/75/486); [Pub. L. 87–676](https://www.govinfo.gov/link/plaw/87/public/676), Sept. 19, 1962, [76 Stat. 559](https://www.govinfo.gov/link/statute/76/559); [Pub. L. 93–541, § 3](https://www.govinfo.gov/link/plaw/93/public/541), Dec. 26, 1974, [88 Stat. 1739](https://www.govinfo.gov/link/statute/88/1739); [Pub. L. 101–73, title VII](https://www.govinfo.gov/link/plaw/101/public/73), §§ 707, 710(b)(4), Aug. 9, 1989, [103 Stat. 417](https://www.govinfo.gov/link/statute/103/417), 418; [Pub. L. 106–102, title VI, § 606(a)](https://www.govinfo.gov/link/plaw/106/public/102), (b), Nov. 12, 1999, [113 Stat. 1452](https://www.govinfo.gov/link/statute/113/1452), 1453; [Pub. L. 110–289, div. A, title I, § 1113(b)(3)](https://www.govinfo.gov/link/plaw/110/public/289), title II, §§ 1202, 1204(8)–(10), July 30, 2008, [122 Stat. 2678](https://www.govinfo.gov/link/statute/122/2678), 2783, 2786.)*

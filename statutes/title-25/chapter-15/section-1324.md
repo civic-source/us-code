@@ -3,12 +3,17 @@ title: "Section 1324 - Amendment of State constitutions or statutes to remove le
 usc_title: 25
 usc_section: "1324"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1324"
-generated_at: "2026-03-30T02:54:52.816Z"
+generated_at: "2026-11-23T21:25:54.602Z"
+status: "active"
 ---
 
 # § 1324. Amendment of State constitutions or statutes to remove legal impediment; effective date
 
 Notwithstanding the provisions of any enabling Act for the admission of a State, the consent of the United States is hereby given to the people of any State to amend, where necessary, their State constitution or existing statutes, as the case may be, to remove any legal impediment to the assumption of civil or criminal jurisdiction in accordance with the provisions of this subchapter. The provisions of this subchapter shall not become effective with respect to such assumption of jurisdiction by any such State until the people thereof have appropriately amended their State constitution or statutes, as the case may be.
 
+
+## Source Credit
+
+*([Pub. L. 90–284, title IV, § 404](https://www.govinfo.gov/link/plaw/90/public/284), Apr. 11, 1968, [82 Stat. 79](https://www.govinfo.gov/link/statute/82/79).)*

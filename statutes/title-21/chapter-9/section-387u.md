@@ -3,9 +3,10 @@ title: "Section 387u - Studies of progress and effectiveness"
 usc_title: 21
 usc_section: "387u"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 387u"
-generated_at: "2026-03-30T02:54:54.282Z"
+generated_at: "2026-11-23T21:25:56.191Z"
+status: "active"
 ---
 
 # § 387u. Studies of progress and effectiveness
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:54.282Z"
   - **(1)** the adequacy of the authority and resources provided to the Secretary of Health and Human Services for this division to carry out its goals and purposes; and
   - **(2)** any recommendations for strengthening that authority to more effectively protect the public health with respect to the manufacture, marketing, and distribution of tobacco products.
 - **(c)** The Secretary of Health and Human Services and the Comptroller General of the United States, respectively, shall make the reports required under subsection 1 1 So in original. Probably should be plural. (a) and (b) available to the public, including by posting such reports on the respective Internet websites of the Food and Drug Administration and the Government Accountability Office.
+
+## Source Credit
+
+*([Pub. L. 111–31, div. A, title I, § 106](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1841](https://www.govinfo.gov/link/statute/123/1841).)*

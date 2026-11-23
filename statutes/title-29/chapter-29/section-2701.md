@@ -3,9 +3,10 @@ title: "Section 2701 - Findings"
 usc_title: 29
 usc_section: "2701"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 2701"
-generated_at: "2026-03-30T02:55:18.746Z"
+generated_at: "2026-11-23T21:26:02.318Z"
+status: "active"
 ---
 
 # § 2701. Findings
@@ -20,3 +21,15 @@ The Congress finds and declares the following:
     - **(B)** encourage worker and worker organization participation in the development, commercialization, evaluation, selection, application, and implementation of new and advanced technologies in the workplace; and
     - **(C)** promote the use and integration of new and advanced technologies in the workplace that enhance workers’ skills.
   - **(5)** In working with the private sector to promote the technological leadership and economic growth of the United States, the Federal Government has a responsibility to ensure that Federal technology programs help the United States to remain competitive and to maintain and improve living standards and to create and retain secure jobs in economically stable communities.
+
+Study
+
+Report
+
+Study
+
+Report
+
+## Source Credit
+
+*([Pub. L. 103–382, title V, § 542](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 4051](https://www.govinfo.gov/link/statute/108/4051).)*

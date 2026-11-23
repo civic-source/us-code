@@ -3,9 +3,10 @@ title: "Section 1409 - Retired pay multiplier"
 usc_title: 10
 usc_section: "1409"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1409"
-generated_at: "2026-03-30T02:53:38.120Z"
+generated_at: "2026-11-23T21:25:32.471Z"
+status: "active"
 ---
 
 # § 1409. Retired pay multiplier
@@ -48,3 +49,45 @@ generated_at: "2026-03-30T02:53:38.120Z"
     - **(D)** Thrift Savings Plan contributions may not be made for a member making an election pursuant to subparagraph (B) for any period beginning before the date of the member’s election under that subparagraph by reason of the member’s election.
     - **(E)** The Secretary concerned shall prescribe regulations to implement this paragraph.
 - **(c)** In this section, the term “years of creditable service” means the number of years of service creditable to a member in computing the member’s retired or retainer pay (including 1 ⁄ 12 of a year for each full month of service that is in addition to the number of full years of service of the member).
+
+Retired Pay Multiplier for Regular-Service Nondisability Retirement
+
+Percentage.—
+
+General rule
+
+Reduction applicable to certain new-retirement members with less than 30 years of service
+
+years of service.—
+
+Retirement before january 1, 2007
+
+Retirement after december 31, 2006
+
+Modernized retirement system.—
+
+Reduced multiplier for full tsp members
+
+Election to participate in modernized retirement system
+
+Election period.—
+
+In general
+
+Hardship extension
+
+Effect of break in service
+
+Cadets and midshipmen, etc
+
+Inactive reserves
+
+No retroactive contributions pursuant to election
+
+Regulations
+
+Years of Creditable Service Defined
+
+## Source Credit
+
+*(Added [Pub. L. 99–348, title I, § 101](https://www.govinfo.gov/link/plaw/99/public/348), July 1, 1986, [100 Stat. 683](https://www.govinfo.gov/link/statute/100/683); amended [Pub. L. 101–189, div. A, title VI, § 651(b)(3)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1460](https://www.govinfo.gov/link/statute/103/1460); [Pub. L. 103–337, div. A, title XVI, § 1662(j)(6)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 3005](https://www.govinfo.gov/link/statute/108/3005); [Pub. L. 106–65, div. A, title VI](https://www.govinfo.gov/link/plaw/106/public/65), §§ 641(a), 643(b)(2), Oct. 5, 1999, [113 Stat. 662](https://www.govinfo.gov/link/statute/113/662), 664; [Pub. L. 109–364, div. A, title VI, § 642(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2259](https://www.govinfo.gov/link/statute/120/2259); [Pub. L. 110–181, div. A, title VI, § 661(b)(3)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 178](https://www.govinfo.gov/link/statute/122/178); [Pub. L. 114–92, div. A, title VI, § 631(a)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 842](https://www.govinfo.gov/link/statute/129/842); [Pub. L. 114–328, div. A, title VI, § 631(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2162](https://www.govinfo.gov/link/statute/130/2162); [Pub. L. 115–232, div. A, title VIII, § 809(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1840](https://www.govinfo.gov/link/statute/132/1840).)*

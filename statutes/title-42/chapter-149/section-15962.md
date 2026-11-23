@@ -3,9 +3,10 @@ title: "Section 15962 - Project criteria"
 usc_title: 42
 usc_section: "15962"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15962"
-generated_at: "2026-03-30T02:56:11.466Z"
+generated_at: "2026-11-23T21:26:33.688Z"
+status: "active"
 ---
 
 # § 15962. Project criteria
@@ -83,3 +84,23 @@ generated_at: "2026-03-30T02:56:11.466Z"
   - **(1)** adequately demonstrated for purposes of section 7411 of this title ;
   - **(2)** achievable for purposes of section 7479 of this title ; or
   - **(3)** achievable in practice for purposes of section 7501 of this title .
+
+(aa) to remove at least 99 percent of sulfur dioxide; or
+
+(bb) to emit not more than 0.04 pound SO 2 per million Btu, based on a 30-day average;
+
+(aa) 50 percent for coal of more than 9,000 Btu;
+
+(bb) 48 percent for coal of 7,000 to 9,000 Btu; and
+
+(cc) 46 percent for coal of less than 7,000 Btu.
+
+(aa) 43 percent for coal of more than 9,000 Btu;
+
+(bb) 41 percent for coal of 7,000 to 9,000 Btu; and
+
+(cc) 39 percent for coal of less than 7,000 Btu.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IV, § 402](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 750](https://www.govinfo.gov/link/statute/119/750); [Pub. L. 110–140, title VI, § 653](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1695](https://www.govinfo.gov/link/statute/121/1695).)*

@@ -3,12 +3,26 @@ title: "Section 4309 - Investigation and reporting"
 usc_title: 46
 usc_section: "4309"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 4309"
-generated_at: "2026-03-30T02:56:15.547Z"
+generated_at: "2026-11-23T21:26:37.063Z"
+status: "active"
 ---
 
 # § 4309. Investigation and reporting
 
 - **(a)** A recreational vessel manufacturer to whom this chapter applies shall establish and maintain records and reports and provide information the Secretary may require to enable the Secretary to decide whether the manufacturer has acted or is acting in compliance with this chapter and regulations prescribed under this chapter. On request of an officer, employee, or agent authorized by the Secretary, a recreational vessel manufacturer shall permit the officer, employee, or agent to inspect, at reasonable times, factories or other facilities, and records related to deciding whether the manufacturer has acted or is acting in compliance with this chapter and regulations prescribed under this chapter.
 - **(b)** Information reported to or otherwise obtained by the Secretary or the representative of the Secretary under this section containing or related to a trade secret or other matter referred to in section 1905 of title 18 , or authorized to be exempt from public disclosure by section 552(b) of title 5 , is confidential under section 1905. However, on approval of the Secretary, the information may be disclosed to other officers, employees, or agents concerned with carrying out this chapter or when it is relevant in a proceeding under this chapter.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 4309 | 46:1463 |
+
+
+Historical and Revision Notes
+
+4309
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 532](https://www.govinfo.gov/link/statute/97/532).)*

@@ -3,9 +3,10 @@ title: "Section 1680f - Indian Health Service and Department of Veterans Affairs
 usc_title: 25
 usc_section: "1680f"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1680f"
-generated_at: "2026-03-30T02:54:52.828Z"
+generated_at: "2026-11-23T21:25:54.636Z"
+status: "active"
 ---
 
 # § 1680f. Indian Health Service and Department of Veterans Affairs health facilities and services sharing
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:52.828Z"
     - **(B)** individuals eligible for health care from the Indian Health Service at Fort Duchesne, Utah, could obtain health care services at the George E. Wahlen Department of Veterans Affairs Medical Center located in Salt Lake City, Utah.
   - **(2)** Not later than November 23, 1990 , the Secretary and the Secretary of Veterans Affairs shall jointly submit a report to the Congress on the health care services provided as a result of paragraph (1).
 - **(d)** Nothing in this section may be construed as creating any right of a veteran to obtain health services from the Indian Health Service except as provided in an agreement under subsection (c).
+
+## Source Credit
+
+*([Pub. L. 94–437, title VIII, § 816](https://www.govinfo.gov/link/plaw/94/public/437), formerly title VII, § 716, as added [Pub. L. 100–713, title VII, § 710](https://www.govinfo.gov/link/plaw/100/public/713), Nov. 23, 1988, [102 Stat. 4832](https://www.govinfo.gov/link/statute/102/4832); amended [Pub. L. 102–54, § 13(j)(2)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 276](https://www.govinfo.gov/link/statute/105/276); renumbered title VIII, § 816, and amended [Pub. L. 102–573, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/102/public/573), (b), title IX, § 902(9), Oct. 29, 1992, [106 Stat. 4572](https://www.govinfo.gov/link/statute/106/4572), 4592; [Pub. L. 108–170, title II, § 244](https://www.govinfo.gov/link/plaw/108/public/170), Dec. 6, 2003, [117 Stat. 2054](https://www.govinfo.gov/link/statute/117/2054).)*

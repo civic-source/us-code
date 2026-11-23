@@ -3,9 +3,10 @@ title: "Section 1202 - Application for visas"
 usc_title: 8
 usc_section: "1202"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1202"
-generated_at: "2026-03-30T02:53:10.485Z"
+generated_at: "2026-11-23T21:25:25.149Z"
+status: "active"
 ---
 
 # § 1202. Application for visas
@@ -54,3 +55,11 @@ generated_at: "2026-03-30T02:53:10.485Z"
       - **(i)** poses a substantial risk of submitting inaccurate information in order to obtain a visa;
       - **(ii)** has historically had visa applications denied at a rate that is higher than the average rate of such denials; or
       - **(iii)** poses a security threat to the United States.
+
+Visas
+
+Aliens seeking readmission
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 3, § 222, [66 Stat. 193](https://www.govinfo.gov/link/statute/66/193); [Pub. L. 87–301, § 6](https://www.govinfo.gov/link/plaw/87/public/301), Sept. 26, 1961, [75 Stat. 653](https://www.govinfo.gov/link/statute/75/653); [Pub. L. 89–236, § 11(c)](https://www.govinfo.gov/link/plaw/89/public/236), Oct. 3, 1965, [79 Stat. 918](https://www.govinfo.gov/link/statute/79/918); [Pub. L. 99–653, § 6](https://www.govinfo.gov/link/plaw/99/public/653), Nov. 14, 1986, [100 Stat. 3656](https://www.govinfo.gov/link/statute/100/3656); [Pub. L. 100–525](https://www.govinfo.gov/link/plaw/100/public/525), §§ 8(e), 9(j), Oct. 24, 1988, [102 Stat. 2617](https://www.govinfo.gov/link/statute/102/2617), 2620; [Pub. L. 103–416, title II, § 205(a)](https://www.govinfo.gov/link/plaw/103/public/416), Oct. 25, 1994, [108 Stat. 4311](https://www.govinfo.gov/link/statute/108/4311); [Pub. L. 104–208, div. C, title VI](https://www.govinfo.gov/link/plaw/104/public/208), §§ 632(a), 634, Sept. 30, 1996, [110 Stat. 3009–701](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 107–56, title IV, § 413](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 353](https://www.govinfo.gov/link/statute/115/353); [Pub. L. 108–458, title V](https://www.govinfo.gov/link/plaw/108/public/458), §§ 5301(a), 5302, title VII, § 7203(b), Dec. 17, 2004, [118 Stat. 3735](https://www.govinfo.gov/link/statute/118/3735), 3736, 3814.)*

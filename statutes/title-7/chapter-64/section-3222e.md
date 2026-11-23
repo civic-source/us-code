@@ -3,9 +3,10 @@ title: "Section 3222e - New beginning for tribal students"
 usc_title: 7
 usc_section: "3222e"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3222e"
-generated_at: "2026-03-30T02:53:42.399Z"
+generated_at: "2026-11-23T21:25:28.326Z"
+status: "active"
 ---
 
 # § 3222e. New beginning for tribal students
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:42.399Z"
   - **(5)** No State shall receive, through grants made under this section to land-grant colleges and universities located in the State, more than $500,000 per year.
 - **(c)** Not later than 3 years after December 20, 2018 , the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry and the Committee on Indian Affairs of the Senate a report that includes an itemized list of grant funds distributed under this section, including the specific form of assistance provided under subsection (b)(3), and the number of Tribal students assisted and the graduation rate of Tribal students at land-grant colleges and universities receiving grants under this section.
 - **(d)** There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2019 through 2023.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1450](https://www.govinfo.gov/link/plaw/95/public/113), as added [Pub. L. 115–334, title VII, § 7120](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4791](https://www.govinfo.gov/link/statute/132/4791).)*

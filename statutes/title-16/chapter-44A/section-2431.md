@@ -3,9 +3,10 @@ title: "Section 2431 - Findings and purpose"
 usc_title: 16
 usc_section: "2431"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2431"
-generated_at: "2026-03-30T02:54:23.002Z"
+generated_at: "2026-11-23T21:25:51.948Z"
+status: "active"
 ---
 
 # § 2431. Findings and purpose
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:23.002Z"
   - **(5)** United States basic and directed research programs concerning the marine living resources of the Antarctic are essential to achieve the United States goal of effective implementation of the objectives of the Convention; and
   - **(6)** the United States has important security, economic, and environmental interests in developing and maintaining a fleet of icebreaking vessels capable of operating effectively in the heavy ice regions of Antarctica.
 - **(b)** The purpose of this chapter is to provide the legislative authority necessary to implement, with respect to the United States, the Convention on the Conservation of Antarctic Marine Living Resources.
+
+## Source Credit
+
+*([Pub. L. 98–623, title III, § 302](https://www.govinfo.gov/link/plaw/98/public/623), Nov. 8, 1984, [98 Stat. 3398](https://www.govinfo.gov/link/statute/98/3398).)*

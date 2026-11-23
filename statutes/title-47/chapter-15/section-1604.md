@@ -3,9 +3,10 @@ title: "Section 1604 - Reports on covered communications equipment or services"
 usc_title: 47
 usc_section: "1604"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1604"
-generated_at: "2026-03-30T02:56:24.537Z"
+generated_at: "2026-11-23T21:26:36.112Z"
+status: "active"
 ---
 
 # § 1604. Reports on covered communications equipment or services
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:24.537Z"
   - **(2)** information about whether such covered communications equipment or service has subsequently been removed and replaced pursuant to section 1603 of this title ; and
   - **(3)** information about whether such provider plans to continue to purchase, rent, lease, or otherwise obtain, or install or use, such covered communications equipment or service and, if so, why.
 - **(d)** The Commission shall implement this section as part of the rulemaking required by section 1603(g) of this title .
+
+## Source Credit
+
+*([Pub. L. 116–124, § 5](https://www.govinfo.gov/link/plaw/116/public/124), Mar. 12, 2020, [134 Stat. 166](https://www.govinfo.gov/link/statute/134/166).)*

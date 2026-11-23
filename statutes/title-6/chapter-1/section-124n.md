@@ -3,9 +3,10 @@ title: "Section 124n - Protection of certain facilities and assets from unmanned
 usc_title: 6
 usc_section: "124n"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 124n"
-generated_at: "2026-03-30T02:53:09.445Z"
+generated_at: "2026-11-23T21:25:25.753Z"
+status: "active"
 ---
 
 # § 124n. Protection of certain facilities and assets from unmanned aircraft
@@ -137,3 +138,35 @@ generated_at: "2026-03-30T02:53:09.445Z"
     - **(E)** an assessment of what, if any, additional research and development the Department needs to counter the threat identified in subparagraph (A).
   - **(2)** The report required under paragraph (1) shall be submitted in unclassified form, but may contain a classified annex.
 - **(n)** Not later than 180 days of after December 18, 2025 , the Secretary of Homeland Security and the Attorney General shall provide the appropriate congressional committees with a plan to establish a reimbursement program for Federal agencies providing counter-UAS protection to events that are not organized or operated by the Federal Government.
+
+(aa) the Federal Bureau of Investigation as specified in section 533 of title 28 ; and
+
+(bb) the United States Marshals Service of Federal jurists, court officers, witnesses, and other threatened persons in the interests of justice, as specified in section 566(e)(1)(A) of title 28 ;
+
+Rulemaking Authority.—
+
+In general
+
+Role of faa
+
+Saving clause
+
+Authorized equipment and technology
+
+Training and Compliance.—
+
+In general
+
+Compliance audits
+
+Definitions
+
+SLTT law enforcement agency
+
+Correctional agency
+
+Correctional facility
+
+## Source Credit
+
+*([Pub. L. 107–296, title II, § 210G](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 115–254, div. H, § 1602(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3522](https://www.govinfo.gov/link/statute/132/3522); amended [Pub. L. 118–15, div. B, title II, § 2221](https://www.govinfo.gov/link/plaw/118/public/15), Sept. 30, 2023, [137 Stat. 86](https://www.govinfo.gov/link/statute/137/86); [Pub. L. 118–22, div. B, title III, § 601](https://www.govinfo.gov/link/plaw/118/public/22), Nov. 17, 2023, [137 Stat. 123](https://www.govinfo.gov/link/statute/137/123); [Pub. L. 118–35, div. B, title III, § 301](https://www.govinfo.gov/link/plaw/118/public/35), Jan. 19, 2024, [138 Stat. 7](https://www.govinfo.gov/link/statute/138/7); [Pub. L. 118–41, title III, § 301](https://www.govinfo.gov/link/plaw/118/public/41), Mar. 8, 2024, [138 Stat. 24](https://www.govinfo.gov/link/statute/138/24); [Pub. L. 118–63, title XI, § 1112](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1419](https://www.govinfo.gov/link/statute/138/1419); [Pub. L. 118–83, div. B, title I, § 101](https://www.govinfo.gov/link/plaw/118/public/83), Sept. 26, 2024, [138 Stat. 1534](https://www.govinfo.gov/link/statute/138/1534); [Pub. L. 118–158, div. E, § 5102](https://www.govinfo.gov/link/plaw/118/public/158), Dec. 21, 2024, [138 Stat. 1771](https://www.govinfo.gov/link/statute/138/1771); [Pub. L. 119–4, div. C, § 3102](https://www.govinfo.gov/link/plaw/119/public/4), Mar. 15, 2025, [139 Stat. 46](https://www.govinfo.gov/link/statute/139/46); [Pub. L. 119–60, div. H, title LXXXVI, § 8602](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1938](https://www.govinfo.gov/link/statute/139/1938).)*

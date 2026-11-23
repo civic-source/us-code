@@ -3,9 +3,10 @@ title: "Section 912 - Office of Rural Health Policy"
 usc_title: 42
 usc_section: "912"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 912"
-generated_at: "2026-03-30T02:56:10.899Z"
+generated_at: "2026-11-23T21:26:31.203Z"
+status: "active"
 ---
 
 # § 912. Office of Rural Health Policy
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:10.899Z"
   - **(3)** coordinate the activities within the Department that relate to rural health care,
   - **(4)** provide information to the Secretary and others in the Department with respect to the activities, of other Federal departments and agencies, that relate to rural health care, including activities relating to rural mental health, rural infant mortality, and rural occupational safety and preventive health promotion, and
   - **(5)** administer grants, cooperative agreements, and contracts to provide technical assistance and other activities as necessary to support activities related to improving health care in rural areas.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title VII, § 711, as added [Pub. L. 100–203, title IV, § 4401](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–225](https://www.govinfo.gov/link/statute/101/1330); amended [Pub. L. 100–360, title IV, § 411(m)(1)](https://www.govinfo.gov/link/plaw/100/public/360), July 1, 1988, [102 Stat. 806](https://www.govinfo.gov/link/statute/102/806); [Pub. L. 101–239, title VI, § 6213(g)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2251](https://www.govinfo.gov/link/statute/103/2251); [Pub. L. 108–173, title IV, § 432](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2288](https://www.govinfo.gov/link/statute/117/2288).)*

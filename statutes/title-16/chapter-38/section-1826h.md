@@ -3,9 +3,10 @@ title: "Section 1826h - Biennial report on international compliance"
 usc_title: 16
 usc_section: "1826h"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1826h"
-generated_at: "2026-03-30T02:54:22.986Z"
+generated_at: "2026-11-23T21:25:51.918Z"
+status: "active"
 ---
 
 # § 1826h. Biennial report on international compliance
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:22.986Z"
     - **(C)** a list of the nations that conduct, or authorize their nationals to conduct, large-scale driftnet fishing beyond the exclusive economic zone of any nation in a manner that diminishes the effectiveness of or is inconsistent with any international agreement governing large-scale driftnet fishing to which the United States is a party or otherwise subscribes; and
   - **(2)** a description of the actions taken to carry out the provisions of section 1822(h) of this title .
 - **(c)** If, at any time, the Secretary, in consultation with the Secretary of State and the Secretary of the department in which the Coast Guard is operating, identifies any nation that warrants inclusion in the list described under subsection (b)(1)(C), due to large scale drift net fishing, the Secretary shall certify that fact to the President. Such certification shall be deemed to be a certification for the purposes of section 1978(a) of title 22 .
+
+## Source Credit
+
+*([Pub. L. 104–43, title VI, § 607](https://www.govinfo.gov/link/plaw/104/public/43), as added [Pub. L. 109–479, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3626](https://www.govinfo.gov/link/statute/120/3626); amended [Pub. L. 114–81, title I, § 101(i)(1)](https://www.govinfo.gov/link/plaw/114/public/81), Nov. 5, 2015, [129 Stat. 655](https://www.govinfo.gov/link/statute/129/655); [Pub. L. 114–327, title IV, § 401(b)](https://www.govinfo.gov/link/plaw/114/public/327), Dec. 16, 2016, [130 Stat. 1994](https://www.govinfo.gov/link/statute/130/1994); [Pub. L. 117–328, div. S, title II, § 205(b)(2)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5270](https://www.govinfo.gov/link/statute/136/5270).)*

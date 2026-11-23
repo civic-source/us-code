@@ -3,9 +3,10 @@ title: "Section 623 - Configuration of multi-line telephone systems for direct d
 usc_title: 47
 usc_section: "623"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 623"
-generated_at: "2026-03-30T02:56:24.525Z"
+generated_at: "2026-11-23T21:26:36.060Z"
+status: "active"
 ---
 
 # § 623. Configuration of multi-line telephone systems for direct dialing of 9–1–1.
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:24.525Z"
 - **(d)** Nothing in this section is intended to alter the authority of State commissions or other State or local agencies with jurisdiction over emergency communications, if the exercise of such authority is not inconsistent with this chapter.
 - **(e)** This section shall be enforced under subchapter V, except that section 501 of this title applies only to the extent that such section provides for the punishment of a fine.
 - **(f)** In this section, the term “multi-line telephone system” has the meaning given such term in section 1471 of this title .
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VII, § 721, as added [Pub. L. 115–127, § 2(a)](https://www.govinfo.gov/link/plaw/115/public/127), Feb. 16, 2018, [132 Stat. 326](https://www.govinfo.gov/link/statute/132/326).)*

@@ -3,9 +3,10 @@ title: "Section 1476 - Preemption of Federal standards"
 usc_title: 15
 usc_section: "1476"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1476"
-generated_at: "2026-03-30T02:54:08.135Z"
+generated_at: "2026-11-23T21:25:39.824Z"
+status: "active"
 ---
 
 # § 1476. Preemption of Federal standards
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.135Z"
     - **(A)** compliance with the State or political subdivision standard or requirement would not cause the household substance to be in violation of the standard or requirement in effect under this Act, and
     - **(B)** the State or political subdivision standard or requirement (i) provides a significantly higher degree of protection from the risk of illness or injury with respect to which the Federal standard or requirement is in effect, and (ii) does not unduly burden interstate commerce.
   - **(2)** A regulation under paragraph (1) granting an exemption for a standard or requirement of a State or political subdivision of a State may be promulgated by the Commission only after it has provided, in accordance with section 553(b) of title 5 notice with respect to the promulgation of the regulation and has provided opportunity for the oral presentation of views respecting its promulgation.
+
+## Source Credit
+
+*([Pub. L. 91–601, § 7](https://www.govinfo.gov/link/plaw/91/public/601), formerly § 8, Dec. 30, 1970, [84 Stat. 1673](https://www.govinfo.gov/link/statute/84/1673); [Pub. L. 92–573, § 30(a)](https://www.govinfo.gov/link/plaw/92/public/573), Oct. 27, 1972, [86 Stat. 1231](https://www.govinfo.gov/link/statute/86/1231); [Pub. L. 94–284, § 17(c)](https://www.govinfo.gov/link/plaw/94/public/284), May 11, 1976, [90 Stat. 513](https://www.govinfo.gov/link/statute/90/513); renumbered § 7, [Pub. L. 97–35, title XII, § 1205(c)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 716](https://www.govinfo.gov/link/statute/95/716).)*

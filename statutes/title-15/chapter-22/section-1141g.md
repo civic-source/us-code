@@ -3,9 +3,10 @@ title: "Section 1141g - Right of priority for request for extension of protectio
 usc_title: 15
 usc_section: "1141g"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1141g"
-generated_at: "2026-03-30T02:54:08.128Z"
+generated_at: "2026-11-23T21:25:39.794Z"
+status: "active"
 ---
 
 # § 1141g. Right of priority for request for extension of protection to the United States
@@ -14,3 +15,7 @@ The holder of an international registration with a request for an extension of p
 
   - **(1)** the request for extension of protection contains a claim of priority; and
   - **(2)** the date of international registration or the date of the recordal of the request for extension of protection to the United States is not later than 6 months after the date of the first regular national filing (within the meaning of Article 4(A)(3) of the Paris Convention for the Protection of Industrial Property) or a subsequent application (within the meaning of Article 4(C)(4) of the Paris Convention for the Protection of Industrial Property).
+
+## Source Credit
+
+*(July 5, 1946, ch. 540, title XII, § 67, as added [Pub. L. 107–273, div. C, title III, § 13402](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1917](https://www.govinfo.gov/link/statute/116/1917).)*

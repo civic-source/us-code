@@ -3,9 +3,10 @@ title: "Section 9091 - Definitions"
 usc_title: 15
 usc_section: "9091"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9091"
-generated_at: "2026-03-30T02:54:08.244Z"
+generated_at: "2026-11-23T21:25:40.133Z"
+status: "active"
 ---
 
 # § 9091. Definitions
@@ -26,3 +27,7 @@ Unless otherwise specified, the definitions in section 40102(a) of title 49 shal
     - **(B)** failure to respond within such time period specified shall be considered an election under subparagraph (A)(ii);
   - **(5)** the term “returning employee” means an involuntarily furloughed employee who has elected to return to employment pursuant to a recall notice; and
   - **(6)** the term “Secretary” means the Secretary of the Treasury.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. N, title IV, § 401](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2052](https://www.govinfo.gov/link/statute/134/2052).)*

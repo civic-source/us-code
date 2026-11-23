@@ -3,9 +3,10 @@ title: "Section 8604 - Reports required"
 usc_title: 22
 usc_section: "8604"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8604"
-generated_at: "2026-03-30T02:55:05.454Z"
+generated_at: "2026-11-23T21:25:58.748Z"
+status: "active"
 ---
 
 # § 8604. Reports required
@@ -17,3 +18,9 @@ generated_at: "2026-03-30T02:55:05.454Z"
   - **(1)** Taking into account the Government of Israel’s urgent requirement for F–35 aircraft, actions to improve the process relating to its purchase of F–35 aircraft, particularly with respect to cost efficiency and timely delivery.
   - **(2)** Efforts to expand cooperation between the United States and Israel in homeland security, counter-terrorism, maritime security, energy, cyber-security, and other related areas.
   - **(3)** Actions to integrate Israel into the defense of the Eastern Mediterranean.
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 112–150, § 6](https://www.govinfo.gov/link/plaw/112/public/150), July 27, 2012, [126 Stat. 1148](https://www.govinfo.gov/link/statute/126/1148).)*

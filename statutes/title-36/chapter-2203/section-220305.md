@@ -3,9 +3,10 @@ title: "Section 220305 - Powers"
 usc_title: 36
 usc_section: "220305"
 chapter: 2203
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 220305"
-generated_at: "2026-03-30T02:55:44.709Z"
+generated_at: "2026-11-23T21:26:13.741Z"
+status: "active"
 ---
 
 # § 220305. Powers
@@ -23,3 +24,23 @@ The corporation may—
   - **(9)** conduct fund raising campaigns and accept contributions;
   - **(10)** sue and be sued; and
   - **(11)** do any other act necessary and proper to carry out the purposes of the corporation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 220305 | 36:1204. | Oct. 20, 1978 , Pub. L. 95–493 , §§ 4, 16 (1st sentence), 92 Stat. 1644 , 1647. |
+|  | 36:1216 (1st sentence). |  |
+
+
+Historical and Revision Notes
+
+220305
+
+Oct. 20, 1978
+
+Pub. L. 95–493
+
+92 Stat. 1644
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1464](https://www.govinfo.gov/link/statute/112/1464).)*

@@ -3,9 +3,10 @@ title: "Section 276p - United States Senate-Japan Interparliamentary Group"
 usc_title: 22
 usc_section: "276p"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 276p"
-generated_at: "2026-03-30T02:55:05.310Z"
+generated_at: "2026-11-23T21:25:58.342Z"
+status: "active"
 ---
 
 # § 276p. United States Senate-Japan Interparliamentary Group
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.310Z"
 - **(c)** There is authorized to be appropriated $100,000 for each Congress to assist in meeting the expenses of the United States group. Appropriations shall be disbursed on vouchers to be approved by the Chair of the United States group.
 - **(d)** A report of expenditures by the United States group shall be prepared and certified each Congress by the Chair.
 - **(e)** This section shall apply to fiscal year 2008, and each fiscal year thereafter.
+
+## Source Credit
+
+*([Pub. L. 110–161, div. H, title I, § 5](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2221](https://www.govinfo.gov/link/statute/121/2221).)*

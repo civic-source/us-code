@@ -3,9 +3,10 @@ title: "Section 7132 - Principal officers"
 usc_title: 42
 usc_section: "7132"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7132"
-generated_at: "2026-03-30T02:56:11.282Z"
+generated_at: "2026-11-23T21:26:33.044Z"
+status: "active"
 ---
 
 # § 7132. Principal officers
@@ -37,3 +38,13 @@ generated_at: "2026-03-30T02:56:11.282Z"
 - **(e)**
   - **(1)** There shall be in the Department a General Counsel, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall perform such functions and duties as the Secretary shall prescribe.
   - **(2)** The General Counsel shall be compensated at the rate provided for level IV of the Executive Schedule under section 5315 of title 5 .
+
+Length of Term
+
+Exclusive Reasons for Removal
+
+Position Described
+
+## Source Credit
+
+*([Pub. L. 95–91, title II, § 202](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 569](https://www.govinfo.gov/link/statute/91/569); [Pub. L. 106–65, div. C, title XXXII, § 3202](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 954](https://www.govinfo.gov/link/statute/113/954); [Pub. L. 109–58, title X, § 1006(a)](https://www.govinfo.gov/link/plaw/109/public/58), (c)(1), Aug. 8, 2005, [119 Stat. 930](https://www.govinfo.gov/link/statute/119/930), 931.)*

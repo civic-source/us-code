@@ -3,9 +3,10 @@ title: "Section 672 - Definitions and rules"
 usc_title: 26
 usc_section: "672"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 672"
-generated_at: "2026-03-30T02:55:27.724Z"
+generated_at: "2026-11-23T21:26:06.362Z"
+status: "active"
 ---
 
 # § 672. Definitions and rules
@@ -36,3 +37,15 @@ generated_at: "2026-03-30T02:55:27.724Z"
     - **(A)** but for this subsection, a foreign person would be treated as the owner of any portion of a trust, and
     - **(B)** such trust has a beneficiary who is a United States person,
   - **(6)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection, including regulations providing that paragraph (1) shall not apply in appropriate cases.
+
+Special Rule Where Grantor is Foreign Person.—
+
+In general
+
+Regulations
+
+“The amendments made by this section [amending this section] shall apply to—
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 226; [Pub. L. 99–514, title XIV, § 1401(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2711](https://www.govinfo.gov/link/statute/100/2711); [Pub. L. 100–647, title I, § 1014(a)(1)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3559](https://www.govinfo.gov/link/statute/102/3559); [Pub. L. 101–508, title XI, § 11343(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–472](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 104–188, title I, § 1904(a)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1910](https://www.govinfo.gov/link/statute/110/1910); [Pub. L. 105–206, title VI, § 6011(c)(1)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 818](https://www.govinfo.gov/link/statute/112/818).)*

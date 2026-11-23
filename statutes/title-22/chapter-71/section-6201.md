@@ -3,9 +3,10 @@ title: "Section 6201 - Congressional findings and declaration of purposes"
 usc_title: 22
 usc_section: "6201"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6201"
-generated_at: "2026-03-30T02:55:05.425Z"
+generated_at: "2026-11-23T21:25:58.680Z"
+status: "active"
 ---
 
 # § 6201. Congressional findings and declaration of purposes
@@ -17,3 +18,7 @@ The Congress makes the following findings and declarations:
   - **(3)** It is in the interest of the United States to support broadcasting to other nations consistent with the requirements of this chapter.
   - **(4)** The continuation of existing United States international broadcasting, and the creation of a new broadcasting service to the people of the People’s Republic of China and other countries of Asia which lack adequate sources of free information, would enhance the promotion of information and ideas, while advancing the goals of United States foreign policy.
   - **(5)** The reorganization and consolidation of United States international broadcasting will achieve important economies and strengthen the capability of the United States to use broadcasting to support freedom and democracy in a rapidly changing international environment.
+
+## Source Credit
+
+*([Pub. L. 103–236, title III, § 302](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 432](https://www.govinfo.gov/link/statute/108/432).)*

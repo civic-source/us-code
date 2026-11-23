@@ -3,9 +3,10 @@ title: "Section 113 - Scope of exclusive rights in pictorial, graphic, and sculp
 usc_title: 17
 usc_section: "113"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 113"
-generated_at: "2026-03-30T02:54:15.346Z"
+generated_at: "2026-11-23T21:25:41.692Z"
+status: "active"
 ---
 
 # § 113. Scope of exclusive rights in pictorial, graphic, and sculptural works
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:15.346Z"
     - **(A)** the owner has made a diligent, good faith attempt without success to notify the author of the owner’s intended action affecting the work of visual art, or
     - **(B)** the owner did provide such notice in writing and the person so notified failed, within 90 days after receiving such notice, either to remove the work or to pay for its removal.
   - **(3)** The Register of Copyrights shall establish a system of records whereby any author of a work of visual art that has been incorporated in or made part of a building, may record his or her identity and address with the Copyright Office. The Register shall also establish procedures under which any such author may update the information so recorded, and procedures under which owners of buildings may record with the Copyright Office evidence of their efforts to comply with this subsection.
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2560](https://www.govinfo.gov/link/statute/90/2560); [Pub. L. 101–650, title VI, § 604](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5130](https://www.govinfo.gov/link/statute/104/5130).)*

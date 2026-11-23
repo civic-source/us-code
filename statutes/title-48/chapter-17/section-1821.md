@@ -3,9 +3,10 @@ title: "Section 1821 - District Court for the Northern Mariana Islands"
 usc_title: 48
 usc_section: "1821"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1821"
-generated_at: "2026-03-30T02:56:14.593Z"
+generated_at: "2026-11-23T21:26:38.030Z"
+status: "active"
 ---
 
 # § 1821. District Court for the Northern Mariana Islands
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:14.593Z"
   - **(3)** The President shall appoint, by and with the advice and consent of the Senate, a United States attorney and United States marshal for the Northern Mariana Islands to whose offices the provisions of chapters 35 and 37 of title 28, respectively, shall apply.
   - **(4)** If the President appoints a judge for the District Court for the Northern Mariana Islands or a United States attorney or a United States marshal for the Northern Mariana Islands who at that time is serving in the same capacity in another district, the appointment shall, without prejudice to a subsequent appointment, be for the unexpired term of such judge or officer.
 - **(c)** Where appropriate, and except as otherwise provided in articles IV and V of the Covenant approved by the Act of March 24, 1976 ( 90 Stat. 263 ), the provisions of part II of title 18 and of titles 1 1 So in original. 28, the rules of practice and procedure heretofore or hereafter promulgated and made effective by the Congress or the Supreme Court of the United States pursuant to titles 11, 18, and 28 shall apply to the District Court for the Northern Mariana Islands and appeals therefrom; except that the terms “Attorney for the government” and “United States attorney”, as used in the Federal Rules of Criminal Procedure, shall, when applicable to cases arising under the laws of the Northern Mariana Islands, include the Attorney General of the Northern Mariana Islands or such other person or persons as may be authorized by the laws of the Northern Mariana Islands to act therein.
+
+## Source Credit
+
+*([Pub. L. 95–157, § 1](https://www.govinfo.gov/link/plaw/95/public/157), Nov. 8, 1977, [91 Stat. 1265](https://www.govinfo.gov/link/statute/91/1265); [Pub. L. 98–454, title IX, § 901](https://www.govinfo.gov/link/plaw/98/public/454), Oct. 5, 1984, [98 Stat. 1744](https://www.govinfo.gov/link/statute/98/1744).)*

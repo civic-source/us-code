@@ -3,12 +3,17 @@ title: "Section 3662 - Tribal civil legal assistance grants"
 usc_title: 25
 usc_section: "3662"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3662"
-generated_at: "2026-03-30T02:54:52.855Z"
+generated_at: "2026-11-23T21:25:54.696Z"
+status: "active"
 ---
 
 # § 3662. Tribal civil legal assistance grants
 
 Subject to the availability of appropriations, the Attorney General, in consultation with the Office of Tribal Justice, shall award grants to non-profit entities, as defined under section 501(c)(3) of title 26 , which provide legal assistance services for Indian tribes, members of Indian tribes, or tribal justice systems pursuant to Federal poverty guidelines that submit an application to the Attorney General in such form and manner as the Attorney General may prescribe for the provision of civil legal assistance (including guardians ad litem and court-appointed special advocates for children and juveniles) to members of Indian tribes and tribal justice systems, and/or other purposes consistent with this chapter.
 
+
+## Source Credit
+
+*([Pub. L. 106–559, title I, § 102](https://www.govinfo.gov/link/plaw/106/public/559), Dec. 21, 2000, [114 Stat. 2780](https://www.govinfo.gov/link/statute/114/2780); [Pub. L. 111–211, title II, § 242(b)(1)](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2292](https://www.govinfo.gov/link/statute/124/2292).)*

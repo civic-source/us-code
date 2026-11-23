@@ -3,9 +3,10 @@ title: "Section 3801 - Congressional statement of findings and declaration of po
 usc_title: 15
 usc_section: "3801"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3801"
-generated_at: "2026-03-30T02:54:08.196Z"
+generated_at: "2026-11-23T21:25:39.983Z"
+status: "active"
 ---
 
 # § 3801. Congressional statement of findings and declaration of policy
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:08.196Z"
   - **(3)** facilitate, and remove barriers to, the use of methane-fueled vehicles in lieu of gasoline- or diesel-powered motor vehicles where practicable;
   - **(4)** promote the substitution of methane-fueled vehicles for gasoline- and diesel-powered vehicles currently used on farms and in fleet operations, particularly in areas where such substitution would facilitate plans to meet air quality standards set under the Clean Air Act, as amended [ 42 U.S.C. 7401 et seq.]; and
   - **(5)** supplement, but neither supplant nor duplicate, the automotive propulsion system research and development efforts of private industry.
+
+## Source Credit
+
+*([Pub. L. 96–512, § 2](https://www.govinfo.gov/link/plaw/96/public/512), Dec. 12, 1980, [94 Stat. 2827](https://www.govinfo.gov/link/statute/94/2827).)*

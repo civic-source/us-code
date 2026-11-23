@@ -3,9 +3,10 @@ title: "Section 4 - Cooperative agreements with other agencies"
 usc_title: 16
 usc_section: "4"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-30T02:54:22.883Z"
+generated_at: "2026-11-23T21:25:51.694Z"
+status: "active"
 ---
 
 # § 590z–4. Cooperative agreements with other agencies
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:22.883Z"
   - **(3)** that no water shall be delivered to or for any land or party while the owner of said land or said party is in arrears for more than twelve months in the payment to the United States of money due and payable under a land contract entered into pursuant to section 590z–3(a) of this title ; and
   - **(4)** that any repayment contract with a water user or water users’ organization entered into pursuant to section 590z–2 of this title and any land contract with the same water user or organization entered into pursuant to section 590z–3(a) of this title , if said contracts involve the same land, may be combined in a single instrument. The Secretary of Agriculture is authorized to carry out the provision of any such cooperative agreements.
 
+
+## Source Credit
+
+*(Aug. 11, 1939, ch. 717, § 6, as added Oct. 14, 1940, ch. 861, [54 Stat. 1123](https://www.govinfo.gov/link/statute/54/1123).)*

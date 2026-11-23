@@ -3,9 +3,10 @@ title: "Section 2279e - Civil penalty"
 usc_title: 7
 usc_section: "2279e"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2279e"
-generated_at: "2026-03-30T02:53:42.384Z"
+generated_at: "2026-11-23T21:25:28.294Z"
+status: "active"
 ---
 
 # § 2279e. Civil penalty
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.384Z"
 - **(e)** In this section and section 2279f of this title , the term “Secretary concerned” means—
   - **(1)** the Secretary of Agriculture, with respect to an animal used for purposes of official inspections by the Department of Agriculture; and
   - **(2)** the Secretary of Homeland Security, with respect to an animal used for purposes of official inspections by the Department of Homeland Security.
+
+## Source Credit
+
+*([Pub. L. 106–224, title V, § 501](https://www.govinfo.gov/link/plaw/106/public/224), June 20, 2000, [114 Stat. 455](https://www.govinfo.gov/link/statute/114/455); [Pub. L. 107–296, title IV, § 421(h)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2184](https://www.govinfo.gov/link/statute/116/2184).)*

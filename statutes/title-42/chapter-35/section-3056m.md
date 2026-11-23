@@ -3,9 +3,10 @@ title: "Section 3056m - Report on service to minority individuals"
 usc_title: 42
 usc_section: "3056m"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3056m"
-generated_at: "2026-03-30T02:56:11.179Z"
+generated_at: "2026-11-23T21:26:32.516Z"
+status: "active"
 ---
 
 # § 3056m. Report on service to minority individuals
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.179Z"
     - **(D)** recommendations for increasing participation of minority individuals in the program.
 - **(c)** The Secretary shall establish criteria for determining the effectiveness of grantees in serving minority individuals in accordance with the goals set forth in section 3056(a)(1) of title.
 - **(d)** The Secretary shall annually submit such a report to the appropriate committees of Congress.
+
+## Source Credit
+
+*([Pub. L. 89–73, title V, § 515](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 109–365, title V, § 501](https://www.govinfo.gov/link/plaw/109/public/365), Oct. 17, 2006, [120 Stat. 2587](https://www.govinfo.gov/link/statute/120/2587).)*

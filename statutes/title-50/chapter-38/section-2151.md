@@ -3,9 +3,10 @@ title: "Section 2151 - Application of Federal Employees’ Retirement System to 
 usc_title: 50
 usc_section: "2151"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2151"
-generated_at: "2026-03-30T02:56:26.219Z"
+generated_at: "2026-11-23T21:26:38.960Z"
+status: "active"
 ---
 
 # § 2151. Application of Federal Employees’ Retirement System to Agency employees
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:26.219Z"
   - **(2)** shall take effect beginning with the first pay period beginning after the date of the election; and
   - **(3)** shall be irrevocable.
 - **(e)** The application of the provisions of chapter 84 of title 5 to an employee referred to in subsection (a) shall be subject to the exceptions and special rules provided in this subchapter. Any provision of that chapter which is inconsistent with a special rule provided in this subchapter shall not apply to such employees.
+
+## Source Credit
+
+*([Pub. L. 88–643, title III, § 301](https://www.govinfo.gov/link/plaw/88/public/643), as added [Pub. L. 102–496, title VIII, § 802](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3243](https://www.govinfo.gov/link/statute/106/3243).)*

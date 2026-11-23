@@ -3,9 +3,10 @@ title: "Section 1304 - Loyalty investigations; reports; revolving fund"
 usc_title: 5
 usc_section: "1304"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 1304"
-generated_at: "2026-03-30T02:52:55.996Z"
+generated_at: "2026-11-23T21:25:23.113Z"
+status: "active"
 ---
 
 # § 1304. Loyalty investigations; reports; revolving fund
@@ -33,3 +34,51 @@ generated_at: "2026-03-30T02:52:55.996Z"
   - **(6)** The Comptroller General of the United States shall, as a result of his periodic reviews of the activities financed by the fund, report and make such recommendations as he deems appropriate to the Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House of Representatives.
 - **(f)** An agency may use available appropriations to reimburse the Office or the Federal Bureau of Investigation for the cost of investigations, training, and functions performed for them under this section, or to make advances toward their cost. These advances and reimbursements shall be credited directly to the applicable appropriations of the Office or the Federal Bureau of Investigation.
 - **(g)** This section does not affect the responsibility of the Federal Bureau of Investigation to investigate espionage, sabotage, or subversive acts.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| (b)–(d) | 5 U.S.C. 655 . | Apr. 5, 1952, ch. 159, § 1 (provisos), 66 Stat. 44 . July 31, 1953, ch. 283, § 9 , 67 Stat. 241 . |
+| (e) | 5 U.S.C. 657 . | June 5, 1952, ch. 369, § 701 (par. under “Civil Service Commission”), 66 Stat. 107 . |
+| (f) | [Uncodified]. | Apr. 5, 1952, ch. 159, § 4 , 66 Stat. 44 . |
+| (g) | 5 U.S.C. 656 . | Apr. 5, 1952, ch. 159, § 3 , 66 Stat. 44 . |
+
+
+Historical and Revision Notes
+
+(b)–(d)
+
+5 U.S.C. 655
+
+Apr. 5, 1952, ch. 159, § 1
+
+66 Stat. 44
+
+July 31, 1953, ch. 283, § 9
+
+67 Stat. 241
+
+(e)
+
+5 U.S.C. 657
+
+June 5, 1952, ch. 369, § 701
+
+66 Stat. 107
+
+(f)
+
+Apr. 5, 1952, ch. 159, § 4
+
+66 Stat. 44
+
+(g)
+
+5 U.S.C. 656
+
+Apr. 5, 1952, ch. 159, § 3
+
+66 Stat. 44
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 401](https://www.govinfo.gov/link/statute/80/401); [Pub. L. 91–189, § 1](https://www.govinfo.gov/link/plaw/91/public/189), Dec. 30, 1969, [83 Stat. 851](https://www.govinfo.gov/link/statute/83/851); [Pub. L. 91–648, title V, § 510](https://www.govinfo.gov/link/plaw/91/public/648), Jan. 5, 1971, [84 Stat. 1928](https://www.govinfo.gov/link/statute/84/1928); [Pub. L. 95–454, title IX, § 906(a)(2)](https://www.govinfo.gov/link/plaw/95/public/454), (3), Oct. 13, 1978, [92 Stat. 1224](https://www.govinfo.gov/link/statute/92/1224); [Pub. L. 96–60, title II, § 203(a)(2)](https://www.govinfo.gov/link/plaw/96/public/60), Aug. 15, 1979, [93 Stat. 398](https://www.govinfo.gov/link/statute/93/398); [Pub. L. 97–412, § 1(a)](https://www.govinfo.gov/link/plaw/97/public/412), Jan. 3, 1983, [96 Stat. 2047](https://www.govinfo.gov/link/statute/96/2047); [Pub. L. 98–224, § 5(b)(1)](https://www.govinfo.gov/link/plaw/98/public/224), Mar. 2, 1984, [98 Stat. 48](https://www.govinfo.gov/link/statute/98/48); [Pub. L. 103–437, § 3(a)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4581](https://www.govinfo.gov/link/statute/108/4581); [Pub. L. 104–66, title II, § 2182](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 732](https://www.govinfo.gov/link/statute/109/732); [Pub. L. 104–208, div. A, title I, § 101(f) [title IV, § 421]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–314](https://www.govinfo.gov/link/statute/110/3009), 3009–343; [Pub. L. 113–80, § 2](https://www.govinfo.gov/link/plaw/113/public/80), Feb. 12, 2014, [128 Stat. 1006](https://www.govinfo.gov/link/statute/128/1006).)*

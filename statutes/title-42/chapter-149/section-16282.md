@@ -3,9 +3,10 @@ title: "Section 16282 - U.S. nuclear fuel security initiative"
 usc_title: 42
 usc_section: "16282"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16282"
-generated_at: "2026-03-30T02:56:11.477Z"
+generated_at: "2026-11-23T21:26:33.719Z"
+status: "active"
 ---
 
 # § 16282. U.S. nuclear fuel security initiative
@@ -146,3 +147,7 @@ generated_at: "2026-03-30T02:56:11.477Z"
 - **(o)** Not later than 180 days after December 22, 2023 , the Secretary shall submit to the appropriate committees of Congress a report that identifies the anticipated funding requirements for the civil nuclear credit program described in section 18753 of this title , taking into account—
   - **(1)** the zero-emission nuclear power production credit authorized by section 45U of title 26 ; and
   - **(2)** any increased fuel costs associated with the use of domestic fuel that may arise from the implementation of that program.
+
+## Source Credit
+
+*([Pub. L. 118–31, div. C, title XXXI, § 3131](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 795](https://www.govinfo.gov/link/statute/137/795); [Pub. L. 118–42, div. D, title III, § 312(c)](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 211](https://www.govinfo.gov/link/statute/138/211).)*

@@ -3,9 +3,10 @@ title: "Section 1105 - Budget contents and submission to Congress"
 usc_title: 31
 usc_section: "1105"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 1105"
-generated_at: "2026-03-30T02:55:34.048Z"
+generated_at: "2026-11-23T21:26:10.537Z"
+status: "active"
 ---
 
 # § 1105. Budget contents and submission to Congress
@@ -142,3 +143,241 @@ generated_at: "2026-03-30T02:55:34.048Z"
     - **(B)** Not later than 1 year after the date of enactment of this subsection, the Director of the Office of Management and Budget, in consultation with the Secretary of the Treasury, shall establish policies and data standards for agencies relating to making available materials under subparagraph (A), which shall include guidelines for making budget justification materials available in a format aligned with the requirements of section 3(b)(2)(C) of the Federal Funding Accountability and Transparency Act of 2006 ( 31 U.S.C. 6101 note) and using a uniform resource locator that is in a consistent format across agencies and is descriptive, memorable, and pronounceable, such as the format of “agencyname.gov/budget”.
     - **(C)** If the Director of the Office of Management and Budget maintains a public website that contains the budget of the United States Government submitted under subsection (a) and any related materials, such website shall also contain a link to the tabular list required under paragraph (1).
   - **(3)** In this subsection, the term “budget justification materials” has the meaning given that term in section 3(b)(2) of the Federal Funding Accountability and Transparency Act of 2006 ( 31 U.S.C. 6101 note).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1105(a) (1)–(14) | 31:11(a)(less (5)(words after 2d comma)). | June 10, 1921, ch. 18, § 201(a) , 42 Stat. 20 ; restated Sept. 12, 1950, ch. 946, § 102(a) , 64 Stat. 832 ; Aug. 1, 1956, ch. 814, § 1(a) , 70 Stat. 782 ; Oct. 26, 1970 , Pub. L. 91–510, § 221(a) , 84 Stat. 1169 ; July 12, 1974 , Pub. L. 93–344 , §§ 603, 604, 88 Stat. 324 . |
+|  | 31:19. | June 10, 1921, ch. 18, § 211 , 42 Stat. 22 ; Reorg. Plan No. 1 of 1939, eff. July 1, 1939 , § 1, 53 Stat. 1423 ; Reorg. Plan No. 2 of 1970, eff. July 1, 1970 , § 102(a), 84 Stat. 2085 . |
+| 1105(a)(15) | 31:11(d). | June 10, 1921, ch. 18 , 42 Stat. 20 , § 201(d)–(f), (g)(last sentence)–(i)(1st sentence); added July 12, 1974 , Pub. L. 93–344, § 601 , 88 Stat. 323 . |
+| 1105(a)(16) | 31:11(e). |  |
+| 1105(a)(17) | 31:11(h). |  |
+| 1105(a) (18)–(20) | 31:11(f). |  |
+| 1105(a)(21) | 31:25 | Oct. 18, 1962 , Pub. L. 87–843, § 304 (1st par.), 76 Stat. 1097 ; Reorg. Plan No. 2 of 1970, eff. July 1, 1970 , § 102(a), 84 Stat. 2085 ; Sept. 17, 1978 , Pub. L. 95–367, § 5(g)(2) , 92 Stat. 603 . |
+| 1105(a)(22) | 31:11(i)(1st sentence). |  |
+| 1105(a)(23) | 31:11(note). | Nov. 9, 1977 , Pub. L. 95–164, § 305 , 91 Stat. 1322 . |
+| 1105(a)(24) | 31:859. | Dec. 6, 1945, ch. 557, § 204 , 59 Stat. 601 . |
+| 1105(b) | 28:605(last par.). |  |
+|  | 31:11(a)(5)(words after 2d comma). |  |
+| 1105(c) | 31:13. | June 10, 1921, ch. 18, § 202 , 42 Stat. 21 . |
+| 1105(d) | 31:11(g)(last sentence). |  |
+
+| 1983 Act | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1105(a)(25) | 31 App.:11(k)(1). | June 10, 1921, ch. 18 , 42 Stat. 20 , § 201(k)(1); added Sept. 8, 1982 , Pub. L. 97–255, § 3 , 96 Stat. 815 . |
+
+
+Historical and Revision Notes
+
+Act
+
+June 10, 1921, ch. 18, § 201(a)
+
+42 Stat. 20
+
+Sept. 12, 1950, ch. 946, § 102(a)
+
+64 Stat. 832
+
+Aug. 1, 1956, ch. 814, § 1(a)
+
+70 Stat. 782
+
+Oct. 26, 1970
+
+Pub. L. 91–510, § 221(a)
+
+84 Stat. 1169
+
+July 12, 1974
+
+Pub. L. 93–344
+
+88 Stat. 324
+
+June 10, 1921, ch. 18, § 211
+
+42 Stat. 22
+
+July 1, 1939
+
+53 Stat. 1423
+
+July 1, 1970
+
+84 Stat. 2085
+
+1105(a)(15)
+
+June 10, 1921, ch. 18
+
+42 Stat. 20
+
+July 12, 1974
+
+Pub. L. 93–344, § 601
+
+88 Stat. 323
+
+1105(a)(16)
+
+1105(a)(17)
+
+1105(a)(21)
+
+Oct. 18, 1962
+
+Pub. L. 87–843, § 304
+
+76 Stat. 1097
+
+July 1, 1970
+
+84 Stat. 2085
+
+Sept. 17, 1978
+
+Pub. L. 95–367, § 5(g)(2)
+
+92 Stat. 603
+
+1105(a)(22)
+
+1105(a)(23)
+
+Nov. 9, 1977
+
+Pub. L. 95–164, § 305
+
+91 Stat. 1322
+
+1105(a)(24)
+
+Dec. 6, 1945, ch. 557, § 204
+
+59 Stat. 601
+
+1105(b)
+
+1105(c)
+
+June 10, 1921, ch. 18, § 202
+
+42 Stat. 21
+
+1105(d)
+
+Act
+
+1105(a)(25)
+
+June 10, 1921, ch. 18
+
+42 Stat. 20
+
+Sept. 8, 1982
+
+Pub. L. 97–255, § 3
+
+96 Stat. 815
+
+“If the Secretary does not publish a statement of findings under section 410(e) [ 124 Stat. 3112 ] not later than March 31, 2016 , or the extended date agreed to by the Tribe and the Secretary, after reasonable notice to the State of Montana, as applicable—
+
+Definition
+
+Required Reports
+
+Copies of Submissions
+
+Definitions
+
+Administrative expenses
+
+Agency
+
+Director
+
+Administrative Expenses.—
+
+In general
+
+Administrative expenses determined
+
+Budget Submission
+
+Introduction and Referral of President’s Legislative Proposal.—
+
+Introduction
+
+Referral
+
+Direction to the Appropriate House Committees.—
+
+In general
+
+Medicare funding legislation
+
+Certification
+
+Fallback Procedure for Floor Consideration if the House Fails to Vote on Final Passage by July
+
+Floor Consideration in the House of Discharged Legislation.—
+
+Legislative Day Defined
+
+Restriction on Waiver
+
+Rulemaking Power
+
+Introduction and Referral of President’s Legislative Proposal.—
+
+Introduction
+
+Referral
+
+Medicare Funding Legislation
+
+Qualification for Special Procedures.—
+
+In general
+
+Failure to qualify for special procedures
+
+Discharge.—
+
+In general
+
+Debate limits
+
+Amendments
+
+Exception if certified legislation enacted
+
+Consideration
+
+Rules of the Senate
+
+In General
+
+Notice
+
+Guidelines
+
+Peer Review
+
+Opinion of Congress
+
+Submission of
+
+-Year Budget by President
+
+Report
+
+“The purposes of this title [amending this section and enacting provisions set out as notes under this section and section 1101 of this title ] are—
+
+Franklin D. Roosevelt.
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 908](https://www.govinfo.gov/link/statute/96/908); [Pub. L. 97–452, § 1(2)](https://www.govinfo.gov/link/plaw/97/public/452), Jan. 12, 1983, [96 Stat. 2467](https://www.govinfo.gov/link/statute/96/2467); [Pub. L. 98–501, title II, § 203](https://www.govinfo.gov/link/plaw/98/public/501), Oct. 19, 1984, [98 Stat. 2324](https://www.govinfo.gov/link/statute/98/2324); [Pub. L. 99–177, title II, § 241](https://www.govinfo.gov/link/plaw/99/public/177), Dec. 12, 1985, [99 Stat. 1063](https://www.govinfo.gov/link/statute/99/1063); [Pub. L. 100–119, title I, § 106(f)](https://www.govinfo.gov/link/plaw/100/public/119), Sept. 29, 1987, [101 Stat. 781](https://www.govinfo.gov/link/statute/101/781); [Pub. L. 100–418, title V, § 5301](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1462](https://www.govinfo.gov/link/statute/102/1462); [Pub. L. 100–504, title I, § 108](https://www.govinfo.gov/link/plaw/100/public/504), Oct. 18, 1988, [102 Stat. 2529](https://www.govinfo.gov/link/statute/102/2529); [Pub. L. 100–690, title I, § 1006](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4187](https://www.govinfo.gov/link/statute/102/4187); [Pub. L. 101–508, title XIII, § 13112(c)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–608](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 101–576, title II, § 203(b)](https://www.govinfo.gov/link/plaw/101/public/576), Nov. 15, 1990, [104 Stat. 2841](https://www.govinfo.gov/link/statute/104/2841); [Pub. L. 103–62, § 4(a)](https://www.govinfo.gov/link/plaw/103/public/62), Aug. 3, 1993, [107 Stat. 286](https://www.govinfo.gov/link/statute/107/286); [Pub. L. 103–272, § 4(f)(1)(E)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1362](https://www.govinfo.gov/link/statute/108/1362); [Pub. L. 103–322, title XXXI, § 310001(e)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2103](https://www.govinfo.gov/link/statute/108/2103); [Pub. L. 103–355, title II, § 2454(a)](https://www.govinfo.gov/link/plaw/103/public/355), Oct. 13, 1994, [108 Stat. 3326](https://www.govinfo.gov/link/statute/108/3326); [Pub. L. 104–287, § 4(1)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3388](https://www.govinfo.gov/link/statute/110/3388); [Pub. L. 105–33, title X, § 10209(b)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 711](https://www.govinfo.gov/link/statute/111/711); [Pub. L. 105–277, div. C, title VII, § 713(c)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–693](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–58, title VI, § 638(f)](https://www.govinfo.gov/link/plaw/106/public/58), Sept. 29, 1999, [113 Stat. 475](https://www.govinfo.gov/link/statute/113/475); [Pub. L. 106–422, § 2(c)](https://www.govinfo.gov/link/plaw/106/public/422), Nov. 1, 2000, [114 Stat. 1874](https://www.govinfo.gov/link/statute/114/1874); [Pub. L. 107–189, § 4(a)](https://www.govinfo.gov/link/plaw/107/public/189), June 14, 2002, [116 Stat. 699](https://www.govinfo.gov/link/statute/116/699); [Pub. L. 107–217, § 3(h)(3)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1299](https://www.govinfo.gov/link/statute/116/1299); [Pub. L. 107–296, title VIII, § 889(a)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2250](https://www.govinfo.gov/link/statute/116/2250); [Pub. L. 108–173, title VIII, § 802(a)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2360](https://www.govinfo.gov/link/statute/117/2360); [Pub. L. 108–178, § 4(f)(1)](https://www.govinfo.gov/link/plaw/108/public/178), Dec. 15, 2003, [117 Stat. 2641](https://www.govinfo.gov/link/statute/117/2641); [Pub. L. 110–343, div. A, title II, § 203(a)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3801](https://www.govinfo.gov/link/statute/122/3801); [Pub. L. 110–409, § 7(d)(2)](https://www.govinfo.gov/link/plaw/110/public/409), Oct. 14, 2008, [122 Stat. 4313](https://www.govinfo.gov/link/statute/122/4313); [Pub. L. 111–81, § 2](https://www.govinfo.gov/link/plaw/111/public/81), Oct. 22, 2009, [123 Stat. 2137](https://www.govinfo.gov/link/statute/123/2137); [Pub. L. 111–291, title IV](https://www.govinfo.gov/link/plaw/111/public/291), §§ 411(h), 415, Dec. 8, 2010, [124 Stat. 3116](https://www.govinfo.gov/link/statute/124/3116), 3121; [Pub. L. 111–352, § 11(a)](https://www.govinfo.gov/link/plaw/111/public/352), Jan. 4, 2011, [124 Stat. 3881](https://www.govinfo.gov/link/statute/124/3881); [Pub. L. 113–235, div. I, title II, § 244(d)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2569](https://www.govinfo.gov/link/statute/128/2569); [Pub. L. 114–315, title VI, § 601(b)](https://www.govinfo.gov/link/plaw/114/public/315), Dec. 16, 2016, [130 Stat. 1569](https://www.govinfo.gov/link/statute/130/1569); [Pub. L. 115–31, div. E, title VI, § 630(a)](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 375](https://www.govinfo.gov/link/statute/131/375); [Pub. L. 117–40, § 2(b)](https://www.govinfo.gov/link/plaw/117/public/40), Sept. 24, 2021, [135 Stat. 338](https://www.govinfo.gov/link/statute/135/338); [Pub. L. 117–286, § 4(b)(50)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4348](https://www.govinfo.gov/link/statute/136/4348); [Pub. L. 118–172, § 2(b)](https://www.govinfo.gov/link/plaw/118/public/172), Dec. 23, 2024, [138 Stat. 2595](https://www.govinfo.gov/link/statute/138/2595).)*

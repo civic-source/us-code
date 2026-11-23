@@ -3,9 +3,10 @@ title: "Section 292j - Powers and responsibilities of Secretary"
 usc_title: 42
 usc_section: "292j"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 292j"
-generated_at: "2026-03-30T02:56:10.773Z"
+generated_at: "2026-11-23T21:26:30.619Z"
+status: "active"
 ---
 
 # § 292j. Powers and responsibilities of Secretary
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:10.773Z"
 - **(b)** The Secretary shall, with respect to the financial operations arising by reason of this subpart—
   - **(1)** prepare annually and submit a budget program as provided for wholly owned Government corporations by chapter 91 of title 31; and
   - **(2)** maintain with respect to insurance under this subpart an integral set of accounts.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 711, as added [Pub. L. 102–408, title I, § 102](https://www.govinfo.gov/link/plaw/102/public/408), Oct. 13, 1992, [106 Stat. 2007](https://www.govinfo.gov/link/statute/106/2007).)*

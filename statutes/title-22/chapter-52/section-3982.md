@@ -3,9 +3,10 @@ title: "Section 3982 - Assignments to Foreign Service positions"
 usc_title: 22
 usc_section: "3982"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3982"
-generated_at: "2026-03-30T02:55:05.400Z"
+generated_at: "2026-11-23T21:25:58.607Z"
+status: "active"
 ---
 
 # § 3982. Assignments to Foreign Service positions
@@ -18,3 +19,33 @@ generated_at: "2026-03-30T02:55:05.400Z"
   - **(2)** Senior Foreign Service positions may also be filled by other members of the Service.
 - **(c)** The President may assign a career member of the Service to serve as charge d’affaires or otherwise as the head of a mission (or as the head of a United States office abroad which is designated under section 3902(a)(3) 1 1 See References in Text note below. of this title by the Secretary of State as diplomatic in nature) for such period as the public interest may require.
 - **(d)** The Secretary of State, in conjunction with the heads of the other agencies utilizing the Foreign Service personnel system, shall implement policies and procedures to insure that Foreign Service officers and members of the Senior Foreign Service of all agencies are able to compete for chief of mission positions and have opportunities on an equal basis to compete for assignments outside their areas of specialization.
+
+In General
+
+Consideration of Certain Promotion Issues
+
+Reporting and Oversight
+
+Sense of Congress
+
+Definitions
+
+Family togetherness
+
+Tandem foreign service personnel; tandem
+
+Family Togetherness in Assignments
+
+Entry-level foreign service personnel
+
+Tenured foreign service personnel
+
+Updates to antinepotism policy
+
+Temporary supervision of tandem spouse
+
+Report
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 502](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2093](https://www.govinfo.gov/link/statute/94/2093); [Pub. L. 98–164, title I, § 130(b)](https://www.govinfo.gov/link/plaw/98/public/164), Nov. 22, 1983, [97 Stat. 1027](https://www.govinfo.gov/link/statute/97/1027); [Pub. L. 114–323, title IV, § 414(d)](https://www.govinfo.gov/link/plaw/114/public/323), Dec. 16, 2016, [130 Stat. 1933](https://www.govinfo.gov/link/statute/130/1933); [Pub. L. 117–81, div. E, title LI, § 5109(2)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2349](https://www.govinfo.gov/link/statute/135/2349).)*

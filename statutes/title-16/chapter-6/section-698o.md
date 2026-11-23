@@ -3,9 +3,10 @@ title: "Section 698o - Protection of significant historic assets"
 usc_title: 16
 usc_section: "698o"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 698o"
-generated_at: "2026-03-30T02:54:22.898Z"
+generated_at: "2026-11-23T21:25:51.728Z"
+status: "active"
 ---
 
 # § 698o. Protection of significant historic assets
@@ -20,3 +21,7 @@ The Secretary, with the consent of the owners thereof, may acquire by donation o
   - **(6)** The Zephaniah Kingsley plantation, with its eighteenth and nineteenth century buildings.
   - **(7)** The Spanish American War fortification on Saint Johns Bluff.
   - **(8)** The confederate fort known as the Yellow Bluff Fort State Historic Site.
+
+## Source Credit
+
+*([Pub. L. 100–249, title II, § 202](https://www.govinfo.gov/link/plaw/100/public/249), Feb. 16, 1988, [102 Stat. 14](https://www.govinfo.gov/link/statute/102/14).)*

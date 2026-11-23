@@ -3,9 +3,10 @@ title: "Section 57110 - Salvage recoveries for subrogated ownership of vessels a
 usc_title: 46
 usc_section: "57110"
 chapter: 571
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 57110"
-generated_at: "2026-03-30T02:56:15.581Z"
+generated_at: "2026-11-23T21:26:37.323Z"
+status: "active"
 ---
 
 # § 57110. Salvage recoveries for subrogated ownership of vessels and cargoes
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:56:15.581Z"
 - **(c)** Notwithstanding any other provision of law, the net proceeds from salvage agreements entered into as authorized in subsection (a) shall remain available until expended and be distributed as follows:
   - **(1)** Fifty percent shall be available to the Administrator of the Maritime Administration for the payment or reimbursement of expenses incurred by or on behalf of State maritime academies or the United States Merchant Marine Academy for facility and training ship maintenance, repair, and modernization, and for the purchase of simulators and fuel.
   - **(2)** The remainder shall be distributed for maritime heritage preservation to the Department of the Interior for grants as authorized by section 308703 of title 54 .
+
+Salvage Agreements
+
+Military Craft
+
+Recoveries
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. C, title XXXV, § 3509(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1977](https://www.govinfo.gov/link/statute/133/1977), § 57111; renumbered § 57110, [Pub. L. 118–31, div. C, title XXXV, § 3514(j)(1)(A)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 811](https://www.govinfo.gov/link/statute/137/811).)*

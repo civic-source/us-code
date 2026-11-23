@@ -3,9 +3,10 @@ title: "Section 2156 - Animal fighting venture prohibition"
 usc_title: 7
 usc_section: "2156"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2156"
-generated_at: "2026-03-30T02:53:42.378Z"
+generated_at: "2026-11-23T21:25:28.279Z"
+status: "active"
 ---
 
 # § 2156. Animal fighting venture prohibition
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:42.378Z"
   - **(1)** The provisions of this chapter shall not supersede or otherwise invalidate any such State, local, or municipal legislation or ordinance relating to animal fighting ventures except in case of a direct and irreconcilable conflict between any requirements thereunder and this chapter or any rule, regulation, or standard hereunder.
   - **(2)**
 - **(i)** The criminal penalties for violations of subsection (a), (b), (c), or (d) are provided in section 49 of title 18 .
+
+## Source Credit
+
+*([Pub. L. 89–544, § 26](https://www.govinfo.gov/link/plaw/89/public/544), as added [Pub. L. 94–279, § 17](https://www.govinfo.gov/link/plaw/94/public/279), Apr. 22, 1976, [90 Stat. 421](https://www.govinfo.gov/link/statute/90/421); amended [Pub. L. 101–650, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117); [Pub. L. 107–171, title X](https://www.govinfo.gov/link/plaw/107/public/171), §§ 10302(a), 10303(a), May 13, 2002, [116 Stat. 491](https://www.govinfo.gov/link/statute/116/491), 492; [Pub. L. 110–22, § 3](https://www.govinfo.gov/link/plaw/110/public/22), May 3, 2007, [121 Stat. 88](https://www.govinfo.gov/link/statute/121/88); [Pub. L. 110–234, title XIV, § 14207(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1461](https://www.govinfo.gov/link/statute/122/1461); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14207(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2223; [Pub. L. 113–79, title XII, § 12308(b)(1)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 990](https://www.govinfo.gov/link/statute/128/990); [Pub. L. 115–334, title XII, § 12616(a)](https://www.govinfo.gov/link/plaw/115/public/334) –(c), Dec. 20, 2018, [132 Stat. 5015](https://www.govinfo.gov/link/statute/132/5015), 5016.)*

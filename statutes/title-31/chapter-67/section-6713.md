@@ -3,9 +3,10 @@ title: "Section 6713 - Suspension and termination of payments in discrimination 
 usc_title: 31
 usc_section: "6713"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 6713"
-generated_at: "2026-03-30T02:55:34.074Z"
+generated_at: "2026-11-23T21:26:10.648Z"
+status: "active"
 ---
 
 # § 6713. Suspension and termination of payments in discrimination proceedings
@@ -26,3 +27,21 @@ generated_at: "2026-03-30T02:55:34.074Z"
   - **(4)** if a suspension is discontinued under subsection (b).
 - **(d)** For purposes of subsection (c)(2), compliance by a government may consist of the payment of restitution to a person injured because the government did not comply with section 6711(a) or (b).
 - **(e)** The Secretary may resume payment to a unit of general local government of payments terminated under section 6712(d)(2)(A) only if the decision resulting in the termination is reversed by an appellate court.
+
+Imposition and Continuation of Suspensions.—
+
+In general
+
+Effectiveness
+
+Lifting of Suspensions and Terminations
+
+Resumption of Payments Upon Attaining Compliance
+
+Payment of Damages as Compliance
+
+Resumption of Payments Upon Reversal by Court
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title III, § 31001(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1876](https://www.govinfo.gov/link/statute/108/1876).)*

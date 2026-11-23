@@ -3,9 +3,10 @@ title: "Section 763d - Encouraging market access and privatization"
 usc_title: 47
 usc_section: "763d"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 763d"
-generated_at: "2026-03-30T02:56:24.526Z"
+generated_at: "2026-11-23T21:26:36.067Z"
+status: "active"
 ---
 
 # § 763d. Encouraging market access and privatization
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:24.526Z"
   - **(1)** any higher settlement rate that an overseas carrier charges any United States carrier to originate or terminate international message telephone services; and
   - **(2)** any transition period that would otherwise apply,
 - **(c)** The Commission shall, in exercising its authority to establish settlements rates for United States international common carriers, seek to advance United States policy in favor of cost-based settlements in all relevant fora on international telecommunications policy, including in meetings with parties and signatories of INTELSAT and Inmarsat.
+
+## Source Credit
+
+*([Pub. L. 87–624, title VI, § 625](https://www.govinfo.gov/link/plaw/87/public/624), as added [Pub. L. 106–180, § 3](https://www.govinfo.gov/link/plaw/106/public/180), Mar. 17, 2000, [114 Stat. 54](https://www.govinfo.gov/link/statute/114/54).)*

@@ -3,9 +3,10 @@ title: "Section 1007 - Enforcement orders"
 usc_title: 47
 usc_section: "1007"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1007"
-generated_at: "2026-03-30T02:56:24.529Z"
+generated_at: "2026-11-23T21:26:36.085Z"
+status: "active"
 ---
 
 # § 1007. Enforcement orders
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:24.529Z"
   - **(3)** require a telecommunications carrier to modify, for the purpose of complying with the assistance capability requirements of section 1002 of this title , any equipment, facility, or service deployed on or before January 1, 1995 , unless—
     - **(A)** the Attorney General has agreed to pay the telecommunications carrier for all reasonable costs directly associated with modifications necessary to bring the equipment, facility, or service into compliance with those requirements; or
     - **(B)** the equipment, facility, or service has been replaced or significantly upgraded or otherwise undergoes major modification.
+
+## Source Credit
+
+*([Pub. L. 103–414, title I, § 108](https://www.govinfo.gov/link/plaw/103/public/414), Oct. 25, 1994, [108 Stat. 4285](https://www.govinfo.gov/link/statute/108/4285).)*

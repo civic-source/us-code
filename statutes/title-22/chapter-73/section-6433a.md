@@ -3,9 +3,10 @@ title: "Section 6433a - Strategic plan"
 usc_title: 22
 usc_section: "6433a"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6433a"
-generated_at: "2026-03-30T02:55:05.428Z"
+generated_at: "2026-11-23T21:25:58.687Z"
+status: "active"
 ---
 
 # § 6433a. Strategic plan
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:55:05.428Z"
 - **(g)** Upon request, the Commission shall—
   - **(1)** make available for inspection any information and documents requested by the appropriate congressional committees; and
   - **(2)** respond to any requests to provide testimony before the appropriate congressional committees.
+
+## Source Credit
+
+*([Pub. L. 114–71, § 4](https://www.govinfo.gov/link/plaw/114/public/71), Oct. 16, 2015, [129 Stat. 563](https://www.govinfo.gov/link/statute/129/563); [Pub. L. 116–94, div. J, title VIII, § 807](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3079](https://www.govinfo.gov/link/statute/133/3079).)*

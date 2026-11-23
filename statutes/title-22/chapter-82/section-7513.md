@@ -3,9 +3,10 @@ title: "Section 7513 - Authorization of assistance"
 usc_title: 22
 usc_section: "7513"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7513"
-generated_at: "2026-03-30T02:55:05.440Z"
+generated_at: "2026-11-23T21:25:58.717Z"
+status: "active"
 ---
 
 # § 7513. Authorization of assistance
@@ -113,3 +114,69 @@ generated_at: "2026-03-30T02:55:05.440Z"
       - **(iv)** such other information as the Secretary considers appropriate to fully inform Congress on such matters.
     - **(C)** The first report submitted under this paragraph shall include a cumulative account of information described in subparagraph (B) from all prior periods beginning with fiscal year 2001. The first report under this paragraph shall be submitted not later than March 15, 2005 . Subsequent reports shall be submitted every 12 months thereafter and may be included in the report required under section 7536(c)(2) 2 2 See References in Text note below. of this title.
   - **(2)** The head of each United States Government agency referred to in paragraph (1) shall provide on a timely basis to the Secretary of State such information as the Secretary may reasonably require to allow the Secretary to prepare and submit the report required under paragraph (1).
+
+In general
+
+Training
+
+Enrollment and treatment
+
+Allocation of funds.—
+
+In general
+
+Types of programs and activities
+
+Authority
+
+Formulation and Execution of Program.—
+
+In general
+
+Exception
+
+Types of Projects
+
+Authority in Addition to Other Authorities
+
+Applicability of Certain Administrative Provisions.—
+
+In general
+
+Gifts, etc
+
+Funding.—
+
+In general
+
+Limitation
+
+Availability
+
+Congressional Notification
+
+Return of Unexpended Funds.—
+
+In general
+
+Availability
+
+Definition
+
+In General
+
+Elements of Performance Monitoring System
+
+Report
+
+Appropriate Congressional Committees Defined
+
+In General
+
+Implementation
+
+Availability of Funds
+
+## Source Credit
+
+*([Pub. L. 107–327, title I, § 103](https://www.govinfo.gov/link/plaw/107/public/327), Dec. 4, 2002, [116 Stat. 2799](https://www.govinfo.gov/link/statute/116/2799); [Pub. L. 108–458, title VII, § 7104(e)(1)(B)](https://www.govinfo.gov/link/plaw/108/public/458), (f)(2)–(g), (j)(1), (k)(2), Dec. 17, 2004, [118 Stat. 3782](https://www.govinfo.gov/link/statute/118/3782), 3783, 3785, 3787, 3788.)*

@@ -3,9 +3,10 @@ title: "Section 1461 - National Estuarine Research Reserve System"
 usc_title: 16
 usc_section: "1461"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1461"
-generated_at: "2026-03-30T02:54:22.972Z"
+generated_at: "2026-11-23T21:25:51.889Z"
+status: "active"
 ---
 
 # § 1461. National Estuarine Research Reserve System
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:54:22.972Z"
   - **(2)** any expansion of existing national estuarine reserves;
   - **(3)** the status of the research program being conducted within the System; and
   - **(4)** a summary of the evaluations made under subsection (f).
+
+## Source Credit
+
+*([Pub. L. 89–454, title III, § 315](https://www.govinfo.gov/link/plaw/89/public/454), formerly § 312, as added [Pub. L. 92–583](https://www.govinfo.gov/link/plaw/92/public/583), Oct. 27, 1972, [86 Stat. 1288](https://www.govinfo.gov/link/statute/86/1288); renumbered § 315 and amended [Pub. L. 94–370](https://www.govinfo.gov/link/plaw/94/public/370), §§ 7, 12, July 26, 1976, [90 Stat. 1019](https://www.govinfo.gov/link/statute/90/1019), 1030; [Pub. L. 96–464, § 11](https://www.govinfo.gov/link/plaw/96/public/464), Oct. 17, 1980, [94 Stat. 2067](https://www.govinfo.gov/link/statute/94/2067); [Pub. L. 99–272, title VI, § 6044](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 125](https://www.govinfo.gov/link/statute/100/125); [Pub. L. 101–508, title VI, § 6214](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–313](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–587, title II, § 2205(b)(1)(A)](https://www.govinfo.gov/link/plaw/102/public/587), (B), (21), (22), Nov. 4, 1992, [106 Stat. 5050](https://www.govinfo.gov/link/statute/106/5050), 5052; [Pub. L. 104–150, § 6](https://www.govinfo.gov/link/plaw/104/public/150), June 3, 1996, [110 Stat. 1381](https://www.govinfo.gov/link/statute/110/1381).)*

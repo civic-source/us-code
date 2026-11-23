@@ -3,9 +3,10 @@ title: "Section 2680b - Special rules for certain monthly workers’ compensatio
 usc_title: 22
 usc_section: "2680b"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2680b"
-generated_at: "2026-03-30T02:55:05.378Z"
+generated_at: "2026-11-23T21:25:58.527Z"
+status: "active"
 ---
 
 # § 2680b. Special rules for certain monthly workers’ compensation payments and other payments for Department of State personnel under chief of mission authority
@@ -70,3 +71,23 @@ generated_at: "2026-03-30T02:55:05.378Z"
     - **(B)** The regulations prescribed under subparagraph (A) shall include regulations detailing fair and equitable criteria for payment under paragraph (2).
   - **(5)** Payments made under paragraph (2) are supplemental to any other benefit furnished by the United States Government for which a covered dependent, dependent of a former employee, covered employee, former employee, or covered individual is entitled, and the receipt of such payments may not affect the eligibility of such a person to any other benefit furnished by the United States Government.
 - **(j)** The head of any Federal agency may exercise the authorities of this section, including to designate an incident, whether the incident occurred in the United States or abroad, for purposes of subparagraphs (A)(ii) and (B)(ii) of subsection (e)(4) when the incident affects United States Government employees of the agency or their dependents who are not under the security responsibility of the Secretary of State as set forth in section 4802 of this title or when operational control of overseas security responsibility for such employees or dependents has been delegated to the head of the agency.
+
+In general
+
+Notice to congress
+
+Definitions
+
+Definition of appropriate congressional committees
+
+Covered dependent
+
+Covered employee
+
+Covered individual
+
+Qualifying injury
+
+## Source Credit
+
+*([Pub. L. 116–94, div. J, title IX, § 901](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3079](https://www.govinfo.gov/link/statute/133/3079); [Pub. L. 116–283, div. A, title XI, § 1110](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3892](https://www.govinfo.gov/link/statute/134/3892); [Pub. L. 117–46, § 3(b)](https://www.govinfo.gov/link/plaw/117/public/46), Oct. 8, 2021, [135 Stat. 394](https://www.govinfo.gov/link/statute/135/394); [Pub. L. 117–103, div. X, title VI, § 603(b)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 995](https://www.govinfo.gov/link/statute/136/995); [Pub. L. 117–263, div. I, title XCII, § 9216](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3877](https://www.govinfo.gov/link/statute/136/3877); [Pub. L. 119–60, div. E, title VI, § 5604](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1603](https://www.govinfo.gov/link/statute/139/1603).)*

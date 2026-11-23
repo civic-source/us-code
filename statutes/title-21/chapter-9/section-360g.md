@@ -3,9 +3,10 @@ title: "Section 360g - Judicial review"
 usc_title: 21
 usc_section: "360g"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 360g"
-generated_at: "2026-03-30T02:54:54.249Z"
+generated_at: "2026-11-23T21:25:56.080Z"
+status: "active"
 ---
 
 # § 360g. Judicial review
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:54.249Z"
 - **(d)** The judgment of the court affirming or setting aside, in whole or in part, any regulation or order shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification, as provided in section 1254 of title 28 .
 - **(e)** The remedies provided for in this section shall be in addition to and not in lieu of any other remedies provided by law.
 - **(f)** To facilitate judicial review under this section or under any other provision of law of a regulation or order issued under section 360c, 360d, 360e, 360f, 360h, 360i, 360j, or 360k of this title each such regulation or order shall contain a statement of the reasons for its issuance and the basis, in the record of the proceedings held in connection with its issuance, for its issuance.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 517, as added [Pub. L. 94–295, § 2](https://www.govinfo.gov/link/plaw/94/public/295), May 28, 1976, [90 Stat. 560](https://www.govinfo.gov/link/statute/90/560); amended [Pub. L. 101–629, § 13](https://www.govinfo.gov/link/plaw/101/public/629), Nov. 28, 1990, [104 Stat. 4524](https://www.govinfo.gov/link/statute/104/4524); [Pub. L. 102–300, § 6(f)](https://www.govinfo.gov/link/plaw/102/public/300), June 16, 1992, [106 Stat. 240](https://www.govinfo.gov/link/statute/106/240); [Pub. L. 105–115, title II, § 216(a)(2)](https://www.govinfo.gov/link/plaw/105/public/115), Nov. 21, 1997, [111 Stat. 2349](https://www.govinfo.gov/link/statute/111/2349); [Pub. L. 112–144, title VI, § 608(a)(2)(C)](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 1056](https://www.govinfo.gov/link/statute/126/1056).)*

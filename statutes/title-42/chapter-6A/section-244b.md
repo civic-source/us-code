@@ -3,9 +3,10 @@ title: "Section 244b - Activities relating to cardiomyopathy"
 usc_title: 42
 usc_section: "244b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 244b"
-generated_at: "2026-03-30T02:56:10.692Z"
+generated_at: "2026-11-23T21:26:30.257Z"
+status: "active"
 ---
 
 # § 244b. Activities relating to cardiomyopathy
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:10.692Z"
     - **(B)** representatives from medical professional societies that specialize in the care of adults and pediatrics with cardiomyopathy; and
     - **(C)** representatives from other relevant Federal agencies.
 - **(c)** In this section, the term “cardiomyopathy” has the meaning given to such term in section 244a of this title .
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 312B, as added [Pub. L. 118–176, § 2(a)](https://www.govinfo.gov/link/plaw/118/public/176), Dec. 23, 2024, [138 Stat. 2607](https://www.govinfo.gov/link/statute/138/2607).)*

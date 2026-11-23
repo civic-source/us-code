@@ -3,9 +3,10 @@ title: "Section 1323 - Modification of plan before confirmation"
 usc_title: 11
 usc_section: "1323"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1323"
-generated_at: "2026-03-30T02:53:53.887Z"
+generated_at: "2026-11-23T21:25:34.973Z"
+status: "active"
 ---
 
 # § 1323. Modification of plan before confirmation
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:53:53.887Z"
 - **(a)** The debtor may modify the plan at any time before confirmation, but may not modify the plan so that the plan as modified fails to meet the requirements of section 1322 of this title .
 - **(b)** After the debtor files a modification under this section, the plan as modified becomes the plan.
 - **(c)** Any holder of a secured claim that has accepted or rejected the plan is deemed to have accepted or rejected, as the case may be, the plan as modified, unless the modification provides for a change in the rights of such holder from what such rights were under the plan before modification, and such holder changes such holder’s previous acceptance or rejection.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2649](https://www.govinfo.gov/link/statute/92/2649).)*

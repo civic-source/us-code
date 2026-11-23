@@ -3,9 +3,10 @@ title: "Section 510 - Definitions"
 usc_title: 43
 usc_section: "510"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 510"
-generated_at: "2026-03-30T02:55:57.454Z"
+generated_at: "2026-11-23T21:26:19.788Z"
+status: "active"
 ---
 
 # § 510. Definitions
@@ -23,3 +24,7 @@ In this subchapter:
   - **(7)** The term “extraordinary operation and maintenance work” means major, nonrecurring maintenance to Reclamation-owned or operated facilities, or facility components, that is—
     - **(A)** intended to ensure the continued safe, dependable, and reliable delivery of authorized project benefits; and
     - **(B)** greater than 10 percent of the contractor’s or the transferred works operating entity’s annual operation and maintenance budget for the facility, or greater than $100,000.
+
+## Source Credit
+
+*([Pub. L. 111–11, title IX, § 9601](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1346](https://www.govinfo.gov/link/statute/123/1346).)*

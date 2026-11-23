@@ -3,9 +3,10 @@ title: "Section 2326b - Sediment management"
 usc_title: 33
 usc_section: "2326b"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2326b"
-generated_at: "2026-03-30T02:55:41.124Z"
+generated_at: "2026-11-23T21:26:11.446Z"
+status: "active"
 ---
 
 # § 2326b. Sediment management
@@ -32,3 +33,15 @@ generated_at: "2026-03-30T02:55:41.124Z"
   - **(1)** There is authorized to be appropriated to the Secretary to carry out this section $5,000,000 for each of fiscal years 1998 through 2001.
   - **(2)** In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out subsection (e) $5,000,000 for each of fiscal years 2002 through 2012.
   - **(3)** In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out subsection (g) with respect to Alaska, Hawaii, and the territories and possessions of the United States, $10,000,000, to remain available until expended.
+
+In General
+
+Report
+
+In General
+
+Cooperative Agreements
+
+## Source Credit
+
+*([Pub. L. 104–303, title V, § 516](https://www.govinfo.gov/link/plaw/104/public/303), Oct. 12, 1996, [110 Stat. 3763](https://www.govinfo.gov/link/statute/110/3763); [Pub. L. 106–541, title V, § 505](https://www.govinfo.gov/link/plaw/106/public/541), Dec. 11, 2000, [114 Stat. 2645](https://www.govinfo.gov/link/statute/114/2645); [Pub. L. 110–114, title V, § 5013](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1195](https://www.govinfo.gov/link/statute/121/1195); [Pub. L. 116–260, div. AA, title I, § 148](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2656](https://www.govinfo.gov/link/statute/134/2656).)*

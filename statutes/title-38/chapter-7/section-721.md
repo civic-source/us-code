@@ -3,9 +3,10 @@ title: "Section 721 - Recoupment of bonuses or awards paid to employees of Depar
 usc_title: 38
 usc_section: "721"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 721"
-generated_at: "2026-03-30T02:55:53.475Z"
+generated_at: "2026-11-23T21:26:16.563Z"
+status: "active"
 ---
 
 # § 721. Recoupment of bonuses or awards paid to employees of Department
@@ -21,3 +22,11 @@ generated_at: "2026-03-30T02:55:53.475Z"
 - **(b)**
   - **(1)** Upon the issuance of an order by the Secretary under subsection (a) with respect to an individual, the individual shall have an opportunity to appeal the order to the Director of the Office of Personnel Management before the date that is seven business days after the date of such issuance.
   - **(2)** The Director shall make a final decision with respect to an appeal under paragraph (1) within 30 business days after receiving such appeal.
+
+In General
+
+Appeal of Order of Secretary
+
+## Source Credit
+
+*(Added [Pub. L. 115–41, title II, § 204(a)](https://www.govinfo.gov/link/plaw/115/public/41), June 23, 2017, [131 Stat. 875](https://www.govinfo.gov/link/statute/131/875).)*

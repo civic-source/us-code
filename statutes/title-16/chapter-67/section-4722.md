@@ -3,9 +3,10 @@ title: "Section 4722 - Aquatic nuisance species program"
 usc_title: 16
 usc_section: "4722"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4722"
-generated_at: "2026-03-30T02:54:23.046Z"
+generated_at: "2026-11-23T21:25:52.021Z"
+status: "active"
 ---
 
 # § 4722. Aquatic nuisance species program
@@ -78,3 +79,7 @@ generated_at: "2026-03-30T02:54:23.046Z"
   - **(1)** Not later than 12 months after November 29, 1990 , the Task Force shall submit a report describing the program developed under subsection (a), including the research protocol required under subsection (f)(2), to the Congress.
   - **(2)** On an annual basis after the submission of the report under paragraph (1), the Task Force shall submit a report to the Congress detailing progress in carrying out this section.
   - **(3)** Not later than 90 days after December 23, 2022 , the Task Force shall submit a report to Congress recommending legislative, programmatic, or regulatory changes to eliminate remaining gaps in authorities between members of the Task Force to effectively manage and control the movement of aquatic nuisance species.
+
+## Source Credit
+
+*([Pub. L. 101–646, title I, § 1202](https://www.govinfo.gov/link/plaw/101/public/646), Nov. 29, 1990, [104 Stat. 4766](https://www.govinfo.gov/link/statute/104/4766); [Pub. L. 104–332, § 2(e)(3)](https://www.govinfo.gov/link/plaw/104/public/332), (4), (g), (h)(1), Oct. 26, 1996, [110 Stat. 4085](https://www.govinfo.gov/link/statute/110/4085), 4087, 4091; [Pub. L. 109–234, title II, § 2309](https://www.govinfo.gov/link/plaw/109/public/234), June 15, 2006, [120 Stat. 457](https://www.govinfo.gov/link/statute/120/457); [Pub. L. 117–263, div. K, title CXIII, § 11327(d)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4097](https://www.govinfo.gov/link/statute/136/4097).)*

@@ -3,9 +3,10 @@ title: "Section 59ff - Declaration of nonnavigability for portions of Pelican Is
 usc_title: 33
 usc_section: "59ff"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 59ff"
-generated_at: "2026-03-30T02:55:41.052Z"
+generated_at: "2026-11-23T21:26:11.287Z"
+status: "active"
 ---
 
 # § 59ff. Declaration of nonnavigability for portions of Pelican Island, Texas
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:41.052Z"
   - **(1)** to (3) Omitted.
 - **(c)** The declaration under subsection (a) shall apply only to those parts of the areas described in subsection (a) of this section and not described in subsection (b) of this section which are or will be bulkheaded and filled or otherwise occupied by permanent structures or other permanent physical improvements, including marina facilities. All such work is subject to applicable Federal statutes and regulations, including sections 401 and 403 of this title, section 1344 of this title and the National Environmental Policy Act of 1969 [ 42 U.S.C. 4321 et seq.].
 - **(d)** If, 20 years from December 19, 1991 , any area or part thereof described in subsection (a) of this section and not described in subsection (b) of this section is not bulkheaded or filled or occupied by permanent structures or other permanent physical improvements, including marina facilities, in accordance with the requirements set out in subsection (c) of this section, or if work is not commenced within five years after issuance of any permits required to be obtained under subsection (c), then the declaration of nonnavigability for such area or part thereof shall expire.
+
+## Source Credit
+
+*([Pub. L. 102–241, § 52](https://www.govinfo.gov/link/plaw/102/public/241), Dec. 19, 1991, [105 Stat. 2228](https://www.govinfo.gov/link/statute/105/2228).)*

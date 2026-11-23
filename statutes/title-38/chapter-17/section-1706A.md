@@ -3,9 +3,10 @@ title: "Section 1706A - Remediation of medical service lines"
 usc_title: 38
 usc_section: "1706A"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1706A"
-generated_at: "2026-03-30T02:55:53.482Z"
+generated_at: "2026-11-23T21:26:16.623Z"
+status: "active"
 ---
 
 # § 1706A. Remediation of medical service lines
@@ -23,3 +24,15 @@ generated_at: "2026-03-30T02:55:53.482Z"
 - **(d)** Not less frequently than once each year, the Secretary shall—
   - **(1)** submit to Congress an analysis of the remediation actions and costs of such actions taken with respect to each medical service line with respect to which the Secretary submitted an assessment and plan under subsection (a) in the preceding year, including an update on the progress of each such medical service line in complying with the standards for quality and timeliness established by the Secretary and any other actions the Secretary is undertaking to assist the medical service line in complying with standards for quality as established by the Secretary; and
   - **(2)** publish such analysis on the internet website of the Department.
+
+In General
+
+Responsible Parties
+
+Interim Reports
+
+Annual Reports
+
+## Source Credit
+
+*(Added [Pub. L. 115–182, title I, § 109(a)](https://www.govinfo.gov/link/plaw/115/public/182), June 6, 2018, [132 Stat. 1417](https://www.govinfo.gov/link/statute/132/1417); amended [Pub. L. 115–251, title II, § 211(a)(6)](https://www.govinfo.gov/link/plaw/115/public/251), Sept. 29, 2018, [132 Stat. 3175](https://www.govinfo.gov/link/statute/132/3175).)*

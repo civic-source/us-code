@@ -3,9 +3,10 @@ title: "Section 7902 - Safety programs"
 usc_title: 5
 usc_section: "7902"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 7902"
-generated_at: "2026-03-30T02:52:56.040Z"
+generated_at: "2026-11-23T21:25:23.345Z"
+status: "active"
 ---
 
 # § 7902. Safety programs
@@ -21,3 +22,44 @@ generated_at: "2026-03-30T02:52:56.040Z"
 - **(e)** Each agency shall—
   - **(1)** keep a record of injuries and accidents to its employees whether or not they result in loss of time or in the payment or furnishing of benefits; and
   - **(2)** make such statistical or other reports on such forms as the Secretary may prescribe by regulation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 784 (less (a)). | Sept. 16, 1916, ch. 458, § 33 (less (a)); added |
+|  |  | Dec. 22, 1944, ch. 664 , 58 Stat. 887 . |
+|  |  | Oct. 14, 1949, ch. 691, § 209 , 63 Stat. 865 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 784
+
+Sept. 16, 1916, ch. 458, § 33
+
+Dec. 22, 1944, ch. 664
+
+58 Stat. 887
+
+Oct. 14, 1949, ch. 691, § 209
+
+63 Stat. 865
+
+Scope of this Order
+
+Heads of Agencies
+
+Occupational Safety and Health Committees
+
+Department of Labor
+
+The Federal Advisory Council on Occupational Safety and Health
+
+General Services Administration
+
+General Provisions
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 530](https://www.govinfo.gov/link/statute/80/530); [Pub. L. 91–596, § 19(c)](https://www.govinfo.gov/link/plaw/91/public/596), Dec. 29, 1970, [84 Stat. 1610](https://www.govinfo.gov/link/statute/84/1610); [Pub. L. 105–241, § 2(b)(2)](https://www.govinfo.gov/link/plaw/105/public/241), Sept. 28, 1998, [112 Stat. 1572](https://www.govinfo.gov/link/statute/112/1572).)*

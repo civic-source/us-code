@@ -3,9 +3,10 @@ title: "Section 5119 - Redemption and cancellation of currency"
 usc_title: 31
 usc_section: "5119"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 5119"
-generated_at: "2026-03-30T02:55:34.065Z"
+generated_at: "2026-11-23T21:26:10.611Z"
+status: "active"
 ---
 
 # § 5119. Redemption and cancellation of currency
@@ -27,3 +28,67 @@ generated_at: "2026-03-30T02:55:34.065Z"
     - **(B)** outstanding currency referred to in subsection (b)(1) of this section.
   - **(2)** When the Secretary makes a determination under this subsection, the Secretary shall reduce the amount of that currency outstanding by the amount the Secretary determines will not be redeemed and credit the appropriate receipt account.
 - **(d)** To provide a historical collection of United States currency, the Secretary may withhold from cancellation and destruction and transfer to a special account one piece of each design, issue, or series of each denomination of each kind of currency (including circulating notes of Federal reserve banks and national banks) after redemption. The Secretary may make appropriate entries in Treasury accounts because of the transfers.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5119(a) | 31:408a(less last proviso). | Jan. 30, 1934, ch. 6 , §§ 6(less last proviso), 11, 15(1st sentence words between 2d and 3d semicolons), 48 Stat. 340 , 342, 344. |
+|  | 31:444(1st sentence words between 2d and 3d semicolons). |  |
+|  | 31:822b. |  |
+| 5119(b)(1) | 31:405a–3. | June 24, 1967 , Pub. L. 90–29 , §§ 1, 2, 81 Stat. 77 . |
+|  | 31:911. | June 30, 1961 , Pub. L. 87–66 , §§ 2, 5, 6, 9, 10, 75 Stat. 146 , 147. |
+|  | 31:915(a), (b). |  |
+| 5119(b)(2) | 31:404. | May 31, 1878, ch. 146 , 20 Stat. 87 ; June 30, 1961 , Pub. L. 87–66, § 7 , 75 Stat. 147 . |
+|  | 31:420. | R.S. § 3580. |
+|  | 31:914. |  |
+|  | 31:916. |  |
+| 5119(c)(1) | 31:915(c)(words before last comma). |  |
+| 5119(c)(2) | 31:405a–2. |  |
+|  | 31:915(c)(words after last comma). |  |
+| 5119(d) | 31:917. |  |
+
+
+Redemption, cancellation, and destruction of currency
+
+Historical and Revision Notes
+
+5119(a)
+
+Jan. 30, 1934, ch. 6
+
+48 Stat. 340
+
+5119(b)(1)
+
+June 24, 1967
+
+Pub. L. 90–29
+
+81 Stat. 77
+
+June 30, 1961
+
+Pub. L. 87–66
+
+75 Stat. 146
+
+5119(b)(2)
+
+May 31, 1878, ch. 146
+
+20 Stat. 87
+
+June 30, 1961
+
+Pub. L. 87–66, § 7
+
+75 Stat. 147
+
+5119(c)(1)
+
+5119(c)(2)
+
+5119(d)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 985](https://www.govinfo.gov/link/statute/96/985); [Pub. L. 102–390, title II, § 226(b)](https://www.govinfo.gov/link/plaw/102/public/390), Oct. 6, 1992, [106 Stat. 1630](https://www.govinfo.gov/link/statute/106/1630); [Pub. L. 103–325, title VI, § 602(g)(14)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2294](https://www.govinfo.gov/link/statute/108/2294).)*

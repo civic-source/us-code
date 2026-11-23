@@ -3,9 +3,10 @@ title: "Section 5301 - Congressional findings and declaration of purpose"
 usc_title: 42
 usc_section: "5301"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5301"
-generated_at: "2026-03-30T02:56:11.228Z"
+generated_at: "2026-11-23T21:26:32.778Z"
+status: "active"
 ---
 
 # § 5301. Congressional findings and declaration of purpose
@@ -34,3 +35,147 @@ generated_at: "2026-03-30T02:56:11.228Z"
   - **(2)** encourages community development activities which are consistent with comprehensive local and areawide development planning;
   - **(3)** furthers achievement of the national housing goal of a decent home and a suitable living environment for every American family; and
   - **(4)** fosters the undertaking of housing and community development activities in a coordinated and mutually supportive manner by Federal agencies and programs, as well as by communities.
+
+In General
+
+Contents
+
+Coordination With the International Code Council
+
+Grants.—
+
+In general
+
+Sunset
+
+Treatment of Projects
+
+Rule of Construction
+
+Definitions
+
+Eligible entity
+
+Point-access block building
+
+Authorization of Appropriations
+
+Allocation of Appropriated Amounts.—
+
+In general
+
+Criteria.—
+
+In general
+
+Priority.—
+
+In general
+
+Weighting
+
+Distribution
+
+Use of Funds.—
+
+In general
+
+Priority
+
+Administrative costs
+
+Rules of Construction.—
+
+In general
+
+No match
+
+Authority to Waive or Specify Alternative Requirements.—
+
+In general
+
+Notice of intent
+
+Notice to the public
+
+Technical Assistance
+
+State
+
+In General
+
+Additional Amendments.—
+
+Section 2301
+
+Notice of foreclosure
+
+Direct Appropriations
+
+Allocation of Appropriated Amounts.—
+
+In general
+
+Formula to be devised swiftly
+
+Criteria
+
+Distribution
+
+Use of Funds.—
+
+In general
+
+Priority
+
+Exception for certain states
+
+Eligible uses
+
+Limitations.—
+
+On purchases
+
+Rehabilitation
+
+Sale of homes
+
+Rules of Construction.—
+
+In general
+
+No match
+
+Authority to Specify Alternative Requirements.—
+
+In general
+
+Notice
+
+Low and moderate income requirement.—
+
+In general
+
+Recurrent requirement
+
+Periodic Audits
+
+In General
+
+Applicable Individuals Defined
+
+In General
+
+Effective Date
+
+Findings
+
+Purpose
+
+In General
+
+Definitions
+
+## Source Credit
+
+*([Pub. L. 93–383, title I, § 101](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 633](https://www.govinfo.gov/link/statute/88/633); [Pub. L. 95–128, title I, § 101](https://www.govinfo.gov/link/plaw/95/public/128), Oct. 12, 1977, [91 Stat. 1111](https://www.govinfo.gov/link/statute/91/1111); [Pub. L. 96–399, title I, § 104(a)](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1616](https://www.govinfo.gov/link/statute/94/1616); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title I, § 101(a)], Nov. 30, 1983, [97 Stat. 1159](https://www.govinfo.gov/link/statute/97/1159); [Pub. L. 100–242, title V, § 502(a)](https://www.govinfo.gov/link/plaw/100/public/242), (b), Feb. 5, 1988, [101 Stat. 1923](https://www.govinfo.gov/link/statute/101/1923); [Pub. L. 101–625, title IX](https://www.govinfo.gov/link/plaw/101/public/625), §§ 902(a), 913(a), Nov. 28, 1990, [104 Stat. 4385](https://www.govinfo.gov/link/statute/104/4385), 4392; [Pub. L. 103–233, title II, § 232(a)(2)(A)](https://www.govinfo.gov/link/plaw/103/public/233), Apr. 11, 1994, [108 Stat. 367](https://www.govinfo.gov/link/statute/108/367).)*

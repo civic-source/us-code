@@ -3,9 +3,10 @@ title: "Section 661 - Occupational Safety and Health Review Commission"
 usc_title: 29
 usc_section: "661"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 661"
-generated_at: "2026-03-30T02:55:18.688Z"
+generated_at: "2026-11-23T21:26:02.191Z"
+status: "active"
 ---
 
 # § 661. Occupational Safety and Health Review Commission
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:18.688Z"
 - **(i)** For the purpose of any proceeding before the Commission, the provisions of section 161 of this title are hereby made applicable to the jurisdiction and powers of the Commission.
 - **(j)** A 1 1 So in original. Probably should be “An”. administrative law judge appointed by the Commission shall hear, and make a determination upon, any proceeding instituted before the Commission and any motion in connection therewith, assigned to such administrative law judge by the Chairman of the Commission, and shall make a report of any such determination which constitutes his final disposition of the proceedings. The report of the administrative law judge shall become the final order of the Commission within thirty days after such report by the administrative law judge, unless within such period any Commission member has directed that such report shall be reviewed by the Commission.
 - **(k)** Except as otherwise provided in this chapter, the administrative law judges shall be subject to the laws governing employees in the classified civil service, except that appointments shall be made without regard to section 5108 of title 5 . Each administrative law judge shall receive compensation at a rate not less than that prescribed for GS–16 under section 5332 of title 5 .
+
+## Source Credit
+
+*([Pub. L. 91–596, § 12](https://www.govinfo.gov/link/plaw/91/public/596), Dec. 29, 1970, [84 Stat. 1603](https://www.govinfo.gov/link/statute/84/1603); [Pub. L. 95–251, § 2(a)(7)](https://www.govinfo.gov/link/plaw/95/public/251), Mar. 27, 1978, [92 Stat. 183](https://www.govinfo.gov/link/statute/92/183).)*

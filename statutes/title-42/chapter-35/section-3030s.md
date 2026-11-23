@@ -3,9 +3,10 @@ title: "Section 3030s - Definitions"
 usc_title: 42
 usc_section: "3030s"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3030s"
-generated_at: "2026-03-30T02:56:11.175Z"
+generated_at: "2026-11-23T21:26:32.501Z"
+status: "active"
 ---
 
 # § 3030s. Definitions
@@ -24,3 +25,63 @@ generated_at: "2026-03-30T02:56:11.175Z"
       - **(iii)** has a legal relationship to the child, such as legal custody, adoption, or guardianship, or is raising the child informally; and
     - **(C)** in the case of a caregiver for an individual with a disability, is the parent, grandparent, or other relative by blood, marriage, or adoption, of the individual with a disability.
 - **(b)** In providing services under this part, for family caregivers who provide care for individuals with Alzheimer’s disease and related disorders with neurological and organic brain dysfunction, the State involved shall give priority to caregivers who provide care for older individuals with such disease or disorder.
+
+Advisory council
+
+Family caregiver
+
+Secretary
+
+Strategy
+
+In General
+
+Contents
+
+Duties of the Secretary
+
+Initial Strategy; Updates
+
+Process for Public Input
+
+No Preemption
+
+Rule of Construction
+
+Convening
+
+Membership.—
+
+In general
+
+Appointed members
+
+Federal members
+
+Diverse representation
+
+Meetings
+
+Advisory Council Annual Reports.—
+
+In general
+
+Initial report
+
+Nonapplicability of FACA
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*([Pub. L. 89–73, title III, § 372](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 106–501, title III, § 316(2)](https://www.govinfo.gov/link/plaw/106/public/501), Nov. 13, 2000, [114 Stat. 2254](https://www.govinfo.gov/link/statute/114/2254); amended [Pub. L. 109–365, title III, § 320](https://www.govinfo.gov/link/plaw/109/public/365), Oct. 17, 2006, [120 Stat. 2551](https://www.govinfo.gov/link/statute/120/2551); [Pub. L. 114–144, § 4(k)(2)](https://www.govinfo.gov/link/plaw/114/public/144), (m), Apr. 19, 2016, [130 Stat. 340](https://www.govinfo.gov/link/statute/130/340), 341; [Pub. L. 116–131, title II, § 217(a)](https://www.govinfo.gov/link/plaw/116/public/131), Mar. 25, 2020, [134 Stat. 260](https://www.govinfo.gov/link/statute/134/260).)*

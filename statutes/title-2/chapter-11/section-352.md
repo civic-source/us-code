@@ -3,9 +3,10 @@ title: "Section 352 - Membership"
 usc_title: 2
 usc_section: "352"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 352"
-generated_at: "2026-03-30T02:53:04.795Z"
+generated_at: "2026-11-23T21:25:21.158Z"
+status: "active"
 ---
 
 # § 352. Membership
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:53:04.795Z"
     - **(C)**
       - **(i)** Notwithstanding any provision of subparagraph (A) or (B), members of the Commission may continue to serve after the close of a fiscal year, if the date designated by the President under section 357 of this title (relating to the date by which the Commission is to submit its report to the President) is subsequent to the close of such fiscal year, and only if or to the extent necessary to allow the Commission to submit such report.
       - **(ii)** Notwithstanding any provision of section 353 of this title , authority under such section shall remain available, after the close of a fiscal year, so long as members of the Commission continue to serve.
+
+## Source Credit
+
+*([Pub. L. 90–206, title II, § 225(b)](https://www.govinfo.gov/link/plaw/90/public/206), Dec. 16, 1967, [81 Stat. 642](https://www.govinfo.gov/link/statute/81/642); [Pub. L. 99–190, § 135(a)](https://www.govinfo.gov/link/plaw/99/public/190), Dec. 19, 1985, [99 Stat. 1322](https://www.govinfo.gov/link/statute/99/1322); [Pub. L. 101–194, title VII, § 701(b)](https://www.govinfo.gov/link/plaw/101/public/194), Nov. 30, 1989, [103 Stat. 1763](https://www.govinfo.gov/link/statute/103/1763).)*

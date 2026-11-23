@@ -3,9 +3,10 @@ title: "Section 4125 - Functions of Defense research facilities"
 usc_title: 10
 usc_section: "4125"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4125"
-generated_at: "2026-03-30T02:53:38.202Z"
+generated_at: "2026-11-23T21:25:32.757Z"
+status: "active"
 ---
 
 # § 4125. Functions of Defense research facilities
@@ -20,3 +21,17 @@ generated_at: "2026-03-30T02:53:38.202Z"
 - **(b)** In this section, the term “Defense research facility” means a Department of Defense facility which performs or contracts for the performance of—
   - **(1)** basic research; or
   - **(2)** applied research known as exploratory development.
+
+Functions of Defense Research Facilities
+
+Definitions
+
+In General
+
+Action Plan
+
+“The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall—
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1843(b)(2)](https://www.govinfo.gov/link/plaw/116/public/283), as added [Pub. L. 117–81, div. A, title XVII, § 1701(u)(4)(A)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2153](https://www.govinfo.gov/link/statute/135/2153).)*

@@ -3,9 +3,10 @@ title: "Section 504 - Remission of fees and penalties"
 usc_title: 46
 usc_section: "504"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 504"
-generated_at: "2026-03-30T02:56:15.540Z"
+generated_at: "2026-11-23T21:26:37.025Z"
+status: "active"
 ---
 
 # § 504. Remission of fees and penalties
@@ -14,3 +15,16 @@ Any part of a fee, tax, or penalty paid or a forfeiture incurred under a law or 
 
   - **(1)** application for the remission is made within one year after the date of the payment or forfeiture; and
   - **(2)** it is found that the fee, tax, penalty, or forfeiture was improperly or excessively imposed.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 504 | 46:2108. |  |
+
+
+Historical and Revision Notes
+
+504
+
+## Source Credit
+
+*([Pub. L. 109–304, § 4](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1491](https://www.govinfo.gov/link/statute/120/1491).)*

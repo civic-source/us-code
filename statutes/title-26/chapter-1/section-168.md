@@ -3,9 +3,10 @@ title: "Section 168 - Accelerated cost recovery system"
 usc_title: 26
 usc_section: "168"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 168"
-generated_at: "2026-03-30T02:55:27.641Z"
+generated_at: "2026-11-23T21:26:06.050Z"
+status: "active"
 ---
 
 # § 168. Accelerated cost recovery system
@@ -141,7 +142,16 @@ generated_at: "2026-03-30T02:55:27.641Z"
   - **(2)** For purposes of paragraph (1), the alternative depreciation system is depreciation determined by using—
     - **(A)** the straight line method (without regard to salvage value),
     - **(B)** the applicable convention determined under subsection (d), and
-    - **(C)** a recovery period determined under the following table: In the case of: The recovery period shall be: (i) Property not described in clause (ii) or (iii) The class life. (ii) Personal property with no class life 12 years. (iii) Residential rental property 30 years (iv) Nonresidential real property 40 years (v) Any railroad grading or tunnel bore or water utility property 50 years
+    - **(C)** a recovery period determined under the following table:
+
+| In the case of: | The recovery period shall be: |
+| --- | --- |
+| (i) Property not described in clause (ii) or (iii) | The class life. |
+| (ii) Personal property with no class life | 12 years. |
+| (iii) Residential rental property | 30 years |
+| (iv) Nonresidential real property | 40 years |
+| (v) Any railroad grading or tunnel bore or water utility property | 50 years |
+
   - **(3)**
     - **(A)** In the case of any tax-exempt use property subject to a lease, the recovery period used for purposes of paragraph (2) shall (notwithstanding any other subparagraph of this paragraph) in no event be less than 125 percent of the lease term.
     - **(B)** For purposes of paragraph (2), in the case of property described in any of the following subparagraphs of subsection (e)(3), the class life shall be determined as follows: If property is described in subparagraph: The class life is: (A)(iii) 4 (B)(ii) 5 (B)(iii) 9.5 (B)(vii) 10 (C)(i) 10 (C)(iii) 22 (C)(iv) 14 (D)(i) 15 (D)(ii) 20 (E)(i) 24 (E)(ii) 24 (E)(iii) 20 (E)(iv) 20 (E)(v) 30 (E)(vi) 35 (E)(vii) 20 (F) 25
@@ -598,3 +608,678 @@ generated_at: "2026-03-30T02:55:27.641Z"
   - **(7)** The Secretary shall issue such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this subsection, including regulations or other guidance—
     - **(A)** providing rules for regarding what constitutes substantial transformation of property which are consistent with guidance provided under section 954(d), and
     - **(B)** providing for the application of paragraph (5) with respect to a change in use described in such paragraph by a transferee following a fully or partially tax free transfer of qualified production property.
+
+| In the case of: | The applicable recovery period is: |
+| --- | --- |
+| 3-year property | 3 years |
+| 5-year property | 5 years |
+| 7-year property | 7 years |
+| 10-year property | 10 years |
+| 15-year property | 15 years |
+| 20-year property | 20 years |
+| Water utility property | 25 years |
+| Residential rental property | 27.5 years |
+| Nonresidential real property | 39 years. |
+| Any railroad grading or tunnel bore | 50 years. |
+
+| Property shall be treated as: | If such property has a class life (in years) of: |
+| --- | --- |
+| 3-year property | 4 or less |
+| 5-year property | More than 4 but less than 10 |
+| 7-year property | 10 or more but less than 16 |
+| 10-year property | 16 or more but less than 20 |
+| 15-year property | 20 or more but less than 25 |
+| 20-year property | 25 or more. |
+
+| If property is described in subparagraph: | The class life is: |
+| --- | --- |
+| (A)(iii) | 4 |
+| (B)(ii) | 5 |
+| (B)(iii) | 9.5 |
+| (B)(vii) | 10 |
+| (C)(i) | 10 |
+| (C)(iii) | 22 |
+| (C)(iv) | 14 |
+| (D)(i) | 15 |
+| (D)(ii) | 20 |
+| (E)(i) | 24 |
+| (E)(ii) | 24 |
+| (E)(iii) | 20 |
+| (E)(iv) | 20 |
+| (E)(v) | 30 |
+| (E)(vi) | 35 |
+| (E)(vii) | 20 |
+| (F) | 25 |
+|  |  |
+
+| In the case of: | The applicable recovery period is: |
+| --- | --- |
+| 3-year property | 2 years |
+| 5-year property | 3 years |
+| 7-year property | 4 years |
+| 10-year property | 6 years |
+| 15-year property | 9 years |
+| 20-year property | 12 years |
+| Nonresidential real property | 22 years. |
+
+|  | Col 2 |
+| --- | --- |
+| “In the case of property | The applicable |
+| with a class life of: | date is: |
+| At least 7 but less than 20 years | January 1, 1989 |
+| 20 years or more | January 1, 1991 . |
+
+
+3-year property
+
+5-year property
+
+7-year property
+
+10-year property
+
+15-year property
+
+20-year property
+
+Water utility property
+
+Residential rental property
+
+Nonresidential real property
+
+Any railroad grading or tunnel bore
+
+3-year property
+
+5-year property
+
+7-year property
+
+10-year property
+
+15-year property
+
+20-year property
+
+(i) Property not described in clause (ii) or (iii)
+
+(ii) Personal property with no class life
+
+(iii) Residential rental property
+
+(iv) Nonresidential real property
+
+(v) Any railroad grading or tunnel bore or water utility property
+
+(A)(iii)
+
+(B)(ii)
+
+(B)(iii)
+
+(B)(vii)
+
+(C)(i)
+
+(C)(iii)
+
+(C)(iv)
+
+(D)(i)
+
+(D)(ii)
+
+(E)(i)
+
+(E)(ii)
+
+(E)(iii)
+
+(E)(iv)
+
+(E)(v)
+
+(E)(vi)
+
+(E)(vii)
+
+(F)
+
+3-year property
+
+5-year property
+
+7-year property
+
+10-year property
+
+15-year property
+
+20-year property
+
+Nonresidential real property
+
+In general
+
+year property
+
+Income from property subject to United States tax
+
+Movies and sound recordings
+
+Special rule for railroad grading or tunnel bores
+
+Tax-exempt controlled entity.—
+
+In general
+
+Only 5-percent shareholders taken into account in case of publicly traded stock
+
+Section 318 to apply
+
+“(D) Qualified leased property defined.—
+
+In general
+
+Specified plants
+
+Transitional election of reduced percentage
+
+Acquisition date determination
+
+Phase-down
+
+In general
+
+Specified plants
+
+In general
+
+Amendments related to electing real property trade or business
+
+Certain residential rental property
+
+In general
+
+Election to accelerate amt credit
+
+In general
+
+Expansion of election to accelerate amt credits in lieu of bonus depreciation
+
+Special rules for certain plants bearing fruits and nuts
+
+Extension
+
+Modification
+
+In general
+
+Temporary 100 percent expensing
+
+In general
+
+Technical amendments
+
+In general
+
+Exception
+
+In general
+
+Exception
+
+In general
+
+Special rule for asset class 80.0
+
+No inference
+
+“The amendment made by paragraph (1) [amending this section] shall apply as if included in the amendments made by section 13321 of the Omnibus Budget Reconciliation Act of 1993 [ Pub. L. 103–66 ], except that such amendment shall not apply—
+
+In general
+
+Exception
+
+In general
+
+Exception
+
+In general
+
+Exception
+
+General Effective Dates.—
+
+Section 201.—
+
+In general
+
+Election to have amendments made by section 201 apply
+
+Section 202.—
+
+In general
+
+Special rule for fiscal years including january 1, 1987
+
+General Transitional Rule.—
+
+In general
+
+Requirement that certain property be placed in service before certain date.—
+
+In general
+
+At least 7 but less than 20 years
+
+January 1, 1989
+
+20 years or more
+
+January 1, 1991
+
+Residential rental and nonresidential real property
+
+Class lives
+
+Substitution of applicable dates
+
+Property qualifies if sold and leased back in 3 months
+
+Plant facility
+
+Property Financed With Tax-Exempt Bonds.—
+
+In general
+
+Exceptions.—
+
+Construction or binding agreements
+
+Refunding.—
+
+In general
+
+Significant expenditures
+
+Facilities
+
+Significant expenditures
+
+Mid-Quarter Convention
+
+Normalization Requirements.—
+
+In general
+
+Definitions
+
+Excess tax reserve
+
+Average rate assumption method
+
+Other Transitional Rules.—
+
+Urban renovation projects.—
+
+In general
+
+Qualified urban renovation project
+
+Project where agreement on december 19, 1984
+
+Certain additional projects
+
+Project where plan confirmed on october 4, 1984
+
+Certain projects granted ferc licenses, etc
+
+Supply or service contracts
+
+Property treated under prior tax acts
+
+Special rules for property included in master plans of integrated projects
+
+Natural gas pipeline
+
+Certain leasehold improvements
+
+Solid waste disposal facilities
+
+Certain submersible drilling units
+
+Wastewater or sewage treatment facility
+
+Certain aircraft
+
+Certain satellites
+
+Certain nonwire line cellular telephone systems
+
+Certain cogeneration facilities
+
+Certain electric generating stations
+
+Sports arenas.—
+
+Indoor sports facility
+
+Metropolitan sports arena
+
+Certain waste-to-energy facilities
+
+Certain coal-fired plants
+
+Certain rail systems.—
+
+Certain detergent manufacturing facility
+
+Certain resource recovery facility
+
+Certain district heating and cooling facilities
+
+Certain vessels.—
+
+Certain offshore vessels
+
+Certain inland river vessel
+
+Special automobile carrier vessels
+
+Certain wood energy projects
+
+Certain economic development projects
+
+Certain trucks, etc
+
+Special Rule for Certain Property
+
+Applicable Date in Certain Cases.—
+
+Railroad Grading and Tunnel Bores.—
+
+In general
+
+Business interruption proceeds
+
+Effective date
+
+Treatment of Certain Disaster Losses.—
+
+In general
+
+Disaster to which section applies
+
+In general
+
+Exception
+
+Special rule for components
+
+Technical correction
+
+Special rule for leasing of qualified rehabilitated buildings
+
+In general
+
+Leases entered into on or before may 23, 1983
+
+Binding contracts, etc.—
+
+Official governmental action on or before november 1, 1983 .—
+
+In general
+
+Significant official governmental action
+
+Special rule for credit unions
+
+Special rule for greenville auditorium board
+
+Treatment of certain historic structures
+
+Mass commuting vehicles
+
+Certain turbines and boilers
+
+Certain facilities for which ruling requests filed on or before may 23, 1983
+
+Recovery period for certain qualified sewage facilities.—
+
+In general
+
+Qualified sewage facility
+
+Property used by the postal service
+
+Existing appropriations
+
+Special rule for certain partnerships.—
+
+Partnerships for which qualifying action existed before october 21, 1983
+
+Application filed before october 21, 1983
+
+Partnerships for which qualifying action existed before march 6, 1984
+
+Partnership organized before march 6, 1984
+
+Special rule for amendment made by subsection (c)(2)
+
+Special rule for service contracts not involving tax-exempt entities
+
+Property leased to section 593 organizations
+
+Special rules relating to foreign persons or entities.—
+
+In general
+
+Special rule for subleases
+
+Binding contracts, etc
+
+Certain aircraft
+
+Use after 1983
+
+Organizations electing exemption from rules relating to previously tax-exempt organizations must elect taxation of exempt arbitrage profits.—
+
+In general
+
+Taxation of exempt arbitrage profits.—
+
+In general
+
+Rate of tax, etc
+
+Exempt arbitrage profits.—
+
+In general
+
+Application of section 103
+
+Other laws applicable.—
+
+In general
+
+No credits against tax, etc
+
+Election
+
+Certain transitional leased property
+
+Special rule for amendment made by subsection
+
+In general
+
+Limitation
+
+Special rule for certain energy management contracts.—
+
+In general
+
+Definition of energy management contract
+
+Definitions
+
+Tax-exempt entity
+
+Treatment of improvements.—
+
+In general
+
+Substantial improvement
+
+Foreign person or entity
+
+Leases and subleases
+
+“The amendment made by clause (i) [amending section 31(g)(20)(B)(ii) of Pub. L. 98–369 , set out above] shall not apply to any property if—
+
+In general
+
+Exception
+
+Special rules for application of paragraph (2).—
+
+Certain inventory
+
+Certain property financed by bonds
+
+Special rule for components
+
+Special rule for mid-month convention
+
+In general.—
+
+Transitional rule for certain safe harbor lease property.—
+
+Special rule for certain provisions.—
+
+Transitional safe harbor lease property.—
+
+Certain qualified lessees.—
+
+In general.—
+
+Light-duty truck.—
+
+Automotive manufacturing property.—
+
+Special tools used by certain vendors.—
+
+Coal gasification facilities.—
+
+In general
+
+Special rule
+
+Limitation on amount
+
+Placed in service
+
+Special rule for antiavoidance provisions.—
+
+Special rule for mass commuting vehicles.—
+
+Qualified lessee defined.—
+
+Underpayments of tax for 1982.—
+
+Coordination with at risk rules.—
+
+Subsection
+
+In general.—
+
+Special rule for farm property aggregating $150,000 or less.—
+
+In general.—
+
+limitation.—
+
+Special rule for definition of new section 38 property.—
+
+In general.—
+
+Exceptions.—
+
+In general.—
+
+Significant expenditures.—
+
+Certain projects for residential real property.—
+
+General Rule.—
+
+Special Rule for RRB Property.—
+
+Special Rule for Carryovers.—
+
+Carryover must have been alive in 1981.—
+
+In general
+
+Alternative method for certain taxpayers
+
+Definitions
+
+Excess tax reserve
+
+Average rate assumption method
+
+Alternative method
+
+Tax increased for normalization violation
+
+“The Secretary of the Treasury (or the Secretary’s delegate)—
+
+In general
+
+Specified agreement
+
+“In the case of any property placed in service before May 9, 1985 (or treated as placed in service before such date by section 105(b)(3) of Public Law 99–121 [set out as a note above])—
+
+In general
+
+Special rule for certain automotive property.—
+
+In general
+
+limitation
+
+Automotive manufacturing property
+
+Special rule for certain cogeneration facilities
+
+In general.—
+
+Definitions.—
+
+Qualified motor vehicle agreement.—
+
+Terminal rental adjustment clause.—
+
+Exception Where Lessee Took Position on Return
+
+Requirement of Return.—
+
+In general.—
+
+Special rules for agreements executed before january 1, 1982 .—
+
+In general.—
+
+Filing by lessee.—
+
+Certain failure to file.—
+
+Information Required.—
+
+Coordination With Other Information Requirements.—
+
+## Source Credit
+
+*(Added [Pub. L. 97–34, title II, § 201(a)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 203](https://www.govinfo.gov/link/statute/95/203); amended [Pub. L. 97–248, title II](https://www.govinfo.gov/link/plaw/97/public/248), §§ 206, 208(a)(1), (2)(A), (b), 209(a), (b), 216(a), 224(c)(1), (2), Sept. 3, 1982, [96 Stat. 431](https://www.govinfo.gov/link/statute/96/431), 432, 435, 442, 445, 470, 489; [Pub. L. 97–354, § 5(a)(19)](https://www.govinfo.gov/link/plaw/97/public/354), (20), Oct. 19, 1982, [96 Stat. 1693](https://www.govinfo.gov/link/statute/96/1693), 1694; [Pub. L. 97–424, title V, § 541(a)(1)](https://www.govinfo.gov/link/plaw/97/public/424), Jan. 6, 1983, [96 Stat. 2192](https://www.govinfo.gov/link/statute/96/2192); [Pub. L. 97–448, title I, § 102(a)(1)](https://www.govinfo.gov/link/plaw/97/public/448) –(5), (8)–(10)(A), (f)(4), Jan. 12, 1983, [96 Stat. 2367](https://www.govinfo.gov/link/statute/96/2367), 2368, 2371; [Pub. L. 98–369, div. A, title I](https://www.govinfo.gov/link/plaw/98/public/369), §§ 12(a)(3), 31(a), (d), 32(a), 111(a)–(e)(4), (9), 113(a)(2), (b)(1), (2)(A), title IV, § 474(r)(7), title VI, §§ 612(e)(4), (5), 628(b), July 18, 1984, [98 Stat. 503](https://www.govinfo.gov/link/statute/98/503), 509, 518, 530, 631–633, 636, 637, 840, 912, 931; [Pub. L. 99–121, title I, § 103(a)](https://www.govinfo.gov/link/plaw/99/public/121), (b)(1)(A), (2)–(4), Oct. 11, 1985, [99 Stat. 509](https://www.govinfo.gov/link/statute/99/509); [Pub. L. 99–514, title II, § 201(a)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, §§ 1802(a)(1)–(2)(E)(i), (G), (3), (4)(A), (B), (7), (b)(1), 1809(a)(1)–(2)(C)(i), (4)(A), (B), (b)(1), (2), Oct. 22, 1986, [100 Stat. 2121](https://www.govinfo.gov/link/statute/100/2121), 2786–2789, 2791, 2818–2821; [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1002(a)(5)–(8), (11), (16)(B), (21), (23)(A), (i)(2)(A)–(G), 1018(b)(2), title VI, §§ 6027(a), (b), 6028(a), 6029(a)–(c), 6253, Nov. 10, 1988, [102 Stat. 3353–3356](https://www.govinfo.gov/link/statute/102/3353), 3370, 3371, 3577, 3693, 3694, 3753; [Pub. L. 101–239, title VII, § 7816(e)](https://www.govinfo.gov/link/plaw/101/public/239), (f), (w), Dec. 19, 1989, [103 Stat. 2421](https://www.govinfo.gov/link/statute/103/2421), 2423; [Pub. L. 101–508, title XI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 11801(c)(8)(B), 11812(b)(2), 11813(b)(9), Nov. 5, 1990, [104 Stat. 1388–524](https://www.govinfo.gov/link/statute/104/1388), 1388–534, 1388–552; [Pub. L. 103–66, title XIII](https://www.govinfo.gov/link/plaw/103/public/66), §§ 13151(a), 13321(a), Aug. 10, 1993, [107 Stat. 448](https://www.govinfo.gov/link/statute/107/448), 558; [Pub. L. 104–88, title III, § 304(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 943](https://www.govinfo.gov/link/statute/109/943); [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1120(a), (b), 1121(a), 1613(b)(1)–(4), 1702(h)(1), 1704(t)(54), Aug. 20, 1996, [110 Stat. 1765](https://www.govinfo.gov/link/statute/110/1765), 1766, 1850, 1873, 1890; [Pub. L. 105–34, title X, § 1086(b)](https://www.govinfo.gov/link/plaw/105/public/34), title XII, § 1213(c), title XVI, § 1604(c)(1), Aug. 5, 1997, [111 Stat. 957](https://www.govinfo.gov/link/statute/111/957), 1001, 1097; [Pub. L. 105–206, title VI, § 6006(b)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 806](https://www.govinfo.gov/link/statute/112/806); [Pub. L. 107–147, title I, § 101(a)](https://www.govinfo.gov/link/plaw/107/public/147), title VI, § 613(b), Mar. 9, 2002, [116 Stat. 22](https://www.govinfo.gov/link/statute/116/22), 61; [Pub. L. 108–27, title II, § 201(a)](https://www.govinfo.gov/link/plaw/108/public/27) –(c)(1), May 28, 2003, [117 Stat. 756](https://www.govinfo.gov/link/statute/117/756), 757; [Pub. L. 108–311, title III, § 316](https://www.govinfo.gov/link/plaw/108/public/311), title IV, §§ 403(a), 408(a)(6), (8), Oct. 4, 2004, [118 Stat. 1181](https://www.govinfo.gov/link/statute/118/1181), 1186, 1191; [Pub. L. 108–357, title II, § 211(a)](https://www.govinfo.gov/link/plaw/108/public/357) –(e), title III, §§ 336(a), (b), 337(a), title VII, §§ 704(a), (b), 706(a)–(c), title VIII, §§ 847(a), (c)–(e), 901(a)–(c), Oct. 22, 2004, [118 Stat. 1429](https://www.govinfo.gov/link/statute/118/1429), 1430, 1479, 1480, 1548–1550, 1601, 1602, 1650; [Pub. L. 109–58, title XIII](https://www.govinfo.gov/link/plaw/109/public/58), §§ 1301(f)(5), 1308(a), (b), 1325(a), (b), 1326(a)–(c), Aug. 8, 2005, [119 Stat. 990](https://www.govinfo.gov/link/statute/119/990), 1006, 1016, 1017; [Pub. L. 109–135, title IV](https://www.govinfo.gov/link/plaw/109/public/135), §§ 403(j), 405(a)(1), 410(a), 412(s), Dec. 21, 2005, [119 Stat. 2625](https://www.govinfo.gov/link/statute/119/2625), 2634, 2636, 2638; [Pub. L. 109–432, div. A, title I](https://www.govinfo.gov/link/plaw/109/public/432), §§ 112(a), 113(a), title II, § 209(a), Dec. 20, 2006, [120 Stat. 2940](https://www.govinfo.gov/link/statute/120/2940), 2946; [Pub. L. 110–172, § 11(b)(1)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2488](https://www.govinfo.gov/link/statute/121/2488); [Pub. L. 110–185, title I, § 103(a)](https://www.govinfo.gov/link/plaw/110/public/185) –(c)(7), (11), (12), Feb. 13, 2008, [122 Stat. 618](https://www.govinfo.gov/link/statute/122/618), 619; [Pub. L. 110–234, title XV, § 15344(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1520](https://www.govinfo.gov/link/statute/122/1520); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XV, § 15344(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2282; [Pub. L. 110–289, div. C, title III, § 3081(a)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2903](https://www.govinfo.gov/link/statute/122/2903); [Pub. L. 110–343, div. B, title II, § 201(a)](https://www.govinfo.gov/link/plaw/110/public/343), (b), title III, §§ 306(a)–(c), 308(a), div. C, title III, §§ 305(a)(1), (b)(1), (c)(1)–(4), 315(a), 317(a), title V, § 505(a), (b), title VII, § 710(a), Oct. 3, 2008, [122 Stat. 3832](https://www.govinfo.gov/link/statute/122/3832), 3848, 3849, 3867, 3868, 3872, 3873, 3879, 3926; [Pub. L. 111–5, div. B, title I, § 1201(a)(1)](https://www.govinfo.gov/link/plaw/111/public/5), (2)(A)–(D), (3)(A), (b)(1), Feb. 17, 2009, [123 Stat. 333](https://www.govinfo.gov/link/statute/123/333), 334; [Pub. L. 111–240, title II, § 2022(a)](https://www.govinfo.gov/link/plaw/111/public/240) –(b)(5), Sept. 27, 2010, [124 Stat. 2558](https://www.govinfo.gov/link/statute/124/2558); [Pub. L. 111–312, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/111/public/312) –(d)(5), title VII, §§ 737(a)–(b)(2), 738(a), 739(a), Dec. 17, 2010, [124 Stat. 3304–3306](https://www.govinfo.gov/link/statute/124/3304), 3318, 3319; [Pub. L. 112–240, title III](https://www.govinfo.gov/link/plaw/112/public/240), §§ 311(a), 312(a), 313(a), 331(a), (c)–(e)(3), title IV, § 410(a)(1), (b)(1), (2), Jan. 2, 2013, [126 Stat. 2330](https://www.govinfo.gov/link/statute/126/2330), 2335–2337, 2342, 2343; [Pub. L. 113–295, div. A, title I](https://www.govinfo.gov/link/plaw/113/public/295), §§ 121(a), 122(a), 123(a), 124(a), 125(a), (c)–(d)(3), 157(a), title II, §§ 202(e), 210(c), (d), (g)(2), 211(b), 212(b), 214(b), Dec. 19, 2014, [128 Stat. 4015–4017](https://www.govinfo.gov/link/statute/128/4015), 4022, 4024, 4031–4034; [Pub. L. 114–113, div. Q, title I](https://www.govinfo.gov/link/plaw/114/public/113), §§ 123(a), (b), 143(a)(1), (3), (4), (b)(1)–(6)(G), (J), 165(a), 166(a), 167(a), (b), 189(a), Dec. 18, 2015, [129 Stat. 3052](https://www.govinfo.gov/link/statute/129/3052), 3056–3064, 3067, 3075; [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 12001(b)(13), 13201(a), (b)(1), (2)(B)–(g), 13203(a), (b), 13204(a), 13205(a), 13504(b)(1), Dec. 22, 2017, [131 Stat. 2094](https://www.govinfo.gov/link/statute/131/2094), 2105–2109, 2111, 2142; [Pub. L. 115–123, div. D, title I](https://www.govinfo.gov/link/plaw/115/public/123), §§ 40304(a), 40305(a), 40306(a), 40412(a), Feb. 9, 2018, [132 Stat. 146](https://www.govinfo.gov/link/statute/132/146), 151; [Pub. L. 115–141, div. U, title I, § 101(d)(1)](https://www.govinfo.gov/link/plaw/115/public/141), (2), (e), title III, § 302(a), title IV, § 401(a)(49), (50), (b)(13)(A), (d)(1)(D)(iv), Mar. 23, 2018, [132 Stat. 1160](https://www.govinfo.gov/link/statute/132/1160), 1161, 1184, 1186, 1202, 1207; [Pub. L. 116–94, div. Q, title I](https://www.govinfo.gov/link/plaw/116/public/94), §§ 114(a), 115(a), 116(a), 130(a), Dec. 20, 2019, [133 Stat. 3229](https://www.govinfo.gov/link/statute/133/3229), 3232; [Pub. L. 116–136, div. A, title II, § 2307(a)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 359](https://www.govinfo.gov/link/statute/134/359); [Pub. L. 116–260, div. EE, title I](https://www.govinfo.gov/link/plaw/116/public/260), §§ 115(a), 137(a), 138(a), Dec. 27, 2020, [134 Stat. 3050](https://www.govinfo.gov/link/statute/134/3050), 3053, 3054; [Pub. L. 117–169, title I, § 13703(a)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1997](https://www.govinfo.gov/link/statute/136/1997); [Pub. L. 119–21, title VII](https://www.govinfo.gov/link/plaw/119/public/21), §§ 70301(a)(1)–(5)(C), (b), 70307(a), 70434(g), 70509(a), July 4, 2025, [139 Stat. 188](https://www.govinfo.gov/link/statute/139/188), 189, 198, 245, 251.)*

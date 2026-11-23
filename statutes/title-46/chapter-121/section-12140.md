@@ -3,9 +3,10 @@ title: "Section 12140 - Investigations by Secretary"
 usc_title: 46
 usc_section: "12140"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 12140"
-generated_at: "2026-03-30T02:56:15.559Z"
+generated_at: "2026-11-23T21:26:37.139Z"
+status: "active"
 ---
 
 # § 12140. Investigations by Secretary
@@ -20,3 +21,15 @@ generated_at: "2026-03-30T02:56:15.559Z"
       - **(i)** determines that the subpoena is reasonable and will not interfere with a criminal investigation; or
       - **(ii)** fails to make a determination with respect to the subpoena before the date that is 30 days after the date on which the Secretary makes a request under subparagraph (A) with respect to the subpoena.
   - **(2)** In the case of a refusal to obey a subpoena issued to any person under this section, the Secretary may invoke the aid of the appropriate district court of the United States to compel compliance.
+
+In General
+
+Authority To Obtain Evidence.—
+
+In general
+
+Enforcement
+
+## Source Credit
+
+*(Added [Pub. L. 112–213, title III, § 308(a)](https://www.govinfo.gov/link/plaw/112/public/213), Dec. 20, 2012, [126 Stat. 1566](https://www.govinfo.gov/link/statute/126/1566).)*

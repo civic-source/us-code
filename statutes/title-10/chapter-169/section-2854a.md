@@ -3,9 +3,10 @@ title: "Section 2854a - Conveyance of damaged or deteriorated military family ho
 usc_title: 10
 usc_section: "2854a"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2854a"
-generated_at: "2026-03-30T02:53:38.180Z"
+generated_at: "2026-11-23T21:25:32.690Z"
+status: "active"
 ---
 
 # § 2854a. Conveyance of damaged or deteriorated military family housing; use of proceeds
@@ -35,3 +36,21 @@ generated_at: "2026-03-30T02:53:38.180Z"
   - **(2)** Notwithstanding section 2883(d) of this title , proceeds derived from a conveyance of a family housing facility under this section shall be available under paragraph (1) without any further appropriation.
 - **(f)** The exact acreage and legal description of any family housing facility conveyed under this section, including any real property associated with such facility, shall be determined by such means as the Secretary concerned considers satisfactory, including by survey in the case of real property.
 - **(g)** The Secretary concerned may require such additional terms and conditions in connection with the conveyance of family housing facilities under this section as the Secretary considers appropriate to protect the interests of the United States.
+
+Authority To Convey
+
+Consideration
+
+Notice and Wait Requirements
+
+Inapplicability of Certain Property Disposal Laws
+
+Use of Proceeds
+
+Description of Property
+
+Additional Terms and Conditions
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. B, title XXVIII, § 2818(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 553](https://www.govinfo.gov/link/statute/110/553); amended [Pub. L. 107–107, div. A, title X, § 1048(d)(1)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1227](https://www.govinfo.gov/link/statute/115/1227); [Pub. L. 107–217, § 3(b)(21)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1297](https://www.govinfo.gov/link/statute/116/1297); [Pub. L. 108–136, div. A, title X, § 1031(a)(46)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1602](https://www.govinfo.gov/link/statute/117/1602); [Pub. L. 111–350, § 5(b)(49)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3846](https://www.govinfo.gov/link/statute/124/3846); [Pub. L. 115–91, div. B, title XXVIII, § 2801(c)(3)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1843](https://www.govinfo.gov/link/statute/131/1843).)*

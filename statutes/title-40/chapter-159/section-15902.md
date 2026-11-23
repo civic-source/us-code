@@ -3,9 +3,10 @@ title: "Section 15902 - Demonstration health projects"
 usc_title: 40
 usc_section: "15902"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 15902"
-generated_at: "2026-03-30T02:55:43.389Z"
+generated_at: "2026-11-23T21:26:14.978Z"
+status: "active"
 ---
 
 # § 15902. Demonstration health projects
@@ -50,3 +51,47 @@ generated_at: "2026-03-30T02:55:43.389Z"
   - **(1)** addiction treatment and access to resources helping individuals in recovery;
   - **(2)** workforce shortages in the healthcare industry; or
   - **(3)** access to services for screening and diagnosing chronic health issues.
+
+Purpose
+
+Eligible Entities
+
+Planning Grants.—
+
+In general
+
+Maximum commission contribution
+
+Sources of assistance
+
+Federal share for grants under other federal grant programs
+
+Construction and Equipment Grants.—
+
+In general
+
+Standards for making grants
+
+Maximum commission contribution
+
+Sources of assistance
+
+Contribution to increased federal share for other federal grants
+
+Operation Grants.—
+
+In general
+
+Standards for making grants
+
+Maximum commission contribution
+
+Sources of assistance
+
+Federal share
+
+Priority Health Programs
+
+## Source Credit
+
+*(Added [Pub. L. 118–272, div. B, title II, § 2248(a)](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3207](https://www.govinfo.gov/link/statute/138/3207).)*

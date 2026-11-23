@@ -3,9 +3,10 @@ title: "Section 356f - Hospital repackaging of drugs in shortage"
 usc_title: 21
 usc_section: "356f"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 356f"
-generated_at: "2026-03-30T02:54:54.243Z"
+generated_at: "2026-11-23T21:25:56.060Z"
+status: "active"
 ---
 
 # § 356f. Hospital repackaging of drugs in shortage
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:54.243Z"
   - **(1)** In no case may a drug that has been repackaged in accordance with this section be sold or otherwise distributed by the health system or a hospital within the system to an entity or individual that is not a hospital within such health system.
   - **(2)** Repackaging of a drug under this section shall be done in compliance with applicable State requirements of each State in which the drug is repackaged and received.
 - **(d)** This section shall not apply on or after the date on which the Secretary issues final guidance that clarifies the policy of the Food and Drug Administration regarding hospital pharmacies repackaging and safely transferring repackaged drugs to other hospitals within the same health system during a drug shortage.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 506F, as added [Pub. L. 112–144, title X, § 1007](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 1106](https://www.govinfo.gov/link/statute/126/1106).)*

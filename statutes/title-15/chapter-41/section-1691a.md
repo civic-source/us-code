@@ -3,9 +3,10 @@ title: "Section 1691a - Definitions; rules of construction"
 usc_title: 15
 usc_section: "1691a"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1691a"
-generated_at: "2026-03-30T02:54:08.154Z"
+generated_at: "2026-11-23T21:25:39.882Z"
+status: "active"
 ---
 
 # § 1691a. Definitions; rules of construction
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.154Z"
 - **(e)** The term “creditor” means any person who regularly extends, renews, or continues credit; any person who regularly arranges for the extension, renewal, or continuation of credit; or any assignee of an original creditor who participates in the decision to extend, renew, or continue credit.
 - **(f)** The term “person” means a natural person, a corporation, government or governmental subdivision or agency, trust, estate, partnership, cooperative, or association.
 - **(g)** Any reference to any requirement imposed under this subchapter or any provision thereof includes reference to the regulations of the Bureau under this subchapter or the provision thereof in question.
+
+## Source Credit
+
+*([Pub. L. 90–321, title VII, § 702](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 93–495, title V, § 503](https://www.govinfo.gov/link/plaw/93/public/495), Oct. 28, 1974, [88 Stat. 1522](https://www.govinfo.gov/link/statute/88/1522); amended [Pub. L. 111–203, title X, § 1085(1)](https://www.govinfo.gov/link/plaw/111/public/203), (2), July 21, 2010, [124 Stat. 2083](https://www.govinfo.gov/link/statute/124/2083).)*

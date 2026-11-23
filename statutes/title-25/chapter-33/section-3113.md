@@ -3,9 +3,10 @@ title: "Section 3113 - Establishment of Indian and Alaska Native forestry educat
 usc_title: 25
 usc_section: "3113"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3113"
-generated_at: "2026-03-30T02:54:52.848Z"
+generated_at: "2026-11-23T21:25:54.685Z"
+status: "active"
 ---
 
 # § 3113. Establishment of Indian and Alaska Native forestry education assistance
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:52.848Z"
   - **(3)** The Secretary shall not deny scholarship assistance under this subsection solely on the basis of an applicant’s scholastic achievement if the applicant has been admitted to and remains in good standing in an accredited postsecondary or graduate institution.
 - **(d)** The Secretary shall conduct, through the Bureau of Indian Affairs, and in consultation with other appropriate local, State and Federal agencies, and in consultation and coordination with Indian tribes, a forestry education outreach program for Indian and Alaska Native youth to explain and stimulate interest in all aspects of Indian forest land management and careers in forestry.
 - **(e)** The Secretary shall administer the programs described in this section until a sufficient number of Indians and Alaska Natives are trained to ensure that there is an adequate number of qualified, professional Indian foresters to manage the Bureau of Indian Affairs forestry programs and forestry programs maintained by or for Indian tribes.
+
+## Source Credit
+
+*([Pub. L. 101–630, title III, § 314](https://www.govinfo.gov/link/plaw/101/public/630), Nov. 28, 1990, [104 Stat. 4540](https://www.govinfo.gov/link/statute/104/4540).)*

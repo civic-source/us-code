@@ -3,9 +3,10 @@ title: "Section 5107 - Quarterly acquisition reports and major acquisition progr
 usc_title: 14
 usc_section: "5107"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 5107"
-generated_at: "2026-03-30T02:53:51.506Z"
+generated_at: "2026-11-23T21:25:35.464Z"
+status: "active"
 ---
 
 # § 5107. Quarterly acquisition reports and major acquisition program risk assessment
@@ -36,3 +37,15 @@ generated_at: "2026-03-30T02:53:51.506Z"
     - **(D)** whether there has been any breach of major acquisition program cost (as such term is defined in the manual of the Coast Guard titled “Major Systems Acquisition Manual” (COMDTINST M5000.10C)) in such fiscal year; and
     - **(E)** whether there has been any breach of major acquisition program schedule (as such term is defined in the manual of the Coast Guard titled “Major Systems Acquisition Manual” (COMDTINST M5000.10C)) during such fiscal year.
 - **(d)** Not later than 5 business days after the date on which the Secretary approves an Acquisition Decision Memorandum for programs described in this section, the Commandant shall submit such memorandum to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+
+In General
+
+Additional Briefing
+
+Elements
+
+Memorandum Deadline
+
+## Source Credit
+
+*(Added [Pub. L. 115–232, div. C, title XXXV, § 3526(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2317](https://www.govinfo.gov/link/statute/132/2317), § 2906; renumbered § 5107 and amended [Pub. L. 115–282, title I](https://www.govinfo.gov/link/plaw/115/public/282), §§ 122(b), 123(b)(2), Dec. 4, 2018, [132 Stat. 4239](https://www.govinfo.gov/link/statute/132/4239), 4240; [Pub. L. 116–283, div. G, title LVXXXII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXII], § 8240(e), Jan. 1, 2021, [134 Stat. 4667](https://www.govinfo.gov/link/statute/134/4667); [Pub. L. 119–60, div. G, title LXXI](https://www.govinfo.gov/link/plaw/119/public/60), §§ 7112(b), 7113(a), Dec. 18, 2025, [139 Stat. 1666](https://www.govinfo.gov/link/statute/139/1666).)*

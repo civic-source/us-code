@@ -3,9 +3,10 @@ title: "Section 410lll - Paterson Great Falls National Historical Park, New Jers
 usc_title: 16
 usc_section: "410lll"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410lll"
-generated_at: "2026-03-30T02:54:22.781Z"
+generated_at: "2026-11-23T21:25:51.481Z"
+status: "active"
 ---
 
 # § 410lll. Paterson Great Falls National Historical Park, New Jersey
@@ -119,3 +120,15 @@ generated_at: "2026-03-30T02:54:22.781Z"
     - **(A)** the potential for listing the stadium as a National Historic Landmark; and
     - **(B)** options for maintaining the historic integrity of Hinchliffe Stadium.
 - **(g)** There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+(aa) the Great Falls State Park, including facilities for Park administration and visitor services; or
+
+(bb) any portion of the Great Falls State Park agreed to between the Secretary and the State or City; and
+
+In general
+
+Outside activities
+
+## Source Credit
+
+*([Pub. L. 111–11, title VII, § 7001](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1183](https://www.govinfo.gov/link/statute/123/1183); [Pub. L. 113–291, div. B, title XXX, § 3037(a)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3782](https://www.govinfo.gov/link/statute/128/3782); [Pub. L. 114–289, title VI, § 601(i)](https://www.govinfo.gov/link/plaw/114/public/289), Dec. 16, 2016, [130 Stat. 1491](https://www.govinfo.gov/link/statute/130/1491); [Pub. L. 117–286, § 4(a)(88)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4315](https://www.govinfo.gov/link/statute/136/4315).)*

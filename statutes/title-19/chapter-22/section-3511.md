@@ -3,9 +3,10 @@ title: "Section 3511 - Approval and entry into force of Uruguay Round Agreements
 usc_title: 19
 usc_section: "3511"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 3511"
-generated_at: "2026-03-30T02:54:24.690Z"
+generated_at: "2026-11-23T21:25:42.838Z"
+status: "active"
 ---
 
 # § 3511. Approval and entry into force of Uruguay Round Agreements
@@ -34,3 +35,19 @@ generated_at: "2026-03-30T02:54:24.690Z"
   - **(16)** The Understanding on Rules and Procedures Governing the Settlement of Disputes.
   - **(17)** The Agreement on Government Procurement.
   - **(18)** The International Bovine Meat Agreement.
+
+William J. Clinton.
+
+William J. Clinton.
+
+Section
+
+Sec
+
+William J. Clinton.
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 103–465, title I, § 101](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4814](https://www.govinfo.gov/link/statute/108/4814).)*

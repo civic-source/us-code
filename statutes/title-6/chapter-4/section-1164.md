@@ -3,9 +3,10 @@ title: "Section 1164 - Systemwide Amtrak security upgrades"
 usc_title: 6
 usc_section: "1164"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1164"
-generated_at: "2026-03-30T02:53:09.507Z"
+generated_at: "2026-11-23T21:25:25.872Z"
+status: "active"
 ---
 
 # § 1164. Systemwide Amtrak security upgrades
@@ -39,3 +40,17 @@ generated_at: "2026-03-30T02:53:09.507Z"
     - **(C)** $175,000,000 for fiscal year 2010; and
     - **(D)** $175,000,000 for fiscal year 2011.
   - **(2)** Amounts appropriated pursuant to paragraph (1) shall remain available until expended.
+
+In General
+
+Considerations
+
+Strategic Plan
+
+Notices
+
+Rule of Construction
+
+## Source Credit
+
+*([Pub. L. 110–53, title XV, § 1514](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 435](https://www.govinfo.gov/link/statute/121/435); [Pub. L. 115–254, div. K, title I, § 1973(b)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3614](https://www.govinfo.gov/link/statute/132/3614).)*

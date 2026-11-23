@@ -3,9 +3,10 @@ title: "Section 1335a - List of cigarette ingredients; annual submission to Secr
 usc_title: 15
 usc_section: "1335a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1335a"
-generated_at: "2026-03-30T02:54:08.134Z"
+generated_at: "2026-11-23T21:25:39.816Z"
+status: "active"
 ---
 
 # § 1335a. List of cigarette ingredients; annual submission to Secretary; transmittal to Congress; confidentiality
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:08.134Z"
     - **(C)** The Secretary shall establish written procedures to assure the confidentiality of information provided under subsection (a). Such procedures shall include the designation of a duly authorized agent to serve as custodian of such information. The agent—
       - **(i)** shall take physical possession of the information and, when not in use by a person authorized to have access to such information, shall store it in a locked cabinet or file, and
       - **(ii)** shall maintain a complete record of any person who inspects or uses the information.
+
+## Source Credit
+
+*([Pub. L. 89–92, § 7](https://www.govinfo.gov/link/plaw/89/public/92), as added [Pub. L. 98–474, § 5(a)](https://www.govinfo.gov/link/plaw/98/public/474), Oct. 12, 1984, [98 Stat. 2203](https://www.govinfo.gov/link/statute/98/2203).)*

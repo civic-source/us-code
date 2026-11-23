@@ -3,9 +3,10 @@ title: "Section 51304 - Additional appointments from particular areas"
 usc_title: 46
 usc_section: "51304"
 chapter: 513
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 51304"
-generated_at: "2026-03-30T02:56:15.569Z"
+generated_at: "2026-11-23T21:26:37.227Z"
+status: "active"
 ---
 
 # § 51304. Additional appointments from particular areas
@@ -18,3 +19,61 @@ generated_at: "2026-03-30T02:56:15.569Z"
   - **(1)** The Secretary of Transportation, with the approval of the Secretary of State, may appoint individuals from Panama to receive instruction at the Academy. Individuals appointed under this subsection are in addition to those appointed under any other provision of this chapter.
   - **(2)** The Secretary of Transportation shall be reimbursed for the cost (as determined by the Secretary) of the instruction and allowances received by an individual appointed under this subsection.
 - **(d)** Individuals receiving instruction under this section are entitled to the same allowances and are subject to the same regulations on admission, attendance, discipline, resignation, discharge, dismissal, and graduation, as cadets at the Academy appointed from the United States.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 51304(a) | 46 App.:1295b(b) (5)(A), (B). | June 29, 1936, ch. 858 , title XIII, § 1303(b)(5)–(7), as added Pub. L. 96–453, § 2 , Oct. 15, 1980 , 94 Stat. 1999 ; Pub. L. 99–368, § 5 , Aug. 1, 1986 , 100 Stat. 776 ; Pub. L. 101–595, title VII, § 708(3) , Nov. 16, 1990 , 104 Stat. 2995 . |
+| 51304(b) | 46 App.:1295b(b) (6)(A)–(C). |  |
+| 51304(c) | 46 App.:1295b(b) (7)(A), (B). |  |
+| 51304(d) | 46 App.:1295b(b) (5)(C), (6)(D), (7)(C). |  |
+
+
+Other Countries in Western Hemisphere
+
+Other Countries Generally
+
+Appointment
+
+Reimbursement
+
+Panama
+
+Appointment
+
+Reimbursement
+
+Allowances and Regulations
+
+Historical and Revision Notes
+
+51304(a)
+
+June 29, 1936, ch. 858
+
+Pub. L. 96–453, § 2
+
+Oct. 15, 1980
+
+94 Stat. 1999
+
+Pub. L. 99–368, § 5
+
+Aug. 1, 1986
+
+100 Stat. 776
+
+Pub. L. 101–595, title VII, § 708(3)
+
+Nov. 16, 1990
+
+104 Stat. 2995
+
+51304(b)
+
+51304(c)
+
+51304(d)
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(b)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1572](https://www.govinfo.gov/link/statute/120/1572).)*

@@ -3,9 +3,10 @@ title: "Section 2603 - Emergency implementation of import restrictions"
 usc_title: 19
 usc_section: "2603"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2603"
-generated_at: "2026-03-30T02:54:24.681Z"
+generated_at: "2026-11-23T21:25:42.819Z"
+status: "active"
 ---
 
 # § 2603. Emergency implementation of import restrictions
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:24.681Z"
   - **(2)** In taking action under subsection (b) with respect to any State Party, the President shall consider the views and recommendations contained in the Committee report required under section 2605(f)(3) of this title if the report is submitted to the President before the close of the ninety-day period beginning on the day on which the President submitted information to the Committee under section 2602(f)(2) of this title on the request of the State Party under section 2602(a) of this title .
   - **(3)** No import restrictions set forth in section 2606 of this title may be applied under this section to the archaeological or ethnological materials of any State Party for more than five years after the date on which the request of a State Party under section 2602(a) of this title is made to the United States. This period may be extended by the President for three more years if the President determines that the emergency condition continues to apply with respect to the archaeological or ethnological material. However, before taking such action, the President shall request and consider, if received within ninety days, a report of the Committee setting forth its recommendations, together with the reasons therefor, as to whether such import restrictions shall be extended.
   - **(4)** The import restrictions under this section may continue to apply in whole or in part, if before their expiration under paragraph (3), there has entered into force with respect to the archaeological or ethnological materials an agreement under section 2602 of this title or an agreement with a State Party to which the Senate has given its advice and consent to ratification. Such import restrictions may continue to apply for the duration of the agreement.
+
+## Source Credit
+
+*([Pub. L. 97–446, title III, § 304](https://www.govinfo.gov/link/plaw/97/public/446), Jan. 12, 1983, [96 Stat. 2354](https://www.govinfo.gov/link/statute/96/2354).)*

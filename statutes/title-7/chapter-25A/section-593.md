@@ -3,12 +3,17 @@ title: "Section 593 - Foreign standards; certification of compliance"
 usc_title: 7
 usc_section: "593"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 593"
-generated_at: "2026-03-30T02:53:42.289Z"
+generated_at: "2026-11-23T21:25:27.977Z"
+status: "active"
 ---
 
 # § 593. Foreign standards; certification of compliance
 
 Where the government of the country to which the shipment is to be made has standards or requirements as to condition of grapes and plums the Secretary may in addition to inspection and certification for compliance with the standards established or designated hereunder inspect and certify for determination as to compliance with the standards or requirements of such foreign government and may provide for special certificates in such cases.
 
+
+## Source Credit
+
+*([Pub. L. 86–687, § 3](https://www.govinfo.gov/link/plaw/86/public/687), Sept. 2, 1960, [74 Stat. 734](https://www.govinfo.gov/link/statute/74/734).)*

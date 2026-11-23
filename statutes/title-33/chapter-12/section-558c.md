@@ -3,12 +3,17 @@ title: "Section 558c - Rights-of-way over United States land"
 usc_title: 33
 usc_section: "558c"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 558c"
-generated_at: "2026-03-30T02:55:41.062Z"
+generated_at: "2026-11-23T21:26:11.315Z"
+status: "active"
 ---
 
 # § 558c. Rights-of-way over United States land
 
 The Secretary of the Army is authorized and empowered, under such terms and conditions as are deemed advisable by him, to grant easements for rights-of-way for public roads and streets on and across lands acquired by the United States for river and harbor and flood control improvements including, whenever necessary, the privilege of occupying so much of said lands as may be necessary for the piers, abutments, and other portions of a bridge structure: Provided , That such rights-of-way shall be granted only upon a finding by the Secretary of the Army that the same will be in the public interest and will not substantially injure the interest of the United States in the property affected thereby: Provided further , That all or any part of such rights-of-way may be annulled and forfeited by the Secretary of the Army for failure to comply with the terms or conditions of any grant hereunder or for nonuse or for abandonment of rights granted under the authority hereof: Provided further , That the authority granted to the Secretary of the Army shall not extend to or include lands held or acquired by the Tennessee Valley Authority pursuant to the terms of the Tennessee Valley Authority Act [ 16 U.S.C. 831 et seq.].
 
+
+## Source Credit
+
+*(June 20, 1938, ch. 535, § 10, [52 Stat. 808](https://www.govinfo.gov/link/statute/52/808); July 26, 1947, ch. 343, title II, § 205(a), [61 Stat. 501](https://www.govinfo.gov/link/statute/61/501).)*

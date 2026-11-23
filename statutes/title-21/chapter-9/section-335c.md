@@ -3,9 +3,10 @@ title: "Section 335c - Authority to withdraw approval of abbreviated drug applic
 usc_title: 21
 usc_section: "335c"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 335c"
-generated_at: "2026-03-30T02:54:54.219Z"
+generated_at: "2026-11-23T21:25:55.982Z"
+status: "active"
 ---
 
 # § 335c. Authority to withdraw approval of abbreviated drug applications
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:54.219Z"
 - **(b)** The Secretary may not take any action under subsection (a) with respect to any person unless the Secretary has issued an order for such action made on the record after opportunity for an agency hearing on disputed issues of material fact. In the course of any investigation or hearing under this subsection, the Secretary may administer oaths and affirmations, examine witnesses, receive evidence, and issue subpoenas requiring the attendance and testimony of witnesses and the production of evidence that relates to the matter under investigation.
 - **(c)** Subsection (a) shall apply with respect to offenses or acts regardless of when such offenses or acts occurred.
 - **(d)** Any person that is the subject of an adverse decision under subsection (a) may obtain a review of such decision by the United States Court of Appeals for the District of Columbia or for the circuit in which the person resides, by filing in such court (within 60 days following the date the person is notified of the Secretary’s decision) a petition requesting that the decision be modified or set aside.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 308, as added [Pub. L. 102–282, § 4](https://www.govinfo.gov/link/plaw/102/public/282), May 13, 1992, [106 Stat. 160](https://www.govinfo.gov/link/statute/106/160).)*

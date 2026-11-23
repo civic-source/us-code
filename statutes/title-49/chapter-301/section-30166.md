@@ -3,9 +3,10 @@ title: "Section 30166 - Inspections, investigations, and records"
 usc_title: 49
 usc_section: "30166"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 30166"
-generated_at: "2026-03-30T02:56:19.353Z"
+generated_at: "2026-11-23T21:26:40.765Z"
+status: "active"
 ---
 
 # § 30166. Inspections, investigations, and records
@@ -78,3 +79,182 @@ generated_at: "2026-03-30T02:56:19.353Z"
       - **(ii)** omit to state a material fact necessary in order to make the statements made not misleading, in light of the circumstances under which such statements were made.
   - **(2)** The certification requirements of this section shall be clearly stated on any request for information under paragraph (1).
   - **(3)** Not later than 1 year after the date of enactment of the Comprehensive Transportation and Consumer Protection Act of 2015, the Secretary shall issue a final rule under paragraph (1).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30166(a) | 15:1397(a)(1)(B), (E) (as 1397(a)(1)(B), (E) relates to 15:1401(a)(3)(B)). | Sept. 9, 1966 , Pub. L. 89–563, § 108(a)(1)(B) (related to § 112(a)–(c)), (D) (related to § 158(a)(1)), (E) (related to § 112(a)–(c)), 80 Stat. 722 ; Oct. 27, 1974 , Pub. L. 93–492, § 103(a)(1)(A) , (2), (3), 88 Stat. 1477 , 1478. |
+|  | 15:1401(a)(3)(B). | Sept. 9, 1966 , Pub. L. 89–563, § 112(a) –(c), 80 Stat. 725 ; restated Oct. 27, 1974 , Pub. L. 93–492, § 104(a) , 88 Stat. 1478 . |
+| 30166(b) | 15:1397(a)(1)(B), (E) (as 1397(a)(1)(B), (E) relates to 15:1401(a)(1) (1st, last sentences)). |  |
+|  | 15:1401(a)(1) (1st, last sentences). |  |
+| 30166(c) | 15:1397(a)(1)(B), (E) (as 1397(a)(1)(B), (E) relates to 15:1401(a)(2), (b) (1st sentence 61st–last words), (c)(2)). |  |
+|  | 15:1401(a)(2), (b) (1st sentence 61st–last words), (c)(2). |  |
+| 30166(d) | 15:1397(a)(1)(B), (E) (as 1397(a)(1)(B), (E) relates to 15:1401(a)(3)(A)). |  |
+|  | 15:1401(a)(3)(A). |  |
+| 30166(e) | 15:1397(a)(1)(B), (E) (as 1397(a)(1)(B), (E) relates to 15:1401(b) (1st sentence 1st–60th words, last sentence)). |  |
+|  | 15:1401(b) (1st sentence 1st–60th words, last sentence). |  |
+| 30166(f) | 15:1397(a)(1)(D) (related to 15:1418(a)(1)). |  |
+|  | 15:1418(a)(1). | Sept. 9, 1966 , Pub. L. 89–563 , 80 Stat. 718 , § 158(a)(1); added Oct. 27, 1974 , Pub. L. 93–492, § 102(a) , 88 Stat. 1475 . |
+| 30166(g) | 15:1397(a)(1)(B), (E) (as 1397(a)(1)(B), (E) relates to 15:1401(c)(1), (3), (5)). |  |
+|  | 15:1401(c)(1), (3), (5). |  |
+| 30166(h) | 15:1397(a)(1)(B), (E) (as 1397(a)(1)(B), (E) relates to 15:1401(c)(4)). |  |
+|  | 15:1401(c)(4). |  |
+| 30166(i) | 15:1397(a)(1)(B), (E) (as 1397(a)(1)(B), (E) relates to 15:1401(c)(6)). |  |
+|  | 15:1401(c)(6). |  |
+| 30166(j) | 15:1396 (related to inspecting and testing). | Sept. 9, 1966 , Pub. L. 89–563, § 107 (related to inspecting and testing), 80 Stat. 721 . |
+| 30166(k) | 15:1397(a)(1)(B), (E) (as 1397(a)(1)(B), (E) relates to 15:1401(a)(1) (2d sentence)). |  |
+|  | 15:1401(a)(1) (2d sentence). |  |
+
+
+Definition
+
+Authority To Inspect and Investigate
+
+Matters That Can Be Inspected and Impoundment
+
+Reasonable Compensation
+
+Records and Making Reports
+
+Providing Copies of Communications About Defects and Noncompliance.—
+
+In general
+
+Index
+
+Administrative Authority on Reports, Answers, and Hearings
+
+Civil Actions To Enforce and Venue
+
+Governmental Cooperation
+
+Cooperation of Secretary
+
+Providing Information
+
+Reporting of Defects in Motor Vehicles and Products in Foreign Countries.—
+
+Reporting of defects, manufacturer determination
+
+Reporting of defects, foreign government determination
+
+Reporting requirements
+
+Early Warning Reporting Requirements.—
+
+Rulemaking required
+
+Deadline
+
+Reporting elements.—
+
+Warranty and claims data
+
+Other data
+
+Reporting of possible defects
+
+Settlements
+
+Handling and utilization of reporting elements.—
+
+Secretary’s specifications
+
+Information in possession of manufacturer
+
+Disclosure
+
+Burdensome requirements
+
+Periodic review
+
+Sale or Lease of Defective or Noncompliant Tire.—
+
+In general
+
+Defect or noncompliance remedied or order not in effect
+
+Corporate Responsibility for Reports.—
+
+In general
+
+Notice
+
+Deadline
+
+Historical and Revision Notes
+
+Pub. L
+
+30166(a)
+
+Sept. 9, 1966
+
+Pub. L. 89–563, § 108(a)(1)(B)
+
+80 Stat. 722
+
+Oct. 27, 1974
+
+Pub. L. 93–492, § 103(a)(1)(A)
+
+88 Stat. 1477
+
+Sept. 9, 1966
+
+Pub. L. 89–563, § 112(a)
+
+80 Stat. 725
+
+Oct. 27, 1974
+
+Pub. L. 93–492, § 104(a)
+
+88 Stat. 1478
+
+30166(b)
+
+30166(c)
+
+30166(d)
+
+30166(e)
+
+30166(f)
+
+Sept. 9, 1966
+
+Pub. L. 89–563
+
+80 Stat. 718
+
+Oct. 27, 1974
+
+Pub. L. 93–492, § 102(a)
+
+88 Stat. 1475
+
+30166(g)
+
+30166(h)
+
+30166(i)
+
+30166(j)
+
+Sept. 9, 1966
+
+Pub. L. 89–563, § 107
+
+80 Stat. 721
+
+30166(k)
+
+Vehicle Recall Information
+
+Rulemaking
+
+Promotion of Public Awareness
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 969](https://www.govinfo.gov/link/statute/108/969); [Pub. L. 103–429, § 6(24)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4380](https://www.govinfo.gov/link/statute/108/4380); [Pub. L. 104–88, title III, § 308(j)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 947](https://www.govinfo.gov/link/statute/109/947); [Pub. L. 104–287, § 6(f)(3)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3399](https://www.govinfo.gov/link/statute/110/3399); [Pub. L. 106–414, § 3(a)](https://www.govinfo.gov/link/plaw/106/public/414) –(c), Nov. 1, 2000, [114 Stat. 1800–1802](https://www.govinfo.gov/link/statute/114/1800); [Pub. L. 112–141, div. C, title I](https://www.govinfo.gov/link/plaw/112/public/141), §§ 31209, 31303(a), 31304(a), July 6, 2012, [126 Stat. 762](https://www.govinfo.gov/link/statute/126/762), 764; [Pub. L. 114–94, div. B, title XXIV](https://www.govinfo.gov/link/plaw/114/public/94), §§ 24109(e), 24112, Dec. 4, 2015, [129 Stat. 1707](https://www.govinfo.gov/link/statute/129/1707), 1709; [Pub. L. 117–58, div. B, title IV, § 24216(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 830](https://www.govinfo.gov/link/statute/135/830).)*

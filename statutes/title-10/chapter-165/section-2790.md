@@ -3,9 +3,10 @@ title: "Section 2790 - Recovery of improperly disposed of Department of Defense 
 usc_title: 10
 usc_section: "2790"
 chapter: 165
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2790"
-generated_at: "2026-03-30T02:53:38.176Z"
+generated_at: "2026-11-23T21:25:32.671Z"
+status: "active"
 ---
 
 # § 2790. Recovery of improperly disposed of Department of Defense property
@@ -34,3 +35,25 @@ generated_at: "2026-03-30T02:53:38.176Z"
   - **(2)** The term “museum” has the meaning given that term in section 273(1) of the Museum Services Act ( 20 U.S.C. 9172(1) ).
   - **(3)** The term “fully demilitarized” means, with respect to equipment or material, the destruction of the military offensive or defensive advantages inherent in the equipment or material, including, at a minimum, the destruction or disabling of key points of such equipment or material, such as the fuselage, tail assembly, wing spar, armor, radar and radomes, armament and armament provisions, operating systems and software, and classified items.
   - **(4)** The term “veterans organization” means any organization recognized by the Secretary of Veterans Affairs for the representation of veterans under section 5902 of title 38 .
+
+Prohibition
+
+Transfer of Title or Interest Ineffective
+
+Authority for Seizure of Improperly Disposed of Property
+
+Inapplicability to Certain Property
+
+Determinations of Violations
+
+Delivery of Seized Property
+
+Scope of Enforcement
+
+Rule of Construction
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 111–383, div. A, title III, § 355(a)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4195](https://www.govinfo.gov/link/statute/124/4195); amended [Pub. L. 112–239, div. A, title X, § 1076(e)(5)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1951](https://www.govinfo.gov/link/statute/126/1951).)*

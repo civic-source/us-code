@@ -3,9 +3,10 @@ title: "Section 286gg - Elimination of trade restrictions"
 usc_title: 22
 usc_section: "286gg"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 286gg"
-generated_at: "2026-03-30T02:55:05.319Z"
+generated_at: "2026-11-23T21:25:58.365Z"
+status: "active"
 ---
 
 # § 286gg. Elimination of trade restrictions
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:05.319Z"
   - **(1)** In determining the United States position on requests for loans or periodic drawing under bank and Fund programs, the Secretary of the Treasury shall take full account of the progress countries have made in achieving targets for eliminating or phasing out the practices referred to in subsection (b) of this section.
   - **(2)** In the event that the United States supports a request for loans or drawing by a country that has not achieved the bank and Fund targets relating to such practices specified in its program, the Secretary of the Treasury shall report to the appropriate committees of the Congress the reasons for the United States position.
 - **(d)** For purposes of this section, the term “multilateral development banks” means the International Bank for Reconstruction and Development, the Inter-American Development Bank, the African Development Bank, and the Asian Development Bank.
+
+## Source Credit
+
+*(July 31, 1945, ch. 339, § 49, as added [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title VIII, § 812], Nov. 30, 1983, [97 Stat. 1275](https://www.govinfo.gov/link/statute/97/1275); amended [Pub. L. 99–500, § 101(f) [title V, § 555]](https://www.govinfo.gov/link/plaw/99/public/500), Oct. 18, 1986, [100 Stat. 1783–213](https://www.govinfo.gov/link/statute/100/1783), 1783–240, and [Pub. L. 99–591, § 101(f) [title V, § 555]](https://www.govinfo.gov/link/plaw/99/public/591), Oct. 30, 1986, [100 Stat. 3341–214](https://www.govinfo.gov/link/statute/100/3341), 3341–240; [Pub. L. 106–36, title I, § 1002(c)](https://www.govinfo.gov/link/plaw/106/public/36), June 25, 1999, [113 Stat. 133](https://www.govinfo.gov/link/statute/113/133).)*

@@ -3,12 +3,17 @@ title: "Section 1106 - Reports to Congress"
 usc_title: 33
 usc_section: "1106"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1106"
-generated_at: "2026-03-30T02:55:41.080Z"
+generated_at: "2026-11-23T21:26:11.355Z"
+status: "active"
 ---
 
 # § 1106. Reports to Congress
 
 - **(a)** The President shall transmit to the Congress biennially in January a report, which shall include (1) a comprehensive description of the activities and the accomplishments of all agencies and departments of the United States in the field of marine science during the preceding fiscal year, and (2) an evaluation of such activities and accomplishments in terms of the objectives set forth pursuant to this Act.
 - **(b)** Reports made under this section shall contain such recommendations for legislation as the President may consider necessary or desirable for the attainment of the objectives of this Act, and shall contain an estimate of funding requirements of each agency and department of the United States for marine science activities during the succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 89–454, title I, § 7](https://www.govinfo.gov/link/plaw/89/public/454), June 17, 1966, [80 Stat. 207](https://www.govinfo.gov/link/statute/80/207); [Pub. L. 99–386, title II, § 203(a)](https://www.govinfo.gov/link/plaw/99/public/386), Aug. 22, 1986, [100 Stat. 823](https://www.govinfo.gov/link/statute/100/823).)*

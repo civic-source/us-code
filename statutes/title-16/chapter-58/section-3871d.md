@@ -3,9 +3,10 @@ title: "Section 3871d - Funding"
 usc_title: 16
 usc_section: "3871d"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3871d"
-generated_at: "2026-03-30T02:54:23.037Z"
+generated_at: "2026-11-23T21:25:52.005Z"
+status: "active"
 ---
 
 # § 3871d. Funding
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:23.037Z"
   - **(1)** At the time of project selection, the Secretary shall identify and make publicly available the amount that the Secretary shall use to provide technical assistance under the terms of the partnership agreement.
   - **(2)** The Secretary shall limit costs of the Secretary for technical assistance to costs specific and necessary to carry out the objectives of the program.
   - **(3)** The Secretary shall develop and implement strategies to encourage third-party technical service providers to provide technical assistance to eligible partners pursuant to a partnership agreement.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1271D](https://www.govinfo.gov/link/plaw/99/public/198), as added [Pub. L. 113–79, title II, § 2401](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 749](https://www.govinfo.gov/link/statute/128/749); amended [Pub. L. 115–334, title II, § 2705](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4598](https://www.govinfo.gov/link/statute/132/4598); [Pub. L. 117–169, title II, § 21001(c)(7)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2017](https://www.govinfo.gov/link/statute/136/2017); [Pub. L. 119–21, title I, § 10601(b)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 107](https://www.govinfo.gov/link/statute/139/107).)*

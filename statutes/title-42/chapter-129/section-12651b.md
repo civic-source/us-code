@@ -3,9 +3,10 @@ title: "Section 12651b - Authorities and duties of the Board of Directors"
 usc_title: 42
 usc_section: "12651b"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12651b"
-generated_at: "2026-03-30T02:56:11.423Z"
+generated_at: "2026-11-23T21:26:33.518Z"
+status: "active"
 ---
 
 # § 12651b. Authorities and duties of the Board of Directors
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:56:11.423Z"
 - **(h)** Chapter 10 of title 5 shall not apply with respect to the Board.
 - **(i)** All employees and officers of the Corporation shall recuse themselves from decisions that would constitute conflicts of interest.
 - **(j)** As part of the agenda of meetings of the Board under subsection (a), the Board shall review projects and programs conducted or funded by the Corporation under the national service laws to improve the coordination between such projects and programs, and the activities of other Federal agencies that deal with the individuals and communities participating in or benefiting from such projects and programs. The ex officio members of the Board specified in section 12651a(a)(3) of this title shall jointly plan, implement, and fund activities in connection with projects and programs conducted under the national service laws to ensure that Federal efforts attempt to address the total needs of participants in such programs and projects, their communities, and the persons and communities the participants serve.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 192A](https://www.govinfo.gov/link/plaw/101/public/610), as added and amended [Pub. L. 103–82, title II](https://www.govinfo.gov/link/plaw/103/public/82), §§ 202(a), 203(a)(1)(B), (2), Sept. 21, 1993, [107 Stat. 875](https://www.govinfo.gov/link/statute/107/875), 891; [Pub. L. 111–13, title I, § 1702](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1544](https://www.govinfo.gov/link/statute/123/1544); [Pub. L. 117–286, § 4(a)(275)](https://www.govinfo.gov/link/plaw/117/public/286), (b)(85), Dec. 27, 2022, [136 Stat. 4336](https://www.govinfo.gov/link/statute/136/4336), 4352.)*

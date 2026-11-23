@@ -3,9 +3,10 @@ title: "Section 6007 - Assessments"
 usc_title: 7
 usc_section: "6007"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6007"
-generated_at: "2026-03-30T02:53:42.423Z"
+generated_at: "2026-11-23T21:25:28.380Z"
+status: "active"
 ---
 
 # § 6007. Assessments
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:53:42.423Z"
     - **(A)** the amount in the escrow account required by paragraph (1) is not sufficient to refund the total amount of assessments demanded by eligible growers, grower-shellers, or importers; and
     - **(B)** the plan is not approved pursuant to the referendum conducted under section 6011(a) of this title ;
   - **(7)** If the plan is approved pursuant to the referendum conducted under section 6011(a) of this title , all funds in the escrow account shall be returned to the Board for use by the Board in accordance with this chapter.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1912](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3848](https://www.govinfo.gov/link/statute/104/3848).)*

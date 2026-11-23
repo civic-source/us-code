@@ -3,9 +3,10 @@ title: "Section 3363 - Emergency allocation authority"
 usc_title: 15
 usc_section: "3363"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3363"
-generated_at: "2026-03-30T02:54:08.188Z"
+generated_at: "2026-11-23T21:25:39.967Z"
+status: "active"
 ---
 
 # § 3363. Emergency allocation authority
@@ -72,3 +73,7 @@ generated_at: "2026-03-30T02:54:08.188Z"
   - **(1)** use of natural gas in a residence;
   - **(2)** use of natural gas in a commercial establishment in amounts less than 50 Mcf on a peak day; or
   - **(3)** any use of natural gas the curtailment of which the President determines would endanger life, health, or maintenance of physical property.
+
+## Source Credit
+
+*([Pub. L. 95–621, title III, § 303](https://www.govinfo.gov/link/plaw/95/public/621), Nov. 9, 1978, [92 Stat. 3383](https://www.govinfo.gov/link/statute/92/3383).)*

@@ -3,9 +3,10 @@ title: "Section 9813 - Limited appointments to Senior Executive Service position
 usc_title: 5
 usc_section: "9813"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 9813"
-generated_at: "2026-03-30T02:52:56.074Z"
+generated_at: "2026-11-23T21:25:23.464Z"
+status: "active"
 ---
 
 # § 9813. Limited appointments to Senior Executive Service positions
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:52:56.074Z"
   - **(2)** a limited term appointee serving under a term prescribed under this section may be reassigned to another continuing Senior Executive Service position in the Administration, except that the appointee may not serve in 1 or more positions in the Administration under such appointment in excess of 1 year, except that in rare circumstances, the Administrator may approve an extension up to an additional 1 year.
 - **(f)** A limited term appointee may not serve more than 7 consecutive years under any combination of limited appointments.
 - **(g)** Notwithstanding section 5384, the Administrator may authorize performance awards to limited term appointees in the Administration in the same amounts and in the same manner as career appointees.
+
+## Source Credit
+
+*(Added [Pub. L. 108–201, § 3(a)](https://www.govinfo.gov/link/plaw/108/public/201), Feb. 24, 2004, [118 Stat. 473](https://www.govinfo.gov/link/statute/118/473).)*

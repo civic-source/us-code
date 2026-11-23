@@ -3,9 +3,10 @@ title: "Section 774 - Reports and recommendations"
 usc_title: 15
 usc_section: "774"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 774"
-generated_at: "2026-03-30T02:54:08.122Z"
+generated_at: "2026-11-23T21:25:39.762Z"
+status: "active"
 ---
 
 # § 774. Reports and recommendations
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:08.122Z"
     - **(B)** the relative environmental, national security, and balance-of-trade risks of each such method;
     - **(C)** the other relevant advantages and disadvantages of each such method; and
   - **(3)** recommendations for the best method or methods of meeting the energy needs identified in such annual report and for legislation needed to meet those needs.
+
+## Source Credit
+
+*([Pub. L. 93–275, § 15](https://www.govinfo.gov/link/plaw/93/public/275), May 7, 1974, [88 Stat. 108](https://www.govinfo.gov/link/statute/88/108); [Pub. L. 94–385, title I, § 109(a)](https://www.govinfo.gov/link/plaw/94/public/385) –(c), Aug. 14, 1976, [90 Stat. 1130](https://www.govinfo.gov/link/statute/90/1130).)*

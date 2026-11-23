@@ -3,9 +3,10 @@ title: "Section 3338 - Definitions"
 usc_title: 42
 usc_section: "3338"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3338"
-generated_at: "2026-03-30T02:56:11.186Z"
+generated_at: "2026-11-23T21:26:32.558Z"
+status: "active"
 ---
 
 # § 3338. Definitions
@@ -22,3 +23,7 @@ As used in this subchapter—
   - **(8)** “Special purpose unit of local government” means any special district, public-purpose corporation, or other limited-purpose political subdivision of a State, but shall not include a school district.
   - **(9)** “Unit of general local government” means any city, county, town, parish, village, or other general-purpose political subdivision of a State.
   - **(10)** “Secretary” means the Secretary of Housing and Urban Development.
+
+## Source Credit
+
+*([Pub. L. 89–754, title II, § 208](https://www.govinfo.gov/link/plaw/89/public/754), Nov. 3, 1966, [80 Stat. 1265](https://www.govinfo.gov/link/statute/80/1265); [Pub. L. 90–448, title VI, § 602(e)](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 532](https://www.govinfo.gov/link/statute/82/532); [Pub. L. 91–258, title I, § 52(b)(3)](https://www.govinfo.gov/link/plaw/91/public/258), May 21, 1970, [84 Stat. 235](https://www.govinfo.gov/link/statute/84/235); 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, [84 Stat. 2085](https://www.govinfo.gov/link/statute/84/2085); [Pub. L. 102–240, title III, § 3003(b)](https://www.govinfo.gov/link/plaw/102/public/240), Dec. 18, 1991, [105 Stat. 2088](https://www.govinfo.gov/link/statute/105/2088); [Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 709(a)(6)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–233](https://www.govinfo.gov/link/statute/110/3009), 3009–312; [Pub. L. 113–287, § 5(k)(2)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3269](https://www.govinfo.gov/link/statute/128/3269).)*

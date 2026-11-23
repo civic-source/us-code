@@ -3,9 +3,10 @@ title: "Section 2121 - Establishment"
 usc_title: 10
 usc_section: "2121"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2121"
-generated_at: "2026-03-30T02:53:38.142Z"
+generated_at: "2026-11-23T21:25:32.557Z"
+status: "active"
 ---
 
 # § 2121. Establishment
@@ -24,3 +25,11 @@ generated_at: "2026-03-30T02:53:38.142Z"
 - **(d)** Except when serving on active duty pursuant to subsection (c), a member of the program shall be entitled to a stipend at a monthly rate established by the Secretary of Defense, but not to exceed a total of $50,000 per year. The maximum annual amount of the stipend shall be increased annually by the Secretary of Defense effective on July 1 of each year by an amount (rounded to the next highest multiple of $1) equal to—
   - **(1)** the amount of such stipend (as previously adjusted (if at all)), multiplied by
   - **(2)** the overall percentage of the adjustment (if such adjustment is an increase) in the rates of basic pay for members of the uniformed services made effective for the fiscal year in which the school year ends.
+
+In general
+
+Prohibition on adjustments
+
+## Source Credit
+
+*(Added [Pub. L. 92–426, § 2(a)](https://www.govinfo.gov/link/plaw/92/public/426), Sept. 21, 1972, [86 Stat. 717](https://www.govinfo.gov/link/statute/86/717); amended [Pub. L. 96–107, title VIII, § 804(a)](https://www.govinfo.gov/link/plaw/96/public/107), Nov. 9, 1979, [93 Stat. 812](https://www.govinfo.gov/link/statute/93/812); [Pub. L. 98–94, title IX, § 935(a)](https://www.govinfo.gov/link/plaw/98/public/94), Sept. 24, 1983, [97 Stat. 652](https://www.govinfo.gov/link/statute/97/652); [Pub. L. 101–189, div. A, title VII, § 725(b)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1479](https://www.govinfo.gov/link/statute/103/1479); [Pub. L. 101–510, div. A, title XIV, § 1484(k)(7)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1719](https://www.govinfo.gov/link/statute/104/1719); [Pub. L. 104–106, div. A, title XV, § 1501(c)(22)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 499](https://www.govinfo.gov/link/statute/110/499); [Pub. L. 109–364, div. A, title V, § 538(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2209](https://www.govinfo.gov/link/statute/120/2209); [Pub. L. 110–181, div. A, title V, § 524(b)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 103](https://www.govinfo.gov/link/statute/122/103); [Pub. L. 111–84, div. A, title V, § 524(a)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2285](https://www.govinfo.gov/link/statute/123/2285); [Pub. L. 118–31, div. A, title VII, § 712](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 302](https://www.govinfo.gov/link/statute/137/302).)*

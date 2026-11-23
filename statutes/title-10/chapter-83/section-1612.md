@@ -3,9 +3,10 @@ title: "Section 1612 - Merit system principles and civil service protections: ap
 usc_title: 10
 usc_section: "1612"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1612"
-generated_at: "2026-03-30T02:53:38.133Z"
+generated_at: "2026-11-23T21:25:32.527Z"
+status: "active"
 ---
 
 # § 1612. Merit system principles and civil service protections: applicability
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:53:38.133Z"
   - **(3)**
     - **(A)** Notwithstanding any provision of chapter 75 of title 5, an appeal of an adverse action by an individual employee covered by paragraph (1) shall be determined within the Department of Defense if the employee so elects.
     - **(B)** The Secretary of Defense shall prescribe the procedures for initiating and determining appeals of adverse actions pursuant to elections made under subparagraph (A).
+
+Applicability of Merit System Principles
+
+Civil Service Protections
+
+## Source Credit
+
+*(Added [Pub. L. 104–201, div. A, title XVI, § 1632(d)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2750](https://www.govinfo.gov/link/statute/110/2750).)*

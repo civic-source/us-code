@@ -3,9 +3,10 @@ title: "Section 2151a - Agricultural development in rural areas"
 usc_title: 22
 usc_section: "2151a"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2151a"
-generated_at: "2026-03-30T02:55:05.344Z"
+generated_at: "2026-11-23T21:25:58.431Z"
+status: "active"
 ---
 
 # § 2151a. Agricultural development in rural areas
@@ -30,3 +31,9 @@ generated_at: "2026-03-30T02:55:05.344Z"
 - **(g)**
   - **(1)** In order to carry out the purposes of this section, the President may continue United States participation in and may make contributions to the International Fund for Agricultural Development.
   - **(2)** Of the aggregate amount authorized to be appropriated to carry out subchapter I of this chapter, up to $50,000,000 for fiscal year 1986 and up to $50,000,000 for fiscal year 1987 may be made available, by appropriation or by transfer, for United States contributions to the second replenishment of the International Fund for Agricultural Development.
+
+“It is the sense of the Congress that—
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 103, as added [Pub. L. 93–189, § 2(3)](https://www.govinfo.gov/link/plaw/93/public/189), Dec. 17, 1973, [87 Stat. 715](https://www.govinfo.gov/link/statute/87/715); amended [Pub. L. 93–559, § 2](https://www.govinfo.gov/link/plaw/93/public/559), Dec. 30, 1974, [88 Stat. 1795](https://www.govinfo.gov/link/statute/88/1795); [Pub. L. 94–161, title III, § 302](https://www.govinfo.gov/link/plaw/94/public/161), Dec. 20, 1975, [89 Stat. 856](https://www.govinfo.gov/link/statute/89/856); [Pub. L. 95–88, title I, § 102](https://www.govinfo.gov/link/plaw/95/public/88), Aug. 3, 1977, [91 Stat. 534](https://www.govinfo.gov/link/statute/91/534); [Pub. L. 95–424, title I, § 103(a)](https://www.govinfo.gov/link/plaw/95/public/424), Oct. 6, 1978, [92 Stat. 943](https://www.govinfo.gov/link/statute/92/943); [Pub. L. 96–53, title I, § 101](https://www.govinfo.gov/link/plaw/96/public/53), Aug. 14, 1979, [93 Stat. 359](https://www.govinfo.gov/link/statute/93/359); [Pub. L. 96–533, title III, § 301](https://www.govinfo.gov/link/plaw/96/public/533), Dec. 16, 1980, [94 Stat. 3145](https://www.govinfo.gov/link/statute/94/3145); [Pub. L. 97–113, title III, § 301(a)](https://www.govinfo.gov/link/plaw/97/public/113), (c), Dec. 29, 1981, [95 Stat. 1531](https://www.govinfo.gov/link/statute/95/1531), 1532; [Pub. L. 99–83, title III, § 302](https://www.govinfo.gov/link/plaw/99/public/83), title X, § 1001, Aug. 8, 1985, [99 Stat. 214](https://www.govinfo.gov/link/statute/99/214), 270; [Pub. L. 99–399, title XIII, § 1304](https://www.govinfo.gov/link/plaw/99/public/399), Aug. 27, 1986, [100 Stat. 898](https://www.govinfo.gov/link/statute/100/898); [Pub. L. 110–246, title III, § 3001(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/246), (2)(Q), June 18, 2008, [122 Stat. 1820](https://www.govinfo.gov/link/statute/122/1820).)*

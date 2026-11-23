@@ -3,9 +3,10 @@ title: "Section 2662 - Return requirements"
 usc_title: 26
 usc_section: "2662"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 2662"
-generated_at: "2026-03-30T02:55:27.786Z"
+generated_at: "2026-11-23T21:26:06.544Z"
+status: "active"
 ---
 
 # § 2662. Return requirements
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:27.786Z"
     - **(A)** in the case of a direct skip (other than from a trust), on or before the date on which an estate or gift tax return is required to be filed with respect to the transfer, and
     - **(B)** in all other cases, on or before the 15th day of the 4th month after the close of the taxable year of the person required to make such return in which such transfer occurs.
 - **(b)** The Secretary may by regulations require a return to be filed containing such information as he determines to be necessary for purposes of this chapter.
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XIV, § 1431(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2728](https://www.govinfo.gov/link/statute/100/2728).)*

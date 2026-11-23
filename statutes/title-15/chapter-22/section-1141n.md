@@ -3,12 +3,17 @@ title: "Section 1141n - Rights of extension of protection"
 usc_title: 15
 usc_section: "1141n"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1141n"
-generated_at: "2026-03-30T02:54:08.128Z"
+generated_at: "2026-11-23T21:25:39.795Z"
+status: "active"
 ---
 
 # § 1141n. Rights of extension of protection
 
 When a United States registration and a subsequently issued certificate of extension of protection to the United States are owned by the same person, identify the same mark, and list the same goods or services, the extension of protection shall have the same rights that accrued to the registration prior to issuance of the certificate of extension of protection.
 
+
+## Source Credit
+
+*(July 5, 1946, ch. 540, title XII, § 74, as added [Pub. L. 107–273, div. C, title III, § 13402](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1920](https://www.govinfo.gov/link/statute/116/1920).)*

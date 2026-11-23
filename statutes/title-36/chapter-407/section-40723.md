@@ -3,9 +3,10 @@ title: "Section 40723 - Eligibility for participation"
 usc_title: 36
 usc_section: "40723"
 chapter: 407
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 40723"
-generated_at: "2026-03-30T02:55:44.696Z"
+generated_at: "2026-11-23T21:26:13.571Z"
+status: "active"
 ---
 
 # § 40723. Eligibility for participation
@@ -23,3 +24,34 @@ generated_at: "2026-03-30T02:55:44.696Z"
   - **(1)** the safety of participants;
   - **(2)** the security of firearms, ammunition, and equipment; and
   - **(3)** the quality of instruction in the use of firearms.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40723(a) | 36:5503(a). | Feb. 10, 1996 , Pub. L. 104–106, title XVI, § 1613 , 110 Stat. 517 . |
+| 40723(b) | 36:5503(b). |  |
+| 40723(c) | 36:5503(c). |  |
+
+
+Certification
+
+Ineligibility
+
+Limiting Participation
+
+Historical and Revision Notes
+
+40723(a)
+
+Feb. 10, 1996
+
+Pub. L. 104–106, title XVI, § 1613
+
+110 Stat. 517
+
+40723(b)
+
+40723(c)
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1337](https://www.govinfo.gov/link/statute/112/1337).)*

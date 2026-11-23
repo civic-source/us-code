@@ -3,9 +3,10 @@ title: "Section 1304 - Reports"
 usc_title: 49
 usc_section: "1304"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 1304"
-generated_at: "2026-03-30T02:56:19.305Z"
+generated_at: "2026-11-23T21:26:40.612Z"
+status: "active"
 ---
 
 # § 1304. Reports
@@ -30,3 +31,25 @@ generated_at: "2026-03-30T02:56:19.305Z"
     - **(D)** the resolution of each complaint, if appropriate.
   - **(3)** The quarterly report may identify a complainant that submitted an informal complaint only upon the written consent of the complainant.
   - **(4)** Each quarterly report shall be posted on the Board’s public website.
+
+Annual Report
+
+Rate Case Review Metrics.—
+
+Quarterly reports
+
+Website posting
+
+Complaints.—
+
+In general
+
+Quarterly reports
+
+Written consent
+
+Website posting
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title II, § 201(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 934](https://www.govinfo.gov/link/statute/109/934), § 704; renumbered § 1304 and amended [Pub. L. 114–110](https://www.govinfo.gov/link/plaw/114/public/110), §§ 3(a)(3), 6, Dec. 18, 2015, [129 Stat. 2228](https://www.govinfo.gov/link/statute/129/2228), 2231.)*

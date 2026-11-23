@@ -3,9 +3,10 @@ title: "Section 6613 - Transfer, appointment, and assignment of personnel"
 usc_title: 22
 usc_section: "6613"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6613"
-generated_at: "2026-03-30T02:55:05.431Z"
+generated_at: "2026-11-23T21:25:58.694Z"
+status: "active"
 ---
 
 # § 6613. Transfer, appointment, and assignment of personnel
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.431Z"
 - **(b)** Except as otherwise provided in subchapter III, not later than the date of transfer of any function of AID to the Department of State under this chapter, all AID personnel performing such functions and all positions associated with such functions shall be transferred to the Department of State at the same grade or class and the same rate of basic pay or basic salary rate and with the same tenure held immediately preceding transfer.
 - **(c)** The Secretary, for a period of not more than 6 months commencing on the effective date of the transfer to the Department of State of personnel under subsections (a) and (b), is authorized to assign such personnel to any position or set of duties in the Department of State regardless of the position held or duties performed by such personnel prior to transfer, except that, by virtue of such assignment, such personnel shall not have their grade or class or their rate of basic pay or basic salary rate reduced, nor their tenure changed. In carrying out the reorganization under this Act, the Secretary shall ensure that the advances made in increasing the number and status of women and minorities within the foreign affairs agencies of the Federal Government, in terms of representation within the agencies as well as relative rank, are not undermined by discrimination within the newly reorganized Department of State. The Secretary shall consult with the relevant exclusive representatives (as defined in section 4102 of this title and in section 7103 of title 5 ) with regard to the exercise of this authority. This subsection does not authorize the Secretary to assign any individual to any position that by law requires appointment by the President, by and with the advice and consent of the Senate.
 - **(d)** Subsections (a) through (c) shall be exercised notwithstanding any other provision of law.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XVI, § 1613, Oct. 21, 1998, [112 Stat. 2681–799](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 341]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–444.)*

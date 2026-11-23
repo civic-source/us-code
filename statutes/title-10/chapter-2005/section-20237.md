@@ -3,9 +3,10 @@ title: "Section 20237 - Numbers to be recommended for promotion"
 usc_title: 10
 usc_section: "20237"
 chapter: 2005
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 20237"
-generated_at: "2026-03-30T02:53:38.281Z"
+generated_at: "2026-11-23T21:25:33.087Z"
+status: "active"
 ---
 
 # § 20237. Numbers to be recommended for promotion
@@ -21,3 +22,19 @@ generated_at: "2026-03-30T02:53:38.281Z"
   - **(2)** In order to make the determinations under paragraph (1), the Secretary shall determine—
     - **(A)** the number of positions needed to accomplish mission objectives which require officers serving in a space force active status on sustained duty, and in a space force active status not on sustained duty, in the grade to which the board will recommend officers for promotion; and
     - **(B)** the estimated number of officers on sustained duty and not on sustained duty needed to fill vacancies in those positions over the 24-month period beginning on the date on which the selection board convenes.
+
+Promotion to Grades Below Brigadier General.—
+
+Determination of maximum number
+
+Determinations
+
+Promotion to Brigadier General and Major General.—
+
+Determination of maximum numbers
+
+Determinations
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVII, § 1716(c)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 644](https://www.govinfo.gov/link/statute/137/644).)*

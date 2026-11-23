@@ -3,9 +3,10 @@ title: "Section 1382g - Payments to State for operation of supplementation progr
 usc_title: 42
 usc_section: "1382g"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1382g"
-generated_at: "2026-03-30T02:56:10.930Z"
+generated_at: "2026-11-23T21:26:31.340Z"
+status: "active"
 ---
 
 # § 1382g. Payments to State for operation of supplementation program
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:10.930Z"
     - **(B)** the combined level of such supplementary payments and the amounts payable to or on behalf of such recipients under section 1382(e)(1)(B) of this title for October 1987 (or, if no such supplementary payments were made for that month, the combined level for the first subsequent month for which such payments were made), increased—
       - **(i)** in a case to which clause (i) of such section 1382(e)(1)(B) of this title applies or (with respect to the individual or spouse who is in the hospital, home, or facility involved) to which clause (ii) of such section applies, by $5, and
       - **(ii)** in a case to which clause (iii) of such section 1382(e)(1)(B) of this title applies, by $10.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVI, § 1618, as added [Pub. L. 94–585, § 2(a)](https://www.govinfo.gov/link/plaw/94/public/585), Oct. 21, 1976, [90 Stat. 2901](https://www.govinfo.gov/link/statute/90/2901); amended [Pub. L. 97–248, title I, § 186](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 407](https://www.govinfo.gov/link/statute/96/407); [Pub. L. 97–377, title I, § 147](https://www.govinfo.gov/link/plaw/97/public/377), Dec. 21, 1982, [96 Stat. 1917](https://www.govinfo.gov/link/statute/96/1917); [Pub. L. 98–21, title IV, § 402](https://www.govinfo.gov/link/plaw/98/public/21), Apr. 20, 1983, [97 Stat. 139](https://www.govinfo.gov/link/statute/97/139); [Pub. L. 98–369, div. B, title VI, § 2663(g)(9)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1169](https://www.govinfo.gov/link/statute/98/1169); [Pub. L. 99–272, title XII, § 12201(a)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 289](https://www.govinfo.gov/link/statute/100/289); [Pub. L. 100–203, title IX, § 9119(b)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–309](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 103–296, title I, § 107(a)(4)](https://www.govinfo.gov/link/plaw/103/public/296), title II, § 209(a), Aug. 15, 1994, [108 Stat. 1478](https://www.govinfo.gov/link/statute/108/1478), 1517.)*

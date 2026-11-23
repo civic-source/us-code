@@ -3,9 +3,10 @@ title: "Section 1206 - Reliable emergency alert distribution improvement"
 usc_title: 47
 usc_section: "1206"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1206"
-generated_at: "2026-03-30T02:56:24.530Z"
+generated_at: "2026-11-23T21:26:36.088Z"
+status: "active"
 ---
 
 # § 1206. Reliable emergency alert distribution improvement
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:56:24.530Z"
   - **(2)** the term “Commission” means the Federal Communications Commission;
   - **(3)** the term “Emergency Alert System” means the national public warning system, the rules for which are set forth in part 11 of title 47, Code of Federal Regulations (or any successor regulation); and
   - **(4)** the term “Wireless Emergency Alerts System” means the wireless national public warning system established under the Warning, Alert, and Response Network Act ( 47 U.S.C. 1201 et seq.), the rules for which are set forth in part 10 of title 47, Code of Federal Regulations (or any successor regulation).
+
+## Source Credit
+
+*([Pub. L. 116–283, div. H, title XCII, § 9201](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4785](https://www.govinfo.gov/link/statute/134/4785).)*

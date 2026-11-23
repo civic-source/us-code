@@ -3,9 +3,10 @@ title: "Section 3352 - Estimates of improper payments and reports on actions to 
 usc_title: 31
 usc_section: "3352"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 3352"
-generated_at: "2026-03-30T02:55:34.055Z"
+generated_at: "2026-11-23T21:26:10.573Z"
+status: "active"
 ---
 
 # § 3352. Estimates of improper payments and reports on actions to reduce improper payments
@@ -155,3 +156,117 @@ generated_at: "2026-03-30T02:55:34.055Z"
       - **(ii)** may seek to reduce errors and waste in other executive agency programs and operations.
   - **(4)** Any nongovernmental entity that, in the course of recovery auditing or recovery activity under this subsection, obtains information that identifies an individual or with respect to which there is a reasonable basis to believe that the information can be used to identify an individual, may not disclose the information for any purpose other than the recovery auditing or recovery activity and governmental oversight of the activity, unless disclosure for that other purpose is authorized by the individual to the executive agency that contracted for the performance of the recovery auditing or recovery activity.
   - **(5)** Except as provided under paragraph (4), nothing in this subsection shall be construed as terminating or in any way limiting authorities that are otherwise available to executive agencies under existing provisions of law to recover improper payments and use recovered amounts.
+
+Identification of Susceptible Programs and Activities.—
+
+In general
+
+Frequency
+
+Risk assessments.—
+
+Definition of significant
+
+Scope
+
+Annual report
+
+Improving the Determination of Improper Payments.—
+
+In general
+
+Report on high-priority improper payments.—
+
+In general
+
+Contents
+
+Public availability on central website
+
+Availability of information to inspector general
+
+Assessment and recommendations
+
+Annual meeting
+
+Estimation of Improper Payments.—
+
+Estimation
+
+Lacking or insufficient documentation.—
+
+In general
+
+Separate report
+
+Reports on Actions To Reduce Improper Payments
+
+Reports on Actions To Recover Improper Payments
+
+Governmentwide Reporting of Improper Payments and Actions To Recover Improper Payments.—
+
+Report
+
+Contents
+
+Guidance by the Office of Management and Budget.—
+
+In general
+
+Contents
+
+Determinations of Agency Readiness for Opinion on Internal Control
+
+Recovery Audits.—
+
+In general.—
+
+Conduct of audits
+
+Procedures
+
+Recovery audit contracts
+
+Contract terms and conditions.—
+
+In general
+
+Reports on actions taken
+
+Agency action following notification
+
+Disposition of amounts recovered.—
+
+In general
+
+Distribution
+
+Use for financial management improvement program
+
+Use for original purpose
+
+(aa) for amounts that are recovered more than 5 fiscal years from the last fiscal year in which the funds were available for obligation, shall be deposited in the Treasury as miscellaneous receipts; and
+
+(bb) for other amounts, shall be newly available for the same time period as the funds were originally available for obligation.
+
+Use for inspector general activities
+
+Remainder
+
+Discretionary amounts
+
+Application
+
+Financial management improvement program.—
+
+Requirement
+
+Program features
+
+Privacy protections
+
+Rule of construction
+
+## Source Credit
+
+*(Added [Pub. L. 116–117, § 2(a)](https://www.govinfo.gov/link/plaw/116/public/117), Mar. 2, 2020, [134 Stat. 114](https://www.govinfo.gov/link/statute/134/114).)*

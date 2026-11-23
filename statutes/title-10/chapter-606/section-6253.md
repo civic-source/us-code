@@ -3,9 +3,10 @@ title: "Section 6253 - Fellowship program for development of skills critical to 
 usc_title: 10
 usc_section: "6253"
 chapter: 606
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6253"
-generated_at: "2026-03-30T02:53:38.224Z"
+generated_at: "2026-11-23T21:25:32.824Z"
+status: "active"
 ---
 
 # § 6253. Fellowship program for development of skills critical to the nuclear security enterprise
@@ -20,3 +21,19 @@ generated_at: "2026-03-30T02:53:38.224Z"
 - **(f)**
   - **(1)** The Secretary may allow an individual to participate in the program only if the individual signs an agreement described in paragraph (2).
   - **(2)** An agreement referred to in paragraph (1) shall be in writing, shall be signed by the participant, and shall include the participant’s agreement to serve, after completion of the course of study for which the assistance was provided, as a full-time employee in a position in the nuclear security enterprise for a period of time to be established by the Secretary of Energy of not less than one year, if such a position is offered to the participant.
+
+In General
+
+Eligible Individuals
+
+Covered Facilities
+
+Administration
+
+Allocation of Funds
+
+Agreement
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2)(B), Dec. 18, 2025, [139 Stat. 1418](https://www.govinfo.gov/link/statute/139/1418), 1462.)*

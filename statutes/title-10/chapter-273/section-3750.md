@@ -3,9 +3,10 @@ title: "Section 3750 - Proceeding costs not allowable"
 usc_title: 10
 usc_section: "3750"
 chapter: 273
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3750"
-generated_at: "2026-03-30T02:53:38.197Z"
+generated_at: "2026-11-23T21:25:32.738Z"
+status: "active"
 ---
 
 # § 3750. Proceeding costs not allowable
@@ -45,3 +46,37 @@ generated_at: "2026-03-30T02:53:38.197Z"
   - **(3)** In the case of a proceeding referred to in paragraph (1), contractor or subcontractor, or personal services contractor costs otherwise allowable as reimbursable costs under this subsection are not allowable if—
     - **(A)** such proceeding involves the same contractor or subcontractor, or personal services contractor misconduct alleged as the basis of another criminal, civil, or administrative proceeding; and
     - **(B)** the costs of such other proceeding are not allowable under subsection (b).
+
+Definitions
+
+Costs
+
+Penalty
+
+Proceedings
+
+In General
+
+Covered Dispositions
+
+Costs Allowed by Settlement Agreement in Proceeding Commenced by United States
+
+Costs Specifically Authorized in Proceeding Commenced by State
+
+Other Allowable Costs.—
+
+In general
+
+Amount of Allowable Costs.—
+
+Maximum amount allowed
+
+Content of regulations
+
+When otherwise allowable costs are not allowable
+
+“The regulations necessary for the implementation of section 306(e) of the Federal Property and Administrative Services Act of 1949 [now 41 U.S.C. 4304 ] (as added by subsection (a)) and section 2324(k)(5) of title 10 , United States Code [see 10 U.S.C. 3750(f) ] (as added by subsection (b))—
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1832(a)](https://www.govinfo.gov/link/plaw/116/public/283), (i), Jan. 1, 2021, [134 Stat. 4218](https://www.govinfo.gov/link/statute/134/4218), 4222; [Pub. L. 117–81, div. A, title XVII, § 1701(b)(11)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2134](https://www.govinfo.gov/link/statute/135/2134).)*

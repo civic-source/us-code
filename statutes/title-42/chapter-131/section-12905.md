@@ -3,9 +3,10 @@ title: "Section 12905 - Responsibilities of grantees"
 usc_title: 42
 usc_section: "12905"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12905"
-generated_at: "2026-03-30T02:56:11.435Z"
+generated_at: "2026-11-23T21:26:33.574Z"
+status: "active"
 ---
 
 # § 12905. Responsibilities of grantees
@@ -32,3 +33,13 @@ generated_at: "2026-03-30T02:56:11.435Z"
         - **(I)**
         - **(II)** provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or
       - **(ii)** in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022 , is hardwired.
+
+(aa) is hardwired; or
+
+(bb) uses 10-year non rechargeable, nonreplaceable primary batteries and— (AA) is sealed; (BB) is tamper resistant; and (CC) contains silencing means; and
+
+No Fee
+
+## Source Credit
+
+*([Pub. L. 101–625, title VIII, § 856](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4378](https://www.govinfo.gov/link/statute/104/4378); [Pub. L. 102–550, title VI, § 606(f)](https://www.govinfo.gov/link/plaw/102/public/550), (j)(4), (11)(A), Oct. 28, 1992, [106 Stat. 3809–3811](https://www.govinfo.gov/link/statute/106/3809); [Pub. L. 106–377, § 1(a)(1) [title II, § 203(c)]](https://www.govinfo.gov/link/plaw/106/public/377), Oct. 27, 2000, [114 Stat. 1441](https://www.govinfo.gov/link/statute/114/1441), 1441A–24; [Pub. L. 116–260, div. Q, title I, § 101(e)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2164](https://www.govinfo.gov/link/statute/134/2164); [Pub. L. 117–328, div. AA, title VI, § 601(d)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5545](https://www.govinfo.gov/link/statute/136/5545).)*

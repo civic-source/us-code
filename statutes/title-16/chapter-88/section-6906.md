@@ -3,9 +3,10 @@ title: "Section 6906 - Prohibited acts"
 usc_title: 16
 usc_section: "6906"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6906"
-generated_at: "2026-03-30T02:54:23.071Z"
+generated_at: "2026-11-23T21:25:52.057Z"
+status: "active"
 ---
 
 # § 6906. Prohibited acts
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:23.071Z"
   - **(13)** to fail to stop a vessel upon being hailed and instructed to stop by a duly authorized official of the United States;
   - **(14)** to import, in violation of any regulation adopted pursuant to section 6905(a) of this title , any fish in any form of those species subject to regulation pursuant to a recommendation, resolution, or decision of the Commission, or any tuna in any form not under regulation but under investigation by the Commission, during the period such fish have been denied entry in accordance with the provisions of section 6905(a) of this title .
 - **(b)** In the case of any fish described in subsection (a) offered for entry into the United States, the Secretary of Commerce shall require proof satisfactory to the Secretary that such fish is not ineligible for such entry under the terms of section 6905(a) of this title .
+
+## Source Credit
+
+*([Pub. L. 109–479, title V, § 507](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3641](https://www.govinfo.gov/link/statute/120/3641); [Pub. L. 114–81, title I, § 105(2)](https://www.govinfo.gov/link/plaw/114/public/81), Nov. 5, 2015, [129 Stat. 657](https://www.govinfo.gov/link/statute/129/657).)*

@@ -3,9 +3,10 @@ title: "Section 20944 - Expansion of training and technology efforts"
 usc_title: 34
 usc_section: "20944"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20944"
-generated_at: "2026-03-30T02:55:33.301Z"
+generated_at: "2026-11-23T21:26:09.803Z"
+status: "active"
 ---
 
 # § 20944. Expansion of training and technology efforts
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:33.301Z"
 - **(d)** There are authorized to be appropriated to the Attorney General, for fiscal year 2007—
   - **(1)** $1,000,000 to carry out subsection (a); and
   - **(2)** $2,000,000 to carry out subsection (b).
+
+## Source Credit
+
+*([Pub. L. 109–248, title I, § 145](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 606](https://www.govinfo.gov/link/statute/120/606).)*

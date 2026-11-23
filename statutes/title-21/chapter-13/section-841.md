@@ -3,9 +3,10 @@ title: "Section 841 - Prohibited acts A"
 usc_title: 21
 usc_section: "841"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 841"
-generated_at: "2026-03-30T02:54:54.295Z"
+generated_at: "2026-11-23T21:25:56.240Z"
+status: "active"
 ---
 
 # § 841. Prohibited acts A
@@ -108,3 +109,19 @@ generated_at: "2026-03-30T02:54:54.295Z"
         - **(II)** the transmission, storage, retrieval, hosting, formatting, or translation (or any combination thereof) of a communication, without selection or alteration of the content of the communication, except that deletion of a particular communication or material made by another person in a manner consistent with section 230(c) of title 47 shall not constitute such selection or alteration of the content of the communication.
     - **(B)** The exceptions under subclauses (I) and (II) of subparagraph (A)(iii) shall not apply to a person acting in concert with a person who violates paragraph (1).
   - **(4)** Any person who knowingly or intentionally violates this subsection shall be sentenced in accordance with subsection (b).
+
+Penalties for distribution.—
+
+In general
+
+Definition
+
+Definition of Covered Offense
+
+Defendants Previously Sentenced
+
+Limitations
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 401](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1260](https://www.govinfo.gov/link/statute/84/1260); [Pub. L. 95–633, title II, § 201](https://www.govinfo.gov/link/plaw/95/public/633), Nov. 10, 1978, [92 Stat. 3774](https://www.govinfo.gov/link/statute/92/3774); [Pub. L. 96–359, § 8(c)](https://www.govinfo.gov/link/plaw/96/public/359), Sept. 26, 1980, [94 Stat. 1194](https://www.govinfo.gov/link/statute/94/1194); [Pub. L. 98–473, title II](https://www.govinfo.gov/link/plaw/98/public/473), §§ 224(a), 502, 503(b)(1), (2), Oct. 12, 1984, [98 Stat. 2030](https://www.govinfo.gov/link/statute/98/2030), 2068, 2070; [Pub. L. 99–570, title I](https://www.govinfo.gov/link/plaw/99/public/570), §§ 1002, 1003(a), 1004(a), 1005(a), 1103, title XV, § 15005, Oct. 27, 1986, [100 Stat. 3207–2](https://www.govinfo.gov/link/statute/100/3207), 3207–5, 3207–6, 3207–11, 3207–192; [Pub. L. 100–690, title VI](https://www.govinfo.gov/link/plaw/100/public/690), §§ 6055, 6254(h), 6452(a), 6470(g), (h), 6479, Nov. 18, 1988, [102 Stat. 4318](https://www.govinfo.gov/link/statute/102/4318), 4367, 4371, 4378, 4381; [Pub. L. 101–647, title X, § 1002(e)](https://www.govinfo.gov/link/plaw/101/public/647), title XII, § 1202, title XXXV, § 3599K, Nov. 29, 1990, [104 Stat. 4828](https://www.govinfo.gov/link/statute/104/4828), 4830, 4932; [Pub. L. 103–322, title IX, § 90105(a)](https://www.govinfo.gov/link/plaw/103/public/322), (c), title XVIII, § 180201(b)(2)(A), Sept. 13, 1994, [108 Stat. 1987](https://www.govinfo.gov/link/statute/108/1987), 1988, 2047; [Pub. L. 104–237, title II, § 206(a)](https://www.govinfo.gov/link/plaw/104/public/237), title III, § 302(a), Oct. 3, 1996, [110 Stat. 3103](https://www.govinfo.gov/link/statute/110/3103), 3105; [Pub. L. 104–305, § 2(a)](https://www.govinfo.gov/link/plaw/104/public/305), (b)(1), Oct. 13, 1996, [110 Stat. 3807](https://www.govinfo.gov/link/statute/110/3807); [Pub. L. 105–277, div. E, § 2(a)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–759](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–172](https://www.govinfo.gov/link/plaw/106/public/172), §§ 3(b)(1), 5(b), 9, Feb. 18, 2000, [114 Stat. 9](https://www.govinfo.gov/link/statute/114/9), 10, 13; [Pub. L. 107–273, div. B, title III, § 3005(a)](https://www.govinfo.gov/link/plaw/107/public/273), title IV, § 4002(d)(2)(A), Nov. 2, 2002, [116 Stat. 1805](https://www.govinfo.gov/link/statute/116/1805), 1809; [Pub. L. 109–177, title VII](https://www.govinfo.gov/link/plaw/109/public/177), §§ 711(f)(1)(B), 732, Mar. 9, 2006, [120 Stat. 262](https://www.govinfo.gov/link/statute/120/262), 270; [Pub. L. 109–248, title II, § 201](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 611](https://www.govinfo.gov/link/statute/120/611); [Pub. L. 110–425, § 3(e)](https://www.govinfo.gov/link/plaw/110/public/425), (f), Oct. 15, 2008, [122 Stat. 4828](https://www.govinfo.gov/link/statute/122/4828), 4829; [Pub. L. 111–220](https://www.govinfo.gov/link/plaw/111/public/220), §§ 2(a), 4(a), Aug. 3, 2010, [124 Stat. 2372](https://www.govinfo.gov/link/statute/124/2372); [Pub. L. 115–391, title IV, § 401(a)(2)](https://www.govinfo.gov/link/plaw/115/public/391), Dec. 21, 2018, [132 Stat. 5220](https://www.govinfo.gov/link/statute/132/5220); [Pub. L. 117–215, title I, § 103(b)(1)(G)](https://www.govinfo.gov/link/plaw/117/public/215), Dec. 2, 2022, [136 Stat. 2263](https://www.govinfo.gov/link/statute/136/2263); [Pub. L. 119–26, § 6(a)](https://www.govinfo.gov/link/plaw/119/public/26), July 16, 2025, [139 Stat. 417](https://www.govinfo.gov/link/statute/139/417).)*

@@ -3,9 +3,10 @@ title: "Section 2520 - Recovery of civil damages authorized"
 usc_title: 18
 usc_section: "2520"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2520"
-generated_at: "2026-03-30T02:54:16.507Z"
+generated_at: "2026-11-23T21:25:44.163Z"
+status: "active"
 ---
 
 # § 2520. Recovery of civil damages authorized
@@ -29,3 +30,21 @@ generated_at: "2026-03-30T02:54:16.507Z"
 - **(e)** A civil action under this section may not be commenced later than two years after the date upon which the claimant first has a reasonable opportunity to discover the violation.
 - **(f)** If a court or appropriate department or agency determines that the United States or any of its departments or agencies has violated any provision of this chapter, and the court or appropriate department or agency finds that the circumstances surrounding the violation raise serious questions about whether or not an officer or employee of the United States acted willfully or intentionally with respect to the violation, the department or agency shall, upon receipt of a true and correct copy of the decision and findings of the court or appropriate department or agency promptly initiate a proceeding to determine whether disciplinary action against the officer or employee is warranted. If the head of the department or agency involved determines that disciplinary action is not warranted, he or she shall notify the Inspector General with jurisdiction over the department or agency concerned and shall provide the Inspector General with the reasons for such determination.
 - **(g)** Any willful disclosure or use by an investigative or law enforcement officer or governmental entity of information beyond the extent permitted by section 2517 is a violation of this chapter for purposes of section 2520(a).
+
+In General
+
+Relief
+
+Computation of Damages
+
+Defense
+
+Limitation
+
+Administrative Discipline
+
+Improper Disclosure Is Violation
+
+## Source Credit
+
+*(Added [Pub. L. 90–351, title III, § 802](https://www.govinfo.gov/link/plaw/90/public/351), June 19, 1968, [82 Stat. 223](https://www.govinfo.gov/link/statute/82/223); amended [Pub. L. 91–358, title II, § 211(c)](https://www.govinfo.gov/link/plaw/91/public/358), July 29, 1970, [84 Stat. 654](https://www.govinfo.gov/link/statute/84/654); [Pub. L. 99–508, title I, § 103](https://www.govinfo.gov/link/plaw/99/public/508), Oct. 21, 1986, [100 Stat. 1853](https://www.govinfo.gov/link/statute/100/1853); [Pub. L. 107–56, title II, § 223(a)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 293](https://www.govinfo.gov/link/statute/115/293); [Pub. L. 107–296, title XXII, § 2207(e)](https://www.govinfo.gov/link/plaw/107/public/296), formerly title II, § 225(e), Nov. 25, 2002, [116 Stat. 2157](https://www.govinfo.gov/link/statute/116/2157), renumbered § 2207(e), [Pub. L. 115–278, § 2(g)(2)(I)](https://www.govinfo.gov/link/plaw/115/public/278), Nov. 16, 2018, [132 Stat. 4178](https://www.govinfo.gov/link/statute/132/4178); [Pub. L. 115–141, div. V, § 104(1)(B)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1216](https://www.govinfo.gov/link/statute/132/1216).)*

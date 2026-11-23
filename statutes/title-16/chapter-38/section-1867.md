@@ -3,9 +3,10 @@ title: "Section 1867 - Cooperative research and management program"
 usc_title: 16
 usc_section: "1867"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1867"
-generated_at: "2026-03-30T02:54:22.994Z"
+generated_at: "2026-11-23T21:25:51.934Z"
+status: "active"
 ---
 
 # § 1867. Cooperative research and management program
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:22.994Z"
 - **(d)** Not later than 180 days after January 12, 2007 , the Secretary, in consultation with the Councils, shall promulgate regulations that create an expedited, uniform, and regionally-based process to promote issuance, where practicable, of experimental fishing permits.
 - **(e)** The Secretary, in consultation with the Councils, shall establish guidelines to ensure that participation in a research project funded under this section does not result in loss of a participant’s catch history or unexpended days-at-sea as part of a limited entry system.
 - **(f)** The procedures of this section shall not apply to research funded by quota set-asides in a fishery.
+
+## Source Credit
+
+*([Pub. L. 94–265, title III, § 318](https://www.govinfo.gov/link/plaw/94/public/265), as added [Pub. L. 109–479, title II, § 204](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3614](https://www.govinfo.gov/link/statute/120/3614).)*

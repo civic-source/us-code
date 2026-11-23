@@ -3,9 +3,10 @@ title: "Section 273 - Organ procurement organizations"
 usc_title: 42
 usc_section: "273"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 273"
-generated_at: "2026-03-30T02:56:10.724Z"
+generated_at: "2026-11-23T21:26:30.396Z"
+status: "active"
 ---
 
 # § 273. Organ procurement organizations
@@ -55,3 +56,9 @@ generated_at: "2026-03-30T02:56:10.724Z"
     - **(J)** evaluate annually the effectiveness of the organization in acquiring potentially available organs, and
     - **(K)** assist hospitals in establishing and implementing protocols for making routine inquiries about organ donations by potential donors.
 - **(c)** Pancreata procured by an organ procurement organization and used for islet cell transplantation or research shall be counted for purposes of certification or recertification under subsection (b).
+
+“Congress makes the following findings:
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 371, as added [Pub. L. 98–507, title II, § 201](https://www.govinfo.gov/link/plaw/98/public/507), Oct. 19, 1984, [98 Stat. 2342](https://www.govinfo.gov/link/statute/98/2342); amended [Pub. L. 100–607, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/100/public/607), (c)(1), (2), (d), Nov. 4, 1988, [102 Stat. 3114](https://www.govinfo.gov/link/statute/102/3114), 3115; [Pub. L. 101–616, title II](https://www.govinfo.gov/link/plaw/101/public/616), §§ 201(a)–(c)(1), (d), (e), 206(b), Nov. 16, 1990, [104 Stat. 3283](https://www.govinfo.gov/link/statute/104/3283), 3285; [Pub. L. 106–505, title VII, § 701(c)](https://www.govinfo.gov/link/plaw/106/public/505), Nov. 13, 2000, [114 Stat. 2347](https://www.govinfo.gov/link/statute/114/2347); [Pub. L. 106–554, § 1(a)(1) [title II, § 219(b)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–29; [Pub. L. 108–216, § 9](https://www.govinfo.gov/link/plaw/108/public/216), Apr. 5, 2004, [118 Stat. 590](https://www.govinfo.gov/link/statute/118/590); [Pub. L. 108–362, § 2](https://www.govinfo.gov/link/plaw/108/public/362), Oct. 25, 2004, [118 Stat. 1703](https://www.govinfo.gov/link/statute/118/1703); [Pub. L. 113–51, § 2(a)(2)](https://www.govinfo.gov/link/plaw/113/public/51), (3), Nov. 21, 2013, [127 Stat. 579](https://www.govinfo.gov/link/statute/127/579), 580; [Pub. L. 118–14, § 3(1)](https://www.govinfo.gov/link/plaw/118/public/14), Sept. 22, 2023, [137 Stat. 69](https://www.govinfo.gov/link/statute/137/69).)*

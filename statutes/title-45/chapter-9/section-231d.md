@@ -3,9 +3,10 @@ title: "Section 231d - Annuity beginning and ending dates"
 usc_title: 45
 usc_section: "231d"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 231d"
-generated_at: "2026-03-30T02:55:56.546Z"
+generated_at: "2026-11-23T21:26:19.195Z"
+status: "active"
 ---
 
 # § 231d. Annuity beginning and ending dates
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:56.546Z"
   - **(9)** No annuity shall accrue with respect to the calendar month in which an annuitant dies. In cases where an individual entitled to an annuity under this subchapter disappears, no annuity shall accrue to that individual with respect to any month until and unless such individual is shown, by evidence satisfactory to the Board, to have continued in life throughout such month, but—
     - **(A)** where an annuity would accrue for such month under section 231a(a)(1) of this title to an individual who had a current connection with the railroad industry at the time of such individual’s disappearance, and under section 231a(c) of this title to such individual’s spouse, had such individual been shown to be alive during such month, such individual shall be deemed, for the purposes of benefits under section 231a(d) of this title , to have died in the month in which such individual disappeared, and where an annuity would accrue for such month under section 231a(a)(1) of this title to an individual who did not have a current connection with the railroad industry at the time of such individual’s disappearance, and under section 231a(c) of this title to such individual’s spouse, had such individual been shown to be alive during such month, such individual shall be deemed, for purposes of benefits payable under section 231a(c) of this title , to be alive during such month unless the death of such individual has been established or the annuity of the spouse of such individual is otherwise terminated under subsection (c)(3) of this section, and
     - **(B)** if such individual is later determined to have been alive during any of such months, recovery of any benefits paid on the basis of such individual’s compensation under section 231a(d) of this title for the months in which such individual was not known to be alive, minus the total of the amounts that would have been paid as a spouse’s annuity during such months (treating the application for a widow’s or widower’s annuity as an application for spouse’s annuity), shall be made in accordance with section 231 l of this title.
+
+## Source Credit
+
+*(Aug. 29, 1935, ch. 812, § 5, as restated June 24, 1937, ch. 382, pt. I, [50 Stat. 307](https://www.govinfo.gov/link/statute/50/307), as restated [Pub. L. 93–445, title I, § 101](https://www.govinfo.gov/link/plaw/93/public/445), Oct. 16, 1974, [88 Stat. 1332](https://www.govinfo.gov/link/statute/88/1332); amended [Pub. L. 97–35, title XI, § 1120](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 636](https://www.govinfo.gov/link/statute/95/636); [Pub. L. 98–76, title I](https://www.govinfo.gov/link/plaw/98/public/76), §§ 103(a), 104(c), 106(i), (j), Aug. 12, 1983, [97 Stat. 415](https://www.govinfo.gov/link/statute/97/415), 416, 418; [Pub. L. 107–90, title I, § 103(f)](https://www.govinfo.gov/link/plaw/107/public/90), Dec. 21, 2001, [115 Stat. 881](https://www.govinfo.gov/link/statute/115/881); [Pub. L. 109–280, title X, § 1003(a)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1053](https://www.govinfo.gov/link/statute/120/1053); [Pub. L. 110–458, title I, § 110(a)(2)](https://www.govinfo.gov/link/plaw/110/public/458), Dec. 23, 2008, [122 Stat. 5112](https://www.govinfo.gov/link/statute/122/5112).)*

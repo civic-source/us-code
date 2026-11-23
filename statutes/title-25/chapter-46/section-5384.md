@@ -3,9 +3,10 @@ title: "Section 5384 - Compacts"
 usc_title: 25
 usc_section: "5384"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5384"
-generated_at: "2026-03-30T02:54:52.869Z"
+generated_at: "2026-11-23T21:25:54.732Z"
+status: "active"
 ---
 
 # § 5384. Compacts
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:52.869Z"
   - **(1)** retain the Tribal Self-Governance Demonstration Project compact of that Indian tribe (in whole or in part) to the extent that the provisions of that funding agreement are not directly contrary to any express provision of this subchapter; or
   - **(2)** instead of retaining a compact or portion thereof under paragraph (1), negotiate a new compact in a manner consistent with the requirements of this subchapter.
 - **(d)** The effective date of a compact shall be the date of the approval and execution by the Indian tribe or another date agreed upon by the parties, and shall remain in effect for so long as permitted by Federal law or until terminated by mutual written agreement, retrocession, or reassumption.
+
+## Source Credit
+
+*([Pub. L. 93–638, title V, § 504](https://www.govinfo.gov/link/plaw/93/public/638), as added [Pub. L. 106–260, § 4](https://www.govinfo.gov/link/plaw/106/public/260), Aug. 18, 2000, [114 Stat. 715](https://www.govinfo.gov/link/statute/114/715).)*

@@ -3,9 +3,10 @@ title: "Section 8262g - Procurement and identification of energy efficient produ
 usc_title: 42
 usc_section: "8262g"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8262g"
-generated_at: "2026-03-30T02:56:11.339Z"
+generated_at: "2026-11-23T21:26:33.192Z"
+status: "active"
 ---
 
 # § 8262g. Procurement and identification of energy efficient products
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.339Z"
   - **(4)** an indication of whether energy cost savings technologies identified by the Advanced Building Technology Council, under section 1701j–2(h) of title 12 , have been used in the identification of products under subsection (b);
   - **(5)** an estimate of the potential cost savings to the Federal Government from acquiring products identified under subsection (b) with respect to which energy is a significant component of life cycle cost, based on the quantities of such products that could be utilized throughout the Government; and
   - **(6)** the actual quantities acquired of products described in paragraph (5).
+
+## Source Credit
+
+*([Pub. L. 102–486, title I, § 161](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2858](https://www.govinfo.gov/link/statute/106/2858); [Pub. L. 104–66, title I, § 1052(c)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 718](https://www.govinfo.gov/link/statute/109/718).)*

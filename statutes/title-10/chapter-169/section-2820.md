@@ -3,9 +3,10 @@ title: "Section 2820 - Development of infrastructure improvement plan for each m
 usc_title: 10
 usc_section: "2820"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2820"
-generated_at: "2026-03-30T02:53:38.178Z"
+generated_at: "2026-11-23T21:25:32.681Z"
+status: "active"
 ---
 
 # § 2820. Development of infrastructure improvement plan for each military department
@@ -29,3 +30,15 @@ generated_at: "2026-03-30T02:53:38.178Z"
 - **(d)** Each service chief (as defined in section 3101 of this title ) shall—
   - **(1)** assess each plan and certification developed by the Secretary concerned under subsection (a); and
   - **(2)** submit to the congressional defense committees, not later than the date on which the Secretary concerned submits the plan and certification to such committees, an unaltered copy of the results of such assessment.
+
+In General
+
+Elements
+
+Incorporation of Results-oriented Management Practices
+
+Service Chief Assessment
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. B, title XXVIII, § 2803](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1293](https://www.govinfo.gov/link/statute/139/1293).)*

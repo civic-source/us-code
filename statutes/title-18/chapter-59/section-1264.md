@@ -3,12 +3,17 @@ title: "Section 1264 - Delivery to consignee"
 usc_title: 18
 usc_section: "1264"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1264"
-generated_at: "2026-03-30T02:54:16.483Z"
+generated_at: "2026-11-23T21:25:44.053Z"
+status: "active"
 ---
 
 # § 1264. Delivery to consignee
 
 Whoever, being an officer, agent, or employee of any railroad company, express company, or other common carrier, knowingly delivers to any person other than the person to whom it has been consigned, unless upon the written order in each instance of the bona fide consignee, or to any fictitious person, or to any person under a fictitious name, any spirituous, vinous, malted, or other fermented liquor or any compound containing any spirituous, vinous, malted, or other fermented liquor fit for use for beverage purposes, which has been shipped into any place within the United States, shall be fined under this title or imprisoned not more than one year, or both.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 761](https://www.govinfo.gov/link/statute/62/761); [Pub. L. 103–322, title XXXIII, § 330016(1)(H)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2147](https://www.govinfo.gov/link/statute/108/2147).)*

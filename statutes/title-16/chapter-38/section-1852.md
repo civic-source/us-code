@@ -3,9 +3,10 @@ title: "Section 1852 - Regional Fishery Management Councils"
 usc_title: 16
 usc_section: "1852"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1852"
-generated_at: "2026-03-30T02:54:22.987Z"
+generated_at: "2026-11-23T21:25:51.921Z"
+status: "active"
 ---
 
 # § 1852. Regional Fishery Management Councils
@@ -175,3 +176,7 @@ generated_at: "2026-03-30T02:54:22.987Z"
   - **(2)** The training course shall be available to both new and existing Council members, staff from the regional offices and regional science centers of the National Marine Fisheries Service, and may be made available to committee or advisory panel members as resources allow.
   - **(3)** Council members appointed after January 12, 2007 , shall complete a training course that meets the requirements of this section not later than 1 year after the date on which they were appointed. Any Council member who has completed a training course within 24 months before January 12, 2007 , shall be considered to have met the training requirement of this paragraph.
 - **(l)** The Councils may establish a Council coordination committee consisting of the chairs, vice chairs, and executive directors of each of the 8 Councils described in subsection (a)(1), or other Council members or staff, in order to discuss issues of relevance to all Councils, including issues related to the implementation of this chapter.
+
+## Source Credit
+
+*([Pub. L. 94–265, title III, § 302](https://www.govinfo.gov/link/plaw/94/public/265), Apr. 13, 1976, [90 Stat. 347](https://www.govinfo.gov/link/statute/90/347); [Pub. L. 95–354, § 5(1)](https://www.govinfo.gov/link/plaw/95/public/354), Aug. 28, 1978, [92 Stat. 521](https://www.govinfo.gov/link/statute/92/521); [Pub. L. 96–561, title II, § 234](https://www.govinfo.gov/link/plaw/96/public/561), Dec. 22, 1980, [94 Stat. 3299](https://www.govinfo.gov/link/statute/94/3299); [Pub. L. 97–453, § 5](https://www.govinfo.gov/link/plaw/97/public/453), Jan. 12, 1983, [96 Stat. 2484](https://www.govinfo.gov/link/statute/96/2484); [Pub. L. 99–659, title I, § 104(a)(1)](https://www.govinfo.gov/link/plaw/99/public/659), (b)–(e)(1), Nov. 14, 1986, [100 Stat. 3709](https://www.govinfo.gov/link/statute/100/3709), 3710; [Pub. L. 101–627, title I](https://www.govinfo.gov/link/plaw/101/public/627), §§ 108(a)–(j), 120(c), Nov. 28, 1990, [104 Stat. 4444–4446](https://www.govinfo.gov/link/statute/104/4444), 4459; [Pub. L. 102–582, title IV, § 403](https://www.govinfo.gov/link/plaw/102/public/582), Nov. 2, 1992, [106 Stat. 4909](https://www.govinfo.gov/link/statute/106/4909); [Pub. L. 104–297, title I, § 107](https://www.govinfo.gov/link/plaw/104/public/297), Oct. 11, 1996, [110 Stat. 3570](https://www.govinfo.gov/link/statute/110/3570); [Pub. L. 106–113, div. B, § 1000(a)(1) [title II, § 210]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1535](https://www.govinfo.gov/link/statute/113/1535), 1501A–33; [Pub. L. 109–479, title I](https://www.govinfo.gov/link/plaw/109/public/479), §§ 102, 103, Jan. 12, 2007, [120 Stat. 3579](https://www.govinfo.gov/link/statute/120/3579); [Pub. L. 115–405, § 102(a)](https://www.govinfo.gov/link/plaw/115/public/405), Dec. 31, 2018, [132 Stat. 5357](https://www.govinfo.gov/link/statute/132/5357); [Pub. L. 117–286, § 4(a)(116)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4318](https://www.govinfo.gov/link/statute/136/4318).)*

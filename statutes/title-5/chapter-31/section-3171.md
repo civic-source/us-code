@@ -3,9 +3,10 @@ title: "Section 3171 - Presidential Innovation Fellows Program"
 usc_title: 5
 usc_section: "3171"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3171"
-generated_at: "2026-03-30T02:52:56.000Z"
+generated_at: "2026-11-23T21:25:23.141Z"
+status: "active"
 ---
 
 # § 3171. Presidential Innovation Fellows Program
@@ -22,3 +23,47 @@ generated_at: "2026-03-30T02:52:56.000Z"
   - **(2)** Prior to the selection of fellows, the Director shall consult with the heads of executive agencies regarding potential projects and how best to meet those needs. Following such consultation, the Director shall select and appoint individuals to serve as fellows.
   - **(3)** Fellows selected for the Program shall serve under short-term, time-limited appointments. Such fellows shall be appointed for no less than 6 months and no longer than 2 years in the Program. The Director shall facilitate the process of placing fellows at requesting executive agencies.
 - **(g)** Each executive agency shall work with the Director and the Presidential Innovation Fellows Program advisory board established under section 3172 to attempt to maximize the Program’s benefits to the agency and the Government, including by identifying initiatives that have a meaningful effect on the people served and that benefit from involvement by one or more fellows. Such agencies shall ensure that each fellow works closely with responsible senior officials for the duration of the assignment.
+
+Policy
+
+Establishment
+
+Administration
+
+Appointment of Fellows
+
+Application Process.—
+
+In general
+
+Program standards
+
+Selection, Appointment, and Assignment of Fellows.—
+
+Procedures
+
+Consultation
+
+Time limitation
+
+Responsibilities of Agencies
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*(Added [Pub. L. 115–1, § 2(a)](https://www.govinfo.gov/link/plaw/115/public/1), Jan. 20, 2017, [131 Stat. 3](https://www.govinfo.gov/link/statute/131/3).)*

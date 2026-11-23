@@ -3,9 +3,10 @@ title: "Section 553 - Setoff"
 usc_title: 11
 usc_section: "553"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 553"
-generated_at: "2026-03-30T02:53:53.879Z"
+generated_at: "2026-11-23T21:25:34.930Z"
+status: "active"
 ---
 
 # § 553. Setoff
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:53.879Z"
     - **(B)** the first date during the 90 days immediately preceding the date of the filing of the petition on which there is an insufficiency.
   - **(2)** In this subsection, “insufficiency” means amount, if any, by which a claim against the debtor exceeds a mutual debt owing to the debtor by the holder of such claim.
 - **(c)** For the purposes of this section, the debtor is presumed to have been insolvent on and during the 90 days immediately preceding the date of the filing of the petition.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2602](https://www.govinfo.gov/link/statute/92/2602); [Pub. L. 98–353, title III](https://www.govinfo.gov/link/plaw/98/public/353), §§ 395, 467, July 10, 1984, [98 Stat. 365](https://www.govinfo.gov/link/statute/98/365), 380; [Pub. L. 101–311, title I, § 105](https://www.govinfo.gov/link/plaw/101/public/311), June 25, 1990, [104 Stat. 268](https://www.govinfo.gov/link/statute/104/268); [Pub. L. 103–394, title II](https://www.govinfo.gov/link/plaw/103/public/394), §§ 205(b), 222(b), title V, § 501(d)(19), Oct. 22, 1994, [108 Stat. 4123](https://www.govinfo.gov/link/statute/108/4123), 4129, 4146; [Pub. L. 109–8, title IX, § 907(n)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 181](https://www.govinfo.gov/link/statute/119/181).)*

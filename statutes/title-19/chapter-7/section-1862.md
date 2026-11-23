@@ -3,9 +3,10 @@ title: "Section 1862 - Safeguarding national security"
 usc_title: 19
 usc_section: "1862"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1862"
-generated_at: "2026-03-30T02:54:24.660Z"
+generated_at: "2026-11-23T21:25:42.762Z"
+status: "active"
 ---
 
 # § 1862. Safeguarding national security
@@ -55,3 +56,39 @@ generated_at: "2026-03-30T02:54:24.660Z"
     - **(C)**
       - **(i)** All disapproval resolutions introduced in the House of Representatives shall be referred to the Committee on Ways and Means and all disapproval resolutions introduced in the Senate shall be referred to the Committee on Finance.
       - **(ii)** No amendment to a disapproval resolution shall be in order in either the House of Representatives or the Senate, and no motion to suspend the application of this clause shall be in order in either House nor shall it be in order in either House for the Presiding Officer to entertain a request to suspend the application of this clause by unanimous consent.
+
+Cessation of Force and Effect of Presidential Action
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Ronald Reagan.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*([Pub. L. 87–794, title II, § 232](https://www.govinfo.gov/link/plaw/87/public/794), Oct. 11, 1962, [76 Stat. 877](https://www.govinfo.gov/link/statute/76/877); [Pub. L. 93–618, title I, § 127(d)](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 1993](https://www.govinfo.gov/link/statute/88/1993); [Pub. L. 96–223, title IV, § 402](https://www.govinfo.gov/link/plaw/96/public/223), Apr. 2, 1980, [94 Stat. 301](https://www.govinfo.gov/link/statute/94/301); [Pub. L. 100–418, title I, § 1501(a)](https://www.govinfo.gov/link/plaw/100/public/418), (b)(1), Aug. 23, 1988, [102 Stat. 1257](https://www.govinfo.gov/link/statute/102/1257), 1259.)*

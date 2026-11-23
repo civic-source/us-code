@@ -3,9 +3,10 @@ title: "Section 136 - Control of junkyards"
 usc_title: 23
 usc_section: "136"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 136"
-generated_at: "2026-03-30T02:55:12.556Z"
+generated_at: "2026-11-23T21:25:53.884Z"
+status: "active"
 ---
 
 # § 136. Control of junkyards
@@ -24,3 +25,9 @@ generated_at: "2026-03-30T02:55:12.556Z"
 - **(l)** Nothing in this section shall prohibit a State from establishing standards imposing stricter limitations with respect to outdoor junkyards on the Federal-aid highway systems than those established under this section.
 - **(m)** There is authorized to be appropriated to carry out this section, out of any money in the Treasury not otherwise appropriated, not to exceed $20,000,000 for the fiscal year ending June 30, 1966 , not to exceed $20,000,000 for the fiscal year ending June 30, 1967 , not to exceed $3,000,000 for the fiscal year ending June 30, 1970 , not to exceed $3,000,000 for the fiscal year ending June 30, 1971 , not to exceed $3,000,000 for the fiscal year ending June 30, 1972 , and not to exceed $5,000,000 for the fiscal year ending June 30, 1973 . The provisions of this chapter relating to the obligation, period of availability, and expenditure of Federal-aid primary highway funds shall apply to the funds authorized to be appropriated to carry out this section after June 30, 1967 .
 - **(n)** For purposes of this section, the terms “primary system” and “Federal-aid primary system” mean any highway that is on the National Highway System, which includes the Interstate Highway System.
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 89–285, title II, § 201](https://www.govinfo.gov/link/plaw/89/public/285), Oct. 22, 1965, [79 Stat. 1030](https://www.govinfo.gov/link/statute/79/1030); amended [Pub. L. 89–574, § 8(a)](https://www.govinfo.gov/link/plaw/89/public/574), Sept. 13, 1966, [80 Stat. 768](https://www.govinfo.gov/link/statute/80/768); [Pub. L. 90–495, § 6(e)](https://www.govinfo.gov/link/plaw/90/public/495), Aug. 23, 1968, [82 Stat. 818](https://www.govinfo.gov/link/statute/82/818); [Pub. L. 91–605, title I, § 122(b)](https://www.govinfo.gov/link/plaw/91/public/605), Dec. 31, 1970, [84 Stat. 1726](https://www.govinfo.gov/link/statute/84/1726); [Pub. L. 93–643, § 110](https://www.govinfo.gov/link/plaw/93/public/643), Jan. 4, 1975, [88 Stat. 2285](https://www.govinfo.gov/link/statute/88/2285); [Pub. L. 112–141, div. A, title I, § 1404(b)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 557](https://www.govinfo.gov/link/statute/126/557); [Pub. L. 114–94, div. A, title I, § 1104(e)(4)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1332](https://www.govinfo.gov/link/statute/129/1332).)*

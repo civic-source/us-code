@@ -3,9 +3,10 @@ title: "Section 1720J - Emergent suicide care"
 usc_title: 38
 usc_section: "1720J"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1720J"
-generated_at: "2026-03-30T02:55:53.485Z"
+generated_at: "2026-11-23T21:26:16.654Z"
+status: "active"
 ---
 
 # § 1720J. Emergent suicide care
@@ -61,3 +62,23 @@ generated_at: "2026-03-30T02:55:53.485Z"
     - **(B)** who presents at a medical facility in an acute suicidal crisis.
   - **(5)** The term “health-plan contract” has the meaning given such term in section 1725 of this title .
   - **(6)** The term “Veterans Crisis Line” means the hotline under section 1720F(h) of this title .
+
+Emergent Suicide Care
+
+Eligibility
+
+Period of Care
+
+Notification
+
+Outreach
+
+Prohibition on Charge
+
+Annual Report
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 116–214, title II, § 201(a)](https://www.govinfo.gov/link/plaw/116/public/214), Dec. 5, 2020, [134 Stat. 1030](https://www.govinfo.gov/link/statute/134/1030).)*

@@ -3,9 +3,10 @@ title: "Section 9607 - Grant program for statewide, longitudinal data systems"
 usc_title: 20
 usc_section: "9607"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9607"
-generated_at: "2026-03-30T02:54:48.230Z"
+generated_at: "2026-11-23T21:25:47.670Z"
+status: "active"
 ---
 
 # § 9607. Grant program for statewide, longitudinal data systems
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:48.230Z"
   - **(1)** identifying and analyzing State practices regarding the development and use of statewide, longitudinal data systems;
   - **(2)** evaluating the ability of such systems to manage individual student data consistent with the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 6301 et seq.), promote linkages across States, and protect student privacy consistent with section 9573 of this title ; and
   - **(3)** identifying best practices and areas for improvement.
+
+## Source Credit
+
+*([Pub. L. 107–279, title II, § 208](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1981](https://www.govinfo.gov/link/statute/116/1981).)*

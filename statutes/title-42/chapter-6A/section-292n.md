@@ -3,9 +3,10 @@ title: "Section 292n - Additional requirements for institutions and lenders"
 usc_title: 42
 usc_section: "292n"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 292n"
-generated_at: "2026-03-30T02:56:10.773Z"
+generated_at: "2026-11-23T21:26:30.619Z"
+status: "active"
 ---
 
 # § 292n. Additional requirements for institutions and lenders
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:10.773Z"
   - **(8)** the offering, by the lender to the borrower, of a variety of repayment options, including fixed-rate, graduated repayment with negative amortization permitted, and income dependent payments for a limited period followed by level monthly payments.
 - **(b)** The Secretary shall require an eligible institution to record, and make available to the lender and to the Secretary upon request, the name, address, postgraduate destination, and other reasonable identifying information for each student of such institution who has a loan insured under this subpart.
 - **(c)** Each participating eligible institution must have, at the beginning of each academic year, a workshop concerning the provisions of this subpart that all student borrowers shall be required to attend.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 715, as added [Pub. L. 102–408, title I, § 102](https://www.govinfo.gov/link/plaw/102/public/408), Oct. 13, 1992, [106 Stat. 2009](https://www.govinfo.gov/link/statute/106/2009).)*

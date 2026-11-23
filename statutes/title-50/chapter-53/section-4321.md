@@ -3,9 +3,10 @@ title: "Section 4321 - Payment of taxes and expenses by Alien Property Custodian
 usc_title: 50
 usc_section: "4321"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4321"
-generated_at: "2026-03-30T02:56:26.272Z"
+generated_at: "2026-11-23T21:26:39.097Z"
+status: "active"
 ---
 
 # § 4321. Payment of taxes and expenses by Alien Property Custodian
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:26.272Z"
 - **(d)** Any property sold or exchanged by the Alien Property Custodian (whether before or after March 10, 1928 ) shall be considered as having been compulsorily or involuntarily converted, within the meaning of the income, excess-profits, and war-profits tax laws and regulations; and the provisions of such laws and regulations relating to such a conversion shall (under regulations prescribed by the Commissioner of Internal Revenue with the approval of the Secretary of the Treasury) apply in the case of the proceeds of such sale or exchange. For the purpose of determining whether the proceeds of such conversion have been expended within such time as will entitle the taxpayer to the benefits of such laws and regulations relating to such a conversion, the date of the return of the proceeds to the person entitled thereto shall be considered as the date of the conversion.
 - **(e)** In case of any internal-revenue tax imposed in respect of property conveyed, transferred, assigned, delivered, or paid to the Alien Property Custodian, or seized by him, and imposed in respect of any period (in the taxable year 1917 or any succeeding taxable year) during which such property was held by him or by the Treasurer of the United States, no interest or civil penalty shall be assessed upon, collected from, or paid by or on behalf of, the taxpayer; nor shall any interest be credited or paid to the taxpayer in respect of any credit or refund allowed or made in respect of such tax.
 - **(f)** The benefits of subsections (c), (d), and (e) shall be extended to the taxpayer if claim therefor is filed before the expiration of the period of limitations properly applicable thereto, or before the expiration of six months after March 10, 1928 , whichever date is the later. The benefits of subsection (d) shall also be extended to the taxpayer if claim therefor is filed before the expiration of six months after the return of the proceeds.
+
+## Source Credit
+
+*(Oct. 6, 1917, ch. 106, § 24, as added Mar. 4, 1923, ch. 285, § 2, [42 Stat. 1516](https://www.govinfo.gov/link/statute/42/1516); amended Mar. 10, 1928, ch. 167, § 18, [45 Stat. 276](https://www.govinfo.gov/link/statute/45/276), 277; Mar. 28, 1934, ch. 102, title I, § 1, [48 Stat. 510](https://www.govinfo.gov/link/statute/48/510); June 18, 1934, ch. 567, [48 Stat. 978](https://www.govinfo.gov/link/statute/48/978).)*

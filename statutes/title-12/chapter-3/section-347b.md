@@ -3,9 +3,10 @@ title: "Section 347b - Advances to individual member banks on time or demand not
 usc_title: 12
 usc_section: "347b"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 347b"
-generated_at: "2026-03-30T02:53:53.379Z"
+generated_at: "2026-11-23T21:25:36.786Z"
+status: "active"
 ---
 
 # § 347b. Advances to individual member banks on time or demand notes; maturities; time notes secured by mortgage loans covering one-to-four family residences
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:53:53.379Z"
       - **(i)** is not critically undercapitalized;
       - **(ii)** is not expected to become critically undercapitalized; and
       - **(iii)** is not expected to be placed in conservatorship or receivership.
+
+## Source Credit
+
+*(Dec. 23, 1913, ch. 6, § 10B, formerly § 10(b), as added Feb. 27, 1932, ch. 58, § 2, [47 Stat. 56](https://www.govinfo.gov/link/statute/47/56); amended Feb. 3, 1933, ch. 34, [47 Stat. 794](https://www.govinfo.gov/link/statute/47/794); Mar. 9, 1933, ch. 1, title IV, § 402, [48 Stat. 7](https://www.govinfo.gov/link/statute/48/7); Aug. 23, 1935, ch. 614, title II, § 204, [49 Stat. 705](https://www.govinfo.gov/link/statute/49/705); [Pub. L. 93–449, § 5](https://www.govinfo.gov/link/plaw/93/public/449), Oct. 18, 1974, [88 Stat. 1368](https://www.govinfo.gov/link/statute/88/1368); [Pub. L. 96–221, title I, § 106](https://www.govinfo.gov/link/plaw/96/public/221), Mar. 31, 1980, [94 Stat. 140](https://www.govinfo.gov/link/statute/94/140); renumbered § 10B and amended [Pub. L. 102–242, title I, § 142(a)(2)](https://www.govinfo.gov/link/plaw/102/public/242), (b), Dec. 19, 1991, [105 Stat. 2279](https://www.govinfo.gov/link/statute/105/2279); [Pub. L. 104–208, div. A, title II, § 2704(d)(9)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–489](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 109–171, title II, § 2102(b)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 9](https://www.govinfo.gov/link/statute/120/9); [Pub. L. 109–173, § 9(c)](https://www.govinfo.gov/link/plaw/109/public/173), Feb. 15, 2006, [119 Stat. 3616](https://www.govinfo.gov/link/statute/119/3616).)*

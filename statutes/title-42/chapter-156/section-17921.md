@@ -3,9 +3,10 @@ title: "Section 17921 - Definitions"
 usc_title: 42
 usc_section: "17921"
 chapter: 156
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17921"
-generated_at: "2026-03-30T02:56:11.509Z"
+generated_at: "2026-11-23T21:26:33.798Z"
+status: "active"
 ---
 
 # § 17921. Definitions
@@ -37,3 +38,7 @@ In this subchapter, except as specified otherwise:
   - **(16)** The term “treatment” has the meaning given such term in section 164.501 of title 45, Code of Federal Regulations.
   - **(17)** The term “use” has the meaning given such term in section 160.103 of title 45, Code of Federal Regulations.
   - **(18)** The term “vendor of personal health records” means an entity, other than a covered entity (as defined in paragraph (3)), that offers or maintains a personal health record.
+
+## Source Credit
+
+*([Pub. L. 111–5, div. A, title XIII, § 13400](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 258](https://www.govinfo.gov/link/statute/123/258).)*

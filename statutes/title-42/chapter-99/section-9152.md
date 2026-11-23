@@ -3,9 +3,10 @@ title: "Section 9152 - Remedies and penalties"
 usc_title: 42
 usc_section: "9152"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9152"
-generated_at: "2026-03-30T02:56:11.351Z"
+generated_at: "2026-11-23T21:26:33.231Z"
+status: "active"
 ---
 
 # § 9152. Remedies and penalties
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.351Z"
   - **(1)** Any person subject to section 9151 of this title is guilty of an offense if he willfully commits any act prohibited by such section.
   - **(2)** Any offense, other than an offense for which the punishment is prescribed by section 9113 of this title , is punishable by a fine of not more than $75,000 for each day during which the violation continues. Any offense described in paragraphs (2), (3), (4), and (5) of section 9151 of this title is punishable by the fine or imprisonment for not more than 6 months, or both. If, in the commission of any offense, the person subject to section 9151 of this title uses a dangerous weapon, engages in conduct that causes bodily injury to any Federal officer or employee, or places any Federal officer or employee in fear of imminent bodily injury, the offense is punishable by a fine of not more than $100,000 or imprisonment for not more than 10 years, or both.
 - **(e)** Any ocean thermal energy conversion facility or plantship licensed pursuant to this chapter and any other vessel documented or numbered under the laws of the United States, except a public vessel engaged in noncommercial activities, used in any violation of this chapter or of any rule, regulation, order, license, or term or condition thereof, or other requirements of this chapter, shall be liable in rem for any civil penalty assessed or criminal fine imposed and may be proceeded against in any district court of the United States having jurisdiction thereof, whenever it shall appear that one or more of the owners, or bareboat charterers, was at the time of the violation a consenting party or privy to such violation.
+
+## Source Credit
+
+*([Pub. L. 96–320, title III, § 302](https://www.govinfo.gov/link/plaw/96/public/320), Aug. 3, 1980, [94 Stat. 995](https://www.govinfo.gov/link/statute/94/995); [Pub. L. 98–623, title VI, § 602(e)(5)](https://www.govinfo.gov/link/plaw/98/public/623), Nov. 8, 1984, [98 Stat. 3412](https://www.govinfo.gov/link/statute/98/3412).)*

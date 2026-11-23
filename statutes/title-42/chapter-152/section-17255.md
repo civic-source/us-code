@@ -3,12 +3,17 @@ title: "Section 17255 - Safety research"
 usc_title: 42
 usc_section: "17255"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17255"
-generated_at: "2026-03-30T02:56:11.503Z"
+generated_at: "2026-11-23T21:26:33.781Z"
+status: "active"
 ---
 
 # § 17255. Safety research
 
 - **(a)** The Administrator of the Environmental Protection Agency shall conduct a research program to address public health, safety, and environmental impacts that may be associated with capture, injection, and sequestration of greenhouse gases in geologic reservoirs.
 - **(b)** There are authorized to be appropriated for carrying out this section $5,000,000 for each fiscal year.
+
+## Source Credit
+
+*([Pub. L. 110–140, title VII, § 707](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1710](https://www.govinfo.gov/link/statute/121/1710).)*

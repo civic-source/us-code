@@ -3,9 +3,10 @@ title: "Section 9506 - Limited appointments to career reserved Senior Executive 
 usc_title: 5
 usc_section: "9506"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 9506"
-generated_at: "2026-03-30T02:52:56.073Z"
+generated_at: "2026-11-23T21:25:23.461Z"
+status: "active"
 ---
 
 # § 9506. Limited appointments to career reserved Senior Executive Service positions
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:52:56.073Z"
     - **(B)** such an appointee may serve—
       - **(i)** two such terms; or
       - **(ii)** two such terms in addition to any unexpired term applicable at the time of appointment.
+
+## Source Credit
+
+*(Added [Pub. L. 105–206, title I, § 1201(a)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 714](https://www.govinfo.gov/link/statute/112/714).)*

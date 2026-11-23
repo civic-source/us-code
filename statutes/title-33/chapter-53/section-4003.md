@@ -3,9 +3,10 @@ title: "Section 4003 - Comprehensive research plan and action strategy"
 usc_title: 33
 usc_section: "4003"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 4003"
-generated_at: "2026-03-30T02:55:41.146Z"
+generated_at: "2026-11-23T21:26:11.495Z"
+status: "active"
 ---
 
 # § 4003. Comprehensive research plan and action strategy
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:55:41.146Z"
     - **(G)** other stakeholders.
 - **(e)** The Under Secretary shall publish the Action Strategy in the Federal Register.
 - **(f)** The Under Secretary, in coordination and consultation with the individuals and entities under subsection (d), shall periodically review and revise the Action Strategy prepared under this section, as necessary.
+
+## Source Credit
+
+*([Pub. L. 105–383, title VI, § 603B](https://www.govinfo.gov/link/plaw/105/public/383), as added [Pub. L. 113–124, § 5](https://www.govinfo.gov/link/plaw/113/public/124), June 30, 2014, [128 Stat. 1382](https://www.govinfo.gov/link/statute/128/1382).)*

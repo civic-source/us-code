@@ -3,9 +3,10 @@ title: "Section 101501 - Airports in or near System units"
 usc_title: 54
 usc_section: "101501"
 chapter: 1015
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "54 U.S.C. § 101501"
-generated_at: "2026-03-30T02:56:28.414Z"
+generated_at: "2026-11-23T21:26:42.765Z"
+status: "active"
 ---
 
 # § 101501. Airports in or near System units
@@ -28,3 +29,80 @@ generated_at: "2026-03-30T02:56:28.414Z"
     - **(A)** contributed or otherwise made available to the Secretary for those purposes; or
     - **(B)** appropriated or otherwise specifically authorized for that purpose.
 - **(e)** All airports under the jurisdiction of the Secretary, unless otherwise specifically provided by law, shall be operated as public airports, available for public use on fair and reasonable terms and without unjust discrimination.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 101501(a) | 16 U.S.C. 7e . | Mar. 18, 1950, ch. 72 , §§ 1 through 5, 64 Stat. 27 ; Pub. L. 85–726, title XIV, § 1402(e) , Aug. 23, 1958 , 72 Stat. 807 ; Pub. L. 89–763 , Nov. 5, 1966 , 80 Stat. 1313 ; Pub. L. 91–258, title I, § 52(b)(1) , May 21, 1970 , 84 Stat. 235 . |
+| 101501(b) | 16 U.S.C. 7a . |  |
+| 101501(c) | 16 U.S.C. 7b . |  |
+| 101501(d) | 16 U.S.C. 7c . |  |
+| 101501(e) | 16 U.S.C. 7d . |  |
+
+
+Definitions
+
+Acquisition, Operation, and Maintenance of Airports.—
+
+Authorization
+
+Inclusion in national plan
+
+Operation and maintenance must accord with standards and regulations of secretary of transportation
+
+Authority of Secretary.—
+
+In general
+
+Consent required
+
+Authorization To Sponsor Airport Projects
+
+Jurisdiction Over Airports
+
+Historical and Revision Notes
+
+101501(a)
+
+16 U.S.C. 7e
+
+Mar. 18, 1950, ch. 72
+
+64 Stat. 27
+
+Pub. L. 85–726, title XIV, § 1402(e)
+
+Aug. 23, 1958
+
+72 Stat. 807
+
+Pub. L. 89–763
+
+Nov. 5, 1966
+
+80 Stat. 1313
+
+Pub. L. 91–258, title I, § 52(b)(1)
+
+May 21, 1970
+
+84 Stat. 235
+
+101501(b)
+
+16 U.S.C. 7a
+
+101501(c)
+
+16 U.S.C. 7b
+
+101501(d)
+
+16 U.S.C. 7c
+
+101501(e)
+
+16 U.S.C. 7d
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3129](https://www.govinfo.gov/link/statute/128/3129).)*

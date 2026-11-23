@@ -3,9 +3,10 @@ title: "Section 2799b - Authorities"
 usc_title: 22
 usc_section: "2799b"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2799b"
-generated_at: "2026-03-30T02:55:05.388Z"
+generated_at: "2026-11-23T21:25:58.571Z"
+status: "active"
 ---
 
 # § 2799b. Authorities
@@ -22,3 +23,9 @@ generated_at: "2026-03-30T02:55:05.388Z"
 - **(g)**
   - **(1)** Except as provided in paragraph (2), the authority of subsection (a) expires at the end of the 40-month period beginning on the date on which the CFE Treaty enters into force.
   - **(2)** Paragraph (1) does not apply with respect to a transfer of defense articles for which notification under section 2799c(a) of this title is submitted before the end of the period described in that paragraph.
+
+George Bush.
+
+## Source Credit
+
+*([Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 9, § 93, as added [Pub. L. 102–228, § 2](https://www.govinfo.gov/link/plaw/102/public/228), Dec. 12, 1991, [105 Stat. 1691](https://www.govinfo.gov/link/statute/105/1691).)*

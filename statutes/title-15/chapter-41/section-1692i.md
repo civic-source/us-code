@@ -3,9 +3,10 @@ title: "Section 1692i - Legal actions by debt collectors"
 usc_title: 15
 usc_section: "1692i"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1692i"
-generated_at: "2026-03-30T02:54:08.155Z"
+generated_at: "2026-11-23T21:25:39.885Z"
+status: "active"
 ---
 
 # § 1692i. Legal actions by debt collectors
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.155Z"
     - **(A)** in which such consumer signed the contract sued upon; or
     - **(B)** in which such consumer resides at the commencement of the action.
 - **(b)** Nothing in this subchapter shall be construed to authorize the bringing of legal actions by debt collectors.
+
+## Source Credit
+
+*([Pub. L. 90–321, title VIII, § 811](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 95–109](https://www.govinfo.gov/link/plaw/95/public/109), Sept. 20, 1977, [91 Stat. 880](https://www.govinfo.gov/link/statute/91/880).)*

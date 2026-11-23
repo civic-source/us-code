@@ -3,9 +3,10 @@ title: "Section 1234d - Withholding"
 usc_title: 20
 usc_section: "1234d"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1234d"
-generated_at: "2026-03-30T02:54:48.158Z"
+generated_at: "2026-11-23T21:25:47.308Z"
+status: "active"
 ---
 
 # § 1234d. Withholding
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:48.158Z"
 - **(f)** The decision of the Office in any hearing under this section shall become final agency action 60 days after the recipient receives written notice of the decision unless the Secretary either—
   - **(1)** modifies or sets aside the decision, in whole or in part, in which case the decision of the Secretary shall become final agency action when the recipient receives written notice of the Secretary’s action; or
   - **(2)** remands the decision of the Office.
+
+## Source Credit
+
+*([Pub. L. 90–247, title IV, § 455](https://www.govinfo.gov/link/plaw/90/public/247), as added [Pub. L. 95–561, title XII, § 1232](https://www.govinfo.gov/link/plaw/95/public/561), Nov. 1, 1978, [92 Stat. 2350](https://www.govinfo.gov/link/statute/92/2350); amended [Pub. L. 100–297, title III, § 3501(a)](https://www.govinfo.gov/link/plaw/100/public/297), Apr. 28, 1988, [102 Stat. 354](https://www.govinfo.gov/link/statute/102/354).)*

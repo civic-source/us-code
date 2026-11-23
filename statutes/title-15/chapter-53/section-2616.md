@@ -3,9 +3,10 @@ title: "Section 2616 - Specific enforcement and seizure"
 usc_title: 15
 usc_section: "2616"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2616"
-generated_at: "2026-03-30T02:54:08.177Z"
+generated_at: "2026-11-23T21:25:39.938Z"
+status: "active"
 ---
 
 # § 2616. Specific enforcement and seizure
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:08.177Z"
     - **(A)** in the case of a civil action described in subparagraph (A) of such paragraph, in the United States district court for the judicial district wherein any act, omission, or transaction constituting a violation of section 2614 of this title occurred or wherein the defendant is found or transacts business, or
     - **(B)** in the case of any other civil action described in such paragraph, in the United States district court for the judicial district wherein the defendant is found or transacts business.
 - **(b)** Any chemical substance, mixture, or product subject to subchapter IV which was manufactured, processed, or distributed in commerce in violation of this chapter or any rule promulgated or order issued under this chapter or any article containing such a substance or mixture shall be liable to be proceeded against, by process of libel, for the seizure and condemnation of such substance, mixture, product, or article, in any district court of the United States within the jurisdiction of which such substance, mixture, product, or article is found. Such proceedings shall conform as nearly as possible to proceedings in rem in admiralty.
+
+## Source Credit
+
+*([Pub. L. 94–469, title I, § 17](https://www.govinfo.gov/link/plaw/94/public/469), Oct. 11, 1976, [90 Stat. 2037](https://www.govinfo.gov/link/statute/90/2037); renumbered title I, [Pub. L. 99–519, § 3(c)(1)](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2989](https://www.govinfo.gov/link/statute/100/2989); amended [Pub. L. 102–550, title X, § 1021(b)(6)](https://www.govinfo.gov/link/plaw/102/public/550), (7), Oct. 28, 1992, [106 Stat. 3923](https://www.govinfo.gov/link/statute/106/3923).)*

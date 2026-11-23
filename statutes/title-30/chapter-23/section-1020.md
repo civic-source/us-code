@@ -3,12 +3,17 @@ title: "Section 1020 - Publication in Federal Register; reservation of mineral r
 usc_title: 30
 usc_section: "1020"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1020"
-generated_at: "2026-03-30T02:55:29.395Z"
+generated_at: "2026-11-23T21:26:00.414Z"
+status: "active"
 ---
 
 # § 1020. Publication in Federal Register; reservation of mineral rights
 
 Geothermal resources in lands the surface of which has passed from Federal ownership but in which the minerals have been reserved to the United States shall not be developed or produced except under geothermal leases made pursuant to this chapter. If the Secretary of the Interior finds that such development is imminent, or that production from a well heretofore drilled on such lands is imminent, he shall so report to the Attorney General, and the Attorney General is authorized and directed to institute an appropriate proceeding in the United States district court of the district in which such lands are located, to quiet the title of the United States in such resources, and if the court determines that the reservation of minerals to the United States in the lands involved included the geothermal resources, to enjoin their production otherwise than under the terms of this chapter: Provided , That upon an authoritative judicial determination that Federal mineral reservation does not include geothermal resources the duties of the Secretary of the Interior to report and of the Attorney General to institute proceedings, as hereinbefore set forth, shall cease.
 
+
+## Source Credit
+
+*([Pub. L. 91–581, § 21](https://www.govinfo.gov/link/plaw/91/public/581), Dec. 24, 1970, [84 Stat. 1572](https://www.govinfo.gov/link/statute/84/1572); [Pub. L. 109–58, title II, § 236(1)](https://www.govinfo.gov/link/plaw/109/public/58), (3), (19), Aug. 8, 2005, [119 Stat. 671](https://www.govinfo.gov/link/statute/119/671), 673.)*

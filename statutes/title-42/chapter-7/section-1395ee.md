@@ -3,9 +3,10 @@ title: "Section 1395ee - Practicing Physicians Advisory Council; Council for Tec
 usc_title: 42
 usc_section: "1395ee"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1395ee"
-generated_at: "2026-03-30T02:56:11.002Z"
+generated_at: "2026-11-23T21:26:31.646Z"
+status: "active"
 ---
 
 # § 1395ee. Practicing Physicians Advisory Council; Council for Technology and Innovation
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:56:11.002Z"
       - **(iii)** shall prepare comments and recommendations regarding whether such models meet the criteria described in subparagraph (A) and submit such comments and recommendations to the Secretary.
     - **(D)** The Secretary shall review the comments and recommendations submitted by the Committee under subparagraph (C) and post a detailed response to such comments and recommendations on the Internet website of the Centers for Medicare & Medicaid Services.
   - **(3)** Nothing in this subsection shall be construed to impact the development or testing of models under this subchapter or subchapters XI, XIX, or XXI.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1868, as added [Pub. L. 101–508, title IV, § 4112](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–64](https://www.govinfo.gov/link/statute/104/1388); amended [Pub. L. 108–173, title IX, § 942(a)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2420](https://www.govinfo.gov/link/statute/117/2420); [Pub. L. 111–148, title III, § 3134(b)(2)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 435](https://www.govinfo.gov/link/statute/124/435); [Pub. L. 114–10, title I, § 101(e)(1)](https://www.govinfo.gov/link/plaw/114/public/10), Apr. 16, 2015, [129 Stat. 115](https://www.govinfo.gov/link/statute/129/115); [Pub. L. 115–123, div. E, title X, § 51003(b)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 295](https://www.govinfo.gov/link/statute/132/295); [Pub. L. 117–286, § 4(a)(255)](https://www.govinfo.gov/link/plaw/117/public/286), (c)(42), Dec. 27, 2022, [136 Stat. 4334](https://www.govinfo.gov/link/statute/136/4334), 4359.)*

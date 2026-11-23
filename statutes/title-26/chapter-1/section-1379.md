@@ -3,9 +3,10 @@ title: "Section 1379 - Transitional rules on enactment"
 usc_title: 26
 usc_section: "1379"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1379"
-generated_at: "2026-03-30T02:55:27.771Z"
+generated_at: "2026-11-23T21:26:06.500Z"
+status: "active"
 ---
 
 # § 1379. Transitional rules on enactment
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:27.771Z"
 - **(e)** For purposes of this subsection—
   - **(1)** The term “last preenactment year” means the last taxable year of a corporation which begins before January 1, 1983 .
   - **(2)** The term “1st postenactment year” means the 1st taxable year of a corporation which begins after December 31, 1982 .
+
+## Source Credit
+
+*(Added [Pub. L. 97–354, § 2](https://www.govinfo.gov/link/plaw/97/public/354), Oct. 19, 1982, [96 Stat. 1686](https://www.govinfo.gov/link/statute/96/1686); amended [Pub. L. 98–369, div. A, title VII, § 721(n)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 969](https://www.govinfo.gov/link/statute/98/969).)*

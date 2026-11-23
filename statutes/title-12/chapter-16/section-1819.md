@@ -3,9 +3,10 @@ title: "Section 1819 - Corporate powers"
 usc_title: 12
 usc_section: "1819"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1819"
-generated_at: "2026-03-30T02:53:53.448Z"
+generated_at: "2026-11-23T21:25:36.981Z"
+status: "active"
 ---
 
 # § 1819. Corporate powers
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:53.448Z"
     - **(E)** Subparagraph (D) shall not be construed as limiting the right of the Corporation to invoke the jurisdiction of any United States district court in any action described in such subparagraph if the institution of which the Corporation has been appointed receiver could have invoked the jurisdiction of such court.
   - **(3)** The Board of Directors shall designate agents upon whom service of process may be made in any State, territory, or jurisdiction in which any insured depository institution is located.
   - **(4)** The Corporation shall not be required to post any bond to pursue any appeal and shall not be subject to payments of any filing fees in United States district courts or courts of appeal.
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [9], [64 Stat. 881](https://www.govinfo.gov/link/statute/64/881); [Pub. L. 89–695, title II, § 205](https://www.govinfo.gov/link/plaw/89/public/695), Oct. 16, 1966, [80 Stat. 1055](https://www.govinfo.gov/link/statute/80/1055); [Pub. L. 95–630, title III, § 309](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3677](https://www.govinfo.gov/link/statute/92/3677); [Pub. L. 101–73, title II, § 209](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 216](https://www.govinfo.gov/link/statute/103/216); [Pub. L. 102–242, title I, § 161(d)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2286](https://www.govinfo.gov/link/statute/105/2286); [Pub. L. 103–325, title III, § 331(e)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2232](https://www.govinfo.gov/link/statute/108/2232).)*

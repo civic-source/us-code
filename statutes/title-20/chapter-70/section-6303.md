@@ -3,9 +3,10 @@ title: "Section 6303 - School improvement"
 usc_title: 20
 usc_section: "6303"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6303"
-generated_at: "2026-03-30T02:54:48.191Z"
+generated_at: "2026-11-23T21:25:47.484Z"
+status: "active"
 ---
 
 # § 6303. School improvement
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:54:48.191Z"
   - **(2)** section 6338(c) of this title .
 - **(h)** Notwithstanding any other provision of this section, the amount of funds reserved by the State educational agency under subsection (a) for fiscal year 2018 and each subsequent fiscal year shall not decrease the amount of funds each local educational agency receives under subpart 2 of part A below the amount received by such local educational agency under such subpart for the preceding fiscal year.
 - **(i)** The State shall include in the report described in section 6311(h)(1) of this title a list of all the local educational agencies and schools that received funds under this section, including the amount of funds each school received and the types of strategies implemented in each school with such funds.
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1003](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1442](https://www.govinfo.gov/link/statute/115/1442); amended [Pub. L. 114–95, title I, § 1003](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1815](https://www.govinfo.gov/link/statute/129/1815).)*

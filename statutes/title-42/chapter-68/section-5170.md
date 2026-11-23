@@ -3,9 +3,10 @@ title: "Section 5170 - Procedure for declaration"
 usc_title: 42
 usc_section: "5170"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5170"
-generated_at: "2026-03-30T02:56:11.224Z"
+generated_at: "2026-11-23T21:26:32.754Z"
+status: "active"
 ---
 
 # § 5170. Procedure for declaration
@@ -20,3 +21,39 @@ generated_at: "2026-03-30T02:56:11.224Z"
     - **(A)** the President has the authority to waive or adjust the payment under another provision of this subchapter; and
     - **(B)** the President determines that the waiver or adjustment is necessary and appropriate.
   - **(2)** The President shall establish criteria for making determinations under paragraph (1)(B).
+
+Findings
+
+Report to Congress
+
+In general
+
+Contents
+
+Preliminary Damage Assessment.—
+
+In general
+
+Membership.—
+
+In general
+
+Inclusion on panel
+
+Considerations
+
+Interim report
+
+Rulemaking and final report
+
+In General
+
+Effective Date
+
+In General
+
+Rulemaking
+
+## Source Credit
+
+*([Pub. L. 93–288, title IV, § 401](https://www.govinfo.gov/link/plaw/93/public/288), as added [Pub. L. 100–707, title I, § 106(a)(3)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4696](https://www.govinfo.gov/link/statute/102/4696); amended [Pub. L. 113–2, div. B, § 1110(a)](https://www.govinfo.gov/link/plaw/113/public/2), Jan. 29, 2013, [127 Stat. 47](https://www.govinfo.gov/link/statute/127/47).)*

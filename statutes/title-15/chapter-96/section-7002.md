@@ -3,9 +3,10 @@ title: "Section 7002 - Exemption to preemption"
 usc_title: 15
 usc_section: "7002"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7002"
-generated_at: "2026-03-30T02:54:08.217Z"
+generated_at: "2026-11-23T21:25:40.037Z"
+status: "active"
 ---
 
 # § 7002. Exemption to preemption
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.217Z"
     - **(B)** if enacted or adopted after June 30, 2000 , makes specific reference to this chapter.
 - **(b)** Subsection (a)(2)(A)(ii) shall not apply to the statutes, regulations, or other rules of law governing procurement by any State, or any agency or instrumentality thereof.
 - **(c)** Subsection (a) does not permit a State to circumvent this subchapter or subchapter II through the imposition of nonelectronic delivery methods under section 8(b)(2) of the Uniform Electronic Transactions Act.
+
+## Source Credit
+
+*([Pub. L. 106–229, title I, § 102](https://www.govinfo.gov/link/plaw/106/public/229), June 30, 2000, [114 Stat. 467](https://www.govinfo.gov/link/statute/114/467).)*

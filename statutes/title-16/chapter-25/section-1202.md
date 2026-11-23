@@ -3,9 +3,10 @@ title: "Section 1202 - Authority of Secretary; studies, research, and investigat
 usc_title: 16
 usc_section: "1202"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1202"
-generated_at: "2026-03-30T02:54:22.943Z"
+generated_at: "2026-11-23T21:25:51.837Z"
+status: "active"
 ---
 
 # § 1202. Authority of Secretary; studies, research, and investigations; control measures; execution of program; other actions; costs
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:22.943Z"
   - **(3)** to carry out, based on studies made pursuant to this chapter, a program of controlling or eliminating such pests and such seaweed, and
   - **(4)** to take such other actions as the Secretary deems desirable: Provided , That the costs of such actions shall be borne equally by the Federal Government and by the States and the Commonwealth of Puerto Rico, acting jointly or severally.
 
+
+## Source Credit
+
+*([Pub. L. 89–720, § 2](https://www.govinfo.gov/link/plaw/89/public/720), Nov. 2, 1966, [80 Stat. 1149](https://www.govinfo.gov/link/statute/80/1149).)*

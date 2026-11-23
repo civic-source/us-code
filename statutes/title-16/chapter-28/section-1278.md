@@ -3,9 +3,10 @@ title: "Section 1278 - Restrictions on water resources projects"
 usc_title: 16
 usc_section: "1278"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1278"
-generated_at: "2026-03-30T02:54:22.955Z"
+generated_at: "2026-11-23T21:25:51.856Z"
+status: "active"
 ---
 
 # § 1278. Restrictions on water resources projects
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:22.955Z"
       - **(iii)** during such additional period thereafter as, in the case of any river the report for which is submitted to the President and the Congress, is necessary for congressional consideration thereof or, in the case of any river recommended to the Secretary of the Interior for inclusion in the national wild and scenic rivers system under section 1273(a)(ii) of this title , is necessary for the Secretary’s consideration thereof, which additional period, however, shall not exceed three years in the first case and one year in the second.
 - **(c)** The Federal Energy Regulatory Commission and all other Federal agencies shall, promptly upon enactment of this chapter, inform the Secretary of the Interior and, where national forest lands are involved, the Secretary of Agriculture, of any proceedings, studies, or other activities within their jurisdiction which are now in progress and which affect or may affect any of the rivers specified in section 1276(a) of this title . They shall likewise inform him of any such proceedings, studies, or other activities which are hereafter commenced or resumed before they are commenced or resumed.
 - **(d)** Nothing in this section with respect to the making of a loan or grant shall apply to grants made under chapter 2003 of title 54.
+
+## Source Credit
+
+*([Pub. L. 90–542, § 7](https://www.govinfo.gov/link/plaw/90/public/542), Oct. 2, 1968, [82 Stat. 913](https://www.govinfo.gov/link/statute/82/913); [Pub. L. 93–279, § 1(b)(3)](https://www.govinfo.gov/link/plaw/93/public/279), (4), May 10, 1974, [88 Stat. 123](https://www.govinfo.gov/link/statute/88/123); [Pub. L. 93–621, § 1(c)](https://www.govinfo.gov/link/plaw/93/public/621), Jan. 3, 1975, [88 Stat. 2096](https://www.govinfo.gov/link/statute/88/2096); [Pub. L. 94–407, § 1(2)](https://www.govinfo.gov/link/plaw/94/public/407), Sept. 11, 1976, [90 Stat. 1238](https://www.govinfo.gov/link/statute/90/1238); [Pub. L. 95–91, title IV, § 402(a)(1)(A)](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 583](https://www.govinfo.gov/link/statute/91/583); [Pub. L. 99–590, title V, § 505](https://www.govinfo.gov/link/plaw/99/public/590), Oct. 30, 1986, [100 Stat. 3336](https://www.govinfo.gov/link/statute/100/3336); [Pub. L. 103–437, § 6(a)(7)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4583](https://www.govinfo.gov/link/statute/108/4583); [Pub. L. 113–287, § 5(d)(30)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3267](https://www.govinfo.gov/link/statute/128/3267).)*

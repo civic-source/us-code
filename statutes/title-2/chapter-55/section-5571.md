@@ -3,9 +3,10 @@ title: "Section 5571 - Office of General Counsel of House; administrative provis
 usc_title: 2
 usc_section: "5571"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 5571"
-generated_at: "2026-03-30T02:53:04.838Z"
+generated_at: "2026-11-23T21:25:21.337Z"
+status: "active"
 ---
 
 # § 5571. Office of General Counsel of House; administrative provisions
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:04.838Z"
   - **(2)** the head of any successor office to the Office of General Counsel which is established after September 29, 1999 ; and
   - **(3)** any other person authorized and directed in accordance with the Rules of the House of Representatives to provide legal assistance and representation to the House in connection with the matters described in this section.
 - **(d)** The provisions of this section shall become effective beginning with September 29, 1999 .
+
+## Source Credit
+
+*([Pub. L. 106–57, title I, § 101](https://www.govinfo.gov/link/plaw/106/public/57), Sept. 29, 1999, [113 Stat. 414](https://www.govinfo.gov/link/statute/113/414); [Pub. L. 107–273, div. A, title II, § 202(b)(5)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1775](https://www.govinfo.gov/link/statute/116/1775); [Pub. L. 108–7, div. H, title I, § 110(a)](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 355](https://www.govinfo.gov/link/statute/117/355).)*

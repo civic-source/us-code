@@ -3,9 +3,10 @@ title: "Section 2669 - Pilot projects for production and marketing of industrial
 usc_title: 7
 usc_section: "2669"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2669"
-generated_at: "2026-03-30T02:53:42.390Z"
+generated_at: "2026-11-23T21:25:28.305Z"
+status: "active"
 ---
 
 # § 2669. Pilot projects for production and marketing of industrial hydrocarbons and alcohols from agricultural commodities and forest products
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.390Z"
 - **(d)** In order to assure that the recipients of loans made under this section have a dependable supply of agricultural commodities at a stable price for use in the pilot projects provided for in this section, the Secretary is authorized to enter into long-term contracts, not exceeding five years, with the recipients of such loans. Such contracts shall guarantee the recipients of such loans a specified quantity of agricultural commodities annually at mutually agreed upon prices, but the agricultural commodities shall not be sold under any such contracts at less than the price support level prescribed for the commodity concerned unless the commodities are out of condition, unstorable, or sample-grade or lower, as prescribed in Department of Agriculture standards.
 - **(e)** The Secretary shall supply from Commodity Credit Corporation stocks or, to such extent or in such amounts as are provided in appropriation Acts, purchase such quantities of agricultural commodities as may be necessary to comply with the terms of agreements entered into under this section.
 - **(f)** The provisions of this section shall be carried out through the Commodity Credit Corporation.
+
+## Source Credit
+
+*([Pub. L. 92–419, title V, § 508](https://www.govinfo.gov/link/plaw/92/public/419), formerly § 509, as added [Pub. L. 95–113, title XIV, § 1420](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 998](https://www.govinfo.gov/link/statute/91/998); renumbered [Pub. L. 97–98, title XIV, § 1444(b)](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1326](https://www.govinfo.gov/link/statute/95/1326).)*

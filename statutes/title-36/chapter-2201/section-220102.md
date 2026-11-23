@@ -3,9 +3,10 @@ title: "Section 220102 - Purposes"
 usc_title: 36
 usc_section: "220102"
 chapter: 2201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 220102"
-generated_at: "2026-03-30T02:55:44.708Z"
+generated_at: "2026-11-23T21:26:13.737Z"
+status: "active"
 ---
 
 # § 220102. Purposes
@@ -18,3 +19,22 @@ The purposes of the corporation are—
   - **(4)** to accept the cooperation of, and provide an organization and means through which, the National Board of Young Men’s Christian Associations, the National Board of Young Women’s Christian Associations, the National Catholic Community Service, the Salvation Army, the National Jewish Welfare Board, the Travelers Aid-International Social Service of America, and other civilian agencies experienced in specialized types of related work, which may be needed adequately to meet the particular needs of the members of the Armed Forces, may carry on their historic work of serving the religious, spiritual, social, welfare, educational, and entertainment needs of men and women in the Armed Forces and be afforded an appropriate means of participation and financial assistance;
   - **(5)** to coordinate their programs; and
   - **(6)** other consonant purposes.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 220102 | 36:1302. | Dec. 29, 1979 , Pub. L. 96–165, § 2 , 93 Stat. 1268 . |
+
+
+Historical and Revision Notes
+
+220102
+
+Dec. 29, 1979
+
+Pub. L. 96–165, § 2
+
+93 Stat. 1268
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1459](https://www.govinfo.gov/link/statute/112/1459).)*

@@ -3,9 +3,10 @@ title: "Section 3035 - Allocation of administration and of program costs"
 usc_title: 38
 usc_section: "3035"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3035"
-generated_at: "2026-03-30T02:55:53.500Z"
+generated_at: "2026-11-23T21:26:16.722Z"
+status: "active"
 ---
 
 # § 3035. Allocation of administration and of program costs
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:53.500Z"
     - **(A)** funds appropriated, or otherwise available, to the Department of Veterans Affairs for the payment of readjustment benefits;
     - **(B)** the Department of Defense Education Benefits Fund established under section 2006 of title 10 ; and
     - **(C)** funds appropriated to the Department of Homeland Security,
+
+## Source Credit
+
+*(Added [Pub. L. 98–525, title VII, § 702(a)(1)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2562](https://www.govinfo.gov/link/statute/98/2562), § 1435; amended [Pub. L. 99–576, title III, § 321(8)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3278](https://www.govinfo.gov/link/statute/100/3278); [Pub. L. 100–689, title I, § 107(a)(2)](https://www.govinfo.gov/link/plaw/100/public/689), Nov. 18, 1988, [102 Stat. 4168](https://www.govinfo.gov/link/statute/102/4168); [Pub. L. 101–237, title IV, § 423(b)(1)](https://www.govinfo.gov/link/plaw/101/public/237), Dec. 18, 1989, [103 Stat. 2092](https://www.govinfo.gov/link/statute/103/2092); [Pub. L. 101–510, div. A, title V, § 561(b)(3)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1573](https://www.govinfo.gov/link/statute/104/1573); renumbered § 3035 and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 102–484, div. D, title XLIV, § 4404(b)(3)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2706](https://www.govinfo.gov/link/statute/106/2706); [Pub. L. 103–446, title XII, § 1201(d)(7)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4684](https://www.govinfo.gov/link/statute/108/4684); [Pub. L. 104–275, title I, § 106(c)(2)](https://www.govinfo.gov/link/plaw/104/public/275), Oct. 9, 1996, [110 Stat. 3329](https://www.govinfo.gov/link/statute/110/3329); [Pub. L. 107–296, title XVII, § 1704(d)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2315](https://www.govinfo.gov/link/statute/116/2315); [Pub. L. 107–314, div. A, title VI, § 643(b)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2577](https://www.govinfo.gov/link/statute/116/2577); [Pub. L. 107–330, title III, § 308(c)(1)](https://www.govinfo.gov/link/plaw/107/public/330), Dec. 6, 2002, [116 Stat. 2827](https://www.govinfo.gov/link/statute/116/2827).)*

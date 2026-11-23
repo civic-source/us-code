@@ -3,9 +3,10 @@ title: "Section 1417 - Option to request remote work assignment or paid leave of
 usc_title: 2
 usc_section: "1417"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1417"
-generated_at: "2026-03-30T02:53:04.814Z"
+generated_at: "2026-11-23T21:25:21.231Z"
+status: "active"
 ---
 
 # § 1417. Option to request remote work assignment or paid leave of absence during pendency of procedures
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:04.814Z"
   - **(3)** An employing office may not grant a covered employee’s request under this subsection in a manner which would constitute a violation of section 1317 of this title .
   - **(4)** In granting leave for a paid leave of absence under this section, an employing office shall not require the covered employee to substitute, for that leave, any of the accrued paid vacation or personal leave of the covered employee.
 - **(b)** Subsection (a) does not apply to the extent that it is inconsistent with the terms and conditions of any collective bargaining agreement which is in effect with respect to an employing office.
+
+## Source Credit
+
+*([Pub. L. 104–1, title IV, § 417](https://www.govinfo.gov/link/plaw/104/public/1), as added [Pub. L. 115–397, title I, § 113(a)](https://www.govinfo.gov/link/plaw/115/public/397), Dec. 21, 2018, [132 Stat. 5313](https://www.govinfo.gov/link/statute/132/5313).)*

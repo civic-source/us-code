@@ -3,9 +3,10 @@ title: "Section 7437 - Greenhouse gas air pollution plans and implementation gra
 usc_title: 42
 usc_section: "7437"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7437"
-generated_at: "2026-03-30T02:56:11.303Z"
+generated_at: "2026-11-23T21:26:33.099Z"
+status: "active"
 ---
 
 # § 7437. Greenhouse gas air pollution plans and implementation grants
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.303Z"
     - **(D)** an Indian tribe; and
     - **(E)** a group of one or more entities listed in subparagraphs (A) through (D).
   - **(2)** The term “greenhouse gas” means the air pollutants carbon dioxide, hydrofluorocarbons, methane, nitrous oxide, perfluorocarbons, and sulfur hexafluoride.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 137, as added [Pub. L. 117–169, title VI, § 60114](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2076](https://www.govinfo.gov/link/statute/136/2076).)*

@@ -3,9 +3,10 @@ title: "Section 20152 - Notification of grade crossing problems"
 usc_title: 49
 usc_section: "20152"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 20152"
-generated_at: "2026-03-30T02:56:19.336Z"
+generated_at: "2026-11-23T21:26:40.708Z"
+status: "active"
 ---
 
 # § 20152. Notification of grade crossing problems
@@ -24,3 +25,11 @@ generated_at: "2026-03-30T02:56:19.336Z"
     - **(B)** an explanation of the purpose of that toll-free telephone number; and
     - **(C)** the grade crossing number assigned for that crossing by the National Highway-Rail Crossing Inventory established by the Department of Transportation.
 - **(b)** The Secretary may waive the requirement that the telephone service be toll-free for Class II and Class III rail carriers if the Secretary determines that toll-free service would be cost prohibitive or unnecessary.
+
+In General
+
+Waiver
+
+## Source Credit
+
+*(Added [Pub. L. 103–440, title III, § 301(a)](https://www.govinfo.gov/link/plaw/103/public/440), Nov. 2, 1994, [108 Stat. 4626](https://www.govinfo.gov/link/statute/108/4626); amended [Pub. L. 104–287, § 5(50)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3393](https://www.govinfo.gov/link/statute/110/3393); [Pub. L. 110–432, div. A, title II, § 205(a)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4872](https://www.govinfo.gov/link/statute/122/4872).)*

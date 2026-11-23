@@ -3,9 +3,10 @@ title: "Section 1370 - Regular commissioned officers"
 usc_title: 10
 usc_section: "1370"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1370"
-generated_at: "2026-03-30T02:53:38.116Z"
+generated_at: "2026-11-23T21:25:32.457Z"
+status: "active"
 ---
 
 # § 1370. Regular commissioned officers
@@ -78,3 +79,91 @@ generated_at: "2026-03-30T02:53:38.116Z"
     - **(B)** in the case of an officer whose retired grade is to be changed to the grade of lieutenant general or general in the Army, Air Force, Marine Corps, or Space Force or vice admiral or admiral in the Navy, by the President, by and with the advice and consent of the Senate.
   - **(7)** If the final retired grade of an officer is changed through the reopening of the officer’s retired grade under this subsection, the retired pay of the officer under chapter 71 of this title shall be recalculated. Any modification of the retired pay of the officer as a result of the change shall go into effect on the effective date of the change of the officer’s retired grade, and the officer shall not be entitled or subject to any changed amount of retired pay for any period before such effective date. An officer whose retired grade is changed as provided in paragraph (6)(B) shall not be entitled or subject to a change in retired pay for any period before the date on which the Senate provides advice and consent for the retirement of the officer in such grade.
 - **(g)** In this section, the term “highest permanent grade” means a grade at or below the grade of major general in the Army, Air Force, Marine Corps, or Space Force, or rear admiral in the Navy.
+
+Retirement in Highest Grade in Which Served Satisfactorily.—
+
+In general
+
+Determination of satisfactory service
+
+Effect of misconduct in lower grade in determination
+
+Nature of retirement of certain reserve officers and officers in temporary grades
+
+Nature of retirement of certain removed officers
+
+Retirement of Officers Retiring Voluntarily.—
+
+Service-in-grade requirement
+
+Limitation on delegation
+
+Waiver of requirement
+
+Limitation on reduction or waiver of requirement for officers under investigation or pending misconduct
+
+Grade and fiscal year limitations on reduction or waiver of requirements
+
+Notice to congress on reduction or waiver of requirements for general, flag, and equivalent officer grades
+
+Retirement in next lowest grade for officers not meeting requirement
+
+Officers in
+
+and
+
+Grades.—
+
+In general
+
+Prohibition on delegation
+
+Requirements in connection with certification
+
+Construction with other notice
+
+Conditional Retirement Grade and Retirement for Officers Pending Investigation or Adverse Action.—
+
+In general
+
+Officers in o–9 and o–10 grades
+
+Reduction or waiver of service-in-grade requirement prohibited for general, flag, and equivalent officer grades
+
+Prohibition on delegation
+
+Final Retirement Grade Following Resolution of Pending Investigation or Adverse Action.—
+
+No change from conditional retirement grade
+
+Change from conditional retirement grade
+
+Recalculation of retired pay.—
+
+In general
+
+Payment of higher amount for period of conditional retirement grade
+
+Recoupment of overage during period of conditional retirement grade
+
+Finality of Retired Grade Determinations.—
+
+In general
+
+Reopening
+
+Applicable secretary
+
+Notice and limitation
+
+Additional notice on reopening for officers retired in o–9 and o–10 grades
+
+Manner of making of change
+
+Recalculation of retired pay
+
+Highest Permanent Grade Defined
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. A, title V, § 508(a)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3574](https://www.govinfo.gov/link/statute/134/3574); amended [Pub. L. 118–31, div. A, title XVII, § 1741(a)(5)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 679](https://www.govinfo.gov/link/statute/137/679); [Pub. L. 118–159, div. A, title V, § 521(f)(1)](https://www.govinfo.gov/link/plaw/118/public/159), title XVII, § 1701(a)(20), Dec. 23, 2024, [138 Stat. 1881](https://www.govinfo.gov/link/statute/138/1881), 2204.)*

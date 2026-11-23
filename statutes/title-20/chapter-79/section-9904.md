@@ -3,9 +3,10 @@ title: "Section 9904 - Grant oversight and administration"
 usc_title: 20
 usc_section: "9904"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9904"
-generated_at: "2026-03-30T02:54:48.233Z"
+generated_at: "2026-11-23T21:25:47.683Z"
+status: "active"
 ---
 
 # § 9904. Grant oversight and administration
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:48.233Z"
     - **(F)** submit an annual report to the Director demonstrating compliance with the requirements of subparagraphs (A) through (E).
   - **(2)** At the request of the Director, the organization under contract under subsection (a) may assist the Director in evaluating grant applications.
 - **(c)** The Director shall submit a copy of the annual report required by subsection (b)(1)(F) to the Senate Committee on Commerce, Science, and Transportation, the Senate Committee on Health, Education, Labor, and Pensions, the House of Representatives Committee on Science and Technology, and the House of Representatives Committee on Education and Labor.
+
+## Source Credit
+
+*([Pub. L. 111–358, title V, § 554](https://www.govinfo.gov/link/plaw/111/public/358), Jan. 4, 2011, [124 Stat. 4024](https://www.govinfo.gov/link/statute/124/4024).)*

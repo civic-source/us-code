@@ -3,9 +3,10 @@ title: "Section 100503 - Five-year strategic plans"
 usc_title: 54
 usc_section: "100503"
 chapter: 1005
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "54 U.S.C. § 100503"
-generated_at: "2026-03-30T02:56:28.412Z"
+generated_at: "2026-11-23T21:26:42.755Z"
+status: "active"
 ---
 
 # § 100503. Five-year strategic plans
@@ -16,3 +17,32 @@ generated_at: "2026-03-30T02:56:28.412Z"
   - **(2)** The budget shall include—
     - **(A)** funding allocations for resource preservation (including resource management), visitor services (including maintenance, interpretation, law enforcement, and search and rescue), and administration; and
     - **(B)** allocations into each of the categories in subparagraph (A) of all funds retained from fees collected for that year, including special use permits, concession franchise fees, and recreation use and entrance fees.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 100503 | 16 U.S.C. 5914 . | Pub. L. 105–391, title I, § 104 , Nov. 13, 1998 , 112 Stat. 3499 . |
+
+
+Strategic and Performance Plans
+
+Annual Budget.—
+
+In general
+
+Contents
+
+Historical and Revision Notes
+
+100503
+
+16 U.S.C. 5914
+
+Pub. L. 105–391, title I, § 104
+
+Nov. 13, 1998
+
+112 Stat. 3499
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3098](https://www.govinfo.gov/link/statute/128/3098).)*

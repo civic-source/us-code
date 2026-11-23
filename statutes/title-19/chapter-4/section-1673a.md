@@ -3,9 +3,10 @@ title: "Section 1673a - Procedures for initiating an antidumping duty investigat
 usc_title: 19
 usc_section: "1673a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1673a"
-generated_at: "2026-03-30T02:54:24.651Z"
+generated_at: "2026-11-23T21:25:42.743Z"
+status: "active"
 ---
 
 # § 1673a. Procedures for initiating an antidumping duty investigation
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:54:24.651Z"
 - **(e)** If, at any time after the initiation of an investigation under this part, the administering authority finds a reasonable basis to suspect that—
   - **(1)** there is a history of dumping in the United States or elsewhere of the subject merchandise, or
   - **(2)** the person by whom, or for whose account, the merchandise was imported knew, or should have known, that the exporter was selling the subject merchandise at less than its fair value,
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VII, § 732, as added [Pub. L. 96–39, title I, § 101](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 162](https://www.govinfo.gov/link/statute/93/162); amended [Pub. L. 98–573, title VI, § 609](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 3030](https://www.govinfo.gov/link/statute/98/3030); [Pub. L. 99–514, title XVIII, § 1886(a)(2)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2921](https://www.govinfo.gov/link/statute/100/2921); [Pub. L. 100–418, title I](https://www.govinfo.gov/link/plaw/100/public/418), §§ 1324(b)(1), 1326(d)(1), Aug. 23, 1988, [102 Stat. 1200](https://www.govinfo.gov/link/statute/102/1200), 1204; [Pub. L. 103–465, title II](https://www.govinfo.gov/link/plaw/103/public/465), §§ 211(b), 212(a)(2), 233(a)(5)(P)–(R), (6)(A)(v)–(vii), (C), Dec. 8, 1994, [108 Stat. 4843](https://www.govinfo.gov/link/statute/108/4843), 4845, 4900, 4901; [Pub. L. 104–295, § 20(b)(4)](https://www.govinfo.gov/link/plaw/104/public/295), (8), (9), Oct. 11, 1996, [110 Stat. 3527](https://www.govinfo.gov/link/statute/110/3527); [Pub. L. 114–125, title VIII, § 802(d)(2)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 210](https://www.govinfo.gov/link/statute/130/210).)*

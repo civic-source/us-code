@@ -3,9 +3,10 @@ title: "Section 1527 - Improved biosafety for handling of select agents and toxi
 usc_title: 50
 usc_section: "1527"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1527"
-generated_at: "2026-03-30T02:56:26.206Z"
+generated_at: "2026-11-23T21:26:38.915Z"
+status: "active"
 ---
 
 # § 1527. Improved biosafety for handling of select agents and toxins
@@ -38,3 +39,11 @@ generated_at: "2026-03-30T02:56:26.206Z"
     - **(B)** section 121.3 or section 121.4 of title 9, Code of Federal Regulations; or
     - **(C)** section 73.3 or section 73.4 of title 42, Code of Federal Regulations.
   - **(2)** The term “covered facility” means any facility of the Department of Defense that produces biological select agents and toxins.
+
+In General
+
+Content
+
+## Source Credit
+
+*([Pub. L. 114–328, div. A, title II, § 218](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2052](https://www.govinfo.gov/link/statute/130/2052).)*

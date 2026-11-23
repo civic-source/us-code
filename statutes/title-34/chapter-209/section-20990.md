@@ -3,9 +3,10 @@ title: "Section 20990 - National registry of substantiated cases of child abuse"
 usc_title: 34
 usc_section: "20990"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20990"
-generated_at: "2026-03-30T02:55:33.302Z"
+generated_at: "2026-11-23T21:26:09.806Z"
+status: "active"
 ---
 
 # § 20990. National registry of substantiated cases of child abuse
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:33.302Z"
     - **(D)** a due process procedure for a national registry.
   - **(2)** Not later than 1 year after July 27, 2006 , the Secretary of Homeland Security shall submit to the Committees on the Judiciary in the House of Representatives and the United States Senate and the Senate Committee on Health, Education, Labor and Pensions and the House Committee on Education and the Workforce a report containing the recommendations and findings of the study on data collection standards for a national child abuse registry authorized under this subsection.
   - **(3)** There is authorized to be appropriated $500,000 for the period of fiscal years 2006 and 2007 to carry out the study required by this subsection.
+
+## Source Credit
+
+*([Pub. L. 109–248, title VI, § 633](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 642](https://www.govinfo.gov/link/statute/120/642).)*

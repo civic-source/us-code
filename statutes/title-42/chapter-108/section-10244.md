@@ -3,9 +3,10 @@ title: "Section 10244 - Environmental assessment of sites"
 usc_title: 42
 usc_section: "10244"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10244"
-generated_at: "2026-03-30T02:56:11.385Z"
+generated_at: "2026-11-23T21:26:33.353Z"
+status: "active"
 ---
 
 # § 10244. Environmental assessment of sites
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.385Z"
     - **(A)** such preliminary boring or excavation activities were in progress on or before December 22, 1987 ; or
     - **(B)** the Secretary certifies that, in the absence of preliminary borings or excavations, adequate information will not be available to satisfy the requirements of this chapter or any other law.
   - **(2)** No preliminary boring or excavation conducted under this section shall exceed a diameter of 40 inches.
+
+## Source Credit
+
+*([Pub. L. 97–425, title IV, § 404](https://www.govinfo.gov/link/plaw/97/public/425), as added [Pub. L. 100–202, § 101(d) [title III]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–104](https://www.govinfo.gov/link/statute/101/1329), 1329–121; [Pub. L. 100–203, title V, § 5041](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–245](https://www.govinfo.gov/link/statute/101/1330).)*

@@ -3,9 +3,10 @@ title: "Section 3334d - Cyber protection support for the personnel of the intell
 usc_title: 50
 usc_section: "3334d"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3334d"
-generated_at: "2026-03-30T02:56:26.244Z"
+generated_at: "2026-11-23T21:26:39.034Z"
+status: "active"
 ---
 
 # § 3334d. Cyber protection support for the personnel of the intelligence community in positions highly vulnerable to cyber attack
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:26.244Z"
 - **(e)** Not later than 180 days after December 20, 2019 , the Director shall submit to the congressional intelligence committees a report on the provision of cyber protection support under subsection (b). The report shall include—
   - **(1)** a description of the methodology used to make the determination under subsection (b)(2); and
   - **(2)** guidance for the use of cyber protection support and tracking of support requests for personnel receiving cyber protection support under subsection (b).
+
+## Source Credit
+
+*([Pub. L. 116–92, div. E, title LXIII, § 6308](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2189](https://www.govinfo.gov/link/statute/133/2189); [Pub. L. 117–263, div. F, title LXIII, § 6308(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3506](https://www.govinfo.gov/link/statute/136/3506).)*

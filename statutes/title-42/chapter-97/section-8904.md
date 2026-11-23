@@ -3,9 +3,10 @@ title: "Section 8904 - Implementation of comprehensive plan; new or existing reg
 usc_title: 42
 usc_section: "8904"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8904"
-generated_at: "2026-03-30T02:56:11.349Z"
+generated_at: "2026-11-23T21:26:33.223Z"
+status: "active"
 ---
 
 # § 8904. Implementation of comprehensive plan; new or existing regulatory authorities, etc., not granted or modified
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.349Z"
   - **(2)** shall be managed in accord with paragraphs (12) through (14) of such section; and
   - **(3)** shall be funded by annual appropriations, subject to annual authorizations which shall be made for each fiscal year of the program (as provided in section 8905 of this title ) after the submission of the Task Force progress report which under section 8903(e) of this title is required to be submitted by January 15 of the calendar year in which such fiscal year begins.
 - **(b)** Nothing in this subchapter shall be deemed to grant any new regulatory authority or to limit, expand, or otherwise modify any regulatory authority under existing law, or to establish new criteria, standards, or requirements for regulation under existing law.
+
+## Source Credit
+
+*([Pub. L. 96–294, title VII, § 705](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 773](https://www.govinfo.gov/link/statute/94/773).)*

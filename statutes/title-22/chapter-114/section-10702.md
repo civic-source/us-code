@@ -3,9 +3,10 @@ title: "Section 10702 - Sense of Congress"
 usc_title: 22
 usc_section: "10702"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10702"
-generated_at: "2026-03-30T02:55:05.479Z"
+generated_at: "2026-11-23T21:25:58.802Z"
+status: "active"
 ---
 
 # § 10702. Sense of Congress
@@ -48,3 +49,7 @@ It is a sense of Congress that the United States should—
     - **(B)** increased national defense spending in accordance with the NATO Hague Summit Declaration agreed to by all NATO Allies in June 2025;
   - **(18)** support the implementation of the Export Control and Related Border Security programs in the Western Balkans; and
   - **(19)** work with allies and partners to strengthen law enforcement and investigative capacities in Western Balkan countries to disrupt transnational criminal organizations and corruption.
+
+## Source Credit
+
+*([Pub. L. 119–60, div. H, title LXXXIII, § 8333](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1865](https://www.govinfo.gov/link/statute/139/1865).)*

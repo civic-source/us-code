@@ -3,9 +3,10 @@ title: "Section 19351 - Advanced nuclear technologies Federal research, developm
 usc_title: 42
 usc_section: "19351"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19351"
-generated_at: "2026-03-30T02:56:11.547Z"
+generated_at: "2026-11-23T21:26:33.886Z"
+status: "active"
 ---
 
 # § 19351. Advanced nuclear technologies Federal research, development, and demonstration program
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:56:11.547Z"
   - **(3)** $150,000,000 for fiscal year 2025;
   - **(4)** $225,000,000 for fiscal year 2026; and
   - **(5)** $250,000,000 for fiscal year 2027.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title VI, § 10781](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1728](https://www.govinfo.gov/link/statute/136/1728); [Pub. L. 118–31, div. C, title XXXI, § 3131(p)(1)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 803](https://www.govinfo.gov/link/statute/137/803).)*

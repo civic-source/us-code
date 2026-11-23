@@ -3,9 +3,10 @@ title: "Section 460xxx - Beaver Dam Wash National Conservation Area"
 usc_title: 16
 usc_section: "460xxx"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 460xxx"
-generated_at: "2026-03-30T02:54:22.848Z"
+generated_at: "2026-11-23T21:25:51.630Z"
+status: "active"
 ---
 
 # § 460xxx. Beaver Dam Wash National Conservation Area
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:54:22.848Z"
     - **(B)** location, entry, and patenting under the mining laws; and
     - **(C)** operation of the mineral leasing, mineral materials, and geothermal leasing laws.
   - **(2)** If the Secretary acquires additional land that is located in the National Conservation Area after March 30, 2009 , the land is withdrawn from operation of the laws referred to in paragraph (1) on the date of acquisition of the land.
+
+## Source Credit
+
+*([Pub. L. 111–11, title I, § 1975](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1083](https://www.govinfo.gov/link/statute/123/1083).)*

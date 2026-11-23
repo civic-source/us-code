@@ -3,9 +3,10 @@ title: "Section 3007 - Administrative provisions"
 usc_title: 29
 usc_section: "3007"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3007"
-generated_at: "2026-03-30T02:55:18.747Z"
+generated_at: "2026-11-23T21:26:02.322Z"
+status: "active"
 ---
 
 # § 3007. Administrative provisions
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:18.747Z"
     - **(B)** a summary of the State applications described in section 3003(d) of this title and an analysis of the progress of the States in meeting the measurable goals established in State applications under section 3003(d)(3)(C) of this title .
 - **(e)** Nothing in this section shall be construed to affect the enforcement authority of the Secretary, another Federal officer, or a court under any other applicable law.
 - **(f)** This chapter may not be construed as authorizing a Federal or State agency to reduce medical or other assistance available, or to alter eligibility for a benefit or service, under any other Federal law.
+
+## Source Credit
+
+*([Pub. L. 105–394, § 8](https://www.govinfo.gov/link/plaw/105/public/394), as added [Pub. L. 108–364, § 2](https://www.govinfo.gov/link/plaw/108/public/364), Oct. 25, 2004, [118 Stat. 1736](https://www.govinfo.gov/link/statute/118/1736); amended [Pub. L. 117–263, div. E, title LIV, § 5402](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3287](https://www.govinfo.gov/link/statute/136/3287).)*

@@ -3,9 +3,10 @@ title: "Section 8835 - General requirements regarding financial assistance"
 usc_title: 42
 usc_section: "8835"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8835"
-generated_at: "2026-03-30T02:56:11.348Z"
+generated_at: "2026-11-23T21:26:33.220Z"
+status: "active"
 ---
 
 # § 8835. General requirements regarding financial assistance
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:56:11.348Z"
 - **(f)** All contracts and instruments of the Secretary of Energy to provide, or providing, for financial assistance shall be general obligations of the United States backed by its full faith and credit.
 - **(g)** Subject to the conditions of any contract for financial assistance, such contract shall be incontestable in the hands of the holder, except as to fraud or material misrepresentation on the part of the holder.
 - **(h)** Notwithstanding the provisions of the Federal Financing Bank Act of 1973 ( 12 U.S.C. 2281 et seq.) or any other provision of law (except as may be specifically provided by reference to this subsection in any Act enacted after June 30, 1980 ), no debt obligation which is made or committed to be made, or which is guaranteed or committed to be guaranteed by the Secretary of Energy under section 8832, 8833, or 8834 of this title shall be eligible for purchase by, or commitment to purchase by, or sale or issuance to, the Federal Financing Bank or any Federal agency.
+
+## Source Credit
+
+*([Pub. L. 96–294, title II, § 235](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 701](https://www.govinfo.gov/link/statute/94/701).)*

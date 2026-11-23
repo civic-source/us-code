@@ -3,9 +3,10 @@ title: "Section 1536 - Interagency cooperation"
 usc_title: 16
 usc_section: "1536"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1536"
-generated_at: "2026-03-30T02:54:22.975Z"
+generated_at: "2026-11-23T21:25:51.894Z"
+status: "active"
 ---
 
 # § 1536. Interagency cooperation
@@ -119,3 +120,27 @@ generated_at: "2026-03-30T02:54:22.975Z"
   - **(1)** any action for which an exemption is granted under subsection (h) shall not be considered to be a taking of any endangered species or threatened species with respect to any activity which is necessary to carry out such action; and
   - **(2)** any taking that is in compliance with the terms and conditions specified in a written statement provided under subsection (b)(4)(iv) shall not be considered to be a prohibited taking of the species concerned.
 - **(p)** In any area which has been declared by the President to be a major disaster area under the Disaster Relief and Emergency Assistance Act [ 42 U.S.C. 5121 et seq.], the President is authorized to make the determinations required by subsections (g) and (h) of this section for any project for the repair or replacement of a public facility substantially as it existed prior to the disaster under section 405 or 406 of the Disaster Relief and Emergency Assistance Act [ 42 U.S.C. 5171 or 5172], and which the President determines (1) is necessary to prevent the recurrence of such a natural disaster and to reduce the potential loss of human life, and (2) to involve an emergency situation which does not allow the ordinary procedures of this section to be followed. Notwithstanding any other provision of this section, the Committee shall accept the determinations of the President under this subsection.
+
+In General
+
+Deadline for Regulations
+
+Consultation and Conferencing
+
+Reasonable and Prudent Measures
+
+Definitions
+
+Plan Specifications
+
+Status of Members of the Experimental Population
+
+Implementation of Plan
+
+Consultation and Effect of Opinion
+
+Construction
+
+## Source Credit
+
+*([Pub. L. 93–205, § 7](https://www.govinfo.gov/link/plaw/93/public/205), Dec. 28, 1973, [87 Stat. 892](https://www.govinfo.gov/link/statute/87/892); [Pub. L. 95–632, § 3](https://www.govinfo.gov/link/plaw/95/public/632), Nov. 10, 1978, [92 Stat. 3752](https://www.govinfo.gov/link/statute/92/3752); [Pub. L. 96–159, § 4](https://www.govinfo.gov/link/plaw/96/public/159), Dec. 28, 1979, [93 Stat. 1226](https://www.govinfo.gov/link/statute/93/1226); [Pub. L. 97–304](https://www.govinfo.gov/link/plaw/97/public/304), §§ 4(a), 8(b), Oct. 13, 1982, [96 Stat. 1417](https://www.govinfo.gov/link/statute/96/1417), 1426; [Pub. L. 99–659, title IV, § 411(b)](https://www.govinfo.gov/link/plaw/99/public/659), (c), Nov. 14, 1986, [100 Stat. 3741](https://www.govinfo.gov/link/statute/100/3741), 3742; [Pub. L. 100–707, title I, § 109(g)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4709](https://www.govinfo.gov/link/statute/102/4709).)*

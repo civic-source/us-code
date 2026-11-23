@@ -3,9 +3,10 @@ title: "Section 7501 - Definitions"
 usc_title: 16
 usc_section: "7501"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 7501"
-generated_at: "2026-03-30T02:54:23.076Z"
+generated_at: "2026-11-23T21:25:52.067Z"
+status: "active"
 ---
 
 # § 7501. Definitions
@@ -19,3 +20,7 @@ In this chapter:
   - **(5)** The term “Indian tribe” means any federally recognized Indian tribe.
   - **(6)** Except as otherwise specifically provided, the term “Administrator” means the Under Secretary of Commerce for Oceans and Atmosphere and Administrator of the National Oceanic and Atmospheric Administration.
   - **(7)** The term “tidal shoreline” has the meaning given that term pursuant to section 923.110(c)(2)(i) of title 15, Code of Federal Regulations, or a similar successor regulation.
+
+## Source Credit
+
+*([Pub. L. 114–113, div. O, title IX, § 902](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3031](https://www.govinfo.gov/link/statute/129/3031).)*

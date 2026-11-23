@@ -3,9 +3,10 @@ title: "Section 8109 - Parking facilities"
 usc_title: 38
 usc_section: "8109"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 8109"
-generated_at: "2026-03-30T02:55:53.536Z"
+generated_at: "2026-11-23T21:26:16.900Z"
+status: "active"
 ---
 
 # § 8109. Parking facilities
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:55:53.536Z"
   - **(1)** The expenditure of funds from the revolving fund may be made only for the construction, alteration, and acquisition (including site acquisition) of parking facilities at medical facilities and may be made only as provided for in appropriation Acts.
   - **(2)** For the purpose of section 8104(a)(2) of this title , a bill, resolution, or amendment which provides that funds in the revolving fund (including any funds proposed in such bill, resolution, or amendment to be appropriated to the revolving fund) may be expended for a project involving a total expenditure of more than $4,000,000 for the construction, alteration, or acquisition (including site acquisition) of a parking facility or facilities at a medical facility shall be considered to be a bill, resolution, or amendment making an appropriation which may be expended for a major medical facility project.
 - **(j)** Funds in a construction account or capital account that are available for a construction project or a nonrecurring maintenance project may be used for the construction or relocation of a surface parking lot incidental to that project.
+
+## Source Credit
+
+*(Added [Pub. L. 96–22, title III, § 301(a)](https://www.govinfo.gov/link/plaw/96/public/22), June 13, 1979, [93 Stat. 59](https://www.govinfo.gov/link/statute/93/59), § 5009; amended [Pub. L. 99–576, title II, § 223(a)(1)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3259](https://www.govinfo.gov/link/statute/100/3259); renumbered § 8109 and amended [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), (d)(1), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238), 239; [Pub. L. 102–83, § 4(a)(3)](https://www.govinfo.gov/link/plaw/102/public/83), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404](https://www.govinfo.gov/link/statute/105/404), 405; [Pub. L. 103–79, § 3(b)](https://www.govinfo.gov/link/plaw/103/public/79), Aug. 13, 1993, [107 Stat. 771](https://www.govinfo.gov/link/statute/107/771); [Pub. L. 104–262, title II, § 207(b)](https://www.govinfo.gov/link/plaw/104/public/262), Oct. 9, 1996, [110 Stat. 3190](https://www.govinfo.gov/link/statute/110/3190); [Pub. L. 105–368, title VII, § 705](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3350](https://www.govinfo.gov/link/statute/112/3350); [Pub. L. 108–422, title IV, § 415](https://www.govinfo.gov/link/plaw/108/public/422), Nov. 30, 2004, [118 Stat. 2393](https://www.govinfo.gov/link/statute/118/2393); [Pub. L. 115–141, div. J, title II, § 234](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 820](https://www.govinfo.gov/link/statute/132/820).)*

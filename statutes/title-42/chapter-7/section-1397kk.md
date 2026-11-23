@@ -3,9 +3,10 @@ title: "Section 1397kk - Phase-out of coverage for nonpregnant childless adults;
 usc_title: 42
 usc_section: "1397kk"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1397kk"
-generated_at: "2026-03-30T02:56:11.075Z"
+generated_at: "2026-11-23T21:26:31.963Z"
+status: "active"
 ---
 
 # § 1397kk. Phase-out of coverage for nonpregnant childless adults; conditions for coverage of parents
@@ -62,3 +63,11 @@ generated_at: "2026-03-30T02:56:11.075Z"
   - **(2)**
     - **(A)** The term “parent” includes a caretaker relative (as such term is used in carrying out section 1396u–1 of this title ) and a legal guardian.
     - **(B)** The term “nonpregnant childless adult” has the meaning given such term by section 1397gg(f) of this title .
+
+(aa) the applicable percentage for the State under clause (iii) was the enhanced FMAP for fiscal year 2012; and
+
+(bb) the State met either of the coverage benchmarks described in subparagraph (B) or (C) of paragraph (3) for fiscal year 2012; or
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XXI, § 2111, as added [Pub. L. 111–3, title I, § 112(a)(1)](https://www.govinfo.gov/link/plaw/111/public/3), Feb. 4, 2009, [123 Stat. 29](https://www.govinfo.gov/link/statute/123/29); amended [Pub. L. 114–10, title III, § 301(b)(2)(D)](https://www.govinfo.gov/link/plaw/114/public/10), Apr. 16, 2015, [129 Stat. 157](https://www.govinfo.gov/link/statute/129/157).)*

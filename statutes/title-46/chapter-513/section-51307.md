@@ -3,9 +3,10 @@ title: "Section 51307 - Places of training"
 usc_title: 46
 usc_section: "51307"
 chapter: 513
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 51307"
-generated_at: "2026-03-30T02:56:15.569Z"
+generated_at: "2026-11-23T21:26:37.228Z"
+status: "active"
 ---
 
 # § 51307. Places of training
@@ -33,3 +34,44 @@ generated_at: "2026-03-30T02:56:15.569Z"
   - **(1)** the discretion of the Secretary to determine whether to place a United States Merchant Marine Academy cadet on a vessel;
   - **(2)** the authority of the Coast Guard regarding a vessel security plan approved under section 70103; or
   - **(3)** the discretion of the master of the vessel to ensure the safety of all crew members.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 51307 | 46 App.:1295b(f). | June 29, 1936, ch. 858 , title XIII, § 1303(f), as added Pub. L. 96–453, § 2 , Oct. 15, 1980 , 94 Stat. 2002 . |
+
+
+In General
+
+Sea Year Cadets on Certain Vessels.—
+
+Requirements
+
+Failure to implement or adhere to requirements
+
+Withheld payments
+
+Military Sealift Command Vessels.—
+
+In general
+
+Waiver
+
+Definition of Operator
+
+Savings Clause
+
+Historical and Revision Notes
+
+51307
+
+June 29, 1936, ch. 858
+
+Pub. L. 96–453, § 2
+
+Oct. 15, 1980
+
+94 Stat. 2002
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(b)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1574](https://www.govinfo.gov/link/statute/120/1574); [Pub. L. 109–241, title III, § 307](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 528](https://www.govinfo.gov/link/statute/120/528); [Pub. L. 110–181, div. C, title XXXV, § 3525(a)(3)](https://www.govinfo.gov/link/plaw/110/public/181), (b), Jan. 28, 2008, [122 Stat. 600](https://www.govinfo.gov/link/statute/122/600), 601; [Pub. L. 115–232, div. C, title XXXV, § 3512](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2311](https://www.govinfo.gov/link/statute/132/2311); [Pub. L. 116–283, div. C, title XXXV, § 3506](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4405](https://www.govinfo.gov/link/statute/134/4405); [Pub. L. 117–263, div. C, title XXXV, § 3517(a)(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3073](https://www.govinfo.gov/link/statute/136/3073).)*

@@ -3,9 +3,10 @@ title: "Section 986 - Subpoenas for bank records"
 usc_title: 18
 usc_section: "986"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 986"
-generated_at: "2026-03-30T02:54:16.478Z"
+generated_at: "2026-11-23T21:25:44.027Z"
+status: "active"
 ---
 
 # § 986. Subpoenas for bank records
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:54:16.478Z"
       - **(ii)** in a civil forfeiture case, to the ability of the Government to establish the forfeitability of the property; and
     - **(B)** it is within the capacity of the claimant to waive the claimant’s rights under applicable financial secrecy laws, or to obtain the records so that such records can be made available notwithstanding such secrecy laws,
   - **(2)** This subsection shall not affect the right of the claimant to refuse production on the basis of any privilege guaranteed by the Constitution of the United States or any other provision of Federal law.
+
+Access to Records in Bank Secrecy Jurisdictions.—
+
+In general
+
+Privilege
+
+## Source Credit
+
+*(Added [Pub. L. 102–550, title XV, § 1523(a)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4063](https://www.govinfo.gov/link/statute/106/4063); amended [Pub. L. 103–325, title IV, § 411(c)(2)(E)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2253](https://www.govinfo.gov/link/statute/108/2253); [Pub. L. 106–185, § 17](https://www.govinfo.gov/link/plaw/106/public/185), Apr. 25, 2000, [114 Stat. 221](https://www.govinfo.gov/link/statute/114/221).)*

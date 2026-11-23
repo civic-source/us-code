@@ -3,9 +3,10 @@ title: "Section 9001 - Congressional findings and declaration of purpose"
 usc_title: 42
 usc_section: "9001"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9001"
-generated_at: "2026-03-30T02:56:11.349Z"
+generated_at: "2026-11-23T21:26:33.224Z"
+status: "active"
 ---
 
 # § 9001. Congressional findings and declaration of purpose
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.349Z"
   - **(2)** demonstration by 1989 of at least five hundred megawatts of electrical capacity or energy product equivalent from ocean thermal energy conversion systems;
   - **(3)** achievement in the mid-1990’s, for the gulf coast region of the continental United States and for islands in the United States, its possessions and its territories, an average cost of electricity or energy product equivalent produced by installed ocean thermal energy conversion systems that is competitive with conventional energy sources; and
   - **(4)** establish as a national goal ten thousand megawatts of electrical capacity or energy product equivalent from ocean thermal energy conversion systems by the year 1999.
+
+## Source Credit
+
+*([Pub. L. 96–310, § 2](https://www.govinfo.gov/link/plaw/96/public/310), July 17, 1980, [94 Stat. 941](https://www.govinfo.gov/link/statute/94/941).)*

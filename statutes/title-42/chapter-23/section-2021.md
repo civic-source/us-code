@@ -3,9 +3,10 @@ title: "Section 2021 - Cooperation with States"
 usc_title: 42
 usc_section: "2021"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2021"
-generated_at: "2026-03-30T02:56:11.146Z"
+generated_at: "2026-11-23T21:26:32.316Z"
+status: "active"
 ---
 
 # § 2021. Cooperation with States
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:56:11.146Z"
       - **(iii)** consideration of alternatives, including alternative sites and engineering methods, to the activities to be conducted pursuant to such license; and
       - **(iv)** consideration of the long-term impacts, including decommissioning, decontamination, and reclamation impacts, associated with activities to be conducted pursuant to such license, including the management of any byproduct material, as defined by section 2014(e)(2) of this title ; and
     - **(D)** prohibit any major construction activity with respect to such material prior to complying with the provisions of subparagraph (C).
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 274, as added [Pub. L. 86–373, § 1](https://www.govinfo.gov/link/plaw/86/public/373), Sept. 23, 1959, [73 Stat. 688](https://www.govinfo.gov/link/statute/73/688); amended 1970 Reorg. Plan No. 3, §§ 2(a)(7), 6(2), eff. Dec. 2, 1970, 35 F.R. 15623, [84 Stat. 2086](https://www.govinfo.gov/link/statute/84/2086); [Pub. L. 95–604, title II, § 204(a)](https://www.govinfo.gov/link/plaw/95/public/604) –(e)(1), (f), Nov. 8, 1978, [92 Stat. 3036–3038](https://www.govinfo.gov/link/statute/92/3036); [Pub. L. 96–295, title II, § 205](https://www.govinfo.gov/link/plaw/96/public/295), June 30, 1980, [94 Stat. 787](https://www.govinfo.gov/link/statute/94/787); [Pub. L. 97–415, § 19(a)](https://www.govinfo.gov/link/plaw/97/public/415), Jan. 4, 1983, [96 Stat. 2078](https://www.govinfo.gov/link/statute/96/2078); renumbered title I and amended [Pub. L. 102–486, title IX, § 902(a)(6)](https://www.govinfo.gov/link/plaw/102/public/486), (8), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944); [Pub. L. 109–58, title VI, § 651(e)(2)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 807](https://www.govinfo.gov/link/statute/119/807).)*

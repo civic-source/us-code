@@ -3,9 +3,10 @@ title: "Section 6944 - Rural Business and Cooperative Development Service"
 usc_title: 7
 usc_section: "6944"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6944"
-generated_at: "2026-03-30T02:53:42.440Z"
+generated_at: "2026-11-23T21:25:28.407Z"
+status: "active"
 ---
 
 # § 6944. Rural Business and Cooperative Development Service
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.440Z"
   - **(3)** Sections 306(a)(1) and 310B of the Consolidated Farm and Rural Development Act ( 7 U.S.C. 1926(a)(1) and 1932).
   - **(4)** Section 1323 of the Food Security Act of 1985 ( Public Law 99–198 ; 7 U.S.C. 1932 note).
   - **(5)** The Act of July 2, 1926 ( 44 Stat. 802 , chapter 725; 7 U.S.C. 451 et seq.).
+
+## Source Credit
+
+*([Pub. L. 103–354, title II, § 234](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3220](https://www.govinfo.gov/link/statute/108/3220).)*

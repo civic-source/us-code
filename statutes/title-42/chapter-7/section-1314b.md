@@ -3,9 +3,10 @@ title: "Section 1314b - National Advisory Committee on the Sex Trafficking of Ch
 usc_title: 42
 usc_section: "1314b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1314b"
-generated_at: "2026-03-30T02:56:10.906Z"
+generated_at: "2026-11-23T21:26:31.238Z"
+status: "active"
 ---
 
 # § 1314b. National Advisory Committee on the Sex Trafficking of Children and Youth in the United States
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:56:10.906Z"
   - **(4)** The records of the Committee and any subcommittees and working groups shall be maintained in accordance with appropriate Department of Health and Human Services policies and procedures and shall be available for public inspection and copying, subject to the Freedom of Information Act ( 5 U.S.C. 552 ).
 - **(g)** The Committee shall terminate 5 years after the date of its establishment, but the Secretary shall continue to operate and update, as necessary, an Internet website displaying the State best practices, recommendations, and evaluation of State-by-State implementation of the Secretary’s recommendations.
 - **(h)** For the purpose of this section, the term “sex trafficking” includes the definition set forth in section 7102(10) 1 1 See References in Text note below. of title 22 and “severe form of trafficking in persons” described in section 7102(9)(A) 1 of title 22.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XI, § 1114A, as added [Pub. L. 113–183, title I, § 121](https://www.govinfo.gov/link/plaw/113/public/183), Sept. 29, 2014, [128 Stat. 1931](https://www.govinfo.gov/link/statute/128/1931).)*

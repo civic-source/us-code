@@ -3,9 +3,10 @@ title: "Section 826 - Production quotas for controlled substances"
 usc_title: 21
 usc_section: "826"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 826"
-generated_at: "2026-03-30T02:54:54.293Z"
+generated_at: "2026-11-23T21:25:56.235Z"
+status: "active"
 ---
 
 # § 826. Production quotas for controlled substances
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:54:54.293Z"
   - **(3)** Not later than 1 year after October 24, 2018 , the Attorney General shall submit to Congress a report on how the Attorney General, when fixing and adjusting production and manufacturing quotas under this section for covered controlled substances, will—
     - **(A)** take into consideration changes in the accepted medical use of the covered controlled substances; and
     - **(B)** work with the Secretary of Health and Human Services on methods to appropriately and anonymously estimate the type and amount of covered controlled substances that are submitted for collection from approved drug collection receptacles, mail-back programs, and take-back events.
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 306](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1257](https://www.govinfo.gov/link/statute/84/1257); [Pub. L. 94–273, § 3(16)](https://www.govinfo.gov/link/plaw/94/public/273), Apr. 21, 1976, [90 Stat. 377](https://www.govinfo.gov/link/statute/90/377); [Pub. L. 109–177, title VII, § 713](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 264](https://www.govinfo.gov/link/statute/120/264); [Pub. L. 112–144, title X, § 1005](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 1105](https://www.govinfo.gov/link/statute/126/1105); [Pub. L. 115–271, title III, § 3282(a)](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 3954](https://www.govinfo.gov/link/statute/132/3954).)*

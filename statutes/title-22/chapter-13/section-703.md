@@ -3,9 +3,10 @@ title: "Section 703 - Attendance of witnesses"
 usc_title: 22
 usc_section: "703"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 703"
-generated_at: "2026-03-30T02:55:05.329Z"
+generated_at: "2026-11-23T21:25:58.390Z"
+status: "active"
 ---
 
 # § 703. Attendance of witnesses
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:05.329Z"
 - **(a)** Any district court of the United States, or the United States courts of any Territory or possession, within the jurisdiction of which proceedings are had before any service court of a friendly foreign force, or within the jurisdiction of which any person is found, shall have jurisdiction, upon application made by a service court of a friendly foreign force, to issue to such person an order requiring him to appear before the service court or an officer designated to take a deposition for use before such service court and there to produce evidence or give testimony if so ordered. Any failure to obey such order of the court may be punished by said court as a contempt thereof: Provided , That the fees of such witnesses and the mileage at the rate allowed to witnesses attending the courts of the United States should be duly paid or tendered in advance to such witnesses, with funds to be supplied by the friendly foreign force. Except as expressly permitted by the court, in its discretion, no such order shall run into any other district.
 - **(b)** Attendance of witnesses in the armed services of the United States shall be obtained by request addressed to the discretion of the commanding officer of the person whose testimony is required.
 - **(c)** Persons subject to the jurisdiction of the United States, who are not members of a friendly foreign force, who shall give false testimony or shall commit any act in the presence of a service court of a friendly foreign force which, if committed before a court of the United States, would be in contempt thereof, shall upon conviction by a court of the United States be fined not more than $2,000 or imprisoned for not more than six months, or both.
+
+## Source Credit
+
+*(June 30, 1944, ch. 326, § 3, [58 Stat. 644](https://www.govinfo.gov/link/statute/58/644); Proc. No. 2695, July 4, 1946, 11 F.R. 7517, [60 Stat. 1352](https://www.govinfo.gov/link/statute/60/1352).)*

@@ -3,9 +3,10 @@ title: "Section 14109 - Reports of promotion boards: in general"
 usc_title: 10
 usc_section: "14109"
 chapter: 1403
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 14109"
-generated_at: "2026-03-30T02:53:38.273Z"
+generated_at: "2026-11-23T21:25:33.058Z"
+status: "active"
 ---
 
 # § 14109. Reports of promotion boards: in general
@@ -20,3 +21,15 @@ generated_at: "2026-03-30T02:53:38.273Z"
 - **(d)** A promotion board convened under section 14101(a) of this title shall, when authorized under section 14108(f) of this title , include in its report to the Secretary concerned—
   - **(1)** the names of those officers the promotion board recommends be placed higher on the promotion list; and
   - **(2)** the order in which the promotion board recommends those officers should be placed on the promotion list.
+
+Report of Officers Recommended for Promotion
+
+Certification
+
+Show-Cause Recommendations
+
+Report of Officers Recommended for Higher Placement on Promotion List
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1611](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2928](https://www.govinfo.gov/link/statute/108/2928); amended [Pub. L. 116–92, div. A, title V, § 510(b)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1347](https://www.govinfo.gov/link/statute/133/1347).)*

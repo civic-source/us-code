@@ -3,9 +3,10 @@ title: "Section 2034 - Survivor annuity for certain other former spouses"
 usc_title: 50
 usc_section: "2034"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2034"
-generated_at: "2026-03-30T02:56:26.217Z"
+generated_at: "2026-11-23T21:26:38.955Z"
+status: "active"
 ---
 
 # § 2034. Survivor annuity for certain other former spouses
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:26.217Z"
   - **(1)** A survivor annuity under this section shall not be payable unless appropriate written application is provided to the Director, complete with any supporting documentation which the Director may by regulation require. Any such application shall be submitted not later than April 1, 1989 . The Director may waive the application deadline under the preceding sentence in any case in which the Director determines that the circumstances warrant such a waiver.
   - **(2)** Upon approval of an application provided under paragraph (1), the appropriate survivor annuity shall be payable to the former spouse with respect to all periods before such approval during which the former spouse was entitled to such annuity under this section, but in no event shall a survivor annuity be payable under this section with respect to any period before October 1, 1986 .
 - **(e)** Notwithstanding subsection (d)(1), the deadline by which an application for a survivor annuity must be submitted shall not apply in cases in which a former spouse’s entitlement to such a survivor annuity is restored under subsection (b)(1) or (c)(2).
+
+## Source Credit
+
+*([Pub. L. 88–643, title II, § 224](https://www.govinfo.gov/link/plaw/88/public/643), as added [Pub. L. 102–496, title VIII, § 802](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3217](https://www.govinfo.gov/link/statute/106/3217); amended [Pub. L. 103–178, title II, § 202(a)(6)](https://www.govinfo.gov/link/plaw/103/public/178), Dec. 3, 1993, [107 Stat. 2026](https://www.govinfo.gov/link/statute/107/2026).)*

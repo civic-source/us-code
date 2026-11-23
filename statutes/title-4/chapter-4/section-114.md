@@ -3,9 +3,10 @@ title: "Section 114 - Limitation on State income taxation of certain pension inc
 usc_title: 4
 usc_section: "114"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "4 U.S.C. § 114"
-generated_at: "2026-03-30T02:52:51.498Z"
+generated_at: "2026-11-23T21:25:19.974Z"
+status: "active"
 ---
 
 # § 114. Limitation on State income taxation of certain pension income
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:52:51.498Z"
   - **(3)** The term “State” includes any political subdivision of a State, the District of Columbia, and the possessions of the United States.
   - **(4)** For purposes of this section, the term “retired partner” is an individual who is described as a partner in section 7701(a)(2) of the Internal Revenue Code of 1986 and who is retired under such individual’s partnership agreement.
 - **(e)** 1 1 So in original. No subsecs. (c) and (d) have been enacted. Nothing in this section shall be construed as having any effect on the application of section 514 of the Employee Retirement Income Security Act of 1974.
+
+## Source Credit
+
+*(Added [Pub. L. 104–95, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/95), Jan. 10, 1996, [109 Stat. 979](https://www.govinfo.gov/link/statute/109/979); amended [Pub. L. 109–264, § 1(a)](https://www.govinfo.gov/link/plaw/109/public/264), Aug. 3, 2006, [120 Stat. 667](https://www.govinfo.gov/link/statute/120/667).)*

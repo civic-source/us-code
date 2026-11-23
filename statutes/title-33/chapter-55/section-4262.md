@@ -3,9 +3,10 @@ title: "Section 4262 - Prioritization of efforts and assistance to combat marine
 usc_title: 33
 usc_section: "4262"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 4262"
-generated_at: "2026-03-30T02:55:41.147Z"
+generated_at: "2026-11-23T21:26:11.497Z"
+status: "active"
 ---
 
 # § 4262. Prioritization of efforts and assistance to combat marine debris and improve plastic waste management
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:55:41.147Z"
   - **(2)** rivers and coastal areas that are the most severe sources of marine debris, as identified by the best available science.
 - **(d)** In prioritizing and expediting efforts and assistance under this section, the officials specified in subsection (b) shall use clear, accountable, and metric-based targets to measure the effectiveness of guarantees and assistance in achieving the policy described in section 4261 of this title .
 - **(e)** Nothing in this section may be construed to authorize the modification of or the imposition of limits on the portfolios of any agency or institution led by an official specified in subsection (b).
+
+## Source Credit
+
+*([Pub. L. 116–224, title II, § 202](https://www.govinfo.gov/link/plaw/116/public/224), Dec. 18, 2020, [134 Stat. 1087](https://www.govinfo.gov/link/statute/134/1087).)*

@@ -3,9 +3,10 @@ title: "Section 355f - Extension of exclusivity period for new qualified infecti
 usc_title: 21
 usc_section: "355f"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 355f"
-generated_at: "2026-03-30T02:54:54.240Z"
+generated_at: "2026-11-23T21:25:56.049Z"
+status: "active"
 ---
 
 # § 355f. Extension of exclusivity period for new qualified infectious disease products
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:54:54.240Z"
   - **(2)** is intended to treat a serious or life-threatening infection, including such an infection caused by—
     - **(A)** an antibacterial or antifungal resistant pathogen, including novel or emerging infectious pathogens; or
     - **(B)** qualifying pathogens listed by the Secretary under subsection (f).
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 505E, as added [Pub. L. 112–144, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 1077](https://www.govinfo.gov/link/statute/126/1077); amended [Pub. L. 117–328, div. FF, title III, § 3212(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5826](https://www.govinfo.gov/link/statute/136/5826).)*

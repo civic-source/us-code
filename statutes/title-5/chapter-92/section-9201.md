@@ -3,9 +3,10 @@ title: "Section 9201 - Definitions"
 usc_title: 5
 usc_section: "9201"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 9201"
-generated_at: "2026-03-30T02:52:56.072Z"
+generated_at: "2026-11-23T21:25:23.460Z"
+status: "active"
 ---
 
 # § 9201. Definitions
@@ -22,3 +23,7 @@ In this chapter—
     - **(B)** includes any information described in the first sentence of section 9101(a)(2) that has been sealed or expunged pursuant to law; and
     - **(C)** includes information collected by a criminal justice agency, relating to an act or alleged act of juvenile delinquency, that is analogous to criminal history record information (including such information that has been sealed or expunged pursuant to law); and
   - **(5)** the term “suspension” has the meaning given the term in section 7501.
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. A, title XI, § 1122(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1605](https://www.govinfo.gov/link/statute/133/1605).)*

@@ -3,9 +3,10 @@ title: "Section 31306a - National clearinghouse for controlled substance and alc
 usc_title: 49
 usc_section: "31306a"
 chapter: 313
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 31306a"
-generated_at: "2026-03-30T02:56:19.360Z"
+generated_at: "2026-11-23T21:26:40.791Z"
+status: "active"
 ---
 
 # § 31306a. National clearinghouse for controlled substance and alcohol test results of commercial motor vehicle operators
@@ -147,3 +148,133 @@ generated_at: "2026-03-30T02:56:19.360Z"
   - **(7)** The term “Secretary” means the Secretary of Transportation.
   - **(8)** The term “service agent” means a person or entity, other than an employee of the employer, who provides services to employers or employees under the testing program.
   - **(9)** The term “testing program” means the alcohol and controlled substances testing program required under title 49, Code of Federal Regulations.
+
+Establishment.—
+
+In general
+
+Purposes
+
+Contents
+
+Electronic exchange of records
+
+Authorized operator
+
+Design of Clearinghouse.—
+
+Use of federal motor carrier safety administration recommendations
+
+Development of secure processes
+
+Employer alert of positive test result
+
+Archive capability
+
+Future needs.—
+
+Interoperability with other data systems
+
+Specific considerations
+
+Standard Formats
+
+Privacy
+
+Fees.—
+
+Authority to collect fees
+
+Use of fees
+
+Limitation
+
+Employer Requirements.—
+
+Determination concerning use of clearinghouse
+
+Applicability of existing requirements
+
+Employment prohibitions
+
+Annual review
+
+Reporting of Records.—
+
+In general
+
+Inclusion of records in clearinghouse
+
+Modifications and deletions
+
+Notification
+
+Data quality and security standards for reporting and releasing
+
+Retention of records
+
+Authorized Users.—
+
+Employers
+
+Consent
+
+Access to records
+
+Retention of record requests
+
+Use of records
+
+Protection of privacy of individuals
+
+State licensing authorities
+
+Consent
+
+Protection of privacy of individuals
+
+National Transportation Safety Board
+
+Access to Clearinghouse by Individuals.—
+
+In general
+
+Dispute procedure
+
+Penalties.—
+
+In general
+
+Violation of privacy
+
+Compatibility of State and Local Laws.—
+
+Preemption
+
+Applicability
+
+Exception
+
+Definitions
+
+Authorized user
+
+Chief commercial driver’s licensing official
+
+Clearinghouse
+
+Commercial motor vehicle operator
+
+Employer
+
+Medical review officer
+
+Secretary
+
+Service agent
+
+Testing program
+
+## Source Credit
+
+*(Added [Pub. L. 112–141, div. C, title II, § 32402(a)(2)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 795](https://www.govinfo.gov/link/statute/126/795).)*

@@ -3,9 +3,10 @@ title: "Section 5701 - Confidential nature of claims"
 usc_title: 38
 usc_section: "5701"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 5701"
-generated_at: "2026-03-30T02:55:53.522Z"
+generated_at: "2026-11-23T21:26:16.823Z"
+status: "active"
 ---
 
 # § 5701. Confidential nature of claims
@@ -73,3 +74,7 @@ generated_at: "2026-03-30T02:55:53.522Z"
 - **(l)**
   - **(1)** Under regulations the Secretary shall prescribe, the Secretary shall disclose information about a covered individual to a State controlled substance monitoring program, including a program approved by the Secretary of Health and Human Services under section 399O of the Public Health Service Act ( 42 U.S.C. 280g–3 ), to the extent necessary to prevent misuse and diversion of prescription medicines.
   - **(2)** In this subsection, a “covered individual” is an individual who is dispensed medication prescribed by an employee of the Department or by a non-Department provider authorized to prescribe such medication by the Department.
+
+## Source Credit
+
+*([Pub. L. 85–857](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1236](https://www.govinfo.gov/link/statute/72/1236), § 3301; [Pub. L. 87–671, § 2](https://www.govinfo.gov/link/plaw/87/public/671), Sept. 19, 1962, [76 Stat. 557](https://www.govinfo.gov/link/statute/76/557); [Pub. L. 91–24, § 11](https://www.govinfo.gov/link/plaw/91/public/24), June 11, 1969, [83 Stat. 34](https://www.govinfo.gov/link/statute/83/34); [Pub. L. 92–540, title IV, § 412](https://www.govinfo.gov/link/plaw/92/public/540), Oct. 24, 1972, [86 Stat. 1093](https://www.govinfo.gov/link/statute/86/1093); [Pub. L. 94–321, § 1(a)](https://www.govinfo.gov/link/plaw/94/public/321), June 29, 1976, [90 Stat. 713](https://www.govinfo.gov/link/statute/90/713); [Pub. L. 94–581, title II, § 210(b)](https://www.govinfo.gov/link/plaw/94/public/581), Oct. 21, 1976, [90 Stat. 2863](https://www.govinfo.gov/link/statute/90/2863); [Pub. L. 96–466, title VI, § 606](https://www.govinfo.gov/link/plaw/96/public/466), Oct. 17, 1980, [94 Stat. 2212](https://www.govinfo.gov/link/statute/94/2212); [Pub. L. 101–94, title III, § 302(a)](https://www.govinfo.gov/link/plaw/101/public/94), Aug. 16, 1989, [103 Stat. 628](https://www.govinfo.gov/link/statute/103/628); renumbered § 5701 and amended [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), (d)(1), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238), 239; [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 2(c)(6), 4(a)(1), (2)(A)(xi), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, [105 Stat. 402–406](https://www.govinfo.gov/link/statute/105/402); [Pub. L. 107–14, § 8(a)(13)](https://www.govinfo.gov/link/plaw/107/public/14), June 5, 2001, [115 Stat. 35](https://www.govinfo.gov/link/statute/115/35); [Pub. L. 109–461, title II, § 204(a)](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3411](https://www.govinfo.gov/link/statute/120/3411); [Pub. L. 112–74, div. H, title II, § 230(a)](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 1159](https://www.govinfo.gov/link/statute/125/1159); [Pub. L. 114–198, title IX, § 914](https://www.govinfo.gov/link/plaw/114/public/198), July 22, 2016, [130 Stat. 765](https://www.govinfo.gov/link/statute/130/765); [Pub. L. 114–223, div. A, title II, § 246](https://www.govinfo.gov/link/plaw/114/public/223), Sept. 29, 2016, [130 Stat. 884](https://www.govinfo.gov/link/statute/130/884); [Pub. L. 115–55, § 2(u)(2)](https://www.govinfo.gov/link/plaw/115/public/55), Aug. 23, 2017, [131 Stat. 1113](https://www.govinfo.gov/link/statute/131/1113); [Pub. L. 115–86, § 2](https://www.govinfo.gov/link/plaw/115/public/86), Nov. 21, 2017, [131 Stat. 1276](https://www.govinfo.gov/link/statute/131/1276).)*

@@ -3,9 +3,10 @@ title: "Section 4164 - Performance reports"
 usc_title: 25
 usc_section: "4164"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4164"
-generated_at: "2026-03-30T02:54:52.860Z"
+generated_at: "2026-11-23T21:25:54.710Z"
+status: "active"
 ---
 
 # § 4164. Performance reports
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:52.860Z"
   - **(3)** indicate the programmatic accomplishments of the recipient.
 - **(c)** The Secretary shall establish dates for submission of reports under this section, and review such reports and make such recommendations as the Secretary considers appropriate to carry out the purposes of this chapter.
 - **(d)** A recipient preparing a report under this section shall make the report publicly available to the citizens in the jurisdiction of the recipient in sufficient time to permit such citizens to comment on such report prior to its submission to the Secretary, and in such manner and at such times as the recipient may determine. The report shall include a summary of any comments received by the grant beneficiary or recipient from citizens in its jurisdiction regarding its program.
+
+## Source Credit
+
+*([Pub. L. 104–330, title IV, § 404](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4040](https://www.govinfo.gov/link/statute/110/4040); [Pub. L. 110–411, title IV, § 403](https://www.govinfo.gov/link/plaw/110/public/411), Oct. 14, 2008, [122 Stat. 4330](https://www.govinfo.gov/link/statute/122/4330).)*

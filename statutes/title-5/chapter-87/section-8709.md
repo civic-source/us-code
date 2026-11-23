@@ -3,9 +3,10 @@ title: "Section 8709 - Insurance policies"
 usc_title: 5
 usc_section: "8709"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8709"
-generated_at: "2026-03-30T02:52:56.065Z"
+generated_at: "2026-11-23T21:25:23.444Z"
+status: "active"
 ---
 
 # § 8709. Insurance policies
@@ -18,3 +19,20 @@ generated_at: "2026-03-30T02:52:56.065Z"
 - **(d)**
   - **(1)** The provisions of any contract under this chapter which relate to the nature or extent of coverage or benefits (including payments with respect to benefits) shall supersede and preempt any law of any State or political subdivision thereof, or any regulation issued thereunder, which relates to group life insurance to the extent that the law or regulation is inconsistent with the contractual provisions.
   - **(2)** For the purpose of this section, “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and a territory or possession of the United States.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 2096 (less (c)–(e)). | Aug. 17, 1954, ch. 752, § 7 (less (c)–(e)), 68 Stat. 739 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 2096
+
+Aug. 17, 1954, ch. 752, § 7
+
+68 Stat. 739
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 596](https://www.govinfo.gov/link/statute/80/596); [Pub. L. 95–454, title IX, § 906(a)(2)](https://www.govinfo.gov/link/plaw/95/public/454), (3), Oct. 13, 1978, [92 Stat. 1224](https://www.govinfo.gov/link/statute/92/1224); [Pub. L. 96–427, § 5(a)](https://www.govinfo.gov/link/plaw/96/public/427), Oct. 10, 1980, [94 Stat. 1834](https://www.govinfo.gov/link/statute/94/1834); [Pub. L. 111–350, § 5(a)(11)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3841](https://www.govinfo.gov/link/statute/124/3841).)*

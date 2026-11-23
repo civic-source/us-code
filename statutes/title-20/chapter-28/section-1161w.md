@@ -3,9 +3,10 @@ title: "Section 1161w - Path to success"
 usc_title: 20
 usc_section: "1161w"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1161w"
-generated_at: "2026-03-30T02:54:48.155Z"
+generated_at: "2026-11-23T21:25:47.286Z"
+status: "active"
 ---
 
 # § 1161w. Path to success
@@ -67,3 +68,7 @@ generated_at: "2026-03-30T02:54:48.155Z"
     - **(C)** has served or is serving a period of detention in a juvenile detention center or secure juvenile justice residential facility for such offense.
   - **(5)** The term “guidance counselor” means an individual who works with at-risk youth on a one-on-one basis, to establish a supportive relationship with such at-risk youth and to provide such at-risk youth with academic assistance and exposure to new experiences that enhance their ability to become responsible citizens.
 - **(g)** There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VIII, § 892](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title VIII, § 801](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3436](https://www.govinfo.gov/link/statute/122/3436).)*

@@ -3,9 +3,10 @@ title: "Section 2311 - Agreements with States"
 usc_title: 19
 usc_section: "2311"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2311"
-generated_at: "2026-03-30T02:54:24.670Z"
+generated_at: "2026-11-23T21:25:42.789Z"
+status: "active"
 ---
 
 # § 2311. Agreements with States
@@ -21,3 +22,9 @@ generated_at: "2026-03-30T02:54:24.670Z"
   - **(3)** advise each adversely affected worker to apply for training under section 2296(a) of this title before, or at the same time, the worker applies for trade readjustment allowances under division I of subpart B, and
   - **(4)** as soon as practicable, interview the adversely affected worker regarding suitable training opportunities available to the worker under section 2296 of this title and review such opportunities with the worker.
 - **(g)** In order to promote the coordination of workforce investment activities in each State with activities carried out under this part, any agreement entered into under this section shall provide that the State shall submit to the Secretary, in such form as the Secretary may require, the description and information described in paragraphs (8) and (14) of section 112(b) of the Workforce Investment Act of 1998. 1
+
+“The amendment made by paragraph (1) [amending this section] shall—
+
+## Source Credit
+
+*([Pub. L. 93–618, title II, § 239](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 2024](https://www.govinfo.gov/link/statute/88/2024); [Pub. L. 97–35, title XXV, § 2513(d)(6)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 889](https://www.govinfo.gov/link/statute/95/889); [Pub. L. 99–272, title XIII](https://www.govinfo.gov/link/plaw/99/public/272), §§ 13003(a)(3), 13004(c), Apr. 7, 1986, [100 Stat. 301](https://www.govinfo.gov/link/statute/100/301), 303; [Pub. L. 100–418, title I](https://www.govinfo.gov/link/plaw/100/public/418), §§ 1423(a)(4), 1424(d)(1)(B), (2), Aug. 23, 1988, [102 Stat. 1246](https://www.govinfo.gov/link/statute/102/1246), 1250; [Pub. L. 105–220, title III, § 321](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1087](https://www.govinfo.gov/link/statute/112/1087); [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(14)(B), (f)(11)(B)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–421, 2681–431; [Pub. L. 111–5, div. B, title I](https://www.govinfo.gov/link/plaw/111/public/5), §§ 1852, 1853, Feb. 17, 2009, [123 Stat. 390](https://www.govinfo.gov/link/statute/123/390), 392; [Pub. L. 112–40, title II](https://www.govinfo.gov/link/plaw/112/public/40), §§ 201(b), (c), 216(a)(1), Oct. 21, 2011, [125 Stat. 403](https://www.govinfo.gov/link/statute/125/403), 407; [Pub. L. 113–128, title V, § 512(hh)(4)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1721](https://www.govinfo.gov/link/statute/128/1721); [Pub. L. 114–27, title IV](https://www.govinfo.gov/link/plaw/114/public/27), §§ 402(b), (c), 404(a), June 29, 2015, [129 Stat. 374](https://www.govinfo.gov/link/statute/129/374).)*

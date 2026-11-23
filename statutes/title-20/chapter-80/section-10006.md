@@ -3,9 +3,10 @@ title: "Section 10006 - State incentive grants"
 usc_title: 20
 usc_section: "10006"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 10006"
-generated_at: "2026-03-30T02:54:48.233Z"
+generated_at: "2026-11-23T21:25:47.685Z"
+status: "active"
 ---
 
 # § 10006. State incentive grants
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:48.233Z"
 - **(c)**
   - **(1)** Each State receiving a grant under this section shall use at least 50 percent of the grant to provide local educational agencies in the State with subgrants based on their relative shares of funding under part A of title I of the ESEA ( 20 U.S.C. 6311 et seq.) for the most recent year.
   - **(2)** Paragraph (1) does not apply to grants made by the Secretary to consortia of States to develop academic assessments that are aligned with academic standards, or to a State or States for improving early childhood care and education except that such a State may use its grant funds to make subgrants to public or private agencies and organizations for activities consistent with the purposes of the grant.
+
+## Source Credit
+
+*([Pub. L. 111–5, div. A, title XIV, § 14006](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 283](https://www.govinfo.gov/link/statute/123/283); [Pub. L. 111–117, div. D, title III, § 310](https://www.govinfo.gov/link/plaw/111/public/117), Dec. 16, 2009, [123 Stat. 3272](https://www.govinfo.gov/link/statute/123/3272); [Pub. L. 112–10, div. B, title VIII, § 1832(b)(2)](https://www.govinfo.gov/link/plaw/112/public/10), Apr. 15, 2011, [125 Stat. 164](https://www.govinfo.gov/link/statute/125/164); [Pub. L. 112–74, div. F, title III, § 308](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 1100](https://www.govinfo.gov/link/statute/125/1100).)*

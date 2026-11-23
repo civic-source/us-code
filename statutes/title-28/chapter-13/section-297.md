@@ -3,12 +3,17 @@ title: "Section 297 - Assignment of judges to courts of the freely associated co
 usc_title: 28
 usc_section: "297"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 297"
-generated_at: "2026-03-30T02:55:30.127Z"
+generated_at: "2026-11-23T21:26:01.034Z"
+status: "active"
 ---
 
 # § 297. Assignment of judges to courts of the freely associated compact states
 
 - **(a)** The Chief Justice or the chief judge of the United States Court of Appeals for the Ninth Circuit may assign any circuit, district, magistrate, or territorial judge of a court of the Ninth Circuit, with the consent of the judge so assigned, to serve temporarily as a judge of any duly constituted court of the freely associated compact states whenever an official duly authorized by the laws of the respective compact state requests such assignment and such assignment is necessary for the proper dispatch of the business of the respective court.
 - **(b)** The Congress consents to the acceptance and retention by any judge so authorized of reimbursement from the countries referred to in subsection (a) of all necessary travel expenses, including transportation, and of subsistence, or of a reasonable per diem allowance in lieu of subsistence. The judge shall report to the Administrative Office of the United States Courts any amount received pursuant to this subsection.
+
+## Source Credit
+
+*(Added [Pub. L. 100–702, title X, § 1022(1)](https://www.govinfo.gov/link/plaw/100/public/702), Nov. 19, 1988, [102 Stat. 4672](https://www.govinfo.gov/link/statute/102/4672); amended [Pub. L. 112–149, § 3](https://www.govinfo.gov/link/plaw/112/public/149), July 26, 2012, [126 Stat. 1145](https://www.govinfo.gov/link/statute/126/1145).)*

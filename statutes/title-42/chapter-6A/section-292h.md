@@ -3,9 +3,10 @@ title: "Section 292h - Office for Health Education Assistance Loan Default Reduc
 usc_title: 42
 usc_section: "292h"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 292h"
-generated_at: "2026-03-30T02:56:10.773Z"
+generated_at: "2026-11-23T21:26:30.618Z"
+status: "active"
 ---
 
 # § 292h. Office for Health Education Assistance Loan Default Reduction
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:10.773Z"
   - **(1)** compile, and publish in the Federal Register, a list of the borrowers who are in default under this subpart; and
   - **(2)** send the report and notices of default with respect to these borrowers to relevant Federal agencies and to schools, school associations, professional and specialty associations, State licensing boards, hospitals with which such borrowers may be associated, and any other relevant organizations.
 - **(d)** In the case of amounts reserved under section 292i(a)(2)(B) of this title for obligation under this subsection, the Secretary may obligate the amounts for the purpose of administering the Office, including 7 full-time equivalent employment positions for such Office. With respect to such purpose, amounts made available under the preceding sentence are in addition to amounts made available to the Health Resources and Services Administration for program management for the fiscal year involved. With respect to such employment positions, the positions are in addition to the number of full-time equivalent employment positions that otherwise is authorized for the Department of Health and Human Services for the fiscal year involved.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 709, as added [Pub. L. 102–408, title I, § 102](https://www.govinfo.gov/link/plaw/102/public/408), Oct. 13, 1992, [106 Stat. 2006](https://www.govinfo.gov/link/statute/106/2006); amended [Pub. L. 105–392, title I, § 141(b)](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3579](https://www.govinfo.gov/link/statute/112/3579).)*

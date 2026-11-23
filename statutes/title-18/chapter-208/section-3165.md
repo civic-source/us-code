@@ -3,9 +3,10 @@ title: "Section 3165 - District plans—generally"
 usc_title: 18
 usc_section: "3165"
 chapter: 208
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3165"
-generated_at: "2026-03-30T02:54:16.513Z"
+generated_at: "2026-11-23T21:25:44.184Z"
+status: "active"
 ---
 
 # § 3165. District plans—generally
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:16.513Z"
   - **(2)** Prior to the expiration of the thirty-six calendar month period following July 1, 1975 , each United States district court shall prepare and submit a plan in accordance with subsections (a) through (d) above to govern the trial or other disposition of offenses within the jurisdiction of such court during the fourth and fifth twelve-calendar-month periods following the effective date of subsection 3161(b) and subsection 3161(c).
   - **(3)** Not later than June 30, 1980 , each United States district court with respect to which implementation has not been ordered under section 3174(c) shall prepare and submit a plan in accordance with subsections (a) through (d) to govern the trial or other disposition of offenses within the jurisdiction of such court during the sixth and subsequent twelve-calendar-month periods following the effective date of subsection 3161(b) and subsection 3161(c) in effect prior to the date of enactment of this paragraph.
 - **(f)** Plans adopted pursuant to this section shall, upon adoption, and recommendations of the district planning group shall, upon completion, become public documents.
+
+## Source Credit
+
+*(Added [Pub. L. 93–619, title I, § 101](https://www.govinfo.gov/link/plaw/93/public/619), Jan. 3, 1975, [88 Stat. 2081](https://www.govinfo.gov/link/statute/88/2081); amended [Pub. L. 96–43, § 8](https://www.govinfo.gov/link/plaw/96/public/43), Aug. 2, 1979, [93 Stat. 329](https://www.govinfo.gov/link/statute/93/329); [Pub. L. 101–647, title XXXV, § 3577](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4929](https://www.govinfo.gov/link/statute/104/4929); [Pub. L. 101–650, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117).)*

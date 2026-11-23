@@ -3,9 +3,10 @@ title: "Section 16298d - Carbon removal"
 usc_title: 42
 usc_section: "16298d"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16298d"
-generated_at: "2026-03-30T02:56:11.480Z"
+generated_at: "2026-11-23T21:26:33.729Z"
+status: "active"
 ---
 
 # § 16298d. Carbon removal
@@ -124,3 +125,17 @@ generated_at: "2026-03-30T02:56:11.480Z"
   - **(3)** $66,150,000 for fiscal year 2023;
   - **(4)** $69,458,000 for fiscal year 2024; and
   - **(5)** $72,930,000 for fiscal year 2025.
+
+(aa) be operated on a demonstration scale; and
+
+(bb) have the potential to achieve significant reduction in the level of carbon dioxide in the atmosphere;
+
+(aa) $180 for qualified carbon dioxide captured and stored in saline storage formations;
+
+(bb) a lesser amount, as determined by the Secretary, for qualified carbon dioxide captured and stored in conjunction with enhanced oil recovery operations; or
+
+(cc) a lesser amount, as determined by the Secretary, for qualified carbon dioxide captured and utilized in any activity consistent with section 45Q(f)(5) of title 26 .
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 969D](https://www.govinfo.gov/link/plaw/109/public/58), as added [Pub. L. 116–260, div. Z, title V, § 5001(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2547](https://www.govinfo.gov/link/statute/134/2547); amended [Pub. L. 117–58, div. D, title III, § 40308(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1003](https://www.govinfo.gov/link/statute/135/1003).)*

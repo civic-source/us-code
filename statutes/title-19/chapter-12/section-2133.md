@@ -3,9 +3,10 @@ title: "Section 2133 - Compensation authority"
 usc_title: 19
 usc_section: "2133"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2133"
-generated_at: "2026-03-30T02:54:24.664Z"
+generated_at: "2026-11-23T21:25:42.773Z"
+status: "active"
 ---
 
 # § 2133. Compensation authority
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:24.664Z"
 - **(c)** Before entering into any trade agreement under this section with any foreign country or instrumentality, the President shall consider whether such country or instrumentality has violated trade concessions of benefit to the United States and such violation has not been adequately offset by the action of the United States or by such country or instrumentality.
 - **(d)** Notwithstanding the provisions of subsection (a), the authority delegated under section 2902 of this title shall be used for the purpose of granting new concessions as compensation within the meaning of this section until such authority terminates.
 - **(e)** The provisions of this section shall apply by reason of action taken under subchapter III only if the President determines that action authorized under this section is necessary or appropriate to meet the international obligations of the United States.
+
+## Source Credit
+
+*([Pub. L. 93–618, title I, § 123](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 1989](https://www.govinfo.gov/link/statute/88/1989); [Pub. L. 100–418, title I](https://www.govinfo.gov/link/plaw/100/public/418), §§ 1104, 1401(b)(1)(A), Aug. 23, 1988, [102 Stat. 1132](https://www.govinfo.gov/link/statute/102/1132), 1239; [Pub. L. 106–286, div. A, title I, § 104](https://www.govinfo.gov/link/plaw/106/public/286), Oct. 10, 2000, [114 Stat. 891](https://www.govinfo.gov/link/statute/114/891).)*

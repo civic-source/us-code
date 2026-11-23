@@ -3,9 +3,10 @@ title: "Section 6905 - Allocation of assistance; subgrants"
 usc_title: 15
 usc_section: "6905"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6905"
-generated_at: "2026-03-30T02:54:08.217Z"
+generated_at: "2026-11-23T21:25:40.036Z"
+status: "active"
 ---
 
 # § 6905. Allocation of assistance; subgrants
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.217Z"
   - **(2)** Not more than 7.5 percent of assistance received by a qualified organization under this chapter may be used for administrative expenses in connection with the making of subgrants under paragraph (1).
 - **(d)** In making grants under this chapter, the Administrator shall ensure that grant recipients include both large and small microenterprise organizations, serving urban, rural, and Indian tribal communities serving diverse populations.
 - **(e)** In making grants under this chapter, the Administrator shall ensure that any application made by a qualified organization that is a participant in the program established under section 636(m) of this title does not receive preferential consideration over applications from other qualified organizations that are not participants in such program.
+
+## Source Credit
+
+*([Pub. L. 103–325, title I, § 176](https://www.govinfo.gov/link/plaw/103/public/325), as added [Pub. L. 106–102, title VII, § 725](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1473](https://www.govinfo.gov/link/statute/113/1473).)*

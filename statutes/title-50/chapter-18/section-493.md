@@ -3,12 +3,17 @@ title: "Section 493 - Authorization of appropriations"
 usc_title: 50
 usc_section: "493"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 493"
-generated_at: "2026-03-30T02:56:26.200Z"
+generated_at: "2026-11-23T21:26:38.906Z"
+status: "active"
 ---
 
 # § 493. Authorization of appropriations
 
 There is authorized to be appropriated, out of any moneys in the Treasury of the United States not otherwise appropriated, such sums as may be necessary to carry out the purposes of this chapter, and when so specified in an appropriation Act such amounts shall remain available until expended.
 
+
+## Source Credit
+
+*(Mar. 30, 1949, ch. 41, § 3, [63 Stat. 18](https://www.govinfo.gov/link/statute/63/18).)*

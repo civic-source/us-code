@@ -3,9 +3,10 @@ title: "Section 12108 - Authorization of appropriations"
 usc_title: 34
 usc_section: "12108"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 12108"
-generated_at: "2026-03-30T02:55:33.282Z"
+generated_at: "2026-11-23T21:26:09.720Z"
+status: "active"
 ---
 
 # § 12108. Authorization of appropriations
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:33.282Z"
     - **(D)** data collection and improvement of information systems relating to the confinement of violent offenders and other sentencing and correctional matters.
   - **(4)** Funds appropriated pursuant to this section during any fiscal year shall remain available until expended. Funds obligated, but subsequently unspent and deobligated, may remain available, to the extent as may 2 2 So in original. Probably should be followed by “be”. provided in appropriations Acts, for the purpose described in section 12102(a)(4) of this title for any subsequent fiscal year. The further obligation of such funds by an official for such purpose shall not be delayed, directly or indirectly, in any manner by any officer or employee in the executive branch.
   - **(5)** The Federal share of a grant received under this part may not exceed 90 percent of the costs of a proposal as described in an application approved under this part.
+
+## Source Credit
+
+*([Pub. L. 103–322, title II, § 20108](https://www.govinfo.gov/link/plaw/103/public/322), as added [Pub. L. 104–134, title I, § 101[(a)]](https://www.govinfo.gov/link/plaw/104/public/134) [title I, § 114(a)], Apr. 26, 1996, [110 Stat. 1321](https://www.govinfo.gov/link/statute/110/1321), 1321–19; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327); amended [Pub. L. 110–199, title I, § 104(b)](https://www.govinfo.gov/link/plaw/110/public/199), Apr. 9, 2008, [122 Stat. 669](https://www.govinfo.gov/link/statute/122/669).)*

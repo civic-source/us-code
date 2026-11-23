@@ -3,9 +3,10 @@ title: "Section 12601 - Establishment of the National Service Trust"
 usc_title: 42
 usc_section: "12601"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12601"
-generated_at: "2026-03-30T02:56:11.419Z"
+generated_at: "2026-11-23T21:26:33.497Z"
+status: "active"
 ---
 
 # § 12601. Establishment of the National Service Trust
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.419Z"
     - **(A)** has been reduced pursuant to section 12603(c) of this title ; or
     - **(B)** has lapsed pursuant to section 12602(d) of this title ; and
   - **(4)** estimate the number of additional approved national service positions, additional approved summer of service positions, and additional approved silver scholar positions that the Corporation will be able to make available on the basis of any accumulated surplus in the Trust above the amount required to provide national service educational awards, summer of service educational awards, or silver scholar awards to individuals identified under paragraph (2), including any amounts available as a result of the circumstances referred to in paragraph (3).
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 145](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 103–82, title I, § 102(a)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 816](https://www.govinfo.gov/link/statute/107/816); amended [Pub. L. 111–13, title I, § 1401(b)](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1512](https://www.govinfo.gov/link/statute/123/1512).)*

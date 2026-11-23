@@ -3,9 +3,10 @@ title: "Section 27d - Administration of the predominance test"
 usc_title: 7
 usc_section: "27d"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 27d"
-generated_at: "2026-03-30T02:53:42.251Z"
+generated_at: "2026-11-23T21:25:27.870Z"
+status: "active"
 ---
 
 # § 27d. Administration of the predominance test
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:42.251Z"
     - **(B)** making the provision or provisions of the Commodity Exchange Act [ 7 U.S.C. 1 et seq.] at issue applicable to the subject instrument is appropriate in light of the history, purpose, and extent of regulation under such Act, sections 27 to 27f of this title, and under the appropriate banking laws, giving deference neither to the views of the Commodity Futures Trading Commission nor the Board of Governors of the Federal Reserve System.
   - **(5)** The filing of a petition by the Board pursuant to paragraph (1) shall operate as a judicial stay, until the date on which the determination of the court is final (including any appeal of the determination).
   - **(6)** Any aggrieved party may seek judicial review pursuant to section 6(c) of the Commodity Exchange Act [ 7 U.S.C. 9 ] of a determination or rulemaking by the Commodity Futures Trading Commission under this section.
+
+## Source Credit
+
+*([Pub. L. 106–554, § 1(a)(5) [title IV, § 406]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–459.)*

@@ -3,9 +3,10 @@ title: "Section 1112 - Authorization of Visible Intermodal Prevention and Respon
 usc_title: 6
 usc_section: "1112"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1112"
-generated_at: "2026-03-30T02:53:09.503Z"
+generated_at: "2026-11-23T21:25:25.862Z"
+status: "active"
 ---
 
 # § 1112. Authorization of Visible Intermodal Prevention and Response teams
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:53:09.503Z"
     - **(B)** in nonsterile areas.
 - **(b)** Not later than 1 year after October 5, 2018 , the Administrator shall develop and implement a system of qualitative performance measures and objectives by which to assess the roles, activities, and effectiveness of VIPR team operations on an ongoing basis, including a mechanism through which the transportation entities referred to in subsection (a)(4) may submit feedback on VIPR team operations involving their systems or facilities.
 - **(c)** Not later than 1 year after October 5, 2018 , the Administrator shall develop and implement a plan for ensuring the interoperability of communications among VIPR team participants and between VIPR teams and any transportation entities with systems or facilities that are involved in VIPR team operations. Such plan shall include an analysis of the costs and resources required to carry out such plan.
+
+In general
+
+Annex
+
+Definition of vipr team
+
+## Source Credit
+
+*([Pub. L. 110–53, title XIII, § 1303](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 392](https://www.govinfo.gov/link/statute/121/392); [Pub. L. 114–190, title III, § 3601](https://www.govinfo.gov/link/plaw/114/public/190), July 15, 2016, [130 Stat. 664](https://www.govinfo.gov/link/statute/130/664); [Pub. L. 115–254, div. K, title I](https://www.govinfo.gov/link/plaw/115/public/254), §§ 1930(b), 1968(b), Oct. 5, 2018, [132 Stat. 3569](https://www.govinfo.gov/link/statute/132/3569), 3608.)*

@@ -3,9 +3,10 @@ title: "Section 70508 - Operation of submersible vessel or semi-submersible vess
 usc_title: 46
 usc_section: "70508"
 chapter: 705
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 70508"
-generated_at: "2026-03-30T02:56:15.588Z"
+generated_at: "2026-11-23T21:26:37.366Z"
+status: "active"
 ---
 
 # § 70508. Operation of submersible vessel or semi-submersible vessel without nationality
@@ -23,3 +24,19 @@ generated_at: "2026-03-30T02:56:15.588Z"
     - **(B)** a certificate of classification issued by the vessel’s classification society upon completion of relevant classification surveys and valid at the time of the offense; or
     - **(C)** government documents evidencing licensure, regulation, or registration for research or exploration.
 - **(d)** A person violating this section shall be liable to the United States for a civil penalty of not more than $1,000,000.
+
+In General
+
+Evidence of Intent To Evade Detection
+
+Defenses.—
+
+In general
+
+Production of documents
+
+Civil Penalty
+
+## Source Credit
+
+*(Added [Pub. L. 110–407, title II, § 202(a)](https://www.govinfo.gov/link/plaw/110/public/407), Oct. 13, 2008, [122 Stat. 4299](https://www.govinfo.gov/link/statute/122/4299).)*

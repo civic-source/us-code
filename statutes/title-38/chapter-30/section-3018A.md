@@ -3,9 +3,10 @@ title: "Section 3018A - Opportunity for certain active-duty personnel to enroll 
 usc_title: 38
 usc_section: "3018A"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3018A"
-generated_at: "2026-03-30T02:55:53.499Z"
+generated_at: "2026-11-23T21:26:16.716Z"
+status: "active"
 ---
 
 # § 3018A. Opportunity for certain active-duty personnel to enroll before being involuntarily separated from service
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:53.499Z"
     - **(A)** as provided in section 3223(b) of this title , to the individual the unused contributions made by the individual to the Post-Vietnam Era Veterans Education Account established pursuant to section 3222(a) of this title ; and
     - **(B)** to the Secretary of Defense the unused contributions (other than contributions made under section 3222(c) of this title ) made by such Secretary to the Account on behalf of such individual.
   - **(3)** Any contribution made by the Secretary of Defense to the Post-Vietnam Era Veterans Education Account pursuant to subsection (c) of section 3222 of this title on behalf of any individual referred to in paragraph (1) shall remain in such Account to make payments of benefits to such individual under section 3015(f) of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 101–510, div. A, title V, § 561(a)(1)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1571](https://www.govinfo.gov/link/statute/104/1571), § 1418A; amended [Pub. L. 102–25, title VII, § 705(c)(1)](https://www.govinfo.gov/link/plaw/102/public/25), Apr. 6, 1991, [105 Stat. 120](https://www.govinfo.gov/link/statute/105/120); renumbered § 3018A and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 103–446, title XII, § 1201(d)(4)](https://www.govinfo.gov/link/plaw/103/public/446), (i)(4), Nov. 2, 1994, [108 Stat. 4684](https://www.govinfo.gov/link/statute/108/4684), 4688; [Pub. L. 105–368, title II, § 203(a)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3326](https://www.govinfo.gov/link/statute/112/3326); [Pub. L. 107–296, title XVII, § 1704(d)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2315](https://www.govinfo.gov/link/statute/116/2315); [Pub. L. 109–233, title V, § 503(5)](https://www.govinfo.gov/link/plaw/109/public/233), June 15, 2006, [120 Stat. 416](https://www.govinfo.gov/link/statute/120/416).)*

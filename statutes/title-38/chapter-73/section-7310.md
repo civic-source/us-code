@@ -3,9 +3,10 @@ title: "Section 7310 - Office of Women’s Health"
 usc_title: 38
 usc_section: "7310"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7310"
-generated_at: "2026-03-30T02:55:53.527Z"
+generated_at: "2026-11-23T21:26:16.850Z"
+status: "active"
 ---
 
 # § 7310. Office of Women’s Health
@@ -45,3 +46,19 @@ generated_at: "2026-03-30T02:55:53.527Z"
   - **(1)** The term “appropriate congressional committees” has the meaning given that term in section 7310A(h) of this title .
   - **(2)** The term “facility of the Department” has the meaning given the term “facilities of the Department” in section 1701(3) of this title .
   - **(3)** The term “Veterans Equitable Resource Allocation system” means the resource allocation system established pursuant to section 429 of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1997 ( Public Law 104–204 ; 110 Stat. 2929 ).
+
+Establishment
+
+Functions
+
+Recommendations
+
+Standards of Care
+
+Outreach
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 116–315, title V, § 5101(b)(1)](https://www.govinfo.gov/link/plaw/116/public/315), Jan. 5, 2021, [134 Stat. 5022](https://www.govinfo.gov/link/statute/134/5022).)*

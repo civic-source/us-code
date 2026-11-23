@@ -1,14 +1,15 @@
 ---
-title: "Section 3319 - Alternative ranking and selection procedures"
+title: "Section 3319 - Competitive service; selection using category rating"
 usc_title: 5
 usc_section: "3319"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3319"
-generated_at: "2026-03-30T02:52:56.002Z"
+generated_at: "2026-11-23T21:25:23.150Z"
+status: "active"
 ---
 
-# § 3319. Alternative ranking and selection procedures
+# § 3319. Competitive service; selection using category rating
 
 - **(a)** The Office, in exercising its authority under section 3304, or an agency to which the Office has delegated examining authority under section 1104(a)(2), may establish category rating systems for evaluating applicants for positions in the competitive service, under 2 or more quality categories based on merit consistent with regulations prescribed by the Office of Personnel Management, rather than assigned individual numerical ratings.
 - **(b)** Within each quality category established under subsection (a), preference-eligibles shall be listed ahead of individuals who are not preference eligibles. For other than scientific and professional positions at GS–9 of the General Schedule (equivalent or higher), qualified preference-eligibles who have a compensable service-connected disability of 10 percent or more shall be listed in the highest quality category.
@@ -25,10 +26,36 @@ generated_at: "2026-03-30T02:52:56.002Z"
     - **(A)** provide notice of the available position to employees of the appointing authority employing the other appointing official;
     - **(B)** provide up to 10 business days for employees of the other appointing authority to apply for the position; and
     - **(C)** review the qualifications of employees submitting an application.
-  - **(6)** Nothing in this subsection limits any collective bargaining obligation of an agency under chapter 71.
-  - **(7)** Notwithstanding paragraphs (1) and (2), an appointing official may not pass over a preference eligible in the same category from which selection is made, unless the requirements of section 1 1 So in original. 3317(b) and 1 3318(c), as applicable, are satisfied.
+  - **(6)**
+    - **(A)** Notwithstanding paragraphs (1) and (2), an appointing official may not pass over a preference eligible in the same category from which selection is made, unless the requirements of sections 3317(b) and 3318(c), as applicable, are satisfied.
+    - **(B)** When a preference eligible, for reasons considered sufficient by the Director, or in the case of a preference eligible described in section 3318(c)(1), by the head of an agency, has been passed over in accordance with section 3318(c) for the same position, the appointing authority is not required to give further consideration to that preference eligible while selecting from the same list for a subsequent appointment to such position.
+    - **(C)** In the case of lists of eligibles issued from a standing register, when an appointing authority, for reasons considered sufficient by the Director or the head of an agency, has three times considered and passed over a preference eligible who was certified from a register, certification of the preference eligible for appointment may be discontinued. However, the preference eligible is entitled to advance notice of discontinuance of certification in accordance with regulations prescribed by the Director.
 - **(d)** Each agency that establishes a category rating system under this section shall submit in each of the 3 years following that establishment, a report to Congress on that system including information on—
   - **(1)** the number of employees hired under that system;
   - **(2)** the impact that system has had on the hiring of veterans and minorities, including those who are American Indian or Alaska Natives, Asian, Black or African American, and native Hawaiian or other Pacific Islanders; and
   - **(3)** the way in which managers were trained in the administration of that system.
 - **(e)** The Office of Personnel Management may prescribe such regulations as it considers necessary to carry out the provisions of this section.
+
+Selection.—
+
+In general
+
+Use by other appointing officials
+
+Applicability
+
+Requirements
+
+Internal notice
+
+Preference eligibles.—
+
+Satisfaction of certain requirements
+
+Further consideration not required
+
+List of eligibles issued from a standing register; discontinuation of certification
+
+## Source Credit
+
+*(Added [Pub. L. 107–296, title XIII, § 1312(a)(2)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2290](https://www.govinfo.gov/link/statute/116/2290); amended [Pub. L. 114–137, § 2(b)](https://www.govinfo.gov/link/plaw/114/public/137), Mar. 18, 2016, [130 Stat. 311](https://www.govinfo.gov/link/statute/130/311); [Pub. L. 115–232, div. A, title XI, § 1107(b)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2005](https://www.govinfo.gov/link/statute/132/2005).)*

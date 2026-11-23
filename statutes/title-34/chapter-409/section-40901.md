@@ -3,9 +3,10 @@ title: "Section 40901 - Establishment"
 usc_title: 34
 usc_section: "40901"
 chapter: 409
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 40901"
-generated_at: "2026-03-30T02:55:33.311Z"
+generated_at: "2026-11-23T21:26:09.839Z"
+status: "active"
 ---
 
 # § 40901. Establishment
@@ -89,3 +90,39 @@ generated_at: "2026-03-30T02:55:33.311Z"
   - **(3)** if there is cause for further investigation, as soon as possible, but in no case more than 10 business days, after the licensee contacts the system, notify the licensee whether—
     - **(A)** transfer of a firearm to the person would violate subsection (d) of such section 922; or
     - **(B)** receipt of a firearm by the person would violate subsection (g) or (n) of such section 922, or State, local, or Tribal law.
+
+In general
+
+Contents
+
+“Hereafter, none of the funds appropriated pursuant to this Act [div. B of Pub. L. 112–55 , see Tables for classification] or any other provision of law may be used for—
+
+Identification of Felons Ineligible To Purchase Handguns
+
+Report to Congress
+
+Additional Study of Other Persons Ineligible To Purchase Firearms
+
+Definitions
+
+Section
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 103–159, title I, § 103](https://www.govinfo.gov/link/plaw/103/public/159), Nov. 30, 1993, [107 Stat. 1541](https://www.govinfo.gov/link/statute/107/1541); [Pub. L. 103–322, title XXI, § 210603(b)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2074](https://www.govinfo.gov/link/statute/108/2074); [Pub. L. 104–294, title VI, § 603(h)](https://www.govinfo.gov/link/plaw/104/public/294), (i)(1), Oct. 11, 1996, [110 Stat. 3504](https://www.govinfo.gov/link/statute/110/3504); [Pub. L. 110–180, title I, § 101(a)](https://www.govinfo.gov/link/plaw/110/public/180), Jan. 8, 2008, [121 Stat. 2561](https://www.govinfo.gov/link/statute/121/2561); [Pub. L. 115–141, div. S, title VI, § 602](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1132](https://www.govinfo.gov/link/statute/132/1132); [Pub. L. 117–159, div. A, title II](https://www.govinfo.gov/link/plaw/117/public/159), §§ 12001(a)(2), (3), 12004(h)(1), June 25, 2022, [136 Stat. 1323](https://www.govinfo.gov/link/statute/136/1323), 1324, 1330.)*

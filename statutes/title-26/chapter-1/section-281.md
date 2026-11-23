@@ -3,9 +3,10 @@ title: "Section 281 - Terminal railroad corporations and their shareholders"
 usc_title: 26
 usc_section: "281"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 281"
-generated_at: "2026-03-30T02:55:27.663Z"
+generated_at: "2026-11-23T21:26:06.129Z"
+status: "active"
 ---
 
 # § 281. Terminal railroad corporations and their shareholders
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:27.663Z"
     - **(D)** from the United States in payment for facilities or services in connection with mail handling.
   - **(3)** The term “related terminal services” includes only services, and the use of facilities, taken into account in computing related terminal income.
 - **(e)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 87–870, § 1(a)](https://www.govinfo.gov/link/plaw/87/public/870), Oct. 23, 1962, [76 Stat. 1158](https://www.govinfo.gov/link/statute/76/1158); amended [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(a)(40), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1771](https://www.govinfo.gov/link/statute/90/1771), 1834; [Pub. L. 95–473, § 2(a)(2)(D)](https://www.govinfo.gov/link/plaw/95/public/473), (E), Oct. 17, 1978, [92 Stat. 1464](https://www.govinfo.gov/link/statute/92/1464); [Pub. L. 104–88, title III, § 304(b)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 943](https://www.govinfo.gov/link/statute/109/943).)*

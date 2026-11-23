@@ -3,9 +3,10 @@ title: "Section 2346 - Project administration"
 usc_title: 33
 usc_section: "2346"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2346"
-generated_at: "2026-03-30T02:55:41.127Z"
+generated_at: "2026-11-23T21:26:11.453Z"
+status: "active"
 ---
 
 # § 2346. Project administration
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:41.127Z"
 - **(b)**
   - **(1)** The Secretary shall provide to the Library of Congress a copy of each final feasibility study, final environmental impact statement, final reevaluation report, final post-authorization change report, record of decision, and report to Congress prepared by the Corps of Engineers.
   - **(2)** Each document described in paragraph (1) shall be made available to the public, and an electronic copy of each document shall be made permanently available to the public through the Internet.
+
+## Source Credit
+
+*([Pub. L. 110–114, title II, § 2041](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1100](https://www.govinfo.gov/link/statute/121/1100); [Pub. L. 114–322, title I, § 1136(b)](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1657](https://www.govinfo.gov/link/statute/130/1657).)*

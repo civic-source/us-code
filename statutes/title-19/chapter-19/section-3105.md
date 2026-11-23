@@ -3,9 +3,10 @@ title: "Section 3105 - Actions to be taken if no agreement obtained"
 usc_title: 19
 usc_section: "3105"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 3105"
-generated_at: "2026-03-30T02:54:24.688Z"
+generated_at: "2026-11-23T21:25:42.834Z"
+status: "active"
 ---
 
 # § 3105. Actions to be taken if no agreement obtained
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:24.688Z"
       - **(ii)** a statement detailing the reasons why an extension of such negotiating period is necessary.
 - **(d)** The President may modify or terminate any action taken under subsection (a) if, after taking into consideration the factors described in section 3103(b) of this title , the President determines that changed circumstances warrant such modification or termination.
 - **(e)** The President shall promptly inform the appropriate committees of the Congress of any action taken under subsection (a) or of the modification or termination of any such action under subsection (d).
+
+## Source Credit
+
+*([Pub. L. 100–418, title I, § 1376](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1220](https://www.govinfo.gov/link/statute/102/1220).)*

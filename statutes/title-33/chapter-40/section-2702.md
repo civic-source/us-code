@@ -3,9 +3,10 @@ title: "Section 2702 - Elements of liability"
 usc_title: 33
 usc_section: "2702"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2702"
-generated_at: "2026-03-30T02:55:41.130Z"
+generated_at: "2026-11-23T21:26:11.461Z"
+status: "active"
 ---
 
 # § 2702. Elements of liability
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:55:41.130Z"
   - **(2)**
     - **(A)** If the act or omission of a third party that causes an incident occurs in connection with a vessel or facility owned or operated by the third party, the liability of the third party shall be subject to the limits provided in section 2704 of this title as applied with respect to the vessel or facility.
     - **(B)** In any other case, the liability of a third party or parties shall not exceed the limitation which would have been applicable to the responsible party of the vessel or facility from which the discharge actually occurred if the responsible party were liable.
+
+## Source Credit
+
+*([Pub. L. 101–380, title I, § 1002](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 489](https://www.govinfo.gov/link/statute/104/489).)*

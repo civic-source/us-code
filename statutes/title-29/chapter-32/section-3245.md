@@ -3,9 +3,10 @@ title: "Section 3245 - Reports; recordkeeping; investigations"
 usc_title: 29
 usc_section: "3245"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3245"
-generated_at: "2026-03-30T02:55:18.760Z"
+generated_at: "2026-11-23T21:26:02.350Z"
+status: "active"
 ---
 
 # § 3245. Reports; recordkeeping; investigations
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:55:18.760Z"
   - **(1)** any income or profits earned, including such income or profits earned by subrecipients; and
   - **(2)** any costs incurred (such as stand-in costs) that are otherwise allowable except for funding limitations.
 - **(g)** In requiring entities to maintain records of costs by cost category under this subchapter, the Secretary shall require only that the costs be categorized as administrative or programmatic costs.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 185](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1594](https://www.govinfo.gov/link/statute/128/1594); [Pub. L. 117–286, § 4(b)(48)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4348](https://www.govinfo.gov/link/statute/136/4348).)*

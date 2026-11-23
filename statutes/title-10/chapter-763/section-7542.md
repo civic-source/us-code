@@ -3,9 +3,10 @@ title: "Section 7542 - Technical data packages for large-caliber cannon: prohibi
 usc_title: 10
 usc_section: "7542"
 chapter: 763
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 7542"
-generated_at: "2026-03-30T02:53:38.234Z"
+generated_at: "2026-11-23T21:25:32.868Z"
+status: "active"
 ---
 
 # § 7542. Technical data packages for large-caliber cannon: prohibition on transfers to foreign countries; exception
@@ -40,3 +41,23 @@ generated_at: "2026-03-30T02:53:38.234Z"
   - **(1)** The Secretary of the Army shall submit to Congress a notice of each agreement entered into under this section.
   - **(2)** The Secretary shall submit to Congress a semi-annual report on the operation of this section and of agreements entered into under this section.
 - **(h)** In this section, the term “arsenal” means a Government-owned, Government-operated defense plant that manufactures large-caliber cannon.
+
+General Rule
+
+Exception
+
+Coproduction Agreements
+
+Cooperative Project Agreements
+
+Licensing Fees and Royalties
+
+Transfers to Third Parties
+
+Notice and Reports to Congress
+
+Arsenal Defined
+
+## Source Credit
+
+*(Added [Pub. L. 99–500, § 101(c) [title IX, § 9036(b)(1)]](https://www.govinfo.gov/link/plaw/99/public/500), Oct. 18, 1986, [100 Stat. 1783–82](https://www.govinfo.gov/link/statute/100/1783), 1783–107, and [Pub. L. 99–591, § 101(c) [title IX, § 9036(b)(1)]](https://www.govinfo.gov/link/plaw/99/public/591), Oct. 30, 1986, [100 Stat. 3341–82](https://www.govinfo.gov/link/statute/100/3341), 3341–107, § 4542; [Pub. L. 99–661, div. A, title XII, § 1203(a)(1)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3968](https://www.govinfo.gov/link/statute/100/3968); amended [Pub. L. 101–189, div. A, title VIII, § 806](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1489](https://www.govinfo.gov/link/statute/103/1489); [Pub. L. 102–190, div. A, title X](https://www.govinfo.gov/link/plaw/102/public/190), §§ 1061(a)(24), 1086, Dec. 5, 1991, [105 Stat. 1473](https://www.govinfo.gov/link/statute/105/1473), 1483; renumbered § 7542, [Pub. L. 115–232, div. A, title VIII, § 808(d)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1839](https://www.govinfo.gov/link/statute/132/1839).)*

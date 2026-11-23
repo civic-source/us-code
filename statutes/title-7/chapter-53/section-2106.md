@@ -3,9 +3,10 @@ title: "Section 2106 - Required terms and conditions in orders"
 usc_title: 7
 usc_section: "2106"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2106"
-generated_at: "2026-03-30T02:53:42.376Z"
+generated_at: "2026-11-23T21:25:28.273Z"
+status: "active"
 ---
 
 # § 2106. Required terms and conditions in orders
@@ -37,3 +38,7 @@ Orders issued pursuant to this chapter shall contain the following terms and con
 - **(f)** Providing that the Cotton Board shall maintain such books and records and prepare and submit such reports from time to time, to the Secretary as he may prescribe, and for appropriate accounting by the Cotton Board with respect to the receipt and disbursement of all funds entrusted to it.
 - **(g)** Providing that the Cotton Board, with the approval of the Secretary, shall enter into contracts or agreements for the development and carrying out of the activities authorized under the order pursuant to sections 2105(a) and (b) of this title and for the payment of the costs thereof with funds collected pursuant to the order, with an organization or association whose governing body consists of cotton producers selected by the cotton producer organizations certified by the Secretary under section 2113 of this title , in such manner that the producers of each cotton-producing State will, to the extent practicable, have representation on the governing body of such organization in the proportion that the cotton marketed by the producers of such State bears to the total cotton marketed by the producers of all cotton-producing States, subject to adjustments to reflect lack of participation in the program by reason of refunds under section 2110 of this title . Any such contract or agreement shall provide that such contracting organization or association shall develop and submit annually to the Cotton Board, for the purpose of review and making recommendations to the Secretary, a program of research, advertising, and sales promotion projects, together with a budget, or budgets, which shall show the estimated cost to be incurred for such projects, and that any such projects shall become effective upon approval by the Secretary. Any such contract or agreement shall also provide that the contracting organization shall keep accurate records of all its transactions and make an annual report to the Cotton Board of activities carried out and an accounting for funds received and expended, and such other reports as the Secretary may require.
 - **(h)** Providing that no funds collected by the Cotton Board under the order shall in any manner be used for the purpose of influencing governmental policy or action, except as provided by subsection (a)(4) of this section.
+
+## Source Credit
+
+*([Pub. L. 89–502, § 7](https://www.govinfo.gov/link/plaw/89/public/502), July 13, 1966, [80 Stat. 281](https://www.govinfo.gov/link/statute/80/281); [Pub. L. 94–366](https://www.govinfo.gov/link/plaw/94/public/366), §§ 2, 3, July 14, 1976, [90 Stat. 991](https://www.govinfo.gov/link/statute/90/991), 992; [Pub. L. 101–624, title XIX, § 1992](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3909](https://www.govinfo.gov/link/statute/104/3909); [Pub. L. 102–237, title VIII, § 808(a)(1)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1883](https://www.govinfo.gov/link/statute/105/1883).)*

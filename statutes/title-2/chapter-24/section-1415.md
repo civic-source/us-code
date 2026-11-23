@@ -3,9 +3,10 @@ title: "Section 1415 - Payments"
 usc_title: 2
 usc_section: "1415"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1415"
-generated_at: "2026-03-30T02:53:04.813Z"
+generated_at: "2026-11-23T21:25:21.230Z"
+status: "active"
 ---
 
 # § 1415. Payments
@@ -63,3 +64,7 @@ generated_at: "2026-03-30T02:53:04.813Z"
   - **(1)** As soon as practicable after the Executive Director is made aware that a payment of an award or settlement under this chapter has been made from the account described in subsection (a) in connection with a claim alleging a violation of section 1311(a) or 1316(a) of this title by an employing office (other than an employing office of the House of Representatives or an employing office of the Senate), the Executive Director shall notify the head of the employing office that the payment has been made, and shall include in the notification a statement of the amount of the payment.
   - **(2)** Not later than 180 days after receiving a notification from the Executive Director under paragraph (1), the head of the employing office involved shall transfer to the account described in subsection (a), out of any funds available for operating expenses of the office, a payment equal to the amount specified in the notification.
   - **(3)** The head of an employing office shall transfer a payment under paragraph (2) in accordance with such timetable and procedures as may be established under regulations promulgated by the Office.
+
+## Source Credit
+
+*([Pub. L. 104–1, title IV, § 415](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 38](https://www.govinfo.gov/link/statute/109/38); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 113–76, div. I, title I, § 1101(a)](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 425](https://www.govinfo.gov/link/statute/128/425); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537); [Pub. L. 115–141, div. I, title I, § 153(a)(2)(E)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 786](https://www.govinfo.gov/link/statute/132/786); [Pub. L. 115–397, title I](https://www.govinfo.gov/link/plaw/115/public/397), §§ 111(a), 115(a), Dec. 21, 2018, [132 Stat. 5306](https://www.govinfo.gov/link/statute/132/5306), 5314.)*

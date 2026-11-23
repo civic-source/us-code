@@ -3,9 +3,10 @@ title: "Section 18940 - Dr. David Satcher Cybersecurity Education Grant Program"
 usc_title: 42
 usc_section: "18940"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18940"
-generated_at: "2026-03-30T02:56:11.533Z"
+generated_at: "2026-11-23T21:26:33.858Z"
+status: "active"
 ---
 
 # § 18940. Dr. David Satcher Cybersecurity Education Grant Program
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.533Z"
   - **(2)** five years after the effective date of this section, as provided in subsection (f), the Director shall prepare and submit to Congress a report on the status of cybersecurity education programming and capacity-building at institutions receiving grants under this section, including changes in the scale and scope of these programs, associated facilities, or in accreditation status, and on the educational and employment outcomes of students participating in cybersecurity programs that have received support under this section.
 - **(e)** The Director shall establish performance metrics for grants awarded under this section.
 - **(f)** This section shall take effect 1 year after August 9, 2022 .
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title II, § 10235](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1485](https://www.govinfo.gov/link/statute/136/1485).)*

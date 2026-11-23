@@ -3,12 +3,21 @@ title: "Section 417 - Prohibition of intimidation or reprisal"
 usc_title: 3
 usc_section: "417"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "3 U.S.C. § 417"
-generated_at: "2026-03-30T02:52:49.879Z"
+generated_at: "2026-11-23T21:25:20.111Z"
+status: "active"
 ---
 
 # § 417. Prohibition of intimidation or reprisal
 
 - **(a)** It shall be unlawful for an employing office to intimidate, take reprisal against, or otherwise discriminate against, any covered employee because the covered employee has opposed any practice made unlawful by this chapter, or because the covered employee has initiated proceedings, made a charge, or testified, assisted, or participated in any manner in a hearing or other proceeding under this chapter.
 - **(b)** A violation of subsection (a) may be remedied by any legal remedy available to redress the practice opposed by the covered employee or other violation of law as to which the covered employee initiated proceedings, made a charge, or engaged in other conduct protected under subsection (a).
+
+In General
+
+Remedy
+
+## Source Credit
+
+*(Added [Pub. L. 104–331, § 2(a)](https://www.govinfo.gov/link/plaw/104/public/331), Oct. 26, 1996, [110 Stat. 4061](https://www.govinfo.gov/link/statute/110/4061).)*

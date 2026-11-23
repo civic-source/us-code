@@ -3,9 +3,10 @@ title: "Section 2712 - Review of existing ordinances and contracts"
 usc_title: 25
 usc_section: "2712"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2712"
-generated_at: "2026-03-30T02:54:52.843Z"
+generated_at: "2026-11-23T21:25:54.675Z"
+status: "active"
 ---
 
 # § 2712. Review of existing ordinances and contracts
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:52.843Z"
   - **(1)** Within 180 days after the submission of a management contract, including all collateral agreements, pursuant to subsection (a), the Chairman shall subject such contract to the requirements and process of section 2711 of this title .
   - **(2)** If the Chairman determines that a management contract submitted under subsection (a), and the management contractor under such contract, meet the requirements of section 2711 of this title , the Chairman shall approve the management contract.
   - **(3)** If the Chairman determines that a contract submitted under subsection (a), or the management contractor under a contract submitted under subsection (a), does not meet the requirements of section 2711 of this title , the Chairman shall provide written notification to the parties to such contract of necessary modifications and the parties shall have not more than 120 days to come into compliance. If a management contract has been approved by the Secretary prior to October 17, 1988 , the parties shall have not more than 180 days after notification of necessary modifications to come into compliance.
+
+## Source Credit
+
+*([Pub. L. 100–497, § 13](https://www.govinfo.gov/link/plaw/100/public/497), Oct. 17, 1988, [102 Stat. 2481](https://www.govinfo.gov/link/statute/102/2481).)*

@@ -3,9 +3,10 @@ title: "Section 8312 - Administration and claims"
 usc_title: 7
 usc_section: "8312"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 8312"
-generated_at: "2026-03-30T02:53:42.474Z"
+generated_at: "2026-11-23T21:25:28.473Z"
+status: "active"
 ---
 
 # § 8312. Administration and claims
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.474Z"
 - **(b)**
   - **(1)** Except as provided in paragraph (2), the Secretary may pay a tort claim, in the manner authorized by the first paragraph of section 2672 of title 28 , if the claim arises outside the United States in connection with an activity authorized under this chapter.
   - **(2)** A claim may not be allowed under this subsection unless the claim is presented in writing to the Secretary not later than 2 years after the date on which the claim arises.
+
+## Source Credit
+
+*([Pub. L. 107–171, title X, § 10413](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 503](https://www.govinfo.gov/link/statute/116/503).)*

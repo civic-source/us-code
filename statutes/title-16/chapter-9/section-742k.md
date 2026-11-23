@@ -3,12 +3,17 @@ title: "Section 742k - Management and disposition of vessels and other property 
 usc_title: 16
 usc_section: "742k"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 742k"
-generated_at: "2026-03-30T02:54:22.904Z"
+generated_at: "2026-11-23T21:25:51.743Z"
+status: "active"
 ---
 
 # § 742k. Management and disposition of vessels and other property acquired and arising out of fishery loans or related type of activities
 
 For the purpose of facilitating administration of, and protecting the interest of the Government in, the fishery loan fund established by section 742c of this title and any related type of activities relating to fisheries for which the Department of the Interior is now or may hereafter be responsible, the Secretary of the Interior, notwithstanding any other provisions of law, may hereafter administer, complete, recondition, reconstruct, renovate, repair, maintain, operate, charter, assign, or sell upon such terms and conditions as he may deem most advantageous to the United States, any vessel, plant, or other property acquired by him on behalf of the United States and arising out of any fishery loan or any related type of activity by the Secretary of the Interior. The Secretary may use any of the applicable funds in each particular instance for the aforesaid purposes.
 
+
+## Source Credit
+
+*([Pub. L. 87–219](https://www.govinfo.gov/link/plaw/87/public/219), Sept. 13, 1961, [75 Stat. 493](https://www.govinfo.gov/link/statute/75/493).)*

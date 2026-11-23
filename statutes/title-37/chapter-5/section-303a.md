@@ -3,9 +3,10 @@ title: "Section 303a - Special pay: general provisions"
 usc_title: 37
 usc_section: "303a"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 303a"
-generated_at: "2026-03-30T02:55:44.051Z"
+generated_at: "2026-11-23T21:26:14.194Z"
+status: "active"
 ---
 
 # § 303a. Special pay: general provisions
@@ -50,3 +51,9 @@ generated_at: "2026-03-30T02:55:44.051Z"
       - **(ii)** to perform duty in a specified skill, with or without a specified qualification or credential;
       - **(iii)** to perform duty at a specified location; or
       - **(iv)** to perform duty for a specified period of time.
+
+Repayment of Unearned Portion of Bonuses and Other Benefits When Conditions of Payment not Met; Termination of Entitlement to Unpaid Amounts
+
+## Source Credit
+
+*(Added [Pub. L. 96–284, § 5(a)](https://www.govinfo.gov/link/plaw/96/public/284), June 28, 1980, [94 Stat. 592](https://www.govinfo.gov/link/statute/94/592); amended [Pub. L. 96–513, title V, § 506(6)](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2919](https://www.govinfo.gov/link/statute/94/2919); [Pub. L. 100–140, § 2(b)(1)](https://www.govinfo.gov/link/plaw/100/public/140), Oct. 26, 1987, [101 Stat. 831](https://www.govinfo.gov/link/statute/101/831); [Pub. L. 101–189, div. A, title VII](https://www.govinfo.gov/link/plaw/101/public/189), §§ 705(b), 706(b), Nov. 29, 1989, [103 Stat. 1472](https://www.govinfo.gov/link/statute/103/1472), 1473; [Pub. L. 101–510, div. A, title VI, § 611(d)](https://www.govinfo.gov/link/plaw/101/public/510), title XIII, § 1322(c)(2), title XIV, § 1484(c)(1), Nov. 5, 1990, [104 Stat. 1577](https://www.govinfo.gov/link/statute/104/1577), 1672, 1716; [Pub. L. 102–484, div. A, title X, § 1054(a)(3)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2502](https://www.govinfo.gov/link/statute/106/2502); [Pub. L. 104–106, div. A, title VI, § 614(b)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 361](https://www.govinfo.gov/link/statute/110/361); [Pub. L. 104–201, div. A, title VI, § 615(c)(3)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2546](https://www.govinfo.gov/link/statute/110/2546); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title VI, §§ 628(b), 634(a)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–155, 1654A–159; [Pub. L. 109–163, div. A, title VI, § 687(a)(1)](https://www.govinfo.gov/link/plaw/109/public/163), (e)(1), Jan. 6, 2006, [119 Stat. 3326](https://www.govinfo.gov/link/statute/119/3326), 3336; [Pub. L. 110–317, § 2(a)](https://www.govinfo.gov/link/plaw/110/public/317), Aug. 29, 2008, [122 Stat. 3526](https://www.govinfo.gov/link/statute/122/3526); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title VI, § 651(a), (b), Oct. 14, 2008, [122 Stat. 4495](https://www.govinfo.gov/link/statute/122/4495); [Pub. L. 111–84, div. A, title VI, § 617(a)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2354](https://www.govinfo.gov/link/statute/123/2354); [Pub. L. 111–383, div. A, title X, § 1075(c)(1)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4372](https://www.govinfo.gov/link/statute/124/4372).)*

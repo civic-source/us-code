@@ -3,9 +3,10 @@ title: "Section 2204 - Restrictions on access to Presidential records"
 usc_title: 44
 usc_section: "2204"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 2204"
-generated_at: "2026-03-30T02:55:56.294Z"
+generated_at: "2026-11-23T21:26:18.411Z"
+status: "active"
 ---
 
 # § 2204. Restrictions on access to Presidential records
@@ -34,3 +35,21 @@ generated_at: "2026-03-30T02:55:56.294Z"
 - **(d)** Upon the death or disability of a President or former President, any discretion or authority the President or former President may have had under this chapter, except section 2208, shall be exercised by the Archivist unless otherwise previously provided by the President or former President in a written notice to the Archivist.
 - **(e)** The United States District Court for the District of Columbia shall have jurisdiction over any action initiated by the former President asserting that a determination made by the Archivist violates the former President’s rights or privileges.
 - **(f)** The Archivist shall not make available any original Presidential records to any individual claiming access to any Presidential record as a designated representative under section 2205(3) of this title if that individual has been convicted of a crime relating to the review, retention, removal, or destruction of records of the Archives.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*(Added [Pub. L. 95–591, § 2(a)](https://www.govinfo.gov/link/plaw/95/public/591), Nov. 4, 1978, [92 Stat. 2525](https://www.govinfo.gov/link/statute/92/2525); amended [Pub. L. 98–497, title I, § 107(b)(7)](https://www.govinfo.gov/link/plaw/98/public/497), Oct. 19, 1984, [98 Stat. 2287](https://www.govinfo.gov/link/statute/98/2287); [Pub. L. 113–187](https://www.govinfo.gov/link/plaw/113/public/187), §§ 2(a)(2)(A), (d), 8(4), Nov. 26, 2014, [128 Stat. 2005](https://www.govinfo.gov/link/statute/128/2005), 2006, 2011.)*

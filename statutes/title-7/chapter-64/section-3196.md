@@ -3,9 +3,10 @@ title: "Section 3196 - Research on national and regional animal health or diseas
 usc_title: 7
 usc_section: "3196"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3196"
-generated_at: "2026-03-30T02:53:42.398Z"
+generated_at: "2026-11-23T21:25:28.323Z"
+status: "active"
 ---
 
 # § 3196. Research on national and regional animal health or disease problems
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:42.398Z"
 - **(d)** Without regard to any consultation under subsection (c), the Secretary shall, to the extent feasible, award grants on the basis of the priorities assigned through a peer review system. Grantees shall be selected on a competitive basis in accordance with such procedures as the Secretary may establish.
 - **(e)** In the case of multiyear grants, the Secretary shall distribute funds to grant recipients on a schedule which is reasonably related to the timetable required for the orderly conduct of the research project involved.
 - **(f)** Chapter 10 of title 5 and title XVIII of this Act [ 7 U.S.C. 2281 et seq.] shall not apply to a panel or board created solely for the purpose of reviewing applications or proposals submitted under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1434](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 1004](https://www.govinfo.gov/link/statute/91/1004); [Pub. L. 97–98, title XIV, § 1430](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1309](https://www.govinfo.gov/link/statute/95/1309); [Pub. L. 99–198, title XIV, § 1414(c)](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1549](https://www.govinfo.gov/link/statute/99/1549); [Pub. L. 101–624, title XVI, § 1601(b)(2)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3703](https://www.govinfo.gov/link/statute/104/3703); [Pub. L. 104–127, title VIII](https://www.govinfo.gov/link/plaw/104/public/127), §§ 812, 852(b)(5), Apr. 4, 1996, [110 Stat. 1165](https://www.govinfo.gov/link/statute/110/1165), 1171; [Pub. L. 105–185, title III, § 301(a)(8)](https://www.govinfo.gov/link/plaw/105/public/185), title VI, § 606(d)(3), June 23, 1998, [112 Stat. 562](https://www.govinfo.gov/link/statute/112/562), 604; [Pub. L. 107–171, title VII, § 7108](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 432](https://www.govinfo.gov/link/statute/116/432); [Pub. L. 110–234, title VII](https://www.govinfo.gov/link/plaw/110/public/234), §§ 7119, 7120, May 22, 2008, [122 Stat. 1222](https://www.govinfo.gov/link/statute/122/1222); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, §§ 7119, 7120, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1983; [Pub. L. 117–286, § 4(a)(37)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4309](https://www.govinfo.gov/link/statute/136/4309).)*

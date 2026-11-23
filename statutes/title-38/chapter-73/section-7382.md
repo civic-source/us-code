@@ -3,9 +3,10 @@ title: "Section 7382 - Research personnel"
 usc_title: 38
 usc_section: "7382"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7382"
-generated_at: "2026-03-30T02:55:53.530Z"
+generated_at: "2026-11-23T21:26:16.863Z"
+status: "active"
 ---
 
 # § 7382. Research personnel
@@ -17,3 +18,11 @@ generated_at: "2026-03-30T02:55:53.530Z"
     - **(B)** the employee conducts research under the supervision of personnel of the Department; and
     - **(C)** the Secretary agreed to the terms of such compensation in writing.
   - **(2)** An employee described in this subsection is an employee who has an appointment within the Department, whether with or without compensation, and without regard to the source of such compensation.
+
+Waiver of Intergovernmental Personnel Act Mobility Program Limits
+
+Outside Earned Income for Research for the Department
+
+## Source Credit
+
+*(Added [Pub. L. 117–328, div. U, title I, § 182(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5436](https://www.govinfo.gov/link/statute/136/5436).)*

@@ -3,9 +3,10 @@ title: "Section 3703 - Definitions"
 usc_title: 25
 usc_section: "3703"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3703"
-generated_at: "2026-03-30T02:54:52.855Z"
+generated_at: "2026-11-23T21:25:54.697Z"
+status: "active"
 ---
 
 # § 3703. Definitions
@@ -43,3 +44,7 @@ For the purposes of this chapter:
     - **(B)** is the beneficiary of the trust under which such Indian land is held by the United States.
   - **(14)** The term “rangeland” means Indian land, excluding Indian forest land, on which the native vegetation is predominantly grasses, grass-like plants, forbs, half-shrubs or shrubs suitable for grazing or browsing use, and includes lands revegetated naturally or artificially to provide a forage cover that is managed as native vegetation.
   - **(15)** The term “Secretary” means the Secretary of the Interior.
+
+## Source Credit
+
+*([Pub. L. 103–177, § 4](https://www.govinfo.gov/link/plaw/103/public/177), Dec. 3, 1993, [107 Stat. 2012](https://www.govinfo.gov/link/statute/107/2012).)*

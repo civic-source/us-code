@@ -3,9 +3,10 @@ title: "Section 1613b - Customs Forfeiture Fund"
 usc_title: 19
 usc_section: "1613b"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1613b"
-generated_at: "2026-03-30T02:54:24.647Z"
+generated_at: "2026-11-23T21:25:42.733Z"
+status: "active"
 ---
 
 # § 1613b. Customs Forfeiture Fund
@@ -64,3 +65,7 @@ generated_at: "2026-03-30T02:54:24.647Z"
       - **(i)** $14,855,000 for fiscal year 1991.
       - **(ii)** $15,598,000 for fiscal year 1992.
   - **(3)** At the end of each fiscal year, any unobligated amount in excess of $15,000,000 remaining in the Fund shall be deposited into the general fund of the Treasury of the United States.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 613A, as added [Pub. L. 98–573, title II, § 213(a)(11)](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 2986](https://www.govinfo.gov/link/statute/98/2986); amended [Pub. L. 99–570, title I, § 1152(b)(2)](https://www.govinfo.gov/link/plaw/99/public/570), title III, § 3142(a), Oct. 27, 1986, [100 Stat. 3207–12](https://www.govinfo.gov/link/statute/100/3207), 3207–93; [Pub. L. 100–71, title I, § 101](https://www.govinfo.gov/link/plaw/100/public/71), July 11, 1987, [101 Stat. 438](https://www.govinfo.gov/link/statute/101/438); [Pub. L. 100–202, § 101(m) [title I, § 106]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–390](https://www.govinfo.gov/link/statute/101/1329), 1329–397; [Pub. L. 100–418, title I, § 1912](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1320](https://www.govinfo.gov/link/statute/102/1320); [Pub. L. 100–690, title VII, § 7364](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4475](https://www.govinfo.gov/link/statute/102/4475); [Pub. L. 101–382, title I, § 121](https://www.govinfo.gov/link/plaw/101/public/382), Aug. 20, 1990, [104 Stat. 640](https://www.govinfo.gov/link/statute/104/640); [Pub. L. 101–508, title X, § 10012(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–390](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 104–316, title I, § 110(a)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3832](https://www.govinfo.gov/link/statute/110/3832); [Pub. L. 114–125, title VIII, § 802(d)(2)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 210](https://www.govinfo.gov/link/statute/130/210).)*

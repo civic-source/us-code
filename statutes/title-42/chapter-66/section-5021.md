@@ -3,9 +3,10 @@ title: "Section 5021 - Promotion of National Senior Service Corps"
 usc_title: 42
 usc_section: "5021"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5021"
-generated_at: "2026-03-30T02:56:11.213Z"
+generated_at: "2026-11-23T21:26:32.710Z"
+status: "active"
 ---
 
 # § 5021. Promotion of National Senior Service Corps
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.213Z"
   - **(1)** In carrying out this subchapter, the Director shall encourage and facilitate the efforts of private organizations to promote the programs established in parts A, B, and C and the involvement of older individuals as volunteers in such programs.
   - **(2)** The Director shall take appropriate actions to ensure that special efforts are made to publicize the programs established in parts A, B, and C, in order to facilitate recruitment efforts, to encourage greater participation of volunteers of all ages and backgrounds, living in urban or rural communities, and to emphasize the value of volunteering to the health and well-being of volunteers and the communities of such volunteers. Such actions shall include informing recipients of grants and contracts under this subchapter of all informational materials available from the Director.
   - **(3)** From funds appropriated under section 5082 of this title , the Director shall expend not less than $375,000 in each fiscal year to carry out paragraph (2).
+
+## Source Credit
+
+*([Pub. L. 93–113, title II, § 221](https://www.govinfo.gov/link/plaw/93/public/113), Oct. 1, 1973, [87 Stat. 403](https://www.govinfo.gov/link/statute/87/403); [Pub. L. 96–143, § 18(b)](https://www.govinfo.gov/link/plaw/96/public/143), Dec. 13, 1979, [93 Stat. 1083](https://www.govinfo.gov/link/statute/93/1083); [Pub. L. 97–35, title VI, § 608(f)(2)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 488](https://www.govinfo.gov/link/statute/95/488); [Pub. L. 101–204, title V, § 505](https://www.govinfo.gov/link/plaw/101/public/204), Dec. 7, 1989, [103 Stat. 1817](https://www.govinfo.gov/link/statute/103/1817); [Pub. L. 103–82, title III](https://www.govinfo.gov/link/plaw/103/public/82), §§ 341(b)(2), 348, Sept. 21, 1993, [107 Stat. 904](https://www.govinfo.gov/link/statute/107/904), 905; [Pub. L. 111–13, title II, § 2146(a)](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1589](https://www.govinfo.gov/link/statute/123/1589).)*

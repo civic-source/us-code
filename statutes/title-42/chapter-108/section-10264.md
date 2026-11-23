@@ -3,9 +3,10 @@ title: "Section 10264 - Investigatory powers"
 usc_title: 42
 usc_section: "10264"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10264"
-generated_at: "2026-03-30T02:56:11.385Z"
+generated_at: "2026-11-23T21:26:33.355Z"
+status: "active"
 ---
 
 # § 10264. Investigatory powers
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.385Z"
 - **(b)**
   - **(1)** Upon the request of the Chairman or a majority of the members of the Board, and subject to existing law, the Secretary (or any contractor of the Secretary) shall provide the Board with such records, files, papers, data, or information as may be necessary to respond to any inquiry of the Board under this subchapter.
   - **(2)** Subject to existing law, information obtainable under paragraph (1) shall not be limited to final work products of the Secretary, but shall include drafts of such products and documentation of work in progress.
+
+## Source Credit
+
+*([Pub. L. 97–425, title V, § 504](https://www.govinfo.gov/link/plaw/97/public/425), as added [Pub. L. 100–202, § 101(d) [title III]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–104](https://www.govinfo.gov/link/statute/101/1329), 1329–121; [Pub. L. 100–203, title V, § 5051](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–249](https://www.govinfo.gov/link/statute/101/1330).)*

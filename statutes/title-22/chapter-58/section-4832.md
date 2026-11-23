@@ -3,9 +3,10 @@ title: "Section 4832 - Security Review Committee"
 usc_title: 22
 usc_section: "4832"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4832"
-generated_at: "2026-03-30T02:55:05.414Z"
+generated_at: "2026-11-23T21:25:58.651Z"
+status: "active"
 ---
 
 # § 4832. Security Review Committee
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.414Z"
   - **(1)** A Security Review Committee shall obtain facilities, services, and supplies through the Department of State. All expenses of the Security Review Committee, including necessary costs of travel, shall be paid by the Department of State. Travel expenses authorized under this paragraph shall be paid in accordance with subchapter I of chapter 57 of title 5 or other applicable law.
   - **(2)** At the request of a Security Review Committee, employees of the Department of State or other Federal agencies, members of the Foreign Service, or members of the uniformed services may be temporarily assigned, with or without reimbursement, to assist the Security Review Committee.
   - **(3)** A Security Review Committee may employ and compensate (in accordance with section 3109 of title 5 ) such experts and consultants as the Security Review Committee considers necessary to carry out its functions. Experts and consultants so employed shall be responsible solely to the Security Review Committee.
+
+## Source Credit
+
+*([Pub. L. 99–399, title III, § 302](https://www.govinfo.gov/link/plaw/99/public/399), Aug. 27, 1986, [100 Stat. 859](https://www.govinfo.gov/link/statute/100/859); [Pub. L. 117–263, div. I, title XCIII, § 9302(e)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3886](https://www.govinfo.gov/link/statute/136/3886).)*

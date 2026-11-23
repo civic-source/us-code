@@ -3,9 +3,10 @@ title: "Section 3932 - Stay of proceedings when servicemember has notice"
 usc_title: 50
 usc_section: "3932"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3932"
-generated_at: "2026-03-30T02:56:26.263Z"
+generated_at: "2026-11-23T21:26:39.078Z"
+status: "active"
 ---
 
 # § 3932. Stay of proceedings when servicemember has notice
@@ -24,3 +25,13 @@ generated_at: "2026-03-30T02:56:26.263Z"
   - **(2)** If the court refuses to grant an additional stay of proceedings under paragraph (1), the court shall appoint counsel to represent the servicemember in the action or proceeding.
 - **(e)** A servicemember who applies for a stay under this section and is unsuccessful may not seek the protections afforded by section 3931 of this title .
 - **(f)** The protections of this section do not apply to section 3951 of this title .
+
+Stay of Action or Proceeding
+
+Members Covered
+
+Definition
+
+## Source Credit
+
+*(Oct. 17, 1940, ch. 888, title II, § 202, as added [Pub. L. 108–189, § 1](https://www.govinfo.gov/link/plaw/108/public/189), Dec. 19, 2003, [117 Stat. 2842](https://www.govinfo.gov/link/statute/117/2842); amended [Pub. L. 108–454, title VII, § 703](https://www.govinfo.gov/link/plaw/108/public/454), Dec. 10, 2004, [118 Stat. 3624](https://www.govinfo.gov/link/statute/118/3624); [Pub. L. 110–181, div. A, title V, § 584(b)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 128](https://www.govinfo.gov/link/statute/122/128).)*

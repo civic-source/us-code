@@ -3,9 +3,10 @@ title: "Section 5711 - Authority to issue subpoenas"
 usc_title: 38
 usc_section: "5711"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 5711"
-generated_at: "2026-03-30T02:55:53.522Z"
+generated_at: "2026-11-23T21:26:16.824Z"
+status: "active"
 ---
 
 # § 5711. Authority to issue subpoenas
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:53.522Z"
   - **(4)** aid claimants in the preparation and presentation of claims; and
   - **(5)** make investigations and examine witnesses upon any matter within the jurisdiction of the Department.
 - **(b)** Any person required by such subpoena to attend as a witness shall be allowed and paid the same fees and mileage as are paid witnesses in the district courts of the United States.
+
+## Source Credit
+
+*([Pub. L. 85–857](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1237](https://www.govinfo.gov/link/statute/72/1237), § 3311; renumbered § 5711, [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238); [Pub. L. 102–54, § 14(d)(5)(A)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 286](https://www.govinfo.gov/link/statute/105/286).)*

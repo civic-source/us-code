@@ -3,9 +3,10 @@ title: "Section 44917 - Deployment of Federal air marshals"
 usc_title: 49
 usc_section: "44917"
 chapter: 449
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44917"
-generated_at: "2026-03-30T02:56:19.391Z"
+generated_at: "2026-11-23T21:26:40.928Z"
+status: "active"
 ---
 
 # § 44917. Deployment of Federal air marshals
@@ -31,3 +32,55 @@ generated_at: "2026-03-30T02:56:19.391Z"
   - **(1)** The Administrator of the Transportation Security Administration, after consultation with the Secretary of State, may direct the Federal Air Marshal Service to provide appropriate air marshal training to law enforcement personnel of foreign countries.
   - **(2)** The Federal Air Marshal Service may only provide appropriate air marshal training to law enforcement personnel of foreign countries after comparing the identifying information and records of law enforcement personnel of foreign countries against all appropriate records in the consolidated and integrated terrorist watchlists maintained by the Federal Government.
   - **(3)** The Administrator of the Transportation Security Administration shall establish reasonable fees and charges to pay expenses incurred in carrying out this subsection. Funds collected under this subsection shall be credited to the account in the Treasury from which the expenses were incurred and shall be available to the Administrator of the Transportation Security Administration for purposes for which amounts in such account are available.
+
+In General
+
+Interim Measures
+
+Training for Foreign Law Enforcement Personnel.—
+
+In general
+
+Watchlist screening
+
+Fees
+
+Standardization.—
+
+In general
+
+Written agreements
+
+Exception
+
+Notification to congress.—
+
+Written agreements
+
+No written agreements
+
+Mission Scheduling Automation
+
+Improving Federal Air Marshal Service Deployments.—
+
+After-action reports
+
+Study
+
+Cost-benefit analysis
+
+Performance measures
+
+Federal Air Marshal Anonymity
+
+Authorization of Additional Appropriations
+
+Federal Law Enforcement Counterterrorism Training.—
+
+Availability of information
+
+Identification of fraudulent documents
+
+## Source Credit
+
+*(Added [Pub. L. 107–71, title I, § 105(a)](https://www.govinfo.gov/link/plaw/107/public/71), Nov. 19, 2001, [115 Stat. 606](https://www.govinfo.gov/link/statute/115/606); amended [Pub. L. 108–458, title IV, § 4018](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3721](https://www.govinfo.gov/link/statute/118/3721); [Pub. L. 115–254, div. K, title I](https://www.govinfo.gov/link/plaw/115/public/254), §§ 1959(c)(5), (d)(1), 1991(d)(15), Oct. 5, 2018, [132 Stat. 3599](https://www.govinfo.gov/link/statute/132/3599), 3635.)*

@@ -3,9 +3,10 @@ title: "Section 1713 - Sales of public land tracts"
 usc_title: 43
 usc_section: "1713"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1713"
-generated_at: "2026-03-30T02:55:57.487Z"
+generated_at: "2026-11-23T21:26:19.870Z"
+status: "active"
 ---
 
 # § 1713. Sales of public land tracts
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:57.487Z"
   - **(4)** individuals; and
   - **(5)** any other person.
 - **(g)** The Secretary shall accept or reject, in writing, any offer to purchase made through competitive bidding at his invitation no later than thirty days after the receipt of such offer or, in the case of a tract in excess of two thousand five hundred acres, at the end of thirty days after the end of the ninety-day period provided in subsection (c) of this section, whichever is later, unless the offeror waives his right to a decision within such thirty-day period. Prior to the expiration of such periods the Secretary may refuse to accept any offer or may withdraw any land or interest in land from sale under this section when he determines that consummation of the sale would not be consistent with this Act or other applicable law.
+
+## Source Credit
+
+*([Pub. L. 94–579, title II, § 203](https://www.govinfo.gov/link/plaw/94/public/579), Oct. 21, 1976, [90 Stat. 2750](https://www.govinfo.gov/link/statute/90/2750).)*

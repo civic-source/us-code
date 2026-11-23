@@ -3,9 +3,10 @@ title: "Section 2666 - Grant assistance to States for radon programs"
 usc_title: 15
 usc_section: "2666"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2666"
-generated_at: "2026-03-30T02:54:08.180Z"
+generated_at: "2026-11-23T21:25:39.949Z"
+status: "active"
 ---
 
 # § 2666. Grant assistance to States for radon programs
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:54:08.180Z"
   - **(3)** Notwithstanding any other provision of this section, not more than 10 percent of the amount appropriated to carry out this section may be used to make grants to any one State.
   - **(4)** Funds not obligated to States in the fiscal year for which funds are appropriated under this section shall remain available for obligation during the next fiscal year.
   - **(5)** No amount appropriated under this subsection may be used to cover the costs of the proficiency rating program under section 2665(a)(2) of this title .
+
+## Source Credit
+
+*([Pub. L. 94–469, title III, § 306](https://www.govinfo.gov/link/plaw/94/public/469), as added [Pub. L. 100–551, § 1(a)](https://www.govinfo.gov/link/plaw/100/public/551), Oct. 28, 1988, [102 Stat. 2758](https://www.govinfo.gov/link/statute/102/2758).)*

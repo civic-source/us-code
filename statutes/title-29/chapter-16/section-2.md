@@ -3,9 +3,10 @@ title: "Section 2 - Grants to centers for independent living in States in which 
 usc_title: 29
 usc_section: "2"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 2"
-generated_at: "2026-03-30T02:55:18.700Z"
+generated_at: "2026-11-23T21:26:02.219Z"
+status: "active"
 ---
 
 # § 796f–2. Grants to centers for independent living in States in which State funding equals or exceeds Federal funding
@@ -50,3 +51,9 @@ generated_at: "2026-03-30T02:55:18.700Z"
     - **(B)** in the case of a center that requests an appeal under subsection (i), the date of any final decision under subsection (i),
 - **(h)** The director of the designated State unit shall annually conduct onsite compliance reviews of at least 15 percent of the centers for independent living that receive funding under this section in the State. Each team that conducts onsite compliance review of centers for independent living shall include at least one person who is not an employee of the designated State agency, who has experience in the operation of centers for independent living, and who is jointly selected by the director of the designated State unit and the chairperson of or other individual designated by the Council acting on behalf of and at the direction of the Council. A copy of this review shall be provided to the Administrator.
 - **(i)** If the director of the designated State unit proposes to take a significant adverse action against a center for independent living, the center may seek mediation and conciliation to be provided by an individual or individuals who are free of conflicts of interest identified by the chairperson of or other individual designated by the Council. If the issue is not resolved through the mediation and conciliation, the center may appeal the proposed adverse action to the Administrator for a final decision.
+
+“In awarding funds to existing centers for independent living (described in section 723(c) of the Rehabilitation Act of 1973 ( 29 U.S.C. 796f–2(c) )) in a State, the director of the designated State unit that has approval to make such awards—
+
+## Source Credit
+
+*([Pub. L. 93–112, title VII, § 723](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 105–220, title IV, § 410](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1231](https://www.govinfo.gov/link/statute/112/1231); amended [Pub. L. 113–128, title IV, § 482(b)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1693](https://www.govinfo.gov/link/statute/128/1693).)*

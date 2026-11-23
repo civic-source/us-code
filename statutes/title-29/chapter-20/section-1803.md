@@ -3,9 +3,10 @@ title: "Section 1803 - Applicability of chapter"
 usc_title: 29
 usc_section: "1803"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1803"
-generated_at: "2026-03-30T02:55:18.739Z"
+generated_at: "2026-11-23T21:26:02.307Z"
+status: "active"
 ---
 
 # § 1803. Applicability of chapter
@@ -28,3 +29,13 @@ generated_at: "2026-03-30T02:55:18.739Z"
       - **(ii)** Any person to the extent he is supplied with students or other individuals for agricultural employment in accordance with clause (i) of this subparagraph by a person who is exempt under such clause.
     - **(I)** Any employee of any person described in subparagraphs (A) through (H) when performing farm labor contracting activities exclusively for such person.
 - **(b)** Subchapter I of this chapter does not apply to any agricultural employer or agricultural association or to any employee of such an employer or association.
+
+Family business exemption.—
+
+Small business exemption.—
+
+Other exemptions.—
+
+## Source Credit
+
+*([Pub. L. 97–470, § 4](https://www.govinfo.gov/link/plaw/97/public/470), Jan. 14, 1983, [96 Stat. 2585](https://www.govinfo.gov/link/statute/96/2585).)*

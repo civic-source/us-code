@@ -3,9 +3,10 @@ title: "Section 1089 - Defense of certain suits arising out of medical malpracti
 usc_title: 10
 usc_section: "1089"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1089"
-generated_at: "2026-03-30T02:53:38.106Z"
+generated_at: "2026-11-23T21:25:32.416Z"
+status: "active"
 ---
 
 # § 1089. Defense of certain suits arising out of medical malpractice
@@ -23,3 +24,11 @@ generated_at: "2026-03-30T02:53:38.106Z"
   - **(2)** the Secretary of Homeland Security, in the case of a member or employee of the Coast Guard when it is not operating as a service in the Navy;
   - **(3)** the Chief Operating Officer of the Armed Forces Retirement Home, in the case of an employee of the Armed Forces Retirement Home; and
   - **(4)** the Secretary of Defense, in all other cases.
+
+Amendment
+
+“The Congress finds—
+
+## Source Credit
+
+*(Added [Pub. L. 94–464, § 1(a)](https://www.govinfo.gov/link/plaw/94/public/464), Oct. 8, 1976, [90 Stat. 1985](https://www.govinfo.gov/link/statute/90/1985); amended [Pub. L. 97–124, § 2](https://www.govinfo.gov/link/plaw/97/public/124), Dec. 29, 1981, [95 Stat. 1666](https://www.govinfo.gov/link/statute/95/1666); [Pub. L. 98–94, title IX, § 934(a)](https://www.govinfo.gov/link/plaw/98/public/94) –(c), Sept. 24, 1983, [97 Stat. 651](https://www.govinfo.gov/link/statute/97/651), 652; [Pub. L. 100–180, div. A, title XII, § 1231(18)(A)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1161](https://www.govinfo.gov/link/statute/101/1161); [Pub. L. 101–510, div. A, title XV, § 1533(a)(1)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1733](https://www.govinfo.gov/link/statute/104/1733); [Pub. L. 105–85, div. A, title VII, § 736(b)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1814](https://www.govinfo.gov/link/statute/111/1814); [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 110–181, div. A, title IX, § 931(b)(3)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 285](https://www.govinfo.gov/link/statute/122/285); [Pub. L. 112–81, div. A, title V, § 567(b)(2)(A)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1425](https://www.govinfo.gov/link/statute/125/1425); [Pub. L. 112–239, div. A, title VII, § 713(a)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1803](https://www.govinfo.gov/link/statute/126/1803).)*

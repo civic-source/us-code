@@ -3,9 +3,10 @@ title: "Section 4112 - Indian housing plans"
 usc_title: 25
 usc_section: "4112"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4112"
-generated_at: "2026-03-30T02:54:52.858Z"
+generated_at: "2026-11-23T21:25:54.706Z"
+status: "active"
 ---
 
 # § 4112. Indian housing plans
@@ -48,3 +49,11 @@ generated_at: "2026-03-30T02:54:52.858Z"
   - **(2)** has delegated to such tribally designated housing entity the authority to submit a plan on behalf of the tribe without prior review by the tribe.
 - **(d)** A plan under this section may cover more than 1 Indian tribe, but only if the certification requirements under subsection (c) are complied with by each such grant beneficiary covered.
 - **(e)** The requirements relating to the contents of plans under this section shall be established by regulation, pursuant to section 4116 of this title .
+
+Separate requirements
+
+Small tribes
+
+## Source Credit
+
+*([Pub. L. 104–330, title I, § 102](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4023](https://www.govinfo.gov/link/statute/110/4023); [Pub. L. 105–276, title V, § 595(e)(5)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2657](https://www.govinfo.gov/link/statute/112/2657); [Pub. L. 106–568, title X, § 1003(b)](https://www.govinfo.gov/link/plaw/106/public/568), (c), Dec. 27, 2000, [114 Stat. 2926](https://www.govinfo.gov/link/statute/114/2926); [Pub. L. 106–569, title V, § 503(b)](https://www.govinfo.gov/link/plaw/106/public/569), (c), Dec. 27, 2000, [114 Stat. 2962](https://www.govinfo.gov/link/statute/114/2962); [Pub. L. 110–411, title I, § 102](https://www.govinfo.gov/link/plaw/110/public/411), Oct. 14, 2008, [122 Stat. 4321](https://www.govinfo.gov/link/statute/122/4321).)*

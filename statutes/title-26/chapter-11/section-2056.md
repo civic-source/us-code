@@ -3,9 +3,10 @@ title: "Section 2056 - Bequests, etc., to surviving spouse"
 usc_title: 26
 usc_section: "2056"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 2056"
-generated_at: "2026-03-30T02:55:27.781Z"
+generated_at: "2026-11-23T21:26:06.530Z"
+status: "active"
 ---
 
 # § 2056. Bequests, etc., to surviving spouse
@@ -84,3 +85,31 @@ generated_at: "2026-03-30T02:55:27.781Z"
       - **(i)** as of the date on which the return of the tax imposed by this chapter is made, or
       - **(ii)** if a judicial proceeding is commenced on or before the due date (determined with regard to extensions) for filing such return to change such trust into a trust which is a qualified domestic trust, as of the time when the changes pursuant to such proceeding are made.
     - **(B)** If a judicial proceeding described in subparagraph (A)(ii) is commenced with respect to any trust, the period for assessing any deficiency of tax attributable to any failure of such trust to be a qualified domestic trust shall not expire before the date 1 year after the date on which the Secretary is notified that the trust has been changed pursuant to such judicial proceeding or that such proceeding has been terminated.
+
+Special rule for charitable remainder trusts.—
+
+In general
+
+Definitions
+
+Noncharitable beneficiary
+
+Qualified charitable remainder trust
+
+Subsection
+
+In general
+
+Exception
+
+Subsection
+
+In general
+
+Not to apply to extent inconsistent with prior return
+
+Extension of time for election out
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 392; [Pub. L. 89–621, § 1(a)](https://www.govinfo.gov/link/plaw/89/public/621), Oct. 4, 1966, [80 Stat. 872](https://www.govinfo.gov/link/statute/80/872); [Pub. L. 94–455, title XIX, § 1902(a)(12)(A)](https://www.govinfo.gov/link/plaw/94/public/455), title XX, §§ 2002(a), 2009(b)(4)(D), (E), Oct. 4, 1976, [90 Stat. 1805](https://www.govinfo.gov/link/statute/90/1805), 1854, 1894; [Pub. L. 95–600, title VII, § 702(g)(1)](https://www.govinfo.gov/link/plaw/95/public/600), (2), Nov. 6, 1978, [92 Stat. 2930](https://www.govinfo.gov/link/statute/92/2930); [Pub. L. 97–34, title IV, § 403(a)(1)](https://www.govinfo.gov/link/plaw/97/public/34), (d)(1), Aug. 13, 1981, [95 Stat. 301](https://www.govinfo.gov/link/statute/95/301), 302; [Pub. L. 97–448, title I, § 104(a)(2)(A)](https://www.govinfo.gov/link/plaw/97/public/448), (8), Jan. 12, 1983, [96 Stat. 2380](https://www.govinfo.gov/link/statute/96/2380), 2381; [Pub. L. 98–369, div. A, title X, § 1027(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1031](https://www.govinfo.gov/link/statute/98/1031); [Pub. L. 100–647, title V, § 5033(a)(1)](https://www.govinfo.gov/link/plaw/100/public/647), title VI, § 6152(a), Nov. 10, 1988, [102 Stat. 3670](https://www.govinfo.gov/link/statute/102/3670), 3725; [Pub. L. 101–239, title VII, § 7815(d)(4)(A)](https://www.govinfo.gov/link/plaw/101/public/239), (5), (6), (8), 7816(q), Dec. 19, 1989, [103 Stat. 2415](https://www.govinfo.gov/link/statute/103/2415), 2416, 2423; [Pub. L. 101–508, title XI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 11701(l)(1), 11702(g)(5), Nov. 5, 1990, [104 Stat. 1388–513](https://www.govinfo.gov/link/statute/104/1388), 1388–516; [Pub. L. 102–486, title XIX, § 1941(a)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3036](https://www.govinfo.gov/link/statute/106/3036); [Pub. L. 105–34, title XIII, § 1311(a)](https://www.govinfo.gov/link/plaw/105/public/34), title XV, § 1530(c)(8), Aug. 5, 1997, [111 Stat. 1044](https://www.govinfo.gov/link/statute/111/1044), 1078.)*

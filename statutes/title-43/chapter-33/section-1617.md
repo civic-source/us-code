@@ -3,9 +3,10 @@ title: "Section 1617 - Revocation of Indian allotment authority in Alaska"
 usc_title: 43
 usc_section: "1617"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1617"
-generated_at: "2026-03-30T02:55:57.480Z"
+generated_at: "2026-11-23T21:26:19.857Z"
+status: "active"
 ---
 
 # § 1617. Revocation of Indian allotment authority in Alaska
@@ -53,3 +54,31 @@ generated_at: "2026-03-30T02:55:57.480Z"
     - **(A)** may seek voluntary reconveyance of any land described in the application that is reinstated or reconstructed after December 10, 2004 ; but
     - **(B)** shall not file an action in any court to recover title from a current landowner.
   - **(2)** A certificate of allotment that is issued for any allotment application for which a request for reinstatement or reconstruction is received or accepted after December 10, 2004 shall be made subject to any Federal appropriation, trail, right-of-way, easement, or existing third party interest of record, including third party interests created by the State, without regard to the date on which the Native allotment applicant initiated use and occupancy.
+
+In General
+
+Certificate of Allotment
+
+Probate Not Required
+
+No Liability
+
+In General
+
+Limitation
+
+Availability of Additional Land
+
+Restricted land
+
+Secretary
+
+State
+
+In General
+
+Ratification of Prior Subdivisions and Dedications
+
+## Source Credit
+
+*([Pub. L. 92–203, § 18](https://www.govinfo.gov/link/plaw/92/public/203), Dec. 18, 1971, [85 Stat. 710](https://www.govinfo.gov/link/statute/85/710); [Pub. L. 102–415, § 3](https://www.govinfo.gov/link/plaw/102/public/415), Oct. 14, 1992, [106 Stat. 2112](https://www.govinfo.gov/link/statute/106/2112); [Pub. L. 108–452, title III](https://www.govinfo.gov/link/plaw/108/public/452), §§ 301, 303, 305, Dec. 10, 2004, [118 Stat. 3587](https://www.govinfo.gov/link/statute/118/3587), 3588, 3590.)*

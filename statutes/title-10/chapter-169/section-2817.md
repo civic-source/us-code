@@ -3,9 +3,10 @@ title: "Section 2817 - Authority for certain construction projects in friendly f
 usc_title: 10
 usc_section: "2817"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2817"
-generated_at: "2026-03-30T02:53:38.178Z"
+generated_at: "2026-11-23T21:25:32.681Z"
+status: "active"
 ---
 
 # § 2817. Authority for certain construction projects in friendly foreign countries
@@ -34,3 +35,27 @@ generated_at: "2026-03-30T02:53:38.178Z"
 - **(d)** In this section, the term “specified congressional committees” means—
   - **(1)** the Committee on Armed Services and the Subcommittee on Defense and the Subcommittee on Military Construction, Veterans Affairs, and Related Agencies of the Committee on Appropriations of the Senate; and
   - **(2)** the Committee on Armed Services and the Subcommittee on Defense and the Subcommittee on Military Construction, Veterans Affairs, and Related Agencies of the Committee on Appropriations of the House of Representatives.
+
+Construction Authorized
+
+Congressional Notification.—
+
+Notification required
+
+Elements
+
+Notice and wait
+
+Annual Limitations on Use of Authority.—
+
+Total cost limitation
+
+Additional obligation authority
+
+Project limitation
+
+Specified Congressional Committees Defined
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. B, title XXVIII, § 2805](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 744](https://www.govinfo.gov/link/statute/137/744).)*

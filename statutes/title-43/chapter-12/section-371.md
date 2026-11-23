@@ -3,9 +3,10 @@ title: "Section 371 - Definitions"
 usc_title: 43
 usc_section: "371"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 371"
-generated_at: "2026-03-30T02:55:57.438Z"
+generated_at: "2026-11-23T21:26:19.756Z"
+status: "active"
 ---
 
 # § 371. Definitions
@@ -17,3 +18,7 @@ When used in sections 371, 376, 377, 412, 417, 433, 462, 466, 478, 493, 494, 500
 - **(c)** The words “reclamation fund” mean the fund provided by the reclamation law.
 - **(d)** The word “project” means a Federal irrigation project authorized by the reclamation law.
 - **(e)** The words “division of a project” mean a substantial irrigable area of a project designated as a division by order of the Secretary.
+
+## Source Credit
+
+*(Dec. 5, 1924, ch. 4, § 4, subsec. A, [43 Stat. 701](https://www.govinfo.gov/link/statute/43/701).)*

@@ -3,9 +3,10 @@ title: "Section 8109 - Beneficiaries of awards unpaid at death; order of precede
 usc_title: 5
 usc_section: "8109"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8109"
-generated_at: "2026-03-30T02:52:56.041Z"
+generated_at: "2026-11-23T21:25:23.349Z"
+status: "active"
 ---
 
 # § 8109. Beneficiaries of awards unpaid at death; order of precedence
@@ -26,3 +27,36 @@ generated_at: "2026-03-30T02:52:56.041Z"
 - **(b)** Payments under subsection (a) of this section, except for an amount payable for a period preceding the death of the individual, are at the basic rate of compensation for permanent disability specified by section 8107(a) of this title even if at the time of death the individual was entitled to the augmented rate specified by section 8110 of this title .
 - **(c)** A surviving beneficiary under subsection (a) of this section, except one under subsection (a)(D)(v), does not have a vested right to payment and must be alive to receive payment.
 - **(d)** A beneficiary under subsection (a) of this section, except one under subsection (a)(D)(v), ceases to be entitled to payment on the happening of an event which would terminate his right to compensation for death under section 8133 of this title . When that entitlement ceases, compensation remaining unpaid under subsection (a) of this section is payable to the surviving beneficiary in accordance with subsection (a) of this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 755(d) . | Oct. 14, 1949, ch. 691, § 104 “Sec. 5(d)”, 63 Stat. 857 . |
+
+| 1967 Act | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8109(a)(1) | 5 App.: 755(d)(1). | July 4, 1966 , Pub. L. 89–488, § 2(d) , 80 Stat. 252 . |
+
+
+Historical and Revision Notes
+
+Act
+
+5 U.S.C. 755(d)
+
+Oct. 14, 1949, ch. 691, § 104
+
+63 Stat. 857
+
+Act
+
+8109(a)(1)
+
+July 4, 1966
+
+Pub. L. 89–488, § 2(d)
+
+80 Stat. 252
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 538](https://www.govinfo.gov/link/statute/80/538); [Pub. L. 90–83, § 1(52)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 210](https://www.govinfo.gov/link/statute/81/210).)*

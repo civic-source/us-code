@@ -3,9 +3,10 @@ title: "Section 2919 - Department of Defense participation in programs for manag
 usc_title: 10
 usc_section: "2919"
 chapter: 173
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2919"
-generated_at: "2026-03-30T02:53:38.186Z"
+generated_at: "2026-11-23T21:25:32.706Z"
+status: "active"
 ---
 
 # § 2919. Department of Defense participation in programs for management of energy demand or reduction of energy usage during peak periods
@@ -19,3 +20,13 @@ generated_at: "2026-03-30T02:53:38.186Z"
   - **(1)** received as a cost reduction in the utility bill for a facility; or
   - **(2)** deposited into the fund established under subsection (c) for use, to the extent provided for in an appropriations Act, by the military department, Defense Agency, or instrumentality receiving such financial incentive for energy management initiatives.
 - **(c)** There is established in the Treasury a fund to be known as the “Energy Savings Financial Incentives Fund”. The Fund shall consist of any amount deposited in the Fund pursuant to subsection (b)(2) and amounts appropriated or otherwise made available to the Fund by law.
+
+Participation in Demand Response or Load Management Programs
+
+Treatment of Certain Financial Incentives
+
+Energy Savings Financial Incentives Fund
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. B, title XXVIII, § 2843(a)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2681](https://www.govinfo.gov/link/statute/123/2681).)*

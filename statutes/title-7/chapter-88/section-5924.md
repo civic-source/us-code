@@ -3,9 +3,10 @@ title: "Section 5924 - Agricultural Genome to Phenome Initiative"
 usc_title: 7
 usc_section: "5924"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 5924"
-generated_at: "2026-03-30T02:53:42.420Z"
+generated_at: "2026-11-23T21:25:28.372Z"
+status: "active"
 ---
 
 # § 5924. Agricultural Genome to Phenome Initiative
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:53:42.420Z"
         - **(II)** deals with scientifically important research; and
       - **(ii)** the recipient is unable to satisfy the matching funds requirement.
 - **(g)** There is authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2019 through 2023.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XVI, § 1671](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3769](https://www.govinfo.gov/link/statute/104/3769); [Pub. L. 104–66, title I, § 1011(s)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 710](https://www.govinfo.gov/link/statute/109/710); [Pub. L. 104–127, title VIII, § 835](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1169](https://www.govinfo.gov/link/statute/110/1169); [Pub. L. 105–185, title II, § 241](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 547](https://www.govinfo.gov/link/statute/112/547); [Pub. L. 107–171, title VII, § 7208(a)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 442](https://www.govinfo.gov/link/statute/116/442); [Pub. L. 110–234, title VII, § 7406(d)(2)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1252](https://www.govinfo.gov/link/statute/122/1252); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7406(d)(2), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2013; [Pub. L. 113–79, title VII](https://www.govinfo.gov/link/plaw/113/public/79), §§ 7128(b)(2)(B), 7208, Feb. 7, 2014, [128 Stat. 878](https://www.govinfo.gov/link/statute/128/878), 881; [Pub. L. 115–334, title VII](https://www.govinfo.gov/link/plaw/115/public/334), §§ 7208, 7614(b)(2)(B), Dec. 20, 2018, [132 Stat. 4805](https://www.govinfo.gov/link/statute/132/4805), 4834.)*

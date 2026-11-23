@@ -3,12 +3,17 @@ title: "Section 461 - Review of pay and benefit plans"
 usc_title: 6
 usc_section: "461"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 461"
-generated_at: "2026-03-30T02:53:09.464Z"
+generated_at: "2026-11-23T21:25:25.795Z"
+status: "active"
 ---
 
 # § 461. Review of pay and benefit plans
 
 Notwithstanding any other provision of this chapter, the Secretary shall, in consultation with the Director of the Office of Personnel Management, review the pay and benefit plans of each agency whose functions are transferred under this chapter to the Department and, within 90 days after November 25, 2002 , submit a plan to the President of the Senate and the Speaker of the House of Representatives and the appropriate committees and subcommittees of Congress, for ensuring, to the maximum extent practicable, the elimination of disparities in pay and benefits throughout the Department, especially among law enforcement personnel, that are inconsistent with merit system principles set forth in section 2301 of title 5 .
 
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 881](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2246](https://www.govinfo.gov/link/statute/116/2246).)*

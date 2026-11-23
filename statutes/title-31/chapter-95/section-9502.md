@@ -3,9 +3,10 @@ title: "Section 9502 - Definitions"
 usc_title: 31
 usc_section: "9502"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 9502"
-generated_at: "2026-03-30T02:55:34.077Z"
+generated_at: "2026-11-23T21:26:10.659Z"
+status: "active"
 ---
 
 # § 9502. Definitions
@@ -29,3 +30,29 @@ In this chapter—
       - **(xii)** nonappropriated fund plans.
       - **(xiii)** the Tennessee Valley Authority Retirement System.
   - **(2)** “plan year” means the calendar, policy, or fiscal year chosen by the Government pension plan on which the records of the plan are kept.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 9502(1) | 31:68c. | Sept. 12, 1950, ch. 946 , 64 Stat. 832 , §§ 123, 124; added Nov. 4, 1978 , Pub. L. 95–595, § 1 , 92 Stat. 2542 . |
+| 9502(2) | 31:68d. |  |
+
+
+Historical and Revision Notes
+
+9502(1)
+
+Sept. 12, 1950, ch. 946
+
+64 Stat. 832
+
+Nov. 4, 1978
+
+Pub. L. 95–595, § 1
+
+92 Stat. 2542
+
+9502(2)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1050](https://www.govinfo.gov/link/statute/96/1050); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095).)*

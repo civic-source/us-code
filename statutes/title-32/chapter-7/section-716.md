@@ -3,9 +3,10 @@ title: "Section 716 - Claims for overpayment of pay and allowances, and travel a
 usc_title: 32
 usc_section: "716"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "32 U.S.C. § 716"
-generated_at: "2026-03-30T02:55:31.867Z"
+generated_at: "2026-11-23T21:26:08.303Z"
+status: "active"
 ---
 
 # § 716. Claims for overpayment of pay and allowances, and travel and transportation allowances
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:31.867Z"
 - **(d)** In the audit and settlement of accounts of any accountable officer or official, full credit shall be given for any amounts with respect to which collection by the United States is waived under this section.
 - **(e)** An erroneous payment, the collection of which is waived under this section, is considered a valid payment for all purposes.
 - **(f)** This section does not affect any authority under any other law to litigate, settle, compromise, or waive any claim of the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 92–453, § 2(1)](https://www.govinfo.gov/link/plaw/92/public/453), Oct. 2, 1972, [86 Stat. 759](https://www.govinfo.gov/link/statute/86/759); amended [Pub. L. 96–513, title V, § 515(9)](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2937](https://www.govinfo.gov/link/statute/94/2937); [Pub. L. 99–224, § 3(a)](https://www.govinfo.gov/link/plaw/99/public/224), Dec. 28, 1985, [99 Stat. 1742](https://www.govinfo.gov/link/statute/99/1742); [Pub. L. 102–190, div. A, title VI, § 657(c)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1393](https://www.govinfo.gov/link/statute/105/1393); [Pub. L. 104–316, title I, § 116](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3835](https://www.govinfo.gov/link/statute/110/3835); [Pub. L. 109–364, div. A, title VI, § 671(b)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2270](https://www.govinfo.gov/link/statute/120/2270).)*

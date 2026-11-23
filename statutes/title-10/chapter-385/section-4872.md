@@ -3,9 +3,10 @@ title: "Section 4872 - Acquisition of sensitive materials from non-allied foreig
 usc_title: 10
 usc_section: "4872"
 chapter: 385
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4872"
-generated_at: "2026-03-30T02:53:38.214Z"
+generated_at: "2026-11-23T21:25:32.798Z"
+status: "active"
 ---
 
 # § 4872. Acquisition of sensitive materials from non-allied foreign nations: prohibition
@@ -55,3 +56,31 @@ generated_at: "2026-03-30T02:53:38.214Z"
     - **(C)** the Russian Federation; and
     - **(D)** the Islamic Republic of Iran.
   - **(3)** The term “end item” has the meaning given in section 4863(m) of this title .
+
+In General
+
+Applicability
+
+Exceptions
+
+Delegation
+
+National Security Waiver.—
+
+In general
+
+Delegation
+
+Application of national security waiver for strategic materials
+
+Definitions
+
+Covered material
+
+Covered nation
+
+End item
+
+## Source Credit
+
+*(Added [Pub. L. 115–232, div. A, title VIII, § 871(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1904](https://www.govinfo.gov/link/statute/132/1904), § 2533c; amended [Pub. L. 116–92, div. A, title VIII, § 849](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1508](https://www.govinfo.gov/link/statute/133/1508); renumbered § 4872 and amended [Pub. L. 116–283, div. A, title VIII, § 844(a)](https://www.govinfo.gov/link/plaw/116/public/283), title XVIII, § 1870(d)(2), (3), Jan. 1, 2021, [134 Stat. 3766](https://www.govinfo.gov/link/statute/134/3766), 4286; [Pub. L. 117–81, div. A, title XVII, § 1701(t)(2)(B)](https://www.govinfo.gov/link/plaw/117/public/81), (C), (3), Dec. 27, 2021, [135 Stat. 2150](https://www.govinfo.gov/link/statute/135/2150); [Pub. L. 117–263, div. A, title XIV, § 1411(d)(2)(B)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2872](https://www.govinfo.gov/link/statute/136/2872); [Pub. L. 118–31, div. A, title VIII, § 834](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 337](https://www.govinfo.gov/link/statute/137/337); [Pub. L. 118–159, div. A, title VIII, § 844(b)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1991](https://www.govinfo.gov/link/statute/138/1991); [Pub. L. 119–60, div. A, title VIII](https://www.govinfo.gov/link/plaw/119/public/60), §§ 843–844(b)(2), 848, title XVII, § 1701(a)(31), Dec. 18, 2025, [139 Stat. 975](https://www.govinfo.gov/link/statute/139/975), 976, 978, 1209.)*

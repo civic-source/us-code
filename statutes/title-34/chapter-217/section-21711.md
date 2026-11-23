@@ -3,9 +3,10 @@ title: "Section 21711 - Supporting Federal cases involving elder justice"
 usc_title: 34
 usc_section: "21711"
 chapter: 217
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 21711"
-generated_at: "2026-03-30T02:55:33.304Z"
+generated_at: "2026-11-23T21:26:09.813Z"
+status: "active"
 ---
 
 # § 21711. Supporting Federal cases involving elder justice
@@ -50,3 +51,9 @@ generated_at: "2026-03-30T02:55:33.304Z"
       - **(ii)** the Senior Scams Prevention Advisory Group’s findings about senior scams and industry educational materials and programs; and
       - **(iii)** any recommendations on ways stakeholders can continue to work together to reduce scams affecting seniors.
 - **(d)** No additional funds are authorized to be appropriated to carry out this section.
+
+“The amendments made by subsection (a) [amending this section] shall—
+
+## Source Credit
+
+*([Pub. L. 115–70, title I, § 101](https://www.govinfo.gov/link/plaw/115/public/70), Oct. 18, 2017, [131 Stat. 1209](https://www.govinfo.gov/link/statute/131/1209); [Pub. L. 116–252](https://www.govinfo.gov/link/plaw/116/public/252), §§ 2(a), 3(a), Dec. 22, 2020, [134 Stat. 1133](https://www.govinfo.gov/link/statute/134/1133), 1134; [Pub. L. 117–103, div. Q, title I, § 112(e)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 811](https://www.govinfo.gov/link/statute/136/811).)*

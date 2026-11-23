@@ -3,9 +3,10 @@ title: "Section 6 - Supervisory actions applicable to level III"
 usc_title: 12
 usc_section: "6"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 6"
-generated_at: "2026-03-30T02:53:53.484Z"
+generated_at: "2026-11-23T21:25:37.097Z"
+status: "active"
 ---
 
 # § 2279bb–6. Supervisory actions applicable to level III
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:53.484Z"
   - **(5)** Require the Corporation to terminate, reduce, or modify any activity that the Director determines creates excessive risk to the Corporation.
   - **(6)** Appoint a conservator for the Corporation consistent with this chapter.
 - **(c)** This section shall take effect on January 1, 1992 .
+
+## Source Credit
+
+*([Pub. L. 92–181, title VIII, § 8](https://www.govinfo.gov/link/plaw/92/public/181).37, as added [Pub. L. 102–237, title V, § 503(b)(2)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1876](https://www.govinfo.gov/link/statute/105/1876).)*

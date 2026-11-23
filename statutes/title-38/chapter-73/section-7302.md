@@ -3,9 +3,10 @@ title: "Section 7302 - Functions of Veterans Health Administration: health-care 
 usc_title: 38
 usc_section: "7302"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7302"
-generated_at: "2026-03-30T02:55:53.526Z"
+generated_at: "2026-11-23T21:26:16.845Z"
+status: "active"
 ---
 
 # § 7302. Functions of Veterans Health Administration: health-care personnel education and training programs
@@ -32,3 +33,55 @@ generated_at: "2026-03-30T02:55:53.526Z"
   - **(2)** In carrying out paragraph (1), the Secretary shall—
     - **(A)** allocate the residency positions under such paragraph among occupations included in the most current determination published in the Federal Register pursuant to section 7412(a) of this title ; and
     - **(B)** give priority to residency positions and programs in primary care, mental health, and any other specialty the Secretary determines appropriate.
+
+Update of Web Portal to Identify Certain Veterans.—
+
+Update
+
+Information in portal
+
+Inclusions in history
+
+Sharing of information
+
+Program on Training of Intermediate Care Technicians of Department of Veterans Affairs.—
+
+Establishment
+
+Locations
+
+Inclusion of information in transition assistance program
+
+Report on expansion of program
+
+Notification of Opportunities for Veterans
+
+Definitions
+
+Establishment.—
+
+In general
+
+Covered facilities
+
+Agreements
+
+Parameters for location, affiliate sponsor, and duration
+
+Priority in placements
+
+Stipends and benefits
+
+Reimbursement
+
+Reporting.—
+
+In general
+
+Elements
+
+Duration
+
+## Source Credit
+
+*(Added [Pub. L. 102–40, title IV, § 401(a)(3)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 211](https://www.govinfo.gov/link/statute/105/211); amended [Pub. L. 113–146, title III, § 301(b)(1)](https://www.govinfo.gov/link/plaw/113/public/146), Aug. 7, 2014, [128 Stat. 1784](https://www.govinfo.gov/link/statute/128/1784).)*

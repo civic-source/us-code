@@ -3,9 +3,10 @@ title: "Section 13415 - Midcontinent Energy Research Center"
 usc_title: 42
 usc_section: "13415"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13415"
-generated_at: "2026-03-30T02:56:11.444Z"
+generated_at: "2026-11-23T21:26:33.605Z"
+status: "active"
 ---
 
 # § 13415. Midcontinent Energy Research Center
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.444Z"
     - **(C)** reservoir characterization;
     - **(D)** advanced recovery methods; and
     - **(E)** development of new technology.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XX, § 2015](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3060](https://www.govinfo.gov/link/statute/106/3060).)*

@@ -3,9 +3,10 @@ title: "Section 160b - Land acquisitions"
 usc_title: 16
 usc_section: "160b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 160b"
-generated_at: "2026-03-30T02:54:22.736Z"
+generated_at: "2026-11-23T21:25:51.384Z"
+status: "active"
 ---
 
 # § 160b. Land acquisitions
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:22.736Z"
       - **(i)** Any land located within or adjacent to the boundaries of the park that is owned by the State of Minnesota (or a political subdivision of the State) may be acquired by the Secretary only through donation or exchange.
       - **(ii)** On completion of an acquisition from the State under clause (i), the Secretary shall revise the boundaries of the park to reflect the acquisition.
 - **(b)** In exercising the authority to acquire property under this section, the Secretary shall give immediate and careful consideration to any offer made by any individual owning property within the park area to sell such property to the Secretary. In considering such offer, the Secretary shall take into consideration any hardship to the owner which might result from any undue delay in acquiring his property.
+
+## Source Credit
+
+*([Pub. L. 91–661, § 201](https://www.govinfo.gov/link/plaw/91/public/661), Jan. 8, 1971, [84 Stat. 1970](https://www.govinfo.gov/link/statute/84/1970); [Pub. L. 116–9, title II, § 2107(b)](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 727](https://www.govinfo.gov/link/statute/133/727).)*

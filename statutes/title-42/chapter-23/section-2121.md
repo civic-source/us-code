@@ -3,9 +3,10 @@ title: "Section 2121 - Authority of Commission"
 usc_title: 42
 usc_section: "2121"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2121"
-generated_at: "2026-03-30T02:56:11.149Z"
+generated_at: "2026-11-23T21:26:32.336Z"
+status: "active"
 ---
 
 # § 2121. Authority of Commission
@@ -22,3 +23,31 @@ generated_at: "2026-03-30T02:56:11.149Z"
   - **(2)** utilization facilities for military applications; and
   - **(3)** source, byproduct, or special nuclear material for research on, development of, production of, or use in utilization facilities for military applications; and
   - **(4)** source, byproduct, or special nuclear material for research on, development of, or use in atomic weapons: Provided, however , That the transfer of such material to that nation is necessary to improve its atomic weapon design, development, or fabrication capability: And provided further , That such nation has made substantial progress in the development of atomic weapons,
+
+Requirement for Panel
+
+Composition and Administration of Panel
+
+Duties of Panel
+
+Report
+
+Cooperation of Other Agencies
+
+Funding
+
+Termination of Panel
+
+Initial Implementation
+
+Follow-Up Report
+
+Limitation on Obligation of Funds
+
+Certain Actions Not Prohibited
+
+Funding
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 91, as added Aug. 30, 1954, ch. 1073, § 1, [68 Stat. 936](https://www.govinfo.gov/link/statute/68/936); amended [Pub. L. 85–479, § 1](https://www.govinfo.gov/link/plaw/85/public/479), July 2, 1958, [72 Stat. 276](https://www.govinfo.gov/link/statute/72/276); [Pub. L. 101–189, div. C, title XXXI, § 3157](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1684](https://www.govinfo.gov/link/statute/103/1684); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944).)*

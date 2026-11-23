@@ -3,9 +3,10 @@ title: "Section 469n - Preserve America Program"
 usc_title: 16
 usc_section: "469n"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 469n"
-generated_at: "2026-03-30T02:54:22.853Z"
+generated_at: "2026-11-23T21:25:51.637Z"
+status: "active"
 ---
 
 # § 469n. Preserve America Program
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:22.853Z"
   - **(2)** the recognition programs administered by the Advisory Council on Historic Preservation; and
   - **(3)** the related efforts of Federal agencies, working in partnership with State, tribal, and local governments and the private sector, to support and promote the preservation of historic resources.
 - **(b)**
+
+## Source Credit
+
+*([Pub. L. 111–11, title VII, § 7302](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1214](https://www.govinfo.gov/link/statute/123/1214); [Pub. L. 113–287, § 7](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3272](https://www.govinfo.gov/link/statute/128/3272).)*

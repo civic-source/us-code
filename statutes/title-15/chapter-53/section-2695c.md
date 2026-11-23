@@ -3,9 +3,10 @@ title: "Section 2695c - Environmental health program"
 usc_title: 15
 usc_section: "2695c"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2695c"
-generated_at: "2026-03-30T02:54:08.181Z"
+generated_at: "2026-11-23T21:25:39.952Z"
+status: "active"
 ---
 
 # § 2695c. Environmental health program
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:54:08.181Z"
 - **(b)** The Federal Director and Commercial Director shall ensure, to the maximum extent practicable, that the public clearinghouse established under section 423 of the Energy Independence and Security Act of 2007 [ 42 U.S.C. 17083 ] receives and makes available—
   - **(1)** information from the Administrator that is contained in the report described in section 2695b(a) of this title ; and
   - **(2)** information on the exposure of children to environmental hazards in school facilities, as provided by the Administrator.
+
+## Source Credit
+
+*([Pub. L. 94–469, title V, § 504](https://www.govinfo.gov/link/plaw/94/public/469), as added [Pub. L. 110–140, title IV, § 461(a)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1641](https://www.govinfo.gov/link/statute/121/1641).)*

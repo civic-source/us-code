@@ -3,9 +3,10 @@ title: "Section 2210 - Reimbursement for costs of firefighting on Federal proper
 usc_title: 15
 usc_section: "2210"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2210"
-generated_at: "2026-03-30T02:54:08.168Z"
+generated_at: "2026-11-23T21:25:39.918Z"
+status: "active"
 ---
 
 # § 2210. Reimbursement for costs of firefighting on Federal property
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.168Z"
   - **(3)** the amount, if any, of the additional costs referred to in paragraph (2) of this subsection which were not adequately covered by the payments referred to in paragraph (1) of this subsection.
 - **(c)** The Administrator of FEMA shall forward the claim and a copy of the Administrator’s determination under subsection (b)(3) of this section to the Secretary of the Treasury. The Secretary of the Treasury shall, upon receipt of the claim and determination, pay such fire service or its parent jurisdiction, from any moneys in the Treasury not otherwise appropriated but subject to reimbursement (from any appropriations which may be available or which may be made available for the purpose) by the Federal department or agency under whose jurisdiction the fire occurred, a sum no greater than the amount determined with respect to the claim under subsection (b)(3) of this section.
 - **(d)** In the case of a dispute arising in connection with a claim under this section, the United States Court of Federal Claims shall have jurisdiction to adjudicate the claim and enter judgment accordingly.
+
+## Source Credit
+
+*([Pub. L. 93–498, § 11](https://www.govinfo.gov/link/plaw/93/public/498), Oct. 29, 1974, [88 Stat. 1543](https://www.govinfo.gov/link/statute/88/1543); [Pub. L. 97–164, title I, § 146](https://www.govinfo.gov/link/plaw/97/public/164), Apr. 2, 1982, [96 Stat. 45](https://www.govinfo.gov/link/statute/96/45); [Pub. L. 102–572, title IX, § 902(b)(1)](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4516](https://www.govinfo.gov/link/statute/106/4516); [Pub. L. 106–503, title I, § 110(a)(2)(B)(iii)](https://www.govinfo.gov/link/plaw/106/public/503), Nov. 13, 2000, [114 Stat. 2302](https://www.govinfo.gov/link/statute/114/2302); [Pub. L. 112–239, div. A, title XVIII, § 1802(b)(1)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2100](https://www.govinfo.gov/link/statute/126/2100).)*

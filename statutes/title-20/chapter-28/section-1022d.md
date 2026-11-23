@@ -3,9 +3,10 @@ title: "Section 1022d - Accountability for programs that prepare teachers"
 usc_title: 20
 usc_section: "1022d"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1022d"
-generated_at: "2026-03-30T02:54:48.098Z"
+generated_at: "2026-11-23T21:25:47.022Z"
+status: "active"
 ---
 
 # § 1022d. Accountability for programs that prepare teachers
@@ -77,3 +78,7 @@ generated_at: "2026-03-30T02:54:48.098Z"
     - **(C)** The national mean and median scaled scores and pass rate on any standardized test that is used in more than one State for teacher certification or licensure.
   - **(3)** In the case of a teacher preparation program with fewer than ten scores reported on any single initial teacher certification or licensure assessment during an academic year, the Secretary shall collect and publish, and make publicly available, information with respect to an average pass rate and scaled score on each State certification or licensure assessment taken over a three-year period.
 - **(e)** The Secretary, to the extent practicable, shall coordinate the information collected and published under this part among States for individuals who took State teacher certification or licensure assessments in a State other than the State in which the individual received the individual’s most recent degree.
+
+## Source Credit
+
+*([Pub. L. 89–329, title II, § 205](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title II, § 201(2)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3147](https://www.govinfo.gov/link/statute/122/3147); amended [Pub. L. 114–95, title IX](https://www.govinfo.gov/link/plaw/114/public/95), §§ 9214(c)(5), 9215(oo)(4), Dec. 10, 2015, [129 Stat. 2163](https://www.govinfo.gov/link/statute/129/2163), 2179.)*

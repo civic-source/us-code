@@ -3,9 +3,10 @@ title: "Section 2996b - Legal Services Corporation"
 usc_title: 42
 usc_section: "2996b"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2996b"
-generated_at: "2026-03-30T02:56:11.169Z"
+generated_at: "2026-11-23T21:26:32.446Z"
+status: "active"
 ---
 
 # § 2996b. Legal Services Corporation
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:11.169Z"
 - **(a)** There is established in the District of Columbia a private nonmembership nonprofit corporation, which shall be known as the Legal Services Corporation, for the purpose of providing financial support for legal assistance in noncriminal proceedings or matters to persons financially unable to afford legal assistance.
 - **(b)** The Corporation shall maintain its principal office in the District of Columbia and shall maintain therein a designated agent to accept service of process for the Corporation. Notice to or service upon the agent shall be deemed notice to or service upon the Corporation.
 - **(c)** The Corporation, and any legal assistance program assisted by the Corporation, shall be eligible to be treated as an organization described in section 170(c)(2)(B) of title 26 and as an organization described in section 501(c)(3) of title 26 which is exempt from taxation under section 501(a) of title 26 . If such treatments are conferred in accordance with the provisions of title 26, the Corporation, and legal assistance programs assisted by the Corporation, shall be subject to all provisions of title 26 relevant to the conduct of organizations exempt from taxation.
+
+## Source Credit
+
+*([Pub. L. 88–452, title X, § 1003](https://www.govinfo.gov/link/plaw/88/public/452), as added [Pub. L. 93–355, § 2](https://www.govinfo.gov/link/plaw/93/public/355), July 25, 1974, [88 Stat. 379](https://www.govinfo.gov/link/statute/88/379); amended [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095).)*

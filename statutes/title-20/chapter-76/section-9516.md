@@ -3,9 +3,10 @@ title: "Section 9516 - National Board for Education Sciences"
 usc_title: 20
 usc_section: "9516"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9516"
-generated_at: "2026-03-30T02:54:48.226Z"
+generated_at: "2026-11-23T21:25:47.658Z"
+status: "active"
 ---
 
 # § 9516. National Board for Education Sciences
@@ -74,3 +75,7 @@ generated_at: "2026-03-30T02:54:48.226Z"
     - **(D)** report periodically to the Board regarding the activities of the committee and the applicable National Education Center.
 - **(e)** The Board shall submit to the Director, the Secretary, and the appropriate congressional committees, not later than July 1 of each year, a report that assesses the effectiveness of the Institute in carrying out its priorities and mission, especially as such priorities and mission relate to carrying out scientifically valid research, conducting unbiased evaluations, collecting and reporting accurate education statistics, and translating research into practice.
 - **(f)** The Board shall submit to the Director, the Secretary, and the appropriate congressional committees a report that includes any recommendations regarding any actions that may be taken to enhance the ability of the Institute to carry out its priorities and mission. The Board shall submit an interim report not later than 3 years after November 5, 2002 , and a final report not later than 5 years after such date.
+
+## Source Credit
+
+*([Pub. L. 107–279, title I, § 116](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1948](https://www.govinfo.gov/link/statute/116/1948); [Pub. L. 108–446, title II](https://www.govinfo.gov/link/plaw/108/public/446), §§ 201(b)(2)(D), 202, Dec. 3, 2004, [118 Stat. 2802](https://www.govinfo.gov/link/statute/118/2802); [Pub. L. 110–154, § 1(d)](https://www.govinfo.gov/link/plaw/110/public/154), Dec. 21, 2007, [121 Stat. 1828](https://www.govinfo.gov/link/statute/121/1828); [Pub. L. 112–166, § 2(cc)](https://www.govinfo.gov/link/plaw/112/public/166), Aug. 10, 2012, [126 Stat. 1290](https://www.govinfo.gov/link/statute/126/1290); [Pub. L. 117–286, § 4(c)(28)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4357](https://www.govinfo.gov/link/statute/136/4357).)*

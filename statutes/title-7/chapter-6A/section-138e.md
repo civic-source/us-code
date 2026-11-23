@@ -3,9 +3,10 @@ title: "Section 138e - Reporting"
 usc_title: 7
 usc_section: "138e"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 138e"
-generated_at: "2026-03-30T02:53:42.275Z"
+generated_at: "2026-11-23T21:25:27.921Z"
+status: "active"
 ---
 
 # § 138e. Reporting
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.275Z"
   - **(3)** for which the chemical residue tolerance has been revoked or the chemical residue is otherwise not permitted by the Environmental Protection Agency.
 - **(b)** A laboratory shall submit the report required under subsection (a) to the Secretary, the Secretary of Health and Human Services, and the owner of such food as soon as practicable after the completion of the analysis of such food.
 - **(c)** The Secretary shall adopt standardized reporting guidelines to be applied to laboratories under this section and shall provide such guidelines to laboratories accredited under this chapter, as well as other sources of information regarding applicable pesticide chemical tolerances.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIII, § 1326](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3565](https://www.govinfo.gov/link/statute/104/3565).)*

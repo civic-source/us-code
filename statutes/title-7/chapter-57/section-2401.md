@@ -3,9 +3,10 @@ title: "Section 2401 - Definitions and rules of construction"
 usc_title: 7
 usc_section: "2401"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2401"
-generated_at: "2026-03-30T02:53:42.387Z"
+generated_at: "2026-11-23T21:25:28.297Z"
+status: "active"
 ---
 
 # § 2401. Definitions and rules of construction
@@ -36,3 +37,21 @@ generated_at: "2026-03-30T02:53:42.387Z"
     - **(A)** A variety that is adequately described by a publication reasonably considered to be a part of the public technical knowledge in the United States shall be considered to be publicly known and a matter of common knowledge.
     - **(B)** A description that meets the requirements of subparagraph (A) shall include a disclosure of the principal characteristics by which a variety is distinguished.
     - **(C)** A variety may become publicly known and a matter of common knowledge by other means.
+
+In General
+
+Applications Refiled.—
+
+In general
+
+Effect of refiling
+
+Labeling.—
+
+In general
+
+Sanctions
+
+## Source Credit
+
+*([Pub. L. 91–577, title II, § 41](https://www.govinfo.gov/link/plaw/91/public/577), Dec. 24, 1970, [84 Stat. 1546](https://www.govinfo.gov/link/statute/84/1546); [Pub. L. 103–349, § 2](https://www.govinfo.gov/link/plaw/103/public/349), Oct. 6, 1994, [108 Stat. 3136](https://www.govinfo.gov/link/statute/108/3136); [Pub. L. 115–334, title X, § 10108(a)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4906](https://www.govinfo.gov/link/statute/132/4906).)*

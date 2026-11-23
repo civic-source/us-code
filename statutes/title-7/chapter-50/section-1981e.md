@@ -3,9 +3,10 @@ title: "Section 1981e - Planting and production history guidelines"
 usc_title: 7
 usc_section: "1981e"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1981e"
-generated_at: "2026-03-30T02:53:42.350Z"
+generated_at: "2026-11-23T21:25:28.211Z"
+status: "active"
 ---
 
 # § 1981e. Planting and production history guidelines
@@ -15,3 +16,15 @@ generated_at: "2026-03-30T02:53:42.350Z"
   - **(1)** For purposes of averaging past yields of the farm of a borrower or applicant over a period of crop years to calculate future yields for the farm under this chapter (except for loans under subchapter III), the Secretary shall permit the borrower or applicant to exclude the crop year with the lowest actual or county average yield for the farm from the calculation, if the borrower or applicant was affected by a disaster during at least 2 of the crop years during the period.
   - **(2)** For purposes of paragraph (1), a borrower or applicant was affected by a disaster if the Secretary finds that the borrower or applicant’s farming operations have been substantially affected by a natural disaster in the United States or by a major disaster or emergency designated by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.), including a borrower or applicant who has a qualifying loss but is not located in a designated or declared disaster area.
   - **(3)** Paragraph (1) shall apply to all actions taken by the Secretary to carry out this chapter (except for loans under subchapter III) that involve the yields of a farm of a borrower or applicant, including making loans and loan guarantees, servicing loans, and making credit sales.
+
+In general
+
+Exception
+
+Interim regulations
+
+Final regulations
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 331E](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 100–233, title VI, § 606](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1667](https://www.govinfo.gov/link/statute/101/1667); amended [Pub. L. 102–237, title V, § 501(d)(1)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1866](https://www.govinfo.gov/link/statute/105/1866); [Pub. L. 102–552, title V, § 516(g)(1)](https://www.govinfo.gov/link/plaw/102/public/552), Oct. 28, 1992, [106 Stat. 4138](https://www.govinfo.gov/link/statute/106/4138).)*

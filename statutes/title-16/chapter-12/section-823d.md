@@ -3,9 +3,10 @@ title: "Section 823d - Alternative conditions and prescriptions"
 usc_title: 16
 usc_section: "823d"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 823d"
-generated_at: "2026-03-30T02:54:22.913Z"
+generated_at: "2026-11-23T21:25:51.760Z"
+status: "active"
 ---
 
 # § 823d. Alternative conditions and prescriptions
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:22.913Z"
   - **(3)** In making a determination under paragraph (2), the Secretary shall consider evidence provided for the record by any party to a licensing proceeding, or otherwise available to the Secretary, including any evidence provided by the Commission, on the implementation costs or operational impacts for electricity production of a proposed alternative.
   - **(4)** The Secretary concerned shall submit into the public record of the Commission proceeding with any prescription under section 811 of this title or alternative prescription it accepts under this section, a written statement explaining the basis for such prescription, and reason for not accepting any alternative prescription under this section. The written statement must demonstrate that the Secretary gave equal consideration to the effects of the prescription adopted and alternatives not accepted on energy supply, distribution, cost, and use; flood control; navigation; water supply; and air quality (in addition to the preservation of other aspects of environmental quality); based on such information as may be available to the Secretary, including information voluntarily provided in a timely manner by the applicant and others. The Secretary shall also submit, together with the aforementioned written statement, all studies, data, and other factual information available to the Secretary and relevant to the Secretary’s decision.
   - **(5)** If the Commission finds that the Secretary’s final prescription would be inconsistent with the purposes of this subchapter, or other applicable law, the Commission may refer the dispute to the Commission’s Dispute Resolution Service. The Dispute Resolution Service shall consult with the Secretary and the Commission and issue a non-binding advisory within 90 days. The Secretary may accept the Dispute Resolution Service advisory unless the Secretary finds that the recommendation will not adequately protect the fish resources. The Secretary shall submit the advisory and the Secretary’s final written determination into the record of the Commission’s proceeding.
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. I, § 33, as added [Pub. L. 109–58, title II, § 241(c)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 675](https://www.govinfo.gov/link/statute/119/675).)*

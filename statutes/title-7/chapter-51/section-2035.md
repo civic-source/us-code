@@ -3,9 +3,10 @@ title: "Section 2035 - Simplified supplemental nutrition assistance program"
 usc_title: 7
 usc_section: "2035"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2035"
-generated_at: "2026-03-30T02:53:42.374Z"
+generated_at: "2026-11-23T21:25:28.269Z"
+status: "active"
 ---
 
 # § 2035. Simplified supplemental nutrition assistance program
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:53:42.374Z"
     - **(F)** section 2020(e)(10) of this title (or a comparable requirement established by the State under a State program funded under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.)); and
     - **(G)** section 2025 of this title .
   - **(4)** Notwithstanding any other provision of this section, a household may not receive benefits under this section as a result of the eligibility of the household under a State program funded under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.), unless the Secretary determines that any household with income above 130 percent of the poverty guidelines is not eligible for the program.
+
+## Source Credit
+
+*([Pub. L. 88–525, § 26](https://www.govinfo.gov/link/plaw/88/public/525), as added [Pub. L. 104–193, title VIII, § 854(a)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2340](https://www.govinfo.gov/link/statute/110/2340); amended [Pub. L. 110–234, title IV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 4001(b), 4002(a)(12), 4115(b)(16), May 22, 2008, [122 Stat. 1092](https://www.govinfo.gov/link/statute/122/1092), 1095, 1109; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, §§ 4001(b), 4002(a)(12), 4115(b)(16), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1853, 1857, 1870; [Pub. L. 113–79, title IV, § 4030](https://www.govinfo.gov/link/plaw/113/public/79) (l), Feb. 7, 2014, [128 Stat. 814](https://www.govinfo.gov/link/statute/128/814); [Pub. L. 115–334, title IV, § 4022(9)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4654](https://www.govinfo.gov/link/statute/132/4654).)*

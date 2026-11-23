@@ -3,9 +3,10 @@ title: "Section 2433a - Repealed. Pub. L. 116–283, div. A, title XVIII, § 185
 usc_title: 10
 usc_section: "2433a"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2433a"
-generated_at: "2026-03-30T02:53:38.158Z"
+generated_at: "2026-11-23T21:25:32.611Z"
+status: "repealed"
 ---
 
 # [§ 2433a. Repealed. Pub. L. 116–283, div. A, title XVIII, § 1850(l) , Jan. 1, 2021 , 134 Stat. 4271 ]

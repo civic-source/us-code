@@ -3,9 +3,10 @@ title: "Section 2577a - Arms control verification"
 usc_title: 22
 usc_section: "2577a"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2577a"
-generated_at: "2026-03-30T02:55:05.372Z"
+generated_at: "2026-11-23T21:25:58.510Z"
+status: "active"
 ---
 
 # § 2577a. Arms control verification
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.372Z"
     - **(B)** proposed, prospective, and potential bilateral or multilateral arms treaties in the areas of nuclear, conventional, chemical, and space weapons.
   - **(2)** The Agency shall seek to improve United States verification and monitoring activities through the monitoring and support of relevant research and analysis.
   - **(3)** The Agency shall provide detailed information on the activities pursuant to this section in its annual report to the Congress.
+
+## Source Credit
+
+*([Pub. L. 101–216, title I, § 105](https://www.govinfo.gov/link/plaw/101/public/216), Dec. 11, 1989, [103 Stat. 1854](https://www.govinfo.gov/link/statute/103/1854).)*

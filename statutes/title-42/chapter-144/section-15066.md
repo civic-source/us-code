@@ -3,9 +3,10 @@ title: "Section 15066 - Authorization of appropriations"
 usc_title: 42
 usc_section: "15066"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15066"
-generated_at: "2026-03-30T02:56:11.458Z"
+generated_at: "2026-11-23T21:26:33.662Z"
+status: "active"
 ---
 
 # § 15066. Authorization of appropriations
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.458Z"
 - **(b)** The Secretary may not use, for peer review or other activities directly related to peer review conducted under this part—
   - **(1)** for fiscal year 2001, more than $300,000 of the funds made available under subsection (a); and
   - **(2)** for any succeeding fiscal year, more than the amount of funds used for the peer review and related activities in fiscal year 2001, adjusted to take into account the most recent percentage change in the Consumer Price Index published by the Secretary of Labor under section 720(c)(1) of title 29 (if the percentage change indicates an increase).
+
+## Source Credit
+
+*([Pub. L. 106–402, title I, § 156](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1725](https://www.govinfo.gov/link/statute/114/1725).)*

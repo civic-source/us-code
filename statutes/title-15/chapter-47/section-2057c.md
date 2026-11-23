@@ -3,9 +3,10 @@ title: "Section 2057c - Prohibition on sale of certain products containing speci
 usc_title: 15
 usc_section: "2057c"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2057c"
-generated_at: "2026-03-30T02:54:08.163Z"
+generated_at: "2026-11-23T21:25:39.905Z"
+status: "active"
 ---
 
 # § 2057c. Prohibition on sale of certain products containing specified phthalates
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:54:08.163Z"
       - **(iii)** Whether the product is commonly recognized by consumers as being intended for use by a child of the ages specified.
       - **(iv)** The Age Determination guidelines issued by the Commission staff in September 2002 and any successor to such guidelines.
     - **(B)** For purposes of this section a toy can be placed in a child’s mouth if any part of the toy can actually be brought to the mouth and kept in the mouth by a child so that it can be sucked and chewed. If the children’s product can only be licked, it is not regarded as able to be placed in the mouth. If a toy or part of a toy in one dimension is smaller than 5 centimeters, it can be placed in the mouth.
+
+## Source Credit
+
+*([Pub. L. 110–314, title I, § 108](https://www.govinfo.gov/link/plaw/110/public/314), Aug. 14, 2008, [122 Stat. 3036](https://www.govinfo.gov/link/statute/122/3036); [Pub. L. 112–28, § 5(a)](https://www.govinfo.gov/link/plaw/112/public/28), Aug. 12, 2011, [125 Stat. 280](https://www.govinfo.gov/link/statute/125/280).)*

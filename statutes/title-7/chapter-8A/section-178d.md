@@ -3,9 +3,10 @@ title: "Section 178d - Research and development program by Secretary of Commerce
 usc_title: 7
 usc_section: "178d"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 178d"
-generated_at: "2026-03-30T02:53:42.276Z"
+generated_at: "2026-11-23T21:25:27.923Z"
+status: "active"
 ---
 
 # § 178d. Research and development program by Secretary of Commerce
@@ -19,3 +20,7 @@ The Secretary of Commerce is authorized and directed to initiate and carry out r
 - **(e)** further refining present extraction and manufacturing technologies and future extraction and manufacturing technologies, including technologies which utilize solar energy;
 - **(f)** developing pertinent material and records on manufacturing of natural rubber which shall be available to other Federal and State agencies and private persons who are interested in or involved in natural rubber development, or manufacture; and
 - **(g)** to the extent appropriate, carrying out research activities with respect to native agricultural crops (other than Parthenium and other hydrocarbon-containing plants) that would supply critical agricultural materials for strategic and industrial purposes, in the manner specified in clauses (a) through (f).
+
+## Source Credit
+
+*([Pub. L. 95–592, § 6](https://www.govinfo.gov/link/plaw/95/public/592), Nov. 4, 1978, [92 Stat. 2531](https://www.govinfo.gov/link/statute/92/2531); [Pub. L. 98–284, § 6](https://www.govinfo.gov/link/plaw/98/public/284), May 16, 1984, [98 Stat. 183](https://www.govinfo.gov/link/statute/98/183).)*

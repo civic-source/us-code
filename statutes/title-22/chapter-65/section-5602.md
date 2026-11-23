@@ -3,9 +3,10 @@ title: "Section 5602 - Multilateral efforts"
 usc_title: 22
 usc_section: "5602"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5602"
-generated_at: "2026-03-30T02:55:05.419Z"
+generated_at: "2026-11-23T21:25:58.664Z"
+status: "active"
 ---
 
 # § 5602. Multilateral efforts
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:05.419Z"
     - **(F)** a “denial” list of firms and individuals who violate the Australia Group’s export control provisions, and
     - **(G)** broader cooperation between the Australia Group and other countries whose political commitment to stem the proliferation of chemical weapons is similar to that of the Australia Group; and
   - **(4)** to adopt the imposition of stricter controls on the export of chemical agents, precursors, and equipment and to adopt tougher multilateral sanctions against firms and individuals who violate these controls or against countries that use chemical weapons.
+
+## Source Credit
+
+*([Pub. L. 102–182, title III, § 303](https://www.govinfo.gov/link/plaw/102/public/182), Dec. 4, 1991, [105 Stat. 1245](https://www.govinfo.gov/link/statute/105/1245).)*

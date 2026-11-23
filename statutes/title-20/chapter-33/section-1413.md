@@ -3,9 +3,10 @@ title: "Section 1413 - Local educational agency eligibility"
 usc_title: 20
 usc_section: "1413"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1413"
-generated_at: "2026-03-30T02:54:48.161Z"
+generated_at: "2026-11-23T21:25:47.322Z"
+status: "active"
 ---
 
 # § 1413. Local educational agency eligibility
@@ -102,3 +103,7 @@ generated_at: "2026-03-30T02:54:48.161Z"
   - **(3)** If a State educational agency exercises the authority under paragraph (1), the agency shall use funds from State sources, in an amount equal to the amount of the reduction under paragraph (1), to support activities authorized under the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6301 et seq.] or to support need based student or teacher higher education programs.
   - **(4)** For each fiscal year for which a State educational agency exercises the authority under paragraph (1), the State educational agency shall report to the Secretary the amount of expenditures reduced pursuant to such paragraph and the activities that were funded pursuant to paragraph (3).
   - **(5)** Notwithstanding paragraph (1), a State educational agency may not reduce the level of expenditures described in paragraph (1) if any local educational agency in the State would, as a result of such reduction, receive less than 100 percent of the amount necessary to ensure that all children with disabilities served by the local educational agency receive a free appropriate public education from the combination of Federal funds received under this chapter and State funds received from the State educational agency.
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 613](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2694](https://www.govinfo.gov/link/statute/118/2694); amended [Pub. L. 114–95, title IX, § 9215(ss)(4)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2182](https://www.govinfo.gov/link/statute/129/2182).)*

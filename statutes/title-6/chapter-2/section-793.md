@@ -3,9 +3,10 @@ title: "Section 793 - Oversight and accountability of Federal disaster expenditu
 usc_title: 6
 usc_section: "793"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 793"
-generated_at: "2026-03-30T02:53:09.500Z"
+generated_at: "2026-11-23T21:25:25.849Z"
+status: "active"
 ---
 
 # § 793. Oversight and accountability of Federal disaster expenditures
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:09.500Z"
   - **(3)** The plan shall include a schedule for conducting oversight activities, including anticipated dates of completion.
 - **(f)** A Federal agency receiving oversight funds under this section shall submit annually to the Administrator and the appropriate committees of Congress a consolidated report regarding the use of such funds, including information summarizing oversight activities and the results achieved.
 - **(g)** In this section, the term “oversight funds” means funds referred to in subsection (a) that are designated for use in performing oversight activities.
+
+## Source Credit
+
+*([Pub. L. 109–295, title VI, § 693](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1458](https://www.govinfo.gov/link/statute/120/1458).)*

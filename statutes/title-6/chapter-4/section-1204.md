@@ -3,9 +3,10 @@ title: "Section 1204 - Motor carrier security-sensitive material tracking"
 usc_title: 6
 usc_section: "1204"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1204"
-generated_at: "2026-03-30T02:53:09.509Z"
+generated_at: "2026-11-23T21:25:25.876Z"
+status: "active"
 ---
 
 # § 1204. Motor carrier security-sensitive material tracking
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:09.509Z"
   - **(3)** $7,000,000 for fiscal year 2010 of which $3,000,000 may be used for equipment.
 - **(c)** Not later than 1 year after the issuance of regulations under subsection (a), the Secretary shall issue a report to the appropriate congressional committees on the program developed and evaluation carried out under this section.
 - **(d)** The Secretary may not mandate the installation or utilization of a technology described under this section without additional congressional authority provided after August 3, 2007 .
+
+## Source Credit
+
+*([Pub. L. 110–53, title XV, § 1554](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 473](https://www.govinfo.gov/link/statute/121/473).)*

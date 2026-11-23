@@ -3,9 +3,10 @@ title: "Section 3426 - Liaison for Proprietary Institutions of Higher Education"
 usc_title: 20
 usc_section: "3426"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 3426"
-generated_at: "2026-03-30T02:54:48.178Z"
+generated_at: "2026-11-23T21:25:47.409Z"
+status: "active"
 ---
 
 # § 3426. Liaison for Proprietary Institutions of Higher Education
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:48.178Z"
     - **(A)** the outreach programs in the numerous Federal departments and agencies that administer education and job training programs;
     - **(B)** collaborative business and education partnerships; and
     - **(C)** education programs located in, and involving, rural areas.
+
+## Source Credit
+
+*([Pub. L. 96–88, title II, § 219](https://www.govinfo.gov/link/plaw/96/public/88), as added [Pub. L. 105–244, title IX, § 961](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1836](https://www.govinfo.gov/link/statute/112/1836).)*

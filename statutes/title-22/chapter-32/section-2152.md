@@ -3,9 +3,10 @@ title: "Section 2152 - Assistance for victims of torture"
 usc_title: 22
 usc_section: "2152"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2152"
-generated_at: "2026-03-30T02:55:05.347Z"
+generated_at: "2026-11-23T21:25:58.440Z"
+status: "active"
 ---
 
 # § 2152. Assistance for victims of torture
@@ -15,3 +16,41 @@ generated_at: "2026-03-30T02:55:05.347Z"
 - **(c)** Such assistance shall be available—
   - **(1)** for direct services to victims of torture; and
   - **(2)** to provide research and training to health care providers outside of treatment centers or programs described in subsection (b), for the purpose of enabling such providers to provide the services described in paragraph (1).
+
+“It is the policy of the United States—
+
+Amendments to the Foreign Assistance Act of
+
+Funding.—
+
+Authorization of appropriations
+
+Availability of funds
+
+Effective Date
+
+Assistance for Treatment of Torture Victims
+
+Funding.—
+
+Authorization of appropriations
+
+Availability of funds
+
+Funding
+
+Fiscal year 1999
+
+Fiscal year 2000
+
+Availability of Funds
+
+Sense of the Congress
+
+In General
+
+Gender-Related Considerations
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 130, formerly § 129, as added [Pub. L. 105–320, § 4(a)](https://www.govinfo.gov/link/plaw/105/public/320), Oct. 30, 1998, [112 Stat. 3017](https://www.govinfo.gov/link/statute/112/3017); renumbered § 130, [Pub. L. 106–87, § 6(a)](https://www.govinfo.gov/link/plaw/106/public/87), Nov. 3, 1999, [113 Stat. 1302](https://www.govinfo.gov/link/statute/113/1302).)*

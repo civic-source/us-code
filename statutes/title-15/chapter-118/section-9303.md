@@ -3,9 +3,10 @@ title: "Section 9303 - Agency activities in support of sustainable chemistry"
 usc_title: 15
 usc_section: "9303"
 chapter: 118
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9303"
-generated_at: "2026-03-30T02:54:08.246Z"
+generated_at: "2026-11-23T21:25:40.140Z"
+status: "active"
 ---
 
 # § 9303. Agency activities in support of sustainable chemistry
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:08.246Z"
 - **(c)** Financial support provided under this section shall—
   - **(1)** be available only for pre-competitive activities; and
   - **(2)** not be used to promote the sale of a specific product, process, or technology, or to disparage a specific product, process, or technology.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. A, title II, § 263](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3500](https://www.govinfo.gov/link/statute/134/3500).)*

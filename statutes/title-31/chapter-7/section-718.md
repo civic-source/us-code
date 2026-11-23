@@ -3,9 +3,10 @@ title: "Section 718 - Availability of draft reports"
 usc_title: 31
 usc_section: "718"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 718"
-generated_at: "2026-03-30T02:55:34.047Z"
+generated_at: "2026-11-23T21:26:10.528Z"
+status: "active"
 ---
 
 # § 718. Availability of draft reports
@@ -21,3 +22,54 @@ generated_at: "2026-03-30T02:55:34.047Z"
   - **(1)** a statement of significant changes of a finding, conclusion, or recommendation in an earlier draft report because of comments on the draft by an agency;
   - **(2)** a statement of the reasons the changes were made; and
   - **(3)** for a draft report submitted under subsection (a) of this section, written comments of the agency submitted during the comment period.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 718(a) | 31:67(e)(6)(B)(1st sentence). | Sept. 12, 1950, ch. 946 , 64 Stat. 832 , § 117(e)(6)(B); added July 21, 1978 , Pub. L. 95–320, § 2 , 92 Stat. 392 . |
+| 718(b)(1) | 31:53(f)(1), (2). | June 10, 1921, ch. 18 , 42 Stat. 20 , § 312(f); added Apr. 3, 1980 , Pub. L. 96–226, § 103 , 94 Stat. 314 . |
+| 718(b)(2) | 31:53(f)(3). |  |
+| 718(b)(3) | 31:53(f)(5). |  |
+| 718(c)(1) | 31:53(f)(4)(A). |  |
+| 718(c)(2) | 31:53(f)(4)(B). |  |
+| 718(c)(3) | 31:67(e)(6)(B)(last sentence). |  |
+
+
+Historical and Revision Notes
+
+718(a)
+
+Sept. 12, 1950, ch. 946
+
+64 Stat. 832
+
+July 21, 1978
+
+Pub. L. 95–320, § 2
+
+92 Stat. 392
+
+718(b)(1)
+
+June 10, 1921, ch. 18
+
+42 Stat. 20
+
+Apr. 3, 1980
+
+Pub. L. 96–226, § 103
+
+94 Stat. 314
+
+718(b)(2)
+
+718(b)(3)
+
+718(c)(1)
+
+718(c)(2)
+
+718(c)(3)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 894](https://www.govinfo.gov/link/statute/96/894).)*

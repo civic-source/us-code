@@ -3,9 +3,10 @@ title: "Section 3680 - Payment of educational assistance or subsistence allowanc
 usc_title: 38
 usc_section: "3680"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3680"
-generated_at: "2026-03-30T02:55:53.508Z"
+generated_at: "2026-11-23T21:26:16.760Z"
+status: "active"
 ---
 
 # § 3680. Payment of educational assistance or subsistence allowances
@@ -59,3 +60,35 @@ generated_at: "2026-03-30T02:55:53.508Z"
     - **(B)** is suspended by reason of an emergency situation.
   - **(2)** The total number of weeks for which allowances may be paid by reason of this subsection may not exceed four weeks.
   - **(3)** Any amount paid under this subsection shall not be counted for purposes of the limitation on allowances under subsection (a)(2)(A).
+
+Period for Which Payment May Be Made
+
+Correspondence Training Certifications
+
+Apprenticeship and Other On-Job Training
+
+Advance Payment of Initial Educational Assistance or Subsistence Allowance
+
+Recovery of Erroneous Payments
+
+Payments for Less Than Half-Time Training
+
+Determination of Enrollment, Pursuit, and Attendance
+
+Payments During Emergency Situations
+
+“Not later than 90 days after the date of the enactment of this Act [ Jan. 2, 2025 ], the Secretary of Veterans Affairs shall update the payment system of the Department of Veterans Affairs to allow for electronic fund transfer of educational assistance, administered by the Secretary, to a foreign institution of higher education that—
+
+In general
+
+Semiannual reports
+
+Section
+
+Sec
+
+Jimmy Carter.
+
+## Source Credit
+
+*(Added [Pub. L. 92–540, title II, § 201](https://www.govinfo.gov/link/plaw/92/public/540), Oct. 24, 1972, [86 Stat. 1076](https://www.govinfo.gov/link/statute/86/1076), § 1780; amended [Pub. L. 93–208](https://www.govinfo.gov/link/plaw/93/public/208), Dec. 28, 1973, [87 Stat. 907](https://www.govinfo.gov/link/statute/87/907); [Pub. L. 93–508, title II, § 209](https://www.govinfo.gov/link/plaw/93/public/508), Dec. 3, 1974, [88 Stat. 1584](https://www.govinfo.gov/link/statute/88/1584); [Pub. L. 94–502, title V](https://www.govinfo.gov/link/plaw/94/public/502), §§ 505, 506, 513(a)(5)–(12), Oct. 15, 1976, [90 Stat. 2400](https://www.govinfo.gov/link/statute/90/2400), 2402, 2403; [Pub. L. 96–466, title III](https://www.govinfo.gov/link/plaw/96/public/466), §§ 341, 342, title VI, §§ 601(c), (d), 602(c), Oct. 17, 1980, [94 Stat. 2198](https://www.govinfo.gov/link/statute/94/2198), 2208, 2209; [Pub. L. 97–35, title XX, § 2003(c)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 782](https://www.govinfo.gov/link/statute/95/782); [Pub. L. 97–295, § 4(52)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1308](https://www.govinfo.gov/link/statute/96/1308); [Pub. L. 97–306, title II, § 205(c)](https://www.govinfo.gov/link/plaw/97/public/306), Oct. 14, 1982, [96 Stat. 1434](https://www.govinfo.gov/link/statute/96/1434); [Pub. L. 99–576, title III](https://www.govinfo.gov/link/plaw/99/public/576), §§ 315(a)(1), 316, title VII, § 701(59), Oct. 28, 1986, [100 Stat. 3274](https://www.govinfo.gov/link/statute/100/3274), 3296; [Pub. L. 100–689, title I, § 121(a)](https://www.govinfo.gov/link/plaw/100/public/689), Nov. 18, 1988, [102 Stat. 4173](https://www.govinfo.gov/link/statute/102/4173); [Pub. L. 101–237, title IV](https://www.govinfo.gov/link/plaw/101/public/237), §§ 412(a), 415(a), 423(b)(1), (2), Dec. 18, 1989, [103 Stat. 2085](https://www.govinfo.gov/link/statute/103/2085), 2086, 2092; [Pub. L. 102–40, title IV, § 402(d)(1)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 239](https://www.govinfo.gov/link/statute/105/239); renumbered § 3680 and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 102–127, § 6(a)](https://www.govinfo.gov/link/plaw/102/public/127), Oct. 10, 1991, [105 Stat. 622](https://www.govinfo.gov/link/statute/105/622); [Pub. L. 102–568, title III, § 314](https://www.govinfo.gov/link/plaw/102/public/568), Oct. 29, 1992, [106 Stat. 4333](https://www.govinfo.gov/link/statute/106/4333); [Pub. L. 103–446, title VI, § 605(a)(2)(B)](https://www.govinfo.gov/link/plaw/103/public/446), title XII, § 1201(i)(6), Nov. 2, 1994, [108 Stat. 4672](https://www.govinfo.gov/link/statute/108/4672), 4688; [Pub. L. 106–419, title I, § 121(a)](https://www.govinfo.gov/link/plaw/106/public/419), Nov. 1, 2000, [114 Stat. 1833](https://www.govinfo.gov/link/statute/114/1833); [Pub. L. 107–103, title I, § 104(b)](https://www.govinfo.gov/link/plaw/107/public/103), Dec. 27, 2001, [115 Stat. 981](https://www.govinfo.gov/link/statute/115/981); [Pub. L. 109–233, title V, § 503(8)(A)](https://www.govinfo.gov/link/plaw/109/public/233), June 15, 2006, [120 Stat. 416](https://www.govinfo.gov/link/statute/120/416); [Pub. L. 111–377, title II, § 206(a)](https://www.govinfo.gov/link/plaw/111/public/377), Jan. 4, 2011, [124 Stat. 4126](https://www.govinfo.gov/link/statute/124/4126); [Pub. L. 115–48, title I, § 109(b)](https://www.govinfo.gov/link/plaw/115/public/48), Aug. 16, 2017, [131 Stat. 980](https://www.govinfo.gov/link/statute/131/980); [Pub. L. 115–89, § 3](https://www.govinfo.gov/link/plaw/115/public/89), Nov. 21, 2017, [131 Stat. 1279](https://www.govinfo.gov/link/statute/131/1279); [Pub. L. 116–315, title I, § 1007(b)](https://www.govinfo.gov/link/plaw/116/public/315), Jan. 5, 2021, [134 Stat. 4940](https://www.govinfo.gov/link/statute/134/4940); [Pub. L. 117–76, § 4(a)](https://www.govinfo.gov/link/plaw/117/public/76), Dec. 21, 2021, [135 Stat. 1519](https://www.govinfo.gov/link/statute/135/1519); [Pub. L. 117–333, § 6(a)](https://www.govinfo.gov/link/plaw/117/public/333), Jan. 5, 2023, [136 Stat. 6129](https://www.govinfo.gov/link/statute/136/6129); [Pub. L. 118–210, title II, § 208(a)](https://www.govinfo.gov/link/plaw/118/public/210), Jan. 2, 2025, [138 Stat. 2765](https://www.govinfo.gov/link/statute/138/2765).)*

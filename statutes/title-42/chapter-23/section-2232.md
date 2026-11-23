@@ -3,9 +3,10 @@ title: "Section 2232 - License applications"
 usc_title: 42
 usc_section: "2232"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2232"
-generated_at: "2026-03-30T02:56:11.157Z"
+generated_at: "2026-11-23T21:26:32.381Z"
+status: "active"
 ---
 
 # § 2232. License applications
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.157Z"
 - **(b)** The Advisory Committee on Reactor Safeguards shall review each application under section 2133 or section 2134(b) of this title for a construction permit or an operating license for a facility, any application under section 2134(c) of this title for a construction permit or an operating license for a testing facility, any application under subsection (a) or (c) of section 2134 of this title specifically referred to it by the Commission, and any application for an amendment to a construction permit or an amendment to an operating license under section 2133 or 2134(a), (b), or (c) of this title specifically referred to it by the Commission, and shall submit a report thereon which shall be made part of the record of the application and available to the public except to the extent that security classification prevents disclosure.
 - **(c)** The Commission shall not issue any license under section 2133 of this title for a utilization or production facility for the generation of commercial power until it has given notice in writing to such regulatory agency as may have jurisdiction over the rates and services incident to the proposed activity; until it has published notice of the application in such trade or news publications as the Commission deems appropriate to give reasonable notice to municipalities, private utilities, public bodies, and cooperatives which might have a potential interest in such utilization or production facility; and until it has published notice of such application once each week for four consecutive weeks in the Federal Register, and until four weeks after the last notice.
 - **(d)** The Commission, in issuing any license for a utilization or production facility for the generation of commercial power under section 2133 of this title , shall give preferred consideration to applications for such facilities which will be located in high cost power areas in the United States if there are conflicting applications for a limited opportunity for such license. Where such conflicting applications resulting from limited opportunity for such license include those submitted by public or cooperative bodies such applications shall be given preferred consideration.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 182, as added Aug. 30, 1954, ch. 1073, § 1, [68 Stat. 953](https://www.govinfo.gov/link/statute/68/953); amended Aug. 6, 1956, ch. 1015, § 5, [70 Stat. 1069](https://www.govinfo.gov/link/statute/70/1069); [Pub. L. 85–256, § 6](https://www.govinfo.gov/link/plaw/85/public/256), Sept. 2, 1957, [71 Stat. 579](https://www.govinfo.gov/link/statute/71/579); [Pub. L. 87–615, § 3](https://www.govinfo.gov/link/plaw/87/public/615), Aug. 29, 1962, [76 Stat. 409](https://www.govinfo.gov/link/statute/76/409); [Pub. L. 91–560, § 9](https://www.govinfo.gov/link/plaw/91/public/560), Dec. 19, 1970, [84 Stat. 1474](https://www.govinfo.gov/link/statute/84/1474); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944).)*

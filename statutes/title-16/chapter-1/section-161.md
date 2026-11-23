@@ -3,12 +3,21 @@ title: "Section 161 - Establishment; boundaries; trespassers; claims and rights 
 usc_title: 16
 usc_section: "161"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 161"
-generated_at: "2026-03-30T02:54:22.737Z"
+generated_at: "2026-11-23T21:25:51.385Z"
+status: "active"
 ---
 
 # § 161. Establishment; boundaries; trespassers; claims and rights under land laws not affected; reclamation projects; indemnity selections of lands
 
 The tract of land in the State of Montana particularly described by metes and bounds as follows, to wit: Commencing at a point on the international boundary between the United States and the Dominion of Canada at the middle of the Flathead River; thence following southerly along and with the middle of the Flathead River to its confluence with the Middle Fork of the Flathead River; thence following the north bank of said Middle Fork of the Flathead River to where it is crossed by the north boundary of the right-of-way of the Great Northern Railroad; thence following the said right-of-way to where it intersects the west boundary of the Blackfeet Indian Reservation; thence northerly along said west boundary to its intersection with the international boundary; thence along said international boundary to the place of beginning, is reserved and withdrawn from settlement, occupancy, or disposal under the laws of the United States, and dedicated and set apart as a public park or pleasure ground for the benefit and enjoyment of the people of the United States under the name of “The Glacier National Park.” All persons who shall locate or settle upon or occupy the same, or any part thereof, except as hereinafter provided, shall be considered trespassers and removed therefrom. Nothing herein contained shall affect any valid claim, location, or entry existing under the land laws of the United States before May 11, 1910 , or the rights of any such claimant, locator, or entryman to the full use and enjoyment of his land. The United States Reclamation Service may enter upon and utilize for flowage or other purposes any area within said park which may be necessary for the development and maintenance of a Government reclamation project. No lands within the limits of Glacier National Park belonging to or claimed by any railroad or other corporation having or claiming before May 11, 1910 , the right of indemnity selection by virtue of any law or contract whatsoever shall be used as a basis for indemnity selection in any State or Territory whatsoever for any loss sustained by reason of the creation of Glacier National Park.
 
+
+In General
+
+Terms and Conditions
+
+## Source Credit
+
+*(May 11, 1910, ch. 226, § 1, [36 Stat. 354](https://www.govinfo.gov/link/statute/36/354); Jan. 26, 1931, ch. 47, § 5, [46 Stat. 1043](https://www.govinfo.gov/link/statute/46/1043).)*

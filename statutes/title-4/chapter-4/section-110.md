@@ -3,9 +3,10 @@ title: "Section 110 - Same; definitions"
 usc_title: 4
 usc_section: "110"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "4 U.S.C. § 110"
-generated_at: "2026-03-30T02:52:51.498Z"
+generated_at: "2026-11-23T21:25:19.973Z"
+status: "active"
 ---
 
 # § 110. Same; definitions
@@ -17,3 +18,7 @@ As used in sections 105–109 of this title—
 - **(c)** The term “income tax” means any tax levied on, with respect to, or measured by, net income, gross income, or gross receipts.
 - **(d)** The term “State” includes any Territory or possession of the United States.
 - **(e)** The term “Federal area” means any lands or premises held or acquired by or for the use of the United States or any department, establishment, or agency, of the United States; and any Federal area, or any part thereof, which is located within the exterior boundaries of any State, shall be deemed to be a Federal area located within such State.
+
+## Source Credit
+
+*(July 30, 1947, ch. 389, [61 Stat. 645](https://www.govinfo.gov/link/statute/61/645).)*

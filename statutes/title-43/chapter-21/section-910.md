@@ -3,12 +3,17 @@ title: "Section 910 - Right to extend public surveys over lands granted, and oth
 usc_title: 43
 usc_section: "910"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 910"
-generated_at: "2026-03-30T02:55:57.465Z"
+generated_at: "2026-11-23T21:26:19.814Z"
+status: "active"
 ---
 
 # § 910. Right to extend public surveys over lands granted, and other rights of United States, not affected
 
 Sections 908 to 911 of this title shall not affect the right of the Secretary of the Interior to cause the public surveys to be extended over any lands granted to any railroad or corporation by any Act of Congress in the manner on June 25, 1910 , otherwise provided by law, nor shall any claim, right, interest, or demand of the Government of the United States be waived or annulled by the provisions thereof: Provided , That all granted lands surveyed under the provisions of said sections shall be subject to taxation by States, Territories, and municipal authorities, and the right of the Government to reimburse itself for the survey, selection, and conveyance of such lands otherwise provided by law shall remain in full force and effect.
 
+
+## Source Credit
+
+*(June 25, 1910, ch. 406, § 3, [36 Stat. 834](https://www.govinfo.gov/link/statute/36/834).)*

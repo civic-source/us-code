@@ -3,9 +3,10 @@ title: "Section 3701 - National Afro-American History and Culture Commission"
 usc_title: 20
 usc_section: "3701"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 3701"
-generated_at: "2026-03-30T02:54:48.180Z"
+generated_at: "2026-11-23T21:25:47.421Z"
+status: "active"
 ---
 
 # § 3701. National Afro-American History and Culture Commission
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:48.180Z"
   - **(1)** acquire by gift, purchase with appropriated or donated funds (including funds from State or local sources), transfer from any Federal or State agency, exchange, or otherwise, suitable land (together with any buildings or other improvements thereon) and interest in land in the vicinity of Wilberforce, Ohio, for the location of the headquarters of the center;
   - **(2)** borrow or acquire by gift, purchase with appropriated or donated funds (including funds from State or local sources), or otherwise, any other real or personal property necessary for the establishment and operation of the center; and
   - **(3)** sell, exchange, or otherwise dispose of any property acquired under this subsection and designate any proceeds from such disposal for the benefit of the center.
+
+## Source Credit
+
+*([Pub. L. 96–430, title II, § 202](https://www.govinfo.gov/link/plaw/96/public/430), Oct. 10, 1980, [94 Stat. 1846](https://www.govinfo.gov/link/statute/94/1846).)*

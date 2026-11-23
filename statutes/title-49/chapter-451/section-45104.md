@@ -3,9 +3,10 @@ title: "Section 45104 - Testing and laboratory requirements"
 usc_title: 49
 usc_section: "45104"
 chapter: 451
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 45104"
-generated_at: "2026-03-30T02:56:19.396Z"
+generated_at: "2026-11-23T21:26:40.938Z"
+status: "active"
 ---
 
 # § 45104. Testing and laboratory requirements
@@ -23,3 +24,28 @@ In carrying out section 45102 of this title , the Administrator of the Federal A
   - **(6)** ensure appropriate safeguards for testing to detect and quantify alcohol in breath and body fluid samples, including urine and blood, through the development of regulations that may be necessary and in consultation with the Secretary of Health and Human Services;
   - **(7)** provide for the confidentiality of test results and medical information (except information about alcohol or a controlled substance) of employees, except that this clause does not prevent the use of test results for the orderly imposition of appropriate sanctions under this chapter; and
   - **(8)** ensure that employees are selected for tests by nondiscriminatory and impartial methods, so that no employee is harassed by being treated differently from other employees in similar circumstances.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 45104 | 49 App.:1434(d). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 614(d); added Oct. 28, 1991 , Pub. L. 102–143, § 3(a) , 105 Stat. 955 . |
+
+
+Historical and Revision Notes
+
+45104
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 28, 1991
+
+Pub. L. 102–143, § 3(a)
+
+105 Stat. 955
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1222](https://www.govinfo.gov/link/statute/108/1222).)*

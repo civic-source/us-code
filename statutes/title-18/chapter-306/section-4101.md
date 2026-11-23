@@ -3,9 +3,10 @@ title: "Section 4101 - Definitions"
 usc_title: 18
 usc_section: "4101"
 chapter: 306
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 4101"
-generated_at: "2026-03-30T02:54:16.527Z"
+generated_at: "2026-11-23T21:25:44.238Z"
+status: "active"
 ---
 
 # § 4101. Definitions
@@ -27,3 +28,7 @@ As used in this chapter the term—
 - **(i)** “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States;
 - **(j)** “transfer” means a transfer of an individual for the purpose of the execution in one country of a sentence imposed by the courts of another country; and
 - **(k)** “treaty” means a treaty under which an offender sentenced in the courts of one country may be transferred to the country of which he is a citizen or national for the purpose of serving the sentence.
+
+## Source Credit
+
+*(Added [Pub. L. 95–144, § 1](https://www.govinfo.gov/link/plaw/95/public/144), Oct. 28, 1977, [91 Stat. 1213](https://www.govinfo.gov/link/statute/91/1213); amended [Pub. L. 98–473, title II, § 223(m)(1)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2029](https://www.govinfo.gov/link/statute/98/2029).)*

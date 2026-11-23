@@ -3,9 +3,10 @@ title: "Section 19052 - Research ethics"
 usc_title: 42
 usc_section: "19052"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19052"
-generated_at: "2026-03-30T02:56:11.538Z"
+generated_at: "2026-11-23T21:26:33.865Z"
+status: "active"
 ---
 
 # § 19052. Research ethics
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.538Z"
   - **(1)** research to assess the potential ethical and societal implications of Foundation-supported research and products or technologies enabled by such research, including the benefits and risks identified pursuant to subsection (b)(1); and
   - **(2)** the development and verification of approaches to proactively mitigate foreseeable risks to society, including the technical and social solutions identified pursuant to subsection (b)(1).
 - **(e)** The Director shall encourage recipients to update their consideration of potential risks and benefits as appropriate as part of the annual reports required by all awardees under the award terms and conditions.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10343](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1557](https://www.govinfo.gov/link/statute/136/1557).)*

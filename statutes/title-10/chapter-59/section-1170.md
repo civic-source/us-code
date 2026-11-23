@@ -3,9 +3,10 @@ title: "Section 1170 - Regular enlisted members: minority discharge"
 usc_title: 10
 usc_section: "1170"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1170"
-generated_at: "2026-03-30T02:53:38.112Z"
+generated_at: "2026-11-23T21:25:32.440Z"
+status: "active"
 ---
 
 # § 1170. Regular enlisted members: minority discharge
@@ -14,3 +15,7 @@ Upon application by the parents or guardian of a regular enlisted member of an a
 
   - **(1)** there is evidence satisfactory to the Secretary concerned that the member is under eighteen years of age; and
   - **(2)** the member enlisted without the written consent of his parent or guardian.
+
+## Source Credit
+
+*(Added [Pub. L. 90–235, § 3(a)(1)(A)](https://www.govinfo.gov/link/plaw/90/public/235), Jan. 2, 1968, [81 Stat. 757](https://www.govinfo.gov/link/statute/81/757).)*

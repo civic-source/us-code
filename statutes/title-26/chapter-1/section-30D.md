@@ -3,9 +3,10 @@ title: "Section 30D - Clean vehicle credit"
 usc_title: 26
 usc_section: "30D"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 30D"
-generated_at: "2026-03-30T02:55:27.590Z"
+generated_at: "2026-11-23T21:26:05.897Z"
+status: "active"
 ---
 
 # § 30D. Clean vehicle credit
@@ -125,3 +126,17 @@ generated_at: "2026-03-30T02:55:27.590Z"
   - **(9)** For purposes of this subsection, the term “Indian tribal government” means the recognized governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation, individually identified (including parenthetically) in the list published most recently as of the date of enactment of this subsection pursuant to section 104 of the Federally Recognized Indian Tribe List Act of 1994 ( 25 U.S.C. 5131 ).
   - **(10)** In the case of any taxpayer who has made an election described in paragraph (1) with respect to a new clean vehicle and received a payment described in paragraph (2)(C) from an eligible entity, if the credit under subsection (a) would otherwise (but for this subsection) not be allowable to such taxpayer pursuant to the application of subsection (f)(10), the tax imposed on such taxpayer under this chapter for the taxable year in which such vehicle was placed in service shall be increased by the amount of the payment received by such taxpayer.
 - **(h)** No credit shall be allowed under this section with respect to any vehicle acquired after September 30, 2025 .
+
+In general
+
+Final assembly
+
+Per vehicle dollar limitation and related requirements
+
+Transfer of credit
+
+Elimination of manufacturer limitation
+
+## Source Credit
+
+*(Added [Pub. L. 110–343, div. B, title II, § 205(a)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3835](https://www.govinfo.gov/link/statute/122/3835); amended [Pub. L. 111–5, div. B, title I, § 1141(a)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 326](https://www.govinfo.gov/link/statute/123/326); [Pub. L. 111–148, title X, § 10909(b)(2)(H)](https://www.govinfo.gov/link/plaw/111/public/148), (c), Mar. 23, 2010, [124 Stat. 1023](https://www.govinfo.gov/link/statute/124/1023); [Pub. L. 111–312, title I, § 101(b)(1)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3298](https://www.govinfo.gov/link/statute/124/3298); [Pub. L. 112–240, title I, § 104(c)(2)(I)](https://www.govinfo.gov/link/plaw/112/public/240), title IV, § 403(a), (b), Jan. 2, 2013, [126 Stat. 2322](https://www.govinfo.gov/link/statute/126/2322), 2337, 2338; [Pub. L. 113–295, div. A, title II, § 209(e)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4028](https://www.govinfo.gov/link/statute/128/4028); [Pub. L. 114–113, div. Q, title I, § 183(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3072](https://www.govinfo.gov/link/statute/129/3072); [Pub. L. 115–123, div. D, title I, § 40405(a)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 148](https://www.govinfo.gov/link/statute/132/148); [Pub. L. 116–94, div. Q, title I, § 126(a)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3231](https://www.govinfo.gov/link/statute/133/3231); [Pub. L. 116–260, div. EE, title I, § 144(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3054](https://www.govinfo.gov/link/statute/134/3054); [Pub. L. 117–169, title I, § 13401(a)](https://www.govinfo.gov/link/plaw/117/public/169) –(i)(1), Aug. 16, 2022, [136 Stat. 1954–1961](https://www.govinfo.gov/link/statute/136/1954); [Pub. L. 119–21, title VII, § 70502](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 250](https://www.govinfo.gov/link/statute/139/250).)*

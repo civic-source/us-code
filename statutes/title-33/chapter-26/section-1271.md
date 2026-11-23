@@ -3,9 +3,10 @@ title: "Section 1271 - Sediment survey and monitoring"
 usc_title: 33
 usc_section: "1271"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1271"
-generated_at: "2026-03-30T02:55:41.085Z"
+generated_at: "2026-11-23T21:26:11.366Z"
+status: "active"
 ---
 
 # § 1271. Sediment survey and monitoring
@@ -23,3 +24,27 @@ generated_at: "2026-03-30T02:55:41.085Z"
     - **(F)** identify locations where pollutants in sediment may pose a threat to the quality of drinking water supplies, fisheries resources, and marine habitats; and
     - **(G)** establish a clearing house for information on technology, methods, and practices available for the remediation, decontamination, and control of sediment contamination.
   - **(2)** The Administrator shall submit to Congress a report on the findings of the monitoring under paragraph (1) on the date that is 2 years after the date specified in subsection (a)(2) and biennially thereafter.
+
+Short Title
+
+Definitions
+
+Establishment
+
+Membership.—
+
+In general
+
+Additional members
+
+Cochairmen
+
+Clerical and technical assistance
+
+Compensation for additional members
+
+Report
+
+## Source Credit
+
+*([Pub. L. 102–580, title V, § 503](https://www.govinfo.gov/link/plaw/102/public/580), Oct. 31, 1992, [106 Stat. 4865](https://www.govinfo.gov/link/statute/106/4865).)*

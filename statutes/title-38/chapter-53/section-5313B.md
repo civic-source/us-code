@@ -3,9 +3,10 @@ title: "Section 5313B - Prohibition on providing certain benefits with respect t
 usc_title: 38
 usc_section: "5313B"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 5313B"
-generated_at: "2026-03-30T02:55:53.521Z"
+generated_at: "2026-11-23T21:26:16.820Z"
+status: "active"
 ---
 
 # § 5313B. Prohibition on providing certain benefits with respect to persons who are fugitive felons
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:53.521Z"
     - **(B)** identifies the person as being a fugitive felon; and
     - **(C)** certifies to the Secretary that apprehending such person is within the official duties of such official.
   - **(2)** The Secretary shall enter into memoranda of understanding with Federal law enforcement agencies, and may enter into agreements with State and local law enforcement agencies, for purposes of furnishing information to such agencies under paragraph (1).
+
+## Source Credit
+
+*(Added [Pub. L. 107–103, title V, § 505(a)(1)](https://www.govinfo.gov/link/plaw/107/public/103), Dec. 27, 2001, [115 Stat. 995](https://www.govinfo.gov/link/statute/115/995).)*

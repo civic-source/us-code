@@ -3,12 +3,17 @@ title: "Section 81e - Acquisition of property; condemnation proceedings"
 usc_title: 16
 usc_section: "81e"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 81e"
-generated_at: "2026-03-30T02:54:22.732Z"
+generated_at: "2026-11-23T21:25:51.375Z"
+status: "active"
 ---
 
 # § 81e. Acquisition of property; condemnation proceedings
 
 The Secretary of the Interior is authorized to accept donations of land, interest in land, buildings, structures, and other property within the boundaries of said park as determined and fixed hereunder and donations of funds for the purchase and/or maintenance thereof, the evidence of title to such lands to be satisfactory to the Secretary of the Interior: Provided , That he may acquire on behalf of the United States by purchase when purchasable at prices deemed by him reasonable, otherwise by condemnation under the provisions of section 3113 of title 40 , such tracts of land within the said park as may be necessary for the completion thereof: Provided further , That condemnation proceedings herein provided for shall not be had, exercised, or resorted to as to lands belonging to the Association for the Preservation of Virginia Antiquities, a corporation chartered under the laws of Virginia, or to the city of Williamsburg, Virginia, or to any other lands in said city except such lands as may be required for a right-of-way not exceeding two hundred feet in width through the city of Williamsburg to connect with highways or parkways leading from Williamsburg to Jamestown and to Yorktown.
 
+
+## Source Credit
+
+*(July 3, 1930, ch. 837, § 3, [46 Stat. 856](https://www.govinfo.gov/link/statute/46/856); June 5, 1936, ch. 525, § 2, [49 Stat. 1483](https://www.govinfo.gov/link/statute/49/1483).)*

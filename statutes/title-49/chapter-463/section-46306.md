@@ -3,9 +3,10 @@ title: "Section 46306 - Registration violations involving aircraft not providing
 usc_title: 49
 usc_section: "46306"
 chapter: 463
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 46306"
-generated_at: "2026-03-30T02:56:19.397Z"
+generated_at: "2026-11-23T21:26:40.946Z"
+status: "active"
 ---
 
 # § 46306. Registration violations involving aircraft not providing air transportation
@@ -53,3 +54,88 @@ generated_at: "2026-03-30T02:56:19.397Z"
     - **(A)** knowingly and willfully falsifying or concealing a material fact;
     - **(B)** making a false, fictitious, or fraudulent statement; or
     - **(C)** making or using a false document knowing it contains a false, fictitious, or fraudulent statement or entry.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 46306(a) | 49 App.:1303 (note). | Nov. 18, 1988 , Pub. L. 100–690, § 7214 , 102 Stat. 4434 . |
+| 46306(b) | 49 App.:1472(b)(1), (2) (1st sentence cl. (A)). | Aug. 23, 1958 , Pub. L. 85–726, § 902(b)(1) –(4), 72 Stat. 784 ; Oct. 19, 1984 , Pub. L. 98–499, § 6 , 98 Stat. 2316 ; restated Nov. 18, 1988 , Pub. L. 100–690, § 7209(a) , 102 Stat. 4429 . |
+| 46306(c)(1) | 49 App.:1472(b)(4). |  |
+| 46306(c)(2) | 49 App.:1472(b)(2) (1st sentence cl. (B)). |  |
+| 46306(c)(3) | 49 App.:1472(b)(2) (last sentence). |  |
+| 46306(d) | 49 App.:1472(b)(3). |  |
+| 46306(e) | 49 App.:1472(b)(5). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 902(b)(5); added Oct. 27, 1986 , Pub. L. 99–570, § 3401(a)(1) , 100 Stat. 3207–99 ; Nov. 18, 1988 , Pub. L. 100–690, § 7209(a) , (b)(1), 102 Stat. 4429 , 4432. |
+
+
+Application
+
+General Criminal Penalty
+
+Controlled Substance Criminal Penalty
+
+Seizure and Forfeiture
+
+Relationship to State Laws
+
+Historical and Revision Notes
+
+Pub. L
+
+46306(a)
+
+Nov. 18, 1988
+
+Pub. L. 100–690, § 7214
+
+102 Stat. 4434
+
+46306(b)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 902(b)(1)
+
+72 Stat. 784
+
+Oct. 19, 1984
+
+Pub. L. 98–499, § 6
+
+98 Stat. 2316
+
+Nov. 18, 1988
+
+Pub. L. 100–690, § 7209(a)
+
+102 Stat. 4429
+
+46306(c)(1)
+
+46306(c)(2)
+
+46306(c)(3)
+
+46306(d)
+
+46306(e)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 27, 1986
+
+Pub. L. 99–570, § 3401(a)(1)
+
+100 Stat. 3207–99
+
+Nov. 18, 1988
+
+Pub. L. 100–690, § 7209(a)
+
+102 Stat. 4429
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1235](https://www.govinfo.gov/link/statute/108/1235); [Pub. L. 104–287, § 5(78)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3397](https://www.govinfo.gov/link/statute/110/3397); [Pub. L. 114–125, title VIII, § 802(d)(2)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 210](https://www.govinfo.gov/link/statute/130/210).)*

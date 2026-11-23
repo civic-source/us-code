@@ -3,9 +3,10 @@ title: "Section 913 - Omitted]"
 usc_title: 5
 usc_section: "913"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 913"
-generated_at: "2026-03-30T02:52:55.992Z"
+generated_at: "2026-11-23T21:25:23.092Z"
+status: "omitted"
 ---
 
 # [§ 913. Omitted]

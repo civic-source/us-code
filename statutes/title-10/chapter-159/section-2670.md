@@ -3,9 +3,10 @@ title: "Section 2670 - Use of facilities by private organizations; use as pollin
 usc_title: 10
 usc_section: "2670"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2670"
-generated_at: "2026-03-30T02:53:38.169Z"
+generated_at: "2026-11-23T21:25:32.648Z"
+status: "active"
 ---
 
 # § 2670. Use of facilities by private organizations; use as polling places
@@ -23,3 +24,30 @@ generated_at: "2026-03-30T02:53:38.169Z"
   - **(1)** Upon certification to the Secretary concerned by the Secretary of Veterans Affairs, the Secretary concerned shall allow accredited, paid, full-time representatives of the organizations named in section 5902 of title 38 , or of other organizations recognized by the Secretary of Veterans Affairs, to function on military installations under the jurisdiction of the Secretary concerned that are on land and from which persons are discharged or released from active duty.
   - **(2)** The commanding officer of a military installation allowing representatives to function on the installation under paragraph (1) shall allow the representatives to use available space and equipment at the installation.
   - **(3)** This subsection does not authorize the violation of measures of military security.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 2670 | 36:12. | June 3, 1916, ch. 134, § 127a (5th par.); added June 4, 1920, ch. 227 , subch. I, § 51 (5th par.); restated July 17, 1953, ch. 222, § 3 , 67 Stat. 178 . |
+
+
+Use by Red Cross
+
+Use of Certain Facilities as Polling Places
+
+Use of Space and Equipment by Veterans Service Organizations
+
+Historical and Revision Notes
+
+2670
+
+June 3, 1916, ch. 134, § 127a
+
+June 4, 1920, ch. 227
+
+July 17, 1953, ch. 222, § 3
+
+67 Stat. 178
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 151; [Pub. L. 107–107, div. A, title XVI, § 1607(a)](https://www.govinfo.gov/link/plaw/107/public/107) –(b)(2), Dec. 28, 2001, [115 Stat. 1279](https://www.govinfo.gov/link/statute/115/1279), 1280; [Pub. L. 108–375, div. B, title XXVIII, § 2821(c)(1)](https://www.govinfo.gov/link/plaw/108/public/375), (e)(2), Oct. 28, 2004, [118 Stat. 2129](https://www.govinfo.gov/link/statute/118/2129), 2130.)*

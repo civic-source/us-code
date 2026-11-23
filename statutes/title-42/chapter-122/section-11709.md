@@ -3,9 +3,10 @@ title: "Section 11709 - Native Hawaiian health scholarships"
 usc_title: 42
 usc_section: "11709"
 chapter: 122
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11709"
-generated_at: "2026-03-30T02:56:11.405Z"
+generated_at: "2026-11-23T21:26:33.438Z"
+status: "active"
 ---
 
 # § 11709. Native Hawaiian health scholarships
@@ -28,3 +29,11 @@ generated_at: "2026-03-30T02:56:11.405Z"
     - **(G)** the requirements of sections 254d through 254k of this title, section 254m of this title , other than subsection (b)(5) of that section, and section 254n of this title applicable to scholarship assistance provided under section 254 l of this title shall not apply to the scholarship assistance provided under subsection (a) of this section.
   - **(2)** The Native Hawaiian Health Scholarship program shall not be administered by or through the Indian Health Service.
 - **(c)** There are authorized to be appropriated such sums as may be necessary for fiscal years 1993 through 2019 for the purpose of funding the scholarship assistance provided under subsection (a) of this section.
+
+(aa) located in the State of Hawaii; and
+
+(bb) has a designation that is similar to a designation described in subclause (I) made by the Secretary, acting through the Public Health Service;
+
+## Source Credit
+
+*([Pub. L. 100–579, § 10](https://www.govinfo.gov/link/plaw/100/public/579), as added [Pub. L. 102–396, title IX, § 9168](https://www.govinfo.gov/link/plaw/102/public/396), Oct. 6, 1992, [106 Stat. 1948](https://www.govinfo.gov/link/statute/106/1948); amended [Pub. L. 105–256, § 12](https://www.govinfo.gov/link/plaw/105/public/256), Oct. 14, 1998, [112 Stat. 1899](https://www.govinfo.gov/link/statute/112/1899); [Pub. L. 107–116, title V, § 514(a)](https://www.govinfo.gov/link/plaw/107/public/116), Jan. 10, 2002, [115 Stat. 2219](https://www.govinfo.gov/link/statute/115/2219); [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

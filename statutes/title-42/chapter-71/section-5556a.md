@@ -3,9 +3,10 @@ title: "Section 5556a - Solar photovoltaic energy systems studies and acquisitio
 usc_title: 42
 usc_section: "5556a"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5556a"
-generated_at: "2026-03-30T02:56:11.237Z"
+generated_at: "2026-11-23T21:26:32.816Z"
+status: "active"
 ---
 
 # § 5556a. Solar photovoltaic energy systems studies and acquisitions by Secretary of Energy; scope, contents, and submission dates for reports; acquisition authority and requirements; authorization of appropriations
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.237Z"
   - **(3)** initiate and conduct a study involving the prospects for applications of solar photovoltaic energy systems for power generation in foreign countries, particularly lesser developed countries, and the potential for the exportation of these energy systems. This study shall involve the cooperation of the Department of State and the Department of Commerce, as well as other Federal agencies which the Secretary of Energy deems appropriate. A final report shall be submitted to the Congress, as well as a preliminary report within twelve months of February 25, 1978 ; and
   - **(4)** be authorized to acquire up to an additional 4.0 megawatts (peak) of solar photovoltaic energy systems. The sum of $13,000,000 is hereby authorized to be appropriated (in addition to any other amounts authorized by this Act to be appropriated) for the fiscal year ending September 30, 1978 , and for delivery in the following twelve months. Such sums shall remain available until expended. The solar photovoltaic energy systems acquired shall be available for use for power generation by Federal agencies, provided that no procurement takes place until their application on Federal sites is determined to be life cycle cost effective.
 - **(b)** For technology development, particularly for engineering design and development of the manufacturing process of solar photovoltaic energy systems (primarily for the implementation of automated processes and other cost reducing production technologies), the sum of $6,000,000 is hereby authorized by this Act to be appropriated for the fiscal year ending September 30, 1978 .
+
+## Source Credit
+
+*([Pub. L. 95–238, title II, § 208](https://www.govinfo.gov/link/plaw/95/public/238), Feb. 25, 1978, [92 Stat. 75](https://www.govinfo.gov/link/statute/92/75).)*

@@ -3,9 +3,10 @@ title: "Section 876 - Mailing threatening communications"
 usc_title: 18
 usc_section: "876"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 876"
-generated_at: "2026-03-30T02:54:16.471Z"
+generated_at: "2026-11-23T21:25:44.000Z"
+status: "active"
 ---
 
 # § 876. Mailing threatening communications
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:16.471Z"
 - **(b)** Whoever, with intent to extort from any person any money or other thing of value, so deposits, or causes to be delivered, as aforesaid, any communication containing any threat to kidnap any person or any threat to injure the person of the addressee or of another, shall be fined under this title or imprisoned not more than twenty years, or both.
 - **(c)** Whoever knowingly so deposits or causes to be delivered as aforesaid, any communication with or without a name or designating mark subscribed thereto, addressed to any other person and containing any threat to kidnap any person or any threat to injure the person of the addressee or of another, shall be fined under this title or imprisoned not more than five years, or both. If such a communication is addressed to a United States judge, a Federal law enforcement officer, or an official who is covered by section 1114, the individual shall be fined under this title, imprisoned not more than 10 years, or both.
 - **(d)** Whoever, with intent to extort from any person any money or other thing of value, knowingly so deposits or causes to be delivered, as aforesaid, any communication, with or without a name or designating mark subscribed thereto, addressed to any other person and containing any threat to injure the property or reputation of the addressee or of another, or the reputation of a deceased person, or any threat to accuse the addressee or any other person of a crime, shall be fined under this title or imprisoned not more than two years, or both. If such a communication is addressed to a United States judge, a Federal law enforcement officer, or an official who is covered by section 1114, the individual shall be fined under this title, imprisoned not more than 10 years, or both.
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 741](https://www.govinfo.gov/link/statute/62/741); [Pub. L. 91–375, § 6(j)(7)](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 777](https://www.govinfo.gov/link/statute/84/777); [Pub. L. 103–322, title XXXIII](https://www.govinfo.gov/link/plaw/103/public/322), §§ 330016(1)(G), (H), (K), 330021(2), Sept. 13, 1994, [108 Stat. 2147](https://www.govinfo.gov/link/statute/108/2147), 2150; [Pub. L. 107–273, div. C, title I, § 11008(d)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1818](https://www.govinfo.gov/link/statute/116/1818).)*

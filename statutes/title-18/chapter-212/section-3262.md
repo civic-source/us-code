@@ -3,12 +3,17 @@ title: "Section 3262 - Arrest and commitment"
 usc_title: 18
 usc_section: "3262"
 chapter: 212
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3262"
-generated_at: "2026-03-30T02:54:16.515Z"
+generated_at: "2026-11-23T21:25:44.193Z"
+status: "active"
 ---
 
 # § 3262. Arrest and commitment
 
 - **(a)** The Secretary of Defense may designate and authorize any person serving in a law enforcement position in the Department of Defense to arrest, in accordance with applicable international agreements, outside the United States any person described in section 3261(a) if there is probable cause to believe that such person violated section 3261(a).
 - **(b)** Except as provided in sections 3263 and 3264, a person arrested under subsection (a) shall be delivered as soon as practicable to the custody of civilian law enforcement authorities of the United States for removal to the United States for judicial proceedings in relation to conduct referred to in such subsection unless such person has had charges brought against him or her under chapter 47 of title 10 for such conduct.
+
+## Source Credit
+
+*(Added [Pub. L. 106–523, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/523), Nov. 22, 2000, [114 Stat. 2489](https://www.govinfo.gov/link/statute/114/2489).)*

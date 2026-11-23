@@ -3,9 +3,10 @@ title: "Section 1574d - Repealed. Pub. L. 97–357, title III, § 308(g) , Oct. 
 usc_title: 48
 usc_section: "1574d"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1574d"
-generated_at: "2026-03-30T02:56:14.588Z"
+generated_at: "2026-11-23T21:26:38.012Z"
+status: "repealed"
 ---
 
 # § 1574d. Repealed. Pub. L. 97–357, title III, § 308(g) , Oct. 19, 1982 , 96 Stat. 1710

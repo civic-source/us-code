@@ -3,9 +3,10 @@ title: "Section 1377 - Definitions and special rule"
 usc_title: 26
 usc_section: "1377"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1377"
-generated_at: "2026-03-30T02:55:27.771Z"
+generated_at: "2026-11-23T21:26:06.500Z"
+status: "active"
 ---
 
 # § 1377. Definitions and special rule
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:27.771Z"
     - **(A)** Paragraph (1)(B) shall not apply for purposes of section 1366(d)(3).
     - **(B)** Paragraph (1)(B) shall apply to a distribution described in section 1371(e) only to the extent that the amount of such distribution does not exceed the aggregate increase (if any) in the accumulated adjustments account (within the meaning of section 1368(e)) by reason of the adjustments referred to in such paragraph.
 - **(c)** Any election under this subchapter, and any revocation under section 1362(d)(1), shall be made in such manner as the Secretary shall by regulations prescribe.
+
+## Source Credit
+
+*(Added [Pub. L. 97–354, § 2](https://www.govinfo.gov/link/plaw/97/public/354), Oct. 19, 1982, [96 Stat. 1685](https://www.govinfo.gov/link/statute/96/1685); amended [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1306–1307(b), Aug. 20, 1996, [110 Stat. 1780](https://www.govinfo.gov/link/statute/110/1780); [Pub. L. 108–311, title IV, § 407(a)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1190](https://www.govinfo.gov/link/statute/118/1190).)*

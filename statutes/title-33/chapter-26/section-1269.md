@@ -3,9 +3,10 @@ title: "Section 1269 - Long Island Sound"
 usc_title: 33
 usc_section: "1269"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1269"
-generated_at: "2026-03-30T02:55:41.084Z"
+generated_at: "2026-11-23T21:26:11.365Z"
+status: "active"
 ---
 
 # § 1269. Long Island Sound
@@ -57,3 +58,147 @@ generated_at: "2026-03-30T02:55:41.084Z"
     - **(B)** make intergovernmental personnel appointments.
   - **(4)** To the maximum extent practicable, the head of each Federal department or agency that owns or occupies real property, or carries out activities, within the Long Island Sound watershed shall ensure that the property and all activities carried out by the department or agency are consistent with the Long Island Sound Comprehensive Conservation and Management Plan (including any related subsequent agreements and plans).
 - **(h)** There is authorized to be appropriated to the Administrator to carry out this section $40,000,000 for each of fiscal years 2019 through 2023.
+
+Findings
+
+Purpose
+
+Administrator
+
+Advisory committee
+
+Region
+
+State
+
+Stewardship
+
+Stewardship site
+
+Systematic site selection
+
+Qualified applicants
+
+Threat
+
+Establishment
+
+Boundaries
+
+In General
+
+Publication of List of Recommended Sites
+
+Opinion Regarding Owner’s Responsibilities
+
+Designation of Stewardship Sites
+
+In General
+
+Identification of Sites.—
+
+In general
+
+Identification
+
+Natural resource-based recreation areas
+
+Natural areas with ecological value
+
+Deviation from process
+
+Submission of List of Recommended Sites.—
+
+In general
+
+Limitation
+
+Public comment
+
+In General
+
+Federal Share
+
+Establishment
+
+Membership.—
+
+In general
+
+Additional members
+
+Consideration of interests
+
+Chairperson
+
+Completion of appointments
+
+Vacancies
+
+Term.—
+
+In general
+
+Multiple terms
+
+Powers
+
+Meetings.—
+
+In general
+
+Initial meeting
+
+Quorum
+
+Adaptive Management.—
+
+In general
+
+Application of adaptive management framework
+
+Adaptive management
+
+Termination of Advisory Committee
+
+Administrator
+
+Advisory Committee.—
+
+Report
+
+Recommendation for grants.—
+
+In general
+
+Equitable distribution of funds
+
+Access to Private Property
+
+Liability
+
+Recognition of Authority to Control Land Use
+
+Participation of Private Property Owners Not Required
+
+Purchase of Land or Interest in Land From Willing Sellers Only
+
+Manner of Acquisition
+
+Effect of Establishment.—
+
+In general
+
+Regulatory authority
+
+In General
+
+Use of Funds
+
+Authorization of Gifts, Devises, and Bequests for System
+
+Limitation on Administrative Costs
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title I, § 119, as added [Pub. L. 101–596, title II, § 202](https://www.govinfo.gov/link/plaw/101/public/596), Nov. 16, 1990, [104 Stat. 3004](https://www.govinfo.gov/link/statute/104/3004); amended [Pub. L. 104–303, title V, § 583](https://www.govinfo.gov/link/plaw/104/public/303), Oct. 12, 1996, [110 Stat. 3791](https://www.govinfo.gov/link/statute/110/3791); [Pub. L. 106–457, title IV](https://www.govinfo.gov/link/plaw/106/public/457), §§ 402—404, Nov. 7, 2000, [114 Stat. 1973](https://www.govinfo.gov/link/statute/114/1973); [Pub. L. 109–137, § 1](https://www.govinfo.gov/link/plaw/109/public/137), Dec. 22, 2005, [119 Stat. 2646](https://www.govinfo.gov/link/statute/119/2646); [Pub. L. 115–270, title IV, § 4104(a)](https://www.govinfo.gov/link/plaw/115/public/270), (c)(1), Oct. 23, 2018, [132 Stat. 3873](https://www.govinfo.gov/link/statute/132/3873), 3875.)*

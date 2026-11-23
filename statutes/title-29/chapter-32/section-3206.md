@@ -3,9 +3,10 @@ title: "Section 3206 - Experimental projects and technical assistance"
 usc_title: 29
 usc_section: "3206"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3206"
-generated_at: "2026-03-30T02:55:18.756Z"
+generated_at: "2026-11-23T21:26:02.343Z"
+status: "active"
 ---
 
 # § 3206. Experimental projects and technical assistance
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:18.756Z"
     - **(B)** in meeting or exceeding the expected levels of performance under section 3209(c)(1) of this title for the indicators of performance described in section 3141(b)(2)(A) of this title ;
     - **(C)** in the development of sound management practices, including financial management procedures; and
   - **(2)** assisting entities, including entities not currently operating a Job Corps center, in developing the additional selection factors information described in section 3197(a)(3) of this title .
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 156](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1552](https://www.govinfo.gov/link/statute/128/1552).)*

@@ -3,9 +3,10 @@ title: "Section 4206 - Treatment of certain trade agreements for which negotiati
 usc_title: 19
 usc_section: "4206"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4206"
-generated_at: "2026-03-30T02:54:24.704Z"
+generated_at: "2026-11-23T21:25:42.878Z"
+status: "active"
 ---
 
 # § 4206. Treatment of certain trade agreements for which negotiations have already begun
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:24.704Z"
   - **(2)** before and after submission of the notice, consults regarding the negotiations with the committees referred to in section 4204(a)(1)(B) of this title and the House and Senate Advisory Groups on Negotiations convened under section 4203(c) of this title .
 - **(c)** Notwithstanding the notification requirement described in section 4202(a)(2) of this title , the President may exercise the proclamation authority provided for in section 4202(a)(1)(B) of this title to implement an agreement by members of the Asia-Pacific Economic Cooperation (APEC) to reduce any rate of duty on certain environmental goods included in Annex C of the APEC Leaders Declaration issued on September 9, 2012 , if (and only if) the President, as soon as feasible after December 18, 2015 , and before exercising proclamation authority under section 4202(a)(1)(B) of this title , notifies Congress of the negotiations relating to the agreement and the specific United States objectives in the negotiations.
 - **(c)** Notwithstanding the notification requirement described in section 4202(a)(2) of this title , the President may exercise the proclamation authority provided for in section 4202(a)(1)(B) of this title to implement an agreement by members of the Asia-Pacific Economic Cooperation (APEC) to reduce any rate of duty on certain environmental goods included in Annex C of the APEC Leaders Declaration issued on September 9, 2012 , if (and only if) the President, as soon as feasible after February 24, 2016 , and before exercising proclamation authority under section 4202(a)(1)(B) of this title , notifies Congress of the negotiations relating to the agreement and the specific United States objectives in the negotiations.
+
+## Source Credit
+
+*([Pub. L. 114–26, title I, § 107](https://www.govinfo.gov/link/plaw/114/public/26), June 29, 2015, [129 Stat. 355](https://www.govinfo.gov/link/statute/129/355); [Pub. L. 114–113, div. Q, title V, § 502](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3127](https://www.govinfo.gov/link/statute/129/3127); [Pub. L. 114–125, title IX, § 916](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 279](https://www.govinfo.gov/link/statute/130/279).)*

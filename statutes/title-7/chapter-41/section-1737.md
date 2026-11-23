@@ -3,9 +3,10 @@ title: "Section 1737 - John Ogonowski and Doug Bereuter Farmer-to-Farmer Program
 usc_title: 7
 usc_section: "1737"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1737"
-generated_at: "2026-03-30T02:53:42.341Z"
+generated_at: "2026-11-23T21:25:28.175Z"
+status: "active"
 ---
 
 # § 1737. John Ogonowski and Doug Bereuter Farmer-to-Farmer Program
@@ -85,3 +86,7 @@ generated_at: "2026-03-30T02:53:42.341Z"
     - **(B)** develop innovative volunteer models;
     - **(C)** develop, improve, or maintain strategic partnerships with other United States development programs; and
     - **(D)** expand the footprint and impact of the programs and activities under this subchapter, and diversity among program participants, including land-grant colleges and universities and cooperative extension services (as such terms are defined in section 3103 of this title ).
+
+## Source Credit
+
+*(July 10, 1954, ch. 469, title V, § 501, as added [Pub. L. 101–624, title XV, § 1512](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3656](https://www.govinfo.gov/link/statute/104/3656); amended [Pub. L. 102–237, title III, § 301](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1855](https://www.govinfo.gov/link/statute/105/1855); [Pub. L. 104–127, title II](https://www.govinfo.gov/link/plaw/104/public/127), §§ 224, 277(c)(1), Apr. 4, 1996, [110 Stat. 959](https://www.govinfo.gov/link/statute/110/959), 979; [Pub. L. 107–76, title VII, § 777](https://www.govinfo.gov/link/plaw/107/public/76), Nov. 28, 2001, [115 Stat. 747](https://www.govinfo.gov/link/statute/115/747); [Pub. L. 107–171, title III, § 3014](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 285](https://www.govinfo.gov/link/statute/116/285); [Pub. L. 108–447, div. A, title VII, § 769](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 2848](https://www.govinfo.gov/link/statute/118/2848); [Pub. L. 110–246, title III, § 3024](https://www.govinfo.gov/link/plaw/110/public/246), June 18, 2008, [122 Stat. 1830](https://www.govinfo.gov/link/statute/122/1830); [Pub. L. 113–79, title III, § 3014(a)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 778](https://www.govinfo.gov/link/statute/128/778); [Pub. L. 115–334, title III, § 3116](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4607](https://www.govinfo.gov/link/statute/132/4607).)*

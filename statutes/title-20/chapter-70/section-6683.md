@@ -3,9 +3,10 @@ title: "Section 6683 - Recognition program established"
 usc_title: 20
 usc_section: "6683"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6683"
-generated_at: "2026-03-30T02:54:48.202Z"
+generated_at: "2026-11-23T21:25:47.534Z"
+status: "active"
 ---
 
 # § 6683. Recognition program established
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:48.202Z"
     - **(D)** Local support.
     - **(E)** Enhancement of classified school employees’ image in the community and schools.
   - **(3)** The Secretary shall develop uniform national guidelines for evaluating nominations submitted under paragraph (2) in order to select the most deserving nominees based on the demonstrations made in the areas described in such paragraph.
+
+## Source Credit
+
+*([Pub. L. 116–13, § 4](https://www.govinfo.gov/link/plaw/116/public/13), Apr. 12, 2019, [133 Stat. 848](https://www.govinfo.gov/link/statute/133/848).)*

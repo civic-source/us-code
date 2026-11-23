@@ -3,9 +3,10 @@ title: "Section 11101 - Common carrier transportation, service, and rates"
 usc_title: 49
 usc_section: "11101"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 11101"
-generated_at: "2026-03-30T02:56:19.325Z"
+generated_at: "2026-11-23T21:26:40.677Z"
+status: "active"
 ---
 
 # § 11101. Common carrier transportation, service, and rates
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:19.325Z"
 - **(d)** With respect to transportation of agricultural products, in addition to the requirements of subsections (a), (b), and (c), a rail carrier shall publish, make available, and retain for public inspection its common carrier rates, schedules of rates, and other service terms, and any proposed and actual changes to such rates and service terms. For purposes of this subsection, agricultural products shall include grain as defined in section 3 of the United States Grain Standards Act ( 7 U.S.C. 75 ) and all products thereof, and fertilizer.
 - **(e)** A rail carrier shall provide transportation or service in accordance with the rates and service terms, and any changes thereto, as published or otherwise made available under subsection (b), (c), or (d).
 - **(f)** The Board shall, by regulation, establish rules to implement this section. The regulations shall provide for immediate disclosure and dissemination of rates and service terms, including classifications, rules, and practices, and their effective dates. Final regulations shall be adopted by the Board not later than 180 days after January 1, 1996 .
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 830](https://www.govinfo.gov/link/statute/109/830); amended [Pub. L. 104–287, § 5(25)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3390](https://www.govinfo.gov/link/statute/110/3390).)*

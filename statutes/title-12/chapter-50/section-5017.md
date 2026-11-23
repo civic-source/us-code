@@ -3,9 +3,10 @@ title: "Section 5017 - Evaluation and report by the Comptroller General"
 usc_title: 12
 usc_section: "5017"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5017"
-generated_at: "2026-03-30T02:53:53.522Z"
+generated_at: "2026-11-23T21:25:37.227Z"
+status: "active"
 ---
 
 # § 5017. Evaluation and report by the Comptroller General
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.522Z"
   - **(2)** an evaluation of the benefits accruing to consumers and financial institutions from reduced transportation costs, longer hours for accepting deposits for credit within 1 business day, the impact of fraud losses, and an estimate of consumers’ share of the total benefits derived from this chapter; and
   - **(3)** an assessment of consumer acceptance of the check truncation process resulting from this chapter, as well as any new costs incurred by consumers who had their original checks returned with their regular monthly statements prior to October 28, 2003 .
 - **(b)** Before the end of the 5-year period referred to in subsection (a), the Comptroller General shall submit a report to the Congress containing the findings and conclusions of the Comptroller General in connection with the evaluation conducted pursuant to subsection (a), together with such recommendations for legislative and administrative action as the Comptroller General may determine to be appropriate.
+
+## Source Credit
+
+*([Pub. L. 108–100, § 18](https://www.govinfo.gov/link/plaw/108/public/100), Oct. 28, 2003, [117 Stat. 1191](https://www.govinfo.gov/link/statute/117/1191).)*

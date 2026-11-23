@@ -3,9 +3,10 @@ title: "Section 9609 - Civil penalties and awards"
 usc_title: 42
 usc_section: "9609"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9609"
-generated_at: "2026-03-30T02:56:11.358Z"
+generated_at: "2026-11-23T21:26:33.254Z"
+status: "active"
 ---
 
 # § 9609. Civil penalties and awards
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:11.358Z"
 - **(d)** The President may pay an award of up to $10,000 to any individual who provides information leading to the arrest and conviction of any person for a violation subject to a criminal penalty under this chapter, including any violation of section 9603 of this title and any other violation referred to in this section. The President shall, by regulation, prescribe criteria for such an award and may pay any award under this subsection from the Fund, as provided in section 9611 of this title .
 - **(e)** Notwithstanding any other provision of law, any executive agency may use competitive procedures or procedures other than competitive procedures to procure the services of experts for use in preparing or prosecuting a civil or criminal action under this chapter, whether or not the expert is expected to testify at trial. The executive agency need not provide any written justification for the use of procedures other than competitive procedures when procuring such expert services under this chapter and need not furnish for publication in the Commerce Business Daily or otherwise any notice of solicitation or synopsis with respect to such procurement.
 - **(f)** Action taken by the President pursuant to this section shall not affect or limit the President’s authority to enforce any provisions of this chapter.
+
+## Source Credit
+
+*([Pub. L. 96–510, title I, § 109](https://www.govinfo.gov/link/plaw/96/public/510), Dec. 11, 1980, [94 Stat. 2787](https://www.govinfo.gov/link/statute/94/2787); [Pub. L. 99–499, title I, § 109(c)](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1633](https://www.govinfo.gov/link/statute/100/1633).)*

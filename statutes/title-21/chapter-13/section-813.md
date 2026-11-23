@@ -3,9 +3,10 @@ title: "Section 813 - Treatment of controlled substance analogues"
 usc_title: 21
 usc_section: "813"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 813"
-generated_at: "2026-03-30T02:54:54.291Z"
+generated_at: "2026-11-23T21:25:56.227Z"
+status: "active"
 ---
 
 # § 813. Treatment of controlled substance analogues
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:54.291Z"
   - **(5)** Whether the defendant knew or should have known the substance was intended to be consumed by injection, inhalation, ingestion, or any other immediate means.
   - **(6)** Any controlled substance analogue that is manufactured, formulated, sold, distributed, or marketed with the intent to avoid the provisions of existing drug laws.
 - **(c)** For purposes of this section, evidence that a substance was not marketed, advertised, or labeled for human consumption, by itself, shall not be sufficient to establish that the substance was not intended for human consumption.
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 203](https://www.govinfo.gov/link/plaw/91/public/513), as added [Pub. L. 99–570, title I, § 1202](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–13](https://www.govinfo.gov/link/statute/100/3207); amended [Pub. L. 100–690, title VI, § 6470(c)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4378](https://www.govinfo.gov/link/statute/102/4378); [Pub. L. 115–271, title III, § 3241](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 3950](https://www.govinfo.gov/link/statute/132/3950).)*

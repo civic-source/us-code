@@ -3,9 +3,10 @@ title: "Section 373e - Bureau of Reclamation site security"
 usc_title: 43
 usc_section: "373e"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 373e"
-generated_at: "2026-03-30T02:55:57.439Z"
+generated_at: "2026-11-23T21:26:19.757Z"
+status: "active"
 ---
 
 # § 373e. Bureau of Reclamation site security
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:57.439Z"
     - **(B)** notice regarding the costs and status of such activities on a periodic basis.
   - **(5)** The Secretary shall report annually to the Natural Resources Committee of the House of Representatives and the Energy and Natural Resources Committee of the Senate on site security actions and activities undertaken pursuant to this Act for each fiscal year. The report shall include a summary of Federal and non-Federal expenditures for the fiscal year and information relating to a 5-year planning horizon for the program, detailed to show pre- September 11, 2001 , and post- September 11, 2001 , costs for the site security activities.
 - **(d)** Reclamation project security costs at the levels of activity that existed prior to September 11, 2001 , shall remain reimbursable.
+
+## Source Credit
+
+*([Pub. L. 110–229, title V, § 513](https://www.govinfo.gov/link/plaw/110/public/229), May 8, 2008, [122 Stat. 843](https://www.govinfo.gov/link/statute/122/843).)*

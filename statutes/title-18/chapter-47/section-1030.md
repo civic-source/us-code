@@ -3,9 +3,10 @@ title: "Section 1030 - Fraud and related activity in connection with computers"
 usc_title: 18
 usc_section: "1030"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1030"
-generated_at: "2026-03-30T02:54:16.480Z"
+generated_at: "2026-11-23T21:25:44.036Z"
+status: "active"
 ---
 
 # § 1030. Fraud and related activity in connection with computers
@@ -114,3 +115,7 @@ generated_at: "2026-03-30T02:54:16.480Z"
 - **(j)** For purposes of subsection (i), the following shall be subject to forfeiture to the United States and no property right shall exist in them:
   - **(1)** Any personal property used or intended to be used to commit or to facilitate the commission of any violation of this section, or a conspiracy to violate this section.
   - **(2)** Any property, real or personal, which constitutes or is derived from proceeds traceable to any violation of this section, or a conspiracy to violate this section 6 6 So in original. Probably should be followed by a period.
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 2102(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2190](https://www.govinfo.gov/link/statute/98/2190); amended [Pub. L. 99–474, § 2](https://www.govinfo.gov/link/plaw/99/public/474), Oct. 16, 1986, [100 Stat. 1213](https://www.govinfo.gov/link/statute/100/1213); [Pub. L. 100–690, title VII, § 7065](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4404](https://www.govinfo.gov/link/statute/102/4404); [Pub. L. 101–73, title IX, § 962(a)(5)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 502](https://www.govinfo.gov/link/statute/103/502); [Pub. L. 101–647, title XII, § 1205(e)](https://www.govinfo.gov/link/plaw/101/public/647), title XXV, § 2597(j), title XXXV, § 3533, Nov. 29, 1990, [104 Stat. 4831](https://www.govinfo.gov/link/statute/104/4831), 4910, 4925; [Pub. L. 103–322, title XXIX, § 290001(b)](https://www.govinfo.gov/link/plaw/103/public/322) –(f), Sept. 13, 1994, [108 Stat. 2097–2099](https://www.govinfo.gov/link/statute/108/2097); [Pub. L. 104–294, title II, § 201](https://www.govinfo.gov/link/plaw/104/public/294), title VI, § 604(b)(36), Oct. 11, 1996, [110 Stat. 3491](https://www.govinfo.gov/link/statute/110/3491), 3508; [Pub. L. 107–56, title V, § 506(a)](https://www.govinfo.gov/link/plaw/107/public/56), title VIII, § 814(a)–(e), Oct. 26, 2001, [115 Stat. 366](https://www.govinfo.gov/link/statute/115/366), 382–384; [Pub. L. 107–273, div. B, title IV](https://www.govinfo.gov/link/plaw/107/public/273), §§ 4002(b)(1), (12), 4005(a)(3), (d)(3), Nov. 2, 2002, [116 Stat. 1807](https://www.govinfo.gov/link/statute/116/1807), 1808, 1812, 1813; [Pub. L. 107–296, title XXII, § 2207(g)](https://www.govinfo.gov/link/plaw/107/public/296), formerly title II, § 225(g), Nov. 25, 2002, [116 Stat. 2158](https://www.govinfo.gov/link/statute/116/2158), renumbered § 2207(g), [Pub. L. 115–278, § 2(g)(2)(I)](https://www.govinfo.gov/link/plaw/115/public/278), Nov. 16, 2018, [132 Stat. 4178](https://www.govinfo.gov/link/statute/132/4178); [Pub. L. 110–326, title II](https://www.govinfo.gov/link/plaw/110/public/326), §§ 203, 204(a), 205–208, Sept. 26, 2008, [122 Stat. 3561](https://www.govinfo.gov/link/statute/122/3561), 3563; [Pub. L. 116–179, § 2](https://www.govinfo.gov/link/plaw/116/public/179), Oct. 20, 2020, [134 Stat. 855](https://www.govinfo.gov/link/statute/134/855).)*

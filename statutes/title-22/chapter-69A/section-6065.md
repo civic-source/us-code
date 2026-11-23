@@ -3,9 +3,10 @@ title: "Section 6065 - Requirements and factors for determining transition gover
 usc_title: 22
 usc_section: "6065"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6065"
-generated_at: "2026-03-30T02:55:05.424Z"
+generated_at: "2026-11-23T21:25:58.677Z"
+status: "active"
 ---
 
 # § 6065. Requirements and factors for determining transition government
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:05.424Z"
     - **(D)** taking appropriate steps to return to United States citizens (and entities which are 50 percent or more beneficially owned by United States citizens) property taken by the Cuban Government from such citizens and entities on or after January 1, 1959 , or to provide equitable compensation to such citizens and entities for such property;
   - **(3)** has extradited or otherwise rendered to the United States all persons sought by the United States Department of Justice for crimes committed in the United States; and
   - **(4)** has permitted the deployment throughout Cuba of independent and unfettered international human rights monitors.
+
+## Source Credit
+
+*([Pub. L. 104–114, title II, § 205](https://www.govinfo.gov/link/plaw/104/public/114), Mar. 12, 1996, [110 Stat. 811](https://www.govinfo.gov/link/statute/110/811).)*

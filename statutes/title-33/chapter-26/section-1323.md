@@ -3,9 +3,10 @@ title: "Section 1323 - Federal facilities pollution control"
 usc_title: 33
 usc_section: "1323"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1323"
-generated_at: "2026-03-30T02:55:41.099Z"
+generated_at: "2026-11-23T21:26:11.392Z"
+status: "active"
 ---
 
 # § 1323. Federal facilities pollution control
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:41.099Z"
   - **(2)**
     - **(A)** The payment or reimbursement of any fee, charge, or assessment described in paragraph (1) shall not be made using funds from any permanent authorization account in the Treasury.
     - **(B)** Each department, agency, or instrumentality of the executive, legislative, and judicial branches of the Federal Government, as described in subsection (a), shall not be obligated to pay or reimburse any fee, charge, or assessment described in paragraph (1), except to the extent and in an amount provided in advance by any appropriations Act to pay or reimburse the fee, charge, or assessment.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title III, § 313, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 875](https://www.govinfo.gov/link/statute/86/875); amended [Pub. L. 95–217](https://www.govinfo.gov/link/plaw/95/public/217), §§ 60, 61(a), Dec. 27, 1977, [91 Stat. 1597](https://www.govinfo.gov/link/statute/91/1597), 1598; [Pub. L. 111–378, § 1](https://www.govinfo.gov/link/plaw/111/public/378), Jan. 4, 2011, [124 Stat. 4128](https://www.govinfo.gov/link/statute/124/4128).)*

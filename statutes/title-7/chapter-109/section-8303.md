@@ -3,9 +3,10 @@ title: "Section 8303 - Restriction on importation or entry"
 usc_title: 7
 usc_section: "8303"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 8303"
-generated_at: "2026-03-30T02:53:42.473Z"
+generated_at: "2026-11-23T21:25:28.471Z"
+status: "active"
 ---
 
 # § 8303. Restriction on importation or entry
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:42.473Z"
     - **(B)** If an owner fails to comply with an order of the Secretary under this section, the Secretary may—
       - **(i)** take remedial action, destroy, or remove from the United States the animal or progeny of any animal, article, or means of conveyance as authorized under paragraph (1); and
       - **(ii)** recover from the owner the costs of any care, handling, disposal, or other action incurred by the Secretary in connection with the remedial action, destruction, or removal.
+
+## Source Credit
+
+*([Pub. L. 107–171, title X, § 10404](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 496](https://www.govinfo.gov/link/statute/116/496).)*

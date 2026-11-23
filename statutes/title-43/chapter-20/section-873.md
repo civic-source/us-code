@@ -3,12 +3,17 @@ title: "Section 873 - Lands granted for erecting public buildings; purpose of gr
 usc_title: 43
 usc_section: "873"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 873"
-generated_at: "2026-03-30T02:55:57.463Z"
+generated_at: "2026-11-23T21:26:19.812Z"
+status: "active"
 ---
 
 # § 873. Lands granted for erecting public buildings; purpose of grant
 
 In any case in which public lands of the United States have been granted to a State, before May 16, 1958 , for the purpose of erecting public buildings at the capital of such State for legislative, executive, and judicial purposes, the purpose of such grant shall be deemed to include construction, reconstruction, repair, renovation, and other permanent improvements of such public buildings, the acquisition of necessary land for such buildings, furnishings and equipment for such buildings, and the payment of principal and interest on bonds issued for any such purpose.
 
+
+## Source Credit
+
+*([Pub. L. 85–411](https://www.govinfo.gov/link/plaw/85/public/411), May 16, 1958, [72 Stat. 117](https://www.govinfo.gov/link/statute/72/117).)*

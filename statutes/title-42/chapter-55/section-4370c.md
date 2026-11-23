@@ -3,9 +3,10 @@ title: "Section 4370c - Environmental Protection Agency fees"
 usc_title: 42
 usc_section: "4370c"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4370c"
-generated_at: "2026-03-30T02:56:11.202Z"
+generated_at: "2026-11-23T21:26:32.662Z"
+status: "active"
 ---
 
 # § 4370c. Environmental Protection Agency fees
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.202Z"
   - **(2)** Any remaining amounts required to be collected under this section shall be collected from services and programs administered by the Environmental Protection Agency other than those specified in subparagraphs (A) and (B) of paragraph (1).
 - **(d)** Nothing in this section increases or diminishes the authority of the Administrator to promulgate regulations pursuant to section 9701 of title 31 .
 - **(e)** Fees and charges collected pursuant to this section shall be deposited into a special account for environmental services in the Treasury of the United States. Subject to appropriation Acts, such funds shall be available to the Environmental Protection Agency to carry out the activities for which such fees and charges are collected. Such funds shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 101–508, title VI, § 6501](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–320](https://www.govinfo.gov/link/statute/104/1388).)*

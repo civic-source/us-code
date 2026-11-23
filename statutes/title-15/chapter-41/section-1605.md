@@ -3,9 +3,10 @@ title: "Section 1605 - Determination of finance charge"
 usc_title: 15
 usc_section: "1605"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1605"
-generated_at: "2026-03-30T02:54:08.138Z"
+generated_at: "2026-11-23T21:25:39.836Z"
+status: "active"
 ---
 
 # § 1605. Determination of finance charge
@@ -41,3 +42,17 @@ generated_at: "2026-03-30T02:54:08.138Z"
     - **(B)** in the case of a transaction, other than a mortgage referred to in section 1602(aa) 1 1 See References in Text note below. of this title, which—
       - **(i)** is a refinancing of the principal balance then due and any accrued and unpaid finance charges of a residential mortgage transaction as defined in section 1602(w) 1 of this title, or is any subsequent refinancing of such a transaction; and
       - **(ii)** does not provide any new consolidation or new advance;
+
+“The amendment made by paragraph (1) [amending this section] shall take effect on the earlier of—
+
+Report.—
+
+In general
+
+Report requirements
+
+Regulations
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 106](https://www.govinfo.gov/link/plaw/90/public/321), May 29, 1968, [82 Stat. 148](https://www.govinfo.gov/link/statute/82/148); [Pub. L. 96–221, title VI](https://www.govinfo.gov/link/plaw/96/public/221) § 606, Mar. 31, 1980, [94 Stat. 170](https://www.govinfo.gov/link/statute/94/170); [Pub. L. 104–29](https://www.govinfo.gov/link/plaw/104/public/29), §§ 2(a), (b)(1), (c)–(e), 3(a), Sept. 30, 1995, [109 Stat. 271](https://www.govinfo.gov/link/statute/109/271), 272; [Pub. L. 111–203, title X, § 1100A(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2107](https://www.govinfo.gov/link/statute/124/2107).)*

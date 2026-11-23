@@ -3,9 +3,10 @@ title: "Section 218 - Alaska Highway"
 usc_title: 23
 usc_section: "218"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 218"
-generated_at: "2026-03-30T02:55:12.566Z"
+generated_at: "2026-11-23T21:25:53.918Z"
+status: "active"
 ---
 
 # § 218. Alaska Highway
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:12.566Z"
 - **(b)** The survey and construction work undertaken in Canada pursuant to this section shall be under the general supervision of the Secretary.
 - **(c)** For purposes of this section, the term “Alaska Marine Highway System” includes all existing or planned transportation facilities and equipment in Alaska, including the lease, purchase, operation, repair, or construction of vessels, terminals, docks, floats, ramps, staging areas, parking lots, bridges and approaches thereto, and necessary roads.
 - **(d)** Notwithstanding any other provision of law, a project assisted under this section in the State of Alaska shall be treated as a project on a Federal-aid highway under chapter 1.
+
+## Source Credit
+
+*(Added [Pub. L. 93–87, title I, § 127(a)(1)](https://www.govinfo.gov/link/plaw/93/public/87), Aug. 13, 1973, [87 Stat. 264](https://www.govinfo.gov/link/statute/87/264); amended [Pub. L. 94–147](https://www.govinfo.gov/link/plaw/94/public/147), Dec. 12, 1975, [89 Stat. 803](https://www.govinfo.gov/link/statute/89/803); [Pub. L. 97–424, title I, § 158](https://www.govinfo.gov/link/plaw/97/public/424), Jan. 6, 1983, [96 Stat. 2135](https://www.govinfo.gov/link/statute/96/2135); [Pub. L. 105–277, div. A, § 101(g) [title III, § 316]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–439](https://www.govinfo.gov/link/statute/112/2681), 2681–468; [Pub. L. 108–7, div. I, title III, § 327](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 413](https://www.govinfo.gov/link/statute/117/413); [Pub. L. 109–59, title IV, § 4409](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1778](https://www.govinfo.gov/link/statute/119/1778); [Pub. L. 112–141, div. A, title I, § 1519(c)(10)](https://www.govinfo.gov/link/plaw/112/public/141), formerly § 1519(c)(11), July 6, 2012, [126 Stat. 576](https://www.govinfo.gov/link/statute/126/576), renumbered § 1519(c)(10), [Pub. L. 114–94, div. A, title I, § 1446(d)(5)(B)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1438](https://www.govinfo.gov/link/statute/129/1438); [Pub. L. 117–58, div. A, title I, § 11116](https://www.govinfo.gov/link/plaw/117/public/58), div. G, title XI, § 71103(g)(2), Nov. 15, 2021, [135 Stat. 482](https://www.govinfo.gov/link/statute/135/482), 1326.)*

@@ -3,9 +3,10 @@ title: "Section 5462 - Definitions"
 usc_title: 12
 usc_section: "5462"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5462"
-generated_at: "2026-03-30T02:53:53.539Z"
+generated_at: "2026-11-23T21:25:37.267Z"
+status: "active"
 ---
 
 # § 5462. Definitions
@@ -70,3 +71,7 @@ In this subchapter, the following definitions shall apply:
       - **(iv)** The Board of Governors, with respect to a designated financial market utility that is otherwise not subject to the jurisdiction of any agency listed in clauses (i), (ii), and (iii).
     - **(B)** If a designated financial market utility is subject to the jurisdictional supervision of more than 1 agency listed in subparagraph (A), then such agencies should agree on 1 agency to act as the Supervisory Agency, and if such agencies cannot agree on which agency has primary jurisdiction, the Council shall decide which agency is the Supervisory Agency for purposes of this subchapter.
   - **(9)** The terms “systemically important” and “systemic importance” mean a situation where the failure of or a disruption to the functioning of a financial market utility or the conduct of a payment, clearing, or settlement activity could create, or increase, the risk of significant liquidity or credit problems spreading among financial institutions or markets and thereby threaten the stability of the financial system of the United States.
+
+## Source Credit
+
+*([Pub. L. 111–203, title VIII, § 803](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1803](https://www.govinfo.gov/link/statute/124/1803).)*

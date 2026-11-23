@@ -3,9 +3,10 @@ title: "Section 8232 - Sense of Congress regarding the Internet website of the D
 usc_title: 22
 usc_section: "8232"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8232"
-generated_at: "2026-03-30T02:55:05.449Z"
+generated_at: "2026-11-23T21:25:58.736Z"
+status: "active"
 ---
 
 # § 8232. Sense of Congress regarding the Internet website of the Department of State
@@ -16,3 +17,7 @@ It is the sense of Congress that in order to facilitate access by individuals, n
   - **(2)** Narratives, published by the United States Government, relating to the importance of the establishment of and respect for internationally recognized human rights, democratic principles, practices, and values, and other fundamental freedoms.
   - **(3)** Major human rights reports by the United States Government, including translations of such materials, as appropriate.
   - **(4)** Any other documents, references, or links to appropriate external Internet websites (such as websites of international or nongovernmental organizations), including references or links to training materials, narratives, and histories regarding successful democratic movements.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XXI, § 2132](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 533](https://www.govinfo.gov/link/statute/121/533).)*

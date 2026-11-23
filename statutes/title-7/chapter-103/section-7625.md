@@ -3,9 +3,10 @@ title: "Section 7625 - National Food Safety Training, Education, Extension, Outr
 usc_title: 7
 usc_section: "7625"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7625"
-generated_at: "2026-03-30T02:53:42.458Z"
+generated_at: "2026-11-23T21:25:28.439Z"
+status: "active"
 ---
 
 # § 7625. National Food Safety Training, Education, Extension, Outreach, and Technical Assistance Program
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:42.458Z"
 - **(h)** The Secretary may use funds made available under this section to provide technical assistance to grant recipients to further the purposes of this section.
 - **(i)** Based on evaluations of, and responses arising from, projects funded under this section, the Secretary may issue a set of recommended best practices and models for food safety training programs for agricultural producers, small food processors, and small fresh fruit and vegetable merchant wholesalers.
 - **(j)** For the purposes of making grants under this section, there is authorized to be appropriated $10,000,000 for each of fiscal years 2019 through 2023.
+
+## Source Credit
+
+*([Pub. L. 105–185, title IV, § 405](https://www.govinfo.gov/link/plaw/105/public/185), as added [Pub. L. 111–353, title II, § 209(b)](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3947](https://www.govinfo.gov/link/statute/124/3947); amended [Pub. L. 115–334, title VII, § 7301](https://www.govinfo.gov/link/plaw/115/public/334), title XII, § 12306(e), Dec. 20, 2018, [132 Stat. 4815](https://www.govinfo.gov/link/statute/132/4815), 4970.)*

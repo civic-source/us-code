@@ -3,9 +3,10 @@ title: "Section 290hh - Children and violence"
 usc_title: 42
 usc_section: "290hh"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 290hh"
-generated_at: "2026-03-30T02:56:10.770Z"
+generated_at: "2026-11-23T21:26:30.601Z"
+status: "active"
 ---
 
 # § 290hh. Children and violence
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:10.770Z"
 - **(f)** The Secretary shall conduct an evaluation of each project carried out under this section and shall disseminate the results of such evaluations to appropriate public and private entities.
 - **(g)** The Secretary shall establish comprehensive information and education programs to disseminate the findings of the knowledge development and application under this section to the general public and to health care professionals.
 - **(h)** There is authorized to be appropriated to carry out this section, $100,000,000 for fiscal year 2001, and such sums as may be necessary for each of fiscal years 2002 and 2003.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title V, § 581, as added [Pub. L. 106–310, div. B, title XXXI, § 3101](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1168](https://www.govinfo.gov/link/statute/114/1168).)*

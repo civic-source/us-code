@@ -3,9 +3,10 @@ title: "Section 960 - Deemed paid credit for subpart F inclusions"
 usc_title: 26
 usc_section: "960"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 960"
-generated_at: "2026-03-30T02:55:27.750Z"
+generated_at: "2026-11-23T21:26:06.444Z"
+status: "active"
 ---
 
 # § 960. Deemed paid credit for subpart F inclusions
@@ -45,3 +46,11 @@ generated_at: "2026-03-30T02:55:27.750Z"
   - **(4)** No credit shall be allowed under section 901 for 10 percent of any foreign income taxes paid or accrued (or deemed paid under subsection (b)(1)) with respect to any amount excluded from gross income under section 959(a) by reason of an inclusion in gross income under section 951A(a).
 - **(e)** The term “foreign income taxes” means any income, war profits, or excess profits taxes paid or accrued to any foreign country or possession of the United States.
 - **(f)** The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the provisions of this section.
+
+In general
+
+Special rule
+
+## Source Credit
+
+*(Added [Pub. L. 87–834, § 12(a)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 1020](https://www.govinfo.gov/link/statute/76/1020); amended [Pub. L. 94–455, title X](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1031(b)(1), 1033(b)(2), 1037(a), Oct. 4, 1976, [90 Stat. 1622](https://www.govinfo.gov/link/statute/90/1622), 1628, 1633; [Pub. L. 99–514, title XII, § 1202(b)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2530](https://www.govinfo.gov/link/statute/100/2530); [Pub. L. 103–66, title XIII, § 13233(b)(1)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 502](https://www.govinfo.gov/link/statute/107/502); [Pub. L. 105–34, title XI, § 1113(b)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 971](https://www.govinfo.gov/link/statute/111/971); [Pub. L. 111–226, title II, § 214(a)](https://www.govinfo.gov/link/plaw/111/public/226), Aug. 10, 2010, [124 Stat. 2399](https://www.govinfo.gov/link/statute/124/2399); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 14201(b)(1), 14301(b), Dec. 22, 2017, [131 Stat. 2212](https://www.govinfo.gov/link/statute/131/2212), 2221; [Pub. L. 119–21, title VII](https://www.govinfo.gov/link/plaw/119/public/21), §§ 70312(a)(1), (b), 70323(a)(3)(D), July 4, 2025, [139 Stat. 203](https://www.govinfo.gov/link/statute/139/203), 205.)*

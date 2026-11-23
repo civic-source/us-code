@@ -3,9 +3,10 @@ title: "Section 5501 - National Intermodal Transportation System policy"
 usc_title: 49
 usc_section: "5501"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 5501"
-generated_at: "2026-03-30T02:56:19.318Z"
+generated_at: "2026-11-23T21:26:40.663Z"
+status: "active"
 ---
 
 # § 5501. National Intermodal Transportation System policy
@@ -22,3 +23,28 @@ generated_at: "2026-03-30T02:56:19.318Z"
   - **(8)** When appropriate, the National Intermodal Transportation System will be financed, as regards Government apportionments and reimbursements, by the Highway Trust Fund. Financial assistance will be provided to State and local governments and their instrumentalities to help carry out national goals related to mobility for elderly individuals, individuals with disabilities, and economically disadvantaged individuals.
   - **(9)** The National Intermodal Transportation System must be the centerpiece of a national investment commitment to create the new wealth of the United States for the 21st century.
 - **(c)** The Secretary of Transportation shall distribute copies of the policy in subsections (a) and (b) of this section to each employee of the Department of Transportation and ensure that the policy is posted in all offices of the Department.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5501 | 49:101 (note). | Dec. 18, 1991 , Pub. L. 102–240, § 2 , 105 Stat. 1914 . |
+
+
+General
+
+System Characteristics
+
+Distribution and Posting
+
+Historical and Revision Notes
+
+5501
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 2
+
+105 Stat. 1914
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 848](https://www.govinfo.gov/link/statute/108/848).)*

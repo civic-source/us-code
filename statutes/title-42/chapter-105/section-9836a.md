@@ -3,9 +3,10 @@ title: "Section 9836a - Standards; monitoring of Head Start agencies and program
 usc_title: 42
 usc_section: "9836a"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9836a"
-generated_at: "2026-03-30T02:56:11.367Z"
+generated_at: "2026-11-23T21:26:33.287Z"
+status: "active"
 ---
 
 # § 9836a. Standards; monitoring of Head Start agencies and programs
@@ -197,3 +198,7 @@ generated_at: "2026-03-30T02:56:11.367Z"
       - **(iii)** If such funds are derived from an Early Head Start program in a State, then such funds shall be redistributed to increase enrollment by the end of the following fiscal year in 1 or more Early Head Start programs in that State. If such funds are derived from an Indian Early Head Start program, then such funds shall be redistributed to increase enrollment by the end of the following fiscal year in 1 or more Indian Early Head Start programs.
       - **(iv)** If such funds are derived from a Head Start program in a State (excluding programs described in clauses (i) through (iii)), then such funds shall be redistributed to increase enrollment by the end of the following fiscal year in 1 or more Head Start programs (excluding programs described in clauses (i) through (iii)) that are carried out in such State.
     - **(B)** The Secretary shall adjust as necessary the requirements relating to funded enrollment indicated in the grant agreement of a Head Start agency receiving redistributed funds under this paragraph.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 641A](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 103–252, title I, § 108](https://www.govinfo.gov/link/plaw/103/public/252), May 18, 1994, [108 Stat. 631](https://www.govinfo.gov/link/statute/108/631); amended [Pub. L. 105–285, title I, § 108](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2713](https://www.govinfo.gov/link/statute/112/2713); [Pub. L. 110–134, § 8](https://www.govinfo.gov/link/plaw/110/public/134), Dec. 12, 2007, [121 Stat. 1385](https://www.govinfo.gov/link/statute/121/1385).)*

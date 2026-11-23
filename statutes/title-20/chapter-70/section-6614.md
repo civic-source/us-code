@@ -3,9 +3,10 @@ title: "Section 6614 - Reporting"
 usc_title: 20
 usc_section: "6614"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6614"
-generated_at: "2026-03-30T02:54:48.201Z"
+generated_at: "2026-11-23T21:25:47.525Z"
+status: "active"
 ---
 
 # § 6614. Reporting
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:48.201Z"
 - **(b)** Each local educational agency receiving funds under this part shall submit to the State educational agency such information as the State requires, which shall include the information described in subsection (a) for the local educational agency.
 - **(c)** The reports and information provided under subsections (a) and (b) shall be made readily available to the public.
 - **(d)** The reports and information provided under subsections (a) and (b) shall not reveal personally identifiable information about any individual.
+
+## Source Credit
+
+*([Pub. L. 89–10, title II, § 2104](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title II, § 2002](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1930](https://www.govinfo.gov/link/statute/129/1930).)*

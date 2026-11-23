@@ -3,9 +3,10 @@ title: "Section 408 - Penalties"
 usc_title: 42
 usc_section: "408"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 408"
-generated_at: "2026-03-30T02:56:10.860Z"
+generated_at: "2026-11-23T21:26:31.011Z"
+status: "active"
 ---
 
 # § 408. Penalties
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:56:10.860Z"
     - **(B)** possessing a social security card with intent to sell it, or
     - **(C)** counterfeiting a social security card with intent to sell it.
   - **(3)** Paragraph (1) shall not apply with respect to any criminal conduct involving both the conduct described in subsection (a)(7) to which paragraph (1) applies and any other criminal conduct if such other conduct would be criminal conduct if the conduct described in subsection (a)(7) were not committed.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title II, § 208, [49 Stat. 625](https://www.govinfo.gov/link/statute/49/625); Aug. 10, 1939, ch. 666, title II, § 201, [53 Stat. 1362](https://www.govinfo.gov/link/statute/53/1362), 1372; Aug. 28, 1950, ch. 809, title I, § 109(c), [64 Stat. 523](https://www.govinfo.gov/link/statute/64/523); Sept. 1, 1954, ch. 1206, title I, § 111(b), [68 Stat. 1085](https://www.govinfo.gov/link/statute/68/1085); [Pub. L. 85–840, title III, § 310](https://www.govinfo.gov/link/plaw/85/public/840), Aug. 28, 1958, [72 Stat. 1034](https://www.govinfo.gov/link/statute/72/1034); [Pub. L. 86–778, title II, § 211(m)](https://www.govinfo.gov/link/plaw/86/public/778), Sept. 13, 1960, [74 Stat. 958](https://www.govinfo.gov/link/statute/74/958); [Pub. L. 92–603, title I, § 130(a)](https://www.govinfo.gov/link/plaw/92/public/603), Oct. 30, 1972, [86 Stat. 1359](https://www.govinfo.gov/link/statute/86/1359); [Pub. L. 94–455, title XII, § 1211(a)](https://www.govinfo.gov/link/plaw/94/public/455), (d), Oct. 4, 1976, [90 Stat. 1711](https://www.govinfo.gov/link/statute/90/1711), 1712; [Pub. L. 97–123, § 4(a)](https://www.govinfo.gov/link/plaw/97/public/123), (b), Dec. 29, 1981, [95 Stat. 1663](https://www.govinfo.gov/link/statute/95/1663), 1664; [Pub. L. 98–369, div. B, title VI, § 2663(a)(5)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1162](https://www.govinfo.gov/link/statute/98/1162); [Pub. L. 98–460, § 16(c)(2)](https://www.govinfo.gov/link/plaw/98/public/460), Oct. 9, 1984, [98 Stat. 1811](https://www.govinfo.gov/link/statute/98/1811); [Pub. L. 100–690, title VII, § 7088](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4409](https://www.govinfo.gov/link/statute/102/4409); [Pub. L. 101–508, title V](https://www.govinfo.gov/link/plaw/101/public/508), §§ 5121, 5130(a)(1), Nov. 5, 1990, [104 Stat. 1388–283](https://www.govinfo.gov/link/statute/104/1388), 1388–289; [Pub. L. 103–296, title I, § 107(a)(4)](https://www.govinfo.gov/link/plaw/103/public/296), title III, § 321(a)(12), Aug. 15, 1994, [108 Stat. 1478](https://www.govinfo.gov/link/statute/108/1478), 1536; [Pub. L. 106–553, § 1(a)(2) [title VI, § 635(c)(2)(1), (2)]](https://www.govinfo.gov/link/plaw/106/public/553), Dec. 21, 2000, [114 Stat. 2762](https://www.govinfo.gov/link/statute/114/2762), 2762A–117; [Pub. L. 106–554, § 1(a)(4) [div. A, § 213(a)(6)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–180; [Pub. L. 108–203, title II, § 209(a)](https://www.govinfo.gov/link/plaw/108/public/203), Mar. 2, 2004, [118 Stat. 513](https://www.govinfo.gov/link/statute/118/513); [Pub. L. 114–74, title VIII, § 813(a)(1)](https://www.govinfo.gov/link/plaw/114/public/74), (b)(1), Nov. 2, 2015, [129 Stat. 602](https://www.govinfo.gov/link/statute/129/602), 603.)*

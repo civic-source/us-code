@@ -3,9 +3,10 @@ title: "Section 1793 - Parent fees"
 usc_title: 10
 usc_section: "1793"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1793"
-generated_at: "2026-03-30T02:53:38.138Z"
+generated_at: "2026-11-23T21:25:32.543Z"
+status: "active"
 ---
 
 # § 1793. Parent fees
@@ -17,3 +18,17 @@ generated_at: "2026-03-30T02:53:38.138Z"
   - **(1)** For the first child, no fee.
   - **(2)** For each other child, a fee equal to or less than a fee discounted under subsection (c).
 - **(e)** A family may not receive discounts under subsections (c) and (d) concurrently.
+
+In General
+
+Local Waiver Authority
+
+Family Discount
+
+Child Care Employee Discount
+
+Prohibition of Concurrent Discounts
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title V, § 568(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 333](https://www.govinfo.gov/link/statute/110/333); amended [Pub. L. 116–283, div. A, title V, § 585(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3654](https://www.govinfo.gov/link/statute/134/3654); [Pub. L. 117–263, div. A, title VI, § 642](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2634](https://www.govinfo.gov/link/statute/136/2634); [Pub. L. 118–159, div. A, title VI, § 633](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1937](https://www.govinfo.gov/link/statute/138/1937).)*

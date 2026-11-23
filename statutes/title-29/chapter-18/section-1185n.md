@@ -3,9 +3,10 @@ title: "Section 1185n - Reporting on pharmacy benefits and drug costs"
 usc_title: 29
 usc_section: "1185n"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1185n"
-generated_at: "2026-03-30T02:55:18.726Z"
+generated_at: "2026-11-23T21:26:02.276Z"
+status: "active"
 ---
 
 # § 1185n. Reporting on pharmacy benefits and drug costs
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:55:18.726Z"
   - **(10)** Any reduction in premiums and out-of-pocket costs associated with rebates, fees, or other remuneration described in paragraph (9).
 - **(b)** Not later than 18 months after the date on which the first report is required under subsection (a) and biannually thereafter, the Secretary, acting in coordination with the Inspector General of the Department of Labor, shall make available on the internet website of the Department of Labor a report on prescription drug reimbursements under group health plans (or health insurance coverage offered in connection with such a plan), prescription drug pricing trends, and the role of prescription drug costs in contributing to premium increases or decreases under such plans or coverage, aggregated in such a way as no drug or plan specific information will be made public.
 - **(c)** No confidential or trade secret information submitted to the Secretary under subsection (a) shall be included in the report under subsection (b).
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 725](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 116–260, div. BB, title II, § 204(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2919](https://www.govinfo.gov/link/statute/134/2919).)*

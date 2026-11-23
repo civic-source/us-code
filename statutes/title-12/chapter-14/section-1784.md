@@ -3,9 +3,10 @@ title: "Section 1784 - Examination of insured credit unions"
 usc_title: 12
 usc_section: "1784"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1784"
-generated_at: "2026-03-30T02:53:53.437Z"
+generated_at: "2026-11-23T21:25:36.944Z"
+status: "active"
 ---
 
 # § 1784. Examination of insured credit unions
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:53.437Z"
   - **(1)** periodically assess the potential liquidity needs of each insured credit union, and the options that the credit union has available for meeting those needs; and
   - **(2)** periodically assess the potential liquidity needs of insured credit unions as a group, and the options that insured credit unions have available for meeting those needs.
 - **(g)** The Board shall, for the purpose of facilitating insured credit unions’ access to liquidity, make available to the Federal reserve banks (subject to appropriate assurances of confidentiality) information relevant to making advances to such credit unions, including the Board’s reports of examination.
+
+## Source Credit
+
+*(June 26, 1934, ch. 750, title II, § 204, as added [Pub. L. 91–468, § 1(3)](https://www.govinfo.gov/link/plaw/91/public/468), Oct. 19, 1970, [84 Stat. 1001](https://www.govinfo.gov/link/statute/84/1001); amended [Pub. L. 95–630, title V, § 502(b)](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3681](https://www.govinfo.gov/link/statute/92/3681); [Pub. L. 101–73, title IX, § 915(a)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 486](https://www.govinfo.gov/link/statute/103/486); [Pub. L. 103–325, title V, § 529(b)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2266](https://www.govinfo.gov/link/statute/108/2266); [Pub. L. 105–219, title III, § 303](https://www.govinfo.gov/link/plaw/105/public/219), Aug. 7, 1998, [112 Stat. 934](https://www.govinfo.gov/link/statute/112/934); [Pub. L. 109–351, title VII, § 726(13)](https://www.govinfo.gov/link/plaw/109/public/351), Oct. 13, 2006, [120 Stat. 2002](https://www.govinfo.gov/link/statute/120/2002).)*

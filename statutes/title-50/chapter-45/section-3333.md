@@ -3,9 +3,10 @@ title: "Section 3333 - Joint facilities certification"
 usc_title: 50
 usc_section: "3333"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3333"
-generated_at: "2026-03-30T02:56:26.243Z"
+generated_at: "2026-11-23T21:26:39.032Z"
+status: "active"
 ---
 
 # § 3333. Joint facilities certification
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:26.243Z"
 - **(b)** Before an element of the intelligence community purchases, leases, or constructs a new facility that is 20,000 square feet or larger, the head of that element of the intelligence community shall submit to the Director of National Intelligence—
   - **(1)** a written certification that, to the best of the knowledge of the head of such element, all prospective joint facilities in the vicinity have been considered and the element is unable to identify a joint facility that meets the operational requirements of such element; and
   - **(2)** a written statement listing the reasons for not participating in the prospective joint facilities considered by the element.
+
+## Source Credit
+
+*([Pub. L. 115–31, div. N, title VI, § 604](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 830](https://www.govinfo.gov/link/statute/131/830).)*

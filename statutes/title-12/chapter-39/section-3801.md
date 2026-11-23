@@ -3,9 +3,10 @@ title: "Section 3801 - Findings and purpose"
 usc_title: 12
 usc_section: "3801"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3801"
-generated_at: "2026-03-30T02:53:53.498Z"
+generated_at: "2026-11-23T21:25:37.152Z"
+status: "active"
 ---
 
 # § 3801. Findings and purpose
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.498Z"
   - **(2)** alternative mortgage transactions are essential to the provision of an adequate supply of credit secured by residential property necessary to meet the demand expected during the 1980’s; and
   - **(3)** the Comptroller of the Currency, the National Credit Union Administration, and the Director of the Office of Thrift Supervision have recognized the importance of alternative mortgage transactions and have adopted regulations authorizing federally chartered depository institutions to engage in alternative mortgage financing.
 - **(b)** It is the purpose of this chapter to eliminate the discriminatory impact that those regulations have upon nonfederally chartered housing creditors and provide them with parity with federally chartered institutions by authorizing all housing creditors to make, purchase, and enforce alternative mortgage transactions so long as the transactions are in conformity with the regulations issued by the Federal agencies.
+
+## Source Credit
+
+*([Pub. L. 97–320, title VIII, § 802](https://www.govinfo.gov/link/plaw/97/public/320), Oct. 15, 1982, [96 Stat. 1545](https://www.govinfo.gov/link/statute/96/1545); [Pub. L. 101–73, title VII, § 744(c)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 438](https://www.govinfo.gov/link/statute/103/438).)*

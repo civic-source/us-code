@@ -3,9 +3,10 @@ title: "Section 41113 - Plans to address needs of families of passengers involve
 usc_title: 49
 usc_section: "41113"
 chapter: 411
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 41113"
-generated_at: "2026-03-30T02:56:19.373Z"
+generated_at: "2026-11-23T21:26:40.850Z"
+status: "active"
 ---
 
 # § 41113. Plans to address needs of families of passengers involved in aircraft accidents
@@ -36,3 +37,25 @@ generated_at: "2026-03-30T02:56:19.373Z"
 - **(d)** An air carrier shall not be liable for damages in any action brought in a Federal or State court arising out of the performance of the air carrier in preparing or providing a passenger list, or in providing information concerning a preliminary passenger manifest, pursuant to a plan submitted by the air carrier under subsection (b), unless such liability was caused by conduct of the air carrier which was grossly negligent or which constituted intentional misconduct.
 - **(e)** In this section, the terms “aircraft accident” and “passenger” have the meanings such terms have in section 1136 of this title .
 - **(f)** Nothing in this section may be construed as limiting the actions that an air carrier may take, or the obligations that an air carrier may have, in providing assistance to the families of passengers involved in an aircraft accident.
+
+Submission of Plans
+
+Contents of Plans
+
+Certificate Requirement
+
+Limitation on Liability
+
+Aircraft Accident and Passenger Defined
+
+Statutory Construction
+
+Establishment
+
+Guidelines and Recommendations
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 104–264, title VII, § 703(a)](https://www.govinfo.gov/link/plaw/104/public/264), Oct. 9, 1996, [110 Stat. 3267](https://www.govinfo.gov/link/statute/110/3267); amended [Pub. L. 106–181, title IV, § 402(a)(1)](https://www.govinfo.gov/link/plaw/106/public/181) –(3), (5)–(c), Apr. 5, 2000, [114 Stat. 129](https://www.govinfo.gov/link/statute/114/129), 130; [Pub. L. 108–176, title VIII, § 809(a)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2588](https://www.govinfo.gov/link/statute/117/2588); [Pub. L. 115–254, div. C, § 1109(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3434](https://www.govinfo.gov/link/statute/132/3434).)*

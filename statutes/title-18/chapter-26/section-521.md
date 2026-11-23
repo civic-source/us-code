@@ -3,9 +3,10 @@ title: "Section 521 - Criminal street gangs"
 usc_title: 18
 usc_section: "521"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 521"
-generated_at: "2026-03-30T02:54:16.465Z"
+generated_at: "2026-11-23T21:25:43.969Z"
+status: "active"
 ---
 
 # § 521. Criminal street gangs
@@ -30,3 +31,15 @@ generated_at: "2026-03-30T02:54:16.465Z"
       - **(ii)** that is a felony crime of violence that has as an element the use or attempted use of physical force against the person of another;
     - **(C)** any Federal or State felony offense that by its nature involves a substantial risk that physical force against the person of another may be used in the course of committing the offense; or
     - **(D)** a conspiracy to commit an offense described in subparagraph (A), (B), or (C).
+
+Definitions.—
+
+Penalty
+
+Offenses
+
+Circumstances
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title XV, § 150001(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2034](https://www.govinfo.gov/link/statute/108/2034); amended [Pub. L. 104–294, title VI, § 607(q)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3513](https://www.govinfo.gov/link/statute/110/3513); [Pub. L. 107–273, div. B, title IV, § 4002(b)(3)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1807](https://www.govinfo.gov/link/statute/116/1807); [Pub. L. 115–392, § 12](https://www.govinfo.gov/link/plaw/115/public/392), Dec. 21, 2018, [132 Stat. 5255](https://www.govinfo.gov/link/statute/132/5255).)*

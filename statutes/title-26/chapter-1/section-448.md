@@ -3,9 +3,10 @@ title: "Section 448 - Limitation on use of cash method of accounting"
 usc_title: 26
 usc_section: "448"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 448"
-generated_at: "2026-03-30T02:55:27.701Z"
+generated_at: "2026-11-23T21:26:06.270Z"
+status: "active"
 ---
 
 # § 448. Limitation on use of cash method of accounting
@@ -54,3 +55,23 @@ generated_at: "2026-03-30T02:55:27.701Z"
   - **(6)** For purposes of this section, a trust subject to tax under section 511(b) shall be treated as a C corporation with respect to its activities constituting an unrelated trade or business.
   - **(7)** Any change in method of accounting made pursuant to this section shall be treated for purposes of section 481 as initiated by the taxpayer and made with the consent of the Secretary.
   - **(8)** The Secretary shall prescribe such regulations as may be necessary to prevent the use of related parties, pass-thru entities, or intermediaries to avoid the application of this section.
+
+In general
+
+In general
+
+Change in method of accounting
+
+In general
+
+Election to retain cash method for certain transactions
+
+Certain contracts
+
+Treatment of affiliated group providing engineering services
+
+Special rule for paragraphs (2) and (3)
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2345](https://www.govinfo.gov/link/statute/100/2345); amended [Pub. L. 100–647, title I, § 1008(a)(1)](https://www.govinfo.gov/link/plaw/100/public/647), (2), (7)–(9), title VI, § 6032(a), Nov. 10, 1988, [102 Stat. 3436](https://www.govinfo.gov/link/statute/102/3436), 3437, 3695; [Pub. L. 107–147, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 40](https://www.govinfo.gov/link/statute/116/40); [Pub. L. 115–97, title I, § 13102(a)(1)](https://www.govinfo.gov/link/plaw/115/public/97) –(4), Dec. 22, 2017, [131 Stat. 2102](https://www.govinfo.gov/link/statute/131/2102).)*

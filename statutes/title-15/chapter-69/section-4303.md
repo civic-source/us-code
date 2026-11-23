@@ -3,9 +3,10 @@ title: "Section 4303 - Limitation on recovery"
 usc_title: 15
 usc_section: "4303"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4303"
-generated_at: "2026-03-30T02:54:08.198Z"
+generated_at: "2026-11-23T21:25:39.989Z"
+status: "active"
 ---
 
 # § 4303. Limitation on recovery
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:08.198Z"
   - **(2)** is not a fulltime employee of the standards development organization that engaged in such activity, and
   - **(3)** is, or is an employee or agent of a person who is, engaged in a line of commerce that is likely to benefit directly from the operation of the standards development activity with respect to which such violation is found.
 - **(f)** This section shall be applicable only if the challenged conduct of a person defending against a claim is not in violation of any decree or order, entered or issued after October 11, 1984 , in any case or proceeding under the antitrust laws or any State law similar to the antitrust laws challenging such conduct as part of a joint venture, or of a standards development activity engaged in by a standards development organization.
+
+## Source Credit
+
+*([Pub. L. 98–462, § 4](https://www.govinfo.gov/link/plaw/98/public/462), Oct. 11, 1984, [98 Stat. 1816](https://www.govinfo.gov/link/statute/98/1816); [Pub. L. 103–42, § 3(e)(1)](https://www.govinfo.gov/link/plaw/103/public/42), June 10, 1993, [107 Stat. 119](https://www.govinfo.gov/link/statute/107/119); [Pub. L. 108–237, title I, § 105](https://www.govinfo.gov/link/plaw/108/public/237), June 22, 2004, [118 Stat. 663](https://www.govinfo.gov/link/statute/118/663).)*

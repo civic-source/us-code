@@ -3,9 +3,10 @@ title: "Section 347 - Intrastate sales of colored oleomargarine"
 usc_title: 21
 usc_section: "347"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 347"
-generated_at: "2026-03-30T02:54:54.224Z"
+generated_at: "2026-11-23T21:25:55.995Z"
+status: "active"
 ---
 
 # § 347. Intrastate sales of colored oleomargarine
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:54.224Z"
 - **(c)** No person shall possess in a form ready for serving colored oleomargarine or colored margarine at a public eating place unless a notice that oleomargarine or margarine is served is displayed prominently and conspicuously in such place and in such manner as to render it likely to be read and understood by the ordinary individual being served in such eating place or is printed or is otherwise set forth on the menu in type or lettering not smaller than that normally used to designate the serving of other food items. No person shall serve colored oleomargarine or colored margarine at a public eating place, whether or not any charge is made therefor, unless (1) each separate serving bears or is accompanied by labeling identifying it as oleomargarine or margarine, or (2) each separate serving thereof is triangular in shape.
 - **(d)** Colored oleomargarine or colored margarine when served with meals at a public eating place shall at the time of such service be exempt from the labeling requirements of section 343 of this title (except paragraphs (a) and (f)) if it complies with the requirements of subsection (b) of this section.
 - **(e)** For the purpose of this section colored oleomargarine or colored margarine is oleomargarine or margarine having a tint or shade containing more than one and six-tenths degrees of yellow, or of yellow and red collectively, but with an excess of yellow over red, measured in terms of Lovibond tintometer scale or its equivalent.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 407, as added Mar. 16, 1950, ch. 61, § 3(c), [64 Stat. 20](https://www.govinfo.gov/link/statute/64/20).)*

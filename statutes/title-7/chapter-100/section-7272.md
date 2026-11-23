@@ -3,9 +3,10 @@ title: "Section 7272 - Sugar program"
 usc_title: 7
 usc_section: "7272"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7272"
-generated_at: "2026-03-30T02:53:42.448Z"
+generated_at: "2026-11-23T21:25:28.420Z"
+status: "active"
 ---
 
 # § 7272. Sugar program
@@ -73,3 +74,7 @@ generated_at: "2026-03-30T02:53:42.448Z"
   - **(6)** Taking into consideration the information received under this subsection, the Secretary shall publish on a monthly basis composite data on production, imports, distribution, and stock levels of sugar.
 - **(h)** For purposes of Additional U.S. Note 6 to chapter 17 of the Harmonized Tariff Schedule of the United States and the reexport programs and polyhydric alcohol program administered by the Secretary, all refined sugars (whether derived from sugar beets or sugarcane) produced by cane sugar refineries and beet sugar processors shall be fully substitutable for the export of sugar and sugar-containing products under those programs.
 - **(i)** This section shall be effective only for the 2008 through 2031 crops of sugar beets and sugarcane.
+
+## Source Credit
+
+*([Pub. L. 104–127, title I, § 156](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 931](https://www.govinfo.gov/link/statute/110/931); [Pub. L. 106–387, § 1(a) [title VIII, § 836]](https://www.govinfo.gov/link/plaw/106/public/387), Oct. 28, 2000, [114 Stat. 1549](https://www.govinfo.gov/link/statute/114/1549), 1549A–62; [Pub. L. 107–171, title I, § 1401(a)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 183](https://www.govinfo.gov/link/statute/116/183); [Pub. L. 110–234, title I, § 1401(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 977](https://www.govinfo.gov/link/statute/122/977); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1401(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1705; [Pub. L. 113–79, title I, § 1301(a)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 687](https://www.govinfo.gov/link/statute/128/687); [Pub. L. 115–334, title I, § 1301(a)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4511](https://www.govinfo.gov/link/statute/132/4511); [Pub. L. 119–21, title I, § 10312(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 96](https://www.govinfo.gov/link/statute/139/96).)*

@@ -3,9 +3,10 @@ title: "Section 3772 - Sexual assault survivors’ rights"
 usc_title: 18
 usc_section: "3772"
 chapter: 238
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3772"
-generated_at: "2026-03-30T02:54:16.526Z"
+generated_at: "2026-11-23T21:25:44.231Z"
+status: "active"
 ---
 
 # § 3772. Sexual assault survivors’ rights
@@ -24,3 +25,15 @@ generated_at: "2026-03-30T02:54:16.526Z"
 - **(b)** Subsections (b) through (f) of section 3771 shall apply to sexual assault survivors.
 - **(c)** In this section, the term “sexual assault” means any nonconsensual sexual act proscribed by Federal, tribal, or State law, including when the victim lacks capacity to consent.
 - **(d)** This section, other than paragraphs (2)(A) and (3)(B) of subsection (a), shall be carried out using funds made available under section 1402(d)(3)(A)(i) of the Victims of Crime Act of 1984 ( 42 U.S.C. 10601(d)(3)(A)(i) ). 1 1 See References in Text note below. No additional funds are authorized to be appropriated to carry out this section.
+
+Rights of Sexual Assault Survivors
+
+Applicability
+
+Definition of Sexual Assault
+
+Funding
+
+## Source Credit
+
+*(Added [Pub. L. 114–236, § 2(a)](https://www.govinfo.gov/link/plaw/114/public/236), Oct. 7, 2016, [130 Stat. 966](https://www.govinfo.gov/link/statute/130/966); amended [Pub. L. 117–103, div. W, title XV, § 1505](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 956](https://www.govinfo.gov/link/statute/136/956).)*

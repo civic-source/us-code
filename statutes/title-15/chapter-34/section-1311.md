@@ -3,9 +3,10 @@ title: "Section 1311 - Definitions"
 usc_title: 15
 usc_section: "1311"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1311"
-generated_at: "2026-03-30T02:54:08.133Z"
+generated_at: "2026-11-23T21:25:39.813Z"
+status: "active"
 ---
 
 # § 1311. Definitions
@@ -25,3 +26,7 @@ For the purposes of this chapter—
 - **(i)** The term “product of discovery” includes without limitation the original or duplicate of any deposition, interrogatory, document, thing, result of the inspection of land or other property, examination, or admission obtained by any method of discovery in any judicial litigation or in any administrative litigation of an adversarial nature; any digest, analysis, selection, compilation, or any derivation thereof; and any index or manner of access thereto; and
 - **(j)** The term “agent” includes any person retained by the Department of Justice in connection with the enforcement of the antitrust laws.
 - **(k)** The term “foreign antitrust laws” has the meaning given such term in section 12 of the International Antitrust Enforcement Assistance Act of 1994 [ 15 U.S.C. 6211 ].
+
+## Source Credit
+
+*([Pub. L. 87–664, § 2](https://www.govinfo.gov/link/plaw/87/public/664), Sept. 19, 1962, [76 Stat. 548](https://www.govinfo.gov/link/statute/76/548); [Pub. L. 94–435, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/435), Sept. 30, 1976, [90 Stat. 1383](https://www.govinfo.gov/link/statute/90/1383); [Pub. L. 96–349](https://www.govinfo.gov/link/plaw/96/public/349), §§ 2(a), 7(a)(1), Sept. 12, 1980, [94 Stat. 1154](https://www.govinfo.gov/link/statute/94/1154), 1158; [Pub. L. 103–438, § 3(e)(1)(A)](https://www.govinfo.gov/link/plaw/103/public/438), Nov. 2, 1994, [108 Stat. 4598](https://www.govinfo.gov/link/statute/108/4598).)*

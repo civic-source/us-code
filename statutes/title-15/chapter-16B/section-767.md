@@ -3,9 +3,10 @@ title: "Section 767 - Transitional and savings provisions"
 usc_title: 15
 usc_section: "767"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 767"
-generated_at: "2026-03-30T02:54:08.121Z"
+generated_at: "2026-11-23T21:25:39.761Z"
+status: "active"
 ---
 
 # § 767. Transitional and savings provisions
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:08.121Z"
 - **(g)** With respect to any function transferred by this chapter and performed after the effective date of this chapter, reference in any other law to any department or agency, or any officer or office, the functions of which are so transferred, shall be deemed to refer to the Administration, Administrator, or other office or officers in which this chapter vests such functions.
 - **(h)** Nothing contained in this chapter shall be construed to limit, curtail, abolish, or terminate any function of the President which he had immediately before the effective date of this chapter; or to limit, curtail, abolish, or terminate his authority to perform such function; or to limit, curtail, abolish, or terminate his authority to delegate, redelegate, or terminate any delegations of functions.
 - **(i)** Any reference in this chapter to any provision of law shall be deemed to include, as appropriate, references thereto as now or hereafter amended or supplemented.
+
+## Source Credit
+
+*([Pub. L. 93–275, § 8](https://www.govinfo.gov/link/plaw/93/public/275), May 7, 1974, [88 Stat. 103](https://www.govinfo.gov/link/statute/88/103).)*

@@ -3,9 +3,10 @@ title: "Section 6064 - Termination of economic embargo of Cuba"
 usc_title: 22
 usc_section: "6064"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6064"
-generated_at: "2026-03-30T02:55:05.424Z"
+generated_at: "2026-11-23T21:25:58.677Z"
+status: "active"
 ---
 
 # § 6064. Termination of economic embargo of Cuba
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:05.424Z"
     - **(A)** Any joint resolution shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
     - **(B)** For the purpose of expediting the consideration and enactment of joint resolutions, a motion to proceed to the consideration of any joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives.
     - **(C)** Not more than 1 joint resolution may be considered in the House of Representatives and the Senate in the 6-month period beginning on the date on which the President notifies the Congress under paragraph (1) of the action taken under subsection (a), and in each 6-month period thereafter.
+
+## Source Credit
+
+*([Pub. L. 104–114, title II, § 204](https://www.govinfo.gov/link/plaw/104/public/114), Mar. 12, 1996, [110 Stat. 810](https://www.govinfo.gov/link/statute/110/810).)*

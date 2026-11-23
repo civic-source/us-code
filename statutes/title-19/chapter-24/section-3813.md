@@ -3,9 +3,10 @@ title: "Section 3813 - Definitions"
 usc_title: 19
 usc_section: "3813"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 3813"
-generated_at: "2026-03-30T02:54:24.698Z"
+generated_at: "2026-11-23T21:25:42.868Z"
+status: "active"
 ---
 
 # § 3813. Definitions
@@ -37,3 +38,7 @@ In this chapter:
   - **(13)** The terms “World Trade Organization” and “WTO” mean the organization established pursuant to the WTO Agreement.
   - **(14)** The term “WTO Agreement” means the Agreement Establishing the World Trade Organization entered into on April 15, 1994 .
   - **(15)** The term “WTO member” has the meaning given that term in section 3501(10) of this title .
+
+## Source Credit
+
+*([Pub. L. 107–210, div. B, title XXI, § 2113](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 1021](https://www.govinfo.gov/link/statute/116/1021); [Pub. L. 108–429, title II, § 2004(a)(19)](https://www.govinfo.gov/link/plaw/108/public/429), Dec. 3, 2004, [118 Stat. 2591](https://www.govinfo.gov/link/statute/118/2591).)*

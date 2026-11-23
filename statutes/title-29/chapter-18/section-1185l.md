@@ -3,9 +3,10 @@ title: "Section 1185l - Air ambulance report requirements"
 usc_title: 29
 usc_section: "1185l"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1185l"
-generated_at: "2026-03-30T02:55:18.726Z"
+generated_at: "2026-11-23T21:26:02.276Z"
+status: "active"
 ---
 
 # § 1185l. Air ambulance report requirements
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:18.726Z"
     - **(D)** The type of aircraft (such as rotor transport or fixed wing transport) used to furnish such services.
     - **(E)** Whether the provider of such services has a contract with the plan or issuer, as applicable, to furnish such services under the plan or coverage, respectively.
   - **(2)** Such other information regarding providers of air ambulance services as the Secretary may specify.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 723](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 116–260, div. BB, title I, § 106(b)(2)(A)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2853](https://www.govinfo.gov/link/statute/134/2853).)*

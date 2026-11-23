@@ -3,9 +3,10 @@ title: "Section 9101 - Congressional declaration of policy"
 usc_title: 42
 usc_section: "9101"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9101"
-generated_at: "2026-03-30T02:56:11.349Z"
+generated_at: "2026-11-23T21:26:33.225Z"
+status: "active"
 ---
 
 # § 9101. Congressional declaration of policy
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.349Z"
   - **(7)** protect the interests of the United States in the location, construction, and operation of ocean thermal energy conversion facilities and plantships; and
   - **(8)** protect the rights and responsibilities of adjacent coastal States in ensuring that Federal actions are consistent with approved State coastal zone management programs and other applicable State and local laws.
 - **(b)** The Congress declares that nothing in this chapter shall be construed to affect the legal status of the high seas, the superjacent airspace, or the seabed and subsoil, including the Continental Shelf.
+
+## Source Credit
+
+*([Pub. L. 96–320, § 2](https://www.govinfo.gov/link/plaw/96/public/320), Aug. 3, 1980, [94 Stat. 974](https://www.govinfo.gov/link/statute/94/974); [Pub. L. 98–623, title VI, § 602(a)(1)](https://www.govinfo.gov/link/plaw/98/public/623), Nov. 8, 1984, [98 Stat. 3410](https://www.govinfo.gov/link/statute/98/3410).)*

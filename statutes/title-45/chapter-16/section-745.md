@@ -3,9 +3,10 @@ title: "Section 745 - Continuing reorganization; supplemental transactions"
 usc_title: 45
 usc_section: "745"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 745"
-generated_at: "2026-03-30T02:55:56.556Z"
+generated_at: "2026-11-23T21:26:19.228Z"
+status: "active"
 ---
 
 # § 745. Continuing reorganization; supplemental transactions
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:55:56.556Z"
   - **(2)** Within 120 days after August 13, 1981 , the Secretary shall transfer, provided a qualified purchaser offers to purchase, the Corporation’s properties and freight service obligations described in paragraph (1) of this subsection to another railroad or railroads in the Region which are determined by the Secretary to be qualified. A qualified purchaser is defined as a railroad financially self-sustaining which guarantees continuous service for at least four years.
   - **(3)** The Secretary shall determine a fair and equitable price for the rail properties to be transferred under this subsection, and shall, unless the parties otherwise agree, establish divisions of joint rates for through routes over such properties which are fair and equitable to the parties.
   - **(4)** The Secretary shall determine fair and equitable terms for the provision of such trackage rights, on segments of the Corporation’s lines not to exceed 5 miles per line transferred, to acquiring carriers as may be necessary to operate such transferred lines in an efficient manner.
+
+## Source Credit
+
+*([Pub. L. 93–236, title III, § 305](https://www.govinfo.gov/link/plaw/93/public/236), as added [Pub. L. 94–210, title VI, § 610(b)](https://www.govinfo.gov/link/plaw/94/public/210), Feb. 5, 1976, [90 Stat. 100](https://www.govinfo.gov/link/statute/90/100); amended [Pub. L. 96–448, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/96/public/448), Oct. 14, 1980, [94 Stat. 1958](https://www.govinfo.gov/link/statute/94/1958); [Pub. L. 97–35, title XI, § 1155](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 677](https://www.govinfo.gov/link/statute/95/677); [Pub. L. 98–620, title IV, § 402(48)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3360](https://www.govinfo.gov/link/statute/98/3360); [Pub. L. 104–317, title VI, § 605(c)(2)](https://www.govinfo.gov/link/plaw/104/public/317), Oct. 19, 1996, [110 Stat. 3859](https://www.govinfo.gov/link/statute/110/3859).)*

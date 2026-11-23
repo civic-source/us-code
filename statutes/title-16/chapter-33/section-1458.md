@@ -3,9 +3,10 @@ title: "Section 1458 - Review of performance"
 usc_title: 16
 usc_section: "1458"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1458"
-generated_at: "2026-03-30T02:54:22.972Z"
+generated_at: "2026-11-23T21:25:51.889Z"
+status: "active"
 ---
 
 # § 1458. Review of performance
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:22.972Z"
   - **(3)** The suspension of financial assistance may not last for less than 6 months or more than 36 months after the date of suspension.
 - **(d)** The Secretary shall withdraw approval of the management program of any coastal state and shall withdraw financial assistance available to that State under this chapter as well as any unexpended portion of such assistance, if the Secretary determines that the coastal state has failed to take the actions referred to in subsection (c)(2)(A).
 - **(e)** Management program approval and financial assistance may not be withdrawn under subsection (d), unless the Secretary gives the coastal state notice of the proposed withdrawal and an opportunity for a public hearing on the proposed action. Upon the withdrawal of management program approval under this subsection (d), the Secretary shall provide the coastal state with written specifications of the actions that should be taken, or not engaged in, by the state in order that such withdrawal may be canceled by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 89–454, title III, § 312](https://www.govinfo.gov/link/plaw/89/public/454), formerly § 309, as added [Pub. L. 92–583](https://www.govinfo.gov/link/plaw/92/public/583), Oct. 27, 1972, [86 Stat. 1287](https://www.govinfo.gov/link/statute/86/1287), renumbered § 312 and amended [Pub. L. 94–370](https://www.govinfo.gov/link/plaw/94/public/370), §§ 7, 10, July 26, 1976, [90 Stat. 1019](https://www.govinfo.gov/link/statute/90/1019), 1029; [Pub. L. 96–464, § 9(a)](https://www.govinfo.gov/link/plaw/96/public/464), Oct. 17, 1980, [94 Stat. 2065](https://www.govinfo.gov/link/statute/94/2065); [Pub. L. 99–272, title VI, § 6043(a)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 124](https://www.govinfo.gov/link/statute/100/124); [Pub. L. 101–508, title VI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 6212, 6216(b), Nov. 5, 1990, [104 Stat. 1388–311](https://www.govinfo.gov/link/statute/104/1388), 1388–314; [Pub. L. 102–587, title II, § 2205(b)(1)(A)](https://www.govinfo.gov/link/plaw/102/public/587), (C), Nov. 4, 1992, [106 Stat. 5050](https://www.govinfo.gov/link/statute/106/5050).)*

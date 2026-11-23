@@ -3,9 +3,10 @@ title: "Section 3024 - Responsibilities and authorities of the Director of Natio
 usc_title: 50
 usc_section: "3024"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3024"
-generated_at: "2026-03-30T02:56:26.227Z"
+generated_at: "2026-11-23T21:26:38.989Z"
+status: "active"
 ---
 
 # § 3024. Responsibilities and authorities of the Director of National Intelligence
@@ -297,3 +298,357 @@ generated_at: "2026-03-30T02:56:26.227Z"
   - **(3)** In this subsection:
     - **(A)** The term “a review or an investigation of any proposed investment into the United States for which the Director has prepared analytic materials” includes a review, investigation, assessment, or analysis conducted by the Director pursuant to section 7 or 10(g) of Executive Order 13913 (85 Fed. Reg. 19643; relating to Establishing the Committee for the Assessment of Foreign Participation in the United States Telecommunications Services Sector), or successor order.
     - **(B)** The term “investment” includes any activity reviewed, investigated, assessed, or analyzed by the Director pursuant to section 7 or 10(g) of Executive Order 13913, or successor order.
+
+(aa) impaired if such authority is not exercised; or
+
+(bb) significantly and measurably enhanced if such authority is exercised; and
+
+Other transaction authority.—
+
+In general
+
+Delegation
+
+Intelligence community authority
+
+(aa) the participants provide the most up-to-date version of the product that is available in the commercial marketplace and is consistent with security requirements;
+
+(bb) there are mechanisms in place for the participants to provide timely updates to the production product; and
+
+(cc) the authority specified in section 4022(f)(5) of such title shall be exercised by the Director in lieu of the Secretary of Defense.
+
+Implementation policy
+
+Annual report.—
+
+In general
+
+Elements.—
+
+Required elements
+
+(aa) The number of transactions.
+
+(bb) The participants to such transactions.
+
+(cc) The purpose of the transaction.
+
+(dd) The amount of each transaction.
+
+(ee) Concerns with the efficiency of the policy.
+
+(ff) Any recommendations for how to improve the process.
+
+Other elements
+
+Definitions
+
+Metric Development and Implementation
+
+Briefing
+
+Definitions
+
+In General
+
+Elements
+
+Sense of Congress
+
+Guidance Required
+
+Funding Levels
+
+Report.—
+
+In general
+
+Appropriate congressional committees defined
+
+Definition of Onboard Period
+
+Policy Guidance
+
+Report.—
+
+In general
+
+Elements
+
+Plan.—
+
+In general
+
+Elements
+
+Implementation
+
+Plan and Study.—
+
+Submission
+
+Elements
+
+Public Website on Commercial Integration.—
+
+Establishment
+
+Inclusion of certain information
+
+Pilot Program
+
+Designation.—
+
+In general
+
+Requirements
+
+Revocation of designation
+
+Benefits of Designation.—
+
+Inclusion in multiyear national intelligence program plan
+
+Inclusion under separate exhibit
+
+Consideration in programming and budgeting
+
+Reports to Congress.—
+
+Annual reports
+
+Final report
+
+Termination Date
+
+Definition of Covered Element of the Intelligence Community
+
+Definition of Appropriate Committees of Congress
+
+Protocol
+
+Limitation
+
+Elements
+
+Coordinating Officials
+
+Documentation Requirements
+
+Implementation Required
+
+Compliance Policy.—
+
+Requirement
+
+Elements
+
+Submission
+
+Market analysis
+
+Annual Reports.—
+
+Requirement
+
+Elements
+
+Policy
+
+Submission
+
+Training Curriculum.—
+
+Requirement
+
+Provision of training
+
+Report
+
+Agreements Officers
+
+Establishment of Emerging Technology Training Activities.—
+
+Requirement
+
+Certification
+
+Briefing
+
+Policy Regarding Procurement of Commercial Software Products
+
+Elements
+
+Report
+
+Prize Competition
+
+Prize Amount
+
+Consultation
+
+Fifth-generation Technology Defined
+
+Prize Competition
+
+Prize Amount
+
+Consultation
+
+Machine-Manipulated Media Defined
+
+In General
+
+Pilot Program.—
+
+In general
+
+Commencement; completion
+
+Notifications Required
+
+Briefing Required
+
+Definitions.—
+
+Appropriate congressional committees
+
+International mobile subscriber identity-catcher
+
+Definitions
+
+Core service
+
+Intelligence community information technology environment
+
+Roles and Responsibilities.—
+
+Director of national intelligence
+
+Core service providers
+
+Use of core services.—
+
+In general
+
+Exception
+
+Management Accountability
+
+Security Plan
+
+Long-Term Roadmap
+
+Business Plan
+
+Quarterly Presentations
+
+Additional Notifications
+
+Sunset
+
+Policy Required
+
+Implementation
+
+Limitations
+
+Covered office of an inspector general defined
+
+Briefing to the congressional intelligence committees
+
+Directive Required
+
+Senior Level Position
+
+Notification
+
+Relationship to Other Laws
+
+Submission
+
+In General
+
+Annual Report
+
+In General
+
+Congressional Briefing
+
+Initial Operating Capability
+
+Full Operating Capability
+
+Report
+
+Information Resources Defined
+
+Development of Procedures
+
+Implementation Report
+
+In General
+
+Report
+
+In general
+
+Authorization of appropriations
+
+In General
+
+Purpose
+
+Method of Transliteration Required
+
+Use by Intelligence Community
+
+Survey of Current Standards.—
+
+Survey
+
+Report
+
+Guidelines.—
+
+Issuance
+
+Basis
+
+Submittal to congress
+
+Congressional Intelligence Committees Defined
+
+“In this title [enacting sections 3034b, 3334m, 3334n, and 3334 o of this title, amending this section and section 3030 of this title , and enacting provisions set out as notes under this section and section 3030 of this title ]:
+
+Artificial intelligence
+
+Authorization to operate
+
+Code-free artificial intelligence enablement tools
+
+Commercial product
+
+Commercial service
+
+Covered item or service
+
+Covered product
+
+Emerging technology
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title I, § 102A, as added [Pub. L. 108–458, title I, § 1011(a)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3644](https://www.govinfo.gov/link/statute/118/3644); amended [Pub. L. 111–258, § 5(a)](https://www.govinfo.gov/link/plaw/111/public/258), Oct. 7, 2010, [124 Stat. 2650](https://www.govinfo.gov/link/statute/124/2650); [Pub. L. 111–259, title III](https://www.govinfo.gov/link/plaw/111/public/259), §§ 303, 304, 306, 307, 326, title IV, §§ 401, 402(a), title VIII, § 804(2), Oct. 7, 2010, [124 Stat. 2658](https://www.govinfo.gov/link/statute/124/2658), 2659, 2661, 2662, 2683, 2708, 2747; [Pub. L. 112–87, title III](https://www.govinfo.gov/link/plaw/112/public/87), §§ 304, 305, 311(d), Jan. 3, 2012, [125 Stat. 1880](https://www.govinfo.gov/link/statute/125/1880), 1881, 1886; [Pub. L. 113–126, title III, § 329(b)(2)](https://www.govinfo.gov/link/plaw/113/public/126), title V, §§ 501, 502(a), July 7, 2014, [128 Stat. 1406](https://www.govinfo.gov/link/statute/128/1406), 1411, 1412; [Pub. L. 114–113, div. M, title I, § 105(a)](https://www.govinfo.gov/link/plaw/114/public/113), title VII, § 701(c)(1), Dec. 18, 2015, [129 Stat. 2912](https://www.govinfo.gov/link/statute/129/2912), 2929; [Pub. L. 115–31, div. N, title III](https://www.govinfo.gov/link/plaw/115/public/31), §§ 303(a), 309(b), title IV, §§ 401(c), 402, May 5, 2017, [131 Stat. 810](https://www.govinfo.gov/link/statute/131/810), 815, 818, 820; [Pub. L. 116–92, div. E, title LIII, § 5305](https://www.govinfo.gov/link/plaw/116/public/92), title LXVII, § 6742(b)(1), Dec. 20, 2019, [133 Stat. 2122](https://www.govinfo.gov/link/statute/133/2122), 2239; [Pub. L. 117–103, div. X, title IV](https://www.govinfo.gov/link/plaw/117/public/103), §§ 402, 403, Mar. 15, 2022, [136 Stat. 975](https://www.govinfo.gov/link/statute/136/975); [Pub. L. 117–263, div. F, title LXIII, § 6314(a)](https://www.govinfo.gov/link/plaw/117/public/263), (c), title LXIV, §§ 6401, 6402, 6415(b), title LXVII, § 6711(b), Dec. 23, 2022, [136 Stat. 3511](https://www.govinfo.gov/link/statute/136/3511), 3524, 3525, 3528, 3563; [Pub. L. 118–31, div. G, title III](https://www.govinfo.gov/link/plaw/118/public/31), §§ 7307(a), 7308, 7309, title IX, § 7901(a)(1), Dec. 22, 2023, [137 Stat. 1026–1028](https://www.govinfo.gov/link/statute/137/1026), 1106; [Pub. L. 118–159, div. F, title LXIII, § 6308](https://www.govinfo.gov/link/plaw/118/public/159), title LXIV, § 6437, title LXIX, § 6902(a)(1), Dec. 23, 2024, [138 Stat. 2477](https://www.govinfo.gov/link/statute/138/2477), 2492, 2517; [Pub. L. 119–60, div. F, title LXIV, § 6402(a)](https://www.govinfo.gov/link/plaw/119/public/60) –(c)(1), title LXV, § 6501(b), Dec. 18, 2025, [139 Stat. 1615](https://www.govinfo.gov/link/statute/139/1615), 1619.)*

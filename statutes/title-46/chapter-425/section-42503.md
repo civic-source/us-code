@@ -3,9 +3,10 @@ title: "Section 42503 - Administration"
 usc_title: 46
 usc_section: "42503"
 chapter: 425
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 42503"
-generated_at: "2026-03-30T02:56:15.567Z"
+generated_at: "2026-11-23T21:26:37.205Z"
+status: "active"
 ---
 
 # § 42503. Administration
@@ -53,3 +54,73 @@ generated_at: "2026-03-30T02:56:15.567Z"
   - **(1)** attend any meeting of the Committee; and
   - **(2)** participate as an observer at such meeting.
 - **(k)** The Committee shall terminate on September 30, 2029 .
+
+Meetings
+
+Employee Status
+
+Volunteer Services and Compensation.—
+
+Status of Members.—
+
+In general
+
+Exception
+
+Service on Committee.—
+
+Solicitation of nominations
+
+Appointments.—
+
+In general
+
+Prohibition
+
+Service at pleasure of commission
+
+Security background examinations
+
+Prohibition
+
+Terms.—
+
+In general
+
+Continued service after term
+
+Vacancies
+
+Special rule for reappointments
+
+Staff Services
+
+Chair; Vice Chair.—
+
+In general
+
+Vice chairman acting as chairman
+
+Subcommittees and Working Groups.—
+
+In general
+
+Participants
+
+Consultation, Advice, Reports, and Recommendations.—
+
+Consultation
+
+Advice, reports, and recommendations
+
+Explanation of actions taken
+
+Submission to congress
+
+Observers
+
+Termination
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. G, title LVXXXVI](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXVI], § 8604(a), Jan. 1, 2021, [134 Stat. 4762](https://www.govinfo.gov/link/statute/134/4762).)*

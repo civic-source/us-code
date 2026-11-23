@@ -3,9 +3,10 @@ title: "Section 2106 - Reports to Congress"
 usc_title: 44
 usc_section: "2106"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 2106"
-generated_at: "2026-03-30T02:55:56.292Z"
+generated_at: "2026-11-23T21:26:18.402Z"
+status: "active"
 ---
 
 # § 2106. Reports to Congress
@@ -16,3 +17,7 @@ The Archivist shall submit to the Congress, in January of each year and at such 
   - **(2)** research projects and publications undertaken by Commission grantees, and by Trust Fund grantees, including detailed information concerning the receipt and use of all appropriated and nonappropriated funds;
   - **(3)** by account, the moneys, securities, and other personal property received and held by the National Archives Trust Fund Board, and of its operations, including a listing of the purposes for which funds are transferred to the National Archives and Records Administration for expenditure to other Federal agencies; and
   - **(4)** the matters specified in section 2904(c)(8) of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 98–497, title I, § 102(a)(2)](https://www.govinfo.gov/link/plaw/98/public/497), Oct. 19, 1984, [98 Stat. 2282](https://www.govinfo.gov/link/statute/98/2282).)*

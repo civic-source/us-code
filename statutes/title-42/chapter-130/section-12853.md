@@ -3,9 +3,10 @@ title: "Section 12853 - National Homeownership Trust Fund"
 usc_title: 42
 usc_section: "12853"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12853"
-generated_at: "2026-03-30T02:56:11.433Z"
+generated_at: "2026-11-23T21:26:33.563Z"
+status: "active"
 ---
 
 # § 12853. National Homeownership Trust Fund
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.433Z"
   - **(2)** In Washington, District of Columbia, in an amount not to exceed $10,000,000, for nonprofit neighborhood-based groups to acquire and rehabilitate vacant public and private housing for resale or rent to low- and moderate-income families and to the extent of and subject to engage in neighborhood-based economic development activities.
   - **(3)** In Philadelphia, Pennsylvania, in an amount not to exceed $1,000,000, for technical assistance and organizational support for a community development corporation that is a city-wide public/private partnership engaged in the provision of technical assistance to neighborhood community development corporations.
   - **(4)** In other areas, as the Secretary may determine.
+
+## Source Credit
+
+*([Pub. L. 101–625, title III, § 304](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4132](https://www.govinfo.gov/link/statute/104/4132).)*

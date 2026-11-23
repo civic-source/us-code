@@ -3,9 +3,10 @@ title: "Section 222c - Armed forces: Out-Year Unconstrained Total Munitions Requ
 usc_title: 10
 usc_section: "222c"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 222c"
-generated_at: "2026-03-30T02:53:38.047Z"
+generated_at: "2026-11-23T21:25:32.242Z"
+status: "active"
 ---
 
 # § 222c. Armed forces: Out-Year Unconstrained Total Munitions Requirements; Out-Year inventory numbers
@@ -38,3 +39,23 @@ generated_at: "2026-03-30T02:53:38.047Z"
 - **(h)** In this section:
   - **(1)** The term “chief of staff”, with respect to the Marine Corps, means the Commandant of the Marine Corps.
   - **(2)** The term “Out-Year Unconstrained Total Munitions Requirement” has the meaning given that term in and for purposes of Department of Defense Instruction 3000.04, or any successor instruction.
+
+Annual Reports
+
+Prohibition on Delegation of Submittal Responsibility
+
+Presentation
+
+Implementation Guidance Used
+
+Additional Requirements
+
+Inclusion in Planning, Programming, Budgeting, and Execution
+
+Methodology
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 115–232, div. A, title X, § 1061(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1969](https://www.govinfo.gov/link/statute/132/1969); amended [Pub. L. 116–92, div. A, title X, § 1006](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1574](https://www.govinfo.gov/link/statute/133/1574); [Pub. L. 117–263, div. A, title XVII, § 1701(c)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2964](https://www.govinfo.gov/link/statute/136/2964); [Pub. L. 119–60, div. A, title III](https://www.govinfo.gov/link/plaw/119/public/60), §§ 361, 362, Dec. 18, 2025, [139 Stat. 833](https://www.govinfo.gov/link/statute/139/833), 834.)*

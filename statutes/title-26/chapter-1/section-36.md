@@ -3,9 +3,10 @@ title: "Section 36 - First-time homebuyer credit"
 usc_title: 26
 usc_section: "36"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 36"
-generated_at: "2026-03-30T02:55:27.592Z"
+generated_at: "2026-11-23T21:26:05.903Z"
+status: "active"
 ---
 
 # § 36. First-time homebuyer credit
@@ -79,3 +80,19 @@ generated_at: "2026-03-30T02:55:27.592Z"
   - **(3)** In the case of any individual who serves on qualified official extended duty service (as defined in section 121(d)(9)(C)(i)) outside the United States for at least 90 days during the period beginning after December 31, 2008 , and ending before May 1, 2010 , and, if married, such individual’s spouse—
     - **(A)** paragraphs (1) and (2) shall each be applied by substituting “ May 1, 2011 ” for “ May 1, 2010 ”, and
     - **(B)** paragraph (2) shall be applied by substituting “ July 1, 2011 ” for “ July 1, 2010 ”, and for “ October 1, 2010 ”.
+
+In general
+
+Extensions
+
+Waiver of recapture
+
+In general
+
+Documentation requirement
+
+Treatment as mathematical and clerical errors
+
+## Source Credit
+
+*(Added [Pub. L. 110–289, div. C, title I, § 3011(a)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2888](https://www.govinfo.gov/link/statute/122/2888); amended [Pub. L. 111–5, div. B, title I, § 1006(a)](https://www.govinfo.gov/link/plaw/111/public/5) –(c), (d)(2), (e), Feb. 17, 2009, [123 Stat. 316](https://www.govinfo.gov/link/statute/123/316), 317; [Pub. L. 111–92](https://www.govinfo.gov/link/plaw/111/public/92), §§ 11(a)–(g), 12(a)–(c), Nov. 6, 2009, [123 Stat. 2989–2992](https://www.govinfo.gov/link/statute/123/2989); [Pub. L. 111–198, § 2(a)](https://www.govinfo.gov/link/plaw/111/public/198), (b), July 2, 2010, [124 Stat. 1356](https://www.govinfo.gov/link/statute/124/1356).)*

@@ -3,9 +3,10 @@ title: "Section 2 - Repayment contracts"
 usc_title: 16
 usc_section: "2"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T02:54:22.883Z"
+generated_at: "2026-11-23T21:25:51.694Z"
+status: "active"
 ---
 
 # § 590z–2. Repayment contracts
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:22.883Z"
   - **(3)** The repayment of the reimbursable construction costs, except as to Indian lands which shall be repayable in accordance with existing law relating to Indian lands, shall be spread in not to exceed forty annual installments, of the number and amounts fixed by the Secretary; and the first annual installment under each contract shall become due and payable on the date fixed by the Secretary, in the year next following the last year of the development period fixed under subsection (c)(1): Provided , That the provisions of this subsection shall not be construed to modify the provisions of special legislation pertaining to any particular project.
   - **(4)** The water users or their organization will take such measures as the Secretary deems proper to secure the adoption of proper accounting, to protect the condition of project works, and to provide for the proper use thereof, and to protect project lands against deterioration due to improper use of water. Delinquencies in any payments due to the United States shall be penalized by a penalty of not less than one-half of 1 per centum per month. No water shall be delivered to or for any land or party while either said land or the organization in which it is located or said party is in arrears in the advance payment of operation and maintenance charges or development period charges under subsection (c)(1), or in arrears for more than twelve months in the payment of an installment of the reimbursable construction costs.
   - **(5)** The Secretary shall establish the size of farm units of irrigable lands on each project in accordance with his findings of the area sufficient in size for the support of a family on the lands to be irrigated. No water may be delivered to or for more than the farm unit area of irrigable lands in the project owned by a single landowner: Provided , That this subsection shall not apply to the United States or any agency or instrumentality thereof, corporate or otherwise. No water shall be delivered to or for any land, in a project area, transferred or disposed of subsequent to approval of the project by the President, and within three years from the time water becomes available, unless and until it has been shown to the satisfaction of the Secretary or his duly authorized representative that the land has been transferred or disposed of at a price not exceeding the appraised value as determined by the Secretary or his duly authorized representatives, and upon proof of fraudulent representation as to the true consideration involved the Secretary is authorized to cancel the water right attaching to the land involved: Provided further , That nothing herein shall be construed to create authority to interfere with the delivery of water under prior rights.
+
+## Source Credit
+
+*(Aug. 11, 1939, ch. 717, § 4, as added Oct. 14, 1940, ch. 861, [54 Stat. 1121](https://www.govinfo.gov/link/statute/54/1121); amended July 16, 1943, ch. 242, § 5, [57 Stat. 567](https://www.govinfo.gov/link/statute/57/567).)*

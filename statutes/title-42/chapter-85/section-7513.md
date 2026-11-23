@@ -3,9 +3,10 @@ title: "Section 7513 - Classifications and attainment dates"
 usc_title: 42
 usc_section: "7513"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7513"
-generated_at: "2026-03-30T02:56:11.309Z"
+generated_at: "2026-11-23T21:26:33.110Z"
+status: "active"
 ---
 
 # § 7513. Classifications and attainment dates
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.309Z"
   - **(2)** no more than one exceedance of the 24-hour national ambient air quality standard level for PM–10 has occurred in the area in the year preceding the Extension Year, and the annual mean concentration of PM–10 in the area for such year is less than or equal to the standard level.
 - **(e)** Upon application by any State, the Administrator may extend the attainment date for a Serious Area beyond the date specified under subsection (c), if attainment by the date established under subsection (c) would be impracticable, the State has complied with all requirements and commitments pertaining to that area in the implementation plan, and the State demonstrates to the satisfaction of the Administrator that the plan for that area includes the most stringent measures that are included in the implementation plan of any State or are achieved in practice in any State, and can feasibly be implemented in the area. At the time of such application, the State must submit a revision to the implementation plan that includes a demonstration of attainment by the most expeditious alternative date practicable. In determining whether to grant an extension, and the appropriate length of time for any such extension, the Administrator may consider the nature and extent of nonattainment, the types and numbers of sources or other emitting activities in the area (including the influence of uncontrollable natural sources and transboundary emissions from foreign countries), the population exposed to concentrations in excess of the standard, the presence and concentration of potentially toxic substances in the mix of particulate emissions in the area, and the technological and economic feasibility of various control measures. The Administrator may not approve an extension until the State submits an attainment demonstration for the area. The Administrator may grant at most one such extension for an area, of no more than 5 years.
 - **(f)** The Administrator may, on a case-by-case basis, waive any requirement applicable to any Serious Area under this subpart where the Administrator determines that anthropogenic sources of PM–10 do not contribute significantly to the violation of the PM–10 standard in the area. The Administrator may also waive a specific date for attainment of the standard where the Administrator determines that nonanthropogenic sources of PM–10 contribute significantly to the violation of the PM–10 standard in the area.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 188, as added [Pub. L. 101–549, title I, § 105(a)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2458](https://www.govinfo.gov/link/statute/104/2458).)*

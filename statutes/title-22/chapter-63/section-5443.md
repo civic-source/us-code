@@ -3,9 +3,10 @@ title: "Section 5443 - Science and technology exchange with Poland and Hungary"
 usc_title: 22
 usc_section: "5443"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5443"
-generated_at: "2026-03-30T02:55:05.418Z"
+generated_at: "2026-11-23T21:25:58.662Z"
+status: "active"
 ---
 
 # § 5443. Science and technology exchange with Poland and Hungary
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.418Z"
 - **(c)** For purposes of this section—
   - **(1)** the term “1987 United States-Polish science and technology agreement” refers to the agreement concluded in 1987 by the United States and Poland, entitled “Agreement Between the Government of the United States of America and the Polish People’s Republic on Cooperation in Science and Technology and Its Funding”, together with annexes relating thereto; and
   - **(2)** the term “1989 United States-Hungarian science and technology agreement” refers to the agreement concluded in 1989 by the United States and Hungary, entitled “Agreement Between the Government of the United States of America and the Government of the Hungarian People’s Republic for Scientific and Technology Cooperation”, together with annexes relating thereto.
+
+## Source Credit
+
+*([Pub. L. 101–179, title IV, § 403](https://www.govinfo.gov/link/plaw/101/public/179), Nov. 28, 1989, [103 Stat. 1316](https://www.govinfo.gov/link/statute/103/1316).)*

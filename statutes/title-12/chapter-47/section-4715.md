@@ -3,9 +3,10 @@ title: "Section 4715 - Special provisions with respect to institutions that are 
 usc_title: 12
 usc_section: "4715"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4715"
-generated_at: "2026-03-30T02:53:53.517Z"
+generated_at: "2026-11-23T21:25:37.215Z"
+status: "active"
 ---
 
 # § 4715. Special provisions with respect to institutions that are supervised by Federal banking agencies
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:53.517Z"
       - **(i)** the basis for the determination under subparagraph (B) and, if appropriate, provides documentation to support the determination; and
       - **(ii)** how the alternative action suggested pursuant to subparagraph (C) would be as effective as the sanction proposed by the Fund in securing compliance with this subchapter and deterring future noncompliance.
 - **(i)** The Fund and each appropriate Federal banking agency shall cooperate and respond to requests from each other and from other appropriate Federal banking agencies in a manner that ensures the safety and soundness of the insured community development financial institution or other institution that is examined by or subject to the reporting requirements of an appropriate Federal banking agency.
+
+## Source Credit
+
+*([Pub. L. 103–325, title I, § 116](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2185](https://www.govinfo.gov/link/statute/108/2185).)*

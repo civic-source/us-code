@@ -3,9 +3,10 @@ title: "Section 45Y - Clean electricity production credit"
 usc_title: 26
 usc_section: "45Y"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 45Y"
-generated_at: "2026-03-30T02:55:27.606Z"
+generated_at: "2026-11-23T21:26:05.943Z"
+status: "active"
 ---
 
 # § 45Y. Clean electricity production credit
@@ -115,7 +116,7 @@ generated_at: "2026-03-30T02:55:27.606Z"
   - **(11)**
     - **(A)** In the case of any qualified facility which satisfies the requirement under subparagraph (B)(i), the amount of the credit determined under subsection (a) shall be increased by an amount equal to 10 percent of the amount so determined (as determined without application of paragraph (7)).
     - **(B)**
-      - **(i)** The requirement described in this subclause is satisfied with respect to any qualified facility if the taxpayer certifies to the Secretary (at such time, and in such form and manner, as the Secretary may prescribe) that any steel, iron, or manufactured product which is a component of such facility (upon completion of construction) was produced in the United States (as determined under section 661 of title 49 , Code of Federal Regulations).
+      - **(i)** The requirement described in this subclause is satisfied with respect to any qualified facility if the taxpayer certifies to the Secretary (at such time, and in such form and manner, as the Secretary may prescribe) that any steel, iron, or manufactured product which is a component of such facility (upon completion of construction) was produced in the United States (as determined under section 2 2 So in original. Probably should be “part”. 661 of title 49, Code of Federal Regulations).
       - **(ii)** In the case of steel or iron, clause (i) shall be applied in a manner consistent with section 661.5 of title 49, Code of Federal Regulations.
       - **(iii)** For purposes of clause (i), the manufactured products which are components of a qualified facility upon completion of construction shall be deemed to have been produced in the United States if not less than the adjusted percentage (as determined under subparagraph (C)) of the total costs of all such manufactured products of such facility are attributable to manufactured products (including components) which are mined, produced, or manufactured in the United States.
     - **(C)**
@@ -153,3 +154,21 @@ generated_at: "2026-03-30T02:55:27.606Z"
       - **(ii)** a foreign-influenced entity (as defined in section 7701(a)(51)(D), without regard to clause (i)(II) thereof).
     - **(B)** In the case of a taxpayer for which section 7701(a)(51)(D)(i)(II) is determined to apply for any taxable year, no credit shall be determined under subsection (a) for such taxable year if such determination relates to a qualified facility described in subsection (b)(1).
 - **(h)** No credit shall be determined under this section with respect to any production of electricity during the taxable year with respect to property described in paragraph (1) or (4) of section 25D(d) (as applied by substituting “lessee” for “taxpayer”) if the taxpayer rents or leases such property to a third party during such taxable year.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*(Added [Pub. L. 117–169, title I, § 13701(a)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1982](https://www.govinfo.gov/link/statute/136/1982); amended [Pub. L. 119–21, title VII, § 70512(a)](https://www.govinfo.gov/link/plaw/119/public/21), (b), (d), (e), (g), July 4, 2025, [139 Stat. 252](https://www.govinfo.gov/link/statute/139/252), 253, 266, 267.)*

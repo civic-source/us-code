@@ -3,9 +3,10 @@ title: "Section 9623 - Reimbursement to local governments"
 usc_title: 42
 usc_section: "9623"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9623"
-generated_at: "2026-03-30T02:56:11.361Z"
+generated_at: "2026-11-23T21:26:33.265Z"
+status: "active"
 ---
 
 # § 9623. Reimbursement to local governments
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.361Z"
   - **(2)** Reimbursement under this section shall not supplant local funds normally provided for response.
 - **(c)** The amount of any reimbursement to any local authority under subsection (b)(1) may not exceed $25,000 for a single response. The reimbursement under this section with respect to a single facility shall be limited to the units of local government having jurisdiction over the political subdivision in which the facility is located.
 - **(d)** Reimbursements authorized pursuant to this section shall be in accordance with rules promulgated by the Administrator within one year after October 17, 1986 .
+
+## Source Credit
+
+*([Pub. L. 96–510, title I, § 123](https://www.govinfo.gov/link/plaw/96/public/510), as added [Pub. L. 99–499, title I, § 123(a)](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1688](https://www.govinfo.gov/link/statute/100/1688).)*

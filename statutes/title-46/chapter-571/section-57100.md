@@ -3,9 +3,10 @@ title: "Section 57100 - National Defense Reserve Fleet"
 usc_title: 46
 usc_section: "57100"
 chapter: 571
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 57100"
-generated_at: "2026-03-30T02:56:15.581Z"
+generated_at: "2026-11-23T21:26:37.319Z"
+status: "active"
 ---
 
 # § 57100. National Defense Reserve Fleet
@@ -44,3 +45,85 @@ generated_at: "2026-03-30T02:56:15.581Z"
   - **(4)** Whether any costs incurred by such use will be funded as a reimbursable transaction between Federal agencies, as applicable.
   - **(5)** Any other matters the Maritime Administrator considers appropriate.
 - **(g)** A vessel in the National Defense Reserve Fleet determined by the Maritime Administration to be an obsolete vessel shall remain a vessel within the meaning of that term in section 3 of title 1 , United States Code, and subject to the rights and responsibilities of a vessel under admiralty law at least until such time as the vessel is delivered to a dismantling facility or is disposed of otherwise from the National Defense Reserve Fleet.
+
+Fleet Components
+
+Permitted Uses
+
+Ready Reserve Force Management.—
+
+Minimum requirements
+
+Vessel managers.—
+
+Eligibility for contract
+
+Contract requirement
+
+Applicability of Limitations on Overhaul, Repair, and Maintenance in Foreign Shipyards.—
+
+Application of limitation
+
+Covered vessels
+
+Exemption From Tank Vessel Construction Standards
+
+Use of NDRF Vessels for Civil Contingency Operations and Promotional and Media Events
+
+Availability
+
+Interference
+
+Safety
+
+Cost
+
+Other matters
+
+Vessel Status
+
+Vessel Construction.—
+
+Completion of design
+
+Agreement with vessel construction manager
+
+Design standards and construction practices
+
+Consultation With Other Federal Entities
+
+Prohibition on Use of Funds for Used Vessels
+
+Missile Defense Agency Transfer Authority
+
+In General.—
+
+Vessel construction
+
+Agreement with vessel construction manager
+
+Construction and Documentation Requirements
+
+Design Standards and Construction Practices
+
+Consultation With Other Federal Entities
+
+Limitation on Use of Funds for Used Vessels
+
+Limitation
+
+In General
+
+Use of Various Contracting Arrangements
+
+Contract Requirements
+
+Limitation of Work Under Contracts
+
+Geographic Distribution
+
+Reports
+
+## Source Credit
+
+*(Added and amended [Pub. L. 115–91, div. C, title XXXV, § 3502(a)(3)](https://www.govinfo.gov/link/plaw/115/public/91), (b)(6), Dec. 12, 2017, [131 Stat. 1910](https://www.govinfo.gov/link/statute/131/1910); [Pub. L. 115–232, div. A, title VIII, § 809(q)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1844](https://www.govinfo.gov/link/statute/132/1844); [Pub. L. 118–31, div. C, title XXXV, § 3514(j)(2)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 811](https://www.govinfo.gov/link/statute/137/811); [Pub. L. 118–159, div. C, title XXXV, § 3535(c)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2314](https://www.govinfo.gov/link/statute/138/2314).)*

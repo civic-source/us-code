@@ -3,9 +3,10 @@ title: "Section 2399 - Study on programs of study aligned to high-skill, high-wa
 usc_title: 20
 usc_section: "2399"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 2399"
-generated_at: "2026-03-30T02:54:48.176Z"
+generated_at: "2026-11-23T21:25:47.390Z"
+status: "active"
 ---
 
 # § 2399. Study on programs of study aligned to high-skill, high-wage occupations
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:48.176Z"
   - **(5)** special populations; and
   - **(6)** representatives of business and industry.
 - **(c)** Upon completion, the Comptroller General of the United States shall submit the study conducted under subsection (a) to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate.
+
+## Source Credit
+
+*([Pub. L. 88–210, title II, § 219](https://www.govinfo.gov/link/plaw/88/public/210), as added [Pub. L. 115–224, title II, § 201(a)(8)](https://www.govinfo.gov/link/plaw/115/public/224), July 31, 2018, [132 Stat. 1621](https://www.govinfo.gov/link/statute/132/1621).)*

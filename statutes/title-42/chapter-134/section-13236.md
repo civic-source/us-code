@@ -3,9 +3,10 @@ title: "Section 13236 - Alternative fuel bus program"
 usc_title: 42
 usc_section: "13236"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13236"
-generated_at: "2026-03-30T02:56:11.439Z"
+generated_at: "2026-11-23T21:26:33.584Z"
+status: "active"
 ---
 
 # § 13236. Alternative fuel bus program
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.439Z"
   - **(2)** The Secretary of Transportation may grant such priority under this section to any entity that demonstrates that the use of alternative fuels for transportation would have a significant beneficial effect on the environment.
 - **(c)** The Secretary of Transportation may also provide, in accordance with such rules as he may prescribe, financial assistance to any agency, municipality, or political subdivision in an urban area referred to in subsection (a), of any State or the District of Columbia for the purpose of meeting the incremental costs of school buses that are dedicated vehicles and used regularly for such transportation during the school term. Such costs may include the purchase and installation of alternative fuel refueling facilities to be used for school bus refueling, and the conversion of school buses to dedicated vehicles. The Secretary of Transportation may provide such assistance directly to a person who is a contractor of such agency, municipality, or political subdivision, upon the request of the agency, municipality, or political subdivision, and who, under such contract, provides for such transportation. Any conversion under this subsection shall comply with the warranty and safety requirements for alternative fuel conversions contained in section 7587 1 1 See References in Text note below. of this title.
 - **(d)** There are authorized to be appropriated not more than $30,000,000 for each of the fiscal years 1993, 1994, and 1995 for purposes of this section.
+
+## Source Credit
+
+*([Pub. L. 102–486, title IV, § 410](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2884](https://www.govinfo.gov/link/statute/106/2884).)*

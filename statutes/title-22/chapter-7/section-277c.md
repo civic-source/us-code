@@ -3,9 +3,10 @@ title: "Section 277c - Agreements with political subdivisions; acquisition of la
 usc_title: 22
 usc_section: "277c"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 277c"
-generated_at: "2026-03-30T02:55:05.311Z"
+generated_at: "2026-11-23T21:25:58.344Z"
+status: "active"
 ---
 
 # § 277c. Agreements with political subdivisions; acquisition of lands
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.311Z"
 - **(c)** 1 1 See Repeal; Savings Provision note below. to withdraw from sale, public entry or disposal of such public lands of the United States as he may find to be necessary and thereupon the Secretary of the Interior shall cause the lands so designated to be withdrawn from any public entry whatsoever, and from sale, disposal, location or settlement under the mining laws or any other law relating to the public domain and shall cause such withdrawal to appear upon the records in the appropriate land office having jurisdiction over such lands, and such lands may be used for carrying out the purposes of sections 277 to 277d of this title: Provided , That any such withdrawal may subsequently be revoked by the President; and
 - **(d)** to make or approve all necessary rules and regulations.
 
+
+## Source Credit
+
+*(May 13, 1924, ch. 153, § 4, as added Aug. 19, 1935, ch. 561, [49 Stat. 660](https://www.govinfo.gov/link/statute/49/660); amended May 22, 1936, ch. 447, [49 Stat. 1370](https://www.govinfo.gov/link/statute/49/1370).)*

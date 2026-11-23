@@ -3,9 +3,10 @@ title: "Section 4615 - Supervisory actions applicable to undercapitalized regula
 usc_title: 12
 usc_section: "4615"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4615"
-generated_at: "2026-03-30T02:53:53.511Z"
+generated_at: "2026-11-23T21:25:37.197Z"
+status: "active"
 ---
 
 # § 4615. Supervisory actions applicable to undercapitalized regulated entities
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:53.511Z"
   - **(1)** the regulated entity does not submit a capital restoration plan that is substantially in compliance with section 4622 of this title within the applicable period or the Director does not approve the capital restoration plan submitted by the regulated entity; or
   - **(2)** the Director determines that the regulated entity has failed to comply with the capital restoration plan and fulfill the schedule for the plan approved by the Director in any material respect.
 - **(c)** The Director may take, with respect to an undercapitalized regulated entity, any of the actions authorized to be taken under section 4616 of this title with respect to a significantly undercapitalized regulated entity, if the Director determines that such actions are necessary to carry out the purpose of this subchapter.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1365](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3978](https://www.govinfo.gov/link/statute/106/3978); [Pub. L. 110–289, div. A, title I, § 1143](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2732](https://www.govinfo.gov/link/statute/122/2732).)*

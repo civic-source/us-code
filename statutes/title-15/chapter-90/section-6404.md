@@ -3,9 +3,10 @@ title: "Section 6404 - Propane Education and Research Council"
 usc_title: 15
 usc_section: "6404"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6404"
-generated_at: "2026-03-30T02:54:08.210Z"
+generated_at: "2026-11-23T21:25:40.022Z"
+status: "active"
 ---
 
 # § 6404. Propane Education and Research Council
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:08.210Z"
   - **(1)** All meetings of the Council shall be open to the public after at least 30 days advance public notice.
   - **(2)** The minutes of all meetings of the Council shall be made available to and readily accessible by the public.
 - **(n)** Each year the Council shall prepare and make publicly available a report which includes an identification and description of all programs and projects undertaken by the Council during the previous year as well as those planned for the coming year. Such report shall also detail the allocation or planned allocation of Council resources for each such program and project.
+
+## Source Credit
+
+*([Pub. L. 104–284, § 5](https://www.govinfo.gov/link/plaw/104/public/284), Oct. 11, 1996, [110 Stat. 3371](https://www.govinfo.gov/link/statute/110/3371); [Pub. L. 113–269, § 2(a)](https://www.govinfo.gov/link/plaw/113/public/269), Dec. 18, 2014, [128 Stat. 2947](https://www.govinfo.gov/link/statute/128/2947).)*

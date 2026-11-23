@@ -3,9 +3,10 @@ title: "Section 13493 - Commercialization of advanced light water reactor techno
 usc_title: 42
 usc_section: "13493"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13493"
-generated_at: "2026-03-30T02:56:11.447Z"
+generated_at: "2026-11-23T21:26:33.611Z"
+status: "active"
 ---
 
 # § 13493. Commercialization of advanced light water reactor technology
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.447Z"
     - **(A)** Before entering into an agreement with an entity under this subsection, the Secretary shall establish a cost ceiling for the contribution of the Federal Government for the project, and shall report such cost ceiling to the Congress.
     - **(B)** No entity shall receive assistance under this subsection for a period greater than 4 years.
     - **(C)** The aggregate funding provided by the Secretary for projects under this subsection shall not exceed $100,000,000 for the period encompassing fiscal years 1993 through 1997.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXI, § 2123](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3083](https://www.govinfo.gov/link/statute/106/3083).)*

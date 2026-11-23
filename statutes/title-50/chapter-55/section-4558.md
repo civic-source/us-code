@@ -3,9 +3,10 @@ title: "Section 4558 - Voluntary agreements and plans of action for preparedness
 usc_title: 50
 usc_section: "4558"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4558"
-generated_at: "2026-03-30T02:56:26.275Z"
+generated_at: "2026-11-23T21:26:39.105Z"
+status: "active"
 ---
 
 # § 4558. Voluntary agreements and plans of action for preparedness programs and expansion of production capacity and supply
@@ -86,3 +87,7 @@ generated_at: "2026-03-30T02:56:26.275Z"
   - **(1)** the consultations referred to in subsection (c)(1); or
   - **(2)** any activity conducted under a voluntary agreement or plan of action approved pursuant to this section that complies with the requirements of this section.
 - **(o)** In any action in any Federal or State court for breach of contract, there shall be available as a defense that the alleged breach of contract was caused predominantly by action taken during an emergency to carry out a voluntary agreement or plan of action authorized and approved in accordance with this section. Such defense shall not release the party asserting it from any obligation under applicable law to mitigate damages to the greatest extent possible.
+
+## Source Credit
+
+*(Sept. 8, 1950, ch. 932, title VII, § 708, [64 Stat. 818](https://www.govinfo.gov/link/statute/64/818); June 30, 1952, ch. 530, title I, § 116(c), [66 Stat. 305](https://www.govinfo.gov/link/statute/66/305); Aug. 9, 1955, ch. 655, § 6, [69 Stat. 581](https://www.govinfo.gov/link/statute/69/581); [Pub. L. 87–305, § 5(b)](https://www.govinfo.gov/link/plaw/87/public/305), Sept. 26, 1961, [75 Stat. 667](https://www.govinfo.gov/link/statute/75/667); [Pub. L. 91–151, title I, § 9](https://www.govinfo.gov/link/plaw/91/public/151), Dec. 23, 1969, [83 Stat. 376](https://www.govinfo.gov/link/statute/83/376); [Pub. L. 94–152, § 3](https://www.govinfo.gov/link/plaw/94/public/152), Dec. 16, 1975, [89 Stat. 810](https://www.govinfo.gov/link/statute/89/810); [Pub. L. 102–99, § 5](https://www.govinfo.gov/link/plaw/102/public/99), Aug. 17, 1991, [105 Stat. 487](https://www.govinfo.gov/link/statute/105/487); [Pub. L. 111–67, § 9](https://www.govinfo.gov/link/plaw/111/public/67), Sept. 30, 2009, [123 Stat. 2018](https://www.govinfo.gov/link/statute/123/2018); [Pub. L. 117–286, § 4(a)(321)](https://www.govinfo.gov/link/plaw/117/public/286), (322), Dec. 27, 2022, [136 Stat. 4341](https://www.govinfo.gov/link/statute/136/4341).)*

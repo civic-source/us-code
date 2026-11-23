@@ -3,9 +3,10 @@ title: "Section 153502 - Purposes"
 usc_title: 36
 usc_section: "153502"
 chapter: 1535
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 153502"
-generated_at: "2026-03-30T02:55:44.705Z"
+generated_at: "2026-11-23T21:26:13.693Z"
+status: "active"
 ---
 
 # § 153502. Purposes
@@ -17,3 +18,22 @@ The purposes of the corporation are—
   - **(3)** to disseminate through publications and other media the knowledge about basic and applied tropical botany acquired at the gardens;
   - **(4)** to collect and cultivate tropical flora of every nature and origin and to preserve for the people of the United States species of tropical plant life threatened with extinction; and
   - **(5)** to provide a beneficial facility that will contribute to the education, instruction, and recreation of the people of the United States.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 153502 | 36:4603. | Aug. 19, 1964 , Pub. L. 88–449, § 3 , 78 Stat. 496 . |
+
+
+Historical and Revision Notes
+
+153502
+
+Aug. 19, 1964
+
+Pub. L. 88–449, § 3
+
+78 Stat. 496
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1425](https://www.govinfo.gov/link/statute/112/1425).)*

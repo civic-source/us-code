@@ -3,9 +3,10 @@ title: "Section 1209 - Renumbered §§ 1205 and 1206]"
 usc_title: 5
 usc_section: "1209"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 1209"
-generated_at: "2026-03-30T02:52:55.995Z"
+generated_at: "2026-11-23T21:25:23.107Z"
+status: "renumbered"
 ---
 
 # [§ 1209. Renumbered §§ 1205 and 1206]

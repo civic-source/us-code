@@ -3,9 +3,10 @@ title: "Section 3361 - Declaration of emergency"
 usc_title: 15
 usc_section: "3361"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3361"
-generated_at: "2026-03-30T02:54:08.188Z"
+generated_at: "2026-11-23T21:25:39.967Z"
+status: "active"
 ---
 
 # § 3361. Declaration of emergency
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:08.188Z"
     - **(A)** the date on which the President finds that any shortage described in subsection (a) does not exist or is not imminent; or
     - **(B)** 120 days after the date of such declaration of emergency (or extension thereof).
   - **(2)** Nothing in this subsection shall prohibit the President from extending, under subsection (a), any emergency (or extension thereof), previously declared under subsection (a), upon the expiration of such declaration of emergency (or extension thereof) under paragraph (1)(B).
+
+## Source Credit
+
+*([Pub. L. 95–621, title III, § 301](https://www.govinfo.gov/link/plaw/95/public/621), Nov. 9, 1978, [92 Stat. 3381](https://www.govinfo.gov/link/statute/92/3381).)*

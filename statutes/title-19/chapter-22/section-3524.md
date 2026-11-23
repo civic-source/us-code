@@ -3,9 +3,10 @@ title: "Section 3524 - Consultation and layover requirements for, and effective 
 usc_title: 19
 usc_section: "3524"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 3524"
-generated_at: "2026-03-30T02:54:24.692Z"
+generated_at: "2026-11-23T21:25:42.844Z"
+status: "active"
 ---
 
 # § 3524. Consultation and layover requirements for, and effective date of, proclaimed actions
@@ -20,3 +21,7 @@ If a provision of this Act provides that the implementation of an action by the 
     - **(B)** the advice obtained under paragraph (1);
   - **(3)** a period of 60 calendar days, beginning with the first day on which the President has met the requirements of paragraphs (1) and (2) with respect to such action, has expired; and
   - **(4)** the President has consulted with such committees regarding the proposed action during the period referred to in paragraph (3).
+
+## Source Credit
+
+*([Pub. L. 103–465, title I, § 115](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4828](https://www.govinfo.gov/link/statute/108/4828).)*

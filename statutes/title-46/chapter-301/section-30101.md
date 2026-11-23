@@ -3,9 +3,10 @@ title: "Section 30101 - Extension of jurisdiction to cases of damage or injury o
 usc_title: 46
 usc_section: "30101"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 30101"
-generated_at: "2026-03-30T02:56:15.561Z"
+generated_at: "2026-11-23T21:26:37.153Z"
+status: "active"
 ---
 
 # § 30101. Extension of jurisdiction to cases of damage or injury on land
@@ -15,3 +16,30 @@ generated_at: "2026-03-30T02:56:15.561Z"
 - **(c)**
   - **(1)** In a civil action against the United States for injury or damage done or consummated on land by a vessel on navigable waters, chapter 309 or 311 of this title, as appropriate, provides the exclusive remedy.
   - **(2)** A civil action described in paragraph (1) may not be brought until the expiration of the 6-month period after the claim has been presented in writing to the agency owning or operating the vessel causing the injury or damage.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30101 | 46 App.:740. | June 19, 1948, ch. 526 , 62 Stat. 496 . |
+
+
+In General
+
+Procedure
+
+Actions Against United States
+
+Exclusive remedy
+
+Administrative claim
+
+Historical and Revision Notes
+
+30101
+
+June 19, 1948, ch. 526
+
+62 Stat. 496
+
+## Source Credit
+
+*([Pub. L. 109–304, § 6(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1509](https://www.govinfo.gov/link/statute/120/1509).)*

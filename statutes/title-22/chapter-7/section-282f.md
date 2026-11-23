@@ -3,12 +3,17 @@ title: "Section 282f - Jurisdiction and venue of actions"
 usc_title: 22
 usc_section: "282f"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 282f"
-generated_at: "2026-03-30T02:55:05.314Z"
+generated_at: "2026-11-23T21:25:58.352Z"
+status: "active"
 ---
 
 # § 282f. Jurisdiction and venue of actions
 
 For the purpose of any action which may be brought within the United States or its Territories or possessions by or against the Corporation in accordance with the Articles of Agreement of the Corporation, the Corporation shall be deemed to be an inhabitant of the Federal judicial district in which its principal office in the United States is located, and any such action at law or in equity to which the Corporation shall be a party shall be deemed to arise under the laws of the United States, and the district courts of the United States shall have original jurisdiction of any such action. When the Corporation is a defendant in any such action, it may, at any time before the trial thereof, remove such action from a State court into the district court of the United States for the proper district by following the procedure for removal of causes otherwise provided by law.
 
+
+## Source Credit
+
+*(Aug. 11, 1955, ch. 788, § 8, [69 Stat. 670](https://www.govinfo.gov/link/statute/69/670).)*

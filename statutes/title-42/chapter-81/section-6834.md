@@ -3,9 +3,10 @@ title: "Section 6834 - Federal building energy efficiency standards"
 usc_title: 42
 usc_section: "6834"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6834"
-generated_at: "2026-03-30T02:56:11.266Z"
+generated_at: "2026-11-23T21:26:32.980Z"
+status: "active"
 ---
 
 # § 6834. Federal building energy efficiency standards
@@ -29,7 +30,16 @@ generated_at: "2026-03-30T02:56:11.266Z"
       - **(ii)** a statement specifying whether the Federal buildings meet or exceed the revised standards established under this paragraph.
     - **(D)** Not later than 1 year after December 19, 2007 , the Secretary shall establish, by rule, revised Federal building energy efficiency performance standards that require that:
       - **(i)** For new Federal buildings and Federal buildings undergoing major renovations, with respect to which the Administrator of General Services is required to transmit a prospectus to Congress under section 3307 of title 40 , in the case of public buildings (as defined in section 3301 of title 40 ), or of at least $2,500,000 in costs adjusted annually for inflation for other buildings:
-        - **(I)** The buildings shall be designed so that the fossil fuel-generated energy consumption of the buildings is reduced, as compared with such energy consumption by a similar building in fiscal year 2003 (as measured by Commercial Buildings Energy Consumption Survey or Residential Energy Consumption Survey data from the Energy Information Agency), by the percentage specified in the following table: Fiscal Year Percentage Reduction 2010 55 2015 65 2020 80 2025 90 2030 100.
+        - **(I)** The buildings shall be designed so that the fossil fuel-generated energy consumption of the buildings is reduced, as compared with such energy consumption by a similar building in fiscal year 2003 (as measured by Commercial Buildings Energy Consumption Survey or Residential Energy Consumption Survey data from the Energy Information Agency), by the percentage specified in the following table:
+
+| Fiscal Year | Percentage Reduction |
+| --- | --- |
+| 2010 | 55 |
+| 2015 | 65 |
+| 2020 | 80 |
+| 2025 | 90 |
+| 2030 | 100. |
+
         - **(II)** Upon petition by an agency subject to this subparagraph, the Secretary may adjust the applicable numeric requirement under subclause (I) downward with respect to a specific building, if the head of the agency designing the building certifies in writing that meeting such requirement would be technically impracticable in light of the agency’s specified functional needs for that building and the Secretary concurs with the agency’s conclusion. This subclause shall not apply to the General Services Administration.
         - **(III)** Sustainable design principles shall be applied to the siting, design, and construction of such buildings. Not later than 90 days after December 19, 2007 , the Secretary, after reviewing the findings of the Federal Director under section 17092(h) of this title , in consultation with the Administrator of General Services, and in consultation with the Secretary of Defense for considerations relating to those facilities under the custody and control of the Department of Defense, shall identify a certification system and level for green buildings that the Secretary determines to be the most likely to encourage a comprehensive and environmentally-sound approach to certification of green buildings. The identification of the certification system and level shall be based on a review of the Federal Director’s findings under section 17092(h) of this title and the criteria specified in clause (iii), shall identify the highest level the Secretary determines is appropriate above the minimum level required for certification under the system selected, and shall achieve results at least comparable to the system used by and highest level referenced by the General Services Administration as of December 19, 2007 . Within 90 days of the completion of each study required by clause (iv), the Secretary, in consultation with the Administrator of General Services, and in consultation with the Secretary of Defense for considerations relating to those facilities under the custody and control of the Department of Defense, shall review and update the certification system and level, taking into account the conclusions of such study.
       - **(ii)** In establishing criteria for identifying major renovations that are subject to the requirements of this subparagraph, the Secretary shall take into account the scope, degree, and types of renovations that are likely to provide significant opportunities for substantial improvements in energy efficiency.
@@ -46,3 +56,29 @@ generated_at: "2026-03-30T02:56:11.266Z"
 - **(b)**
 - **(c)** The Secretary shall periodically, but not less than once every 5 years, review the Federal building energy standards established under this section and shall, if significant energy savings would result, upgrade such standards to include all new energy efficiency and renewable energy measures that are technologically feasible and economically justified.
 - **(d)** Interim energy performance standards for new Federal buildings issued by the Secretary under this subchapter as it existed before October 24, 1992 , shall remain in effect until the standards established under subsection (a) become effective.
+
+2010
+
+2015
+
+2020
+
+2025
+
+2030
+
+(aa) efficient and sustainable use of water, energy, and other natural resources;
+
+(bb) use of renewable energy sources;
+
+(cc) improved indoor environmental quality through enhanced indoor air quality, thermal comfort, acoustics, day lighting, pollutant source control, and use of low-emission materials and building system controls; and
+
+(dd) such other criteria as the Secretary determines to be appropriate; and
+
+Revision of Federal Acquisition Regulation
+
+Guidance
+
+## Source Credit
+
+*([Pub. L. 94–385, title III, § 305](https://www.govinfo.gov/link/plaw/94/public/385), as added [Pub. L. 102–486, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2784](https://www.govinfo.gov/link/statute/106/2784); amended [Pub. L. 109–58, title I, § 109](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 614](https://www.govinfo.gov/link/statute/119/614); [Pub. L. 110–140, title IV, § 433(a)](https://www.govinfo.gov/link/plaw/110/public/140), title V, § 523, Dec. 19, 2007, [121 Stat. 1612](https://www.govinfo.gov/link/statute/121/1612), 1662.)*

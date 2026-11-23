@@ -3,9 +3,10 @@ title: "Section 7517 - Definitions"
 usc_title: 20
 usc_section: "7517"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7517"
-generated_at: "2026-03-30T02:54:48.214Z"
+generated_at: "2026-11-23T21:25:47.592Z"
+status: "active"
 ---
 
 # § 7517. Definitions
@@ -34,3 +35,7 @@ In this part:
     - **(B)** has Native Hawaiians in substantive and policymaking positions within the organization; and
     - **(C)** is recognized by the Governor of Hawaii for the purpose of planning, conducting, or administering programs (or portions of programs) for the benefit of Native Hawaiians.
   - **(7)** The term “Office of Hawaiian Affairs” means the Office of Hawaiian Affairs established by the Constitution of the State of Hawaii.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VI, § 6207](https://www.govinfo.gov/link/plaw/89/public/10), formerly title VII, § 7207, as added [Pub. L. 107–110, title VII, § 701](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1941](https://www.govinfo.gov/link/statute/115/1941); renumbered title VI, § 6207, and amended [Pub. L. 114–95, title VI](https://www.govinfo.gov/link/plaw/114/public/95), §§ 6001(a), (b)(1), 6003(d), Dec. 10, 2015, [129 Stat. 2046](https://www.govinfo.gov/link/statute/129/2046), 2067.)*

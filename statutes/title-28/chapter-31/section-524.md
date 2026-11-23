@@ -3,9 +3,10 @@ title: "Section 524 - Availability of appropriations"
 usc_title: 28
 usc_section: "524"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 524"
-generated_at: "2026-03-30T02:55:30.130Z"
+generated_at: "2026-11-23T21:26:01.049Z"
+status: "active"
 ---
 
 # § 524. Availability of appropriations
@@ -95,3 +96,40 @@ generated_at: "2026-03-30T02:55:30.130Z"
   - **(3)** Upon request of the Attorney General, the Secretary of the Treasury may invest and reinvest the fund described herein in public debt securities with maturities suitable for the needs of the fund and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States or comparable maturities.
   - **(4)** Evidences of any intangible personal property (other than money) accepted hereunder shall be deposited with the Secretary of the Treasury, who may hold or liquidate them, except that they shall be liquidated upon the request of the Attorney General.
   - **(5)** For purposes of federal 2 2 So in original. Probably should be capitalized. income, estate, and gift taxes, property accepted hereunder shall be considered a gift, devise, or bequest to, or for the use of, the United States.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 341 . | July 28, 1950, ch. 503, § 1 , 64 Stat. 380 . |
+
+| 1982 Act | Col 2 | Col 3 |
+| --- | --- | --- |
+| 28:524(b) | 31:693a. | Oct. 10, 1949, ch. 662, § 101 (par. under heading “General Provision—Department of Justice”), 63 Stat. 746 . |
+
+
+Historical and Revision Notes
+
+Act
+
+5 U.S.C. 341
+
+July 28, 1950, ch. 503, § 1
+
+64 Stat. 380
+
+Act
+
+28:524(b)
+
+Oct. 10, 1949, ch. 662, § 101
+
+63 Stat. 746
+
+Establishment; Availability
+
+No Effect on Prior Appropriations
+
+“Hereafter, notwithstanding any other provision of law—
+
+## Source Credit
+
+*(Added [Pub. L. 89–554, § 4(c)](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 615](https://www.govinfo.gov/link/statute/80/615); amended [Pub. L. 97–258, § 2(g)(1)(B)](https://www.govinfo.gov/link/plaw/97/public/258) –(D), Sept. 13, 1982, [96 Stat. 1060](https://www.govinfo.gov/link/statute/96/1060); [Pub. L. 98–473, title II](https://www.govinfo.gov/link/plaw/98/public/473), §§ 310, 2303, Oct. 12, 1984, [98 Stat. 2052](https://www.govinfo.gov/link/statute/98/2052), 2193; [Pub. L. 99–570, title I, § 1152(a)](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–12](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 99–646, § 27](https://www.govinfo.gov/link/plaw/99/public/646), Nov. 10, 1986, [100 Stat. 3597](https://www.govinfo.gov/link/statute/100/3597); [Pub. L. 100–202, § 101(a) [title II, § 210(a)]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329](https://www.govinfo.gov/link/statute/101/1329), 1329–18; [Pub. L. 100–690, title VI, § 6072](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4320](https://www.govinfo.gov/link/statute/102/4320); [Pub. L. 101–509, title III, § 1](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1403](https://www.govinfo.gov/link/statute/104/1403); [Pub. L. 101–647, title XVI, § 1601](https://www.govinfo.gov/link/plaw/101/public/647), title XX, §§ 2001(a), 2002, 2005, 2006, Nov. 29, 1990, [104 Stat. 4842](https://www.govinfo.gov/link/statute/104/4842), 4854, 4855; [Pub. L. 102–27, title II, § 101](https://www.govinfo.gov/link/plaw/102/public/27), Apr. 10, 1991, [105 Stat. 135](https://www.govinfo.gov/link/statute/105/135); [Pub. L. 102–140, title I, § 112](https://www.govinfo.gov/link/plaw/102/public/140), Oct. 28, 1991, [105 Stat. 795](https://www.govinfo.gov/link/statute/105/795); [Pub. L. 102–393, title VI, § 638(f)](https://www.govinfo.gov/link/plaw/102/public/393), Oct. 6, 1992, [106 Stat. 1788](https://www.govinfo.gov/link/statute/106/1788); [Pub. L. 102–395, title I, § 114(b)](https://www.govinfo.gov/link/plaw/102/public/395), (c), Oct. 6, 1992, [106 Stat. 1845](https://www.govinfo.gov/link/statute/106/1845); [Pub. L. 102–550, title XV, § 1529](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4065](https://www.govinfo.gov/link/statute/106/4065); [Pub. L. 103–121, title I, § 109](https://www.govinfo.gov/link/plaw/103/public/121), Oct. 27, 1993, [107 Stat. 1164](https://www.govinfo.gov/link/statute/107/1164); [Pub. L. 103–317, title I, § 110](https://www.govinfo.gov/link/plaw/103/public/317), Aug. 26, 1994, [108 Stat. 1735](https://www.govinfo.gov/link/statute/108/1735); [Pub. L. 103–322, title IX, § 90205(b)](https://www.govinfo.gov/link/plaw/103/public/322), title XXXII, §§ 320301, 320302, 320913(a), Sept. 13, 1994, [108 Stat. 1994](https://www.govinfo.gov/link/statute/108/1994), 2114, 2128; [Pub. L. 104–66, title I, § 1091(h)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 722](https://www.govinfo.gov/link/statute/109/722); [Pub. L. 104–91, title I, § 101(a)](https://www.govinfo.gov/link/plaw/104/public/91), Jan. 6, 1996, [110 Stat. 11](https://www.govinfo.gov/link/statute/110/11), amended [Pub. L. 104–99, title II, § 211](https://www.govinfo.gov/link/plaw/104/public/99), Jan. 26, 1996, [110 Stat. 37](https://www.govinfo.gov/link/statute/110/37); [Pub. L. 104–134, title I, § 101[(a)]](https://www.govinfo.gov/link/plaw/104/public/134) [title I, § 122], Apr. 26, 1996, [110 Stat. 1321](https://www.govinfo.gov/link/statute/110/1321), 1321–22; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327); [Pub. L. 104–208, div. A, title I, § 101(a) [title I, §§ 108, 114, 116, 117]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009](https://www.govinfo.gov/link/statute/110/3009), 3009–18, 3009–22, 3009–23; [Pub. L. 105–119, title I](https://www.govinfo.gov/link/plaw/105/public/119), §§ 108, 124, title II, § 211(b), Nov. 26, 1997, [111 Stat. 2457](https://www.govinfo.gov/link/statute/111/2457), 2471, 2487; [Pub. L. 105–272, title VI, § 605](https://www.govinfo.gov/link/plaw/105/public/272), Oct. 20, 1998, [112 Stat. 2413](https://www.govinfo.gov/link/statute/112/2413); [Pub. L. 106–185, § 19](https://www.govinfo.gov/link/plaw/106/public/185), Apr. 25, 2000, [114 Stat. 223](https://www.govinfo.gov/link/statute/114/223); [Pub. L. 106–310, div. B, title XXXVI](https://www.govinfo.gov/link/plaw/106/public/310), §§ 3613(b), 3621(a), Oct. 17, 2000, [114 Stat. 1230](https://www.govinfo.gov/link/statute/114/1230); [Pub. L. 107–273, div. A, title II, § 204(a)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1775](https://www.govinfo.gov/link/statute/116/1775); [Pub. L. 111–350, § 5(g)(1)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3848](https://www.govinfo.gov/link/statute/124/3848); [Pub. L. 114–22, title I, § 105(b)](https://www.govinfo.gov/link/plaw/114/public/22), (c)(2)(A)(i), May 29, 2015, [129 Stat. 237](https://www.govinfo.gov/link/statute/129/237); [Pub. L. 115–392, § 4(a)](https://www.govinfo.gov/link/plaw/115/public/392), Dec. 21, 2018, [132 Stat. 5251](https://www.govinfo.gov/link/statute/132/5251); [Pub. L. 117–347, title IV, § 403](https://www.govinfo.gov/link/plaw/117/public/347), Jan. 5, 2023, [136 Stat. 6208](https://www.govinfo.gov/link/statute/136/6208); [Pub. L. 119–60, div. G, title LXXII, § 7207(d)(1)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1693](https://www.govinfo.gov/link/statute/139/1693).)*

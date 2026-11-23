@@ -3,9 +3,10 @@ title: "Section 1033 - Definitions"
 usc_title: 20
 usc_section: "1033"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1033"
-generated_at: "2026-03-30T02:54:48.098Z"
+generated_at: "2026-11-23T21:25:47.027Z"
+status: "active"
 ---
 
 # § 1033. Definitions
@@ -31,3 +32,7 @@ In this subpart:
       - **(ii)** involves rigorous data analyses that are adequate to test the stated hypotheses and justify the general conclusions drawn;
       - **(iii)** relies on measurements or observational methods that provide valid data across evaluators and observers and across multiple measurements and observations; and
       - **(iv)** has been accepted by a peer-reviewed journal or approved by a panel of independent experts through a comparably rigorous, objective, and scientific review.
+
+## Source Credit
+
+*([Pub. L. 89–329, title II, § 241](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title II, § 201(3)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3158](https://www.govinfo.gov/link/statute/122/3158); amended [Pub. L. 114–95, title IX, § 9215](https://www.govinfo.gov/link/plaw/114/public/95) (oo)(5), Dec. 10, 2015, [129 Stat. 2179](https://www.govinfo.gov/link/statute/129/2179).)*

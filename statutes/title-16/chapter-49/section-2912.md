@@ -3,9 +3,10 @@ title: "Section 2912 - Federal conservation of migratory nongame birds"
 usc_title: 16
 usc_section: "2912"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2912"
-generated_at: "2026-03-30T02:54:23.008Z"
+generated_at: "2026-11-23T21:25:51.957Z"
+status: "active"
 ---
 
 # § 2912. Federal conservation of migratory nongame birds
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:23.008Z"
   - **(4)** identify conservation actions to assure that species, subspecies, and populations of migratory nongame birds identified under paragraph (3) do not reach the point at which the measures provided pursuant to the Endangered Species Act of 1973, as amended ( 16 U.S.C. 1531–154 3) become necessary; and
   - **(5)** identify lands and waters in the United States and other nations in the Western Hemisphere whose protection, management, or acquisition will foster the conservation of species, subspecies, and populations of migratory nongame birds, including those identified in paragraph (3).
 - **(b)** Within one year after November 14, 1988 , and at five-year intervals thereafter, the Secretary shall prepare a report that presents the results of the activities taken pursuant to subsection (a) of this section and that describes any efforts to carry out those conservation actions identified pursuant to paragraph (4) of subsection (a) of this section. Such reports shall be submitted to the Committee on Environment and Public Works of the United States Senate and to the Committee on Merchant Marine and Fisheries of the United States House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 96–366, § 13](https://www.govinfo.gov/link/plaw/96/public/366), as added [Pub. L. 100–653, title VIII, § 802](https://www.govinfo.gov/link/plaw/100/public/653), Nov. 14, 1988, [102 Stat. 3833](https://www.govinfo.gov/link/statute/102/3833); amended [Pub. L. 101–233, § 16(b)](https://www.govinfo.gov/link/plaw/101/public/233), Dec. 13, 1989, [103 Stat. 1977](https://www.govinfo.gov/link/statute/103/1977).)*

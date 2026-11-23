@@ -3,9 +3,10 @@ title: "Section 579e - Forest service budget restructure"
 usc_title: 16
 usc_section: "579e"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 579e"
-generated_at: "2026-03-30T02:54:22.878Z"
+generated_at: "2026-11-23T21:25:51.679Z"
+status: "active"
 ---
 
 # § 579e. Forest service budget restructure
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:22.878Z"
     - **(B)** a table for each appropriation with a separate column to display the fiscal year 2020 enacted levels, adjustments made by Congress, adjustments due to enacted rescissions, if appropriate, and adjustments made pursuant to the transfer authority in subsection (b) or (c), and the resulting fiscal year level;
     - **(C)** a delineation in the table for each appropriation, adjusted as described in paragraph (2), both by budget activity and program, project, and activity as detailed in the Budget Appendix; and
     - **(D)** an identification of funds directed for a specific activity.
+
+## Source Credit
+
+*([Pub. L. 116–94, div. D, title IV, § 435](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 2750](https://www.govinfo.gov/link/statute/133/2750).)*

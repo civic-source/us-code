@@ -3,12 +3,17 @@ title: "Section 527 - Cooperation with other agencies and departments"
 usc_title: 29
 usc_section: "527"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 527"
-generated_at: "2026-03-30T02:55:18.685Z"
+generated_at: "2026-11-23T21:26:02.183Z"
+status: "active"
 ---
 
 # § 527. Cooperation with other agencies and departments
 
 In order to avoid unnecessary expense and duplication of functions among Government agencies, the Secretary may make such arrangements or agreements for cooperation or mutual assistance in the performance of his functions under this chapter and the functions of any such agency as he may find to be practicable and consistent with law. The Secretary may utilize the facilities or services of any department, agency, or establishment of the United States or of any State or political subdivision of a State, including the services of any of its employees, with the lawful consent of such department, agency, or establishment; and each department, agency, or establishment of the United States is authorized and directed to cooperate with the Secretary and, to the extent permitted by law, to provide such information and facilities as he may request for his assistance in the performance of his functions under this chapter. The Attorney General or his representative shall receive from the Secretary for appropriate action such evidence developed in the performance of his functions under this chapter as may be found to warrant consideration for criminal prosecution under the provisions of this chapter or other Federal law.
 
+
+## Source Credit
+
+*([Pub. L. 86–257, title VI, § 607](https://www.govinfo.gov/link/plaw/86/public/257), Sept. 14, 1959, [73 Stat. 540](https://www.govinfo.gov/link/statute/73/540).)*

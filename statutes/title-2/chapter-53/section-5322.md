@@ -3,9 +3,10 @@ title: "Section 5322 - Lyndon Baines Johnson congressional interns"
 usc_title: 2
 usc_section: "5322"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 5322"
-generated_at: "2026-03-30T02:53:04.836Z"
+generated_at: "2026-11-23T21:25:21.327Z"
+status: "active"
 ---
 
 # § 5322. Lyndon Baines Johnson congressional interns
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.836Z"
   - **(1)** if the intern is a student, a certificate that such intern was during the academic year immediately preceding his employment, a bona fide student at a college, university, or similar institution of higher learning; or
   - **(2)** if the intern is a teacher, a certificate that such intern was, in the year immediately preceding his employment, a bona fide teacher in government or social studies at a secondary school or a postsecondary school.
 - **(c)** The Committee on House Oversight shall prescribe such regulations as may be necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 93–245](https://www.govinfo.gov/link/plaw/93/public/245), ch. VI, Jan. 3, 1974, [87 Stat. 1079](https://www.govinfo.gov/link/statute/87/1079); [Pub. L. 104–186, title II, § 204(6)](https://www.govinfo.gov/link/plaw/104/public/186), (7), Aug. 20, 1996, [110 Stat. 1730](https://www.govinfo.gov/link/statute/110/1730).)*

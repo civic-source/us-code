@@ -3,9 +3,10 @@ title: "Section 6 - Terminal lakes assistance"
 usc_title: 16
 usc_section: "6"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6"
-generated_at: "2026-03-30T02:54:23.032Z"
+generated_at: "2026-11-23T21:25:51.997Z"
+status: "active"
 ---
 
 # § 3839bb–6. Terminal lakes assistance
@@ -70,3 +71,11 @@ generated_at: "2026-03-30T02:54:23.032Z"
     - **(A)** Nothing in this section authorizes any additional funds to carry out this section.
     - **(B)** Any funds made available to carry out this section before December 20, 2018 , may remain available until expended.
 - **(f)** The authority provided by this section shall terminate on October 1, 2025 .
+
+(aa) an average depth of at least 6.5 feet; or
+
+(bb) a level below which the State determines the management of the water level is beyond the control of the State or landowner; or
+
+## Source Credit
+
+*([Pub. L. 107–171, title II, § 2507](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 275](https://www.govinfo.gov/link/statute/116/275); [Pub. L. 110–234, title II, § 2807](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1090](https://www.govinfo.gov/link/statute/122/1090); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title II, § 2807, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1818; [Pub. L. 111–85, title II, § 207](https://www.govinfo.gov/link/plaw/111/public/85), Oct. 28, 2009, [123 Stat. 2858](https://www.govinfo.gov/link/statute/123/2858); [Pub. L. 112–74, div. B, title II, § 208(a)](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 866](https://www.govinfo.gov/link/statute/125/866); [Pub. L. 113–79, title II, § 2507](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 753](https://www.govinfo.gov/link/statute/128/753); [Pub. L. 115–334, title II, § 2821(d)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4603](https://www.govinfo.gov/link/statute/132/4603); [Pub. L. 117–361, § 1](https://www.govinfo.gov/link/plaw/117/public/361), Jan. 5, 2023, [136 Stat. 6294](https://www.govinfo.gov/link/statute/136/6294).)*

@@ -3,9 +3,10 @@ title: "Section 6050W - Returns relating to payments made in settlement of payme
 usc_title: 26
 usc_section: "6050W"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6050W"
-generated_at: "2026-03-30T02:55:27.835Z"
+generated_at: "2026-11-23T21:26:06.784Z"
+status: "active"
 ---
 
 # § 6050W. Returns relating to payments made in settlement of payment card and third party network transactions
@@ -54,3 +55,11 @@ generated_at: "2026-03-30T02:55:27.835Z"
   - **(1)** the name, address, and phone number of the information contact of the person required to make such return, and
   - **(2)** the gross amount of the reportable payment transactions (including a separate accounting of any such amounts that have been reasonably designated by payors as cash tips and the occupation described in section 224(d)(1) of the person receiving such tips) with respect to the person required to be shown on the return.
 - **(g)** The Secretary may prescribe such regulations or other guidance as may be necessary or appropriate to carry out this section, including rules to prevent the reporting of the same transaction more than once.
+
+In general
+
+Clarification
+
+## Source Credit
+
+*(Added [Pub. L. 110–289, div. C, title III, § 3091(a)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2908](https://www.govinfo.gov/link/statute/122/2908); amended [Pub. L. 115–123, div. D, title II, § 41117(a)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 162](https://www.govinfo.gov/link/statute/132/162); [Pub. L. 117–2, title IX, § 9674(a)](https://www.govinfo.gov/link/plaw/117/public/2), (b), Mar. 11, 2021, [135 Stat. 185](https://www.govinfo.gov/link/statute/135/185); [Pub. L. 119–21, title VII](https://www.govinfo.gov/link/plaw/119/public/21), §§ 70201(f)(3), 70432(a)(1), July 4, 2025, [139 Stat. 173](https://www.govinfo.gov/link/statute/139/173), 243.)*

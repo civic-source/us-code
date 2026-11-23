@@ -3,9 +3,10 @@ title: "Section 6313 - Mandatory response authority for freight data collection"
 usc_title: 49
 usc_section: "6313"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 6313"
-generated_at: "2026-03-30T02:56:19.321Z"
+generated_at: "2026-11-23T21:26:40.670Z"
+status: "active"
 ---
 
 # § 6313. Mandatory response authority for freight data collection
@@ -22,3 +23,19 @@ generated_at: "2026-03-30T02:56:19.321Z"
 - **(b)**
   - **(1)** Subject to paragraph (2), an individual described in subsection (a) shall be fined not more than $500.
   - **(2)** If an individual willfully gives a false answer to a question described in subsection (a)(1), the individual shall be fined not more than $10,000.
+
+Freight Data Collection.—
+
+In general
+
+Description of entities
+
+Fines.—
+
+In general
+
+Willful actions
+
+## Source Credit
+
+*(Added [Pub. L. 112–141, div. E, title II, § 52011(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 895](https://www.govinfo.gov/link/statute/126/895).)*

@@ -3,9 +3,10 @@ title: "Section 1320d - Definitions"
 usc_title: 42
 usc_section: "1320d"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1320d"
-generated_at: "2026-03-30T02:56:10.921Z"
+generated_at: "2026-11-23T21:26:31.299Z"
+status: "active"
 ---
 
 # § 1320d. Definitions
@@ -42,3 +43,7 @@ For purposes of this part:
   - **(7)** The term “standard”, when used with reference to a data element of health information or a transaction referred to in section 1320d–2(a)(1) of this title , means any such data element or transaction that meets each of the standards and implementation specifications adopted or established by the Secretary with respect to the data element or transaction under sections 1320d–1 through 1320d–3 of this title.
   - **(8)** The term “standard setting organization” means a standard setting organization accredited by the American National Standards Institute, including the National Council for Prescription Drug Programs, that develops standards for information transactions, data elements, or any other standard that is necessary to, or will facilitate, the implementation of this part.
   - **(9)** The term “operating rules” means the necessary business rules and guidelines for the electronic exchange of information that are not defined by a standard or its implementation specifications as adopted for purposes of this part.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XI, § 1171, as added [Pub. L. 104–191, title II, § 262(a)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 2021](https://www.govinfo.gov/link/statute/110/2021); amended [Pub. L. 107–105, § 4](https://www.govinfo.gov/link/plaw/107/public/105), Dec. 27, 2001, [115 Stat. 1007](https://www.govinfo.gov/link/statute/115/1007); [Pub. L. 111–5, div. A, title XIII, § 13102](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 242](https://www.govinfo.gov/link/statute/123/242); [Pub. L. 111–148, title I, § 1104(b)(1)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 146](https://www.govinfo.gov/link/statute/124/146).)*

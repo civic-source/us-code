@@ -3,9 +3,10 @@ title: "Section 151 - Definitions; treatment of references to provisions in part
 usc_title: 42
 usc_section: "151"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 151"
-generated_at: "2026-03-30T02:56:10.992Z"
+generated_at: "2026-11-23T21:26:31.596Z"
+status: "active"
 ---
 
 # § 1395w–151. Definitions; treatment of references to provisions in part C
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:10.992Z"
   - **(3)** any reference to a contract under section 1395w–27 of this title included a reference to a contract under section 1395w–112(b) of this title ;
   - **(4)** any reference to part C included a reference to this part; and
   - **(5)** any reference to an election period under section 1395w–21 of this title were a reference to an enrollment period under section 1395w–101 of this title .
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1860D–41, as added [Pub. L. 108–173, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2148](https://www.govinfo.gov/link/statute/117/2148); amended [Pub. L. 117–169, title I, § 11201(e)(6)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1892](https://www.govinfo.gov/link/statute/136/1892).)*

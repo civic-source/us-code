@@ -3,9 +3,10 @@ title: "Section 1508 - Crop insurance"
 usc_title: 7
 usc_section: "1508"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1508"
-generated_at: "2026-03-30T02:53:42.318Z"
+generated_at: "2026-11-23T21:25:28.096Z"
+status: "active"
 ---
 
 # § 1508. Crop insurance
@@ -522,3 +523,63 @@ generated_at: "2026-03-30T02:53:42.318Z"
       - **(ii)** During the period native sod acreage is covered by this subsection, a producer may not substitute yields for the native sod.
   - **(3)** This subsection shall only apply to native sod acreage in the States of Minnesota, Iowa, North Dakota, South Dakota, Montana, and Nebraska.
 - **(p)** Beginning with the 2015 crop year, a producer that produces an agricultural commodity on both dry land and irrigated land may elect a different coverage level for each production practice.
+
+(aa) 2 shall be agricultural economists of institutions of higher education;
+
+(bb) 2 shall be economists from within the Department; and
+
+(cc) 1 shall be an economist nominated by the grain sorghum industry.
+
+(aa) are graduated and base reimbursement rates in a State on changes in premiums in that State;
+
+(bb) are graduated and base reimbursement rates in a State on the loss ratio for crop insurance for that State; and
+
+(cc) are graduated and base reimbursement rates on individual policies on the level of total premium for each policy; and
+
+(aa) catastrophic risk protection under subsection (b);
+
+(bb) an area-based plan of insurance or similar plan of insurance, as determined by the Corporation; or
+
+(cc) a policy under which an approved insurance provider does not incur loss adjustment expenses, as determined by the Corporation.
+
+Addition of direct sale perishable crops
+
+Addition of nursery crops
+
+In general
+
+Recommendations
+
+Cap on overall rate of return
+
+Effective period
+
+Availability
+
+Attachment
+
+Cancellation
+
+Coverage
+
+Actuarial soundness
+
+Duration
+
+In General
+
+Eligible Producers
+
+Oilseed Prevented Planting Payments.—
+
+In general
+
+Source of payment
+
+Payment
+
+“It is the sense of Congress that, in carrying out the Federal Crop Insurance Act ( 7 U.S.C. 1501 et seq.), the Federal Crop Insurance Corporation—
+
+## Source Credit
+
+*(Feb. 16, 1938, ch. 30, title V, § 508, [52 Stat. 74](https://www.govinfo.gov/link/statute/52/74); June 22, 1938, ch. 563, [52 Stat. 835](https://www.govinfo.gov/link/statute/52/835); June 21, 1941, ch. 214, §§ 3–7, 10, [55 Stat. 255](https://www.govinfo.gov/link/statute/55/255), 256; Dec. 23, 1944, ch. 713, §§ 1–3, [58 Stat. 918](https://www.govinfo.gov/link/statute/58/918), 919; Aug. 1, 1947, ch. 440, §§ 1–3, [61 Stat. 718](https://www.govinfo.gov/link/statute/61/718); Aug. 25, 1949, ch. 512, §§ 1–3, [63 Stat. 663](https://www.govinfo.gov/link/statute/63/663); Aug. 13, 1953, ch. 431, [67 Stat. 575](https://www.govinfo.gov/link/statute/67/575); [Pub. L. 85–111](https://www.govinfo.gov/link/plaw/85/public/111), July 23, 1957, [71 Stat. 309](https://www.govinfo.gov/link/statute/71/309); [Pub. L. 86–131](https://www.govinfo.gov/link/plaw/86/public/131), Aug. 4, 1959, [73 Stat. 278](https://www.govinfo.gov/link/statute/73/278); [Pub. L. 88–589](https://www.govinfo.gov/link/plaw/88/public/589), Sept. 12, 1964, [78 Stat. 933](https://www.govinfo.gov/link/statute/78/933); [Pub. L. 96–365, title I](https://www.govinfo.gov/link/plaw/96/public/365), §§ 105, 106, 107(b), Sept. 26, 1980, [94 Stat. 1314](https://www.govinfo.gov/link/statute/94/1314), 1315, 1317; [Pub. L. 100–387, title II, § 208(a)](https://www.govinfo.gov/link/plaw/100/public/387), Aug. 11, 1988, [102 Stat. 941](https://www.govinfo.gov/link/statute/102/941); [Pub. L. 101–624, title XXII](https://www.govinfo.gov/link/plaw/101/public/624), §§ 2203–2205, Nov. 28, 1990, [104 Stat. 3955–3957](https://www.govinfo.gov/link/statute/104/3955); [Pub. L. 102–237, title VI, § 601(4)](https://www.govinfo.gov/link/plaw/102/public/237), (5), Dec. 13, 1991, [105 Stat. 1878](https://www.govinfo.gov/link/statute/105/1878); [Pub. L. 103–66, title XIV, § 1403(b)(1)](https://www.govinfo.gov/link/plaw/103/public/66), (2), Aug. 10, 1993, [107 Stat. 333](https://www.govinfo.gov/link/statute/107/333), 334; [Pub. L. 103–354, title I, § 106](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3183](https://www.govinfo.gov/link/statute/108/3183); [Pub. L. 104–127, title I](https://www.govinfo.gov/link/plaw/104/public/127), §§ 193(a)(1), (2), (c), (d), (f), 195, Apr. 4, 1996, [110 Stat. 943–946](https://www.govinfo.gov/link/statute/110/943); [Pub. L. 105–185, title V](https://www.govinfo.gov/link/plaw/105/public/185), §§ 532, 534, June 23, 1998, [112 Stat. 581](https://www.govinfo.gov/link/statute/112/581), 583; [Pub. L. 105–277, div. A, § 101(a) [title VIII, § 803(a)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681](https://www.govinfo.gov/link/statute/112/2681), 2681–38; [Pub. L. 106–113, div. B, § 1000(a)(5) [title II, §§ 205(a), 206]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–294; [Pub. L. 106–224, title I](https://www.govinfo.gov/link/plaw/106/public/224), §§ 101–103(b)(1), (c), (d), 104–107, 123, 124(a), 144–146, 161, 162, June 20, 2000, [114 Stat. 360–368](https://www.govinfo.gov/link/statute/114/360), 378, 391, 392, 395; [Pub. L. 107–171, title X](https://www.govinfo.gov/link/plaw/107/public/171), §§ 10001–10003, May 13, 2002, [116 Stat. 486](https://www.govinfo.gov/link/statute/116/486); [Pub. L. 109–97, title VII, § 780](https://www.govinfo.gov/link/plaw/109/public/97), Nov. 10, 2005, [119 Stat. 2162](https://www.govinfo.gov/link/statute/119/2162); [Pub. L. 110–234, title XII](https://www.govinfo.gov/link/plaw/110/public/234), §§ 12003(b)–12006(a), 12007–12014(a), 12015–12020(a), 12033(c)(2)(B), May 22, 2008, [122 Stat. 1372–1381](https://www.govinfo.gov/link/statute/122/1372), 1405; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XII, §§ 12003(b)–12006(a), 12007–12014(a), 12015–12020(a), 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2133–2142, 2167; [Pub. L. 113–79, title XI](https://www.govinfo.gov/link/plaw/113/public/79), §§ 11002–11003(c), 11004–11010(a), 11011–11014(a), 11015, 11016(b), 11017(b), 11023(a), 11028(a), title XII, § 12305(b), Feb. 7, 2014, [128 Stat. 954–957](https://www.govinfo.gov/link/statute/128/954), 960, 961, 963, 966, 973, 977, 988; [Pub. L. 114–74, title II, § 201](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 587](https://www.govinfo.gov/link/statute/129/587); [Pub. L. 114–94, div. C, title XXXII, § 32205](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1740](https://www.govinfo.gov/link/statute/129/1740); [Pub. L. 115–334, title XI](https://www.govinfo.gov/link/plaw/115/public/334), §§ 11105(b)–11109(a), 11110–11114, title XII, § 12306(b)(2), Dec. 20, 2018, [132 Stat. 4921–4924](https://www.govinfo.gov/link/statute/132/4921), 4968; [Pub. L. 119–21, title I](https://www.govinfo.gov/link/plaw/119/public/21), §§ 10303(b), 10501(b)–10504, July 4, 2025, [139 Stat. 90](https://www.govinfo.gov/link/statute/139/90), 103–106.)*

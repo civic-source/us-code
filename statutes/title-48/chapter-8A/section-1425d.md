@@ -3,12 +3,17 @@ title: "Section 1425d - Ratification of prior act"
 usc_title: 48
 usc_section: "1425d"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1425d"
-generated_at: "2026-03-30T02:56:14.586Z"
+generated_at: "2026-11-23T21:26:38.001Z"
+status: "active"
 ---
 
 # § 1425d. Ratification of prior act
 
 Each and every part of Public Law 6–135 , approved December 18, 1962 , heretofore enacted by the Legislature of Guam dealing with any part of the subject matter of sections 1425a to 1425e of this title and not inconsistent therewith is ratified and confirmed.
 
+
+## Source Credit
+
+*([Pub. L. 88–171, § 4](https://www.govinfo.gov/link/plaw/88/public/171), Nov. 4, 1963, [77 Stat. 304](https://www.govinfo.gov/link/statute/77/304).)*

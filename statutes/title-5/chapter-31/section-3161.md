@@ -3,9 +3,10 @@ title: "Section 3161 - Employment and compensation of employees"
 usc_title: 5
 usc_section: "3161"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3161"
-generated_at: "2026-03-30T02:52:56.000Z"
+generated_at: "2026-11-23T21:25:23.140Z"
+status: "active"
 ---
 
 # § 3161. Employment and compensation of employees
@@ -47,3 +48,25 @@ generated_at: "2026-03-30T02:52:56.000Z"
     - **(A)** Chapter 81 of this title, relating to compensation for work-related injuries.
     - **(B)** Chapter 171 of title 28, relating to tort claims.
     - **(C)** Chapter 11 of title 18, relating to conflicts of interest.
+
+Definition of Temporary Organization
+
+Employment Authority
+
+Detail Authority
+
+Compensation
+
+Travel Expenses
+
+Benefits
+
+Return Rights
+
+Temporary and Intermittent Services
+
+Acceptance of Volunteer Services
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title XI, § 1101(a)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–308.)*

@@ -3,9 +3,10 @@ title: "Section 2129 - Eligibility"
 usc_title: 12
 usc_section: "2129"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2129"
-generated_at: "2026-03-30T02:53:53.472Z"
+generated_at: "2026-11-23T21:25:37.055Z"
+status: "active"
 ---
 
 # § 2129. Eligibility
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:53.472Z"
   - **(2)** Notwithstanding the provisions of section 2130 of this title , the board of directors of a bank for cooperatives may determine that, with respect to a loan to any borrower eligible to borrow from a bank under paragraph (1)(A) that is fully guaranteed by the United States, no stock purchase requirement shall apply, other than the requirement that a borrower eligible to own voting stock shall purchase one share of such stock.
   - **(3)** Each association and other entity eligible to borrow from a bank for cooperatives under this subsection, for purposes of section 2128(a) of this title , shall be treated as an eligible cooperative association and a stockholder eligible to borrow from the bank.
   - **(4)** Nothing in this subsection shall be construed to adversely affect the eligibility, as it existed on January 6, 1988 , of cooperatives and other entities for any other credit assistance under Federal law.
+
+## Source Credit
+
+*([Pub. L. 92–181, title III, § 3](https://www.govinfo.gov/link/plaw/92/public/181).8, Dec. 10, 1971, [85 Stat. 605](https://www.govinfo.gov/link/statute/85/605); [Pub. L. 94–184, § 1(a)](https://www.govinfo.gov/link/plaw/94/public/184), Dec. 31, 1975, [89 Stat. 1060](https://www.govinfo.gov/link/statute/89/1060); [Pub. L. 96–592, title III, § 305](https://www.govinfo.gov/link/plaw/96/public/592), Dec. 24, 1980, [94 Stat. 3445](https://www.govinfo.gov/link/statute/94/3445); [Pub. L. 99–198, title XIII, § 1322](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1534](https://www.govinfo.gov/link/statute/99/1534); [Pub. L. 100–233, title IV, § 421](https://www.govinfo.gov/link/plaw/100/public/233), title VIII, § 805(m), Jan. 6, 1988, [101 Stat. 1654](https://www.govinfo.gov/link/statute/101/1654), 1715; [Pub. L. 100–399, title IV, § 410](https://www.govinfo.gov/link/plaw/100/public/399), title IX, § 901(e), Aug. 17, 1988, [102 Stat. 1003](https://www.govinfo.gov/link/statute/102/1003), 1007; [Pub. L. 101–624, title XXIII, § 2323(b)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 4013](https://www.govinfo.gov/link/statute/104/4013); [Pub. L. 102–237, title V, § 502(e)(2)](https://www.govinfo.gov/link/plaw/102/public/237), (f), Dec. 13, 1991, [105 Stat. 1869](https://www.govinfo.gov/link/statute/105/1869); [Pub. L. 102–552, title V, § 506](https://www.govinfo.gov/link/plaw/102/public/552), Oct. 28, 1992, [106 Stat. 4131](https://www.govinfo.gov/link/statute/106/4131); [Pub. L. 103–376, § 4](https://www.govinfo.gov/link/plaw/103/public/376), Oct. 19, 1994, [108 Stat. 3498](https://www.govinfo.gov/link/statute/108/3498); [Pub. L. 104–105, title II](https://www.govinfo.gov/link/plaw/104/public/105), §§ 204, 205, Feb. 10, 1996, [110 Stat. 172](https://www.govinfo.gov/link/statute/110/172); [Pub. L. 115–334, title V, § 5411(8)](https://www.govinfo.gov/link/plaw/115/public/334), title VI, § 6602(b)(17), Dec. 20, 2018, [132 Stat. 4680](https://www.govinfo.gov/link/statute/132/4680), 4777.)*

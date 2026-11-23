@@ -3,9 +3,10 @@ title: "Section 315 - Functions transferred"
 usc_title: 6
 usc_section: "315"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 315"
-generated_at: "2026-03-30T02:53:09.457Z"
+generated_at: "2026-11-23T21:25:25.777Z"
+status: "active"
 ---
 
 # § 315. Functions transferred
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:09.457Z"
   - **(2)** The National Communications System.
   - **(3)** The National Cybersecurity Division.
   - **(4)** The functions, personnel, assets, components, authorities, and liabilities of each component described under paragraphs (1) through (3).
+
+## Source Credit
+
+*([Pub. L. 107–296, title V, § 505](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 109–295, title VI, § 611(13)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1400](https://www.govinfo.gov/link/statute/120/1400); amended [Pub. L. 115–387, § 2(f)(4)](https://www.govinfo.gov/link/plaw/115/public/387), Dec. 21, 2018, [132 Stat. 5168](https://www.govinfo.gov/link/statute/132/5168).)*

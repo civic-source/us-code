@@ -3,9 +3,10 @@ title: "Section 3033 - Payment of grants"
 usc_title: 42
 usc_section: "3033"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3033"
-generated_at: "2026-03-30T02:56:11.177Z"
+generated_at: "2026-11-23T21:26:32.507Z"
+status: "active"
 ---
 
 # § 3033. Payment of grants
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.177Z"
 - **(c)** The Assistant Secretary shall make no grant or contract under this subchapter in any State that has established or designated a State agency for purposes of subchapter III unless the Assistant Secretary—
   - **(1)** consults with the State agency prior to issuing the grant or contract; and
   - **(2)** informs the State agency of the purposes of the grant or contract when the grant or contract is issued.
+
+## Source Credit
+
+*([Pub. L. 89–73, title IV, § 431](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 106–501, title IV, § 401](https://www.govinfo.gov/link/plaw/106/public/501), Nov. 13, 2000, [114 Stat. 2265](https://www.govinfo.gov/link/statute/114/2265).)*

@@ -3,9 +3,10 @@ title: "Section 15905 - Royalty relief for deep water production"
 usc_title: 42
 usc_section: "15905"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15905"
-generated_at: "2026-03-30T02:56:11.462Z"
+generated_at: "2026-11-23T21:26:33.681Z"
+status: "active"
 ---
 
 # § 15905. Royalty relief for deep water production
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.462Z"
   - **(3)** 12,000,000 barrels of oil equivalent for each lease in water depths of 1,600 to 2,000 meters; and
   - **(4)** 16,000,000 barrels of oil equivalent for each lease in water depths greater than 2,000 meters.
 - **(c)** The Secretary may place limitations on royalty relief granted under this section based on market price.
+
+## Source Credit
+
+*([Pub. L. 109–58, title III, § 345](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 703](https://www.govinfo.gov/link/statute/119/703).)*

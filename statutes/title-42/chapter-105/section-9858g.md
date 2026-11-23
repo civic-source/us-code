@@ -3,9 +3,10 @@ title: "Section 9858g - Administration and enforcement"
 usc_title: 42
 usc_section: "9858g"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9858g"
-generated_at: "2026-03-30T02:56:11.374Z"
+generated_at: "2026-11-23T21:26:33.314Z"
+status: "active"
 ---
 
 # § 9858g. Administration and enforcement
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:56:11.374Z"
   - **(6)** The Secretary shall terminate approval of a request for a waiver authorized under this subsection if the Secretary determines, after notice and opportunity for a hearing, that the performance of a State granted relief under this subsection has been inadequate, or if such relief is no longer necessary to achieve its original purposes.
   - **(7)** The Secretary may approve or disapprove a request from a State for renewal of an existing waiver under this subchapter for a period no longer than one year. A State seeking to renew their waiver approval must inform the Secretary of this intent no later than 30 days prior to the expiration date of the waiver. The State shall re-certify in its extension request the provisions in paragraph (2) of this subchapter, and shall also explain the need for additional time of relief from such sanction(s) or provisions approved under this law as provided in this subchapter.
   - **(8)** Nothing in this subchapter shall be construed as providing the Secretary the authority to permit States to alter the eligibility requirements for eligible children, including work requirements, job training, or educational program participation, that apply to the parents of eligible children under this subchapter. Nothing in this subsection shall be construed to allow the Secretary to waive anything related to his or her authority under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 658I](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 101–508, title V, § 5082(2)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–242](https://www.govinfo.gov/link/statute/104/1388); amended [Pub. L. 102–401, § 3(a)](https://www.govinfo.gov/link/plaw/102/public/401), Oct. 7, 1992, [106 Stat. 1959](https://www.govinfo.gov/link/statute/106/1959); [Pub. L. 102–586, § 8(c)(1)](https://www.govinfo.gov/link/plaw/102/public/586), Nov. 4, 1992, [106 Stat. 5036](https://www.govinfo.gov/link/statute/106/5036); [Pub. L. 104–193, title VI, § 609](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2284](https://www.govinfo.gov/link/statute/110/2284); [Pub. L. 113–186, § 8(a)](https://www.govinfo.gov/link/plaw/113/public/186), (b), Nov. 19, 2014, [128 Stat. 1994](https://www.govinfo.gov/link/statute/128/1994), 1995.)*

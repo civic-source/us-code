@@ -3,9 +3,10 @@ title: "Section 8348 - Civil Service Retirement and Disability Fund"
 usc_title: 5
 usc_section: "8348"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8348"
-generated_at: "2026-03-30T02:52:56.052Z"
+generated_at: "2026-11-23T21:25:23.407Z"
+status: "active"
 ---
 
 # § 8348. Civil Service Retirement and Disability Fund
@@ -60,3 +61,62 @@ generated_at: "2026-03-30T02:52:56.052Z"
 - **(l)**
   - **(1)** The Secretary of the Treasury shall report to Congress on the operation and status of the Fund during each debt issuance suspension period for which the Secretary is required to take action under paragraph (3) or (4) of subsection (j) of this section. The report shall be submitted as soon as possible after the expiration of such period, but not later than the date that is 30 days after the first normal interest payment date occurring after the expiration of such period.
   - **(2)** Whenever the Secretary of the Treasury determines that, by reason of the public debt limit, the Secretary will be unable to fully comply with the requirements of subsection (c) of this section, the Secretary shall immediately notify Congress of the determination. The notification shall be made in writing.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| (a)–(f) | 5 U.S.C. 2267 . | July 31, 1956, ch. 804, § 401 “Sec. 17”, 70 Stat. 759 . |
+|  |  | Oct. 4, 1961 , Pub. L. 87–350, § 1(a) , 75 Stat. 770 . |
+| (g) | [Uncodified]. | Aug. 28, 1958 , Pub. L. 85–844, § 101 (par. under “Civil Service Retirement and Disability Fund”), 72 Stat. 1064 . |
+
+| 1967 Act | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8348(a) | 5 App.: 2267(a). | Sept. 27, 1965 , Pub. L. 89–205, § 1(b) , 79 Stat. 840 . |
+
+
+Historical and Revision Notes
+
+Act
+
+(a)–(f)
+
+5 U.S.C. 2267
+
+July 31, 1956, ch. 804, § 401
+
+70 Stat. 759
+
+Oct. 4, 1961
+
+Pub. L. 87–350, § 1(a)
+
+75 Stat. 770
+
+(g)
+
+Aug. 28, 1958
+
+Pub. L. 85–844, § 101
+
+72 Stat. 1064
+
+Act
+
+8348(a)
+
+Sept. 27, 1965
+
+Pub. L. 89–205, § 1(b)
+
+79 Stat. 840
+
+In general.—
+
+Request for review
+
+Report
+
+Reconsideration
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 584](https://www.govinfo.gov/link/statute/80/584); [Pub. L. 90–83, § 1(85)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 218](https://www.govinfo.gov/link/statute/81/218); [Pub. L. 91–93, title I, § 103(a)](https://www.govinfo.gov/link/plaw/91/public/93), Oct. 20, 1969, [83 Stat. 137](https://www.govinfo.gov/link/statute/83/137); [Pub. L. 93–349, § 1](https://www.govinfo.gov/link/plaw/93/public/349), July 12, 1974, [88 Stat. 354](https://www.govinfo.gov/link/statute/88/354); [Pub. L. 94–183, § 2(37)](https://www.govinfo.gov/link/plaw/94/public/183), Dec. 31, 1975, [89 Stat. 1058](https://www.govinfo.gov/link/statute/89/1058); [Pub. L. 95–454, title IX, § 906(a)(2)](https://www.govinfo.gov/link/plaw/95/public/454), (3), Oct. 13, 1978, [92 Stat. 1224](https://www.govinfo.gov/link/statute/92/1224); [Pub. L. 96–70, title I, § 1244](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 474](https://www.govinfo.gov/link/statute/93/474); [Pub. L. 97–253, title III, § 306(f)](https://www.govinfo.gov/link/plaw/97/public/253), Sept. 8, 1982, [96 Stat. 797](https://www.govinfo.gov/link/statute/96/797); [Pub. L. 97–346, § 3(g)](https://www.govinfo.gov/link/plaw/97/public/346), Oct. 15, 1982, [96 Stat. 1648](https://www.govinfo.gov/link/statute/96/1648); [Pub. L. 98–216, § 3(a)(5)](https://www.govinfo.gov/link/plaw/98/public/216), Feb. 14, 1984, [98 Stat. 6](https://www.govinfo.gov/link/statute/98/6); [Pub. L. 98–615, § 2(7)](https://www.govinfo.gov/link/plaw/98/public/615), Nov. 8, 1984, [98 Stat. 3202](https://www.govinfo.gov/link/statute/98/3202); [Pub. L. 99–335, title II, § 207(j)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 597](https://www.govinfo.gov/link/statute/100/597); [Pub. L. 99–509, title VI, § 6002](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1931](https://www.govinfo.gov/link/statute/100/1931); [Pub. L. 100–203, title V, § 5428(d)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–274](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 101–239, title IV, § 4002(a)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2133](https://www.govinfo.gov/link/statute/103/2133); [Pub. L. 101–508, title VII](https://www.govinfo.gov/link/plaw/101/public/508), §§ 7001(a)(3), 7101(a), Nov. 5, 1990, [104 Stat. 1388–328](https://www.govinfo.gov/link/statute/104/1388), 1388–331; [Pub. L. 101–510, div. C, title XXXV, § 3506(c)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1847](https://www.govinfo.gov/link/statute/104/1847); [Pub. L. 103–424, § 10](https://www.govinfo.gov/link/plaw/103/public/424), Oct. 29, 1994, [108 Stat. 4366](https://www.govinfo.gov/link/statute/108/4366); [Pub. L. 104–52, title IV, § 2](https://www.govinfo.gov/link/plaw/104/public/52), Nov. 19, 1995, [109 Stat. 490](https://www.govinfo.gov/link/statute/109/490); [Pub. L. 104–316, title I, § 103(h)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3829](https://www.govinfo.gov/link/statute/110/3829); [Pub. L. 105–362, title XIII, § 1302(c)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3293](https://www.govinfo.gov/link/statute/112/3293); [Pub. L. 108–18, § 2(c)](https://www.govinfo.gov/link/plaw/108/public/18), (d)(1)(A), Apr. 23, 2003, [117 Stat. 625](https://www.govinfo.gov/link/statute/117/625), 626; [Pub. L. 109–435, title VIII, § 802(a)(2)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3249](https://www.govinfo.gov/link/statute/120/3249); [Pub. L. 116–126, § 3(a)](https://www.govinfo.gov/link/plaw/116/public/126), Mar. 18, 2020, [134 Stat. 176](https://www.govinfo.gov/link/statute/134/176).)*

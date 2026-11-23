@@ -3,9 +3,10 @@ title: "Section 1710D - Traumatic brain injury: comprehensive program for long-t
 usc_title: 38
 usc_section: "1710D"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1710D"
-generated_at: "2026-03-30T02:55:53.483Z"
+generated_at: "2026-11-23T21:26:16.632Z"
+status: "active"
 ---
 
 # § 1710D. Traumatic brain injury: comprehensive program for long-term rehabilitation
@@ -20,3 +21,15 @@ generated_at: "2026-03-30T02:55:53.483Z"
   - **(1)** A description of the operation of the program.
   - **(2)** The number of veterans provided care under the program during the year preceding such report.
   - **(3)** The cost of operating the program during the year preceding such report.
+
+Comprehensive Program
+
+Location of Program
+
+Eligibility
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 110–181, div. A, title XVII, § 1702(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 488](https://www.govinfo.gov/link/statute/122/488); amended [Pub. L. 112–154, title I, § 107(b)](https://www.govinfo.gov/link/plaw/112/public/154), Aug. 6, 2012, [126 Stat. 1173](https://www.govinfo.gov/link/statute/126/1173); [Pub. L. 114–58, title VI, § 601(5)](https://www.govinfo.gov/link/plaw/114/public/58), Sept. 30, 2015, [129 Stat. 538](https://www.govinfo.gov/link/statute/129/538).)*

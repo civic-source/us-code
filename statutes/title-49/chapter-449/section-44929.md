@@ -3,9 +3,10 @@ title: "Section 44929 - Donation of screening equipment to protect the United St
 usc_title: 49
 usc_section: "44929"
 chapter: 449
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44929"
-generated_at: "2026-03-30T02:56:19.394Z"
+generated_at: "2026-11-23T21:26:40.932Z"
+status: "active"
 ---
 
 # § 44929. Donation of screening equipment to protect the United States
@@ -24,3 +25,13 @@ generated_at: "2026-03-30T02:56:19.394Z"
   - **(4)** How the Administrator will ensure the security screening equipment that is being donated is used and maintained over the course of its life by the recipient.
   - **(5)** The total dollar value of such donation.
   - **(6)** How the appropriate officials will document and track any removal or disposal of the screening equipment by the recipient to ensure the screening equipment does not come into the possession of terrorists or otherwise pose a risk to security.
+
+In General
+
+Conditions
+
+Reports
+
+## Source Credit
+
+*(Added [Pub. L. 115–254, div. K, title I, § 1955(a)(1)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3595](https://www.govinfo.gov/link/statute/132/3595).)*

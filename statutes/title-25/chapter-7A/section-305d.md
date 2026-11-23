@@ -3,9 +3,10 @@ title: "Section 305d - Criminal proceedings; civil actions"
 usc_title: 25
 usc_section: "305d"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 305d"
-generated_at: "2026-03-30T02:54:52.803Z"
+generated_at: "2026-11-23T21:25:54.556Z"
+status: "active"
 ---
 
 # § 305d. Criminal proceedings; civil actions
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:52.803Z"
     - **(A)** recommend to the Attorney General that criminal proceedings be initiated under section 1159 of title 18 ; and
     - **(B)** provide such support to the Attorney General relating to the criminal proceedings as the Attorney General determines to be appropriate.
 - **(d)** In lieu of, or in addition to, any criminal proceeding under subsection (c), the Board may recommend that the Attorney General initiate a civil action under section 305e of this title .
+
+## Source Credit
+
+*(Aug. 27, 1935, ch. 748, § 5, as added [Pub. L. 101–644, title I, § 103](https://www.govinfo.gov/link/plaw/101/public/644), Nov. 29, 1990, [104 Stat. 4662](https://www.govinfo.gov/link/statute/104/4662); amended [Pub. L. 111–211, title I, § 102(a)](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2258](https://www.govinfo.gov/link/statute/124/2258).)*

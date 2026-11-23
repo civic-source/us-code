@@ -3,9 +3,10 @@ title: "Section 4222 - Moratoria"
 usc_title: 16
 usc_section: "4222"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4222"
-generated_at: "2026-03-30T02:54:23.041Z"
+generated_at: "2026-11-23T21:25:52.012Z"
+status: "active"
 ---
 
 # § 4222. Moratoria
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:23.041Z"
   - **(2)** The Secretary shall publish a notice of receipt of a petition under this subsection in the Federal Register and shall provide an opportunity for the public to comment on the petition. The Secretary shall rule on such petition not later than 90 days after the close of the public comment period.
 - **(e)** Individuals may import sport-hunted elephant trophies that they have legally taken in an ivory producing country that has submitted an ivory quota. The Secretary shall not establish any moratorium under this section, pursuant to a petition or otherwise, which prohibits the importation into the United States of sport-hunted trophies from elephants that are legally taken by the importer or the importer’s principal in an ivory producing country that has submitted an ivory quota.
 - **(f)** Trade in raw or worked ivory that is confiscated by an ivory producing country or an intermediary country and is disposed of pursuant to the CITES Ivory Control System shall not be the sole cause for the establishment of a moratorium under this subchapter if all proceeds from the disposal of the confiscated ivory are used solely to enhance wildlife conservation programs or conservation purposes of CITES. With respect to any country that was not a party to CITES at the time of such confiscation, this subsection shall not apply until such country develops appropriate measures to assure that persons with a history of illegal dealings in ivory shall not benefit from the disposal of confiscated ivory.
+
+## Source Credit
+
+*([Pub. L. 100–478, title II, § 2202](https://www.govinfo.gov/link/plaw/100/public/478), Oct. 7, 1988, [102 Stat. 2318](https://www.govinfo.gov/link/statute/102/2318).)*

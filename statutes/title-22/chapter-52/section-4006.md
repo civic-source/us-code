@@ -3,9 +3,10 @@ title: "Section 4006 - Other bases for promoting or increasing pay"
 usc_title: 22
 usc_section: "4006"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4006"
-generated_at: "2026-03-30T02:55:05.401Z"
+generated_at: "2026-11-23T21:25:58.609Z"
+status: "active"
 ---
 
 # § 4006. Other bases for promoting or increasing pay
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.401Z"
   - **(3)** grant performance pay to a member of the Senior Foreign Service under section 3965(c) of this title ; or
   - **(4)** grant a within-class salary increase under section 3966 of this title to a member of the Service who is assigned to a salary class in the Foreign Service Schedule.
 - **(b)** In implementing subsection (a) of this section and in cases in which the Secretary has exercised the authority of section 4005(b) of this title , the Secretary may, in special circumstances set forth by regulation, make retroactive promotions, grant performance pay, make retroactive within-class salary increases, and recommend retroactive promotions by the President.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 606](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2096](https://www.govinfo.gov/link/statute/94/2096).)*

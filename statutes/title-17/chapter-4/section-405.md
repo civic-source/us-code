@@ -3,9 +3,10 @@ title: "Section 405 - Notice of copyright: Omission of notice on certain copies 
 usc_title: 17
 usc_section: "405"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 405"
-generated_at: "2026-03-30T02:54:15.351Z"
+generated_at: "2026-11-23T21:25:41.717Z"
+status: "active"
 ---
 
 # § 405. Notice of copyright: Omission of notice on certain copies and phonorecords
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:54:15.351Z"
   - **(3)** the notice has been omitted in violation of an express requirement in writing that, as a condition of the copyright owner’s authorization of the public distribution of copies or phonorecords, they bear the prescribed notice.
 - **(b)** Any person who innocently infringes a copyright, in reliance upon an authorized copy or phonorecord from which the copyright notice has been omitted and which was publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, incurs no liability for actual or statutory damages under section 504 for any infringing acts committed before receiving actual notice that registration for the work has been made under section 408, if such person proves that he or she was misled by the omission of notice. In a suit for infringement in such a case the court may allow or disallow recovery of any of the infringer’s profits attributable to the infringement, and may enjoin the continuation of the infringing undertaking or may require, as a condition for permitting the continuation of the infringing undertaking, that the infringer pay the copyright owner a reasonable license fee in an amount and on terms fixed by the court.
 - **(c)** Protection under this title is not affected by the removal, destruction, or obliteration of the notice, without the authorization of the copyright owner, from any publicly distributed copies or phonorecords.
+
+Effect of Omission on Copyright
+
+Effect of Omission on Innocent Infringers
+
+Removal of Notice
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2578](https://www.govinfo.gov/link/statute/90/2578); [Pub. L. 100–568, § 7(e)](https://www.govinfo.gov/link/plaw/100/public/568), Oct. 31, 1988, [102 Stat. 2858](https://www.govinfo.gov/link/statute/102/2858); [Pub. L. 105–80, § 12(a)(10)](https://www.govinfo.gov/link/plaw/105/public/80), Nov. 13, 1997, [111 Stat. 1535](https://www.govinfo.gov/link/statute/111/1535).)*

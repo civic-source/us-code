@@ -3,9 +3,10 @@ title: "Section 232 - Functions of Administrator of General Services"
 usc_title: 6
 usc_section: "232"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 232"
-generated_at: "2026-03-30T02:53:09.453Z"
+generated_at: "2026-11-23T21:25:25.768Z"
+status: "active"
 ---
 
 # § 232. Functions of Administrator of General Services
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:09.453Z"
     - **(A)** to direct the transfer of, or affect, the authority of the Administrator of General Services to collect rents and fees, including fees collected for protective services; or
     - **(B)** to authorize the Secretary or any other official in the Department to obligate amounts in the Federal Buildings Fund established by section 592 of title 40 .
   - **(2)** Any amounts transferred by the Administrator of General Services to the Secretary out of rents and fees collected by the Administrator shall be used by the Secretary solely for the protection of buildings or grounds owned or occupied by the Federal Government.
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 422](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2184](https://www.govinfo.gov/link/statute/116/2184).)*

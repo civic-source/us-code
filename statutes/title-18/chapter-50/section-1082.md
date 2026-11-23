@@ -3,9 +3,10 @@ title: "Section 1082 - Gambling ships"
 usc_title: 18
 usc_section: "1082"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1082"
-generated_at: "2026-03-30T02:54:16.481Z"
+generated_at: "2026-11-23T21:25:44.042Z"
+status: "active"
 ---
 
 # § 1082. Gambling ships
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:16.481Z"
   - **(2)** in pursuance of the operation of any gambling establishment on any gambling ship, to conduct or deal any gambling game, or to conduct or operate any gambling device, or to induce, entice, solicit, or permit any person to bet or play at any such establishment,
 - **(b)** Whoever violates the provisions of subsection (a) of this section shall be fined under this title or imprisoned not more than two years, or both.
 - **(c)** Whoever, being (1) the owner of an American vessel, or (2) the owner of any vessel under or within the jurisdiction of the United States, or (3) the owner of any vessel and being an American citizen, shall use, or knowingly permit the use of, such vessel in violation of any provision of this section shall, in addition to any other penalties provided by this chapter, forfeit such vessel, together with her tackle, apparel, and furniture, to the United States.
+
+## Source Credit
+
+*(Added May 24, 1949, ch. 139, § 23, [63 Stat. 92](https://www.govinfo.gov/link/statute/63/92); amended [Pub. L. 103–322, title XXXIII, § 330016(1)(L)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2147](https://www.govinfo.gov/link/statute/108/2147).)*

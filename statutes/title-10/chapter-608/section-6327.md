@@ -3,9 +3,10 @@ title: "Section 6327 - Enhanced procurement authority to manage supply chain ris
 usc_title: 10
 usc_section: "6327"
 chapter: 608
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6327"
-generated_at: "2026-03-30T02:53:38.226Z"
+generated_at: "2026-11-23T21:25:32.829Z"
+status: "active"
 ---
 
 # § 6327. Enhanced procurement authority to manage supply chain risk
@@ -55,3 +56,21 @@ generated_at: "2026-03-30T02:53:38.226Z"
   - **(6)** The term “special exclusion action” means an action to prohibit, for a period not to exceed two years, the award of any contracts or subcontracts by the Administration or any other component of the Department of Energy related to any covered system to a source the Secretary determines to represent a supply chain risk.
   - **(7)** The term “supply chain risk” means the risk that an adversary may sabotage, maliciously introduce unwanted function, or otherwise subvert the design, integrity, manufacturing, production, distribution, installation, operation, or maintenance of a covered system or covered item of supply so as to surveil, deny, disrupt, or otherwise degrade the function, use, or operation of the system or item of supply.
 - **(g)** The authority under this section shall terminate on December 31, 2028 .
+
+Authority
+
+Requirements
+
+Notifications
+
+Limitation of Review
+
+Delegation of Authority
+
+Definitions
+
+Termination
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2)(A), Dec. 18, 2025, [139 Stat. 1444](https://www.govinfo.gov/link/statute/139/1444), 1462.)*

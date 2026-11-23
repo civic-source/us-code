@@ -3,9 +3,10 @@ title: "Section 1060a - Special supplemental food program"
 usc_title: 10
 usc_section: "1060a"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1060a"
-generated_at: "2026-03-30T02:53:38.098Z"
+generated_at: "2026-11-23T21:25:32.382Z"
+status: "active"
 ---
 
 # § 1060a. Special supplemental food program
@@ -37,3 +38,37 @@ generated_at: "2026-03-30T02:53:38.098Z"
     - **(B)** a person who, though not a citizen of the United States, owes permanent allegiance to the United States, as determined in accordance with the Immigration and Nationality Act ( 8 U.S.C. 1101 et seq.).
   - **(3)** The term “dependent” has the meaning given such term in subparagraphs (A), (D), (E), and (I) of section 1072(2) of this title .
   - **(4)** The terms “nutrition education” and “supplemental foods” have the meanings given the terms in section 17(b) of the Child Nutrition Act of 1966 ( 42 U.S.C. 1786(b) ).
+
+Program Required
+
+Funding Mechanism
+
+Program Administration
+
+Departure From Standards
+
+Rebate Agreements With Food Producers
+
+Regulations
+
+Definitions
+
+In General
+
+Access
+
+Termination
+
+Reporting.—
+
+Progress reports
+
+Final report
+
+Data Collection
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title VI, § 653(a)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2794](https://www.govinfo.gov/link/statute/108/2794); amended [Pub. L. 104–106, div. A, title XV, § 1503(a)(9)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 511](https://www.govinfo.gov/link/statute/110/511); [Pub. L. 105–85, div. A, title VI, § 655(b)(1)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1805](https://www.govinfo.gov/link/statute/111/1805); [Pub. L. 106–65, div. A, title VI, § 674(a)](https://www.govinfo.gov/link/plaw/106/public/65) –(d), Oct. 5, 1999, [113 Stat. 675](https://www.govinfo.gov/link/statute/113/675); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title VI, § 662], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–167; [Pub. L. 107–107, div. A, title III, § 334](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1059](https://www.govinfo.gov/link/statute/115/1059); [Pub. L. 107–314, div. A, title III, § 324](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2511](https://www.govinfo.gov/link/statute/116/2511).)*

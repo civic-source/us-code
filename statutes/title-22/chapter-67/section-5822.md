@@ -3,9 +3,10 @@ title: "Section 5822 - Business and Agriculture Advisory Council"
 usc_title: 22
 usc_section: "5822"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5822"
-generated_at: "2026-03-30T02:55:05.420Z"
+generated_at: "2026-11-23T21:25:58.669Z"
+status: "active"
 ---
 
 # § 5822. Business and Agriculture Advisory Council
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.420Z"
   - **(2)** to evaluate, and consult periodically with the President regarding, the adequacy of bilateral and multilateral assistance programs that would facilitate exports by United States companies to, and investments by United States companies in, the independent states.
 - **(b)** The Council should consist of 15 members, appointed by the President, who are drawn from United States companies reflecting diverse businesses and perspectives that have experience and expertise in dealing with the independent states of the former Soviet Union. The President should designate one such member to serve as Chair of the Council. Five such members should be appointed upon the recommendation of the Speaker and the Minority Leader of the House of Representatives and 5 should be appointed upon the recommendation of the Majority Leader and Minority Leader of the Senate. Members of the Council shall receive no compensation from the United States Government by reason of their service on the Council.
 - **(c)** Upon request of the Chair of the Council, the head of any United States Government agency may detail, on a nonreimbursable basis, any of the personnel of such agency to the Council to assist the Council.
+
+## Source Credit
+
+*([Pub. L. 102–511, title III, § 302](https://www.govinfo.gov/link/plaw/102/public/511), Oct. 24, 1992, [106 Stat. 3333](https://www.govinfo.gov/link/statute/106/3333).)*

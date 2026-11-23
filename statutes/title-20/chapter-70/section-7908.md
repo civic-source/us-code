@@ -3,9 +3,10 @@ title: "Section 7908 - Armed Forces recruiter access to students and student rec
 usc_title: 20
 usc_section: "7908"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7908"
-generated_at: "2026-03-30T02:54:48.221Z"
+generated_at: "2026-11-23T21:25:47.622Z"
+status: "active"
 ---
 
 # § 7908. Armed Forces recruiter access to students and student recruiting information
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:48.221Z"
   - **(5)** For purposes of this subsection, whenever a student has attained 18 years of age, the permission or consent required of and the rights accorded to the parents of the student shall only be required of and accorded to the student.
 - **(b)** The Secretary, in consultation with the Secretary of Defense, shall, not later than 120 days after December 10, 2015 , notify school leaders, school administrators, and other educators about the requirements of this section.
 - **(c)** The requirements of this section do not apply to a private secondary school that maintains a religious objection to service in the Armed Forces if the objection is verifiable through the corporate or other organizational documents or materials of that school.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VIII, § 8528](https://www.govinfo.gov/link/plaw/89/public/10), formerly title IX, § 9528, as added [Pub. L. 107–110, title IX, § 901](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1983](https://www.govinfo.gov/link/statute/115/1983); renumbered title VIII, § 8528, and amended [Pub. L. 114–95, title VIII](https://www.govinfo.gov/link/plaw/114/public/95), §§ 8001(a)(6), 8025, Dec. 10, 2015, [129 Stat. 2088](https://www.govinfo.gov/link/statute/129/2088), 2089, 2114.)*

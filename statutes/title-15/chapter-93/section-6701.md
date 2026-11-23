@@ -3,9 +3,10 @@ title: "Section 6701 - Operation of State law"
 usc_title: 15
 usc_section: "6701"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6701"
-generated_at: "2026-03-30T02:54:08.213Z"
+generated_at: "2026-11-23T21:25:40.027Z"
+status: "active"
 ---
 
 # § 6701. Operation of State law
@@ -86,3 +87,297 @@ generated_at: "2026-03-30T02:54:08.213Z"
     - **(B)** includes any foreign bank that maintains a branch, agency, or commercial lending company in the United States.
   - **(4)** The term “insurer” means any person engaged in the business of insurance.
   - **(5)** The term “State” means any State of the United States, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands.
+
+Finding; Rule of Construction.—
+
+Finding
+
+Rule of construction
+
+Advisory Committee on Risk-Sharing Mechanisms.—
+
+Establishment
+
+Duties
+
+Membership
+
+Findings
+
+Purpose
+
+Act of terrorism.—
+
+Certification
+
+Limitation
+
+Determinations final
+
+Timing of certification
+
+Nondelegation
+
+Affiliate
+
+Control.—
+
+In general
+
+Rule of construction
+
+Direct earned premium
+
+Insured loss
+
+Insurer
+
+Insurer deductible
+
+Person
+
+Program
+
+Property and casualty insurance
+
+Secretary
+
+State
+
+United states
+
+Rule of construction for dates
+
+Establishment of Program.—
+
+In general
+
+Authority of the secretary
+
+Mandatory participation
+
+Conditions for Federal Payments
+
+Mandatory Availability
+
+State Residual Market Insurance Entities.—
+
+In general
+
+Treatment of certain entities
+
+Treatment of participation in certain entities
+
+Insured Loss Shared Compensation.—
+
+Federal share.—
+
+In general
+
+Program trigger
+
+Prohibition on duplicative compensation
+
+Cap on annual liability.—
+
+In general
+
+Insurer share
+
+In general
+
+Regulations
+
+Report to congress
+
+Notice to congress
+
+Final netting
+
+Determinations final
+
+Insurance marketplace aggregate retention amount.—
+
+In general
+
+Revision of insurance marketplace aggregate retention amount.—
+
+Phase-in
+
+Further revision
+
+Rulemaking
+
+Recoupment of federal share.—
+
+Mandatory recoupment amount
+
+Mandatory establishment of surcharges to recoup mandatory recoupment amount
+
+Discretionary recoupment of remainder of financial assistance
+
+Timing of mandatory recoupment.—
+
+In general
+
+Regulations required
+
+Notice of estimated losses
+
+Policy surcharge for terrorism loss risk-spreading premiums.—
+
+Policyholder premium
+
+Collection
+
+Percentage limitation
+
+Adjustments
+
+Recoupment of adjustments
+
+Timing of premiums
+
+Captive Insurers and Other Self-Insurance Arrangements
+
+Reinsurance to Cover Exposure.—
+
+Obtaining coverage
+
+Limitation on financial assistance
+
+Group Life Insurance Study.—
+
+Study
+
+Conditional Coverage
+
+Study and Report.—
+
+Study
+
+Report
+
+General Authority
+
+Interim Rules and Procedures
+
+Consultation
+
+Contracts for Services
+
+Civil Penalties.—
+
+In general
+
+Amount
+
+Recovery of amount in dispute
+
+Submission of Premium Information.—
+
+In general
+
+Access to information
+
+Availability to congress
+
+Funding.—
+
+Federal payments
+
+Administrative expenses
+
+Reporting of Terrorism Insurance Data.—
+
+Authority
+
+Reports
+
+Protection of data
+
+Advance coordination
+
+Confidentiality.—
+
+Retention of privilege
+
+Continued application of prior confidentiality agreements
+
+Information-sharing agreement
+
+Agency disclosure requirements
+
+General Nullification
+
+General Preemption
+
+Reinstatement of Terrorism Exclusions
+
+State Law
+
+Existing Reinsurance Agreements
+
+Procedures and Damages.—
+
+In general
+
+Preemption of state actions
+
+Substantive law
+
+Jurisdiction
+
+Punitive damages
+
+Authority of the secretary
+
+Exclusion
+
+Right of Subrogation
+
+Relationship to Other Law
+
+Effective Period
+
+Termination of Program
+
+Continuing Authority to Pay or Adjust Compensation
+
+Repeal; Savings Clause
+
+Study and Report on the Program.—
+
+Study
+
+Report
+
+Analysis of Market Conditions for Terrorism Risk Insurance.—
+
+In general
+
+Report
+
+Insurance for Nuclear, Biological, Chemical, and Radiological Terrorist Events.—
+
+Study
+
+Report
+
+Availability and Affordability of Terrorism Insurance in Specific Markets.—
+
+Study
+
+Elements of study
+
+Report
+
+Study of Small Insurer Market Competitiveness.—
+
+In general
+
+Report
+
+## Source Credit
+
+*([Pub. L. 106–102, title I, § 104](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1352](https://www.govinfo.gov/link/statute/113/1352).)*

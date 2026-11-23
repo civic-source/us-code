@@ -3,9 +3,10 @@ title: "Section 40c - Comprehensive plan for expenditure of appropriations"
 usc_title: 42
 usc_section: "40c"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 40c"
-generated_at: "2026-03-30T02:56:10.820Z"
+generated_at: "2026-11-23T21:26:30.838Z"
+status: "active"
 ---
 
 # § 300cc–40c. Comprehensive plan for expenditure of appropriations
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:56:10.820Z"
   - **(3)**
     - **(A)** Each fiscal year the Director of the Office shall, from the amounts received under paragraph (2) for the fiscal year, allocate to the agencies of the National Institutes of Health (in accordance with the Plan) all amounts available for such year for carrying out the AIDS activities specified in subsection (c)(2)(B)(ii)(I) for such year. Such allocation shall, to the extent practicable, be made not later than 15 days after the date on which the Director receives amounts under paragraph (2).
     - **(B)** Each fiscal year the Director of the Office shall, from the amounts received under paragraph (2) for the fiscal year, allocate to the agencies of the National Institutes of Health (in accordance with the Plan) all amounts available for such year for carrying out AIDS activities that are not referred to in subparagraph (A). Such allocation shall, to the extent practicable, be made not later than 30 days after the date on which the Director receives amounts under paragraph (2).
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXIII, § 2353, as added [Pub. L. 103–43, title XVIII, § 1801(a)(3)](https://www.govinfo.gov/link/plaw/103/public/43), June 10, 1993, [107 Stat. 194](https://www.govinfo.gov/link/statute/107/194).)*

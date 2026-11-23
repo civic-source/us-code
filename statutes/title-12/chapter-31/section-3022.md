@@ -3,12 +3,17 @@ title: "Section 3022 - Authorization of additional appropriations; restrictions 
 usc_title: 12
 usc_section: "3022"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3022"
-generated_at: "2026-03-30T02:53:53.489Z"
+generated_at: "2026-11-23T21:25:37.118Z"
+status: "active"
 ---
 
 # § 3022. Authorization of additional appropriations; restrictions on use
 
 In addition to appropriations specifically authorized in this chapter, there are authorized to be appropriated $2,000,000 for the fiscal year ending September 30, 1979 , and for each of the two succeeding fiscal years, ending September 30, 1980 , and September 30, 1981 , such sums as may be necessary: Provided , That none of these appropriated sums shall be used to retire any indebtedness of the Bank incurred pursuant to section 3017 of this title . Any sums so appropriated shall remain available until expended.
 
+
+## Source Credit
+
+*([Pub. L. 95–351, title I, § 112](https://www.govinfo.gov/link/plaw/95/public/351), Aug. 20, 1978, [92 Stat. 510](https://www.govinfo.gov/link/statute/92/510).)*

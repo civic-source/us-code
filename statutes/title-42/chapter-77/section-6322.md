@@ -3,9 +3,10 @@ title: "Section 6322 - State energy conservation plans"
 usc_title: 42
 usc_section: "6322"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6322"
-generated_at: "2026-03-30T02:56:11.255Z"
+generated_at: "2026-11-23T21:26:32.927Z"
+status: "active"
 ---
 
 # § 6322. State energy conservation plans
@@ -73,3 +74,7 @@ generated_at: "2026-03-30T02:56:11.255Z"
     - **(B)** “small business” means a private firm that does not exceed the numerical size standard promulgated by the Small Business Administration under section 632(a) of title 15 for the Standard Industrial Classification (SIC) codes designated by the Secretary of Energy; and
     - **(C)** “start-up business” means a small business which has been in existence for 5 years or less.
 - **(g)** The Secretary shall, at least once every 3 years, invite the Governor of each State to review and, if necessary, revise the energy conservation plan of such State submitted under subsection (b) or (e). Such reviews should consider the energy conservation plans of other States within the region, and identify opportunities and actions carried out in pursuit of common energy conservation goals.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 362](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 933](https://www.govinfo.gov/link/statute/89/933); [Pub. L. 95–619, title VI, § 691(b)(2)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3288](https://www.govinfo.gov/link/statute/92/3288); [Pub. L. 101–440](https://www.govinfo.gov/link/plaw/101/public/440), §§ 3(a), 4(a), (b), Oct. 18, 1990, [104 Stat. 1006–1008](https://www.govinfo.gov/link/statute/104/1006); [Pub. L. 102–486, title I, § 141(b)](https://www.govinfo.gov/link/plaw/102/public/486), (c)(1), Oct. 24, 1992, [106 Stat. 2841](https://www.govinfo.gov/link/statute/106/2841); [Pub. L. 105–244, title I, § 102(a)(13)(E)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1620](https://www.govinfo.gov/link/statute/112/1620); [Pub. L. 105–388, § 5(a)(8)](https://www.govinfo.gov/link/plaw/105/public/388), Nov. 13, 1998, [112 Stat. 3478](https://www.govinfo.gov/link/statute/112/3478); [Pub. L. 109–58, title I, § 123(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 616](https://www.govinfo.gov/link/statute/119/616); [Pub. L. 117–58, div. D, title I](https://www.govinfo.gov/link/plaw/117/public/58), §§ 40104(b), 40109(a), (b), Nov. 15, 2021, [135 Stat. 932](https://www.govinfo.gov/link/statute/135/932), 944.)*

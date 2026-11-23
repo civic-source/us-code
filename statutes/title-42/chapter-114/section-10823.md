@@ -3,12 +3,17 @@ title: "Section 10823 - Payments under allotments"
 usc_title: 42
 usc_section: "10823"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10823"
-generated_at: "2026-03-30T02:56:11.392Z"
+generated_at: "2026-11-23T21:26:33.388Z"
+status: "active"
 ---
 
 # § 10823. Payments under allotments
 
 For each fiscal year, the Secretary shall make payments to each eligible system from its allotment under this subchapter. Any amount paid to an eligible system for a fiscal year and remaining unobligated at the end of such year shall remain available to such system for the next fiscal year for the purposes for which it was made.
 
+
+## Source Credit
+
+*([Pub. L. 99–319, title I, § 113](https://www.govinfo.gov/link/plaw/99/public/319), May 23, 1986, [100 Stat. 484](https://www.govinfo.gov/link/statute/100/484).)*

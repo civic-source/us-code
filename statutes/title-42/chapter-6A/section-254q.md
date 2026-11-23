@@ -3,9 +3,10 @@ title: "Section 254q - Authorization of appropriations"
 usc_title: 42
 usc_section: "254q"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 254q"
-generated_at: "2026-03-30T02:56:10.715Z"
+generated_at: "2026-11-23T21:26:30.360Z"
+status: "active"
 ---
 
 # § 254q. Authorization of appropriations
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:10.715Z"
   - **(1)** scholarships under this subpart to individuals who have not previously received such scholarships; or
   - **(2)** scholarships or loan repayments under the Loan Repayment Program under section 254 l –1 of this title to individuals from disadvantaged backgrounds.
 - **(c)** With respect to certification as a nurse practitioner, nurse midwife, or physician assistant, the Secretary shall, from amounts appropriated under subsection (a) for a fiscal year, obligate not less than a total of 10 percent for contracts for both scholarships under the Scholarship Program under section 254 l of this title and loan repayments under the Loan Repayment Program under section 254 l –1 of this title to individuals who are entering the first year of a course of study or program described in section 254 l (b)(1)(B) of this title that leads to such a certification or individuals who are eligible for the loan repayment program as specified in section 254 l –1(b) of this title for a loan related to such certification.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 338H, formerly § 338G, as added [Pub. L. 100–177, title II, § 203](https://www.govinfo.gov/link/plaw/100/public/177), Dec. 1, 1987, [101 Stat. 999](https://www.govinfo.gov/link/statute/101/999); renumbered § 338H and amended [Pub. L. 101–597, title II](https://www.govinfo.gov/link/plaw/101/public/597), §§ 204, 205, Nov. 16, 1990, [104 Stat. 3027](https://www.govinfo.gov/link/statute/104/3027), 3028; [Pub. L. 107–251, title III, § 314](https://www.govinfo.gov/link/plaw/107/public/251), Oct. 26, 2002, [116 Stat. 1652](https://www.govinfo.gov/link/statute/116/1652); [Pub. L. 110–355, § 3(a)(2)](https://www.govinfo.gov/link/plaw/110/public/355), Oct. 8, 2008, [122 Stat. 3993](https://www.govinfo.gov/link/statute/122/3993); [Pub. L. 111–148, title V, § 5207](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 612](https://www.govinfo.gov/link/statute/124/612).)*

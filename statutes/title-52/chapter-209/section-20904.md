@@ -3,9 +3,10 @@ title: "Section 20904 - Authorization of appropriations"
 usc_title: 52
 usc_section: "20904"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 20904"
-generated_at: "2026-03-30T02:56:30.165Z"
+generated_at: "2026-11-23T21:26:42.330Z"
+status: "active"
 ---
 
 # § 20904. Authorization of appropriations
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:30.165Z"
     - **(B)** Any amounts appropriated for payments under this subchapter which remain unobligated as of September 1, 2003 .
 - **(d)** When a State has established an election fund described in section 21004(b) of this title , the State shall ensure that any funds provided to the State under this subchapter are deposited and maintained in such fund.
 - **(e)** In addition to the amounts authorized under subsection (a), there are authorized to be appropriated to the Administrator such sums as may be necessary to administer the programs under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 107–252, title I, § 104](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1672](https://www.govinfo.gov/link/statute/116/1672).)*

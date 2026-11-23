@@ -3,9 +3,10 @@ title: "Section 12740 - Eligibility: denial upon certain punitive discharges or 
 usc_title: 10
 usc_section: "12740"
 chapter: 1223
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 12740"
-generated_at: "2026-03-30T02:53:38.272Z"
+generated_at: "2026-11-23T21:25:33.055Z"
+status: "active"
 ---
 
 # § 12740. Eligibility: denial upon certain punitive discharges or dismissals
@@ -14,3 +15,7 @@ A person who—
 
   - **(1)** is convicted of an offense under the Uniform Code of Military Justice (chapter 47 of this title) and whose sentence includes death; or
   - **(2)** is separated pursuant to sentence of a court-martial with a dishonorable discharge, a bad conduct discharge, or (in the case of an officer) a dismissal,
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title VI, § 632(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 365](https://www.govinfo.gov/link/statute/110/365).)*

@@ -3,9 +3,10 @@ title: "Section 1080a - Reports to consumer reporting agencies and institutions 
 usc_title: 20
 usc_section: "1080a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1080a"
-generated_at: "2026-03-30T02:54:48.117Z"
+generated_at: "2026-11-23T21:25:47.117Z"
+status: "active"
 ---
 
 # § 1080a. Reports to consumer reporting agencies and institutions of higher education
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:48.117Z"
   - **(1)** 7 years from the date on which the Secretary or the agency paid a claim to the holder on the guaranty;
   - **(2)** 7 years from the date the Secretary, guaranty agency, eligible lender, or subsequent holder first reported the account to the consumer reporting agency; or
   - **(3)** in the case of a borrower who reenters repayment after defaulting on a loan and subsequently goes into default on such loan, 7 years from the date the loan entered default such subsequent time.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 430A](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1398](https://www.govinfo.gov/link/statute/100/1398); amended [Pub. L. 100–50, § 10(v)](https://www.govinfo.gov/link/plaw/100/public/50), June 3, 1987, [101 Stat. 346](https://www.govinfo.gov/link/statute/101/346); [Pub. L. 102–325, title IV, § 424](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 543](https://www.govinfo.gov/link/statute/106/543); [Pub. L. 103–208, § 2(c)(52)](https://www.govinfo.gov/link/plaw/103/public/208), Dec. 20, 1993, [107 Stat. 2467](https://www.govinfo.gov/link/statute/107/2467); [Pub. L. 110–315, title IV, § 432(a)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3245](https://www.govinfo.gov/link/statute/122/3245); [Pub. L. 111–39, title IV, § 402(f)(8)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1944](https://www.govinfo.gov/link/statute/123/1944).)*

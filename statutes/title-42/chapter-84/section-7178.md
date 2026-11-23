@@ -3,9 +3,10 @@ title: "Section 7178 - Federal Energy Regulatory Commission fees and annual char
 usc_title: 42
 usc_section: "7178"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7178"
-generated_at: "2026-03-30T02:56:11.284Z"
+generated_at: "2026-11-23T21:26:33.054Z"
+status: "active"
 ---
 
 # § 7178. Federal Energy Regulatory Commission fees and annual charges
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.284Z"
 - **(e)** The Commission shall, after the completion of a fiscal year, make such adjustments in the assessments for such fiscal year as may be necessary to eliminate any overrecovery or underrecovery of its total costs, and any overcharging or undercharging of any person.
 - **(f)** All moneys received under this section shall be credited to the general fund of the Treasury.
 - **(g)** The Commission may waive all or part of any fee or annual charge assessed under this section for good cause shown.
+
+## Source Credit
+
+*([Pub. L. 99–509, title III, § 3401](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1890](https://www.govinfo.gov/link/statute/100/1890).)*

@@ -3,9 +3,10 @@ title: "Section 1454 - Guard bands and unlicensed use"
 usc_title: 47
 usc_section: "1454"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1454"
-generated_at: "2026-03-30T02:56:24.535Z"
+generated_at: "2026-11-23T21:26:36.104Z"
+status: "active"
 ---
 
 # § 1454. Guard bands and unlicensed use
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:24.535Z"
 - **(c)** The Commission may permit the use of such guard bands for unlicensed use.
 - **(d)** Unlicensed use shall rely on a database or subsequent methodology as determined by the Commission.
 - **(e)** The Commission may not permit any use of a guard band that the Commission determines would cause harmful interference to licensed services.
+
+## Source Credit
+
+*([Pub. L. 112–96, title VI, § 6407](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 231](https://www.govinfo.gov/link/statute/126/231).)*

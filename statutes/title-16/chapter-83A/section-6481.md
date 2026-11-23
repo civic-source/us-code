@@ -3,9 +3,10 @@ title: "Section 6481 - Susan L. Williams National Coral Reef Management Fellowsh
 usc_title: 16
 usc_section: "6481"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6481"
-generated_at: "2026-03-30T02:54:23.059Z"
+generated_at: "2026-11-23T21:25:52.041Z"
+status: "active"
 ---
 
 # § 6481. Susan L. Williams National Coral Reef Management Fellowship
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:23.059Z"
 - **(d)**
   - **(1)** Except as provided in paragraph (2), the non-Federal share of the costs of a fellowship under this section shall be 25 percent of such costs.
   - **(2)** The Secretary may waive the application of paragraph (1) to a fellowship if the Secretary finds that such waiver is necessary to support a project that the Secretary has identified as a high priority.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. J, title C, § 10031](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3955](https://www.govinfo.gov/link/statute/136/3955).)*

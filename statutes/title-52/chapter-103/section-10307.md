@@ -3,9 +3,10 @@ title: "Section 10307 - Prohibited acts"
 usc_title: 52
 usc_section: "10307"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 10307"
-generated_at: "2026-03-30T02:56:30.160Z"
+generated_at: "2026-11-23T21:26:42.320Z"
+status: "active"
 ---
 
 # § 10307. Prohibited acts
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:30.160Z"
   - **(1)** Whoever votes more than once in an election referred to in paragraph (2) shall be fined not more than $10,000 or imprisoned not more than five years, or both.
   - **(2)** The prohibition of this subsection applies with respect to any general, special, or primary election held solely or in part for the purpose of selecting or electing any candidate for the office of President, Vice President, presidential elector, Member of the United States Senate, Member of the United States House of Representatives, Delegate from the District of Columbia, Guam, or the Virgin Islands, or Resident Commissioner of the Commonwealth of Puerto Rico.
   - **(3)** As used in this subsection, the term “votes more than once” does not include the casting of an additional ballot if all prior ballots of that voter were invalidated, nor does it include the voting in two jurisdictions under section 10502 of this title , to the extent two ballots are not cast for an election to the same candidacy or office.
+
+## Source Credit
+
+*([Pub. L. 89–110, title I, § 11](https://www.govinfo.gov/link/plaw/89/public/110), Aug. 6, 1965, [79 Stat. 443](https://www.govinfo.gov/link/statute/79/443); renumbered title I, [Pub. L. 91–285, § 2](https://www.govinfo.gov/link/plaw/91/public/285), June 22, 1970, [84 Stat. 314](https://www.govinfo.gov/link/statute/84/314); amended [Pub. L. 91–405, title II, § 204(e)](https://www.govinfo.gov/link/plaw/91/public/405), Sept. 22, 1970, [84 Stat. 853](https://www.govinfo.gov/link/statute/84/853); [Pub. L. 94–73, title IV](https://www.govinfo.gov/link/plaw/94/public/73), §§ 404, 409, Aug. 6, 1975, [89 Stat. 404](https://www.govinfo.gov/link/statute/89/404), 405.)*

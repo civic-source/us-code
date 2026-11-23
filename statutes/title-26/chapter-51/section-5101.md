@@ -3,9 +3,10 @@ title: "Section 5101 - Notice of manufacture of still; notice of set up of still
 usc_title: 26
 usc_section: "5101"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5101"
-generated_at: "2026-03-30T02:55:27.820Z"
+generated_at: "2026-11-23T21:26:06.699Z"
+status: "active"
 ---
 
 # § 5101. Notice of manufacture of still; notice of set up of still
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:55:27.820Z"
 - **(b)**
   - **(1)** For penalty and forfeiture for failure to give notice of manufacture, or for setting up a still without first giving notice, when required by the Secretary, see sections 5615(2) and 5687.
   - **(2)** For penalty and forfeiture for failure to register still or distilling apparatus when set up, see section 5601(a)(1) and 5615(1).
+
+In General
+
+Repeal of Stamp Requirement
+
+Fortification of Cooking Wine
+
+Section
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title IV, § 451(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 818](https://www.govinfo.gov/link/statute/98/818).)*

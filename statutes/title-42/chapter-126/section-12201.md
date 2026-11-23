@@ -3,9 +3,10 @@ title: "Section 12201 - Construction"
 usc_title: 42
 usc_section: "12201"
 chapter: 126
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12201"
-generated_at: "2026-03-30T02:56:11.411Z"
+generated_at: "2026-11-23T21:26:33.460Z"
+status: "active"
 ---
 
 # § 12201. Construction
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.411Z"
 - **(f)** Nothing in this chapter alters the provision of section 12182(b)(2)(A)(ii) of this title , specifying that reasonable modifications in policies, practices, or procedures shall be required, unless an entity can demonstrate that making such modifications in policies, practices, or procedures, including academic requirements in postsecondary education, would fundamentally alter the nature of the goods, services, facilities, privileges, advantages, or accommodations involved.
 - **(g)** Nothing in this chapter shall provide the basis for a claim by an individual without a disability that the individual was subject to discrimination because of the individual’s lack of disability.
 - **(h)** A covered entity under subchapter I, a public entity under subchapter II, and any person who owns, leases (or leases to), or operates a place of public accommodation under subchapter III, need not provide a reasonable accommodation or a reasonable modification to policies, practices, or procedures to an individual who meets the definition of disability in section 12102(1) of this title solely under subparagraph (C) of such section.
+
+## Source Credit
+
+*([Pub. L. 101–336, title V, § 501](https://www.govinfo.gov/link/plaw/101/public/336), July 26, 1990, [104 Stat. 369](https://www.govinfo.gov/link/statute/104/369); [Pub. L. 110–325, § 6(a)(1)](https://www.govinfo.gov/link/plaw/110/public/325), Sept. 25, 2008, [122 Stat. 3557](https://www.govinfo.gov/link/statute/122/3557).)*

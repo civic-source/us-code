@@ -3,9 +3,10 @@ title: "Section 7675 - Breach of agreement: liability"
 usc_title: 38
 usc_section: "7675"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7675"
-generated_at: "2026-03-30T02:55:53.535Z"
+generated_at: "2026-11-23T21:26:16.889Z"
+status: "active"
 ---
 
 # § 7675. Breach of agreement: liability
@@ -30,3 +31,17 @@ generated_at: "2026-03-30T02:55:53.535Z"
     - **(D)** “s” is the number of months of such period served by the participant in accordance with section 7673 of this title .
 - **(d)** Liability shall not arise under subsection (b)(1)(E) or (c) in the case of a participant otherwise covered by the subsection concerned if the participant fails to maintain employment as a Department employee due to a staffing adjustment.
 - **(e)** Any amount of damages which the United States is entitled to recover under this section shall be paid to the United States within the 1-year period beginning on the date of the breach of the agreement.
+
+Liquidated Damages
+
+Liability During Course of Education or Training
+
+Liability During Period of Obligated Service
+
+Limitation on Liability for Reductions-in-Force
+
+Period for Payment of Damages
+
+## Source Credit
+
+*(Added [Pub. L. 105–368, title VIII, § 802(a)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3355](https://www.govinfo.gov/link/statute/112/3355); amended [Pub. L. 114–315, title VI, § 616](https://www.govinfo.gov/link/plaw/114/public/315), Dec. 16, 2016, [130 Stat. 1577](https://www.govinfo.gov/link/statute/130/1577).)*

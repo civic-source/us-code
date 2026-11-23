@@ -3,9 +3,10 @@ title: "Section 13908 - Registration and other reforms"
 usc_title: 49
 usc_section: "13908"
 chapter: 139
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 13908"
-generated_at: "2026-03-30T02:56:19.331Z"
+generated_at: "2026-11-23T21:26:40.687Z"
+status: "active"
 ---
 
 # § 13908. Registration and other reforms
@@ -26,3 +27,29 @@ generated_at: "2026-03-30T02:56:19.331Z"
       - **(ii)** to any representative of a motor carrier, motor private carrier, leasing company, broker, or freight forwarder (as each is defined in section 14504a) for the access to or retrieval of the individual information related to such entity from the Unified Carrier Registration System for the individual use of such entity.
 - **(e)** Fees collected under this section may be credited to the Department of Transportation appropriations account for purposes for which such fees are collected and shall be available for expenditure for such purposes until expended.
 - **(f)** Nothing in this section requires the registration of a motor carrier, a motor private carrier of property, or a transporter of waste or recyclable materials operating exclusively in intrastate transportation not otherwise required to register with the Secretary under another provision of this title.
+
+Establishment of Unified Carrier Registration System
+
+Role as Clearinghouse and Depository of Information
+
+Procedures for Correcting Information
+
+Fee System
+
+Registration and filing evidence of financial responsibility
+
+Evidence of financial responsibility
+
+Access and retrieval fees.—
+
+In general
+
+Exceptions
+
+Use of Fees for Unified Carrier Registration System
+
+Application to Certain Intrastate Operations
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 888](https://www.govinfo.gov/link/statute/109/888); amended [Pub. L. 104–287, § 5(36)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3392](https://www.govinfo.gov/link/statute/110/3392); [Pub. L. 109–59, title IV, § 4304](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1763](https://www.govinfo.gov/link/statute/119/1763); [Pub. L. 110–244, title III, § 301](https://www.govinfo.gov/link/plaw/110/public/244) (l), June 6, 2008, [122 Stat. 1617](https://www.govinfo.gov/link/statute/122/1617); [Pub. L. 112–141, div. C, title II, § 32106](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 781](https://www.govinfo.gov/link/statute/126/781).)*

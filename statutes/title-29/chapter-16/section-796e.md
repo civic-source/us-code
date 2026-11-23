@@ -3,9 +3,10 @@ title: "Section 796e - Allotments"
 usc_title: 29
 usc_section: "796e"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 796e"
-generated_at: "2026-03-30T02:55:18.700Z"
+generated_at: "2026-11-23T21:26:02.218Z"
+status: "active"
 ---
 
 # § 796e. Allotments
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:18.700Z"
 - **(b)** To provide allotments to States in accordance with subsection (a)(1)(B), to provide minimum allotments to States (as increased under subsection (a)(3)) under subsection (a)(1)(C), or to provide minimum allotments to States under subsection (a)(2)(B), the Administrator shall proportionately reduce the allotments of the remaining States under subsection (a)(1)(A), with such adjustments as may be necessary to prevent the allotment of any such remaining State from being reduced to less than the amount required by subsection (a)(1)(B).
 - **(c)** Whenever the Administrator determines that any amount of an allotment to a State for any fiscal year will not be expended by such State in carrying out the provisions of this subpart, the Administrator shall make such amount available for carrying out the provisions of this subpart to one or more of the States that the Administrator determines will be able to use additional amounts during such year for carrying out such provisions. Any amount made available to a State for any fiscal year pursuant to the preceding sentence shall, for the purposes of this section, be regarded as an increase in the allotment of the State (as determined under the preceding provisions of this section) for such year.
 - **(d)** Funds allotted or made available to a State under this section shall be administered by the designated State entity, in accordance with the approved State plan.
+
+## Source Credit
+
+*([Pub. L. 93–112, title VII, § 711](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 105–220, title IV, § 410](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1224](https://www.govinfo.gov/link/statute/112/1224); amended [Pub. L. 113–128, title IV, § 476(a)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1690](https://www.govinfo.gov/link/statute/128/1690).)*

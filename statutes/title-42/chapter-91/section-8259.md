@@ -3,9 +3,10 @@ title: "Section 8259 - Definitions"
 usc_title: 42
 usc_section: "8259"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8259"
-generated_at: "2026-03-30T02:56:11.339Z"
+generated_at: "2026-11-23T21:26:33.191Z"
+status: "active"
 ---
 
 # § 8259. Definitions
@@ -21,3 +22,7 @@ For the purposes of this part—
   - **(7)** the term “life cycle cost” means the total costs of owning, operating, and maintaining a building over its useful life (including such costs as fuel, energy, labor, and replacement components) determined on the basis of a systematic evaluation and comparison of alternative building systems, except that in the case of leased buildings, the life cycle costs shall be calculated over the effective remaining term of the lease;
   - **(8)** the term “renewable energy sources” includes, but is not limited to, sources such as agriculture and urban waste, geothermal energy, solar energy, and wind energy; and
   - **(9)** the term “Secretary” means the Secretary of Energy.
+
+## Source Credit
+
+*([Pub. L. 95–619, title V, § 551](https://www.govinfo.gov/link/plaw/95/public/619), formerly § 549, Nov. 9, 1978, [92 Stat. 3280](https://www.govinfo.gov/link/statute/92/3280); [Pub. L. 100–615, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/615), Nov. 5, 1988, [102 Stat. 3188](https://www.govinfo.gov/link/statute/102/3188); renumbered § 551, [Pub. L. 102–486, title I, § 152(h)(1)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2848](https://www.govinfo.gov/link/statute/106/2848); amended [Pub. L. 105–388, § 5(c)(5)](https://www.govinfo.gov/link/plaw/105/public/388), Nov. 13, 1998, [112 Stat. 3479](https://www.govinfo.gov/link/statute/112/3479); [Pub. L. 116–260, div. Z, title I, § 1002(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2422](https://www.govinfo.gov/link/statute/134/2422).)*

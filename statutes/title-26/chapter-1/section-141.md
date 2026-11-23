@@ -3,9 +3,10 @@ title: "Section 141 - Private activity bond; qualified bond"
 usc_title: 26
 usc_section: "141"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 141"
-generated_at: "2026-03-30T02:55:27.629Z"
+generated_at: "2026-11-23T21:26:06.016Z"
+status: "active"
 ---
 
 # § 141. Private activity bond; qualified bond
@@ -93,3 +94,388 @@ generated_at: "2026-03-30T02:55:27.629Z"
     - **(G)** a qualified 501(c)(3) bond.
   - **(2)** Such bond is issued as part of an issue which meets the applicable requirements of section 146, and 1 1 So in original. Probably should end with a period after “146”.
   - **(3)** Such bond meets the applicable requirements of each subsection of section 147.
+
+| Pool | Maximum Bond Amount |
+| --- | --- |
+| Tennessee Utility Districts Pool | $80,000,000 |
+| New Mexico Hospital Equipment Loan Council | $35,000,000 |
+| Pennsylvania Local Government Investment Trust Pool | $375,000,000 |
+| Indiana Bond Bank Pool | $240,000,000 |
+| Hernando County, Florida Bond Pool | $300,000,000 |
+| Utah Municipal Finance Cooperative Pool | $262,000,000 |
+| North Carolina League of Municipalities Pool | $200,000,000 |
+| Kentucky Municipal League Bond Pool | $170,000,000 |
+| Kentucky Association of Counties Bond Pool | $200,000,000 |
+| Homewood Municipal Bond Pool | $50,000,000 |
+| Colorado Association of School Boards Pool | $300,000,000 |
+| Tennessee Municipal League Pooled Bonds | $75,000,000 |
+| Georgia Municipal Association Pool | $130,000,000 |
+
+
+In general
+
+Binding agreements
+
+Transitional rule
+
+In General
+
+Section
+
+Increase in trade-in rate
+
+Certificates
+
+Changes in Use, Etc., of Facilities Financed With Private Activity Bonds
+
+Public Approval and Information Reporting
+
+Rebate Requirement for Qualified Scholarship Funding Bonds
+
+Section
+
+Exception for Construction or Binding Agreements.—
+
+In general
+
+Significant expenditures
+
+Certain Amendments To Apply to Bonds Under Subsection
+
+Transitional Rule.—
+
+In general
+
+Certain requirements apply only to bonds issued after december 31, 1986
+
+Application of volume cap
+
+Application of provisions
+
+Special Rules for Certain Government Bonds Issued After August
+
+In general
+
+Bond described
+
+Election Out
+
+Certain Current Refundings.—
+
+In general
+
+Qualified bond
+
+Certain amendments to apply
+
+Special rules for certain government bonds issued after august 15, 1986
+
+Certain Advance Refundings.—
+
+In general
+
+Non-idb’s, etc
+
+Certain amendments to apply
+
+Special rule for certain government bonds issued after august 15, 1986
+
+Certain refunding bonds subject to volume cap
+
+Treatment of Certain Refundings of Certain IDB’s and
+
+Bonds.—
+
+limit for certain small issue bonds
+
+limitation for certain 501(
+
+)(3) bonds
+
+Application to later issues
+
+Mortgage and Student Loan Targeting Rules To Apply to Loans Made More Than
+
+Years After the Date of the Original Issue
+
+Arbitrage Restriction on Investments in Annuities
+
+Temporary Period for Advance Refundings
+
+Determination of Yield
+
+Arbitrage Rebate Requirement.—
+
+In general
+
+Government bonds
+
+Certain pools.—
+
+In general
+
+Loans to unrelated governmental units
+
+Less than 75 percent of projects identified
+
+Less than 25 percent of funds committed to be borrowed
+
+Certain long maturity issues
+
+Special rules.—
+
+Exception from subparagraphs (c) and (d) where similar pools issued by issuer
+
+Determination of issuance
+
+Information Reporting
+
+Abusive Transaction Limitation on Advance Refundings To Apply
+
+Termination of Mortgage Bond Policy Statement Requirement
+
+Arbitrage Restriction on Investments in Investment-Type Property
+
+Section To Override Other Rules
+
+In General
+
+Certain Bonds for Carryforward Projects Outside of Volume Cap
+
+Volume Cap Not To Apply With Respect to Certain Facilities and Purposes
+
+Facilities and Purposes Described.—
+
+Treatment of Redevelopment Bonds
+
+Certain Loans to Veterans for the Purchase of Land.—
+
+In general
+
+Bond described
+
+Renewable Energy Property.—
+
+In general
+
+Bond described
+
+Certain State Programs.—
+
+In general
+
+Bond described
+
+limitation
+
+Application of section 147
+
+Use by Certain Federal Instrumentalities Treated as Use by Governmental Units
+
+Refunding Permitted of Certain Bonds Invested in Federally Insured Deposits.—
+
+In general
+
+Requirements
+
+Certain Hydroelectric Generating Property.—
+
+In general
+
+Description
+
+Treatment of Bonds Subject to Transitional Rules Under Tax Reform Act of
+
+Certain Pollution Bonds
+
+Transition Rule for Aggregate Limit per Taxpayer
+
+Extension of Advance Refunding Exception for Qualified Public Facility
+
+Expansion of Exception for River Place Project
+
+Docks and wharves
+
+Pollution control facilities
+
+Sports facilities
+
+Residential rental property
+
+Airports
+
+Redevelopment projects
+
+Convention centers
+
+Sports or convention facilities
+
+Parking facilities
+
+Certain advance refundings.—
+
+Principal user provisions.—
+
+Qualified scholarship funding bonds
+
+Residential rental property projects
+
+Qualified student loans
+
+Annuity contracts
+
+Solid waste disposal facility
+
+Refunding of bond anticipation notes
+
+Certain airports
+
+Mass commuting facilities
+
+Private colleges
+
+Pooled financing programs.—
+
+Downtown redevelopment project
+
+Exception for certain downtown redevelopment project
+
+Mass commuting and parking facilities
+
+Tax-exempt status of bonds of certain educational organizations.—
+
+In general
+
+Qualified educational organization
+
+Tax-exempt status of bonds of certain public utilities.—
+
+In general
+
+Special rules for subparagraph (a).—
+
+Bonds subject to cap
+
+Limitation on amount of bonds to which subparagraph (a) applies
+
+Limitation on purposes
+
+Convention and parking facilities
+
+Small issue termination
+
+Certain private loans not taken into account
+
+Certain private business use not taken into account.—
+
+Volume cap not to apply to certain facilities
+
+Certain hydroelectric generating property
+
+Volume cap
+
+Application of $150,000,000 limitation for certain qualified 501(
+
+)(3) bonds
+
+Arbitrage rebate
+
+Extension of carryforward period.—
+
+Power purchase bonds
+
+Qualified mortgage bonds
+
+Exempt facility bonds
+
+Certain bonds treated as qualified 501
+
+(3) bonds
+
+Certain library bonds
+
+Certain refunding obligations for certain power facilities
+
+Residential rental property
+
+Extension of advance refunding for certain facilities
+
+Pool bonds
+
+Tennessee Utility Districts Pool
+
+New Mexico Hospital Equipment Loan Council
+
+Pennsylvania Local Government Investment Trust Pool
+
+Indiana Bond Bank Pool
+
+Hernando County, Florida Bond Pool
+
+Utah Municipal Finance Cooperative Pool
+
+North Carolina League of Municipalities Pool
+
+Kentucky Municipal League Bond Pool
+
+Kentucky Association of Counties Bond Pool
+
+Homewood Municipal Bond Pool
+
+Colorado Association of School Boards Pool
+
+Tennessee Municipal League Pooled Bonds
+
+Georgia Municipal Association Pool
+
+Certain carryforward elections
+
+Treatment of certain obligations to finance hydroelectric generating facility
+
+Treatment of certain obligations to finance steam and electric cogeneration facility
+
+Treatment of certain obligations
+
+Transition rule for refunding certain housing bonds
+
+Transitioned bonds subject to certain rules
+
+Certain additional projects
+
+Termination
+
+Definitions
+
+code
+
+code
+
+Bond
+
+Advance refund
+
+Net proceeds
+
+Continued application of the 1954 code
+
+Treatment as exempt facility
+
+Application of future legislation to transitioned bonds
+
+Minimum Tax Treatment.—
+
+In general
+
+Bonds described
+
+Current Refundings Not Taken Into Account in Applying Aggregate Limit on Bonds to Which Transitional Rules Apply
+
+Special Rule Permitting Carryforward of Volume Cap for Certain Transitioned Projects
+
+“Notwithstanding any other provision of law or any regulations promulgated thereunder (including the provisions of 31 CFR part 344) the Secretary of the Treasury shall extend by January 1, 1987 , the State and Local Government Series program to provide—
+
+“The Secretary of the Treasury or his delegate shall modify the Secretary’s advance ruling guidelines relating to when use of property pursuant to a management contract is not considered a trade or business use by a private person for purposes of section 141(a) of the Internal Revenue Code of 1986 to provide that use pursuant to a management contract generally shall not be treated as trade or business use as long as—
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XIII, § 1301(b)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2603](https://www.govinfo.gov/link/statute/100/2603); amended [Pub. L. 100–203, title X, § 10631(a)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–453](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title I, § 1013(a)(38)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3544](https://www.govinfo.gov/link/statute/102/3544); [Pub. L. 109–58, title XIII, § 1327(b)](https://www.govinfo.gov/link/plaw/109/public/58), (c), Aug. 8, 2005, [119 Stat. 1019](https://www.govinfo.gov/link/statute/119/1019); [Pub. L. 117–58, div. H, title IV, § 80402(d)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1334](https://www.govinfo.gov/link/statute/135/1334).)*

@@ -3,9 +3,10 @@ title: "Section 57b - Civil actions for violations of rules and cease and desist
 usc_title: 15
 usc_section: "57b"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 57b"
-generated_at: "2026-03-30T02:54:08.027Z"
+generated_at: "2026-11-23T21:25:39.487Z"
+status: "active"
 ---
 
 # § 57b. Civil actions for violations of rules and cease and desist orders respecting unfair or deceptive acts or practices
@@ -19,3 +20,9 @@ generated_at: "2026-03-30T02:54:08.027Z"
   - **(2)** The court shall cause notice of an action under this section to be given in a manner which is reasonably calculated, under all of the circumstances, to apprise the persons, partnerships, and corporations allegedly injured by the defendant’s rule violation or act or practice of the pendency of such action. Such notice may, in the discretion of the court, be given by publication.
 - **(d)** No action may be brought by the Commission under this section more than 3 years after the rule violation to which an action under subsection (a)(1) relates, or the unfair or deceptive act or practice to which an action under subsection (a)(2) relates; except that if a cease and desist order with respect to any person’s, partnership’s, or corporation’s rule violation or unfair or deceptive act or practice has become final and such order was issued in a proceeding under section 45(b) of this title which was commenced not later than 3 years after the rule violation or act or practice occurred, a civil action may be commenced under this section against such person, partnership, or corporation at any time before the expiration of one year after such order becomes final.
 - **(e)** Remedies provided in this section are in addition to, and not in lieu of, any other remedy or right of action provided by State or Federal law. Nothing in this section shall be construed to affect any authority of the Commission under any other provision of law.
+
+“The amendment made by subsection (a) of this section [enacting this section] shall not apply to—
+
+## Source Credit
+
+*(Sept. 26, 1914, ch. 311, § 19, as added [Pub. L. 93–637, title II, § 206(a)](https://www.govinfo.gov/link/plaw/93/public/637), Jan. 4, 1975, [88 Stat. 2201](https://www.govinfo.gov/link/statute/88/2201).)*

@@ -3,9 +3,10 @@ title: "Section 6154 - Offices of the Secretaries of the Conference of the Major
 usc_title: 2
 usc_section: "6154"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 6154"
-generated_at: "2026-03-30T02:53:04.839Z"
+generated_at: "2026-11-23T21:25:21.347Z"
+status: "active"
 ---
 
 # § 6154. Offices of the Secretaries of the Conference of the Majority and the Conference of the Minority
@@ -14,3 +15,13 @@ generated_at: "2026-03-30T02:53:04.839Z"
 - **(b)** The Secretary of the Conference of the Majority or the Secretary of the Conference of the Minority may incur such expenses as may be necessary or appropriate. Expenses incurred by the Secretary of the Conference of the Majority or the Secretary of the Conference of the Minority shall be paid from the amount transferred under subsection (a) by the Secretary of the Conference of the Majority or the Secretary of the Conference of the Minority and upon vouchers approved by the Secretary of the Conference of the Majority or the Secretary of the Conference of the Minority, as applicable.
 - **(c)** The Secretary of the Senate may advance such sums as may be necessary to defray expenses incurred in carrying out subsections (a) and (b).
 - **(d)** This section shall apply to fiscal year 2008 and each fiscal year thereafter.
+
+offices of the secretaries of the conference of the majority and the conference of the minority
+
+Salaries, Officers and Employees
+
+miscellaneous items
+
+## Source Credit
+
+*([Pub. L. 110–161, div. H, title I, § 3](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2221](https://www.govinfo.gov/link/statute/121/2221).)*

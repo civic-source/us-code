@@ -3,9 +3,10 @@ title: "Section 5509 - Forfeitures"
 usc_title: 16
 usc_section: "5509"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 5509"
-generated_at: "2026-03-30T02:54:23.052Z"
+generated_at: "2026-11-23T21:25:52.032Z"
+status: "active"
 ---
 
 # § 5509. Forfeitures
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:23.052Z"
     - **(B)** discharge any living marine resources seized pursuant to such process;
   - **(2)** Any living marine resources seized pursuant to this chapter may be sold, subject to the approval of the appropriate court, for not less than the fair market value thereof. The proceeds of any such sale shall be deposited with such court pending the disposition of the matter involved.
 - **(e)** For purposes of this section, all living marine resources found on board a high seas fishing vessel and which are seized in connection with an act prohibited by section 5505 of this title are presumed to have been taken or retained in violation of this chapter, but the presumption can be rebutted by an appropriate showing of evidence to the contrary.
+
+## Source Credit
+
+*([Pub. L. 104–43, title I, § 110](https://www.govinfo.gov/link/plaw/104/public/43), Nov. 3, 1995, [109 Stat. 375](https://www.govinfo.gov/link/statute/109/375).)*

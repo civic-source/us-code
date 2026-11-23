@@ -3,9 +3,10 @@ title: "Section 5401 - Purposes"
 usc_title: 12
 usc_section: "5401"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5401"
-generated_at: "2026-03-30T02:53:53.537Z"
+generated_at: "2026-11-23T21:25:37.261Z"
+status: "active"
 ---
 
 # § 5401. Purposes
@@ -16,3 +17,7 @@ The purposes of this title 1 1 See References in Text note below. are—
   - **(2)** to preserve and protect the dual system of Federal and State-chartered depository institutions;
   - **(3)** to ensure the fair and appropriate supervision of each depository institution, regardless of the size or type of charter of the depository institution; and
   - **(4)** to streamline and rationalize the supervision of depository institutions and the holding companies of depository institutions.
+
+## Source Credit
+
+*([Pub. L. 111–203, title III, § 301](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1520](https://www.govinfo.gov/link/statute/124/1520).)*

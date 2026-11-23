@@ -3,9 +3,10 @@ title: "Section 1236 - Dealers in securities"
 usc_title: 26
 usc_section: "1236"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1236"
-generated_at: "2026-03-30T02:55:27.761Z"
+generated_at: "2026-11-23T21:26:06.473Z"
+status: "active"
 ---
 
 # § 1236. Dealers in securities
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:27.761Z"
     - **(B)** is registered as a specialist with the exchange, and
     - **(C)** meets the requirements for specialists established by the Securities and Exchange Commission.
 - **(e)** For purposes of subsection (a), any security acquired by a dealer pursuant to an option held by such dealer may be treated as held for investment only if the dealer, before the close of the day on which the option was acquired, clearly identified the option on his records as held for investment. For purposes of the preceding sentence, the term “option” includes the right to subscribe to or purchase any security.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 330; [Pub. L. 94–455, title XIX, § 1901(b)(3)(E)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1793](https://www.govinfo.gov/link/statute/90/1793); [Pub. L. 97–34, title V, § 506](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 332](https://www.govinfo.gov/link/statute/95/332); [Pub. L. 97–448, title I, § 105(d)(1)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2387](https://www.govinfo.gov/link/statute/96/2387); [Pub. L. 98–369, div. A, title I, § 107(b)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 630](https://www.govinfo.gov/link/statute/98/630); [Pub. L. 113–295, div. A, title II, § 221(a)(83)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4049](https://www.govinfo.gov/link/statute/128/4049).)*

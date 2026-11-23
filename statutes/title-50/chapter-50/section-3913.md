@@ -3,9 +3,10 @@ title: "Section 3913 - Protection of persons secondarily liable"
 usc_title: 50
 usc_section: "3913"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3913"
-generated_at: "2026-03-30T02:56:26.263Z"
+generated_at: "2026-11-23T21:26:39.077Z"
+status: "active"
 ---
 
 # § 3913. Protection of persons secondarily liable
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:26.263Z"
 - **(d)**
   - **(1)** This chapter does not prevent a waiver in writing by a surety, guarantor, endorser, accommodation maker, comaker, or other person (whether primarily or secondarily liable on an obligation or liability) of the protections provided under subsections (a) and (b). Any such waiver is effective only if it is executed as an instrument separate from the obligation or liability with respect to which it applies.
   - **(2)** If a waiver under paragraph (1) is executed by an individual who after the execution of the waiver enters military service, or by a dependent of an individual who after the execution of the waiver enters military service, the waiver is not valid after the beginning of the period of such military service unless the waiver was executed by such individual or dependent during the period specified in section 3917 of this title .
+
+## Source Credit
+
+*(Oct. 17, 1940, ch. 888, title I, § 103, as added [Pub. L. 108–189, § 1](https://www.govinfo.gov/link/plaw/108/public/189), Dec. 19, 2003, [117 Stat. 2838](https://www.govinfo.gov/link/statute/117/2838).)*

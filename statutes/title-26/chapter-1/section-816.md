@@ -3,9 +3,10 @@ title: "Section 816 - Life insurance company defined"
 usc_title: 26
 usc_section: "816"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 816"
-generated_at: "2026-03-30T02:55:27.730Z"
+generated_at: "2026-11-23T21:26:06.385Z"
+status: "active"
 ---
 
 # § 816. Life insurance company defined
@@ -33,3 +34,19 @@ generated_at: "2026-03-30T02:55:27.730Z"
 - **(f)** For purposes only of determining under subsection (a) whether or not an insurance company is a life insurance company, amounts set aside and held at interest to satisfy obligations under contracts which do not contain permanent guarantees with respect to life, accident, or health contingencies shall not be included in reserves described in paragraph (1) or (3) of subsection (c).
 - **(g)** A burial or funeral benefit insurance company engaged directly in the manufacture of funeral supplies or the performance of funeral services shall not be taxable under this part but shall be taxable under section 831.
 - **(h)** For purposes of this section and section 842(b)(2)(B)(i), the terms “life insurance reserves” and “total reserves” shall not include deficiency reserves.
+
+In general
+
+Effect of election on subsidiaries of electing parent
+
+Election
+
+Time and manner
+
+Effective date
+
+Revenue loss limited
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title II, § 211(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 748](https://www.govinfo.gov/link/statute/98/748); amended [Pub. L. 99–514, title XVIII, § 1821](https://www.govinfo.gov/link/plaw/99/public/514) (l), Oct. 22, 1986, [100 Stat. 2841](https://www.govinfo.gov/link/statute/100/2841); [Pub. L. 100–203, title X, § 10242(c)(2)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–423](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title I, § 1010(f)(6)](https://www.govinfo.gov/link/plaw/100/public/647), title II, § 2004(q)(1), Nov. 10, 1988, [102 Stat. 3454](https://www.govinfo.gov/link/statute/102/3454), 3608.)*

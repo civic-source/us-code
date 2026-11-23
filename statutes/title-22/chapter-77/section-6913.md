@@ -3,9 +3,10 @@ title: "Section 6913 - Membership of the Commission"
 usc_title: 22
 usc_section: "6913"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6913"
-generated_at: "2026-03-30T02:55:05.434Z"
+generated_at: "2026-11-23T21:25:58.700Z"
+status: "active"
 ---
 
 # § 6913. Membership of the Commission
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.434Z"
 - **(b)**
   - **(1)** At the beginning of each odd-numbered Congress, the President of the Senate, on the recommendation of the majority leader, shall designate one of the members of the Commission from the Senate as Chairman of the Commission. At the beginning of each even-numbered Congress, the Speaker of the House of Representatives shall designate one of the members of the Commission from the House as Chairman of the Commission.
   - **(2)** At the beginning of each odd-numbered Congress, the Speaker of the House of Representatives shall designate one of the members of the Commission from the House as Cochairman of the Commission. At the beginning of each even-numbered Congress, the President of the Senate, on the recommendation of the majority leader, shall designate one of the members of the Commission from the Senate as Cochairman of the Commission.
+
+## Source Credit
+
+*([Pub. L. 106–286, div. B, title III, § 303](https://www.govinfo.gov/link/plaw/106/public/286), Oct. 10, 2000, [114 Stat. 898](https://www.govinfo.gov/link/statute/114/898).)*

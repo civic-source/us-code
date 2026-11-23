@@ -3,9 +3,10 @@ title: "Section 769 - Definitions"
 usc_title: 47
 usc_section: "769"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 769"
-generated_at: "2026-03-30T02:56:24.526Z"
+generated_at: "2026-11-23T21:26:36.069Z"
+status: "active"
 ---
 
 # § 769. Definitions
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:56:24.526Z"
   - **(20)** The term “global maritime distress and safety services” or “GMDSS” means the automated ship-to-shore distress alerting system which uses satellite and advanced terrestrial systems for international distress communications and promoting maritime safety in general. The GMDSS permits the worldwide alerting of vessels, coordinated search and rescue operations, and dissemination of maritime safety information.
   - **(21)** The term “national security agency” means the National Security Agency, the Director of Central Intelligence and the Central Intelligence Agency, the Department of Defense, and the Coast Guard.
 - **(b)** Except as otherwise provided in subsection (a), terms used in this subchapter that are defined in section 153 of this title have the meanings provided in such section.
+
+## Source Credit
+
+*([Pub. L. 87–624, title VI, § 681](https://www.govinfo.gov/link/plaw/87/public/624), as added [Pub. L. 106–180, § 3](https://www.govinfo.gov/link/plaw/106/public/180), Mar. 17, 2000, [114 Stat. 58](https://www.govinfo.gov/link/statute/114/58).)*

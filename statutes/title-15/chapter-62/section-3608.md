@@ -3,9 +3,10 @@ title: "Section 3608 - Judicial determinations respecting uncon­scionable lease
 usc_title: 15
 usc_section: "3608"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3608"
-generated_at: "2026-03-30T02:54:08.191Z"
+generated_at: "2026-11-23T21:25:39.972Z"
+status: "active"
 ---
 
 # § 3608. Judicial determinations respecting uncon­scionable leases
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:08.191Z"
 - **(e)** Nothing in this section may be construed to authorize the bringing of an action by cooperative and condominium unit owners’ association, seeking a judicial determination that a lease or leases, or portions thereof, are unconscionable, where such unit owners or a unit owners’ association representing them has, after the termination of special developer control, reached an agreement with a holder of such lease or leases which either—
   - **(1)** sets forth the terms and conditions under which such lease or leases is or shall be purchased by such unit owners or associations; or
   - **(2)** reforms any clause in the lease which contained an automatic rent increase clause, unless such agreement was entered into when the leaseholder or his affiliate held a majority of the votes in the owners’ association.
+
+## Source Credit
+
+*([Pub. L. 96–399, title VI, § 609](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1677](https://www.govinfo.gov/link/statute/94/1677).)*

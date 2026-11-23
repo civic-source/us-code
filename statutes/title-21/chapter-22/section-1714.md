@@ -3,9 +3,10 @@ title: "Section 1714 - Awards for demonstration programs by local partnerships t
 usc_title: 21
 usc_section: "1714"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 1714"
-generated_at: "2026-03-30T02:54:54.307Z"
+generated_at: "2026-11-23T21:25:56.293Z"
+status: "active"
 ---
 
 # § 1714. Awards for demonstration programs by local partnerships to coerce abstinence in chronic hard-drug users under community supervision through the use of drug testing and sanctions
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:54.307Z"
   - **(1)** Not later than June 1, 2009 , the Director shall submit to Congress a report that identifies the best practices in reducing the use of illicit drugs by chronic hard-drug users, including the best practices identified through the activities funded under this section.
   - **(2)** Not later than June 1, 2010 , the Director shall submit to Congress a report on the demonstration programs funded under this section, including on the matters specified in paragraph (1).
 - **(e)** There is authorized to be appropriated to carry out this section $4,900,000 for each of fiscal years 2007 through 2009.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. C, title VII, § 716](https://www.govinfo.gov/link/plaw/105/public/277), as added [Pub. L. 109–469, title XI, § 1119](https://www.govinfo.gov/link/plaw/109/public/469), Dec. 29, 2006, [120 Stat. 3547](https://www.govinfo.gov/link/statute/120/3547); amended [Pub. L. 105–277, div. C](https://www.govinfo.gov/link/plaw/105/public/277). title VII, § 715, Oct. 21, 1998, [112 Stat. 2681–693](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 109–469, title VI, § 602](https://www.govinfo.gov/link/plaw/109/public/469), Dec. 29, 2006, [120 Stat. 3533](https://www.govinfo.gov/link/statute/120/3533); [Pub. L. 115–271, title VIII, § 8202(a)](https://www.govinfo.gov/link/plaw/115/public/271), (b)(2), Oct. 24, 2018, [132 Stat. 4110](https://www.govinfo.gov/link/statute/132/4110).)*

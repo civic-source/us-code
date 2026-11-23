@@ -3,9 +3,10 @@ title: "Section 101931 - Contract authority"
 usc_title: 54
 usc_section: "101931"
 chapter: 1019
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "54 U.S.C. § 101931"
-generated_at: "2026-03-30T02:56:28.416Z"
+generated_at: "2026-11-23T21:26:42.771Z"
+status: "active"
 ---
 
 # § 101931. Contract authority
@@ -17,3 +18,17 @@ generated_at: "2026-03-30T02:56:28.416Z"
   - **(2)** No contracts may be awarded under this subchapter—
     - **(A)** for the provision of outfitter and guide services described in section 101913(8); or
     - **(B)** to authorize the provision of facilities or services for which the Secretary has granted to an existing concessioner a preferential right of renewal as defined in sections 101911 and 101913.
+
+General Authority
+
+Additional Authority
+
+Use of Commercial Services Contracts.—
+
+In general
+
+Exceptions
+
+## Source Credit
+
+*(Added [Pub. L. 114–289, title VII, § 701](https://www.govinfo.gov/link/plaw/114/public/289), Dec. 16, 2016, [130 Stat. 1492](https://www.govinfo.gov/link/statute/130/1492).)*

@@ -3,9 +3,10 @@ title: "Section 7174 - Local competitive subgrant program"
 usc_title: 20
 usc_section: "7174"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7174"
-generated_at: "2026-03-30T02:54:48.206Z"
+generated_at: "2026-11-23T21:25:47.553Z"
+status: "active"
 ---
 
 # § 7174. Local competitive subgrant program
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:54:48.206Z"
   - **(2)** The State educational agency shall provide the same priority under paragraph (1) to an application submitted by a local educational agency if the local educational agency demonstrates that it is unable to partner with a community-based organization in reasonable geographic proximity and of sufficient quality to meet the requirements of this part.
   - **(3)** A State educational agency may not give a priority or a preference to eligible entities that seek to use funds made available under this part to extend the regular school day.
 - **(j)** A State educational agency may renew a subgrant provided under this part to an eligible entity, based on the eligible entity’s performance during the preceding subgrant period.
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4204](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title IV, § 401](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1769](https://www.govinfo.gov/link/statute/115/1769); amended [Pub. L. 114–95, title IV, § 4201(a)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1988](https://www.govinfo.gov/link/statute/129/1988).)*

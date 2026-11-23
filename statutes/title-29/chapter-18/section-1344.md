@@ -3,9 +3,10 @@ title: "Section 1344 - Allocation of assets"
 usc_title: 29
 usc_section: "1344"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1344"
-generated_at: "2026-03-30T02:55:18.732Z"
+generated_at: "2026-11-23T21:26:02.290Z"
+status: "active"
 ---
 
 # § 1344. Allocation of assets
@@ -72,3 +73,7 @@ generated_at: "2026-03-30T02:55:18.732Z"
     - **(A)** whether the amount of outstanding benefit liabilities exceeds $20,000,000, or
     - **(B)** the amount of any liability under section 1362 of this title to the corporation or the trustee appointed under section 1342(b) or (c) of this title.
   - **(4)** Determinations under this subsection shall be made by the corporation. Such determinations shall be binding unless shown by clear and convincing evidence to be unreasonable.
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4044](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 1025](https://www.govinfo.gov/link/statute/88/1025); [Pub. L. 96–364, title IV, § 402(a)(7)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1299](https://www.govinfo.gov/link/statute/94/1299); [Pub. L. 99–272, title XI, § 11016(c)(12)](https://www.govinfo.gov/link/plaw/99/public/272), (13), Apr. 7, 1986, [100 Stat. 274](https://www.govinfo.gov/link/statute/100/274); [Pub. L. 100–203, title IX, § 9311(a)(1)](https://www.govinfo.gov/link/plaw/100/public/203), (b), (c), Dec. 22, 1987, [101 Stat. 1330–359](https://www.govinfo.gov/link/statute/101/1330), 1330–360; [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7881(e)(3), 7891(a)(1), 7894(g)(2), Dec. 19, 1989, [103 Stat. 2440](https://www.govinfo.gov/link/statute/103/2440), 2445, 2451; [Pub. L. 101–508, title XII, § 12002(b)(2)(B)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–566](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 109–280, title IV](https://www.govinfo.gov/link/plaw/109/public/280), §§ 404(b), 407(b), 408(b)(2), Aug. 17, 2006, [120 Stat. 928](https://www.govinfo.gov/link/statute/120/928), 930, 931; [Pub. L. 110–458, title I, § 104(c)](https://www.govinfo.gov/link/plaw/110/public/458), Dec. 23, 2008, [122 Stat. 5104](https://www.govinfo.gov/link/statute/122/5104).)*

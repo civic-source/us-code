@@ -3,9 +3,10 @@ title: "Section 6701 - Findings"
 usc_title: 16
 usc_section: "6701"
 chapter: 86
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6701"
-generated_at: "2026-03-30T02:54:23.066Z"
+generated_at: "2026-11-23T21:25:52.050Z"
+status: "active"
 ---
 
 # § 6701. Findings
@@ -46,3 +47,7 @@ Congress finds that—
     - **(A)** the design, implementation, monitoring, and adaptation of landscape scale restoration treatments and improvement of wildfire management;
     - **(B)** the environmental review process; and
     - **(C)** affected entities that collaborate in the development and implementation of wildfire treatment.
+
+## Source Credit
+
+*([Pub. L. 108–317, § 2](https://www.govinfo.gov/link/plaw/108/public/317), Oct. 5, 2004, [118 Stat. 1204](https://www.govinfo.gov/link/statute/118/1204).)*

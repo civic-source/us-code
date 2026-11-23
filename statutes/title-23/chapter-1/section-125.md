@@ -3,9 +3,10 @@ title: "Section 125 - Emergency relief"
 usc_title: 23
 usc_section: "125"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 125"
-generated_at: "2026-03-30T02:55:12.550Z"
+generated_at: "2026-11-23T21:25:53.870Z"
+status: "active"
 ---
 
 # § 125. Emergency relief
@@ -65,3 +66,61 @@ generated_at: "2026-03-30T02:55:12.550Z"
       - **(ii)** the budget authority associated with the expenditure shall be restored to the agency from which the authority was derived and shall be available for obligation until the end of the fiscal year following the year in which the transfer occurs.
 - **(f)** For purposes of this section, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall be considered to be States and parts of the United States, and the chief executive officer of each such territory shall be considered to be a Governor of a State.
 - **(g)** The Secretary may use not more than 5 percent of amounts from the emergency fund authorized by this section to carry out projects that the Secretary determines are necessary to protect the public safety or to maintain or protect roadways that are included within the scope of an emergency declaration by the Governor of the State or by the President, in accordance with this section, and the Governor deems to be an ongoing concern in order to maintain vehicular traffic on the roadway.
+
+In General
+
+Restriction on Eligibility
+
+Funding.—
+
+In general
+
+Limitations
+
+Eligibility.—
+
+In general
+
+Cost limitation.—
+
+Definition of comparable facility
+
+Limitation
+
+Protective features.—
+
+In general
+
+Protective features described
+
+Debris removal
+
+Substitute traffic
+
+Tribal Transportation Facilities, Federal Lands Transportation Facilities, and Public Roads on Federal Lands.—
+
+Definitions
+
+Open to public travel
+
+Standard passenger vehicle
+
+Expenditure of funds
+
+Reimbursement.—
+
+In general
+
+Transfers
+
+Treatment of Territories
+
+Protecting Public Safety and Maintaining Roadways
+
+Definition of Emergency Relief Project
+
+Improving the Emergency Relief Program
+
+## Source Credit
+
+*([Pub. L. 85–767](https://www.govinfo.gov/link/plaw/85/public/767), Aug. 27, 1958, [72 Stat. 901](https://www.govinfo.gov/link/statute/72/901); [Pub. L. 86–342, title I, § 107(a)](https://www.govinfo.gov/link/plaw/86/public/342), Sept. 21, 1959, [73 Stat. 612](https://www.govinfo.gov/link/statute/73/612); [Pub. L. 89–574, § 9(b)](https://www.govinfo.gov/link/plaw/89/public/574), (c), Sept. 13, 1966, [80 Stat. 769](https://www.govinfo.gov/link/statute/80/769); [Pub. L. 90–495, § 27(a)](https://www.govinfo.gov/link/plaw/90/public/495), Aug. 23, 1968, [82 Stat. 829](https://www.govinfo.gov/link/statute/82/829); [Pub. L. 91–605, title I, § 109(a)](https://www.govinfo.gov/link/plaw/91/public/605), Dec. 31, 1970, [84 Stat. 1718](https://www.govinfo.gov/link/statute/84/1718); [Pub. L. 92–361](https://www.govinfo.gov/link/plaw/92/public/361), Aug. 3, 1972, [86 Stat. 503](https://www.govinfo.gov/link/statute/86/503); [Pub. L. 94–280, title I, § 119](https://www.govinfo.gov/link/plaw/94/public/280), May 5, 1976, [90 Stat. 437](https://www.govinfo.gov/link/statute/90/437); [Pub. L. 95–599, title I, § 119](https://www.govinfo.gov/link/plaw/95/public/599), Nov. 6, 1978, [92 Stat. 2700](https://www.govinfo.gov/link/statute/92/2700); [Pub. L. 96–106, § 19](https://www.govinfo.gov/link/plaw/96/public/106), Nov. 9, 1979, [93 Stat. 799](https://www.govinfo.gov/link/statute/93/799); [Pub. L. 97–424, title I, § 153(a)](https://www.govinfo.gov/link/plaw/97/public/424), (c), (d), (h), Jan. 6, 1983, [96 Stat. 2132](https://www.govinfo.gov/link/statute/96/2132), 2133; [Pub. L. 99–190, § 101(e) [title III, § 334]](https://www.govinfo.gov/link/plaw/99/public/190), Dec. 19, 1985, [99 Stat. 1267](https://www.govinfo.gov/link/statute/99/1267), 1290; [Pub. L. 99–272, title IV, § 4103](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 114](https://www.govinfo.gov/link/statute/100/114); [Pub. L. 100–17, title I](https://www.govinfo.gov/link/plaw/100/public/17), §§ 118(a)(1), (b)(1), (2), 133(b)(9), Apr. 2, 1987, [101 Stat. 156](https://www.govinfo.gov/link/statute/101/156), 171; [Pub. L. 100–707, § 109(k)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4709](https://www.govinfo.gov/link/statute/102/4709); [Pub. L. 102–240, title I, § 1022(b)](https://www.govinfo.gov/link/plaw/102/public/240), Dec. 18, 1991, [105 Stat. 1951](https://www.govinfo.gov/link/statute/105/1951); [Pub. L. 102–302, § 101](https://www.govinfo.gov/link/plaw/102/public/302), June 22, 1992, [106 Stat. 252](https://www.govinfo.gov/link/statute/106/252); [Pub. L. 105–178, title I](https://www.govinfo.gov/link/plaw/105/public/178), §§ 1113(b), 1212(a)(2)(A)(i), June 9, 1998, [112 Stat. 151](https://www.govinfo.gov/link/statute/112/151), 193; [Pub. L. 112–141, div. A, title I, § 1107](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 437](https://www.govinfo.gov/link/statute/126/437); [Pub. L. 114–94, div. A, title I, § 1107](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1337](https://www.govinfo.gov/link/statute/129/1337); [Pub. L. 116–94, div. H, title I, § 127](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 2953](https://www.govinfo.gov/link/statute/133/2953); [Pub. L. 117–58, div. A, title I, § 11106](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 458](https://www.govinfo.gov/link/statute/135/458).)*

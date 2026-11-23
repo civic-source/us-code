@@ -3,9 +3,10 @@ title: "Section 19053 - Research reproducibility and replicability"
 usc_title: 42
 usc_section: "19053"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19053"
-generated_at: "2026-03-30T02:56:11.538Z"
+generated_at: "2026-11-23T21:26:33.865Z"
+status: "active"
 ---
 
 # § 19053. Research reproducibility and replicability
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:11.538Z"
   - **(1)** support research and development of open source, sustainable, usable tools and infrastructure that support reproducibility for a broad range of studies across different disciplines;
   - **(2)** support research on computational reproducibility, including the limits of reproducibility and the consistency of computational results in the development of new computation hardware, tools, and methods; and
   - **(3)** support the education and training of students, faculty, and researchers on computational methods, tools, and techniques to improve the quality and sharing of data, code, and supporting metadata to produce reproducible research.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10344](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1558](https://www.govinfo.gov/link/statute/136/1558).)*

@@ -3,9 +3,10 @@ title: "Section 6039K - Returns with respect to qualified opportunity funds and 
 usc_title: 26
 usc_section: "6039K"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6039K"
-generated_at: "2026-03-30T02:55:27.832Z"
+generated_at: "2026-11-23T21:26:06.768Z"
+status: "active"
 ---
 
 # § 6039K. Returns with respect to qualified opportunity funds and qualified rural opportunity funds
@@ -49,3 +50,31 @@ generated_at: "2026-03-30T02:55:27.832Z"
   - **(1)** by substituting “qualified rural opportunity” for “qualified opportunity” each place it appears,
   - **(2)** by substituting “section 1400Z–2(b)(2)(C)” for “section 1400Z–2(d)(1)” each place it appears, and
   - **(3)** by treating any reference (after the application of paragraph (1)) to qualified rural opportunity zone stock, a qualified rural opportunity zone partnership interest, a qualified rural opportunity zone business, or qualified opportunity zone business property as stock, an interest, a business, or property, respectively, described in subclause (I) or (II), as the case may be, of section 1400Z–2(b)(2)(C)(i).
+
+In general
+
+Reports
+
+Information included
+
+Additional information.—
+
+In general
+
+Semi-decennial information.—
+
+In general
+
+Control groups
+
+Factors listed
+
+Protection of identifiable return information
+
+Definitions
+
+Reports on qualified rural opportunity funds
+
+## Source Credit
+
+*(Added [Pub. L. 119–21, title VII, § 70421(d)(1)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 227](https://www.govinfo.gov/link/statute/139/227).)*

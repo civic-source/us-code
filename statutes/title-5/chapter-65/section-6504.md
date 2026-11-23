@@ -3,9 +3,10 @@ title: "Section 6504 - Policy and support"
 usc_title: 5
 usc_section: "6504"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 6504"
-generated_at: "2026-03-30T02:52:56.034Z"
+generated_at: "2026-11-23T21:25:23.332Z"
+status: "active"
 ---
 
 # § 6504. Policy and support
@@ -38,3 +39,27 @@ generated_at: "2026-03-30T02:52:56.034Z"
     - **(C)** guidance developed by the Office of Personnel Management; and
     - **(D)** guidance submitted by the Federal Emergency Management Agency, and the General Services Administration to the Office of Personnel Management not later than 10 business days after the date of submission.
 - **(f)** Not later than 120 days after the date of the enactment of this chapter, the Director of the Office of Management and Budget shall issue policy guidance requiring each executive agency when purchasing computer systems, to purchase computer systems that enable and support telework, unless the head of the agency determines that there is a mission-specific reason not to do so.
+
+Agency Consultation With the Office of Personnel Management
+
+Guidance and Consultation
+
+Security Guidelines.—
+
+In general
+
+Contents
+
+Continuity of Operations Plans.—
+
+Incorporation into continuity of operations plans
+
+Continuity of operations plans supersede telework policy
+
+Telework Website
+
+Policy Guidance on Purchasing Computer Systems
+
+## Source Credit
+
+*(Added [Pub. L. 111–292, § 2(a)](https://www.govinfo.gov/link/plaw/111/public/292), Dec. 9, 2010, [124 Stat. 3167](https://www.govinfo.gov/link/statute/124/3167).)*

@@ -3,12 +3,17 @@ title: "Section 422b - Duties of Secretary of the Interior"
 usc_title: 16
 usc_section: "422b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 422b"
-generated_at: "2026-03-30T02:54:22.790Z"
+generated_at: "2026-11-23T21:25:51.500Z"
+status: "active"
 ---
 
 # § 422b. Duties of Secretary of the Interior
 
 The affairs of the Moores Creek National Battlefield shall be subject to the supervision and direction of the Secretary of the Interior, and it shall be the duty of the Interior Department, under the direction of the Secretary of the Interior, to open or repair such roads as may be necessary to the purposes of the battlefield, and to ascertain and mark with historical tablets or otherwise, as the Secretary of the Interior may determine, all lines of battle of the troops engaged in the Battle of Moores Creek, and other historical points of interest pertaining to the battle within the battlefield or its vicinity; and the Secretary of the Interior in establishing this battlefield is authorized to employ such labor and services and to obtain such supplies and material as may be considered best for the interest of the Government, and the Secretary of the Interior shall make and enforce all needed regulations for the care of the battlefield.
 
+
+## Source Credit
+
+*(June 2, 1926, ch. 448, § 3, [44 Stat. 685](https://www.govinfo.gov/link/statute/44/685); Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933; [Pub. L. 96–344, § 12](https://www.govinfo.gov/link/plaw/96/public/344), Sept. 8, 1980, [94 Stat. 1136](https://www.govinfo.gov/link/statute/94/1136).)*

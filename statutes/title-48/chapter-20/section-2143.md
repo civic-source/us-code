@@ -3,9 +3,10 @@ title: "Section 2143 - Effect of finding of noncompliance with Budget"
 usc_title: 48
 usc_section: "2143"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 2143"
-generated_at: "2026-03-30T02:56:14.603Z"
+generated_at: "2026-11-23T21:26:38.139Z"
+status: "active"
 ---
 
 # § 2143. Effect of finding of noncompliance with Budget
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:14.603Z"
       - **(i)** institute automatic hiring freezes at the covered territorial instrumentality; and
       - **(ii)** prohibit the covered territorial instrumentality from entering into any contract or engaging in any financial or other transactions, unless the contract or transaction was previously approved by the Oversight Board.
 - **(e)** The Oversight Board shall cancel the reductions, hiring freezes, or prohibition on contracts and financial transactions under subsection (d) if the Oversight Board determines that the territorial government or covered territorial instrumentality, as applicable, has initiated appropriate measures to reduce expenditures or increase revenues to ensure that the territorial government or covered territorial instrumentality is in compliance with the applicable certified Budget or, in the case of the fiscal year in which the Oversight Board is established, the budget adopted by the Governor and the Legislature.
+
+## Source Credit
+
+*([Pub. L. 114–187, title II, § 203](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 568](https://www.govinfo.gov/link/statute/130/568).)*

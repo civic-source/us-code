@@ -3,12 +3,17 @@ title: "Section 705 - Badge or medal of veterans’ organizations"
 usc_title: 18
 usc_section: "705"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 705"
-generated_at: "2026-03-30T02:54:16.468Z"
+generated_at: "2026-11-23T21:25:43.988Z"
+status: "active"
 ---
 
 # § 705. Badge or medal of veterans’ organizations
 
 Whoever knowingly manufactures, reproduces, sells or purchases for resale, either separately or on or appended to, any article of merchandise manufactured or sold, any badge, medal, emblem, or other insignia or any colorable imitation thereof, of any veterans’ organization incorporated by enactment of Congress, or of any organization formally recognized by any such veterans’ organization as an auxiliary of such veterans’ organization, or knowingly prints, lithographs, engraves or otherwise reproduces on any poster, circular, periodical, magazine, newspaper, or other publication, or circulates or distributes any such printed matter bearing a reproduction of such badge, medal, emblem, or other insignia or any colorable imitation thereof, except when authorized under rules and regulations prescribed by any such organization, shall be fined under this title or imprisoned not more than six months, or both.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 732](https://www.govinfo.gov/link/statute/62/732); Aug. 4, 1950, ch. 578, [64 Stat. 413](https://www.govinfo.gov/link/statute/64/413); [Pub. L. 103–322, title XXXIII, § 330016(1)(E)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2146](https://www.govinfo.gov/link/statute/108/2146).)*

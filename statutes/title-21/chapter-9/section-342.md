@@ -3,9 +3,10 @@ title: "Section 342 - Adulterated food"
 usc_title: 21
 usc_section: "342"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 342"
-generated_at: "2026-03-30T02:54:54.219Z"
+generated_at: "2026-11-23T21:25:55.983Z"
+status: "active"
 ---
 
 # § 342. Adulterated food
@@ -36,3 +37,19 @@ A food shall be deemed to be adulterated—
   - **(2)** The Secretary may by regulation prescribe good manufacturing practices for dietary supplements. Such regulations shall be modeled after current good manufacturing practice regulations for food and may not impose standards for which there is no current and generally available analytical methodology. No standard of current good manufacturing practice may be imposed unless such standard is included in a regulation promulgated after notice and opportunity for comment in accordance with chapter 5 of title 5.
 - **(h)** If it is an article of food imported or offered for import into the United States and the article of food has previously been refused admission under section 381(a) of this title , unless the person reoffering the article affirmatively establishes, at the expense of the owner or consignee of the article, that the article complies with the applicable requirements of this chapter, as determined by the Secretary.
 - **(i)** If it is transported or offered for transport by a shipper, carrier by motor vehicle or rail vehicle, receiver, or any other person engaged in the transportation of food under conditions that are not in compliance with regulations promulgated under section 350e of this title .
+
+“This Act [amending this section and section 321 of this title and enacting sections 346a and 346b of this title] shall take effect upon the date of its enactment [ July 22, 1954 ], except that with respect to pesticide chemicals for which tolerances or exemptions have not been established under section 408 of the Federal Food, Drug, and Cosmetic Act [ section 346a of this title ], the amendment to section 402(a) of such Act [par. (a) of this section] made by section 2 of this Act shall not be effective—
+
+In General
+
+Limitation
+
+Review and Evaluation
+
+Waiver
+
+Public Access
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 402, [52 Stat. 1046](https://www.govinfo.gov/link/statute/52/1046); Mar. 16, 1950, ch. 61, § 3(d), [64 Stat. 21](https://www.govinfo.gov/link/statute/64/21); July 22, 1954, ch. 559, § 2, [68 Stat. 511](https://www.govinfo.gov/link/statute/68/511); July 9, 1956, ch. 530, [70 Stat. 512](https://www.govinfo.gov/link/statute/70/512); [Pub. L. 85–929, § 3(a)](https://www.govinfo.gov/link/plaw/85/public/929), (b), Sept. 6, 1958, [72 Stat. 1784](https://www.govinfo.gov/link/statute/72/1784); [Pub. L. 86–2](https://www.govinfo.gov/link/plaw/86/public/2), Mar. 17, 1959, [73 Stat. 3](https://www.govinfo.gov/link/statute/73/3); [Pub. L. 86–618, title I](https://www.govinfo.gov/link/plaw/86/public/618), §§ 102(a)(1), (2), 105(c), July 12, 1960, [74 Stat. 397](https://www.govinfo.gov/link/statute/74/397), 398, 404; [Pub. L. 89–477](https://www.govinfo.gov/link/plaw/89/public/477), June 29, 1966, [80 Stat. 231](https://www.govinfo.gov/link/statute/80/231); [Pub. L. 90–399, § 104](https://www.govinfo.gov/link/plaw/90/public/399), July 13, 1968, [82 Stat. 352](https://www.govinfo.gov/link/statute/82/352); [Pub. L. 99–252, § 10](https://www.govinfo.gov/link/plaw/99/public/252), Feb. 27, 1986, [100 Stat. 35](https://www.govinfo.gov/link/statute/100/35); [Pub. L. 102–571, title I, § 107(4)](https://www.govinfo.gov/link/plaw/102/public/571), Oct. 29, 1992, [106 Stat. 4499](https://www.govinfo.gov/link/statute/106/4499); [Pub. L. 103–80, § 3(i)](https://www.govinfo.gov/link/plaw/103/public/80), Aug. 13, 1993, [107 Stat. 776](https://www.govinfo.gov/link/statute/107/776); [Pub. L. 103–417](https://www.govinfo.gov/link/plaw/103/public/417), §§ 4, 9, Oct. 25, 1994, [108 Stat. 4328](https://www.govinfo.gov/link/statute/108/4328), 4332; [Pub. L. 104–170, title IV, § 404](https://www.govinfo.gov/link/plaw/104/public/170), Aug. 3, 1996, [110 Stat. 1514](https://www.govinfo.gov/link/statute/110/1514); [Pub. L. 107–188, title III, § 309](https://www.govinfo.gov/link/plaw/107/public/188), June 12, 2002, [116 Stat. 673](https://www.govinfo.gov/link/statute/116/673); [Pub. L. 109–59, title VII, § 7202(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1911](https://www.govinfo.gov/link/statute/119/1911).)*

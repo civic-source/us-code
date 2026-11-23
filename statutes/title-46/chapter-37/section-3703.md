@@ -3,9 +3,10 @@ title: "Section 3703 - Regulations"
 usc_title: 46
 usc_section: "3703"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 3703"
-generated_at: "2026-03-30T02:56:15.544Z"
+generated_at: "2026-11-23T21:26:37.054Z"
+status: "active"
 ---
 
 # § 3703. Regulations
@@ -25,3 +26,94 @@ generated_at: "2026-03-30T02:56:15.544Z"
   - **(3)** representatives of port and harbor authorities and associations;
   - **(4)** representatives of environmental groups; and
   - **(5)** other interested parties knowledgeable or experienced in dealing with problems involving vessel safety, port and waterways safety, and protection of the marine environment.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 3703 | 46:391a(6) 46:391a(12) |
+
+
+Historical and Revision Notes
+
+3703
+
+Application
+
+Definition
+
+In general
+
+Interim final rule authority
+
+Interim period
+
+Regulations
+
+Application With State Laws
+
+Report
+
+Measures
+
+Confidentiality of Voluntarily Submitted Information
+
+Discovery of Voluntarily Submitted Information.—
+
+In general
+
+Exception.—
+
+Application
+
+Restriction on Use of Data
+
+Study of Group-
+
+Fuel Oil Spills.—
+
+Definition
+
+Coordination of study
+
+Matters to be included
+
+Report
+
+Rulemaking
+
+Study of Automatic Fueling Shutoff Equipment.—
+
+Coordination of study
+
+Matters to be included
+
+Report
+
+Rulemaking
+
+Lightering Study
+
+Funding
+
+Use of Public Vessels
+
+“Not later than 1 year after the date of the enactment of this Act [ Aug. 18, 1990 ], the Secretary shall issue regulations for vessels constructed or adapted to carry, or that carry, oil in bulk as cargo or cargo residue—
+
+Standards
+
+Use
+
+Escorts for Certain Tankers
+
+In general
+
+Prince william sound, alaska.—
+
+In general
+
+Implementation of requirements
+
+Tanker Defined
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 522](https://www.govinfo.gov/link/statute/97/522).)*

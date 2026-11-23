@@ -3,9 +3,10 @@ title: "Section 5481 - Definitions"
 usc_title: 12
 usc_section: "5481"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5481"
-generated_at: "2026-03-30T02:53:53.541Z"
+generated_at: "2026-11-23T21:25:37.271Z"
+status: "active"
 ---
 
 # § 5481. Definitions
@@ -148,3 +149,13 @@ Except as otherwise provided in this title, 1 1 See References in Text note belo
       - **(iv)** purchased on a prepaid basis in exchange for payment; and
       - **(v)** honored upon presentation to such merchant, retailer, or seller of nonfinancial goods or services or an affiliate of such person, which affiliate itself is a merchant, retailer, or seller of nonfinancial goods or services, only for any nonfinancial goods or services.
   - **(29)** The term “transmitting or exchanging funds” means receiving currency, monetary value, or payment instruments from a consumer for the purpose of exchanging or transmitting the same by any means, including transmission by wire, facsimile, electronic transfer, courier, the Internet, or through bill payment services or through other businesses that facilitate third-party transfers within the United States or to or from the United States.
+
+(aa) collects, analyzes, or maintains information that relates solely to the transactions between a consumer and such person;
+
+(bb) provides the information described in item (aa) to an affiliate of such person; or
+
+(cc) provides information that is used or expected to be used solely in any decision regarding the offering or provision of a product or service that is not a consumer financial product or service, including a decision for employment, government licensing, or a residential lease or tenancy involving a consumer; and
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1002](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1955](https://www.govinfo.gov/link/statute/124/1955).)*

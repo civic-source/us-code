@@ -3,9 +3,10 @@ title: "Section 22103 - Applications"
 usc_title: 49
 usc_section: "22103"
 chapter: 221
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 22103"
-generated_at: "2026-03-30T02:56:19.340Z"
+generated_at: "2026-11-23T21:26:40.720Z"
+status: "active"
 ---
 
 # § 22103. Applications
@@ -17,3 +18,71 @@ generated_at: "2026-03-30T02:56:19.340Z"
   - **(3)** the ratio of benefits to costs for a proposed project calculated using the methodology established under section 22101(b) of this title .
   - **(4)** the likelihood that the rail line will continue operating with assistance.
   - **(5)** the impact of rail bankruptcies, rail restructuring, and rail mergers on the State.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 22103(a) | 49 App.:1654(f) (1st sentence). | Oct. 15, 1966 , Pub. L. 89–670 , 80 Stat. 931 , § 5(f); added Feb. 5, 1976 , Pub. L. 94–210, § 803 , 90 Stat. 130 ; Nov. 8, 1978 , Pub. L. 95–607 , §§ 102–106(a), 107–109(a), 92 Stat. 3059 , 3062; Oct. 12, 1979 , Pub. L. 96–86, § 115(b) , 93 Stat. 662 ; Aug. 13, 1981 , Pub. L. 97–35 , §§ 1191, 1192, 95 Stat. 699 ; Jan. 14, 1983 , Pub. L. 97–468, § 501 , 96 Stat. 2551 ; Apr. 7, 1986 , Pub. L. 99–272, § 4018 , 100 Stat. 111 ; restated Dec. 11, 1989 , Pub. L. 101–213, § 2(a) , (c), 103 Stat. 1843 , 1846. |
+| 22103(b) | 49 App.:1654(f) (last sentence). |  |
+
+
+Filing
+
+Considerations
+
+Historical and Revision Notes
+
+22103(a)
+
+Oct. 15, 1966
+
+Pub. L. 89–670
+
+80 Stat. 931
+
+Feb. 5, 1976
+
+Pub. L. 94–210, § 803
+
+90 Stat. 130
+
+Nov. 8, 1978
+
+Pub. L. 95–607
+
+92 Stat. 3059
+
+Oct. 12, 1979
+
+Pub. L. 96–86, § 115(b)
+
+93 Stat. 662
+
+Aug. 13, 1981
+
+Pub. L. 97–35
+
+95 Stat. 699
+
+Jan. 14, 1983
+
+Pub. L. 97–468, § 501
+
+96 Stat. 2551
+
+Apr. 7, 1986
+
+Pub. L. 99–272, § 4018
+
+100 Stat. 111
+
+Dec. 11, 1989
+
+Pub. L. 101–213, § 2(a)
+
+103 Stat. 1843
+
+22103(b)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 896](https://www.govinfo.gov/link/statute/108/896); [Pub. L. 104–88, title III, § 308(f)(3)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 947](https://www.govinfo.gov/link/statute/109/947).)*

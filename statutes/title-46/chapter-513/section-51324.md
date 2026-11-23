@@ -3,9 +3,10 @@ title: "Section 51324 - Unfilled vacancies"
 usc_title: 46
 usc_section: "51324"
 chapter: 513
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 51324"
-generated_at: "2026-03-30T02:56:15.571Z"
+generated_at: "2026-11-23T21:26:37.236Z"
+status: "active"
 ---
 
 # § 51324. Unfilled vacancies
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:56:15.571Z"
   - **(2)** student health and well being;
   - **(3)** Academy governance; or
   - **(4)** any other priority areas identified by the Council.
+
+In General
+
+Critical Position Defined
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. C, title XXXV, § 3501(c)(1)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2238](https://www.govinfo.gov/link/statute/135/2238).)*

@@ -3,9 +3,10 @@ title: "Section 1524 - Water furnished from Central Arizona Project"
 usc_title: 43
 usc_section: "1524"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1524"
-generated_at: "2026-03-30T02:55:57.475Z"
+generated_at: "2026-11-23T21:26:19.844Z"
+status: "active"
 ---
 
 # § 1524. Water furnished from Central Arizona Project
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:57.475Z"
 - **(f)**
   - **(1)** In the operation of the Central Arizona Project, the Secretary shall offer to contract with water users in the State of New Mexico, with the approval of its Interstate Stream Commission, or with the State of New Mexico, through its Interstate Stream Commission, for water from the Gila River, its tributaries and underground water sources in amounts that will permit consumptive use of water in New Mexico of not to exceed an annual average in any period of 10 consecutive years of 14,000 acre-feet, including reservoir evaporation, over and above the consumptive uses provided for by article IV of the decree of the Supreme Court of the United States in Arizona v. California (376 U.S. 340). Such increased consumptive uses shall continue only so long as delivery of Colorado River water to downstream Gila River users in Arizona is being accomplished in accordance with this chapter, in quantities sufficient to replace any diminution of their supply resulting from such diversion from the Gila River, its tributaries and underground water sources. In determining the amount required for this purpose, full consideration shall be given to any differences in the quality of the water involved.
   - **(2)** All additional consumptive uses provided for in clauses (1) and (2) 1 1 So in original. of this subsection shall be subject to all rights in New Mexico and Arizona as established by the decree entered by the United States District Court for the District of Arizona on June 29, 1935 , in United States against Gila Valley Irrigation District and others (Globe Equity Numbered 59) and to all other rights existing on September 30, 1968 , in New Mexico and Arizona to water from the Gila River, its tributaries, and underground water sources, and shall be junior thereto and shall be made only to the extent possible without economic injury or cost to the holders of such rights.
+
+## Source Credit
+
+*([Pub. L. 90–537, title III, § 304](https://www.govinfo.gov/link/plaw/90/public/537), Sept. 30, 1968, [82 Stat. 891](https://www.govinfo.gov/link/statute/82/891); [Pub. L. 102–575, title XXXVII, § 3710(k)](https://www.govinfo.gov/link/plaw/102/public/575), Oct. 30, 1992, [106 Stat. 4751](https://www.govinfo.gov/link/statute/106/4751); [Pub. L. 108–451, title II, § 212(d)](https://www.govinfo.gov/link/plaw/108/public/451), Dec. 10, 2004, [118 Stat. 3528](https://www.govinfo.gov/link/statute/118/3528).)*

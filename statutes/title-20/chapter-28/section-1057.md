@@ -3,9 +3,10 @@ title: "Section 1057 - Program purpose"
 usc_title: 20
 usc_section: "1057"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1057"
-generated_at: "2026-03-30T02:54:48.099Z"
+generated_at: "2026-11-23T21:25:47.030Z"
+status: "active"
 ---
 
 # § 1057. Program purpose
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:54:48.099Z"
   - **(1)** An eligible institution may use not more than 20 percent of the grant funds provided under this part to establish or increase an endowment fund at such institution.
   - **(2)** In order to be eligible to use grant funds in accordance with paragraph (1), the eligible institution shall provide matching funds from non-Federal sources, in an amount equal to or greater than the Federal funds used in accordance with paragraph (1), for the establishment or increase of the endowment fund.
   - **(3)** The provisions of part C, regarding the establishment or increase of an endowment fund, that the Secretary determines are not inconsistent with this subsection, shall apply to funds used under paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 89–329, title III, § 311](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title III, § 301(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1291](https://www.govinfo.gov/link/statute/100/1291); amended [Pub. L. 100–50, § 2(a)(1)](https://www.govinfo.gov/link/plaw/100/public/50), June 3, 1987, [101 Stat. 335](https://www.govinfo.gov/link/statute/101/335); [Pub. L. 105–244, title III](https://www.govinfo.gov/link/plaw/105/public/244), §§ 301(c)(1), 303(a), Oct. 7, 1998, [112 Stat. 1636](https://www.govinfo.gov/link/statute/112/1636), 1638; [Pub. L. 110–315, title III, § 301](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3166](https://www.govinfo.gov/link/statute/122/3166).)*

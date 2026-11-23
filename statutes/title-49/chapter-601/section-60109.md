@@ -3,9 +3,10 @@ title: "Section 60109 - High-density population areas and environmentally sensit
 usc_title: 49
 usc_section: "60109"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 60109"
-generated_at: "2026-03-30T02:56:19.413Z"
+generated_at: "2026-11-23T21:26:41.021Z"
+status: "active"
 ---
 
 # § 60109. High-density population areas and environmentally sensitive areas
@@ -117,3 +118,210 @@ generated_at: "2026-03-30T02:56:19.413Z"
   - **(3)** For purposes of this subsection, the term “high consequence area” has the meaning given that term in section 195.450 of title 49, Code of Federal Regulations.
   - **(4)** The Secretary shall conduct inspections under section 60117(d) to determine whether each operator of a pipeline facility to which this subsection applies is complying with this section.
   - **(5)** In carrying out this subsection, each operator shall implement procedures that assess potential impacts by maritime equipment or other vessels, including anchors, anchor chains, or any other attached equipment.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60109(a) (1)(A) | 49 App.:1672(i)(1) (1st sentence), (2). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 3(i); added Oct. 24, 1992 , Pub. L. 102–508, § 102(a)(2) , 106 Stat. 3291 . |
+| 60109(a) (1)(B) | 49 App.:2002(m)(1) (1st sentence). | Nov. 30, 1979 , Pub. L. 96–129 , 93 Stat. 989 , § 203(m); added Oct. 24, 1992 , Pub. L. 102–508, § 202(a)(2) , 106 Stat. 3300 . |
+| 60109(a)(2) | 49 App.:1672(i)(1) (last sentence). |  |
+|  | 49 App.:2002(m)(1) (2d sentence). |  |
+| 60109(b) | 49 App.:2002(m)(1) (last sentence). |  |
+
+
+Identification Requirements
+
+Areas To Be Included as Unusually Sensitive
+
+Risk Analysis and Integrity Management Programs.—
+
+Requirement
+
+Regulations.—
+
+In general
+
+Authority to issue regulations
+
+Minimum requirements of integrity management programs
+
+Treatment of baseline integrity assessments
+
+Waivers and modifications
+
+Standards
+
+Additional optional standards
+
+Lack of regulations
+
+Review of integrity management programs.—
+
+Review of programs.—
+
+In general
+
+Context of review
+
+Inadequate programs
+
+Amendments to programs
+
+Transmittal of programs to state authorities
+
+State review of integrity management plans
+
+Application of standards
+
+Distribution pipelines.—
+
+Study
+
+Report
+
+Evaluation of Integrity Management Regulations
+
+Distribution Integrity Management Programs.—
+
+Minimum standards
+
+Additional authority of secretary
+
+Excess flow valves.—
+
+In general
+
+Distribution branch services, multifamily facilities, and small commercial facilities
+
+Reports
+
+Applicability
+
+Development and implementation
+
+Savings clause
+
+Evaluation of risk.—
+
+In general
+
+Consideration
+
+Deadlines.—
+
+In general
+
+Updates
+
+Applicability of foia
+
+Review of plans and documents.—
+
+Timing.—
+
+In general
+
+Grace period
+
+(aa) shall not use subclause (I) as justification to reduce funding, decertify, or penalize in any way under section 60105, 60106, or 60107 a State authority that has in effect a certification under section 60105 or an agreement under section 60106; and
+
+(bb) shall— (AA) submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Energy and Commerce of the House of Representatives a list of States found to be noncompliant with subclause (I) during the annual program evaluation; and (BB) provide a written notice to each State authority described in item (aa) that is not in compliance with the requirements of subclause (I).
+
+Review
+
+Context of review
+
+Inadequate programs
+
+Certification of Pipeline Integrity Management Program Performance
+
+Hazardous Liquid Pipeline Facilities.—
+
+Integrity assessments
+
+Application
+
+High consequence area defined
+
+Inspection and enforcement
+
+Considerations
+
+Historical and Revision Notes
+
+Pub. L
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 102(a)(2)
+
+106 Stat. 3291
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 989
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 202(a)(2)
+
+106 Stat. 3300
+
+60109(a)(2)
+
+60109(b)
+
+In General
+
+Rule of Construction
+
+Reporting
+
+Definitions
+
+Certain coastal waters
+
+Coastal beach
+
+Revision
+
+Evaluation
+
+Factors
+
+Report
+
+Data Reporting
+
+Technical Correction
+
+Rulemaking Requirements.—
+
+Review period defined
+
+Congressional authority
+
+Standards.—
+
+Findings
+
+Regulations
+
+Savings clause.—
+
+In general
+
+Imminent hazard defined
+
+Report to Congress on Risk-Based Pipeline Reassessment Intervals
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1315](https://www.govinfo.gov/link/statute/108/1315); [Pub. L. 103–429, § 6(75)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4388](https://www.govinfo.gov/link/statute/108/4388); [Pub. L. 104–304](https://www.govinfo.gov/link/plaw/104/public/304), §§ 7, 20(i), Oct. 12, 1996, [110 Stat. 3800](https://www.govinfo.gov/link/statute/110/3800), 3805; [Pub. L. 107–355, § 14(a)](https://www.govinfo.gov/link/plaw/107/public/355), (b), Dec. 17, 2002, [116 Stat. 3002](https://www.govinfo.gov/link/statute/116/3002), 3005; [Pub. L. 109–468](https://www.govinfo.gov/link/plaw/109/public/468), §§ 9, 14, 16, Dec. 29, 2006, [120 Stat. 3493](https://www.govinfo.gov/link/statute/120/3493), 3496; [Pub. L. 112–90](https://www.govinfo.gov/link/plaw/112/public/90), §§ 5(e), 22, Jan. 3, 2012, [125 Stat. 1908](https://www.govinfo.gov/link/statute/125/1908), 1917; [Pub. L. 114–183](https://www.govinfo.gov/link/plaw/114/public/183), §§ 19(a), 25, June 22, 2016, [130 Stat. 527](https://www.govinfo.gov/link/statute/130/527), 530; [Pub. L. 116–260, div. R, title I](https://www.govinfo.gov/link/plaw/116/public/260), §§ 108(b)(1), 120(b), (d), 122, title II, § 202(a), Dec. 27, 2020, [134 Stat. 2223](https://www.govinfo.gov/link/statute/134/2223), 2235–2237.)*

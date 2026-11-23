@@ -3,9 +3,10 @@ title: "Section 9221a - Prohibition on indirect correspondent accounts"
 usc_title: 22
 usc_section: "9221a"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9221a"
-generated_at: "2026-03-30T02:55:05.462Z"
+generated_at: "2026-11-23T21:25:58.766Z"
+status: "active"
 ---
 
 # § 9221a. Prohibition on indirect correspondent accounts
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.462Z"
   - **(1)** The term “correspondent account” has the meaning given that term in section 5318A of title 31 .
   - **(2)** The term “United States financial institution” means 1 1 So in original. has the meaning given that term in section 510.310 of title 31, Code of Federal Regulations, as in effect on August 2, 2017 .
   - **(3)** The term “foreign financial institution” has the meaning given that term in section 1010.605 of title 31, Code of Federal Regulations, as in effect on August 2, 2017 .
+
+## Source Credit
+
+*([Pub. L. 114–122, title II, § 201A](https://www.govinfo.gov/link/plaw/114/public/122), as added [Pub. L. 115–44, title III, § 312(a)](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 945](https://www.govinfo.gov/link/statute/131/945).)*

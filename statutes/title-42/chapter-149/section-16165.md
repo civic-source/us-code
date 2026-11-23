@@ -3,9 +3,10 @@ title: "Section 16165 - Savings clause"
 usc_title: 42
 usc_section: "16165"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16165"
-generated_at: "2026-03-30T02:56:11.471Z"
+generated_at: "2026-11-23T21:26:33.703Z"
+status: "active"
 ---
 
 # § 16165. Savings clause
@@ -19,3 +20,7 @@ Nothing in this subchapter shall be construed to affect the authority of the Sec
   - **(5)** regulation of motor vehicle safety under chapter 301 of title 49;
   - **(6)** automobile fuel economy under chapter 329 of title 49; or
   - **(7)** representation of the interests of the United States with respect to the activities and programs under the authority of title 49.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VIII, § 821](https://www.govinfo.gov/link/plaw/109/public/58), formerly § 816, Aug. 8, 2005, [119 Stat. 855](https://www.govinfo.gov/link/statute/119/855); renumbered § 821, [Pub. L. 117–58, div. D, title III, § 40314(1)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1008](https://www.govinfo.gov/link/statute/135/1008).)*

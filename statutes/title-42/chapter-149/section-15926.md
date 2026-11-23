@@ -3,9 +3,10 @@ title: "Section 15926 - Energy right-of-way corridors on Federal land"
 usc_title: 42
 usc_section: "15926"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15926"
-generated_at: "2026-03-30T02:56:11.465Z"
+generated_at: "2026-11-23T21:26:33.686Z"
+status: "active"
 ---
 
 # § 15926. Energy right-of-way corridors on Federal land
@@ -25,3 +26,19 @@ generated_at: "2026-03-30T02:56:11.465Z"
   - **(2)** relieve congestion; and
   - **(3)** enhance the capability of the national grid to deliver electricity.
 - **(e)** A corridor designated under this section shall, at a minimum, specify the centerline, width, and compatible uses of the corridor.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 109–58, title III, § 368](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 727](https://www.govinfo.gov/link/statute/119/727).)*

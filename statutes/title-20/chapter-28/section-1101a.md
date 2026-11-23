@@ -3,9 +3,10 @@ title: "Section 1101a - Definitions; eligibility"
 usc_title: 20
 usc_section: "1101a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1101a"
-generated_at: "2026-03-30T02:54:48.141Z"
+generated_at: "2026-11-23T21:25:47.229Z"
+status: "active"
 ---
 
 # § 1101a. Definitions; eligibility
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:48.141Z"
 - **(b)** For the purpose of this subchapter, the term “enrollment of needy students” means an enrollment at an institution with respect to which—
   - **(1)** at least 50 percent of the degree students so enrolled are receiving need-based assistance under subchapter IV in the second fiscal year preceding the fiscal year for which the determination is made (other than loans for which an interest subsidy is paid pursuant to section 1078 of this title ); or
   - **(2)** a substantial percentage of the students so enrolled are receiving Federal Pell Grants in the second fiscal year preceding the fiscal year for which the determination is made, compared to the percentage of students receiving Federal Pell Grants at all such institutions in the second fiscal year preceding the fiscal year for which the determination is made, unless the requirement of this paragraph is waived under section 1103a(a) of this title .
+
+## Source Credit
+
+*([Pub. L. 89–329, title V, § 502](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title V, § 501](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1766](https://www.govinfo.gov/link/statute/112/1766); amended [Pub. L. 108–375, div. A, title X, § 1087](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2066](https://www.govinfo.gov/link/statute/118/2066); [Pub. L. 109–292, § 4(a)](https://www.govinfo.gov/link/plaw/109/public/292), Sept. 30, 2006, [120 Stat. 1341](https://www.govinfo.gov/link/statute/120/1341); [Pub. L. 110–315, title V, § 502(b)(1)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3333](https://www.govinfo.gov/link/statute/122/3333); [Pub. L. 111–39, title V, § 501](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1953](https://www.govinfo.gov/link/statute/123/1953).)*

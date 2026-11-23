@@ -3,9 +3,10 @@ title: "Section 12204 - Regulations by Architectural and Transportation Barriers
 usc_title: 42
 usc_section: "12204"
 chapter: 126
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12204"
-generated_at: "2026-03-30T02:56:11.411Z"
+generated_at: "2026-11-23T21:26:33.461Z"
+status: "active"
 ---
 
 # § 12204. Regulations by Architectural and Transportation Barriers Compliance Board
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.411Z"
   - **(1)** The supplemental guidelines issued under subsection (a) shall include procedures and requirements for alterations that will threaten or destroy the historic significance of qualified historic buildings and facilities as defined in 4.1.7(1)(a) of the Uniform Federal Accessibility Standards.
   - **(2)** With respect to alterations of buildings or facilities that are eligible for listing in the National Register of Historic Places under division A of subtitle III of title 54, the guidelines described in paragraph (1) shall, at a minimum, maintain the procedures and requirements established in 4.1.7(1) and (2) of the Uniform Federal Accessibility Standards.
   - **(3)** With respect to alterations of buildings or facilities designated as historic under State or local law, the guidelines described in paragraph (1) shall establish procedures equivalent to those established by 4.1.7(1)(b) and (c) of the Uniform Federal Accessibility Standards, and shall require, at a minimum, compliance with the requirements established in 4.1.7(2) of such standards.
+
+## Source Credit
+
+*([Pub. L. 101–336, title V, § 504](https://www.govinfo.gov/link/plaw/101/public/336), July 26, 1990, [104 Stat. 370](https://www.govinfo.gov/link/statute/104/370); [Pub. L. 113–287, § 5(k)(5)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3270](https://www.govinfo.gov/link/statute/128/3270).)*

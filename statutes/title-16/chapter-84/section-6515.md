@@ -3,9 +3,10 @@ title: "Section 6515 - Special administrative review process"
 usc_title: 16
 usc_section: "6515"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6515"
-generated_at: "2026-03-30T02:54:23.061Z"
+generated_at: "2026-11-23T21:25:52.043Z"
+status: "active"
 ---
 
 # § 6515. Special administrative review process
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:23.061Z"
   - **(3)**
     - **(A)** An exception to the requirement of exhausting the administrative review process before seeking judicial review shall be available if a Federal court finds that the futility or inadequacy exception applies to a specific plaintiff or claim.
     - **(B)** If an agency fails or is unable to make information timely available during the administrative review process, a court should evaluate whether the administrative review process was inadequate for claims or issues to which the information is material.
+
+## Source Credit
+
+*([Pub. L. 108–148, title I, § 105](https://www.govinfo.gov/link/plaw/108/public/148), Dec. 3, 2003, [117 Stat. 1899](https://www.govinfo.gov/link/statute/117/1899).)*

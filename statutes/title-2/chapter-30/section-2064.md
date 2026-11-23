@@ -3,9 +3,10 @@ title: "Section 2064 - Senate Employee Child Care Center employee benefits"
 usc_title: 2
 usc_section: "2064"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 2064"
-generated_at: "2026-03-30T02:53:04.824Z"
+generated_at: "2026-11-23T21:25:21.278Z"
+status: "active"
 ---
 
 # § 2064. Senate Employee Child Care Center employee benefits
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:04.824Z"
   - **(3)** make deductions and withholdings from the pay of employees in the amounts determined under sections 8422, 8432, and 8707 of title 5; and
   - **(4)** transmit such deductions and withholdings to the Secretary of the Senate for deposit and remittance to the Office of Personnel Management.
 - **(j)** The Office of Personnel Management may prescribe regulations to carry out the provisions of this section.
+
+## Source Credit
+
+*([Pub. L. 102–392, title III, § 320](https://www.govinfo.gov/link/plaw/102/public/392), Oct. 6, 1992, [106 Stat. 1725](https://www.govinfo.gov/link/statute/106/1725); [Pub. L. 103–50](https://www.govinfo.gov/link/plaw/103/public/50), ch. XII, § 1203(a)(1), (b)(1), July 2, 1993, [107 Stat. 268](https://www.govinfo.gov/link/statute/107/268).)*

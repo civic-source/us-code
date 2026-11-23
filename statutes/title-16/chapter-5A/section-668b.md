@@ -3,9 +3,10 @@ title: "Section 668b - Enforcement provisions"
 usc_title: 16
 usc_section: "668b"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 668b"
-generated_at: "2026-03-30T02:54:22.890Z"
+generated_at: "2026-11-23T21:25:51.710Z"
+status: "active"
 ---
 
 # § 668b. Enforcement provisions
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:22.890Z"
 - **(a)** Any employee of the Department of the Interior authorized by the Secretary of the Interior to enforce the provisions of this subchapter may, without warrant, arrest any person committing in his presence or view a violation of this subchapter or of any permit or regulations issued hereunder and take such person immediately for examination or trial before an officer or court of competent jurisdiction; may execute any warrant or other process issued by an officer or court of competent jurisdiction for the enforcement of the provisions of this subchapter; and may, with or without a warrant, as authorized by law, search any place. The Secretary of the Interior is authorized to enter into cooperative agreements with State fish and wildlife agencies or other appropriate State authorities to facilitate enforcement of this subchapter, and by said agreements to delegate such enforcement authority to State law enforcement personnel as he deems appropriate for effective enforcement of this subchapter. Any judge of any court established under the laws of the United States, and any United States magistrate judge may, within his respective jurisdiction, upon proper oath or affirmation showing probable cause, issue warrants in all such cases.
 - **(b)** All bald or golden eagles, or parts, nests, or eggs thereof, taken, possessed, sold, purchased, bartered, offered for sale, purchase, or barter, transported, exported, or imported contrary to the provisions of this subchapter, or of any permit or regulation issued hereunder, and all guns, traps, nets, and other equipment, vessels, vehicles, aircraft, and other means of transportation used to aid in the taking, possessing, selling, purchasing, bartering, offering for sale, purchase, or barter, transporting, exporting, or importing of any bird, or part, nest, or egg thereof, in violation of this subchapter or of any permit or regulation issued hereunder shall be subject to forfeiture to the United States.
 - **(c)** All provisions of law relating to the seizure, forfeiture, and condemnation of a vessel for violation of the customs laws, the disposition of such vessel or the proceeds from the sale thereof, and the remission or mitigation of such forfeitures, shall apply to the seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this subchapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this subchapter: Provided , That all powers, rights, and duties conferred or imposed by the customs laws upon any officer or employee of the Treasury Department shall, for the purposes of this subchapter, be exercised or performed by the Secretary of the Interior or by such persons as he may designate.
+
+## Source Credit
+
+*(June 8, 1940, ch. 278, § 3, [54 Stat. 251](https://www.govinfo.gov/link/statute/54/251); [Pub. L. 90–578, title IV, § 402(b)(2)](https://www.govinfo.gov/link/plaw/90/public/578), Oct. 17, 1968, [82 Stat. 1118](https://www.govinfo.gov/link/statute/82/1118); [Pub. L. 92–535, § 3](https://www.govinfo.gov/link/plaw/92/public/535), Oct. 23, 1972, [86 Stat. 1065](https://www.govinfo.gov/link/statute/86/1065); [Pub. L. 101–650, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117).)*

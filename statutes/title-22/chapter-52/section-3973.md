@@ -3,9 +3,10 @@ title: "Section 3973 - Death gratuities"
 usc_title: 22
 usc_section: "3973"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3973"
-generated_at: "2026-03-30T02:55:05.400Z"
+generated_at: "2026-11-23T21:25:58.607Z"
+status: "active"
 ---
 
 # § 3973. Death gratuities
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.400Z"
 - **(e)** As used in this section—
   - **(1)** the term “Foreign Service employee” means any member of the Service or United States representative to an international organization or commission; and
   - **(2)** each of the terms “widow”, “widower”, “child”, and “parent” shall have the same meaning given each such term by section 8101 of title 5 .
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 413](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2092](https://www.govinfo.gov/link/statute/94/2092); [Pub. L. 113–76, div. K, title VII, § 7082(a)](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 565](https://www.govinfo.gov/link/statute/128/565).)*

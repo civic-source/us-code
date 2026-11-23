@@ -3,9 +3,10 @@ title: "Section 713 - Use of likenesses of the great seal of the United States, 
 usc_title: 18
 usc_section: "713"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 713"
-generated_at: "2026-03-30T02:54:16.469Z"
+generated_at: "2026-11-23T21:25:43.990Z"
+status: "active"
 ---
 
 # § 713. Use of likenesses of the great seal of the United States, the seals of the President and Vice President, the seal of the United States Senate, the seal of the United States House of Representatives, and the seal of the United States Congress
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:54:16.469Z"
   - **(2)** in the case of the seal of the United States Senate, upon complaint by the Secretary of the Senate;
   - **(3)** in the case of the seal of the United States House of Representatives, upon complaint by the Clerk of the House of Representatives; and
   - **(4)** in the case of the seal of the United States Congress, upon complaint by the Secretary of the Senate and the Clerk of the House of Representatives, acting jointly.
+
+Section
+
+Sec
+
+Richard Nixon.
+
+## Source Credit
+
+*(Added [Pub. L. 89–807, § 1(a)](https://www.govinfo.gov/link/plaw/89/public/807), Nov. 11, 1966, [80 Stat. 1525](https://www.govinfo.gov/link/statute/80/1525); amended [Pub. L. 91–651, § 1](https://www.govinfo.gov/link/plaw/91/public/651), Jan. 5, 1971, [84 Stat. 1940](https://www.govinfo.gov/link/statute/84/1940); [Pub. L. 102–229, title II, § 210(a)](https://www.govinfo.gov/link/plaw/102/public/229) –(d), Dec. 12, 1991, [105 Stat. 1717](https://www.govinfo.gov/link/statute/105/1717); [Pub. L. 103–322, title XXXIII, § 330016(1)(E)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2146](https://www.govinfo.gov/link/statute/108/2146); [Pub. L. 105–55, title III, § 308(a)](https://www.govinfo.gov/link/plaw/105/public/55) –(d), Oct. 7, 1997, [111 Stat. 1198](https://www.govinfo.gov/link/statute/111/1198).)*

@@ -3,9 +3,10 @@ title: "Section 1 - WTC Health Program Scientific/Technical Advisory Committee; 
 usc_title: 42
 usc_section: "1"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T02:56:10.848Z"
+generated_at: "2026-11-23T21:26:30.957Z"
+status: "active"
 ---
 
 # § 300mm–1. WTC Health Program Scientific/Technical Advisory Committee; WTC Health Program Steering Committees
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:56:10.848Z"
       - **(ii)** The WTC Survivors Steering Committee shall initially be composed of members of the WTC Environmental Health Center Survivor Advisory Committee (as in existence on the day before January 2, 2011 ).
     - **(C)** Each Steering Committee may recommend, if approved by a majority of voting members of the Committee, additional members to the Committee.
     - **(D)** A vacancy in a Steering Committee shall be filled by an individual recommended by the Steering Committee.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXXIII, § 3302, as added [Pub. L. 111–347, title I, § 101](https://www.govinfo.gov/link/plaw/111/public/347), Jan. 2, 2011, [124 Stat. 3627](https://www.govinfo.gov/link/statute/124/3627); amended [Pub. L. 117–286, § 4(a)(247)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4333](https://www.govinfo.gov/link/statute/136/4333).)*

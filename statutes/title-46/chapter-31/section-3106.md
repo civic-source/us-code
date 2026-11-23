@@ -3,9 +3,10 @@ title: "Section 3106 - Master key control system"
 usc_title: 46
 usc_section: "3106"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 3106"
-generated_at: "2026-03-30T02:56:15.542Z"
+generated_at: "2026-11-23T21:26:37.037Z"
+status: "active"
 ---
 
 # § 3106. Master key control system
@@ -24,3 +25,17 @@ generated_at: "2026-03-30T02:56:15.542Z"
   - **(2)** shall be located in a centralized location that is readily accessible to law enforcement personnel.
 - **(d)** Any crew member who uses the master key without having been granted access pursuant to subsection (a)(2) shall be liable to the United States Government for a civil penalty of not more than $1,000 and may be subject to suspension or revocation under section 7703.
 - **(e)** This section shall not apply to vessels subject to section 3507(f).
+
+In General
+
+Prohibited Use
+
+Requirements for Log Book
+
+Penalty
+
+Exemption
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. K, title CXVI, § 11608(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4151](https://www.govinfo.gov/link/statute/136/4151).)*

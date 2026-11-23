@@ -3,12 +3,17 @@ title: "Section 7504 - Initial processing costs"
 usc_title: 7
 usc_section: "7504"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7504"
-generated_at: "2026-03-30T02:53:42.455Z"
+generated_at: "2026-11-23T21:25:28.434Z"
+status: "active"
 ---
 
 # § 7504. Initial processing costs
 
 The Secretary may use funds of the Commodity Credit Corporation to pay costs of initial processing and packaging of commodities to be distributed under the program established under this chapter into forms, and in quantities, suitable, as determined by the Secretary, for use in individual households when such commodities are to be consumed by individual households or for institutional use, as applicable. The Secretary may pay such costs in the form of Corporation-owned commodities equal in value to such costs. The Secretary shall ensure that any such payments in kind will not displace commercial sales of such commodities.
 
+
+## Source Credit
+
+*([Pub. L. 98–8, title II, § 203A](https://www.govinfo.gov/link/plaw/98/public/8), as added [Pub. L. 98–92, § 2(5)](https://www.govinfo.gov/link/plaw/98/public/92), Sept. 2, 1983, [97 Stat. 609](https://www.govinfo.gov/link/statute/97/609); amended [Pub. L. 99–198, title XV, § 1565(b)](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1591](https://www.govinfo.gov/link/statute/99/1591).)*

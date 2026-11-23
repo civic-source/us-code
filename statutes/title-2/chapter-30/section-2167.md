@@ -3,9 +3,10 @@ title: "Section 2167 - Congressional Award Youth Park"
 usc_title: 2
 usc_section: "2167"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 2167"
-generated_at: "2026-03-30T02:53:04.825Z"
+generated_at: "2026-11-23T21:25:21.286Z"
+status: "active"
 ---
 
 # § 2167. Congressional Award Youth Park
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:04.825Z"
     - **(A)** As soon as practicable after the competition is completed, the Architect shall forward at least 3 designs, with recommendations, to the United States Capitol Preservation Commission.
     - **(B)** The United States Capitol Preservation Commission shall select and approve the final design from among the 3 designs submitted under subparagraph (A).
 - **(d)** Funds otherwise made available to the Architect of the Capitol under this Act shall be available to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 107–68, title I, § 134](https://www.govinfo.gov/link/plaw/107/public/68), Nov. 12, 2001, [115 Stat. 582](https://www.govinfo.gov/link/statute/115/582).)*

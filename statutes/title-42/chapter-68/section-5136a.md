@@ -3,9 +3,10 @@ title: "Section 5136a - Assistance and training for communities with technologic
 usc_title: 42
 usc_section: "5136a"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5136a"
-generated_at: "2026-03-30T02:56:11.221Z"
+generated_at: "2026-11-23T21:26:32.745Z"
+status: "active"
 ---
 
 # § 5136a. Assistance and training for communities with technological hazards and related emerging threats
@@ -28,3 +29,19 @@ generated_at: "2026-03-30T02:56:11.221Z"
 - **(e)** The Secretary of Homeland Security may seek continuing input relating to technological hazards and related emerging threats preparedness needs by consulting State, Tribal, territorial, and local emergency services organizations and private sector stakeholders.
 - **(f)** The Secretary of Homeland Security shall coordinate with the Secretary of Energy relating to technological hazard preparedness and training for a hazard that could result from activities or facilities authorized or licensed by the Department of Energy.
 - **(g)** In carrying out activities under subsection (a), the Administrator shall ensure that such activities do not unnecessarily duplicate efforts of other Federal departments or agencies, including programs within the Department of Health and Human Services.
+
+“Nothing in this subtitle [subtitle B (§§ 7311–7315) of title LXXIII of div. G of Pub. L. 117–263 , see Short Title of 2022 Amendment note set out under section 5121 of this title ] shall diminish or divert resources from—
+
+“In this subtitle [subtitle B (§§ 7311–7315) of title LXXIII of div. G of Pub. L. 117–263 , see Short Title of 2022 Amendment note set out under section 5121 of this title ]:
+
+Administrator
+
+Indian tribal government
+
+Local government; state
+
+Technological hazard and related emerging threat
+
+## Source Credit
+
+*([Pub. L. 117–263, div. G, title LXXIII, § 7313](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3689](https://www.govinfo.gov/link/statute/136/3689).)*

@@ -3,9 +3,10 @@ title: "Section 4917 - Motor carrier noise emission standards"
 usc_title: 42
 usc_section: "4917"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4917"
-generated_at: "2026-03-30T02:56:11.211Z"
+generated_at: "2026-11-23T21:26:32.701Z"
+status: "active"
 ---
 
 # § 4917. Motor carrier noise emission standards
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.211Z"
   - **(1)** Subject to paragraph (2) of this subsection but notwithstanding any other provision of this chapter, after the effective date of a regulation under this section applicable to noise emissions resulting from the operation of any motor carrier engaged in interstate commerce, no State or political subdivision thereof may adopt or enforce any standard applicable to the same operation of such motor carrier, unless such standard is identical to a standard applicable to noise emissions resulting from such operation prescribed by any regulation under this section.
   - **(2)** Nothing in this section shall diminish or enhance the rights of any State or political subdivision thereof to establish and enforce standards or controls on levels of environmental noise, or to control, license, regulate, or restrict the use, operation, or movement of any product if the Administrator, after consultation with the Secretary of Transportation, determines that such standard, control, license, regulation, or restriction is necessitated by special local conditions and is not in conflict with regulations promulgated under this section.
 - **(d)** For purposes of this section, the term “motor carrier” includes a motor carrier and motor private carrier as those terms are defined in section 13102 of title 49 .
+
+## Source Credit
+
+*([Pub. L. 92–574, § 18](https://www.govinfo.gov/link/plaw/92/public/574), Oct. 27, 1972, [86 Stat. 1249](https://www.govinfo.gov/link/statute/86/1249).; [Pub. L. 104–88, title III, § 339](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 955](https://www.govinfo.gov/link/statute/109/955).)*

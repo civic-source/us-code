@@ -3,9 +3,10 @@ title: "Section 25 - Mortgage modification data collecting and reporting"
 usc_title: 12
 usc_section: "25"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 25"
-generated_at: "2026-03-30T02:53:53.426Z"
+generated_at: "2026-11-23T21:25:36.910Z"
+status: "active"
 ---
 
 # § 1715z–25. Mortgage modification data collecting and reporting
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:53.426Z"
     - **(A)** Not later than 60 days after May 20, 2009 , the Comptroller of the Currency and the Director of the Office of Thrift Supervision, 1 shall issue mortgage modification data collection and reporting requirements to institutions covered under the reporting requirement of the mortgage metrics program of the Comptroller or the Director. Not later than 60 days after the date of the enactment of the Dodd-Frank Wall Street Reform and Consumer Protection Act, the Comptroller of the Currency and the Director of the Office of Thrift Supervision shall update such requirements to reflect amendments made to this section by such Act.
     - **(B)** The requirements under subparagraph (A) shall provide for the collection of all mortgage modification data needed by the Comptroller of the Currency and the Director of the Office of Thrift Supervision to fulfill the reporting requirements under subsection (a).
   - **(2)** The Comptroller of the Currency shall report all requirements established under paragraph (1) to each committee receiving the report required under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 111–22, div. A, title I, § 104](https://www.govinfo.gov/link/plaw/111/public/22), May 20, 2009, [123 Stat. 1636](https://www.govinfo.gov/link/statute/123/1636); [Pub. L. 111–203, title XIV, § 1493](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2206](https://www.govinfo.gov/link/statute/124/2206).)*

@@ -3,9 +3,10 @@ title: "Section 8518 - Reports on investments in the energy sector of Iran"
 usc_title: 22
 usc_section: "8518"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8518"
-generated_at: "2026-03-30T02:55:05.452Z"
+generated_at: "2026-11-23T21:25:58.743Z"
+status: "active"
 ---
 
 # § 8518. Reports on investments in the energy sector of Iran
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:05.452Z"
       - **(ii)** importing advanced technology to upgrade existing Iranian refineries;
       - **(iii)** converting existing chemical plants to petroleum refineries; or
       - **(iv)** maintaining, upgrading, or expanding existing refineries or constructing new refineries.
+
+## Source Credit
+
+*([Pub. L. 111–195, title I, § 110](https://www.govinfo.gov/link/plaw/111/public/195), July 1, 2010, [124 Stat. 1338](https://www.govinfo.gov/link/statute/124/1338); [Pub. L. 112–158, title II, § 224](https://www.govinfo.gov/link/plaw/112/public/158), Aug. 10, 2012, [126 Stat. 1240](https://www.govinfo.gov/link/statute/126/1240).)*

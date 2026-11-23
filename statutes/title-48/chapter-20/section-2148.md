@@ -3,9 +3,10 @@ title: "Section 2148 - Required reports"
 usc_title: 48
 usc_section: "2148"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 2148"
-generated_at: "2026-03-30T02:56:14.604Z"
+generated_at: "2026-11-23T21:26:38.140Z"
+status: "active"
 ---
 
 # § 2148. Required reports
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:14.604Z"
   - **(1)** nothing in this chapter shall be interpreted to limit the power of the territorial government or any territorial instrumentality to execute or modify discretionary tax abatement or similar tax relief agreements, or to enforce compliance with the terms and conditions of any discretionary tax abatement or similar tax relief agreement, to which the territorial government or any territorial instrumentality is a party; and
   - **(2)** the members and staff of the Oversight Board shall not disclose the contents of the report described in this subsection, and shall otherwise comply with all applicable territorial and Federal laws and regulations regarding the handling of confidential taxpayer information.
 - **(c)** The Oversight Board, when feasible, shall report on the amount of cash flow available for the payment of debt service on all notes, bonds, debentures, credit agreements, or other instruments for money borrowed whose enforcement is subject to a stay or moratorium hereunder, together with any variance from the amount set forth in the debt sustainability analysis of the Fiscal Plan under section 2141(b)(1)(I) of this title .
+
+## Source Credit
+
+*([Pub. L. 114–187, title II, § 208](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 575](https://www.govinfo.gov/link/statute/130/575).)*

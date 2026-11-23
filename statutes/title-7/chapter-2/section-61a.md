@@ -3,9 +3,10 @@ title: "Section 61a - Annual review meetings with cotton industry representative
 usc_title: 7
 usc_section: "61a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 61a"
-generated_at: "2026-03-30T02:53:42.252Z"
+generated_at: "2026-11-23T21:25:27.871Z"
+status: "active"
 ---
 
 # § 61a. Annual review meetings with cotton industry representatives; purposes, etc.
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:42.252Z"
   - **(2)** activities and operations relating to cotton under the United States Warehouse Act [ 7 U.S.C. 241 et seq.], and
   - **(3)** the effect of such activities and operations on prices received by producers and sales to domestic and foreign users, for the purpose of improving procedures for financing and administering such activities and operations for the benefit of the industry and the Government. Notwithstanding any other provision of law, the Secretary shall take such action as may be necessary to insure that the universal cotton standards system and the licensing and inspection procedures for cotton warehouses are preserved and that the Government cotton classification system continues to operate so that the United States cotton crop is provided an official quality description.
 
+
+## Source Credit
+
+*([Pub. L. 97–35, title I, § 156(d)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 374](https://www.govinfo.gov/link/statute/95/374).)*

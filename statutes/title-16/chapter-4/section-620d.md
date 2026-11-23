@@ -3,9 +3,10 @@ title: "Section 620d - Monitoring and enforcement"
 usc_title: 16
 usc_section: "620d"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 620d"
-generated_at: "2026-03-30T02:54:22.886Z"
+generated_at: "2026-11-23T21:25:51.701Z"
+status: "active"
 ---
 
 # § 620d. Monitoring and enforcement
@@ -58,3 +59,21 @@ generated_at: "2026-03-30T02:54:22.886Z"
       - **(ii)** The head of an appropriate Federal department or agency may withhold an award under sections 620 to 620j of this title of a contract for the purchase of unprocessed timber from Federal lands during a debarment proceeding.
   - **(2)** The head of the appropriate Federal department or agency under sections 620 to 620j of this title may cancel any contract entered into with a person found to have violated sections 620 to 620j of this title or regulations issued under sections 620 to 620j of this title.
 - **(e)** Subsections (c) and (d) do not apply to violations of section 620i of this title .
+
+Mitigation of penalties.—
+
+In general
+
+(aa) reduce the penalty;
+
+(bb) not impose the penalty; or
+
+(cc) on condition of there being no further violation under this paragraph for a prescribed period, suspend imposition of the penalty.
+
+Contractural
+
+remedies
+
+## Source Credit
+
+*([Pub. L. 101–382, title IV, § 492](https://www.govinfo.gov/link/plaw/101/public/382), Aug. 20, 1990, [104 Stat. 722](https://www.govinfo.gov/link/statute/104/722); [Pub. L. 103–45, § 3](https://www.govinfo.gov/link/plaw/103/public/45), July 1, 1993, [107 Stat. 226](https://www.govinfo.gov/link/statute/107/226); [Pub. L. 105–83, title VI, § 603](https://www.govinfo.gov/link/plaw/105/public/83), Nov. 14, 1997, [111 Stat. 1620](https://www.govinfo.gov/link/statute/111/1620).)*

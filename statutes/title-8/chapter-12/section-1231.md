@@ -3,9 +3,10 @@ title: "Section 1231 - Detention and removal of aliens ordered removed"
 usc_title: 8
 usc_section: "1231"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1231"
-generated_at: "2026-03-30T02:53:10.488Z"
+generated_at: "2026-11-23T21:25:25.157Z"
+status: "active"
 ---
 
 # § 1231. Detention and removal of aliens ordered removed
@@ -165,3 +166,29 @@ generated_at: "2026-03-30T02:53:10.488Z"
     - **(B)** $850,000,000 for fiscal year 2007; and
     - **(C)** $950,000,000 for each of the fiscal years 2008 through 2011.
   - **(6)** Amounts appropriated pursuant to the authorization of appropriations in paragraph (5) that are distributed to a State or political subdivision of a State, including a municipality, may be used only for correctional purposes.
+
+Policy
+
+Regulations
+
+Exclusion of Certain Aliens
+
+Review and Construction
+
+Authority To Detain
+
+Definitions.—
+
+Convention defined
+
+Same terms as in the convention
+
+Establishment
+
+Report
+
+Definition
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 4, § 241, as added and amended [Pub. L. 104–208, div. C, title III](https://www.govinfo.gov/link/plaw/104/public/208), §§ 305(a)(3), 306(a)(1), 328(a)(1), Sept. 30, 1996, [110 Stat. 3009–598](https://www.govinfo.gov/link/statute/110/3009), 3009–607, 3009–630; [Pub. L. 107–273, div. C, title I, § 11014](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1824](https://www.govinfo.gov/link/statute/116/1824); [Pub. L. 109–13, div. B, title I, § 101(c)](https://www.govinfo.gov/link/plaw/109/public/13), May 11, 2005, [119 Stat. 303](https://www.govinfo.gov/link/statute/119/303); [Pub. L. 109–162, title XI, § 1196(a)](https://www.govinfo.gov/link/plaw/109/public/162), (b), Jan. 5, 2006, [119 Stat. 3130](https://www.govinfo.gov/link/statute/119/3130); [Pub. L. 119–1, § 3(e)](https://www.govinfo.gov/link/plaw/119/public/1), Jan. 29, 2025, [139 Stat. 5](https://www.govinfo.gov/link/statute/139/5).)*

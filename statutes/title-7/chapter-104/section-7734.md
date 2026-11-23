@@ -3,9 +3,10 @@ title: "Section 7734 - Penalties for violation"
 usc_title: 7
 usc_section: "7734"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7734"
-generated_at: "2026-03-30T02:53:42.462Z"
+generated_at: "2026-11-23T21:25:28.446Z"
+status: "active"
 ---
 
 # § 7734. Penalties for violation
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:42.462Z"
   - **(4)** The order of the Secretary assessing a civil penalty shall be treated as a final order reviewable under chapter 158 of title 28. The validity of the Secretary’s order may not be reviewed in an action to collect the civil penalty. Any civil penalty not paid in full when due under an order assessing the civil penalty shall thereafter accrue interest until paid at the rate of interest applicable to civil judgments of the courts of the United States.
 - **(c)** When construing and enforcing this chapter, the act, omission, or failure of any officer, agent, or person acting for or employed by any other person within the scope of his or her employment or office, shall be deemed also to be the act, omission, or failure of the other person.
 - **(d)** The Secretary shall coordinate with the Attorney General to establish guidelines to determine under what circumstances the Secretary may issue a civil penalty or suitable notice of warning in lieu of prosecution by the Attorney General of a violation of this chapter.
+
+## Source Credit
+
+*([Pub. L. 106–224, title IV, § 424](https://www.govinfo.gov/link/plaw/106/public/224), June 20, 2000, [114 Stat. 450](https://www.govinfo.gov/link/statute/114/450); [Pub. L. 107–171, title X, § 10810](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 531](https://www.govinfo.gov/link/statute/116/531); [Pub. L. 110–234, title X, § 10203(d)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1343](https://www.govinfo.gov/link/statute/122/1343); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title X, § 10203(d), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2105.)*

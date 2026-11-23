@@ -3,9 +3,10 @@ title: "Section 1111 - Acquisition workforce authorities"
 usc_title: 14
 usc_section: "1111"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 1111"
-generated_at: "2026-03-30T02:53:51.492Z"
+generated_at: "2026-11-23T21:25:35.396Z"
+status: "active"
 ---
 
 # § 1111. Acquisition workforce authorities
@@ -22,3 +23,25 @@ generated_at: "2026-03-30T02:53:51.492Z"
       - **(i)** An election for coverage under this subsection shall be filed not later than 90 days after the Commandant takes reasonable actions to notify an employee who may file an election.
       - **(ii)** If an employee files an election under this subsection, coverage shall be effective beginning on the first day of the first applicable pay period beginning on or after the date of the filing of the election.
     - **(B)** Paragraph (1) shall apply to an individual who is eligible to file an election under subparagraph (A) and does not file a timely election under clause (i) of such subparagraph.
+
+Expedited Hiring Authority.—
+
+In general
+
+Reports
+
+Reemployment Authority.—
+
+In general
+
+Election
+
+Deadline
+
+Coverage
+
+Application
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. G, title LVXXXII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXII], § 8219(a), Jan. 1, 2021, [134 Stat. 4655](https://www.govinfo.gov/link/statute/134/4655).)*

@@ -3,9 +3,10 @@ title: "Section 3616 - Joint Commission on the Environment"
 usc_title: 22
 usc_section: "3616"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3616"
-generated_at: "2026-03-30T02:55:05.395Z"
+generated_at: "2026-11-23T21:25:58.589Z"
+status: "active"
 ---
 
 # § 3616. Joint Commission on the Environment
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.395Z"
 - **(c)** Any Federal employee subject to the civil service laws and regulations who is detailed to serve with, or appointed by, the United States representatives on the Joint Commission shall not lose any pay, seniority, or other rights or benefits by reason of such detail or appointment.
 - **(d)** The United States representatives on the Joint Commission may, to such extent or in such amounts as are provided in advance in appropriation Acts, appoint and fix the compensation of such personnel as the representatives of the United States on the Joint Commission may consider necessary for the participation of the United States on the Joint Commission.
 - **(e)** The United States representatives on the Joint Commission may, in cooperation with the representatives of the Republic of Panama on the Joint Commission, establish rules of procedure to be used by the Joint Commission in conducting its affairs, subject to the approval of such rules by the Governments of the United States and the Republic of Panama.
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1106](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 457](https://www.govinfo.gov/link/statute/93/457).)*

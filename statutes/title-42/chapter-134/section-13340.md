@@ -3,9 +3,10 @@ title: "Section 13340 - Low-rank coal research and development"
 usc_title: 42
 usc_section: "13340"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13340"
-generated_at: "2026-03-30T02:56:11.442Z"
+generated_at: "2026-11-23T21:26:33.595Z"
+status: "active"
 ---
 
 # § 13340. Low-rank coal research and development
@@ -18,3 +19,7 @@ The Secretary shall pursue a program of research and development with respect to
   - **(4)** coal water fuels and underground coal gasification;
   - **(5)** distillates; and
   - **(6)** any other technologies which will assist in the development of niche markets for lignites and sub-bituminous coals.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XIII, § 1310](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2975](https://www.govinfo.gov/link/statute/106/2975).)*

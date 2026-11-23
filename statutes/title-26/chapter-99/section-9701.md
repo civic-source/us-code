@@ -3,9 +3,10 @@ title: "Section 9701 - Definitions of general applicability"
 usc_title: 26
 usc_section: "9701"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 9701"
-generated_at: "2026-03-30T02:55:27.893Z"
+generated_at: "2026-11-23T21:26:07.039Z"
+status: "active"
 ---
 
 # § 9701. Definitions of general applicability
@@ -52,3 +53,11 @@ generated_at: "2026-03-30T02:55:27.893Z"
     - **(B)** The term “unrelated person” means a purchaser who does not bear a relationship to the eligible seller described in section 267(b).
     - **(C)** For purposes of this paragraph, the term “eligible seller” means an assigned operator described in section 9704(j)(2) or a related person to such assigned operator.
 - **(d)** For purposes of this chapter, the term “enactment date” means the date of the enactment of this chapter.
+
+Findings
+
+Statement of Policy
+
+## Source Credit
+
+*(Added [Pub. L. 102–486, title XIX, § 19143(a)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3037](https://www.govinfo.gov/link/statute/106/3037); amended [Pub. L. 109–432, div. C, title II, § 211(d)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 3023](https://www.govinfo.gov/link/statute/120/3023); [Pub. L. 115–141, div. U, title IV, § 401(a)(343)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1200](https://www.govinfo.gov/link/statute/132/1200).)*

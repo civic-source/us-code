@@ -3,9 +3,10 @@ title: "Section 3602 - United States representation on Council and Commissions"
 usc_title: 16
 usc_section: "3602"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3602"
-generated_at: "2026-03-30T02:54:23.018Z"
+generated_at: "2026-11-23T21:25:51.978Z"
+status: "active"
 ---
 
 # § 3602. United States representation on Council and Commissions
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:23.018Z"
 - **(b)** The Secretary of State, in consultation with the Secretary of Commerce and the Secretary of the Interior, may designate alternate United States Commissioners. In the absence of a Commissioner appointed under subsection (a) of this section, an alternate Commissioner may exercise at any meeting of the Organization, the Council, or any Commission all functions of such Commissioner.
 - **(c)** Individuals who serve as Commissioners and alternate Commissioners shall not receive any compensation for such service. Such individuals shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28.
 - **(d)** In carrying out their functions under the Convention, the Commissioners may consult with the appropriate Regional Fishery Management Councils established by section 302 of the Act of 1976 ( 16 U.S.C. 1852 ), and may consult with such other interested parties as they consider appropriate. Chapter 10 of title 5 shall not apply to consultations described in this subsection.
+
+## Source Credit
+
+*([Pub. L. 97–389, title III, § 303](https://www.govinfo.gov/link/plaw/97/public/389), Dec. 29, 1982, [96 Stat. 1952](https://www.govinfo.gov/link/statute/96/1952); [Pub. L. 98–44, title I, § 102(1)](https://www.govinfo.gov/link/plaw/98/public/44), July 12, 1983, [97 Stat. 216](https://www.govinfo.gov/link/statute/97/216); [Pub. L. 117–286, § 4(a)(117)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4318](https://www.govinfo.gov/link/statute/136/4318).)*

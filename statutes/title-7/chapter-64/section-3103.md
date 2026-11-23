@@ -3,9 +3,10 @@ title: "Section 3103 - Definitions"
 usc_title: 7
 usc_section: "3103"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3103"
-generated_at: "2026-03-30T02:53:42.392Z"
+generated_at: "2026-11-23T21:25:28.310Z"
+status: "active"
 ---
 
 # § 3103. Definitions
@@ -124,3 +125,55 @@ When used in this chapter:
     - **(D)** sustain the economic viability of farm operations; and
     - **(E)** enhance the quality of life for farmers and society as a whole.
   - **(20)** The terms “teaching” and “education” mean formal classroom instruction, laboratory instruction, and practicum experience in the food and agricultural sciences and matters relating thereto (such as faculty development, student recruitment and services, curriculum development, instructional materials and equipment, and innovative teaching methodologies) conducted by colleges and universities offering baccalaureate or higher degrees.
+
+College and university.—
+
+In general
+
+Inclusions
+
+Cooperating forestry school.—
+
+In general
+
+Termination of declaration
+
+Food and agricultural sciences
+
+Hispanic-serving agricultural colleges and universities.—
+
+In general
+
+Exception
+
+Termination of declaration of intent
+
+Hispanic-serving institution
+
+Insular area
+
+institution; non-land-grant college of agriculture.—
+
+In general.—
+
+Definition
+
+Clarification
+
+Designation
+
+Exclusions
+
+State
+
+Teaching and education
+
+“The amendments made by subsection (a) [amending this section] shall not affect any basis for distribution of funds by formula (in effect on the date of enactment of this Act [ May 13, 2002 ]) to—
+
+In general
+
+Revocation
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1404](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 983](https://www.govinfo.gov/link/statute/91/983); [Pub. L. 97–98, title XIV, § 1404](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1297](https://www.govinfo.gov/link/statute/95/1297); [Pub. L. 99–198, title XIV, § 1403](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1544](https://www.govinfo.gov/link/statute/99/1544); [Pub. L. 101–624, title XVI, § 1603](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3705](https://www.govinfo.gov/link/statute/104/3705); [Pub. L. 102–237, title IV, § 402(3)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1863](https://www.govinfo.gov/link/statute/105/1863); [Pub. L. 104–127, title VIII](https://www.govinfo.gov/link/plaw/104/public/127), §§ 802(b)(1), 815(b), 820(a), 853(b)(1), Apr. 4, 1996, [110 Stat. 1159](https://www.govinfo.gov/link/statute/110/1159), 1167, 1168, 1172; [Pub. L. 105–185, title II](https://www.govinfo.gov/link/plaw/105/public/185), §§ 221, 226(c)(1), June 23, 1998, [112 Stat. 537](https://www.govinfo.gov/link/statute/112/537), 543; [Pub. L. 107–171, title VII, § 7502(a)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 463](https://www.govinfo.gov/link/statute/116/463); [Pub. L. 110–234, title VII, § 7101(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1212](https://www.govinfo.gov/link/statute/122/1212); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7101(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1973; [Pub. L. 113–79, title VII](https://www.govinfo.gov/link/plaw/113/public/79), §§ 7101, 7111(b)(1), Feb. 7, 2014, [128 Stat. 862](https://www.govinfo.gov/link/statute/128/862), 873; [Pub. L. 115–334, title VII, § 7102(a)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4779](https://www.govinfo.gov/link/statute/132/4779).)*

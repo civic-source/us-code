@@ -3,9 +3,10 @@ title: "Section 50702 - Establishment"
 usc_title: 51
 usc_section: "50702"
 chapter: 507
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 50702"
-generated_at: "2026-03-30T02:56:28.707Z"
+generated_at: "2026-11-23T21:26:42.548Z"
+status: "active"
 ---
 
 # § 50702. Establishment
@@ -26,3 +27,50 @@ generated_at: "2026-03-30T02:56:28.707Z"
   - **(5)** promoting the export of space-related goods and services;
   - **(6)** representing the Department of Commerce in the development of United States policies and in negotiations with foreign countries to ensure free and fair trade internationally in the area of space commerce; and
   - **(7)** seeking the removal of legal, policy, and institutional impediments to space commerce.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 50702 | 15 U.S.C. 1511e . | Pub. L. 105–309, § 8 , Oct. 30, 1998 , 112 Stat. 2937 ; Pub. L. 107–305, § 14 , Nov. 27, 2002 , 116 Stat. 2380 ; Pub. L. 108–447, div. B, title II , Dec. 8, 2004 , 118 Stat. 2878 . |
+
+
+In General
+
+Director
+
+Functions of Office
+
+Duties of Director
+
+Historical and Revision Notes
+
+50702
+
+15 U.S.C. 1511e
+
+Pub. L. 105–309, § 8
+
+Oct. 30, 1998
+
+112 Stat. 2937
+
+Pub. L. 107–305, § 14
+
+Nov. 27, 2002
+
+116 Stat. 2380
+
+Pub. L. 108–447, div. B, title II
+
+Dec. 8, 2004
+
+118 Stat. 2878
+
+Report to Congress
+
+Notification to Congress
+
+Role of the Office of Space Commerce
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3408](https://www.govinfo.gov/link/statute/124/3408); [Pub. L. 114–90, title III](https://www.govinfo.gov/link/plaw/114/public/90), §§ 301(c), 302, Nov. 25, 2015, [129 Stat. 720](https://www.govinfo.gov/link/statute/129/720).)*

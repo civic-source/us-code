@@ -3,12 +3,17 @@ title: "Section 48 - Right of tribes to direct employment of persons engaged for
 usc_title: 25
 usc_section: "48"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 48"
-generated_at: "2026-03-30T02:54:52.797Z"
+generated_at: "2026-11-23T21:25:54.534Z"
+status: "active"
 ---
 
 # § 48. Right of tribes to direct employment of persons engaged for them
 
 Where any of the tribes are, in the opinion of the Secretary of the Interior, competent to direct the employment of their blacksmiths, mechanics, teachers, farmers, or other persons engaged for them, the direction of such persons may be given to the proper authority of the tribe.
 
+
+## Source Credit
+
+*(R.S. § 2072.)*

@@ -3,9 +3,10 @@ title: "Section 2131 - Loans"
 usc_title: 12
 usc_section: "2131"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2131"
-generated_at: "2026-03-30T02:53:53.472Z"
+generated_at: "2026-11-23T21:25:37.056Z"
+status: "active"
 ---
 
 # § 2131. Loans
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:53.472Z"
 - **(b)** Loans shall be made upon such terms, conditions, and security, if any, as may be determined by the bank in accordance with regulations of the Farm Credit Administration.
 - **(c)** Each bank for cooperatives shall have a first lien on all stock or other equities in the bank as collateral for the payment of any indebtedness of the owner thereof to the bank.
 - **(d)** In any case where the debt of a borrower is in default, or in any case of liquidation or dissolution of a present or former borrower from a bank for cooperatives, the bank may, but shall not be required to, retire and cancel all or a part of the stock, allocated surplus or contingency reserves, or any other equity in the bank owned by or allocated to such borrower, at the fair market value thereof not exceeding par, and, to the extent required in such cases, corresponding shares and allocations and other equity interests held by a bank in another bank for cooperatives (or any successor bank) on account of such indebtedness, shall be retired or equitably adjusted. In no event shall the bank’s equities be retired or canceled if the retirement or cancellation would adversely affect the bank’s capital structure, as determined by the Farm Credit Administration.
+
+## Source Credit
+
+*([Pub. L. 92–181, title III, § 3](https://www.govinfo.gov/link/plaw/92/public/181).10, Dec. 10, 1971, [85 Stat. 606](https://www.govinfo.gov/link/statute/85/606); [Pub. L. 96–592, title III, § 307](https://www.govinfo.gov/link/plaw/96/public/592), Dec. 24, 1980, [94 Stat. 3445](https://www.govinfo.gov/link/statute/94/3445); [Pub. L. 99–509, title I, § 1033(c)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1877](https://www.govinfo.gov/link/statute/100/1877); [Pub. L. 115–334, title V, § 5411(10)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4680](https://www.govinfo.gov/link/statute/132/4680).)*

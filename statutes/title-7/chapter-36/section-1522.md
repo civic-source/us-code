@@ -3,9 +3,10 @@ title: "Section 1522 - Research and development"
 usc_title: 7
 usc_section: "1522"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1522"
-generated_at: "2026-03-30T02:53:42.322Z"
+generated_at: "2026-11-23T21:25:28.111Z"
+status: "active"
 ---
 
 # § 1522. Research and development
@@ -265,3 +266,33 @@ generated_at: "2026-03-30T02:53:42.322Z"
       - **(iii)** use of information technology, as determined by the Corporation; and
       - **(iv)** identifying and using innovative compliance strategies; and
     - **(B)** any excess amounts to carry out other activities authorized under this section.
+
+(aa) in a significantly improved form;
+
+(bb) to a crop or region not traditionally served by the Federal crop insurance program; or
+
+(cc) in a form that addresses a recognized flaw or problem in the program;
+
+(aa) review procedures and paperwork requirements on agents and producers; and
+
+(bb) modify procedures and requirements, as appropriate, to decrease burdens and increase flexibility and effectiveness.
+
+(aa) using an average of the historic and projected revenue;
+
+(bb) counting indemnities as historic revenue for loss years;
+
+(cc) counting payments under section 7333 of this title as historic revenue for loss years; or
+
+(dd) using an assigned yield floor similar to the limitation described in section 1508(g)(6)(A)(i) of this title , as determined by the Secretary;
+
+(aa) after the losses exceed the deductible; and
+
+(bb) up to the maximum amount of total coverage.
+
+In general
+
+Resubmission of denied request
+
+## Source Credit
+
+*(Feb. 16, 1938, ch. 30, title V, § 522, as added [Pub. L. 106–224, title I, § 131](https://www.govinfo.gov/link/plaw/106/public/224), June 20, 2000, [114 Stat. 379](https://www.govinfo.gov/link/statute/114/379); amended [Pub. L. 110–234, title VII, § 7511(c)(1)](https://www.govinfo.gov/link/plaw/110/public/234), title XII, §§ 12022–12024, 12033(c)(2)(B), May 22, 2008, [122 Stat. 1267](https://www.govinfo.gov/link/statute/122/1267), 1382–1388, 1405; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246) title VII, § 7511(c)(1), title XII, §§ 12022–12024, 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2028, 2144–2150, 2167; [Pub. L. 113–79, title XI](https://www.govinfo.gov/link/plaw/113/public/79), §§ 11010(b), 11022, 11023(b), 11024, 11027(b), 11028(b), Feb. 7, 2014, [128 Stat. 959](https://www.govinfo.gov/link/statute/128/959), 969, 973, 974, 977; [Pub. L. 115–334, title XI](https://www.govinfo.gov/link/plaw/115/public/334), §§ 11120(a), 11121–11123, Dec. 20, 2018, [132 Stat. 4926–4935](https://www.govinfo.gov/link/statute/132/4926); [Pub. L. 119–21, title I, § 10501(a)(2)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 103](https://www.govinfo.gov/link/statute/139/103).)*

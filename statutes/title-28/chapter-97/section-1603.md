@@ -3,9 +3,10 @@ title: "Section 1603 - Definitions"
 usc_title: 28
 usc_section: "1603"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1603"
-generated_at: "2026-03-30T02:55:30.141Z"
+generated_at: "2026-11-23T21:26:01.094Z"
+status: "active"
 ---
 
 # § 1603. Definitions
@@ -20,3 +21,7 @@ For purposes of this chapter—
 - **(c)** The “United States” includes all territory and waters, continental or insular, subject to the jurisdiction of the United States.
 - **(d)** A “commercial activity” means either a regular course of commercial conduct or a particular commercial transaction or act. The commercial character of an activity shall be determined by reference to the nature of the course of conduct or particular transaction or act, rather than by reference to its purpose.
 - **(e)** A “commercial activity carried on in the United States by a foreign state” means commercial activity carried on by such state and having substantial contact with the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 94–583, § 4(a)](https://www.govinfo.gov/link/plaw/94/public/583), Oct. 21, 1976, [90 Stat. 2892](https://www.govinfo.gov/link/statute/90/2892); amended [Pub. L. 109–2, § 4(b)(2)](https://www.govinfo.gov/link/plaw/109/public/2), Feb. 18, 2005, [119 Stat. 12](https://www.govinfo.gov/link/statute/119/12).)*

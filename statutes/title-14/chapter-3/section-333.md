@@ -3,9 +3,10 @@ title: "Section 333 - Training courses on workings of Congress"
 usc_title: 14
 usc_section: "333"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 333"
-generated_at: "2026-03-30T02:53:51.488Z"
+generated_at: "2026-11-23T21:25:35.359Z"
+status: "active"
 ---
 
 # § 333. Training courses on workings of Congress
@@ -75,3 +76,51 @@ generated_at: "2026-03-30T02:53:51.488Z"
 - **(c)**
   - **(1)** The Commandant shall ensure that not less than 60 percent of the lecturers, panelists, and other individuals providing education and instruction as part of the training courses required under this section are experts on Congress and the Federal legislative process who are not employed by the executive branch of the Federal Government.
   - **(2)** In satisfying the requirement under paragraph (1), the Commandant shall seek, and may accept, educational and instructional services of lecturers, panelists, and other individuals and organizations provided to the Coast Guard on a pro bono basis.
+
+In General.—
+
+Training course.—
+
+In general
+
+Timing.—
+
+In general
+
+Additional training
+
+Annual basis.—
+
+In general
+
+Covered recipients
+
+Course subject matter
+
+Training for Congressional Affairs Personnel.—
+
+In general
+
+Required participant
+
+Course subject matter.—
+
+In general
+
+Detail within coast guard office of budget and programs.—
+
+In general
+
+Nonconsecutive detail permitted
+
+Completion of required training
+
+Lecturers and Panelists.—
+
+Outside experts
+
+Authority to accept pro bono services
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. G, title LXXII, § 7201(e)(7)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1681](https://www.govinfo.gov/link/statute/139/1681).)*

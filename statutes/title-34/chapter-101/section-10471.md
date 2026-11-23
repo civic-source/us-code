@@ -3,9 +3,10 @@ title: "Section 10471 - Grant authority"
 usc_title: 34
 usc_section: "10471"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10471"
-generated_at: "2026-03-30T02:55:33.270Z"
+generated_at: "2026-11-23T21:26:09.667Z"
+status: "active"
 ---
 
 # § 10471. Grant authority
@@ -18,3 +19,23 @@ The Attorney General shall make grants to States, State courts, local courts, un
     - **(B)** voluntary outpatient or inpatient mental health treatment, in the least restrictive manner appropriate, as determined by the court, that carries with it the possibility of dismissal of charges or reduced sentencing upon successful completion of treatment, or court-ordered assisted outpatient treatment when the court has determined such treatment to be necessary;
     - **(C)** centralized case management involving the consolidation of all of a mentally ill or mentally retarded defendant’s cases, including violations of probation, and the coordination of all mental health treatment plans and social services, including life skills training, such as housing placement, vocational training, education, job placement, health care, and relapse prevention for each participant who requires such services; and
     - **(D)** continuing supervision of treatment plan compliance for a term not to exceed the maximum allowable sentence or probation for the charged or relevant offense and, to the extent practicable, continuity of psychiatric care at the end of the supervised period.
+
+Definitions
+
+Establishment of Program
+
+Program Specifications
+
+Implementation; Duration
+
+Criteria for Designation
+
+Assistance From Other Federal Entities
+
+Reports
+
+“Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2201](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 106–515, § 3(a)](https://www.govinfo.gov/link/plaw/106/public/515), Nov. 13, 2000, [114 Stat. 2399](https://www.govinfo.gov/link/statute/114/2399); amended [Pub. L. 114–255, div. B, title XIV, § 14002(a)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1288](https://www.govinfo.gov/link/statute/130/1288).)*

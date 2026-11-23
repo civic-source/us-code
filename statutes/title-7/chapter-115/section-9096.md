@@ -3,9 +3,10 @@ title: "Section 9096 - Signature authority"
 usc_title: 7
 usc_section: "9096"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 9096"
-generated_at: "2026-03-30T02:53:42.488Z"
+generated_at: "2026-11-23T21:25:28.498Z"
+status: "active"
 ---
 
 # § 9096. Signature authority
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.488Z"
   - **(2)** A denial of benefits based on a lack of affirmation under paragraph (1) shall not be retroactive with respect to third-party producers who were not the subject of the erroneous representation of authority, if the third-party producers—
     - **(A)** relied on the prior approval by the Secretary of the documents in good faith; and
     - **(B)** substantively complied with all program requirements.
+
+## Source Credit
+
+*([Pub. L. 113–79, title I, § 1613](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 710](https://www.govinfo.gov/link/statute/128/710).)*

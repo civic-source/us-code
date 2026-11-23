@@ -3,9 +3,10 @@ title: "Section 6105 - Common financial reporting system for the nuclear securit
 usc_title: 10
 usc_section: "6105"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6105"
-generated_at: "2026-03-30T02:53:38.218Z"
+generated_at: "2026-11-23T21:25:32.810Z"
+status: "active"
 ---
 
 # § 6105. Common financial reporting system for the nuclear security enterprise
@@ -23,3 +24,19 @@ generated_at: "2026-03-30T02:53:38.218Z"
     - **(B)** A summary of planned activities in connection with the implementation of a common financial reporting system for the nuclear security enterprise in the year in which such report is submitted.
     - **(C)** A description of any anticipated modifications to the schedule for implementing a common financial reporting system for the nuclear security enterprise, including an update on possible risks, challenges, and costs related to such implementation.
   - **(3)** No report is required under this subsection after the completion of the implementation of a common financial reporting system for the nuclear security enterprise.
+
+In General
+
+Elements
+
+Reports
+
+In general
+
+Report
+
+Termination
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2), Dec. 18, 2025, [139 Stat. 1342](https://www.govinfo.gov/link/statute/139/1342), 1462.)*

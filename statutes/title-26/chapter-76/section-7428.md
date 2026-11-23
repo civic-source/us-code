@@ -3,9 +3,10 @@ title: "Section 7428 - Declaratory judgments relating to status and classificati
 usc_title: 26
 usc_section: "7428"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7428"
-generated_at: "2026-03-30T02:55:27.871Z"
+generated_at: "2026-11-23T21:26:06.956Z"
+status: "active"
 ---
 
 # § 7428. Declaratory judgments relating to status and classification of organizations under section 501(c)(3), etc.
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:27.871Z"
     - **(B)** with respect to organizations described in section 170(c)(2) which are exempt from tax under section 501(a) (for this purpose excluding any such organization with respect to which there is pending a proceeding to revoke the determination under section 170(c)(2)).
   - **(3)** This subsection shall not apply to any individual who was responsible, in whole or in part, for the activities (or failures to act) on the part of the organization which were the basis for the revocation.
 - **(d)** In any action brought under this section in the district court of the United States for the District of Columbia, a subpoena requiring the attendance of a witness at a trial or hearing may be served at any place in the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 94–455, title XIII, § 1306(a)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1717](https://www.govinfo.gov/link/statute/90/1717); amended [Pub. L. 95–600, title VII, § 701(dd)(2)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2924](https://www.govinfo.gov/link/statute/92/2924); [Pub. L. 97–164, title I, § 152](https://www.govinfo.gov/link/plaw/97/public/164), Apr. 2, 1982, [96 Stat. 46](https://www.govinfo.gov/link/statute/96/46); [Pub. L. 98–369, div. A, title X, § 1033(b)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1039](https://www.govinfo.gov/link/statute/98/1039); [Pub. L. 108–357, title III, § 317(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1470](https://www.govinfo.gov/link/statute/118/1470); [Pub. L. 109–280, title XII, § 1223(c)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1091](https://www.govinfo.gov/link/statute/120/1091); [Pub. L. 114–113, div. Q, title IV, § 406(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3120](https://www.govinfo.gov/link/statute/129/3120); [Pub. L. 115–141, div. U, title IV, § 401(a)(325)(A)](https://www.govinfo.gov/link/plaw/115/public/141), (B), Mar. 23, 2018, [132 Stat. 1199](https://www.govinfo.gov/link/statute/132/1199), 1200.)*

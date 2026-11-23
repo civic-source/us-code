@@ -3,9 +3,10 @@ title: "Section 1591 - Reimbursement for travel and transportation expenses when
 usc_title: 10
 usc_section: "1591"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1591"
-generated_at: "2026-03-30T02:53:38.131Z"
+generated_at: "2026-11-23T21:25:32.519Z"
+status: "active"
 ---
 
 # § 1591. Reimbursement for travel and transportation expenses when accompanying Members of Congress
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:38.131Z"
   - **(1)** The term “Member of Congress” means a member of the Senate or the House of Representatives, a Delegate to the House of Representatives, and the Resident Commissioner from Puerto Rico.
   - **(2)** The term “congressional employee” means an employee of a Member of Congress or an employee of Congress.
   - **(3)** The term “Secretary concerned” includes the Secretary of Defense with respect to civilian employees of the Department of Defense other than a military department.
+
+## Source Credit
+
+*(Added [Pub. L. 100–180, div. A, title VI, § 617(b)(1)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1097](https://www.govinfo.gov/link/statute/101/1097).)*

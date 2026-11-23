@@ -3,9 +3,10 @@ title: "Section 4802 - Definitions"
 usc_title: 7
 usc_section: "4802"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 4802"
-generated_at: "2026-03-30T02:53:42.411Z"
+generated_at: "2026-11-23T21:25:28.352Z"
+status: "active"
 ---
 
 # § 4802. Definitions
@@ -38,3 +39,7 @@ For purposes of this chapter:
       - **(ii)** recognized by the chief executive officer of such State as representing the pork producers of such State; or
     - **(B)** if such organization does not exist on January 1, 1986 , an organization that represents not fewer than 50 pork producers who market annually, in the aggregate, not less than 10 percent of the volume (measured in pounds) of porcine animals marketed in such State.
   - **(17)** The term “to market” means to sell or to otherwise dispose of a porcine animal, pork, or pork product in commerce.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XVI, § 1613](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1607](https://www.govinfo.gov/link/statute/99/1607).)*

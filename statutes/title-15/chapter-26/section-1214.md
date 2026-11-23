@@ -3,12 +3,17 @@ title: "Section 1214 - “Interstate commerce” defined"
 usc_title: 15
 usc_section: "1214"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1214"
-generated_at: "2026-03-30T02:54:08.130Z"
+generated_at: "2026-11-23T21:25:39.802Z"
+status: "active"
 ---
 
 # § 1214. “Interstate commerce” defined
 
 As used in this chapter, the term “interstate commerce” includes commerce between one State, Territory, possession, the District of Columbia, or the Commonwealth of Puerto Rico and another State, Territory, possession, the District of Columbia, or the Commonwealth of Puerto Rico.
 
+
+## Source Credit
+
+*(Aug. 2, 1956, ch. 890, § 4, [70 Stat. 953](https://www.govinfo.gov/link/statute/70/953).)*

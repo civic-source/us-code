@@ -3,9 +3,10 @@ title: "Section 19 - Miscellaneous provisions"
 usc_title: 42
 usc_section: "19"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19"
-generated_at: "2026-03-30T02:56:10.846Z"
+generated_at: "2026-11-23T21:26:30.949Z"
+status: "active"
 ---
 
 # § 300jj–19. Miscellaneous provisions
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:10.846Z"
       - **(ii)** the patient’s ability to electronically communicate patient-reported information (such as family history and medical history); and
       - **(iii)** patient access to their personal electronic health information for research at the option of the patient; and
     - **(B)** the HIT Advisory Committee develop and prioritize standards, implementation specifications, and certification criteria required to help support patient access to electronic health information, patient usability, and support for technologies that offer patients access to their electronic health information in a single, longitudinal format that is easy to understand, secure, and may be updated automatically.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXX, § 3009, as added [Pub. L. 111–5, div. A, title XIII, § 13101](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 242](https://www.govinfo.gov/link/statute/123/242); amended [Pub. L. 114–255, div. A, title IV, § 4006(a)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1181](https://www.govinfo.gov/link/statute/130/1181).)*

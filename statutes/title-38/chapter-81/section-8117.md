@@ -3,9 +3,10 @@ title: "Section 8117 - Emergency preparedness"
 usc_title: 38
 usc_section: "8117"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 8117"
-generated_at: "2026-03-30T02:55:53.537Z"
+generated_at: "2026-11-23T21:26:16.903Z"
+status: "active"
 ---
 
 # § 8117. Emergency preparedness
@@ -43,3 +44,25 @@ generated_at: "2026-03-30T02:55:53.537Z"
     - **(B)** Mechanisms for coordinating the provision of mental health counseling and assistance to emergency response providers referred to in paragraph (1).
   - **(3)** The Secretary shall develop and maintain the strategies under paragraph (1) in consultation with the Secretary of Health and Human Services, the American Red Cross, and the working group referred to in subsection (e)(2).
 - **(g)** There are authorized to be appropriated, $155,300,000 for each of fiscal years 2019 through 2028 to carry out this section.
+
+Readiness of Department Medical Centers
+
+Security at Department Medical and Research Facilities
+
+Tracking of Pharmaceuticals and Medical Supplies and Equipment
+
+Training
+
+Participation in National Disaster Medical System
+
+Mental Health Counseling
+
+Authorization of Appropriations
+
+Security at Department Medical and Research Facilities
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(Added [Pub. L. 107–287, § 6(a)(1)](https://www.govinfo.gov/link/plaw/107/public/287), Nov. 7, 2002, [116 Stat. 2030](https://www.govinfo.gov/link/statute/116/2030); amended [Pub. L. 109–295, title VI, § 612(c)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1410](https://www.govinfo.gov/link/statute/120/1410); [Pub. L. 109–417, title III, § 306](https://www.govinfo.gov/link/plaw/109/public/417), Dec. 19, 2006, [120 Stat. 2863](https://www.govinfo.gov/link/statute/120/2863); [Pub. L. 110–387, title IX, § 901(a)(7)](https://www.govinfo.gov/link/plaw/110/public/387), Oct. 10, 2008, [122 Stat. 4142](https://www.govinfo.gov/link/statute/122/4142); [Pub. L. 111–275, title X, § 1001(p)(2)](https://www.govinfo.gov/link/plaw/111/public/275), Oct. 13, 2010, [124 Stat. 2897](https://www.govinfo.gov/link/statute/124/2897); [Pub. L. 113–5, title I, § 105](https://www.govinfo.gov/link/plaw/113/public/5), Mar. 13, 2013, [127 Stat. 170](https://www.govinfo.gov/link/statute/127/170); [Pub. L. 116–22, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/116/public/22), June 24, 2019, [133 Stat. 961](https://www.govinfo.gov/link/statute/133/961); [Pub. L. 118–19, § 3](https://www.govinfo.gov/link/plaw/118/public/19), Oct. 6, 2023, [137 Stat. 106](https://www.govinfo.gov/link/statute/137/106).)*

@@ -3,9 +3,10 @@ title: "Section 2568 - False marking; cease and desist orders"
 usc_title: 7
 usc_section: "2568"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2568"
-generated_at: "2026-03-30T02:53:42.388Z"
+generated_at: "2026-11-23T21:25:28.300Z"
+status: "active"
 ---
 
 # § 2568. False marking; cease and desist orders
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.388Z"
   - **(4)** Failure to use the name of a variety for which a certificate of protection has been issued under this chapter, even after the expiration of the certificate, except that lawn, turf, or forage grass seed, or alfalfa or clover seed may be sold without a variety name unless use of the name of a variety for which a certificate of protection has been issued under this chapter is required under State law.
 - **(b)** Anyone convicted of violating a binding cease and desist order, or of performing any act prohibited in subsection (a) of this section for the purpose of deceiving the public, shall be fined not more than $10,000 and not less than $500.
 - **(c)** Anyone whose business is damaged or is likely to be damaged by an act prohibited in subsection (a) of this section, or is subjected to competition in connection with which such act is performed, may have remedy by civil action.
+
+## Source Credit
+
+*([Pub. L. 91–577, title III, § 128](https://www.govinfo.gov/link/plaw/91/public/577), Dec. 24, 1970, [84 Stat. 1557](https://www.govinfo.gov/link/statute/84/1557); [Pub. L. 96–574, § 19(c)](https://www.govinfo.gov/link/plaw/96/public/574), Dec. 22, 1980, [94 Stat. 3352](https://www.govinfo.gov/link/statute/94/3352); [Pub. L. 103–349](https://www.govinfo.gov/link/plaw/103/public/349), §§ 12, 13(v), Oct. 6, 1994, [108 Stat. 3142](https://www.govinfo.gov/link/statute/108/3142), 3144; [Pub. L. 115–334, title X, § 10108(d)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4906](https://www.govinfo.gov/link/statute/132/4906).)*

@@ -3,9 +3,10 @@ title: "Section 7429 - Solid waste combustion"
 usc_title: 42
 usc_section: "7429"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7429"
-generated_at: "2026-03-30T02:56:11.302Z"
+generated_at: "2026-11-23T21:26:33.097Z"
+status: "active"
 ---
 
 # § 7429. Solid waste combustion
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:56:11.302Z"
     - **(B)** the Administrator shall consider and regulate, if required, the pollutants listed under subsection (a)(4) and no others.
   - **(4)** A solid waste incineration unit shall not be a utility unit as defined in subchapter IV–A: Provided , That, more than 80 per centum of its annual average fuel consumption measured on a Btu basis, during a period or periods to be determined by the Administrator, is from a fuel (including any waste burned as a fuel) other than a fossil fuel.
   - **(5)** No requirement of an applicable implementation plan under section 7475 of this title (relating to construction of facilities in regions identified pursuant to section 7407(d)(1)(A)(ii) or (iii) of this title) or under section 7502(c)(5) of this title (relating to permits for construction and operation in nonattainment areas) may be used to weaken the standards in effect under this section.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 129, as added [Pub. L. 101–549, title III, § 305(a)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2577](https://www.govinfo.gov/link/statute/104/2577).)*

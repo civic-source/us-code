@@ -3,9 +3,10 @@ title: "Section 1660c - Urban NIAAA transferred programs"
 usc_title: 25
 usc_section: "1660c"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1660c"
-generated_at: "2026-03-30T02:54:52.824Z"
+generated_at: "2026-11-23T21:25:54.628Z"
+status: "active"
 ---
 
 # § 1660c. Urban NIAAA transferred programs
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:52.824Z"
 - **(c)** Urban Indian organizations that operate Indian alcohol programs originally funded under NIAAA and subsequently transferred to the Service are eligible for grants or contracts under this section.
 - **(d)** For the purpose of carrying out this section, the Secretary may combine NIAAA alcohol funds with other substance abuse funds currently administered through the Branch of Urban Health Programs of the Service.
 - **(e)** The Secretary shall evaluate and report to the Congress on the activities of programs funded under this section at least every 5 years.
+
+## Source Credit
+
+*([Pub. L. 94–437, title V, § 513](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 102–573, title V, § 504](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4570](https://www.govinfo.gov/link/statute/106/4570); amended [Pub. L. 105–362, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3286](https://www.govinfo.gov/link/statute/112/3286).)*

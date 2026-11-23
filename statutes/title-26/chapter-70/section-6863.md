@@ -3,9 +3,10 @@ title: "Section 6863 - Stay of collection of jeopardy assessments"
 usc_title: 26
 usc_section: "6863"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6863"
-generated_at: "2026-03-30T02:55:27.867Z"
+generated_at: "2026-11-23T21:26:06.935Z"
+status: "active"
 ---
 
 # § 6863. Stay of collection of jeopardy assessments
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:27.867Z"
     - **(A)** if a civil action is commenced in accordance with section 7429(b), on or before the day on which the district court judgment in such action becomes final, or
     - **(B)** if subparagraph (A) does not apply, before the day after the expiration of the period provided in section 7429(a) for requesting an administrative review, and if such review is requested, before the day after the expiration of the period provided in section 7429(b), for commencing an action in the district court.
   - **(2)** With respect to any property described in paragraph (1), the exceptions provided by subsection (b)(3)(B) shall apply.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 836; [Pub. L. 94–455, title XII, § 1204(c)(7)](https://www.govinfo.gov/link/plaw/94/public/455) –(9), title XIX, § 1906(a)(38), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1698](https://www.govinfo.gov/link/statute/90/1698), 1830, 1834; [Pub. L. 100–203, title X, § 10713(b)(2)(E)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–470](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title VI, § 6245(a)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3750](https://www.govinfo.gov/link/statute/102/3750); [Pub. L. 101–239, title VII, § 7822(d)(2)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2425](https://www.govinfo.gov/link/statute/103/2425); [Pub. L. 115–141, div. U, title IV, § 401(a)(321)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1199](https://www.govinfo.gov/link/statute/132/1199).)*

@@ -3,9 +3,10 @@ title: "Section 1154 - Assistance to eligible members and former members to obta
 usc_title: 10
 usc_section: "1154"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1154"
-generated_at: "2026-03-30T02:53:38.112Z"
+generated_at: "2026-11-23T21:25:32.436Z"
+status: "active"
 ---
 
 # § 1154. Assistance to eligible members and former members to obtain employment as teachers: Troops-to-Teachers Program
@@ -115,3 +116,81 @@ generated_at: "2026-03-30T02:53:38.112Z"
     - **(B)** the Committee on Armed Services and the Committee on Education and Labor of the House of Representatives.
 - **(j)** The total amount obligated by the Secretary under the Program for any fiscal year may not exceed $15,000,000.
 - **(k)** The Program shall terminate on July 1, 2029 , with respect to the selection of new participants for the program. Participants in the Program as of that date may complete their program, and remain eligible for benefits under this section.
+
+Definitions
+
+Charter school
+
+Eligible school
+
+High-need school
+
+Member of the armed forces
+
+Participant
+
+Program
+
+Secretary
+
+Additional terms
+
+Program Authorization
+
+Counseling and Referral Services
+
+Eligibility and Application Process
+
+Eligible members
+
+Submission of applications
+
+Selection criteria; educational background requirements; honorable service requirement
+
+Selection priorities
+
+Other conditions on selection
+
+Participation Agreement and Financial Assistance
+
+Participation agreement
+
+Violation of participation agreement; exceptions
+
+Stipend and bonus for participants
+
+Treatment of stipend and bonus
+
+Reimbursement Under Certain Circumstances.—
+
+Reimbursement required
+
+Amount of reimbursement
+
+Interest
+
+Relationship to Educational Assistance Under Montgomery GI Bill
+
+Participation by States.—
+
+Discharge of state activities through consortia of states
+
+Assistance to states
+
+Annual Report
+
+Limitation on Total Fiscal-year Obligations
+
+Sunset
+
+Transfer
+
+Memorandum of agreement
+
+Effective date
+
+“The repeal of chapter A of subpart 1 of part C of title II of the Elementary and Secondary Education Act of 1965 ([former] 20 U.S.C. 6671 et seq.) by paragraph (1) shall not affect—
+
+## Source Credit
+
+*(Added [Pub. L. 112–239, div. A, title V, § 541(b)(1)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1729](https://www.govinfo.gov/link/statute/126/1729); amended [Pub. L. 113–291, div. A, title X, § 1071(f)(14)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3510](https://www.govinfo.gov/link/statute/128/3510); [Pub. L. 114–95, title IX, § 9215(uuu)(2)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2190](https://www.govinfo.gov/link/statute/129/2190); [Pub. L. 115–232, div. A, title V, § 554](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1773](https://www.govinfo.gov/link/statute/132/1773); [Pub. L. 117–81, div. A, title V, § 551](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1734](https://www.govinfo.gov/link/statute/135/1734); [Pub. L. 118–31, div. A, title V](https://www.govinfo.gov/link/plaw/118/public/31), §§ 573, 574, Dec. 22, 2023, [137 Stat. 276](https://www.govinfo.gov/link/statute/137/276), 277; [Pub. L. 118–159, div. A, title V, § 572](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1909](https://www.govinfo.gov/link/statute/138/1909).)*

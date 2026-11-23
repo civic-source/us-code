@@ -3,9 +3,10 @@ title: "Section 36b - Mental health and substance use disorder services for stud
 usc_title: 42
 usc_section: "36b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 36b"
-generated_at: "2026-03-30T02:56:10.763Z"
+generated_at: "2026-11-23T21:26:30.569Z"
+status: "active"
 ---
 
 # § 290bb–36b. Mental health and substance use disorder services for students in higher education
@@ -50,3 +51,25 @@ generated_at: "2026-03-30T02:56:10.763Z"
 - **(g)** In this section, the term “institution of higher education” has the meaning given such term in section 1001 of title 20 .
 - **(h)** The Secretary may provide technical assistance to grantees in carrying out this section.
 - **(i)** For the purpose of carrying out this section, there are authorized to be appropriated $7,000,000 for each of fiscal years 2023 through 2027.
+
+Purpose
+
+Establishment
+
+Membership
+
+Duties
+
+Meetings.—
+
+In general
+
+Annual conference
+
+Definition
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title V, § 520E–2, as added [Pub. L. 108–355, § 3(d)](https://www.govinfo.gov/link/plaw/108/public/355), Oct. 21, 2004, [118 Stat. 1413](https://www.govinfo.gov/link/statute/118/1413); amended [Pub. L. 114–255, div. B, title IX, § 9031](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1257](https://www.govinfo.gov/link/statute/130/1257); [Pub. L. 117–328, div. FF, title I, § 1423](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5703](https://www.govinfo.gov/link/statute/136/5703).)*

@@ -3,9 +3,10 @@ title: "Section 168 - Validation of certificates and other Board actions"
 usc_title: 29
 usc_section: "168"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 168"
-generated_at: "2026-03-30T02:55:18.678Z"
+generated_at: "2026-11-23T21:26:02.169Z"
+status: "active"
 ---
 
 # § 168. Validation of certificates and other Board actions
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:18.678Z"
 - **(h)** of this title prior to November 7, 1947 : Provided , That no liability shall be imposed under any provision of this chapter upon any person for failure to honor any election or certificate referred to above, prior to October 22, 1951 : Provided, however , That this proviso shall not have the effect of setting aside or in any way affecting judgments or decrees heretofore entered under section 160(e) or
 - **(f)** of this title and which have become final.
 
+
+## Source Credit
+
+*(July 5, 1935, ch. 372, § 18, as added Oct. 22, 1951, ch. 534, § 1(a), [65 Stat. 601](https://www.govinfo.gov/link/statute/65/601).)*

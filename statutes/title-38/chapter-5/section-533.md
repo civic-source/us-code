@@ -3,9 +3,10 @@ title: "Section 533 - Anti-harassment and anti-sexual assault policy"
 usc_title: 38
 usc_section: "533"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 533"
-generated_at: "2026-03-30T02:55:53.472Z"
+generated_at: "2026-11-23T21:26:16.558Z"
+status: "active"
 ---
 
 # § 533. Anti-harassment and anti-sexual assault policy
@@ -61,3 +62,21 @@ generated_at: "2026-03-30T02:55:53.472Z"
 - **(g)** In this section:
   - **(1)** The term “non-Department individual” means any individual present at a facility of the Department who is not an employee or contractor of the Department.
   - **(2)** The term “sexual harassment” means unsolicited verbal or physical contact of a sexual nature which is threatening in character.
+
+Establishment
+
+Points of Contact
+
+Accountability
+
+Data
+
+Working Group
+
+Annual Reports
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 116–315, title V, § 5303(a)](https://www.govinfo.gov/link/plaw/116/public/315), Jan. 5, 2021, [134 Stat. 5038](https://www.govinfo.gov/link/statute/134/5038).)*

@@ -3,9 +3,10 @@ title: "Section 1354 - Applicability to members of the Armed Forces"
 usc_title: 8
 usc_section: "1354"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1354"
-generated_at: "2026-03-30T02:53:10.495Z"
+generated_at: "2026-11-23T21:25:25.177Z"
+status: "active"
 ---
 
 # § 1354. Applicability to members of the Armed Forces
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:10.495Z"
 - **(b)** If a person lawfully admitted for permanent residence is the spouse or child of a member of the Armed Forces of the United States, is authorized to accompany the member and reside abroad with the member pursuant to the member’s official orders, and is so accompanying and residing with the member (in marital union if a spouse), then the residence and physical presence of the person abroad shall not be treated as—
   - **(1)** an abandonment or relinquishment of lawful permanent resident status for purposes of clause (i) of section 1101(a)(13)(C) of this title ; or
   - **(2)** an absence from the United States for purposes of clause (ii) of such section.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 9, § 284, [66 Stat. 232](https://www.govinfo.gov/link/statute/66/232); [Pub. L. 110–181, div. A, title VI, § 673](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 185](https://www.govinfo.gov/link/statute/122/185).)*

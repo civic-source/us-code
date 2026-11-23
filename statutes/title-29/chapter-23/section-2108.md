@@ -3,12 +3,17 @@ title: "Section 2108 - Effect on other laws"
 usc_title: 29
 usc_section: "2108"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 2108"
-generated_at: "2026-03-30T02:55:18.743Z"
+generated_at: "2026-11-23T21:26:02.313Z"
+status: "active"
 ---
 
 # § 2108. Effect on other laws
 
 The giving of notice pursuant to this chapter, if done in good faith compliance with this chapter, shall not constitute a violation of the National Labor Relations Act [ 29 U.S.C. 151 et seq.] or the Railway Labor Act [ 45 U.S.C. 151 et seq.].
 
+
+## Source Credit
+
+*([Pub. L. 100–379, § 9](https://www.govinfo.gov/link/plaw/100/public/379), Aug. 4, 1988, [102 Stat. 894](https://www.govinfo.gov/link/statute/102/894).)*

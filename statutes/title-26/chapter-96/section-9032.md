@@ -3,9 +3,10 @@ title: "Section 9032 - Definitions"
 usc_title: 26
 usc_section: "9032"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 9032"
-generated_at: "2026-03-30T02:55:27.890Z"
+generated_at: "2026-11-23T21:26:07.030Z"
+status: "active"
 ---
 
 # § 9032. Definitions
@@ -31,3 +32,7 @@ For purposes of this chapter—
     - **(A)** incurred by a candidate, or by his authorized committee, in connection with his campaign for nomination for election, and
     - **(B)** neither the incurring nor payment of which constitutes a violation of any law of the United States or of the State in which the expense is incurred or paid.
   - **(10)** The term “State” means each State of the United States and the District of Columbia.
+
+## Source Credit
+
+*(Added [Pub. L. 93–443, title IV, § 408(c)](https://www.govinfo.gov/link/plaw/93/public/443), Oct. 15, 1974, [88 Stat. 1297](https://www.govinfo.gov/link/statute/88/1297); amended [Pub. L. 94–283, title I, § 115(c)(2)](https://www.govinfo.gov/link/plaw/94/public/283), title III, § 306(b)(1), May 11, 1976, [90 Stat. 495](https://www.govinfo.gov/link/statute/90/495), 500; [Pub. L. 110–172, § 11(a)(42)(C)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2488](https://www.govinfo.gov/link/statute/121/2488).)*

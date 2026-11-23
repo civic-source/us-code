@@ -3,9 +3,10 @@ title: "Section 102 - Effect of certain amendments on conforming changes to tabl
 usc_title: 10
 usc_section: "102"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 102"
-generated_at: "2026-03-30T02:53:38.029Z"
+generated_at: "2026-11-23T21:25:32.190Z"
+status: "active"
 ---
 
 # § 102. Effect of certain amendments on conforming changes to tables of sections, tables of contents, and similar tabular entries
@@ -19,3 +20,19 @@ generated_at: "2026-03-30T02:53:38.029Z"
   - **(2)** titles 32 and 37;
   - **(3)** any national defense authorization Act that authorizes funds to be appropriated for a fiscal year to the Department of Defense; and
   - **(4)** any other law designated in the text thereof as a covered defense law for purposes of application of this section.
+
+Automatic Execution of Conforming Changes
+
+Exceptions
+
+Covered Defense Law
+
+Automatic execution of conforming changes
+
+Exceptions
+
+Covered defense law defined
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. A, title X, § 1081(e)(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2798](https://www.govinfo.gov/link/statute/136/2798).)*

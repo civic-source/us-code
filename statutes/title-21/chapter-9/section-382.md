@@ -3,9 +3,10 @@ title: "Section 382 - Exports of certain unapproved products"
 usc_title: 21
 usc_section: "382"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 382"
-generated_at: "2026-03-30T02:54:54.277Z"
+generated_at: "2026-11-23T21:25:56.172Z"
+status: "active"
 ---
 
 # § 382. Exports of certain unapproved products
@@ -80,3 +81,7 @@ generated_at: "2026-03-30T02:54:54.277Z"
   - **(1)** a reference to the Secretary shall in the case of a biological product which is required to be licensed under the Act of March 4, 1913 [ 21 U.S.C. 151 et seq.] ( 37 Stat. 832–833 ) (commonly known as the Virus-Serum Toxin Act) be considered to be a reference to the Secretary of Agriculture, and
   - **(2)** the term “drug” includes drugs for human use as well as biologicals under section 262 of title 42 or the Act of March 4, 1913 ( 37 Stat. 832–833 ) (commonly known as the Virus-Serum Toxin Act).
 - **(i)** Insulin and antibiotic drugs may be exported without regard to the requirements in this section if the insulin and antibiotic drugs meet the requirements of section 381(e)(1) of this title .
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 802, as added [Pub. L. 99–660, title I, § 102(2)](https://www.govinfo.gov/link/plaw/99/public/660), Nov. 14, 1986, [100 Stat. 3743](https://www.govinfo.gov/link/statute/100/3743); amended [Pub. L. 104–134, title III, § 2102(d)(1)](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–315](https://www.govinfo.gov/link/statute/110/1321); [Pub. L. 104–180, title VI, § 603(c)](https://www.govinfo.gov/link/plaw/104/public/180), Aug. 6, 1996, [110 Stat. 1595](https://www.govinfo.gov/link/statute/110/1595); [Pub. L. 105–115, title I, § 125(c)](https://www.govinfo.gov/link/plaw/105/public/115), Nov. 21, 1997, [111 Stat. 2326](https://www.govinfo.gov/link/statute/111/2326).)*

@@ -3,9 +3,10 @@ title: "Section 3142 - Operational files of the National Geospatial-Intelligence
 usc_title: 50
 usc_section: "3142"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3142"
-generated_at: "2026-03-30T02:56:26.237Z"
+generated_at: "2026-11-23T21:26:39.015Z"
+status: "active"
 ---
 
 # § 3142. Operational files of the National Geospatial-Intelligence Agency
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:56:26.237Z"
   - **(3)** A complainant that alleges that NGA has improperly withheld records because of failure to comply with this subsection may seek judicial review in the district court of the United States of the district in which any of the parties reside, or in the District of Columbia. In such a proceeding, the court’s review shall be limited to determining the following:
     - **(A)** Whether NGA has conducted the review required by paragraph (1) before the expiration of the 10-year period beginning on December 3, 1999 , or before the expiration of the 10-year period beginning on the date of the most recent review.
     - **(B)** Whether NGA, in fact, considered the criteria set forth in paragraph (2) in conducting the required review.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title VII, § 702, formerly title I, § 105B, as added [Pub. L. 106–120, title V, § 501(a)(1)](https://www.govinfo.gov/link/plaw/106/public/120), Dec. 3, 1999, [113 Stat. 1616](https://www.govinfo.gov/link/statute/113/1616); renumbered § 105C, [Pub. L. 107–56, title IX, § 905(a)(1)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 388](https://www.govinfo.gov/link/statute/115/388); amended [Pub. L. 107–306, title III, § 353(b)(5)](https://www.govinfo.gov/link/plaw/107/public/306), Nov. 27, 2002, [116 Stat. 2402](https://www.govinfo.gov/link/statute/116/2402); renumbered title VII, § 702, and amended [Pub. L. 108–136, div. A, title IX](https://www.govinfo.gov/link/plaw/108/public/136), §§ 921(e)(4), 922(c), (d)(1)(C), Nov. 24, 2003, [117 Stat. 1569](https://www.govinfo.gov/link/statute/117/1569), 1573, 1574; [Pub. L. 108–375, div. A, title X, § 1084(j)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2064](https://www.govinfo.gov/link/statute/118/2064); [Pub. L. 108–458, title I, § 1071(a)(1)(DD)](https://www.govinfo.gov/link/plaw/108/public/458) –(FF), Dec. 17, 2004, [118 Stat. 3689](https://www.govinfo.gov/link/statute/118/3689); [Pub. L. 109–163, div. A, title IX, § 933(b)(1)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3416](https://www.govinfo.gov/link/statute/119/3416).)*

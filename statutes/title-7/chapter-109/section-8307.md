@@ -3,9 +3,10 @@ title: "Section 8307 - Inspections, seizures, and warrants"
 usc_title: 7
 usc_section: "8307"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 8307"
-generated_at: "2026-03-30T02:53:42.474Z"
+generated_at: "2026-11-23T21:25:28.472Z"
+status: "active"
 ---
 
 # § 8307. Inspections, seizures, and warrants
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:53:42.474Z"
   - **(2)**
     - **(A)** On proper oath or affirmation showing probable cause to believe that there is on certain premises any animal, article, facility, or means of conveyance regulated under this chapter, a United States judge, a judge of a court of record in the United States, or a United States magistrate judge may issue a warrant for the entry on premises within the jurisdiction of the judge or magistrate to make any inspection or seizure under this chapter.
     - **(B)** The warrant may be applied for and executed by the Secretary or any United States marshal.
+
+Preclearance Inspections Required
+
+Inspection Locations
+
+Limitation
+
+## Source Credit
+
+*([Pub. L. 107–171, title X, § 10408](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 500](https://www.govinfo.gov/link/statute/116/500).)*

@@ -3,9 +3,10 @@ title: "Section 7509a - International border areas"
 usc_title: 42
 usc_section: "7509a"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7509a"
-generated_at: "2026-03-30T02:56:11.305Z"
+generated_at: "2026-11-23T21:26:33.105Z"
+status: "active"
 ---
 
 # § 7509a. International border areas
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.305Z"
 - **(b)** Notwithstanding any other provision of law, any State that establishes to the satisfaction of the Administrator that, with respect to an ozone nonattainment area in such State, such State would have attained the national ambient air quality standard for ozone by the applicable attainment date, but for emissions emanating from outside of the United States, shall not be subject to the provisions of section 7511(a)(2) or (5) of this title or section 7511d of this title .
 - **(c)** Notwithstanding any other provision of law, any State that establishes to the satisfaction of the Administrator, with respect to a carbon monoxide nonattainment area in such State, that such State has attained the national ambient air quality standard for carbon monoxide by the applicable attainment date, but for emissions emanating from outside of the United States, shall not be subject to the provisions of section 7512(b)(2) or (9) 2 2 So in original. Section 7512(b) of this title does not contain a par. (9). of this title.
 - **(d)** Notwithstanding any other provision of law, any State that establishes to the satisfaction of the Administrator that, with respect to a PM–10 nonattainment area in such State, such State would have attained the national ambient air quality standard for carbon monoxide by the applicable attainment date, but for emissions emanating from outside the United States, shall not be subject to the provisions of section 7513(b)(2) of this title .
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 179B, as added [Pub. L. 101–549, title VIII, § 818](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2697](https://www.govinfo.gov/link/statute/104/2697).)*

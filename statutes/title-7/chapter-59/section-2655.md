@@ -3,9 +3,10 @@ title: "Section 2655 - Rural firefighters and emergency medical service assistan
 usc_title: 7
 usc_section: "2655"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2655"
-generated_at: "2026-03-30T02:53:42.389Z"
+generated_at: "2026-11-23T21:25:28.303Z"
+status: "active"
 ---
 
 # § 2655. Rural firefighters and emergency medical service assistance program
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:53:42.389Z"
 - **(g)**
   - **(1)** There is authorized to be appropriated to the Secretary to carry out this section not more than $30,000,000 for each of fiscal years 2008 through 2012.
   - **(2)** Not more than 5 percent of the amount appropriated under paragraph (1) for a fiscal year may be used for administrative expenses incurred in carrying out this section.
+
+## Source Credit
+
+*([Pub. L. 107–171, title VI, § 6405](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 430](https://www.govinfo.gov/link/statute/116/430); [Pub. L. 109–171, title I, § 1405(a)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 7](https://www.govinfo.gov/link/statute/120/7); [Pub. L. 110–234, title VI, § 6204](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1208](https://www.govinfo.gov/link/statute/122/1208); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VI, § 6204, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1969.)*

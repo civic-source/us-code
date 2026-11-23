@@ -3,9 +3,10 @@ title: "Section 1460 - Walter B. Jones excellence in coastal zone management awa
 usc_title: 16
 usc_section: "1460"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1460"
-generated_at: "2026-03-30T02:54:22.972Z"
+generated_at: "2026-11-23T21:25:51.889Z"
+status: "active"
 ---
 
 # § 1460. Walter B. Jones excellence in coastal zone management awards
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:22.972Z"
   - **(1)** cash awards in an amount not to exceed $5,000 each;
   - **(2)** research grants; and
   - **(3)** public ceremonies to acknowledge such awards.
+
+## Source Credit
+
+*([Pub. L. 89–454, title III, § 314](https://www.govinfo.gov/link/plaw/89/public/454), formerly § 313, as added [Pub. L. 101–508, title VI, § 6213](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–312](https://www.govinfo.gov/link/statute/104/1388); renumbered § 314 and amended [Pub. L. 102–587, title II, § 2205(b)(20)](https://www.govinfo.gov/link/plaw/102/public/587), Nov. 4, 1992, [106 Stat. 5052](https://www.govinfo.gov/link/statute/106/5052).)*

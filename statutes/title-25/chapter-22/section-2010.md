@@ -3,9 +3,10 @@ title: "Section 2010 - Uniform direct funding and support"
 usc_title: 25
 usc_section: "2010"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2010"
-generated_at: "2026-03-30T02:54:52.833Z"
+generated_at: "2026-11-23T21:25:54.651Z"
+status: "active"
 ---
 
 # § 2010. Uniform direct funding and support
@@ -77,3 +78,7 @@ generated_at: "2026-03-30T02:54:52.833Z"
 - **(h)**
   - **(1)** Notwithstanding any other provision of law, funds received by a Bureau-funded school under this chapter for education-related activities (not including funds for construction, maintenance, and facilities improvement or repair) shall not be considered Federal funds for the purposes of a matching funds requirement for any Federal program.
   - **(2)** In considering an application from a Bureau-funded school for participation in a program or project that requires matching funds, the entity administering such program or project or awarding such grant shall not give positive or negative weight to such application based solely on the provisions of paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 95–561, title XI, § 1130](https://www.govinfo.gov/link/plaw/95/public/561), as added [Pub. L. 107–110, title X, § 1042](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2039](https://www.govinfo.gov/link/statute/115/2039).)*

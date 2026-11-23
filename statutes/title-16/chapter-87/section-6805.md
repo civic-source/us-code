@@ -3,9 +3,10 @@ title: "Section 6805 - Cooperative agreements"
 usc_title: 16
 usc_section: "6805"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6805"
-generated_at: "2026-03-30T02:54:23.069Z"
+generated_at: "2026-11-23T21:25:52.053Z"
+status: "active"
 ---
 
 # § 6805. Cooperative agreements
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:23.069Z"
   - **(3)** With any governmental entity, including those in a gateway community, to obtain law enforcement services.
 - **(b)** A State or legal subdivision of a State that enters into an agreement with the Secretary under subsection (a) may share in a percentage of the revenues collected at the site in accordance with that fee management agreement.
 - **(c)** The Secretary shall consider any proposal submitted by a county to provide services described in subsection (a). If the Secretary decides not to enter into a fee management agreement with the county under subsection (a), the Secretary shall notify the county in writing of the decision, identifying the reasons for the decision. The fee management agreement may include cooperative site planning and management provisions.
+
+## Source Credit
+
+*([Pub. L. 108–447, div. J, title VIII, § 806](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3387](https://www.govinfo.gov/link/statute/118/3387).)*

@@ -3,9 +3,10 @@ title: "Section 1397n - Purposes"
 usc_title: 42
 usc_section: "1397n"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1397n"
-generated_at: "2026-03-30T02:56:11.067Z"
+generated_at: "2026-11-23T21:26:31.937Z"
+status: "active"
 ---
 
 # § 1397n. Purposes
@@ -19,3 +20,7 @@ The purposes of this division are the following:
   - **(5)** To facilitate the creation of public-private partnerships that bundle philanthropic or other private resources with existing public spending to scale up effective social interventions already being implemented by private organizations, nonprofits, charitable organizations, and State and local governments across the country.
   - **(6)** To bring pay-for-performance to the social sector, allowing the United States to improve the impact and effectiveness of vital social services programs while redirecting inefficient or duplicative spending.
   - **(7)** To incorporate outcomes measurement and randomized controlled trials or other rigorous methodologies for assessing program impact.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XX, § 2051, as added [Pub. L. 115–123, div. E, title VIII, § 50802(2)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 269](https://www.govinfo.gov/link/statute/132/269).)*

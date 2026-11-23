@@ -3,9 +3,10 @@ title: "Section 2807 - Capital requirements for aquaculture"
 usc_title: 16
 usc_section: "2807"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2807"
-generated_at: "2026-03-30T02:54:23.007Z"
+generated_at: "2026-11-23T21:25:51.956Z"
+status: "active"
 ---
 
 # § 2807. Capital requirements for aquaculture
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:23.007Z"
   - **(1)** document and analyze any capital constraints that affect the development of aquaculture in the United States; and
   - **(2)** evaluate the role that appropriate Federal financial assistance does or could play in filling gaps in the normal credit market with respect to aquaculture.
 - **(b)** Based on the results of the Capital Requirements Study conducted under subsection (a), and within six months of the completion of the study, the Secretaries shall formulate a plan for acting on the study’s findings. The plan shall include: (1) those Federal actions, if any, found to be necessary to meet financial needs unmet through normal credit channels and existing Federal programs; and (2) recommendations, if any, for legislative actions. Upon completion, the plan shall be submitted to Congress.
+
+## Source Credit
+
+*([Pub. L. 96–362, § 8](https://www.govinfo.gov/link/plaw/96/public/362), Sept. 26, 1980, [94 Stat. 1204](https://www.govinfo.gov/link/statute/94/1204).)*

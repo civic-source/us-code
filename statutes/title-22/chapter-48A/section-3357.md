@@ -3,9 +3,10 @@ title: "Section 3357 - Findings and statement of policy"
 usc_title: 22
 usc_section: "3357"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3357"
-generated_at: "2026-03-30T02:55:05.392Z"
+generated_at: "2026-11-23T21:25:58.584Z"
+status: "active"
 ---
 
 # § 3357. Findings and statement of policy
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.392Z"
 - **(b)** It is the policy of the United States to—
   - **(1)** maintain the position that peace and stability in the Western Pacific are in the political, security, and economic interests of the United States, and are matters of international concern; and
   - **(2)** work with allies and partners to promote peace and stability in the Indo-Pacific and deter military acts or other forms of coercive behavior that would undermine regional stability.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. E, title LV, § 5511](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3308](https://www.govinfo.gov/link/statute/136/3308).)*

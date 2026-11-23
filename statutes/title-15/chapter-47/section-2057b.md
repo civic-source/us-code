@@ -3,9 +3,10 @@ title: "Section 2057b - Banning of isopropal nitrite and other nitrites"
 usc_title: 15
 usc_section: "2057b"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2057b"
-generated_at: "2026-03-30T02:54:08.163Z"
+generated_at: "2026-11-23T21:25:39.904Z"
+status: "active"
 ---
 
 # § 2057b. Banning of isopropal nitrite and other nitrites
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.163Z"
 - **(b)** For the purposes of section 2057 of this title , it shall not be unlawful for any person to manufacture for sale, offer for sale, distribute in commerce, or import into the United States volatile alkyl nitrites for any commercial purpose or any other purpose approved under the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 301 et seq.].
 - **(c)** For purposes of this section, the term “commercial purpose” means any commercial purpose other than for the production of consumer products containing volatile alkyl nitrites that may be used for inhaling or otherwise introducing volatile alkyl nitrites into the human body for euphoric or physical effects.
 - **(d)** This section shall take effect 90 days after November 29, 1990 .
+
+## Source Credit
+
+*([Pub. L. 101–647, title XXXII, § 3202](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4917](https://www.govinfo.gov/link/statute/104/4917).)*

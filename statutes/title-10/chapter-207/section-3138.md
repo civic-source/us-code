@@ -3,9 +3,10 @@ title: "Section 3138 - Obligations for contract services: reporting in budget ob
 usc_title: 10
 usc_section: "3138"
 chapter: 207
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3138"
-generated_at: "2026-03-30T02:53:38.189Z"
+generated_at: "2026-11-23T21:25:32.716Z"
+status: "active"
 ---
 
 # § 3138. Obligations for contract services: reporting in budget object classes
@@ -29,3 +30,25 @@ generated_at: "2026-03-30T02:53:38.189Z"
   - **(2)** The term “advisory and assistance services object class” means those contract services constituting the budget object class that is denominated “Advisory and Assistance Service” and designated (as of October 17, 1998 ) as Object Class 25.1 (or any similar object class established after October 17, 1998 , for the reporting of obligations for advisory and assistance contract services).
   - **(3)** The term “miscellaneous services object class” means those contract services constituting the budget object class that is denominated “Other Services (services not otherwise specified in the 25 series)” and designated (as of October 17, 1998 ) as Object Class 25.2 (or any similar object class established after October 17, 1998 , for the reporting of obligations for miscellaneous or unspecified contract services).
   - **(4)** The term “authorized exemptions” means those exemptions authorized (as of October 17, 1998 ) under Department of Defense Directive 4205.2, captioned “Acquiring and Managing Contracted Advisory and Assistance Services (CAAS)” and issued by the Under Secretary of Defense for Acquisition and Technology on February 10, 1992 , such exemptions being set forth in Enclosure 3 to that directive (captioned “CAAS Exemptions”).
+
+Limitation on Reporting in Miscellaneous Services Object Class
+
+Definition of Reporting Categories for Advisory and Assistance Services
+
+Management and professional support services
+
+Studies, analyses, and evaluations
+
+Engineering and technical services
+
+Proper Classification of Advisory and Assistance Services
+
+Report to Congress
+
+Assessment by Comptroller General
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 105–261, div. A, title IX, § 911(a)(1)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2097](https://www.govinfo.gov/link/statute/112/2097), § 2212; amended [Pub. L. 106–65, div. A, title X, § 1066(a)(17)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 771](https://www.govinfo.gov/link/statute/113/771); renumbered § 3138, [Pub. L. 116–283, div. A, title XVIII, § 1809(i)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4162](https://www.govinfo.gov/link/statute/134/4162).)*

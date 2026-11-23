@@ -3,9 +3,10 @@ title: "Section 18361 - Sense of Congress on the Space Shuttle program"
 usc_title: 42
 usc_section: "18361"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18361"
-generated_at: "2026-03-30T02:56:11.519Z"
+generated_at: "2026-11-23T21:26:33.822Z"
+status: "active"
 ---
 
 # § 18361. Sense of Congress on the Space Shuttle program
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.519Z"
 - **(b)** It is the sense of Congress that—
   - **(1)** it is essential that the retirement of the Space Shuttle and the transition to new human space flight capabilities be done in a manner that builds upon the legacy of this national asset; and
   - **(2)** it is imperative for the United States to retain the skills and the industrial capability to provide a follow-on Space Launch System that is primarily designed for missions beyond near-Earth space, while offering some potential for supplanting shuttle delivery capabilities to low-Earth orbit, particularly in support of ISS requirements, if necessary.
+
+## Source Credit
+
+*([Pub. L. 111–267, title VI, § 601](https://www.govinfo.gov/link/plaw/111/public/267), Oct. 11, 2010, [124 Stat. 2828](https://www.govinfo.gov/link/statute/124/2828).)*

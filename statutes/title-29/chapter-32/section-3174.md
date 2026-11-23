@@ -3,9 +3,10 @@ title: "Section 3174 - Use of funds for employment and training activities"
 usc_title: 29
 usc_section: "3174"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3174"
-generated_at: "2026-03-30T02:55:18.754Z"
+generated_at: "2026-11-23T21:26:02.339Z"
+status: "active"
 ---
 
 # § 3174. Use of funds for employment and training activities
@@ -227,3 +228,45 @@ generated_at: "2026-03-30T02:55:18.754Z"
     - **(A)** are time-limited work experiences that are subsidized and are in the public, private, or nonprofit sectors for individuals with barriers to employment who are chronically unemployed or have an inconsistent work history;
     - **(B)** are combined with comprehensive employment and supportive services; and
     - **(C)** are designed to assist the individuals described in subparagraph (A) to establish a work history, demonstrate success in the workplace, and develop the skills that lead to entry into and retention in unsubsidized employment.
+
+(aa) child support services, and assistance provided by State and local agencies carrying out part D of title IV of the Social Security Act ( 42 U.S.C. 651 et seq.);
+
+(bb) cooperative extension programs carried out by the Department of Agriculture;
+
+(cc) programs carried out in local areas for individuals with disabilities, including programs carried out by State agencies relating to intellectual disabilities and developmental disabilities, activities carried out by Statewide Independent Living Councils established under section 705 of the Rehabilitation Act of 1973 ( 29 U.S.C. 796d ), programs funded under part B of chapter 1 of title VII of such Act ( 29 U.S.C. 796e et seq.), and activities carried out by centers for independent living, as defined in section 702 of such Act ( 29 U.S.C. 796a );
+
+(dd) adult education and literacy activities, including those provided by public libraries;
+
+(ee) activities in the corrections system that assist ex-offenders in reentering the workforce; and
+
+(ff) financial literacy activities including those described in section 3164(b)(2)(D) of this title ; and
+
+(aa) provision of information on in-demand industry sectors and occupations; and
+
+(bb) provision of information on nontraditional employment; and
+
+(aa) diagnostic testing and use of other assessment tools; and
+
+(bb) in-depth interviewing and evaluation to identify employment barriers and appropriate employment goals;
+
+(aa) be unlikely or unable to obtain or retain employment, that leads to economic self-sufficiency or wages comparable to or higher than wages from previous employment, through the career services described in paragraph (2)(A)(xii);
+
+(bb) be in need of training services to obtain or retain employment that leads to economic self-sufficiency or wages comparable to or higher than wages from previous employment; and
+
+(cc) have the skills and qualifications to successfully participate in the selected program of training services;
+
+(aa) it would be most appropriate to award a contract to an institution of higher education or other eligible provider of training services in order to facilitate the training of multiple individuals in in-demand industry sectors or occupations; and
+
+(bb) such contract does not limit customer choice; or
+
+(aa) developing and implementing industry sector strategies (including strategies involving industry partnerships, regional skills alliances, industry skill panels, and sectoral skills partnerships);
+
+(bb) developing and delivering innovative workforce investment services and strategies for area employers, which may include career pathways, skills upgrading, skill standard development and certification for recognized postsecondary credential or other employer use, apprenticeship, and other effective initiatives for meeting the workforce investment needs of area employers and workers;
+
+(cc) assistance to area employers in managing reductions in force in coordination with rapid response activities provided under subsection (a)(2)(A) and with strategies for the aversion of layoffs, which strategies may include early identification of firms at risk of layoffs, use of feasibility studies to assess the needs of and options for at-risk firms, and the delivery of employment and training activities to address risk factors; and
+
+(dd) the marketing of business services offered under this subchapter, to appropriate area employers, including small and mid-sized employers;
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 134](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1520](https://www.govinfo.gov/link/statute/128/1520); [Pub. L. 114–18, § 2(e)(3)](https://www.govinfo.gov/link/plaw/114/public/18), May 22, 2015, [129 Stat. 214](https://www.govinfo.gov/link/statute/129/214); [Pub. L. 115–224, title III, § 303](https://www.govinfo.gov/link/plaw/115/public/224), July 31, 2018, [132 Stat. 1623](https://www.govinfo.gov/link/statute/132/1623).)*

@@ -3,9 +3,10 @@ title: "Section 41725 - Prohibition on certain cell phone voice communications"
 usc_title: 49
 usc_section: "41725"
 chapter: 417
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 41725"
-generated_at: "2026-03-30T02:56:19.377Z"
+generated_at: "2026-11-23T21:26:40.862Z"
+status: "active"
 ---
 
 # § 41725. Prohibition on certain cell phone voice communications
@@ -21,3 +22,19 @@ generated_at: "2026-03-30T02:56:19.377Z"
   - **(2)**
     - **(A)** The term “mobile communications device” means any portable wireless telecommunications equipment utilized for the transmission or reception of voice data.
     - **(B)** The term “mobile communications device” does not include a phone installed on an aircraft.
+
+Prohibition
+
+Definitions
+
+Flight
+
+Mobile communications device.—
+
+In general
+
+Limitation
+
+## Source Credit
+
+*(Added [Pub. L. 115–254, div. B, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3328](https://www.govinfo.gov/link/statute/132/3328).)*

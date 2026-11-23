@@ -3,9 +3,10 @@ title: "Section 3703 - Report of violations and withholding of amounts for unpai
 usc_title: 40
 usc_section: "3703"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 3703"
-generated_at: "2026-03-30T02:55:43.380Z"
+generated_at: "2026-11-23T21:26:14.871Z"
+status: "active"
 ---
 
 # § 3703. Report of violations and withholding of amounts for unpaid wages and liquidated damages
@@ -26,3 +27,68 @@ generated_at: "2026-03-30T02:55:43.380Z"
 - **(e)**
   - **(1)** Reorganization Plan Numbered 14 of 1950 (eff. May 24, 1950 , 64 Stat. 1267 ) applies to this chapter.
   - **(2)** Section 3145 of this title applies to contractors and subcontractors referred to in section 3145 who are engaged in the performance of contracts subject to this chapter.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3703(a) | 40:330(a) (1st sentence). | Pub. L. 87–581, title I, § 104 , Aug. 13, 1962 , 76 Stat. 358 ; Pub. L. 97–164, title I, § 160(a)(13) , Apr. 2, 1982 , 96 Stat. 48 . |
+| 3703(b) | 40:330(a) (2d, last sentences). |  |
+| 3703(c) | 40:330(b). |  |
+| 3703(d) | 40:330(c). |  |
+| 3703(e) | 40:330(d). |  |
+
+
+Reports of Inspectors
+
+Withholding Amounts.—
+
+Determining amount
+
+Amount directed to be withheld
+
+Payment
+
+Right of Action and Intervention Against Contractors and Sureties
+
+Review Process.—
+
+Time limit for appeal
+
+Review by agency head or mayor
+
+Review by secretary
+
+Judicial action
+
+Applicability of Other Laws.—
+
+Reorganization plan
+
+Section 3145
+
+Historical and Revision Notes
+
+3703(a)
+
+Pub. L. 87–581, title I, § 104
+
+Aug. 13, 1962
+
+76 Stat. 358
+
+Pub. L. 97–164, title I, § 160(a)(13)
+
+Apr. 2, 1982
+
+96 Stat. 48
+
+3703(b)
+
+3703(c)
+
+3703(d)
+
+3703(e)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1170](https://www.govinfo.gov/link/statute/116/1170); [Pub. L. 113–50, § 2(b)](https://www.govinfo.gov/link/plaw/113/public/50), Nov. 21, 2013, [127 Stat. 578](https://www.govinfo.gov/link/statute/127/578).)*

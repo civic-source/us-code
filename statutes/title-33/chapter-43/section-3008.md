@@ -3,9 +3,10 @@ title: "Section 3008 - Cooperative aviation centers"
 usc_title: 33
 usc_section: "3008"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3008"
-generated_at: "2026-03-30T02:55:41.136Z"
+generated_at: "2026-11-23T21:26:11.475Z"
+status: "active"
 ---
 
 # § 3008. Cooperative aviation centers
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:41.136Z"
   - **(2)** The Cooperative Aviation Centers Advisor shall—
     - **(A)** coordinate all engagement of the Administration with Cooperative Aviation Centers, including assistance with curriculum development; and
     - **(B)** serve as the chief aviation recruiting officer for the commissioned officer corps of the Administration.
+
+## Source Credit
+
+*([Pub. L. 107–372, title II, § 218](https://www.govinfo.gov/link/plaw/107/public/372), as added [Pub. L. 116–259, title I, § 105(a)](https://www.govinfo.gov/link/plaw/116/public/259), Dec. 23, 2020, [134 Stat. 1157](https://www.govinfo.gov/link/statute/134/1157); amended [Pub. L. 119–60, div. H, title LXXXIV, § 8403(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1910](https://www.govinfo.gov/link/statute/139/1910).)*

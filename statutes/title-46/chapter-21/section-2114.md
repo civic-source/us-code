@@ -3,9 +3,10 @@ title: "Section 2114 - Protection of seamen against discrimination"
 usc_title: 46
 usc_section: "2114"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 2114"
-generated_at: "2026-03-30T02:56:15.541Z"
+generated_at: "2026-11-23T21:26:37.033Z"
+status: "active"
 ---
 
 # § 2114. Protection of seamen against discrimination
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:15.541Z"
   - **(2)** The circumstances causing a seaman’s apprehension of serious injury under paragraph (1)(C) must be of such a nature that a reasonable person, under similar circumstances, would conclude that there is a real danger of an injury or serious impairment of health resulting from the performance of duties as ordered by the seaman’s employer.
   - **(3)** To qualify for protection against the seaman’s employer under paragraph (1)(C), the employee must have sought from the employer, and been unable to obtain, correction of the unsafe condition.
 - **(b)** A seaman alleging discharge or discrimination in violation of subsection (a) of this section, or another person at the seaman’s request, may file a complaint with respect to such allegation in the same manner as a complaint may be filed under subsection (b) of section 31105 of title 49 . Such complaint shall be subject to the procedures, requirements, and rights described in that section, including with respect to the right to file an objection, the right of a person to file for a petition for review under subsection (c) of that section, and the requirement to bring a civil action under subsection (d) of that section.
+
+## Source Credit
+
+*(Added [Pub. L. 98–557, § 13(a)](https://www.govinfo.gov/link/plaw/98/public/557), Oct. 30, 1984, [98 Stat. 2863](https://www.govinfo.gov/link/statute/98/2863); amended [Pub. L. 107–295, title IV, § 428](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2127](https://www.govinfo.gov/link/statute/116/2127); [Pub. L. 111–281, title VI, § 611(a)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2969](https://www.govinfo.gov/link/statute/124/2969); [Pub. L. 117–263, div. K, title CXVI, § 11605](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4148](https://www.govinfo.gov/link/statute/136/4148).)*

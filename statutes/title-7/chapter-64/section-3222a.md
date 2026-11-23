@@ -3,9 +3,10 @@ title: "Section 3222a - Scholarships for students at 1890 Institutions"
 usc_title: 7
 usc_section: "3222a"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3222a"
-generated_at: "2026-03-30T02:53:42.399Z"
+generated_at: "2026-11-23T21:25:28.325Z"
+status: "active"
 ---
 
 # § 3222a. Scholarships for students at 1890 Institutions
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:42.399Z"
   - **(1)** the amount of funds provided to each eligible college or university under this section;
   - **(2)** the number of scholarships awarded under each grant each fiscal year; and
   - **(3)** the amount of each such scholarship.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1446](https://www.govinfo.gov/link/plaw/95/public/113), as added [Pub. L. 115–334, title VII, § 7117](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4789](https://www.govinfo.gov/link/statute/132/4789); amended [Pub. L. 118–22, div. B, title I, § 102(d)(5)(A)](https://www.govinfo.gov/link/plaw/118/public/22), Nov. 17, 2023, [137 Stat. 117](https://www.govinfo.gov/link/statute/137/117); [Pub. L. 119–21, title I, § 10604(c)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 109](https://www.govinfo.gov/link/statute/139/109).)*

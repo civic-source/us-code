@@ -3,9 +3,10 @@ title: "Section 5505 - Unlawful activities"
 usc_title: 16
 usc_section: "5505"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 5505"
-generated_at: "2026-03-30T02:54:23.052Z"
+generated_at: "2026-11-23T21:25:52.031Z"
+status: "active"
 ---
 
 # § 5505. Unlawful activities
@@ -22,3 +23,7 @@ It is unlawful for any person subject to the jurisdiction of the United States�
   - **(8)** to interfere with, delay, or prevent, by any means, the apprehension, arrest, or detection of another person, knowing that such person has committed any act prohibited by this section;
   - **(9)** to ship, transport, offer for sale, sell, purchase, import, export, or have custody, control, or possession of, any living marine resource taken or retained in violation of this chapter or any regulation or permit issued under this chapter; or
   - **(10)** to violate any provision of this chapter or any regulation or permit issued under this chapter.
+
+## Source Credit
+
+*([Pub. L. 104–43, title I, § 106](https://www.govinfo.gov/link/plaw/104/public/43), Nov. 3, 1995, [109 Stat. 371](https://www.govinfo.gov/link/statute/109/371).)*

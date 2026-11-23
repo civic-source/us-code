@@ -3,9 +3,10 @@ title: "Section 1302c - Small publicly owned treatment works efficiency grant pr
 usc_title: 33
 usc_section: "1302c"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1302c"
-generated_at: "2026-03-30T02:55:41.090Z"
+generated_at: "2026-11-23T21:26:11.376Z"
+status: "active"
 ---
 
 # § 1302c. Small publicly owned treatment works efficiency grant program
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:41.090Z"
 - **(d)**
   - **(1)** Of the amounts made available for grants under this section, to the extent that there are sufficient applications, not less than 15 percent shall be used for grants to publicly owned treatment works that serve fewer than 3,300 people.
   - **(2)** Of the amounts made available for grants under this section, not more than 2 percent may be used to pay the administrative costs of the Administrator.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title II, § 225, as added [Pub. L. 117–58, div. E, title II, § 50207](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1165](https://www.govinfo.gov/link/statute/135/1165).)*

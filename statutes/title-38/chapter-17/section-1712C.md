@@ -3,9 +3,10 @@ title: "Section 1712C - Dental insurance plan for veterans and survivors and dep
 usc_title: 38
 usc_section: "1712C"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1712C"
-generated_at: "2026-03-30T02:55:53.484Z"
+generated_at: "2026-11-23T21:26:16.638Z"
+status: "active"
 ---
 
 # § 1712C. Dental insurance plan for veterans and survivors and dependents of veterans
@@ -34,3 +35,25 @@ generated_at: "2026-03-30T02:55:53.484Z"
   - **(3)** The Secretary shall establish procedures for determinations on the permissibility of voluntary disenrollments under paragraph (1)(B). Such procedures shall ensure timely determinations on the permissibility of such disenrollments.
 - **(h)** Nothing in this section shall affect the responsibility of the Secretary to provide dental care under section 1712 of this title , and the participation of an individual in the dental insurance plan under this section shall not affect the entitlement of the individual to outpatient dental services and treatment, and related dental appliances, under such section 1712.
 - **(i)** The dental insurance plan under this section shall be administered under such regulations as the Secretary shall prescribe.
+
+In General
+
+Covered Veterans and Survivors and Dependents
+
+Administration
+
+Benefits
+
+Enrollment
+
+Premiums
+
+Voluntary Disenrollment
+
+Relationship to Dental Care Provided by Secretary
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 114–218, § 2(a)(1)](https://www.govinfo.gov/link/plaw/114/public/218), July 29, 2016, [130 Stat. 842](https://www.govinfo.gov/link/statute/130/842); amended [Pub. L. 117–42, § 2](https://www.govinfo.gov/link/plaw/117/public/42), Sept. 30, 2021, [135 Stat. 342](https://www.govinfo.gov/link/statute/135/342).)*

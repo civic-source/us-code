@@ -3,9 +3,10 @@ title: "Section 1445i - Multiyear set-aside contracts for 1986 through 1990 crop
 usc_title: 7
 usc_section: "1445i"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1445i"
-generated_at: "2026-03-30T02:53:42.316Z"
+generated_at: "2026-11-23T21:25:28.080Z"
+status: "active"
 ---
 
 # § 1445i. Multiyear set-aside contracts for 1986 through 1990 crops of wheat, feed grains, upland cotton, and rice
@@ -16,3 +17,7 @@ Notwithstanding any other provision of law:
   - **(2)** The Secretary shall provide cost-sharing incentives to farm operators for the establishment of vegetative cover, whenever a multiyear set-aside contract is entered into under this section.
   - **(3)** The Secretary may issue such regulations as the Secretary determines necessary to carry out this section.
   - **(4)** The Secretary shall carry out the program authorized by this section through the Commodity Credit Corporation.
+
+## Source Credit
+
+*([Pub. L. 99–198, title X, § 1010](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1454](https://www.govinfo.gov/link/statute/99/1454).)*

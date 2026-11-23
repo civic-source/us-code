@@ -3,9 +3,10 @@ title: "Section 10751 - Grant authorization"
 usc_title: 34
 usc_section: "10751"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10751"
-generated_at: "2026-03-30T02:55:33.276Z"
+generated_at: "2026-11-23T21:26:09.691Z"
+status: "active"
 ---
 
 # § 10751. Grant authorization
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:33.276Z"
 - **(d)** In this section, the term “behavioral health provider” means—
   - **(1)** a community mental health center that meets the criteria under section 300x–2(c) of this title ; or
   - **(2)** a certified community behavioral health clinic described in section 223(d) of the Protecting Access to Medicare Act of 2014 ( 42 U.S.C. 1396a note).
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 3051](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 116–281, § 2(a)](https://www.govinfo.gov/link/plaw/116/public/281), Dec. 31, 2020, [134 Stat. 3381](https://www.govinfo.gov/link/statute/134/3381).)*

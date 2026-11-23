@@ -3,9 +3,10 @@ title: "Section 27 - Evaluation and report"
 usc_title: 20
 usc_section: "27"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 27"
-generated_at: "2026-03-30T02:54:48.107Z"
+generated_at: "2026-11-23T21:25:47.067Z"
+status: "active"
 ---
 
 # § 1070a–27. Evaluation and report
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:48.107Z"
   - **(1)** the implementation of the scholarship component described in section 1070a–25 of this title ; and
   - **(2)** the use of methods for complying with matching requirements described in paragraphs (1) and (2) of section 1070a–23(c) of this title .
 - **(d)** The Secretary shall biennially report to Congress regarding the activities assisted under this division and the evaluations conducted pursuant to this section.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 404G](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title IV, § 403](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1662](https://www.govinfo.gov/link/statute/112/1662); amended [Pub. L. 110–315, title IV, § 404(g)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3215](https://www.govinfo.gov/link/statute/122/3215).)*

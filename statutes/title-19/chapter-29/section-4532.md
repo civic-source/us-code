@@ -3,9 +3,10 @@ title: "Section 4532 - Special rules for automotive goods"
 usc_title: 19
 usc_section: "4532"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4532"
-generated_at: "2026-03-30T02:54:24.711Z"
+generated_at: "2026-11-23T21:25:42.891Z"
+status: "active"
 ---
 
 # § 4532. Special rules for automotive goods
@@ -155,3 +156,27 @@ generated_at: "2026-03-30T02:54:24.711Z"
 - **(h)** This section shall—
   - **(1)** take effect on January 29, 2020 ; and
   - **(2)** apply with respect to goods entered, or withdrawn from warehouse for consumption, on or after the date on which the USMCA enters into force.
+
+(aa) review the request;
+
+(bb) make a determination with respect to whether the modified plan is based on substantial evidence and reasonably calculated to ensure that the producer will still be able to meet the requirements set forth in articles 2 through 7 of the automotive appendix after the alternative staging regime period has expired;
+
+(cc) if the Trade Representative makes an affirmative determination under item (bb), approve the modified plan; and
+
+(dd) notify the producer in writing of the determination.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 116–113, title II, § 202A](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 33](https://www.govinfo.gov/link/statute/134/33).)*

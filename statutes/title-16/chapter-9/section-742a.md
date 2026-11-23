@@ -3,9 +3,10 @@ title: "Section 742a - Declaration of policy"
 usc_title: 16
 usc_section: "742a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 742a"
-generated_at: "2026-03-30T02:54:22.903Z"
+generated_at: "2026-11-23T21:25:51.739Z"
+status: "active"
 ---
 
 # § 742a. Declaration of policy
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:22.903Z"
 - **(b)** research services for economic and technologic development and resource conservation, and
 - **(c)** resource management to assure the maximum sustainable production for the fisheries. The Congress further declares that the provisions of this Act are necessary in order to accomplish the objective of proper resource development, and that this Act shall be administered with due regard to the inherent right of every citizen and resident of the United States to engage in fishing for his own pleasure, enjoyment, and betterment, and with the intent of maintaining and increasing the public opportunities for recreational use of our fish and wildlife resources, and stimulating the development of a strong, prosperous, and thriving fishery and fish processing industry.
 
+
+## Source Credit
+
+*(Aug. 8, 1956, ch. 1036, § 2, [70 Stat. 1119](https://www.govinfo.gov/link/statute/70/1119).)*

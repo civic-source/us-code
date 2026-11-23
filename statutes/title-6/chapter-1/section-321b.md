@@ -3,9 +3,10 @@ title: "Section 321b - Disability Coordinator"
 usc_title: 6
 usc_section: "321b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 321b"
-generated_at: "2026-03-30T02:53:09.458Z"
+generated_at: "2026-11-23T21:25:25.779Z"
+status: "active"
 ---
 
 # § 321b. Disability Coordinator
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:09.458Z"
   - **(9)** providing guidance and implementing policies to ensure that the rights and wishes of individuals with disabilities regarding post-evacuation residency and relocation are respected;
   - **(10)** ensuring that meeting the needs of individuals with disabilities are included in the components of the national preparedness system established under section 744 of this title ; and
   - **(11)** any other duties as assigned by the Administrator.
+
+## Source Credit
+
+*([Pub. L. 107–296, title V, § 513](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 109–295, title VI, § 611(13)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1408](https://www.govinfo.gov/link/statute/120/1408).)*

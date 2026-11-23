@@ -3,9 +3,10 @@ title: "Section 6522 - Funding"
 usc_title: 7
 usc_section: "6522"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6522"
-generated_at: "2026-03-30T02:53:42.433Z"
+generated_at: "2026-11-23T21:25:28.394Z"
+status: "active"
 ---
 
 # § 6522. Funding
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:42.433Z"
     - **(A)** carrying out this subsection; and
     - **(B)** maintaining the database and technology upgrades previously carried out under this subsection, as in effect on the day before December 20, 2018 .
   - **(5)** The amounts made available under paragraph (4) are in addition to any other funds made available for the purposes described in that paragraph and shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XXI, § 2123](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3951](https://www.govinfo.gov/link/statute/104/3951); [Pub. L. 110–234, title X, § 10303](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1347](https://www.govinfo.gov/link/statute/122/1347); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title X, § 10303, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2109; [Pub. L. 113–79, title X, § 10004(b)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 942](https://www.govinfo.gov/link/statute/128/942); [Pub. L. 115–334, title X, § 10104(j)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4904](https://www.govinfo.gov/link/statute/132/4904); [Pub. L. 118–22, div. B, title I, § 102(d)(7)(B)](https://www.govinfo.gov/link/plaw/118/public/22), Nov. 17, 2023, [137 Stat. 118](https://www.govinfo.gov/link/statute/137/118); [Pub. L. 119–21, title I, § 10606(d)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 110](https://www.govinfo.gov/link/statute/139/110).)*

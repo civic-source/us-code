@@ -3,9 +3,10 @@ title: "Section 814 - Removal of exemption of certain drugs"
 usc_title: 21
 usc_section: "814"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 814"
-generated_at: "2026-03-30T02:54:54.291Z"
+generated_at: "2026-11-23T21:25:56.228Z"
+status: "active"
 ---
 
 # § 814. Removal of exemption of certain drugs
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:54.291Z"
   - **(4)** A regulation reinstating an exemption under paragraph (1) may be modified or revoked with respect to a particular drug product upon a finding that—
     - **(A)** applying the factors described in subsection (b) to the drug product, the drug product is being diverted; or
     - **(B)** there is a significant change in the data that led to the issuance of the regulation.
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 204](https://www.govinfo.gov/link/plaw/91/public/513), as added [Pub. L. 103–200, § 2(b)(1)](https://www.govinfo.gov/link/plaw/103/public/200), Dec. 17, 1993, [107 Stat. 2334](https://www.govinfo.gov/link/statute/107/2334); amended [Pub. L. 104–237, title IV, § 401(c)](https://www.govinfo.gov/link/plaw/104/public/237), Oct. 3, 1996, [110 Stat. 3108](https://www.govinfo.gov/link/statute/110/3108); [Pub. L. 109–177, title VII, § 712(a)(2)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 263](https://www.govinfo.gov/link/statute/120/263).)*

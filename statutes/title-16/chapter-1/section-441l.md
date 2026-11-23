@@ -3,9 +3,10 @@ title: "Section 441l - Exchange of lands; transfer from Federal agency to admini
 usc_title: 16
 usc_section: "441l"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 441l"
-generated_at: "2026-03-30T02:54:22.799Z"
+generated_at: "2026-11-23T21:25:51.529Z"
+status: "active"
 ---
 
 # § 441l. Exchange of lands; transfer from Federal agency to administrative jurisdiction of Secretary; terms and conditions of purchase
@@ -21,3 +22,7 @@ Inasmuch as (A) most of the lands added to the Badlands National Park by section
   - **(5)** An application to purchase the tract must be filed with the Secretary of the Interior within one year from the date a notice is published in the Federal Register that the tract has been transferred to the jurisdiction of the Secretary.
   - **(6)** No application may be filed by more than five of the former owners of an interest in the tract. If more than one such application is filed for a tract the applicants must agree on not more than five of the former owners who shall make the purchase, and failing such agreement all such applications for the tract shall be rejected by the Secretary.
   - **(7)** “Former owner” means, for the purposes of subsection (b) of this section, each person from whom the United States acquired an interest in the tract, or if such person is deceased, his spouse, or if such spouse is deceased, his children.
+
+## Source Credit
+
+*([Pub. L. 90–468, § 3](https://www.govinfo.gov/link/plaw/90/public/468), Aug. 8, 1968, [82 Stat. 663](https://www.govinfo.gov/link/statute/82/663); [Pub. L. 95–625, title VI, § 611](https://www.govinfo.gov/link/plaw/95/public/625), Nov. 10, 1978, [92 Stat. 3521](https://www.govinfo.gov/link/statute/92/3521).)*

@@ -3,9 +3,10 @@ title: "Section 550 - Disposal of real property for certain purposes"
 usc_title: 40
 usc_section: "550"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 550"
-generated_at: "2026-03-30T02:55:43.374Z"
+generated_at: "2026-11-23T21:26:14.812Z"
+status: "active"
 ---
 
 # § 550. Disposal of real property for certain purposes
@@ -64,3 +65,161 @@ generated_at: "2026-03-30T02:55:43.374Z"
   - **(3)** The deed of conveyance of any surplus real property disposed of under this subsection—
     - **(A)** shall provide that all of the property be used and maintained for historical monument purposes in perpetuity, and that if the property ceases to be used or maintained for historical monument purposes, all or any portion of the property shall, in its then existing condition, at the option of the Government, revert to the Government; and
     - **(B)** may contain additional terms, reservations, restrictions, and conditions the Administrator determines are necessary to safeguard the interests of the Government.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 550(a) | 40:484(k)(1)(D). | June 30, 1949, ch. 288 , title II, § 203(k), 63 Stat. 387 ; July 12, 1952, ch. 703, § 1(j) , 66 Stat. 593 ; June 3, 1955, ch. 130, § 6(a) , (c), 69 Stat. 84 , 85; July 3, 1956, ch. 513, § 2 , 70 Stat. 494 ; Pub. L. 91–485, § 2 , Oct. 22, 1970 , 84 Stat. 1084 ; Pub. L. 92–362, § 1 , Aug. 4, 1972 , 86 Stat. 503 ; Pub. L. 94–519, § 1(2) , Oct. 17, 1976 , 90 Stat. 2453 ; Pub. L. 103–82, title II, § 202(f) , Sept. 21, 1993 , 107 Stat. 888 ; Pub. L. 105–50, § 2 , Oct. 6, 1997 , 111 Stat. 1167 . |
+| 550(b) | 40:484(k)(4). |  |
+| 550(c) | 40:484(k)(1) (matter before (A) related to education), (A), (C) (related to education). |  |
+| 550(d) | 40:484(k)(1) (matter before (A) related to public health), (B), (C) (related to public health). |  |
+| 550(e) | 40:484(k)(2). |  |
+| 550(f) | 40:484(k)(6). |  |
+| 550(g) | 40:484(k)(5). |  |
+| 550(h) | 40:484(k)(3). |  |
+
+
+Definition
+
+Enforcement and Revision of Instruments Transferring Property Under This Section.—
+
+In general
+
+Specified official
+
+Property for School, Classroom, or Other Educational Use.—
+
+Assignment
+
+Sale or lease
+
+Fixing value
+
+Property for Use in the Protection of Public Health, Including Research.—
+
+Assignment
+
+Sale or lease
+
+Fixing value
+
+Property for Use as a Public Park or Recreation Area.—
+
+Assignment
+
+Sale or lease
+
+Fixing value
+
+Deed of conveyance
+
+Property for Low Income Housing Assistance.—
+
+Assignment
+
+Sale or lease
+
+Self-help housing.—
+
+In general
+
+Guidelines for considering disabilities
+
+Fixing value.—
+
+In general
+
+Amount of discount
+
+Property for National Service Activities.—
+
+Assignment
+
+Sale, lease, or donation
+
+Fixing value
+
+Property for Use as a Historic Monument.—
+
+Conveyance.—
+
+In general
+
+Recommendation by national park system advisory board
+
+Revenue-producing activity.—
+
+In general
+
+Use of excess income
+
+Audits
+
+Deed of conveyance
+
+Historical and Revision Notes
+
+550(a)
+
+June 30, 1949, ch. 288
+
+63 Stat. 387
+
+July 12, 1952, ch. 703, § 1(j)
+
+66 Stat. 593
+
+June 3, 1955, ch. 130, § 6(a)
+
+69 Stat. 84
+
+July 3, 1956, ch. 513, § 2
+
+70 Stat. 494
+
+Pub. L. 91–485, § 2
+
+Oct. 22, 1970
+
+84 Stat. 1084
+
+Pub. L. 92–362, § 1
+
+Aug. 4, 1972
+
+86 Stat. 503
+
+Pub. L. 94–519, § 1(2)
+
+Oct. 17, 1976
+
+90 Stat. 2453
+
+Pub. L. 103–82, title II, § 202(f)
+
+Sept. 21, 1993
+
+107 Stat. 888
+
+Pub. L. 105–50, § 2
+
+Oct. 6, 1997
+
+111 Stat. 1167
+
+550(b)
+
+550(c)
+
+550(d)
+
+550(e)
+
+550(f)
+
+550(g)
+
+550(h)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1094](https://www.govinfo.gov/link/statute/116/1094); [Pub. L. 113–287, § 5(j)(2)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3269](https://www.govinfo.gov/link/statute/128/3269).)*

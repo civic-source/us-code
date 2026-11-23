@@ -3,9 +3,10 @@ title: "Section 7325 - Medical emergency preparedness centers"
 usc_title: 38
 usc_section: "7325"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7325"
-generated_at: "2026-03-30T02:55:53.528Z"
+generated_at: "2026-11-23T21:26:16.856Z"
+status: "active"
 ---
 
 # § 7325. Medical emergency preparedness centers
@@ -41,3 +42,25 @@ generated_at: "2026-03-30T02:55:53.528Z"
   - **(1)** Amounts appropriated for the activities of the centers under this section shall be appropriated separately from amounts appropriated for the Department for medical care.
   - **(2)** In addition to funds appropriated for a fiscal year specifically for the activities of the centers pursuant to paragraph (1), the Under Secretary for Health shall allocate to such centers from other funds appropriated for that fiscal year generally for the Department medical services account and the Department medical and prosthetics research account such amounts as the Under Secretary determines appropriate to carry out the purposes of this section. Any determination by the Under Secretary under the preceding sentence shall be made in consultation with the Assistant Secretary with responsibility for operations, preparedness, security, and law enforcement functions.
   - **(3)** There are authorized to be appropriated for the centers under this section $20,000,000 for each of fiscal years 2003 through 2007.
+
+Establishment of Centers
+
+Mission
+
+Selection of Centers
+
+Research Activities
+
+Dissemination of Research Products
+
+Coordination of Activities
+
+Assistance to Other Agencies
+
+Detail of Employees From Other Agencies
+
+Funding
+
+## Source Credit
+
+*(Added [Pub. L. 107–287, § 2(a)(1)](https://www.govinfo.gov/link/plaw/107/public/287), Nov. 7, 2002, [116 Stat. 2024](https://www.govinfo.gov/link/statute/116/2024); amended [Pub. L. 110–387, title IX, § 901(a)(8)](https://www.govinfo.gov/link/plaw/110/public/387), Oct. 10, 2008, [122 Stat. 4142](https://www.govinfo.gov/link/statute/122/4142); [Pub. L. 111–275, title X, § 1001(n)(2)](https://www.govinfo.gov/link/plaw/111/public/275), Oct. 13, 2010, [124 Stat. 2897](https://www.govinfo.gov/link/statute/124/2897).)*

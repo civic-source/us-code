@@ -3,9 +3,10 @@ title: "Section 3056 - Racetrack safety program"
 usc_title: 15
 usc_section: "3056"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3056"
-generated_at: "2026-03-30T02:54:08.186Z"
+generated_at: "2026-11-23T21:25:39.962Z"
+status: "active"
 ---
 
 # § 3056. Racetrack safety program
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:08.186Z"
   - **(3)**
     - **(A)** Not later than one year after the program effective date, and after notice and an opportunity for public comment in accordance with section 3053 of this title , the Authority, in consultation with the Commission, shall develop and maintain a nationwide database of racehorse safety, performance, health, and injury information for the purpose of conducting an epidemiological study.
     - **(B)** In accordance with the registration of covered persons under section 3054(d) of this title , the Authority may require covered persons to collect and submit to the database described in subparagraph (A) such information as the Authority may require to further the goal of increased racehorse welfare.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. FF, title XII, § 1207](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3267](https://www.govinfo.gov/link/statute/134/3267).)*

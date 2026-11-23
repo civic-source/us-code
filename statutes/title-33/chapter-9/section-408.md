@@ -3,9 +3,10 @@ title: "Section 408 - Taking possession of, use of, or injury to harbor or river
 usc_title: 33
 usc_section: "408"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 408"
-generated_at: "2026-03-30T02:55:41.054Z"
+generated_at: "2026-11-23T21:26:11.297Z"
+status: "active"
 ---
 
 # § 408. Taking possession of, use of, or injury to harbor or river improvements
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:41.054Z"
     - **(B)** provide a schedule to the applicant identifying when the Secretary will make a decision on the application.
   - **(3)** In any case in which a schedule provided under paragraph (2)(B) extends beyond 120 days from the date of receipt of a complete application, the Secretary shall provide to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an explanation justifying the extended timeframe for review.
 - **(e)** For the purposes of this section, the term “work” shall not include unimproved real estate owned or operated by the Secretary as part of a water resources development project if the Secretary determines that modification of such real estate would not affect the function and usefulness of the project.
+
+## Source Credit
+
+*(Mar. 3, 1899, ch. 425, § 14, [30 Stat. 1152](https://www.govinfo.gov/link/statute/30/1152); July 26, 1947, ch. 343, title II, § 205(a), [61 Stat. 501](https://www.govinfo.gov/link/statute/61/501); [Pub. L. 99–88, title I, § 100](https://www.govinfo.gov/link/plaw/99/public/88), Aug. 15, 1985, [99 Stat. 315](https://www.govinfo.gov/link/statute/99/315); [Pub. L. 114–322, title I, § 1156(a)](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1664](https://www.govinfo.gov/link/statute/130/1664); [Pub. L. 115–270, title I, § 1165](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3797](https://www.govinfo.gov/link/statute/132/3797); [Pub. L. 118–272, div. A, title I, § 1105](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3001](https://www.govinfo.gov/link/statute/138/3001).)*

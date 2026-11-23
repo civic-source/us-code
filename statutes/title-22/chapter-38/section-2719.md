@@ -3,9 +3,10 @@ title: "Section 2719 - Grants for training and education in international affair
 usc_title: 22
 usc_section: "2719"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2719"
-generated_at: "2026-03-30T02:55:05.380Z"
+generated_at: "2026-11-23T21:25:58.536Z"
+status: "active"
 ---
 
 # § 2719. Grants for training and education in international affairs
@@ -18,3 +19,13 @@ generated_at: "2026-03-30T02:55:05.380Z"
     - **(B)** the process by which eligible applicants may request such a grant;
     - **(C)** the maximum amount of such a grant; and
     - **(D)** the educational progress to which all grant recipients are obligated.
+
+diplomatic programs
+
+Department of State
+
+Administration of Foreign Affairs
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title I, § 47, as added [Pub. L. 101–246, title I, § 150(2)](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 42](https://www.govinfo.gov/link/statute/104/42); amended [Pub. L. 117–263, div. I, title XCII, § 9220(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3879](https://www.govinfo.gov/link/statute/136/3879); [Pub. L. 118–31, div. F, title LXI, § 6117(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 970](https://www.govinfo.gov/link/statute/137/970).)*

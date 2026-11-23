@@ -3,9 +3,10 @@ title: "Section 7652 - Policy and requirements"
 usc_title: 22
 usc_section: "7652"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7652"
-generated_at: "2026-03-30T02:55:05.444Z"
+generated_at: "2026-11-23T21:25:58.723Z"
+status: "active"
 ---
 
 # § 7652. Policy and requirements
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:55:05.444Z"
       - **(ii)** include in the annual report required under section 2151b–2(f) of this title a description of the activities conducted in response to the recommendations made by the Panel and an explanation of any recommendations not implemented at the time of the report.
   - **(5)** There are authorized to be appropriated to the Panel such sums as may be necessary for each of the fiscal years 2009 through 2011 to carry out this section.
   - **(6)** The Panel shall terminate on the date that is 60 days after the date on which the Panel submits the report to the appropriate congressional committees under paragraph (4).
+
+## Source Credit
+
+*([Pub. L. 108–25, title III, § 312](https://www.govinfo.gov/link/plaw/108/public/25), May 27, 2003, [117 Stat. 741](https://www.govinfo.gov/link/statute/117/741); [Pub. L. 110–293, title III](https://www.govinfo.gov/link/plaw/110/public/293), §§ 307, 309, July 30, 2008, [122 Stat. 2963](https://www.govinfo.gov/link/statute/122/2963), 2964.)*

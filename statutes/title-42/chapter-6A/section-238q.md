@@ -3,9 +3,10 @@ title: "Section 238q - Liability regarding emergency use of automated external d
 usc_title: 42
 usc_section: "238q"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 238q"
-generated_at: "2026-03-30T02:56:10.689Z"
+generated_at: "2026-11-23T21:26:30.240Z"
+status: "active"
 ---
 
 # § 238q. Liability regarding emergency use of automated external defibrillators
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:56:10.689Z"
       - **(i)** The term “harm” includes physical, nonphysical, economic, and noneconomic losses.
       - **(ii)** The term “economic loss” means any pecuniary loss resulting from harm (including the loss of earnings or other benefits related to employment, medical expense loss, replacement services loss, loss due to death, burial costs, and loss of business or employment opportunities) to the extent recovery for such loss is allowed under applicable State law.
       - **(iii)** The term “noneconomic losses” means losses for physical and emotional pain, suffering, inconvenience, physical impairment, mental anguish, disfigurement, loss of enjoyment of life, loss of society and companionship, loss of consortium (other than loss of domestic service), hedonic damages, injury to reputation and all other nonpecuniary losses of any kind or nature.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title II, § 248, as added [Pub. L. 106–505, title IV, § 404](https://www.govinfo.gov/link/plaw/106/public/505), Nov. 13, 2000, [114 Stat. 2338](https://www.govinfo.gov/link/statute/114/2338).)*

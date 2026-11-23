@@ -3,9 +3,10 @@ title: "Section 2412 - Lease of land and buildings"
 usc_title: 38
 usc_section: "2412"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 2412"
-generated_at: "2026-03-30T02:55:53.498Z"
+generated_at: "2026-11-23T21:26:16.708Z"
+status: "active"
 ---
 
 # § 2412. Lease of land and buildings
@@ -24,3 +25,17 @@ generated_at: "2026-03-30T02:55:53.498Z"
     - **(C)** Any other amounts appropriated to or otherwise authorized for deposit in the Fund by law.
   - **(3)** Amounts in the Fund shall be available to cover costs incurred by the National Cemetery Administration in the operation and maintenance of property of the Administration.
   - **(4)** Amounts in the Fund shall remain available until expended.
+
+Lease Authorized
+
+Term
+
+Lease to Public or Nonprofit Organizations
+
+Notice
+
+National Cemetery Administration Facilities Operation Fund
+
+## Source Credit
+
+*(Added [Pub. L. 108–454, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/108/public/454), Dec. 10, 2004, [118 Stat. 3623](https://www.govinfo.gov/link/statute/118/3623).)*

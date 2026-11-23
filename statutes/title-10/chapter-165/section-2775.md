@@ -3,9 +3,10 @@ title: "Section 2775 - Liability of members assigned to military housing"
 usc_title: 10
 usc_section: "2775"
 chapter: 165
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2775"
-generated_at: "2026-03-30T02:53:38.175Z"
+generated_at: "2026-11-23T21:25:32.669Z"
+status: "active"
 ---
 
 # § 2775. Liability of members assigned to military housing
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:38.175Z"
   - **(1)** regulations for determining the cost of repairs and replacements made necessary as the result of abuse or negligence for which a member is liable under subsection (a)(1);
   - **(2)** regulations for determining the cost of cleaning made necessary as a result of the failure to clean satisfactorily for which a member is liable under subsection (a)(2); and
   - **(3)** provisions for limitations of liability, the compromise or waiver of claims, and the collection of amounts owed under this section.
+
+## Source Credit
+
+*(Added [Pub. L. 96–418, title V, § 506(a)](https://www.govinfo.gov/link/plaw/96/public/418), Oct. 10, 1980, [94 Stat. 1765](https://www.govinfo.gov/link/statute/94/1765); amended [Pub. L. 97–214, § 10(a)(6)](https://www.govinfo.gov/link/plaw/97/public/214), July 12, 1982, [96 Stat. 175](https://www.govinfo.gov/link/statute/96/175); [Pub. L. 98–407, title VIII, § 801(a)(1)](https://www.govinfo.gov/link/plaw/98/public/407), Aug. 28, 1984, [98 Stat. 1517](https://www.govinfo.gov/link/statute/98/1517); [Pub. L. 99–167, title VIII, § 802(a)](https://www.govinfo.gov/link/plaw/99/public/167) –(d)(1), Dec. 3, 1985, [99 Stat. 986](https://www.govinfo.gov/link/statute/99/986); [Pub. L. 99–661, div. A, title XIII, § 1343(a)(19)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3993](https://www.govinfo.gov/link/statute/100/3993); [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314).)*

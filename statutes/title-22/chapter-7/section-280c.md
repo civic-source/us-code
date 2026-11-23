@@ -3,12 +3,17 @@ title: "Section 280c - Employment of personnel with specialized skills"
 usc_title: 22
 usc_section: "280c"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 280c"
-generated_at: "2026-03-30T02:55:05.313Z"
+generated_at: "2026-11-23T21:25:58.351Z"
+status: "active"
 ---
 
 # § 280c. Employment of personnel with specialized skills
 
 The Secretary is authorized, when the Commission is desirous of obtaining the services of a person having special scientific or other technical or professional qualifications, from time to time to detail, or authorize the detail of, for temporary service to or in cooperation with the Commission, any person in the employ or service of the Government of the United States who has such qualifications, with the approval of the Government agency in which such person is employed or serving, under the same conditions as those governing the detail of officers and employees of the United States Government to the government of another country in accordance with the provisions of the Act of May 25, 1938 ( 52 Stat. 442 ), as amended, except that the authority vested in the President under that Act shall be vested in the Secretary for the purpose of carrying out this section.
 
+
+## Source Credit
+
+*(Jan. 28, 1948, ch. 38, § 4, [62 Stat. 16](https://www.govinfo.gov/link/statute/62/16).)*

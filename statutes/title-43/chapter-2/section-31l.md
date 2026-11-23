@@ -3,9 +3,10 @@ title: "Section 31l - Earth Mapping Resources Initiative"
 usc_title: 43
 usc_section: "31l"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 31l"
-generated_at: "2026-03-30T02:55:57.433Z"
+generated_at: "2026-11-23T21:26:19.740Z"
+status: "active"
 ---
 
 # § 31l. Earth Mapping Resources Initiative
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:57.433Z"
   - **(4)** the 3D Elevation Program established under section 3104(a) of this title ; and
   - **(5)** other relevant sources, including sources providing geothermal resources data.
 - **(h)** There is authorized to be appropriated to the Secretary to carry out this section $320,000,000 for the period of fiscal years 2022 through 2026, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title II, § 40201](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 958](https://www.govinfo.gov/link/statute/135/958).)*

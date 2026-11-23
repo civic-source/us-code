@@ -3,9 +3,10 @@ title: "Section 6694 - Understatement of taxpayer’s liability by tax return pr
 usc_title: 26
 usc_section: "6694"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6694"
-generated_at: "2026-03-30T02:55:27.864Z"
+generated_at: "2026-11-23T21:26:06.920Z"
+status: "active"
 ---
 
 # § 6694. Understatement of taxpayer’s liability by tax return preparer
@@ -34,3 +35,9 @@ generated_at: "2026-03-30T02:55:27.864Z"
 - **(d)** If at any time there is a final administrative determination or a final judicial decision that there was no understatement of liability in the case of any return or claim for refund with respect to which a penalty under subsection (a) or (b) has been assessed, such assessment shall be abated, and if any portion of such penalty has been paid the amount so paid shall be refunded to the person who made such payment as an overpayment of tax without regard to any period of limitations which, but for this subsection, would apply to the making of such refund.
 - **(e)** For purposes of this section, the term “understatement of liability” means any understatement of the net amount payable with respect to any tax imposed by this title or any overstatement of the net amount creditable or refundable with respect to any such tax. Except as otherwise provided in subsection (d), the determination of whether or not there is an understatement of liability shall be made without regard to any administrative or judicial action involving the taxpayer.
 - **(f)** For definition of tax return preparer, see section 7701(a)(36).
+
+“The amendment made by this section [amending this section] shall apply—
+
+## Source Credit
+
+*(Added [Pub. L. 94–455, title XII, § 1203(b)(1)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1689](https://www.govinfo.gov/link/statute/90/1689); amended [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7732(a), 7737(a), Dec. 19, 1989, [103 Stat. 2402](https://www.govinfo.gov/link/statute/103/2402), 2404; [Pub. L. 110–28, title VIII, § 8246(a)(2)(F)(i)](https://www.govinfo.gov/link/plaw/110/public/28), (b), May 25, 2007, [121 Stat. 201](https://www.govinfo.gov/link/statute/121/201), 203; [Pub. L. 110–343, div. C, title V, § 506(a)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3880](https://www.govinfo.gov/link/statute/122/3880); [Pub. L. 114–113, div. Q, title II, § 210(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3085](https://www.govinfo.gov/link/statute/129/3085).)*

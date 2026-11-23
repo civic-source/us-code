@@ -3,9 +3,10 @@ title: "Section 551c - Planning for fire protection"
 usc_title: 16
 usc_section: "551c"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 551c"
-generated_at: "2026-03-30T02:54:22.875Z"
+generated_at: "2026-11-23T21:25:51.673Z"
+status: "active"
 ---
 
 # § 551c. Planning for fire protection
@@ -16,3 +17,17 @@ generated_at: "2026-03-30T02:54:22.875Z"
   - **(1)** the Secretary of Agriculture shall submit to the Congress information with respect to regions of the National Forest System, and
   - **(2)** the Secretary of the Interior shall submit to the Congress information with respect to the Bureau of Land Management public lands on a State-by-State basis and each region of the National Park System
 - **(d)** Not later than one year after May 9, 1990 , information from the Secretary of Agriculture on presuppression needs for each region of the National Forest System and information from the Secretary of the Interior on the presuppression needs for each region of the National Park System and for each State unit of the Bureau of Land Management shall be submitted to Congress. These reports shall include needs, including an estimate of the funds required, for fire prevention, fuel reduction, training and seasonal fire crews.
+
+In General
+
+Aircraft Requirements
+
+Lease Terms
+
+Prohibition
+
+“The Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 101–286, title II, § 203](https://www.govinfo.gov/link/plaw/101/public/286), May 9, 1990, [104 Stat. 175](https://www.govinfo.gov/link/statute/104/175).)*

@@ -3,9 +3,10 @@ title: "Section 1838 - Conversion of cropland into vegetative cover, water stora
 usc_title: 7
 usc_section: "1838"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1838"
-generated_at: "2026-03-30T02:53:42.343Z"
+generated_at: "2026-11-23T21:25:28.185Z"
+status: "active"
 ---
 
 # § 1838. Conversion of cropland into vegetative cover, water storage, wildlife and conservation uses; contracts with farmers
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:42.343Z"
 - **(o)** The acreage on any farm which is diverted from the production of any commodity pursuant to an agreement hereafter entered into under this subchapter shall be deemed to be acreage diverted from that commodity for the purposes of any commodity program under which diversion is required as a condition of eligibility for price support.
 - **(p)** The Secretary may, without regard to the civil service laws, appoint an Advisory Board on Wildlife to advise and consult on matters relating to his functions under this subchapter as he deems appropriate. The Board shall consist of twelve persons chosen from members of wildlife organizations, farm organizations, State game and fish agencies, and representatives of the general public. Members of such Advisory Board who are not regular full-time employees of the United States shall not be entitled to any compensation or expenses.
 - **(q)** The Secretary shall prescribe such regulations as he determines necessary to carry out the provisions of this subchapter.
+
+## Source Credit
+
+*([Pub. L. 89–321, title VI, § 602](https://www.govinfo.gov/link/plaw/89/public/321), Nov. 3, 1965, [79 Stat. 1206](https://www.govinfo.gov/link/statute/79/1206); [Pub. L. 90–210](https://www.govinfo.gov/link/plaw/90/public/210), Dec. 18, 1967, [81 Stat. 657](https://www.govinfo.gov/link/statute/81/657); [Pub. L. 90–559, § 1(1)](https://www.govinfo.gov/link/plaw/90/public/559), (7), Oct. 11, 1968, [82 Stat. 996](https://www.govinfo.gov/link/statute/82/996).)*

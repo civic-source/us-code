@@ -3,9 +3,10 @@ title: "Section 4331 - Regulations"
 usc_title: 38
 usc_section: "4331"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 4331"
-generated_at: "2026-03-30T02:55:53.519Z"
+generated_at: "2026-11-23T21:26:16.810Z"
+status: "active"
 ---
 
 # § 4331. Regulations
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:53.519Z"
     - **(A)** The Merit Systems Protection Board.
     - **(B)** The Office of Special Counsel.
     - **(C)** The agencies referred to in section 2302(a)(2)(C)(ii) of title 5 .
+
+## Source Credit
+
+*(Added [Pub. L. 103–353, § 2(a)](https://www.govinfo.gov/link/plaw/103/public/353), Oct. 13, 1994, [108 Stat. 3168](https://www.govinfo.gov/link/statute/108/3168); amended [Pub. L. 109–233, title V, § 503(14)](https://www.govinfo.gov/link/plaw/109/public/233), June 15, 2006, [120 Stat. 417](https://www.govinfo.gov/link/statute/120/417).)*

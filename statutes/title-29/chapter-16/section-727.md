@@ -3,9 +3,10 @@ title: "Section 727 - Monitoring and review"
 usc_title: 29
 usc_section: "727"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 727"
-generated_at: "2026-03-30T02:55:18.693Z"
+generated_at: "2026-11-23T21:26:02.203Z"
+status: "active"
 ---
 
 # § 727. Monitoring and review
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:55:18.693Z"
       - **(i)** to grant appropriate relief as provided in chapter 7 of title 5, except for interim relief with respect to a determination under subsection (c); and
       - **(ii)** except as otherwise provided in subparagraph (B), to review such determination in accordance with chapter 7 of title 5.
     - **(B)** Section 706 of title 5 shall apply to the review of any determination under this subsection, except that the standard for review prescribed by paragraph (2)(E) of such section 706 shall not apply and the court shall hold unlawful and set aside such determination if the court finds that the determination is not supported by substantial evidence in the record of the proceeding submitted pursuant to paragraph (1), as supplemented by any additional submissions and presentations filed under paragraph (2).
+
+## Source Credit
+
+*([Pub. L. 93–112, title I, § 107](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 105–220, title IV, § 404](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1157](https://www.govinfo.gov/link/statute/112/1157); amended [Pub. L. 113–128, title IV, § 417(a)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1654](https://www.govinfo.gov/link/statute/128/1654).)*

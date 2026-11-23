@@ -3,9 +3,10 @@ title: "Section 2431 - Findings and purposes"
 usc_title: 22
 usc_section: "2431"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2431"
-generated_at: "2026-03-30T02:55:05.367Z"
+generated_at: "2026-11-23T21:25:58.494Z"
+status: "active"
 ---
 
 # § 2431. Findings and purposes
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:05.367Z"
   - **(2)** to facilitate greater protection of tropical forests and coral ecosystems (and to give priority to protecting areas with the highest levels of biodiversity and under the most severe threat) by providing for the alleviation of debt in countries where tropical forests and coral reef ecosystems are located, thus allowing the use of additional resources to protect these critical resources and reduce economic pressures that have led to deforestation;
   - **(3)** to ensure that resources freed from debt in such countries are targeted to protection of tropical forests and coral reef ecosystems and their associated values; and
   - **(4)** to rechannel existing resources to facilitate the protection of tropical forests and coral reef ecosystems.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. V, § 802, as added [Pub. L. 105–214, § 1](https://www.govinfo.gov/link/plaw/105/public/214), July 29, 1998, [112 Stat. 885](https://www.govinfo.gov/link/statute/112/885); amended [Pub. L. 115–440, § 3(a)](https://www.govinfo.gov/link/plaw/115/public/440), Jan. 14, 2019, [132 Stat. 5580](https://www.govinfo.gov/link/statute/132/5580).)*

@@ -3,9 +3,10 @@ title: "Section 1315b - Providing Federal coverage and payment coordination for 
 usc_title: 42
 usc_section: "1315b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1315b"
-generated_at: "2026-03-30T02:56:10.907Z"
+generated_at: "2026-11-23T21:26:31.242Z"
+status: "active"
 ---
 
 # § 1315b. Providing Federal coverage and payment coordination for dual eligible beneficiaries
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:10.907Z"
   - **(8)** To be responsible, subject to the final approval of the Secretary, for developing regulations and guidance related to the integration or alignment of policy and oversight under the Medicare program under title XVIII of such Act [ 42 U.S.C. 1395 et seq.] and the Medicaid program under title XIX of such Act [ 42 U.S.C. 1396 et seq.] regarding specialized MA plans for special needs individuals described in subsection (b)(6)(B)(ii) of such section 1859.
 - **(e)** The Secretary shall, as part of the budget transmitted under section 1105(a) of title 31 , submit to Congress an annual report containing recommendations for legislation that would improve care coordination and benefits for dual eligible individuals.
 - **(f)** In this section, the term “dual eligible individual” means an individual who is entitled to, or enrolled for, benefits under part A of title XVIII of the Social Security Act [ 42 U.S.C. 1395c et seq.], or enrolled for benefits under part B of title XVIII of such Act [ 42 U.S.C. 1395j et seq.], and is eligible for medical assistance under a State plan under title XIX of such Act or under a waiver of such plan.
+
+## Source Credit
+
+*([Pub. L. 111–148, title II, § 2602](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 315](https://www.govinfo.gov/link/statute/124/315); [Pub. L. 115–123, div. E, title III, § 50311(b)(2)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 196](https://www.govinfo.gov/link/statute/132/196).)*

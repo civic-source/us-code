@@ -3,9 +3,10 @@ title: "Section 2143 - Regular lieutenants; separation for failure of selection 
 usc_title: 14
 usc_section: "2143"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 2143"
-generated_at: "2026-03-30T02:53:51.498Z"
+generated_at: "2026-11-23T21:25:35.419Z"
+status: "active"
 ---
 
 # § 2143. Regular lieutenants; separation for failure of selection for promotion; continuation
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:51.498Z"
     - **(B)** in the case of an officer who has completed at least 18 years of active service on the date of discharge under subparagraph (A), be retained on active duty and retired on the last day of the month in which the officer completes 20 years of active service, unless earlier removed under another provision of law; or
     - **(C)** if, on the date specified for the officer’s discharge under this section, the officer has completed at least 20 years of active service or is eligible for retirement under any law, be retired on that date.
 - **(c)** Each officer who has been continued on active duty under subsection (b) shall, unless earlier removed from active duty, be retired on the last day of the month in which he completes twenty years of active service.
+
+## Source Credit
+
+*(Added [Pub. L. 88–130, § 1(10)(C)](https://www.govinfo.gov/link/plaw/88/public/130), Sept. 24, 1963, [77 Stat. 184](https://www.govinfo.gov/link/statute/77/184), § 283; amended [Pub. L. 93–283, § 1(6)](https://www.govinfo.gov/link/plaw/93/public/283), May 14, 1974, [88 Stat. 140](https://www.govinfo.gov/link/statute/88/140); [Pub. L. 94–546, § 1(22)](https://www.govinfo.gov/link/plaw/94/public/546), Oct. 18, 1976, [90 Stat. 2520](https://www.govinfo.gov/link/statute/90/2520); [Pub. L. 97–295, § 2(9)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1302](https://www.govinfo.gov/link/statute/96/1302); [Pub. L. 104–324, title II, § 205](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3907](https://www.govinfo.gov/link/statute/110/3907); [Pub. L. 107–295, title IV, § 416(a)(2)](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2121](https://www.govinfo.gov/link/statute/116/2121); renumbered § 2143 and amended [Pub. L. 115–282, title I](https://www.govinfo.gov/link/plaw/115/public/282), §§ 112(b), 123(b)(2), Dec. 4, 2018, [132 Stat. 4216](https://www.govinfo.gov/link/statute/132/4216), 4240.)*

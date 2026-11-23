@@ -3,9 +3,10 @@ title: "Section 1087ff - Distribution of assets from student loan funds"
 usc_title: 20
 usc_section: "1087ff"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1087ff"
-generated_at: "2026-03-30T02:54:48.128Z"
+generated_at: "2026-11-23T21:25:47.165Z"
+status: "active"
 ---
 
 # § 1087ff. Distribution of assets from student loan funds
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:48.128Z"
     - **(A)** The Secretary shall first be paid an amount which bears the same ratio to the total to be distributed as the Federal capital contributions by the Secretary to the student loan fund prior to such distribution bear to the sum of such Federal capital contributions and the capital contributions to the fund made by the institution.
     - **(B)** The remainder of the capital distribution shall be paid to the institution.
   - **(2)** No finding that the liquid assets of a student loan fund established under this part exceed the amount required under paragraph (1) may be made prior to a date which is 2 years after the date on which the institution of higher education received the funds from such institution’s allocation under section 1087bb of this title .
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 466](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 405(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1453](https://www.govinfo.gov/link/statute/100/1453); amended [Pub. L. 102–325, title IV, § 466](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 584](https://www.govinfo.gov/link/statute/106/584); [Pub. L. 103–208, § 2(f)(15)](https://www.govinfo.gov/link/plaw/103/public/208), Dec. 20, 1993, [107 Stat. 2471](https://www.govinfo.gov/link/statute/107/2471); [Pub. L. 105–244, title IV, § 466](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1728](https://www.govinfo.gov/link/statute/112/1728); [Pub. L. 110–84, title V, § 501](https://www.govinfo.gov/link/plaw/110/public/84), Sept. 27, 2007, [121 Stat. 801](https://www.govinfo.gov/link/statute/121/801); [Pub. L. 114–105, § 2(b)](https://www.govinfo.gov/link/plaw/114/public/105), Dec. 18, 2015, [129 Stat. 2220](https://www.govinfo.gov/link/statute/129/2220).)*

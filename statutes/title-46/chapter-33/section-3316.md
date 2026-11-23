@@ -3,9 +3,10 @@ title: "Section 3316 - Classification societies"
 usc_title: 46
 usc_section: "3316"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 3316"
-generated_at: "2026-03-30T02:56:15.543Z"
+generated_at: "2026-11-23T21:26:37.047Z"
+status: "active"
 ---
 
 # § 3316. Classification societies
@@ -70,3 +71,22 @@ generated_at: "2026-03-30T02:56:15.543Z"
   - **(2)** The staff of the office shall include subject matter experts, including inspectors, investigators, and auditors, who possess the capability and authority to audit all aspects of such recognized organizations.
   - **(3)** In this subsection the term “recognized organization” has the meaning given that term in section 2.45–1 of title 46, Code of Federal Regulations, as in effect on the date of the enactment of the Hamm Alert Maritime Safety Act of 2018.
 - **(h)** In this section, the term “state sponsor of terrorism” means any country the government of which the Secretary of State has determined has repeatedly provided support for acts of international terrorism pursuant to section 6(j) 1 1 See References in Text note below. of the Export Administration Act of 1979 (as continued in effect under the International Emergency Economic Powers Act), section 620A of the Foreign Assistance Act of 1961, section 40 of the Arms Export Control Act, or any other provision of law.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 3316 | 46:9 (less (c)) 46:369 46:881 |
+
+
+Clarification on authority
+
+Historical and Revision Notes
+
+3316
+
+In General
+
+Briefing
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 516](https://www.govinfo.gov/link/statute/97/516); [Pub. L. 104–324, title VI, § 607(a)](https://www.govinfo.gov/link/plaw/104/public/324), (b)(1), Oct. 19, 1996, [110 Stat. 3931](https://www.govinfo.gov/link/statute/110/3931), 3932; [Pub. L. 108–293, title IV, § 413(a)](https://www.govinfo.gov/link/plaw/108/public/293), Aug. 9, 2004, [118 Stat. 1046](https://www.govinfo.gov/link/statute/118/1046); [Pub. L. 111–281, title VI, § 622](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2978](https://www.govinfo.gov/link/statute/124/2978); [Pub. L. 112–213, title III, § 304](https://www.govinfo.gov/link/plaw/112/public/213), Dec. 20, 2012, [126 Stat. 1563](https://www.govinfo.gov/link/statute/126/1563); [Pub. L. 113–281, title III, § 315](https://www.govinfo.gov/link/plaw/113/public/281), Dec. 18, 2014, [128 Stat. 3050](https://www.govinfo.gov/link/statute/128/3050); [Pub. L. 115–265, title II, § 215(a)](https://www.govinfo.gov/link/plaw/115/public/265), Oct. 11, 2018, [132 Stat. 3751](https://www.govinfo.gov/link/statute/132/3751); [Pub. L. 119–60, div. G, title LXXIII, § 7346](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1778](https://www.govinfo.gov/link/statute/139/1778).)*

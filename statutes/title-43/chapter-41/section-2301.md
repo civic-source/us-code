@@ -3,9 +3,10 @@ title: "Section 2301 - Findings"
 usc_title: 43
 usc_section: "2301"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 2301"
-generated_at: "2026-03-30T02:55:57.496Z"
+generated_at: "2026-11-23T21:26:19.893Z"
+status: "active"
 ---
 
 # § 2301. Findings
@@ -31,3 +32,7 @@ Congress finds that—
     - **(B)** promote consolidation of the ownership of public and private land in a manner that would allow for better overall resource management;
   - **(13)** in certain locations, the sale of public land that has been identified for disposal is the best way for the public to receive fair market value for the land; and
   - **(14)** to allow for the least disruption of existing land and resource management programs, the Bureau of Land Management may use non-Federal entities to prepare appraisal documents for agency review and approval consistent with applicable provisions of the Uniform Standards for Federal Land Acquisition.
+
+## Source Credit
+
+*([Pub. L. 106–248, title II, § 202](https://www.govinfo.gov/link/plaw/106/public/248), July 25, 2000, [114 Stat. 613](https://www.govinfo.gov/link/statute/114/613).)*

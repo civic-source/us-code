@@ -3,12 +3,17 @@ title: "Section 433 - Remedies of cooperative association excluded from represen
 usc_title: 15
 usc_section: "433"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 433"
-generated_at: "2026-03-30T02:54:08.084Z"
+generated_at: "2026-11-23T21:25:39.634Z"
+status: "active"
 ---
 
 # § 433. Remedies of cooperative association excluded from representation
 
 Any such cooperative association or any such organization whose duly authorized representative is excluded from such membership and privileges by any board of trade referred to in section 432 of this title may sue in the United States District Court in whose jurisdiction such board of trade is operated or maintained for a mandatory injunction compelling such board of trade to admit such duly authorized representative to such membership and privileges and for any damages sustained, and such court shall have jurisdiction to issue such an injunction and to award such incidental damages as it may deem appropriate.
 
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 508, § 3, [44 Stat. 1424](https://www.govinfo.gov/link/statute/44/1424).)*

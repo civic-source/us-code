@@ -3,9 +3,10 @@ title: "Section 1292 - Interlocutory decisions"
 usc_title: 28
 usc_section: "1292"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1292"
-generated_at: "2026-03-30T02:55:30.138Z"
+generated_at: "2026-11-23T21:26:01.081Z"
+status: "active"
 ---
 
 # § 1292. Interlocutory decisions
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:30.138Z"
     - **(A)** The United States Court of Appeals for the Federal Circuit shall have exclusive jurisdiction of an appeal from an interlocutory order of a district court of the United States, the District Court of Guam, the District Court of the Virgin Islands, or the District Court for the Northern Mariana Islands, granting or denying, in whole or in part, a motion to transfer an action to the United States Court of Federal Claims under section 1631 of this title .
     - **(B)** When a motion to transfer an action to the Court of Federal Claims is filed in a district court, no further proceedings shall be taken in the district court until 60 days after the court has ruled upon the motion. If an appeal is taken from the district court’s grant or denial of the motion, proceedings shall be further stayed until the appeal has been decided by the Court of Appeals for the Federal Circuit. The stay of proceedings in the district court shall not bar the granting of preliminary or injunctive relief, where appropriate and where expedition is reasonably necessary. However, during the period in which proceedings are stayed as provided in this subparagraph, no transfer to the Court of Federal Claims pursuant to the motion shall be carried out.
 - **(e)** The Supreme Court may prescribe rules, in accordance with section 2072 of this title , to provide for an appeal of an interlocutory decision to the courts of appeals that is not otherwise provided for under subsection (a), (b), (c), or (d).
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 929](https://www.govinfo.gov/link/statute/62/929); Oct. 31, 1951, ch. 655, § 49, [65 Stat. 726](https://www.govinfo.gov/link/statute/65/726); [Pub. L. 85–508, § 12(e)](https://www.govinfo.gov/link/plaw/85/public/508), July 7, 1958, [72 Stat. 348](https://www.govinfo.gov/link/statute/72/348); [Pub. L. 85–919](https://www.govinfo.gov/link/plaw/85/public/919), Sept. 2, 1958, [72 Stat. 1770](https://www.govinfo.gov/link/statute/72/1770); [Pub. L. 97–164, § 125](https://www.govinfo.gov/link/plaw/97/public/164), Apr. 2, 1982, [96 Stat. 36](https://www.govinfo.gov/link/statute/96/36); [Pub. L. 98–620, title IV, § 412](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3362](https://www.govinfo.gov/link/statute/98/3362); [Pub. L. 100–702, title V, § 501](https://www.govinfo.gov/link/plaw/100/public/702), Nov. 19, 1988, [102 Stat. 4652](https://www.govinfo.gov/link/statute/102/4652); [Pub. L. 102–572, title I, § 101](https://www.govinfo.gov/link/plaw/102/public/572), title IX, §§ 902(b), 906(c), Oct. 29, 1992, [106 Stat. 4506](https://www.govinfo.gov/link/statute/106/4506), 4516, 4518.)*

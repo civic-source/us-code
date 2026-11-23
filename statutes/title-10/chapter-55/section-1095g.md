@@ -3,9 +3,10 @@ title: "Section 1095g - TRICARE program: waiver of recoupment of erroneous payme
 usc_title: 10
 usc_section: "1095g"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1095g"
-generated_at: "2026-03-30T02:53:38.107Z"
+generated_at: "2026-11-23T21:25:32.421Z"
+status: "active"
 ---
 
 # § 1095g. TRICARE program: waiver of recoupment of erroneous payments caused by administrative error
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:53:38.107Z"
   - **(4)** The Secretary determines that a waiver of recoupment of such payment is necessary to prevent an injustice.
 - **(b)** In any case in which the Secretary waives recoupment under subsection (a) and the administrative error was on the part of a contractor under the TRICARE program, the Secretary shall, consistent with the requirements and procedures of the applicable contract, impose financial responsibility on the contractor for the erroneous payment.
 - **(c)** Any determination by the Secretary under this section to waive or decline to waive recoupment under subsection (a) is a final determination and shall not be subject to appeal or judicial review.
+
+Waiver of Recoupment
+
+Responsibility of Contractor
+
+Finality of Determinations
+
+## Source Credit
+
+*(Added [Pub. L. 114–92, div. A, title VII, § 711(a)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 864](https://www.govinfo.gov/link/statute/129/864).)*

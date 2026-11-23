@@ -3,9 +3,10 @@ title: "Section 997 - Special subchapter C rules"
 usc_title: 26
 usc_section: "997"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 997"
-generated_at: "2026-03-30T02:55:27.753Z"
+generated_at: "2026-11-23T21:26:06.452Z"
+status: "active"
 ---
 
 # § 997. Special subchapter C rules
@@ -14,3 +15,7 @@ For purposes of applying the provisions of subchapter C of chapter 1, any distri
 
   - **(1)** be treated as a distribution in the same amount as if such distribution of property were made to an individual, and
   - **(2)** have a basis, in the hands of the recipient corporation, equal to the amount determined under paragraph (1).
+
+## Source Credit
+
+*(Added [Pub. L. 92–178, title V, § 501](https://www.govinfo.gov/link/plaw/92/public/178), Dec. 10, 1971, [85 Stat. 549](https://www.govinfo.gov/link/statute/85/549).)*

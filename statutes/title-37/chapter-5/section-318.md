@@ -3,9 +3,10 @@ title: "Section 318 - Special pay: special warfare officers extending period of 
 usc_title: 37
 usc_section: "318"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 318"
-generated_at: "2026-03-30T02:55:44.053Z"
+generated_at: "2026-11-23T21:26:14.208Z"
+status: "active"
 ---
 
 # § 318. Special pay: special warfare officers extending period of active duty
@@ -28,3 +29,25 @@ generated_at: "2026-03-30T02:55:44.053Z"
 - **(g)** A retention bonus paid under this section is in addition to any other pay and allowances to which an officer is entitled.
 - **(h)** An officer who, having entered into a written agreement under subsection (b) and having received all or part of a bonus under this section, does not complete the period of active duty in special warfare service as specified in the agreement shall be subject to the repayment provisions of section 303a(e) of this title .
 - **(i)** The Secretaries concerned shall prescribe regulations to carry out this section, including the definition of the term “special warfare service” for purposes of this section. Regulations prescribed by the Secretary of a military department under this section shall be subject to the approval of the Secretary of Defense.
+
+Special Warfare Officer Defined
+
+Retention Bonus Authorized
+
+Eligibility Requirements
+
+Amount of Bonus
+
+Proration
+
+Payment Methods
+
+Additional Pay
+
+Repayment
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 106–65, div. A, title VI, § 626(a)(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 655](https://www.govinfo.gov/link/statute/113/655); amended [Pub. L. 107–107, div. A, title X, § 1048(i)(7)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1229](https://www.govinfo.gov/link/statute/115/1229); [Pub. L. 109–163, div. A, title VI, § 687(b)(27)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3331](https://www.govinfo.gov/link/statute/119/3331).)*

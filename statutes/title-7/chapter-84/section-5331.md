@@ -3,9 +3,10 @@ title: "Section 5331 - Structure of Council"
 usc_title: 7
 usc_section: "5331"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 5331"
-generated_at: "2026-03-30T02:53:42.414Z"
+generated_at: "2026-11-23T21:25:28.360Z"
+status: "active"
 ---
 
 # § 5331. Structure of Council
@@ -32,3 +33,23 @@ generated_at: "2026-03-30T02:53:42.414Z"
 - **(h)** Appointed members of the Council may not be employed by the Federal Government and shall be allowed travel expenses as authorized by section 5703 of title 5 .
 - **(i)** The Administrator of Nutrition Monitoring and Related Research (if appointed under section 5311(d) of this title ) shall serve as the Executive Secretary of the Council.
 - **(j)** The Council shall terminate 10 years after the final comprehensive plan is prepared under section 5313 of this title .
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+George Bush.
+
+## Source Credit
+
+*([Pub. L. 101–445, title II, § 201](https://www.govinfo.gov/link/plaw/101/public/445), Oct. 22, 1990, [104 Stat. 1041](https://www.govinfo.gov/link/statute/104/1041).)*

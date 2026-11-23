@@ -3,12 +3,17 @@ title: "Section 449 - Acceptance of donations of land and funds; acquisition of 
 usc_title: 16
 usc_section: "449"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 449"
-generated_at: "2026-03-30T02:54:22.800Z"
+generated_at: "2026-11-23T21:25:51.531Z"
+status: "active"
 ---
 
 # § 449. Acceptance of donations of land and funds; acquisition of land
 
 The Secretary of the Interior be, and he is, authorized to accept donations of land, interests in land and/or buildings, structures, and other property within the boundaries of said national monument as determined and fixed hereunder, and donations of funds for the purchase and/or maintenance thereof, the title and evidence of title to lands acquired to be satisfactory to the Secretary of the Interior: Provided , That he may acquire on behalf of the United States out of any donated funds, by purchase at prices deemed by him reasonable, or by condemnation under the provisions of section 3113 of title 40 , such tracts of land within the said national monument as may be necessary for the completion thereof.
 
+
+## Source Credit
+
+*(June 18, 1934, ch. 573, § 2, [48 Stat. 983](https://www.govinfo.gov/link/statute/48/983).)*

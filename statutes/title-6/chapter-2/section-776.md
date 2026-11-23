@@ -3,9 +3,10 @@ title: "Section 776 - Individuals and households pilot program"
 usc_title: 6
 usc_section: "776"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 776"
-generated_at: "2026-03-30T02:53:09.500Z"
+generated_at: "2026-11-23T21:25:25.848Z"
+status: "active"
 ---
 
 # § 776. Individuals and households pilot program
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:09.500Z"
       - **(iii)** an assessment of additional authorities needed to aid the Agency in its mission of providing disaster housing assistance to individuals and households eligible for assistance under section 5174 of title 42 , either under the pilot program under this section or other potential housing programs; and
       - **(iv)** any recommendations of the Administrator for additional authority to continue or make permanent the pilot program.
 - **(b)** The Administrator shall not approve a project under the pilot program after December 31, 2008 .
+
+## Source Credit
+
+*([Pub. L. 109–295, title VI, § 689i](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1454](https://www.govinfo.gov/link/statute/120/1454).)*

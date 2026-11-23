@@ -3,9 +3,10 @@ title: "Section 53208 - Regulatory relief"
 usc_title: 46
 usc_section: "53208"
 chapter: 532
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 53208"
-generated_at: "2026-03-30T02:56:15.573Z"
+generated_at: "2026-11-23T21:26:37.254Z"
+status: "active"
 ---
 
 # § 53208. Regulatory relief
@@ -15,3 +16,7 @@ The telecommunications and other electronic equipment on an existing vessel that
   - **(1)** such equipment complies with all applicable international agreements and associated guidelines as determined by the country in which the vessel was documented immediately before becoming documented under the laws of the United States;
   - **(2)** that country has not been identified by the Secretary of the Department in which the Coast Guard is operating as inadequately enforcing international regulations as to that vessel; and
   - **(3)** at the end of its useful life, such equipment shall be replaced with equipment that meets Federal Communication Commission equipment certification standards.
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. C, title XXXV, § 3521(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1997](https://www.govinfo.gov/link/statute/133/1997).)*

@@ -3,9 +3,10 @@ title: "Section 1608 - Service; time to answer; default"
 usc_title: 28
 usc_section: "1608"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1608"
-generated_at: "2026-03-30T02:55:30.142Z"
+generated_at: "2026-11-23T21:26:01.097Z"
+status: "active"
 ---
 
 # § 1608. Service; time to answer; default
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:30.142Z"
   - **(2)** in any other case under this section, as of the date of receipt indicated in the certification, signed and returned postal receipt, or other proof of service applicable to the method of service employed.
 - **(d)** In any action brought in a court of the United States or of a State, a foreign state, a political subdivision thereof, or an agency or instrumentality of a foreign state shall serve an answer or other responsive pleading to the complaint within sixty days after service has been made under this section.
 - **(e)** No judgment by default shall be entered by a court of the United States or of a State against a foreign state, a political subdivision thereof, or an agency or instrumentality of a foreign state, unless the claimant establishes his claim or right to relief by evidence satisfactory to the court. A copy of any such default judgment shall be sent to the foreign state or political subdivision in the manner prescribed for service in this section.
+
+## Source Credit
+
+*(Added [Pub. L. 94–583, § 4(a)](https://www.govinfo.gov/link/plaw/94/public/583), Oct. 21, 1976, [90 Stat. 2894](https://www.govinfo.gov/link/statute/90/2894).)*

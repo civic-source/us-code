@@ -3,9 +3,10 @@ title: "Section 6349 - Process-oriented industrial energy efficiency"
 usc_title: 42
 usc_section: "6349"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6349"
-generated_at: "2026-03-30T02:56:11.257Z"
+generated_at: "2026-11-23T21:26:32.935Z"
+status: "active"
 ---
 
 # § 6349. Process-oriented industrial energy efficiency
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:56:11.257Z"
   - **(3)** The Secretary shall establish an annual award program to recognize utilities operating outstanding or innovative industrial energy efficiency technology assistance programs.
   - **(4)** In order to further the purposes of this section, the Secretary shall convene annual meetings of parties interested in process-oriented industrial assessments, including representatives of State government, public utility commissions, utilities, and affected process-oriented industries.
 - **(d)** There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this section.
+
+## Source Credit
+
+*([Pub. L. 102–486, title I, § 132](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2837](https://www.govinfo.gov/link/statute/106/2837); [Pub. L. 104–66, title I, § 1052(a)(1)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 717](https://www.govinfo.gov/link/statute/109/717); [Pub. L. 105–362, title IV, § 401(d)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3282](https://www.govinfo.gov/link/statute/112/3282).)*

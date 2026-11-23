@@ -3,9 +3,10 @@ title: "Section 318 - National Advisory Council"
 usc_title: 6
 usc_section: "318"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 318"
-generated_at: "2026-03-30T02:53:09.457Z"
+generated_at: "2026-11-23T21:25:25.778Z"
+status: "active"
 ---
 
 # § 318. National Advisory Council
@@ -102,3 +103,7 @@ generated_at: "2026-03-30T02:53:09.457Z"
 - **(e)**
   - **(1)** Notwithstanding section 451(a) of this title and subject to paragraph (2), chapter 10 of title 5, including subsections (a), (b), and (d) of section 1009 of title 5 , and section 552b(c) of title 5 shall apply to the National Advisory Council.
   - **(2)** Section 1013(a)(2) of title 5 shall not apply to the National Advisory Council.
+
+## Source Credit
+
+*([Pub. L. 107–296, title V, § 508](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 109–295, title VI, § 611(13)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1403](https://www.govinfo.gov/link/statute/120/1403); amended [Pub. L. 110–53, title I, § 102(a)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 293](https://www.govinfo.gov/link/statute/121/293); [Pub. L. 114–321, § 2](https://www.govinfo.gov/link/plaw/114/public/321), Dec. 16, 2016, [130 Stat. 1623](https://www.govinfo.gov/link/statute/130/1623); [Pub. L. 115–278, § 2(g)(4)(A)](https://www.govinfo.gov/link/plaw/115/public/278), Nov. 16, 2018, [132 Stat. 4178](https://www.govinfo.gov/link/statute/132/4178); [Pub. L. 117–286, § 4(a)(15)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4306](https://www.govinfo.gov/link/statute/136/4306).)*

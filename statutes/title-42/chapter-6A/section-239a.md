@@ -3,9 +3,10 @@ title: "Section 239a - Determination of eligibility and benefits"
 usc_title: 42
 usc_section: "239a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 239a"
-generated_at: "2026-03-30T02:56:10.689Z"
+generated_at: "2026-11-23T21:26:30.241Z"
+status: "active"
 ---
 
 # § 239a. Determination of eligibility and benefits
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:10.689Z"
 - **(f)**
   - **(1)** The Secretary may review a determination under this section at any time on the Secretary’s own motion or on application, and may affirm, vacate, or modify such determination in any manner the Secretary deems appropriate. The Secretary shall develop a process by which an individual may file a request for reconsideration of any determination made by the Secretary under this section.
   - **(2)** No court of the United States, or of any State, District, territory or possession thereof, shall have subject matter jurisdiction to review, whether by mandamus or otherwise, any action by the Secretary under this section. No officer or employee of the United States shall review any action by the Secretary under this section (unless the President specifically directs otherwise).
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title II, § 262, as added [Pub. L. 108–20, § 2](https://www.govinfo.gov/link/plaw/108/public/20), Apr. 30, 2003, [117 Stat. 640](https://www.govinfo.gov/link/statute/117/640).)*

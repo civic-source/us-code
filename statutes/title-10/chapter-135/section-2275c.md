@@ -3,9 +3,10 @@ title: "Section 2275c - Space Force satellite ground systems"
 usc_title: 10
 usc_section: "2275c"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2275c"
-generated_at: "2026-03-30T02:53:38.152Z"
+generated_at: "2026-11-23T21:25:32.592Z"
+status: "active"
 ---
 
 # § 2275c. Space Force satellite ground systems
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:53:38.152Z"
 - **(b)**
   - **(1)** The Secretary of the Air Force may waive the requirement under subsection (a) if the Secretary determines that such waiver is necessary for reasons of national security.
   - **(2)** Not later than 10 days after making a waiver under paragraph (1), the Secretary shall notify the congressional defense committees of such waiver.
+
+Requirement
+
+Waiver
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title XVI, § 1603(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2160](https://www.govinfo.gov/link/statute/138/2160).)*

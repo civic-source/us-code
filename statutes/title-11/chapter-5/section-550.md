@@ -3,9 +3,10 @@ title: "Section 550 - Liability of transferee of avoided transfer"
 usc_title: 11
 usc_section: "550"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 550"
-generated_at: "2026-03-30T02:53:53.879Z"
+generated_at: "2026-11-23T21:25:34.929Z"
+status: "active"
 ---
 
 # § 550. Liability of transferee of avoided transfer
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:53.879Z"
 - **(f)** An action or proceeding under this section may not be commenced after the earlier of—
   - **(1)** one year after the avoidance of the transfer on account of which recovery under this section is sought; or
   - **(2)** the time the case is closed or dismissed.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2601](https://www.govinfo.gov/link/statute/92/2601); [Pub. L. 98–353, title III, § 465](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 379](https://www.govinfo.gov/link/statute/98/379); [Pub. L. 103–394, title II, § 202](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4121](https://www.govinfo.gov/link/statute/108/4121).)*

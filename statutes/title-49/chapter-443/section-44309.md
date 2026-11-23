@@ -3,9 +3,10 @@ title: "Section 44309 - Civil actions"
 usc_title: 49
 usc_section: "44309"
 chapter: 443
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44309"
-generated_at: "2026-03-30T02:56:19.380Z"
+generated_at: "2026-11-23T21:26:40.882Z"
+status: "active"
 ---
 
 # § 44309. Civil actions
@@ -33,3 +34,48 @@ generated_at: "2026-03-30T02:56:19.380Z"
   - **(1)** If the Secretary admits the Government owes money under an insurance claim under this chapter and there is a dispute about the person that is entitled to payment, the Government may bring a civil action of interpleader in a district court of the United States against the persons that may be entitled to payment. The action may be brought in the judicial district for the District of Columbia or in the judicial district in which any party resides.
   - **(2)** The district court may order a party not residing or found in the judicial district in which the action is brought to appear in a civil action under this subsection. The order shall be served in a reasonable manner decided by the district court. If the court decides an unknown person might assert a claim under the insurance that is the subject of the action, the court may order service on that person by publication in the Federal Register.
   - **(3)** Judgment in a civil action under this subsection discharges the Government from further liability to the parties to the action and to all other persons served by publication under paragraph (2) of this subsection.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44309(a) | 49 App.:1540 (1st sentence less 19th–70th words, 3d sentence). | Aug. 23, 1958 , Pub. L. 85–726, § 1310 , 72 Stat. 805 . |
+| 44309(b)(1) | 49 App.:1540 (1st sentence 19th–70th words, 2d sentence). |  |
+| 44309(b)(2) | 49 App.:1540 (4th sentence). |  |
+| 44309(c) | 49 App.:1540 (last sentence). |  |
+| 44309(d) | 49 App.:1540 (5th–8th sentences). |  |
+
+
+Losses.—
+
+Actions against united states
+
+Limitation
+
+Procedure
+
+Venue and Joinder
+
+Time Requirements
+
+Interpleader
+
+Historical and Revision Notes
+
+44309(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 1310
+
+72 Stat. 805
+
+44309(b)(1)
+
+44309(b)(2)
+
+44309(c)
+
+44309(d)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1172](https://www.govinfo.gov/link/statute/108/1172); [Pub. L. 105–277, div. C, title I, § 110(c)(1)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–587](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 113–291, div. A, title X, § 1074(a)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3518](https://www.govinfo.gov/link/statute/128/3518).)*

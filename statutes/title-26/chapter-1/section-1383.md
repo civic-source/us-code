@@ -3,9 +3,10 @@ title: "Section 1383 - Computation of tax where cooperative redeems nonqualified
 usc_title: 26
 usc_section: "1383"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1383"
-generated_at: "2026-03-30T02:55:27.771Z"
+generated_at: "2026-11-23T21:26:06.501Z"
+status: "active"
 ---
 
 # § 1383. Computation of tax where cooperative redeems nonqualified written notices of allocation or nonqualified per-unit retain certificates
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:27.771Z"
   - **(1)** If the decrease in tax ascertained under subsection (a)(2)(B) exceeds the tax for the taxable year (computed without the deduction described in subsection (a)) such excess shall be considered to be a payment of tax on the last day prescribed by law for the payment of tax for the taxable year, and shall be refunded or credited in the same manner as if it were an overpayment for such taxable year.
   - **(2)** For purposes of determining the decrease in tax under subsection (a)(2)(B), the stated dollar amount of any nonqualified written notice of allocation or nonqualified per-unit retain certificate which is to be treated under such subsection as a qualified written notice of allocation or qualified per-unit retain certificate (as the case may be) shall be the amount paid in redemption of such written notice of allocation or per-unit retain certificate which is allowable as a deduction under section 1382(b)(2) or (4), or (c)(2)(B) for the taxable year.
   - **(3)** If the tax imposed by this chapter for the taxable year is the amount determined under subsection (a)(2), then the deduction described in subsection (a) shall not be taken into account for any purpose of this subtitle other than for purposes of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 87–834, § 17(a)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 1047](https://www.govinfo.gov/link/statute/76/1047); amended [Pub. L. 89–809, title II, § 211(a)(5)](https://www.govinfo.gov/link/plaw/89/public/809) –(7), Nov. 13, 1966, [80 Stat. 1581](https://www.govinfo.gov/link/statute/80/1581).)*

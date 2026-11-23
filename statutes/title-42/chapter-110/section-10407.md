@@ -3,9 +3,10 @@ title: "Section 10407 - State application"
 usc_title: 42
 usc_section: "10407"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10407"
-generated_at: "2026-03-30T02:56:11.388Z"
+generated_at: "2026-11-23T21:26:33.370Z"
+status: "active"
 ---
 
 # § 10407. State application
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.388Z"
   - **(2)** The Secretary shall give such notice, within 45 days after the date of submission of the application, if any of the provisions of subsection (a) or section 10406 of this title have not been satisfied in such application. If the State or Indian tribe does not correct the deficiencies in such application within the 6-month period following the receipt of the Secretary’s notice, the Secretary shall withhold payment of any grant funds under section 10406 of this title to such State or under section 10409 of this title to such Indian tribe until such date as the State or Indian tribe provides documentation that the deficiencies have been corrected.
   - **(3)** State Domestic Violence Coalitions, or comparable coalitions for Indian tribes, shall be permitted to participate in determining whether grantees for corresponding States or Indian tribes are in compliance with subsection (a) and section 10406(c) of this title , except that no funds made available under section 10411 of this title shall be used to challenge a determination about whether a grantee is in compliance with, or to seek the enforcement of, the requirements of this chapter.
   - **(4)** The Secretary shall suspend funding for an approved application if the applicant fails to submit an annual performance report under section 10406(d) of this title , or if funds are expended for purposes other than those set forth in section 10406(b) of this title , after following the procedures set forth in paragraphs (1), (2), and (3).
+
+## Source Credit
+
+*([Pub. L. 98–457, title III, § 307](https://www.govinfo.gov/link/plaw/98/public/457), as added [Pub. L. 111–320, title II, § 201](https://www.govinfo.gov/link/plaw/111/public/320), Dec. 20, 2010, [124 Stat. 3493](https://www.govinfo.gov/link/statute/124/3493).)*

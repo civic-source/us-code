@@ -3,9 +3,10 @@ title: "Section 6821 - Formula grants to States"
 usc_title: 20
 usc_section: "6821"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6821"
-generated_at: "2026-03-30T02:54:48.203Z"
+generated_at: "2026-11-23T21:25:47.535Z"
+status: "active"
 ---
 
 # § 6821. Formula grants to States
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:54:48.203Z"
       - **(ii)** the number of students being assessed for English language proficiency, based on the State’s English language proficiency assessment under section 6311(b)(2)(G) of this title , which may be multiyear estimates; or
       - **(iii)** a combination of data available under clauses (i) and (ii); and
     - **(B)** determine the number of immigrant children and youth in the State and in all States based only on data available from the American Community Survey conducted by the Department of Commerce, which may be multiyear estimates.
+
+## Source Credit
+
+*([Pub. L. 89–10, title III, § 3111](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title III, § 301](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1691](https://www.govinfo.gov/link/statute/115/1691); amended [Pub. L. 114–95, title III, § 3003(b)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1954](https://www.govinfo.gov/link/statute/129/1954).)*

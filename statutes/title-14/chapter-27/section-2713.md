@@ -3,9 +3,10 @@ title: "Section 2713 - Employment assistance"
 usc_title: 14
 usc_section: "2713"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 2713"
-generated_at: "2026-03-30T02:53:51.501Z"
+generated_at: "2026-11-23T21:25:35.440Z"
+status: "active"
 ---
 
 # § 2713. Employment assistance
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:53:51.501Z"
   - **(2)** make unclassified information regarding such information available to States and other potential employers referred to in section 1143(c) of title 10 so that States and other potential employers may allow military training to satisfy licensing or certification requirements to engage in a civilian profession.
 - **(b)** The Secretary shall ensure that a certification or verification of job skills and experience required by section 1143(a)(1) of title 10 is rendered in such a way that States and other potential employers can confirm the accuracy and authenticity of the certification or verification.
 - **(c)** A State may request that the Secretary confirm the accuracy and authenticity of a certification or verification of job skills and experience provided under section 1143(c) of title 10 .
+
+In General
+
+Form of Certification or Verification
+
+Requests by States
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. G, title LVXXXII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXII], § 8206(a), Jan. 1, 2021, [134 Stat. 4649](https://www.govinfo.gov/link/statute/134/4649).)*

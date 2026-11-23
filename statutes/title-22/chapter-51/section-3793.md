@@ -3,9 +3,10 @@ title: "Section 3793 - Interest on investments"
 usc_title: 22
 usc_section: "3793"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3793"
-generated_at: "2026-03-30T02:55:05.397Z"
+generated_at: "2026-11-23T21:25:58.598Z"
+status: "active"
 ---
 
 # § 3793. Interest on investments
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.397Z"
     - **(C)** the value of property transferred by the Commission to any other department or agency of the United States.
 - **(c)** The value of property transferred to the Commission by any other department or agency of the United States shall be determined by the Director of the Office of Management and Budget. In computing such value, such Director shall give due consideration to the cost and probable earning power of the transferred property, or the usable value to the Commission if clearly less than cost, and shall make adequate provisions for depreciation, obsolescence, and other determinable decreases in value. Insofar as practicable, the value of such transferred property shall exclude any portion of such value properly allocable to national defense.
 - **(d)** The Panama Canal Commission shall pay to the Treasury of the United States interest on the investment of the United States, as determined under this section. Such interest shall be deposited in the general fund of the Treasury.
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1603](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 490](https://www.govinfo.gov/link/statute/93/490); [Pub. L. 99–195, § 1(b)](https://www.govinfo.gov/link/plaw/99/public/195), Dec. 23, 1985, [99 Stat. 1349](https://www.govinfo.gov/link/statute/99/1349); [Pub. L. 100–203, title V, § 5425(a)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–274](https://www.govinfo.gov/link/statute/101/1330).)*

@@ -3,12 +3,30 @@ title: "Section 1487 - Temporary interment"
 usc_title: 10
 usc_section: "1487"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1487"
-generated_at: "2026-03-30T02:53:38.126Z"
+generated_at: "2026-11-23T21:25:32.492Z"
+status: "active"
 ---
 
 # § 1487. Temporary interment
 
 Whenever necessary for the temporary interment of remains pending transportation under this chapter to a designated cemetery, the Secretary concerned may acquire, and provide for the maintenance of, grave sites in commercial cemeteries, or he may acquire the right to use such grave sites for burial purposes. If the death occurs outside the United States and a temporary commercial grave site is not available on a reasonable basis, the Secretary may acquire land, or the right to use land, necessary for the temporary interment of the remains under this chapter.
 
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1487 | 5:2159 (as applicable to armed forces). | July 15, 1954, ch. 507, § 9 (as applicable to armed forces), 68 Stat. 480 . |
+
+
+Historical and Revision Notes
+
+1487
+
+July 15, 1954, ch. 507, § 9
+
+68 Stat. 480
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 115.)*

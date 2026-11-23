@@ -3,12 +3,17 @@ title: "Section 835f - Use of funds deposited to allottees; land and improvement
 usc_title: 16
 usc_section: "835f"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 835f"
-generated_at: "2026-03-30T02:54:22.927Z"
+generated_at: "2026-11-23T21:25:51.781Z"
+status: "active"
 ---
 
 # § 835f. Use of funds deposited to allottees; land and improvements
 
 Funds deposited to the credit of allottees, their heirs or devisees may be used in the discretion of the Secretary of the Interior, for the acquisition of other lands and improvements, or the relocation of existing improvements or construction of new improvements on the lands so acquired for the allottees or heirs whose lands and improvements are acquired under the provisions of sections 835d to 835h of this title. Lands so acquired shall be held in the same status as those from which the funds were derived, and shall be nontaxable until otherwise provided by Congress.
 
+
+## Source Credit
+
+*(June 29, 1940, ch. 460, § 3, [54 Stat. 703](https://www.govinfo.gov/link/statute/54/703).)*

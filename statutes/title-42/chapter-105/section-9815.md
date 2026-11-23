@@ -3,9 +3,10 @@ title: "Section 9815 - Small Business Administration and Department of Commerce 
 usc_title: 42
 usc_section: "9815"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9815"
-generated_at: "2026-03-30T02:56:11.365Z"
+generated_at: "2026-11-23T21:26:33.279Z"
+status: "active"
 ---
 
 # § 9815. Small Business Administration and Department of Commerce economic development programs; regulations
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.365Z"
 - **(b)**
   - **(1)** Areas selected for assistance under this subchapter shall be deemed “redevelopment areas” within the meaning of section 401 of the Publc 2 2 So in original. Probably should be “Public”. Works and Economic Development Act of 1965, 1 shall qualify for assistance under the provisions of title I and title II of such Act, and shall be deemed to have met the overall economic development program requirements of section 202(b)(10) of such Act.
   - **(2)** Not later than 90 days after August 13, 1981 , the Secretary of Commerce shall prescribe regulations which will ensure that community development corporations and cooperatives shall qualify for assistance and shall be eligible to receive such assistance under all such programs of the Economic Development Administration as shall further the purposes of this subchapter.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 626](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 496](https://www.govinfo.gov/link/statute/95/496).)*

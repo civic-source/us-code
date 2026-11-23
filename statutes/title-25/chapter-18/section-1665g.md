@@ -3,9 +3,10 @@ title: "Section 1665g - Indian youth program"
 usc_title: 25
 usc_section: "1665g"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1665g"
-generated_at: "2026-03-30T02:54:52.825Z"
+generated_at: "2026-11-23T21:25:54.630Z"
+status: "active"
 ---
 
 # § 1665g. Indian youth program
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:54:52.825Z"
   - **(3)** the number of youth referred to the Service or tribal health programs for mental health services;
   - **(4)** the number of Indian youth provided residential treatment for mental health and behavioral problems through the Service and tribal health programs, reported separately for on- and off-reservation facilities; and
   - **(5)** the costs of the services described in paragraph (4).
+
+## Source Credit
+
+*([Pub. L. 94–437, title VII, § 708](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

@@ -3,9 +3,10 @@ title: "Section 1515 - Program compliance and integrity"
 usc_title: 7
 usc_section: "1515"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1515"
-generated_at: "2026-03-30T02:53:42.322Z"
+generated_at: "2026-11-23T21:25:28.107Z"
+status: "active"
 ---
 
 # § 1515. Program compliance and integrity
@@ -123,3 +124,7 @@ generated_at: "2026-03-30T02:53:42.322Z"
   - **(2)** To carry out subsection (j)(2), the Corporation may use, from amounts made available from the insurance fund established under section 1516(c) of this title , not more than—
     - **(A)** $4,000,000 for each of fiscal years 2009 through 2025; and
     - **(B)** $6,000,000 for fiscal year 2026 and each subsequent fiscal year.
+
+## Source Credit
+
+*(Feb. 16, 1938, ch. 30, title V, § 515, as added [Pub. L. 103–354, title I, § 109](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3197](https://www.govinfo.gov/link/statute/108/3197); amended [Pub. L. 106–224, title I, § 121(a)](https://www.govinfo.gov/link/plaw/106/public/224), June 20, 2000, [114 Stat. 372](https://www.govinfo.gov/link/statute/114/372); [Pub. L. 110–234, title XII](https://www.govinfo.gov/link/plaw/110/public/234), §§ 12021, 12033(c)(2), May 22, 2008, [122 Stat. 1382](https://www.govinfo.gov/link/statute/122/1382), 1405; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XII, §§ 12021, 12033(c)(2), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2144, 2167; [Pub. L. 110–398, § 1(c)](https://www.govinfo.gov/link/plaw/110/public/398), Oct. 13, 2008, [122 Stat. 4214](https://www.govinfo.gov/link/statute/122/4214); [Pub. L. 113–79, title XI](https://www.govinfo.gov/link/plaw/113/public/79), §§ 11019, 11020, Feb. 7, 2014, [128 Stat. 966](https://www.govinfo.gov/link/statute/128/966), 968; [Pub. L. 115–334, title XI](https://www.govinfo.gov/link/plaw/115/public/334), §§ 11115–11117, Dec. 20, 2018, [132 Stat. 4925](https://www.govinfo.gov/link/statute/132/4925); [Pub. L. 119–21, title I, § 10505](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 106](https://www.govinfo.gov/link/statute/139/106).)*

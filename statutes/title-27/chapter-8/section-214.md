@@ -3,9 +3,10 @@ title: "Section 214 - Definitions"
 usc_title: 27
 usc_section: "214"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "27 U.S.C. § 214"
-generated_at: "2026-03-30T02:55:15.105Z"
+generated_at: "2026-11-23T21:26:00.007Z"
+status: "active"
 ---
 
 # § 214. Definitions
@@ -27,3 +28,7 @@ As used in this subchapter—
   - **(10)** The term “State” includes any political subdivision of any State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, Wake Island, the Midway Islands, Kingman Reef, or Johnston Island.
   - **(11)** The term “State law” includes State statutes, regulations, and principles and rules having the force of law.
   - **(12)** The term “United States”, when used in geographical sense, includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, Wake Island, the Midway Islands, Kingman Reef, and Johnston Island.
+
+## Source Credit
+
+*(Aug. 29, 1935, ch. 814, title II, § 203, as added [Pub. L. 100–690, title VIII, § 8001(a)(3)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4518](https://www.govinfo.gov/link/statute/102/4518).)*

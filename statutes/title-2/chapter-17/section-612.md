@@ -3,9 +3,10 @@ title: "Section 612 - Executive exchange program"
 usc_title: 2
 usc_section: "612"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 612"
-generated_at: "2026-03-30T02:53:04.799Z"
+generated_at: "2026-11-23T21:25:21.167Z"
+status: "active"
 ---
 
 # § 612. Executive exchange program
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:04.799Z"
   - **(5)** chapter 131 of title 5; and
   - **(6)** section 1043 of title 26 .
 - **(d)** This section shall apply to fiscal year 2008 and each fiscal year thereafter.
+
+## Source Credit
+
+*([Pub. L. 110–161, div. H, title I, § 1201](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2238](https://www.govinfo.gov/link/statute/121/2238); [Pub. L. 111–68, div. A, title I, § 1201](https://www.govinfo.gov/link/plaw/111/public/68), Oct. 1, 2009, [123 Stat. 2032](https://www.govinfo.gov/link/statute/123/2032); [Pub. L. 117–286, § 4(c)(1)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4353](https://www.govinfo.gov/link/statute/136/4353).)*

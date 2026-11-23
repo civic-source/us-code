@@ -3,9 +3,10 @@ title: "Section 510 - Authority to reorganize offices"
 usc_title: 38
 usc_section: "510"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 510"
-generated_at: "2026-03-30T02:55:53.471Z"
+generated_at: "2026-11-23T21:26:16.555Z"
+status: "active"
 ---
 
 # § 510. Authority to reorganize offices
@@ -31,3 +32,13 @@ generated_at: "2026-03-30T02:55:53.471Z"
     - **(D)** An explanation of the reasons for the determination that the reorganization is appropriate and advisable in terms of the statutory missions and long-term goals of the Department.
     - **(E)** A description of the effects that the reorganization may have on the provision of benefits and services to veterans and dependents of veterans (including the provision of benefits and services through offices and facilities of the Department not directly affected by the reorganization).
     - **(F)** Estimates of the costs of the reorganization and of the cost impact of the reorganization, together with analyses supporting those estimates.
+
+Authority for Administrative Reorganization
+
+Specified Reorganization
+
+“Section 210(b) [see 303, 510, 711] of title 38, United States Code (as amended by subsection (a)), shall not apply to a reorganization of a unit of the Central Office of the Department of Veterans’ Affairs if the reorganization—
+
+## Source Credit
+
+*(Added [Pub. L. 102–83, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 387](https://www.govinfo.gov/link/statute/105/387); amended [Pub. L. 104–262, title III, § 304](https://www.govinfo.gov/link/plaw/104/public/262), Oct. 9, 1996, [110 Stat. 3194](https://www.govinfo.gov/link/statute/110/3194).)*

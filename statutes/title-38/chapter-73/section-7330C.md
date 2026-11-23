@@ -3,9 +3,10 @@ title: "Section 7330C - Quadrennial Veterans Health Administration review"
 usc_title: 38
 usc_section: "7330C"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7330C"
-generated_at: "2026-03-30T02:55:53.529Z"
+generated_at: "2026-11-23T21:26:16.859Z"
+status: "active"
 ---
 
 # § 7330C. Quadrennial Veterans Health Administration review
@@ -55,3 +56,15 @@ generated_at: "2026-03-30T02:55:53.529Z"
 - **(d)** In this section, the term “appropriate committees of Congress” means—
   - **(1)** the Committee on Veterans’ Affairs and the Committee on Appropriations of the Senate; and
   - **(2)** the Committee on Veterans’ Affairs and the Committee on Appropriations of the House of Representatives.
+
+Market Area Assessments
+
+Strategic Plan To Meet Health Care Demand
+
+Responsibilities
+
+Appropriate Committees of Congress Defined
+
+## Source Credit
+
+*(Added [Pub. L. 115–182, title I, § 106(a)](https://www.govinfo.gov/link/plaw/115/public/182), June 6, 2018, [132 Stat. 1413](https://www.govinfo.gov/link/statute/132/1413); amended [Pub. L. 115–251, title II, § 211(a)(11)](https://www.govinfo.gov/link/plaw/115/public/251), Sept. 29, 2018, [132 Stat. 3175](https://www.govinfo.gov/link/statute/132/3175).)*

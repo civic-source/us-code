@@ -3,9 +3,10 @@ title: "Section 15922 - Consultation regarding oil and gas leasing on public lan
 usc_title: 42
 usc_section: "15922"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15922"
-generated_at: "2026-03-30T02:56:11.465Z"
+generated_at: "2026-11-23T21:26:33.685Z"
+status: "active"
 ---
 
 # § 15922. Consultation regarding oil and gas leasing on public land
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:11.465Z"
   - **(5)** establish a joint geographic information system mapping system for use in—
     - **(A)** tracking surface resource values to aid in resource management; and
     - **(B)** processing surface use plans of operation and applications for permits to drill.
+
+## Source Credit
+
+*([Pub. L. 109–58, title III, § 363](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 722](https://www.govinfo.gov/link/statute/119/722).)*

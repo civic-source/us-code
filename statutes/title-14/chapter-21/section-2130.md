@@ -3,9 +3,10 @@ title: "Section 2130 - Promotion to certain grades for officers with critical sk
 usc_title: 14
 usc_section: "2130"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 2130"
-generated_at: "2026-03-30T02:53:51.498Z"
+generated_at: "2026-11-23T21:25:35.417Z"
+status: "active"
 ---
 
 # § 2130. Promotion to certain grades for officers with critical skills: captain, commander, lieutenant commander, lieutenant
@@ -31,3 +32,21 @@ generated_at: "2026-03-30T02:53:51.498Z"
   - **(2)** As lieutenant commander, 3.0 percent.
   - **(3)** As commander, 2.6 percent.
   - **(4)** As captain, 2.6 percent.
+
+In General
+
+Covered Officers
+
+Preservation of Position and Status of Officers Appointed.—
+
+Board Recommendation Required
+
+Acceptance and Effective Date of Appointment
+
+Termination of Appointment
+
+Limitation on Number of Eligible Positions
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. G, title LVXXXII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXII], § 8203(a), Jan. 1, 2021, [134 Stat. 4643](https://www.govinfo.gov/link/statute/134/4643).)*

@@ -3,9 +3,10 @@ title: "Section 1637 - Indian health care delivery demonstration projects"
 usc_title: 25
 usc_section: "1637"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1637"
-generated_at: "2026-03-30T02:54:52.822Z"
+generated_at: "2026-11-23T21:25:54.623Z"
+status: "active"
 ---
 
 # § 1637. Indian health care delivery demonstration projects
@@ -57,3 +58,11 @@ generated_at: "2026-03-30T02:54:52.822Z"
 - **(e)** Subject to section 1680c of this title , the authority to provide services to persons otherwise ineligible for the health care benefits of the Service, and the authority to extend hospital privileges in Service facilities to non-Service health practitioners as provided in section 1680c of this title , may be included, subject to the terms of that section, in any demonstration project approved pursuant to this section.
 - **(f)** For purposes of subsection (c), the Secretary, in evaluating facilities operated under any contract or compact under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.), 2 shall use the same criteria that the Secretary uses in evaluating facilities operated directly by the Service.
 - **(g)** The Secretary shall ensure that the planning, design, construction, renovation, and expansion needs of Service and non-Service facilities that are the subject of a contract or compact under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.) 2 for health services are fully and equitably integrated into the implementation of the health care delivery demonstration projects under this section.
+
+(aa) the burden on Contract Health Services; or
+
+(bb) the need for emergency room visits.
+
+## Source Credit
+
+*([Pub. L. 94–437, title III, § 307](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 101–630, title V, § 504](https://www.govinfo.gov/link/plaw/101/public/630), Nov. 28, 1990, [104 Stat. 4562](https://www.govinfo.gov/link/statute/104/4562); amended [Pub. L. 102–573, title III](https://www.govinfo.gov/link/plaw/102/public/573), §§ 304, 307(b)(2), title VII, § 701(c)(2), title IX, § 902(4)(A), Oct. 29, 1992, [106 Stat. 4562](https://www.govinfo.gov/link/statute/106/4562), 4564, 4572, 4591; [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

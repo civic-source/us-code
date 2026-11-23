@@ -3,9 +3,10 @@ title: "Section 4352 - Authority of Institute; time; records of recipients; acce
 usc_title: 18
 usc_section: "4352"
 chapter: 319
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 4352"
-generated_at: "2026-03-30T02:54:16.529Z"
+generated_at: "2026-11-23T21:25:44.246Z"
+status: "active"
 ---
 
 # § 4352. Authority of Institute; time; records of recipients; access; scope of section 1 1 Section catchline editorially supplied.
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:16.529Z"
 - **(c)** Each recipient of assistance under this chapter shall keep such records as the Institute shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 - **(d)** The Institute, and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for purposes of audit and examinations to any books, documents, papers, and records of the recipients that are pertinent to the grants received under this chapter.
 - **(e)** The provision of this section shall apply to all recipients of assistance under this title, whether by direct grant or contract from the Institute or by subgrant or subcontract from primary grantees or contractors of the Institute.
+
+## Source Credit
+
+*(Added [Pub. L. 93–415, title V, § 521](https://www.govinfo.gov/link/plaw/93/public/415), Sept. 7, 1974, [88 Stat. 1140](https://www.govinfo.gov/link/statute/88/1140); amended [Pub. L. 97–375, title I, § 109(a)](https://www.govinfo.gov/link/plaw/97/public/375), Dec. 21, 1982, [96 Stat. 1820](https://www.govinfo.gov/link/statute/96/1820); [Pub. L. 101–647, title XXXV, § 3599F](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4932](https://www.govinfo.gov/link/statute/104/4932); [Pub. L. 111–211, title II, § 261(b)](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2299](https://www.govinfo.gov/link/statute/124/2299).)*

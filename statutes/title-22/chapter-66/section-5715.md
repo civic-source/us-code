@@ -3,9 +3,10 @@ title: "Section 5715 - Cultural and educational exchanges"
 usc_title: 22
 usc_section: "5715"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5715"
-generated_at: "2026-03-30T02:55:05.419Z"
+generated_at: "2026-11-23T21:25:58.667Z"
+status: "active"
 ---
 
 # § 5715. Cultural and educational exchanges
@@ -17,3 +18,7 @@ It is the sense of the Congress that the following, which are based in part on t
   - **(3)** Hong Kong should be accorded separate status as a full partner under the Fulbright Academic Exchange Program (apart from the United Kingdom before July 1, 1997 , and apart from the People’s Republic of China thereafter), with the continuation or establishment of a Fulbright Commission or functionally equivalent mechanism.
   - **(4)** The United States should actively encourage Hong Kong residents to visit the United States on nonimmigrant visas for such purposes as business, tourism, education, and scientific and academic research, in accordance with applicable United States and Hong Kong laws.
   - **(5)** Upon the request of the Legislative Council of Hong Kong, the Librarian of Congress, acting through the Congressional Research Service, should seek to expand educational and informational ties with the Council.
+
+## Source Credit
+
+*([Pub. L. 102–383, title I, § 105](https://www.govinfo.gov/link/plaw/102/public/383), Oct. 5, 1992, [106 Stat. 1452](https://www.govinfo.gov/link/statute/106/1452).)*

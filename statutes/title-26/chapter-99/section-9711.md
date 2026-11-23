@@ -3,9 +3,10 @@ title: "Section 9711 - Continued obligations of individual employer plans"
 usc_title: 26
 usc_section: "9711"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 9711"
-generated_at: "2026-03-30T02:55:27.894Z"
+generated_at: "2026-11-23T21:26:07.042Z"
+status: "active"
 ---
 
 # § 9711. Continued obligations of individual employer plans
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:27.894Z"
 - **(g)** For purposes of this part and part II—
   - **(1)** The term “last signatory operator” shall include a successor in interest of such operator.
   - **(2)** If a person becomes a successor of a last signatory operator after the enactment date, the last signatory operator may transfer any liability of such operator under this chapter with respect to an eligible beneficiary to such successor, and such successor shall be treated as the last signatory operator with respect to such eligible beneficiary for purposes of this chapter. Notwithstanding the preceding sentence, the last signatory operator transferring such assignment (and any related person) shall remain the guarantor of the benefits provided to the eligible beneficiary under this chapter. A last signatory operator shall notify the trustees of the 1992 UMWA Benefit Plan of any transfer described in this paragraph.
+
+## Source Credit
+
+*(Added [Pub. L. 102–486, title XIX, § 19143(a)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3051](https://www.govinfo.gov/link/statute/106/3051); amended [Pub. L. 109–432, div. C, title II, § 211(b)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 3022](https://www.govinfo.gov/link/statute/120/3022); [Pub. L. 115–141, div. U, title IV, § 401(a)(347)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1201](https://www.govinfo.gov/link/statute/132/1201).)*

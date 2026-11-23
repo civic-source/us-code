@@ -3,9 +3,10 @@ title: "Section 1177 - Special project grants and contracts"
 usc_title: 21
 usc_section: "1177"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 1177"
-generated_at: "2026-03-30T02:54:54.302Z"
+generated_at: "2026-11-23T21:25:56.273Z"
+status: "active"
 ---
 
 # § 1177. Special project grants and contracts
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:54.302Z"
   - **(3)**
     - **(A)** The amount of any grant or contract under this section may not exceed 100 per centum of the cost of carrying out the grant or contract in the first fiscal year for which the grant or contract is made under this section, 80 per centum of such cost in the second fiscal year for which the grant or contract is made under this section, 70 per centum of such cost in the third fiscal year for which the grant or contract is made under this section, and 60 per centum of such cost in each of the fourth and fifth fiscal years for which the grant or contract is made under this section.
     - **(B)** For purposes of this paragraph, no grant or contract shall be considered to have been made under this section for a fiscal year ending before September 30, 1981 .
+
+## Source Credit
+
+*([Pub. L. 92–255, title IV, § 410](https://www.govinfo.gov/link/plaw/92/public/255), Mar. 21, 1972, [86 Stat. 82](https://www.govinfo.gov/link/statute/86/82); [Pub. L. 94–237](https://www.govinfo.gov/link/plaw/94/public/237), §§ 10, 11, Mar. 19, 1976, [90 Stat. 247](https://www.govinfo.gov/link/statute/90/247); [Pub. L. 94–371, § 10(c)(1)](https://www.govinfo.gov/link/plaw/94/public/371), July 26, 1976, [90 Stat. 1040](https://www.govinfo.gov/link/statute/90/1040); [Pub. L. 95–461](https://www.govinfo.gov/link/plaw/95/public/461), §§ 2(b), 6(a), Oct. 14, 1978, [92 Stat. 1268](https://www.govinfo.gov/link/statute/92/1268), 1270; [Pub. L. 96–181, § 7](https://www.govinfo.gov/link/plaw/96/public/181), Jan. 2, 1980, [93 Stat. 1312](https://www.govinfo.gov/link/statute/93/1312); [Pub. L. 97–35, title IX, § 970(b)](https://www.govinfo.gov/link/plaw/97/public/35) –(f), Aug. 13, 1981, [95 Stat. 596](https://www.govinfo.gov/link/statute/95/596), 597; [Pub. L. 98–24, § 5(a)(3)](https://www.govinfo.gov/link/plaw/98/public/24), Apr. 26, 1983, [97 Stat. 183](https://www.govinfo.gov/link/statute/97/183).)*

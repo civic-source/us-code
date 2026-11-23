@@ -3,9 +3,10 @@ title: "Section 7709 - Congressional and public notification"
 usc_title: 22
 usc_section: "7709"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7709"
-generated_at: "2026-03-30T02:55:05.445Z"
+generated_at: "2026-11-23T21:25:58.726Z"
+status: "active"
 ---
 
 # § 7709. Congressional and public notification
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:55:05.445Z"
   - **(1)** publish the text of the Compact on the website of the Corporation;
   - **(2)** provide the appropriate congressional committees with a detailed summary of the Compact and, upon request, the text of the Compact; and
   - **(3)** publish in the Federal Register a detailed summary of the Compact and a notice of availability of the text of the Compact on the website of the Corporation.
+
+## Source Credit
+
+*([Pub. L. 108–199, div. D, title VI, § 610](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 220](https://www.govinfo.gov/link/statute/118/220); [Pub. L. 115–167, title II, § 205](https://www.govinfo.gov/link/plaw/115/public/167), Apr. 23, 2018, [132 Stat. 1281](https://www.govinfo.gov/link/statute/132/1281).)*

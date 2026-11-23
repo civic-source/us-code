@@ -3,9 +3,10 @@ title: "Section 622 - State plans for child welfare services"
 usc_title: 42
 usc_section: "622"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 622"
-generated_at: "2026-03-30T02:56:10.875Z"
+generated_at: "2026-11-23T21:26:31.094Z"
+status: "active"
 ---
 
 # § 622. State plans for child welfare services
@@ -64,3 +65,63 @@ generated_at: "2026-03-30T02:56:10.875Z"
 - **(c)** In this subpart:
   - **(1)** The term “administrative costs” means costs for the following, but only to the extent incurred in administering the State plan developed pursuant to this subpart: procurement, payroll management, personnel functions (other than the portion of the salaries of supervisors attributable to time spent directly supervising the provision of services by caseworkers), management, maintenance and operation of space and property, data processing and computer services, accounting, budgeting, auditing, and travel expenses (except those related to the provision of services by caseworkers or the oversight of programs funded under this subpart).
   - **(2)** For definitions of other terms used in this part, see section 675 of this title .
+
+In General
+
+Delay Permitted if State Legislation Required
+
+Application to Programs Operated by Indian Tribal Organizations
+
+Effective Dates.—
+
+In general
+
+Exceptions
+
+Transition Rule.—
+
+In general
+
+Application to programs operated by indian tribal organizations
+
+Effective Dates.—
+
+In general
+
+Transition rule
+
+Limitation on Federal Financial Participation for Placements That Are Not in Foster Family Homes and Related Provisions.—
+
+In general
+
+State option to delay effective date for not more than 2 years
+
+Criminal Records Checks and Checks of Child Abuse and Neglect Registries for Adults Working in Child-care Institutions and Other Group Care Settings
+
+Application to States With Waivers
+
+In general
+
+Delay permitted if state legislation required
+
+In General
+
+Delay Permitted if State Legislation Required
+
+In General
+
+Delay Permitted If State Legislation Required
+
+In General
+
+Delay Permitted if State Legislation Required
+
+“Within 2 years after the date of the enactment of this Act [ Jan. 4, 2025 ], the Secretary of Health and Human Services, in consultation with the Department of Education, the Administration for Children and Families, the Centers for Medicare and Medicaid Services, the Administration for Community Living, the Department of Justice, and other relevant policy experts, as determined by the Secretary, shall issue and disseminate, or update and revise, as applicable, guidance to State agencies in administering State plans approved under parts B and E of title IV of the Social Security Act [ 42 U.S.C. 620 et seq., 670 et seq.] on the following:
+
+Findings
+
+Purpose
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 422, as added and amended [Pub. L. 90–248, title II, § 240(c)](https://www.govinfo.gov/link/plaw/90/public/248), (d), Jan. 2, 1968, [81 Stat. 912](https://www.govinfo.gov/link/statute/81/912), 915; [Pub. L. 93–647, § 3(a)(6)](https://www.govinfo.gov/link/plaw/93/public/647), (7), (h), Jan. 4, 1975, [88 Stat. 2348](https://www.govinfo.gov/link/statute/88/2348), 2349; [Pub. L. 96–272, title I, § 103(a)](https://www.govinfo.gov/link/plaw/96/public/272), June 17, 1980, [94 Stat. 517](https://www.govinfo.gov/link/statute/94/517); [Pub. L. 101–239, title X, § 10403(b)(1)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2488](https://www.govinfo.gov/link/statute/103/2488); [Pub. L. 103–66, title XIII, § 13711(b)(1)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 655](https://www.govinfo.gov/link/statute/107/655); [Pub. L. 103–382, title V, § 554](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 4057](https://www.govinfo.gov/link/statute/108/4057); [Pub. L. 103–432, title II](https://www.govinfo.gov/link/plaw/103/public/432), §§ 202(a), 204(a), Oct. 31, 1994, [108 Stat. 4453](https://www.govinfo.gov/link/statute/108/4453), 4456; [Pub. L. 104–193, title I, § 108(b)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2165](https://www.govinfo.gov/link/statute/110/2165); [Pub. L. 105–33, title V, § 5592(a)(1)(A)](https://www.govinfo.gov/link/plaw/105/public/33), (2), Aug. 5, 1997, [111 Stat. 644](https://www.govinfo.gov/link/statute/111/644); [Pub. L. 105–89, title I, § 102(1)](https://www.govinfo.gov/link/plaw/105/public/89), title II, § 202(a), Nov. 19, 1997, [111 Stat. 2117](https://www.govinfo.gov/link/statute/111/2117), 2125; [Pub. L. 105–200, title IV, § 410(b)](https://www.govinfo.gov/link/plaw/105/public/200), July 16, 1998, [112 Stat. 673](https://www.govinfo.gov/link/statute/112/673); [Pub. L. 106–279, title II, § 205](https://www.govinfo.gov/link/plaw/106/public/279), Oct. 6, 2000, [114 Stat. 837](https://www.govinfo.gov/link/statute/114/837); [Pub. L. 109–171, title VII, § 7401(b)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 150](https://www.govinfo.gov/link/statute/120/150); [Pub. L. 109–239, § 13](https://www.govinfo.gov/link/plaw/109/public/239), July 3, 2006, [120 Stat. 514](https://www.govinfo.gov/link/statute/120/514); [Pub. L. 109–288](https://www.govinfo.gov/link/plaw/109/public/288), §§ 6(c), 7(a), Sept. 28, 2006, [120 Stat. 1244](https://www.govinfo.gov/link/statute/120/1244), 1248; [Pub. L. 110–351, title II, § 205](https://www.govinfo.gov/link/plaw/110/public/351), Oct. 7, 2008, [122 Stat. 3961](https://www.govinfo.gov/link/statute/122/3961); [Pub. L. 111–148, title II, § 2955(c)](https://www.govinfo.gov/link/plaw/111/public/148), title VI, § 6703(d)(2)(B), Mar. 23, 2010, [124 Stat. 352](https://www.govinfo.gov/link/statute/124/352), 803; [Pub. L. 112–34, title I, § 101(b)](https://www.govinfo.gov/link/plaw/112/public/34), Sept. 30, 2011, [125 Stat. 369](https://www.govinfo.gov/link/statute/125/369); [Pub. L. 113–183, title I, § 112(a)(2)](https://www.govinfo.gov/link/plaw/113/public/183), (b)(2)(A)(i), Sept. 29, 2014, [128 Stat. 1926](https://www.govinfo.gov/link/statute/128/1926), 1927; [Pub. L. 115–123, div. E, title VII](https://www.govinfo.gov/link/plaw/115/public/123), §§ 50732, 50743(a), 50772, Feb. 9, 2018, [132 Stat. 251](https://www.govinfo.gov/link/statute/132/251), 260, 268; [Pub. L. 118–258, title I](https://www.govinfo.gov/link/plaw/118/public/258), §§ 106(c)–(e), 107(a)(2)(A), 109(a), Jan. 4, 2025, [138 Stat. 2952](https://www.govinfo.gov/link/statute/138/2952), 2954, 2958.)*

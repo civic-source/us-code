@@ -3,9 +3,10 @@ title: "Section 5606 - Implementation of commitments under Uruguay Round Agreeme
 usc_title: 7
 usc_section: "5606"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 5606"
-generated_at: "2026-03-30T02:53:42.415Z"
+generated_at: "2026-11-23T21:25:28.362Z"
+status: "active"
 ---
 
 # § 5606. Implementation of commitments under Uruguay Round Agreements
@@ -14,3 +15,7 @@ Not later than September 30 of each year, the Secretary shall evaluate whether t
 
   - **(1)** submit the evaluation to the United States Trade Representative; and
   - **(2)** transmit a copy of the evaluation to the Committee on Agriculture, and the Committee on Ways and Means, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry, and the Committee on Finance, of the Senate.
+
+## Source Credit
+
+*([Pub. L. 95–501, title I, § 106](https://www.govinfo.gov/link/plaw/95/public/501), as added [Pub. L. 104–127, title II, § 242(a)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 964](https://www.govinfo.gov/link/statute/110/964).)*

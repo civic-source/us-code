@@ -3,9 +3,10 @@ title: "Section 3057 - Rule violations and civil sanctions"
 usc_title: 15
 usc_section: "3057"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3057"
-generated_at: "2026-03-30T02:54:08.186Z"
+generated_at: "2026-11-23T21:25:39.962Z"
+status: "active"
 ---
 
 # § 3057. Rule violations and civil sanctions
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:54:08.186Z"
     - **(A)** lifetime bans from horseracing, disgorgement of purses, monetary fines and penalties, and changes to the order of finish in covered races; and
     - **(B)** with respect to anti-doping and medication control rule violators, an opportunity to reduce the applicable civil sanctions that is comparable to the opportunity provided by the Protocol for Olympic Movement Testing of the United States Anti-Doping Agency.
 - **(e)** The Authority may propose a modification to any rule established under this section as the Authority considers appropriate, and the proposed modification shall be submitted to and considered by the Commission in accordance with section 3053 of this title .
+
+## Source Credit
+
+*([Pub. L. 116–260, div. FF, title XII, § 1208](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3269](https://www.govinfo.gov/link/statute/134/3269).)*

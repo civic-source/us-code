@@ -3,9 +3,10 @@ title: "Section 2723 - Notice to congressional committees of certain security an
 usc_title: 10
 usc_section: "2723"
 chapter: 161
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2723"
-generated_at: "2026-03-30T02:53:38.173Z"
+generated_at: "2026-11-23T21:25:32.665Z"
+status: "active"
 ---
 
 # § 2723. Notice to congressional committees of certain security and counterintelligence failures within defense programs
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:53:38.173Z"
 - **(d)**
   - **(1)** Nothing in this section shall be construed as authority to withhold any information from the Committees on Armed Services of the Senate and House of Representatives on the grounds that providing the information to those committees would constitute the unauthorized disclosure of classified information, information relating to intelligence sources and methods, or sensitive law enforcement information.
   - **(2)** Nothing in this section shall be construed to modify or supersede any other requirement to report information on intelligence activities to the Congress, including the requirement under section 501 of the National Security Act of 1947 ( 50 U.S.C. 3091 ).
+
+Required Notification
+
+Manner of Notification
+
+Procedures
+
+Statutory Construction
+
+## Source Credit
+
+*(Added [Pub. L. 106–65, div. A, title X, § 1042(a)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 759](https://www.govinfo.gov/link/statute/113/759); amended [Pub. L. 110–181, div. A, title IX, § 931(a)(13)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 285](https://www.govinfo.gov/link/statute/122/285); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title IX, § 932(a)(12), Oct. 14, 2008, [122 Stat. 4576](https://www.govinfo.gov/link/statute/122/4576); [Pub. L. 111–84, div. A, title X, § 1073(c)(10)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2475](https://www.govinfo.gov/link/statute/123/2475); [Pub. L. 113–291, div. A, title X, § 1071(c)(12)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3509](https://www.govinfo.gov/link/statute/128/3509).)*

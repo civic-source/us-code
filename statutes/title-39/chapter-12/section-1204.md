@@ -3,9 +3,10 @@ title: "Section 1204 - Elections"
 usc_title: 39
 usc_section: "1204"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 1204"
-generated_at: "2026-03-30T02:55:43.690Z"
+generated_at: "2026-11-23T21:26:12.774Z"
+status: "active"
 ---
 
 # § 1204. Elections
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:43.690Z"
 - **(a)** All elections authorized under this chapter shall be conducted under the supervision of the National Labor Relations Board, or persons designated by it, and shall be by secret ballot. Each employee eligible to vote shall be provided the opportunity to choose the labor organization he wishes to represent him, from among those on the ballot, or “no union”.
 - **(b)** In any election where none of the choices on the ballot receives a majority, a runoff shall be conducted, the ballot providing for a selection between the 2 choices receiving the largest and second largest number of valid votes cast in the election. In the event of a tie vote, additional runoff elections shall be conducted until one of the choices has received a majority of the votes.
 - **(c)** No election shall be held in any bargaining unit within which, in the preceding 12-month period, a valid election has been held.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 735](https://www.govinfo.gov/link/statute/84/735).)*

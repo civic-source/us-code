@@ -3,9 +3,10 @@ title: "Section 386 - Deposition"
 usc_title: 2
 usc_section: "386"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 386"
-generated_at: "2026-03-30T02:53:04.796Z"
+generated_at: "2026-11-23T21:25:21.161Z"
+status: "active"
 ---
 
 # § 386. Deposition
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:04.796Z"
 - **(f)** At the taking of testimony, a party may appear and act in person, or by his agent or attorney.
 - **(g)** The officer before whom testimony is to be taken shall put the witness under oath and shall personally, or by someone acting under his direction and in his presence, record the testimony of the witness. The testimony shall be taken stenographically and transcribed. All objections made at the time of examination to the qualifications of the officer taking the deposition, or to the manner of taking it, or to the evidence presented, or the conduct of any party, and any other objection to the proceedings, shall be noted by the officer upon the deposition. Evidence objected to shall be taken subject to the objections. In lieu of participating in the oral examination, a party served with a notice of deposition may transmit written interrogatories to the officer, who shall propound them to the witness and record the answers verbatim.
 - **(h)** When the testimony is fully transcribed, the deposition shall be submitted to the witness for examination and shall be read to or by him, unless such examination and reading are waived by the witness and the parties. Any changes in the form or substance which the witness desires to make shall be entered upon the deposition by the officer with a statement of the reasons given by the witness for making them. The deposition shall be signed by the witness, unless the parties by stipulation waive the signing or the witness is ill or cannot be found or refuses to sign. If the deposition is not signed by the witness, the officer shall sign it and note on the deposition the fact of the waiver or of the illness or the absence of the witness or the fact of refusal to sign together with the reason, if any, given therefor; and the deposition may then be used as fully as though signed, unless on a motion to suppress, the committee rules that the reasons given for the refusal to sign require rejection of the deposition in whole or in part.
+
+## Source Credit
+
+*([Pub. L. 91–138, § 7](https://www.govinfo.gov/link/plaw/91/public/138), Dec. 5, 1969, [83 Stat. 286](https://www.govinfo.gov/link/statute/83/286).)*

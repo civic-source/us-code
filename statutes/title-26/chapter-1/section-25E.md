@@ -3,9 +3,10 @@ title: "Section 25E - Previously-owned clean vehicles"
 usc_title: 26
 usc_section: "25E"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 25E"
-generated_at: "2026-03-30T02:55:27.588Z"
+generated_at: "2026-11-23T21:26:05.890Z"
+status: "active"
 ---
 
 # § 25E. Previously-owned clean vehicles
@@ -48,3 +49,11 @@ generated_at: "2026-03-30T02:55:27.588Z"
 - **(e)** For purposes of this section, rules similar to the rules of section 30D(f) (without regard to paragraph (10) or (11) thereof) shall apply for purposes of this section.
 - **(f)** Rules similar to the rules of section 30D(g) shall apply.
 - **(g)** No credit shall be allowed under this section with respect to any vehicle acquired after September 30, 2025 .
+
+In general
+
+Transfer of credit
+
+## Source Credit
+
+*(Added and amended [Pub. L. 117–169, title I, § 13402(a)](https://www.govinfo.gov/link/plaw/117/public/169), (b), Aug. 16, 2022, [136 Stat. 1962](https://www.govinfo.gov/link/statute/136/1962), 1963; [Pub. L. 119–21, title VII, § 70501](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 250](https://www.govinfo.gov/link/statute/139/250).)*

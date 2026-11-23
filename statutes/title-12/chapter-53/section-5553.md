@@ -3,12 +3,17 @@ title: "Section 5553 - Preservation of existing contracts"
 usc_title: 12
 usc_section: "5553"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5553"
-generated_at: "2026-03-30T02:53:53.545Z"
+generated_at: "2026-11-23T21:25:37.289Z"
+status: "active"
 ---
 
 # § 5553. Preservation of existing contracts
 
 This title, 1 1 See References in Text note below. and regulations, orders, guidance, and interpretations prescribed, issued, or established by the Bureau, shall not be construed to alter or affect the applicability of any regulation, order, guidance, or interpretation prescribed, issued, and established by the Comptroller of the Currency or the Director of the Office of Thrift Supervision regarding the applicability of State law under Federal banking law to any contract entered into on or before July 21, 2010 , by national banks, Federal savings associations, or subsidiaries thereof that are regulated and supervised by the Comptroller of the Currency or the Director of the Office of Thrift Supervision, respectively.
 
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1043](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2014](https://www.govinfo.gov/link/statute/124/2014).)*

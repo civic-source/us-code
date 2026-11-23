@@ -3,9 +3,10 @@ title: "Section 5401 - Findings and purposes"
 usc_title: 42
 usc_section: "5401"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5401"
-generated_at: "2026-03-30T02:56:11.234Z"
+generated_at: "2026-11-23T21:26:32.802Z"
+status: "active"
 ---
 
 # § 5401. Findings and purposes
@@ -22,3 +23,11 @@ generated_at: "2026-03-30T02:56:11.234Z"
   - **(6)** to establish a balanced consensus process for the development, revision, and interpretation of Federal construction and safety standards for manufactured homes and related regulations for the enforcement of such standards;
   - **(7)** to ensure uniform and effective enforcement of Federal construction and safety standards for manufactured homes; and
   - **(8)** to ensure that the public interest in, and need for, affordable manufactured housing is duly considered in all determinations relating to the Federal standards and their enforcement.
+
+Standards and Regulations
+
+Contracts
+
+## Source Credit
+
+*([Pub. L. 93–383, title VI, § 602](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 700](https://www.govinfo.gov/link/statute/88/700); [Pub. L. 96–399, title III, § 308(c)(4)](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1641](https://www.govinfo.gov/link/statute/94/1641); [Pub. L. 97–35, title III, § 339B(c)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 417](https://www.govinfo.gov/link/statute/95/417); [Pub. L. 106–569, title VI, § 602](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 2997](https://www.govinfo.gov/link/statute/114/2997).)*

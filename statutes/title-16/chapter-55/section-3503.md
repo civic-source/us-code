@@ -3,9 +3,10 @@ title: "Section 3503 - Establishment of John H. Chafee Coastal Barrier Resources
 usc_title: 16
 usc_section: "3503"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3503"
-generated_at: "2026-03-30T02:54:23.017Z"
+generated_at: "2026-11-23T21:25:51.976Z"
+status: "active"
 ---
 
 # § 3503. Establishment of John H. Chafee Coastal Barrier Resources System
@@ -51,3 +52,89 @@ generated_at: "2026-03-30T02:54:23.017Z"
     - **(A)** is principally above ground and affixed to a permanent site, including a manufactured home on a permanent foundation; and
     - **(B)** covers an area of at least 200 square feet.
   - **(3)** Nothing in this subsection supersedes the official maps referred to in subsection (a).
+
+Otherwise protected area
+
+Pilot project
+
+Secretary
+
+System unit
+
+In General
+
+Data.—
+
+Use of existing data
+
+Provision of data by other agencies
+
+Provision of data by non-federal agencies
+
+Additional data
+
+Data standards
+
+Report.—
+
+In general
+
+Consultation
+
+Contents
+
+Authorization of Appropriations
+
+In General.—
+
+Project
+
+Number of units
+
+Data.—
+
+Use of existing data
+
+Provision of data by other agencies
+
+Additional data
+
+Data standards
+
+Digital Maps Not Controlling
+
+Report.—
+
+In general
+
+Contents
+
+Authorization of Appropriations
+
+“Congress finds that—
+
+In General
+
+References
+
+Technical Revision of Maps and Provision to State and Local Government
+
+Recommendations of State and Local Governments for Boundary Modifications
+
+Elections to Add to System.—
+
+Provision of maps by secretary
+
+Elections
+
+Effective date of election
+
+Modification of Boundaries, Revision of Maps, and Publication of Notice.—
+
+In general
+
+Effective date of modifications
+
+## Source Credit
+
+*([Pub. L. 97–348, § 4](https://www.govinfo.gov/link/plaw/97/public/348), Oct. 18, 1982, [96 Stat. 1654](https://www.govinfo.gov/link/statute/96/1654); [Pub. L. 97–396, § 8](https://www.govinfo.gov/link/plaw/97/public/396), Dec. 31, 1982, [96 Stat. 2007](https://www.govinfo.gov/link/statute/96/2007); [Pub. L. 100–707, title II, § 204(b)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4713](https://www.govinfo.gov/link/statute/102/4713); [Pub. L. 101–591, § 3](https://www.govinfo.gov/link/plaw/101/public/591), Nov. 16, 1990, [104 Stat. 2931](https://www.govinfo.gov/link/statute/104/2931); [Pub. L. 106–167, § 3(c)(3)](https://www.govinfo.gov/link/plaw/106/public/167), Dec. 9, 1999, [113 Stat. 1804](https://www.govinfo.gov/link/statute/113/1804); [Pub. L. 106–514](https://www.govinfo.gov/link/plaw/106/public/514), §§ 2–3(b)(1), (c), (d), Nov. 13, 2000, [114 Stat. 2394](https://www.govinfo.gov/link/statute/114/2394), 2395; [Pub. L. 115–358](https://www.govinfo.gov/link/plaw/115/public/358), §§ 2(d), 3, Dec. 21, 2018, [132 Stat. 5080](https://www.govinfo.gov/link/statute/132/5080); [Pub. L. 118–117, title I, § 102](https://www.govinfo.gov/link/plaw/118/public/117), Nov. 25, 2024, [138 Stat. 1610](https://www.govinfo.gov/link/statute/138/1610).)*

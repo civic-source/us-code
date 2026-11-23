@@ -3,9 +3,10 @@ title: "Section 280H - Limitation on certain amounts paid to employee-owners by 
 usc_title: 26
 usc_section: "280H"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 280H"
-generated_at: "2026-03-30T02:55:27.663Z"
+generated_at: "2026-11-23T21:26:06.128Z"
+status: "active"
 ---
 
 # § 280H. Limitation on certain amounts paid to employee-owners by personal service corporations electing alternative taxable years
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:55:27.663Z"
     - **(A)** any amount paid to an employee-owner which is includible in the gross income of such employee-owner, and
     - **(B)** any net operating loss carryover to the extent such carryover is attributable to amounts described in subparagraph (A).
   - **(5)** The term “personal service corporation” has the meaning given to such term by section 441(i)(2).
+
+## Source Credit
+
+*(Added [Pub. L. 100–203, title X, § 10206(c)(1)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–401](https://www.govinfo.gov/link/statute/101/1330); amended [Pub. L. 100–647, title II, § 2004(e)(2)(B)](https://www.govinfo.gov/link/plaw/100/public/647), (3), (14)(A), (C), Nov. 10, 1988, [102 Stat. 3600](https://www.govinfo.gov/link/statute/102/3600), 3602.)*

@@ -3,9 +3,10 @@ title: "Section 7101 - Definitions"
 usc_title: 42
 usc_section: "7101"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7101"
-generated_at: "2026-03-30T02:56:11.282Z"
+generated_at: "2026-11-23T21:26:33.043Z"
+status: "active"
 ---
 
 # § 7101. Definitions
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:11.282Z"
 - **(a)** As used in this chapter, unless otherwise provided or indicated by the context, the term the “Department” means the Department of Energy or any component thereof, including the Federal Energy Regulatory Commission.
 - **(b)** As used in this chapter (1) reference to “function” includes reference to any duty, obligation, power, authority, responsibility, right, privilege, and activity, or the plural thereof, as the case may be; and (2) reference to “perform”, when used in relation to functions, includes the undertaking, fulfillment, or execution of any duty or obligation; and the exercise of power, authority, rights, and privileges.
 - **(c)** As used in this chapter, “Federal lease” means an agreement which, for any consideration, including but not limited to, bonuses, rents, or royalties conferred and covenants to be observed, authorizes a person to explore for, or develop, or produce (or to do any or all of these) oil and gas, coal, oil shale, tar sands, and geothermal resources on lands or interests in lands under Federal jurisdiction.
+
+## Source Credit
+
+*([Pub. L. 95–91, § 2](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 567](https://www.govinfo.gov/link/statute/91/567).)*

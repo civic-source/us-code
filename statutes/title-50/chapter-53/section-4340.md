@@ -3,9 +3,10 @@ title: "Section 4340 - Divestment of trademarks"
 usc_title: 50
 usc_section: "4340"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4340"
-generated_at: "2026-03-30T02:56:26.274Z"
+generated_at: "2026-11-23T21:26:39.100Z"
+status: "active"
 ---
 
 # § 4340. Divestment of trademarks
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:26.274Z"
   - **(2)** rights or interests which have been returned or otherwise disposed of under this chapter;
   - **(3)** rights or interests vested by vesting orders 284, as amended (7 Fed. Reg. 9754; 9 Fed. Reg. 1038), 2354 (8 Fed. Reg. 14635), 5592 (11 Fed. Reg. 1675), and 18805 (17 Fed. Reg. 4364),
 - **(d)** The Attorney General shall within forty-five days after October 23, 1962 , publish in the Federal Register a list of trademarks which at the date of vesting in the Alien Property Custodian or Attorney General were owned by persons who were resident in or had their sole or primary seat in the area of Germany now in the Soviet Zone of Occupation or in the Soviet sector of Berlin or in German territory under provisional Soviet or Polish administration. Notwithstanding the provisions of subsection (b) of this section, the effective date of divestment of the trademarks so listed and published in the Federal Register shall be the date of publication in the Federal Register by the Secretary of State of a certification identifying the cases in which an equivalent trademark has been registered in the Federal Republic of Germany for a person residing or having its sole or primary seat in the Federal Republic of Germany or in the western sectors of Berlin. In those cases of an equivalent trademark certified by the Secretary of State, the person registered by the Federal Republic of Germany as owner of such equivalent trademark shall succeed to the ownership of the divested trademark in the United States.
+
+## Source Credit
+
+*(Oct. 6, 1917, ch. 106, § 42, as added [Pub. L. 87–861, § 2](https://www.govinfo.gov/link/plaw/87/public/861), Oct. 23, 1962, [76 Stat. 1139](https://www.govinfo.gov/link/statute/76/1139).)*

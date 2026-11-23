@@ -3,9 +3,10 @@ title: "Section 742f - Powers of Secretaries of the Interior and Commerce"
 usc_title: 16
 usc_section: "742f"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 742f"
-generated_at: "2026-03-30T02:54:22.903Z"
+generated_at: "2026-11-23T21:25:51.742Z"
+status: "active"
 ---
 
 # § 742f. Powers of Secretaries of the Interior and Commerce
@@ -58,3 +59,23 @@ generated_at: "2026-03-30T02:54:22.903Z"
   - **(1)** evaluating the accomplishments of the volunteer program, the community partnerships program, and the refuge education programs authorized under this section, and of the National Volunteer Coordination Program and volunteer coordination strategy under section 742f–1 of this title ; and
   - **(2)** making recommendations to improve the effectiveness of such programs, including regarding implementing subparagraphs (A), (B), and (C) of paragraph (1) of subsection (e).
 - **(g)** There is authorized to be appropriated to the Secretary of the Interior to carry out subsections (b), (c), (d), (e), and (f), $2,000,000 for each of fiscal years 2023 through 2027.
+
+Use of gifts, devises, and bequests.—
+
+In general
+
+Gifts, devises, and bequests to particular refuges.—
+
+Disbursal
+
+Matching
+
+Senior volunteer corps
+
+Findings
+
+Purposes
+
+## Source Credit
+
+*(Aug. 8, 1956, ch. 1036, § 7, [70 Stat. 1122](https://www.govinfo.gov/link/statute/70/1122); [Pub. L. 95–616, § 4](https://www.govinfo.gov/link/plaw/95/public/616), Nov. 8, 1978, [92 Stat. 3112](https://www.govinfo.gov/link/statute/92/3112); [Pub. L. 97–347, § 2](https://www.govinfo.gov/link/plaw/97/public/347), Oct. 18, 1982, [96 Stat. 1652](https://www.govinfo.gov/link/statute/96/1652); [Pub. L. 98–44, title I, § 103(a)(2)](https://www.govinfo.gov/link/plaw/98/public/44), July 12, 1983, [97 Stat. 216](https://www.govinfo.gov/link/statute/97/216); [Pub. L. 98–498, title IV, § 430(2)](https://www.govinfo.gov/link/plaw/98/public/498), Oct. 19, 1984, [98 Stat. 2310](https://www.govinfo.gov/link/statute/98/2310); [Pub. L. 105–242](https://www.govinfo.gov/link/plaw/105/public/242), §§ 3, 4(b), (c), 5–7, Oct. 5, 1998, [112 Stat. 1574–1578](https://www.govinfo.gov/link/statute/112/1574); [Pub. L. 108–327](https://www.govinfo.gov/link/plaw/108/public/327), §§ 2, 4, Oct. 16, 2004, [118 Stat. 1271](https://www.govinfo.gov/link/statute/118/1271); [Pub. L. 111–357](https://www.govinfo.gov/link/plaw/111/public/357), §§ 2, 4(a), Jan. 4, 2011, [124 Stat. 3979](https://www.govinfo.gov/link/statute/124/3979), 3980; [Pub. L. 115–168, § 2](https://www.govinfo.gov/link/plaw/115/public/168), Apr. 23, 2018, [132 Stat. 1284](https://www.govinfo.gov/link/statute/132/1284); [Pub. L. 117–328, div. O, title IV, § 402](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5228](https://www.govinfo.gov/link/statute/136/5228).)*

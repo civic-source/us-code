@@ -3,12 +3,17 @@ title: "Section 2245 - Sale of prints and lantern slides"
 usc_title: 7
 usc_section: "2245"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2245"
-generated_at: "2026-03-30T02:53:42.382Z"
+generated_at: "2026-11-23T21:25:28.287Z"
+status: "active"
 ---
 
 # § 2245. Sale of prints and lantern slides
 
 The Secretary of Agriculture is authorized to furnish, upon application, prints and lantern slides from negatives in the possession of the department and to charge for the same a price to cover the cost of preparation, such price to be determined and established by the Secretary of Agriculture, and the money received from such sales to be deposited in the Treasury of the United States.
 
+
+## Source Credit
+
+*(Mar. 4, 1907, ch. 2907, [34 Stat. 1281](https://www.govinfo.gov/link/statute/34/1281).)*

@@ -3,9 +3,10 @@ title: "Section 12556 - Selection of participants"
 usc_title: 34
 usc_section: "12556"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 12556"
-generated_at: "2026-03-30T02:55:33.290Z"
+generated_at: "2026-11-23T21:26:09.758Z"
+status: "active"
 ---
 
 # § 12556. Selection of participants
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:55:33.290Z"
   - **(2)** A participant who requests a leave of absence from educational study, training or service for a period not to exceed 1 year (or 18 months in the aggregate in the event of multiple requests) for any reason other than those listed in paragraph (1) may be granted such leave of absence by the State.
   - **(3)** A participant who requests a leave of absence from educational study or training for a period not to exceed 30 months to serve on an official church mission may be granted such leave of absence.
 - **(f)** An applicant may be admitted into a State Police Corps program either before commencement of or during the applicant’s course of educational study.
+
+## Source Credit
+
+*([Pub. L. 103–322, title XX, § 200107](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2052](https://www.govinfo.gov/link/statute/108/2052).)*

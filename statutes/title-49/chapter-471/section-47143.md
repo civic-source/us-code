@@ -3,9 +3,10 @@ title: "Section 47143 - Non-movement area surveillance surface display systems p
 usc_title: 49
 usc_section: "47143"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 47143"
-generated_at: "2026-03-30T02:56:19.405Z"
+generated_at: "2026-11-23T21:26:40.988Z"
+status: "active"
 ---
 
 # § 47143. Non-movement area surveillance surface display systems pilot program
@@ -24,3 +25,25 @@ generated_at: "2026-03-30T02:56:19.405Z"
     - **(A)** provides the required transmit and receive data formats consistent with the National Airspace System architecture at the appropriate service delivery point;
     - **(B)** is on-airport; and
     - **(C)** is airport operated.
+
+In General
+
+Project Grants.—
+
+In general
+
+Data exchange processes
+
+Sunset
+
+Definitions
+
+Non-movement area
+
+Non-movement area surveillance surface display systems and sensors
+
+Qualifying non-movement area surveillance surface display system and sensors
+
+## Source Credit
+
+*(Added [Pub. L. 115–254, div. B, title I, § 140(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3210](https://www.govinfo.gov/link/statute/132/3210); amended [Pub. L. 118–15, div. B, title II, § 2202(i)](https://www.govinfo.gov/link/plaw/118/public/15), Sept. 30, 2023, [137 Stat. 83](https://www.govinfo.gov/link/statute/137/83); [Pub. L. 118–34, title I, § 102(i)](https://www.govinfo.gov/link/plaw/118/public/34), Dec. 26, 2023, [137 Stat. 1113](https://www.govinfo.gov/link/statute/137/1113); [Pub. L. 118–41, title I, § 102(i)](https://www.govinfo.gov/link/plaw/118/public/41), Mar. 8, 2024, [138 Stat. 21](https://www.govinfo.gov/link/statute/138/21); [Pub. L. 118–63, title VII, § 724](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1267](https://www.govinfo.gov/link/statute/138/1267).)*

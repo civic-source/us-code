@@ -3,9 +3,10 @@ title: "Section 1130 - Consideration of proposals for decorations not previously
 usc_title: 10
 usc_section: "1130"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1130"
-generated_at: "2026-03-30T02:53:38.110Z"
+generated_at: "2026-11-23T21:25:32.429Z"
+status: "active"
 ---
 
 # § 1130. Consideration of proposals for decorations not previously submitted in timely fashion: procedures for review
@@ -18,3 +19,35 @@ generated_at: "2026-03-30T02:53:38.110Z"
     - **(A)** a Senator; or
     - **(B)** a Representative in, or a Delegate or Resident Commissioner to, Congress.
   - **(2)** The term “decoration” means any decoration or award that may be presented or awarded to a member or unit of the armed forces.
+
+Inclusion of Operations
+
+Individual Determination
+
+Operations Defined
+
+Findings
+
+Waiver of Time Limitations for Recommendations for Awards
+
+Review of Requests for Consideration of Awards
+
+Report
+
+Definition
+
+Waiver on Restrictions of Awards
+
+Review of Requests for Consideration of Awards
+
+Report
+
+Definition
+
+In General
+
+Individual Determination
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title V, § 526(a)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 313](https://www.govinfo.gov/link/statute/110/313); amended [Pub. L. 106–65, div. A, title X, § 1067(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774); [Pub. L. 108–136, div. A, title X, § 1031(a)(10)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1597](https://www.govinfo.gov/link/statute/117/1597); [Pub. L. 112–81, div. A, title V, § 524](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1401](https://www.govinfo.gov/link/statute/125/1401).)*

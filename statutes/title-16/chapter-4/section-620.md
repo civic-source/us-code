@@ -3,9 +3,10 @@ title: "Section 620 - Findings and purposes"
 usc_title: 16
 usc_section: "620"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 620"
-generated_at: "2026-03-30T02:54:22.885Z"
+generated_at: "2026-11-23T21:25:51.698Z"
+status: "active"
 ---
 
 # § 620. Findings and purposes
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:22.885Z"
   - **(3)** to take action necessary, to meet the goals of Article XI 2.(a) of the GATT 1994 (as defined in section 3501(1)(B) of title 19 ), to ensure sufficient supplies of certain forest resources or products which are essential to the United States;
   - **(4)** to continue and refine the existing Federal policy of restricting the export of unprocessed timber harvested from Federal lands in the western United States; and
   - **(5)** to effect measures aimed at meeting these objectives in conformity with the obligations of the United States under the WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of section 3501 of title 19 ).
+
+## Source Credit
+
+*([Pub. L. 101–382, title IV, § 488](https://www.govinfo.gov/link/plaw/101/public/382), Aug. 20, 1990, [104 Stat. 714](https://www.govinfo.gov/link/statute/104/714); [Pub. L. 106–36, title I, § 1002(a)(1)](https://www.govinfo.gov/link/plaw/106/public/36), June 25, 1999, [113 Stat. 132](https://www.govinfo.gov/link/statute/113/132).)*

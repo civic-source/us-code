@@ -3,9 +3,10 @@ title: "Section 2521 - Subpoenas and incidental powers"
 usc_title: 28
 usc_section: "2521"
 chapter: 165
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 2521"
-generated_at: "2026-03-30T02:55:30.150Z"
+generated_at: "2026-11-23T21:26:01.136Z"
+status: "active"
 ---
 
 # § 2521. Subpoenas and incidental powers
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:30.150Z"
   - **(2)** misbehavior of any of its officers in their official transactions; or
   - **(3)** disobedience or resistance to its lawful writ, process, order, rule, decree, or command.
 - **(c)** The United States Court of Federal Claims shall have such assistance in the carrying out of its lawful writ, process, order, rule, decree, or command as is available to a court of the United States. The United States marshal for any district in which the Court of Federal Claims is sitting shall, when requested by the chief judge of the Court of Federal Claims, attend any session of the Court of Federal Claims in such district.
+
+## Source Credit
+
+*(Added Sept. 3, 1954, ch. 1263, § 59(a), [68 Stat. 1248](https://www.govinfo.gov/link/statute/68/1248); amended [Pub. L. 102–572, title IX, § 910(a)](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4519](https://www.govinfo.gov/link/statute/106/4519).)*

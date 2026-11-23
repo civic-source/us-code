@@ -3,9 +3,10 @@ title: "Section 2702 - Special valuation rules in case of transfers of interests
 usc_title: 26
 usc_section: "2702"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 2702"
-generated_at: "2026-03-30T02:55:27.787Z"
+generated_at: "2026-11-23T21:26:06.545Z"
+status: "active"
 ---
 
 # § 2702. Special valuation rules in case of transfers of interests in trusts
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:27.787Z"
     - **(B)** the value of such term interest for purposes of applying subsection (a)(1) shall be the amount which the holder of the term interest establishes as the amount for which such interest could be sold to an unrelated third party.
 - **(d)** In the case of a transfer of an income or remainder interest with respect to a specified portion of the property in a trust, only such portion shall be taken into account in applying this section to such transfer.
 - **(e)** For purposes of this section, the term “member of the family” shall have the meaning given such term by section 2704(c)(2).
+
+## Source Credit
+
+*(Added [Pub. L. 101–508, title XI, § 11602(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–497](https://www.govinfo.gov/link/statute/104/1388); amended [Pub. L. 104–188, title I, § 1702(f)(11)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1872](https://www.govinfo.gov/link/statute/110/1872).)*

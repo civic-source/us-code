@@ -3,9 +3,10 @@ title: "Section 3224 - Intelligence officer training program"
 usc_title: 50
 usc_section: "3224"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3224"
-generated_at: "2026-03-30T02:56:26.238Z"
+generated_at: "2026-11-23T21:26:39.022Z"
+status: "active"
 ---
 
 # § 3224. Intelligence officer training program
@@ -42,3 +43,19 @@ generated_at: "2026-03-30T02:56:26.238Z"
     - **(A)** takes place outside the geographical boundaries of the United States;
     - **(B)** focuses on areas of the world that are critical to the national security interests of the United States and are generally underrepresented in study abroad programs at institutions of higher education, including Africa, Asia, Central and Eastern Europe, Eurasia, Latin America, and the Middle East; and
     - **(C)** is a credit or noncredit program.
+
+Historically black college and university
+
+Predominantly black institution
+
+Hispanic-serving institution
+
+Asian american and native american pacific islander-serving institution
+
+Study abroad program
+
+“Congress makes the following findings:
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title X, § 1024, as added [Pub. L. 111–259, title III, § 313(a)](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2665](https://www.govinfo.gov/link/statute/124/2665); amended [Pub. L. 112–18, title III, § 304](https://www.govinfo.gov/link/plaw/112/public/18), June 8, 2011, [125 Stat. 226](https://www.govinfo.gov/link/statute/125/226); [Pub. L. 113–293, title III, § 306](https://www.govinfo.gov/link/plaw/113/public/293), Dec. 19, 2014, [128 Stat. 3997](https://www.govinfo.gov/link/statute/128/3997); [Pub. L. 114–113, div. M, title VII, § 712](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2934](https://www.govinfo.gov/link/statute/129/2934); [Pub. L. 117–263, div. F, title LXVIII, § 6824(a)(7)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3615](https://www.govinfo.gov/link/statute/136/3615).)*

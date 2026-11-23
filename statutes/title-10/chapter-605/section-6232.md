@@ -3,9 +3,10 @@ title: "Section 6232 - Protection against inadvertent release of restricted data
 usc_title: 10
 usc_section: "6232"
 chapter: 605
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6232"
-generated_at: "2026-03-30T02:53:38.223Z"
+generated_at: "2026-11-23T21:25:32.823Z"
+status: "active"
 ---
 
 # § 6232. Protection against inadvertent release of restricted data and formerly restricted data
@@ -31,3 +32,17 @@ generated_at: "2026-03-30T02:53:38.223Z"
 - **(e)**
   - **(1)** The Secretary of Energy shall submit to the committees and Assistant to the President specified in subsection (d) a report on inadvertent releases of Restricted Data or Formerly Restricted Data under Executive Order No. 12958 that occurred before October 17, 1998 .
   - **(2)** The Secretary of Energy shall, in each even-numbered year beginning in 2010, submit to the committees and Assistant to the President specified in subsection (d) a report identifying any inadvertent releases of Restricted Data or Formerly Restricted Data under Executive Order No. 13526 discovered in the two-year period preceding the submittal of the report.
+
+Plan for Protection Against Release
+
+Plan Elements
+
+Limitation on Declassification of Certain Records
+
+Submission of Plan
+
+Report and Notification Regarding Inadvertent Releases
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2)(B), Dec. 18, 2025, [139 Stat. 1409](https://www.govinfo.gov/link/statute/139/1409), 1462.)*

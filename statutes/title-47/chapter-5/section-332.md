@@ -3,9 +3,10 @@ title: "Section 332 - Mobile services"
 usc_title: 47
 usc_section: "332"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 332"
-generated_at: "2026-03-30T02:56:24.509Z"
+generated_at: "2026-11-23T21:26:35.996Z"
+status: "active"
 ---
 
 # § 332. Mobile services
@@ -59,3 +60,13 @@ generated_at: "2026-03-30T02:56:24.509Z"
   - **(1)** the term “commercial mobile service” means any mobile service (as defined in section 153 of this title ) that is provided for profit and makes interconnected service available (A) to the public or (B) to such classes of eligible users as to be effectively available to a substantial portion of the public, as specified by regulation by the Commission;
   - **(2)** the term “interconnected service” means service that is interconnected with the public switched network (as such terms are defined by regulation by the Commission) or service for which a request for interconnection is pending pursuant to subsection (c)(1)(B); and
   - **(3)** the term “private mobile service” means any mobile service (as defined in section 153 of this title ) that is not a commercial mobile service or the functional equivalent of a commercial mobile service, as specified by regulation by the Commission.
+
+In general
+
+Effective dates of mobile service amendments
+
+“Within 1 year after the date of enactment of this Act [ Aug. 10, 1993 ], the Federal Communications Commission—
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 332, formerly § 331, as added [Pub. L. 97–259, title I, § 120(a)](https://www.govinfo.gov/link/plaw/97/public/259), Sept. 13, 1982, [96 Stat. 1096](https://www.govinfo.gov/link/statute/96/1096); renumbered § 332, [Pub. L. 102–385, § 25(b)](https://www.govinfo.gov/link/plaw/102/public/385), Oct. 5, 1992, [106 Stat. 1502](https://www.govinfo.gov/link/statute/106/1502); amended [Pub. L. 103–66, title VI, § 6002(b)(2)(A)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 392](https://www.govinfo.gov/link/statute/107/392); [Pub. L. 104–104, § 3(d)(2)](https://www.govinfo.gov/link/plaw/104/public/104), title VII, §§ 704(a), 705, Feb. 8, 1996, [110 Stat. 61](https://www.govinfo.gov/link/statute/110/61), 151, 153; [Pub. L. 115–141, div. P, title IV, § 402(g)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1089](https://www.govinfo.gov/link/statute/132/1089); [Pub. L. 117–286, § 4(a)(296)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4338](https://www.govinfo.gov/link/statute/136/4338).)*

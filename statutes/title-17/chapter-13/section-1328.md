@@ -3,9 +3,10 @@ title: "Section 1328 - Enforcement by Treasury and Postal Service"
 usc_title: 17
 usc_section: "1328"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 1328"
-generated_at: "2026-03-30T02:54:15.357Z"
+generated_at: "2026-11-23T21:25:41.742Z"
+status: "active"
 ---
 
 # § 1328. Enforcement by Treasury and Postal Service
@@ -15,3 +16,11 @@ generated_at: "2026-03-30T02:54:15.357Z"
   - **(2)** Furnish proof that the design involved is protected under this chapter and that the importation of the articles would infringe the rights in the design under this chapter.
   - **(3)** Post a surety bond for any injury that may result if the detention or exclusion of the articles proves to be unjustified.
 - **(b)** Articles imported in violation of the rights set forth in section 1308 are subject to seizure and forfeiture in the same manner as property imported in violation of the customs laws. Any such forfeited articles shall be destroyed as directed by the Secretary of the Treasury or the court, as the case may be, except that the articles may be returned to the country of export whenever it is shown to the satisfaction of the Secretary of the Treasury that the importer had no reasonable grounds for believing that his or her acts constituted a violation of the law.
+
+Regulations
+
+Seizure and Forfeiture
+
+## Source Credit
+
+*(Added [Pub. L. 105–304, title V, § 502](https://www.govinfo.gov/link/plaw/105/public/304), Oct. 28, 1998, [112 Stat. 2916](https://www.govinfo.gov/link/statute/112/2916).)*

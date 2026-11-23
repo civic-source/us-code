@@ -3,9 +3,10 @@ title: "Section 1482a - Expenses incident to death: civilian employees serving w
 usc_title: 10
 usc_section: "1482a"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1482a"
-generated_at: "2026-03-30T02:53:38.126Z"
+generated_at: "2026-11-23T21:25:32.491Z"
+status: "active"
 ---
 
 # § 1482a. Expenses incident to death: civilian employees serving with an armed force
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:53:38.126Z"
   - **(2)** The term “contingency operation” includes humanitarian operations, peacekeeping operations, and similar operations.
   - **(3)** The term “parent” has the meaning given such term in section 1482(e)(5)(A) of this title .
   - **(4)** The term “Secretary concerned” includes the Secretary of Defense with respect to employees of the Department of Defense who are not employees of a military department.
+
+Payment of Expenses
+
+Regulations
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 103–160, div. A, title III, § 368(a)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1633](https://www.govinfo.gov/link/statute/107/1633); amended [Pub. L. 103–337, div. A, title X, § 1070(a)(8)(A)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2855](https://www.govinfo.gov/link/statute/108/2855); [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 111–383, div. A, title X, § 1075(b)(20)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4370](https://www.govinfo.gov/link/statute/124/4370).)*

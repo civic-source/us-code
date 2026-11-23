@@ -3,9 +3,10 @@ title: "Section 50107 - Studies on marine insurance"
 usc_title: 46
 usc_section: "50107"
 chapter: 501
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 50107"
-generated_at: "2026-03-30T02:56:15.567Z"
+generated_at: "2026-11-23T21:26:37.212Z"
+status: "active"
 ---
 
 # § 50107. Studies on marine insurance
@@ -14,3 +15,32 @@ The Secretary of Transportation shall—
 
   - **(1)** examine into the subject of marine insurance, the number of companies in the United States, domestic and foreign, engaging in marine insurance, the extent of the insurance on hulls and cargoes placed or written in the United States, and the extent of reinsurance of American maritime risks in foreign companies; and
   - **(2)** ascertain what steps may be necessary to develop an ample marine insurance system as an aid in the development of the merchant marine of the United States.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 50107 | 46 App.:811 (2d sentence words after 2d comma). | Sept. 7, 1916, ch. 451, § 12 (2d sentence words after 2d comma), 39 Stat. 732 ; Ex. Ord. No. 6166, § 12, eff. June 10, 1933 ; June 29, 1936, ch. 858 , title II, § 204, title IX, § 904, 49 Stat. 1987 , 2016; Pub. L. 97–31, § 12(27) , Aug. 6, 1981 , 95 Stat. 155 . |
+
+
+Historical and Revision Notes
+
+50107
+
+Sept. 7, 1916, ch. 451, § 12
+
+39 Stat. 732
+
+June 10, 1933
+
+June 29, 1936, ch. 858
+
+49 Stat. 1987
+
+Pub. L. 97–31, § 12(27)
+
+Aug. 6, 1981
+
+95 Stat. 155
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(b)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1559](https://www.govinfo.gov/link/statute/120/1559).)*

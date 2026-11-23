@@ -3,9 +3,10 @@ title: "Section 18322 - Space Launch System as follow-on launch vehicle to the S
 usc_title: 42
 usc_section: "18322"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18322"
-generated_at: "2026-03-30T02:56:11.519Z"
+generated_at: "2026-11-23T21:26:33.819Z"
+status: "active"
 ---
 
 # § 18322. Space Launch System as follow-on launch vehicle to the Space Shuttle
@@ -23,3 +24,13 @@ generated_at: "2026-03-30T02:56:11.519Z"
   - **(2)** The Space Launch System shall be designed from inception as a fully-integrated vehicle capable of carrying a total payload of 130 tons or more into low-Earth orbit in preparation for transit for missions beyond low-Earth orbit. The Space Launch System shall, to the extent practicable, incorporate capabilities for evolutionary growth to carry heavier payloads. Developmental work and testing of the core elements and the upper stage should proceed in parallel subject to appropriations. Priority should be placed on the core elements with the goal for operational capability for the core elements not later than December 31, 2016 .
   - **(3)** The Administrator shall ensure critical skills and capabilities are retained, modified, and developed, as appropriate, in areas related to solid and liquid engines, large diameter fuel tanks, rocket propulsion, and other ground test capabilities for an effective transition to the follow-on Space Launch System.
   - **(4)** The capacity for efficient and timely evolution, including the incorporation of new technologies, competition of sub-elements, and commercial operations.
+
+In general
+
+Flexibility
+
+Transition needs
+
+## Source Credit
+
+*([Pub. L. 111–267, title III, § 302](https://www.govinfo.gov/link/plaw/111/public/267), Oct. 11, 2010, [124 Stat. 2814](https://www.govinfo.gov/link/statute/124/2814).)*

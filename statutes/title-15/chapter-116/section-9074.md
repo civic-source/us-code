@@ -3,9 +3,10 @@ title: "Section 9074 - Required assurances"
 usc_title: 15
 usc_section: "9074"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9074"
-generated_at: "2026-03-30T02:54:08.244Z"
+generated_at: "2026-11-23T21:25:40.132Z"
+status: "active"
 ---
 
 # § 9074. Required assurances
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.244Z"
   - **(1)** Subject to paragraph (2), any contractor that has unspent financial assistance provided under this part as of December 27, 2020 , and conducted involuntary furloughs or reduced pay rates and benefits, between March 27, 2020 , and the date on which the contractor entered into an agreement with the Secretary related to financial assistance under this part, shall recall (as defined in section 9071 of this title ) employees who were involuntarily furloughed during such period by not later than January 4, 2021 .
   - **(2)** The Secretary of the Treasury shall waive the requirement under paragraph (1) for a contractor to recall employees if the contractor certifies that the contractor has or will have insufficient remaining financial assistance provided under this part to keep recalled employees employed for more than two weeks upon returning to work.
   - **(3)** The Inspector General of the Department of the Treasury shall audit certifications made under paragraph (2).
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title IV, § 4114](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 499](https://www.govinfo.gov/link/statute/134/499); [Pub. L. 116–260, div. N, title IV, § 412(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2060](https://www.govinfo.gov/link/statute/134/2060).)*

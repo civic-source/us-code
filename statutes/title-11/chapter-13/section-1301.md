@@ -3,9 +3,10 @@ title: "Section 1301 - Stay of action against codebtor"
 usc_title: 11
 usc_section: "1301"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1301"
-generated_at: "2026-03-30T02:53:53.886Z"
+generated_at: "2026-11-23T21:25:34.970Z"
+status: "active"
 ---
 
 # § 1301. Stay of action against codebtor
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:53.886Z"
   - **(2)** the plan filed by the debtor proposes not to pay such claim; or
   - **(3)** such creditor’s interest would be irreparably harmed by continuation of such stay.
 - **(d)** Twenty days after the filing of a request under subsection (c)(2) of this section for relief from the stay provided by subsection (a) of this section, such stay is terminated with respect to the party in interest making such request, unless the debtor or any individual that is liable on such debt with the debtor files and serves upon such party in interest a written objection to the taking of the proposed action.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2645](https://www.govinfo.gov/link/statute/92/2645); [Pub. L. 98–353, title III](https://www.govinfo.gov/link/plaw/98/public/353), §§ 313, 524, July 10, 1984, [98 Stat. 355](https://www.govinfo.gov/link/statute/98/355), 388.)*

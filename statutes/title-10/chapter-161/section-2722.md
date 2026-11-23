@@ -3,9 +3,10 @@ title: "Section 2722 - Theft or loss of ammunition, destructive devices, and exp
 usc_title: 10
 usc_section: "2722"
 chapter: 161
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2722"
-generated_at: "2026-03-30T02:53:38.173Z"
+generated_at: "2026-11-23T21:25:32.665Z"
+status: "active"
 ---
 
 # § 2722. Theft or loss of ammunition, destructive devices, and explosives: report to Secretary of the Treasury
@@ -17,3 +18,17 @@ generated_at: "2026-03-30T02:53:38.173Z"
 - **(c)** In this section:
   - **(1)** The term “explosive material” means explosives, blasting agents, and detonators.
   - **(2)** The terms “destructive device” and “ammunition” have the meanings given those terms by paragraphs (4) and (17), respectively, of section 921(a) of title 18 .
+
+In General
+
+Exclusion for Certain Items
+
+Definitions
+
+In General
+
+Immediate Reporting of Confirmed Thefts, Losses, and Recoveries
+
+## Source Credit
+
+*(Added [Pub. L. 100–456, div. A, title III, § 344(a)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 1961](https://www.govinfo.gov/link/statute/102/1961); amended [Pub. L. 109–364, div. A, title X, § 1071(a)(24)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2399](https://www.govinfo.gov/link/statute/120/2399).)*

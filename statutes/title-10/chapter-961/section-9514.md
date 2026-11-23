@@ -3,9 +3,10 @@ title: "Section 9514 - Indemnification of Department of Transportation for losse
 usc_title: 10
 usc_section: "9514"
 chapter: 961
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 9514"
-generated_at: "2026-03-30T02:53:38.261Z"
+generated_at: "2026-11-23T21:25:33.006Z"
+status: "active"
 ---
 
 # § 9514. Indemnification of Department of Transportation for losses covered by defense-related aviation insurance
@@ -24,3 +25,23 @@ generated_at: "2026-03-30T02:53:38.261Z"
 - **(f)** In this section:
   - **(1)** The term “defense-related aviation insurance” means aviation insurance and reinsurance provided through policies issued by the Secretary of Transportation under chapter 443 of title 49 that pursuant to section 44305(b) of that title is provided by that Secretary without premium at the request of the Secretary of Defense and is covered by an indemnity agreement between the Secretary of Transportation and the Secretary of Defense.
   - **(2)** The term “loss” includes damage to or destruction of property, personal injury or death, and other liabilities and expenses covered by the defense-related aviation insurance.
+
+Prompt Indemnification Required
+
+Source of Funds for Payment of Indemnity
+
+Notice to Congress
+
+Implementing Matters
+
+Construction With Other Transfer Authority
+
+Definitions
+
+Defense-related aviation insurance
+
+Loss
+
+## Source Credit
+
+*(Added [Pub. L. 104–201, div. A, title X, § 1079(a)(1)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2667](https://www.govinfo.gov/link/statute/110/2667); amended [Pub. L. 108–136, div. A, title X, § 1031(a)(60)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1603](https://www.govinfo.gov/link/statute/117/1603); [Pub. L. 112–81, div. A, title X, § 1064(10)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1587](https://www.govinfo.gov/link/statute/125/1587); [Pub. L. 117–81, div. A, title X, § 1083(c)(1)(C)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1923](https://www.govinfo.gov/link/statute/135/1923).)*

@@ -3,9 +3,10 @@ title: "Section 6601 - Forestry rural revitalization"
 usc_title: 7
 usc_section: "6601"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6601"
-generated_at: "2026-03-30T02:53:42.433Z"
+generated_at: "2026-11-23T21:25:28.395Z"
+status: "active"
 ---
 
 # § 6601. Forestry rural revitalization
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:42.433Z"
     - **(B)** to create community-based enterprises through marketing activities and demonstration projects; and
     - **(C)** to establish small-scale business enterprises to make use of biomass and small-diameter materials.
   - **(2)** There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2008 through 2023.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XXIII, § 2371](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 4045](https://www.govinfo.gov/link/statute/104/4045); [Pub. L. 108–148, title II, § 202](https://www.govinfo.gov/link/plaw/108/public/148), Dec. 3, 2003, [117 Stat. 1902](https://www.govinfo.gov/link/statute/117/1902); [Pub. L. 110–234, title VII, § 7511(c)(25)](https://www.govinfo.gov/link/plaw/110/public/234), title VIII, § 8201, May 22, 2008, [122 Stat. 1269](https://www.govinfo.gov/link/statute/122/1269), 1290; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7511(c)(25), title VIII, § 8201, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2031, 2051; [Pub. L. 113–79, title VIII, § 8201](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 914](https://www.govinfo.gov/link/statute/128/914); [Pub. L. 115–334, title VIII, § 8701](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4875](https://www.govinfo.gov/link/statute/132/4875).)*

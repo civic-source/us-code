@@ -3,9 +3,10 @@ title: "Section 622 - Collocation among United States Postal Service properties"
 usc_title: 40
 usc_section: "622"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 622"
-generated_at: "2026-03-30T02:55:43.376Z"
+generated_at: "2026-11-23T21:26:14.832Z"
+status: "active"
 ---
 
 # § 622. Collocation among United States Postal Service properties
@@ -24,3 +25,21 @@ generated_at: "2026-03-30T02:55:43.376Z"
     - **(C)** recommend collocations if appropriate.
 - **(d)** On approval of the recommendations under subsection (c) by the Postmaster General and the applicable agency head, the Federal agency or appropriate landholding entity may work with the Postmaster General to establish appropriate terms of a lease for each postal property.
 - **(e)** Nothing in this section exceeds, modifies, or supplants any other Federal law relating to any competitive bidding process governing the leasing of postal property.
+
+Identification of Postal Property
+
+Voluntary Identification of Postal Property
+
+Submission of List of Postal Properties to Federal Agencies.—
+
+In general
+
+Review by federal agencies
+
+Terms of Collocation
+
+Rule of Construction
+
+## Source Credit
+
+*(Added [Pub. L. 114–318, § 3(a)](https://www.govinfo.gov/link/plaw/114/public/318), Dec. 16, 2016, [130 Stat. 1609](https://www.govinfo.gov/link/statute/130/1609).)*

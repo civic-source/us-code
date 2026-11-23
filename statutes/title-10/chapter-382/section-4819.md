@@ -3,9 +3,10 @@ title: "Section 4819 - Modernization of acquisition processes to ensure integrit
 usc_title: 10
 usc_section: "4819"
 chapter: 382
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4819"
-generated_at: "2026-03-30T02:53:38.211Z"
+generated_at: "2026-11-23T21:25:32.790Z"
+status: "active"
 ---
 
 # § 4819. Modernization of acquisition processes to ensure integrity of industrial base
@@ -91,3 +92,67 @@ generated_at: "2026-03-30T02:53:38.211Z"
       - **(iii)** continuous development and continuous delivery of secure software to implement the activities.
     - **(B)** In connection with the assessments described in this section, the Secretary shall develop capabilities to map supply chains and to assess risks to the supply chain for major end items by business sector, vendor, program, part, and other metrics as determined by the Secretary.
 - **(f)** Nothing in this section shall be construed to limit or modify any other procurement policy, procedure, requirement, or restriction provided by law.
+
+Digitization and Modernization
+
+Objective
+
+Analytical Framework
+
+Roles and Responsibilities
+
+Enabling Data, Tools, and Systems
+
+Rule of Construction
+
+In General
+
+Requirements
+
+Implementation plan
+
+Revision of regulations, directives, guidance, training, and policies
+
+Definitions
+
+Definitions
+
+Beneficial owner; beneficial ownership
+
+Company
+
+Covered contractor or subcontractor
+
+Foreign ownership, control, or influence; foci
+
+Improved Assessment and Mitigation of Risks Related to Foreign Ownership, Control, or Influence.—
+
+In general
+
+Elements
+
+Assessment of foci
+
+Responsibility determination
+
+Contract requirements, administration, and oversight relating to foci.—
+
+Applicability to Contracts and Subcontracts for Commercial Products and Services and Other Forms of Acquisition Agreements.—
+
+Commercial products and services
+
+Research and development and procurement activities
+
+Availability of Resources
+
+Rule of Construction
+
+Availability of Beneficial Ownership Data.—
+
+In general
+
+Limited availability of information
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. A, title VIII, § 845(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1500](https://www.govinfo.gov/link/statute/133/1500), § 2509; renumbered § 4819 and amended [Pub. L. 116–283, div. A, title VIII, § 843(a)](https://www.govinfo.gov/link/plaw/116/public/283), title XVIII, §§ 1867(b), (d)(6), 1883(b)(2), Jan. 1, 2021, [134 Stat. 3765](https://www.govinfo.gov/link/statute/134/3765), 4281, 4282, 4294; [Pub. L. 117–81, div. A, title VIII, § 841](https://www.govinfo.gov/link/plaw/117/public/81), title XVII, § 1701(d)(16), Dec. 27, 2021, [135 Stat. 1839](https://www.govinfo.gov/link/statute/135/1839), 2137.)*

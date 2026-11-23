@@ -3,9 +3,10 @@ title: "Section 284c - Financial assistance for reconstruction of Center"
 usc_title: 16
 usc_section: "284c"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 284c"
-generated_at: "2026-03-30T02:54:22.748Z"
+generated_at: "2026-11-23T21:25:51.407Z"
+status: "active"
 ---
 
 # § 284c. Financial assistance for reconstruction of Center
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:22.748Z"
 - **(d)** The Secretary shall be responsible for overseeing the reconstruction and shall have final approval over the plans for, and location and design of, the Center, and the Foundation shall be responsible for managing the construction activities, including the selection (in accordance with the requirements referred to in paragraphs (1) and (2) of subsection (c)) of persons to perform architectural, engineering, construction, and related services.
 - **(e)** No grants or loans may be made under this section unless the Secretary has received what the Secretary deems to be adequate written assurance from the Administrator of the Federal Aviation Administration that any easement granted to the Commonwealth of Virginia by the Administrator for construction of the Dulles Toll Road will contain noise standards (“A” weighted energy average sound level of 52 to 54 dB) and other standards set forth in the Final Environmental Impact Statement for the Dulles Airport Access Road Outer Parallel Toll Roads, prepared by the Federal Aviation Administration and issued in May of 1982, legally enforceable by the Administrator and by the Secretary which are adequate to protect the Center from undue noise pollution and other environmental degradation attributable to such toll road both during and after its construction, and will also contain legally enforceable assurances that the Commonwealth of Virginia will promptly take measures to achieve the noise levels specified in the easement. Such measures may include a partial or total ban on truck traffic on the toll road or other mitigation recommended by the Secretary and the Administrator.
 - **(f)** The Secretary may also provide support services, as requested by the Foundation, on a reimbursable basis, for purposes of reconstruction of the Center.
+
+## Source Credit
+
+*([Pub. L. 89–671, § 4](https://www.govinfo.gov/link/plaw/89/public/671), as added [Pub. L. 97–310](https://www.govinfo.gov/link/plaw/97/public/310), Oct. 14, 1982, [96 Stat. 1455](https://www.govinfo.gov/link/statute/96/1455); amended [Pub. L. 101–636, § 1](https://www.govinfo.gov/link/plaw/101/public/636), Nov. 28, 1990, [104 Stat. 4586](https://www.govinfo.gov/link/statute/104/4586); [Pub. L. 103–437, § 6(d)(8)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4583](https://www.govinfo.gov/link/statute/108/4583); [Pub. L. 107–219, § 2](https://www.govinfo.gov/link/plaw/107/public/219), Aug. 21, 2002, [116 Stat. 1330](https://www.govinfo.gov/link/statute/116/1330).)*

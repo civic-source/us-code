@@ -3,9 +3,10 @@ title: "Section 2353a - Aging infrastructure"
 usc_title: 33
 usc_section: "2353a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2353a"
-generated_at: "2026-03-30T02:55:41.128Z"
+generated_at: "2026-11-23T21:26:11.456Z"
+status: "active"
 ---
 
 # § 2353a. Aging infrastructure
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:41.128Z"
     - **(B)** the inspection is at the full expense of such owner or operator.
 - **(c)** The Secretary shall not require a non-Federal entity associated with a project under the jurisdiction of another Federal agency to carry out corrective or remedial actions in response to an enhanced inspection carried out under this section.
 - **(d)** The Secretary is authorized to accept funds from an owner or operator of aging infrastructure, and may use such funds to carry out an enhanced inspection pursuant to a contract entered into with such owner or operator under this section.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. AA, title I, § 138](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2651](https://www.govinfo.gov/link/statute/134/2651).)*

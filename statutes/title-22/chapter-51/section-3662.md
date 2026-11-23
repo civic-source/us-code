@@ -3,9 +3,10 @@ title: "Section 3662 - Appeals to Board; procedures"
 usc_title: 22
 usc_section: "3662"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3662"
-generated_at: "2026-03-30T02:55:05.395Z"
+generated_at: "2026-11-23T21:25:58.592Z"
+status: "active"
 ---
 
 # § 3662. Appeals to Board; procedures
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.395Z"
   - **(2)** transmit its decision to the agency concerned; and
   - **(3)** transmit copies of the decision to the employee concerned or to the designated representative.
 - **(d)** The decision of the Board on any question or other matter relating to an appeal is final and conclusive. The agency concerned shall take action in accordance with the decision of the Board.
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1222](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 467](https://www.govinfo.gov/link/statute/93/467); [Pub. L. 105–85, div. C, title XXXV, § 3548](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 2073](https://www.govinfo.gov/link/statute/111/2073).)*

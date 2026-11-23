@@ -3,9 +3,10 @@ title: "Section 1813 - Registration determinations"
 usc_title: 29
 usc_section: "1813"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1813"
-generated_at: "2026-03-30T02:55:18.739Z"
+generated_at: "2026-11-23T21:26:02.308Z"
+status: "active"
 ---
 
 # § 1813. Registration determinations
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:18.739Z"
   - **(1)** The person who is refused the issuance or renewal of a certificate or whose certificate is suspended or revoked under subsection (a) shall be afforded an opportunity for agency hearing, upon request made within thirty days after the date of issuance of the notice of the refusal, suspension, or revocation. In such hearing, all issues shall be determined on the record pursuant to section 554 of title 5 . If no hearing is requested as herein provided, the refusal, suspension, or revocation shall constitute a final and unappealable order.
   - **(2)** If a hearing is requested, the initial agency decision shall be made by an administrative law judge, and such decision shall become the final order unless the Secretary modifies or vacates the decision. Notice of intent to modify or vacate the decision of the administrative law judge shall be issued to the parties within thirty days after the decision of the administrative law judge. A final order which takes effect under this paragraph shall be subject to review only as provided under subsection (c).
 - **(c)** Any person against whom an order has been entered after an agency hearing under this section may obtain review by the United States district court for any district in which he is located or the United States District Court for the District of Columbia by filing a notice of appeal in such court within thirty days from the date of such order, and simultaneously sending a copy of such notice by registered mail to the Secretary. The Secretary shall promptly certify and file in such court the record upon which the order was based. The findings of the Secretary shall be set aside only if found to be unsupported by substantial evidence as provided by section 706(2)(E) of title 5 . Any final decision, order, or judgment of such District Court concerning such review shall be subject to appeal as provided in chapter 83 of title 28.
+
+## Source Credit
+
+*([Pub. L. 97–470, title I, § 103](https://www.govinfo.gov/link/plaw/97/public/470), Jan. 14, 1983, [96 Stat. 2588](https://www.govinfo.gov/link/statute/96/2588); [Pub. L. 99–603, title I, § 101(b)(1)(B)](https://www.govinfo.gov/link/plaw/99/public/603), Nov. 6, 1986, [100 Stat. 3372](https://www.govinfo.gov/link/statute/100/3372).)*

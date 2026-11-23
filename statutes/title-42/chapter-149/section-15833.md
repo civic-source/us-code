@@ -3,9 +3,10 @@ title: "Section 15833 - Energy efficiency pilot program"
 usc_title: 42
 usc_section: "15833"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15833"
-generated_at: "2026-03-30T02:56:11.461Z"
+generated_at: "2026-11-23T21:26:33.676Z"
+status: "active"
 ---
 
 # § 15833. Energy efficiency pilot program
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.461Z"
   - **(2)** for any State that has adopted a statewide program as of August 8, 2005 , activities that reduce energy consumption in the State by expanding and improving the program.
 - **(b)** A State that receives financial assistance under subsection (a)(1) shall submit to the Secretary independent verification of any energy savings achieved through the statewide program.
 - **(c)** There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2006 through 2010, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 109–58, title I, § 140](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 647](https://www.govinfo.gov/link/statute/119/647).)*

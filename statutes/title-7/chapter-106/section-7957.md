@@ -3,9 +3,10 @@ title: "Section 7957 - Marketing assistance loans and loan deficiency payments f
 usc_title: 7
 usc_section: "7957"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7957"
-generated_at: "2026-03-30T02:53:42.468Z"
+generated_at: "2026-11-23T21:25:28.458Z"
+status: "active"
 ---
 
 # § 7957. Marketing assistance loans and loan deficiency payments for peanuts
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:53:42.468Z"
       - **(ii)** The date the producers request the payment.
 - **(f)** As a condition of the receipt of a marketing assistance loan under subsection (a), the producer shall comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 ( 16 U.S.C. 3811 et seq.) and applicable wetland protection requirements under subtitle C of title XII of that Act ( 16 U.S.C. 3821 et seq.) during the term of the loan.
 - **(g)** The Secretary may implement any reimbursable agreements or provide for the payment of administrative expenses under this subchapter only in a manner that is consistent with such activities in regard to other commodities.
+
+## Source Credit
+
+*([Pub. L. 107–171, title I, § 1307](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 175](https://www.govinfo.gov/link/statute/116/175).)*

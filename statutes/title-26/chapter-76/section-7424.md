@@ -3,12 +3,17 @@ title: "Section 7424 - Intervention"
 usc_title: 26
 usc_section: "7424"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7424"
-generated_at: "2026-03-30T02:55:27.870Z"
+generated_at: "2026-11-23T21:26:06.955Z"
+status: "active"
 ---
 
 # § 7424. Intervention
 
 If the United States is not a party to a civil action or suit, the United States may intervene in such action or suit to assert any lien arising under this title on the property which is the subject of such action or suit. The provisions of section 2410 of title 28 of the United States Code (except subsection (b)) and of section 1444 of title 28 of the United States Code shall apply in any case in which the United States intervenes as if the United States had originally been named a defendant in such action or suit. In any case in which the application of the United States to intervene is denied, the adjudication in such civil action or suit shall have no effect upon such lien.
 
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 877; [Pub. L. 89–719, title I, § 108](https://www.govinfo.gov/link/plaw/89/public/719), Nov. 2, 1966, [80 Stat. 1140](https://www.govinfo.gov/link/statute/80/1140).)*

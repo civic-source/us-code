@@ -3,9 +3,10 @@ title: "Section 636h - Disaster planning responsibilities"
 usc_title: 15
 usc_section: "636h"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 636h"
-generated_at: "2026-03-30T02:54:08.092Z"
+generated_at: "2026-11-23T21:25:39.661Z"
+status: "active"
 ---
 
 # § 636h. Disaster planning responsibilities
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:08.092Z"
   - **(1)** a description of the actions of the Administrator to assign an individual the disaster planning function of the Administration;
   - **(2)** information detailing the background and expertise of the individual assigned; and
   - **(3)** information on the status of the implementation of the responsibilities described in subsection (b).
+
+## Source Credit
+
+*([Pub. L. 110–234, title XII, § 12073](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1413](https://www.govinfo.gov/link/statute/122/1413); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XII, § 12073, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2175.)*

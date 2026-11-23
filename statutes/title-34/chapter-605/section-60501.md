@@ -3,9 +3,10 @@ title: "Section 60501 - Purposes; findings"
 usc_title: 34
 usc_section: "60501"
 chapter: 605
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 60501"
-generated_at: "2026-03-30T02:55:33.316Z"
+generated_at: "2026-11-23T21:26:09.860Z"
+status: "active"
 ---
 
 # § 60501. Purposes; findings
@@ -37,3 +38,27 @@ generated_at: "2026-03-30T02:55:33.316Z"
   - **(17)** The percentage of State prisoners participating in educational programs decreased by more than 8 percent between 1991 and 1997, despite growing evidence of how educational programming while incarcerated reduces recidivism.
   - **(18)** The National Institute of Justice has found that 1 year after release, up to 60 percent of former inmates are not employed.
   - **(19)** Transitional jobs programs have proven to help people with criminal records to successfully return to the workplace and to the community, and therefore can reduce recidivism.
+
+Evaluation of the Second Chance Act Grant Program
+
+Authorization of Funds for Evaluation
+
+Techniques
+
+Metrics and Outcomes for Evaluation.—
+
+In general
+
+Publication
+
+Data Collection
+
+Data Accessibility
+
+Publication and Reporting of Evaluation Findings
+
+Second Chance Act Grant Program Defined
+
+## Source Credit
+
+*([Pub. L. 110–199, § 3](https://www.govinfo.gov/link/plaw/110/public/199), Apr. 9, 2008, [122 Stat. 658](https://www.govinfo.gov/link/statute/122/658).)*

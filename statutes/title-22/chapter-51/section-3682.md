@@ -3,9 +3,10 @@ title: "Section 3682 - Administration of certain disability benefits"
 usc_title: 22
 usc_section: "3682"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3682"
-generated_at: "2026-03-30T02:55:05.396Z"
+generated_at: "2026-11-23T21:25:58.593Z"
+status: "active"
 ---
 
 # § 3682. Administration of certain disability benefits
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.396Z"
   - **(2)** a woman who, although not legally married to such former employee at the time of his termination, had resided continuously with him for at least five years immediately preceding the employee’s termination under such circumstances as would at common law make the relationship a valid marriage and who continued to reside with him until his death; and
   - **(3)** a woman who has not remarried or assumed a common-law relationship with any other person.
 - **(e)** Subchapter III of chapter 83 of title 5 applies with respect to those individuals who were in the service of the Canal Zone Government or the Panama Canal Company on October 5, 1958 , and who, except for the operation of section 13(a)(1) of the Act entitled “An Act to implement item 1 of a Memorandum of Understanding attached to the treaty of January 25, 1955 , entered into by the Government of the United States of America and the Government of the Republic of Panama with respect to wage and employment practices of the Government of the United States of America in the Canal Zone”, approved July 25, 1958 ( 72 Stat. 405 ), would have been within the classes of individuals subject to the Act of July 8, 1937 , referred to in subsection (a) of this section.
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1245](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 475](https://www.govinfo.gov/link/statute/93/475); [Pub. L. 104–201, div. C, title XXXV](https://www.govinfo.gov/link/plaw/104/public/201), §§ 3538, 3548(c)(2), Sept. 23, 1996, [110 Stat. 2864](https://www.govinfo.gov/link/statute/110/2864), 2869.)*

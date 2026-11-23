@@ -3,9 +3,10 @@ title: "Section 1821 - Per diem and mileage generally; subsistence"
 usc_title: 28
 usc_section: "1821"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1821"
-generated_at: "2026-03-30T02:55:30.144Z"
+generated_at: "2026-11-23T21:26:01.105Z"
+status: "active"
 ---
 
 # § 1821. Per diem and mileage generally; subsistence
@@ -26,3 +27,11 @@ generated_at: "2026-03-30T02:55:30.144Z"
   - **(4)** When a witness is detained pursuant to section 3144 of title 18 for want of security for his appearance, he shall be entitled for each day of detention when not in attendance at court, in addition to his subsistence, to the daily attendance fee provided by subsection (b) of this section.
 - **(e)** An alien who has been paroled into the United States for prosecution, pursuant to section 212(d)(5) of the Immigration and Nationality Act ( 8 U.S.C. 1182(d)(5) ), or an alien who either has admitted belonging to a class of aliens who are deportable or has been determined pursuant to section 240 of such Act ( 8 U.S.C. 1252(b) ) 1 to be deportable, shall be ineligible to receive the fees or allowances provided by this section.
 - **(f)** Any witness who is incarcerated at the time that his or her testimony is given (except for a witness to whom the provisions of section 3144 of title 18 apply) may not receive fees or allowances under this section, regardless of whether such a witness is incarcerated at the time he or she makes a claim for fees or allowances under this section.
+
+Act
+
+Act
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 950](https://www.govinfo.gov/link/statute/62/950); May 10, 1949, ch. 96, [63 Stat. 65](https://www.govinfo.gov/link/statute/63/65); May 24, 1949, ch. 139, § 94, [63 Stat. 103](https://www.govinfo.gov/link/statute/63/103); Oct. 31, 1951, ch. 655, § 51(a), [65 Stat. 727](https://www.govinfo.gov/link/statute/65/727); Sept. 3, 1954, ch. 1263, § 45, [68 Stat. 1242](https://www.govinfo.gov/link/statute/68/1242); Aug. 1, 1956, ch. 826, [70 Stat. 798](https://www.govinfo.gov/link/statute/70/798); [Pub. L. 90–274, § 102(b)](https://www.govinfo.gov/link/plaw/90/public/274), Mar. 27, 1968, [82 Stat. 62](https://www.govinfo.gov/link/statute/82/62); [Pub. L. 95–535, § 1](https://www.govinfo.gov/link/plaw/95/public/535), Oct. 27, 1978, [92 Stat. 2033](https://www.govinfo.gov/link/statute/92/2033); [Pub. L. 101–650, title III](https://www.govinfo.gov/link/plaw/101/public/650), §§ 314(a), 321, Dec. 1, 1990, [104 Stat. 5115](https://www.govinfo.gov/link/statute/104/5115), 5117; [Pub. L. 102–417, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/417) –(c), Oct. 14, 1992, [106 Stat. 2138](https://www.govinfo.gov/link/statute/106/2138); [Pub. L. 104–208, div. C, title III, § 308(g)(5)(E)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–623](https://www.govinfo.gov/link/statute/110/3009).)*

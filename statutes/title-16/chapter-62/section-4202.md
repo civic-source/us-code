@@ -3,9 +3,10 @@ title: "Section 4202 - Findings"
 usc_title: 16
 usc_section: "4202"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4202"
-generated_at: "2026-03-30T02:54:23.041Z"
+generated_at: "2026-11-23T21:25:52.011Z"
+status: "active"
 ---
 
 # § 4202. Findings
@@ -21,3 +22,7 @@ The Congress finds the following:
   - **(7)** Although some African countries have effective African elephant conservation programs, many do not have sufficient resources to properly manage, conserve, and protect their elephant populations.
   - **(8)** The United States, as a party to CITES and a large market for worked ivory, shares responsibility for supporting and implementing measures to stop the illegal trade in African elephant ivory and to provide for the conservation of the African elephant.
   - **(9)** There is no evidence that sport hunting is part of the poaching that contributes to the illegal trade in African elephant ivory, and there is evidence that the proper utilization of well-managed elephant populations provides an important source of funding for African elephant conservation programs.
+
+## Source Credit
+
+*([Pub. L. 100–478, title II, § 2003](https://www.govinfo.gov/link/plaw/100/public/478), Oct. 7, 1988, [102 Stat. 2315](https://www.govinfo.gov/link/statute/102/2315).)*

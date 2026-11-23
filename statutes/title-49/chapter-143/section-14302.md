@@ -3,9 +3,10 @@ title: "Section 14302 - Pooling and division of transportation or earnings"
 usc_title: 49
 usc_section: "14302"
 chapter: 143
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 14302"
-generated_at: "2026-03-30T02:56:19.331Z"
+generated_at: "2026-11-23T21:26:40.689Z"
+status: "active"
 ---
 
 # § 14302. Pooling and division of transportation or earnings
@@ -27,3 +28,37 @@ generated_at: "2026-03-30T02:56:19.331Z"
 - **(h)** In this section, the following definitions apply:
   - **(1)** The term “household goods” has the meaning such term had under section 10102(11) of this title , as in effect on December 31, 1995 .
   - **(2)** The term “transportation” means transportation that would be subject to the jurisdiction of the Interstate Commerce Commission under subchapter II of chapter 105 of this title, as in effect on December 31, 1995 , if such subchapter were still in effect.
+
+Approval Required
+
+Standards for Approval
+
+Procedure.—
+
+Application
+
+Determination of importance and restraint on competition
+
+Hearing
+
+Special rules for household goods carriers
+
+Streamlining and simplifying
+
+Conditions
+
+Initiation of Proceeding
+
+Effect of Approval
+
+Continuation of Existing Agreements
+
+Definitions
+
+Household goods
+
+Transportation
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 895](https://www.govinfo.gov/link/statute/109/895); amended [Pub. L. 104–287, § 5(37)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3392](https://www.govinfo.gov/link/statute/110/3392).)*

@@ -3,9 +3,10 @@ title: "Section 3706 - Notice of default and foreclosure sale; condition and ter
 usc_title: 12
 usc_section: "3706"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3706"
-generated_at: "2026-03-30T02:53:53.496Z"
+generated_at: "2026-11-23T21:25:37.146Z"
+status: "active"
 ---
 
 # § 3706. Notice of default and foreclosure sale; condition and term of sale
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:53.496Z"
   - **(2)**
     - **(A)** In any case where the majority of the residential units in a property subject to such a sale are occupied by residential tenants at the time of the sale, the Secretary shall require, as a condition and term of sale, any purchaser (other than the Secretary) to operate the property in accordance with such terms, as appropriate, of the programs referred to in paragraph (1).
     - **(B)** In any case where the Secretary is the purchaser of a multifamily project, the Secretary shall manage and dispose of such project in accordance with the provisions of section 203 of the Housing and Community Development Amendments of 1978 [ 12 U.S.C. 1701z–11 ].
+
+## Source Credit
+
+*([Pub. L. 97–35, title III, § 367](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 424](https://www.govinfo.gov/link/statute/95/424); [Pub. L. 102–550, title V, § 517(d)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3792](https://www.govinfo.gov/link/statute/106/3792).)*

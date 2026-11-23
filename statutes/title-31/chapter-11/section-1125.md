@@ -3,9 +3,10 @@ title: "Section 1125 - Elimination of unnecessary agency reporting"
 usc_title: 31
 usc_section: "1125"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 1125"
-generated_at: "2026-03-30T02:55:34.050Z"
+generated_at: "2026-11-23T21:26:10.544Z"
+status: "active"
 ---
 
 # § 1125. Elimination of unnecessary agency reporting
@@ -45,3 +46,37 @@ generated_at: "2026-03-30T02:55:34.050Z"
   - **(4)** With respect to an agency recommendation, citation, or justification made under subparagraph (B) or (C) of paragraph (1) or a recommendation by the Director of the Office of Management and Budget under paragraph (3), the agency or Director, as applicable, shall also provide this information to the Director of the Government Publishing Office in conformity with the agency submission requirements under section 7244(a) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 ( Public Law 117–263 ; chapter 41 of title 44 note) in conformity with guidance issued by the Director of the Office of Management and Budget under section 7244(b) of such Act.
 - **(c)** Nothing in this section shall be construed to exempt the head of an agency from a requirement to submit a recurring plan or report.
 - **(d)** In addition to including the list of plans and reports determined to be outdated or duplicative by each agency in the budget justification materials of each agency, the Director of the Office of Management and Budget may concurrently submit to Congress legislation to eliminate or consolidate such plans and reports.
+
+Definitions
+
+Budget justification materials
+
+Plan or report
+
+Recurring plan or report
+
+Relevant congressional committee
+
+Agency Identification of Unnecessary Reports.—
+
+In general
+
+Agency consultation.—
+
+In general
+
+Inclusion in list
+
+Disagreement
+
+Government-wide or multi-agency plan and report submissions
+
+Plan and report submissions conformity to the access to congressionally mandated reports act
+
+Rule of Construction on Agency Requirements
+
+Request for Elimination of Unnecessary Reports
+
+## Source Credit
+
+*(Added [Pub. L. 111–352, § 11(b)](https://www.govinfo.gov/link/plaw/111/public/352), Jan. 4, 2011, [124 Stat. 3881](https://www.govinfo.gov/link/statute/124/3881); amended [Pub. L. 118–172, § 2(a)](https://www.govinfo.gov/link/plaw/118/public/172), Dec. 23, 2024, [138 Stat. 2593](https://www.govinfo.gov/link/statute/138/2593).)*

@@ -3,9 +3,10 @@ title: "Section 3607 - Religious organization or private club exemption"
 usc_title: 42
 usc_section: "3607"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3607"
-generated_at: "2026-03-30T02:56:11.190Z"
+generated_at: "2026-11-23T21:26:32.583Z"
+status: "active"
 ---
 
 # § 3607. Religious organization or private club exemption
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.190Z"
     - **(B)** For the purposes of this paragraph, a person may only show good faith reliance on the application of the exemption by showing that—
       - **(i)** such person has no actual knowledge that the facility or community is not, or will not be, eligible for such exemption; and
       - **(ii)** the facility or community has stated formally, in writing, that the facility or community complies with the requirements for such exemption.
+
+## Source Credit
+
+*([Pub. L. 90–284, title VIII, § 807](https://www.govinfo.gov/link/plaw/90/public/284), Apr. 11, 1968, [82 Stat. 84](https://www.govinfo.gov/link/statute/82/84); [Pub. L. 100–430, § 6(d)](https://www.govinfo.gov/link/plaw/100/public/430), Sept. 13, 1988, [102 Stat. 1622](https://www.govinfo.gov/link/statute/102/1622); [Pub. L. 104–76](https://www.govinfo.gov/link/plaw/104/public/76), §§ 2, 3, Dec. 28, 1995, [109 Stat. 787](https://www.govinfo.gov/link/statute/109/787).)*

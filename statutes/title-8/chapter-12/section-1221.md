@@ -3,9 +3,10 @@ title: "Section 1221 - Lists of alien and citizen passengers arriving and depart
 usc_title: 8
 usc_section: "1221"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1221"
-generated_at: "2026-03-30T02:53:10.485Z"
+generated_at: "2026-11-23T21:25:25.150Z"
+status: "active"
 ---
 
 # § 1221. Lists of alien and citizen passengers arriving and departing
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:10.485Z"
 - **(h)** The Attorney General may waive the requirements of subsection (a) or (b) upon such circumstances and conditions as the Attorney General may by regulation prescribe.
 - **(i)** In this section, the term “United States border officer” means, with respect to a particular port of entry into the United States, any United States official who is performing duties at that port of entry.
 - **(j)** The Attorney General may authorize immigration officers to record the following information regarding every resident person leaving the United States by way of the Canadian or Mexican borders for permanent residence in a foreign country: Names, age, and sex; whether married or single; calling or occupation; whether able to read or write; nationality; country of birth; country of which citizen or subject; race; last permanent residence in the United States; intended future permanent residence; and time and port of last arrival in the United States; and if a United States citizen or national, the facts on which claim to that status is based.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 4, § 231, [66 Stat. 195](https://www.govinfo.gov/link/statute/66/195); [Pub. L. 97–116, § 18(g)](https://www.govinfo.gov/link/plaw/97/public/116), Dec. 29, 1981, [95 Stat. 1620](https://www.govinfo.gov/link/statute/95/1620); [Pub. L. 101–649, title V, § 543(a)(1)](https://www.govinfo.gov/link/plaw/101/public/649), Nov. 29, 1990, [104 Stat. 5057](https://www.govinfo.gov/link/statute/104/5057); [Pub. L. 102–232, title III, § 306(c)(4)(A)](https://www.govinfo.gov/link/plaw/102/public/232), Dec. 12, 1991, [105 Stat. 1752](https://www.govinfo.gov/link/statute/105/1752); [Pub. L. 104–208, div. C, title III, § 308(g)(1)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–622](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 107–77, title I, § 115](https://www.govinfo.gov/link/plaw/107/public/77), Nov. 28, 2001, [115 Stat. 768](https://www.govinfo.gov/link/statute/115/768); [Pub. L. 107–173, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/107/public/173), May 14, 2002, [116 Stat. 557](https://www.govinfo.gov/link/statute/116/557).)*

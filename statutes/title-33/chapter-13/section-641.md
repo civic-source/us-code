@@ -3,12 +3,17 @@ title: "Section 641 - Creation of Mississippi River Commission"
 usc_title: 33
 usc_section: "641"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 641"
-generated_at: "2026-03-30T02:55:41.066Z"
+generated_at: "2026-11-23T21:26:11.324Z"
+status: "active"
 ---
 
 # § 641. Creation of Mississippi River Commission
 
 A commission is created to be called “The Mississippi River Commission”, to consist of seven members.
 
+
+## Source Credit
+
+*(June 28, 1879, ch. 43, § 1, [21 Stat. 37](https://www.govinfo.gov/link/statute/21/37).)*

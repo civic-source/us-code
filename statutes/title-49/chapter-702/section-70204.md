@@ -3,9 +3,10 @@ title: "Section 70204 - Multi-State freight corridor planning"
 usc_title: 49
 usc_section: "70204"
 chapter: 702
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 70204"
-generated_at: "2026-03-30T02:56:19.417Z"
+generated_at: "2026-11-23T21:26:41.038Z"
+status: "active"
 ---
 
 # § 70204. Multi-State freight corridor planning
@@ -65,3 +66,41 @@ generated_at: "2026-03-30T02:56:19.417Z"
       - **(ii)** provide a non-Federal match of not less than 50 percent of the operating costs of the compact; and
       - **(iii)** demonstrate that the compact has established a multi-State freight corridor advisory committee under subsection (c)(1).
   - **(4)** There is authorized to be appropriated to the Secretary $5,000,000 for each fiscal year to carry out this subsection.
+
+Consent to Multi-State Freight Mobility Compacts
+
+Financing
+
+Advisory Committees.—
+
+In general
+
+Activities
+
+Grants.—
+
+Establishment
+
+New compacts.—
+
+In general
+
+Eligibility.—
+
+New multi-state freight compacts
+
+States seeking to form a compact
+
+Requirements
+
+Existing compacts.—
+
+In general
+
+Requirements
+
+Authorization of appropriations
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. B, title I, § 21106(a)(2)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 659](https://www.govinfo.gov/link/statute/135/659).)*

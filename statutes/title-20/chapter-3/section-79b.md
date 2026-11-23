@@ -3,9 +3,10 @@ title: "Section 79b - Functions of Smithsonian Institution"
 usc_title: 20
 usc_section: "79b"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 79b"
-generated_at: "2026-03-30T02:54:48.075Z"
+generated_at: "2026-11-23T21:25:46.928Z"
+status: "active"
 ---
 
 # § 79b. Functions of Smithsonian Institution
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:48.075Z"
 - **(e)** make such disposal of any moneys donated, subscribed, collected, or otherwise provided as in its judgment is to the best interest in carrying out the purpose of this subchapter: Provided , That sums contributed or appropriated for specific purposes shall be used for such purpose only; and
 - **(f)** include in its annual report of its operations to Congress a statement of activities and operations during the preceding year.
 
+
+## Source Credit
+
+*(July 2, 1940, ch. 516, § 4, [54 Stat. 724](https://www.govinfo.gov/link/statute/54/724); 1946 Reorg. Plan No. 3, § 801, eff. July 16, 1946, 11 F.R. 7877, [60 Stat. 1101](https://www.govinfo.gov/link/statute/60/1101); [Pub. L. 89–280, § 2](https://www.govinfo.gov/link/plaw/89/public/280), Oct. 20, 1965, [79 Stat. 1012](https://www.govinfo.gov/link/statute/79/1012).)*

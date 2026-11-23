@@ -3,9 +3,10 @@ title: "Section 2907 - Reporting"
 usc_title: 33
 usc_section: "2907"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2907"
-generated_at: "2026-03-30T02:55:41.135Z"
+generated_at: "2026-11-23T21:26:11.474Z"
+status: "active"
 ---
 
 # § 2907. Reporting
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:41.135Z"
   - **(4)** a review of how the information described in paragraphs (1) through (3) has been incorporated in the selection and implementation of estuary habitat restoration projects;
   - **(5)** a review of efforts made to maintain an appropriate database of restoration projects carried out under this chapter; and
   - **(6)** a review of the measures taken to provide the information described in paragraphs (1) through (3) to persons with responsibility for assisting in the restoration of estuary habitat.
+
+## Source Credit
+
+*([Pub. L. 106–457, title I, § 108](https://www.govinfo.gov/link/plaw/106/public/457), Nov. 7, 2000, [114 Stat. 1965](https://www.govinfo.gov/link/statute/114/1965); [Pub. L. 110–114, title V, § 5017(f)](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1198](https://www.govinfo.gov/link/statute/121/1198).)*

@@ -3,9 +3,10 @@ title: "Section 5506 - Environmental internships and fellowships"
 usc_title: 20
 usc_section: "5506"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 5506"
-generated_at: "2026-03-30T02:54:48.187Z"
+generated_at: "2026-11-23T21:25:47.465Z"
+status: "active"
 ---
 
 # § 5506. Environmental internships and fellowships
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:48.187Z"
   - **(2)** Individuals eligible for participation in the fellowship program are in-service teachers who are currently employed by a local education agency and have not less than 2 years experience in teaching environmental education, environmental sciences, or related courses.
 - **(g)** Individuals shall be selected for internships and fellowships based on applications which shall be in such form as the Administrator considers appropriate.
 - **(h)** In selecting individuals for internships and fellowships, the Administrator shall provide for wide geographic, cultural, and minority representation.
+
+## Source Credit
+
+*([Pub. L. 101–619, § 7](https://www.govinfo.gov/link/plaw/101/public/619), Nov. 16, 1990, [104 Stat. 3331](https://www.govinfo.gov/link/statute/104/3331).)*

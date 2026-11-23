@@ -3,12 +3,17 @@ title: "Section 3701 - Advertisements for contracts in District of Columbia"
 usc_title: 44
 usc_section: "3701"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 3701"
-generated_at: "2026-03-30T02:55:56.299Z"
+generated_at: "2026-11-23T21:26:18.445Z"
+status: "active"
 ---
 
 # § 3701. Advertisements for contracts in District of Columbia
 
 Advertisements for contracts for the public service may not be published in any newspaper published and printed in the District of Columbia unless the supplies or labor covered by the advertisement are to be furnished or performed in the District of Columbia or in the adjoining counties of Maryland or Virginia.
 
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1305](https://www.govinfo.gov/link/statute/82/1305).)*

@@ -3,9 +3,10 @@ title: "Section 350e - Sanitary transportation practices"
 usc_title: 21
 usc_section: "350e"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 350e"
-generated_at: "2026-03-30T02:54:54.227Z"
+generated_at: "2026-11-23T21:25:56.004Z"
+status: "active"
 ---
 
 # § 350e. Sanitary transportation practices
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:54.227Z"
     - **(B)** the requirement of the State or political subdivision as applied or enforced is an obstacle to accomplishing and carrying out this section or a regulation prescribed under this section.
   - **(2)** This subsection applies to transportation that occurs on or after the effective date of the regulations promulgated under subsection (b).
 - **(f)** The Secretary of Transportation, the Secretary of Agriculture, the Administrator of the Environmental Protection Agency, and the heads of other Federal agencies, as appropriate, shall provide assistance on request, to the extent resources are available, to the Secretary for the purposes of carrying out this section.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 416, as added [Pub. L. 109–59, title VII, § 7202(b)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1911](https://www.govinfo.gov/link/statute/119/1911).)*

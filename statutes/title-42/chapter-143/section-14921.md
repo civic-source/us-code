@@ -3,9 +3,10 @@ title: "Section 14921 - Accreditation or approval required in order to provide a
 usc_title: 42
 usc_section: "14921"
 chapter: 143
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 14921"
-generated_at: "2026-03-30T02:56:11.453Z"
+generated_at: "2026-11-23T21:26:33.644Z"
+status: "active"
 ---
 
 # § 14921. Accreditation or approval required in order to provide adoption services in cases subject to the Convention
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.453Z"
   - **(2)** The provision of a child welfare service by a person who is not providing any other adoption service in the case.
   - **(3)** The provision of legal services by a person who is not providing any adoption service in the case.
   - **(4)** The conduct of a prospective adoptive parent on his or her own behalf in the case, to the extent not prohibited by the law of the State in which the prospective adoptive parent resides.
+
+## Source Credit
+
+*([Pub. L. 106–279, title II, § 201](https://www.govinfo.gov/link/plaw/106/public/279), Oct. 6, 2000, [114 Stat. 830](https://www.govinfo.gov/link/statute/114/830).)*

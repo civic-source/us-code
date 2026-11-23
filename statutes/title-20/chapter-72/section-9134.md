@@ -3,9 +3,10 @@ title: "Section 9134 - State plans"
 usc_title: 20
 usc_section: "9134"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9134"
-generated_at: "2026-03-30T02:54:48.224Z"
+generated_at: "2026-11-23T21:25:47.646Z"
+status: "active"
 ---
 
 # § 9134. State plans
@@ -82,3 +83,11 @@ generated_at: "2026-03-30T02:54:48.224Z"
     - **(C)** The term “minor” means an individual who has not attained the age of 17.
     - **(D)** The term “obscene” has the meaning applicable to such term in section 1460 of title 18 .
     - **(E)** The terms “sexual act” and “sexual contact” have the meanings given such terms in section 2246 of title 18 .
+
+In general
+
+Technology protection measure defined
+
+## Source Credit
+
+*([Pub. L. 94–462, title II, § 224](https://www.govinfo.gov/link/plaw/94/public/462), as added [Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–233](https://www.govinfo.gov/link/statute/110/3009), 3009–300; amended [Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, § 1712(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–340; [Pub. L. 108–81, title II, § 205](https://www.govinfo.gov/link/plaw/108/public/81), title V, § 504(f), Sept. 25, 2003, [117 Stat. 999](https://www.govinfo.gov/link/statute/117/999), 1004; [Pub. L. 111–340, title II, § 204](https://www.govinfo.gov/link/plaw/111/public/340), Dec. 22, 2010, [124 Stat. 3600](https://www.govinfo.gov/link/statute/124/3600); [Pub. L. 113–128, title V, § 512(t)(2)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1712](https://www.govinfo.gov/link/statute/128/1712); [Pub. L. 114–95, title IX, § 9215(aaa)(2)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2184](https://www.govinfo.gov/link/statute/129/2184); [Pub. L. 115–410, § 11](https://www.govinfo.gov/link/plaw/115/public/410), Dec. 31, 2018, [132 Stat. 5417](https://www.govinfo.gov/link/statute/132/5417).)*

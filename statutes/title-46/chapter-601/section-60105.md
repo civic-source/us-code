@@ -3,9 +3,10 @@ title: "Section 60105 - Clearance of vessels"
 usc_title: 46
 usc_section: "60105"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 60105"
-generated_at: "2026-03-30T02:56:15.582Z"
+generated_at: "2026-11-23T21:26:37.334Z"
+status: "active"
 ---
 
 # § 60105. Clearance of vessels
@@ -22,3 +23,46 @@ generated_at: "2026-03-30T02:56:15.582Z"
   - **(1)** prescribe the manner in which clearance under this section is to be obtained, including the documents, data, or information which shall be submitted or transmitted, pursuant to an authorized data interchange system, to obtain the clearance;
   - **(2)** permit clearance to be obtained before all requirements for clearance are complied with, but only if the owner or operator of the vessel files a bond in an amount set by the Secretary conditioned on the compliance by the owner or operator with all specified requirements for clearance within a time period (not exceeding 4 business days) established by the Secretary; and
   - **(3)** permit clearance to be obtained at a place other than a designated port of entry, under conditions the Secretary may prescribe.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60105 | 46 App.:91. | R.S. § 4197; Aug. 5, 1935, ch. 438 , title II, § 209, 49 Stat. 526 ; June 16, 1938, ch. 476, § 1 , 52 Stat. 758 ; Sept. 1, 1954, ch. 1213 , title V, § 501(a), 68 Stat. 1140 ; Pub. L. 103–182, title VI, § 686(b) , Dec. 8, 1993 , 107 Stat. 2221 ; Pub. L. 106–476, title I, § 1452(a)(3) , Nov. 9, 2000 , 114 Stat. 2167 . |
+
+
+Vessels of the United States
+
+Other Vessels
+
+Regulations
+
+Historical and Revision Notes
+
+60105
+
+Aug. 5, 1935, ch. 438
+
+49 Stat. 526
+
+June 16, 1938, ch. 476, § 1
+
+52 Stat. 758
+
+Sept. 1, 1954, ch. 1213
+
+68 Stat. 1140
+
+Pub. L. 103–182, title VI, § 686(b)
+
+Dec. 8, 1993
+
+107 Stat. 2221
+
+Pub. L. 106–476, title I, § 1452(a)(3)
+
+Nov. 9, 2000
+
+114 Stat. 2167
+
+## Source Credit
+
+*([Pub. L. 109–304, § 9(b)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1675](https://www.govinfo.gov/link/statute/120/1675).)*

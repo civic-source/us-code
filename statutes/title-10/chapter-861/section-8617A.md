@@ -3,9 +3,10 @@ title: "Section 8617A - United States Navy Museum System"
 usc_title: 10
 usc_section: "8617A"
 chapter: 861
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 8617A"
-generated_at: "2026-03-30T02:53:38.246Z"
+generated_at: "2026-11-23T21:25:32.933Z"
+status: "active"
 ---
 
 # § 8617A. United States Navy Museum System
@@ -35,3 +36,15 @@ generated_at: "2026-03-30T02:53:38.246Z"
     - **(D)** an analysis of the cost to transport, consolidate, and preserve the historical collections contained in the museum; and
   - **(2)** a period of 90 days has elapsed after the date on which such notice is received by such committees.
 - **(d)** Consistent with applicable law, the Secretary of the Navy may enter into partnerships, including with nonprofit organizations, to enhance the financial sustainability and public engagement of the museums in the United States Museum System.
+
+In General
+
+Criteria for Designation
+
+Criteria for Closure
+
+Funding and Support
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title III, § 375](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 839](https://www.govinfo.gov/link/statute/139/839).)*

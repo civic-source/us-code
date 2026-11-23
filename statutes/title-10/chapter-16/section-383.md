@@ -3,9 +3,10 @@ title: "Section 383 - Assessment, monitoring, and evaluation of programs and act
 usc_title: 10
 usc_section: "383"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 383"
-generated_at: "2026-03-30T02:53:38.054Z"
+generated_at: "2026-11-23T21:25:32.258Z"
+status: "active"
 ---
 
 # § 383. Assessment, monitoring, and evaluation of programs and activities
@@ -27,3 +28,27 @@ generated_at: "2026-03-30T02:53:38.054Z"
     - **(A)** A description of the activities under the program.
     - **(B)** An evaluation of the lessons learned, including a description of challenges in executing the program, and best practices identified through activities under the program.
   - **(2)** The Secretary shall make available to the public, on an Internet website of the Department of Defense available to the public, a summary of each evaluation conducted pursuant to subsection (b)(1)(C). In making a summary so available, the Secretary may redact or omit any information that the Secretary determines should not be disclosed to the public in order to protect the interest of the United States or the foreign country or countries covered by such evaluation.
+
+Program Required
+
+Program Elements and Requirements.—
+
+Elements
+
+Best practices
+
+Availability of Funds.—
+
+In general
+
+Budget justification
+
+Reports.—
+
+Reports to congress
+
+Information for the public on evaluations
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title XII, § 1241(m)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2510](https://www.govinfo.gov/link/statute/130/2510); amended [Pub. L. 115–232, div. A, title XII, § 1211(c)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2024](https://www.govinfo.gov/link/statute/132/2024); [Pub. L. 118–159, div. A, title XII, § 1203](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2094](https://www.govinfo.gov/link/statute/138/2094).)*

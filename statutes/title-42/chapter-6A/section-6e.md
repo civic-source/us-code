@@ -3,9 +3,10 @@ title: "Section 6e - Covered countermeasure process"
 usc_title: 42
 usc_section: "6e"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6e"
-generated_at: "2026-03-30T02:56:10.705Z"
+generated_at: "2026-11-23T21:26:30.315Z"
+status: "active"
 ---
 
 # § 247d–6e. Covered countermeasure process
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:10.705Z"
   - **(3)** The term “covered injury” means serious physical injury or death.
   - **(4)** The term “declaration” means a declaration under section 247d–6d(b) of this title .
   - **(5)** The term “eligible individual” means an individual who is determined, in accordance with subsection (b), to be a covered individual who sustains a covered injury.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 319F–4, as added [Pub. L. 109–148, div. C, § 3](https://www.govinfo.gov/link/plaw/109/public/148), Dec. 30, 2005, [119 Stat. 2829](https://www.govinfo.gov/link/statute/119/2829).)*

@@ -3,9 +3,10 @@ title: "Section 413 - Use of counternarcotics enforcement activities in certain 
 usc_title: 6
 usc_section: "413"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 413"
-generated_at: "2026-03-30T02:53:09.463Z"
+generated_at: "2026-11-23T21:25:25.789Z"
+status: "active"
 ---
 
 # § 413. Use of counternarcotics enforcement activities in certain employee performance appraisals
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:09.463Z"
       - **(i)** the counternarcotics officer, appointed under section 458 of this title ; or
       - **(ii)** if applicable, the counternarcotics officer’s successor in function (as determined by the Secretary); and
   - **(2)** the term “performance appraisal system” means a system under which periodic appraisals of job performance of employees are made, whether under chapter 43 of title 5, or otherwise.
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 843](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 108–458, title VII, § 7408(a)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3854](https://www.govinfo.gov/link/statute/118/3854).)*

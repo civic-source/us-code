@@ -3,9 +3,10 @@ title: "Section 1120 - Federal Government and agency priority goals"
 usc_title: 31
 usc_section: "1120"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 1120"
-generated_at: "2026-03-30T02:55:34.049Z"
+generated_at: "2026-11-23T21:26:10.542Z"
+status: "active"
 ---
 
 # § 1120. Federal Government and agency priority goals
@@ -44,3 +45,11 @@ generated_at: "2026-03-30T02:55:34.049Z"
     - **(E)** have clearly defined quarterly milestones.
   - **(2)** If an agency priority goal includes any program activity or information that is specifically authorized under criteria established by an Executive order to be kept secret in the interest of national defense or foreign policy and is properly classified pursuant to such Executive order, the head of the agency shall make such information available in the classified appendix provided under section 1115(e).
 - **(c)** The functions and activities of this section shall be considered to be inherently governmental functions. The development of Federal Government and agency priority goals shall be performed only by Federal employees.
+
+Federal Government Priority Goals.—
+
+Agency Priority Goals.—
+
+## Source Credit
+
+*(Added [Pub. L. 111–352, § 5](https://www.govinfo.gov/link/plaw/111/public/352), Jan. 4, 2011, [124 Stat. 3873](https://www.govinfo.gov/link/statute/124/3873); amended [Pub. L. 116–283, div. H, title XCVI, § 9601(c)(2)(C)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4828](https://www.govinfo.gov/link/statute/134/4828); [Pub. L. 118–190, § 4](https://www.govinfo.gov/link/plaw/118/public/190), Dec. 23, 2024, [138 Stat. 2655](https://www.govinfo.gov/link/statute/138/2655).)*

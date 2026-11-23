@@ -3,9 +3,10 @@ title: "Section 2259 - Mandatory restitution"
 usc_title: 18
 usc_section: "2259"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2259"
-generated_at: "2026-03-30T02:54:16.499Z"
+generated_at: "2026-11-23T21:25:44.129Z"
+status: "active"
 ---
 
 # § 2259. Mandatory restitution
@@ -52,3 +53,69 @@ generated_at: "2026-03-30T02:54:16.499Z"
   - **(4)**
     - **(A)** An attorney representing a victim seeking defined monetary assistance under this subsection may not charge, receive, or collect, and the court may not approve, any payment of fees and costs that in the aggregate exceeds 15 percent of any payment made under this subsection.
     - **(B)** An attorney who violates subparagraph (A) shall be fined under this title, imprisoned not more than 1 year, or both.
+
+In General
+
+Scope and Nature of Order.—
+
+Directions
+
+Restitution for trafficking in child pornography
+
+Determining the full amount of a victim’s losses
+
+Determining a restitution amount
+
+Termination of payment
+
+Enforcement
+
+Order mandatory
+
+Definitions.—
+
+Child pornography production
+
+Full amount of the victim’s losses
+
+Trafficking in child pornography
+
+Victim
+
+Defined Monetary Assistance.—
+
+Defined monetary assistance made available at victim’s election.—
+
+Election to receive defined monetary assistance
+
+Finding
+
+Order
+
+Amount of defined monetary assistance
+
+Limitations on defined monetary assistance.—
+
+In general
+
+Effect on recovery of other restitution
+
+Deduction
+
+Limitations on eligibility
+
+Attorney fees.—
+
+In general
+
+Penalty
+
+Modification of Order
+
+Reference to Magistrate or Special Master
+
+“Congress finds the following:
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title IV, § 40113(b)(1)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1907](https://www.govinfo.gov/link/statute/108/1907); amended [Pub. L. 104–132, title II, § 205(c)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1231](https://www.govinfo.gov/link/statute/110/1231); [Pub. L. 115–299](https://www.govinfo.gov/link/plaw/115/public/299), §§ 3(a), (b), 4, Dec. 7, 2018, [132 Stat. 4384](https://www.govinfo.gov/link/statute/132/4384), 4385.)*

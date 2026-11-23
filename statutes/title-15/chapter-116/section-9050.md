@@ -3,9 +3,10 @@ title: "Section 9050 - Temporary relief for community banks"
 usc_title: 15
 usc_section: "9050"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9050"
-generated_at: "2026-03-30T02:54:08.241Z"
+generated_at: "2026-11-23T21:25:40.123Z"
+status: "active"
 ---
 
 # § 9050. Temporary relief for community banks
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.241Z"
     - **(A)** the termination date of the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared by the President on March 13, 2020 under the National Emergencies Act ( 50 U.S.C. 1601 et seq.); or
     - **(B)** December 31, 2020 .
 - **(c)** During a grace period described in subsection (b)(1)(B), a qualifying community bank to which the grace period applies may continue to be treated as a qualifying community bank and shall be presumed to satisfy the capital and leverage requirements described in section 201(c) of the Economic Growth, Regulatory Relief, and Consumer Protection Act ( 12 U.S.C. 5371 note).
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title IV, § 4012](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 479](https://www.govinfo.gov/link/statute/134/479).)*

@@ -3,9 +3,10 @@ title: "Section 3142 - Rate of wages for laborers and mechanics"
 usc_title: 40
 usc_section: "3142"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 3142"
-generated_at: "2026-03-30T02:55:43.378Z"
+generated_at: "2026-11-23T21:26:14.854Z"
+status: "active"
 ---
 
 # § 3142. Rate of wages for laborers and mechanics
@@ -18,3 +19,67 @@ generated_at: "2026-03-30T02:55:43.378Z"
   - **(3)** there may be withheld from the contractor so much of accrued payments as the contracting officer considers necessary to pay to laborers and mechanics employed by the contractor or any subcontractor on the work the difference between the rates of wages required by the contract to be paid laborers and mechanics on the work and the rates of wages received by the laborers and mechanics and not refunded to the contractor or subcontractors or their agents.
 - **(d)** The obligation of a contractor or subcontractor to make payment in accordance with the prevailing wage determinations of the Secretary of Labor, under this subchapter and other laws incorporating this subchapter by reference, may be discharged by making payments in cash, by making contributions described in section 3141(2)(B)(i) of this title , by assuming an enforceable commitment to bear the costs of a plan or program referred to in section 3141(2)(B)(ii) of this title , or by any combination of payment, contribution, and assumption, where the aggregate of the payments, contributions, and costs is not less than the basic hourly rate of pay plus the amount referred to in section 3141(2)(B) of this title .
 - **(e)** In determining the overtime pay to which a laborer or mechanic is entitled under any federal law, the regular or basic hourly rate of pay (or other alternative rate on which premium rate of overtime compensation is computed) of the laborer or mechanic is deemed to be the rate computed under section 3141(2)(A) of this title , except that where the amount of payments, contributions, or costs incurred with respect to the laborer or mechanic exceeds the applicable prevailing wage, the regular or basic hourly rate of pay (or other alternative rate) is the amount of payments, contributions, or costs actually incurred with respect to the laborer or mechanic minus the greater of the amount of contributions or costs of the types described in section 3141(2)(B) of this title actually incurred with respect to the laborer or mechanic or the amount determined under section 3141(2)(B) of this title but not actually paid.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3142(a), (b) | 40:276a(a) (words before 1st semicolon). | Mar. 3, 1931, ch. 411, § 1(a) , 46 Stat. 1494 ; Aug. 30, 1935, ch. 825 , 49 Stat. 1011 ; June 15, 1940, ch. 373, § 1 , 54 Stat. 399 ; Pub. L. 86–624, § 26 , July 12, 1960 , 74 Stat. 418 ; Pub. L. 88–349, § 1 , July 2, 1964 , 78 Stat. 238 . |
+| 3142(c) | 40:276a(a) (words after 1st semicolon). |  |
+| 3142(d) | 40:276a(b) (1st par. proviso). | Mar. 3, 1931, ch. 411, § 1(b) (1st par. proviso, last par.), as added Pub. L. 88–349, § 1 , July 2, 1964 , 78 Stat. 239 . |
+| 3142(e) | 40:276a(b) (last par.). |  |
+
+
+Application
+
+Based on Prevailing Wage
+
+Stipulations Required in Contract
+
+Discharge of Obligation
+
+Overtime Pay
+
+Historical and Revision Notes
+
+3142(a), (b)
+
+Mar. 3, 1931, ch. 411, § 1(a)
+
+46 Stat. 1494
+
+Aug. 30, 1935, ch. 825
+
+49 Stat. 1011
+
+June 15, 1940, ch. 373, § 1
+
+54 Stat. 399
+
+Pub. L. 86–624, § 26
+
+July 12, 1960
+
+74 Stat. 418
+
+Pub. L. 88–349, § 1
+
+July 2, 1964
+
+78 Stat. 238
+
+3142(c)
+
+3142(d)
+
+Mar. 3, 1931, ch. 411, § 1(b)
+
+Pub. L. 88–349, § 1
+
+July 2, 1964
+
+78 Stat. 239
+
+3142(e)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1150](https://www.govinfo.gov/link/statute/116/1150); [Pub. L. 109–284, § 6(12)](https://www.govinfo.gov/link/plaw/109/public/284), (13), Sept. 27, 2006, [120 Stat. 1213](https://www.govinfo.gov/link/statute/120/1213).)*

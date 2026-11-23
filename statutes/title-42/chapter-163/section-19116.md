@@ -3,9 +3,10 @@ title: "Section 19116 - Authorities"
 usc_title: 42
 usc_section: "19116"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19116"
-generated_at: "2026-03-30T02:56:11.540Z"
+generated_at: "2026-11-23T21:26:33.872Z"
+status: "active"
 ---
 
 # § 19116. Authorities
@@ -61,3 +62,7 @@ In addition to existing authorities available to the Foundation, the Director ma
       - **(i)** evaluate and make recommendations to efficiently and effectively implement the Directorate for Technology, Innovation, and Partnerships; and
       - **(ii)** evaluate and make recommendations to ensure coordination of the Directorate for Technology, Innovation, and Partnerships with other directorates and offices of the Foundation and other Federal agencies.
     - **(B)** Upon completion of the study under subparagraph (A), the Foundation shall review the recommendations from the National Academy of Public Administration and provide a briefing to Congress on the plans of the Foundation to implement any such recommendations.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10396](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1593](https://www.govinfo.gov/link/statute/136/1593).)*

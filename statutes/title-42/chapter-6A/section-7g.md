@@ -3,9 +3,10 @@ title: "Section 7g - National Biodefense Science Board and working groups"
 usc_title: 42
 usc_section: "7g"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7g"
-generated_at: "2026-03-30T02:56:10.707Z"
+generated_at: "2026-11-23T21:26:30.321Z"
+status: "active"
 ---
 
 # § 247d–7g. National Biodefense Science Board and working groups
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:56:10.707Z"
   - **(3)** obtain advice regarding supporting and facilitating advanced research and development related to qualified countermeasures and qualified pandemic or epidemic products that are likely to be safe and effective with respect to children, pregnant women, and other vulnerable populations, and other issues regarding activities under this section that affect such populations.
 - **(c)** Any term that is defined in section 247d–7e of this title and that is used in this section shall have the same meaning in this section as such term is given in section 247d–7e of this title .
 - **(d)** There are authorized to be appropriated $1,000,000 to carry out this section for fiscal year 2007 and each fiscal year thereafter.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 319M, as added [Pub. L. 109–417, title IV, § 402](https://www.govinfo.gov/link/plaw/109/public/417), Dec. 19, 2006, [120 Stat. 2872](https://www.govinfo.gov/link/statute/120/2872); amended [Pub. L. 113–5, title IV, § 404](https://www.govinfo.gov/link/plaw/113/public/5), Mar. 13, 2013, [127 Stat. 197](https://www.govinfo.gov/link/statute/127/197).)*

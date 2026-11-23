@@ -3,9 +3,10 @@ title: "Section 1606 - Enforcement"
 usc_title: 47
 usc_section: "1606"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1606"
-generated_at: "2026-03-30T02:56:24.537Z"
+generated_at: "2026-11-23T21:26:36.112Z"
+status: "active"
 ---
 
 # § 1606. Enforcement
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:24.537Z"
     - **(A)** the Commission provides the recipient with notice of the violation; and
     - **(B)** the recipient fails to cure the violation within 180 days after the Commission provides such notice.
 - **(c)** The Commission shall immediately take action to recover all reimbursement funds awarded to a recipient of a reimbursement under the Program in any case in which such recipient is required to repay reimbursement funds under subsection (b)(1)(A).
+
+## Source Credit
+
+*([Pub. L. 116–124, § 7](https://www.govinfo.gov/link/plaw/116/public/124), Mar. 12, 2020, [134 Stat. 167](https://www.govinfo.gov/link/statute/134/167).)*

@@ -3,9 +3,10 @@ title: "Section 441m - Disposition of excess gunnery range lands and reservation
 usc_title: 16
 usc_section: "441m"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 441m"
-generated_at: "2026-03-30T02:54:22.799Z"
+generated_at: "2026-11-23T21:25:51.529Z"
+status: "active"
 ---
 
 # § 441m. Disposition of excess gunnery range lands and reservation lands; purchase; terms and conditions; life estates and use restrictions
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:22.799Z"
 - **(b)** Any former Indian owner of land that is within the Badlands Air Force gunnery range and outside the boundaries of the park and that has not been declared excess to the needs of the Department of the Air Force on August 8, 1968 , may, within the period specified in section 441 l (b)(5) of this title, elect (i) to purchase an available tract of land described in subsection (a) of substantially the same value, or (ii) to purchase the tract formerly owned by him at such time as such tract is declared excess and transferred to the Secretary of the Interior as provided in section 441 l (a) of this title.
 - **(c)** Any former Indian owner of a tract of land within the boundaries of the park that was acquired by the United States for the Badlands Air Force gunnery range, and that is transferred to the Secretary of the Interior pursuant to section 441k of this title , may, within the period specified in section 441 l (b)(5) of this title, elect (i) to acquire from the Secretary of the Interior a life estate in such tract at no cost, subject to restrictions on use that may be prescribed in regulations applicable to the park, or (ii) to purchase an available tract of land described in subsection (a) of substantially the same value.
 - **(d)** Purchases under subsection (b) and clause (ii) of subsection (c) of this section shall be made on the terms provided in section 441 l (b) of this title.
+
+## Source Credit
+
+*([Pub. L. 90–468, § 4](https://www.govinfo.gov/link/plaw/90/public/468), Aug. 8, 1968, [82 Stat. 664](https://www.govinfo.gov/link/statute/82/664); [Pub. L. 95–625, title VI, § 611](https://www.govinfo.gov/link/plaw/95/public/625), Nov. 10, 1978, [92 Stat. 3521](https://www.govinfo.gov/link/statute/92/3521).)*

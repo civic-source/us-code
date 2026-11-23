@@ -3,9 +3,10 @@ title: "Section 1185m - Increasing transparency by removing gag clauses on price
 usc_title: 29
 usc_section: "1185m"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1185m"
-generated_at: "2026-03-30T02:55:18.726Z"
+generated_at: "2026-11-23T21:26:02.276Z"
+status: "active"
 ---
 
 # § 1185m. Increasing transparency by removing gag clauses on price and quality information
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:18.726Z"
   - **(2)** Nothing in paragraph (1)(A) prevents a health care provider, network or association of providers, or other service provider from placing reasonable restrictions on the public disclosure of the information described in such paragraph (1).
   - **(3)** A group health plan (or health insurance coverage offered in connection with such a plan) shall annually submit to the Secretary an attestation that such plan or issuer of such coverage is in compliance with the requirements of this subsection.
   - **(4)** Nothing in this section shall be construed to modify or eliminate existing privacy protections and standards under State and Federal law. Nothing in this subsection shall be construed to otherwise limit access by a group health plan, plan sponsor, or health insurance issuer to data as permitted under the privacy regulations promulgated pursuant to section 264(c) of the Health Insurance Portability and Accountability Act of 1996, the amendments made by the Genetic Information Nondiscrimination Act of 2008, and the Americans with Disabilities Act of 1990 [ 42 U.S.C. 12101 et seq.].
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 724](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 116–260, div. BB, title II, § 201(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2892](https://www.govinfo.gov/link/statute/134/2892).)*

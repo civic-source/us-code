@@ -3,12 +3,17 @@ title: "Section 1353a - Officers and employees; overtime services; extra compens
 usc_title: 8
 usc_section: "1353a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1353a"
-generated_at: "2026-03-30T02:53:10.495Z"
+generated_at: "2026-11-23T21:25:25.177Z"
+status: "active"
 ---
 
 # § 1353a. Officers and employees; overtime services; extra compensation; length of working day
 
 The Attorney General shall fix a reasonable rate of extra compensation for overtime services of immigration officers and employees of the Immigration and Naturalization Service who may be required to remain on duty between the hours of five o’clock postmeridian and eight o’clock antemeridian, or on Sundays or holidays, to perform duties in connection with the examination and landing of passengers and crews of steamships, trains, airplanes, or other vehicles, arriving in the United States from a foreign port by water, land, or air, such rates to be fixed on a basis of one-half day’s additional pay for each two hours or fraction thereof of at least one hour that the overtime extends beyond five o’clock postmeridian (but not to exceed two and one-half days’ pay for the full period from five o’clock postmeridian to eight o’clock antemeridian) and two additional days’ pay for Sunday and holiday duty; in those ports where the customary working hours are other than those heretofore mentioned, the Attorney General is vested with authority to regulate the hours of such employees so as to agree with the prevailing working hours in said ports, but nothing contained in this section shall be construed in any manner to affect or alter the length of a working day for such employees or the overtime pay herein fixed.
 
+
+## Source Credit
+
+*(Mar. 2, 1931, ch. 368, § 1, [46 Stat. 1467](https://www.govinfo.gov/link/statute/46/1467); Ex. Ord. No. 6166, § 14, June 10, 1933; 1940 Reorg. Plan No. V, eff. June 14, 1940, 5 F.R. 2223, [54 Stat. 1238](https://www.govinfo.gov/link/statute/54/1238); June 27, 1952, ch. 477, title IV, § 402(i)(1), [66 Stat. 278](https://www.govinfo.gov/link/statute/66/278).)*

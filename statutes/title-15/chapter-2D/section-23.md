@@ -3,9 +3,10 @@ title: "Section 23 - Closed-end companies"
 usc_title: 15
 usc_section: "23"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 23"
-generated_at: "2026-03-30T02:54:08.068Z"
+generated_at: "2026-11-23T21:25:39.589Z"
+status: "active"
 ---
 
 # § 80a–23. Closed-end companies
@@ -16,3 +17,17 @@ generated_at: "2026-03-30T02:54:08.068Z"
   - **(1)** on a securities exchange or such other open market as the Commission may designate by rules and regulations or orders: Provided , That if such securities are stock, such registered company shall, within the preceding six months, have informed stockholders of its intention to purchase stock of such class by letter or report addressed to stockholders of such class; or
   - **(2)** pursuant to tenders, after reasonable opportunity to submit tenders given to all holders of securities of the class to be purchased; or
   - **(3)** under such other circumstances as the Commission may permit by rules and regulations or orders for the protection of investors in order to insure that such purchases are made in a manner or on a basis which does not unfairly discriminate against any holders of the class or classes of securities to be purchased.
+
+Revision to Rules
+
+Treatment if Revisions Not Completed in a Timely Manner
+
+Rules of Construction.—
+
+No effect on rule 482
+
+References
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title I, § 23, [54 Stat. 825](https://www.govinfo.gov/link/statute/54/825).)*

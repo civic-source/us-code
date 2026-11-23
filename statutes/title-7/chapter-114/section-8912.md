@@ -3,9 +3,10 @@ title: "Section 8912 - Agricultural biosecurity communication center"
 usc_title: 7
 usc_section: "8912"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 8912"
-generated_at: "2026-03-30T02:53:42.481Z"
+generated_at: "2026-11-23T21:25:28.486Z"
+status: "active"
 ---
 
 # § 8912. Agricultural biosecurity communication center
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.481Z"
 - **(c)** There are authorized to be appropriated to carry out this section—
   - **(1)** such sums as are necessary for each of fiscal years 2008 through 2013; and
   - **(2)** $2,000,000 for each of fiscal years 2014 through 2023.
+
+## Source Credit
+
+*([Pub. L. 110–234, title XIV, § 14112](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1455](https://www.govinfo.gov/link/statute/122/1455); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14112, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2217; [Pub. L. 113–79, title VII, § 7501](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 900](https://www.govinfo.gov/link/statute/128/900); [Pub. L. 115–334, title VII, § 7401](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4817](https://www.govinfo.gov/link/statute/132/4817).)*

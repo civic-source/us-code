@@ -3,9 +3,10 @@ title: "Section 30182 - Powers and duties"
 usc_title: 49
 usc_section: "30182"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 30182"
-generated_at: "2026-03-30T02:56:19.353Z"
+generated_at: "2026-11-23T21:26:40.767Z"
+status: "active"
 ---
 
 # § 30182. Powers and duties
@@ -33,3 +34,19 @@ generated_at: "2026-03-30T02:56:19.353Z"
   - **(5)** a justification of the need for the facility.
 - **(e)** The estimated maximum cost of a facility noticed under subsection (d) may be increased by an amount equal to the percentage increase in construction costs from the date the notice is submitted to Congress. However, the increase in the cost of the facility may not be more than 10 percent of the estimated maximum cost included in the notice. The Secretary shall decide what increase in construction costs has occurred.
 - **(f)** When the United States Government makes more than a minimal contribution to a research or development activity under this chapter, the Secretary shall include in the arrangement for the activity a provision to ensure that all information, patents, and developments related to the activity are available to the public. The owner of a background patent may not be deprived of a right under the patent.
+
+In General
+
+Activities
+
+Use of Public Agencies
+
+Facilities
+
+Increasing Costs of Approved Facilities
+
+Availability of Information, Patents, and Developments
+
+## Source Credit
+
+*(Added [Pub. L. 112–141, div. C, title I, § 31204(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 759](https://www.govinfo.gov/link/statute/126/759); amended [Pub. L. 114–94, div. B, title XXIV, § 24202(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1711](https://www.govinfo.gov/link/statute/129/1711).)*

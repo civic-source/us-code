@@ -3,12 +3,17 @@ title: "Section 832j - Deposit of receipts; authorization of appropriations"
 usc_title: 16
 usc_section: "832j"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 832j"
-generated_at: "2026-03-30T02:54:22.926Z"
+generated_at: "2026-11-23T21:25:51.778Z"
+status: "active"
 ---
 
 # § 832j. Deposit of receipts; authorization of appropriations
 
 All receipts from transmission and sale of electric energy generated at the Bonneville project shall be covered into the Treasury of the United States to the credit of miscellaneous receipts, save and except that the Treasury shall set up and maintain from such receipts a continuing fund of $500,000, to the credit of the administrator and subject to check by him, to defray emergency expenses and to insure continuous operation. There is authorized to be appropriated from time to time, out of moneys in the Treasury not otherwise appropriated, such sums as may be necessary to carry out the provisions of this chapter, including installation of equipment and machinery for the generation of electric energy and facilities for its transmission and sale.
 
+
+## Source Credit
+
+*(Aug. 20, 1937, ch. 720, § 11, [50 Stat. 736](https://www.govinfo.gov/link/statute/50/736).)*

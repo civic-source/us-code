@@ -3,9 +3,10 @@ title: "Section 1454 - Use of funds"
 usc_title: 20
 usc_section: "1454"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1454"
-generated_at: "2026-03-30T02:54:48.167Z"
+generated_at: "2026-11-23T21:25:47.343Z"
+status: "active"
 ---
 
 # § 1454. Use of funds
@@ -72,3 +73,7 @@ generated_at: "2026-03-30T02:54:48.167Z"
   - **(1)** not less than 90 percent of the funds the State educational agency receives under the grant for any fiscal year for activities under subsection (a); and
   - **(2)** not more than 10 percent of the funds the State educational agency receives under the grant for any fiscal year for activities under subsection (b).
 - **(e)** Public Law 95–134 , permitting the consolidation of grants to the outlying areas, shall not apply to funds received under this part.
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 654](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2770](https://www.govinfo.gov/link/statute/118/2770); amended [Pub. L. 114–95, title IX](https://www.govinfo.gov/link/plaw/114/public/95), §§ 9214(d)(4)(A), (B), 9215(ss)(8), Dec. 10, 2015, [129 Stat. 2165](https://www.govinfo.gov/link/statute/129/2165), 2183.)*

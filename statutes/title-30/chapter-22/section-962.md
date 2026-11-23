@@ -3,12 +3,17 @@ title: "Section 962 - Acceptance of contributions and prosecution of projects; c
 usc_title: 30
 usc_section: "962"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 962"
-generated_at: "2026-03-30T02:55:29.394Z"
+generated_at: "2026-11-23T21:26:00.410Z"
+status: "active"
 ---
 
 # § 962. Acceptance of contributions and prosecution of projects; cooperative programs to promote health and safety education and training; recognition and funding of Joseph A. Holmes Safety Association; use of funds for costs of mine rescue and survival operations
 
 The Secretary is authorized to accept lands, buildings, equipment, and other contributions from public and private sources and to prosecute projects in cooperation with other agencies, Federal, State, or private: Provided further , That the Mine Safety and Health Administration is authorized to promote health and safety education and training in the mining community through cooperative programs with States, industry, and safety associations: Provided further , That the Secretary is authorized to recognize the Joseph A. Holmes Safety Association as a principal safety association and, notwithstanding any other provision of law, may provide funds and, with or without reimbursement, personnel, including service of Mine Safety and Health Administration officials as officers in local chapters or in the national organization: Provided further , That any funds available to the Department of Labor may be used, with the approval of the Secretary, to provide for the costs of mine rescue and survival operations in the event of a major disaster.
 
+
+## Source Credit
+
+*([Pub. L. 119–75, div. B, title I](https://www.govinfo.gov/link/plaw/119/public/75), Feb. 3, 2026, [140 Stat. 249](https://www.govinfo.gov/link/statute/140/249).)*

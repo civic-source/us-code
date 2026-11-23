@@ -3,9 +3,10 @@ title: "Section 2169 - Fingerprinting for criminal history record checks"
 usc_title: 42
 usc_section: "2169"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2169"
-generated_at: "2026-03-30T02:56:11.154Z"
+generated_at: "2026-11-23T21:26:32.361Z"
+status: "active"
 ---
 
 # § 2169. Fingerprinting for criminal history record checks
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:56:11.154Z"
     - **(A)** a portion of the amounts collected under this subsection in any fiscal year may be retained and used by the Commission to carry out this section; and
     - **(B)** the remaining portion of the amounts collected under this subsection in such fiscal year may be transferred periodically to the Attorney General and used by the Attorney General to carry out this section.
   - **(3)** Any amount made available for use under paragraph (2) shall remain available until expended.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 149, as added [Pub. L. 99–399, title VI, § 606(a)](https://www.govinfo.gov/link/plaw/99/public/399), Aug. 27, 1986, [100 Stat. 876](https://www.govinfo.gov/link/statute/100/876); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944); amended [Pub. L. 109–58, title VI, § 652](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 810](https://www.govinfo.gov/link/statute/119/810).)*

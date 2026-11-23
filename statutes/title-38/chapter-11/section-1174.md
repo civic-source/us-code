@@ -3,9 +3,10 @@ title: "Section 1174 - Regulations regarding presumptions of service connection 
 usc_title: 38
 usc_section: "1174"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1174"
-generated_at: "2026-03-30T02:55:53.478Z"
+generated_at: "2026-11-23T21:26:16.592Z"
+status: "active"
 ---
 
 # § 1174. Regulations regarding presumptions of service connection based on toxic exposure
@@ -25,3 +26,11 @@ generated_at: "2026-03-30T02:55:53.478Z"
     - **(A)** a veteran who was awarded compensation under chapter 11 of this title for such illness on the basis of the presumption provided under such regulations before the effective date of the removal or modification shall continue to be entitled to receive compensation on that basis;
     - **(B)** a survivor of a veteran who was awarded dependency and indemnity compensation under chapter 13 of this title for the death of a veteran resulting from such illness on the basis of such presumption shall continue to be entitled to receive dependency and indemnity compensation on such basis; and
     - **(C)** no veteran or survivor covered under subparagraph (A) or (B) shall have their compensation reduced solely because of the removal of an illness pursuant to paragraph (1).
+
+Action Upon Recommendation
+
+Removal of Presumption
+
+## Source Credit
+
+*(Added [Pub. L. 117–168, title II, § 202(a)](https://www.govinfo.gov/link/plaw/117/public/168), Aug. 10, 2022, [136 Stat. 1770](https://www.govinfo.gov/link/statute/136/1770).)*

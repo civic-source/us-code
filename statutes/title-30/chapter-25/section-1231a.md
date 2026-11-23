@@ -3,9 +3,10 @@ title: "Section 1231a - Abandoned mine reclamation fund authorization of appropr
 usc_title: 30
 usc_section: "1231a"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1231a"
-generated_at: "2026-03-30T02:55:29.397Z"
+generated_at: "2026-11-23T21:26:00.418Z"
+status: "active"
 ---
 
 # § 1231a. Abandoned mine reclamation fund authorization of appropriations
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:55:29.397Z"
 - **(e)** The total amount of grant funding provided under subsection (b)(1) to an eligible State or Indian Tribe shall be not less than $20,000,000, to the extent that the amount needed for reclamation projects described in that subsection on the land of the State or Indian Tribe is not less than $20,000,000.
 - **(f)** In addition to the priorities described in section 403(a) of the Surface Mining Control and Reclamation Act of 1977 ( 30 U.S.C. 1233(a) ), in providing grants under this section, priority may also be given to reclamation projects described in subsection (b)(1) that provide employment for current and former employees of the coal industry.
 - **(g)** Of the funds made available under subsection (a), $25,000,000 shall be made available to the Secretary of the Interior to provide States and Indian Tribes with the financial and technical assistance necessary for the purpose of making amendments to the inventory maintained under section 403(c) of the Surface Mining Control and Reclamation Act of 1977 ( 30 U.S.C. 1233(c) ).
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title VII, § 40701](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1091](https://www.govinfo.gov/link/statute/135/1091); [Pub. L. 117–328, div. DD, title VIII, § 801](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5622](https://www.govinfo.gov/link/statute/136/5622).)*

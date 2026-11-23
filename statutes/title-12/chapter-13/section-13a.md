@@ -3,9 +3,10 @@ title: "Section 13a - Loan guarantees for Indian housing"
 usc_title: 12
 usc_section: "13a"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 13a"
-generated_at: "2026-03-30T02:53:53.422Z"
+generated_at: "2026-11-23T21:25:36.903Z"
+status: "active"
 ---
 
 # § 1715z–13a. Loan guarantees for Indian housing
@@ -114,3 +115,13 @@ generated_at: "2026-03-30T02:53:53.422Z"
   - **(7)** The term “standard housing” means a dwelling unit or housing that complies with the requirements established under subsection (j).
   - **(8)** The term “tribe” or “Indian tribe” means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act [ 43 U.S.C. 1601 et seq.], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act of 1975 [ 25 U.S.C. 5301 et seq.].
   - **(9)** The term “trust land” means land title to which is held by the United States for the benefit of an Indian or Indian tribe or title to which is held by an Indian tribe subject to a restriction against alienation imposed by the United States.
+
+Tribe; indian tribe
+
+“Congress finds that—
+
+“The Secretary of Housing and Urban Development shall—
+
+## Source Credit
+
+*([Pub. L. 102–550, title I, § 184](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3739](https://www.govinfo.gov/link/statute/106/3739); [Pub. L. 104–330, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/104/public/330) –(j), Oct. 26, 1996, [110 Stat. 4048–4050](https://www.govinfo.gov/link/statute/110/4048); [Pub. L. 105–276, title V, § 595(e)(11)](https://www.govinfo.gov/link/plaw/105/public/276) –(13), Oct. 21, 1998, [112 Stat. 2658](https://www.govinfo.gov/link/statute/112/2658); [Pub. L. 106–377, § 1(a)(1) [title II, § 227]](https://www.govinfo.gov/link/plaw/106/public/377), Oct. 27, 2000, [114 Stat. 1441](https://www.govinfo.gov/link/statute/114/1441), 1441A–30; [Pub. L. 106–568, title X, § 1002](https://www.govinfo.gov/link/plaw/106/public/568), Dec. 27, 2000, [114 Stat. 2925](https://www.govinfo.gov/link/statute/114/2925); [Pub. L. 106–569, title V, § 502](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 2961](https://www.govinfo.gov/link/statute/114/2961); [Pub. L. 107–292, § 2(d)](https://www.govinfo.gov/link/plaw/107/public/292), Nov. 13, 2002, [116 Stat. 2053](https://www.govinfo.gov/link/statute/116/2053); [Pub. L. 110–37, § 2](https://www.govinfo.gov/link/plaw/110/public/37), June 18, 2007, [121 Stat. 229](https://www.govinfo.gov/link/statute/121/229); [Pub. L. 113–6, div. F, title VIII, § 1806](https://www.govinfo.gov/link/plaw/113/public/6), Mar. 26, 2013, [127 Stat. 433](https://www.govinfo.gov/link/statute/127/433); [Pub. L. 113–235, div. K, title II, § 241](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2759](https://www.govinfo.gov/link/statute/128/2759); [Pub. L. 116–260, div. Q, title I, § 105(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2171](https://www.govinfo.gov/link/statute/134/2171).)*

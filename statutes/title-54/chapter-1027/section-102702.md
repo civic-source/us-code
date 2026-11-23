@@ -3,9 +3,10 @@ title: "Section 102702 - Crime prevention assistance"
 usc_title: 54
 usc_section: "102702"
 chapter: 1027
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "54 U.S.C. § 102702"
-generated_at: "2026-03-30T02:56:28.420Z"
+generated_at: "2026-11-23T21:26:42.780Z"
+status: "active"
 ---
 
 # § 102702. Crime prevention assistance
@@ -21,3 +22,34 @@ generated_at: "2026-03-30T02:56:28.420Z"
   - **(3)** to increase security or law enforcement personnel within or adjacent to System units; or
   - **(4)** for any other project intended to increase the security and safety of System units.
 - **(d)** There is authorized to be appropriated out of the Violent Crime Reduction Trust Fund not more than $10,000,000 for the Secretary to take all necessary actions to seek to reduce the incidence of violent crime in the System.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 102702 | 16 U.S.C. 1a–7a . | Pub. L. 91–383, § 13 , as added Pub. L. 103–322, title IV, § 40132 , Sept. 13, 1994 , 108 Stat. 1917 . |
+
+
+Recommendations for Improvement
+
+Distribution of Funds
+
+Use of Funds
+
+Authorization of Appropriations
+
+Historical and Revision Notes
+
+102702
+
+16 U.S.C. 1a–7a
+
+Pub. L. 91–383, § 13
+
+Pub. L. 103–322, title IV, § 40132
+
+Sept. 13, 1994
+
+108 Stat. 1917
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3161](https://www.govinfo.gov/link/statute/128/3161).)*

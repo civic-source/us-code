@@ -3,9 +3,10 @@ title: "Section 127b - Department of Defense rewards program"
 usc_title: 10
 usc_section: "127b"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 127b"
-generated_at: "2026-03-30T02:53:38.033Z"
+generated_at: "2026-11-23T21:25:32.211Z"
+status: "active"
 ---
 
 # § 127b. Department of Defense rewards program
@@ -47,3 +48,23 @@ generated_at: "2026-03-30T02:53:38.033Z"
   - **(1)** The country so designated.
   - **(2)** The reason and justification for the designation of the country.
   - **(3)** An estimate of the amount or value of the rewards to be paid as monetary payment or payment-in-kind under this section.
+
+Authority
+
+Limitation
+
+Delegation of Authority
+
+Coordination
+
+Persons Not Eligible
+
+Annual Report
+
+Determinations by the Secretary
+
+Report on Designation of Countries for Which Rewards May Be Paid
+
+## Source Credit
+
+*(Added [Pub. L. 107–314, div. A, title X, § 1065(a)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2655](https://www.govinfo.gov/link/statute/116/2655); amended [Pub. L. 109–163, div. A, title X, § 1056(c)(2)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3439](https://www.govinfo.gov/link/statute/119/3439); [Pub. L. 109–364, div. A, title XIV, § 1401](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2433](https://www.govinfo.gov/link/statute/120/2433); [Pub. L. 110–181, div. A, title X, § 1033](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 307](https://www.govinfo.gov/link/statute/122/307); [Pub. L. 111–84, div. A, title X, § 1071](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2470](https://www.govinfo.gov/link/statute/123/2470); [Pub. L. 111–383, div. A, title X, § 1031](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4351](https://www.govinfo.gov/link/statute/124/4351); [Pub. L. 112–81, div. A, title X](https://www.govinfo.gov/link/plaw/112/public/81), §§ 1033, 1064(3), Dec. 31, 2011, [125 Stat. 1572](https://www.govinfo.gov/link/statute/125/1572), 1587; [Pub. L. 112–239, div. A, title X, § 1021(a)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1911](https://www.govinfo.gov/link/statute/126/1911); [Pub. L. 113–291, div. A, title X, § 1031](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3491](https://www.govinfo.gov/link/statute/128/3491); [Pub. L. 114–92, div. A, title X, § 1042(a)](https://www.govinfo.gov/link/plaw/114/public/92) –(d)(1), Nov. 25, 2015, [129 Stat. 976](https://www.govinfo.gov/link/statute/129/976); [Pub. L. 114–328, div. A, title X, § 1063](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2408](https://www.govinfo.gov/link/statute/130/2408).)*

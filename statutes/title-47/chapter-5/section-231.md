@@ -3,9 +3,10 @@ title: "Section 231 - Restriction of access by minors to materials commercially 
 usc_title: 47
 usc_section: "231"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 231"
-generated_at: "2026-03-30T02:56:24.500Z"
+generated_at: "2026-11-23T21:26:35.957Z"
+status: "active"
 ---
 
 # § 231. Restriction of access by minors to materials commercially distributed by means of World Wide Web that are harmful to minors
@@ -47,3 +48,9 @@ generated_at: "2026-03-30T02:56:24.500Z"
     - **(B)** depicts, describes, or represents, in a manner patently offensive with respect to minors, an actual or simulated sexual act or sexual contact, an actual or simulated normal or perverted sexual act, or a lewd exhibition of the genitals or post-pubescent female breast; and
     - **(C)** taken as a whole, lacks serious literary, artistic, political, or scientific value for minors.
   - **(7)** The term “minor” means any person under 17 years of age.
+
+“The Congress finds that—
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title II, § 231, as added [Pub. L. 105–277, div. C, title XIV, § 1403](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–736](https://www.govinfo.gov/link/statute/112/2681).)*

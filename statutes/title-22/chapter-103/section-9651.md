@@ -3,9 +3,10 @@ title: "Section 9651 - Establishment of risk and audit committees"
 usc_title: 22
 usc_section: "9651"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9651"
-generated_at: "2026-03-30T02:55:05.470Z"
+generated_at: "2026-11-23T21:25:58.783Z"
+status: "active"
 ---
 
 # § 9651. Establishment of risk and audit committees
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.470Z"
   - **(2)** the integrity of the Corporation’s financial statements;
   - **(3)** the performance of the Corporation’s internal audit function; and
   - **(4)** compliance with legal and regulatory requirements related to the finances of the Corporation.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. F, title IV, § 1441](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3503](https://www.govinfo.gov/link/statute/132/3503).)*

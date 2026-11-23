@@ -3,9 +3,10 @@ title: "Section 6735 - Definitions"
 usc_title: 15
 usc_section: "6735"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6735"
-generated_at: "2026-03-30T02:54:08.214Z"
+generated_at: "2026-11-23T21:25:40.030Z"
+status: "active"
 ---
 
 # § 6735. Definitions
@@ -27,3 +28,7 @@ For purposes of this subchapter, the following definitions shall apply:
   - **(13)** The term “State law” means the statutes of any State, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands and any regulation, order, or requirement prescribed pursuant to any such statute.
   - **(14)** The term “transferee domicile” means the State to which a mutual insurer is redomesticating pursuant to this subchapter.
   - **(15)** The term “transferor domicile” means the State from which a mutual insurer is redomesticating pursuant to this subchapter.
+
+## Source Credit
+
+*([Pub. L. 106–102, title III, § 315](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1420](https://www.govinfo.gov/link/statute/113/1420).)*

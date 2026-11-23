@@ -3,9 +3,10 @@ title: "Section 20133 - Permission to carry firearms"
 usc_title: 51
 usc_section: "20133"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 20133"
-generated_at: "2026-03-30T02:56:28.703Z"
+generated_at: "2026-11-23T21:26:42.526Z"
+status: "active"
 ---
 
 # § 20133. Permission to carry firearms
@@ -14,3 +15,24 @@ As the Administrator deems necessary in the public interest, the Administrator m
 
   - **(1)** direct officers and employees of the Administration to carry firearms while in the conduct of their official duties; and
   - **(2)** authorize employees of contractors and subcontractors of the Administration who are engaged in the protection of property owned by the United States, and located at facilities owned by or contracted to the United States, to carry firearms while in the conduct of their official duties.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 20133 | 42 U.S.C. 2456 . | Pub. L. 85–568, title III, § 304(e) , July 29, 1958 , 72 Stat. 435 . |
+
+
+Historical and Revision Notes
+
+20133
+
+42 U.S.C. 2456
+
+Pub. L. 85–568, title III, § 304(e)
+
+July 29, 1958
+
+72 Stat. 435
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3338](https://www.govinfo.gov/link/statute/124/3338).)*

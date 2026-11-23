@@ -3,9 +3,10 @@ title: "Section 121A - Limitations on exclusive rights: reproduction for blind o
 usc_title: 17
 usc_section: "121A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 121A"
-generated_at: "2026-03-30T02:54:15.350Z"
+generated_at: "2026-11-23T21:25:41.707Z"
+status: "active"
 ---
 
 # § 121A. Limitations on exclusive rights: reproduction for blind or other people with disabilities in Marrakesh Treaty countries
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:15.350Z"
 - **(f)** For purposes of this section—
   - **(1)** the terms “accessible format”, “authorized entity”, and “eligible person” have the meanings given those terms in section 121; and
   - **(2)** the term “Marrakesh Treaty” means the Marrakesh Treaty to Facilitate Access to Published Works by Visually Impaired Persons and Persons with Print Disabilities concluded at Marrakesh, Morocco, on June 28, 2013 .
+
+## Source Credit
+
+*(Added [Pub. L. 115–261, § 2(a)(2)](https://www.govinfo.gov/link/plaw/115/public/261), Oct. 9, 2018, [132 Stat. 3668](https://www.govinfo.gov/link/statute/132/3668).)*

@@ -3,9 +3,10 @@ title: "Section 1618 - Revocation of reserved rights; excepted reserve; acquisit
 usc_title: 43
 usc_section: "1618"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1618"
-generated_at: "2026-03-30T02:55:57.480Z"
+generated_at: "2026-11-23T21:26:19.858Z"
+status: "active"
 ---
 
 # § 1618. Revocation of reserved rights; excepted reserve; acquisition of title to surface and subsurface estates in reserve; election of Village Corporations; restoration of land to Elim Native Corporation
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:55:57.480Z"
     - **(E)** The owners of lands held within the exterior boundaries of lands conveyed to Elim shall have all rights of ingress and egress to be vested in the inholder and the inholder’s agents, employees, co-venturers, licensees, subsequent grantees, or invitees, and such easements shall be reserved in the conveyance to Elim. The inholder may not exercise the right of ingress and egress in a manner that may result in substantial damage to the surface of the lands or make any permanent improvements on Conveyance Lands without the prior consent of Elim.
     - **(F)** The Bureau of Land Management may reserve an easement for the Iditarod National Historic Trail in the conveyance to Elim.
   - **(7)** There are authorized to be appropriated such sums as may be necessary to implement this subsection.
+
+## Source Credit
+
+*([Pub. L. 92–203, § 19](https://www.govinfo.gov/link/plaw/92/public/203), Dec. 18, 1971, [85 Stat. 710](https://www.govinfo.gov/link/statute/85/710); [Pub. L. 106–194, § 1](https://www.govinfo.gov/link/plaw/106/public/194), May 2, 2000, [114 Stat. 239](https://www.govinfo.gov/link/statute/114/239).)*

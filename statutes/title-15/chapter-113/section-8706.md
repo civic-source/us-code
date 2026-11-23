@@ -3,9 +3,10 @@ title: "Section 8706 - Referenda"
 usc_title: 15
 usc_section: "8706"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8706"
-generated_at: "2026-03-30T02:54:08.233Z"
+generated_at: "2026-11-23T21:25:40.093Z"
+status: "active"
 ---
 
 # § 8706. Referenda
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:08.233Z"
   - **(1)** not later than 180 days after the referendum, suspend or terminate, as appropriate, collection of assessments under the order; and
   - **(2)** suspend or terminate, as appropriate, programs and projects under the order as soon as practicable and in an orderly manner.
 - **(f)** The Board established under an order with respect to which a referendum is conducted under this section shall reimburse the Secretary from assessments for any expenses incurred by the Secretary to conduct the referendum.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. E, § 1307](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3479](https://www.govinfo.gov/link/statute/132/3479).)*

@@ -3,9 +3,10 @@ title: "Section 6704 - Failure to keep records necessary to meet reporting requi
 usc_title: 26
 usc_section: "6704"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6704"
-generated_at: "2026-03-30T02:55:27.865Z"
+generated_at: "2026-11-23T21:26:06.924Z"
+status: "active"
 ---
 
 # § 6704. Failure to keep records necessary to meet reporting requirements under section 6047(d)
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:27.865Z"
   - **(1)** No penalty shall be imposed by this section on any person for any failure which is shown to be due to reasonable cause and not to willful neglect.
   - **(2)** No penalty shall be imposed by this section on any failure by a person if such failure is attributable to a prior failure which has been penalized under this section and with respect to which the person has made all reasonable efforts to correct the failure.
   - **(3)** No penalty shall be imposed by this section on any person for any failure which is attributable to a failure occurring before January 1, 1983 , if the person has made all reasonable efforts to correct such pre-1983 failure.
+
+## Source Credit
+
+*(Added [Pub. L. 97–248, title III, § 334(c)(1)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 627](https://www.govinfo.gov/link/statute/96/627); amended [Pub. L. 99–514, title XVIII, § 1848(e)(1)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2857](https://www.govinfo.gov/link/statute/100/2857).)*

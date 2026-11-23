@@ -3,9 +3,10 @@ title: "Section 757a - Anadromous, Great Lakes, and Lake Champlain fisheries"
 usc_title: 16
 usc_section: "757a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 757a"
-generated_at: "2026-03-30T02:54:22.905Z"
+generated_at: "2026-11-23T21:25:51.745Z"
+status: "active"
 ---
 
 # § 757a. Anadromous, Great Lakes, and Lake Champlain fisheries
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:22.905Z"
     - **(A)** the commission established by the Atlantic States Marine Fisheries Compact (as consented to and approved by Public Law 80–77 1 1 See References in Text note below. ), approved May 4, 1942 ( 56 Stat. 267 );
     - **(B)** the commission established by the Pacific Marine Fisheries Compact (as consented to and approved by Public Law 80–232 1 ), approved July 24, 1947 ( 16 Stat. 419 ); and
     - **(C)** the commission established by the Gulf States Marine Fisheries Compact (as consented to and approved by Public Law 81–66 ), approved May 19, 1949 ( 63 Stat. 70 ).
+
+## Source Credit
+
+*([Pub. L. 89–304, § 1](https://www.govinfo.gov/link/plaw/89/public/304), Oct. 30, 1965, [79 Stat. 1125](https://www.govinfo.gov/link/statute/79/1125); [Pub. L. 91–249, § 1](https://www.govinfo.gov/link/plaw/91/public/249), May 14, 1970, [84 Stat. 214](https://www.govinfo.gov/link/statute/84/214); [Pub. L. 93–362, § 3(a)](https://www.govinfo.gov/link/plaw/93/public/362), July 30, 1974, [88 Stat. 398](https://www.govinfo.gov/link/statute/88/398); [Pub. L. 95–464](https://www.govinfo.gov/link/plaw/95/public/464), Oct. 17, 1978, [92 Stat. 1278](https://www.govinfo.gov/link/statute/92/1278); [Pub. L. 96–118, § 1](https://www.govinfo.gov/link/plaw/96/public/118), Nov. 16, 1979, [93 Stat. 859](https://www.govinfo.gov/link/statute/93/859); [Pub. L. 97–453, § 14(b)(1)](https://www.govinfo.gov/link/plaw/97/public/453), Jan. 12, 1983, [96 Stat. 2492](https://www.govinfo.gov/link/statute/96/2492); [Pub. L. 98–44, title I, § 104](https://www.govinfo.gov/link/plaw/98/public/44), July 12, 1983, [97 Stat. 216](https://www.govinfo.gov/link/statute/97/216); [Pub. L. 107–372, title III, § 303(b)](https://www.govinfo.gov/link/plaw/107/public/372), Dec. 19, 2002, [116 Stat. 3095](https://www.govinfo.gov/link/statute/116/3095).)*

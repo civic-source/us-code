@@ -3,9 +3,10 @@ title: "Section 1507 - Subpenas and depositions"
 usc_title: 5
 usc_section: "1507"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 1507"
-generated_at: "2026-03-30T02:52:55.997Z"
+generated_at: "2026-11-23T21:25:23.118Z"
+status: "active"
 ---
 
 # § 1507. Subpenas and depositions
@@ -13,3 +14,20 @@ generated_at: "2026-03-30T02:52:55.997Z"
 - **(a)** The Merit Systems Protection Board may require by subpena the attendance and testimony of witnesses and the production of documentary evidence relating to any matter before it as a result of this chapter. Any member of the Board may sign subpenas, and members of the Board and its examiners when authorized by the Board may administer oaths, examine witnesses, and receive evidence. The attendance of witnesses and the production of documentary evidence may be required from any place in the United States at the designated place of hearing. In case of disobedience to a subpena, the Board may invoke the aid of a court of the United States in requiring the attendance and testimony of witnesses and the production of documentary evidence. In case of contumacy or refusal to obey a subpena issued to a person, the United States District Court within whose jurisdiction the inquiry is carried on may issue an order requiring him to appear before the Board, or to produce documentary evidence if so ordered, or to give evidence concerning the matter in question; and any failure to obey the order of the court may be punished by the court as a contempt thereof.
 - **(b)** The Board may order testimony to be taken by deposition at any stage of a proceeding or investigation before it as a result of this chapter. Depositions may be taken before an individual designated by the Board and having the power to administer oaths. Testimony shall be reduced to writing by the individual taking the deposition, or under his direction, and shall be subscribed by the deponent. Any person may be compelled to appear and depose and to produce documentary evidence before the Board as provided by this section.
 - **(c)** A person may not be excused from attending and testifying or from producing documentary evidence or in obedience to a subpena on the ground that the testimony or evidence, documentary or otherwise, required of him may tend to incriminate him or subject him to a penalty or forfeiture for or on account of any transaction, matter, or thing concerning which he is compelled to testify, or produce evidence, documentary or otherwise, before the Board in obedience to a subpena issued by it. A person so testifying is not exempt from prosecution and punishment for perjury committed in so testifying.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 118k(d) (less 1st sentence). | July 19, 1940, ch. 640, § 4 “Sec. 12(d) (less 1st sentence)”, 54 Stat. 769 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 118k(d)
+
+July 19, 1940, ch. 640, § 4
+
+54 Stat. 769
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 406](https://www.govinfo.gov/link/statute/80/406); [Pub. L. 95–454, title IX, § 906(a)(6)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1225](https://www.govinfo.gov/link/statute/92/1225).)*

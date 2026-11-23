@@ -3,9 +3,10 @@ title: "Section 2015 - Eligibility disqualifications"
 usc_title: 7
 usc_section: "2015"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2015"
-generated_at: "2026-03-30T02:53:42.363Z"
+generated_at: "2026-11-23T21:25:28.248Z"
+status: "active"
 ---
 
 # § 2015. Eligibility disqualifications
@@ -314,3 +315,127 @@ generated_at: "2026-03-30T02:53:42.363Z"
   - **(1)** Any household in which a member receives substantial lottery or gambling winnings, as determined by the Secretary, shall lose eligibility for benefits immediately upon receipt of the winnings.
   - **(2)** A household described in paragraph (1) shall remain ineligible for participation until the household meets the allowable financial resources and income eligibility requirements under subsections (c), (d), (e), (f), (g), (i), (k), (l), (m), and (n) of section 2014 of this title .
   - **(3)** As determined by the Secretary, each State agency, to the maximum extent practicable, shall establish agreements with entities responsible for the regulation or sponsorship of gaming in the State to determine whether individuals participating in the supplemental nutrition assistance program have received substantial lottery or gambling winnings.
+
+Frequency of reporting.—
+
+In general
+
+Reporting by households with excess income
+
+Work requirements
+
+In general
+
+Household ineligibility
+
+Duration of ineligibility.—
+
+First violation
+
+Second violation
+
+Third or subsequent violation
+
+Administration.—
+
+Good cause
+
+Voluntary quit
+
+Determination by state agency.—
+
+In general
+
+(aa) the meaning of any term used in subparagraph (A);
+
+(bb) the procedures for determining whether an individual is in compliance with a requirement under subparagraph (A); and
+
+(cc) whether an individual is in compliance with a requirement under subparagraph (A).
+
+Not less restrictive
+
+Strike against the government
+
+Selecting a head of household.—
+
+In general
+
+Time for making designation
+
+Change in head of household
+
+Employment and training.—
+
+In general.—
+
+Implementation
+
+Statewide workforce development system
+
+Definitions
+
+Employment and training program
+
+(aa) not provide any work that has the effect of replacing the employment of an individual not participating in the employment or training experience program; and
+
+(bb) provide the same benefits and working conditions that are provided at the job site to employees performing comparable work for comparable hours.
+
+Workforce partnership.—
+
+In general
+
+(aa) is operated by— (AA) a private employer, an organization representing private employers, or a nonprofit organization providing services relating to workforce development; or (BB) an entity identified as an eligible provider of training services under section 122(d) of the Workforce Innovation and Opportunity Act ( 29 U.S.C. 3152(d) );
+
+(bb) the Secretary certifies, or the State agency certifies to the Secretary— (AA) subject to subparagraph (N)(ii), would assist participants who are members of households participating in the supplemental nutrition assistance program in gaining high-quality, work-relevant skills, training, work, or experience that will increase the ability of the participants to obtain regular employment; (BB) subject to subparagraph (N)(ii), would provide participants with not less than 20 hours per week of training, work, or experience under subitem (AA); (CC) would not use any funds authorized to be appropriated by this chapter; (DD) would provide sufficient information, on request by the State agency, for the State agency to determine that participants who are members of households participating in the supplemental nutrition assistance program are fulfilling any applicable work requirement under this subsection or subsection ( o ); (EE) would be willing to serve as a reference for participants who are members of households participating in the supplemental nutrition assistance program for future employment or work-related programs; and (FF) meets any other criteria established by the Secretary, on the condition that the Secretary shall not establish any additional criteria that would impose significant paperwork burdens on the workforce partnership; and
+
+(cc) is in compliance with the Fair Labor Standards Act of 1938 ( 29 U.S.C. 201 et seq.), if applicable.
+
+Inclusion
+
+Requirements for participation for certain individuals.—
+
+In general
+
+Variation
+
+Application to workforce partnerships
+
+Limitation on funding
+
+Workforce partnerships.—
+
+Certification
+
+Supplement, not supplant
+
+Participation
+
+(aa) maintain a list of workforce partnerships certified under subparagraph (B)(ii)(I)(bb); and
+
+(bb) not less frequently than at certification and recertification, provide to a household member subject to work requirements under subsection (d)(1) or subsection ( o ), electronically or by other means, the list described in item (aa); but
+
+Effect.—
+
+In general
+
+Selection
+
+Limitation on reporting requirements
+
+Referral of certain individuals.—
+
+In general
+
+Process
+
+Employment and training program
+
+State agency
+
+Sunset
+
+“The term ‘preceding 36-month period’ in section 6( o ) of the Food Stamp Act of 1977 [now the Food and Nutrition Act of 2008, 7 U.S.C. 2015 ( o )], as added by subsection (a), does not include, with respect to a State, any period before the earlier of—
+
+## Source Credit
+
+*([Pub. L. 88–525, § 6](https://www.govinfo.gov/link/plaw/88/public/525), Aug. 31, 1964, [78 Stat. 704](https://www.govinfo.gov/link/statute/78/704); [Pub. L. 94–339, § 3](https://www.govinfo.gov/link/plaw/94/public/339), July 5, 1976, [90 Stat. 800](https://www.govinfo.gov/link/statute/90/800); [Pub. L. 95–113, title XIII, § 1301](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 964](https://www.govinfo.gov/link/statute/91/964); [Pub. L. 96–58](https://www.govinfo.gov/link/plaw/96/public/58), §§ 5, 9, Aug. 14, 1979, [93 Stat. 391](https://www.govinfo.gov/link/statute/93/391), 392; [Pub. L. 96–249, title I](https://www.govinfo.gov/link/plaw/96/public/249), §§ 109, 110, 114, 115, 139, 140, May 26, 1980, [94 Stat. 359](https://www.govinfo.gov/link/statute/94/359), 361, 370; [Pub. L. 97–35, title I](https://www.govinfo.gov/link/plaw/97/public/35), §§ 108(b), (c), 109, 112, Aug. 13, 1981, [95 Stat. 361](https://www.govinfo.gov/link/statute/95/361), 362; [Pub. L. 97–98, title XIII](https://www.govinfo.gov/link/plaw/97/public/98), §§ 1310, 1311, Dec. 22, 1981, [95 Stat. 1284](https://www.govinfo.gov/link/statute/95/1284), 1285; [Pub. L. 97–253, title I](https://www.govinfo.gov/link/plaw/97/public/253), §§ 145(e), 154–161, 189(b)(1), 190(a), (b), Sept. 8, 1982, [96 Stat. 774](https://www.govinfo.gov/link/statute/96/774), 777, 778, 787; [Pub. L. 98–204](https://www.govinfo.gov/link/plaw/98/public/204), §§ 5, 6, Dec. 2, 1983, [97 Stat. 1385](https://www.govinfo.gov/link/statute/97/1385), 1386; [Pub. L. 99–198, title XV](https://www.govinfo.gov/link/plaw/99/public/198), §§ 1513(b), 1516, 1517(a), Dec. 23, 1985, [99 Stat. 1571–1573](https://www.govinfo.gov/link/statute/99/1571); [Pub. L. 100–435, title II, § 202(b)](https://www.govinfo.gov/link/plaw/100/public/435), (c), title IV, § 404(a)–(d), Sept. 19, 1988, [102 Stat. 1656](https://www.govinfo.gov/link/statute/102/1656), 1665–1667; [Pub. L. 101–624, title XVII](https://www.govinfo.gov/link/plaw/101/public/624), §§ 1723–1726(b)(1), (c), (d), 1727, Nov. 28, 1990, [104 Stat. 3786–3788](https://www.govinfo.gov/link/statute/104/3786); [Pub. L. 102–237, title IX](https://www.govinfo.gov/link/plaw/102/public/237), §§ 907, 941(3), Dec. 13, 1991, [105 Stat. 1885](https://www.govinfo.gov/link/statute/105/1885), 1892; [Pub. L. 103–66, title XIII](https://www.govinfo.gov/link/plaw/103/public/66), §§ 13922(b), 13942, Aug. 10, 1993, [107 Stat. 675](https://www.govinfo.gov/link/statute/107/675), 677; [Pub. L. 103–225, title I](https://www.govinfo.gov/link/plaw/103/public/225), §§ 101(a), 104(b), Mar. 25, 1994, [108 Stat. 106](https://www.govinfo.gov/link/statute/108/106), 107; [Pub. L. 103–296, title I, § 108(f)(1)](https://www.govinfo.gov/link/plaw/103/public/296), (2), Aug. 15, 1994, [108 Stat. 1486](https://www.govinfo.gov/link/statute/108/1486), 1487; [Pub. L. 104–193, title I, § 109(b)](https://www.govinfo.gov/link/plaw/104/public/193), title VIII, §§ 813–815(a), 816, 817(a), 818, 819(a), (c), 820–824(a), Aug. 22, 1996, [110 Stat. 2169](https://www.govinfo.gov/link/statute/110/2169), 2314, 2315, 2318, 2320–2323; [Pub. L. 104–208, div. C, title III, § 308(g)(7)(D)(i)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–624](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 105–33, title I, § 1001](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 251](https://www.govinfo.gov/link/statute/111/251); [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(2)(B), (f)(2)(B)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–418, 2681–429; [Pub. L. 107–171, title IV](https://www.govinfo.gov/link/plaw/107/public/171), §§ 4109, 4115(b)(2), 4121(c), May 13, 2002, [116 Stat. 309](https://www.govinfo.gov/link/statute/116/309), 315, 324; [Pub. L. 110–234, title IV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 4001(b), 4002(a)(3), 4105, 4108, 4112, 4115(b)(4), 4131, May 22, 2008, [122 Stat. 1092](https://www.govinfo.gov/link/statute/122/1092), 1101, 1102, 1106, 1114; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, §§ 4001(b), 4002(a)(3), 4105, 4108, 4112, 4115(b)(4), 4131, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1853, 1862–1864, 1868, 1875; [Pub. L. 113–79, title IV](https://www.govinfo.gov/link/plaw/113/public/79), §§ 4007, 4008(a), 4009(a), 4030(d), Feb. 7, 2014, [128 Stat. 787–789](https://www.govinfo.gov/link/statute/128/787), 814; [Pub. L. 113–128, title V, § 512](https://www.govinfo.gov/link/plaw/113/public/128) (l)(2), July 22, 2014, [128 Stat. 1709](https://www.govinfo.gov/link/statute/128/1709); [Pub. L. 115–334, title IV, § 4005(a)](https://www.govinfo.gov/link/plaw/115/public/334), (b), Dec. 20, 2018, [132 Stat. 4627–4631](https://www.govinfo.gov/link/statute/132/4627); [Pub. L. 118–5, div. C, title II](https://www.govinfo.gov/link/plaw/118/public/5), §§ 311(a), 312, June 3, 2023, [137 Stat. 36](https://www.govinfo.gov/link/statute/137/36), 37; [Pub. L. 119–21, title I](https://www.govinfo.gov/link/plaw/119/public/21), §§ 10102, 10108, July 4, 2025, [139 Stat. 81](https://www.govinfo.gov/link/statute/139/81), 85.)*

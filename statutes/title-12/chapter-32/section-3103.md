@@ -3,9 +3,10 @@ title: "Section 3103 - Interstate banking by foreign banks"
 usc_title: 12
 usc_section: "3103"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3103"
-generated_at: "2026-03-30T02:53:53.490Z"
+generated_at: "2026-11-23T21:25:37.121Z"
+status: "active"
 ---
 
 # § 3103. Interstate banking by foreign banks
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:53:53.490Z"
 - **(d)** In the case of a foreign bank that has a domestic bank subsidiary within the United States—
   - **(1)** the fact that such bank controls a domestic bank shall not affect the authority of the foreign bank to establish Federal and State branches or agencies to the extent permitted under subsection (a); and
   - **(2)** the fact that the domestic bank is controlled by a foreign bank which has Federal or State branches or agencies in States other than the home State of such domestic bank shall not affect the authority of the domestic bank to establish branches outside the home State of the domestic bank to the extent permitted under section 36(g) of this title or section 1828(d)(4) or 1831u of this title, as the case may be.
+
+## Source Credit
+
+*([Pub. L. 95–369, § 5](https://www.govinfo.gov/link/plaw/95/public/369), Sept. 17, 1978, [92 Stat. 613](https://www.govinfo.gov/link/statute/92/613); [Pub. L. 103–328, title I](https://www.govinfo.gov/link/plaw/103/public/328), §§ 104, 107(f), Sept. 29, 1994, [108 Stat. 2354](https://www.govinfo.gov/link/statute/108/2354), 2361; [Pub. L. 106–102, title VII, § 732](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1478](https://www.govinfo.gov/link/statute/113/1478).)*

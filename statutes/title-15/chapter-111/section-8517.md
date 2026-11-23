@@ -3,9 +3,10 @@ title: "Section 8517 - Observing System Simulation Experiments"
 usc_title: 15
 usc_section: "8517"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8517"
-generated_at: "2026-03-30T02:54:08.230Z"
+generated_at: "2026-11-23T21:25:40.085Z"
+status: "active"
 ---
 
 # § 8517. Observing System Simulation Experiments
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:08.230Z"
   - **(1)** Not later than 30 days after April 18, 2017 , the Assistant Administrator for Oceanic and Atmospheric Research shall complete an Observing System Simulation Experiment to assess the value of data from Global Navigation Satellite System Radio Occultation.
   - **(2)** Not later than 120 days after April 18, 2017 , the Assistant Administrator for Oceanic and Atmospheric Research shall complete an Observing System Simulation Experiment to assess the value of data from a geostationary hyperspectral sounder global constellation.
 - **(e)** Upon completion of all Observing System Simulation Experiments, the Assistant Administrator shall make available to the public the results an assessment 1 1 So in original. of related private and public sector weather data sourcing options, including their availability, affordability, and cost-effectiveness. Such assessments shall be developed in accordance with section 50503 of title 51 .
+
+## Source Credit
+
+*([Pub. L. 115–25, title I, § 107](https://www.govinfo.gov/link/plaw/115/public/25), Apr. 18, 2017, [131 Stat. 96](https://www.govinfo.gov/link/statute/131/96).)*

@@ -3,9 +3,10 @@ title: "Section 1087j - Loan cancellation for teachers"
 usc_title: 20
 usc_section: "1087j"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1087j"
-generated_at: "2026-03-30T02:54:48.126Z"
+generated_at: "2026-11-23T21:25:47.156Z"
+status: "active"
 ---
 
 # § 1087j. Loan cancellation for teachers
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:48.126Z"
     - **(C)** subtitle D of title I of the National and Community Service Act of 1990 ( 42 U.S.C. 12601 et seq.).
   - **(3)** An individual who is employed as a teacher in a private school and is exempt from State certification requirements (unless otherwise applicable under State law), may, in lieu of the requirement of subsection (b)(1)(B), have such employment treated as qualifying employment under this section if such individual is permitted to and does satisfy rigorous subject knowledge and skills tests by taking competency tests in the applicable grade levels and subject areas. For such purposes, the competency tests taken by such a private school teacher shall be recognized by 5 or more States for the purpose of fulfilling the highly qualified teacher requirements under section 9101 1 of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 7801 ], and the score achieved by such teacher on each test shall equal or exceed the average passing score of those 5 States.
 - **(h)** For the purpose of this section, the term “year” where applied to service as a teacher means an academic year as defined by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 460](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title IV, § 456](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1719](https://www.govinfo.gov/link/statute/112/1719); amended [Pub. L. 108–409, § 3(a)(1)(B)](https://www.govinfo.gov/link/plaw/108/public/409), (b)(2), Oct. 30, 2004, [118 Stat. 2300](https://www.govinfo.gov/link/statute/118/2300), 2301; [Pub. L. 109–171, title VIII, § 8013(e)(2)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 167](https://www.govinfo.gov/link/statute/120/167); [Pub. L. 110–315, title IV, § 454](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3265](https://www.govinfo.gov/link/statute/122/3265); [Pub. L. 111–39, title IV, § 404(b)(4)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1946](https://www.govinfo.gov/link/statute/123/1946).)*

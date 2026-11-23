@@ -3,9 +3,10 @@ title: "Section 47145 - Pilot program for airport accessibility"
 usc_title: 49
 usc_section: "47145"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 47145"
-generated_at: "2026-03-30T02:56:19.406Z"
+generated_at: "2026-11-23T21:26:40.989Z"
+status: "active"
 ---
 
 # § 47145. Pilot program for airport accessibility
@@ -44,3 +45,35 @@ generated_at: "2026-03-30T02:56:19.406Z"
   - **(2)** The term “disability advisory committee” means a body of stakeholders (including airport staff, airline representatives, and individuals with disabilities) that provide to airports and appropriate transportation authorities input from individuals with disabilities, including identifying opportunities for removing barriers, expanding accessibility features, and improving accessibility for individuals with disabilities at airports.
   - **(3)** The term “protection and advocacy system” means a system established in accordance with section 143 of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ( 42 U.S.C. 15043 ).
 - **(i)** Notwithstanding any other provision of this chapter, for each of fiscal years 2025 through 2028, the Secretary may use up to $20,000,000 of the amounts that would otherwise be used to make grants from the discretionary fund under section 47115 for each such fiscal year to carry out this section.
+
+In General
+
+Use of Funds.—
+
+In general
+
+Limitation
+
+Eligibility
+
+Selection Criteria
+
+Accessibility Commitment
+
+Coordination With Disability Advocacy Entities
+
+Federal Share of Costs
+
+Definitions
+
+Center for independent living
+
+Disability advisory committee
+
+Protection and advocacy system
+
+Funding
+
+## Source Credit
+
+*(Added [Pub. L. 118–63, title VII, § 725(a)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1267](https://www.govinfo.gov/link/statute/138/1267).)*

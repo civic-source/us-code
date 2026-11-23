@@ -3,9 +3,10 @@ title: "Section 6361 - Grants for State assessments and related activities"
 usc_title: 20
 usc_section: "6361"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6361"
-generated_at: "2026-03-30T02:54:48.197Z"
+generated_at: "2026-11-23T21:25:47.507Z"
+status: "active"
 ---
 
 # § 6361. Grants for State assessments and related activities
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:48.197Z"
       - **(ii)** is derived from existing State and local reporting requirements.
 - **(b)** Nothing in subsection (a)(2)(M) shall be construed as authorizing, requiring, or allowing any additional reporting requirements, data elements, or information to be reported to the Secretary unless such reporting, data, or information is explicitly authorized under this chapter.
 - **(c)** Each State educational agency receiving a grant under this section shall submit an annual report to the Secretary describing the State’s activities under the grant and the result of such activities.
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1201](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title I, § 1201](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1879](https://www.govinfo.gov/link/statute/129/1879).)*

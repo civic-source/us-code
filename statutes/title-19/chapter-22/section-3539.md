@@ -3,9 +3,10 @@ title: "Section 3539 - Fund for WTO dispute settlements"
 usc_title: 19
 usc_section: "3539"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 3539"
-generated_at: "2026-03-30T02:54:24.693Z"
+generated_at: "2026-11-23T21:25:42.845Z"
+status: "active"
 ---
 
 # § 3539. Fund for WTO dispute settlements
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:24.693Z"
   - **(1)** $50,000,000; and
   - **(2)** amounts equivalent to amounts recovered by the United States pursuant to the settlement of disputes pursuant to proceedings under the auspices of the World Trade Organization.
 - **(d)** Sections 9601 and 9602(b) of title 26 shall apply to the fund established under subsection (a) to the same extent as such provisions apply to trust funds established under subchapter A of chapter 98 of such title.
+
+## Source Credit
+
+*([Pub. L. 107–210, div. E, title L, § 5201](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 1047](https://www.govinfo.gov/link/statute/116/1047).)*

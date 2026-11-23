@@ -3,9 +3,10 @@ title: "Section 1 - Annual report on nuclear transfer activities"
 usc_title: 22
 usc_section: "1"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1"
-generated_at: "2026-03-30T02:55:05.366Z"
+generated_at: "2026-11-23T21:25:58.493Z"
+status: "active"
 ---
 
 # § 2429a–1. Annual report on nuclear transfer activities
@@ -14,3 +15,7 @@ Beginning with the fiscal year 1983 and for each fiscal year thereafter, the Pre
 
   - **(1)** the extent and effectiveness of International Atomic Energy Agency safeguards at that country’s nuclear facilities; and
   - **(2)** the capability, actions, and intentions of the government of that country with respect to the manufacture or acquisition of a nuclear explosive device.
+
+## Source Credit
+
+*([Pub. L. 97–113, title VII, § 735](https://www.govinfo.gov/link/plaw/97/public/113), Dec. 29, 1981, [95 Stat. 1561](https://www.govinfo.gov/link/statute/95/1561); [Pub. L. 103–236, title VIII, § 826(c)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 519](https://www.govinfo.gov/link/statute/108/519).)*

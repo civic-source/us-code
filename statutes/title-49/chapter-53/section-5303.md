@@ -3,9 +3,10 @@ title: "Section 5303 - Metropolitan transportation planning"
 usc_title: 49
 usc_section: "5303"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 5303"
-generated_at: "2026-03-30T02:56:19.308Z"
+generated_at: "2026-11-23T21:26:40.627Z"
+status: "active"
 ---
 
 # § 5303. Metropolitan transportation planning
@@ -264,3 +265,464 @@ generated_at: "2026-03-30T02:56:19.308Z"
     - **(A)** a metropolitan planning organization;
     - **(B)** a transportation management area under subsection (k); and
     - **(C)** an urbanized area, which is comprised of a population of 145,000 and 25 square miles of land area and 25 square miles of land area 1 1 So in original. in the State of California and a population of 65,000 and 12 square miles of land area and 12 square miles of land area 1 in the State of Nevada.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5303(a) | 49 App.:1607(a) (2d–last sentences). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 8(a) (2d–last sentences)–(g), (n); added Nov. 6, 1978 , Pub. L. 95–599, § 305(b) , 92 Stat. 2743 ; Apr. 2, 1987 , Pub. L. 100–17, § 310 , 101 Stat. 227 ; restated Dec. 18, 1991 , Pub. L. 102–240, § 3012 , 105 Stat. 2098 , 2104. |
+| 5303(b) | 49 App.:1607(f). |  |
+| 5303(c)(1) | 49 App.:1607(b)(1). |  |
+| 5303(c)(2) | 49 App.:1607(b)(2). |  |
+| 5303(c)(3) | 49 App.:1607(b)(6). |  |
+| 5303(c)(4) | 49 App.:1607(b)(4). |  |
+| 5303(c)(5) | 49 App.:1607(b)(5). |  |
+| 5303(c)(6) | 49 App.:1607(b)(3). |  |
+| 5303(d) | 49 App.:1607(c). |  |
+| 5303(e) | 49 App.:1607(d), (e). |  |
+| 5303(f) | 49 App.:1607(g). |  |
+| 5303(g) | 49 App.:1607(n). |  |
+| 5303(h) | 49 App.:1607(p). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 8(p); added Nov. 6, 1978 , Pub. L. 95–599, § 305(b) , 92 Stat. 2743 ; Apr. 2, 1987 , Pub. L. 100–17, § 310 , 101 Stat. 227 ; restated Dec. 18, 1991 , Pub. L. 102–240, § 3012 , 105 Stat. 2105 ; Oct. 6, 1992 , Pub. L. 102–388, § 502(h) , 106 Stat. 1566 . |
+
+
+Policy
+
+Definitions
+
+Metropolitan planning area
+
+Metropolitan planning organization
+
+Nonmetropolitan area
+
+Nonmetropolitan local official
+
+Regional transportation planning organization
+
+Urbanized area
+
+General Requirements.—
+
+Development of long-range plans and tips
+
+Contents
+
+Process of development
+
+Designation of Metropolitan Planning Organizations.—
+
+In general
+
+Structure
+
+Representation.—
+
+In general
+
+Public transportation representative
+
+Powers of certain officials
+
+Considerations
+
+Limitation on statutory construction
+
+Continuing designation
+
+Redesignation procedures.—
+
+In general
+
+Restructuring
+
+Designation of more than 1 metropolitan planning organization
+
+Metropolitan Planning Area Boundaries.—
+
+In general
+
+Included area
+
+Identification of new urbanized areas within existing planning area boundaries
+
+Existing metropolitan planning areas in nonattainment.—
+
+In general
+
+Exception
+
+New metropolitan planning areas in nonattainment
+
+Coordination in Multistate Areas.—
+
+In general
+
+Interstate compacts
+
+Reservation of rights
+
+Consultation in Plan and TIP Coordination.—
+
+Nonattainment areas
+
+Transportation improvements located in multiple mpos
+
+Relationship with other planning officials.—
+
+In general
+
+Requirements
+
+Coordination between mpos
+
+Savings clause
+
+Scope of Planning Process.—
+
+In general
+
+Performance-based approach.—
+
+In general
+
+Performance targets.—
+
+Surface transportation performance targets.—
+
+In general
+
+Coordination
+
+Public transportation performance targets
+
+Timing
+
+Integration of other performance-based plans
+
+Failure to consider factors
+
+Development of Transportation Plan.—
+
+Requirements.—
+
+In general
+
+Frequency.—
+
+In general
+
+Other areas
+
+Transportation plan
+
+Identification of transportation facilities.—
+
+In general
+
+Factors
+
+Performance measures and targets
+
+System performance report
+
+Mitigation activities.—
+
+In general
+
+Consultation
+
+Financial plan.—
+
+In general
+
+Inclusions
+
+Cooperative development
+
+Operational and management strategies
+
+Capital investment and other strategies
+
+Transportation and transit enhancement activities
+
+Coordination with clean air act agencies
+
+Optional scenario development.—
+
+In general
+
+Recommended components
+
+Metrics
+
+Consultation.—
+
+In general
+
+Issues
+
+Participation by interested parties.—
+
+In general
+
+Contents of participation plan
+
+Methods
+
+Use of technology
+
+Publication
+
+Selection of projects from illustrative list
+
+Metropolitan TIP.—
+
+Development.—
+
+In general
+
+Opportunity for comment
+
+Funding estimates
+
+Updating and approval
+
+Contents.—
+
+Priority list
+
+Financial plan
+
+Descriptions
+
+Performance target achievement
+
+Included projects.—
+
+Projects under this chapter and title 23
+
+Projects under chapter 2 of title 23.—
+
+Regionally significant projects
+
+Other projects
+
+Consistency with long-range transportation plan
+
+Requirement of anticipated full funding
+
+Notice and comment
+
+Selection of projects.—
+
+In general
+
+Modifications to project priority
+
+Selection of projects from illustrative list.—
+
+No required selection
+
+Required action by the secretary
+
+Publication.—
+
+Publication of tips
+
+Publication of annual listings of projects.—
+
+In general
+
+Requirement
+
+Transportation Management Areas.—
+
+Identification and designation.—
+
+Required identification
+
+Designations on request
+
+Transportation plans
+
+Congestion management process.—
+
+In general
+
+Schedule
+
+Congestion management plan
+
+Participation
+
+Housing coordination process.—
+
+In general
+
+Coordination in integrated planning process
+
+Housing coordination plan.—
+
+In general
+
+Contents
+
+(aa) better connect housing and employment while mitigating commuting times;
+
+(bb) align transportation improvements with housing needs, such as housing supply shortages, and proposed housing development;
+
+(cc) align planning for housing and transportation to address needs in relationship to household incomes within the metropolitan planning area;
+
+(dd) expand housing and economic development within the catchment areas of existing transportation facilities and public transportation services when appropriate, including higher-density development, as locally determined;
+
+(ee) manage effects of growth of vehicle miles traveled experienced in the metropolitan planning area related to housing development and economic development;
+
+(ff) increase share of households with sufficient and affordable access to the transportation networks of the metropolitan planning area;
+
+Selection of projects.—
+
+In general
+
+National highway system projects
+
+Certification.—
+
+In general
+
+Requirements for certification
+
+Effect of failure to certify.—
+
+Withholding of project funds
+
+Restoration of withheld funds
+
+Review of certification
+
+Report on Performance-based Planning Processes.—
+
+In general
+
+Report
+
+Publication
+
+Abbreviated Plans for Certain Areas.—
+
+In general
+
+Nonattainment areas
+
+Additional Requirements for Certain Nonattainment Areas.—
+
+In general
+
+Applicability
+
+Limitation on Statutory Construction
+
+Funding
+
+Continuation of Current Review Practice
+
+Bi-State Metropolitan Planning Organization.—
+
+Definition of bi-state mpo region
+
+Treatment
+
+Historical and Revision Notes
+
+Pub. L
+
+5303(a)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 305(b)
+
+92 Stat. 2743
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 310
+
+101 Stat. 227
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3012
+
+105 Stat. 2098
+
+5303(b)
+
+5303(c)(1)
+
+5303(c)(2)
+
+5303(c)(3)
+
+5303(c)(4)
+
+5303(c)(5)
+
+5303(c)(6)
+
+5303(d)
+
+5303(e)
+
+5303(f)
+
+5303(g)
+
+5303(h)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 305(b)
+
+92 Stat. 2743
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 310
+
+101 Stat. 227
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3012
+
+105 Stat. 2105
+
+Oct. 6, 1992
+
+Pub. L. 102–388, § 502(h)
+
+106 Stat. 1566
+
+Definitions
+
+Eligible project
+
+Secretary
+
+General authority
+
+Eligibility
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 788](https://www.govinfo.gov/link/statute/108/788); [Pub. L. 104–287, § 5(10)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3389](https://www.govinfo.gov/link/statute/110/3389); [Pub. L. 105–102, § 2(4)](https://www.govinfo.gov/link/plaw/105/public/102), Nov. 20, 1997, [111 Stat. 2204](https://www.govinfo.gov/link/statute/111/2204); [Pub. L. 105–178, title III](https://www.govinfo.gov/link/plaw/105/public/178), §§ 3004, 3029(b)(1)–(3), June 9, 1998, [112 Stat. 341](https://www.govinfo.gov/link/statute/112/341), 372; [Pub. L. 105–206, title IX, § 9009(b)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 852](https://www.govinfo.gov/link/statute/112/852); [Pub. L. 109–59, title III, § 3005(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1547](https://www.govinfo.gov/link/statute/119/1547); [Pub. L. 110–244, title II, § 201(b)](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1609](https://www.govinfo.gov/link/statute/122/1609); [Pub. L. 112–141, div. B, § 20005(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 628](https://www.govinfo.gov/link/statute/126/628); [Pub. L. 114–94, div. A, title III, § 3003(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1447](https://www.govinfo.gov/link/statute/129/1447); [Pub. L. 114–322, title III, § 3603(f)(3)](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1789](https://www.govinfo.gov/link/statute/130/1789); [Pub. L. 115–31, div. K, title I, § 192](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 756](https://www.govinfo.gov/link/statute/131/756); [Pub. L. 117–58, div. C, § 30002](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 890](https://www.govinfo.gov/link/statute/135/890).)*

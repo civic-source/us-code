@@ -3,9 +3,10 @@ title: "Section 173 - Rural surface transportation grant program"
 usc_title: 23
 usc_section: "173"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 173"
-generated_at: "2026-03-30T02:55:12.563Z"
+generated_at: "2026-11-23T21:25:53.907Z"
+status: "active"
 ---
 
 # § 173. Rural surface transportation grant program
@@ -89,3 +90,87 @@ generated_at: "2026-03-30T02:55:12.563Z"
       - **(i)** the adequacy and fairness of the process by which each project was selected, if applicable; and
       - **(ii)** the justification and criteria used for the selection of each project, if applicable.
 - **(o)** Notwithstanding any other provision of law, a project assisted under this section shall be treated as a project on a Federal-aid highway under this chapter.
+
+Definitions
+
+Program
+
+Rural area
+
+Establishment.—
+
+In general
+
+Goals
+
+Grant administration
+
+Eligible Entities
+
+Applications
+
+Eligible Projects.—
+
+In general
+
+Bundling of eligible projects.—
+
+In general
+
+Itemization
+
+Eligible Project Costs
+
+Project Requirements
+
+Additional Considerations
+
+Grant Amount
+
+Federal Share.—
+
+In general
+
+Federal share for certain projects
+
+Use of other federal assistance
+
+Set Asides.—
+
+Small projects
+
+Appalachian development highway system
+
+Rural roadway lane departures
+
+Excess funding
+
+Congressional Review.—
+
+Notification
+
+Committee review
+
+Congressional disapproval
+
+Transparency.—
+
+In general
+
+Briefing
+
+Reports.—
+
+Annual report
+
+Comptroller general.—
+
+Assessment
+
+Report
+
+Treatment of Projects
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. A, title I, § 11132(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 510](https://www.govinfo.gov/link/statute/135/510).)*

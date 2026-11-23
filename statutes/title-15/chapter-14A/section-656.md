@@ -3,9 +3,10 @@ title: "Section 656 - Women’s Business Center program"
 usc_title: 15
 usc_section: "656"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 656"
-generated_at: "2026-03-30T02:54:08.105Z"
+generated_at: "2026-11-23T21:25:39.691Z"
+status: "active"
 ---
 
 # § 656. Women’s Business Center program
@@ -131,3 +132,15 @@ generated_at: "2026-03-30T02:54:08.105Z"
 - **(o)**
   - **(1)** The Administrator shall periodically conduct a study to identify industries, as defined under the North American Industry Classification System, underrepresented by small business concerns owned and controlled by women.
   - **(2)** Not later than 3 years after January 2, 2013 , and every 5 years thereafter, the Administrator shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report on the results of each study under paragraph (1) conducted during the 5-year period ending on the date of the report.
+
+In general
+
+Extension of contracts
+
+In general
+
+Terms of assistance for certain organizations
+
+## Source Credit
+
+*([Pub. L. 85–536, § 2[29]](https://www.govinfo.gov/link/plaw/85/public/536), formerly § 2[28], as added [Pub. L. 102–191, § 2](https://www.govinfo.gov/link/plaw/102/public/191), Dec. 5, 1991, [105 Stat. 1589](https://www.govinfo.gov/link/statute/105/1589); renumbered § 2[29] and amended [Pub. L. 103–403, title IV](https://www.govinfo.gov/link/plaw/103/public/403), §§ 411, 412, Oct. 22, 1994, [108 Stat. 4192](https://www.govinfo.gov/link/statute/108/4192), 4193; [Pub. L. 105–135, title III, § 308(a)](https://www.govinfo.gov/link/plaw/105/public/135), Dec. 2, 1997, [111 Stat. 2611](https://www.govinfo.gov/link/statute/111/2611); [Pub. L. 106–17](https://www.govinfo.gov/link/plaw/106/public/17), §§ 2(a), 3, Apr. 6, 1999, [113 Stat. 27](https://www.govinfo.gov/link/statute/113/27); [Pub. L. 106–165](https://www.govinfo.gov/link/plaw/106/public/165), §§ 2–4(b), Dec. 9, 1999, [113 Stat. 1795–1798](https://www.govinfo.gov/link/statute/113/1795); [Pub. L. 110–28, title VIII, § 8305(a)](https://www.govinfo.gov/link/plaw/110/public/28), (b), May 25, 2007, [121 Stat. 209](https://www.govinfo.gov/link/statute/121/209), 210; [Pub. L. 111–240, title I, § 1401(b)](https://www.govinfo.gov/link/plaw/111/public/240), (c)(2), Sept. 27, 2010, [124 Stat. 2549](https://www.govinfo.gov/link/statute/124/2549), 2550; [Pub. L. 112–239, div. A, title XVI, § 1697(b)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2091](https://www.govinfo.gov/link/statute/126/2091); [Pub. L. 113–291, div. A, title VIII, § 825(c)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3438](https://www.govinfo.gov/link/statute/128/3438).)*

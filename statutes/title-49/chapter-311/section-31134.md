@@ -3,9 +3,10 @@ title: "Section 31134 - Requirement for registration and USDOT number"
 usc_title: 49
 usc_section: "31134"
 chapter: 311
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 31134"
-generated_at: "2026-03-30T02:56:19.358Z"
+generated_at: "2026-11-23T21:26:40.782Z"
+status: "active"
 ---
 
 # § 31134. Requirement for registration and USDOT number
@@ -23,3 +24,17 @@ generated_at: "2026-03-30T02:56:19.358Z"
   - **(4)** the employer or person refused to submit to the safety review required by section 31144(g) of this title .
 - **(d)** The Secretary may require an employer to update a registration under this section not later than 30 days after a change in the employer’s address, other contact information, officers, process agent, or other essential information, as determined by the Secretary.
 - **(e)** Nothing in this section shall be construed as affecting the authority of a State to issue a Department of Transportation number under State law to a person operating in intrastate commerce.
+
+In General
+
+Withholding Registration
+
+Revocation or Suspension of Registration
+
+Periodic Registration Update
+
+State Authority
+
+## Source Credit
+
+*(Added [Pub. L. 112–141, div. C, title II, § 32105(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 780](https://www.govinfo.gov/link/statute/126/780).)*

@@ -3,9 +3,10 @@ title: "Section 3018 - Reports to Congress"
 usc_title: 42
 usc_section: "3018"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3018"
-generated_at: "2026-03-30T02:56:11.172Z"
+generated_at: "2026-11-23T21:26:32.470Z"
+status: "active"
 ---
 
 # § 3018. Reports to Congress
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:56:11.172Z"
   - **(3)** the Special Committee on Aging of the Senate;
   - **(4)** the Committee on Education and Labor of the House of Representatives; and
   - **(5)** the Committee on Appropriations of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 89–73, title II, § 207](https://www.govinfo.gov/link/plaw/89/public/73), formerly § 208, as added [Pub. L. 93–29, title II, § 201(c)](https://www.govinfo.gov/link/plaw/93/public/29), May 3, 1973, [87 Stat. 35](https://www.govinfo.gov/link/statute/87/35); renumbered § 207, [Pub. L. 97–115, § 2(e)(2)](https://www.govinfo.gov/link/plaw/97/public/115), Dec. 29, 1981, [95 Stat. 1596](https://www.govinfo.gov/link/statute/95/1596); amended [Pub. L. 98–459, title II, § 207](https://www.govinfo.gov/link/plaw/98/public/459), Oct. 9, 1984, [98 Stat. 1770](https://www.govinfo.gov/link/statute/98/1770); [Pub. L. 100–175, title I](https://www.govinfo.gov/link/plaw/100/public/175), §§ 103(b), (c), 155(f), Nov. 29, 1987, [101 Stat. 928](https://www.govinfo.gov/link/statute/101/928), 929, 954; [Pub. L. 102–54, § 13(q)(9)(A)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 281](https://www.govinfo.gov/link/statute/105/281); [Pub. L. 102–375, title II, § 208](https://www.govinfo.gov/link/plaw/102/public/375), title VII, § 708(a)(2)(A), (c)(2), title IX, § 904(a)(8), Sept. 30, 1992, [106 Stat. 1214](https://www.govinfo.gov/link/statute/106/1214), 1292, 1306; [Pub. L. 103–171, § 3(a)(13)](https://www.govinfo.gov/link/plaw/103/public/171), Dec. 2, 1993, [107 Stat. 1990](https://www.govinfo.gov/link/statute/107/1990); [Pub. L. 103–437, § 15](https://www.govinfo.gov/link/plaw/103/public/437) (l), Nov. 2, 1994, [108 Stat. 4593](https://www.govinfo.gov/link/statute/108/4593); [Pub. L. 106–501, title II, § 204](https://www.govinfo.gov/link/plaw/106/public/501), title VIII, § 801(b)(4), Nov. 13, 2000, [114 Stat. 2234](https://www.govinfo.gov/link/statute/114/2234), 2292; [Pub. L. 109–365, title II, § 206](https://www.govinfo.gov/link/plaw/109/public/365), Oct. 17, 2006, [120 Stat. 2535](https://www.govinfo.gov/link/statute/120/2535); [Pub. L. 114–144, § 3(d)](https://www.govinfo.gov/link/plaw/114/public/144), Apr. 19, 2016, [130 Stat. 337](https://www.govinfo.gov/link/statute/130/337); [Pub. L. 116–131, title I, § 127(c)](https://www.govinfo.gov/link/plaw/116/public/131), title VII, § 701(4), (5), Mar. 25, 2020, [134 Stat. 253](https://www.govinfo.gov/link/statute/134/253), 271.)*

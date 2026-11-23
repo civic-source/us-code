@@ -3,9 +3,10 @@ title: "Section 4304 - Laurent Clerc National Deaf Education Center"
 usc_title: 20
 usc_section: "4304"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 4304"
-generated_at: "2026-03-30T02:54:48.183Z"
+generated_at: "2026-11-23T21:25:47.436Z"
+status: "active"
 ---
 
 # § 4304. Laurent Clerc National Deaf Education Center
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:54:48.183Z"
       - **(ii)** implement such standards and assessments for such programs by not later than the beginning of the 2016–2017 academic year;
     - **(B)** adopt the accountability system, consistent with section 6311(c) of this title , of the State from which standards and assessments are selected under subparagraph (A)(i); and
     - **(C)** publicly report the results of the academic assessments implemented under subparagraph (A), except where such reporting would not yield statistically reliable information or would reveal personally identifiable information about an individual student, and the results of the annual evaluation of the programs at the Clerc Center, as determined under subparagraph (B).
+
+## Source Credit
+
+*([Pub. L. 99–371, title I, § 104](https://www.govinfo.gov/link/plaw/99/public/371), as added [Pub. L. 102–421, title I, § 112](https://www.govinfo.gov/link/plaw/102/public/421), Oct. 16, 1992, [106 Stat. 2152](https://www.govinfo.gov/link/statute/106/2152); amended [Pub. L. 103–73, title II, § 203(d)](https://www.govinfo.gov/link/plaw/103/public/73), Aug. 11, 1993, [107 Stat. 733](https://www.govinfo.gov/link/statute/107/733); [Pub. L. 105–244, title IX, § 912](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1829](https://www.govinfo.gov/link/statute/112/1829); [Pub. L. 108–446, title III, § 305(d)](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2805](https://www.govinfo.gov/link/statute/118/2805); [Pub. L. 110–315, title IX, § 901](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3450](https://www.govinfo.gov/link/statute/122/3450); [Pub. L. 114–95, title IX, § 9215(ee)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2173](https://www.govinfo.gov/link/statute/129/2173).)*

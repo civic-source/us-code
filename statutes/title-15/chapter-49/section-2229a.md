@@ -3,9 +3,10 @@ title: "Section 2229a - Staffing for adequate fire and emergency response"
 usc_title: 15
 usc_section: "2229a"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2229a"
-generated_at: "2026-03-30T02:54:08.170Z"
+generated_at: "2026-11-23T21:25:39.924Z"
+status: "active"
 ---
 
 # § 2229a. Staffing for adequate fire and emergency response
@@ -78,3 +79,7 @@ generated_at: "2026-03-30T02:54:08.170Z"
   - **(2)** Of the amounts appropriated pursuant to paragraph (1) for a fiscal year, the Administrator of FEMA may use not more than 5 percent of such amounts to cover salaries and expenses and other administrative costs incurred by the Administrator of FEMA to make grants and provide assistance under this section.
   - **(3)** Consistent with the requirement in subsection (a) that grants under this section be awarded on a competitive basis, none of the funds appropriated pursuant to this subsection may be used for any congressionally direct spending item (as defined under the rules of the Senate and the House of Representatives).
 - **(k)** The authority to award assistance and grants under this section shall expire on September 30, 2030 .
+
+## Source Credit
+
+*([Pub. L. 93–498, § 34](https://www.govinfo.gov/link/plaw/93/public/498), as added [Pub. L. 108–136, div. A, title X, § 1057](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1616](https://www.govinfo.gov/link/statute/117/1616); amended [Pub. L. 112–239, div. A, title XVIII, § 1804](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2111](https://www.govinfo.gov/link/statute/126/2111); [Pub. L. 113–66, div. A, title X, § 1091(b)(9)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 876](https://www.govinfo.gov/link/statute/127/876); [Pub. L. 114–255, div. B, title XIV, § 14001(c)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1288](https://www.govinfo.gov/link/statute/130/1288); [Pub. L. 115–98, § 4](https://www.govinfo.gov/link/plaw/115/public/98), Jan. 3, 2018, [131 Stat. 2240](https://www.govinfo.gov/link/statute/131/2240); [Pub. L. 118–67, div. A, § 4](https://www.govinfo.gov/link/plaw/118/public/67), July 9, 2024, [138 Stat. 1447](https://www.govinfo.gov/link/statute/138/1447).)*

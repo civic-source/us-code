@@ -3,9 +3,10 @@ title: "Section 6823 - State and specially qualified agency plans"
 usc_title: 20
 usc_section: "6823"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6823"
-generated_at: "2026-03-30T02:54:48.204Z"
+generated_at: "2026-11-23T21:25:47.536Z"
+status: "active"
 ---
 
 # § 6823. State and specially qualified agency plans
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:54:48.204Z"
     - **(B)** The Secretary shall approve such amendment to an approved plan, unless the Secretary determines that the amendment will result in the agency not meeting the requirements, or fulfilling the purposes, of this subpart.
 - **(e)** A plan submitted under subsection (a) may be submitted as part of a consolidated plan under section 7842 of this title .
 - **(f)** The Secretary shall provide technical assistance, if requested by the State, in the development of English proficiency standards and assessments.
+
+## Source Credit
+
+*([Pub. L. 89–10, title III, § 3113](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title III, § 301](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1694](https://www.govinfo.gov/link/statute/115/1694); amended [Pub. L. 114–95, title III, § 3003(d)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1956](https://www.govinfo.gov/link/statute/129/1956).)*

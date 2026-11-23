@@ -3,9 +3,10 @@ title: "Section 907 - Special rules in case of foreign oil and gas income"
 usc_title: 26
 usc_section: "907"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 907"
-generated_at: "2026-03-30T02:55:27.746Z"
+generated_at: "2026-11-23T21:26:06.432Z"
+status: "active"
 ---
 
 # § 907. Special rules in case of foreign oil and gas income
@@ -78,3 +79,25 @@ generated_at: "2026-03-30T02:55:27.746Z"
   - **(4)**
     - **(A)** In the case of any unused credit year beginning before January 1, 2009 , this subsection, as in effect on the day before the date of the enactment of the Energy Improvement and Extension Act of 2008, shall apply to unused oil and gas extraction taxes carried from such unused credit year to a taxable year beginning after December 31, 2008 .
     - **(B)** In the case of any unused credit year beginning in 2009, the amendments made to this subsection by the Energy Improvement and Extension Act of 2008 shall be treated as being in effect for any preceding year beginning before January 1, 2009 , solely for purposes of determining how much of the unused foreign oil and gas taxes for such unused credit year may be deemed paid or accrued in such preceding year.
+
+Credits arising in taxable years beginning before january 1, 1983
+
+Carryback of credits arising in taxable years beginning after december 31, 1982
+
+In general
+
+Retention of old sections 907
+
+and 904
+
+(4) where taxpayer had separate basket foreign loss.—
+
+In general.—
+
+Definitions.—
+
+“The amendments made by this section [enacting this section and amending section 901 of this title ] shall apply to taxable years ending after December 31, 1974 ; except that—
+
+## Source Credit
+
+*(Added [Pub. L. 94–12, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/94/public/12), Mar. 29, 1975, [89 Stat. 54](https://www.govinfo.gov/link/statute/89/54); amended [Pub. L. 94–455, title X](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1031(b)(6), 1032(b), 1035(a), (b), (d)(1), (2), 1052(c)(4), Oct. 4, 1976, [90 Stat. 1623](https://www.govinfo.gov/link/statute/90/1623), 1626, 1630–1632, 1648; [Pub. L. 95–600, title III, § 301(b)(14)](https://www.govinfo.gov/link/plaw/95/public/600), title VII, § 701(u)(8)(A), (B), Nov. 6, 1978, [92 Stat. 2822](https://www.govinfo.gov/link/statute/92/2822), 2916; [Pub. L. 97–248, title II, § 211(a)](https://www.govinfo.gov/link/plaw/97/public/248) –(c)(1), (d), Sept. 3, 1982, [96 Stat. 448–450](https://www.govinfo.gov/link/statute/96/448); [Pub. L. 100–647, title I, § 1012(g)(6)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3501](https://www.govinfo.gov/link/statute/102/3501); [Pub. L. 101–508, title XI, § 11801(a)(32)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–521](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–66, title XIII, § 13235(a)(1)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 504](https://www.govinfo.gov/link/statute/107/504); [Pub. L. 104–188, title I, § 1704(t)(36)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1889](https://www.govinfo.gov/link/statute/110/1889); [Pub. L. 108–357, title IV, § 417(b)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1512](https://www.govinfo.gov/link/statute/118/1512); [Pub. L. 110–343, div. B, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/110/public/343) –(c), Oct. 3, 2008, [122 Stat. 3852](https://www.govinfo.gov/link/statute/122/3852), 3854; [Pub. L. 113–295, div. A, title II, § 210(e)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4031](https://www.govinfo.gov/link/statute/128/4031); [Pub. L. 115–97, title I, § 14301(c)(24)](https://www.govinfo.gov/link/plaw/115/public/97) –(27), Dec. 22, 2017, [131 Stat. 2223](https://www.govinfo.gov/link/statute/131/2223), 2224; [Pub. L. 115–141, div. U, title IV, § 401(a)(158)](https://www.govinfo.gov/link/plaw/115/public/141), (159), Mar. 23, 2018, [132 Stat. 1191](https://www.govinfo.gov/link/statute/132/1191).)*

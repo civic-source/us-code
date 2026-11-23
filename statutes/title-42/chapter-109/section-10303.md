@@ -3,9 +3,10 @@ title: "Section 10303 - Water resources research and technology institutes"
 usc_title: 42
 usc_section: "10303"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10303"
-generated_at: "2026-03-30T02:56:11.385Z"
+generated_at: "2026-11-23T21:26:33.359Z"
+status: "active"
 ---
 
 # § 10303. Water resources research and technology institutes
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:56:11.385Z"
     - **(C)** advances in water infrastructure and water quality improvements; and
     - **(D)** methods for identifying, and determining the effectiveness of, treatment technologies and efficiencies.
   - **(3)** Nothing in this chapter shall preempt the rights and authorities of any State with respect to its water resources or management of those resources.
+
+## Source Credit
+
+*([Pub. L. 98–242, title I, § 104](https://www.govinfo.gov/link/plaw/98/public/242), Mar. 22, 1984, [98 Stat. 98](https://www.govinfo.gov/link/statute/98/98); [Pub. L. 101–397, § 1(b)](https://www.govinfo.gov/link/plaw/101/public/397) –(h), (m), Sept. 28, 1990, [104 Stat. 852](https://www.govinfo.gov/link/statute/104/852), 853; [Pub. L. 104–147](https://www.govinfo.gov/link/plaw/104/public/147), §§ 3–6, May 24, 1996, [110 Stat. 1376](https://www.govinfo.gov/link/statute/110/1376); [Pub. L. 106–374](https://www.govinfo.gov/link/plaw/106/public/374), Oct. 27, 2000, [114 Stat. 1434](https://www.govinfo.gov/link/statute/114/1434); [Pub. L. 109–471, § 2(a)](https://www.govinfo.gov/link/plaw/109/public/471) –(e), Jan. 11, 2007, [120 Stat. 3552](https://www.govinfo.gov/link/statute/120/3552), 3553; [Pub. L. 117–58, div. E, title II, § 50221](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1180](https://www.govinfo.gov/link/statute/135/1180).)*

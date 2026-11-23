@@ -3,9 +3,10 @@ title: "Section 81c - Prohibited uses of acquired, donated, and conservation lan
 usc_title: 16
 usc_section: "81c"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 81c"
-generated_at: "2026-03-30T02:54:22.774Z"
+generated_at: "2026-11-23T21:25:51.464Z"
+status: "active"
 ---
 
 # § 410aaa–81c. Prohibited uses of acquired, donated, and conservation land
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:54:22.774Z"
     - **(B)** to satisfy the conditions of—
       - **(i)** a habitat conservation plan or general conservation plan established pursuant to section 1539 of this title ; or
       - **(ii)** a natural communities conservation plan approved by the State.
+
+## Source Credit
+
+*([Pub. L. 103–433, title VII, § 714](https://www.govinfo.gov/link/plaw/103/public/433), as added [Pub. L. 116–9, title I, § 1453](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 712](https://www.govinfo.gov/link/statute/133/712).)*

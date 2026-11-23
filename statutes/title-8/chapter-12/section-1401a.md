@@ -3,12 +3,17 @@ title: "Section 1401a - Birth abroad before 1952 to service parent"
 usc_title: 8
 usc_section: "1401a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1401a"
-generated_at: "2026-03-30T02:53:10.500Z"
+generated_at: "2026-11-23T21:25:25.190Z"
+status: "active"
 ---
 
 # § 1401a. Birth abroad before 1952 to service parent
 
 Section 1401(g) of this title shall be considered to have been and to be applicable to a child born outside of the United States and its outlying possessions after January 12, 1941 , and before December 24, 1952 , of parents one of whom is a citizen of the United States who has served in the Armed Forces of the United States after December 31, 1946 , and before December 24, 1952 , and whose case does not come within the provisions of section 201(g) or (i) of the Nationality Act of 1940.
 
+
+## Source Credit
+
+*(Mar. 16, 1956, ch. 85, [70 Stat. 50](https://www.govinfo.gov/link/statute/70/50); [Pub. L. 97–116, § 18(u)(2)](https://www.govinfo.gov/link/plaw/97/public/116), Dec. 29, 1981, [95 Stat. 1621](https://www.govinfo.gov/link/statute/95/1621).)*

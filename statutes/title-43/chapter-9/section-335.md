@@ -3,12 +3,17 @@ title: "Section 335 - Further extension in cases not covered by sections 333 and
 usc_title: 43
 usc_section: "335"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 335"
-generated_at: "2026-03-30T02:55:57.438Z"
+generated_at: "2026-11-23T21:26:19.755Z"
+status: "active"
 ---
 
 # § 335. Further extension in cases not covered by sections 333 and 334 of this title
 
 The Secretary of the Interior may, in his discretion, extend the time within which final proof is required to be submitted upon any lawful pending desert-land entry made prior to March 4, 1915 , such extension not to exceed three years from the date of allowance thereof: Provided , That the entryman or his duly qualified assignee has, in good faith, complied with the requirements of law as to yearly expenditures and proof thereof, and shall show, under rules and regulations to be prescribed by the Secretary of the Interior, that there is a reasonable prospect that, if the extension is granted, he will be able to make the final proof of reclamation, irrigation, and cultivation required by law: Provided further , That the foregoing shall apply only to cases wherein an extension or further extension of time may not properly be allowed under sections 333 and 334 of this title or other law existing prior to March 4, 1915 : Provided further , That in cases where such entries have been assigned prior to March 4, 1915 , the assignees shall, if otherwise qualified, be entitled to the benefit hereof.
 
+
+## Source Credit
+
+*(Mar. 4, 1915, ch. 147, § 5, [38 Stat. 1161](https://www.govinfo.gov/link/statute/38/1161); Mar. 21, 1918, ch. 26, [40 Stat. 458](https://www.govinfo.gov/link/statute/40/458).)*

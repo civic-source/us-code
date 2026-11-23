@@ -3,9 +3,10 @@ title: "Section 431 - Application of chapter 71 of title 5, relating to Federal 
 usc_title: 3
 usc_section: "431"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "3 U.S.C. § 431"
-generated_at: "2026-03-30T02:52:49.879Z"
+generated_at: "2026-11-23T21:25:20.111Z"
+status: "active"
 ---
 
 # § 431. Application of chapter 71 of title 5, relating to Federal service labor-management relations; procedures for remedy of violations
@@ -39,3 +40,29 @@ generated_at: "2026-03-30T02:52:49.879Z"
   - **(2)** Subsections (a) and (b) shall take effect, with respect to employing offices, and employees of employing offices, referred to in subsection (d)(2), on the earlier of—
     - **(A)** the effective date of regulations issued under subsection (d); or
     - **(B)** October 1, 1998 .
+
+Labor-Management Rights
+
+Definition
+
+Regulations To Implement Section.—
+
+In general
+
+Agency regulations
+
+Specific Regulations Regarding Applications to Certain Employing Offices.—
+
+Regulations required
+
+Offices referred to
+
+Effective Date.—
+
+In general
+
+Certain employing offices
+
+## Source Credit
+
+*(Added [Pub. L. 104–331, § 2(a)](https://www.govinfo.gov/link/plaw/104/public/331), Oct. 26, 1996, [110 Stat. 4064](https://www.govinfo.gov/link/statute/110/4064).)*

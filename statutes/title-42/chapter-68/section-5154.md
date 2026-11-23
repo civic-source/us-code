@@ -3,9 +3,10 @@ title: "Section 5154 - Insurance"
 usc_title: 42
 usc_section: "5154"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5154"
-generated_at: "2026-03-30T02:56:11.221Z"
+generated_at: "2026-11-23T21:26:32.748Z"
+status: "active"
 ---
 
 # § 5154. Insurance
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.221Z"
   - **(2)** In making a determination with respect to availability, adequacy, and necessity under paragraph (1), the President shall not require greater types and extent of insurance than are certified to him as reasonable by the appropriate State insurance commissioner responsible for regulation of such insurance.
 - **(b)** No applicant for assistance under section 5172 of this title (relating to repair, restoration, and replacement of damaged facilities), section 5189 of this title (relating to simplified procedure), or section 3149(c)(2) of this title may receive such assistance for any property or part thereof for which the applicant has previously received assistance under this chapter unless all insurance required pursuant to this section has been obtained and maintained with respect to such property. The requirements of this subsection may not be waived under section 5141 of this title .
 - **(c)** A State may elect to act as a self-insurer with respect to any or all of the facilities owned by the State. Such an election, if declared in writing at the time of acceptance of assistance under section 5172 or 5189 of this title or section 3149(c)(2) of this title or subsequently and accompanied by a plan for self-insurance which is satisfactory to the President, shall be deemed compliance with subsection (a). No such self-insurer may receive assistance under section 5172 or 5189 of this title for any property or part thereof for which it has previously received assistance under this chapter, to the extent that insurance for such property or part thereof would have been reasonably available.
+
+## Source Credit
+
+*([Pub. L. 93–288, title III, § 311](https://www.govinfo.gov/link/plaw/93/public/288), as added [Pub. L. 100–707, title I, § 105(h)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4692](https://www.govinfo.gov/link/statute/102/4692); amended [Pub. L. 103–325, title V, § 521](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2257](https://www.govinfo.gov/link/statute/108/2257); [Pub. L. 106–390, title II, § 201](https://www.govinfo.gov/link/plaw/106/public/390), Oct. 30, 2000, [114 Stat. 1559](https://www.govinfo.gov/link/statute/114/1559).)*

@@ -3,9 +3,10 @@ title: "Section 1604 - Program administration"
 usc_title: 30
 usc_section: "1604"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1604"
-generated_at: "2026-03-30T02:55:29.407Z"
+generated_at: "2026-11-23T21:26:00.441Z"
+status: "active"
 ---
 
 # § 1604. Program administration
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:29.407Z"
   - **(2)** increase the level of mining and metallurgical research by the United States Geological Survey in critical and strategic minerals; and
   - **(3)** improve the availability and analysis of mineral data in Federal land use decisionmaking.
 - **(f)** In furtherance of the policies of this chapter, the Secretary of the Interior shall collect, evaluate, and analyze information concerning mineral occurrence, production, and use from industry, academia, and Federal and State agencies. Notwithstanding the provisions of section 552 of title 5 , data and information provided to the Department by persons or firms engaged in any phase of mineral or mineral-material production or large-scale consumption shall not be disclosed outside of the Department of the Interior in a nonaggregated form so as to disclose data and information supplied by a single person or firm, unless there is no objection to the disclosure of such data and information by the donor: Provided, however , That the Secretary may disclose nonaggregated data and information to Federal defense agencies, or to the Congress upon official request for appropriate purposes.
+
+## Source Credit
+
+*([Pub. L. 96–479, § 5](https://www.govinfo.gov/link/plaw/96/public/479), Oct. 21, 1980, [94 Stat. 2307](https://www.govinfo.gov/link/statute/94/2307); [Pub. L. 116–260, div. Z, title VII, § 7002(m)(1)](https://www.govinfo.gov/link/plaw/116/public/260) Dec. 27, 2020, [134 Stat. 2575](https://www.govinfo.gov/link/statute/134/2575).)*

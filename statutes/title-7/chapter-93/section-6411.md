@@ -3,9 +3,10 @@ title: "Section 6411 - Enforcement"
 usc_title: 7
 usc_section: "6411"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6411"
-generated_at: "2026-03-30T02:53:42.430Z"
+generated_at: "2026-11-23T21:25:28.389Z"
+status: "active"
 ---
 
 # § 6411. Enforcement
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:42.430Z"
 - **(e)** Any person who fails to obey a cease-and-desist order after the order has become final and unappealable, or after the appropriate United States district court has entered a final judgment in favor of the Secretary, shall be subject to a civil penalty assessed by the Secretary, after opportunity for a hearing and for judicial review under the procedures specified in subsections (c) and (d), of not more than $5,000 for each offense. Each day during which the failure continues shall be considered as a separate violation of such order.
 - **(f)** If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, or after the appropriate United States district court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in the district court in which the person resides or conducts business. In the action, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
 - **(g)** The remedies provided in this chapter shall be in addition to, and not exclusive of, other remedies that may be available.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1999L](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3922](https://www.govinfo.gov/link/statute/104/3922); [Pub. L. 102–237, title VIII, § 809](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1883](https://www.govinfo.gov/link/statute/105/1883).)*

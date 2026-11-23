@@ -3,9 +3,10 @@ title: "Section 14702 - Enforcement by the regulatory authority"
 usc_title: 49
 usc_section: "14702"
 chapter: 147
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 14702"
-generated_at: "2026-03-30T02:56:19.332Z"
+generated_at: "2026-11-23T21:26:40.694Z"
+status: "active"
 ---
 
 # § 14702. Enforcement by the regulatory authority
@@ -18,3 +19,13 @@ generated_at: "2026-03-30T02:56:19.332Z"
   - **(2)** process may be served without regard to the territorial limits of the district or of the State in which the action is instituted; and
   - **(3)** a person participating with a carrier or broker in a violation may be joined in the civil action without regard to the residence of the person.
 - **(c)** The Board, through its own attorneys, may bring or participate in any civil action involving motor carrier undercharges.
+
+In General
+
+Venue
+
+Standing
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 905](https://www.govinfo.gov/link/statute/109/905).)*

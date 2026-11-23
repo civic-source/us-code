@@ -3,9 +3,10 @@ title: "Section 20147 - Recovery and disposition authority"
 usc_title: 51
 usc_section: "20147"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 20147"
-generated_at: "2026-03-30T02:56:28.704Z"
+generated_at: "2026-11-23T21:26:42.530Z"
+status: "active"
 ---
 
 # § 20147. Recovery and disposition authority
@@ -22,3 +23,40 @@ generated_at: "2026-03-30T02:56:28.704Z"
   - **(1)** Subject to paragraphs (2) and (3), when there is an accident or mishap resulting in the death of a crewmember of an Administration human space flight vehicle, the Administrator may take control over the remains of the crewmember and order autopsies and other scientific or medical tests.
   - **(2)** Each crewmember shall provide the Administrator with the crewmember’s preferences regarding the treatment accorded to the crewmember’s remains and the Administrator shall, to the extent possible, respect those stated preferences.
   - **(3)** This section shall not be construed to permit the Administrator to interfere with any Federal investigation of a mishap or accident.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 20147 | 42 U.S.C. 2459 l . | Pub. L. 85–568, title III, § 317 , as added Pub. L. 109–155, title VII, § 705 , Dec. 30, 2005 , 119 Stat. 2936 . |
+
+
+Definitions
+
+Administration human space flight vehicle
+
+Crewmember
+
+Control of Remains.—
+
+In general
+
+Treatment
+
+Construction
+
+Historical and Revision Notes
+
+20147
+
+42 U.S.C. 2459
+
+Pub. L. 85–568, title III, § 317
+
+Pub. L. 109–155, title VII, § 705
+
+Dec. 30, 2005
+
+119 Stat. 2936
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3353](https://www.govinfo.gov/link/statute/124/3353).)*

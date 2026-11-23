@@ -3,9 +3,10 @@ title: "Section 6283 - Summer fill and fuel budgeting programs"
 usc_title: 42
 usc_section: "6283"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6283"
-generated_at: "2026-03-30T02:56:11.245Z"
+generated_at: "2026-11-23T21:26:32.863Z"
+status: "active"
 ---
 
 # § 6283. Summer fill and fuel budgeting programs
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.245Z"
 - **(d)** There are authorized to be appropriated to carry out this section—
   - **(1)** $25,000,000 for fiscal year 2001; and
   - **(2)** such sums as are necessary for each fiscal year thereafter.
+
+## Source Credit
+
+*([Pub. L. 94–163, title II, § 273](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 106–469, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/106/public/469), Nov. 9, 2000, [114 Stat. 2040](https://www.govinfo.gov/link/statute/114/2040); amended [Pub. L. 109–58, title III, § 301(b)(2)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 683](https://www.govinfo.gov/link/statute/119/683).)*

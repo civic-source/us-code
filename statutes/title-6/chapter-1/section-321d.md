@@ -3,9 +3,10 @@ title: "Section 321d - National Operations Center"
 usc_title: 6
 usc_section: "321d"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 321d"
-generated_at: "2026-03-30T02:53:09.458Z"
+generated_at: "2026-11-23T21:25:25.779Z"
+status: "active"
 ---
 
 # § 321d. National Operations Center
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:09.458Z"
 - **(c)**
   - **(1)** The Secretary shall establish a position, on a rotating basis, for a representative of State and local emergency responders at the National Operations Center established under subsection (b) to ensure the effective sharing of information between the Federal Government and State and local emergency response services.
   - **(2)** The Secretary shall manage the position established pursuant to paragraph (1) in accordance with such rules, regulations, and practices as govern other similar rotating positions at the National Operations Center.
+
+## Source Credit
+
+*([Pub. L. 107–296, title V, § 515](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 109–295, title VI, § 611(13)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1409](https://www.govinfo.gov/link/statute/120/1409); amended [Pub. L. 110–376, § 8](https://www.govinfo.gov/link/plaw/110/public/376), Oct. 8, 2008, [122 Stat. 4060](https://www.govinfo.gov/link/statute/122/4060); [Pub. L. 114–328, div. A, title XIX, § 1909](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2681](https://www.govinfo.gov/link/statute/130/2681).)*

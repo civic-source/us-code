@@ -3,9 +3,10 @@ title: "Section 539l - Designation of James Peak Protection Area, Colorado"
 usc_title: 16
 usc_section: "539l"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 539l"
-generated_at: "2026-03-30T02:54:22.863Z"
+generated_at: "2026-11-23T21:25:51.658Z"
+status: "active"
 ---
 
 # § 539l. Designation of James Peak Protection Area, Colorado
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:54:22.863Z"
     - **(D)** Nothing in this Act shall be construed as limiting, altering, modifying, or amending any of the interstate compacts or equitable apportionment decrees that apportion water among and between the State of Colorado and other States.
   - **(2)** The Secretary shall follow the procedural and substantive requirements of the law of the State of Colorado in order to obtain and hold any new water rights with respect to the Protection Area.
   - **(3)** Nothing in this Act (including the provisions related to establishment or management of the Protection Area) shall affect, impede, interfere with, or diminish the operation, existence, access, maintenance, improvement, or construction of water facilities and infrastructure, rights-of-way, or other water-related property, interests, and uses, (including the use of motorized vehicles and equipment existing or located on lands within the Protection Area) on any lands except those lands managed under the management prescription referred to in subsection (d)(1)(F).
+
+## Source Credit
+
+*([Pub. L. 107–216, § 3](https://www.govinfo.gov/link/plaw/107/public/216), Aug. 21, 2002, [116 Stat. 1056](https://www.govinfo.gov/link/statute/116/1056).)*

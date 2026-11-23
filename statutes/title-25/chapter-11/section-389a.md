@@ -3,12 +3,17 @@ title: "Section 389a - Declaring lands to be temporarily nonirrigable"
 usc_title: 25
 usc_section: "389a"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 389a"
-generated_at: "2026-03-30T02:54:52.806Z"
+generated_at: "2026-11-23T21:25:54.570Z"
+status: "active"
 ---
 
 # § 389a. Declaring lands to be temporarily nonirrigable
 
 Where the Secretary finds that any such lands cannot be cultivated profitably due to a present lack of water supply, proper drainage facilities, or need of additional construction work, he shall declare such lands temporarily nonirrigable for periods not to exceed five years and no charges shall be assessed against such lands during such periods.
 
+
+## Source Credit
+
+*(June 22, 1936, ch. 692, § 2, [49 Stat. 1804](https://www.govinfo.gov/link/statute/49/1804).)*

@@ -3,9 +3,10 @@ title: "Section 2067 - Exemption of exports"
 usc_title: 15
 usc_section: "2067"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2067"
-generated_at: "2026-03-30T02:54:08.164Z"
+generated_at: "2026-11-23T21:25:39.909Z"
+status: "active"
 ---
 
 # § 2067. Exemption of exports
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.164Z"
 - **(b)** Not less than thirty days before any person exports to a foreign country any product which is not in conformity with an applicable consumer product safety rule in effect under this chapter, such person shall file a statement with the Commission notifying the Commission of such exportation, and the Commission, upon receipt of such statement, shall promptly notify the government of such country of such exportation and the basis for such safety standard or rule. Any statement filed with the Commission under the preceding sentence shall specify the anticipated date of shipment of such product, the country and port of destination of such product, and the quantity of such product that will be exported, and shall contain such other information as the Commission may by regulation require. Upon petition filed with the Commission by any person required to file a statement under this subsection respecting an exportation, the Commission may, for good cause shown, exempt such person from the requirement of this subsection that such a statement be filed no less than thirty days before the date of the exportation, except that in no case shall the Commission permit such a statement to be filed later than the tenth day before such date.
 - **(c)** The Commission may prohibit a person from exporting from the United States for purpose of sale any consumer product that is not in conformity with an applicable consumer product safety rule under this chapter, unless the importing country has notified the Commission that such country accepts the importation of such consumer product, provided that if the importing country has not so notified the Commission within 30 days after the Commission has provided notice to the importing country of the impending shipment, the Commission may take such action as appropriate within its authority with respect to the disposition of the product under the circumstances.
 - **(d)** Nothing in this section shall apply to any consumer product, the export of which is permitted by the Secretary of the Treasury pursuant to section 2066(e) of this title .
+
+## Source Credit
+
+*([Pub. L. 92–573, § 18](https://www.govinfo.gov/link/plaw/92/public/573), Oct. 27, 1972, [86 Stat. 1224](https://www.govinfo.gov/link/statute/86/1224); [Pub. L. 95–631, § 6(a)](https://www.govinfo.gov/link/plaw/95/public/631), Nov. 10, 1978, [92 Stat. 3745](https://www.govinfo.gov/link/statute/92/3745); [Pub. L. 110–314, title II, § 221(a)](https://www.govinfo.gov/link/plaw/110/public/314), Aug. 14, 2008, [122 Stat. 3065](https://www.govinfo.gov/link/statute/122/3065).)*

@@ -3,9 +3,10 @@ title: "Section 3744 - Specific costs not allowable"
 usc_title: 10
 usc_section: "3744"
 chapter: 273
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3744"
-generated_at: "2026-03-30T02:53:38.196Z"
+generated_at: "2026-11-23T21:25:32.737Z"
+status: "active"
 ---
 
 # § 3744. Specific costs not allowable
@@ -47,3 +48,31 @@ generated_at: "2026-03-30T02:53:38.196Z"
     - **(A)** The term “military banking contract” means a contract between the Secretary and a financial institution under which the financial institution operates a military banking facility outside the United States for use by members of the armed forces stationed or deployed outside the United States and other authorized personnel.
     - **(B)** The term “mandated foreign national severance pay” means severance pay paid by a contractor to a foreign national employee the payment of which by the contractor is required in order to comply with a law that is generally applicable to a significant number of businesses in the country in which the foreign national receiving the payment performed services under the contract.
   - **(3)** Paragraph (1) does not apply to a contract with a financial institution that is owned or controlled by citizens or nationals of a foreign country, as determined by the Secretary of Defense. Such a determination shall be made in accordance with the criteria set out in paragraph (1) of section 4(g) of the Buy American Act (as added by section 7002(2) of the Omnibus Trade and Competitiveness Act of 1988) and the policy guidance referred to in paragraph (2)(A) of that section.
+
+Specific Costs
+
+Waiver of Severance Pay Restrictions for Foreign Nationals.—
+
+Head of an agency determination
+
+Solicitation to include statement about waiver
+
+Determination to be made before contract awarded
+
+Establishment of Definitions, Exclusions, Limitations, and Qualifications
+
+Specific Costs Under Military Banking Contracts Relating to Foreign Nationals.—
+
+Authority
+
+Definitions
+
+Military banking contract
+
+Mandated foreign national severance pay
+
+Exception for foreign-owned financial institutions
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1832(a)](https://www.govinfo.gov/link/plaw/116/public/283), (d), Jan. 1, 2021, [134 Stat. 4218](https://www.govinfo.gov/link/statute/134/4218), 4219.)*

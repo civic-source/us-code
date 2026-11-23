@@ -3,9 +3,10 @@ title: "Section 1608 - Definitions"
 usc_title: 47
 usc_section: "1608"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1608"
-generated_at: "2026-03-30T02:56:24.537Z"
+generated_at: "2026-11-23T21:26:36.113Z"
+status: "active"
 ---
 
 # § 1608. Definitions
@@ -35,3 +36,7 @@ In this chapter:
       - **(ii)** health care providers and libraries providing advanced communications service.
   - **(11)** The term “recipient” means any provider of advanced communications service the application of which for a reimbursement under the Program has been approved by the Commission, regardless of whether the provider has received reimbursement funds.
   - **(12)** The term “reimbursement funds” means any reimbursement received under the Program.
+
+## Source Credit
+
+*([Pub. L. 116–124, § 9](https://www.govinfo.gov/link/plaw/116/public/124), Mar. 12, 2020, [134 Stat. 169](https://www.govinfo.gov/link/statute/134/169); [Pub. L. 116–260, div. N, title IX, § 901(2)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2121](https://www.govinfo.gov/link/statute/134/2121).)*

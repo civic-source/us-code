@@ -3,9 +3,10 @@ title: "Section 6102 - Definitions"
 usc_title: 7
 usc_section: "6102"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6102"
-generated_at: "2026-03-30T02:53:42.424Z"
+generated_at: "2026-11-23T21:25:28.381Z"
+status: "active"
 ---
 
 # § 6102. Definitions
@@ -27,3 +28,7 @@ As used in this chapter—
   - **(13)** The term “research” means any type of study to advance the image, desirability, marketability, production, product development, quality, or nutritional value of mushrooms.
   - **(14)** The term “Secretary” means the Secretary of Agriculture.
   - **(15)** The terms “State” and “United States” include the 50 States of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1923](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3855](https://www.govinfo.gov/link/statute/104/3855).)*

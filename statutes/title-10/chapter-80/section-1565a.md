@@ -3,9 +3,10 @@ title: "Section 1565a - DNA samples maintained for identification of human remai
 usc_title: 10
 usc_section: "1565a"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1565a"
-generated_at: "2026-03-30T02:53:38.130Z"
+generated_at: "2026-11-23T21:25:32.512Z"
+status: "active"
 ---
 
 # § 1565a. DNA samples maintained for identification of human remains: use for law enforcement purposes
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:53:38.130Z"
   - **(2)** A DNA sample with respect to an individual shall be provided under paragraph (1) in a manner that does not compromise the ability of the Department of Defense to maintain a sample with respect to that individual for the purpose of identification of human remains.
 - **(b)** The purpose referred to in subsection (a) is the purpose of an investigation or prosecution of a felony, or any sexual offense, for which no other source of DNA information is reasonably available.
 - **(c)** In this section, the term “DNA sample” has the meaning given such term in section 1565(c) of this title .
+
+Compliance with Court Order
+
+Covered Purpose
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 107–314, div. A, title X, § 1063(a)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2653](https://www.govinfo.gov/link/statute/116/2653).)*

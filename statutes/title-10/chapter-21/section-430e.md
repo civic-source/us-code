@@ -3,9 +3,10 @@ title: "Section 430e - Vendor support to clandestine activities"
 usc_title: 10
 usc_section: "430e"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 430e"
-generated_at: "2026-03-30T02:53:38.058Z"
+generated_at: "2026-11-23T21:25:32.267Z"
+status: "active"
 ---
 
 # § 430e. Vendor support to clandestine activities
@@ -26,3 +27,21 @@ generated_at: "2026-03-30T02:53:38.058Z"
   - **(1)** deconflict the use of commercial vendors in support of clandestine activities of the Department of Defense; and
   - **(2)** assess operational risk and counterintelligence exposure attributable to the use of commercial vendors in support of clandestine activities of the Department of Defense.
 - **(d)** In this section, the term “clandestine activity” means any activity where it is intended that the role of the United States Government will not be apparent or acknowledged publicly.
+
+Oversight, Deconfliction, and Risk Assessment Capability
+
+Exclusions
+
+Deconfliction
+
+Clandestine Activity Defined
+
+Implementation deadline and certification
+
+Submission of plan
+
+Progress report
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title XVI, § 1621(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1180](https://www.govinfo.gov/link/statute/139/1180).)*

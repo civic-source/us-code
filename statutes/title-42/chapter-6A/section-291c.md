@@ -3,9 +3,10 @@ title: "Section 291c - General regulations"
 usc_title: 42
 usc_section: "291c"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 291c"
-generated_at: "2026-03-30T02:56:10.771Z"
+generated_at: "2026-11-23T21:26:30.607Z"
+status: "active"
 ---
 
 # § 291c. General regulations
@@ -24,3 +25,7 @@ The Surgeon General, with the approval of the Federal Hospital Council and the S
 - **(c)** criteria for determining needs for general hospital and long-term care beds, and needs for hospitals and other facilities for which aid under this part is available, and for developing plans for the distribution of such beds and facilities;
 - **(d)** criteria for determining the extent to which existing facilities, for which aid under this part is available, are in need of modernization; and
 - **(e)** that the State plan shall provide for adequate hospitals, and other facilities for which aid under this part is available, for all persons residing in the State, and adequate hospitals (and such other facilities) to furnish needed services for persons unable to pay therefor. Such regulations may also require that before approval of an application for a project is recommended by a State agency to the Surgeon General for approval under this part, assurance shall be received by the State from the applicant that (1) the facility or portion thereof to be constructed or modernized will be made available to all persons residing in the territorial area of the applicant; and (2) there will be made available in the facility or portion thereof to be constructed or modernized a reasonable volume of services to persons unable to pay therefor, but an exception shall be made if such a requirement is not feasible from a financial viewpoint.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VI, § 603, as added [Pub. L. 88–443, § 3(a)](https://www.govinfo.gov/link/plaw/88/public/443), Aug. 18, 1964, [78 Stat. 451](https://www.govinfo.gov/link/statute/78/451); amended [Pub. L. 88–581, § 3(b)](https://www.govinfo.gov/link/plaw/88/public/581), Sept. 4, 1964, [78 Stat. 919](https://www.govinfo.gov/link/statute/78/919); [Pub. L. 91–296, title I, § 110](https://www.govinfo.gov/link/plaw/91/public/296), June 30, 1970, [84 Stat. 339](https://www.govinfo.gov/link/statute/84/339); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695).)*

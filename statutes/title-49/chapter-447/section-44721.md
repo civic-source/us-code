@@ -3,9 +3,10 @@ title: "Section 44721 - Aeronautical charts and related products and services"
 usc_title: 49
 usc_section: "44721"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44721"
-generated_at: "2026-03-30T02:56:19.386Z"
+generated_at: "2026-11-23T21:26:40.903Z"
+status: "active"
 ---
 
 # § 44721. Aeronautical charts and related products and services
@@ -44,3 +45,133 @@ generated_at: "2026-03-30T02:56:19.386Z"
     - **(C)** at reduced or no charge where, in the judgment of the Administrator, furnishing the aeronautical product or service to a recipient is a reasonable exchange for voluntary contribution of information by the recipient to the activities under this section.
   - **(4)** The fees provided for in this subsection are for the purpose of reimbursing the Government for the costs of creating, printing and disseminating aeronautical products and services under this section. The collection of fees authorized by this section does not alter or expand any duty or liability of the Government under existing law for the performance of functions for which fees are collected, nor does the collection of fees constitute an express or implied undertaking by the Government to perform any activity in a certain manner.
   - **(5)** Notwithstanding any other provision of law, amounts received for the sale of products created and services performed under this section shall be fully credited to the account of the Federal Aviation Administration that funded the provision of the products or services and shall remain available until expended.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44721(a)(1) | 49 App.:1348(b) (1st sentence cl. (3)). | Aug. 23, 1958 , Pub. L. 85–726, § 307(b) (1st sentence cl. (3)), 72 Stat. 750 . |
+|  | 49 App.:1655(c)(1). | Oct. 15, 1966 , Pub. L. 89–670, § 6(c)(1) , 80 Stat. 938 ; Jan. 12, 1983 , Pub. L. 97–449, § 7(b) , 96 Stat. 2444 . |
+| 44721(a)(2) | 49 App.:1348(b) (3d, last sentences). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 749 , § 307(b) (3d, last sentences); added Oct. 31, 1992 , Pub. L. 102–581, § 125 , 106 Stat. 4885 . |
+| 44721(b) | 49 App.:1519. | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1118; added Dec. 19, 1985 , Pub. L. 99–190, § 328(a) , 99 Stat. 1289 . |
+
+
+Publication.—
+
+In general
+
+Navigation routes
+
+Indemnification
+
+Authority of Office of Aeronautical Charting and Cartography
+
+Authority
+
+Contracts, Cooperative Agreements, Grants, and Other Agreements.—
+
+Contracts
+
+Cooperative agreements, grants, and other agreements
+
+Special Services and Products.—
+
+In general
+
+Fees
+
+Sale and Dissemination of Aeronautical Products.—
+
+In general
+
+Maximum price
+
+Adjustment of price
+
+Costs attributable to acquisition of aeronautical data
+
+Continuation of prices
+
+Publication of prices
+
+Distribution
+
+Fees
+
+Crediting amounts received
+
+Historical and Revision Notes
+
+44721(a)(1)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 307(b)
+
+72 Stat. 750
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 6(c)(1)
+
+80 Stat. 938
+
+Jan. 12, 1983
+
+Pub. L. 97–449, § 7(b)
+
+96 Stat. 2444
+
+44721(a)(2)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 749
+
+Oct. 31, 1992
+
+Pub. L. 102–581, § 125
+
+106 Stat. 4885
+
+44721(b)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Dec. 19, 1985
+
+Pub. L. 99–190, § 328(a)
+
+99 Stat. 1289
+
+Publication
+
+Indemnification
+
+Continued Effectiveness of Directives
+
+Continued Effectiveness of Pending Actions.—
+
+In general
+
+Transition guidelines
+
+Continued Effectiveness of Judicial Actions
+
+Substitution or Addition of Parties to Judicial Actions
+
+Continued Jurisdiction Over Actions Transferred
+
+Liabilities and Obligations
+
+Transfer of Office
+
+Other Transfers
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1202](https://www.govinfo.gov/link/statute/108/1202); [Pub. L. 106–181, title VI, § 603(a)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 150](https://www.govinfo.gov/link/statute/114/150); [Pub. L. 106–424, § 17(a)](https://www.govinfo.gov/link/plaw/106/public/424), Nov. 1, 2000, [114 Stat. 1888](https://www.govinfo.gov/link/statute/114/1888); [Pub. L. 118–63, title XI, § 1101](https://www.govinfo.gov/link/plaw/118/public/63) (o), May 16, 2024, [138 Stat. 1414](https://www.govinfo.gov/link/statute/138/1414).)*

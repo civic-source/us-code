@@ -3,9 +3,10 @@ title: "Section 6501 - Definitions"
 usc_title: 31
 usc_section: "6501"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 6501"
-generated_at: "2026-03-30T02:55:34.073Z"
+generated_at: "2026-11-23T21:26:10.639Z"
+status: "active"
 ---
 
 # § 6501. Definitions
@@ -45,3 +46,50 @@ In this chapter—
   - **(8)** “special-purpose unit of local government” means a special district, public-purpose local government of a State except a school district.
   - **(9)** “State” means a State of the United States, the District of Columbia, a territory or possession of the United States, and an agency, instrumentality, or fiscal agent of a State but does not mean a local government of a State.
   - **(10)** “unit of general local government” means a county, city, town, village, or other general purpose political subdivision of a State.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 6501(1) | 42:4201(7). | Oct. 16, 1968 , Pub. L. 90–577 , §§ 101–107, 109, 110, 82 Stat. 1098 , 1100, 1101. |
+| 6501(2) | 42:4201(9). |  |
+| 6501(3) | 42:4201(1). |  |
+| 6501(4) | 42:4201(6). |  |
+| 6501(5) | 42:4201(10). |  |
+| 6501(6) | 42:4201(3). |  |
+| 6501(7) | 42:4201(5). |  |
+| 6501(8) | 42:4201(2). |  |
+| 6501(9) | 42:4201(4). |  |
+
+
+Historical and Revision Notes
+
+Act
+
+6501(1)
+
+Oct. 16, 1968
+
+Pub. L. 90–577
+
+82 Stat. 1098
+
+6501(2)
+
+6501(3)
+
+6501(4)
+
+6501(5)
+
+6501(6)
+
+6501(7)
+
+6501(8)
+
+6501(9)
+
+Act
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1005](https://www.govinfo.gov/link/statute/96/1005); [Pub. L. 97–452, § 1(24)](https://www.govinfo.gov/link/plaw/97/public/452), Jan. 12, 1983, [96 Stat. 2478](https://www.govinfo.gov/link/statute/96/2478); [Pub. L. 101–453](https://www.govinfo.gov/link/plaw/101/public/453), §§ 3, 5(a), Oct. 24, 1990, [104 Stat. 1058](https://www.govinfo.gov/link/statute/104/1058), 1059; [Pub. L. 105–33, title XI, § 11717(b)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 786](https://www.govinfo.gov/link/statute/111/786).)*

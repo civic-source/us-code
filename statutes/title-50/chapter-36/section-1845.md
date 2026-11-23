@@ -3,9 +3,10 @@ title: "Section 1845 - Use of information"
 usc_title: 50
 usc_section: "1845"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1845"
-generated_at: "2026-03-30T02:56:26.210Z"
+generated_at: "2026-11-23T21:26:38.941Z"
+status: "active"
 ---
 
 # § 1845. Use of information
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:26.210Z"
   - **(1)** If the United States district court determines pursuant to subsection (f) that the use of a pen register or trap and trace device was not lawfully authorized or conducted, the court may, in accordance with the requirements of law, suppress the evidence which was unlawfully obtained or derived from the use of the pen register or trap and trace device, as the case may be, or otherwise grant the motion of the aggrieved person.
   - **(2)** If the court determines that the use of the pen register or trap and trace device, as the case may be, was lawfully authorized or conducted, it may deny the motion of the aggrieved person except to the extent that due process requires discovery or disclosure.
 - **(h)** Orders granting motions or requests under subsection (g), decisions under this section that the use of a pen register or trap and trace device was not lawfully authorized or conducted, and orders of the United States district court requiring review or granting disclosure of applications, orders, or other materials relating to the installation and use of a pen register or trap and trace device shall be final orders and binding upon all courts of the United States and the several States except a United States Court of Appeals or the Supreme Court.
+
+## Source Credit
+
+*([Pub. L. 95–511, title IV, § 405](https://www.govinfo.gov/link/plaw/95/public/511), as added [Pub. L. 105–272, title VI, § 601(2)](https://www.govinfo.gov/link/plaw/105/public/272), Oct. 20, 1998, [112 Stat. 2408](https://www.govinfo.gov/link/statute/112/2408).)*

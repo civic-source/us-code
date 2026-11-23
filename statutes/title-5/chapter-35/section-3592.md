@@ -3,9 +3,10 @@ title: "Section 3592 - Removal from the Senior Executive Service"
 usc_title: 5
 usc_section: "3592"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3592"
-generated_at: "2026-03-30T02:52:56.007Z"
+generated_at: "2026-11-23T21:25:23.174Z"
+status: "active"
 ---
 
 # § 3592. Removal from the Senior Executive Service
@@ -23,3 +24,9 @@ generated_at: "2026-03-30T02:52:56.007Z"
     - **(A)** any removal under section 4314(b)(3) of this title ; or
     - **(B)** any disciplinary action initiated before an appointment referred to in paragraph (1) of this subsection.
 - **(c)** A limited emergency appointee, limited term appointee, or noncareer appointee may be removed from the service at any time.
+
+“Notwithstanding the amendments made by subsection (a)(2)(A) [amending this section], an appeal under the final sentence of section 3592(a) of title 5 , United States Code, that is pending on the day before the effective date of this section [see Effective Date of 2002 Amendment note above]—
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title IV, § 404(b)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1165](https://www.govinfo.gov/link/statute/92/1165); amended [Pub. L. 101–194, title V, § 506(b)(3)](https://www.govinfo.gov/link/plaw/101/public/194), Nov. 30, 1989, [103 Stat. 1758](https://www.govinfo.gov/link/statute/103/1758); [Pub. L. 107–296, title XIII, § 1321(a)(2)(A)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2297](https://www.govinfo.gov/link/statute/116/2297).)*

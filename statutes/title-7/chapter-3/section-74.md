@@ -3,9 +3,10 @@ title: "Section 74 - Congressional findings and declaration of policy"
 usc_title: 7
 usc_section: "74"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 74"
-generated_at: "2026-03-30T02:53:42.252Z"
+generated_at: "2026-11-23T21:25:27.871Z"
+status: "active"
 ---
 
 # § 74. Congressional findings and declaration of policy
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:42.252Z"
     - **(D)** provide the framework necessary for markets to establish grain quality improvement incentives;
     - **(E)** reflect the economic value-based characteristics in the end uses of grain; and
     - **(F)** accommodate scientific advances in testing and new knowledge concerning factors related to, or highly correlated with, the end use performance of grain.
+
+## Source Credit
+
+*(Aug. 11, 1916, ch. 313, pt. B, § 2, [39 Stat. 482](https://www.govinfo.gov/link/statute/39/482); July 18, 1940, ch. 636, [54 Stat. 765](https://www.govinfo.gov/link/statute/54/765); [Pub. L. 90–487, § 1](https://www.govinfo.gov/link/plaw/90/public/487), Aug. 15, 1968, [82 Stat. 761](https://www.govinfo.gov/link/statute/82/761); [Pub. L. 94–582, § 2](https://www.govinfo.gov/link/plaw/94/public/582), Oct. 21, 1976, [90 Stat. 2867](https://www.govinfo.gov/link/statute/90/2867); [Pub. L. 99–641, title III, § 302](https://www.govinfo.gov/link/plaw/99/public/641), Nov. 10, 1986, [100 Stat. 3564](https://www.govinfo.gov/link/statute/100/3564); [Pub. L. 101–624, title XX, § 2004](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3929](https://www.govinfo.gov/link/statute/104/3929).)*

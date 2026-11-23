@@ -3,9 +3,10 @@ title: "Section 14308 - Promotions: how made"
 usc_title: 10
 usc_section: "14308"
 chapter: 1405
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 14308"
-generated_at: "2026-03-30T02:53:38.274Z"
+generated_at: "2026-11-23T21:25:33.060Z"
+status: "active"
 ---
 
 # § 14308. Promotions: how made
@@ -40,3 +41,21 @@ generated_at: "2026-03-30T02:53:38.274Z"
       - **(i)** the date the National Guard Bureau deems such officer’s application for Federal recognition to be completely submitted by the State and ready for review at the National Guard Bureau; and
       - **(ii)** the date on which the officer occupies a billet in the next higher grade.
 - **(g)** A reserve officer of the Army or the Air Force who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in the Army Reserve or the Air Force Reserve, as the case may be, in that grade.
+
+Promotion List
+
+Promotion; How Made; Order
+
+Date of Rank
+
+Officers With Running Mates
+
+Army Reserve and Air Force Reserve Promotions To Fill Vacancies
+
+Effective Date of Promotion After Federal Recognition
+
+Army and Air Force General Officer Promotions
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1611](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2937](https://www.govinfo.gov/link/statute/108/2937); amended [Pub. L. 105–85, div. A, title V, § 514(c)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1732](https://www.govinfo.gov/link/statute/111/1732); [Pub. L. 107–107, div. A, title V](https://www.govinfo.gov/link/plaw/107/public/107), §§ 505(b)(1), 506(b), Dec. 28, 2001, [115 Stat. 1086](https://www.govinfo.gov/link/statute/115/1086), 1089; [Pub. L. 109–364, div. A, title V, § 511(d)(2)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2183](https://www.govinfo.gov/link/statute/120/2183); [Pub. L. 114–92, div. A, title V, § 502(b)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 806](https://www.govinfo.gov/link/statute/129/806); [Pub. L. 115–232, div. A, title V, § 518(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1754](https://www.govinfo.gov/link/statute/132/1754); [Pub. L. 116–92, div. A, title V, § 510(c)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1347](https://www.govinfo.gov/link/statute/133/1347); [Pub. L. 117–263, div. A, title V, § 513](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2565](https://www.govinfo.gov/link/statute/136/2565); [Pub. L. 118–31, div. A, title V, § 503(b)(2)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 241](https://www.govinfo.gov/link/statute/137/241).)*

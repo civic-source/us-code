@@ -3,9 +3,10 @@ title: "Section 1675a - Special rules for section 1675(b) and 1675(c) reviews"
 usc_title: 19
 usc_section: "1675a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1675a"
-generated_at: "2026-03-30T02:54:24.654Z"
+generated_at: "2026-11-23T21:25:42.747Z"
+status: "active"
 ---
 
 # § 1675a. Special rules for section 1675(b) and 1675(c) reviews
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:54:24.654Z"
   - **(4)**
     - **(A)** A dumping margin described in paragraph (1)(A) that is zero or de minimis shall not by itself require the administering authority to determine that revocation of an antidumping duty order or termination of a suspended investigation would not be likely to lead to continuation or recurrence of sales at less than fair value.
     - **(B)** For purposes of this paragraph, the administering authority shall apply the de minimis standards applicable to reviews conducted under subsections (a) and (b) of section 1675 of this title .
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VII, § 752, as added [Pub. L. 103–465, title II, § 221(a)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4865](https://www.govinfo.gov/link/statute/108/4865).)*

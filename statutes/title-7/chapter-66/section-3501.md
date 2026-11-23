@@ -3,9 +3,10 @@ title: "Section 3501 - Reporting requirements"
 usc_title: 7
 usc_section: "3501"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3501"
-generated_at: "2026-03-30T02:53:42.403Z"
+generated_at: "2026-11-23T21:25:28.337Z"
+status: "active"
 ---
 
 # § 3501. Reporting requirements
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:53:42.403Z"
     - **(A)** the legal name and the address of any person who holds any interest in the person submitting the report under this subsection;
     - **(B)** in any case in which the holder of such interest is an individual, the citizenship of such holder; and
     - **(C)** in any case in which the holder of such interest is not an individual or a government, the nature of the legal entity holding the interest, the country in which such holder is created or organized, and the principle 1 1 So in original. Probably should be “principal”. place of business of such holder.
+
+## Source Credit
+
+*([Pub. L. 95–460, § 2](https://www.govinfo.gov/link/plaw/95/public/460), Oct. 14, 1978, [92 Stat. 1263](https://www.govinfo.gov/link/statute/92/1263).)*

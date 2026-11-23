@@ -3,9 +3,10 @@ title: "Section 7202 - Definitions"
 usc_title: 7
 usc_section: "7202"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7202"
-generated_at: "2026-03-30T02:53:42.444Z"
+generated_at: "2026-11-23T21:25:28.416Z"
+status: "active"
 ---
 
 # § 7202. Definitions
@@ -29,3 +30,7 @@ In this chapter:
   - **(13)** The term “Secretary” means the Secretary of Agriculture.
   - **(14)** The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any other territory or possession of the United States.
   - **(15)** The term “United States”, when used in a geographical sense, means all of the States.
+
+## Source Credit
+
+*([Pub. L. 104–127, title I, § 102](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 897](https://www.govinfo.gov/link/statute/110/897).)*

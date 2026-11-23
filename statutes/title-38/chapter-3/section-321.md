@@ -3,9 +3,10 @@ title: "Section 321 - Office of Survivors Assistance"
 usc_title: 38
 usc_section: "321"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 321"
-generated_at: "2026-03-30T02:55:53.471Z"
+generated_at: "2026-11-23T21:26:16.553Z"
+status: "active"
 ---
 
 # § 321. Office of Survivors Assistance
@@ -17,3 +18,17 @@ generated_at: "2026-03-30T02:55:53.471Z"
 - **(c)** In establishing the Office, the Secretary shall seek guidance from interested stakeholders.
 - **(d)** The Secretary shall ensure that appropriate personnel, funding, and other resources are provided to the Office to carry out its responsibilities.
 - **(e)** The Secretary shall include in each annual Performance and Accountability report submitted by the Secretary to Congress a description of the activities of the Office during the fiscal year covered by such report.
+
+Establishment
+
+Advisory Duties
+
+Guidance From Stakeholders
+
+Resources
+
+Inclusion of Information on Office in Annual Report on Department Activities
+
+## Source Credit
+
+*(Added [Pub. L. 110–389, title II, § 222(a)](https://www.govinfo.gov/link/plaw/110/public/389), Oct. 10, 2008, [122 Stat. 4156](https://www.govinfo.gov/link/statute/122/4156).)*

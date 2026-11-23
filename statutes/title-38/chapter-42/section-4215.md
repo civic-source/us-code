@@ -3,9 +3,10 @@ title: "Section 4215 - Priority of service for veterans in Department of Labor j
 usc_title: 38
 usc_section: "4215"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 4215"
-generated_at: "2026-03-30T02:55:53.517Z"
+generated_at: "2026-11-23T21:26:16.799Z"
+status: "active"
 ---
 
 # § 4215. Priority of service for veterans in Department of Labor job training programs
@@ -35,3 +36,15 @@ generated_at: "2026-03-30T02:55:53.517Z"
     - **(B)** whether the representation of veterans in such programs is in proportion to the incidence of representation of veterans in the labor market, including within groups that the Secretary may designate for priority under such programs, if any; and
     - **(C)** performance measures, as determined by the Secretary, to determine whether veterans are receiving priority of service and are being fully served by qualified job training programs.
   - **(2)** The Secretary may not use the proportion of representation of veterans described in subparagraph (B) of paragraph (1) as the basis for determining under such paragraph whether veterans are receiving priority of service and are being fully served by qualified job training programs.
+
+Definitions
+
+Entitlement to Priority of Service
+
+Administration of Programs at State and Local Levels
+
+Addition to Annual Report
+
+## Source Credit
+
+*(Added [Pub. L. 107–288, § 2(a)(1)](https://www.govinfo.gov/link/plaw/107/public/288), Nov. 7, 2002, [116 Stat. 2033](https://www.govinfo.gov/link/statute/116/2033); amended [Pub. L. 112–56, title II, § 239](https://www.govinfo.gov/link/plaw/112/public/56), Nov. 21, 2011, [125 Stat. 727](https://www.govinfo.gov/link/statute/125/727).)*

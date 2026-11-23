@@ -3,9 +3,10 @@ title: "Section 5342 - Definitions; application"
 usc_title: 5
 usc_section: "5342"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5342"
-generated_at: "2026-03-30T02:52:56.014Z"
+generated_at: "2026-11-23T21:25:23.245Z"
+status: "active"
 ---
 
 # § 5342. Definitions; application
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:52:56.014Z"
     - **(B)** paragraph (14) of that section.
   - **(3)** This subchapter, except section 5348, does not apply to officers and members of crews of vessels excepted from chapter 51 of this title by section 5102(c)(8) of this title .
 - **(c)** Each prevailing rate employee employed within any of the several States or the District of Columbia shall be a United States citizen or a bona fide resident of one of the several States or the District of Columbia unless the Secretary of Labor certifies that no United States citizen or bona fide resident of one of the several States or the District of Columbia is available to fill the particular position.
+
+## Source Credit
+
+*(Added [Pub. L. 92–392, § 1(a)](https://www.govinfo.gov/link/plaw/92/public/392), Aug. 19, 1972, [86 Stat. 564](https://www.govinfo.gov/link/statute/86/564); amended [Pub. L. 96–70, title III, § 3302(e)(1)](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 498](https://www.govinfo.gov/link/statute/93/498); [Pub. L. 96–191, § 8(d)](https://www.govinfo.gov/link/plaw/96/public/191), Feb. 15, 1980, [94 Stat. 33](https://www.govinfo.gov/link/statute/94/33); [Pub. L. 97–468, title VI, § 615(b)(1)(D)](https://www.govinfo.gov/link/plaw/97/public/468), Jan. 14, 1983, [96 Stat. 2578](https://www.govinfo.gov/link/statute/96/2578); [Pub. L. 98–618, title V, § 502(b)](https://www.govinfo.gov/link/plaw/98/public/618), Nov. 8, 1984, [98 Stat. 3303](https://www.govinfo.gov/link/statute/98/3303); [Pub. L. 102–54, § 13(b)(1)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 274](https://www.govinfo.gov/link/statute/105/274); [Pub. L. 103–359, title V, § 501(h)](https://www.govinfo.gov/link/plaw/103/public/359), Oct. 14, 1994, [108 Stat. 3429](https://www.govinfo.gov/link/statute/108/3429); [Pub. L. 104–201, div. A, title XI, § 1122(a)(1)](https://www.govinfo.gov/link/plaw/104/public/201), div. C, title XXXV, § 3548(a)(3)(A), Sept. 23, 1996, [110 Stat. 2687](https://www.govinfo.gov/link/statute/110/2687), 2868; [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title IX, § 931(a)(1), Oct. 14, 2008, [122 Stat. 4575](https://www.govinfo.gov/link/statute/122/4575).)*

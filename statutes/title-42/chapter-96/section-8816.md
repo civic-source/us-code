@@ -3,9 +3,10 @@ title: "Section 8816 - Purchase agreements"
 usc_title: 42
 usc_section: "8816"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8816"
-generated_at: "2026-03-30T02:56:11.347Z"
+generated_at: "2026-11-23T21:26:33.217Z"
+status: "active"
 ---
 
 # § 8816. Purchase agreements
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.347Z"
 - **(h)** If the Secretary concerned determines, in the discretion of the Secretary, that—
   - **(1)** a biomass energy project would not otherwise be satisfactorily completed or continued, and
   - **(2)** completion or continuation of such project would be necessary to achieve the purposes of this chapter,
+
+## Source Credit
+
+*([Pub. L. 96–294, title II, § 216](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 692](https://www.govinfo.gov/link/statute/94/692).)*

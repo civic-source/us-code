@@ -3,9 +3,10 @@ title: "Section 6050X - Information with respect to certain fines, penalties, an
 usc_title: 26
 usc_section: "6050X"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6050X"
-generated_at: "2026-03-30T02:55:27.835Z"
+generated_at: "2026-11-23T21:26:06.785Z"
+status: "active"
 ---
 
 # § 6050X. Information with respect to certain fines, penalties, and other amounts
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:27.835Z"
   - **(1)** the name of the government or entity, and
   - **(2)** the information supplied to the Secretary under subsection (a)(1).
 - **(c)** For purposes of this section, the term “appropriate official” means the officer or employee having control of the suit, investigation, or inquiry or the person appropriately designated for purposes of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 115–97, title I, § 13306(b)(1)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2128](https://www.govinfo.gov/link/statute/131/2128).)*

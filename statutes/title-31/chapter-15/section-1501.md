@@ -3,9 +3,10 @@ title: "Section 1501 - Documentary evidence requirement for Government obligatio
 usc_title: 31
 usc_section: "1501"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 1501"
-generated_at: "2026-03-30T02:55:34.052Z"
+generated_at: "2026-11-23T21:26:10.555Z"
+status: "active"
 ---
 
 # § 1501. Documentary evidence requirement for Government obligations
@@ -29,3 +30,23 @@ generated_at: "2026-03-30T02:55:34.052Z"
   - **(8)** services provided by public utilities; or
   - **(9)** other legal liability of the Government against an available appropriation or fund.
 - **(b)** A statement of obligations provided to Congress or a committee of Congress by an agency shall include only those amounts that are obligations consistent with subsection (a) of this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1501(a) | 31:200(a). | Aug. 26, 1954, ch. 935, § 1311(a) , (e), 68 Stat. 830 , 831. |
+| 1501(b) | 31:200(e). |  |
+
+
+Historical and Revision Notes
+
+1501(a)
+
+Aug. 26, 1954, ch. 935, § 1311(a)
+
+68 Stat. 830
+
+1501(b)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 927](https://www.govinfo.gov/link/statute/96/927).)*

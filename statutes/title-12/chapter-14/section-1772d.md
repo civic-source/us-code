@@ -3,9 +3,10 @@ title: "Section 1772d - Forfeiture of organization certificate for money launder
 usc_title: 12
 usc_section: "1772d"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1772d"
-generated_at: "2026-03-30T02:53:53.436Z"
+generated_at: "2026-11-23T21:25:36.939Z"
+status: "active"
 ---
 
 # § 1772d. Forfeiture of organization certificate for money laundering or cash transaction reporting offenses
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:53.436Z"
   - **(4)** The extent to which the credit union has implemented additional internal controls (since the commission of the offense of which the credit union was found guilty) to prevent the occurrence of any other money laundering offense.
   - **(5)** The extent to which the interest of the local community in having adequate deposit and credit services available would be threatened by the forfeiture of the franchise.
 - **(c)** This section shall not apply to a successor to the interests of, or a person who acquires, a credit union that violated a provision of law described in subsection (a), if the successor succeeds to the interests of the violator, or the acquisition is made, in good faith and not for purposes of evading this section or regulations prescribed under this section.
+
+## Source Credit
+
+*(June 26, 1934, ch. 750, title I, § 131, as added [Pub. L. 102–550, title XV, § 1502(c)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4047](https://www.govinfo.gov/link/statute/106/4047); amended [Pub. L. 103–325, title IV, § 411(c)(2)(B)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2253](https://www.govinfo.gov/link/statute/108/2253).)*

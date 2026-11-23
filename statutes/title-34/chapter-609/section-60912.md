@@ -3,9 +3,10 @@ title: "Section 60912 - Annual report"
 usc_title: 34
 usc_section: "60912"
 chapter: 609
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 60912"
-generated_at: "2026-03-30T02:55:33.318Z"
+generated_at: "2026-11-23T21:26:09.866Z"
+status: "active"
 ---
 
 # § 60912. Annual report
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:33.318Z"
   - **(2)** the number of extensions granted, and an explanation of reasons provided under section 60901(h) of this title ;
   - **(3)** the number of full reinvestigations initiated and closed pursuant to section 60903 of this title ; and
   - **(4)** statistics and individualized information on topics that include identified suspects, arrests, charges, and convictions for reviews under section 60901 of this title and reinvestigations under section 60903 of this title .
+
+## Source Credit
+
+*([Pub. L. 117–164, § 13](https://www.govinfo.gov/link/plaw/117/public/164), Aug. 3, 2022, [136 Stat. 1361](https://www.govinfo.gov/link/statute/136/1361).)*

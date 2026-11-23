@@ -3,9 +3,10 @@ title: "Section 7194 - Requests for adjustments"
 usc_title: 42
 usc_section: "7194"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7194"
-generated_at: "2026-03-30T02:56:11.285Z"
+generated_at: "2026-11-23T21:26:33.054Z"
+status: "active"
 ---
 
 # § 7194. Requests for adjustments
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.285Z"
 - **(b)**
   - **(1)** If any person is aggrieved or adversely affected by a denial of a request for adjustment under subsection (a) such person may request a review of such denial by the Commission and may obtain judicial review in accordance with this subchapter when such a denial becomes final.
   - **(2)** The Commission shall, by rule, establish appropriate procedures, including a hearing when requested, for review of a denial. Action by the Commission under this section shall be considered final agency action within the meaning of section 704 of title 5 and shall not be subject to further review by the Secretary or any officer or employee of the Department. Litigation involving judicial review of such action shall be the responsibility of the Secretary.
+
+## Source Credit
+
+*([Pub. L. 95–91, title V, § 504](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 590](https://www.govinfo.gov/link/statute/91/590).)*

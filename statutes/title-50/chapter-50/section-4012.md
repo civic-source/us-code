@@ -3,9 +3,10 @@ title: "Section 4012 - Certificates of service; persons reported missing"
 usc_title: 50
 usc_section: "4012"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4012"
-generated_at: "2026-03-30T02:56:26.265Z"
+generated_at: "2026-11-23T21:26:39.083Z"
+status: "active"
 ---
 
 # § 4012. Certificates of service; persons reported missing
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:26.265Z"
   - **(7)** The time and place of the person’s termination of or release from military service, or the person’s death during military service.
 - **(b)** The Secretary concerned shall furnish a certificate under subsection (a) upon receipt of an application for such a certificate. A certificate appearing to be signed by the Secretary concerned is prima facie evidence of its contents and of the signer’s authority to issue it.
 - **(c)** A servicemember who has been reported missing is presumed to continue in service until accounted for. A requirement under this chapter that begins or ends with the death of a servicemember does not begin or end until the servicemember’s death is reported to, or determined by, the Secretary concerned or by a court of competent jurisdiction.
+
+## Source Credit
+
+*(Oct. 17, 1940, ch. 888, title VI, § 602, as added [Pub. L. 108–189, § 1](https://www.govinfo.gov/link/plaw/108/public/189), Dec. 19, 2003, [117 Stat. 2859](https://www.govinfo.gov/link/statute/117/2859).)*

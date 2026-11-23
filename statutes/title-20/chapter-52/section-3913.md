@@ -3,9 +3,10 @@ title: "Section 3913 - Teacher institutes"
 usc_title: 20
 usc_section: "3913"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 3913"
-generated_at: "2026-03-30T02:54:48.181Z"
+generated_at: "2026-11-23T21:25:47.424Z"
+status: "active"
 ---
 
 # § 3913. Teacher institutes
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:48.181Z"
 - **(b)** In making grants under this section, the Foundation shall assure that there is an equitable distribution among States of institutes established and operated with funds made available under this section. The Foundation shall award not less than one institute in each State, except that the Foundation may waive this requirement if there is no proposal from a State which meets the requirements of this subchapter. Proposals which exceed $300,000 in any fiscal year incorporating the services or resources of more than two entities in the design and operation of the institute, may be funded at the discretion of the Director of the Foundation.
 - **(c)** Institutes assisted under this subchapter may, to the extent possible, involve the cooperation of advanced technology businesses and other businesses which are able to supply assistance in the teaching of mathematics and science.
 - **(d)** In making grants under this subchapter, the Foundation shall require assurances that local education agencies will be involved in the planning and development of the institute in the case of applications submitted by other eligible applicants described in subsection (a) of this section, or that one or more such applicants will be involved in the planning and development of the institute in the case of applications submitted by State or local education agencies.
+
+## Source Credit
+
+*([Pub. L. 98–377, title I, § 103](https://www.govinfo.gov/link/plaw/98/public/377), as added [Pub. L. 99–159, title II, § 201](https://www.govinfo.gov/link/plaw/99/public/159), Nov. 22, 1985, [99 Stat. 894](https://www.govinfo.gov/link/statute/99/894).)*

@@ -3,9 +3,10 @@ title: "Section 14306 - Administrative powers and expenses"
 usc_title: 40
 usc_section: "14306"
 chapter: 143
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 14306"
-generated_at: "2026-03-30T02:55:43.386Z"
+generated_at: "2026-11-23T21:26:14.955Z"
+status: "active"
 ---
 
 # § 14306. Administrative powers and expenses
@@ -30,3 +31,125 @@ generated_at: "2026-03-30T02:55:43.386Z"
   - **(2)** A department, agency, or instrumentality of the Government, to the extent not otherwise prohibited by law, may enter into and perform a contract, lease, cooperative agreement, or other transaction under subsection (a)(7).
 - **(c)** The Director of the Office of Personnel Management may contract with the Commission for continued coverage of Commission employees, if the employees are federal employees when they begin Commission employment, in the retirement program and other employee benefit programs of the Government.
 - **(d)** Administrative expenses of the Commission shall be paid equally by the Government and the States in the Appalachian region, except that the expenses of the Federal Cochairman, the alternate to the Federal Cochairman, and the staff of the Federal Cochairman shall be paid only by the Government. The Commission shall determine the amount to be paid by each State. The Federal Cochairman shall not participate or vote in that determination. Assistance authorized by this subtitle shall not be furnished to any State or to any political subdivision or any resident of any State, and a state member of the Commission shall not participate or vote in any decision by the Commission, while the State is delinquent in payment of its share of administrative expenses.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 14306(a) | 40 App.:106(1), (2) (1st sentence), (3) (less words in parentheses), (4), (5) (1st sentence), (6), (7) (less words in last parentheses), (8), (9). | Pub. L. 89–4, title I, § 106(1) , (2) (1st sentence), (3)–(9), Mar. 9, 1965 , 79 Stat. 8 ; Pub. L. 90–103, title I, § 104 , Oct. 11, 1967 , 81 Stat. 257 ; Pub. L. 92–65, title II, § 203 , Aug. 5, 1971 , 85 Stat. 168 ; Pub. L. 94–188, title I, § 107 , Dec. 31, 1975 , 89 Stat. 1080 ; Pub. L. 96–506, § 3(2) , Dec. 8, 1980 , 94 Stat. 2746 ; Pub. L 105–393, title II, §§ 205, 206, Nov. 13, 1998 , 112 Stat. 3619 ; Pub. L. 107–149, § 13(b) , Mar. 12, 2002 , 116 Stat. 71 . |
+| 14306(b) | 40 App.:106(3) (words in parentheses), (7) (words in last parentheses). |  |
+| 14306(c) | 40 App.:106(5) (last sentence). |  |
+| 14306(d) | 40 App.:105. | Pub. L. 89–4, title I, § 105 , Mar. 9, 1965 , 79 Stat. 8 ; Pub. L. 90–103, title I, § 103 , Oct. 11, 1967 , 81 Stat. 257 ; Pub. L. 91–123, title I, § 102 , Nov. 25, 1969 , 83 Stat. 214 ; Pub. L. 92–65, title II, § 202 , Aug. 5, 1971 , 85 Stat. 168 ; Pub. L. 94–188, title I, § 106 , Dec. 31, 1975 , 89 Stat. 1080 ; Pub. L. 96–506, § 3(1) , Dec. 8, 1980 , 94 Stat. 2746 ; Pub. L. 97–35, title XVIII, § 1822(a)(1) , Aug. 13, 1981 , 95 Stat. 767 ; Pub. L. 105–393, title II, § 204 , Nov. 13, 1998 , 112 Stat. 3619 . |
+
+
+Powers
+
+Authorizations.—
+
+Detail employees
+
+Enter into and perform transactions
+
+Retirement and Other Employee Benefit Programs
+
+Expenses
+
+Historical and Revision Notes
+
+14306(a)
+
+Pub. L. 89–4, title I, § 106(1)
+
+Mar. 9, 1965
+
+79 Stat. 8
+
+Pub. L. 90–103, title I, § 104
+
+Oct. 11, 1967
+
+81 Stat. 257
+
+Pub. L. 92–65, title II, § 203
+
+Aug. 5, 1971
+
+85 Stat. 168
+
+Pub. L. 94–188, title I, § 107
+
+Dec. 31, 1975
+
+89 Stat. 1080
+
+Pub. L. 96–506, § 3(2)
+
+Dec. 8, 1980
+
+94 Stat. 2746
+
+Nov. 13, 1998
+
+112 Stat. 3619
+
+Pub. L. 107–149, § 13(b)
+
+Mar. 12, 2002
+
+116 Stat. 71
+
+14306(b)
+
+14306(c)
+
+14306(d)
+
+Pub. L. 89–4, title I, § 105
+
+Mar. 9, 1965
+
+79 Stat. 8
+
+Pub. L. 90–103, title I, § 103
+
+Oct. 11, 1967
+
+81 Stat. 257
+
+Pub. L. 91–123, title I, § 102
+
+Nov. 25, 1969
+
+83 Stat. 214
+
+Pub. L. 92–65, title II, § 202
+
+Aug. 5, 1971
+
+85 Stat. 168
+
+Pub. L. 94–188, title I, § 106
+
+Dec. 31, 1975
+
+89 Stat. 1080
+
+Pub. L. 96–506, § 3(1)
+
+Dec. 8, 1980
+
+94 Stat. 2746
+
+Pub. L. 97–35, title XVIII, § 1822(a)(1)
+
+Aug. 13, 1981
+
+95 Stat. 767
+
+Pub. L. 105–393, title II, § 204
+
+Nov. 13, 1998
+
+112 Stat. 3619
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1259](https://www.govinfo.gov/link/statute/116/1259).)*

@@ -3,9 +3,10 @@ title: "Section 3371d - Designation of counterintelligence officer to lead elect
 usc_title: 50
 usc_section: "3371d"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3371d"
-generated_at: "2026-03-30T02:56:26.251Z"
+generated_at: "2026-11-23T21:26:39.048Z"
+status: "active"
 ---
 
 # § 3371d. Designation of counterintelligence officer to lead election security matters
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:26.251Z"
   - **(3)** Voter registration databases.
   - **(4)** Critical infrastructure related to elections.
   - **(5)** Such other Government goods and services as the Director of National Intelligence considers appropriate.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. E, title LXV, § 6508](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2208](https://www.govinfo.gov/link/statute/133/2208).)*

@@ -3,9 +3,10 @@ title: "Section 1607 - Intelligence Senior Level positions"
 usc_title: 10
 usc_section: "1607"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1607"
-generated_at: "2026-03-30T02:53:38.133Z"
+generated_at: "2026-11-23T21:25:32.526Z"
+status: "active"
 ---
 
 # § 1607. Intelligence Senior Level positions
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:53:38.133Z"
   - **(3)** has no more than minimal supervisory responsibilities.
 - **(b)** Subsection (a) shall be carried out in accordance with regulations prescribed by the Secretary of Defense.
 - **(c)** The President, based on the recommendations of the Secretary of Defense, may award a rank referred to in section 4507a of title 5 to employees in Intelligence Senior Level positions designated under subsection (a). The award of such rank shall be made in a manner consistent with the provisions of that section.
+
+Designation of Positions
+
+Regulations
+
+Award of Rank to Employees in Intelligence Senior Level Positions
+
+## Source Credit
+
+*(Added [Pub. L. 104–201, div. A, title XVI, § 1632(b)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2747](https://www.govinfo.gov/link/statute/110/2747); amended [Pub. L. 107–306, title V, § 503](https://www.govinfo.gov/link/plaw/107/public/306), Nov. 27, 2002, [116 Stat. 2407](https://www.govinfo.gov/link/statute/116/2407).)*

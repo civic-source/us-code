@@ -3,9 +3,10 @@ title: "Section 324 - Cost of War Toxic Exposures Fund"
 usc_title: 38
 usc_section: "324"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 324"
-generated_at: "2026-03-30T02:55:53.471Z"
+generated_at: "2026-11-23T21:26:16.554Z"
+status: "active"
 ---
 
 # § 324. Cost of War Toxic Exposures Fund
@@ -26,3 +27,19 @@ generated_at: "2026-03-30T02:55:53.471Z"
   - **(3)** Notwithstanding the Budget Scorekeeping Guidelines and the accompanying list of programs and accounts set forth in the joint explanatory statement of the committee of conference accompanying Conference Report 105–217, and for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 ( 2 U.S.C. 900 et seq.) and the Congressional Budget Act of 1974 ( 2 U.S.C. 621 et seq.), the Fund shall be treated as if it were an account designated as “Appropriated Entitlements and Mandatories for Fiscal Year 1997” in the joint explanatory statement of the committee of conference accompanying Conference Report 105–217.
 - **(e)** The Secretary shall include in documents submitted to Congress in support of the President’s budget submitted pursuant to section 1105 of title 31 detailed estimates of the sums described in subsection (c) for the applicable fiscal year.
 - **(f)** The Secretary may, after consultation with the Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives, establish policies and procedures for developing the annual detailed estimates required by subsection (e).
+
+Establishment
+
+Deposits
+
+Authorization of Appropriations
+
+Budget Scorekeeping
+
+Estimates for Congressional Consideration
+
+Procedures for Estimates
+
+## Source Credit
+
+*(Added [Pub. L. 117–168, title VIII, § 805(a)](https://www.govinfo.gov/link/plaw/117/public/168), Aug. 10, 2022, [136 Stat. 1804](https://www.govinfo.gov/link/statute/136/1804).)*

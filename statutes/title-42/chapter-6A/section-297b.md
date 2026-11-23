@@ -3,9 +3,10 @@ title: "Section 297b - Loan provisions"
 usc_title: 42
 usc_section: "297b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 297b"
-generated_at: "2026-03-30T02:56:10.783Z"
+generated_at: "2026-11-23T21:26:30.662Z"
+status: "active"
 ---
 
 # § 297b. Loan provisions
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:10.783Z"
 - **(k)**
   - **(1)** It is the purpose of this subsection to ensure that obligations to repay loans under this section are enforced without regard to any Federal or State statutory, regulatory, or administrative limitation on the period within which debts may be enforced.
   - **(2)** Notwithstanding any other provision of Federal or State law, no limitation shall terminate the period within which suit may be filed, a judgment may be enforced, or an offset, garnishment, or other action may be initiated or taken by a school of nursing that has an agreement with the Secretary pursuant to section 297a of this title that is seeking the repayment of the amount due from a borrower on a loan made under this part after the default of the borrower on such loan.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VIII, § 836, formerly § 823, as added [Pub. L. 88–581, § 2](https://www.govinfo.gov/link/plaw/88/public/581), Sept. 4, 1964, [78 Stat. 914](https://www.govinfo.gov/link/statute/78/914); amended [Pub. L. 89–290, § 4(g)(2)](https://www.govinfo.gov/link/plaw/89/public/290), Oct. 22, 1965, [79 Stat. 1058](https://www.govinfo.gov/link/statute/79/1058); [Pub. L. 90–490, title II, § 222(b)](https://www.govinfo.gov/link/plaw/90/public/490), (c)(1), Aug. 16, 1968, [82 Stat. 783](https://www.govinfo.gov/link/statute/82/783), 784; [Pub. L. 92–158, § 6(a)](https://www.govinfo.gov/link/plaw/92/public/158), (b)(1), (e), Nov. 18, 1971, [85 Stat. 475](https://www.govinfo.gov/link/statute/85/475), 476, 478; renumbered § 836 and amended [Pub. L. 94–63, title IX](https://www.govinfo.gov/link/plaw/94/public/63), §§ 936(b), 941(h)(1), (2), (5), (i)(1), July 29, 1975, [89 Stat. 363](https://www.govinfo.gov/link/statute/89/363), 365; [Pub. L. 96–76, title I, § 112](https://www.govinfo.gov/link/plaw/96/public/76), Sept. 29, 1979, [93 Stat. 580](https://www.govinfo.gov/link/statute/93/580); [Pub. L. 97–35, title XXVII, § 2757(b)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 931](https://www.govinfo.gov/link/statute/95/931); [Pub. L. 99–92, § 8(b)](https://www.govinfo.gov/link/plaw/99/public/92) –(d), Aug. 16, 1985, [99 Stat. 398](https://www.govinfo.gov/link/statute/99/398); [Pub. L. 100–607, title VII](https://www.govinfo.gov/link/plaw/100/public/607), §§ 713(b)–(g), 714(a)–(c), Nov. 4, 1988, [102 Stat. 3160](https://www.govinfo.gov/link/statute/102/3160), 3161; [Pub. L. 101–93, § 5(r)](https://www.govinfo.gov/link/plaw/101/public/93), Aug. 16, 1989, [103 Stat. 614](https://www.govinfo.gov/link/statute/103/614); [Pub. L. 102–408, title II, § 211(a)(1)](https://www.govinfo.gov/link/plaw/102/public/408), Oct. 13, 1992, [106 Stat. 2078](https://www.govinfo.gov/link/statute/106/2078); [Pub. L. 105–392, title I, § 133(a)](https://www.govinfo.gov/link/plaw/105/public/392) –(c)(1), Nov. 13, 1998, [112 Stat. 3575](https://www.govinfo.gov/link/statute/112/3575); [Pub. L. 111–148, title V](https://www.govinfo.gov/link/plaw/111/public/148), §§ 5202, 5310(b)(2)–(4), Mar. 23, 2010, [124 Stat. 607](https://www.govinfo.gov/link/statute/124/607), 631.)*

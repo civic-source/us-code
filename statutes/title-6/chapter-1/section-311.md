@@ -3,9 +3,10 @@ title: "Section 311 - Definitions"
 usc_title: 6
 usc_section: "311"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 311"
-generated_at: "2026-03-30T02:53:09.456Z"
+generated_at: "2026-11-23T21:25:25.776Z"
+status: "active"
 ---
 
 # § 311. Definitions
@@ -26,3 +27,7 @@ In this subchapter—
   - **(12)** the term “surge capacity” means the ability to rapidly and substantially increase the provision of search and rescue capabilities, food, water, medicine, shelter and housing, medical care, evacuation capacity, staffing (including disaster assistance employees), and other resources necessary to save lives and protect property during a catastrophic incident;
   - **(13)** the term “tribal government” means the government of any entity described in section 101(13)(B) of this title ; and
   - **(14)** the terms “typed” and “typing” mean having evaluated, or evaluating, respectively, a resource in accordance with standards created under section 320 of this title .
+
+## Source Credit
+
+*([Pub. L. 107–296, title V, § 501](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 109–295, title VI, § 611(10)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1395](https://www.govinfo.gov/link/statute/120/1395); amended [Pub. L. 110–53, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/110/public/53), title V, § 502(c)(1), Aug. 3, 2007, [121 Stat. 301](https://www.govinfo.gov/link/statute/121/301), 311; [Pub. L. 114–328, div. A, title XIX, § 1913(b)(2)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2687](https://www.govinfo.gov/link/statute/130/2687).)*

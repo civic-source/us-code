@@ -3,9 +3,10 @@ title: "Section 851 - Art. 51. Voting and rulings"
 usc_title: 10
 usc_section: "851"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 851"
-generated_at: "2026-03-30T02:53:38.081Z"
+generated_at: "2026-11-23T21:25:32.337Z"
+status: "active"
 ---
 
 # § 851. Art. 51. Voting and rulings
@@ -18,3 +19,25 @@ generated_at: "2026-03-30T02:53:38.081Z"
   - **(3)** that, if there is a reasonable doubt as to the degree of guilt, the finding must be in a lower degree as to which there is no reasonable doubt; and
   - **(4)** that the burden of proof to establish the guilt of the accused beyond reasonable doubt is upon the United States.
 - **(d)** Subsections (a), (b), and (c) do not apply to a court-martial composed of a military judge only. The military judge of such a court-martial shall determine all questions of law and fact arising during the proceedings and, if the accused is convicted, adjudge an appropriate sentence. The military judge of such a court-martial shall make a general finding and shall in addition on request find the facts specially. If an opinion or memorandum of decision is filed, it will be sufficient if the findings of fact appear therein.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 851(a) 851(b) | 50:626(a). 50:626(b). | May 5, 1950, ch. 169, § 1 (Art. 51), 64 Stat. 124 . |
+| 851(c) | 50:626(c). |  |
+
+
+Historical and Revision Notes
+
+851(a)
+
+851(b)
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 124
+
+851(c)
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 54; [Pub. L. 90–632, § 2(21)](https://www.govinfo.gov/link/plaw/90/public/632), Oct. 24, 1968, [82 Stat. 1340](https://www.govinfo.gov/link/statute/82/1340); [Pub. L. 114–328, div. E, title LVII, § 5234](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2915](https://www.govinfo.gov/link/statute/130/2915).)*

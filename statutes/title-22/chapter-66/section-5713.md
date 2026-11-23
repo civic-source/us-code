@@ -3,9 +3,10 @@ title: "Section 5713 - Commerce between United States and Hong Kong"
 usc_title: 22
 usc_section: "5713"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5713"
-generated_at: "2026-03-30T02:55:05.419Z"
+generated_at: "2026-11-23T21:25:58.666Z"
+status: "active"
 ---
 
 # § 5713. Commerce between United States and Hong Kong
@@ -23,3 +24,7 @@ It is the sense of the Congress that the following, which are based in part on t
   - **(9)** The United States should encourage Hong Kong to continue its efforts to develop a framework which provides adequate protection for intellectual property rights.
   - **(10)** The United States should negotiate a bilateral investment treaty directly with Hong Kong, in consultation with the Government of the People’s Republic of China.
   - **(11)** The change in the exercise of sovereignty over Hong Kong should not affect ownership in any property, tangible or intangible, held in the United States by any Hong Kong person.
+
+## Source Credit
+
+*([Pub. L. 102–383, title I, § 103](https://www.govinfo.gov/link/plaw/102/public/383), Oct. 5, 1992, [106 Stat. 1450](https://www.govinfo.gov/link/statute/106/1450); [Pub. L. 105–206, title V, § 5003(b)(7)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 790](https://www.govinfo.gov/link/statute/112/790).)*

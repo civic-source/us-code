@@ -3,9 +3,10 @@ title: "Section 1140m - Model demonstration programs to support improved access 
 usc_title: 20
 usc_section: "1140m"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1140m"
-generated_at: "2026-03-30T02:54:48.148Z"
+generated_at: "2026-11-23T21:25:47.258Z"
+status: "active"
 ---
 
 # § 1140m. Model demonstration programs to support improved access to postsecondary instructional materials for students with print disabilities
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:54:48.148Z"
 - **(i)** The Secretary may, on the basis of the reports under subsection (h) and section 1140 l (b)(2) of this title and any evaluations of the projects funded under this section, expand the program under this section to additional grant or contract recipients that use other programmatic approaches and serve different geographic regions, if the Secretary finds that the models used under this section—
   - **(1)** are effective in improving the timely delivery and quality of materials in specialized formats; and
   - **(2)** provide adequate protections against copyright infringement.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VII, § 773](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title VII, § 709(2)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3371](https://www.govinfo.gov/link/statute/122/3371).)*

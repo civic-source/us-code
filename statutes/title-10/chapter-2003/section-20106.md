@@ -3,9 +3,10 @@ title: "Section 20106 - Orders to active duty: without consent of member"
 usc_title: 10
 usc_section: "20106"
 chapter: 2003
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 20106"
-generated_at: "2026-03-30T02:53:38.280Z"
+generated_at: "2026-11-23T21:25:33.083Z"
+status: "active"
 ---
 
 # § 20106. Orders to active duty: without consent of member
@@ -33,3 +34,15 @@ generated_at: "2026-03-30T02:53:38.280Z"
   - **(6)** Section 12316, relating to payment of certain Reserves while on duty.
   - **(7)** Section 12317, relating to theological students; limitations.
   - **(8)** Section 12320, relating to grade in which ordered to active duty.
+
+Members in a Space Force Active Status.—
+
+Members in a Space Force Inactive Status.—
+
+Members in a Space Force Retired Status.—
+
+Other Applicable Provisions
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVII, § 1715](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 629](https://www.govinfo.gov/link/statute/137/629); amended [Pub. L. 118–159, div. A, title V, § 521(m)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1882](https://www.govinfo.gov/link/statute/138/1882).)*

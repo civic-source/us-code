@@ -3,9 +3,10 @@ title: "Section 5551 - General provisions relating to bonds"
 usc_title: 26
 usc_section: "5551"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5551"
-generated_at: "2026-03-30T02:55:27.824Z"
+generated_at: "2026-11-23T21:26:06.728Z"
+status: "active"
 ---
 
 # § 5551. General provisions relating to bonds
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:27.824Z"
 - **(d)**
   - **(1)** During any period to which subparagraph (A) of section 5061(d)(4) applies to a taxpayer (determined after application of subparagraph (B) thereof), such taxpayer shall not be required to furnish any bond covering operations or withdrawals of distilled spirits or wines for nonindustrial use or of beer.
   - **(2)** Any taxpayer for any period described in paragraph (1) shall be treated as if sufficient bond has been furnished for purposes of covering operations and withdrawals of distilled spirits or wines for nonindustrial use or of beer for purposes of any requirements relating to bonds under this chapter.
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1394](https://www.govinfo.gov/link/statute/72/1394); amended [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1905(c)(5), 1906(b)(13)(B), Oct. 4, 1976, [90 Stat. 1823](https://www.govinfo.gov/link/statute/90/1823), 1834; [Pub. L. 96–39, title VIII, § 807(a)(51)](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 288](https://www.govinfo.gov/link/statute/93/288); [Pub. L. 114–113, div. Q, title III, § 332(b)(1)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3105](https://www.govinfo.gov/link/statute/129/3105).)*

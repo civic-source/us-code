@@ -3,9 +3,10 @@ title: "Section 805 - General deductions"
 usc_title: 26
 usc_section: "805"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 805"
-generated_at: "2026-03-30T02:55:27.729Z"
+generated_at: "2026-11-23T21:26:06.382Z"
+status: "active"
 ---
 
 # § 805. General deductions
@@ -64,3 +65,7 @@ generated_at: "2026-03-30T02:55:27.729Z"
     - **(A)** Section 171 shall not apply.
     - **(B)** For rules relating to amortizable bond premium, see section 811(b).
   - **(4)** Except as provided in subsection (a)(4), the deductions for dividends received provided by sections 243 and 245 shall not be allowed.
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title II, § 211(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 722](https://www.govinfo.gov/link/statute/98/722); amended [Pub. L. 99–514, title VI, § 611(a)(5)](https://www.govinfo.gov/link/plaw/99/public/514), title VIII, § 805(c)(6), title X, § 1011(b)(4), title XVIII, § 1821(p), Oct. 22, 1986, [100 Stat. 2249](https://www.govinfo.gov/link/statute/100/2249), 2362, 2389, 2842; [Pub. L. 100–203, title X, § 10221(c)(2)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–409](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 104–188, title I, § 1702(h)(3)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1873](https://www.govinfo.gov/link/statute/110/1873); [Pub. L. 105–34, title X, § 1084(b)(1)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 954](https://www.govinfo.gov/link/statute/111/954); [Pub. L. 113–295, div. A, title II, § 221(a)(41)(G)](https://www.govinfo.gov/link/plaw/113/public/295), (I), Dec. 19, 2014, [128 Stat. 4044](https://www.govinfo.gov/link/statute/128/4044); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 13511(a), (b)(4)–(6), 13512(b)(5), (6), Dec. 22, 2017, [131 Stat. 2142](https://www.govinfo.gov/link/statute/131/2142), 2143.)*

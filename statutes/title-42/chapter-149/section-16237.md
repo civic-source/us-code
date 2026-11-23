@@ -3,9 +3,10 @@ title: "Section 16237 - Wind energy research and development"
 usc_title: 42
 usc_section: "16237"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16237"
-generated_at: "2026-03-30T02:56:11.474Z"
+generated_at: "2026-11-23T21:26:33.708Z"
+status: "active"
 ---
 
 # § 16237. Wind energy research and development
@@ -143,3 +144,25 @@ generated_at: "2026-03-30T02:56:11.474Z"
       - **(ii)** studies conducted by the National Laboratories; and
       - **(iii)** the multiyear program planning required under section 16358 of this title .
   - **(7)** There is authorized to be appropriated to the Secretary to carry out the program $125,000,000 for each of fiscal years 2021 through 2025.
+
+(aa) an offshore research facility to conduct research for oceanic, biological, geological, and atmospheric resource characterization relevant to offshore wind energy development in coordination with the ocean and atmospheric science communities; and
+
+(bb) an offshore support structure testing facility to conduct development, demonstration, and commercialization of large-scale and full-scale offshore wind energy support structure components and systems;
+
+(aa) other generation sources;
+
+(bb) demand response technologies; and
+
+(cc) energy storage technologies.
+
+(aa) in economically distressed areas and areas disproportionately impacted by pollution; and
+
+(bb) that provide the greatest potential to reduce energy costs, as well as promote accessibility and community implementation of demonstrated technologies;
+
+(aa) domestic manufacturing and production of wind energy technologies; or
+
+(bb) exports of wind energy technologies; and
+
+## Source Credit
+
+*([Pub. L. 116–260, div. Z, title III, § 3003](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2497](https://www.govinfo.gov/link/statute/134/2497).)*

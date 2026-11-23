@@ -3,9 +3,10 @@ title: "Section 41312 - Report on female genital mutilation"
 usc_title: 34
 usc_section: "41312"
 chapter: 413
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 41312"
-generated_at: "2026-03-30T02:55:33.314Z"
+generated_at: "2026-11-23T21:26:09.848Z"
+status: "active"
 ---
 
 # § 41312. Report on female genital mutilation
@@ -15,3 +16,7 @@ Not later than one year after January 5, 2021 , and annually thereafter, the Att
   - **(1)** an estimate of the number of women and girls in the United States at risk of or who have been subjected to female genital mutilation;
   - **(2)** the protections available and actions taken, if any, by Federal, State, and local agencies to protect such women and girls; and
   - **(3)** the actions taken by Federal agencies to educate and assist communities and key stakeholders about female genital mutilation.
+
+## Source Credit
+
+*([Pub. L. 116–309, § 4](https://www.govinfo.gov/link/plaw/116/public/309), Jan. 5, 2021, [134 Stat. 4924](https://www.govinfo.gov/link/statute/134/4924).)*

@@ -3,9 +3,10 @@ title: "Section 1541 - Allocation of costs; repayment"
 usc_title: 43
 usc_section: "1541"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1541"
-generated_at: "2026-03-30T02:55:57.476Z"
+generated_at: "2026-11-23T21:26:19.844Z"
+status: "active"
 ---
 
 # § 1541. Allocation of costs; repayment
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:57.476Z"
   - **(9)** the replenishment of the depletion of Colorado River flows available for use in the United States occasioned by performance of the Water Treaty of 1944 with the United Mexican States (Treaty Series 994; 59 Stat. 1219 ), and
   - **(10)** any other purposes authorized under the Federal reclamation laws. Costs of construction, operation, and maintenance allocated to the replenishment of the depletion of Colorado River flows available for use in the United States occasioned by compliance with the Mexican Water Treaty (including losses in transit, evaporation from regulatory reservoirs, and regulatory losses at the Mexican boundary, incurred in the transportation, storage, and delivery of water in discharge of the obligations of that treaty) shall be nonreimbursable: Provided , That the nonreimbursable allocation shall be made on a pro rata basis to be determined by the ratio between the amount of water required to comply with the Mexican Water Treaty and the total amount of water by which the Colorado River is augmented pursuant to the investigations authorized subchapter II of this chapter and any future Congressional authorization. The repayment of costs allocated to recreation and fish and wildlife enhancement shall be in accordance with the provisions of the Federal Water Project Recreation Act ( 79 Stat. 213 ) [ 16 U.S.C. 460 l –12 et seq.]: Provided , That all of the separable and joint costs allocated to recreation and fish and wildlife enhancement as a part of the Dixie project, Utah, shall be nonreimbursable. Costs allocated to nonreimbursable purposes shall be nonreturnable under the provisions of this chapter.
 
+
+## Source Credit
+
+*([Pub. L. 90–537, title IV, § 401](https://www.govinfo.gov/link/plaw/90/public/537), Sept. 30, 1968, [82 Stat. 894](https://www.govinfo.gov/link/statute/82/894).)*

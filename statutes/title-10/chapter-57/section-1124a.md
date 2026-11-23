@@ -3,9 +3,10 @@ title: "Section 1124a - Cyber operations-peculiar awards"
 usc_title: 10
 usc_section: "1124a"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1124a"
-generated_at: "2026-03-30T02:53:38.110Z"
+generated_at: "2026-11-23T21:25:32.428Z"
+status: "active"
 ---
 
 # § 1124a. Cyber operations-peculiar awards
@@ -18,3 +19,19 @@ generated_at: "2026-03-30T02:53:38.110Z"
 - **(d)** The total amount of the award, or awards, made under this section for a novel action, invention, or technical achievement may not exceed $2,500, regardless of the number of persons who may be entitled to share therein.
 - **(e)** Awards under this section shall be made under regulations to be prescribed by the Secretary of Defense or by the Secretaries of the military departments.
 - **(f)** In this section, the term “covered armed forces” means the Army, Navy, Air Force, Marine Corps, and Space Force.
+
+Authority
+
+Actions During Service
+
+Payment
+
+Amounts
+
+Regulations
+
+Covered Armed Forces Defined
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. A, title XV, § 1531](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2900](https://www.govinfo.gov/link/statute/136/2900).)*

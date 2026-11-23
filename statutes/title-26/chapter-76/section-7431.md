@@ -3,9 +3,10 @@ title: "Section 7431 - Civil damages for unauthorized inspection or disclosure o
 usc_title: 26
 usc_section: "7431"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7431"
-generated_at: "2026-03-30T02:55:27.871Z"
+generated_at: "2026-11-23T21:26:06.959Z"
+status: "active"
 ---
 
 # § 7431. Civil damages for unauthorized inspection or disclosure of returns and return information
@@ -34,3 +35,11 @@ generated_at: "2026-03-30T02:55:27.871Z"
   - **(1)** any information obtained under section 3406 (including information with respect to any payee certification failure under subsection (d) thereof) shall be treated as return information, and
   - **(2)** any inspection or use of such information other than for purposes of meeting any requirement under section 3406 or (subject to the safeguards set forth in section 6103) for purposes permitted under section 6103 shall be treated as a violation of section 6103.
 - **(h)** For purposes of this section, any reference to section 6103 shall be treated as including a reference to section 6311(e).
+
+No Liability for Good Faith but Erroneous Interpretation
+
+Return; Return Information
+
+## Source Credit
+
+*(Added [Pub. L. 97–248, title III, § 357(a)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 645](https://www.govinfo.gov/link/statute/96/645); amended [Pub. L. 98–67, title I, § 104(b)](https://www.govinfo.gov/link/plaw/98/public/67), Aug. 5, 1983, [97 Stat. 379](https://www.govinfo.gov/link/statute/97/379); [Pub. L. 105–34, title XII, § 1205(c)(2)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 998](https://www.govinfo.gov/link/statute/111/998); [Pub. L. 105–35, § 3(a)](https://www.govinfo.gov/link/plaw/105/public/35) –(d)(4), (6), Aug. 5, 1997, [111 Stat. 1105](https://www.govinfo.gov/link/statute/111/1105), 1106; [Pub. L. 105–206, title III, § 3101(f)](https://www.govinfo.gov/link/plaw/105/public/206), title VI, § 6012(b)(3), July 22, 1998, [112 Stat. 729](https://www.govinfo.gov/link/statute/112/729), 819; [Pub. L. 109–280, title XII, § 1224(b)(7)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1093](https://www.govinfo.gov/link/statute/120/1093); [Pub. L. 116–25, title III, § 3002(a)](https://www.govinfo.gov/link/plaw/116/public/25), July 1, 2019, [133 Stat. 1015](https://www.govinfo.gov/link/statute/133/1015).)*

@@ -3,9 +3,10 @@ title: "Section 1397d - Limitation on use of grants; waiver"
 usc_title: 42
 usc_section: "1397d"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1397d"
-generated_at: "2026-03-30T02:56:11.065Z"
+generated_at: "2026-11-23T21:26:31.928Z"
+status: "active"
 ---
 
 # § 1397d. Limitation on use of grants; waiver
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.065Z"
     - **(B)** at the medical direction or on the prescription of a physician during the period when the physician is excluded under this division or subchapter V, XVIII, or XIX pursuant to section 1320a–7, 1320a–7a, 1320c–5, or 1395u(j)(2) of this title and when the person furnishing such item or service knew or had reason to know of the exclusion (after a reasonable time period after reasonable notice has been furnished to the person); or
   - **(10)** in a manner inconsistent with the Assisted Suicide Funding Restriction Act of 1997 [ 42 U.S.C. 14401 et seq.].
 - **(b)** The Secretary may waive the limitation contained in subsection (a)(1) and (4) upon the State’s request for such a waiver if he finds that the request describes extraordinary circumstances to justify the waiver and that permitting the waiver will contribute to the State’s ability to carry out the purposes of this division.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XX, § 2005, as added [Pub. L. 97–35, title XXIII, § 2352(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 869](https://www.govinfo.gov/link/statute/95/869); amended [Pub. L. 100–93, § 8(i)](https://www.govinfo.gov/link/plaw/100/public/93), Aug. 18, 1987, [101 Stat. 695](https://www.govinfo.gov/link/statute/101/695); [Pub. L. 100–203, title IV, § 4118(e)(13)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, as added [Pub. L. 100–360, title IV, § 411(k)(10)(D)](https://www.govinfo.gov/link/plaw/100/public/360), July 1, 1988, [102 Stat. 796](https://www.govinfo.gov/link/statute/102/796); [Pub. L. 100–485, title VI, § 608(d)(26)(K)(ii)](https://www.govinfo.gov/link/plaw/100/public/485), Oct. 13, 1988, [102 Stat. 2422](https://www.govinfo.gov/link/statute/102/2422); [Pub. L. 105–12, § 9(c)](https://www.govinfo.gov/link/plaw/105/public/12), Apr. 30, 1997, [111 Stat. 27](https://www.govinfo.gov/link/statute/111/27); [Pub. L. 111–148, title VI, § 6703(d)(1)(B)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 803](https://www.govinfo.gov/link/statute/124/803).)*

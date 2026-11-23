@@ -3,9 +3,10 @@ title: "Section 100901 - Authority of Secretary to carry out certain activities"
 usc_title: 54
 usc_section: "100901"
 chapter: 1009
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "54 U.S.C. § 100901"
-generated_at: "2026-03-30T02:56:28.413Z"
+generated_at: "2026-11-23T21:26:42.759Z"
+status: "active"
 ---
 
 # § 100901. Authority of Secretary to carry out certain activities
@@ -31,3 +32,107 @@ generated_at: "2026-03-30T02:56:28.413Z"
     - **(A)** made from appropriations applicable to the work on which the equipment is used at rental rates established by the Secretary, based on actual or estimated cost of operation, repair, maintenance, depreciation, and equipment management control; and
     - **(B)** credited to appropriations currently available at the time adjustment is effected.
   - **(3)** The Secretary may rent equipment for fire control purposes to State, county, private, or other non-Federal agencies that cooperate with the Secretary in the administration of the System and other areas in fire control. The rental shall be under the terms of written cooperative agreements. The amount collected for the rentals shall be credited to appropriations currently available at the time payment is received.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 100901(a) | 16 U.S.C. 1a–2 (matter before (a)). | Pub. L. 91–383, § 3 (matter before (a)), Aug. 18, 1970 , 84 Stat. 826 . |
+|  | 16 U.S.C. 1b (matter before (1)). | Aug. 8, 1953, ch. 384, § 1 (matter before (1)), (2), (5) through (8), 67 Stat. 495 , 496; Pub. L. 91–383, § 2(a) , Aug. 18, 1970 , 84 Stat. 826 . |
+| 100901(b) | 16 U.S.C. 1a–2(e) . | Pub. L. 91–383, § 3(e) , Aug. 18, 1970 , 84 Stat. 827 ; Pub. L. 94–458, § 1(1) , Oct. 7, 1976 , 90 Stat. 1939 ; Pub. L. 106–176, title I, § 118(2) , (3), Mar. 10, 2000 , 114 Stat. 28 . |
+| 100901(c) | 16 U.S.C. 1a–2(f) . | Pub. L. 91–383, § 3(f) , Aug. 18, 1970 , 84 Stat. 827 ; Pub. L. 106–176, title I, § 118(2) , (3), Mar. 10, 2000 , 114 Stat. 28 . |
+| 100901(d) | 16 U.S.C. 1b(2) . |  |
+| 100901(e) through (h) | 16 U.S.C. 1b(5) through (8). |  |
+
+
+In General
+
+Services, Resources, or Water Contracts
+
+Vehicular Air Conditioning
+
+Utility Facilities
+
+Supplies and Rental of Equipment
+
+Contracts for Utility Facilities
+
+Rights of Way Necessary To Construct, Improve, and Maintain Roads
+
+Operation and Maintenance of Motor and Other Equipment.—
+
+In general
+
+Reimbursement
+
+Rental of equipment for fire control purposes
+
+Historical and Revision Notes
+
+100901(a)
+
+16 U.S.C. 1a–2
+
+Pub. L. 91–383, § 3
+
+Aug. 18, 1970
+
+84 Stat. 826
+
+16 U.S.C. 1b
+
+Aug. 8, 1953, ch. 384, § 1
+
+67 Stat. 495
+
+Pub. L. 91–383, § 2(a)
+
+Aug. 18, 1970
+
+84 Stat. 826
+
+100901(b)
+
+16 U.S.C. 1a–2(e)
+
+Pub. L. 91–383, § 3(e)
+
+Aug. 18, 1970
+
+84 Stat. 827
+
+Pub. L. 94–458, § 1(1)
+
+Oct. 7, 1976
+
+90 Stat. 1939
+
+Pub. L. 106–176, title I, § 118(2)
+
+Mar. 10, 2000
+
+114 Stat. 28
+
+100901(c)
+
+16 U.S.C. 1a–2(f)
+
+Pub. L. 91–383, § 3(f)
+
+Aug. 18, 1970
+
+84 Stat. 827
+
+Pub. L. 106–176, title I, § 118(2)
+
+Mar. 10, 2000
+
+114 Stat. 28
+
+100901(d)
+
+16 U.S.C. 1b(2)
+
+16 U.S.C. 1b(5)
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3112](https://www.govinfo.gov/link/statute/128/3112).)*

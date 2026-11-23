@@ -3,9 +3,10 @@ title: "Section 12641 - Task force relating to introduction of nonindigenous spe
 usc_title: 34
 usc_section: "12641"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 12641"
-generated_at: "2026-03-30T02:55:33.292Z"
+generated_at: "2026-11-23T21:26:09.765Z"
+status: "active"
 ---
 
 # § 12641. Task force relating to introduction of nonindigenous species
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:33.292Z"
     - **(A)** the progress of its enforcement efforts; and
     - **(B)** the adequacy of existing Federal laws and laws of the State of Hawaii that relate to the introduction of nonindigenous plant and animal species.
   - **(5)** The task force shall consult with Hawaii agricultural interests and representatives of Hawaii conservation organizations about methods of preventing the wrongful conveyance, sale, or introduction of nonindigenous plant and animal species into Hawaii.
+
+## Source Credit
+
+*([Pub. L. 103–322, title XXXII, § 320108(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2111](https://www.govinfo.gov/link/statute/108/2111).)*

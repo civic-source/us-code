@@ -3,9 +3,10 @@ title: "Section 1722 - Injunction and specific enforcement authority"
 usc_title: 30
 usc_section: "1722"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1722"
-generated_at: "2026-03-30T02:55:29.409Z"
+generated_at: "2026-11-23T21:26:00.446Z"
+status: "active"
 ---
 
 # § 1722. Injunction and specific enforcement authority
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:29.409Z"
   - **(1)** to restrain any violation of this chapter; or
   - **(2)** to compel the taking of any action required by or under this chapter or any mineral leasing law of the United States.
 - **(b)** A civil action described in subsection (a) may be brought only in the United States district court for the judicial district wherein the act, omission, or transaction constituting a violation under this chapter or any other mineral leasing law occurred, or wherein the defendant is found or transacts business.
+
+## Source Credit
+
+*([Pub. L. 97–451, title I, § 112](https://www.govinfo.gov/link/plaw/97/public/451), Jan. 12, 1983, [96 Stat. 2456](https://www.govinfo.gov/link/statute/96/2456).)*

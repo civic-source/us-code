@@ -3,9 +3,10 @@ title: "Section 224 - Qualified tips"
 usc_title: 26
 usc_section: "224"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 224"
-generated_at: "2026-03-30T02:55:27.655Z"
+generated_at: "2026-11-23T21:26:06.102Z"
+status: "active"
 ---
 
 # § 224. Qualified tips
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:27.655Z"
 - **(f)** If the taxpayer is a married individual (within the meaning of section 7703), this section shall apply only if the taxpayer and the taxpayer’s spouse file a joint return for the taxable year.
 - **(g)** The Secretary shall prescribe such regulations or other guidance as may be necessary to prevent reclassification of income as qualified tips, including regulations or other guidance to prevent abuse of the deduction allowed by this section.
 - **(h)** No deduction shall be allowed under this section for any taxable year beginning after December 31, 2028 .
+
+## Source Credit
+
+*(Added [Pub. L. 119–21, title VII, § 70201(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 170](https://www.govinfo.gov/link/statute/139/170).)*

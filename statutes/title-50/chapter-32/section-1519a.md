@@ -3,9 +3,10 @@ title: "Section 1519a - Limitation on procurement of binary chemical weapons"
 usc_title: 50
 usc_section: "1519a"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1519a"
-generated_at: "2026-03-30T02:56:26.205Z"
+generated_at: "2026-11-23T21:26:38.912Z"
+status: "active"
 ---
 
 # § 1519a. Limitation on procurement of binary chemical weapons
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:26.205Z"
   - **(1)** Funds appropriated pursuant to the authorization of appropriations for the Army in section 101 of this Act may be used for the establishment of a production base for binary chemical munitions and for the procurement of components for 155-millimeter binary chemical artillery projectiles, but such funds may not be used for the actual production of binary chemical munitions before October 1, 1985 .
   - **(2)** Notwithstanding the provisions of paragraph (1), before the production of binary chemical munitions may begin after September 30, 1985 , the President must certify to Congress in writing that, in light of circumstances prevailing at the time the certification is made, the production of such munitions is essential to the national interest.
   - **(3)** For purposes of this subsection, “production of binary chemical munitions” means the final assembly of weapon components and the filling or loading of components with binary chemicals.
+
+## Source Credit
+
+*([Pub. L. 98–94, title XII, § 1233](https://www.govinfo.gov/link/plaw/98/public/94), Sept. 24, 1983, [97 Stat. 695](https://www.govinfo.gov/link/statute/97/695).)*

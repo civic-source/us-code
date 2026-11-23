@@ -3,9 +3,10 @@ title: "Section 3706 - Price reductions for defective cost or pricing data"
 usc_title: 10
 usc_section: "3706"
 chapter: 271
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3706"
-generated_at: "2026-03-30T02:53:38.196Z"
+generated_at: "2026-11-23T21:25:32.736Z"
+status: "active"
 ---
 
 # § 3706. Price reductions for defective cost or pricing data
@@ -28,3 +29,21 @@ generated_at: "2026-03-30T02:53:38.196Z"
   - **(2)** A contractor shall not be allowed to offset an amount otherwise authorized to be offset under paragraph (1) if—
     - **(A)** the certification under section 3702(b) of this title with respect to the cost or pricing data involved was known to be false when signed; or
     - **(B)** the United States proves that, had the cost or pricing data referred to in paragraph (1)(B) been submitted to the United States before the date of agreement on the price of the contract (or price of the modification) or, if applicable consistent with subsection (a)(2), another date agreed upon between the parties, the submission of such cost or pricing data would not have resulted in an increase in that price in the amount to be offset.
+
+Provision Requiring Adjustment.—
+
+In general
+
+What constitutes defective cost or pricing data
+
+Valid Defense
+
+Invalid Defenses
+
+Offsets.—
+
+When allowed
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1831(a)](https://www.govinfo.gov/link/plaw/116/public/283), (g), Jan. 1, 2021, [134 Stat. 4209](https://www.govinfo.gov/link/statute/134/4209), 4214.)*

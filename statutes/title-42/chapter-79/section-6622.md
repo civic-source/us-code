@@ -3,9 +3,10 @@ title: "Section 6622 - Coordination of advanced manufacturing research and devel
 usc_title: 42
 usc_section: "6622"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6622"
-generated_at: "2026-03-30T02:56:11.264Z"
+generated_at: "2026-11-23T21:26:32.968Z"
+status: "active"
 ---
 
 # § 6622. Coordination of advanced manufacturing research and development
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:56:11.264Z"
   - **(4)** Not later than May 1, 2018 , and not less frequently than once every 4 years thereafter, the President shall submit to Congress, and publish on an Internet website that is accessible to the public, an update of the strategic plan submitted under paragraph (1). Such updates shall be developed in accordance with the procedures set forth under this subsection.
   - **(5)** In preparing the budget for a fiscal year under section 1105(a) of title 31 , the President shall include information regarding the consistency of the budget with the goals and recommendations included in the strategic plan developed under this subsection applying to that fiscal year.
   - **(6)** The Advanced Manufacturing Partnership Steering Committee of the President’s Council of Advisors on Science and Technology shall provide input, perspective, and recommendations to assist in the development and updates of the strategic plan under this subsection.
+
+## Source Credit
+
+*([Pub. L. 111–358, title I, § 102](https://www.govinfo.gov/link/plaw/111/public/358), Jan. 4, 2011, [124 Stat. 3985](https://www.govinfo.gov/link/statute/124/3985); [Pub. L. 113–235, div. B, title VII, § 704](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2229](https://www.govinfo.gov/link/statute/128/2229).)*

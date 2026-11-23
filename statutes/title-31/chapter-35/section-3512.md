@@ -3,9 +3,10 @@ title: "Section 3512 - Executive agency accounting and other financial managemen
 usc_title: 31
 usc_section: "3512"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 3512"
-generated_at: "2026-03-30T02:55:34.056Z"
+generated_at: "2026-11-23T21:26:10.576Z"
+status: "active"
 ---
 
 # § 3512. Executive agency accounting and other financial management reports and plans
@@ -71,3 +72,130 @@ generated_at: "2026-03-30T02:55:34.056Z"
   - **(1)** cooperate with the head of each executive agency in developing an accounting system for the agency; and
   - **(2)** approve the system when the Comptroller General considers it to be adequate and in conformity with the principles, standards, and requirements prescribed under section 3511 of this title .
 - **(g)** The Comptroller General shall review the accounting systems of each executive agency. The results of a review shall be available to the head of the executive agency, the Secretary, and the President. The Comptroller General shall report to Congress on a review when the Comptroller General considers it proper.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3512(a) | 31:66a(a). | Sept. 12, 1950, ch. 946 , §§ 112(c), 113(a), 64 Stat. 835 ; Reorg. Plan No. 2 of 1970, eff. July 1, 1970 , § 102(a), 84 Stat. 2085 . |
+| 3512(b) | 31:66a(c). | Sept. 12, 1950, ch. 946 , 64 Stat. 832 , § 113(c); added Aug. 1, 1956, ch. 814, § 2(b) , 70 Stat. 782 . |
+| 3512(c) | 31:66(b)(less Treasury Department). | Sept. 12, 1950, ch. 946 , §§ 112(b)(less Treasury Department), 113(b), 64 Stat. 835 , 836. |
+|  | 31:66a(b). |  |
+| 3512(d) | 31:66(c). |  |
+
+| 1983 Act | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3512(b) | 31 App.:66a(d)(1). | Sept. 12, 1950, ch. 946 , 64 Stat. 832 , § 113(d); added Sept. 8, 1982 , Pub. L. 97–255, § 2 , 96 Stat. 814 . |
+| 3512(c)(1) | 31 App.:66a(d)(2). |  |
+| 3512(c)(2) (A) | 31 App.:66a(d)(3), (4). |  |
+| 3512(c)(2) (B) | 31 App.:66a(b)(last sentence). | Sept. 12, 1950, ch. 946 , 64 Stat. 832 , § 113(b)(last sentence); added Sept. 8, 1982 , Pub. L. 97–255, § 4 , 96 Stat. 815 . |
+| 3512(c)(3) | 31 App.:66a(d)(5). |  |
+
+
+Historical and Revision Notes
+
+Act
+
+3512(a)
+
+Sept. 12, 1950, ch. 946
+
+64 Stat. 835
+
+July 1, 1970
+
+84 Stat. 2085
+
+3512(b)
+
+Sept. 12, 1950, ch. 946
+
+64 Stat. 832
+
+Aug. 1, 1956, ch. 814, § 2(b)
+
+70 Stat. 782
+
+3512(c)
+
+Sept. 12, 1950, ch. 946
+
+64 Stat. 835
+
+3512(d)
+
+Act
+
+3512(b)
+
+Sept. 12, 1950, ch. 946
+
+64 Stat. 832
+
+Sept. 8, 1982
+
+Pub. L. 97–255, § 2
+
+96 Stat. 814
+
+3512(c)(1)
+
+Sept. 12, 1950, ch. 946
+
+64 Stat. 832
+
+Sept. 8, 1982
+
+Pub. L. 97–255, § 4
+
+96 Stat. 815
+
+3512(c)(3)
+
+Findings
+
+Purpose
+
+In General
+
+Audit Compliance Finding.—
+
+In general
+
+Content of Reports
+
+Compliance Implementation.—
+
+Determination
+
+Date of determination
+
+Remediation plan.—
+
+Time period for compliance
+
+Reports by the Director
+
+Reports by the Inspector General
+
+Reports by the Comptroller General
+
+Audits by Agencies
+
+Financial Management Status Report
+
+Inspector General Act of
+
+Agency
+
+Director
+
+Federal Accounting Standards
+
+Financial management systems
+
+Financial system
+
+Mixed system
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 959](https://www.govinfo.gov/link/statute/96/959); [Pub. L. 97–452, § 1(12)](https://www.govinfo.gov/link/plaw/97/public/452), Jan. 12, 1983, [96 Stat. 2468](https://www.govinfo.gov/link/statute/96/2468); [Pub. L. 101–576, title III, § 301(a)](https://www.govinfo.gov/link/plaw/101/public/576), Nov. 15, 1990, [104 Stat. 2847](https://www.govinfo.gov/link/statute/104/2847); [Pub. L. 103–272, § 4(f)(1)(J)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1362](https://www.govinfo.gov/link/statute/108/1362); [Pub. L. 104–208, div. A, title I, § 101(f) [title VIII, § 805(b)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–314](https://www.govinfo.gov/link/statute/110/3009), 3009–392; [Pub. L. 113–101, § 4](https://www.govinfo.gov/link/plaw/113/public/101), May 9, 2014, [128 Stat. 1153](https://www.govinfo.gov/link/statute/128/1153); [Pub. L. 116–283, div. H, title XCVI, § 9601(c)(2)(E)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4828](https://www.govinfo.gov/link/statute/134/4828).)*

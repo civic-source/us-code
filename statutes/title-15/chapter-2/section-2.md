@@ -3,12 +3,17 @@ title: "Section 2 - Reimbursement of expenses"
 usc_title: 15
 usc_section: "2"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-30T02:54:08.028Z"
+generated_at: "2026-11-23T21:25:39.490Z"
+status: "active"
 ---
 
 # § 57c–2. Reimbursement of expenses
 
 The Commission may accept payment or reimbursement, in cash or in kind, from a domestic or foreign law enforcement agency, or payment or reimbursement made on behalf of such agency, for expenses incurred by the Commission, its members, or employees in carrying out any activity pursuant to a statute administered by the Commission without regard to any other provision of law. Any such payments or reimbursements shall be considered a reimbursement to the appropriated funds of the Commission.
 
+
+## Source Credit
+
+*(Sept. 26, 1914, ch. 311, § 26, as added [Pub. L. 109–455, § 11(2)](https://www.govinfo.gov/link/plaw/109/public/455), Dec. 22, 2006, [120 Stat. 3381](https://www.govinfo.gov/link/statute/120/3381).)*

@@ -3,9 +3,10 @@ title: "Section 3698A - Provision of certificates of eligibility and award lette
 usc_title: 38
 usc_section: "3698A"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3698A"
-generated_at: "2026-03-30T02:55:53.511Z"
+generated_at: "2026-11-23T21:26:16.769Z"
+status: "active"
 ---
 
 # § 3698A. Provision of certificates of eligibility and award letters using electronic means
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:55:53.511Z"
   - **(2)** An award letter regarding the authorization of the individual to receive covered educational assistance.
 - **(b)** An individual may elect to receive the documents specified in subsection (a) by mail rather than through electronic means under subsection (a). An individual may revoke such an election at any time, by means prescribed by the Secretary.
 - **(c)** In this section, the term “covered educational assistance” means educational assistance under chapter 30, 33, or 35 of this title, or section 3699C of this title .
+
+Requirement
+
+Election to Opt Out
+
+Covered Educational Assistance
+
+## Source Credit
+
+*(Added [Pub. L. 118–210, title II, § 210(a)](https://www.govinfo.gov/link/plaw/118/public/210), Jan. 2, 2025, [138 Stat. 2766](https://www.govinfo.gov/link/statute/138/2766).)*

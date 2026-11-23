@@ -3,9 +3,10 @@ title: "Section 537 - Reasonable needs of the business"
 usc_title: 26
 usc_section: "537"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 537"
-generated_at: "2026-03-30T02:55:27.717Z"
+generated_at: "2026-11-23T21:26:06.334Z"
+status: "active"
 ---
 
 # § 537. Reasonable needs of the business
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:27.717Z"
   - **(3)** In applying paragraphs (1) and (2), the discharge of any obligation incurred to make a redemption described in such paragraphs shall be treated as the making of such redemption.
   - **(4)** The accumulation of reasonable amounts for the payment of reasonably anticipated product liability losses (as defined in section 172(f) (as in effect before the date of enactment of the Tax Cuts and Jobs Act)), as determined under regulations prescribed by the Secretary, shall be treated as accumulated for the reasonably anticipated needs of the business.
   - **(5)** The application of this part to any taxable year before the first taxable year specified in paragraph (1) shall be made without regard to the fact that distributions in redemption coming within the terms of such paragraphs were subsequently made.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 182; [Pub. L. 91–172, title IX, § 906(a)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 714](https://www.govinfo.gov/link/statute/83/714); [Pub. L. 94–455, title XIX, § 1901(a)(75)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1777](https://www.govinfo.gov/link/statute/90/1777); [Pub. L. 95–600, title III, § 371(c)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2859](https://www.govinfo.gov/link/statute/92/2859); [Pub. L. 104–188, title I, § 1704(t)(33)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1889](https://www.govinfo.gov/link/statute/110/1889); [Pub. L. 115–97, title I, § 13302(c)(2)(B)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2123](https://www.govinfo.gov/link/statute/131/2123).)*

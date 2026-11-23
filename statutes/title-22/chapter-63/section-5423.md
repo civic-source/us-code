@@ -3,9 +3,10 @@ title: "Section 5423 - Technical training for private sector development in Pola
 usc_title: 22
 usc_section: "5423"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5423"
-generated_at: "2026-03-30T02:55:05.418Z"
+generated_at: "2026-11-23T21:25:58.661Z"
+status: "active"
 ---
 
 # § 5423. Technical training for private sector development in Poland and Hungary
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.418Z"
 - **(c)** Assistance provided pursuant to subsection (a) under the authorities of part I of the Foreign Assistance Act of 1961 [ 22 U.S.C. 2151 et seq.] may be provided notwithstanding any other provision of law.
 - **(d)** For purposes of implementing this section, there are authorized to be appropriated $10,000,000 for the 3-year period beginning October 1, 1989 , to carry out chapter 1 of part I of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2151 and following; relating to development assistance), in addition to amounts otherwise available for such purposes.
 - **(e)** Any activities carried out pursuant to this chapter through the Farmer-to-Farmer Program under section 1736(a)(1) and (2) of title 7 shall be funded with funds authorized to be appropriated by this chapter and local currencies made available under section 5425 of this title , and shall not be funded with funds made available pursuant to section 1107 of the Food Security Act of 1985 ( 7 U.S.C. 1736 note) or a similar, subsequent provision of law.
+
+## Source Credit
+
+*([Pub. L. 101–179, title II, § 203](https://www.govinfo.gov/link/plaw/101/public/179), Nov. 28, 1989, [103 Stat. 1309](https://www.govinfo.gov/link/statute/103/1309); [Pub. L. 110–246, title III, § 3001(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/246), (2)(U), June 18, 2008, [122 Stat. 1820](https://www.govinfo.gov/link/statute/122/1820), 1821.)*

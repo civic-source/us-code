@@ -3,9 +3,10 @@ title: "Section 1865 - Capitol Police Buildings and Grounds Account"
 usc_title: 2
 usc_section: "1865"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1865"
-generated_at: "2026-03-30T02:53:04.818Z"
+generated_at: "2026-11-23T21:25:21.249Z"
+status: "active"
 ---
 
 # § 1865. Capitol Police Buildings and Grounds Account
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:04.818Z"
   - **(2)** Amounts transferred under this subsection shall be merged with the account and made available under this section.
   - **(3)** This subsection shall apply with respect to fiscal year 2019 and each succeeding fiscal year.
 - **(d)** This section shall apply with respect to fiscal year 2002 and each succeeding fiscal year. Any amounts provided to the Architect of the Capitol prior to August 2, 2002 , for the maintenance, care, and operation of buildings of the United States Capitol Police during fiscal year 2002 shall be transferred to the account.
+
+## Source Credit
+
+*([Pub. L. 107–206, title I, § 906](https://www.govinfo.gov/link/plaw/107/public/206), Aug. 2, 2002, [116 Stat. 877](https://www.govinfo.gov/link/statute/116/877); [Pub. L. 115–244, div. B, title I, § 132](https://www.govinfo.gov/link/plaw/115/public/244), Sept. 21, 2018, [132 Stat. 2936](https://www.govinfo.gov/link/statute/132/2936).)*

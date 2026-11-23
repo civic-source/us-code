@@ -3,9 +3,10 @@ title: "Section 116 - Oklahoma"
 usc_title: 28
 usc_section: "116"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 116"
-generated_at: "2026-03-30T02:55:30.123Z"
+generated_at: "2026-11-23T21:26:01.011Z"
+status: "active"
 ---
 
 # § 116. Oklahoma
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:30.123Z"
 - **(b)** The Eastern District comprises the counties of Adair, Atoka, Bryan, Carter, Cherokee, Choctaw, Coal, Haskell, Hughes, Johnston, Latimer, Le Flore Love, McCurtain, McIntosh, Marshall, Murray, Muskogee, Okfuskee, Okmulgee, Pittsburg, Pontotoc, Pushmataha, Seminole, Sequoyah, and Wagoner. Court for the Eastern District shall be held at Ada, Ardmore, Durant, Hugo, Muskogee, Okmulgee, Poteau, and S. McAlester. Western District
 - **(c)** The Western District comprises the counties of Alfalfa, Beaver, Beckham, Blaine, Caddo, Canadian, Cimarron, Cleveland, Comanche, Cotton, Custer, Dewey, Ellis, Garfield, Garvin, Grady, Grant, Greer, Harmon, Harper, Jackson, Jefferson, Kay, Kingfisher, Kiowa, Lincoln, Logan, McClain, Major, Noble, Oklahoma, Payne, Pottawatomie, Roger Mills, Stephens, Texas, Tillman, Washita, Woods, and Woodward. Court for the Western District shall be held at Chickasha, Enid, Guthrie, Lawton, Mangum, Oklahoma City, Pauls Valley, Ponca City, Shawnee, and Woodward.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 887](https://www.govinfo.gov/link/statute/62/887); [Pub. L. 89–526, § 1](https://www.govinfo.gov/link/plaw/89/public/526), Aug. 4, 1966, [80 Stat. 335](https://www.govinfo.gov/link/statute/80/335).)*

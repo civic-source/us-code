@@ -3,9 +3,10 @@ title: "Section 5105 - Standards for State license renewal"
 usc_title: 12
 usc_section: "5105"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5105"
-generated_at: "2026-03-30T02:53:53.523Z"
+generated_at: "2026-11-23T21:25:37.228Z"
+status: "active"
 ---
 
 # § 5105. Standards for State license renewal
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:53.523Z"
   - **(5)**
     - **(A)** To maintain the independence of the approval process, the Nationwide Mortgage Licensing System and Registry shall not directly or indirectly offer any continuing education courses for loan originators.
     - **(B)** In approving courses under this section, the Nationwide Mortgage Licensing System and Registry shall apply reasonable standards in the review and approval of courses.
+
+## Source Credit
+
+*([Pub. L. 110–289, div. A, title V, § 1506](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2816](https://www.govinfo.gov/link/statute/122/2816).)*

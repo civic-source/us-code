@@ -3,9 +3,10 @@ title: "Section 8571 - Statement of policy"
 usc_title: 22
 usc_section: "8571"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8571"
-generated_at: "2026-03-30T02:55:05.454Z"
+generated_at: "2026-11-23T21:25:58.747Z"
+status: "active"
 ---
 
 # § 8571. Statement of policy
@@ -16,3 +17,7 @@ It is the policy of the United States—
   - **(2)** to deny Iran funds to oppress and commit human rights violations against the Iranian people assembling to peacefully redress the Iranian regime;
   - **(3)** to fully enforce sanctions against those entities which provide support to the Iranian energy sector; and
   - **(4)** to counter Iran’s actions to finance and facilitate the participation of foreign terrorist organizations in ongoing conflicts and illicit activities due to the threat such actions pose to the vital national interests of the United States.
+
+## Source Credit
+
+*([Pub. L. 118–50, div. J, § 2](https://www.govinfo.gov/link/plaw/118/public/50), Apr. 24, 2024, [138 Stat. 963](https://www.govinfo.gov/link/statute/138/963).)*

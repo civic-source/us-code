@@ -3,9 +3,10 @@ title: "Section 1724 - Secretarial and delegated States’ actions and limitatio
 usc_title: 30
 usc_section: "1724"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1724"
-generated_at: "2026-03-30T02:55:29.409Z"
+generated_at: "2026-11-23T21:26:00.446Z"
+status: "active"
 ---
 
 # § 1724. Secretarial and delegated States’ actions and limitation periods
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:55:29.409Z"
 - **(j)** In the event a demand subject to this section is properly and timely commenced, the obligation which is the subject of the demand may be enforced beyond the seven-year limitations period without being barred by this statute of limitations. In the event a demand subject to this section is properly and timely commenced, a judicial proceeding challenging the final agency action with respect to such demand shall be deemed timely so long as such judicial proceeding is commenced within 180 days from receipt of notice by the lessee or its designee of the final agency action.
 - **(k)** In the event a judicial proceeding or demand subject to this section is timely commenced and thereafter the limitation period in this section lapses during the pendency of such proceeding, any party to such proceeding shall not be barred from taking such action as is required or necessary to implement a final unappealable judicial or administrative decision, including any action required or necessary to implement such decision by the recovery or recoupment of an underpayment or overpayment by means of refund or credit.
 - **(l)** Any person ordered by the Secretary or a delegated State to pay any obligation (other than an assessment) shall be entitled to a stay of such payment without bond or other surety instrument pending an administrative or judicial proceeding if the person periodically demonstrates to the satisfaction of the Secretary that such person is financially solvent or otherwise able to pay the obligation. In the event the person is not able to so demonstrate, the Secretary may require a bond or other surety instrument satisfactory to cover the obligation. Any person ordered by the Secretary or a delegated State to pay an assessment shall be entitled to a stay without bond or other surety instrument.
+
+## Source Credit
+
+*([Pub. L. 97–451, title I, § 115](https://www.govinfo.gov/link/plaw/97/public/451), as added [Pub. L. 104–185, § 4(a)](https://www.govinfo.gov/link/plaw/104/public/185), Aug. 13, 1996, [110 Stat. 1704](https://www.govinfo.gov/link/statute/110/1704); amended [Pub. L. 104–200, § 1(2)](https://www.govinfo.gov/link/plaw/104/public/200), Sept. 22, 1996, [110 Stat. 2421](https://www.govinfo.gov/link/statute/110/2421).)*

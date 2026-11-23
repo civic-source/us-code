@@ -3,12 +3,17 @@ title: "Section 895 - Income derived by a foreign central bank of issue from obl
 usc_title: 26
 usc_section: "895"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 895"
-generated_at: "2026-03-30T02:55:27.742Z"
+generated_at: "2026-11-23T21:26:06.421Z"
+status: "active"
 ---
 
 # § 895. Income derived by a foreign central bank of issue from obligations of the United States or from bank deposits
 
 Income derived by a foreign central bank of issue from obligations of the United States or of any agency or instrumentality thereof (including beneficial interests, participations, and other instruments issued under section 302(c) of the Federal National Mortgage Association Charter Act ( 12 U.S.C. 1717 )) which are owned by such foreign central bank of issue, or derived from interest on deposits with persons carrying on the banking business, shall not be included in gross income and shall be exempt from taxation under this subtitle unless such obligations or deposits are held for, or used in connection with, the conduct of commercial banking functions or other commercial activities. For purposes of the preceding sentence the Bank for International Settlements shall be treated as a foreign central bank of issue.
 
+
+## Source Credit
+
+*(Added [Pub. L. 87–29, § 1(a)](https://www.govinfo.gov/link/plaw/87/public/29), May 4, 1961, [75 Stat. 64](https://www.govinfo.gov/link/statute/75/64); amended [Pub. L. 89–809, title I, § 102(a)(4)(A)](https://www.govinfo.gov/link/plaw/89/public/809), Nov. 13, 1966, [80 Stat. 1543](https://www.govinfo.gov/link/statute/80/1543).)*

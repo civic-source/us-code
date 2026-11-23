@@ -3,9 +3,10 @@ title: "Section 6602 - Definitions"
 usc_title: 15
 usc_section: "6602"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6602"
-generated_at: "2026-03-30T02:54:08.212Z"
+generated_at: "2026-11-23T21:25:40.025Z"
+status: "active"
 ---
 
 # § 6602. Definitions
@@ -31,3 +32,7 @@ In this chapter:
   - **(6)** The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, the United States Virgin Islands, Guam, American Samoa, and any other territory or possession of the United States, and any political subdivision thereof.
   - **(7)** The term “contract” means a contract, tariff, license, or warranty.
   - **(8)** The term “alternative dispute resolution” means any process or proceeding, other than adjudication by a court or in an administrative proceeding, to assist in the resolution of issues in controversy, through processes such as early neutral evaluation, mediation, minitrial, and arbitration.
+
+## Source Credit
+
+*([Pub. L. 106–37, § 3](https://www.govinfo.gov/link/plaw/106/public/37), July 20, 1999, [113 Stat. 187](https://www.govinfo.gov/link/statute/113/187).)*

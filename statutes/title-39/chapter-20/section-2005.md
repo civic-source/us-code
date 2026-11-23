@@ -3,9 +3,10 @@ title: "Section 2005 - Obligations"
 usc_title: 39
 usc_section: "2005"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 2005"
-generated_at: "2026-03-30T02:55:43.690Z"
+generated_at: "2026-11-23T21:26:12.775Z"
+status: "active"
 ---
 
 # § 2005. Obligations
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:43.690Z"
   - **(3)** be lawful investments and may be accepted as security for all fiduciary, trust, and public funds, the investment or deposit of which shall be under the authority or control of any officer or agency of the Government of the United States, and the Secretary of the Treasury or any other officer or agency having authority over or control of any such fiduciary, trust, or public funds, may at any time sell any of the obligations of the Postal Service acquired under this section;
   - **(4)** be exempt both as to principal and interest from all taxation now or hereafter imposed by any State or local taxing authority except estate, inheritance, and gift taxes; and
   - **(5)** not be obligations of, nor shall payment of the principal thereof or interest thereon be guaranteed by, the Government of the United States, except as provided in section 2006(c) of this title .
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 740](https://www.govinfo.gov/link/statute/84/740); [Pub. L. 101–227, § 3(a)](https://www.govinfo.gov/link/plaw/101/public/227), Dec. 12, 1989, [103 Stat. 1944](https://www.govinfo.gov/link/statute/103/1944); [Pub. L. 109–435, title V, § 502](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3233](https://www.govinfo.gov/link/statute/120/3233).)*

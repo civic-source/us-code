@@ -3,9 +3,10 @@ title: "Section 2105 - Permissive terms and conditions in orders"
 usc_title: 7
 usc_section: "2105"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2105"
-generated_at: "2026-03-30T02:53:42.376Z"
+generated_at: "2026-11-23T21:25:28.273Z"
+status: "active"
 ---
 
 # § 2105. Permissive terms and conditions in orders
@@ -16,3 +17,7 @@ Orders issued pursuant to this chapter shall contain one or more of the followin
 - **(b)** Providing for establishing and carrying on research and development projects and studies with respect to the production, ginning, processing, distribution, or utilization of cotton and its products, to the end that the marketing and utilization of cotton may be encouraged, expanded, improved, or made more efficient, and for the disbursement of necessary funds for such purposes.
 - **(c)** Providing that handlers or any class of handlers maintain and make available for inspection such books and records as may be required by the order and for the filing of reports by such handlers at the times, in the manner, and having the content prescribed by the order, to the end that information and data shall be made available to the Cotton Board and to the Secretary which is appropriate or necessary to the effectuation, administration, or enforcement of this chapter or of any order or regulation issued pursuant to this chapter: Provided, however , That all information so obtained shall be kept confidential by all officers and employees of the Department of Agriculture and of the Cotton Board, and only such information so furnished or acquired as the Secretary deems relevant shall be disclosed by them, and then only in a suit or administrative hearing brought at the direction, or upon the request, of the Secretary of Agriculture, or to which he or any officer of the United States is a party, and involving the order with reference to which the information so to be disclosed was furnished or acquired. Nothing in this section shall be deemed to prohibit (1) the issuance of general statements based upon the reports of a number of handlers subject to an order, which statements do not identify the information furnished by any person, or (2) the publication by direction of the Secretary, of the name of any person violating any order, together with a statement of the particular provisions of the order violated by such person. Any such officer or employee violating the provisions of this subsection shall upon conviction be subject to a fine of not more than $1,000 or to imprisonment for not more than one year, or to both, and shall be removed from office.
 - **(d)** Terms and conditions incidental to and not inconsistent with the terms and conditions specified in this chapter and necessary to effectuate the other provisions of such order.
+
+## Source Credit
+
+*([Pub. L. 89–502, § 6](https://www.govinfo.gov/link/plaw/89/public/502), July 13, 1966, [80 Stat. 280](https://www.govinfo.gov/link/statute/80/280).)*

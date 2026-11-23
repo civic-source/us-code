@@ -3,9 +3,10 @@ title: "Section 5195c - Critical infrastructures protection"
 usc_title: 42
 usc_section: "5195c"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5195c"
-generated_at: "2026-03-30T02:56:11.227Z"
+generated_at: "2026-11-23T21:26:32.771Z"
+status: "active"
 ---
 
 # § 5195c. Critical infrastructures protection
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:11.227Z"
   - **(3)** Modeling, simulation, and analysis provided under this subsection shall be provided, in particular, to relevant Federal, State, and local entities responsible for critical infrastructure protection and policy.
 - **(e)** In this section, the term “critical infrastructure” means systems and assets, whether physical or virtual, so vital to the United States that the incapacity or destruction of such systems and assets would have a debilitating impact on security, national economic security, national public health or safety, or any combination of those matters.
 - **(f)** There is hereby authorized for the Department of Defense for fiscal year 2002, $20,000,000 for the Defense Threat Reduction Agency for activities of the National Infrastructure Simulation and Analysis Center under this section in that fiscal year.
+
+## Source Credit
+
+*([Pub. L. 107–56, title X, § 1016](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 400](https://www.govinfo.gov/link/statute/115/400).)*

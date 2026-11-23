@@ -3,9 +3,10 @@ title: "Section 14511 - Appalachian regional energy hub initiative"
 usc_title: 40
 usc_section: "14511"
 chapter: 145
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 14511"
-generated_at: "2026-03-30T02:55:43.387Z"
+generated_at: "2026-11-23T21:26:14.966Z"
+status: "active"
 ---
 
 # § 14511. Appalachian regional energy hub initiative
@@ -22,3 +23,15 @@ generated_at: "2026-03-30T02:55:43.387Z"
   - **(1)** under any other Federal program; or
   - **(2)** from any other source.
 - **(d)** Notwithstanding any provision of law limiting the Federal share under any other Federal program, amounts made available to carry out this section may be used to increase that Federal share, as the Appalachian Regional Commission determines to be appropriate.
+
+In General
+
+Limitation on Available Amounts
+
+Sources of Assistance
+
+Federal Share
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. A, title I, § 11506(e)(1)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 585](https://www.govinfo.gov/link/statute/135/585).)*

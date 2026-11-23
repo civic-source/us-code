@@ -3,9 +3,10 @@ title: "Section 2282f - Review of resiliency assessments"
 usc_title: 33
 usc_section: "2282f"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2282f"
-generated_at: "2026-03-30T02:55:41.119Z"
+generated_at: "2026-11-23T21:26:11.436Z"
+status: "active"
 ---
 
 # § 2282f. Review of resiliency assessments
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:41.119Z"
 - **(b)**
   - **(1)** Upon the request of a non-Federal interest, in carrying out a feasibility study for a project for flood risk mitigation, hurricane and storm damage risk reduction, or ecosystem restoration under section 2282 of this title , the Secretary shall consider whether the need for the project is predicated upon or exacerbated by conditions related to sea level rise or inland flooding.
   - **(2)** To the maximum extent practicable, in carrying out a study pursuant to paragraph (1), the Secretary shall document the potential effects of sea level rise or inland flooding on the project, and the expected benefits of the project relating to sea level rise or inland flooding, during the 50-year period after the date of completion of the project.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. AA, title I, § 113](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2626](https://www.govinfo.gov/link/statute/134/2626).)*

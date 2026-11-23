@@ -3,9 +3,10 @@ title: "Section 7428 - Payments"
 usc_title: 20
 usc_section: "7428"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7428"
-generated_at: "2026-03-30T02:54:48.212Z"
+generated_at: "2026-11-23T21:25:47.583Z"
+status: "active"
 ---
 
 # § 7428. Payments
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:48.212Z"
 - **(d)** The Secretary may reallocate, in a manner that the Secretary determines will best carry out the purpose of this subpart, any amounts that—
   - **(1)** based on estimates made by local educational agencies or other information, the Secretary determines will not be needed by such agencies to carry out approved programs under this subpart; or
   - **(2)** otherwise become available for reallocation under this subpart.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VI, § 6118](https://www.govinfo.gov/link/plaw/89/public/10), formerly title VII, § 7118, as added [Pub. L. 107–110, title VII, § 701](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1918](https://www.govinfo.gov/link/statute/115/1918); renumbered title VI, § 6118, and amended [Pub. L. 114–95, title VI](https://www.govinfo.gov/link/plaw/114/public/95), §§ 6001(a), (b)(1), (8), 6002(j), Dec. 10, 2015, [129 Stat. 2046](https://www.govinfo.gov/link/statute/129/2046), 2047, 2054.)*

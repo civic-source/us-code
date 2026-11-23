@@ -3,9 +3,10 @@ title: "Section 11137 - Miscellaneous provisions"
 usc_title: 42
 usc_section: "11137"
 chapter: 117
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11137"
-generated_at: "2026-03-30T02:56:11.395Z"
+generated_at: "2026-11-23T21:26:33.400Z"
+status: "active"
 ---
 
 # § 11137. Miscellaneous provisions
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:56:11.395Z"
   - **(4)** The Secretary may establish or approve reasonable fees for the disclosure of information under this section or section 11136 of this title . The amount of such a fee may not exceed the costs of processing the requests for disclosure and of providing such information. Such fees shall be available to the Secretary (or, in the Secretary’s discretion, to the agency designated under section 11134(b) of this title ) to cover such costs.
 - **(c)** No person or entity (including the agency designated under section 11134(b) of this title ) shall be held liable in any civil action with respect to any report made under this subchapter (including information provided under subsection (a) 1 1 So in original. Probably should be followed by another closing parenthesis. without knowledge of the falsity of the information contained in the report.
 - **(d)** In interpreting information reported under this subchapter, a payment in settlement of a medical malpractice action or claim shall not be construed as creating a presumption that medical malpractice has occurred.
+
+In general
+
+Fees
+
+## Source Credit
+
+*([Pub. L. 99–660, title IV, § 427](https://www.govinfo.gov/link/plaw/99/public/660), Nov. 14, 1986, [100 Stat. 3791](https://www.govinfo.gov/link/statute/100/3791); [Pub. L. 100–177, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/100/public/177), (b), Dec. 1, 1987, [101 Stat. 1007](https://www.govinfo.gov/link/statute/101/1007).)*

@@ -3,9 +3,10 @@ title: "Section 6365 - Contributions of annual leave"
 usc_title: 5
 usc_section: "6365"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 6365"
-generated_at: "2026-03-30T02:52:56.032Z"
+generated_at: "2026-11-23T21:25:23.329Z"
+status: "active"
 ---
 
 # § 6365. Contributions of annual leave
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:52:56.032Z"
     - **(B)** A leave contributor who is projected to have annual leave that otherwise would be subject to forfeiture at the end of the leave year under section 6304(a) may contribute no more than the number of hours remaining in the leave year (as of the date of the contribution) for which the leave contributor is scheduled to work and receive pay.
 - **(c)** The Leave Bank Board of a leave contributor may waive the limitations under subsection (b)(2). Any such waiver shall be in writing.
 - **(d)** The Office of Personnel Management shall prescribe regulations establishing an open enrollment period during which an employee may contribute leave under subsection (a) for a leave year.
+
+## Source Credit
+
+*(Added [Pub. L. 100–566, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/566), Oct. 31, 1988, [102 Stat. 2840](https://www.govinfo.gov/link/statute/102/2840).)*

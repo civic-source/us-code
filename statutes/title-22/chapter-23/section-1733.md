@@ -3,9 +3,10 @@ title: "Section 1733 - Interagency Hostage Recovery Coordinator"
 usc_title: 22
 usc_section: "1733"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1733"
-generated_at: "2026-03-30T02:55:05.338Z"
+generated_at: "2026-11-23T21:25:58.412Z"
+status: "active"
 ---
 
 # § 1733. Interagency Hostage Recovery Coordinator
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.338Z"
   - **(3)** In this section, the term “appropriate congressional committees” means—
     - **(A)** the Committee on Armed Services, the Committee on the Judiciary, the Permanent Select Committee on Intelligence, and the Committee on Foreign Affairs of the House of Representatives; and
     - **(B)** the Committee on Armed Services, the Committee on the Judiciary, the Select Committee on Intelligence, and the Committee on Foreign Relations of the Senate.
+
+## Source Credit
+
+*([Pub. L. 114–92, div. A, title X, § 1092](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1018](https://www.govinfo.gov/link/statute/129/1018).)*

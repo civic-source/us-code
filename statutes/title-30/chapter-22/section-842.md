@@ -3,9 +3,10 @@ title: "Section 842 - Dust concentration and respiratory equipment"
 usc_title: 30
 usc_section: "842"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 842"
-generated_at: "2026-03-30T02:55:29.389Z"
+generated_at: "2026-11-23T21:26:00.394Z"
+status: "active"
 ---
 
 # § 842. Dust concentration and respiratory equipment
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:29.389Z"
 - **(f)** For the purpose of this subchapter, the term “average concentration” means a determination which accurately represents the atmospheric conditions with regard to respirable dust to which each miner in the active workings of a mine is exposed (1) as measured, during the 18 month period following December 30, 1969 , over a number of continuous production shifts to be determined by the Secretary and the Secretary of Health and Human Services, and (2) as measured thereafter, over a single shift only, unless the Secretary and the Secretary of Health and Human Services find, in accordance with the provisions of section 811 of this title , that such single shift measurement will not, after applying valid statistical techniques to such measurement, accurately represent such atmospheric conditions during such shift.
 - **(g)** The Secretary shall cause to be made such frequent spot inspections as he deems appropriate of the active workings of coal mines for the purpose of obtaining compliance with the provisions of this subchapter.
 - **(h)** Respiratory equipment approved by the Secretary and the Secretary of Health and Human Services shall be made available to all persons whenever exposed to concentrations of respirable dust in excess of the levels required to be maintained under this chapter. Use of respirators shall not be substituted for environmental control measures in the active workings. Each operator shall maintain a supply of respiratory equipment adequate to deal with occurrences of concentrations of respirable dust in the mine atmosphere in excess of the levels required to be maintained under this chapter.
+
+## Source Credit
+
+*([Pub. L. 91–173, title II, § 202](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 760](https://www.govinfo.gov/link/statute/83/760); [Pub. L. 95–164, title II, § 202(a)](https://www.govinfo.gov/link/plaw/95/public/164), Nov. 9, 1977, [91 Stat. 1317](https://www.govinfo.gov/link/statute/91/1317); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695).)*

@@ -3,9 +3,10 @@ title: "Section 7614a - Roadmap"
 usc_title: 7
 usc_section: "7614a"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7614a"
-generated_at: "2026-03-30T02:53:42.458Z"
+generated_at: "2026-11-23T21:25:28.438Z"
+status: "active"
 ---
 
 # § 7614a. Roadmap
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:42.458Z"
 - **(c)** Not later than 1 year after the date on which the Secretary commences preparation of the roadmap under this section, the Secretary shall—
   - **(1)** implement and use the roadmap to set the research, education, and extension agenda of the Department of Agriculture; and
   - **(2)** make the roadmap available to the public.
+
+## Source Credit
+
+*([Pub. L. 110–234, title VII, § 7504](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1257](https://www.govinfo.gov/link/statute/122/1257); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7504, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2019.)*

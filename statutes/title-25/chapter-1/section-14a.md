@@ -3,12 +3,17 @@ title: "Section 14a - Deposit of grant funds received by Bureau from other Feder
 usc_title: 25
 usc_section: "14a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 14a"
-generated_at: "2026-03-30T02:54:52.796Z"
+generated_at: "2026-11-23T21:25:54.532Z"
+status: "active"
 ---
 
 # § 14a. Deposit of grant funds received by Bureau from other Federal agencies
 
 On and after October 12, 1984 , moneys received by grant to the Bureau of Indian Affairs from other Federal agencies to carry out various programs for elementary and secondary education, handicapped programs, bilingual education, and other specific programs shall be deposited into the appropriation account available for the operation of Bureau schools during the period covered by the grant and shall remain available as otherwise provided by law.
 
+
+## Source Credit
+
+*([Pub. L. 98–473, title I, § 101(c) [title I, § 100]](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 1837](https://www.govinfo.gov/link/statute/98/1837), 1848.)*

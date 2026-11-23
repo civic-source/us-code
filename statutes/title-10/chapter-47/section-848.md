@@ -3,9 +3,10 @@ title: "Section 848 - Art. 48. Contempt"
 usc_title: 10
 usc_section: "848"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 848"
-generated_at: "2026-03-30T02:53:38.080Z"
+generated_at: "2026-11-23T21:25:32.336Z"
+status: "active"
 ---
 
 # § 848. Art. 48. Contempt
@@ -26,3 +27,30 @@ generated_at: "2026-03-30T02:53:38.080Z"
   - **(2)** if imposed by a judge of the Court of Appeals for the Armed Forces or a judge of a Court of Criminal Appeals, shall constitute a judgment of the court, subject to review under the applicable provisions of section 867 or 867a of this title (article 67 or 67a); and
   - **(3)** if imposed by a court of inquiry, shall be subject to review by the convening authority in accordance with rules prescribed by the President.
 - **(d)** This section does not apply to a military commission established under chapter 47A of this title.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 848 | 50:623. | May 5, 1950, ch. 169, § 1 (Art. 48), 64 Stat. 123 . |
+
+
+Authority To Punish
+
+Punishment
+
+Review
+
+Inapplicability to Military Commissions Under Chapter
+
+A
+
+Historical and Revision Notes
+
+848
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 123
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 53; [Pub. L. 109–366, § 4(a)(2)](https://www.govinfo.gov/link/plaw/109/public/366), Oct. 17, 2006, [120 Stat. 2631](https://www.govinfo.gov/link/statute/120/2631); [Pub. L. 111–383, div. A, title V, § 542(a)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4218](https://www.govinfo.gov/link/statute/124/4218); [Pub. L. 114–328, div. E, title LVII, § 5230](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2913](https://www.govinfo.gov/link/statute/130/2913); [Pub. L. 115–91, div. A, title X, § 1081(c)(1)(F)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1598](https://www.govinfo.gov/link/statute/131/1598).)*

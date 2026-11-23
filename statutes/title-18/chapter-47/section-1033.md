@@ -3,9 +3,10 @@ title: "Section 1033 - Crimes by or affecting persons engaged in the business of
 usc_title: 18
 usc_section: "1033"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1033"
-generated_at: "2026-03-30T02:54:16.480Z"
+generated_at: "2026-11-23T21:25:44.038Z"
+status: "active"
 ---
 
 # § 1033. Crimes by or affecting persons engaged in the business of insurance whose activities affect interstate commerce
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:16.480Z"
     - **(C)** all commerce between points within the same State through any place outside such State; or
     - **(D)** all other commerce over which the United States has jurisdiction; and
   - **(4)** the term “State” includes any State, the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, the Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands.
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title XXXII, § 320603(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2115](https://www.govinfo.gov/link/statute/108/2115).)*

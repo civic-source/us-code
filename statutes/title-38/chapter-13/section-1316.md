@@ -3,9 +3,10 @@ title: "Section 1316 - Dependency and indemnity compensation in cases of prior d
 usc_title: 38
 usc_section: "1316"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1316"
-generated_at: "2026-03-30T02:55:53.479Z"
+generated_at: "2026-11-23T21:26:16.600Z"
+status: "active"
 ---
 
 # § 1316. Dependency and indemnity compensation in cases of prior deaths
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:53.479Z"
   - **(2)** Where a beneficiary is barred from the receipt of payments under the Servicemen’s Indemnity Act of 1951 by virtue of the first sentence of paragraph (1), no payments of the portion of indemnity in which such beneficiary had an interest shall be made to any other beneficiary.
   - **(3)** In the case of a child who has applied for dependency and indemnity compensation pursuant to this section or prior corresponding provisions of law, and who is or becomes a beneficiary under the Servicemen’s Indemnity Act of 1951 by reason of the death giving rise to such child’s eligibility for dependency and indemnity compensation, the Secretary shall determine and pay to such child for each month, or part thereof, payments under this chapter or under such Act, whichever payment the Secretary determines to be the greater amount.
   - **(4)** Notwithstanding paragraph (2), where a child receives dependency and indemnity compensation under this chapter, and thereafter dies, the portion of servicemen’s indemnity in which such child had an interest may be paid (subject to paragraph (3)) to another child of the person by reason of whose death such servicemen’s indemnity was payable.
+
+## Source Credit
+
+*([Pub. L. 85–857](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1130](https://www.govinfo.gov/link/statute/72/1130), § 416; [Pub. L. 94–433, title IV, § 405(11)](https://www.govinfo.gov/link/plaw/94/public/433) –(16), Sept. 30, 1976, [90 Stat. 1380](https://www.govinfo.gov/link/statute/90/1380); [Pub. L. 97–295, § 4(11)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1305](https://www.govinfo.gov/link/statute/96/1305); renumbered § 1316 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(a)(1), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 403–406](https://www.govinfo.gov/link/statute/105/403).)*

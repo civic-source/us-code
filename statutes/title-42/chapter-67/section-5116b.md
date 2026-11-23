@@ -3,9 +3,10 @@ title: "Section 5116b - Amount of grant"
 usc_title: 42
 usc_section: "5116b"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5116b"
-generated_at: "2026-03-30T02:56:11.219Z"
+generated_at: "2026-11-23T21:26:32.733Z"
+status: "active"
 ---
 
 # § 5116b. Amount of grant
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.219Z"
 - **(c)** Funds allotted to a State under this section—
   - **(1)** shall be for a 3-year period; and
   - **(2)** shall be provided by the Secretary to the State on an annual basis, as described in subsection (b).
+
+## Source Credit
+
+*([Pub. L. 93–247, title II, § 203](https://www.govinfo.gov/link/plaw/93/public/247), as added [Pub. L. 104–235, title I, § 121](https://www.govinfo.gov/link/plaw/104/public/235), Oct. 3, 1996, [110 Stat. 3082](https://www.govinfo.gov/link/statute/110/3082); amended [Pub. L. 108–36, title I, § 123](https://www.govinfo.gov/link/plaw/108/public/36), June 25, 2003, [117 Stat. 815](https://www.govinfo.gov/link/statute/117/815); [Pub. L. 111–320, title I, § 134](https://www.govinfo.gov/link/plaw/111/public/320), Dec. 20, 2010, [124 Stat. 3479](https://www.govinfo.gov/link/statute/124/3479).)*

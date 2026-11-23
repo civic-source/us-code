@@ -3,9 +3,10 @@ title: "Section 7172 - Jurisdiction of Commission"
 usc_title: 42
 usc_section: "7172"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7172"
-generated_at: "2026-03-30T02:56:11.284Z"
+generated_at: "2026-11-23T21:26:33.053Z"
+status: "active"
 ---
 
 # § 7172. Jurisdiction of Commission
@@ -32,3 +33,43 @@ generated_at: "2026-03-30T02:56:11.284Z"
 - **(f)** No function described in this section which regulates the exports or imports of natural gas or electricity shall be within the jurisdiction of the Commission unless the Secretary assigns such a function to the Commission.
 - **(g)** The decision of the Commission involving any function within its jurisdiction, other than action by it on a matter referred to it pursuant to section 7174 of this title , shall be final agency action within the meaning of section 704 of title 5 and shall not be subject to further review by the Secretary or any officer or employee of the Department.
 - **(h)** The Commission is authorized to prescribe rules, regulations, and statements of policy of general applicability with respect to any function under the jurisdiction of the Commission pursuant to this section.
+
+Establishment
+
+Effective Date
+
+Rulemaking
+
+Scope of Rulemaking
+
+Additional Procedural Changes
+
+Withdrawal of Tariffs and Complaints.—
+
+Withdrawal of tariffs
+
+Withdrawal of complaints
+
+Alternative Dispute Resolution
+
+Rates Deemed Just and Reasonable
+
+Changed Circumstances
+
+Limitation Regarding Unduly Discriminatory or Preferential Tariffs
+
+Commission
+
+Oil pipeline.—
+
+In general
+
+Exception
+
+Oil
+
+Rate
+
+## Source Credit
+
+*([Pub. L. 95–91, title IV, § 402](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 583](https://www.govinfo.gov/link/statute/91/583); [Pub. L. 103–272, § 7(b)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1379](https://www.govinfo.gov/link/statute/108/1379).)*

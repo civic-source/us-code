@@ -3,9 +3,10 @@ title: "Section 18b - Mergers involving foreign government subsidies"
 usc_title: 15
 usc_section: "18b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 18b"
-generated_at: "2026-03-30T02:54:08.022Z"
+generated_at: "2026-11-23T21:25:39.470Z"
+status: "active"
 ---
 
 # § 18b. Mergers involving foreign government subsidies
@@ -14,3 +15,11 @@ generated_at: "2026-03-30T02:54:08.022Z"
 - **(b)** A person required to file a notification under section 18a of this title that received a subsidy from a foreign entity of concern shall include in such notification content regarding such subsidy.
 - **(c)** The Federal Trade Commission, with the concurrence of the Assistant Attorney General in charge of the Antitrust Division of the Department of Justice, and in consultation with the Chairperson of the Committee on Foreign Investment in the United States, the Secretary of Commerce, the Chair of the United States International Trade Commission, the United States Trade Representative, and the heads of other appropriate agencies, and by rule in accordance with section 553 of title 5 , shall require that the notification required under subsection (b) be in such form and contain such documentary material and information relevant to a proposed acquisition as is necessary and appropriate to enable the Federal Trade Commission and the Assistant Attorney General in charge of the Antitrust Division of the Department of Justice to determine whether such acquisition may, if consummated, violate the antitrust laws.
 - **(d)** Subsection (b) shall take effect on the date on which the rule described in subsection (c) takes effect.
+
+Findings
+
+Purpose
+
+## Source Credit
+
+*([Pub. L. 117–328, div. GG, title II, § 202](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5970](https://www.govinfo.gov/link/statute/136/5970).)*

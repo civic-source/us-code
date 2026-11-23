@@ -3,9 +3,10 @@ title: "Section 909 - Suspension of taxes and credits until related income taken
 usc_title: 26
 usc_section: "909"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 909"
-generated_at: "2026-03-30T02:55:27.746Z"
+generated_at: "2026-11-23T21:26:06.433Z"
+status: "active"
 ---
 
 # § 909. Suspension of taxes and credits until related income taken into account
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:27.746Z"
 - **(e)** The Secretary may issue such regulations or other guidance as is necessary or appropriate to carry out the purposes of this section, including regulations or other guidance which provides—
   - **(1)** appropriate exceptions from the provisions of this section, and
   - **(2)** for the proper application of this section with respect to hybrid instruments.
+
+## Source Credit
+
+*(Added [Pub. L. 111–226, title II, § 211(a)](https://www.govinfo.gov/link/plaw/111/public/226), Aug. 10, 2010, [124 Stat. 2394](https://www.govinfo.gov/link/statute/124/2394); amended [Pub. L. 115–97, title I, § 14301(c)(29)](https://www.govinfo.gov/link/plaw/115/public/97), (30), Dec. 22, 2017, [131 Stat. 2224](https://www.govinfo.gov/link/statute/131/2224).)*

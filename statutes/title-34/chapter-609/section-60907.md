@@ -3,9 +3,10 @@ title: "Section 60907 - Procedures to promote compliance"
 usc_title: 34
 usc_section: "60907"
 chapter: 609
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 60907"
-generated_at: "2026-03-30T02:55:33.318Z"
+generated_at: "2026-11-23T21:26:09.865Z"
+status: "active"
 ---
 
 # § 60907. Procedures to promote compliance
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:33.318Z"
   - **(3)** contain disciplinary sanctions, which may include suspension or termination from employment, for employees of the agency who are shown to have willfully or wantonly failed to comply with this chapter;
   - **(4)** provide a procedure for the resolution of complaints filed by the designated person concerning the agency’s handling of a cold case murder investigation or the case file evaluation; and
   - **(5)** provide that the head of the agency, or the designee thereof, shall be the final arbiter of the complaint, and that there shall be no judicial review of the final decision of the head of the agency by a complainant.
+
+## Source Credit
+
+*([Pub. L. 117–164, § 8](https://www.govinfo.gov/link/plaw/117/public/164), Aug. 3, 2022, [136 Stat. 1360](https://www.govinfo.gov/link/statute/136/1360).)*

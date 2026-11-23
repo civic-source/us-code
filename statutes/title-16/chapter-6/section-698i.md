@@ -3,9 +3,10 @@ title: "Section 698i - Administration of Big Cypress Preserve; applicability of 
 usc_title: 16
 usc_section: "698i"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 698i"
-generated_at: "2026-03-30T02:54:22.898Z"
+generated_at: "2026-11-23T21:25:51.727Z"
+status: "active"
 ---
 
 # § 698i. Administration of Big Cypress Preserve; applicability of other laws; rules and regulations for use of lands and waters; transportation facilities; consultation and cooperation with Secretary of Transportation
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:22.898Z"
   - **(6)** hunting, fishing, and trapping,
   - **(7)** new construction of any kind, and
   - **(8)** such other uses as the Secretary determines must be limited or controlled in order to carry out the purposes of sections 698f to 698m–4 of this title: Provided , That the Secretary shall consult and cooperate with the Secretary of Transportation to assure that necessary transportation facilities shall be located within existing or reasonably expanded rights-of-way and constructed within the reserve 2 2 So in original. Probably should be “preserve”. in a manner consistent with the purposes of sections 698f to 698m–4 of this title.
+
+## Source Credit
+
+*([Pub. L. 93–440, § 4](https://www.govinfo.gov/link/plaw/93/public/440), Oct. 11, 1974, [88 Stat. 1260](https://www.govinfo.gov/link/statute/88/1260).)*

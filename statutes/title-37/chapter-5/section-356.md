@@ -3,9 +3,10 @@ title: "Section 356 - Continuation pay: full TSP members with 7 to 12 years of s
 usc_title: 37
 usc_section: "356"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 356"
-generated_at: "2026-03-30T02:55:44.056Z"
+generated_at: "2026-11-23T21:26:14.221Z"
+status: "active"
 ---
 
 # § 356. Continuation pay: full TSP members with 7 to 12 years of service
@@ -26,3 +27,25 @@ generated_at: "2026-03-30T02:55:44.056Z"
 - **(f)** Continuation pay under this section is in addition to any other pay or allowance to which the full TSP member is entitled.
 - **(g)** A full TSP member who receives continuation pay under this section (a) 1 1 So in original. and fails to complete the obligated service required under such subsection shall be subject to the repayment provisions of section 373 of this title .
 - **(h)** Each Secretary concerned shall prescribe regulations to carry out this section.
+
+Continuation Pay
+
+Payment Amount
+
+Additional Discretionary Authority
+
+Timing of Payment
+
+Lump Sum or Installments
+
+Relationship to Other Pay and Allowances
+
+Repayment
+
+Regulations
+
+Amount
+
+## Source Credit
+
+*(Added [Pub. L. 114–92, div. A, title VI, § 634(a)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 850](https://www.govinfo.gov/link/statute/129/850); amended [Pub. L. 114–328, div. A, title VI, § 633(a)](https://www.govinfo.gov/link/plaw/114/public/328) –(d)(1), Dec. 23, 2016, [130 Stat. 2163](https://www.govinfo.gov/link/statute/130/2163); [Pub. L. 118–31, div. A, title VI, § 611(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 290](https://www.govinfo.gov/link/statute/137/290); [Pub. L. 119–60, div. A, title VI, § 601(c)(6)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 904](https://www.govinfo.gov/link/statute/139/904).)*

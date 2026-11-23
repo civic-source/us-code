@@ -3,9 +3,10 @@ title: "Section 45 - Chief judges; precedence of judges"
 usc_title: 28
 usc_section: "45"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 45"
-generated_at: "2026-03-30T02:55:30.121Z"
+generated_at: "2026-11-23T21:26:01.005Z"
+status: "active"
 ---
 
 # § 45. Chief judges; precedence of judges
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:30.121Z"
 - **(b)** The chief judge shall have precedence and preside at any session of the court which he attends. Other circuit judges of the court in regular active service shall have precedence and preside according to the seniority of their commissions. Judges whose commissions bear the same date shall have precedence according to seniority in age. The circuit justice, however, shall have precedence over all the circuit judges and shall preside at any session which he attends.
 - **(c)** If the chief judge desires to be relieved of his duties as chief judge while retaining his active status as circuit judge, he may so certify to the Chief Justice of the United States, and thereafter the chief judge of the circuit shall be such other circuit judge who is qualified to serve or act as chief judge under subsection (a).
 - **(d)** If a chief judge is temporarily unable to perform his duties as such, they shall be performed by the circuit judge in active service, present in the circuit and able and qualified to act, who is next in precedence.
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 871](https://www.govinfo.gov/link/statute/62/871); Oct. 31, 1951, ch. 655, § 35, [65 Stat. 723](https://www.govinfo.gov/link/statute/65/723); [Pub. L. 85–593, § 1](https://www.govinfo.gov/link/plaw/85/public/593), Aug. 6, 1958, [72 Stat. 497](https://www.govinfo.gov/link/statute/72/497); [Pub. L. 97–164, title II](https://www.govinfo.gov/link/plaw/97/public/164), §§ 201, 204, Apr. 2, 1982, [96 Stat. 51](https://www.govinfo.gov/link/statute/96/51), 53.)*

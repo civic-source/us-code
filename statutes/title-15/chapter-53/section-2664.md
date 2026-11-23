@@ -3,12 +3,17 @@ title: "Section 2664 - Model construction standards and techniques"
 usc_title: 15
 usc_section: "2664"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2664"
-generated_at: "2026-03-30T02:54:08.180Z"
+generated_at: "2026-11-23T21:25:39.948Z"
+status: "active"
 ---
 
 # § 2664. Model construction standards and techniques
 
 The Administrator of the Environmental Protection Agency shall develop model construction standards and techniques for controlling radon levels within new buildings. To the maximum extent possible, these standards and techniques should be developed with the assistance of organizations involved in establishing national building construction standards and techniques. The Administrator shall make a draft of the document containing the model standards and techniques available for public review and comment. The model standards and techniques shall provide for geographic differences in construction types and materials, geology, weather, and other variables that may affect radon levels in new buildings. The Administrator shall make final model standards and techniques available to the public by June 1, 1990 . The Administrator shall work to ensure that organizations responsible for developing national model building codes, and authorities which regulate building construction within States or political subdivisions within States, adopt the Agency’s model standards and techniques.
 
+
+## Source Credit
+
+*([Pub. L. 94–469, title III, § 304](https://www.govinfo.gov/link/plaw/94/public/469), as added [Pub. L. 100–551, § 1(a)](https://www.govinfo.gov/link/plaw/100/public/551), Oct. 28, 1988, [102 Stat. 2756](https://www.govinfo.gov/link/statute/102/2756).)*

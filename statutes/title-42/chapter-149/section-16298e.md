@@ -3,9 +3,10 @@ title: "Section 16298e - Carbon dioxide removal task force and report"
 usc_title: 42
 usc_section: "16298e"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16298e"
-generated_at: "2026-03-30T02:56:11.482Z"
+generated_at: "2026-11-23T21:26:33.730Z"
+status: "active"
 ---
 
 # § 16298e. Carbon dioxide removal task force and report
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:56:11.482Z"
   - **(4)** Not later than 7 years after December 27, 2020 , the Secretary shall—
     - **(A)** reevaluate the need for the task force established under paragraph (1); and
     - **(B)** submit to Congress a recommendation as to whether the task force should continue.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. Z, title V, § 5002](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2550](https://www.govinfo.gov/link/statute/134/2550).)*

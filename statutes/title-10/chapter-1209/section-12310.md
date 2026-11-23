@@ -3,9 +3,10 @@ title: "Section 12310 - Reserves: for organizing, administering, etc., reserve c
 usc_title: 10
 usc_section: "12310"
 chapter: 1209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 12310"
-generated_at: "2026-03-30T02:53:38.269Z"
+generated_at: "2026-11-23T21:25:33.043Z"
+status: "active"
 ---
 
 # § 12310. Reserves: for organizing, administering, etc., reserve components
@@ -41,3 +42,40 @@ generated_at: "2026-03-30T02:53:38.269Z"
     - **(B)** the Secretary’s plan for sustaining the qualifications of the personnel and teams described in paragraph (3).
   - **(7)** In this subsection, the term “United States” includes the Commonwealth of Puerto Rico, Guam, and the Virgin Islands.
 - **(d)** A Reserve on active duty as described in subsection (a) may be provided training consistent with training provided to other members on active duty, as the Secretary concerned sees fit.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 678(a) 678(b) | 50:962 (2d sentence). 50:962 (less 1st and 2d sentences). | July 9, 1952, ch. 608, § 234 , (less 1st sentence), 66 Stat. 490 . |
+
+
+Authority
+
+Duties
+
+Operations Relating to Defense Against Weapons of Mass Destruction and Terrorist Attacks
+
+Training
+
+Historical and Revision Notes
+
+678(a)
+
+678(b)
+
+July 9, 1952, ch. 608, § 234
+
+66 Stat. 490
+
+Establishment of Additional Teams
+
+Establishment of Further Additional Teams
+
+Limitation of Establishment of Further Teams
+
+Notification of Disestablishment of Teams
+
+Definitions
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 30, § 678; renumbered § 12310 and amended [Pub. L. 103–337, div. A, title XVI](https://www.govinfo.gov/link/plaw/103/public/337), §§ 1662(e)(2), 1675(c)(7), Oct. 5, 1994, [108 Stat. 2992](https://www.govinfo.gov/link/statute/108/2992), 3017; [Pub. L. 104–201, div. A, title V, § 541](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2521](https://www.govinfo.gov/link/statute/110/2521); [Pub. L. 105–261, div. A, title V, § 511(b)(1)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2006](https://www.govinfo.gov/link/statute/112/2006); [Pub. L. 106–65, div. A, title V](https://www.govinfo.gov/link/plaw/106/public/65), §§ 555(a), (b), 556, title X, § 1067(1), Oct. 5, 1999, [113 Stat. 617–619](https://www.govinfo.gov/link/statute/113/617), 774; [Pub. L. 107–314, div. A, title V, § 514(b)](https://www.govinfo.gov/link/plaw/107/public/314), title IX, § 933, Dec. 2, 2002, [116 Stat. 2539](https://www.govinfo.gov/link/statute/116/2539), 2626; [Pub. L. 109–364, div. A, title V](https://www.govinfo.gov/link/plaw/109/public/364), §§ 525(a), 527, Oct. 17, 2006, [120 Stat. 2193](https://www.govinfo.gov/link/statute/120/2193), 2196; [Pub. L. 111–84, div. A, title X, § 1073(a)(34)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2474](https://www.govinfo.gov/link/statute/123/2474).)*

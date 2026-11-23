@@ -3,9 +3,10 @@ title: "Section 4375 - Breach of significant cost growth threshold or critical c
 usc_title: 10
 usc_section: "4375"
 chapter: 325
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4375"
-generated_at: "2026-03-30T02:53:38.207Z"
+generated_at: "2026-11-23T21:25:32.774Z"
+status: "active"
 ---
 
 # § 4375. Breach of significant cost growth threshold or critical cost growth threshold: required action
@@ -48,3 +49,27 @@ generated_at: "2026-03-30T02:53:38.207Z"
 - **(e)**
   - **(1)** If a program acquisition unit cost increase or a procurement unit cost increase for a major defense acquisition program or designated major subprogram that results in a report under this subsection is due to termination or cancellation of the entire program or subprogram, only the information specified in paragraphs (1) through (6) of subsection (d) and the percentage change in program acquisition unit cost or procurement unit cost that resulted in the report need be included in the report.
   - **(2)** The certification of the Secretary of Defense under subsection (b) is not required to be submitted for termination or cancellation of a program or subprogram.
+
+Breach of significant cost growth threshold; submission of a selected acquisition report.—
+
+General rule
+
+Breach of Critical Cost Growth Threshold
+
+Prohibition on Obligation of Funds for Certain Purposes When Required Action Not Taken.—
+
+Prohibition
+
+Termination of prohibition
+
+Matter to Be Included in Reports
+
+Breach Due to Termination or Cancellation of Program or Subprogram.—
+
+Limited reporting
+
+Certification not required
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1850(a)](https://www.govinfo.gov/link/plaw/116/public/283), (h), (i), Jan. 1, 2021, [134 Stat. 4265](https://www.govinfo.gov/link/statute/134/4265), 4267, 4269; [Pub. L. 117–81, div. A, title XVII, § 1701(c)(4)](https://www.govinfo.gov/link/plaw/117/public/81), (d)(12), (o)(6)(E)(iv), Dec. 27, 2021, [135 Stat. 2136](https://www.govinfo.gov/link/statute/135/2136), 2137, 2148.)*

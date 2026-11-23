@@ -3,12 +3,17 @@ title: "Section 559 - Disposition of rentals for Government plants"
 usc_title: 33
 usc_section: "559"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 559"
-generated_at: "2026-03-30T02:55:41.062Z"
+generated_at: "2026-11-23T21:26:11.315Z"
+status: "active"
 ---
 
 # § 559. Disposition of rentals for Government plants
 
 Amounts paid after August 8, 1917 , by private parties or other agencies for rental of plant owned by the Government in connection with the prosecution of river and harbor works shall be deposited in each case to the credit of the appropriation to which the plant belongs.
 
+
+## Source Credit
+
+*(Aug. 8, 1917, ch. 49, § 13, [40 Stat. 268](https://www.govinfo.gov/link/statute/40/268).)*

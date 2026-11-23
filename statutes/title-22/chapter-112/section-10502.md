@@ -3,9 +3,10 @@ title: "Section 10502 - Publication and provision of lists regarding progress on
 usc_title: 22
 usc_section: "10502"
 chapter: 112
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10502"
-generated_at: "2026-03-30T02:55:05.477Z"
+generated_at: "2026-11-23T21:25:58.799Z"
+status: "active"
 ---
 
 # § 10502. Publication and provision of lists regarding progress on anti-corruption efforts
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.477Z"
   - **(1)** The publication and submission of the lists and the annual update required by subsections (a), (b), and (c) shall be completed not later than 2 years after December 22, 2023 , and annually thereafter for seven years.
   - **(2)** Not later than one year after December 22, 2023 , the Secretary shall submit to the appropriate congressional committees a report detailing the methodology developed to assign countries to either the public list or the classified list and a proposed budget for preparing the first set of lists during the subsequent year.
 - **(e)** The Secretary may, in specific instances where the Secretary determines the inclusion of specific countries on the public list required by subsection (a) would not be in the national interests of the United States, submit the information required by subsection (a) about such specific countries in a classified manner in writing to the appropriate congressional committees, together with a justification for why publication would not be in the national interest. The justification, if applicable, shall be submitted the same date as the public list required by subsection (a).
+
+## Source Credit
+
+*([Pub. L. 118–31, div. E, title LIV, § 5403](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 944](https://www.govinfo.gov/link/statute/137/944).)*

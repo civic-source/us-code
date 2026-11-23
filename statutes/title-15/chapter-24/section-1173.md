@@ -3,9 +3,10 @@ title: "Section 1173 - Registration of manufacturers and dealers"
 usc_title: 15
 usc_section: "1173"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1173"
-generated_at: "2026-03-30T02:54:08.129Z"
+generated_at: "2026-11-23T21:25:39.797Z"
+status: "active"
 ---
 
 # § 1173. Registration of manufacturers and dealers
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:08.129Z"
   - **(1)** It shall be unlawful (A) for any person during any period in which he is required to be registered under subsection (a) of this section to sell, deliver, or ship in intrastate, interstate, or foreign commerce or own, possess, or have in his custody any gambling device which is not marked and numbered as required by subsection (b) of this section; or (B) for any person to remove, obliterate, or alter any mark or number on any gambling device required to be placed thereon by such subsection (b).
   - **(2)** It shall be unlawful for any person knowingly to make or cause to be made, any false entry in any record required to be kept under this section.
 - **(f)** Agents of the Federal Bureau of Investigation shall, at any place designated pursuant to subsection (a)(4)(C) of this section by any person required to register by subsection (a) of this section, at all reasonable times, have access to and the right to copy any of the records required to be kept by this section, and, in case of refusal by any person registered under such subsection (a) to allow inspection and copying of such records, the United States district court for the district in which such place is located shall have jurisdiction to issue an order compelling production of such records for inspection or copying.
+
+## Source Credit
+
+*(Jan. 2, 1951, ch. 1194, § 3, [64 Stat. 1135](https://www.govinfo.gov/link/statute/64/1135); [Pub. L. 87–840, § 5](https://www.govinfo.gov/link/plaw/87/public/840), Oct. 18, 1962, [76 Stat. 1075](https://www.govinfo.gov/link/statute/76/1075).)*

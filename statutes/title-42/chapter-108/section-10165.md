@@ -3,9 +3,10 @@ title: "Section 10165 - Site selection"
 usc_title: 42
 usc_section: "10165"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10165"
-generated_at: "2026-03-30T02:56:11.382Z"
+generated_at: "2026-11-23T21:26:33.344Z"
+status: "active"
 ---
 
 # § 10165. Site selection
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.382Z"
   - **(2)** Before selecting any site under subsection (a), the Secretary shall hold at least one public hearing in the vicinity of such site to solicit any recommendations of interested parties with respect to issues raised by the selection of such site.
 - **(f)** The Secretary shall promptly notify Congress and the appropriate State or Indian tribe of the selection under subsection (a).
 - **(g)** No monitored retrievable storage facility authorized pursuant to section 10162(b) of this title may be constructed in the State of Nevada.
+
+## Source Credit
+
+*([Pub. L. 97–425, title I, § 145](https://www.govinfo.gov/link/plaw/97/public/425), as added [Pub. L. 100–202, § 101(d) [title III, § 300]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–104](https://www.govinfo.gov/link/statute/101/1329), 1329–121; [Pub. L. 100–203, title V, § 5021](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–234](https://www.govinfo.gov/link/statute/101/1330).)*

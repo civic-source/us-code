@@ -3,9 +3,10 @@ title: "Section 2567 - Space and services: provision to WIC offices"
 usc_title: 10
 usc_section: "2567"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2567"
-generated_at: "2026-03-30T02:53:38.163Z"
+generated_at: "2026-11-23T21:25:32.627Z"
+status: "active"
 ---
 
 # § 2567. Space and services: provision to WIC offices
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:53:38.163Z"
 - **(b)** In this section:
   - **(1)** The term “services” includes the provision of lighting, heating, cooling, and electricity.
   - **(2)** The term “WIC office” means a local agency (as defined in subsection (b)(6) of section 17 of the Child Nutrition Act of 1966 ( 42 U.S.C. 1786 )) that participates in the special supplemental nutrition program for women, infants, and children under such section.
+
+Allotment of Space and Provision of Services Authorized
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. B, title XXVIII, § 2812(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2716](https://www.govinfo.gov/link/statute/130/2716).)*

@@ -3,9 +3,10 @@ title: "Section 467b - Seizure and condemnation"
 usc_title: 21
 usc_section: "467b"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 467b"
-generated_at: "2026-03-30T02:54:54.286Z"
+generated_at: "2026-11-23T21:25:56.204Z"
+status: "active"
 ---
 
 # § 467b. Seizure and condemnation
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:54.286Z"
       - **(i)** was found after inspection under this chapter to be wholesome and not adulterated within the meaning of paragraphs (1) through (7) of section 453(g) of this title and a determination was made at the time of entry of the decree that such article was wholesome and not so adulterated; and
       - **(ii)** was plainly marked “Not for Sale” on such article or its container.
 - **(b)** The provisions of this section shall in no way derogate from authority for condemnation or seizure conferred by other provisions of this chapter, or other laws.
+
+## Source Credit
+
+*([Pub. L. 85–172, § 20](https://www.govinfo.gov/link/plaw/85/public/172), as added [Pub. L. 90–492, § 17](https://www.govinfo.gov/link/plaw/90/public/492), Aug. 18, 1968, [82 Stat. 806](https://www.govinfo.gov/link/statute/82/806); amended [Pub. L. 101–205, § 2](https://www.govinfo.gov/link/plaw/101/public/205), Dec. 7, 1989, [103 Stat. 1830](https://www.govinfo.gov/link/statute/103/1830).)*

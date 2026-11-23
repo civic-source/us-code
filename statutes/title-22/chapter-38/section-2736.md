@@ -3,9 +3,10 @@ title: "Section 2736 - Exit interviews for workforce"
 usc_title: 22
 usc_section: "2736"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2736"
-generated_at: "2026-03-30T02:55:05.382Z"
+generated_at: "2026-11-23T21:25:58.541Z"
+status: "active"
 ---
 
 # § 2736. Exit interviews for workforce
@@ -21,3 +22,17 @@ generated_at: "2026-03-30T02:55:05.382Z"
     - **(A)** to identify ways to improve outreach and recruitment for such programs, consistent with merit system principles; and
     - **(B)** to understand the extent to which participation in any professional development program offered or sponsored by the Department differs among the demographic categories of the workforce; and
   - **(3)** actively encourage participation from a range of demographic categories, especially from categories with consistently low participation, in such professional development programs.
+
+“In this title [enacting this section and sections 2736a to 2736e of this title and amending section 3941 of this title ]:
+
+Applicant flow data
+
+Demographic data
+
+Diversity
+
+Workforce
+
+## Source Credit
+
+*([Pub. L. 117–81, div. E, title LIV, § 5402](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2371](https://www.govinfo.gov/link/statute/135/2371).)*

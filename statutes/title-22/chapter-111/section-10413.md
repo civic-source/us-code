@@ -3,9 +3,10 @@ title: "Section 10413 - Reporting related to the AUKUS partnership"
 usc_title: 22
 usc_section: "10413"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10413"
-generated_at: "2026-03-30T02:55:05.477Z"
+generated_at: "2026-11-23T21:25:58.798Z"
+status: "active"
 ---
 
 # § 10413. Reporting related to the AUKUS partnership
@@ -39,3 +40,35 @@ generated_at: "2026-03-30T02:55:05.477Z"
       - **(ii)** Progress made on Pillar Two of the AUKUS partnership, including the following elements:
         - **(I)** An assessment of the efforts of Australia, the United Kingdom, and the United States to enhance collaboration across the following eight trilateral lines of effort:
         - **(II)** An assessment of any new lines of effort established.
+
+(aa) its objectives of providing up to five Virginia Class submarines to Australia by the early to mid-2030’s; and
+
+(bb) United States submarine production requirements.
+
+(aa) Underseas capabilities.
+
+(bb) Quantum technologies.
+
+(cc) Artificial intelligence and autonomy.
+
+(dd) Advanced cyber capabilities.
+
+(ee) Hypersonic and counter-hypersonic capabilities.
+
+(ff) Electronic warfare.
+
+(gg) Innovation.
+
+(hh) Information sharing.
+
+Section
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*([Pub. L. 118–31, div. A, title XIII, § 1333](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 506](https://www.govinfo.gov/link/statute/137/506).)*

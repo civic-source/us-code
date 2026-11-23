@@ -3,9 +3,10 @@ title: "Section 6721 - Failure to file correct information returns"
 usc_title: 26
 usc_section: "6721"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6721"
-generated_at: "2026-03-30T02:55:27.866Z"
+generated_at: "2026-11-23T21:26:06.928Z"
+status: "active"
 ---
 
 # § 6721. Failure to file correct information returns
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:55:27.866Z"
   - **(2)** If any amount adjusted under paragraph (1)—
     - **(A)** is not less than $75,000 and is not a multiple of $500, such amount shall be rounded to the next lowest multiple of $500, and
     - **(B)** is not described in subparagraph (A) and is not a multiple of $10, such amount shall be rounded to the next lowest multiple of $10.
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XV, § 1501(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2732](https://www.govinfo.gov/link/statute/100/2732); amended [Pub. L. 100–690, title VII, § 7601(a)(2)(A)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4503](https://www.govinfo.gov/link/statute/102/4503); [Pub. L. 101–239, title VII, § 7711(a)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2388](https://www.govinfo.gov/link/statute/103/2388); [Pub. L. 101–508, title XI, § 11318(b)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–459](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 109–280, title XII, § 1211(b)(2)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1073](https://www.govinfo.gov/link/statute/120/1073); [Pub. L. 111–240, title II, § 2102(a)](https://www.govinfo.gov/link/plaw/111/public/240) –(f), Sept. 27, 2010, [124 Stat. 2561](https://www.govinfo.gov/link/statute/124/2561), 2562; [Pub. L. 113–295, div. B, title II, § 208(f)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4074](https://www.govinfo.gov/link/statute/128/4074); [Pub. L. 114–27, title VIII, § 806(a)](https://www.govinfo.gov/link/plaw/114/public/27) –(d), June 29, 2015, [129 Stat. 416](https://www.govinfo.gov/link/statute/129/416), 417; [Pub. L. 114–113, div. Q, title II, § 202(a)](https://www.govinfo.gov/link/plaw/114/public/113), (d), Dec. 18, 2015, [129 Stat. 3076](https://www.govinfo.gov/link/statute/129/3076), 3077; [Pub. L. 115–97, title I, § 11002(d)(1)(PP)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2061](https://www.govinfo.gov/link/statute/131/2061); [Pub. L. 115–141, div. U, title I, § 101(f)(2)](https://www.govinfo.gov/link/plaw/115/public/141), title IV, § 401(a)(299)(F), Mar. 23, 2018, [132 Stat. 1161](https://www.govinfo.gov/link/statute/132/1161), 1198.)*

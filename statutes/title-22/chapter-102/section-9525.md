@@ -3,9 +3,10 @@ title: "Section 9525 - Imposition of sanctions with respect to persons engaging 
 usc_title: 22
 usc_section: "9525"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9525"
-generated_at: "2026-03-30T02:55:05.467Z"
+generated_at: "2026-11-23T21:25:58.776Z"
+status: "active"
 ---
 
 # § 9525. Imposition of sanctions with respect to persons engaging in transactions with the intelligence or defense sectors of the Government of the Russian Federation
@@ -45,3 +46,29 @@ generated_at: "2026-03-30T02:55:05.467Z"
       - **(ii)** the extent to which the government with primary jurisdiction over the person is taking specific actions to further the enforcement of this title.
 - **(e)** Not later than 60 days after August 2, 2017 , the President shall issue regulations or other guidance to specify the persons that are part of, or operate for or on behalf of, the defense and intelligence sectors of the Government of the Russian Federation.
 - **(f)** A person that violates, attempts to violate, conspires to violate, or causes a violation of subsection (a) or any regulation, license, or order issued to carry out subsection (a) shall be subject to the penalties set forth in subsections (b) and (c) of section 1705 of title 50 to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
+
+(aa) to be part of, or operating for or on behalf of, the defense or intelligence sector of the Government of the Russian Federation; and
+
+(bb) has directly participated in or facilitated cyber intrusions by the Government of the Russian Federation; and
+
+Sense of Congress
+
+Determination
+
+Imposition of Sanctions
+
+Exception Relating to Importation of Goods.—
+
+In general
+
+Good defined
+
+Termination
+
+Appropriate Congressional Committees Defined
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 115–44, title II, § 231](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 916](https://www.govinfo.gov/link/statute/131/916); [Pub. L. 115–232, div. A, title XII, § 1294(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2085](https://www.govinfo.gov/link/statute/132/2085).)*

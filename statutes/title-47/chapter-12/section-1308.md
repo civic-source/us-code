@@ -3,9 +3,10 @@ title: "Section 1308 - Interagency agreement"
 usc_title: 47
 usc_section: "1308"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1308"
-generated_at: "2026-03-30T02:56:24.533Z"
+generated_at: "2026-11-23T21:26:36.094Z"
+status: "active"
 ---
 
 # § 1308. Interagency agreement
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:56:24.533Z"
     - **(B)** Not later than 18 months after December 27, 2020 , the Federal Communications Commission shall—
       - **(i)** review and assess the comments received under subparagraph (A); and
       - **(ii)** submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report detailing any findings and recommendations from the assessment conducted under clause (i).
+
+## Source Credit
+
+*([Pub. L. 116–260, div. FF, title IX, § 904](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3214](https://www.govinfo.gov/link/statute/134/3214).)*

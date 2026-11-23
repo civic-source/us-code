@@ -3,9 +3,10 @@ title: "Section 14902 - Definitions"
 usc_title: 42
 usc_section: "14902"
 chapter: 143
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 14902"
-generated_at: "2026-03-30T02:56:11.452Z"
+generated_at: "2026-11-23T21:26:33.642Z"
+status: "active"
 ---
 
 # § 14902. Definitions
@@ -35,3 +36,7 @@ As used in this chapter:
   - **(15)** The term “person with an ownership or control interest” has the meaning given such term in section 1320a–3(a)(3) of this title .
   - **(16)** The term “Secretary” means the Secretary of State.
   - **(17)** The term “State” means the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, and the Virgin Islands.
+
+## Source Credit
+
+*([Pub. L. 106–279, § 3](https://www.govinfo.gov/link/plaw/106/public/279), Oct. 6, 2000, [114 Stat. 826](https://www.govinfo.gov/link/statute/114/826).)*

@@ -3,9 +3,10 @@ title: "Section 9620 - Federal facilities"
 usc_title: 42
 usc_section: "9620"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9620"
-generated_at: "2026-03-30T02:56:11.360Z"
+generated_at: "2026-11-23T21:26:33.260Z"
+status: "active"
 ---
 
 # § 9620. Federal facilities
@@ -107,3 +108,11 @@ generated_at: "2026-03-30T02:56:11.360Z"
 - **(j)**
   - **(1)** The President may issue such orders regarding response actions at any specified site or facility of the Department of Energy or the Department of Defense as may be necessary to protect the national security interests of the United States at that site or facility. Such orders may include, where necessary to protect such interests, an exemption from any requirement contained in this subchapter or under title III of the Superfund Amendments and Reauthorization Act of 1986 [ 42 U.S.C. 11001 et seq.] with respect to the site or facility concerned. The President shall notify the Congress within 30 days of the issuance of an order under this paragraph providing for any such exemption. Such notification shall include a statement of the reasons for the granting of the exemption. An exemption under this paragraph shall be for a specified period which may not exceed one year. Additional exemptions may be granted, each upon the President’s issuance of a new order under this paragraph for the site or facility concerned. Each such additional exemption shall be for a specified period which may not exceed one year. It is the intention of the Congress that whenever an exemption is issued under this paragraph the response action shall proceed as expeditiously as practicable. The Congress shall be notified periodically of the progress of any response action with respect to which an exemption has been issued under this paragraph. No exemption shall be granted under this paragraph due to lack of appropriation unless the President shall have specifically requested such appropriation as a part of the budgetary process and the Congress shall have failed to make available such requested appropriation.
   - **(2)** Notwithstanding any other provision of law, all requirements of the Atomic Energy Act [ 42 U.S.C. 2011 et seq.] and all Executive orders concerning the handling of restricted data and national security information, including “need to know” requirements, shall be applicable to any grant of access to classified information under the provisions of this chapter or under title III of the Superfund Amendments and Reauthorization Act of 1986 [ 42 U.S.C. 11001 et seq.].
+
+“The identification by the Secretary of Defense required under section 120(h)(4)(A) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ( 42 U.S.C. 9620(h)(4)(A) ), and the concurrence required under section 120(h)(4)(B) of such Act, shall be made not later than the earlier of—
+
+“The Congress finds the following:
+
+## Source Credit
+
+*([Pub. L. 96–510, title I, § 120](https://www.govinfo.gov/link/plaw/96/public/510), as added [Pub. L. 99–499, title I, § 120(a)](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1666](https://www.govinfo.gov/link/statute/100/1666); amended [Pub. L. 102–426](https://www.govinfo.gov/link/plaw/102/public/426), §§ 3–5, Oct. 19, 1992, [106 Stat. 2175–2177](https://www.govinfo.gov/link/statute/106/2175); [Pub. L. 104–106, div. B, title XXVIII, § 2834](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 559](https://www.govinfo.gov/link/statute/110/559); [Pub. L. 104–201, div. A, title III](https://www.govinfo.gov/link/plaw/104/public/201), §§ 330, 331, 334, Sept. 23, 1996, [110 Stat. 2484](https://www.govinfo.gov/link/statute/110/2484), 2486.)*

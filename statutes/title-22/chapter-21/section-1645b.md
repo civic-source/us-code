@@ -3,12 +3,17 @@ title: "Section 1645b - Receipt and determination of claims; notice by publicati
 usc_title: 22
 usc_section: "1645b"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1645b"
-generated_at: "2026-03-30T02:55:05.337Z"
+generated_at: "2026-11-23T21:25:58.411Z"
+status: "active"
 ---
 
 # § 1645b. Receipt and determination of claims; notice by publication in Federal Register
 
 The Commission shall receive and determine in accordance with applicable substantive law, including international law, the validity and amounts of claims by nationals of the United States against Vietnam arising on or after April 29, 1975 , for losses incurred as a result of the nationalization, expropriation, or other taking of (or special measures directed against) property which, at the time of such nationalization, expropriation, or other taking, was owned wholly or partially, directly or indirectly, by nationals of the United States to whom no restoration or adequate compensation for such property has been made. Such claims must be submitted to the Commission within the period specified by the Commission by notice published in the Federal Register (which period shall not be more than a period of two years beginning on the date of such publication) within sixty days after December 28, 1980 , or of legislation making appropriations to the Commission for payment of administrative expenses incurred in carrying out its functions under this subchapter, whichever date is later.
 
+
+## Source Credit
+
+*(Mar. 10, 1950, ch. 54, title VII, § 703, as added [Pub. L. 96–606](https://www.govinfo.gov/link/plaw/96/public/606), Dec. 28, 1980, [94 Stat. 3535](https://www.govinfo.gov/link/statute/94/3535).)*

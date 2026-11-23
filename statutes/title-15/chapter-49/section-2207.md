@@ -3,9 +3,10 @@ title: "Section 2207 - Fire technology"
 usc_title: 15
 usc_section: "2207"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2207"
-generated_at: "2026-03-30T02:54:08.168Z"
+generated_at: "2026-11-23T21:25:39.917Z"
+status: "active"
 ---
 
 # § 2207. Fire technology
@@ -63,3 +64,7 @@ generated_at: "2026-03-30T02:54:08.168Z"
       - **(i)** The information described in subparagraphs (A), (B), and (C) of paragraph (1) with respect to such research program shall be made available under paragraph (1) not later than 30 days after the Administrator has awarded the funding for such research program.
       - **(ii)** The information described in subparagraph (D) of paragraph (1) with respect to a research program shall be made available under paragraph (1) not later than 60 days after the date such research program has been completed.
     - **(B)** No information shall be required to be published under this subsection before the date that is 1 year after October 8, 2008 .
+
+## Source Credit
+
+*([Pub. L. 93–498, § 8](https://www.govinfo.gov/link/plaw/93/public/498), Oct. 29, 1974, [88 Stat. 1540](https://www.govinfo.gov/link/statute/88/1540); [Pub. L. 108–169, title II, § 202](https://www.govinfo.gov/link/plaw/108/public/169), Dec. 6, 2003, [117 Stat. 2037](https://www.govinfo.gov/link/statute/117/2037); [Pub. L. 110–376](https://www.govinfo.gov/link/plaw/110/public/376), §§ 6, 9(b), Oct. 8, 2008, [122 Stat. 4059](https://www.govinfo.gov/link/statute/122/4059), 4061.)*

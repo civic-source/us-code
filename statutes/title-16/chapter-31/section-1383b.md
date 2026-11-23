@@ -3,9 +3,10 @@ title: "Section 1383b - Status review; conservation plans"
 usc_title: 16
 usc_section: "1383b"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1383b"
-generated_at: "2026-03-30T02:54:22.961Z"
+generated_at: "2026-11-23T21:25:51.866Z"
+status: "active"
 ---
 
 # § 1383b. Status review; conservation plans
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:22.961Z"
   - **(2)** Each plan shall have the purpose of conserving and restoring the species or stock to its optimum sustainable population. The Secretary shall model such plans on recovery plans required under section 1533(f) of this title .
   - **(3)** The Secretary shall act expeditiously to implement each conservation plan prepared under paragraph (1). Each year, the Secretary shall specify in the annual report prepared under section 1373(f) of this title what measures have been taken to prepare and implement such plans.
   - **(4)** If the Secretary determines that a take reduction plan is necessary to reduce the incidental taking of marine mammals in the course of commercial fishing operations from a strategic stock, or for species or stocks which interact with a commercial fishery for which the Secretary has made a determination under section 1387(f)(1) of this title , any conservation plan prepared under this subsection for such species or stock shall incorporate the take reduction plan required under section 1387 of this title for such species or stock.
+
+## Source Credit
+
+*([Pub. L. 92–522, title I, § 115](https://www.govinfo.gov/link/plaw/92/public/522), as added [Pub. L. 100–711, § 3(a)](https://www.govinfo.gov/link/plaw/100/public/711), Nov. 23, 1988, [102 Stat. 4763](https://www.govinfo.gov/link/statute/102/4763); amended [Pub. L. 103–238, § 8](https://www.govinfo.gov/link/plaw/103/public/238), Apr. 30, 1994, [108 Stat. 543](https://www.govinfo.gov/link/statute/108/543).)*

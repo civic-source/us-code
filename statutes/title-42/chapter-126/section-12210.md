@@ -3,9 +3,10 @@ title: "Section 12210 - Illegal use of drugs"
 usc_title: 42
 usc_section: "12210"
 chapter: 126
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12210"
-generated_at: "2026-03-30T02:56:11.412Z"
+generated_at: "2026-11-23T21:26:33.463Z"
+status: "active"
 ---
 
 # § 12210. Illegal use of drugs
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.412Z"
 - **(d)**
   - **(1)** The term “illegal use of drugs” means the use of drugs, the possession or distribution of which is unlawful under the Controlled Substances Act [ 21 U.S.C. 801 et seq.]. Such term does not include the use of a drug taken under supervision by a licensed health care professional, or other uses authorized by the Controlled Substances Act or other provisions of Federal law.
   - **(2)** The term “drug” means a controlled substance, as defined in schedules I through V of section 202 of the Controlled Substances Act [ 21 U.S.C. 812 ].
+
+## Source Credit
+
+*([Pub. L. 101–336, title V, § 511](https://www.govinfo.gov/link/plaw/101/public/336), formerly § 510, July 26, 1990, [104 Stat. 375](https://www.govinfo.gov/link/statute/104/375); renumbered § 511 and amended [Pub. L. 110–325, § 6(a)(2)](https://www.govinfo.gov/link/plaw/110/public/325), (3), Sept. 25, 2008, [122 Stat. 3558](https://www.govinfo.gov/link/statute/122/3558).)*

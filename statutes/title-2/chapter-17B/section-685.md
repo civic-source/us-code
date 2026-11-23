@@ -3,9 +3,10 @@ title: "Section 685 - Transmission of messages; publication"
 usc_title: 2
 usc_section: "685"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 685"
-generated_at: "2026-03-30T02:53:04.802Z"
+generated_at: "2026-11-23T21:25:21.185Z"
+status: "active"
 ---
 
 # § 685. Transmission of messages; publication
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:04.802Z"
     - **(A)** he has transmitted a special message under section 683 of this title with respect to a proposed rescission or a reservation; and
     - **(B)** he has transmitted a special message under section 684 of this title proposing a deferral.
   - **(2)** Each report submitted under paragraph (1) shall be printed in the first issue of the Federal Register published after its submission.
+
+## Source Credit
+
+*([Pub. L. 93–344, title X, § 1014](https://www.govinfo.gov/link/plaw/93/public/344), July 12, 1974, [88 Stat. 335](https://www.govinfo.gov/link/statute/88/335).)*

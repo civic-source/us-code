@@ -3,9 +3,10 @@ title: "Section 6273 - Advisory committees"
 usc_title: 42
 usc_section: "6273"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6273"
-generated_at: "2026-03-30T02:56:11.245Z"
+generated_at: "2026-11-23T21:26:32.861Z"
+status: "active"
 ---
 
 # § 6273. Advisory committees
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.245Z"
   - **(2)** subsections (b) and (c) of section 17 1 1 See References in Text note below. of the Federal Energy Administration Act of 1974,
   - **(3)** the requirement under subsection (a) of this section that meetings be open to the public, and
   - **(4)** the second sentence of subsection (b);
+
+## Source Credit
+
+*([Pub. L. 94–163, title II, § 253](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 898](https://www.govinfo.gov/link/statute/89/898); [Pub. L. 95–619, title VI, § 691(b)(2)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3288](https://www.govinfo.gov/link/statute/92/3288); [Pub. L. 117–286, § 4(a)(265)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4335](https://www.govinfo.gov/link/statute/136/4335).)*

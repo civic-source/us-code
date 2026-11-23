@@ -3,9 +3,10 @@ title: "Section 2263 - Study of Corps capability to conserve fish and wildlife"
 usc_title: 33
 usc_section: "2263"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2263"
-generated_at: "2026-03-30T02:55:41.117Z"
+generated_at: "2026-11-23T21:26:11.430Z"
+status: "active"
 ---
 
 # § 2263. Study of Corps capability to conserve fish and wildlife
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:41.117Z"
   - **(5)** In this subsection, the term “ecological success” means—
     - **(A)** achieving a tenfold increase in native oyster biomass by the year 2010, from a 1994 baseline; and
     - **(B)** the establishment of a sustainable fishery as determined by a broad scientific and economic consensus.
+
+## Source Credit
+
+*([Pub. L. 99–662, title VII, § 704](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4157](https://www.govinfo.gov/link/statute/100/4157); [Pub. L. 104–303, title V, § 505](https://www.govinfo.gov/link/plaw/104/public/303), Oct. 12, 1996, [110 Stat. 3757](https://www.govinfo.gov/link/statute/110/3757); [Pub. L. 106–541, title III, § 342](https://www.govinfo.gov/link/plaw/106/public/541), Dec. 11, 2000, [114 Stat. 2612](https://www.govinfo.gov/link/statute/114/2612); [Pub. L. 107–66, title I, § 113](https://www.govinfo.gov/link/plaw/107/public/66), Nov. 12, 2001, [115 Stat. 496](https://www.govinfo.gov/link/statute/115/496); [Pub. L. 109–103, title I, § 126](https://www.govinfo.gov/link/plaw/109/public/103), Nov. 19, 2005, [119 Stat. 2259](https://www.govinfo.gov/link/statute/119/2259); [Pub. L. 110–114, title V, § 5021](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1202](https://www.govinfo.gov/link/statute/121/1202); [Pub. L. 113–121, title IV, § 4010(b)](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1318](https://www.govinfo.gov/link/statute/128/1318); [Pub. L. 114–322, title I, § 1180](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1677](https://www.govinfo.gov/link/statute/130/1677); [Pub. L. 118–272, div. A, title III, § 1335](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3147](https://www.govinfo.gov/link/statute/138/3147).)*

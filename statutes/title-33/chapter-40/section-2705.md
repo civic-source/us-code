@@ -3,9 +3,10 @@ title: "Section 2705 - Interest; partial payment of claims"
 usc_title: 33
 usc_section: "2705"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2705"
-generated_at: "2026-03-30T02:55:41.130Z"
+generated_at: "2026-11-23T21:26:11.462Z"
+status: "active"
 ---
 
 # § 2705. Interest; partial payment of claims
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:41.130Z"
   - **(5)**
     - **(A)** Interest (including prejudgment interest) under this paragraph is in addition to damages and removal costs for which claims may be asserted under section 2702 of this title and shall be paid without regard to any limitation of liability under section 2704 of this title .
     - **(B)** The payment of interest under this subsection by a guarantor is subject to section 2716(f). 1 1 See References in Text note below.
+
+## Source Credit
+
+*([Pub. L. 101–380, title I, § 1005](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 493](https://www.govinfo.gov/link/statute/104/493); [Pub. L. 104–324, title XI, § 1142(a)](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3991](https://www.govinfo.gov/link/statute/110/3991); [Pub. L. 117–263, div. K, title CXIII, § 11311](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4086](https://www.govinfo.gov/link/statute/136/4086); [Pub. L. 119–60, div. G, title LXXVII, § 7701(g)(5)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1836](https://www.govinfo.gov/link/statute/139/1836).)*

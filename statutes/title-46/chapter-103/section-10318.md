@@ -3,9 +3,10 @@ title: "Section 10318 - Wages on discharge in foreign ports"
 usc_title: 46
 usc_section: "10318"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 10318"
-generated_at: "2026-03-30T02:56:15.553Z"
+generated_at: "2026-11-23T21:26:37.112Z"
+status: "active"
 ---
 
 # § 10318. Wages on discharge in foreign ports
@@ -16,3 +17,16 @@ generated_at: "2026-03-30T02:56:15.553Z"
 - **(d)** If the seaman is discharged involuntarily, and it appears that the discharge was not because of neglect of duty, incompetency, or injury incurred on the vessel, the master shall provide the seaman with employment on a vessel agreed to by the seaman or shall provide the seaman with one month’s extra wages.
 - **(e)** Expenses for the maintenance and return of an ill or injured seaman to the United States shall be paid by the Secretary of State. If a seaman is incapacitated by illness or injury and prompt discharge is necessary, but a personal appearance of the master before a consular officer is impracticable, the master may provide transportation to the seaman to the nearest consular officer for discharge.
 - **(f)** A deduction from wages of the seaman is permitted only if the deduction appears in the account of the seaman required to be delivered under section 10310 of this title , except for matters arising after delivery of the account, in which case a supplementary account is required. During a voyage, the master shall record in the official logbook the matters about which deductions are to be made with the amounts of the deductions. The entries shall be made as the matters occur. The master shall produce the official logbook at the time of payment of wages, and also before a competent authority on the hearing of any complaint or question about the payment of wages.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 10318 | 46:682 46:683 |
+
+
+Historical and Revision Notes
+
+10318
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 568](https://www.govinfo.gov/link/statute/97/568).)*

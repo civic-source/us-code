@@ -3,9 +3,10 @@ title: "Section 7541 - Army arsenals: treatment of unutilized or underutilized p
 usc_title: 10
 usc_section: "7541"
 chapter: 763
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 7541"
-generated_at: "2026-03-30T02:53:38.233Z"
+generated_at: "2026-11-23T21:25:32.867Z"
+status: "active"
 ---
 
 # § 7541. Army arsenals: treatment of unutilized or underutilized plant-capacity costs
@@ -18,3 +19,15 @@ generated_at: "2026-03-30T02:53:38.233Z"
 - **(d)** In this section:
   - **(1)** The term “Army arsenal” means a Government-owned, Government-operated defense plant of the Department of the Army that manufactures weapons, weapon components, or both.
   - **(2)** The term “unutilized and underutilized plant-capacity costs” means the costs associated with operating and maintaining the facilities and equipment of an Army arsenal that the Secretary of the Army determines are required to be kept for mobilization needs, in those months in which the facilities and equipment are not used or are used only 20 percent or less of available work days.
+
+Estimate of Costs
+
+Use of Funds
+
+Treatment of Costs
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title III, § 342(a)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–64, § 4541; renumbered § 7541, [Pub. L. 115–232, div. A, title VIII, § 808(d)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1839](https://www.govinfo.gov/link/statute/132/1839).)*

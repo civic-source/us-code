@@ -3,9 +3,10 @@ title: "Section 679a - Safe Meat and Poultry Inspection Panel"
 usc_title: 21
 usc_section: "679a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 679a"
-generated_at: "2026-03-30T02:54:54.289Z"
+generated_at: "2026-11-23T21:25:56.216Z"
+status: "active"
 ---
 
 # § 679a. Safe Meat and Poultry Inspection Panel
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:54.289Z"
 - **(g)** The Secretary shall promulgate regulations regarding conflicts of interest with respect to the members of the panel.
 - **(h)** Chapter 10 of title 5 and title XVIII of the Food and Agriculture Act of 1977 ( 7 U.S.C. 2281 et seq.) shall not apply to the panel.
 - **(i)** From funds available to the Secretary to carry out this chapter and the Poultry Products Inspection Act ( 21 U.S.C. 451 et seq.), the Secretary shall allocate such sums as may be necessary to carry out this section.
+
+## Source Credit
+
+*(Mar. 4, 1907, ch. 2907, title IV, § 410, as added [Pub. L. 104–127, title IX, § 918(a)(1)(B)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1188](https://www.govinfo.gov/link/statute/110/1188); amended [Pub. L. 117–286, § 4(a)(161)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4323](https://www.govinfo.gov/link/statute/136/4323).)*

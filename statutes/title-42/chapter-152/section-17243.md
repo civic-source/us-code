@@ -3,9 +3,10 @@ title: "Section 17243 - Bright Tomorrow Lighting Prizes"
 usc_title: 42
 usc_section: "17243"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17243"
-generated_at: "2026-03-30T02:56:11.503Z"
+generated_at: "2026-11-23T21:26:33.780Z"
+status: "active"
 ---
 
 # § 17243. Bright Tomorrow Lighting Prizes
@@ -67,3 +68,7 @@ generated_at: "2026-03-30T02:56:11.503Z"
     - **(A)** fiscal year appropriations; and
     - **(B)** private contributions authorized under subsection (c).
 - **(k)** There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 110–140, title VI, § 655](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1700](https://www.govinfo.gov/link/statute/121/1700).)*

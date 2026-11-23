@@ -3,9 +3,10 @@ title: "Section 5908 - Anti-money laundering innovation"
 usc_title: 12
 usc_section: "5908"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5908"
-generated_at: "2026-03-30T02:53:53.553Z"
+generated_at: "2026-11-23T21:25:37.310Z"
+status: "active"
 ---
 
 # § 5908. Anti-money laundering innovation
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:53:53.553Z"
     - **(E)** legislative recommendations relating to the scope of the term “digital asset service provider” and the application of that term to decentralized finance.
   - **(2)** A report under this section may include a classified annex, if applicable.
 - **(f)** Nothing in this section shall be construed to limit the existing authority of the Secretary of the Treasury or the primary Federal payment stablecoin regulators to, prior to the submission of a report required under this section, use existing exemptive authorities, the no-action letter process, or rulemaking authorities in a manner that encourages regulated financial institutions to adopt novel or innovative methods, techniques, or strategies to detect illicit activity, such as money laundering, involving digital assets.
+
+## Source Credit
+
+*([Pub. L. 119–27, § 9](https://www.govinfo.gov/link/plaw/119/public/27), July 18, 2025, [139 Stat. 453](https://www.govinfo.gov/link/statute/139/453).)*

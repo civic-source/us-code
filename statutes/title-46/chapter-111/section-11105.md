@@ -3,9 +3,10 @@ title: "Section 11105 - Wages on discharge when vessel sold"
 usc_title: 46
 usc_section: "11105"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 11105"
-generated_at: "2026-03-30T02:56:15.554Z"
+generated_at: "2026-11-23T21:26:37.121Z"
+status: "active"
 ---
 
 # § 11105. Wages on discharge when vessel sold
@@ -16,3 +17,16 @@ generated_at: "2026-03-30T02:56:15.554Z"
   - **(3)** deposit with the consular officer an amount of money considered sufficient by the officer to provide the seaman with maintenance and passage home.
 - **(b)** The consular officer shall endorse on the agreement the particulars of the payment, provision, or deposit made under this section.
 - **(c)** An owner of a vessel is liable to the United States Government for a civil penalty of $500 if the master does not comply with this section.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 11105 | 46:684 |
+
+
+Historical and Revision Notes
+
+11105
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 579](https://www.govinfo.gov/link/statute/97/579).)*

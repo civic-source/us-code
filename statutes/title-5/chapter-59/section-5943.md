@@ -3,9 +3,10 @@ title: "Section 5943 - Foreign currency appreciation allowances"
 usc_title: 5
 usc_section: "5943"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5943"
-generated_at: "2026-03-30T02:52:56.028Z"
+generated_at: "2026-11-23T21:25:23.306Z"
+status: "active"
 ---
 
 # § 5943. Foreign currency appreciation allowances
@@ -14,3 +15,30 @@ generated_at: "2026-03-30T02:52:56.028Z"
 - **(b)** Annual appropriations are authorized to carry out subsection (a) of this section and to cover any deficiency in the accounts of the Secretary of the Treasury, including interest, arising out of the arrangement approved by the President on July 27, 1933 , for the conversion into foreign currency of checks and drafts of employees and members of the uniformed services for pay and expenses.
 - **(c)** Payment under subsection (a) of this section may not be made to an employee or member of a uniformed service for a period during which his check or draft was converted into foreign currency under the arrangement referred to by subsection (b) of this section.
 - **(d)** The President shall report annually to Congress all expenditures made under this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 118c . | Mar. 26, 1934, ch. 87 , 48 Stat. 466 . |
+|  |  | Aug. 14, 1937, ch. 627 , 50 Stat. 641 . |
+|  |  | Sept. 12, 1950, ch. 946, § 301(87) , 64 Stat. 843 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 118c
+
+Mar. 26, 1934, ch. 87
+
+48 Stat. 466
+
+Aug. 14, 1937, ch. 627
+
+50 Stat. 641
+
+Sept. 12, 1950, ch. 946, § 301(87)
+
+64 Stat. 843
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 513](https://www.govinfo.gov/link/statute/80/513); [Pub. L. 96–54, § 2(a)(37)](https://www.govinfo.gov/link/plaw/96/public/54), Aug. 14, 1979, [93 Stat. 383](https://www.govinfo.gov/link/statute/93/383).)*

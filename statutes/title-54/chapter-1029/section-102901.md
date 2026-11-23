@@ -3,9 +3,10 @@ title: "Section 102901 - Conveyance of property and interests in property in Sys
 usc_title: 54
 usc_section: "102901"
 chapter: 1029
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "54 U.S.C. § 102901"
-generated_at: "2026-03-30T02:56:28.420Z"
+generated_at: "2026-11-23T21:26:42.781Z"
+status: "active"
 ---
 
 # § 102901. Conveyance of property and interests in property in System units or related areas
@@ -19,3 +20,55 @@ generated_at: "2026-03-30T02:56:28.420Z"
     - **(A)** shall be approximately equal; or
     - **(B)** if they are not approximately equal, shall be equalized by the payment of cash to the grantor from funds appropriated for the acquisition of land for the area, or to the Secretary, as the circumstances require.
 - **(c)** The proceeds received from any conveyance under this section shall be credited to the Land and Water Conservation Fund.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 102901(a), (b) | 16 U.S.C. 460 l –22(a), (b). | Pub. L. 90–401, § 5(a) , (b), July 15, 1968 , 82 Stat. 356 . |
+| 102901(c) | 16 U.S.C. 460 l –22(d). | Pub. L. 90–401, § 5(d) , July 15, 1968 , 82 Stat. 356 ; Pub. L. 98–506, § 2 , Oct. 19, 1984 , 98 Stat. 2338 . |
+
+
+Freehold and Leasehold Interests
+
+Exchange of Land.—
+
+In general
+
+Exception
+
+Public hearing
+
+Values of properties exchanged
+
+Proceeds Credited to Land and Water Conservation Fund
+
+Historical and Revision Notes
+
+102901(a), (b)
+
+16 U.S.C. 460
+
+Pub. L. 90–401, § 5(a)
+
+July 15, 1968
+
+82 Stat. 356
+
+102901(c)
+
+16 U.S.C. 460
+
+Pub. L. 90–401, § 5(d)
+
+July 15, 1968
+
+82 Stat. 356
+
+Pub. L. 98–506, § 2
+
+Oct. 19, 1984
+
+98 Stat. 2338
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3162](https://www.govinfo.gov/link/statute/128/3162).)*

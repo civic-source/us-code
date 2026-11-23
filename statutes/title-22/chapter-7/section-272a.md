@@ -3,9 +3,10 @@ title: "Section 272a - Authorization of appropriations"
 usc_title: 22
 usc_section: "272a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 272a"
-generated_at: "2026-03-30T02:55:05.309Z"
+generated_at: "2026-11-23T21:25:58.337Z"
+status: "active"
 ---
 
 # § 272a. Authorization of appropriations
@@ -16,3 +17,7 @@ There is hereby authorized to be appropriated annually to the Department of Stat
 - **(b)** such additional sums as may be necessary to pay the expenses incident to participation by the United States in the activities of the Organization, including—
   - **(1)** salaries of the representative or representatives and alternates and appropriate staff, including personal services in the District of Columbia and elsewhere, without regard to the civil-service laws and chapter 51 and subchapter III of chapter 53 of title 5; services as authorized by section 3109 of title 5 ; under such rules and regulations as the Secretary of State may prescribe, allowances for living quarters, including heat, fuel, and light and cost-of-living allowances to persons temporarily stationed abroad; printing and binding without regard to section 501 of title 44 and section 6101 of title 41 ; and
   - **(2)** such other expenses as the Secretary of State deems necessary to participation by the United States in the activities of the Organization: Provided , That the provisions of section 287r of this title , and regulations thereunder, applicable to expenses incurred pursuant to subchapter XVII of this chapter shall be applicable to any expenses incurred pursuant to this paragraph.
+
+## Source Credit
+
+*(June 30, 1948, ch. 756, § 2, [62 Stat. 1151](https://www.govinfo.gov/link/statute/62/1151); Oct. 28, 1949, ch. 782, title II, § 202(2), title XI, § 1106(a), [63 Stat. 954](https://www.govinfo.gov/link/statute/63/954), 972; Sept. 21, 1950, ch. 976, § 1(e), [64 Stat. 903](https://www.govinfo.gov/link/statute/64/903); [Pub. L. 85–477](https://www.govinfo.gov/link/plaw/85/public/477), ch. V, § 502(f), June 30, 1958, [72 Stat. 273](https://www.govinfo.gov/link/statute/72/273).)*

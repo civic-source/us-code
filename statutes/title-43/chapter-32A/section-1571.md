@@ -3,9 +3,10 @@ title: "Section 1571 - Water quality improvement"
 usc_title: 43
 usc_section: "1571"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1571"
-generated_at: "2026-03-30T02:55:57.476Z"
+generated_at: "2026-11-23T21:26:19.846Z"
+status: "active"
 ---
 
 # § 1571. Water quality improvement
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:57.476Z"
 - **(j)** The Secretary is authorized to acquire through the Corps of Engineers fee title to, or other necessary interests in, additional lands above the Painted Rock Dam in Arizona that are required for the temporary storage capacity needed to permit operation of the dam and reservoir in times of serious flooding in accordance with the obligations of the United States under Minute No. 242. No funds shall be expended for acquisition of land or interests therein until it is finally determined by a Federal court of competent jurisdiction that the Corps of Engineers presently lacks legal authority to use said lands for this purpose. Nothing contained in this subchapter nor any action taken pursuant to it shall be deemed to be a recognition or admission of any obligation to the owners of such land on the part of the United States or a limitation or deficiency in the rights or powers of the United States with respect to such lands or the operation of the reservoir.
 - **(k)** To the extent desirable to carry out subsections (f)(1) and (h), the Secretary may transfer funds to the Secretary of Agriculture as may be required for technical assistance to farmers, conduct of research and demonstrations, and such related investigations as are required to achieve higher on-farm irrigation efficiencies.
 - **(l)** All cost associated with the desalting complex shall be nonreimbursable except as provided in subsections (f) and (h).
+
+## Source Credit
+
+*([Pub. L. 93–320, title I, § 101](https://www.govinfo.gov/link/plaw/93/public/320), June 24, 1974, [88 Stat. 266](https://www.govinfo.gov/link/statute/88/266); [Pub. L. 96–336](https://www.govinfo.gov/link/plaw/96/public/336), §§ 1, 2, Sept. 4, 1980, [94 Stat. 1063](https://www.govinfo.gov/link/statute/94/1063).)*

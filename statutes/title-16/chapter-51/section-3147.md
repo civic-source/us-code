@@ -3,9 +3,10 @@ title: "Section 3147 - Arctic research study"
 usc_title: 16
 usc_section: "3147"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3147"
-generated_at: "2026-03-30T02:54:23.010Z"
+generated_at: "2026-11-23T21:25:51.961Z"
+status: "active"
 ---
 
 # § 3147. Arctic research study
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:23.010Z"
 - **(d)** In the course of the study, the Secretaries shall consult with representatives of the Department of Navy, the National Oceanic and Atmospheric Administration, the National Science Foundation, the Smithsonian Institution, the State of Alaska, local governments, representatives of public and private institutions conducting Arctic research, and Native Village and Regional Corporations in the areas now affected by the activities of NARL. The Secretaries shall provide an opportunity for public review and comment on the draft report and proposed recommendations prior to final approval, and shall include any recommendations of the local community in the final study.
 - **(e)** The Secretaries shall submit the study and their recommendations to the Congress no later than one year after December 2, 1980 .
 - **(f)** Pending submission of the study to the Congress, the President is directed to continue the operation of NARL at the level of funding provided for in fiscal year 1979.
+
+## Source Credit
+
+*([Pub. L. 96–487, title X, § 1007](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2453](https://www.govinfo.gov/link/statute/94/2453).)*

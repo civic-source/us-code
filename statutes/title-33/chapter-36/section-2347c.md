@@ -3,9 +3,10 @@ title: "Section 2347c - Small water storage projects"
 usc_title: 33
 usc_section: "2347c"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2347c"
-generated_at: "2026-03-30T02:55:41.127Z"
+generated_at: "2026-11-23T21:26:11.453Z"
+status: "active"
 ---
 
 # § 2347c. Small water storage projects
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:41.127Z"
 - **(g)** The costs of operation, maintenance, repair, and replacement and rehabilitation for a small water storage project constructed under this section shall be the responsibility of the non-Federal interest.
 - **(h)** Not more than $65,000,000 in Federal funds may be made available to a small water storage project under this section.
 - **(i)** There is authorized to be appropriated to carry out this section $130,000,000 annually through fiscal year 2030.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. AA, title I, § 155](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2660](https://www.govinfo.gov/link/statute/134/2660).)*

@@ -3,9 +3,10 @@ title: "Section 5985 - Applications"
 usc_title: 20
 usc_section: "5985"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 5985"
-generated_at: "2026-03-30T02:54:48.190Z"
+generated_at: "2026-11-23T21:25:47.479Z"
+status: "active"
 ---
 
 # § 5985. Applications
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:48.190Z"
   - **(3)** the applicant will coordinate or conduct seminars on a national or multistate basis through a collaboration with an institution of higher education, State higher education agency or a public or private nonprofit organization, with experience in coordinating or conducting teacher training programs in American government and civics education;
   - **(4)** the applicant will coordinate or conduct seminars designed for more than one minority student population and for Native Americans; and
   - **(5)** the applicant will coordinate or conduct seminars that offer a combination of academic instruction in American government, exposure to the practical workings of the political system, and training in appropriate pedagogical techniques for working with minority and Native American students.
+
+## Source Credit
+
+*([Pub. L. 103–227, title VIII, § 805](https://www.govinfo.gov/link/plaw/103/public/227), Mar. 31, 1994, [108 Stat. 210](https://www.govinfo.gov/link/statute/108/210).)*

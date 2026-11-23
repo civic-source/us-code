@@ -3,9 +3,10 @@ title: "Section 2065 - Inspection and recordkeeping"
 usc_title: 15
 usc_section: "2065"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2065"
-generated_at: "2026-03-30T02:54:08.164Z"
+generated_at: "2026-11-23T21:25:39.908Z"
+status: "active"
 ---
 
 # § 2065. Inspection and recordkeeping
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.164Z"
     - **(B)** each subcontractor involved in the production or fabrication of such product or substance; and
     - **(C)** each subcontractor from which the manufacturer obtained a component thereof.
 - **(d)** The Commission shall, by rule, condition the manufacturing for sale, offering for sale, distribution in commerce, or importation into the United States of any consumer product or other product on the manufacturer’s compliance with the inspection and recordkeeping requirements of this chapter and the Commission’s rules with respect to such requirements.
+
+## Source Credit
+
+*([Pub. L. 92–573, § 16](https://www.govinfo.gov/link/plaw/92/public/573), Oct. 27, 1972, [86 Stat. 1222](https://www.govinfo.gov/link/statute/86/1222); [Pub. L. 110–314, title II](https://www.govinfo.gov/link/plaw/110/public/314), §§ 215, 223(c)(2), Aug. 14, 2008, [122 Stat. 3056](https://www.govinfo.gov/link/statute/122/3056), 3069.)*

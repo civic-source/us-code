@@ -3,9 +3,10 @@ title: "Section 20915 - Duration of registration requirement"
 usc_title: 34
 usc_section: "20915"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20915"
-generated_at: "2026-03-30T02:55:33.300Z"
+generated_at: "2026-11-23T21:26:09.796Z"
+status: "active"
 ---
 
 # § 20915. Duration of registration requirement
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:33.300Z"
   - **(3)** In the case of—
     - **(A)** a tier I sex offender, the reduction is 5 years;
     - **(B)** a tier III sex offender adjudicated delinquent, the reduction is from life to that period for which the clean record under paragraph (2) is maintained.
+
+## Source Credit
+
+*([Pub. L. 109–248, title I, § 115](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 595](https://www.govinfo.gov/link/statute/120/595).)*

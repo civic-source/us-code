@@ -3,9 +3,10 @@ title: "Section 16106 - Ultra-efficient engine technology for aircraft"
 usc_title: 42
 usc_section: "16106"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16106"
-generated_at: "2026-03-30T02:56:11.469Z"
+generated_at: "2026-11-23T21:26:33.696Z"
+status: "active"
 ---
 
 # § 16106. Ultra-efficient engine technology for aircraft
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.469Z"
   - **(3)** Exploring advanced concepts, alternate propulsion, and power configurations, including hybrid fuel cell powered systems.
   - **(4)** Exploring the use of alternate fuel in conventional or nonconventional turbine-based systems.
 - **(c)** There are authorized to be appropriated to the Secretary for carrying out this section $50,000,000 for each of the fiscal years 2006, 2007, 2008, 2009, and 2010.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VII, § 758](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 833](https://www.govinfo.gov/link/statute/119/833).)*

@@ -3,9 +3,10 @@ title: "Section 1478 - Appraisal and valuation services for real property"
 usc_title: 43
 usc_section: "1478"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1478"
-generated_at: "2026-03-30T02:55:57.475Z"
+generated_at: "2026-11-23T21:26:19.842Z"
+status: "active"
 ---
 
 # § 1478. Appraisal and valuation services for real property
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:57.475Z"
   - **(3)** The term “reporting period” means the 1-year period before the date on which a report is submitted under subsection (c).
   - **(4)** The term “Secretary” means the Secretary of the Interior.
   - **(5)** The term “State” means each of the several States, the District of Columbia, and each territory and possession of the United States.
+
+## Source Credit
+
+*([Pub. L. 118–230, § 2](https://www.govinfo.gov/link/plaw/118/public/230), Jan. 4, 2025, [138 Stat. 2826](https://www.govinfo.gov/link/statute/138/2826).)*

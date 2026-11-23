@@ -3,9 +3,10 @@ title: "Section 53202 - Establishment of the Cable Security Fleet"
 usc_title: 46
 usc_section: "53202"
 chapter: 532
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 53202"
-generated_at: "2026-03-30T02:56:15.573Z"
+generated_at: "2026-11-23T21:26:37.252Z"
+status: "active"
 ---
 
 # § 53202. Establishment of the Cable Security Fleet
@@ -62,3 +63,35 @@ generated_at: "2026-03-30T02:56:15.573Z"
   - **(1)** is in the national interest;
   - **(2)** the subject cable vessel and any associated operating network is and will continue to be economically viable; and
   - **(3)** is necessary due to the lack of availability of other vessels and operators that comply with the requirements of this chapter.
+
+In General
+
+Vessel Eligibility
+
+Requirements Regarding Citizenship of Owners and Operators.—
+
+Vessels owned and operated by section 50501 citizens
+
+Vessels owned by a section 50501 citizen, or united states citizen trust, and chartered to a documentation citizen
+
+Vessel owned and operated by a defense contractor
+
+Vessel owned by a documentation citizen and chartered to a section 50501 citizen
+
+Vessel Standards
+
+Certificate of inspection
+
+Continued eligibility for certificate
+
+Reliance on classification society.—
+
+In general
+
+Foreign classification society
+
+Waiver of Age Registration
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. C, title XXXV, § 3521(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1989](https://www.govinfo.gov/link/statute/133/1989).)*

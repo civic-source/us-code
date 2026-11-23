@@ -3,9 +3,10 @@ title: "Section 5546a - Differential pay for certain employees of the Federal Av
 usc_title: 5
 usc_section: "5546a"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5546a"
-generated_at: "2026-03-30T02:52:56.020Z"
+generated_at: "2026-11-23T21:25:23.282Z"
+status: "active"
 ---
 
 # § 5546a. Differential pay for certain employees of the Federal Aviation Administration and the Department of Defense
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:52:56.020Z"
 - **(f)**
   - **(1)** The Administrator or the Secretary shall prescribe standards for determining which air traffic controllers and other employees of the Federal Aviation Administration or the Department of Defense are to be paid premium pay under this section.
   - **(2)** The Administrator and the Secretary may prescribe such rules as he determines are necessary to carry out the provisions of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 97–276, § 151(c)(1)](https://www.govinfo.gov/link/plaw/97/public/276), (d), Oct. 2, 1982, [96 Stat. 1200](https://www.govinfo.gov/link/statute/96/1200), 1201; amended [Pub. L. 97–377, title I, § 145(a)](https://www.govinfo.gov/link/plaw/97/public/377), formerly § 145, Dec. 21, 1982, [96 Stat. 1917](https://www.govinfo.gov/link/statute/96/1917), renumbered [Pub. L. 98–78, title III, § 320(1)](https://www.govinfo.gov/link/plaw/98/public/78), Aug. 15, 1983, [97 Stat. 473](https://www.govinfo.gov/link/statute/97/473); [Pub. L. 98–525, title XV, § 1537(c)(1)](https://www.govinfo.gov/link/plaw/98/public/525) –(6)(A), Oct. 19, 1984, [98 Stat. 2635](https://www.govinfo.gov/link/statute/98/2635), 2636.)*

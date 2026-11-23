@@ -3,9 +3,10 @@ title: "Section 8422 - Protecting America’s rock climbing"
 usc_title: 16
 usc_section: "8422"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8422"
-generated_at: "2026-03-30T02:54:23.084Z"
+generated_at: "2026-11-23T21:25:52.077Z"
+status: "active"
 ---
 
 # § 8422. Protecting America’s rock climbing
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:23.084Z"
 - **(g)** In this section, the term “covered Federal land”—
   - **(1)** means the lands described in subparagraphs (A) and (B) of paragraph (2); and
   - **(2)** includes components of the National Wilderness Preservation System.
+
+## Source Credit
+
+*([Pub. L. 118–234, title I, § 122](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2843](https://www.govinfo.gov/link/statute/138/2843).)*

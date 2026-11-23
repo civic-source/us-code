@@ -3,9 +3,10 @@ title: "Section 3632 - Development of risk and needs assessment system"
 usc_title: 18
 usc_section: "3632"
 chapter: 229
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3632"
-generated_at: "2026-03-30T02:54:16.523Z"
+generated_at: "2026-11-23T21:25:44.221Z"
+status: "active"
 ---
 
 # § 3632. Development of risk and needs assessment system
@@ -138,3 +139,53 @@ generated_at: "2026-03-30T02:54:16.523Z"
     - **(A)** the intake process; and
     - **(B)** each periodic risk reassessment of a prisoner.
   - **(2)** The Attorney General shall incorporate programs designed to treat dyslexia into the evidence-based recidivism reduction programs or productive activities required to be implemented under this section. The Attorney General may also incorporate programs designed to treat other learning disabilities.
+
+In General
+
+Assignment of Evidence-based Recidivism Reduction Programs
+
+Housing and Assignment Decisions
+
+Evidence-Based Recidivism Reduction Program Incentives and Productive Activities Rewards
+
+Phone and visitation privileges
+
+Transfer to institution closer to release residence
+
+Additional policies
+
+Time credits.—
+
+In general
+
+Availability
+
+Application of time credits toward prerelease custody or supervised release
+
+Ineligible prisoners
+
+Deportable prisoners ineligible to apply time credits.—
+
+In general
+
+Proceedings
+
+Risk reassessments and level adjustment
+
+Relation to other incentive programs
+
+Penalties
+
+Bureau of Prisons Training
+
+Quality Assurance
+
+Dyslexia Screening.—
+
+Screening
+
+Treatment
+
+## Source Credit
+
+*(Added [Pub. L. 115–391, title I, § 101(a)](https://www.govinfo.gov/link/plaw/115/public/391), Dec. 21, 2018, [132 Stat. 5196](https://www.govinfo.gov/link/statute/132/5196).)*

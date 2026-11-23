@@ -3,9 +3,10 @@ title: "Section 2603 - Waste handling practices"
 usc_title: 33
 usc_section: "2603"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2603"
-generated_at: "2026-03-30T02:55:41.129Z"
+generated_at: "2026-11-23T21:26:11.459Z"
+status: "active"
 ---
 
 # § 2603. Waste handling practices
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:41.129Z"
   - **(1)** requiring that waste sources, receiving facilities, and vessels provide the means and facilities to assure that the waste will not be deposited into coastal waters during loading, offloading, and transport;
   - **(2)** requiring, as appropriate, the submission and adoption by each responsible party of an operation and maintenance manual identifying procedures to be used to prevent, report, and clean up any deposit of municipal or commercial waste into coastal waters, including record keeping requirements; and
   - **(3)** if the Administrator determines that tracking systems are required to assure adequate enforcement of laws preventing the deposit of municipal or commercial waste into coastal waters, requiring installation of the appropriate systems within 18 months after the Administrator makes that determination.
+
+## Source Credit
+
+*([Pub. L. 100–688, title IV, § 4103](https://www.govinfo.gov/link/plaw/100/public/688), Nov. 18, 1988, [102 Stat. 4156](https://www.govinfo.gov/link/statute/102/4156).)*

@@ -3,9 +3,10 @@ title: "Section 824a - Art. 24a. Special trial counsel"
 usc_title: 10
 usc_section: "824a"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 824a"
-generated_at: "2026-03-30T02:53:38.078Z"
+generated_at: "2026-11-23T21:25:32.329Z"
+status: "active"
 ---
 
 # § 824a. Art. 24a. Special trial counsel
@@ -48,3 +49,39 @@ generated_at: "2026-03-30T02:53:38.078Z"
   - **(3)**
     - **(A)** If a special trial counsel exercises authority over an offense pursuant to paragraph (1) or (2), the offense over which the special trial counsel exercises authority shall be considered a covered offense for purposes of this chapter.
     - **(B)** If a special trial counsel exercises authority over an offense pursuant to subsection (c)(2)(A) or paragraph (1) or (2) of this subsection, the special trial counsel may exercise the authority of the special trial counsel under subparagraph (B) of subsection (c)(2) with respect to other offenses described in that subparagraph without regard to the date on which the other offenses occur.
+
+Detail of Special Trial Counsel
+
+Qualifications
+
+Duties and Authorities.—
+
+In general
+
+Determination of covered offense; related charges.—
+
+Authority
+
+Known and related offenses
+
+Dismissal; referral; plea bargains
+
+Binding determination
+
+Deferral to commander or convening authority
+
+Special Trial Counsel Authority Over Certain Other Offenses.—
+
+Offenses occurring before effective date
+
+The standalone offense of sexual harassment
+
+Effect of exercise of authority.—
+
+Treatment as covered offense
+
+Known or related offenses
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. A, title V, § 531(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1692](https://www.govinfo.gov/link/statute/135/1692); amended [Pub. L. 117–263, div. A, title V, § 542(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2581](https://www.govinfo.gov/link/statute/136/2581); [Pub. L. 118–31, div. A, title V, § 531(c)(1)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 258](https://www.govinfo.gov/link/statute/137/258); [Pub. L. 118–159, div. A, title V, § 562](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1903](https://www.govinfo.gov/link/statute/138/1903); [Pub. L. 119–60, div. A, title V, § 561(b)(2)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 882](https://www.govinfo.gov/link/statute/139/882).)*

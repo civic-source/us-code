@@ -3,9 +3,10 @@ title: "Section 126 - Transferability of Federal-aid highway funds"
 usc_title: 23
 usc_section: "126"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 126"
-generated_at: "2026-03-30T02:55:12.550Z"
+generated_at: "2026-11-23T21:25:53.871Z"
+status: "active"
 ---
 
 # § 126. Transferability of Federal-aid highway funds
@@ -19,3 +20,15 @@ generated_at: "2026-03-30T02:55:12.550Z"
       - **(i)** held a competition in compliance with the guidance issued to carry out section 133(h) and provided sufficient time for applicants to apply;
       - **(ii)** offered to each eligible entity, and provided on request of an eligible entity, technical assistance; and
       - **(iii)** demonstrates that there were not sufficiently suitable applications from eligible entities to use the funds to be transferred.
+
+In General
+
+Application to Certain Set-asides.—
+
+In general
+
+Funds transferred by states
+
+## Source Credit
+
+*(Added [Pub. L. 105–178, title I, § 1310(a)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 234](https://www.govinfo.gov/link/statute/112/234), § 110; renumbered § 126, [Pub. L. 106–159, title I, § 102(a)(1)](https://www.govinfo.gov/link/plaw/106/public/159), Dec. 9, 1999, [113 Stat. 1752](https://www.govinfo.gov/link/statute/113/1752); amended [Pub. L. 109–59, title I, § 1401(a)(3)(B)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1225](https://www.govinfo.gov/link/statute/119/1225); [Pub. L. 112–141, div. A, title I, § 1509(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 567](https://www.govinfo.gov/link/statute/126/567); [Pub. L. 114–94, div. A, title I](https://www.govinfo.gov/link/plaw/114/public/94), §§ 1109(c)(1), 1446(a)(2), Dec. 4, 2015, [129 Stat. 1343](https://www.govinfo.gov/link/statute/129/1343), 1437; [Pub. L. 117–58, div. A, title I, § 11109(b)(2)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 468](https://www.govinfo.gov/link/statute/135/468).)*

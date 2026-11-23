@@ -3,12 +3,17 @@ title: "Section 424 - Increased micro-purchase threshold for certain procurement
 usc_title: 6
 usc_section: "424"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 424"
-generated_at: "2026-03-30T02:53:09.463Z"
+generated_at: "2026-11-23T21:25:25.790Z"
+status: "active"
 ---
 
 # § 424. Increased micro-purchase threshold for certain procurements
 
 In the administration of section 1902 of title 41 with respect to a procurement referred to in section 422 of this title , the amount specified in subsections (a), (d), and (e) of such section 1902 shall be deemed to be $7,500.
 
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 854](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2236](https://www.govinfo.gov/link/statute/116/2236).)*

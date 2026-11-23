@@ -3,9 +3,10 @@ title: "Section 1673 - Restriction on garnishment"
 usc_title: 15
 usc_section: "1673"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1673"
-generated_at: "2026-03-30T02:54:08.146Z"
+generated_at: "2026-11-23T21:25:39.866Z"
+status: "active"
 ---
 
 # § 1673. Restriction on garnishment
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:08.146Z"
     - **(A)** where such individual is supporting his spouse or dependent child (other than a spouse or child with respect to whose support such order is used), 50 per centum of such individual’s disposable earnings for that week; and
     - **(B)** where such individual is not supporting such a spouse or dependent child described in clause (A), 60 per centum of such individual’s disposable earnings for that week;
 - **(c)** No court of the United States or any State, and no State (or officer or agency thereof), may make, execute, or enforce any order or process in violation of this section.
+
+## Source Credit
+
+*([Pub. L. 90–321, title III, § 303](https://www.govinfo.gov/link/plaw/90/public/321), May 29, 1968, [82 Stat. 163](https://www.govinfo.gov/link/statute/82/163); [Pub. L. 95–30, title V, § 501(e)(1)](https://www.govinfo.gov/link/plaw/95/public/30) –(3), May 23, 1977, [91 Stat. 161](https://www.govinfo.gov/link/statute/91/161), 162; [Pub. L. 95–598, title III, § 312(a)](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2676](https://www.govinfo.gov/link/statute/92/2676).)*

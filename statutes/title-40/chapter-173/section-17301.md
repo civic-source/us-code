@@ -3,9 +3,10 @@ title: "Section 17301 - Definitions"
 usc_title: 40
 usc_section: "17301"
 chapter: 173
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 17301"
-generated_at: "2026-03-30T02:55:43.389Z"
+generated_at: "2026-11-23T21:26:14.980Z"
+status: "active"
 ---
 
 # § 17301. Definitions
@@ -24,3 +25,45 @@ In this chapter, the following definitions apply:
   - **(4)** The term “wholly owned Government corporation”—
     - **(A)** means any corporation, regardless of the law under which it is incorporated, the capital of which is entirely owned by the Government; and
     - **(B)** includes the authorized officers, employees, and agents of the corporation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 17301(1) | 40:729(d). | July 8, 1937, ch. 444, § 7 , 50 Stat. 480 ; Aug. 10, 1939, ch. 665 , §3, 53 Stat. 1359 . |
+| 17301(2) | 40:729(b). |  |
+| 17301(3) | 40:729(a). |  |
+| 17301(4) | 40:729(c). |  |
+
+
+Replacement
+
+Shipment
+
+Valuables.—
+
+Definition
+
+Requirement for declaring articles or things valuable
+
+Wholly owned government corporation
+
+Historical and Revision Notes
+
+17301(1)
+
+July 8, 1937, ch. 444, § 7
+
+50 Stat. 480
+
+Aug. 10, 1939, ch. 665
+
+53 Stat. 1359
+
+17301(2)
+
+17301(3)
+
+17301(4)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1280](https://www.govinfo.gov/link/statute/116/1280).)*

@@ -3,9 +3,10 @@ title: "Section 17014 - Research and development into integrating electric vehic
 usc_title: 42
 usc_section: "17014"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17014"
-generated_at: "2026-03-30T02:56:11.493Z"
+generated_at: "2026-11-23T21:26:33.757Z"
+status: "active"
 ---
 
 # § 17014. Research and development into integrating electric vehicles onto the electric grid
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:56:11.493Z"
   - **(1)** implement the recommendations set forth in the report in subsection (b); and
   - **(2)** coordinate across all relevant program offices at the Department to achieve the goals established in this section, including the Office of Electricity.
 - **(d)** The Secretary shall coordinate with the National Laboratories to develop testing capabilities for the evaluation, rapid prototyping, and optimization of technologies enabling integration of electric vehicles onto the electric grid.
+
+## Source Credit
+
+*([Pub. L. 110–140, title I, § 137](https://www.govinfo.gov/link/plaw/110/public/140), as added [Pub. L. 116–260, div. Z, title VIII, § 8004(c)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2584](https://www.govinfo.gov/link/statute/134/2584).)*

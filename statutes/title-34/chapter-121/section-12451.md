@@ -3,9 +3,10 @@ title: "Section 12451 - Creating hope through outreach, options, services, and e
 usc_title: 34
 usc_section: "12451"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 12451"
-generated_at: "2026-03-30T02:55:33.287Z"
+generated_at: "2026-11-23T21:26:09.745Z"
+status: "active"
 ---
 
 # § 12451. Creating hope through outreach, options, services, and education for children and youth (“CHOOSE Children & Youth”)
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:55:33.287Z"
   - **(1)** Not less than 50 percent of the total amount appropriated under this section for each fiscal year shall be used for the purposes described in subsection (b)(1).
   - **(2)** Not less than 10 percent of the total amount appropriated under this section for each fiscal year shall be made available for grants under the program authorized by section 10452 of this title . The requirements of this section shall not apply to funds allocated under this paragraph.
 - **(h)** The Attorney General shall prioritize grant applications under this section that coordinate with prevention programs in the community.
+
+## Source Credit
+
+*([Pub. L. 103–322, title IV, § 41201](https://www.govinfo.gov/link/plaw/103/public/322), as added [Pub. L. 113–4, title III, § 302](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 84](https://www.govinfo.gov/link/statute/127/84); amended [Pub. L. 115–393, title I, § 102](https://www.govinfo.gov/link/plaw/115/public/393), Dec. 21, 2018, [132 Stat. 5266](https://www.govinfo.gov/link/statute/132/5266); [Pub. L. 117–103, div. W, title III, § 302](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 865](https://www.govinfo.gov/link/statute/136/865).)*

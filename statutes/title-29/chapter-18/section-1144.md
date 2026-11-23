@@ -3,9 +3,10 @@ title: "Section 1144 - Other laws"
 usc_title: 29
 usc_section: "1144"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1144"
-generated_at: "2026-03-30T02:55:18.719Z"
+generated_at: "2026-11-23T21:26:02.264Z"
+status: "active"
 ---
 
 # § 1144. Other laws
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:55:18.719Z"
       - **(i)** the notice includes an explanation of the participant’s right under the arrangement not to have elective contributions made on the participant’s behalf (or to elect to have such contributions made at a different percentage),
       - **(ii)** the participant has a reasonable period of time, after receipt of the notice described in clause (i) and before the first elective contribution is made, to make such election, and
       - **(iii)** the notice explains how contributions made under the arrangement will be invested in the absence of any investment election by the participant.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 514](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 897](https://www.govinfo.gov/link/statute/88/897); [Pub. L. 97–473, title III](https://www.govinfo.gov/link/plaw/97/public/473), §§ 301(a), 302(b), Jan. 14, 1983, [96 Stat. 2611](https://www.govinfo.gov/link/statute/96/2611), 2613; [Pub. L. 98–397, title I, § 104(b)](https://www.govinfo.gov/link/plaw/98/public/397), Aug. 23, 1984, [98 Stat. 1436](https://www.govinfo.gov/link/statute/98/1436); [Pub. L. 99–272, title IX, § 9503(d)(1)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 207](https://www.govinfo.gov/link/statute/100/207); [Pub. L. 101–239, title VII, § 7894(f)(2)(A)](https://www.govinfo.gov/link/plaw/101/public/239), (3)(A), Dec. 19, 1989, [103 Stat. 2450](https://www.govinfo.gov/link/statute/103/2450), 2451; [Pub. L. 103–66, title IV, § 4301(c)(4)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 377](https://www.govinfo.gov/link/statute/107/377); [Pub. L. 104–191, title I, § 101(f)(1)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 1953](https://www.govinfo.gov/link/statute/110/1953); [Pub. L. 104–204, title VI, § 603(b)(3)(G)](https://www.govinfo.gov/link/plaw/104/public/204), Sept. 26, 1996, [110 Stat. 2938](https://www.govinfo.gov/link/statute/110/2938); [Pub. L. 105–200, title IV, § 401(h)(2)(A)(i)](https://www.govinfo.gov/link/plaw/105/public/200), (ii), July 16, 1998, [112 Stat. 668](https://www.govinfo.gov/link/statute/112/668); [Pub. L. 109–280, title IX, § 902(f)(1)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1039](https://www.govinfo.gov/link/statute/120/1039).)*

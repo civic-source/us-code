@@ -3,9 +3,10 @@ title: "Section 2412 - Costs and fees"
 usc_title: 28
 usc_section: "2412"
 chapter: 161
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 2412"
-generated_at: "2026-03-30T02:55:30.149Z"
+generated_at: "2026-11-23T21:26:01.130Z"
+status: "active"
 ---
 
 # § 2412. Costs and fees
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:55:30.149Z"
   - **(8)** The head of each agency (including the Attorney General of the United States) shall provide to the Chairman of the Administrative Conference of the United States in a timely manner all information requested by the Chairman to comply with the requirements of paragraphs (5), (6), and (7).
 - **(e)** The provisions of this section shall not apply to any costs, fees, and other expenses in connection with any proceeding to which section 7430 of the Internal Revenue Code of 1986 applies (determined without regard to subsections (b) and (f) of such section). Nothing in the preceding sentence shall prevent the awarding under subsection (a) of this section of costs enumerated in section 1920 of this title (as in effect on October 1, 1981 ).
 - **(f)** If the United States appeals an award of costs or fees and other expenses made against the United States under this section and the award is affirmed in whole or in part, interest shall be paid on the amount of the award as affirmed. Such interest shall be computed at the rate determined under section 1961(a) of this title , and shall run from the date of the award through the day before the date of the mandate of affirmance.
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 973](https://www.govinfo.gov/link/statute/62/973); [Pub. L. 89–507, § 1](https://www.govinfo.gov/link/plaw/89/public/507), July 18, 1966, [80 Stat. 308](https://www.govinfo.gov/link/statute/80/308); [Pub. L. 96–481, title II, § 204(a)](https://www.govinfo.gov/link/plaw/96/public/481), (c), Oct. 21, 1980, [94 Stat. 2327](https://www.govinfo.gov/link/statute/94/2327), 2329; [Pub. L. 97–248, title II, § 292(c)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 574](https://www.govinfo.gov/link/statute/96/574); [Pub. L. 99–80](https://www.govinfo.gov/link/plaw/99/public/80), §§ 2, 6, Aug. 5, 1985, [99 Stat. 184](https://www.govinfo.gov/link/statute/99/184), 186; [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 102–572, title III, § 301(a)](https://www.govinfo.gov/link/plaw/102/public/572), title V, §§ 502(b), 506(a), title IX, § 902(b)(1), Oct. 29, 1992, [106 Stat. 4511–4513](https://www.govinfo.gov/link/statute/106/4511), 4516; [Pub. L. 104–66, title I, § 1091(b)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 722](https://www.govinfo.gov/link/statute/109/722); [Pub. L. 104–121, title II, § 232](https://www.govinfo.gov/link/plaw/104/public/121), Mar. 29, 1996, [110 Stat. 863](https://www.govinfo.gov/link/statute/110/863); [Pub. L. 105–368, title V, § 512(b)(1)(B)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3342](https://www.govinfo.gov/link/statute/112/3342); [Pub. L. 111–350, § 5(g)(9)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3848](https://www.govinfo.gov/link/statute/124/3848); [Pub. L. 116–9, title IV, § 4201(a)(2)](https://www.govinfo.gov/link/plaw/116/public/9), (3), Mar. 12, 2019, [133 Stat. 763](https://www.govinfo.gov/link/statute/133/763), 764.)*

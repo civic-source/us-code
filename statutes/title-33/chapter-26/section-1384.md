@@ -3,9 +3,10 @@ title: "Section 1384 - Allotment of funds"
 usc_title: 33
 usc_section: "1384"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1384"
-generated_at: "2026-03-30T02:55:41.104Z"
+generated_at: "2026-11-23T21:26:11.401Z"
+status: "active"
 ---
 
 # § 1384. Allotment of funds
@@ -15,3 +16,11 @@ generated_at: "2026-03-30T02:55:41.104Z"
 - **(c)**
   - **(1)** Sums allotted to a State under this section for a fiscal year shall be available for obligation by the State during the fiscal year for which sums are authorized and during the following fiscal year.
   - **(2)** The amount of any allotment not obligated by the State by the last day of the 2-year period of availability established by paragraph (1) shall be immediately reallotted by the Administrator on the basis of the same ratio as is applicable to sums allotted under subchapter II of this chapter for the second fiscal year of such 2-year period. None of the funds reallotted by the Administrator shall be reallotted to any State which has not obligated all sums allotted to such State in the first fiscal year of such 2-year period.
+
+Environmental Protection Agency
+
+construction grants
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title VI, § 604, as added [Pub. L. 100–4, title II, § 212(a)](https://www.govinfo.gov/link/plaw/100/public/4), Feb. 4, 1987, [101 Stat. 25](https://www.govinfo.gov/link/statute/101/25).)*

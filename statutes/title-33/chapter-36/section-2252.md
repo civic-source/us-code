@@ -3,9 +3,10 @@ title: "Section 2252 - Project delivery process reforms"
 usc_title: 33
 usc_section: "2252"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2252"
-generated_at: "2026-03-30T02:55:41.117Z"
+generated_at: "2026-11-23T21:26:11.430Z"
+status: "active"
 ---
 
 # § 2252. Project delivery process reforms
@@ -35,3 +36,13 @@ generated_at: "2026-03-30T02:55:41.117Z"
     - **(A)** early contractor involvement in the development of features and components;
     - **(B)** an appropriate use of continuing contracts for the construction of features and components; and
     - **(C)** applicable principles, procedures, and processes used for military construction projects.
+
+“In this title [enacting this section and sections 2211a, 2238b, 2238c, 2243, 2253, 2254, and 2255 of this title and amending sections 2211, 2212, 2238, 2242, 2251, 2282a, and 2327 of this title and section 9505 of Title 26 , Internal Revenue Code]:
+
+Inland waterways trust fund
+
+Qualifying project
+
+## Source Credit
+
+*([Pub. L. 113–121, title II, § 2002](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1261](https://www.govinfo.gov/link/statute/128/1261).)*

@@ -3,9 +3,10 @@ title: "Section 8277 - Advisory committee"
 usc_title: 42
 usc_section: "8277"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8277"
-generated_at: "2026-03-30T02:56:11.340Z"
+generated_at: "2026-11-23T21:26:33.193Z"
+status: "active"
 ---
 
 # § 8277. Advisory committee
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:11.340Z"
 - **(a)** There is hereby established an advisory committee to assist the Secretary in the establishment and conduct of the programs established under this part.
 - **(b)** Such committee shall be composed of the Secretary of Defense, the Secretary of Housing and Urban Development, the Administrator of the National Aeronautics and Space Administration, the Administrator of the General Services Administration, the Secretary of Transportation, the Administrator of the Small Business Administration, the chairman of the Federal Trade Commission, the Postmaster General, and such other persons as the Secretary deems necessary. The Secretary shall appoint such other nongovernmental persons to the extent necessary to assure that the membership of the committee will be fairly balanced in terms of the point of view represented and the functions to be performed by the committee.
 - **(c)** The advisory committee shall terminate October 1, 1981 .
+
+## Source Credit
+
+*([Pub. L. 95–619, title V, § 568](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3281](https://www.govinfo.gov/link/statute/92/3281).)*

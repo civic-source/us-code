@@ -3,9 +3,10 @@ title: "Section 636 - Provisions relating to consideration of concurrent resolut
 usc_title: 2
 usc_section: "636"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 636"
-generated_at: "2026-03-30T02:53:04.799Z"
+generated_at: "2026-11-23T21:25:21.171Z"
+status: "active"
 ---
 
 # § 636. Provisions relating to consideration of concurrent resolutions on the budget
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:04.799Z"
 - **(d)** It shall not be in order in the Senate to vote on the question of agreeing to—
   - **(1)** a concurrent resolution on the budget unless the figures then contained in such resolution are mathematically consistent; or
   - **(2)** a conference report on a concurrent resolution on the budget unless the figures contained in such resolution, as recommended in such conference report, are mathematically consistent.
+
+## Source Credit
+
+*([Pub. L. 93–344, title III, § 305](https://www.govinfo.gov/link/plaw/93/public/344), July 12, 1974, [88 Stat. 310](https://www.govinfo.gov/link/statute/88/310); [Pub. L. 95–523, title III, § 303(b)](https://www.govinfo.gov/link/plaw/95/public/523), (c), Oct. 27, 1978, [92 Stat. 1905](https://www.govinfo.gov/link/statute/92/1905), 1906; [Pub. L. 99–177, title II, § 201(b)](https://www.govinfo.gov/link/plaw/99/public/177), Dec. 12, 1985, [99 Stat. 1047](https://www.govinfo.gov/link/statute/99/1047); [Pub. L. 100–119, title II, § 209](https://www.govinfo.gov/link/plaw/100/public/119), Sept. 29, 1987, [101 Stat. 787](https://www.govinfo.gov/link/statute/101/787); [Pub. L. 100–203, title VIII, § 8003(d)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–282](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 101–508, title XIII](https://www.govinfo.gov/link/plaw/101/public/508), §§ 13209, 13210(1), Nov. 5, 1990, [104 Stat. 1388–619](https://www.govinfo.gov/link/statute/104/1388), 1388–620; [Pub. L. 105–33, title X, § 10109(a)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 684](https://www.govinfo.gov/link/statute/111/684); [Pub. L. 113–67, div. A, title I, § 122(4)](https://www.govinfo.gov/link/plaw/113/public/67) –(6), Dec. 26, 2013, [127 Stat. 1175](https://www.govinfo.gov/link/statute/127/1175).)*

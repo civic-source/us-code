@@ -3,9 +3,10 @@ title: "Section 6101 - Definitions"
 usc_title: 10
 usc_section: "6101"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6101"
-generated_at: "2026-03-30T02:53:38.217Z"
+generated_at: "2026-11-23T21:25:32.809Z"
+status: "active"
 ---
 
 # § 6101. Definitions
@@ -30,3 +31,7 @@ Except as otherwise provided, in this subpart:
     - **(E)** The Nevada National Security Site, Nevada.
     - **(F)** Any facility of the Department of Energy that the Secretary of Energy, in consultation with the Administrator and Congress, determines to be consistent with the mission of the Administration.
   - **(9)** The term “Restricted Data” has the meaning given such term in section 11 y. of the Atomic Energy Act of 1954 ( 42 U.S.C. 2014(y) ).
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1339](https://www.govinfo.gov/link/statute/139/1339).)*

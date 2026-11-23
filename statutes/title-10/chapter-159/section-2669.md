@@ -3,9 +3,10 @@ title: "Section 2669 - Transfer of land and facilities to support contracts with
 usc_title: 10
 usc_section: "2669"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2669"
-generated_at: "2026-03-30T02:53:38.169Z"
+generated_at: "2026-11-23T21:25:32.648Z"
+status: "active"
 ---
 
 # § 2669. Transfer of land and facilities to support contracts with federally funded research and development centers
@@ -28,3 +29,19 @@ generated_at: "2026-03-30T02:53:38.169Z"
   - **(2)** Sections 2662 and 2802 of this title shall not apply to any improvements or facilities constructed by the covered FFRDC on land leased or conveyed to a covered FFRDC described in subsection (a) or (b).
 - **(e)** If a proposed lease under this section is with respect to a covered FFRDC, the use of competitive procedures for the selection of the lessee is not required and the provisions of chapter 33 of title 41, United States Code, or chapter 221 of title 10, United States Code, and the related provisions of the Federal Acquisition Regulation shall not apply.
 - **(f)** In this section, the term “covered FFRDC” means a federally funded research and development center that is sponsored by, and has entered into a contract with, the Department of Defense.
+
+Lease of Land, Facilities, and Improvements
+
+Conveyance of Facilities and Improvements
+
+Construction Standards
+
+Inapplicability of Certain Property Management Laws
+
+Competitive Procedures for Selection of Certain Lessees; Exception
+
+Covered FFRDC Defined
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. B, title XXVIII, § 2831(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3002](https://www.govinfo.gov/link/statute/136/3002).)*

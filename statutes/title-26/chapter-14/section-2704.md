@@ -3,9 +3,10 @@ title: "Section 2704 - Treatment of certain lapsing rights and restrictions"
 usc_title: 26
 usc_section: "2704"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 2704"
-generated_at: "2026-03-30T02:55:27.787Z"
+generated_at: "2026-11-23T21:26:06.545Z"
+status: "active"
 ---
 
 # § 2704. Treatment of certain lapsing rights and restrictions
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:55:27.787Z"
     - **(C)** any brother or sister of the individual, and
     - **(D)** any spouse of any individual described in subparagraph (B) or (C).
   - **(3)** The rule of section 2701(e)(3) shall apply for purposes of determining the interests held by any individual.
+
+## Source Credit
+
+*(Added [Pub. L. 101–508, title XI, § 11602(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–498](https://www.govinfo.gov/link/statute/104/1388); amended [Pub. L. 104–188, title I, § 1702(f)(3)(C)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1871](https://www.govinfo.gov/link/statute/110/1871).)*

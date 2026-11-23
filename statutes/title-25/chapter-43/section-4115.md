@@ -3,9 +3,10 @@ title: "Section 4115 - Environmental review"
 usc_title: 25
 usc_section: "4115"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4115"
-generated_at: "2026-03-30T02:54:52.858Z"
+generated_at: "2026-11-23T21:25:54.706Z"
+status: "active"
 ---
 
 # § 4115. Environmental review
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:52.858Z"
   - **(2)** does not threaten the health or safety of the community involved by posing an immediate or long-term hazard to residents of that community;
   - **(3)** is a result of inadvertent error, including an incorrect or incomplete certification provided under subsection (c)(1); and
   - **(4)** may be corrected through the sole action of the recipient.
+
+## Source Credit
+
+*([Pub. L. 104–330, title I, § 105](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4028](https://www.govinfo.gov/link/statute/110/4028); [Pub. L. 106–568, title X, § 1003(d)](https://www.govinfo.gov/link/plaw/106/public/568), Dec. 27, 2000, [114 Stat. 2926](https://www.govinfo.gov/link/statute/114/2926); [Pub. L. 106–569, title V, § 503(d)](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 2962](https://www.govinfo.gov/link/statute/114/2962).)*

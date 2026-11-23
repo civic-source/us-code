@@ -3,9 +3,10 @@ title: "Section 1455 - Procedure for promulgation of regulations"
 usc_title: 15
 usc_section: "1455"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1455"
-generated_at: "2026-03-30T02:54:08.135Z"
+generated_at: "2026-11-23T21:25:39.821Z"
+status: "active"
 ---
 
 # § 1455. Procedure for promulgation of regulations
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.135Z"
 - **(b)** Regulations promulgated by the Commission under section 1453 or 1454 of this title shall be promulgated, and shall be subject to judicial review, by proceedings taken in conformity with the provisions of subsections (e), (f), and (g) of section 371 of title 21 in the same manner, and with the same effect, as if such proceedings were taken by the Secretary pursuant to subsection (a) of this section. Hearings authorized or required for the promulgation of any such regulations by the Commission shall be conducted by the Commission or by such officer or employee of the Commission as the Commission may designate for that purpose.
 - **(c)** In carrying into effect the provisions of this chapter, the Secretary and the Commission are authorized to cooperate with any department or agency of the United States, with any State, Commonwealth, or possession of the United States, and with any department, agency, or political subdivision of any such State, Commonwealth, or possession.
 - **(d)** No regulation adopted under this chapter shall preclude the continued use of returnable or reusable glass containers for beverages in inventory or with the trade as of the effective date of this Act, nor shall any regulation under this chapter preclude the orderly disposal of packages in inventory or with the trade as of the effective date of such regulation.
+
+## Source Credit
+
+*([Pub. L. 89–755, § 6](https://www.govinfo.gov/link/plaw/89/public/755), Nov. 3, 1966, [80 Stat. 1299](https://www.govinfo.gov/link/statute/80/1299); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695).)*

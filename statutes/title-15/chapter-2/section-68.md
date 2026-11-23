@@ -3,9 +3,10 @@ title: "Section 68 - Definitions"
 usc_title: 15
 usc_section: "68"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 68"
-generated_at: "2026-03-30T02:54:08.028Z"
+generated_at: "2026-11-23T21:25:39.490Z"
+status: "active"
 ---
 
 # § 68. Definitions
@@ -20,3 +21,7 @@ As used in this subchapter—
 - **(f)** The term “Federal Trade Commission Act” means the Act of Congress entitled “An Act to create a Federal Trade Commission, to define its powers and duties, and for other purposes”, approved September 26, 1914 , as amended, and the Federal Trade Commission Act approved March 21, 1938 .
 - **(g)** The term “commerce” means commerce among the several States or with foreign nations, or in any Territory of the United States or in the District of Columbia, or between any such Territory and another, or between any such Territory and any State or foreign nation, or between the District of Columbia and any State or Territory or foreign nation.
 - **(h)** The term “Territory” includes the insular possessions of the United States and also any Territory of the United States.
+
+## Source Credit
+
+*(Oct. 14, 1940, ch. 871, § 2, [54 Stat. 1128](https://www.govinfo.gov/link/statute/54/1128); [Pub. L. 96–242, § 1](https://www.govinfo.gov/link/plaw/96/public/242), May 5, 1980, [94 Stat. 344](https://www.govinfo.gov/link/statute/94/344).)*

@@ -3,9 +3,10 @@ title: "Section 201 - Bribery of public officials and witnesses"
 usc_title: 18
 usc_section: "201"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 201"
-generated_at: "2026-03-30T02:54:16.458Z"
+generated_at: "2026-11-23T21:25:43.946Z"
+status: "active"
 ---
 
 # § 201. Bribery of public officials and witnesses
@@ -33,3 +34,17 @@ generated_at: "2026-03-30T02:54:16.458Z"
   - **(3)** directly or indirectly, demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally for or because of the testimony under oath or affirmation given or to be given by such person as a witness upon any such trial, hearing, or other proceeding, or for or because of such person’s absence therefrom; shall be fined under this title or imprisoned for not more than two years, or both.
 - **(d)** Paragraphs (3) and (4) of subsection (b) and paragraphs (2) and (3) of subsection (c) shall not be construed to prohibit the payment or receipt of witness fees provided by law, or the payment, by the party upon whose behalf a witness is called and receipt by a witness, of the reasonable cost of travel and subsistence incurred and the reasonable value of time lost in attendance at any such trial, hearing, or proceeding, or in the case of expert witnesses, a reasonable fee for time spent in the preparation of such opinion, and in appearing and testifying.
 - **(e)** The offenses and penalties prescribed in this section are separate from and in addition to those prescribed in sections 1503, 1504, and 1505 of this title.
+
+January 28, 1963.
+
+Robert F. Kennedy,
+
+United States Code
+
+Federal Register.
+
+Federal Register.
+
+## Source Credit
+
+*(Added [Pub. L. 87–849, § 1(a)](https://www.govinfo.gov/link/plaw/87/public/849), Oct. 23, 1962, [76 Stat. 1119](https://www.govinfo.gov/link/statute/76/1119); amended [Pub. L. 91–405, title II, § 204(d)(1)](https://www.govinfo.gov/link/plaw/91/public/405), Sept. 22, 1970, [84 Stat. 853](https://www.govinfo.gov/link/statute/84/853); [Pub. L. 99–646, § 46(a)](https://www.govinfo.gov/link/plaw/99/public/646) –(l), Nov. 10, 1986, [100 Stat. 3601–3604](https://www.govinfo.gov/link/statute/100/3601); [Pub. L. 103–322, title XXXIII](https://www.govinfo.gov/link/plaw/103/public/322), §§ 330011(b), 330016(2)(D), Sept. 13, 1994, [108 Stat. 2144](https://www.govinfo.gov/link/statute/108/2144), 2148; [Pub. L. 118–31, div. E, title LI, § 5101](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 931](https://www.govinfo.gov/link/statute/137/931); [Pub. L. 118–78, § 2(a)](https://www.govinfo.gov/link/plaw/118/public/78), July 30, 2024, [138 Stat. 1512](https://www.govinfo.gov/link/statute/138/1512).)*

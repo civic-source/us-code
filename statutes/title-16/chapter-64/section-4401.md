@@ -3,9 +3,10 @@ title: "Section 4401 - Findings and statement of purpose"
 usc_title: 16
 usc_section: "4401"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4401"
-generated_at: "2026-03-30T02:54:23.043Z"
+generated_at: "2026-11-23T21:25:52.014Z"
+status: "active"
 ---
 
 # § 4401. Findings and statement of purpose
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:23.043Z"
   - **(1)** to protect, enhance, restore, and manage an appropriate distribution and diversity of wetland ecosystems and habitats associated with wetland ecosystems and other fish and wildlife in North America;
   - **(2)** to maintain current or improved distributions of wetland associated migratory bird populations; and
   - **(3)** to sustain an abundance of waterfowl and other wetland associated migratory birds consistent with the goals of the North American Waterfowl Management Plan, the United States Shorebird Conservation Plan, the North American Waterbird Conservation Plan, the Partners In Flight Conservation Plans, and the international obligations contained in the migratory bird treaties and conventions and other agreements with Canada, Mexico, and other countries.
+
+## Source Credit
+
+*([Pub. L. 101–233, § 2](https://www.govinfo.gov/link/plaw/101/public/233), Dec. 13, 1989, [103 Stat. 1968](https://www.govinfo.gov/link/statute/103/1968); [Pub. L. 107–308](https://www.govinfo.gov/link/plaw/107/public/308), §§ 3, 8(a)(1), (2), Dec. 2, 2002, [116 Stat. 2446](https://www.govinfo.gov/link/statute/116/2446), 2447.)*

@@ -3,9 +3,10 @@ title: "Section 1231 - Abandoned Mine Reclamation Fund"
 usc_title: 30
 usc_section: "1231"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1231"
-generated_at: "2026-03-30T02:55:29.396Z"
+generated_at: "2026-11-23T21:26:00.417Z"
+status: "active"
 ---
 
 # § 1231. Abandoned Mine Reclamation Fund
@@ -54,3 +55,49 @@ generated_at: "2026-03-30T02:55:29.396Z"
       - **(ii)** 50 percent in fiscal year 2009.
       - **(iii)** 75 percent in fiscal year 2010.
       - **(iv)** 75 percent in fiscal year 2011.
+
+Definitions
+
+Abandoned mine drainage.—
+
+In general
+
+Inclusions
+
+Treatment technologies
+
+Treatment works for abandoned mine drainage
+
+Establishment of Program
+
+Goal
+
+Public Ownership Requirement
+
+Prioritization
+
+Agreements.—
+
+In general
+
+Requirements
+
+Plan
+
+Permits
+
+Costs
+
+Operation and maintenance
+
+Federal assistance
+
+Provision of Federal Assistance
+
+Exclusions
+
+Authorization of Appropriations
+
+## Source Credit
+
+*([Pub. L. 95–87, title IV, § 401](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 456](https://www.govinfo.gov/link/statute/91/456); [Pub. L. 98–473, title I, § 101(c) [title III, § 324]](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 1837](https://www.govinfo.gov/link/statute/98/1837), 1875; [Pub. L. 101–508, title VI, § 6002](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–289](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–486, title XIX, § 19143(b)(3)(A)](https://www.govinfo.gov/link/plaw/102/public/486), title XXV, § 2504(c)(1), Oct. 24, 1992, [106 Stat. 3056](https://www.govinfo.gov/link/statute/106/3056), 3105; [Pub. L. 109–432, div. C, title II, § 201(a)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 3006](https://www.govinfo.gov/link/statute/120/3006); [Pub. L. 117–58, div. D, title VII, § 40703](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1093](https://www.govinfo.gov/link/statute/135/1093).)*

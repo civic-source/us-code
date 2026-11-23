@@ -3,9 +3,10 @@ title: "Section 3151 - Nondiscrimination"
 usc_title: 15
 usc_section: "3151"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3151"
-generated_at: "2026-03-30T02:54:08.187Z"
+generated_at: "2026-11-23T21:25:39.964Z"
+status: "active"
 ---
 
 # § 3151. Nondiscrimination
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.187Z"
   - **(3)** take such other action as may be provided by law.
 - **(c)** When a matter is referred to the Attorney General pursuant to subsection (b), or whenever the Attorney General has reason to believe that a recipient is engaged in a pattern or practice in violation of the provisions of this section, the Attorney General may bring a civil action in the appropriate United States district court for any and all appropriate relief.
 - **(d)** To assist and evaluate the enforcement of this section, and the broader equal employment opportunity policies of this chapter the Secretary of Labor shall include, in the annual report referred to in section 1022a(f)(2)(B) of this title , a detailed analysis of the extent to which the enforcement of this section achieves positive results in both the quantity and quality of jobs, and for employment opportunities generally.
+
+## Source Credit
+
+*([Pub. L. 95–523, title IV, § 401](https://www.govinfo.gov/link/plaw/95/public/523), Oct. 27, 1978, [92 Stat. 1907](https://www.govinfo.gov/link/statute/92/1907); [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(12)(B)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–421.)*

@@ -3,9 +3,10 @@ title: "Section 33 - Followup monitoring and treatment of other individuals with
 usc_title: 42
 usc_section: "33"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 33"
-generated_at: "2026-03-30T02:56:10.851Z"
+generated_at: "2026-11-23T21:26:30.965Z"
+status: "active"
 ---
 
 # § 300mm–33. Followup monitoring and treatment of other individuals with WTC-related health conditions
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:10.851Z"
     - **(A)** the last calendar quarter of fiscal year 2011 is $5,000,000;
     - **(B)** fiscal year 2012 is $20,000,000; or
     - **(C)** a succeeding fiscal year is the amount specified in this paragraph for the previous fiscal year increased by the annual percentage increase in the medical care component of the consumer price index for all urban consumers.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXXIII, § 3323, as added [Pub. L. 111–347, title I, § 101](https://www.govinfo.gov/link/plaw/111/public/347), Jan. 2, 2011, [124 Stat. 3652](https://www.govinfo.gov/link/statute/124/3652).)*

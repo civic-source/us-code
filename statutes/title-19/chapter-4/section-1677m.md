@@ -3,9 +3,10 @@ title: "Section 1677m - Conduct of investigations and administrative reviews"
 usc_title: 19
 usc_section: "1677m"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1677m"
-generated_at: "2026-03-30T02:54:24.658Z"
+generated_at: "2026-11-23T21:25:42.758Z"
+status: "active"
 ---
 
 # § 1677m. Conduct of investigations and administrative reviews
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:54:24.658Z"
   - **(3)** a final determination in a review under section 1675(a) of this title , if—
     - **(A)** verification is timely requested by an interested party as defined in section 1677(9)(C), (D), (E), (F), or (G) of this title, and
     - **(B)** no verification was made under this subparagraph during the 2 immediately preceding reviews and determinations under section 1675(a) of this title of the same order, finding, or notice, except that this clause shall not apply if good cause for verification is shown.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VII, § 782, as added [Pub. L. 103–465, title II, § 231(a)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4893](https://www.govinfo.gov/link/statute/108/4893); amended [Pub. L. 114–27, title V, § 506](https://www.govinfo.gov/link/plaw/114/public/27), June 29, 2015, [129 Stat. 386](https://www.govinfo.gov/link/statute/129/386).)*

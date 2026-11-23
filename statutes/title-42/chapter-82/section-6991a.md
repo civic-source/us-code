@@ -3,9 +3,10 @@ title: "Section 6991a - Notification"
 usc_title: 42
 usc_section: "6991a"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6991a"
-generated_at: "2026-03-30T02:56:11.280Z"
+generated_at: "2026-11-23T21:26:33.030Z"
+status: "active"
 ---
 
 # § 6991a. Notification
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:11.280Z"
       - **(i)** this subchapter; or
       - **(ii)** an applicable State program approved under section 6991c of this title ; and
     - **(C)** data on the number of underground storage tank equipment failures in the State.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 9002](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 98–616, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/98/public/616), Nov. 8, 1984, [98 Stat. 3278](https://www.govinfo.gov/link/statute/98/3278); amended [Pub. L. 99–499, title II, § 205(b)](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1696](https://www.govinfo.gov/link/statute/100/1696); [Pub. L. 109–58, title XV, § 1526(c)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1098](https://www.govinfo.gov/link/statute/119/1098).)*

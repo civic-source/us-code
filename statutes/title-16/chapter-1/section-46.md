@@ -3,9 +3,10 @@ title: "Section 46 - Compliance with environmental laws"
 usc_title: 16
 usc_section: "46"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 46"
-generated_at: "2026-03-30T02:54:22.842Z"
+generated_at: "2026-11-23T21:25:51.620Z"
+status: "active"
 ---
 
 # § 460lll–46. Compliance with environmental laws
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:22.842Z"
     - **(B)** costs, penalties, fines, or performance of actions related to noncompliance with any environmental law at or related to the Recreation Area or related to the presence, release, or threat of release of any hazardous substance, pollutant, or contaminant, hazardous waste, hazardous material, or petroleum product or derivative of a petroleum product of any kind at or related to the Recreation Area, including contamination resulting from migration.
   - **(4)** Except as provided in paragraph (3), nothing in this subchapter affects, modifies, amends, repeals, alters, limits or otherwise changes, directly or indirectly, the responsibilities or liabilities under any environmental law with respect to the Secretary.
 - **(e)** Subject to the other provisions of this section, a Federal agency that carried or carries out operations at the Recreation Area resulting in the release or threatened release of a hazardous substance, pollutant, or contaminant, hazardous waste, hazardous material, or petroleum product or derivative of a petroleum product for which that agency would be liable under any environmental law shall pay the costs of related response actions and shall pay the costs of related actions to remediate petroleum products or their derivatives.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. A, § 101(e) [title V, § 546]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–231](https://www.govinfo.gov/link/statute/112/2681), 2681–320.)*

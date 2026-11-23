@@ -3,9 +3,10 @@ title: "Section 1543a - Report on hostilities involving United States Armed Forc
 usc_title: 50
 usc_section: "1543a"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1543a"
-generated_at: "2026-03-30T02:56:26.206Z"
+generated_at: "2026-11-23T21:26:38.917Z"
+status: "active"
 ---
 
 # § 1543a. Report on hostilities involving United States Armed Forces
@@ -19,3 +20,9 @@ generated_at: "2026-03-30T02:56:26.206Z"
   - **(3)** a description of the United States Armed Forces involved in the incident and the mission of such Armed Forces;
   - **(4)** the numbers of any combatant casualties and civilian casualties that occurred as a result of the incident; and
   - **(5)** any other information the President determines appropriate.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*([Pub. L. 118–31, div. A, title XII, § 1230](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 457](https://www.govinfo.gov/link/statute/137/457).)*

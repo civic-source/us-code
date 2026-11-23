@@ -3,9 +3,10 @@ title: "Section 17385 - Smart grid interoperability framework"
 usc_title: 42
 usc_section: "17385"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17385"
-generated_at: "2026-03-30T02:56:11.507Z"
+generated_at: "2026-11-23T21:26:33.793Z"
+status: "active"
 ---
 
 # § 17385. Smart grid interoperability framework
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.507Z"
 - **(c)** The Institute shall begin work pursuant to this section within 60 days of December 19, 2007 . The Institute shall provide and publish an initial report on progress toward recommended or consensus standards and protocols within 1 year after December 19, 2007 , further reports at such times as developments warrant in the judgment of the Institute, and a final report when the Institute determines that the work is completed or that a Federal role is no longer necessary.
 - **(d)** At any time after the Institute’s work has led to sufficient consensus in the Commission’s judgment, the Commission shall institute a rulemaking proceeding to adopt such standards and protocols as may be necessary to insure smart-grid functionality and interoperability in interstate transmission of electric power, and regional and wholesale electricity markets.
 - **(e)** There are authorized to be appropriated for the purposes of this section $5,000,000 to the Institute to support the activities required by this subsection 2 2 So in original. Probably should be “section”. for each of fiscal years 2008 through 2012.
+
+## Source Credit
+
+*([Pub. L. 110–140, title XIII, § 1305](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1787](https://www.govinfo.gov/link/statute/121/1787).)*

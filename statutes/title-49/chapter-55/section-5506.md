@@ -3,9 +3,10 @@ title: "Section 5506 - Advanced transportation research initiative"
 usc_title: 49
 usc_section: "5506"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 5506"
-generated_at: "2026-03-30T02:56:19.318Z"
+generated_at: "2026-11-23T21:26:40.664Z"
+status: "active"
 ---
 
 # § 5506. Advanced transportation research initiative
@@ -63,3 +64,35 @@ generated_at: "2026-03-30T02:56:19.318Z"
   - **(2)** All costs directly incurred by the non-Federal partners (including personnel, travel, facility, and hardware development costs) shall be credited toward the non-Federal share of the cost of an activity carried out under this section.
 - **(h)** Of any amounts made available to carry out this section for a fiscal year, the Secretary may use not more than 1.5 percent for coordination, evaluation, and oversight activities under this section.
 - **(i)** There is authorized to be appropriated to the Secretary to carry out this section $50,000,000 for each of fiscal years 2022 through 2026.
+
+Definition of Eligible Entity
+
+Pilot Program
+
+Eligible Research
+
+Project Review
+
+Coordination.—
+
+In general
+
+Intraagency coordination
+
+Interagency collaboration
+
+Review, Evaluation, and Report
+
+Federal Share.—
+
+In general
+
+Non-federal share
+
+Limitation on Certain Expenses
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. B, title V, § 25013(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 867](https://www.govinfo.gov/link/statute/135/867).)*

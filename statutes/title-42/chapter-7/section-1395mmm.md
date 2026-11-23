@@ -3,9 +3,10 @@ title: "Section 1395mmm - Limiting Medicare coverage of certain individuals"
 usc_title: 42
 usc_section: "1395mmm"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1395mmm"
-generated_at: "2026-03-30T02:56:11.030Z"
+generated_at: "2026-11-23T21:26:31.759Z"
+status: "active"
 ---
 
 # § 1395mmm. Limiting Medicare coverage of certain individuals
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.030Z"
   - **(2)**
     - **(A)** Not later than 1 year after July 4, 2025 , the Commissioner of Social Security shall complete a review of individuals entitled to, or enrolled for, benefits under this subchapter as of July 4, 2025 , for purposes of identifying individuals not described in any of paragraphs (1) through (4) of subsection (a).
     - **(B)** The Commissioner of Social Security shall notify each individual identified under the review conducted under subparagraph (A) that such individual’s entitlement to, or enrollment for, benefits under this subchapter will be terminated as of the date that is 18 months after July 4, 2025 . Such notification shall be made as soon as practicable after such identification and in a manner designed to ensure such individual’s comprehension of such notification.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1899C, as added [Pub. L. 119–21, title VII, § 71201](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 319](https://www.govinfo.gov/link/statute/139/319).)*

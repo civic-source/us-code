@@ -3,9 +3,10 @@ title: "Section 1314 - Information and guidelines"
 usc_title: 33
 usc_section: "1314"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1314"
-generated_at: "2026-03-30T02:55:41.092Z"
+generated_at: "2026-11-23T21:26:11.379Z"
+status: "active"
 ---
 
 # § 1314. Information and guidelines
@@ -77,3 +78,17 @@ generated_at: "2026-03-30T02:55:41.092Z"
     - **(B)** identify categories of sources discharging toxic or nonconventional pollutants for which guidelines under subsection (b)(2) of this section and section 1316 of this title have not previously been published; and
     - **(C)** establish a schedule for promulgation of effluent guidelines for categories identified in subparagraph (B), under which promulgation of such guidelines shall be no later than 4 years after February 4, 1987 , for categories identified in the first published plan or 3 years after the publication of the plan for categories identified in later published plans.
   - **(2)** The Administrator shall provide for public review and comment on the plan prior to final publication.
+
+Guidance to states
+
+Information on water quality criteria
+
+Revised criteria for coastal recreation waters.—
+
+In general
+
+Reviews
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title III, § 304, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 850](https://www.govinfo.gov/link/statute/86/850); amended [Pub. L. 95–217](https://www.govinfo.gov/link/plaw/95/public/217), §§ 48–51, 62(b), Dec. 27, 1977, [91 Stat. 1587](https://www.govinfo.gov/link/statute/91/1587), 1588, 1598; [Pub. L. 97–117, § 23](https://www.govinfo.gov/link/plaw/97/public/117), Dec. 29, 1981, [95 Stat. 1632](https://www.govinfo.gov/link/statute/95/1632); [Pub. L. 100–4, title I, § 101(f)](https://www.govinfo.gov/link/plaw/100/public/4), title III, §§ 308(a), (c), (f), 315(c), 316(e), Feb. 4, 1987, [101 Stat. 9](https://www.govinfo.gov/link/statute/101/9), 38–40, 52, 61; [Pub. L. 106–284, § 3(b)](https://www.govinfo.gov/link/plaw/106/public/284), Oct. 10, 2000, [114 Stat. 871](https://www.govinfo.gov/link/statute/114/871).)*

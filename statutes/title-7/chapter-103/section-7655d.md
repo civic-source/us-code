@@ -3,9 +3,10 @@ title: "Section 7655d - Wood innovation grant program"
 usc_title: 7
 usc_section: "7655d"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7655d"
-generated_at: "2026-03-30T02:53:42.460Z"
+generated_at: "2026-11-23T21:25:28.443Z"
+status: "active"
 ---
 
 # § 7655d. Wood innovation grant program
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:42.460Z"
   - **(2)** To be eligible to receive a grant under this subsection, an eligible entity shall submit to the Secretary a proposal at such time, in such manner, and containing such information as the Secretary may require.
 - **(c)** In selecting among proposals of eligible entities under subsection (b)(2), the Secretary shall give priority to proposals that include the use or retrofitting (or both) of existing sawmill facilities located in counties in which the average annual unemployment rate exceeded the national average unemployment rate by more than 1 percent in the previous calendar year.
 - **(d)** As a condition of receiving a grant under subsection (b), an eligible entity shall provide funds equal to the amount received by the eligible entity under the grant, to be derived from non-Federal sources.
+
+## Source Credit
+
+*([Pub. L. 115–334, title VIII, § 8643](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4872](https://www.govinfo.gov/link/statute/132/4872).)*

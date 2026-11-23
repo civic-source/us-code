@@ -3,9 +3,10 @@ title: "Section 1815 - Inadmissible alien apprehension fee"
 usc_title: 8
 usc_section: "1815"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1815"
-generated_at: "2026-03-30T02:53:10.510Z"
+generated_at: "2026-11-23T21:25:25.221Z"
+status: "active"
 ---
 
 # § 1815. Inadmissible alien apprehension fee
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:10.510Z"
     - **(C)** may be retained and expended by U.S. Immigration and Customs Enforcement without further appropriation; and
   - **(2)** any amounts collected pursuant to this section that are not credited to U.S. Immigration and Customs Enforcement pursuant to paragraph (1) shall be deposited into the general fund of the Treasury.
 - **(d)** All of the fees collected pursuant to this section shall be deposited into the general fund of the Treasury.
+
+## Source Credit
+
+*([Pub. L. 119–21, title X, § 100017](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 384](https://www.govinfo.gov/link/statute/139/384).)*

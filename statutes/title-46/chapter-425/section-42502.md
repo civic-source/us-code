@@ -3,9 +3,10 @@ title: "Section 42502 - National Shipper Advisory Committee"
 usc_title: 46
 usc_section: "42502"
 chapter: 425
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 42502"
-generated_at: "2026-03-30T02:56:15.567Z"
+generated_at: "2026-11-23T21:26:37.204Z"
+status: "active"
 ---
 
 # § 42502. National Shipper Advisory Committee
@@ -18,3 +19,23 @@ generated_at: "2026-03-30T02:56:15.567Z"
   - **(3)** Members of the Committee shall be appointed as follows:
     - **(A)** Twelve members shall represent entities who import cargo to the United States using ocean common carriers.
     - **(B)** Twelve members shall represent entities who export cargo from the United States using ocean common carriers.
+
+Establishment
+
+Function
+
+Membership.—
+
+In general
+
+Expertise
+
+Representation
+
+Representation
+
+Representation
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. G, title LVXXXVI](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXVI], § 8604(a), Jan. 1, 2021, [134 Stat. 4762](https://www.govinfo.gov/link/statute/134/4762); amended [Pub. L. 118–159, div. C, title XXXV, § 3535(h)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2315](https://www.govinfo.gov/link/statute/138/2315).)*

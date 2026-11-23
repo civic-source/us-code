@@ -3,9 +3,10 @@ title: "Section 9111 - Annual Report"
 usc_title: 22
 usc_section: "9111"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9111"
-generated_at: "2026-03-30T02:55:05.460Z"
+generated_at: "2026-11-23T21:25:58.763Z"
+status: "active"
 ---
 
 # § 9111. Annual Report
@@ -63,3 +64,7 @@ generated_at: "2026-03-30T02:55:05.460Z"
     - **(A)** shall identify any action or actions described in section 9122(d) of this title (or commensurate action as provided in section 9122(e) of this title ) that have been taken by the Secretary with respect to each country;
     - **(B)** shall describe the basis for the Secretary’s determination of the pattern of noncompliance by each country;
     - **(C)** shall indicate whether noneconomic policy options designed to resolve the pattern of noncompliance have reasonably been exhausted, including the consultations required under section 9123 of this title .
+
+## Source Credit
+
+*([Pub. L. 113–150, title I, § 101](https://www.govinfo.gov/link/plaw/113/public/150), Aug. 8, 2014, [128 Stat. 1813](https://www.govinfo.gov/link/statute/128/1813); [Pub. L. 117–81, div. E, title LVII, § 5702](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2381](https://www.govinfo.gov/link/statute/135/2381).)*

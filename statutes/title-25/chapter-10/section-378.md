@@ -3,12 +3,17 @@ title: "Section 378 - Partition of allotment among heirs; patents"
 usc_title: 25
 usc_section: "378"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 378"
-generated_at: "2026-03-30T02:54:52.805Z"
+generated_at: "2026-11-23T21:25:54.568Z"
+status: "active"
 ---
 
 # § 378. Partition of allotment among heirs; patents
 
 If the Secretary of the Interior shall find that any inherited trust allotment or allotments are capable of partition to the advantage of the heirs, he may cause such lands to be partitioned among them, regardless of their competency, patents in fee to be issued to the competent heirs for their shares and trust patents to be issued to the incompetent heirs for the lands respectively or jointly set apart to them, the trust period to terminate in accordance with the terms of the original patent or order of extension of the trust period set out in said patent.
 
+
+## Source Credit
+
+*(May 18, 1916, ch. 125, § 1, [39 Stat. 127](https://www.govinfo.gov/link/statute/39/127).)*

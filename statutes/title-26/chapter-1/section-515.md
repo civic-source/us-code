@@ -3,12 +3,17 @@ title: "Section 515 - Taxes of foreign countries and possessions of the United S
 usc_title: 26
 usc_section: "515"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 515"
-generated_at: "2026-03-30T02:55:27.714Z"
+generated_at: "2026-11-23T21:26:06.322Z"
+status: "active"
 ---
 
 # § 515. Taxes of foreign countries and possessions of the United States
 
 The amount of taxes imposed by foreign countries and possessions of the United States shall be allowed as a credit against the tax of an organization subject to the tax imposed by section 511 to the extent provided in section 901; and in the case of the tax imposed by section 511, the term “taxable income” as used in section 901 shall be read as “unrelated business taxable income”.
 
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 176.)*

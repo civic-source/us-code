@@ -3,9 +3,10 @@ title: "Section 10201 - Definitions"
 usc_title: 22
 usc_section: "10201"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10201"
-generated_at: "2026-03-30T02:55:05.475Z"
+generated_at: "2026-11-23T21:25:58.794Z"
+status: "active"
 ---
 
 # § 10201. Definitions
@@ -18,3 +19,7 @@ In this chapter:
   - **(2)** The term “Executive Order 14014” means Executive Order 14014 (86 Fed. Reg. 9429; relating to blocking property with respect to the situation in Burma).
   - **(3)** The term “genocide” means any offense described in section 1091(a) of title 18 .
   - **(4)** The term “war crime” has the meaning given the term in section 2441(c) of title 18 .
+
+## Source Credit
+
+*([Pub. L. 117–263, div. E, title LV, § 5568](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3361](https://www.govinfo.gov/link/statute/136/3361).)*

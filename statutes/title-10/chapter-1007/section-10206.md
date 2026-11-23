@@ -3,9 +3,10 @@ title: "Section 10206 - Members: physical examinations"
 usc_title: 10
 usc_section: "10206"
 chapter: 1007
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 10206"
-generated_at: "2026-03-30T02:53:38.265Z"
+generated_at: "2026-11-23T21:25:33.023Z"
+status: "active"
 ---
 
 # § 10206. Members: physical examinations
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:38.265Z"
   - **(3)** other action related to career progression.
 - **(c)** Each Reserve in an active status, or on an inactive status list, who is not on active duty shall execute and submit annually to the Secretary concerned a certificate of physical condition.
 - **(d)** The kind of duty to which a Reserve ordered to active duty may be assigned shall be considered in determining physical qualifications for active duty.
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1661(a)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2977](https://www.govinfo.gov/link/statute/108/2977); amended [Pub. L. 107–107, div. A, title V, § 516](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1094](https://www.govinfo.gov/link/statute/115/1094); [Pub. L. 109–163, div. A, title VII, § 732(a)](https://www.govinfo.gov/link/plaw/109/public/163), (b), Jan. 6, 2006, [119 Stat. 3351](https://www.govinfo.gov/link/statute/119/3351), 3352.)*

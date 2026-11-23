@@ -3,12 +3,17 @@ title: "Section 7 - Railroad and highway crossings over floodways"
 usc_title: 33
 usc_section: "7"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 7"
-generated_at: "2026-03-30T02:55:41.070Z"
+generated_at: "2026-11-23T21:26:11.333Z"
+status: "active"
 ---
 
 # § 702a–7. Railroad and highway crossings over floodways
 
 The United States shall construct, at its own cost, one railroad and one highway crossing over the Eudora Floodway and not to exceed three railway and two highway crossings over the Morganza Floodway, and not to exceed one railway crossing (together with suitable physical connections therewith) and one highway crossing over the floodway west of the Atchafalaya River provided for in the modified project: Provided , That equitable agreements can be made with the railroad and highway authorities concerned and that the appropriate railroad or highway agencies agree to accept and maintain and operate these crossings without cost to the United States: Provided further , That the railroads crossing the Morganza and West Atchafalaya Floodways agree in consideration for the crossings constructed to waive all claims against the Government for any damages that may occur by reason of overflows in the Morganza and West Atchafalaya Floodways: And provided further , That other railway and highway damages shall be adjusted as provided for in section 702a–10 of this title .
 
+
+## Source Credit
+
+*(June 15, 1936, ch. 548, § 7, [49 Stat. 1510](https://www.govinfo.gov/link/statute/49/1510).)*

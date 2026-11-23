@@ -3,12 +3,17 @@ title: "Section 400 - Advances as item of cost of construction and maintenance o
 usc_title: 43
 usc_section: "400"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 400"
-generated_at: "2026-03-30T02:55:57.446Z"
+generated_at: "2026-11-23T21:26:19.775Z"
+status: "active"
 ---
 
 # § 400. Advances as item of cost of construction and maintenance of project
 
 All money placed to the credit of the reclamation fund in pursuance of sections 397 and 398 to 400, of this title shall be devoted exclusively to the completion of work on reclamation projects begun prior to June 25, 1910 , as hereinbefore provided, and the same shall be included with all other expenses in future estimates of construction, operation, or maintenance.
 
+
+## Source Credit
+
+*(June 25, 1910, ch. 407, § 4, [36 Stat. 836](https://www.govinfo.gov/link/statute/36/836).)*

@@ -3,9 +3,10 @@ title: "Section 717 - Regulation of natural gas companies"
 usc_title: 15
 usc_section: "717"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 717"
-generated_at: "2026-03-30T02:54:08.117Z"
+generated_at: "2026-11-23T21:25:39.744Z"
+status: "active"
 ---
 
 # § 717. Regulation of natural gas companies
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.117Z"
 - **(d)** The provisions of this chapter shall not apply to any person solely by reason of, or with respect to, any sale or transportation of vehicular natural gas if such person is—
   - **(1)** not otherwise a natural-gas company; or
   - **(2)** subject primarily to regulation by a State commission, whether or not such State commission has, or is exercising, jurisdiction over the sale, sale for resale, or transportation of vehicular natural gas.
+
+## Source Credit
+
+*(June 21, 1938, ch. 556, § 1, [52 Stat. 821](https://www.govinfo.gov/link/statute/52/821); Mar. 27, 1954, ch. 115, [68 Stat. 36](https://www.govinfo.gov/link/statute/68/36); [Pub. L. 102–486, title IV, § 404(a)(1)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2879](https://www.govinfo.gov/link/statute/106/2879); [Pub. L. 109–58, title III, § 311(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 685](https://www.govinfo.gov/link/statute/119/685).)*

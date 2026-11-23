@@ -3,9 +3,10 @@ title: "Section 14510 - Drug abuse mitigation initiative"
 usc_title: 40
 usc_section: "14510"
 chapter: 145
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 14510"
-generated_at: "2026-03-30T02:55:43.387Z"
+generated_at: "2026-11-23T21:26:14.965Z"
+status: "active"
 ---
 
 # § 14510. Drug abuse mitigation initiative
@@ -24,3 +25,15 @@ generated_at: "2026-03-30T02:55:43.387Z"
   - **(1)** under any other Federal program (subject to the availability of subsequent appropriations); or
   - **(2)** from any other source.
 - **(d)** Notwithstanding any provision of law limiting the Federal share under any other Federal program, amounts made available to carry out this section may be used to increase that Federal share, as the Appalachian Regional Commission determines to be appropriate.
+
+In General
+
+Limitation on Available Amounts
+
+Sources of Assistance
+
+Federal Share
+
+## Source Credit
+
+*(Added [Pub. L. 115–271, title VIII, § 8062(a)](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 4094](https://www.govinfo.gov/link/statute/132/4094).)*

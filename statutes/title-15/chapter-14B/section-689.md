@@ -3,9 +3,10 @@ title: "Section 689 - Definitions"
 usc_title: 15
 usc_section: "689"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 689"
-generated_at: "2026-03-30T02:54:08.111Z"
+generated_at: "2026-11-23T21:25:39.717Z"
+status: "active"
 ---
 
 # § 689. Definitions
@@ -41,3 +42,7 @@ In this part, the following definitions apply:
     - **(B)** is organized or chartered under State business or nonprofit corporations statutes, or formed as a limited partnership; and
     - **(C)** was licensed under section 681(d) of this title , as in effect before September 30, 1996 .
   - **(8)** The term “State” means such 3 3 So in original. Probably should be “each”. of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States.
+
+## Source Credit
+
+*([Pub. L. 85–699, title III, § 351](https://www.govinfo.gov/link/plaw/85/public/699), as added [Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–653.)*

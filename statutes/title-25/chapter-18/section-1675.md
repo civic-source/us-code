@@ -3,9 +3,10 @@ title: "Section 1675 - Confidentiality of medical quality assurance records; qua
 usc_title: 25
 usc_section: "1675"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1675"
-generated_at: "2026-03-30T02:54:52.826Z"
+generated_at: "2026-11-23T21:25:54.634Z"
+status: "active"
 ---
 
 # § 1675. Confidentiality of medical quality assurance records; qualified immunity for participants
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:54:52.826Z"
 - **(k)** Disclosure under subsection (d) does not permit redisclosure except to the extent such further disclosure is authorized under subsection (d) or is otherwise authorized to be disclosed under this section.
 - **(l)** To the extent that the protections under part C of title IX of the Public Health Service Act ( 42 U.S.C. 229b–21 et seq.) [ 42 U.S.C. 299b–21 et seq.] (as amended by the Patient Safety and Quality Improvement Act of 2005 ( Public Law 109–41 ; 119 Stat. 424 )) and this section are inconsistent, the provisions of whichever is more protective shall control.
 - **(m)** This section shall continue in force and effect, except as otherwise specifically provided in any Federal law enacted after March 23, 2010 .
+
+## Source Credit
+
+*([Pub. L. 94–437, title VIII, § 805](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

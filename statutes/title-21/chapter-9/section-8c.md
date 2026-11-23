@@ -3,9 +3,10 @@ title: "Section 8c - Patient participation in medical product discussion"
 usc_title: 21
 usc_section: "8c"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 8c"
-generated_at: "2026-03-30T02:54:54.257Z"
+generated_at: "2026-11-23T21:25:56.105Z"
+status: "active"
 ---
 
 # § 360bbb–8c. Patient participation in medical product discussion
@@ -29,3 +30,13 @@ generated_at: "2026-03-30T02:54:54.257Z"
   - **(2)** are intended to provide information about patients’ experiences with a disease or condition, including—
     - **(A)** the impact (including physical and psychosocial impacts) of such disease or condition, or a related therapy or clinical investigation on patients’ lives; and
     - **(B)** patient preferences with respect to treatment of such disease or condition.
+
+Publication of Guidance Documents
+
+Patient Experience Data
+
+Contents
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 569C, as added [Pub. L. 112–144, title XI, § 1137](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 1124](https://www.govinfo.gov/link/statute/126/1124); amended [Pub. L. 114–255, div. A, title III, § 3001](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1083](https://www.govinfo.gov/link/statute/130/1083); [Pub. L. 115–52, title VI, § 605](https://www.govinfo.gov/link/plaw/115/public/52), Aug. 18, 2017, [131 Stat. 1048](https://www.govinfo.gov/link/statute/131/1048).)*

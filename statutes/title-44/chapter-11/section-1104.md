@@ -3,12 +3,17 @@ title: "Section 1104 - Restrictions on use of illustrations"
 usc_title: 44
 usc_section: "1104"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 1104"
-generated_at: "2026-03-30T02:55:56.290Z"
+generated_at: "2026-11-23T21:26:18.385Z"
+status: "active"
 ---
 
 # § 1104. Restrictions on use of illustrations
 
 Appropriations made for printing and binding may not be used for an illustration, engraving, or photograph in a document or report ordered printed by Congress unless the order to print expressly authorizes it, nor in a document or report of an executive department, independent office or establishment of the Government until the head of the executive department or Government establishment certifies in a letter transmitting the report that the illustration, engraving, or photograph is necessary and relates entirely to the transaction of public business.
 
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1261](https://www.govinfo.gov/link/statute/82/1261).)*

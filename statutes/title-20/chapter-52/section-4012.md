@@ -3,9 +3,10 @@ title: "Section 4012 - Asbestos hazard abatement program"
 usc_title: 20
 usc_section: "4012"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 4012"
-generated_at: "2026-03-30T02:54:48.182Z"
+generated_at: "2026-11-23T21:25:47.430Z"
+status: "active"
 ---
 
 # § 4012. Asbestos hazard abatement program
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:48.182Z"
   - **(2)** the distribution of the information described in paragraph (1) (in any appropriate form such as pamphlets, reports, or instructions) to State and local educational agencies and to other institutions, including parent and employee organizations, for the purpose of carrying out activities described in this subchapter;
   - **(3)** not later than November 15 of each year for which this subchapter is authorized, the development and distribution of applications, or notifications to all local educational agencies of the availability of application forms including information for obtaining such forms; and
   - **(4)** the review of applications for financial assistance, and the approval or disapproval of such applications, in accordance with the provisions of section 4014 of this title .
+
+## Source Credit
+
+*([Pub. L. 98–377, title V, § 503](https://www.govinfo.gov/link/plaw/98/public/377), Aug. 11, 1984, [98 Stat. 1288](https://www.govinfo.gov/link/statute/98/1288); [Pub. L. 101–637](https://www.govinfo.gov/link/plaw/101/public/637), §§ 4, 14(a)(3), (b)(3), (4), Nov. 28, 1990, [104 Stat. 4590](https://www.govinfo.gov/link/statute/104/4590), 4594, 4595.)*

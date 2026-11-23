@@ -3,9 +3,10 @@ title: "Section 15024 - State plan"
 usc_title: 42
 usc_section: "15024"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15024"
-generated_at: "2026-03-30T02:56:11.456Z"
+generated_at: "2026-11-23T21:26:33.652Z"
+status: "active"
 ---
 
 # § 15024. State plan
@@ -71,3 +72,7 @@ generated_at: "2026-03-30T02:56:11.456Z"
   - **(1)** The plan shall be based on public input. The Council shall make the plan available for public review and comment, after providing appropriate and sufficient notice in accessible formats of the opportunity for such review and comment. The Council shall revise the plan to take into account and respond to significant comments.
   - **(2)** Before the plan is submitted to the Secretary, the Council shall consult with the designated State agency to ensure that the State plan is consistent with State law and to obtain appropriate State plan assurances.
   - **(3)** The Secretary shall approve any State plan and, as appropriate, amendments of such plan that comply with the provisions of subsections (a), (b), and (c) and this subsection. The Secretary may take final action to disapprove a State plan after providing reasonable notice and an opportunity for a hearing to the State.
+
+## Source Credit
+
+*([Pub. L. 106–402, title I, § 124](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1696](https://www.govinfo.gov/link/statute/114/1696); [Pub. L. 108–364, § 3(a)(1)](https://www.govinfo.gov/link/plaw/108/public/364), Oct. 25, 2004, [118 Stat. 1736](https://www.govinfo.gov/link/statute/118/1736).)*

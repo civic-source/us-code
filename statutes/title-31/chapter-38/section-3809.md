@@ -3,9 +3,10 @@ title: "Section 3809 - Regulations"
 usc_title: 31
 usc_section: "3809"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 3809"
-generated_at: "2026-03-30T02:55:34.062Z"
+generated_at: "2026-11-23T21:26:10.600Z"
+status: "active"
 ---
 
 # § 3809. Regulations
@@ -14,3 +15,7 @@ Within 180 days after the date of enactment of this chapter, each authority head
 
   - **(1)** ensure that investigating officials and reviewing officials are not responsible for conducting the hearing required in section 3803(f) of this title , making the determinations required by subsections (f) and (h) of section 3803 of this title , or making collections under section 3806 of this title ; and
   - **(2)** require a reviewing official to include in any notice required by section 3803(a)(2) of this title a statement which specifies that the reviewing official has determined that there is a reasonable prospect of collecting, from a person with respect to whom the reviewing official is referring allegations of liability in such notice, the amount for which such person may be liable.
+
+## Source Credit
+
+*(Added [Pub. L. 99–509, title VI, § 6103(a)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1947](https://www.govinfo.gov/link/statute/100/1947).)*

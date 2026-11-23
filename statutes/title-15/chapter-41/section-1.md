@@ -3,9 +3,10 @@ title: "Section 1 - Remittance transfers"
 usc_title: 15
 usc_section: "1"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-30T02:54:08.157Z"
+generated_at: "2026-11-23T21:25:39.889Z"
+status: "active"
 ---
 
 # § 1693o–1. Remittance transfers
@@ -79,3 +80,11 @@ generated_at: "2026-03-30T02:54:08.157Z"
     - **(B)** does not include a transfer described in subparagraph (A) in an amount that is equal to or lesser than the amount of a small-value transaction determined, by rule, to be excluded from the requirements under section 1693d(a) of this title ;
   - **(3)** the term “remittance transfer provider” means any person or financial institution that provides remittance transfers for a consumer in the normal course of its business, whether or not the consumer holds an account with such person or financial institution; and
   - **(4)** the term “sender” means a consumer who requests a remittance provider to send a remittance transfer for the consumer to a designated recipient.
+
+(aa) the remittance transfer provider; and
+
+(bb) the State agency that regulates the remittance transfer provider and the Bureau, including the toll-free telephone number established under section 5493 of title 12 .
+
+## Source Credit
+
+*([Pub. L. 90–321, title IX, § 919](https://www.govinfo.gov/link/plaw/90/public/321), as added and amended [Pub. L. 111–203, title X](https://www.govinfo.gov/link/plaw/111/public/203), §§ 1073(a)(4), 1084(1), July 21, 2010, [124 Stat. 2060](https://www.govinfo.gov/link/statute/124/2060), 2081.)*

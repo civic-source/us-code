@@ -3,9 +3,10 @@ title: "Section 410cc - Congressional statement of findings and purpose"
 usc_title: 16
 usc_section: "410cc"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410cc"
-generated_at: "2026-03-30T02:54:22.763Z"
+generated_at: "2026-11-23T21:25:51.439Z"
+status: "active"
 ---
 
 # § 410cc. Congressional statement of findings and purpose
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:22.763Z"
   - **(3)** a very large proportion of the buildings, other structures, and districts in Lowell date to the period of the Industrial Revolution and are nationally significant historical resources, including the five-and-six-tenths-mile power canal system, seven original mill complexes, and significant examples of early housing, commercial structures, transportation facilities, and buildings associated with labor and social institutions; and
   - **(4)** despite the expenditure of substantial amounts of money by the city of Lowell and the Commonwealth of Massachusetts for historical and cultural preservation and interpretation in Lowell, the early buildings and other structures in Lowell may be lost without the assistance of the Federal Government.
 - **(b)** It is the purpose of this subchapter to preserve and interpret the nationally significant historical and cultural sites, structures, and districts in Lowell, Massachusetts, for the benefit and inspiration of present and future generations by implementing to the extent practicable the recommendations in the report of the Lowell Historic Canal District Commission.
+
+## Source Credit
+
+*([Pub. L. 95–290, § 1](https://www.govinfo.gov/link/plaw/95/public/290), June 5, 1978, [92 Stat. 290](https://www.govinfo.gov/link/statute/92/290).)*

@@ -3,9 +3,10 @@ title: "Section 70114 - Automatic identification systems"
 usc_title: 46
 usc_section: "70114"
 chapter: 701
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 70114"
-generated_at: "2026-03-30T02:56:15.587Z"
+generated_at: "2026-11-23T21:26:37.358Z"
+status: "active"
 ---
 
 # § 70114. Automatic identification systems
@@ -20,3 +21,15 @@ generated_at: "2026-03-30T02:56:15.587Z"
     - **(A)** exempt a vessel from paragraph (1) if the Secretary finds that an automatic identification system is not necessary for the safe navigation of the vessel on the waters on which the vessel operates; and
     - **(B)** waive the application of paragraph (1) with respect to operation of vessels on navigable waters of the United States specified by the Secretary if the Secretary finds that automatic identification systems are not needed for safe navigation on those waters.
 - **(b)** The Secretary shall prescribe regulations implementing subsection (a), including requirements for the operation and maintenance of the automatic identification systems required under subsection (a).
+
+System Requirements
+
+Regulations
+
+Schedule
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 107–295, title I, § 102(a)](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2082](https://www.govinfo.gov/link/statute/116/2082).)*

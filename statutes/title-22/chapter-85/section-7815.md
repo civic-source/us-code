@@ -3,9 +3,10 @@ title: "Section 7815 - United Nations Commission on Human Rights"
 usc_title: 22
 usc_section: "7815"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7815"
-generated_at: "2026-03-30T02:55:05.446Z"
+generated_at: "2026-11-23T21:25:58.729Z"
+status: "active"
 ---
 
 # § 7815. United Nations Commission on Human Rights
@@ -14,3 +15,7 @@ It is the sense of Congress that the United Nations has a significant role to pl
 
   - **(1)** the United Nations Commission on Human Rights (UNCHR) has taken positive steps by adopting Resolution 2003/10 and Resolution 2004/13 on the situation of human rights in North Korea, and particularly by requesting the appointment of a Special Rapporteur on the situation of human rights in North Korea; and
   - **(2)** the severe human rights violations within North Korea warrant country-specific attention and reporting by the United Nations Working Group on Arbitrary Detention, the Working Group on Enforced and Involuntary Disappearances, the Special Rapporteur on Extrajudicial, Summary, or Arbitrary Executions, the Special Rapporteur on the Right to Food, the Special Rapporteur on the Promotion and Protection of the Right to Freedom of Opinion and Expression, the Special Rapporteur on Freedom of Religion or Belief, and the Special Rapporteur on Violence Against Women.
+
+## Source Credit
+
+*([Pub. L. 108–333, title I, § 105](https://www.govinfo.gov/link/plaw/108/public/333), Oct. 18, 2004, [118 Stat. 1291](https://www.govinfo.gov/link/statute/118/1291).)*

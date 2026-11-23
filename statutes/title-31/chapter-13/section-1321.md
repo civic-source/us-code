@@ -3,9 +3,10 @@ title: "Section 1321 - Trust funds"
 usc_title: 31
 usc_section: "1321"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 1321"
-generated_at: "2026-03-30T02:55:34.050Z"
+generated_at: "2026-11-23T21:26:10.550Z"
+status: "active"
 ---
 
 # § 1321. Trust funds
@@ -109,3 +110,33 @@ generated_at: "2026-03-30T02:55:34.050Z"
     - **(B)** Fisher House Trust Fund, Department of the Army.
     - **(C)** Fisher House Trust Fund, Department of the Air Force.
     - **(D)** Fisher House Trust Fund, Department of the Navy.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1321(a) | 31:725s(a)(1st sentence, cls. (1)–(84)), (c). | June 26, 1934, ch. 756, § 20 (less (a)(last sentence last proviso)), 48 Stat. 1233 ; June 15, 1943, ch. 125 , §§ 1(a), 2(a), 57 Stat. 152 , 153; Oct. 15, 1976 , Pub. L. 94–502, § 407 , 90 Stat. 2397 . |
+| 1321(b) | 31:725s(a)(2d sentence, last sentence 1st, 2d provisos). |  |
+
+
+Historical and Revision Notes
+
+1321(a)
+
+June 26, 1934, ch. 756, § 20
+
+48 Stat. 1233
+
+June 15, 1943, ch. 125
+
+57 Stat. 152
+
+Oct. 15, 1976
+
+Pub. L. 94–502, § 407
+
+90 Stat. 2397
+
+1321(b)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 919](https://www.govinfo.gov/link/statute/96/919); [Pub. L. 98–426, § 27(d)(2)](https://www.govinfo.gov/link/plaw/98/public/426), Sept. 28, 1984, [98 Stat. 1654](https://www.govinfo.gov/link/statute/98/1654); [Pub. L. 101–189, div. A, title III, § 341(a)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1419](https://www.govinfo.gov/link/statute/103/1419); [Pub. L. 101–510, div. A, title XV, § 1533(c)(1)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1735](https://www.govinfo.gov/link/statute/104/1735); [Pub. L. 102–54, § 13](https://www.govinfo.gov/link/plaw/102/public/54) (l)(1), June 13, 1991, [105 Stat. 277](https://www.govinfo.gov/link/statute/105/277); [Pub. L. 103–322, title XXXI, § 310001(d)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2103](https://www.govinfo.gov/link/statute/108/2103); [Pub. L. 104–106, div. A, title IX, § 914(c)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 413](https://www.govinfo.gov/link/statute/110/413); [Pub. L. 104–201, div. A, title X, § 1008(c)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2633](https://www.govinfo.gov/link/statute/110/2633); [Pub. L. 105–261, div. A, title IX, § 906(f)(2)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2096](https://www.govinfo.gov/link/statute/112/2096); [Pub. L. 108–199, div. B, title VI, § 633(f)](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 101](https://www.govinfo.gov/link/statute/118/101).)*

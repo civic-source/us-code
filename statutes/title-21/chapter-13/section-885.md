@@ -3,9 +3,10 @@ title: "Section 885 - Burden of proof; liabilities"
 usc_title: 21
 usc_section: "885"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 885"
-generated_at: "2026-03-30T02:54:54.298Z"
+generated_at: "2026-11-23T21:25:56.256Z"
+status: "active"
 ---
 
 # § 885. Burden of proof; liabilities
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:54.298Z"
 - **(b)** In the absence of proof that a person is the duly authorized holder of an appropriate registration or order form issued under this subchapter, he shall be presumed not to be the holder of such registration or form, and the burden of going forward with the evidence with respect to such registration or form shall be upon him.
 - **(c)** The burden of going forward with the evidence to establish that a vehicle, vessel, or aircraft used in connection with controlled substances in schedule I was used in accordance with the provisions of this subchapter shall be on the persons engaged in such use.
 - **(d)** Except as provided in sections 2234 and 2235 of title 18, no civil or criminal liability shall be imposed by virtue of this subchapter upon any duly authorized Federal officer lawfully engaged in the enforcement of this subchapter, or upon any duly authorized officer of any State, territory, political subdivision thereof, the District of Columbia, or any possession of the United States, who shall be lawfully engaged in the enforcement of any law or municipal ordinance relating to controlled substances.
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 515](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1279](https://www.govinfo.gov/link/statute/84/1279).)*

@@ -3,12 +3,17 @@ title: "Section 1011 - Oath of office"
 usc_title: 39
 usc_section: "1011"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 1011"
-generated_at: "2026-03-30T02:55:43.690Z"
+generated_at: "2026-11-23T21:26:12.773Z"
+status: "active"
 ---
 
 # § 1011. Oath of office
 
 Before entering upon their duties and before receiving any salary, all officers and employees of the Postal Service shall take and subscribe the following oath or affirmation: “I, ________, do solemnly swear (or affirm) that I will support and defend the Constitution of the United States against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same; that I take this obligation freely, without any mental reservation or purpose of evasion; and that I will well and faithfully discharge the duties of the office on which I am about to enter.” A person authorized to administer oaths by the laws of the United States, including section 2903 of title 5 , or of a State or territory, or an officer, civil or military, holding a commission under the United States, or any officer or employee of the Postal Service designated by the Board may administer and certify the oath or affirmation.
 
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 733](https://www.govinfo.gov/link/statute/84/733).)*

@@ -3,12 +3,17 @@ title: "Section 7278 - Availability of appropriations for Department of Energy f
 usc_title: 42
 usc_section: "7278"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7278"
-generated_at: "2026-03-30T02:56:11.288Z"
+generated_at: "2026-11-23T21:26:33.061Z"
+status: "active"
 ---
 
 # § 7278. Availability of appropriations for Department of Energy for transportation, uniforms, security, and price support and loan guarantee programs; transfer of funds; acceptance of contributions
 
 Appropriations for the Department of Energy under this title 1 1 See References in Text note below. in this and subsequent Energy and Water Development Appropriations Acts, on and after October 2, 1992 , shall be available for hire of passenger motor vehicles; hire, maintenance and operation of aircraft; purchase, repair and cleaning of uniforms; and reimbursement to the General Services Administration for security guard services. From these appropriations, transfers of sums may on and after October 2, 1992 , be made to other agencies of the United States Government for the performance of work for which this appropriation is made. None of the funds made available to the Department of Energy under this Act or subsequent Energy and Water Development Appropriations Acts shall be used to implement or finance authorized price support or loan guarantee programs unless specific provision is made for such programs in an appropriation Act. The Secretary is authorized on and after October 2, 1992 , to accept lands, buildings, equipment, and other contributions from public and private sources and to prosecute projects in cooperation with other agencies, Federal, State, private, or foreign.
 
+
+## Source Credit
+
+*([Pub. L. 102–377, title III, § 301](https://www.govinfo.gov/link/plaw/102/public/377), Oct. 2, 1992, [106 Stat. 1338](https://www.govinfo.gov/link/statute/106/1338).)*

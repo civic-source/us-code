@@ -3,9 +3,10 @@ title: "Section 167o - Low-Btu gas separation and helium conservation"
 usc_title: 50
 usc_section: "167o"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 167o"
-generated_at: "2026-03-30T02:56:26.199Z"
+generated_at: "2026-11-23T21:26:38.900Z"
+status: "active"
 ---
 
 # § 167o. Low-Btu gas separation and helium conservation
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:26.199Z"
     - **(A)** to develop low-cost technologies and technology systems for recycling, reprocessing, and reusing helium for all medical, scientific, industrial, commercial, aerospace, and other uses of helium in the United States, including Federal uses; and
     - **(B)** to develop industrial gathering technologies to capture helium from other chemical processing, including ammonia processing.
 - **(c)** There is authorized to be appropriated to carry out this section $3,000,000.
+
+## Source Credit
+
+*(Mar. 3, 1925, ch. 426, § 17, as added [Pub. L. 113–40, § 6(3)](https://www.govinfo.gov/link/plaw/113/public/40), Oct. 2, 2013, [127 Stat. 542](https://www.govinfo.gov/link/statute/127/542).)*

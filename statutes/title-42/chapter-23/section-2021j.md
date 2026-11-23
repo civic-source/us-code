@@ -3,9 +3,10 @@ title: "Section 2021j - Radioactive waste below regulatory concern"
 usc_title: 42
 usc_section: "2021j"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2021j"
-generated_at: "2026-03-30T02:56:11.147Z"
+generated_at: "2026-11-23T21:26:32.323Z"
+status: "active"
 ---
 
 # § 2021j. Radioactive waste below regulatory concern
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.147Z"
 - **(b)** The standards and procedures established by the Commission pursuant to subsection (a) shall set forth all information required to be submitted to the Commission by licensees in support of such petitions, including, but not limited to—
   - **(1)** a detailed description of the waste materials, including their origin, chemical composition, physical state, volume, and mass; and
   - **(2)** the concentration or contamination levels, half-lives, and identities of the radionuclides present.
+
+## Source Credit
+
+*([Pub. L. 96–573, § 10](https://www.govinfo.gov/link/plaw/96/public/573), as added [Pub. L. 99–240, title I, § 102](https://www.govinfo.gov/link/plaw/99/public/240), Jan. 15, 1986, [99 Stat. 1859](https://www.govinfo.gov/link/statute/99/1859).)*

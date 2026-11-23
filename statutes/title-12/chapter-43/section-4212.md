@@ -3,12 +3,17 @@ title: "Section 4212 - Protection for declarants"
 usc_title: 12
 usc_section: "4212"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4212"
-generated_at: "2026-03-30T02:53:53.503Z"
+generated_at: "2026-11-23T21:25:37.171Z"
+status: "active"
 ---
 
 # § 4212. Protection for declarants
 
 A declarant under this subchapter shall enjoy the protections of section 3059A(e) 1 1 See References in Text note below. of title 18.
 
+
+## Source Credit
+
+*([Pub. L. 101–647, title XXV, § 2572](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4899](https://www.govinfo.gov/link/statute/104/4899).)*

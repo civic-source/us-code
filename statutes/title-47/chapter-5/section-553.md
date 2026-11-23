@@ -3,9 +3,10 @@ title: "Section 553 - Unauthorized reception of cable service"
 usc_title: 47
 usc_section: "553"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 553"
-generated_at: "2026-03-30T02:56:24.520Z"
+generated_at: "2026-11-23T21:26:36.040Z"
+status: "active"
 ---
 
 # § 553. Unauthorized reception of cable service
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:24.520Z"
     - **(B)** In any case in which the court finds that the violation was committed willfully and for purposes of commercial advantage or private financial gain, the court in its discretion may increase the award of damages, whether actual or statutory under subparagraph (A), by an amount of not more than $50,000.
     - **(C)** In any case where the court finds that the violator was not aware and had no reason to believe that his acts constituted a violation of this section, the court in its discretion may reduce the award of damages to a sum of not less than $100.
     - **(D)** Nothing in this subchapter shall prevent any State or franchising authority from enacting or enforcing laws, consistent with this section, regarding the unauthorized interception or reception of any cable service or other communications service.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VI, § 633, as added [Pub. L. 98–549, § 2](https://www.govinfo.gov/link/plaw/98/public/549), Oct. 30, 1984, [98 Stat. 2796](https://www.govinfo.gov/link/statute/98/2796); amended [Pub. L. 102–385, § 21](https://www.govinfo.gov/link/plaw/102/public/385), Oct. 5, 1992, [106 Stat. 1498](https://www.govinfo.gov/link/statute/106/1498).)*

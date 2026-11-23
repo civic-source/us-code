@@ -3,9 +3,10 @@ title: "Section 7114 - State use of funds"
 usc_title: 20
 usc_section: "7114"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7114"
-generated_at: "2026-03-30T02:54:48.205Z"
+generated_at: "2026-11-23T21:25:47.547Z"
+status: "active"
 ---
 
 # § 7114. State use of funds
@@ -46,3 +47,11 @@ generated_at: "2026-03-30T02:54:48.205Z"
       - **(v)** providing teachers, paraprofessionals, school librarians and media personnel, specialized instructional support personnel, and administrators with the knowledge and skills to use technology effectively, including effective integration of technology, to improve instruction and student achievement, which may include coordination with teacher, principal, and other school leader preparation programs; and
       - **(vi)** making instructional content widely available through open educational resources, which may include providing tools and processes to support local educational agencies in making such resources widely available.
 - **(c)** A State that receives a grant under this subpart for fiscal year 2017 may use the amount made available to the State and not reserved under paragraphs (1) and (2) of subsection (a) for such fiscal year to cover part or all of the fees for accelerated learning examinations taken by low-income students during the 2016-2017 school year, in accordance with subsection (b)(3)(A)(ii).
+
+(aa) postsecondary level courses accepted for credit at institutions of higher education, including dual or concurrent enrollment programs, and early college high schools; or
+
+(bb) postsecondary level instruction and examinations that are accepted for credit at institutions of higher education, including Advanced Placement and International Baccalaureate programs;
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4104](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title IV, § 4101](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1971](https://www.govinfo.gov/link/statute/129/1971).)*

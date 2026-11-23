@@ -3,12 +3,17 @@ title: "Section 1645 - Remittance of duties, taxes, and fees to be collected in 
 usc_title: 48
 usc_section: "1645"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1645"
-generated_at: "2026-03-30T02:56:14.589Z"
+generated_at: "2026-11-23T21:26:38.017Z"
+status: "active"
 ---
 
 # § 1645. Remittance of duties, taxes, and fees to be collected in next fiscal year; authorization, prerequisites, amount, etc.
 
 Beginning as soon as the government of the Virgin Islands enacts legislation establishing a fiscal year commencing on October 1 and ending on September 30, the Secretary of the Treasury, prior to the commencement of any fiscal year, shall remit to the government of the Virgin Islands the amount of duties, taxes, and fees which the Governor of the Virgin Islands, with the concurrence of the government comptroller of the Virgin Islands, has estimated will be collected in or derived from the Virgin Islands under the Revised Organic Act of the Virgin Islands [ 48 U.S.C. 1541 et seq.] during the next fiscal year, except for those sums covered directly upon collection into the treasury of the Virgin Islands. There shall be deducted from or added to the amounts so remitted, as may be appropriate, at the beginning of the fiscal year, the difference between the amount of duties, taxes, and fees actually collected during the prior fiscal year and the amount of such duties, taxes, and fees as estimated and remitted at the beginning of that prior fiscal year, including any deductions which may be required as a result of the operation of sections 1574a to 1574d 1 1 See References in Text note below. of this title.
 
+
+## Source Credit
+
+*([Pub. L. 95–348, § 4(c)(2)](https://www.govinfo.gov/link/plaw/95/public/348), Aug. 18, 1978, [92 Stat. 490](https://www.govinfo.gov/link/statute/92/490).)*

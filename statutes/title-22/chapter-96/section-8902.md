@@ -3,9 +3,10 @@ title: "Section 8902 - United States policy toward Ukraine"
 usc_title: 22
 usc_section: "8902"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8902"
-generated_at: "2026-03-30T02:55:05.458Z"
+generated_at: "2026-11-23T21:25:58.757Z"
+status: "active"
 ---
 
 # § 8902. United States policy toward Ukraine
@@ -29,3 +30,39 @@ It is the policy of the United States—
   - **(15)** that the continued participation of the Russian Federation in the Group of Eight (G–8) nations should be conditioned on the Government of the Russian Federation respecting the territorial integrity of its neighbors and accepting and adhering to the norms and standards of free, democratic societies as generally practiced by every other member nation of the G–8 nations;
   - **(16)** to explore ways for the United States Government to assist the countries of Central and Eastern Europe to diversify their energy sources and achieve energy security; and
   - **(17)** to ensure the United States maintains its predominant leadership position and influence within the International Monetary Fund, and to guarantee the International Monetary Fund has the resources and governance structure necessary to support structural reforms in Ukraine and respond to and prevent a potentially serious financial crisis in Ukraine or other foreign economic crises that threatens United States national security.
+
+Short Title
+
+Sense of Congress
+
+Statement of Policy
+
+Report on United States Efforts
+
+Definitions
+
+Appropriate congressional committees
+
+Atrocities
+
+War crime
+
+In General
+
+Advocacy
+
+Termination
+
+Waiver
+
+Statement of Policy
+
+Reporting Requirement
+
+Form
+
+Appropriate Congressional Committees
+
+## Source Credit
+
+*([Pub. L. 113–95, § 3](https://www.govinfo.gov/link/plaw/113/public/95), Apr. 3, 2014, [128 Stat. 1088](https://www.govinfo.gov/link/statute/128/1088).)*

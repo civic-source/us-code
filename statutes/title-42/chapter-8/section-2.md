@@ -3,9 +3,10 @@ title: "Section 2 - Program allocation and covered housing assistance"
 usc_title: 42
 usc_section: "2"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T02:56:11.091Z"
+generated_at: "2026-11-23T21:26:32.039Z"
+status: "active"
 ---
 
 # § 1437bbb–2. Program allocation and covered housing assistance
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.091Z"
   - **(4)** assistance from the Operating Fund under section 1437g(e) of this title ;
   - **(5)** assistance from the Capital Fund under section 1437g(d) of this title ; and
   - **(6)** tenant-based assistance under section 1437f of this title (as amended by the Quality Housing and Work Responsibility Act of 1998).
+
+## Source Credit
+
+*(Sept. 1, 1937, ch. 896, title IV, § 403, as added [Pub. L. 105–276, title V, § 561](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2618](https://www.govinfo.gov/link/statute/112/2618).)*

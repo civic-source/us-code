@@ -3,9 +3,10 @@ title: "Section 9110 - Standards for depository institutions holding securities 
 usc_title: 31
 usc_section: "9110"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 9110"
-generated_at: "2026-03-30T02:55:34.077Z"
+generated_at: "2026-11-23T21:26:10.657Z"
+status: "active"
 ---
 
 # § 9110. Standards for depository institutions holding securities of a Government-sponsored corporation for customers
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:34.077Z"
   - **(2)** “government securities broker” has the meaning prescribed in section 3(a)(43) of the Securities Exchange Act of 1934.
   - **(3)** “government securities dealer” has the meaning prescribed in section 3(a)(44) of the Securities Exchange Act of 1934.
   - **(4)** “appropriate regulatory agency” has the meaning prescribed in section 3(a)(34)(G) of the Securities Exchange Act of 1934.
+
+## Source Credit
+
+*(Added [Pub. L. 99–571, title II, § 201(b)(1)](https://www.govinfo.gov/link/plaw/99/public/571), Oct. 28, 1986, [100 Stat. 3223](https://www.govinfo.gov/link/statute/100/3223); amended [Pub. L. 103–272, § 4(f)(1)(AA)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1363](https://www.govinfo.gov/link/statute/108/1363).)*

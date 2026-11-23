@@ -3,9 +3,10 @@ title: "Section 207 - Restrictions on former officers, employees, and elected of
 usc_title: 18
 usc_section: "207"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 207"
-generated_at: "2026-03-30T02:54:16.459Z"
+generated_at: "2026-11-23T21:25:43.948Z"
+status: "active"
 ---
 
 # § 207. Restrictions on former officers, employees, and elected officials of the executive and legislative branches
@@ -148,3 +149,103 @@ generated_at: "2026-03-30T02:54:16.459Z"
     - **(D)** Any person who is granted a waiver under this subsection shall be ineligible for appointment in the civil service unless all reports required of such person by subparagraphs (A) and (B) have been filed.
     - **(E)** As used in this subsection, the term “civil service” has the meaning given that term in section 2101 of title 5 .
 - **(l)** Whoever, being an employee of a private sector organization assigned to an agency under chapter 37 of title 5, within one year after the end of that assignment, knowingly represents or aids, counsels, or assists in representing any other person (except the United States) in connection with any contract with that agency shall be punished as provided in section 216 of this title .
+
+Restrictions on All Officers and Employees of the Executive Branch and Certain Other Agencies.—
+
+Permanent restrictions on representation on particular matters
+
+Two-year restrictions concerning particular matters under official responsibility
+
+Clarification of restrictions
+
+One-Year Restrictions on Aiding or Advising.—
+
+In general
+
+Definition
+
+One-Year Restrictions on Certain Senior Personnel of the Executive Branch and Independent Agencies.—
+
+Restrictions
+
+Persons to whom restrictions apply
+
+Restrictions on Very Senior Personnel of the Executive Branch and Independent Agencies.—
+
+Restrictions
+
+Persons who may not be contacted
+
+Restrictions on Members of Congress and Officers and Employees of the Legislative Branch.—
+
+Members of congress and elected officers of the house.—
+
+Senators
+
+Members and officers of the house of representatives
+
+Officers and staff of the senate
+
+Personal staff
+
+Committee staff
+
+Leadership staff
+
+Other legislative offices
+
+Limitation on restrictions
+
+Exception
+
+Definitions
+
+Restrictions Relating to Foreign Entities.—
+
+Restrictions
+
+Special rule for trade representative
+
+Definition
+
+Special Rules for Detailees
+
+Designations of Separate Statutory Agencies and Bureaus.—
+
+Designations
+
+Inapplicability of designations
+
+Definitions
+
+Exceptions.—
+
+Official government duties
+
+In general
+
+Tribal organizations and inter-tribal consortiums
+
+State and local governments and institutions, hospitals, and organizations
+
+International organizations
+
+Special knowledge
+
+Exception for scientific or technological information
+
+Exception for testimony
+
+Political parties and campaign committees
+
+Contract Advice by Former Details
+
+Members of congress and elected officers
+
+In General
+
+Effect on Employment
+
+## Source Credit
+
+*(Added [Pub. L. 87–849, § 1(a)](https://www.govinfo.gov/link/plaw/87/public/849), Oct. 23, 1962, [76 Stat. 1123](https://www.govinfo.gov/link/statute/76/1123); amended [Pub. L. 95–521, title V, § 501(a)](https://www.govinfo.gov/link/plaw/95/public/521), Oct. 26, 1978, [92 Stat. 1864](https://www.govinfo.gov/link/statute/92/1864); [Pub. L. 96–28](https://www.govinfo.gov/link/plaw/96/public/28), June 22, 1979, [93 Stat. 76](https://www.govinfo.gov/link/statute/93/76); [Pub. L. 101–189, div. A, title VIII, § 814(d)(2)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1499](https://www.govinfo.gov/link/statute/103/1499); [Pub. L. 101–194, title I, § 101(a)](https://www.govinfo.gov/link/plaw/101/public/194), Nov. 30, 1989, [103 Stat. 1716](https://www.govinfo.gov/link/statute/103/1716); [Pub. L. 101–280](https://www.govinfo.gov/link/plaw/101/public/280), §§ 2(a), 5(d), May 4, 1990, [104 Stat. 149](https://www.govinfo.gov/link/statute/104/149), 159; [Pub. L. 101–509, title V, § 529 [title I, § 101(b)(8)(A)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1440; [Pub. L. 102–25, title VII, § 705(a)](https://www.govinfo.gov/link/plaw/102/public/25), Apr. 6, 1991, [105 Stat. 120](https://www.govinfo.gov/link/statute/105/120); [Pub. L. 102–190, div. C, title XXXI, § 3138(a)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1579](https://www.govinfo.gov/link/statute/105/1579); [Pub. L. 102–395, title VI, § 609(a)](https://www.govinfo.gov/link/plaw/102/public/395), Oct. 6, 1992, [106 Stat. 1873](https://www.govinfo.gov/link/statute/106/1873); [Pub. L. 103–322, title XXXIII](https://www.govinfo.gov/link/plaw/103/public/322), §§ 330002(i), 330010(15), Sept. 13, 1994, [108 Stat. 2140](https://www.govinfo.gov/link/statute/108/2140), 2144; [Pub. L. 104–65, § 21(a)](https://www.govinfo.gov/link/plaw/104/public/65), Dec. 19, 1995, [109 Stat. 704](https://www.govinfo.gov/link/statute/109/704); [Pub. L. 104–179](https://www.govinfo.gov/link/plaw/104/public/179), §§ 5, 6, Aug. 6, 1996, [110 Stat. 1567](https://www.govinfo.gov/link/statute/110/1567), 1568; [Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 635]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–314](https://www.govinfo.gov/link/statute/110/3009), 3009–363; [Pub. L. 105–244, title I, § 102(a)(5)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1618](https://www.govinfo.gov/link/statute/112/1618); [Pub. L. 107–347, title II, § 209(d)(1)](https://www.govinfo.gov/link/plaw/107/public/347), (3), Dec. 17, 2002, [116 Stat. 2930](https://www.govinfo.gov/link/statute/116/2930); [Pub. L. 108–136, div. A, title XI, § 1125(b)(1)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1639](https://www.govinfo.gov/link/statute/117/1639); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 110–81, title I](https://www.govinfo.gov/link/plaw/110/public/81), §§ 101, 104(a), Sept. 14, 2007, [121 Stat. 736](https://www.govinfo.gov/link/statute/121/736), 740; [Pub. L. 111–148, title III, § 3403(a)(2)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 506](https://www.govinfo.gov/link/statute/124/506); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537); [Pub. L. 115–123, div. E, title XI, § 52001(b)(1)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 298](https://www.govinfo.gov/link/statute/132/298).)*

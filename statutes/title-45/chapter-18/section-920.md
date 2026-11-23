@@ -3,9 +3,10 @@ title: "Section 920 - Continuation of service"
 usc_title: 45
 usc_section: "920"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 920"
-generated_at: "2026-03-30T02:55:56.559Z"
+generated_at: "2026-11-23T21:26:19.235Z"
+status: "active"
 ---
 
 # § 920. Continuation of service
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:56.559Z"
   - **(2)** the proposed plan is found by the Commission not to be feasible or the Commission does not act within 30 days;
   - **(3)** the proposed plan is found by the bankruptcy court not to be fair and equitable to the estate of the Milwaukee Railroad; or
   - **(4)** the plan is not implemented within the time period prescribed under section 905(c) of this title .
+
+## Source Credit
+
+*([Pub. L. 96–101, § 22](https://www.govinfo.gov/link/plaw/96/public/101), Nov. 4, 1979, [93 Stat. 746](https://www.govinfo.gov/link/statute/93/746).)*

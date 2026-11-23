@@ -3,9 +3,10 @@ title: "Section 48E - Clean electricity investment credit"
 usc_title: 26
 usc_section: "48E"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 48E"
-generated_at: "2026-03-30T02:55:27.610Z"
+generated_at: "2026-11-23T21:26:05.954Z"
+status: "active"
 ---
 
 # § 48E. Clean electricity investment credit
@@ -147,3 +148,15 @@ generated_at: "2026-03-30T02:55:27.610Z"
   - **(2)** for purposes of subsection (a)(1), the applicable percentage shall be 30 percent and such percentage shall not be increased or otherwise adjusted by any other provision of this section, and
   - **(3)** subsection (g) shall not apply.
 - **(k)** Not later than January 1, 2025 , the Secretary shall issue guidance regarding implementation of this section.
+
+(aa) satisfies the requirements of subsection (d)(3), and
+
+(bb) with respect to the construction of such facility, satisfies the requirements of subsection (d)(4),
+
+(aa) satisfies the requirements of subsection (d)(3), and
+
+(bb) with respect to the construction of such property, satisfies the requirements of subsection (d)(4),
+
+## Source Credit
+
+*(Added [Pub. L. 117–169, title I, § 13702(a)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1990](https://www.govinfo.gov/link/statute/136/1990); amended [Pub. L. 119–21, title VII](https://www.govinfo.gov/link/plaw/119/public/21), §§ 70512(f)(2), 70513(a)–(b)(2), (c)(1), (d), (f), July 4, 2025, [139 Stat. 267](https://www.govinfo.gov/link/statute/139/267), 270–273.)*

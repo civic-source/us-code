@@ -3,12 +3,17 @@ title: "Section 308 - Terms of directors; vacancies"
 usc_title: 12
 usc_section: "308"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 308"
-generated_at: "2026-03-30T02:53:53.378Z"
+generated_at: "2026-11-23T21:25:36.782Z"
+status: "active"
 ---
 
 # § 308. Terms of directors; vacancies
 
 At the first meeting of the full board of directors of each Federal reserve bank, it shall be the duty of the directors of classes A, B, and C, respectively, to designate one of the members of each class whose term of office shall expire in one year from the 1st of January nearest to date of such meeting, one whose term of office shall expire at the end of two years from said date, and one whose term of office shall expire at the end of three years from said date. Thereafter every director of a Federal reserve bank chosen as hereinbefore provided shall hold office for a term of three years. Vacancies that may occur in the several classes of directors of Federal reserve banks may be filled in the manner provided for the original selection of such directors, such appointees to hold office for the unexpired terms of their predecessors.
 
+
+## Source Credit
+
+*(Dec. 23, 1913, ch. 6, § 4 (par.), [38 Stat. 257](https://www.govinfo.gov/link/statute/38/257).)*

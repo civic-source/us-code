@@ -3,9 +3,10 @@ title: "Section 4132 - Claims authorized"
 usc_title: 50
 usc_section: "4132"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4132"
-generated_at: "2026-03-30T02:56:26.267Z"
+generated_at: "2026-11-23T21:26:39.088Z"
+status: "active"
 ---
 
 # § 4132. Claims authorized
@@ -23,3 +24,7 @@ The Commission is directed to receive and to determine according to the provisio
     - **(D)** parents of the deceased (in equal shares) if there is no widow, husband, or child;
   - **(2)** injury or permanent disability sustained by any person, who being then a civilian national of the United States and a passenger on any vessel engaged in commerce on the high seas, was injured or permanently disabled as a result of military action by Germany or Japan which occurred during the period beginning September 1, 1939 , and ending December 11, 1941 ; awards under this paragraph shall be payable solely to the person so injured or disabled;
   - **(3)** the loss or destruction, as a result of such action, of property on such vessel, as determined by the Commission to be reasonable, useful, necessary, or proper under the circumstances, which property was owned by any civilian national of the United States who was then a passenger on such vessel; and in the case of the death of any person suffering such loss, awards under this paragraph shall be made only to or for the benefit of the persons designated in paragraph (1) of this subsection and in the order of priority named therein.
+
+## Source Credit
+
+*(July 3, 1948, ch. 826, title II, § 202, as added [Pub. L. 87–846, title I, § 103](https://www.govinfo.gov/link/plaw/87/public/846), Oct. 22, 1962, [76 Stat. 1107](https://www.govinfo.gov/link/statute/76/1107).)*

@@ -3,9 +3,10 @@ title: "Section 953 - Assistance to States"
 usc_title: 30
 usc_section: "953"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 953"
-generated_at: "2026-03-30T02:55:29.394Z"
+generated_at: "2026-11-23T21:26:00.409Z"
+status: "active"
 ---
 
 # § 953. Assistance to States
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:29.394Z"
 - **(f)** The Secretary shall cooperate with such State in carrying out the application or modification thereof and shall, as appropriate, develop and, where appropriate, construct facilities for, and finance a program of, training of Federal and State inspectors jointly. The Secretary shall also cooperate with such State in establishing a system by which State and Federal inspection reports of coal or other mines located in the State are exchanged for the purpose of improving health and safety conditions in such mines.
 - **(g)** The amount granted to any coal or other mining State for a fiscal year under this section shall not exceed 80 per centum of the amount expended by such State in such year for carrying out such application.
 - **(h)** There is authorized to be appropriated $3,000,000 for fiscal year 1970, and $10,000,000 annually in each succeeding fiscal year to carry out the provisions of this section, which shall remain available until expended. The Secretary shall provide for an equitable distribution of sums appropriated for grants under this section to the States where there is an approved application, except that no less than one-half of such sum shall be allocated to coal-producing States.
+
+## Source Credit
+
+*([Pub. L. 91–173, title V, § 503](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 800](https://www.govinfo.gov/link/statute/83/800); [Pub. L. 95–164, title III, § 303(c)](https://www.govinfo.gov/link/plaw/95/public/164), Nov. 9, 1977, [91 Stat. 1320](https://www.govinfo.gov/link/statute/91/1320); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695).)*

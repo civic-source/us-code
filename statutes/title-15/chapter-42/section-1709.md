@@ -3,9 +3,10 @@ title: "Section 1709 - Civil liabilities"
 usc_title: 15
 usc_section: "1709"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1709"
-generated_at: "2026-03-30T02:54:08.159Z"
+generated_at: "2026-11-23T21:25:39.893Z"
+status: "active"
 ---
 
 # § 1709. Civil liabilities
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.159Z"
 - **(b)** A purchaser or lessee may bring an action at law or in equity against the seller or lessor (or successor thereof) to enforce any right under subsection (b), (c), (d), or (e) of section 1703 of this title .
 - **(c)** The amount recoverable in a suit authorized by this section may include, in addition to matters specified in subsections (a) and (b), interest, court costs, and reasonable amounts for attorneys’ fees, independent appraisers’ fees, and travel to and from the lot.
 - **(d)** Every person who becomes liable to make any payment under this section may recover contribution as in cases of contract from any person who, if sued separately, would have been liable to make the same payment.
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIV, § 1410](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 595](https://www.govinfo.gov/link/statute/82/595); [Pub. L. 96–153, title IV, § 405](https://www.govinfo.gov/link/plaw/96/public/153), Dec. 21, 1979, [93 Stat. 1130](https://www.govinfo.gov/link/statute/93/1130).)*

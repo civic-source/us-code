@@ -3,9 +3,10 @@ title: "Section 616 - Public examination of official records; transmittal of rec
 usc_title: 22
 usc_section: "616"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 616"
-generated_at: "2026-03-30T02:55:05.329Z"
+generated_at: "2026-11-23T21:25:58.389Z"
+status: "active"
 ---
 
 # § 616. Public examination of official records; transmittal of records and information
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.329Z"
     - **(A)** includes the information contained in registration statements and updates filed under this subchapter; and
     - **(B)** is searchable and sortable, at a minimum, by each of the categories of information described in section 612(a) of this title .
   - **(2)** The Attorney General shall make each registration statement and update filed in electronic form pursuant to section 612(g) of this title available for public inspection over the Internet as soon as technically practicable after the registration statement or update is filed.
+
+## Source Credit
+
+*(June 8, 1938, ch. 327, § 6, [52 Stat. 633](https://www.govinfo.gov/link/statute/52/633); Apr. 29, 1942, ch. 263, § 1, [56 Stat. 256](https://www.govinfo.gov/link/statute/56/256); [Pub. L. 89–486, § 6](https://www.govinfo.gov/link/plaw/89/public/486), July 4, 1966, [80 Stat. 247](https://www.govinfo.gov/link/statute/80/247); [Pub. L. 104–65, § 9(7)](https://www.govinfo.gov/link/plaw/104/public/65), Dec. 19, 1995, [109 Stat. 700](https://www.govinfo.gov/link/statute/109/700); [Pub. L. 110–81, title II, § 212(b)](https://www.govinfo.gov/link/plaw/110/public/81), Sept. 14, 2007, [121 Stat. 749](https://www.govinfo.gov/link/statute/121/749).)*

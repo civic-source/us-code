@@ -3,9 +3,10 @@ title: "Section 6123 - Flexible schedules; computation of premium pay"
 usc_title: 5
 usc_section: "6123"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 6123"
-generated_at: "2026-03-30T02:52:56.029Z"
+generated_at: "2026-11-23T21:25:23.315Z"
+status: "active"
 ---
 
 # § 6123. Flexible schedules; computation of premium pay
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:52:56.029Z"
   - **(2)** Notwithstanding section 5343(f) of this title , and section 7453(b) of title 38 , night differential will not be paid to any employee otherwise subject to either of such sections solely because such employee elects to work credit hours, or elects a time of arrival or departure, at a time of day for which night differential is otherwise authorized, except that such differential shall be paid to an employee on a flexible schedule under this subchapter—
     - **(A)** in the case of an employee subject to subsection (f) of such section 5343, for which all or a majority of the hours of such schedule for any day fall between the hours specified in such subsection, or
     - **(B)** in the case of an employee subject to subsection (b) of such section 7453, for which 4 hours of such schedule fall between the hours specified in such subsection.
+
+## Source Credit
+
+*(Added [Pub. L. 97–221, § 2(a)(2)](https://www.govinfo.gov/link/plaw/97/public/221), July 23, 1982, [96 Stat. 228](https://www.govinfo.gov/link/statute/96/228); amended [Pub. L. 102–40, title IV, § 403(c)(2)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 240](https://www.govinfo.gov/link/statute/105/240); [Pub. L. 102–378, § 2(44)(D)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1352](https://www.govinfo.gov/link/statute/106/1352).)*

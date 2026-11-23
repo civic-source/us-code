@@ -3,9 +3,10 @@ title: "Section 4004 - Disclosure of funds availability policies"
 usc_title: 12
 usc_section: "4004"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4004"
-generated_at: "2026-03-30T02:53:53.499Z"
+generated_at: "2026-11-23T21:25:37.157Z"
+status: "active"
 ---
 
 # § 4004. Disclosure of funds availability policies
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:53.499Z"
       - **(ii)** rearranging the format.
   - **(3)** Nothing in this chapter requires the use of any such model form or clause prescribed by the Board, jointly with the Director of the Bureau of Consumer Financial Protection, under this subsection.
   - **(4)** Model disclosure forms and clauses shall be adopted by the Board, jointly with the Director of the Bureau of Consumer Financial Protection, only after notice duly given in the Federal Register and an opportunity for public comment in accordance with section 553 of title 5 .
+
+## Source Credit
+
+*([Pub. L. 100–86, title VI, § 605](https://www.govinfo.gov/link/plaw/100/public/86), Aug. 10, 1987, [101 Stat. 644](https://www.govinfo.gov/link/statute/101/644); [Pub. L. 111–203, title X, § 1086(c)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2086](https://www.govinfo.gov/link/statute/124/2086).)*

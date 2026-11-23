@@ -3,9 +3,10 @@ title: "Section 44901 - Screening passengers and property"
 usc_title: 49
 usc_section: "44901"
 chapter: 449
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44901"
-generated_at: "2026-03-30T02:56:19.389Z"
+generated_at: "2026-11-23T21:26:40.917Z"
+status: "active"
 ---
 
 # § 44901. Screening passengers and property
@@ -86,3 +87,655 @@ generated_at: "2026-03-30T02:56:19.389Z"
         - **(I)** the reasons for the noncompliance; and
         - **(II)** a timeline depicting when the Administrator of the Transportation Security Administration expects the Administration to achieve full compliance.
     - **(C)** To the greatest extent practicable, a report prepared under subparagraph (A) shall be submitted in an unclassified format. If necessary, the report may include a classified annex.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44901(a) | 49 App.:1356(a) (1st sentence). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 315(a) (1st, 2d sentences, 3d sentence 19th–last words); added Aug. 5, 1974 , Pub. L. 93–366, § 202 , 88 Stat. 415 ; Aug. 8, 1985 , Pub. L. 99–83, § 551(b)(1) , 99 Stat. 225 . |
+| 44901(b) | 49 App.:1356(a) (2d sentence). |  |
+| 44901(c)(1) | 49 App.:1356(c). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 315(c); added Aug. 5, 1974 , Pub. L. 93–366, § 202 , 88 Stat. 415 ; Nov. 16, 1990 , Pub. L. 101–604, § 102(a) , 104 Stat. 3068 . |
+| 44901(c)(2) | 49 App.:1356(a) (3d sentence 19th–last words). |  |
+
+
+In General
+
+Supervision of Screening
+
+Checked Baggage
+
+Explosives Detection Systems.—
+
+In general
+
+Preclearance airports.—
+
+In general
+
+Aviation security preclearance agreement defined
+
+Rescreening requirement
+
+Report
+
+Mandatory Screening Where EDS Not Yet Available
+
+Cargo Deadline
+
+Air Cargo on Passenger Aircraft.—
+
+In general
+
+Minimum standards
+
+Regulations
+
+Screening defined
+
+Deployment of Armed Personnel.—
+
+In general
+
+Minimum requirements
+
+Exemptions and Advising Congress on Regulations
+
+Blast-Resistant Cargo Containers.—
+
+In general
+
+Acquisition, maintenance, and replacement
+
+Distribution to air carriers
+
+General Aviation Airport Security Program.—
+
+In general
+
+Grant program
+
+Application to general aviation aircraft
+
+Authorization of appropriations
+
+Limitations on Use of Advanced Imaging Technology for Screening Passengers.—
+
+Definitions
+
+Advanced imaging technology
+
+Appropriate congressional committees
+
+Automatic target recognition software
+
+Use of advanced imaging technology
+
+Extension.—
+
+In general
+
+Duration of extensions
+
+Reports.—
+
+In general
+
+Elements
+
+Security classification
+
+Historical and Revision Notes
+
+44901(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Aug. 5, 1974
+
+Pub. L. 93–366, § 202
+
+88 Stat. 415
+
+Aug. 8, 1985
+
+Pub. L. 99–83, § 551(b)(1)
+
+99 Stat. 225
+
+44901(b)
+
+44901(c)(1)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Aug. 5, 1974
+
+Pub. L. 93–366, § 202
+
+88 Stat. 415
+
+Nov. 16, 1990
+
+Pub. L. 101–604, § 102(a)
+
+104 Stat. 3068
+
+44901(c)(2)
+
+Transfer of Assets and Personnel
+
+Legal Documents
+
+Proceedings.—
+
+In general
+
+Statutory construction
+
+Orderly transfer
+
+Suits.—
+
+In general
+
+Suits by or against faa
+
+Remanded cases
+
+Continuance of Actions Against Officers
+
+Exercise of Authorities
+
+Act Defined
+
+Schedule for assumption of civil aviation security functions
+
+Assumption of contracts
+
+Assignment of contracts.—
+
+In general
+
+Schedule
+
+Transfer of ownership
+
+Performance of under secretary’s functions during interim period
+
+In General
+
+Contents
+
+Considerations
+
+Implementation
+
+GAO Review
+
+Definitions
+
+Airport
+
+Indian tribe
+
+Major airports
+
+Non-traveling individual
+
+TSA material
+
+Definitions
+
+Administrator
+
+Appropriate congressional committees
+
+TSA
+
+Implementation
+
+Requirements for Pilot Program
+
+Re-screening of Checked Baggage
+
+Aviation Security Screening Agreement.—
+
+In general
+
+Non-delegation
+
+Re-screening Requirement.—
+
+In general
+
+Consultation
+
+Suspension or termination of agreement
+
+Briefings to Congress
+
+Certifications Relating to the Pilot Program for One-stop Security
+
+Report to Congress
+
+Rule of Construction
+
+Sunset
+
+In General
+
+Contents
+
+Considerations
+
+Consultation
+
+Submission
+
+Issuance and Implementation
+
+GAO Review
+
+Definitions
+
+In General
+
+Requirement
+
+In General
+
+Requirements
+
+Considerations
+
+Definition of Wait Time
+
+Review of Technology Acquisitions Process.—
+
+In general
+
+Contents
+
+Briefing
+
+Acquisitions and Procurement Enhancement
+
+Assessment
+
+Performance Objectives
+
+Tracking.—
+
+In general
+
+Measuring progress toward goals
+
+Report required.—
+
+In general
+
+Elements
+
+Proprietary information
+
+Information Technology Security
+
+In General
+
+Feasibility Study.—
+
+In general
+
+Considerations
+
+Pilot Program
+
+Updates
+
+Definitions
+
+Air carrier
+
+Air transportation
+
+Foreign air carrier
+
+Interstate air commerce
+
+Interstate air transportation
+
+“Subject to part 1520 of title 49, Code of Federal Regulations, the Administrator [of the Transportation Security Administration] shall quarterly make available to the airport director of an airport—
+
+Revised Training.—
+
+In general
+
+Training specifications
+
+Training frequency
+
+Best Practices
+
+Signage
+
+Reports to Congress
+
+In General
+
+Inspection of High-risk Cargo
+
+Consultation
+
+Analysis
+
+No Duplication
+
+Consideration of Industry
+
+Guidance
+
+Use of Data
+
+Final Rule
+
+Report
+
+Global Aviation Security Review.—
+
+In general
+
+Best practices
+
+Notification
+
+ICAO
+
+Briefings to Congress
+
+Interpretive Rule
+
+Considerations
+
+Exceptions
+
+Notification
+
+Administrator
+
+Department
+
+Precheck program
+
+TSA
+
+In General
+
+Contents
+
+In General
+
+GAO Review
+
+In General
+
+Approval and Recognition.—
+
+In general
+
+Effect of approval and recognition
+
+Revocation and Suspension.—
+
+In general
+
+Notification
+
+Application
+
+In General
+
+Contents of Training
+
+In General
+
+Appropriate Staffing
+
+Additional Resources
+
+Transparency
+
+Exchange of Information
+
+GAO Review
+
+In General
+
+Assessment and Reassignment
+
+In General
+
+Staffing Advisory Coordination
+
+Reporting
+
+Appropriate congressional committees
+
+ASAC
+
+Secretary
+
+SIDA
+
+Insider Threats.—
+
+In general
+
+Considerations
+
+Reports
+
+Enhanced Requirements.—
+
+In general
+
+Considerations
+
+Temporary Credentials
+
+Notification and Report to Congress
+
+Lawful Status
+
+Review of Procedures.—
+
+In general
+
+Inclusions
+
+Eligibility Requirements.—
+
+In general
+
+Disqualifying criminal offenses
+
+Waiver process for denied credentials
+
+Look back
+
+Certifications
+
+Report to congress
+
+Rule of construction
+
+Recurrent Vetting.—
+
+In general
+
+Requirements
+
+Report to congress
+
+Access to Terrorism-Related Data
+
+Access to E–Verify and SAVE Programs
+
+In General
+
+Considerations
+
+Model and Best Practices
+
+Inspections
+
+Screening Review.—
+
+In general
+
+Best practices
+
+Pilot program
+
+In General
+
+Additional Covert Testing
+
+Reports to Congress.—
+
+Administrator report
+
+Inspector general report
+
+Review
+
+Notice
+
+ASAC Terms of Office
+
+Feedback
+
+In General
+
+Considerations
+
+Report
+
+In General
+
+Selection of Airports
+
+In General
+
+Selection of Airports
+
+Technology Research and Pilot Projects.—
+
+Research and development
+
+Pilot projects
+
+Authorization of Appropriations
+
+In-Line Baggage Screening Equipment
+
+Schedule
+
+In General
+
+Authorization of Appropriations
+
+Air Cargo Screening Technology
+
+Improved Air Cargo and Airport Security
+
+Research, Development, and Deployment
+
+Advanced Cargo Security Grants.—
+
+In general
+
+Eligibility criteria, etc
+
+Proposed Standards.—
+
+In general
+
+Submission to congress
+
+Effective date
+
+Congressional Approval Procedures.—
+
+Rulemaking power
+
+Approval resolution
+
+Introduction
+
+Prohibitions.—
+
+Amendments
+
+Motions to suspend
+
+Referral.—
+
+In general
+
+Final passage
+
+Computation of days
+
+Coordination with action of other house
+
+Floor consideration in the house of representatives.—
+
+Motion to proceed
+
+Debate
+
+Motion to postpone
+
+Appeals
+
+Rules of the house of representatives
+
+Floor consideration in the Senate.—
+
+Motion to proceed
+
+Debate on resolution
+
+Debate on motions and appeals
+
+Limit on debate
+
+Default Standards.—
+
+In general
+
+Exception
+
+Recommendation to Congress
+
+Deployment
+
+Screening of small aircraft
+
+“In this title [enacting section 44925 of this title , amending sections 114, 44903, 44904, 44909, 44917, 44923, 46301 to 46303, and 48301 of this title and sections 70102 and 70103 of Title 46, Shipping, and enacting provisions set out as notes under this section, sections 114, 44703, 44913, 44917, 44923, 44925, and 44935 of this title, section 2751 of Title 22 , Foreign Relations and Intercourse, and section 70101 of Title 46 ] (other than in sections 4001 and 4026 [amending sections 114 and 44904 of this title and enacting provisions set out as a note under section 2751 of Title 22 ]), the following definitions apply:
+
+Appropriate congressional committees
+
+Aviation definitions
+
+Secure area of an airport
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1204](https://www.govinfo.gov/link/statute/108/1204); [Pub. L. 107–71, title I](https://www.govinfo.gov/link/plaw/107/public/71), §§ 101(f)(7), 110(b), Nov. 19, 2001, [115 Stat. 603](https://www.govinfo.gov/link/statute/115/603), 614; [Pub. L. 107–296, title IV, § 425](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2185](https://www.govinfo.gov/link/statute/116/2185); [Pub. L. 110–53, title XVI](https://www.govinfo.gov/link/plaw/110/public/53), §§ 1602(a), 1609, 1617, Aug. 3, 2007, [121 Stat. 477](https://www.govinfo.gov/link/statute/121/477), 484, 488; [Pub. L. 112–95, title VIII, § 826](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 132](https://www.govinfo.gov/link/statute/126/132); [Pub. L. 112–218, § 2](https://www.govinfo.gov/link/plaw/112/public/218), Dec. 20, 2012, [126 Stat. 1593](https://www.govinfo.gov/link/statute/126/1593); [Pub. L. 114–125, title VIII, § 815](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 220](https://www.govinfo.gov/link/statute/130/220); [Pub. L. 115–254, div. K, title I](https://www.govinfo.gov/link/plaw/115/public/254), §§ 1937(b)(3), 1991(d)(1), Oct. 5, 2018, [132 Stat. 3579](https://www.govinfo.gov/link/statute/132/3579), 3627.)*

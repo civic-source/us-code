@@ -3,9 +3,10 @@ title: "Section 6624 - Federal scientific collections"
 usc_title: 42
 usc_section: "6624"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6624"
-generated_at: "2026-03-30T02:56:11.264Z"
+generated_at: "2026-11-23T21:26:32.969Z"
+status: "active"
 ---
 
 # § 6624. Federal scientific collections
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.264Z"
   - **(2)** include procedures for Federal agencies to transfer scientific collections they no longer need to researchers at institutions or other entities qualified to manage the collections.
 - **(d)** The Office of Science and Technology Policy, in consultation with relevant Federal agencies, shall develop a common set of methodologies to be used by Federal agencies for the assessment and projection of costs associated with the management and preservation of their scientific collections.
 - **(e)** In this section, the term “scientific collection” means a set of physical specimens, living or inanimate, created for the purpose of supporting science and serving as a long-term research asset, rather than for their market value as collectibles or their historical, artistic, or cultural significance, and, as appropriate and feasible, the associated specimen data and materials.
+
+## Source Credit
+
+*([Pub. L. 111–358, title I, § 104](https://www.govinfo.gov/link/plaw/111/public/358), Jan. 4, 2011, [124 Stat. 3988](https://www.govinfo.gov/link/statute/124/3988).)*

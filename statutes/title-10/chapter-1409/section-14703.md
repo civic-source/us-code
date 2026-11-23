@@ -3,9 +3,10 @@ title: "Section 14703 - Authority to retain chaplains and officers in medical sp
 usc_title: 10
 usc_section: "14703"
 chapter: 1409
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 14703"
-generated_at: "2026-03-30T02:53:38.276Z"
+generated_at: "2026-11-23T21:25:33.068Z"
+status: "active"
 ---
 
 # § 14703. Authority to retain chaplains and officers in medical specialties until specified age
@@ -17,3 +18,11 @@ generated_at: "2026-03-30T02:53:38.276Z"
 - **(b)**
   - **(1)** Subject to paragraph (2), an officer may not be retained in active status under this section later than the date on which the officer becomes 68 years of age.
   - **(2)** The Secretary concerned may, with the consent of the officer, retain in an active status an officer in a medical specialty described in subsection (a) beyond the date described in paragraph (1) of this subsection if the Secretary concerned determines that such retention is necessary to the military department concerned. Each such retention shall be made on a case-by-case basis and for such period as the Secretary concerned determines appropriate.
+
+Retention
+
+Separation at Specified Age
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1611](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2956](https://www.govinfo.gov/link/statute/108/2956); amended [Pub. L. 106–65, div. A, title V, § 516](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 594](https://www.govinfo.gov/link/statute/113/594); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title V, § 523], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–108; [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title V, § 516(a), Oct. 14, 2008, [122 Stat. 4442](https://www.govinfo.gov/link/statute/122/4442); [Pub. L. 116–92, div. A, title V, § 516](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1349](https://www.govinfo.gov/link/statute/133/1349).)*

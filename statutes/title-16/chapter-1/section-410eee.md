@@ -3,9 +3,10 @@ title: "Section 410eee - Findings and purposes"
 usc_title: 16
 usc_section: "410eee"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410eee"
-generated_at: "2026-03-30T02:54:22.777Z"
+generated_at: "2026-11-23T21:25:51.472Z"
+status: "active"
 ---
 
 # § 410eee. Findings and purposes
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:22.777Z"
   - **(6)** the actions taken by past Secretaries of the Interior and past Congresses to preserve for the benefit, education and inspiration of present and future generations of Americans the home, property, birthplaces and burial site of John Adams, John Quincy Adams, and Abigail Adams, have resulted in a multi-site unit of the National Park System with no overarching enabling or authorizing legislation; and
   - **(7)** that 2 2 So in original. The word “that” probably should not appear. the sites and resources associated with John Adams, second President of the United States, his wife Abigail Adams, and John Quincy Adams, sixth President of the United States, require recognition as a national historical park in the National Park System.
 - **(b)** The purpose of this subchapter is to establish the Adams National Historical Park in the City of Quincy, in the Commonwealth of Massachusetts, to preserve, maintain and interpret the home, property, birthplaces, and burial site of John Adams and his wife Abigail, John Quincy Adams, and subsequent generations of the Adams family associated with the Adams property in Quincy, Massachusetts, for the benefit, education and inspiration of present and future generations of Americans.
+
+## Source Credit
+
+*([Pub. L. 105–342, § 2](https://www.govinfo.gov/link/plaw/105/public/342), Nov. 2, 1998, [112 Stat. 3200](https://www.govinfo.gov/link/statute/112/3200).)*

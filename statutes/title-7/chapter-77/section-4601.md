@@ -3,9 +3,10 @@ title: "Section 4601 - Findings and purposes"
 usc_title: 7
 usc_section: "4601"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 4601"
-generated_at: "2026-03-30T02:53:42.409Z"
+generated_at: "2026-11-23T21:25:28.348Z"
+status: "active"
 ---
 
 # § 4601. Findings and purposes
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:42.409Z"
   - **(2)** provides for control of honey production;
   - **(3)** limits the right of the individual honey producer to produce honey; or
   - **(4)** creates a trade barrier to honey or honey products produced in a foreign country.
+
+## Source Credit
+
+*([Pub. L. 98–590, § 2](https://www.govinfo.gov/link/plaw/98/public/590), Oct. 30, 1984, [98 Stat. 3115](https://www.govinfo.gov/link/statute/98/3115); [Pub. L. 105–185, title VI, § 605(a)](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 587](https://www.govinfo.gov/link/statute/112/587).)*

@@ -3,9 +3,10 @@ title: "Section 12802 - Rental housing production"
 usc_title: 42
 usc_section: "12802"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12802"
-generated_at: "2026-03-30T02:56:11.432Z"
+generated_at: "2026-11-23T21:26:33.555Z"
+status: "active"
 ---
 
 # § 12802. Rental housing production
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.432Z"
     - **(H)** the extent to which the project provides supportive services for persons with disabilities; and
     - **(I)** any other factor determined by the Secretary to be appropriate.
 - **(c)** The Secretary shall publish guidelines for the model program under this section not later than 180 days after November 28, 1990 .
+
+## Source Credit
+
+*([Pub. L. 101–625, title II, § 252](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4119](https://www.govinfo.gov/link/statute/104/4119).)*

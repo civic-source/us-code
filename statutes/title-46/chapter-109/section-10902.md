@@ -3,9 +3,10 @@ title: "Section 10902 - Complaints of unfitness"
 usc_title: 46
 usc_section: "10902"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 10902"
-generated_at: "2026-03-30T02:56:15.554Z"
+generated_at: "2026-11-23T21:26:37.118Z"
+status: "active"
 ---
 
 # § 10902. Complaints of unfitness
@@ -23,3 +24,19 @@ generated_at: "2026-03-30T02:56:15.554Z"
     - **(A)** does not provide other proper provisions of food or water, when available, in place of the provisions certified as of bad quality or unfit for use;
     - **(B)** does not obtain sufficient provisions when the certification includes a finding of a deficiency in quantity; or
     - **(C)** uses provisions certified to be of bad quality or unfit for use.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 10902(a) | 46:653 |
+| 10902(b) | 46:662 |
+
+
+Historical and Revision Notes
+
+10902(a)
+
+10902(b)
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 575](https://www.govinfo.gov/link/statute/97/575); [Pub. L. 103–206, title IV, § 422(b)](https://www.govinfo.gov/link/plaw/103/public/206), Dec. 20, 1993, [107 Stat. 2439](https://www.govinfo.gov/link/statute/107/2439).)*

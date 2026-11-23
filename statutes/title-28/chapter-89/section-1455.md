@@ -3,9 +3,10 @@ title: "Section 1455 - Procedure for removal of criminal prosecutions"
 usc_title: 28
 usc_section: "1455"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1455"
-generated_at: "2026-03-30T02:55:30.141Z"
+generated_at: "2026-11-23T21:26:01.091Z"
+status: "active"
 ---
 
 # § 1455. Procedure for removal of criminal prosecutions
@@ -18,3 +19,13 @@ generated_at: "2026-03-30T02:55:30.141Z"
   - **(4)** The United States district court in which such notice is filed shall examine the notice promptly. If it clearly appears on the face of the notice and any exhibits annexed thereto that removal should not be permitted, the court shall make an order for summary remand.
   - **(5)** If the United States district court does not order the summary remand of such prosecution, it shall order an evidentiary hearing to be held promptly and, after such hearing, shall make such disposition of the prosecution as justice shall require. If the United States district court determines that removal shall be permitted, it shall so notify the State court in which prosecution is pending, which shall proceed no further.
 - **(c)** If the defendant or defendants are in actual custody on process issued by the State court, the district court shall issue its writ of habeas corpus, and the marshal shall thereupon take such defendant or defendants into the marshal’s custody and deliver a copy of the writ to the clerk of such State court.
+
+Notice of Removal
+
+Requirements
+
+Writ of Habeas Corpus
+
+## Source Credit
+
+*(Added [Pub. L. 112–63, title I, § 103(c)](https://www.govinfo.gov/link/plaw/112/public/63), Dec. 7, 2011, [125 Stat. 761](https://www.govinfo.gov/link/statute/125/761).)*

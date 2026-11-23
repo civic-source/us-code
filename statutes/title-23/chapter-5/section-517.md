@@ -3,9 +3,10 @@ title: "Section 517 - National architecture and standards"
 usc_title: 23
 usc_section: "517"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 517"
-generated_at: "2026-03-30T02:55:12.574Z"
+generated_at: "2026-11-23T21:25:53.940Z"
+status: "active"
 ---
 
 # § 517. National architecture and standards
@@ -21,3 +22,27 @@ generated_at: "2026-03-30T02:55:12.574Z"
 - **(d)**
   - **(1)** Except as provided in paragraph (2), the Secretary shall ensure that intelligent transportation system projects carried out using amounts made available from the Highway Trust Fund, including amounts made available to deploy intelligent transportation systems, conform to the appropriate regional ITS architecture, applicable standards, and protocols developed under subsection (a) or (c).
   - **(2)** The Secretary, at the discretion of the Secretary, may offer an exemption from paragraph (1) for projects designed to achieve specific research objectives outlined in the national intelligent transportation system program plan or the surface transportation research and development strategic plan developed under section 508. 1 1 See References in Text note below.
+
+In General
+
+Development, implementation, and maintenance
+
+Interoperability and efficiency
+
+Use of standards development organizations
+
+Standards for National Policy Implementation
+
+Provisional Standards
+
+In general
+
+Period of effectiveness
+
+Conformity With National Architecture
+
+Discretion of the secretary
+
+## Source Credit
+
+*(Added [Pub. L. 112–141, div. E, title III, § 53005(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 902](https://www.govinfo.gov/link/statute/126/902); amended [Pub. L. 114–94, div. A, title VI, § 6008](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1567](https://www.govinfo.gov/link/statute/129/1567).)*

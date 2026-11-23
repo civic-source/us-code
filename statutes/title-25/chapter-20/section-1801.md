@@ -3,9 +3,10 @@ title: "Section 1801 - Definitions"
 usc_title: 25
 usc_section: "1801"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1801"
-generated_at: "2026-03-30T02:54:52.829Z"
+generated_at: "2026-11-23T21:25:54.641Z"
+status: "active"
 ---
 
 # § 1801. Definitions
@@ -30,3 +31,11 @@ generated_at: "2026-03-30T02:54:52.829Z"
   - **(5)** Eligible credits earned in a continuing education program—
     - **(A)** shall be determined as one credit for every ten contact hours in the case of an institution on a quarter system, or 15 contact hours in the case of an institution on a semester system, of participation in an organized continuing education experience under responsible sponsorship, capable direction, and qualified instruction, as described in the criteria established by the International Association for Continuing Education and Training; and
     - **(B)** shall be limited to ten percent of the Indian student count of a tribally controlled college or university.
+
+Recommended legislation
+
+Submission to congress
+
+## Source Credit
+
+*([Pub. L. 95–471, § 2](https://www.govinfo.gov/link/plaw/95/public/471), formerly § 1, Oct. 17, 1978, [92 Stat. 1325](https://www.govinfo.gov/link/statute/92/1325); renumbered § 2 and amended [Pub. L. 98–192, § 1](https://www.govinfo.gov/link/plaw/98/public/192), Dec. 1, 1983, [97 Stat. 1335](https://www.govinfo.gov/link/statute/97/1335); [Pub. L. 99–428, § 3](https://www.govinfo.gov/link/plaw/99/public/428), Sept. 30, 1986, [100 Stat. 982](https://www.govinfo.gov/link/statute/100/982); [Pub. L. 105–244, title I, § 102(a)(8)(B)](https://www.govinfo.gov/link/plaw/105/public/244), title IX, § 901(b)(5), (9), Oct. 7, 1998, [112 Stat. 1619](https://www.govinfo.gov/link/statute/112/1619), 1828; [Pub. L. 110–315, title IX, § 941(a)](https://www.govinfo.gov/link/plaw/110/public/315) –(c), Aug. 14, 2008, [122 Stat. 3460](https://www.govinfo.gov/link/statute/122/3460), 3461.)*

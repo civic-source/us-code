@@ -3,9 +3,10 @@ title: "Section 9705 - Improving National Oceanic and Atmospheric Administration
 usc_title: 15
 usc_section: "9705"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9705"
-generated_at: "2026-03-30T02:54:08.250Z"
+generated_at: "2026-11-23T21:25:40.153Z"
+status: "active"
 ---
 
 # § 9705. Improving National Oceanic and Atmospheric Administration communication of future flood risks and hazardous flash flood events
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:54:08.250Z"
       - **(ii)** to inform action to prevent loss of life and property.
     - **(B)** The terms “watch” and “warning” do not include technical or specialized meteorological and hydrological forecasts, outlooks, or model guidance products.
   - **(2)** The term “weather enterprise” has the meaning given that term in section 8501 of this title .
+
+## Source Credit
+
+*([Pub. L. 117–316, § 6](https://www.govinfo.gov/link/plaw/117/public/316), Dec. 27, 2022, [136 Stat. 4410](https://www.govinfo.gov/link/statute/136/4410).)*

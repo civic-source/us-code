@@ -3,12 +3,17 @@ title: "Section 8771 - Exclusion of citizens of Iran seeking education relating 
 usc_title: 22
 usc_section: "8771"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8771"
-generated_at: "2026-03-30T02:55:05.456Z"
+generated_at: "2026-11-23T21:25:58.753Z"
+status: "active"
 ---
 
 # § 8771. Exclusion of citizens of Iran seeking education relating to the nuclear and energy sectors of Iran
 
 - **(a)** The Secretary of State shall deny a visa to, and the Secretary of Homeland Security shall exclude from the United States, any alien who is a citizen of Iran that the Secretary of State determines seeks to enter the United States to participate in coursework at an institution of higher education (as defined in section 1001(a) of title 20 ) to prepare the alien for a career in the energy sector of Iran or in nuclear science or nuclear engineering or a related field in Iran.
 - **(b)** Subsection (a) applies with respect to visa applications filed on or after August 10, 2012 .
+
+## Source Credit
+
+*([Pub. L. 112–158, title V, § 501](https://www.govinfo.gov/link/plaw/112/public/158), Aug. 10, 2012, [126 Stat. 1258](https://www.govinfo.gov/link/statute/126/1258).)*

@@ -3,9 +3,10 @@ title: "Section 1715 - Notifications to appropriate Federal and State officials"
 usc_title: 28
 usc_section: "1715"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1715"
-generated_at: "2026-03-30T02:55:30.143Z"
+generated_at: "2026-11-23T21:26:01.101Z"
+status: "active"
 ---
 
 # § 1715. Notifications to appropriate Federal and State officials
@@ -39,3 +40,33 @@ generated_at: "2026-03-30T02:55:30.143Z"
   - **(2)** A class member may not refuse to comply with or to be bound by a settlement agreement or consent decree under paragraph (1) if the notice required under subsection (b) was directed to the appropriate Federal official and to either the State attorney general or the person that has primary regulatory, supervisory, or licensing authority over the defendant.
   - **(3)** The rights created by this subsection shall apply only to class members or any person acting on a class member’s behalf, and shall not be construed to limit any other rights affecting a class member’s participation in the settlement.
 - **(f)** Nothing in this section shall be construed to expand the authority of, or impose any obligations, duties, or responsibilities upon, Federal or State officials.
+
+Definitions.—
+
+Appropriate federal official
+
+Appropriate state official
+
+In General
+
+Depository Institutions Notification.—
+
+Federal and other depository institutions
+
+State depository institutions
+
+Final Approval
+
+Noncompliance if Notice Not Provided.—
+
+In general
+
+Limitation
+
+Application of rights
+
+Rule of Construction
+
+## Source Credit
+
+*(Added [Pub. L. 109–2, § 3(a)](https://www.govinfo.gov/link/plaw/109/public/2), Feb. 18, 2005, [119 Stat. 7](https://www.govinfo.gov/link/statute/119/7).)*

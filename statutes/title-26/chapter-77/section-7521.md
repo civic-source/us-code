@@ -3,9 +3,10 @@ title: "Section 7521 - Procedures involving taxpayer interviews"
 usc_title: 26
 usc_section: "7521"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7521"
-generated_at: "2026-03-30T02:55:27.878Z"
+generated_at: "2026-11-23T21:26:06.983Z"
+status: "active"
 ---
 
 # § 7521. Procedures involving taxpayer interviews
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:27.878Z"
   - **(2)** If the taxpayer clearly states to an officer or employee of the Internal Revenue Service at any time during any interview (other than an interview initiated by an administrative summons issued under subchapter A of chapter 78) that the taxpayer wishes to consult with an attorney, certified public accountant, enrolled agent, enrolled actuary, or any other person permitted to represent the taxpayer before the Internal Revenue Service, such officer or employee shall suspend such interview regardless of whether the taxpayer may have answered one or more questions.
 - **(c)** Any attorney, certified public accountant, enrolled agent, enrolled actuary, or any other person permitted to represent the taxpayer before the Internal Revenue Service who is not disbarred or suspended from practice before the Internal Revenue Service and who has a written power of attorney executed by the taxpayer may be authorized by such taxpayer to represent the taxpayer in any interview described in subsection (a). An officer or employee of the Internal Revenue Service may not require a taxpayer to accompany the representative in the absence of an administrative summons issued to the taxpayer under subchapter A of chapter 78. Such an officer or employee, with the consent of the immediate supervisor of such officer or employee, may notify the taxpayer directly that such officer or employee believes such representative is responsible for unreasonable delay or hindrance of an Internal Revenue Service examination or investigation of the taxpayer.
 - **(d)** This section shall not apply to criminal investigations or investigations relating to the integrity of any officer or employee of the Internal Revenue Service.
+
+## Source Credit
+
+*(Added [Pub. L. 100–647, title VI, § 6228(a)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3731](https://www.govinfo.gov/link/statute/102/3731), § 7520; renumbered § 7521, [Pub. L. 101–239, title VII, § 7816(u)(1)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2423](https://www.govinfo.gov/link/statute/103/2423).)*

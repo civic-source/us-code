@@ -3,9 +3,10 @@ title: "Section 1428 - Definitions"
 usc_title: 7
 usc_section: "1428"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1428"
-generated_at: "2026-03-30T02:53:42.311Z"
+generated_at: "2026-11-23T21:25:28.065Z"
+status: "active"
 ---
 
 # § 1428. Definitions
@@ -27,3 +28,7 @@ For the purposes of this Act—
   - **(2)** References made to the terms “price support”, “price support operations”, and “price support program” in such sections and in section 1421(a) of this title shall be considered as applying as well to loan and purchase operations for wheat, feed grains, upland cotton, extra long staple cotton, honey, oilseeds and rice under this Act.
   - **(3)** Notwithstanding any other provision of law, this subsection shall be effective only for the 1991 through 1995 crops of wheat, feed grains, upland cotton, extra long staple cotton, honey, oilseeds and rice.
 - **(l)** “Producer” shall include a person growing hybrid seed under contract. In determining the interest of a grower of hybrid seed in a crop, the Secretary shall not take into consideration the existence of a hybrid seed contract.
+
+## Source Credit
+
+*(Oct. 31, 1949, ch. 792, title IV, § 408, [63 Stat. 1055](https://www.govinfo.gov/link/statute/63/1055); Aug. 28, 1954, ch. 1041, title II, § 209, [68 Stat. 901](https://www.govinfo.gov/link/statute/68/901); [Pub. L. 89–321, title IV, § 402(b)](https://www.govinfo.gov/link/plaw/89/public/321), Nov. 3, 1965, [79 Stat. 1197](https://www.govinfo.gov/link/statute/79/1197); [Pub. L. 90–559, § 1(4)](https://www.govinfo.gov/link/plaw/90/public/559), Oct. 11, 1968, [82 Stat. 996](https://www.govinfo.gov/link/statute/82/996); [Pub. L. 91–524, title IV, § 408](https://www.govinfo.gov/link/plaw/91/public/524), title VI, §§ 604, 607, Nov. 30, 1970, [84 Stat. 1367](https://www.govinfo.gov/link/statute/84/1367), 1378; [Pub. L. 93–86, § 1(22)](https://www.govinfo.gov/link/plaw/93/public/86), Aug. 10, 1973, [87 Stat. 235](https://www.govinfo.gov/link/statute/87/235); [Pub. L. 94–214, title III](https://www.govinfo.gov/link/plaw/94/public/214), §§ 303, 304, Feb. 16, 1976, [90 Stat. 187](https://www.govinfo.gov/link/statute/90/187), 188; [Pub. L. 95–113, title IV, § 407](https://www.govinfo.gov/link/plaw/95/public/113), title VI, § 604(a), (b), title VII, §§ 704, 705, Sept. 29, 1977, [91 Stat. 927](https://www.govinfo.gov/link/statute/91/927), 939, 944; [Pub. L. 97–98, title XI, § 1104](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1264](https://www.govinfo.gov/link/statute/95/1264); [Pub. L. 99–198, title X, § 1018](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1459](https://www.govinfo.gov/link/statute/99/1459); [Pub. L. 101–624, title XI, § 1131](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3511](https://www.govinfo.gov/link/statute/104/3511); [Pub. L. 107–171, title I, § 1310(a)(2)(B)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 182](https://www.govinfo.gov/link/statute/116/182); [Pub. L. 108–357, title VI, § 612(c)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1524](https://www.govinfo.gov/link/statute/118/1524).)*

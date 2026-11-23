@@ -3,9 +3,10 @@ title: "Section 1632 - Safe water and sanitary waste disposal facilities"
 usc_title: 25
 usc_section: "1632"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1632"
-generated_at: "2026-03-30T02:54:52.822Z"
+generated_at: "2026-11-23T21:25:54.622Z"
+status: "active"
 ---
 
 # § 1632. Safe water and sanitary waste disposal facilities
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:54:52.822Z"
     - **(D)** level IV is an Indian tribe or community with a sanitation system which lacks either a safe water supply system or a sewage disposal system; and
     - **(E)** level V is an Indian tribe or community that lacks a safe water supply and a sewage disposal system.
   - **(5)** For purposes of this subsection, any Indian tribe or community that lacks the operation and maintenance capability to enable its sanitation system to meet pollution control laws may not be treated as having a level I or II sanitation deficiency.
+
+## Source Credit
+
+*([Pub. L. 94–437, title III, § 302](https://www.govinfo.gov/link/plaw/94/public/437), Sept. 30, 1976, [90 Stat. 1407](https://www.govinfo.gov/link/statute/90/1407); [Pub. L. 100–713, title III, § 302](https://www.govinfo.gov/link/plaw/100/public/713), Nov. 23, 1988, [102 Stat. 4814](https://www.govinfo.gov/link/statute/102/4814); [Pub. L. 102–573, title III](https://www.govinfo.gov/link/plaw/102/public/573), §§ 302, 307(b)(1), Oct. 29, 1992, [106 Stat. 4560](https://www.govinfo.gov/link/statute/106/4560), 4564.)*

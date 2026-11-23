@@ -3,9 +3,10 @@ title: "Section 5202 - National Action Plan on Advanced Superconductivity Resear
 usc_title: 15
 usc_section: "5202"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 5202"
-generated_at: "2026-03-30T02:54:08.205Z"
+generated_at: "2026-11-23T21:25:40.009Z"
+status: "active"
 ---
 
 # § 5202. National Action Plan on Advanced Superconductivity Research and Development
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:08.205Z"
   - **(4)** proposals for the participation by industry and academia in the planning and implementation of the Superconductivity Action Plan.
 - **(c)** The Office of Science and Technology Policy, in conjunction with the National Critical Materials Council, shall submit a report detailing the Superconductivity Action Plan to the Committee on Science, Space, and Technology of the House of Representatives, and to the Committees on Energy and Natural Resources, and Commerce, Science, and Transportation of the Senate, within 9 months after November 19, 1988 .
 - **(d)** The Office of Science and Technology Policy shall prepare an annual report setting forth and evaluating the progress of the Superconductivity Action Plan. This report shall include a description of the amount of funds expended in the previous year by all Federal departments and agencies involved with superconductivity. This report shall be submitted with the President’s annual budget request to the Committee on Science, Space, and Technology of the House of Representatives, and to the Committees on Energy and Natural Resources, and Commerce, Science, and Transportation of the Senate.
+
+## Source Credit
+
+*([Pub. L. 100–697, § 3](https://www.govinfo.gov/link/plaw/100/public/697), Nov. 19, 1988, [102 Stat. 4614](https://www.govinfo.gov/link/statute/102/4614); [Pub. L. 116–260, div. Z, title VII, § 7002(n)(2)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2576](https://www.govinfo.gov/link/statute/134/2576).)*

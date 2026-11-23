@@ -3,9 +3,10 @@ title: "Section 9842 - Records and audits"
 usc_title: 42
 usc_section: "9842"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9842"
-generated_at: "2026-03-30T02:56:11.370Z"
+generated_at: "2026-11-23T21:26:33.299Z"
+status: "active"
 ---
 
 # § 9842. Records and audits
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.370Z"
   - **(1)** maintain, and annually submit to the Secretary, a complete accounting of the recipient’s administrative expenses (including a detailed statement identifying the amount of financial assistance provided under this subchapter used to pay expenses for salaries and compensation and the amount (if any) of other funds used to pay such expenses);
   - **(2)** not later than 30 days after the date of completion of an audit conducted in the manner and to the extent provided in chapter 75 of title 31 (commonly known as the “Single Audit Act of 1984”), submit to the Secretary a copy of the audit management letter and of any audit findings as they relate to the Head Start program; and
   - **(3)** provide such additional documentation as the Secretary may require.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 647](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 505](https://www.govinfo.gov/link/statute/95/505); [Pub. L. 110–134, § 17](https://www.govinfo.gov/link/plaw/110/public/134), Dec. 12, 2007, [121 Stat. 1422](https://www.govinfo.gov/link/statute/121/1422).)*

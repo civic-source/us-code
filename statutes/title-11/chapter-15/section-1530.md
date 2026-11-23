@@ -3,9 +3,10 @@ title: "Section 1530 - Coordination of more than 1 foreign proceeding"
 usc_title: 11
 usc_section: "1530"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1530"
-generated_at: "2026-03-30T02:53:53.888Z"
+generated_at: "2026-11-23T21:25:34.979Z"
+status: "active"
 ---
 
 # § 1530. Coordination of more than 1 foreign proceeding
@@ -15,3 +16,7 @@ In matters referred to in section 1501, with respect to more than 1 foreign proc
   - **(1)** Any relief granted under section 1519 or 1521 to a representative of a foreign nonmain proceeding after recognition of a foreign main proceeding must be consistent with the foreign main proceeding.
   - **(2)** If a foreign main proceeding is recognized after recognition, or after the filing of a petition for recognition, of a foreign nonmain proceeding, any relief in effect under section 1519 or 1521 shall be reviewed by the court and shall be modified or terminated if inconsistent with the foreign main proceeding.
   - **(3)** If, after recognition of a foreign nonmain proceeding, another foreign nonmain proceeding is recognized, the court shall grant, modify, or terminate relief for the purpose of facilitating coordination of the proceedings.
+
+## Source Credit
+
+*(Added [Pub. L. 109–8, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 144](https://www.govinfo.gov/link/statute/119/144).)*

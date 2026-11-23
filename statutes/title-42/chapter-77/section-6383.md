@@ -3,9 +3,10 @@ title: "Section 6383 - Accounting practices"
 usc_title: 42
 usc_section: "6383"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6383"
-generated_at: "2026-03-30T02:56:11.261Z"
+generated_at: "2026-11-23T21:26:32.953Z"
+status: "active"
 ---
 
 # § 6383. Accounting practices
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.261Z"
     - **(A)** disclosure of reserves and operating activities, both domestic and foreign, to facilitate evaluation of financial effort and result; and
     - **(B)** classification of financial information by function to facilitate correlation with reserve and operating statistics, both domestic and foreign.
   - **(3)** Such other information, projections, and relationships of collected data as shall be necessary to facilitate the compilation of such data base.
+
+## Source Credit
+
+*([Pub. L. 94–163, title V, § 503](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 958](https://www.govinfo.gov/link/statute/89/958); [Pub. L. 95–91, title III, § 301](https://www.govinfo.gov/link/plaw/95/public/91), title IV, § 402, title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577](https://www.govinfo.gov/link/statute/91/577), 583, 606, 607; [Pub. L. 105–388, § 5(a)(15)](https://www.govinfo.gov/link/plaw/105/public/388), Nov. 13, 1998, [112 Stat. 3479](https://www.govinfo.gov/link/statute/112/3479); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

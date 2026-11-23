@@ -3,9 +3,10 @@ title: "Section 3332 - Cooperation between Federal agencies"
 usc_title: 42
 usc_section: "3332"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3332"
-generated_at: "2026-03-30T02:56:11.186Z"
+generated_at: "2026-11-23T21:26:32.557Z"
+status: "active"
 ---
 
 # § 3332. Cooperation between Federal agencies
@@ -14,3 +15,7 @@ In order to insure that all Federal programs related to areawide development are
 
   - **(1)** the Secretary is authorized to call upon other Federal agencies to supply such statistical data, program reports, and other materials as he deems necessary to discharge his responsibilities for areawide development, and to assist the President in coordinating the areawide development efforts of all Federal agencies; and
   - **(2)** all Federal agencies which are engaged in administering programs related to areawide development, or which otherwise perform functions relating thereto, shall, to the maximum extent practicable, consult with and seek advice from all other significantly affected Federal departments and agencies in an effort to assure fully coordinated programs.
+
+## Source Credit
+
+*([Pub. L. 89–754, title II, § 202](https://www.govinfo.gov/link/plaw/89/public/754), Nov. 3, 1966, [80 Stat. 1261](https://www.govinfo.gov/link/statute/80/1261); [Pub. L. 90–448, title VI, § 602(c)](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 532](https://www.govinfo.gov/link/statute/82/532).)*

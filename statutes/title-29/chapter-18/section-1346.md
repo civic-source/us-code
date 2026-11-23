@@ -3,9 +3,10 @@ title: "Section 1346 - Reports to trustee"
 usc_title: 29
 usc_section: "1346"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1346"
-generated_at: "2026-03-30T02:55:18.733Z"
+generated_at: "2026-11-23T21:26:02.293Z"
+status: "active"
 ---
 
 # § 1346. Reports to trustee
@@ -18,3 +19,7 @@ The corporation and the plan administrator of any plan to be terminated under th
   - **(4)** the fair market value of the assets of the plan at the time of termination,
   - **(5)** the computations under section 1344 of this title , and all actuarial assumptions under which the items described in paragraphs (1) through (4) were computed, and
   - **(6)** any other information with respect to the plan the trustee may require in order to terminate the plan.
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4046](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 1028](https://www.govinfo.gov/link/statute/88/1028); [Pub. L. 96–364, title IV, § 403(e)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1301](https://www.govinfo.gov/link/statute/94/1301).)*

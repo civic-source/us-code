@@ -3,9 +3,10 @@ title: "Section 1962 - Board of Directors of the Foundation"
 usc_title: 33
 usc_section: "1962"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1962"
-generated_at: "2026-03-30T02:55:41.111Z"
+generated_at: "2026-11-23T21:26:11.417Z"
+status: "active"
 ---
 
 # § 1962. Board of Directors of the Foundation
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:55:41.111Z"
 - **(h)**
   - **(1)** The Board shall appoint and review the performance of, and may remove, the chief executive officer of the Foundation.
   - **(2)** The chief executive officer of the Foundation may appoint, remove, and review the performance of any officer or employee of the Foundation.
+
+## Source Credit
+
+*([Pub. L. 109–449, § 112](https://www.govinfo.gov/link/plaw/109/public/449), formerly [Pub. L. 116–224, title I, § 112](https://www.govinfo.gov/link/plaw/116/public/224), Dec. 18, 2020, [134 Stat. 1075](https://www.govinfo.gov/link/statute/134/1075); renumbered [Pub. L. 109–449, § 112](https://www.govinfo.gov/link/plaw/109/public/449), and amended [Pub. L. 119–65, § 3(a)](https://www.govinfo.gov/link/plaw/119/public/65), (d), Dec. 26, 2025, [139 Stat. 1987](https://www.govinfo.gov/link/statute/139/1987).)*

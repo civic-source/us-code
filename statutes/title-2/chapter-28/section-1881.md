@@ -3,9 +3,10 @@ title: "Section 1881 - Definitions"
 usc_title: 2
 usc_section: "1881"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1881"
-generated_at: "2026-03-30T02:53:04.819Z"
+generated_at: "2026-11-23T21:25:21.250Z"
+status: "active"
 ---
 
 # § 1881. Definitions
@@ -19,3 +20,7 @@ In this subchapter—
     - **(B)** any other person related to the individual by blood or marriage;
   - **(4)** the term “public safety officer” means an individual serving a public agency in an official capacity, with or without compensation, as a law enforcement officer, as a firefighter, or as a chaplain; and
   - **(5)** the term “Representative” includes a Delegate or Resident Commissioner to the Congress.
+
+## Source Credit
+
+*([Pub. L. 114–156, § 2](https://www.govinfo.gov/link/plaw/114/public/156), May 16, 2016, [130 Stat. 391](https://www.govinfo.gov/link/statute/130/391).)*

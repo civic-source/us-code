@@ -3,9 +3,10 @@ title: "Section 1191d - Standardized reporting format"
 usc_title: 29
 usc_section: "1191d"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1191d"
-generated_at: "2026-03-30T02:55:18.726Z"
+generated_at: "2026-11-23T21:26:02.278Z"
+status: "active"
 ---
 
 # § 1191d. Standardized reporting format
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:18.726Z"
 - **(c)** In this section, the term “State All Payer Claims Database” means, with respect to a State, a database that may include medical claims, pharmacy claims, dental claims, and eligibility and provider files, which are collected from private and public payers.
 - **(d)** To carry out this section, there are authorized to be appropriated $5,000,000 for fiscal year 2021, to remain available until expended or, if sooner, until the date described in subsection (e).
 - **(e)** Beginning on the date on which the report is submitted under subsection (b)(3), subsection (b) shall have no force or effect.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 735](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 116–260, div. BB, title I, § 115(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2877](https://www.govinfo.gov/link/statute/134/2877).)*

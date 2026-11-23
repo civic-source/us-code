@@ -3,9 +3,10 @@ title: "Section 1512 - Transportation, open air testing, and disposal; President
 usc_title: 50
 usc_section: "1512"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1512"
-generated_at: "2026-03-30T02:56:26.205Z"
+generated_at: "2026-11-23T21:26:38.912Z"
+status: "active"
 ---
 
 # § 1512. Transportation, open air testing, and disposal; Presidential determination; report to Congress; notice to Congress and State Governors
@@ -16,3 +17,29 @@ None of the funds authorized to be appropriated by this Act or any other Act may
   - **(2)** the Secretary has brought the particulars of the proposed transportation, testing, or disposal to the attention of the Secretary of Health and Human Services, who in turn may direct the Surgeon General of the Public Health Service and other qualified persons to review such particulars with respect to any hazards to public health and safety which such transportation, testing, or disposal may pose and to recommend what precautionary measures are necessary to protect the public health and safety;
   - **(3)** the Secretary has implemented any precautionary measures recommended in accordance with paragraph (2) above (including, where practicable, the detoxification of any such agent, if such agent is to be transported to or from a military installation for disposal): Provided, however , That in the event the Secretary finds the recommendation submitted by the Surgeon General would have the effect of preventing the proposed transportation, testing, or disposal, the President may determine that overriding considerations of national security require such transportation, testing, or disposal be conducted. Any transportation, testing, or disposal conducted pursuant to such a Presidential determination shall be carried out in the safest practicable manner, and the President shall report his determination and an explanation thereof to the President of the Senate and the Speaker of the House of Representatives as far in advance as practicable; and
   - **(4)** the Secretary has provided notification that the transportation, testing, or disposal will take place, except where a Presidential determination has been made: (A) to the President of the Senate and the Speaker of the House of Representatives at least 10 days before any such transportation will be commenced and at least 30 days before any such testing or disposal will be commenced; (B) to the Governor of any State through which such agents will be transported, such notification to be provided appropriately in advance of any such transportation.
+
+Restatement of Policy
+
+Report Required.—
+
+In general
+
+Content
+
+Form
+
+Definitions
+
+Chemical weapons convention
+
+Resolution of ratification of the chemical weapons convention
+
+Section
+
+Sec
+
+Gerald R. Ford.
+
+## Source Credit
+
+*([Pub. L. 91–121, title IV, § 409(b)](https://www.govinfo.gov/link/plaw/91/public/121), Nov. 19, 1969, [83 Stat. 209](https://www.govinfo.gov/link/statute/83/209); [Pub. L. 91–441, title V, § 506(b)(1)](https://www.govinfo.gov/link/plaw/91/public/441), Oct. 7, 1970, [84 Stat. 912](https://www.govinfo.gov/link/statute/84/912); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695).)*

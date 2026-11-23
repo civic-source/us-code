@@ -3,9 +3,10 @@ title: "Section 2076 - Additional functions of Consumer Product Safety Commissio
 usc_title: 15
 usc_section: "2076"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2076"
-generated_at: "2026-03-30T02:54:08.165Z"
+generated_at: "2026-11-23T21:25:39.911Z"
+status: "active"
 ---
 
 # § 2076. Additional functions of Consumer Product Safety Commission
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:54:08.165Z"
 - **(k)**
   - **(1)** Whenever the Commission submits any budget estimate or request to the President or the Office of Management and Budget, it shall concurrently transmit a copy of that estimate or request to the Congress.
   - **(2)** Whenever the Commission submits any legislative recommendations, or testimony, or comments on legislation to the President or the Office of Management and Budget, it shall concurrently transmit a copy thereof to the Congress. No officer or agency of the United States shall have any authority to require the Commission to submit its legislative recommendations, or testimony, or comments on legislation, to any officer or agency of the United States for approval, comments, or review, prior to the submission of such recommendations, testimony, or comments to the Congress.
+
+## Source Credit
+
+*([Pub. L. 92–573, § 27](https://www.govinfo.gov/link/plaw/92/public/573), Oct. 27, 1972, [86 Stat. 1227](https://www.govinfo.gov/link/statute/86/1227); [Pub. L. 94–273, § 31](https://www.govinfo.gov/link/plaw/94/public/273), Apr. 21, 1976, [90 Stat. 380](https://www.govinfo.gov/link/statute/90/380); [Pub. L. 94–284](https://www.govinfo.gov/link/plaw/94/public/284), §§ 8(b), 11(c), (d), 14, May 11, 1976, [90 Stat. 506–509](https://www.govinfo.gov/link/statute/90/506); [Pub. L. 95–631, § 11](https://www.govinfo.gov/link/plaw/95/public/631), Nov. 10, 1978, [92 Stat. 3748](https://www.govinfo.gov/link/statute/92/3748); [Pub. L. 97–35, title XII](https://www.govinfo.gov/link/plaw/97/public/35), §§ 1207(b), 1208, 1209(c), 1211(d), Aug. 13, 1981, [95 Stat. 718](https://www.govinfo.gov/link/statute/95/718), 720, 721; [Pub. L. 110–314, title II, § 209(a)](https://www.govinfo.gov/link/plaw/110/public/314), Aug. 14, 2008, [122 Stat. 3046](https://www.govinfo.gov/link/statute/122/3046); [Pub. L. 112–28, § 8](https://www.govinfo.gov/link/plaw/112/public/28), Aug. 12, 2011, [125 Stat. 282](https://www.govinfo.gov/link/statute/125/282).)*

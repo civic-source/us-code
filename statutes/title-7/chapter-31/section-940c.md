@@ -3,9 +3,10 @@ title: "Section 940c - Cushion of credit payments program"
 usc_title: 7
 usc_section: "940c"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 940c"
-generated_at: "2026-03-30T02:53:42.297Z"
+generated_at: "2026-11-23T21:25:28.009Z"
+status: "active"
 ---
 
 # § 940c. Cushion of credit payments program
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:42.297Z"
     - **(B)** All cash balance amounts (obtained from cushion of credit payments, loan payments, and other sources) held by the Fund shall bear interest to the Fund at a rate equal to the weighted average rate on outstanding certificates of beneficial ownership issued by the Fund.
     - **(C)** The amount of interest accrued on the cash balances shall be credited to the Fund as an offsetting reduction to the amount of interest paid by the Fund on its certificates of beneficial ownership.
   - **(2)** The Secretary shall maintain a subaccount within the Rural Electrification and Telephone Revolving Fund to which shall be credited, on a monthly basis, a sum determined by multiplying the outstanding cushion of credit payments made after October 1, 1987 , by the difference (converted to a monthly basis) between the average weighted interest rate paid on outstanding certificates of beneficial ownership issued by the Fund and 5 percent.
+
+## Source Credit
+
+*(May 20, 1936, ch. 432, title III, § 313, as added [Pub. L. 100–203, title I, § 1403](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–21](https://www.govinfo.gov/link/statute/101/1330); amended [Pub. L. 103–354, title II, § 235(a)(13)](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3221](https://www.govinfo.gov/link/statute/108/3221); [Pub. L. 115–334, title VI](https://www.govinfo.gov/link/plaw/115/public/334), §§ 6503, 6504(b), Dec. 20, 2018, [132 Stat. 4772](https://www.govinfo.gov/link/statute/132/4772), 4773.)*

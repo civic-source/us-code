@@ -3,9 +3,10 @@ title: "Section 1731 - Implementation of an integrated entry and exit data syste
 usc_title: 8
 usc_section: "1731"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1731"
-generated_at: "2026-03-30T02:53:10.507Z"
+generated_at: "2026-11-23T21:25:25.216Z"
+status: "active"
 ---
 
 # § 1731. Implementation of an integrated entry and exit data system
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:10.507Z"
 - **(b)** In implementing the provisions of subsection (a), the Immigration and Naturalization Service and the Department of State shall—
   - **(1)** utilize technologies that facilitate the lawful and efficient cross-border movement of commerce and persons without compromising the safety and security of the United States; and
   - **(2)** consider implementing the North American National Security Program described in section 1751 of this title .
+
+## Source Credit
+
+*([Pub. L. 107–173, title III, § 302](https://www.govinfo.gov/link/plaw/107/public/173), May 14, 2002, [116 Stat. 552](https://www.govinfo.gov/link/statute/116/552).)*

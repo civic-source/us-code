@@ -3,9 +3,10 @@ title: "Section 58 - Technical assistance and provision of supplies and services
 usc_title: 42
 usc_section: "58"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 58"
-generated_at: "2026-03-30T02:56:10.815Z"
+generated_at: "2026-11-23T21:26:30.808Z"
+status: "active"
 ---
 
 # § 300x–58. Technical assistance and provision of supplies and services in lieu of grant funds
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:10.815Z"
 - **(b)**
   - **(1)** Upon the request of a State receiving a grant under section 300x or 300x–21 of this title, the Secretary may, subject to paragraph (2), provide supplies, equipment, and services for the purpose of aiding the State in carrying out the program involved and, for such purpose, may detail to the State any officer or employee of the Department of Health and Human Services.
   - **(2)** With respect to a request described in paragraph (1), the Secretary shall reduce the amount of payments under the program involved to the State by an amount equal to the costs of detailing personnel and the fair market value of any supplies, equipment, or services provided by the Secretary. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XIX, § 1948, as added [Pub. L. 102–321, title II, § 203(a)](https://www.govinfo.gov/link/plaw/102/public/321), July 10, 1992, [106 Stat. 408](https://www.govinfo.gov/link/statute/106/408).)*

@@ -3,9 +3,10 @@ title: "Section 4805 - Call report simplification"
 usc_title: 12
 usc_section: "4805"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4805"
-generated_at: "2026-03-30T02:53:53.519Z"
+generated_at: "2026-11-23T21:25:37.221Z"
+status: "active"
 ---
 
 # § 4805. Call report simplification
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:53.519Z"
 - **(c)** Each Federal banking agency shall—
   - **(1)** review the information required by schedules supplementing the core information referred to in subsection (b); and
   - **(2)** eliminate requirements that are not warranted for reasons of safety and soundness or other public purposes.
+
+## Source Credit
+
+*([Pub. L. 103–325, title III, § 307](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2217](https://www.govinfo.gov/link/statute/108/2217).)*

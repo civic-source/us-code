@@ -3,9 +3,10 @@ title: "Section 7382c - Fellowship Program"
 usc_title: 42
 usc_section: "7382c"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7382c"
-generated_at: "2026-03-30T02:56:11.290Z"
+generated_at: "2026-11-23T21:26:33.067Z"
+status: "active"
 ---
 
 # § 7382c. Fellowship Program
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:56:11.290Z"
         - **(III)** The Director of the National Science Foundation.
         - **(IV)** The Administrator of the National Aeronautics and Space Administration.
         - **(V)** The Director of the Office of Science and Technology Policy.
+
+## Source Credit
+
+*([Pub. L. 103–382, title V, § 515](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 4042](https://www.govinfo.gov/link/statute/108/4042).)*

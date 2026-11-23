@@ -3,9 +3,10 @@ title: "Section 7213 - Auditing, quality control, and independence standards and
 usc_title: 15
 usc_section: "7213"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7213"
-generated_at: "2026-03-30T02:54:08.219Z"
+generated_at: "2026-11-23T21:25:40.041Z"
+status: "active"
 ---
 
 # § 7213. Auditing, quality control, and independence standards and rules
@@ -40,3 +41,11 @@ generated_at: "2026-03-30T02:54:08.219Z"
   - **(1)** The Board shall cooperate on an ongoing basis with professional groups of accountants designated under subsection (a)(3)(A) and advisory groups convened under subsection (a)(4) in the examination of the need for changes in any standards subject to its authority under subsection (a), recommend issues for inclusion on the agendas of such designated professional groups of accountants or advisory groups, and take such other steps as it deems appropriate to increase the effectiveness of the standard setting process.
   - **(2)** The Board shall respond in a timely fashion to requests from designated professional groups of accountants and advisory groups referred to in paragraph (1) for any changes in standards over which the Board has authority.
 - **(d)** The Board shall include in the annual report required by section 7211(h) of this title the results of its standard setting responsibilities during the period to which the report relates, including a discussion of the work of the Board with any designated professional groups of accountants and advisory groups described in paragraphs (3)(A) and (4) of subsection (a), and its pending issues agenda for future standard setting projects.
+
+(aa) include maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of the assets of the issuer;
+
+(bb) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the issuer are being made only in accordance with authorizations of management and directors of the issuer; and
+
+## Source Credit
+
+*([Pub. L. 107–204, title I, § 103](https://www.govinfo.gov/link/plaw/107/public/204), July 30, 2002, [116 Stat. 755](https://www.govinfo.gov/link/statute/116/755); [Pub. L. 111–203, title IX, § 982(d)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1929](https://www.govinfo.gov/link/statute/124/1929); [Pub. L. 112–106, title I, § 104](https://www.govinfo.gov/link/plaw/112/public/106), Apr. 5, 2012, [126 Stat. 310](https://www.govinfo.gov/link/statute/126/310).)*

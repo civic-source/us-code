@@ -3,9 +3,10 @@ title: "Section 1516 - Petitions by domestic interested parties"
 usc_title: 19
 usc_section: "1516"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1516"
-generated_at: "2026-03-30T02:54:24.640Z"
+generated_at: "2026-11-23T21:25:42.720Z"
+status: "active"
 ---
 
 # § 1516. Petitions by domestic interested parties
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:24.640Z"
 - **(e)** The consignee or his agent shall have the right to appear and to be heard as a party in interest before the United States Court of International Trade.
 - **(f)** If the cause of action is sustained in whole or in part by a decision of the United States Court of International Trade or of the United States Court of Appeals for the Federal Circuit, merchandise of the character covered by the published decision of the Secretary, which is entered for consumption or withdrawn from warehouse for consumption after the date of publication in the Federal Register by the Secretary or the administering authority of a notice of the court decision, shall be subject to appraisement, classification, and assessment of duty in accordance with the final judicial decision in the action, and the liquidation of entries covering the merchandise so entered or withdrawn shall be suspended until final disposition is made of the action, whereupon the entries shall be liquidated, or if necessary, reliquidated in accordance with the final decision. Such notice of the court decision shall be published within ten days from the date of the issuance of the court decision.
 - **(g)** Regulations shall be prescribed by the Secretary to implement the procedures required under this section.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 516, [46 Stat. 735](https://www.govinfo.gov/link/statute/46/735); June 25, 1938, ch. 679, § 17(a), [52 Stat. 1084](https://www.govinfo.gov/link/statute/52/1084); June 25, 1948, ch. 646, § 39, [62 Stat. 992](https://www.govinfo.gov/link/statute/62/992); [Pub. L. 91–271, title II, § 209](https://www.govinfo.gov/link/plaw/91/public/271), June 2, 1970, [84 Stat. 286](https://www.govinfo.gov/link/statute/84/286); [Pub. L. 93–618, title III](https://www.govinfo.gov/link/plaw/93/public/618), §§ 321(f)(1), 331(b), Jan. 3, 1975, [88 Stat. 2048](https://www.govinfo.gov/link/statute/88/2048), 2052; [Pub. L. 96–39, title X, § 1001(b)(1)](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 303](https://www.govinfo.gov/link/statute/93/303); [Pub. L. 96–417, title VI](https://www.govinfo.gov/link/plaw/96/public/417), §§ 601(6), 607, Oct. 10, 1980, [94 Stat. 1744](https://www.govinfo.gov/link/statute/94/1744), 1745; [Pub. L. 97–164, title I, § 163(a)(1)](https://www.govinfo.gov/link/plaw/97/public/164), Apr. 2, 1982, [96 Stat. 49](https://www.govinfo.gov/link/statute/96/49); [Pub. L. 99–514, title XVIII, § 1888(5)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2925](https://www.govinfo.gov/link/statute/100/2925); [Pub. L. 100–418, title I, § 1326(d)(3)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1204](https://www.govinfo.gov/link/statute/102/1204).)*

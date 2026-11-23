@@ -3,9 +3,10 @@ title: "Section 4506 - Termination"
 usc_title: 15
 usc_section: "4506"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4506"
-generated_at: "2026-03-30T02:54:08.199Z"
+generated_at: "2026-11-23T21:25:39.995Z"
+status: "active"
 ---
 
 # § 4506. Termination
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.199Z"
     - **(B)** submits to Congress the final report required by section 4505 of this title .
   - **(2)** Such final report shall include the determination (and the justification thereof) described in paragraph (1)(A). Such report shall also be published in the Federal Register.
 - **(b)** The requirements of section 4502(d) 1 1 See References in Text note below. of this title shall continue to be applicable to the use of restitutionary amounts received under this chapter as long as such funds remain available.
+
+## Source Credit
+
+*([Pub. L. 99–509, title III, § 3007](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1887](https://www.govinfo.gov/link/statute/100/1887).)*

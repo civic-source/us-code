@@ -3,9 +3,10 @@ title: "Section 7384f - Legislative proposal"
 usc_title: 42
 usc_section: "7384f"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7384f"
-generated_at: "2026-03-30T02:56:11.291Z"
+generated_at: "2026-11-23T21:26:33.068Z"
+status: "active"
 ---
 
 # § 7384f. Legislative proposal
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.291Z"
 - **(b)** The President shall include with the proposal for legislation under subsection (a) the following:
   - **(1)** An estimate of the number of covered employees that the President determines were exposed in the performance of duty.
   - **(2)** An estimate, for each fiscal year of the compensation program, of the amounts to be required for compensation and benefits anticipated to be provided in such fiscal year under the compensation program.
+
+## Source Credit
+
+*([Pub. L. 106–398, § 1 [div. C, title XXXVI, § 3613]](https://www.govinfo.gov/link/plaw/106/public/398), Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–498.)*

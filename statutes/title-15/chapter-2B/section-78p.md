@@ -3,9 +3,10 @@ title: "Section 78p - Directors, officers, and principal stockholders"
 usc_title: 15
 usc_section: "78p"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 78p"
-generated_at: "2026-03-30T02:54:08.053Z"
+generated_at: "2026-11-23T21:25:39.557Z"
+status: "active"
 ---
 
 # § 78p. Directors, officers, and principal stockholders
@@ -31,3 +32,15 @@ generated_at: "2026-03-30T02:54:08.053Z"
 - **(e)** The provisions of this section shall not apply to foreign or domestic arbitrage transactions unless made in contravention of such rules and regulations as the Commission may adopt in order to carry out the purposes of this section.
 - **(f)** The provisions of this section shall apply to ownership of and transactions in security futures products.
 - **(g)** The authority of the Commission under this section with respect to security-based swap agreements shall be subject to the restrictions and limitations of section 78c–1(b) of this title .
+
+Effect on Regulation
+
+Issuance or Amendment of Regulations.—
+
+In general
+
+Additional rulemaking
+
+## Source Credit
+
+*(June 6, 1934, ch. 404, title I, § 16, [48 Stat. 896](https://www.govinfo.gov/link/statute/48/896); [Pub. L. 88–467, § 8](https://www.govinfo.gov/link/plaw/88/public/467), Aug. 20, 1964, [78 Stat. 579](https://www.govinfo.gov/link/statute/78/579); [Pub. L. 106–554, § 1(a)(5) [title II, § 208(b)(3), title III, § 303(g), (h)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–435, 2763A–455, 2763A–456; [Pub. L. 107–204, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/107/public/204), July 30, 2002, [116 Stat. 788](https://www.govinfo.gov/link/statute/116/788); [Pub. L. 111–203, title VII, § 762(d)(5)](https://www.govinfo.gov/link/plaw/111/public/203), title IX, § 929R(b), July 21, 2010, [124 Stat. 1761](https://www.govinfo.gov/link/statute/124/1761), 1867; [Pub. L. 119–60, div. H, title LXXXI, § 8103(b)(1)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1838](https://www.govinfo.gov/link/statute/139/1838).)*

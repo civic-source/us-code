@@ -3,9 +3,10 @@ title: "Section 6473 - Reform of asylum policy"
 usc_title: 22
 usc_section: "6473"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6473"
-generated_at: "2026-03-30T02:55:05.429Z"
+generated_at: "2026-11-23T21:25:58.690Z"
+status: "active"
 ---
 
 # § 6473. Reform of asylum policy
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:05.429Z"
 - **(a)** The Attorney General and the Secretary of State shall develop guidelines to ensure that persons with potential biases against individuals on the grounds of religion, race, nationality, membership in a particular social group, or political opinion, including interpreters and personnel of airlines owned by governments known to be involved in practices which would meet the definition of persecution under international refugee law, shall not in any manner be used to interpret conversations between aliens and inspection or asylum officers.
 - **(b)** The Attorney General, in consultation with the Secretary of State, the Ambassador at Large, and other relevant officials such as the Director of the George P. Shultz National Foreign Affairs Training Center, shall provide training to all officers adjudicating asylum cases, and to immigration officers performing duties under section 1225(b) of title 8 , on the nature of religious persecution abroad, including country-specific conditions, instruction on the internationally recognized right to freedom of religion, instruction on methods of religious persecution practiced in foreign countries, and applicable distinctions within a country in the treatment of various religious practices and believers.
 - **(c)** The Executive Office of Immigration Review of the Department of Justice shall incorporate into its initial and ongoing training of immigration judges training on the extent and nature of religious persecution internationally, including country-specific conditions, and including use of the Annual Report. Such training shall include governmental and nongovernmental methods of persecution employed, and differences in the treatment of religious groups by such persecuting entities.
+
+## Source Credit
+
+*([Pub. L. 105–292, title VI, § 603](https://www.govinfo.gov/link/plaw/105/public/292), Oct. 27, 1998, [112 Stat. 2813](https://www.govinfo.gov/link/statute/112/2813); [Pub. L. 107–132, § 1(b)](https://www.govinfo.gov/link/plaw/107/public/132), Jan. 16, 2002, [115 Stat. 2412](https://www.govinfo.gov/link/statute/115/2412).)*

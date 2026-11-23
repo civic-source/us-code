@@ -3,9 +3,10 @@ title: "Section 1978 - Restriction on importation of fishery or wildlife product
 usc_title: 22
 usc_section: "1978"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1978"
-generated_at: "2026-03-30T02:55:05.340Z"
+generated_at: "2026-11-23T21:25:58.419Z"
+status: "active"
 ---
 
 # § 1978. Restriction on importation of fishery or wildlife products from countries which violate international fishery or endangered or threatened species programs
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:05.340Z"
   - **(5)** The term “taking”, as used with respect to animals to which an international program for endangered or threatened species applies, means to—
     - **(A)** harass, harm, pursue, hunt, shoot, wound, kill, trap, capture, or collect; or
     - **(B)** attempt to harass, harm, pursue, hunt, shoot, wound, kill, trap, capture, or collect.
+
+## Source Credit
+
+*(Aug. 27, 1954, ch. 1018, § 8, as added [Pub. L. 92–219](https://www.govinfo.gov/link/plaw/92/public/219), Dec. 23, 1971, [85 Stat. 786](https://www.govinfo.gov/link/statute/85/786); amended [Pub. L. 90–578, title IV, § 402(b)(2)](https://www.govinfo.gov/link/plaw/90/public/578), Oct. 17, 1968, [82 Stat. 1118](https://www.govinfo.gov/link/statute/82/1118); [Pub. L. 95–376, § 2](https://www.govinfo.gov/link/plaw/95/public/376), Sept. 18, 1978, [92 Stat. 714](https://www.govinfo.gov/link/statute/92/714); [Pub. L. 96–61, § 3(b)](https://www.govinfo.gov/link/plaw/96/public/61), Aug. 15, 1979, [93 Stat. 408](https://www.govinfo.gov/link/statute/93/408); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695); [Pub. L. 100–711, § 8](https://www.govinfo.gov/link/plaw/100/public/711), Nov. 23, 1988, [102 Stat. 4772](https://www.govinfo.gov/link/statute/102/4772); [Pub. L. 101–650, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117); [Pub. L. 102–582, title II, § 201](https://www.govinfo.gov/link/plaw/102/public/582), Nov. 2, 1992, [106 Stat. 4904](https://www.govinfo.gov/link/statute/106/4904); [Pub. L. 106–36, title I, § 1002(d)](https://www.govinfo.gov/link/plaw/106/public/36), June 25, 1999, [113 Stat. 133](https://www.govinfo.gov/link/statute/113/133); [Pub. L. 114–231, title V, § 501](https://www.govinfo.gov/link/plaw/114/public/231), Oct. 7, 2016, [130 Stat. 956](https://www.govinfo.gov/link/statute/130/956).)*

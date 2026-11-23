@@ -3,9 +3,10 @@ title: "Section 6714 - Compliance agreements"
 usc_title: 31
 usc_section: "6714"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 6714"
-generated_at: "2026-03-30T02:55:34.075Z"
+generated_at: "2026-11-23T21:26:10.648Z"
+status: "active"
 ---
 
 # § 6714. Compliance agreements
@@ -18,3 +19,13 @@ generated_at: "2026-03-30T02:55:34.075Z"
   - **(2)** shall cover each matter that has been found not to comply, or would not comply, with section 6711(a) or (b); and
   - **(3)** may be a series of agreements that dispose of those matters.
 - **(c)** The Secretary shall submit a copy of a compliance agreement to each person who filed a complaint referred to in section 6716(b), or, if an agreement under subsection (a)(1), each person who filed a complaint with a governmental authority, about a failure to comply with section 6711(a) or (b). The Secretary shall submit the copy by the 15th day after an agreement is made. However, if the Secretary approves an agreement under subsection (a)(1) after the agreement is made, the Secretary may submit the copy by the 15th day after approval of the agreement.
+
+Types of Compliance Agreements
+
+Contents of Agreements
+
+Availability of Agreements to Parties
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title III, § 31001(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1877](https://www.govinfo.gov/link/statute/108/1877).)*

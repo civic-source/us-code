@@ -3,9 +3,10 @@ title: "Section 525 - Excess personal property for federal agency grantees"
 usc_title: 40
 usc_section: "525"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 525"
-generated_at: "2026-03-30T02:55:43.373Z"
+generated_at: "2026-11-23T21:26:14.788Z"
+status: "active"
 ---
 
 # § 525. Excess personal property for federal agency grantees
@@ -30,3 +31,55 @@ generated_at: "2026-03-30T02:55:43.373Z"
   - **(2)** scientific equipment furnished under section 11(e) of the National Science Foundation Act of 1950 ( 42 U.S.C. 1870(e) );
   - **(3)** property furnished under section 203 of the Department of Agriculture Organic Act of 1944 ( 16 U.S.C. 580a ), in connection with the Cooperative Forest Fire Control Program, if the Government retains title; or
   - **(4)** property furnished in connection with a grant to a tribe, as defined in section 3(c) of the Indian Financing Act of 1974 ( 25 U.S.C. 1452(c) ).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 525(a) | 40:483(d) (words before par. (1)). | June 30, 1949, ch. 288 , title II, § 202(d), as added Pub. L. 94–519, § 3 , Oct. 17, 1976 , 90 Stat. 2454 ; Pub. L. 97–98, title XIV, § 1443 , Dec. 22, 1981 , 95 Stat. 1321 . |
+| 525(b) | 40:483(d)(1). |  |
+| 525(c) | 40:483(d)(2)(E). |  |
+| 525(d) | 40:483(d)(2)(A)–(D). |  |
+
+
+General Prohibition
+
+Exception for Public Agencies and Tax-exempt Nonprofit Organizations.—
+
+In general
+
+Title
+
+Exception for Certain Property Furnished by Secretary of Agriculture.—
+
+Definition
+
+In general
+
+Other Exceptions
+
+Historical and Revision Notes
+
+525(a)
+
+June 30, 1949, ch. 288
+
+Pub. L. 94–519, § 3
+
+Oct. 17, 1976
+
+90 Stat. 2454
+
+Pub. L. 97–98, title XIV, § 1443
+
+Dec. 22, 1981
+
+95 Stat. 1321
+
+525(b)
+
+525(c)
+
+525(d)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1084](https://www.govinfo.gov/link/statute/116/1084).)*

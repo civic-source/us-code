@@ -3,9 +3,10 @@ title: "Section 6921 - Identification and listing of hazardous waste"
 usc_title: 42
 usc_section: "6921"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6921"
-generated_at: "2026-03-30T02:56:11.270Z"
+generated_at: "2026-11-23T21:26:32.996Z"
+status: "active"
 ---
 
 # § 6921. Identification and listing of hazardous waste
@@ -74,3 +75,7 @@ generated_at: "2026-03-30T02:56:11.270Z"
     - **(B)** does not accept hazardous wastes identified or listed under this section, and
   - **(2)** the owner or operator of such facility has established contractual requirements or other appropriate notification or inspection procedures to assure that hazardous wastes are not received at or burned in such facility.
 - **(j)** Not later than every 24 months, the Administrator shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Environment and Public Works of the Senate a report setting forth information collected by the Administrator from law enforcement agencies, States, and other relevant stakeholders that identifies the byproducts of the methamphetamine production process and whether the Administrator considers each of the byproducts to be a hazardous waste pursuant to this section and relevant regulations.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 3001](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2806](https://www.govinfo.gov/link/statute/90/2806); amended [Pub. L. 96–482, § 7](https://www.govinfo.gov/link/plaw/96/public/482), Oct. 21, 1980, [94 Stat. 2336](https://www.govinfo.gov/link/statute/94/2336); [Pub. L. 98–616, title II](https://www.govinfo.gov/link/plaw/98/public/616), §§ 221(a), 222, 223(a), Nov. 8, 1984, [98 Stat. 3248](https://www.govinfo.gov/link/statute/98/3248), 3251, 3252; [Pub. L. 104–119, § 4(1)](https://www.govinfo.gov/link/plaw/104/public/119), Mar. 26, 1996, [110 Stat. 833](https://www.govinfo.gov/link/statute/110/833); [Pub. L. 109–177, title VII, § 742](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 272](https://www.govinfo.gov/link/statute/120/272).)*

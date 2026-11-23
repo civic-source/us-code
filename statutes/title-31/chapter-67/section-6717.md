@@ -3,9 +3,10 @@ title: "Section 6717 - Judicial review"
 usc_title: 31
 usc_section: "6717"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 6717"
-generated_at: "2026-03-30T02:55:34.075Z"
+generated_at: "2026-11-23T21:26:10.648Z"
+status: "active"
 ---
 
 # § 6717. Judicial review
@@ -14,3 +15,15 @@ generated_at: "2026-03-30T02:55:34.075Z"
 - **(b)** The Secretary shall file with the court a record of the proceeding on which the Secretary based the action. The court may consider only objections to the action of the Secretary that were presented before the Secretary.
 - **(c)** The court may affirm, change, or set aside any part of the action of the Secretary. The findings of fact by the Secretary are conclusive if supported by substantial evidence in the record. If a finding is not supported by substantial evidence in the record, the court may remand the case to the Secretary to take additional evidence. Upon such a remand, the Secretary may make new or modified findings and shall certify additional proceedings to the court.
 - **(d)** A judgment of a court under this section may be reviewed only by the Supreme Court under section 1254 of title 28 , United States Code.
+
+Appeals in Federal Court of Appeals
+
+Filing of Record of Administrative Proceeding
+
+Court Action
+
+Review Only by Supreme Court
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title III, § 31001(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1878](https://www.govinfo.gov/link/statute/108/1878).)*

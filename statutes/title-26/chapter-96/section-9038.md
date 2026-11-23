@@ -3,9 +3,10 @@ title: "Section 9038 - Examinations and audits; repayments"
 usc_title: 26
 usc_section: "9038"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 9038"
-generated_at: "2026-03-30T02:55:27.890Z"
+generated_at: "2026-11-23T21:26:07.031Z"
+status: "active"
 ---
 
 # § 9038. Examinations and audits; repayments
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:27.890Z"
   - **(3)** Amounts received by a candidate from the matching payment account may be retained for the liquidation of all obligations to pay qualified campaign expenses incurred for a period not exceeding 6 months after the end of the matching payment period. After all obligations have been liquidated, that portion of any unexpended balance remaining in the candidate’s accounts which bears the same ratio to the total unexpended balance as the total amount received from the matching payment account bears to the total of all deposits made into the candidate’s accounts shall be promptly repaid to the matching payment account.
 - **(c)** No notification shall be made by the Commission under subsection (b) with respect to a matching payment period more than 3 years after the end of such period.
 - **(d)** All payments received by the Secretary under subsection (b) shall be deposited by him in the matching payment account.
+
+## Source Credit
+
+*(Added [Pub. L. 93–443, title IV, § 408(c)](https://www.govinfo.gov/link/plaw/93/public/443), Oct. 15, 1974, [88 Stat. 1300](https://www.govinfo.gov/link/statute/88/1300); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834).)*

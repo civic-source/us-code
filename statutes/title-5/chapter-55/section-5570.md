@@ -3,9 +3,10 @@ title: "Section 5570 - Compensation for disability or death"
 usc_title: 5
 usc_section: "5570"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5570"
-generated_at: "2026-03-30T02:52:56.022Z"
+generated_at: "2026-11-23T21:25:23.288Z"
+status: "active"
 ---
 
 # § 5570. Compensation for disability or death
@@ -23,3 +24,23 @@ generated_at: "2026-03-30T02:52:56.022Z"
 - **(e)** Compensation under this section may include payment (whether by advancement or reimbursement) for any medical or health expenses relating to the death or disability involved to the extent that such expenses are not covered under subsection (c) of section 5569 of this title (other than because of paragraph (2) of such subsection).
 - **(f)** This section applies with respect to any disability or death resulting from an injury which occurs after January 21, 1981 .
 - **(g)** Any benefit or payment pursuant to this section shall be paid out of funds available for salaries and expenses of the relevant agency of the United States.
+
+Presentation Authorized
+
+Request for Flag
+
+Classified Information
+
+Employee Notification of Flag Benefit
+
+Regulations
+
+Definitions
+
+Employee
+
+Executive agency
+
+## Source Credit
+
+*(Added [Pub. L. 99–399, title VIII, § 803(a)](https://www.govinfo.gov/link/plaw/99/public/399), Aug. 27, 1986, [100 Stat. 882](https://www.govinfo.gov/link/statute/100/882).)*

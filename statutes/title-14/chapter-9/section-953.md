@@ -3,9 +3,10 @@ title: "Section 953 - Support for Coast Guard Academy"
 usc_title: 14
 usc_section: "953"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 953"
-generated_at: "2026-03-30T02:53:51.492Z"
+generated_at: "2026-11-23T21:25:35.393Z"
+status: "active"
 ---
 
 # § 953. Support for Coast Guard Academy
@@ -48,3 +49,61 @@ generated_at: "2026-03-30T02:53:51.492Z"
   - **(1)** that operates as an organization under subsection (c)(3) of section 501 of the Internal Revenue Code of 1986 and exempt from taxation under subsection (a) of that section;
   - **(2)** for which authorization under sections 1033(a) and 1589(a) of title 10 may be provided; and
   - **(3)** established by the Coast Guard Academy Alumni Association solely for the purpose of supporting Coast Guard athletics.
+
+Authority.—
+
+Contracts and cooperative agreements.—
+
+In general
+
+Authority
+
+Acquisitions
+
+Financial controls.—
+
+In general
+
+Contents
+
+Leases
+
+Support Services.—
+
+Authority
+
+No liability of the united states
+
+Support services defined
+
+Transfers From Nonappropriated Fund Operation.—
+
+In general
+
+Limitation
+
+Acceptance of Support From Qualified Organization.—
+
+In general
+
+Employees of qualified organization
+
+Funds received from ncaa
+
+Limitation
+
+Trademarks and Service Marks.—
+
+Licensing, marketing, and sponsorship agreements
+
+Limitations
+
+Retention and Use of Funds
+
+Conditions
+
+Qualified Organization Defined
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. K, title CXII, § 11250(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4049](https://www.govinfo.gov/link/statute/136/4049).)*

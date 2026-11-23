@@ -3,9 +3,10 @@ title: "Section 1375b - Protections for domestic workers and other nonimmigrants
 usc_title: 8
 usc_section: "1375b"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1375b"
-generated_at: "2026-03-30T02:53:10.499Z"
+generated_at: "2026-11-23T21:25:25.188Z"
+status: "active"
 ---
 
 # § 1375b. Protections for domestic workers and other nonimmigrants
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:53:10.499Z"
   - **(2)** The term “severe forms of trafficking in persons” has the meaning given the term in section 7102 of title 22 .
   - **(3)** The term “Secretary” means the Secretary of State.
   - **(4)** The term “abusing and exploiting” means any conduct which would constitute a violation of section 1466A, 1589, 1591, 1592, 2251, or 2251A of title 18.
+
+## Source Credit
+
+*([Pub. L. 110–457, title II, § 202](https://www.govinfo.gov/link/plaw/110/public/457), Dec. 23, 2008, [122 Stat. 5055](https://www.govinfo.gov/link/statute/122/5055); [Pub. L. 113–4, title XII, § 1206](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 140](https://www.govinfo.gov/link/statute/127/140).)*

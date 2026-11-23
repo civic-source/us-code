@@ -3,9 +3,10 @@ title: "Section 11101 - Findings"
 usc_title: 42
 usc_section: "11101"
 chapter: 117
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11101"
-generated_at: "2026-03-30T02:56:11.395Z"
+generated_at: "2026-11-23T21:26:33.398Z"
+status: "active"
 ---
 
 # § 11101. Findings
@@ -17,3 +18,7 @@ The Congress finds the following:
   - **(3)** This nationwide problem can be remedied through effective professional peer review.
   - **(4)** The threat of private money damage liability under Federal laws, including treble damage liability under Federal antitrust law, unreasonably discourages physicians from participating in effective professional peer review.
   - **(5)** There is an overriding national need to provide incentive and protection for physicians engaging in effective professional peer review.
+
+## Source Credit
+
+*([Pub. L. 99–660, title IV, § 402](https://www.govinfo.gov/link/plaw/99/public/660), Nov. 14, 1986, [100 Stat. 3784](https://www.govinfo.gov/link/statute/100/3784).)*

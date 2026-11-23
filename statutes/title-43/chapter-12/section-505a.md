@@ -3,9 +3,10 @@ title: "Section 505a - Definitions"
 usc_title: 43
 usc_section: "505a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 505a"
-generated_at: "2026-03-30T02:55:57.453Z"
+generated_at: "2026-11-23T21:26:19.787Z"
+status: "active"
 ---
 
 # § 505a. Definitions
@@ -21,3 +22,7 @@ In sections 505a to 505a–2 of this title:
     - **(A)** the annual plan prepared by the Bureau known as the “Asset Management Plan”; and
     - **(B)** any publicly available information relating to the plan described in subparagraph (A) that summarizes the efforts of the Bureau to evaluate and manage infrastructure assets of the Bureau.
   - **(3)** The term “major repair and rehabilitation need” means major nonrecurring maintenance at a Reclamation facility, including maintenance related to the safety of dams, extraordinary maintenance of dams, deferred major maintenance activities, and all other significant repairs and extraordinary maintenance.
+
+## Source Credit
+
+*([Pub. L. 116–9, title VIII, § 8601](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 827](https://www.govinfo.gov/link/statute/133/827).)*

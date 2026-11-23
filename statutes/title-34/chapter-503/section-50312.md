@@ -3,9 +3,10 @@ title: "Section 50312 - Nominations"
 usc_title: 34
 usc_section: "50312"
 chapter: 503
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 50312"
-generated_at: "2026-03-30T02:55:33.315Z"
+generated_at: "2026-11-23T21:26:09.852Z"
+status: "active"
 ---
 
 # § 50312. Nominations
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:33.315Z"
   - **(6)** the field office address of the nominee on the date when such nominee performed the act of bravery described in subsection (a); and
   - **(7)** the number of years of Government service by the nominee as of the date when such nominee performed the act of bravery described in subsection (a).
 - **(c)** A Federal agency head shall submit each nomination under subsection (a) to the Office not later than February 15 of the year following the date on which the nominee performed the act of bravery described in subsection (a).
+
+## Source Credit
+
+*([Pub. L. 110–298, title I, § 102](https://www.govinfo.gov/link/plaw/110/public/298), July 31, 2008, [122 Stat. 2986](https://www.govinfo.gov/link/statute/122/2986).)*

@@ -3,9 +3,10 @@ title: "Section 1356b - Transboundary hydrocarbon agreements"
 usc_title: 43
 usc_section: "1356b"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1356b"
-generated_at: "2026-03-30T02:55:57.473Z"
+generated_at: "2026-11-23T21:26:19.836Z"
+status: "active"
 ---
 
 # § 1356b. Transboundary hydrocarbon agreements
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:57.473Z"
 - **(d)** Nothing in this section shall be construed—
   - **(1)** to authorize the Secretary to participate in any negotiations, conferences, or consultations with Cuba regarding exploration, development, or production of hydrocarbon resources in the Gulf of Mexico along the United States maritime border with Cuba or the area known by the Department of the Interior as the “Eastern Gap”; or
   - **(2)** as affecting the sovereign rights and the jurisdiction that the United States has under international law over the Outer Continental Shelf that appertains to it.
+
+## Source Credit
+
+*(Aug. 7, 1953, ch. 345, § 32, as added [Pub. L. 113–67, div. A, title III, § 304](https://www.govinfo.gov/link/plaw/113/public/67), Dec. 26, 2013, [127 Stat. 1182](https://www.govinfo.gov/link/statute/127/1182).)*

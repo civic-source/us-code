@@ -3,9 +3,10 @@ title: "Section 280g - Children’s asthma treatment grants program"
 usc_title: 42
 usc_section: "280g"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 280g"
-generated_at: "2026-03-30T02:56:10.728Z"
+generated_at: "2026-11-23T21:26:30.420Z"
+status: "active"
 ---
 
 # § 280g. Children’s asthma treatment grants program
@@ -76,3 +77,19 @@ generated_at: "2026-03-30T02:56:10.728Z"
       - **(ii)** who has received training in the administration of epinephrine; and
       - **(iii)** whose training in the administration of epinephrine meets appropriate medical standards and has been documented by appropriate administrative staff of the school.
 - **(e)** For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
+
+(aa) a method to identify all students of such school with a diagnosis of allergies and asthma;
+
+(bb) an individual student allergies and asthma action plan for each student of such school with a diagnosis of allergies and asthma;
+
+(cc) allergies and asthma education for school staff who are directly responsible for students who have been identified as having allergies or asthma, such as education regarding basics, management, trigger management, and comprehensive emergency responses with respect to allergies and asthma;
+
+(dd) efforts to reduce the presence of environmental triggers of allergies and asthma; and
+
+(ee) a system to support students with a diagnosis of allergies or asthma through coordination with family members of such students, primary care providers of such students, primary asthma or allergy care providers of such students, and others as necessary.
+
+“The Congress finds the following:
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 399L, as added [Pub. L. 106–310, div. A, title V, § 501](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1113](https://www.govinfo.gov/link/statute/114/1113); amended [Pub. L. 108–377, § 3(a)](https://www.govinfo.gov/link/plaw/108/public/377), Oct. 30, 2004, [118 Stat. 2203](https://www.govinfo.gov/link/statute/118/2203); [Pub. L. 113–48, § 2](https://www.govinfo.gov/link/plaw/113/public/48), Nov. 13, 2013, [127 Stat. 575](https://www.govinfo.gov/link/statute/127/575); [Pub. L. 114–95, title IX, § 9215(kkk)(2)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2187](https://www.govinfo.gov/link/statute/129/2187); [Pub. L. 116–292, § 2](https://www.govinfo.gov/link/plaw/116/public/292), Jan. 5, 2021, [134 Stat. 4896](https://www.govinfo.gov/link/statute/134/4896).)*

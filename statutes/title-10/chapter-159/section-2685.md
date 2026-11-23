@@ -3,9 +3,10 @@ title: "Section 2685 - Adjustment of or surcharge on selling prices in commissar
 usc_title: 10
 usc_section: "2685"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2685"
-generated_at: "2026-03-30T02:53:38.170Z"
+generated_at: "2026-11-23T21:25:32.652Z"
+status: "active"
 ---
 
 # § 2685. Adjustment of or surcharge on selling prices in commissary stores to provide funds for construction and improvement of commissary store facilities
@@ -26,3 +27,17 @@ generated_at: "2026-03-30T02:53:38.170Z"
   - **(3)** License fees.
   - **(4)** Royalties.
   - **(5)** Fees paid by sources of products in order to obtain favorable display of the products for resale, known as business related management fees.
+
+Adjustment or Surcharge Authorized
+
+Use for Construction, Repair, Improvement, and Maintenance
+
+Advance Obligation
+
+Cooperation With Nonappropriated Fund Instrumentalities
+
+Other Sources of Funds for Construction and Improvements
+
+## Source Credit
+
+*(Added [Pub. L. 93–552, title VI, § 611](https://www.govinfo.gov/link/plaw/93/public/552), Dec. 27, 1974, [88 Stat. 1765](https://www.govinfo.gov/link/statute/88/1765); amended [Pub. L. 95–82, title VI, § 614](https://www.govinfo.gov/link/plaw/95/public/82), Aug. 1, 1977, [91 Stat. 380](https://www.govinfo.gov/link/statute/91/380); [Pub. L. 97–321, title VIII, § 804](https://www.govinfo.gov/link/plaw/97/public/321), Oct. 15, 1982, [96 Stat. 1572](https://www.govinfo.gov/link/statute/96/1572); [Pub. L. 103–337, div. B, title XXVIII, § 2851](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 3072](https://www.govinfo.gov/link/statute/108/3072); [Pub. L. 105–85, div. A, title III, § 374](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1707](https://www.govinfo.gov/link/statute/111/1707); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title III, § 333(a), (b)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–60.)*

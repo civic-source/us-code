@@ -3,9 +3,10 @@ title: "Section 508 - Special rules with respect to section 501(c)(3) organizati
 usc_title: 26
 usc_section: "508"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 508"
-generated_at: "2026-03-30T02:55:27.712Z"
+generated_at: "2026-11-23T21:26:06.313Z"
+status: "active"
 ---
 
 # § 508. Special rules with respect to section 501(c)(3) organizations
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:27.712Z"
     - **(A)** to any period after December 31, 1971 , during the pendency of any judicial proceeding begun before January 1, 1972 , by the private foundation which is necessary to reform, or to excuse such foundation from compliance with, its governing instrument or any other instrument in order to meet the requirements of paragraph (1), and
     - **(B)** to any period after the termination of any judicial proceeding described in subparagraph (A) during which its governing instrument or any other instrument does not permit it to meet the requirements of paragraph (1).
 - **(f)** A sponsoring organization (as defined in section 4966(d)(1)) shall give notice to the Secretary (in such manner as the Secretary may provide) whether such organization maintains or intends to maintain donor advised funds (as defined in section 4966(d)(2)) and the manner in which such organization plans to operate such funds.
+
+## Source Credit
+
+*(Added [Pub. L. 91–172, title I, § 101(a)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 494](https://www.govinfo.gov/link/statute/83/494); amended [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(a)(71), (b)(8)(E), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1776](https://www.govinfo.gov/link/statute/90/1776), 1794, 1834; [Pub. L. 108–357, title IV, § 413(c)(30)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1509](https://www.govinfo.gov/link/statute/118/1509); [Pub. L. 109–280, title XII, § 1235(b)(1)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1101](https://www.govinfo.gov/link/statute/120/1101).)*

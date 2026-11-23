@@ -3,12 +3,17 @@ title: "Section 468 - Withdrawal of notice given and modification of application
 usc_title: 43
 usc_section: "468"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 468"
-generated_at: "2026-03-30T02:55:57.450Z"
+generated_at: "2026-11-23T21:26:19.783Z"
+status: "active"
 ---
 
 # § 468. Withdrawal of notice given and modification of applications and contracts made prior to February 13, 1911
 
 The Secretary of the Interior may, in his discretion, withdraw any public notice issued prior to February 13, 1911 , under section 419 of this title , and he may agree to such modification of water-right applications duly filed prior to February 13, 1911 , or contracts with water users’ associations and others, entered into prior to February 13, 1911 , as he may deem advisable, or he may consent to the abrogation of such water-right applications and contracts, and proceed in all respects as if no such notice has been given.
 
+
+## Source Credit
+
+*(Feb. 13, 1911, ch. 49, [36 Stat. 902](https://www.govinfo.gov/link/statute/36/902).)*

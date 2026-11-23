@@ -3,12 +3,17 @@ title: "Section 5129 - Definitions"
 usc_title: 25
 usc_section: "5129"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5129"
-generated_at: "2026-03-30T02:54:52.864Z"
+generated_at: "2026-11-23T21:25:54.719Z"
+status: "active"
 ---
 
 # § 5129. Definitions
 
 The term “Indian” as used in this Act shall include all persons of Indian descent who are members of any recognized Indian tribe now under Federal jurisdiction, and all persons who are descendants of such members who were, on June 1, 1934 , residing within the present boundaries of any Indian reservation, and shall further include all other persons of one-half or more Indian blood. For the purposes of this Act, Eskimos and other aboriginal peoples of Alaska shall be considered Indians. The term “tribe” wherever used in this Act shall be construed to refer to any Indian tribe, organized band, pueblo, or the Indians residing on one reservation. The words “adult Indians” wherever used in this Act shall be construed to refer to Indians who have attained the age of twenty-one years.
 
+
+## Source Credit
+
+*(June 18, 1934, ch. 576, § 19, [48 Stat. 988](https://www.govinfo.gov/link/statute/48/988).)*

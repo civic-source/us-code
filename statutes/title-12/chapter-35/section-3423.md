@@ -3,9 +3,10 @@ title: "Section 3423 - Immunity from suit for disclosure of financial exploitati
 usc_title: 12
 usc_section: "3423"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3423"
-generated_at: "2026-03-30T02:53:53.496Z"
+generated_at: "2026-11-23T21:25:37.142Z"
+status: "active"
 ---
 
 # § 3423. Immunity from suit for disclosure of financial exploitation of senior citizens
@@ -77,3 +78,13 @@ generated_at: "2026-03-30T02:53:53.496Z"
         - **(II)** has completed the training under paragraph (1), regardless of whether the training was—
       - **(ii)** upon request, provide a record described in clause (i) to a covered agency with examination authority over the covered financial institution.
 - **(c)** Nothing in this section shall be construed to preempt or limit any provision of State law, except only to the extent that subsection (a) provides a greater level of protection against liability to an individual described in subsection (a)(2)(A) or to a covered financial institution described in subsection (a)(2)(B) than is provided under State law.
+
+(aa) provided by the covered financial institution or a third party selected by the covered financial institution;
+
+(bb) completed before the individual was employed by, or affiliated or associated with, the covered financial institution; and
+
+(cc) completed before, on, or after May 24, 2018 ; and
+
+## Source Credit
+
+*([Pub. L. 115–174, title III, § 303](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1335](https://www.govinfo.gov/link/statute/132/1335).)*

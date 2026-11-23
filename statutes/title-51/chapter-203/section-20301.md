@@ -3,9 +3,10 @@ title: "Section 20301 - General responsibilities"
 usc_title: 51
 usc_section: "20301"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 20301"
-generated_at: "2026-03-30T02:56:28.704Z"
+generated_at: "2026-11-23T21:26:42.531Z"
+status: "active"
 ---
 
 # § 20301. General responsibilities
@@ -26,3 +27,232 @@ generated_at: "2026-03-30T02:56:28.704Z"
     - **(C)** using commercially available products (including software) and services to the extent practicable to support all Administration activities; and
     - **(D)** encouraging commercial use and development of space to the greatest extent practicable; and
   - **(3)** involve other nations to the extent appropriate.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 20301 | 42 U.S.C. 16611(a) . | Pub. L. 109–155, title I, § 101(a) , Dec. 30, 2005 , 119 Stat. 2897 . |
+
+
+Programs
+
+Consultation and Coordination
+
+Historical and Revision Notes
+
+20301
+
+42 U.S.C. 16611(a)
+
+Pub. L. 109–155, title I, § 101(a)
+
+Dec. 30, 2005
+
+119 Stat. 2897
+
+Improved Process for Yield Determination
+
+Report
+
+Definitions
+
+Exploration Ground Systems Infrastructure
+
+Flight Rate and Safety
+
+Mobile Launch Platform.—
+
+In general
+
+Second mobile launch platform.—
+
+In general
+
+Requirement
+
+Reports
+
+Exploration Upper Stage.—
+
+In general
+
+Briefing
+
+Main Propulsion Test Article
+
+In General
+
+Projects
+
+Requirements
+
+Rule of Construction
+
+Working Capital Fund Study.—
+
+In general
+
+Matters to be included
+
+Sense of Congress
+
+Program Continuation.—
+
+In general
+
+Element
+
+Coordination with life sciences program
+
+Instrumentation and sensor technology
+
+Technosignatures
+
+Nuclear Propulsion.—
+
+Use in robotic and human exploration activities
+
+Space nuclear propulsion program.—
+
+In general
+
+Elements
+
+Plan.—
+
+In general
+
+Elements
+
+Nuclear Surface Power Program.—
+
+Establishment
+
+Plan.—
+
+In general
+
+Submission
+
+Assessment of In-space Propulsion Testing Facilities.—
+
+In general
+
+Element
+
+Report
+
+In General
+
+Interagency Collaboration
+
+Report on Nuclear Technology Prioritization
+
+Findings
+
+Space Launch System.—
+
+Sense of congress
+
+Reaffirmation
+
+Sense of Congress on Space Launch System, Orion, and Exploration Ground Systems
+
+In General
+
+Report.—
+
+In general
+
+Contents
+
+Exploration Missions
+
+Other Uses
+
+Utilization Report.—
+
+In general
+
+Contents
+
+Submission to congress
+
+Sense of Congress on Science Portfolio
+
+Policy
+
+Findings
+
+Mission Priorities.—
+
+In general
+
+Mission priority adjustments
+
+Strategy
+
+In general
+
+Requirements
+
+Use of Strategy
+
+Report to Congress
+
+Strategy.—
+
+In general
+
+Recommendations
+
+Use of Strategy
+
+Report to Congress
+
+Sense of Congress on Space Technology
+
+Sense of Congress on Propulsion Technology
+
+Policy
+
+Propulsion Technologies
+
+Space Technology Program Authorized
+
+Considerations
+
+Requirements
+
+Small Business Programs
+
+Nonduplication Certification
+
+Collaboration, Coordination, and Alignment.—
+
+In general
+
+Sense of congress
+
+Report
+
+Annual Report
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3355](https://www.govinfo.gov/link/statute/124/3355).)*

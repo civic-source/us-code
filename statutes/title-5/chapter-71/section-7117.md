@@ -3,9 +3,10 @@ title: "Section 7117 - Duty to bargain in good faith; compelling need; duty to c
 usc_title: 5
 usc_section: "7117"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 7117"
-generated_at: "2026-03-30T02:52:56.035Z"
+generated_at: "2026-11-23T21:25:23.335Z"
+status: "active"
 ---
 
 # § 7117. Duty to bargain in good faith; compelling need; duty to consult
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:52:56.035Z"
   - **(3)** If any views or recommendations are presented under paragraph (2) of this subsection to an agency by any labor organization—
     - **(A)** the agency shall consider the views or recommendations before taking final action on any matter with respect to which the views or recommendations are presented; and
     - **(B)** the agency shall provide the labor organization a written statement of the reasons for taking the final action.
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title VII, § 701](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1205](https://www.govinfo.gov/link/statute/92/1205).)*

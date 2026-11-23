@@ -3,9 +3,10 @@ title: "Section 47 - Use of aircraft or motor vehicles to hunt certain wild hors
 usc_title: 18
 usc_section: "47"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 47"
-generated_at: "2026-03-30T02:54:16.457Z"
+generated_at: "2026-11-23T21:25:43.939Z"
+status: "active"
 ---
 
 # § 47. Use of aircraft or motor vehicles to hunt certain wild horses or burros; pollution of watering holes
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:16.457Z"
 - **(c)** As used in subsection (a) of this section—
   - **(1)** The term “aircraft” means any contrivance used for flight in the air; and
   - **(2)** The term “motor vehicle” includes an automobile, automobile truck, automobile wagon, motorcycle, or any other self-propelled vehicle designed for running on land.
+
+## Source Credit
+
+*(Added [Pub. L. 86–234, § 1(a)](https://www.govinfo.gov/link/plaw/86/public/234), Sept. 8, 1959, [73 Stat. 470](https://www.govinfo.gov/link/statute/73/470); amended [Pub. L. 103–322, title XXXIII, § 330016(1)(G)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2147](https://www.govinfo.gov/link/statute/108/2147).)*

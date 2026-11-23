@@ -3,9 +3,10 @@ title: "Section 114 - Scope of exclusive rights in sound recordings"
 usc_title: 17
 usc_section: "114"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 114"
-generated_at: "2026-03-30T02:54:15.346Z"
+generated_at: "2026-11-23T21:25:41.693Z"
+status: "active"
 ---
 
 # § 114. Scope of exclusive rights in sound recordings
@@ -171,3 +172,97 @@ generated_at: "2026-03-30T02:54:15.346Z"
       - **(ii)** from any set or compilation of phonorecords lawfully distributed together as a unit for public performance or sale in the United States,
   - **(14)** A “subscription” transmission is a transmission that is controlled and limited to particular recipients, and for which consideration is required to be paid or otherwise given by or on behalf of the recipient to receive the transmission or a package of transmissions including the transmission.
   - **(15)** A “transmission” is either an initial transmission or a retransmission.
+
+Limitations on Exclusive Right
+
+Exempt transmissions and retransmissions
+
+Statutory licensing of certain transmissions
+
+(aa) in digital format that regularly exceed the sound recording performance complement; or
+
+(bb) in analog format, a substantial portion of which, on a weekly basis, exceed the sound recording performance complement; and
+
+(aa) more than 3 times in any 2-week period that have been publicly announced in advance, in the case of a program of less than 1 hour in duration, or
+
+(bb) more than 4 times in any 2-week period that have been publicly announced in advance, in the case of a program of 1 hour or more in duration,
+
+Licenses for transmissions by interactive services.—
+
+Rights not otherwise limited.—
+
+Authority for Negotiations.—
+
+Licenses for Certain Nonexempt Transmissions.—
+
+Proceeds From Licensing of Transmissions.—
+
+Letter of direction.—
+
+In general
+
+Acceptance of letter
+
+Authority of collective
+
+Sound recordings fixed before november 1, 1995 .—
+
+Payment absent letter of direction
+
+Certification of attempt to obtain a letter of direction
+
+Collective attempt to contact artist
+
+No objection received
+
+Eligibility for payment
+
+Multiple certifications
+
+Objection to payment
+
+Ownership of the right to receive payments
+
+Artist payee defined
+
+Preemption of state property laws
+
+Licensing to Affiliates.—
+
+Definitions
+
+In General
+
+Delayed Effective Date
+
+Use in Musical Work Proceedings.—
+
+In general
+
+Definitions
+
+Transmission by a broadcaster
+
+Terrestrial broadcast station
+
+Rule of Construction
+
+“Congress finds the following:
+
+“Congress finds that—
+
+Noncommercial Webcasters.—
+
+In general
+
+Definition
+
+Small Commercial Webcasters.—
+
+In general
+
+Definitions
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2560](https://www.govinfo.gov/link/statute/90/2560); [Pub. L. 104–39, § 3](https://www.govinfo.gov/link/plaw/104/public/39), Nov. 1, 1995, [109 Stat. 336](https://www.govinfo.gov/link/statute/109/336); [Pub. L. 105–80, § 3](https://www.govinfo.gov/link/plaw/105/public/80), Nov. 13, 1997, [111 Stat. 1531](https://www.govinfo.gov/link/statute/111/1531); [Pub. L. 105–304, title IV, § 405(a)(1)](https://www.govinfo.gov/link/plaw/105/public/304) –(4), Oct. 28, 1998, [112 Stat. 2890–2897](https://www.govinfo.gov/link/statute/112/2890); [Pub. L. 107–321](https://www.govinfo.gov/link/plaw/107/public/321), §§ 4, 5(b), (c), Dec. 4, 2002, [116 Stat. 2781](https://www.govinfo.gov/link/statute/116/2781), 2784; [Pub. L. 108–419, § 5(c)](https://www.govinfo.gov/link/plaw/108/public/419), Nov. 30, 2004, [118 Stat. 2362](https://www.govinfo.gov/link/statute/118/2362); [Pub. L. 109–303, § 4(b)](https://www.govinfo.gov/link/plaw/109/public/303), Oct. 6, 2006, [120 Stat. 1481](https://www.govinfo.gov/link/statute/120/1481); [Pub. L. 110–435, § 2](https://www.govinfo.gov/link/plaw/110/public/435), Oct. 16, 2008, [122 Stat. 4974](https://www.govinfo.gov/link/statute/122/4974); [Pub. L. 111–36, § 2](https://www.govinfo.gov/link/plaw/111/public/36), June 30, 2009, [123 Stat. 1926](https://www.govinfo.gov/link/statute/123/1926); [Pub. L. 111–295](https://www.govinfo.gov/link/plaw/111/public/295), §§ 5(c), 6(b), (f)(1), Dec. 9, 2010, [124 Stat. 3181](https://www.govinfo.gov/link/statute/124/3181); [Pub. L. 115–264, title I, § 103(a)](https://www.govinfo.gov/link/plaw/115/public/264), (b), (g)(1), title III, § 302, Oct. 11, 2018, [132 Stat. 3723–3725](https://www.govinfo.gov/link/statute/132/3723), 3737.)*

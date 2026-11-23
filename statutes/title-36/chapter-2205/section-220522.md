@@ -3,9 +3,10 @@ title: "Section 220522 - Eligibility requirements"
 usc_title: 36
 usc_section: "220522"
 chapter: 2205
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 220522"
-generated_at: "2026-03-30T02:55:44.710Z"
+generated_at: "2026-11-23T21:26:13.750Z"
+status: "active"
 ---
 
 # § 220522. Eligibility requirements
@@ -58,3 +59,24 @@ An amateur sports organization, a high-performance management organization, or a
       - **(ii)** the amounts expended on stipends, bonuses, and services for amateur athletes, organized by the level and gender of the amateur athletes;
   - **(18)** commits to meeting any minimum standard or requirement set forth by the corporation; and
   - **(19)** provides protection from retaliation to protected individuals.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 220522 | 36:391(b), (c). | Sept. 21, 1950, ch. 975 , title II, § 201(b), (c), as added Nov. 8, 1978 , Pub. L. 95–606, § 2 , 92 Stat. 3050 . |
+
+
+Historical and Revision Notes
+
+220522
+
+Sept. 21, 1950, ch. 975
+
+Nov. 8, 1978
+
+Pub. L. 95–606, § 2
+
+92 Stat. 3050
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1471](https://www.govinfo.gov/link/statute/112/1471); [Pub. L. 105–277, div. C, title I, § 142(m)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–607](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 116–189, § 7(a)(2)(A)(iii)](https://www.govinfo.gov/link/plaw/116/public/189), (b), Oct. 30, 2020, [134 Stat. 956](https://www.govinfo.gov/link/statute/134/956), 958.)*

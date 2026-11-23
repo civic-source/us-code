@@ -3,9 +3,10 @@ title: "Section 7408 - Actions to enjoin specified conduct related to tax shelte
 usc_title: 26
 usc_section: "7408"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7408"
-generated_at: "2026-03-30T02:55:27.870Z"
+generated_at: "2026-11-23T21:26:06.953Z"
+status: "active"
 ---
 
 # § 7408. Actions to enjoin specified conduct related to tax shelters and reportable transactions
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:27.870Z"
   - **(1)** subject to penalty under section 6700, 6701, 6707, or 6708, or
   - **(2)** in violation of any requirement under regulations issued under section 330 of title 31 , United States Code.
 - **(d)** If any citizen or resident of the United States does not reside in, and does not have his principal place of business in, any United States judicial district, such citizen or resident shall be treated for purposes of this section as residing in the District of Columbia.
+
+## Source Credit
+
+*(Added [Pub. L. 97–248, title III, § 321(a)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 612](https://www.govinfo.gov/link/statute/96/612); amended [Pub. L. 98–369, div. A, title I, § 143(b)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 682](https://www.govinfo.gov/link/statute/98/682); [Pub. L. 108–357, title VIII, § 820(a)](https://www.govinfo.gov/link/plaw/108/public/357), (b)(1), Oct. 22, 2004, [118 Stat. 1585](https://www.govinfo.gov/link/statute/118/1585).)*

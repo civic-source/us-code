@@ -3,12 +3,17 @@ title: "Section 1425 - Ineligibility to naturalization of deserters from the Arm
 usc_title: 8
 usc_section: "1425"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1425"
-generated_at: "2026-03-30T02:53:10.500Z"
+generated_at: "2026-11-23T21:25:25.192Z"
+status: "active"
 ---
 
 # § 1425. Ineligibility to naturalization of deserters from the Armed Forces
 
 A person who, at any time during which the United States has been or shall be at war, deserted or shall desert the military, air, or naval forces of the United States, or who, having been duly enrolled, departed, or shall depart from the jurisdiction of the district in which enrolled, or who, whether or not having been duly enrolled, went or shall go beyond the limits of the United States, with intent to avoid any draft into the military, air, or naval service, lawfully ordered, shall, upon conviction thereof by a court martial or a court of competent jurisdiction, be permanently ineligible to become a citizen of the United States; and such deserters and evaders shall be forever incapable of holding any office of trust or of profit under the United States, or of exercising any rights of citizens thereof.
 
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title III, ch. 2, § 314, [66 Stat. 241](https://www.govinfo.gov/link/statute/66/241).)*

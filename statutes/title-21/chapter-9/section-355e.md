@@ -3,9 +3,10 @@ title: "Section 355e - Pharmaceutical security"
 usc_title: 21
 usc_section: "355e"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 355e"
-generated_at: "2026-03-30T02:54:54.239Z"
+generated_at: "2026-11-23T21:25:56.049Z"
+status: "active"
 ---
 
 # § 355e. Pharmaceutical security
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:54.239Z"
   - **(1)** The Secretary shall expand and enhance the resources and facilities of agency components of the Food and Drug Administration involved with regulatory and criminal enforcement of this chapter to secure the drug supply chain against counterfeit, diverted, subpotent, substandard, adulterated, misbranded, or expired drugs including biological products and active pharmaceutical ingredients from domestic and foreign sources.
   - **(2)** The Secretary shall undertake enhanced and joint enforcement activities with other Federal and State agencies, and establish regional capacities for the validation of prescription drugs and the inspection of the prescription drug supply chain.
 - **(d)** In this section, the term “prescription drug” means a drug subject to section 353(b)(1) of this title .
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 505D, as added [Pub. L. 110–85, title IX, § 913](https://www.govinfo.gov/link/plaw/110/public/85), Sept. 27, 2007, [121 Stat. 952](https://www.govinfo.gov/link/statute/121/952).)*

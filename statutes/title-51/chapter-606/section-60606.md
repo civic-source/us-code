@@ -3,9 +3,10 @@ title: "Section 60606 - Space weather knowledge transfer and information exchang
 usc_title: 51
 usc_section: "60606"
 chapter: 606
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 60606"
-generated_at: "2026-03-30T02:56:28.713Z"
+generated_at: "2026-11-23T21:26:42.565Z"
+status: "active"
 ---
 
 # § 60606. Space weather knowledge transfer and information exchange
@@ -15,3 +16,7 @@ Not later than 180 days after the date of enactment of the PROSWIFT Act, the Adm
   - **(1)** facilitate advances in space weather prediction and forecasting;
   - **(2)** increase coordination of space weather research to operations and operations to research; and
   - **(3)** improve preparedness for potential space weather phenomena.
+
+## Source Credit
+
+*([Pub. L. 116–181, § 2(b)](https://www.govinfo.gov/link/plaw/116/public/181), Oct. 21, 2020, [134 Stat. 891](https://www.govinfo.gov/link/statute/134/891).)*

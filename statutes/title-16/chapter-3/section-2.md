@@ -3,9 +3,10 @@ title: "Section 2 - National Forest System Trails Volunteer and Partnership Stra
 usc_title: 16
 usc_section: "2"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T02:54:22.881Z"
+generated_at: "2026-11-23T21:25:51.684Z"
+status: "active"
 ---
 
 # § 583k–2. National Forest System Trails Volunteer and Partnership Strategy
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:22.881Z"
   - **(2)** Not later than 3 years after November 28, 2016 , the Secretary shall submit the report required by paragraph (1) to—
     - **(A)** the Committee on Agriculture, Nutrition, and Forestry and the Committee on Energy and Natural Resources of the Senate; and
     - **(B)** the Committee on Agriculture and the Committee on Natural Resources of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 114–245, § 4](https://www.govinfo.gov/link/plaw/114/public/245), Nov. 28, 2016, [130 Stat. 991](https://www.govinfo.gov/link/statute/130/991).)*

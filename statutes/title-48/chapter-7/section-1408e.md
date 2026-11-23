@@ -3,12 +3,17 @@ title: "Section 1408e - Additional powers"
 usc_title: 48
 usc_section: "1408e"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1408e"
-generated_at: "2026-03-30T02:56:14.584Z"
+generated_at: "2026-11-23T21:26:37.990Z"
+status: "active"
 ---
 
 # § 1408e. Additional powers
 
 Powers granted in this Act shall be in addition to and not in derogation of any powers granted by other law to or for the benefit or assistance of any public corporate authority or municipality.
 
+
+## Source Credit
+
+*(July 18, 1950, ch. 466, title III, § 306, [64 Stat. 347](https://www.govinfo.gov/link/statute/64/347).)*

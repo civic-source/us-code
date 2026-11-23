@@ -3,9 +3,10 @@ title: "Section 1738A - Full faith and credit given to child custody determinati
 usc_title: 28
 usc_section: "1738A"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1738A"
-generated_at: "2026-03-30T02:55:30.144Z"
+generated_at: "2026-11-23T21:26:01.102Z"
+status: "active"
 ---
 
 # § 1738A. Full faith and credit given to child custody determinations
@@ -38,3 +39,15 @@ generated_at: "2026-03-30T02:55:30.144Z"
   - **(2)** the court of the other State no longer has jurisdiction, or it has declined to exercise such jurisdiction to modify such determination.
 - **(g)** A court of a State shall not exercise jurisdiction in any proceeding for a custody or visitation determination commenced during the pendency of a proceeding in a court of another State where such court of that other State is exercising jurisdiction consistently with the provisions of this section to make a custody or visitation determination.
 - **(h)** A court of a State may not modify a visitation determination made by a court of another State unless the court of the other State no longer has jurisdiction to modify such determination or has declined to exercise jurisdiction to modify such determination.
+
+In General
+
+Sufficiency of Defenses
+
+Authorization of Appropriations
+
+“In furtherance of the purposes of section 1738A of title 28 , United States Code, as added by subsection (a) of this section, State courts are encouraged to—
+
+## Source Credit
+
+*(Added [Pub. L. 96–611, § 8(a)](https://www.govinfo.gov/link/plaw/96/public/611), Dec. 28, 1980, [94 Stat. 3569](https://www.govinfo.gov/link/statute/94/3569); amended [Pub. L. 105–374, § 1](https://www.govinfo.gov/link/plaw/105/public/374), Nov. 12, 1998, [112 Stat. 3383](https://www.govinfo.gov/link/statute/112/3383); [Pub. L. 106–386, div. B, title III, § 1303(d)](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1512](https://www.govinfo.gov/link/statute/114/1512).)*

@@ -3,9 +3,10 @@ title: "Section 8412 - Authorization of appropriations"
 usc_title: 22
 usc_section: "8412"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8412"
-generated_at: "2026-03-30T02:55:05.450Z"
+generated_at: "2026-11-23T21:25:58.738Z"
+status: "active"
 ---
 
 # § 8412. Authorization of appropriations
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.450Z"
   - **(2)** In the event of a vacancy in, or the termination of, the position of the President’s Special Representative to Afghanistan and Pakistan, the certification and memorandum described under paragraph (1)(B) may be made by the Secretary of State.
 - **(c)** The Secretary of State may waive the limitations in subsection (b) if the Secretary determines, and certifies to the appropriate congressional committees, that it is in the national security interests of the United States to do so.
 - **(d)** It is the sense of Congress that, subject to an improving political and economic climate in Pakistan, there should be authorized to be appropriated up to $1,500,000,000 for each of the fiscal years 2015 through 2019 for the purpose of providing assistance to Pakistan under the Foreign Assistance Act of 1961 [ 22 U.S.C. 2151 et seq.].
+
+## Source Credit
+
+*([Pub. L. 111–73, title I, § 102](https://www.govinfo.gov/link/plaw/111/public/73), Oct. 15, 2009, [123 Stat. 2068](https://www.govinfo.gov/link/statute/123/2068).)*

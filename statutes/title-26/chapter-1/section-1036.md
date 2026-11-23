@@ -3,9 +3,10 @@ title: "Section 1036 - Stock for stock of same corporation"
 usc_title: 26
 usc_section: "1036"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1036"
-generated_at: "2026-03-30T02:55:27.756Z"
+generated_at: "2026-11-23T21:26:06.459Z"
+status: "active"
 ---
 
 # § 1036. Stock for stock of same corporation
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:27.756Z"
 - **(c)**
   - **(1)** For rules relating to recognition of gain or loss where an exchange is not solely in kind, see subsections (b) and (c) of section 1031.
   - **(2)** For rules relating to the basis of property acquired in an exchange described in subsection (a), see subsection (d) of section 1031.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 309; [Pub. L. 105–34, title X, § 1014(e)(3)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 921](https://www.govinfo.gov/link/statute/111/921).)*

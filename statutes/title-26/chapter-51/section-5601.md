@@ -3,9 +3,10 @@ title: "Section 5601 - Criminal penalties"
 usc_title: 26
 usc_section: "5601"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5601"
-generated_at: "2026-03-30T02:55:27.824Z"
+generated_at: "2026-11-23T21:26:06.729Z"
+status: "active"
 ---
 
 # § 5601. Criminal penalties
@@ -31,3 +32,50 @@ generated_at: "2026-03-30T02:55:27.824Z"
   - **(14)** after the time fixed in the notice given under section 5221(a) to suspend operations as a distiller, carries on the business of a distiller on the premises covered by the notice of suspension, or has mash, wort, or beer on such premises, or on any premises connected therewith, or has in his possession or under his control any mash, wort, or beer, with intent to distill the same on such premises; or
   - **(15)** withdraws, uses, sells, or otherwise disposes of distilled spirits produced under section 5181 for other than fuel use;
 - **(b)** Whenever on trial for violation of subsection (a)(4) the defendant is shown to have been at the site or place where, and at the time when, the business of a distiller or processor was so engaged in or carried on, such presence of the defendant shall be deemed sufficient evidence to authorize conviction, unless the defendant explains such presence to the satisfaction of the jury (or of the court when tried without jury).
+
+| Present subd. of subsec. (a): | Prior sections |
+| --- | --- |
+| (2) | 5172, 5603. |
+| (3) | 5603. |
+| (4) | 5172, 5604, 5606. |
+| (5) | 5604. |
+| (6) | 5171, 5607. |
+| (7) | 5216(a)(1), (4), 5608(a). |
+| (8) | 5216(a)(1), 5608(a). |
+| (9) | 5216(a)(1), 5608(a). |
+| (10) | 5628, 5629. |
+| (11) | 5629. |
+| (12) | 5608(a), 5631, 5632, 5643, 5647. |
+| (13) | 5634. |
+| (14) | 5650. |
+
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+
+(11)
+
+(12)
+
+(13)
+
+(14)
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1398](https://www.govinfo.gov/link/statute/72/1398); amended [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1905(a)(22), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1820](https://www.govinfo.gov/link/statute/90/1820), 1834; [Pub. L. 96–39, title VIII, § 807(a)(52)](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 288](https://www.govinfo.gov/link/statute/93/288); [Pub. L. 96–223, title II, § 232(e)(2)(A)](https://www.govinfo.gov/link/plaw/96/public/223), Apr. 2, 1980, [94 Stat. 280](https://www.govinfo.gov/link/statute/94/280); [Pub. L. 115–141, div. U, title IV, § 401(a)(248)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1196](https://www.govinfo.gov/link/statute/132/1196).)*

@@ -3,9 +3,10 @@ title: "Section 6517 - National List"
 usc_title: 7
 usc_section: "6517"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6517"
-generated_at: "2026-03-30T02:53:42.432Z"
+generated_at: "2026-11-23T21:25:28.393Z"
+status: "active"
 ---
 
 # § 6517. National List
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:42.432Z"
   - **(5)** After evaluating all comments received concerning the Proposed National List or Proposed Amendments to the National List, the Secretary shall publish the final National List in the Federal Register, along with a discussion of comments received.
   - **(6)** The Secretary may develop emergency procedures for designating agricultural products that are commercially unavailable in organic form for placement on the National List for a period of time not to exceed 12 months.
 - **(e)** No exemption or prohibition contained in the National List shall be valid unless the National Organic Standards Board has reviewed such exemption or prohibition as provided in this section within 5 years of such exemption or prohibition being adopted or reviewed and the Secretary has renewed such exemption or prohibition.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XXI, § 2118](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3946](https://www.govinfo.gov/link/statute/104/3946); [Pub. L. 102–237, title X, § 1001(6)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1893](https://www.govinfo.gov/link/statute/105/1893); [Pub. L. 109–97, title VII, § 797(b)](https://www.govinfo.gov/link/plaw/109/public/97), Nov. 10, 2005, [119 Stat. 2165](https://www.govinfo.gov/link/statute/119/2165).)*

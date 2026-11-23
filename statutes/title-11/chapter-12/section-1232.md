@@ -3,9 +3,10 @@ title: "Section 1232 - Claim by a governmental unit based on the disposition of 
 usc_title: 11
 usc_section: "1232"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1232"
-generated_at: "2026-03-30T02:53:53.886Z"
+generated_at: "2026-11-23T21:25:34.970Z"
+status: "active"
 ---
 
 # § 1232. Claim by a governmental unit based on the disposition of property used in a farming operation
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:53.886Z"
   - **(2)** If a debtor files a tax return after the filing of the petition for a period in which a claim described in subsection (a) arises, and the claim relates to the tax return, the debtor shall serve notice of the claim on the governmental unit charged with the responsibility for the collection of the tax at the address and in the manner designated in section 505(b)(1). Notice under this paragraph shall state that the debtor has filed a petition under this chapter, state the name and location of the court in which the case under this chapter is pending, state the amount of the claim, and include a copy of the filed tax return and documentation supporting the calculation of the claim.
   - **(3)** If notice of a claim has been served on the governmental unit in accordance with paragraph (2), the governmental unit may file a proof of claim not later than 180 days after the date on which such notice was served. If the governmental unit has not filed a timely proof of the claim, the debtor or trustee may file proof of the claim that is consistent with the notice served under paragraph (2). If a proof of claim is filed by the debtor or trustee under this paragraph, the governmental unit may not amend the proof of claim.
   - **(4)** A claim filed under this subsection shall be determined and shall be allowed under subsection (a), (b), or (c) of section 502, or disallowed under subsection (d) or (e) of section 502, in the same manner as if the claim had arisen immediately before the date of the filing of the petition.
+
+## Source Credit
+
+*(Added [Pub. L. 115–72, div. B, § 1005(a)](https://www.govinfo.gov/link/plaw/115/public/72), Oct. 26, 2017, [131 Stat. 1232](https://www.govinfo.gov/link/statute/131/1232).)*

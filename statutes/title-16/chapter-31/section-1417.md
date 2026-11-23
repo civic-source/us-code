@@ -3,9 +3,10 @@ title: "Section 1417 - Prohibitions"
 usc_title: 16
 usc_section: "1417"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1417"
-generated_at: "2026-03-30T02:54:22.964Z"
+generated_at: "2026-11-23T21:25:51.872Z"
+status: "active"
 ---
 
 # § 1417. Prohibitions
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:22.964Z"
   - **(1)** A person that knowingly and willfully violates subsection (a)(1), (2), (3), (4), or (5) shall be subject to a civil penalty under section 1375(a) of this title .
   - **(2)** A person that knowingly and willfully violates subsection (a)(5) or (a)(6) shall be subject to a criminal penalty under section 1375(b) of this title .
 - **(c)** Any vessel (including its fishing gear, appurtenances, stores, and cargo) used, and any fish (or its fair market value) taken or retained, in any manner, in connection with or as a result of the commission of any act prohibited by this section shall be subject to forfeiture to the United States in the manner provided in section 1860 of this title .
+
+## Source Credit
+
+*([Pub. L. 92–522, title III, § 307](https://www.govinfo.gov/link/plaw/92/public/522), as added [Pub. L. 102–523, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/523), Oct. 26, 1992, [106 Stat. 3431](https://www.govinfo.gov/link/statute/106/3431); amended [Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009](https://www.govinfo.gov/link/statute/110/3009), 3009–41; [Pub. L. 105–42, § 6(d)](https://www.govinfo.gov/link/plaw/105/public/42), Aug. 15, 1997, [111 Stat. 1136](https://www.govinfo.gov/link/statute/111/1136).)*

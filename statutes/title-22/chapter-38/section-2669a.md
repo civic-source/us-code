@@ -3,9 +3,10 @@ title: "Section 2669a - Diplomatic Telecommunications Service"
 usc_title: 22
 usc_section: "2669a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2669a"
-generated_at: "2026-03-30T02:55:05.377Z"
+generated_at: "2026-11-23T21:25:58.524Z"
+status: "active"
 ---
 
 # § 2669a. Diplomatic Telecommunications Service
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:05.377Z"
     - **(D)** funding of new initiatives and of replacement of current systems;
     - **(E)** combining existing DTS network control centers, relay facilities, and overseas operations; and
     - **(F)** reducing the extensive reliance of DTS–PO on the full-time services of contractors.
+
+## Source Credit
+
+*([Pub. L. 103–317, title V, § 507](https://www.govinfo.gov/link/plaw/103/public/317), Aug. 26, 1994, [108 Stat. 1766](https://www.govinfo.gov/link/statute/108/1766); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XIII, § 1335(m), Oct. 21, 1998, [112 Stat. 2681–789](https://www.govinfo.gov/link/statute/112/2681).)*

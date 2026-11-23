@@ -3,9 +3,10 @@ title: "Section 103102 - Appropriations authorized and available for certain pur
 usc_title: 54
 usc_section: "103102"
 chapter: 1031
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "54 U.S.C. § 103102"
-generated_at: "2026-03-30T02:56:28.420Z"
+generated_at: "2026-11-23T21:26:42.781Z"
+status: "active"
 ---
 
 # § 103102. Appropriations authorized and available for certain purposes
@@ -23,3 +24,35 @@ Appropriations for the Service are authorized and are available for—
   - **(6)** investigation and establishment of water rights in accordance with local custom, laws, and decisions of courts, including the acquisition of water rights or of land or interests in land or rights-of-way for use and protection of water rights necessary or beneficial in the administration and public use of System units;
   - **(7)** official telephone service in the field in the case of official telephones installed in private houses when authorized under regulations established by the Secretary; and
   - **(8)** provision of transportation for children in nearby communities to and from any System unit used in connection with organized recreation and interpretive programs of the Service.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 103102 | 16 U.S.C. 1d . | Aug. 8, 1953, ch. 384, § 3 , 67 Stat. 496 . |
+|  | 16 U.S.C. 17j–2(b) through (g), (i), (j). | Aug. 7, 1946, ch. 788 , (b) through (g), (i), (j), 60 Stat. 885 , 886; Pub. L. 104–333, div. I, title VIII, § 802 , Nov. 12, 1996 , 110 Stat. 4186 . |
+
+
+Historical and Revision Notes
+
+103102
+
+16 U.S.C. 1d
+
+Aug. 8, 1953, ch. 384, § 3
+
+67 Stat. 496
+
+16 U.S.C. 17j–2(b)
+
+Aug. 7, 1946, ch. 788
+
+60 Stat. 885
+
+Pub. L. 104–333, div. I, title VIII, § 802
+
+Nov. 12, 1996
+
+110 Stat. 4186
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3164](https://www.govinfo.gov/link/statute/128/3164).)*

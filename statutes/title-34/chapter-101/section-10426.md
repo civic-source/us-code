@@ -3,9 +3,10 @@ title: "Section 10426 - National training center for prison drug rehabilitation 
 usc_title: 34
 usc_section: "10426"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10426"
-generated_at: "2026-03-30T02:55:33.268Z"
+generated_at: "2026-11-23T21:26:09.658Z"
+status: "active"
 ---
 
 # § 10426. National training center for prison drug rehabilitation program personnel
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:33.268Z"
 - **(c)** In addition to amounts otherwise authorized to be appropriated with respect to the National Institute of Corrections, there are authorized to be appropriated to the Director of the National Institute of Corrections—
   - **(1)** for establishment and operation of the center, for curriculum development for the center, and for salaries and expenses of personnel at the center, not more than $4,000,000 for each of fiscal years 1989, 1990, and 1991; and
   - **(2)** for design and construction of facilities for the center, not more than $10,000,000 for fiscal years 1989, 1990, and 1991.
+
+## Source Credit
+
+*([Pub. L. 100–690, title VI, § 6292](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4369](https://www.govinfo.gov/link/statute/102/4369).)*

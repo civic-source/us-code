@@ -3,9 +3,10 @@ title: "Section 1621d - Other authority for provision of services"
 usc_title: 25
 usc_section: "1621d"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1621d"
-generated_at: "2026-03-30T02:54:52.820Z"
+generated_at: "2026-11-23T21:25:54.618Z"
+status: "active"
 ---
 
 # § 1621d. Other authority for provision of services
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:52.820Z"
   - **(2)** Individuals with a mental impairment, such as dementia, Alzheimer’s disease, or another disabling mental illness, who may be able to perform activities of daily living under supervision.
   - **(3)** Such other individuals as an applicable tribal health program determines to be appropriate.
 - **(d)** The Secretary, acting through the Service, Indian tribes, and tribal organizations, may also provide funding under this chapter to meet the objectives set forth in section 1602 of this title for convenient care services programs pursuant to section 1637(c)(2)(A) of this title .
+
+## Source Credit
+
+*([Pub. L. 94–437, title II, § 205](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 102–573, title II, § 206(a)](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4548](https://www.govinfo.gov/link/statute/106/4548); amended [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

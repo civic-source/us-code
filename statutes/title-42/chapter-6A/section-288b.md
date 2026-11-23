@@ -3,9 +3,10 @@ title: "Section 288b - Studies respecting biomedical and behavioral research per
 usc_title: 42
 usc_section: "288b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 288b"
-generated_at: "2026-03-30T02:56:10.753Z"
+generated_at: "2026-11-23T21:26:30.529Z"
+status: "active"
 ---
 
 # § 288b. Studies respecting biomedical and behavioral research personnel
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:10.753Z"
   - **(1)** The Secretary shall request the National Academy of Sciences to conduct the study required by subsection (a) under an arrangement under which the actual expenses incurred by such Academy in conducting such study will be paid by the Secretary. If the National Academy of Sciences is willing to do so, the Secretary shall enter into such an arrangement with such Academy for the conduct of such study.
   - **(2)** If the National Academy of Sciences is unwilling to conduct such study under such an arrangement, then the Secretary shall enter into a similar arrangement with other appropriate nonprofit private groups or associations under which such groups or associations will conduct such study and prepare and submit the reports thereon as provided in subsection (c). 1 1 See References in Text note below.
   - **(3)** The National Academy of Sciences or other group or association conducting the study required by subsection (a) shall conduct such study in consultation with the Director of NIH.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 489, as added [Pub. L. 99–158, § 2](https://www.govinfo.gov/link/plaw/99/public/158), Nov. 20, 1985, [99 Stat. 872](https://www.govinfo.gov/link/statute/99/872); amended [Pub. L. 102–321, title I, § 163(b)(5)](https://www.govinfo.gov/link/plaw/102/public/321), July 10, 1992, [106 Stat. 376](https://www.govinfo.gov/link/statute/106/376).)*

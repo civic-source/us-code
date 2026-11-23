@@ -3,9 +3,10 @@ title: "Section 5565 - Relief available"
 usc_title: 12
 usc_section: "5565"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5565"
-generated_at: "2026-03-30T02:53:53.546Z"
+generated_at: "2026-11-23T21:25:37.291Z"
+status: "active"
 ---
 
 # § 5565. Relief available
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:53:53.546Z"
   - **(5)** No civil penalty may be assessed under this subsection with respect to a violation of any Federal consumer financial law, unless—
     - **(A)** the Bureau gives notice and an opportunity for a hearing to the person accused of the violation; or
     - **(B)** the appropriate court has ordered such assessment and entered judgment in favor of the Bureau.
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1055](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2029](https://www.govinfo.gov/link/statute/124/2029).)*

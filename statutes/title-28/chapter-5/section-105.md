@@ -3,9 +3,10 @@ title: "Section 105 - Missouri"
 usc_title: 28
 usc_section: "105"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 105"
-generated_at: "2026-03-30T02:55:30.123Z"
+generated_at: "2026-11-23T21:26:01.010Z"
+status: "active"
 ---
 
 # § 105. Missouri
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:30.123Z"
   - **(4)** The Central Division comprises the counties of Benton, Boone, Callaway, Camden, Cole, Cooper, Hickory, Howard, Miller, Moniteau, Morgan, Osage, and Pettis. Court for the Central Division shall be held at Jefferson City.
   - **(5)** The Southern Division comprises the counties of Cedar, Christian, Dade, Dallas, Douglas, Greene, Howell, Laclede, Oregon, Ozark, Polk, Pulaski, Taney, Texas, Webster, and Wright. Court for the Southern Division shall be held at Springfield.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 884](https://www.govinfo.gov/link/statute/62/884); [Pub. L. 87–461](https://www.govinfo.gov/link/plaw/87/public/461), May 31, 1962, [76 Stat. 85](https://www.govinfo.gov/link/statute/76/85); [Pub. L. 96–462, § 4(a)](https://www.govinfo.gov/link/plaw/96/public/462), Oct. 15, 1980, [94 Stat. 2053](https://www.govinfo.gov/link/statute/94/2053); [Pub. L. 112–188, § 2](https://www.govinfo.gov/link/plaw/112/public/188), Oct. 5, 2012, [126 Stat. 1433](https://www.govinfo.gov/link/statute/126/1433).)*

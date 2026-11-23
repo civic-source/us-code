@@ -3,9 +3,10 @@ title: "Section 943 - Black lung insurance program"
 usc_title: 30
 usc_section: "943"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 943"
-generated_at: "2026-03-30T02:55:29.393Z"
+generated_at: "2026-11-23T21:26:00.408Z"
+status: "active"
 ---
 
 # § 943. Black lung insurance program
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:55:29.393Z"
   - **(3)** If, after all outstanding current obligations of the insurance fund have been liquidated and any outstanding amounts which may have been advanced to the insurance fund from appropriations authorized under subsection (i) have been credited to the appropriation from which advanced, the Secretary determines that the moneys of the insurance fund are in excess of current needs, he or she may request the investment of such amounts as he or she deems advisable by the Secretary of the Treasury in public debt securities with maturities suitable for the needs of the insurance fund and bearing interest at prevailing market rates.
 - **(h)**
 - **(i)** There are authorized to be appropriated to the insurance fund, as repayable advances, such sums as may be necessary to meet obligations incurred under subsection (g). All such sums shall remain available without fiscal year limitation. Advances made pursuant to this subsection shall be repaid, with interest, to the general fund of the Treasury when the Secretary determines that moneys are available in the insurance fund for such repayments. Interest on such advances shall be computed in the same manner as provided in subsection (b)(2) of section 934a 1 1 See References in Text note below. of this title.
+
+## Source Credit
+
+*([Pub. L. 91–173, title IV, § 433](https://www.govinfo.gov/link/plaw/91/public/173), as added [Pub. L. 95–239, § 13](https://www.govinfo.gov/link/plaw/95/public/239), Mar. 1, 1978, [92 Stat. 101](https://www.govinfo.gov/link/statute/92/101).)*

@@ -3,9 +3,10 @@ title: "Section 510a - Guidelines and inspection of project facilities and techn
 usc_title: 43
 usc_section: "510a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 510a"
-generated_at: "2026-03-30T02:55:57.454Z"
+generated_at: "2026-11-23T21:26:19.788Z"
+status: "active"
 ---
 
 # § 510a. Guidelines and inspection of project facilities and technical assistance to transferred works operating entities
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:57.454Z"
     - **(E)** Development of a public outreach plan on the operation and risks associated with a project facility.
     - **(F)** Development of any other plans or documentation which, in the judgment of the Secretary, will contribute to public safety and the sage operation of a project facility.
   - **(2)** The Secretary is authorized to provide, on a non-reimbursable basis, up to 50 percent of the cost of such technical assistance, with the balance of such costs being advanced by the transferred works operating entity or other non-Federal source. The non-Federal 50 percent minimum cost share for such technical assistance may be in the form of in-lieu contributions of resources by the transferred works operating entity or other non-Federal source.
+
+## Source Credit
+
+*([Pub. L. 111–11, title IX, § 9602](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1347](https://www.govinfo.gov/link/statute/123/1347).)*

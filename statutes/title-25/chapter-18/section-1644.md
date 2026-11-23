@@ -3,9 +3,10 @@ title: "Section 1644 - Grants to and contracts with the Service, Indian tribes, 
 usc_title: 25
 usc_section: "1644"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1644"
-generated_at: "2026-03-30T02:54:52.823Z"
+generated_at: "2026-11-23T21:25:54.625Z"
+status: "active"
 ---
 
 # § 1644. Grants to and contracts with the Service, Indian tribes, tribal organizations, and urban Indian organizations to facilitate outreach, enrollment, and coverage of Indians under Social Security Act health benefit programs and other health benefits programs
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:52.823Z"
 - **(f)** In this section:
   - **(1)** The term “premium” includes any enrollment fee or similar charge.
   - **(2)** The term “cost sharing” includes any deduction, deductible, copayment, coinsurance, or similar charge.
+
+## Source Credit
+
+*([Pub. L. 94–437, title IV, § 404](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 96–537, § 6](https://www.govinfo.gov/link/plaw/96/public/537), Dec. 17, 1980, [94 Stat. 3176](https://www.govinfo.gov/link/statute/94/3176); amended [Pub. L. 102–573, title IV, § 403](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4566](https://www.govinfo.gov/link/statute/106/4566); [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

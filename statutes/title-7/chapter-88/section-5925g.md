@@ -3,9 +3,10 @@ title: "Section 5925g - Urban, indoor, and other emerging agricultural productio
 usc_title: 7
 usc_section: "5925g"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 5925g"
-generated_at: "2026-03-30T02:53:42.421Z"
+generated_at: "2026-11-23T21:25:28.375Z"
+status: "active"
 ---
 
 # § 5925g. Urban, indoor, and other emerging agricultural production research, education, and extension initiative
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:42.421Z"
     - **(A)** $10,000,000 for fiscal year 2019, to remain available until expended; and
     - **(B)** $2,000,000 for each of fiscal years 2024 through 2031.
   - **(2)** In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2019 through 2023.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XVI, § 1672E](https://www.govinfo.gov/link/plaw/101/public/624), as added [Pub. L. 115–334, title VII, § 7212(a)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4812](https://www.govinfo.gov/link/statute/132/4812); amended [Pub. L. 118–22, div. B, title I, § 102(d)(5)(B)](https://www.govinfo.gov/link/plaw/118/public/22), Nov. 17, 2023, [137 Stat. 117](https://www.govinfo.gov/link/statute/137/117); [Pub. L. 119–21, title I, § 10604(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 109](https://www.govinfo.gov/link/statute/139/109).)*

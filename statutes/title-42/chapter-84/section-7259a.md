@@ -3,9 +3,10 @@ title: "Section 7259a - Activities of Department of Energy facilities"
 usc_title: 42
 usc_section: "7259a"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7259a"
-generated_at: "2026-03-30T02:56:11.286Z"
+generated_at: "2026-11-23T21:26:33.057Z"
+status: "active"
 ---
 
 # § 7259a. Activities of Department of Energy facilities
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.286Z"
   - **(4)** The Secretary shall commence carrying out the pilot program under this subsection not later than October 1, 1999 , and shall terminate the pilot program on September 30, 2003 .
   - **(5)** Not later than January 31, 2003 , the Secretary shall submit to Congress an interim report on the results of the pilot program under this subsection. The report shall include any recommendations for the extension or expansion of the pilot program, including the establishment of multiple rates of overhead charges for various categories of persons and entities seeking research and other activities in contractor-operated facilities of the Department.
 - **(d)** This section does not apply to the practice of the Department of Energy with respect to user fees at Department facilities.
+
+## Source Credit
+
+*([Pub. L. 105–261, div. C, title XXXI, § 3137](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2248](https://www.govinfo.gov/link/statute/112/2248).)*

@@ -3,9 +3,10 @@ title: "Section 3071 - Applicability of certain provisions of title 10"
 usc_title: 33
 usc_section: "3071"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3071"
-generated_at: "2026-03-30T02:55:41.137Z"
+generated_at: "2026-11-23T21:26:11.477Z"
+status: "active"
 ---
 
 # § 3071. Applicability of certain provisions of title 10
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:55:41.137Z"
   - **(27)** Such other provisions of subtitle A of that title as may be adopted for applicability to the commissioned officer corps of the National Oceanic and Atmospheric Administration by any other provision of law.
 - **(b)** The authority vested by title 10 in the “military departments”, “the Secretary concerned”, or “the Secretary of Defense” with respect to the provisions of law referred to in subsection (a) shall be exercised, with respect to the commissioned officer corps of the Administration, by the Secretary of Commerce or the Secretary’s designee. For purposes of paragraph (8) of subsection (a), the term “Inspector General” in section 1034 of such title 10 shall mean the Inspector General of the Department of Commerce.
 - **(c)** The Secretary may prescribe regulations to carry out the application of section 1034 of title 10 to the commissioned officer corps of the Administration, including by prescribing such administrative procedures for investigation and appeal within the commissioned officer corps as the Secretary considers appropriate.
+
+## Source Credit
+
+*([Pub. L. 107–372, title II, § 261](https://www.govinfo.gov/link/plaw/107/public/372), Dec. 19, 2002, [116 Stat. 3091](https://www.govinfo.gov/link/statute/116/3091); [Pub. L. 116–259, title II](https://www.govinfo.gov/link/plaw/116/public/259), §§ 205(a), 207, Dec. 23, 2020, [134 Stat. 1166](https://www.govinfo.gov/link/statute/134/1166), 1168; [Pub. L. 117–263, div. K, title CXVII, § 11705(c)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4157](https://www.govinfo.gov/link/statute/136/4157).)*

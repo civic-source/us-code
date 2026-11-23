@@ -3,12 +3,17 @@ title: "Section 112 - Statutes at Large; contents; admissibility in evidence"
 usc_title: 1
 usc_section: "112"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "1 U.S.C. § 112"
-generated_at: "2026-03-30T02:52:49.392Z"
+generated_at: "2026-11-23T21:25:19.916Z"
+status: "active"
 ---
 
 # § 112. Statutes at Large; contents; admissibility in evidence
 
 The Archivist of the United States shall cause to be compiled, edited, indexed, and published, the United States Statutes at Large, which shall contain all the laws and concurrent resolutions enacted during each regular session of Congress; all proclamations by the President in the numbered series issued since the date of the adjournment of the regular session of Congress next preceding; and also any amendments to the Constitution of the United States proposed or ratified pursuant to article V thereof since that date, together with the certificate of the Archivist of the United States issued in compliance with the provision contained in section 106b of this title . In the event of an extra session of Congress, the Archivist of the United States shall cause all the laws and concurrent resolutions enacted during said extra session to be consolidated with, and published as part of, the contents of the volume for the next regular session. The United States Statutes at Large shall be legal evidence of laws, concurrent resolutions, treaties, international agreements other than treaties, proclamations by the President, and proposed or ratified amendments to the Constitution of the United States therein contained, in all the courts of the United States, the several States, and the Territories and insular possessions of the United States.
 
+
+## Source Credit
+
+*(July 30, 1947, ch. 388, [61 Stat. 636](https://www.govinfo.gov/link/statute/61/636); Sept. 23, 1950, ch. 1001, § 1, [64 Stat. 979](https://www.govinfo.gov/link/statute/64/979); Oct. 31, 1951, ch. 655, § 3, [65 Stat. 710](https://www.govinfo.gov/link/statute/65/710); [Pub. L. 98–497, title I, § 107(d)](https://www.govinfo.gov/link/plaw/98/public/497), Oct. 19, 1984, [98 Stat. 2291](https://www.govinfo.gov/link/statute/98/2291).)*

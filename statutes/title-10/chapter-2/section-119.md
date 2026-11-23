@@ -3,9 +3,10 @@ title: "Section 119 - Special access programs: congressional oversight"
 usc_title: 10
 usc_section: "119"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 119"
-generated_at: "2026-03-30T02:53:38.031Z"
+generated_at: "2026-11-23T21:25:32.207Z"
+status: "active"
 ---
 
 # § 119. Special access programs: congressional oversight
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:53:38.031Z"
 - **(g)** In this section, the term “defense committees” means—
   - **(1)** the Committee on Armed Services and the Committee on Appropriations, and the Defense Subcommittee of the Committee on Appropriations, of the Senate; and
   - **(2)** the Committee on Armed Services and the Committee on Appropriations, and the Subcommittee on Defense of the Committee on Appropriations, of the House of Representatives.
+
+## Source Credit
+
+*(Added [Pub. L. 100–180, div. A, title XI, § 1132(a)(1)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1151](https://www.govinfo.gov/link/statute/101/1151); amended [Pub. L. 101–510, div. A, title XIV](https://www.govinfo.gov/link/plaw/101/public/510), §§ 1461, 1482(a), Nov. 5, 1990, [104 Stat. 1698](https://www.govinfo.gov/link/statute/104/1698), 1709; [Pub. L. 104–106, div. A, title X, § 1055](https://www.govinfo.gov/link/plaw/104/public/106), title XV, § 1502(a)(4), Feb. 10, 1996, [110 Stat. 442](https://www.govinfo.gov/link/statute/110/442), 502; [Pub. L. 106–65, div. A, title X, § 1067(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774); [Pub. L. 107–107, div. A, title X, § 1048(a)(2)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1222](https://www.govinfo.gov/link/statute/115/1222).)*

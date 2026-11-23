@@ -3,9 +3,10 @@ title: "Section 5346 - Transition oversight"
 usc_title: 12
 usc_section: "5346"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5346"
-generated_at: "2026-03-30T02:53:53.530Z"
+generated_at: "2026-11-23T21:25:37.241Z"
+status: "active"
 ---
 
 # § 5346. Transition oversight
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:53:53.530Z"
 - **(d)** Nothing in this section may be construed to affect—
   - **(1)** a collective bargaining agreement, as that term is defined in section 7103(a)(8) of title 5 , that is in effect on July 21, 2010 ; or
   - **(2)** the rights of employees under chapter 71 of title 5.
+
+## Source Credit
+
+*([Pub. L. 111–203, title I, § 156](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1419](https://www.govinfo.gov/link/statute/124/1419).)*

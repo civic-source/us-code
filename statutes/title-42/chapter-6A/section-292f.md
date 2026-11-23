@@ -3,9 +3,10 @@ title: "Section 292f - Default of borrower"
 usc_title: 42
 usc_section: "292f"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 292f"
-generated_at: "2026-03-30T02:56:10.773Z"
+generated_at: "2026-11-23T21:26:30.616Z"
+status: "active"
 ---
 
 # § 292f. Default of borrower
@@ -47,3 +48,9 @@ generated_at: "2026-03-30T02:56:10.773Z"
   - **(3)** With respect to any State court judgment that is obtained by a lender or holder against a borrower for default on a loan insured under this subpart and that is subrogated to the United States under subsection (b), any United States attorney may register such judgment with the Federal courts for enforcement.
 - **(i)** Notwithstanding any other provision of Federal or State law, there shall be no limitation on the period within which suit may be filed, a judgment may be enforced, or an offset, garnishment, or other action may be initiated or taken by the Secretary, the Attorney General, or other administrative head of another Federal agency, as the case may be, for the repayment of the amount due from a borrower on a loan made under this subpart that has been assigned to the Secretary under subsection (b).
 - **(j)** An institution or postgraduate training program attended by a borrower may assist in the collection of any loan of that borrower made under this subpart which becomes delinquent, including providing information concerning the borrower to the Secretary and to past and present lenders and holders of the borrower’s loans, contacting the borrower in order to encourage repayment, and withholding services in accordance with regulations issued by the Secretary under section 292n(a)(7) of this title . The institution or postgraduate training program shall not be subject to section 1692g of title 15 for purposes of carrying out activities authorized by this section.
+
+“The amendment made by subsection (a) [amending this section] shall apply to any loan insured under the authority of subpart I of part A of title VII of the Public Health Service Act ( 42 U.S.C. 292 et seq.) that is listed or scheduled by the debtor in a case under title XI, United States Code [Title 11, Bankruptcy], filed—
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 707, as added [Pub. L. 102–408, title I, § 102](https://www.govinfo.gov/link/plaw/102/public/408), Oct. 13, 1992, [106 Stat. 2002](https://www.govinfo.gov/link/statute/106/2002); amended [Pub. L. 103–43, title XX, § 2014(a)(2)](https://www.govinfo.gov/link/plaw/103/public/43), June 10, 1993, [107 Stat. 215](https://www.govinfo.gov/link/statute/107/215); [Pub. L. 105–392, title I](https://www.govinfo.gov/link/plaw/105/public/392), §§ 142(a), (b), 144(a), Nov. 13, 1998, [112 Stat. 3579](https://www.govinfo.gov/link/statute/112/3579), 3581.)*

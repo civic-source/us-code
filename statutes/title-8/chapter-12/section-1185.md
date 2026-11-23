@@ -3,9 +3,10 @@ title: "Section 1185 - Travel control of citizens and aliens"
 usc_title: 8
 usc_section: "1185"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1185"
-generated_at: "2026-03-30T02:53:10.482Z"
+generated_at: "2026-11-23T21:25:25.143Z"
+status: "active"
 ---
 
 # § 1185. Travel control of citizens and aliens
@@ -23,3 +24,35 @@ generated_at: "2026-03-30T02:53:10.482Z"
 - **(d)** Nothing in this section shall be construed to entitle an alien to whom a permit to enter the United States has been issued to enter the United States, if, upon arrival in the United States, he is found to be inadmissible under any of the provisions of this chapter, or any other law, relative to the entry of aliens into the United States.
 - **(e)** The revocation of any rule, regulation, or order issued in pursuance of this section shall not prevent prosecution for any offense committed, or the imposition of any penalties or forfeitures, liability for which was incurred under this section prior to the revocation of such rule, regulation, or order.
 - **(f)** Passports, visas, reentry permits, and other documents required for entry under this chapter may be considered as permits to enter for the purposes of this section.
+
+“The Secretary of Homeland Security may not enter into or renew an agreement with the government of a foreign country for a trusted traveler program administered by U.S. Customs and Border Protection unless the Secretary certifies in writing that such government—
+
+“Before the Secretary of Homeland Security publishes a final rule in the Federal Register implementing section 7209 of the Intelligence Reform and Terrorism Prevention Act of 2004 ( Public Law 108–458 ; 8 U.S.C. 1185 note) [set out below]—
+
+Findings
+
+Passports.—
+
+Development of plan and implementation.—
+
+Report
+
+Requirement to produce documentation
+
+Technical and Conforming Amendments
+
+Transit Without Visa Program
+
+Jimmy Carter.
+
+Section
+
+Sec
+
+Sec
+
+George W. Bush.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 2, § 215, [66 Stat. 190](https://www.govinfo.gov/link/statute/66/190); [Pub. L. 95–426, title VII, § 707(a)](https://www.govinfo.gov/link/plaw/95/public/426) –(d), Oct. 7, 1978, [92 Stat. 992](https://www.govinfo.gov/link/statute/92/992), 993; [Pub. L. 103–416, title II, § 204(a)](https://www.govinfo.gov/link/plaw/103/public/416), Oct. 25, 1994, [108 Stat. 4311](https://www.govinfo.gov/link/statute/108/4311).)*

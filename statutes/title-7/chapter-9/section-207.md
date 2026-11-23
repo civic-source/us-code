@@ -3,9 +3,10 @@ title: "Section 207 - Schedule of rates"
 usc_title: 7
 usc_section: "207"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 207"
-generated_at: "2026-03-30T02:53:42.277Z"
+generated_at: "2026-11-23T21:25:27.930Z"
+status: "active"
 ---
 
 # § 207. Schedule of rates
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.277Z"
 - **(f)** After the expiration of the sixty days referred to in subsection (a) 1 1 So in original. Probably should be followed by a comma. no person shall carry on the business of a stockyard owner or market agency unless the rates and charges for the stockyard services furnished at the stockyard have been filed and published in accordance with this section and the orders of the Secretary made thereunder; nor charge, demand, or collect a greater or less or different compensation for such services than the rates and charges specified in the schedules filed and in effect at the time; nor refund or remit in any manner any portion of the rates or charges so specified (but this shall not prohibit a cooperative association of producers from bona fide returning to its members, on a patronage basis, its excess earnings on their livestock, subject to such regulations as the Secretary may prescribe); nor extend to any person at such stockyard any stockyard services except such as are specified in such schedules.
 - **(g)** Whoever fails to comply with the provisions of this section or of any regulation or order of the Secretary made thereunder shall be liable to a penalty of not more than $500 for each such offense, and not more than $25 for each day it continues, which shall accrue to the United States and may be recovered in a civil action brought by the United States.
 - **(h)** Whoever willfully fails to comply with the provisions of this section or of any regulation or order of the Secretary made thereunder shall on conviction be fined not more than $1,000, or imprisoned not more than one year, or both.
+
+## Source Credit
+
+*(Aug. 15, 1921, ch. 64, title III, § 306, [42 Stat. 164](https://www.govinfo.gov/link/statute/42/164); [Pub. L. 94–410, § 3(c)](https://www.govinfo.gov/link/plaw/94/public/410), Sept. 13, 1976, [90 Stat. 1249](https://www.govinfo.gov/link/statute/90/1249).)*

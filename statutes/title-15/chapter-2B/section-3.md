@@ -3,9 +3,10 @@ title: "Section 3 - Prohibited foreign trade practices by persons other than iss
 usc_title: 15
 usc_section: "3"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3"
-generated_at: "2026-03-30T02:54:08.060Z"
+generated_at: "2026-11-23T21:25:39.571Z"
+status: "active"
 ---
 
 # § 78dd–3. Prohibited foreign trade practices by persons other than issuers or domestic concerns
@@ -65,3 +66,7 @@ generated_at: "2026-03-30T02:54:08.060Z"
   - **(5)** The term “interstate commerce” means trade, commerce, transportation, or communication among the several States, or between any foreign country and any State or between any State and any place or ship outside thereof, and such term includes the intrastate use of—
     - **(A)** a telephone or other interstate means of communication, or
     - **(B)** any other interstate instrumentality.
+
+## Source Credit
+
+*([Pub. L. 95–213, title I, § 104A](https://www.govinfo.gov/link/plaw/95/public/213), as added [Pub. L. 105–366, § 4](https://www.govinfo.gov/link/plaw/105/public/366), Nov. 10, 1998, [112 Stat. 3306](https://www.govinfo.gov/link/statute/112/3306).)*

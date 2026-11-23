@@ -3,9 +3,10 @@ title: "Section 19301 - National Clean Energy Incubator Program"
 usc_title: 42
 usc_section: "19301"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19301"
-generated_at: "2026-03-30T02:56:11.546Z"
+generated_at: "2026-11-23T21:26:33.884Z"
+status: "active"
 ---
 
 # § 19301. National Clean Energy Incubator Program
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:11.546Z"
 - **(g)** An award made to a clean energy incubator under this section may be renewed for a period of not more than 3 years, subject to merit review.
 - **(h)** In accordance with section 16391a of this title , the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate an evaluation of the program established under this section that includes analyses of the performance of the clean energy incubators.
 - **(i)** There are authorized to be appropriated to the Secretary to carry out this section $15,000,000 for each of fiscal years 2023 through 2027.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title VI, § 10713](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1701](https://www.govinfo.gov/link/statute/136/1701).)*

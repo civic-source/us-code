@@ -3,9 +3,10 @@ title: "Section 1436a - Report on violations of arrival, reporting, entry, and c
 usc_title: 19
 usc_section: "1436a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1436a"
-generated_at: "2026-03-30T02:54:24.635Z"
+generated_at: "2026-11-23T21:25:42.704Z"
+status: "active"
 ---
 
 # § 1436a. Report on violations of arrival, reporting, entry, and clearance requirements and falsity or lack of manifest
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:24.635Z"
 - **(c)** In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committee on Finance and the Committee on Homeland Security and Governmental Affairs of the Senate; and
   - **(2)** the Committee on Ways and Means, the Committee on Oversight and Government Reform, and the Committee on Homeland Security of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 115–271, title VIII, § 8008](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 4081](https://www.govinfo.gov/link/statute/132/4081).)*

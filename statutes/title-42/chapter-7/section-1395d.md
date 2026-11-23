@@ -3,9 +3,10 @@ title: "Section 1395d - Scope of benefits"
 usc_title: 42
 usc_section: "1395d"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1395d"
-generated_at: "2026-03-30T02:56:10.936Z"
+generated_at: "2026-11-23T21:26:31.367Z"
+status: "active"
 ---
 
 # § 1395d. Scope of benefits
@@ -46,3 +47,47 @@ generated_at: "2026-03-30T02:56:10.936Z"
     - **(A)** for such limitations on the scope and extent of services described in subsection (a)(2)(B) and on the categories of individuals who may be eligible to receive such services, and
     - **(B)** notwithstanding sections 1395f, 1395x(v), and 1395ww of this title, for such restrictions and alternatives on the amounts and methods of payment for services described in such subsection,
 - **(g)** For definitions of “spell of illness”, and for definitions of other terms used in this part, see section 1395x of this title .
+
+In general
+
+Elimination of post-hospital requirement for extended care services
+
+Establishment.—
+
+In general
+
+Duration
+
+Sites
+
+Independent Evaluation and Reports.—
+
+Independent evaluation
+
+Reports
+
+Budget Neutrality
+
+In General
+
+Scope of Project
+
+Compliance With Conditions
+
+Report
+
+“Not later than 1 year after the date of the enactment of this Act [ Dec. 8, 2003 ], the Inspector General of the Department of Health and Human Services shall submit a report to Congress on—
+
+In general
+
+Proportion specified
+
+Application in establishing monthly premiums for 1998 through 2003.—
+
+In general
+
+No impact on government contribution
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1812, as added [Pub. L. 89–97, title I, § 102(a)](https://www.govinfo.gov/link/plaw/89/public/97), July 30, 1965, [79 Stat. 291](https://www.govinfo.gov/link/statute/79/291); amended [Pub. L. 90–248, title I](https://www.govinfo.gov/link/plaw/90/public/248), §§ 129(c)(2), 137(a), 138(a), 143(b), 146(a), Jan. 2, 1968, [81 Stat. 847](https://www.govinfo.gov/link/statute/81/847), 853, 854, 857, 859; [Pub. L. 96–499, title IX](https://www.govinfo.gov/link/plaw/96/public/499), §§ 930(b)–(d), 931(a), Dec. 5, 1980, [94 Stat. 2631](https://www.govinfo.gov/link/statute/94/2631), 2633; [Pub. L. 97–35, title XXI, § 2121(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 796](https://www.govinfo.gov/link/statute/95/796); [Pub. L. 97–248, title I](https://www.govinfo.gov/link/plaw/97/public/248), §§ 122(b), 123, Sept. 3, 1982, [96 Stat. 356](https://www.govinfo.gov/link/statute/96/356), 364; [Pub. L. 97–448, title III, § 309(b)(5)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2409](https://www.govinfo.gov/link/statute/96/2409); [Pub. L. 100–360, title I, § 101](https://www.govinfo.gov/link/plaw/100/public/360), July 1, 1988, [102 Stat. 684](https://www.govinfo.gov/link/statute/102/684); [Pub. L. 101–234, title I, § 101(a)](https://www.govinfo.gov/link/plaw/101/public/234), Dec. 13, 1989, [103 Stat. 1979](https://www.govinfo.gov/link/statute/103/1979); [Pub. L. 101–239, title VI, § 6003(g)(3)(B)(i)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2152](https://www.govinfo.gov/link/statute/103/2152); [Pub. L. 101–508, title IV, § 4006(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–43](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–432, title I, § 102(g)(1)](https://www.govinfo.gov/link/plaw/103/public/432), Oct. 31, 1994, [108 Stat. 4404](https://www.govinfo.gov/link/statute/108/4404); [Pub. L. 105–33, title IV](https://www.govinfo.gov/link/plaw/105/public/33), §§ 4201(c)(1), 4443(a), (b)(1), 4611(a), Aug. 5, 1997, [111 Stat. 373](https://www.govinfo.gov/link/statute/111/373), 423, 472; [Pub. L. 106–113, div. B, § 1000(a)(6) [title III, § 321(k)(1)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–366; [Pub. L. 108–173, title V, § 512(a)](https://www.govinfo.gov/link/plaw/108/public/173), title VII, § 736(c)(1), Dec. 8, 2003, [117 Stat. 2299](https://www.govinfo.gov/link/statute/117/2299), 2356.)*

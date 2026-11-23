@@ -3,9 +3,10 @@ title: "Section 3a - Adjusted gross income limitation"
 usc_title: 7
 usc_section: "3a"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3a"
-generated_at: "2026-03-30T02:53:42.302Z"
+generated_at: "2026-11-23T21:25:28.030Z"
+status: "active"
 ---
 
 # § 1308–3a. Adjusted gross income limitation
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:53:42.302Z"
   - **(2)** If the Secretary determines that a person or legal entity has failed to comply with this section, the Secretary shall deny the issuance of applicable payments and benefits specified in subsection (b)(2) to the person or legal entity, under similar terms and conditions as described in section 1308–2 of this title .
   - **(3)** The Secretary shall establish statistically valid procedures under which the Secretary shall conduct targeted audits of such persons or legal entities as the Secretary determines are most likely to exceed the limitations under subsection (b).
 - **(d)** In the case of a payment or benefit described in subsection (b)(2) made in a crop, program, or fiscal year, as appropriate, to an entity, the amount of the payment or benefit shall be reduced by an amount that is commensurate with the direct and indirect ownership interest in the entity of each person who has an average adjusted gross income in excess of the applicable limitation specified in subsection (b).
+
+## Source Credit
+
+*([Pub. L. 99–198, title X, § 1001D](https://www.govinfo.gov/link/plaw/99/public/198), as added [Pub. L. 107–171, title I, § 1604(2)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 215](https://www.govinfo.gov/link/statute/116/215); amended [Pub. L. 110–234, title I, § 1604(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1012](https://www.govinfo.gov/link/statute/122/1012); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1604(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1740; [Pub. L. 113–79, title I, § 1605(a)](https://www.govinfo.gov/link/plaw/113/public/79) –(e), Feb. 7, 2014, [128 Stat. 707](https://www.govinfo.gov/link/statute/128/707), 708; [Pub. L. 115–334, title I, § 1704(a)](https://www.govinfo.gov/link/plaw/115/public/334), (b), Dec. 20, 2018, [132 Stat. 4526](https://www.govinfo.gov/link/statute/132/4526); [Pub. L. 119–21, title I](https://www.govinfo.gov/link/plaw/119/public/21), §§ 10306(e), 10308, July 4, 2025, [139 Stat. 91](https://www.govinfo.gov/link/statute/139/91), 92.)*

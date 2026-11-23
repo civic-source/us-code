@@ -3,9 +3,10 @@ title: "Section 3333 - Reports"
 usc_title: 18
 usc_section: "3333"
 chapter: 216
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3333"
-generated_at: "2026-03-30T02:54:16.516Z"
+generated_at: "2026-11-23T21:25:44.199Z"
+status: "active"
 ---
 
 # § 3333. Reports
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:16.516Z"
 - **(d)** Upon the submission of a report pursuant to subsection (a) of this section, if the court finds that the filing of such report as a public record may prejudice fair consideration of a pending criminal matter, it shall order such report sealed and such report shall not be subject to subpena or public inspection during the pendency of such criminal matter, except upon order of the court.
 - **(e)** Whenever the court to which a report is submitted pursuant to paragraph (1) of subsection (a) of this section is not satisfied that the report complies with the provisions of subsection (b) of this section, it may direct that additional testimony be taken before the same grand jury, or it shall make an order sealing such report, and it shall not be filed as a public record or be subject to subpena or otherwise made public until the provisions of subsection (b) of this section are met. A special grand jury term may be extended by the district court beyond thirty-six months in order that such additional testimony may be taken or the provisions of subsection (b) of this section may be met.
 - **(f)** As used in this section, “public officer or employee” means any officer or employee of the United States, any State, the District of Columbia, the Commonwealth of Puerto Rico, any territory or possession of the United States, or any political subdivision, or any department, agency, or instrumentality thereof.
+
+## Source Credit
+
+*(Added [Pub. L. 91–452, title I, § 101(a)](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 924](https://www.govinfo.gov/link/statute/84/924).)*

@@ -3,9 +3,10 @@ title: "Section 21731 - Report"
 usc_title: 34
 usc_section: "21731"
 chapter: 217
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 21731"
-generated_at: "2026-03-30T02:55:33.305Z"
+generated_at: "2026-11-23T21:26:09.814Z"
+status: "active"
 ---
 
 # § 21731. Report
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:33.305Z"
 - **(b)** The report required under subsection (a) shall include—
   - **(1)** an analysis of victims’ assistance, victims’ compensation, and discretionary grants under which elder abuse victims (including elder victims of financial abuse, financial exploitation, and fraud) received assistance; and
   - **(2)** recommendations for improving services for victims of elder abuse.
+
+## Source Credit
+
+*([Pub. L. 115–70, title III, § 302](https://www.govinfo.gov/link/plaw/115/public/70), Oct. 18, 2017, [131 Stat. 1212](https://www.govinfo.gov/link/statute/131/1212).)*

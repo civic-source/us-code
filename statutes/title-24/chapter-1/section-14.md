@@ -3,12 +3,17 @@ title: "Section 14 - Establishment of Navy hospitals"
 usc_title: 24
 usc_section: "14"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "24 U.S.C. § 14"
-generated_at: "2026-03-30T02:54:50.788Z"
+generated_at: "2026-11-23T21:25:53.403Z"
+status: "active"
 ---
 
 # § 14. Establishment of Navy hospitals
 
 The Secretary of the Navy shall procure at suitable places proper sites for Navy hospitals, and if the necessary buildings are not procured with the site, shall cause such to be erected, having due regard to economy, and giving preference to such plans as with most convenience and least cost will admit of subsequent additions, when the funds permit and circumstances require; and shall provide, at one of the establishments, a permanent asylum for disabled and decrepit Navy officers, seamen, and marines: Provided , That no sites shall be procured or hospital buildings erected or extensions to existing hospitals made unless authorized by Congress.
 
+
+## Source Credit
+
+*(R.S. § 4810; Mar. 4, 1913, ch. 148, [37 Stat. 902](https://www.govinfo.gov/link/statute/37/902).)*

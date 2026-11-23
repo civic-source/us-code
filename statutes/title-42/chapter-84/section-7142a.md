@@ -3,9 +3,10 @@ title: "Section 7142a - Designation of American Museum of Science and Energy"
 usc_title: 42
 usc_section: "7142a"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7142a"
-generated_at: "2026-03-30T02:56:11.283Z"
+generated_at: "2026-11-23T21:26:33.048Z"
+status: "active"
 ---
 
 # § 7142a. Designation of American Museum of Science and Energy
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.283Z"
   - **(1)** The name “American Museum of Science and Energy” is declared the property of the United States.
   - **(2)** The Museum shall have the sole right throughout the United States and its possessions to have and use the name “American Museum of Science and Energy”.
   - **(3)** This subsection shall not be construed to conflict or interfere with established or vested rights.
+
+## Source Credit
+
+*([Pub. L. 106–554, § 1(a)(4) [div. B, title IV, § 401]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–266.)*

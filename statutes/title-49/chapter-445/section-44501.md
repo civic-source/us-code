@@ -3,9 +3,10 @@ title: "Section 44501 - Plans and policy"
 usc_title: 49
 usc_section: "44501"
 chapter: 445
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44501"
-generated_at: "2026-03-30T02:56:19.381Z"
+generated_at: "2026-11-23T21:26:40.882Z"
+status: "active"
 ---
 
 # § 44501. Plans and policy
@@ -39,3 +40,127 @@ generated_at: "2026-03-30T02:56:19.381Z"
       - **(v)** highlight the research and development activities that address specific recommendations of the research advisory committee established under section 44508 of this title , and document the recommendations of the committee that are not accepted, specifying the reasons for nonacceptance; and
       - **(vi)** highlight the research and development technology transfer activities that promote technology sharing among government, industry, and academia through the Stevenson-Wydler Technology Innovation Act of 1980.
   - **(3)** Subject to section 44912(d)(2) and regulations prescribed under such section, the Administrator of the Federal Aviation Administration shall submit to the committees named in paragraph (1) of this subsection an annual report on the accomplishments of the research completed during the prior fiscal year, including a description of the dissemination to the private sector of research results and a description of any new technologies developed. The report shall be submitted with the plan required under paragraph (1) and be organized to allow comparison with the plan in effect for the prior fiscal year. The report shall be prepared in accordance with requirements of section 1116 of title 31 .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44501(a) | 49 App.:1353(a). | Aug. 23, 1958 , Pub. L. 85–726, § 312(a) , 72 Stat. 752 . |
+|  | 49 App.:1655(c)(1). | Oct. 15, 1966 , Pub. L. 89–670, § 6(c)(1) , 80 Stat. 938 ; Jan. 12, 1983 , Pub. L. 97–449, § 7(b) , 96 Stat. 2444 . |
+| 44501(b) | 49 App.:2203(b). | Sept. 3, 1982 , Pub. L. 97–248, § 504(b) , 96 Stat. 675 ; Nov. 5, 1990 , Pub. L. 101–508, § 9105(a) , 104 Stat. 1388–355 ; Oct. 31, 1992 , Pub. L. 102–581, § 114 , 106 Stat. 4881 . |
+| 44501(c) | 49 App.:1353(d). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 312(d); added Nov. 3, 1988 , Pub. L. 100–591, § 4(a) , 102 Stat. 3011 . |
+
+
+Long Range Plans and Policy Requirements
+
+Airway Capital Investment Plan
+
+National Aviation Research Plan
+
+Historical and Revision Notes
+
+44501(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 312(a)
+
+72 Stat. 752
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 6(c)(1)
+
+80 Stat. 938
+
+Jan. 12, 1983
+
+Pub. L. 97–449, § 7(b)
+
+96 Stat. 2444
+
+44501(b)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 504(b)
+
+96 Stat. 675
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 9105(a)
+
+104 Stat. 1388–355
+
+Oct. 31, 1992
+
+Pub. L. 102–581, § 114
+
+106 Stat. 4881
+
+44501(c)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Nov. 3, 1988
+
+Pub. L. 100–591, § 4(a)
+
+102 Stat. 3011
+
+Establishment
+
+Purpose
+
+Chair
+
+Composition
+
+National Facilities Realignment and Consolidation Report.—
+
+In general
+
+Purpose
+
+Contents
+
+Input
+
+Submission to congress
+
+Public notice and comment
+
+Report to Congress Containing Recommendations of Administrator
+
+Realignment and Consolidation of FAA Services and Facilities
+
+Congressional Disapproval.—
+
+In general
+
+Computation of 30-day period
+
+Military Operations Exclusion.—
+
+In general
+
+TRACON defined
+
+Definitions
+
+FAA
+
+Realignment; consolidation.—
+
+In general
+
+Exclusion
+
+“From the other accounts described in the national aviation research plan required under section 44501(c) of title 49 , United States Code, the following research and development activities are authorized:
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1173](https://www.govinfo.gov/link/statute/108/1173); [Pub. L. 104–264, title XI, § 1105](https://www.govinfo.gov/link/plaw/104/public/264), Oct. 9, 1996, [110 Stat. 3279](https://www.govinfo.gov/link/statute/110/3279); [Pub. L. 104–287, § 5(74)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3396](https://www.govinfo.gov/link/statute/110/3396); [Pub. L. 106–181, title IX, § 902(a)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 195](https://www.govinfo.gov/link/statute/114/195); [Pub. L. 112–95, title I, § 105](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 17](https://www.govinfo.gov/link/statute/126/17); [Pub. L. 118–63, title VI, § 618(a)](https://www.govinfo.gov/link/plaw/118/public/63), title X, § 1004(a), title XI, § 1101(j), May 16, 2024, [138 Stat. 1230](https://www.govinfo.gov/link/statute/138/1230), 1386, 1413.)*

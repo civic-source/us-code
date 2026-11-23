@@ -3,9 +3,10 @@ title: "Section 5134 - Numismatic Public Enterprise Fund"
 usc_title: 31
 usc_section: "5134"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 5134"
-generated_at: "2026-03-30T02:55:34.065Z"
+generated_at: "2026-11-23T21:26:10.613Z"
+status: "active"
 ---
 
 # § 5134. Numismatic Public Enterprise Fund
@@ -106,3 +107,115 @@ generated_at: "2026-03-30T02:55:34.065Z"
       - **(v)** the costs of melting down all rejected and unsold products;
     - **(C)** adequate market-based research for all commemorative coin programs; and
     - **(D)** a description of the efforts of the Mint in keeping the sale price of numismatic items as low as practicable.
+
+Definitions
+
+Fund
+
+Mint
+
+Numismatic item
+
+Numismatic operations and programs
+
+Secretary
+
+Establishment of Fund
+
+Operations of the Fund.—
+
+Payment of expenses
+
+Deposit of receipts
+
+Transfer of seigniorage
+
+Transfer of excess amounts to the treasury.—
+
+In general
+
+Report to congress
+
+Budget Treatment.—
+
+In general
+
+Inclusion in annual report
+
+Treatment as wholly owned government corporation for certain purposes
+
+Financial Statements, Audits, and Reports.—
+
+Annual financial statement required
+
+Contents of financial statement
+
+Annual audits.—
+
+In general
+
+Auditor’s report required
+
+Annual report on fund.—
+
+Report required
+
+Contents of annual report
+
+Marketing report.—
+
+Report required for 10 years
+
+Contents of report
+
+Conditions on Payment of Surcharges to Recipient Organizations.—
+
+Payment of surcharges.—
+
+In general
+
+Unpaid amounts
+
+Annual audits.—
+
+Annual audits of recipients required
+
+Minimum requirements for annual audits
+
+Responsibility of organization to account for expenditures of surcharges
+
+Submission of audit report
+
+Use of surcharges for audits
+
+Waiver of paragraph
+
+Nonapplicability to federal entities
+
+Availability of books and records
+
+Use of agents or attorneys to influence commemorative coin legislation
+
+Designated recipient organization defined
+
+Quarterly Financial Reports.—
+
+In general
+
+Requirements
+
+In general
+
+Excess amounts to be deposited in the general fund
+
+Definitions
+
+Numismatic profit
+
+Numismatic receivable
+
+Other terms
+
+## Source Credit
+
+*(Added [Pub. L. 102–390, title II, § 221(a)](https://www.govinfo.gov/link/plaw/102/public/390), Oct. 6, 1992, [106 Stat. 1624](https://www.govinfo.gov/link/statute/106/1624); amended [Pub. L. 104–208, div. A, title I, § 101(f) [title V, § 529(b)(1), (2), (c)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–314](https://www.govinfo.gov/link/statute/110/3009), 3009–349, 3009–350, 3009–352; [Pub. L. 106–445, § 3](https://www.govinfo.gov/link/plaw/106/public/445), Nov. 6, 2000, [114 Stat. 1931](https://www.govinfo.gov/link/statute/114/1931); [Pub. L. 108–15, title I, § 103(d)(2)](https://www.govinfo.gov/link/plaw/108/public/15), title II, § 201(a), Apr. 23, 2003, [117 Stat. 619](https://www.govinfo.gov/link/statute/117/619).)*

@@ -3,9 +3,10 @@ title: "Section 2215 - Feasibility studies; planning, engineering, and design"
 usc_title: 33
 usc_section: "2215"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2215"
-generated_at: "2026-03-30T02:55:41.113Z"
+generated_at: "2026-11-23T21:26:11.424Z"
+status: "active"
 ---
 
 # § 2215. Feasibility studies; planning, engineering, and design
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:41.113Z"
 - **(d)** In this section, the following definitions apply:
   - **(1)** The term “detailed project report” means a report for a project not specifically authorized by Congress in law or otherwise that determines the feasibility of the project with a level of detail appropriate to the scope and complexity of the recommended solution and sufficient to proceed directly to the preparation of contract plans and specifications. The term includes any associated environmental impact statement and mitigation plan. For a project for which the Federal cost does not exceed $1,000,000, the term includes a planning and design analysis document.
   - **(2)** The term “feasibility study” means a study that results in a feasibility report under section 2282 of this title , and any associated environmental impact statement and mitigation plan, prepared by the Corps of Engineers for a water resources project. The term includes a study that results in a project implementation report prepared under title VI of the Water Resources Development Act of 2000 ( 114 Stat. 2680–2694 ), a general reevaluation report, and a limited reevaluation report.
+
+## Source Credit
+
+*([Pub. L. 99–662, title I, § 105](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4088](https://www.govinfo.gov/link/statute/100/4088); [Pub. L. 101–640, title III, § 301](https://www.govinfo.gov/link/plaw/101/public/640), Nov. 28, 1990, [104 Stat. 4633](https://www.govinfo.gov/link/statute/104/4633); [Pub. L. 104–303, title II, § 203(a)](https://www.govinfo.gov/link/plaw/104/public/303), Oct. 12, 1996, [110 Stat. 3677](https://www.govinfo.gov/link/statute/110/3677); [Pub. L. 106–541, title II, § 225](https://www.govinfo.gov/link/plaw/106/public/541), Dec. 11, 2000, [114 Stat. 2598](https://www.govinfo.gov/link/statute/114/2598); [Pub. L. 110–114, title II, § 2043(a)](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1101](https://www.govinfo.gov/link/statute/121/1101).)*

@@ -3,9 +3,10 @@ title: "Section 5605 - Law enforcement authority of Sergeant at Arms"
 usc_title: 2
 usc_section: "5605"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 5605"
-generated_at: "2026-03-30T02:53:04.838Z"
+generated_at: "2026-11-23T21:25:21.339Z"
+status: "active"
 ---
 
 # § 5605. Law enforcement authority of Sergeant at Arms
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:04.838Z"
   - **(2)** Current certification in the use of firearms by the appropriate Federal law enforcement entity or an equivalent non-Federal entity.
   - **(3)** Any other firearms qualification required for members of the Capitol Police.
 - **(c)** The Committee on House Oversight of the House of Representatives shall have authority to prescribe regulations to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 104–53, title III, § 313](https://www.govinfo.gov/link/plaw/104/public/53), Nov. 19, 1995, [109 Stat. 538](https://www.govinfo.gov/link/statute/109/538).)*

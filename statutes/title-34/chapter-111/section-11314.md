@@ -3,9 +3,10 @@ title: "Section 11314 - Grants for tribal delinquency prevention and response pr
 usc_title: 34
 usc_section: "11314"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 11314"
-generated_at: "2026-03-30T02:55:33.281Z"
+generated_at: "2026-11-23T21:26:09.717Z"
+status: "active"
 ---
 
 # § 11314. Grants for tribal delinquency prevention and response programs
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:33.281Z"
   - **(2)** school dropout rates; and
   - **(3)** number of youth at risk of delinquency.
 - **(d)** Of the amount available for a fiscal year to carry out this subchapter, 11 percent shall be available to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 93–415, title V, § 505](https://www.govinfo.gov/link/plaw/93/public/415), as added [Pub. L. 115–385, title III, § 305](https://www.govinfo.gov/link/plaw/115/public/385), Dec. 21, 2018, [132 Stat. 5150](https://www.govinfo.gov/link/statute/132/5150).)*

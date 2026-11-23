@@ -3,9 +3,10 @@ title: "Section 2996h - Audits"
 usc_title: 42
 usc_section: "2996h"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2996h"
-generated_at: "2026-03-30T02:56:11.170Z"
+generated_at: "2026-11-23T21:26:32.454Z"
+status: "active"
 ---
 
 # § 2996h. Audits
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.170Z"
   - **(1)** The Corporation shall conduct, or require each grantee, contractor, or person or entity receiving financial assistance under this subchapter to provide for, an annual financial audit. The report of each such audit shall be maintained for a period of at least five years at the principal office of the Corporation.
   - **(2)** Upon request, the Corporation shall submit to the Comptroller General of the United States copies of such reports, and the Comptroller General may, in addition, inspect the books, accounts, financial records, files, and other papers or property belonging to or in use by such grantee, contractor, or person or entity, which relate to the disposition or use of funds received from the Corporation. Such audit reports shall be available for public inspection, during regular business hours, at the principal office of the Corporation.
 - **(d)** Notwithstanding the provisions of this section or section 2996g of this title , neither the Corporation nor the Comptroller General shall have access to any reports or records subject to the attorney-client privilege.
+
+## Source Credit
+
+*([Pub. L. 88–452, title X, § 1009](https://www.govinfo.gov/link/plaw/88/public/452), as added [Pub. L. 93–355, § 2](https://www.govinfo.gov/link/plaw/93/public/355), July 25, 1974, [88 Stat. 387](https://www.govinfo.gov/link/statute/88/387); amended [Pub. L. 95–222, § 14](https://www.govinfo.gov/link/plaw/95/public/222), Dec. 28, 1977, [91 Stat. 1623](https://www.govinfo.gov/link/statute/91/1623); [Pub. L. 104–66, title II, § 2111](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 730](https://www.govinfo.gov/link/statute/109/730); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

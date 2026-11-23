@@ -3,9 +3,10 @@ title: "Section 1474 - Additional authority of Secretary of State or other Gover
 usc_title: 22
 usc_section: "1474"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1474"
-generated_at: "2026-03-30T02:55:05.333Z"
+generated_at: "2026-11-23T21:25:58.401Z"
+status: "active"
 ---
 
 # § 1474. Additional authority of Secretary of State or other Government agency authorized to administer provisions
@@ -35,3 +36,7 @@ In carrying out the provisions of this chapter, the Secretary, or any Government
   - **(21)** incur expenses authorized by the Foreign Service Act of 1980 ( 22 U.S.C. 3901 et seq.);
   - **(22)** furnish living quarters as authorized by section 5912 of title 5 ; and
   - **(23)** provide allowances as authorized by sections 5921 through 5928 of title 5.
+
+## Source Credit
+
+*(Jan. 27, 1948, ch. 36, title VIII, § 804, as added [Pub. L. 92–352, title II, § 202](https://www.govinfo.gov/link/plaw/92/public/352), July 13, 1972, [86 Stat. 493](https://www.govinfo.gov/link/statute/86/493); amended [Pub. L. 94–350, title II, § 203](https://www.govinfo.gov/link/plaw/94/public/350), July 12, 1976, [90 Stat. 830](https://www.govinfo.gov/link/statute/90/830); [Pub. L. 96–60, title II](https://www.govinfo.gov/link/plaw/96/public/60), §§ 203(b)(2), 204(b), Aug. 15, 1979, [93 Stat. 398](https://www.govinfo.gov/link/statute/93/398), 400; [Pub. L. 97–241, title III](https://www.govinfo.gov/link/plaw/97/public/241), §§ 303(b), 304(c), (d), Aug. 24, 1982, [96 Stat. 291](https://www.govinfo.gov/link/statute/96/291), 293; [Pub. L. 101–246, title II, § 207](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 53](https://www.govinfo.gov/link/statute/104/53); [Pub. L. 102–138, title II](https://www.govinfo.gov/link/plaw/102/public/138), §§ 204, 205, Oct. 28, 1991, [105 Stat. 692](https://www.govinfo.gov/link/statute/105/692).)*

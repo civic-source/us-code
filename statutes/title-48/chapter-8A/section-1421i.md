@@ -3,9 +3,10 @@ title: "Section 1421i - Income tax"
 usc_title: 48
 usc_section: "1421i"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1421i"
-generated_at: "2026-03-30T02:56:14.584Z"
+generated_at: "2026-11-23T21:26:37.994Z"
+status: "active"
 ---
 
 # § 1421i. Income tax
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:14.584Z"
     - **(B)** such officer or employee acted under the directions of the Governor or his delegate.
   - **(4)** A civil action for the collection of the Guam Territorial income tax, together with fines, penalties, and forfeitures, or for the recovery of any erroneous refund of such tax, may be brought in the name of and by the government of Guam in the District Court of Guam or in any district court of the United States or in any court having the jurisdiction of a district court of the United States.
   - **(5)** The jurisdiction conferred upon the District Court of Guam by this subsection shall not be subject to transfer to any other court by the legislature, notwithstanding section 1424(a) of this title .
+
+## Source Credit
+
+*(Aug. 1, 1950, ch. 512, § 31, [64 Stat. 392](https://www.govinfo.gov/link/statute/64/392); [Pub. L. 85–688, § 1](https://www.govinfo.gov/link/plaw/85/public/688), Aug. 20, 1958, [72 Stat. 681](https://www.govinfo.gov/link/statute/72/681); [Pub. L. 92–606, § 1(d)](https://www.govinfo.gov/link/plaw/92/public/606), Oct. 31, 1972, [86 Stat. 1497](https://www.govinfo.gov/link/statute/86/1497); [Pub. L. 95–134, title II, § 203(c)](https://www.govinfo.gov/link/plaw/95/public/134), Oct. 15, 1977, [91 Stat. 1162](https://www.govinfo.gov/link/statute/91/1162); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 107–212, § 2(a)](https://www.govinfo.gov/link/plaw/107/public/212), Aug. 21, 2002, [116 Stat. 1051](https://www.govinfo.gov/link/statute/116/1051).)*

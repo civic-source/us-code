@@ -3,9 +3,10 @@ title: "Section 4236 - Individual compensation of eligible Aleuts"
 usc_title: 50
 usc_section: "4236"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4236"
-generated_at: "2026-03-30T02:56:26.270Z"
+generated_at: "2026-11-23T21:26:39.092Z"
+status: "active"
 ---
 
 # § 4236. Individual compensation of eligible Aleuts
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:26.270Z"
   - **(2)** shall not be included as income or resources for purposes of determining eligibility to receive benefits described in section 3803(c)(2)(C) of title 31 or the amount of such benefits.
 - **(e)** The payment to an eligible Aleut under this section shall be in full satisfaction of all claims against the United States arising out of the relocation described in section 4232(5) of this title .
 - **(f)** There are authorized to be appropriated to the Fund such sums as are necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 100–383, title II, § 206](https://www.govinfo.gov/link/plaw/100/public/383), Aug. 10, 1988, [102 Stat. 914](https://www.govinfo.gov/link/statute/102/914).)*

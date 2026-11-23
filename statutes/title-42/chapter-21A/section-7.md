@@ -3,9 +3,10 @@ title: "Section 7 - Definitions"
 usc_title: 42
 usc_section: "7"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-30T02:56:11.140Z"
+generated_at: "2026-11-23T21:26:32.295Z"
+status: "active"
 ---
 
 # § 2000aa–7. Definitions
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.140Z"
   - **(2)** are possessed for the purposes of communicating such materials to the public; and
   - **(3)** include mental impressions, conclusions, opinions, or theories of the person who prepared, produced, authored, or created such material.
 - **(c)** “Any other governmental unit”, as used in this chapter, includes the District of Columbia, the Commonwealth of Puerto Rico, any territory or possession of the United States, and any local government, unit of local government, or any unit of State government.
+
+## Source Credit
+
+*([Pub. L. 96–440, title I, § 107](https://www.govinfo.gov/link/plaw/96/public/440), Oct. 13, 1980, [94 Stat. 1881](https://www.govinfo.gov/link/statute/94/1881).)*

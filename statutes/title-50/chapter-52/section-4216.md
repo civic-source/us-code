@@ -3,9 +3,10 @@ title: "Section 4216 - Board of Directors of the Fund"
 usc_title: 50
 usc_section: "4216"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4216"
-generated_at: "2026-03-30T02:56:26.268Z"
+generated_at: "2026-11-23T21:26:39.091Z"
+status: "active"
 ---
 
 # § 4216. Board of Directors of the Fund
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:26.268Z"
 - **(f)** The Board may accept, use, and dispose of gifts or donations of services or property for purposes authorized under subsection (b).
 - **(g)** Not later than 12 months after the first meeting of the Board and every 12 months thereafter, the Board shall transmit to the President and to each House of the Congress a report describing the activities of the Board.
 - **(h)** 90 days after the termination of the Fund, the Board shall terminate and all obligations of the Board under this section shall cease.
+
+## Source Credit
+
+*([Pub. L. 100–383, title I, § 106](https://www.govinfo.gov/link/plaw/100/public/383), Aug. 10, 1988, [102 Stat. 908](https://www.govinfo.gov/link/statute/102/908).)*

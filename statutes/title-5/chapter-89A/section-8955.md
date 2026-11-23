@@ -3,12 +3,17 @@ title: "Section 8955 - Information to individuals eligible to enroll"
 usc_title: 5
 usc_section: "8955"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8955"
-generated_at: "2026-03-30T02:52:56.070Z"
+generated_at: "2026-11-23T21:25:23.456Z"
+status: "active"
 ---
 
 # § 8955. Information to individuals eligible to enroll
 
 - **(a)** The qualified companies 1 1 So in original. Probably should be followed by a comma. at the direction and with the approval of the Office, shall make available to each individual eligible to enroll in a dental benefits plan information on services and benefits (including maximums, limitations, and exclusions), that the Office considers necessary to enable the individual to make an informed decision about electing coverage.
 - **(b)** The Office shall make available to each individual eligible to enroll in a dental benefits plan, information on services and benefits provided by qualified companies participating under chapter 89.
+
+## Source Credit
+
+*(Added [Pub. L. 108–496, § 2](https://www.govinfo.gov/link/plaw/108/public/496), Dec. 23, 2004, [118 Stat. 4004](https://www.govinfo.gov/link/statute/118/4004).)*

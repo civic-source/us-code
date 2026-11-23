@@ -3,9 +3,10 @@ title: "Section 160h - Programs for development of area for recreational sports 
 usc_title: 16
 usc_section: "160h"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 160h"
-generated_at: "2026-03-30T02:54:22.737Z"
+generated_at: "2026-11-23T21:25:51.385Z"
+status: "active"
 ---
 
 # § 160h. Programs for development of area for recreational sports activities
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:22.737Z"
   - **(2)** use by seaplanes, and
   - **(3)** recreational use by all types of watercraft, including houseboats, runabouts, canoes, sailboats, fishing boats, and cabin cruisers.
 
+
+## Source Credit
+
+*([Pub. L. 91–661, § 303](https://www.govinfo.gov/link/plaw/91/public/661), Jan. 8, 1971, [84 Stat. 1972](https://www.govinfo.gov/link/statute/84/1972).)*

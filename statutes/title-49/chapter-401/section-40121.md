@@ -3,9 +3,10 @@ title: "Section 40121 - Air traffic control modernization reviews"
 usc_title: 49
 usc_section: "40121"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 40121"
-generated_at: "2026-03-30T02:56:19.371Z"
+generated_at: "2026-11-23T21:26:40.843Z"
+status: "active"
 ---
 
 # § 40121. Air traffic control modernization reviews
@@ -22,3 +23,19 @@ generated_at: "2026-03-30T02:56:19.371Z"
   - **(1)** Notwithstanding subsection (a), the Administrator may continue an acquisitions program required to be terminated under subsection (a) if the Administrator determines that termination would be inconsistent with the development or operation of the national air transportation system in a safe and efficient manner.
   - **(2)** The Department of Defense shall have the same exemptions from acquisition laws as are waived by the Administrator under section 40110(d)(2) of this title when engaged in joint actions to improve or replenish the national air traffic control system. The Administration may acquire real property, goods, and services through the Department of Defense, or other appropriate agencies, but is bound by the acquisition laws and regulations governing those cases.
   - **(3)** If the Administrator makes a determination under paragraph (1), the Administrator shall transmit a copy of the determination, together with a statement of the basis for the determination, to the Committees on Appropriations of the Senate and the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives.
+
+Required Terminations of Acquisitions
+
+Authorized Termination of Acquisition Programs
+
+Exceptions and Report.—
+
+Continuance of program, etc
+
+Department of defense
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 104–264, title II, § 252](https://www.govinfo.gov/link/plaw/104/public/264), Oct. 9, 1996, [110 Stat. 3236](https://www.govinfo.gov/link/statute/110/3236); amended [Pub. L. 106–181, title III, § 307(c)(2)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 126](https://www.govinfo.gov/link/statute/114/126).)*

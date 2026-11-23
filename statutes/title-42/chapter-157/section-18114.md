@@ -3,9 +3,10 @@ title: "Section 18114 - Access to therapies"
 usc_title: 42
 usc_section: "18114"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18114"
-generated_at: "2026-03-30T02:56:11.517Z"
+generated_at: "2026-11-23T21:26:33.816Z"
+status: "active"
 ---
 
 # § 18114. Access to therapies
@@ -18,3 +19,7 @@ Notwithstanding any other provision of this Act, the Secretary of Health and Hum
   - **(4)** restricts the ability of health care providers to provide full disclosure of all relevant information to patients making health care decisions;
   - **(5)** violates the principles of informed consent and the ethical standards of health care professionals; or
   - **(6)** limits the availability of health care treatment for the full duration of a patient’s medical needs.
+
+## Source Credit
+
+*([Pub. L. 111–148, title I, § 1554](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 259](https://www.govinfo.gov/link/statute/124/259).)*

@@ -3,9 +3,10 @@ title: "Section 384 - Department of Defense security cooperation workforce devel
 usc_title: 10
 usc_section: "384"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 384"
-generated_at: "2026-03-30T02:53:38.055Z"
+generated_at: "2026-11-23T21:25:32.258Z"
+status: "active"
 ---
 
 # § 384. Department of Defense security cooperation workforce development
@@ -99,3 +100,87 @@ generated_at: "2026-03-30T02:53:38.055Z"
   - **(2)** Not later than 2 years after the date of the enactment of this subsection, the Comptroller General shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the evaluation conducted under paragraph (1). Such report shall include—
     - **(A)** an analysis of the effectiveness of the actions taken by the Secretary to carry out the requirements of this section; and
     - **(B)** such legislative and administrative recommendations as the Comptroller General considers appropriate to meet the objectives of this section.
+
+Program Required
+
+Purpose
+
+Elements
+
+Management.—
+
+In general
+
+Managing entity.—
+
+Designation
+
+Duties
+
+Reporting
+
+Security cooperation workforce management information system
+
+Security Cooperation Human Capital Initiative.—
+
+In general
+
+Elements
+
+Foreign Military Sales Center of Excellence.—
+
+Establishment
+
+Objectives
+
+Defense Security Cooperation University.—
+
+Charter
+
+Mission
+
+Cooperative research and development arrangements.—
+
+In general
+
+Treatment as government-operated federal laboratory
+
+Acceptance of research grants
+
+In general
+
+Qualifying grants
+
+Entities from which grants may be accepted
+
+Administration of grant funds
+
+Related expenses
+
+Regulations
+
+Source of Funds.—
+
+In general
+
+Budget justification
+
+Use of Funds
+
+Security Cooperation Workforce Defined
+
+Report on Security Cooperation Workforce.—
+
+In general
+
+Elements
+
+Comptroller General Evaluation.—
+
+In general
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title XII, § 1250(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2526](https://www.govinfo.gov/link/statute/130/2526); amended [Pub. L. 118–31, div. A, title XII, § 1204(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 442](https://www.govinfo.gov/link/statute/137/442).)*

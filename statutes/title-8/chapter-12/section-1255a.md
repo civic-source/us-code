@@ -3,9 +3,10 @@ title: "Section 1255a - Adjustment of status of certain entrants before January 
 usc_title: 8
 usc_section: "1255a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1255a"
-generated_at: "2026-03-30T02:53:10.491Z"
+generated_at: "2026-11-23T21:25:25.166Z"
+status: "active"
 ---
 
 # § 1255a. Adjustment of status of certain entrants before January 1, 1982 , to that of person admitted for lawful residence
@@ -152,3 +153,25 @@ generated_at: "2026-03-30T02:53:10.491Z"
     - **(I)** Titles V, XVI, and XX [ 42 U.S.C. 701 et seq., 1381 et seq., 1397 et seq.], and parts B, D, and E of title IV [ 42 U.S.C. 620 et seq., 651 et seq., 670 et seq.], of the Social Security Act (and titles I, X, XIV, and XVI of such Act [ 42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., 1381 et seq.] as in effect without regard to the amendment made by section 301 of the Social Security Amendments of 1972).
   - **(5)** For the purpose of section 501 of the Refugee Education Assistance Act of 1980 ( Public Law 96–122 ) 2 2 So in original. Probably should be “( Public Law 96–422 )”. [ 8 U.S.C. 1255 note], assistance shall be continued under such section with respect to an alien without regard to the alien’s adjustment of status under this section.
 - **(i)** Beginning not later than the date designated by the Attorney General under subsection (a)(1)(A), the Attorney General, in cooperation with qualified designated entities, shall broadly disseminate information respecting the benefits which aliens may receive under this section and the requirements to obtain such benefits.
+
+Temporary Stay of Removal and Work Authorization for Certain Eligible Immigrants
+
+Eligible Immigrant and Legalized Alien Defined
+
+Application of Definitions
+
+Temporary Disqualification From Certain Public Welfare Assistance
+
+Exception for Certain Aliens
+
+Construction
+
+Effective Date
+
+Adjustment of Status
+
+Status and Adjustment of Status
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 5, § 245A, as added [Pub. L. 99–603, title II, § 201(a)(1)](https://www.govinfo.gov/link/plaw/99/public/603), Nov. 6, 1986, [100 Stat. 3394](https://www.govinfo.gov/link/statute/100/3394); amended [Pub. L. 100–525, § 2(h)(1)](https://www.govinfo.gov/link/plaw/100/public/525), Oct. 24, 1988, [102 Stat. 2611](https://www.govinfo.gov/link/statute/102/2611); [Pub. L. 101–649, title VI, § 603(a)(13)](https://www.govinfo.gov/link/plaw/101/public/649), title VII, § 703, Nov. 29, 1990, [104 Stat. 5083](https://www.govinfo.gov/link/statute/104/5083), 5086; [Pub. L. 102–140, title I](https://www.govinfo.gov/link/plaw/102/public/140), Oct. 28, 1991, [105 Stat. 785](https://www.govinfo.gov/link/statute/105/785); [Pub. L. 102–232, title III, § 307](https://www.govinfo.gov/link/plaw/102/public/232) (l)(6), Dec. 12, 1991, [105 Stat. 1756](https://www.govinfo.gov/link/statute/105/1756); [Pub. L. 103–382, title III, § 394(g)](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 4028](https://www.govinfo.gov/link/statute/108/4028); [Pub. L. 103–416, title I, § 108(b)](https://www.govinfo.gov/link/plaw/103/public/416), title II, § 219(l)(1), Oct. 25, 1994, [108 Stat. 4310](https://www.govinfo.gov/link/statute/108/4310), 4317; [Pub. L. 104–132, title IV, § 431(a)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1273](https://www.govinfo.gov/link/statute/110/1273); [Pub. L. 104–193, title I, § 110(s)(2)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2175](https://www.govinfo.gov/link/statute/110/2175); [Pub. L. 104–208, div. C, title III](https://www.govinfo.gov/link/plaw/104/public/208), §§ 308(g)(2)(B), (5)(A)(iii), 377(a), 384(d)(1), title VI, § 623(a), Sept. 30, 1996, [110 Stat. 3009–622](https://www.govinfo.gov/link/statute/110/3009), 3009–623, 3009–649, 3009–653, 3009–696; [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(4), (f)(4)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–419, 2681–430; [Pub. L. 105–332, § 3(a)](https://www.govinfo.gov/link/plaw/105/public/332), Oct. 31, 1998, [112 Stat. 3125](https://www.govinfo.gov/link/statute/112/3125); [Pub. L. 106–78, title VII, § 752(b)(5)](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1169](https://www.govinfo.gov/link/statute/113/1169); [Pub. L. 109–270, § 2(a)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 746](https://www.govinfo.gov/link/statute/120/746); [Pub. L. 110–234, title IV, § 4002(b)(1)(B)](https://www.govinfo.gov/link/plaw/110/public/234), (2)(J), May 22, 2008, [122 Stat. 1096](https://www.govinfo.gov/link/statute/122/1096), 1097; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4002(b)(1)(B), (2)(J), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1858; [Pub. L. 113–128, title V, § 512(q)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1712](https://www.govinfo.gov/link/statute/128/1712).)*

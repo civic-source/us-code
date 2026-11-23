@@ -3,9 +3,10 @@ title: "Section 880 - Administrative inspections and warrants"
 usc_title: 21
 usc_section: "880"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 880"
-generated_at: "2026-03-30T02:54:54.297Z"
+generated_at: "2026-11-23T21:25:56.254Z"
+status: "active"
 ---
 
 # § 880. Administrative inspections and warrants
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:54.297Z"
   - **(2)** A warrant shall issue only upon an affidavit of an officer or employee having knowledge of the facts alleged, sworn to before the judge or magistrate judge and establishing the grounds for issuing the warrant. If the judge or magistrate judge is satisfied that grounds for the application exist or that there is probable cause to believe they exist, he shall issue a warrant identifying the area, premises, building, or conveyance to be inspected, the purpose of such inspection, and, where appropriate, the type of property to be inspected, if any. The warrant shall identify the items or types of property to be seized, if any. The warrant shall be directed to a person authorized under subsection (b)(2) to execute it. The warrant shall state the grounds for its issuance and the name of the person or persons whose affidavit has been taken in support thereof. It shall command the person to whom it is directed to inspect the area, premises, building, or conveyance identified for the purpose specified, and, where appropriate, shall direct the seizure of the property specified. The warrant shall direct that it be served during normal business hours. It shall designate the judge or magistrate judge to whom it shall be returned.
   - **(3)** A warrant issued pursuant to this section must be executed and returned within ten days of its date unless, upon a showing by the United States of a need therefor, the judge or magistrate judge allows additional time in the warrant. If property is seized pursuant to a warrant, the person executing the warrant shall give to the person from whom or from whose premises the property was taken a copy of the warrant and a receipt for the property taken or shall leave the copy and receipt at the place from which the property was taken. The return of the warrant shall be made promptly and shall be accompanied by a written inventory of any property taken. The inventory shall be made in the presence of the person executing the warrant and of the person from whose possession or premises the property was taken, if they are present, or in the presence of at least one credible person other than the person making such inventory, and shall be verified by the person executing the warrant. The judge or magistrate judge, upon request, shall deliver a copy of the inventory to the person from whom or from whose premises the property was taken and to the applicant for the warrant.
   - **(4)** The judge or magistrate judge who has issued a warrant under this section shall attach to the warrant a copy of the return and all papers filed in connection therewith and shall file them with the clerk of the district court of the United States for the judicial district in which the inspection was made.
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 510](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1274](https://www.govinfo.gov/link/statute/84/1274); [Pub. L. 101–647, title XXXV, § 3599M](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4932](https://www.govinfo.gov/link/statute/104/4932); [Pub. L. 101–650, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117); [Pub. L. 103–200, § 6](https://www.govinfo.gov/link/plaw/103/public/200), Dec. 17, 1993, [107 Stat. 2339](https://www.govinfo.gov/link/statute/107/2339).)*

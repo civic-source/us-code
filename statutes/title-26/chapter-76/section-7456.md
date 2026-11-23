@@ -3,9 +3,10 @@ title: "Section 7456 - Administration of oaths and procurement of testimony"
 usc_title: 26
 usc_section: "7456"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7456"
-generated_at: "2026-03-30T02:55:27.875Z"
+generated_at: "2026-11-23T21:26:06.968Z"
+status: "active"
 ---
 
 # § 7456. Administration of oaths and procurement of testimony
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:27.875Z"
   - **(1)** misbehavior of any person in its presence or so near thereto as to obstruct the administration of justice;
   - **(2)** misbehavior of any of its officers in their official transactions; or
   - **(3)** disobedience or resistance to its lawful writ, process, order, rule, decree, or command.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 885; [Pub. L. 91–172, title IX](https://www.govinfo.gov/link/plaw/91/public/172), §§ 956, 958, Dec. 30, 1969, [83 Stat. 732](https://www.govinfo.gov/link/statute/83/732), 734; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 95–600, title III, § 336(b)(1)](https://www.govinfo.gov/link/plaw/95/public/600), title V, § 502(c), Nov. 6, 1978, [92 Stat. 2841](https://www.govinfo.gov/link/statute/92/2841), 2879; [Pub. L. 96–222, title I, § 105(a)(1)(B)](https://www.govinfo.gov/link/plaw/96/public/222), Apr. 1, 1980, [94 Stat. 218](https://www.govinfo.gov/link/statute/94/218); [Pub. L. 97–164, title I, § 153(a)](https://www.govinfo.gov/link/plaw/97/public/164), Apr. 2, 1982, [96 Stat. 47](https://www.govinfo.gov/link/statute/96/47); [Pub. L. 97–248, title IV, § 402(c)(13)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 668](https://www.govinfo.gov/link/statute/96/668); [Pub. L. 97–362, title I, § 106(c)](https://www.govinfo.gov/link/plaw/97/public/362), Oct. 25, 1982, [96 Stat. 1730](https://www.govinfo.gov/link/statute/96/1730); [Pub. L. 98–369, div. A, title IV](https://www.govinfo.gov/link/plaw/98/public/369), §§ 463(a), 464(a)–(c), July 18, 1984, [98 Stat. 824](https://www.govinfo.gov/link/statute/98/824); [Pub. L. 99–514, title XV](https://www.govinfo.gov/link/plaw/99/public/514), §§ 1555(a), 1556(b)(1), Oct. 22, 1986, [100 Stat. 2754](https://www.govinfo.gov/link/statute/100/2754), 2755; [Pub. L. 110–177, title I, § 102(b)](https://www.govinfo.gov/link/plaw/110/public/177), Jan. 7, 2008, [121 Stat. 2535](https://www.govinfo.gov/link/statute/121/2535).)*

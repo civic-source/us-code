@@ -3,9 +3,10 @@ title: "Section 3603 - Chief Information Officers Council"
 usc_title: 44
 usc_section: "3603"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 3603"
-generated_at: "2026-03-30T02:55:56.299Z"
+generated_at: "2026-11-23T21:26:18.442Z"
+status: "active"
 ---
 
 # § 3603. Chief Information Officers Council
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:56.299Z"
     - **(C)** Standards and guidelines for Federal Government computer system efficiency and security.
   - **(6)** Work with the Office of Personnel Management to assess and address the hiring, training, classification, and professional development needs of the Government related to information resources management.
   - **(7)** Work with the Archivist of the United States to assess how the Federal Records Act can be addressed effectively by Federal information resources management activities.
+
+## Source Credit
+
+*(Added [Pub. L. 107–347, title I, § 101(a)](https://www.govinfo.gov/link/plaw/107/public/347), Dec. 17, 2002, [116 Stat. 2905](https://www.govinfo.gov/link/statute/116/2905).)*

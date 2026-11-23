@@ -3,9 +3,10 @@ title: "Section 499e - Liability to persons injured"
 usc_title: 7
 usc_section: "499e"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 499e"
-generated_at: "2026-03-30T02:53:42.286Z"
+generated_at: "2026-11-23T21:25:27.965Z"
+status: "active"
 ---
 
 # § 499e. Liability to persons injured
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.286Z"
   - **(3)** The unpaid supplier, seller, or agent shall lose the benefits of such trust unless such person has given written notice of intent to preserve the benefits of the trust to the commission merchant, dealer, or broker within thirty calendar days (i) after expiration of the time prescribed by which payment must be made, as set forth in regulations issued by the Secretary, (ii) after expiration of such other time by which payment must be made, as the parties have expressly agreed to in writing before entering into the transaction, or (iii) after the time the supplier, seller, or agent has received notice that the payment instrument promptly presented for payment has been dishonored. The written notice to the commission merchant, dealer, or broker shall set forth information in sufficient detail to identify the transaction subject to the trust. When the parties expressly agree to a payment time period different from that established by the Secretary, a copy of any such agreement shall be filed in the records of each party to the transaction and the terms of payment shall be disclosed on invoices, accountings, and other documents relating to the transaction.
   - **(4)** In addition to the method of preserving the benefits of the trust specified in paragraph (3), a licensee may use ordinary and usual billing or invoice statements to provide notice of the licensee’s intent to preserve the trust. The bill or invoice statement must include the information required by the last sentence of paragraph (3) and contain on the face of the statement the following: “The perishable agricultural commodities listed on this invoice are sold subject to the statutory trust authorized by section 5(c) of the Perishable Agricultural Commodities Act, 1930 ( 7 U.S.C. 499e(c) ). The seller of these commodities retains a trust claim over these commodities, all inventories of food or other products derived from these commodities, and any receivables or proceeds from the sale of these commodities until full payment is received.”.
   - **(5)** The several district courts of the United States are vested with jurisdiction specifically to entertain (i) actions by trust beneficiaries to enforce payment from the trust, and (ii) actions by the Secretary to prevent and restrain dissipation of the trust.
+
+## Source Credit
+
+*(June 10, 1930, ch. 436, § 5, [46 Stat. 534](https://www.govinfo.gov/link/statute/46/534); Aug. 20, 1937, ch. 719, § 7, [50 Stat. 728](https://www.govinfo.gov/link/statute/50/728); [Pub. L. 98–273, § 1](https://www.govinfo.gov/link/plaw/98/public/273), May 7, 1984, [98 Stat. 165](https://www.govinfo.gov/link/statute/98/165); [Pub. L. 102–237, title X, § 1011(3)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1898](https://www.govinfo.gov/link/statute/105/1898); [Pub. L. 104–48](https://www.govinfo.gov/link/plaw/104/public/48), §§ 6, 8(b), Nov. 15, 1995, [109 Stat. 427](https://www.govinfo.gov/link/statute/109/427), 429.)*

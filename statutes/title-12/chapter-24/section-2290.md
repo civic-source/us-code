@@ -3,9 +3,10 @@ title: "Section 2290 - Exemptions"
 usc_title: 12
 usc_section: "2290"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2290"
-generated_at: "2026-03-30T02:53:53.485Z"
+generated_at: "2026-11-23T21:25:37.099Z"
+status: "active"
 ---
 
 # § 2290. Exemptions
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:53:53.485Z"
 - **(a)** The Bank, its property, its franchise, capital, reserves, surplus, security holdings, and other funds, and its income shall be exempt from all taxation now or hereafter imposed by the United States or by any State or local taxing authority; except that (1) any real property and any tangible personal property of the Bank shall be subject to Federal, State, and local taxation to the same extent according to its value as other such property is taxed, and (2) any obligations issued by the Bank shall be subject to Federal taxation to the same extent as the obligations of private corporations are taxed.
 - **(b)** All obligations issued by the Bank pursuant to this chapter shall be deemed to be exempted securities within the meaning of sections 77c(a)(2), 77ddd(a)(4), and 78c(a)(12) of title 15.
 - **(c)** Nothing herein shall affect the budget status of the Federal agencies selling obligations to the Bank under section 2285(a) of this title , or the method of budget accounting for their transactions. The receipts and disbursements of the Bank in the discharge of its functions shall not be included in the totals of the budget of the United States Government and shall be exempt from any general limitation imposed by statute on expenditures and net lending (budget outlays) of the United States.
+
+## Source Credit
+
+*([Pub. L. 93–224, § 11](https://www.govinfo.gov/link/plaw/93/public/224), Dec. 29, 1973, [87 Stat. 940](https://www.govinfo.gov/link/statute/87/940).)*

@@ -3,9 +3,10 @@ title: "Section 305e - Cause of action for misrepresentation of Indian produced 
 usc_title: 25
 usc_section: "305e"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 305e"
-generated_at: "2026-03-30T02:54:52.803Z"
+generated_at: "2026-11-23T21:25:54.556Z"
+status: "active"
 ---
 
 # § 305e. Cause of action for misrepresentation of Indian produced goods
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:54:52.803Z"
         - **(II)** reasonable attorney’s fees.
 - **(e)** If any provision of this section is held invalid, it is the intent of Congress that the remaining provisions of this section shall continue in full force and effect.
 - **(f)** Not later than 180 days after November 9, 2000 , the Board shall promulgate regulations to include in the definition of the term “Indian product” specific examples of such product to provide guidance to Indian artisans as well as to purveyors and consumers of Indian arts and crafts, as defined under this Act.
+
+## Source Credit
+
+*(Aug. 27, 1935, ch. 748, § 6, as added [Pub. L. 101–644, title I, § 105](https://www.govinfo.gov/link/plaw/101/public/644), Nov. 29, 1990, [104 Stat. 4664](https://www.govinfo.gov/link/statute/104/4664); amended [Pub. L. 106–497, § 2](https://www.govinfo.gov/link/plaw/106/public/497), Nov. 9, 2000, [114 Stat. 2219](https://www.govinfo.gov/link/statute/114/2219); [Pub. L. 111–211, title I, § 102(b)](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2259](https://www.govinfo.gov/link/statute/124/2259).)*

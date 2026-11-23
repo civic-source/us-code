@@ -3,9 +3,10 @@ title: "Section 110c - Boundary adjustments"
 usc_title: 16
 usc_section: "110c"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 110c"
-generated_at: "2026-03-30T02:54:22.734Z"
+generated_at: "2026-11-23T21:25:51.379Z"
+status: "active"
 ---
 
 # § 110c. Boundary adjustments
@@ -20,3 +21,9 @@ generated_at: "2026-03-30T02:54:22.734Z"
   - **(1)** Federal lands, and interests therein formerly within the boundary of the Mount Rainier National Park, which are excluded therefrom and are included within the boundaries of the Snoqualmie National Forest pursuant to this Act are, subject to valid existing rights, hereby transferred to the administrative jurisdiction of the Secretary of Agriculture for administration as part of the Forest, and shall be subject to all the laws and regulations applicable to the National Forest System.
   - **(2)** For the purposes of sections 100506(c) and 200306 of title 54, the boundaries of the Snoqualmie National Forest and the Gifford Pinchot National Forest, as modified pursuant to this Act, shall be treated as if they were the boundaries of those national forests on January 1, 1965 .
   - **(3)** Effective upon acceptance thereof by the State of Washington, the jurisdiction which the United States acquired over those lands excluded from the boundaries of the Mount Rainier National Park by this Act is hereby retroceded to the State.
+
+Authorization of Land Acquisition
+
+## Source Credit
+
+*([Pub. L. 100–668, title III, § 302](https://www.govinfo.gov/link/plaw/100/public/668), Nov. 16, 1988, [102 Stat. 3965](https://www.govinfo.gov/link/statute/102/3965).)*

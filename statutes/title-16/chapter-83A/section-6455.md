@@ -3,9 +3,10 @@ title: "Section 6455 - Working groups"
 usc_title: 16
 usc_section: "6455"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6455"
-generated_at: "2026-03-30T02:54:23.059Z"
+generated_at: "2026-11-23T21:25:52.041Z"
+status: "active"
 ---
 
 # § 6455. Working groups
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:23.059Z"
 - **(b)** The members of the Task Force may request that the co-chairpersons establish a working group under subsection (a).
 - **(c)** The co-chairpersons may allow nongovernmental organizations as appropriate, including academic institutions, conservation groups, and commercial and recreational fishing associations, to participate in a working group established under subsection (a).
 - **(d)** The Federal Advisory Committee Act (5 U.S.C. App.) 1 1 See References in Text note below. shall not apply to working groups established under this section.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. J, title C, § 10015](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3954](https://www.govinfo.gov/link/statute/136/3954).)*

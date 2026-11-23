@@ -3,12 +3,17 @@ title: "Section 316d - Notice of establishment and alteration of grazing distric
 usc_title: 43
 usc_section: "316d"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 316d"
-generated_at: "2026-03-30T02:55:57.437Z"
+generated_at: "2026-11-23T21:26:19.753Z"
+status: "active"
 ---
 
 # § 316d. Notice of establishment and alteration of grazing district; hearings
 
 Before establishing or altering a district the Secretary shall publish once a week for a period of six consecutive weeks in a newspaper of general circulation in each judicial division in which the district proposed to be established or altered is located, a notice describing the boundaries of the proposed district or the proposed alteration, announcing the date on which he proposes to establish such district or make such alteration and the location and date of hearings required under this section. No such alteration shall be made until after public hearings are held with respect to such alteration in each such judicial division after the publishing of such notice.
 
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 513, § 5, [44 Stat. 1453](https://www.govinfo.gov/link/statute/44/1453); [Pub. L. 90–403, § 1](https://www.govinfo.gov/link/plaw/90/public/403), July 18, 1968, [82 Stat. 358](https://www.govinfo.gov/link/statute/82/358).)*

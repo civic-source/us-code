@@ -3,9 +3,10 @@ title: "Section 1110a - Notification of certain individuals regarding options fo
 usc_title: 10
 usc_section: "1110a"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1110a"
-generated_at: "2026-03-30T02:53:38.109Z"
+generated_at: "2026-11-23T21:25:32.426Z"
+status: "active"
 ---
 
 # § 1110a. Notification of certain individuals regarding options for enrollment under Medicare part B
@@ -21,3 +22,11 @@ generated_at: "2026-03-30T02:53:38.109Z"
   - **(1)** a covered beneficiary;
   - **(2)** entitled to benefits under part A of title XVIII of the Social Security Act ( 42 U.S.C. 1395c ) under section 226(b) or section 226A of such Act ( 42 U.S.C. 426(b) and 426–1); and
   - **(3)** eligible to enroll in the supplementary medical insurance program under part B of such title ( 42 U.S.C. 1395j et seq.).
+
+In General
+
+Individuals Described
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title VII, § 707(a)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2376](https://www.govinfo.gov/link/statute/123/2376).)*

@@ -3,9 +3,10 @@ title: "Section 3105 - Authority of Federal Reserve System"
 usc_title: 12
 usc_section: "3105"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3105"
-generated_at: "2026-03-30T02:53:53.491Z"
+generated_at: "2026-11-23T21:25:37.122Z"
+status: "active"
 ---
 
 # § 3105. Authority of Federal Reserve System
@@ -99,3 +100,7 @@ generated_at: "2026-03-30T02:53:53.491Z"
   - **(2)** Any regulations promulgated to carry out this section—
     - **(A)** shall be promulgated in accordance with section 3108 of this title ; and
     - **(B)** shall be uniform, to the extent practicable.
+
+## Source Credit
+
+*([Pub. L. 95–369, § 7](https://www.govinfo.gov/link/plaw/95/public/369), Sept. 17, 1978, [92 Stat. 620](https://www.govinfo.gov/link/statute/92/620); [Pub. L. 102–242, title II](https://www.govinfo.gov/link/plaw/102/public/242), §§ 202(a), 203(a), 214(b), Dec. 19, 1991, [105 Stat. 2286](https://www.govinfo.gov/link/statute/105/2286), 2291, 2304; [Pub. L. 102–550, title XV, § 1507](https://www.govinfo.gov/link/plaw/102/public/550), title XVI, § 1604(a)(1), (2), (12), (13), Oct. 28, 1992, [106 Stat. 4056](https://www.govinfo.gov/link/statute/106/4056), 4081–4083; [Pub. L. 103–328, title I, § 107(e)(1)](https://www.govinfo.gov/link/plaw/103/public/328), Sept. 29, 1994, [108 Stat. 2360](https://www.govinfo.gov/link/statute/108/2360); [Pub. L. 104–208, div. A, title II, § 2214](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–411](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 111–203, title I, § 173(a)](https://www.govinfo.gov/link/plaw/111/public/203), (b), July 21, 2010, [124 Stat. 1440](https://www.govinfo.gov/link/statute/124/1440).)*

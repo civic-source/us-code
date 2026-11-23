@@ -3,9 +3,10 @@ title: "Section 3831a - Conservation reserve enhancement program"
 usc_title: 16
 usc_section: "3831a"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3831a"
-generated_at: "2026-03-30T02:54:23.024Z"
+generated_at: "2026-11-23T21:25:51.988Z"
+status: "active"
 ---
 
 # § 3831a. Conservation reserve enhancement program
@@ -70,3 +71,15 @@ generated_at: "2026-03-30T02:54:23.024Z"
   - **(2)** the purposes and objectives of the agreement;
   - **(3)** the Federal and eligible partner commitments made under the agreement; and
   - **(4)** the progress made in fulfilling those commitments.
+
+Repeal
+
+Transitional Provisions
+
+Effect on existing contracts and agreements
+
+Funding
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1231A](https://www.govinfo.gov/link/plaw/99/public/198), as added [Pub. L. 115–334, title II, § 2202(a)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4534](https://www.govinfo.gov/link/statute/132/4534).)*

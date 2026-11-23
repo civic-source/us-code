@@ -3,9 +3,10 @@ title: "Section 1 - Reciprocal agreements with liability coverage"
 usc_title: 42
 usc_section: "1"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T02:56:11.124Z"
+generated_at: "2026-11-23T21:26:32.196Z"
+status: "active"
 ---
 
 # § 1856n–1. Reciprocal agreements with liability coverage
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.124Z"
   - **(2)** to the extent the United States or any legal organization associated with the Federal firefighter is not entitled to immunity from the jurisdiction of the courts having jurisdiction over the foreign fire organization receiving the services of the Federal firefighters, to assume any and all liability for any legal action brought against the United States or the legal organization arising out of—
     - **(A)** an act or omission of the Federal firefighter in the performance of an official duty under the agreement; or
     - **(B)** any other act, omission, or occurrence for which the United States or the legal organization associated with the Federal firefighter is legally responsible under the laws applicable to the foreign fire organization.
+
+## Source Credit
+
+*([Pub. L. 100–428, § 4](https://www.govinfo.gov/link/plaw/100/public/428), as added [Pub. L. 112–74, div. E, title IV, § 411(5)](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 1040](https://www.govinfo.gov/link/statute/125/1040).)*

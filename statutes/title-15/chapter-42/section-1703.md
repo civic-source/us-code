@@ -3,9 +3,10 @@ title: "Section 1703 - Requirements respecting sale or lease of lots"
 usc_title: 15
 usc_section: "1703"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1703"
-generated_at: "2026-03-30T02:54:08.159Z"
+generated_at: "2026-11-23T21:25:39.892Z"
+status: "active"
 ---
 
 # § 1703. Requirements respecting sale or lease of lots
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:08.159Z"
   - **(2)** that, in the event of a default or breach of the contract or agreement by the purchaser or lessee, the seller or lessor (or successor thereof) will provide the purchaser or lessee with written notice of such default or breach and of the opportunity, which shall be given such purchaser or lessee, to remedy such default or breach within twenty days after the date of the receipt of such notice; and
   - **(3)** that, if the purchaser or lessee loses rights and interest in the lot as a result of a default or breach of the contract or agreement which occurs after the purchaser or lessee has paid 15 per centum of the purchase price of the lot, excluding any interest owed under the contract or agreement, the seller or lessor (or successor thereof) shall refund to such purchaser or lessee any amount which remains after subtracting (A) 15 per centum of the purchase price of the lot, excluding any interest owed under the contract or agreement, or the amount of damages incurred by the seller or lessor (or successor thereof) as a result of such breach, whichever is greater, from (B) the amount paid by the purchaser or lessee with respect to the purchase price of the lot, excluding any interest paid under the contract or agreement,
 - **(e)** If a contract or agreement is revoked pursuant to subsection (b), (c), or (d), if the purchaser or lessee tenders to the seller or lessor (or successor thereof) an instrument conveying his or her rights and interests in the lot, and if the rights and interests and the lot are in a condition which is substantially similar to the condition in which they were conveyed or purported to be conveyed to the purchaser or lessee, such purchaser or lessee shall be entitled to all money paid by him or her under such contract or agreement.
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIV, § 1404](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 591](https://www.govinfo.gov/link/statute/82/591); [Pub. L. 93–383, title VIII, § 812(c)(1)](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 737](https://www.govinfo.gov/link/statute/88/737); [Pub. L. 96–153, title IV, § 403](https://www.govinfo.gov/link/plaw/96/public/153), Dec. 21, 1979, [93 Stat. 1127](https://www.govinfo.gov/link/statute/93/1127).)*

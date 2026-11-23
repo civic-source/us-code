@@ -3,9 +3,10 @@ title: "Section 5537 - Senior investor protections"
 usc_title: 12
 usc_section: "5537"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5537"
-generated_at: "2026-03-30T02:53:53.545Z"
+generated_at: "2026-11-23T21:25:37.287Z"
+status: "active"
 ---
 
 # § 5537. Senior investor protections
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:53:53.545Z"
 - **(f)** A State or eligible entity that receives a grant under this section may make a subgrant, as the State or eligible entity determines is necessary to carry out the activities funded using a grant under this section.
 - **(g)** A State or eligible entity that receives a grant under this section may reapply for a grant under this section, notwithstanding the limitations on grant amounts under subsection (e).
 - **(h)** There are authorized to be appropriated to carry out this section, $8,000,000 for each of fiscal years 2011 through 2015.
+
+## Source Credit
+
+*([Pub. L. 111–203, title IX, § 989A](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1941](https://www.govinfo.gov/link/statute/124/1941).)*

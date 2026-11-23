@@ -3,9 +3,10 @@ title: "Section 1766 - Child and adult care food program"
 usc_title: 42
 usc_section: "1766"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1766"
-generated_at: "2026-03-30T02:56:11.113Z"
+generated_at: "2026-11-23T21:26:32.142Z"
+status: "active"
 ---
 
 # § 1766. Child and adult care food program
@@ -333,3 +334,189 @@ generated_at: "2026-03-30T02:56:11.113Z"
     - **(H)**
       - **(i)** On October 1, 2010 , out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary to provide technical assistance under this subsection $10,000,000, to remain available until expended.
       - **(ii)** The Secretary shall be entitled to receive, shall accept, and shall use to carry out this subsection the funds transferred under clause (i), without further appropriation.
+
+(aa) has tax exempt status under title 26;
+
+(bb) is operating a Federal program requiring nonprofit status to participate in the program; or
+
+(cc) is described in subsection (a)(2)(B).
+
+(aa) for cause by the applicable State agency in accordance with paragraph (5); or
+
+(bb) on termination of participation of the institution in the child and adult care food program.
+
+(aa) be conducted by an independent and impartial official other than, and not accountable to, any person involved in the determination to suspend the institution;
+
+(bb) provide the State agency and the institution the right to submit written documentation relating to the suspension, including State agency documentation of the alleged false or fraudulent claim for reimbursement and the response of the institution to the documentation;
+
+(cc) require the reviewing official to determine, based on the review, whether the State agency has established, based on a preponderance of the evidence, that the institution has knowingly submitted a false or fraudulent claim for reimbursement;
+
+(dd) require the suspension to be in effect for not more than 120 calendar days after the institution has received notification of a determination of suspension in accordance with this clause; and
+
+(ee) require the State agency during the suspension to ensure that payments continue to be made to sponsored centers and family and group day care homes meeting the requirements of the program.
+
+In general.—
+
+Requirement
+
+Fraud or abuse.—
+
+In general
+
+Payment
+
+Hearing
+
+Limitation on administrative expenses for certain sponsoring organizations.—
+
+In general
+
+Waiver
+
+Reimbursement of family or group day care home sponsoring organizations.—
+
+Reimbursement factor.—
+
+In general
+
+Tier i family or group day care homes.—
+
+Definition of tier i family or group day care home
+
+(aa) a family or group day care home that is located in a geographic area, as defined by the Secretary based on census data, in which at least 50 percent of the children residing in the area are members of households whose incomes meet the income eligibility guidelines for free or reduced price meals under section 1758 of this title ;
+
+(bb) a family or group day care home that is located in an area served by a school enrolling students in which at least 50 percent of the total number of children enrolled are certified eligible to receive free or reduced price school meals under this chapter or the Child Nutrition Act of 1966 ( 42 U.S.C. 1771 et seq.); or
+
+(cc) a family or group day care home that is operated by a provider whose household meets the income eligibility guidelines for free or reduced price meals under section 1758 of this title and whose income is verified by the sponsoring organization of the home under regulations established by the Secretary.
+
+Reimbursement
+
+Factors
+
+Adjustments
+
+Tier ii family or group day care homes.—
+
+In general.—
+
+(aa) Factors .— Except as provided in subclause (II), with respect to meals or supplements served under this clause by a family or group day care home that does not meet the criteria set forth in clause (ii)(I), the reimbursement factors shall be 95 cents for lunches and suppers, 27 cents for breakfasts, and 13 cents for supplements.
+
+(bb) Adjustments .— The factors shall be adjusted on July 1, 1997 , and each July 1 thereafter, to reflect changes in the Consumer Price Index for food at home for the most recent 12-month period for which the data are available. The reimbursement factors under this item shall be rounded down to the nearest lower cent increment and based on the unrounded adjustment for the preceding 12-month period.
+
+(cc) Reimbursement .— A family or group day care home shall be provided reimbursement factors under this subclause without a requirement for documentation of the costs described in clause (i), except that reimbursement shall not be provided under this subclause for meals or supplements served to the children of a person acting as a family or group day care home provider unless the children meet the income eligibility guidelines for free or reduced price meals under section 1758 of this title .
+
+Other factors
+
+(aa) Children eligible for free or reduced price meals .— In the case of meals or supplements served under this subsection to children who are members of households whose incomes meet the income eligibility guidelines for free or reduced price meals under section 1758 of this title , the family or group day care home shall be provided reimbursement factors set by the Secretary in accordance with clause (ii)(III).
+
+(bb) Ineligible children .— In the case of meals or supplements served under this subsection to children who are members of households whose incomes do not meet the income eligibility guidelines, the family or group day care home shall be provided reimbursement factors in accordance with subclause (I).
+
+Information and determinations.—
+
+(aa) In general .— If a family or group day care home elects to claim the factors described in subclause (II), the family or group day care home sponsoring organization serving the home shall collect the necessary income information, as determined by the Secretary, from any parent or other caretaker to make the determinations specified in subclause (II) and shall make the determinations in accordance with rules prescribed by the Secretary.
+
+(bb) Categorical eligibility .— In making a determination under item (aa), a family or group day care home sponsoring organization may consider a child participating in or subsidized under, or a child with a parent participating in or subsidized under, a federally or State supported child care or other benefit program with an income eligibility limit that does not exceed the eligibility standard for free or reduced price meals under section 1758 of this title to be a child who is a member of a household whose income meets the income eligibility guidelines under section 1758 of this title .
+
+(cc) Factors for children only .— A family or group day care home may elect to receive the reimbursement factors prescribed under clause (ii)(III) solely for the children participating in a program referred to in item (bb) if the home elects not to have income statements collected from parents or other caretakers.
+
+(dd) Transmission of income information by sponsored family or group day care homes .— If a family or group day care home elects to be provided reimbursement factors described in subclause (II), the family or group day care home may assist in the transmission of necessary household income information to the family or group day care home sponsoring organization in accordance with the policy described in item (ee).
+
+(ee) Policy .— The Secretary shall develop a policy under which a sponsored family or group day care home described in item (dd) may, under terms and conditions specified by the Secretary and with the written consent of the parents or guardians of a child in a family or group day care home participating in the program, assist in the transmission of the income information of the family to the family or group day care home sponsoring organization.
+
+Simplified meal counting and reporting procedures
+
+(aa) Setting an annual percentage for each home of the number of meals served that are to be reimbursed in accordance with the reimbursement factors prescribed under clause (ii)(III) and an annual percentage of the number of meals served that are to be reimbursed in accordance with the reimbursement factors prescribed under subclause (I), based on the family income of children enrolled in the home in a specified month or other period.
+
+(bb) Placing a home into 1 of 2 or more reimbursement categories annually based on the percentage of children in the home whose households have incomes that meet the income eligibility guidelines under section 1758 of this title , with each such reimbursement category carrying a set of reimbursement factors such as the factors prescribed under clause (ii)(III) or subclause (I) or factors established within the range of factors prescribed under clause (ii)(III) and subclause (I).
+
+(cc) Such other simplified procedures as the Secretary may prescribe.
+
+Minimum verification requirements
+
+Administrative funds.—
+
+In general
+
+Annual adjustment
+
+Carryover funds
+
+Limitations on ability of family or group day care homes to transfer sponsoring organizations.—
+
+In general
+
+Good cause
+
+Provision of data to family or group day care home sponsoring organizations.—
+
+Census data
+
+School data.—
+
+In general
+
+Use of data from preceding school year
+
+Duration of determination
+
+In general
+
+Improved targeting of day care home reimbursements
+
+Interim regulations
+
+Final regulations
+
+In General
+
+Temporary additional reimbursement for 2022-2023 school year
+
+Limitation
+
+Tier Determinations for
+
+School Year
+
+Appropriations
+
+Program for At-risk School Children
+
+Participation by Emergency Shelters
+
+Definitions
+
+Emergency shelter
+
+Secretary
+
+“The Secretary [of Agriculture] shall coordinate with the Secretary of Health and Human Services to encourage State licensing agencies to include nutrition and wellness standards within State licensing standards that ensure, to the maximum extent practicable, that licensed child care centers and family or group day care homes—
+
+Definition of Program
+
+Establishment
+
+Duties
+
+Additional Duties
+
+Report
+
+In general
+
+States
+
+Required activities
+
+Evaluation
+
+Report
+
+Authorization of appropriations
+
+Expansion; demonstration project
+
+Dietary requirements for adult day care food program
+
+## Source Credit
+
+*(June 4, 1946, ch. 281, § 17, as added [Pub. L. 94–105, § 16](https://www.govinfo.gov/link/plaw/94/public/105), Oct. 7, 1975, [89 Stat. 522](https://www.govinfo.gov/link/statute/89/522); amended [Pub. L. 95–166](https://www.govinfo.gov/link/plaw/95/public/166), §§ 3, 19(d), Nov. 10, 1977, [91 Stat. 1332](https://www.govinfo.gov/link/statute/91/1332), 1345; [Pub. L. 95–627, § 2](https://www.govinfo.gov/link/plaw/95/public/627), Nov. 10, 1978, [92 Stat. 3603](https://www.govinfo.gov/link/statute/92/3603); [Pub. L. 96–499, title II](https://www.govinfo.gov/link/plaw/96/public/499), §§ 207(a), 208(b), (c), Dec. 5, 1980, [94 Stat. 2602](https://www.govinfo.gov/link/statute/94/2602); [Pub. L. 97–35, title VIII](https://www.govinfo.gov/link/plaw/97/public/35), §§ 810, 817(c), 819(k), Aug. 13, 1981, [95 Stat. 528](https://www.govinfo.gov/link/statute/95/528), 532, 534; [Pub. L. 99–500, title III](https://www.govinfo.gov/link/plaw/99/public/500), §§ 361, 372(a), Oct. 18, 1986, [100 Stat. 1783–367](https://www.govinfo.gov/link/statute/100/1783), 1783–369, and [Pub. L. 99–591, title III](https://www.govinfo.gov/link/plaw/99/public/591), §§ 361, 372(a), Oct. 30, 1986, [100 Stat. 3341–370](https://www.govinfo.gov/link/statute/100/3341), 3341–372; [Pub. L. 99–661, div. D, title IV, § 4401](https://www.govinfo.gov/link/plaw/99/public/661), title V, § 4502(a), Nov. 14, 1986, [100 Stat. 4079](https://www.govinfo.gov/link/statute/100/4079), 4080; [Pub. L. 100–175, title IV, § 401](https://www.govinfo.gov/link/plaw/100/public/175), Nov. 29, 1987, [101 Stat. 972](https://www.govinfo.gov/link/statute/101/972); [Pub. L. 100–435, title II](https://www.govinfo.gov/link/plaw/100/public/435), §§ 211, 214, Sept. 19, 1988, [102 Stat. 1657](https://www.govinfo.gov/link/statute/102/1657), 1659; [Pub. L. 100–460, title VI, § 641](https://www.govinfo.gov/link/plaw/100/public/460), Oct. 1, 1988, [102 Stat. 2265](https://www.govinfo.gov/link/statute/102/2265); [Pub. L. 101–147, title I](https://www.govinfo.gov/link/plaw/101/public/147), §§ 105(a), (b), 131(b), title II, § 204(a), title III, §§ 310, 312(2), Nov. 10, 1989, [103 Stat. 883](https://www.govinfo.gov/link/statute/103/883), 907, 909, 915, 916; [Pub. L. 102–342, title II](https://www.govinfo.gov/link/plaw/102/public/342), §§ 202, 203, Aug. 14, 1992, [106 Stat. 913](https://www.govinfo.gov/link/statute/106/913); [Pub. L. 102–375, title VIII, § 811(a)](https://www.govinfo.gov/link/plaw/102/public/375), Sept. 30, 1992, [106 Stat. 1295](https://www.govinfo.gov/link/statute/106/1295); [Pub. L. 103–171, § 3(b)(4)](https://www.govinfo.gov/link/plaw/103/public/171), Dec. 2, 1993, [107 Stat. 1991](https://www.govinfo.gov/link/statute/107/1991); [Pub. L. 103–448, title I](https://www.govinfo.gov/link/plaw/103/public/448), §§ 105(c), 109(b), 116, Nov. 2, 1994, [108 Stat. 4702](https://www.govinfo.gov/link/statute/108/4702), 4705, 4714; [Pub. L. 104–193, title VII, § 708(a)](https://www.govinfo.gov/link/plaw/104/public/193) –(j), Aug. 22, 1996, [110 Stat. 2293–2299](https://www.govinfo.gov/link/statute/110/2293); [Pub. L. 105–336, title I](https://www.govinfo.gov/link/plaw/105/public/336), §§ 101(b), 107(a)–(j)(1), (2)(B), (3)(C), Oct. 31, 1998, [112 Stat. 3144](https://www.govinfo.gov/link/statute/112/3144), 3149–3153; [Pub. L. 106–224, title II, § 243(a)](https://www.govinfo.gov/link/plaw/106/public/224), (b)(1)–(4)(A), (5), (c)–(g)(1), (h), (i), June 20, 2000, [114 Stat. 413–420](https://www.govinfo.gov/link/statute/114/413); [Pub. L. 106–400, § 2](https://www.govinfo.gov/link/plaw/106/public/400), Oct. 30, 2000, [114 Stat. 1675](https://www.govinfo.gov/link/statute/114/1675); [Pub. L. 106–472, title III, § 307(c)](https://www.govinfo.gov/link/plaw/106/public/472), Nov. 9, 2000, [114 Stat. 2073](https://www.govinfo.gov/link/statute/114/2073); [Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 101(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–214; [Pub. L. 107–76, title VII](https://www.govinfo.gov/link/plaw/107/public/76), §§ 743, 771, Nov. 28, 2001, [115 Stat. 738](https://www.govinfo.gov/link/statute/115/738), 745; [Pub. L. 108–7, div. A, title VII, § 735](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 43](https://www.govinfo.gov/link/statute/117/43); [Pub. L. 108–134, § 2](https://www.govinfo.gov/link/plaw/108/public/134), Nov. 22, 2003, [117 Stat. 1389](https://www.govinfo.gov/link/statute/117/1389); [Pub. L. 108–211, § 2](https://www.govinfo.gov/link/plaw/108/public/211), Mar. 31, 2004, [118 Stat. 566](https://www.govinfo.gov/link/statute/118/566); [Pub. L. 108–265, title I, § 119(a)](https://www.govinfo.gov/link/plaw/108/public/265) –(h), June 30, 2004, [118 Stat. 753–755](https://www.govinfo.gov/link/statute/118/753); [Pub. L. 110–134, § 29(c)(2)](https://www.govinfo.gov/link/plaw/110/public/134), Dec. 12, 2007, [121 Stat. 1449](https://www.govinfo.gov/link/statute/121/1449); [Pub. L. 110–161, div. A, title VII, § 744](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 1881](https://www.govinfo.gov/link/statute/121/1881); [Pub. L. 110–234, title IV, § 4002(b)(1)(B)](https://www.govinfo.gov/link/plaw/110/public/234), (2)(Z), May 22, 2008, [122 Stat. 1096](https://www.govinfo.gov/link/statute/122/1096), 1097; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4002(b)(1)(B), (2)(Z), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1859; [Pub. L. 111–8, div. A, title VII, § 735](https://www.govinfo.gov/link/plaw/111/public/8), Mar. 11, 2009, [123 Stat. 559](https://www.govinfo.gov/link/statute/123/559); [Pub. L. 111–80, title VII, § 730](https://www.govinfo.gov/link/plaw/111/public/80), Oct. 21, 2009, [123 Stat. 2125](https://www.govinfo.gov/link/statute/123/2125); [Pub. L. 111–296, title I](https://www.govinfo.gov/link/plaw/111/public/296), §§ 121, 122, title II, § 221, title III, §§ 331–335, title IV, § 441(a)(7), (8), Dec. 13, 2010, [124 Stat. 3205](https://www.govinfo.gov/link/statute/124/3205), 3224, 3248–3252, 3264.)*

@@ -3,9 +3,10 @@ title: "Section 8901 - Introductory provisions"
 usc_title: 42
 usc_section: "8901"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8901"
-generated_at: "2026-03-30T02:56:11.349Z"
+generated_at: "2026-11-23T21:26:33.222Z"
+status: "active"
 ---
 
 # § 8901. Introductory provisions
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.349Z"
   - **(2)** to evaluate the environmental, social, and economic effects of acid precipitation; and
   - **(3)** based on the results of the research program established by this subchapter and to the extent consistent with existing law, to take action to the extent necessary and practicable (A) to limit or eliminate the identified emissions which are sources of acid precipitation, and (B) to remedy or otherwise ameliorate the harmful effects which may result from acid precipitation.
 - **(c)** For purposes of this subchapter the term “acid precipitation” means the wet or dry deposition from the atmosphere of acid chemical compounds.
+
+## Source Credit
+
+*([Pub. L. 96–294, title VII, § 702](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 770](https://www.govinfo.gov/link/statute/94/770).)*

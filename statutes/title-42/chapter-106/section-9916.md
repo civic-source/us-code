@@ -3,9 +3,10 @@ title: "Section 9916 - Fiscal controls, audits, and withholding"
 usc_title: 42
 usc_section: "9916"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9916"
-generated_at: "2026-03-30T02:56:11.377Z"
+generated_at: "2026-11-23T21:26:33.327Z"
+status: "active"
 ---
 
 # § 9916. Fiscal controls, audits, and withholding
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.377Z"
   - **(1)** The Secretary shall, after providing adequate notice and an opportunity for a hearing conducted within the affected State, withhold funds from any State that does not utilize the grant or allotment under section 9905 or 9906 of this title in accordance with the provisions of this chapter, including the assurances such State provided under section 9908 of this title .
   - **(2)** The Secretary shall respond in an expeditious and speedy manner to complaints of a substantial or serious nature that a State has failed to use funds in accordance with the provisions of this chapter, including the assurances provided by the State under section 9908 of this title . For purposes of this paragraph, a complaint of a failure to meet any one of the assurances provided under section 9908 of this title that constitutes disregarding that assurance shall be considered to be a complaint of a serious nature.
   - **(3)** Whenever the Secretary determines that there is a pattern of complaints of failures described in paragraph (2) from any State in any fiscal year, the Secretary shall conduct an investigation of the use of funds received under this chapter by such State in order to ensure compliance with the provisions of this chapter.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 678D](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 105–285, title II, § 201](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2744](https://www.govinfo.gov/link/statute/112/2744).)*

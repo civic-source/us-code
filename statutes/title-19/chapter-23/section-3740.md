@@ -3,9 +3,10 @@ title: "Section 3740 - Study on improving African agricultural practices"
 usc_title: 19
 usc_section: "3740"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 3740"
-generated_at: "2026-03-30T02:54:24.696Z"
+generated_at: "2026-11-23T21:25:42.851Z"
+status: "active"
 ---
 
 # § 3740. Study on improving African agricultural practices
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:24.696Z"
   - **(4)** marketing crop yields to prospective purchasers; and
   - **(5)** crop maximization practices.
 - **(b)** In conducting the study under subsection (a), the Secretary of Agriculture is encouraged to consult with American Land Grant Colleges and not-for-profit international organizations that have firsthand knowledge of current African farming practices.
+
+## Source Credit
+
+*([Pub. L. 106–200, title I, § 130](https://www.govinfo.gov/link/plaw/106/public/200), May 18, 2000, [114 Stat. 274](https://www.govinfo.gov/link/statute/114/274).)*

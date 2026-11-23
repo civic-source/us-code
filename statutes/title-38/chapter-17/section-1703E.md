@@ -3,9 +3,10 @@ title: "Section 1703E - Center for Innovation for Care and Payment"
 usc_title: 38
 usc_section: "1703E"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1703E"
-generated_at: "2026-03-30T02:55:53.481Z"
+generated_at: "2026-11-23T21:26:16.619Z"
+status: "active"
 ---
 
 # § 1703E. Center for Innovation for Care and Payment
@@ -106,3 +107,31 @@ generated_at: "2026-03-30T02:55:53.481Z"
     - **(A)** reduce spending without reducing the quality of care; or
     - **(B)** improve the quality of patient care without increasing spending; and
   - **(2)** the Secretary determines that such expansion would not deny or limit the coverage or provision of benefits for individuals receiving benefits under this chapter.
+
+In General
+
+Duration
+
+Location
+
+Budget
+
+Notice
+
+Waiver of Authorities
+
+(aa) the procedure in that House shall be the same as if no joint resolution had been received from the other House; but
+
+(bb) the vote on passage shall be on the joint resolution of the other House.
+
+Limitations
+
+Evaluation and Reporting Requirements
+
+Coordination and Advice
+
+Expansion of Successful Pilot Programs
+
+## Source Credit
+
+*(Added [Pub. L. 115–182, title I, § 152(a)](https://www.govinfo.gov/link/plaw/115/public/182), June 6, 2018, [132 Stat. 1432](https://www.govinfo.gov/link/statute/132/1432).)*

@@ -3,9 +3,10 @@ title: "Section 2501 - Findings; statement of purpose"
 usc_title: 29
 usc_section: "2501"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 2501"
-generated_at: "2026-03-30T02:55:18.743Z"
+generated_at: "2026-11-23T21:26:02.314Z"
+status: "active"
 ---
 
 # § 2501. Findings; statement of purpose
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:18.743Z"
   - **(2)** providing grants to community-based organizations to deliver technical assistance to employers and labor unions to prepare them to recruit, train, and employ women in apprenticeable occupations and nontraditional occupations;
   - **(3)** authorizing the Department of Labor to serve as a liaison between employers, labor, and the community-based organizations providing technical assistance, through its national office and its regional administrators; and
   - **(4)** conducting a comprehensive study to examine the barriers to the participation of women in apprenticeable occupations and nontraditional occupations and to develop recommendations for the workplace to eliminate such barriers.
+
+## Source Credit
+
+*([Pub. L. 102–530, § 2](https://www.govinfo.gov/link/plaw/102/public/530), Oct. 27, 1992, [106 Stat. 3465](https://www.govinfo.gov/link/statute/106/3465).)*

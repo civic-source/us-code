@@ -3,9 +3,10 @@ title: "Section 377 - Penalties"
 usc_title: 15
 usc_section: "377"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 377"
-generated_at: "2026-03-30T02:54:08.084Z"
+generated_at: "2026-11-23T21:25:39.633Z"
+status: "active"
 ---
 
 # § 377. Penalties
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:08.084Z"
     - **(B)** No common carrier or independent delivery service shall be subject to civil penalties under paragraph (1) for a violation of section 376a(e) of this title if—
       - **(i)** the common carrier or independent delivery service has implemented and enforces effective policies and practices for complying with that section; or
       - **(ii)** the violation consists of an employee of the common carrier or independent delivery service who physically receives and processes orders, picks up packages, processes packages, or makes deliveries, taking actions that are outside the scope of employment of the employee, or that violate the implemented and enforced policies of the common carrier or independent delivery service described in clause (i).
+
+## Source Credit
+
+*(Oct. 19, 1949, ch. 699, § 3, as added [Pub. L. 111–154, § 2(d)](https://www.govinfo.gov/link/plaw/111/public/154), Mar. 31, 2010, [124 Stat. 1100](https://www.govinfo.gov/link/statute/124/1100).)*

@@ -3,9 +3,10 @@ title: "Section 130f - Notification requirements for sensitive military operatio
 usc_title: 10
 usc_section: "130f"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 130f"
-generated_at: "2026-03-30T02:53:38.035Z"
+generated_at: "2026-11-23T21:25:32.215Z"
+status: "active"
 ---
 
 # § 130f. Notification requirements for sensitive military operations
@@ -22,3 +23,33 @@ generated_at: "2026-03-30T02:53:38.035Z"
   - **(3)** an operation conducted by the armed forces to free an individual from the control of hostile foreign forces.
 - **(e)** Nothing in this section shall be construed to provide any new authority or to alter or otherwise affect the War Powers Resolution ( 50 U.S.C. 1541 et seq.), the Authorization for Use of Military Force ( Public Law 107–40 ; 50 U.S.C. 1541 note), or any requirement under the National Security Act of 1947 ( 50 U.S.C. 3001 et seq.).
 - **(f)** Not later than 48 hours after the date on which a foreign partner force has been designated as eligible for the provision of collective self-defense by the armed forces for the purposes of subsection (d)(1)(B), the Secretary of Defense shall provide to the congressional defense committees notice in writing of such designation.
+
+In General
+
+Procedures
+
+Briefing Requirement
+
+Sensitive Military Operation Defined
+
+Rule of Construction
+
+Collective Self-defense Notification Requirement
+
+Comprehensive Policy Required
+
+Elements
+
+Report on Policy.—
+
+In general
+
+DoD general counsel statement
+
+Form
+
+Briefing on Policy
+
+## Source Credit
+
+*(Added [Pub. L. 113–66, div. A, title X, § 1041(a)(1)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 856](https://www.govinfo.gov/link/statute/127/856); amended [Pub. L. 114–92, div. A, title X, § 1043](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 977](https://www.govinfo.gov/link/statute/129/977); [Pub. L. 114–328, div. A, title X, § 1036(a)](https://www.govinfo.gov/link/plaw/114/public/328) –(f)(1), Dec. 23, 2016, [130 Stat. 2391](https://www.govinfo.gov/link/statute/130/2391), 2392; [Pub. L. 115–91, div. A, title X, § 1081(a)(6)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1594](https://www.govinfo.gov/link/statute/131/1594); [Pub. L. 115–232, div. A, title X, § 1031(a)](https://www.govinfo.gov/link/plaw/115/public/232), (b), Aug. 13, 2018, [132 Stat. 1953](https://www.govinfo.gov/link/statute/132/1953); [Pub. L. 117–81, div. A, title X, § 1042](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1903](https://www.govinfo.gov/link/statute/135/1903).)*

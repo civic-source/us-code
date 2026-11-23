@@ -3,9 +3,10 @@ title: "Section 453 - Authority and duties of division"
 usc_title: 7
 usc_section: "453"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 453"
-generated_at: "2026-03-30T02:53:42.284Z"
+generated_at: "2026-11-23T21:25:27.960Z"
+status: "active"
 ---
 
 # § 453. Authority and duties of division
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.284Z"
   - **(5)** To acquire from all available sources information concerning crop prospects, supply, demand, current receipts, exports, imports, and prices of the agricultural products handled or marketed by cooperative associations, and to employ qualified commodity marketing specialists to summarize and analyze this information and disseminate the same among cooperative associations and others.
   - **(6)** To promote the knowledge of cooperative principles and practices and to cooperate, in promoting such knowledge, with educational and marketing agencies, cooperative associations, and others.
   - **(7)** To make such special studies, in the United States and foreign countries, and to acquire and disseminate such information and findings as may be useful in the development and practice of cooperation.
+
+## Source Credit
+
+*(July 2, 1926, ch. 725, § 3, [44 Stat. 802](https://www.govinfo.gov/link/statute/44/802).)*

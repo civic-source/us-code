@@ -3,9 +3,10 @@ title: "Section 32706 - Inspections, investigations, and records"
 usc_title: 49
 usc_section: "32706"
 chapter: 327
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 32706"
-generated_at: "2026-03-30T02:56:19.364Z"
+generated_at: "2026-11-23T21:26:40.806Z"
+status: "active"
 ---
 
 # § 32706. Inspections, investigations, and records
@@ -33,3 +34,63 @@ generated_at: "2026-03-30T02:56:19.364Z"
   - **(2)** A witness summoned under this subsection is entitled to the same fee and mileage the witness would have been paid in a court of the United States.
   - **(3)** A civil action to enforce a subpena or order of the Secretary under this subsection may be brought in the United States district court for any judicial district in which the proceeding by the Secretary is conducted. The court may punish a failure to obey an order of the court to comply with the subpena or order of the Secretary as a contempt of court.
 - **(f)** A person may not fail to keep records, refuse access to or copying of records, fail to make reports or provide information, fail to allow entry or inspection, or fail to permit impoundment, as required under this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 32706(a) | 15:1990d(a)(1). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , §§ 414(a)–(c), 416; added July 14, 1976 , Pub. L. 94–364, § 408(2) , 90 Stat. 985 , 988. |
+| 32706(b) | 15:1990d(a)(2). |  |
+| 32706(c) | 15:1990d(a)(3). |  |
+| 32706(d) | 15:1990d(b). |  |
+| 32706(e)(1) | 15:1990d(c)(1)–(3). |  |
+| 32706(e)(2) | 15:1990d(c)(5). |  |
+| 32706(e)(3) | 15:1990d(c)(4). |  |
+| 32706(f) | 15:1990f. |  |
+
+
+Authority To Inspect and Investigate
+
+Entry, Inspection, and Impoundment
+
+Reasonable Compensation
+
+Records and Information Requirements
+
+Administrative Authority and Civil Actions To Enforce
+
+Prohibitions
+
+Historical and Revision Notes
+
+Pub. L
+
+32706(a)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+July 14, 1976
+
+Pub. L. 94–364, § 408(2)
+
+90 Stat. 985
+
+32706(b)
+
+32706(c)
+
+32706(d)
+
+32706(e)(1)
+
+32706(e)(2)
+
+32706(e)(3)
+
+32706(f)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1052](https://www.govinfo.gov/link/statute/108/1052); [Pub. L. 103–429, § 6(35)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4380](https://www.govinfo.gov/link/statute/108/4380); [Pub. L. 105–102, § 2(19)](https://www.govinfo.gov/link/plaw/105/public/102), Nov. 20, 1997, [111 Stat. 2205](https://www.govinfo.gov/link/statute/111/2205).)*

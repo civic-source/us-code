@@ -3,9 +3,10 @@ title: "Section 7408 - Air quality criteria and control techniques"
 usc_title: 42
 usc_section: "7408"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7408"
-generated_at: "2026-03-30T02:56:11.294Z"
+generated_at: "2026-11-23T21:26:33.078Z"
+status: "active"
 ---
 
 # § 7408. Air quality criteria and control techniques
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:56:11.294Z"
     - **(C)** the environmental, energy, and economic impact of such processes, procedures, and methods.
 - **(g)** The Administrator may assess the risks to ecosystems from exposure to criteria air pollutants (as identified by the Administrator in the Administrator’s sole discretion).
 - **(h)** The Administrator shall make information regarding emission control technology available to the States and to the general public through a central database. Such information shall include all control technology information received pursuant to State plan provisions requiring permits for sources, including operating permits for existing sources.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 108, as added [Pub. L. 91–604, § 4(a)](https://www.govinfo.gov/link/plaw/91/public/604), Dec. 31, 1970, [84 Stat. 1678](https://www.govinfo.gov/link/statute/84/1678); amended [Pub. L. 95–95, title I](https://www.govinfo.gov/link/plaw/95/public/95), §§ 104, 105, title IV, § 401(a), Aug. 7, 1977, [91 Stat. 689](https://www.govinfo.gov/link/statute/91/689), 790; [Pub. L. 101–549, title I](https://www.govinfo.gov/link/plaw/101/public/549), §§ 108(a)–(c), (o), 111, Nov. 15, 1990, [104 Stat. 2465](https://www.govinfo.gov/link/statute/104/2465), 2466, 2469, 2470; [Pub. L. 105–362, title XV, § 1501(b)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3294](https://www.govinfo.gov/link/statute/112/3294).)*

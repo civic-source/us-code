@@ -3,9 +3,10 @@ title: "Section 1811 - Fee relating to renewal and extension of employment autho
 usc_title: 8
 usc_section: "1811"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1811"
-generated_at: "2026-03-30T02:53:10.509Z"
+generated_at: "2026-11-23T21:25:25.220Z"
+status: "active"
 ---
 
 # § 1811. Fee relating to renewal and extension of employment authorization for aliens granted temporary protected status
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:10.509Z"
     - **(C)** may be retained and expended by U.S. Citizenship and Immigration Services without further appropriation; and
   - **(2)** any amounts collected pursuant to this section that are not credited to U.S. Citizenship and Immigration Services pursuant to subparagraph (A) shall be deposited into the general fund of the Treasury.
 - **(d)** Fees required to be paid under this section shall not be waived or reduced.
+
+## Source Credit
+
+*([Pub. L. 119–21, title X, § 100012](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 373](https://www.govinfo.gov/link/statute/139/373).)*

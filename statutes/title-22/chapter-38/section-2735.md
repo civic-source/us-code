@@ -3,9 +3,10 @@ title: "Section 2735 - Foreign relations exchange programs"
 usc_title: 22
 usc_section: "2735"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2735"
-generated_at: "2026-03-30T02:55:05.382Z"
+generated_at: "2026-11-23T21:25:58.540Z"
+status: "active"
 ---
 
 # § 2735. Foreign relations exchange programs
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.382Z"
 - **(d)** Nothing in this section may be construed to authorize the appointment as an officer or employee of the United States of—
   - **(1)** an individual whose allegiance is to any country, government, or foreign or international entity other than to the United States; or
   - **(2)** an individual who has not met the requirements of sections 3331, 3332, 3333, and 7311 of title 5 or any other provision of law concerning eligibility for appointment as, and continuation of employment as, an officer or employee of the United States.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title I, § 63, as added [Pub. L. 114–323, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/114/public/323), Dec. 16, 2016, [130 Stat. 1939](https://www.govinfo.gov/link/statute/130/1939).)*

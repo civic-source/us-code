@@ -3,9 +3,10 @@ title: "Section 50102 - Survey of merchant marine"
 usc_title: 46
 usc_section: "50102"
 chapter: 501
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 50102"
-generated_at: "2026-03-30T02:56:15.567Z"
+generated_at: "2026-11-23T21:26:37.210Z"
+status: "active"
 ---
 
 # § 50102. Survey of merchant marine
@@ -16,3 +17,36 @@ generated_at: "2026-03-30T02:56:15.567Z"
   - **(3)** vessels designed to afford the best and most complete protection for passengers and crew against fire and all marine perils; and
   - **(4)** an efficient capacity for building and repairing vessels in the United States with an adequate number of skilled personnel to provide an adequate mobilization base.
 - **(b)** In carrying out subsection (a)(1), the Secretary of Transportation shall cooperate closely with the Secretary of the Navy as to national defense requirements.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 50102 | 46 App.:1120. | June 29, 1936, ch. 858 , title II, § 210, 49 Stat. 1989 ; Pub. L. 91–469 , §§ 3, 35(a), Oct. 21, 1970 , 84 Stat. 1018 , 1035; Pub.L. 97–31, § 12(67) (related to § 210), Aug. 6, 1981 , 95 Stat. 159 . |
+
+
+In General
+
+Cooperation With Secretary of Navy
+
+Historical and Revision Notes
+
+50102
+
+June 29, 1936, ch. 858
+
+49 Stat. 1989
+
+Pub. L. 91–469
+
+Oct. 21, 1970
+
+84 Stat. 1018
+
+Pub.L. 97–31, § 12(67)
+
+Aug. 6, 1981
+
+95 Stat. 159
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(b)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1557](https://www.govinfo.gov/link/statute/120/1557).)*

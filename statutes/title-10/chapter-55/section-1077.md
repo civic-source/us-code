@@ -3,9 +3,10 @@ title: "Section 1077 - Medical care for dependents: authorized care in facilitie
 usc_title: 10
 usc_section: "1077"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1077"
-generated_at: "2026-03-30T02:53:38.103Z"
+generated_at: "2026-11-23T21:25:32.405Z"
+status: "active"
 ---
 
 # § 1077. Medical care for dependents: authorized care in facilities of uniformed services
@@ -94,3 +95,65 @@ generated_at: "2026-03-30T02:53:38.103Z"
     - **(C)** pathologies of the alimentary tract or the gastrointestinal tract;
     - **(D)** a neurological or physiological condition; and
     - **(E)** such other diseases or conditions the Secretary determines appropriate.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1077(a) 1077(b) 1077(c) | 37:403(f). 37:403(g). 37:403(h) (less clause (4)). | June 7, 1956, ch. 374, § 103(f) , (g), (h), 70 Stat. 251 , 252. |
+| 1077(d) | 37:403(h) (clause (4)). |  |
+
+
+Historical and Revision Notes
+
+1077(a)
+
+1077(b)
+
+1077(c)
+
+June 7, 1956, ch. 374, § 103(f)
+
+70 Stat. 251
+
+1077(d)
+
+Comprehensive Screening, Testing, and Reporting Guidelines.—
+
+In general
+
+Use of cdc recommendations
+
+Dissemination of guidelines
+
+Care Provided in Accordance With CDC Guidance
+
+Sharing of Results of Testing.—
+
+In general
+
+State defined
+
+Report
+
+Comptroller General Report
+
+Definitions
+
+Report and Plan on the Mental Health Care and Counseling Services Available to Military Children.—
+
+In general
+
+Elements
+
+Report
+
+Comprehensive Plan for Improvements in Access to Care and Counseling
+
+Pilot Program.—
+
+Elements
+
+Reports.—
+
+## Source Credit
+
+*(Added [Pub. L. 85–861, § 1(25)(B)](https://www.govinfo.gov/link/plaw/85/public/861), Sept. 2, 1958, [72 Stat. 1447](https://www.govinfo.gov/link/statute/72/1447); amended [Pub. L. 89–614, § 2(4)](https://www.govinfo.gov/link/plaw/89/public/614), Sept. 30, 1966, [80 Stat. 863](https://www.govinfo.gov/link/statute/80/863); [Pub. L. 98–525, title VI, § 633(a)](https://www.govinfo.gov/link/plaw/98/public/525), title XIV, §§ 1401(e)(3), 1405(22), Oct. 19, 1984, [98 Stat. 2544](https://www.govinfo.gov/link/statute/98/2544), 2617, 2623; [Pub. L. 99–145, title VI, § 651(b)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 656](https://www.govinfo.gov/link/statute/99/656); [Pub. L. 102–190, div. A, title VII](https://www.govinfo.gov/link/plaw/102/public/190), §§ 702(a), 703, Dec. 5, 1991, [105 Stat. 1400](https://www.govinfo.gov/link/statute/105/1400), 1401; [Pub. L. 103–160, div. A, title VII, § 701(b)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1686](https://www.govinfo.gov/link/statute/107/1686); [Pub. L. 103–337, div. A, title VII](https://www.govinfo.gov/link/plaw/103/public/337), §§ 703(b), 705, Oct. 5, 1994, [108 Stat. 2798](https://www.govinfo.gov/link/statute/108/2798), 2799; [Pub. L. 104–201, div. A, title VII, § 701(b)(1)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2587](https://www.govinfo.gov/link/statute/110/2587); [Pub. L. 105–85, div. A, title VII, § 702](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1807](https://www.govinfo.gov/link/statute/111/1807); [Pub. L. 107–107, div. A, title VII](https://www.govinfo.gov/link/plaw/107/public/107), §§ 702, 703(a), 704, Dec. 28, 2001, [115 Stat. 1161](https://www.govinfo.gov/link/statute/115/1161), 1162; [Pub. L. 108–375, div. A, title VII, § 715](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1985](https://www.govinfo.gov/link/statute/118/1985); [Pub. L. 114–328, div. A, title VII](https://www.govinfo.gov/link/plaw/114/public/328), §§ 713, 714(a), Dec. 23, 2016, [130 Stat. 2220](https://www.govinfo.gov/link/statute/130/2220); [Pub. L. 115–91, div. A, title VII, § 739(c)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1447](https://www.govinfo.gov/link/statute/131/1447); [Pub. L. 116–283, div. A, title VII, § 705](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3689](https://www.govinfo.gov/link/statute/134/3689); [Pub. L. 118–31, div. A, title VII](https://www.govinfo.gov/link/plaw/118/public/31), §§ 703, 704, Dec. 22, 2023, [137 Stat. 300](https://www.govinfo.gov/link/statute/137/300).)*

@@ -3,9 +3,10 @@ title: "Section 4321 - Establishment of importer risk assessment program"
 usc_title: 19
 usc_section: "4321"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4321"
-generated_at: "2026-03-30T02:54:24.706Z"
+generated_at: "2026-11-23T21:25:42.881Z"
+status: "active"
 ---
 
 # § 4321. Establishment of importer risk assessment program
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:24.706Z"
   - **(2)** The term “nonresident importer” means an importer who is—
     - **(A)** an individual who is not a citizen of the United States or an alien lawfully admitted for permanent residence in the United States; or
     - **(B)** a partnership, corporation, or other commercial entity that is not organized under the laws of a jurisdiction within the customs territory of the United States (as such term is defined in General Note 2 of the Harmonized Tariff Schedule of the United States) or in the Virgin Islands of the United States.
+
+## Source Credit
+
+*([Pub. L. 114–125, title I, § 115](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 143](https://www.govinfo.gov/link/statute/130/143).)*

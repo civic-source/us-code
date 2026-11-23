@@ -3,9 +3,10 @@ title: "Section 1019 - Definitions"
 usc_title: 20
 usc_section: "1019"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1019"
-generated_at: "2026-03-30T02:54:48.096Z"
+generated_at: "2026-11-23T21:25:47.014Z"
+status: "active"
 ---
 
 # § 1019. Definitions
@@ -40,3 +41,7 @@ In this part:
       - **(i)** arrangements or agreements with respect to loans under part D of subchapter IV; or
       - **(ii)** arrangements or agreements with respect to loans that originate through the auction pilot program under section 1099d(b) of this title .
   - **(9)** The term “private education loan” has the meaning given the term in section 1650 of title 15 .
+
+## Source Credit
+
+*([Pub. L. 89–329, title I, § 151](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title I, § 120](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3117](https://www.govinfo.gov/link/statute/122/3117).)*

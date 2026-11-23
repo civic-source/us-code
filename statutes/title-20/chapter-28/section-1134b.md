@@ -3,9 +3,10 @@ title: "Section 1134b - Stipends"
 usc_title: 20
 usc_section: "1134b"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1134b"
-generated_at: "2026-03-30T02:54:48.146Z"
+generated_at: "2026-11-23T21:25:47.246Z"
+status: "active"
 ---
 
 # § 1134b. Stipends
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:48.146Z"
   - **(2)**
     - **(A)** Beginning March 1, 1992 , any applicant for a fellowship under this subpart who has been notified in writing by the Secretary that such applicant has been selected to receive such a fellowship and is subsequently notified that the fellowship award has been withdrawn, shall receive such fellowship unless the Secretary subsequently makes a determination that such applicant submitted fraudulent information on the application.
     - **(B)** Subject to the availability of appropriations, amounts payable to an institution by the Secretary pursuant to this subsection shall not be reduced for any purpose other than the purposes specified under paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 89–329, title VII, § 703](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title VII, § 701](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1789](https://www.govinfo.gov/link/statute/112/1789); amended [Pub. L. 110–315, title VII, § 702(c)(1)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3346](https://www.govinfo.gov/link/statute/122/3346).)*

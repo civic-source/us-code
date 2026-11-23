@@ -3,9 +3,10 @@ title: "Section 6337 - Accrual of leave"
 usc_title: 5
 usc_section: "6337"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 6337"
-generated_at: "2026-03-30T02:52:56.032Z"
+generated_at: "2026-11-23T21:25:23.329Z"
+status: "active"
 ---
 
 # § 6337. Accrual of leave
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:52:56.032Z"
     - **(A)** any leave accrued but not yet transferred under this section shall not be credited to such employee; or
     - **(B)** if there remains, as of the date the emergency so terminates, any leave which became available to such employee under paragraph (1)(B), such leave shall cease to be available for any purpose.
 - **(d)** Nothing in this section shall be considered to prevent, with respect to a continuing medical emergency, further transfers of leave for use after leave accrued under this section has been exhausted by the employee.
+
+## Source Credit
+
+*(Added [Pub. L. 100–566, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/566), Oct. 31, 1988, [102 Stat. 2837](https://www.govinfo.gov/link/statute/102/2837); amended [Pub. L. 103–103, § 4](https://www.govinfo.gov/link/plaw/103/public/103), Oct. 8, 1993, [107 Stat. 1022](https://www.govinfo.gov/link/statute/107/1022).)*

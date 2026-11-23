@@ -3,9 +3,10 @@ title: "Section 7543 - State standards"
 usc_title: 42
 usc_section: "7543"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7543"
-generated_at: "2026-03-30T02:56:11.312Z"
+generated_at: "2026-11-23T21:26:33.117Z"
+status: "active"
 ---
 
 # § 7543. State standards
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.312Z"
     - **(B)** Any State other than California which has plan provisions approved under part D of subchapter I may adopt and enforce, after notice to the Administrator, for any period, standards relating to control of emissions from nonroad vehicles or engines (other than those referred to in subparagraph (A) or (B) of paragraph (1)) and take such other actions as are referred to in subparagraph (A) of this paragraph respecting such vehicles or engines if—
       - **(i)** such standards and implementation and enforcement are identical, for the period concerned, to the California standards authorized by the Administrator under subparagraph (A), and
       - **(ii)** California and such State adopt such standards at least 2 years before commencement of the period for which the standards take effect.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title II, § 209, formerly § 208, as added [Pub. L. 90–148, § 2](https://www.govinfo.gov/link/plaw/90/public/148), Nov. 21, 1967, [81 Stat. 501](https://www.govinfo.gov/link/statute/81/501); renumbered and amended [Pub. L. 91–604](https://www.govinfo.gov/link/plaw/91/public/604), §§ 8(a), 11(a)(2)(A), 15(c)(2), Dec. 31, 1970, [84 Stat. 1694](https://www.govinfo.gov/link/statute/84/1694), 1705, 1713; [Pub. L. 95–95, title II](https://www.govinfo.gov/link/plaw/95/public/95), §§ 207, 221, Aug. 7, 1977, [91 Stat. 755](https://www.govinfo.gov/link/statute/91/755), 762; [Pub. L. 101–549, title II, § 222(b)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2502](https://www.govinfo.gov/link/statute/104/2502).)*

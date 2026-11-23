@@ -3,12 +3,17 @@ title: "Section 286d - Federal Reserve banks as depositories"
 usc_title: 22
 usc_section: "286d"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 286d"
-generated_at: "2026-03-30T02:55:05.318Z"
+generated_at: "2026-11-23T21:25:58.360Z"
+status: "active"
 ---
 
 # § 286d. Federal Reserve banks as depositories
 
 Any Federal Reserve bank which is requested to do so by the Fund or the Bank shall act as its depository or as its fiscal agent, and the Board of Governors of the Federal Reserve System shall supervise and direct the carrying out of these functions by the Federal Reserve banks.
 
+
+## Source Credit
+
+*(July 31, 1945, ch. 339, § 6, [59 Stat. 514](https://www.govinfo.gov/link/statute/59/514).)*

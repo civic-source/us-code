@@ -3,9 +3,10 @@ title: "Section 6297 - Effect on other law"
 usc_title: 42
 usc_section: "6297"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6297"
-generated_at: "2026-03-30T02:56:11.252Z"
+generated_at: "2026-11-23T21:26:32.893Z"
+status: "active"
 ---
 
 # § 6297. Effect on other law
@@ -90,3 +91,7 @@ generated_at: "2026-03-30T02:56:11.252Z"
     - **(A)** Subject to subparagraph (B), a State or local government is not required to submit a petition to the Secretary in order to enforce or apply its building code or to establish that the code meets the conditions set forth in this subsection.
     - **(B)** If a building code requires the installation of covered products with efficiencies exceeding both the applicable Federal standard established in or prescribed under section 6295 of this title and the applicable standard of such State, if any, that has been granted a waiver under subsection (d), such requirement of the building code shall not be applicable unless the Secretary has granted a waiver for such requirement under subsection (d).
 - **(g)** Any disclosure with respect to energy use, energy efficiency, or estimated annual operating cost which is required to be made under the provisions of this part shall not create an express or implied warranty under State or Federal law that such energy efficiency will be achieved or that such energy use or estimated annual operating cost will not be exceeded under conditions of actual use.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 327](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 926](https://www.govinfo.gov/link/statute/89/926); [Pub. L. 95–619, title IV, § 424](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3263](https://www.govinfo.gov/link/statute/92/3263); [Pub. L. 100–12, § 7](https://www.govinfo.gov/link/plaw/100/public/12), Mar. 17, 1987, [101 Stat. 117](https://www.govinfo.gov/link/statute/101/117); [Pub. L. 100–357, § 2(f)](https://www.govinfo.gov/link/plaw/100/public/357), June 28, 1988, [102 Stat. 674](https://www.govinfo.gov/link/statute/102/674); [Pub. L. 102–486, title I, § 123(h)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2829](https://www.govinfo.gov/link/statute/106/2829); [Pub. L. 109–58, title I, § 135(d)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 634](https://www.govinfo.gov/link/statute/119/634); [Pub. L. 110–140, title III](https://www.govinfo.gov/link/plaw/110/public/140), §§ 321(d), 324(f), Dec. 19, 2007, [121 Stat. 1585](https://www.govinfo.gov/link/statute/121/1585), 1594; [Pub. L. 112–210, § 10(a)(9)](https://www.govinfo.gov/link/plaw/112/public/210), Dec. 18, 2012, [126 Stat. 1524](https://www.govinfo.gov/link/statute/126/1524).)*

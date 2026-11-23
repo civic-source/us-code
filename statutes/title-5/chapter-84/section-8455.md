@@ -3,9 +3,10 @@ title: "Section 8455 - Recovery; restoration of earning capacity"
 usc_title: 5
 usc_section: "8455"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8455"
-generated_at: "2026-03-30T02:52:56.061Z"
+generated_at: "2026-11-23T21:25:23.431Z"
+status: "active"
 ---
 
 # § 8455. Recovery; restoration of earning capacity
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:52:56.061Z"
     - **(B)** has not recovered from the disability for which that individual was retired;
   - **(3)** If an annuitant whose annuity is terminated because of a medical finding that the individual has recovered from disability is not reemployed in a position in which such individual is subject to this chapter, the annuity of such individual shall be restored at the applicable rate under section 8452 effective from the date on which the Office determines that there has been a recurrence of the disability.
   - **(4)** Paragraphs (2) and (3) shall not apply in the case of an annuitant receiving an annuity from the Fund under subchapter II of this chapter.
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 568](https://www.govinfo.gov/link/statute/100/568).)*

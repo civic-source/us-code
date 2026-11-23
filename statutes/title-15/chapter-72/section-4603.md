@@ -3,9 +3,10 @@ title: "Section 4603 - Semiconductor Technology Council"
 usc_title: 15
 usc_section: "4603"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4603"
-generated_at: "2026-03-30T02:54:08.200Z"
+generated_at: "2026-11-23T21:25:39.996Z"
+status: "active"
 ---
 
 # § 4603. Semiconductor Technology Council
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:54:08.200Z"
   - **(2)** While away from their homes or regular places of business in the performance of duties for the Council, members of the Council shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under sections 5702 and 5703 of title 5.
 - **(i)** Section 1013 of title 5 shall not apply to the Council.
 - **(j)** The Council shall use Federal funds made available to Sematech as needed for general and administrative support in accomplishing the Council’s purposes.
+
+## Source Credit
+
+*([Pub. L. 100–180, div. A, title II, § 273](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1070](https://www.govinfo.gov/link/statute/101/1070); [Pub. L. 102–245, title I, § 103(e)](https://www.govinfo.gov/link/plaw/102/public/245), Feb. 14, 1992, [106 Stat. 9](https://www.govinfo.gov/link/statute/106/9); [Pub. L. 103–160, div. A, title II, § 263(b)](https://www.govinfo.gov/link/plaw/103/public/160), (c)(3)–(e), Nov. 30, 1993, [107 Stat. 1608](https://www.govinfo.gov/link/statute/107/1608), 1610; [Pub. L. 103–337, div. A, title II, § 251](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2702](https://www.govinfo.gov/link/statute/108/2702); [Pub. L. 106–65, div. A, title IX, § 911(a)(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 717](https://www.govinfo.gov/link/statute/113/717); [Pub. L. 117–286, § 4(a)(72)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4313](https://www.govinfo.gov/link/statute/136/4313).)*

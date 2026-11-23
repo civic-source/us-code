@@ -3,9 +3,10 @@ title: "Section 9415 - National AI Research Resource Task Force"
 usc_title: 15
 usc_section: "9415"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9415"
-generated_at: "2026-03-30T02:54:08.246Z"
+generated_at: "2026-11-23T21:25:40.143Z"
+status: "active"
 ---
 
 # § 9415. National AI Research Resource Task Force
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:54:08.246Z"
 - **(g)** In this section:
   - **(1)** The terms “National Artificial Intelligence Research Resource” and “Resource” mean a system that provides researchers and students across scientific fields and disciplines with access to compute resources, co-located with publicly-available, artificial intelligence-ready government and non-government data sets and a research environment with appropriate educational tools and user support.
   - **(2)** The term “ownership” means responsibility and accountability for the implementation, deployment, and ongoing development of the National Artificial Intelligence Research Resource, and for providing staff support to that effort.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. E, title LI, § 5106](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4531](https://www.govinfo.gov/link/statute/134/4531).)*

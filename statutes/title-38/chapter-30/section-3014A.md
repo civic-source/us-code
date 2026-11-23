@@ -3,9 +3,10 @@ title: "Section 3014A - Accelerated payment of basic educational assistance for 
 usc_title: 38
 usc_section: "3014A"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3014A"
-generated_at: "2026-03-30T02:55:53.498Z"
+generated_at: "2026-11-23T21:26:16.714Z"
+status: "active"
 ---
 
 # § 3014A. Accelerated payment of basic educational assistance for education leading to employment in high technology occupation in high technology industry
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:53.498Z"
   - **(2)** If the monthly rate of basic educational assistance allowance otherwise payable to an individual under section 3015 of this title increases during the enrollment period of a program of education for which an accelerated payment of basic educational assistance is made under this section, the charge to the individual’s entitlement to basic educational assistance under this chapter shall be determined by prorating the entitlement chargeable, in the matter provided for under paragraph (1), for the periods covered by the initial rate and increased rate, respectively, in accordance with regulations prescribed by the Secretary.
 - **(f)** The Secretary may not make an accelerated payment under this section for a program of education to an individual who has received an advance payment under section 3680(d) of this title for the same enrollment period.
 - **(g)** The Secretary shall prescribe regulations to carry out this section. The regulations shall include requirements, conditions, and methods for the request, issuance, delivery, certification of receipt and use, and recovery of overpayment of an accelerated payment under this section.
+
+## Source Credit
+
+*(Added [Pub. L. 107–103, title I, § 104(a)(1)](https://www.govinfo.gov/link/plaw/107/public/103), Dec. 27, 2001, [115 Stat. 980](https://www.govinfo.gov/link/statute/115/980); amended [Pub. L. 107–330, title III, § 308(b)(1)](https://www.govinfo.gov/link/plaw/107/public/330), (2)(A), Dec. 6, 2002, [116 Stat. 2827](https://www.govinfo.gov/link/statute/116/2827).)*

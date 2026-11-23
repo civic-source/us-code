@@ -3,9 +3,10 @@ title: "Section 30902 - Charles “Pete” Conrad Astronomy Awards"
 usc_title: 51
 usc_section: "30902"
 chapter: 309
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 30902"
-generated_at: "2026-03-30T02:56:28.705Z"
+generated_at: "2026-11-23T21:26:42.537Z"
+status: "active"
 ---
 
 # § 30902. Charles “Pete” Conrad Astronomy Awards
@@ -26,3 +27,56 @@ generated_at: "2026-03-30T02:56:28.705Z"
   - **(5)**
     - **(A)** No individual who is not a citizen or permanent resident of the United States at the time of the individual’s discovery or contribution may receive an award under this section.
     - **(B)** The decisions of the Administrator in making awards under this section are final.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30902 | 42 U.S.C. 16792 . | Pub. L. 109–155, title VI, § 613 , Dec. 30, 2005 , 119 Stat. 2932 . |
+
+
+Short Title
+
+Definitions
+
+Amateur astronomer
+
+Minor planet center
+
+Near-earth asteroid
+
+Program
+
+Charles “Pete” Conrad Astronomy Awards Program.—
+
+In general
+
+Awards
+
+Award categories
+
+Discovery of brightest near-earth asteroid
+
+Greatest contribution to cataloguing near-earth asteroids
+
+Award amount
+
+Guidelines.—
+
+Citizen or permanent resident
+
+Finality
+
+Historical and Revision Notes
+
+30902
+
+42 U.S.C. 16792
+
+Pub. L. 109–155, title VI, § 613
+
+Dec. 30, 2005
+
+119 Stat. 2932
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3372](https://www.govinfo.gov/link/statute/124/3372).)*

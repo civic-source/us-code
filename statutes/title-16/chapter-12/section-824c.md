@@ -3,9 +3,10 @@ title: "Section 824c - Issuance of securities; assumption of liabilities"
 usc_title: 16
 usc_section: "824c"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 824c"
-generated_at: "2026-03-30T02:54:22.915Z"
+generated_at: "2026-11-23T21:25:51.763Z"
+status: "active"
 ---
 
 # § 824c. Issuance of securities; assumption of liabilities
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:22.915Z"
 - **(f)** The provisions of this section shall not extend to a public utility organized and operating in a State under the laws of which its security issues are regulated by a State commission.
 - **(g)** Nothing in this section shall be construed to imply any guarantee or obligation on the part of the United States in respect of any securities to which the provisions of this section relate.
 - **(h)** Any public utility whose security issues are approved by the Commission under this section may file with the Securities and Exchange Commission duplicate copies of reports filed with the Federal Power Commission in lieu of the reports, information, and documents required under sections 77g, 78 l , and 78m of title 15.
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. II, § 204, as added Aug. 26, 1935, ch. 687, title II, § 213, [49 Stat. 850](https://www.govinfo.gov/link/statute/49/850).)*

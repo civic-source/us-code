@@ -3,12 +3,17 @@ title: "Section 235 - Sale or shipment of barrel of less capacity than standard;
 usc_title: 15
 usc_section: "235"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 235"
-generated_at: "2026-03-30T02:54:08.076Z"
+generated_at: "2026-11-23T21:25:39.614Z"
+status: "active"
 ---
 
 # § 235. Sale or shipment of barrel of less capacity than standard; punishment
 
 It shall be unlawful to sell, offer, or expose for sale in any State, Territory, or the District of Columbia, or to ship from any State, Territory, or the District of Columbia to any other State, Territory, or the District of Columbia or to a foreign country, a barrel containing fruits or vegetables or any other dry commodity of less capacity than the standard barrels defined in section 234 of this title , known as the third, half, and three-quarters barrel, and any person guilty of a willful violation of any of the provisions of sections 234 to 236 of this title shall be deemed guilty of a misdemeanor and be liable to a fine not to exceed $500, or imprisonment not to exceed six months, in the court of the United States having jurisdiction: Provided, however , That no barrel shall be deemed below standard within the meaning of said sections when shipped to any foreign country and constructed according to the specifications or directions of the foreign purchaser if not constructed in conflict with the laws of the foreign country to which the same is intended to be shipped.
 
+
+## Source Credit
+
+*(Mar. 4, 1915, ch. 158, § 2, [38 Stat. 1186](https://www.govinfo.gov/link/statute/38/1186).)*

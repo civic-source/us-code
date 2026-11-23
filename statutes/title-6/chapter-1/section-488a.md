@@ -3,9 +3,10 @@ title: "Section 488a - Regulation of the sale and transfer of ammonium nitrate"
 usc_title: 6
 usc_section: "488a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 488a"
-generated_at: "2026-03-30T02:53:09.468Z"
+generated_at: "2026-11-23T21:25:25.801Z"
+status: "active"
 ---
 
 # § 488a. Regulation of the sale and transfer of ammonium nitrate
@@ -69,3 +70,7 @@ generated_at: "2026-03-30T02:53:09.468Z"
   - **(7)**
     - **(A)** The Secretary shall, as appropriate, recheck persons provided a registration number pursuant to this part against the terrorist screening database of the Department, and may revoke such registration number if the Secretary determines such person may pose a threat to national security.
     - **(B)** The Secretary shall, as appropriate, provide prior notice to a person whose registration number is revoked under this section and such person shall have an opportunity to appeal, as provided in paragraph (4).
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 899B](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 110–161, div. E, title V, § 563(a)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2084](https://www.govinfo.gov/link/statute/121/2084); amended [Pub. L. 115–278, § 2(g)(5)(B)](https://www.govinfo.gov/link/plaw/115/public/278), Nov. 16, 2018, [132 Stat. 4179](https://www.govinfo.gov/link/statute/132/4179).)*

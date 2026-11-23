@@ -3,9 +3,10 @@ title: "Section 60552 - Grants to study parole or post-incarceration supervision
 usc_title: 34
 usc_section: "60552"
 chapter: 605
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 60552"
-generated_at: "2026-03-30T02:55:33.317Z"
+generated_at: "2026-11-23T21:26:09.864Z"
+status: "active"
 ---
 
 # § 60552. Grants to study parole or post-incarceration supervision violations and revocations
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:33.317Z"
     - **(D)** the term of imprisonment or other penalty that is imposed for the violation; and
   - **(2)** provide the data described in paragraph (1) to the Bureau of Justice Statistics, in a form prescribed by the Bureau.
 - **(c)** Any statistical analysis of population data under this section shall be conducted in accordance with the Federal Register Notice dated October 30, 1997 , relating to classification standards.
+
+## Source Credit
+
+*([Pub. L. 110–199, title II, § 242](https://www.govinfo.gov/link/plaw/110/public/199), Apr. 9, 2008, [122 Stat. 690](https://www.govinfo.gov/link/statute/122/690).)*

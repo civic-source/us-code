@@ -3,9 +3,10 @@ title: "Section 4226 - Environmental review"
 usc_title: 25
 usc_section: "4226"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4226"
-generated_at: "2026-03-30T02:54:52.861Z"
+generated_at: "2026-11-23T21:25:54.713Z"
+status: "active"
 ---
 
 # § 4226. Environmental review
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:52.861Z"
   - **(4)** specify that the Director—
     - **(A)** consents to assume the status of a responsible Federal official under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) and each provision of law specified in regulations issued by the Secretary to the extent that those laws apply by reason of subsection (a); and
     - **(B)** is authorized and consents on behalf of the Department of Hawaiian Home Lands and the Director to accept the jurisdiction of the Federal courts for the purpose of enforcement of the responsibilities of the Director of the Department of Hawaiian Home Lands as such an official.
+
+## Source Credit
+
+*([Pub. L. 104–330, title VIII, § 806](https://www.govinfo.gov/link/plaw/104/public/330), as added [Pub. L. 106–568, title II, § 203](https://www.govinfo.gov/link/plaw/106/public/568), Dec. 27, 2000, [114 Stat. 2883](https://www.govinfo.gov/link/statute/114/2883), and [Pub. L. 106–569, title V, § 513](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 2977](https://www.govinfo.gov/link/statute/114/2977).)*

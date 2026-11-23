@@ -3,9 +3,10 @@ title: "Section 11824 - Applications"
 usc_title: 42
 usc_section: "11824"
 chapter: 123
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11824"
-generated_at: "2026-03-30T02:56:11.405Z"
+generated_at: "2026-11-23T21:26:33.442Z"
+status: "active"
 ---
 
 # § 11824. Applications
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.405Z"
   - **(4)** provide for regular evaluation of such project or activity,
   - **(5)** provide that regular reports on such project or activity shall be sent to the appropriate Federal officer, and
   - **(6)** provide for such fiscal control and fund accounting procedures as may be necessary to ensure prudent use, proper disbursement, and accurate accounting of funds received under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 100–690, title III, § 3514](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4256](https://www.govinfo.gov/link/statute/102/4256).)*

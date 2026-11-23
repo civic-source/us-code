@@ -3,9 +3,10 @@ title: "Section 10106 - Community Capacity Development Office"
 usc_title: 34
 usc_section: "10106"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10106"
-generated_at: "2026-03-30T02:55:33.259Z"
+generated_at: "2026-11-23T21:26:09.616Z"
+status: "active"
 ---
 
 # § 10106. Community Capacity Development Office
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:33.259Z"
   - **(1)** identify grants under which clearly beneficial outcomes were obtained, and the characteristics of those grants that were responsible for obtaining those outcomes; and
   - **(2)** incorporate those characteristics into the training provided under this section.
 - **(e)** not 2 2 So in original. Probably should be capitalized. to exceed 3 percent of all funding made available for a fiscal year for the programs covered by section 10103(b) 1 of this title shall be reserved for the Community Capacity Development Office for the activities authorized by this section.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 106](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 109–162, title XI, § 1159(a)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3116](https://www.govinfo.gov/link/statute/119/3116); amended [Pub. L. 109–271, § 8(f)](https://www.govinfo.gov/link/plaw/109/public/271), Aug. 12, 2006, [120 Stat. 766](https://www.govinfo.gov/link/statute/120/766).)*

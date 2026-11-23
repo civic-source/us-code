@@ -3,9 +3,10 @@ title: "Section 1445j - Deficiency and land diversion payments"
 usc_title: 7
 usc_section: "1445j"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1445j"
-generated_at: "2026-03-30T02:53:42.316Z"
+generated_at: "2026-11-23T21:25:28.080Z"
+status: "active"
 ---
 
 # § 1445j. Deficiency and land diversion payments
@@ -37,3 +38,27 @@ generated_at: "2026-03-30T02:53:42.316Z"
   - **(4)** The Secretary shall carry out the program authorized by this section through the Commodity Credit Corporation.
   - **(5)** The authority provided in this section shall be in addition to, and not in place of, any authority granted to the Secretary or the Commodity Credit Corporation under any other provision of law.
 - **(b)**
+
+Mandatory Calculation of Refund.—
+
+In general
+
+Disclosure.—
+
+To the public
+
+To producers
+
+Discretionary Use of Calculation.—
+
+In general
+
+Procedure for use of calculation
+
+In general
+
+Application
+
+## Source Credit
+
+*(Oct. 31, 1949, ch. 792, title I, § 114, formerly § 107C, as added [Pub. L. 97–253, title I, § 120](https://www.govinfo.gov/link/plaw/97/public/253), Sept. 8, 1982, [96 Stat. 766](https://www.govinfo.gov/link/statute/96/766); amended [Pub. L. 99–198, title X, § 1002](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1446](https://www.govinfo.gov/link/statute/99/1446); [Pub. L. 100–203, title I, § 1110](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–6](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 101–239, title I, § 1003(b)(1)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2108](https://www.govinfo.gov/link/statute/103/2108); [Pub. L. 101–508, title I, § 1102(d)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–2](https://www.govinfo.gov/link/statute/104/1388); renumbered § 114 and amended [Pub. L. 101–624, title XI](https://www.govinfo.gov/link/plaw/101/public/624), §§ 1121(a), (c), 1161(a)(1), Nov. 28, 1990, [104 Stat. 3500](https://www.govinfo.gov/link/statute/104/3500), 3503, 3520; [Pub. L. 102–237, title I, § 109](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1828](https://www.govinfo.gov/link/statute/105/1828); [Pub. L. 103–66, title I, § 1101(b)(1)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 314](https://www.govinfo.gov/link/statute/107/314); [Pub. L. 104–127, title I, § 171(b)(2)(G)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 938](https://www.govinfo.gov/link/statute/110/938).)*

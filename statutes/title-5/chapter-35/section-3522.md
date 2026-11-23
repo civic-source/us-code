@@ -3,9 +3,10 @@ title: "Section 3522 - Agency plans; approval"
 usc_title: 5
 usc_section: "3522"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3522"
-generated_at: "2026-03-30T02:52:56.006Z"
+generated_at: "2026-11-23T21:25:23.171Z"
+status: "active"
 ---
 
 # § 3522. Agency plans; approval
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:52:56.006Z"
   - **(4)** the number and amounts of voluntary separation incentive payments to be offered; and
   - **(5)** a description of how the agency will operate without the eliminated positions and functions.
 - **(c)** The Director of the Office of Personnel Management shall review each agency’s plan an 1 1 So in original. Probably should be “and”. may make any appropriate modifications in the plan, in consultation with the Director of the Office of Management and Budget. A plan under this section may not be implemented without the approval of the Directive 2 2 So in original. Probably should be “Director”. of the Office of Personnel Management.
+
+## Source Credit
+
+*(Added [Pub. L. 107–296, title XIII, § 1313(a)(1)(A)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2292](https://www.govinfo.gov/link/statute/116/2292).)*

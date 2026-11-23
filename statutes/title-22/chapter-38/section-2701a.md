@@ -3,9 +3,10 @@ title: "Section 2701a - Education allowance for dependents of Department of Stat
 usc_title: 22
 usc_section: "2701a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2701a"
-generated_at: "2026-03-30T02:55:05.379Z"
+generated_at: "2026-11-23T21:25:58.531Z"
+status: "active"
 ---
 
 # § 2701a. Education allowance for dependents of Department of State employees located in United States territories
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.379Z"
   - **(2)** the Secretary of Defense has determined that schools available in such location are unable to adequately provide for the education of—
     - **(A)** dependents of members of the Armed Forces; or
     - **(B)** dependents of employees of the Department of Defense.
+
+## Source Credit
+
+*([Pub. L. 118–31, div. F, title LXII, § 6231](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 983](https://www.govinfo.gov/link/statute/137/983).)*

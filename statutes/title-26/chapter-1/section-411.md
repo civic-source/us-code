@@ -3,9 +3,10 @@ title: "Section 411 - Minimum vesting standards"
 usc_title: 26
 usc_section: "411"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 411"
-generated_at: "2026-03-30T02:55:27.683Z"
+generated_at: "2026-11-23T21:26:06.209Z"
+status: "active"
 ---
 
 # § 411. Minimum vesting standards
@@ -256,3 +257,142 @@ generated_at: "2026-03-30T02:55:27.683Z"
     - **(C)** A defined benefit plan shall be an applicable plan only with respect to an individual who—
       - **(i)** is a participant in the plan on or before January 1, 2017 , or
       - **(ii)** is an employee at any time on or before January 1, 2017 , of any employer maintaining the plan, and who becomes a participant in such plan after such date.
+
+| Years of service: | The nonforfeitable percentage is: |
+| --- | --- |
+| 3 | 20 |
+| 4 | 40 |
+| 5 | 60 |
+| 6 | 80 |
+| 7 or more | 100. |
+
+| Years of service: | The nonforfeitable percentage is: |
+| --- | --- |
+| 2 | 20 |
+| 3 | 40 |
+| 4 | 60 |
+| 5 | 80 |
+| 6 or more | 100. |
+
+
+3
+
+4
+
+5
+
+6
+
+7 or more
+
+2
+
+3
+
+4
+
+5
+
+6 or more
+
+Multiemployer plans
+
+In general
+
+Applicable interest rate
+
+Disregard of subsidized portion of early retirement benefit
+
+In general
+
+Appropriate conversion factor
+
+Limitation
+
+In general
+
+Present value of accrued benefit
+
+Vesting and interest credit requirements
+
+Special rule for collectively bargained plans
+
+Conversions
+
+Special rule for vesting requirements
+
+In general
+
+Collective bargaining agreements
+
+Service required
+
+Special rule for stock ownership plans
+
+In general
+
+Collective bargaining agreements
+
+Service required
+
+In general
+
+No reduction in accrued benefits
+
+Section 415.—
+
+Exception
+
+Timing of plan amendment
+
+In general
+
+Special rule for collective bargaining agreements
+
+Participation required
+
+Repeal of class year vesting
+
+In general
+
+Reduction in accrued benefits.—
+
+In general
+
+Special rule
+
+In general
+
+Effective date.—
+
+In general
+
+Reasonable notice
+
+In General
+
+Amendments to Which Section Applies.—
+
+In general
+
+Conditions
+
+In general
+
+Amendments to which section applies.—
+
+In general
+
+Conditions
+
+In General
+
+Amendments to Which Section Applies.—
+
+In general
+
+Conditions
+
+## Source Credit
+
+*(Added [Pub. L. 93–406, title II, § 1012(a)](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 901](https://www.govinfo.gov/link/statute/88/901); amended [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(a)(62), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1774](https://www.govinfo.gov/link/statute/90/1774), 1834; [Pub. L. 96–364, title II, § 206](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1287](https://www.govinfo.gov/link/statute/94/1287); [Pub. L. 98–397, title II, § 202(b)](https://www.govinfo.gov/link/plaw/98/public/397), (c), (d)(2), (e)(2), (3), (f), 205, title III, § 301(a)(1), Aug. 23, 1984, [98 Stat. 1437](https://www.govinfo.gov/link/statute/98/1437), 1439, 1440, 1449, 1450; [Pub. L. 99–509, title IX](https://www.govinfo.gov/link/plaw/99/public/509), §§ 9202(b), 9203(b)(2), Oct. 21, 1986, [100 Stat. 1977](https://www.govinfo.gov/link/statute/100/1977), 1979; [Pub. L. 99–514, title XI](https://www.govinfo.gov/link/plaw/99/public/514), §§ 1113(a), (b), (d)(B), 1114(b)(10), 1139(a), title XVIII, § 1898(a)(1)(A), (4)(A), (d)(1)(A), (2)(A), (f)(1)(A), Oct. 22, 1986, [100 Stat. 2446](https://www.govinfo.gov/link/statute/100/2446), 2447, 2451, 2487, 2941, 2943, 2955, 2956; [Pub. L. 100–203, title IX, § 9346(b)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–374](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title I, § 1018(t)(8)(B)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3589](https://www.govinfo.gov/link/statute/102/3589); [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7861(a)(5)(A), (6)(A), 7871(a)(1), (2), (b)(1), 7881(m)(1), Dec. 19, 1989, [103 Stat. 2430](https://www.govinfo.gov/link/statute/103/2430), 2435, 2443; [Pub. L. 102–318, title V, § 521(b)(44)](https://www.govinfo.gov/link/plaw/102/public/318), July 3, 1992, [106 Stat. 313](https://www.govinfo.gov/link/statute/106/313); [Pub. L. 103–465, title VII, § 767(a)(1)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 5037](https://www.govinfo.gov/link/statute/108/5037); [Pub. L. 104–188, title I, § 1442(a)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1808](https://www.govinfo.gov/link/statute/110/1808); [Pub. L. 105–34, title X, § 1071(a)(1)](https://www.govinfo.gov/link/plaw/105/public/34), (2)(A), Aug. 5, 1997, [111 Stat. 948](https://www.govinfo.gov/link/statute/111/948); [Pub. L. 107–16, title VI](https://www.govinfo.gov/link/plaw/107/public/16), §§ 633(a), 645(a)(1), (b)(1), 648(a)(1), June 7, 2001, [115 Stat. 115](https://www.govinfo.gov/link/statute/115/115), 123, 125, 127; [Pub. L. 108–311, title IV, § 408(a)(14)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1192](https://www.govinfo.gov/link/statute/118/1192); [Pub. L. 109–280, title I, § 114(b)](https://www.govinfo.gov/link/plaw/109/public/280), title VII, 701(b), title IX, §§ 902(d)(2)(A), (B), 904(a), Aug. 17, 2006, [120 Stat. 853](https://www.govinfo.gov/link/statute/120/853), 984, 1038, 1048; [Pub. L. 110–458, title I](https://www.govinfo.gov/link/plaw/110/public/458), §§ 101(d)(2)(D), 107(b), 109(b)(2), Dec. 23, 2008, [122 Stat. 5099](https://www.govinfo.gov/link/statute/122/5099), 5107, 5111; [Pub. L. 113–235, div. P, § 2(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2828](https://www.govinfo.gov/link/statute/128/2828); [Pub. L. 115–141, div. U, title IV, § 401(a)(82)](https://www.govinfo.gov/link/plaw/115/public/141), (b)(19), Mar. 23, 2018, [132 Stat. 1188](https://www.govinfo.gov/link/statute/132/1188), 1202; [Pub. L. 117–328, div. T, title III](https://www.govinfo.gov/link/plaw/117/public/328), §§ 304(a), 348(a), Dec. 29, 2022, [136 Stat. 5341](https://www.govinfo.gov/link/statute/136/5341), 5385.)*

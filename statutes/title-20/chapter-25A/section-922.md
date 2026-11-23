@@ -3,9 +3,10 @@ title: "Section 922 - Administration of defense dependents’ education system"
 usc_title: 20
 usc_section: "922"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 922"
-generated_at: "2026-03-30T02:54:48.087Z"
+generated_at: "2026-11-23T21:25:46.972Z"
+status: "active"
 ---
 
 # § 922. Administration of defense dependents’ education system
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:48.087Z"
   - **(1)** The Director shall establish appropriate regional or area offices in order to provide for thorough and efficient administration of the defense dependents’ education system.
   - **(2)** Whenever the Department of Defense Education Activity is reorganized in a manner that affects the defense dependents’ education system, the Secretary of Defense shall submit a report to the Congress describing the reorganization.
   - **(3)** Subject to the approval of the Secretary of Defense, the Department of Defense Education Activity is authorized an appropriate number of civilian employees in its central office and such regional or area office as are established pursuant to paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 95–561, title XIV, § 1403](https://www.govinfo.gov/link/plaw/95/public/561), Nov. 1, 1978, [92 Stat. 2365](https://www.govinfo.gov/link/statute/92/2365); [Pub. L. 106–65, div. A, title III, § 354(2)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 572](https://www.govinfo.gov/link/statute/113/572); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1087(g)(8)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–294.)*

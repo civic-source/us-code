@@ -3,9 +3,10 @@ title: "Section 2437 - Civil penalties"
 usc_title: 16
 usc_section: "2437"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2437"
-generated_at: "2026-03-30T02:54:23.002Z"
+generated_at: "2026-11-23T21:25:51.949Z"
+status: "active"
 ---
 
 # § 2437. Civil penalties
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:23.002Z"
 - **(c)** Any person against whom a civil penalty is assessed under subsection (a) of this section may obtain review thereof in the appropriate district court of the United States by filing a notice of appeal in such court within 30 days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Secretary of Commerce, the Attorney General, and the appropriate United States Attorney. The Secretary of Commerce shall promptly refer the matter to the Attorney General of the United States, who shall file in such court a certified copy of the record upon which the violation was found or such penalty imposed, as provided in section 2112 of title 28 . The court shall set aside the findings and order of the Secretary if the findings and order are found to be unsupported by substantial evidence, as provided in section 706(2)(E) of title 5 .
 - **(d)** The Attorney General of the United States may seek to recover in any appropriate district court of the United States (1) any civil penalty imposed under this section that has become a final and unappealable order and has been referred to the Attorney General by the Secretary of Commerce or (2) any final judgment rendered under this section in favor of the United States by an appropriate Court.
 - **(e)** The assessment of a civil penalty under subsection (a) for any act shall not be deemed to preclude the assessment of a civil penalty for such act under any other law.
+
+## Source Credit
+
+*([Pub. L. 98–623, title III, § 308](https://www.govinfo.gov/link/plaw/98/public/623), Nov. 8, 1984, [98 Stat. 3401](https://www.govinfo.gov/link/statute/98/3401); [Pub. L. 114–81, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/114/public/81), Nov. 5, 2015, [129 Stat. 653](https://www.govinfo.gov/link/statute/129/653).)*

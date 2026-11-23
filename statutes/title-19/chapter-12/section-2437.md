@@ -3,9 +3,10 @@ title: "Section 2437 - Procedure for Congressional approval or disapproval of ex
 usc_title: 19
 usc_section: "2437"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2437"
-generated_at: "2026-03-30T02:54:24.675Z"
+generated_at: "2026-11-23T21:25:42.806Z"
+status: "active"
 ---
 
 # § 2437. Procedure for Congressional approval or disapproval of extension of nondiscriminatory treatment and Presidential reports
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:24.675Z"
 - **(c)**
   - **(1)** In the case of a document referred to in subsection (a), the proclamation set forth in the document may become effective and the agreement set forth in the document may enter into force and effect only if a joint resolution described in section 2191(b)(3) of this title that approves of the extension of nondiscriminatory treatment to the products of the country concerned is enacted into law.
   - **(2)** In the case of a document referred to in subsection (b) which contains a report submitted by the President under section 2432(b) or 2439(b) of this title with respect to a nonmarket economy country, if, before the close of the 90-day period beginning on the day on which such document is delivered to the House of Representatives and to the Senate, a joint resolution described in section 2192(a)(1)(B) of this title is enacted into law that disapproves of the report submitted by the President with respect to such country, then, beginning with the day after the end of the 60-day period beginning with the date of the enactment of such resolution of disapproval, (A) nondiscriminatory treatment shall not be in force with respect to the products of such country, and the products of such country shall be dutiable at the rates set forth in rate column numbered 2 of the Harmonized Tariff Schedule of the United States, (B) such country may not participate in any program of the Government of the United States which extends credit or credit guarantees or investment guarantees, and (C) no commercial agreement may thereafter be concluded with such country under this subchapter. If the President vetoes the joint resolution, the joint resolution shall be treated as enacted into law before the end of the 90-day period under this paragraph if both Houses of Congress vote to override such veto on or before the later of the last day of such 90-day period or the last day of the 15-day period (excluding any day described in section 2194(b) of this title ) beginning on the date the Congress receives the veto message from the President.
+
+## Source Credit
+
+*([Pub. L. 93–618, title IV, § 407](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 2063](https://www.govinfo.gov/link/statute/88/2063); [Pub. L. 100–418, title I, § 1214(j)(4)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1158](https://www.govinfo.gov/link/statute/102/1158); [Pub. L. 101–382, title I, § 132(b)(3)](https://www.govinfo.gov/link/plaw/101/public/382), (c)(1), Aug. 20, 1990, [104 Stat. 646](https://www.govinfo.gov/link/statute/104/646).)*

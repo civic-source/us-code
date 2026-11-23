@@ -3,9 +3,10 @@ title: "Section 2701 - Control of noxious plants on Federal lands; State program
 usc_title: 43
 usc_section: "2701"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 2701"
-generated_at: "2026-03-30T02:55:57.498Z"
+generated_at: "2026-11-23T21:26:19.899Z"
+status: "active"
 ---
 
 # § 2701. Control of noxious plants on Federal lands; State programs; terms of entry
@@ -15,3 +16,7 @@ The heads of Federal departments or agencies are authorized and directed to perm
   - **(1)** such entry is in accordance with a program submitted to and approved by such department or agency: Provided , That no entry shall occur when the head of such Federal department or agency, or his designee, shall have certified that entry is inconsistent with national security;
   - **(2)** the means by which noxious plants are destroyed are acceptable to the head of such department or agency; and
   - **(3)** the same procedure required by the State program with respect to privately owned land has been followed.
+
+## Source Credit
+
+*([Pub. L. 90–583, § 1](https://www.govinfo.gov/link/plaw/90/public/583), Oct. 17, 1968, [82 Stat. 1146](https://www.govinfo.gov/link/statute/82/1146).)*

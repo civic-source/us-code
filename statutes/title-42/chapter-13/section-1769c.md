@@ -3,9 +3,10 @@ title: "Section 1769c - Compliance and accountability"
 usc_title: 42
 usc_section: "1769c"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1769c"
-generated_at: "2026-03-30T02:56:11.117Z"
+generated_at: "2026-11-23T21:26:32.162Z"
+status: "active"
 ---
 
 # § 1769c. Compliance and accountability
@@ -94,3 +95,7 @@ generated_at: "2026-03-30T02:56:11.117Z"
       - **(ii)** 5 percent of funds made available under section 7(a) of the Child Nutrition Act of 1966 ( 42 U.S.C. 1776(a) ) for State administrative expenses during a fiscal year for the second finding of 1 or more program violations under subparagraph (A); and
       - **(iii)** 10 percent of funds made available under section 7(a) of the Child Nutrition Act of 1966 ( 42 U.S.C. 1776(a) ) for State administrative expenses during a fiscal year for the third or subsequent finding of 1 or more program violations under subparagraph (A).
   - **(3)** Funds to pay a fine imposed under paragraph (1) or (2) shall be derived from non-Federal sources.
+
+## Source Credit
+
+*(June 4, 1946, ch. 281, § 22, as added [Pub. L. 101–147, title I, § 110(a)](https://www.govinfo.gov/link/plaw/101/public/147), Nov. 10, 1989, [103 Stat. 889](https://www.govinfo.gov/link/statute/103/889); amended [Pub. L. 103–448, title I, § 121](https://www.govinfo.gov/link/plaw/103/public/448), Nov. 2, 1994, [108 Stat. 4727](https://www.govinfo.gov/link/statute/108/4727); [Pub. L. 105–336, title I, § 111](https://www.govinfo.gov/link/plaw/105/public/336), Oct. 31, 1998, [112 Stat. 3157](https://www.govinfo.gov/link/statute/112/3157); [Pub. L. 108–265, title I](https://www.govinfo.gov/link/plaw/108/public/265), §§ 126(b)(1), 127, June 30, 2004, [118 Stat. 763](https://www.govinfo.gov/link/statute/118/763), 767; [Pub. L. 111–296, title II, § 207](https://www.govinfo.gov/link/plaw/111/public/296), title III, §§ 303, 304, title IV, § 408, Dec. 13, 2010, [124 Stat. 3220](https://www.govinfo.gov/link/statute/124/3220), 3240, 3242, 3260.)*

@@ -3,9 +3,10 @@ title: "Section 18615 - Agreements for commercializing technology pilot program"
 usc_title: 42
 usc_section: "18615"
 chapter: 161
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18615"
-generated_at: "2026-03-30T02:56:11.521Z"
+generated_at: "2026-11-23T21:26:33.825Z"
+status: "active"
 ---
 
 # § 18615. Agreements for commercializing technology pilot program
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:11.521Z"
     - **(C)** assesses the potential for program activities to interfere with the responsibilities of the National Laboratories to the Department; and
     - **(D)** provides a recommendation regarding the future of the pilot program.
   - **(2)** The Secretary, in coordination with directors of the National Laboratories, shall submit to the appropriate committees of Congress an annual report that accounts for all incidences of, and provides a justification for, non-Federal entities using funds derived from a Federal contract or award to carry out agreements pursuant to this section.
+
+## Source Credit
+
+*([Pub. L. 115–246, title I, § 107](https://www.govinfo.gov/link/plaw/115/public/246), Sept. 28, 2018, [132 Stat. 3132](https://www.govinfo.gov/link/statute/132/3132).)*

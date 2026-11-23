@@ -3,9 +3,10 @@ title: "Section 410 - Minimum participation standards"
 usc_title: 26
 usc_section: "410"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 410"
-generated_at: "2026-03-30T02:55:27.682Z"
+generated_at: "2026-11-23T21:26:06.207Z"
+status: "active"
 ---
 
 # § 410. Minimum participation standards
@@ -116,3 +117,49 @@ generated_at: "2026-03-30T02:55:27.682Z"
 - **(d)**
   - **(1)** If the church or convention or association of churches which maintains any church plan makes an election under this subsection (in such form and manner as the Secretary may by regulations prescribe), then the provisions of this title relating to participation, vesting, funding, etc. (as in effect from time to time) shall apply to such church plan as if such provisions did not contain an exclusion for church plans.
   - **(2)** An election under this subsection with respect to any church plan shall be binding with respect to such plan, and, once made, shall be irrevocable.
+
+General Rule
+
+Existing Plans
+
+Existing Plans Under Collective Bargaining Agreements.—
+
+Application of vesting rules to certain plan provisions.—
+
+Waiver of application
+
+Special temporary waiver period
+
+Determination by secretary of labor required
+
+Supplementary or special plan provisions
+
+Application of funding rules.—
+
+In general
+
+Waiver of underfunding
+
+Labor organization conventions
+
+Existing Plans May Elect New Provisions
+
+Certain Definitions and Special Rules
+
+Transitional Rules With Respect to Breaks in Service.—
+
+Participation
+
+Vesting
+
+Year Delay for Certain Provisions
+
+Contributions to H.R
+
+Plans
+
+“For purposes of the Internal Revenue Code of 1986, sections 4(b)(2) and 4021(b)(3) of the Employee Retirement Income Security Act of 1974 [ 29 U.S.C. 1003(b)(2) , 1321(b)(3)], and all other purposes, a plan shall be deemed to have made an irrevocable election under section 410(d) of the Internal Revenue Code of 1986 if—
+
+## Source Credit
+
+*(Added [Pub. L. 93–406, title II, § 1011](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 898](https://www.govinfo.gov/link/statute/88/898); amended [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(a)(61), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1774](https://www.govinfo.gov/link/statute/90/1774), 1834; [Pub. L. 96–605, title II, § 225(a)](https://www.govinfo.gov/link/plaw/96/public/605), Dec. 28, 1980, [94 Stat. 3529](https://www.govinfo.gov/link/statute/94/3529); [Pub. L. 97–34, title I, § 111(b)(4)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 194](https://www.govinfo.gov/link/statute/95/194); [Pub. L. 98–397, title II, § 202(a)](https://www.govinfo.gov/link/plaw/98/public/397), (d)(1), (e)(1), Aug. 23, 1984, [98 Stat. 1436–1438](https://www.govinfo.gov/link/statute/98/1436); [Pub. L. 99–509, title IX, § 9203(a)(2)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1979](https://www.govinfo.gov/link/statute/100/1979); [Pub. L. 99–514, title XI](https://www.govinfo.gov/link/plaw/99/public/514), §§ 1112(a), 1113(c), (d)(A), Oct. 22, 1986, [100 Stat. 2440](https://www.govinfo.gov/link/statute/100/2440), 2447; [Pub. L. 100–647, title I, § 1011(h)(1)](https://www.govinfo.gov/link/plaw/100/public/647), (2), (11), title III, § 3021(a)(13)(B), Nov. 10, 1988, [102 Stat. 3464](https://www.govinfo.gov/link/statute/102/3464), 3467, 3631; [Pub. L. 101–239, title VII, § 7841(d)(6)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2428](https://www.govinfo.gov/link/statute/103/2428); [Pub. L. 105–34, title XV, § 1505(a)(3)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1063](https://www.govinfo.gov/link/statute/111/1063); [Pub. L. 109–280, title IV, § 402(h)(1)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 927](https://www.govinfo.gov/link/statute/120/927).)*

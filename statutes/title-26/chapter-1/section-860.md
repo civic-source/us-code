@@ -3,9 +3,10 @@ title: "Section 860 - Deduction for deficiency dividends"
 usc_title: 26
 usc_section: "860"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 860"
-generated_at: "2026-03-30T02:55:27.736Z"
+generated_at: "2026-11-23T21:26:06.404Z"
+status: "active"
 ---
 
 # § 860. Deduction for deficiency dividends
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:55:27.736Z"
     - **(A)** the collection of the deficiency, and all interest, additions to tax, additional amounts, and assessable penalties in respect thereof, shall, except in cases of jeopardy, be stayed until the expiration of 120 days after the date of the determination, and
     - **(B)** if claim for a deficiency dividend deduction is filed under subsection (g), the collection of such part of the deficiency as is not reduced by the deduction for deficiency dividends provided in subsection (a) shall be stayed until the date the claim is disallowed (in whole or in part), and if disallowed in part collection shall be made only with respect to the part disallowed.
 - **(i)** No deficiency dividend deduction shall be allowed under subsection (a) if the determination contains a finding that any part of any deficiency attributable to an adjustment with respect to the taxable year is due to fraud with intent to evade tax or to willful failure to file an income tax return within the time prescribed by law or prescribed by the Secretary in pursuance of law.
+
+## Source Credit
+
+*(Added [Pub. L. 95–600, title III, § 362(a)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2848](https://www.govinfo.gov/link/statute/92/2848); amended [Pub. L. 96–222, title I, § 103(a)(11)(B)](https://www.govinfo.gov/link/plaw/96/public/222), (C), Apr. 1, 1980, [94 Stat. 213](https://www.govinfo.gov/link/statute/94/213); [Pub. L. 99–514, title VI, § 667(b)(1)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2306](https://www.govinfo.gov/link/statute/100/2306); [Pub. L. 108–357, title II, § 243(f)(5)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1445](https://www.govinfo.gov/link/statute/118/1445); [Pub. L. 111–325, title III, § 301(a)(2)](https://www.govinfo.gov/link/plaw/111/public/325), title V, § 501(b), Dec. 22, 2010, [124 Stat. 3542](https://www.govinfo.gov/link/statute/124/3542), 3554; [Pub. L. 115–141, div. U, title IV, § 401(a)(149)](https://www.govinfo.gov/link/plaw/115/public/141), (150), Mar. 23, 2018, [132 Stat. 1191](https://www.govinfo.gov/link/statute/132/1191).)*

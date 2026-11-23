@@ -3,9 +3,10 @@ title: "Section 1587a - Employees of nonappropriated fund instrumentalities: sen
 usc_title: 10
 usc_section: "1587a"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1587a"
-generated_at: "2026-03-30T02:53:38.131Z"
+generated_at: "2026-11-23T21:25:32.517Z"
+status: "active"
 ---
 
 # § 1587a. Employees of nonappropriated fund instrumentalities: senior executive pay levels
@@ -18,3 +19,19 @@ generated_at: "2026-03-30T02:53:38.131Z"
 - **(f)** In this section:
   - **(1)** The term “compensation” includes rate of basic pay.
   - **(2)** The term “Senior Executive Service position” has the meaning given such term in section 3132 of title 5 .
+
+Authority
+
+Pay Parity
+
+Standards of Comparability
+
+Establishment of Pay Rates
+
+Relationship to Pay Limitation
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 108–375, div. A, title XI, § 1104(a)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2073](https://www.govinfo.gov/link/statute/118/2073).)*

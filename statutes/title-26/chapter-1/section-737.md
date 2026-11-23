@@ -3,9 +3,10 @@ title: "Section 737 - Recognition of precontribution gain in case of certain dis
 usc_title: 26
 usc_section: "737"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 737"
-generated_at: "2026-03-30T02:55:27.727Z"
+generated_at: "2026-11-23T21:26:06.378Z"
+status: "active"
 ---
 
 # § 737. Recognition of precontribution gain in case of certain distributions to contributing partner
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:27.727Z"
   - **(1)** If any portion of the property distributed consists of property which had been contributed by the distributee partner to the partnership, such property shall not be taken into account under subsection (a)(1) and shall not be taken into account in determining the amount of the net precontribution gain. If the property distributed consists of an interest in an entity, the preceding sentence shall not apply to the extent that the value of such interest is attributable to property contributed to such entity after such interest had been contributed to the partnership.
   - **(2)** This section shall not apply to the extent section 751(b) applies to such distribution.
 - **(e)** For treatment of marketable securities as money for purposes of this section, see section 731(c).
+
+## Source Credit
+
+*(Added [Pub. L. 102–486, title XIX, § 1937(a)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3032](https://www.govinfo.gov/link/statute/106/3032); amended [Pub. L. 103–465, title VII, § 741(b)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 5009](https://www.govinfo.gov/link/statute/108/5009); [Pub. L. 104–188, title I, § 1704(j)(8)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1882](https://www.govinfo.gov/link/statute/110/1882); [Pub. L. 105–34, title X, § 1063(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 947](https://www.govinfo.gov/link/statute/111/947).)*

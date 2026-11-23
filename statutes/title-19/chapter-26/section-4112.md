@@ -3,9 +3,10 @@ title: "Section 4112 - Earned import allowance program"
 usc_title: 19
 usc_section: "4112"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4112"
-generated_at: "2026-03-30T02:54:24.702Z"
+generated_at: "2026-11-23T21:25:42.874Z"
+status: "active"
 ---
 
 # § 4112. Earned import allowance program
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:54:24.702Z"
 - **(e)**
   - **(1)** The program under this section shall be in effect for the 10-year period beginning on the date on which the President certifies to the appropriate congressional committees that sections A, B, C, and D of the Annex to Presidential Proclamation 8213 ( December 20, 2007 ) have taken effect.
   - **(2)** The program under this section shall apply with respect to qualifying fabric exported to an eligible country on or after August 1, 2007 .
+
+## Source Credit
+
+*([Pub. L. 109–53, title IV, § 404](https://www.govinfo.gov/link/plaw/109/public/53), as added [Pub. L. 110–436, § 2(a)](https://www.govinfo.gov/link/plaw/110/public/436), Oct. 16, 2008, [122 Stat. 4977](https://www.govinfo.gov/link/statute/122/4977).)*

@@ -3,9 +3,10 @@ title: "Section 506 - Mass mailing sent by House Members"
 usc_title: 2
 usc_section: "506"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 506"
-generated_at: "2026-03-30T02:53:04.798Z"
+generated_at: "2026-11-23T21:25:21.166Z"
+status: "active"
 ---
 
 # § 506. Mass mailing sent by House Members
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:04.798Z"
   - **(1)** the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress; and
   - **(2)** the term “mass mailing” has the meaning given such term by section 3210(a)(6)(E) of title 39 .
 - **(e)** This section shall apply with respect to sessions of Congress beginning after September 16, 1996 .
+
+## Source Credit
+
+*([Pub. L. 104–197, title III, § 311](https://www.govinfo.gov/link/plaw/104/public/197), Sept. 16, 1996, [110 Stat. 2414](https://www.govinfo.gov/link/statute/110/2414); [Pub. L. 116–260, div. I, title I, § 116(d)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 1640](https://www.govinfo.gov/link/statute/134/1640).)*

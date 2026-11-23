@@ -3,9 +3,10 @@ title: "Section 19331 - Microelectronics research for energy innovation"
 usc_title: 42
 usc_section: "19331"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19331"
-generated_at: "2026-03-30T02:56:11.547Z"
+generated_at: "2026-11-23T21:26:33.885Z"
+status: "active"
 ---
 
 # § 19331. Microelectronics research for energy innovation
@@ -167,3 +168,7 @@ generated_at: "2026-03-30T02:56:11.547Z"
       - **(i)** the criteria used by the Secretary to make the covered determination; and
       - **(ii)** the manner in which the criteria described in clause (i) comport with the purposes of the program described in paragraph (1).
   - **(12)** Subject to the availability of appropriations, the Secretary shall use not more than $25,000,000 to fund each Center for each of fiscal years 2023 through 2027.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title VI, § 10731](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1711](https://www.govinfo.gov/link/statute/136/1711).)*

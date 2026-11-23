@@ -3,9 +3,10 @@ title: "Section 1116B - Presumption of herbicide exposure for certain veterans w
 usc_title: 38
 usc_section: "1116B"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1116B"
-generated_at: "2026-03-30T02:55:53.477Z"
+generated_at: "2026-11-23T21:26:16.577Z"
+status: "active"
 ---
 
 # § 1116B. Presumption of herbicide exposure for certain veterans who served in Korea
@@ -19,3 +20,23 @@ generated_at: "2026-03-30T02:55:53.477Z"
     - **(A)** pursuant to subchapter VII of this chapter, the Secretary determines in regulations warrants a presumption of service-connection by reason of having positive association with exposure to an herbicide agent; and
     - **(B)** becomes manifest within any period prescribed in such regulations.
 - **(c)** For purposes of this section, the term “herbicide agent” has the meaning given such term in section 1821(d) of this title .
+
+Presumption of Service-Connection
+
+Diseases
+
+Herbicide Agent
+
+Guidance
+
+Updates
+
+Pending cases.—
+
+Authority to stay
+
+Claims described
+
+## Source Credit
+
+*(Added [Pub. L. 116–23, § 3(a)](https://www.govinfo.gov/link/plaw/116/public/23), June 25, 2019, [133 Stat. 969](https://www.govinfo.gov/link/statute/133/969); amended [Pub. L. 117–168, title II, § 202(d)(2)](https://www.govinfo.gov/link/plaw/117/public/168), Aug. 10, 2022, [136 Stat. 1775](https://www.govinfo.gov/link/statute/136/1775).)*

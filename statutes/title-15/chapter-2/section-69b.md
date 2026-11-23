@@ -3,9 +3,10 @@ title: "Section 69b - Misbranded fur products"
 usc_title: 15
 usc_section: "69b"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 69b"
-generated_at: "2026-03-30T02:54:08.029Z"
+generated_at: "2026-11-23T21:25:39.492Z"
+status: "active"
 ---
 
 # § 69b. Misbranded fur products
@@ -21,3 +22,7 @@ For the purposes of this subchapter, a fur product shall be considered to be mis
     - **(E)** the name, or other identification issued and registered by the Commission, of one or more of the persons who manufacture such fur product for introduction into commerce, introduce it into commerce, sell it in commerce, advertise or offer it for sale in commerce, or transport or distribute it in commerce;
     - **(F)** the name of the country of origin of any imported furs used in the fur product;
   - **(3)** if the label required by paragraph (2)(A) of this section sets forth the name or names of any animal or animals other than the name or names provided for in such paragraph.
+
+## Source Credit
+
+*(Aug. 8, 1951, ch. 298, § 4, [65 Stat. 177](https://www.govinfo.gov/link/statute/65/177).)*

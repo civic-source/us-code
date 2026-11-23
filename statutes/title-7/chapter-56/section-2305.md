@@ -3,9 +3,10 @@ title: "Section 2305 - Enforcement provisions"
 usc_title: 7
 usc_section: "2305"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2305"
-generated_at: "2026-03-30T02:53:42.387Z"
+generated_at: "2026-11-23T21:25:28.296Z"
+status: "active"
 ---
 
 # § 2305. Enforcement provisions
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:42.387Z"
 - **(b)** Whenever the Secretary of Agriculture has reasonable cause to believe that any handler, or group of handlers, has engaged in any act or practice prohibited by section 2303 of this title , he may request the Attorney General to bring civil action in his behalf in the appropriate district court of the United States by filing with it a complaint (1) setting forth facts pertaining to such act or practice, and (2) requesting such preventive relief, including an application for a permanent or temporary injunction, restraining order, or other order against the handler, or handlers, responsible for such acts or practices. Upon receipt of such request, the Attorney General is authorized to file such complaint.
 - **(c)** Any person injured in his business or property by reason of any violation of, or combination or conspiracy to violate, any provision of section 2303 of this title may sue therefor in the appropriate district court of the United States without respect to the amount in controversy, and shall recover damages sustained. In any action commenced pursuant to this subsection, the court may allow the prevailing party a reasonable attorney’s fee as a part of the costs. Any action to enforce any cause of action under this subsection shall be forever barred unless commenced within two years after the cause of action accrued.
 - **(d)** The district courts of the United States shall have jurisdiction of proceedings instituted pursuant to this section and shall exercise the same without regard to whether the aggrieved party shall have exhausted any administrative or other remedies that may be provided by law. The provisions of this chapter shall not be construed to change or modify existing State law nor to deprive the proper State courts of jurisdiction.
+
+## Source Credit
+
+*([Pub. L. 90–288, § 6](https://www.govinfo.gov/link/plaw/90/public/288), Apr. 16, 1968, [82 Stat. 95](https://www.govinfo.gov/link/statute/82/95).)*

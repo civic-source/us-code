@@ -3,9 +3,10 @@ title: "Section 794 - Energy conservation study"
 usc_title: 15
 usc_section: "794"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 794"
-generated_at: "2026-03-30T02:54:08.123Z"
+generated_at: "2026-11-23T21:25:39.767Z"
+status: "active"
 ---
 
 # § 794. Energy conservation study
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.123Z"
   - **(3)** recommendations for a program of demonstration projects to determine the feasibility of fare-free and low-fare urban mass transportation systems, including reduced rates for elderly and handicapped persons during nonpeak hours of transportation;
   - **(4)** recommendations for additional emergency assistance for the construction of fringe and transportation corridor parking facilities to serve bus and other mass transportation passengers;
   - **(5)** recommendations on the feasibility of providing tax incentives for persons who use public mass transportation systems.
+
+## Source Credit
+
+*([Pub. L. 93–319, § 8](https://www.govinfo.gov/link/plaw/93/public/319), June 22, 1974, [88 Stat. 260](https://www.govinfo.gov/link/statute/88/260).)*

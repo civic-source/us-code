@@ -3,9 +3,10 @@ title: "Section 207 - Maximum hours"
 usc_title: 29
 usc_section: "207"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 207"
-generated_at: "2026-03-30T02:55:18.680Z"
+generated_at: "2026-11-23T21:26:02.173Z"
+status: "active"
 ---
 
 # § 207. Maximum hours
@@ -98,3 +99,21 @@ generated_at: "2026-03-30T02:55:18.680Z"
   - **(1)** provided to employees who lack a high school diploma or educational attainment at the eighth grade level;
   - **(2)** designed to provide reading and other basic skills at an eighth grade level or below; and
   - **(3)** does not include job specific training.
+
+Applicability Following This Act
+
+Liability Limitation Following
+
+Limitation on liability
+
+Actions to recover amounts previously paid
+
+Covered Employee Defined
+
+“No employer shall be liable under the Fair Labor Standards Act of 1938 [ 29 U.S.C. 201 et seq.] for any failure to include in an employee’s regular rate (as defined for purposes of such Act) any income or value derived from employer-provided grants or rights obtained pursuant to any stock option, stock appreciation right, or employee stock purchase program if—
+
+Harry S. Truman.
+
+## Source Credit
+
+*(June 25, 1938, ch. 676, § 7, [52 Stat. 1063](https://www.govinfo.gov/link/statute/52/1063); Oct. 29, 1941, ch. 461, [55 Stat. 756](https://www.govinfo.gov/link/statute/55/756); July 20, 1949, ch. 352, § 1, [63 Stat. 446](https://www.govinfo.gov/link/statute/63/446); Oct. 26, 1949, ch. 736, § 7, [63 Stat. 912](https://www.govinfo.gov/link/statute/63/912); [Pub. L. 87–30, § 6](https://www.govinfo.gov/link/plaw/87/public/30), May 5, 1961, [75 Stat. 69](https://www.govinfo.gov/link/statute/75/69); [Pub. L. 89–601, title II](https://www.govinfo.gov/link/plaw/89/public/601), §§ 204(c), (d), 212(b), title IV, §§ 401–403, Sept. 23, 1966, [80 Stat. 835–837](https://www.govinfo.gov/link/statute/80/835), 841, 842; [Pub. L. 93–259](https://www.govinfo.gov/link/plaw/93/public/259), §§ 6(c)(1), 7(b)(2), 9(a), 12(b), 19, 21(a), Apr. 8, 1974, [88 Stat. 60](https://www.govinfo.gov/link/statute/88/60), 62, 64, 66, 68; [Pub. L. 99–150](https://www.govinfo.gov/link/plaw/99/public/150), §§ 2(a), 3(a)–(c)(1), Nov. 13, 1985, [99 Stat. 787](https://www.govinfo.gov/link/statute/99/787), 789; [Pub. L. 101–157, § 7](https://www.govinfo.gov/link/plaw/101/public/157), Nov. 17, 1989, [103 Stat. 944](https://www.govinfo.gov/link/statute/103/944); [Pub. L. 104–26, § 2](https://www.govinfo.gov/link/plaw/104/public/26), Sept. 6, 1995, [109 Stat. 264](https://www.govinfo.gov/link/statute/109/264); [Pub. L. 106–202, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/202), (b), May 18, 2000, [114 Stat. 308](https://www.govinfo.gov/link/statute/114/308), 309; [Pub. L. 111–148, title IV, § 4207](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 577](https://www.govinfo.gov/link/statute/124/577); [Pub. L. 117–328, div. KK, § 102(a)(1)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 6093](https://www.govinfo.gov/link/statute/136/6093).)*

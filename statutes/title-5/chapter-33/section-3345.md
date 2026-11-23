@@ -3,9 +3,10 @@ title: "Section 3345 - Acting officer"
 usc_title: 5
 usc_section: "3345"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3345"
-generated_at: "2026-03-30T02:52:56.003Z"
+generated_at: "2026-11-23T21:25:23.159Z"
+status: "active"
 ---
 
 # § 3345. Acting officer
@@ -29,3 +30,29 @@ generated_at: "2026-03-30T02:52:56.003Z"
 - **(c)**
   - **(1)** Notwithstanding subsection (a)(1), the President (and only the President) may direct an officer who is nominated by the President for reappointment for an additional term to the same office in an Executive department without a break in service, to continue to serve in that office subject to the time limitations in section 3346, until such time as the Senate has acted to confirm or reject the nomination, notwithstanding adjournment sine die.
   - **(2)** For purposes of this section and sections 3346, 3347, 3348, 3349, 3349a, and 3349d, the expiration of a term of office is an inability to perform the functions and duties of such office.
+
+Effective date
+
+Application.—
+
+In general
+
+Immediate application of time limitation
+
+Certain nominations
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+George W. Bush.
+
+## Source Credit
+
+*(Added [Pub. L. 105–277, div. C, title I, § 151(b)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–611](https://www.govinfo.gov/link/statute/112/2681); amended [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

@@ -3,9 +3,10 @@ title: "Section 2285 - Department of Defense Climate Resilience Infrastructure I
 usc_title: 10
 usc_section: "2285"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2285"
-generated_at: "2026-03-30T02:53:38.153Z"
+generated_at: "2026-11-23T21:25:32.595Z"
+status: "active"
 ---
 
 # § 2285. Department of Defense Climate Resilience Infrastructure Initiative
@@ -19,3 +20,25 @@ generated_at: "2026-03-30T02:53:38.153Z"
   - **(2)** The Secretary shall develop a program of training and education for members of the Armed Forces (including the reserve components) on the importance of the sustainment of the lands of the military testing and training ranges as described in paragraph (1).
   - **(3)** The Secretary shall use existing programs of the Department, including the Readiness and Environmental Protection Integration Program of the Department (or such successor program), to provide for investments determined appropriate by the Secretary in the lands of the military testing and training ranges, to increase the resilience and adaptation of such lands to the current and projected impacts of extreme weather for testing and training purposes in connection with current and projected testing and training requirements in the short- and long-term.
 - **(f)** The Secretary shall take appropriate actions to increase the use of low emission, emission-free, and net-zero-emission energy technologies in the operations, programs, projects, and activities of the Department, provided the use is cost effective over the life-cycle of the investment.
+
+Designation
+
+Hardening and Quick Recovery
+
+Sustainment and Modernization
+
+Collaboration in Planning With Local Communities
+
+Testing and Training Range Lands.—
+
+Practices for sustainment of lands
+
+Training and education on sustainment of lands
+
+Investment in resilience of lands
+
+Use of Certain Technologies
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. A, title III, § 332(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1637](https://www.govinfo.gov/link/statute/135/1637); amended [Pub. L. 118–159, div. A, title XVII, § 1701(a)(28)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2204](https://www.govinfo.gov/link/statute/138/2204).)*

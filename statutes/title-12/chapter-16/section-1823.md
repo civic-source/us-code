@@ -3,9 +3,10 @@ title: "Section 1823 - Corporation monies"
 usc_title: 12
 usc_section: "1823"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1823"
-generated_at: "2026-03-30T02:53:53.453Z"
+generated_at: "2026-11-23T21:25:36.997Z"
+status: "active"
 ---
 
 # § 1823. Corporation monies
@@ -66,10 +67,9 @@ generated_at: "2026-03-30T02:53:53.453Z"
       - **(iii)** The Secretary of the Treasury shall—
         - **(I)** document any determination under clause (i); and
         - **(II)** retain the documentation for review under clause (iv).
-      - **(iv)** The Comptroller General of the United States shall review and report to the Congress on any determination under clause (i), including—
-        - **(I)** the basis for the determination;
-        - **(II)** the purpose for which any action was taken pursuant to such clause; and
-        - **(III)** the likely effect of the determination and such action on the incentives and conduct of insured depository institutions and uninsured depositors.
+      - **(iv)**
+        - **(I)** The Comptroller General of the United States shall, not later than 60 days after a determination is made under clause (i), and again 180 days thereafter, review and report to the Congress on the determination under clause (i), including—
+        - **(II)** Nothing in this clause or a report issued pursuant to this clause may be construed to limit the authority of a Federal agency to enforce violations of Federal statutes, rules, or orders.
       - **(v)**
         - **(I)** Not later than 3 days after making a determination under clause (i), the Secretary of the Treasury shall provide written notice of any determination under clause (i) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives.
         - **(II)** The notice under subclause (I) shall include a description of the basis for any determination under clause (i).
@@ -94,6 +94,30 @@ generated_at: "2026-03-30T02:53:53.453Z"
     - **(A)** affects, restricts, or limits the ability of any person to offer to acquire or acquire,
     - **(B)** prohibits any person from offering to acquire or acquiring, or
     - **(C)** prohibits any person from using any previously disclosed information in connection with any such offer to acquire or acquisition of,
+  - **(12)**
+    - **(A)** The appropriate Federal banking agency of an insured depository institution about which a determination is made under paragraph (4)(G)(i) shall, not later than 90 days after the date of such determination, and again 210 days thereafter, submit a report to the Congress that discloses the following:
+      - **(i)** Subject to such redactions as the appropriate Federal banking agency determines appropriate to protect personally identifiable information about customers and other financial institutions (as such term is defined under section 1821(e)(9)(D) of this title )—
+        - **(I)** all reports of examination and inspection that relate to the failed insured depository institution in the previous 3-year period;
+        - **(II)** all formal communications of a material supervisory determination conveyed to the failed insured depository institution in the previous 3-year period; and
+        - **(III)** any additional exam reports and correspondence that the appropriate Federal banking agency determines may be relevant to the failure of the insured depository institution.
+      - **(ii)** An examination of any mismanagement by the executives and board of the insured depository institution that contributed to the failure of the insured depository institution.
+      - **(iii)** Any supervisory or regulatory shortcomings by such appropriate Federal banking agency with respect to the insured depository institution.
+      - **(iv)** Any dynamics that the appropriate Federal banking agency determines may have contributed to the failure of the insured depository institution.
+      - **(v)** Any supervisory, regulatory, or legislative recommendations such appropriate Federal banking agency may have to improve the safety and soundness of similarly situated insured depository institutions, the banking system, and financial stability.
+    - **(B)**
+      - **(i)** The provision of any information by a Federal banking agency under this paragraph may not be construed as—
+        - **(I)** waiving, destroying, or otherwise affecting any privilege applicable to the information; or
+        - **(II)** waiving any exemption applicable to the information under section 552 of title 5 (commonly known as the “Freedom of Information Act”).
+      - **(ii)**
+        - **(I)** A Federal banking agency shall publish materials contained in a report required under subparagraph (A) to the fullest extent possible to promote transparency.
+        - **(II)** If a Federal banking agency determines particular materials described under subclause (I) should not be published, the Federal banking agency shall consult with the chair and ranking member of the Committee on Financial Services of the House of Representatives and the chair and ranking member of the Committee on Banking, Housing, and Urban Affairs of the Senate.
+        - **(III)** If, after the consultation required under subclause (II), the Federal banking agency determines there is a substantial public interest in not publishing such materials, the Federal banking agency shall provide those materials to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate with a written explanation describing the reasons for not publishing those materials.
+      - **(iii)** For purposes of this subparagraph, the term “privilege” includes any work-product, attorney-client, or other privilege recognized under Federal or State law.
+    - **(C)** A Federal banking agency may extend a deadline described under subparagraph (A) for an additional 60 days, if the Federal banking agency—
+      - **(i)** faces ongoing circumstances that require the Federal banking agency to prioritize activities to promote stability of the United States banking system; and
+      - **(ii)** notifies the Congress of such extension and the reasons for such extension.
+    - **(D)** A Federal banking agency may consolidate multiple reports required under this paragraph so long as the individual reports being consolidated all meet the timing requirements under this paragraph.
+    - **(E)** Nothing in this paragraph or reports or materials provided pursuant to this paragraph may be construed to limit the authority of a Federal agency to enforce violations of Federal statutes, rules, or orders.
 - **(d)**
   - **(1)** Any conservator, receiver, or liquidator appointed for any insured depository institution in default, including the Corporation acting in such capacity, shall be entitled to offer the assets of such depository institutions for sale to the Corporation or as security for loans from the Corporation.
   - **(2)** The proceeds of every sale or loan of assets to the Corporation shall be utilized for the same purposes and in the same manner as other funds realized from the liquidation of the assets of such depository institutions.
@@ -262,3 +286,193 @@ generated_at: "2026-03-30T02:53:53.453Z"
         - **(VI)** The member’s offices are located in an economically depressed region.
     - **(B)** If a member meets the requirements of clauses (i) and (ii) of subparagraph (A), the Corporation shall consider providing direct financial assistance.
     - **(C)** For purposes of this paragraph, the term “economically depressed region” means any geographical region which the Corporation determines by regulation to be a region within which real estate values have suffered serious decline due to severe economic conditions, such as a decline in energy or agricultural values or prices.
+
+Least-cost resolution required.—
+
+In general
+
+Determining least costly approach
+
+Present-value analysis; documentation required
+
+Foregone tax revenues
+
+Time of determination.—
+
+General rule
+
+Rule for liquidations
+
+Liquidation costs
+
+Deposit insurance fund available for intended purpose only.—
+
+In general
+
+Deadline for regulations
+
+Purchase and assumption transactions
+
+Discretionary determinations
+
+Systemic risk.—
+
+Emergency determination by secretary of the treasury
+
+Repayment of loss.—
+
+In general
+
+Treatment of depository institution holding companies
+
+Regulations
+
+Documentation required
+
+GAO review.—
+
+In general
+
+(aa) the basis for the determination;
+
+(bb) the purpose for which any action was taken pursuant to such clause;
+
+(cc) the likely effect of the determination and such action on the incentives and conduct of insured depository institutions and uninsured depositors;
+
+(dd) any mismanagement by the executives and board of the insured depository institution that contributed to the failure of the insured depository institution;
+
+(ee) a review of the compensation practices of the insured depository institution;
+
+(ff) any supervisory or regulatory shortcomings with respect to the appropriate Federal banking agency of the insured depository institution;
+
+(gg) any actions taken by the Federal banking regulators, Financial Stability Oversight Council, Department of the Treasury, and other relevant financial regulators in relation to the failure of the insured depository institution; and
+
+(hh) any additional relevant entities or activities that may have contributed to the failure of the insured depository institution, including with respect to auditing, accounting, credit rating agencies, investment bank underwriters, and emergency liquidity options such as loans from the Federal reserve banks or advances through the Federal Home Loan Bank system.
+
+Rule of construction
+
+Notice.—
+
+In general
+
+Description of basis of determination
+
+Rule of construction
+
+Assistance before appointment of conservator or receiver.—
+
+In general
+
+Troubled condition criteria
+
+Other criteria
+
+Public disclosure
+
+Unenforceability of certain agreements
+
+Appropriate federal banking agency report.—
+
+In general
+
+Protection of sensitive information.—
+
+Effect on privilege
+
+Transparency.—
+
+In general
+
+Consultation on omitting materials
+
+Omitting materials
+
+Privilege
+
+Report extension
+
+Consolidated reports
+
+Rule of construction
+
+Emergency Interstate Acquisitions of Insured Banks in Danger of Default.—
+
+Acquisition of insured banks in danger of default
+
+Acquisition of a holding company or other bank affiliate
+
+Request for assistance by corporate board of directors
+
+Certain acquisitions authorized after assistance is provided
+
+State bank supervisor approval
+
+Other requirements not affected
+
+Acquisition may be conditioned on receipt of consideration for corporation’s assistance
+
+Acquisitions Not Subject to Certain Other Laws
+
+Subsequent Nonemergency Interstate Acquisitions Subject to State Law.—
+
+In general
+
+Delayed date of applicability
+
+Determination of principally conducted
+
+Certain State Interstate Banking Laws Inapplicable
+
+Minority Bank Priority
+
+No Assistance Authorized for Certain Subsidiaries of Holding Companies.—
+
+In general
+
+Intermediate holding company permitted
+
+Annual Report.—
+
+Required
+
+Contents
+
+Determination of Total Assets
+
+Acquisition of minority bank by minority bank holding company without regard to asset size.—
+
+In general
+
+Definitions
+
+Minority bank
+
+Minority
+
+default
+
+closing
+
+In General
+
+General Principles
+
+Competitive negotiation
+
+Resulting institution adequately capitalized
+
+Substantial private investment
+
+Concessions
+
+Qualified management
+
+FDIC’s participation
+
+Structure of transaction
+
+Report
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [13], [64 Stat. 888](https://www.govinfo.gov/link/statute/64/888); [Pub. L. 95–369, § 6(c)(24)](https://www.govinfo.gov/link/plaw/95/public/369), Sept. 17, 1978, [92 Stat. 619](https://www.govinfo.gov/link/statute/92/619); [Pub. L. 97–320, title I](https://www.govinfo.gov/link/plaw/97/public/320), §§ 111, 113(m), 116, 141(a)(1), (3), title II, §§ 203, 206, Oct. 15, 1982, [96 Stat. 1469](https://www.govinfo.gov/link/statute/96/1469), 1474, 1476, 1488, 1489, 1492, 1496; [Pub. L. 97–457](https://www.govinfo.gov/link/plaw/97/public/457), §§ 1(a), 4, 10(a), Jan. 12, 1983, [96 Stat. 2507](https://www.govinfo.gov/link/statute/96/2507), 2508; [Pub. L. 98–29, § 1(a)](https://www.govinfo.gov/link/plaw/98/public/29), May 16, 1983, [97 Stat. 189](https://www.govinfo.gov/link/statute/97/189); [Pub. L. 100–86, title V](https://www.govinfo.gov/link/plaw/100/public/86), §§ 502(a)–(g), (i), 509(a), title VIII, § 801, Aug. 10, 1987, [101 Stat. 623–627](https://www.govinfo.gov/link/statute/101/623), 629, 635, 656; [Pub. L. 101–73, title II](https://www.govinfo.gov/link/plaw/101/public/73), §§ 201(a), 217, Aug. 9, 1989, [103 Stat. 187](https://www.govinfo.gov/link/statute/103/187), 254; [Pub. L. 102–242, title I](https://www.govinfo.gov/link/plaw/102/public/242), §§ 123(b), 141(a)(1), (e), Dec. 19, 1991, [105 Stat. 2252](https://www.govinfo.gov/link/statute/105/2252), 2273, 2278; [Pub. L. 103–325, title III, § 317](https://www.govinfo.gov/link/plaw/103/public/325), title VI, § 602(a)(34)–(42), Sept. 23, 1994, [108 Stat. 2223](https://www.govinfo.gov/link/statute/108/2223), 2289, 2290; [Pub. L. 104–208, div. A, title II, § 2704(d)(14)(M)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–492](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 109–8, title IX, § 909](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 183](https://www.govinfo.gov/link/statute/119/183); [Pub. L. 109–171, title II, § 2102(b)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 9](https://www.govinfo.gov/link/statute/120/9); [Pub. L. 109–173](https://www.govinfo.gov/link/plaw/109/public/173), §§ 3(a)(8), 8(a)(19), Feb. 15, 2006, [119 Stat. 3606](https://www.govinfo.gov/link/statute/119/3606), 3613; [Pub. L. 110–343, div. A, title I, § 126(c)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3795](https://www.govinfo.gov/link/statute/122/3795); [Pub. L. 111–22, div. A, title II, § 204(d)](https://www.govinfo.gov/link/plaw/111/public/22), May 20, 2009, [123 Stat. 1650](https://www.govinfo.gov/link/statute/123/1650); [Pub. L. 111–203, title III, § 363(6)](https://www.govinfo.gov/link/plaw/111/public/203), title XI, § 1106(b), July 21, 2010, [124 Stat. 1553](https://www.govinfo.gov/link/statute/124/1553), 2125; [Pub. L. 119–101, title IX, § 905](https://www.govinfo.gov/link/plaw/119/public/101), July 11, 2026, [140 Stat. 967](https://www.govinfo.gov/link/statute/140/967).)*

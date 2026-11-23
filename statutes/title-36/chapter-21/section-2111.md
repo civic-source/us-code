@@ -3,9 +3,10 @@ title: "Section 2111 - Presidential duties and powers"
 usc_title: 36
 usc_section: "2111"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 2111"
-generated_at: "2026-03-30T02:55:44.691Z"
+generated_at: "2026-11-23T21:26:13.491Z"
+status: "active"
 ---
 
 # § 2111. Presidential duties and powers
@@ -18,3 +19,45 @@ generated_at: "2026-03-30T02:55:44.691Z"
       - **(i)** the Department of Defense does not need; and
       - **(ii)** the Commission requests to carry out the duties and powers specified in clause (A) of this paragraph.
   - **(2)** After a transfer under this subsection, the Commission shall maintain the cemetery and all improvements in it.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 2111(a) | 36:127. | Mar. 4, 1923, ch. 283, § 6 , 42 Stat. 1509 ; June 26, 1946, ch. 502 , 60 Stat. 317 . |
+| 2111(b) | 36:132. | Mar. 4, 1923, ch. 283, § 10 , 42 Stat. 1509 ; June 26, 1946, ch. 502 , 60 Stat. 317 ; July 25, 1956, ch. 721 , §§ 2(c), (d), 4(b), 70 Stat. 640 , 641. |
+
+
+Arrangements With Foreign Countries
+
+Transfer of Administrative Duties and Powers and Supplies, Material, and Equipment to Commission
+
+Historical and Revision Notes
+
+2111(a)
+
+Mar. 4, 1923, ch. 283, § 6
+
+42 Stat. 1509
+
+June 26, 1946, ch. 502
+
+60 Stat. 317
+
+2111(b)
+
+Mar. 4, 1923, ch. 283, § 10
+
+42 Stat. 1509
+
+June 26, 1946, ch. 502
+
+60 Stat. 317
+
+July 25, 1956, ch. 721
+
+70 Stat. 640
+
+Jimmy Carter.
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1276](https://www.govinfo.gov/link/statute/112/1276).)*

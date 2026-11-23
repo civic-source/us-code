@@ -3,9 +3,10 @@ title: "Section 579a - Corps budgeting; project deauthorizations; comprehensive 
 usc_title: 33
 usc_section: "579a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 579a"
-generated_at: "2026-03-30T02:55:41.063Z"
+generated_at: "2026-11-23T21:26:11.318Z"
+status: "active"
 ---
 
 # § 579a. Corps budgeting; project deauthorizations; comprehensive backlog report
@@ -42,3 +43,21 @@ generated_at: "2026-03-30T02:55:41.063Z"
         - **(I)** the Committee on Environment and Public Works and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives; and
         - **(II)** the Director of the Office of Management and Budget.
       - **(ii)** The Secretary shall make a copy of the lists available on a publicly accessible website site 1 1 So in original. in a manner that is downloadable, searchable, and sortable.
+
+Comprehensive construction backlog and operation and maintenance report.—
+
+In general
+
+Required information
+
+Required operation and maintenance information
+
+Publication.—
+
+In general
+
+Public availability
+
+## Source Credit
+
+*([Pub. L. 99–662, title X, § 1001](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4201](https://www.govinfo.gov/link/statute/100/4201); [Pub. L. 101–640, title I, § 119(a)](https://www.govinfo.gov/link/plaw/101/public/640), Nov. 28, 1990, [104 Stat. 4630](https://www.govinfo.gov/link/statute/104/4630); [Pub. L. 104–303, title II, § 228(a)](https://www.govinfo.gov/link/plaw/104/public/303), Oct. 12, 1996, [110 Stat. 3703](https://www.govinfo.gov/link/statute/110/3703); [Pub. L. 106–109, § 8(d)](https://www.govinfo.gov/link/plaw/106/public/109), Nov. 24, 1999, [113 Stat. 1496](https://www.govinfo.gov/link/statute/113/1496); [Pub. L. 110–114, title II, § 2046](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1105](https://www.govinfo.gov/link/statute/121/1105); [Pub. L. 113–121, title VI, § 6001(b)](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1345](https://www.govinfo.gov/link/statute/128/1345); [Pub. L. 115–270, title I, § 1154(a)](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3791](https://www.govinfo.gov/link/statute/132/3791); [Pub. L. 116–260, div. AA, title III, § 360(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2732](https://www.govinfo.gov/link/statute/134/2732).)*

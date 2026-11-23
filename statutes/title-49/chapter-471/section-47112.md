@@ -3,9 +3,10 @@ title: "Section 47112 - Carrying out airport development projects"
 usc_title: 49
 usc_section: "47112"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 47112"
-generated_at: "2026-03-30T02:56:19.403Z"
+generated_at: "2026-11-23T21:26:40.972Z"
+status: "active"
 ---
 
 # § 47112. Carrying out airport development projects
@@ -19,3 +20,34 @@ generated_at: "2026-03-30T02:56:19.403Z"
     - **(C)** “Afghanistan-Iraq war veteran” means an individual who served on active duty (as defined in section 101 of title 38 ) in the armed forces in support of Operation Enduring Freedom, Operation Iraqi Freedom, Operation New Dawn, Operation Inherent Resolve, Operation Freedom’s Sentinel, or any successor contingency operation to such operations for more than 180 consecutive days, any part of which occurred after September 11, 2001 , and before the date prescribed by presidential proclamation or by law as the last day of Operation Enduring Freedom, Operation Iraqi Freedom, Operation New Dawn, Operation Inherent Resolve, Operation Freedom’s Sentinel, or any successor contingency operation to such operations (whichever is later), and who was discharged or released from active duty in the armed forces under honorable conditions.
     - **(D)** “Persian Gulf veteran” means an individual who served on active duty in the armed forces in the Southwest Asia theater of operations during the Persian Gulf War for more than 180 consecutive days, any part of which occurred after August 2, 1990 , and before the date prescribed by presidential proclamation or by law, and who was discharged or released from active duty in the armed forces under honorable conditions.
   - **(2)** A contract involving labor for carrying out an airport development project under a grant agreement under this subchapter must require that preference in the employment of labor (except in executive, administrative, and supervisory positions) be given to Vietnam-era veterans, Persian Gulf veterans, Afghanistan-Iraq war veterans, disabled veterans, and small business concerns (as defined in section 3 of the Small Business Act ( 15 U.S.C. 632 )) owned and controlled by disabled veterans when they are available and qualified for the employment.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 47112(a) | 49 App.:2214(a). | Sept. 3, 1982 , Pub. L. 97–248, § 515 , 96 Stat. 691 . |
+| 47112(b) | 49 App.:2214(b). |  |
+| 47112(c) | 49 App.:2214(c). |  |
+
+
+Construction Work
+
+Prevailing Wages
+
+Veterans’ Preference
+
+Historical and Revision Notes
+
+47112(a)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 515
+
+96 Stat. 691
+
+47112(b)
+
+47112(c)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1267](https://www.govinfo.gov/link/statute/108/1267); [Pub. L. 107–217, § 3(n)(8)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1303](https://www.govinfo.gov/link/statute/116/1303); [Pub. L. 112–95, title I, § 139](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 26](https://www.govinfo.gov/link/statute/126/26); [Pub. L. 115–254, div. B, title I, § 135](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3209](https://www.govinfo.gov/link/statute/132/3209).)*

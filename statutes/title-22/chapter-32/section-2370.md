@@ -3,9 +3,10 @@ title: "Section 2370 - Prohibitions against furnishing assistance"
 usc_title: 22
 usc_section: "2370"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2370"
-generated_at: "2026-03-30T02:55:05.360Z"
+generated_at: "2026-11-23T21:25:58.477Z"
+status: "active"
 ---
 
 # § 2370. Prohibitions against furnishing assistance
@@ -56,3 +57,61 @@ generated_at: "2026-03-30T02:55:05.360Z"
     - **(B)** has negotiated and is in compliance with full-scope safeguards of the International Atomic Energy Agency not later than two years after ratification by Cuba of such Treaty; and
     - **(C)** incorporates and is in compliance with internationally accepted nuclear safety standards.
   - **(3)** The Secretary of State shall prepare and submit to the Congress each year a report containing a description of the amount of nuclear fuel and related assistance and credits provided by any country, or any entity of a country, to Cuba during the preceding year, including the terms of each transfer of such fuel, assistance, or credits.
+
+Statement of Policy
+
+Maximum Level of Military Assistance
+
+Prohibition of Military Assistance
+
+Prohibition
+
+Requirement for resumption of assistance
+
+Withholding of Military Assistance
+
+In General
+
+Release of Assistance
+
+Exception
+
+Condition for Termination of All United States Assistance
+
+Prohibition
+
+Requirement for Resumption of Assistance
+
+Establishment of a Fund for Cease-Fire Monitoring, Demobilization, and Transition to Peace
+
+Establishment of Fund
+
+Transfer of Certain Military Assistance Funds
+
+Use of the Fund
+
+Duration of Availability of Funds
+
+Strengthening Civilian Control Over the Military
+
+Support for Democracy
+
+Establishing a Program
+
+Election Monitoring
+
+Assistance
+
+Definitions
+
+“The Congress finds that—
+
+Federal Register.
+
+Jimmy Carter.
+
+John F. Kennedy.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 620, Sept. 4, 1961, [75 Stat. 444](https://www.govinfo.gov/link/statute/75/444); [Pub. L. 87–565](https://www.govinfo.gov/link/plaw/87/public/565), pt. III, § 301(d), Aug. 1, 1962, [76 Stat. 260](https://www.govinfo.gov/link/statute/76/260); [Pub. L. 88–205](https://www.govinfo.gov/link/plaw/88/public/205), pt. III, § 301(e), Dec. 16, 1963, [77 Stat. 386](https://www.govinfo.gov/link/statute/77/386); [Pub. L. 88–633](https://www.govinfo.gov/link/plaw/88/public/633), pt. III, § 301(d)–(g), Oct. 7, 1964, [78 Stat. 1013](https://www.govinfo.gov/link/statute/78/1013); [Pub. L. 89–171](https://www.govinfo.gov/link/plaw/89/public/171), pt. III, § 301(d), Sept. 6, 1965, [79 Stat. 659](https://www.govinfo.gov/link/statute/79/659); [Pub. L. 89–583](https://www.govinfo.gov/link/plaw/89/public/583), pt. III, § 301(h), Sept. 19, 1966, [80 Stat. 805](https://www.govinfo.gov/link/statute/80/805), 806; [Pub. L. 90–137](https://www.govinfo.gov/link/plaw/90/public/137), pt. III, § 301(f), Nov. 14, 1967, [81 Stat. 459](https://www.govinfo.gov/link/statute/81/459); [Pub. L. 90–554](https://www.govinfo.gov/link/plaw/90/public/554), pt. III, § 301(c), Oct. 8, 1968, [82 Stat. 963](https://www.govinfo.gov/link/statute/82/963); [Pub. L. 91–175](https://www.govinfo.gov/link/plaw/91/public/175), pt. III, § 303, Dec. 30, 1969, [83 Stat. 820](https://www.govinfo.gov/link/statute/83/820); [Pub. L. 92–226](https://www.govinfo.gov/link/plaw/92/public/226), pt. III, § 301, Feb. 7, 1972, [86 Stat. 27](https://www.govinfo.gov/link/statute/86/27); [Pub. L. 93–189, § 15](https://www.govinfo.gov/link/plaw/93/public/189), Dec. 17, 1973, [87 Stat. 722](https://www.govinfo.gov/link/statute/87/722); [Pub. L. 93–559](https://www.govinfo.gov/link/plaw/93/public/559), §§ 22–24, 44, Dec. 30, 1974, [88 Stat. 1801](https://www.govinfo.gov/link/statute/88/1801), 1802, 1813; [Pub. L. 94–104, § 2(c)(1)](https://www.govinfo.gov/link/plaw/94/public/104), (2), Oct. 6, 1975, [89 Stat. 509](https://www.govinfo.gov/link/statute/89/509); [Pub. L. 94–329, title IV, § 403](https://www.govinfo.gov/link/plaw/94/public/329), title VI, § 606, June 30, 1976, [90 Stat. 757](https://www.govinfo.gov/link/statute/90/757), 768; [Pub. L. 95–88, title I, § 123(a)](https://www.govinfo.gov/link/plaw/95/public/88), (b), Aug. 3, 1977, [91 Stat. 541](https://www.govinfo.gov/link/statute/91/541); [Pub. L. 95–92, § 22(d)](https://www.govinfo.gov/link/plaw/95/public/92), Aug. 4, 1977, [91 Stat. 624](https://www.govinfo.gov/link/statute/91/624); [Pub. L. 95–384, § 13(a)](https://www.govinfo.gov/link/plaw/95/public/384), Sept. 26, 1978, [92 Stat. 737](https://www.govinfo.gov/link/statute/92/737); [Pub. L. 95–424, title I](https://www.govinfo.gov/link/plaw/95/public/424), §§ 102(g)(2)(F), 115(k), title V, § 502(d)(1), Oct. 6, 1978, [92 Stat. 943](https://www.govinfo.gov/link/statute/92/943), 952, 959; [Pub. L. 96–533, title II, § 203](https://www.govinfo.gov/link/plaw/96/public/533), Dec. 16, 1980, [94 Stat. 3145](https://www.govinfo.gov/link/statute/94/3145); [Pub. L. 97–113, title VII](https://www.govinfo.gov/link/plaw/97/public/113), §§ 702, 707, 734(a)(1), (13), (b), Dec. 29, 1981, [95 Stat. 1544](https://www.govinfo.gov/link/statute/95/1544), 1546, 1560; [Pub. L. 99–83, title XII](https://www.govinfo.gov/link/plaw/99/public/83), §§ 1202, 1203, Aug. 8, 1985, [99 Stat. 276](https://www.govinfo.gov/link/statute/99/276), 277; [Pub. L. 102–511, title IX, § 901](https://www.govinfo.gov/link/plaw/102/public/511), Oct. 24, 1992, [106 Stat. 3355](https://www.govinfo.gov/link/statute/106/3355); [Pub. L. 103–199, title VII, § 705(3)](https://www.govinfo.gov/link/plaw/103/public/199), Dec. 17, 1993, [107 Stat. 2328](https://www.govinfo.gov/link/statute/107/2328); [Pub. L. 103–306, title V, § 573](https://www.govinfo.gov/link/plaw/103/public/306), Aug. 23, 1994, [108 Stat. 1653](https://www.govinfo.gov/link/statute/108/1653); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. B, title XXVIII, § 2810(a), Oct. 21, 1998, [112 Stat. 2681–850](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 110–246, title III, § 3001(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/246), (2)(Q), June 18, 2008, [122 Stat. 1820](https://www.govinfo.gov/link/statute/122/1820); [Pub. L. 117–81, div. E, title LVII, § 5701](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2381](https://www.govinfo.gov/link/statute/135/2381).)*

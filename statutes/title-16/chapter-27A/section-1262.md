@@ -3,9 +3,10 @@ title: "Section 1262 - National Recreational Trails Advisory Committee"
 usc_title: 16
 usc_section: "1262"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1262"
-generated_at: "2026-03-30T02:54:22.947Z"
+generated_at: "2026-11-23T21:25:51.844Z"
+status: "active"
 ---
 
 # § 1262. National Recreational Trails Advisory Committee
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:22.947Z"
 - **(h)** Nongovernmental members of the advisory committee shall serve without pay, but, to the extent funds are available pursuant to section 1261(d)(1)(B) 1 1 See References in Text note below. of this title, shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.
 - **(i)** Not later than 4 years after December 18, 1991 , the Secretary shall prepare and submit to the Committee on Environment and Public Works of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives, a study which summarizes the annual reports of the National Recreational Trails Advisory Committee, describes the allocation and utilization of moneys under this chapter, and contains recommendations for changes in Federal policy to advance the purposes of this chapter.
 - **(j)** The advisory committee established by this section shall terminate on September 30, 2000 .
+
+## Source Credit
+
+*([Pub. L. 102–240, title I, § 1303](https://www.govinfo.gov/link/plaw/102/public/240), Dec. 18, 1991, [105 Stat. 2068](https://www.govinfo.gov/link/statute/105/2068); [Pub. L. 104–59, title III](https://www.govinfo.gov/link/plaw/104/public/59), §§ 325(h), 337(e), Nov. 28, 1995, [109 Stat. 592](https://www.govinfo.gov/link/statute/109/592), 603; [Pub. L. 105–178, title I, § 1112(d)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 151](https://www.govinfo.gov/link/statute/112/151).)*

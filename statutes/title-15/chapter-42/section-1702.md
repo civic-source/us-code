@@ -3,9 +3,10 @@ title: "Section 1702 - Exemptions"
 usc_title: 15
 usc_section: "1702"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1702"
-generated_at: "2026-03-30T02:54:08.158Z"
+generated_at: "2026-11-23T21:25:39.891Z"
+status: "active"
 ---
 
 # § 1702. Exemptions
@@ -65,3 +66,7 @@ generated_at: "2026-03-30T02:54:08.158Z"
 - **(d)** For purposes of subsection (b), the term “condominium unit” means a unit of residential or commercial property to be designated for separate ownership pursuant to a condominium plan or declaration provided that upon conveyance—
   - **(1)** the owner of such unit will have sole ownership of the unit and an undivided interest in the common elements appurtenant to the unit; and
   - **(2)** the unit will be an improved lot.
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIV, § 1403](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 590](https://www.govinfo.gov/link/statute/82/590); [Pub. L. 91–152, title IV, § 411](https://www.govinfo.gov/link/plaw/91/public/152), Dec. 24, 1969, [83 Stat. 398](https://www.govinfo.gov/link/statute/83/398); [Pub. L. 93–383, title VIII, § 812(b)](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 736](https://www.govinfo.gov/link/statute/88/736); [Pub. L. 95–557, title IX, § 907](https://www.govinfo.gov/link/plaw/95/public/557), Oct. 31, 1978, [92 Stat. 2127](https://www.govinfo.gov/link/statute/92/2127); [Pub. L. 96–153, title IV, § 402](https://www.govinfo.gov/link/plaw/96/public/153), Dec. 21, 1979, [93 Stat. 1123](https://www.govinfo.gov/link/statute/93/1123); [Pub. L. 111–203, title X, § 1098A(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2105](https://www.govinfo.gov/link/statute/124/2105); [Pub. L. 113–167, § 1(a)](https://www.govinfo.gov/link/plaw/113/public/167), Sept. 26, 2014, [128 Stat. 1882](https://www.govinfo.gov/link/statute/128/1882).)*

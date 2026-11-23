@@ -3,9 +3,10 @@ title: "Section 1273 - Lake Pontchartrain Basin"
 usc_title: 33
 usc_section: "1273"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1273"
-generated_at: "2026-03-30T02:55:41.085Z"
+generated_at: "2026-11-23T21:26:11.366Z"
+status: "active"
 ---
 
 # § 1273. Lake Pontchartrain Basin
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:41.085Z"
   - **(1)** There is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2001 through 2012 and the amount appropriated for fiscal year 2009 for each of fiscal years 2013 through 2017. Such sums shall remain available until expended.
   - **(2)** Not more than 15 percent of the amount appropriated pursuant to paragraph (1) in a fiscal year may be expended on grants for public education projects under subsection (d)(2).
   - **(3)** Not more than 5 percent of the amounts appropriated to carry out this section may be used for administrative expenses.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title I, § 121, as added [Pub. L. 106–457, title V, § 502](https://www.govinfo.gov/link/plaw/106/public/457), Nov. 7, 2000, [114 Stat. 1973](https://www.govinfo.gov/link/statute/114/1973); amended [Pub. L. 109–392, § 1](https://www.govinfo.gov/link/plaw/109/public/392), Dec. 12, 2006, [120 Stat. 2703](https://www.govinfo.gov/link/statute/120/2703); [Pub. L. 112–237, § 1](https://www.govinfo.gov/link/plaw/112/public/237), Dec. 28, 2012, [126 Stat. 1628](https://www.govinfo.gov/link/statute/126/1628); [Pub. L. 117–263, div. H, title LXXXV, § 8501(c)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3856](https://www.govinfo.gov/link/statute/136/3856).)*

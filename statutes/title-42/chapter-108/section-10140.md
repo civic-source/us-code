@@ -3,9 +3,10 @@ title: "Section 10140 - Expedited authorizations"
 usc_title: 42
 usc_section: "10140"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10140"
-generated_at: "2026-03-30T02:56:11.381Z"
+generated_at: "2026-11-23T21:26:33.340Z"
+status: "active"
 ---
 
 # § 10140. Expedited authorizations
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.381Z"
   - **(1)** To the extent that the taking of any action related to the site characterization of a site or the construction or initial operation of a repository under this part requires a certificate, right-of-way, permit, lease, or other authorization from a Federal agency or officer, such agency or officer shall issue or grant any such authorization at the earliest practicable date, to the extent permitted by the applicable provisions of law administered by such agency or officer. All actions of a Federal agency or officer with respect to consideration of applications or requests for the issuance or grant of any such authorization shall be expedited, and any such application or request shall take precedence over any similar applications or requests not related to such repositories.
   - **(2)** The provisions of paragraph (1) shall not apply to any certificate, right-of-way, permit, lease, or other authorization issued or granted by, or requested from, the Commission.
 - **(b)** Any authorization issued or granted pursuant to subsection (a) shall include such terms and conditions as may be required by law, and may include terms and conditions permitted by law.
+
+## Source Credit
+
+*([Pub. L. 97–425, title I, § 120](https://www.govinfo.gov/link/plaw/97/public/425), Jan. 7, 1983, [96 Stat. 2227](https://www.govinfo.gov/link/statute/96/2227).)*

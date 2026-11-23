@@ -3,9 +3,10 @@ title: "Section 225 - Telecommunications services for hearing-impaired and speec
 usc_title: 47
 usc_section: "225"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 225"
-generated_at: "2026-03-30T02:56:24.498Z"
+generated_at: "2026-11-23T21:26:35.946Z"
+status: "active"
 ---
 
 # § 225. Telecommunications services for hearing-impaired and speech-impaired individuals
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:56:24.498Z"
       - **(i)** within 180 days after the complaint is filed with such State; or
       - **(ii)** within a shorter period as prescribed by the regulations of such State; or
     - **(B)** the Commission determines that such State program is no longer qualified for certification under subsection (f).
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title II, § 225, as added [Pub. L. 101–336, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/101/public/336), July 26, 1990, [104 Stat. 366](https://www.govinfo.gov/link/statute/104/366); amended [Pub. L. 104–104, § 3(d)(1)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 61](https://www.govinfo.gov/link/statute/110/61); [Pub. L. 111–260, title I, § 103(a)](https://www.govinfo.gov/link/plaw/111/public/260), Oct. 8, 2010, [124 Stat. 2755](https://www.govinfo.gov/link/statute/124/2755).)*

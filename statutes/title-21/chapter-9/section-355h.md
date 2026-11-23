@@ -3,9 +3,10 @@ title: "Section 355h - Regulation of certain nonprescription drugs that are mark
 usc_title: 21
 usc_section: "355h"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 355h"
-generated_at: "2026-03-30T02:54:54.240Z"
+generated_at: "2026-11-23T21:25:56.050Z"
+status: "active"
 ---
 
 # § 355h. Regulation of certain nonprescription drugs that are marketed without an approved drug application
@@ -262,3 +263,47 @@ generated_at: "2026-03-30T02:54:54.240Z"
     - **(A)** The Secretary shall consider the types of nonclinical tests described in paragraphs (1) through (4) of the first subsection (z) of section 355 of this title (as inserted by section 3209(a)(2) of the Health Extenders, Improving Access to Medicare, Medicaid, and CHIP, and Strengthening Public Health Act of 2022 (division FF of Public Law 117–328 )), or any other alternative to animal testing that the Secretary determines appropriate, in the consideration of drugs intended for topical administration under this section.
     - **(B)** Not later than 1 year after November 12, 2025 , the Secretary shall issue new draft guidance on how sponsors can use nonclinical testing alternatives to animal testing, as appropriate, to meet safety and efficacy standards under this section for drugs intended for topical administration.
   - **(3)** Nothing in this subsection shall be construed to alter, supersede, or limit the standards for making determinations of whether a drug is generally recognized as safe and effective under section 321(p) of this title or the standards set forth under section 355 of this title for determining the safety and effectiveness of drugs.
+
+(aa) generally recognized as safe and effective under section 321(p)(1) of this title in accordance with subsection (a)(1), (a)(2), or an order under this subsection; or
+
+(bb) subject to subsection (a)(3), but only if such requestor initiates such request in conjunction with a request for the Secretary to determine whether such drug is generally recognized as safe and effective under section 321(p)(1) of this title , which is filed by the Secretary under subparagraph (A)(ii).
+
+(aa) changes described in clause (ii)(I), relating to active ingredients; or
+
+(bb) changes described in clause (ii)(II), relating to conditions of use.
+
+(aa) the subject of a Tier 2 OTC monograph order request (as defined in section 379j–71 of this title );
+
+(bb) safety-related changes, as defined by the Secretary, or any other changes the Secretary considers necessary to assure safe use; or
+
+(cc) changes related to methods of testing safety or efficacy.
+
+(aa) a proposed or final determination that a drug described in subclause (I), (II), or (III) of clause (iii) is generally recognized as safe and effective under section 321(p)(1) of this title ; or
+
+(bb) approval of a drug that was approved under section 355 of this title ; and
+
+(aa) a proposed or final determination that a drug described in subclause (I), (II), or (III) of clause (iii) is generally recognized as safe and effective under section 321(p)(1) of this title ; or
+
+(bb) approval of a drug that was approved under section 355 of this title .
+
+In General
+
+Rule of Construction
+
+In general.—
+
+Revision of final sunscreen order
+
+Issuance of revised sunscreen order; effective date
+
+Reports
+
+In General
+
+Cough and Cold Monograph Described
+
+Duration of Authority
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 505G, as added [Pub. L. 116–136, div. A, title III, § 3851(a)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 435](https://www.govinfo.gov/link/statute/134/435); amended [Pub. L. 119–37, div. F, title V](https://www.govinfo.gov/link/plaw/119/public/37), §§ 6506(a), 6508, Nov. 12, 2025, [139 Stat. 644](https://www.govinfo.gov/link/statute/139/644), 648.)*

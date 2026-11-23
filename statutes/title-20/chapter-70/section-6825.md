@@ -3,9 +3,10 @@ title: "Section 6825 - Subgrants to eligible entities"
 usc_title: 20
 usc_section: "6825"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6825"
-generated_at: "2026-03-30T02:54:48.204Z"
+generated_at: "2026-11-23T21:25:47.537Z"
+status: "active"
 ---
 
 # § 6825. Subgrants to eligible entities
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:54:48.204Z"
   - **(1)** To receive a subgrant from a State educational agency under this subpart, an eligible entity shall select one or more methods or forms of effective instruction to be used in the programs and activities undertaken by the entity to assist English learners to attain English language proficiency and meet challenging State academic standards.
   - **(2)** The selection described in paragraph (1) shall be consistent with sections 6845 through 6847 of this title.
 - **(g)** Federal funds made available under this subpart shall be used so as to supplement the level of Federal, State, and local public funds that, in the absence of such availability, would have been expended for programs for English learners and immigrant children and youth and in no case to supplant such Federal, State, and local public funds.
+
+## Source Credit
+
+*([Pub. L. 89–10, title III, § 3115](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title III, § 301](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1697](https://www.govinfo.gov/link/statute/115/1697); amended [Pub. L. 114–95, title III, § 3003(f)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1958](https://www.govinfo.gov/link/statute/129/1958).)*

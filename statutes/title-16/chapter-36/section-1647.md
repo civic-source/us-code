@@ -3,9 +3,10 @@ title: "Section 1647 - Other Federal programs"
 usc_title: 16
 usc_section: "1647"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1647"
-generated_at: "2026-03-30T02:54:22.980Z"
+generated_at: "2026-11-23T21:25:51.907Z"
+status: "active"
 ---
 
 # § 1647. Other Federal programs
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:22.980Z"
 - **(b)** Contracts and cooperative and other agreements under the McSweeney-McNary Act shall remain in effect until revoked or amended by their own terms or under other provisions of law.
 - **(c)** The Secretary is authorized to issue such rules and regulations as the Secretary deems necessary to implement the provisions of this subchapter and to coordinate this subchapter with title XIV of the Food and Agriculture Act of 1977 [ 7 U.S.C. 3101 et seq.].
 - **(d)** Funds appropriated under the authority of the McSweeney-McNary Act shall be available for expenditure for the programs authorized under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 95–307, § 8](https://www.govinfo.gov/link/plaw/95/public/307), June 30, 1978, [92 Stat. 356](https://www.govinfo.gov/link/statute/92/356).)*

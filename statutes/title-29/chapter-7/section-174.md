@@ -3,9 +3,10 @@ title: "Section 174 - Co-equal obligations of employees, their representatives, 
 usc_title: 29
 usc_section: "174"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 174"
-generated_at: "2026-03-30T02:55:18.679Z"
+generated_at: "2026-11-23T21:26:02.170Z"
+status: "active"
 ---
 
 # § 174. Co-equal obligations of employees, their representatives, and management to minimize labor disputes
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:18.679Z"
   - **(1)** exert every reasonable effort to make and maintain agreements concerning rates of pay, hours, and working conditions, including provision for adequate notice of any proposed change in the terms of such agreements;
   - **(2)** whenever a dispute arises over the terms or application of a collective-bargaining agreement and a conference is requested by a party or prospective party thereto, arrange promptly for such a conference to be held and endeavor in such conference to settle such dispute expeditiously; and
   - **(3)** in case such dispute is not settled by conference, participate fully and promptly in such meetings as may be undertaken by the Service under this chapter for the purpose of aiding in a settlement of the dispute.
+
+## Source Credit
+
+*(June 23, 1947, ch. 120, title II, § 204, [61 Stat. 154](https://www.govinfo.gov/link/statute/61/154).)*

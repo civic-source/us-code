@@ -3,9 +3,10 @@ title: "Section 645 - Offenses and penalties"
 usc_title: 15
 usc_section: "645"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 645"
-generated_at: "2026-03-30T02:54:08.102Z"
+generated_at: "2026-11-23T21:25:39.684Z"
+status: "active"
 ---
 
 # § 645. Offenses and penalties
@@ -32,3 +33,9 @@ generated_at: "2026-03-30T02:54:08.102Z"
     - **(A)** $500,000; or
     - **(B)** the dollar amount expended, in excess of permitted levels, by the entity on subcontractors.
   - **(2)** Not later than 1 year after January 2, 2013 , the Administrator shall take such actions as are necessary to ensure that an existing Federal subcontracting reporting system is modified to notify the Administrator, the appropriate Director of the Office of Small and Disadvantaged Business Utilization, and the appropriate contracting officer if a requirement established under section 657s of this title is violated.
+
+Limitation on liability
+
+## Source Credit
+
+*([Pub. L. 85–536, § 2[16]](https://www.govinfo.gov/link/plaw/85/public/536), July 18, 1958, [72 Stat. 395](https://www.govinfo.gov/link/statute/72/395); [Pub. L. 88–264, § 2](https://www.govinfo.gov/link/plaw/88/public/264), Feb. 5, 1964, [78 Stat. 8](https://www.govinfo.gov/link/statute/78/8); [Pub. L. 99–272, title XVIII, § 18009](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 368](https://www.govinfo.gov/link/statute/100/368); [Pub. L. 100–656, title IV, § 405](https://www.govinfo.gov/link/plaw/100/public/656), Nov. 15, 1988, [102 Stat. 3875](https://www.govinfo.gov/link/statute/102/3875); [Pub. L. 103–355, title VII, § 7106(c)](https://www.govinfo.gov/link/plaw/103/public/355), Oct. 13, 1994, [108 Stat. 3376](https://www.govinfo.gov/link/statute/108/3376); [Pub. L. 105–85, div. A, title X, § 1073(g)(4)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1906](https://www.govinfo.gov/link/statute/111/1906); [Pub. L. 105–135, title VI, § 603(c)](https://www.govinfo.gov/link/plaw/105/public/135), Dec. 2, 1997, [111 Stat. 2632](https://www.govinfo.gov/link/statute/111/2632); [Pub. L. 112–239, div. A, title XVI](https://www.govinfo.gov/link/plaw/112/public/239), §§ 1652, 1681(a), 1682(a), Jan. 2, 2013, [126 Stat. 2081](https://www.govinfo.gov/link/statute/126/2081), 2085, 2086; [Pub. L. 116–283, div. A, title VIII, § 862(d)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3780](https://www.govinfo.gov/link/statute/134/3780); [Pub. L. 117–81, div. A, title XVII, § 1702(e)(6)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2157](https://www.govinfo.gov/link/statute/135/2157).)*

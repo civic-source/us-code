@@ -3,9 +3,10 @@ title: "Section 2318 - Demonstration project for alternative trade adjustment as
 usc_title: 19
 usc_section: "2318"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2318"
-generated_at: "2026-03-30T02:54:24.670Z"
+generated_at: "2026-11-23T21:25:42.791Z"
+status: "active"
 ---
 
 # § 2318. Demonstration project for alternative trade adjustment assistance for older workers
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:24.670Z"
 - **(b)**
   - **(1)** Except as provided in paragraph (2), no payments may be made by a State under the program established under subsection (a)(1) after the date that is 5 years after the date on which such program is implemented by the State. 1 1 See Application of Subsection (b)(1) note below.
   - **(2)** Notwithstanding paragraph (1), a worker receiving payments under the program established under subsection (a)(1) on the termination date described in paragraph (1) shall continue to receive such payments if the worker meets the criteria described in subsection (a)(3)(B).
+
+## Source Credit
+
+*([Pub. L. 93–618, title II, § 246](https://www.govinfo.gov/link/plaw/93/public/618), as added [Pub. L. 107–210, div. A, title I, § 124(a)](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 944](https://www.govinfo.gov/link/statute/116/944); amended [Pub. L. 108–429, title II, § 2004(a)(7)](https://www.govinfo.gov/link/plaw/108/public/429), Dec. 3, 2004, [118 Stat. 2590](https://www.govinfo.gov/link/statute/118/2590); [Pub. L. 111–5, div. B, title I, § 1841(a)](https://www.govinfo.gov/link/plaw/111/public/5), (b), Feb. 17, 2009, [123 Stat. 386](https://www.govinfo.gov/link/statute/123/386), 389; [Pub. L. 111–344, title I, § 101(c)(3)](https://www.govinfo.gov/link/plaw/111/public/344), Dec. 29, 2010, [124 Stat. 3613](https://www.govinfo.gov/link/statute/124/3613); [Pub. L. 112–40, title II](https://www.govinfo.gov/link/plaw/112/public/40), §§ 201(b), (c), 215, Oct. 21, 2011, [125 Stat. 403](https://www.govinfo.gov/link/statute/125/403), 407; [Pub. L. 114–27, title IV](https://www.govinfo.gov/link/plaw/114/public/27), §§ 402(b), (c), 403(c), June 29, 2015, [129 Stat. 374](https://www.govinfo.gov/link/statute/129/374).)*

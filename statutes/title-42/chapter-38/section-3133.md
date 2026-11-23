@@ -3,9 +3,10 @@ title: "Section 3133 - Coordination"
 usc_title: 42
 usc_section: "3133"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3133"
-generated_at: "2026-03-30T02:56:11.182Z"
+generated_at: "2026-11-23T21:26:32.534Z"
+status: "active"
 ---
 
 # § 3133. Coordination
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.182Z"
     - **(D)** Where applicable and pursuant to subparagraph (C), not later than 1 year after a meeting under this paragraph, the Secretary shall prepare and make publicly available a report detailing, at a minimum—
       - **(i)** the planned actions by the Economic Development Administration and the Regional Commissions to enhance coordination or reduce duplication of efforts and a timeline for implementing those actions; and
       - **(ii)** any best practices and strategies developed.
+
+## Source Credit
+
+*([Pub. L. 89–136, title I, § 103](https://www.govinfo.gov/link/plaw/89/public/136), as added [Pub. L. 105–393, title I, § 102(a)](https://www.govinfo.gov/link/plaw/105/public/393), Nov. 13, 1998, [112 Stat. 3601](https://www.govinfo.gov/link/statute/112/3601); amended [Pub. L. 108–373, title I, § 104](https://www.govinfo.gov/link/plaw/108/public/373), Oct. 27, 2004, [118 Stat. 1759](https://www.govinfo.gov/link/statute/118/1759); [Pub. L. 118–272, div. B, title II, § 2212](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3178](https://www.govinfo.gov/link/statute/138/3178).)*

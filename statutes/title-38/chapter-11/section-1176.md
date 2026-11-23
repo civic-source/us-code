@@ -3,9 +3,10 @@ title: "Section 1176 - Agreement with National Academies of Sciences, Engineerin
 usc_title: 38
 usc_section: "1176"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1176"
-generated_at: "2026-03-30T02:55:53.478Z"
+generated_at: "2026-11-23T21:26:16.592Z"
+status: "active"
 ---
 
 # § 1176. Agreement with National Academies of Sciences, Engineering, and Medicine concerning toxic exposures
@@ -42,3 +43,23 @@ generated_at: "2026-03-30T02:55:53.478Z"
     - **(B)** operates as a not-for-profit entity; and
     - **(C)** has expertise and objectivity comparable to that of the Academies.
   - **(2)** If the Secretary enters into an agreement with another organization as described in paragraph (1), any reference in this subchapter to the Academies shall be treated as a reference to the other organization.
+
+Purpose
+
+Agreement
+
+Review of Scientific Evidence
+
+Scientific Determinations Concerning Diseases
+
+Cooperation of Federal Agencies
+
+Recommendations for Additional Scientific Studies
+
+Reports
+
+Alternative Contract Scientific Organization
+
+## Source Credit
+
+*(Added [Pub. L. 117–168, title II, § 202(a)](https://www.govinfo.gov/link/plaw/117/public/168), Aug. 10, 2022, [136 Stat. 1772](https://www.govinfo.gov/link/statute/136/1772).)*

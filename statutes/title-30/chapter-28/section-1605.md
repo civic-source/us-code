@@ -3,9 +3,10 @@ title: "Section 1605 - Applicability to other statutory national mining and mine
 usc_title: 30
 usc_section: "1605"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1605"
-generated_at: "2026-03-30T02:55:29.407Z"
+generated_at: "2026-11-23T21:26:00.441Z"
+status: "active"
 ---
 
 # § 1605. Applicability to other statutory national mining and minerals policies
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:29.407Z"
   - **(1)** the Secretary of the Interior to act immediately within the Department’s statutory authority to attain the goals contained in section 21a of this title and
   - **(2)** the Executive Office of the President to act immediately to promote the goals contained in section 21a of this title among the various departments and agencies.
 
+
+## Source Credit
+
+*([Pub. L. 96–479, § 6](https://www.govinfo.gov/link/plaw/96/public/479), Oct. 21, 1980, [94 Stat. 2309](https://www.govinfo.gov/link/statute/94/2309).)*

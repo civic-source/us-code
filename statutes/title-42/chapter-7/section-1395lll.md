@@ -3,9 +3,10 @@ title: "Section 1395lll - Standardized post-acute care (PAC) assessment data for
 usc_title: 42
 usc_section: "1395lll"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1395lll"
-generated_at: "2026-03-30T02:56:11.029Z"
+generated_at: "2026-11-23T21:26:31.757Z"
+status: "active"
 ---
 
 # § 1395lll. Standardized post-acute care (PAC) assessment data for quality, payment, and discharge planning
@@ -133,3 +134,63 @@ generated_at: "2026-03-30T02:56:11.029Z"
 - **(k)** For purposes of carrying out this section, the Secretary shall provide for the transfer to the Centers for Medicare & Medicaid Services Program Management Account, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title , in such proportion as the Secretary determines appropriate, of $130,000,000. Fifty percent of such amount shall be available on October 6, 2014 , and fifty percent of such amount shall be equally proportioned for each of fiscal years 2015 through 2019. Such sums shall remain available until expended.
 - **(l)** There shall be no administrative or judicial review under sections 1395ff and 1395 oo of this title or otherwise of the specification of standardized patient assessment data required, the determination of measures, and the systems to report such standardized data under this section.
 - **(m)** Chapter 35 of title 44 (commonly referred to as the “Paperwork Reduction Act of 1995”) shall not apply to this section and the sections referenced in subsection (a)(2)(B) that require modification in order to achieve the standardization of patient assessment data.
+
+(aa) for PAC providers described in clauses (ii) and (iii) of paragraph (2)(A), October 1, 2016 ;
+
+(bb) for PAC providers described in clause (iv) of such paragraph, October 1, 2018 ; and
+
+(cc) for PAC providers described in clause (i) of such paragraph, January 1, 2019 ;
+
+(aa) for PAC providers described in clauses (ii), (iii), and (iv) of paragraph (2)(A), October 1, 2016 ; and
+
+(bb) for PAC providers described in clause (i) of such paragraph, January 1, 2017 ;
+
+(aa) for PAC providers described in clause (i) of such paragraph, January 1, 2017 ; and
+
+(bb) for PAC providers described in clauses (ii), (iii), and (iv) of such paragraph, October 1, 2018 ;
+
+(aa) for PAC providers described in clauses (ii), (iii), and (iv) of paragraph (2)(A), October 1, 2016 ; and
+
+(bb) for PAC providers described in clause (i) of such paragraph, January 1, 2019 ; and
+
+(aa) for PAC providers described in clauses (ii), (iii), and (iv) of paragraph (2)(A), October 1, 2018 ; and
+
+(bb) for PAC providers described in clause (i) of such paragraph, January 1, 2019 .
+
+“Not later than January 1, 2022 , the Secretary of Health and Human Services shall revise subsections (a)(2) and (b)(3) of section 484.55 of title 42, Code of Federal Regulations, or a successor regulation, to permit an occupational therapist to conduct the initial assessment visit and to complete the comprehensive assessment (as such terms are described in such subsections, respectively) for home health services for an individual under title XVIII of the Social Security Act ( 42 U.S.C. 1395 et seq.) if the home health plan of care for such individual—
+
+Studies and reports of effect of certain information on quality and resource use.—
+
+Study using existing medicare data.—
+
+Study
+
+Report
+
+Study using other data.—
+
+Study
+
+Report
+
+Examination of data in conducting studies
+
+Recommendations to account for information in payment adjustment mechanisms
+
+Funding
+
+CMS activities.—
+
+In general
+
+Accessing data
+
+Periodic analyses
+
+Funding
+
+Strategic plan for accessing race and ethnicity data
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1899B, as added [Pub. L. 113–185, § 2(a)](https://www.govinfo.gov/link/plaw/113/public/185), Oct. 6, 2014, [128 Stat. 1952](https://www.govinfo.gov/link/statute/128/1952); amended [Pub. L. 114–255, div. C, title XV, § 15008(d)(1)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1321](https://www.govinfo.gov/link/statute/130/1321).)*

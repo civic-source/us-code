@@ -3,9 +3,10 @@ title: "Section 6050V - Returns relating to applicable insurance contracts in wh
 usc_title: 26
 usc_section: "6050V"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6050V"
-generated_at: "2026-03-30T02:55:27.835Z"
+generated_at: "2026-11-23T21:26:06.784Z"
+status: "active"
 ---
 
 # § 6050V. Returns relating to applicable insurance contracts in which certain exempt organizations hold interests
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:27.835Z"
     - **(B)** an organization described in section 168(h)(2)(A)(iv), or
     - **(C)** an organization not described in paragraph (1) or (2) which is described in section 2055(a) or section 2522(a).
 - **(e)** This section shall not apply to reportable acquisitions occurring after the date which is 2 years after the date of the enactment of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 109–280, title XII, § 1211(a)(1)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1072](https://www.govinfo.gov/link/statute/120/1072).)*

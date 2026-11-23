@@ -3,9 +3,10 @@ title: "Section 1489 - Death gratuity: members and employees dying outside the U
 usc_title: 10
 usc_section: "1489"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1489"
-generated_at: "2026-03-30T02:53:38.126Z"
+generated_at: "2026-11-23T21:25:32.492Z"
+status: "active"
 ---
 
 # § 1489. Death gratuity: members and employees dying outside the United States while assigned to intelligence duties
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:38.126Z"
   - **(1)** shall be in an amount equal to the amount of the annual basic pay or salary of the member or employee concerned at the time of death;
   - **(2)** shall be considered a gift and shall be in lieu of payment of any lesser death gratuity authorized by this chapter or any other Federal law; and
   - **(3)** shall be made under the same conditions as apply to payments authorized by section 413 of the Foreign Service Act of 1980 ( 22 U.S.C. 3973 ).
+
+## Source Credit
+
+*(Added [Pub. L. 96–450, title IV, § 403(b)(1)](https://www.govinfo.gov/link/plaw/96/public/450), Oct. 14, 1980, [94 Stat. 1979](https://www.govinfo.gov/link/statute/94/1979); amended [Pub. L. 97–22, § 11(a)(6)](https://www.govinfo.gov/link/plaw/97/public/22), July 10, 1981, [95 Stat. 138](https://www.govinfo.gov/link/statute/95/138); [Pub. L. 98–94, title XII, § 1268(9)](https://www.govinfo.gov/link/plaw/98/public/94), Sept. 24, 1983, [97 Stat. 706](https://www.govinfo.gov/link/statute/97/706); [Pub. L. 99–145, title XIII, § 1303(a)(12)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 739](https://www.govinfo.gov/link/statute/99/739).)*

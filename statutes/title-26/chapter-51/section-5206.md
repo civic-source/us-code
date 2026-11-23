@@ -3,9 +3,10 @@ title: "Section 5206 - Containers"
 usc_title: 26
 usc_section: "5206"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5206"
-generated_at: "2026-03-30T02:55:27.821Z"
+generated_at: "2026-11-23T21:26:06.707Z"
+status: "active"
 ---
 
 # § 5206. Containers
@@ -20,3 +21,20 @@ generated_at: "2026-03-30T02:55:27.821Z"
   - **(2)** For provisions relating to labeling containers of distilled spirits of one gallon or less for nonindustrial uses, see section 105(e) of the Federal Alcohol Administration Act ( 27 U.S.C. 205(e) ).
   - **(3)** For provisions relating to the marking and branding of containers of distilled spirits by proprietors, see section 5204(c).
   - **(4)** For penalties and forfeitures relating to marks and brands, see sections 5604 and 5613.
+
+| Present subsecs.: | Prior sections |
+| --- | --- |
+| (a) | 5193(a), (b), 5194, 5247(a), (d), 5302. |
+| (b) | 5193(c). |
+| (c) | 5009(a), 5193(a), 5194, 5243(d), (e), 5250(a), 5282(b). |
+
+
+(a)
+
+(b)
+
+(c)
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1360](https://www.govinfo.gov/link/statute/72/1360); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 98–369, div. A, title IV, § 454(c)(5)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 821](https://www.govinfo.gov/link/statute/98/821); [Pub. L. 104–188, title I, § 1704(t)(13)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1888](https://www.govinfo.gov/link/statute/110/1888).)*

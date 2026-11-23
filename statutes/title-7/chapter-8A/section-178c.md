@@ -3,9 +3,10 @@ title: "Section 178c - Research and development program by Secretary of Agricult
 usc_title: 7
 usc_section: "178c"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 178c"
-generated_at: "2026-03-30T02:53:42.276Z"
+generated_at: "2026-11-23T21:25:27.922Z"
+status: "active"
 ---
 
 # § 178c. Research and development program by Secretary of Agriculture
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:42.276Z"
   - **(1)** enter into a contract or cooperative agreement with, or provide a grant to, any person, or public or private agency or organization, to participate in, carry out, support, or stimulate such project;
   - **(2)** make available for purposes of clause (1) agricultural commodities or the products thereof acquired by the Commodity Credit Corporation under price support operations conducted by the Corporation; or
   - **(3)** use any funds appropriated pursuant to section 178n(a) of this title , or any funds provided by any person, or public or private agency or organization, to carry out such project or reimburse the Commodity Credit Corporation for agricultural commodities or products that are utilized in connection with such project.
+
+## Source Credit
+
+*([Pub. L. 95–592, § 5](https://www.govinfo.gov/link/plaw/95/public/592), Nov. 4, 1978, [92 Stat. 2531](https://www.govinfo.gov/link/statute/92/2531); [Pub. L. 98–284, § 5](https://www.govinfo.gov/link/plaw/98/public/284), May 16, 1984, [98 Stat. 182](https://www.govinfo.gov/link/statute/98/182); [Pub. L. 99–198, title XIV, § 1439](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1559](https://www.govinfo.gov/link/statute/99/1559); [Pub. L. 102–237, title X, § 1005(1)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1894](https://www.govinfo.gov/link/statute/105/1894); [Pub. L. 115–334, title VII, § 7501(a)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4819](https://www.govinfo.gov/link/statute/132/4819).)*

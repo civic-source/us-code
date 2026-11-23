@@ -3,9 +3,10 @@ title: "Section 8042 - Headquarters, Marine Corps: general duties"
 usc_title: 10
 usc_section: "8042"
 chapter: 806
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 8042"
-generated_at: "2026-03-30T02:53:38.238Z"
+generated_at: "2026-11-23T21:25:32.886Z"
+status: "active"
 ---
 
 # § 8042. Headquarters, Marine Corps: general duties
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:38.238Z"
   - **(3)** prepare detailed instructions for the execution of approved plans and supervise the execution of those plans and instructions;
   - **(4)** as directed by the Secretary or the Commandant, coordinate the action of organizations of the Marine Corps; and
   - **(5)** perform such other duties, not otherwise assigned by law, as may be prescribed by the Secretary.
+
+## Source Credit
+
+*(Added [Pub. L. 99–433, title V, § 513(b)](https://www.govinfo.gov/link/plaw/99/public/433), Oct. 1, 1986, [100 Stat. 1052](https://www.govinfo.gov/link/statute/100/1052), § 5042; renumbered § 8042 and amended [Pub. L. 115–232, div. A, title VIII](https://www.govinfo.gov/link/plaw/115/public/232), §§ 807(a)(1), 809(a), Aug. 13, 2018, [132 Stat. 1834](https://www.govinfo.gov/link/statute/132/1834), 1840.)*

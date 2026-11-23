@@ -3,9 +3,10 @@ title: "Section 3318 - Contract, grant, and cooperative agreement authorities"
 usc_title: 7
 usc_section: "3318"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3318"
-generated_at: "2026-03-30T02:53:42.401Z"
+generated_at: "2026-11-23T21:25:28.331Z"
+status: "active"
 ---
 
 # § 3318. Contract, grant, and cooperative agreement authorities
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.401Z"
 - **(c)** The Secretary may enter into contracts, grants, or cooperative agreements, for periods not to exceed five years, with State agricultural experiment stations, State cooperative extension services, all colleges and universities, other research or education institutions and organizations, Federal and private agencies and organizations, individuals, and any other contractor or recipient, either foreign or domestic, to further research, extension, or teaching programs in the food and agricultural sciences of the Department of Agriculture.
 - **(d)** The Secretary may vest title to expendable and nonexpendable equipment and supplies and other tangible personal property in the contractor or recipient when the contractor or recipient purchases such equipment, supplies, and property with contract, grant, or cooperative agreement funds and the Secretary deems such vesting of title a furtherance of the agricultural research, extension, or teaching objectives of the Department of Agriculture.
 - **(e)** Unless otherwise provided in this chapter, the Secretary may enter into contracts, grants, or cooperative agreements, as authorized by this section, without regard to any requirements for competition, the provisions of section 6101 of title 41 , and the provisions of section 3324(a) and (b) of title 31.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1472](https://www.govinfo.gov/link/plaw/95/public/113), as added [Pub. L. 97–98, title XIV, § 1439(a)](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1315](https://www.govinfo.gov/link/statute/95/1315); amended [Pub. L. 99–198, title XIV, § 1424](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1552](https://www.govinfo.gov/link/statute/99/1552).)*

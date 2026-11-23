@@ -3,9 +3,10 @@ title: "Section 7524 - Civil penalties"
 usc_title: 42
 usc_section: "7524"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7524"
-generated_at: "2026-03-30T02:56:11.311Z"
+generated_at: "2026-11-23T21:26:33.115Z"
+status: "active"
 ---
 
 # § 7524. Civil penalties
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.311Z"
   - **(6)** If any person fails to pay an assessment of a civil penalty imposed by the Administrator as provided in this subsection—
     - **(A)** after the order making the assessment has become final, or
     - **(B)** after a court in an action brought under paragraph (5) has entered a final judgment in favor of the Administrator,
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 205, as added [Pub. L. 89–272, title I, § 101(8)](https://www.govinfo.gov/link/plaw/89/public/272), Oct. 20, 1965, [79 Stat. 994](https://www.govinfo.gov/link/statute/79/994); amended [Pub. L. 90–148, § 2](https://www.govinfo.gov/link/plaw/90/public/148), Nov. 21, 1967, [81 Stat. 500](https://www.govinfo.gov/link/statute/81/500); [Pub. L. 91–604, § 7(c)](https://www.govinfo.gov/link/plaw/91/public/604), Dec. 31, 1970, [84 Stat. 1694](https://www.govinfo.gov/link/statute/84/1694); [Pub. L. 95–95, title II, § 219(c)](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 762](https://www.govinfo.gov/link/statute/91/762); [Pub. L. 101–549, title II, § 228(c)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2508](https://www.govinfo.gov/link/statute/104/2508).)*

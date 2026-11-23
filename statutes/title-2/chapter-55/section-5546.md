@@ -3,9 +3,10 @@ title: "Section 5546 - Support services for House during emergency; memorandum o
 usc_title: 2
 usc_section: "5546"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 5546"
-generated_at: "2026-03-30T02:53:04.838Z"
+generated_at: "2026-11-23T21:25:21.336Z"
+status: "active"
 ---
 
 # § 5546. Support services for House during emergency; memorandum of understanding with an executive agency
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.838Z"
   - **(2)** the Chief Administrative Officer and the head of the agency may take any action necessary to carry out the terms of the memorandum of understanding.
 - **(b)** The Chief Administrative Officer of the House of Representatives may not enter into a memorandum of understanding described in subsection (a)(1) without the approval of the Speaker of the House of Representatives.
 - **(c)** This section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 107–117, div. B, § 904](https://www.govinfo.gov/link/plaw/107/public/117), Jan. 10, 2002, [115 Stat. 2318](https://www.govinfo.gov/link/statute/115/2318).)*

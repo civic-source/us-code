@@ -3,9 +3,10 @@ title: "Section 4703a - Capital investments for neighborhoods disproportionately
 usc_title: 12
 usc_section: "4703a"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4703a"
-generated_at: "2026-03-30T02:53:53.515Z"
+generated_at: "2026-11-23T21:25:37.209Z"
+status: "active"
 ---
 
 # § 4703a. Capital investments for neighborhoods disproportionately impacted by the COVID–19 pandemic
@@ -130,3 +131,19 @@ generated_at: "2026-03-30T02:53:53.515Z"
   - **(8)** The Secretary may establish and use vehicles to purchase, hold, and sell preferred stock or other financial instruments and issue obligations.
   - **(9)** The Secretary may issue such regulations and other guidance as may be necessary or appropriate to define terms or carry out the authorities or purposes of this section.
   - **(10)** The Secretary is authorized to use direct hiring authority to hire employees to administer this section.
+
+(aa) transferable; or
+
+(bb) classified as stock or anything similar;
+
+In General
+
+Requirement for Creditors
+
+In General
+
+Reporting
+
+## Source Credit
+
+*([Pub. L. 103–325, title I, § 104A](https://www.govinfo.gov/link/plaw/103/public/325), as added [Pub. L. 116–260, div. N, title V, § 522(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2079](https://www.govinfo.gov/link/statute/134/2079).)*

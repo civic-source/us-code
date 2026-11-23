@@ -3,9 +3,10 @@ title: "Section 937 - Art. 137. Articles to be explained"
 usc_title: 10
 usc_section: "937"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 937"
-generated_at: "2026-03-30T02:53:38.087Z"
+generated_at: "2026-11-23T21:25:32.355Z"
+status: "active"
 ---
 
 # § 937. Art. 137. Articles to be explained
@@ -29,3 +30,28 @@ generated_at: "2026-03-30T02:53:38.087Z"
 - **(d)** The text of this chapter and the text of the regulations prescribed by the President under this chapter shall be—
   - **(1)** made available to a member on active duty, to a member of a reserve component, or to a member of the Space Force, upon request by the member, for the member’s personal examination; and
   - **(2)** maintained by the Secretary of Defense in electronic formats that are updated periodically and made available on the Internet.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 937 | 50:733. | May 5, 1950, ch. 169, § 1 (Art. 137), 64 Stat. 144 . |
+
+
+Enlisted Members
+
+Officers
+
+Training for Certain Officers
+
+Availability and Maintenance of Text
+
+Historical and Revision Notes
+
+937
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 144
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 78; [Pub. L. 99–661, div. A, title VIII, § 804(d)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3907](https://www.govinfo.gov/link/statute/100/3907); [Pub. L. 104–106, div. A, title XI, § 1152](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 468](https://www.govinfo.gov/link/statute/110/468); [Pub. L. 114–328, div. E, title LXI, § 5503](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2960](https://www.govinfo.gov/link/statute/130/2960); [Pub. L. 115–91, div. A, title X, § 1081(c)(1)(R)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1599](https://www.govinfo.gov/link/statute/131/1599); [Pub. L. 118–31, div. A, title XVII, § 1722(f)(3)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 671](https://www.govinfo.gov/link/statute/137/671); [Pub. L. 118–159, div. A, title XVII, § 1701(a)(17)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2204](https://www.govinfo.gov/link/statute/138/2204).)*

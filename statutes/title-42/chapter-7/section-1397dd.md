@@ -3,9 +3,10 @@ title: "Section 1397dd - Allotments"
 usc_title: 42
 usc_section: "1397dd"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1397dd"
-generated_at: "2026-03-30T02:56:11.069Z"
+generated_at: "2026-11-23T21:26:31.944Z"
+status: "active"
 ---
 
 # § 1397dd. Allotments
@@ -364,3 +365,17 @@ generated_at: "2026-03-30T02:56:11.069Z"
     - **(E)** Payment under this paragraph for a fiscal year or period shall be made before the end of the fiscal year or period based upon the most recent data for expenditures and enrollment and the provisions of subsection (e) of section 1397ee of this title shall apply to payments under this subsection in the same manner as they apply to payments under such section.
     - **(F)** For purposes of this paragraph and subsection (f), the State shall submit to the Secretary the State’s projected Federal expenditures, even if the amount of such expenditures exceeds the total amount of allotments available to the State in such fiscal year or period.
     - **(G)** No payment shall be made under this paragraph to a commonwealth or territory described in subsection (c)(3) until such time as the Secretary determines that there are in effect methods, satisfactory to the Secretary, for the collection and reporting of reliable data regarding the enrollment of children described in subparagraphs (A) and (B) in order to accurately determine the commonwealth’s or territory’s eligibility for, and amount of payment, under this paragraph.
+
+(aa) the reference to “2017” were a reference to “2018”; and
+
+(bb) the reference to “under subsections (e) and (m) of such section” were a reference to “under subsections (e), (f), and (m) of such section”.
+
+Expenditures limited to coverage for populations eligible on october 1, 2006
+
+Regular fmap for expenditures for coverage of nonchild populations
+
+“Notwithstanding any other provision of law, for purposes of determining the product under section 2104(b)(1)(A) of the Social Security Act ( 42 U.S.C. 1397dd(b)(1)(A) ) for a State for each of fiscal years 1998 and 1999—
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XXI, § 2104, as added [Pub. L. 105–33, title IV, § 4901(a)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 558](https://www.govinfo.gov/link/statute/111/558); amended [Pub. L. 105–100, title I, § 162(6)](https://www.govinfo.gov/link/plaw/105/public/100), (8), Nov. 19, 1997, [111 Stat. 2189](https://www.govinfo.gov/link/statute/111/2189), 2190; [Pub. L. 105–277, div. A, § 101(f) [title VII, § 706]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–389; [Pub. L. 106–113, div. B, § 1000(a)(6) [title VII, §§ 701(a), 702, 705(a)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–399, 1501A–400, 1501A–402; [Pub. L. 106–554, § 1(a)(6) [title VIII, §§ 801(a), 802(b), (d)(3)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–578, 2763A–581; [Pub. L. 108–74, § 1(a)(1)](https://www.govinfo.gov/link/plaw/108/public/74) –(3), Aug. 15, 2003, [117 Stat. 892](https://www.govinfo.gov/link/statute/117/892), 893; [Pub. L. 108–173, title IX, § 900(e)(1)(M)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2372](https://www.govinfo.gov/link/statute/117/2372); [Pub. L. 109–171, title VI, § 6101(a)](https://www.govinfo.gov/link/plaw/109/public/171), (b), Feb. 8, 2006, [120 Stat. 130](https://www.govinfo.gov/link/statute/120/130), 131; [Pub. L. 109–482, title II, § 201(a)](https://www.govinfo.gov/link/plaw/109/public/482), Jan. 15, 2007, [120 Stat. 3698](https://www.govinfo.gov/link/statute/120/3698); [Pub. L. 110–28, title VII, § 7001](https://www.govinfo.gov/link/plaw/110/public/28), May 25, 2007, [121 Stat. 186](https://www.govinfo.gov/link/statute/121/186); [Pub. L. 110–92, § 136(c)](https://www.govinfo.gov/link/plaw/110/public/92), Sept. 29, 2007, [121 Stat. 994](https://www.govinfo.gov/link/statute/121/994); [Pub. L. 110–173, title II, § 201(a)(1)](https://www.govinfo.gov/link/plaw/110/public/173), (c)(1), Dec. 29, 2007, [121 Stat. 2509](https://www.govinfo.gov/link/statute/121/2509), 2510; [Pub. L. 111–3, title I](https://www.govinfo.gov/link/plaw/111/public/3), §§ 101–103, 105, 106(a)(1), (b), Feb. 4, 2009, [123 Stat. 11](https://www.govinfo.gov/link/statute/123/11), 15, 23, 24; [Pub. L. 111–148, title II, § 2102(a)(1)](https://www.govinfo.gov/link/plaw/111/public/148), title X, § 10203(d)(1)–(2)(B), Mar. 23, 2010, [124 Stat. 288](https://www.govinfo.gov/link/statute/124/288), 928–930; [Pub. L. 114–10, title III, § 301(a)](https://www.govinfo.gov/link/plaw/114/public/10) –(b)(2)(C), (d)(1), Apr. 16, 2015, [129 Stat. 154–158](https://www.govinfo.gov/link/statute/129/154); [Pub. L. 115–90, div. B, § 201](https://www.govinfo.gov/link/plaw/115/public/90), Dec. 8, 2017, [131 Stat. 1280](https://www.govinfo.gov/link/statute/131/1280); [Pub. L. 115–96, div. C, title II, § 3201(a)](https://www.govinfo.gov/link/plaw/115/public/96) –(b)(2), (c)(1), Dec. 22, 2017, [131 Stat. 2050](https://www.govinfo.gov/link/statute/131/2050), 2051; [Pub. L. 115–120, div. C, § 3002(a)(1)](https://www.govinfo.gov/link/plaw/115/public/120), (b)(1), (c), (d)(2), Jan. 22, 2018, [132 Stat. 31–34](https://www.govinfo.gov/link/statute/132/31); [Pub. L. 115–123, div. E, title I, § 50101(a)](https://www.govinfo.gov/link/plaw/115/public/123), (b)(1), (c), Feb. 9, 2018, [132 Stat. 172](https://www.govinfo.gov/link/statute/132/172), 174; [Pub. L. 117–2, title IX, § 9821(c)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 220](https://www.govinfo.gov/link/statute/135/220); [Pub. L. 117–328, div. FF, title V, § 5111(a)](https://www.govinfo.gov/link/plaw/117/public/328), (b)(1), (c)(5), Dec. 29, 2022, [136 Stat. 5938](https://www.govinfo.gov/link/statute/136/5938), 5939.)*

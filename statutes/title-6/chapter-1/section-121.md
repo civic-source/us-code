@@ -3,9 +3,10 @@ title: "Section 121 - Information and Analysis"
 usc_title: 6
 usc_section: "121"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 121"
-generated_at: "2026-03-30T02:53:09.443Z"
+generated_at: "2026-11-23T21:25:25.741Z"
+status: "active"
 ---
 
 # § 121. Information and Analysis
@@ -84,3 +85,191 @@ generated_at: "2026-03-30T02:53:09.443Z"
   - **(3)** The Critical Infrastructure Assurance Office of the Department of Commerce, including the functions of the Secretary of Commerce relating thereto.
   - **(4)** The National Infrastructure Simulation and Analysis Center of the Department of Energy and the energy security and assurance program and activities of the Department, including the functions of the Secretary of Energy relating thereto.
   - **(5)** The Federal Computer Incident Response Center of the General Services Administration, including the functions of the Administrator of General Services relating thereto.
+
+Definitions
+
+Appropriate congressional committees
+
+Covered activity
+
+Overt human intelligence collection program
+
+Open source intelligence collection program
+
+United states person
+
+United states person information (uspi)
+
+Prohibition on Availability of Funds for Covered Activities of Overt Human Intelligence Collection Program and Open Source Intelligence Collection Program
+
+Limitation on Personnel
+
+Inspector General of the Intelligence Community Assessment of Overt Human Intelligence Collection Program and Open Source Intelligence Collection Program.—
+
+Requirement
+
+Elements
+
+Briefing
+
+Report.—
+
+In general
+
+Form
+
+Quarterly briefings
+
+Rules of Construction.—
+
+Effect on other intelligence oversight
+
+Sharing and receiving intelligence information
+
+In General
+
+Technical Enhancements
+
+Definitions
+
+Critical electric infrastructure; critical electric infrastructure information
+
+Sector-specific agency
+
+Sector-specific agency for cybersecurity for the energy sector.—
+
+In general
+
+Duties
+
+“(aa) independent regulatory agencies; and
+
+“(bb) State, local, tribal, and territorial entities;
+
+“(cc) serving as a day-to-day Federal interface for the dynamic prioritization and coordination of sector-specific activities;
+
+“(dd) carrying out incident management responsibilities consistent with applicable law (including regulations) and other appropriate policies or directives;
+
+“(ee) providing, supporting, or facilitating technical assistance and consultations for the energy sector to identify vulnerabilities and help mitigate incidents, as appropriate; and
+
+“(ff) supporting the reporting requirements of the Department of Homeland Security under applicable law by providing, on an annual basis, sector-specific critical electric infrastructure information.”
+
+Interdepartmental Collaboration.—
+
+In general
+
+Efficiencies
+
+Responsibilities.—
+
+Department of homeland security
+
+Department of defense
+
+“The Committee on Commerce, Science, and Transportation of the Senate shall receive the reports required by the following provisions of law in the same manner and to the same extent that the reports are to be received by the Committee on Homeland Security and Governmental Affairs of the Senate:
+
+Demonstration Project Required
+
+Security Management System Defined
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+George W. Bush.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 107–296, title II, § 201](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2145](https://www.govinfo.gov/link/statute/116/2145); [Pub. L. 110–53, title V](https://www.govinfo.gov/link/plaw/110/public/53), §§ 501(a)(2)(A), (b), 531(a), title X, § 1002(a), Aug. 3, 2007, [121 Stat. 309](https://www.govinfo.gov/link/statute/121/309), 332, 374; [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title IX, § 931(b)(5), Oct. 14, 2008, [122 Stat. 4575](https://www.govinfo.gov/link/statute/122/4575); [Pub. L. 111–84, div. A, title X, § 1073(c)(9)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2475](https://www.govinfo.gov/link/statute/123/2475); [Pub. L. 111–258, § 5(b)(1)](https://www.govinfo.gov/link/plaw/111/public/258), Oct. 7, 2010, [124 Stat. 2650](https://www.govinfo.gov/link/statute/124/2650); [Pub. L. 114–328, div. A, title XIX, § 1913(a)(2)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2685](https://www.govinfo.gov/link/statute/130/2685); [Pub. L. 115–278, § 2(g)(2)(C)](https://www.govinfo.gov/link/plaw/115/public/278), Nov. 16, 2018, [132 Stat. 4177](https://www.govinfo.gov/link/statute/132/4177).)*

@@ -3,9 +3,10 @@ title: "Section 6320 - Notice and opportunity for hearing upon filing of notice 
 usc_title: 26
 usc_section: "6320"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6320"
-generated_at: "2026-03-30T02:55:27.848Z"
+generated_at: "2026-11-23T21:26:06.844Z"
+status: "active"
 ---
 
 # § 6320. Notice and opportunity for hearing upon filing of notice of lien
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:27.848Z"
   - **(3)** The hearing under this subsection shall be conducted by an officer or employee who has had no prior involvement with respect to the unpaid tax specified in subsection (a)(3)(A) before the first hearing under this section or section 6330. A taxpayer may waive the requirement of this paragraph.
   - **(4)** To the extent practicable, a hearing under this section shall be held in conjunction with a hearing under section 6330.
 - **(c)** For purposes of this section, subsections (c), (d) (other than paragraph (3)(B) thereof), (e), and (g) of section 6330 shall apply.
+
+## Source Credit
+
+*(Added [Pub. L. 105–206, title III, § 3401(a)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 746](https://www.govinfo.gov/link/statute/112/746); amended [Pub. L. 109–432, div. A, title IV, § 407(c)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2962](https://www.govinfo.gov/link/statute/120/2962); [Pub. L. 114–94, div. C, title XXXII, § 32101(b)(1)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1731](https://www.govinfo.gov/link/statute/129/1731); [Pub. L. 114–113, div. Q, title IV, § 424(c)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3125](https://www.govinfo.gov/link/statute/129/3125); [Pub. L. 116–25, title I, § 1001(b)(1)(B)](https://www.govinfo.gov/link/plaw/116/public/25), July 1, 2019, [133 Stat. 985](https://www.govinfo.gov/link/statute/133/985).)*

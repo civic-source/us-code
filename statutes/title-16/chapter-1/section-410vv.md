@@ -3,9 +3,10 @@ title: "Section 410vv - Purposes"
 usc_title: 16
 usc_section: "410vv"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410vv"
-generated_at: "2026-03-30T02:54:22.770Z"
+generated_at: "2026-11-23T21:25:51.455Z"
+status: "active"
 ---
 
 # § 410vv. Purposes
@@ -17,3 +18,7 @@ The purposes of this subchapter are—
   - **(3)** to recognize and interpret the contributions of Frederick Billings, conservationist, pioneer in reforestation and scientific farm management, lawyer, philanthropist, and railroad builder, who extended the principles of land management introduced by Marsh;
   - **(4)** to preserve the Marsh-Billings-Rockefeller Mansion and its surrounding lands; and
   - **(5)** to recognize the significant contributions of Julia Billings, Mary Billings French, Mary French Rockefeller, and Laurance Spelman Rockefeller in perpetuating the Marsh-Billings-Rockefeller heritage.
+
+## Source Credit
+
+*([Pub. L. 102–350, § 2](https://www.govinfo.gov/link/plaw/102/public/350), Aug. 26, 1992, [106 Stat. 934](https://www.govinfo.gov/link/statute/106/934); [Pub. L. 105–277, div. A, § 101(e) [title I, § 143]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–231](https://www.govinfo.gov/link/statute/112/2681), 2681–267.)*

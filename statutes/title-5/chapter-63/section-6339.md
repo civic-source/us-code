@@ -3,9 +3,10 @@ title: "Section 6339 - Additional leave transfer programs"
 usc_title: 5
 usc_section: "6339"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 6339"
-generated_at: "2026-03-30T02:52:56.032Z"
+generated_at: "2026-11-23T21:25:23.329Z"
+status: "active"
 ---
 
 # § 6339. Additional leave transfer programs
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:52:56.032Z"
   - **(1)** Notwithstanding any provision of subsection (b), the head of an excepted agency may, at his sole discretion, by regulation establish a program under which an individual employed in or under such excepted agency may participate in a leave transfer program established under the provisions of this subchapter outside of this section, including provisions permitting the transfer of annual leave accrued or accumulated by such employee to, or permitting such employee to receive transferred leave from, an employee of any other agency (including another excepted agency having a program under this subsection).
   - **(2)** To the extent practicable and consistent with the protection of intelligence sources and methods, any program established under paragraph (1) shall be consistent with the provisions of this subchapter outside of this section and with any regulations issued by the Office of Personnel Management implementing this subchapter.
 - **(d)** The Office shall provide the head of an excepted agency with such advice and assistance as the head of such agency may request in order to carry out the purposes of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 100–566, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/566), Oct. 31, 1988, [102 Stat. 2838](https://www.govinfo.gov/link/statute/102/2838); amended [Pub. L. 103–359, title V, § 501(i)](https://www.govinfo.gov/link/plaw/103/public/359), Oct. 14, 1994, [108 Stat. 3429](https://www.govinfo.gov/link/statute/108/3429); [Pub. L. 104–201, div. A, title XI, § 1122(a)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2687](https://www.govinfo.gov/link/statute/110/2687); [Pub. L. 107–306, title III, § 322](https://www.govinfo.gov/link/plaw/107/public/306), Nov. 27, 2002, [116 Stat. 2391](https://www.govinfo.gov/link/statute/116/2391); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title IX, § 931(a)(1), Oct. 14, 2008, [122 Stat. 4575](https://www.govinfo.gov/link/statute/122/4575).)*

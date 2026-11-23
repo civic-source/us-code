@@ -3,9 +3,10 @@ title: "Section 14952 - Special rules for certain cases"
 usc_title: 42
 usc_section: "14952"
 chapter: 143
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 14952"
-generated_at: "2026-03-30T02:56:11.453Z"
+generated_at: "2026-11-23T21:26:33.647Z"
+status: "active"
 ---
 
 # § 14952. Special rules for certain cases
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.453Z"
 - **(b)**
   - **(1)** Notwithstanding any other provision of this chapter, to the extent consistent with the Convention, the Secretary may, on a case-by-case basis, waive applicable requirements of this chapter or regulations issued under this chapter, in the interests of justice or to prevent grave physical harm to the child.
   - **(2)** The authority provided by paragraph (1) may not be delegated.
+
+## Source Credit
+
+*([Pub. L. 106–279, title V, § 502](https://www.govinfo.gov/link/plaw/106/public/279), Oct. 6, 2000, [114 Stat. 843](https://www.govinfo.gov/link/statute/114/843).)*

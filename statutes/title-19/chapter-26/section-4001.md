@@ -3,9 +3,10 @@ title: "Section 4001 - Purposes"
 usc_title: 19
 usc_section: "4001"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4001"
-generated_at: "2026-03-30T02:54:24.699Z"
+generated_at: "2026-11-23T21:25:42.869Z"
+status: "active"
 ---
 
 # § 4001. Purposes
@@ -16,3 +17,15 @@ The purposes of this chapter are—
   - **(2)** to strengthen and develop economic relations between the United States, Costa Rica, the Dominican Republic, El Salvador, Guatemala, Honduras, and Nicaragua for their mutual benefit;
   - **(3)** to establish free trade between the United States, Costa Rica, the Dominican Republic, El Salvador, Guatemala, Honduras, and Nicaragua through the reduction and elimination of barriers to trade in goods and services and to investment; and
   - **(4)** to lay the foundation for further cooperation to expand and enhance the benefits of the Agreement.
+
+Effective Dates
+
+Exceptions
+
+Termination of CAFTA–DR Status
+
+Termination of the Agreement
+
+## Source Credit
+
+*([Pub. L. 109–53, § 2](https://www.govinfo.gov/link/plaw/109/public/53), Aug. 2, 2005, [119 Stat. 463](https://www.govinfo.gov/link/statute/119/463).)*

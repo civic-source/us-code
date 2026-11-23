@@ -3,9 +3,10 @@ title: "Section 718a - Prohibition on taking"
 usc_title: 16
 usc_section: "718a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 718a"
-generated_at: "2026-03-30T02:54:22.901Z"
+generated_at: "2026-11-23T21:25:51.735Z"
+status: "active"
 ---
 
 # § 718a. Prohibition on taking
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:22.901Z"
   - **(1)** any officer or employee of the Department of the Interior who is authorized to enforce this subchapter; or
   - **(2)** any officer of any State or political subdivision of a State authorized to enforce State game laws.
 - **(c)** Nothing in this section requires any individual to affix the Migratory Bird Hunting and Conservation Stamp to any other license prior to taking 1 or more migratory waterfowl.
+
+## Source Credit
+
+*(Mar. 16, 1934, ch. 71, § 1, [48 Stat. 451](https://www.govinfo.gov/link/statute/48/451); June 15, 1935, ch. 261, title I, § 1, [49 Stat. 378](https://www.govinfo.gov/link/statute/49/378); 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433](https://www.govinfo.gov/link/statute/53/1433); July 30, 1956, ch. 782, § 1, [70 Stat. 722](https://www.govinfo.gov/link/statute/70/722); [Pub. L. 94–215, § 3(a)](https://www.govinfo.gov/link/plaw/94/public/215), Feb. 17, 1976, [90 Stat. 189](https://www.govinfo.gov/link/statute/90/189); [Pub. L. 109–266, § 10(a)](https://www.govinfo.gov/link/plaw/109/public/266), Aug. 3, 2006, [120 Stat. 674](https://www.govinfo.gov/link/statute/120/674); [Pub. L. 113–264, § 4](https://www.govinfo.gov/link/plaw/113/public/264), Dec. 18, 2014, [128 Stat. 2940](https://www.govinfo.gov/link/statute/128/2940); [Pub. L. 118–25, § 2(d)](https://www.govinfo.gov/link/plaw/118/public/25), Dec. 19, 2023, [137 Stat. 130](https://www.govinfo.gov/link/statute/137/130).)*

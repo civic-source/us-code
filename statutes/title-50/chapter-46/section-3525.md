@@ -3,9 +3,10 @@ title: "Section 3525 - Office of the Ombudsman for Analytic Objectivity"
 usc_title: 50
 usc_section: "3525"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3525"
-generated_at: "2026-03-30T02:56:26.256Z"
+generated_at: "2026-11-23T21:26:39.060Z"
+status: "active"
 ---
 
 # § 3525. Office of the Ombudsman for Analytic Objectivity
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:26.256Z"
     - **(A)** a list of the areas of analysis monitored during the most recent calendar quarter pursuant to subsection (b)(5); and
     - **(B)** a brief description of the methods by which the Office has conducted such monitoring.
 - **(d)** In this section, the term “intelligence committees” means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+
+## Source Credit
+
+*(June 20, 1949, ch. 227, § 24, as added [Pub. L. 116–260, div. W, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2376](https://www.govinfo.gov/link/statute/134/2376).)*

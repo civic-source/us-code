@@ -3,9 +3,10 @@ title: "Section 1723i - Civil money penalties against issuers"
 usc_title: 12
 usc_section: "1723i"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1723i"
-generated_at: "2026-03-30T02:53:53.428Z"
+generated_at: "2026-11-23T21:25:36.916Z"
+status: "active"
 ---
 
 # § 1723i. Civil money penalties against issuers
@@ -45,3 +46,9 @@ generated_at: "2026-03-30T02:53:53.428Z"
 - **(g)** The term “knowingly” means having actual knowledge of or acting with deliberate ignorance of or reckless disregard for the prohibitions under this section.
 - **(h)** The Secretary shall issue such regulations as the Secretary deems appropriate to implement this section.
 - **(i)** The Secretary shall deposit all civil money penalties collected under this section into moneys of the Association pursuant to section 1722 of this title .
+
+“The amendment made by subsection (a) [enacting this section] shall apply only with respect to—
+
+## Source Credit
+
+*(June 27, 1934, ch. 847, title III, § 317, as added [Pub. L. 101–235, title I, § 110(a)](https://www.govinfo.gov/link/plaw/101/public/235), Dec. 15, 1989, [103 Stat. 2011](https://www.govinfo.gov/link/statute/103/2011); amended [Pub. L. 104–208, div. A, title II, § 2704(d)(13)(A)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–490](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 109–171, title II, § 2102(b)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 9](https://www.govinfo.gov/link/statute/120/9); [Pub. L. 109–173, § 9(f)(1)](https://www.govinfo.gov/link/plaw/109/public/173), Feb. 15, 2006, [119 Stat. 3618](https://www.govinfo.gov/link/statute/119/3618).)*

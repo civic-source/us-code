@@ -3,9 +3,10 @@ title: "Section 3591 - Sentence of death"
 usc_title: 18
 usc_section: "3591"
 chapter: 228
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3591"
-generated_at: "2026-03-30T02:54:16.520Z"
+generated_at: "2026-11-23T21:25:44.212Z"
+status: "active"
 ---
 
 # § 3591. Sentence of death
@@ -20,3 +21,23 @@ generated_at: "2026-03-30T02:54:16.520Z"
 - **(b)** A defendant who has been found guilty of—
   - **(1)** an offense referred to in section 408(c)(1) of the Controlled Substances Act ( 21 U.S.C. 848(c)(1) ), committed as part of a continuing criminal enterprise offense under the conditions described in subsection (b) of that section which involved not less than twice the quantity of controlled substance described in subsection (b)(2)(A) or twice the gross receipts described in subsection (b)(2)(B); or
   - **(2)** an offense referred to in section 408(c)(1) of the Controlled Substances Act ( 21 U.S.C. 848(c)(1) ), committed as part of a continuing criminal enterprise offense under that section, where the defendant is a principal administrator, organizer, or leader of such an enterprise, and the defendant, in order to obstruct the investigation or prosecution of the enterprise or an offense involved in the enterprise, attempts to kill or knowingly directs, advises, authorizes, or assists another to attempt to kill any public officer, juror, witness, or members of the family or household of such a person,
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title VI, § 60002(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1959](https://www.govinfo.gov/link/statute/108/1959).)*

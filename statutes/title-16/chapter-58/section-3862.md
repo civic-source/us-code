@@ -3,9 +3,10 @@ title: "Section 3862 - Responsibilities"
 usc_title: 16
 usc_section: "3862"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3862"
-generated_at: "2026-03-30T02:54:23.035Z"
+generated_at: "2026-11-23T21:25:52.002Z"
+status: "active"
 ---
 
 # § 3862. Responsibilities
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:23.035Z"
 - **(d)**
   - **(1)** Each State technical committee shall be exempt from chapter 10 of title 5.
   - **(2)** For purposes of chapter 10 of title 5, any local working group established under this subchapter shall be considered to be a subcommittee of the applicable State technical committee.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1262](https://www.govinfo.gov/link/plaw/99/public/198), as added [Pub. L. 101–624, title XIV, § 1446](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3604](https://www.govinfo.gov/link/statute/104/3604); amended [Pub. L. 103–354, title II, § 246(f)(3)](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3225](https://www.govinfo.gov/link/statute/108/3225); [Pub. L. 104–127, title III, § 342(b)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1009](https://www.govinfo.gov/link/statute/110/1009); [Pub. L. 110–234, title II, § 2711](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1084](https://www.govinfo.gov/link/statute/122/1084); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title II, § 2711, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1812; [Pub. L. 117–286, § 4(a)(119)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4318](https://www.govinfo.gov/link/statute/136/4318).)*

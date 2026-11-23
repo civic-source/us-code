@@ -3,9 +3,10 @@ title: "Section 4627 - Cost-sharing agreements"
 usc_title: 15
 usc_section: "4627"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4627"
-generated_at: "2026-03-30T02:54:08.200Z"
+generated_at: "2026-11-23T21:25:39.998Z"
+status: "active"
 ---
 
 # § 4627. Cost-sharing agreements
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.200Z"
 - **(b)**
   - **(1)** Not more than an amount equal to 1 percent of any national laboratory’s annual budget shall be received from nonappropriated funds derived from contracts entered into under the Initiative in any fiscal year, except to the extent approved in advance by the Secretary of Energy.
   - **(2)** No Department of Energy national laboratory may receive more than $10,000,000 of nonappropriated funds under any cooperative research and development agreement entered into under this subsection in connection with the Initiative, except to the extent approved in advance by the Secretary of Energy.
+
+## Source Credit
+
+*([Pub. L. 100–180, div. C, title I, § 3147](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1244](https://www.govinfo.gov/link/statute/101/1244).)*

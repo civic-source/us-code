@@ -3,9 +3,10 @@ title: "Section 5291 - General"
 usc_title: 26
 usc_section: "5291"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5291"
-generated_at: "2026-03-30T02:55:27.822Z"
+generated_at: "2026-11-23T21:26:06.717Z"
+status: "active"
 ---
 
 # § 5291. General
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:27.822Z"
   - **(1)** For the definition of distilled spirits, see section 5002(a)(8).
   - **(2)** For the definition of articles, see section 5002(a)(14).
   - **(3)** For penalty for violation of subsection (a), see section 5605.
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1373](https://www.govinfo.gov/link/statute/72/1373); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 96–39, title VIII, § 807(a)(40)](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 286](https://www.govinfo.gov/link/statute/93/286).)*

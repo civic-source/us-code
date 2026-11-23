@@ -3,9 +3,10 @@ title: "Section 1508 - National plan for unlicensed spectrum"
 usc_title: 47
 usc_section: "1508"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1508"
-generated_at: "2026-03-30T02:56:24.536Z"
+generated_at: "2026-11-23T21:26:36.108Z"
+status: "active"
 ---
 
 # § 1508. National plan for unlicensed spectrum
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:24.536Z"
   - **(1)** Not later than 18 months after March 23, 2018 , the Commission shall submit to the appropriate committees of Congress a report that describes the plan developed under this section, including any recommendations for legislative change.
   - **(2)** Not later than the date on which the Commission submits the report under paragraph (1), the Commission shall make the report publicly available on the website of the Commission.
 - **(f)** Nothing in this section confers any additional rights on unlicensed users or users licensed by rule under part 96 of title 47, Code of Federal Regulations, to protection from harmful interference.
+
+## Source Credit
+
+*([Pub. L. 115–141, div. P, title VI, § 618](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1112](https://www.govinfo.gov/link/statute/132/1112).)*

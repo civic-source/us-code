@@ -3,9 +3,10 @@ title: "Section 2808a - Facility construction or repair: transactions other than
 usc_title: 10
 usc_section: "2808a"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2808a"
-generated_at: "2026-03-30T02:53:38.176Z"
+generated_at: "2026-11-23T21:25:32.677Z"
+status: "active"
 ---
 
 # § 2808a. Facility construction or repair: transactions other than contracts and grants
@@ -32,3 +33,17 @@ generated_at: "2026-03-30T02:53:38.176Z"
   - **(4)** any observed differences in project delivery timelines or execution speed as a result of using the authority under this section;
   - **(5)** an assessment of cost savings, efficiencies, or risk reductions realized through the use of such authority; and
   - **(6)** lessons learned and recommendations to improve the implementation, oversight, or scope of such authority.
+
+Authority
+
+Use of Amounts
+
+Follow-on Transactions
+
+Notification Requirement
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. B, title XXVIII, § 2802(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1292](https://www.govinfo.gov/link/statute/139/1292).)*

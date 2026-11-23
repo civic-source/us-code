@@ -3,9 +3,10 @@ title: "Section 6435a - Standards of conduct and disclosure"
 usc_title: 22
 usc_section: "6435a"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6435a"
-generated_at: "2026-03-30T02:55:05.428Z"
+generated_at: "2026-11-23T21:25:58.688Z"
+status: "active"
 ---
 
 # § 6435a. Standards of conduct and disclosure
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:05.428Z"
 - **(e)** In addition to providing the reports required under section 6432 of this title , the Commission shall provide, each year no later than January 1, to the Committees on Foreign Affairs and Appropriations of the House of Representatives, and to the Committees on Foreign Relations and Appropriations of the Senate, a financial report detailing and identifying its expenditures for the preceding fiscal year.
 - **(f)** The Commission shall comply with all of the records management requirements set forth in chapter 31 of title 44 (commonly referred to as the “Federal Records Act of 1950”).
 - **(g)** When conducting any Commission business on electronic accounts, Commission Members and staff shall use official Commission electronic accounts.
+
+## Source Credit
+
+*([Pub. L. 105–292, title II, § 208](https://www.govinfo.gov/link/plaw/105/public/292), as added [Pub. L. 106–55, § 1(b)(5)](https://www.govinfo.gov/link/plaw/106/public/55), Aug. 17, 1999, [113 Stat. 403](https://www.govinfo.gov/link/statute/113/403); amended [Pub. L. 107–228, div. A, title VI, § 681(f)](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1409](https://www.govinfo.gov/link/statute/116/1409); [Pub. L. 112–75, § 5](https://www.govinfo.gov/link/plaw/112/public/75), Dec. 23, 2011, [125 Stat. 1273](https://www.govinfo.gov/link/statute/125/1273); [Pub. L. 116–94, div. J, title VIII, § 809](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3079](https://www.govinfo.gov/link/statute/133/3079).)*

@@ -3,9 +3,10 @@ title: "Section 41111 - Simplified procedure to apply for, amend, modify, suspen
 usc_title: 49
 usc_section: "41111"
 chapter: 411
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 41111"
-generated_at: "2026-03-30T02:56:19.373Z"
+generated_at: "2026-11-23T21:26:40.850Z"
+status: "active"
 ---
 
 # § 41111. Simplified procedure to apply for, amend, modify, suspend, and transfer certificates
@@ -21,3 +22,55 @@ generated_at: "2026-03-30T02:56:19.373Z"
     - **(A)** deciding whether to use the simplified procedure; and
     - **(B)** making a decision on an action in which the procedure is used.
   - **(2)** The regulations may provide that written evidence and argument may be filed under section 41108(b) of this title as a part of a response opposing or supporting the issuance of a certificate.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 41111(a) | 49 App.:1371(p)(1) (1st, 2d sentences). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 401(p); added Oct. 24, 1978 , Pub. L. 95–504, § 21(a)(1) , 92 Stat. 1723 . |
+|  | 49 App.:1551(b)(1)(E). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1601(b)(1)(E); added Oct. 4, 1984 , Pub. L. 98–443, § 3(e) , 98 Stat. 1704 . |
+| 41111(b) | 49 App.:1371(p)(2) (1st sentence). |  |
+|  | 49 App.:1551(b)(1)(E). |  |
+| 41111(c) | 49 App.:1371(p)(1) (last sentence), (2) (last sentence). |  |
+|  | 49 App.:1551(b)(1)(E). |  |
+
+
+General Requirements
+
+When Simplified Procedure Used
+
+Contents
+
+Historical and Revision Notes
+
+41111(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 24, 1978
+
+Pub. L. 95–504, § 21(a)(1)
+
+92 Stat. 1723
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 4, 1984
+
+Pub. L. 98–443, § 3(e)
+
+98 Stat. 1704
+
+41111(b)
+
+41111(c)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1125](https://www.govinfo.gov/link/statute/108/1125).)*

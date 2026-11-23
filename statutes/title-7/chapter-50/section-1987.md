@@ -3,9 +3,10 @@ title: "Section 1987 - Debt adjustment and credit counseling; “summary period�
 usc_title: 7
 usc_section: "1987"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1987"
-generated_at: "2026-03-30T02:53:42.352Z"
+generated_at: "2026-11-23T21:25:28.217Z"
+status: "active"
 ---
 
 # § 1987. Debt adjustment and credit counseling; “summary period” defined; loan summary statements
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:42.352Z"
     - **(F)** any delinquency in the repayment of any such loan;
     - **(G)** a schedule of the amount and date of payments due on each such loan; and
     - **(H)** the procedure the borrower may use to obtain more information concerning the status of such loans.
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 337](https://www.govinfo.gov/link/plaw/87/public/128), Aug. 8, 1961, [75 Stat. 316](https://www.govinfo.gov/link/statute/75/316); [Pub. L. 99–198, title XIII, § 1316](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1528](https://www.govinfo.gov/link/statute/99/1528).)*

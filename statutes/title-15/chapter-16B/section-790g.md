@@ -3,9 +3,10 @@ title: "Section 790g - Access by Director to energy information"
 usc_title: 15
 usc_section: "790g"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 790g"
-generated_at: "2026-03-30T02:54:08.122Z"
+generated_at: "2026-11-23T21:25:39.766Z"
+status: "active"
 ---
 
 # § 790g. Access by Director to energy information
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.122Z"
   - **(1)** the disclosure of which to another Federal agency is expressly prohibited by law; or
   - **(2)** the disclosure of which the agency so requested determines would significantly impair the discharge of authorities and responsibilities which have been delegated to, or vested by law, in such agency.
 - **(b)** In the event that energy information in the possession of another Federal agency which is required to achieve the purposes of this chapter is denied the Director or the Administrator pursuant to paragraph (1) or paragraph (2) of subsection (a) of this section, the Administrator, or the Director, on behalf of the Administrator, shall take appropriate action, pursuant to authority granted by law, to obtain said information from the original sources or a suitable alternate source. Such source shall be notified of the reason for this request for information.
+
+## Source Credit
+
+*([Pub. L. 93–275, § 58](https://www.govinfo.gov/link/plaw/93/public/275), as added [Pub. L. 94–385, title I, § 142](https://www.govinfo.gov/link/plaw/94/public/385), Aug. 14, 1976, [90 Stat. 1139](https://www.govinfo.gov/link/statute/90/1139).)*

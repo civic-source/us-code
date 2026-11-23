@@ -3,9 +3,10 @@ title: "Section 50924 - Space launch and reentry licensing and permitting user f
 usc_title: 51
 usc_section: "50924"
 chapter: 509
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 50924"
-generated_at: "2026-03-30T02:56:28.711Z"
+generated_at: "2026-11-23T21:26:42.555Z"
+status: "active"
 ---
 
 # § 50924. Space launch and reentry licensing and permitting user fees
@@ -35,3 +36,17 @@ generated_at: "2026-03-30T02:56:28.711Z"
     - **(H)** for 2033, $200,000; and
     - **(I)** for 2034 and each subsequent year, the amount specified in this paragraph for the previous year increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) over the previous year.
 - **(b)** There is established in the Treasury of the United States a separate account, which shall be known as the “Office of Commercial Space Transportation Launch and Reentry Licensing and Permitting Fund”, for the purposes of expenses of the Office of Commercial Space Transportation of the Federal Aviation Administration and to carry out section 630(b) of the FAA Reauthorization Act of 2024. 70 percent of the amounts deposited into the fund shall be available for such purposes and shall be available without further appropriation and without fiscal year limitation.
+
+Fees.—
+
+In general
+
+Paragraph (2) specified amount
+
+Paragraph (3) specified amount
+
+Office of Commercial Space Transportation Launch and Reentry Licensing and Permitting Fund
+
+## Source Credit
+
+*(Added [Pub. L. 119–21, title IV, § 40004(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 132](https://www.govinfo.gov/link/statute/139/132).)*

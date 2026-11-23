@@ -3,9 +3,10 @@ title: "Section 941b - Definitions"
 usc_title: 16
 usc_section: "941b"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 941b"
-generated_at: "2026-03-30T02:54:22.935Z"
+generated_at: "2026-11-23T21:25:51.794Z"
+status: "active"
 ---
 
 # § 941b. Definitions
@@ -24,3 +25,7 @@ In this chapter—
   - **(10)** the term “restoration” means rehabilitation and maintenance of the structure, function, diversity, and dynamics of a biological system, including reestablishment of self-sustaining populations of fish and wildlife;
   - **(11)** the term “State Director” means the head of the agency, department, board, commission, or other governmental entity of each of the States of New York, Ohio, Indiana, Illinois, Michigan, Wisconsin, Minnesota, and the Commonwealth of Pennsylvania which is responsible for the management and conservation of the fish and wildlife resources of that State; and
   - **(12)** the term “upper Great Lakes” means that portion of the Great Lakes Basin which is upstream from the confluence of the Saint Clair River and Lake Huron near Port Huron, Michigan.
+
+## Source Credit
+
+*([Pub. L. 101–537, title I, § 1004](https://www.govinfo.gov/link/plaw/101/public/537), Nov. 8, 1990, [104 Stat. 2371](https://www.govinfo.gov/link/statute/104/2371); [Pub. L. 101–646, title II, § 2004](https://www.govinfo.gov/link/plaw/101/public/646), Nov. 29, 1990, [104 Stat. 4774](https://www.govinfo.gov/link/statute/104/4774); [Pub. L. 104–332, § 2(h)(1)](https://www.govinfo.gov/link/plaw/104/public/332), Oct. 26, 1996, [110 Stat. 4091](https://www.govinfo.gov/link/statute/110/4091); [Pub. L. 105–265](https://www.govinfo.gov/link/plaw/105/public/265), §§ 3(b), 5, Oct. 19, 1998, [112 Stat. 2358](https://www.govinfo.gov/link/statute/112/2358), 2359; [Pub. L. 109–326, § 3](https://www.govinfo.gov/link/plaw/109/public/326), Oct. 11, 2006, [120 Stat. 1761](https://www.govinfo.gov/link/statute/120/1761).)*

@@ -3,9 +3,10 @@ title: "Section 2001 - Definitions"
 usc_title: 29
 usc_section: "2001"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 2001"
-generated_at: "2026-03-30T02:55:18.741Z"
+generated_at: "2026-11-23T21:26:02.311Z"
+status: "active"
 ---
 
 # § 2001. Definitions
@@ -19,3 +20,11 @@ As used in this chapter:
     - **(A)** records continuously, visually, permanently, and simultaneously changes in cardiovascular, respiratory, and electrodermal patterns as minimum instrumentation standards; and
     - **(B)** is used, or the results of which are used, for the purpose of rendering a diagnostic opinion regarding the honesty or dishonesty of an individual.
   - **(5)** The term “Secretary” means the Secretary of Labor.
+
+In General
+
+Regulations
+
+## Source Credit
+
+*([Pub. L. 100–347, § 2](https://www.govinfo.gov/link/plaw/100/public/347), June 27, 1988, [102 Stat. 646](https://www.govinfo.gov/link/statute/102/646).)*

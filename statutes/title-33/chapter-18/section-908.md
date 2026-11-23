@@ -3,9 +3,10 @@ title: "Section 908 - Compensation for disability"
 usc_title: 33
 usc_section: "908"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 908"
-generated_at: "2026-03-30T02:55:41.076Z"
+generated_at: "2026-11-23T21:26:11.349Z"
+status: "active"
 ---
 
 # § 908. Compensation for disability
@@ -71,3 +72,7 @@ Compensation for disability shall be paid to the employee as follows:
     - **(A)** fails to report the employee’s earnings under paragraph (1) when requested, or
     - **(B)** knowingly and willfully omits or understates any part of such earnings,
   - **(3)** Compensation forfeited under this subsection, if already paid, shall be recovered by a deduction from the compensation payable to the employee in any amount and on such schedule as determined by the deputy commissioner.
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 509, § 8, [44 Stat. 1427](https://www.govinfo.gov/link/statute/44/1427); May 26, 1934, ch. 354, §§ 2, 3, [48 Stat. 806](https://www.govinfo.gov/link/statute/48/806); June 25, 1938, ch. 685, §§ 4, 5, [52 Stat. 1165](https://www.govinfo.gov/link/statute/52/1165); June 24, 1948, ch. 623, § 2, [62 Stat. 602](https://www.govinfo.gov/link/statute/62/602); July 26, 1956, ch. 735, §§ 2, 3, [70 Stat. 655](https://www.govinfo.gov/link/statute/70/655); [Pub. L. 92–576](https://www.govinfo.gov/link/plaw/92/public/576), §§ 5(c), 7, 9, 20(a), Oct. 27, 1972, [86 Stat. 1253](https://www.govinfo.gov/link/statute/86/1253), 1255, 1257, 1264; [Pub. L. 98–426](https://www.govinfo.gov/link/plaw/98/public/426), §§ 8, 27(a)(2), Sept. 28, 1984, [98 Stat. 1644](https://www.govinfo.gov/link/statute/98/1644), 1654.)*

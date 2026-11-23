@@ -3,9 +3,10 @@ title: "Section 3105 - Agricultural research; authorization of additional approp
 usc_title: 7
 usc_section: "3105"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3105"
-generated_at: "2026-03-30T02:53:42.393Z"
+generated_at: "2026-11-23T21:25:28.311Z"
+status: "active"
 ---
 
 # § 3105. Agricultural research; authorization of additional appropriations; administrative expenses; availability of special research fund
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:42.393Z"
 - **(c)** The Secretary may incur necessary administrative expenses not to exceed 3 per centum of the amount appropriated in any fiscal year in carrying out this section, including the specific objects of expense enumerated in section 427b 1 of this title.
 - **(d)** The “Special research fund, Department of Agriculture,” provided by section 427c 1 of this title, shall continue to be available solely for research into laws and principles underlying basic problems of agriculture in its broadest aspects; research relating to the improvement of the quality of, and the development of, new and improved methods of production of, distribution of, and new and extended uses and markets for, agricultural commodities and byproducts and manufactures thereof; and research relating to the conservation, development, and use of land and water resources for agricultural purposes. Such research shall be in addition to research provided for under other law (but both activities shall be coordinated so far as practicable) and shall be conducted by such agencies of the Department of Agriculture as the Secretary of Agriculture may designate or establish.
 - **(e)** Appropriations for research work in the Department of Agriculture shall be available for accomplishing such purposes by contract through the means provided in subsection (a) of this section.
+
+## Source Credit
+
+*(June 29, 1935, ch. 338, title I, § 10, as added Aug. 14, 1946, ch. 966, title I, § 101(2), [60 Stat. 1085](https://www.govinfo.gov/link/statute/60/1085); amended July 28, 1954, ch. 591, [68 Stat. 574](https://www.govinfo.gov/link/statute/68/574).)*

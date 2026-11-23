@@ -3,9 +3,10 @@ title: "Section 2609 - Limitation on requirement of advance deposits in escrow a
 usc_title: 12
 usc_section: "2609"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2609"
-generated_at: "2026-03-30T02:53:53.487Z"
+generated_at: "2026-11-23T21:25:37.105Z"
+status: "active"
 ---
 
 # § 2609. Limitation on requirement of advance deposits in escrow accounts
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:53.487Z"
   - **(2)** If any failure to which paragraph (1) applies is due to intentional disregard of the requirement to submit the statement, then, with respect to such failure—
     - **(A)** the penalty imposed under paragraph (1) shall be $100; and
     - **(B)** in the case of any penalty determined under subparagraph (A), the $100,000 limitation under paragraph (1) shall not apply.
+
+## Source Credit
+
+*([Pub. L. 93–533, § 10](https://www.govinfo.gov/link/plaw/93/public/533), Dec. 22, 1974, [88 Stat. 1728](https://www.govinfo.gov/link/statute/88/1728); [Pub. L. 94–205, § 8](https://www.govinfo.gov/link/plaw/94/public/205), Jan. 2, 1976, [89 Stat. 1158](https://www.govinfo.gov/link/statute/89/1158); [Pub. L. 101–625, title IX, § 942(a)](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4411](https://www.govinfo.gov/link/statute/104/4411); [Pub. L. 104–208, div. A, title II, § 2103(g)(2)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–401](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 111–203, title X, § 1098(8)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2104](https://www.govinfo.gov/link/statute/124/2104).)*

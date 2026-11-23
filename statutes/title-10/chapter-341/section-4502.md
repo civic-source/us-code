@@ -3,9 +3,10 @@ title: "Section 4502 - Procurement of contract services: senior officials respon
 usc_title: 10
 usc_section: "4502"
 chapter: 341
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4502"
-generated_at: "2026-03-30T02:53:38.208Z"
+generated_at: "2026-11-23T21:25:32.777Z"
+status: "active"
 ---
 
 # § 4502. Procurement of contract services: senior officials responsible for management of acquisition of contract services
@@ -28,3 +29,15 @@ generated_at: "2026-03-30T02:53:38.208Z"
     - **(A)** Entry into a contract or any other form of agreement.
     - **(B)** Issuance of a task order, delivery order, or military interdepartmental purchase request.
   - **(2)** The term “contract services” includes all services acquired from private sector entities by or for the Department of Defense, including services in support of contingency operations. The term does not include services relating to research and development or military construction.
+
+Senior Officials
+
+Duties and Responsibilities of Senior Officials Responsible for the Management of Acquisition of Contract Services
+
+Duties and Responsibilities
+
+Definitions
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1856(d)](https://www.govinfo.gov/link/plaw/116/public/283), (f), Jan. 1, 2021, [134 Stat. 4274](https://www.govinfo.gov/link/statute/134/4274), 4275; [Pub. L. 117–81, div. A, title XVII, § 1701(b)(19)(A)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2135](https://www.govinfo.gov/link/statute/135/2135).)*

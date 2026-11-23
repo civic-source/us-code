@@ -3,9 +3,10 @@ title: "Section 6418 - Transfer of certain credits"
 usc_title: 26
 usc_section: "6418"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6418"
-generated_at: "2026-03-30T02:55:27.853Z"
+generated_at: "2026-11-23T21:26:06.869Z"
+status: "active"
 ---
 
 # § 6418. Transfer of certain credits
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:55:27.853Z"
   - **(4)** This section shall not apply with respect to any amount of an eligible credit which is allowed pursuant to rules similar to the rules of subsections (c)(4) and (d) of section 46 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990).
   - **(5)** With respect to any eligible credit described in clause (iii), (iv), (vi), (vii), (viii), or (xi) of subsection (f)(1)(A), an eligible taxpayer may not elect to transfer any portion of such credit to a taxpayer that is a specified foreign entity (as defined in section 7701(a)(51)(B)).
 - **(h)** The Secretary shall issue such regulations or other guidance as may be necessary to carry out the purposes of this section, including regulations or other guidance providing rules for determining a partner’s distributive share of the tax exempt income described in subsection (c)(1).
+
+## Source Credit
+
+*(Added [Pub. L. 117–169, title I, § 13801(b)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2009](https://www.govinfo.gov/link/statute/136/2009); amended [Pub. L. 119–21, title VII](https://www.govinfo.gov/link/plaw/119/public/21), §§ 70512(h), 70513(b)(3)(B)(ii), 70521(j)(2), July 4, 2025, [139 Stat. 267](https://www.govinfo.gov/link/statute/139/267), 272, 279.)*

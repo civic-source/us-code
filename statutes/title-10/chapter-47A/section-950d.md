@@ -3,9 +3,10 @@ title: "Section 950d - Interlocutory appeals by the United States"
 usc_title: 10
 usc_section: "950d"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 950d"
-generated_at: "2026-03-30T02:53:38.090Z"
+generated_at: "2026-11-23T21:25:32.363Z"
+status: "active"
 ---
 
 # § 950d. Interlocutory appeals by the United States
@@ -32,3 +33,29 @@ generated_at: "2026-03-30T02:53:38.090Z"
 - **(f)** An appeal under this section shall be forwarded, by means specified in regulations prescribed by the Secretary of Defense, directly to the United States Court of Military Commission Review.
 - **(g)** In ruling on an appeal under paragraph (1), (2), or (3) of subsection (a), the appeals court may act only with respect to matters of law.
 - **(h)** An appeal under paragraph (4) of subsection (a), and a decision on such appeal, shall not affect the right of the accused, in a subsequent appeal from a judgment of conviction, to claim as error reversal by the military judge on remand of a ruling appealed from during trial.
+
+Interlocutory Appeal
+
+Limitation
+
+Scope of Appeal Right With Respect to Classified Information
+
+Timing and Action on Interlocutory Appeals Relating to Classified Information.—
+
+Appeal to be expedited
+
+Appeals before trial
+
+Appeals during trial
+
+Notice and Timing of Other Appeals
+
+Method of Appeal
+
+Appeals Court To Act Only With Respect to Matter of Law
+
+Subsequent Appeal Rights of Accused Not Affected
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title XVIII, § 1802](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2601](https://www.govinfo.gov/link/statute/123/2601).)*

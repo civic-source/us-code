@@ -3,9 +3,10 @@ title: "Section 264 - Certain amounts paid in connection with insurance contract
 usc_title: 26
 usc_section: "264"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 264"
-generated_at: "2026-03-30T02:55:27.658Z"
+generated_at: "2026-11-23T21:26:06.112Z"
+status: "active"
 ---
 
 # § 264. Certain amounts paid in connection with insurance contracts
@@ -82,3 +83,36 @@ generated_at: "2026-03-30T02:55:27.658Z"
   - **(8)**
     - **(A)** All members of a controlled group (within the meaning of subsection (e)(5)(B)) shall be treated as 1 taxpayer for purposes of this subsection.
     - **(B)** This subsection shall not apply to an insurance company subject to tax under subchapter L, and subparagraph (A) shall be applied without regard to any member of an affiliated group which is an insurance company.
+
+| For calendar year: | The percentage is: |
+| --- | --- |
+| 1996 | 100 percent |
+| 1997 | 90 percent |
+| 1998 | 80 percent.” |
+
+
+In general
+
+Transition rule for existing indebtedness.—
+
+In general
+
+Qualified interest
+
+Applicable percentage
+
+1996
+
+1997
+
+1998
+
+In general
+
+Special rules for applying section 264
+
+Special rule for deferred acquisition costs
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 77; [Pub. L. 88–272, title II, § 215(a)](https://www.govinfo.gov/link/plaw/88/public/272), (b), Feb. 26, 1964, [78 Stat. 55](https://www.govinfo.gov/link/statute/78/55); [Pub. L. 99–514, title X, § 1003(a)](https://www.govinfo.gov/link/plaw/99/public/514), (b), Oct. 22, 1986, [100 Stat. 2388](https://www.govinfo.gov/link/statute/100/2388); [Pub. L. 104–191, title V, § 501(a)](https://www.govinfo.gov/link/plaw/104/public/191), (b), Aug. 21, 1996, [110 Stat. 2090](https://www.govinfo.gov/link/statute/110/2090); [Pub. L. 105–34, title X, § 1084(a)](https://www.govinfo.gov/link/plaw/105/public/34), (b)(1), (c), title XVI, § 1602(f)(1)–(3), Aug. 5, 1997, [111 Stat. 951](https://www.govinfo.gov/link/statute/111/951), 952, 1094, 1095; [Pub. L. 105–206, title VI, § 6010](https://www.govinfo.gov/link/plaw/105/public/206) (o)(1)–(3)(A), (4)(A), (5), July 22, 1998, [112 Stat. 816](https://www.govinfo.gov/link/statute/112/816); [Pub. L. 105–277, div. J, title IV, § 4003(i)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–910](https://www.govinfo.gov/link/statute/112/2681).)*

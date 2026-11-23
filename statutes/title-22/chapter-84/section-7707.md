@@ -3,9 +3,10 @@ title: "Section 7707 - Congressional and public notification of candidate countr
 usc_title: 22
 usc_section: "7707"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7707"
-generated_at: "2026-03-30T02:55:05.445Z"
+generated_at: "2026-11-23T21:25:58.726Z"
+status: "active"
 ---
 
 # § 7707. Congressional and public notification of candidate countries, eligibility criteria, and eligible countries
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:05.445Z"
 - **(d)** Not later than 5 days after the date on which the Board determines eligible countries under section 7706 of this title for a fiscal year, the Chief Executive Officer—
   - **(1)** shall prepare and submit to the appropriate congressional committees a report that contains a list of all such eligible countries, an identification of those countries on such list with respect to which the Board will seek to enter into a Compact under section 7708 of this title , and a justification for such eligibility determination and selection for Compact negotiation; and
   - **(2)** shall publish in the Federal Register the information contained in the report described in paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 108–199, div. D, title VI, § 608](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 217](https://www.govinfo.gov/link/statute/118/217); [Pub. L. 118–159, div. E, title LI, § 5122(c)(1)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2430](https://www.govinfo.gov/link/statute/138/2430).)*

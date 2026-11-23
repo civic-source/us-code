@@ -3,9 +3,10 @@ title: "Section 5122 - Recordkeeping by retail dealers"
 usc_title: 26
 usc_section: "5122"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5122"
-generated_at: "2026-03-30T02:55:27.820Z"
+generated_at: "2026-11-23T21:26:06.700Z"
+status: "active"
 ---
 
 # § 5122. Recordkeeping by retail dealers
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:27.820Z"
   - **(3)** The term “limited retail dealer” means any fraternal, civic, church, labor, charitable, benevolent, or ex-servicemen’s organization making sales of distilled spirits, wine or beer on the occasion of any kind of entertainment, dance, picnic, bazaar, or festival held by it, or any person making sales of distilled spirits, wine or beer to the members, guests, or patrons of bona fide fairs, reunions, picnics, carnivals, or other similar outings, if such organization or person is not otherwise engaged in business as a dealer.
   - **(4)** The term “dealer” has the meaning given such term by section 5121(c)(3).
 - **(d)** For provisions relating to the preservation and inspection of records, and entry of premises for inspection, see section 5123.
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1345](https://www.govinfo.gov/link/statute/72/1345), § 5124; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); renumbered § 5122 and amended [Pub. L. 109–59, title XI, § 11125(b)(6)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1955](https://www.govinfo.gov/link/statute/119/1955).)*

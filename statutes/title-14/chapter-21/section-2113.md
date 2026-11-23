@@ -3,9 +3,10 @@ title: "Section 2113 - Eligibility of officers for consideration for promotion"
 usc_title: 14
 usc_section: "2113"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 2113"
-generated_at: "2026-03-30T02:53:51.497Z"
+generated_at: "2026-11-23T21:25:35.413Z"
+status: "active"
 ---
 
 # § 2113. Eligibility of officers for consideration for promotion
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:51.497Z"
     - **(A)** the basis for the request is to allow the officer to complete a broadening assignment, advanced education, another assignment of significant value to the Coast Guard, a career progression requirement delayed by the assignment or education, or a qualifying personal or professional circumstance, as determined by the Commandant;
     - **(B)** the Commandant determines the exclusion from consideration is in the best interest of the Coast Guard; and
     - **(C)** the officer has not previously failed of selection for promotion to the grade for which the officer requests the exclusion from consideration.
+
+## Source Credit
+
+*(Added [Pub. L. 88–130, § 1(10)(C)](https://www.govinfo.gov/link/plaw/88/public/130), Sept. 24, 1963, [77 Stat. 179](https://www.govinfo.gov/link/statute/77/179), § 257; amended [Pub. L. 94–546, § 1(19)](https://www.govinfo.gov/link/plaw/94/public/546), Oct. 18, 1976, [90 Stat. 2520](https://www.govinfo.gov/link/statute/90/2520); [Pub. L. 98–557, § 17(b)(1)](https://www.govinfo.gov/link/plaw/98/public/557), Oct. 30, 1984, [98 Stat. 2867](https://www.govinfo.gov/link/statute/98/2867); [Pub. L. 109–241, title II, § 203](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 520](https://www.govinfo.gov/link/statute/120/520); renumbered § 2113 and amended [Pub. L. 115–282, title I](https://www.govinfo.gov/link/plaw/115/public/282), §§ 112(b), 123(b)(2), Dec. 4, 2018, [132 Stat. 4216](https://www.govinfo.gov/link/statute/132/4216), 4240; [Pub. L. 116–283, div. G, title LVXXXII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXII], § 8202(a), Jan. 1, 2021, [134 Stat. 4642](https://www.govinfo.gov/link/statute/134/4642).)*

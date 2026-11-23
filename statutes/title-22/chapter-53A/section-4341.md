@@ -3,9 +3,10 @@ title: "Section 4341 - Definitions"
 usc_title: 22
 usc_section: "4341"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4341"
-generated_at: "2026-03-30T02:55:05.411Z"
+generated_at: "2026-11-23T21:25:58.643Z"
+status: "active"
 ---
 
 # § 4341. Definitions
@@ -25,3 +26,7 @@ For purposes of this chapter, the following terms have the following meanings:
   - **(5)** The term “foreign country” means any country or territory, excluding the United States, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, American Samoa, Guam, the Virgin Islands, and other territories or possessions of the United States.
   - **(6)** The term “personal property” means any item of personal property, including automobiles, computers, boats, audio and video equipment, and any other items acquired for personal use, but excluding items of minimal value as determined by regulation or policy issued pursuant to section 4343 of this title .
   - **(7)** The term “profit” means any proceeds (including cash and other valuable consideration but not including amounts of such proceeds given as charitable contributions) for the sale, disposition, or assignment of personal property in excess of the basis for such property. For purposes of this chapter, basis shall include initial price, inland and overseas transportation costs (if not reimbursed by the United States Government), shipping insurance, taxes, customs fees, duties or other charges, and capital improvements, but shall not include insurance on an item while in use, or maintenance and related costs. For purposes of computing profit, proceeds and costs shall be valued in United States dollars at the time of receipt or payment, at a rate of exchange as determined by regulation or policy issued pursuant to section 4343 of this title .
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title III, § 301, as added [Pub. L. 100–204, title I, § 186(a)](https://www.govinfo.gov/link/plaw/100/public/204), Dec. 22, 1987, [101 Stat. 1366](https://www.govinfo.gov/link/statute/101/1366); amended [Pub. L. 109–435, title VI, § 604(f)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3242](https://www.govinfo.gov/link/statute/120/3242).)*

@@ -3,9 +3,10 @@ title: "Section 4121 - Science and technology reinvention laboratories: authorit
 usc_title: 10
 usc_section: "4121"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4121"
-generated_at: "2026-03-30T02:53:38.202Z"
+generated_at: "2026-11-23T21:25:32.756Z"
+status: "active"
 ---
 
 # § 4121. Science and technology reinvention laboratories: authority and designation
@@ -48,3 +49,31 @@ generated_at: "2026-03-30T02:53:38.202Z"
   - **(3)** shall be completed within 18 months after designation; and
   - **(4)** shall not apply to prevailing rate employees (as defined by section 5342(a)(2) of title 5 ) or senior executives (as defined by section 3132(a)(3) of such title).
 - **(d)** The science and technology reinvention laboratories, as so designated by subsection (a), may not implement any personnel system, other than a personnel system under an appropriate demonstration project (as referred to subsection (a)), without prior congressional authorization.
+
+In General
+
+Designation of Laboratories
+
+Conversion Procedures
+
+Limitation
+
+Requirement
+
+Process for Full Implementation
+
+Other Laboratories
+
+Submission of List and Description
+
+Status Reports.—
+
+In general
+
+Information required
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. A, title II, § 215(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1591](https://www.govinfo.gov/link/statute/135/1591).)*

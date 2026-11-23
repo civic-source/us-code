@@ -3,9 +3,10 @@ title: "Section 2255b - Department of Agriculture conference transparency"
 usc_title: 7
 usc_section: "2255b"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2255b"
-generated_at: "2026-03-30T02:53:42.382Z"
+generated_at: "2026-11-23T21:25:28.288Z"
+status: "active"
 ---
 
 # § 2255b. Department of Agriculture conference transparency
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:42.382Z"
     - **(C)** is held in whole or in part at a facility outside of an agency of the Department of Agriculture; and
     - **(D)** involves costs associated with travel and lodging for some participants; and
   - **(2)** does not include any training program that is continuing education or a curriculum-based educational program, provided that such training program is held independent of a conference of a non-governmental organization.
+
+## Source Credit
+
+*([Pub. L. 110–234, title XIV, § 14208](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1462](https://www.govinfo.gov/link/statute/122/1462); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14208, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2224; [Pub. L. 115–334, title XII, § 12611](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 5013](https://www.govinfo.gov/link/statute/132/5013).)*

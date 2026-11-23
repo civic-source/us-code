@@ -3,9 +3,10 @@ title: "Section 878a - Contract for development of a major program; costs; Major
 usc_title: 33
 usc_section: "878a"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 878a"
-generated_at: "2026-03-30T02:55:41.073Z"
+generated_at: "2026-11-23T21:26:11.343Z"
+status: "active"
 ---
 
 # § 878a. Contract for development of a major program; costs; Major Program Annual Report for satellite development program
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:55:41.073Z"
     - **(B)** the projected cost and the schedule for completing the program after instituting the actions described under paragraph (1)(B); and
     - **(C)** a description of, and the projected cost and schedule for, a broad range of alternatives to the program.
 - **(f)** NOAA shall complete an analysis initiated under subsection (e)(2) not later than 6 months after the Under Secretary makes a determination under subsection (e). The Under Secretary shall transmit the analysis to the appropriate congressional committees not later than 30 days after its completion.
+
+## Source Credit
+
+*([Pub. L. 112–55, div. B, title I, § 105](https://www.govinfo.gov/link/plaw/112/public/55), Nov. 18, 2011, [125 Stat. 599](https://www.govinfo.gov/link/statute/125/599); [Pub. L. 113–6, div. B, title I, § 105(a)](https://www.govinfo.gov/link/plaw/113/public/6), Mar. 26, 2013, [127 Stat. 242](https://www.govinfo.gov/link/statute/127/242).)*

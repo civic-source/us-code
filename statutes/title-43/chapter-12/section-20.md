@@ -3,9 +3,10 @@ title: "Section 20 - Hawaii reclamation projects"
 usc_title: 43
 usc_section: "20"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 20"
-generated_at: "2026-03-30T02:55:57.444Z"
+generated_at: "2026-11-23T21:26:19.766Z"
+status: "active"
 ---
 
 # § 390h–20. Hawaii reclamation projects
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:57.444Z"
 - **(b)** The Federal share of the cost of a project described in subsection (a) shall not exceed 25 percent of the total cost of the project.
 - **(c)** Funds provided by the Secretary shall not be used for the operation and maintenance of a project described in subsection (a).
 - **(d)** There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 102–575, title XVI, § 1638](https://www.govinfo.gov/link/plaw/102/public/575), as added [Pub. L. 109–70, § 2(a)(2)](https://www.govinfo.gov/link/plaw/109/public/70), Sept. 21, 2005, [119 Stat. 2009](https://www.govinfo.gov/link/statute/119/2009).)*

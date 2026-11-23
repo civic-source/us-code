@@ -3,9 +3,10 @@ title: "Section 10541 - National Guard and reserve component equipment: annual r
 usc_title: 10
 usc_section: "10541"
 chapter: 1013
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 10541"
-generated_at: "2026-03-30T02:53:38.266Z"
+generated_at: "2026-11-23T21:25:33.028Z"
+status: "active"
 ---
 
 # § 10541. National Guard and reserve component equipment: annual report to Congress
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:53:38.266Z"
     - **(A)** for which funds were appropriated;
     - **(B)** which was due to be procured for the National Guard during that fiscal year; and
     - **(C)** which has not been received by a National Guard unit as of the close of that fiscal year.
+
+## Source Credit
+
+*(Added [Pub. L. 101–510, div. A, title XIV, § 1483(a)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1714](https://www.govinfo.gov/link/statute/104/1714), § 115b; amended [Pub. L. 102–484, div. A, title XI, § 1134](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2541](https://www.govinfo.gov/link/statute/106/2541); renumbered § 10541 and amended [Pub. L. 103–337, div. A, title XVI, § 1661(d)(2)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2982](https://www.govinfo.gov/link/statute/108/2982); [Pub. L. 110–181, div. A, title III, § 351(a)](https://www.govinfo.gov/link/plaw/110/public/181), title XVIII, § 1826, Jan. 28, 2008, [122 Stat. 70](https://www.govinfo.gov/link/statute/122/70), 503; [Pub. L. 112–81, div. A, title X, § 1070](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1592](https://www.govinfo.gov/link/statute/125/1592); [Pub. L. 115–232, div. A, title I, § 111(a)](https://www.govinfo.gov/link/plaw/115/public/232), title XII, § 1204(b)(1)(B), Aug. 13, 2018, [132 Stat. 1660](https://www.govinfo.gov/link/statute/132/1660), 2017.)*

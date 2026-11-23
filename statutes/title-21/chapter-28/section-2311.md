@@ -3,9 +3,10 @@ title: "Section 2311 - Identification of foreign opioid traffickers"
 usc_title: 21
 usc_section: "2311"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 2311"
-generated_at: "2026-03-30T02:54:54.311Z"
+generated_at: "2026-11-23T21:25:56.304Z"
+status: "active"
 ---
 
 # § 2311. Identification of foreign opioid traffickers
@@ -49,3 +50,15 @@ generated_at: "2026-03-30T02:54:54.311Z"
   - **(3)** If the Director of National Intelligence makes a determination under paragraph (1) or the Attorney General makes a determination under paragraph (2), the Director or the Attorney General, as the case may be, shall notify the appropriate congressional committees and leadership of the determination and the reasons for the determination.
   - **(4)** Nothing in this section may be construed to authorize or compel the disclosure of information determined by the President to be law enforcement information, classified information, national security information, or other information the disclosure of which is prohibited by any other provision of law.
 - **(e)** The Secretary of the Treasury, the Attorney General, the Secretary of Defense, the Secretary of State, the Secretary of Homeland Security, and the Director of National Intelligence shall consult among themselves and provide to the President and the Director of the Office of National Drug Control Policy the appropriate and necessary information to enable the President to submit the reports required by subsection (a).
+
+Section
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. F, title LXXII, § 7211](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2263](https://www.govinfo.gov/link/statute/133/2263); [Pub. L. 119–60, div. H, title LXXXIII, § 8315](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1857](https://www.govinfo.gov/link/statute/139/1857).)*

@@ -3,9 +3,10 @@ title: "Section 1725b - Forest Service hire authority"
 usc_title: 16
 usc_section: "1725b"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1725b"
-generated_at: "2026-03-30T02:54:22.982Z"
+generated_at: "2026-11-23T21:25:51.911Z"
+status: "active"
 ---
 
 # § 1725b. Forest Service hire authority
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:22.982Z"
   - **(2)** successfully fulfilled the requirements of the internship program; and
   - **(3)** earned an undergraduate or graduate degree from an accredited institution of higher education (as defined in section 1001 of title 20 ).
 - **(c)** The direct hire authority under this section may not be exercised with respect to a specific qualified candidate after the end of the 2-year period beginning on the date on which the candidate completed the undergraduate or graduate degree, as the case may be, or has successfully fulfilled the requirements of the internship program, whichever is later.
+
+## Source Credit
+
+*([Pub. L. 115–334, title XII, § 12518](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 5001](https://www.govinfo.gov/link/statute/132/5001).)*

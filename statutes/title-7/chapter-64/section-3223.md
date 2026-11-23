@@ -3,9 +3,10 @@ title: "Section 3223 - Grants for acquisition and improvement of research facili
 usc_title: 7
 usc_section: "3223"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3223"
-generated_at: "2026-03-30T02:53:42.400Z"
+generated_at: "2026-11-23T21:25:28.327Z"
+status: "active"
 ---
 
 # § 3223. Grants for acquisition and improvement of research facilities and equipment
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.400Z"
 - **(d)** Grants awarded pursuant to this section shall be made in such amounts and under such terms and conditions as the Secretary shall determine necessary for carrying out the purposes of this section.
 - **(e)** Federal funds provided under this section may not be utilized for the payment of any overhead costs of the eligible institutions.
 - **(f)** The Secretary may promulgate such rules and regulations as the Secretary may deem necessary to carry out the provisions of this section.
+
+## Source Credit
+
+*([Pub. L. 97–98, title XIV, § 1433](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1312](https://www.govinfo.gov/link/statute/95/1312); [Pub. L. 99–198, title XIV, § 1433](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1557](https://www.govinfo.gov/link/statute/99/1557).)*

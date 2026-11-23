@@ -3,9 +3,10 @@ title: "Section 77f - Registration of securities"
 usc_title: 15
 usc_section: "77f"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 77f"
-generated_at: "2026-03-30T02:54:08.031Z"
+generated_at: "2026-11-23T21:25:39.503Z"
+status: "active"
 ---
 
 # § 77f. Registration of securities
@@ -25,3 +26,69 @@ generated_at: "2026-03-30T02:54:08.031Z"
 - **(e)**
   - **(1)** Any emerging growth company, prior to its initial public offering date, may confidentially submit to the Commission a draft registration statement, for confidential nonpublic review by the staff of the Commission prior to public filing, provided that the initial confidential submission and all amendments thereto shall be publicly filed with the Commission not later than 15 days before the date on which the issuer conducts a road show, as such term is defined in section 230.433(h)(4) of title 17, Code of Federal Regulations, or any successor thereto. An issuer that was an emerging growth company at the time it submitted a confidential registration statement or, in lieu thereof, a publicly filed registration statement for review under this subsection but ceases to be an emerging growth company thereafter shall continue to be treated as an emerging market growth company for the purposes of this subsection through the earlier of the date on which the issuer consummates its initial public offering pursuant to such registrations statement or the end of the 1-year period beginning on the date the company ceases to be an emerging growth company.
   - **(2)** Notwithstanding any other provision of this subchapter, the Commission shall not be compelled to disclose any information provided to or obtained by the Commission pursuant to this subsection. For purposes of section 552 of title 5 , this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552. Information described in or obtained pursuant to this subsection shall be deemed to constitute confidential information for purposes of section 78x(b)(2) of this title .
+
+| Fiscal year: | Target fee collection amount |
+| --- | --- |
+| 2002 | $377,000,000 |
+| 2003 | $435,000,000 |
+| 2004 | $467,000,000 |
+| 2005 | $570,000,000 |
+| 2006 | $689,000,000 |
+| 2007 | $214,000,000 |
+| 2008 | $234,000,000 |
+| 2009 | $284,000,000 |
+| 2010 | $334,000,000 |
+| 2011 | $394,000,000 |
+| 2012 | $425,000,000 |
+| 2013 | $455,000,000 |
+| 2014 | $485,000,000 |
+| 2015 | $515,000,000 |
+| 2016 | $550,000,000 |
+| 2017 | $585,000,000 |
+| 2018 | $620,000,000 |
+| 2019 | $660,000,000 |
+| 2020 | $705,000,000 |
+| 2021 and each fiscal year thereafter | An amount that is equal to the target fee collection amount for the prior fiscal year, adjusted by the rate of inflation. |
+
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title I, § 6, [48 Stat. 78](https://www.govinfo.gov/link/statute/48/78); [Pub. L. 89–289, § 1](https://www.govinfo.gov/link/plaw/89/public/289), Oct. 22, 1965, [79 Stat. 1051](https://www.govinfo.gov/link/statute/79/1051); [Pub. L. 100–181, title II, § 205](https://www.govinfo.gov/link/plaw/100/public/181), Dec. 4, 1987, [101 Stat. 1252](https://www.govinfo.gov/link/statute/101/1252); [Pub. L. 104–290, title IV, § 404](https://www.govinfo.gov/link/plaw/104/public/290), Oct. 11, 1996, [110 Stat. 3441](https://www.govinfo.gov/link/statute/110/3441); [Pub. L. 107–123, § 4](https://www.govinfo.gov/link/plaw/107/public/123), Jan. 16, 2002, [115 Stat. 2393](https://www.govinfo.gov/link/statute/115/2393); [Pub. L. 111–203, title IX, § 991(b)(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1951](https://www.govinfo.gov/link/statute/124/1951); [Pub. L. 112–106, title I, § 106(a)](https://www.govinfo.gov/link/plaw/112/public/106), Apr. 5, 2012, [126 Stat. 312](https://www.govinfo.gov/link/statute/126/312); [Pub. L. 114–94, div. G, title LXXI](https://www.govinfo.gov/link/plaw/114/public/94), §§ 71001, 71002, Dec. 4, 2015, [129 Stat. 1783](https://www.govinfo.gov/link/statute/129/1783).)*

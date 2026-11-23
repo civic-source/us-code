@@ -3,9 +3,10 @@ title: "Section 1367 - Supplemental jurisdiction"
 usc_title: 28
 usc_section: "1367"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1367"
-generated_at: "2026-03-30T02:55:30.139Z"
+generated_at: "2026-11-23T21:26:01.087Z"
+status: "active"
 ---
 
 # § 1367. Supplemental jurisdiction
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:30.139Z"
   - **(4)** in exceptional circumstances, there are other compelling reasons for declining jurisdiction.
 - **(d)** The period of limitations for any claim asserted under subsection (a), and for any other claim in the same action that is voluntarily dismissed at the same time as or after the dismissal of the claim under subsection (a), shall be tolled while the claim is pending and for a period of 30 days after it is dismissed unless State law provides for a longer tolling period.
 - **(e)** As used in this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 101–650, title III, § 310(a)](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5113](https://www.govinfo.gov/link/statute/104/5113).)*

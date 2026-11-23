@@ -3,9 +3,10 @@ title: "Section 1101 - Congressional declaration of policy and objectives"
 usc_title: 33
 usc_section: "1101"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1101"
-generated_at: "2026-03-30T02:55:41.080Z"
+generated_at: "2026-11-23T21:26:11.355Z"
+status: "active"
 ---
 
 # § 1101. Congressional declaration of policy and objectives
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:41.080Z"
   - **(6)** The development and improvement of the capabilities, performance, use, and efficiency of vehicles, equipment, and instruments for use in exploration, research, surveys, the recovery of resources, and the transmission of energy in the marine environment.
   - **(7)** The effective utilization of the scientific and engineering resources of the Nation, with close cooperation among all interested agencies, public and private, in order to avoid unnecessary duplication of effort, facilities, and equipment, or waste.
   - **(8)** The cooperation by the United States with other nations and groups of nations and international organizations in marine science activities when such cooperation is in the national interest.
+
+## Source Credit
+
+*([Pub. L. 89–454, title I, § 2](https://www.govinfo.gov/link/plaw/89/public/454), June 17, 1966, [80 Stat. 203](https://www.govinfo.gov/link/statute/80/203).)*

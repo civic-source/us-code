@@ -3,9 +3,10 @@ title: "Section 8544 - Service First Initiative; permits for multijurisdictional
 usc_title: 16
 usc_section: "8544"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8544"
-generated_at: "2026-03-30T02:54:23.088Z"
+generated_at: "2026-11-23T21:25:52.083Z"
+status: "active"
 ---
 
 # § 8544. Service First Initiative; permits for multijurisdictional trips
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:23.088Z"
     - **(A)** a separate special recreation permit or commercial use authorization for the use of each unit of Federal recreational lands and waters on which the multijurisdictional trip occurs; or
     - **(B)** a set of separate special recreational permits or commercial use authorizations made available under the pilot program established under paragraph (1).
   - **(6)** Nothing in this subsection applies to a concession contract issued by the National Park Service for the provision of accommodations, facilities, or services.
+
+## Source Credit
+
+*([Pub. L. 118–234, title III, § 315](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2903](https://www.govinfo.gov/link/statute/138/2903).)*

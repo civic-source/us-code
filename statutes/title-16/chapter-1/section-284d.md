@@ -3,9 +3,10 @@ title: "Section 284d - Cooperative agreement with Foundation for presentation of
 usc_title: 16
 usc_section: "284d"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 284d"
-generated_at: "2026-03-30T02:54:22.748Z"
+generated_at: "2026-11-23T21:25:51.407Z"
+status: "active"
 ---
 
 # § 284d. Cooperative agreement with Foundation for presentation of programs
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:22.748Z"
   - **(2)** the Foundation shall prepare an annual report to the Secretary, which shall also be submitted to the appropriate committees of the United States House of Representatives and the United States Senate, summarizing the activities of the previous year (together with a comparison of goals and objectives with actual accomplishments) and presenting a plan for the forthcoming year;
   - **(3)** such cooperative agreement may be terminated at the convenience of the United States if the Secretary determines that such termination is required in the public interest; and
   - **(4)** the Foundation will maintain accounts for Foundation activities outside of the Park separate from Foundation accounts for presentation of performing arts and related programs presented at the Center and other areas of the Park.
+
+## Source Credit
+
+*([Pub. L. 89–671, § 5](https://www.govinfo.gov/link/plaw/89/public/671), as added [Pub. L. 97–310](https://www.govinfo.gov/link/plaw/97/public/310), Oct. 14, 1982, [96 Stat. 1456](https://www.govinfo.gov/link/statute/96/1456); amended [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 101–636, § 2](https://www.govinfo.gov/link/plaw/101/public/636), Nov. 28, 1990, [104 Stat. 4587](https://www.govinfo.gov/link/statute/104/4587).)*

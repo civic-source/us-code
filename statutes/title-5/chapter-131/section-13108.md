@@ -3,9 +3,10 @@ title: "Section 13108 - Review of reports"
 usc_title: 5
 usc_section: "13108"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 13108"
-generated_at: "2026-03-30T02:52:56.079Z"
+generated_at: "2026-11-23T21:25:23.474Z"
+status: "active"
 ---
 
 # § 13108. Review of reports
@@ -28,3 +29,56 @@ generated_at: "2026-03-30T02:52:56.079Z"
   - **(5)** If steps for assuring compliance with applicable laws and regulations are not taken by the date set under paragraph (3) by a member of the Foreign Service or the uniformed services, the Secretary concerned shall take appropriate action.
   - **(6)** If steps for assuring compliance with applicable laws and regulations are not taken by the date set under paragraph (3) by any other officer or employee, the matter shall be referred to the head of the appropriate agency, the congressional ethics committee, or the Judicial Conference, for appropriate action, except that in the case of the Postmaster General or Deputy Postmaster General, the Director of the Office of Government Ethics shall recommend to the Governors of the Board of Governors of the United States Postal Service the action to be taken.
   - **(7)** Each supervising ethics office may render advisory opinions interpreting this subchapter within its respective jurisdiction. Notwithstanding any other provision of law, the individual to whom a public advisory opinion is rendered in accordance with this paragraph, and any other individual covered by this subchapter who is involved in a fact situation which is indistinguishable in all material aspects, and who acts in good faith in accordance with the provisions and findings of such advisory opinion shall not, as a result of such act, be subject to any penalty or sanction provided by this subchapter.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 13108 | 5 U.S.C. App. (EGA § 106) | Pub. L. 95–521, title I, § 106 , Oct. 26, 1978 , 92 Stat. 1833 ; Pub. L. 101–194, title II, § 202 , Nov. 30, 1989 , 103 Stat. 1739 ; Pub. L. 101–280, § 3(1) , (7), May 4, 1990 , 104 Stat. 152 , 155. |
+
+
+Time for Review.—
+
+Executive branch
+
+Congressional ethics committee and judicial conference
+
+Results of Review.—
+
+Compliance
+
+Additional information required or possible noncompliance
+
+Noncompliance and notification of steps to assure compliance
+
+Referral of individuals in positions requiring senate confirmation
+
+Referral of member of foreign service or uniformed services
+
+Referral of other officers or employees
+
+Advisory opinions
+
+Historical and Revision Notes
+
+13108
+
+Pub. L. 95–521, title I, § 106
+
+Oct. 26, 1978
+
+92 Stat. 1833
+
+Pub. L. 101–194, title II, § 202
+
+Nov. 30, 1989
+
+103 Stat. 1739
+
+Pub. L. 101–280, § 3(1)
+
+May 4, 1990
+
+104 Stat. 152
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(c)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4292](https://www.govinfo.gov/link/statute/136/4292).)*

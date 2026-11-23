@@ -3,9 +3,10 @@ title: "Section 9544 - Performance of duties"
 usc_title: 20
 usc_section: "9544"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9544"
-generated_at: "2026-03-30T02:54:48.227Z"
+generated_at: "2026-11-23T21:25:47.661Z"
+status: "active"
 ---
 
 # § 9544. Performance of duties
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:48.227Z"
     - **(A)** provide technical assistance to the Department offices that gather data for statistical purposes; and
     - **(B)** coordinate with other Department offices in the collection of data.
 - **(c)** Notwithstanding any other provision of law, the grants, contracts, and cooperative agreements under this section may be awarded, on a competitive basis, for a period of not more than 5 years, and may be renewed at the discretion of the Statistics Commissioner for an additional period of not more than 5 years.
+
+## Source Credit
+
+*([Pub. L. 107–279, title I, § 154](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1960](https://www.govinfo.gov/link/statute/116/1960).)*

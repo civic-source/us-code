@@ -3,9 +3,10 @@ title: "Section 1110 - System for tracking and recording vaccine information; an
 usc_title: 10
 usc_section: "1110"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1110"
-generated_at: "2026-03-30T02:53:38.109Z"
+generated_at: "2026-11-23T21:25:32.426Z"
+status: "active"
 ---
 
 # § 1110. System for tracking and recording vaccine information; anthrax vaccine immunization program
@@ -32,3 +33,19 @@ generated_at: "2026-03-30T02:53:38.109Z"
     - **(D)** Active surveillance of a sample of members to whom the anthrax vaccine has been administered that is sufficient to identify, at the earliest opportunity, any patterns of adverse reactions, the discovery of which might be delayed by reliance solely on the Vaccine Adverse Event Reporting System.
   - **(2)** The Secretary may extend or expand any ongoing or planned study or analysis of trends in adverse reactions of members of the armed forces to the anthrax vaccine in order to meet any of the requirements in paragraph (1).
   - **(3)** The Secretary shall establish guidelines under which members of the armed forces who are determined by an independent expert panel to be experiencing unexplained adverse reactions may obtain access to a Department of Defense Center of Excellence treatment facility for expedited treatment and follow up.
+
+Overall System to Track and Record Vaccine Information
+
+Procedures for Medical and Administrative Exemptions From Anthrax Vaccine Immunization Program
+
+System for Monitoring Adverse Reactions to Anthrax Vaccine
+
+Standards
+
+Definitions
+
+“The Secretary of Defense shall—
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title VII, § 751(b)(1)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–193; amended [Pub. L. 117–81, div. A, title VII, § 716(a)](https://www.govinfo.gov/link/plaw/117/public/81), (b), Dec. 27, 2021, [135 Stat. 1788](https://www.govinfo.gov/link/statute/135/1788).)*

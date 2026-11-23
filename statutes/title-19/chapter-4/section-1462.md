@@ -3,12 +3,17 @@ title: "Section 1462 - Forfeiture 1 1 See Codification note below."
 usc_title: 19
 usc_section: "1462"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1462"
-generated_at: "2026-03-30T02:54:24.636Z"
+generated_at: "2026-11-23T21:25:42.710Z"
+status: "active"
 ---
 
 # § 1462. Forfeiture 1 1 See Codification note below.
 
 If such 1 owner, agent, or other person shall fail to comply with his demand, the officer 1 shall retain such trunk, traveling bag, sack, valise, or other container or closed vehicle, and open the same, and, as soon thereafter as may be practicable, examine the contents, and if any article subject to duty or any article the importation of which is prohibited is found therein, the whole contents and the container or vehicle shall be subject to forfeiture.
 
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 462, [46 Stat. 718](https://www.govinfo.gov/link/statute/46/718).)*

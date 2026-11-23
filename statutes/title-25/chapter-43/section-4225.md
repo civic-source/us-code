@@ -3,9 +3,10 @@ title: "Section 4225 - Treatment of program income and labor standards"
 usc_title: 25
 usc_section: "4225"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4225"
-generated_at: "2026-03-30T02:54:52.861Z"
+generated_at: "2026-11-23T21:25:54.712Z"
+status: "active"
 ---
 
 # § 4225. Treatment of program income and labor standards
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:52.861Z"
     - **(A)** a provision requiring that an amount not less than the wages prevailing in the locality, as determined or adopted (subsequent to a determination under applicable State or local law) by the Secretary, shall be paid to all architects, technical engineers, draftsmen, technicians employed in the development and all maintenance, and laborers and mechanics employed in the operation, of the affordable housing project involved; and
     - **(B)** a provision that an amount not less than the wages prevailing in the locality, as predetermined by the Secretary of Labor pursuant to sections 3141–3144, 3146, and 3147 of title 40 shall be paid to all laborers and mechanics employed in the development of the affordable housing involved.
   - **(2)** Paragraph (1) and provisions relating to wages required under paragraph (1) in any contract or agreement for assistance, sale, or lease under this subchapter, shall not apply to any individual who performs the services for which the individual volunteered and who is not otherwise employed at any time in the construction work and received no compensation or is paid expenses, reasonable benefits, or a nominal fee for those services.
+
+## Source Credit
+
+*([Pub. L. 104–330, title VIII, § 805](https://www.govinfo.gov/link/plaw/104/public/330), as added [Pub. L. 106–568, title II, § 203](https://www.govinfo.gov/link/plaw/106/public/568), Dec. 27, 2000, [114 Stat. 2883](https://www.govinfo.gov/link/statute/114/2883), and [Pub. L. 106–569, title V, § 513](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 2976](https://www.govinfo.gov/link/statute/114/2976).)*

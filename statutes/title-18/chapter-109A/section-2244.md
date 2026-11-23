@@ -3,9 +3,10 @@ title: "Section 2244 - Abusive sexual contact"
 usc_title: 18
 usc_section: "2244"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2244"
-generated_at: "2026-03-30T02:54:16.497Z"
+generated_at: "2026-11-23T21:25:44.120Z"
+status: "active"
 ---
 
 # § 2244. Abusive sexual contact
@@ -19,3 +20,13 @@ generated_at: "2026-03-30T02:54:16.497Z"
   - **(6)** subsection (c) of section 2243 of this title had the sexual contact been a sexual act, shall be fined under this title, imprisoned not more than two years, or both; 1 1 So in original. The semicolon probably should be a period.
 - **(b)** Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the head of any Federal department or agency, knowingly engages in sexual contact with another person without that other person’s permission shall be fined under this title, imprisoned not more than two years, or both.
 - **(c)** If the sexual contact that violates this section (other than subsection (a)(5)) is with an individual who has not attained the age of 12 years, the maximum term of imprisonment that may be imposed for the offense shall be twice that otherwise provided in this section.
+
+Sexual Conduct in Circumstances Where Sexual Acts Are Punished by This Chapter
+
+In Other Circumstances
+
+Offenses Involving Young Children
+
+## Source Credit
+
+*(Added [Pub. L. 99–646, § 87(b)](https://www.govinfo.gov/link/plaw/99/public/646), Nov. 10, 1986, [100 Stat. 3622](https://www.govinfo.gov/link/statute/100/3622), and [Pub. L. 99–654, § 2](https://www.govinfo.gov/link/plaw/99/public/654), Nov. 14, 1986, [100 Stat. 3661](https://www.govinfo.gov/link/statute/100/3661); amended [Pub. L. 100–690, title VII, § 7058(a)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4403](https://www.govinfo.gov/link/statute/102/4403); [Pub. L. 103–322, title XXXIII, § 330016(1)(K)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2147](https://www.govinfo.gov/link/statute/108/2147); [Pub. L. 105–314, title III, § 302](https://www.govinfo.gov/link/plaw/105/public/314), Oct. 30, 1998, [112 Stat. 2979](https://www.govinfo.gov/link/statute/112/2979); [Pub. L. 109–162, title XI, § 1177(a)(5)](https://www.govinfo.gov/link/plaw/109/public/162), (b)(2), Jan. 5, 2006, [119 Stat. 3125](https://www.govinfo.gov/link/statute/119/3125); [Pub. L. 109–248, title II](https://www.govinfo.gov/link/plaw/109/public/248), §§ 206(a)(2), 207(2), July 27, 2006, [120 Stat. 613](https://www.govinfo.gov/link/statute/120/613), 615; [Pub. L. 110–161, div. E, title V, § 554](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2082](https://www.govinfo.gov/link/statute/121/2082); [Pub. L. 117–103, div. W, title XII, § 1202(d)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 925](https://www.govinfo.gov/link/statute/136/925).)*

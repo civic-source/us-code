@@ -3,9 +3,10 @@ title: "Section 14916 - Unlawful brokerage activities"
 usc_title: 49
 usc_section: "14916"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 14916"
-generated_at: "2026-03-30T02:56:19.333Z"
+generated_at: "2026-11-23T21:26:40.697Z"
+status: "active"
 ---
 
 # § 14916. Unlawful brokerage activities
@@ -23,3 +24,15 @@ generated_at: "2026-03-30T02:56:19.333Z"
 - **(d)** The liability for civil penalties and for claims under this section for unauthorized brokering shall apply, jointly and severally—
   - **(1)** to any corporate entity or partnership involved; and
   - **(2)** to the individual officers, directors, and principals of such entities.
+
+Prohibited Activities
+
+Exceptions
+
+Civil Penalties and Private Cause of Action
+
+Liable Parties
+
+## Source Credit
+
+*(Added [Pub. L. 112–141, div. C, title II, § 32919(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 827](https://www.govinfo.gov/link/statute/126/827); amended [Pub. L. 114–94, div. A, title V, § 5508(a)(5)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1554](https://www.govinfo.gov/link/statute/129/1554).)*

@@ -3,9 +3,10 @@ title: "Section 9456 - Acceptance of guarantees with gifts for major projects"
 usc_title: 10
 usc_section: "9456"
 chapter: 953
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 9456"
-generated_at: "2026-03-30T02:53:38.260Z"
+generated_at: "2026-11-23T21:25:33.002Z"
+status: "active"
 ---
 
 # § 9456. Acceptance of guarantees with gifts for major projects
@@ -35,3 +36,27 @@ generated_at: "2026-03-30T02:53:38.260Z"
   - **(5)** The term “major United States investment management firm” means any broker, dealer, investment adviser, or provider of investment supervisory services (as defined in section 3 of the Securities Exchange Act of 1934 ( 15 U.S.C. 78c ) or section 202 of the Investment Advisers Act of 1940 ( 15 U.S.C. 80b–2 )) or a major United States commercial bank that—
     - **(A)** is headquartered in the United States; and
     - **(B)** holds for the account of others investment assets in a total amount considered by the Secretary of the Air Force to qualify the firm as a major investment management firm.
+
+Acceptance Authority
+
+Obligation Authority
+
+Notice of Proposed Acceptance
+
+Prohibition on Commingling of Funds
+
+Definitions
+
+Major project
+
+Qualified guarantee
+
+Qualified account control agreement
+
+Major united states commercial bank
+
+Major united states investment management firm
+
+## Source Credit
+
+*(Added [Pub. L. 106–65, div. B, title XXVIII, § 2871(c)(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 875](https://www.govinfo.gov/link/statute/113/875), § 9356; amended [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1087(a)(17)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–291; [Pub. L. 108–136, div. A, title X, § 1031(a)(59)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1603](https://www.govinfo.gov/link/statute/117/1603); renumbered § 9456, [Pub. L. 115–232, div. A, title VIII, § 806(a)(3)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1832](https://www.govinfo.gov/link/statute/132/1832).)*

@@ -3,9 +3,10 @@ title: "Section 6d - Filming and still photography"
 usc_title: 16
 usc_section: "6d"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6d"
-generated_at: "2026-03-30T02:54:22.811Z"
+generated_at: "2026-11-23T21:25:51.560Z"
+status: "active"
 ---
 
 # § 460l–6d. Filming and still photography
@@ -101,3 +102,7 @@ generated_at: "2026-03-30T02:54:22.811Z"
   - **(2)** The term “Secretary concerned” means—
     - **(A)** the Secretary of the Interior, with respect to land described in paragraph (1)(A); and
     - **(B)** the Secretary of Agriculture, with respect to land described in paragraph (1)(B).
+
+## Source Credit
+
+*([Pub. L. 106–206, § 1](https://www.govinfo.gov/link/plaw/106/public/206), as added [Pub. L. 118–234, title I, § 125(b)](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2851](https://www.govinfo.gov/link/statute/138/2851).)*

@@ -3,9 +3,10 @@ title: "Section 3612 - Collection of unpaid fine or restitution"
 usc_title: 18
 usc_section: "3612"
 chapter: 229
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3612"
-generated_at: "2026-03-30T02:54:16.521Z"
+generated_at: "2026-11-23T21:25:44.216Z"
+status: "active"
 ---
 
 # § 3612. Collection of unpaid fine or restitution
@@ -59,3 +60,47 @@ generated_at: "2026-03-30T02:54:16.521Z"
     - **(B)** obtaining restitution orders from the district courts of the United States; and
     - **(C)** collecting restitution ordered by the district courts of the United States.
   - **(4)** Not later than 3 years after the date on which the report required under paragraph (1) is submitted, the Comptroller General of the United States shall prepare and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report on the implementation by the Attorney General of the best practices recommended under paragraph (3).
+
+Notification of Receipt and Related Matters
+
+Information to be Included in Judgment; Judgment to be Transmitted to Attorney General
+
+Responsibility for Collection
+
+Notification of Delinquency
+
+Notification of Default
+
+Interest on Fines and restitution.—
+
+In general
+
+Computation
+
+Modification of interest by court
+
+Penalty for Delinquent Fine
+
+Waiver of Interest or Penalty by Attorney General
+
+Application of Payments
+
+Evaluation of Offices of the United States Attorney and Department Components.—
+
+In general
+
+Requirement
+
+GAO Reports.—
+
+Report
+
+Contents
+
+Recommendations
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 212(a)(2)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2004](https://www.govinfo.gov/link/statute/98/2004); amended [Pub. L. 100–185, § 11](https://www.govinfo.gov/link/plaw/100/public/185), Dec. 11, 1987, [101 Stat. 1283](https://www.govinfo.gov/link/statute/101/1283); [Pub. L. 100–690, title VII, § 7082(c)](https://www.govinfo.gov/link/plaw/100/public/690), (d), Nov. 18, 1988, [102 Stat. 4408](https://www.govinfo.gov/link/statute/102/4408); [Pub. L. 101–647, title XXXV, § 3592](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4931](https://www.govinfo.gov/link/statute/104/4931); [Pub. L. 104–132, title II, § 207(c)(2)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1237](https://www.govinfo.gov/link/statute/110/1237); [Pub. L. 106–554, § 1(a)(7) [title III, § 307(b)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–635; [Pub. L. 107–273, div. B, title IV, § 4002(b)(15)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1808](https://www.govinfo.gov/link/statute/116/1808); [Pub. L. 114–324, § 18](https://www.govinfo.gov/link/plaw/114/public/324), Dec. 16, 2016, [130 Stat. 1962](https://www.govinfo.gov/link/statute/130/1962).)*

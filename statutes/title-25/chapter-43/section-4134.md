@@ -3,9 +3,10 @@ title: "Section 4134 - Types of investments"
 usc_title: 25
 usc_section: "4134"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4134"
-generated_at: "2026-03-30T02:54:52.859Z"
+generated_at: "2026-11-23T21:25:54.708Z"
+status: "active"
 ---
 
 # § 4134. Types of investments
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:52.859Z"
   - **(1)** the discretion to use grant amounts for affordable housing activities through equity investments, interest-bearing loans or advances, noninterest-bearing loans or advances, interest subsidies, leveraging of private investments, or any other form of assistance that the Secretary has determined to be consistent with the purposes of this chapter; and
   - **(2)** the right to establish the terms of assistance.
 - **(b)** A recipient may invest grant amounts for the purposes of carrying out affordable housing activities in investment securities and other obligations as approved by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 104–330, title II, § 204](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4033](https://www.govinfo.gov/link/statute/110/4033).)*

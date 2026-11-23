@@ -3,9 +3,10 @@ title: "Section 108 - Limitations on exclusive rights: Reproduction by libraries
 usc_title: 17
 usc_section: "108"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 108"
-generated_at: "2026-03-30T02:54:15.344Z"
+generated_at: "2026-11-23T21:25:41.687Z"
+status: "active"
 ---
 
 # § 108. Limitations on exclusive rights: Reproduction by libraries and archives
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:54:15.344Z"
     - **(C)** the copyright owner or its agent provides notice pursuant to regulations promulgated by the Register of Copyrights that either of the conditions set forth in subparagraphs (A) and (B) applies.
   - **(3)** The exemption provided in this subsection does not apply to any subsequent uses by users other than such library or archives.
 - **(i)** The rights of reproduction and distribution under this section do not apply to a musical work, a pictorial, graphic or sculptural work, or a motion picture or other audiovisual work other than an audiovisual work dealing with news, except that no such limitation shall apply with respect to rights granted by subsections (b), (c), and (h), or with respect to pictorial or graphic works published as illustrations, diagrams, or similar adjuncts to works of which copies are reproduced or distributed in accordance with subsections (d) and (e).
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2546](https://www.govinfo.gov/link/statute/90/2546); [Pub. L. 102–307, title III, § 301](https://www.govinfo.gov/link/plaw/102/public/307), June 26, 1992, [106 Stat. 272](https://www.govinfo.gov/link/statute/106/272); [Pub. L. 105–80, § 12(a)(4)](https://www.govinfo.gov/link/plaw/105/public/80), Nov. 13, 1997, [111 Stat. 1534](https://www.govinfo.gov/link/statute/111/1534); [Pub. L. 105–298, title I, § 104](https://www.govinfo.gov/link/plaw/105/public/298), Oct. 27, 1998, [112 Stat. 2829](https://www.govinfo.gov/link/statute/112/2829); [Pub. L. 105–304, title IV, § 404](https://www.govinfo.gov/link/plaw/105/public/304), Oct. 28, 1998, [112 Stat. 2889](https://www.govinfo.gov/link/statute/112/2889); [Pub. L. 109–9, title IV, § 402](https://www.govinfo.gov/link/plaw/109/public/9), Apr. 27, 2005, [119 Stat. 227](https://www.govinfo.gov/link/statute/119/227).)*

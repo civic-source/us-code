@@ -3,12 +3,30 @@ title: "Section 8104 - Vocational rehabilitation"
 usc_title: 5
 usc_section: "8104"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8104"
-generated_at: "2026-03-30T02:52:56.041Z"
+generated_at: "2026-11-23T21:25:23.348Z"
+status: "active"
 ---
 
 # § 8104. Vocational rehabilitation
 
 - **(a)** The Secretary of Labor may direct a permanently disabled individual whose disability is compensable under this subchapter to undergo vocational rehabilitation. The Secretary shall provide for furnishing the vocational rehabilitation services. In providing for these services, the Secretary, insofar as practicable, shall use the services or facilities of State agencies and corresponding agencies which cooperate with the Secretary of Health, Education, and Welfare in carrying out the purposes of chapter 4 of title 29, except to the extent that the Secretary of Labor provides for furnishing these services under section 8103 of this title . The cost of providing these services to individuals undergoing vocational rehabilitation under this section shall be paid from the Employees’ Compensation Fund. However, in reimbursing a State or corresponding agency under an arrangement pursuant to this section the cost to the agency reimbursable in full under section 32(b)(1) of title 29 is excluded.
 - **(b)** Notwithstanding section 8106, individuals directed to undergo vocational rehabilitation by the Secretary shall, while undergoing such rehabilitation, receive compensation at the rate provided in sections 8105 and 8110 of this title, less the amount of any earnings received from remunerative employment, other than employment undertaken pursuant to such rehabilitation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 759(b) . | Oct. 14, 1949, ch. 691, § 202(a) , 63 Stat. 862 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 759(b)
+
+Oct. 14, 1949, ch. 691, § 202(a)
+
+63 Stat. 862
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 535](https://www.govinfo.gov/link/statute/80/535); [Pub. L. 93–416, § 3](https://www.govinfo.gov/link/plaw/93/public/416), Sept. 7, 1974, [88 Stat. 1144](https://www.govinfo.gov/link/statute/88/1144).)*

@@ -3,9 +3,10 @@ title: "Section 6502 - Definitions"
 usc_title: 7
 usc_section: "6502"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6502"
-generated_at: "2026-03-30T02:53:42.431Z"
+generated_at: "2026-11-23T21:25:28.390Z"
+status: "active"
 ---
 
 # § 6502. Definitions
@@ -49,3 +50,7 @@ As used in this chapter:
   - **(20)** The term “Secretary” means the Secretary of Agriculture.
   - **(21)** The term “State organic certification program” means a program that meets the requirements of section 6506 of this title , is approved by the Secretary, and that is designed to ensure that a product that is sold or labeled as “organically produced” under this chapter is produced and handled using organic methods.
   - **(22)** The term “synthetic” means a substance that is formulated or manufactured by a chemical process or by a process that chemically changes a substance extracted from naturally occurring plant, animal, or mineral sources, except that such term shall not apply to substances created by naturally occurring biological processes.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XXI, § 2103](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3935](https://www.govinfo.gov/link/statute/104/3935); [Pub. L. 115–334, title X, § 10104(b)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4899](https://www.govinfo.gov/link/statute/132/4899).)*

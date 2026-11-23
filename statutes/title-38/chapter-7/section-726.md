@@ -3,9 +3,10 @@ title: "Section 726 - Annual report on performance awards and bonuses awarded to
 usc_title: 38
 usc_section: "726"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 726"
-generated_at: "2026-03-30T02:55:53.475Z"
+generated_at: "2026-11-23T21:26:16.564Z"
+status: "active"
 ---
 
 # § 726. Annual report on performance awards and bonuses awarded to certain high-level employees
@@ -27,3 +28,13 @@ generated_at: "2026-03-30T02:55:53.475Z"
       - **(i)** in an administrative or executive position; and
       - **(ii)** appointed under section 7306(a) or section 7401(1) of this title .
   - **(3)** The term “career appointee” has the meaning given that term in section 3132(a) of title 5 .
+
+In General
+
+Elements
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 115–182, title V, § 501(a)](https://www.govinfo.gov/link/plaw/115/public/182), June 6, 2018, [132 Stat. 1474](https://www.govinfo.gov/link/statute/132/1474); amended [Pub. L. 115–251, title II, § 211(a)(1)](https://www.govinfo.gov/link/plaw/115/public/251), Sept. 29, 2018, [132 Stat. 3174](https://www.govinfo.gov/link/statute/132/3174).)*

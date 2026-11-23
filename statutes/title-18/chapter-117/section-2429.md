@@ -3,9 +3,10 @@ title: "Section 2429 - Mandatory restitution"
 usc_title: 18
 usc_section: "2429"
 chapter: 117
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2429"
-generated_at: "2026-03-30T02:54:16.506Z"
+generated_at: "2026-11-23T21:25:44.156Z"
+status: "active"
 ---
 
 # § 2429. Mandatory restitution
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:16.506Z"
   - **(3)** As used in this subsection, the term “full amount of the victim’s losses” has the same meaning as provided in section 2259(b)(3).
 - **(c)** The forfeiture of property under this section shall be governed by the provisions of section 413 (other than subsection (d) of such section) of the Controlled Substances Act ( 21 U.S.C. 853 ).
 - **(d)** As used in this section, the term “victim” means the individual harmed as a result of a crime under this chapter, including, in the case of a victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the victim or a representative of the victim’s estate, or another family member, or any other person appointed as suitable by the court, but in no event shall the defendant be named such representative or guardian.
+
+## Source Credit
+
+*(Added [Pub. L. 115–392, § 3(a)](https://www.govinfo.gov/link/plaw/115/public/392), Dec. 21, 2018, [132 Stat. 5251](https://www.govinfo.gov/link/statute/132/5251).)*

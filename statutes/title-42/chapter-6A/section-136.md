@@ -3,9 +3,10 @@ title: "Section 136 - Provision of information upon request and for scheduled ap
 usc_title: 42
 usc_section: "136"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 136"
-generated_at: "2026-03-30T02:56:10.839Z"
+generated_at: "2026-11-23T21:26:30.923Z"
+status: "active"
 ---
 
 # § 300gg–136. Provision of information upon request and for scheduled appointments
@@ -16,3 +17,7 @@ Each health care provider and health care facility shall, beginning January 1, 2
   - **(2)** provide a notification (in clear and understandable language) of the good faith estimate of the expected charges for furnishing such item or service (including any item or service that is reasonably expected to be provided in conjunction with such scheduled item or service and such an item or service reasonably expected to be so provided by another health care provider or health care facility), with the expected billing and diagnostic codes for any such item or service, to—
     - **(A)** in the case the individual is enrolled in such a plan or such coverage (and is seeking to have a claim for such item or service submitted to such plan or coverage), such plan or issuer of such coverage; and
     - **(B)** in the case the individual is not described in subparagraph (A) and not enrolled in a Federal health care program, the individual.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVII, § 2799B–6, as added [Pub. L. 116–260, div. BB, title I, § 112](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2866](https://www.govinfo.gov/link/statute/134/2866).)*

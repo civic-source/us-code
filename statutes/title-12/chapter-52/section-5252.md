@@ -3,9 +3,10 @@ title: "Section 5252 - Reports by the Office of Management and Budget and the Co
 usc_title: 12
 usc_section: "5252"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5252"
-generated_at: "2026-03-30T02:53:53.527Z"
+generated_at: "2026-11-23T21:25:37.236Z"
+status: "active"
 ---
 
 # § 5252. Reports by the Office of Management and Budget and the Congressional Budget Office
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:53.527Z"
 - **(c)** In carrying out the duties in this subsection 1 1 So in original. Probably should be “section”. or performing analyses of activities under this chapter, the Director of the Congressional Budget Office may employ personnel and procure the services of experts and consultants.
 - **(d)** There are authorized to be appropriated such sums as may be necessary to produce reports required by this section.
 - **(e)** Notwithstanding the previous provisions of this section, the reporting and comment requirements under this section shall terminate with the annual period on the last day of which all troubled assets acquired by the Secretary under section 5211 of this title have been sold or transferred out of the ownership or control of the Federal Government.
+
+## Source Credit
+
+*([Pub. L. 110–343, div. A, title II, § 202](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3800](https://www.govinfo.gov/link/statute/122/3800); [Pub. L. 112–204, § 1(b)(1)](https://www.govinfo.gov/link/plaw/112/public/204), Dec. 4, 2012, [126 Stat. 1485](https://www.govinfo.gov/link/statute/126/1485).)*

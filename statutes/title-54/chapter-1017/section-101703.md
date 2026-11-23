@@ -3,9 +3,10 @@ title: "Section 101703 - Cooperative management agreements"
 usc_title: 54
 usc_section: "101703"
 chapter: 1017
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "54 U.S.C. § 101703"
-generated_at: "2026-03-30T02:56:28.415Z"
+generated_at: "2026-11-23T21:26:42.767Z"
+status: "active"
 ---
 
 # § 101703. Cooperative management agreements
@@ -23,3 +24,61 @@ generated_at: "2026-03-30T02:56:28.415Z"
   - **(2)** The term “Indian Tribe” has the meaning given the term in section 4(e) of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304(e) ).
   - **(3)** The term “State” means each of the several States, the District of Columbia, and each territory of the United States.
   - **(4)** The term “Tribal organization” has the meaning given the term in section 4( l ) of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304 ( 1 )).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 101703 | 16 U.S.C. 1a–2 (matter before (a)). | Pub. L. 91–383, § 3 (matter before (a)), Aug. 18, 1970 , 84 Stat. 826 . |
+|  | 16 U.S.C. 1a–2 ( l ). | Pub. L. 91–383, § 3 ( l ), as added Pub. L. 105–391, title VIII, § 802(a) , Nov. 13, 1998 , 112 Stat. 3523 . |
+
+
+In General
+
+Provision of Goods and Services.—
+
+In general
+
+Retention of funds
+
+Co-location
+
+Employees.—
+
+Assignment of employee
+
+Extension of assignment
+
+Definitions
+
+Eligible entity
+
+Indian tribe
+
+State
+
+Tribal organization
+
+Historical and Revision Notes
+
+101703
+
+16 U.S.C. 1a–2
+
+Pub. L. 91–383, § 3
+
+Aug. 18, 1970
+
+84 Stat. 826
+
+16 U.S.C. 1a–2
+
+Pub. L. 91–383, § 3
+
+Pub. L. 105–391, title VIII, § 802(a)
+
+Nov. 13, 1998
+
+112 Stat. 3523
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3136](https://www.govinfo.gov/link/statute/128/3136); [Pub. L. 118–234, title I, § 152](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2867](https://www.govinfo.gov/link/statute/138/2867).)*

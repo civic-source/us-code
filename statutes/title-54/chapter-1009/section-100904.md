@@ -3,9 +3,10 @@ title: "Section 100904 - Admission and special recreation use fees"
 usc_title: 54
 usc_section: "100904"
 chapter: 1009
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "54 U.S.C. § 100904"
-generated_at: "2026-03-30T02:56:28.413Z"
+generated_at: "2026-11-23T21:26:42.760Z"
+status: "active"
 ---
 
 # § 100904. Admission and special recreation use fees
@@ -42,3 +43,108 @@ generated_at: "2026-03-30T02:56:28.413Z"
   - **(5)** This subsection shall apply to aircraft entering the airspace of—
     - **(A)** Haleakala̅ Crater, Crater Cabins, the Scientific Research Reserve, Halemauu Trail, Kaupo Gap Trail, or any designated tourist viewpoint in Haleakala̅ National Park or of Grand Canyon National Park; or
     - **(B)** any other System unit for the specific purpose of providing commercial tour services if the Secretary determines that the level of the services is equal to or greater than the level at the System units specified in subparagraph (A).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 100904(a) | 16 U.S.C. 460 l –6a(i)(1)(C). | Pub. L. 88–578, title I, § 4(i)(1)(C) , as added Pub. L. 105–327, § 1 , Oct. 30, 1998 , 112 Stat. 3055 ; Pub. L. 108–447, div. J, title VIII, § 813(a) , Dec. 8, 2004 , 118 Stat. 3390 , as amended Pub. L. 109–54, title I, § 132 , Aug. 2, 2005 , 119 Stat. 526 . |
+| 100904(b) through (e) | 16 U.S.C. 460 l –6a(j) through (m). | Pub. L. 88–578, title I, § 4(j) through (m), as added Pub. L. 100–203, title V, § 5201(c) , Dec. 22, 1987 , 101 Stat. 1330–265 . |
+| 100904(f) | 16 U.S.C. 460 l –6a(n). | Pub. L. 88–578, title I, § 4(n) , as added Pub. L. 103–66, title X, § 10002(c) , Aug. 10, 1993 , 107 Stat. 404 . |
+
+
+System Units at Which Entrance Fees or Admissions Fees Cannot Be Collected.—
+
+Withholding of amounts
+
+Use of amounts
+
+Allocation of Funds to System Units.—
+
+Allocation of funds on basis of need
+
+Allocation of funds based on expenses and based on fees collected.—
+
+In general
+
+Allocation based on expenses
+
+Allocation based on fees collected
+
+Availability of amounts
+
+Selling of Permits.—
+
+Authority to sell permits
+
+Surety bond required
+
+Charge for Transportation Provided by Service for Viewing System Units.—
+
+Charge when transportation provided
+
+Retention of charge and use of retained amount
+
+Admission Fees
+
+Commercial Tour Use Fees.—
+
+Establishment
+
+Amount
+
+Adjustments
+
+Nonapplicability
+
+Applicability
+
+Historical and Revision Notes
+
+100904(a)
+
+16 U.S.C. 460
+
+Pub. L. 88–578, title I, § 4(i)(1)(C)
+
+Pub. L. 105–327, § 1
+
+Oct. 30, 1998
+
+112 Stat. 3055
+
+Pub. L. 108–447, div. J, title VIII, § 813(a)
+
+Dec. 8, 2004
+
+118 Stat. 3390
+
+Pub. L. 109–54, title I, § 132
+
+Aug. 2, 2005
+
+119 Stat. 526
+
+16 U.S.C. 460
+
+Pub. L. 88–578, title I, § 4(j)
+
+Pub. L. 100–203, title V, § 5201(c)
+
+Dec. 22, 1987
+
+101 Stat. 1330–265
+
+100904(f)
+
+16 U.S.C. 460
+
+Pub. L. 88–578, title I, § 4(n)
+
+Pub. L. 103–66, title X, § 10002(c)
+
+Aug. 10, 1993
+
+107 Stat. 404
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3115](https://www.govinfo.gov/link/statute/128/3115).)*

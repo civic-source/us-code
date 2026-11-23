@@ -3,9 +3,10 @@ title: "Section 2000bb - Congressional findings and declaration of purposes"
 usc_title: 42
 usc_section: "2000bb"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2000bb"
-generated_at: "2026-03-30T02:56:11.140Z"
+generated_at: "2026-11-23T21:26:32.296Z"
+status: "active"
 ---
 
 # § 2000bb. Congressional findings and declaration of purposes
@@ -19,3 +20,21 @@ generated_at: "2026-03-30T02:56:11.140Z"
 - **(b)** The purposes of this chapter are—
   - **(1)** to restore the compelling interest test as set forth in Sherbert v. Verner, 374 U.S. 398 (1963) and Wisconsin v. Yoder, 406 U.S. 205 (1972) and to guarantee its application in all cases where free exercise of religion is substantially burdened; and
   - **(2)** to provide a claim or defense to persons whose religious exercise is substantially burdened by government.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 103–141, § 2](https://www.govinfo.gov/link/plaw/103/public/141), Nov. 16, 1993, [107 Stat. 1488](https://www.govinfo.gov/link/statute/107/1488).)*

@@ -3,9 +3,10 @@ title: "Section 210 - Proceedings before Secretary for violations"
 usc_title: 7
 usc_section: "210"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 210"
-generated_at: "2026-03-30T02:53:42.278Z"
+generated_at: "2026-11-23T21:25:27.931Z"
+status: "active"
 ---
 
 # § 210. Proceedings before Secretary for violations
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.278Z"
 - **(d)** No complaint shall at any time be dismissed because of the absence of direct damage to the complainant.
 - **(e)** If after hearing on a complaint the Secretary determines that the complainant is entitled to an award of damages, the Secretary shall make an order directing the defendant to pay to the complainant the sum to which he is entitled on or before a day named.
 - **(f)** If the defendant does not comply with an order for the payment of money within the time limit in such order, the complainant, or any person for whose benefit such order was made, may within one year of the date of the order file in the district court of the United States for the district in which he resides or in which is located the principal place of business of the defendant or in any State court having general jurisdiction of the parties, a petition setting forth briefly the causes for which he claims damages, and the order of the Secretary in the premises. Such suit in the district court shall proceed in all respects like other civil suits for damages except that the findings and orders of the Secretary shall be prima facie evidence of the facts therein stated, and the petitioner shall not be liable for costs in the district court nor for costs at any subsequent stage of the proceedings unless they accrue upon his appeal. If the petitioner finally prevails, he shall be allowed a reasonable attorney’s fee to be taxed and collected as a part of the costs of the suit.
+
+## Source Credit
+
+*(Aug. 15, 1921, ch. 64, title III, § 309, [42 Stat. 165](https://www.govinfo.gov/link/statute/42/165); [Pub. L. 94–410, § 3(c)](https://www.govinfo.gov/link/plaw/94/public/410), Sept. 13, 1976, [90 Stat. 1249](https://www.govinfo.gov/link/statute/90/1249).)*

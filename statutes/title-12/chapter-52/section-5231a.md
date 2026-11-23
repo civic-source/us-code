@@ -3,9 +3,10 @@ title: "Section 5231a - Public-Private Investment Program; additional appropriat
 usc_title: 12
 usc_section: "5231a"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5231a"
-generated_at: "2026-03-30T02:53:53.526Z"
+generated_at: "2026-11-23T21:25:37.235Z"
+status: "active"
 ---
 
 # § 5231a. Public-Private Investment Program; additional appropriations for the Special Inspector General for the Troubled Asset Relief Program
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:53.526Z"
   - **(2)** funded by a combination of cash or equity from private investors and funds provided by the Secretary of the Treasury or funds appropriated under the Emergency Economic Stabilization Act of 2008 [ 12 U.S.C. 5201 et seq.].
 - **(f)**
 - **(g)** The Secretary of the Treasury may prescribe such regulations or other guidance as may be necessary or appropriate to define terms or carry out the authorities or purposes of this section.
+
+## Source Credit
+
+*([Pub. L. 111–22, div. A, title IV, § 402](https://www.govinfo.gov/link/plaw/111/public/22), May 20, 2009, [123 Stat. 1656](https://www.govinfo.gov/link/statute/123/1656).)*

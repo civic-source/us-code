@@ -3,9 +3,10 @@ title: "Section 46103 - Meetings"
 usc_title: 46
 usc_section: "46103"
 chapter: 461
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 46103"
-generated_at: "2026-03-30T02:56:15.567Z"
+generated_at: "2026-11-23T21:26:37.208Z"
+status: "active"
 ---
 
 # § 46103. Meetings
@@ -27,3 +28,38 @@ generated_at: "2026-03-30T02:56:15.567Z"
   - **(6)** Nothing in this subsection may be construed—
     - **(A)** to limit the applicability of section 552b of title 5 with respect to any information which is proposed to be withheld from the public under paragraph (2)(B) of this subsection; or
     - **(B)** to authorize the Commission to withhold from any individual any record that is accessible to that individual under section 552a of title 5 .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 303 | 46 App.:1111(c) (related to records). | June 29, 1936, ch. 858 , title II, § 201(c) (related to records), 49 Stat. 1986 . |
+
+
+In General
+
+Record
+
+Nonpublic Collaborative Discussions.—
+
+In general
+
+Disclosure of nonpublic collaborative discussions
+
+Exception
+
+Ongoing proceedings
+
+Preservation of open meetings requirements for agency action
+
+Statutory construction
+
+Historical and Revision Notes
+
+303
+
+June 29, 1936, ch. 858
+
+49 Stat. 1986
+
+## Source Credit
+
+*([Pub. L. 109–304, § 4](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1489](https://www.govinfo.gov/link/statute/120/1489), § 303; [Pub. L. 115–282, title VII, § 711(a)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4297](https://www.govinfo.gov/link/statute/132/4297); renumbered § 46103 and amended [Pub. L. 116–283, div. G, title LVXXXVI](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXVI], § 8605(a)(3), (c), Jan. 1, 2021, [134 Stat. 4765](https://www.govinfo.gov/link/statute/134/4765).)*

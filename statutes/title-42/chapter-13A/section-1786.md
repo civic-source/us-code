@@ -3,9 +3,10 @@ title: "Section 1786 - Special supplemental nutrition program for women, infants
 usc_title: 42
 usc_section: "1786"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1786"
-generated_at: "2026-03-30T02:56:11.119Z"
+generated_at: "2026-11-23T21:26:32.175Z"
+status: "active"
 ---
 
 # § 1786. Special supplemental nutrition program for women, infants, and children
@@ -612,3 +613,381 @@ generated_at: "2026-03-30T02:56:11.119Z"
     - **(B)** The Secretary shall make each determination described in subparagraph (A) publicly available on the website of the Department.
     - **(C)** In the case of a waiver or modification under this subsection related to infant formula, a State agency notified under subparagraph (A) shall notify each infant formula manufacturer that has a contract with such State agency with respect to such notification.
   - **(5)** For purposes of this subsection, the term “qualified administrative requirement” has the meaning given the term in subsection (r).
+
+Nutrition education
+
+Remote indian or native village
+
+Primary contract infant formula
+
+State alliance
+
+Supply chain disruption
+
+Combat pay
+
+Certification.—
+
+Procedures.—
+
+In general
+
+Breastfeeding women
+
+Children
+
+Physical presence.—
+
+In general
+
+Waivers
+
+(aa) was present at the initial certification visit; and
+
+(bb) is receiving ongoing health care;
+
+(aa) was present at the initial certification visit;
+
+(bb) was present at a certification or recertification determination within the 1-year period ending on the date of the certification or recertification determination described in clause (i); and
+
+(cc) has one or more parents who work; and
+
+(aa) who cannot be present at certification for a reason determined appropriate by the local agency; and
+
+(bb) for whom all necessary certification information is provided.
+
+Income documentation.—
+
+In general
+
+Waivers
+
+Adjunct documentation
+
+Proof of residency
+
+Nutrition education materials.—
+
+In general
+
+Sharing of materials with other programs.—
+
+Commodity supplemental food program
+
+Child and adult care food program
+
+Supplemental foods.—
+
+In general
+
+Appropriate content
+
+Review of available supplemental foods
+
+Use of claims from local agencies, vendors, and participants
+
+Individuals participating at more than one site
+
+High risk vendors
+
+Infant formula benefits
+
+Notification of violations
+
+In general.—
+
+Authorization
+
+Advance appropriations; availability
+
+Remaining amounts.—
+
+In general
+
+Breast pumps
+
+Requirements.—
+
+In general
+
+Exemplary breastfeeding support practices.—
+
+In general
+
+Authorization of appropriations
+
+Performance bonuses.—
+
+In general
+
+Consideration
+
+Use of funds
+
+Implementation
+
+Remote indian or native villages
+
+Competitive bidding system
+
+Size of state alliances.—
+
+In general
+
+Addition of infant participants
+
+Addition of small state agencies and indian state agencies
+
+Secretarial waiver
+
+First choice of issuance
+
+Rebate invoices
+
+Separate solicitations
+
+Cent-for-cent adjustments
+
+List of infant formula wholesalers, distributors, retailers, and manufacturers
+
+Purchase requirement
+
+Reporting
+
+Infant formula cost containment contract requirement.—
+
+In general
+
+Rebates
+
+Memorandum of understanding
+
+Cost containment measure.—
+
+Definition of cost containment measure
+
+Solicitation and rebate billing requirements
+
+State alliances for authorized foods other than infant formula
+
+Funds for infrastructure, management information systems, and special nutrition education.—
+
+In general
+
+Purposes
+
+Adjustment
+
+Proportional distribution
+
+Vendor cost containment.—
+
+Peer groups.—
+
+In general
+
+(aa) distinguish between vendors described in subparagraph (D)(ii)(I) and other vendors by establishing— (AA) separate peer groups for vendors described in subparagraph (D)(ii)(I); or (BB) distinct competitive price criteria and allowable reimbursement levels for vendors described in subparagraph (D)(ii)(I) within a peer group that contains both vendors described in subparagraph (D)(ii)(I) and other vendors; and
+
+(bb) establish competitive price criteria and allowable reimbursement levels that comply with subparagraphs (B) and (C), respectively, and that do not result in higher food costs if program participants redeem supplemental food vouchers at vendors described in subparagraph (D)(ii)(I) rather than at vendors other than vendors described in subparagraph (D)(ii)(I).
+
+Exemptions
+
+(aa) compliance with clause (i) would be inconsistent with efficient and effective operation of the program administered by the State under this section; or
+
+(bb) an alternative cost-containment system would be as effective as a vendor peer group system; or
+
+(aa) in which the sale of supplemental foods that are obtained with food instruments from vendors described in subparagraph (D)(ii)(I) constituted less than 5 percent of total sales of supplemental foods that were obtained with food instruments in the State in the year preceding a year in which the exemption is effective; and
+
+(bb) that demonstrates to the Secretary that an alternative cost-containment system would be as effective as the vendor peer group system and would not result in higher food costs if program participants redeem supplemental food vouchers at vendors described in subparagraph (D)(ii)(I) rather than at vendors other than vendors described in subparagraph (D)(ii)(I).
+
+Competitive pricing.—
+
+In general
+
+(aa) the shelf prices of the vendor for all buyers; or
+
+(bb) the prices that the vendor bid for supplemental foods, which shall not exceed the shelf prices of the vendor for all buyers.
+
+Participant access
+
+Subsequent price increases
+
+Allowable reimbursement levels.—
+
+In general
+
+Price fluctuations
+
+Participant access
+
+Exemptions
+
+(aa) for which more than 50 percent of the annual revenue of the vendor from the sale of food items consists of revenue from the sale of supplemental foods that are obtained with food instruments; or
+
+(bb) who are new applicants likely to meet the criteria of item (aa) under criteria approved by the Secretary; and
+
+Cost containment
+
+Limitation on private rights of action
+
+Implementation
+
+Electronic benefit transfer.—
+
+Definitions
+
+Electronic benefit transfer
+
+Program
+
+Requirements.—
+
+In general
+
+Responsibility
+
+Exemptions.—
+
+In general
+
+Specific date
+
+Reporting.—
+
+In general
+
+Consultation
+
+Requirements
+
+Imposition of costs on vendors.—
+
+Cost prohibition
+
+Cost-sharing
+
+Fees.—
+
+In general
+
+Interchange fees
+
+Statewide operations
+
+Minimum lane coverage.—
+
+In general
+
+Provision of equipment
+
+Technical standards
+
+Universal product codes database.—
+
+In general
+
+Funding.—
+
+In general
+
+Receipt and acceptance
+
+Use of funds
+
+Incentive items
+
+Temporary spending authority
+
+Funding.—
+
+Authorization of appropriations
+
+In general
+
+Allocation of funds
+
+“The Secretary of Agriculture shall promulgate—
+
+“The Secretary of Agriculture shall promulgate—
+
+“The Secretary of Agriculture shall promulgate—
+
+Definitions
+
+Applicable period
+
+Cash-value voucher
+
+Program
+
+Qualified food package
+
+Secretary
+
+State agency
+
+Authority to Increase Amount of Cash-value Voucher
+
+Application of Increased Amount of Cash-value Voucher to State Agencies.—
+
+Notification
+
+Use of increased amount
+
+Sunset
+
+Funding
+
+Waiver Authority.—
+
+In general
+
+Request
+
+Reports.—
+
+Local agency reports
+
+State agency reports
+
+Sunset
+
+Definitions
+
+Local agency
+
+Nutritional risk
+
+Secretary
+
+State agency
+
+Waiver Authority.—
+
+In general
+
+Qualified administrative requirement
+
+State Agency Reports
+
+Sunset
+
+In general
+
+Report
+
+In general
+
+Report
+
+Findings.—
+
+Purposes
+
+“The purpose of this Act [amending this section and enacting provisions set out as notes under this section and section 1771 of this title ] is to authorize grants to be made to State programs designed to—
+
+“The purpose of this section is to authorize the establishment of a grant program to encourage State demonstration projects designed to—
+
+## Source Credit
+
+*([Pub. L. 89–642, § 17](https://www.govinfo.gov/link/plaw/89/public/642), as added [Pub. L. 92–433, § 9](https://www.govinfo.gov/link/plaw/92/public/433), Sept. 26, 1972, [86 Stat. 729](https://www.govinfo.gov/link/statute/86/729); amended [Pub. L. 93–150, § 6](https://www.govinfo.gov/link/plaw/93/public/150), Nov. 7, 1973, [87 Stat. 563](https://www.govinfo.gov/link/statute/87/563); [Pub. L. 93–326, § 6](https://www.govinfo.gov/link/plaw/93/public/326), June 30, 1974, [88 Stat. 287](https://www.govinfo.gov/link/statute/88/287); [Pub. L. 94–28](https://www.govinfo.gov/link/plaw/94/public/28), May 28, 1975, [89 Stat. 96](https://www.govinfo.gov/link/statute/89/96); [Pub. L. 94–105, § 14](https://www.govinfo.gov/link/plaw/94/public/105), Oct. 7, 1975, [89 Stat. 518](https://www.govinfo.gov/link/statute/89/518); [Pub. L. 95–166](https://www.govinfo.gov/link/plaw/95/public/166), §§ 18, 20(6), Nov. 10, 1977, [91 Stat. 1345](https://www.govinfo.gov/link/statute/91/1345), 1346; [Pub. L. 95–627, § 3](https://www.govinfo.gov/link/plaw/95/public/627), Nov. 10, 1978, [92 Stat. 3611](https://www.govinfo.gov/link/statute/92/3611); [Pub. L. 96–108, title III, § 301](https://www.govinfo.gov/link/plaw/96/public/108), Nov. 9, 1979, [93 Stat. 838](https://www.govinfo.gov/link/statute/93/838); [Pub. L. 96–499, title II, § 203(d)](https://www.govinfo.gov/link/plaw/96/public/499), Dec. 5, 1980, [94 Stat. 2601](https://www.govinfo.gov/link/statute/94/2601); [Pub. L. 97–35, title VIII, § 815](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 531](https://www.govinfo.gov/link/statute/95/531); [Pub. L. 99–500, title III](https://www.govinfo.gov/link/plaw/99/public/500), §§ 314, 341, 342(a), 343, 344(a), 345–348(a), 349–353(a), 372(b)(1), Oct. 18, 1986, [100 Stat. 1783–360](https://www.govinfo.gov/link/statute/100/1783), 1783–364 to 1783–367, 1783–369, and [Pub. L. 99–591, title III](https://www.govinfo.gov/link/plaw/99/public/591), §§ 314, 341, 342(a), 343, 344(a), 345–348(a), 349–353(a), 372(b)(1), Oct. 30, 1986, [100 Stat. 3341–363](https://www.govinfo.gov/link/statute/100/3341), 3341–367 to 3341–370, 3341–372; [Pub. L. 99–661, div. D, title I, § 4104](https://www.govinfo.gov/link/plaw/99/public/661), title III, §§ 4301, 4302(a), 4303, 4304(a), 4305–4308(a), 4309–4313(a), title V, § 4502(b)(1), Nov. 14, 1986, [100 Stat. 4071](https://www.govinfo.gov/link/statute/100/4071), 4075–4078, 4080; [Pub. L. 100–71, title I](https://www.govinfo.gov/link/plaw/100/public/71), July 11, 1987, [101 Stat. 425](https://www.govinfo.gov/link/statute/101/425); [Pub. L. 100–237](https://www.govinfo.gov/link/plaw/100/public/237), §§ 8(a), (b), 9, 11, 12, Jan. 8, 1988, [101 Stat. 1740](https://www.govinfo.gov/link/statute/101/1740), 1741; [Pub. L. 100–356, § 3](https://www.govinfo.gov/link/plaw/100/public/356), June 28, 1988, [102 Stat. 669](https://www.govinfo.gov/link/statute/102/669); [Pub. L. 100–435, title II, § 212](https://www.govinfo.gov/link/plaw/100/public/435), title V, § 501(b), Sept. 19, 1988, [102 Stat. 1657](https://www.govinfo.gov/link/statute/102/1657), 1668; [Pub. L. 100–690, title III, § 3201](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4246](https://www.govinfo.gov/link/statute/102/4246); [Pub. L. 101–147, title I, § 123(a)](https://www.govinfo.gov/link/plaw/101/public/147), title II, § 213(a), title III, § 326, Nov. 10, 1989, [103 Stat. 894](https://www.govinfo.gov/link/statute/103/894), 912, 917; [Pub. L. 101–330](https://www.govinfo.gov/link/plaw/101/public/330), July 12, 1990, [104 Stat. 311](https://www.govinfo.gov/link/statute/104/311); [Pub. L. 102–314, § 3](https://www.govinfo.gov/link/plaw/102/public/314), July 2, 1992, [106 Stat. 280](https://www.govinfo.gov/link/statute/106/280); [Pub. L. 102–342, title II, § 204](https://www.govinfo.gov/link/plaw/102/public/342), Aug. 14, 1992, [106 Stat. 913](https://www.govinfo.gov/link/statute/106/913); [Pub. L. 102–512, title II](https://www.govinfo.gov/link/plaw/102/public/512), §§ 203–207, Oct. 24, 1992, [106 Stat. 3364–3368](https://www.govinfo.gov/link/statute/106/3364); [Pub. L. 103–448, title II, § 204(a)](https://www.govinfo.gov/link/plaw/103/public/448) –(o)(1), (p)–(v)(11), (w)(1), Nov. 2, 1994, [108 Stat. 4738–4745](https://www.govinfo.gov/link/statute/108/4738); [Pub. L. 104–66, title I, § 1011](https://www.govinfo.gov/link/plaw/104/public/66) (l), Dec. 21, 1995, [109 Stat. 710](https://www.govinfo.gov/link/statute/109/710); [Pub. L. 104–193, title I, § 109(h)](https://www.govinfo.gov/link/plaw/104/public/193), title VII, § 729(a)–(g)(1), (h)–(j), Aug. 22, 1996, [110 Stat. 2171](https://www.govinfo.gov/link/statute/110/2171), 2303–2305; [Pub. L. 105–336, title II, § 203(a)](https://www.govinfo.gov/link/plaw/105/public/336) –(f)(1), (g)–(l), (m)–(p)(1), (q), Oct. 31, 1998, [112 Stat. 3158–3165](https://www.govinfo.gov/link/statute/112/3158); [Pub. L. 105–362, title I, § 101(i)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3281](https://www.govinfo.gov/link/statute/112/3281); [Pub. L. 106–65, div. A, title VI, § 674(e)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 675](https://www.govinfo.gov/link/statute/113/675); [Pub. L. 106–78, title VII, § 752(b)(16)](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1170](https://www.govinfo.gov/link/statute/113/1170); [Pub. L. 106–224, title II](https://www.govinfo.gov/link/plaw/106/public/224), §§ 242(b)(1), (2), 244(a)–(e), June 20, 2000, [114 Stat. 411](https://www.govinfo.gov/link/statute/114/411), 412, 421; [Pub. L. 106–472, title III, § 307(b)](https://www.govinfo.gov/link/plaw/106/public/472), Nov. 9, 2000, [114 Stat. 2073](https://www.govinfo.gov/link/statute/114/2073); [Pub. L. 107–171, title IV](https://www.govinfo.gov/link/plaw/107/public/171), §§ 4306(a), 4307(a), May 13, 2002, [116 Stat. 332](https://www.govinfo.gov/link/statute/116/332); [Pub. L. 108–265, title II, § 203(a)](https://www.govinfo.gov/link/plaw/108/public/265) –(c)(2)(A), (3), (4)(A), (5), (d), (e)(1)–(4)(A), (5), (6)(A), (7)(A), (B), (8)–(13), (f)–(i)(1), June 30, 2004, [118 Stat. 771–780](https://www.govinfo.gov/link/statute/118/771); [Pub. L. 108–447, div. A, title VII, § 788(d)](https://www.govinfo.gov/link/plaw/108/public/447), (e), Dec. 8, 2004, [118 Stat. 2851](https://www.govinfo.gov/link/statute/118/2851); [Pub. L. 110–234, title IV, § 4002(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/234), (B), (E), (J), (2)(AA), May 22, 2008, [122 Stat. 1095–1097](https://www.govinfo.gov/link/statute/122/1095); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4002(b)(1)(A), (B), (E), (J), (2)(AA), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1859; [Pub. L. 111–80, title VII, § 734(b)](https://www.govinfo.gov/link/plaw/111/public/80), Oct. 21, 2009, [123 Stat. 2125](https://www.govinfo.gov/link/statute/123/2125); [Pub. L. 111–296, title I, § 131](https://www.govinfo.gov/link/plaw/111/public/296), title II, §§ 231, 232, title III, §§ 351, 352, title IV, §§ 423, 424, 441(b)(2), Dec. 13, 2010, [124 Stat. 3206](https://www.govinfo.gov/link/statute/124/3206), 3229, 3232, 3254, 3260, 3265; [Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1465](https://www.govinfo.gov/link/statute/125/1465); [Pub. L. 112–239, div. A, title X, § 1076(a)(9)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1948](https://www.govinfo.gov/link/statute/126/1948); [Pub. L. 117–129, § 2](https://www.govinfo.gov/link/plaw/117/public/129), May 21, 2022, [136 Stat. 1225](https://www.govinfo.gov/link/statute/136/1225); [Pub. L. 117–263, div. A, title VI, § 626(i)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2630](https://www.govinfo.gov/link/statute/136/2630).)*

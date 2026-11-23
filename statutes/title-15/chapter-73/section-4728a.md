@@ -3,9 +3,10 @@ title: "Section 4728a - State and Federal Export Promotion Coordination Working 
 usc_title: 15
 usc_section: "4728a"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4728a"
-generated_at: "2026-03-30T02:54:08.204Z"
+generated_at: "2026-11-23T21:25:40.006Z"
+status: "active"
 ---
 
 # § 4728a. State and Federal Export Promotion Coordination Working Group
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:08.204Z"
 - **(d)** The Secretary of Commerce shall select the members of the Working Group, who shall include—
   - **(1)** representatives from State trade agencies representing regionally diverse areas; and
   - **(2)** representatives of the departments and agencies that are represented on the TPCC, who are designated by the heads of their respective departments or agencies to advise the head on ways of promoting the exportation of United States goods and services.
+
+## Source Credit
+
+*([Pub. L. 100–418, title II, § 2313A](https://www.govinfo.gov/link/plaw/100/public/418), as added [Pub. L. 114–125, title V, § 504(a)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 177](https://www.govinfo.gov/link/statute/130/177).)*

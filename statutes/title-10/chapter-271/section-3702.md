@@ -3,9 +3,10 @@ title: "Section 3702 - Required cost or pricing data and certification"
 usc_title: 10
 usc_section: "3702"
 chapter: 271
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3702"
-generated_at: "2026-03-30T02:53:38.196Z"
+generated_at: "2026-11-23T21:25:32.735Z"
+status: "active"
 ---
 
 # § 3702. Required cost or pricing data and certification
@@ -35,3 +36,49 @@ generated_at: "2026-03-30T02:53:38.196Z"
 - **(e)** A waiver of requirements for submission of certified cost or pricing data that is granted under section 3703(a)(3) of this title in the case of a contract or subcontract does not waive the requirement under subsection (a)(3) for submission of cost or pricing data in the case of subcontracts under that contract or subcontract unless the head of the procuring activity granting the waiver determines that the requirement under that subsection should be waived in the case of such subcontracts and justifies in writing the reasons for the determination.
 - **(f)** Under subsection (a), in connection with a prime contract entered into on or before June 30, 2018 , the head of the agency that entered into such contract shall modify the contract as soon as practicable to reflect paragraphs (1) and (2) of such subsection, without requiring consideration.
 - **(g)** Effective on October 1 of each year that is divisible by 5, each amount set forth in subsection (a) shall be adjusted in accordance with section 1908 of title 41 .
+
+When Required
+
+Offeror for prime contract
+
+Contractor
+
+Offeror for subcontract
+
+Subcontractor
+
+Certification
+
+To Whom Submitted
+
+Applicability of Chapter
+
+Subcontracts Not Affected by Waiver
+
+Modifications to Prior Contracts
+
+Adjustment of Amounts
+
+“The Secretary of Defense shall develop and implement a plan to collect and analyze data on the use of authority under such section 873 [of Pub. L. 114–92 , set out below] for the purposes of—
+
+Exception From Certified Cost and Pricing Data Requirements
+
+Exception From Records Examination Requirement
+
+Treatment as Competitive Procedures
+
+Discretion To Use Non-certified Accounting Systems
+
+Guidance and Training
+
+Sunset
+
+Definitions
+
+Small business
+
+Nontraditional defense contractor
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1831(a)](https://www.govinfo.gov/link/plaw/116/public/283), (c), Jan. 1, 2021, [134 Stat. 4209](https://www.govinfo.gov/link/statute/134/4209); [Pub. L. 117–81, div. A, title VIII, § 804(b)](https://www.govinfo.gov/link/plaw/117/public/81), title XVII, § 1701(b)(10)(B)–(G), (c)(3), Dec. 27, 2021, [135 Stat. 1816](https://www.govinfo.gov/link/statute/135/1816), 2133, 2134, 2136; [Pub. L. 118–31, div. A, title XVIII, § 1801(a)(29)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 684](https://www.govinfo.gov/link/statute/137/684); [Pub. L. 118–159, div. A, title VIII, § 815](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1980](https://www.govinfo.gov/link/statute/138/1980); [Pub. L. 119–60, div. A, title XVII, § 1701(a)(25)](https://www.govinfo.gov/link/plaw/119/public/60), title XVIII, § 1804(c), Dec. 18, 2025, [139 Stat. 1209](https://www.govinfo.gov/link/statute/139/1209), 1234.)*

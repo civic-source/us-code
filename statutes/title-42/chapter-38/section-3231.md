@@ -3,9 +3,10 @@ title: "Section 3231 - General authorization of appropriations"
 usc_title: 42
 usc_section: "3231"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3231"
-generated_at: "2026-03-30T02:56:11.185Z"
+generated_at: "2026-11-23T21:26:32.549Z"
+status: "active"
 ---
 
 # § 3231. General authorization of appropriations
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:56:11.185Z"
 - **(k)** There are authorized to be appropriated for salaries and expenses of administering this chapter, to remain available until expended—
   - **(1)** $33,377,000 for fiscal year 2004; and
   - **(2)** such sums as are necessary for each fiscal year thereafter.
+
+## Source Credit
+
+*([Pub. L. 89–136, title VII, § 701](https://www.govinfo.gov/link/plaw/89/public/136), as added [Pub. L. 105–393, title I, § 102(b)(3)](https://www.govinfo.gov/link/plaw/105/public/393), Nov. 13, 1998, [112 Stat. 3617](https://www.govinfo.gov/link/statute/112/3617); amended [Pub. L. 108–373, title VII, § 701](https://www.govinfo.gov/link/plaw/108/public/373), Oct. 27, 2004, [118 Stat. 1771](https://www.govinfo.gov/link/statute/118/1771); [Pub. L. 118–272, div. B, title II, § 2236(a)](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3199](https://www.govinfo.gov/link/statute/138/3199).)*

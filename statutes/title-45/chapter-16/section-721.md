@@ -3,9 +3,10 @@ title: "Section 721 - Loans"
 usc_title: 45
 usc_section: "721"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 721"
-generated_at: "2026-03-30T02:55:56.554Z"
+generated_at: "2026-11-23T21:26:19.219Z"
+status: "active"
 ---
 
 # § 721. Loans
@@ -74,3 +75,7 @@ generated_at: "2026-03-30T02:55:56.554Z"
       - **(iii)** neither House of the Congress disapproves such affirmative finding and direction, in accordance with the following provisions of this paragraph.
     - **(B)** The Association shall have a direct claim, as a current expense of administration of the estate of the railroad in reorganization whose obligations were paid with the proceeds of loans forgiven under this paragraph, equal to the amount by which the loans, plus interest, have been forgiven. Such direct claim shall not be subject to any reduction by way of setoff, cross-claim, or counterclaim which the estate of such railroad in reorganization may be entitled to assert against the Corporation, the National Railroad Passenger Corporation, the Association, or the United States. The direct claim of the Association under this paragraph shall be prior to all other administrative claims of the estate of the railroad in reorganization, except claims arising under trustee’s certificates or from default on the payment of such certificates.
   - **(7)** For purposes of this subsection, the term “Corporation” includes a subsidiary of the Corporation.
+
+## Source Credit
+
+*([Pub. L. 93–236, title II, § 211](https://www.govinfo.gov/link/plaw/93/public/236), Jan. 2, 1974, [87 Stat. 1001](https://www.govinfo.gov/link/statute/87/1001); [Pub. L. 94–5, § 5](https://www.govinfo.gov/link/plaw/94/public/5), Feb. 28, 1975, [89 Stat. 8](https://www.govinfo.gov/link/statute/89/8); [Pub. L. 94–210, title VI, § 606](https://www.govinfo.gov/link/plaw/94/public/210), Feb. 5, 1976, [90 Stat. 92](https://www.govinfo.gov/link/statute/90/92); [Pub. L. 94–555, title II](https://www.govinfo.gov/link/plaw/94/public/555), §§ 203(a)–(d), 220(a), Oct. 19, 1976, [90 Stat. 2617](https://www.govinfo.gov/link/statute/90/2617), 2619, 2620, 2629; [Pub. L. 95–611, § 3(a)](https://www.govinfo.gov/link/plaw/95/public/611), Nov. 8, 1978, [92 Stat. 3089](https://www.govinfo.gov/link/statute/92/3089); [Pub. L. 96–73, title II, § 204(b)](https://www.govinfo.gov/link/plaw/96/public/73), Sept. 29, 1979, [93 Stat. 556](https://www.govinfo.gov/link/statute/93/556); [Pub. L. 96–101, § 23](https://www.govinfo.gov/link/plaw/96/public/101), Nov. 4, 1979, [93 Stat. 746](https://www.govinfo.gov/link/statute/93/746); [Pub. L. 96–448, title IV](https://www.govinfo.gov/link/plaw/96/public/448), §§ 407, 408, Oct. 14, 1980, [94 Stat. 1948](https://www.govinfo.gov/link/statute/94/1948); [Pub. L. 105–178, title VII, § 7203(b)(3)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 477](https://www.govinfo.gov/link/statute/112/477).)*

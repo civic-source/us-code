@@ -3,9 +3,10 @@ title: "Section 3012 - Civil penalties"
 usc_title: 39
 usc_section: "3012"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 3012"
-generated_at: "2026-03-30T02:55:43.692Z"
+generated_at: "2026-11-23T21:26:12.780Z"
+status: "active"
 ---
 
 # § 3012. Civil penalties
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:43.692Z"
 - **(d)** Any person who violates section 3001( l ) shall be liable to the United States for a civil penalty not to exceed $10,000 for each mailing to an individual.
 - **(e)** All penalties collected under authority of this section shall be paid into the Treasury of the United States.
 - **(f)** In any proceeding at any time under this section, the defendant shall be entitled as a defense or counterclaim to seek judicial review, if not already had, pursuant to chapter 7 of title 5, of the order issued under section 3005 of this title . However, nothing in this section shall be construed to preclude independent judicial review otherwise available pursuant to chapter 7 of title 5 of an order issued under section 3005 of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 98–186, § 3(a)](https://www.govinfo.gov/link/plaw/98/public/186), Nov. 30, 1983, [97 Stat. 1316](https://www.govinfo.gov/link/statute/97/1316); amended [Pub. L. 106–168, title I, § 106](https://www.govinfo.gov/link/plaw/106/public/168), Dec. 12, 1999, [113 Stat. 1811](https://www.govinfo.gov/link/statute/113/1811).)*

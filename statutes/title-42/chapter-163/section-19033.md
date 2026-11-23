@@ -3,9 +3,10 @@ title: "Section 19033 - Reporting to Congress"
 usc_title: 42
 usc_section: "19033"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19033"
-generated_at: "2026-03-30T02:56:11.537Z"
+generated_at: "2026-11-23T21:26:33.864Z"
+status: "active"
 ---
 
 # § 19033. Reporting to Congress
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.537Z"
     - **(C)** identification and discussion of the gaps in legal authorities that need to be improved to enhance the security of institutions of higher education performing research supported by the Foundation; and
     - **(D)** information on Foundation Inspector General cases, as appropriate, relating to undue influence and security threats to research and development activities funded by the Foundation, including theft of property or intellectual property relating to a project funded by the Foundation at an institution of higher education.
   - **(2)** The report submitted under paragraph (1) shall be submitted in both unclassified and classified formats, as appropriate.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10333](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1552](https://www.govinfo.gov/link/statute/136/1552).)*

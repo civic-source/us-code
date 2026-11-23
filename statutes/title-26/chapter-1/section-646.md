@@ -3,9 +3,10 @@ title: "Section 646 - Tax treatment of electing Alaska Native Settlement Trusts"
 usc_title: 26
 usc_section: "646"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 646"
-generated_at: "2026-03-30T02:55:27.722Z"
+generated_at: "2026-11-23T21:26:06.357Z"
+status: "active"
 ---
 
 # § 646. Tax treatment of electing Alaska Native Settlement Trusts
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:55:27.722Z"
   - **(5)** The term “sponsoring Native Corporation” means the Native Corporation which transfers assets to an electing Settlement Trust.
 - **(i)** Any loss that would otherwise be recognized by a shareholder upon a disposition of a share of stock of a sponsoring Native Corporation shall be reduced (but not below zero) by the per share loss adjustment factor. The per share loss adjustment factor shall be the aggregate of all contributions to all electing Settlement Trusts sponsored by such Native Corporation made on or after the first day each trust is treated as an electing Settlement Trust expressed on a per share basis and determined as of the day of each such contribution.
 - **(j)** For information required with respect to electing Settlement Trusts and sponsoring Native Corporations, see section 6039H.
+
+## Source Credit
+
+*(Added [Pub. L. 107–16, title VI, § 671(a)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 144](https://www.govinfo.gov/link/statute/115/144).)*

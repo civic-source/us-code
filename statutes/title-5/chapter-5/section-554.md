@@ -3,9 +3,10 @@ title: "Section 554 - Adjudications"
 usc_title: 5
 usc_section: "554"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 554"
-generated_at: "2026-03-30T02:52:55.988Z"
+generated_at: "2026-11-23T21:25:23.067Z"
+status: "active"
 ---
 
 # § 554. Adjudications
@@ -31,3 +32,20 @@ generated_at: "2026-03-30T02:52:55.988Z"
     - **(B)** to proceedings involving the validity or application of rates, facilities, or practices of public utilities or carriers; or
     - **(C)** to the agency or a member or members of the body comprising the agency.
 - **(e)** The agency, with like effect as in the case of other orders, and in its sound discretion, may issue a declaratory order to terminate a controversy or remove uncertainty.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 1004 . | June 11, 1946, ch. 324, § 5 , 60 Stat. 239 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 1004
+
+June 11, 1946, ch. 324, § 5
+
+60 Stat. 239
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 384](https://www.govinfo.gov/link/statute/80/384); [Pub. L. 95–251, § 2(a)(1)](https://www.govinfo.gov/link/plaw/95/public/251), Mar. 27, 1978, [92 Stat. 183](https://www.govinfo.gov/link/statute/92/183).)*

@@ -3,9 +3,10 @@ title: "Section 2922d - Procurement of fuel derived from coal, oil shale, and ta
 usc_title: 10
 usc_section: "2922d"
 chapter: 173
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2922d"
-generated_at: "2026-03-30T02:53:38.187Z"
+generated_at: "2026-11-23T21:25:32.708Z"
+status: "active"
 ---
 
 # § 2922d. Procurement of fuel derived from coal, oil shale, and tar sands
@@ -15,3 +16,17 @@ generated_at: "2026-03-30T02:53:38.187Z"
 - **(c)** A covered fuel may be procured under subsection (b) only if the covered fuel meets such standards for clean fuel produced from domestic sources as the Secretary of Defense shall establish for purposes of this section in consultation with the Department of Energy.
 - **(d)** Subject to applicable provisions of law, any contract or other agreement for the procurement of covered fuel under subsection (b) may be for one or more years at the election of the Secretary of Defense.
 - **(e)** In order to facilitate the procurement by the Department of Defense of covered fuel under subsection (b), the Secretary of Defense may carry out a comprehensive assessment of current and potential locations in the United States for the supply of covered fuel to the Department.
+
+Use of Fuel to Meet Department of Defense Needs
+
+Authority to Procure
+
+Clean Fuel Requirements
+
+Multiyear Contract Authority
+
+Fuel Source Analysis
+
+## Source Credit
+
+*(Added [Pub. L. 109–58, title III, § 369(q)(1)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 733](https://www.govinfo.gov/link/statute/119/733), § 2398a; renumbered § 2922d, [Pub. L. 109–364, div. B, title XXVIII, § 2851(b)(2)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2494](https://www.govinfo.gov/link/statute/120/2494); [Pub. L. 111–383, div. A, title X, § 1075(b)(48)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4371](https://www.govinfo.gov/link/statute/124/4371).)*

@@ -3,9 +3,10 @@ title: "Section 6305 - Definitions"
 usc_title: 22
 usc_section: "6305"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6305"
-generated_at: "2026-03-30T02:55:05.427Z"
+generated_at: "2026-11-23T21:25:58.684Z"
+status: "active"
 ---
 
 # § 6305. Definitions
@@ -26,3 +27,7 @@ For purposes of this subchapter—
     - **(A)** an individual who is a citizen of the United States or an alien admitted for permanent residence to the United States; or
     - **(B)** a corporation, partnership, or other nongovernment entity which is not a foreign person; and
   - **(8)** the term “unsafeguarded special nuclear material” means special nuclear material which is held in violation of IAEA safeguards or not subject to IAEA safeguards (excluding any quantity of material that could, if it were exported from the United States, be exported under a general license issued by the Nuclear Regulatory Commission).
+
+## Source Credit
+
+*([Pub. L. 103–236, title VIII, § 830](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 521](https://www.govinfo.gov/link/statute/108/521).)*

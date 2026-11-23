@@ -3,9 +3,10 @@ title: "Section 5437 - Implementation plan and reports"
 usc_title: 12
 usc_section: "5437"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5437"
-generated_at: "2026-03-30T02:53:53.538Z"
+generated_at: "2026-11-23T21:25:37.265Z"
+status: "active"
 ---
 
 # § 5437. Implementation plan and reports
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:53.538Z"
   - **(5)** whether the plan sufficiently takes in 2 2 So in original. Probably should be “into”. consideration the orderly transfer of property; and
   - **(6)** any additional recommendations for an orderly and effective process.
 - **(c)** Not later than 6 months after the date on which the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives receives the report required under subsection (b), and every 6 months thereafter until all aspects of the plan have been implemented, the Inspectors General of the Department of the Treasury, the Corporation, and the Board of Governors shall jointly provide a written report on the status of the implementation of the plan to the Board of Governors, the Corporation, the Office of the Comptroller of the Currency, and the Office of Thrift Supervision and shall submit a copy to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 111–203, title III, § 327](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1537](https://www.govinfo.gov/link/statute/124/1537).)*

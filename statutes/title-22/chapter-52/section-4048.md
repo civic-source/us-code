@@ -3,9 +3,10 @@ title: "Section 4048 - Retirement for disability or incapacity"
 usc_title: 22
 usc_section: "4048"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4048"
-generated_at: "2026-03-30T02:55:05.403Z"
+generated_at: "2026-11-23T21:25:58.615Z"
+status: "active"
 ---
 
 # § 4048. Retirement for disability or incapacity
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.403Z"
   - **(1)** refund to the Department of Labor the amount representing such commuted payments for such extended period, or
   - **(2)** authorize the deduction of such amount from the annuity payable under this part, which amount shall be transmitted to the Department of Labor for reimbursement to such Fund.
 - **(f)** A claim may be allowed under this section only if the application is filed with the Secretary of State before the participant is separated from the Service or within one year thereafter. This time limitation may be waived by the Secretary of State for a participant who at the date of separation from the Service or within one year thereafter is mentally incompetent, if the application is filed with the Secretary of State within one year from the date of restoration of the participant to competency or the appointment of a fiduciary, whichever is earlier.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 808](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2110](https://www.govinfo.gov/link/statute/94/2110); Ex. Ord. No. 12289, § 2, Feb. 14, 1981, 46 F.R. 12693; [Pub. L. 99–335, title IV, § 402(a)(2)](https://www.govinfo.gov/link/plaw/99/public/335), (b), June 6, 1986, [100 Stat. 609](https://www.govinfo.gov/link/statute/100/609); [Pub. L. 100–238, title II, § 215(a)](https://www.govinfo.gov/link/plaw/100/public/238), Jan. 8, 1988, [101 Stat. 1774](https://www.govinfo.gov/link/statute/101/1774); [Pub. L. 102–54, § 13(h)(2)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 275](https://www.govinfo.gov/link/statute/105/275).)*

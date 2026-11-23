@@ -3,9 +3,10 @@ title: "Section 1079c - Provisional coverage for emerging services and supplies"
 usc_title: 10
 usc_section: "1079c"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1079c"
-generated_at: "2026-03-30T02:53:38.106Z"
+generated_at: "2026-11-23T21:25:32.410Z"
+status: "active"
 ---
 
 # § 1079c. Provisional coverage for emerging services and supplies
@@ -28,3 +29,19 @@ generated_at: "2026-03-30T02:53:38.106Z"
     - **(C)** take any other action with respect to such coverage.
 - **(e)** The Secretary shall promptly publish on a publicly accessible Internet website of the TRICARE program a notice for each service or supply that receives provisional coverage under subsection (a), including any terms and conditions for such coverage.
 - **(f)** Any determination to approve or disapprove a service or supply under subsection (a) and any action made under subsection (d)(3) shall be final.
+
+Provisional Coverage
+
+Consideration of Evidence
+
+Independent Evaluation
+
+Duration and Terms of Coverage
+
+Public Notice
+
+Finality of Determinations
+
+## Source Credit
+
+*(Added [Pub. L. 113–291, div. A, title VII, § 704(a)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3412](https://www.govinfo.gov/link/statute/128/3412).)*

@@ -3,9 +3,10 @@ title: "Section 692 - Authority of Administration to guarantee payment of rental
 usc_title: 15
 usc_section: "692"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 692"
-generated_at: "2026-03-30T02:54:08.112Z"
+generated_at: "2026-11-23T21:25:39.724Z"
+status: "active"
 ---
 
 # § 692. Authority of Administration to guarantee payment of rentals by small business concerns under leases of commercial and industrial property
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.112Z"
   - **(2)** that upon occurrence of a default under the lease, the lessor shall, as a condition precedent to enforcing any claim under the lease guarantee, utilize the entire period, for which there are funds available in escrow for payment of rentals, in reasonably diligent efforts to eliminate or minimize losses, by releasing the commercial or industrial property covered by the lease to another qualified tenant, and no claim shall be made or paid under the guarantee until such effort has been made and such escrow funds have been exhausted;
   - **(3)** that any guarantor of the lease will become a successor of the lessor for the purpose of collecting from a lessee in default rentals which are in arrears and with respect to which the lessor has received payment under a guarantee made pursuant to this section; and
   - **(4)** such other provisions, not inconsistent with the purposes of this part, as the Administrator may in his discretion require.
+
+## Source Credit
+
+*([Pub. L. 85–699, title IV, § 401](https://www.govinfo.gov/link/plaw/85/public/699), as added [Pub. L. 89–117, title III, § 316(a)](https://www.govinfo.gov/link/plaw/89/public/117), Aug. 10, 1965, [79 Stat. 482](https://www.govinfo.gov/link/statute/79/482); amended [Pub. L. 90–104, title II, § 209](https://www.govinfo.gov/link/plaw/90/public/104), Oct. 11, 1967, [81 Stat. 271](https://www.govinfo.gov/link/statute/81/271); [Pub. L. 91–609, title IX, § 911(a)(2)](https://www.govinfo.gov/link/plaw/91/public/609), Dec. 31, 1970, [84 Stat. 1812](https://www.govinfo.gov/link/statute/84/1812).)*

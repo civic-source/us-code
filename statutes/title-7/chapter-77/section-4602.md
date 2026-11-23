@@ -3,9 +3,10 @@ title: "Section 4602 - Definitions"
 usc_title: 7
 usc_section: "4602"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 4602"
-generated_at: "2026-03-30T02:53:42.409Z"
+generated_at: "2026-11-23T21:25:28.349Z"
+status: "active"
 ---
 
 # § 4602. Definitions
@@ -50,3 +51,27 @@ As used in this chapter:
   - **(22)** The term “Secretary” means the Secretary of Agriculture.
   - **(23)** The term “State” means any of the several States, the District of Columbia and the Commonwealth of Puerto Rico.
   - **(24)** The term “State association” means that organization of beekeepers in a State which is generally recognized as representing the beekeepers of that State.
+
+Department
+
+Handle.—
+
+In general
+
+Inclusion
+
+Exclusions
+
+Honey production
+
+Industry information
+
+National honey marketing cooperative
+
+Qualified national organization representing handler interests
+
+Qualified national organization representing importer interests
+
+## Source Credit
+
+*([Pub. L. 98–590, § 3](https://www.govinfo.gov/link/plaw/98/public/590), Oct. 30, 1984, [98 Stat. 3116](https://www.govinfo.gov/link/statute/98/3116); [Pub. L. 101–624, title XIX, § 1982](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3904](https://www.govinfo.gov/link/statute/104/3904); [Pub. L. 105–185, title VI, § 605(b)](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 588](https://www.govinfo.gov/link/statute/112/588).)*

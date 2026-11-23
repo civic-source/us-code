@@ -3,9 +3,10 @@ title: "Section 731 - Extent of recognition of gain or loss on distribution"
 usc_title: 26
 usc_section: "731"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 731"
-generated_at: "2026-03-30T02:55:27.726Z"
+generated_at: "2026-11-23T21:26:06.375Z"
+status: "active"
 ---
 
 # § 731. Extent of recognition of gain or loss on distribution
@@ -68,3 +69,21 @@ generated_at: "2026-03-30T02:55:27.726Z"
   - **(6)** In the case of a distribution of a marketable security which is an unrealized receivable (as defined in section 751(c)) or an inventory item (as defined in section 751(d)), any gain recognized under this subsection shall be treated as ordinary income to the extent of any increase in the basis of such security attributable to the gain described in paragraph (4)(A)(ii).
   - **(7)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection, including regulations to prevent the avoidance of such purposes.
 - **(d)** This section shall not apply to the extent otherwise provided by section 736 (relating to payments to a retiring partner or a deceased partner’s successor in interest), section 751 (relating to unrealized receivables and inventory items), and section 737 (relating to recognition of precontribution gain in case of certain distributions).
+
+In general
+
+Certain distributions before january 1, 1995
+
+Distributions in liquidation of partner’s interest
+
+Distributions in complete liquidation of publicly traded partnerships.—
+
+In general
+
+Qualified partnership liquidation
+
+Marketable securities
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 245; [Pub. L. 102–486, title XIX, § 1937(b)(2)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3033](https://www.govinfo.gov/link/statute/106/3033); [Pub. L. 103–465, title VII, § 741(a)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 5006](https://www.govinfo.gov/link/statute/108/5006); [Pub. L. 105–34, title X, § 1062(b)(3)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 947](https://www.govinfo.gov/link/statute/111/947).)*

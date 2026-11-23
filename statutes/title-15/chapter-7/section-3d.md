@@ -3,9 +3,10 @@ title: "Section 3d - Implementation of coordinated disclosure of security vulner
 usc_title: 15
 usc_section: "3d"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3d"
-generated_at: "2026-03-30T02:54:08.078Z"
+generated_at: "2026-11-23T21:25:39.620Z"
+status: "active"
 ---
 
 # § 278g–3d. Implementation of coordinated disclosure of security vulnerabilities relating to agency information systems, including Internet of Things devices
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.078Z"
 - **(b)** Consistent with section 3553(b) of title 44 , the Secretary, in consultation with the Director of OMB, shall provide operational and technical assistance to agencies on reporting, coordinating, publishing, and receiving information about security vulnerabilities of information systems (including Internet of Things devices).
 - **(c)** The Secretary shall ensure that the assistance provided under subsection (b) is consistent with applicable standards and publications developed by the Director of the Institute.
 - **(d)** The Federal Acquisition Regulation shall be revised as necessary to implement the provisions under this section.
+
+## Source Credit
+
+*([Pub. L. 116–207, § 6](https://www.govinfo.gov/link/plaw/116/public/207), Dec. 4, 2020, [134 Stat. 1005](https://www.govinfo.gov/link/statute/134/1005).)*

@@ -3,9 +3,10 @@ title: "Section 1901 - Short title, findings, and purposes"
 usc_title: 50
 usc_section: "1901"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1901"
-generated_at: "2026-03-30T02:56:26.215Z"
+generated_at: "2026-11-23T21:26:38.948Z"
+status: "active"
 ---
 
 # § 1901. Short title, findings, and purposes
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:26.215Z"
   - **(3)** To produce an increased pool of applicants for work in the departments and agencies of the United States Government with national security responsibilities.
   - **(4)** To expand, in conjunction with other Federal programs, the international experience, knowledge base, and perspectives on which the United States citizenry, Government employees, and leaders rely.
   - **(5)** To permit the Federal Government to advocate the cause of international education.
+
+## Source Credit
+
+*([Pub. L. 102–183, title VIII, § 801](https://www.govinfo.gov/link/plaw/102/public/183), Dec. 4, 1991, [105 Stat. 1271](https://www.govinfo.gov/link/statute/105/1271); [Pub. L. 102–496, title IV, § 404(a)](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3185](https://www.govinfo.gov/link/statute/106/3185); [Pub. L. 105–272, title III, § 305(a)(1)](https://www.govinfo.gov/link/plaw/105/public/272), Oct. 20, 1998, [112 Stat. 2400](https://www.govinfo.gov/link/statute/112/2400).)*

@@ -3,12 +3,17 @@ title: "Section 7302 - Property used in violation of internal revenue laws"
 usc_title: 26
 usc_section: "7302"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7302"
-generated_at: "2026-03-30T02:55:27.869Z"
+generated_at: "2026-11-23T21:26:06.949Z"
+status: "active"
 ---
 
 # § 7302. Property used in violation of internal revenue laws
 
 It shall be unlawful to have or possess any property intended for use in violating the provisions of the internal revenue laws, or regulations prescribed under such laws, or which has been so used, and no property rights shall exist in any such property. A search warrant may issue as provided in chapter 205 of title 18 of the United States Code and the Federal Rules of Criminal Procedure for the seizure of such property. Nothing in this section shall in any manner limit or affect any criminal or forfeiture provision of the internal revenue laws, or of any other law. The seizure and forfeiture of any property under the provisions of this section and the disposition of such property subsequent to seizure and forfeiture, or the disposition of the proceeds from the sale of such property, shall be in accordance with existing laws or those hereafter in existence relating to seizures, forfeitures, and disposition of property or proceeds, for violation of the internal revenue laws.
 
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 867.)*

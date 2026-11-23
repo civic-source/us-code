@@ -3,9 +3,10 @@ title: "Section 1132 - Acquisition"
 usc_title: 14
 usc_section: "1132"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 1132"
-generated_at: "2026-03-30T02:53:51.492Z"
+generated_at: "2026-11-23T21:25:35.397Z"
+status: "active"
 ---
 
 # § 1132. Acquisition
@@ -63,3 +64,39 @@ generated_at: "2026-03-30T02:53:51.492Z"
       - **(i)** each milestone decision is concluded; and
       - **(ii)** the project or program enters a new acquisition phase; and
     - **(B)** an independent cost estimate or independent cost assessment, as appropriate, be developed to validate life-cycle cost estimates developed under paragraph (1).
+
+In General
+
+Submission Required Before Proceeding
+
+Analysis of Alternatives.—
+
+In general
+
+Requirements
+
+Test and Evaluation Master Plan.—
+
+In general
+
+Test and evaluation strategy
+
+Other components of the master plan
+
+Update
+
+Limitation
+
+Life-Cycle Cost Estimates.—
+
+In general
+
+Types of estimates
+
+Types of estimates
+
+Required updates
+
+## Source Credit
+
+*(Added [Pub. L. 111–281, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2942](https://www.govinfo.gov/link/statute/124/2942), § 572; amended [Pub. L. 114–120, title II, § 204(a)](https://www.govinfo.gov/link/plaw/114/public/120), Feb. 8, 2016, [130 Stat. 34](https://www.govinfo.gov/link/statute/130/34); renumbered § 1132, [Pub. L. 115–282, title I, § 108(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4208](https://www.govinfo.gov/link/statute/132/4208); [Pub. L. 117–263, div. K, title CXII, § 11210](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4012](https://www.govinfo.gov/link/statute/136/4012).)*

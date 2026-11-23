@@ -3,9 +3,10 @@ title: "Section 7371 - Mandatory removal from employment of law enforcement offi
 usc_title: 5
 usc_section: "7371"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 7371"
-generated_at: "2026-03-30T02:52:56.037Z"
+generated_at: "2026-11-23T21:25:23.341Z"
+status: "active"
 ---
 
 # § 7371. Mandatory removal from employment of law enforcement officers convicted of felonies
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:52:56.037Z"
     - **(B)** the employee was convicted of a felony; or
     - **(C)** the conviction was overturned on appeal.
   - **(3)** A removal required under this section shall occur on the date specified in subsection (b) regardless of whether the notice required under paragraph (1) of this subsection and the procedures made applicable under paragraph (2) of this subsection have been provided or completed by that date.
+
+## Source Credit
+
+*(Added [Pub. L. 106–554, § 1(a)(3) [title VI, § 639(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–168.)*

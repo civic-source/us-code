@@ -3,9 +3,10 @@ title: "Section 3522 - Probationers and parolees"
 usc_title: 18
 usc_section: "3522"
 chapter: 224
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3522"
-generated_at: "2026-03-30T02:54:16.518Z"
+generated_at: "2026-11-23T21:25:44.205Z"
+status: "active"
 ---
 
 # § 3522. Probationers and parolees
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:16.518Z"
 - **(b)** The failure by any person provided protection under this chapter who is supervised under subsection (a) to comply with the memorandum of understanding entered into by that person pursuant to section 3521(d) of this title shall be grounds for the revocation of probation or parole, as the case may be.
 - **(c)** The United States Parole Commission and the Chairman of the Commission shall have the same powers and duties with respect to a probationer or parolee transferred from State supervision pursuant to this section as they have with respect to an offender convicted in a court of the United States and paroled under chapter 311 1 1 See References in Text note below. of this title. The provisions of sections 4201 through 4204, 4205(a), (e), and (h), 4206 through 4215, and 4218 1 of this title shall apply following a revocation of probation or parole under this section.
 - **(d)** If a person provided protection under this chapter who is on probation or parole and is supervised under subsection (a) of this section has been ordered by the State court which imposed sentence on the person to pay a sum of money to the victim of the offense involved for damage caused by the offense, that penalty or award of damages may be enforced as though it were a civil judgment rendered by a United States district court. Proceedings to collect the moneys ordered to be paid may be instituted by the Attorney General in any United States district court. Moneys recovered pursuant to such proceedings shall be distributed to the victim.
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 1208](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2157](https://www.govinfo.gov/link/statute/98/2157); amended [Pub. L. 99–646, § 75](https://www.govinfo.gov/link/plaw/99/public/646), Nov. 10, 1986, [100 Stat. 3618](https://www.govinfo.gov/link/statute/100/3618); [Pub. L. 100–690, title VII, § 7072(b)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4405](https://www.govinfo.gov/link/statute/102/4405).)*

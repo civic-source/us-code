@@ -3,9 +3,10 @@ title: "Section 10163 - Monitored Retrievable Storage Commission"
 usc_title: 42
 usc_section: "10163"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10163"
-generated_at: "2026-03-30T02:56:11.382Z"
+generated_at: "2026-11-23T21:26:33.344Z"
+status: "active"
 ---
 
 # § 10163. Monitored Retrievable Storage Commission
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:11.382Z"
       - **(iii)** To the extent permitted by law, the Administrator of the General Services Administration shall, upon request of the MRS Commission, provide the MRS Commission with necessary administrative services, facilities, and support on a reimbursable basis.
       - **(iv)** The MRS Commission may procure temporary and intermittent services from experts and consultants to the same extent as is authorized by section 3109(b) of title 5 at rates and under such rules as the MRS Commission considers reasonable.
     - **(C)** The MRS Commission shall cease to exist 60 days after the submission to Congress of the report required under this subsection.
+
+## Source Credit
+
+*([Pub. L. 97–425, title I, § 143](https://www.govinfo.gov/link/plaw/97/public/425), as added [Pub. L. 100–202, § 101(d) [title III, § 300]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–104](https://www.govinfo.gov/link/statute/101/1329), 1329–121; [Pub. L. 100–203, title V, § 5021](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–232](https://www.govinfo.gov/link/statute/101/1330); amended [Pub. L. 100–507, § 2](https://www.govinfo.gov/link/plaw/100/public/507), Oct. 18, 1988, [102 Stat. 2541](https://www.govinfo.gov/link/statute/102/2541).)*

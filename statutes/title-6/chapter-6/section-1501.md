@@ -3,9 +3,10 @@ title: "Section 1501 - Definitions"
 usc_title: 6
 usc_section: "1501"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1501"
-generated_at: "2026-03-30T02:53:09.509Z"
+generated_at: "2026-11-23T21:25:25.878Z"
+status: "active"
 ---
 
 # § 1501. Definitions
@@ -46,3 +47,7 @@ In this subchapter:
   - **(16)** The term “security control” has the meaning given the term in section 650 of this title .
   - **(17)** The term “security vulnerability” has the meaning given the term in section 650 of this title .
   - **(18)** The term “tribal” has the meaning given the term “Indian tribe” in section 5304 of title 25 .
+
+## Source Credit
+
+*([Pub. L. 114–113, div. N, title I, § 102](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2936](https://www.govinfo.gov/link/statute/129/2936); [Pub. L. 117–263, div. G, title LXXI, § 7143(b)(4)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3661](https://www.govinfo.gov/link/statute/136/3661).)*

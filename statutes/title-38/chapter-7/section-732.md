@@ -3,9 +3,10 @@ title: "Section 732 - Protection of whistleblowers as criteria in evaluation of 
 usc_title: 38
 usc_section: "732"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 732"
-generated_at: "2026-03-30T02:55:53.475Z"
+generated_at: "2026-11-23T21:26:16.564Z"
+status: "active"
 ---
 
 # § 732. Protection of whistleblowers as criteria in evaluation of supervisors
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:55:53.475Z"
   - **(2)** promotes the protection of whistleblowers.
 - **(b)** The criteria required by subsection (a) shall include principles for the protection of whistleblowers, such as the degree to which supervisory employees respond constructively when employees of the Department report concerns, take responsible action to resolve such concerns, and foster an environment in which employees of the Department feel comfortable reporting concerns to supervisory employees or to the appropriate authorities.
 - **(c)** In this section, the terms “supervisory employee” and “whistleblower” have the meanings given such terms in section 323 of this title .
+
+Development and Use of Criteria Required
+
+Principles for Protection of Whistleblowers
+
+Supervisory Employee and Whistleblower Defined
+
+## Source Credit
+
+*(Added [Pub. L. 115–41, title I, § 102(a)(3)](https://www.govinfo.gov/link/plaw/115/public/41), June 23, 2017, [131 Stat. 865](https://www.govinfo.gov/link/statute/131/865).)*

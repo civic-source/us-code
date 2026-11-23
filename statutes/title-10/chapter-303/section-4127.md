@@ -3,9 +3,10 @@ title: "Section 4127 - Defense Innovation Unit"
 usc_title: 10
 usc_section: "4127"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4127"
-generated_at: "2026-03-30T02:53:38.202Z"
+generated_at: "2026-11-23T21:25:32.757Z"
+status: "active"
 ---
 
 # § 4127. Defense Innovation Unit
@@ -60,3 +61,25 @@ generated_at: "2026-03-30T02:53:38.202Z"
     - **(D)** Departments or agencies of the Federal Government with expertise, operations, or resources related to the objectives of the multi-stakeholder research and innovation partnership.
   - **(2)** The term “nontraditional capability” means a solution to an operational challenge that can significantly leverage commercial innovation or external capital with minimal dependencies on fielded systems.
   - **(3)** The term “nontraditional defense contractor” has the meaning given that term in section 3014 of this title .
+
+Establishment
+
+Director and Deputy Director
+
+Authority of Director
+
+Responsibilities
+
+Support for Multi-stakeholder Partnerships.—
+
+Regional Outreach Centers.—
+
+In general
+
+Selection criteria and other guidance
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title IX, § 913(a)(1)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 365](https://www.govinfo.gov/link/statute/137/365); amended [Pub. L. 118–159, div. A, title XVII, § 1701(a)(43)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2206](https://www.govinfo.gov/link/statute/138/2206); [Pub. L. 119–60, div. A, title IX, § 913](https://www.govinfo.gov/link/plaw/119/public/60), title XVII, § 1701(a)(26), Dec. 18, 2025, [139 Stat. 1018](https://www.govinfo.gov/link/statute/139/1018), 1209.)*

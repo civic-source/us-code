@@ -3,9 +3,10 @@ title: "Section 2105 - Rights of ownership"
 usc_title: 43
 usc_section: "2105"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 2105"
-generated_at: "2026-03-30T02:55:57.495Z"
+generated_at: "2026-11-23T21:26:19.891Z"
+status: "active"
 ---
 
 # § 2105. Rights of ownership
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:57.495Z"
 - **(e)** This section does not affect any right reserved by the United States or by any State (including any right reserved with respect to Indian lands) under—
   - **(1)** section 1311, 1313, or 1314 of this title; or
   - **(2)** section 414 or 415 of title 33.
+
+## Source Credit
+
+*([Pub. L. 100–298, § 6](https://www.govinfo.gov/link/plaw/100/public/298), Apr. 28, 1988, [102 Stat. 433](https://www.govinfo.gov/link/statute/102/433).)*

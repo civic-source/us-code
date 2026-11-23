@@ -3,9 +3,10 @@ title: "Section 3743 - Reports on activities and assistance under Department of 
 usc_title: 50
 usc_section: "3743"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3743"
-generated_at: "2026-03-30T02:56:26.260Z"
+generated_at: "2026-11-23T21:26:39.067Z"
+status: "active"
 ---
 
 # § 3743. Reports on activities and assistance under Department of Defense Cooperative Threat Reduction Program
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:26.260Z"
     - **(E)** a description of participation by private sector entities in the United States in carrying out such activities, and the participation of any other department or agency of the Federal Government in such activities; and
     - **(F)** any other information that the Secretary considers relevant to provide a complete description of the operation and success of activities carried out under the Program.
 - **(d)** The requirement to submit the report under subsection (a) shall terminate on January 1, 2030 .
+
+## Source Credit
+
+*([Pub. L. 113–291, div. A, title XIII, § 1343](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3605](https://www.govinfo.gov/link/statute/128/3605); [Pub. L. 118–159, div. A, title XVI, § 1652(b)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2201](https://www.govinfo.gov/link/statute/138/2201).)*

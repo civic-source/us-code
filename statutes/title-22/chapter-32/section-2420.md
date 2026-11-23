@@ -3,9 +3,10 @@ title: "Section 2420 - Police training prohibition"
 usc_title: 22
 usc_section: "2420"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2420"
-generated_at: "2026-03-30T02:55:05.365Z"
+generated_at: "2026-11-23T21:25:58.491Z"
+status: "active"
 ---
 
 # § 2420. Police training prohibition
@@ -21,3 +22,15 @@ generated_at: "2026-03-30T02:55:05.365Z"
   - **(7)** with respect to assistance provided to customs authorities and personnel, including training, technical assistance and equipment, for customs law enforcement and the improvement of customs laws, systems and procedures.
 - **(c)** Subsection (a) shall not apply with respect to a country which has a longstanding democratic tradition, does not have standing armed forces, and does not engage in a consistent pattern of gross violations of internationally recognized human rights.
 - **(d)** Notwithstanding the prohibition contained in subsection (a) assistance may be provided to Honduras or El Salvador for fiscal years 1986 and 1987 if, at least 30 days before providing assistance, the President notifies the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, in accordance with the procedures applicable to reprogramming notifications pursuant to section 2394–1 of this title , that he has determined that the government of the recipient country has made significant progress, during the preceding six months, in eliminating any human rights violations including torture, incommunicado detention, detention of persons solely for the nonviolent expression of their political views, or prolonged detention without trial. Any such notification shall include a full description of the assistance which is proposed to be provided and of the purposes to which it is to be directed.
+
+Exemption
+
+Notification to Congress
+
+Coordination With International Narcotics Control Assistance Program
+
+Ronald Reagan.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 660, as added [Pub. L. 93–559, § 30(a)](https://www.govinfo.gov/link/plaw/93/public/559), Dec. 30, 1974, [88 Stat. 1803](https://www.govinfo.gov/link/statute/88/1803); amended [Pub. L. 99–83, title I, § 127(b)](https://www.govinfo.gov/link/plaw/99/public/83), title VII, § 711, Aug. 8, 1985, [99 Stat. 205](https://www.govinfo.gov/link/statute/99/205), 243; [Pub. L. 101–513, title V, § 594](https://www.govinfo.gov/link/plaw/101/public/513), Nov. 5, 1990, [104 Stat. 2060](https://www.govinfo.gov/link/statute/104/2060); [Pub. L. 104–107, title V, § 540A(d)](https://www.govinfo.gov/link/plaw/104/public/107), Feb. 12, 1996, [110 Stat. 737](https://www.govinfo.gov/link/statute/110/737); [Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 574]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1535](https://www.govinfo.gov/link/statute/113/1535), 1501A–111.)*

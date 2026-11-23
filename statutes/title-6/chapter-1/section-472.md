@@ -3,9 +3,10 @@ title: "Section 472 - Annual weaponry report"
 usc_title: 6
 usc_section: "472"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 472"
-generated_at: "2026-03-30T02:53:09.465Z"
+generated_at: "2026-11-23T21:25:25.797Z"
+status: "active"
 ---
 
 # § 472. Annual weaponry report
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:09.465Z"
   - **(2)** a description of how such quantity and purchase aligns to each component or agency’s mission requirements for certification, qualification, training, and operations; and
   - **(3)** details on all contracting practices applied by the Department of Homeland Security, including comparative details regarding other contracting options with respect to cost and availability.
 - **(b)** The reports required by subsection (a) shall be submitted in an appropriate format in order to ensure the safety of law enforcement personnel.
+
+## Source Credit
+
+*([Pub. L. 114–4, title V, § 562](https://www.govinfo.gov/link/plaw/114/public/4), Mar. 4, 2015, [129 Stat. 72](https://www.govinfo.gov/link/statute/129/72).)*

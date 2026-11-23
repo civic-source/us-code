@@ -3,9 +3,10 @@ title: "Section 669h - Requirements and restrictions concerning use of amounts f
 usc_title: 16
 usc_section: "669h"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 669h"
-generated_at: "2026-03-30T02:54:22.891Z"
+generated_at: "2026-11-23T21:25:51.717Z"
+status: "active"
 ---
 
 # § 669h. Requirements and restrictions concerning use of amounts for expenses for administration
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:22.891Z"
   - **(3)** The Inspector General of the Department of the Interior shall promptly submit to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate—
     - **(A)** a report on the results of each audit under this subsection; and
     - **(B)** a copy of each audit under this subsection.
+
+## Source Credit
+
+*(Sept. 2, 1937, ch. 899, § 9, [50 Stat. 919](https://www.govinfo.gov/link/statute/50/919); [Pub. L. 106–408, title I, § 111(b)](https://www.govinfo.gov/link/plaw/106/public/408), Nov. 1, 2000, [114 Stat. 1764](https://www.govinfo.gov/link/statute/114/1764); [Pub. L. 117–58, div. B, title VIII, § 28001(b)(2)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 888](https://www.govinfo.gov/link/statute/135/888); [Pub. L. 117–263, div. K, title CXIII, § 11324(b)(2)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4095](https://www.govinfo.gov/link/statute/136/4095).)*

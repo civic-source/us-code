@@ -3,9 +3,10 @@ title: "Section 1741a - Special Envoy for Hostage Affairs"
 usc_title: 22
 usc_section: "1741a"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1741a"
-generated_at: "2026-03-30T02:55:05.338Z"
+generated_at: "2026-11-23T21:25:58.413Z"
+status: "active"
 ---
 
 # § 1741a. Special Envoy for Hostage Affairs
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:05.338Z"
     - **(B)** such family member receives consistent and accurate information from the United States Government; and
     - **(C)** appropriate coordination with the Family Engagement Coordinator described in section 1741b(c)(2) of this title ; and
   - **(2)** for a United States national held hostage abroad, that any engagement with a family member is coordinated with, consistent with, and not duplicative of the efforts of the Family Engagement Coordinator described in section 1741b(c)(2) of this title .
+
+## Source Credit
+
+*([Pub. L. 116–260, div. FF, title III, § 303](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3093](https://www.govinfo.gov/link/statute/134/3093); [Pub. L. 117–263, div. I, title XCI, § 9103](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3858](https://www.govinfo.gov/link/statute/136/3858).)*

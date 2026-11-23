@@ -3,9 +3,10 @@ title: "Section 7442 - Definitions"
 usc_title: 7
 usc_section: "7442"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7442"
-generated_at: "2026-03-30T02:53:42.452Z"
+generated_at: "2026-11-23T21:25:28.427Z"
+status: "active"
 ---
 
 # § 7442. Definitions
@@ -35,3 +36,7 @@ In this subchapter (unless the context otherwise requires):
   - **(17)** The term “Secretary” means the Secretary of Agriculture.
   - **(18)** The term “State” means any of the 50 States, the District of Columbia and the Commonwealth of Puerto Rico.
   - **(19)** The term “United States” means collectively the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 533](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1049](https://www.govinfo.gov/link/statute/110/1049).)*

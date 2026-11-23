@@ -3,9 +3,10 @@ title: "Section 502 - Required drills and field exercises"
 usc_title: 32
 usc_section: "502"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "32 U.S.C. § 502"
-generated_at: "2026-03-30T02:55:31.866Z"
+generated_at: "2026-11-23T21:26:08.293Z"
+status: "active"
 ---
 
 # § 502. Required drills and field exercises
@@ -30,3 +31,51 @@ generated_at: "2026-03-30T02:55:31.866Z"
       - **(i)** are performed in the United States or the Commonwealth of Puerto Rico or possessions of the United States; and
       - **(ii)** are only to instruct active duty military, foreign military (under the same authorities and restrictions applicable to active duty troops), Department of Defense contractor personnel, or Department of Defense civilian employees.
   - **(3)** Duty without pay shall be considered for all purposes as if it were duty with pay.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 502(a) 502(b) 502(c) 502(d) | 32:62 (1st sentence, less proviso). 32:62 (proviso of 1st sentence). 32:62 (last sentence, less 1st, 2d, and 3d provisos). 32:62 (1st proviso of last sentence). | June 3, 1916, ch. 134, § 92 ; restated June 3, 1924, ch. 244, § 2 ; restated Oct. 14, 1940, ch. 875, § 2 , 54 Stat. 1135 ; Mar. 25, 1948, ch. 157, § 5(a) , 62 Stat. 90 . |
+| 502(e) | 32:62 (2d and 3d provisos of last sentence). |  |
+
+
+Historical and Revision Notes
+
+502(a)
+
+502(b)
+
+502(c)
+
+502(d)
+
+June 3, 1916, ch. 134, § 92
+
+June 3, 1924, ch. 244, § 2
+
+Oct. 14, 1940, ch. 875, § 2
+
+54 Stat. 1135
+
+Mar. 25, 1948, ch. 157, § 5(a)
+
+62 Stat. 90
+
+502(e)
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 610; [Pub. L. 88–621, § 1(1)](https://www.govinfo.gov/link/plaw/88/public/621), Oct. 3, 1964, [78 Stat. 999](https://www.govinfo.gov/link/statute/78/999); [Pub. L. 90–168, § 4](https://www.govinfo.gov/link/plaw/90/public/168), Dec. 1, 1967, [81 Stat. 526](https://www.govinfo.gov/link/statute/81/526); [Pub. L. 92–156, title III, § 303(b)](https://www.govinfo.gov/link/plaw/92/public/156), Nov. 17, 1971, [85 Stat. 425](https://www.govinfo.gov/link/statute/85/425); [Pub. L. 103–160, div. A, title V, § 524(b)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1657](https://www.govinfo.gov/link/statute/107/1657); [Pub. L. 109–364, div. A, title V, § 525(c)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2195](https://www.govinfo.gov/link/statute/120/2195).)*

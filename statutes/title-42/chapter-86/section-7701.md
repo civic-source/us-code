@@ -3,9 +3,10 @@ title: "Section 7701 - Congressional findings"
 usc_title: 42
 usc_section: "7701"
 chapter: 86
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7701"
-generated_at: "2026-03-30T02:56:11.329Z"
+generated_at: "2026-11-23T21:26:33.168Z"
+status: "active"
 ---
 
 # § 7701. Congressional findings
@@ -25,3 +26,7 @@ The Congress finds and declares the following:
   - **(11)** An effective Federal program in earthquake hazards reduction will require input from and review by persons outside the Federal Government expert in the sciences of earthquake hazards reduction and in the practical application of earthquake hazards reduction measures.
   - **(12)** The built environment has generally been constructed and maintained to meet the needs of the users under normal conditions. When earthquakes occur, the built environment is generally designed to prevent severe injuries or loss of human life and is not expected to remain operational or able to recover under any specified schedule.
   - **(13)** The National Research Council published a study on reducing hazards and risks associated with earthquakes based on the goals and objectives for achieving national earthquake resilience described in the strategic plan entitled “Strategic Plan for the National Earthquake Hazards Reduction Program”. The study and an accompanying report called for work in 18 tasks focused on research, preparedness, and mitigation and annual funding of approximately $300,000,000 per year for 20 years.
+
+## Source Credit
+
+*([Pub. L. 95–124, § 2](https://www.govinfo.gov/link/plaw/95/public/124), Oct. 7, 1977, [91 Stat. 1098](https://www.govinfo.gov/link/statute/91/1098); [Pub. L. 101–614, § 2](https://www.govinfo.gov/link/plaw/101/public/614), Nov. 16, 1990, [104 Stat. 3231](https://www.govinfo.gov/link/statute/104/3231); [Pub. L. 115–307, § 2(a)](https://www.govinfo.gov/link/plaw/115/public/307), Dec. 11, 2018, [132 Stat. 4408](https://www.govinfo.gov/link/statute/132/4408).)*

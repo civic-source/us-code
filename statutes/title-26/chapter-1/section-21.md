@@ -3,9 +3,10 @@ title: "Section 21 - Expenses for household and dependent care services necessar
 usc_title: 26
 usc_section: "21"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 21"
-generated_at: "2026-03-30T02:55:27.585Z"
+generated_at: "2026-11-23T21:26:05.881Z"
+status: "active"
 ---
 
 # § 21. Expenses for household and dependent care services necessary for gainful employment
@@ -84,3 +85,15 @@ generated_at: "2026-03-30T02:55:27.585Z"
     - **(B)** who is eligible for a payment under a plan described in paragraph (2).
   - **(4)** For purposes of this subsection, the term “mirror code tax system” means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States.
   - **(5)** For purposes of section 1324 of title 31 , United States Code, the payments under this subsection shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.
+
+In general
+
+Special rule for 1995 and 1996
+
+In general
+
+Special rule for cafeteria plans
+
+## Source Credit
+
+*(Added [Pub. L. 94–455, title V, § 504(a)(1)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1563](https://www.govinfo.gov/link/statute/90/1563), § 44A; amended [Pub. L. 95–600, title I, § 121(a)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2779](https://www.govinfo.gov/link/statute/92/2779); [Pub. L. 97–34, title I](https://www.govinfo.gov/link/plaw/97/public/34) § 124 (a)–(d), Aug. 13, 1981, [95 Stat. 197](https://www.govinfo.gov/link/statute/95/197), 198; [Pub. L. 98–21, title I, § 122(c)(1)](https://www.govinfo.gov/link/plaw/98/public/21), Apr. 20, 1983, [97 Stat. 87](https://www.govinfo.gov/link/statute/97/87); renumbered § 21 and amended [Pub. L. 98–369, div. A, title IV](https://www.govinfo.gov/link/plaw/98/public/369), §§ 423(c)(4), 471(c), 474(c), July 18, 1984, [98 Stat. 801](https://www.govinfo.gov/link/statute/98/801), 826, 830; [Pub. L. 99–514, title I, § 104(b)(1)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2104](https://www.govinfo.gov/link/statute/100/2104); [Pub. L. 100–203, title X, § 10101(a)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–384](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–485, title VII, § 703(a)](https://www.govinfo.gov/link/plaw/100/public/485) –(c)(1), Oct. 13, 1988, [102 Stat. 2426](https://www.govinfo.gov/link/statute/102/2426), 2427; [Pub. L. 104–188, title I, § 1615(b)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1853](https://www.govinfo.gov/link/statute/110/1853); [Pub. L. 107–16, title II, § 204(a)](https://www.govinfo.gov/link/plaw/107/public/16), (b), June 7, 2001, [115 Stat. 49](https://www.govinfo.gov/link/statute/115/49); [Pub. L. 107–147, title IV, § 418(b)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 57](https://www.govinfo.gov/link/statute/116/57); [Pub. L. 108–311, title II](https://www.govinfo.gov/link/plaw/108/public/311), §§ 203, 207(2), (3), Oct. 4, 2004, [118 Stat. 1175](https://www.govinfo.gov/link/statute/118/1175), 1177; [Pub. L. 109–135, title IV, § 404(b)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2634](https://www.govinfo.gov/link/statute/119/2634); [Pub. L. 110–172, § 11(a)(1)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2484](https://www.govinfo.gov/link/statute/121/2484); [Pub. L. 117–2, title IX, § 9631(a)](https://www.govinfo.gov/link/plaw/117/public/2), (b), Mar. 11, 2021, [135 Stat. 159](https://www.govinfo.gov/link/statute/135/159); [Pub. L. 119–21, title VII, § 70405(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 214](https://www.govinfo.gov/link/statute/139/214).)*

@@ -3,9 +3,10 @@ title: "Section 1004 - Supervisory and other managerial organizations"
 usc_title: 39
 usc_section: "1004"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 1004"
-generated_at: "2026-03-30T02:55:43.689Z"
+generated_at: "2026-11-23T21:26:12.772Z"
+status: "active"
 ---
 
 # § 1004. Supervisory and other managerial organizations
@@ -58,3 +59,9 @@ generated_at: "2026-03-30T02:55:43.689Z"
   - **(5)** “members of the postmasters’ organization” shall be considered to mean employees of the Postal Service who are recognized under an agreement—
     - **(A)** between the Postal Service and the postmasters’ organization as represented by the organization; or
     - **(B)** in the circumstance described in subsection (h)(1)(B), between the Postal Service and the postmasters’ organizations (acting in concert) as represented by either or any of the postmasters’ organizations involved.
+
+“For purposes of section 8473(b)(4) of title 5 , United States Code—
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 731](https://www.govinfo.gov/link/statute/84/731); [Pub. L. 96–326](https://www.govinfo.gov/link/plaw/96/public/326), Aug. 8, 1980, [94 Stat. 1023](https://www.govinfo.gov/link/statute/94/1023); [Pub. L. 108–86, § 2(a)](https://www.govinfo.gov/link/plaw/108/public/86) –(c), Sept. 30, 2003, [117 Stat. 1052](https://www.govinfo.gov/link/statute/117/1052).)*

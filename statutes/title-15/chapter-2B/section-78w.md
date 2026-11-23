@@ -3,9 +3,10 @@ title: "Section 78w - Rules, regulations, and orders; annual reports"
 usc_title: 15
 usc_section: "78w"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 78w"
-generated_at: "2026-03-30T02:54:08.059Z"
+generated_at: "2026-11-23T21:25:39.568Z"
+status: "active"
 ---
 
 # § 78w. Rules, regulations, and orders; annual reports
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:08.059Z"
     - **(I)** the steps that have been taken and the progress that has been made in promoting the timely public dissemination and availability for analytical purposes (on a fair, reasonable, and nondiscriminatory basis) of information concerning government securities transactions and quotations, and its recommendations, if any, for legislation to assure timely dissemination of (i) information on transactions in regularly traded government securities sufficient to permit the determination of the prevailing market price for such securities, and (ii) reports of the highest published bids and lowest published offers for government securities (including the size at which persons are willing to trade with respect to such bids and offers).
 - **(c)** The Commission, by rule, shall prescribe the procedure applicable to every case pursuant to this chapter of adjudication (as defined in section 551 of title 5 ) not required to be determined on the record after notice and opportunity for hearing. Such rules shall, as a minimum, provide that prompt notice shall be given of any adverse action or final disposition and that such notice and the entry of any order shall be accompanied by a statement of written reasons.
 - **(d)** Within 1 year after October 15, 1990 , the Commission shall establish regulations providing for the expeditious conduct of hearings and rendering of decisions under section 78u–3 of this title , section 77h–1 of this title , section 80a–9(f) of this title , and section 80b–3(k) of this title .
+
+## Source Credit
+
+*(June 6, 1934, ch. 404, title I, § 23, [48 Stat. 901](https://www.govinfo.gov/link/statute/48/901); Aug. 23, 1935, ch. 614, § 203(a), [49 Stat. 704](https://www.govinfo.gov/link/statute/49/704); May 27, 1936, ch. 462, § 8, [49 Stat. 1379](https://www.govinfo.gov/link/statute/49/1379); [Pub. L. 88–467, § 10](https://www.govinfo.gov/link/plaw/88/public/467), Aug. 20, 1964, [78 Stat. 580](https://www.govinfo.gov/link/statute/78/580); [Pub. L. 94–29, § 18](https://www.govinfo.gov/link/plaw/94/public/29), June 4, 1975, [89 Stat. 155](https://www.govinfo.gov/link/statute/89/155); [Pub. L. 99–571, title I, § 102(j)](https://www.govinfo.gov/link/plaw/99/public/571), Oct. 28, 1986, [100 Stat. 3220](https://www.govinfo.gov/link/statute/100/3220); [Pub. L. 100–181, title III](https://www.govinfo.gov/link/plaw/100/public/181), §§ 324, 325, Dec. 4, 1987, [101 Stat. 1259](https://www.govinfo.gov/link/statute/101/1259); [Pub. L. 101–429, title II, § 204](https://www.govinfo.gov/link/plaw/101/public/429), Oct. 15, 1990, [104 Stat. 940](https://www.govinfo.gov/link/statute/104/940); [Pub. L. 103–202, title I, § 107](https://www.govinfo.gov/link/plaw/103/public/202), Dec. 17, 1993, [107 Stat. 2351](https://www.govinfo.gov/link/statute/107/2351); [Pub. L. 109–351, title IV, § 401(a)(3)](https://www.govinfo.gov/link/plaw/109/public/351), Oct. 13, 2006, [120 Stat. 1973](https://www.govinfo.gov/link/statute/120/1973); [Pub. L. 111–203, title III, § 376(4)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1569](https://www.govinfo.gov/link/statute/124/1569).)*

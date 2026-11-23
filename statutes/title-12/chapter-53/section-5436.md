@@ -3,9 +3,10 @@ title: "Section 5436 - Continuation of services"
 usc_title: 12
 usc_section: "5436"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5436"
-generated_at: "2026-03-30T02:53:53.538Z"
+generated_at: "2026-11-23T21:25:37.265Z"
+status: "active"
 ---
 
 # § 5436. Continuation of services
@@ -14,3 +15,7 @@ Any agency, department, or other instrumentality of the United States, and any s
 
   - **(1)** continue to provide such services, subject to reimbursement by the Office of the Comptroller of the Currency, the Corporation, or the Board of Governors, until the transfer of functions under this title 1 is complete; and
   - **(2)** consult with the Comptroller of the Currency, the Chairperson of the Corporation, or the Chairman of the Board of Governors, as appropriate, to coordinate and facilitate a prompt and orderly transition.
+
+## Source Credit
+
+*([Pub. L. 111–203, title III, § 326](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1537](https://www.govinfo.gov/link/statute/124/1537).)*

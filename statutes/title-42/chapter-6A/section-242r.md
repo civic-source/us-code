@@ -3,9 +3,10 @@ title: "Section 242r - Improvement and publication of data on food-related aller
 usc_title: 42
 usc_section: "242r"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 242r"
-generated_at: "2026-03-30T02:56:10.692Z"
+generated_at: "2026-11-23T21:26:30.254Z"
+status: "active"
 ---
 
 # § 242r. Improvement and publication of data on food-related allergic responses
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:10.692Z"
   - **(2)** the incidence of clinically significant or serious adverse events related to food allergies; and
   - **(3)** the use of different modes of treatment for and prevention of allergic responses to foods.
 - **(b)** For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary.
+
+## Source Credit
+
+*([Pub. L. 108–282, title II, § 207](https://www.govinfo.gov/link/plaw/108/public/282), Aug. 2, 2004, [118 Stat. 910](https://www.govinfo.gov/link/statute/118/910).)*

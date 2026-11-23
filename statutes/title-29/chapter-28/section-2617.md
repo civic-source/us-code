@@ -3,9 +3,10 @@ title: "Section 2617 - Enforcement"
 usc_title: 29
 usc_section: "2617"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 2617"
-generated_at: "2026-03-30T02:55:18.745Z"
+generated_at: "2026-11-23T21:26:02.316Z"
+status: "active"
 ---
 
 # § 2617. Enforcement
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:55:18.745Z"
   - **(2)** to award such other equitable relief as may be appropriate, including employment, reinstatement, and promotion.
 - **(e)** The Solicitor of Labor may appear for and represent the Secretary on any litigation brought under this section.
 - **(f)** In the case of the Government Accountability Office and the Library of Congress, the authority of the Secretary of Labor under this subchapter shall be exercised respectively by the Comptroller General of the United States and the Librarian of Congress.
+
+## Source Credit
+
+*([Pub. L. 103–3, title I, § 107](https://www.govinfo.gov/link/plaw/103/public/3), Feb. 5, 1993, [107 Stat. 15](https://www.govinfo.gov/link/statute/107/15); [Pub. L. 104–1, title II, § 202(c)(1)(B)](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 9](https://www.govinfo.gov/link/statute/109/9); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 110–181, div. A, title V, § 585(a)(3)(G)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 131](https://www.govinfo.gov/link/statute/122/131).)*

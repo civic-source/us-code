@@ -3,9 +3,10 @@ title: "Section 2631 - Preference for United States vessels in transporting supp
 usc_title: 10
 usc_section: "2631"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2631"
-generated_at: "2026-03-30T02:53:38.166Z"
+generated_at: "2026-11-23T21:25:32.636Z"
+status: "active"
 ---
 
 # § 2631. Preference for United States vessels in transporting supplies by sea
@@ -39,3 +40,58 @@ generated_at: "2026-03-30T02:53:38.166Z"
   - **(1)** the Committees on Armed Services of the Senate and the House of Representatives;
   - **(2)** the Committee on Transportation and Infrastructure of the House of Representatives; and
   - **(3)** the Committee on Commerce, Science, and Transportation of the Senate.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 2631 | 10:1365. 34:528. | Apr. 28, 1904, ch. 1766 , 33 Stat. 518 . |
+
+
+In General
+
+Waiver and Notification
+
+Requirements for Reflagging or Repair Work
+
+Compliance
+
+Appropriate Congressional Committees Defined
+
+Historical and Revision Notes
+
+2631
+
+Apr. 28, 1904, ch. 1766
+
+33 Stat. 518
+
+Acquisition Policy
+
+Covered Vessels
+
+Application of Policy
+
+Regulations.—
+
+In general
+
+Interim regulations.—
+
+In general
+
+Submission to congress
+
+Expiration
+
+Annual Report
+
+Definitions
+
+Foreign shipyard
+
+United states
+
+Ronald Reagan.
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 146; [Pub. L. 103–160, div. A, title III, § 315(a)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1619](https://www.govinfo.gov/link/statute/107/1619); [Pub. L. 116–92, div. A, title X, § 1033](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1580](https://www.govinfo.gov/link/statute/133/1580); [Pub. L. 116–283, div. A, title IX, § 924(b)(3)(GG)](https://www.govinfo.gov/link/plaw/116/public/283), title X, § 1024(a)(1), Jan. 1, 2021, [134 Stat. 3822](https://www.govinfo.gov/link/statute/134/3822), 3841.)*

@@ -3,9 +3,10 @@ title: "Section 22908 - Restoration and enhancement grants"
 usc_title: 49
 usc_section: "22908"
 chapter: 229
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 22908"
-generated_at: "2026-03-30T02:56:19.342Z"
+generated_at: "2026-11-23T21:26:40.727Z"
+status: "active"
 ---
 
 # § 22908. Restoration and enhancement grants
@@ -83,3 +84,43 @@ generated_at: "2026-03-30T02:56:19.342Z"
   - **(3)** the performance of the routes funded by such grants;
   - **(4)** the plans of grant recipients for continued operation and funding of such routes; and
   - **(5)** any legislative recommendations.
+
+Definitions
+
+Applicant
+
+Operating assistance
+
+Grants Authorized
+
+Application
+
+Priorities
+
+Limitations.—
+
+Duration
+
+Limitation
+
+Maximum funding
+
+Use With Capital Grants and Other Federal Funding
+
+Availability
+
+Coordination With Amtrak
+
+Conditions.—
+
+Grant agreement
+
+Installments; termination
+
+Grant conditions
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title XI, § 11303(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1651](https://www.govinfo.gov/link/statute/129/1651), § 24408; renumbered § 22908 and amended [Pub. L. 115–420, § 7(a)(1)](https://www.govinfo.gov/link/plaw/115/public/420), (b)(2)(E), Jan. 3, 2019, [132 Stat. 5445](https://www.govinfo.gov/link/statute/132/5445), 5446; [Pub. L. 117–58, div. B, title II, § 22304](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 719](https://www.govinfo.gov/link/statute/135/719).)*

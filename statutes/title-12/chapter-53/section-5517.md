@@ -3,9 +3,10 @@ title: "Section 5517 - Limitations on authorities of the Bureau; preservation of
 usc_title: 12
 usc_section: "5517"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5517"
-generated_at: "2026-03-30T02:53:53.544Z"
+generated_at: "2026-11-23T21:25:37.281Z"
+status: "active"
 ---
 
 # § 5517. Limitations on authorities of the Bureau; preservation of authorities
@@ -118,3 +119,7 @@ generated_at: "2026-03-30T02:53:53.544Z"
 - **(q)** No provision of this title 1 shall affect the authorities of the Secretary, including with respect to prescribing rules, initiating enforcement proceedings, or taking other actions with respect to a person that performs income tax preparation activities for consumers.
 - **(r)** Nothing in this title 1 shall affect the authority of the Corporation under the Federal Deposit Insurance Act [ 12 U.S.C. 1811 et seq.] or the National Credit Union Administration Board under the Federal Credit Union Act [ 12 U.S.C. 1751 et seq.] as to matters related to deposit insurance and share insurance, respectively.
 - **(s)** No provision of this title 1 shall be construed as affecting any authority arising under the Fair Housing Act [ 42 U.S.C. 3601 et seq.].
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1027](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1995](https://www.govinfo.gov/link/statute/124/1995); [Pub. L. 113–295, div. B, title I, § 102(e)(7)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4062](https://www.govinfo.gov/link/statute/128/4062).)*

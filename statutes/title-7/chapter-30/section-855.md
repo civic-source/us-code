@@ -3,9 +3,10 @@ title: "Section 855 - Applicability of other laws"
 usc_title: 7
 usc_section: "855"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 855"
-generated_at: "2026-03-30T02:53:42.294Z"
+generated_at: "2026-11-23T21:25:27.995Z"
+status: "active"
 ---
 
 # § 855. Applicability of other laws
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.294Z"
   - **(15)** of section 608c of this title , are made applicable in connection with orders issued pursuant to section 854 of this title , and the provisions of section 608d of this title are made applicable in connection with marketing agreements entered into pursuant to section 852 of this title and orders issued pursuant to section 854 of this title . The provisions of subsections (a), (b)(2), (c), (f), (h), and
       - **(i)** of section 610 of this title , are made applicable in connection with the administration of this chapter.
 
+
+## Source Credit
+
+*(Aug. 24, 1935, ch. 641, § 60, [49 Stat. 782](https://www.govinfo.gov/link/statute/49/782).)*

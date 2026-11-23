@@ -3,9 +3,10 @@ title: "Section 8518 - Computing resource efficiency improvement and annual repo
 usc_title: 15
 usc_section: "8518"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8518"
-generated_at: "2026-03-30T02:54:08.230Z"
+generated_at: "2026-11-23T21:25:40.085Z"
+status: "active"
 ---
 
 # § 8518. Computing resource efficiency improvement and annual report
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:08.230Z"
   - **(5)** to utilize non-Federal contracts to obtain the necessary expertise for advanced weather computing, if appropriate;
   - **(6)** to utilize cloud computing; and
   - **(7)** to create a long-term strategy to transition the programming language of weather model code to current and broadly-used coding language.
+
+## Source Credit
+
+*([Pub. L. 115–25, title I, § 108](https://www.govinfo.gov/link/plaw/115/public/25), Apr. 18, 2017, [131 Stat. 97](https://www.govinfo.gov/link/statute/131/97); [Pub. L. 115–423, § 5(a)](https://www.govinfo.gov/link/plaw/115/public/423), Jan. 7, 2019, [132 Stat. 5457](https://www.govinfo.gov/link/statute/132/5457).)*

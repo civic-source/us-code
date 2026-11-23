@@ -3,9 +3,10 @@ title: "Section 6320 - Participation of children enrolled in private schools"
 usc_title: 20
 usc_section: "6320"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6320"
-generated_at: "2026-03-30T02:54:48.195Z"
+generated_at: "2026-11-23T21:25:47.499Z"
+status: "active"
 ---
 
 # § 6320. Participation of children enrolled in private schools
@@ -70,3 +71,7 @@ generated_at: "2026-03-30T02:54:48.195Z"
   - **(1)** waive the requirements of this section for such local educational agency;
   - **(2)** arrange for the provision of services to such children through arrangements that shall be subject to the requirements of this section and sections 7883 and 7884 of this title; and
   - **(3)** in making the determination under this subsection, consider one or more factors, including the quality, size, scope, and location of the program and the opportunity of eligible children to participate.
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1117](https://www.govinfo.gov/link/plaw/89/public/10), formerly § 1120, as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1508](https://www.govinfo.gov/link/statute/115/1508); renumbered § 1117 and amended [Pub. L. 114–95, title I](https://www.govinfo.gov/link/plaw/114/public/95), §§ 1000(3), 1011, Dec. 10, 2015, [129 Stat. 1814](https://www.govinfo.gov/link/statute/129/1814), 1871.)*

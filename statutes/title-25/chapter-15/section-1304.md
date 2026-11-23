@@ -3,9 +3,10 @@ title: "Section 1304 - Tribal jurisdiction over covered crimes"
 usc_title: 25
 usc_section: "1304"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1304"
-generated_at: "2026-03-30T02:54:52.815Z"
+generated_at: "2026-11-23T21:25:54.600Z"
+status: "active"
 ---
 
 # § 1304. Tribal jurisdiction over covered crimes
@@ -122,3 +123,33 @@ generated_at: "2026-03-30T02:54:52.815Z"
     - **(A)** to carry out subsection (h); and
     - **(B)** to provide training, technical assistance, data collection, and evaluation of the criminal justice systems of participating tribes.
   - **(2)** Of the total amount made available under paragraph (1) for each fiscal year, not more than 40 percent shall be used for reimbursements under subsection (h)(1).
+
+(aa) to establish conditions under which a Tribal government (or an authorized designee of a Tribal government) may seek a waiver to the maximum allowable reimbursement requirement established under subclause (I); and
+
+(bb) to waive the maximum allowable reimbursement requirements established under subclause (I) for a Tribal government (or an authorized designee of a Tribal government) if the conditions established by the Attorney General under item (aa) are met by that Tribal government (or authorized designee).
+
+(aa) reimburse the Tribal government (or authorized designee); or
+
+(bb) notify the Tribal government (or authorized designee) of the reason by which the Attorney General was unable to issue the reimbursement; and
+
+General Effective Date
+
+Effective Date for Special Domestic-violence Criminal Jurisdiction.—
+
+In general
+
+Pilot project.—
+
+In general
+
+Procedure
+
+Effective dates for pilot projects
+
+Findings
+
+Purposes
+
+## Source Credit
+
+*([Pub. L. 90–284, title II, § 204](https://www.govinfo.gov/link/plaw/90/public/284), as added [Pub. L. 113–4, title IX, § 904](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 120](https://www.govinfo.gov/link/statute/127/120); amended [Pub. L. 117–103, div. W, title VIII, § 804](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 898](https://www.govinfo.gov/link/statute/136/898).)*

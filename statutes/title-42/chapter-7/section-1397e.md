@@ -3,9 +3,10 @@ title: "Section 1397e - Administrative and fiscal accountability"
 usc_title: 42
 usc_section: "1397e"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1397e"
-generated_at: "2026-03-30T02:56:11.065Z"
+generated_at: "2026-11-23T21:26:31.928Z"
+status: "active"
 ---
 
 # § 1397e. Administrative and fiscal accountability
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.065Z"
   - **(3)** the criteria applied in determining eligibility for services (such as income eligibility guidelines, sliding fee scales, the effect of public assistance benefits, and any requirements for enrollment in school or training programs); and
   - **(4)** the methods by which services were provided, showing separately the services provided by public agencies and those provided by private agencies, and broken down in each case to reflect the types of services and circumstances involved.
 - **(d)** For other provisions requiring States to account for Federal grants, see section 6503 of title 31 .
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XX, § 2006, as added [Pub. L. 97–35, title XXIII, § 2352(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 870](https://www.govinfo.gov/link/statute/95/870); amended [Pub. L. 98–369, div. B, title VI, § 2663(h)(2)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1169](https://www.govinfo.gov/link/statute/98/1169); [Pub. L. 100–485, title VI, § 607](https://www.govinfo.gov/link/plaw/100/public/485), Oct. 13, 1988, [102 Stat. 2410](https://www.govinfo.gov/link/statute/102/2410); [Pub. L. 111–148, title VI, § 6703(d)(1)(B)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 803](https://www.govinfo.gov/link/statute/124/803).)*

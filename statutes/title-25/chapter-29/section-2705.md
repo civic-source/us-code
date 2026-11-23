@@ -3,9 +3,10 @@ title: "Section 2705 - Powers of Chairman"
 usc_title: 25
 usc_section: "2705"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2705"
-generated_at: "2026-03-30T02:54:52.842Z"
+generated_at: "2026-11-23T21:25:54.674Z"
+status: "active"
 ---
 
 # § 2705. Powers of Chairman
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:52.842Z"
   - **(3)** approve tribal ordinances or resolutions regulating class II gaming and class III gaming as provided in section 2710 of this title ; and
   - **(4)** approve management contracts for class II gaming and class III gaming as provided in sections 2710(d)(9) and 2711 of this title.
 - **(b)** The Chairman shall have such other powers as may be delegated by the Commission.
+
+## Source Credit
+
+*([Pub. L. 100–497, § 6](https://www.govinfo.gov/link/plaw/100/public/497), Oct. 17, 1988, [102 Stat. 2470](https://www.govinfo.gov/link/statute/102/2470).)*

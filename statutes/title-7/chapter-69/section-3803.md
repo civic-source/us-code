@@ -3,12 +3,17 @@ title: "Section 3803 - Prohibition of certain garbage feeding; exemption"
 usc_title: 7
 usc_section: "3803"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3803"
-generated_at: "2026-03-30T02:53:42.404Z"
+generated_at: "2026-11-23T21:25:28.339Z"
+status: "active"
 ---
 
 # § 3803. Prohibition of certain garbage feeding; exemption
 
 - **(a)** No person shall feed or permit the feeding of garbage to swine except in accordance with subsection (b) of this section.
 - **(b)** Garbage may be fed to swine only if treated to kill disease organisms, in accordance with regulations issued by the Secretary, at a facility holding a valid permit issued by the Secretary, or the chief agricultural or animal health official of the State where located if such State has entered into an agreement with the Secretary pursuant to section 3808 of this title or has primary enforcement responsibility pursuant to section 3809 of this title . No person shall operate a facility for the treatment of garbage knowing it is to be fed to swine unless such person holds a valid permit issued pursuant to this chapter. The Secretary may exempt any facility or premises from the requirements of this section whenever the Secretary determines that there would not be a risk to the swine industry in the United States.
+
+## Source Credit
+
+*([Pub. L. 96–468, § 4](https://www.govinfo.gov/link/plaw/96/public/468), Oct. 17, 1980, [94 Stat. 2230](https://www.govinfo.gov/link/statute/94/2230).)*

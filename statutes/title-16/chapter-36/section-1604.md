@@ -3,9 +3,10 @@ title: "Section 1604 - National Forest System land and resource management plans
 usc_title: 16
 usc_section: "1604"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1604"
-generated_at: "2026-03-30T02:54:22.978Z"
+generated_at: "2026-11-23T21:25:51.902Z"
+status: "active"
 ---
 
 # § 1604. National Forest System land and resource management plans
@@ -71,3 +72,7 @@ generated_at: "2026-03-30T02:54:22.978Z"
 - **(m)** The Secretary shall establish—
   - **(1)** standards to insure that, prior to harvest, stands of trees throughout the National Forest System shall generally have reached the culmination of mean annual increment of growth (calculated on the basis of cubic measurement or other methods of calculation at the discretion of the Secretary): Provided , That these standards shall not preclude the use of sound silvicultural practices, such as thinning or other stand improvement measures: Provided further , That these standards shall not preclude the Secretary from salvage or sanitation harvesting of timber stands which are substantially damaged by fire, windthrow or other catastrophe, or which are in imminent danger from insect or disease attack; and
   - **(2)** exceptions to these standards for the harvest of particular species of trees in management units after consideration has been given to the multiple uses of the forest including, but not limited to, recreation, wildlife habitat, and range and after completion of public participation processes utilizing the procedures of subsection (d) of this section.
+
+## Source Credit
+
+*([Pub. L. 93–378, § 6](https://www.govinfo.gov/link/plaw/93/public/378), formerly, § 5, Aug. 17, 1974, [88 Stat. 477](https://www.govinfo.gov/link/statute/88/477), renumbered § 6 and amended [Pub. L. 94–588](https://www.govinfo.gov/link/plaw/94/public/588), §§ 2, 6, 12(a), Oct. 22, 1976, [90 Stat. 2949](https://www.govinfo.gov/link/statute/90/2949), 2952, 2958; [Pub. L. 115–141, div. O, title II, § 208(a)](https://www.govinfo.gov/link/plaw/115/public/141), (b)(2), Mar. 23, 2018, [132 Stat. 1065](https://www.govinfo.gov/link/statute/132/1065), 1066.)*

@@ -3,12 +3,17 @@ title: "Section 6982 - Administrative authorities"
 usc_title: 22
 usc_section: "6982"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6982"
-generated_at: "2026-03-30T02:55:05.434Z"
+generated_at: "2026-11-23T21:25:58.704Z"
+status: "active"
 ---
 
 # § 6982. Administrative authorities
 
 In carrying out the programs authorized by section 6981 of this title , the Secretary of Commerce and the Secretary of Labor (in consultation with the Secretary of State) may utilize any of the authorities contained in the Foreign Assistance Act of 1961 [ 22 U.S.C. 2151 et seq.] and the Foreign Service Act of 1980 [ 22 U.S.C. 3901 et seq.].
 
+
+## Source Credit
+
+*([Pub. L. 106–286, div. B, title V, § 512](https://www.govinfo.gov/link/plaw/106/public/286), Oct. 10, 2000, [114 Stat. 906](https://www.govinfo.gov/link/statute/114/906).)*

@@ -3,9 +3,10 @@ title: "Section 1a - Recovery of expenditures under certain conditions"
 usc_title: 42
 usc_section: "1a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1a"
-generated_at: "2026-03-30T02:56:10.808Z"
+generated_at: "2026-11-23T21:26:30.778Z"
+status: "active"
 ---
 
 # § 300s–1a. Recovery of expenditures under certain conditions
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:10.808Z"
     - **(B)** will meet the obligation of the facility under clause (i) of section 300s–1(b)(1)(K) of this title .
   - **(2)** The Secretary may waive the recovery rights of the United States under subsection (a)(2) with respect to a facility in any State if the Secretary determines, in accordance with regulations, that there is good cause for waiving such rights with respect to such facility.
 - **(e)** The right of recovery of the United States under subsection (a) shall not constitute a lien on any facility with respect to which funds have been paid under this subchapter.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XVI, § 1622, formerly § 1631, as added [Pub. L. 93–641, § 4](https://www.govinfo.gov/link/plaw/93/public/641), Jan. 4, 1975, [88 Stat. 2269](https://www.govinfo.gov/link/statute/88/2269); amended [Pub. L. 94–278, title XI, § 1106(c)](https://www.govinfo.gov/link/plaw/94/public/278), Apr. 22, 1976, [90 Stat. 416](https://www.govinfo.gov/link/statute/90/416); renumbered § 1622 and amended [Pub. L. 96–79, title II](https://www.govinfo.gov/link/plaw/96/public/79), §§ 202(b), 203(c), Oct. 4, 1979, [93 Stat. 632](https://www.govinfo.gov/link/statute/93/632), 635; [Pub. L. 98–369, div. B](https://www.govinfo.gov/link/plaw/98/public/369). title III, § 2381(b), July 18, 1984, [98 Stat. 1114](https://www.govinfo.gov/link/statute/98/1114).)*

@@ -3,9 +3,10 @@ title: "Section 5537 - Limitation on Missile Defense Agency production of satell
 usc_title: 10
 usc_section: "5537"
 chapter: 551
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 5537"
-generated_at: "2026-03-30T02:53:38.217Z"
+generated_at: "2026-11-23T21:25:32.808Z"
+status: "active"
 ---
 
 # § 5537. Limitation on Missile Defense Agency production of satellites and ground systems associated with operation of such satellites
@@ -15,3 +16,11 @@ generated_at: "2026-03-30T02:53:38.217Z"
   - **(1)** The Director, with the concurrence of the Space Acquisition Council established by section 9021 of this title , may authorize the production of one or more prototype satellites, consistent with the requirements of the Missile Defense Agency.
   - **(2)** Not later than 30 days after the date on which the Space Acquisition Council concurs with the Director with respect to authorizing the production of a prototype satellite under paragraph (1), the chair of the Council shall submit to the congressional defense committees a report explaining the reasons for such concurrence.
   - **(3)** The Director may not obligate funds for the production of a prototype satellite under paragraph (1) before the date on which the Space Acquisition Council submits the report for such prototype satellite under paragraph (2).
+
+Production of Satellites and Ground Systems
+
+Prototype Satellites
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title XVI, § 1649(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2197](https://www.govinfo.gov/link/statute/138/2197).)*

@@ -3,9 +3,10 @@ title: "Section 221 - Requirements with respect to administering polygraph exami
 usc_title: 6
 usc_section: "221"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 221"
-generated_at: "2026-03-30T02:53:09.452Z"
+generated_at: "2026-11-23T21:25:25.766Z"
+status: "active"
 ---
 
 # § 221. Requirements with respect to administering polygraph examinations to law enforcement personnel of U.S. Customs and Border Protection
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:53:09.452Z"
   - **(3)** has a current Single Scope Background Investigation;
   - **(4)** was not granted any waivers to obtain his or her clearance; and
   - **(5)** is a veteran (as defined in section 2108 of title 5 ).
+
+“The Secretary of Homeland Security, acting through the Commissioner of U.S. Customs and Border Protection, may waive the polygraph examination requirement under section 3 of the Anti-Border Corruption Act of 2010 ( Public Law 111–376 ) [ 6 U.S.C. 221 ] for any applicant who—
+
+“Congress makes the following findings:
+
+## Source Credit
+
+*([Pub. L. 111–376, § 3](https://www.govinfo.gov/link/plaw/111/public/376), Jan. 4, 2011, [124 Stat. 4104](https://www.govinfo.gov/link/statute/124/4104); [Pub. L. 114–279, § 5](https://www.govinfo.gov/link/plaw/114/public/279), Dec. 16, 2016, [130 Stat. 1422](https://www.govinfo.gov/link/statute/130/1422).)*

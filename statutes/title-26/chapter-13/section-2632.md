@@ -3,9 +3,10 @@ title: "Section 2632 - Special rules for allocation of GST exemption"
 usc_title: 26
 usc_section: "2632"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 2632"
-generated_at: "2026-03-30T02:55:27.785Z"
+generated_at: "2026-11-23T21:26:06.541Z"
+status: "active"
 ---
 
 # § 2632. Special rules for allocation of GST exemption
@@ -64,3 +65,11 @@ generated_at: "2026-03-30T02:55:27.785Z"
   - **(2)**
     - **(A)** The allocation under paragraph (1) shall be made among the properties described in subparagraph (A) thereof and the trusts described in subparagraph (B) thereof, as the case may be, in proportion to the respective amounts (at the time of allocation) of the nonexempt portions of such properties or trusts.
     - **(B)** For purposes of subparagraph (A), the term “nonexempt portion” means the value (at the time of allocation) of the property or trust, multiplied by the inclusion ratio with respect to such property or trust.
+
+Deemed allocation
+
+Retroactive allocations
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XIV, § 1431(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2721](https://www.govinfo.gov/link/statute/100/2721); amended [Pub. L. 100–647, title I, § 1014(g)(16)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3566](https://www.govinfo.gov/link/statute/102/3566); [Pub. L. 107–16, title V, § 561(a)](https://www.govinfo.gov/link/plaw/107/public/16), (b), June 7, 2001, [115 Stat. 86](https://www.govinfo.gov/link/statute/115/86), 89.)*

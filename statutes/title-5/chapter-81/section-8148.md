@@ -3,9 +3,10 @@ title: "Section 8148 - Forfeiture of benefits by convicted felons"
 usc_title: 5
 usc_section: "8148"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8148"
-generated_at: "2026-03-30T02:52:56.043Z"
+generated_at: "2026-11-23T21:25:23.360Z"
+status: "active"
 ---
 
 # § 8148. Forfeiture of benefits by convicted felons
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:52:56.043Z"
   - **(2)** Such individual shall not be entitled to receive the benefits forfeited during the period of incarceration under paragraph (1), after such period of incarceration ends.
   - **(3)** If an individual has one or more dependents as defined under section 8110(a), the Secretary of Labor may, during the period of incarceration, pay to such dependents a percentage of the benefits that would have been payable to such individual computed according to the percentages set forth in section 8133(a)(1) through (5).
 - **(c)** Notwithstanding the provision of section 552a of this title , or any other provision of Federal or State law, any agency of the United States Government or of any State (or political subdivision thereof) shall make available to the Secretary of Labor, upon written request, the names and Social Security account numbers of individuals who are confined in a jail, prison, or other penal institution or correctional facility under the jurisdiction of such agency, pursuant to such individuals’ conviction of an offense that constituted a felony under applicable law, which the Secretary of Labor may require to carry out the provisions of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 103–333, title I, § 101(a)(1)](https://www.govinfo.gov/link/plaw/103/public/333), Sept. 30, 1994, [108 Stat. 2546](https://www.govinfo.gov/link/statute/108/2546); amended [Pub. L. 105–247, § 1](https://www.govinfo.gov/link/plaw/105/public/247), Oct. 9, 1998, [112 Stat. 1863](https://www.govinfo.gov/link/statute/112/1863).)*

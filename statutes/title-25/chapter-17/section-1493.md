@@ -3,12 +3,17 @@ title: "Section 1493 - Loan refusal; conditions; prohibition against acquisition
 usc_title: 25
 usc_section: "1493"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1493"
-generated_at: "2026-03-30T02:54:52.817Z"
+generated_at: "2026-11-23T21:25:54.609Z"
+status: "active"
 ---
 
 # § 1493. Loan refusal; conditions; prohibition against acquisition of additional loans; payment of claims on loans made in good faith
 
 Whenever the Secretary finds that any lender or holder of a guaranty certificate fails to maintain adequate accounting records, or to demonstrate proper ability to service adequately loans guaranteed or insured, or to exercise proper credit judgment, or has willfully or negligently engaged in practices otherwise detrimental to the interests of a borrower or of the United States, he may refuse, either temporarily or permanently, to guarantee or insure any further loans made by such lender or holder, and may bar such lender or holder from acquiring additional loans guaranteed or insured hereunder: Provided , That the Secretary shall not refuse to pay a valid guaranty or insurance claim on loans previously made in good faith.
 
+
+## Source Credit
+
+*([Pub. L. 93–262, title II, § 213](https://www.govinfo.gov/link/plaw/93/public/262), Apr. 12, 1974, [88 Stat. 81](https://www.govinfo.gov/link/statute/88/81).)*

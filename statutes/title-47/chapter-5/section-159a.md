@@ -3,9 +3,10 @@ title: "Section 159a - Provisions applicable to application and regulatory fees"
 usc_title: 47
 usc_section: "159a"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 159a"
-generated_at: "2026-03-30T02:56:24.494Z"
+generated_at: "2026-11-23T21:26:35.935Z"
+status: "active"
 ---
 
 # § 159a. Provisions applicable to application and regulatory fees
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:24.494Z"
   - **(1)** in the case of fees under section 158 or 159 of this title in large amounts, by installments; and
   - **(2)** in the case of fees under section 158 or 159 of this title in small amounts, in advance for a number of years not to exceed the term of the license held by the payor.
 - **(f)** The Commission shall develop accounting systems necessary to make the amendments authorized by sections 158(c) and 159(d) of this title.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title I, § 9A, as added [Pub. L. 115–141, div. P, title I, § 102(c)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1084](https://www.govinfo.gov/link/statute/132/1084).)*

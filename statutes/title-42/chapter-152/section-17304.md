@@ -3,9 +3,10 @@ title: "Section 17304 - Penalties"
 usc_title: 42
 usc_section: "17304"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17304"
-generated_at: "2026-03-30T02:56:11.504Z"
+generated_at: "2026-11-23T21:26:33.784Z"
+status: "active"
 ---
 
 # § 17304. Penalties
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.504Z"
   - **(2)** the court shall take into consideration, among other factors—
     - **(A)** the seriousness of the violation; and
     - **(B)** the efforts of the person committing the violation to remedy the harm caused by the violation in a timely manner.
+
+## Source Credit
+
+*([Pub. L. 110–140, title VIII, § 814](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1724](https://www.govinfo.gov/link/statute/121/1724).)*

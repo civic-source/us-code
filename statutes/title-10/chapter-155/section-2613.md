@@ -3,9 +3,10 @@ title: "Section 2613 - Acceptance of frequent traveler miles, credits, points, a
 usc_title: 10
 usc_section: "2613"
 chapter: 155
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2613"
-generated_at: "2026-03-30T02:53:38.166Z"
+generated_at: "2026-11-23T21:25:32.636Z"
+status: "active"
 ---
 
 # § 2613. Acceptance of frequent traveler miles, credits, points, and tickets: use to facilitate rest and recuperation travel of deployed members and their families
@@ -31,3 +32,21 @@ generated_at: "2026-03-30T02:53:38.166Z"
   - **(1)** to promote the donation of travel benefits under this section, except that amounts appropriated to the Department of Defense may not be expended for this purpose; and
   - **(2)** to assist in administering the collection, distribution, and use of travel benefits under this section.
 - **(g)** In this section, the term “family member” has the meaning given that term in section 451(a) of title 37 .
+
+Authority to Accept Donation of Travel Benefits
+
+Travel Benefit Defined
+
+Condition on Authority to Accept Donation
+
+Use of Donated Travel Benefits
+
+Administration
+
+Services of Nonprofit Organization
+
+Family Member Defined
+
+## Source Credit
+
+*(Added [Pub. L. 108–375, div. A, title V, § 585(a)(1)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1930](https://www.govinfo.gov/link/statute/118/1930); amended [Pub. L. 109–364, div. A, title X, § 1071(a)(20)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2399](https://www.govinfo.gov/link/statute/120/2399); [Pub. L. 112–81, div. A, title V, § 576(a)](https://www.govinfo.gov/link/plaw/112/public/81) –(d)(1), title VI, § 631(f)(4)(A), Dec. 31, 2011, [125 Stat. 1428](https://www.govinfo.gov/link/statute/125/1428), 1429, 1465; [Pub. L. 112–239, div. A, title X, § 1076(a)(9)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1948](https://www.govinfo.gov/link/statute/126/1948); [Pub. L. 115–232, div. A, title X, § 1081(a)(25)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1985](https://www.govinfo.gov/link/statute/132/1985); [Pub. L. 117–263, div. A, title VI, § 626(c)(8)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2628](https://www.govinfo.gov/link/statute/136/2628).)*

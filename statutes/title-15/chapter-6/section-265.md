@@ -3,12 +3,17 @@ title: "Section 265 - Transfer of certain territory to standard central-time zon
 usc_title: 15
 usc_section: "265"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 265"
-generated_at: "2026-03-30T02:54:08.077Z"
+generated_at: "2026-11-23T21:25:39.615Z"
+status: "active"
 ---
 
 # § 265. Transfer of certain territory to standard central-time zone
 
 The Panhandle and Plains sections of Texas and Oklahoma are transferred to and placed within the United States standard central-time zone. The Secretary of Transportation is authorized and directed to issue an order placing the western boundary line of the United States standard central-time zone insofar as the same affect Texas and Oklahoma as follows: Beginning at a point where such western boundary time zone line crosses the State boundary line between Kansas and Oklahoma; thence westerly along said State boundary line to the northwest corner of the State of Oklahoma; thence in a southerly direction along the west State boundary line of Oklahoma and the west State boundary line of Texas to the southeastern corner of the State of New Mexico; thence in a westerly direction along the State boundary line between the States of Texas and New Mexico to the Rio Grande River; thence down the Rio Grande River as the boundary line between the United States and Mexico: Provided , That the Chicago, Rock Island and Gulf Railway Company and the Chicago, Rock Island and Pacific Railway Company may use Tucumcari, New Mexico, as the point at which they change from central to mountain time and vice versa; the Colorado Southern and Fort Worth and Denver City Railway Companies may use Sixela, New Mexico, as such changing point; the Atchison, Topeka and Santa Fe Railway Company and other branches of the Santa Fe system may use Clovis, New Mexico, as such changing point, and those railways running into or through El Paso may use El Paso as such point: Provided further , That this section shall not, except as herein provided, interfere with the adjustment of time zones as established by the Secretary of Transportation.
 
+
+## Source Credit
+
+*(Mar. 4, 1921, ch. 173, § 1, [41 Stat. 1446](https://www.govinfo.gov/link/statute/41/1446); [Pub. L. 97–449, § 2(c)](https://www.govinfo.gov/link/plaw/97/public/449), Jan. 12, 1983, [96 Stat. 2439](https://www.govinfo.gov/link/statute/96/2439).)*

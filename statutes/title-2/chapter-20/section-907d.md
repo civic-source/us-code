@@ -3,9 +3,10 @@ title: "Section 907d - Special reconciliation process"
 usc_title: 2
 usc_section: "907d"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 907d"
-generated_at: "2026-03-30T02:53:04.807Z"
+generated_at: "2026-11-23T21:25:21.206Z"
+status: "active"
 ---
 
 # § 907d. Special reconciliation process
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:04.807Z"
   - **(3)** Section 641(d)(2) of this title shall apply to reconciliation bills and reconciliation resolutions reported under this subsection.
   - **(4)** Any bill or resolution received in the Senate from the House, which is a companion to a reconciliation bill or reconciliation resolution of the Senate for the purposes of this subsection, shall be considered in the Senate pursuant to the provisions of this subsection.
   - **(5)** For purposes of this subsection, the term “resolution” means a simple, joint, or concurrent resolution.
+
+## Source Credit
+
+*([Pub. L. 99–177, title II, § 258C](https://www.govinfo.gov/link/plaw/99/public/177), as added [Pub. L. 101–508, title XIII, § 13101(g)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–600](https://www.govinfo.gov/link/statute/104/1388).)*

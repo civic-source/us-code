@@ -3,9 +3,10 @@ title: "Section 44733 - Oversight of repair stations located outside the United 
 usc_title: 49
 usc_section: "44733"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44733"
-generated_at: "2026-03-30T02:56:19.387Z"
+generated_at: "2026-11-23T21:26:40.906Z"
+status: "active"
 ---
 
 # § 44733. Oversight of repair stations located outside the United States
@@ -64,3 +65,71 @@ generated_at: "2026-03-30T02:56:19.387Z"
   - **(2)** The term “heavy maintenance work” means a C-check, a D-check, or equivalent maintenance operation with respect to the airframe of a transport-category aircraft (including on-wing aircraft engines).
   - **(3)** The term “part 121 air carrier” means an air carrier that holds a certificate issued under part 121 of title 14, Code of Federal Regulations.
   - **(4)** The term “part 145 repair station” means a repair station that holds a certificate issued under part 145 of title 14, Code of Federal Regulations.
+
+In General
+
+Notice to Congress of Negotiations
+
+Annual Report
+
+Alcohol and Controlled Substances Testing Program Requirements.—
+
+In general
+
+Application to part 121 aircraft work
+
+Annual Inspections
+
+Risk-Based Oversight.—
+
+In general
+
+International agreements
+
+Access to data
+
+Data Analysis.—
+
+In general
+
+Information required
+
+Analysis
+
+Confidentiality
+
+Applications and Prohibition.—
+
+In general
+
+Exception
+
+Maintenance implementation procedures agreement
+
+Prohibition on continued heavy maintenance work
+
+In general
+
+Available for consultation
+
+Definitions
+
+Covered repair station
+
+Heavy maintenance work
+
+Part 121 air carrier
+
+Part 145 repair station
+
+Rulemaking on assessment requirement
+
+Definition of covered repair station
+
+“The Administrator of the Federal Aviation Administration shall ensure that—
+
+“Not later than 180 days after the date of enactment of this Act [ July 15, 2016 ], the Administrator shall ensure that each employee of a repair station certificated under part 145 of title 14, Code of Federal Regulations, who performs a safety-sensitive function on an air carrier aircraft has undergone a pre-employment background investigation sufficient to determine whether the individual presents a threat to aviation safety, in a manner that is—
+
+## Source Credit
+
+*(Added [Pub. L. 112–95, title III, § 308(a)](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 62](https://www.govinfo.gov/link/statute/126/62); amended [Pub. L. 114–190, title II, § 2112(a)](https://www.govinfo.gov/link/plaw/114/public/190), July 15, 2016, [130 Stat. 627](https://www.govinfo.gov/link/statute/130/627); [Pub. L. 118–63, title III, § 302(a)(1)](https://www.govinfo.gov/link/plaw/118/public/63), (2), May 16, 2024, [138 Stat. 1067](https://www.govinfo.gov/link/statute/138/1067), 1069.)*

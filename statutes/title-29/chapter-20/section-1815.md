@@ -3,9 +3,10 @@ title: "Section 1815 - Notice of address change; amendment of certificate of reg
 usc_title: 29
 usc_section: "1815"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1815"
-generated_at: "2026-03-30T02:55:18.739Z"
+generated_at: "2026-11-23T21:26:02.308Z"
+status: "active"
 ---
 
 # § 1815. Notice of address change; amendment of certificate of registration
@@ -17,3 +18,7 @@ During the period for which the certificate of registration is in effect, each f
     - **(A)** engage in another farm labor contracting activity,
     - **(B)** use, or cause to be used, another vehicle than that covered by the certificate to transport any migrant or seasonal agricultural worker, or
     - **(C)** use, or cause to be used, another real property or facility to house any migrant agricultural worker than that covered by the certificate.
+
+## Source Credit
+
+*([Pub. L. 97–470, title I, § 105](https://www.govinfo.gov/link/plaw/97/public/470), Jan. 14, 1983, [96 Stat. 2589](https://www.govinfo.gov/link/statute/96/2589).)*

@@ -3,9 +3,10 @@ title: "Section 6941a - Energy and materials conservation and recovery; Congress
 usc_title: 42
 usc_section: "6941a"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6941a"
-generated_at: "2026-03-30T02:56:11.275Z"
+generated_at: "2026-11-23T21:26:33.012Z"
+status: "active"
 ---
 
 # § 6941a. Energy and materials conservation and recovery; Congressional findings
@@ -18,3 +19,7 @@ The Congress finds that—
   - **(4)** the technology to conserve resources exists and is commercially feasible to apply;
   - **(5)** the technology to recover energy and materials from solid waste is of demonstrated commercial feasibility; and
   - **(6)** various communities throughout the nation have different needs and different potentials for conserving resources and for utilizing techniques for the recovery of energy and materials from waste, and Federal assistance in planning and implementing such energy and materials conservation and recovery programs should be available to all such communities on an equitable basis in relation to their needs and potential.
+
+## Source Credit
+
+*([Pub. L. 96–482, § 32(a)](https://www.govinfo.gov/link/plaw/96/public/482), Oct. 21, 1980, [94 Stat. 2353](https://www.govinfo.gov/link/statute/94/2353).)*

@@ -3,9 +3,10 @@ title: "Section 2433 - United States personnel missing in action in Southeast As
 usc_title: 19
 usc_section: "2433"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2433"
-generated_at: "2026-03-30T02:54:24.674Z"
+generated_at: "2026-11-23T21:25:42.804Z"
+status: "active"
 ---
 
 # § 2433. United States personnel missing in action in Southeast Asia
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:24.674Z"
     - **(B)** such country may not participate, directly or indirectly, in any program under which the United States extends credit, credit guarantees, or investment guarantees, and
     - **(C)** no commercial agreement entered into under this subchapter between such country and the United States will take effect.
 - **(b)** This section shall not apply to any country the products of which are eligible for the rates set forth in rate column numbered 1 of the Tariff Schedules of the United States on January 3, 1975 .
+
+## Source Credit
+
+*([Pub. L. 93–618, title IV, § 403](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 2060](https://www.govinfo.gov/link/statute/88/2060).)*

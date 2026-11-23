@@ -3,9 +3,10 @@ title: "Section 1733 - Information"
 usc_title: 30
 usc_section: "1733"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1733"
-generated_at: "2026-03-30T02:55:29.409Z"
+generated_at: "2026-11-23T21:26:00.447Z"
+status: "active"
 ---
 
 # § 1733. Information
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:29.409Z"
   - **(4)** in the case of an Indian tribe, such tribe demonstrates that such information is essential to the conduct of an audit or investigation and waives sovereign immunity by express consent for wrongful disclosure by such tribe.
 - **(b)** The United States shall not be liable for the wrongful disclosure by any individual, State, or Indian tribe of any information provided to such individual, State, or Indian tribe pursuant to any cooperative agreement or a delegation, authorized by this chapter.
 - **(c)** Whenever any individual, State, or Indian tribe has obtained possession of information pursuant to a cooperative agreement authorized by this section, or any individual or State has obtained possession of information pursuant to a delegation under section 1735 of this title , the individual shall be subject to the same provisions of law with respect to the disclosure of such information as would apply to an officer or employee of the United States or of any department or agency thereof and the State or Indian tribe shall be subject to the same provisions of law with respect to the disclosure of such information as would apply to the United States or any department or agency thereof. No State or State officer or employee who receives trade secrets, proprietary information, or other confidential information under this chapter may be required to disclose such information under State law.
+
+## Source Credit
+
+*([Pub. L. 97–451, title II, § 203](https://www.govinfo.gov/link/plaw/97/public/451), Jan. 12, 1983, [96 Stat. 2458](https://www.govinfo.gov/link/statute/96/2458).)*

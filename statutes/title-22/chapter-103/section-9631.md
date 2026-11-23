@@ -3,9 +3,10 @@ title: "Section 9631 - Operations"
 usc_title: 22
 usc_section: "9631"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9631"
-generated_at: "2026-03-30T02:55:05.470Z"
+generated_at: "2026-11-23T21:25:58.782Z"
+status: "active"
 ---
 
 # § 9631. Operations
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.470Z"
 - **(e)** It is the sense of Congress that—
   - **(1)** the Corporation is obligated to consult with and collect input from current employees on plans to substantially reorganize the Corporation prior to implementation of such plan; and
   - **(2)** the Corporation should consider preference, experience, and, when relevant, seniority when reassigning existing employees to new areas of work.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. F, title III, § 1431](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3499](https://www.govinfo.gov/link/statute/132/3499); [Pub. L. 119–60, div. H, title LXXXVII, § 8751](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1963](https://www.govinfo.gov/link/statute/139/1963).)*

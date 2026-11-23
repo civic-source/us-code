@@ -3,9 +3,10 @@ title: "Section 41313 - GAO study on incidence of fatal and non-fatal physical a
 usc_title: 34
 usc_section: "41313"
 chapter: 413
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 41313"
-generated_at: "2026-03-30T02:55:33.314Z"
+generated_at: "2026-11-23T21:26:09.848Z"
+status: "active"
 ---
 
 # § 41313. GAO study on incidence of fatal and non-fatal physical and sexual assault of passengers, TNC drivers, and drivers of other for-hire vehicles
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:33.314Z"
   - **(2)** the nature and specifics of any background checks conducted on prospective TNC drivers and drivers of other for-hire vehicles (including taxicabs), including any State and local laws requiring those background checks; and
   - **(3)** the safety steps taken by transportation network companies and other for-hire vehicle services (including taxicab companies) related to rider and driver safety.
 - **(b)** In this section, the term “sexual assault” means the occurrence of an act that constitutes any nonconsensual sexual act proscribed by Federal, Tribal, or State law, including when the victim lacks capacity to consent.
+
+## Source Credit
+
+*([Pub. L. 117–330, § 2](https://www.govinfo.gov/link/plaw/117/public/330), Jan. 5, 2023, [136 Stat. 6114](https://www.govinfo.gov/link/statute/136/6114).)*

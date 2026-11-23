@@ -3,9 +3,10 @@ title: "Section 321 - Special pay: judge advocate continuation pay"
 usc_title: 37
 usc_section: "321"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 321"
-generated_at: "2026-03-30T02:55:44.053Z"
+generated_at: "2026-11-23T21:26:14.209Z"
+status: "active"
 ---
 
 # § 321. Special pay: judge advocate continuation pay
@@ -21,3 +22,21 @@ generated_at: "2026-03-30T02:55:44.053Z"
 - **(e)** Any amount paid to an officer under this section is in addition to any other pay and allowances to which the officer is entitled.
 - **(f)** An officer who has entered into a written agreement under subsection (b) and has received all or part of the amount payable under the agreement but who does not complete the total period of active duty specified in the agreement, shall be subject to the repayment provisions of section 303a(e) of this title .
 - **(g)** The Secretary concerned shall prescribe regulations to carry out this section.
+
+Eligible Judge Advocate Defined
+
+Special Pay Authorized
+
+Proration
+
+Payment Methods
+
+Additional Pay
+
+Repayment
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 106–65, div. A, title VI, § 629(a)(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 659](https://www.govinfo.gov/link/statute/113/659); amended [Pub. L. 109–163, div. A, title VI, § 687(b)(29)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3332](https://www.govinfo.gov/link/statute/119/3332).)*

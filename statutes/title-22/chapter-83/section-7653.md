@@ -3,9 +3,10 @@ title: "Section 7653 - Annual reports on prevention of mother-to-child transmiss
 usc_title: 22
 usc_section: "7653"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7653"
-generated_at: "2026-03-30T02:55:05.444Z"
+generated_at: "2026-11-23T21:25:58.724Z"
+status: "active"
 ---
 
 # § 7653. Annual reports on prevention of mother-to-child transmission of the HIV infection
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.444Z"
     - **(C)** the number of women tested and counseled; and
     - **(D)** the number of women receiving preventative drug therapies.
 - **(c)** In this section, the term “reporting period” means, in the case of the initial report, the period since May 27, 2003 , and, in the case of any subsequent report, the period since the date of submission of the most recent report.
+
+## Source Credit
+
+*([Pub. L. 108–25, title III, § 313](https://www.govinfo.gov/link/plaw/108/public/25), May 27, 2003, [117 Stat. 741](https://www.govinfo.gov/link/statute/117/741); [Pub. L. 110–293, title III, § 308](https://www.govinfo.gov/link/plaw/110/public/293), July 30, 2008, [122 Stat. 2964](https://www.govinfo.gov/link/statute/122/2964).)*

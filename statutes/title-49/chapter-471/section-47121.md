@@ -3,9 +3,10 @@ title: "Section 47121 - Records and audits"
 usc_title: 49
 usc_section: "47121"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 47121"
-generated_at: "2026-03-30T02:56:19.404Z"
+generated_at: "2026-11-23T21:26:40.982Z"
+status: "active"
 ---
 
 # § 47121. Records and audits
@@ -21,3 +22,49 @@ generated_at: "2026-03-30T02:56:19.404Z"
 - **(d)** The Secretary may require a sponsor to conduct an appropriate audit as a condition for receiving a grant under this subchapter.
 - **(e)** The Secretary shall review annually the recordkeeping and reporting requirements under this subchapter to ensure that they are the minimum necessary to carry out this subchapter.
 - **(f)** This section does not authorize the Secretary or the Comptroller General to withhold information from a committee of Congress authorized to have the information.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 47121(a) | 49 App.:2217(a) (1st sentence). | Sept. 3, 1982 , Pub. L. 97–248, § 518 , 96 Stat. 693 . |
+| 47121(b) | 49 App.:2217(b) (1st sentence). |  |
+| 47121(c) | 49 App.:2217(c). |  |
+| 47121(d) | 49 App.:2217(b) (last sentence). |  |
+| 47121(e) | 49 App.:2217(a) (last sentence). |  |
+| 47121(f) | 49 App.:2217(d). |  |
+
+
+Records
+
+Audits and Examinations
+
+Authority of Comptroller General
+
+Audit Requirement
+
+Annual Review
+
+Withholding Information From Congress
+
+Historical and Revision Notes
+
+47121(a)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 518
+
+96 Stat. 693
+
+47121(b)
+
+47121(c)
+
+47121(d)
+
+47121(e)
+
+47121(f)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1274](https://www.govinfo.gov/link/statute/108/1274); [Pub. L. 104–316, title I, § 127(f)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3840](https://www.govinfo.gov/link/statute/110/3840).)*

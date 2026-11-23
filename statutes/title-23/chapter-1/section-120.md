@@ -3,9 +3,10 @@ title: "Section 120 - Federal share payable"
 usc_title: 23
 usc_section: "120"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 120"
-generated_at: "2026-03-30T02:55:12.548Z"
+generated_at: "2026-11-23T21:25:53.867Z"
+status: "active"
 ---
 
 # § 120. Federal share payable
@@ -84,3 +85,161 @@ generated_at: "2026-03-30T02:55:12.548Z"
         - **(I)** submit to the Secretary an application in such form, at such time, and containing such information as the Secretary may require; and
         - **(II)** have in place adequate financial controls to allow the State to determine the average annual Federal share requirements under the pilot program.
       - **(ii)** For each of fiscal years 2022 through 2026, the Secretary shall select not more than 10 States to be participating States.
+
+Interstate System Projects.—
+
+In general
+
+State-determined lower federal share
+
+Other Projects
+
+Increased Federal Share
+
+Certain safety projects
+
+projects
+
+Innovative project delivery.—
+
+In general
+
+Examples
+
+Limitations.—
+
+In general
+
+Federal share increase
+
+Pooled funding
+
+Emergency Relief
+
+Increased Non-Federal Share
+
+Credit for Non-Federal Share.—
+
+Eligibility
+
+In general
+
+Special rule for use of federal funds
+
+Federal funds defined
+
+Maintenance of effort.—
+
+In general
+
+Condition on receipt of credit
+
+Transportation capital expenditures defined
+
+Treatment.—
+
+Limitation on liability
+
+Chartered multistate agencies
+
+Use of Federal Agency Funds
+
+Use of Federal Land and Tribal Transportation Funds
+
+Federal Share Flexibility Pilot Program.—
+
+Establishment
+
+Program.—
+
+In general
+
+Requirements.—
+
+Maximum federal share
+
+Minimum federal share
+
+Determination
+
+Selection.—
+
+Application
+
+Requirement
+
+Use of Federal Land Management Agency Funds
+
+Use of Federal Lands Highways Program Funds
+
+Definitions
+
+Originating state
+
+Pilot program
+
+Recipient state
+
+State
+
+Establishment of Pilot Program
+
+Purposes
+
+Selection of Originating States.—
+
+Application
+
+Selection
+
+Limitation on sales
+
+Transfer or Sale of Credits.—
+
+In general
+
+Website support
+
+Bilateral transactions
+
+Notification
+
+Use of credits by transferee or purchaser
+
+Use of proceeds from sale of credits
+
+Reporting Requirements.—
+
+Initial report
+
+Final report
+
+Termination.—
+
+In general
+
+Procedures
+
+Eligibility
+
+Maintenance of Effort
+
+Treatment
+
+Waiver of Matching Share
+
+Repayment
+
+Deduction From Apportionments
+
+Qualifying Project Defined
+
+In General
+
+Interim Reports
+
+Declaration of Policy.—
+
+## Source Credit
+
+*([Pub. L. 85–767](https://www.govinfo.gov/link/plaw/85/public/767), Aug. 27, 1958, [72 Stat. 898](https://www.govinfo.gov/link/statute/72/898); [Pub. L. 86–70, § 21(d)(4)](https://www.govinfo.gov/link/plaw/86/public/70), (e)(4), June 25, 1959, [73 Stat. 145](https://www.govinfo.gov/link/statute/73/145), 146; [Pub. L. 86–342, title I, § 107(b)](https://www.govinfo.gov/link/plaw/86/public/342), Sept. 21, 1959, [73 Stat. 613](https://www.govinfo.gov/link/statute/73/613); [Pub. L. 86–657, § 3](https://www.govinfo.gov/link/plaw/86/public/657), July 14, 1960, [74 Stat. 522](https://www.govinfo.gov/link/statute/74/522); [Pub. L. 88–658](https://www.govinfo.gov/link/plaw/88/public/658), Oct. 13, 1964, [78 Stat. 1090](https://www.govinfo.gov/link/statute/78/1090); [Pub. L. 89–574, § 9(a)](https://www.govinfo.gov/link/plaw/89/public/574), Sept. 13, 1966, [80 Stat. 769](https://www.govinfo.gov/link/statute/80/769); [Pub. L. 90–495](https://www.govinfo.gov/link/plaw/90/public/495), §§ 27(b), 34, Aug. 23, 1968, [82 Stat. 829](https://www.govinfo.gov/link/statute/82/829), 835; [Pub. L. 91–605, title I](https://www.govinfo.gov/link/plaw/91/public/605), §§ 106(f), 108(a), 109(b), 128, Dec. 31, 1970, [84 Stat. 1718](https://www.govinfo.gov/link/statute/84/1718), 1719, 1731; [Pub. L. 95–599, title I](https://www.govinfo.gov/link/plaw/95/public/599), §§ 117, 129(a)–(c), (i), Nov. 6, 1978, [92 Stat. 2699](https://www.govinfo.gov/link/statute/92/2699), 2707, 2708; [Pub. L. 97–424, title I](https://www.govinfo.gov/link/plaw/97/public/424), §§ 109(b), 117, 123(a), 153(f), 156(c), Jan. 6, 1983, [96 Stat. 2105](https://www.govinfo.gov/link/statute/96/2105), 2109, 2113, 2133, 2134; [Pub. L. 98–78, title III, § 318](https://www.govinfo.gov/link/plaw/98/public/78), Aug. 15, 1983, [97 Stat. 473](https://www.govinfo.gov/link/statute/97/473); [Pub. L. 100–17, title I, § 117(a)](https://www.govinfo.gov/link/plaw/100/public/17) –(c)(1), (d), (e), Apr. 2, 1987, [101 Stat. 155](https://www.govinfo.gov/link/statute/101/155), 156; [Pub. L. 102–240, title I](https://www.govinfo.gov/link/plaw/102/public/240), §§ 1021(a), (b), 1022(a), Dec. 18, 1991, [105 Stat. 1950](https://www.govinfo.gov/link/statute/105/1950), 1951; [Pub. L. 104–59, title III, § 310(a)](https://www.govinfo.gov/link/plaw/104/public/59), Nov. 28, 1995, [109 Stat. 582](https://www.govinfo.gov/link/statute/109/582); [Pub. L. 104–205, title III, § 353(a)](https://www.govinfo.gov/link/plaw/104/public/205), Sept. 30, 1996, [110 Stat. 2980](https://www.govinfo.gov/link/statute/110/2980); [Pub. L. 105–178, title I](https://www.govinfo.gov/link/plaw/105/public/178), §§ 1111(a)–(c), 1113(a), (c), formerly (d), 1115(a), (f)(1), 1212(a)(2)(A)(ii), June 9, 1998, [112 Stat. 145](https://www.govinfo.gov/link/statute/112/145), 151, 152, 154, 193; [Pub. L. 105–206, title IX](https://www.govinfo.gov/link/plaw/105/public/206), §§ 9002(i), 9006(a)(2), July 22, 1998, [112 Stat. 836](https://www.govinfo.gov/link/statute/112/836), 848; [Pub. L. 109–59, title I](https://www.govinfo.gov/link/plaw/109/public/59), §§ 1111(b)(2), 1116(c), 1119(a), 1905, 1947, Aug. 10, 2005, [119 Stat. 1171](https://www.govinfo.gov/link/statute/119/1171), 1177, 1181, 1467, 1513; [Pub. L. 110–140, title XI, § 1131](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1763](https://www.govinfo.gov/link/statute/121/1763); [Pub. L. 112–141, div. A, title I](https://www.govinfo.gov/link/plaw/112/public/141), §§ 1304(b), 1508, July 6, 2012, [126 Stat. 532](https://www.govinfo.gov/link/statute/126/532), 565; [Pub. L. 114–94, div. A, title I](https://www.govinfo.gov/link/plaw/114/public/94), §§ 1104(e)(2), 1408, Dec. 4, 2015, [129 Stat. 1332](https://www.govinfo.gov/link/statute/129/1332), 1410; [Pub. L. 117–58, div. A, title I, § 11107](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 459](https://www.govinfo.gov/link/statute/135/459).)*

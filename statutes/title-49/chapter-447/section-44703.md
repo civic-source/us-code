@@ -3,9 +3,10 @@ title: "Section 44703 - Airman certificates"
 usc_title: 49
 usc_section: "44703"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44703"
-generated_at: "2026-03-30T02:56:19.382Z"
+generated_at: "2026-11-23T21:26:40.893Z"
+status: "active"
 ---
 
 # § 44703. Airman certificates
@@ -194,3 +195,616 @@ generated_at: "2026-03-30T02:56:19.382Z"
       - **(i)** if the individual submits an online application for a replacement certificate; or
       - **(ii)** if the individual applies for a permanent replacement certificate other than by online application and such application has been received by the Federal Aviation Administration; and
   - **(2)** destroyed upon receipt of the permanent replacement airman certificate from the Administrator.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44703(a) | 49 App.:1422(b)(1) (1st sentence, 2d sentence words before 6th comma). | Aug. 23, 1958 , Pub. L. 85–726, § 602(b)(1) , 72 Stat. 776 ; Oct. 19, 1984 , Pub. L. 98–499, § 3 , 98 Stat. 2313 ; Aug. 26, 1992 , Pub. L. 102–345, § 4 , 106 Stat. 926 . |
+|  | 49 App.:1655(c)(1). | Oct. 15, 1966 , Pub. L. 89–670, § 6(c)(1) , 80 Stat. 938 ; Jan. 12, 1983 , Pub. L. 97–449, § 7(b) , 96 Stat. 2444 . |
+| 44703(b) | 49 App.:1422(a) (11th–last words). | Aug. 23, 1958 , Pub. L. 85–726, § 602(a) (9th–last words), (c), 72 Stat. 776 . |
+|  | 49 App.:1422(b)(1) (2d sentence words after 6th comma), (c). |  |
+|  | 49 App.:1655(c)(1). |  |
+| 44703(c)(1) | 49 App.:1422(b)(1) (3d sentence). |  |
+| 44703(c)(2) | 49 App.:1422(b)(1) (4th, 5th sentences, last sentence words before proviso). |  |
+|  | 49 App.:1655(c)(1). |  |
+| 44703(d) | 49 App.:1422(b)(1) (last sentence proviso). |  |
+|  | 49 App.:1655(c)(1). |  |
+| 44703(e) | 49 App.:1422(b)(2)(A), (B). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 602(b)(2)(A), (B); added Oct. 19, 1984 , Pub. L. 98–499, § 3 , 98 Stat. 2313 ; restated Nov. 18, 1988 , Pub. L. 100–690, § 7204(a) , 102 Stat. 4425 . |
+| 44703(f)(1) | 49 App.:1422(d). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 602(d); added Nov. 18, 1988 , Pub. L. 100–690, § 7205(a) , 102 Stat. 4426 . |
+| 44703(f)(2) | 49 App.:1401 (note). | Nov. 18, 1988 , Pub. L. 100–690, § 7207(a) (1st sentence), (b), 102 Stat. 4427 . |
+
+
+General
+
+Contents
+
+Public Information.—
+
+In general
+
+Opportunity to withhold information
+
+Development and implementation of program
+
+Appeals
+
+Restrictions and Prohibitions
+
+Controlled Substance Violations
+
+Modifications in System
+
+Records of Employment of Pilot Applicants.—
+
+In general
+
+FAA records
+
+Air carrier and other records
+
+National driver register records
+
+Written consent; release from liability
+
+year reporting period
+
+Requirement to maintain records
+
+Receipt of consent; provision of information
+
+Right to receive notice and copy of any record furnished
+
+Reasonable charges for processing requests and furnishing copies
+
+Standard forms
+
+Right to correct inaccuracies
+
+Right of pilot to review certain records
+
+Privacy protections
+
+Periodic review
+
+Regulations
+
+Special rules with respect to certain pilots.—
+
+Pilots of certain small aircraft
+
+Good faith exception
+
+Electronic access to faa records
+
+Applicability
+
+Pilot Records Database.—
+
+In general
+
+Pilot records database
+
+records
+
+Air carrier and other records
+
+National driver register records
+
+Written consent; release from liability
+
+Reporting.—
+
+Reporting by administrator
+
+Reporting by air carriers and other persons.—
+
+In general
+
+Data to be reported
+
+Requirement to maintain records
+
+Receipt of consent
+
+Right of pilot to review certain records and correct inaccuracies
+
+Reasonable charges for processing requests and furnishing copies.—
+
+In general
+
+Crediting appropriations
+
+Privacy protections.—
+
+Use of records
+
+Disclosure of information.—
+
+In general
+
+Exceptions
+
+Periodic review
+
+Regulations for protection and security of records
+
+Good faith exception
+
+Limitations on electronic access to records.—
+
+Access by individuals designated by air carriers
+
+Terms
+
+Authorized expenditures
+
+Regulations.—
+
+In general
+
+Effective date
+
+Exceptions
+
+Special rule
+
+Limitations on Liability; Preemption of State Law.—
+
+Limitation on liability
+
+Preemption
+
+Provision of knowingly false information
+
+Prohibition on actions and proceedings against air carriers.—
+
+Hiring decisions
+
+Actions and proceedings
+
+Limitation on Statutory Construction
+
+Temporary Airman Certificate
+
+Historical and Revision Notes
+
+44703(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 602(b)(1)
+
+72 Stat. 776
+
+Oct. 19, 1984
+
+Pub. L. 98–499, § 3
+
+98 Stat. 2313
+
+Aug. 26, 1992
+
+Pub. L. 102–345, § 4
+
+106 Stat. 926
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 6(c)(1)
+
+80 Stat. 938
+
+Jan. 12, 1983
+
+Pub. L. 97–449, § 7(b)
+
+96 Stat. 2444
+
+44703(b)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 602(a)
+
+72 Stat. 776
+
+44703(c)(1)
+
+44703(c)(2)
+
+44703(d)
+
+44703(e)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 19, 1984
+
+Pub. L. 98–499, § 3
+
+98 Stat. 2313
+
+Nov. 18, 1988
+
+Pub. L. 100–690, § 7204(a)
+
+102 Stat. 4425
+
+44703(f)(1)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Nov. 18, 1988
+
+Pub. L. 100–690, § 7205(a)
+
+102 Stat. 4426
+
+44703(f)(2)
+
+Nov. 18, 1988
+
+Pub. L. 100–690, § 7207(a)
+
+102 Stat. 4427
+
+Program.—
+
+In general
+
+Qualified instructors and evaluators
+
+Pilot assessment
+
+Program curriculum
+
+Application and certification
+
+Data
+
+Regular inspection
+
+Regulations
+
+Clarification Regarding Required Flight Hours
+
+Definitions
+
+Air carrier
+
+Eligible pilot
+
+Qualified air carrier
+
+Qualified evaluator
+
+Qualified instructor
+
+Publication Frequency
+
+Presentation of Data
+
+Expanded Data Criteria
+
+Historical Data
+
+In General.—
+
+Development
+
+Contents
+
+Public availability
+
+Expectations for Medical Examinations.—
+
+In general
+
+Public availability
+
+Improved Designee Misconduct Reporting Process.—
+
+In general
+
+Public access to reporting process
+
+Obligation to report criminal charges
+
+Audit of reporting process by inspector general.—
+
+In general
+
+Contents
+
+Report
+
+Designee Defined
+
+Establishment
+
+Membership.—
+
+In general
+
+Co-chairs
+
+Preference
+
+Activities
+
+Aviation Workforce Mental Health Task Group.—
+
+Establishment
+
+Composition
+
+Duties
+
+Report
+
+Support
+
+Findings and Recommendations
+
+Implementation
+
+Sunset
+
+Establishment
+
+Composition
+
+Assessment; Recommendations
+
+Consultation
+
+Report
+
+Implementation
+
+Streamlined Certification for Eligible Military Maintenance Technicians.—
+
+Rulemaking
+
+Consideration
+
+Expansion of Testing Locations
+
+Outreach and Awareness
+
+Briefings.—
+
+Initial briefing
+
+Periodic briefing
+
+Eligible Military Maintenance Technician Defined
+
+In General
+
+Extension.—
+
+In general
+
+Additional extensions
+
+Delegation
+
+In General.—
+
+Unlimited letter of authorization
+
+Requirements
+
+Rule of Construction
+
+Failure to Comply.—
+
+In general
+
+No delegation
+
+Equivalent Pilot-in-command Medical Requirements
+
+Rulemaking
+
+“Not later than 3 years after the date of enactment of this Act [ May 16, 2024 ], the Administrator [of the Federal Aviation Administration] shall ensure that the designee locator search function of the public website of the Designee Management System of the Administration has the functionality to—
+
+In General
+
+Responsibilities
+
+Coordination
+
+Report.—
+
+In general
+
+Contents
+
+Short Title
+
+In General
+
+Air Balloon Defined
+
+In General
+
+Action Based on Recommendations
+
+Forestry and Fire Protection Flight Time Logging.—
+
+In general
+
+Retroactive application
+
+Regulations
+
+In General
+
+Action Based on Recommendations
+
+In General
+
+Comprehensive Medical Examination.—
+
+In general
+
+Requirements
+
+Logbook
+
+Medical Education Course Requirements
+
+National Driver Register
+
+Special Issuance Process.—
+
+In general
+
+Special rule for cardiovascular conditions
+
+Special rule for mental health conditions.—
+
+In general
+
+Certification
+
+Special rule for neurological conditions.—
+
+In general
+
+Certification
+
+Identification of Additional Medical Conditions for CACI Program.—
+
+In general
+
+Consultations
+
+Report required
+
+Expedited Authorization for Special Issuance of a Medical Certificate.—
+
+In general
+
+Consultations
+
+Report required
+
+Report Required
+
+Prohibition on Enforcement Actions
+
+Covered Aircraft Defined
+
+Operations Covered
+
+Authority To Require Additional Information.—
+
+In general
+
+Use of information
+
+Rulemaking
+
+Applicability
+
+In General
+
+Access to Information.—
+
+In general
+
+Information required
+
+Exception
+
+Access to air traffic data.—
+
+FAA air traffic data
+
+Air traffic data defined
+
+Government contractor air traffic data.—
+
+In general
+
+Required information from individual
+
+Provision of information to individual
+
+Timing
+
+Response to letter of investigation.—
+
+In general
+
+Construction
+
+Amendments to Title
+
+Airman certificates
+
+Amendments, modifications, suspensions, and revocations of certificates
+
+Revocation of airman certificates for controlled substance violations
+
+Appeal From Certificate Actions.—
+
+In general
+
+Emergency order pending judicial review
+
+Standard of Review.—
+
+In general
+
+Evidence
+
+Release of Investigative Reports.—
+
+In general.—
+
+Emergency orders
+
+Other orders
+
+Motion for dismissal
+
+Releasable portion of investigative report
+
+Rule of construction
+
+Assessment.—
+
+In general
+
+Report
+
+Goals of the Federal Aviation Administration’s Medical Certification Process
+
+Advice From Private Sector Groups
+
+Federal Aviation Administration Response
+
+In General
+
+Information Required
+
+Exception
+
+Standard of Review
+
+“In determining whether an individual meets the aeronautical experience requirements imposed under section 44703 of title 49 , United States Code, for an airman certificate or rating, the Secretary of Transportation shall take into account any time spent by that individual operating a public aircraft as defined in section 40102 of title 49 , United States Code, if that aircraft is—
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1186](https://www.govinfo.gov/link/statute/108/1186); [Pub. L. 106–181, title VII, § 715](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 162](https://www.govinfo.gov/link/statute/114/162); [Pub. L. 107–71, title I](https://www.govinfo.gov/link/plaw/107/public/71), §§ 129, 138(b), 140(a), Nov. 19, 2001, [115 Stat. 633](https://www.govinfo.gov/link/statute/115/633), 640, 641; [Pub. L. 111–216, title II, § 203](https://www.govinfo.gov/link/plaw/111/public/216), Aug. 1, 2010, [124 Stat. 2352](https://www.govinfo.gov/link/statute/124/2352); [Pub. L. 111–249, § 6(3)](https://www.govinfo.gov/link/plaw/111/public/249), (4), Sept. 30, 2010, [124 Stat. 2629](https://www.govinfo.gov/link/statute/124/2629); [Pub. L. 112–95, title III](https://www.govinfo.gov/link/plaw/112/public/95), §§ 301(a), 310(c), Feb. 14, 2012, [126 Stat. 56](https://www.govinfo.gov/link/statute/126/56), 65; [Pub. L. 112–153, § 2(c)(1)](https://www.govinfo.gov/link/plaw/112/public/153), Aug. 3, 2012, [126 Stat. 1160](https://www.govinfo.gov/link/statute/126/1160); [Pub. L. 114–125, title VIII, § 802(d)(2)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 210](https://www.govinfo.gov/link/statute/130/210); [Pub. L. 114–190, title II, § 2101](https://www.govinfo.gov/link/plaw/114/public/190), July 15, 2016, [130 Stat. 619](https://www.govinfo.gov/link/statute/130/619); [Pub. L. 118–63, title VIII, § 813](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1327](https://www.govinfo.gov/link/statute/138/1327).)*

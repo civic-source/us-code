@@ -3,9 +3,10 @@ title: "Section 15881 - Hydroelectric production incentives"
 usc_title: 42
 usc_section: "15881"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15881"
-generated_at: "2026-03-30T02:56:11.461Z"
+generated_at: "2026-11-23T21:26:33.678Z"
+status: "active"
 ---
 
 # § 15881. Hydroelectric production incentives
@@ -29,3 +30,13 @@ generated_at: "2026-03-30T02:56:11.461Z"
   - **(2)** The amount of the payment made to any person under this section as provided in paragraph (1) shall be adjusted for inflation for each fiscal year beginning after calendar year 2005 in the same manner as provided in the provisions of section 45K(d)(2)(B) of title 26 , except that in applying such provisions the calendar year 2005 shall be substituted for calendar year 1979.
 - **(f)** No payment may be made under this section to any qualified hydroelectric facility after the expiration of the period of 32 fiscal years beginning with the first full fiscal year occurring after August 8, 2005 , and no payment may be made under this section to any such facility after a payment has been made with respect to such facility for a period of 10 fiscal years.
 - **(g)** There is authorized to be appropriated to the Secretary to carry out this section $125,000,000 for fiscal year 2022, to remain available until expended.
+
+(aa) access to the electric grid;
+
+(bb) the frequency of electric outages; or
+
+(cc) the affordability of electricity.
+
+## Source Credit
+
+*([Pub. L. 109–58, title II, § 242](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 677](https://www.govinfo.gov/link/statute/119/677); [Pub. L. 116–260, div. Z, title III, § 3005(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2511](https://www.govinfo.gov/link/statute/134/2511); [Pub. L. 117–58, div. D, title III, § 40331](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1022](https://www.govinfo.gov/link/statute/135/1022).)*

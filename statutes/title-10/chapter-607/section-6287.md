@@ -3,9 +3,10 @@ title: "Section 6287 - Matters relating to critical decisions"
 usc_title: 10
 usc_section: "6287"
 chapter: 607
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6287"
-generated_at: "2026-03-30T02:53:38.226Z"
+generated_at: "2026-11-23T21:25:32.827Z"
+status: "active"
 ---
 
 # § 6287. Matters relating to critical decisions
@@ -18,3 +19,13 @@ generated_at: "2026-03-30T02:53:38.226Z"
       - **(ii)** any mission risks and operational risks from making such change or not making such change; and
   - **(2)** a period of 15 days elapses following the date of such submission.
 - **(b)** The Administrator shall ensure that critical decision packages are timely reviewed and either approved or disapproved.
+
+Post-critical Decision
+
+Changes
+
+Review and Approval
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1435](https://www.govinfo.gov/link/statute/139/1435).)*

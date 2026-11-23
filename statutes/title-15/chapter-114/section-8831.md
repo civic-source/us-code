@@ -3,9 +3,10 @@ title: "Section 8831 - National Institute of Standards and Technology activities
 usc_title: 15
 usc_section: "8831"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8831"
-generated_at: "2026-03-30T02:54:08.234Z"
+generated_at: "2026-11-23T21:25:40.097Z"
+status: "active"
 ---
 
 # § 8831. National Institute of Standards and Technology activities and quantum consortium
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.234Z"
     - **(C)** to provide recommendations on how the National Institute of Standards and Technology and the Program can address the gaps in the necessary research identified in subparagraph (B).
   - **(3)** Not later than 2 years after December 21, 2018 , the Director of the National Institute of Standards and Technology shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report summarizing the findings of the consortium.
 - **(c)** The Director of the National Institute of Standards and Technology shall allocate up to $80,000,000 to carry out the activities under this section for each of fiscal years 2019 through 2023, subject to the availability of appropriations. Amounts made available to carry out this section shall be derived from amounts appropriated or otherwise made available to the National Institute of Standards and Technology.
+
+## Source Credit
+
+*([Pub. L. 115–368, title II, § 201](https://www.govinfo.gov/link/plaw/115/public/368), Dec. 21, 2018, [132 Stat. 5098](https://www.govinfo.gov/link/statute/132/5098); [Pub. L. 117–167, div. B, title VI, § 10661(c)(1)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1684](https://www.govinfo.gov/link/statute/136/1684).)*

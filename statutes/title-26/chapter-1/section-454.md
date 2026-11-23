@@ -3,9 +3,10 @@ title: "Section 454 - Obligations issued at discount"
 usc_title: 26
 usc_section: "454"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 454"
-generated_at: "2026-03-30T02:55:27.702Z"
+generated_at: "2026-11-23T21:26:06.277Z"
+status: "active"
 ---
 
 # § 454. Obligations issued at discount
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:27.702Z"
 - **(c)** In the case of a taxpayer who—
   - **(1)** holds a series E United States savings bond at the date of maturity, and
   - **(2)** pursuant to regulations prescribed under chapter 31 of title 31 (A) retains his investment in such series E bond in an obligation of the United States, other than a current income obligation, or (B) exchanges such series E bond for another nontransferable obligation of the United States in an exchange upon which gain or loss is not recognized because of section 1037 (or so much of section 1031 as relates to section 1037),
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 156; [Pub. L. 86–346, title I, § 102](https://www.govinfo.gov/link/plaw/86/public/346), Sept. 22, 1959, [73 Stat. 621](https://www.govinfo.gov/link/statute/73/621); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(c)(2), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1803](https://www.govinfo.gov/link/statute/90/1803), 1834; [Pub. L. 97–452, § 2(c)(2)](https://www.govinfo.gov/link/plaw/97/public/452), Jan. 12, 1983, [96 Stat. 2478](https://www.govinfo.gov/link/statute/96/2478).)*

@@ -3,9 +3,10 @@ title: "Section 51104 - Environmental requirements"
 usc_title: 51
 usc_section: "51104"
 chapter: 511
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 51104"
-generated_at: "2026-03-30T02:56:28.711Z"
+generated_at: "2026-11-23T21:26:42.555Z"
+status: "active"
 ---
 
 # § 51104. Environmental requirements
@@ -21,3 +22,30 @@ generated_at: "2026-03-30T02:56:28.711Z"
   - **(3)** title VIII of the Act of April 11, 1968 ( 42 U.S.C. 3601 et seq.);
   - **(4)** the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.); and
   - **(5)** the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 ( 42 U.S.C. 4601 et seq.).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 70304 | 15:5804(e). | Nov. 4, 1992 , Pub. L. 102–588, § 505(e) , 106 Stat. 5126 . |
+
+
+Policy
+
+Public Hearing Requirement
+
+Compliance With Air and Water Quality Standards
+
+Compliance With Laws and Regulations
+
+Historical and Revision Notes
+
+70304
+
+Nov. 4, 1992
+
+Pub. L. 102–588, § 505(e)
+
+106 Stat. 5126
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1344](https://www.govinfo.gov/link/statute/108/1344), § 70304 of title 49; renumbered § 70304 then § 51104 of title 51 and amended [Pub. L. 111–314, § 4(d)(2)](https://www.govinfo.gov/link/plaw/111/public/314), (4)(D), (6)(B), Dec. 18, 2010, [124 Stat. 3440](https://www.govinfo.gov/link/statute/124/3440), 3441, 3443.)*

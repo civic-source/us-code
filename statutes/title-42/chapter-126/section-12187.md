@@ -3,12 +3,17 @@ title: "Section 12187 - Exemptions for private clubs and religious organizations
 usc_title: 42
 usc_section: "12187"
 chapter: 126
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12187"
-generated_at: "2026-03-30T02:56:11.411Z"
+generated_at: "2026-11-23T21:26:33.460Z"
+status: "active"
 ---
 
 # § 12187. Exemptions for private clubs and religious organizations
 
 The provisions of this subchapter shall not apply to private clubs or establishments exempted from coverage under title II of the Civil Rights Act of 1964 ( 42 U.S.C. 2000 –a(e)) [ 42 U.S.C. 2000a et seq.] or to religious organizations or entities controlled by religious organizations, including places of worship.
 
+
+## Source Credit
+
+*([Pub. L. 101–336, title III, § 307](https://www.govinfo.gov/link/plaw/101/public/336), July 26, 1990, [104 Stat. 363](https://www.govinfo.gov/link/statute/104/363).)*

@@ -3,9 +3,10 @@ title: "Section 6807 - Expenditures"
 usc_title: 16
 usc_section: "6807"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6807"
-generated_at: "2026-03-30T02:54:23.069Z"
+generated_at: "2026-11-23T21:25:52.054Z"
+status: "active"
 ---
 
 # § 6807. Expenditures
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:23.069Z"
 - **(d)** Notwithstanding any other provision of this chapter, the Secretary may use amounts available in the special account of a Federal land management agency to supplement administration and marketing costs associated with—
   - **(1)** the National Parks and Federal Recreational Lands Pass during the 5-year period beginning on the date the joint guidelines are issued under section 6804(a)(7) of this title ; and
   - **(2)** a regional multientity pass authorized section 6804(d) of this title during the 5-year period beginning on the date the regional multientity pass agreement for that recreation pass takes effect.
+
+## Source Credit
+
+*([Pub. L. 108–447, div. J, title VIII, § 808](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3388](https://www.govinfo.gov/link/statute/118/3388); [Pub. L. 111–11, title VII, § 7116(h)](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1203](https://www.govinfo.gov/link/statute/123/1203); [Pub. L. 118–234, title III, § 311(d)](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2897](https://www.govinfo.gov/link/statute/138/2897).)*

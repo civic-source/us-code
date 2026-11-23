@@ -3,9 +3,10 @@ title: "Section 13102 - State recreational boating safety programs"
 usc_title: 46
 usc_section: "13102"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 13102"
-generated_at: "2026-03-30T02:56:15.559Z"
+generated_at: "2026-11-23T21:26:37.143Z"
+status: "active"
 ---
 
 # § 13102. State recreational boating safety programs
@@ -16,3 +17,24 @@ generated_at: "2026-03-30T02:56:15.559Z"
   - **(2)** shall consult with the Secretary of the Interior to minimize duplication with the purposes and expenditures of chapter 2003 of title 54, United States Code, 1 1 So in original. The words “United States Code,” probably should not appear. the Federal Aid in Sport Fish Restoration Act of 1950 ( 16 U.S.C. 777–777k ), and with the guidelines developed under those Acts; and
   - **(3)** shall maintain environmental standards consistent with the Coastal Zone Management Act of 1972 ( 16 U.S.C. 1451–146 4) and other laws and policies of the United States intended to safeguard the ecological and esthetic quality of the waters and wetlands of the United States.
 - **(c)** A State whose recreational boating safety program has been approved by the Secretary is eligible for allocation and distribution of amounts under this chapter to assist that State in developing, carrying out, and financing its program. Matching amounts shall be allocated and distributed among eligible States by the Secretary as provided by section 13104 of this title .
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 13101 | 46:1474 |
+
+
+Historical and Revision Notes
+
+13101
+
+In general
+
+Authorization of contracts
+
+Report
+
+Funding
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 592](https://www.govinfo.gov/link/statute/97/592), § 13101; [Pub. L. 98–369, div. A, title X, § 1011(b)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1013](https://www.govinfo.gov/link/statute/98/1013); [Pub. L. 101–595, title III, § 312(a)](https://www.govinfo.gov/link/plaw/101/public/595), Nov. 16, 1990, [104 Stat. 2987](https://www.govinfo.gov/link/statute/104/2987); renumbered § 13102 and amended [Pub. L. 109–304, § 16(b)(1)](https://www.govinfo.gov/link/plaw/109/public/304), (c)(3), Oct. 6, 2006, [120 Stat. 1705](https://www.govinfo.gov/link/statute/120/1705), 1706; [Pub. L. 113–287, § 5(n)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3272](https://www.govinfo.gov/link/statute/128/3272).)*

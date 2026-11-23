@@ -3,9 +3,10 @@ title: "Section 6106 - Cooperation"
 usc_title: 16
 usc_section: "6106"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6106"
-generated_at: "2026-03-30T02:54:23.055Z"
+generated_at: "2026-11-23T21:25:52.035Z"
+status: "active"
 ---
 
 # § 6106. Cooperation
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:23.055Z"
     - **(C)** Minutes of each meeting of the advisory group shall be kept by the Secretary and shall be made available to the public.
   - **(3)** Chapter 10 of title 5 shall not apply to the advisory group.
 - **(c)** Not later than 180 days after April 24, 2024 , the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Natural Resources of the House of Representatives a report describing the implementation of subsection (b) by the Secretary, which shall include, if applicable, a description of the composition of the advisory group convened under paragraph (1) of that subsection.
+
+## Source Credit
+
+*([Pub. L. 106–247, § 7](https://www.govinfo.gov/link/plaw/106/public/247), July 20, 2000, [114 Stat. 595](https://www.govinfo.gov/link/statute/114/595); [Pub. L. 109–363, title III, § 302(f)(1)](https://www.govinfo.gov/link/plaw/109/public/363), Oct. 17, 2006, [120 Stat. 2076](https://www.govinfo.gov/link/statute/120/2076); [Pub. L. 117–286, § 4(a)(128)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4319](https://www.govinfo.gov/link/statute/136/4319); [Pub. L. 118–51, § 2(b)](https://www.govinfo.gov/link/plaw/118/public/51), (d)(2), Apr. 24, 2024, [138 Stat. 1005](https://www.govinfo.gov/link/statute/138/1005), 1006.)*

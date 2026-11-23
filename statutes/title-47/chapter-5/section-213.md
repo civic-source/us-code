@@ -3,9 +3,10 @@ title: "Section 213 - Valuation of property of carrier"
 usc_title: 47
 usc_section: "213"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 213"
-generated_at: "2026-03-30T02:56:24.494Z"
+generated_at: "2026-11-23T21:26:35.939Z"
+status: "active"
 ---
 
 # § 213. Valuation of property of carrier
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:24.494Z"
 - **(e)** The Commission shall keep itself informed of all new construction, extensions, improvements, retirements, or other changes in the condition, quantity, use, and classification of the property of common carriers, and of the cost of all additions and betterments thereto and of all changes in the investment therein, and may keep itself informed of current changes in costs and values of carrier properties.
 - **(f)** For the purpose of enabling the Commission to make a valuation of any of the property of any such carrier, or to find the original cost of such property, or to find any other facts concerning the same which are required for use by the Commission, it shall be the duty of each such carrier to furnish to the Commission, within such reasonable time as the Commission may order, any information with respect thereto which the Commission may by order require, including copies of maps, contracts, reports of engineers, and other data, records, and papers, and to grant to all agents of the Commission free access to its property and its accounts, records, and memoranda whenever and wherever requested by any such duly authorized agent, and to cooperate with and aid the Commission in the work of making any such valuation or finding in such manner and to such extent as the Commission may require and direct, and all rules and regulations made by the Commission for the purpose of administering this section shall have the full force and effect of law. Unless otherwise ordered by the Commission, with the reasons therefor, the records and data of the Commission shall be open to the inspection and examination of the public. The Commission, in making any such valuation, shall be free to adopt any method of valuation which shall be lawful.
 - **(g)** Nothing in this section shall impair or diminish the powers of any State commission.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title II, § 213, [48 Stat. 1074](https://www.govinfo.gov/link/statute/48/1074); [Pub. L. 103–414, title III, § 304(a)(3)](https://www.govinfo.gov/link/plaw/103/public/414), Oct. 25, 1994, [108 Stat. 4296](https://www.govinfo.gov/link/statute/108/4296).)*

@@ -3,9 +3,10 @@ title: "Section 47f - Definitions"
 usc_title: 50
 usc_section: "47f"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 47f"
-generated_at: "2026-03-30T02:56:26.196Z"
+generated_at: "2026-11-23T21:26:38.892Z"
+status: "active"
 ---
 
 # § 47f. Definitions
@@ -16,3 +17,7 @@ As used in this chapter—
 - **(b)** The term “atomic weapon” means any device utilizing atomic energy, exclusive of the means for transporting or propelling the device (where such means is a separable and divisible part of the device), the principal purpose of which is for use as, or for development of, a weapon, a weapon prototype, or a weapon test device.
 - **(c)** The term “special nuclear material” means plutonium, or uranium enriched in the isotope 233 or in the isotope 235, or any other material which is found to be special nuclear material pursuant to the provisions of the Atomic Energy Act of 1954 [ 42 U.S.C. 2011 et seq.].
 - **(d)** The term “United States,” when used in a geographical sense, includes Puerto Rico, all Territories and possessions of the United States and the Canal Zone; except that in section 47c of this title , the term “United States” when so used shall have the meaning given to it in the Immigration and Nationality Act [ 8 U.S.C. 1101 et seq.].
+
+## Source Credit
+
+*(July 15, 1955, ch. 372, § 7, [69 Stat. 366](https://www.govinfo.gov/link/statute/69/366).)*

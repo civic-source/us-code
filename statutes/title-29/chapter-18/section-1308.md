@@ -3,9 +3,10 @@ title: "Section 1308 - Annual report by the corporation"
 usc_title: 29
 usc_section: "1308"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1308"
-generated_at: "2026-03-30T02:55:18.730Z"
+generated_at: "2026-11-23T21:26:02.285Z"
+status: "active"
 ---
 
 # § 1308. Annual report by the corporation
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:18.730Z"
     - **(A)** the average return on investments earned with respect to assets invested by the corporation for the year to which the report relates; and
     - **(B)** an amount equal to 60 percent of the average return on investment for such year in the Standard & Poor’s 500 Index, plus 40 percent of the average return on investment for such year in the Lehman Aggregate Bond Index (or in a similar fixed income index); and
   - **(3)** a statement regarding the deficit or surplus for such year that the corporation would have had if the corporation had earned the return described in paragraph (2)(B) with respect to assets invested by the corporation.
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4008](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 1014](https://www.govinfo.gov/link/statute/88/1014); [Pub. L. 109–280, title IV, § 412](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 936](https://www.govinfo.gov/link/statute/120/936).)*

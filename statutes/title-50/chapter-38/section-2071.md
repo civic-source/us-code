@@ -3,9 +3,10 @@ title: "Section 2071 - Lump-sum payments"
 usc_title: 50
 usc_section: "2071"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2071"
-generated_at: "2026-03-30T02:56:26.218Z"
+generated_at: "2026-11-23T21:26:38.957Z"
+status: "active"
 ---
 
 # § 2071. Lump-sum payments
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:26.218Z"
 - **(g)** An annuity accrued and unpaid on the termination, except by death, of the annuity of a survivor annuitant shall be paid to that individual. An annuity accrued and unpaid on the death of a survivor annuitant shall be paid in the following order of precedence, and the payment bars recovery by any other individual:
   - **(1)** To the duly appointed executor or administrator of the estate of the survivor annuitant.
   - **(2)** If there is no executor or administrator, to such next of kin of the survivor annuitant as the Director determines to be legally entitled to such payment, except that no payment shall be made under this paragraph until after the expiration of 30 days from the date of death of the survivor annuitant.
+
+## Source Credit
+
+*([Pub. L. 88–643, title II, § 241](https://www.govinfo.gov/link/plaw/88/public/643), as added [Pub. L. 102–496, title VIII, § 802](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3226](https://www.govinfo.gov/link/statute/106/3226); amended [Pub. L. 103–178, title II, § 202(a)(11)](https://www.govinfo.gov/link/plaw/103/public/178), Dec. 3, 1993, [107 Stat. 2026](https://www.govinfo.gov/link/statute/107/2026).)*

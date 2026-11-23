@@ -3,9 +3,10 @@ title: "Section 16163 - Eligibility for educational assistance"
 usc_title: 10
 usc_section: "16163"
 chapter: 1607
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 16163"
-generated_at: "2026-03-30T02:53:38.278Z"
+generated_at: "2026-11-23T21:25:33.073Z"
+status: "active"
 ---
 
 # § 16163. Eligibility for educational assistance
@@ -21,3 +22,17 @@ generated_at: "2026-03-30T02:53:38.278Z"
 - **(e)**
   - **(1)** Except as provided in paragraph (2), an individual entitled to educational assistance under this chapter who is also eligible for educational assistance under chapter 1606 of this title, chapter 30, 31, 32, 33, or 35 of title 38, or under the Hostage Relief Act of 1980 ( Public Law 96–449 ; 5 U.S.C. 5561 note) may not receive assistance under more than one such program and shall elect (in such form and manner as the Secretary of Veterans Affairs may prescribe) under which program the member elects to receive educational assistance.
   - **(2)** The restriction on duplication of educational assistance under paragraph (1) does not apply to the entitlement of educational assistance under section 16131(i) of this title .
+
+Eligibility
+
+Disabled Members
+
+Written Notification
+
+Bar From Dual Eligibility
+
+Bar From Duplication of Educational Assistance Allowance
+
+## Source Credit
+
+*(Added [Pub. L. 108–375, div. A, title V, § 527(a)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1892](https://www.govinfo.gov/link/statute/118/1892); amended [Pub. L. 109–163, div. A, title V, § 540(a)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3251](https://www.govinfo.gov/link/statute/119/3251); [Pub. L. 110–252, title V, § 5003(b)(1)(C)](https://www.govinfo.gov/link/plaw/110/public/252), June 30, 2008, [122 Stat. 2375](https://www.govinfo.gov/link/statute/122/2375); [Pub. L. 111–84, div. A, title X, § 1073(a)(36)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2474](https://www.govinfo.gov/link/statute/123/2474).)*

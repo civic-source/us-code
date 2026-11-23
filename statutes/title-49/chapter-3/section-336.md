@@ -3,9 +3,10 @@ title: "Section 336 - Civil penalty procedures"
 usc_title: 49
 usc_section: "336"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 336"
-generated_at: "2026-03-30T02:56:19.299Z"
+generated_at: "2026-11-23T21:26:40.593Z"
+status: "active"
 ---
 
 # § 336. Civil penalty procedures
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:19.299Z"
 - **(d)** The Secretary may refund or remit a civil penalty collected under this section if—
   - **(1)** application has been made for refund or remission of the penalty within one year from the date of payment; and
   - **(2)** the Secretary finds that the penalty was unlawfully, improperly, or excessively imposed.
+
+## Source Credit
+
+*(Added [Pub. L. 101–225, title III, § 305(1)](https://www.govinfo.gov/link/plaw/101/public/225), Dec. 12, 1989, [103 Stat. 1924](https://www.govinfo.gov/link/statute/103/1924).)*

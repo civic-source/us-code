@@ -3,9 +3,10 @@ title: "Section 824p - Siting of interstate electric transmission facilities"
 usc_title: 16
 usc_section: "824p"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 824p"
-generated_at: "2026-03-30T02:54:22.918Z"
+generated_at: "2026-11-23T21:25:51.766Z"
+status: "active"
 ---
 
 # § 824p. Siting of interstate electric transmission facilities
@@ -120,3 +121,7 @@ generated_at: "2026-03-30T02:54:22.918Z"
   - **(1)** Except as specifically provided, nothing in this section affects any requirement of an environmental law of the United States, including the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).
   - **(2)** Subsection (h)(6) shall not apply to any unit of the National Park System, the National Wildlife Refuge System, the National Wild and Scenic Rivers System, the National Trails System, the National Wilderness Preservation System, or a National Monument.
 - **(k)** This section shall not apply within the area referred to in section 824k(k)(2)(A) of this title .
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. II, § 216, as added [Pub. L. 109–58, title XII, § 1221(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 946](https://www.govinfo.gov/link/statute/119/946); amended [Pub. L. 117–58, div. D, title I, § 40105](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 933](https://www.govinfo.gov/link/statute/135/933).)*

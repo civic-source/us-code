@@ -3,9 +3,10 @@ title: "Section 1679 - Findings and purposes"
 usc_title: 15
 usc_section: "1679"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1679"
-generated_at: "2026-03-30T02:54:08.146Z"
+generated_at: "2026-11-23T21:25:39.866Z"
+status: "active"
 ---
 
 # § 1679. Findings and purposes
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.146Z"
 - **(b)** The purposes of this subchapter are—
   - **(1)** to ensure that prospective buyers of the services of credit repair organizations are provided with the information necessary to make an informed decision regarding the purchase of such services; and
   - **(2)** to protect the public from unfair or deceptive advertising and business practices by credit repair organizations.
+
+## Source Credit
+
+*([Pub. L. 90–321, title IV, § 402](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 104–208, div. A, title II, § 2451](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–455](https://www.govinfo.gov/link/statute/110/3009).)*

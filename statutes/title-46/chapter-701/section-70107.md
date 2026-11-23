@@ -3,9 +3,10 @@ title: "Section 70107 - Grants"
 usc_title: 46
 usc_section: "70107"
 chapter: 701
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 70107"
-generated_at: "2026-03-30T02:56:15.586Z"
+generated_at: "2026-11-23T21:26:37.355Z"
+status: "active"
 ---
 
 # § 70107. Grants
@@ -99,3 +100,89 @@ generated_at: "2026-03-30T02:56:15.586Z"
     - **(B)** The Secretary shall by regulation establish accounting, reporting, and review procedures to ensure that funds made available under paragraph (1) are used for the purpose for which they were made available, that all expenditures are properly accounted for, and that amounts not used for such purposes and amounts not expended are recovered.
     - **(C)** Recipients of grants shall keep all records related to expenditures and obligations of funds provided under paragraph (1) and make them available upon request to the Inspector General of the department in which the Coast Guard is operating and the Secretary for audit and examination.
   - **(5)** The Inspector General of the department in which the Coast Guard is operating shall annually review the programs established under this subsection to ensure that the expenditures and obligations of funds are consistent with the purposes for which they are provided, and report the findings to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+
+In General
+
+Eligible Costs
+
+Matching Requirements.—
+
+-percent federal funding
+
+Exceptions.—
+
+Small projects
+
+Higher level of support required
+
+Training
+
+Coordination and Cooperation Agreements
+
+Multiple-Year Projects.—
+
+Letters of intent
+
+Limitation
+
+Consistency With Plans
+
+Applications
+
+Reports
+
+Administration.—
+
+In general
+
+Minimum standards for payment or reimbursement
+
+Procedural safeguards
+
+Project approval required
+
+Audits and Examinations
+
+Reports on Security Funding and Compliance.—
+
+Initial report
+
+Other expenditures
+
+Annual reports
+
+Authorization of Appropriations
+
+Investigations.—
+
+In general
+
+Implementation of technology.—
+
+In general
+
+Authorization of appropriations
+
+National port security centers.—
+
+In general
+
+Applications
+
+Competitive selection process
+
+Administrative provisions.—
+
+No duplication of effort
+
+Accounting
+
+Recordkeeping
+
+Annual review and report
+
+“Subsections (a) and (b) [amending this section]—
+
+## Source Credit
+
+*(Added [Pub. L. 107–295, title I, § 102(a)](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2075](https://www.govinfo.gov/link/statute/116/2075); amended [Pub. L. 108–293, title VIII](https://www.govinfo.gov/link/plaw/108/public/293), §§ 804(a), (b), 808(a), Aug. 9, 2004, [118 Stat. 1081](https://www.govinfo.gov/link/statute/118/1081), 1083; [Pub. L. 109–347, title I, § 112](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1894](https://www.govinfo.gov/link/statute/120/1894); [Pub. L. 111–281, title VIII, § 828(b)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 3007](https://www.govinfo.gov/link/statute/124/3007); [Pub. L. 114–120, title III, § 306(a)(10)](https://www.govinfo.gov/link/plaw/114/public/120), Feb. 8, 2016, [130 Stat. 54](https://www.govinfo.gov/link/statute/130/54); [Pub. L. 116–283, div. G, title LVXXXIII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXIII], § 8314(1), Jan. 1, 2021, [134 Stat. 4699](https://www.govinfo.gov/link/statute/134/4699).)*

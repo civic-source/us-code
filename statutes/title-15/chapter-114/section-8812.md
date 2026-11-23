@@ -3,9 +3,10 @@ title: "Section 8812 - National Quantum Coordination Office"
 usc_title: 15
 usc_section: "8812"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8812"
-generated_at: "2026-03-30T02:54:08.234Z"
+generated_at: "2026-11-23T21:25:40.095Z"
+status: "active"
 ---
 
 # § 8812. National Quantum Coordination Office
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:08.234Z"
   - **(6)** promote access to and early application of the technologies, innovations, and expertise derived from Program activities to agency missions and systems across the Federal Government, and to industry, including startup companies; and
   - **(7)** promote access, through appropriate Federal Government agencies, and an open and competitive merit-reviewed process, to existing quantum computing and communication systems developed by industry, universities, and Federal laboratories to the general user community in pursuit of discovery of the new applications of such systems.
 - **(c)** Funds necessary to carry out the activities of the Coordination Office shall be made available each fiscal year by the Federal departments and agencies described in section 8813(b) of this title , as determined by the Director of the Office of Science and Technology Policy.
+
+## Source Credit
+
+*([Pub. L. 115–368, title I, § 102](https://www.govinfo.gov/link/plaw/115/public/368), Dec. 21, 2018, [132 Stat. 5094](https://www.govinfo.gov/link/statute/132/5094); [Pub. L. 117–81, div. F, title LXVI, § 6606(c)(2)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2444](https://www.govinfo.gov/link/statute/135/2444).)*

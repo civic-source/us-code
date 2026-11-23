@@ -3,9 +3,10 @@ title: "Section 10102 - Strategic human capital plan"
 usc_title: 5
 usc_section: "10102"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 10102"
-generated_at: "2026-03-30T02:52:56.076Z"
+generated_at: "2026-11-23T21:25:23.467Z"
+status: "active"
 ---
 
 # § 10102. Strategic human capital plan
@@ -28,3 +29,13 @@ generated_at: "2026-03-30T02:52:56.076Z"
     - **(D)** states whether the Surge Capacity Force is able to adequately prepare for, respond to, and recover from natural disasters, acts of terrorism, and other man-made disasters, including catastrophic incidents; and
     - **(E)** describes any additional authorities or resources necessary to address any deficiencies in the Surge Capacity Force.
 - **(c)** Not later than May 1, 2007 , and May 1st of each of the next 5 succeeding years, the Administrator shall submit to the appropriate committees of Congress an update of the strategic human capital plan, including an assessment by the Administrator, using results-oriented performance measures, of the progress of the Department and the Agency in implementing the strategic human capital plan.
+
+Plan Development
+
+Contents
+
+Annual Updates
+
+## Source Credit
+
+*(Added [Pub. L. 109–295, title VI, § 621(a)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1412](https://www.govinfo.gov/link/statute/120/1412).)*

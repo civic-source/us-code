@@ -3,9 +3,10 @@ title: "Section 6311 - State plans"
 usc_title: 20
 usc_section: "6311"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6311"
-generated_at: "2026-03-30T02:54:48.191Z"
+generated_at: "2026-11-23T21:25:47.486Z"
+status: "active"
 ---
 
 # § 6311. State plans
@@ -440,3 +441,87 @@ generated_at: "2026-03-30T02:54:48.191Z"
   - **(2)** Each such school that is accredited by a regional accrediting organization (in consultation with and with the approval of the Secretary of the Interior, and consistent with assessments and academic indicators adopted by other schools in the same State or region) shall adopt an appropriate assessment and other academic indicators that meet the requirements of this section.
   - **(3)** Each such school that is accredited by a tribal accrediting agency or tribal division of education shall use an assessment and other academic indicators developed by such agency or division, except that the Secretary of the Interior shall ensure that such assessment and academic indicators meet the requirements of this section.
 - **(l)** Nothing in this part shall be construed to prescribe the use of the academic assessments described in this part for student promotion or graduation purposes.
+
+(aa) parents, teachers, principals, other school leaders, specialized instructional support personnel, State educational agencies, local educational agencies, and the community (including the business community); and
+
+(bb) researchers who are familiar with— (AA) the implementation of academic standards, assessments, or accountability systems; and (BB) how to meet the needs of disadvantaged students, children with disabilities, and English learners, the needs of low-performing schools, and other educational needs of students;
+
+(aa) determines how the State plan fails to meet the requirements of this section;
+
+(bb) immediately provides to the State, in writing, notice of such determination, and the supporting information and rationale to substantiate such determination;
+
+(cc) offers the State an opportunity to revise and resubmit its State plan, and provides the State— (AA) technical assistance to assist the State in meeting the requirements of this section; (BB) in writing, all peer-review comments, suggestions, recommendations, or concerns relating to its State plan; and (CC) a hearing, unless the State declines the opportunity for such hearing; and
+
+(aa) does not revise and resubmit its State plan; or
+
+(bb) in a case in which a State revises and resubmits its State plan after a hearing is conducted under subclause (I)(cc)(CC), or after the State has declined the opportunity for such a hearing, the Secretary determines that such revised State plan does not meet the requirements of this section.
+
+(aa) in each of grades 3 through 8; and
+
+(bb) at least once in grades 9 through 12;
+
+(aa) grades 3 through 5;
+
+(bb) grades 6 through 9; and
+
+(cc) grades 10 through 12; and
+
+(aa) that their child’s academic achievement will be measured based on such alternate standards; and
+
+(bb) how participation in such assessments may delay or otherwise affect the student from completing the requirements for a regular high school diploma;
+
+(aa) know how to administer the alternate assessments; and
+
+(bb) make appropriate use of accommodations for students with disabilities on all assessments required under this paragraph;
+
+(aa) participating in academic instruction and assessments for the grade level in which the student is enrolled; and
+
+(bb) who are tested based on challenging State academic standards for the grade level in which the student is enrolled; and
+
+(aa) shall measure, at a minimum, each student’s academic proficiency based on the challenging State academic standards for the student’s grade level and growth toward such standards; and
+
+(bb) may measure the student’s level of academic proficiency and growth using items above or below the student’s grade level, including for use as part of a State’s accountability system under subsection (c).
+
+(aa) meet the requirements of this paragraph, including subparagraph (D), except such assessments shall not be required to meet the requirements of clause (i)(II); and
+
+(bb) assess the student’s academic achievement to measure, in the subject being assessed, whether the student is performing at the student’s grade level; and
+
+(aa) meet the requirements of this paragraph, including subparagraph (G), except such assessment shall not be required to meet the requirements of clause (i)(II); and
+
+(bb) assess the student’s language proficiency, which may include growth towards such proficiency, in order to measure the student’s acquisition of English.
+
+(aa) for the first year of the student’s enrollment in such a school, exclude the results on the assessments described in subclause (I);
+
+(bb) include a measure of student growth on the assessments described in subclause (I) in the second year of the student’s enrollment in such a school; and
+
+(cc) include proficiency on the assessments described in subclause (I) in the third year of the student’s enrollment in such a school, and each succeeding year of such enrollment.
+
+(aa) academic achievement, as measured by proficiency on the annual assessments required under subsection (b)(2)(B)(v)(I); and
+
+(bb) high school graduation rates, including— (AA) the four-year adjusted cohort graduation rate; and (BB) at the State’s discretion, the extended-year adjusted cohort graduation rate, except that the State shall set a more rigorous long-term goal for such graduation rate, as compared to the long-term goal set for the four-year adjusted cohort graduation rate;
+
+(aa) allows for meaningful differentiation in school performance;
+
+(bb) is valid, reliable, comparable, and statewide (with the same indicator or indicators used for each grade span, as such term is determined by the State); and
+
+(cc) may include one or more of the measures described in subclause (II).
+
+(aa) the length of terms set by States in designing such goals; or
+
+(bb) the progress expected from any subgroups of students in meeting such goals;
+
+(aa) the specific weight of the indicators described in subsection (c)(4)(B) in such differentiation;
+
+(bb) the methodology by which the State differentiates all such schools;
+
+(cc) the methodology by which the State differentiates a school as consistently underperforming for any subgroup of students described in section (c)(4)(C)(iii), including the time period used by the State to determine consistent underperformance; and
+
+(dd) the methodology by which the State identifies a school for comprehensive support and improvement as required under subsection (c)(4)(D)(i);
+
+(aa) preschool programs; and
+
+(bb) accelerated coursework to earn postsecondary credit while still in high school, such as Advanced Placement and International Baccalaureate courses and examinations, and dual or concurrent enrollment programs.
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1111](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1444](https://www.govinfo.gov/link/statute/115/1444); amended [Pub. L. 107–279, title IV, § 404(d)(1)](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1985](https://www.govinfo.gov/link/statute/116/1985); [Pub. L. 108–446, title III, § 305(g)(1)](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2805](https://www.govinfo.gov/link/statute/118/2805); [Pub. L. 109–270, § 2(f)(1)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 747](https://www.govinfo.gov/link/statute/120/747); [Pub. L. 114–95, title I, § 1005](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1820](https://www.govinfo.gov/link/statute/129/1820); [Pub. L. 115–224, title III, § 302(1)](https://www.govinfo.gov/link/plaw/115/public/224), July 31, 2018, [132 Stat. 1623](https://www.govinfo.gov/link/statute/132/1623); [Pub. L. 116–92, div. A, title V, § 579](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1407](https://www.govinfo.gov/link/statute/133/1407).)*

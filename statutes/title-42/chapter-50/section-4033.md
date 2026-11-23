@@ -3,9 +3,10 @@ title: "Section 4033 - Designation of Flood Insurance Advocate"
 usc_title: 42
 usc_section: "4033"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4033"
-generated_at: "2026-03-30T02:56:11.197Z"
+generated_at: "2026-11-23T21:26:32.624Z"
+status: "active"
 ---
 
 # § 4033. Designation of Flood Insurance Advocate
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.197Z"
   - **(3)** assist in the development of regional capacity to respond to individual constituent concerns about flood insurance rate map amendments and revisions;
   - **(4)** coordinate outreach and education with local officials and community leaders in areas impacted by proposed flood insurance rate map amendments and revisions; and
   - **(5)** aid potential policy holders under the National Flood Insurance Program in obtaining and verifying accurate and reliable flood insurance rate information when purchasing or renewing a flood insurance policy.
+
+## Source Credit
+
+*([Pub. L. 113–89, § 24](https://www.govinfo.gov/link/plaw/113/public/89), Mar. 21, 2014, [128 Stat. 1030](https://www.govinfo.gov/link/statute/128/1030).)*

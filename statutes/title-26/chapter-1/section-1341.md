@@ -3,9 +3,10 @@ title: "Section 1341 - Computation of tax where taxpayer restores substantial am
 usc_title: 26
 usc_section: "1341"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1341"
-generated_at: "2026-03-30T02:55:27.768Z"
+generated_at: "2026-11-23T21:26:06.492Z"
+status: "active"
 ---
 
 # § 1341. Computation of tax where taxpayer restores substantial amount held under claim of right
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:27.768Z"
   - **(5)** For purposes of this chapter, the net operating loss described in paragraph (4)(A) of this subsection, or the net operating loss or capital loss described in paragraph (4)(B) of this subsection, as the case may be, shall (after the application of paragraph (4) or (5)(B) of subsection (a) for the taxable year) be taken into account under section 172 or 1212 for taxable years after the taxable year to the same extent and in the same manner as—
     - **(A)** a net operating loss sustained for the taxable year, if paragraph (4) of subsection (a) applied, or
     - **(B)** a net operating loss or capital loss sustained for the prior taxable year (or years), if paragraph (5)(B) of subsection (a) applied.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 348; [Pub. L. 85–866, title I, § 60(a)](https://www.govinfo.gov/link/plaw/85/public/866) –(d), Sept. 2, 1958, [72 Stat. 1647](https://www.govinfo.gov/link/statute/72/1647); [Pub. L. 87–863, § 5(a)](https://www.govinfo.gov/link/plaw/87/public/863), Oct. 23, 1962, [76 Stat. 1142](https://www.govinfo.gov/link/statute/76/1142); [Pub. L. 88–272, title II, § 234(b)(7)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 116](https://www.govinfo.gov/link/statute/78/116); [Pub. L. 94–455, title XIX, § 1901(a)(146)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1788](https://www.govinfo.gov/link/statute/90/1788).)*

@@ -3,9 +3,10 @@ title: "Section 596 - Removal of an independent counsel; termination of office"
 usc_title: 28
 usc_section: "596"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 596"
-generated_at: "2026-03-30T02:55:30.134Z"
+generated_at: "2026-11-23T21:26:01.063Z"
+status: "active"
 ---
 
 # § 596. Removal of an independent counsel; termination of office
@@ -24,3 +25,25 @@ generated_at: "2026-03-30T02:55:30.134Z"
   - **(2)** The Comptroller General shall—
     - **(A)** conduct a financial review of a mid-year statement and a financial audit of a year-end statement and statement on termination; and
     - **(B)** report the results to the Committee on the Judiciary, Committee on Governmental Affairs, and Committee on Appropriations of the Senate and the Committee on the Judiciary, Committee on Government Operations, and Committee on Appropriations of the House of Representatives not later than 90 days following the submission of each such statement.
+
+Removal; Report on Removal.—
+
+Grounds for removal
+
+Report to division of the court and congress
+
+Judicial review of removal
+
+Termination of Office.—
+
+Termination by action of independent counsel
+
+Termination by division of the court
+
+Audits
+
+Audits
+
+## Source Credit
+
+*(Added [Pub. L. 95–521, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/95/public/521), Oct. 26, 1978, [92 Stat. 1872](https://www.govinfo.gov/link/statute/92/1872); amended [Pub. L. 97–409](https://www.govinfo.gov/link/plaw/97/public/409), §§ 2(a)(1), 6(d), Jan. 3, 1983, [96 Stat. 2039](https://www.govinfo.gov/link/statute/96/2039), 2042; [Pub. L. 98–620, title IV, § 402(29)(A)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3359](https://www.govinfo.gov/link/statute/98/3359); [Pub. L. 100–191, § 2](https://www.govinfo.gov/link/plaw/100/public/191), Dec. 15, 1987, [101 Stat. 1304](https://www.govinfo.gov/link/statute/101/1304); [Pub. L. 103–270](https://www.govinfo.gov/link/plaw/103/public/270), §§ 3(h), (i), 5, June 30, 1994, [108 Stat. 735](https://www.govinfo.gov/link/statute/108/735), 737.)*

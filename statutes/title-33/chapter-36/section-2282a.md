@@ -3,9 +3,10 @@ title: "Section 2282a - Planning"
 usc_title: 33
 usc_section: "2282a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2282a"
-generated_at: "2026-03-30T02:55:41.118Z"
+generated_at: "2026-11-23T21:26:11.434Z"
+status: "active"
 ---
 
 # § 2282a. Planning
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:55:41.118Z"
     - **(A)** review the report; and
     - **(B)** provide any recommendations of the Secretary regarding the water resources project to Congress.
   - **(2)** Not later than 180 days after November 8, 2007 , with respect to any report of the Chief of Engineers recommending a water resources project that is complete prior to November 8, 2007 , the Secretary shall complete review of, and provide recommendations to Congress for, the report in accordance with paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 110–114, title II, § 2033](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1084](https://www.govinfo.gov/link/statute/121/1084); [Pub. L. 113–121, title II, § 2103](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1278](https://www.govinfo.gov/link/statute/128/1278).)*

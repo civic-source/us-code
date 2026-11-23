@@ -3,12 +3,17 @@ title: "Section 495 - Leases of lands for sanitariums or hotels"
 usc_title: 16
 usc_section: "495"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 495"
-generated_at: "2026-03-30T02:54:22.859Z"
+generated_at: "2026-11-23T21:25:51.650Z"
+status: "active"
 ---
 
 # § 495. Leases of lands for sanitariums or hotels
 
 The Secretary of Agriculture is authorized, under such rules and regulations as he from time to time may make, to rent or lease to responsible persons or corporations applying therefor suitable spaces and portions of ground near, or adjacent to, mineral, medicinal, or other springs, within any national forest established within the United States, or hereafter to be established, and where the public is accustomed or desires to frequent, for health or pleasure, for the purpose of erecting upon such leased ground sanitariums or hotels, to be opened for the reception of the public. And he is further authorized to make such regulations, for the convenience of people visiting such springs, with reference to spaces and locations, for the erection of tents or temporary dwelling houses to be erected or constructed for the use of those visiting such springs for health or pleasure. And the Secretary of Agriculture is authorized to prescribe the terms and duration and the compensation to be paid for the privileges granted under the provisions of this section.
 
+
+## Source Credit
+
+*(Feb. 28, 1899, ch. 221, § 1, [30 Stat. 908](https://www.govinfo.gov/link/statute/30/908); Feb. 1, 1905, ch. 288, § 1, [33 Stat. 628](https://www.govinfo.gov/link/statute/33/628).)*

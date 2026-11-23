@@ -3,9 +3,10 @@ title: "Section 317 - Regional offices"
 usc_title: 6
 usc_section: "317"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 317"
-generated_at: "2026-03-30T02:53:09.457Z"
+generated_at: "2026-11-23T21:25:25.778Z"
+status: "active"
 ---
 
 # § 317. Regional offices
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:53:09.457Z"
   - **(4)** Each Regional Office strike team shall coordinate the training and exercises of that strike team with the State, local, and tribal governments and private sector and nongovernmental entities which the strike team shall support when a natural disaster, act of terrorism, or other man-made disaster occurs.
   - **(5)** Each Regional Office strike team shall be trained as a unit on a regular basis and equipped and staffed to be well prepared to respond to natural disasters, acts of terrorism, and other man-made disasters, including catastrophic incidents.
   - **(6)** If the Administrator determines that statutory authority is inadequate for the preparedness and deployment of individuals in strike teams under this subsection, the Administrator shall report to Congress regarding the additional statutory authorities that the Administrator determines are necessary.
+
+## Source Credit
+
+*([Pub. L. 107–296, title V, § 507](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 109–295, title VI, § 611(13)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1401](https://www.govinfo.gov/link/statute/120/1401); amended [Pub. L. 110–53, title IV, § 404](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 303](https://www.govinfo.gov/link/statute/121/303).)*

@@ -3,9 +3,10 @@ title: "Section 917a - Art. 117a. Wrongful broadcast or distribution of intimate
 usc_title: 10
 usc_section: "917a"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 917a"
-generated_at: "2026-03-30T02:53:38.086Z"
+generated_at: "2026-11-23T21:25:32.350Z"
+status: "active"
 ---
 
 # § 917a. Art. 117a. Wrongful broadcast or distribution of intimate visual images
@@ -31,3 +32,25 @@ generated_at: "2026-03-30T02:53:38.086Z"
     - **(A)** Any developed or undeveloped photograph, picture, film, or video.
     - **(B)** Any digital or computer image, picture, film, or video made by any means, including those transmitted by any means, including streaming media, even if not stored in a permanent format.
     - **(C)** Any digital or electronic data capable of conversion into a visual image.
+
+Prohibition
+
+Definitions
+
+Broadcast
+
+Distribute
+
+Intimate visual image
+
+Private area
+
+Reasonable expectation of privacy
+
+Sexually explicit conduct
+
+Visual image
+
+## Source Credit
+
+*(Added [Pub. L. 115–91, div. A, title V, § 533(a)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1389](https://www.govinfo.gov/link/statute/131/1389).)*

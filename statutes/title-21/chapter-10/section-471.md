@@ -3,9 +3,10 @@ title: "Section 471 - Safe Meat and Poultry Inspection Panel"
 usc_title: 21
 usc_section: "471"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 471"
-generated_at: "2026-03-30T02:54:54.286Z"
+generated_at: "2026-11-23T21:25:56.205Z"
+status: "active"
 ---
 
 # § 471. Safe Meat and Poultry Inspection Panel
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:54.286Z"
 - **(b)**
   - **(1)** The Safe Meat and Poultry Inspection Panel shall submit to the Secretary a report on the results of each review and evaluation carried out under paragraph (1), including such recommendations as the panel considers appropriate.
   - **(2)** In the case of a report concerning a formal change in poultry inspection regulations, the report shall be made within the time limits prescribed for formal comments on such changes.
+
+## Source Credit
+
+*([Pub. L. 85–172, § 30](https://www.govinfo.gov/link/plaw/85/public/172), as added [Pub. L. 104–127, title IX, § 918(a)(2)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1190](https://www.govinfo.gov/link/statute/110/1190).)*

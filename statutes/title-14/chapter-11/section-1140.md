@@ -3,9 +3,10 @@ title: "Section 1140 - Contracts that provide best value for taxpayer"
 usc_title: 14
 usc_section: "1140"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 1140"
-generated_at: "2026-03-30T02:53:51.493Z"
+generated_at: "2026-11-23T21:25:35.399Z"
+status: "active"
 ---
 
 # § 1140. Contracts that provide best value for taxpayer
@@ -23,3 +24,29 @@ generated_at: "2026-03-30T02:53:51.493Z"
   - **(3)** The Commandant shall attempt to negotiate a contract or contracts with the most highly qualified firm or firms selected under subsection (b).
   - **(4)** If the Commandant is unable to negotiate a satisfactory contract or contracts with the firm or firms under paragraph (3), the Commandant shall formally terminate negotiations with such firm or firms and undertake negotiations with the next most qualified of the selected firms, continuing the process until an agreement is reached.
   - **(5)** If the Commandant is unable to negotiate a satisfactory contract or contracts with any of the selected firms, the Commandant shall select additional firms in order of competence and qualification and continue negotiations in accordance with this section until 1 or more agreements are reached.
+
+In General
+
+Selection Procedure
+
+Statements of qualification and performance
+
+Evaluation
+
+Selection
+
+Negotiation of Contract.—
+
+In general
+
+Fair and reasonable compensation
+
+Negotiation
+
+Further negotiation
+
+Additional firms
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. G, title LXXII, § 7212(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1694](https://www.govinfo.gov/link/statute/139/1694).)*

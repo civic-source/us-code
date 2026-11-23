@@ -3,12 +3,17 @@ title: "Section 6914 - Grants for discarded tire disposal"
 usc_title: 42
 usc_section: "6914"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6914"
-generated_at: "2026-03-30T02:56:11.270Z"
+generated_at: "2026-11-23T21:26:32.995Z"
+status: "active"
 ---
 
 # § 6914. Grants for discarded tire disposal
 
 - **(a)** The Administrator shall make available grants equal to 5 percent of the purchase price of tire shredders (including portable shredders attached to tire collection trucks) to those eligible applicants best meeting criteria promulgated under this section. An eligible applicant may be any private purchaser, public body, or public-private joint venture. Criteria for receiving grants shall be promulgated under this section and shall include the policy to offer any private purchaser the first option to receive a grant, the policy to develop widespread geographic distribution of tire shredding facilities, the need for such facilities within a geographic area, and the projected risk and viability of any such venture. In the case of an application under this section from a public body, the Administrator shall first make a determination that there are no private purchasers interested in making an application before approving a grant to a public body.
 - **(b)** There is authorized to be appropriated $750,000 for each of the fiscal years 1978 and 1979 to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 2004](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2805](https://www.govinfo.gov/link/statute/90/2805).)*

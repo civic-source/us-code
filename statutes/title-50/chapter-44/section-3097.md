@@ -3,9 +3,10 @@ title: "Section 3097 - Budget treatment of costs of acquisition of major systems
 usc_title: 50
 usc_section: "3097"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3097"
-generated_at: "2026-03-30T02:56:26.235Z"
+generated_at: "2026-11-23T21:26:39.010Z"
+status: "active"
 ---
 
 # § 3097. Budget treatment of costs of acquisition of major systems by the intelligence community
@@ -42,3 +43,9 @@ generated_at: "2026-03-30T02:56:26.235Z"
       - **(i)** for collection programs, the cost of new analyst training, new hardware and software for data exploitation and analysis, and any unique or additional costs for data processing, storing, and power, space, and cooling across the life cycle of the program; and
       - **(ii)** costs for processing, exploitation, dissemination, and storage scheduled to be executed in other elements of the intelligence community.
   - **(3)** The term “major system” means any significant program of an element of the intelligence community with projected total development and procurement costs exceeding $500,000,000 (based on fiscal year 2010 constant dollars), which costs shall include all end-to-end program costs, including costs associated with the development and procurement of the program and any other costs associated with the development and procurement of systems required to support or utilize the program.
+
+“Congress makes the following findings:
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title V, § 506A, as added [Pub. L. 108–177, title III, § 312(b)(1)](https://www.govinfo.gov/link/plaw/108/public/177), Dec. 13, 2003, [117 Stat. 2607](https://www.govinfo.gov/link/statute/117/2607); amended [Pub. L. 108–458, title I](https://www.govinfo.gov/link/plaw/108/public/458), §§ 1071(a)(1)(BB), 1072(a)(6), Dec. 17, 2004, [118 Stat. 3689](https://www.govinfo.gov/link/statute/118/3689), 3692; [Pub. L. 111–259, title III, § 321(b)](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2669](https://www.govinfo.gov/link/statute/124/2669); [Pub. L. 112–87, title III, § 306(a)](https://www.govinfo.gov/link/plaw/112/public/87), title V, § 505(3), Jan. 3, 2012, [125 Stat. 1881](https://www.govinfo.gov/link/statute/125/1881), 1897.)*

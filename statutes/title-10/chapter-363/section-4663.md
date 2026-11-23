@@ -3,9 +3,10 @@ title: "Section 4663 - Prohibition on contracting with covered entities that con
 usc_title: 10
 usc_section: "4663"
 chapter: 363
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4663"
-generated_at: "2026-03-30T02:53:38.209Z"
+generated_at: "2026-11-23T21:25:32.782Z"
+status: "active"
 ---
 
 # § 4663. Prohibition on contracting with covered entities that contract with lobbyists for Chinese military companies
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:53:38.209Z"
 - **(d)** In this section:
   - **(1)** The term “covered lobbyist” means an entity that engages in lobbying activities for any entity determined to be a Chinese military company listed in accordance with section 1260H of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 ( 10 U.S.C. 113 note).
   - **(2)** The term “lobbying activities” has the meaning given in section 1045(c) of the National Defense Authorization Act for Fiscal Year 2018 ( 10 U.S.C. 971 note prec.).
+
+Prohibition on Entering Into Contracts With Covered Entities
+
+Exception
+
+Waiver
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title VIII, § 851(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1995](https://www.govinfo.gov/link/statute/138/1995); amended [Pub. L. 119–60, div. A, title XVII, § 1701(a)(29)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1209](https://www.govinfo.gov/link/statute/139/1209).)*

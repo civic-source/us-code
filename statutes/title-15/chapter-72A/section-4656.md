@@ -3,9 +3,10 @@ title: "Section 4656 - Advanced microelectronics research and development"
 usc_title: 15
 usc_section: "4656"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4656"
-generated_at: "2026-03-30T02:54:08.202Z"
+generated_at: "2026-11-23T21:25:40.002Z"
+status: "active"
 ---
 
 # § 4656. Advanced microelectronics research and development
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:54:08.202Z"
   - **(3)** Developing and deploying educational and skills training curricula needed to support the industry sector and ensure the United States can build and maintain a trusted and predictable talent pipeline.
 - **(g)** The head of any executive agency receiving funding under this section shall develop policies to require domestic production, to the extent possible, for any intellectual property resulting from microelectronics research and development conducted as a result of such funding and domestic control requirements to protect any such intellectual property from foreign adversaries.
 - **(h)** Section 3212 of title 42 shall apply to a construction project that receives financial assistance under this section.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. H, title XCIX, § 9906](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4856](https://www.govinfo.gov/link/statute/134/4856); [Pub. L. 117–167, div. A, § 103(c)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1388](https://www.govinfo.gov/link/statute/136/1388).)*

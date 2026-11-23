@@ -3,9 +3,10 @@ title: "Section 658 - Cybersecurity recruitment and retention"
 usc_title: 6
 usc_section: "658"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 658"
-generated_at: "2026-03-30T02:53:09.474Z"
+generated_at: "2026-11-23T21:25:25.818Z"
+status: "active"
 ---
 
 # § 658. Cybersecurity recruitment and retention
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:53:09.474Z"
 - **(f)** Not later than 120 days after December 18, 2014 , the National Protection and Programs Directorate shall submit a report regarding the availability of, and benefits (including cost savings and security) of using, cybersecurity personnel and facilities outside of the National Capital Region (as defined in section 2674 of title 10 ) to serve the Federal and national need to—
   - **(1)** the Subcommittee on Homeland Security of the Committee on Appropriations and the Committee on Homeland Security and Governmental Affairs of the Senate; and
   - **(2)** the Subcommittee on Homeland Security of the Committee on Appropriations and the Committee on Homeland Security of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XXII, § 2208](https://www.govinfo.gov/link/plaw/107/public/296), formerly title II, § 226, as added [Pub. L. 113–277, § 3(a)](https://www.govinfo.gov/link/plaw/113/public/277), Dec. 18, 2014, [128 Stat. 3005](https://www.govinfo.gov/link/statute/128/3005); renumbered title XXII, § 2208, [Pub. L. 115–278, § 2(g)(2)(I)](https://www.govinfo.gov/link/plaw/115/public/278), Nov. 16, 2018, [132 Stat. 4178](https://www.govinfo.gov/link/statute/132/4178).)*

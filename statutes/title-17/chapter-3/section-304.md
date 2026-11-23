@@ -3,9 +3,10 @@ title: "Section 304 - Duration of copyright: Subsisting copyrights"
 usc_title: 17
 usc_section: "304"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 304"
-generated_at: "2026-03-30T02:54:15.350Z"
+generated_at: "2026-11-23T21:25:41.711Z"
+status: "active"
 ---
 
 # § 304. Duration of copyright: Subsisting copyrights
@@ -59,3 +60,19 @@ generated_at: "2026-03-30T02:54:15.350Z"
 - **(d)** In the case of any copyright other than a work made for hire, subsisting in its renewal term on the effective date of the Sonny Bono Copyright Term Extension Act for which the termination right provided in subsection (c) has expired by such date, where the author or owner of the termination right has not previously exercised such termination right, the exclusive or nonexclusive grant of a transfer or license of the renewal copyright or any right under it, executed before January 1, 1978 , by any of the persons designated in subsection (a)(1)(C) of this section, other than by will, is subject to termination under the following conditions:
   - **(1)** The conditions specified in subsections (c)(1), (2), (4), (5), and (6) of this section apply to terminations of the last 20 years of copyright term as provided by the amendments made by the Sonny Bono Copyright Term Extension Act.
   - **(2)** Termination of the grant may be effected at any time during a period of 5 years beginning at the end of 75 years from the date copyright was originally secured.
+
+Copyrights in Their First Term on January
+
+Copyrights in Their Renewal Term at the Time of the Effective Date of the Sonny Bono Copyright Term Extension Act
+
+Termination of Transfers and Licenses Covering Extended Renewal Term
+
+Termination Rights Provided in Subsection
+
+Which Have Expired on or Before the Effective Date of the Sonny Bono Copyright Term Extension Act
+
+Copyrights in Their First Term on January
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2573](https://www.govinfo.gov/link/statute/90/2573); [Pub. L. 102–307, title I, § 102(a)](https://www.govinfo.gov/link/plaw/102/public/307), (d), June 26, 1992, [106 Stat. 264](https://www.govinfo.gov/link/statute/106/264), 266; [Pub. L. 105–80, § 12(a)(9)](https://www.govinfo.gov/link/plaw/105/public/80), Nov. 13, 1997, [111 Stat. 1535](https://www.govinfo.gov/link/statute/111/1535); [Pub. L. 105–298, title I](https://www.govinfo.gov/link/plaw/105/public/298), §§ 102(d)(1), 103, Oct. 27, 1998, [112 Stat. 2827](https://www.govinfo.gov/link/statute/112/2827), 2829; [Pub. L. 107–273, div. C, title III, § 13210(10)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1910](https://www.govinfo.gov/link/statute/116/1910).)*

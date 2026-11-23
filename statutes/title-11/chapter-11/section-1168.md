@@ -3,9 +3,10 @@ title: "Section 1168 - Rolling stock equipment"
 usc_title: 11
 usc_section: "1168"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1168"
-generated_at: "2026-03-30T02:53:53.885Z"
+generated_at: "2026-11-23T21:25:34.958Z"
+status: "active"
 ---
 
 # § 1168. Rolling stock equipment
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:53.885Z"
   - **(1)** the term “lease” includes any written agreement with respect to which the lessor and the debtor, as lessee, have expressed in the agreement or in a substantially contemporaneous writing that the agreement is to be treated as a lease for Federal income tax purposes; and
   - **(2)** the term “security interest” means a purchase-money equipment security interest.
 - **(e)** With respect to equipment first placed in service after October 22, 1994 , for purposes of this section, the term “rolling stock equipment” includes rolling stock equipment that is substantially rebuilt and accessories used on such equipment.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2642](https://www.govinfo.gov/link/statute/92/2642); [Pub. L. 98–353, title III, § 519](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 388](https://www.govinfo.gov/link/statute/98/388); [Pub. L. 103–394, title II, § 201(b)](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4120](https://www.govinfo.gov/link/statute/108/4120); [Pub. L. 106–181, title VII, § 744(a)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 175](https://www.govinfo.gov/link/statute/114/175).)*

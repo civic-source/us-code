@@ -3,9 +3,10 @@ title: "Section 1397k - Elder Justice Coordinating Council"
 usc_title: 42
 usc_section: "1397k"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1397k"
-generated_at: "2026-03-30T02:56:11.066Z"
+generated_at: "2026-11-23T21:26:31.933Z"
+status: "active"
 ---
 
 # § 1397k. Elder Justice Coordinating Council
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:11.066Z"
 - **(i)** Any Federal Government employee may be detailed to the Council without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
 - **(j)** Section 1013 of title 5 shall not apply to the Council.
 - **(k)** There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XX, § 2021, as added [Pub. L. 111–148, title VI, § 6703(a)(1)(C)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 786](https://www.govinfo.gov/link/statute/124/786); amended [Pub. L. 117–286, § 4(a)(256)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4334](https://www.govinfo.gov/link/statute/136/4334).)*

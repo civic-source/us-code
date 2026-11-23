@@ -3,9 +3,10 @@ title: "Section 11185 - Payments"
 usc_title: 34
 usc_section: "11185"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 11185"
-generated_at: "2026-03-30T02:55:33.278Z"
+generated_at: "2026-11-23T21:26:09.703Z"
+status: "active"
 ---
 
 # § 11185. Payments
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:33.278Z"
 - **(c)**
   - **(1)** In the case of a grant under this subchapter to an Indian tribe, if the Administrator determines that the tribe does not have sufficient funds available to meet the local share of the cost of any program or activity to be funded under the grant, the Administrator may increase the Federal share of the cost thereof to the extent the Administrator deems necessary.
   - **(2)** If a State does not have an adequate forum to enforce grant provisions imposing any liability on Indian tribes, the Administrator may waive State liability attributable to the liability of such tribes and may pursue such legal remedies as are necessary.
+
+## Source Credit
+
+*([Pub. L. 93–415, title II, § 299D](https://www.govinfo.gov/link/plaw/93/public/415), formerly § 295, as added [Pub. L. 100–690, title VII, § 7266(4)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4450](https://www.govinfo.gov/link/statute/102/4450); renumbered § 299D, [Pub. L. 102–586, § 2(i)(1)(B)](https://www.govinfo.gov/link/plaw/102/public/586), Nov. 4, 1992, [106 Stat. 5006](https://www.govinfo.gov/link/statute/106/5006); amended [Pub. L. 107–273, div. C, title II, § 12221(a)(3)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1894](https://www.govinfo.gov/link/statute/116/1894).)*

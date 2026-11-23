@@ -3,9 +3,10 @@ title: "Section 1201 - Findings"
 usc_title: 45
 usc_section: "1201"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 1201"
-generated_at: "2026-03-30T02:55:56.560Z"
+generated_at: "2026-11-23T21:26:19.238Z"
+status: "active"
 ---
 
 # § 1201. Findings
@@ -18,3 +19,7 @@ The Congress finds that—
   - **(4)** the transfer of the Alaska Railroad and provision for its operation by the State in the manner contemplated by this chapter is made pursuant to the Federal goal and ongoing program of transferring appropriate activities to the States;
   - **(5)** the State’s continued operation of the Alaska Railroad following the transfer contemplated by this chapter, together with such expansion of the railroad as may be necessary or convenient in the future, will constitute an appropriate public use of the rail system and associated properties, will provide an essential governmental service, and will promote the general welfare of Alaska’s residents and visitors; and
   - **(6)** in order to give the State government the ability to determine the Alaska Railroad’s role in serving the State’s transportation needs in the future, including the opportunity to extend rail service, and to provide a savings to the Federal Government, the Federal Government should offer to transfer the railroad to the State, in accordance with the provisions of this chapter, in the same manner in which other Federal transportation functions (including highways and airports) have been transferred since Alaska became a State in 1959.
+
+## Source Credit
+
+*([Pub. L. 97–468, title VI, § 602](https://www.govinfo.gov/link/plaw/97/public/468), Jan. 14, 1983, [96 Stat. 2556](https://www.govinfo.gov/link/statute/96/2556).)*

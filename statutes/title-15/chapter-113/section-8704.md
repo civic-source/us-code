@@ -3,9 +3,10 @@ title: "Section 8704 - Required terms in orders"
 usc_title: 15
 usc_section: "8704"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8704"
-generated_at: "2026-03-30T02:54:08.232Z"
+generated_at: "2026-11-23T21:25:40.091Z"
+status: "active"
 ---
 
 # § 8704. Required terms in orders
@@ -114,3 +115,7 @@ generated_at: "2026-03-30T02:54:08.232Z"
       - **(ii)** the publication, by direction of the Secretary, of the name of any person violating any order and a statement of the particular provisions of the order violated by the person.
     - **(D)** Any officer, employee, or agent of the Department of Commerce or any officer, employee, or agent of the Board who willfully violates this paragraph shall be fined not more than $1,000 and imprisoned for not more than 1 year, or both.
   - **(4)** This subsection does not authorize the withholding of information from Congress.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. E, § 1305](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3472](https://www.govinfo.gov/link/statute/132/3472).)*

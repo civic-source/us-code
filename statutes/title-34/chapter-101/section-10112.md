@@ -3,9 +3,10 @@ title: "Section 10112 - Senior Policy Advisor on Culturally Specific Communities
 usc_title: 34
 usc_section: "10112"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10112"
-generated_at: "2026-03-30T02:55:33.260Z"
+generated_at: "2026-11-23T21:26:09.618Z"
+status: "active"
 ---
 
 # § 10112. Senior Policy Advisor on Culturally Specific Communities within the Office of Justice Programs
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:33.260Z"
   - **(1)** personal, lived, and work experience from a culturally specific community; and
   - **(2)** a demonstrated history of and expertise in addressing domestic violence or sexual assault in a nongovernmental agency.
 - **(c)** Not later than 120 days after March 15, 2022 , the Assistant Attorney General of the Office of Justice Programs shall appoint an individual as Senior Policy Advisor on Culturally Specific Communities.
+
+## Source Credit
+
+*([Pub. L. 117–103, div. W, title XIII, § 1313](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 935](https://www.govinfo.gov/link/statute/136/935).)*

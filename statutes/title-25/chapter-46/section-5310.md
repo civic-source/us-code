@@ -3,9 +3,10 @@ title: "Section 5310 - Investment of advance payments; restrictions"
 usc_title: 25
 usc_section: "5310"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5310"
-generated_at: "2026-03-30T02:54:52.865Z"
+generated_at: "2026-11-23T21:25:54.722Z"
+status: "active"
 ---
 
 # § 5310. Investment of advance payments; restrictions
@@ -14,3 +15,7 @@ Advance payments made by the Department of the Interior to Indian tribes, tribal
 
   - **(1)** invested by the Indian tribe, tribal organization, or consortium only in obligations of the United States, or in obligations or securities that are guaranteed or insured by the United States, or mutual (or other) funds registered with the Securities and Exchange Commission and which only invest in obligations of the United States or securities that are guaranteed or insured by the United States; or
   - **(2)** deposited only into accounts that are insured by an agency or instrumentality of the United States, or are fully collateralized to ensure protection of the funds, even in the event of a bank failure.
+
+## Source Credit
+
+*([Pub. L. 108–447, div. E, title I, § 111](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3064](https://www.govinfo.gov/link/statute/118/3064).)*

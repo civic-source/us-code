@@ -3,12 +3,17 @@ title: "Section 1822 - Competency of interested persons; share of penalties paya
 usc_title: 28
 usc_section: "1822"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1822"
-generated_at: "2026-03-30T02:55:30.144Z"
+generated_at: "2026-11-23T21:26:01.106Z"
+status: "active"
 ---
 
 # § 1822. Competency of interested persons; share of penalties payable
 
 Any person interested in a share of any fine, penalty or forfeiture incurred under any Act of Congress, may be examined as a witness in any proceeding for the recovery of such fine, penalty or forfeiture by any party thereto. Such examination shall not deprive the witness of his share.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 950](https://www.govinfo.gov/link/statute/62/950).)*

@@ -3,9 +3,10 @@ title: "Section 940f - Extension of period of existing guarantee"
 usc_title: 7
 usc_section: "940f"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 940f"
-generated_at: "2026-03-30T02:53:42.297Z"
+generated_at: "2026-11-23T21:25:28.011Z"
+status: "active"
 ---
 
 # § 940f. Extension of period of existing guarantee
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:42.297Z"
   - **(1)** A borrower that receives an extension under this section shall pay a fee to the Secretary which shall be credited to the Rural Electrification and Telecommunications Loans Program account. Such fees shall remain available without fiscal year limitation to pay the modification costs for extensions.
   - **(2)** The amount of the fee paid shall be equal to the modification cost, calculated in accordance with section 502 of the Federal Credit Reform Act of 1990 [ 2 U.S.C. 661a ], as amended, of such extension.
   - **(3)** The borrower shall pay the fee required under this section at the time the existing guarantee is extended by making a payment in the amount of the required fee.
+
+## Source Credit
+
+*(May 20, 1936, ch. 432, title III, § 316, as added [Pub. L. 109–97, title VII, § 774](https://www.govinfo.gov/link/plaw/109/public/97), Nov. 10, 2005, [119 Stat. 2160](https://www.govinfo.gov/link/statute/119/2160).)*

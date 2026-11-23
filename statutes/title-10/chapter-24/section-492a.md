@@ -3,9 +3,10 @@ title: "Section 492a - Biennial report on the plan for the nuclear weapons stock
 usc_title: 10
 usc_section: "492a"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 492a"
-generated_at: "2026-03-30T02:53:38.062Z"
+generated_at: "2026-11-23T21:25:32.273Z"
+status: "active"
 ---
 
 # § 492a. Biennial report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system
@@ -46,3 +47,37 @@ generated_at: "2026-03-30T02:53:38.062Z"
       - **(i)** submit the assessment to the Chairman of the Nuclear Weapons Council; and
       - **(ii)** notify the congressional defense committees that the assessment has been submitted to the Chairman of the Nuclear Weapons Council.
     - **(B)** Not later than 15 days after the Chairman of the Nuclear Weapons Council receives an assessment required by paragraph (1), the Chairman shall transmit the assessment, without change, to the congressional defense committees.
+
+Report Required.—
+
+In general
+
+Elements
+
+Budget estimate contents and methodology
+
+Extension of deadline for report.—
+
+In general
+
+Limitation
+
+Estimate of Costs by Congressional Budget Office
+
+Comptroller General Review
+
+Independent Assessment by United States Strategic Command.—
+
+In general
+
+Contents
+
+Routing and submission.—
+
+Submission to nuclear weapons council
+
+Submission to congress
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–92, div. A, title XVI, § 1665(c)(1)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1773](https://www.govinfo.gov/link/statute/133/1773); [Pub. L. 116–283, div. A, title XVI, § 1633](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4059](https://www.govinfo.gov/link/statute/134/4059); [Pub. L. 117–263, div. A, title XVI, § 1635](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2939](https://www.govinfo.gov/link/statute/136/2939); [Pub. L. 118–31, div. A, title XVI, § 1633](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 592](https://www.govinfo.gov/link/statute/137/592); [Pub. L. 118–159, div. A, title XVI, § 1624](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2173](https://www.govinfo.gov/link/statute/138/2173).)*

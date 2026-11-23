@@ -3,9 +3,10 @@ title: "Section 3352 - Preference in transfers for employees making certain disc
 usc_title: 5
 usc_section: "3352"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3352"
-generated_at: "2026-03-30T02:52:56.004Z"
+generated_at: "2026-11-23T21:25:23.161Z"
+status: "active"
 ---
 
 # § 3352. Preference in transfers for employees making certain disclosures
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:52:56.004Z"
   - **(2)** for a transfer from or within the agency such employee is employed at the time of a determination by the Merit Systems Protection Board that a prohibited personnel action as described under section 2302(b)(8) was taken against such employee; and
   - **(3)** no later than 18 months after such a determination is made by the Merit Systems Protection Board.
 - **(f)** Notwithstanding the provisions of subsection (a), no preference may be given to any employee applying for a transfer under subsection (b), with respect to a preference eligible (as defined under section 2108(3)) applying for the same position.
+
+## Source Credit
+
+*(Added [Pub. L. 101–12, § 5(a)](https://www.govinfo.gov/link/plaw/101/public/12), Apr. 10, 1989, [103 Stat. 32](https://www.govinfo.gov/link/statute/103/32).)*

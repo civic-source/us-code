@@ -3,9 +3,10 @@ title: "Section 1827 - Interpreters in courts of the United States"
 usc_title: 28
 usc_section: "1827"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1827"
-generated_at: "2026-03-30T02:55:30.144Z"
+generated_at: "2026-11-23T21:26:01.107Z"
+status: "active"
 ---
 
 # § 1827. Interpreters in courts of the United States
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:55:30.144Z"
 - **(j)** The term “judicial proceedings instituted by the United States” as used in this section refers to all proceedings, whether criminal or civil, including pretrial and grand jury proceedings (as well as proceedings upon a petition for a writ of habeas corpus initiated in the name of the United States by a relator) conducted in, or pursuant to the lawful authority and jurisdiction of a United States district court. The term “United States district court” as used in this subsection includes any court which is created by an Act of Congress in a territory and is invested with any jurisdiction of a district court established by chapter 5 of this title.
 - **(k)** The interpretation provided by certified or otherwise qualified interpreters pursuant to this section shall be in the simultaneous mode for any party to a judicial proceeding instituted by the United States and in the consecutive mode for witnesses, except that the presiding judicial officer, sua sponte or on the motion of a party, may authorize a simultaneous, or consecutive interpretation when such officer determines after a hearing on the record that such interpretation will aid in the efficient administration of justice. The presiding judicial officer, on such officer’s motion or on the motion of a party, may order that special interpretation services as authorized in section 1828 of this title be provided if such officer determines that the provision of such services will aid in the efficient administration of justice.
 - **(l)** Notwithstanding any other provision of this section or section 1828, the presiding judicial officer may appoint a certified or otherwise qualified sign language interpreter to provide services to a party, witness, or other participant in a judicial proceeding, whether or not the proceeding is instituted by the United States, if the presiding judicial officer determines, on such officer’s own motion or on the motion of a party or other participant in the proceeding, that such individual suffers from a hearing impairment. The presiding judicial officer shall, subject to the availability of appropriated funds, approve the compensation and expenses payable to sign language interpreters appointed under this section in accordance with the schedule of fees prescribed by the Director under subsection (b)(3) of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 95–539, § 2(a)](https://www.govinfo.gov/link/plaw/95/public/539), Oct. 28, 1978, [92 Stat. 2040](https://www.govinfo.gov/link/statute/92/2040); amended [Pub. L. 100–702, title VII](https://www.govinfo.gov/link/plaw/100/public/702), §§ 702–710, Nov. 19, 1988, [102 Stat. 4654–4657](https://www.govinfo.gov/link/statute/102/4654); [Pub. L. 101–650, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117); [Pub. L. 104–317, title III, § 306](https://www.govinfo.gov/link/plaw/104/public/317), title IV, § 402(a), Oct. 19, 1996, [110 Stat. 3852](https://www.govinfo.gov/link/statute/110/3852), 3854.)*

@@ -3,9 +3,10 @@ title: "Section 2623 - Adoption of certain standards"
 usc_title: 16
 usc_section: "2623"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2623"
-generated_at: "2026-03-30T02:54:23.005Z"
+generated_at: "2026-11-23T21:25:51.952Z"
+status: "active"
 ---
 
 # § 2623. Adoption of certain standards
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:23.005Z"
   - **(4)** No electric utility may terminate electric service to any electric consumer except pursuant to procedures described in section 2625(g) of this title .
   - **(5)** No electric utility may recover from any person other than the shareholders (or other owners) of such utility any direct or indirect expenditure by such utility for promotional or political advertising as defined in section 2625(h) of this title .
 - **(c)** Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility, within the two-year period specified in subsection (a), shall (1) adopt, pursuant to subsection (a), each of the standards established by subsection (b) or, (2) with respect to any such standard which is not adopted, such authority or nonregulated electric utility shall state in writing that it has determined not to adopt such standard, together with the reasons for such determination. Such statement of reasons shall be available to the public.
+
+## Source Credit
+
+*([Pub. L. 95–617, title I, § 113](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3123](https://www.govinfo.gov/link/statute/92/3123).)*

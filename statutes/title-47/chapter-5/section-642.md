@@ -3,9 +3,10 @@ title: "Section 642 - Broadband maps"
 usc_title: 47
 usc_section: "642"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 642"
-generated_at: "2026-03-30T02:56:24.525Z"
+generated_at: "2026-11-23T21:26:36.061Z"
+status: "active"
 ---
 
 # § 642. Broadband maps
@@ -125,3 +126,37 @@ generated_at: "2026-03-30T02:56:24.525Z"
     - **(A)** the maps created under paragraph (1); and
     - **(B)** the data collected by the Commission with respect to the availability of broadband internet access service and the quality of service with respect to broadband internet access service.
 - **(d)** Any requirement of a rule issued under subsection (a)(1) that relates to quality of service shall take effect not earlier than the date that is 180 days after the date on which the Commission issues that rule.
+
+(aa) the entity with which the Commission enters into the contract shall be selected through a competitive bid process that is transparent and open; and
+
+(bb) the contract shall be for a term of not longer than 5 years, after which the Commission may enter into a new contract— (AA) with an entity, and for the purposes, described in clause (i); and (BB) that complies with the requirements under subclause (II) and this subclause; and
+
+(cc) the contract shall— (AA) prohibit the entity described in item (aa) from selling, leasing, or otherwise disclosing for monetary consideration any personally identifiable information to any other entity other than for purposes authorized under this subchapter; and (BB) require the entity described in item (aa) to include in any contract with any other entity a provision that prohibits that other entity from engaging in an action that is prohibited under subitem (AA).
+
+(aa) propagation maps and propagation model details that— (AA) satisfy standards that are similar to those applicable to providers of mobile broadband internet access service under subparagraph (B) with respect to propagation maps and propagation model details, taking into account material differences between fixed wireless and mobile broadband internet access service; and (BB) reflect the speeds and latency of the service provided by the provider; or
+
+(bb) a list of addresses or locations that constitute the service area of the provider, except that the Commission— (AA) may only permit, and not require, a provider to report the data using that means of reporting; and (BB) in the rules issued under subsection (a)(1), shall provide a method for using that means of reporting with respect to Tribal areas; and
+
+(aa) polygon shapefiles; or
+
+(bb) a list of addresses or locations that constitute the service area of the provider, except that the Commission— (AA) may only permit, and not require, a provider to report the data using that means of reporting; and (BB) in the rules issued under subsection (a)(1), shall provide a method for using that means of reporting with respect to Tribal areas; and
+
+(aa) a download speed of not less than 5 megabits per second and an upload speed of not less than 1 megabit per second with a cell edge probability of not less than 90 percent; and
+
+(bb) cell loading of not less than 50 percent; and
+
+(aa) challenging the accuracy of a coverage map; and
+
+(bb) responding to challenges described in item (aa);
+
+(aa) enables the comparison of data and maps produced before the implementation of this subchapter with data and coverage maps produced after the implementation of this subchapter; and
+
+(bb) maintains the public availability of data relating to the deployment of broadband internet access service; and
+
+Incorporation of Maternal Mortality and Severe Maternal Morbidity Data
+
+Consultation With CDC
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VIII, § 802, as added [Pub. L. 116–130, § 2](https://www.govinfo.gov/link/plaw/116/public/130), Mar. 23, 2020, [134 Stat. 229](https://www.govinfo.gov/link/statute/134/229); amended [Pub. L. 117–58, div. F, title I](https://www.govinfo.gov/link/plaw/117/public/58), §§ 60102(h)(2)(E)(i), 60103(d)(1), (e), Nov. 15, 2021, [135 Stat. 1198](https://www.govinfo.gov/link/statute/135/1198), 1205.)*

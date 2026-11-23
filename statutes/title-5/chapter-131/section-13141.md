@@ -3,9 +3,10 @@ title: "Section 13141 - Definitions"
 usc_title: 5
 usc_section: "13141"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 13141"
-generated_at: "2026-03-30T02:52:56.079Z"
+generated_at: "2026-11-23T21:25:23.477Z"
+status: "active"
 ---
 
 # § 13141. Definitions
@@ -17,3 +18,40 @@ In this subchapter:
   - **(3)** The term “Member” means a Senator in, a Representative in, or a Delegate or Resident Commissioner to, the Congress.
   - **(4)** The term “officer or employee” means any officer or employee of the Government except any special Government employee (as defined in section 202 of title 18 ).
   - **(5)** The term “travel expenses” means, with respect to a Member, officer or employee, or a relative of any such individual, the cost of transportation, and the cost of lodging and meals while away from his or her residence or principal place of employment.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 13141 | 5 U.S.C. App. (EGA § 505) | Pub. L. 95–521, title V, § 505 , as added Pub. L. 101–194, title VI, § 601(a) , Nov. 30, 1989 , 103 Stat. 1761 ; amended Pub. L. 102–90, title I, § 6(b)(2) , (3), title III, § 314(b), Aug. 14, 1991 , 105 Stat. 450 , 469. |
+
+
+Charitable organization
+
+Honorarium
+
+Member
+
+Officer or employee
+
+Travel expenses
+
+Historical and Revision Notes
+
+13141
+
+Pub. L. 95–521, title V, § 505
+
+Pub. L. 101–194, title VI, § 601(a)
+
+Nov. 30, 1989
+
+103 Stat. 1761
+
+Pub. L. 102–90, title I, § 6(b)(2)
+
+Aug. 14, 1991
+
+105 Stat. 450
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(c)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4302](https://www.govinfo.gov/link/statute/136/4302).)*

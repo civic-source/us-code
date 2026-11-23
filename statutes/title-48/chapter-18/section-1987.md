@@ -3,9 +3,10 @@ title: "Section 1987 - Oversight provisions"
 usc_title: 48
 usc_section: "1987"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1987"
-generated_at: "2026-03-30T02:56:14.599Z"
+generated_at: "2026-11-23T21:26:38.134Z"
+status: "active"
 ---
 
 # § 1987. Oversight provisions
@@ -71,3 +72,7 @@ generated_at: "2026-03-30T02:56:14.599Z"
   - **(2)** The Office of the Law Revision Counsel is directed to revise—
     - **(A)** the 2003 Amended U.S.-FSM Compact set forth in the note following section 1921 of title 48 to reflect the amendments to the 2003 Amended U.S.-FSM Compact made by the 2023 Agreement to Amend the U.S.-FSM Compact; and
     - **(B)** the 2003 Amended U.S.-RMI Compact set forth in the note following section 1921 of title 48 to reflect the amendments to the 2003 Amended U.S.-RMI Compact made by the 2023 Agreement to Amend the U.S.-RMI Compact.
+
+## Source Credit
+
+*([Pub. L. 118–42, div. G, title II, § 208](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 434](https://www.govinfo.gov/link/statute/138/434).)*

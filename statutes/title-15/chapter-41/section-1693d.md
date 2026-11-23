@@ -3,9 +3,10 @@ title: "Section 1693d - Documentation of transfers"
 usc_title: 15
 usc_section: "1693d"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1693d"
-generated_at: "2026-03-30T02:54:08.156Z"
+generated_at: "2026-11-23T21:25:39.887Z"
+status: "active"
 ---
 
 # § 1693d. Documentation of transfers
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:08.156Z"
 - **(d)** In the case of a consumer’s passbook account which may not be accessed by electronic fund transfers other than preauthorized electronic fund transfers crediting the account, a financial institution may, in lieu of complying with the requirements of subsection (c), upon presentation of the passbook provide the consumer in writing with the amount and date of each such transfer involving the account since the passbook was last presented.
 - **(e)** In the case of a consumer’s account, other than a passbook account, which may not be accessed by electronic fund transfers other than preauthorized electronic fund transfers crediting the account, the financial institution may provide a periodic statement on a quarterly basis which otherwise complies with the requirements of subsection (c).
 - **(f)** In any action involving a consumer, any documentation required by this section to be given to the consumer which indicates that an electronic fund transfer was made to another person shall be admissible as evidence of such transfer and shall constitute prima facie proof that such transfer was made.
+
+## Source Credit
+
+*([Pub. L. 90–321, title IX, § 906](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 95–630, title XX, § 2001](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3731](https://www.govinfo.gov/link/statute/92/3731); amended [Pub. L. 111–203, title X, § 1084(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2081](https://www.govinfo.gov/link/statute/124/2081).)*

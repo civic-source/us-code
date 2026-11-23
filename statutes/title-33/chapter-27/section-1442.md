@@ -3,9 +3,10 @@ title: "Section 1442 - Research program respecting possible long-range effects o
 usc_title: 33
 usc_section: "1442"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1442"
-generated_at: "2026-03-30T02:55:41.107Z"
+generated_at: "2026-11-23T21:26:11.405Z"
+status: "active"
 ---
 
 # § 1442. Research program respecting possible long-range effects of pollution, overfishing, and man-induced changes of ocean ecosystems
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:41.107Z"
 - **(b)** In carrying out his responsibilities under this section, the Secretary of Commerce, under the foreign policy guidance of the President and pursuant to international agreements and treaties made by the President with the advice and consent of the Senate, may act alone or in conjunction with any other nation or group of nations, and shall make known the results of his activities by such channels of communication as may appear appropriate.
 - **(c)** Each department, agency, and independent instrumentality of the Federal Government is authorized and directed to cooperate with the Secretary of Commerce in carrying out the purposes of this section and, to the extent permitted by law, to furnish such information as may be requested.
 - **(d)** The Secretary of Commerce, in carrying out his responsibilities under this section, shall, to the extent feasible utilize the personnel, services, and facilities of other Federal departments, agencies, and instrumentalities (including those of the Coast Guard for monitoring purposes), and is authorized to enter into appropriate inter-agency agreements to accomplish this action.
+
+## Source Credit
+
+*([Pub. L. 92–532, title II, § 202](https://www.govinfo.gov/link/plaw/92/public/532), Oct. 23, 1972, [86 Stat. 1060](https://www.govinfo.gov/link/statute/86/1060); [Pub. L. 94–62, § 2](https://www.govinfo.gov/link/plaw/94/public/62), July 25, 1975, [89 Stat. 303](https://www.govinfo.gov/link/statute/89/303); [Pub. L. 96–381, § 3](https://www.govinfo.gov/link/plaw/96/public/381), Oct. 6, 1980, [94 Stat. 1524](https://www.govinfo.gov/link/statute/94/1524); [Pub. L. 96–470, title II, § 201(f)](https://www.govinfo.gov/link/plaw/96/public/470), Oct. 19, 1980, [94 Stat. 2242](https://www.govinfo.gov/link/statute/94/2242); [Pub. L. 99–272, title VI, § 6062](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 131](https://www.govinfo.gov/link/statute/100/131); [Pub. L. 100–627, title I, § 101](https://www.govinfo.gov/link/plaw/100/public/627), Nov. 7, 1988, [102 Stat. 3213](https://www.govinfo.gov/link/statute/102/3213).)*

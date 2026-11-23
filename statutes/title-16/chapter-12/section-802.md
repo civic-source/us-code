@@ -3,9 +3,10 @@ title: "Section 802 - Information to accompany application for license; landowne
 usc_title: 16
 usc_section: "802"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 802"
-generated_at: "2026-03-30T02:54:22.911Z"
+generated_at: "2026-11-23T21:25:51.756Z"
+status: "active"
 ---
 
 # § 802. Information to accompany application for license; landowner notification
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:22.911Z"
 - **(b)** Upon the filing of any application for a license (other than a license under section 808 of this title ) the applicant shall make a good faith effort to notify each of the following by certified mail:
   - **(1)** Any person who is an owner of record of any interest in the property within the bounds of the project.
   - **(2)** Any Federal, State, municipal or other local governmental agency likely to be interested in or affected by such application.
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. I, § 9, [41 Stat. 1068](https://www.govinfo.gov/link/statute/41/1068); renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, [49 Stat. 847](https://www.govinfo.gov/link/statute/49/847); [Pub. L. 99–495, § 14](https://www.govinfo.gov/link/plaw/99/public/495), Oct. 16, 1986, [100 Stat. 1257](https://www.govinfo.gov/link/statute/100/1257).)*

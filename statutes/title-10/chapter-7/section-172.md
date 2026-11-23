@@ -3,9 +3,10 @@ title: "Section 172 - Explosive safety board"
 usc_title: 10
 usc_section: "172"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 172"
-generated_at: "2026-03-30T02:53:38.043Z"
+generated_at: "2026-11-23T21:25:32.230Z"
+status: "active"
 ---
 
 # § 172. Explosive safety board
@@ -47,3 +48,38 @@ generated_at: "2026-03-30T02:53:38.043Z"
 - **(h)**
   - **(1)** The Secretary of Defense shall delegate to the Secretary of the Air Force, who may further delegate to the Commanders of the Space Launch Deltas, the responsibilities under subsection (c) with respect to explosives used by space launch vehicles.
   - **(2)** In this subsection, the term “launch vehicle” has the meaning given such term in section 50902(11) of title 51 .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 172(a) 172(b) | 50:83 (less last sentence). 50:83 (last sentence). | May 29, 1928, ch. 853 (last par. under “Ordnance Establishment”), 45 Stat. 928 . |
+
+
+In General
+
+Oversight by Secretaries of the Military Departments
+
+Responsibilities of Chair
+
+Responsibilities of Executive Director and Civilian Members
+
+Meetings
+
+Exclusive Responsibilities
+
+Covered Components
+
+Explosives Used by Space Launch Vehicles
+
+Historical and Revision Notes
+
+172(a)
+
+172(b)
+
+May 29, 1928, ch. 853
+
+45 Stat. 928
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 8; [Pub. L. 104–201, div. A, title IX, § 909](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2621](https://www.govinfo.gov/link/statute/110/2621); [Pub. L. 111–383, div. A, title X, § 1075(b)(7)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4369](https://www.govinfo.gov/link/statute/124/4369); [Pub. L. 115–91, div. A, title III, § 341(a)](https://www.govinfo.gov/link/plaw/115/public/91), (b)(1), Dec. 12, 2017, [131 Stat. 1361](https://www.govinfo.gov/link/statute/131/1361); [Pub. L. 115–232, div. A, title III, § 351](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1730](https://www.govinfo.gov/link/statute/132/1730); [Pub. L. 116–283, div. A, title III, § 351(a)](https://www.govinfo.gov/link/plaw/116/public/283), title IX, § 924(b)(2)(A)(ii), Jan. 1, 2021, [134 Stat. 3542](https://www.govinfo.gov/link/statute/134/3542), 3821; [Pub. L. 118–31, div. A, title XVI, § 1601(a)](https://www.govinfo.gov/link/plaw/118/public/31), title XVIII, § 1801(a)(2), Dec. 22, 2023, [137 Stat. 583](https://www.govinfo.gov/link/statute/137/583), 683.)*

@@ -3,9 +3,10 @@ title: "Section 7007 - Rulemaking"
 usc_title: 16
 usc_section: "7007"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 7007"
-generated_at: "2026-03-30T02:54:23.072Z"
+generated_at: "2026-11-23T21:25:52.060Z"
+status: "active"
 ---
 
 # § 7007. Rulemaking
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:23.072Z"
   - **(2)** base the total allowable catch on the best scientific information available;
   - **(3)** use the default harvest rate set out in paragraph 1 of Article III of the Agreement unless the Secretary determines that the scientific evidence demonstrates that a different rate is necessary to sustain the offshore whiting resource; and
   - **(4)** establish the United State’s 1 1 So in original. share of the total allowable catch based on paragraph 2 of Article III of the Agreement and make any adjustments necessary under section 5 of Article II of the Agreement.
+
+## Source Credit
+
+*([Pub. L. 109–479, title VI, § 608](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3647](https://www.govinfo.gov/link/statute/120/3647).)*

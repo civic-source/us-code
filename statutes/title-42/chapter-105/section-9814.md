@@ -3,9 +3,10 @@ title: "Section 9814 - Training and technical assistance"
 usc_title: 42
 usc_section: "9814"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9814"
-generated_at: "2026-03-30T02:56:11.365Z"
+generated_at: "2026-11-23T21:26:33.278Z"
+status: "active"
 ---
 
 # § 9814. Training and technical assistance
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:11.365Z"
 - **(a)** The Secretary shall provide, directly or through grants, contracts, or other arrangements, such technical assistance and training of personnel as may be required to effectively implement the purposes of this subchapter. No financial assistance shall be provided to any public or private organization under this section unless the Secretary provides the beneficiaries of these services with opportunity to participate in the selection of and to review the quality and utility of the services furnished them by such organization.
 - **(b)** Technical assistance to community development corporations and both urban and rural cooperatives may include planning, management, legal assistance or support, preparation of feasibility studies, product development, marketing, and the provision of stipends to encourage skilled professionals to engage in full-time activities under the direction of a community organization financially assisted under this subchapter.
 - **(c)** Training for employees of community development corporations and for employees and members of urban and rural cooperatives shall include on-the-job training, classroom instruction, and scholarships to assist them in development, managerial, entrepreneurial, planning, and other technical and organizational skills which will contribute to the effectiveness of programs assisted under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 625](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 496](https://www.govinfo.gov/link/statute/95/496).)*

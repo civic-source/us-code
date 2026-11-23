@@ -3,9 +3,10 @@ title: "Section 6972 - Citizen suits"
 usc_title: 42
 usc_section: "6972"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6972"
-generated_at: "2026-03-30T02:56:11.277Z"
+generated_at: "2026-11-23T21:26:33.023Z"
+status: "active"
 ---
 
 # § 6972. Citizen suits
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:56:11.277Z"
 - **(e)** The court, in issuing any final order in any action brought pursuant to this section or section 6976 of this title , may award costs of litigation (including reasonable attorney and expert witness fees) to the prevailing or substantially prevailing party, whenever the court determines such an award is appropriate. The court may, if a temporary restraining order or preliminary injunction is sought, require the filing of a bond or equivalent security in accordance with the Federal Rules of Civil Procedure.
 - **(f)** Nothing in this section shall restrict any right which any person (or class of persons) may have under any statute or common law to seek enforcement of any standard or requirement relating to the management of solid waste or hazardous waste, or to seek any other relief (including relief against the Administrator or a State agency).
 - **(g)** A transporter shall not be deemed to have contributed or to be contributing to the handling, storage, treatment, or disposal, referred to in subsection (a)(1)(B) taking place after such solid waste or hazardous waste has left the possession or control of such transporter, if the transportation of such waste was under a sole contractual arrangement arising from a published tariff and acceptance for carriage by common carrier by rail and such transporter has exercised due care in the past or present handling, storage, treatment, transportation and disposal of such waste.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 7002](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2825](https://www.govinfo.gov/link/statute/90/2825); amended [Pub. L. 95–609, § 7(p)](https://www.govinfo.gov/link/plaw/95/public/609), Nov. 8, 1978, [92 Stat. 3083](https://www.govinfo.gov/link/statute/92/3083); [Pub. L. 98–616, title IV, § 401](https://www.govinfo.gov/link/plaw/98/public/616), Nov. 8, 1984, [98 Stat. 3268](https://www.govinfo.gov/link/statute/98/3268).)*

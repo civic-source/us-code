@@ -3,9 +3,10 @@ title: "Section 1026 - Significant thermal features"
 usc_title: 30
 usc_section: "1026"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1026"
-generated_at: "2026-03-30T02:55:29.395Z"
+generated_at: "2026-11-23T21:26:00.415Z"
+status: "active"
 ---
 
 # § 1026. Significant thermal features
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:55:29.395Z"
   - **(4)** requiring the lessee to suspend activity on the lease if the Secretary determines that ongoing exploration, development or utilization activities are having a significant adverse effect on a significant thermal feature within a unit of the National Park System until such time as the significant adverse effect is eliminated. The stipulation shall provide for the termination of the lease by the Secretary if the significant adverse effect cannot be eliminated within a reasonable period of time.
 - **(e)** The Secretary of Agriculture shall consider the effects on significant thermal features within units of the National Park System in determining whether to consent to leasing under this chapter on national forest lands or other lands administered by the Department of Agriculture available for leasing under this chapter, including public, withdrawn, and acquired lands.
 - **(f)** Nothing in this chapter shall affect the ban on leasing under this chapter with respect to the Island Park Geothermal Area, as designated by the map in the “Final Environmental Impact Statement of the Island Park Geothermal Area” ( January 15, 1980 , p. XI), and provided for in Public Law 98–473 .
+
+## Source Credit
+
+*([Pub. L. 91–581, § 28](https://www.govinfo.gov/link/plaw/91/public/581), as added [Pub. L. 100–443, § 6](https://www.govinfo.gov/link/plaw/100/public/443), Sept. 22, 1988, [102 Stat. 1769](https://www.govinfo.gov/link/statute/102/1769); amended [Pub. L. 106–510, § 3(a)(2)](https://www.govinfo.gov/link/plaw/106/public/510), (b)(2), Nov. 13, 2000, [114 Stat. 2363](https://www.govinfo.gov/link/statute/114/2363); [Pub. L. 109–58, title II, § 236(1)](https://www.govinfo.gov/link/plaw/109/public/58), (26), Aug. 8, 2005, [119 Stat. 671](https://www.govinfo.gov/link/statute/119/671), 673.)*

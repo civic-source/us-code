@@ -3,9 +3,10 @@ title: "Section 9702 - Establishment of the United Mine Workers of America Combi
 usc_title: 26
 usc_section: "9702"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 9702"
-generated_at: "2026-03-30T02:55:27.893Z"
+generated_at: "2026-11-23T21:26:07.040Z"
+status: "active"
 ---
 
 # § 9702. Establishment of the United Mine Workers of America Combined Benefit Fund
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:27.893Z"
   - **(2)** Any successor trustee shall be appointed in the same manner as the trustee being succeeded. The plan establishing the Combined Fund shall provide for the removal of trustees.
   - **(3)** If the BCOA ceases to exist, any trustee or successor under paragraph (1)(A) shall be designated by the 3 employers who were members of the BCOA on the enactment date and who have been assigned the greatest number of eligible beneficiaries under section 9706.
 - **(c)** The first plan year of the Combined Fund shall begin February 1, 1993 , and end September 30, 1993 . Each succeeding plan year shall begin on October 1 of each calendar year.
+
+## Source Credit
+
+*(Added [Pub. L. 102–486, title XIX, § 19143(a)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3040](https://www.govinfo.gov/link/statute/106/3040); amended [Pub. L. 109–432, div. C, title II, § 213(a)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 3027](https://www.govinfo.gov/link/statute/120/3027).)*

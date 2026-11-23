@@ -3,9 +3,10 @@ title: "Section 16279c - Organization and administration of programs"
 usc_title: 42
 usc_section: "16279c"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16279c"
-generated_at: "2026-03-30T02:56:11.477Z"
+generated_at: "2026-11-23T21:26:33.717Z"
+status: "active"
 ---
 
 # § 16279c. Organization and administration of programs
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.477Z"
 - **(e)** In carrying out this part, for the purposes of supporting technical, nonhardware, and information-based advances in nuclear energy development and operations, the Secretary shall also conduct technical assistance and analysis activities, including activities that support commercial application of nuclear energy in rural, Tribal, and low-income communities.
 - **(f)** At least annually, all programs in this part shall be subject to an annual review by the Nuclear Energy Advisory Committee of the Department or other independent entity, as appropriate.
 - **(g)** The Secretary shall not publish any information generated under this part that is detrimental to national security, as determined by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 959C](https://www.govinfo.gov/link/plaw/109/public/58), as added [Pub. L. 116–260, div. Z, title II, § 2006(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2471](https://www.govinfo.gov/link/statute/134/2471).)*

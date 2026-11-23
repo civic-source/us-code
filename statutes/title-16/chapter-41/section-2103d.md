@@ -3,9 +3,10 @@ title: "Section 2103d - Community forest and open space conservation program"
 usc_title: 16
 usc_section: "2103d"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2103d"
-generated_at: "2026-03-30T02:54:22.997Z"
+generated_at: "2026-11-23T21:25:51.940Z"
+status: "active"
 ---
 
 # § 2103d. Community forest and open space conservation program
@@ -49,3 +50,9 @@ generated_at: "2026-03-30T02:54:22.997Z"
   - **(3)** An eligible entity that sells or converts a parcel acquired under the Program shall not be eligible for additional grants under the Program.
 - **(f)** The Secretary may allocate not more than 10 percent of all funds made available to carry out the Program for each fiscal year to State foresters or equivalent officials (including equivalent officials of Indian tribes) for Program administration and technical assistance.
 - **(g)** There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+“Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 95–313, § 7A](https://www.govinfo.gov/link/plaw/95/public/313), as added [Pub. L. 110–234, title VIII, § 8003(b)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1281](https://www.govinfo.gov/link/statute/122/1281), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VIII, § 8003(b), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2043.)*

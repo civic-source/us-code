@@ -3,9 +3,10 @@ title: "Section 7616 - Obligated service"
 usc_title: 38
 usc_section: "7616"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7616"
-generated_at: "2026-03-30T02:55:53.534Z"
+generated_at: "2026-11-23T21:26:16.885Z"
+status: "active"
 ---
 
 # § 7616. Obligated service
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:53.534Z"
     - **(B)** if the participant is a full-time employee in the Veterans Health Administration on such course completion date, on the date thereafter on which such participant is assigned to a position for which such participant’s course of training prepared such participant.
   - **(2)** A participant in the Scholarship Program who on such participant’s course completion date is a full-time employee in the Veterans Health Administration serving in a capacity for which such participant’s course of training prepared such participant shall be considered to have begun serving such participant’s period of obligated service on such course completion date.
   - **(3)** For the purposes of this section, the term “course completion date” means the date on which a participant in the Scholarship Program completes such participant’s course of education or training under the program.
+
+## Source Credit
+
+*(Added [Pub. L. 100–322, title II, § 216(b)](https://www.govinfo.gov/link/plaw/100/public/322), May 20, 1988, [102 Stat. 522](https://www.govinfo.gov/link/statute/102/522), § 4316; renumbered § 7616 and amended [Pub. L. 102–40, title IV](https://www.govinfo.gov/link/plaw/102/public/40), §§ 402(b)(1), (d)(1), 403(b)(5), May 7, 1991, [105 Stat. 238–240](https://www.govinfo.gov/link/statute/105/238); [Pub. L. 102–83, § 4(a)(3)](https://www.govinfo.gov/link/plaw/102/public/83), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404](https://www.govinfo.gov/link/statute/105/404), 405; [Pub. L. 102–405, title III, § 302(c)(1)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1984](https://www.govinfo.gov/link/statute/106/1984); [Pub. L. 103–446, title XII, § 1201(b)(1)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4682](https://www.govinfo.gov/link/statute/108/4682).)*

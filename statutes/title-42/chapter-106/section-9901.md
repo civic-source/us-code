@@ -3,9 +3,10 @@ title: "Section 9901 - Purposes and goals"
 usc_title: 42
 usc_section: "9901"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9901"
-generated_at: "2026-03-30T02:56:11.376Z"
+generated_at: "2026-11-23T21:26:33.322Z"
+status: "active"
 ---
 
 # § 9901. Purposes and goals
@@ -21,3 +22,15 @@ The purposes of this chapter are—
     - **(E)** the broadening of the resource base of programs directed to the elimination of poverty so as to secure a more active role in the provision of services for—
       - **(i)** private, religious, charitable, and neighborhood-based organizations; and
       - **(ii)** individual citizens, and business, labor, and professional groups, who are able to influence the quantity and quality of opportunities and services for the poor.
+
+Section
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 672](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 105–285, title II, § 201](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2728](https://www.govinfo.gov/link/statute/112/2728).)*

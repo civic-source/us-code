@@ -3,9 +3,10 @@ title: "Section 1274 - Determination of issue price in the case of certain debt 
 usc_title: 26
 usc_section: "1274"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1274"
-generated_at: "2026-03-30T02:55:27.765Z"
+generated_at: "2026-11-23T21:26:06.483Z"
+status: "active"
 ---
 
 # § 1274. Determination of issue price in the case of certain debt instruments issued for property
@@ -56,7 +57,14 @@ generated_at: "2026-03-30T02:55:27.765Z"
     - **(B)** acquires any property subject to any debt instrument,
 - **(d)** For purposes of this section—
   - **(1)**
-    - **(A)** In the case of a debt instrument with a term of: The applicable Federal rate is: Not over 3 years The Federal short-term rate. Over 3 years but not over 9 years The Federal mid-term rate. Over 9 years The Federal long-term rate.
+    - **(A)**
+
+| In the case of a debt instrument with a term of: | The applicable Federal rate is: |
+| --- | --- |
+| Not over 3 years | The Federal short-term rate. |
+| Over 3 years but not over 9 years | The Federal mid-term rate. |
+| Over 9 years | The Federal long-term rate. |
+
     - **(B)** During each calendar month, the Secretary shall determine the Federal short-term rate, mid-term rate, and long-term rate which shall apply during the following calendar month.
     - **(C)** For purposes of this paragraph—
       - **(i)** The Federal short-term rate shall be the rate determined by the Secretary based on the average market yield (during any 1-month period selected by the Secretary and ending in the calendar month in which the determination is made) on outstanding marketable obligations of the United States with remaining periods to maturity of 3 years or less.
@@ -70,3 +78,17 @@ generated_at: "2026-03-30T02:55:27.765Z"
   - **(1)** In the case of any debt instrument to which this subsection applies, the discount rate used under subsection (b)(2)(B) or section 483(b) shall be 110 percent of the applicable Federal rate, compounded semiannually.
   - **(2)** Section 1274A shall not apply to any debt instrument to which this subsection applies.
   - **(3)** This subsection shall apply to any debt instrument given in consideration for the sale or exchange of any property if, pursuant to a plan, the transferor or any related person leases a portion of such property after such sale or exchange.
+
+Not over 3 years
+
+Over 3 years but not over 9 years
+
+Over 9 years
+
+In general
+
+Regulatory authority to establish lower rate
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title I, § 41(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 538](https://www.govinfo.gov/link/statute/98/538); amended [Pub. L. 99–121, title I](https://www.govinfo.gov/link/plaw/99/public/121), §§ 101(a)(1), (b), (c), 102(b), Oct. 11, 1985, [99 Stat. 505](https://www.govinfo.gov/link/statute/99/505), 506, 508; [Pub. L. 99–514, title XVIII, § 1803(a)(14)(A)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2797](https://www.govinfo.gov/link/statute/100/2797); [Pub. L. 101–239, title VII, § 7721(c)(11)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2400](https://www.govinfo.gov/link/statute/103/2400); [Pub. L. 104–188, title I, § 1704(t)(78)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1891](https://www.govinfo.gov/link/statute/110/1891); [Pub. L. 105–34, title III, § 312(d)(1)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 839](https://www.govinfo.gov/link/statute/111/839); [Pub. L. 115–141, div. U, title IV, § 401(a)(179)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1193](https://www.govinfo.gov/link/statute/132/1193).)*

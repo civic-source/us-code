@@ -3,9 +3,10 @@ title: "Section 10303 - Suspension of the use of tests or devices in determining
 usc_title: 52
 usc_section: "10303"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 10303"
-generated_at: "2026-03-30T02:56:30.160Z"
+generated_at: "2026-11-23T21:26:42.318Z"
+status: "active"
 ---
 
 # § 10303. Suspension of the use of tests or devices in determining eligibility to vote
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:56:30.160Z"
   - **(2)** No voting qualification or prerequisite to voting, or standard, practice, or procedure shall be imposed or applied by any State or political subdivision to deny or abridge the right of any citizen of the United States to vote because he is a member of a language minority group.
   - **(3)** In addition to the meaning given the term under subsection (c), the term “test or device” shall also mean any practice or requirement by which any State or political subdivision provided any registration or voting notices, forms, instructions, assistance, or other materials or information relating to the electoral process, including ballots, only in the English language, where the Director of the Census determines that more than five per centum of the citizens of voting age residing in such State or political subdivision are members of a single language minority. With respect to subsection (b), the term “test or device”, as defined in this subsection, shall be employed only in making the determinations under the third sentence of that subsection.
   - **(4)** Whenever any State or political subdivision subject to the prohibitions of the second sentence of subsection (a) provides any registration or voting notices, forms, instructions, assistance, or other materials or information relating to the electoral process, including ballots, it shall provide them in the language of the applicable language minority group as well as in the English language: Provided , That where the language of the applicable minority group is oral or unwritten or in the case of Alaskan Natives and American Indians, if the predominate language is historically unwritten, the State or political subdivision is only required to furnish oral instructions, assistance, or other information relating to registration and voting.
+
+## Source Credit
+
+*([Pub. L. 89–110, title I, § 4](https://www.govinfo.gov/link/plaw/89/public/110), Aug. 6, 1965, [79 Stat. 438](https://www.govinfo.gov/link/statute/79/438); renumbered title I and amended [Pub. L. 91–285](https://www.govinfo.gov/link/plaw/91/public/285), §§ 2–4, June 22, 1970, [84 Stat. 314](https://www.govinfo.gov/link/statute/84/314), 315; [Pub. L. 94–73, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/73), title II, §§ 201–203, 206, Aug. 6, 1975, [89 Stat. 400–402](https://www.govinfo.gov/link/statute/89/400); [Pub. L. 97–205, § 2(a)](https://www.govinfo.gov/link/plaw/97/public/205) –(c), June 29, 1982, [96 Stat. 131–133](https://www.govinfo.gov/link/statute/96/131); [Pub. L. 109–246](https://www.govinfo.gov/link/plaw/109/public/246), §§ 3(d)(2), (e)(1), 4, July 27, 2006, [120 Stat. 580](https://www.govinfo.gov/link/statute/120/580); [Pub. L. 110–258, § 2](https://www.govinfo.gov/link/plaw/110/public/258), July 1, 2008, [122 Stat. 2428](https://www.govinfo.gov/link/statute/122/2428).)*

@@ -3,9 +3,10 @@ title: "Section 796 - Reporting of energy information"
 usc_title: 15
 usc_section: "796"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 796"
-generated_at: "2026-03-30T02:54:08.123Z"
+generated_at: "2026-11-23T21:25:39.768Z"
+status: "active"
 ---
 
 # § 796. Reporting of energy information
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:54:08.123Z"
   - **(3)** The term “United States” when used in the geographical sense means the States, the District of Columbia, Puerto Rico, and the territories and possessions of the United States.
 - **(f)** Information obtained by the Administration under authority of this chapter shall be available to the public in accordance with the provisions of section 552 of title 5 .
 - **(g)** The authority contained in this section is in addition to, independent of, not limited by, and not in limitation of, any other authority of the Federal Energy Administrator.
+
+## Source Credit
+
+*([Pub. L. 93–319, § 11](https://www.govinfo.gov/link/plaw/93/public/319), June 22, 1974, [88 Stat. 262](https://www.govinfo.gov/link/statute/88/262); [Pub. L. 94–163, title V](https://www.govinfo.gov/link/plaw/94/public/163), §§ 505(a), 506, Dec. 22, 1975, [89 Stat. 960](https://www.govinfo.gov/link/statute/89/960); [Pub. L. 95–620, title VII, § 762(d)](https://www.govinfo.gov/link/plaw/95/public/620), Nov. 9, 1978, [92 Stat. 3346](https://www.govinfo.gov/link/statute/92/3346); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

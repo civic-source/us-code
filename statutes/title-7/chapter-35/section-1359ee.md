@@ -3,9 +3,10 @@ title: "Section 1359ee - Reassignment of deficits"
 usc_title: 7
 usc_section: "1359ee"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1359ee"
-generated_at: "2026-03-30T02:53:42.308Z"
+generated_at: "2026-11-23T21:25:28.048Z"
+status: "active"
 ---
 
 # § 1359ee. Reassignment of deficits
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:42.308Z"
       - **(i)** make an initial determination based on the World Agricultural Supply and Demand Estimates approved by the World Agricultural Outlook Board for January that shall be applicable to the crop year for which allotments are required; and
       - **(ii)** provide for an initial reassignment under subparagraph (A)(i) not later than 30 days after the date on which the World Agricultural Supply and Demand Estimates described in clause (i) is released.
   - **(3)** The allocation of each processor receiving a reassigned quantity of an allotment under this subsection for a crop year shall be increased to reflect the reassignment.
+
+## Source Credit
+
+*(Feb. 16, 1938, ch. 30, title III, § 359e, as added [Pub. L. 107–171, title I, § 1403](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 197](https://www.govinfo.gov/link/statute/116/197); amended [Pub. L. 110–234, title I, § 1403(e)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 986](https://www.govinfo.gov/link/statute/122/986); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1403(e), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1714; [Pub. L. 119–21, title I, § 10312(c)(3)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 97](https://www.govinfo.gov/link/statute/139/97).)*

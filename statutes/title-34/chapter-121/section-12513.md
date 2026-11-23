@@ -3,9 +3,10 @@ title: "Section 12513 - Demonstration program on trauma-informed, victim-centere
 usc_title: 34
 usc_section: "12513"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 12513"
-generated_at: "2026-03-30T02:55:33.290Z"
+generated_at: "2026-11-23T21:26:09.754Z"
+status: "active"
 ---
 
 # § 12513. Demonstration program on trauma-informed, victim-centered training for law enforcement
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:55:33.290Z"
     - **(B)** recommendations for improving the use of the grant funds.
 - **(f)** There are authorized to be appropriated to the Attorney General $5,000,000 for each of fiscal years 2023 through 2027 to carry out this section.
 - **(g)** Nothing in this section shall be construed to interfere with the due process rights of any individual.
+
+## Source Credit
+
+*([Pub. L. 103–322, title IV, § 41701](https://www.govinfo.gov/link/plaw/103/public/322), as added [Pub. L. 117–103, div. W, title II, § 205(b)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 859](https://www.govinfo.gov/link/statute/136/859).)*

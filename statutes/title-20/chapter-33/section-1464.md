@@ -3,9 +3,10 @@ title: "Section 1464 - Studies and evaluations"
 usc_title: 20
 usc_section: "1464"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1464"
-generated_at: "2026-03-30T02:54:48.168Z"
+generated_at: "2026-11-23T21:25:47.347Z"
+status: "active"
 ---
 
 # § 1464. Studies and evaluations
@@ -65,3 +66,7 @@ generated_at: "2026-03-30T02:54:48.168Z"
     - **(B)** examine educational results, transition services, postsecondary placement, and employment status for individuals with disabilities, 18 through 21 years of age, who are receiving or have received special education and related services under this chapter; and
   - **(5)** identify and report on the placement of children with disabilities by disability category.
 - **(f)** The Secretary shall study, and report to Congress regarding, the extent to which States adopt policies described in section 1435(c)(1) of this title and on the effects of those policies.
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 664](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2783](https://www.govinfo.gov/link/statute/118/2783).)*

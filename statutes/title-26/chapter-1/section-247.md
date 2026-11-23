@@ -3,9 +3,10 @@ title: "Section 247 - Contributions to Alaska Native Settlement Trusts"
 usc_title: 26
 usc_section: "247"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 247"
-generated_at: "2026-03-30T02:55:27.656Z"
+generated_at: "2026-11-23T21:26:06.107Z"
+status: "active"
 ---
 
 # § 247. Contributions to Alaska Native Settlement Trusts
@@ -46,3 +47,11 @@ generated_at: "2026-03-30T02:55:27.656Z"
         - **(II)** any income or gain which would have been included in the year of contribution under subsection (f)(3) but for the taxpayer’s election under this subsection shall be included in income for the taxable year of such contribution, and
         - **(III)** the Settlement Trust shall pay any increase in tax resulting from such inclusion, including any applicable interest, and increased by 10 percent of the amount of such increase with interest.
       - **(ii)** Notwithstanding section 6501(a), any amount described in subclause (III) of clause (i) may be assessed, or a proceeding in court with respect to such amount may be initiated without assessment, within 4 years after the date on which the return making the election under this subsection for such property was filed.
+
+In general
+
+One-year waiver of statute of limitations
+
+## Source Credit
+
+*(Added [Pub. L. 115–97, title I, § 13821(b)(1)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2179](https://www.govinfo.gov/link/statute/131/2179).)*

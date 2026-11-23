@@ -3,12 +3,17 @@ title: "Section 2064 - Disposition of energy; regulation on sale"
 usc_title: 42
 usc_section: "2064"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2064"
-generated_at: "2026-03-30T02:56:11.148Z"
+generated_at: "2026-11-23T21:26:32.327Z"
+status: "active"
 ---
 
 # § 2064. Disposition of energy; regulation on sale
 
 If energy is produced at production facilities of the Commission or is produced in experimental utilization facilities of the Commission, such energy may be used by the Commission, or transferred to other Government agencies, or sold to publicly, cooperatively, or privately owned utilities or users at reasonable and nondiscriminatory prices. If the energy produced is electric energy, the price shall be subject to regulation by the appropriate agency having jurisdiction. In contracting for the disposal of such energy, the Commission shall give preference and priority to public bodies and cooperatives or to privately owned utilities providing electric utility services to high cost areas not being served by public bodies or cooperatives. Nothing in this chapter shall be construed to authorize the Commission to engage in the sale or distribution of energy for commercial use except such energy as may be produced by the Commission incident to the operation of research and development facilities of the Commission, or of production facilities of the Commission.
 
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 44, as added Aug. 30, 1954, ch. 1073, § 1, [68 Stat. 929](https://www.govinfo.gov/link/statute/68/929); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944).)*

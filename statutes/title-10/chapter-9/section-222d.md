@@ -3,9 +3,10 @@ title: "Section 222d - Annual report on industrial base constraints for munition
 usc_title: 10
 usc_section: "222d"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 222d"
-generated_at: "2026-03-30T02:53:38.047Z"
+generated_at: "2026-11-23T21:25:32.242Z"
+status: "active"
 ---
 
 # § 222d. Annual report on industrial base constraints for munitions
@@ -32,3 +33,13 @@ generated_at: "2026-03-30T02:53:38.047Z"
   - **(11)** A prioritized list of munitions judged to have high value for export for which additional investments would be necessary to enable export, including a description of such investments required.
   - **(12)** A list of munitions subject to the requirements of chapter 2 of the Arms Export Control Act ( 22 U.S.C. 2761 et seq.) relating to foreign military sales that are anticipated to be exported based on developments in the conflict in Ukraine.
 - **(c)** In this section, the term “munition” has the meaning given that term by the Under Secretary of Defense for Acquisition and Sustainment.
+
+In General
+
+Elements
+
+Munition Defined
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. A, title XVII, § 1701(d)(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2965](https://www.govinfo.gov/link/statute/136/2965); amended [Pub. L. 119–60, div. A, title XVII, § 1701(a)(6)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1208](https://www.govinfo.gov/link/statute/139/1208).)*

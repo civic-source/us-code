@@ -3,9 +3,10 @@ title: "Section 2006 - Bureau of Indian Affairs education functions"
 usc_title: 25
 usc_section: "2006"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2006"
-generated_at: "2026-03-30T02:54:52.832Z"
+generated_at: "2026-11-23T21:25:54.650Z"
+status: "active"
 ---
 
 # § 2006. Bureau of Indian Affairs education functions
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:52.832Z"
     - **(B)** submit a report to the appropriate committees of Congress that describes the amount and terms of such gift or bequest, the manner in which such gift or bequest shall be used, and any results achieved by such use.
   - **(3)** The requirements of paragraph (2) shall not apply in the case of a gift or bequest that is valued at $5,000 or less.
 - **(g)** For the purpose of this section, the term “functions” includes powers and duties.
+
+## Source Credit
+
+*([Pub. L. 95–561, title XI, § 1126](https://www.govinfo.gov/link/plaw/95/public/561), as added [Pub. L. 107–110, title X, § 1042](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2026](https://www.govinfo.gov/link/statute/115/2026).)*

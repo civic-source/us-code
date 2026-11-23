@@ -3,9 +3,10 @@ title: "Section 1383a - Penalties for fraud"
 usc_title: 42
 usc_section: "1383a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1383a"
-generated_at: "2026-03-30T02:56:10.932Z"
+generated_at: "2026-11-23T21:26:31.352Z"
+status: "active"
 ---
 
 # § 1383a. Penalties for fraud
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:10.932Z"
     - **(A)** Except as provided in subparagraph (B), funds paid to the Commissioner of Social Security as restitution pursuant to a court order shall be deposited as miscellaneous receipts in the general fund of the Treasury.
     - **(B)** In the case of funds paid to the Commissioner of Social Security pursuant to paragraph (1)(B), the Commissioner of Social Security shall certify for payment to the individual described in such paragraph an amount equal to the lesser of the amount of the funds so paid or the individual’s outstanding financial loss as described in such paragraph, except that such amount may be reduced by any overpayment of benefits owed under this subchapter, subchapter II, or subchapter VIII by the individual.
 - **(c)** Any person or entity convicted of a violation of subsection (a) of this section or of section 408 of this title may not be certified as a representative payee under section 1383(a)(2) of this title .
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVI, § 1632, as added [Pub. L. 92–603, title III, § 301](https://www.govinfo.gov/link/plaw/92/public/603), Oct. 30, 1972, [86 Stat. 1478](https://www.govinfo.gov/link/statute/86/1478); amended [Pub. L. 98–460, § 16(c)(1)](https://www.govinfo.gov/link/plaw/98/public/460), Oct. 9, 1984, [98 Stat. 1810](https://www.govinfo.gov/link/statute/98/1810); [Pub. L. 103–296, title II, § 206(c)(1)](https://www.govinfo.gov/link/plaw/103/public/296), (2), Aug. 15, 1994, [108 Stat. 1513](https://www.govinfo.gov/link/statute/108/1513); [Pub. L. 108–203, title II, § 209(c)](https://www.govinfo.gov/link/plaw/108/public/203), Mar. 2, 2004, [118 Stat. 515](https://www.govinfo.gov/link/statute/118/515); [Pub. L. 114–74, title VIII, § 813(a)(3)](https://www.govinfo.gov/link/plaw/114/public/74), (b)(3), Nov. 2, 2015, [129 Stat. 603](https://www.govinfo.gov/link/statute/129/603).)*

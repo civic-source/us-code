@@ -3,9 +3,10 @@ title: "Section 3803 - Dam Safety Maintenance and Repair Program"
 usc_title: 25
 usc_section: "3803"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3803"
-generated_at: "2026-03-30T02:54:52.856Z"
+generated_at: "2026-11-23T21:25:54.699Z"
+status: "active"
 ---
 
 # § 3803. Dam Safety Maintenance and Repair Program
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:52.856Z"
 - **(i)** The Secretary shall submit an annual report on the implementation of this chapter. The report shall include—
   - **(1)** the list of dams and their status on the maintenance action plan developed under this section; and
   - **(2)** the projected total cost and a schedule of the projected annual cost of rehabilitation or repair for each dam under this section.
+
+## Source Credit
+
+*([Pub. L. 103–302, § 4](https://www.govinfo.gov/link/plaw/103/public/302), Aug. 23, 1994, [108 Stat. 1561](https://www.govinfo.gov/link/statute/108/1561); [Pub. L. 104–109, § 3](https://www.govinfo.gov/link/plaw/104/public/109), Feb. 12, 1996, [110 Stat. 764](https://www.govinfo.gov/link/statute/110/764).)*

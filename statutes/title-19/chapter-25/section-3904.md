@@ -3,9 +3,10 @@ title: "Section 3904 - Regulatory and other authority"
 usc_title: 19
 usc_section: "3904"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 3904"
-generated_at: "2026-03-30T02:54:24.698Z"
+generated_at: "2026-11-23T21:25:42.868Z"
+status: "active"
 ---
 
 # § 3904. Regulatory and other authority
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:24.698Z"
 - **(a)** The President is authorized to and shall as necessary issue such proclamations, regulations, licenses, and orders, and conduct such investigations, as may be necessary to carry out this chapter.
 - **(b)** Any United States person seeking to export from or import into the United States any rough diamonds shall keep a full record of, in the form of reports or otherwise, complete information relating to any act or transaction to which any prohibition imposed under section 3903(a) of this title applies. The President may require such person to furnish such information under oath, including the production of books of account, records, contracts, letters, memoranda, or other papers, in the custody or control of such person.
 - **(c)** The President shall require the appropriate Government agency to conduct annual reviews of the standards, practices, and procedures of any entity in the United States that issues Kimberley Process Certificates for the exportation from the United States of rough diamonds to determine whether such standards, practices, and procedures are in accordance with the Kimberley Process Certification Scheme. The President shall transmit to the appropriate congressional committees a report on each annual review under this subsection.
+
+## Source Credit
+
+*([Pub. L. 108–19, § 5](https://www.govinfo.gov/link/plaw/108/public/19), Apr. 25, 2003, [117 Stat. 634](https://www.govinfo.gov/link/statute/117/634).)*

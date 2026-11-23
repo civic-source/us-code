@@ -3,9 +3,10 @@ title: "Section 3244 - Actions to combat international nuclear terrorism"
 usc_title: 22
 usc_section: "3244"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3244"
-generated_at: "2026-03-30T02:55:05.390Z"
+generated_at: "2026-11-23T21:25:58.579Z"
+status: "active"
 ---
 
 # § 3244. Actions to combat international nuclear terrorism
@@ -22,3 +23,19 @@ generated_at: "2026-03-30T02:55:05.390Z"
     - **(A)** an effective regime of international sanctions against any nation or subnational group which conducts or sponsors acts of international nuclear terrorism, and
     - **(B)** measures for coordinating responses to all acts of international nuclear terrorism, including measures for the recovery of stolen nuclear material and the clean-up of nuclear releases.
 - **(b)** The President shall report to the Congress annually, in the reports required by section 3281 of this title , on the progress made during the preceding year in achieving the objectives described in this section.
+
+Policy
+
+International Nuclear Security Standard
+
+International Efforts
+
+In General
+
+Elements
+
+Form
+
+## Source Credit
+
+*([Pub. L. 99–399, title VI, § 601](https://www.govinfo.gov/link/plaw/99/public/399), Aug. 27, 1986, [100 Stat. 874](https://www.govinfo.gov/link/statute/100/874).)*

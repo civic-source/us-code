@@ -3,9 +3,10 @@ title: "Section 14102 - Leased motor vehicles"
 usc_title: 49
 usc_section: "14102"
 chapter: 141
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 14102"
-generated_at: "2026-03-30T02:56:19.331Z"
+generated_at: "2026-11-23T21:26:40.688Z"
+status: "active"
 ---
 
 # § 14102. Leased motor vehicles
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:56:19.331Z"
   - **(3)** inspect the motor vehicles and obtain liability and cargo insurance on them; and
   - **(4)** have control of and be responsible for operating those motor vehicles in compliance with requirements prescribed by the Secretary on safety of operations and equipment, and with other applicable law as if the motor vehicles were owned by the motor carrier.
 - **(b)** The Secretary shall require, by regulation, that any arrangement, between a motor carrier of property providing transportation subject to jurisdiction under subchapter I of chapter 135 and any other person, under which such other person is to provide any portion of such transportation by a motor vehicle not owned by the carrier shall specify, in writing, who is responsible for loading and unloading the property onto and from the motor vehicle.
+
+General Authority of Secretary
+
+Responsible Party for Loading and Unloading
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 890](https://www.govinfo.gov/link/statute/109/890).)*

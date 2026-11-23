@@ -3,9 +3,10 @@ title: "Section 360ddd - Definitions"
 usc_title: 21
 usc_section: "360ddd"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 360ddd"
-generated_at: "2026-03-30T02:54:54.258Z"
+generated_at: "2026-11-23T21:25:56.108Z"
+status: "active"
 ---
 
 # § 360ddd. Definitions
@@ -24,3 +25,15 @@ In this part:
   - **(2)** The term “medical gas” means a drug that—
     - **(A)** is manufactured or stored in a liquefied, nonliquefied, or cryogenic state; and
     - **(B)** is administered as a gas.
+
+Report
+
+Regulations
+
+Definitions
+
+“Nothing in this subtitle [subtitle B (§§ 1111–1113) of title XI of Pub. L. 112–144 , enacting this section and sections 360ddd–1 and 360ddd–2 of this title and provisions set out as notes under this section] and the amendments made by this subtitle applies with respect to—
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 575, as added [Pub. L. 112–144, title XI, § 1111](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 1108](https://www.govinfo.gov/link/statute/126/1108); amended [Pub. L. 114–255, div. A, title III, § 3101(a)(2)(R)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1155](https://www.govinfo.gov/link/statute/130/1155).)*

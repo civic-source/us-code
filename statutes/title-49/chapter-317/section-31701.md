@@ -3,9 +3,10 @@ title: "Section 31701 - Definitions"
 usc_title: 49
 usc_section: "31701"
 chapter: 317
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 31701"
-generated_at: "2026-03-30T02:56:19.362Z"
+generated_at: "2026-11-23T21:26:40.797Z"
+status: "active"
 ---
 
 # § 31701. Definitions
@@ -20,3 +21,32 @@ In this chapter—
   - **(4)** “International Registration Plan” means the interstate agreement on apportioning vehicle registration fees paid by motor carriers, developed by the American Association of Motor Vehicle Administrators.
   - **(5)** “Regional Fuel Tax Agreement” means the interstate agreement on collecting and distributing fuel use taxes paid by motor carriers in the States of Maine, Vermont, and New Hampshire.
   - **(6)** “State” means the 48 contiguous States and the District of Columbia.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 31701 | 49:11506 (note). | Dec. 18, 1991 , Pub. L. 102–240, § 4008(k) , 105 Stat. 2155 . |
+
+
+Historical and Revision Notes
+
+31701
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 4008(k)
+
+105 Stat. 2155
+
+Registration of Trailers
+
+Limitation on Registration of Trailers
+
+Safety Regulation
+
+Penalties
+
+Container Chassis Defined
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1031](https://www.govinfo.gov/link/statute/108/1031).)*

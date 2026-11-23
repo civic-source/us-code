@@ -3,12 +3,21 @@ title: "Section 12686 - Reserves on active duty within two years of retirement e
 usc_title: 10
 usc_section: "12686"
 chapter: 1221
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 12686"
-generated_at: "2026-03-30T02:53:38.271Z"
+generated_at: "2026-11-23T21:25:33.052Z"
+status: "active"
 ---
 
 # § 12686. Reserves on active duty within two years of retirement eligibility: limitation on release from active duty
 
 - **(a)** Under regulations to be prescribed by the Secretary concerned, which shall be as uniform as practicable, a member of a reserve component who is on active duty (other than for training) and is within two years of becoming eligible for retired pay or retainer pay under a purely military retirement system (other than the retirement system under chapter 1223 of this title), may not be involuntarily released from that duty before he becomes eligible for that pay, unless the release is approved by the Secretary.
 - **(b)** With respect to a member of a reserve component who is to be ordered to active duty (other than for training) under section 12301 of this title pursuant to an order to active duty that specifies a period of less than 180 days and who (but for this subsection) would be covered by subsection (a), the Secretary concerned may require, as a condition of such order to active duty, that the member waive the applicability of subsection (a) to the member for the period of active duty covered by that order. In carrying out this subsection, the Secretary concerned may require that a waiver under the preceding sentence be executed before the period of active duty begins.
+
+Limitation
+
+Waiver
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1662(i)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2998](https://www.govinfo.gov/link/statute/108/2998); amended [Pub. L. 104–201, div. A, title V, § 533](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2520](https://www.govinfo.gov/link/statute/110/2520); [Pub. L. 108–375, div. A, title V, § 522](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1888](https://www.govinfo.gov/link/statute/118/1888).)*

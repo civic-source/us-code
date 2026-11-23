@@ -3,9 +3,10 @@ title: "Section 31e - Geologic mapping program 5-year plan"
 usc_title: 43
 usc_section: "31e"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 31e"
-generated_at: "2026-03-30T02:55:57.433Z"
+generated_at: "2026-11-23T21:26:19.739Z"
+status: "active"
 ---
 
 # § 31e. Geologic mapping program 5-year plan
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:57.433Z"
       - **(i)** ensure uniformity of cartographic and scientific conventions; and
       - **(ii)** provide a basis for assessing the comparability and quality of map products; and
     - **(E)** a mechanism for monitoring the inventory of published and current mapping investigations nationwide to facilitate planning and information exchange and to avoid redundancy.
+
+## Source Credit
+
+*([Pub. L. 102–285, § 6](https://www.govinfo.gov/link/plaw/102/public/285), as added [Pub. L. 106–148, § 6](https://www.govinfo.gov/link/plaw/106/public/148), Dec. 9, 1999, [113 Stat. 1722](https://www.govinfo.gov/link/statute/113/1722).)*

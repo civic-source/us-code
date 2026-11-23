@@ -3,9 +3,10 @@ title: "Section 5384 - Amelioration and sweetening limitations for natural fruit
 usc_title: 26
 usc_section: "5384"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5384"
-generated_at: "2026-03-30T02:55:27.823Z"
+generated_at: "2026-11-23T21:26:06.723Z"
+status: "active"
 ---
 
 # § 5384. Amelioration and sweetening limitations for natural fruit and berry wines
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:27.823Z"
     - **(B)** Juice adjusted with pure dry sugar or liquid sugar as provided in this paragraph shall be treated in the same manner as original natural juice under the provisions of section 5383(b); except that if liquid sugar is used, the volume of water contained therein must be deducted from the volume of ameliorating material authorized;
     - **(C)** Wines made under this subsection shall have a total solids content of not more than 21 percent by weight, whether or not wine spirits have been added; and
     - **(D)** Wines made exclusively from any fruit or berry with a natural fixed acid of 20 parts per thousand or more (before any correction of such fruit or berry) shall be entitled to a volume of ameliorating material not in excess of 60 percent (in lieu of 35 percent).
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1385](https://www.govinfo.gov/link/statute/72/1385); amended [Pub. L. 89–44, title VIII, § 806(b)(2)](https://www.govinfo.gov/link/plaw/89/public/44), (c)(2), (3), June 21, 1965, [79 Stat. 163](https://www.govinfo.gov/link/statute/79/163), 164; [Pub. L. 90–619, § 3(b)](https://www.govinfo.gov/link/plaw/90/public/619), Oct. 22, 1968, [82 Stat. 1237](https://www.govinfo.gov/link/statute/82/1237); [Pub. L. 105–34, title XIV, § 1417(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1048](https://www.govinfo.gov/link/statute/111/1048).)*

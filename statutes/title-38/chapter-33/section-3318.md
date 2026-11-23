@@ -3,9 +3,10 @@ title: "Section 3318 - Additional assistance: relocation or travel assistance fo
 usc_title: 38
 usc_section: "3318"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3318"
-generated_at: "2026-03-30T02:55:53.503Z"
+generated_at: "2026-11-23T21:26:16.737Z"
+status: "active"
 ---
 
 # § 3318. Additional assistance: relocation or travel assistance for individual relocating or traveling significant distance for pursuit of a program of education
@@ -22,3 +23,17 @@ generated_at: "2026-03-30T02:55:53.503Z"
   - **(3)** Such other evidence as the Secretary shall prescribe for purposes of this section.
 - **(d)** An individual is entitled to only one payment of additional assistance under this section.
 - **(e)** Any amount paid an individual under this section is in addition to any other educational assistance benefits provided the individual under this chapter.
+
+Additional Assistance
+
+Covered Individuals
+
+Proof of Residence
+
+Single Payment of Assistance
+
+No Charge Against Entitlement
+
+## Source Credit
+
+*(Added [Pub. L. 110–252, title V, § 5003(a)(1)](https://www.govinfo.gov/link/plaw/110/public/252), June 30, 2008, [122 Stat. 2369](https://www.govinfo.gov/link/statute/122/2369); amended [Pub. L. 111–275, title X, § 1001(g)(6)](https://www.govinfo.gov/link/plaw/111/public/275), Oct. 13, 2010, [124 Stat. 2896](https://www.govinfo.gov/link/statute/124/2896).)*

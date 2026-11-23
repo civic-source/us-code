@@ -3,9 +3,10 @@ title: "Section 5412 - Stabilization assistance for Poland"
 usc_title: 22
 usc_section: "5412"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5412"
-generated_at: "2026-03-30T02:55:05.417Z"
+generated_at: "2026-11-23T21:25:58.660Z"
+status: "active"
 ---
 
 # § 5412. Stabilization assistance for Poland
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.417Z"
 - **(c)**
   - **(1)** In order to carry out paragraph (1) of section 5411(b) of this title , the President is authorized to furnish assistance for Poland, notwithstanding any other provision of law, to assist in the urgent stabilization of the Polish economy and ultimately to promote longer-term economic growth and stability, based on movement toward free market principles. Such assistance may be provided for balance of payments support (including commodity import programs), support for private sector development, or for other activities to further efforts to develop a free market-oriented economy in Poland.
   - **(2)** For purposes of providing the assistance authorized by this subsection, there are authorized to be appropriated $200,000,000 for fiscal year 1990 to carry out chapter 4 of part II of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2346 and following; relating to the economic support fund), in addition to amounts otherwise available for such purposes.
+
+## Source Credit
+
+*([Pub. L. 101–179, title I, § 102](https://www.govinfo.gov/link/plaw/101/public/179), Nov. 28, 1989, [103 Stat. 1303](https://www.govinfo.gov/link/statute/103/1303).)*

@@ -3,9 +3,10 @@ title: "Section 3012 - General corporate powers"
 usc_title: 12
 usc_section: "3012"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3012"
-generated_at: "2026-03-30T02:53:53.489Z"
+generated_at: "2026-11-23T21:25:37.115Z"
+status: "active"
 ---
 
 # § 3012. General corporate powers
@@ -30,3 +31,7 @@ The Bank shall have the power to make and service loans, commitments for credit,
   - **(16)** buy and sell obligations of, or insured by, the United States or any agency or instrumentalities thereof, or securities backed by the full faith and credit of any such agency or instrumentality and, after the final Government Equity Redemption Date, make such other investments as may be authorized by the Board of Directors;
   - **(17)** approve the salary scale of officers and employees of the Bank, in accordance with regulations and standards adopted by the Board of Directors, without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates, but, except as otherwise provided in this chapter, the General Schedule pay rates shall be applicable until all class A stock held by the Secretary of the Treasury has been retired; and
   - **(18)** have such other incidental powers as may be necessary or expedient to carry out its duties under this chapter.
+
+## Source Credit
+
+*([Pub. L. 95–351, title I, § 102](https://www.govinfo.gov/link/plaw/95/public/351), Aug. 20, 1978, [92 Stat. 500](https://www.govinfo.gov/link/statute/92/500); [Pub. L. 97–35, title III, § 394(d)(1)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 436](https://www.govinfo.gov/link/statute/95/436).)*

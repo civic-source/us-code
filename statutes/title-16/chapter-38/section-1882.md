@@ -3,9 +3,10 @@ title: "Section 1882 - Fisheries systems research"
 usc_title: 16
 usc_section: "1882"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1882"
-generated_at: "2026-03-30T02:54:22.995Z"
+generated_at: "2026-11-23T21:25:51.936Z"
+status: "active"
 ---
 
 # § 1882. Fisheries systems research
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:22.995Z"
     - **(C)** recommendations for processes to account for effects of environmental variation on fish stocks and fisheries; and
     - **(D)** a description of existing and developing council efforts to implement ecosystem approaches, including lessons learned by the councils.
   - **(2)** The Secretary is authorized to provide necessary technical advice and assistance, including grants, to the Councils for the development and design of regional pilot programs that build upon the recommendations of the advisory panel and, when completed, the study.
+
+## Source Credit
+
+*([Pub. L. 94–265, title IV, § 406](https://www.govinfo.gov/link/plaw/94/public/265), Apr. 13, 1976, [90 Stat. 361](https://www.govinfo.gov/link/statute/90/361); [Pub. L. 95–354, § 1](https://www.govinfo.gov/link/plaw/95/public/354), Aug. 28, 1978, [92 Stat. 519](https://www.govinfo.gov/link/statute/92/519); [Pub. L. 96–61, § 1](https://www.govinfo.gov/link/plaw/96/public/61), Aug. 15, 1979, [93 Stat. 407](https://www.govinfo.gov/link/statute/93/407); [Pub. L. 97–453, § 14(a)](https://www.govinfo.gov/link/plaw/97/public/453), Jan. 12, 1983, [96 Stat. 2492](https://www.govinfo.gov/link/statute/96/2492); [Pub. L. 99–659, title I, § 111(a)](https://www.govinfo.gov/link/plaw/99/public/659), Nov. 14, 1986, [100 Stat. 3715](https://www.govinfo.gov/link/statute/100/3715); [Pub. L. 101–627, title I, § 119](https://www.govinfo.gov/link/plaw/101/public/627), Nov. 28, 1990, [104 Stat. 4459](https://www.govinfo.gov/link/statute/104/4459); [Pub. L. 104–297, title II, § 207(a)](https://www.govinfo.gov/link/plaw/104/public/297), Oct. 11, 1996, [110 Stat. 3612](https://www.govinfo.gov/link/statute/110/3612); [Pub. L. 109–479, title II, § 210](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3617](https://www.govinfo.gov/link/statute/120/3617).)*

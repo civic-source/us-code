@@ -3,9 +3,10 @@ title: "Section 5232 - Imported distilled spirits"
 usc_title: 26
 usc_section: "5232"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5232"
-generated_at: "2026-03-30T02:55:27.821Z"
+generated_at: "2026-11-23T21:26:06.711Z"
+status: "active"
 ---
 
 # § 5232. Imported distilled spirits
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:27.821Z"
 - **(b)** Distilled spirits transferred pursuant to subsection (a)—
   - **(1)** may be redistilled or denatured only if of 185 degrees or more of proof, and
   - **(2)** may be withdrawn for any purpose authorized by this chapter, in the same manner as domestic distilled spirits.
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1366](https://www.govinfo.gov/link/statute/72/1366); amended [Pub. L. 90–630, § 3(a)](https://www.govinfo.gov/link/plaw/90/public/630), Oct. 22, 1968, [82 Stat. 1328](https://www.govinfo.gov/link/statute/82/1328); [Pub. L. 91–659, § 7](https://www.govinfo.gov/link/plaw/91/public/659), Jan. 8, 1971, [84 Stat. 1967](https://www.govinfo.gov/link/statute/84/1967); [Pub. L. 94–455, title XIX, § 1905(a)(15)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1820](https://www.govinfo.gov/link/statute/90/1820); [Pub. L. 96–39, title VIII, § 807(a)(33)](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 286](https://www.govinfo.gov/link/statute/93/286).)*

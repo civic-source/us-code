@@ -3,9 +3,10 @@ title: "Section 539 - Additions to existing national forests; administration"
 usc_title: 16
 usc_section: "539"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 539"
-generated_at: "2026-03-30T02:54:22.862Z"
+generated_at: "2026-11-23T21:25:51.656Z"
+status: "active"
 ---
 
 # § 539. Additions to existing national forests; administration
@@ -14,3 +15,15 @@ generated_at: "2026-03-30T02:54:22.862Z"
   - **(1)** Chugach National Forest by the addition of four areas, Nellie Juan, College Fjord, Copper/Rude River, and Controller Bay, containing approximately one million nine hundred thousand acres of public land, as generally depicted on the map entitled “Chugach National Forest additions—proposed”, and dated October 1978; and
   - **(2)** Tongass National Forest by the addition of three areas, Kates Needle, Juneau Icefield, and Brabazon Range, containing approximately one million four hundred and fifty thousand acres of public lands, as generally depicted on the map entitled “Tongass National Forest additions—proposed”, and dated October 1978.
 - **(b)** Subject to valid existing rights, lands added to the Tongass and Chugach National Forests by this section shall be administered by the Secretary in accordance with the applicable provisions of this Act and the laws, rules, and regulations applicable to the national forest system: Provided , That the conservation of fish and wildlife and their habitat shall be the primary purpose for the management of the Copper/Rude River addition and the Copper River-Bering River portion of the existing Chugach National Forest, as generally depicted on the map appropriately referenced and dated October 1978: Provided , That the taking of fish and wildlife shall be permitted within zones established by this subsection pursuant to the provisions of this Act and other applicable State and Federal law. Multiple use activities shall be permitted in a manner consistent with the conservation of fish and wildlife and their habitat as set forth in special regulations which shall be promulgated by the Secretary.
+
+Boundary Adjustment
+
+Administration
+
+Terms and Conditions
+
+Land and Water Conservation Fund Act
+
+## Source Credit
+
+*([Pub. L. 96–487, title V, § 501](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2398](https://www.govinfo.gov/link/statute/94/2398).)*

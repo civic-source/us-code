@@ -3,9 +3,10 @@ title: "Section 16271 - Nuclear energy"
 usc_title: 42
 usc_section: "16271"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16271"
-generated_at: "2026-03-30T02:56:11.475Z"
+generated_at: "2026-11-23T21:26:33.712Z"
+status: "active"
 ---
 
 # § 16271. Nuclear energy
@@ -45,3 +46,65 @@ generated_at: "2026-03-30T02:56:11.475Z"
   - **(6)** The term “neutron source” means a research machine that provides neutron irradiation services for—
     - **(A)** research on materials sciences and nuclear physics; and
     - **(B)** testing of advanced materials, nuclear fuels, and other related components for reactor systems.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 951](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 884](https://www.govinfo.gov/link/statute/119/884); [Pub. L. 115–248, § 2(a)](https://www.govinfo.gov/link/plaw/115/public/248), Sept. 28, 2018, [132 Stat. 3154](https://www.govinfo.gov/link/statute/132/3154); [Pub. L. 116–260, div. Z, title II, § 2002](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2459](https://www.govinfo.gov/link/statute/134/2459); [Pub. L. 117–58, div. D, title X, § 41002(b)(1)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1127](https://www.govinfo.gov/link/statute/135/1127).)*

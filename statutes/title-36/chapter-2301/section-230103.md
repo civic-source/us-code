@@ -3,9 +3,10 @@ title: "Section 230103 - Membership"
 usc_title: 36
 usc_section: "230103"
 chapter: 2301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 230103"
-generated_at: "2026-03-30T02:55:44.711Z"
+generated_at: "2026-11-23T21:26:13.760Z"
+status: "active"
 ---
 
 # § 230103. Membership
@@ -17,3 +18,30 @@ An individual is eligible for membership in the corporation only if the individu
     - **(B)** is governed by the authorization of the award of a campaign badge by the United States Government;
   - **(2)** on the Korean peninsula or in its territorial waters for at least 30 consecutive days, or a total of 60 days, after June 30, 1949 ; or
   - **(3)** in an area which entitled the individual to receive special pay for duty subject to hostile fire or imminent danger under section 310 or 351 of title 37.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 230103 | 36:115. | May 28, 1936, ch. 471, § 5 , 49 Stat. 1391 ; May 29, 1953, ch. 85, § 2 , 67 Stat. 40 ; Mar. 7, 1995 , Pub. L. 104–3 , 109 Stat. 47 . |
+
+
+Historical and Revision Notes
+
+230103
+
+May 28, 1936, ch. 471, § 5
+
+49 Stat. 1391
+
+May 29, 1953, ch. 85, § 2
+
+67 Stat. 40
+
+Mar. 7, 1995
+
+Pub. L. 104–3
+
+109 Stat. 47
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1481](https://www.govinfo.gov/link/statute/112/1481); [Pub. L. 107–242, § 1(a)](https://www.govinfo.gov/link/plaw/107/public/242), Oct. 16, 2002, [116 Stat. 1497](https://www.govinfo.gov/link/statute/116/1497); [Pub. L. 114–328, div. A, title VI, § 618(g)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2160](https://www.govinfo.gov/link/statute/130/2160).)*

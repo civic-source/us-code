@@ -3,9 +3,10 @@ title: "Section 1769f - Duties of Secretary relating to nonprocurement debarment
 usc_title: 42
 usc_section: "1769f"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1769f"
-generated_at: "2026-03-30T02:56:11.118Z"
+generated_at: "2026-11-23T21:26:32.165Z"
+status: "active"
 ---
 
 # § 1769f. Duties of Secretary relating to nonprocurement debarment
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:56:11.118Z"
   - **(1)** exhaust all administrative procedures prescribed by the Secretary; and
   - **(2)** receive notice of the final determination of the Secretary.
 - **(g)** On request, the Secretary shall present to the Committee on Education and Labor, and the Committee on Agriculture, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate information regarding the activities of the Secretary relating to anticompetitive activities, fraud, nonprocurement debarment, and any waiver granted by the Secretary under this section.
+
+## Source Credit
+
+*(June 4, 1946, ch. 281, § 25, as added [Pub. L. 103–448, title I, § 122(a)](https://www.govinfo.gov/link/plaw/103/public/448), Nov. 2, 1994, [108 Stat. 4727](https://www.govinfo.gov/link/statute/108/4727); amended [Pub. L. 105–336, title I, § 107(j)(2)(C)(ii)](https://www.govinfo.gov/link/plaw/105/public/336), Oct. 31, 1998, [112 Stat. 3153](https://www.govinfo.gov/link/statute/112/3153).)*

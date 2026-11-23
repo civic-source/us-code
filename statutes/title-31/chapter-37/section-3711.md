@@ -3,9 +3,10 @@ title: "Section 3711 - Collection and compromise"
 usc_title: 31
 usc_section: "3711"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 3711"
-generated_at: "2026-03-30T02:55:34.058Z"
+generated_at: "2026-11-23T21:26:10.585Z"
+status: "active"
 ---
 
 # § 3711. Collection and compromise
@@ -111,3 +112,75 @@ generated_at: "2026-03-30T02:55:34.058Z"
       - **(iv)** The cumulative balance of defaulted loans that were previously guaranteed and have resulted in loans receivables, the estimated net present value of such loan assets, the annual administrative expenses of such loan assets (including the portion of salaries and expenses that are directly related to such loan assets), and the estimated net proceeds that would be received by the Government if such loan assets were sold.
       - **(v)** The marketability of all debts.
   - **(5)** This subsection is not intended to limit existing statutory authority of agencies to sell loans, debts, or other assets.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3711(a) | 31:952(a)(less words between 1st and 2d commas), (b)(1st sentence less words between 6th and 7th commas). | July 19, 1966 , Pub. L. 89–508, § 3 , 80 Stat. 309 . |
+| 3711(b) | 31:952(b)(2d sentence, last sentence words after semicolon). |  |
+| 3711(c)(1) | 31:952(b)(last sentence words before semicolon). |  |
+| 3711(c)(2) | 31:952(note). | July 8, 1976 , Pub. L. 94–348, § 3(e) , 90 Stat. 818 . |
+| 3711(d) | 31:952(c). |  |
+| 3711(e) | 31:952(a)(words between 1st and 2d commas), (b)(1st sentence words between 6th and 7th commas). |  |
+
+| 1983 Act | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3711(f)(1) | 31 App.:952(d)(1). | July 19, 1966 , Pub. L. 89–508 , 80 Stat. 308 , § 3(d)(1)–(3); added Oct. 25, 1982 , Pub. L. 97–365, § 3 , 96 Stat. 1749 . |
+| 3711(f)(2) | 31 App.:952(d)(2). |  |
+| 3711(f)(3) | 31 App.:952(d)(3). |  |
+
+
+Historical and Revision Notes
+
+Act
+
+3711(a)
+
+July 19, 1966
+
+Pub. L. 89–508, § 3
+
+80 Stat. 309
+
+3711(b)
+
+3711(c)(1)
+
+3711(c)(2)
+
+July 8, 1976
+
+Pub. L. 94–348, § 3(e)
+
+90 Stat. 818
+
+3711(d)
+
+3711(e)
+
+Act
+
+3711(f)(1)
+
+July 19, 1966
+
+Pub. L. 89–508
+
+80 Stat. 308
+
+Oct. 25, 1982
+
+Pub. L. 97–365, § 3
+
+96 Stat. 1749
+
+3711(f)(2)
+
+3711(f)(3)
+
+Act
+
+“The Director of the Office of Management and Budget shall—
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 971](https://www.govinfo.gov/link/statute/96/971); [Pub. L. 97–452, § 1(15)](https://www.govinfo.gov/link/plaw/97/public/452), Jan. 12, 1983, [96 Stat. 2470](https://www.govinfo.gov/link/statute/96/2470); [Pub. L. 98–216, § 1(5)](https://www.govinfo.gov/link/plaw/98/public/216), Feb. 14, 1984, [98 Stat. 4](https://www.govinfo.gov/link/statute/98/4); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 101–552, § 8(b)](https://www.govinfo.gov/link/plaw/101/public/552), Nov. 15, 1990, [104 Stat. 2746](https://www.govinfo.gov/link/statute/104/2746); [Pub. L. 102–365, § 4(a)(4)](https://www.govinfo.gov/link/plaw/102/public/365), Sept. 3, 1992, [106 Stat. 973](https://www.govinfo.gov/link/statute/106/973); [Pub. L. 103–272, § 5(i)(1)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1375](https://www.govinfo.gov/link/statute/108/1375); [Pub. L. 104–106, div. A, title X, § 1089](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 459](https://www.govinfo.gov/link/statute/110/459); [Pub. L. 104–134, title III, § 31001(c)(1)](https://www.govinfo.gov/link/plaw/104/public/134), (g)(1)(C), (k), (m)(1), (p), Apr. 26, 1996, [110 Stat. 1321–359](https://www.govinfo.gov/link/statute/110/1321), 1321–363, 1321–365, 1321–366, 1321–371; [Pub. L. 104–201, div. A, title X, § 1010](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2635](https://www.govinfo.gov/link/statute/110/2635); [Pub. L. 104–316, title I, § 115(g)(1)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3834](https://www.govinfo.gov/link/statute/110/3834); [Pub. L. 109–241, title IX, § 902(b)(4)](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 566](https://www.govinfo.gov/link/statute/120/566); [Pub. L. 110–389, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/110/public/389), Oct. 10, 2008, [122 Stat. 4185](https://www.govinfo.gov/link/statute/122/4185); [Pub. L. 116–283, div. A, title IX, § 927(d)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3831](https://www.govinfo.gov/link/statute/134/3831).)*

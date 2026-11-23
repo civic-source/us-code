@@ -3,9 +3,10 @@ title: "Section 19401 - Findings"
 usc_title: 42
 usc_section: "19401"
 chapter: 164
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19401"
-generated_at: "2026-03-30T02:56:11.547Z"
+generated_at: "2026-11-23T21:26:33.886Z"
+status: "active"
 ---
 
 # § 19401. Findings
@@ -19,3 +20,7 @@ Congress finds the following:
   - **(5)** In order to combat sexual harassment and assault, it is essential that victims and survivors have the freedom to report and publicly disclose their abuse.
   - **(6)** Nondisclosure and nondisparagement provisions in agreements between employers and current, former, and prospective employees, and independent contractors, and between providers of goods and services and consumers, can perpetuate illegal conduct by silencing those who are survivors of illegal sexual harassment and assault or illegal retaliation, or have knowledge of such conduct, while shielding perpetrators and enabling them to continue their abuse.
   - **(7)** Prohibiting nondisclosure and nondisparagement clauses will empower survivors to come forward, hold perpetrators accountable for abuse, improve transparency around illegal conduct, enable the pursuit of justice, and make workplaces safer and more productive for everyone.
+
+## Source Credit
+
+*([Pub. L. 117–224, § 2](https://www.govinfo.gov/link/plaw/117/public/224), Dec. 7, 2022, [136 Stat. 2290](https://www.govinfo.gov/link/statute/136/2290).)*

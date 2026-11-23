@@ -3,12 +3,17 @@ title: "Section 715h - Hearings and investigation by boards; appointment of boar
 usc_title: 15
 usc_section: "715h"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 715h"
-generated_at: "2026-03-30T02:54:08.117Z"
+generated_at: "2026-11-23T21:25:39.744Z"
+status: "active"
 ---
 
 # § 715h. Hearings and investigation by boards; appointment of board and employees
 
 - **(a)** Any board established under authority of section 715d of this title , and any agency designated under authority of section 715j of this title , may hold and conduct such hearings, investigations, and proceedings as may be necessary for the purposes of this chapter, and for such purposes those provisions of section 78u of this title relating to the administering of oaths and affirmations, and to the attendance and testimony of witnesses and the production of evidence (including penalties), shall apply.
 - **(b)** The members of any board established under authority of section 715d of this title shall be appointed by the President, subject to chapter 51 and subchapter III of chapter 53 of title 5; and any such board may appoint, subject to chapter 51 and subchapter III of chapter 53 of title 5, such employees as may be necessary for the execution of its functions under this chapter.
+
+## Source Credit
+
+*(Feb. 22, 1935, ch. 18, § 9, [49 Stat. 33](https://www.govinfo.gov/link/statute/49/33); Oct. 28, 1949, ch. 782, title XI, § 1106(a), [63 Stat. 972](https://www.govinfo.gov/link/statute/63/972).)*

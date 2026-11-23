@@ -3,9 +3,10 @@ title: "Section 3736 - Precedence"
 usc_title: 14
 usc_section: "3736"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 3736"
-generated_at: "2026-03-30T02:53:51.503Z"
+generated_at: "2026-11-23T21:25:35.457Z"
+status: "active"
 ---
 
 # § 3736. Precedence
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:51.503Z"
 - **(c)** A Reserve officer shall, when on the active duty promotion list, be promoted in the same manner as any other officer on the active duty promotion list regardless of the length of active duty service of the Reserve officer.
 - **(d)** Notwithstanding any other law, a Reserve officer shall not lose precedence by reason of promotion to the grade of rear admiral or rear admiral (lower half), if the promotion is determined in accordance with a running mate system.
 - **(e)** The Secretary shall adjust the date of rank of a Reserve officer so that no changes of precedence occur.
+
+## Source Credit
+
+*(Added [Pub. L. 96–322, § 1](https://www.govinfo.gov/link/plaw/96/public/322), Aug. 4, 1980, [94 Stat. 1008](https://www.govinfo.gov/link/statute/94/1008), § 725; amended [Pub. L. 108–293, title II, § 220(a)](https://www.govinfo.gov/link/plaw/108/public/293), Aug. 9, 2004, [118 Stat. 1039](https://www.govinfo.gov/link/statute/118/1039); renumbered § 3736, [Pub. L. 115–282, title I, § 118(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4233](https://www.govinfo.gov/link/statute/132/4233); [Pub. L. 119–60, div. G, title LXXII, § 7221(c)(4)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1700](https://www.govinfo.gov/link/statute/139/1700).)*

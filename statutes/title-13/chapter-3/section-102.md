@@ -3,12 +3,17 @@ title: "Section 102 - Religion"
 usc_title: 13
 usc_section: "102"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "13 U.S.C. § 102"
-generated_at: "2026-03-30T02:54:03.338Z"
+generated_at: "2026-11-23T21:25:34.406Z"
+status: "active"
 ---
 
 # § 102. Religion
 
 The Secretary may collect decennially statistics relating to religious bodies.
 
+
+## Source Credit
+
+*(Aug. 31, 1954, ch. 1158, [68 Stat. 1018](https://www.govinfo.gov/link/statute/68/1018).)*

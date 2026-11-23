@@ -3,9 +3,10 @@ title: "Section 4155 - Conversion of certain positions in Department of Agricult
 usc_title: 22
 usc_section: "4155"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4155"
-generated_at: "2026-03-30T02:55:05.408Z"
+generated_at: "2026-11-23T21:25:58.633Z"
+status: "active"
 ---
 
 # § 4155. Conversion of certain positions in Department of Agriculture
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.408Z"
   - **(1)** The Secretary of Agriculture shall recommend to the President for appointment to the appropriate class (as determined under paragraph (2)), by and with the advice and consent of the Senate, those employees who elect conversion under subsection (a)(1).
   - **(2)** The Secretary of Agriculture shall appoint as Foreign Service personnel those employees who elect to accept conversion and who are not eligible for appointment under paragraph (1).
 - **(d)** Any employee who declines conversion under subsection (b)(2) shall for so long as that employee continues to hold the designated position be deemed to be a member of the Foreign Service for purposes of allowances, differentials, and similar benefits (as determined by the Secretary of Agriculture).
+
+## Source Credit
+
+*([Pub. L. 96–465, title II, § 2105](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2150](https://www.govinfo.gov/link/statute/94/2150).)*

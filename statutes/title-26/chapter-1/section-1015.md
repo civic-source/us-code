@@ -3,9 +3,10 @@ title: "Section 1015 - Basis of property acquired by gifts and transfers in trus
 usc_title: 26
 usc_section: "1015"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1015"
-generated_at: "2026-03-30T02:55:27.754Z"
+generated_at: "2026-11-23T21:26:06.454Z"
+status: "active"
 ---
 
 # § 1015. Basis of property acquired by gifts and transfers in trust
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:27.754Z"
       - **(ii)** the amount of the gift.
     - **(B)** For purposes of paragraph (1), the net appreciation in value of any gift is the amount by which the fair market value of the gift exceeds the donor’s adjusted basis immediately before the gift.
 - **(e)** In the case of any property acquired by gift in a transfer described in section 1041(a), the basis of such property in the hands of the transferee shall be determined under section 1041(b)(2) and not this section.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 298; [Pub. L. 85–866, title I, § 43(a)](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1640](https://www.govinfo.gov/link/statute/72/1640); [Pub. L. 91–614, title I, § 102(d)(1)](https://www.govinfo.gov/link/plaw/91/public/614), Dec. 31, 1970, [84 Stat. 1841](https://www.govinfo.gov/link/statute/84/1841); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(a)(122), 1906(b) (13)(A), title XX, § 2005(c), Oct. 4, 1976, [90 Stat. 1784](https://www.govinfo.gov/link/statute/90/1784), 1834, 1877; [Pub. L. 97–34, title IV, § 442(d)(1)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 322](https://www.govinfo.gov/link/statute/95/322); [Pub. L. 98–369, div. A, title IV, § 421(b)(5)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 794](https://www.govinfo.gov/link/statute/98/794).)*

@@ -3,9 +3,10 @@ title: "Section 220524 - General duties of national governing bodies"
 usc_title: 36
 usc_section: "220524"
 chapter: 2205
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 220524"
-generated_at: "2026-03-30T02:55:44.710Z"
+generated_at: "2026-11-23T21:26:13.751Z"
+status: "active"
 ---
 
 # § 220524. General duties of national governing bodies
@@ -32,3 +33,28 @@ generated_at: "2026-03-30T02:55:44.710Z"
     - **(A)** the policies and procedures developed under subparagraph (C) of section 220541(a)(1); and
     - **(B)** the requirement described in paragraph (2)(A) of section 220542(a).
 - **(b)** Nothing in this section shall be construed to preempt or otherwise abrogate the duty of care of a national governing body under State law or the common law.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 220524 | 36:392(a)(1)–(3), (5)–(9). | Sept. 21, 1950, ch. 975 , title II, § 202(a)(1)–(3), (5)–(9), as added Nov. 8, 1978 , Pub. L. 95–606, § 2 , 92 Stat. 3052 . |
+
+
+In General
+
+Rule of Construction
+
+Historical and Revision Notes
+
+220524
+
+Sept. 21, 1950, ch. 975
+
+Nov. 8, 1978
+
+Pub. L. 95–606, § 2
+
+92 Stat. 3052
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1474](https://www.govinfo.gov/link/statute/112/1474); [Pub. L. 105–277, div. C, title I, § 142](https://www.govinfo.gov/link/plaw/105/public/277) (o), Oct. 21, 1998, [112 Stat. 2681–608](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 116–189, § 7(a)(2)(A)(iv)](https://www.govinfo.gov/link/plaw/116/public/189), (c), Oct. 30, 2020, [134 Stat. 957](https://www.govinfo.gov/link/statute/134/957), 959; [Pub. L. 117–340, § 2(b)(1)](https://www.govinfo.gov/link/plaw/117/public/340), Jan. 5, 2023, [136 Stat. 6176](https://www.govinfo.gov/link/statute/136/6176).)*

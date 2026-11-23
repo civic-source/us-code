@@ -3,9 +3,10 @@ title: "Section 1437e - Designated housing for elderly and disabled families"
 usc_title: 42
 usc_section: "1437e"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1437e"
-generated_at: "2026-03-30T02:56:11.080Z"
+generated_at: "2026-11-23T21:26:31.992Z"
+status: "active"
 ---
 
 # § 1437e. Designated housing for elderly and disabled families
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:11.080Z"
   - **(2)** Upon the expiration of the 5-year period under paragraph (1) or any 2-year period under this paragraph, an agency may extend the effectiveness of the designation and plan for an additional 2-year period (that begins upon such expiration) by submitting to the Secretary any information needed to update the plan. The Secretary may not limit the number of times a public housing agency extends the effectiveness of a designation and plan under this paragraph.
   - **(3)** Any application and allocation plan approved under this section (as in effect before March 28, 1996 ) before March 28, 1996 , shall be considered to be a plan under subsection (d) that is in effect for purposes of this section for the 5-year period beginning upon such approval.
 - **(g)** No tenant of a public housing project shall be considered to be displaced for purposes of the Uniform Relocation Assistance and Real Property Acquisitions Policy Act of 1970 [ 42 U.S.C. 4601 et seq.] because of the designation of any existing project or building, or portion thereof, for occupancy as provided under subsection (a) of this section.
+
+## Source Credit
+
+*(Sept. 1, 1937, ch. 896, title I, § 7, as added [Pub. L. 93–383, title II, § 201(a)](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 662](https://www.govinfo.gov/link/statute/88/662); amended [Pub. L. 95–557, title IV, § 412](https://www.govinfo.gov/link/plaw/95/public/557), Oct. 31, 1978, [92 Stat. 2110](https://www.govinfo.gov/link/statute/92/2110); [Pub. L. 100–242, title I, § 112(b)(3)](https://www.govinfo.gov/link/plaw/100/public/242), Feb. 5, 1988, [101 Stat. 1824](https://www.govinfo.gov/link/statute/101/1824); renumbered title I, [Pub. L. 100–358, § 5](https://www.govinfo.gov/link/plaw/100/public/358), June 29, 1988, [102 Stat. 681](https://www.govinfo.gov/link/statute/102/681); amended [Pub. L. 102–550, title VI, § 622(a)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3813](https://www.govinfo.gov/link/statute/106/3813); [Pub. L. 104–99, title IV, § 402(d)(6)(A)(ii)](https://www.govinfo.gov/link/plaw/104/public/99), Jan. 26, 1996, [110 Stat. 42](https://www.govinfo.gov/link/statute/110/42); [Pub. L. 104–120, § 10(a)](https://www.govinfo.gov/link/plaw/104/public/120), Mar. 28, 1996, [110 Stat. 838](https://www.govinfo.gov/link/statute/110/838); [Pub. L. 104–330, title V, § 501(b)(4)](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4042](https://www.govinfo.gov/link/statute/110/4042); [Pub. L. 105–276, title V, § 595(d)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2656](https://www.govinfo.gov/link/statute/112/2656).)*

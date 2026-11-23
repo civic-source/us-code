@@ -3,9 +3,10 @@ title: "Section 1564 - Security clearance investigations"
 usc_title: 10
 usc_section: "1564"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1564"
-generated_at: "2026-03-30T02:53:38.129Z"
+generated_at: "2026-11-23T21:25:32.509Z"
+status: "active"
 ---
 
 # § 1564. Security clearance investigations
@@ -48,3 +49,327 @@ generated_at: "2026-03-30T02:53:38.129Z"
 - **(e)** The Secretary shall consult with the Secretaries of the military departments and the heads of Defense Agencies in carrying out this section.
 - **(f)** For the purposes of this section, it is not necessary for the performance of duties to involve classified activities or classified matters in order for the duties to be considered sensitive and critical to the national security.
 - **(g)** The Secretary of Defense may use funds authorized to be appropriated to the Department of Defense for operation and maintenance to conduct background investigations under this section for individuals described in subsection (a)(2).
+
+Expedited Process
+
+Required Features
+
+Reinvestigation or Readjudication of Certain Individuals
+
+Annual Review
+
+Consultation Requirement
+
+Sensitive Duties
+
+Use of Appropriated Funds
+
+“Not later than 180 days after the date of the enactment of this Act [ Dec. 23, 2024 ], the authorizing official of the Defense Counterintelligence and Security Agency, in coordination with the Chief Information Officer of the Department of Defense, shall—
+
+In General
+
+Additional Requirements.—
+
+Personal security clearance authority.—
+
+In general
+
+Limitation
+
+Adjudication of the facility clearance application
+
+Clearance Transfer.—
+
+In general
+
+Denial of facility clearance
+
+Participant Selection
+
+Sunset
+
+Definitions
+
+Facility clearance
+
+Foreign ownership, control, or influence
+
+Innovative technology company
+
+Personal security clearance
+
+Pilot program
+
+Improvements.—
+
+In general
+
+Coast Guard
+
+Exceptions.—
+
+In general
+
+Clarification of review exception
+
+Definitions
+
+Policy Required
+
+Unclassified Work Spaces
+
+Report
+
+Covered Individual Defined
+
+Activity Authorized
+
+Activities Characterized
+
+Limitations.—
+
+Commencement of activities
+
+Legal and reporting obligations
+
+Scope
+
+Consistency with access provided
+
+Reports.—
+
+Initial report
+
+Annual reports
+
+Reports
+
+Determination and Briefing
+
+Transition To Discharge by Defense Security Service [
+
+Defense Counterintelligence and Security Agency].—
+
+Secretarial authority
+
+Phased transition
+
+Transition elements
+
+Commencement of Implementation Plan for Ongoing Discharge of Investigations Through DSS
+
+Transfer of Certain Functions Within DoD to DSS.—
+
+Transfer required
+
+Supporting organizations
+
+Timing and manner of transfer
+
+Transfer of Certain Functions in OPM to DSS
+
+In general
+
+Functions
+
+Assessment
+
+Consultation
+
+Location within dod
+
+Conduct of Certain Actions
+
+Enhancement of Information Technology Capabilities of NBIS.—
+
+In general
+
+Common component
+
+Enhancements
+
+Consultation
+
+Use of Certain Private Industry Data
+
+Security Clearances for Contractor Personnel.—
+
+In general
+
+Guidance
+
+Personnel To Support the Transfer of Functions
+
+Report on Future Periodic Reinvestigations, Insider Threat, and Continuous Vetting.—
+
+Report required
+
+Consultation
+
+Quarterly and Annual Briefings and Reports.—
+
+Annual assessment of timeliness
+
+Quarterly briefings
+
+Annual reports
+
+Termination
+
+Appropriate Congressional Committees Defined
+
+Enhancement of Security Programs Generally.—
+
+Personnel background and security plan required
+
+Plan for potential transfer of investigative personnel to department of defense
+
+Report
+
+Collection, storage, and retention of information by insider threat programs
+
+Elements of System.—
+
+In general
+
+Completion date
+
+Establishment of Enhanced Security Program to Support Department of Defense Innovation Initiative.—
+
+In general
+
+Policies and procedures
+
+Access to classified information
+
+Award of security clearances
+
+Updated Guidance and Review of Policies.—
+
+Review of applicable laws
+
+Reciprocity directive
+
+Implementation directives
+
+Waiver of Certain Deadlines
+
+Definitions
+
+Personnel Security and Insider Threat Protection in Department of Defense.—
+
+Plans and schedules
+
+Reporting requirement
+
+Physical and Logical Access
+
+Security Enterprise Management
+
+Reciprocity Management
+
+Reporting Requirements Implementation
+
+Definition
+
+Covered agencies
+
+Applicable purposes of investigations
+
+Biometric and biographic searches
+
+Use of most cost-effective system
+
+Sealed or expunged records; juvenile records.—
+
+In general
+
+Regulations.—
+
+Definition
+
+Development; promulgation
+
+Sense of congress
+
+Interaction with law enforcement and intelligence agencies abroad
+
+Clarification of security requirements for contractors conducting background investigations
+
+Clarification regarding adverse actions
+
+Annual report by suitability and security clearance performance accountability council
+
+GAO report on enhancing interoperability and reducing redundancy in federal critical infrastructure protection access control, background check, and credentialing standards.—
+
+In general
+
+Contents
+
+Definitions
+
+Comparative Analysis.—
+
+In general
+
+Elements of analysis
+
+Personnel Security for Department of Defense Employees and Contractors
+
+Strategy for Modernizing Personnel Security.—
+
+Strategy required
+
+Consideration of analysis
+
+Metrics
+
+Elements
+
+Risk-based monitoring
+
+Reciprocity of Clearances
+
+Comptroller General Review.—
+
+Review required
+
+Objective of review
+
+Report
+
+Task Force on Records Access for Security Clearance Background Investigations.—
+
+Establishment
+
+Membership
+
+Initial meeting
+
+Duties
+
+Report
+
+Appropriate Committees of Congress Defined
+
+Notification of Policy
+
+Policy Described
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Donald J. Trump.
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1072(a)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–276; amended [Pub. L. 111–383, div. A, title III, § 351(a)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4192](https://www.govinfo.gov/link/statute/124/4192); [Pub. L. 112–239, div. A, title X, § 1076(e)(1)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1951](https://www.govinfo.gov/link/statute/126/1951); [Pub. L. 115–232, div. A, title V, § 542](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1762](https://www.govinfo.gov/link/statute/132/1762); [Pub. L. 116–283, div. A, title X, § 1081(a)(29)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3872](https://www.govinfo.gov/link/statute/134/3872); [Pub. L. 119–60, div. G, title LXXV, § 7530](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1821](https://www.govinfo.gov/link/statute/139/1821).)*

@@ -3,9 +3,10 @@ title: "Section 20713 - Encouraging a victim-centered approach to training of Fe
 usc_title: 34
 usc_section: "20713"
 chapter: 207
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20713"
-generated_at: "2026-03-30T02:55:33.300Z"
+generated_at: "2026-11-23T21:26:09.794Z"
+status: "active"
 ---
 
 # § 20713. Encouraging a victim-centered approach to training of Federal law enforcement personnel
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:33.300Z"
   - **(2)** The Attorney General and the Secretary of Homeland Security shall provide training using the curriculum developed under paragraph (1) to—
     - **(A)** all law enforcement officers employed by the Department of Justice and the Department of Homeland Security, respectively, who may be involved in the investigation of human trafficking offenses; and
     - **(B)** members of task forces that participate in the investigation of human trafficking offenses.
+
+## Source Credit
+
+*([Pub. L. 109–164, title II, § 213](https://www.govinfo.gov/link/plaw/109/public/164), formerly [Pub. L. 115–393, title V, § 501](https://www.govinfo.gov/link/plaw/115/public/393), Dec. 21, 2018, [132 Stat. 5275](https://www.govinfo.gov/link/statute/132/5275); renumbered [§ 213 of Pub. L. 109–164](https://www.govinfo.gov/link/plaw/109/public/164), [Pub. L. 117–347, title I, § 106(b)(3)](https://www.govinfo.gov/link/plaw/117/public/347), Jan. 5, 2023, [136 Stat. 6204](https://www.govinfo.gov/link/statute/136/6204).)*

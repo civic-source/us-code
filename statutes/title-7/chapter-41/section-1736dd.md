@@ -3,9 +3,10 @@ title: "Section 1736dd - International food security technical assistance"
 usc_title: 7
 usc_section: "1736dd"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1736dd"
-generated_at: "2026-03-30T02:53:42.341Z"
+generated_at: "2026-11-23T21:25:28.174Z"
+status: "active"
 ---
 
 # § 1736dd. International food security technical assistance
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.341Z"
 - **(d)** On request by an entity described in subsection (c)(2), the Secretary may provide technical assistance to the entity to implement a program for the improvement of international food security.
 - **(e)** In carrying out this section, the Secretary shall give priority to programs relating to the development of food and nutrition safety net systems with a focus on food insecure countries.
 - **(f)** There is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2019 through 2023.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XV, § 1543B](https://www.govinfo.gov/link/plaw/101/public/624), as added [Pub. L. 115–334, title III, § 3308](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4621](https://www.govinfo.gov/link/statute/132/4621).)*

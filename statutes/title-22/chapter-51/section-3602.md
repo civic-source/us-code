@@ -3,9 +3,10 @@ title: "Section 3602 - Definitions"
 usc_title: 22
 usc_section: "3602"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3602"
-generated_at: "2026-03-30T02:55:05.394Z"
+generated_at: "2026-11-23T21:25:58.588Z"
+status: "active"
 ---
 
 # § 3602. Definitions
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:05.394Z"
 - **(d)** For purposes of this chapter:
   - **(1)** The term “Canal Transfer Date” means December 31, 1999 , such date being the date specified in the Panama Canal Treaty of 1977 for the transfer of the Panama Canal from the United States of America to the Republic of Panama.
   - **(2)** The term “Panama Canal Authority” means the entity created by the Republic of Panama to succeed the Panama Canal Commission as of the Canal Transfer Date.
+
+## Source Credit
+
+*([Pub. L. 96–70, § 3](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 455](https://www.govinfo.gov/link/statute/93/455); [Pub. L. 104–201, div. C, title XXXV](https://www.govinfo.gov/link/plaw/104/public/201), §§ 3522, 3548(c)(1), Sept. 23, 1996, [110 Stat. 2860](https://www.govinfo.gov/link/statute/110/2860), 2869; [Pub. L. 105–85, div. C, title XXXV](https://www.govinfo.gov/link/plaw/105/public/85), §§ 3512, 3550(d)(1), (2)(A), Nov. 18, 1997, [111 Stat. 2063](https://www.govinfo.gov/link/statute/111/2063), 2074.)*

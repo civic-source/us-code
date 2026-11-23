@@ -3,9 +3,10 @@ title: "Section 10 - Reporting requirements"
 usc_title: 7
 usc_section: "10"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 10"
-generated_at: "2026-03-30T02:53:42.361Z"
+generated_at: "2026-11-23T21:25:28.241Z"
+status: "active"
 ---
 
 # § 2009cc–10. Reporting requirements
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:42.361Z"
   - **(2)** In compiling the report required under paragraph (1), the Secretary may not—
     - **(A)** compile the report in a manner that permits identification of any particular type of investment by an individual rural business investment company or small business concern in which a rural business investment company invests; and
     - **(B)** may not release any information that is prohibited under section 1905 of title 18 .
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 384K](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 107–171, title VI, § 6029](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 398](https://www.govinfo.gov/link/statute/116/398).)*

@@ -3,9 +3,10 @@ title: "Section 1621m - Epidemiology centers"
 usc_title: 25
 usc_section: "1621m"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1621m"
-generated_at: "2026-03-30T02:54:52.821Z"
+generated_at: "2026-11-23T21:25:54.620Z"
+status: "active"
 ---
 
 # § 1621m. Epidemiology centers
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:54:52.821Z"
   - **(1)** An epidemiology center operated by a grantee pursuant to a grant awarded under subsection (d) shall be treated as a public health authority (as defined in section 164.501 of title 45, Code of Federal Regulations (or a successor regulation)) for purposes of the Health Insurance Portability and Accountability Act of 1996 ( Public Law 104–191 ; 110 Stat. 1936 ).
   - **(2)** The Secretary shall grant to each epidemiology center described in paragraph (1) access to use of the data, data sets, monitoring systems, delivery systems, and other protected health information in the possession of the Secretary.
   - **(3)** The activities of an epidemiology center described in paragraph (1) shall be for the purposes of research and for preventing and controlling disease, injury, or disability (as those activities are described in section 164.512 of title 45, Code of Federal Regulations (or a successor regulation)), for purposes of the Health Insurance Portability and Accountability Act of 1996 ( Public Law 104–191 ; 110 Stat. 1936 ).
+
+## Source Credit
+
+*([Pub. L. 94–437, title II, § 214](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 102–573, title II, § 210](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4551](https://www.govinfo.gov/link/statute/106/4551); amended [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

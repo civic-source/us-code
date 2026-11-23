@@ -3,9 +3,10 @@ title: "Section 412 - Registration as prerequisite to certain remedies for infri
 usc_title: 17
 usc_section: "412"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 412"
-generated_at: "2026-03-30T02:54:15.353Z"
+generated_at: "2026-11-23T21:25:41.719Z"
+status: "active"
 ---
 
 # § 412. Registration as prerequisite to certain remedies for infringement
@@ -14,3 +15,7 @@ In any action under this title, other than an action brought for a violation of 
 
   - **(1)** any infringement of copyright in an unpublished work commenced before the effective date of its registration; or
   - **(2)** any infringement of copyright commenced after first publication of the work and before the effective date of its registration, unless such registration is made within three months after the first publication of the work.
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2583](https://www.govinfo.gov/link/statute/90/2583); [Pub. L. 101–650, title VI, § 606(c)(2)](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5131](https://www.govinfo.gov/link/statute/104/5131); [Pub. L. 109–9, title I, § 104(c)](https://www.govinfo.gov/link/plaw/109/public/9), Apr. 27, 2005, [119 Stat. 222](https://www.govinfo.gov/link/statute/119/222); [Pub. L. 110–403, title I, § 101(b)(1)](https://www.govinfo.gov/link/plaw/110/public/403), Oct. 13, 2008, [122 Stat. 4258](https://www.govinfo.gov/link/statute/122/4258).)*

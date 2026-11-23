@@ -3,9 +3,10 @@ title: "Section 1782 - Administration of insurance fund"
 usc_title: 12
 usc_section: "1782"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1782"
-generated_at: "2026-03-30T02:53:53.436Z"
+generated_at: "2026-11-23T21:25:36.940Z"
+status: "active"
 ---
 
 # § 1782. Administration of insurance fund
@@ -111,3 +112,79 @@ generated_at: "2026-03-30T02:53:53.436Z"
     - **(B)** the aggregate amount of the insured shares in all insured credit unions.
   - **(3)** The term “insured shares”, when applied to this section, includes share, share draft, share certificate, and other similar accounts as determined by the Board, but does not include amounts exceeding the insured account limit set forth in section 1787(k)(1) of this title .
   - **(4)** The term “normal operating level”, when applied to the Fund, means an equity ratio specified by the Board, which shall be not less than 1.2 percent and not more than 1.5 percent.
+
+Audit requirement.—
+
+In general
+
+Unsafe or unsound practice
+
+Accounting principles.—
+
+In general
+
+Board determination
+
+De minimus
+
+exception
+
+Large credit union audit requirement.—
+
+In general
+
+Voluntary audits
+
+Report to independent auditor.—
+
+In general
+
+Additional information
+
+Data sharing with other agencies and persons
+
+Periodic adjustment
+
+Insurance premium charges.—
+
+In general
+
+Relation of premium charge to equity ratio of Fund
+
+Premium charge required if equity ratio falls below 1.2 percent
+
+Fund restoration plans.—
+
+In general
+
+Requirements of restoration plan
+
+Transparency
+
+Distributions from Fund required.—
+
+In general
+
+Amount of distribution
+
+Calculation based on certified statements
+
+Timeliness and accuracy of data
+
+Penalty for failure to make accurate certified statement or to pay deposit or premium.—
+
+First tier
+
+Second tier
+
+Third tier
+
+Assessment procedure
+
+Hearing
+
+Special rule for disputed payments
+
+## Source Credit
+
+*(June 26, 1934, ch. 750, title II, § 202, as added [Pub. L. 91–468, § 1(3)](https://www.govinfo.gov/link/plaw/91/public/468), Oct. 19, 1970, [84 Stat. 995](https://www.govinfo.gov/link/statute/84/995); amended [Pub. L. 93–383, title VII, § 727](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 720](https://www.govinfo.gov/link/statute/88/720); [Pub. L. 95–630, title V](https://www.govinfo.gov/link/plaw/95/public/630), §§ 502(b), 505, Nov. 10, 1978, [92 Stat. 3681](https://www.govinfo.gov/link/statute/92/3681), 3682; [Pub. L. 97–320, title V](https://www.govinfo.gov/link/plaw/97/public/320), §§ 528, 529, Oct. 15, 1982, [96 Stat. 1535](https://www.govinfo.gov/link/statute/96/1535); [Pub. L. 97–457, § 29](https://www.govinfo.gov/link/plaw/97/public/457), Jan. 12, 1983, [96 Stat. 2510](https://www.govinfo.gov/link/statute/96/2510); [Pub. L. 98–369, div. B, title VIII](https://www.govinfo.gov/link/plaw/98/public/369), §§ 2802–2810, July 18, 1984, [98 Stat. 1204](https://www.govinfo.gov/link/statute/98/1204), 1205; [Pub. L. 101–73, title IX](https://www.govinfo.gov/link/plaw/101/public/73), §§ 911(f), 919, 931(b), Aug. 9, 1989, [103 Stat. 482](https://www.govinfo.gov/link/statute/103/482), 488, 493; [Pub. L. 102–242, title III, § 313(b)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2369](https://www.govinfo.gov/link/statute/105/2369); [Pub. L. 102–550, title XVI, § 1605(b)(3)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4087](https://www.govinfo.gov/link/statute/106/4087); [Pub. L. 105–219, title II, § 201](https://www.govinfo.gov/link/plaw/105/public/219), title III, § 302(a), Aug. 7, 1998, [112 Stat. 918](https://www.govinfo.gov/link/statute/112/918), 931; [Pub. L. 109–351, title VII](https://www.govinfo.gov/link/plaw/109/public/351), §§ 707(b), 726(12), Oct. 13, 2006, [120 Stat. 1987](https://www.govinfo.gov/link/statute/120/1987), 2002; [Pub. L. 111–22, div. A, title II, § 204(e)](https://www.govinfo.gov/link/plaw/111/public/22), (f)(2), May 20, 2009, [123 Stat. 1651](https://www.govinfo.gov/link/statute/123/1651), 1653; [Pub. L. 111–382, § 2](https://www.govinfo.gov/link/plaw/111/public/382), Jan. 4, 2011, [124 Stat. 4135](https://www.govinfo.gov/link/statute/124/4135).)*

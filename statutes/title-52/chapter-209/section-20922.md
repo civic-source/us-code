@@ -3,9 +3,10 @@ title: "Section 20922 - Duties"
 usc_title: 52
 usc_section: "20922"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 20922"
-generated_at: "2026-03-30T02:56:30.165Z"
+generated_at: "2026-11-23T21:26:42.330Z"
+status: "active"
 ---
 
 # § 20922. Duties
@@ -18,3 +19,7 @@ The Commission shall serve as a national clearinghouse and resource for the comp
   - **(4)** carrying out the duties described in part D of this subchapter (relating to election assistance), and providing information and training on the management of the payments and grants provided under such part;
   - **(5)** carrying out the duties described in part B of subchapter III (relating to the adoption of voluntary guidance); and
   - **(6)** developing and carrying out the Help America Vote College Program under subchapter V.
+
+## Source Credit
+
+*([Pub. L. 107–252, title II, § 202](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1673](https://www.govinfo.gov/link/statute/116/1673).)*

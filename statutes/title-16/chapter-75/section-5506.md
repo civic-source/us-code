@@ -3,9 +3,10 @@ title: "Section 5506 - Enforcement provisions"
 usc_title: 16
 usc_section: "5506"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 5506"
-generated_at: "2026-03-30T02:54:23.052Z"
+generated_at: "2026-11-23T21:25:52.031Z"
+status: "active"
 ---
 
 # § 5506. Enforcement provisions
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:23.052Z"
   - **(2)** Subject to the direction of the Secretary, a person charged with law enforcement responsibilities by the Secretary who is performing a duty related to enforcement of a law regarding fisheries or other marine resources may make an arrest without a warrant for an offense against the United States committed in his presence, or for a felony cognizable under the laws of the United States, if he has reasonable grounds to believe that the person to be arrested has committed or is committing a felony.
 - **(d)** If any authorized officer finds that a high seas fishing vessel is operating or has been operated in violation of any provision of this chapter, such officer may issue a citation to the owner or operator of such vessel in lieu of proceeding under subsection (c). If a permit has been issued pursuant to this chapter for such vessel, such officer shall note the issuance of any citation under this subsection, including the date thereof and the reason therefor, on the permit. The Secretary shall maintain a record of all citations issued pursuant to this subsection.
 - **(e)** Any person assessed a civil penalty for, or convicted of, any violation of this chapter shall be liable for the cost incurred in storage, care, and maintenance of any living marine resource or other property seized in connection with the violation.
+
+## Source Credit
+
+*([Pub. L. 104–43, title I, § 107](https://www.govinfo.gov/link/plaw/104/public/43), Nov. 3, 1995, [109 Stat. 372](https://www.govinfo.gov/link/statute/109/372).)*

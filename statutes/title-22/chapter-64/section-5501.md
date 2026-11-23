@@ -3,9 +3,10 @@ title: "Section 5501 - International negotiations concerning aviation security"
 usc_title: 22
 usc_section: "5501"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5501"
-generated_at: "2026-03-30T02:55:05.418Z"
+generated_at: "2026-11-23T21:25:58.663Z"
+status: "active"
 ---
 
 # § 5501. International negotiations concerning aviation security
@@ -20,3 +21,9 @@ generated_at: "2026-03-30T02:55:05.418Z"
     - **(B)** to implement the Foreign Airport Security Act 1 and the foreign airport assessment program to the fullest extent practicable; and
     - **(C)** to achieve improved availability of passenger manifest information.
   - **(2)** A principal objective of bilateral and multilateral negotiations with foreign governments and the International Civil Aviation Organization shall be improved availability of passenger manifest information.
+
+“Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 101–604, title II, § 201](https://www.govinfo.gov/link/plaw/101/public/604), Nov. 16, 1990, [104 Stat. 3081](https://www.govinfo.gov/link/statute/104/3081).)*

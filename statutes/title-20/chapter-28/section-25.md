@@ -3,9 +3,10 @@ title: "Section 25 - Scholarship component"
 usc_title: 20
 usc_section: "25"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 25"
-generated_at: "2026-03-30T02:54:48.106Z"
+generated_at: "2026-11-23T21:25:47.066Z"
+status: "active"
 ---
 
 # § 1070a–25. Scholarship component
@@ -37,3 +38,11 @@ generated_at: "2026-03-30T02:54:48.106Z"
   - **(2)** receives a secondary school diploma or its recognized equivalent on or after January 1, 1993 ;
   - **(3)** is enrolled or accepted for enrollment in a program of undergraduate instruction at an institution of higher education that is located within the State’s boundaries, except that, at the State’s option, an eligible entity may offer scholarship program portability for recipients who attend institutions of higher education outside such State; and
   - **(4)** who participated in the activities required under section 1070a–24(a) of this title .
+
+In general
+
+Special rule
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 404E](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title IV, § 403](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1661](https://www.govinfo.gov/link/statute/112/1661); amended [Pub. L. 110–315, title IV, § 404(e)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3213](https://www.govinfo.gov/link/statute/122/3213).)*

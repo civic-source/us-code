@@ -3,9 +3,10 @@ title: "Section 9705 - Federal Nuclear Operations Corps’ study"
 usc_title: 42
 usc_section: "9705"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9705"
-generated_at: "2026-03-30T02:56:11.365Z"
+generated_at: "2026-11-23T21:26:33.276Z"
+status: "active"
 ---
 
 # § 9705. Federal Nuclear Operations Corps’ study
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.365Z"
   - **(2)** The assessment shall consider the establishment of an academy to train Corps professionals in all aspects of nuclear technology, nuclear operations, nuclear regulatory and related law, and health science.
   - **(3)** The assessment shall include the appropriate organizational approach for the establishment of a Federal Corps within the executive branch.
 - **(c)** The Secretary shall complete the study within one year after December 22, 1980 , and shall submit a report along with his recommendations to the Congress.
+
+## Source Credit
+
+*([Pub. L. 96–567, § 6](https://www.govinfo.gov/link/plaw/96/public/567), Dec. 22, 1980, [94 Stat. 3332](https://www.govinfo.gov/link/statute/94/3332).)*

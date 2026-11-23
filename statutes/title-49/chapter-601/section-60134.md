@@ -3,9 +3,10 @@ title: "Section 60134 - State damage prevention programs"
 usc_title: 49
 usc_section: "60134"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 60134"
-generated_at: "2026-03-30T02:56:19.416Z"
+generated_at: "2026-11-23T21:26:41.034Z"
+status: "active"
 ---
 
 # § 60134. State damage prevention programs
@@ -33,3 +34,25 @@ generated_at: "2026-03-30T02:56:19.416Z"
 - **(g)** Funds provided to carry out this section may not be used for lobbying or in direct support of litigation.
 - **(h)** In this section, the term “damage prevention process” means a process that incorporates the principles described in sections 60114(b), 60114(d), and 60114(e).
 - **(i)** There is authorized to be appropriated to the Secretary to provide grants under this section $1,500,000 for each of fiscal years 2021 through 2023. Such funds shall remain available until expended.
+
+In General
+
+Damage Prevention Program Elements
+
+Factors to Consider
+
+Application
+
+Use of Funds
+
+Nonapplicability of Limitation
+
+Limitation on Use of Funds
+
+Damage Prevention Process Defined
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(Added [Pub. L. 109–468, § 2(b)(2)](https://www.govinfo.gov/link/plaw/109/public/468), Dec. 29, 2006, [120 Stat. 3487](https://www.govinfo.gov/link/statute/120/3487); amended [Pub. L. 112–90](https://www.govinfo.gov/link/plaw/112/public/90), §§ 3(b), 32(d), Jan. 3, 2012, [125 Stat. 1906](https://www.govinfo.gov/link/statute/125/1906), 1923; [Pub. L. 116–260, div. R, title I, § 101(f)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2214](https://www.govinfo.gov/link/statute/134/2214).)*

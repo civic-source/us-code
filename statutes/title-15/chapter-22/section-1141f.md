@@ -3,9 +3,10 @@ title: "Section 1141f - Effect of filing a request for extension of protection o
 usc_title: 15
 usc_section: "1141f"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1141f"
-generated_at: "2026-03-30T02:54:08.128Z"
+generated_at: "2026-11-23T21:25:39.794Z"
+status: "active"
 ---
 
 # § 1141f. Effect of filing a request for extension of protection of an international registration to the United States
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.128Z"
   - **(1)** The international registration date, if the request for extension of protection was filed in the international application.
   - **(2)** The date of recordal of the request for extension of protection, if the request for extension of protection was made after the international registration date.
   - **(3)** The date of priority claimed pursuant to section 1141g of this title .
+
+## Source Credit
+
+*(July 5, 1946, ch. 540, title XII, § 66, as added [Pub. L. 107–273, div. C, title III, § 13402](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1916](https://www.govinfo.gov/link/statute/116/1916).)*

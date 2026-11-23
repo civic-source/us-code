@@ -3,9 +3,10 @@ title: "Section 299 - Reservation of coal and mineral rights"
 usc_title: 43
 usc_section: "299"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 299"
-generated_at: "2026-03-30T02:55:57.436Z"
+generated_at: "2026-11-23T21:26:19.749Z"
+status: "active"
 ---
 
 # § 299. Reservation of coal and mineral rights
@@ -78,3 +79,7 @@ generated_at: "2026-03-30T02:55:57.436Z"
   - **(1)** the Mineral Leasing Act ( 30 U.S.C. 181 and following);
   - **(2)** the Geothermal Steam Act of 1970 [ 30 U.S.C. 1001 et seq.]; or
   - **(3)** the Act of July 31, 1947 , commonly known as the Materials Act of 1947 ( 30 U.S.C. 601 and following).
+
+## Source Credit
+
+*(Dec. 29, 1916, ch. 9, § 9, [39 Stat. 864](https://www.govinfo.gov/link/statute/39/864); Oct. 28, 1921, ch. 114, § 1, [42 Stat. 208](https://www.govinfo.gov/link/statute/42/208); Mar. 3, 1925, ch. 462, [43 Stat. 1145](https://www.govinfo.gov/link/statute/43/1145); 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, [60 Stat. 1100](https://www.govinfo.gov/link/statute/60/1100); [Pub. L. 103–23, § 1(a)](https://www.govinfo.gov/link/plaw/103/public/23), (b), Apr. 16, 1993, [107 Stat. 60](https://www.govinfo.gov/link/statute/107/60), 65.)*

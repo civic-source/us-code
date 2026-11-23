@@ -3,9 +3,10 @@ title: "Section 4052 - Agreements with flood insurance pool"
 usc_title: 42
 usc_section: "4052"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4052"
-generated_at: "2026-03-30T02:56:11.197Z"
+generated_at: "2026-11-23T21:26:32.625Z"
+status: "active"
 ---
 
 # § 4052. Agreements with flood insurance pool
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.197Z"
   - **(1)** no insurance company or other insurer which meets the requirements prescribed under section 4051(b) of this title , and which has indicated an intention to participate in the flood insurance program on a risk-sharing basis, will be excluded from participating in the pool,
   - **(2)** the insurance companies and other insurers participating in the pool will take whatever action may be necessary to provide continuity of flood insurance coverage or reinsurance by the pool, and
   - **(3)** any insurance companies and other insurers, insurance agents and brokers, and insurance adjustment organizations will be permitted to cooperate with the pool as fiscal agents or otherwise, on other than a risk-sharing basis, to the maximum extent practicable.
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIII, § 1332](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 582](https://www.govinfo.gov/link/statute/82/582); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title IV, § 451(d)(1)], Nov. 30, 1983, [97 Stat. 1229](https://www.govinfo.gov/link/statute/97/1229); [Pub. L. 112–141, div. F, title II](https://www.govinfo.gov/link/plaw/112/public/141), §§ 100232(d)(2), 100238(b)(1), July 6, 2012, [126 Stat. 954](https://www.govinfo.gov/link/statute/126/954), 958.)*

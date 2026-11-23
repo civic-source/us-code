@@ -3,9 +3,10 @@ title: "Section 3865d - Administration"
 usc_title: 16
 usc_section: "3865d"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3865d"
-generated_at: "2026-03-30T02:54:23.036Z"
+generated_at: "2026-11-23T21:25:52.003Z"
+status: "active"
 ---
 
 # § 3865d. Administration
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:54:23.036Z"
 - **(e)** The Secretary may not provide assistance under this subchapter to an eligible entity or owner of eligible land unless the eligible entity or owner agrees, during the crop year for which the assistance is provided—
   - **(1)** to comply with applicable conservation requirements under subchapter II; and
   - **(2)** to comply with applicable wetland protection requirements under subchapter III.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1265D](https://www.govinfo.gov/link/plaw/99/public/198), as added [Pub. L. 113–79, title II, § 2301(a)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 742](https://www.govinfo.gov/link/statute/128/742); amended [Pub. L. 115–334, title II, § 2605](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4591](https://www.govinfo.gov/link/statute/132/4591).)*

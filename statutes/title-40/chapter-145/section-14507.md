@@ -3,9 +3,10 @@ title: "Section 14507 - Supplements to federal grant programs"
 usc_title: 40
 usc_section: "14507"
 chapter: 145
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 14507"
-generated_at: "2026-03-30T02:55:43.387Z"
+generated_at: "2026-11-23T21:26:14.964Z"
+status: "active"
 ---
 
 # § 14507. Supplements to federal grant programs
@@ -39,3 +40,130 @@ generated_at: "2026-03-30T02:55:43.387Z"
   - **(1)** Subject to paragraphs (2) and (3), the Commission may contribute not more than 50 percent of a project or activity cost eligible for financial assistance under this section from amounts appropriated to carry out this subtitle.
   - **(2)** The maximum Commission contribution for a project or activity to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title may be increased to 80 percent.
   - **(3)** The maximum Commission contribution for a project to be carried out in a county for which an at-risk county designation is in effect under section 14526 may be increased to 70 percent.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 14507(a) | 40 App.:214(c). | Pub. L. 89–4, title II, § 214 , Mar. 9, 1965 , 79 Stat. 17 ; Pub. L. 90–103, title I, § 116 , Oct. 11, 1967 , 81 Stat. 263 ; Pub. L. 91–123, title I, § 107 , Nov. 25, 1969 , 83 Stat. 215 ; Pub. L. 91–258, title I, § 52(b)(5) , May 21, 1970 , 84 Stat. 235 ; Pub. L. 92–65, title II, § 210 , Aug. 5, 1971 , 85 Stat. 171 ; Pub. L. 94–188, title I, § 115 , Dec. 31, 1975 , 89 Stat. 1083 ; Pub. L. 96–506, § 3(4) , Dec. 8, 1980 , 94 Stat. 2746 ; Pub. L. 98–524, § 4(e)(2) , Oct. 19, 1984 , 98 Stat. 2489 ; Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 709(a)(5)] , Sept. 30, 1996 , 110 Stat. 3009–312 ; Pub. L. 105–332, § 3(g) , Oct. 31, 1998 , 112 Stat. 3126 , Pub. L. 105–393, title II, § 217 , Nov. 13, 1998 , 112 Stat. 3622 ; Pub. L. 107–149, § 13(c) , (f), Mar. 12, 2002 , 116 Stat. 71 . |
+| 14507(b) | 40 App.:214(a) (1st sentence). |  |
+| 14507(c) | 40 App.:214(a) (2d sentence). |  |
+| 14507(d) | 40 App.:214(a) (3d sentence). |  |
+| 14507(e) | 40 App.:214(a) (last sentence). |  |
+| 14507(f) | 40 App.:214(b)(1). |  |
+| 14507(g) | 40 App.:214(b)(2). |  |
+
+
+Definition.—
+
+Federal grant programs
+
+Certain sewage treatment works deemed constructed with federal grant assistance
+
+Purpose
+
+Certification Required
+
+Limitations in Other Laws Inapplicable
+
+Acceptance of Certain Material
+
+Federal Share
+
+Maximum Commission Contribution.—
+
+In general
+
+Distressed counties
+
+At-risk counties
+
+Historical and Revision Notes
+
+14507(a)
+
+Pub. L. 89–4, title II, § 214
+
+Mar. 9, 1965
+
+79 Stat. 17
+
+Pub. L. 90–103, title I, § 116
+
+Oct. 11, 1967
+
+81 Stat. 263
+
+Pub. L. 91–123, title I, § 107
+
+Nov. 25, 1969
+
+83 Stat. 215
+
+Pub. L. 91–258, title I, § 52(b)(5)
+
+May 21, 1970
+
+84 Stat. 235
+
+Pub. L. 92–65, title II, § 210
+
+Aug. 5, 1971
+
+85 Stat. 171
+
+Pub. L. 94–188, title I, § 115
+
+Dec. 31, 1975
+
+89 Stat. 1083
+
+Pub. L. 96–506, § 3(4)
+
+Dec. 8, 1980
+
+94 Stat. 2746
+
+Pub. L. 98–524, § 4(e)(2)
+
+Oct. 19, 1984
+
+98 Stat. 2489
+
+Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 709(a)(5)]
+
+Sept. 30, 1996
+
+110 Stat. 3009–312
+
+Pub. L. 105–332, § 3(g)
+
+Oct. 31, 1998
+
+112 Stat. 3126
+
+Pub. L. 105–393, title II, § 217
+
+Nov. 13, 1998
+
+112 Stat. 3622
+
+Pub. L. 107–149, § 13(c)
+
+Mar. 12, 2002
+
+116 Stat. 71
+
+14507(b)
+
+14507(c)
+
+14507(d)
+
+14507(e)
+
+14507(f)
+
+14507(g)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1272](https://www.govinfo.gov/link/statute/116/1272); [Pub. L. 109–270, § 2(j)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 748](https://www.govinfo.gov/link/statute/120/748); [Pub. L. 110–371, § 2(g)](https://www.govinfo.gov/link/plaw/110/public/371), Oct. 8, 2008, [122 Stat. 4040](https://www.govinfo.gov/link/statute/122/4040); [Pub. L. 113–287, § 5(j)(7)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3269](https://www.govinfo.gov/link/statute/128/3269).)*

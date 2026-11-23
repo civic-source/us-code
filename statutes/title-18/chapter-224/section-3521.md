@@ -3,9 +3,10 @@ title: "Section 3521 - Witness relocation and protection"
 usc_title: 18
 usc_section: "3521"
 chapter: 224
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3521"
-generated_at: "2026-03-30T02:54:16.518Z"
+generated_at: "2026-11-23T21:25:44.205Z"
+status: "active"
 ---
 
 # § 3521. Witness relocation and protection
@@ -43,3 +44,9 @@ generated_at: "2026-03-30T02:54:16.518Z"
   - **(3)** The Attorney General may delegate the responsibility initially to authorize protection under this chapter only to the Deputy Attorney General, to the Associate Attorney General, to any Assistant Attorney General in charge of the Criminal Division or National Security Division of the Department of Justice, to the Assistant Attorney General in charge of the Civil Rights Division of the Department of Justice (insofar as the delegation relates to a criminal civil rights case), and to one other officer or employee of the Department of Justice.
 - **(e)** If the Attorney General determines that harm to a person for whom protection may be provided under section 3521 of this title is imminent or that failure to provide immediate protection would otherwise seriously jeopardize an ongoing investigation, the Attorney General may provide temporary protection to such person under this chapter before making the written assessment and determination required by subsection (c) of this section or entering into the memorandum of understanding required by subsection (d) of this section. In such a case the Attorney General shall make such assessment and determination and enter into such memorandum of understanding without undue delay after the protection is initiated.
 - **(f)** The Attorney General may terminate the protection provided under this chapter to any person who substantially breaches the memorandum of understanding entered into between the Attorney General and that person pursuant to subsection (d), or who provides false information concerning the memorandum of understanding or the circumstances pursuant to which the person was provided protection under this chapter, including information with respect to the nature and circumstances concerning child custody and visitation. Before terminating such protection, the Attorney General shall send notice to the person involved of the termination of the protection provided under this chapter and the reasons for the termination. The decision of the Attorney General to terminate such protection shall not be subject to judicial review.
+
+“This section [amending this section, sections 3563, 3583, 4042, and 4209 of this title, and sections 14071 and 14072 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under section 951 of Title 10 , Armed Forces, and section 14039 of Title 42 , and amending provisions set out as a note under section 14071 of Title 42 ] shall take effect on the date of the enactment of this Act [ Nov. 26, 1997 ], except that—
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 1208](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2153](https://www.govinfo.gov/link/statute/98/2153); amended [Pub. L. 101–647, title XXXV, § 3582](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4929](https://www.govinfo.gov/link/statute/104/4929); [Pub. L. 105–119, title I, § 115(a)(9)](https://www.govinfo.gov/link/plaw/105/public/119), Nov. 26, 1997, [111 Stat. 2467](https://www.govinfo.gov/link/statute/111/2467); [Pub. L. 109–177, title V, § 506(a)(7)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 248](https://www.govinfo.gov/link/statute/120/248).)*

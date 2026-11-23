@@ -3,12 +3,17 @@ title: "Section 288f - Applicability of reciprocity laws"
 usc_title: 22
 usc_section: "288f"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 288f"
-generated_at: "2026-03-30T02:55:05.322Z"
+generated_at: "2026-11-23T21:25:58.371Z"
+status: "active"
 ---
 
 # § 288f. Applicability of reciprocity laws
 
 The privileges, exemptions, and immunities of international organizations and of their officers and employees, and members of their families, suites, and servants, provided for in this subchapter, shall be granted notwithstanding the fact that the similar privileges, exemptions, and immunities granted to a foreign government, its officers, or employees, may be conditioned upon the existence of reciprocity by that foreign government: Provided , That nothing contained in this subchapter shall be construed as precluding the Secretary of State from withdrawing the privileges, exemptions, and immunities provided in this subchapter from persons who are nationals of any foreign country on the ground that such country is failing to accord corresponding privileges, exemptions, and immunities to citizens of the United States.
 
+
+## Source Credit
+
+*(Dec. 29, 1945, ch. 652, title I, § 9, [59 Stat. 673](https://www.govinfo.gov/link/statute/59/673).)*

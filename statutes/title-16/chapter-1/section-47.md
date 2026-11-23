@@ -3,9 +3,10 @@ title: "Section 47 - Personnel"
 usc_title: 16
 usc_section: "47"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 47"
-generated_at: "2026-03-30T02:54:22.842Z"
+generated_at: "2026-11-23T21:25:51.620Z"
+status: "active"
 ---
 
 # § 460lll–47. Personnel
@@ -64,3 +65,7 @@ generated_at: "2026-03-30T02:54:22.842Z"
       - **(vi)** eligible pension benefits as provided by the Tennessee Valley Authority Retirement System; and
       - **(vii)** retraining assistance provided by the Tennessee Valley Authority.
     - **(C)** If the board of directors of the Tennessee Valley Authority Retirement System determines that the cost of providing the benefits described in subparagraphs (A) and (B) would have a negative impact on the overall retirement system, the Tennessee Valley Authority shall be required to meet any funding shortfalls.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. A, § 101(e) [title V, § 547]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–231](https://www.govinfo.gov/link/statute/112/2681), 2681–321.)*

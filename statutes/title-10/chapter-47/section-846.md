@@ -3,9 +3,10 @@ title: "Section 846 - Art. 46. Opportunity to obtain witnesses and other evidenc
 usc_title: 10
 usc_section: "846"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 846"
-generated_at: "2026-03-30T02:53:38.080Z"
+generated_at: "2026-11-23T21:25:32.336Z"
+status: "active"
 ---
 
 # § 846. Art. 46. Opportunity to obtain witnesses and other evidence in trials by court-martial
@@ -30,3 +31,40 @@ generated_at: "2026-03-30T02:53:38.080Z"
 - **(e)** If a person requests relief from a subpoena or other process under this section (article) on grounds that compliance is unreasonable or oppressive or is prohibited by law, a military judge detailed in accordance with section 826 or 830a of this title (article 26 or 30a) shall review the request and shall—
   - **(1)** order that the subpoena or other process be modified or withdrawn, as appropriate; or
   - **(2)** order the person to comply with the subpoena or other process.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 846 | 50:621. | May 5, 1950, ch. 169, § 1 (Art. 46), 64 Stat. 122 . |
+
+
+Opportunity To Obtain Witnesses and Other Evidence
+
+Subpoena and Other Process Generally
+
+Subpoena and Other Process for Witnesses
+
+Subpoena and Other Process for Evidence.—
+
+In general
+
+Investigative subpoena
+
+Warrant or order for wire or electronic communications
+
+Request for Relief From Subpoena or Other Process
+
+Historical and Revision Notes
+
+846
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 122
+
+Counsel for Accused
+
+Defense Counsel
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 53; [Pub. L. 109–163, div. A, title X, § 1057(a)(6)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3441](https://www.govinfo.gov/link/statute/119/3441); [Pub. L. 113–66, div. A, title XVII, § 1704](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 958](https://www.govinfo.gov/link/statute/127/958); [Pub. L. 113–291, div. A, title V, § 531(b)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3363](https://www.govinfo.gov/link/statute/128/3363); [Pub. L. 114–328, div. E, title LVII, § 5228(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2911](https://www.govinfo.gov/link/statute/130/2911).)*

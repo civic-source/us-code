@@ -3,9 +3,10 @@ title: "Section 364d - Safety substantiation"
 usc_title: 21
 usc_section: "364d"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 364d"
-generated_at: "2026-03-30T02:54:54.263Z"
+generated_at: "2026-11-23T21:25:56.125Z"
+status: "active"
 ---
 
 # § 364d. Safety substantiation
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:54.263Z"
 - **(c)** For purposes of this section:
   - **(1)** The term “adequate substantiation of safety” means tests or studies, research, analyses, or other evidence or information that is considered, among experts qualified by scientific training and experience to evaluate the safety of cosmetic products and their ingredients, sufficient to support a reasonable certainty that a cosmetic product is safe.
   - **(2)** The term “safe” means that the cosmetic product, including any ingredient thereof, is not injurious to users under the conditions of use prescribed in the labeling thereof, or under such conditions of use as are customary or usual. The Secretary shall not consider a cosmetic ingredient or cosmetic product injurious to users solely because it can cause minor and transient reactions or minor and transient skin irritations in some users. In determining for purposes of this section whether a cosmetic product is safe, the Secretary may consider, as appropriate and available, the cumulative or other relevant exposure to the cosmetic product, including any ingredient thereof.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 608, as added [Pub. L. 117–328, div. FF, title III, § 3502](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5854](https://www.govinfo.gov/link/statute/136/5854).)*

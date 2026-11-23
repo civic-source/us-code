@@ -3,9 +3,10 @@ title: "Section 1524 - Education and risk management assistance"
 usc_title: 7
 usc_section: "1524"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1524"
-generated_at: "2026-03-30T02:53:42.324Z"
+generated_at: "2026-11-23T21:25:28.115Z"
+status: "active"
 ---
 
 # § 1524. Education and risk management assistance
@@ -53,3 +54,19 @@ generated_at: "2026-03-30T02:53:42.324Z"
       - **(i)** 50 percent to carry out subparagraphs (A), (B), and (C) of paragraph (2) through the Natural Resources Conservation Service;
       - **(ii)** 10 percent to provide organic certification cost share assistance through the Agricultural Marketing Service; and
       - **(iii)** 40 percent to conduct activities to carry out subparagraph (F) of paragraph (2) through the Risk Management Agency.
+
+Authority
+
+Uses
+
+Payment limitation
+
+Commodity credit corporation.—
+
+In general
+
+Funding
+
+## Source Credit
+
+*(Feb. 16, 1938, ch. 30, title V, § 524, as added [Pub. L. 106–224, title I, § 133](https://www.govinfo.gov/link/plaw/106/public/224), June 20, 2000, [114 Stat. 387](https://www.govinfo.gov/link/statute/114/387); amended [Pub. L. 107–171, title II, § 2501](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 263](https://www.govinfo.gov/link/statute/116/263); [Pub. L. 108–199, div. A, title VII, § 769](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 40](https://www.govinfo.gov/link/statute/118/40); [Pub. L. 110–234, title I, § 1603(g)(3)](https://www.govinfo.gov/link/plaw/110/public/234), title II, § 2801, title VII, § 7511(c)(2), title XII, § 12026, May 22, 2008, [122 Stat. 1011](https://www.govinfo.gov/link/statute/122/1011), 1085, 1267, 1390; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1603(g)(3), title II, § 2801, title VII, § 7511(c)(2), title XII, § 12026, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1739, 1813, 2028, 2152; [Pub. L. 112–55, div. A, title VII, § 716(a)](https://www.govinfo.gov/link/plaw/112/public/55), Nov. 18, 2011, [125 Stat. 582](https://www.govinfo.gov/link/statute/125/582); [Pub. L. 113–79, title I, § 1609(b)(1)](https://www.govinfo.gov/link/plaw/113/public/79), title XI, § 11027(c), Feb. 7, 2014, [128 Stat. 709](https://www.govinfo.gov/link/statute/128/709), 977; [Pub. L. 115–334, title XI, § 11125(a)](https://www.govinfo.gov/link/plaw/115/public/334), title XII, § 12306(b)(3), Dec. 20, 2018, [132 Stat. 4935](https://www.govinfo.gov/link/statute/132/4935), 4969.)*

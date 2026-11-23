@@ -3,9 +3,10 @@ title: "Section 5724d - Transportation and moving expenses for immediate family 
 usc_title: 5
 usc_section: "5724d"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5724d"
-generated_at: "2026-03-30T02:52:56.025Z"
+generated_at: "2026-11-23T21:25:23.296Z"
+status: "active"
 ---
 
 # § 5724d. Transportation and moving expenses for immediate family of certain deceased Federal employees
@@ -25,3 +26,15 @@ generated_at: "2026-03-30T02:52:56.025Z"
     - **(C)** a customs and border protection officer, as defined in section 8331(31); and
     - **(D)** any nuclear materials courier, as defined in section 8331(27); and
   - **(2)** the term “qualified expense”, as used with respect to an immediate family changing its place of residence, means the transportation expenses of the immediate family, the expenses of moving (including transporting, packing, crating, temporarily storing, draying, and unpacking) the household goods and personal effects of such immediate family, not in excess of 18,000 pounds net weight, and, when authorized or approved by the agency head (or designee), the transportation of 1 privately owned motor vehicle.
+
+In General
+
+No Duplicate Payment of Expenses
+
+Definitions
+
+Barack Obama.
+
+## Source Credit
+
+*(Added [Pub. L. 111–178, § 2(a)](https://www.govinfo.gov/link/plaw/111/public/178), June 9, 2010, [124 Stat. 1262](https://www.govinfo.gov/link/statute/124/1262); amended [Pub. L. 116–283, div. C, title XXXI, § 3144](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4387](https://www.govinfo.gov/link/statute/134/4387).)*

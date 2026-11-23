@@ -3,9 +3,10 @@ title: "Section 5220b - Multifamily mortgage resolution program"
 usc_title: 12
 usc_section: "5220b"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5220b"
-generated_at: "2026-03-30T02:53:53.525Z"
+generated_at: "2026-11-23T21:25:37.232Z"
+status: "active"
 ---
 
 # § 5220b. Multifamily mortgage resolution program
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:53.525Z"
     - **(C)** Tax evasion.
   - **(2)** The Secretary shall establish procedures to ensure compliance with this subsection.
   - **(3)** The Secretary shall report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate regarding the implementation of this provision. The report shall also describe the steps taken to implement this subsection.
+
+## Source Credit
+
+*([Pub. L. 111–203, title XIV, § 1481](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2202](https://www.govinfo.gov/link/statute/124/2202).)*

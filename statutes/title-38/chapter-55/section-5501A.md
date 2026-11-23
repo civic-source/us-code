@@ -3,9 +3,10 @@ title: "Section 5501A - Beneficiaries’ rights in mental competence determinati
 usc_title: 38
 usc_section: "5501A"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 5501A"
-generated_at: "2026-03-30T02:55:53.521Z"
+generated_at: "2026-11-23T21:26:16.822Z"
+status: "active"
 ---
 
 # § 5501A. Beneficiaries’ rights in mental competence determinations
@@ -16,3 +17,7 @@ The Secretary may not make an adverse determination concerning the mental capaci
   - **(2)** An opportunity to request a hearing.
   - **(3)** An opportunity to present evidence, including an opinion from a medical professional or other person, on the capacity of the beneficiary to manage monetary benefits paid to or for the beneficiary by the Secretary under this title.
   - **(4)** An opportunity to be represented at no expense to the Government (including by counsel) at any such hearing and to bring a medical professional or other person to provide relevant testimony at any such hearing.
+
+## Source Credit
+
+*(Added [Pub. L. 114–255, div. B, title XIV, § 14017(a)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1307](https://www.govinfo.gov/link/statute/130/1307).)*

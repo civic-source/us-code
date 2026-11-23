@@ -3,9 +3,10 @@ title: "Section 159a - Special procedure for commuter service"
 usc_title: 45
 usc_section: "159a"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 159a"
-generated_at: "2026-03-30T02:55:56.544Z"
+generated_at: "2026-11-23T21:26:19.187Z"
+status: "active"
 ---
 
 # § 159a. Special procedure for commuter service
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:56.544Z"
 - **(h)** From the time a request to establish a board is made under subsection (e) until 60 days after such board makes its report under subsection (g), no change, except by agreement, shall be made by the parties in the conditions out of which the dispute arose.
 - **(i)** If the emergency board selects the final offer submitted by the carrier and, after the expiration of the 60-day period described in subsection (h), the employees of such carrier engage in any work stoppage arising out of the dispute, such employees shall not be eligible during the period of such work stoppage for benefits under the Railroad Unemployment Insurance Act [ 45 U.S.C. 351 et seq.].
 - **(j)** If the emergency board selects the final offer submitted by the employees and, after the expiration of the 60-day period described in subsection (h), the carrier refuses to accept the final offer submitted by the employees and the employees of such carrier engage in any work stoppage arising out of the dispute, the carrier shall not participate in any benefits of any agreement between carriers which is designed to provide benefits to such carriers during a work stoppage.
+
+## Source Credit
+
+*(May 20, 1926, ch. 347, § 9A, as added [Pub. L. 97–35, title XI, § 1157](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 681](https://www.govinfo.gov/link/statute/95/681).)*

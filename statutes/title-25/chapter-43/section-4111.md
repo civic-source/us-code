@@ -3,9 +3,10 @@ title: "Section 4111 - Block grants"
 usc_title: 25
 usc_section: "4111"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4111"
-generated_at: "2026-03-30T02:54:52.858Z"
+generated_at: "2026-11-23T21:25:54.705Z"
+status: "active"
 ---
 
 # § 4111. Block grants
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:54:52.858Z"
   - **(1)** each Indian tribe or tribally designated housing entity shall be considered to be an Executive agency in carrying out any program, service, or other activity under this chapter; and
   - **(2)** each Indian tribe or tribally designated housing entity and each employee of the Indian tribe or tribally designated housing entity shall have access to sources of supply on the same basis as employees of an Executive agency.
 - **(k)** Notwithstanding any other provision of law, with respect to any grant (or portion of a grant) made on behalf of an Indian tribe under this chapter that is intended to benefit 1 Indian tribe, the tribal employment and contract preference laws (including regulations and tribal ordinances) adopted by the Indian tribe that receives the benefit shall apply with respect to the administration of the grant (or portion of a grant).
+
+## Source Credit
+
+*([Pub. L. 104–330, title I, § 101](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4022](https://www.govinfo.gov/link/statute/110/4022); [Pub. L. 105–276, title V, § 595(e)(3)](https://www.govinfo.gov/link/plaw/105/public/276), (4), Oct. 21, 1998, [112 Stat. 2656](https://www.govinfo.gov/link/statute/112/2656), 2657; [Pub. L. 106–568, title X, § 1003(a)](https://www.govinfo.gov/link/plaw/106/public/568), Dec. 27, 2000, [114 Stat. 2925](https://www.govinfo.gov/link/statute/114/2925); [Pub. L. 106–569, title V, § 503(a)](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 2961](https://www.govinfo.gov/link/statute/114/2961); [Pub. L. 107–292, § 4](https://www.govinfo.gov/link/plaw/107/public/292), Nov. 13, 2002, [116 Stat. 2054](https://www.govinfo.gov/link/statute/116/2054); [Pub. L. 110–411, title I, § 101](https://www.govinfo.gov/link/plaw/110/public/411), Oct. 14, 2008, [122 Stat. 4320](https://www.govinfo.gov/link/statute/122/4320).)*

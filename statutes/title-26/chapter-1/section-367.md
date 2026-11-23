@@ -3,9 +3,10 @@ title: "Section 367 - Foreign corporations"
 usc_title: 26
 usc_section: "367"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 367"
-generated_at: "2026-03-30T02:55:27.668Z"
+generated_at: "2026-11-23T21:26:06.153Z"
+status: "active"
 ---
 
 # § 367. Foreign corporations
@@ -56,3 +57,37 @@ generated_at: "2026-03-30T02:55:27.668Z"
 - **(f)** To the extent provided in regulations, if a United States person transfers property to a foreign corporation as paid-in surplus or as a contribution to capital (in a transaction not otherwise described in this section), such transfer shall be treated as a sale or exchange for an amount equal to the fair market value of the property transferred, and the transferor shall recognize as gain the excess of—
   - **(1)** the fair market value of the property so transferred, over
   - **(2)** the adjusted basis (for purposes of determining gain) of such property in the hands of the transferor.
+
+In general
+
+Special rule for transfer of intangibles.—
+
+In general
+
+Special rule for [former] section 936
+
+Subsection
+
+Transitional rule
+
+Transitional rule for increase in gross income test.—
+
+In general
+
+Determination of shortfall
+
+Special rule
+
+In general
+
+Special rule for certain transfers of intangibles.—
+
+In general
+
+Waiver
+
+Ruling request before march 1, 1984
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 119; [Pub. L. 91–681, § 1(a)](https://www.govinfo.gov/link/plaw/91/public/681), Jan. 12, 1971, [84 Stat. 2065](https://www.govinfo.gov/link/statute/84/2065); [Pub. L. 94–455, title X, § 1042(a)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1634](https://www.govinfo.gov/link/statute/90/1634); [Pub. L. 97–248, title II, § 213(d)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 465](https://www.govinfo.gov/link/statute/96/465); [Pub. L. 98–369, div. A, title I, § 131(a)](https://www.govinfo.gov/link/plaw/98/public/369) –(c), July 18, 1984, [98 Stat. 662–664](https://www.govinfo.gov/link/statute/98/662); [Pub. L. 99–514, title VI, § 631(d)(1)](https://www.govinfo.gov/link/plaw/99/public/514), title XII, § 1231(e)(2), title XVIII, § 1810(g)(1), (4), Oct. 22, 1986, [100 Stat. 2272](https://www.govinfo.gov/link/statute/100/2272), 2563, 2828, 2829; [Pub. L. 100–647, title I, § 1006(e)(13)(A)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3402](https://www.govinfo.gov/link/statute/102/3402); [Pub. L. 101–508, title XI, § 11702(a)(1)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–514](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 105–34, title XI, § 1131(b)(2)](https://www.govinfo.gov/link/plaw/105/public/34), (4), (5)(A), Aug. 5, 1997, [111 Stat. 979](https://www.govinfo.gov/link/statute/111/979), 980; [Pub. L. 106–170, title V, § 532(c)(1)(C)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1930](https://www.govinfo.gov/link/statute/113/1930); [Pub. L. 108–357, title IV, § 406(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1498](https://www.govinfo.gov/link/statute/118/1498); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 14102(e)(1), (2), 14221(b)(1), Dec. 22, 2017, [131 Stat. 2194](https://www.govinfo.gov/link/statute/131/2194), 2218; [Pub. L. 115–141, div. U, title IV, § 401(d)(1)(D)(viii)(I)](https://www.govinfo.gov/link/plaw/115/public/141), (II), Mar. 23, 2018, [132 Stat. 1207](https://www.govinfo.gov/link/statute/132/1207).)*

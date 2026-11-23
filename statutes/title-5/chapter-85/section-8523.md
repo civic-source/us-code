@@ -3,9 +3,10 @@ title: "Section 8523 - Dissemination of information"
 usc_title: 5
 usc_section: "8523"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8523"
-generated_at: "2026-03-30T02:52:56.064Z"
+generated_at: "2026-11-23T21:25:23.440Z"
+status: "active"
 ---
 
 # § 8523. Dissemination of information
@@ -17,3 +18,22 @@ generated_at: "2026-03-30T02:52:56.064Z"
     - **(B)** the periods of Federal service; and
     - **(C)** the pay grade of the individual at the time of his latest discharge or release from Federal service.
   - **(2)** The schedules of pay and allowances prescribed by the Secretary under section 8521(a)(2) of this title .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 42 U.S.C. 1371(d) . | Aug. 28, 1958 , Pub. L. 85–848, § 3 “Sec. 1511(d)”, 72 Stat. 1088 . |
+
+
+Historical and Revision Notes
+
+42 U.S.C. 1371(d)
+
+Aug. 28, 1958
+
+Pub. L. 85–848, § 3
+
+72 Stat. 1088
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 591](https://www.govinfo.gov/link/statute/80/591).)*

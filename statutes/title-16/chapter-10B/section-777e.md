@@ -3,9 +3,10 @@ title: "Section 777e - Submission and approval of plans and projects"
 usc_title: 16
 usc_section: "777e"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 777e"
-generated_at: "2026-03-30T02:54:22.908Z"
+generated_at: "2026-11-23T21:25:51.751Z"
+status: "active"
 ---
 
 # § 777e. Submission and approval of plans and projects
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:22.908Z"
 - **(b)** If the State elects to avail itself of the benefits of this chapter by preparing a comprehensive fish and wildlife plan under option (1) of subsection (a) of this section, then the term “project” may be defined for the purpose of this chapter as a fishery program, all other definitions notwithstanding.
 - **(c)** Administrative costs in the form of overhead or indirect costs for services provided by State central service activities outside of the State fish and game department charged against programs or projects supported by funds made available under this chapter shall not exceed in any one fiscal year 3 per centum of the annual apportionment to the State.
 - **(d)** The Secretary of the Interior may enter into agreements to finance up to 75 per centum of the initial costs of the acquisition of lands or interests therein and the construction of structures or facilities from appropriations currently available for the purposes of this chapter; and to agree to finance up to 75 per centum of the remaining costs over such a period of time as the Secretary may consider necessary. The liability of the United States in any such agreement is contingent upon the continued availability of funds for the purposes of this chapter.
+
+## Source Credit
+
+*(Aug. 9, 1950, ch. 658, § 6, [64 Stat. 432](https://www.govinfo.gov/link/statute/64/432); [Pub. L. 91–503, title II, § 202](https://www.govinfo.gov/link/plaw/91/public/503), Oct. 23, 1970, [84 Stat. 1102](https://www.govinfo.gov/link/statute/84/1102); [Pub. L. 98–369, div. A, title X, § 1014(a)(5)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1016](https://www.govinfo.gov/link/statute/98/1016); [Pub. L. 114–94, div. A, title X, § 10001(c)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1621](https://www.govinfo.gov/link/statute/129/1621).)*

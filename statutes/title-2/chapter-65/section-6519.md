@@ -3,9 +3,10 @@ title: "Section 6519 - McCain-Mansfield and SFC Sean Cooley and SPC Christopher 
 usc_title: 2
 usc_section: "6519"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 6519"
-generated_at: "2026-03-30T02:53:04.842Z"
+generated_at: "2026-11-23T21:25:21.358Z"
+status: "active"
 ---
 
 # § 6519. McCain-Mansfield and SFC Sean Cooley and SPC Christopher Horton Congressional Gold Star Family Fellowships Programs
@@ -24,3 +25,11 @@ generated_at: "2026-03-30T02:53:04.842Z"
   - **(2)** annual reports regarding the costs of the Fellowships Programs paid from the Fund.
 - **(e)** There are authorized to be appropriated to the Fund for fiscal year 2023, and each fiscal year thereafter, such sums as are necessary for the compensation of fellows under the Fellowships Programs during the fiscal year and for the administration of the Fellowships Programs.
 - **(f)** The payment of compensation to any individual serving in a fellowship under the Fellowships Programs by the Sergeant at Arms shall not be included for purposes of any limitation on staffing levels of the Office of the Sergeant at Arms.
+
+Contingent Expenses of the Senate
+
+sergeant at arms fellowships fund
+
+## Source Credit
+
+*([Pub. L. 117–328, div. I, title I, § 102](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 4917](https://www.govinfo.gov/link/statute/136/4917).)*

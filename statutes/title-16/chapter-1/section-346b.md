@@ -3,12 +3,17 @@ title: "Section 346b - Consolidation of Zion National Park and Zion National Mon
 usc_title: 16
 usc_section: "346b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 346b"
-generated_at: "2026-03-30T02:54:22.749Z"
+generated_at: "2026-11-23T21:25:51.414Z"
+status: "active"
 ---
 
 # § 346b. Consolidation of Zion National Park and Zion National Monument
 
 For the purpose of combining Zion National Park and Zion National Monument, Utah, in a single National park unit, in the interest of efficient administration and to preserve adequately the features thereof, Zion National Park on and after July 11, 1956 , shall comprise the present area of the National Park and the present area of the Zion National Monument: Provided , That the enactment of sections 346b to 346d of this title shall not affect adversely any valid rights or privileges heretofore existing within the areas hereby established as the Zion National Park.
 
+
+## Source Credit
+
+*(July 11, 1956, ch. 568, § 1, [70 Stat. 527](https://www.govinfo.gov/link/statute/70/527).)*

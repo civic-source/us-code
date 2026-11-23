@@ -3,9 +3,10 @@ title: "Section 6371g - Allocation of grants"
 usc_title: 42
 usc_section: "6371g"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6371g"
-generated_at: "2026-03-30T02:56:11.258Z"
+generated_at: "2026-11-23T21:26:32.945Z"
+status: "active"
 ---
 
 # § 6371g. Allocation of grants
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.258Z"
 - **(c)** Not later than 60 days after November 9, 1978 , the Secretary shall prescribe rules governing the allocation among the States of funds for grants for preliminary energy audits and energy audits. Such rules shall take into account the population and climate of such States and such other factors as he may deem appropriate.
 - **(d)** The Secretary shall prescribe rules limiting the amount of funds allocated to a State which may be expended for administrative expenses by such State.
 - **(e)** Funds allocated for projects in any States for a fiscal year under this section but not obli­gated in such fiscal year shall be available for reallocation under subsection (a) of this section in the subsequent fiscal year.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 398](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 95–619, title III, § 302(a)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3246](https://www.govinfo.gov/link/statute/92/3246); amended [Pub. L. 98–454, title VI, § 601(e)](https://www.govinfo.gov/link/plaw/98/public/454), Oct. 5, 1984, [98 Stat. 1736](https://www.govinfo.gov/link/statute/98/1736).)*

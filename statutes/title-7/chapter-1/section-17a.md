@@ -3,12 +3,17 @@ title: "Section 17a - Separability of 1936 amendment"
 usc_title: 7
 usc_section: "17a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 17a"
-generated_at: "2026-03-30T02:53:42.247Z"
+generated_at: "2026-11-23T21:25:27.864Z"
+status: "active"
 ---
 
 # § 17a. Separability of 1936 amendment
 
 If any provision of the act of June 15, 1936, ch. 545 , 49 Stat. 1491 , which amends this chapter, or the application thereof to any person or circumstances is held invalid, the provisions of the section of this chapter which is amended by such provision of said act shall apply to such person or circumstances. No proceeding shall be abated by reason of any amendment to this chapter made by said act but shall be disposed of pursuant to said act.
 
+
+## Source Credit
+
+*(June 15, 1936, ch. 545, § 12, [49 Stat. 1501](https://www.govinfo.gov/link/statute/49/1501).)*

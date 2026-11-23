@@ -3,9 +3,10 @@ title: "Section 2106 - Taxable estate"
 usc_title: 26
 usc_section: "2106"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 2106"
-generated_at: "2026-03-30T02:55:27.783Z"
+generated_at: "2026-11-23T21:26:06.533Z"
+status: "active"
 ---
 
 # § 2106. Taxable estate
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:27.783Z"
   - **(3)** The amount which would be deductible with respect to property situated in the United States at the time of the decedent’s death under the principles of section 2056.
   - **(4)** The amount which bears the same ratio to the State death taxes as the value of the property, as determined for purposes of this chapter, upon which State death taxes were paid and which is included in the gross estate under section 2103 bears to the value of the total gross estate under section 2103. For purposes of this paragraph, the term “State death taxes” means the taxes described in section 2058(a).
 - **(b)** No deduction shall be allowed under paragraphs (1) and (2) of subsection (a) in the case of a nonresident not a citizen of the United States unless the executor includes in the return required to be filed under section 6018 the value at the time of his death of that part of the gross estate of such nonresident not situated in the United States.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 398; [Pub. L. 85–866, title I, § 30(d)](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1631](https://www.govinfo.gov/link/statute/72/1631); [Pub. L. 86–779, § 4(c)](https://www.govinfo.gov/link/plaw/86/public/779), Sept. 14, 1960, [74 Stat. 1000](https://www.govinfo.gov/link/statute/74/1000); [Pub. L. 89–809, title I, § 108(e)](https://www.govinfo.gov/link/plaw/89/public/809), Nov. 13, 1966, [80 Stat. 1572](https://www.govinfo.gov/link/statute/80/1572); [Pub. L. 91–172, title II, § 201(d)(2)](https://www.govinfo.gov/link/plaw/91/public/172), (4)(B), Dec. 30, 1969, [83 Stat. 561](https://www.govinfo.gov/link/statute/83/561); [Pub. L. 94–455, title XIII, § 1307(d)(1)(B)(iii)](https://www.govinfo.gov/link/plaw/94/public/455), (C), title XIX, § 1902(a)(5), (12)(A), title XX, § 2001(c)(1)(F), Oct. 4, 1976, [90 Stat. 1727](https://www.govinfo.gov/link/statute/90/1727), 1805, 1852; [Pub. L. 97–473, title II, § 202(b)(6)](https://www.govinfo.gov/link/plaw/97/public/473), Jan. 14, 1983, [96 Stat. 2610](https://www.govinfo.gov/link/statute/96/2610); [Pub. L. 99–514, title XIV, § 1422(c)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2717](https://www.govinfo.gov/link/statute/100/2717); [Pub. L. 100–203, title X, § 10711(a)(4)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–464](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title V, § 5033(c)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3672](https://www.govinfo.gov/link/statute/102/3672); [Pub. L. 101–239, title VII, § 7815(d)(3)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2415](https://www.govinfo.gov/link/statute/103/2415); [Pub. L. 107–16, title V, § 532(c)(8)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 75](https://www.govinfo.gov/link/statute/115/75); [Pub. L. 113–295, div. A, title II, § 221(a)(95)(A)(ii)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4051](https://www.govinfo.gov/link/statute/128/4051); [Pub. L. 115–141, div. U, title IV, § 401(a)(203)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1194](https://www.govinfo.gov/link/statute/132/1194).)*

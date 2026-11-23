@@ -3,9 +3,10 @@ title: "Section 43 - Memorandum of agreement"
 usc_title: 16
 usc_section: "43"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 43"
-generated_at: "2026-03-30T02:54:22.841Z"
+generated_at: "2026-11-23T21:25:51.620Z"
+status: "active"
 ---
 
 # § 460lll–43. Memorandum of agreement
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:22.841Z"
   - **(1)** The memorandum of understanding may provide for a transition team consisting of the Tennessee Valley Authority and Forest Service employees.
   - **(2)** The team may continue in existence after the date of transfer.
   - **(3)** The Tennessee Valley Authority and the Forest Service shall pay personnel costs of their respective team members.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. A, § 101(e) [title V, § 543]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–231](https://www.govinfo.gov/link/statute/112/2681), 2681–318.)*

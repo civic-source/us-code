@@ -3,9 +3,10 @@ title: "Section 8143 - Specific enforcement"
 usc_title: 22
 usc_section: "8143"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8143"
-generated_at: "2026-03-30T02:55:05.449Z"
+generated_at: "2026-11-23T21:25:58.734Z"
+status: "active"
 ---
 
 # § 8143. Specific enforcement
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.449Z"
     - **(A)** in the case of a civil action described in paragraph (1) of such subsection, in the United States district court for the judicial district in which any act, omission, or transaction constituting a violation of section 8124 of this title or section 8141 of this title occurred or in which the defendant is found or transacts business; or
     - **(B)** in the case of a civil action described in paragraph (2) of such subsection, in the United States district court for the judicial district in which the defendant is found or transacts business.
   - **(2)** In any such civil action, process shall be served on a defendant wherever the defendant may reside or may be found.
+
+## Source Credit
+
+*([Pub. L. 109–401, title II, § 243](https://www.govinfo.gov/link/plaw/109/public/401), Dec. 18, 2006, [120 Stat. 2749](https://www.govinfo.gov/link/statute/120/2749).)*

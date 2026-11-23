@@ -3,9 +3,10 @@ title: "Section 3302 - Requirements for purchase of property and services pursua
 usc_title: 41
 usc_section: "3302"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 3302"
-generated_at: "2026-03-30T02:55:55.805Z"
+generated_at: "2026-11-23T21:26:18.802Z"
+status: "active"
 ---
 
 # § 3302. Requirements for purchase of property and services pursuant to multiple award contracts
@@ -40,3 +41,56 @@ generated_at: "2026-03-30T02:55:55.805Z"
   - **(2)** This subsection does not require the public availability of information that is exempt from public disclosure under section 552(b) of title 5 .
 - **(e)** The regulations required by subsection (b) shall apply to all individual purchases of property or services that are made under multiple award contracts on or after the effective date of the regulations, without regard to whether the multiple award contracts were entered into before, on, or after the effective date.
 - **(f)** The regulations required by subsection (b) shall not apply to individual purchases for commercial leasing services that are made on a no cost basis and made under a multiple award contract awarded in accordance with the requirements for full and open competition.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3302 | 41:253h note. | Pub. L. 110–417 , [div. A], title VIII, § 863(a)–(e), Oct. 14, 2008 , 122 Stat. 4547 . |
+
+
+Definitions
+
+Executive agency
+
+Individual purchase
+
+Multiple award contract
+
+Sole source task or delivery order
+
+Regulations Required
+
+Content of Regulations.—
+
+In general
+
+Competitive basis procedures
+
+Exception to notice requirement.—
+
+In general
+
+Limitation on exception
+
+Public Notice Requirements Related to Sole Source Task or Delivery Orders.—
+
+Public notice required
+
+Exemption
+
+Applicability
+
+Commercial Leasing Services
+
+Historical and Revision Notes
+
+3302
+
+Pub. L. 110–417
+
+Oct. 14, 2008
+
+122 Stat. 4547
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3746](https://www.govinfo.gov/link/statute/124/3746); [Pub. L. 111–383, div. A, title X, § 1075(e)(14)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4375](https://www.govinfo.gov/link/statute/124/4375); [Pub. L. 116–92, div. A, title VIII, § 893(b)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1540](https://www.govinfo.gov/link/statute/133/1540); [Pub. L. 117–81, div. A, title XVII, § 1702(h)(12)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2158](https://www.govinfo.gov/link/statute/135/2158).)*

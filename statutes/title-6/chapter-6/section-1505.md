@@ -3,9 +3,10 @@ title: "Section 1505 - Protection from liability"
 usc_title: 6
 usc_section: "1505"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1505"
-generated_at: "2026-03-30T02:53:09.510Z"
+generated_at: "2026-11-23T21:25:25.879Z"
+status: "active"
 ---
 
 # § 1505. Protection from liability
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:09.510Z"
     - **(A)** a duty to share a cyber threat indicator or defensive measure; or
     - **(B)** a duty to warn or act based on the receipt of a cyber threat indicator or defensive measure; or
   - **(2)** to undermine or limit the availability of otherwise applicable common law or statutory defenses.
+
+## Source Credit
+
+*([Pub. L. 114–113, div. N, title I, § 106](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2950](https://www.govinfo.gov/link/statute/129/2950).)*

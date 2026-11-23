@@ -3,9 +3,10 @@ title: "Section 853A - Credits from tax credit bonds allowed to shareholders"
 usc_title: 26
 usc_section: "853A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 853A"
-generated_at: "2026-03-30T02:55:27.733Z"
+generated_at: "2026-11-23T21:26:06.397Z"
+status: "active"
 ---
 
 # § 853A. Credits from tax credit bonds allowed to shareholders
@@ -35,3 +36,9 @@ generated_at: "2026-03-30T02:55:27.733Z"
       - **(ii)** in the case of a build America bond (as defined in section 54AA(d)), 1 any interest payment date (as defined in section 54AA(e)). 1
   - **(2)** If the ownership of a tax credit bond is separated from the credit with respect to such bond, subsection (a) shall be applied by reference to the instruments evidencing the entitlement to the credit rather than the tax credit bond.
 - **(f)** The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this section, including methods for determining a shareholder’s proportionate share of credits.
+
+Notice to Shareholders
+
+## Source Credit
+
+*(Added [Pub. L. 111–5, div. B, title I, § 1541(a)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 360](https://www.govinfo.gov/link/statute/123/360); amended [Pub. L. 111–325, title III, § 301(d)](https://www.govinfo.gov/link/plaw/111/public/325), Dec. 22, 2010, [124 Stat. 3544](https://www.govinfo.gov/link/statute/124/3544); [Pub. L. 113–295, div. A, title II, § 209(h)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4029](https://www.govinfo.gov/link/statute/128/4029).)*

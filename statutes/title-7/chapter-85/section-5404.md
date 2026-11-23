@@ -3,9 +3,10 @@ title: "Section 5404 - Good Neighbor Environmental Board"
 usc_title: 7
 usc_section: "5404"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 5404"
-generated_at: "2026-03-30T02:53:42.414Z"
+generated_at: "2026-11-23T21:25:28.361Z"
+status: "active"
 ---
 
 # § 5404. Good Neighbor Environmental Board
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:42.414Z"
   - **(2)** The Board shall—
     - **(A)** transmit to each member of the Board a copy of any report to be submitted pursuant to paragraph (1) at least 14 days before its submission, and
     - **(B)** allow each member of the Board to have 14 days within which to prepare and submit supplemental views with respect to the recommendations of the Board for inclusion in such report.
+
+## Source Credit
+
+*([Pub. L. 102–532, § 6](https://www.govinfo.gov/link/plaw/102/public/532), Oct. 27, 1992, [106 Stat. 3513](https://www.govinfo.gov/link/statute/106/3513).)*

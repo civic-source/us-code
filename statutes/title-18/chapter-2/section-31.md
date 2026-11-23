@@ -3,9 +3,10 @@ title: "Section 31 - Definitions"
 usc_title: 18
 usc_section: "31"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 31"
-generated_at: "2026-03-30T02:54:16.456Z"
+generated_at: "2026-11-23T21:25:43.936Z"
+status: "active"
 ---
 
 # § 31. Definitions
@@ -26,3 +27,33 @@ generated_at: "2026-03-30T02:54:16.456Z"
   - **(9)** The term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
   - **(10)** The term “used for commercial purposes” means the carriage of persons or property for any fare, fee, rate, charge or other consideration, or directly or indirectly in connection with any business, or other undertaking intended for profit.
 - **(b)** In this chapter, the terms “aircraft engine”, “air navigation facility”, “appliance”, “civil aircraft”, “foreign air commerce”, “interstate air commerce”, “landing area”, “overseas air commerce”, “propeller”, “spare part”, and “special aircraft jurisdiction of the United States” have the meanings given those terms in sections 40102(a) and 46501 of title 49.
+
+Definitions
+
+Aircraft
+
+Aviation quality
+
+Destructive substance
+
+In flight
+
+In service
+
+Motor vehicle
+
+Part
+
+Space vehicle
+
+State
+
+Used for commercial purposes
+
+Terms Defined in Other Law
+
+“The Congress hereby finds that—
+
+## Source Credit
+
+*(Added July 14, 1956, ch. 595, § 1, [70 Stat. 538](https://www.govinfo.gov/link/statute/70/538); amended [Pub. L. 98–473, title II](https://www.govinfo.gov/link/plaw/98/public/473), §§ 1010, 2013(a), Oct. 12, 1984, [98 Stat. 2141](https://www.govinfo.gov/link/statute/98/2141), 2187; [Pub. L. 100–690, title VII, § 7015](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4395](https://www.govinfo.gov/link/statute/102/4395); [Pub. L. 103–272, § 5(e)(1)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1373](https://www.govinfo.gov/link/statute/108/1373); [Pub. L. 106–181, title V, § 506(b)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 136](https://www.govinfo.gov/link/statute/114/136).)*

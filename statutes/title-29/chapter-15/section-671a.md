@@ -3,9 +3,10 @@ title: "Section 671a - Workers’ family protection"
 usc_title: 29
 usc_section: "671a"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 671a"
-generated_at: "2026-03-30T02:55:18.689Z"
+generated_at: "2026-11-23T21:26:02.193Z"
+status: "active"
 ---
 
 # § 671a. Workers’ family protection
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:55:18.689Z"
     - **(B)** prepare and submit to the appropriate committees of Congress a report concerning the result of such determination.
   - **(2)** If the Secretary of Labor determines that additional regulations or standards are needed under paragraph (1), the Secretary shall promulgate, pursuant to the Secretary’s authority under the Occupational Safety and Health Act of 1970 ( 29 U.S.C. 651 et seq.), such regulations or standards as determined to be appropriate not later than 3 years after such determination.
 - **(e)** There are authorized to be appropriated from sums otherwise authorized to be appropriated, for each fiscal year such sums as may be necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 102–522, title II, § 209](https://www.govinfo.gov/link/plaw/102/public/522), Oct. 26, 1992, [106 Stat. 3420](https://www.govinfo.gov/link/statute/106/3420).)*

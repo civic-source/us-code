@@ -3,12 +3,17 @@ title: "Section 159 - Unauthorized use of legend; penalty"
 usc_title: 15
 usc_section: "159"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 159"
-generated_at: "2026-03-30T02:54:08.075Z"
+generated_at: "2026-11-23T21:25:39.608Z"
+status: "active"
 ---
 
 # § 159. Unauthorized use of legend; penalty
 
 No individual, partnership, or association, or corporation not incorporated under this chapter or under a law of the United States, shall engage in business within China under a name in connection with which the legend “Federal Inc. U.S.A.” is used. Any person violating this section shall, upon conviction thereof, be fined not more than $1,000 for each violation.
 
+
+## Source Credit
+
+*(Sept. 19, 1922, ch. 346, § 19, [42 Stat. 855](https://www.govinfo.gov/link/statute/42/855).)*

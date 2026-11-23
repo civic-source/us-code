@@ -3,9 +3,10 @@ title: "Section 6804a - Availability of Federal, State, and local recreation pas
 usc_title: 16
 usc_section: "6804a"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6804a"
-generated_at: "2026-03-30T02:54:23.069Z"
+generated_at: "2026-11-23T21:25:52.053Z"
+status: "active"
 ---
 
 # § 6804a. Availability of Federal, State, and local recreation passes
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:23.069Z"
     - **(A)** funds from the sale of State or local passes are transferred to the appropriate State agency or county government;
     - **(B)** funds from the sale of Federal passes are transferred to the appropriate Federal agency; and
     - **(C)** fund transfers are completed by the end of a fiscal year for all pass sales occurring during the fiscal year.
+
+## Source Credit
+
+*([Pub. L. 108–447, div. J, title VIII, § 805A](https://www.govinfo.gov/link/plaw/108/public/447), as added [Pub. L. 118–234, title III, § 321(a)](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2909](https://www.govinfo.gov/link/statute/138/2909).)*

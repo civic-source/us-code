@@ -3,9 +3,10 @@ title: "Section 2394b - HELP Commission"
 usc_title: 22
 usc_section: "2394b"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2394b"
-generated_at: "2026-03-30T02:55:05.363Z"
+generated_at: "2026-11-23T21:25:58.486Z"
+status: "active"
 ---
 
 # § 2394b. HELP Commission
@@ -106,3 +107,9 @@ generated_at: "2026-03-30T02:55:05.363Z"
     - **(I)** to promote peace and reconciliation or prevention of conflict;
     - **(J)** to improve the technical capacities of governments to reduce production of and demand for illicit narcotics; and
     - **(K)** to otherwise promote through bilateral foreign economic assistance the national objectives of the United States.
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 108–199, div. B, title VI, § 637](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 101](https://www.govinfo.gov/link/statute/118/101); [Pub. L. 117–286, § 4(a)(167)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4324](https://www.govinfo.gov/link/statute/136/4324).)*

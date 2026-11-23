@@ -3,9 +3,10 @@ title: "Section 12 - Authority to assess and use animal drug fees"
 usc_title: 21
 usc_section: "12"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 12"
-generated_at: "2026-03-30T02:54:54.269Z"
+generated_at: "2026-11-23T21:25:56.148Z"
+status: "active"
 ---
 
 # § 379j–12. Authority to assess and use animal drug fees
@@ -123,3 +124,13 @@ generated_at: "2026-03-30T02:54:54.269Z"
 - **(k)** The Secretary shall—
   - **(1)** to the extent practicable, segregate the review of abbreviated new animal drug applications from the process for the review of animal drug applications; and
   - **(2)** adopt other administrative procedures to ensure that review times of abbreviated new animal drug applications do not increase from their current level due to activities under the user fee program.
+
+Compounded basis
+
+In general
+
+Certain manufacturers
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 740, as added [Pub. L. 108–130, § 3](https://www.govinfo.gov/link/plaw/108/public/130), Nov. 18, 2003, [117 Stat. 1363](https://www.govinfo.gov/link/statute/117/1363); amended [Pub. L. 110–316, title I, § 103](https://www.govinfo.gov/link/plaw/110/public/316), Aug. 14, 2008, [122 Stat. 3510](https://www.govinfo.gov/link/statute/122/3510); [Pub. L. 113–14, title I, § 103](https://www.govinfo.gov/link/plaw/113/public/14), June 13, 2013, [127 Stat. 454](https://www.govinfo.gov/link/statute/127/454); [Pub. L. 115–52, title I, § 102(a)(2)](https://www.govinfo.gov/link/plaw/115/public/52), Aug. 18, 2017, [131 Stat. 1008](https://www.govinfo.gov/link/statute/131/1008); [Pub. L. 115–234, title I, § 103](https://www.govinfo.gov/link/plaw/115/public/234), title III, § 304(b), Aug. 14, 2018, [132 Stat. 2428](https://www.govinfo.gov/link/statute/132/2428), 2438; [Pub. L. 118–15, div. B, title III, § 2303](https://www.govinfo.gov/link/plaw/118/public/15), Sept. 30, 2023, [137 Stat. 87](https://www.govinfo.gov/link/statute/137/87).)*

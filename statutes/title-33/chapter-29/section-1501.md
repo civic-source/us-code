@@ -3,9 +3,10 @@ title: "Section 1501 - Congressional declaration of policy"
 usc_title: 33
 usc_section: "1501"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1501"
-generated_at: "2026-03-30T02:55:41.107Z"
+generated_at: "2026-11-23T21:26:11.407Z"
+status: "active"
 ---
 
 # § 1501. Congressional declaration of policy
@@ -18,3 +19,13 @@ generated_at: "2026-03-30T02:55:41.107Z"
   - **(5)** to promote the construction and operation of deepwater ports as a safe and effective means of importing oil or natural gas into the United States and transporting oil or natural gas from the outer Continental Shelf while minimizing tanker traffic and the risks associated with that traffic; and
   - **(6)** to promote oil or natural gas production on the outer Continental Shelf by affording an economic and safe means of transportation of outer Continental Shelf oil or natural gas to the United States mainland.
 - **(b)** Nothing in this chapter affects the legal status of the high seas, the superjacent airspace, or the seabed and subsoil, including the Continental Shelf.
+
+Purposes
+
+Effect of chapter
+
+“The purposes of this title [see Short Title of 1996 Amendment note above] are to—
+
+## Source Credit
+
+*([Pub. L. 93–627, § 2](https://www.govinfo.gov/link/plaw/93/public/627), Jan. 3, 1975, [88 Stat. 2126](https://www.govinfo.gov/link/statute/88/2126); [Pub. L. 104–324, title V, § 502(b)](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3925](https://www.govinfo.gov/link/statute/110/3925); [Pub. L. 107–295, title I, § 106(a)(1)](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2086](https://www.govinfo.gov/link/statute/116/2086); [Pub. L. 118–31, div. C, title XXXV, § 3514(k)(1)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 812](https://www.govinfo.gov/link/statute/137/812).)*

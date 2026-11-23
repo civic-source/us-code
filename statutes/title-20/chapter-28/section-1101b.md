@@ -3,9 +3,10 @@ title: "Section 1101b - Authorized activities"
 usc_title: 20
 usc_section: "1101b"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1101b"
-generated_at: "2026-03-30T02:54:48.141Z"
+generated_at: "2026-11-23T21:25:47.230Z"
+status: "active"
 ---
 
 # § 1101b. Authorized activities
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:48.141Z"
   - **(1)** A Hispanic-serving institution may not use more than 20 percent of the grant funds provided under this subchapter for any fiscal year for establishing or improving an endowment fund.
   - **(2)** A Hispanic-serving institution that uses any portion of the grant funds provided under this subchapter for any fiscal year for establishing or improving an endowment fund shall provide from non-Federal funds an amount equal to or greater than the portion.
   - **(3)** The provisions of part C of subchapter III regarding the establishment or increase of an endowment fund, that the Secretary determines are not inconsistent with this subsection, shall apply to funds used under paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 89–329, title V, § 503](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title V, § 501](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1768](https://www.govinfo.gov/link/statute/112/1768); amended [Pub. L. 110–315, title V, § 501](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3331](https://www.govinfo.gov/link/statute/122/3331).)*

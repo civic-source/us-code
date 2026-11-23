@@ -3,9 +3,10 @@ title: "Section 334 - Limitation on revision of equal employment opportunity reg
 usc_title: 47
 usc_section: "334"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 334"
-generated_at: "2026-03-30T02:56:24.509Z"
+generated_at: "2026-11-23T21:26:35.997Z"
+status: "active"
 ---
 
 # § 334. Limitation on revision of equal employment opportunity regulations
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:24.509Z"
   - **(2)** the forms used by such licensees and permittees to report pertinent employment data to the Commission.
 - **(b)** The Commission shall revise the regulations described in subsection (a) to require a midterm review of television broadcast station licensees’ employment practices and to require the Commission to inform such licensees of necessary improvements in recruitment practices identified as a consequence of such review.
 - **(c)** The Commission may revise the regulations described in subsection (a) to make nonsubstantive technical or clerical revisions in such regulations as necessary to reflect changes in technology, terminology, or Commission organization.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 334, as added [Pub. L. 102–385, § 22(f)](https://www.govinfo.gov/link/plaw/102/public/385), Oct. 5, 1992, [106 Stat. 1499](https://www.govinfo.gov/link/statute/106/1499).)*

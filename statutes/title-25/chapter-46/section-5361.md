@@ -3,9 +3,10 @@ title: "Section 5361 - Definitions"
 usc_title: 25
 usc_section: "5361"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5361"
-generated_at: "2026-03-30T02:54:52.867Z"
+generated_at: "2026-11-23T21:25:54.728Z"
+status: "active"
 ---
 
 # § 5361. Definitions
@@ -32,3 +33,13 @@ In this subchapter:
   - **(13)** The term “Tribal water rights settlement” means any settlement, compact, or other agreement expressly ratified or approved by an Act of Congress that—
     - **(A)** includes an Indian Tribe and the United States as parties; and
     - **(B)** quantifies or otherwise defines any water right of the Indian Tribe.
+
+“Nothing in this Act [see Short Title of 2020 Amendment note set out under section 5301 of this title ], or the amendments made by this Act, shall be construed—
+
+“Congress finds that—
+
+“It is the policy of this title [enacting this subchapter] to permanently establish and implement tribal self-governance—
+
+## Source Credit
+
+*([Pub. L. 93–638, title IV, § 401](https://www.govinfo.gov/link/plaw/93/public/638), as added [Pub. L. 103–413, title II, § 204](https://www.govinfo.gov/link/plaw/103/public/413), Oct. 25, 1994, [108 Stat. 4271](https://www.govinfo.gov/link/statute/108/4271); [Pub. L. 116–180, title I, § 101(b)](https://www.govinfo.gov/link/plaw/116/public/180), Oct. 21, 2020, [134 Stat. 858](https://www.govinfo.gov/link/statute/134/858).)*

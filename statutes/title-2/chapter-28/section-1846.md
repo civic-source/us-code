@@ -3,9 +3,10 @@ title: "Section 1846 - Exemptions"
 usc_title: 2
 usc_section: "1846"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1846"
-generated_at: "2026-03-30T02:53:04.818Z"
+generated_at: "2026-11-23T21:25:21.247Z"
+status: "active"
 ---
 
 # § 1846. Exemptions
@@ -16,3 +17,7 @@ Notwithstanding any other provision of sections 1841 to 1846 of this title, the 
   - **(2)** in accordance with subchapter IV of chapter 53 of title 5, relating to prevailing rate pay systems;
   - **(3)** at per hour or per diem rates in accordance with section 3 of the Legislative Pay Act of 1929, as amended ( 46 Stat. 38 ; 55 Stat. 615 ), relating to employees performing professional and technical services for the Architect of the Capitol in connection with construction projects and employees under the Office of the Architect of the Capitol whose tenure of employment is temporary or of uncertain duration; or
   - **(4)** in accordance with prevailing rates under authority of sections 2042 to 2047 of this title, or section 208 of the First Supplemental Civil Functions Appropriation Act, 1941 ( 54 Stat. 1056 ; Public, No. 812, Seventy-sixth Congress), relating to the duties of the Architect of the Capitol with respect to the House of Representatives Restaurant.
+
+## Source Credit
+
+*([Pub. L. 91–510, title IV, § 486](https://www.govinfo.gov/link/plaw/91/public/510), Oct. 26, 1970, [84 Stat. 1197](https://www.govinfo.gov/link/statute/84/1197).)*

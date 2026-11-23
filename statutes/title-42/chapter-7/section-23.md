@@ -3,9 +3,10 @@ title: "Section 23 - Payments to Medicare+Choice organizations"
 usc_title: 42
 usc_section: "23"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 23"
-generated_at: "2026-03-30T02:56:10.974Z"
+generated_at: "2026-11-23T21:26:31.532Z"
+status: "active"
 ---
 
 # § 1395w–23. Payments to Medicare+Choice organizations
@@ -459,3 +460,235 @@ generated_at: "2026-03-30T02:56:10.974Z"
   - **(7)**
     - **(A)** The Secretary shall determine the feasibility of requiring reporting of data under section 1395w–22(e) of this title for, and applying under this subsection, quality measures at the plan level for all MA plans under this part.
     - **(B)** After making a determination under subparagraph (A), the Secretary shall consider requiring such reporting and applying such quality measures at the plan level as described in such subparagraph 3
+
+(aa) Full-benefit dual eligible individuals (as defined in section 1396u–5(c)(6) of this title ).
+
+(bb) Such individuals not described in item (aa).
+
+Specified percent
+
+Medicare hospital expenditure proportion
+
+Application of payment adjustment
+
+(aa) for 2012, by 1.5 percentage points;
+
+(bb) for 2013, by 2.5 percentage points; and
+
+(cc) for 2014 or a subsequent year, by 3.5 percentage points.
+
+Requirement to apply in 2011 through 2013
+
+Authority to apply in 2014 and subsequent years
+
+Urban areas.—
+
+In general
+
+CBSA covering more than one state
+
+Rural areas
+
+Refinements to service areas
+
+Additional authority to make limited exceptions to service area requirements for ma local plans
+
+Computation of ma competitive benchmark amount.—
+
+In general
+
+Weighting rules.—
+
+Single plan rule
+
+Use of simple average among multiple plans if no plans offered in previous year
+
+Cap on ma competitive benchmark amount
+
+Care coordination and management performance bonus.—
+
+In general
+
+Limitation
+
+Programs described
+
+Conduct of program in urban and rural areas
+
+Reporting of data
+
+Periodic auditing
+
+Quality performance bonuses.—
+
+Quality bonus
+
+Improved quality bonus
+
+Use of rating system
+
+Data used in determining score.—
+
+In general
+
+Plans that fail to report data
+
+Quality bonus for new and low enrollment ma plans.—
+
+New ma plans
+
+Low enrollment plans
+
+Risk adjustment
+
+Notification
+
+Identification of areas
+
+Election to provide rebates to grandfathered enrollees.—
+
+In general
+
+Applicable amount
+
+Special rules for plans in identified areas
+
+Payments
+
+Requirement to submit bids under competitive bidding
+
+Nonapplication of bonus payments and any other rebates
+
+Nonapplication of uniform bid and premium amounts to grandfathered enrollees
+
+Nonapplication of limitation on application of plan rebates toward payment of part b premium
+
+Risk adjustment
+
+Definition of grandfathered enrollee
+
+In general
+
+Enrollees described
+
+Applicable areas
+
+Review of plan bids
+
+Funding
+
+Announcement of revised medicare advantage payment rates
+
+Transition to revised payment rates
+
+Special rule for payment rates in 2004.—
+
+January and february
+
+March through december
+
+Construction
+
+Plans required to provide notice of changes in plan benefits
+
+Limitation on review
+
+In general
+
+Construction
+
+Announcement of Revised Medicare+Choice Payment Rates
+
+Reentry Into Program Permitted for Medicare+Choice Programs
+
+Revised Submission of Proposed Premiums and Related Information
+
+Waiver of Limits on Stabilization Fund
+
+Disregard of New Rate Announcement in Applying Pass-Through for New National Coverage Determinations
+
+“The Secretary of Health and Human Services shall report to Congress by not later than January 1, 2003 , on a method to phase-in the costs of military facility services furnished by the Department of Veterans Affairs, and the costs of military facility services furnished by the Department of Defense, to medicare-eligible beneficiaries in the calculation of an area’s Medicare+Choice capitation payment. Such report shall include on a county-by-county basis—
+
+Study
+
+Issues to be studied
+
+Report
+
+Study
+
+Report
+
+Study
+
+Report
+
+Establishment of Project.—
+
+In general
+
+Delay in implementation
+
+Incorporation of original medicare fee-for-service program into project
+
+Quality activities
+
+Rural project
+
+Benefit structure
+
+Conforming deadlines
+
+Designation of
+
+Medicare Payment Areas Covered by Project.—
+
+In general
+
+Initial designation of 4 areas.—
+
+In general
+
+Location of designation
+
+Designation of additional 3 areas
+
+Project Implementation.—
+
+In general
+
+Consultation
+
+Monitoring and Report.—
+
+Monitoring impact
+
+Report
+
+Waiver Authority
+
+Relationship to Other Authority
+
+No Additional Costs to Medicare Program
+
+Definitions
+
+Competitive Pricing Advisory Committee.—
+
+In general
+
+Initial recommendations
+
+Quality recommendation
+
+Advice during implementation
+
+Sunset
+
+Appointment of Area Advisory Committee
+
+Special application
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1853, as added [Pub. L. 105–33, title IV, § 4001](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 299](https://www.govinfo.gov/link/statute/111/299); amended [Pub. L. 106–113, div. B, § 1000(a)(6) [title V, §§ 511(a), 512, 514(a), 517]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–380, 1501A–382 to 1501A–384; [Pub. L. 106–554, § 1(a)(6) [title VI, §§ 601(a), 602(a), 603, 605(a), 606(a)(2)(A), 607, 608(a), 611(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–554 to 2763A–559; [Pub. L. 107–188, title V, § 532(d)(1)](https://www.govinfo.gov/link/plaw/107/public/188), June 12, 2002, [116 Stat. 696](https://www.govinfo.gov/link/statute/116/696); [Pub. L. 108–173, title I, § 101(e)(3)(D)](https://www.govinfo.gov/link/plaw/108/public/173), title II, §§ 211(a)–(e)(1), 221(d)(1), (4), 222(d)–(f), (i), 237(b)(1), (2)(B), 241(b)(1), title VII, § 736(d)(1), title IX, § 900(e)(1)(G), Dec. 8, 2003, [117 Stat. 2151](https://www.govinfo.gov/link/statute/117/2151), 2176–2178, 2192, 2193, 2200–2202, 2204, 2212, 2213, 2220, 2357, 2371; [Pub. L. 109–171, title V, § 5301](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 48](https://www.govinfo.gov/link/statute/120/48); [Pub. L. 110–275, title I, § 161(a)](https://www.govinfo.gov/link/plaw/110/public/275), (b), July 15, 2008, [122 Stat. 2568](https://www.govinfo.gov/link/statute/122/2568), 2569; [Pub. L. 111–5, div. B, title IV](https://www.govinfo.gov/link/plaw/111/public/5), §§ 4101(c), (e), 4102(c), (d)(3), Feb. 17, 2009, [123 Stat. 473](https://www.govinfo.gov/link/statute/123/473), 476, 484, 486; [Pub. L. 111–148, title III](https://www.govinfo.gov/link/plaw/111/public/148), §§ 3201(a)(1), (2)(A), (b), (e)(1), (2)(A)(ii)–(iv), (f)(1), (g), (h), (i)(2), 3202(b)(2), 3203, 3205(b), (f), title X, § 10318, Mar. 23, 2010, [124 Stat. 442](https://www.govinfo.gov/link/statute/124/442), 444–447, 450, 452, 454–458, 948; [Pub. L. 111–152, title I, § 1102(a)](https://www.govinfo.gov/link/plaw/111/public/152) –(c)(3), (e), Mar. 30, 2010, [124 Stat. 1040](https://www.govinfo.gov/link/statute/124/1040), 1043, 1046; [Pub. L. 112–240, title VI, § 639](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2357](https://www.govinfo.gov/link/statute/126/2357); [Pub. L. 114–10, title II, § 209(d)](https://www.govinfo.gov/link/plaw/114/public/10), Apr. 16, 2015, [129 Stat. 150](https://www.govinfo.gov/link/statute/129/150); [Pub. L. 114–106, § 2](https://www.govinfo.gov/link/plaw/114/public/106), Dec. 18, 2015, [129 Stat. 2222](https://www.govinfo.gov/link/statute/129/2222); [Pub. L. 114–113, div. O, title VI, § 602(b)(2)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3024](https://www.govinfo.gov/link/statute/129/3024); [Pub. L. 114–255, div. C, title XVII, § 17006(b)](https://www.govinfo.gov/link/plaw/114/public/255), (f)(1), Dec. 13, 2016, [130 Stat. 1334](https://www.govinfo.gov/link/statute/130/1334), 1336; [Pub. L. 115–123, div. E, title III, § 50311(d)](https://www.govinfo.gov/link/plaw/115/public/123), title XII, § 53112, Feb. 9, 2018, [132 Stat. 198](https://www.govinfo.gov/link/statute/132/198), 305.)*

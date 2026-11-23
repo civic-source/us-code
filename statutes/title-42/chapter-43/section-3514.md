@@ -3,12 +3,17 @@ title: "Section 3514 - Special account for grants of Department; reports"
 usc_title: 42
 usc_section: "3514"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3514"
-generated_at: "2026-03-30T02:56:11.187Z"
+generated_at: "2026-11-23T21:26:32.566Z"
+status: "active"
 ---
 
 # § 3514. Special account for grants of Department; reports
 
 There is hereby established on the books of the Treasury an account or accounts without fiscal year limitation. There shall be deposited in such account, to the extent provided by the Secretary of Health and Human Services or his designee, all or part of any grant awarded by the Secretary or any other officer or employee of the Department of Health and Human Services. Payments of any such grant shall from time to time be made to the grantee from such account or accounts, subject to such limitations relating to fund accumulation as the Secretary may prescribe, to the extent needed to carry out the purposes of any such grant. Such reports as the Secretary or other officer awarding the grant may find necessary to assure expenditure of funds for the purpose of and in accordance with the terms and conditions of the grant shall be made to the Secretary or such officer by any such grantee.
 
+
+## Source Credit
+
+*([Pub. L. 89–105, § 6](https://www.govinfo.gov/link/plaw/89/public/105), Aug. 4, 1965, [79 Stat. 430](https://www.govinfo.gov/link/statute/79/430); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695).)*

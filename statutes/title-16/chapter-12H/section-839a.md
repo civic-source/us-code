@@ -3,9 +3,10 @@ title: "Section 839a - Definitions"
 usc_title: 16
 usc_section: "839a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 839a"
-generated_at: "2026-03-30T02:54:22.930Z"
+generated_at: "2026-11-23T21:25:51.787Z"
+status: "active"
 ---
 
 # § 839a. Definitions
@@ -49,3 +50,7 @@ As used in this chapter, the term—
     - **(A)** electric power, including the actual or planned electric power capability of generating facilities, or
     - **(B)** actual or planned load reduction resulting from direct application of a renewable energy resource by a consumer, or from a conservation measure.
   - **(20)** “Secretary” means the Secretary of Energy.
+
+## Source Credit
+
+*([Pub. L. 96–501, § 3](https://www.govinfo.gov/link/plaw/96/public/501), Dec. 5, 1980, [94 Stat. 2698](https://www.govinfo.gov/link/statute/94/2698).)*

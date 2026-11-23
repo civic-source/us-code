@@ -3,9 +3,10 @@ title: "Section 1631g - Payment of debts"
 usc_title: 22
 usc_section: "1631g"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1631g"
-generated_at: "2026-03-30T02:55:05.335Z"
+generated_at: "2026-11-23T21:25:58.405Z"
+status: "active"
 ---
 
 # § 1631g. Payment of debts
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.335Z"
 - **(g)** Debt claims shall be paid in the following order of priority: (1) Wage and salary claims, not to exceed $600; (2) claims entitled to priority under sections 3713(a) and 9309 of title 31, except as provided in subsection (h) of this section; (3) all other claims for services rendered; for expenses incurred in connection with such services, for rent, for goods and materials delivered to the debtor, and for payments made to the debtor for goods or services not received by the claimant; (4) all other debt claims. No payment shall be made to claimants within a subordinate class unless the money from which, in accordance with subsection (d) of this section, payment may be made permits payment in full of all allowed claims in every prior class.
 - **(h)** No debt of any kind shall be entitled to priority under any law of the United States or any State, Territory, or possession thereof, or the District of Columbia, solely by reason of becoming a debt due or owing to the United States as a result of its acquisition by the designee of the President under this subchapter.
 - **(i)** The sole relief and remedy available to any person seeking satisfaction of a debt claim out of any property vested in the designee under section 1631a(a) of this title , or the proceeds thereof, shall be the relief and remedy provided in this section, and suits for the satisfaction of debt claims shall not be instituted, prosecuted, or further maintained except in conformity with this section. No person asserting any interest, right, or title in any property or proceeds acquired by the designee shall be barred from proceeding pursuant to this subchapter for the return thereof, by reason of any proceeding which he may have brought pursuant to this section; nor shall any security interest asserted by the creditor in any such property or proceeds be deemed to have been waived solely by reason of such proceeding. Nothing contained in this section shall bar any person from the prosecution of any suit at law or in equity against the original debtor or against any other person who may be liable for the payment of any debt for which a claim might have been filed hereunder. No purchaser, lessee, licensee, or other transferee of any property from the designee shall, solely by reason of such purchase, lease, license, or transfer, become liable for the payment of any debt owed by the person who owned such property prior to its vesting in the designee. Payment by the designee to any debt claimant shall constitute, to the extent of payment, a discharge of the indebtedness represented by the claim.
+
+## Source Credit
+
+*(Mar. 10, 1950, ch. 54, title II, § 208, as added Aug. 9, 1955, ch. 645, § 3, [69 Stat. 565](https://www.govinfo.gov/link/statute/69/565).)*

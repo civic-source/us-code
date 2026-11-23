@@ -3,9 +3,10 @@ title: "Section 101 - Definitions and declaration of policy"
 usc_title: 23
 usc_section: "101"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 101"
-generated_at: "2026-03-30T02:55:12.543Z"
+generated_at: "2026-11-23T21:25:53.845Z"
+status: "active"
 ---
 
 # § 101. Definitions and declaration of policy
@@ -100,3 +101,621 @@ generated_at: "2026-03-30T02:55:12.543Z"
 - **(c)** It is the sense of Congress that under existing law no part of any sums authorized to be appropriated for expenditure upon any Federal-aid highway which has been apportioned pursuant to the provisions of this title shall be impounded or withheld from obligation, for purposes and projects as provided in this title, by any officer or employee in the executive branch of the Federal Government, except such specific sums as may be determined by the Secretary of the Treasury, after consultation with the Secretary of Transportation, are necessary to be withheld from obligation for specific periods of time to assure that sufficient amounts will be available in the Highway Trust Fund to defray the expenditures which will be required to be made from such fund.
 - **(d)** No funds authorized to be appropriated from the Highway Trust Fund shall be expended by or on behalf of any Federal department, agency, or instrumentality other than the Federal Highway Administration unless funds for such expenditure are identified and included as a line item in an appropriation Act and are to meet obligations of the United States heretofore or hereafter incurred under this title attributable to the construction of Federal-aid highways or highway planning, research, or development, or as otherwise specifically authorized to be appropriated from the Highway Trust Fund by Federal-aid highway legislation.
 - **(e)** It is the national policy that to the maximum extent possible the procedures to be utilized by the Secretary and all other affected heads of Federal departments, agencies, and instrumentalities for carrying out this title and any other provision of law relating to the Federal highway programs shall encourage the substantial minimization of paperwork and interagency decision procedures and the best use of available manpower and funds so as to prevent needless duplication and unnecessary delays at all levels of government.
+
+Definitions
+
+Apportionment
+
+Asset management
+
+Carpool project
+
+Construction
+
+County
+
+Federal-aid highway
+
+Federal lands access transportation facility
+
+Federal lands transportation facility
+
+Forest development roads and trails
+
+Forest road or trail
+
+Highway
+
+Interstate System
+
+Maintenance
+
+Maintenance area
+
+National highway freight network
+
+National Highway System
+
+Natural infrastructure
+
+Operating costs for traffic monitoring, management, and control
+
+Operational improvement
+
+Project
+
+Project agreement
+
+Public authority
+
+Public road
+
+Resilience
+
+Rural areas
+
+Safety improvement project
+
+Secretary
+
+State
+
+State funds
+
+State strategic highway safety plan
+
+State transportation department
+
+Transportation systems management and operations
+
+In general
+
+Inclusions
+
+Tribal transportation facility
+
+Truck stop electrification system
+
+Urban area
+
+Urbanized area
+
+Declaration of Policy.—
+
+Acceleration of construction of federal-aid highway systems
+
+Completion of interstate system
+
+Transportation needs of 21st century
+
+Expedited project delivery
+
+In general
+
+Policy of the united states
+
+“On the date of enactment of the MAP–21 [ Pub. L. 112–141 , approved July 6, 2012 ]—
+
+In General
+
+Exception.—
+
+In general
+
+Effect of amendments
+
+Definition of Eligible Facility.—
+
+In general
+
+Inclusions
+
+Establishment
+
+Planning Grants.—
+
+Eligible entities
+
+Eligible activities described
+
+Technical assistance program.—
+
+In general
+
+Technical assistance described
+
+Priorities
+
+Selection
+
+Award amounts
+
+Federal share
+
+Capital Construction Grants.—
+
+Eligible entities
+
+Partnerships
+
+Eligible projects
+
+Selection
+
+Minimum award amounts
+
+Federal share.—
+
+In general
+
+Maximum federal involvement
+
+Community advisory board.—
+
+In general
+
+Membership
+
+Reports.—
+
+USDOT report on program
+
+GAO report on highway removals
+
+Technical Assistance
+
+Treatment of Projects
+
+Definitions
+
+Administrator
+
+Cyber incident
+
+Transportation authority
+
+Cybersecurity Tool.—
+
+In general
+
+Requirements
+
+Designation of Cyber Coordinator.—
+
+In general
+
+Requirements
+
+In General
+
+Covered Lapse
+
+Covered law
+
+Extension end date
+
+Extension fraction
+
+Extension period
+
+Highway account
+
+Mass transit account
+
+In General
+
+Authorization of Appropriations.—
+
+Highway trust fund.—
+
+Highway account
+
+Mass transit account
+
+General fund
+
+Use of Funds.—
+
+In general
+
+Apportionment notice to states
+
+Obligation Limitation
+
+Covered law
+
+Extension end date
+
+Extension fraction
+
+Extension period
+
+Highway account
+
+Mass transit account
+
+Secretary
+
+State
+
+In General
+
+Authorization of Appropriations.—
+
+Highway trust fund.—
+
+Highway account
+
+Mass transit account
+
+General fund
+
+Use of Funds.—
+
+In general
+
+Apportionment to states.—
+
+In general
+
+Programs described
+
+Notice to states
+
+Obligation Limitation.—
+
+In general
+
+Federal-aid highways.—
+
+In general
+
+Calculation
+
+Definition of qualifying program
+
+In General
+
+Authorization of Appropriations.—
+
+Highway trust fund.—
+
+Highway account
+
+Mass transit account
+
+General fund
+
+Use of Funds
+
+Obligation Limitation
+
+Definitions
+
+Covered laws
+
+Highway account
+
+Mass transit account
+
+Authority
+
+Maintaining Protections
+
+In General
+
+Implementation
+
+In General
+
+Every Day Counts Initiative
+
+Innovation Deployment.—
+
+In general
+
+Requirements
+
+Publication
+
+“Congress finds that—
+
+In General
+
+Project Delivery Initiative
+
+In general
+
+Purposes
+
+Advancing the use of best practices
+
+In general
+
+Administration
+
+Implementation of accelerated project delivery
+
+In general
+
+Inclusions
+
+Initial Report
+
+Updates
+
+Inclusions
+
+In General
+
+Eligible Recipients
+
+Eligible Activities
+
+Other Provisions Regarding Eligibility
+
+Selection Criteria
+
+Program Priorities
+
+Federal Share
+
+Funding.—
+
+In general
+
+Contract authority
+
+In General
+
+Composition
+
+In General
+
+Eligibility of Corridors
+
+Purposes
+
+Corridor Development and Management Plan
+
+Applicability of Title
+
+Coordination of Planning
+
+State Defined
+
+In General
+
+Use of Funds
+
+Certification
+
+Notification
+
+Limitation
+
+Deadline for Designation
+
+Unobligated Funds After Termination
+
+General Authority
+
+Eligible Uses
+
+Apportionment of Funds
+
+Projects in Canada or Mexico
+
+Transfer of Funds to the General Services Administration.—
+
+State funds
+
+Non-federal share.—
+
+In general
+
+No augmentation of appropriations
+
+Obligation authority
+
+Limitation on transfer of funds
+
+Applicability of Title
+
+Definitions
+
+Border region
+
+Border state
+
+Commercial truck
+
+Motor vehicle
+
+State
+
+General Authority
+
+Eligible Uses
+
+Selection Criteria
+
+Construction of Transportation Infrastructure for Law Enforcement Purposes
+
+Definitions
+
+Border region
+
+Border state
+
+Methodology.—
+
+Evaluation
+
+Required element
+
+Report to congress
+
+State investment plans.—
+
+Study
+
+Required elements
+
+Report to congress
+
+Assessment
+
+Consultation
+
+Requirements
+
+Report
+
+Establishment
+
+Purpose
+
+General Authority
+
+Eligibility
+
+Criteria
+
+Equitable Distribution
+
+Funding.—
+
+In general
+
+Contract authority
+
+Purpose
+
+Priority for Transportation Projects Relating to Olympic, Paralympic, and Special Olympic Events
+
+Transportation Planning Activities
+
+Funding
+
+Transportation Projects Relating to Olympic, Paralympic, and Special Olympic Events.—
+
+In general
+
+Federal share
+
+Eligible Governments
+
+Authorization of Appropriations
+
+Establishment of Criteria
+
+Selection Process.—
+
+Limitation on acceptance of applications
+
+Explanation
+
+Minimum Covered Programs
+
+Findings
+
+Definitions
+
+Small business concern.—
+
+In general
+
+Exclusions
+
+Socially and economically disadvantaged individuals
+
+Amounts for small business concerns
+
+Annual listing of disadvantaged business enterprises
+
+Uniform certification.—
+
+In general
+
+Inclusions
+
+Reporting
+
+Compliance with court orders
+
+Sense of congress on prompt payment of dbe subcontractors
+
+Scenic Byways Advisory Committee.—
+
+Establishment
+
+Membership
+
+Functions
+
+Report
+
+Technical and Financial Assistance
+
+Federal Share
+
+Funding
+
+Contract Authority
+
+Interim Scenic Byways Program.—
+
+Grant program
+
+Priority projects
+
+Eligible projects
+
+Federal share
+
+Funding
+
+Limitation
+
+Treatment of Scenic Highways in Oregon
+
+Study
+
+Report
+
+“That—
+
+“In this division [see Tables for classification]:
+
+Department
+
+Secretary
+
+“In this division [see Tables for classification], the following definitions apply:
+
+Department
+
+Secretary
+
+“In this Act [see Tables for classification], the following definitions apply:
+
+Department
+
+Secretary
+
+“In this Act [see Tables for classification], the following definitions apply:
+
+Department
+
+Secretary
+
+“In this Act [see Tables for classification], the following definitions apply:
+
+Interstate system
+
+Secretary
+
+## Source Credit
+
+*([Pub. L. 85–767](https://www.govinfo.gov/link/plaw/85/public/767), Aug. 27, 1958, [72 Stat. 885](https://www.govinfo.gov/link/statute/72/885); [Pub. L. 86–70, § 21(e)(1)](https://www.govinfo.gov/link/plaw/86/public/70), June 25, 1959, [73 Stat. 146](https://www.govinfo.gov/link/statute/73/146); [Pub. L. 86–624, § 17(a)](https://www.govinfo.gov/link/plaw/86/public/624), July 12, 1960, [74 Stat. 415](https://www.govinfo.gov/link/statute/74/415); [Pub. L. 87–866, § 6(a)](https://www.govinfo.gov/link/plaw/87/public/866), Oct. 23, 1962, [76 Stat. 1147](https://www.govinfo.gov/link/statute/76/1147); [Pub. L. 88–423, § 3](https://www.govinfo.gov/link/plaw/88/public/423), Aug. 13, 1964, [78 Stat. 397](https://www.govinfo.gov/link/statute/78/397); [Pub. L. 89–574, § 4(a)](https://www.govinfo.gov/link/plaw/89/public/574), Sept. 13, 1966, [80 Stat. 767](https://www.govinfo.gov/link/statute/80/767); [Pub. L. 90–495](https://www.govinfo.gov/link/plaw/90/public/495), §§ 4(a), 8, 15, Aug. 23, 1968, [82 Stat. 816](https://www.govinfo.gov/link/statute/82/816), 819, 822; [Pub. L. 91–605, title I](https://www.govinfo.gov/link/plaw/91/public/605), §§ 104(a), 106(a), 107, 117(d), 130, 141, Dec. 31, 1970, [84 Stat. 1714](https://www.govinfo.gov/link/statute/84/1714), 1716, 1718, 1724, 1732, 1737; [Pub. L. 93–87, title I](https://www.govinfo.gov/link/plaw/93/public/87), §§ 105, 106(a), 107, 108, 152(1), Aug. 13, 1973, [87 Stat. 253–255](https://www.govinfo.gov/link/statute/87/253), 276; [Pub. L. 93–643, § 102(b)](https://www.govinfo.gov/link/plaw/93/public/643), Jan. 4, 1975, [88 Stat. 2281](https://www.govinfo.gov/link/statute/88/2281); [Pub. L. 94–280, title I](https://www.govinfo.gov/link/plaw/94/public/280), §§ 107(a), 108, May 5, 1976, [90 Stat. 430](https://www.govinfo.gov/link/statute/90/430), 431; [Pub. L. 95–599, title I, § 106](https://www.govinfo.gov/link/plaw/95/public/599), Nov. 6, 1978, [92 Stat. 2693](https://www.govinfo.gov/link/statute/92/2693); [Pub. L. 97–424, title I](https://www.govinfo.gov/link/plaw/97/public/424), §§ 126(c), 159, Jan. 6, 1983, [96 Stat. 2115](https://www.govinfo.gov/link/statute/96/2115), 2135; [Pub. L. 100–17, title I](https://www.govinfo.gov/link/plaw/100/public/17), §§ 102(b)(3), 108, 109, 133(b)(2), (3), Apr. 2, 1987, [101 Stat. 135](https://www.govinfo.gov/link/statute/101/135), 146, 171; [Pub. L. 101–427](https://www.govinfo.gov/link/plaw/101/public/427), Oct. 15, 1990, [104 Stat. 927](https://www.govinfo.gov/link/statute/104/927); [Pub. L. 102–240, title I](https://www.govinfo.gov/link/plaw/102/public/240), §§ 1001(g), 1005, 1006(g)(1), 1007(c), Dec. 18, 1991, [105 Stat. 1916](https://www.govinfo.gov/link/statute/105/1916), 1922, 1927, 1931; [Pub. L. 104–59, title III](https://www.govinfo.gov/link/plaw/104/public/59), §§ 301(b), 311(b), Nov. 28, 1995, [109 Stat. 578](https://www.govinfo.gov/link/statute/109/578), 583; [Pub. L. 105–178, title I, § 1201](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 164](https://www.govinfo.gov/link/statute/112/164); [Pub. L. 109–59, title I](https://www.govinfo.gov/link/plaw/109/public/59), §§ 1122, 1909(a), Aug. 10, 2005, [119 Stat. 1196](https://www.govinfo.gov/link/statute/119/1196), 1470; [Pub. L. 110–244, title I, § 101(h)](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1574](https://www.govinfo.gov/link/statute/122/1574); [Pub. L. 112–141, div. A, title I](https://www.govinfo.gov/link/plaw/112/public/141), §§ 1103, 1301(c), 1501, July 6, 2012, [126 Stat. 419](https://www.govinfo.gov/link/statute/126/419), 528, 560; [Pub. L. 114–94, div. A, title I, § 1103](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1328](https://www.govinfo.gov/link/statute/129/1328); [Pub. L. 117–58, div. A, title I](https://www.govinfo.gov/link/plaw/117/public/58), §§ 11103, 11123(a), 11525(a), Nov. 15, 2021, [135 Stat. 453](https://www.govinfo.gov/link/statute/135/453), 499, 607.)*

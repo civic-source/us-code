@@ -3,9 +3,10 @@ title: "Section 4712 - Capitalization assistance to enhance liquidity"
 usc_title: 12
 usc_section: "4712"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4712"
-generated_at: "2026-03-30T02:53:53.517Z"
+generated_at: "2026-11-23T21:25:37.213Z"
+status: "active"
 ---
 
 # § 4712. Capitalization assistance to enhance liquidity
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:53.517Z"
   - **(1)** The liability of the Fund and the United States Government arising out of the provision of assistance to any organization in accordance with this section shall be limited to the amount of such assistance. The Fund shall be exempt from any assessments and any other liabilities that may be imposed on controlling or principal shareholders by any Federal law or the law of any State, or territory. Nothing in this paragraph shall affect the application of Federal tax law.
   - **(2)** This section does not oblige the Federal Government, either directly or indirectly, to provide any funds to any organization assisted pursuant to this section, or to honor, reimburse, or otherwise guarantee any obligation or liability of such an organization. This section shall not be construed to imply that any such organization or any obligations or securities of any such organization are backed by the full faith and credit of the United States.
 - **(f)** Any proceeds from the sale of loans by an organization assisted under this section shall be used by the seller for community development purposes.
+
+## Source Credit
+
+*([Pub. L. 103–325, title I, § 113](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2178](https://www.govinfo.gov/link/statute/108/2178).)*

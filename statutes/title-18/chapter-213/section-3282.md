@@ -3,9 +3,10 @@ title: "Section 3282 - Offenses not capital"
 usc_title: 18
 usc_section: "3282"
 chapter: 213
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3282"
-generated_at: "2026-03-30T02:54:16.515Z"
+generated_at: "2026-11-23T21:25:44.194Z"
+status: "active"
 ---
 
 # § 3282. Offenses not capital
@@ -17,3 +18,17 @@ generated_at: "2026-03-30T02:54:16.515Z"
     - **(A)** the limitations period described under subsection (a); and
     - **(B)** the provisions of chapter 208 until the individual is arrested or served with a summons in connection with the charges contained in the indictment.
   - **(3)** For purposes of this subsection, the term “DNA profile” means a set of DNA identification characteristics.
+
+In General
+
+Profile Indictment.—
+
+In general
+
+Exception
+
+Defined term
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 828](https://www.govinfo.gov/link/statute/62/828); Sept. 1, 1954, ch. 1214, § 12(a), formerly § 10(a), [68 Stat. 1145](https://www.govinfo.gov/link/statute/68/1145); renumbered [Pub. L. 87–299, § 1](https://www.govinfo.gov/link/plaw/87/public/299), Sept. 26, 1961, [75 Stat. 648](https://www.govinfo.gov/link/statute/75/648); [Pub. L. 108–21, title VI, § 610(a)](https://www.govinfo.gov/link/plaw/108/public/21), Apr. 30, 2003, [117 Stat. 692](https://www.govinfo.gov/link/statute/117/692).)*

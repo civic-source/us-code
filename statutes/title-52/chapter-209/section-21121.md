@@ -3,9 +3,10 @@ title: "Section 21121 - Establishment of program"
 usc_title: 52
 usc_section: "21121"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 21121"
-generated_at: "2026-03-30T02:56:30.168Z"
+generated_at: "2026-11-23T21:26:42.339Z"
+status: "active"
 ---
 
 # § 21121. Establishment of program
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:30.168Z"
 - **(b)** The purpose of the Program shall be—
   - **(1)** to encourage students enrolled at institutions of higher education (including community colleges) to assist State and local governments in the administration of elections by serving as nonpartisan poll workers or assistants; and
   - **(2)** to encourage State and local governments to use the services of the students participating in the Program.
+
+## Source Credit
+
+*([Pub. L. 107–252, title V, § 501](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1717](https://www.govinfo.gov/link/statute/116/1717).)*

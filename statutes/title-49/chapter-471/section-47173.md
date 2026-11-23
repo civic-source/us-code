@@ -3,9 +3,10 @@ title: "Section 47173 - Airport funding of FAA staff"
 usc_title: 49
 usc_section: "47173"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 47173"
-generated_at: "2026-03-30T02:56:19.407Z"
+generated_at: "2026-11-23T21:26:40.992Z"
+status: "active"
 ---
 
 # § 47173. Airport funding of FAA staff
@@ -22,3 +23,15 @@ generated_at: "2026-03-30T02:56:19.407Z"
   - **(2)** shall be available for expenditure only to pay the costs of activities and services for which the funds are accepted; and
   - **(3)** shall remain available until expended.
 - **(d)** No funds may be accepted pursuant to subsection (a), or transferred pursuant to subsection (b), in any fiscal year in which the Federal Aviation Administration does not allocate at least the amount it expended in fiscal year 2002 (excluding amounts accepted pursuant to section 337 of the Department of Transportation and Related Agencies Appropriations Act, 2002 ( 115 Stat. 862 )) for the activities described in subsection (a).
+
+Acceptance of Sponsor-Provided Funds
+
+Administrative Provision
+
+Receipts Credited as Offsetting Collections
+
+Maintenance of Effort
+
+## Source Credit
+
+*(Added [Pub. L. 108–176, title III, § 304(a)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2537](https://www.govinfo.gov/link/statute/117/2537); amended [Pub. L. 112–95, title V, § 503](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 103](https://www.govinfo.gov/link/statute/126/103).)*

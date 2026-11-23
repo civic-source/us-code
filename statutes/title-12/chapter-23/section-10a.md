@@ -3,9 +3,10 @@ title: "Section 10a - Oversight actions by Corporation"
 usc_title: 12
 usc_section: "10a"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 10a"
-generated_at: "2026-03-30T02:53:53.479Z"
+generated_at: "2026-11-23T21:25:37.078Z"
+status: "active"
 ---
 
 # § 2277a–10a. Oversight actions by Corporation
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:53.479Z"
 - **(c)**
   - **(1)** On receiving an application for a merger or restructuring of an institution, the Farm Credit Administration shall forward a copy of the application to the Corporation.
   - **(2)** If the proposed merger or restructuring involves an institution that fails to meet the minimum level for any capital requirement established by the Farm Credit Administration applicable to the institution, the Farm Credit Administration shall allow 30 days within which the Corporation may submit the views and recommendations of the Corporation, including any conditions for approval. In determining whether to approve or disapprove any proposed merger or restructuring, the Farm Credit Administration shall give due consideration to the views and recommendations of the Corporation.
+
+## Source Credit
+
+*([Pub. L. 92–181, title V, § 5](https://www.govinfo.gov/link/plaw/92/public/181).61A, as added [Pub. L. 104–105, title II, § 218](https://www.govinfo.gov/link/plaw/104/public/105), Feb. 10, 1996, [110 Stat. 180](https://www.govinfo.gov/link/statute/110/180).)*

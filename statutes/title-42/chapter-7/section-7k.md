@@ -3,9 +3,10 @@ title: "Section 7k - Medicare and Medicaid program integrity provisions"
 usc_title: 42
 usc_section: "7k"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7k"
-generated_at: "2026-03-30T02:56:10.912Z"
+generated_at: "2026-11-23T21:26:31.265Z"
+status: "active"
 ---
 
 # § 1320a–7k. Medicare and Medicaid program integrity provisions
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:56:10.912Z"
       - **(i)** The term “person” means a provider of services, supplier, medicaid managed care organization (as defined in section 1396b(m)(1)(A) of this title ), Medicare Advantage organization (as defined in section 1395w–28(a)(1) of this title ), or PDP sponsor (as defined in section 1395w–151(a)(13) of this title ).
       - **(ii)** Such term does not include a beneficiary.
 - **(e)** The Secretary shall promulgate a regulation that requires, not later than January 1, 2011 , all providers of medical or other items or services and suppliers under the programs under subchapters XVIII and XIX that qualify for a national provider identifier to include their national provider identifier on all applications to enroll in such programs and on all claims for payment submitted under such programs.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XI, § 1128J, as added [Pub. L. 111–148, title VI, § 6402(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 753](https://www.govinfo.gov/link/statute/124/753).)*

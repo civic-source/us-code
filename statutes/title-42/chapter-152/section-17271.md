@@ -3,9 +3,10 @@ title: "Section 17271 - Carbon dioxide sequestration capacity assessment"
 usc_title: 42
 usc_section: "17271"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17271"
-generated_at: "2026-03-30T02:56:11.503Z"
+generated_at: "2026-11-23T21:26:33.781Z"
+status: "active"
 ---
 
 # § 17271. Carbon dioxide sequestration capacity assessment
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:56:11.503Z"
   - **(5)** Not later than 180 days after the date on which the assessment is completed, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report describing the findings under the assessment.
   - **(6)** The national assessment developed under this section shall be updated periodically (including at least once every 5 years) to support public and private sector decisionmaking.
 - **(g)** There is authorized to be appropriated to carry out this section $30,000,000 for the period of fiscal years 2008 through 2012.
+
+## Source Credit
+
+*([Pub. L. 110–140, title VII, § 711](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1710](https://www.govinfo.gov/link/statute/121/1710).)*

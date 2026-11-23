@@ -3,9 +3,10 @@ title: "Section 7256 - Northeast Interstate Dairy Compact"
 usc_title: 7
 usc_section: "7256"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7256"
-generated_at: "2026-03-30T02:53:42.448Z"
+generated_at: "2026-11-23T21:25:28.420Z"
+status: "active"
 ---
 
 # § 7256. Northeast Interstate Dairy Compact
@@ -19,3 +20,7 @@ Congress hereby consents to the Northeast Interstate Dairy Compact entered into 
   - **(5)** Before the end of each fiscal year that a Compact price regulation is in effect, the Northeast Interstate Dairy Compact Commission shall compensate the Commodity Credit Corporation for the cost of any purchases of milk and milk products by the Corporation that result from the projected rate of increase in milk production for the fiscal year within the Compact region in excess of the projected national average rate of the increase in milk production, as determined by the Secretary.
   - **(6)** At the request of the Northeast Interstate Dairy Compact Commission, the Administrator of the applicable Federal milk marketing order issued under section 608c(5) 2 2 See References in Text note below. of this title shall provide technical assistance to the Compact Commission and be compensated for that assistance.
   - **(7)** The Northeast Interstate Dairy Compact Commission shall not prohibit or in any way limit the marketing in the Compact region of any milk or milk product produced in any other production area in the United States. The Compact Commission shall respect and abide by the ongoing procedures between Federal milk marketing orders with respect to the sharing of proceeds from sales within the Compact region of bulk milk, packaged milk, or producer milk originating from outside of the Compact region. The Compact Commission shall not use compensatory payments under section 10(6) of the Compact as a barrier to the entry of milk into the Compact region or for any other purpose. Establishment of a Compact over-order price, in itself, shall not be considered a compensatory payment or a limitation or prohibition on the marketing of milk.
+
+## Source Credit
+
+*([Pub. L. 104–127, title I, § 147](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 919](https://www.govinfo.gov/link/statute/110/919); [Pub. L. 106–113, div. B, § 1000(a)(8) [§ 4]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–520.)*

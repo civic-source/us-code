@@ -3,9 +3,10 @@ title: "Section 9 - Ban on importing goods and services from countries supportin
 usc_title: 22
 usc_section: "9"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9"
-generated_at: "2026-03-30T02:55:05.358Z"
+generated_at: "2026-11-23T21:25:58.473Z"
+status: "active"
 ---
 
 # § 2349aa–9. Ban on importing goods and services from countries supporting terrorism
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.358Z"
   - **(3)** why the President believes those circumstances justify the exercise of such authority; and
   - **(4)** why the President believes the prohibitions are necessary to deal with those circumstances.
 - **(d)** For purposes of this section, the term “United States” includes territories and possessions of the United States.
+
+## Source Credit
+
+*([Pub. L. 99–83, title V, § 505](https://www.govinfo.gov/link/plaw/99/public/83), Aug. 8, 1985, [99 Stat. 221](https://www.govinfo.gov/link/statute/99/221).)*

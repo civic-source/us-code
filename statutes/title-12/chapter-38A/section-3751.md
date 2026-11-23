@@ -3,9 +3,10 @@ title: "Section 3751 - Findings and purpose"
 usc_title: 12
 usc_section: "3751"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3751"
-generated_at: "2026-03-30T02:53:53.497Z"
+generated_at: "2026-11-23T21:25:37.148Z"
+status: "active"
 ---
 
 # § 3751. Findings and purpose
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:53.497Z"
 - **(b)** The purpose of this chapter is to create a uniform Federal foreclosure remedy for single family mortgages that—
   - **(1)** are held by the Secretary pursuant to title I or title II of the National Housing Act [ 12 U.S.C. 1702 et seq., 1707 et seq.]; or
   - **(2)** secure loans obligated by the Secretary under section 1452b 1 1 See References in Text note below. of title 42.
+
+## Source Credit
+
+*([Pub. L. 103–327, title II](https://www.govinfo.gov/link/plaw/103/public/327), Sept. 28, 1994, [108 Stat. 2316](https://www.govinfo.gov/link/statute/108/2316).)*

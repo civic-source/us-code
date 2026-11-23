@@ -3,9 +3,10 @@ title: "Section 4002 - National harmful algal bloom and hypoxia program"
 usc_title: 33
 usc_section: "4002"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 4002"
-generated_at: "2026-03-30T02:55:41.146Z"
+generated_at: "2026-11-23T21:26:11.494Z"
+status: "active"
 ---
 
 # § 4002. National harmful algal bloom and hypoxia program
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:55:41.146Z"
     - **(B)** forecasting and monitoring of and event response to freshwater harmful algal blooms in lakes, rivers, estuaries (including their tributaries), and reservoirs.
   - **(2)** The Administrator shall ensure that activities carried out under this chapter focus on new approaches to addressing freshwater harmful algal blooms and are not duplicative of existing research and development programs authorized by this chapter or any other law.
 - **(i)** The collection of monitoring and observation data under this chapter shall comply with all data standards and protocols developed pursuant to the Integrated Coastal and Ocean Observation System Act of 2009 ( 33 U.S.C. 3601 et seq.). Such data shall be made available through the system established under that Act.
+
+## Source Credit
+
+*([Pub. L. 105–383, title VI, § 603A](https://www.govinfo.gov/link/plaw/105/public/383), as added [Pub. L. 113–124, § 4](https://www.govinfo.gov/link/plaw/113/public/124), June 30, 2014, [128 Stat. 1379](https://www.govinfo.gov/link/statute/128/1379); amended [Pub. L. 115–423, § 9(e)](https://www.govinfo.gov/link/plaw/115/public/423), Jan. 7, 2019, [132 Stat. 5462](https://www.govinfo.gov/link/statute/132/5462).)*

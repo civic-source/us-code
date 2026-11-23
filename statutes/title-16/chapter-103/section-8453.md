@@ -3,9 +3,10 @@ title: "Section 8453 - Public lands telecommunications cooperative agreements"
 usc_title: 16
 usc_section: "8453"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8453"
-generated_at: "2026-03-30T02:54:23.085Z"
+generated_at: "2026-11-23T21:25:52.079Z"
+status: "active"
 ---
 
 # § 8453. Public lands telecommunications cooperative agreements
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:23.085Z"
   - **(6)** any combination of purposes described in subparagraphs 1 1 So in original. Probably should be “paragraphs”. (1) through (5).
 - **(b)**
 - **(c)** Not later than 1 year after January 4, 2025 , the Secretary shall conduct a comprehensive assessment to evaluate the potential benefits of rental fee retention whereby any fee collected for the occupancy and use of Federal lands and waters authorized by a communications use authorization would be deposited into a special account and used solely for activities related to communications sites on lands and waters managed by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 118–234, title I, § 143](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2865](https://www.govinfo.gov/link/statute/138/2865).)*

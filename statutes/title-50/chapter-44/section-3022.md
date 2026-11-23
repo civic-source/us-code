@@ -3,9 +3,10 @@ title: "Section 3022 - Joint Intelligence Community Council"
 usc_title: 50
 usc_section: "3022"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3022"
-generated_at: "2026-03-30T02:56:26.227Z"
+generated_at: "2026-11-23T21:26:38.988Z"
+status: "active"
 ---
 
 # § 3022. Joint Intelligence Community Council
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:26.227Z"
   - **(1)** A member of the Joint Intelligence Community Council (other than the Chairman) may submit to the Chairman advice or an opinion in disagreement with, or advice or an opinion in addition to, the advice presented by the Director of National Intelligence to the President or the National Security Council, in the role of the Chairman as Chairman of the Joint Intelligence Community Council. If a member submits such advice or opinion, the Chairman shall present the advice or opinion of such member at the same time the Chairman presents the advice of the Chairman to the President or the National Security Council, as the case may be.
   - **(2)** The Chairman shall establish procedures to ensure that the presentation of the advice of the Chairman to the President or the National Security Council is not unduly delayed by reason of the submission of the individual advice or opinion of another member of the Council.
 - **(f)** Any member of the Joint Intelligence Community Council may make such recommendations to Congress relating to the intelligence community as such member considers appropriate.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title I, § 101A, as added [Pub. L. 108–458, title I, § 1031](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3677](https://www.govinfo.gov/link/statute/118/3677); amended [Pub. L. 116–92, div. E, title LXIII, § 6311(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2191](https://www.govinfo.gov/link/statute/133/2191).)*

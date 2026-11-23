@@ -3,9 +3,10 @@ title: "Section 3966 - Within-class salary increases"
 usc_title: 22
 usc_section: "3966"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3966"
-generated_at: "2026-03-30T02:55:05.400Z"
+generated_at: "2026-11-23T21:25:58.604Z"
+status: "active"
 ---
 
 # § 3966. Within-class salary increases
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.400Z"
   - **(1)** 52 calendar weeks of service in each of salary steps 1 through 9, and
   - **(2)** 104 calendar weeks of service in each of salary steps 10 through 13,
 - **(b)** The Secretary may grant, on the basis of especially meritorious service, to any member of the Service receiving an increase in salary under subsection (a), an additional salary increase to any higher step in the salary class in which the member is serving.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 406](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2089](https://www.govinfo.gov/link/statute/94/2089).)*

@@ -3,9 +3,10 @@ title: "Section 1714 - Withdrawals of lands"
 usc_title: 43
 usc_section: "1714"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1714"
-generated_at: "2026-03-30T02:55:57.487Z"
+generated_at: "2026-11-23T21:26:19.870Z"
+status: "active"
 ---
 
 # § 1714. Withdrawals of lands
@@ -32,3 +33,31 @@ generated_at: "2026-03-30T02:55:57.487Z"
   - **(1)** The Secretary shall, within fifteen years of October 21, 1976 , review withdrawals existing on October 21, 1976 , in the States of Arizona, California, Colorado, Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington, and Wyoming of (1) all Federal lands other than withdrawals of the public lands administered by the Bureau of Land Management and of lands which, on October 21, 1976 , were part of Indian reservations and other Indian holdings, the National Forest System, the National Park System, the National Wildlife Refuge System, other lands administered by the Fish and Wildlife Service or the Secretary through the Fish and Wildlife Service, the National Wild and Scenic Rivers System, and the National System of Trails; and (2) all public lands administered by the Bureau of Land Management and of lands in the National Forest System (except those in wilderness areas, and those areas formally identified as primitive or natural areas or designated as national recreation areas) which closed the lands to appropriation under the Mining Law of 1872 ( 17 Stat. 91 , as amended; 30 U.S.C. 22 et seq.) or to leasing under the Mineral Leasing Act of 1920 ( 41 Stat. 437 , as amended; 30 U.S.C. 181 et seq.).
   - **(2)** In the review required by paragraph (1) of this subsection, the Secretary shall determine whether, and for how long, the continuation of the existing withdrawal of the lands would be, in his judgment, consistent with the statutory objectives of the programs for which the lands were dedicated and of the other relevant programs. The Secretary shall report his recommendations to the President, together with statements of concurrence or nonconcurrence submitted by the heads of the departments or agencies which administer the lands. The President shall transmit this report to the President of the Senate and the Speaker of the House of Representatives, together with his recommendations for action by the Secretary, or for legislation. The Secretary may act to terminate withdrawals other than those made by Act of the Congress in accordance with the recommendations of the President unless before the end of ninety days (not counting days on which the Senate and the House of Representatives has adjourned for more than three consecutive days) beginning on the day the report of the President has been submitted to the Senate and the House of Representatives the Congress has adopted a concurrent resolution indicating otherwise. If the committee to which a resolution has been referred during the said ninety day period, has not reported it at the end of thirty calendar days after its referral, it shall be in order to either discharge the committee from further consideration of such resolution or to discharge the committee from consideration of any other resolution with respect to the Presidential recommendation. A motion to discharge may be made only by an individual favoring the resolution, shall be highly privileged (except that it may not be made after the committee has reported such a resolution), and debate thereon shall be limited to not more than one hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to. If the motion to discharge is agreed to or disagreed to, the motion may not be made with respect to any other resolution with respect to the same Presidential recommendation. When the committee has reprinted, or has been discharged from further consideration of a resolution, it shall at any time thereafter be in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion shall be highly privileged and shall not be debatable. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
   - **(3)** There are hereby authorized to be appropriated not more than $10,000,000 for the purpose of paragraph (1) of this subsection to be available until expended to the Secretary and to the heads of other departments and agencies which will be involved.
+
+(1) a clear explanation of the proposed use of the land involved which led to the withdrawal;
+
+(2) an inventory and evaluation of the current natural resource uses and values of the site and adjacent public and nonpublic land and how it appears they will be affected by the proposed use, including particularly aspects of use that might cause degradation of the environment, and also the economic impact of the change in use on individuals, local communities, and the Nation;
+
+(3) an identification of present users of the land involved, and how they will be affected by the proposed use;
+
+(4) an analysis of the manner in which existing and potential resource uses are incompatible with or in conflict with the proposed use, together with a statement of the provisions to be made for continuation or termination of existing uses, including an economic analysis of such continuation or termination;
+
+(5) an analysis of the manner in which such lands will be used in relation to the specific requirements for the proposed use;
+
+(6) a statement as to whether any suitable alternative sites are available (including cost estimates) for the proposed use or for uses such a withdrawal would displace;
+
+(7) a statement of the consultation which has been or will be had with other Federal departments and agencies, with regional, State, and local government bodies, and with other appropriate individuals and groups;
+
+(8) a statement indicating the effect of the proposed uses, if any, on State and local government interests and the regional economy;
+
+(9) a statement of the expected length of time needed for the withdrawal;
+
+(10) the time and place of hearings and of other public involvement concerning such withdrawal;
+
+(11) the place where the records on the withdrawal can be examined by interested parties; and
+
+(12) a report prepared by a qualified mining engineer, engineering geologist, or geologist which shall include but not be limited to information on: general geology, known mineral deposits, past and present mineral production, mining claims, mineral leases, evaluation of future mineral potential, present and potential market demands.
+
+## Source Credit
+
+*([Pub. L. 94–579, title II, § 204](https://www.govinfo.gov/link/plaw/94/public/579), Oct. 21, 1976, [90 Stat. 2751](https://www.govinfo.gov/link/statute/90/2751); [Pub. L. 103–437, § 16(d)(1)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4594](https://www.govinfo.gov/link/statute/108/4594); [Pub. L. 113–287, § 5](https://www.govinfo.gov/link/plaw/113/public/287) (l)(7), Dec. 19, 2014, [128 Stat. 3271](https://www.govinfo.gov/link/statute/128/3271).)*

@@ -3,9 +3,10 @@ title: "Section 3805 - Payments for commercial products and commercial services"
 usc_title: 10
 usc_section: "3805"
 chapter: 277
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3805"
-generated_at: "2026-03-30T02:53:38.198Z"
+generated_at: "2026-11-23T21:25:32.742Z"
+status: "active"
 ---
 
 # § 3805. Payments for commercial products and commercial services
@@ -23,3 +24,17 @@ generated_at: "2026-03-30T02:53:38.198Z"
       - **(i)** as a consumption-based solution (as defined in section 3605 of this title ); or
       - **(ii)** under a technology subscription model or other model based on predetermined pricing for access to such service.
   - **(2)** The term “covered service” means a commercial service that includes access to or use of any combination of hardware, equipment, software, labor, or services, including access to commercial satellite data and associated services, that is integrated to provide a capability.
+
+Terms and Conditions for Payments
+
+Security for Payments
+
+Limitation on Advance Payments
+
+Nonapplication of Certain Conditions
+
+Definitions
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1834(a)](https://www.govinfo.gov/link/plaw/116/public/283), (f), Jan. 1, 2021, [134 Stat. 4234](https://www.govinfo.gov/link/statute/134/4234), 4236; [Pub. L. 119–60, div. A, title XVIII, § 1827](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1250](https://www.govinfo.gov/link/statute/139/1250).)*

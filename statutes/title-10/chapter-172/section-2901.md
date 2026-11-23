@@ -3,9 +3,10 @@ title: "Section 2901 - Strategic Environmental Research and Development Program"
 usc_title: 10
 usc_section: "2901"
 chapter: 172
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2901"
-generated_at: "2026-03-30T02:53:38.185Z"
+generated_at: "2026-11-23T21:25:32.702Z"
+status: "active"
 ---
 
 # § 2901. Strategic Environmental Research and Development Program
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:38.185Z"
   - **(2)** To identify research, technologies, and other information developed by the Department of Defense and the Department of Energy for national defense purposes that would be useful to governmental and private organizations involved in the development of energy technologies and of technologies to address environmental restoration, waste minimization, hazardous waste substitution, and other environmental concerns, and to share such research, technologies, and other information with such governmental and private organizations.
   - **(3)** To furnish other governmental organizations and private organizations with data, enhanced data collection capabilities, and enhanced analytical capabilities for use by such organizations in the conduct of environmental research, including research concerning global environmental change.
   - **(4)** To identify technologies developed by the private sector that are useful for Department of Defense and Department of Energy defense activities concerning environmental restoration, hazardous and solid waste minimization and prevention, hazardous material substitution, and provide for the use of such technologies in the conduct of such activities.
+
+## Source Credit
+
+*(Added [Pub. L. 101–510, div. A, title XVIII, § 1801(a)(1)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1751](https://www.govinfo.gov/link/statute/104/1751).)*

@@ -3,9 +3,10 @@ title: "Section 4165 - Review and audit by Secretary"
 usc_title: 25
 usc_section: "4165"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4165"
-generated_at: "2026-03-30T02:54:52.860Z"
+generated_at: "2026-11-23T21:25:54.710Z"
+status: "active"
 ---
 
 # § 4165. Review and audit by Secretary
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:52.860Z"
     - **(A)** may revise the report; and
     - **(B)** not later than 30 days after the date on which those comments are received, shall make the comments and the report (with any revisions made under subparagraph (A)) readily available to the public.
 - **(d)** Subject to section 4161(a) of this title , after reviewing the reports and audits relating to a recipient that are submitted to the Secretary under this section, the Secretary may adjust the amount of a grant made to a recipient under this chapter in accordance with the findings of the Secretary with respect to those reports and audits.
+
+## Source Credit
+
+*([Pub. L. 104–330, title IV, § 405](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4040](https://www.govinfo.gov/link/statute/110/4040); [Pub. L. 106–568, title X, § 1003(f)(2)](https://www.govinfo.gov/link/plaw/106/public/568), Dec. 27, 2000, [114 Stat. 2927](https://www.govinfo.gov/link/statute/114/2927); [Pub. L. 106–569, title V, § 503(e)(2)](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 2963](https://www.govinfo.gov/link/statute/114/2963).)*

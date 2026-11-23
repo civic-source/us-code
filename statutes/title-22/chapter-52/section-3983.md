@@ -3,9 +3,10 @@ title: "Section 3983 - Assignments to non-Service and other positions"
 usc_title: 22
 usc_section: "3983"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3983"
-generated_at: "2026-03-30T02:55:05.400Z"
+generated_at: "2026-11-23T21:25:58.607Z"
+status: "active"
 ---
 
 # § 3983. Assignments to non-Service and other positions
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:05.400Z"
     - **(B)** an employee in a position that has been excepted from the competitive service by reason of its confidential, policy-determining, policy-making, or policy-advocating character.
   - **(4)** An assignment or detail under this subsection may be made with or without reimbursement from the American Institute in Taiwan.
   - **(5)** The period of an assignment or detail under this subsection shall not exceed a total of 6 years, except that the Secretary (or any other head of a department or agency of the United States, with the concurrence of the Secretary) may extend the period of an assignment or detail for an additional period of not more than 6 years.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 503](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2093](https://www.govinfo.gov/link/statute/94/2093); [Pub. L. 107–228, div. A, title III, § 326](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1386](https://www.govinfo.gov/link/statute/116/1386).)*

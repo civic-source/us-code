@@ -3,9 +3,10 @@ title: "Section 2714 - Denial of passports to certain convicted drug traffickers
 usc_title: 22
 usc_section: "2714"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2714"
-generated_at: "2026-03-30T02:55:05.380Z"
+generated_at: "2026-11-23T21:25:58.534Z"
+status: "active"
 ---
 
 # § 2714. Denial of passports to certain convicted drug traffickers
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:05.380Z"
   - **(5)** the term “misdemeanor” means a criminal offense other than a felony;
   - **(6)** the term “State drug offense” means a violation of State law involving the manufacture, distribution, or possession of a controlled substance; and
   - **(7)** the term “State law” means the law of a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, or a territory or possession of the United States.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title I, § 42, as added [Pub. L. 100–690, title IV, § 4603(2)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4287](https://www.govinfo.gov/link/statute/102/4287).)*

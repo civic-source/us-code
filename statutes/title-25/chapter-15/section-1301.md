@@ -3,9 +3,10 @@ title: "Section 1301 - Definitions"
 usc_title: 25
 usc_section: "1301"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1301"
-generated_at: "2026-03-30T02:54:52.815Z"
+generated_at: "2026-11-23T21:25:54.599Z"
+status: "active"
 ---
 
 # § 1301. Definitions
@@ -16,3 +17,7 @@ For purposes of this subchapter, the term—
   - **(2)** “powers of self-government” means and includes all governmental powers possessed by an Indian tribe, executive, legislative, and judicial, and all offices, bodies, and tribunals by and through which they are executed, including courts of Indian offenses; and means the inherent power of Indian tribes, hereby recognized and affirmed, to exercise criminal jurisdiction over all Indians;
   - **(3)** “Indian court” means any Indian tribal court or court of Indian offense; and
   - **(4)** “Indian” means any person who would be subject to the jurisdiction of the United States as an Indian under section 1153, title 18, if that person were to commit an offense listed in that section in Indian country to which that section applies.
+
+## Source Credit
+
+*([Pub. L. 90–284, title II, § 201](https://www.govinfo.gov/link/plaw/90/public/284), Apr. 11, 1968, [82 Stat. 77](https://www.govinfo.gov/link/statute/82/77); [Pub. L. 101–511, title VIII, § 8077(b)](https://www.govinfo.gov/link/plaw/101/public/511), (c), Nov. 5, 1990, [104 Stat. 1892](https://www.govinfo.gov/link/statute/104/1892).)*

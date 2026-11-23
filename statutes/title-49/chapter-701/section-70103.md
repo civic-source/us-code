@@ -3,9 +3,10 @@ title: "Section 70103 - National Multimodal Freight Network"
 usc_title: 49
 usc_section: "70103"
 chapter: 701
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 70103"
-generated_at: "2026-03-30T02:56:19.417Z"
+generated_at: "2026-11-23T21:26:41.037Z"
+status: "active"
 ---
 
 # § 70103. National Multimodal Freight Network
@@ -65,3 +66,35 @@ generated_at: "2026-03-30T02:56:19.417Z"
         - **(II)** the designations referred to in clause (i) address the factors for designation described in this subsection.
     - **(E)** The Secretary shall accept from a State a designation under subparagraph (D) only if the Secretary determines that the designation meets the applicable requirements of subparagraph (A).
 - **(c)** Not later than 5 years after the initial designation under subsection (b), and every 5 years thereafter, the Assistant Secretary, using the designation factors described in subsection (b), shall redesignate the National Multimodal Freight Network.
+
+In General
+
+Designation of National Multimodal Freight Network.—
+
+In general
+
+Factors
+
+Considerations
+
+State input.—
+
+In general
+
+Critical rural freight facilities and corridors
+
+Limitation.—
+
+In general
+
+Determination by under secretary
+
+Submission and certification
+
+Condition for acceptance
+
+Redesignation of National Multimodal Freight Network
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title VIII, § 8001(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1607](https://www.govinfo.gov/link/statute/129/1607); amended [Pub. L. 117–58, div. B, title I](https://www.govinfo.gov/link/plaw/117/public/58), §§ 21101(d)(3), 21103, Nov. 15, 2021, [135 Stat. 656](https://www.govinfo.gov/link/statute/135/656), 657.)*

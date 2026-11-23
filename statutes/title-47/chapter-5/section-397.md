@@ -3,9 +3,10 @@ title: "Section 397 - Definitions"
 usc_title: 47
 usc_section: "397"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 397"
-generated_at: "2026-03-30T02:56:24.516Z"
+generated_at: "2026-11-23T21:26:36.020Z"
+status: "active"
 ---
 
 # § 397. Definitions
@@ -37,3 +38,7 @@ For the purposes of this part—
   - **(15)** The term “Secretary” means the Secretary of Commerce when such term is used in subpart A and subpart B, and the Secretary of Health and Human Services when such term is used in subpart C, subpart D, and this subpart.
   - **(16)** The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.
   - **(17)** The term “system of public telecommunications entities” means any combination of public telecommunications entities acting cooperatively to produce, acquire, or distribute programs, or to undertake related activities.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 397, formerly § 394, as added [Pub. L. 87–447](https://www.govinfo.gov/link/plaw/87/public/447), May 1, 1962, [76 Stat. 67](https://www.govinfo.gov/link/statute/76/67); renumbered § 397 and amended [Pub. L. 90–129, title I](https://www.govinfo.gov/link/plaw/90/public/129), §§ 103(f), 105, 106, title II, § 201(3), (6), Nov. 7, 1967, [81 Stat. 366–368](https://www.govinfo.gov/link/statute/81/366); [Pub. L. 94–192, § 5](https://www.govinfo.gov/link/plaw/94/public/192), Dec. 31, 1975, [89 Stat. 1100](https://www.govinfo.gov/link/statute/89/1100); [Pub. L. 94–309, § 6](https://www.govinfo.gov/link/plaw/94/public/309), June 5, 1976, [90 Stat. 684](https://www.govinfo.gov/link/statute/90/684); [Pub. L. 95–567, title IV, § 401](https://www.govinfo.gov/link/plaw/95/public/567), Nov. 2, 1978, [92 Stat. 2422](https://www.govinfo.gov/link/statute/92/2422); [Pub. L. 97–35, title XII, § 1234(b)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 736](https://www.govinfo.gov/link/statute/95/736); [Pub. L. 101–437, title II, § 203(b)](https://www.govinfo.gov/link/plaw/101/public/437), Oct. 17, 1990, [104 Stat. 1000](https://www.govinfo.gov/link/statute/104/1000); [Pub. L. 104–316, title I, § 126(a)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3840](https://www.govinfo.gov/link/statute/110/3840).)*

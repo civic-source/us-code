@@ -3,9 +3,10 @@ title: "Section 2 - Marine Mammal Health Monitoring and Analysis Platform (Healt
 usc_title: 16
 usc_section: "2"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T02:54:22.966Z"
+generated_at: "2026-11-23T21:25:51.874Z"
+status: "active"
 ---
 
 # § 1421f–2. Marine Mammal Health Monitoring and Analysis Platform (Health MAP)
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:54:22.966Z"
 - **(f)**
   - **(1)** For the purposes of carrying out this section, the Secretary may solicit, accept, receive, hold, administer, and use gifts, devises, and bequests without any further approval or administrative action.
   - **(2)** A monetary gift, devise, or bequest accepted by the Secretary under paragraph (1) shall be credited as discretionary offsetting collections to the currently applicable appropriation, account, or fund of the Department of Commerce and shall be made available for such purposes only to the extent and in the amounts provided in advance in appropriations Acts.
+
+## Source Credit
+
+*([Pub. L. 92–522, title IV, § 408A](https://www.govinfo.gov/link/plaw/92/public/522), as added [Pub. L. 117–263, div. J, title CIV, § 10407(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3988](https://www.govinfo.gov/link/statute/136/3988).)*

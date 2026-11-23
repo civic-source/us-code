@@ -3,9 +3,10 @@ title: "Section 20161 - Fostering introduction of new technology to improve safe
 usc_title: 49
 usc_section: "20161"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 20161"
-generated_at: "2026-03-30T02:56:19.338Z"
+generated_at: "2026-11-23T21:26:40.710Z"
+status: "active"
 ---
 
 # § 20161. Fostering introduction of new technology to improve safety at highway-rail grade crossings
@@ -21,3 +22,15 @@ generated_at: "2026-03-30T02:56:19.338Z"
 - **(b)** It is the policy of the United States to encourage the development of new technology that can prevent loss of life and injuries at highway-rail grade crossings. The Secretary of Transportation is designated to carry out this policy in consultation with States and necessary public and private entities.
 - **(c)** Railroad carriers and railroad suppliers may submit for review and approval to the Secretary such new technology designed to improve safety at highway-rail grade crossings. The Secretary shall approve by order the new technology designed to improve safety at highway-rail grade crossings in accordance with Federal Railroad Administration standards for the development and use of processor-based signal and train control systems and shall consider the effects on safety of highway-user interface with the new technology.
 - **(d)** If the Secretary approves by order new technology to provide warning to highway users at a highway-rail grade crossing and such technology is installed at a highway-rail grade crossing in accordance with the conditions of the approval, this determination preempts any State statute or regulation concerning the adequacy of the technology in providing warning at the crossing.
+
+Findings.—
+
+Policy
+
+Submission of New Technology Proposals
+
+Effect of Secretarial Approval
+
+## Source Credit
+
+*(Added [Pub. L. 110–432, div. A, title II, § 210(a)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4876](https://www.govinfo.gov/link/statute/122/4876).)*

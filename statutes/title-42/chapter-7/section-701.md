@@ -3,9 +3,10 @@ title: "Section 701 - Authorization of appropriations; purposes; definitions"
 usc_title: 42
 usc_section: "701"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 701"
-generated_at: "2026-03-30T02:56:10.892Z"
+generated_at: "2026-11-23T21:26:31.175Z"
+status: "active"
 ---
 
 # § 701. Authorization of appropriations; purposes; definitions
@@ -45,8 +46,8 @@ generated_at: "2026-03-30T02:56:10.892Z"
       - **(v)** $2,500,000 for the portion of fiscal year 2014 on or after April 1, 2014 ;
       - **(vi)** $5,000,000 for each of fiscal years 2015 through 2017;
       - **(vii)** $6,000,000 for each of fiscal years 2018 through 2024;
-      - **(viii)** $6,000,000 for fiscal year 2025; and
-      - **(ix)** for the period beginning on October 1, 2025 , and ending on January 30, 2026 , an amount equal to the pro rata portion of the amount appropriated for fiscal year 2025.
+      - **(viii)** $6,000,000 for each of fiscal years 2025 and 2026; and
+      - **(ix)** for the period beginning on October 1, 2026 , and ending on December 31, 2026 , an amount equal to the pro rata portion of the amount appropriated for fiscal year 2026.
     - **(B)** Funds appropriated or authorized to be appropriated under subparagraph (A) shall—
       - **(i)** be in addition to amounts appropriated under subsection (a) and retained under section 702(a)(1) of this title for the purpose of carrying out activities described in subsection (a)(2); and
       - **(ii)** remain available until expended.
@@ -69,3 +70,23 @@ generated_at: "2026-03-30T02:56:10.892Z"
     - **(A)** the term “Indian tribe” has the meaning given such term in section 1603 of title 25 ;
     - **(B)** the term “State” means each of the 50 States and the District of Columbia; and
     - **(C)** the term “territory” means Puerto Rico, Guam, American Samoa, the Virgin Islands, and the Northern Mariana Islands.
+
+In General
+
+Application and Report
+
+“The Secretary of Health and Human Services shall develop a national data system for linking, for any infant up to age one—
+
+In General.—
+
+Development
+
+Field testing and evaluation
+
+Availability and distribution
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title V, § 501, as added [Pub. L. 97–35, title XXI, § 2192(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 818](https://www.govinfo.gov/link/statute/95/818); amended [Pub. L. 97–248, title I, § 137(b)(1)](https://www.govinfo.gov/link/plaw/97/public/248), (2), Sept. 3, 1982, [96 Stat. 376](https://www.govinfo.gov/link/statute/96/376); [Pub. L. 98–369, div. B, title III, § 2372(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1110](https://www.govinfo.gov/link/statute/98/1110); [Pub. L. 99–272, title IX, § 9527(a)](https://www.govinfo.gov/link/plaw/99/public/272) –(c), Apr. 7, 1986, [100 Stat. 219](https://www.govinfo.gov/link/statute/100/219); [Pub. L. 99–509, title IX, § 9441(a)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 2071](https://www.govinfo.gov/link/statute/100/2071); [Pub. L. 100–203, title IV, § 4118(p)(8)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–159](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 101–239, title VI, § 6501(a)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2273](https://www.govinfo.gov/link/statute/103/2273); [Pub. L. 103–432, title II, § 201](https://www.govinfo.gov/link/plaw/103/public/432), Oct. 31, 1994, [108 Stat. 4453](https://www.govinfo.gov/link/statute/108/4453); [Pub. L. 105–12, § 9(d)](https://www.govinfo.gov/link/plaw/105/public/12), Apr. 30, 1997, [111 Stat. 27](https://www.govinfo.gov/link/statute/111/27); [Pub. L. 106–554, § 1(a)(6) [title IX, § 921(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–584; [Pub. L. 109–171, title VI, § 6064](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 100](https://www.govinfo.gov/link/statute/120/100); [Pub. L. 111–148, title V, § 5507(b)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 668](https://www.govinfo.gov/link/statute/124/668); [Pub. L. 112–240, title VI, § 624](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2352](https://www.govinfo.gov/link/statute/126/2352); [Pub. L. 113–67, div. B, title II, § 1203](https://www.govinfo.gov/link/plaw/113/public/67), Dec. 26, 2013, [127 Stat. 1199](https://www.govinfo.gov/link/statute/127/1199); [Pub. L. 113–93, title II, § 207](https://www.govinfo.gov/link/plaw/113/public/93), Apr. 1, 2014, [128 Stat. 1046](https://www.govinfo.gov/link/statute/128/1046); [Pub. L. 114–10, title II, § 216](https://www.govinfo.gov/link/plaw/114/public/10), Apr. 16, 2015, [129 Stat. 153](https://www.govinfo.gov/link/statute/129/153); [Pub. L. 115–123, div. E, title V, § 50501](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 224](https://www.govinfo.gov/link/statute/132/224); [Pub. L. 116–39, § 5](https://www.govinfo.gov/link/plaw/116/public/39), Aug. 6, 2019, [133 Stat. 1062](https://www.govinfo.gov/link/statute/133/1062); [Pub. L. 118–42, div. G, title I, § 405](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 419](https://www.govinfo.gov/link/statute/138/419); [Pub. L. 118–69, § 2](https://www.govinfo.gov/link/plaw/118/public/69), July 12, 2024, [138 Stat. 1485](https://www.govinfo.gov/link/statute/138/1485); [Pub. L. 118–158, div. C, title III, § 3303](https://www.govinfo.gov/link/plaw/118/public/158), Dec. 21, 2024, [138 Stat. 1767](https://www.govinfo.gov/link/statute/138/1767); [Pub. L. 119–4, div. B, title III, § 2303](https://www.govinfo.gov/link/plaw/119/public/4), Mar. 15, 2025, [139 Stat. 45](https://www.govinfo.gov/link/statute/139/45); [Pub. L. 119–37, div. F, title III, § 6303](https://www.govinfo.gov/link/plaw/119/public/37), Nov. 12, 2025, [139 Stat. 636](https://www.govinfo.gov/link/statute/139/636); [Pub. L. 119–75, div. J, title III, § 6303](https://www.govinfo.gov/link/plaw/119/public/75), Feb. 3, 2026, [140 Stat. 686](https://www.govinfo.gov/link/statute/140/686).)*

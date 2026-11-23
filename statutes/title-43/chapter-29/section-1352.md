@@ -3,9 +3,10 @@ title: "Section 1352 - Oil and gas information program"
 usc_title: 43
 usc_section: "1352"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1352"
-generated_at: "2026-03-30T02:55:57.471Z"
+generated_at: "2026-11-23T21:26:19.834Z"
+status: "active"
 ---
 
 # § 1352. Oil and gas information program
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:57.471Z"
   - **(2)** In any action commenced against the Federal Government or a State pursuant to paragraph (1) of this subsection, the Federal Government or such State, as the case may be, may not raise as a defense (A) any claim of sovereign immunity, or (B) any claim that the employee who revealed the privileged information which is the basis of such suit was acting outside the scope of his employment in revealing such information.
 - **(g)** Any provision of State or local law which provides for public access to any privileged information received or obtained by any person pursuant to this subchapter is expressly preempted by the provisions of this section, to the extent that it applies to such information.
 - **(h)** If the Secretary finds that any State cannot or does not comply with the regulations issued under subsection (c) of this section, he shall thereafter withhold transmittal and deny inspection of privileged information to such State until he finds that such State can and will comply with such regulations.
+
+## Source Credit
+
+*(Aug. 7, 1953, ch. 345, § 26, as added [Pub. L. 95–372, title II, § 208](https://www.govinfo.gov/link/plaw/95/public/372), Sept. 18, 1978, [92 Stat. 664](https://www.govinfo.gov/link/statute/92/664).)*

@@ -3,9 +3,10 @@ title: "Section 109 - Limitations on exclusive rights: Effect of transfer of par
 usc_title: 17
 usc_section: "109"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 109"
-generated_at: "2026-03-30T02:54:15.345Z"
+generated_at: "2026-11-23T21:25:41.688Z"
+status: "active"
 ---
 
 # § 109. Limitations on exclusive rights: Effect of transfer of particular copy or phonorecord
@@ -28,3 +29,17 @@ generated_at: "2026-03-30T02:54:15.345Z"
 - **(c)** Notwithstanding the provisions of section 106(5), the owner of a particular copy lawfully made under this title, or any person authorized by such owner, is entitled, without the authority of the copyright owner, to display that copy publicly, either directly or by the projection of no more than one image at a time, to viewers present at the place where the copy is located.
 - **(d)** The privileges prescribed by subsections (a) and (c) do not, unless authorized by the copyright owner, extend to any person who has acquired possession of the copy or phonorecord from the copyright owner, by rental, lease, loan, or otherwise, without acquiring ownership of it.
 - **(e)** Notwithstanding the provisions of sections 106(4) and 106(5), in the case of an electronic audiovisual game intended for use in coin-operated equipment, the owner of a particular copy of such a game lawfully made under this title, is entitled, without the authority of the copyright owner of the game, to publicly perform or display that game in coin-operated equipment, except that this subsection shall not apply to any work of authorship embodied in the audiovisual game if the copyright owner of the electronic audiovisual game is not also the copyright owner of the work of authorship.
+
+In General
+
+Prospective Application
+
+Termination
+
+Evaluation by the Register of Copyrights and the Assistant Secretary for Communications and Information
+
+Report to Congress
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2548](https://www.govinfo.gov/link/statute/90/2548); [Pub. L. 98–450, § 2](https://www.govinfo.gov/link/plaw/98/public/450), Oct. 4, 1984, [98 Stat. 1727](https://www.govinfo.gov/link/statute/98/1727); [Pub. L. 100–617, § 2](https://www.govinfo.gov/link/plaw/100/public/617), Nov. 5, 1988, [102 Stat. 3194](https://www.govinfo.gov/link/statute/102/3194); [Pub. L. 101–650, title VIII](https://www.govinfo.gov/link/plaw/101/public/650), §§ 802, 803, Dec. 1, 1990, [104 Stat. 5134](https://www.govinfo.gov/link/statute/104/5134), 5135; [Pub. L. 103–465, title V, § 514(b)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4981](https://www.govinfo.gov/link/statute/108/4981); [Pub. L. 105–80, § 12(a)(5)](https://www.govinfo.gov/link/plaw/105/public/80), Nov. 13, 1997, [111 Stat. 1534](https://www.govinfo.gov/link/statute/111/1534); [Pub. L. 110–403, title II, § 209(a)(1)](https://www.govinfo.gov/link/plaw/110/public/403), Oct. 13, 2008, [122 Stat. 4264](https://www.govinfo.gov/link/statute/122/4264).)*

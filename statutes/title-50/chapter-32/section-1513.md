@@ -3,9 +3,10 @@ title: "Section 1513 - Deployment, storage, and disposal; notification to host c
 usc_title: 50
 usc_section: "1513"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1513"
-generated_at: "2026-03-30T02:56:26.205Z"
+generated_at: "2026-11-23T21:26:38.912Z"
+status: "active"
 ---
 
 # § 1513. Deployment, storage, and disposal; notification to host country and Congress; international law violations; reports to Congress and international organizations
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:26.205Z"
     - **(A)** any lethal chemical or any biological warfare agent, or
     - **(B)** any delivery system specifically designed to disseminate any such agent,
   - **(2)** None of the funds authorized by this Act or any other Act shall be used for the future testing, development, transportation, storage, or disposal of any lethal chemical or any biological warfare agent outside the United States, or for the disposal of any munitions in international waters, if the Secretary of State, after appropriate notice by the Secretary whenever any such action is contemplated, determines that such testing, development, transportation, storage, or disposal will violate international law. The Secretary of State shall report all determinations made by him under this paragraph to the President of the Senate and the Speaker of the House of Representatives, and to all appropriate international organizations, or organs thereof, in the event such report is required by treaty or other international agreement.
+
+## Source Credit
+
+*([Pub. L. 91–121, title IV, § 409(c)](https://www.govinfo.gov/link/plaw/91/public/121), Nov. 19, 1969, [83 Stat. 210](https://www.govinfo.gov/link/statute/83/210); [Pub. L. 91–441, title V, § 506(b)(2)](https://www.govinfo.gov/link/plaw/91/public/441), (3), Oct. 7, 1970, [84 Stat. 912](https://www.govinfo.gov/link/statute/84/912).)*

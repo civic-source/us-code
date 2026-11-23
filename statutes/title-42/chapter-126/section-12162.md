@@ -3,9 +3,10 @@ title: "Section 12162 - Intercity and commuter rail actions considered discrimin
 usc_title: 42
 usc_section: "12162"
 chapter: 126
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12162"
-generated_at: "2026-03-30T02:56:11.410Z"
+generated_at: "2026-11-23T21:26:33.456Z"
+status: "active"
 ---
 
 # § 12162. Intercity and commuter rail actions considered discriminatory
@@ -74,3 +75,7 @@ generated_at: "2026-03-30T02:56:11.410Z"
       - **(i)** It shall be considered discrimination, for purposes of section 12132 of this title and section 794 of title 29 , with respect to alterations of an existing station or part thereof in the intercity or commuter rail transportation systems that affect or could affect the usability of the station or part thereof, for the responsible person, owner, or person in control of the station to fail to make the alterations in such a manner that, to the maximum extent feasible, the altered portions of the station are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, upon completion of such alterations.
       - **(ii)** It shall be considered discrimination, for purposes of section 12132 of this title and section 794 of title 29 , with respect to alterations that affect or could affect the usability of or access to an area of the station containing a primary function, for the responsible person, owner, or person in control of the station to fail to make the alterations in such a manner that, to the maximum extent feasible, the path of travel to the altered area, and the bathrooms, telephones, and drinking fountains serving the altered area, are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, upon completion of such alterations, where such alterations to the path of travel or the bathrooms, telephones, and drinking fountains serving the altered area are not disproportionate to the overall alterations in terms of cost and scope (as determined under criteria established by the Attorney General).
     - **(C)** It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for an owner, or person in control, of a station governed by subparagraph (A) or (B) to fail to provide reasonable cooperation to a responsible person with respect to such station in that responsible person’s efforts to comply with such subparagraph. An owner, or person in control, of a station shall be liable to a responsible person for any failure to provide reasonable cooperation as required by this subparagraph. Failure to receive reasonable cooperation required by this subparagraph shall not be a defense to a claim of discrimination under this chapter.
+
+## Source Credit
+
+*([Pub. L. 101–336, title II, § 242](https://www.govinfo.gov/link/plaw/101/public/336), July 26, 1990, [104 Stat. 347](https://www.govinfo.gov/link/statute/104/347).)*

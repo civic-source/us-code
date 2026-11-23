@@ -3,9 +3,10 @@ title: "Section 13504 - Math and science education program"
 usc_title: 42
 usc_section: "13504"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13504"
-generated_at: "2026-03-30T02:56:11.448Z"
+generated_at: "2026-11-23T21:26:33.614Z"
+status: "active"
 ---
 
 # § 13504. Math and science education program
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:11.448Z"
 - **(f)** The programs in this section shall supplement and be developed in cooperation with the current mathematics and science education programs of the Department of Energy and the Department of Education but shall not supplant them.
 - **(g)** For purposes of this section, the term “qualified entity” means a nonprofit corporation, association, or institution that has demonstrated special knowledge of, and experience with, the education of low-income and first generation college students and whose primary mission is the operation of national programs that focus on low-income students and provide training and other services to educators.
 - **(h)** There are authorized to be appropriated such sums as may be necessary, to be derived from section 13503(e) of this title and the Environmental Restoration and Waste Management program, to carry out the purposes of this section.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXII, § 2204](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3089](https://www.govinfo.gov/link/statute/106/3089).)*

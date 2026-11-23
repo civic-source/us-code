@@ -3,9 +3,10 @@ title: "Section 11301 - Findings and purpose"
 usc_title: 42
 usc_section: "11301"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11301"
-generated_at: "2026-03-30T02:56:11.396Z"
+generated_at: "2026-11-23T21:26:33.406Z"
+status: "active"
 ---
 
 # § 11301. Findings and purpose
@@ -21,3 +22,29 @@ generated_at: "2026-03-30T02:56:11.396Z"
   - **(1)** to establish the United States Interagency Council on Homelessness;
   - **(2)** to use public resources and programs in a more coordinated manner to meet the critically urgent needs of the homeless of the Nation; and
   - **(3)** to provide funds for programs to assist the homeless, with special emphasis on elderly persons, handicapped persons, families with children, Native Americans, and veterans.
+
+In General
+
+Effective Date
+
+Findings
+
+Purposes
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 100–77, title I, § 102](https://www.govinfo.gov/link/plaw/100/public/77), July 22, 1987, [101 Stat. 484](https://www.govinfo.gov/link/statute/101/484); [Pub. L. 108–199, div. G, title II, § 216(2)](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 394](https://www.govinfo.gov/link/statute/118/394).)*

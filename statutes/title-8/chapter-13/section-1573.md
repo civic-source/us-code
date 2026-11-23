@@ -3,9 +3,10 @@ title: "Section 1573 - Immigration Services and Infrastructure Improvements Acco
 usc_title: 8
 usc_section: "1573"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1573"
-generated_at: "2026-03-30T02:53:10.505Z"
+generated_at: "2026-11-23T21:25:25.208Z"
+status: "active"
 ---
 
 # § 1573. Immigration Services and Infrastructure Improvements Account
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:10.505Z"
   - **(2)** Amounts appropriated pursuant to paragraph (1) may be referred to as the “Immigration Services and Infrastructure Improvements Account”.
   - **(3)** Amounts appropriated pursuant to paragraph (1) are authorized to remain available until expended.
   - **(4)** None of the funds appropriated pursuant to paragraph (1) may be expended until the report described in section 1574(a) of this title has been submitted to Congress.
+
+## Source Credit
+
+*([Pub. L. 106–313, title II, § 204](https://www.govinfo.gov/link/plaw/106/public/313), Oct. 17, 2000, [114 Stat. 1263](https://www.govinfo.gov/link/statute/114/1263); [Pub. L. 107–296, title IV, § 458](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2201](https://www.govinfo.gov/link/statute/116/2201).)*

@@ -3,9 +3,10 @@ title: "Section 3775 - Definitions"
 usc_title: 10
 usc_section: "3775"
 chapter: 275
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3775"
-generated_at: "2026-03-30T02:53:38.198Z"
+generated_at: "2026-11-23T21:25:32.740Z"
+status: "active"
 ---
 
 # § 3775. Definitions
@@ -21,3 +22,11 @@ generated_at: "2026-03-30T02:53:38.198Z"
       - **(ii)** to civil actions for damages and other appropriate remedies by the contractor or subcontractor whose technical data is affected by the breach; and
     - **(E)** that such technical data provided to the covered Government support contractor under the authority of this section shall not be used by the covered Government support contractor to compete against the third party for Government or non-Government contracts.
 - **(b)** In this subchapter, the terms “major system component”, “modular system interface”, and “modular open system approach” have the meanings provided in section 4401 of this title .
+
+Covered Government Support Contractor Defined
+
+Additional Definitions
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1833(a)(1)](https://www.govinfo.gov/link/plaw/116/public/283), (f), Jan. 1, 2021, [134 Stat. 4226](https://www.govinfo.gov/link/statute/134/4226), 4230.)*

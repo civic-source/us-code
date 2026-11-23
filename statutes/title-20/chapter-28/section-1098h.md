@@ -3,9 +3,10 @@ title: "Section 1098h - Procedure and requirements for requesting tax return inf
 usc_title: 20
 usc_section: "1098h"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1098h"
-generated_at: "2026-03-30T02:54:48.139Z"
+generated_at: "2026-11-23T21:25:47.221Z"
+status: "active"
 ---
 
 # § 1098h. Procedure and requirements for requesting tax return information from the Internal Revenue Service
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:54:48.139Z"
   - **(5)** An institution of higher education shall—
     - **(A)** keep a record of each written consent made under this subsection for a period of at least 3 years from the date of the student’s last date of attendance at the institution; and
     - **(B)** make each such record readily available for review by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 494](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 116–91, § 6(a)](https://www.govinfo.gov/link/plaw/116/public/91), Dec. 19, 2019, [133 Stat. 1194](https://www.govinfo.gov/link/statute/133/1194); amended [Pub. L. 116–260, div. N, title II, § 284(b)](https://www.govinfo.gov/link/plaw/116/public/260), div. FF, title I, § 103(b), title VII, § 702(p), Dec. 27, 2020, [134 Stat. 1986](https://www.govinfo.gov/link/statute/134/1986), 3086, 3191; [Pub. L. 119–21, title VIII, § 82001(c)(2)(D)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 341](https://www.govinfo.gov/link/statute/139/341).)*

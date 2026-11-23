@@ -3,9 +3,10 @@ title: "Section 609 - Employee training"
 usc_title: 2
 usc_section: "609"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 609"
-generated_at: "2026-03-30T02:53:04.798Z"
+generated_at: "2026-11-23T21:25:21.167Z"
+status: "active"
 ---
 
 # § 609. Employee training
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:04.798Z"
 - **(b)** The implementing regulations shall provide for training that, in the determination of the Director, is consistent with the training provided by agencies subject to chapter 41 of title 5.
 - **(c)** Any recovery of debt owed to the Congressional Budget Office under this section and its implementing regulations shall be credited to the appropriations account available for salaries and expenses of the Office at the time of recovery.
 - **(d)** This section shall apply to fiscal year 2002 and each fiscal year thereafter.
+
+## Source Credit
+
+*([Pub. L. 107–68, title I, § 125](https://www.govinfo.gov/link/plaw/107/public/68), Nov. 12, 2001, [115 Stat. 577](https://www.govinfo.gov/link/statute/115/577).)*

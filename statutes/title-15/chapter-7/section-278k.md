@@ -3,9 +3,10 @@ title: "Section 278k - Hollings Manufacturing Extension Partnership"
 usc_title: 15
 usc_section: "278k"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 278k"
-generated_at: "2026-03-30T02:54:08.079Z"
+generated_at: "2026-11-23T21:25:39.622Z"
+status: "active"
 ---
 
 # § 278k. Hollings Manufacturing Extension Partnership
@@ -163,3 +164,9 @@ generated_at: "2026-03-30T02:54:08.079Z"
     - **(B)** implement a comprehensive plan to train the Centers to address the obstacles identified in paragraph (2); and
     - **(C)** facilitate improved communication between the Centers to assist such manufacturers in implementing appropriate, targeted solutions to the obstacles identified in paragraph (2).
   - **(2)** As part of the Program, the Secretary shall develop open access resources that address best practices related to inventory sourcing, supply chain management, manufacturing techniques, available Federal resources, and other topics to further the competitiveness and profitability of small manufacturers.
+
+“Congress finds the following:
+
+## Source Credit
+
+*(Mar. 3, 1901, ch. 872, § 25, as added [Pub. L. 100–418, title V, § 5121(a)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1433](https://www.govinfo.gov/link/statute/102/1433); amended [Pub. L. 102–245, title I, § 105(e)](https://www.govinfo.gov/link/plaw/102/public/245), Feb. 14, 1992, [106 Stat. 12](https://www.govinfo.gov/link/statute/106/12); [Pub. L. 105–309, § 2](https://www.govinfo.gov/link/plaw/105/public/309), Oct. 30, 1998, [112 Stat. 2935](https://www.govinfo.gov/link/statute/112/2935); [Pub. L. 110–69, title III, § 3003](https://www.govinfo.gov/link/plaw/110/public/69), Aug. 9, 2007, [121 Stat. 587](https://www.govinfo.gov/link/statute/121/587); [Pub. L. 111–240, title IV, § 4226(a)](https://www.govinfo.gov/link/plaw/111/public/240), Sept. 27, 2010, [124 Stat. 2598](https://www.govinfo.gov/link/statute/124/2598); [Pub. L. 111–358, title IV, § 404(a)](https://www.govinfo.gov/link/plaw/111/public/358) –(f)(1), (3), (h), (i), title VII, § 703, Jan. 4, 2011, [124 Stat. 4001–4003](https://www.govinfo.gov/link/statute/124/4001), 4042; [Pub. L. 114–329, title V, § 501(b)](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 3023](https://www.govinfo.gov/link/statute/130/3023); [Pub. L. 117–167, div. B, title II](https://www.govinfo.gov/link/plaw/117/public/167), §§ 10252(a), (b), (d), 10255, Aug. 9, 2022, [136 Stat. 1499](https://www.govinfo.gov/link/statute/136/1499), 1503; [Pub. L. 117–286, § 4(a)(65)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4312](https://www.govinfo.gov/link/statute/136/4312).)*

@@ -3,9 +3,10 @@ title: "Section 2654 - Aircraft safety: requirements for certain highly traffick
 usc_title: 10
 usc_section: "2654"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2654"
-generated_at: "2026-03-30T02:53:38.167Z"
+generated_at: "2026-11-23T21:25:32.642Z"
+status: "active"
 ---
 
 # § 2654. Aircraft safety: requirements for certain highly trafficked domestic airspace
@@ -22,3 +23,15 @@ generated_at: "2026-03-30T02:53:38.167Z"
     - **(A)** the Committee on Armed Services and the Committee on Transportation and Infrastructure of the House of Representatives; and
     - **(B)** the Committee on Armed Services and the Committee on Commerce, Science, and Transportation of the Senate.
   - **(2)** The term “covered airspace” means the Washington, DC Metropolitan Area Special Flight Rules Area, as such term is defined in section 93.335 of title 14, Code of Federal Regulations, or any successor regulation.
+
+Limitation on Operation
+
+Waiver Authority
+
+Limitation on Delegation
+
+Definitions.—
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title III, § 373(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 837](https://www.govinfo.gov/link/statute/139/837).)*

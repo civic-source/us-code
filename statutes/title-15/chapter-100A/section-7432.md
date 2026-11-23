@@ -3,9 +3,10 @@ title: "Section 7432 - National cybersecurity challenges"
 usc_title: 15
 usc_section: "7432"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7432"
-generated_at: "2026-03-30T02:54:08.223Z"
+generated_at: "2026-11-23T21:25:40.058Z"
+status: "active"
 ---
 
 # § 7432. National cybersecurity challenges
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:54:08.223Z"
     - **(A)** A scope for efforts carried out under subsection (b).
     - **(B)** Metrics to assess submissions for prizes under competitions carried out under subsection (b) as the submissions pertain to the national cybersecurity challenges established under subsection (a).
   - **(3)** The Secretary may not provide any additional compensation, except for travel expenses, to a member of the advisory council designated under paragraph (1) for participation in the advisory council.
+
+## Source Credit
+
+*([Pub. L. 113–274, title II, § 205](https://www.govinfo.gov/link/plaw/113/public/274), as added [Pub. L. 116–283, div. H, title XCIV, § 9407(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4813](https://www.govinfo.gov/link/statute/134/4813).)*

@@ -3,9 +3,10 @@ title: "Section 16431 - Federal utility participation in transmission organizati
 usc_title: 42
 usc_section: "16431"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16431"
-generated_at: "2026-03-30T02:56:11.486Z"
+generated_at: "2026-11-23T21:26:33.742Z"
+status: "active"
 ---
 
 # § 16431. Federal utility participation in transmission organizations
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:11.486Z"
   - **(2)** This subsection does not—
     - **(A)** suspend, or exempt any Federal utility from, any provision of Federal law in effect on August 8, 2005 , including any requirement or direction relating to the use of the transmission system of the Federal utility, environmental protection, fish and wildlife protection, flood control, navigation, water delivery, or recreation; or
     - **(B)** authorize abrogation of any contract or treaty obligation.
+
+## Source Credit
+
+*([Pub. L. 109–58, title XII, § 1232](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 956](https://www.govinfo.gov/link/statute/119/956).)*

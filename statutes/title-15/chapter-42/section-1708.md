@@ -3,9 +3,10 @@ title: "Section 1708 - Certification of substantially equivalent State law"
 usc_title: 15
 usc_section: "1708"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1708"
-generated_at: "2026-03-30T02:54:08.159Z"
+generated_at: "2026-11-23T21:25:39.893Z"
+status: "active"
 ---
 
 # § 1708. Certification of substantially equivalent State law
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:08.159Z"
 - **(c)** If a State fails to meet the standards for certification pursuant to subsection (a), the Director shall notify the State in writing of the changes in State law, regulation, or administration that are needed in order to obtain certification.
 - **(d)** The Director shall periodically review the laws and regulations, and the administration thereof, of States certified under subsection (a), and may withdraw such certification upon a determination that such laws, regulations, and the administration thereof, taken as a whole, no longer meet the requirements of subsection (a).
 - **(e)** Nothing in this chapter may be construed to prevent or limit the authority of any State or local government to enact and enforce with regard to the sale of land any law, ordinance, or code not in conflict with this chapter. In administering this chapter, the Director shall cooperate with State authorities charged with the responsibility of regulating the sale or lease of lots which are subject to this chapter.
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIV, § 1409](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 594](https://www.govinfo.gov/link/statute/82/594); [Pub. L. 96–153, title IV, § 404](https://www.govinfo.gov/link/plaw/96/public/153), Dec. 21, 1979, [93 Stat. 1129](https://www.govinfo.gov/link/statute/93/1129); [Pub. L. 111–203, title X, § 1098A(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2105](https://www.govinfo.gov/link/statute/124/2105).)*

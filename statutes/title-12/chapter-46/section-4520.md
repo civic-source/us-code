@@ -3,9 +3,10 @@ title: "Section 4520 - Minority and women inclusion; diversity requirements"
 usc_title: 12
 usc_section: "4520"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4520"
-generated_at: "2026-03-30T02:53:53.507Z"
+generated_at: "2026-11-23T21:25:37.184Z"
+status: "active"
 ---
 
 # § 4520. Minority and women inclusion; diversity requirements
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:53.507Z"
   - **(2)** sponsoring and recruiting at job fairs in urban communities, and placing employment advertisements in newspapers and magazines oriented toward women and people of color;
   - **(3)** partnering with organizations that are focused on developing opportunities for minorities and women to place talented young minorities and women in industry internships, summer employment, and full-time positions; and
   - **(4)** where feasible, partnering with inner-city high schools, girls’ high schools, and high schools with majority minority populations to establish or enhance financial literacy programs and provide mentoring.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1319A](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3950](https://www.govinfo.gov/link/statute/106/3950); [Pub. L. 110–289, div. A, title I](https://www.govinfo.gov/link/plaw/110/public/289), §§ 1116, 1161(a)(2), July 30, 2008, [122 Stat. 2681](https://www.govinfo.gov/link/statute/122/2681), 2779.)*

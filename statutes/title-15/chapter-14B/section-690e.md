@@ -3,9 +3,10 @@ title: "Section 690e - Issuance and guarantee of trust certificates"
 usc_title: 15
 usc_section: "690e"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 690e"
-generated_at: "2026-03-30T02:54:08.112Z"
+generated_at: "2026-11-23T21:25:39.722Z"
+status: "active"
 ---
 
 # § 690e. Issuance and guarantee of trust certificates
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:08.112Z"
     - **(B)** Any agent performing functions on behalf of the Administrator under this paragraph shall provide a fidelity bond or insurance in such amounts as the Administrator determines to be necessary to fully protect the interests of the United States.
   - **(3)** The Administrator may regulate brokers and dealers in trust certificates issued under this section.
   - **(4)** Nothing in this subsection may be construed to prohibit the use of a book-entry or other electronic form of registration for trust certificates issued under this section.
+
+## Source Credit
+
+*([Pub. L. 85–699, title III, § 386](https://www.govinfo.gov/link/plaw/85/public/699), as added [Pub. L. 110–140, title XII, § 1207](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1779](https://www.govinfo.gov/link/statute/121/1779).)*

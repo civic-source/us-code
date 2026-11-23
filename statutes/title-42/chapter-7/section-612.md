@@ -3,9 +3,10 @@ title: "Section 612 - Direct funding and administration by Indian tribes"
 usc_title: 42
 usc_section: "612"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 612"
-generated_at: "2026-03-30T02:56:10.874Z"
+generated_at: "2026-11-23T21:26:31.089Z"
+status: "active"
 ---
 
 # § 612. Direct funding and administration by Indian tribes
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:56:10.874Z"
 - **(i)**
   - **(1)** Notwithstanding any other provision of this section, and except as provided in paragraph (2), an Indian tribe in the State of Alaska that receives a tribal family assistance grant under this section shall use the grant to operate a program in accordance with requirements comparable to the requirements applicable to the program of the State of Alaska funded under this part. Comparability of programs shall be established on the basis of program criteria developed by the Secretary in consultation with the State of Alaska and such Indian tribes.
   - **(2)** An Indian tribe described in paragraph (1) may apply to the appropriate State authority to receive a waiver of the requirement of paragraph (1).
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 412, as added [Pub. L. 104–193, title I, § 103(a)(1)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2150](https://www.govinfo.gov/link/statute/110/2150); amended [Pub. L. 105–33, title V](https://www.govinfo.gov/link/plaw/105/public/33), §§ 5001(c), 5508, 5514(c), Aug. 5, 1997, [111 Stat. 589](https://www.govinfo.gov/link/statute/111/589), 617, 620; [Pub. L. 106–113, div. B, § 1000(a)(4) [title VIII, § 801(b)(2)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1535](https://www.govinfo.gov/link/statute/113/1535), 1501A–283; [Pub. L. 106–554, § 1(a)(1) [title I, § 107(b)(5)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–12; [Pub. L. 108–40, § 3(h)](https://www.govinfo.gov/link/plaw/108/public/40), June 30, 2003, [117 Stat. 837](https://www.govinfo.gov/link/statute/117/837); [Pub. L. 112–96, title IV, § 4002(d)](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 195](https://www.govinfo.gov/link/statute/126/195); [Pub. L. 115–31, div. M, title I, § 102(a)(3)](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 800](https://www.govinfo.gov/link/statute/131/800).)*

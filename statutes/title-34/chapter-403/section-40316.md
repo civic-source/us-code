@@ -3,9 +3,10 @@ title: "Section 40316 - National Crime Prevention and Privacy Compact"
 usc_title: 34
 usc_section: "40316"
 chapter: 403
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 40316"
-generated_at: "2026-03-30T02:55:33.309Z"
+generated_at: "2026-11-23T21:26:09.831Z"
+status: "active"
 ---
 
 # § 40316. National Crime Prevention and Privacy Compact
@@ -140,3 +141,9 @@ generated_at: "2026-03-30T02:55:33.309Z"
 - **(b)** Duties of FBI The FBI shall exercise immediate and necessary action to preserve the integrity of the III System, maintain system policy and standards, protect the accuracy and privacy of records, and to prevent abuses, until the Council holds a hearing on such matters.
 - **(c)** Right of appeal The FBI or a Party State may appeal any decision of the Council to the Attorney General, and thereafter may file suit in the appropriate district court of the United States, which shall have original jurisdiction of all cases or controversies arising under this Compact. Any suit arising under this Compact and initiated in a State court shall be removed to the appropriate district court of the United States in the manner provided by section 1446 of title 28 , United States Code, or other statutory authority.
 
+
+Overview
+
+## Source Credit
+
+*([Pub. L. 105–251, title II, § 217](https://www.govinfo.gov/link/plaw/105/public/251), Oct. 9, 1998, [112 Stat. 1876](https://www.govinfo.gov/link/statute/112/1876); [Pub. L. 117–286, § 4(a)(214)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4329](https://www.govinfo.gov/link/statute/136/4329).)*

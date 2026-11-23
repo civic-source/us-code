@@ -3,9 +3,10 @@ title: "Section 7414 - Recordkeeping, inspections, monitoring, and entry"
 usc_title: 42
 usc_section: "7414"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7414"
-generated_at: "2026-03-30T02:56:11.301Z"
+generated_at: "2026-11-23T21:26:33.091Z"
+status: "active"
 ---
 
 # § 7414. Recordkeeping, inspections, monitoring, and entry
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.301Z"
 - **(d)**
   - **(1)** In the case of any emission standard or limitation or other requirement which is adopted by a State, as part of an applicable implementation plan or as part of an order under section 7413(d) 5 5 See References in Text note below. of this title, before carrying out an entry, inspection, or monitoring under paragraph (2) of subsection (a) with respect to such standard, limitation, or other requirement, the Administrator (or his representatives) shall provide the State air pollution control agency with reasonable prior notice of such action, indicating the purpose of such action. No State agency which receives notice under this paragraph of an action proposed to be taken may use the information contained in the notice to inform the person whose property is proposed to be affected of the proposed action. If the Administrator has reasonable basis for believing that a State agency is so using or will so use such information, notice to the agency under this paragraph is not required until such time as the Administrator determines the agency will no longer so use information contained in a notice under this paragraph. Nothing in this section shall be construed to require notification to any State agency of any action taken by the Administrator with respect to any standard, limitation, or other requirement which is not part of an applicable implementation plan or which was promulgated by the Administrator under section 7410(c) of this title .
   - **(2)** Nothing in paragraph (1) shall be construed to provide that any failure of the Administrator to comply with the requirements of such paragraph shall be a defense in any enforcement action brought by the Administrator or shall make inadmissible as evidence in any such action any information or material obtained notwithstanding such failure to comply with such requirements.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 114, as added [Pub. L. 91–604, § 4(a)](https://www.govinfo.gov/link/plaw/91/public/604), Dec. 31, 1970, [84 Stat. 1687](https://www.govinfo.gov/link/statute/84/1687); amended [Pub. L. 93–319, § 6(a)(4)](https://www.govinfo.gov/link/plaw/93/public/319), June 22, 1974, [88 Stat. 259](https://www.govinfo.gov/link/statute/88/259); [Pub. L. 95–95, title I](https://www.govinfo.gov/link/plaw/95/public/95), §§ 109(d)(3), 113, title III, § 305(d), Aug. 7, 1977, [91 Stat. 701](https://www.govinfo.gov/link/statute/91/701), 709, 776; [Pub. L. 95–190, § 14(a)(22)](https://www.govinfo.gov/link/plaw/95/public/190), (23), Nov. 16, 1977, [91 Stat. 1400](https://www.govinfo.gov/link/statute/91/1400); [Pub. L. 101–549, title III, § 302(c)](https://www.govinfo.gov/link/plaw/101/public/549), title VII, § 702(a), (b), Nov. 15, 1990, [104 Stat. 2574](https://www.govinfo.gov/link/statute/104/2574), 2680, 2681.)*

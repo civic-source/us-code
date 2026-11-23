@@ -3,12 +3,17 @@ title: "Section 2703a - Emergency back-up care"
 usc_title: 22
 usc_section: "2703a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2703a"
-generated_at: "2026-03-30T02:55:05.379Z"
+generated_at: "2026-11-23T21:25:58.531Z"
+status: "active"
 ---
 
 # § 2703a. Emergency back-up care
 
 - **(a)** The Secretary and the Administrator for the United States Agency for International Development are authorized to provide for unanticipated non-medical care, including dependent child and eldercare, and essential services directly related to caring for an acute injury or illness, for USAID and Department employees and their family members, including through the provision of such non-medical services, referrals to care providers, and reimbursement of reasonable expenses for such services.
 - **(b)** Services provided pursuant to this section shall not exceed $2,000,000 per fiscal year.
+
+## Source Credit
+
+*([Pub. L. 118–31, div. F, title LXII, § 6223](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 979](https://www.govinfo.gov/link/statute/137/979).)*

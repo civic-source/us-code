@@ -3,9 +3,10 @@ title: "Section 3806 - Collection of civil penalties and assessments"
 usc_title: 31
 usc_section: "3806"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 3806"
-generated_at: "2026-03-30T02:55:34.062Z"
+generated_at: "2026-11-23T21:26:10.600Z"
+status: "active"
 ---
 
 # § 3806. Collection of civil penalties and assessments
@@ -30,3 +31,13 @@ generated_at: "2026-03-30T02:55:34.062Z"
     - **(C)** Any amount of a penalty or assessment imposed by the Secretary of Health and Human Services under this chapter with respect to a claim or statement made in connection with disability benefits under title II of the Social Security Act shall be deposited in the Federal Disability Insurance Trust Fund.
     - **(D)** Any amount of a penalty or assessment imposed by the Secretary of Health and Human Services under this chapter with respect to a claim or statement made in connection with benefits under part A of title XVIII of the Social Security Act shall be deposited in the Federal Hospital Insurance Trust Fund.
     - **(E)** Any amount of a penalty or assessment imposed by the Secretary of Health and Human Services under this chapter with respect to a claim or statement made in connection with benefits under part B of title XVIII of the Social Security Act shall be deposited in the Federal Supplementary Medical Insurance Trust Fund.
+
+(aa) the appropriations account of the authority or other Federal entity from which the costs described in subparagraph (A) were obligated;
+
+(bb) a similar appropriations account of the authority or other Federal entity; or
+
+(cc) if the authority or other Federal entity expended nonappropriated funds, another appropriate account; and
+
+## Source Credit
+
+*(Added [Pub. L. 99–509, title VI, § 6103(a)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1945](https://www.govinfo.gov/link/statute/100/1945); amended [Pub. L. 102–572, title IX, § 902(b)(1)](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4516](https://www.govinfo.gov/link/statute/106/4516); [Pub. L. 118–159, div. E, title LII, § 5203(d)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2440](https://www.govinfo.gov/link/statute/138/2440).)*

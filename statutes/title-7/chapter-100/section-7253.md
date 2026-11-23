@@ -3,9 +3,10 @@ title: "Section 7253 - Consolidation and reform of Federal milk marketing orders
 usc_title: 7
 usc_section: "7253"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7253"
-generated_at: "2026-03-30T02:53:42.446Z"
+generated_at: "2026-11-23T21:25:28.419Z"
+status: "active"
 ---
 
 # § 7253. Consolidation and reform of Federal milk marketing orders
@@ -30,3 +31,31 @@ generated_at: "2026-03-30T02:53:42.446Z"
     - **(B)** describing the efforts underway and the progress made in implementing the reforms required by subsection (a); and
     - **(C)** containing such recommendations as the Secretary considers appropriate for further improvements and reforms to the Federal milk marketing order system.
   - **(2)** Any limitation imposed by Act of Congress on the conduct or completion of reports to Congress shall not apply to the report required under this section, unless the limitation specifically refers to this section.
+
+Final Rule Defined
+
+Implementation of Final Rule for Milk Order Reform
+
+Use of Option
+
+for Pricing Class I Milk
+
+Effect of Prior Announcement of Minimum Prices
+
+Implementation of Requirement
+
+Congressional Finding
+
+Rulemaking Required
+
+Time Period for Rulemaking
+
+Effect of Court Order
+
+Failure To Timely Complete Rulemaking
+
+Implementation of Requirement
+
+## Source Credit
+
+*([Pub. L. 104–127, title I, § 143](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 915](https://www.govinfo.gov/link/statute/110/915); [Pub. L. 113–79, title I, § 1410(d)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 693](https://www.govinfo.gov/link/statute/128/693).)*

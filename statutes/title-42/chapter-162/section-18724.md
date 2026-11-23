@@ -3,9 +3,10 @@ title: "Section 18724 - Enhanced grid security"
 usc_title: 42
 usc_section: "18724"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18724"
-generated_at: "2026-03-30T02:56:11.527Z"
+generated_at: "2026-11-23T21:26:33.839Z"
+status: "active"
 ---
 
 # § 18724. Enhanced grid security
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:56:11.527Z"
     - **(G)** provide technical assistance to States and other entities for standards and risk analysis.
   - **(4)** Nothing in this section authorizes new regulatory requirements.
   - **(5)** There is authorized to be appropriated to the Secretary to carry out this subsection $50,000,000 for the period of fiscal years 2022 through 2026.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title I, § 40125](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 954](https://www.govinfo.gov/link/statute/135/954).)*

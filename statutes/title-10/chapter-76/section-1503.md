@@ -3,9 +3,10 @@ title: "Section 1503 - Actions of Secretary concerned; initial board inquiry"
 usc_title: 10
 usc_section: "1503"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1503"
-generated_at: "2026-03-30T02:53:38.126Z"
+generated_at: "2026-11-23T21:25:32.494Z"
+status: "active"
 ---
 
 # § 1503. Actions of Secretary concerned; initial board inquiry
@@ -65,3 +66,29 @@ generated_at: "2026-03-30T02:53:38.126Z"
     - **(B)** the report of the board (including the names of the members of the board) under subsection (h); and
   - **(2)** inform each individual referred to in paragraph (1) that the United States will conduct a subsequent inquiry into the whereabouts and status of the person on or about one year after the date of the first official notice of the disappearance of the person, unless information becomes available sooner that may result in a change in status of the person.
 - **(k)** Any determination of the status of a missing person under subsection (i) shall be treated as the determination of the status of the person by all departments and agencies of the United States.
+
+Determination by Secretary
+
+Inquiries Involving More Than One Missing Person
+
+Composition
+
+Duties of Board
+
+Board Proceedings
+
+Counsel for Missing Person
+
+Access to Proceedings
+
+Report
+
+Determination by Secretary
+
+Report to Family Members and Other Interested Persons
+
+Treatment of Determination
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title V, § 569(b)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 338](https://www.govinfo.gov/link/statute/110/338); amended [Pub. L. 104–201, div. A, title V, § 578(a)(2)](https://www.govinfo.gov/link/plaw/104/public/201), (b)(2), Sept. 23, 1996, [110 Stat. 2536](https://www.govinfo.gov/link/statute/110/2536); [Pub. L. 105–85, div. A, title V, § 599(a)(2)](https://www.govinfo.gov/link/plaw/105/public/85), (d), Nov. 18, 1997, [111 Stat. 1767](https://www.govinfo.gov/link/statute/111/1767), 1769.)*

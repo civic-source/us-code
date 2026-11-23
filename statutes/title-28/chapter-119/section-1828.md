@@ -3,9 +3,10 @@ title: "Section 1828 - Special interpretation services"
 usc_title: 28
 usc_section: "1828"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1828"
-generated_at: "2026-03-30T02:55:30.145Z"
+generated_at: "2026-11-23T21:26:01.107Z"
+status: "active"
 ---
 
 # § 1828. Special interpretation services
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:30.145Z"
 - **(b)** Upon the request of any person in any action for which special interpretation services established pursuant to subsection (a) are not otherwise provided, the Director, with the approval of the presiding judicial officer, may make such services available to the person requesting the services on a reimbursable basis at rates established in conformity with section 9701 of title 31 , but the Director may require the prepayment of the estimated expenses of providing the services by the person requesting them.
 - **(c)** Except as otherwise provided in this subsection, the expenses incident to providing services under subsection (a) of this section shall be paid by the Director from sums appropriated to the Federal judiciary. A presiding judicial officer, in such officer’s discretion, may order that all or part of the expenses shall be apportioned between or among the parties or shall be taxed as costs in a civil action, and any moneys collected as a result of such order may be used to reimburse the appropriations obligated and disbursed in payment for such services.
 - **(d)** Appropriations available to the Director shall be available to provide services in accordance with subsection (b) of this section, and moneys collected by the Director under that subsection may be used to reimburse the appropriations charged for such services. A presiding judicial officer, in such officer’s discretion, may order that all or part of the expenses shall be apportioned between or among the parties or shall be taxed as costs in the action.
+
+## Source Credit
+
+*(Added [Pub. L. 95–539, § 2(a)](https://www.govinfo.gov/link/plaw/95/public/539), Oct. 28, 1978, [92 Stat. 2042](https://www.govinfo.gov/link/statute/92/2042); amended [Pub. L. 97–258, § 3(g)](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1065](https://www.govinfo.gov/link/statute/96/1065).)*

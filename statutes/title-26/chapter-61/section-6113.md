@@ -3,9 +3,10 @@ title: "Section 6113 - Disclosure of nondeductibility of contributions"
 usc_title: 26
 usc_section: "6113"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6113"
-generated_at: "2026-03-30T02:55:27.842Z"
+generated_at: "2026-11-23T21:26:06.820Z"
+status: "active"
 ---
 
 # § 6113. Disclosure of nondeductibility of contributions
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:27.842Z"
     - **(B)** by television or radio, or
     - **(C)** by telephone.
   - **(2)** The term “fundraising solicitation” shall not include any letter or telephone call if such letter or call is not part of a coordinated fundraising campaign soliciting more than 10 persons during the calendar year.
+
+## Source Credit
+
+*(Added [Pub. L. 100–203, title X, § 10701(a)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–457](https://www.govinfo.gov/link/statute/101/1330).)*

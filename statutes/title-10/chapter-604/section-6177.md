@@ -3,9 +3,10 @@ title: "Section 6177 - Other programs relating to technology development"
 usc_title: 10
 usc_section: "6177"
 chapter: 604
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6177"
-generated_at: "2026-03-30T02:53:38.221Z"
+generated_at: "2026-11-23T21:25:32.819Z"
+status: "active"
 ---
 
 # § 6177. Other programs relating to technology development
@@ -90,3 +91,61 @@ generated_at: "2026-03-30T02:53:38.221Z"
   - **(5)** The term “National Laboratory” has the meaning given the term in section 2 of the Energy Policy Act of 2005 ( 42 U.S.C. 15801 ).
   - **(6)** The term “Office” means the Office of Environmental Management of the Department.
   - **(7)** The term “Secretary” means the Secretary of Energy, acting through the Assistant Secretary for Environmental Management.
+
+Incremental Technology Development Program
+
+High-Impact Technology Development Program
+
+Environmental Management University Program
+
+Definitions
+
+Establishment
+
+Focus
+
+Improvements
+
+Other areas
+
+Use of new and emerging technologies
+
+Development and demonstration
+
+Collaboration required
+
+Agreements to carry out projects
+
+Authority
+
+Selection
+
+Cost-sharing
+
+Briefing
+
+Establishment
+
+Areas of focus
+
+Project selection
+
+Selection
+
+Briefing
+
+Establishment
+
+Areas of focus
+
+Individual research grants
+
+Grants for interdisciplinary collaborations
+
+Hiring of undergraduates
+
+Workshops
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2), Dec. 18, 2025, [139 Stat. 1389](https://www.govinfo.gov/link/statute/139/1389), 1462.)*

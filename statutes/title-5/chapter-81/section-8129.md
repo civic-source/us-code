@@ -3,9 +3,10 @@ title: "Section 8129 - Recovery of overpayments"
 usc_title: 5
 usc_section: "8129"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8129"
-generated_at: "2026-03-30T02:52:56.042Z"
+generated_at: "2026-11-23T21:25:23.355Z"
+status: "active"
 ---
 
 # § 8129. Recovery of overpayments
@@ -15,3 +16,24 @@ generated_at: "2026-03-30T02:52:56.042Z"
 - **(c)** A certifying or disbursing official is not liable for an amount certified or paid by him when—
   - **(1)** adjustment or recovery of the amount is waived under subsection (b) of this section; or
   - **(2)** adjustment under subsection (a) of this section is not completed before the death of all individuals against whose benefits deductions are authorized.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 788 . | Sept. 7, 1916, ch. 458, § 38 , 39 Stat. 749 . Oct. 14, 1949, ch. 691, § 206 , 63 Stat. 864 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 788
+
+Sept. 7, 1916, ch. 458, § 38
+
+39 Stat. 749
+
+Oct. 14, 1949, ch. 691, § 206
+
+63 Stat. 864
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 546](https://www.govinfo.gov/link/statute/80/546).)*

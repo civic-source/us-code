@@ -3,9 +3,10 @@ title: "Section 20702 - Establishment of a grant program to develop, expand, and
 usc_title: 34
 usc_section: "20702"
 chapter: 207
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20702"
-generated_at: "2026-03-30T02:55:33.298Z"
+generated_at: "2026-11-23T21:26:09.788Z"
+status: "active"
 ---
 
 # § 20702. Establishment of a grant program to develop, expand, and strengthen assistance programs for certain persons subject to trafficking
@@ -101,3 +102,7 @@ generated_at: "2026-03-30T02:55:33.298Z"
 - **(j)** Not later than 30 months after March 7, 2013 , the Comptroller General of the United States shall submit a report to Congress that contains—
   - **(1)** an evaluation of the impact of this section in aiding minor victims of sex trafficking in the jurisdiction of the entity receiving the grant; and
   - **(2)** recommendations, if any, regarding any legislative or administrative action the Comptroller General determines appropriate.
+
+## Source Credit
+
+*([Pub. L. 109–164, title II, § 202](https://www.govinfo.gov/link/plaw/109/public/164), Jan. 10, 2006, [119 Stat. 3569](https://www.govinfo.gov/link/statute/119/3569); [Pub. L. 110–457, title III, § 302(3)](https://www.govinfo.gov/link/plaw/110/public/457), Dec. 23, 2008, [122 Stat. 5087](https://www.govinfo.gov/link/statute/122/5087); [Pub. L. 113–4, title XII, § 1241(a)](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 149](https://www.govinfo.gov/link/statute/127/149); [Pub. L. 115–393, title III, § 301(e)(1)(A)](https://www.govinfo.gov/link/plaw/115/public/393), (3), Dec. 21, 2018, [132 Stat. 5272](https://www.govinfo.gov/link/statute/132/5272); [Pub. L. 117–348, title I, § 103](https://www.govinfo.gov/link/plaw/117/public/348), Jan. 5, 2023, [136 Stat. 6215](https://www.govinfo.gov/link/statute/136/6215).)*

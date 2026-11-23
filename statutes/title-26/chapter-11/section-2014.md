@@ -3,9 +3,10 @@ title: "Section 2014 - Credit for foreign death taxes"
 usc_title: 26
 usc_section: "2014"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 2014"
-generated_at: "2026-03-30T02:55:27.779Z"
+generated_at: "2026-11-23T21:26:06.523Z"
+status: "active"
 ---
 
 # § 2014. Credit for foreign death taxes
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:27.779Z"
   - **(1)** a foreign country, in imposing estate, inheritance, legacy, or succession taxes, does not allow to citizens of the United States resident in such foreign country at the time of death a credit similar to the credit allowed under subsection (a),
   - **(2)** such foreign country, when requested by the United States to do so has not acted to provide such a similar credit in the case of citizens of the United States resident in such foreign country at the time of death, and
   - **(3)** it is in the public interest to allow the credit under subsection (a) in the case of citizens or subjects of such foreign country only if it allows such a similar credit in the case of citizens of the United States resident in such foreign country at the time of death,
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 378; [Pub. L. 85–866, title I, § 102(c)(2)](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1674](https://www.govinfo.gov/link/statute/72/1674); [Pub. L. 86–175, § 2](https://www.govinfo.gov/link/plaw/86/public/175), Aug. 21, 1959, [73 Stat. 397](https://www.govinfo.gov/link/statute/73/397); [Pub. L. 89–809, title I, § 106(b)(3)](https://www.govinfo.gov/link/plaw/89/public/809), Nov. 13, 1966, [80 Stat. 1570](https://www.govinfo.gov/link/statute/80/1570); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), title XX, § 2001(c)(1)(G), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834), 1852; [Pub. L. 107–16, title V, § 532(c)(3)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 74](https://www.govinfo.gov/link/statute/115/74).)*

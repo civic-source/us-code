@@ -3,9 +3,10 @@ title: "Section 4105 - Transfer of offenders serving sentence of imprisonment"
 usc_title: 18
 usc_section: "4105"
 chapter: 306
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 4105"
-generated_at: "2026-03-30T02:54:16.527Z"
+generated_at: "2026-11-23T21:25:44.239Z"
+status: "active"
 ---
 
 # § 4105. Transfer of offenders serving sentence of imprisonment
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:16.527Z"
   - **(2)** If the country from which the offender is transferred does not give credit for good time, the basis of computing the deduction from the sentence shall be the sentence imposed by the sentencing court and certified to be served upon transfer, at the rate provided in section 3624(b) of this title .
   - **(3)** Credit toward service of sentence may be withheld as provided in section 3624(b) of this title .
   - **(4)** Any sentence for an offense against the United States, imposed while the transferred offender is serving the sentence of imprisonment imposed in a foreign country, shall be aggregated with the foreign sentence, in the same manner as if the foreign sentence was one imposed by a United States district court for an offense against the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 95–144, § 1](https://www.govinfo.gov/link/plaw/95/public/144), Oct. 28, 1977, [91 Stat. 1215](https://www.govinfo.gov/link/statute/91/1215); amended [Pub. L. 98–473, title II, § 223(m)(2)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2029](https://www.govinfo.gov/link/statute/98/2029).)*

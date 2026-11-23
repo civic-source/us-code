@@ -3,9 +3,10 @@ title: "Section 1705 - Information required in statement of record"
 usc_title: 15
 usc_section: "1705"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1705"
-generated_at: "2026-03-30T02:54:08.159Z"
+generated_at: "2026-11-23T21:25:39.892Z"
+status: "active"
 ---
 
 # § 1705. Information required in statement of record
@@ -25,3 +26,7 @@ The statement of record shall contain the information and be accompanied by the 
   - **(10)** copies of instruments creating easements or other restrictions;
   - **(11)** such certified and uncertified financial statements of the developer as the Director may require; and
   - **(12)** such other information and such other documents and certifications as the Director may require as being reasonably necessary or appropriate for the protection of purchasers.
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIV, § 1406](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 592](https://www.govinfo.gov/link/statute/82/592); [Pub. L. 91–609, title IX, § 909](https://www.govinfo.gov/link/plaw/91/public/609), Dec. 31, 1970, [84 Stat. 1811](https://www.govinfo.gov/link/statute/84/1811); [Pub. L. 111–203, title X, § 1098A(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2105](https://www.govinfo.gov/link/statute/124/2105).)*

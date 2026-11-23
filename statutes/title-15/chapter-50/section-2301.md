@@ -3,9 +3,10 @@ title: "Section 2301 - Definitions"
 usc_title: 15
 usc_section: "2301"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2301"
-generated_at: "2026-03-30T02:54:08.171Z"
+generated_at: "2026-11-23T21:25:39.925Z"
+status: "active"
 ---
 
 # § 2301. Definitions
@@ -34,3 +35,7 @@ For the purposes of this chapter:
     - **(A)** between a place in a State and any place outside thereof, or
     - **(B)** which affects trade, traffic, commerce, or transportation described in subparagraph (A).
   - **(15)** The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Canal Zone, or American Samoa. The term “State law” includes a law of the United States applicable only to the District of Columbia or only to a territory or possession of the United States; and the term “Federal law” excludes any State law.
+
+## Source Credit
+
+*([Pub. L. 93–637, title I, § 101](https://www.govinfo.gov/link/plaw/93/public/637), Jan. 4, 1975, [88 Stat. 2183](https://www.govinfo.gov/link/statute/88/2183).)*

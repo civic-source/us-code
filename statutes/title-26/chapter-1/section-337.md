@@ -3,9 +3,10 @@ title: "Section 337 - Nonrecognition for property distributed to parent in compl
 usc_title: 26
 usc_section: "337"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 337"
-generated_at: "2026-03-30T02:55:27.666Z"
+generated_at: "2026-11-23T21:26:06.141Z"
+status: "active"
 ---
 
 # § 337. Nonrecognition for property distributed to parent in complete liquidation of subsidiary
@@ -24,3 +25,9 @@ generated_at: "2026-03-30T02:55:27.666Z"
 - **(d)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of the amendments made by subtitle D of title VI of the Tax Reform Act of 1986, including—
   - **(1)** regulations to ensure that such purposes may not be circumvented through the use of any provision of law or regulations (including the consolidated return regulations and part III of this subchapter) or through the use of a regulated investment company, real estate investment trust, or tax-exempt entity, and
   - **(2)** regulations providing for appropriate coordination of the provisions of this section with the provisions of this title relating to taxation of foreign corporations and their shareholders.
+
+“The amendment made by subparagraph (A)(ii) [amending this section] shall not apply to any reorganization if before June 10, 1987 —
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title VI, § 631(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2271](https://www.govinfo.gov/link/statute/100/2271); amended [Pub. L. 100–203, title X, § 10223(a)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–411](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title I, § 1006(e)(4)](https://www.govinfo.gov/link/plaw/100/public/647), (5)(A), Nov. 10, 1988, [102 Stat. 3400](https://www.govinfo.gov/link/statute/102/3400).)*

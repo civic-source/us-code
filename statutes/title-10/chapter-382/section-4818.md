@@ -3,9 +3,10 @@ title: "Section 4818 - Data collection authority of President"
 usc_title: 10
 usc_section: "4818"
 chapter: 382
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4818"
-generated_at: "2026-03-30T02:53:38.211Z"
+generated_at: "2026-11-23T21:25:32.790Z"
+status: "active"
 ---
 
 # § 4818. Data collection authority of President
@@ -18,3 +19,19 @@ generated_at: "2026-03-30T02:53:38.211Z"
 - **(f)** In this section:
   - **(1)** The term “person” includes an individual, corporation, partnership, association, or any other organized group of persons, or legal successor or representative of the foregoing, and includes the United States or any agency thereof, or any other government, or any of its political subdivisions, or any agency of any of the foregoing, except that no punishment provided by this section shall apply to the United States, or to any such government, political subdivision, or government agency.
   - **(2)** The term “national defense” means programs for military and atomic energy production or construction, military assistance to any foreign nation, stockpiling, space, and directly related activity.
+
+Authority
+
+Condition for Use of Authority
+
+Penalty for Noncompliance
+
+Limitations on Disclosure of Information
+
+Regulations
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 102–484, div. D, title XLII, § 4217](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2670](https://www.govinfo.gov/link/statute/106/2670), § 2507; amended [Pub. L. 103–160, div. A, title XI, § 1182(b)(1)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1772](https://www.govinfo.gov/link/statute/107/1772); [Pub. L. 109–163, div. A, title X, § 1056(c)(5)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3439](https://www.govinfo.gov/link/statute/119/3439); renumbered § 4818 and amended [Pub. L. 116–283, div. A, title XVIII, § 1867(b)](https://www.govinfo.gov/link/plaw/116/public/283), (d)(5), Jan. 1, 2021, [134 Stat. 4281](https://www.govinfo.gov/link/statute/134/4281), 4282; [Pub. L. 117–81, div. A, title XVII, § 1701(b)(22)(B)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2135](https://www.govinfo.gov/link/statute/135/2135).)*

@@ -3,9 +3,10 @@ title: "Section 300z - Findings and purposes"
 usc_title: 42
 usc_section: "300z"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 300z"
-generated_at: "2026-03-30T02:56:10.816Z"
+generated_at: "2026-11-23T21:26:30.812Z"
+status: "active"
 ---
 
 # § 300z. Findings and purposes
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:10.816Z"
   - **(4)** to encourage and support research projects and demonstration projects concerning the societal causes and consequences of adolescent premarital sexual relations, contraceptive use, pregnancy, and child rearing;
   - **(5)** to support evaluative research to identify effective services which alleviate, eliminate, or resolve any negative consequences of adolescent premarital sexual relations and adolescent childbearing for the parents, the child, and their families; and
   - **(6)** to encourage and provide for the dissemination of results, findings, and information from programs and research projects relating to adolescent premarital sexual relations, pregnancy, and parenthood.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XX, § 2001, as added [Pub. L. 97–35, title IX, § 955(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 578](https://www.govinfo.gov/link/statute/95/578); amended [Pub. L. 98–512, § 2(b)](https://www.govinfo.gov/link/plaw/98/public/512), (c), Oct. 19, 1984, [98 Stat. 2409](https://www.govinfo.gov/link/statute/98/2409).)*

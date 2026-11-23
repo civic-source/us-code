@@ -3,9 +3,10 @@ title: "Section 912 - Notice of injury or death"
 usc_title: 33
 usc_section: "912"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 912"
-generated_at: "2026-03-30T02:55:41.076Z"
+generated_at: "2026-11-23T21:26:11.350Z"
+status: "active"
 ---
 
 # § 912. Notice of injury or death
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:41.076Z"
 - **(b)** Such notice shall be in writing, shall contain the name and address of the employee and a statement of the time, place, nature, and cause of the injury or death, and shall be signed by the employee or by some person on his behalf, or in case of death, by any person claiming to be entitled to compensation for such death or by a person on his behalf.
 - **(c)** Notice shall be given to the deputy commissioner by delivering it to him or sending it by mail addressed to his office, and to the employer by delivering it to him or by sending it by mail addressed to him at his last known place of business. If the employer is a partnership, such notice may be given to any partner, or if a corporation, such notice may be given to any agent or officer thereof upon whom legal process may be served or who is in charge of the business in the place where the injury occurred. Each employer shall designate those agents or other responsible officials to receive such notice, except that the employer shall designate as its representatives individuals among first line supervisors, local plant management, and personnel office officials. Such designations shall be made in accordance with regulations prescribed by the Secretary and the employer shall notify his employees and the Secretary of such designation in a manner prescribed by the Secretary in regulations.
 - **(d)** Failure to give such notice shall not bar any claim under this chapter (1) if the employer (or his agent or agents or other responsible official or officials designated by the employer pursuant to subsection (c)) or the carrier had knowledge of the injury or death, (2) the deputy commissioner determines that the employer or carrier has not been prejudiced by failure to give such notice, or (3) if the deputy commissioner excuses such failure on the ground that (i) notice, while not given to a responsible official designated by the employer pursuant to subsection (c) of this section, was given to an official of the employer or the employer’s insurance carrier, and that the employer or carrier was not prejudiced due to the failure to provide notice to a responsible official designated by the employer pursuant to subsection (c), or (ii) for some satisfactory reason such notice could not be given; nor unless objection to such failure is raised before the deputy commissioner at the first hearing of a claim for compensation in respect of such injury or death.
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 509, § 12, [44 Stat. 1431](https://www.govinfo.gov/link/statute/44/1431); [Pub. L. 92–576, § 12(a)](https://www.govinfo.gov/link/plaw/92/public/576), Oct. 27, 1972, [86 Stat. 1259](https://www.govinfo.gov/link/statute/86/1259); [Pub. L. 98–426, § 11](https://www.govinfo.gov/link/plaw/98/public/426), Sept. 28, 1984, [98 Stat. 1648](https://www.govinfo.gov/link/statute/98/1648).)*

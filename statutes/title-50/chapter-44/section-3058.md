@@ -3,9 +3,10 @@ title: "Section 3058 - National Intelligence Centers"
 usc_title: 50
 usc_section: "3058"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3058"
-generated_at: "2026-03-30T02:56:26.233Z"
+generated_at: "2026-11-23T21:26:39.005Z"
+status: "active"
 ---
 
 # § 3058. National Intelligence Centers
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:26.233Z"
   - **(2)** the staffing and management of such center remains appropriate for the accomplishment of the mission of such center.
 - **(f)** The Director of National Intelligence may terminate any national intelligence center under subsection (a).
 - **(g)** The Director of National Intelligence shall, as appropriate, include in the National Intelligence Program budget a separate line item for each national intelligence center under subsection (a).
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title I, § 119B, as added [Pub. L. 108–458, title I, § 1023](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3676](https://www.govinfo.gov/link/statute/118/3676).)*

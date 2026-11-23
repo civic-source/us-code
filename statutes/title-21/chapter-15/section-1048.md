@@ -3,12 +3,17 @@ title: "Section 1048 - Administrative detention of violative articles; duration;
 usc_title: 21
 usc_section: "1048"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 1048"
-generated_at: "2026-03-30T02:54:54.301Z"
+generated_at: "2026-11-23T21:25:56.270Z"
+status: "active"
 ---
 
 # § 1048. Administrative detention of violative articles; duration; release; removal of official marks
 
 Whenever any eggs or egg products subject to this chapter, are found by any authorized representative of the Secretary upon any premises and there is reason to believe that they are or have been processed, bought, sold, possessed, used, transported, or offered or received for sale or transportation in violation of this chapter or that they are in any other way in violation of this chapter, or whenever any restricted eggs capable of use as human food are found by such a representative in the possession of any person not authorized to acquire such eggs under the regulations of the Secretary, such articles may be detained by such representative for a reasonable period but not to exceed twenty days, pending action under section 1049 of this title or notification of any Federal, State, or other governmental authorities having jurisdiction over such articles and shall not be moved by any person from the place at which they are located when so detained until released by such representative. All official marks may be required by such representative to be removed from such articles before they are released unless it appears to the satisfaction of the Secretary that the articles are eligible to retain such marks.
 
+
+## Source Credit
+
+*([Pub. L. 91–597, § 19](https://www.govinfo.gov/link/plaw/91/public/597), Dec. 29, 1970, [84 Stat. 1631](https://www.govinfo.gov/link/statute/84/1631).)*

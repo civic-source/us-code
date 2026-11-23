@@ -3,9 +3,10 @@ title: "Section 773a - International Pacific Halibut Commission"
 usc_title: 16
 usc_section: "773a"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 773a"
-generated_at: "2026-03-30T02:54:22.906Z"
+generated_at: "2026-11-23T21:25:51.748Z"
+status: "active"
 ---
 
 # § 773a. International Pacific Halibut Commission
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:22.906Z"
   - **(2)** two shall be knowledgeable or experienced concerning the Northern Pacific halibut fishery; of these, one shall be a resident of Alaska and the other shall be a nonresident of Alaska. Of the three commissioners described in paragraphs (1) and (2), one shall be a voting member of the North Pacific Fishery Management Council.
   - **(3)** Commissioners shall not be considered Federal employees except for the purposes of injury compensation or tort claims liability as provided in section 8101 et seq. of title 5 and section 2671 et seq. of title 28. This subsection shall take effect on the 90th day after May 17, 1982 .
 - **(b)** The Secretary of State, in consultation with the Secretary, may designate from time to time alternate United States Commissioners to the commission. An Alternate United States Commissioner may exercise, at any meeting of the Commission, all powers and duties of a United States Commissioner in the absence of a duly designated Commissioner for whatever reason. The number of such alternate United States Commissioners that may be designated for any such meeting shall be limited to the number of authorized United States Commissioners that will not be present.
+
+## Source Credit
+
+*([Pub. L. 97–176, § 3](https://www.govinfo.gov/link/plaw/97/public/176), May 17, 1982, [96 Stat. 78](https://www.govinfo.gov/link/statute/96/78).)*

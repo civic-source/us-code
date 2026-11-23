@@ -3,9 +3,10 @@ title: "Section 1263 - Alaska village demonstration projects"
 usc_title: 33
 usc_section: "1263"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1263"
-generated_at: "2026-03-30T02:55:41.083Z"
+generated_at: "2026-11-23T21:26:11.362Z"
+status: "active"
 ---
 
 # § 1263. Alaska village demonstration projects
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:41.083Z"
 - **(e)** The Administrator is authorized to coordinate with the Secretary of the Department of Health and Human Services, the Secretary of the Department of Housing and Urban Development, the Secretary of the Department of the Interior, the Secretary of the Department of Agriculture, and the heads of any other departments or agencies he may deem appropriate to conduct a joint study with representatives of the State of Alaska and the appropriate Native organizations (as defined in Public Law 92–203 ) to develop a comprehensive program for achieving adequate sanitation services in Alaska villages. This study shall be coordinated with the programs and projects authorized by sections 1254(q) and 1255(e)(2) of this title. The Administrator shall submit a report of the results of the study, together with appropriate supporting data and such recommendations as he deems desirable, to the Committee on Environment and Public Works of the Senate and to the Committee on Public Works and Transportation of the House of Representatives not later than December 31, 1979 . The Administrator shall also submit recommended administrative actions, procedures, and any proposed legislation necessary to implement the recommendations of the study no later than June 30, 1980 .
 - **(f)** The Administrator is authorized to provide technical, financial and management assistance for operation and maintenance of the demonstration projects constructed under this section, until such time as the recommendations of subsection (e) are implemented.
 - **(g)** For the purpose of this section, the term “village” shall mean an incorporated or unincorporated community with a population of ten to six hundred people living within a two-mile radius. The term “sanitation services” shall mean water supply, sewage disposal, solid waste disposal and other services necessary to maintain generally accepted standards of personal hygiene and public health.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title I, § 113, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 832](https://www.govinfo.gov/link/statute/86/832); amended [Pub. L. 95–217, § 11](https://www.govinfo.gov/link/plaw/95/public/217), Dec. 27, 1977, [91 Stat. 1568](https://www.govinfo.gov/link/statute/91/1568); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695).)*

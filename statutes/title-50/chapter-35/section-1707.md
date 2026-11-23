@@ -3,9 +3,10 @@ title: "Section 1707 - Multinational economic embargoes against governments in a
 usc_title: 50
 usc_section: "1707"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1707"
-generated_at: "2026-03-30T02:56:26.207Z"
+generated_at: "2026-11-23T21:26:38.931Z"
+status: "active"
 ---
 
 # § 1707. Multinational economic embargoes against governments in armed conflict with the United States
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:26.207Z"
 - **(b)** Not later than 20 days after the first day of the engagement of the United States in hostilities described in subsection (a), the President shall, if the armed conflict has continued for 14 days, submit to Congress a report setting forth—
   - **(1)** the specific steps the United States has taken and will continue to take to establish a multinational economic embargo and to initiate financial asset seizure pursuant to subsection (a); and
   - **(2)** any foreign sources of trade or revenue that directly or indirectly support the ability of the adversarial government to sustain a military conflict against the United States.
+
+## Source Credit
+
+*([Pub. L. 106–65, div. A, title XII, § 1231](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 788](https://www.govinfo.gov/link/statute/113/788).)*

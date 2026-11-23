@@ -3,9 +3,10 @@ title: "Section 5352 - Program authorization"
 usc_title: 31
 usc_section: "5352"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 5352"
-generated_at: "2026-03-30T02:55:34.071Z"
+generated_at: "2026-11-23T21:26:10.632Z"
+status: "active"
 ---
 
 # § 5352. Program authorization
@@ -35,3 +36,39 @@ generated_at: "2026-03-30T02:55:34.071Z"
 - **(d)** In establishing the program under this part, the Secretary shall take such action as may be necessary to ensure, to the extent practicable, that—
   - **(1)** applications for grants under this part may be filed at any time during a fiscal year; and
   - **(2)** some portion of the funds appropriated under this part for any such fiscal year will remain available for grant applications filed later in the fiscal year.
+
+Grant Eligibility
+
+Application
+
+Accountability
+
+Grant Amounts.—
+
+Grants.—
+
+In general
+
+Suspension of grants
+
+Renewal grants
+
+Limitation
+
+Grant awards.—
+
+In general
+
+Exception
+
+Condition Relating to Proceeds of Asset Forfeitures.—
+
+In general
+
+Scope of application
+
+Rolling Grant Application Periods
+
+## Source Credit
+
+*(Added [Pub. L. 105–310, § 2(a)](https://www.govinfo.gov/link/plaw/105/public/310), Oct. 30, 1998, [112 Stat. 2946](https://www.govinfo.gov/link/statute/112/2946).)*

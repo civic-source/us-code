@@ -3,9 +3,10 @@ title: "Section 11374 - Eligible activities"
 usc_title: 42
 usc_section: "11374"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11374"
-generated_at: "2026-03-30T02:56:11.398Z"
+generated_at: "2026-11-23T21:26:33.416Z"
+status: "active"
 ---
 
 # § 11374. Eligible activities
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.398Z"
 - **(b)** A grantee of assistance provided under section 11372 of this title for any fiscal year may not use an amount of such assistance for activities described in paragraphs (1) through (3) of subsection (a) that exceeds the greater of—
   - **(1)** 60 percent of the aggregate amount of such assistance provided for the grantee for such fiscal year; or
   - **(2)** the amount expended by such grantee for such activities during fiscal year 1 1 So in original. Probably should be “the fiscal year”. most recently completed before the effective date under section 1503 of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009.
+
+## Source Credit
+
+*([Pub. L. 100–77, title IV, § 415](https://www.govinfo.gov/link/plaw/100/public/77), as added [Pub. L. 111–22, div. B, title II, § 1202](https://www.govinfo.gov/link/plaw/111/public/22), May 20, 2009, [123 Stat. 1679](https://www.govinfo.gov/link/statute/123/1679).)*

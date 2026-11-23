@@ -3,9 +3,10 @@ title: "Section 923 - Art. 123. Offenses concerning Government computers"
 usc_title: 10
 usc_section: "923"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 923"
-generated_at: "2026-03-30T02:53:38.086Z"
+generated_at: "2026-11-23T21:25:32.352Z"
+status: "active"
 ---
 
 # § 923. Art. 123. Offenses concerning Government computers
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:53:38.086Z"
   - **(1)** The term “computer” has the meaning given that term in section 1030 of title 18 .
   - **(2)** The term “Government computer” means a computer owned or operated by or on behalf of the United States Government.
   - **(3)** The term “damage” has the meaning given that term in section 1030 of title 18 .
+
+In General
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. E, title LX, § 5436](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2952](https://www.govinfo.gov/link/statute/130/2952).)*

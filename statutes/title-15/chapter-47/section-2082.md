@@ -3,9 +3,10 @@ title: "Section 2082 - Interim cellulose insulation safety standard"
 usc_title: 15
 usc_section: "2082"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2082"
-generated_at: "2026-03-30T02:54:08.166Z"
+generated_at: "2026-11-23T21:25:39.913Z"
+status: "active"
 ---
 
 # § 2082. Interim cellulose insulation safety standard
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:54:08.166Z"
   - **(2)** The Commission, upon petition by a manufacturer, may waive the requirements of paragraph (1) with respect to such manufacturer if the Commission determines that the use of an independent third party is not necessary in order for such manufacturer to comply with the certification requirements of section 2063 of this title .
   - **(3)** The Commission may prescribe such rules as it considers necessary to carry out the provisions of this subsection.
 - **(g)** There are authorized to be appropriated, for each of the fiscal years 1978, 1979, 1980, and 1981, such sums as may be necessary to carry out the provisions of this section.
+
+## Source Credit
+
+*([Pub. L. 92–573, § 35](https://www.govinfo.gov/link/plaw/92/public/573), as added [Pub. L. 95–319, § 3(a)](https://www.govinfo.gov/link/plaw/95/public/319), July 11, 1978, [92 Stat. 386](https://www.govinfo.gov/link/statute/92/386); amended [Pub. L. 103–437, § 5(c)(2)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4582](https://www.govinfo.gov/link/statute/108/4582); [Pub. L. 110–314, title II, § 235(c)(3)](https://www.govinfo.gov/link/plaw/110/public/314), (5), Aug. 14, 2008, [122 Stat. 3074](https://www.govinfo.gov/link/statute/122/3074), 3075.)*

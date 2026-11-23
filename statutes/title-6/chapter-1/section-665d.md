@@ -3,9 +3,10 @@ title: "Section 665d - Sector Risk Management Agencies"
 usc_title: 6
 usc_section: "665d"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 665d"
-generated_at: "2026-03-30T02:53:09.478Z"
+generated_at: "2026-11-23T21:25:25.826Z"
+status: "active"
 ---
 
 # § 665d. Sector Risk Management Agencies
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:53:09.478Z"
     - **(A)** coordinating with critical infrastructure owners and operators within the designated sector or subsector of such sector and the Director in the development of planning documents for coordinated action in the event of a natural disaster, act of terrorism, or other man-made disaster or emergency;
     - **(B)** participating in and, in coordination with the Director, conducting or facilitating, exercises and simulations of potential natural disasters, acts of terrorism, or other man-made disasters or emergencies within the designated sector or subsector of such sector; and
     - **(C)** supporting the Department and other Federal departments or agencies in developing planning documents or conducting exercises or simulations when relevant to the designated sector or subsector or such sector.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XXII, § 2218](https://www.govinfo.gov/link/plaw/107/public/296), formerly § 2215, as added [Pub. L. 116–283, div. H, title XC, § 9002(c)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4770](https://www.govinfo.gov/link/statute/134/4770); renumbered § 2218 and amended [Pub. L. 117–81, div. A, title XV, § 1547(b)(1)(A)(v)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2061](https://www.govinfo.gov/link/statute/135/2061); [Pub. L. 117–263, div. G, title LXXI, § 7143(b)(2)(J)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3660](https://www.govinfo.gov/link/statute/136/3660).)*

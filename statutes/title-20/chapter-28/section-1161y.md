@@ -3,9 +3,10 @@ title: "Section 1161y - Early Federal Pell Grant Commitment Demonstration Progra
 usc_title: 20
 usc_section: "1161y"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1161y"
-generated_at: "2026-03-30T02:54:48.155Z"
+generated_at: "2026-11-23T21:25:47.288Z"
+status: "active"
 ---
 
 # § 1161y. Early Federal Pell Grant Commitment Demonstration Program
@@ -88,3 +89,17 @@ generated_at: "2026-03-30T02:54:48.155Z"
   - **(4)** Each State educational agency receiving a grant under this section shall reserve not more than 15 percent of the grant funds received each fiscal year to carry out the targeted information campaign described in this subsection.
 - **(g)** A State educational agency shall use grant funds received under this section only to supplement the funds that would, in the absence of such grant funds, be made available from non-Federal sources for students participating in the demonstration project under this section, and not to supplant such funds.
 - **(h)** There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
+
+(aa) two-year public degree-granting institutions of higher education;
+
+(bb) four-year public degree-granting institutions of higher education; and
+
+(cc) four-year private degree-granting institutions of higher education;
+
+(aa) tuition and fees; and
+
+(bb) room and board;
+
+## Source Credit
+
+*([Pub. L. 89–329, title VIII, § 894](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title VIII, § 801](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3440](https://www.govinfo.gov/link/statute/122/3440); amended [Pub. L. 111–39, title VIII, § 801(14)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1956](https://www.govinfo.gov/link/statute/123/1956); [Pub. L. 111–152, title II, § 2101(b)(6)](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1073](https://www.govinfo.gov/link/statute/124/1073).)*

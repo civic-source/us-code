@@ -3,12 +3,17 @@ title: "Section 285e - Authorization of appropriations; income covered into Trea
 usc_title: 22
 usc_section: "285e"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 285e"
-generated_at: "2026-03-30T02:55:05.317Z"
+generated_at: "2026-11-23T21:25:58.358Z"
+status: "active"
 ---
 
 # § 285e. Authorization of appropriations; income covered into Treasury
 
 - **(a)** There is hereby authorized to be appropriated, without fiscal year limitation, for the purchase of twenty thousand shares of capital stock of the Bank, $200,000,000.
 - **(b)** Any payment made to the United States by the Bank as a distribution of net income shall be covered into the Treasury as a miscellaneous receipt.
+
+## Source Credit
+
+*([Pub. L. 89–369, § 7](https://www.govinfo.gov/link/plaw/89/public/369), Mar. 16, 1966, [80 Stat. 72](https://www.govinfo.gov/link/statute/80/72).)*

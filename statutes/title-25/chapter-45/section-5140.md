@@ -3,12 +3,17 @@ title: "Section 5140 - Mortgaged property governed by State law"
 usc_title: 25
 usc_section: "5140"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5140"
-generated_at: "2026-03-30T02:54:52.864Z"
+generated_at: "2026-11-23T21:25:54.720Z"
+status: "active"
 ---
 
 # § 5140. Mortgaged property governed by State law
 
 Trust or restricted tribal or tribal corporation property mortgaged pursuant to sections 5136 to 5143 of this title shall be subject to foreclosure and sale or conveyance in lieu of foreclosure, free of such trust or restrictions, in accordance with the laws of the State in which the property is located.
 
+
+## Source Credit
+
+*([Pub. L. 91–229, § 4](https://www.govinfo.gov/link/plaw/91/public/229), Apr. 11, 1970, [84 Stat. 120](https://www.govinfo.gov/link/statute/84/120).)*

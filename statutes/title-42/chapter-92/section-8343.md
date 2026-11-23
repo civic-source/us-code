@@ -3,9 +3,10 @@ title: "Section 8343 - Rules relating to case-by-case and category prohibitions"
 usc_title: 42
 usc_section: "8343"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8343"
-generated_at: "2026-03-30T02:56:11.341Z"
+generated_at: "2026-11-23T21:26:33.198Z"
+status: "active"
 ---
 
 # § 8343. Rules relating to case-by-case and category prohibitions
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.341Z"
   - **(1)** The Secretary may prohibit, by rule, the use of natural gas or petroleum under section 8341(b) of this title in existing electric powerplants.
   - **(2)** Each powerplant to be covered by any final rule issued under this subsection shall be specifically identified in the proposed rule published under section 8411(b) of this title .
   - **(3)** In prescribing any final rule under this subsection, the Secretary shall take into account any special circumstances or characteristics of each category of powerplants (such as the intermittent use, size, age, or geographic location of such powerplants). Any such rules shall not apply in the case of any existing electric powerplant with respect to which a comparable prohibition was issued by order.
+
+## Source Credit
+
+*([Pub. L. 95–620, title III, § 303](https://www.govinfo.gov/link/plaw/95/public/620), Nov. 9, 1978, [92 Stat. 3306](https://www.govinfo.gov/link/statute/92/3306); [Pub. L. 100–42, § 1(c)(9)](https://www.govinfo.gov/link/plaw/100/public/42), May 21, 1987, [101 Stat. 312](https://www.govinfo.gov/link/statute/101/312).)*

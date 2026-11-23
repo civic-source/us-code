@@ -3,12 +3,17 @@ title: "Section 419a - Management practices to extend capacity and useful life o
 usc_title: 33
 usc_section: "419a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 419a"
-generated_at: "2026-03-30T02:55:41.055Z"
+generated_at: "2026-11-23T21:26:11.299Z"
+status: "active"
 ---
 
 # § 419a. Management practices to extend capacity and useful life of dredged material disposal areas
 
 The Secretary of the Army, acting through the Chief of Engineers, shall utilize and encourage the utilization of such management practices as he determines appropriate to extend the capacity and useful life of dredged material disposal areas such that the need for new dredged material disposal areas is kept to a minimum. Management practices authorized by this section shall include, but not be limited to, the construction of dikes, consolidation and dewatering of dredged material, and construction of drainage and outflow facilities.
 
+
+## Source Credit
+
+*([Pub. L. 94–587, § 148](https://www.govinfo.gov/link/plaw/94/public/587), Oct. 22, 1976, [90 Stat. 2931](https://www.govinfo.gov/link/statute/90/2931).)*

@@ -3,9 +3,10 @@ title: "Section 12876 - Definitions"
 usc_title: 42
 usc_section: "12876"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12876"
-generated_at: "2026-03-30T02:56:11.434Z"
+generated_at: "2026-11-23T21:26:33.567Z"
+status: "active"
 ---
 
 # § 12876. Definitions
@@ -38,3 +39,7 @@ For purposes of this part:
     - **(B)** adopts written procedures providing for the election of officers on a regular basis; and
     - **(C)** has a democratically elected governing board, elected by the tenants of the housing.
   - **(10)** The term “Secretary” means the Secretary of Housing and Urban Development.
+
+## Source Credit
+
+*([Pub. L. 101–625, title IV, § 426](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4170](https://www.govinfo.gov/link/statute/104/4170); [Pub. L. 102–550, title I, § 181(d)](https://www.govinfo.gov/link/plaw/102/public/550), (e), (h), Oct. 28, 1992, [106 Stat. 3735](https://www.govinfo.gov/link/statute/106/3735), 3736.)*

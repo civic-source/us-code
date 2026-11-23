@@ -3,9 +3,10 @@ title: "Section 44743 - Pilot training requirements"
 usc_title: 49
 usc_section: "44743"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44743"
-generated_at: "2026-03-30T02:56:19.387Z"
+generated_at: "2026-11-23T21:26:40.908Z"
+status: "active"
 ---
 
 # § 44743. Pilot training requirements
@@ -19,3 +20,17 @@ generated_at: "2026-03-30T02:56:19.387Z"
   - **(1)** be based on test data, analysis, or other technical validation methods; and
   - **(2)** account for generally accepted scientific consensus among experts in human factors regarding realistic pilot response time.
 - **(c)** In this section, the term “transport airplane” means a transport category airplane designed for operation by an air carrier or foreign air carrier type-certificated with a passenger seating capacity of 30 or more or an all-cargo or combi derivative of such an airplane.
+
+In General.—
+
+Administrator’s determination
+
+Assurances and marketing representations
+
+Pilot Response Time
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 116–260, div. V, title I, § 119(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2338](https://www.govinfo.gov/link/statute/134/2338).)*

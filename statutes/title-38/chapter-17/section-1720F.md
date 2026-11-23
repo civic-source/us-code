@@ -3,9 +3,10 @@ title: "Section 1720F - Comprehensive program for suicide prevention among veter
 usc_title: 38
 usc_section: "1720F"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1720F"
-generated_at: "2026-03-30T02:55:53.485Z"
+generated_at: "2026-11-23T21:26:16.649Z"
+status: "active"
 ---
 
 # § 1720F. Comprehensive program for suicide prevention among veterans and members of the reserve components of the Armed Forces
@@ -52,3 +53,297 @@ generated_at: "2026-03-30T02:55:53.485Z"
 - **(l)**
   - **(1)** In this section, the term “covered individual” means a veteran or a member of the reserve components of the Armed Forces.
   - **(2)** In determining coverage of members of the reserve components of the Armed Forces under the comprehensive program, the Secretary shall consult with the Secretary of Defense.
+
+Establishment
+
+Staff Education
+
+Health Assessments
+
+Designation of Suicide Prevention Counselors
+
+Best Practices Research
+
+Sexual Trauma Research
+
+Hour Mental Health Care
+
+Hotline
+
+Outreach and Education
+
+Peer Support Counseling Program
+
+Other Components
+
+Covered Individual Defined
+
+Review of Training for Veterans Crisis Line Call Responders.—
+
+In general
+
+Completion of review
+
+Elements of review
+
+Update of training
+
+Retraining Guidelines for Veterans Crisis Line Call Responders.—
+
+In general
+
+Elements of guidelines
+
+Monitoring of Calls on Veterans Crisis Line.—
+
+In general
+
+Benchmarks
+
+Quarterly reports
+
+Quality Management Processes for Veterans Crisis Line
+
+Annual Common Cause Analysis for Callers to Veterans Crisis Line Who Die by Suicide.—
+
+In general
+
+Submittal of results
+
+Application of themes or lessons
+
+Development of Enhanced Guidance and Procedures for Response to Calls Related to Substance Use and Overdose Risk
+
+Review and Improvement of Standards for Emergency Dispatch.—
+
+In general
+
+Training
+
+Extended Safety Planning Pilot Program for Veterans Crisis Line.—
+
+In general
+
+Briefing
+
+Crisis Line Facilitation Pilot Program.—
+
+In general
+
+Briefing
+
+Definitions
+
+In General
+
+Nonapplication of FACA
+
+Veterans Service Organization Defined
+
+Purpose; Designation.—
+
+Purpose
+
+Designation
+
+Financial Assistance and Coordination
+
+Award of Grants.—
+
+In general
+
+Grant amounts, intervals of payment, and matching funds
+
+Distribution of Grants and Preference.—
+
+Distribution.—
+
+Priority
+
+Areas with need
+
+Geography
+
+Preference
+
+Requirements for Receipt of Grants.—
+
+Notification that services are from department
+
+Development of plan with eligible individuals and their family
+
+Coordination
+
+Measurement and monitoring
+
+Reports
+
+Application for Grants.—
+
+In general
+
+Matters to be included
+
+Training and Technical Assistance.—
+
+In general
+
+Provision of training and technical assistance
+
+Administration of Grant Program.—
+
+Selection criteria
+
+Development of measures and metrics
+
+Coordination
+
+Report on grant criteria
+
+Information on Potential Eligible Individuals.—
+
+In general
+
+Information included
+
+Opt-out
+
+Duration
+
+Reporting.—
+
+Interim report.—
+
+In general
+
+Elements
+
+Submittal of information by grant recipients
+
+Final report
+
+Third-party Assessment.—
+
+Study of grant program.—
+
+In general
+
+Elements of study
+
+Assessment.—
+
+In general
+
+Submittal to congress
+
+Appropriate entity
+
+Referral for Care.—
+
+Mental health assessment
+
+Emergency treatment
+
+Refusal
+
+Provision of Care to Eligible Individuals
+
+Agreements With Community Partners.—
+
+In general
+
+Limitation
+
+Authorization of Appropriations
+
+Definitions
+
+Appropriate committees of congress
+
+Department
+
+Eligible entity
+
+Eligible individual
+
+Emergency treatment
+
+Family
+
+Indian tribe
+
+Risk of suicide.—
+
+In general
+
+Degree of risk
+
+Rural
+
+Secretary
+
+Suicide prevention services.—
+
+In general
+
+Exclusion
+
+Veterans crisis line
+
+Veterans service organization
+
+In General
+
+Rule of Construction
+
+Treatment of Contracts for Suicide Prevention and Mental Health Outreach Media.—
+
+Focus groups.—
+
+In general
+
+Representation
+
+Subcontracting.—
+
+In general
+
+Budget limitation
+
+Paperwork Reduction Act Exemption
+
+Rural and Highly Rural Defined
+
+Establishment of Goals.—
+
+In general
+
+Use of metrics.—
+
+In general
+
+Factors to consider
+
+Update
+
+Targets
+
+Consultation
+
+Initial report
+
+Annual report
+
+Report on Use of Funds by Office of Mental Health and Suicide Prevention
+
+Collaboration
+
+Exchange of Resources
+
+Director of Suicide Prevention Coordination
+
+“It is the sense of Congress that—
+
+## Source Credit
+
+*(Added [Pub. L. 110–110, § 3(a)(1)](https://www.govinfo.gov/link/plaw/110/public/110), Nov. 5, 2007, [121 Stat. 1031](https://www.govinfo.gov/link/statute/121/1031); amended [Pub. L. 112–239, div. A, title VII, § 730(a)(1)](https://www.govinfo.gov/link/plaw/112/public/239) –(3), Jan. 2, 2013, [126 Stat. 1814](https://www.govinfo.gov/link/statute/126/1814); [Pub. L. 115–271, title VIII, § 8051(a)](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 4093](https://www.govinfo.gov/link/statute/132/4093); [Pub. L. 116–283, div. A, title VII, § 764(a)(1)](https://www.govinfo.gov/link/plaw/116/public/283) –(3)(A), Jan. 1, 2021, [134 Stat. 3725](https://www.govinfo.gov/link/statute/134/3725), 3726.)*

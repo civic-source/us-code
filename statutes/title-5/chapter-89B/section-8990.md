@@ -3,9 +3,10 @@ title: "Section 8990 - Studies, reports, and audits"
 usc_title: 5
 usc_section: "8990"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8990"
-generated_at: "2026-03-30T02:52:56.070Z"
+generated_at: "2026-11-23T21:25:23.458Z"
+status: "active"
 ---
 
 # § 8990. Studies, reports, and audits
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:52:56.070Z"
   - **(2)** permit the Office and representatives of the Government Accountability Office to examine such records of the qualified company as may be necessary to carry out the purposes of this chapter.
 - **(b)** Each Federal agency shall keep such records, make such certifications, and furnish the Office, the qualified company, or both, with such information and reports as the Office may require.
 - **(c)** The Office shall conduct periodic reviews of plans under this chapter, including a comparison of the vision benefits available under chapter 89, to ensure the competitiveness of plans under this chapter. The Office shall cooperate with the Government Accountability Office to provide periodic evaluations of the program.
+
+## Source Credit
+
+*(Added [Pub. L. 108–496, § 3](https://www.govinfo.gov/link/plaw/108/public/496), Dec. 23, 2004, [118 Stat. 4010](https://www.govinfo.gov/link/statute/118/4010).)*

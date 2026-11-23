@@ -3,9 +3,10 @@ title: "Section 222 - Privacy of customer information"
 usc_title: 47
 usc_section: "222"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 222"
-generated_at: "2026-03-30T02:56:24.497Z"
+generated_at: "2026-11-23T21:26:35.942Z"
+status: "active"
 ---
 
 # § 222. Privacy of customer information
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:24.497Z"
   - **(5)** The term “emergency services” means 9–1–1 emergency services and emergency notification services.
   - **(6)** The term “emergency notification services” means services that notify the public of an emergency.
   - **(7)** The term “emergency support services” means information or data base management services used in support of emergency services.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title II, § 222, as added [Pub. L. 104–104, title VII, § 702](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 148](https://www.govinfo.gov/link/statute/110/148); amended [Pub. L. 106–81, § 5](https://www.govinfo.gov/link/plaw/106/public/81), Oct. 26, 1999, [113 Stat. 1288](https://www.govinfo.gov/link/statute/113/1288); [Pub. L. 110–283, title III, § 301](https://www.govinfo.gov/link/plaw/110/public/283), July 23, 2008, [122 Stat. 2625](https://www.govinfo.gov/link/statute/122/2625).)*

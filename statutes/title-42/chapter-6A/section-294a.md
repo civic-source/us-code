@@ -3,9 +3,10 @@ title: "Section 294a - Area health education centers"
 usc_title: 42
 usc_section: "294a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 294a"
-generated_at: "2026-03-30T02:56:10.776Z"
+generated_at: "2026-11-23T21:26:30.635Z"
+status: "active"
 ---
 
 # § 294a. Area health education centers
@@ -63,3 +64,7 @@ generated_at: "2026-03-30T02:56:10.776Z"
     - **(D)** not more than 4 percent shall be used for grants and contracts to provide technical assistance to entities receiving awards under this section.
   - **(3)** An entity that receives an award under this section may carry over funds from 1 fiscal year to another without obtaining approval from the Secretary. In no case may any funds be carried over pursuant to the preceding sentence for more than 3 years.
 - **(k)** It is the sense of the Congress that every State have an area health education center program in effect under this section.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 751, as added [Pub. L. 105–392, title I, § 103](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3541](https://www.govinfo.gov/link/statute/112/3541); amended [Pub. L. 111–148, title V, § 5403(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 644](https://www.govinfo.gov/link/statute/124/644); [Pub. L. 113–128, title V, § 512(z)(2)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1716](https://www.govinfo.gov/link/statute/128/1716); [Pub. L. 116–136, div. A, title III, § 3401(6)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 386](https://www.govinfo.gov/link/statute/134/386).)*

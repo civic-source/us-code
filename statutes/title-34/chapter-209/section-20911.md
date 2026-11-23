@@ -3,9 +3,10 @@ title: "Section 20911 - Relevant definitions, including Amie Zyla expansion of s
 usc_title: 34
 usc_section: "20911"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20911"
-generated_at: "2026-03-30T02:55:33.300Z"
+generated_at: "2026-11-23T21:26:09.795Z"
+status: "active"
 ---
 
 # § 20911. Relevant definitions, including Amie Zyla expansion of sex offender definition and expanded inclusion of child predators
@@ -66,3 +67,7 @@ In this subchapter the following definitions apply:
   - **(12)** The term “employee” includes an individual who is self-employed or works for any other entity, whether compensated or not.
   - **(13)** The term “resides” means, with respect to an individual, the location of the individual’s home or other place where the individual habitually lives.
   - **(14)** The term “minor” means an individual who has not attained the age of 18 years.
+
+## Source Credit
+
+*([Pub. L. 109–248, title I, § 111](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 591](https://www.govinfo.gov/link/statute/120/591).)*

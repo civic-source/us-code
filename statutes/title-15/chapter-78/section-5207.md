@@ -3,9 +3,10 @@ title: "Section 5207 - Department of Defense"
 usc_title: 15
 usc_section: "5207"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 5207"
-generated_at: "2026-03-30T02:54:08.205Z"
+generated_at: "2026-11-23T21:25:40.010Z"
+status: "active"
 ---
 
 # § 5207. Department of Defense
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.205Z"
 - **(c)** The Director of the Defense Advanced Research Projects Agency shall, in conformance with the Superconductivity Action Plan, conduct activities to—
   - **(1)** augment, as appropriate, basic and applied superconductivity research conducted in other Federal agencies and industry; and
   - **(2)** develop criteria for operational prototype testing within the Department of Defense.
+
+## Source Credit
+
+*([Pub. L. 100–697, § 8](https://www.govinfo.gov/link/plaw/100/public/697), Nov. 19, 1988, [102 Stat. 4615](https://www.govinfo.gov/link/statute/102/4615).)*

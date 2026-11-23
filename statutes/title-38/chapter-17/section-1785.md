@@ -3,9 +3,10 @@ title: "Section 1785 - Care and services during certain disasters and emergencie
 usc_title: 38
 usc_section: "1785"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1785"
-generated_at: "2026-03-30T02:55:53.488Z"
+generated_at: "2026-11-23T21:26:16.667Z"
+status: "active"
 ---
 
 # § 1785. Care and services during certain disasters and emergencies
@@ -20,3 +21,19 @@ generated_at: "2026-03-30T02:55:53.488Z"
   - **(2)** Amounts received by the Department under this subsection shall be credited to the Medical Care Collections Fund under section 1729A of this title .
 - **(e)** Within 60 days of the commencement of a disaster or emergency referred to in subsection (b) in which the Secretary furnishes care and services under this section (or as soon thereafter as is practicable), the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report on the Secretary’s allocation of facilities and personnel in order to furnish such care and services.
 - **(f)** The Secretary shall prescribe regulations governing the exercise of the authority of the Secretary under this section.
+
+Authority To Provide Hospital Care and Medical Services
+
+Covered Disasters and Emergencies
+
+Applicability to Eligible Individuals Who Are Veterans
+
+Reimbursement From Other Federal Departments and Agencies
+
+Report to Congressional Committees
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 107–287, § 4(a)(1)](https://www.govinfo.gov/link/plaw/107/public/287), Nov. 7, 2002, [116 Stat. 2028](https://www.govinfo.gov/link/statute/116/2028); amended [Pub. L. 109–444, § 8(a)(2)](https://www.govinfo.gov/link/plaw/109/public/444), Dec. 21, 2006, [120 Stat. 3313](https://www.govinfo.gov/link/statute/120/3313); [Pub. L. 109–461, title X](https://www.govinfo.gov/link/plaw/109/public/461), §§ 1004(a)(2), 1006(b), Dec. 22, 2006, [120 Stat. 3465](https://www.govinfo.gov/link/statute/120/3465), 3468; [Pub. L. 111–275, title X, § 1001(c)(2)](https://www.govinfo.gov/link/plaw/111/public/275), Oct. 13, 2010, [124 Stat. 2896](https://www.govinfo.gov/link/statute/124/2896).)*

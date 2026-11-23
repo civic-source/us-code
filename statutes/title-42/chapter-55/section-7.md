@@ -3,9 +3,10 @@ title: "Section 7 - Reports"
 usc_title: 42
 usc_section: "7"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-30T02:56:11.205Z"
+generated_at: "2026-11-23T21:26:32.670Z"
+status: "active"
 ---
 
 # § 4370m–7. Reports
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.205Z"
 - **(b)** Not later than 3 years after December 4, 2015 , the Comptroller General of the United States shall submit to Congress a report that describes—
   - **(1)** agency progress in making improvements consistent with the best practices issued under section 4370m–1(c)(2)(B) of this title ; and
   - **(2)** agency compliance with the performance schedules established under section 4370m–1(c)(1)(C) of this title .
+
+## Source Credit
+
+*([Pub. L. 114–94, div. D, title XLI, § 41008](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1760](https://www.govinfo.gov/link/statute/129/1760); [Pub. L. 117–58, div. G, title VIII, § 70801(f)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1293](https://www.govinfo.gov/link/statute/135/1293).)*

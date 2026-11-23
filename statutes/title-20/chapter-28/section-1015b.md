@@ -3,9 +3,10 @@ title: "Section 1015b - Textbook information"
 usc_title: 20
 usc_section: "1015b"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1015b"
-generated_at: "2026-03-30T02:54:48.094Z"
+generated_at: "2026-11-23T21:25:47.008Z"
+status: "active"
 ---
 
 # § 1015b. Textbook information
@@ -60,3 +61,21 @@ generated_at: "2026-03-30T02:54:48.094Z"
   - **(4)** the implementation of this section by institutions of higher education, including the costs and benefits to such institutions and to students.
 - **(h)** Nothing in this section shall be construed to supercede the institutional autonomy or academic freedom of instructors involved in the selection of college textbooks, supplemental materials, and other classroom materials.
 - **(i)** The Secretary shall not promulgate regulations with respect to this section.
+
+Pilot Grant Program
+
+Application
+
+Use of Funds
+
+Evaluation and Report.—
+
+Evaluations by recipients
+
+Report to congress
+
+Authorization of Appropriations
+
+## Source Credit
+
+*([Pub. L. 89–329, title I, § 133](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title I, § 112(a)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3107](https://www.govinfo.gov/link/statute/122/3107).)*

@@ -3,9 +3,10 @@ title: "Section 3413 - Office for Civil Rights"
 usc_title: 20
 usc_section: "3413"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 3413"
-generated_at: "2026-03-30T02:54:48.177Z"
+generated_at: "2026-11-23T21:25:47.405Z"
+status: "active"
 ---
 
 # § 3413. Office for Civil Rights
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:48.177Z"
   - **(2)** to select, appoint, and employ such officers and employees, including staff attorneys, as may be necessary to carry out the functions of such Office, subject to the provisions of title 5 governing appointments in the competitive service and the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates;
   - **(3)** to enter into contracts and other arrangements for audits, studies, analyses, and other services with public agencies and with private organizations and persons, and to make such payments as may be necessary to carry out the compliance and enforcement functions of such Office; and
   - **(4)** notwithstanding any other provision of this chapter, to obtain services as authorized by section 3109 of title 5 at a rate not to exceed the equivalent daily rate payable for grade GS–18 of the General Schedule under section 5332 of such title.
+
+## Source Credit
+
+*([Pub. L. 96–88, title II, § 203](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 673](https://www.govinfo.gov/link/statute/93/673).)*

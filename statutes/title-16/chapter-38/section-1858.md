@@ -3,9 +3,10 @@ title: "Section 1858 - Civil penalties and permit sanctions"
 usc_title: 16
 usc_section: "1858"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1858"
-generated_at: "2026-03-30T02:54:22.991Z"
+generated_at: "2026-11-23T21:25:51.930Z"
+status: "active"
 ---
 
 # § 1858. Civil penalties and permit sanctions
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:22.991Z"
   - **(3)** Transfer of ownership of a vessel, by sale or otherwise, shall not extinguish any permit sanction that is in effect or is pending at the time of transfer of ownership. Before executing the transfer of ownership of a vessel, by sale or otherwise, the owner shall disclose in writing to the prospective transferee the existence of any permit sanction that will be in effect or pending with respect to the vessel at the time of the transfer.
   - **(4)** In the case of any permit that is suspended under this subsection for nonpayment of a civil penalty or criminal fine, the Secretary shall reinstate the permit upon payment of the penalty or fine and interest thereon at the prevailing rate.
   - **(5)** No sanctions shall be imposed under this subsection unless there has been a prior opportunity for a hearing on the facts underlying the violation for which the sanction is imposed, either in conjunction with a civil penalty proceeding under this section or otherwise.
+
+## Source Credit
+
+*([Pub. L. 94–265, title III, § 308](https://www.govinfo.gov/link/plaw/94/public/265), Apr. 13, 1976, [90 Stat. 356](https://www.govinfo.gov/link/statute/90/356); [Pub. L. 97–453, § 10](https://www.govinfo.gov/link/plaw/97/public/453), Jan. 12, 1983, [96 Stat. 2491](https://www.govinfo.gov/link/statute/96/2491); [Pub. L. 99–659, title I, § 108](https://www.govinfo.gov/link/plaw/99/public/659), Nov. 14, 1986, [100 Stat. 3713](https://www.govinfo.gov/link/statute/100/3713); [Pub. L. 101–627, title I, § 114(a)](https://www.govinfo.gov/link/plaw/101/public/627), Nov. 28, 1990, [104 Stat. 4454](https://www.govinfo.gov/link/statute/104/4454); [Pub. L. 104–297, title I, § 114(a)](https://www.govinfo.gov/link/plaw/104/public/297) –(c), Oct. 11, 1996, [110 Stat. 3598](https://www.govinfo.gov/link/statute/110/3598), 3599; [Pub. L. 116–340, § 3(b)](https://www.govinfo.gov/link/plaw/116/public/340), (e)(2), Jan. 13, 2021, [134 Stat. 5129](https://www.govinfo.gov/link/statute/134/5129).)*

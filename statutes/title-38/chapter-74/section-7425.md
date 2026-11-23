@@ -3,9 +3,10 @@ title: "Section 7425 - Employees: laws not applicable"
 usc_title: 38
 usc_section: "7425"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7425"
-generated_at: "2026-03-30T02:55:53.531Z"
+generated_at: "2026-11-23T21:26:16.873Z"
+status: "active"
 ---
 
 # § 7425. Employees: laws not applicable
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:53.531Z"
   - **(8)** Subchapter V of chapter 75 of title 5.
 - **(b)** Except as provided in subsection (c), and notwithstanding any other provision of law, no provision of title 5 or any other law pertaining to the civil service system which is inconsistent with any provision of section 7306 of this title or this chapter shall be considered to supersede, override, or otherwise modify such provision of that section or this chapter except to the extent that such provision of title 5 or of such other law specifically provides, by specific reference to a provision of this chapter, or such provision to be superseded, overridden, or otherwise modified.
 - **(c)** Notwithstanding any other provision of this subchapter, the Administration shall provide to individuals appointed to any position described in section 7421(b) who are employed for compensation by the Administration, family and medical leave in the same manner and subject to the same limitations to the maximum extent practicable, as family and medical leave is provided under subchapter V of chapter 63 of title 5 to employees, as defined in section 6381(1) of such title.
+
+## Source Credit
+
+*(Added [Pub. L. 102–40, title IV, § 401(b)(3)(B)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 231](https://www.govinfo.gov/link/statute/105/231); amended [Pub. L. 116–283, div. A, title XI, § 1103(d)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3887](https://www.govinfo.gov/link/statute/134/3887).)*

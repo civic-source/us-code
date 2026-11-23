@@ -3,9 +3,10 @@ title: "Section 420 - Information on websites of Offices of Inspectors General"
 usc_title: 5
 usc_section: "420"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 420"
-generated_at: "2026-03-30T02:52:55.984Z"
+generated_at: "2026-11-23T21:25:23.047Z"
+status: "active"
 ---
 
 # § 420. Information on websites of Offices of Inspectors General
@@ -27,3 +28,56 @@ generated_at: "2026-03-30T02:52:55.984Z"
     - **(B)** The Inspector General of each Federal agency and designated Federal entity shall not disclose the identity of any individual making a report under this paragraph without the consent of the individual unless the Inspector General determines that such a disclosure is unavoidable during the course of the investigation.
   - **(3)** Nothing in this subsection shall be construed as authorizing an Inspector General to publicly disclose information otherwise prohibited from disclosure by law.
 - **(c)** In this section, the terms “designated Federal entity” and “head of the designated Federal entity” have the meanings given those terms in section 415(a) of this title .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 420 | 5 U.S.C. App. (IGA § 8M) | Pub. L. 95–452, § 8M , formerly § 8L, as added Pub. L. 110–409, § 13(a) , Oct. 14, 2008 , 122 Stat. 4315 ; renumbered § 8M, Pub. L. 112–239, div. A, title VIII, § 848(1) , Jan. 2, 2013 , 126 Stat. 1851 ; amended Pub. L. 114–317 , §§ 4(e), 7(b)(1)(A), (c), Dec. 16, 2016 , 130 Stat. 1602 , 1605, 1606. |
+
+
+Direct Links to Inspectors General Offices.—
+
+In general
+
+Accessibility
+
+Requirements for Inspectors General Websites.—
+
+Posting of reports and audits
+
+Reporting of fraud, waste, and abuse.—
+
+In general
+
+Anonymity
+
+Rule of construction
+
+Definitions
+
+Historical and Revision Notes
+
+420
+
+Pub. L. 95–452, § 8M
+
+Pub. L. 110–409, § 13(a)
+
+Oct. 14, 2008
+
+122 Stat. 4315
+
+Pub. L. 112–239, div. A, title VIII, § 848(1)
+
+Jan. 2, 2013
+
+126 Stat. 1851
+
+Pub. L. 114–317
+
+Dec. 16, 2016
+
+130 Stat. 1602
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(b)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4251](https://www.govinfo.gov/link/statute/136/4251).)*

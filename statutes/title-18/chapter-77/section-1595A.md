@@ -3,9 +3,10 @@ title: "Section 1595A - Civil injunctions"
 usc_title: 18
 usc_section: "1595A"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1595A"
-generated_at: "2026-03-30T02:54:16.488Z"
+generated_at: "2026-11-23T21:25:44.081Z"
+status: "active"
 ---
 
 # § 1595A. Civil injunctions
@@ -18,3 +19,19 @@ generated_at: "2026-03-30T02:54:16.488Z"
     - **(A)** the court shall place the civil action under seal; and
     - **(B)** when the indictment is unsealed, the court shall unseal the civil action unless good cause exists to keep the civil action under seal.
 - **(d)** Nothing in this section shall be construed or applied so as to abridge the exercise of rights guaranteed under the First Amendment to the Constitution of the United States.
+
+In General
+
+Action by Court
+
+Procedure.—
+
+In general
+
+Sealed proceedings
+
+Rule of Construction
+
+## Source Credit
+
+*(Added [Pub. L. 115–393, title II, § 201(a)](https://www.govinfo.gov/link/plaw/115/public/393), Dec. 21, 2018, [132 Stat. 5266](https://www.govinfo.gov/link/statute/132/5266).)*

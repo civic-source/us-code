@@ -3,9 +3,10 @@ title: "Section 11003 - Comprehensive emergency response plans"
 usc_title: 42
 usc_section: "11003"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11003"
-generated_at: "2026-03-30T02:56:11.393Z"
+generated_at: "2026-11-23T21:26:33.391Z"
+status: "active"
 ---
 
 # § 11003. Comprehensive emergency response plans
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:11.393Z"
 - **(e)** After completion of an emergency plan under subsection (a) for an emergency planning district, the local emergency planning committee shall submit a copy of the plan to the State emergency response commission of each State in which such district is located. The commission shall review the plan and make recommendations to the committee on revisions of the plan that may be necessary to ensure coordination of such plan with emergency response plans of other emergency planning districts. To the maximum extent practicable, such review shall not delay implementation of such plan.
 - **(f)** The national response team, as established pursuant to the National Contingency Plan as established under section 9605 of this title , shall publish guidance documents for preparation and implementation of emergency plans. Such documents shall be published not later than five months after October 17, 1986 .
 - **(g)** The regional response teams, as established pursuant to the National Contingency Plan as established under section 9605 of this title , may review and comment upon an emergency plan or other issues related to preparation, implementation, or exercise of such a plan upon request of a local emergency planning committee. Such review shall not delay implementation of the plan.
+
+## Source Credit
+
+*([Pub. L. 99–499, title III, § 303](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1731](https://www.govinfo.gov/link/statute/100/1731).)*

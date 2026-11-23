@@ -3,9 +3,10 @@ title: "Section 1725 - Reimbursement for emergency treatment"
 usc_title: 38
 usc_section: "1725"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1725"
-generated_at: "2026-03-30T02:55:53.486Z"
+generated_at: "2026-11-23T21:26:16.658Z"
+status: "active"
 ---
 
 # § 1725. Reimbursement for emergency treatment
@@ -69,3 +70,27 @@ generated_at: "2026-03-30T02:55:53.486Z"
     - **(C)** An employer or an employer’s insurance carrier.
     - **(D)** An automobile accident reparations insurance carrier.
     - **(E)** A person or entity obligated to provide, or to pay the expenses of, health services under a health-plan contract.
+
+General Authority
+
+Eligibility
+
+Limitations on Reimbursement
+
+Independent Right of Recovery
+
+Waiver
+
+Submittal of Claims for Direct Payment
+
+Hold Harmless
+
+Definitions
+
+In general
+
+Reimbursement for treatment provided before effective date
+
+## Source Credit
+
+*(Added [Pub. L. 106–117, title I, § 111(a)](https://www.govinfo.gov/link/plaw/106/public/117), Nov. 30, 1999, [113 Stat. 1553](https://www.govinfo.gov/link/statute/113/1553); amended [Pub. L. 110–387, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/110/public/387), Oct. 10, 2008, [122 Stat. 4123](https://www.govinfo.gov/link/statute/122/4123); [Pub. L. 111–137, § 1(a)](https://www.govinfo.gov/link/plaw/111/public/137), (b), Feb. 1, 2010, [123 Stat. 3495](https://www.govinfo.gov/link/statute/123/3495); [Pub. L. 117–328, div. U, title I, § 142(a)(1)](https://www.govinfo.gov/link/plaw/117/public/328), (c)(2), Dec. 29, 2022, [136 Stat. 5423](https://www.govinfo.gov/link/statute/136/5423), 5424.)*

@@ -3,9 +3,10 @@ title: "Section 1254 - Federal programs"
 usc_title: 30
 usc_section: "1254"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1254"
-generated_at: "2026-03-30T02:55:29.399Z"
+generated_at: "2026-11-23T21:26:00.425Z"
+status: "active"
 ---
 
 # § 1254. Federal programs
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:29.399Z"
 - **(f)** Permits issued pursuant to the Federal program shall be valid under any superseding State program: Provided , That the Federal permittee shall have the right to apply for a State permit to supersede his Federal permit. The State regulatory authority may review such permits to determine that the requirements of this chapter and the approved State program are not violated. Should the State program contain additional requirements not contained in the Federal program, the permittee will be provided opportunity for hearing and a reasonable time, within a time limit prescribed in regulations promulgated pursuant to section 1251 of this title , to conform ongoing surface mining and reclamation operations to the additional State requirements.
 - **(g)** Whenever a Federal program is promulgated for a State pursuant to this chapter, any statutes or regulations of such State which are in effect to regulate surface mining and reclamation operations subject to this chapter shall, insofar as they interfere with the achievement of the purposes and the requirements of this chapter and the Federal program, be preempted and superseded by the Federal program. The Secretary shall set forth any State law or regulation which is preempted and superseded by the Federal program.
 - **(h)** Any Federal program shall include a process for coordinating the review and issuance of permits for surface mining and reclamation operations with any other Federal or State permit process applicable to the proposed operation.
+
+## Source Credit
+
+*([Pub. L. 95–87, title V, § 504](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 471](https://www.govinfo.gov/link/statute/91/471).)*

@@ -3,9 +3,10 @@ title: "Section 3043 - Advances"
 usc_title: 12
 usc_section: "3043"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3043"
-generated_at: "2026-03-30T02:53:53.490Z"
+generated_at: "2026-11-23T21:25:37.119Z"
+status: "active"
 ---
 
 # § 3043. Advances
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:53.490Z"
   - **(2)** the applicant cannot obtain sufficient funds through a loan under section 3018 of this title or otherwise, and the applicant presents a plan which the Office determines will permit the replacement of a capital investment advance out of member equities within a period not to exceed thirty years.
 - **(b)** The Office may make advances to pay all or part of the interest payable to the Bank or any other lender by an eligible cooperative applicant which the Office determines cannot pay a market rate of interest because it sells goods or services to, or provides facilities for the use of, persons of low income: Provided , That such advances will not exceed an amount equal to 4 per centum of the principal amount of the indebtedness of such applicant to the Bank or such other lender for any year in which the net income of the cooperative is insufficient to meet scheduled interest payments.
 - **(c)** Capital investment advances made by the Office pursuant to subsection (a) and interest supplement advances made by the Office pursuant to subsection (b) shall bear interest at a rate determined by the Board of Directors of the Bank, and the Board of Directors may authorize an interest rate applicable to such advances lower than the rate applicable to loans by the Bank pursuant to section 3018 of this title .
+
+## Source Credit
+
+*([Pub. L. 95–351, title II, § 203](https://www.govinfo.gov/link/plaw/95/public/351), Aug. 20, 1978, [92 Stat. 512](https://www.govinfo.gov/link/statute/92/512); [Pub. L. 97–35, title III, § 396(g)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 440](https://www.govinfo.gov/link/statute/95/440).)*

@@ -3,9 +3,10 @@ title: "Section 1397f - Additional grants"
 usc_title: 42
 usc_section: "1397f"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1397f"
-generated_at: "2026-03-30T02:56:11.065Z"
+generated_at: "2026-11-23T21:26:31.929Z"
+status: "active"
 ---
 
 # § 1397f. Additional grants
@@ -67,3 +68,7 @@ generated_at: "2026-03-30T02:56:11.065Z"
     - **(D)** to the extent that any State will not use the amounts provided under this section for the area in the manner described in subsection (b), explains the reasons why not.
   - **(5)** The term “rural area” has the meaning given such term in section 1393(a)(2) of the Internal Revenue Code of 1986.
   - **(6)** The term “urban area” has the meaning given such term in section 1393(a)(3) of the Internal Revenue Code of 1986.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XX, § 2007, as added [Pub. L. 103–66, title XIII, § 13761](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 664](https://www.govinfo.gov/link/statute/107/664); amended [Pub. L. 103–432, title II, § 263](https://www.govinfo.gov/link/plaw/103/public/432), Oct. 31, 1994, [108 Stat. 4467](https://www.govinfo.gov/link/statute/108/4467).)*

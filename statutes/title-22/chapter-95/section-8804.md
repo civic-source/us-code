@@ -3,9 +3,10 @@ title: "Section 8804 - Imposition of sanctions with respect to the sale, supply,
 usc_title: 22
 usc_section: "8804"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8804"
-generated_at: "2026-03-30T02:55:05.457Z"
+generated_at: "2026-11-23T21:25:58.756Z"
+status: "active"
 ---
 
 # § 8804. Imposition of sanctions with respect to the sale, supply, or transfer of certain materials to or from Iran
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:05.457Z"
     - **(B)** submits to the appropriate congressional committees a report providing a justification for the waiver.
   - **(2)** Each report submitted under paragraph (1)(B) shall be submitted in unclassified form, but may include a classified annex.
 - **(h)** For purposes of this section, the term “national balance sheet of Iran” refers to the ratio of the assets of the Government of Iran to the liabilities of that Government.
+
+## Source Credit
+
+*([Pub. L. 112–239, div. A, title XII, § 1245](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2009](https://www.govinfo.gov/link/statute/126/2009).)*

@@ -3,9 +3,10 @@ title: "Section 2712 - Uses of Fund"
 usc_title: 33
 usc_section: "2712"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2712"
-generated_at: "2026-03-30T02:55:41.131Z"
+generated_at: "2026-11-23T21:26:11.463Z"
+status: "active"
 ---
 
 # § 2712. Uses of Fund
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:55:41.131Z"
       - **(ii)** resulted in disbursements from the Fund, for removal costs and damages, totaling $500,000 or more; and
     - **(C)** an accounting of any amounts reimbursed to the Fund in the preceding fiscal year that were recovered from a responsible party for an incident that resulted in disbursements from the Fund, for removal costs and damages, totaling $500,000 or more.
   - **(3)** Each Federal agency that receives amounts from the Fund shall maintain records describing the purposes for which such funds were obligated or expended in such detail as the Secretary may require for purposes of the report required under paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 101–380, title I, § 1012](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 498](https://www.govinfo.gov/link/statute/104/498); [Pub. L. 108–293, title VII, § 708(b)](https://www.govinfo.gov/link/plaw/108/public/293), Aug. 9, 2004, [118 Stat. 1077](https://www.govinfo.gov/link/statute/118/1077); [Pub. L. 111–281, title VII, § 708](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2984](https://www.govinfo.gov/link/statute/124/2984); [Pub. L. 115–282, title VIII, § 816](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4305](https://www.govinfo.gov/link/statute/132/4305); [Pub. L. 116–283, div. G, title LVXXXIII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXIII], §§ 8302(a), 8303(b), title LVXXXV [LXXXV], § 8513(c), Jan. 1, 2021, [134 Stat. 4692](https://www.govinfo.gov/link/statute/134/4692), 4761; [Pub. L. 117–263, div. K, title CXIII](https://www.govinfo.gov/link/plaw/117/public/263), §§ 11310, 11314, Dec. 23, 2022, [136 Stat. 4085](https://www.govinfo.gov/link/statute/136/4085), 4087; [Pub. L. 119–60, div. G, title LXXVII, § 7701(g)(4)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1836](https://www.govinfo.gov/link/statute/139/1836).)*

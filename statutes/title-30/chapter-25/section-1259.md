@@ -3,9 +3,10 @@ title: "Section 1259 - Performance bonds"
 usc_title: 30
 usc_section: "1259"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1259"
-generated_at: "2026-03-30T02:55:29.400Z"
+generated_at: "2026-11-23T21:26:00.426Z"
+status: "active"
 ---
 
 # § 1259. Performance bonds
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:29.400Z"
 - **(c)** The regulatory authority may accept the bond of the applicant itself without separate surety when the applicant demonstrates to the satisfaction of the regulatory authority the existence of a suitable agent to receive service of process and a history of financial solvency and continuous operation sufficient for authorization to self-insure or bond such amount or in lieu of the establishment of a bonding program, as set forth in this section, the Secretary may approve as part of a State or Federal program an alternative system that will achieve the objectives and purposes of the bonding program pursuant to this section.
 - **(d)** Cash or securities so deposited shall be deposited upon the same terms as the terms upon which surety bonds may be deposited. Such securities shall be security for the repayment of such negotiable certificate of deposit.
 - **(e)** The amount of the bond or deposit required and the terms of each acceptance of the applicant’s bond shall be adjusted by the regulatory authority from time to time as affected land acreages are increased or decreased or where the cost of future reclamation changes.
+
+## Source Credit
+
+*([Pub. L. 95–87, title V, § 509](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 479](https://www.govinfo.gov/link/statute/91/479).)*

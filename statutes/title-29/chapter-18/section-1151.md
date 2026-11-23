@@ -3,9 +3,10 @@ title: "Section 1151 - Administrative summary cease and desist orders and summar
 usc_title: 29
 usc_section: "1151"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1151"
-generated_at: "2026-03-30T02:55:18.721Z"
+generated_at: "2026-11-23T21:26:02.266Z"
+status: "active"
 ---
 
 # § 1151. Administrative summary cease and desist orders and summary seizure orders against multiple employer welfare arrangements in financially hazardous condition
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:18.721Z"
 - **(e)** The Secretary may issue a summary seizure order under this subchapter if it appears that a multiple employer welfare arrangement is in a financially hazardous condition.
 - **(f)** The Secretary may promulgate such regulations or other guidance as may be necessary or appropriate to carry out this section.
 - **(g)** This section shall not apply to any plan or arrangement that does not fall within the meaning of the term “multiple employer welfare arrangement” under section 1002(40)(A) of this title .
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 521](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 111–148, title VI, § 6605(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 780](https://www.govinfo.gov/link/statute/124/780).)*

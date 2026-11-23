@@ -3,9 +3,10 @@ title: "Section 4211 - 50-year leasehold interest in trust or restricted lands f
 usc_title: 25
 usc_section: "4211"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4211"
-generated_at: "2026-03-30T02:54:52.860Z"
+generated_at: "2026-11-23T21:25:54.711Z"
+status: "active"
 ---
 
 # § 4211. 50-year leasehold interest in trust or restricted lands for housing purposes
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:52.860Z"
   - **(1)** is conferred by or pursuant to any other provision of law; or
   - **(2)** provides for leases for any period exceeding 50 years.
 - **(d)** This section is intended to be self-implementing and shall not require the issuance of any rule, regulation, or order to take effect as provided in section 705.
+
+## Source Credit
+
+*([Pub. L. 104–330, title VII, § 702](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4050](https://www.govinfo.gov/link/statute/110/4050).)*

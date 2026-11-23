@@ -3,9 +3,10 @@ title: "Section 7715 - Assistance to certain candidate countries"
 usc_title: 22
 usc_section: "7715"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7715"
-generated_at: "2026-03-30T02:55:05.445Z"
+generated_at: "2026-11-23T21:25:58.727Z"
+status: "active"
 ---
 
 # § 7715. Assistance to certain candidate countries
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.445Z"
 - **(d)**
   - **(1)** Not more than 10 percent of the amounts made available to carry out this chapter for a fiscal year may be made available to carry out this section.
   - **(2)** None of the funds authorized to carry out the purposes of this chapter shall be available for assistance under this section to a country that does not qualify as a candidate country under section 7705 of this title for the fiscal year during which such assistance is provided.
+
+## Source Credit
+
+*([Pub. L. 108–199, div. D, title VI, § 616](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 224](https://www.govinfo.gov/link/statute/118/224); [Pub. L. 109–13, div. A, title II, § 2109](https://www.govinfo.gov/link/plaw/109/public/13), May 11, 2005, [119 Stat. 268](https://www.govinfo.gov/link/statute/119/268); [Pub. L. 115–167, title II, § 207](https://www.govinfo.gov/link/plaw/115/public/167), Apr. 23, 2018, [132 Stat. 1282](https://www.govinfo.gov/link/statute/132/1282); [Pub. L. 118–159, div. E, title LI, § 5122(c)(3)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2431](https://www.govinfo.gov/link/statute/138/2431).)*

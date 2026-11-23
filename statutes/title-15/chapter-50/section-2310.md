@@ -3,9 +3,10 @@ title: "Section 2310 - Remedies in consumer disputes"
 usc_title: 15
 usc_section: "2310"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2310"
-generated_at: "2026-03-30T02:54:08.171Z"
+generated_at: "2026-11-23T21:25:39.926Z"
+status: "active"
 ---
 
 # § 2310. Remedies in consumer disputes
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:08.171Z"
     - **(C)** if the action is brought as a class action, and the number of named plaintiffs is less than one hundred.
 - **(e)** No action (other than a class action or an action respecting a warranty to which subsection (a)(3) applies) may be brought under subsection (d) for failure to comply with any obligation under any written or implied warranty or service contract, and a class of consumers may not proceed in a class action under such subsection with respect to such a failure except to the extent the court determines necessary to establish the representative capacity of the named plaintiffs, unless the person obligated under the warranty or service contract is afforded a reasonable opportunity to cure such failure to comply. In the case of such a class action (other than a class action respecting a warranty to which subsection (a)(3) applies) brought under subsection (d) for breach of any written or implied warranty or service contract, such reasonable opportunity will be afforded by the named plaintiffs and they shall at that time notify the defendant that they are acting on behalf of the class. In the case of such a class action which is brought in a district court of the United States, the representative capacity of the named plaintiffs shall be established in the application of rule 23 of the Federal Rules of Civil Procedure.
 - **(f)** For purposes of this section, only the warrantor actually making a written affirmation of fact, promise, or undertaking shall be deemed to have created a written warranty, and any rights arising thereunder may be enforced under this section only against such warrantor and no other person.
+
+## Source Credit
+
+*([Pub. L. 93–637, title I, § 110](https://www.govinfo.gov/link/plaw/93/public/637), Jan. 4, 1975, [88 Stat. 2189](https://www.govinfo.gov/link/statute/88/2189).)*

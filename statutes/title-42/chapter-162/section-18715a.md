@@ -3,9 +3,10 @@ title: "Section 18715a - Grants to facilitate the siting of interstate electrici
 usc_title: 42
 usc_section: "18715a"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18715a"
-generated_at: "2026-03-30T02:56:11.525Z"
+generated_at: "2026-11-23T21:26:33.837Z"
+status: "active"
 ---
 
 # § 18715a. Grants to facilitate the siting of interstate electricity transmission lines
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:11.525Z"
       - **(ii)** offshore and at a minimum of 200 kilovolts of either alternating-current or direct-current electric energy by an entity; and
     - **(B)** for which such entity has applied, or informed a siting authority of such entity’s intent to apply, for regulatory approval.
   - **(2)** The term “siting authority” means a State, local, or Tribal governmental entity with authority to make a final determination regarding the siting, permitting, or regulatory status of a covered transmission project that is proposed to be located in an area under the jurisdiction of the entity.
+
+## Source Credit
+
+*([Pub. L. 117–169, title V, § 50152](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2046](https://www.govinfo.gov/link/statute/136/2046).)*

@@ -3,9 +3,10 @@ title: "Section 4630 - Requirements for relocation payments and assistance of fe
 usc_title: 42
 usc_section: "4630"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4630"
-generated_at: "2026-03-30T02:56:11.207Z"
+generated_at: "2026-11-23T21:26:32.682Z"
+status: "active"
 ---
 
 # § 4630. Requirements for relocation payments and assistance of federally assisted program; assurances of availability of housing
@@ -15,3 +16,7 @@ Notwithstanding any other law, the head of a Federal agency shall not approve an
   - **(1)** fair and reasonable relocation payments and assistance shall be provided to or for displaced persons, as are required to be provided by a Federal agency under sections 4622, 4623, and 4624 of this title;
   - **(2)** relocation assistance programs offering the services described in section 4625 of this title shall be provided to such displaced persons;
   - **(3)** within a reasonable period of time prior to displacement, comparable replacement dwellings will be available to displaced persons in accordance with section 4625(c)(3) of this title .
+
+## Source Credit
+
+*([Pub. L. 91–646, title II, § 210](https://www.govinfo.gov/link/plaw/91/public/646), Jan. 2, 1971, [84 Stat. 1899](https://www.govinfo.gov/link/statute/84/1899); [Pub. L. 100–17, title IV, § 410](https://www.govinfo.gov/link/plaw/100/public/17), Apr. 2, 1987, [101 Stat. 254](https://www.govinfo.gov/link/statute/101/254).)*

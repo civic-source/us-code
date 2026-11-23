@@ -3,9 +3,10 @@ title: "Section 2506 - Demonstrations"
 usc_title: 15
 usc_section: "2506"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2506"
-generated_at: "2026-03-30T02:54:08.172Z"
+generated_at: "2026-11-23T21:25:39.929Z"
+status: "active"
 ---
 
 # § 2506. Demonstrations
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:08.172Z"
 - **(e)**
   - **(1)** At least 60 days prior to entering into any contract for the purchase or lease of any electric or hybrid vehicle under subsection (c)(1) or any advanced electric or hybrid vehicle under subsection (c)(2), the Secretary of Energy shall determine (A) if the purchase or lease of the number of such vehicles specified in such subsection (c)(1) or (c)(2) will, with high probability, displace the normal level of private procurement of such vehicles which would conform to the applicable performance standards promulgated pursuant to subsection (b) and which would be used in the United States, and (B) if such displacement will occur, the necessary extent of such displacement in order to carry out the purposes of this chapter.
   - **(2)** The Secretary of Energy shall reduce the number of vehicles for which he shall contract for the purchase or lease under subsection (c)(1) or (c)(2) by the number determined under subsection (e)(1)(A) as modified by subsection (e)(1)(B), except in no event shall he contract for the purchase or lease pursuant to subsection (c)(1) of less than 1,000 electric or hybrid vehicles, and in no event shall he contract for the purchase or lease pursuant to subsection (c)(2) of less than 2,500 advanced electric or hybrid vehicles unless he determines on the basis of responses to the solicitations for proposals for such contracts, under the provisions of subsections (c)(1) and (c)(2) that lesser numbers of such vehicles which satisfy the applicable performance standards will be available within the delivery periods. All other provisions of subsection (c) shall apply.
+
+## Source Credit
+
+*([Pub. L. 94–413, § 7](https://www.govinfo.gov/link/plaw/94/public/413), Sept. 17, 1976, [90 Stat. 1263](https://www.govinfo.gov/link/statute/90/1263); [Pub. L. 95–91, title III, § 301(a)](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 577](https://www.govinfo.gov/link/statute/91/577); [Pub. L. 95–238, title VI, § 601](https://www.govinfo.gov/link/plaw/95/public/238), Feb. 25, 1978, [92 Stat. 91](https://www.govinfo.gov/link/statute/92/91); [Pub. L. 96–470, title I, § 105](https://www.govinfo.gov/link/plaw/96/public/470), Oct. 19, 1980, [94 Stat. 2238](https://www.govinfo.gov/link/statute/94/2238); [Pub. L. 97–375, title I, § 106(b)](https://www.govinfo.gov/link/plaw/97/public/375), Dec. 21, 1982, [96 Stat. 1820](https://www.govinfo.gov/link/statute/96/1820); [Pub. L. 103–437, § 5(d)(1)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4582](https://www.govinfo.gov/link/statute/108/4582); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537).)*

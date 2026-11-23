@@ -3,9 +3,10 @@ title: "Section 403 - Basic allowance for housing"
 usc_title: 37
 usc_section: "403"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 403"
-generated_at: "2026-03-30T02:55:44.057Z"
+generated_at: "2026-11-23T21:26:14.227Z"
+status: "active"
 ---
 
 # § 403. Basic allowance for housing
@@ -148,3 +149,307 @@ generated_at: "2026-03-30T02:55:44.057Z"
 - **(q)** The Secretary concerned shall provide to each member of a uniformed service who receives a basic allowance for housing under this section information on the rights and protections available to such member under the Servicemembers Civil Relief Act ( 50 U.S.C. 3901 et seq.)—
   - **(1)** when such member first receives such basic allowance for housing; and
   - **(2)** each time such member receives a permanent change of station.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 403(a) 403(b) 403(c) 403(d) | 37:252(a). 37:252(f). 37:252(b). 37:252(c). 37:252(d). | Oct. 12, 1949, ch. 681, § 302(a) –(f), 63 Stat. 812 ; May 19, 1952, ch. 310, § 1(b) , (c), 66 Stat. 79 ; May 20, 1958 , Pub. L. 85–422, § 1(9) , 72 Stat. 127 . |
+| 403(e) | 37:111a. | July 2, 1945, ch. 227 , 59 Stat. 316 . |
+| 403(f) 403(g) | 37:320. 37:252(e). | June 29, 1950, ch. 405, § 102 , 64 Stat. 288 . |
+
+|  | Col 2 | Col 3 |
+| --- | --- | --- |
+| “E–4 | $81.60 | $121.50 |
+| E–3 | 72.30 | 105.00 |
+| E–2 | 63.90 | 105.00 |
+| E–1 | 60.00 | 105.00” |
+| for former provisions reading: |  |  |
+| “E–4 (over 4 years’ service) | 81.60 | 121.50 |
+| E–4 (4 years’ or less service) | 45.00 | 45.00 |
+| E–3 | 45.00 | 45.00 |
+| E–2 | 45.00 | 45.00 |
+| E–1 | 45.00 | 45.00” |
+
+| “Pay grade | Without dependents | With dependents |
+| --- | --- | --- |
+| O–10 | $160.20 | $201.00 |
+| O–9 | 160.20 | 201.00 |
+| O–8 | 160.20 | 201.00 |
+| O–7 | 160.20 | 201.00 |
+| O–6 | 140.10 | 170.10 |
+| O–5 | 130.20 | 157.50 |
+| O–4 | 120.00 | 145.05 |
+| O–3 | 105.00 | 130.05 |
+| O–2 | 95.10 | 120.00 |
+| O–1 | 85.20 | 110.10 |
+| W–4 | 120.00 | 145.05 |
+| W–3 | 105.00 | 130.05 |
+| W–2 | 95.10 | 120.00 |
+| W–1 | 85.20 | 110.10 |
+| E–9 | 85.20 | 120.00 |
+| E–8 | 85.20 | 120.00 |
+| E–7 | 75.00 | 114.90 |
+| E–6 | 70.20 | 110.10 |
+| E–5 | 70.20 | 105.00 |
+| E–4 (over 4 years’ service) | 70.20 | 105.00 |
+| E–4 (4 years’ or less service) | 45.00 | 45.00 |
+| E–3 | 45.00 | 45.00 |
+| E–2 | 45.00 | 45.00 |
+| E–1 | 45.00 | 45.00” |
+
+| “Pay grade | Without dependents | With dependents |
+| --- | --- | --- |
+| O–10 | $171.00 | $136.80 |
+| O–9 | 171.00 | 136.80 |
+| O–8 | 171.00 | 136.80 |
+| O–7 | 171.00 | 136.80 |
+| O–6 | 136.80 | 119.70 |
+| O–5 | 136.80 | 102.60 |
+| O–4 | 119.70 | 94.20 |
+| O–3 | 102.60 | 85.50 |
+| O–2 | 94.20 | 77.10 |
+| O–1 | 85.50 | 68.40 |
+| W–4 | 119.70 | 94.20 |
+| W–3 | 102.60 | 85.50 |
+| W–2 | 94.20 | 77.10 |
+| W–1 | 85.50 | 68.40 |
+| E–9 | 67.50 | 45.00 |
+| E–8 | 67.50 | 45.00 |
+| E–7 | 67.50 | 45.00 |
+| E–6 | 67.50 | 45.00 |
+| E–5 | 67.50 | 45.00 |
+| E–4 (7 or more years’ service creditable under section 205) | 67.50 | 45.00 |
+| E–4 (less than 7 years’ service creditable under section 205) | 45.00 | 45.00 |
+| E–3 | 45.00 | 45.00 |
+| E–2 | 45.00 | 45.00 |
+| E–1 | 45.00 | 45.00” |
+
+
+General Entitlement
+
+Basic Allowance for Housing Inside the United States
+
+Basic Allowance for Housing Outside the United States
+
+Basic Allowance for Housing When Dependents Do Not Accompany Member
+
+Effect of Assignment to Quarters
+
+Ineligibility During Initial Field Duty or Sea Duty
+
+Reserve Members
+
+Rental of Public Quarters
+
+Temporary Housing Allowance While in Travel or Leave Status
+
+Aviation Cadets
+
+Administration
+
+Temporary Continuation of Allowance for Dependents of Members Dying on Active Duty
+
+Temporary Continuation of Rate of Basic Allowance for Members of the Armed Forces Whose Sole Dependent Dies While Residing With the Member
+
+Members Paying Child Support
+
+Partial Allowance for Members Without Dependents
+
+Treatment of Certain Moves as Not Being Reassignments
+
+Information on Rights and Protections Under Servicemembers Civil Relief Act
+
+Historical and Revision Notes
+
+403(a)
+
+403(b)
+
+403(c)
+
+403(d)
+
+Oct. 12, 1949, ch. 681, § 302(a)
+
+63 Stat. 812
+
+May 19, 1952, ch. 310, § 1(b)
+
+66 Stat. 79
+
+May 20, 1958
+
+Pub. L. 85–422, § 1(9)
+
+72 Stat. 127
+
+403(e)
+
+July 2, 1945, ch. 227
+
+59 Stat. 316
+
+403(f)
+
+403(g)
+
+June 29, 1950, ch. 405, § 102
+
+64 Stat. 288
+
+Do Not
+
+Are Unable To
+
+“E–4
+
+E–3
+
+E–2
+
+E–1
+
+“E–4 (over 4 years’ service)
+
+E–4 (4 years’ or less service)
+
+E–3
+
+E–2
+
+E–1
+
+O–10
+
+O–9
+
+O–8
+
+O–7
+
+O–6
+
+O–5
+
+O–4
+
+O–3
+
+O–2
+
+O–1
+
+W–4
+
+W–3
+
+W–2
+
+W–1
+
+E–9
+
+E–8
+
+E–7
+
+E–6
+
+E–5
+
+E–4 (over 4 years’ service)
+
+E–4 (4 years’ or less service)
+
+E–3
+
+E–2
+
+E–1
+
+O–10
+
+O–9
+
+O–8
+
+O–7
+
+O–6
+
+O–5
+
+O–4
+
+O–3
+
+O–2
+
+O–1
+
+W–4
+
+W–3
+
+W–2
+
+W–1
+
+E–9
+
+E–8
+
+E–7
+
+E–6
+
+E–5
+
+E–4 (7 or more years’ service creditable under section 205)
+
+E–4 (less than 7 years’ service creditable under section 205)
+
+E–3
+
+E–2
+
+E–1
+
+General rule
+
+Transitional rule
+
+Increasing Awareness
+
+Study to Evaluate Alternative Rate Calculation.—
+
+Study.—
+
+In general
+
+Rule of construction
+
+Proposed monthly rates
+
+Mhas
+
+Completion
+
+Annual briefings
+
+Report
+
+Definitions
+
+In general
+
+Alternative rate
+
+Minimum Rates of Basic Allowance for Housing for Members of the Uniformed Services
+
+Annual Limitation on Allowance
+
+Increase in Quarters Allowance
+
+## Source Credit
+
+*([Pub. L. 87–649](https://www.govinfo.gov/link/plaw/87/public/649), Sept. 7, 1962, [76 Stat. 470](https://www.govinfo.gov/link/statute/76/470); [Pub. L. 88–132, § 10](https://www.govinfo.gov/link/plaw/88/public/132), Oct. 2, 1963, [77 Stat. 216](https://www.govinfo.gov/link/statute/77/216); [Pub. L. 89–718](https://www.govinfo.gov/link/plaw/89/public/718), §§ 49(a)(1), 54, Nov. 2, 1966, [80 Stat. 1121](https://www.govinfo.gov/link/statute/80/1121), 1122; [Pub. L. 90–207, § 1(3)](https://www.govinfo.gov/link/plaw/90/public/207), Dec. 16, 1967, [81 Stat. 651](https://www.govinfo.gov/link/statute/81/651); [Pub. L. 92–129, title II, § 204](https://www.govinfo.gov/link/plaw/92/public/129), Sept. 28, 1971, [85 Stat. 358](https://www.govinfo.gov/link/statute/85/358); [Pub. L. 93–64, title I, § 105](https://www.govinfo.gov/link/plaw/93/public/64), July 9, 1973, [87 Stat. 148](https://www.govinfo.gov/link/statute/87/148); [Pub. L. 93–419, § 3(6)](https://www.govinfo.gov/link/plaw/93/public/419), Sept. 19, 1974, [88 Stat. 1152](https://www.govinfo.gov/link/statute/88/1152); [Pub. L. 96–343, § 4(a)(1)](https://www.govinfo.gov/link/plaw/96/public/343), (2), Sept. 8, 1980, [94 Stat. 1125](https://www.govinfo.gov/link/statute/94/1125); [Pub. L. 96–513, title V, § 516(10)](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2938](https://www.govinfo.gov/link/statute/94/2938); [Pub. L. 96–579](https://www.govinfo.gov/link/plaw/96/public/579), §§ 6(a)–(c), 7, Dec. 23, 1980, [94 Stat. 3367](https://www.govinfo.gov/link/statute/94/3367), 3368; [Pub. L. 97–22, § 11(b)(2)](https://www.govinfo.gov/link/plaw/97/public/22), July 10, 1981, [95 Stat. 138](https://www.govinfo.gov/link/statute/95/138); [Pub. L. 98–94, title IX, § 907(a)](https://www.govinfo.gov/link/plaw/98/public/94), Sept. 24, 1983, [97 Stat. 637](https://www.govinfo.gov/link/statute/97/637); [Pub. L. 98–525, title VI](https://www.govinfo.gov/link/plaw/98/public/525), §§ 602(c), 604(a), Oct. 19, 1984, [98 Stat. 2534](https://www.govinfo.gov/link/statute/98/2534), 2537; [Pub. L. 99–145, title VI](https://www.govinfo.gov/link/plaw/99/public/145), §§ 604(a), 605(a), title VIII, § 809(b), title XIII, § 1303(b)(6), Nov. 8, 1985, [99 Stat. 638](https://www.govinfo.gov/link/statute/99/638), 681, 740; [Pub. L. 99–227, § 1](https://www.govinfo.gov/link/plaw/99/public/227), Dec. 28, 1985, [99 Stat. 1745](https://www.govinfo.gov/link/statute/99/1745); [Pub. L. 100–26, § 8(d)(5)](https://www.govinfo.gov/link/plaw/100/public/26), Apr. 21, 1987, [101 Stat. 285](https://www.govinfo.gov/link/statute/101/285); [Pub. L. 102–25, title VII, § 702(b)(1)](https://www.govinfo.gov/link/plaw/102/public/25), (c), Apr. 6, 1991, [105 Stat. 117](https://www.govinfo.gov/link/statute/105/117); [Pub. L. 102–190, div. A, title VI](https://www.govinfo.gov/link/plaw/102/public/190), §§ 602(a), 604(a), 632(a), Dec. 5, 1991, [105 Stat. 1373](https://www.govinfo.gov/link/statute/105/1373), 1374, 1380; [Pub. L. 103–337, div. A, title VI, § 604(a)](https://www.govinfo.gov/link/plaw/103/public/337), (b), Oct. 5, 1994, [108 Stat. 2782](https://www.govinfo.gov/link/statute/108/2782); [Pub. L. 104–106, div. A, title VI](https://www.govinfo.gov/link/plaw/104/public/106), §§ 603(a), 604(a), Feb. 10, 1996, [110 Stat. 357](https://www.govinfo.gov/link/statute/110/357), 358; [Pub. L. 104–201, div. A, title VI](https://www.govinfo.gov/link/plaw/104/public/201), §§ 604(a)–(c), 605, Sept. 23, 1996, [110 Stat. 2540](https://www.govinfo.gov/link/statute/110/2540), 2541; [Pub. L. 105–85, div. A, title VI, § 603(a)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1775](https://www.govinfo.gov/link/statute/111/1775); [Pub. L. 105–261, div. A, title VI, § 603(a)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2037](https://www.govinfo.gov/link/statute/112/2037); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title VI, §§ 605(a)–(d), 607, 608, title X, § 1087(b)(2)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–147 to 1654A–149, 1654A–292; [Pub. L. 107–107, div. A, title VI, § 605(a)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1134](https://www.govinfo.gov/link/statute/115/1134); [Pub. L. 107–296, title XVII, § 1704(c)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 107–314, div. A, title VI, § 602](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2566](https://www.govinfo.gov/link/statute/116/2566); [Pub. L. 108–136, div. A, title VI, § 605(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1500](https://www.govinfo.gov/link/statute/117/1500); [Pub. L. 108–375, div. A, title VI](https://www.govinfo.gov/link/plaw/108/public/375), §§ 603, 604, Oct. 28, 2004, [118 Stat. 1944](https://www.govinfo.gov/link/statute/118/1944); [Pub. L. 109–13, div. A, title I, § 1022(a)](https://www.govinfo.gov/link/plaw/109/public/13), May 11, 2005, [119 Stat. 251](https://www.govinfo.gov/link/statute/119/251); [Pub. L. 109–163, div. A, title VI](https://www.govinfo.gov/link/plaw/109/public/163), §§ 609(a), 610, 611, Jan. 6, 2006, [119 Stat. 3289](https://www.govinfo.gov/link/statute/119/3289), 3290; [Pub. L. 109–364, div. A, title VI](https://www.govinfo.gov/link/plaw/109/public/364), §§ 604(a), 605(a), Oct. 17, 2006, [120 Stat. 2245](https://www.govinfo.gov/link/statute/120/2245), 2246; [Pub. L. 110–181, div. A, title VI](https://www.govinfo.gov/link/plaw/110/public/181), §§ 602(a), 603(b), Jan. 28, 2008, [122 Stat. 145](https://www.govinfo.gov/link/statute/122/145); [Pub. L. 112–81, div. A, title VI](https://www.govinfo.gov/link/plaw/112/public/81), §§ 601, 631(f)(4)(A), Dec. 31, 2011, [125 Stat. 1447](https://www.govinfo.gov/link/statute/125/1447), 1465; [Pub. L. 112–239, div. A, title VI](https://www.govinfo.gov/link/plaw/112/public/239), §§ 602, 603(a), 604(a), title X, § 1076(a)(9), Jan. 2, 2013, [126 Stat. 1773](https://www.govinfo.gov/link/statute/126/1773), 1774, 1948; [Pub. L. 113–66, div. A, title VI, § 601](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 779](https://www.govinfo.gov/link/statute/127/779); [Pub. L. 113–291, div. A, title VI](https://www.govinfo.gov/link/plaw/113/public/291), §§ 602, 604(a), Dec. 19, 2014, [128 Stat. 3397](https://www.govinfo.gov/link/statute/128/3397), 3398; [Pub. L. 114–92, div. A, title VI](https://www.govinfo.gov/link/plaw/114/public/92), §§ 603, 604, Nov. 25, 2015, [129 Stat. 837](https://www.govinfo.gov/link/statute/129/837); [Pub. L. 114–328, div. A, title VI, § 603](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2156](https://www.govinfo.gov/link/statute/130/2156); [Pub. L. 115–91, div. A, title VI, § 605](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1421](https://www.govinfo.gov/link/statute/131/1421); [Pub. L. 115–232, div. A, title VI, § 611(e)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1797](https://www.govinfo.gov/link/statute/132/1797); [Pub. L. 116–92, div. A, title VI](https://www.govinfo.gov/link/plaw/116/public/92), §§ 605, 611(e), Dec. 20, 2019, [133 Stat. 1424](https://www.govinfo.gov/link/statute/133/1424), 1426; [Pub. L. 116–283, div. A, title VI](https://www.govinfo.gov/link/plaw/116/public/283), §§ 603, 611(e), Jan. 1, 2021, [134 Stat. 3671](https://www.govinfo.gov/link/statute/134/3671), 3673; [Pub. L. 117–81, div. A, title VI, § 611(e)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1769](https://www.govinfo.gov/link/statute/135/1769); [Pub. L. 117–263, div. A, title VI](https://www.govinfo.gov/link/plaw/117/public/263), §§ 601(e), 612, 613(a), 614, 626(h)(1), Dec. 23, 2022, [136 Stat. 2620](https://www.govinfo.gov/link/statute/136/2620), 2623, 2629; [Pub. L. 118–31, div. A, title VI](https://www.govinfo.gov/link/plaw/118/public/31), §§ 613(e), 622–624, Dec. 22, 2023, [137 Stat. 292–294](https://www.govinfo.gov/link/statute/137/292); [Pub. L. 118–159, div. A, title VI](https://www.govinfo.gov/link/plaw/118/public/159), §§ 611(e), 622, Dec. 23, 2024, [138 Stat. 1932](https://www.govinfo.gov/link/statute/138/1932), 1933; [Pub. L. 119–60, div. A, title VI, § 611(e)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 906](https://www.govinfo.gov/link/statute/139/906).)*

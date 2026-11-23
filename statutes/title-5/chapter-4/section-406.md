@@ -3,9 +3,10 @@ title: "Section 406 - Authority of Inspector General"
 usc_title: 5
 usc_section: "406"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 406"
-generated_at: "2026-03-30T02:52:55.980Z"
+generated_at: "2026-11-23T21:25:23.032Z"
+status: "active"
 ---
 
 # § 406. Authority of Inspector General
@@ -92,3 +93,138 @@ generated_at: "2026-03-30T02:52:55.980Z"
   - **(2)** For purposes of section 552a of title 5 or any other provision of law, a computerized comparison of two or more automated Federal systems of records, or a computerized comparison of a Federal system of records with other records or non-Federal records, performed by an Inspector General or by an agency in coordination with an Inspector General in conducting an audit, investigation, inspection, evaluation, or other review authorized under this chapter shall not be considered a matching program.
   - **(3)** Nothing in this subsection shall be construed to impede the exercise by an Inspector General of any matching program authority established under any other provision of law.
 - **(k)** Subchapter I of chapter 35 of title 44 shall not apply to the collection of information during the conduct of an audit, investigation, inspection, evaluation, or other review conducted by the Council of the Inspectors General on Integrity and Efficiency or any Office of Inspector General, including any Office of Special Inspector General.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 406 | 5 U.S.C. App. (IGA § 6) | Pub. L. 95–452, § 6 , Oct. 12, 1978 , 92 Stat. 1104 ; Pub. L. 100–504, title I , §§ 107, 110(a), Oct. 18, 1988 , 102 Stat. 2528 , 2529; Pub. L. 107–296, title VIII, § 812(a) , Nov. 25, 2002 , 116 Stat. 2222 ; Pub. L. 110–409 , §§ 8, 9, 11, 14(a), Oct. 14, 2008 , 122 Stat. 4313–4316 ; Pub. L. 114–317 , §§ 2, 5, 7(d)(2)(D), (3)(B), Dec. 16, 2016 , 130 Stat. 1595 , 1603, 1606. |
+
+
+In General
+
+Public Disclosure Otherwise Prohibited by Law
+
+Requests for Information.—
+
+Compliance in general
+
+Unreasonable refusal
+
+Office Space and Supplies
+
+Applying Certain Provisions.—
+
+Each office considered separate agency.—
+
+Applying section
+
+Additional Authority.—
+
+In general
+
+Determination
+
+Exemptions from requirement of initial determination of eligibility
+
+Guidelines
+
+Rescinding or suspending powers.—
+
+Powers authorized for an office of inspector general
+
+Powers authorized to be exercised by an individual
+
+Not reviewable
+
+Memorandum of understanding
+
+Not a limitation on other law enforcement powers
+
+Definition of inspector general
+
+Budgets.—
+
+Inspector general’s budget estimate and request transmitted to head of establishment or designated federal entity
+
+Head of establishment or designated federal entity’s proposed budget transmitted to president
+
+President’s budget submitted to congress
+
+Federal Grand Jury Materials.—
+
+Notification of attorney general of request
+
+Determination by attorney general
+
+Comments.—
+
+Requirement to inform inspector general of determination by attorney general
+
+Submission of comments by inspector general
+
+Statement of attorney general regarding denial of request
+
+Non-applicability of Certain Provisions to Requests From Inspector General of Department of Justice
+
+Computerized Comparisons.—
+
+Definitions
+
+Non-consideration of computerized comparisons as matching programs
+
+Limitation
+
+Non-Applicability of Federal Information Policy
+
+Historical and Revision Notes
+
+406
+
+Pub. L. 95–452, § 6
+
+Oct. 12, 1978
+
+92 Stat. 1104
+
+Pub. L. 100–504, title I
+
+Oct. 18, 1988
+
+102 Stat. 2528
+
+Pub. L. 107–296, title VIII, § 812(a)
+
+Nov. 25, 2002
+
+116 Stat. 2222
+
+Pub. L. 110–409
+
+Oct. 14, 2008
+
+122 Stat. 4313–4316
+
+Pub. L. 114–317
+
+Dec. 16, 2016
+
+130 Stat. 1595
+
+Inspectors General Criminal Investigator Academy.—
+
+Establishment
+
+Executive director
+
+Inspectors General Forensic Laboratory.—
+
+Establishment
+
+Executive director
+
+Separate Appropriations Account
+
+Authorization of Appropriations
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(b)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4218](https://www.govinfo.gov/link/statute/136/4218).)*

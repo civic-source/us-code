@@ -3,9 +3,10 @@ title: "Section 397 - Principal Information Operations Advisor"
 usc_title: 10
 usc_section: "397"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 397"
-generated_at: "2026-03-30T02:53:38.057Z"
+generated_at: "2026-11-23T21:25:32.263Z"
+status: "active"
 ---
 
 # § 397. Principal Information Operations Advisor
@@ -20,3 +21,53 @@ generated_at: "2026-03-30T02:53:38.057Z"
   - **(6)** Promulgation of standards for the attribution or public acknowledgment, if any, of operations in the information environment.
   - **(7)** Development of guidance for, and promotion of, the capability of the Department to liaison with the private sector and academia on matters relating to the influence activities of malign actors.
   - **(8)** Such other matters relating to information operations as the Secretary shall specify for purposes of this subsection.
+
+Designation
+
+Responsibilities
+
+Assessment and Plan
+
+Elements
+
+Optimization Plan
+
+Briefings
+
+Implementation
+
+Affirming the Authority of the Secretary of Defense to Conduct Military Operations in the Information Environment
+
+Treatment of Clandestine Military Operations in the Information Environment as Traditional Military Activities
+
+Quarterly Information Operations Briefings
+
+Rule of Construction
+
+Cross-functional Team.—
+
+Establishment
+
+Selection and organization
+
+Strategy and Posture Review.—
+
+Strategy and posture review required
+
+Coordination on certain cyber matters
+
+Elements
+
+Submission to congress
+
+Report.—
+
+In general
+
+Elements
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. A, title XVI, § 1631(a)(1)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1741](https://www.govinfo.gov/link/statute/133/1741); amended [Pub. L. 116–283, div. A, title X, § 1081(a)(16)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3871](https://www.govinfo.gov/link/statute/134/3871).)*

@@ -3,9 +3,10 @@ title: "Section 55111 - Towing"
 usc_title: 46
 usc_section: "55111"
 chapter: 551
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 55111"
-generated_at: "2026-03-30T02:56:15.579Z"
+generated_at: "2026-11-23T21:26:37.303Z"
+status: "active"
 ---
 
 # § 55111. Towing
@@ -20,3 +21,48 @@ generated_at: "2026-03-30T02:56:15.579Z"
 - **(c)**
   - **(1)** The owner and master of a vessel towing another vessel in violation of this section are each liable for a penalty of at least $350 but not more than $1,100. A penalty under this paragraph constitutes a lien on the vessel. The lien is enforceable in a district court of the United States for any district in which the vessel is found. Clearance may not be granted to the vessel until the penalties have been paid.
   - **(2)** In addition to the penalties under paragraph (1), the towing vessel is liable for a penalty of $60 per ton based on the tonnage of each towed vessel.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 55111 | 46 App.:316(a), (b). | R.S. § 4370; June 11, 1940, ch. 324 , 54 Stat. 304 ; Pub. L. 99–307, § 10 , May 19, 1986 , 100 Stat. 447 ; Pub. L. 100–329, § 2 , June 7, 1988 , 102 Stat. 589 ; Pub. L. 104–324, title XI, § 1115(b)(3) , Oct. 19, 1996 , 110 Stat. 3972 . |
+
+
+In General
+
+Applicable Towing
+
+Penalties
+
+Owner and master
+
+Vessel
+
+Historical and Revision Notes
+
+55111
+
+June 11, 1940, ch. 324
+
+54 Stat. 304
+
+Pub. L. 99–307, § 10
+
+May 19, 1986
+
+100 Stat. 447
+
+Pub. L. 100–329, § 2
+
+June 7, 1988
+
+102 Stat. 589
+
+Pub. L. 104–324, title XI, § 1115(b)(3)
+
+Oct. 19, 1996
+
+110 Stat. 3972
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1637](https://www.govinfo.gov/link/statute/120/1637).)*

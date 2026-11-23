@@ -3,9 +3,10 @@ title: "Section 3608 - Language training and cryptologic linguist reserve progra
 usc_title: 50
 usc_section: "3608"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3608"
-generated_at: "2026-03-30T02:56:26.257Z"
+generated_at: "2026-11-23T21:26:39.063Z"
+status: "active"
 ---
 
 # § 3608. Language training and cryptologic linguist reserve programs
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:26.257Z"
 - **(g)** The authority of the Director to enter into contracts or to make grants under this section is effective for any fiscal year only to the extent that appropriated funds are available for such purpose.
 - **(h)** Regulations issued pursuant to this section shall be submitted to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate before such regulations take effect.
 - **(i)** The Director of the National Security Agency, on behalf of the Secretary of Defense, may, without regard to section 4109(a)(2)(B) of title 5 , pay travel, transportation, storage, and subsistence expenses under chapter 57 of such title to civilian and military personnel of the Department of Defense who are assigned to duty outside the United States for a period of one year or longer which involves cryptologic training, language training, or related disciplines.
+
+## Source Credit
+
+*([Pub. L. 86–36, § 10](https://www.govinfo.gov/link/plaw/86/public/36), as added [Pub. L. 96–450, title IV, § 402(a)(1)](https://www.govinfo.gov/link/plaw/96/public/450), Oct. 14, 1980, [94 Stat. 1978](https://www.govinfo.gov/link/statute/94/1978); amended [Pub. L. 97–89, title VI, § 602](https://www.govinfo.gov/link/plaw/97/public/89), Dec. 4, 1981, [95 Stat. 1154](https://www.govinfo.gov/link/statute/95/1154).)*

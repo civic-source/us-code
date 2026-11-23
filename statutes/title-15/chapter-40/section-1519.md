@@ -3,12 +3,17 @@ title: "Section 1519 - Annual and special reports"
 usc_title: 15
 usc_section: "1519"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1519"
-generated_at: "2026-03-30T02:54:08.136Z"
+generated_at: "2026-11-23T21:25:39.829Z"
+status: "active"
 ---
 
 # § 1519. Annual and special reports
 
 The Secretary of Commerce shall annually, at the close of each fiscal year, make a report in writing to Congress, giving an account of all moneys received and disbursed by him and his Department, and describing the work done by the Department in fostering, promoting, and developing the foreign and domestic commerce, the mining, manufacturing, and fishery industries; of the United States, and making such recommendations as he shall deem necessary for the effective performance of the duties and purposes of the Department. He shall also from time to time make such special investigations and reports as he may be required to do by the President, or by either House of Congress, or which he himself may deem necessary and urgent.
 
+
+## Source Credit
+
+*(Feb. 14, 1903, ch. 552, § 8, [32 Stat. 829](https://www.govinfo.gov/link/statute/32/829); [Pub. L. 97–31, § 12(7)](https://www.govinfo.gov/link/plaw/97/public/31), Aug. 6, 1981, [95 Stat. 154](https://www.govinfo.gov/link/statute/95/154).)*

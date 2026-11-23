@@ -3,9 +3,10 @@ title: "Section 4701 - Determinations and decisions"
 usc_title: 41
 usc_section: "4701"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 4701"
-generated_at: "2026-03-30T02:55:55.808Z"
+generated_at: "2026-11-23T21:26:18.817Z"
+status: "active"
 ---
 
 # § 4701. Determinations and decisions
@@ -18,3 +19,75 @@ generated_at: "2026-03-30T02:55:55.808Z"
   - **(1)** Each determination or decision under section 3901, 3905, 4503, or 4706(d)(2)(B) of this title shall be based on a written finding by the individual making the determination or decision. A finding under section 4503 or 4706(d)(2)(B) shall set out facts and circumstances that support the determination or decision.
   - **(2)** Each finding referred to in paragraph (1) is final.
   - **(3)** The head of an executive agency shall maintain for a period of not less than 6 years a copy of each finding referred to in paragraph (1) that is made by an individual in that executive agency. The period begins on the date of the determination or decision to which the finding relates.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 4701 | 41:257. | June 30, 1949, ch. 288 , title III, § 307, 63 Stat. 396 ; Pub. L. 85–800, § 5 , Aug. 28, 1958 , 72 Stat. 967 ; Pub. L. 89–343 , §§ 3, 4, Nov. 8, 1965 , 79 Stat. 1303 ; Pub. L. 98–369, title VII, § 2714(a)(4) , July 18, 1984 , 98 Stat. 1184 ; Pub. L. 104–106, title XLIII, § 4321(e)(6) , Feb. 10, 1996 , 110 Stat. 675 ; Pub. L. 104–316, title I, § 121(c) , Oct. 19, 1996 , 110 Stat. 3836 . |
+|  | 41:262. | June 30, 1949, ch. 288 , title III, § 312, as added Pub. L. 103–355, title I, § 1553 , Oct. 13, 1994 , 108 Stat. 3300 . |
+
+
+Individual or Class Determinations and Decisions Authorized.—
+
+In general
+
+Delegation
+
+Finality
+
+Written Findings.—
+
+Basis for certain determinations
+
+Finality
+
+Maintaining copies of findings
+
+Historical and Revision Notes
+
+4701
+
+June 30, 1949, ch. 288
+
+63 Stat. 396
+
+Pub. L. 85–800, § 5
+
+Aug. 28, 1958
+
+72 Stat. 967
+
+Pub. L. 89–343
+
+Nov. 8, 1965
+
+79 Stat. 1303
+
+Pub. L. 98–369, title VII, § 2714(a)(4)
+
+July 18, 1984
+
+98 Stat. 1184
+
+Pub. L. 104–106, title XLIII, § 4321(e)(6)
+
+Feb. 10, 1996
+
+110 Stat. 675
+
+Pub. L. 104–316, title I, § 121(c)
+
+Oct. 19, 1996
+
+110 Stat. 3836
+
+June 30, 1949, ch. 288
+
+Pub. L. 103–355, title I, § 1553
+
+Oct. 13, 1994
+
+108 Stat. 3300
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3793](https://www.govinfo.gov/link/statute/124/3793).)*

@@ -3,12 +3,40 @@ title: "Section 42108 - Penalty for operating under suspended tariff or service 
 usc_title: 46
 usc_section: "42108"
 chapter: 421
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 42108"
-generated_at: "2026-03-30T02:56:15.566Z"
+generated_at: "2026-11-23T21:26:37.202Z"
+status: "active"
 ---
 
 # § 42108. Penalty for operating under suspended tariff or service contract
 
 A common carrier that accepts or handles cargo for carriage under a tariff or service contract that has been suspended under section 42104(d)(1) or 42106(2) of this title, or after its right to use another tariff or service contract has been suspended under those provisions, is liable to the United States Government for a civil penalty of not more than $50,000 for each day that it is found to be operating under a suspended tariff or service contract.
 
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 42108 | 46 App.:876(k). | June 5, 1920, ch. 250, § 19(k) ; as added Pub. L. 101–595, title I, § 103(2) , Nov. 16, 1990 , 104 Stat. 2979 ; Pub. L. 105–258, title III, § 301 , Oct. 14, 1998 , 112 Stat. 1915 . |
+
+
+Historical and Revision Notes
+
+42108
+
+June 5, 1920, ch. 250, § 19(k)
+
+Pub. L. 101–595, title I, § 103(2)
+
+Nov. 16, 1990
+
+104 Stat. 2979
+
+Pub. L. 105–258, title III, § 301
+
+Oct. 14, 1998
+
+112 Stat. 1915
+
+## Source Credit
+
+*([Pub. L. 109–304, § 7](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1551](https://www.govinfo.gov/link/statute/120/1551).)*

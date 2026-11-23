@@ -3,9 +3,10 @@ title: "Section 33108 - Monitoring compliance of manufacturers"
 usc_title: 49
 usc_section: "33108"
 chapter: 331
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 33108"
-generated_at: "2026-03-30T02:56:19.368Z"
+generated_at: "2026-11-23T21:26:40.817Z"
+status: "active"
 ---
 
 # § 33108. Monitoring compliance of manufacturers
@@ -25,3 +26,45 @@ generated_at: "2026-03-30T02:56:19.368Z"
 - **(d)** A manufacturer shall notify the Secretary if the manufacturer discovers that—
   - **(1)** there is an error in the identification (required by the standard) applied to a major part installed by the manufacturer in a motor vehicle during its assembly, or to a major replacement part manufactured by the manufacturer; and
   - **(2)** the motor vehicle or major replacement part has entered interstate commerce.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 33108(a) | 15:2026(a). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 606; added Oct. 25, 1984 , Pub. L. 98–547, § 101(a) , 98 Stat. 2760 . |
+| 33108(b) | 15:2026(b). |  |
+| 33108(c) | 15:2026(c). |  |
+| 33108(d) | 15:2026(d). |  |
+
+
+Records, Reports, Information, and Inspection
+
+Entry and Inspection
+
+Certification of Compliance
+
+Notification of Error
+
+Historical and Revision Notes
+
+33108(a)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Oct. 25, 1984
+
+Pub. L. 98–547, § 101(a)
+
+98 Stat. 2760
+
+33108(b)
+
+33108(c)
+
+33108(d)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1083](https://www.govinfo.gov/link/statute/108/1083).)*

@@ -3,9 +3,10 @@ title: "Section 13211 - Definitions"
 usc_title: 42
 usc_section: "13211"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13211"
-generated_at: "2026-03-30T02:56:11.438Z"
+generated_at: "2026-11-23T21:26:33.580Z"
+status: "active"
 ---
 
 # § 13211. Definitions
@@ -52,3 +53,13 @@ For purposes of this subchapter, subchapter II, and subchapter III (unless other
   - **(12)** the term “motor fuel” means any substance suitable as a fuel for a motor vehicle;
   - **(13)** the term “motor vehicle” has the meaning given such term under section 7550(2) of this title ; and
   - **(14)** the term “replacement fuel” means the portion of any motor fuel that is methanol, ethanol, or other alcohols, natural gas, liquefied petroleum gas, hydrogen, coal derived liquid fuels, fuels (other than alcohol) derived from biological materials, electricity (including electricity from solar energy), ethers, or any other fuel the Secretary determines, by rule, is substantially not petroleum and would yield substantial energy security benefits and substantial environmental benefits.
+
+Alternative fueled vehicle.—
+
+In general
+
+Inclusions
+
+## Source Credit
+
+*([Pub. L. 102–486, title III, § 301](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2866](https://www.govinfo.gov/link/statute/106/2866); [Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 122]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–229; [Pub. L. 109–58, title VII, § 707](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 818](https://www.govinfo.gov/link/statute/119/818); [Pub. L. 110–181, div. B, title XXVIII, § 2862](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 559](https://www.govinfo.gov/link/statute/122/559).)*

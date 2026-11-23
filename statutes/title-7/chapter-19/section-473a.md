@@ -3,9 +3,10 @@ title: "Section 473a - Cotton classification services"
 usc_title: 7
 usc_section: "473a"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 473a"
-generated_at: "2026-03-30T02:53:42.285Z"
+generated_at: "2026-11-23T21:25:27.960Z"
+status: "active"
 ---
 
 # § 473a. Cotton classification services
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:42.285Z"
   - **(2)** at the discretion of the Secretary, by the Secretary of the Treasury in United States Government debt instruments.
 - **(f)** Notwithstanding any other provision of law, the Secretary may enter into long-term lease agreements that exceed 5 years or may take title to property (including through purchase agreements) for the purpose of obtaining offices to be used for the classification of cotton in accordance with this chapter, if the Secretary determines that action would best effectuate the purposes of this chapter.
 - **(g)** To the extent that financing is not available from fees and the proceeds from the sales of samples, there are authorized to be appropriated such sums as are necessary to carry out this section.
+
+## Source Credit
+
+*(Mar. 3, 1927, ch. 337, § 3a, as added Apr. 13, 1937, ch. 75, [50 Stat. 62](https://www.govinfo.gov/link/statute/50/62); amended [Pub. L. 97–35, title I, § 156(b)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 373](https://www.govinfo.gov/link/statute/95/373); [Pub. L. 98–403, § 1](https://www.govinfo.gov/link/plaw/98/public/403), Aug. 28, 1984, [98 Stat. 1479](https://www.govinfo.gov/link/statute/98/1479); [Pub. L. 100–108, § 2](https://www.govinfo.gov/link/plaw/100/public/108), Aug. 20, 1987, [101 Stat. 728](https://www.govinfo.gov/link/statute/101/728); [Pub. L. 102–237, title I, § 120(a)](https://www.govinfo.gov/link/plaw/102/public/237) –(c), Dec. 13, 1991, [105 Stat. 1842](https://www.govinfo.gov/link/statute/105/1842), 1843; [Pub. L. 104–127, title IX, § 912(a)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1185](https://www.govinfo.gov/link/statute/110/1185); [Pub. L. 107–171, title X, § 10801(a)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 525](https://www.govinfo.gov/link/statute/116/525); [Pub. L. 110–234, title XIV, § 14201](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1457](https://www.govinfo.gov/link/statute/122/1457); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14201, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2219; [Pub. L. 117–286, § 4(a)(23)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4307](https://www.govinfo.gov/link/statute/136/4307).)*

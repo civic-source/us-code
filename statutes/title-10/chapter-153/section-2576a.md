@@ -3,9 +3,10 @@ title: "Section 2576a - Excess personal property: sale or donation for law enfor
 usc_title: 10
 usc_section: "2576a"
 chapter: 153
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2576a"
-generated_at: "2026-03-30T02:53:38.163Z"
+generated_at: "2026-11-23T21:25:32.632Z"
+status: "active"
 ---
 
 # § 2576a. Excess personal property: sale or donation for law enforcement activities
@@ -36,3 +37,37 @@ generated_at: "2026-03-30T02:53:38.163Z"
     - **(B)** all pending requests for transfers of controlled property under this section, including the information submitted by the Federal and State agencies requesting such transfers; and
     - **(C)** all reports required to be submitted to the Secretary under this section by Federal and State agencies that receive controlled property under this section.
 - **(g)** In this section, the term “controlled property” means any item assigned a demilitarization code of B, C, D, E, G, or Q under Department of Defense Manual 4160.21–M, “Defense Materiel Disposition Manual”, or any successor document.
+
+Transfer Authorized
+
+Conditions for Transfer
+
+Consideration
+
+Preference for Certain Transfers
+
+Property Not Transferrable
+
+Publicly Accessible Website
+
+Controlled Property
+
+Plan
+
+Elements
+
+Requirements of Requesting States
+
+Execution of Plan
+
+Report
+
+Definitions
+
+In General
+
+Implementation Deadline
+
+## Source Credit
+
+*(Added [Pub. L. 104–201, div. A, title X, § 1033(a)(1)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2639](https://www.govinfo.gov/link/statute/110/2639); amended [Pub. L. 114–92, div. A, title X](https://www.govinfo.gov/link/plaw/114/public/92), §§ 1051(a)–(c), 1052, Nov. 25, 2015, [129 Stat. 979–981](https://www.govinfo.gov/link/statute/129/979); [Pub. L. 115–91, div. A, title X, § 1081(a)(43)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1596](https://www.govinfo.gov/link/statute/131/1596); [Pub. L. 116–283, div. A, title X, § 1053](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3850](https://www.govinfo.gov/link/statute/134/3850).)*

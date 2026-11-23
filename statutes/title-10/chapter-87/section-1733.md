@@ -3,9 +3,10 @@ title: "Section 1733 - Product support manager"
 usc_title: 10
 usc_section: "1733"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1733"
-generated_at: "2026-03-30T02:53:38.136Z"
+generated_at: "2026-11-23T21:25:32.534Z"
+status: "active"
 ---
 
 # § 1733. Product support manager
@@ -31,3 +32,17 @@ generated_at: "2026-03-30T02:53:38.136Z"
 - **(e)** In this section:
   - **(1)** The term “best value” has the meaning given in section 3101 of this title .
   - **(2)** The terms “covered system”, “critical readiness items of supply”, “product support”, “product support arrangement”, “product support integrator”, and “product support provider” have the meanings given, respectively, in section 4324 of this title .
+
+In General
+
+Designation
+
+Objectives
+
+Specific Responsibilities
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title XVIII, § 1803(a)(1)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1227](https://www.govinfo.gov/link/statute/139/1227).)*

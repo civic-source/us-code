@@ -3,9 +3,10 @@ title: "Section 1400 - Short title; findings; purposes"
 usc_title: 20
 usc_section: "1400"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1400"
-generated_at: "2026-03-30T02:54:48.159Z"
+generated_at: "2026-11-23T21:25:47.310Z"
+status: "active"
 ---
 
 # § 1400. Short title; findings; purposes
@@ -63,3 +64,37 @@ generated_at: "2026-03-30T02:54:48.159Z"
   - **(2)** to assist States in the implementation of a statewide, comprehensive, coordinated, multidisciplinary, interagency system of early intervention services for infants and toddlers with disabilities and their families;
   - **(3)** to ensure that educators and parents have the necessary tools to improve educational results for children with disabilities by supporting system improvement activities; coordinated research and personnel preparation; coordinated technical assistance, dissemination, and support; and technology development and media services; and
   - **(4)** to assess, and ensure the effectiveness of, efforts to educate children with disabilities.
+
+Parts A, B, and C, and subpart
+
+of Part D
+
+Subparts
+
+and
+
+of part
+
+“For purposes of regulations issued to carry out a provision amended by this Act [see Short Title of 2010 Amendment note above]—
+
+“This Act [see Short Title of 2010 Amendment note above] shall be construed to make amendments to provisions of Federal law to substitute the term ‘an intellectual disability’ for ‘mental retardation’, and ‘individuals with intellectual disabilities’ for ‘the mentally retarded’ or ‘individuals who are mentally retarded’, without any intent to—
+
+Orderly Transition.—
+
+In general
+
+Limitation
+
+Multi-year Awards
+
+Research
+
+Special Education
+
+Institute of Education Sciences
+
+“For purposes of each provision amended by this section [amending this section, sections 1140, 1401, and 7512 of this title, sections 705, 764, and 791 of Title 29, Labor, and sections 217a–1, 247b–4, 285g, 285g–2, 291k, 294c, and 300d–52 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under sections 280f, 285g, 300b–1, and 2000ff of Title 42]—
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 601](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2647](https://www.govinfo.gov/link/statute/118/2647); amended [Pub. L. 111–256, § 2(b)(1)](https://www.govinfo.gov/link/plaw/111/public/256), Oct. 5, 2010, [124 Stat. 2643](https://www.govinfo.gov/link/statute/124/2643).)*

@@ -3,9 +3,10 @@ title: "Section 1434 - Entry; vessels"
 usc_title: 19
 usc_section: "1434"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1434"
-generated_at: "2026-03-30T02:54:24.635Z"
+generated_at: "2026-11-23T21:25:42.704Z"
+status: "active"
 ---
 
 # § 1434. Entry; vessels
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:24.635Z"
     - **(A)** formal entry must be made within a greater or lesser time than 24 hours after arrival, but in no case more than 48 hours after arrival, and
     - **(B)** formal entry may be made before arrival; and
   - **(3)** authorize the Customs Service to permit entry or preliminary entry of any vessel to be made at a place other than a designated port of entry, under such conditions as may be prescribed.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 434, [46 Stat. 711](https://www.govinfo.gov/link/statute/46/711); Aug. 5, 1935, ch. 438, title III. § 301, [49 Stat. 527](https://www.govinfo.gov/link/statute/49/527); [Pub. L. 91–271, title III, § 301(b)](https://www.govinfo.gov/link/plaw/91/public/271), June 2, 1970, [84 Stat. 287](https://www.govinfo.gov/link/statute/84/287); [Pub. L. 103–182, title VI, § 653](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2210](https://www.govinfo.gov/link/statute/107/2210); [Pub. L. 106–476, title I, § 1452(a)(2)](https://www.govinfo.gov/link/plaw/106/public/476), Nov. 9, 2000, [114 Stat. 2167](https://www.govinfo.gov/link/statute/114/2167).)*

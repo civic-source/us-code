@@ -3,9 +3,10 @@ title: "Section 12501 - Grant for national resource center on workplace response
 usc_title: 34
 usc_section: "12501"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 12501"
-generated_at: "2026-03-30T02:55:33.289Z"
+generated_at: "2026-11-23T21:26:09.752Z"
+status: "active"
 ---
 
 # § 12501. Grant for national resource center on workplace responses to assist victims of domestic and sexual violence
@@ -27,3 +28,9 @@ generated_at: "2026-03-30T02:55:33.289Z"
   - **(2)** be centered around culturally specific organizations or organizations that primarily serve populations traditionally marginalized in the workplace.
 - **(f)** There is authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2023 through 2027.
 - **(g)** Funds appropriated under this section shall remain available until expended.
+
+“Congress finds the following:
+
+## Source Credit
+
+*([Pub. L. 103–322, title IV, § 41501](https://www.govinfo.gov/link/plaw/103/public/322), as added [Pub. L. 109–162, title VII, § 701](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3052](https://www.govinfo.gov/link/statute/119/3052); amended [Pub. L. 113–4, title VII, § 701](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 110](https://www.govinfo.gov/link/statute/127/110); [Pub. L. 117–103, div. W, title VII, § 702](https://www.govinfo.gov/link/plaw/117/public/103), title XIII, § 1308, Mar. 15, 2022, [136 Stat. 891](https://www.govinfo.gov/link/statute/136/891), 929.)*

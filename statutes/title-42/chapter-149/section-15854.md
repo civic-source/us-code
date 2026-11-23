@@ -3,9 +3,10 @@ title: "Section 15854 - Sugar Cane Ethanol Program"
 usc_title: 42
 usc_section: "15854"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15854"
-generated_at: "2026-03-30T02:56:11.461Z"
+generated_at: "2026-11-23T21:26:33.677Z"
+status: "active"
 ---
 
 # § 15854. Sugar Cane Ethanol Program
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.461Z"
     - **(B)** include information on the ways in which the scale of production may be replicated once the sugar cane industry has located sites for, and constructed, ethanol production facilities; and
     - **(C)** not last more than 3 years.
 - **(d)** There is authorized to be appropriated to carry out this section $36,000,000, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 109–58, title II, § 208](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 656](https://www.govinfo.gov/link/statute/119/656).)*

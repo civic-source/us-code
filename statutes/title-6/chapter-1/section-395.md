@@ -3,9 +3,10 @@ title: "Section 395 - Prohibition on contracts with corporate expatriates"
 usc_title: 6
 usc_section: "395"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 395"
-generated_at: "2026-03-30T02:53:09.462Z"
+generated_at: "2026-11-23T21:25:25.788Z"
+status: "active"
 ---
 
 # § 395. Prohibition on contracts with corporate expatriates
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:09.462Z"
   - **(3)** The term “foreign incorporated entity” means any entity which is, or but for subsection (b) would be, treated as a foreign corporation for purposes of title 26.
   - **(4)** The terms “person”, “domestic”, and “foreign” have the meanings given such terms by paragraphs (1), (4), and (5) of section 7701(a) of title 26 , respectively.
 - **(d)** The Secretary shall waive subsection (a) with respect to any specific contract if the Secretary determines that the waiver is required in the interest of national security.
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 835](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2227](https://www.govinfo.gov/link/statute/116/2227); [Pub. L. 108–7, div. L, § 101(2)](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 528](https://www.govinfo.gov/link/statute/117/528); [Pub. L. 108–334, title V, § 523](https://www.govinfo.gov/link/plaw/108/public/334), Oct. 18, 2004, [118 Stat. 1320](https://www.govinfo.gov/link/statute/118/1320).)*

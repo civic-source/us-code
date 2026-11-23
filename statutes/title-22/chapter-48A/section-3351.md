@@ -3,9 +3,10 @@ title: "Section 3351 - Modernizing Taiwan’s security capabilities to deter and
 usc_title: 22
 usc_section: "3351"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3351"
-generated_at: "2026-03-30T02:55:05.392Z"
+generated_at: "2026-11-23T21:25:58.582Z"
+status: "active"
 ---
 
 # § 3351. Modernizing Taiwan’s security capabilities to deter and, if necessary, defeat aggression by the People’s Republic of China
@@ -112,3 +113,23 @@ generated_at: "2026-03-30T02:55:05.392Z"
   - **(3)** The Secretary of State may use amounts authorized to be appropriated under paragraph (1) for the procurement of defense articles, defense services, or design and construction services that are not sold by the United States Government under the Arms Export Control Act ( 22 U.S.C. 2751 et seq.).
   - **(4)** Of the amounts authorized to be appropriated for Foreign Military Financing and made available for Taiwan, not more than 15 percent of the amount made available for each fiscal year may be available for the procurement by Taiwan in Taiwan of defense articles and defense services, including research and development, as agreed by the United States and Taiwan.
 - **(i)** Assistance may not be provided under this section after September 30, 2032 .
+
+Requirement
+
+Identification of Activities
+
+Briefings.—
+
+Requirement
+
+Contents
+
+Appropriate Congressional Committees Defined
+
+“It is the sense of Congress that—
+
+“It is the sense of Congress that—
+
+## Source Credit
+
+*([Pub. L. 117–263, div. E, title LV, § 5502](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3292](https://www.govinfo.gov/link/statute/136/3292); [Pub. L. 118–31, div. A, title XIII, § 1308(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 494](https://www.govinfo.gov/link/statute/137/494).)*

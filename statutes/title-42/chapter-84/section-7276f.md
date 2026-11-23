@@ -3,12 +3,19 @@ title: "Section 7276f - Western Area Power Administration; deposit and availabil
 usc_title: 42
 usc_section: "7276f"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7276f"
-generated_at: "2026-03-30T02:56:11.288Z"
+generated_at: "2026-11-23T21:26:33.061Z"
+status: "active"
 ---
 
 # § 7276f. Western Area Power Administration; deposit and availability of discretionary offsetting collections
 
 Notwithstanding section 3302 of title 31 , section 825s of title 16 , and section 392a of title 43 , funds collected by the Western Area Power Administration from the sale of power and related services that are applicable to the repayment of the annual expenses of this account in this and subsequent fiscal years shall be credited to this account as discretionary offsetting collections for the sole purpose of funding such expenses, with such funds remaining available until expended: Provided further , That for purposes of this appropriation, annual expenses means expenditures that are generally recovered in the same year that they are incurred (excluding purchase power and wheeling expenses).
 
+
+Construction, Rehabilitation, Operation and Maintenance, Western Area Power Administration
+
+## Source Credit
+
+*([Pub. L. 111–85, title III](https://www.govinfo.gov/link/plaw/111/public/85), Oct. 28, 2009, [123 Stat. 2870](https://www.govinfo.gov/link/statute/123/2870).)*

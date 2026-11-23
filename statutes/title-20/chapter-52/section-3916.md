@@ -3,9 +3,10 @@ title: "Section 3916 - Other functional activities"
 usc_title: 20
 usc_section: "3916"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 3916"
-generated_at: "2026-03-30T02:54:48.181Z"
+generated_at: "2026-11-23T21:25:47.424Z"
+status: "active"
 ---
 
 # § 3916. Other functional activities
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:48.181Z"
   - **(1)** has an enrollment which includes a substantial percentage of students who are members of a minority group, or who are economically or educationally disadvantaged; or
   - **(2)** is located in a community that is not within commuting distance of a major institution of higher education; and
   - **(3)** demonstrates a commitment to meet the special educational needs of students who are members of a minority group or are economically or educationally disadvantaged.
+
+## Source Credit
+
+*([Pub. L. 98–377, title I, § 106](https://www.govinfo.gov/link/plaw/98/public/377), as added [Pub. L. 99–159, title II, § 201](https://www.govinfo.gov/link/plaw/99/public/159), Nov. 22, 1985, [99 Stat. 896](https://www.govinfo.gov/link/statute/99/896).)*

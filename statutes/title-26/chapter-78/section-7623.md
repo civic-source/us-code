@@ -3,9 +3,10 @@ title: "Section 7623 - Expenses of detection of underpayments and fraud, etc."
 usc_title: 26
 usc_section: "7623"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7623"
-generated_at: "2026-03-30T02:55:27.880Z"
+generated_at: "2026-11-23T21:26:06.994Z"
+status: "active"
 ---
 
 # § 7623. Expenses of detection of underpayments and fraud, etc.
@@ -58,3 +59,13 @@ generated_at: "2026-03-30T02:55:27.880Z"
   - **(5)**
     - **(A)** The rights and remedies provided for in this subsection may not be waived by any agreement, policy form, or condition of employment, including by a predispute arbitration agreement.
     - **(B)** No predispute arbitration agreement shall be valid or enforceable, if the agreement requires arbitration of a dispute arising under this subsection.
+
+In general
+
+Request for assistance
+
+“The Secretary of the Treasury shall each year conduct a study and report to Congress on the use of section 7623 of the Internal Revenue Code of 1986, including—
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 904; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 104–168, title XII, § 1209(a)](https://www.govinfo.gov/link/plaw/104/public/168), July 30, 1996, [110 Stat. 1473](https://www.govinfo.gov/link/statute/110/1473); [Pub. L. 109–432, div. A, title IV, § 406(a)(1)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2958](https://www.govinfo.gov/link/statute/120/2958); [Pub. L. 115–123, div. D, title II, § 41108(a)](https://www.govinfo.gov/link/plaw/115/public/123) –(c), Feb. 9, 2018, [132 Stat. 158](https://www.govinfo.gov/link/statute/132/158); [Pub. L. 116–25, title I, § 1405(b)](https://www.govinfo.gov/link/plaw/116/public/25), July 1, 2019, [133 Stat. 998](https://www.govinfo.gov/link/statute/133/998).)*

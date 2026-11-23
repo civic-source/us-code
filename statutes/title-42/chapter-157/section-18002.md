@@ -3,9 +3,10 @@ title: "Section 18002 - Reinsurance for early retirees"
 usc_title: 42
 usc_section: "18002"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18002"
-generated_at: "2026-03-30T02:56:11.511Z"
+generated_at: "2026-11-23T21:26:33.803Z"
+status: "active"
 ---
 
 # § 18002. Reinsurance for early retirees
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:56:11.511Z"
 - **(d)** The Secretary shall conduct annual audits of claims data submitted by participating employment-based plans under this section to ensure that such plans are in compliance with the requirements of this section.
 - **(e)** There is appropriated to the Secretary, out of any moneys in the Treasury not otherwise appropriated, $5,000,000,000 to carry out the program under this section. Such funds shall be available without fiscal year limitation.
 - **(f)** The Secretary has the authority to stop taking applications for participation in the program based on the availability of funding under subsection (e).
+
+## Source Credit
+
+*([Pub. L. 111–148, title I, § 1102](https://www.govinfo.gov/link/plaw/111/public/148), title X, § 10102(a), Mar. 23, 2010, [124 Stat. 143](https://www.govinfo.gov/link/statute/124/143), 892.)*

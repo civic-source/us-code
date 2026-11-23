@@ -3,9 +3,10 @@ title: "Section 670a - Cooperative plan for conservation and rehabilitation"
 usc_title: 16
 usc_section: "670a"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 670a"
-generated_at: "2026-03-30T02:54:22.892Z"
+generated_at: "2026-11-23T21:25:51.718Z"
+status: "active"
 ---
 
 # § 670a. Cooperative plan for conservation and rehabilitation
@@ -66,3 +67,21 @@ generated_at: "2026-03-30T02:54:22.892Z"
     - **(A)** that are not native to the ecosystem of the military installation; and
     - **(B)** the introduction of which cause or may cause harm to military readiness, the environment, or human health and safety.
   - **(2)** The Secretary of Defense shall carry out this subsection in consultation with the Secretary of the Interior.
+
+“Section 101(g) of the Sikes Act, as added by paragraph (1), [subsec. (g) of this section] shall apply—
+
+Definitions
+
+Review of Military Installations.—
+
+Review
+
+Report to congress
+
+Deadline for Integrated Natural Resources Management Plans
+
+Public Comment
+
+## Source Credit
+
+*([Pub. L. 86–797, title I, § 101](https://www.govinfo.gov/link/plaw/86/public/797), formerly § 1, Sept. 15, 1960, [74 Stat. 1052](https://www.govinfo.gov/link/statute/74/1052); renumbered title I, § 101, and amended [Pub. L. 93–452](https://www.govinfo.gov/link/plaw/93/public/452), §§ 1(1), 3(1), (2), Oct. 18, 1974, [88 Stat. 1369](https://www.govinfo.gov/link/statute/88/1369), 1375; [Pub. L. 97–396, § 1](https://www.govinfo.gov/link/plaw/97/public/396), Dec. 31, 1982, [96 Stat. 2005](https://www.govinfo.gov/link/statute/96/2005); [Pub. L. 99–561, § 3(a)(1)](https://www.govinfo.gov/link/plaw/99/public/561), Oct. 27, 1986, [100 Stat. 3150](https://www.govinfo.gov/link/statute/100/3150); [Pub. L. 105–85, div. B, title XXIX](https://www.govinfo.gov/link/plaw/105/public/85), §§ 2904(a)–(b)(4), (c), 2906, 2907, 2913(2)–(4), Nov. 18, 1997, [111 Stat. 2017](https://www.govinfo.gov/link/statute/111/2017), 2018, 2020, 2022; [Pub. L. 106–65, div. A, title X, § 1067(19)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 775](https://www.govinfo.gov/link/statute/113/775); [Pub. L. 108–136, div. A, title III, § 311(c)(1)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1429](https://www.govinfo.gov/link/statute/117/1429); [Pub. L. 111–84, div. A, title III, § 314](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2248](https://www.govinfo.gov/link/statute/123/2248); [Pub. L. 112–81, div. A, title III, § 312(a)(2)](https://www.govinfo.gov/link/plaw/112/public/81), (b)(1), Dec. 31, 2011, [125 Stat. 1352](https://www.govinfo.gov/link/statute/125/1352), 1353; [Pub. L. 117–263, div. A, title III, § 387](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2546](https://www.govinfo.gov/link/statute/136/2546).)*

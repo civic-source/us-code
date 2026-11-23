@@ -3,9 +3,10 @@ title: "Section 9907 - Uses of funds"
 usc_title: 42
 usc_section: "9907"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9907"
-generated_at: "2026-03-30T02:56:11.376Z"
+generated_at: "2026-11-23T21:26:33.324Z"
+status: "active"
 ---
 
 # § 9907. Uses of funds
@@ -59,3 +60,31 @@ generated_at: "2026-03-30T02:56:11.376Z"
   - **(4)** Except to the extent provided in subsection (b)(2), no part of the aggregate amount a State uses under paragraph (1) may be used to pay for the cost of the startup and administrative activities conducted under this subsection.
   - **(5)** No part of the aggregate amount a State uses under paragraph (1) may be used to provide legal services or to provide tuition assistance related to compulsory education requirements (not including tuition assistance for tutoring, camps, skills development, or other supplemental services or training).
   - **(6)** No part of the aggregate amount a State uses under paragraph (1) may be used to supplant non-Federal funds that would be available, in the absence of Federal funds, to offset a revenue loss of the State attributable to a charity tax credit.
+
+(aa) described in section 501(c)(3) of title 26 and exempt from tax under section 501(a) of such title;
+
+(bb) an eligible entity; or
+
+(cc) a public housing agency as defined in section 1437a(b)(6) of this title ;
+
+(aa) that solicits and collects gifts and grants that, by agreement, are distributed to qualified charities;
+
+(bb) that distributes to qualified charities at least 90 percent of the gifts and grants the organization receives that are designated for such qualified charities; and
+
+(cc) that meets the requirements of clause (vi).
+
+(aa) donations of food or meals; or
+
+(bb) temporary shelter to homeless individuals;
+
+(aa) In general The term “poverty program expense” means any expense in providing direct services referred to in clause (iii).
+
+(bb) Exceptions Such term shall not include any management or general expense, any expense for the purpose of influencing legislation (as defined in section 4911(d) of title 26 ), any expense for the purpose of fundraising, any expense for a legal service provided on behalf of any individual referred to in clause (iii), any expense for providing tuition assistance relating to compulsory school attendance, and any expense that consists of a payment to an affiliate of the organization.
+
+(aa) a single flat rate applicable to all earned and unearned income (except insofar as any amount is not taxed pursuant to tax forgiveness provisions); and
+
+(bb) no generally available exemptions or deductions to individuals;
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 675C](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 105–285, title II, § 201](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2731](https://www.govinfo.gov/link/statute/112/2731).)*

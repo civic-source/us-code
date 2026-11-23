@@ -3,9 +3,10 @@ title: "Section 7103 - Interagency Task Force to Monitor and Combat Trafficking"
 usc_title: 22
 usc_section: "7103"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7103"
-generated_at: "2026-03-30T02:55:05.435Z"
+generated_at: "2026-11-23T21:25:58.706Z"
+status: "active"
 ---
 
 # § 7103. Interagency Task Force to Monitor and Combat Trafficking
@@ -77,3 +78,25 @@ generated_at: "2026-03-30T02:55:05.435Z"
   - **(3)** The Operating Group shall coordinate activities of Federal departments and agencies regarding policies (including grants and grant policies) involving the international trafficking in persons and the implementation of this chapter.
   - **(4)** Each Federal department or agency represented on the Operating Group shall fully share all information with such Group regarding the department or agency’s plans, before and after final agency decisions are made, on all matters relating to grants, grant policies, and other significant actions regarding the international trafficking in persons and the implementation of this chapter.
   - **(5)** Not later than 90 days after December 19, 2003 , the President shall promulgate regulations to implement this section, including regulations to carry out paragraph (4).
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 106–386, div. A, § 105](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1473](https://www.govinfo.gov/link/statute/114/1473); [Pub. L. 108–193, § 6(a)(1)](https://www.govinfo.gov/link/plaw/108/public/193), (b)(1), (c)(1), Dec. 19, 2003, [117 Stat. 2880](https://www.govinfo.gov/link/statute/117/2880), 2881; [Pub. L. 109–164, title I, § 104(a)](https://www.govinfo.gov/link/plaw/109/public/164), title II, § 205, Jan. 10, 2006, [119 Stat. 3564](https://www.govinfo.gov/link/statute/119/3564), 3571; [Pub. L. 110–457, title I](https://www.govinfo.gov/link/plaw/110/public/457), §§ 101, 102, title II, § 231, title III, § 304(a), Dec. 23, 2008, [122 Stat. 5045](https://www.govinfo.gov/link/statute/122/5045), 5072, 5087; [Pub. L. 112–239, div. A, title XVII, § 1707](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2098](https://www.govinfo.gov/link/statute/126/2098); [Pub. L. 113–4, title XII](https://www.govinfo.gov/link/plaw/113/public/4), §§ 1201, 1203(a), 1231, Mar. 7, 2013, [127 Stat. 136](https://www.govinfo.gov/link/statute/127/136), 138, 144; [Pub. L. 114–22, title VI, § 602](https://www.govinfo.gov/link/plaw/114/public/22), May 29, 2015, [129 Stat. 259](https://www.govinfo.gov/link/statute/129/259); [Pub. L. 115–392](https://www.govinfo.gov/link/plaw/115/public/392), §§ 16, 18(a), Dec. 21, 2018, [132 Stat. 5257](https://www.govinfo.gov/link/statute/132/5257), 5258; [Pub. L. 115–425, title I, § 121(a)](https://www.govinfo.gov/link/plaw/115/public/425), title II, § 201, Jan. 8, 2019, [132 Stat. 5478](https://www.govinfo.gov/link/statute/132/5478), 5482; [Pub. L. 116–92, div. A, title IX, § 902(85)](https://www.govinfo.gov/link/plaw/116/public/92), div. C, title XXXV, § 3562, div. F, title LXXI, § 7154(b), Dec. 20, 2019, [133 Stat. 1553](https://www.govinfo.gov/link/statute/133/1553), 2009, 2260; [Pub. L. 117–347, title IV, § 404](https://www.govinfo.gov/link/plaw/117/public/347), Jan. 5, 2023, [136 Stat. 6208](https://www.govinfo.gov/link/statute/136/6208).)*

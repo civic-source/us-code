@@ -3,9 +3,10 @@ title: "Section 12337 - State coordination of services"
 usc_title: 42
 usc_section: "12337"
 chapter: 127
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12337"
-generated_at: "2026-03-30T02:56:11.412Z"
+generated_at: "2026-11-23T21:26:33.471Z"
+status: "active"
 ---
 
 # § 12337. State coordination of services
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:56:11.412Z"
   - **(5)** the costs of the provision of short-term training to personnel of public or nonprofit private agencies and organizations engaged in the operation of programs authorized by this part.
 - **(e)** Amounts received by a State under this section and section 12338 of this title shall be used only to supplement, not to supplant, the amount of Federal, State, and local funds expended for the purposes for which grants are made under this section and section 12338 of this title . In no event shall such expenditures be used to satisfy the matching requirements of any other Federal program.
 - **(f)** If a State intends to apply for a grant under section 12339 2 2 See References in Text note below. of this title to be used for the same calendar year as the grant under this section, such State shall include in the application for a grant under this section a description of plans for family resource and support programs and for the coordination of the use of all funds received under this part.
+
+## Source Credit
+
+*([Pub. L. 101–501, title IX, § 931](https://www.govinfo.gov/link/plaw/101/public/501), Nov. 3, 1990, [104 Stat. 1271](https://www.govinfo.gov/link/statute/104/1271).)*

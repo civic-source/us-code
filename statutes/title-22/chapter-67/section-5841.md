@@ -3,9 +3,10 @@ title: "Section 5841 - Authorization for establishment of Democracy Corps"
 usc_title: 22
 usc_section: "5841"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5841"
-generated_at: "2026-03-30T02:55:05.420Z"
+generated_at: "2026-11-23T21:25:58.670Z"
+status: "active"
 ---
 
 # § 5841. Authorization for establishment of Democracy Corps
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:05.420Z"
 - **(l)** As used in this section—
   - **(1)** the term “Administrator” means the Administrator of the Agency for International Development; and
   - **(2)** the term “Board” means the Board of Directors of the Democracy Corps.
+
+## Source Credit
+
+*([Pub. L. 102–511, title IV, § 401](https://www.govinfo.gov/link/plaw/102/public/511), Oct. 24, 1992, [106 Stat. 3335](https://www.govinfo.gov/link/statute/106/3335).)*

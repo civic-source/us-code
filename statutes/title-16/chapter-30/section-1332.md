@@ -3,9 +3,10 @@ title: "Section 1332 - Definitions"
 usc_title: 16
 usc_section: "1332"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1332"
-generated_at: "2026-03-30T02:54:22.956Z"
+generated_at: "2026-11-23T21:25:51.858Z"
+status: "active"
 ---
 
 # § 1332. Definitions
@@ -18,3 +19,7 @@ As used in this chapter—
 - **(d)** “herd” means one or more stallions and his mares; and 1 1 So in original. The word “and” probably should not appear.
 - **(e)** “public lands” means any lands administered by the Secretary of the Interior through the Bureau of Land Management or by the Secretary of Agriculture through the Forest Service. 2 2 So in original. The period probably should be “; and”.
 - **(f)** “excess animals” means wild free-roaming horses or burros (1) which have been removed from an area by the Secretary pursuant to applicable law or, (2) which must be removed from an area in order to preserve and maintain a thriving natural ecological balance and multiple-use relationship in that area.
+
+## Source Credit
+
+*([Pub. L. 92–195, § 2](https://www.govinfo.gov/link/plaw/92/public/195), Dec. 15, 1971, [85 Stat. 649](https://www.govinfo.gov/link/statute/85/649); [Pub. L. 95–514, § 14(b)](https://www.govinfo.gov/link/plaw/95/public/514), Oct. 25, 1978, [92 Stat. 1810](https://www.govinfo.gov/link/statute/92/1810).)*

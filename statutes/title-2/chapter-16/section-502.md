@@ -3,9 +3,10 @@ title: "Section 502 - Select Committee on Standards and Conduct of the Senate"
 usc_title: 2
 usc_section: "502"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 502"
-generated_at: "2026-03-30T02:53:04.798Z"
+generated_at: "2026-11-23T21:25:21.165Z"
+status: "active"
 ---
 
 # § 502. Select Committee on Standards and Conduct of the Senate
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.798Z"
 - **(c)** Notwithstanding any other provision of law, no court or administrative body in the United States or in any territory thereof shall have jurisdiction to entertain any civil action of any character concerning or related to a violation of the franking laws or an abuse of the franking privilege by any person listed under subsection (a) of this section as entitled to send mail as franked mail, until a complaint has been filed with the select committee and the committee has rendered a decision under subsection (b) of this section.
 - **(d)** The select committee shall prescribe regulations for the holding of investigations and hearings, the conduct of proceedings, and the rendering of decisions under this subsection providing for equitable procedures and the protection of individual, public, and Government interests. The regulations shall, insofar as practicable, contain the substance of the administrative procedure provisions of sections 551 to 559 and 701 to 706, of title 5. These regulations shall govern matters under this subsection subject to judicial review thereof.
 - **(e)** The select committee shall keep a complete record of all its actions, including a record of the votes on any question on which a record vote is demanded. All records, data, and files of the select committee shall be the property of the Senate and shall be kept in the offices of the select committee or such other places as the committee may direct.
+
+## Source Credit
+
+*([Pub. L. 93–191, § 6](https://www.govinfo.gov/link/plaw/93/public/191), Dec. 18, 1973, [87 Stat. 744](https://www.govinfo.gov/link/statute/87/744); [Pub. L. 93–255, § 3(b)](https://www.govinfo.gov/link/plaw/93/public/255), Mar. 27, 1974, [88 Stat. 52](https://www.govinfo.gov/link/statute/88/52).)*

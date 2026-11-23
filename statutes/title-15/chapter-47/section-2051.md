@@ -3,9 +3,10 @@ title: "Section 2051 - Congressional findings and declaration of purpose"
 usc_title: 15
 usc_section: "2051"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2051"
-generated_at: "2026-03-30T02:54:08.161Z"
+generated_at: "2026-11-23T21:25:39.900Z"
+status: "active"
 ---
 
 # § 2051. Congressional findings and declaration of purpose
@@ -22,3 +23,19 @@ generated_at: "2026-03-30T02:54:08.161Z"
   - **(2)** to assist consumers in evaluating the comparative safety of consumer products;
   - **(3)** to develop uniform safety standards for consumer products and to minimize conflicting State and local regulations; and
   - **(4)** to promote research and investigation into the causes and prevention of product-related deaths, illnesses, and injuries.
+
+In general
+
+Certain delayed effective dates
+
+“This Act [enacting this chapter] shall take effect on the sixtieth day following the date of its enactment [ Oct. 27, 1972 ], except—
+
+Rule With Regard to Preemption
+
+Preservation of Certain State Law
+
+Defined Terms
+
+## Source Credit
+
+*([Pub. L. 92–573, § 2](https://www.govinfo.gov/link/plaw/92/public/573), Oct. 27, 1972, [86 Stat. 1207](https://www.govinfo.gov/link/statute/86/1207).)*

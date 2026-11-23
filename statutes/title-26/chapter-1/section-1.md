@@ -3,9 +3,10 @@ title: "Section 1 - Designation"
 usc_title: 26
 usc_section: "1"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1"
-generated_at: "2026-03-30T02:55:27.774Z"
+generated_at: "2026-11-23T21:26:06.506Z"
+status: "active"
 ---
 
 # § 1400Z–1. Designation
@@ -42,3 +43,11 @@ generated_at: "2026-03-30T02:55:27.774Z"
 - **(e)**
   - **(1)** A designation as a qualified opportunity zone shall remain in effect for the period beginning on the applicable start date and ending on the day before the date that is 10 years after the applicable start date.
   - **(2)** For purposes of this section, the term “applicable start date” means, with respect to any qualified opportunity zone designated under this section, the January 1 following the date on which such qualified opportunity zone was certified and designated by the Secretary under subsection (b)(1)(B).
+
+In general
+
+Puerto rico
+
+## Source Credit
+
+*(Added [Pub. L. 115–97, title I, § 13823(a)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2183](https://www.govinfo.gov/link/statute/131/2183); amended [Pub. L. 115–123, div. D, title II, § 41115](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 161](https://www.govinfo.gov/link/statute/132/161); [Pub. L. 119–21, title VII, § 70421(a)(1)](https://www.govinfo.gov/link/plaw/119/public/21) –(4), (b)(1)–(3), July 4, 2025, [139 Stat. 223](https://www.govinfo.gov/link/statute/139/223), 224.)*

@@ -3,9 +3,10 @@ title: "Section 2194 - Automatic stay upon enactment"
 usc_title: 48
 usc_section: "2194"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 2194"
-generated_at: "2026-03-30T02:56:14.605Z"
+generated_at: "2026-11-23T21:26:38.143Z"
+status: "active"
 ---
 
 # § 2194. Automatic stay upon enactment
@@ -80,3 +81,7 @@ generated_at: "2026-03-30T02:56:14.605Z"
   - **(4)** make available a Federal restructuring authority, if necessary, to allow for an orderly adjustment of all of the Government of Puerto Rico’s liabilities; and
   - **(5)** benefit the lives of 3.5 million American citizens living in Puerto Rico by encouraging the Government of Puerto Rico to resolve its longstanding fiscal governance issues and return to economic growth.
 - **(o)** Notwithstanding any provision in this section to the contrary, nothing in this section shall prevent the holder of a Liability Claim from voting on or consenting to a proposed modification of such Liability Claim under subchapter VI of this chapter.
+
+## Source Credit
+
+*([Pub. L. 114–187, title IV, § 405](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 587](https://www.govinfo.gov/link/statute/130/587).)*

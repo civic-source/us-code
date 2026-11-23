@@ -3,12 +3,17 @@ title: "Section 546a - Information as to configuration of shore line"
 usc_title: 33
 usc_section: "546a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 546a"
-generated_at: "2026-03-30T02:55:41.061Z"
+generated_at: "2026-11-23T21:26:11.314Z"
+status: "active"
 ---
 
 # § 546a. Information as to configuration of shore line
 
 Every report submitted to Congress in pursuance of any provision of law for preliminary examination and survey looking to the improvement of the entrance at the mouth of any river or at any inlet, in addition to other information which the Congress has directed shall be given, shall contain information concerning the configuration of the shore line and the probable effect thereon that may be expected to result from the improvement having particular reference to erosion and/or accretion for a distance of not less than ten miles on either side of the said entrance.
 
+
+## Source Credit
+
+*(Aug. 30, 1935, ch. 831, § 5, [49 Stat. 1048](https://www.govinfo.gov/link/statute/49/1048).)*

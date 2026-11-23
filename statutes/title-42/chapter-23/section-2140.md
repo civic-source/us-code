@@ -3,9 +3,10 @@ title: "Section 2140 - Exclusions from license requirement"
 usc_title: 42
 usc_section: "2140"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2140"
-generated_at: "2026-03-30T02:56:11.150Z"
+generated_at: "2026-11-23T21:26:32.341Z"
+status: "active"
 ---
 
 # § 2140. Exclusions from license requirement
@@ -14,3 +15,7 @@ Nothing in this subchapter shall be deemed—
 
 - **(a)** to require a license for (1) the processing, fabricating, or refining of special nuclear material, or the separation of special nuclear material, or the separation of special nuclear material from other substances, under contract with and for the account of the Commission; or (2) the construction or operation of facilities under contract with and for the account of the Commission; or
 - **(b)** to require a license for the manufacture, production, or acquisition by the Department of Defense of any utilization facility authorized pursuant to section 2121 of this title , or for the use of such facility by the Department of Defense or a contractor thereof.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 110, as added Aug. 30, 1954, ch. 1073, § 1, [68 Stat. 939](https://www.govinfo.gov/link/statute/68/939); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944).)*

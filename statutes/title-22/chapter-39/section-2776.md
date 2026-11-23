@@ -3,9 +3,10 @@ title: "Section 2776 - Reports and certifications to Congress on military export
 usc_title: 22
 usc_section: "2776"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2776"
-generated_at: "2026-03-30T02:55:05.385Z"
+generated_at: "2026-11-23T21:25:58.555Z"
+status: "active"
 ---
 
 # § 2776. Reports and certifications to Congress on military exports
@@ -117,3 +118,27 @@ generated_at: "2026-03-30T02:55:05.385Z"
     - **(D)** a description of any additional United States security assurances to Israel made, or requested to be made, in connection with, or as a result of, such sale or export.
   - **(3)** In this subsection, the term “qualitative military edge” means the ability to counter and defeat any credible conventional military threat from any individual state or possible coalition of states or from non-state actors, while sustaining minimal damages and casualties, through the use of superior military means, possessed in sufficient quantity, including weapons, command, control, communication, intelligence, surveillance, and reconnaissance capabilities that in their technical characteristics are superior in capability to those of such other individual or possible coalition of states or non-state actors.
 - **(i)** At least 30 days prior to a shipment of defense articles subject to the requirements of subsection (b) at the joint request of the Chairman and Ranking Member of the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives, the President shall provide notification of such pending shipment, in unclassified form, with a classified annex as necessary, to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
+
+Assessment Required
+
+Use of Assessment
+
+Reports.—
+
+Initial report
+
+Quadrennial report
+
+Biennial updates
+
+Certification
+
+Definitions
+
+Appropriate congressional committees
+
+Qualitative military edge
+
+## Source Credit
+
+*([Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 3, § 36, Oct. 22, 1968, [82 Stat. 1326](https://www.govinfo.gov/link/statute/82/1326); [Pub. L. 93–189, § 25(10)](https://www.govinfo.gov/link/plaw/93/public/189), Dec. 17, 1973, [87 Stat. 731](https://www.govinfo.gov/link/statute/87/731); [Pub. L. 93–559, § 45(a)(5)](https://www.govinfo.gov/link/plaw/93/public/559), Dec. 30, 1974, [88 Stat. 1814](https://www.govinfo.gov/link/statute/88/1814); [Pub. L. 94–329, title II, § 211(a)](https://www.govinfo.gov/link/plaw/94/public/329), title VI, § 604(a), June 30, 1976, [90 Stat. 740](https://www.govinfo.gov/link/statute/90/740), 766; [Pub. L. 95–384, § 21](https://www.govinfo.gov/link/plaw/95/public/384), Sept. 26, 1978, [92 Stat. 741](https://www.govinfo.gov/link/statute/92/741); [Pub. L. 96–92](https://www.govinfo.gov/link/plaw/96/public/92), §§ 16(b), 19(a), (c), 20(b), Oct. 29, 1979, [93 Stat. 708–710](https://www.govinfo.gov/link/statute/93/708); [Pub. L. 96–533, title I](https://www.govinfo.gov/link/plaw/96/public/533), §§ 105(c), (d), 107(b), 109(f), Dec. 16, 1980, [94 Stat. 3134](https://www.govinfo.gov/link/statute/94/3134), 3136, 3138; [Pub. L. 97–113, title I](https://www.govinfo.gov/link/plaw/97/public/113), §§ 101(c)–(e), 102(b), 109(d)(2), Dec. 29, 1981, [95 Stat. 1520](https://www.govinfo.gov/link/statute/95/1520), 1526; [Pub. L. 99–83, title I](https://www.govinfo.gov/link/plaw/99/public/83), §§ 117, 118, title XII, § 1209(c), Aug. 8, 1985, [99 Stat. 202](https://www.govinfo.gov/link/statute/99/202), 203, 279; [Pub. L. 99–247, § 1(b)](https://www.govinfo.gov/link/plaw/99/public/247), (c), Feb. 12, 1986, [100 Stat. 9](https://www.govinfo.gov/link/statute/100/9); [Pub. L. 101–222](https://www.govinfo.gov/link/plaw/101/public/222), §§ 3(b), 7, Dec. 12, 1989, [103 Stat. 1896](https://www.govinfo.gov/link/statute/103/1896), 1899; [Pub. L. 103–236, title VII](https://www.govinfo.gov/link/plaw/103/public/236), §§ 732, 735(a), (b), Apr. 30, 1994, [108 Stat. 503](https://www.govinfo.gov/link/statute/108/503), 505, 506; [Pub. L. 103–437, § 9(a)(7)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4588](https://www.govinfo.gov/link/statute/108/4588); [Pub. L. 104–164, title I](https://www.govinfo.gov/link/plaw/104/public/164), §§ 141(c), (d), 155, July 21, 1996, [110 Stat. 1431](https://www.govinfo.gov/link/statute/110/1431), 1432, 1440; [Pub. L. 104–201, div. A, title X, § 1045(a)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2644](https://www.govinfo.gov/link/statute/110/2644); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XII, § 1225(a)(1), Oct. 21, 1998, [112 Stat. 2681–773](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XII, §§ 1224, 1245, title XIII, §§ 1301, 1302(b)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–498, 1501A–502, 1501A–510, 1501A–511; [Pub. L. 106–280, title I, § 102(c)(1)](https://www.govinfo.gov/link/plaw/106/public/280), Oct. 6, 2000, [114 Stat. 849](https://www.govinfo.gov/link/statute/114/849); [Pub. L. 107–228, div. B, title XII](https://www.govinfo.gov/link/plaw/107/public/228), §§ 1205(a), 1262(c), title XIV, § 1405(a)(2), Sept. 30, 2002, [116 Stat. 1427](https://www.govinfo.gov/link/statute/116/1427), 1434, 1457; [Pub. L. 110–429, title II](https://www.govinfo.gov/link/plaw/110/public/429), §§ 201(d), 203(b)(1), Oct. 15, 2008, [122 Stat. 4843](https://www.govinfo.gov/link/statute/122/4843), 4845; [Pub. L. 111–266, title I, § 104(d)](https://www.govinfo.gov/link/plaw/111/public/266), title III, § 301(1), Oct. 8, 2010, [124 Stat. 2799](https://www.govinfo.gov/link/statute/124/2799), 2804; [Pub. L. 113–276, title II](https://www.govinfo.gov/link/plaw/113/public/276), §§ 201, 208(a)(1), Dec. 18, 2014, [128 Stat. 2990](https://www.govinfo.gov/link/statute/128/2990), 2992; [Pub. L. 113–296, § 11(b)](https://www.govinfo.gov/link/plaw/113/public/296), Dec. 19, 2014, [128 Stat. 4078](https://www.govinfo.gov/link/statute/128/4078).)*

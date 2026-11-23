@@ -3,9 +3,10 @@ title: "Section 3503 - Fire-retardant materials"
 usc_title: 46
 usc_section: "3503"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 3503"
-generated_at: "2026-03-30T02:56:15.544Z"
+generated_at: "2026-11-23T21:26:37.049Z"
+status: "active"
 ---
 
 # § 3503. Fire-retardant materials
@@ -40,3 +41,16 @@ generated_at: "2026-03-30T02:56:15.544Z"
     - **(C)** prescribe regulations to carry out this section, including to prescribe the manner in which prospective passengers are to be notified under paragraph (1)(A).
   - **(4)** The penalties provided in section 3504(c) of this title shall apply to a violation of this subsection.
 - **(c)** In addition to otherwise applicable penalties, the Secretary may immediately withdraw a certificate of inspection for an exempted vessel described in subsection (a)(2) that does not comply with any requirement under subsection (b).
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 3503 | 46:369(b) |
+
+
+Historical and Revision Notes
+
+3503
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 519](https://www.govinfo.gov/link/statute/97/519); [Pub. L. 99–307, § 1(7)(A)](https://www.govinfo.gov/link/plaw/99/public/307), May 19, 1986, [100 Stat. 445](https://www.govinfo.gov/link/statute/100/445); [Pub. L. 102–241, § 20](https://www.govinfo.gov/link/plaw/102/public/241), Dec. 19, 1991, [105 Stat. 2216](https://www.govinfo.gov/link/statute/105/2216); [Pub. L. 104–324, title XI, § 1133](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3985](https://www.govinfo.gov/link/statute/110/3985); [Pub. L. 115–282, title VIII, § 834](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4318](https://www.govinfo.gov/link/statute/132/4318).)*

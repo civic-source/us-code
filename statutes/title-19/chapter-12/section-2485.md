@@ -3,9 +3,10 @@ title: "Section 2485 - Voluntary limitations on exports of steel to United State
 usc_title: 19
 usc_section: "2485"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2485"
-generated_at: "2026-03-30T02:54:24.676Z"
+generated_at: "2026-11-23T21:25:42.809Z"
+status: "active"
 ---
 
 # § 2485. Voluntary limitations on exports of steel to United States
@@ -14,3 +15,7 @@ No person shall be liable for damages, penalties, or other sanctions under the F
 
   - **(1)** was undertaken prior to January 3, 1975 , at the request of the Secretary of State or his delegate, and
   - **(2)** ceases to be effective not later than January 1, 1975 .
+
+## Source Credit
+
+*([Pub. L. 93–618, title VI, § 607](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 2073](https://www.govinfo.gov/link/statute/88/2073).)*

@@ -3,9 +3,10 @@ title: "Section 9021 - Pandemic unemployment assistance"
 usc_title: 15
 usc_section: "9021"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9021"
-generated_at: "2026-03-30T02:54:08.238Z"
+generated_at: "2026-11-23T21:25:40.112Z"
+status: "active"
 ---
 
 # § 9021. Pandemic unemployment assistance
@@ -76,3 +77,39 @@ generated_at: "2026-03-30T02:54:08.238Z"
 - **(h)** Except as otherwise provided in this section or to the extent there is a conflict between this section and part 625 of title 20, Code of Federal Regulations, such part 625 shall apply to this section as if—
   - **(1)** the term “COVID–19 public health emergency” were substituted for the term “major disaster” each place it appears in such part 625; and
   - **(2)** the term “pandemic” were substituted for the term “disaster” each place it appears in such part 625.
+
+(aa) the individual has been diagnosed with COVID–19 or is experiencing symptoms of COVID–19 and seeking a medical diagnosis;
+
+(bb) a member of the individual’s household has been diagnosed with COVID–19;
+
+(cc) the individual is providing care for a family member or a member of the individual’s household who has been diagnosed with COVID–19;
+
+(dd) a child or other person in the household for which the individual has primary caregiving responsibility is unable to attend school or another facility that is closed as a direct result of the COVID–19 public health emergency and such school or facility care is required for the individual to work;
+
+(ee) the individual is unable to reach the place of employment because of a quarantine imposed as a direct result of the COVID–19 public health emergency;
+
+(ff) the individual is unable to reach the place of employment because the individual has been advised by a health care provider to self-quarantine due to concerns related to COVID–19;
+
+(gg) the individual was scheduled to commence employment and does not have a job or is unable to reach the job as a direct result of the COVID–19 public health emergency;
+
+(hh) the individual has become the breadwinner or major support for a household because the head of the household has died as a direct result of COVID–19;
+
+(ii) the individual has to quit his or her job as a direct result of COVID–19;
+
+(jj) the individual’s place of employment is closed as a direct result of the COVID–19 public health emergency; or
+
+(kk) the individual meets any additional criteria established by the Secretary for unemployment assistance under this section; or
+
+In general
+
+Special rule
+
+Prior applicants
+
+In general
+
+Special rule
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title II, § 2102](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 313](https://www.govinfo.gov/link/statute/134/313); [Pub. L. 116–260, div. N, title II](https://www.govinfo.gov/link/plaw/116/public/260), §§ 201(a)–(c)(1), (d), 209(a), 241(a), 242(a), 263(a), Dec. 27, 2020, [134 Stat. 1950](https://www.govinfo.gov/link/statute/134/1950) —1952, 1956, 1959, 1960, 1963; [Pub. L. 117–2, title IX, § 9011(a)](https://www.govinfo.gov/link/plaw/117/public/2), (b), Mar. 11, 2021, [135 Stat. 118](https://www.govinfo.gov/link/statute/135/118).)*

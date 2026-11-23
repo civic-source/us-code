@@ -3,9 +3,10 @@ title: "Section 535 - Carriage of noncommercial educational television"
 usc_title: 47
 usc_section: "535"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 535"
-generated_at: "2026-03-30T02:56:24.518Z"
+generated_at: "2026-11-23T21:26:36.031Z"
+status: "active"
 ---
 
 # § 535. Carriage of noncommercial educational television
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:56:24.518Z"
   - **(2)** The term “qualified local noncommercial educational television station” means a qualified noncommercial educational television station—
     - **(A)** which is licensed to a principal community whose reference point, as defined in section 76.53 of title 47, Code of Federal Regulations (as in effect on March 29, 1990 ), or any successor regulations thereto, is within 50 miles of the principal headend of the cable system; or
     - **(B)** whose Grade B service contour, as defined in section 73.683(a) of such title (as in effect on March 29, 1990 ), or any successor regulations thereto, encompasses the principal headend of the cable system.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VI, § 615, as added [Pub. L. 102–385, § 5](https://www.govinfo.gov/link/plaw/102/public/385), Oct. 5, 1992, [106 Stat. 1477](https://www.govinfo.gov/link/statute/106/1477).)*

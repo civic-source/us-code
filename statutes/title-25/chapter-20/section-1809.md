@@ -3,9 +3,10 @@ title: "Section 1809 - Effect on other programs"
 usc_title: 25
 usc_section: "1809"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1809"
-generated_at: "2026-03-30T02:54:52.829Z"
+generated_at: "2026-11-23T21:25:54.643Z"
+status: "active"
 ---
 
 # § 1809. Effect on other programs
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:52.829Z"
   - **(3)** No tribally controlled college or university for which a tribe has designated a portion of the funds appropriated for the tribe from funds appropriated under section 13 of this title may be denied a contract for such portion under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.) 1 1 See References in Text note below. (except as provided in that Act), or denied appropriate contract support to administer such portion of the appropriated funds.
 - **(c)** For the purposes of sections 312(2)(A)(i) and 322(a)(2)(A)(i) of the Higher Education Act of 1965 [ 20 U.S.C. 1058(2)(A)(i) , 1061(a)(2)(A)(i)], 3 3 See References in Text note below. any Indian student who receives a student assistance grant from the Bureau of Indian Affairs for postsecondary education shall be deemed to have received such assistance under subpart 1 of part A of title IV of such Act [ 20 U.S.C. 1070a et seq.].
 - **(c)** Notwithstanding any other provision of law, funds provided under this subchapter to the tribally controlled college or university may be treated as non-Federal, private funds of the college or university for purposes of any provision of Federal law which requires that non-Federal or private funds of the college or university be used in a project or for a specific purpose.
+
+## Source Credit
+
+*([Pub. L. 95–471, title I, § 109](https://www.govinfo.gov/link/plaw/95/public/471), formerly § 108, Oct. 17, 1978, [92 Stat. 1328](https://www.govinfo.gov/link/statute/92/1328); renumbered § 109 and amended [Pub. L. 98–192](https://www.govinfo.gov/link/plaw/98/public/192), §§ 4(a)(1), 8, Dec. 1, 1983, [97 Stat. 1336](https://www.govinfo.gov/link/statute/97/1336), 1337; [Pub. L. 99–428, § 5](https://www.govinfo.gov/link/plaw/99/public/428), Sept. 30, 1986, [100 Stat. 983](https://www.govinfo.gov/link/statute/100/983); [Pub. L. 100–297, title V, § 5403(a)](https://www.govinfo.gov/link/plaw/100/public/297), Apr. 28, 1988, [102 Stat. 416](https://www.govinfo.gov/link/statute/102/416); [Pub. L. 105–244, title IX, § 901(b)(5)](https://www.govinfo.gov/link/plaw/105/public/244), (6), (8), (10), (12), (e), Oct. 7, 1998, [112 Stat. 1828](https://www.govinfo.gov/link/statute/112/1828), 1829.)*

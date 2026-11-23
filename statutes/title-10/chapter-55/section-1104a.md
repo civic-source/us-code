@@ -3,9 +3,10 @@ title: "Section 1104a - Shared medical facilities with Department of Veterans Af
 usc_title: 10
 usc_section: "1104a"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1104a"
-generated_at: "2026-03-30T02:53:38.108Z"
+generated_at: "2026-11-23T21:25:32.424Z"
+status: "active"
 ---
 
 # § 1104a. Shared medical facilities with Department of Veterans Affairs
@@ -28,3 +29,19 @@ generated_at: "2026-03-30T02:53:38.108Z"
 - **(f)** In this section, the term “shared medical facility”—
   - **(1)** means a building or buildings, or a campus, intended to be used by both the Department of Veterans Affairs and the Department of Defense for the provision of health care services, whether under the jurisdiction of the Secretary of Veterans Affairs or the Secretary of Defense, and whether or not located on a military installation or on real property under the jurisdiction of the Secretary of Veterans Affairs; and
   - **(2)** includes any necessary building and auxiliary structure, garage, parking facility, mechanical equipment, abutting and covered sidewalks, and accommodations for attending personnel.
+
+Agreements
+
+Transfer of Funds by Secretary of Defense
+
+Transfer of Funds to Secretary of Defense
+
+Merger of Amounts Transferred
+
+Appropriation in Advance
+
+Shared Medical Facility Defined
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. A, title VII, § 714(a)(1)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1785](https://www.govinfo.gov/link/statute/135/1785); amended [Pub. L. 117–168, title VII, § 706(a)](https://www.govinfo.gov/link/plaw/117/public/168), Aug. 10, 2022, [136 Stat. 1800](https://www.govinfo.gov/link/statute/136/1800).)*

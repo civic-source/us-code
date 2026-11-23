@@ -3,9 +3,10 @@ title: "Section 2328a - Special use permits"
 usc_title: 33
 usc_section: "2328a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2328a"
-generated_at: "2026-03-30T02:55:41.125Z"
+generated_at: "2026-11-23T21:26:11.448Z"
+status: "active"
 ---
 
 # § 2328a. Special use permits
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:41.125Z"
 - **(c)**
   - **(1)** If the Secretary determines that it is in the public interest for purposes of enhancing recreation opportunities at Corps of Engineers water resources development projects, the Secretary may use funds made available to the Secretary to support activities carried out by State, local, and tribal governments and such other public or private nonprofit entities as the Secretary determines to be appropriate.
   - **(2)** Any use of funds pursuant to this subsection shall be carried out through the execution of a cooperative agreement, which shall contain such terms and conditions as the Secretary determines to be necessary in the public interest.
+
+## Source Credit
+
+*([Pub. L. 113–121, title I, § 1047](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1255](https://www.govinfo.gov/link/statute/128/1255).)*

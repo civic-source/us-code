@@ -3,9 +3,10 @@ title: "Section 1351 - Oil and gas development and production"
 usc_title: 43
 usc_section: "1351"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1351"
-generated_at: "2026-03-30T02:55:57.471Z"
+generated_at: "2026-11-23T21:26:19.833Z"
+status: "active"
 ---
 
 # § 1351. Oil and gas development and production
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:55:57.471Z"
 - **(j)** Whenever the owner of any lease fails to submit a plan in accordance with regulations issued under this section, or fails to comply with an approved plan, the lease may be canceled in accordance with section 1334(c) and (d) of this title. Termination of a lease because of failure to comply with an approved plan, including required modifications or revisions, shall not entitle a lessee to any compensation.
 - **(k)** If any development and production plan submitted to the Secretary pursuant to this section provides for the production and transportation of natural gas, the lessee shall contemporaneously submit to the Federal Energy Regulatory Commission that portion of such plan which relates to production of natural gas and the facilities for transportation of natural gas. The Secretary and the Federal Energy Regulatory Commission shall agree as to which of them shall prepare an environmental impact statement pursuant to the National Environmental Policy Act of 1969 [ 42 U.S.C. 4321 et seq.] applicable to such portion of such plan, or conduct studies as to the effect on the environment of implementing it. Thereafter, the findings and recommendations by the agency preparing such environmental impact statement or conducting such studies pursuant to such agreement shall be adopted by the other agency, and such other agency shall not independently prepare another environmental impact statement or duplicate such studies with respect to such portion of such plan, but the Federal Energy Regulatory Commission, in connection with its review of an application for a certificate of public convenience and necessity applicable to such transportation facilities pursuant to section 717f of title 15 , may prepare such environmental studies or statement relevant to certification of such transportation facilities as have not been covered by an environmental impact statement or studies prepared by the Secretary. The Secretary, in consultation with the Federal Energy Regulatory Commission, shall promulgate rules to implement this subsection, but the Federal Energy Regulatory Commission shall retain sole authority with respect to rules and procedures applicable to the filing of any application with the Commission and to all aspects of the Commission’s review of, and action on, any such application.
 - **(l)** The Secretary may require the provisions of this section to apply to an oil and gas lease issued or maintained under this subchapter, which is located in that area of the Gulf of Mexico which is adjacent to the State of Florida, as determined pursuant to section 1333(a)(2) of this title .
+
+## Source Credit
+
+*(Aug. 7, 1953, ch. 345, § 25, as added [Pub. L. 95–372, title II, § 208](https://www.govinfo.gov/link/plaw/95/public/372), Sept. 18, 1978, [92 Stat. 659](https://www.govinfo.gov/link/statute/92/659).)*

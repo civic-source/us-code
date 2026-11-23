@@ -3,9 +3,10 @@ title: "Section 2330 - Renumbered § 4501]"
 usc_title: 10
 usc_section: "2330"
 chapter: 137
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2330"
-generated_at: "2026-03-30T02:53:38.155Z"
+generated_at: "2026-11-23T21:25:32.597Z"
+status: "renumbered"
 ---
 
 # [§ 2330. Renumbered § 4501]

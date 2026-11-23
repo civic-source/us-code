@@ -3,9 +3,10 @@ title: "Section 4978 - Tax on certain dispositions by employee stock ownership p
 usc_title: 26
 usc_section: "4978"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4978"
-generated_at: "2026-03-30T02:55:27.812Z"
+generated_at: "2026-11-23T21:26:06.667Z"
+status: "active"
 ---
 
 # § 4978. Tax on certain dispositions by employee stock ownership plans and certain cooperatives
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:27.812Z"
   - **(3)** The term “eligible worker-owned cooperative” has the meaning given to such term by section 1042(c)(2).
   - **(4)** The term “disposition” includes any distribution.
   - **(5)** The term “employer securities” has the meaning given to such term by section 409( l ).
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title V, § 545(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 894](https://www.govinfo.gov/link/statute/98/894); amended [Pub. L. 99–514, title XVIII, § 1854(e)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2880](https://www.govinfo.gov/link/statute/100/2880); Pub., L. 100–203, title X, § 10413(b)(1), Dec. 22, 1987, [101 Stat. 1330–438](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title I, § 1011B(j)(4)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3492](https://www.govinfo.gov/link/statute/102/3492); [Pub. L. 101–239, title VII, § 7304(a)(2)(C)(ii)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2353](https://www.govinfo.gov/link/statute/103/2353); [Pub. L. 104–188, title I, § 1602(b)(4)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1834](https://www.govinfo.gov/link/statute/110/1834); [Pub. L. 105–34, title XV, § 1530(c)(11)](https://www.govinfo.gov/link/plaw/105/public/34) –(14), Aug. 5, 1997, [111 Stat. 1079](https://www.govinfo.gov/link/statute/111/1079); [Pub. L. 108–311, title IV, § 408(a)(23)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1192](https://www.govinfo.gov/link/statute/118/1192).)*

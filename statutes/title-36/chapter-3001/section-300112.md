@@ -3,9 +3,10 @@ title: "Section 300112 - Office of the Ombudsman"
 usc_title: 36
 usc_section: "300112"
 chapter: 3001
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 300112"
-generated_at: "2026-03-30T02:55:44.712Z"
+generated_at: "2026-11-23T21:26:13.774Z"
+status: "active"
 ---
 
 # § 300112. Office of the Ombudsman
@@ -26,3 +27,19 @@ generated_at: "2026-03-30T02:55:44.712Z"
       - **(iii)** the Committee on Homeland Security;
       - **(iv)** the Committee on the Judiciary; and
       - **(v)** the Committee on Ways and Means.
+
+Establishment
+
+Report.—
+
+In general
+
+Appropriate congressional committees
+
+Senate committees
+
+House committees
+
+## Source Credit
+
+*(Added [Pub. L. 110–26, § 11(a)](https://www.govinfo.gov/link/plaw/110/public/26), May 11, 2007, [121 Stat. 110](https://www.govinfo.gov/link/statute/121/110).)*

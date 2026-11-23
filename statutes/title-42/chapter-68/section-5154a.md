@@ -3,9 +3,10 @@ title: "Section 5154a - Prohibited flood disaster assistance"
 usc_title: 42
 usc_section: "5154a"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5154a"
-generated_at: "2026-03-30T02:56:11.221Z"
+generated_at: "2026-11-23T21:26:32.749Z"
+status: "active"
 ---
 
 # § 5154a. Prohibited flood disaster assistance
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.221Z"
   - **(1)** the Secretary of Agriculture finds, or has found, to have been substantially affected by a natural disaster in the United States pursuant to section 1961(a) of title 7 ; or
   - **(2)** the President declares, or has declared, the existence of a major disaster or emergency pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.), as a result of flood conditions existing in or affecting that area.
 - **(e)** This section and the amendments made by this section shall apply to disasters declared after September 23, 1994 .
+
+## Source Credit
+
+*([Pub. L. 103–325, title V, § 582](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2286](https://www.govinfo.gov/link/statute/108/2286).)*

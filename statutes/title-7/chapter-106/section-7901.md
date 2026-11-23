@@ -3,9 +3,10 @@ title: "Section 7901 - Definitions"
 usc_title: 7
 usc_section: "7901"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7901"
-generated_at: "2026-03-30T02:53:42.464Z"
+generated_at: "2026-11-23T21:25:28.453Z"
+status: "active"
 ---
 
 # § 7901. Definitions
@@ -32,3 +33,7 @@ In this chapter (other than subchapter III):
   - **(14)** The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any other territory or possession of the United States.
   - **(15)** The term “target price” means the price per bushel (or other appropriate unit in the case of upland cotton, rice, and other oilseeds) of a covered commodity used to determine the payment rate for counter-cyclical payments.
   - **(16)** The term “United States”, when used in a geographical sense, means all of the States.
+
+## Source Credit
+
+*([Pub. L. 107–171, title I, § 1001](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 143](https://www.govinfo.gov/link/statute/116/143); [Pub. L. 108–7, div. A, title VII, § 763(a)](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 46](https://www.govinfo.gov/link/statute/117/46).)*

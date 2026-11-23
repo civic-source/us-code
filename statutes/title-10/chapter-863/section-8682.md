@@ -3,9 +3,10 @@ title: "Section 8682 - Service craft stricken from Naval Vessel Register; obsole
 usc_title: 10
 usc_section: "8682"
 chapter: 863
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 8682"
-generated_at: "2026-03-30T02:53:38.248Z"
+generated_at: "2026-11-23T21:25:32.941Z"
+status: "active"
 ---
 
 # § 8682. Service craft stricken from Naval Vessel Register; obsolete boats: use of proceeds from exchange or sale
@@ -26,3 +27,21 @@ generated_at: "2026-03-30T02:53:38.248Z"
 - **(e)** For purposes of this section, an obsolete service craft is a service craft that has been stricken from the Naval Vessel Register.
 - **(f)** Section 6101 of title 41 does not apply to sales of service craft and boats described in subsection (a).
 - **(g)** The Secretary of the Navy shall prescribe regulations for the purposes of this section.
+
+Exchange or Sale of Similar Items
+
+Special Account
+
+Costs of Preparation of Obsolete Service Craft and Boats for Future Sale or Exchange
+
+Costs of Preparation for Sale or Exchange
+
+Obsolete Service Craft
+
+Inapplicability of Advertising Requirement
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 108–375, div. A, title X, § 1012(a)(1)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2039](https://www.govinfo.gov/link/statute/118/2039), § 7312; amended [Pub. L. 113–291, div. A, title X, § 1071(a)(12)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3505](https://www.govinfo.gov/link/statute/128/3505); renumbered § 8682, [Pub. L. 115–232, div. A, title VIII, § 807(d)(2)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1836](https://www.govinfo.gov/link/statute/132/1836).)*

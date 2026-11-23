@@ -3,9 +3,10 @@ title: "Section 1015 - Improvements in market information and public accountabil
 usc_title: 20
 usc_section: "1015"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1015"
-generated_at: "2026-03-30T02:54:48.093Z"
+generated_at: "2026-11-23T21:25:47.004Z"
+status: "active"
 ---
 
 # § 1015. Improvements in market information and public accountability in higher education
@@ -87,3 +88,15 @@ generated_at: "2026-03-30T02:54:48.093Z"
 - **(h)** No fee shall be charged to any individual to access—
   - **(1)** a database or website of the Department that provides information about higher education programs or student financial assistance, including the College Navigator website (or successor website) and the websites and databases described in this section and section 1015a of this title ; or
   - **(2)** information about higher education programs or student financial assistance available through a database or website of the Department.
+
+(aa) whether the financial assistance is need- or merit-based; and
+
+(bb) by relevant academic majors; and
+
+(aa) searches the STEM Database for all financial assistance opportunities for which an individual may be qualified to apply, based on the student characteristics provided by such individual; and
+
+(bb) provides information to an individual for only those opportunities for which such individual is qualified, based on the student characteristics provided by such individual.
+
+## Source Credit
+
+*([Pub. L. 89–329, title I, § 131](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title I, § 101(a)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1602](https://www.govinfo.gov/link/statute/112/1602); amended [Pub. L. 110–315, title I](https://www.govinfo.gov/link/plaw/110/public/315), §§ 103(b)(1), 110, Aug. 14, 2008, [122 Stat. 3088](https://www.govinfo.gov/link/statute/122/3088), 3094; [Pub. L. 111–39, title I, § 101(b)(3)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1935](https://www.govinfo.gov/link/statute/123/1935).)*

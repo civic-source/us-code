@@ -3,9 +3,10 @@ title: "Section 7b - Criminal penalties for acts involving Federal health care p
 usc_title: 42
 usc_section: "7b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7b"
-generated_at: "2026-03-30T02:56:10.910Z"
+generated_at: "2026-11-23T21:26:31.256Z"
+status: "active"
 ---
 
 # § 1320a–7b. Criminal penalties for acts involving Federal health care programs
@@ -68,3 +69,59 @@ generated_at: "2026-03-30T02:56:10.910Z"
   - **(2)** any State health care program, as defined in section 1320a–7(h) of this title .
 - **(g)** In addition to the penalties provided for in this section or section 1320a–7a of this title , a claim that includes items or services resulting from a violation of this section constitutes a false or fraudulent claim for purposes of subchapter III of chapter 37 of title 31.
 - **(h)** With respect to violations of this section, a person need not have actual knowledge of this section or specific intent to commit a violation of this section.
+
+(aa) a description of the content and duration of the program;
+
+(bb) a description of the evidence-based support for the design of the program;
+
+(cc) the estimated cost of the program;
+
+(dd) the personnel (including the qualifications of such personnel) implementing the program; and
+
+(ee) the method by which such entity will evaluate the use and success of the program;
+
+Establishment.—
+
+In general
+
+Factors to consider
+
+Deadline
+
+Establishment.—
+
+In general
+
+Factors to consider
+
+Publication of notice
+
+Target date for publication of rule
+
+Abbreviated period for submission of comments
+
+Appointment of negotiated rulemaking committee and facilitator
+
+Preliminary committee report
+
+Final committee report
+
+Interim, final effect
+
+Publication of rule after public comment
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XI, § 1128B, formerly title XVIII, § 1877(d), and title XIX, § 1909, as added and amended [Pub. L. 92–603, title II](https://www.govinfo.gov/link/plaw/92/public/603), §§ 242(c), 278(b)(9), Oct. 30, 1972, [86 Stat. 1419](https://www.govinfo.gov/link/statute/86/1419), 1454; [Pub. L. 95–142, § 4(a)](https://www.govinfo.gov/link/plaw/95/public/142), (b), Oct. 25, 1977, [91 Stat. 1179](https://www.govinfo.gov/link/statute/91/1179), 1181; [Pub. L. 96–499, title IX, § 917](https://www.govinfo.gov/link/plaw/96/public/499), Dec. 5, 1980, [94 Stat. 2625](https://www.govinfo.gov/link/statute/94/2625); [Pub. L. 98–369, div. B, title III, § 2306(f)(2)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1073](https://www.govinfo.gov/link/statute/98/1073); renumbered title XI, § 1128B, and amended [Pub. L. 100–93](https://www.govinfo.gov/link/plaw/100/public/93), §§ 4(a)–(d), 14(b), Aug. 18, 1987, [101 Stat. 688](https://www.govinfo.gov/link/statute/101/688), 689, 697; [Pub. L. 100–203, title IV](https://www.govinfo.gov/link/plaw/100/public/203), §§ 4039(a), 4211(h)(7), Dec. 22, 1987, [101 Stat. 1330–81](https://www.govinfo.gov/link/statute/101/1330), 1330–206; [Pub. L. 100–360, title IV, § 411(a)(3)(A)](https://www.govinfo.gov/link/plaw/100/public/360), (B)(i), July 1, 1988, [102 Stat. 768](https://www.govinfo.gov/link/statute/102/768); [Pub. L. 101–239, title VI, § 6003(g)(3)(D)(ii)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2153](https://www.govinfo.gov/link/statute/103/2153); [Pub. L. 101–508, title IV](https://www.govinfo.gov/link/plaw/101/public/508), §§ 4161(a)(4), 4164(b)(2), Nov. 5, 1990, [104 Stat. 1388–94](https://www.govinfo.gov/link/statute/104/1388), 1388–102; [Pub. L. 103–432, title I, § 133(a)(2)](https://www.govinfo.gov/link/plaw/103/public/432), Oct. 31, 1994, [108 Stat. 4421](https://www.govinfo.gov/link/statute/108/4421); [Pub. L. 104–191, title II](https://www.govinfo.gov/link/plaw/104/public/191), §§ 204(a), 216(a), 217, Aug. 21, 1996, [110 Stat. 1999](https://www.govinfo.gov/link/statute/110/1999), 2007, 2008; [Pub. L. 105–33, title IV](https://www.govinfo.gov/link/plaw/105/public/33), §§ 4201(c)(1), 4704(b), 4734, Aug. 5, 1997, [111 Stat. 373](https://www.govinfo.gov/link/statute/111/373), 498, 522; [Pub. L. 108–173, title I, § 101(e)(2)](https://www.govinfo.gov/link/plaw/108/public/173), (8)(A), title II, § 237(d), title IV, § 431(a), Dec. 8, 2003, [117 Stat. 2150](https://www.govinfo.gov/link/statute/117/2150), 2152, 2213, 2287; [Pub. L. 111–148, title III, § 3301(d)(1)](https://www.govinfo.gov/link/plaw/111/public/148), title VI, § 6402(f), Mar. 23, 2010, [124 Stat. 468](https://www.govinfo.gov/link/statute/124/468), 759; [Pub. L. 114–115, § 8](https://www.govinfo.gov/link/plaw/114/public/115), Dec. 28, 2015, [129 Stat. 3134](https://www.govinfo.gov/link/statute/129/3134); [Pub. L. 115–123, div. E, title III, § 50341(b)](https://www.govinfo.gov/link/plaw/115/public/123), title IV, § 50412(a)(2), (b), Feb. 9, 2018, [132 Stat. 208](https://www.govinfo.gov/link/statute/132/208), 220; [Pub. L. 117–328, div. FF, title IV, § 4126(b)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5914](https://www.govinfo.gov/link/statute/136/5914).)*

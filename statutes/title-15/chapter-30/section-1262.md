@@ -3,9 +3,10 @@ title: "Section 1262 - Declaration of hazardous substances"
 usc_title: 15
 usc_section: "1262"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1262"
-generated_at: "2026-03-30T02:54:08.130Z"
+generated_at: "2026-11-23T21:25:39.805Z"
+status: "active"
 ---
 
 # § 1262. Declaration of hazardous substances
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:54:08.130Z"
     - **(A)** Any regulatory analysis prepared under subsection (h) or paragraph (1) shall not be subject to independent judicial review, except that when an action for judicial review of a regulation is instituted, the contents of any such regulatory analysis shall constitute part of the whole rulemaking record of agency action in connection with such review.
     - **(B)** The provisions of subparagraph (A) shall not be construed to alter the substantive or procedural standards otherwise applicable to judicial review of any action by the Commission.
 - **(j)** The Commission shall grant, in whole or in part, or deny any petition under section 553(e) of title 5 requesting the Commission to initiate a rulemaking, within a reasonable time after the date on which such petition is filed. The Commission shall state the reasons for granting or denying such petition. The Commission may not deny any such petition on the basis of a voluntary standard unless the voluntary standard is in existence at the time of the denial of the petition, the Commission has determined that the voluntary standard is likely to result in the elimination or adequate reduction of the risk of injury identified in the petition, and it is likely that there will be substantial compliance with the standard.
+
+## Source Credit
+
+*([Pub. L. 86–613, § 3](https://www.govinfo.gov/link/plaw/86/public/613), July 12, 1960, [74 Stat. 374](https://www.govinfo.gov/link/statute/74/374); [Pub. L. 89–756, § 2(d)](https://www.govinfo.gov/link/plaw/89/public/756), (e), Nov. 3, 1966, [80 Stat. 1303](https://www.govinfo.gov/link/statute/80/1303), 1304; [Pub. L. 91–113, § 2(b)](https://www.govinfo.gov/link/plaw/91/public/113), Nov. 6, 1969, [83 Stat. 187](https://www.govinfo.gov/link/statute/83/187); [Pub. L. 97–35, title XII, § 1203(b)(1)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 708](https://www.govinfo.gov/link/statute/95/708); [Pub. L. 101–608, title I](https://www.govinfo.gov/link/plaw/101/public/608), §§ 107(b), 108(b), 110(b), Nov. 16, 1990, [104 Stat. 3112](https://www.govinfo.gov/link/statute/104/3112), 3113; [Pub. L. 110–314, title II, § 204(b)(1)](https://www.govinfo.gov/link/plaw/110/public/314), (3), (4)(B), (D), Aug. 14, 2008, [122 Stat. 3041](https://www.govinfo.gov/link/statute/122/3041), 3042.)*

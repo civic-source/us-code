@@ -3,9 +3,10 @@ title: "Section 6103 - Actions by States"
 usc_title: 15
 usc_section: "6103"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6103"
-generated_at: "2026-03-30T02:54:08.209Z"
+generated_at: "2026-11-23T21:25:40.017Z"
+status: "active"
 ---
 
 # § 6103. Actions by States
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:08.209Z"
 - **(f)**
   - **(1)** Nothing contained in this section shall prohibit an authorized State official from proceeding in State court on the basis of an alleged violation of any civil or criminal statute of such State.
   - **(2)** In addition to actions brought by an attorney general of a State under subsection (a), such an action may be brought by officers of such State who are authorized by the State to bring actions in such State on behalf of its residents.
+
+## Source Credit
+
+*([Pub. L. 103–297, § 4](https://www.govinfo.gov/link/plaw/103/public/297), Aug. 16, 1994, [108 Stat. 1548](https://www.govinfo.gov/link/statute/108/1548); [Pub. L. 111–203, title X, § 1100C(b)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2111](https://www.govinfo.gov/link/statute/124/2111).)*

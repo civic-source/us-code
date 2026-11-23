@@ -3,9 +3,10 @@ title: "Section 2399c - Coordination of policies and programs"
 usc_title: 22
 usc_section: "2399c"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2399c"
-generated_at: "2026-03-30T02:55:05.365Z"
+generated_at: "2026-11-23T21:25:58.489Z"
+status: "active"
 ---
 
 # § 2399c. Coordination of policies and programs
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:05.365Z"
   - **(2)** devise implementation strategies on developmental problems appropriate to each such department or agency;
   - **(3)** monitor and evaluate the results of the development activities of each such department or agency; and
   - **(4)** arrange for the exchange of information and studies between such agencies and departments.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 640B, as added [Pub. L. 93–189, § 21](https://www.govinfo.gov/link/plaw/93/public/189), Dec. 17, 1973, [87 Stat. 725](https://www.govinfo.gov/link/statute/87/725); amended [Pub. L. 95–88, title I, § 127](https://www.govinfo.gov/link/plaw/95/public/88), Aug. 3, 1977, [91 Stat. 542](https://www.govinfo.gov/link/statute/91/542); [Pub. L. 95–424, title V, § 502(d)](https://www.govinfo.gov/link/plaw/95/public/424), Oct. 6, 1978, [92 Stat. 959](https://www.govinfo.gov/link/statute/92/959); [Pub. L. 96–53, title I, § 118](https://www.govinfo.gov/link/plaw/96/public/53), Aug. 14, 1979, [93 Stat. 365](https://www.govinfo.gov/link/statute/93/365); [Pub. L. 97–113, title VII, § 734(a)(1)](https://www.govinfo.gov/link/plaw/97/public/113), Dec. 29, 1981, [95 Stat. 1560](https://www.govinfo.gov/link/statute/95/1560).)*

@@ -3,9 +3,10 @@ title: "Section 3006 - Presidential action on Commission recommendations"
 usc_title: 19
 usc_section: "3006"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 3006"
-generated_at: "2026-03-30T02:54:24.687Z"
+generated_at: "2026-11-23T21:25:42.833Z"
+status: "active"
 ---
 
 # § 3006. Presidential action on Commission recommendations
@@ -19,3 +20,9 @@ generated_at: "2026-03-30T02:54:24.687Z"
     - **(A)** the days on which either House is not in session because of an adjournment of more than 3 days to a day certain or an adjournment of the Congress sine die; and
     - **(B)** any Saturday and Sunday, not excluded under subparagraph (A), when either House is not in session.
 - **(c)** Modifications proclaimed by the President under subsection (a) may not take effect before the 30th day after the date on which the text of the proclamation is published in the Federal Register.
+
+George Bush.
+
+## Source Credit
+
+*([Pub. L. 100–418, title I, § 1206](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1151](https://www.govinfo.gov/link/statute/102/1151); [Pub. L. 109–432, div. D, title III, § 3012](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 3177](https://www.govinfo.gov/link/statute/120/3177).)*

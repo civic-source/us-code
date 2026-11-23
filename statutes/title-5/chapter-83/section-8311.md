@@ -3,9 +3,10 @@ title: "Section 8311 - Definitions"
 usc_title: 5
 usc_section: "8311"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8311"
-generated_at: "2026-03-30T02:52:56.043Z"
+generated_at: "2026-11-23T21:25:23.362Z"
+status: "active"
 ---
 
 # § 8311. Definitions
@@ -40,3 +41,22 @@ For the purpose of this subchapter—
     - **(D)** an annuity payable to an eligible beneficiary of an individual under chapter 73 of title 10 or section 5 of the Uniformed Services Contingency Option Act of 1953 ( 67 Stat. 504 ), if the annuity was awarded to the beneficiary, or if retired pay was awarded to the individual, before September 26, 1961 , insofar as the individual, on the basis of whose service the annuity was awarded, before September 26, 1961 —
       - **(i)** was convicted of an offense named by section 8312 of this title , to the extent provided by that section; or
       - **(ii)** violated section 8314 or 8315 of this title.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 2281 . | Sept. 26, 1961 , Pub. L. 87–299, § 1 “Sec. 10”, 75 Stat. 646 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 2281
+
+Sept. 26, 1961
+
+Pub. L. 87–299, § 1
+
+75 Stat. 646
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 557](https://www.govinfo.gov/link/statute/80/557); [Pub. L. 102–54, § 13(b)(1)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 274](https://www.govinfo.gov/link/statute/105/274).)*

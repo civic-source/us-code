@@ -3,9 +3,10 @@ title: "Section 6611 - Findings and purposes"
 usc_title: 7
 usc_section: "6611"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6611"
-generated_at: "2026-03-30T02:53:42.433Z"
+generated_at: "2026-11-23T21:25:28.395Z"
+status: "active"
 ---
 
 # § 6611. Findings and purposes
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.433Z"
   - **(1)** to provide assistance to rural communities that are located in or near National Forest System land and that are economically dependent upon natural resources or are likely to be economically disadvantaged by Federal or private sector land management practices;
   - **(2)** to aid in diversifying such communities’ economic bases; and
   - **(3)** to improve the economic, social, and environmental well-being of rural America.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XXIII, § 2373](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 4046](https://www.govinfo.gov/link/statute/104/4046); [Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 345(a)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1535](https://www.govinfo.gov/link/statute/113/1535), 1501A–203.)*

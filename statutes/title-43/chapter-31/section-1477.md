@@ -3,9 +3,10 @@ title: "Section 1477 - Snow water supply forecasting"
 usc_title: 43
 usc_section: "1477"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1477"
-generated_at: "2026-03-30T02:55:57.475Z"
+generated_at: "2026-11-23T21:26:19.842Z"
+status: "active"
 ---
 
 # § 1477. Snow water supply forecasting
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:57.475Z"
   - **(1)** a list of basins and sub-basins for which snowpack measurement technologies are being used under the program, including a description of each technology used; and
   - **(2)** a list of Federal agencies and program partners participating in each basin or sub-basin listed in paragraph (1).
 - **(g)** There is authorized to be appropriated to the Secretary to carry out this section $15,000,000, in the aggregate, for fiscal years 2022 through 2026.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. FF, title XI, § 1111](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3249](https://www.govinfo.gov/link/statute/134/3249).)*

@@ -3,9 +3,10 @@ title: "Section 220504 - Membership"
 usc_title: 36
 usc_section: "220504"
 chapter: 2205
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 220504"
-generated_at: "2026-03-30T02:55:44.709Z"
+generated_at: "2026-11-23T21:26:13.744Z"
+status: "active"
 ---
 
 # § 220504. Membership
@@ -26,3 +27,32 @@ generated_at: "2026-03-30T02:55:44.709Z"
   - **(4)** individuals not affiliated or associated with any amateur sports organization who, in the corporation’s judgment, represent the interests of the American public in the activities of the corporation.
 - **(c)** An athlete who represents athletes under subsection (b)(2) shall not be employed by the Center, or serve in a capacity that exercises decision-making authority on behalf of the Center, during the 2-year period beginning on the date on which the athlete ceases such representation.
 - **(d)** The bylaws of the corporation shall include a description of all generally applicable certification requirements for membership in the corporation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 220504 | 36:376. | Sept. 21, 1950, ch. 975 , title I, § 106, as added Nov. 8, 1978 , Pub. L. 95–606, § 1(b) , 92 Stat. 3048 . |
+
+
+Eligibility
+
+Required Provisions for Representation
+
+Conflict of Interest
+
+Certification Requirements
+
+Historical and Revision Notes
+
+220504
+
+Sept. 21, 1950, ch. 975
+
+Nov. 8, 1978
+
+Pub. L. 95–606, § 1(b)
+
+92 Stat. 3048
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1467](https://www.govinfo.gov/link/statute/112/1467); [Pub. L. 105–277, div. C, title I, § 142(e)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–603](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 116–189](https://www.govinfo.gov/link/plaw/116/public/189), §§ 4(a)(4), 6(b), 7(a)(2)(A)(i), Oct. 30, 2020, [134 Stat. 945](https://www.govinfo.gov/link/statute/134/945), 948, 956.)*

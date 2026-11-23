@@ -3,9 +3,10 @@ title: "Section 34 - Competitive grants to States and Indian tribes for the deve
 usc_title: 42
 usc_section: "34"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 34"
-generated_at: "2026-03-30T02:56:10.847Z"
+generated_at: "2026-11-23T21:26:30.952Z"
+status: "active"
 ---
 
 # § 300jj–34. Competitive grants to States and Indian tribes for the development of loan programs to facilitate the widespread adoption of certified EHR technology
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:56:10.847Z"
   - **(1)** The National Coordinator may not make a grant under subsection (a) to an eligible entity unless the entity agrees to make available (directly or through donations from public or private entities) non-Federal contributions in cash to the costs of carrying out the activities for which the grant is awarded in an amount equal to not less than $1 for each $5 of Federal funds provided under the grant.
   - **(2)** In determining the amount of non-Federal contributions that an eligible entity has provided pursuant to subparagraph (A), 2 2 So in original. Probably means “paragraph (1),”. the National Coordinator may not include any amounts provided to the entity by the Federal Government.
 - **(i)** The Secretary may not make an award under this section prior to January 1, 2010 .
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXX, § 3014, as added [Pub. L. 111–5, div. A, title XIII, § 13301](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 253](https://www.govinfo.gov/link/statute/123/253).)*

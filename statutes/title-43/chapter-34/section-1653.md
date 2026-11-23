@@ -3,9 +3,10 @@ title: "Section 1653 - Liability for damages"
 usc_title: 43
 usc_section: "1653"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1653"
-generated_at: "2026-03-30T02:55:57.486Z"
+generated_at: "2026-11-23T21:26:19.869Z"
+status: "active"
 ---
 
 # § 1653. Liability for damages
@@ -17,3 +18,21 @@ generated_at: "2026-03-30T02:55:57.486Z"
   - **(4)** Upon order of the Secretary, the holder of a right-of-way or permit shall provide emergency subsistence and other aid to an affected Alaska Native, Native organization, or other person pending expeditious filing of, and determination of, a claim under this subsection.
   - **(5)** Where the State of Alaska is the holder of a right-of-way or permit under this chapter, the State shall not be subject to the provisions of this subsection, but the holder of the permit or right-of-way for the trans-Alaska pipeline shall be subject to this subsection with respect to facilities constructed or activities conducted under rights-of-way or permits issued to the State to the extent that such holder engages in the construction, operation, maintenance, and termination of facilities, or in other activities under rights-of-way or permits issued to the State.
 - **(b)** If any area in the State of Alaska within or without the right-of-way or permit area granted under this chapter is polluted by any activities related to the Trans-Alaska Pipeline System, including operation of the terminal, conducted by or on behalf of the holder to whom such right-of-way or permit was granted, and such pollution damages or threatens to damage aquatic life, wildlife, or public or private property, the control and total removal of the pollutant shall be at the expense of such holder, including any administrative and other costs incurred by the Secretary or any other Federal or State officer or agency. Upon failure of such holder to adequately control and remove such pollutant, the Secretary, in cooperation with other Federal, State, or local agencies, or in cooperation with such holder, or both, shall have the right to accomplish the control and removal at the expense of such holder.
+
+“The repeal by paragraph (1) [repealing subsec. (c) of this section] shall be effective 60 days after the date on which the Comptroller General of the United States certifies to the Congress [certified July 5, 2000 ] that—
+
+Transfer of Funds
+
+Use of Interest Only
+
+Reservation of amounts
+
+Disposition of the balance
+
+Disposition of the reserved amounts
+
+Authorization
+
+## Source Credit
+
+*([Pub. L. 93–153, title II, § 204](https://www.govinfo.gov/link/plaw/93/public/153), Nov. 16, 1973, [87 Stat. 586](https://www.govinfo.gov/link/statute/87/586); [Pub. L. 101–380, title VIII](https://www.govinfo.gov/link/plaw/101/public/380), §§ 8101, 8102(a)(1), (4), (b)–(e), Aug. 18, 1990, [104 Stat. 565–567](https://www.govinfo.gov/link/statute/104/565).)*

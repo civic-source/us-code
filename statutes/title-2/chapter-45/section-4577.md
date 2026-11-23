@@ -3,12 +3,17 @@ title: "Section 4577 - Availability of appropriations during first three months 
 usc_title: 2
 usc_section: "4577"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 4577"
-generated_at: "2026-03-30T02:53:04.833Z"
+generated_at: "2026-11-23T21:25:21.314Z"
+status: "active"
 ---
 
 # § 4577. Availability of appropriations during first three months of any fiscal year for aggregate of payments of gross compensation made to employees from Senate appropriation account for “Salaries, Officers and Employees”
 
 At no time during the first three months of any fiscal year (commencing with the fiscal year which begins October 1, 1984 ) shall the aggregate of payments of gross compensation made to employees out of any line item appropriation within the Senate appropriation account for “Salaries, Officers and Employees” (other than the line item appropriations, within such account for “Administrative, clerical, and legislative assistance to Senators” and for “Agency contributions”) exceed twenty-five per centum of the total amount available for such line item appropriations for such fiscal year.
 
+
+## Source Credit
+
+*([Pub. L. 98–367, title I, § 4](https://www.govinfo.gov/link/plaw/98/public/367), July 17, 1984, [98 Stat. 475](https://www.govinfo.gov/link/statute/98/475).)*

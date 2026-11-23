@@ -3,9 +3,10 @@ title: "Section 780 - Establishment of National Council on Disability"
 usc_title: 29
 usc_section: "780"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 780"
-generated_at: "2026-03-30T02:55:18.697Z"
+generated_at: "2026-11-23T21:26:02.210Z"
+status: "active"
 ---
 
 # § 780. Establishment of National Council on Disability
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:18.697Z"
   - **(3)** Any member appointed to fill a vacancy occurring before the expiration of the term for which such member’s predecessor was appointed shall be appointed only for the remainder of such term.
 - **(c)** The President shall designate the Chairperson from among the members appointed to the National Council. The National Council shall meet at the call of the Chairperson, but not less often than four times each year.
 - **(d)** Five members of the National Council shall constitute a quorum and any vacancy in the National Council shall not affect its power to function.
+
+## Source Credit
+
+*([Pub. L. 93–112, title IV, § 400](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 105–220, title IV, § 407](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1198](https://www.govinfo.gov/link/statute/112/1198); amended [Pub. L. 112–166, § 2(q)](https://www.govinfo.gov/link/plaw/112/public/166), Aug. 10, 2012, [126 Stat. 1288](https://www.govinfo.gov/link/statute/126/1288); [Pub. L. 113–128, title IV, § 451](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1674](https://www.govinfo.gov/link/statute/128/1674); [Pub. L. 114–18, § 3(a)](https://www.govinfo.gov/link/plaw/114/public/18), May 22, 2015, [129 Stat. 214](https://www.govinfo.gov/link/statute/129/214).)*

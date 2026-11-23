@@ -3,9 +3,10 @@ title: "Section 8738 - Special competitive provisions for extra long staple cott
 usc_title: 7
 usc_section: "8738"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 8738"
-generated_at: "2026-03-30T02:53:42.479Z"
+generated_at: "2026-11-23T21:25:28.481Z"
+status: "active"
 ---
 
 # § 8738. Special competitive provisions for extra long staple cotton
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.479Z"
   - **(2)** the lowest priced competing growth of extra long staple cotton (adjusted to United States quality and location and for other factors affecting the competitiveness of such cotton), as determined by the Secretary, is less than 134 percent of the loan rate for extra long staple cotton.
 - **(c)** The Secretary shall make payments available under this section to domestic users of extra long staple cotton produced in the United States and exporters of extra long staple cotton produced in the United States that enter into an agreement with the Commodity Credit Corporation to participate in the program under this section.
 - **(d)** Payments under this section shall be based on the amount of the difference in the prices referred to in subsection (b)(1) during the fourth week of the consecutive 4-week period multiplied by the amount of documented purchases by domestic users and sales for export by exporters made in the week following such a consecutive 4-week period.
+
+## Source Credit
+
+*([Pub. L. 110–234, title I, § 1208](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 963](https://www.govinfo.gov/link/statute/122/963); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1208, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1692.)*

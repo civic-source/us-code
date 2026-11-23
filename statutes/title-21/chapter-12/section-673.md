@@ -3,9 +3,10 @@ title: "Section 673 - Seizure and condemnation"
 usc_title: 21
 usc_section: "673"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 673"
-generated_at: "2026-03-30T02:54:54.288Z"
+generated_at: "2026-11-23T21:25:56.215Z"
+status: "active"
 ---
 
 # § 673. Seizure and condemnation
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:54.288Z"
       - **(i)** was found after inspection under this chapter to be wholesome and not adulterated within the meaning of paragraphs (1) through (7) and (9) of section 601(m) of this title and a determination was made at the time of the entry of the decree that such article was wholesome and not so adulterated; and
       - **(ii)** was plainly marked “Not for Sale” on such article or its container.
 - **(b)** The provisions of this section shall in no way derogate from authority for condemnation or seizure conferred by other provisions of this chapter, or other laws.
+
+## Source Credit
+
+*(Mar. 4, 1907, ch. 2907, title IV, § 403, as added [Pub. L. 90–201, § 16](https://www.govinfo.gov/link/plaw/90/public/201), Dec. 15, 1967, [81 Stat. 598](https://www.govinfo.gov/link/statute/81/598); amended [Pub. L. 101–205, § 1](https://www.govinfo.gov/link/plaw/101/public/205), Dec. 7, 1989, [103 Stat. 1829](https://www.govinfo.gov/link/statute/103/1829).)*

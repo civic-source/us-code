@@ -3,9 +3,10 @@ title: "Section 3109 - Significant interpretations of law concerning intelligenc
 usc_title: 50
 usc_section: "3109"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3109"
-generated_at: "2026-03-30T02:56:26.236Z"
+generated_at: "2026-11-23T21:26:39.013Z"
+status: "active"
 ---
 
 # § 3109. Significant interpretations of law concerning intelligence activities
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:26.236Z"
   - **(1)** notice of the significant legal interpretation was previously provided to the congressional intelligence committees under subsection (a); or
   - **(2)** the significant legal interpretation was made before July 7, 2014 .
 - **(d)** If the President determines that it is essential to limit access to a covert action finding under section 3093(c)(2) of this title , the President may limit access to information concerning such finding that is subject to notification under this section to those members of Congress who have been granted access to the relevant finding under section 3093(c)(2) of this title .
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title V, § 510, as added [Pub. L. 113–126, title III, § 321(a)](https://www.govinfo.gov/link/plaw/113/public/126), July 7, 2014, [128 Stat. 1399](https://www.govinfo.gov/link/statute/128/1399).)*

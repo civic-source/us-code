@@ -3,9 +3,10 @@ title: "Section 3046 - Retired grade and retired pay"
 usc_title: 33
 usc_section: "3046"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3046"
-generated_at: "2026-03-30T02:55:41.137Z"
+generated_at: "2026-11-23T21:26:11.477Z"
+status: "active"
 ---
 
 # § 3046. Retired grade and retired pay
@@ -14,3 +15,7 @@ Each officer retired pursuant to law shall be placed on the retired list with th
 
   - **(1)** the officer’s performance of duty in such highest grade has been satisfactory, as determined by the Secretary of the department or departments under whose jurisdiction the officer served; and
   - **(2)** unless retired for disability, the officer’s length of service in such highest grade is no less than that required by the Secretary of officers retiring under permanent appointment in that grade.
+
+## Source Credit
+
+*([Pub. L. 107–372, title II, § 246](https://www.govinfo.gov/link/plaw/107/public/372), Dec. 19, 2002, [116 Stat. 3090](https://www.govinfo.gov/link/statute/116/3090).)*

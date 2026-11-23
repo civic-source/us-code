@@ -3,9 +3,10 @@ title: "Section 3903 - Members of Service"
 usc_title: 22
 usc_section: "3903"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3903"
-generated_at: "2026-03-30T02:55:05.398Z"
+generated_at: "2026-11-23T21:25:58.599Z"
+status: "active"
 ---
 
 # § 3903. Members of Service
@@ -19,3 +20,7 @@ The following are the members of the Service:
   - **(5)** Foreign Service personnel, United States citizens appointed under section 3943 of this title , who provide skills and services required for effective performance by the Service.
   - **(6)** Foreign national employees, foreign nationals appointed under section 3943 of this title , who provide clerical, administrative, technical, fiscal, and other support at Foreign Service posts abroad.
   - **(7)** Consular agents, appointed under section 3943 of this title by the Secretary of State, who provide consular and related services as authorized by the Secretary of State at specified locations abroad where no Foreign Service posts are situated.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 103](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2076](https://www.govinfo.gov/link/statute/94/2076).)*

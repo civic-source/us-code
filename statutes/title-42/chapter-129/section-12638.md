@@ -3,9 +3,10 @@ title: "Section 12638 - State Commissions on National and Community Service"
 usc_title: 42
 usc_section: "12638"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12638"
-generated_at: "2026-03-30T02:56:11.422Z"
+generated_at: "2026-11-23T21:26:33.510Z"
+status: "active"
 ---
 
 # § 12638. State Commissions on National and Community Service
@@ -126,3 +127,11 @@ generated_at: "2026-03-30T02:56:11.422Z"
     - **(A)** to affect any other immunities and protections that may be available to such member under applicable law with respect to such service;
     - **(B)** to affect any other right or remedy against the State under applicable law, or against any person other than a member of the State Commission or alternative administrative entity; or
     - **(C)** to limit or alter in any way the immunities that are available under applicable law for State officials and employees not described in this subsection.
+
+Use of alternatives to state commission
+
+Application of subsection
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 178](https://www.govinfo.gov/link/plaw/101/public/610), as added and amended [Pub. L. 103–82, title II, § 201(a)](https://www.govinfo.gov/link/plaw/103/public/82), title IV, § 405(p)(1), Sept. 21, 1993, [107 Stat. 867](https://www.govinfo.gov/link/statute/107/867), 922; [Pub. L. 111–13, title I, § 1606](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1530](https://www.govinfo.gov/link/statute/123/1530).)*

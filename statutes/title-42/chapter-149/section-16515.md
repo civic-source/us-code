@@ -3,9 +3,10 @@ title: "Section 16515 - Limitation on commitments to guarantee loans"
 usc_title: 42
 usc_section: "16515"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16515"
-generated_at: "2026-03-30T02:56:11.488Z"
+generated_at: "2026-11-23T21:26:33.747Z"
+status: "active"
 ---
 
 # § 16515. Limitation on commitments to guarantee loans
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.488Z"
 - **(c)** The Secretary of Energy shall enter into an arrangement with an independent auditor for annual evaluations of the program under title XVII of the Energy Policy Act of 2005 [ 42 U.S.C. 16501 et seq.]. In addition to the independent audit, the Comptroller General shall conduct a review every three years of the Department’s execution of the program under title XVII of the Energy Policy Act of 2005. The results of the independent audit and the Comptroller General’s review shall be provided directly to the Committees on Appropriations of the House of Representatives and the Senate.
 - **(d)** The Secretary of Energy shall promulgate final regulations for loan guarantees under title XVII of the Energy Policy Act of 2005 [ 42 U.S.C. 16501 et seq.] within 6 months of February 15, 2007 .
 - **(e)** Not later than 120 days after February 15, 2007 , and annually thereafter, the Secretary of Energy shall transmit to the Committees on Appropriations of the House of Representatives and the Senate a report containing a summary of all activities under title XVII of the Energy Policy Act of 2005 [ 42 U.S.C. 16511 et seq.], beginning in fiscal year 2007, with a listing of responses to loan guarantee solicitations under such title, describing the technologies, amount of loan guarantee sought, and the applicants’ assessment of risk.
+
+## Source Credit
+
+*([Pub. L. 109–289, div. B, title II, § 20320](https://www.govinfo.gov/link/plaw/109/public/289), as added [Pub. L. 110–5, § 2](https://www.govinfo.gov/link/plaw/110/public/5), Feb. 15, 2007, [121 Stat. 21](https://www.govinfo.gov/link/statute/121/21); amended [Pub. L. 113–76, div. D, title III, § 307](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 175](https://www.govinfo.gov/link/statute/128/175).)*

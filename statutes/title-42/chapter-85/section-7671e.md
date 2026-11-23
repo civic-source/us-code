@@ -3,9 +3,10 @@ title: "Section 7671e - Accelerated schedule"
 usc_title: 42
 usc_section: "7671e"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7671e"
-generated_at: "2026-03-30T02:56:11.327Z"
+generated_at: "2026-11-23T21:26:33.163Z"
+status: "active"
 ---
 
 # § 7671e. Accelerated schedule
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.327Z"
   - **(2)** based on the availability of substitutes for listed substances, the Administrator determines that such more stringent schedule is practicable, taking into account technological achievability, safety, and other relevant factors, or
   - **(3)** the Montreal Protocol is modified to include a schedule to control or reduce production, consumption, or use of any substance more rapidly than the applicable schedule under this subchapter.
 - **(b)** Any person may petition the Administrator to promulgate regulations under this section. The Administrator shall grant or deny the petition within 180 days after receipt of any such petition. If the Administrator denies the petition, the Administrator shall publish an explanation of why the petition was denied. If the Administrator grants such petition, such final regulations shall be promulgated within 1 year. Any petition under this subsection shall include a showing by the petitioner that there are data adequate to support the petition. If the Administrator determines that information is not sufficient to make a determination under this subsection, the Administrator shall use any authority available to the Administrator, under any law administered by the Administrator, to acquire such information.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title VI, § 606, as added [Pub. L. 101–549, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2660](https://www.govinfo.gov/link/statute/104/2660).)*

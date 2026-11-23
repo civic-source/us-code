@@ -3,9 +3,10 @@ title: "Section 55334 - Restrictions on operations"
 usc_title: 46
 usc_section: "55334"
 chapter: 553
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 55334"
-generated_at: "2026-03-30T02:56:15.580Z"
+generated_at: "2026-11-23T21:26:37.311Z"
+status: "active"
 ---
 
 # § 55334. Restrictions on operations
@@ -19,3 +20,26 @@ generated_at: "2026-03-30T02:56:15.580Z"
     - **(A)** a contract carrier; or
     - **(B)** a common carrier on a fixed advertised schedule offering frequent sailings at regular intervals in the foreign trade of the United States.
 - **(b)** An American Great Lakes vessel may be used for not more than 90 days during any 12-month period to engage in trade prohibited by subsection (a)(1)(A), except during the Great Lakes shipping season.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 55334 | 46 App.:1241s. | Pub. L. 101–624, title XV, § 1523 , Nov. 28, 1990 , 104 Stat. 3666 . |
+
+
+Prohibitions
+
+Off-Season Exception
+
+Historical and Revision Notes
+
+55334
+
+Pub. L. 101–624, title XV, § 1523
+
+Nov. 28, 1990
+
+104 Stat. 3666
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1649](https://www.govinfo.gov/link/statute/120/1649).)*

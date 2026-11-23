@@ -3,9 +3,10 @@ title: "Section 13 - Omitted"
 usc_title: 20
 usc_section: "13"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 13"
-generated_at: "2026-03-30T02:54:48.086Z"
+generated_at: "2026-11-23T21:25:46.968Z"
+status: "omitted"
 ---
 
 # §§ 880b–12, 880b–13. Omitted

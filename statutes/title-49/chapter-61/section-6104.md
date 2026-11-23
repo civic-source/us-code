@@ -3,9 +3,10 @@ title: "Section 6104 - Compliance with minimum standards"
 usc_title: 49
 usc_section: "6104"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 6104"
-generated_at: "2026-03-30T02:56:19.321Z"
+generated_at: "2026-11-23T21:26:40.668Z"
+status: "active"
 ---
 
 # § 6104. Compliance with minimum standards
@@ -23,3 +24,15 @@ generated_at: "2026-03-30T02:56:19.321Z"
   - **(2)** an analysis by the Secretary of the overall effectiveness of each State’s one-call notification program and the one-call notification systems operating under such program in achieving the purposes of this chapter;
   - **(3)** the impact of each State’s decisions on the extent of required participation in one-call notification systems on prevention of damage to underground facilities; and
   - **(4)** areas where improvements are needed in one-call notification systems in operation in each State.
+
+Requirement
+
+Application.—
+
+Alternative Program
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 105–178, title VII, § 7302(a)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 479](https://www.govinfo.gov/link/statute/112/479); amended [Pub. L. 107–355, § 2(b)](https://www.govinfo.gov/link/plaw/107/public/355), Dec. 17, 2002, [116 Stat. 2985](https://www.govinfo.gov/link/statute/116/2985).)*

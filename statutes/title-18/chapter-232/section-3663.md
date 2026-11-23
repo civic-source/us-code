@@ -3,9 +3,10 @@ title: "Section 3663 - Order of restitution"
 usc_title: 18
 usc_section: "3663"
 chapter: 232
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3663"
-generated_at: "2026-03-30T02:54:16.524Z"
+generated_at: "2026-11-23T21:25:44.223Z"
+status: "active"
 ---
 
 # § 3663. Order of restitution
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:54:16.524Z"
     - **(A)** The United States Sentencing Commission shall promulgate guidelines to assist courts in determining the amount of restitution that may be ordered under this subsection.
     - **(B)** No restitution shall be ordered under this subsection until such time as the Sentencing Commission promulgates guidelines pursuant to this paragraph.
 - **(d)** An order of restitution made pursuant to this section shall be issued and enforced in accordance with section 3664.
+
+## Source Credit
+
+*(Added [Pub. L. 97–291, § 5(a)](https://www.govinfo.gov/link/plaw/97/public/291), Oct. 12, 1982, [96 Stat. 1253](https://www.govinfo.gov/link/statute/96/1253), § 3579; renumbered § 3663 and amended [Pub. L. 98–473, title II, § 212(a)(1)](https://www.govinfo.gov/link/plaw/98/public/473), (3), Oct. 12, 1984, [98 Stat. 1987](https://www.govinfo.gov/link/statute/98/1987), 2010; [Pub. L. 98–596, § 9](https://www.govinfo.gov/link/plaw/98/public/596), Oct. 30, 1984, [98 Stat. 3138](https://www.govinfo.gov/link/statute/98/3138); [Pub. L. 99–646](https://www.govinfo.gov/link/plaw/99/public/646), §§ 8(b), 20(a), 77(a), 78(a), 79(a), Nov. 10, 1986, [100 Stat. 3593](https://www.govinfo.gov/link/statute/100/3593), 3596, 3618, 3619; [Pub. L. 100–182, § 13](https://www.govinfo.gov/link/plaw/100/public/182), Dec. 7, 1987, [101 Stat. 1268](https://www.govinfo.gov/link/statute/101/1268); [Pub. L. 100–185, § 12](https://www.govinfo.gov/link/plaw/100/public/185), Dec. 11, 1987, [101 Stat. 1285](https://www.govinfo.gov/link/statute/101/1285); [Pub. L. 100–690, title VII, § 7042](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4399](https://www.govinfo.gov/link/statute/102/4399); [Pub. L. 101–647, title XXV, § 2509](https://www.govinfo.gov/link/plaw/101/public/647), title XXXV, § 3595, Nov. 29, 1990, [104 Stat. 4863](https://www.govinfo.gov/link/statute/104/4863), 4931; [Pub. L. 103–272, § 5(e)(12)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1374](https://www.govinfo.gov/link/statute/108/1374); [Pub. L. 103–322, title IV](https://www.govinfo.gov/link/plaw/103/public/322), §§ 40504, 40505, Sept. 13, 1994, [108 Stat. 1947](https://www.govinfo.gov/link/statute/108/1947); [Pub. L. 104–132, title II, § 205(a)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1229](https://www.govinfo.gov/link/statute/110/1229); [Pub. L. 104–294, title VI](https://www.govinfo.gov/link/plaw/104/public/294), §§ 601(r)(1), (2), 605(l), Oct. 11, 1996, [110 Stat. 3502](https://www.govinfo.gov/link/statute/110/3502), 3510; [Pub. L. 106–310, div. B, title XXXVI, § 3613(c)](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1230](https://www.govinfo.gov/link/statute/114/1230); [Pub. L. 109–59, title VII, § 7128(b)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1910](https://www.govinfo.gov/link/statute/119/1910); [Pub. L. 110–326, title II, § 202](https://www.govinfo.gov/link/plaw/110/public/326), Sept. 26, 2008, [122 Stat. 3561](https://www.govinfo.gov/link/statute/122/3561).)*

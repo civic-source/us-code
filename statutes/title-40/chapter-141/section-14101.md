@@ -3,9 +3,10 @@ title: "Section 14101 - Findings and purposes"
 usc_title: 40
 usc_section: "14101"
 chapter: 141
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 14101"
-generated_at: "2026-03-30T02:55:43.386Z"
+generated_at: "2026-11-23T21:26:14.952Z"
+status: "active"
 ---
 
 # § 14101. Findings and purposes
@@ -33,3 +34,80 @@ generated_at: "2026-03-30T02:55:43.386Z"
       - **(ii)** adapting and applying new technologies for the region’s businesses, including eco-industrial development technologies; and
       - **(iii)** improving the access of the region’s businesses to the technical and financial resources necessary to development of the businesses; and
     - **(C)** to address the needs of severely and persistently distressed areas of the Appalachian region and focus special attention on the areas of greatest need so as to provide a fairer opportunity for the people of the region to share the quality of life generally enjoyed by citizens across the United States.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 14101(a) | 40 App.:2(a). | Pub. L. 89–4, § 2(a) , Mar. 9, 1965 , 79 Stat. 5 ; Pub. L. 94–188, title I, § 102 , Dec. 31, 1975 , 89 Stat. 1079 . |
+| 14101(b) | 40 App.:2(b). | Pub. L. 89–4, § 2(b) , as added Pub. L. 94–188, title I, § 102 , Dec. 31, 1975 , 89 Stat. 1079 ; Pub. L. 107–149, § 2(b)(1) , Mar. 12, 2002 , 116 Stat. 66 . |
+| 14101(c) | 40 App.:2(c). | Pub. L. 89–4, § 2(c) , as added Pub. L. 105–393, title II, § 202 , Nov. 13, 1998 , 112 Stat. 3618 ; Pub. L. 107–149, § 2(b)(2) , Mar. 12, 2002 , 116 Stat. 66 . |
+
+
+Findings and Purpose.—
+
+Findings
+
+Purpose
+
+Findings and Purpose.—
+
+Findings
+
+Purpose
+
+Findings and Purpose
+
+Findings
+
+Purpose
+
+Historical and Revision Notes
+
+14101(a)
+
+Pub. L. 89–4, § 2(a)
+
+Mar. 9, 1965
+
+79 Stat. 5
+
+Pub. L. 94–188, title I, § 102
+
+Dec. 31, 1975
+
+89 Stat. 1079
+
+14101(b)
+
+Pub. L. 89–4, § 2(b)
+
+Pub. L. 94–188, title I, § 102
+
+Dec. 31, 1975
+
+89 Stat. 1079
+
+Pub. L. 107–149, § 2(b)(1)
+
+Mar. 12, 2002
+
+116 Stat. 66
+
+14101(c)
+
+Pub. L. 89–4, § 2(c)
+
+Pub. L. 105–393, title II, § 202
+
+Nov. 13, 1998
+
+112 Stat. 3618
+
+Pub. L. 107–149, § 2(b)(2)
+
+Mar. 12, 2002
+
+116 Stat. 66
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1252](https://www.govinfo.gov/link/statute/116/1252).)*

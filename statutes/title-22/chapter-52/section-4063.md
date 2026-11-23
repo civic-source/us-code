@@ -3,9 +3,10 @@ title: "Section 4063 - Annuity adjustment for recall service"
 usc_title: 22
 usc_section: "4063"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4063"
-generated_at: "2026-03-30T02:55:05.404Z"
+generated_at: "2026-11-23T21:25:58.618Z"
+status: "active"
 ---
 
 # § 4063. Annuity adjustment for recall service
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.404Z"
 - **(c)** If an annuitant becomes subject to part II of this subchapter by reason of recall service—
   - **(1)** subsections (a) and (b) shall not apply to such annuitant; and
   - **(2)** section 4064 of this title shall apply to the recall service as if such service were reemployment.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 823](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2122](https://www.govinfo.gov/link/statute/94/2122); [Pub. L. 99–335, title IV, § 409](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 612](https://www.govinfo.gov/link/statute/100/612).)*

@@ -3,9 +3,10 @@ title: "Section 20103 - Crime victim assistance"
 usc_title: 34
 usc_section: "20103"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20103"
-generated_at: "2026-03-30T02:55:33.293Z"
+generated_at: "2026-11-23T21:26:09.767Z"
+status: "active"
 ---
 
 # § 20103. Crime victim assistance
@@ -77,3 +78,7 @@ generated_at: "2026-03-30T02:55:33.293Z"
     - **(C)** salaries of personnel who provide services to victims of crime, to the extent that such personnel provide such services;
   - **(4)** the term “crises intervention services” means counseling to provide emotional support in crises arising from the occurrence of crime; and
   - **(5)** the term “chief executive” includes a person designated by a chief executive to perform the functions of the chief executive under this section.
+
+## Source Credit
+
+*([Pub. L. 98–473, title II, § 1404](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2172](https://www.govinfo.gov/link/statute/98/2172); [Pub. L. 99–401, title I, § 102(b)(4)](https://www.govinfo.gov/link/plaw/99/public/401), (5), Aug. 27, 1986, [100 Stat. 905](https://www.govinfo.gov/link/statute/100/905); [Pub. L. 99–646, § 71](https://www.govinfo.gov/link/plaw/99/public/646), Nov. 10, 1986, [100 Stat. 3617](https://www.govinfo.gov/link/statute/100/3617); [Pub. L. 100–690, title VII](https://www.govinfo.gov/link/plaw/100/public/690), §§ 7122, 7123(b)(4)–(9), 7127, 7128, title IX, § 9306(a), Nov. 18, 1988, [102 Stat. 4420](https://www.govinfo.gov/link/statute/102/4420), 4421, 4423, 4537; [Pub. L. 103–317, title I, § 112](https://www.govinfo.gov/link/plaw/103/public/317), Aug. 26, 1994, [108 Stat. 1736](https://www.govinfo.gov/link/statute/108/1736); [Pub. L. 103–322, title XXIII](https://www.govinfo.gov/link/plaw/103/public/322), §§ 230204, 230205, 230208, Sept. 13, 1994, [108 Stat. 2080](https://www.govinfo.gov/link/statute/108/2080); [Pub. L. 104–132, title II, § 232(c)(2)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1244](https://www.govinfo.gov/link/statute/110/1244); [Pub. L. 107–56, title VI, § 623](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 372](https://www.govinfo.gov/link/statute/115/372); [Pub. L. 109–162, title XI](https://www.govinfo.gov/link/plaw/109/public/162), §§ 1131, 1133(b), Jan. 5, 2006, [119 Stat. 3107](https://www.govinfo.gov/link/statute/119/3107), 3108; [Pub. L. 111–8, div. B, title II](https://www.govinfo.gov/link/plaw/111/public/8), Mar. 11, 2009, [123 Stat. 579](https://www.govinfo.gov/link/statute/123/579); [Pub. L. 114–324, § 17(a)](https://www.govinfo.gov/link/plaw/114/public/324), Dec. 16, 2016, [130 Stat. 1962](https://www.govinfo.gov/link/statute/130/1962); [Pub. L. 117–27, § 3](https://www.govinfo.gov/link/plaw/117/public/27), July 22, 2021, [135 Stat. 302](https://www.govinfo.gov/link/statute/135/302).)*

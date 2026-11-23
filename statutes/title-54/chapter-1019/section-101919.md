@@ -3,9 +3,10 @@ title: "Section 101919 - National Park Service Concessions Management Advisory B
 usc_title: 54
 usc_section: "101919"
 chapter: 1019
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "54 U.S.C. § 101919"
-generated_at: "2026-03-30T02:56:28.415Z"
+generated_at: "2026-11-23T21:26:42.770Z"
+status: "active"
 ---
 
 # § 101919. National Park Service Concessions Management Advisory Board
@@ -34,3 +35,52 @@ generated_at: "2026-03-30T02:56:28.415Z"
   - **(7)** one member shall be active in a nonprofit conservation organization involved in parks and recreation programs.
 - **(d)** Service of an individual as a member of the Advisory Board shall not be deemed to be service or employment bringing the individual within the provisions of any Federal law relating to conflicts of interest or otherwise imposing restrictions, requirements, or penalties in relation to the employment of individuals, the performance of services, or the payment or receipt of compensation in connection with claims, proceedings, or matters involving the United States. Service as a member of the Advisory Board shall not be deemed service in an appointive or elective position in the Federal Government for purposes of section 8344 of title 5 or other comparable provisions of Federal law.
 - **(e)** The Advisory Board shall continue to exist until December 31, 2009 . In all other respects, it shall be subject to chapter 10 of title 5.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 101919(a) through (c) | 16 U.S.C. 5958(a) through (c). | Pub. L. 105–391, title IV, § 409 , Nov. 13, 1998 , 112 Stat. 3512 ; Pub. L. 111–11 , subtitle VII, subtitle E, § 7403, 123 Stat. 1219 . |
+| 101919(d) | 16 U.S.C. 5958(e) . |  |
+| 101919(e) | 16 U.S.C. 5958(d) . |  |
+
+
+Establishment and Purpose
+
+Duties.—
+
+Advice
+
+Recommendations
+
+Annual report
+
+Advisory Board Membership
+
+Service on Advisory Board
+
+Termination
+
+Historical and Revision Notes
+
+16 U.S.C. 5958(a)
+
+Pub. L. 105–391, title IV, § 409
+
+Nov. 13, 1998
+
+112 Stat. 3512
+
+Pub. L. 111–11
+
+123 Stat. 1219
+
+101919(d)
+
+16 U.S.C. 5958(e)
+
+101919(e)
+
+16 U.S.C. 5958(d)
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3147](https://www.govinfo.gov/link/statute/128/3147); [Pub. L. 117–286, § 4(a)(329)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4342](https://www.govinfo.gov/link/statute/136/4342).)*

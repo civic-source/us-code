@@ -3,9 +3,10 @@ title: "Section 4566 - Monitoring and enforcing compliance with housing goals"
 usc_title: 12
 usc_section: "4566"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4566"
-generated_at: "2026-03-30T02:53:53.508Z"
+generated_at: "2026-11-23T21:25:37.190Z"
+status: "active"
 ---
 
 # § 4566. Monitoring and enforcing compliance with housing goals
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:53:53.508Z"
   - **(5)** The Director shall provide written notice to any enterprise submitting a housing plan of the approval or disapproval of the plan (which shall include the reasons for any disapproval of the plan) and of any extension of the period for approval or disapproval.
   - **(6)** If the initial housing plan submitted by an enterprise under this section is disapproved, the enterprise shall submit an amended plan acceptable to the Director not later than 15 days after such disapproval, or such longer period that the Director determines is in the public interest.
   - **(7)** Solely with respect to the housing goals established under sections 4562(a) and 4563(a)(1) of this title, if the Director requires an enterprise to submit a housing plan under this subsection and the enterprise refuses to submit such a plan, submits an unacceptable plan, or fails to comply with the plan, the Director may issue a cease and desist order in accordance with section 4581 of this title , impose civil money penalties in accordance with section 4585 of this title , exercise other appropriate enforcement authority or seek other appropriate actions.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1336](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3962](https://www.govinfo.gov/link/statute/106/3962); [Pub. L. 110–289, div. A, title I](https://www.govinfo.gov/link/plaw/110/public/289), §§ 1122(a)(1), 1128(c)(2), 1129(b), (c), 1130(a), July 30, 2008, [122 Stat. 2689](https://www.govinfo.gov/link/statute/122/2689), 2702, 2705, 2706.)*

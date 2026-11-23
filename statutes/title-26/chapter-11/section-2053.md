@@ -3,9 +3,10 @@ title: "Section 2053 - Expenses, indebtedness, and taxes"
 usc_title: 26
 usc_section: "2053"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 2053"
-generated_at: "2026-03-30T02:55:27.781Z"
+generated_at: "2026-11-23T21:26:06.529Z"
+status: "active"
 ---
 
 # § 2053. Expenses, indebtedness, and taxes
@@ -30,3 +31,11 @@ generated_at: "2026-03-30T02:55:27.781Z"
     - **(A)** An election under this subsection shall be deemed a waiver of the right to claim a credit, against the Federal estate tax, under a death tax convention with any foreign country for any tax or portion thereof in respect of which a deduction is taken under this subsection.
     - **(B)** See section 2014(f) for the effect of a deduction taken under this paragraph on the credit for foreign death taxes.
 - **(e)** For provisions treating certain relinquishments of marital rights as consideration in money or money’s worth, see section 2043(b)(2).
+
+Effective date
+
+Waiver of limitations
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 389; Feb. 20, 1956, ch. 63, § 2, [70 Stat. 23](https://www.govinfo.gov/link/statute/70/23); [Pub. L. 85–866, title I, § 102(c)(3)](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1674](https://www.govinfo.gov/link/statute/72/1674); [Pub. L. 86–175, § 1](https://www.govinfo.gov/link/plaw/86/public/175), Aug. 21, 1959, [73 Stat. 396](https://www.govinfo.gov/link/statute/73/396); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1902(a)(12)(B), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1806](https://www.govinfo.gov/link/statute/90/1806), 1834; [Pub. L. 98–369, div. A, title IV, § 425(a)(2)](https://www.govinfo.gov/link/plaw/98/public/369), title X, § 1027(b), July 18, 1984, [98 Stat. 804](https://www.govinfo.gov/link/statute/98/804), 1031; [Pub. L. 100–647, title I, § 1011A(g)(11)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3482](https://www.govinfo.gov/link/statute/102/3482); [Pub. L. 105–34, title V, § 503(b)(1)](https://www.govinfo.gov/link/plaw/105/public/34), title X, § 1073(b)(3), Aug. 5, 1997, [111 Stat. 853](https://www.govinfo.gov/link/statute/111/853), 948; [Pub. L. 107–16, title V, § 532(c)(5)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 74](https://www.govinfo.gov/link/statute/115/74); [Pub. L. 107–134, title I, § 103(b)(2)](https://www.govinfo.gov/link/plaw/107/public/134), Jan. 23, 2002, [115 Stat. 2431](https://www.govinfo.gov/link/statute/115/2431).)*

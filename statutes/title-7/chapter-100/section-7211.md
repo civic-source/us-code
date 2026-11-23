@@ -3,9 +3,10 @@ title: "Section 7211 - Authorization for use of production flexibility contracts
 usc_title: 7
 usc_section: "7211"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7211"
-generated_at: "2026-03-30T02:53:42.445Z"
+generated_at: "2026-11-23T21:25:28.416Z"
+status: "active"
 ---
 
 # § 7211. Authorization for use of production flexibility contracts
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:42.445Z"
   - **(3)** is released from coverage under a conservation reserve contract by the Secretary during the period beginning on January 1, 1995 , and ending on the date specified in section 7212(a)(2) of this title .
 - **(e)** Subject to subsection (b)(4), an owner or producer may enroll as contract acreage all or a portion of the eligible cropland on the farm.
 - **(f)** Subject to subsection (b)(4), an owner or producer who enters into a contract may subsequently reduce the quantity of contract acreage covered by the contract.
+
+## Source Credit
+
+*([Pub. L. 104–127, title I, § 111](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 898](https://www.govinfo.gov/link/statute/110/898).)*

@@ -3,9 +3,10 @@ title: "Section 100504 - Study and planning of park, parkway, and recreational-a
 usc_title: 54
 usc_section: "100504"
 chapter: 1005
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "54 U.S.C. § 100504"
-generated_at: "2026-03-30T02:56:28.412Z"
+generated_at: "2026-11-23T21:26:42.755Z"
+status: "active"
 ---
 
 # § 100504. Study and planning of park, parkway, and recreational-area facilities
@@ -20,3 +21,51 @@ generated_at: "2026-03-30T02:56:28.412Z"
       - **(ii)** States, political subdivisions of States, and agencies and instrumentalities of either of them.
   - **(4)** For the purpose of developing coordinated and adequate public park, parkway, and recreational-area facilities for the people of the United States, the Secretary may aid States and political subdivisions of States in planning public park, parkway, and recreational areas and in cooperating with one another to accomplish these ends. Aid shall be made available through the Service acting in cooperation with such State agencies or agencies of political subdivisions of States as the Secretary considers best.
 - **(b)** The consent of Congress is given to any 2 or more States to negotiate and enter into compacts or agreements with one another with reference to planning, establishing, developing, improving, and maintaining any park, parkway, or recreational area. No compact or agreement shall be effective until approved by the legislatures of the States that are parties to the compact or agreement and by Congress.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 100504(a)(1) | 16 U.S.C. 17n . | June 23, 1936, ch. 735 , 49 Stat. 1894 ; Aug. 1, 1956, ch. 852, § 6 , 70 Stat. 908 . |
+| 100504(a)(2), (3) | 16 U.S.C. 17k . |  |
+| 100504(a)(4) | 16 U.S.C. 17 l . |  |
+| 100504(b) | 16 U.S.C. 17m . |  |
+
+
+In General.—
+
+Definition
+
+Study
+
+Cooperation and agreements with other entities
+
+State planning
+
+Consent of Congress to Agreements Between States
+
+Historical and Revision Notes
+
+100504(a)(1)
+
+16 U.S.C. 17n
+
+June 23, 1936, ch. 735
+
+49 Stat. 1894
+
+Aug. 1, 1956, ch. 852, § 6
+
+70 Stat. 908
+
+16 U.S.C. 17k
+
+100504(a)(4)
+
+16 U.S.C. 17
+
+100504(b)
+
+16 U.S.C. 17m
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3099](https://www.govinfo.gov/link/statute/128/3099).)*

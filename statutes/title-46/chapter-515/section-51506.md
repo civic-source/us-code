@@ -3,9 +3,10 @@ title: "Section 51506 - Conditions to receiving payments and use of vessels"
 usc_title: 46
 usc_section: "51506"
 chapter: 515
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 51506"
-generated_at: "2026-03-30T02:56:15.571Z"
+generated_at: "2026-11-23T21:26:37.239Z"
+status: "active"
 ---
 
 # § 51506. Conditions to receiving payments and use of vessels
@@ -29,3 +30,42 @@ generated_at: "2026-03-30T02:56:15.571Z"
       - **(ii)** a member of the National Guard or Reserves who has performed at least six years of service therein; and
     - **(B)** who has earned a baccalaureate degree from an institution of higher education (as defined in section 102 of the Higher Education Act of 1965 ( 20 U.S.C. 1002 )).
 - **(d)** The Secretary may modify or waive any of the terms set forth in subsection (a)(4) with respect to any individual or State maritime academy.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 51506 | 46 App.:1295c(f). | June 29, 1936, ch. 858 , title XIII, § 1304(f), as added Pub. L. 96–453, § 2 , Oct. 15, 1980 , 94 Stat. 2004 ; Pub. L. 101–115, § 3(a) , Oct. 13, 1989 , 103 Stat. 692 . |
+
+
+General Conditions
+
+Additional Condition to Payments of More Than
+
+Armed Forces Merchant Mariner Officer Expedited Preparation Program.—
+
+In general
+
+Eligible individuals
+
+Secretarial Waiver Authority
+
+Historical and Revision Notes
+
+51506
+
+June 29, 1936, ch. 858
+
+Pub. L. 96–453, § 2
+
+Oct. 15, 1980
+
+94 Stat. 2004
+
+Pub. L. 101–115, § 3(a)
+
+Oct. 13, 1989
+
+103 Stat. 692
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(b)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1579](https://www.govinfo.gov/link/statute/120/1579); [Pub. L. 114–328, div. C, title XXXV, § 3515](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2788](https://www.govinfo.gov/link/statute/130/2788); [Pub. L. 118–159, div. C, title XXXV, § 3534](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2313](https://www.govinfo.gov/link/statute/138/2313).)*

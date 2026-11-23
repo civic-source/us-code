@@ -3,9 +3,10 @@ title: "Section 6651 - Establishment, membership, and functions of Council"
 usc_title: 42
 usc_section: "6651"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6651"
-generated_at: "2026-03-30T02:56:11.264Z"
+generated_at: "2026-11-23T21:26:32.971Z"
+status: "active"
 ---
 
 # § 6651. Establishment, membership, and functions of Council
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.264Z"
   - **(1)** detailing employees to the Council to perform such functions, consistent with the purposes of this section, as the Chairman may assign to them, and
   - **(2)** undertaking, upon request of the Chairman, such special studies for the Council as come within the functions herein assigned.
 - **(h)** For the purpose of conducting studies and making reports as directed by the Chairman, standing subcommittees and panels of the Council may be established.
+
+## Source Credit
+
+*([Pub. L. 94–282, title IV, § 401](https://www.govinfo.gov/link/plaw/94/public/282), May 11, 1976, [90 Stat. 471](https://www.govinfo.gov/link/statute/90/471); [Pub. L. 95–91, title III, § 301(a)](https://www.govinfo.gov/link/plaw/95/public/91), title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577](https://www.govinfo.gov/link/statute/91/577), 606, 607; [Pub. L. 95–113, title XIV, § 1406](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 986](https://www.govinfo.gov/link/statute/91/986); [Pub. L. 97–98, title XIV, § 1406(a)](https://www.govinfo.gov/link/plaw/97/public/98), (b), Dec. 22, 1981, [95 Stat. 1298](https://www.govinfo.gov/link/statute/95/1298); [Pub. L. 102–54, § 13(q)(11)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 281](https://www.govinfo.gov/link/statute/105/281); [Pub. L. 104–127, title VIII, § 851](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1171](https://www.govinfo.gov/link/statute/110/1171); [Pub. L. 117–328, div. FF, title II, § 2104(k)(3)(B)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5720](https://www.govinfo.gov/link/statute/136/5720).)*

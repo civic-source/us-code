@@ -3,9 +3,10 @@ title: "Section 195i - Chemical Security Analysis Center"
 usc_title: 6
 usc_section: "195i"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 195i"
-generated_at: "2026-03-30T02:53:09.450Z"
+generated_at: "2026-11-23T21:25:25.763Z"
+status: "active"
 ---
 
 # § 195i. Chemical Security Analysis Center
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:09.450Z"
 - **(d)** Nothing in this section amends, alters, or affects—
   - **(1)** the responsibilities of the Countering Weapons of Mass Destruction Office of the Department; or
   - **(2)** the activities or requirements authorized to other entities within the Federal Government, including the activities and requirements of the Environmental Protection Agency under section 7412(r) of title 42 , the Toxic Substances Control Act ( 15 U.S.C. 2601 et seq.), and the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (commonly referred to as “Superfund”; 42 U.S.C. 9601 et seq.).
+
+## Source Credit
+
+*([Pub. L. 107–296, title III, § 323](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 117–263, div. G, title LXXI, § 7106(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3624](https://www.govinfo.gov/link/statute/136/3624).)*

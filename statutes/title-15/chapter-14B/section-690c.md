@@ -3,9 +3,10 @@ title: "Section 690c - Selection of Renewable Fuel Capital Investment companies"
 usc_title: 15
 usc_section: "690c"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 690c"
-generated_at: "2026-03-30T02:54:08.112Z"
+generated_at: "2026-11-23T21:25:39.721Z"
+status: "active"
 ---
 
 # § 690c. Selection of Renewable Fuel Capital Investment companies
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:54:08.112Z"
     - **(A)** satisfies the requirements of subsection (d) on or before the expiration of the time period described in that subsection; and
     - **(B)** enters into a participation agreement with the Administrator; or
   - **(2)** if the applicant fails to satisfy the requirements of subsection (d) on or before the expiration of the time period described in paragraph (1) of that subsection, revoke the conditional approval granted under that subsection.
+
+## Source Credit
+
+*([Pub. L. 85–699, title III, § 384](https://www.govinfo.gov/link/plaw/85/public/699), as added [Pub. L. 110–140, title XII, § 1207](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1776](https://www.govinfo.gov/link/statute/121/1776).)*

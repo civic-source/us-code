@@ -3,9 +3,10 @@ title: "Section 8506 - Role of brown tree snake Technical Working Group"
 usc_title: 7
 usc_section: "8506"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 8506"
-generated_at: "2026-03-30T02:53:42.478Z"
+generated_at: "2026-11-23T21:25:28.477Z"
+status: "active"
 ---
 
 # § 8506. Role of brown tree snake Technical Working Group
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:53:42.478Z"
 - **(e)** The Secretaries shall ensure that adequate representation is afforded to the government of Guam in the Technical Working Group.
 - **(f)** To the maximum extent practicable, the Secretaries shall make adequate resources available to the Technical Working Group to ensure its efficient and effective operation. The Secretaries may provide staff to assist the Technical Working Group in carrying out its duties and functions.
 - **(g)** There is authorized to be appropriated to each of the Secretaries not more than $450,000 for each of the fiscal years 2006 through 2010 to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 108–384, § 7](https://www.govinfo.gov/link/plaw/108/public/384), Oct. 30, 2004, [118 Stat. 2224](https://www.govinfo.gov/link/statute/118/2224).)*

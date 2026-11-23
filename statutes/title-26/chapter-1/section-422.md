@@ -3,9 +3,10 @@ title: "Section 422 - Incentive stock options"
 usc_title: 26
 usc_section: "422"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 422"
-generated_at: "2026-03-30T02:55:27.692Z"
+generated_at: "2026-11-23T21:26:06.245Z"
+status: "active"
 ---
 
 # § 422. Incentive stock options
@@ -37,3 +38,15 @@ generated_at: "2026-03-30T02:55:27.692Z"
   - **(1)** To the extent that the aggregate fair market value of stock with respect to which incentive stock options (determined without regard to this subsection) are exercisable for the 1st time by any individual during any calendar year (under all plans of the individual’s employer corporation and its parent and subsidiary corporations) exceeds $100,000, such options shall be treated as options which are not incentive stock options.
   - **(2)** Paragraph (1) shall be applied by taking options into account in the order in which they were granted.
   - **(3)** For purposes of paragraph (1), the fair market value of any stock shall be determined as of the time the option with respect to such stock is granted.
+
+Options to which section applies.—
+
+In general.—
+
+Election and designation of options.—
+
+Changes in terms of options.—
+
+## Source Credit
+
+*(Added [Pub. L. 97–34, title II, § 251(a)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 256](https://www.govinfo.gov/link/statute/95/256), § 422A; amended [Pub. L. 97–448, title I, § 102(j)(1)](https://www.govinfo.gov/link/plaw/97/public/448) –(4), Jan. 12, 1983, [96 Stat. 2373](https://www.govinfo.gov/link/statute/96/2373); [Pub. L. 98–369, div. A, title V, § 555(a)(1)](https://www.govinfo.gov/link/plaw/98/public/369), div. B, title VI, § 2662(f)(1), July 18, 1984, [98 Stat. 897](https://www.govinfo.gov/link/statute/98/897), 1159; [Pub. L. 99–514, title III, § 321(a)](https://www.govinfo.gov/link/plaw/99/public/514), (b), title XVIII, § 1847(b)(5), Oct. 22, 1986, [100 Stat. 2220](https://www.govinfo.gov/link/statute/100/2220), 2856; [Pub. L. 100–647, title I, § 1003(d)(1)(A)](https://www.govinfo.gov/link/plaw/100/public/647), (2), Nov. 10, 1988, [102 Stat. 3384](https://www.govinfo.gov/link/statute/102/3384); renumbered § 422 and amended [Pub. L. 101–508, title XI, § 11801(c)(9)(A)(i)](https://www.govinfo.gov/link/plaw/101/public/508), (C), Nov. 5, 1990, [104 Stat. 1388–524](https://www.govinfo.gov/link/statute/104/1388), 1388–525; [Pub. L. 115–97, title I, § 13603(c)(1)(A)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2163](https://www.govinfo.gov/link/statute/131/2163).)*

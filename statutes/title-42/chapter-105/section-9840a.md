@@ -3,9 +3,10 @@ title: "Section 9840a - Early Head Start programs"
 usc_title: 42
 usc_section: "9840a"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9840a"
-generated_at: "2026-03-30T02:56:11.369Z"
+generated_at: "2026-11-23T21:26:33.298Z"
+status: "active"
 ---
 
 # § 9840a. Early Head Start programs
@@ -62,3 +63,13 @@ generated_at: "2026-03-30T02:56:11.369Z"
     - **(E)** ascertaining what health and developmental services the family receives and working with providers of these services to eliminate gaps in service by offering annual health, vision, hearing, and developmental screening for children from birth to entry into kindergarten, when needed;
     - **(F)** strategies for helping families coping with crisis; and
     - **(G)** the relationship of health and well-being of pregnant women to prenatal and early child development.
+
+(aa) Providing support and program planning and implementation assistance for new Early Head Start agencies, including for agencies who want to use funds as described in section 9840(a)(5) of this title to serve infants and toddlers.
+
+(bb) Creating special training and technical assistance initiatives targeted to serving high-risk populations, such as children in the child welfare system and homeless children.
+
+(cc) Providing professional development designed to increase program participation for underserved populations of eligible children.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 645A](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 103–252, title I, § 112(a)](https://www.govinfo.gov/link/plaw/103/public/252), May 18, 1994, [108 Stat. 638](https://www.govinfo.gov/link/statute/108/638); amended [Pub. L. 105–285, title I, § 113](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2719](https://www.govinfo.gov/link/statute/112/2719); [Pub. L. 110–134, § 15](https://www.govinfo.gov/link/plaw/110/public/134), Dec. 12, 2007, [121 Stat. 1418](https://www.govinfo.gov/link/statute/121/1418).)*

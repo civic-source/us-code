@@ -3,9 +3,10 @@ title: "Section 1144 - Employment assistance, job training assistance, and other
 usc_title: 10
 usc_section: "1144"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1144"
-generated_at: "2026-03-30T02:53:38.111Z"
+generated_at: "2026-11-23T21:25:32.432Z"
+status: "active"
 ---
 
 # § 1144. Employment assistance, job training assistance, and other transitional services: Department of Labor
@@ -58,3 +59,125 @@ generated_at: "2026-03-30T02:53:38.111Z"
   - **(2)** The Secretary concerned may permit a member to attend training and instruction under the program established under this section—
     - **(A)** before the time periods established under section 1142(a)(3) of this title ;
     - **(B)** in addition to such training and instruction required during such time periods.
+
+In General
+
+Elements of Program
+
+Participation
+
+Use of Personnel and Organizations
+
+Participation in Apprenticeship Programs
+
+Program Contents
+
+Authority
+
+Voluntary basis
+
+Curriculum
+
+Counseling
+
+Locations
+
+Report
+
+Termination
+
+Definitions
+
+Establishment
+
+Data Sources
+
+Availability; Accessibility
+
+Assessments.—
+
+Interim assessments
+
+Final assessment
+
+Purpose
+
+Briefing
+
+Definitions
+
+Additional Information Required.—
+
+In general
+
+Elements
+
+Consultation
+
+Availability of Higher Education Component Online
+
+Definitions
+
+Procedures Required
+
+Covered Information
+
+Consent
+
+Use of Information
+
+Report.—
+
+In general
+
+Contents
+
+Provision of Off-base Transition Training
+
+Eligible Individuals
+
+Locations.—
+
+Number of locations
+
+Selection of states with high unemployment
+
+Number of locations in each state
+
+Selection of locations
+
+Preferences
+
+Covered public health emergency defined
+
+Inclusion of Information About Veterans Benefits
+
+Annual Report
+
+Study on Equivalence Required.—
+
+In general
+
+Cooperation of federal agencies
+
+Report
+
+Transmittal to congress
+
+Appropriate committees of congress defined
+
+Publication
+
+Individualized Assessment of Civilian Positions Available Through Military Experiences
+
+Further Use in Employment-related Transition Assistance.—
+
+Transmittal of assessment
+
+Use in assistance
+
+Effective Date
+
+## Source Credit
+
+*(Added [Pub. L. 101–510, div. A, title V, § 502(a)(1)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1553](https://www.govinfo.gov/link/statute/104/1553); amended [Pub. L. 102–190, div. A, title X, § 1061(a)(6)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1472](https://www.govinfo.gov/link/statute/105/1472); [Pub. L. 102–484, div. D, title XLIV](https://www.govinfo.gov/link/plaw/102/public/484), §§ 4462(c), 4469, Oct. 23, 1992, [106 Stat. 2740](https://www.govinfo.gov/link/statute/106/2740), 2752; [Pub. L. 103–337, div. A, title V, § 543(b)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2769](https://www.govinfo.gov/link/statute/108/2769); [Pub. L. 107–103, title III, § 302(b)](https://www.govinfo.gov/link/plaw/107/public/103), Dec. 27, 2001, [115 Stat. 992](https://www.govinfo.gov/link/statute/115/992); [Pub. L. 107–107, div. A, title X, § 1048(e)(1)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1227](https://www.govinfo.gov/link/statute/115/1227); [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 112–56, title II](https://www.govinfo.gov/link/plaw/112/public/56), §§ 221(a), 224, 225, Nov. 21, 2011, [125 Stat. 715](https://www.govinfo.gov/link/statute/125/715), 718; [Pub. L. 113–66, div. A, title V, § 521(a)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 755](https://www.govinfo.gov/link/statute/127/755); [Pub. L. 114–92, div. A, title V, § 553](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 823](https://www.govinfo.gov/link/statute/129/823); [Pub. L. 114–328, div. A, title V](https://www.govinfo.gov/link/plaw/114/public/328), §§ 563, 564(a), Dec. 23, 2016, [130 Stat. 2138](https://www.govinfo.gov/link/statute/130/2138); [Pub. L. 115–232, div. A, title V](https://www.govinfo.gov/link/plaw/115/public/232), §§ 552(b)(1), 553(b)(1), Aug. 13, 2018, [132 Stat. 1770](https://www.govinfo.gov/link/statute/132/1770), 1772; [Pub. L. 117–328, div. U, title II, § 212](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5453](https://www.govinfo.gov/link/statute/136/5453).)*

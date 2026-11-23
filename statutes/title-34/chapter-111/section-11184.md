@@ -3,9 +3,10 @@ title: "Section 11184 - Use of funds"
 usc_title: 34
 usc_section: "11184"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 11184"
-generated_at: "2026-03-30T02:55:33.278Z"
+generated_at: "2026-11-23T21:26:09.703Z"
+status: "active"
 ---
 
 # § 11184. Use of funds
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:33.278Z"
   - **(3)** in a case involving a provider located in a State that is different from the State where the order for placement originates, the chief administrative officer of the public agency or the officer of the court placing the juvenile certifies that such provider—
     - **(A)** satisfies the originating State’s explicit licensing standards of discipline that prohibit neglect, physical and mental abuse, and standards for education and health care as defined by that State’s law; and
     - **(B)** otherwise complies with the Interstate Compact on the Placement of Children as entered into by such other State.
+
+## Source Credit
+
+*([Pub. L. 93–415, title II, § 299C](https://www.govinfo.gov/link/plaw/93/public/415), formerly § 294, as added [Pub. L. 100–690, title VII, § 7266(4)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4449](https://www.govinfo.gov/link/statute/102/4449); renumbered § 299C, [Pub. L. 102–586, § 2(i)(1)(B)](https://www.govinfo.gov/link/plaw/102/public/586), Nov. 4, 1992, [106 Stat. 5006](https://www.govinfo.gov/link/statute/106/5006); [Pub. L. 107–273, div. C, title II, § 12215](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1892](https://www.govinfo.gov/link/statute/116/1892).)*

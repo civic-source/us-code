@@ -3,9 +3,10 @@ title: "Section 44513 - Regional centers of air transportation excellence"
 usc_title: 49
 usc_section: "44513"
 chapter: 445
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44513"
-generated_at: "2026-03-30T02:56:19.381Z"
+generated_at: "2026-11-23T21:26:40.888Z"
+status: "active"
 ---
 
 # § 44513. Regional centers of air transportation excellence
@@ -38,3 +39,68 @@ generated_at: "2026-03-30T02:56:19.381Z"
   - **(2)** the amount of funding for each research project and the funding source;
   - **(3)** the institutions participating in each research project and their shares of the overall funding for each research project; and
   - **(4)** the level of cost-sharing for each research project.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44513 | 49 App.:1353(i). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 312(i); added Nov. 5, 1990 , Pub. L. 101–508, § 9209(a) , 104 Stat. 1388–376 . |
+
+
+General Authority
+
+Responsibilities
+
+Applications
+
+Selection Criteria
+
+Expenditure Agreements
+
+Government’s Share of Costs
+
+Allocating Amounts
+
+Annual Report
+
+Historical and Revision Notes
+
+44513
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 9209(a)
+
+104 Stat. 1388–376
+
+In General
+
+Duties
+
+Avoiding Duplication of Work
+
+Member Prioritization.—
+
+In general
+
+Representation
+
+Disclosure
+
+Transparency
+
+Coordination
+
+Authorization of Appropriations
+
+Establishment
+
+Activities
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1182](https://www.govinfo.gov/link/statute/108/1182); [Pub. L. 112–95, title IX, § 907](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 140](https://www.govinfo.gov/link/statute/126/140).)*

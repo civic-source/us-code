@@ -3,9 +3,10 @@ title: "Section 1904 - Advisory Board on Women at the Coast Guard Academy"
 usc_title: 14
 usc_section: "1904"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 1904"
-generated_at: "2026-03-30T02:53:51.496Z"
+generated_at: "2026-11-23T21:25:35.405Z"
+status: "active"
 ---
 
 # § 1904. Advisory Board on Women at the Coast Guard Academy
@@ -18,3 +19,23 @@ generated_at: "2026-03-30T02:53:51.496Z"
 - **(f)** The Advisory Board shall identify opportunities and challenges facing cadets at the Academy who are women, including an assessment of culture, leadership development, and access to health care of cadets at the Academy who are women.
 - **(g)** The Advisory Board may establish one or more working groups to assist the Advisory Board in carrying out its duties, including working groups composed in part of cadets at the Academy who are not current members of the Advisory Board.
 - **(h)** The Advisory Board shall regularly provide the Commandant and the Superintendent reports and briefings on the results of its duties, including recommendations for actions to be taken in light of such results. Such reports and briefings may be provided in writing, in person, or both.
+
+In General
+
+Membership
+
+Appointment; Term
+
+Reappointment
+
+Meetings
+
+Duties
+
+Working Groups
+
+Reports and Briefings
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. G, title LVXXXII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXII], § 8215(b)(2), Jan. 1, 2021, [134 Stat. 4651](https://www.govinfo.gov/link/statute/134/4651).)*

@@ -3,12 +3,17 @@ title: "Section 28a - Compilation of the Precedents of House of Representatives;
 usc_title: 2
 usc_section: "28a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 28a"
-generated_at: "2026-03-30T02:53:04.785Z"
+generated_at: "2026-11-23T21:25:21.109Z"
+status: "active"
 ---
 
 # § 28a. Compilation of the Precedents of House of Representatives; date of completion; biennial update; printing and availability of copies
 
 The Speaker is authorized and directed to complete the Compilation of the Precedents of the House of Representatives by January 1, 1977 , and prepare an updated compilation of such precedents every two years thereafter. Copies of the Compilation of Precedents shall be printed in sufficient quantity to be available to every Member and the standing committees of the House of Representatives.
 
+
+## Source Credit
+
+*([Pub. L. 93–554, title I](https://www.govinfo.gov/link/plaw/93/public/554), ch. III, Dec. 27, 1974, [88 Stat. 1777](https://www.govinfo.gov/link/statute/88/1777).)*

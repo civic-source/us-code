@@ -3,9 +3,10 @@ title: "Section 576 - Information to be furnished to selection boards; selection
 usc_title: 10
 usc_section: "576"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 576"
-generated_at: "2026-03-30T02:53:38.066Z"
+generated_at: "2026-11-23T21:25:32.289Z"
+status: "active"
 ---
 
 # § 576. Information to be furnished to selection boards; selection procedures
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:38.066Z"
 - **(f)**
   - **(1)** Upon receipt of the report of a selection board submitted to him under subsection (e), the Secretary concerned shall review the report to determine whether the board has acted contrary to law or regulation or to guidelines furnished the board under this section.
   - **(2)** If, on the basis of a review of the report under paragraph (1), the Secretary concerned determines that the board acted contrary to law or regulation or to guidelines furnished the board under this section, the Secretary shall return the report, together with a written explanation of the basis for such determination, to the board for further proceedings. Upon receipt of a report returned by the Secretary concerned under this paragraph, the selection board (or a subsequent selection board convened under section 573 of this title for the same grade and competitive category) shall conduct such proceedings as may be necessary in order to revise the report to be consistent with law, regulation, and such guidelines and shall resubmit the report, as revised, to the Secretary in accordance with subsection (e).
+
+## Source Credit
+
+*(Added [Pub. L. 102–190, div. A, title XI, § 1112(a)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1496](https://www.govinfo.gov/link/statute/105/1496); amended [Pub. L. 103–337, div. A, title V](https://www.govinfo.gov/link/plaw/103/public/337), §§ 501(b), 541(b)(4), Oct. 5, 1994, [108 Stat. 2748](https://www.govinfo.gov/link/statute/108/2748), 2764; [Pub. L. 117–263, div. A, title V, § 508(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2560](https://www.govinfo.gov/link/statute/136/2560).)*

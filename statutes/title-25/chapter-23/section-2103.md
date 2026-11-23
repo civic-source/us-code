@@ -3,9 +3,10 @@ title: "Section 2103 - Secretary’s determination on Minerals Agreements"
 usc_title: 25
 usc_section: "2103"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2103"
-generated_at: "2026-03-30T02:54:52.835Z"
+generated_at: "2026-11-23T21:25:54.657Z"
+status: "active"
 ---
 
 # § 2103. Secretary’s determination on Minerals Agreements
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:52.835Z"
 - **(c)** Not later than thirty days prior to formal approval or disapproval of any Minerals Agreement, the Secretary shall provide written findings forming the basis of his intent to approve or disapprove such agreement to the affected Indian tribe. Notwithstanding any other law, such findings and all projections, studies, data or other information possessed by the Department of the Interior regarding the terms and conditions of the Minerals Agreement, the financial return to the Indian parties thereto, or the extent, nature, value or disposition of the Indian mineral resources, or the production, products or proceeds thereof, shall be held by the Department of the Interior as privileged proprietary information of the affected Indian or Indian tribe.
 - **(d)** The authority to disapprove agreements under this section may only be delegated to the Assistant Secretary of the Interior for Indian Affairs. The decision of the Secretary or, where authority is delegated, of the Assistant Secretary of the Interior for Indian Affairs, to disapprove a Minerals Agreement shall be deemed a final agency action. The district courts of the United States shall have jurisdiction to review the Secretary’s disapproval action and shall determine the matter de novo. The burden is on the Secretary to sustain his action.
 - **(e)** Where the Secretary has approved a Minerals Agreement in compliance with the provisions of this chapter and any other applicable provision of law, the United States shall not be liable for losses sustained by a tribe or individual Indian under such agreement: Provided , That the Secretary shall continue to have a trust obligation to ensure that the rights of a tribe or individual Indian are protected in the event of a violation of the terms of any Minerals Agreement by any other party to such agreement: Provided further , That nothing in this chapter shall absolve the United States from any responsibility to Indians, including those which derive from the trust relationship and from any treaties, Executive orders, or agreement between the United States and any Indian tribe.
+
+## Source Credit
+
+*([Pub. L. 97–382, § 4](https://www.govinfo.gov/link/plaw/97/public/382), Dec. 22, 1982, [96 Stat. 1938](https://www.govinfo.gov/link/statute/96/1938).)*

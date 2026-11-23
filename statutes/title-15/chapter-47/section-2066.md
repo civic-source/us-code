@@ -3,9 +3,10 @@ title: "Section 2066 - Imported products"
 usc_title: 15
 usc_section: "2066"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2066"
-generated_at: "2026-03-30T02:54:08.164Z"
+generated_at: "2026-11-23T21:25:39.908Z"
+status: "active"
 ---
 
 # § 2066. Imported products
@@ -26,3 +27,37 @@ generated_at: "2026-03-30T02:54:08.164Z"
   - **(1)** The Commission shall establish and maintain a permanent product surveillance program, in cooperation with other appropriate Federal agencies, for the purpose of carrying out the Commission’s responsibilities under this chapter and the other Acts administered by the Commission and preventing the entry of unsafe consumer products into the commerce of the United States.
   - **(2)** The Commission may provide to the agencies with which it is cooperating under paragraph (1) such information, data, violator lists, test results, and other support, guidance, and documents as may be necessary or helpful for such agencies to cooperate with the Commission to carry out the product surveillance program under paragraph (1).
   - **(3)** The Commission shall periodically report to the appropriate Congressional committees the results of the surveillance program under paragraph (1).
+
+Appropriation
+
+Purposes
+
+Definitions
+
+CPSC Surveillance Personnel During the COVID–
+
+Pandemic
+
+Additional CPSC Surveillance Personnel at Key Ports of Entry
+
+Report to Congress.—
+
+In general
+
+Report requirements
+
+Definitions
+
+Savings Clause
+
+Risk Assessment Methodology
+
+Use of International Trade Data System and Other Databases
+
+Cooperation With U.S. Customs and Border Protection
+
+Report to Congress
+
+## Source Credit
+
+*([Pub. L. 92–573, § 17](https://www.govinfo.gov/link/plaw/92/public/573), Oct. 27, 1972, [86 Stat. 1223](https://www.govinfo.gov/link/statute/86/1223); [Pub. L. 100–418, title I, § 1214(d)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1156](https://www.govinfo.gov/link/statute/102/1156); [Pub. L. 101–608, title I, § 114](https://www.govinfo.gov/link/plaw/101/public/608), Nov. 16, 1990, [104 Stat. 3118](https://www.govinfo.gov/link/statute/104/3118); [Pub. L. 110–314, title II](https://www.govinfo.gov/link/plaw/110/public/314), §§ 216(b), 223(b), (c)(1), 235(c)(6), Aug. 14, 2008, [122 Stat. 3058](https://www.govinfo.gov/link/statute/122/3058), 3068, 3069, 3075.)*

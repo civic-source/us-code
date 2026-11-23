@@ -3,9 +3,10 @@ title: "Section 1856e - Reimbursement of fire funds"
 usc_title: 42
 usc_section: "1856e"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1856e"
-generated_at: "2026-03-30T02:56:11.124Z"
+generated_at: "2026-11-23T21:26:32.195Z"
+status: "active"
 ---
 
 # § 1856e. Reimbursement of fire funds
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.124Z"
 - **(c)** As a condition of seeking and providing reimbursement under subsection (b), the State seeking reimbursement and the State providing reimbursement must each have a mutual assistance agreement with the Forest Service or another Federal agency for providing and receiving wildfire management and suppression resources and services.
 - **(d)** The Secretary may prescribe the terms and conditions determined to be necessary to carry out subsection (b).
 - **(e)** Any acceptance of funds or reimbursements made by the Secretary before February 7, 2014 , that otherwise would have been authorized under this section shall be considered to have been made in accordance with this section.
+
+## Source Credit
+
+*([Pub. L. 113–79, title VIII, § 8304](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 924](https://www.govinfo.gov/link/statute/128/924).)*

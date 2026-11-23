@@ -3,9 +3,10 @@ title: "Section 4523 - Award authority"
 usc_title: 5
 usc_section: "4523"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 4523"
-generated_at: "2026-03-30T02:52:56.010Z"
+generated_at: "2026-11-23T21:25:23.195Z"
+status: "active"
 ---
 
 # § 4523. Award authority
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:52:56.010Z"
   - **(1)** procedures under which foreign language proficiency shall be ascertained;
   - **(2)** criteria for the selection of individuals for recognition under this section; and
   - **(3)** any other provisions which may be necessary to carry out the purposes of this subchapter.
+
+## Source Credit
+
+*(Added [Pub. L. 101–509, title V, § 529 [title IV, § 408(a)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1467.)*

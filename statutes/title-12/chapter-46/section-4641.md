@@ -3,9 +3,10 @@ title: "Section 4641 - Subpoena authority"
 usc_title: 12
 usc_section: "4641"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4641"
-generated_at: "2026-03-30T02:53:53.515Z"
+generated_at: "2026-11-23T21:25:37.207Z"
+status: "active"
 ---
 
 # § 4641. Subpoena authority
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:53.515Z"
   - **(2)** testify in court;
   - **(3)** answer any lawful inquiry; or
   - **(4)** produce books, papers, correspondence, contracts, agreements, or such other records as requested in the subpoena.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1379D](https://www.govinfo.gov/link/plaw/102/public/550), formerly § 1379B, Oct. 28, 1992, [106 Stat. 3994](https://www.govinfo.gov/link/statute/106/3994); renumbered § 1379D and amended [Pub. L. 110–289, div. A, title I](https://www.govinfo.gov/link/plaw/110/public/289), §§ 1153(a)(1), 1156(b)(4), 1158, July 30, 2008, [122 Stat. 2770](https://www.govinfo.gov/link/statute/122/2770), 2777, 2778.)*

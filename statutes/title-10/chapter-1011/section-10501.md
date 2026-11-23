@@ -3,12 +3,21 @@ title: "Section 10501 - National Guard Bureau"
 usc_title: 10
 usc_section: "10501"
 chapter: 1011
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 10501"
-generated_at: "2026-03-30T02:53:38.266Z"
+generated_at: "2026-11-23T21:25:33.027Z"
+status: "active"
 ---
 
 # § 10501. National Guard Bureau
 
 - **(a)** There is in the Department of Defense the National Guard Bureau, which is a joint activity of the Department of Defense.
 - **(b)** The National Guard Bureau is the channel of communications on all matters pertaining to the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States between (1) the Department of the Army and Department of the Air Force, and (2) the several States.
+
+National Guard Bureau
+
+Purposes
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title IX, § 904(a)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2824](https://www.govinfo.gov/link/statute/108/2824); amended [Pub. L. 110–181, div. A, title XVIII, § 1812(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 497](https://www.govinfo.gov/link/statute/122/497).)*

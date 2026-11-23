@@ -3,9 +3,10 @@ title: "Section 178 - The Henry M. Jackson Foundation for the Advancement of Mil
 usc_title: 10
 usc_section: "178"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 178"
-generated_at: "2026-03-30T02:53:38.044Z"
+generated_at: "2026-11-23T21:25:32.232Z"
+status: "active"
 ---
 
 # § 178. The Henry M. Jackson Foundation for the Advancement of Military Medicine
@@ -34,3 +35,11 @@ generated_at: "2026-03-30T02:53:38.044Z"
   - **(7)** charge such fees for professional services furnished by the Foundation as the Executive Director determines reasonable and appropriate.
 - **(h)** A person who is a full-time or part-time employee of the Foundation may not be an employee (full-time or part-time) of the Federal Government.
 - **(i)** The Council shall transmit to the President annually, and at such other times as the Council considers desirable, a report on the operations, activities, and accomplishments of the Foundation.
+
+In general
+
+Construction for current members
+
+## Source Credit
+
+*(Added [Pub. L. 98–36, § 2(a)](https://www.govinfo.gov/link/plaw/98/public/36), May 27, 1983, [97 Stat. 200](https://www.govinfo.gov/link/statute/97/200); amended [Pub. L. 98–132, § 2(a)(1)](https://www.govinfo.gov/link/plaw/98/public/132), Oct. 17, 1983, [97 Stat. 849](https://www.govinfo.gov/link/statute/97/849); [Pub. L. 101–189, div. A, title VII, § 726(b)(2)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1480](https://www.govinfo.gov/link/statute/103/1480); [Pub. L. 104–106, div. A, title XV, § 1502(a)(2)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 502](https://www.govinfo.gov/link/statute/110/502); [Pub. L. 106–65, div. A, title X, § 1067(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774); [Pub. L. 115–232, div. A, title VII, § 739](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1822](https://www.govinfo.gov/link/statute/132/1822); [Pub. L. 116–92, div. A, title VII, § 733(a)](https://www.govinfo.gov/link/plaw/116/public/92), (b), Dec. 20, 2019, [133 Stat. 1461](https://www.govinfo.gov/link/statute/133/1461).)*

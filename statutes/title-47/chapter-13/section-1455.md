@@ -3,9 +3,10 @@ title: "Section 1455 - Wireless facilities deployment"
 usc_title: 47
 usc_section: "1455"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1455"
-generated_at: "2026-03-30T02:56:24.535Z"
+generated_at: "2026-11-23T21:26:36.104Z"
+status: "active"
 ---
 
 # § 1455. Wireless facilities deployment
@@ -45,3 +46,11 @@ generated_at: "2026-03-30T02:56:24.535Z"
       - **(ii)** is designed to be operated, or is operating, from a fixed location pursuant to authorization by the Federal Communications Commission or is using duly authorized devices that do not require individual licenses; and
       - **(iii)** is added to a tower, building, or other structure.
   - **(2)** The term “executive agency” has the meaning given such term in section 102 of title 40 .
+
+Real property authorities
+
+Effect on other laws
+
+## Source Credit
+
+*([Pub. L. 112–96, title VI, § 6409](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 232](https://www.govinfo.gov/link/statute/126/232); [Pub. L. 115–141, div. P, title VI, § 606(a)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1101](https://www.govinfo.gov/link/statute/132/1101).)*

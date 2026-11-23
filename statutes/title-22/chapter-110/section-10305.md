@@ -3,9 +3,10 @@ title: "Section 10305 - Establishment and expansion of Regional Technology Offic
 usc_title: 22
 usc_section: "10305"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10305"
-generated_at: "2026-03-30T02:55:05.476Z"
+generated_at: "2026-11-23T21:25:58.796Z"
+status: "active"
 ---
 
 # § 10305. Establishment and expansion of Regional Technology Officer Program
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:05.476Z"
     - **(B)** the Bureau of International Organization Affairs.
 - **(c)** Not later than 180 days after December 23, 2022 , and annually thereafter for the following 5 years, the Secretary shall brief the appropriate congressional committees regarding the status of the implementation plan required under subsection (b).
 - **(d)** There is authorized to be appropriated up to $25,000,000 for each of the fiscal years 2023 through 2027 to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. I, title XCV, § 9508](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3906](https://www.govinfo.gov/link/statute/136/3906); [Pub. L. 118–159, div. G, title LXXIII, § 7301](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2541](https://www.govinfo.gov/link/statute/138/2541).)*

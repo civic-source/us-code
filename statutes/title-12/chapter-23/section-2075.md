@@ -3,9 +3,10 @@ title: "Section 2075 - Short- and intermediate-term loans; participation; other 
 usc_title: 12
 usc_section: "2075"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2075"
-generated_at: "2026-03-30T02:53:53.471Z"
+generated_at: "2026-11-23T21:25:37.052Z"
+status: "active"
 ---
 
 # § 2075. Short- and intermediate-term loans; participation; other financial assistance; terms; conditions; interest; security
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:53.471Z"
   - **(2)** In setting rates and charges, it shall be the objective to provide the types of credit needed by eligible borrowers, at the lowest reasonable cost on a sound business basis, taking into account the cost of money to the association, necessary reserves and expenses of the association, and services provided to borrowers and members.
   - **(3)** The loan documents may provide for the interest rate or rates to vary from time to time during the repayment period of the loan in accordance with the rate or rates currently being charged by the association.
   - **(4)** Such standards may require prior approval of the bank on certain classes of loans, and may authorize a continuing commitment to a borrower of a line of credit.
+
+## Source Credit
+
+*([Pub. L. 92–181, title II, § 2](https://www.govinfo.gov/link/plaw/92/public/181).4, as added [Pub. L. 100–233, title IV, § 401](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1632](https://www.govinfo.gov/link/statute/101/1632); amended [Pub. L. 100–399, title IV, § 401(p)](https://www.govinfo.gov/link/plaw/100/public/399), (q), Aug. 17, 1988, [102 Stat. 997](https://www.govinfo.gov/link/statute/102/997); [Pub. L. 101–624, title XVIII, § 1832(b)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3832](https://www.govinfo.gov/link/statute/104/3832); [Pub. L. 115–334, title V, § 5411(3)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4679](https://www.govinfo.gov/link/statute/132/4679).)*

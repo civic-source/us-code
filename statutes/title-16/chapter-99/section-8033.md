@@ -3,9 +3,10 @@ title: "Section 8033 - Reports"
 usc_title: 16
 usc_section: "8033"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8033"
-generated_at: "2026-03-30T02:54:23.081Z"
+generated_at: "2026-11-23T21:25:52.073Z"
+status: "active"
 ---
 
 # § 8033. Reports
@@ -29,3 +30,7 @@ Not later than 5 years after the submission of the 5-year integrated strategic p
   - **(7)** an assessment of the capacity of priority flag states to track the movement of and police their fleet, prevent their flagged vessels from engaging in IUU fishing, and enforce applicable laws and regulations;
   - **(8)** an assessment of the extent of involvement in IUU fishing of organizations designated as foreign terrorist organizations under section 1189 of title 8 ; and
   - **(9)** the status of work with global enforcement partners.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. C, title XXXV, § 3553](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2007](https://www.govinfo.gov/link/statute/133/2007); [Pub. L. 117–263, div. K, title CXIII, § 11339(c)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4105](https://www.govinfo.gov/link/statute/136/4105).)*

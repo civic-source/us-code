@@ -3,9 +3,10 @@ title: "Section 217 - Repealed. July 3, 1926, ch. 772, § 4 , 44 Stat. 887"
 usc_title: 22
 usc_section: "217"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 217"
-generated_at: "2026-03-30T02:55:05.303Z"
+generated_at: "2026-11-23T21:25:58.317Z"
+status: "repealed"
 ---
 
 # § 217. Repealed. July 3, 1926, ch. 772, § 4 , 44 Stat. 887

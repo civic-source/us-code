@@ -3,9 +3,10 @@ title: "Section 5234 - Cooperator organizations"
 usc_title: 7
 usc_section: "5234"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 5234"
-generated_at: "2026-03-30T02:53:42.413Z"
+generated_at: "2026-11-23T21:25:28.358Z"
+status: "active"
 ---
 
 # § 5234. Cooperator organizations
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:42.413Z"
 - **(c)** Commodities made available to cooperator organizations under this section shall be in addition to, and not in lieu of, funds appropriated for market development activities of such cooperator organizations.
 - **(d)** The Secretary shall take appropriate action to prevent conflicts of interest among cooperator organizations participating in the cooperator program.
 - **(e)** It is the sense of Congress that the Secretary should establish a consistent, objective means for the evaluation of cooperator programs.
+
+## Source Credit
+
+*([Pub. L. 100–418, title IV, § 4214](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1394](https://www.govinfo.gov/link/statute/102/1394).)*

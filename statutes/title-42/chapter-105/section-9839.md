@@ -3,9 +3,10 @@ title: "Section 9839 - Administrative requirements and standards"
 usc_title: 42
 usc_section: "9839"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9839"
-generated_at: "2026-03-30T02:56:11.369Z"
+generated_at: "2026-11-23T21:26:33.296Z"
+status: "active"
 ---
 
 # § 9839. Administrative requirements and standards
@@ -50,3 +51,15 @@ generated_at: "2026-03-30T02:56:11.369Z"
     - **(C)** purchase of vehicles used for programs conducted at the Head Start facilities.
   - **(3)** All laborers and mechanics employed by contractors or subcontractors in the construction or renovation of facilities to be used to carry out Head Start programs shall be paid wages at not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40.
 - **(h)** In all personnel actions of the American Indian Programs Branch of the Head Start Bureau of the Administration for Children and Families, the Secretary shall give the same preference to individuals who are members of an Indian tribe as the Secretary gives to a disabled veteran, as defined in section 2108(3)(C) of title 5 . The Secretary shall take such additional actions as may be necessary to promote recruitment of such individuals for employment in the Administration.
+
+Study
+
+Report.—
+
+Preparation
+
+Submission
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 644](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 502](https://www.govinfo.gov/link/statute/95/502); [Pub. L. 101–501, title I](https://www.govinfo.gov/link/plaw/101/public/501), §§ 111, 112, Nov. 3, 1990, [104 Stat. 1231](https://www.govinfo.gov/link/statute/104/1231); [Pub. L. 102–401, § 2(j)](https://www.govinfo.gov/link/plaw/102/public/401), Oct. 7, 1992, [106 Stat. 1958](https://www.govinfo.gov/link/statute/106/1958); [Pub. L. 103–218, title IV, § 403](https://www.govinfo.gov/link/plaw/103/public/218), Mar. 9, 1994, [108 Stat. 96](https://www.govinfo.gov/link/statute/108/96); [Pub. L. 103–252, title I, § 110](https://www.govinfo.gov/link/plaw/103/public/252), May 18, 1994, [108 Stat. 636](https://www.govinfo.gov/link/statute/108/636); [Pub. L. 105–285, title I, § 106(e)](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2712](https://www.govinfo.gov/link/statute/112/2712); [Pub. L. 110–134, § 13](https://www.govinfo.gov/link/plaw/110/public/134), Dec. 12, 2007, [121 Stat. 1414](https://www.govinfo.gov/link/statute/121/1414).)*

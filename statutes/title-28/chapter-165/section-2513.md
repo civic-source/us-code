@@ -3,9 +3,10 @@ title: "Section 2513 - Unjust conviction and imprisonment"
 usc_title: 28
 usc_section: "2513"
 chapter: 165
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 2513"
-generated_at: "2026-03-30T02:55:30.150Z"
+generated_at: "2026-11-23T21:26:01.135Z"
+status: "active"
 ---
 
 # § 2513. Unjust conviction and imprisonment
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:30.150Z"
 - **(c)** No pardon or certified copy of a pardon shall be considered by the United States Court of Federal Claims unless it contains recitals that the pardon was granted after applicant had exhausted all recourse to the courts and that the time for any court to exercise its jurisdiction had expired.
 - **(d)** The Court may permit the plaintiff to prosecute such action in forma pauperis.
 - **(e)** The amount of damages awarded shall not exceed $100,000 for each 12-month period of incarceration for any plaintiff who was unjustly sentenced to death and $50,000 for each 12-month period of incarceration for any other plaintiff.
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 978](https://www.govinfo.gov/link/statute/62/978); Sept. 3, 1954, ch. 1263, § 56, [68 Stat. 1247](https://www.govinfo.gov/link/statute/68/1247); [Pub. L. 97–164, title I, § 139(j)(2)](https://www.govinfo.gov/link/plaw/97/public/164), Apr. 2, 1982, [96 Stat. 43](https://www.govinfo.gov/link/statute/96/43); [Pub. L. 102–572, title IX, § 902(a)(1)](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4516](https://www.govinfo.gov/link/statute/106/4516); [Pub. L. 108–405, title IV, § 431](https://www.govinfo.gov/link/plaw/108/public/405), Oct. 30, 2004, [118 Stat. 2293](https://www.govinfo.gov/link/statute/118/2293).)*

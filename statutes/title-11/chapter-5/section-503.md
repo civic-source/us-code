@@ -3,9 +3,10 @@ title: "Section 503 - Allowance of administrative expenses"
 usc_title: 11
 usc_section: "503"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 503"
-generated_at: "2026-03-30T02:53:53.876Z"
+generated_at: "2026-11-23T21:25:34.907Z"
+status: "active"
 ---
 
 # § 503. Allowance of administrative expenses
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:53:53.876Z"
     - **(A)** the payment is part of a program that is generally applicable to all full-time employees; and
     - **(B)** the amount of the payment is not greater than 10 times the amount of the mean severance pay given to nonmanagement employees during the calendar year in which the payment is made; or
   - **(3)** other transfers or obligations that are outside the ordinary course of business and not justified by the facts and circumstances of the case, including transfers made to, or obligations incurred for the benefit of, officers, managers, or consultants hired after the date of the filing of the petition.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2581](https://www.govinfo.gov/link/statute/92/2581); [Pub. L. 98–353, title III, § 446](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 374](https://www.govinfo.gov/link/statute/98/374); [Pub. L. 99–554, title II, § 283(g)](https://www.govinfo.gov/link/plaw/99/public/554), Oct. 27, 1986, [100 Stat. 3117](https://www.govinfo.gov/link/statute/100/3117); [Pub. L. 103–394, title I, § 110](https://www.govinfo.gov/link/plaw/103/public/394), title II, § 213(c), title III, § 304(h)(2), Oct. 22, 1994, [108 Stat. 4113](https://www.govinfo.gov/link/statute/108/4113), 4126, 4134; [Pub. L. 109–8, title III](https://www.govinfo.gov/link/plaw/109/public/8), §§ 329, 331, title IV, § 445, title VII, § 712(b), (c), title XI, § 1103, title XII, §§ 1208, 1227(b), Apr. 20, 2005, [119 Stat. 101](https://www.govinfo.gov/link/statute/119/101), 102, 117, 128, 190, 194, 200; [Pub. L. 116–260, div. N, title III, § 320(b)](https://www.govinfo.gov/link/plaw/116/public/260), (f)(2)(A)(ii), Dec. 27, 2020, [134 Stat. 2015](https://www.govinfo.gov/link/statute/134/2015), 2016.)*

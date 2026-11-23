@@ -3,9 +3,10 @@ title: "Section 8702 - Definitions"
 usc_title: 15
 usc_section: "8702"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8702"
-generated_at: "2026-03-30T02:54:08.232Z"
+generated_at: "2026-11-23T21:25:40.091Z"
+status: "active"
 ---
 
 # § 8702. Definitions
@@ -33,3 +34,7 @@ For the purposes of this chapter:
   - **(17)** The term “research” means studies testing the effectiveness of market development and promotion efforts, studies relating to the improvement of concrete masonry products and new product development, and studies documenting the performance of concrete masonry.
   - **(18)** The term “Secretary” means the Secretary of Commerce.
   - **(19)** The term “United States” means the several States and the District of Columbia.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. E, § 1303](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3469](https://www.govinfo.gov/link/statute/132/3469).)*

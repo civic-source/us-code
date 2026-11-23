@@ -3,9 +3,10 @@ title: "Section 805 - Local assistance and Tribal consistency fund"
 usc_title: 42
 usc_section: "805"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 805"
-generated_at: "2026-03-30T02:56:10.898Z"
+generated_at: "2026-11-23T21:26:31.197Z"
+status: "active"
 ---
 
 # § 805. Local assistance and Tribal consistency fund
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:10.898Z"
     - **(B)** The amounts described in this subparagraph are the following:
       - **(i)** Any amount allocated to an eligible revenue sharing county under subsection (b)(1) for fiscal year 2022 or 2023 that, as of January 31, 2023 , has not been requested by such county.
       - **(ii)** Amounts made available to the Secretary under section 102(d)(4) of the State, Local, Tribal, and Territorial Fiscal Recovery, Infrastructure, and Disaster Relief Flexibility Act.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title VI, § 605, as added [Pub. L. 117–2, title IX, § 9901(a)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 234](https://www.govinfo.gov/link/statute/135/234); amended [Pub. L. 117–328, div. LL, § 103](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 6104](https://www.govinfo.gov/link/statute/136/6104).)*

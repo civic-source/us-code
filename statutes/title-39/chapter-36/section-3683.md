@@ -3,9 +3,10 @@ title: "Section 3683 - Uniform rates for books; films; other materials"
 usc_title: 39
 usc_section: "3683"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 3683"
-generated_at: "2026-03-30T02:55:43.695Z"
+generated_at: "2026-11-23T21:26:12.796Z"
+status: "active"
 ---
 
 # § 3683. Uniform rates for books; films; other materials
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:43.695Z"
     - **(B)** an institution, organization, or association referred to in subparagraph (A) and any individual (other than an individual having a financial interest in the sale, promotion, or distribution of the materials involved);
     - **(C)** an institution, organization, or association referred to in subparagraph (A) and a qualified nonprofit organization (as defined in former section 4452(d) of this title ) that is not such an institution, organization, or association; or
     - **(D)** an institution, organization, or association referred to in subparagraph (A) and a publisher, if such institution, organization, or association has placed an order to purchase such materials for delivery to such institution, organization, or association.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 765](https://www.govinfo.gov/link/statute/84/765); [Pub. L. 94–421, § 12](https://www.govinfo.gov/link/plaw/94/public/421), Sept. 24, 1976, [90 Stat. 1312](https://www.govinfo.gov/link/statute/90/1312); [Pub. L. 103–123, title VII, § 706(a)](https://www.govinfo.gov/link/plaw/103/public/123), Oct. 28, 1993, [107 Stat. 1272](https://www.govinfo.gov/link/statute/107/1272).)*

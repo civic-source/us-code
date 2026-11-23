@@ -3,9 +3,10 @@ title: "Section 387s - User fees"
 usc_title: 21
 usc_section: "387s"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 387s"
-generated_at: "2026-03-30T02:54:54.282Z"
+generated_at: "2026-11-23T21:25:56.190Z"
+status: "active"
 ---
 
 # § 387s. User fees
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:54:54.282Z"
   - **(1)** The Secretary shall determine the fees that would apply for a single quarter of such fiscal year according to the application of subsection (b) to the amount specified in paragraph (1)(A) of such subsection (referred to in this subsection as the “quarterly fee amounts”).
   - **(2)** For the quarter in which such date of enactment occurs, the amount of fees assessed shall be a pro rata amount, determined according to the number of days remaining in the quarter (including such date of enactment) and according to the daily equivalent of the quarterly fee amounts. Fees assessed under the preceding sentence shall not be collected until the next quarter.
   - **(3)** For the quarter following the quarter to which paragraph (2) applies, the full quarterly fee amounts shall be assessed and collected, in addition to collection of the pro rata fees assessed under paragraph (2).
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 919, as added [Pub. L. 111–31, div. A, title I, § 101(b)(3)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1826](https://www.govinfo.gov/link/statute/123/1826).)*

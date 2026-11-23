@@ -3,9 +3,10 @@ title: "Section 1068b - Application review process"
 usc_title: 20
 usc_section: "1068b"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1068b"
-generated_at: "2026-03-30T02:54:48.103Z"
+generated_at: "2026-11-23T21:25:47.051Z"
+status: "active"
 ---
 
 # § 1068b. Application review process
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:48.103Z"
   - **(2)** the recommendations of the panel with respect to such application; and
   - **(3)** the reasons for the decision of the Secretary in awarding or refusing to award a grant under this subchapter, and any modifications, if any, in the recommendations of the panel made by the Secretary.
 - **(d)** The provisions of this section shall not apply to applications submitted under part D.
+
+## Source Credit
+
+*([Pub. L. 89–329, title III, § 393](https://www.govinfo.gov/link/plaw/89/public/329), formerly § 353, as added [Pub. L. 99–498, title III, § 301(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1305](https://www.govinfo.gov/link/statute/100/1305); renumbered § 393 and amended [Pub. L. 105–244, title III](https://www.govinfo.gov/link/plaw/105/public/244), §§ 301(a)(2), 308(e), Oct. 7, 1998, [112 Stat. 1636](https://www.govinfo.gov/link/statute/112/1636), 1649.)*

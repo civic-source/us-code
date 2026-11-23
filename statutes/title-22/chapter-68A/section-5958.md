@@ -3,9 +3,10 @@ title: "Section 5958 - Authorization for additional fiscal year 1993 assistance 
 usc_title: 22
 usc_section: "5958"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5958"
-generated_at: "2026-03-30T02:55:05.421Z"
+generated_at: "2026-11-23T21:25:58.673Z"
+status: "active"
 ---
 
 # § 5958. Authorization for additional fiscal year 1993 assistance to independent states of the former Soviet Union
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.421Z"
   - **(1)** Amounts transferred under subsection (b) shall be available subject to the same terms and conditions as the appropriations to which transferred.
   - **(2)** The authority to make transfers pursuant to this section is in addition to any other transfer authority of the Department of Defense.
 - **(d)** The President shall coordinate the programs described in subsection (b) with those authorized in the other provisions of this chapter and in the provisions of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 ( Public Law 102–511 ) so as to optimize the contribution such programs make to the national interests of the United States.
+
+## Source Credit
+
+*([Pub. L. 103–160, div. A, title XII, § 1209](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1782](https://www.govinfo.gov/link/statute/107/1782).)*

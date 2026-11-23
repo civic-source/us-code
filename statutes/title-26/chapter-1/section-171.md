@@ -3,9 +3,10 @@ title: "Section 171 - Amortizable bond premium"
 usc_title: 26
 usc_section: "171"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 171"
-generated_at: "2026-03-30T02:55:27.647Z"
+generated_at: "2026-11-23T21:26:06.068Z"
+status: "active"
 ---
 
 # § 171. Amortizable bond premium
@@ -40,3 +41,11 @@ generated_at: "2026-03-30T02:55:27.647Z"
   - **(1)** the amount of any bond premium shall be allocated among the interest payments on the bond under rules similar to the rules of subsection (b)(3), and
   - **(2)** in lieu of any deduction under subsection (a), the amount of any premium so allocated to any interest payment shall be applied against (and operate to reduce) the amount of such interest payment.
 - **(f)** For special rules applicable, in the case of dealers in securities, with respect to premium attributable to certain wholly tax-exempt securities, see section 75.
+
+In general
+
+Revocation of election
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 61; [Pub. L. 85–866, title I, § 13(a)](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1610](https://www.govinfo.gov/link/statute/72/1610); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(b)(1)(E), 1906(b)(13)(A), 1951(b)(5)(A), Oct. 4, 1976, [90 Stat. 1790](https://www.govinfo.gov/link/statute/90/1790), 1834, 1837; [Pub. L. 99–514, title VI, § 643(a)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1803(a)(11)(A), (B), (12)(A), Oct. 22, 1986, [100 Stat. 2285](https://www.govinfo.gov/link/statute/100/2285), 2795; [Pub. L. 100–647, title I, § 1006(j)(1)(A)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3411](https://www.govinfo.gov/link/statute/102/3411); [Pub. L. 108–357, title IV, § 413(c)(2)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1507](https://www.govinfo.gov/link/statute/118/1507); [Pub. L. 113–295, div. A, title II, § 221(a)(29)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4041](https://www.govinfo.gov/link/statute/128/4041).)*

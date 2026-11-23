@@ -3,12 +3,21 @@ title: "Section 712 - Contracts with Government-owned establishments for work an
 usc_title: 14
 usc_section: "712"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 712"
-generated_at: "2026-03-30T02:53:51.490Z"
+generated_at: "2026-11-23T21:25:35.382Z"
+status: "active"
 ---
 
 # § 712. Contracts with Government-owned establishments for work and material
 
 - **(a)** All orders or contracts for work or material, under authorization of law, placed with Government-owned establishments by the Coast Guard, shall be considered as obligations in the same manner as provided for similar orders or contracts placed with private contractors, and appropriations for such work or material shall remain available for payment therefor as in the case of orders or contracts placed with private contractors.
 - **(b)** Under this section, the Coast Guard industrial activities may accept orders from and enter into reimbursable agreements with establishments, agencies, and departments of the Department of Defense and the Department of Homeland Security.
+
+In General
+
+Orders and Agreements for Industrial Activities
+
+## Source Credit
+
+*(Aug. 4, 1949, ch. 393, [63 Stat. 507](https://www.govinfo.gov/link/statute/63/507), § 151; [Pub. L. 111–281, title II, § 202](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2909](https://www.govinfo.gov/link/statute/124/2909); renumbered § 712, [Pub. L. 115–282, title I, § 106(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4203](https://www.govinfo.gov/link/statute/132/4203).)*

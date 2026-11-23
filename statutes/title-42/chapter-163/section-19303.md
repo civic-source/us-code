@@ -3,9 +3,10 @@ title: "Section 19303 - Clean energy technology transfer coordination"
 usc_title: 42
 usc_section: "19303"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19303"
-generated_at: "2026-03-30T02:56:11.546Z"
+generated_at: "2026-11-23T21:26:33.884Z"
+status: "active"
 ---
 
 # § 19303. Clean energy technology transfer coordination
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.546Z"
     - **(B)** increasing the competitiveness of United States in the clean energy sector, including in manufacturing; and
     - **(C)** commercial application of clean energy technologies being developed by entrepreneurs from under-represented backgrounds.
 - **(b)** There are authorized to be appropriated to the Secretary to carry out the activities in this section $3,000,000 for each of fiscal years 2023 through 2027.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title VI, § 10715](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1703](https://www.govinfo.gov/link/statute/136/1703).)*

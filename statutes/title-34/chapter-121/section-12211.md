@@ -3,9 +3,10 @@ title: "Section 12211 - Definitions"
 usc_title: 34
 usc_section: "12211"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 12211"
-generated_at: "2026-03-30T02:55:33.284Z"
+generated_at: "2026-11-23T21:26:09.732Z"
+status: "active"
 ---
 
 # § 12211. Definitions
@@ -18,3 +19,7 @@ As used in this part:
   - **(4)** The term “private business enterprise” means any business enterprise that is engaged in the manufacture of a product, provision of a service, construction or development of a facility, or that is involved in some other commercial, manufacturing or industrial activity, and that agrees to target job opportunities stemming from investments authorized under this part to certain individuals.
   - **(5)** The term “target area” means any area defined in an application for assistance under this part that has a population whose income does not exceed the median for the area within which the target area is located.
   - **(6)** The term “very low-income community” means a community in which the median income of the residents of such community does not exceed 50 percent of the median income of the area.
+
+## Source Credit
+
+*([Pub. L. 103–322, title III, § 31131](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1887](https://www.govinfo.gov/link/statute/108/1887).)*

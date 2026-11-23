@@ -3,9 +3,10 @@ title: "Section 1370a - Officers entitled to retired pay for non-regular service
 usc_title: 10
 usc_section: "1370a"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1370a"
-generated_at: "2026-03-30T02:53:38.117Z"
+generated_at: "2026-11-23T21:25:32.458Z"
+status: "active"
 ---
 
 # § 1370a. Officers entitled to retired pay for non-regular service
@@ -41,3 +42,63 @@ generated_at: "2026-03-30T02:53:38.117Z"
   - **(1)** Except for a conditional determination authorized by subsection (e), a determination of the retired grade of a person pursuant to this section is administratively final on the day the person is retired, and may not be reopened.
   - **(2)** A determination of the retired grade of a person may be reopened in accordance with applicable provisions of section 1370(f) of this title . In the application of such section 1370(f) for purposes of this subsection, any reference to a provision of section 1370 of this title shall be deemed to be a reference to the analogous provision of this section. In the application of paragraph (7) of such section 1370(f) for purposes of this paragraph, the reference to “chapter 71 of this title” shall be deemed to be a reference to “chapter 1223 of this title”.
 - **(h)** In this section, the term “highest permanent grade” means a grade at or below the grade of major general in the Army, Air Force, Marine Corps, or Space Force, or rear admiral in the Navy.
+
+Retirement in Highest Grade Held Satisfactorily
+
+Service-in-grade Requirement for Officers in Grades Below
+
+Service-in-grade Requirement for Offices in Grades Above
+
+In general
+
+Satisfaction of requirement by certain officers not completing three years
+
+Reduction in service-in-grade requirements.—
+
+Officers in grades below general and flag officer grades
+
+Limitation
+
+Officers in general and flag officers grades
+
+Notice to congress on reduction in service-in-grade requirements for general and flag officer grades
+
+Officers serving in grades above o–6 involuntarily transferred from active status
+
+Adjutants and assistant adjutants general
+
+Officers recommended for promotion serving in certain grade before promotion
+
+Officers qualified for federal recognition serving in certain grade before appointment
+
+Retirement in next lowest grade for officers not meeting service-in-grade requirements
+
+Officers in
+
+and
+
+Grades.—
+
+In general
+
+Prohibition on delegation
+
+Requirements in connection with certification
+
+Construction with other notice
+
+Conditional Retirement Grade and Retirement for Officers Under Investigation for Misconduct or Pending Adverse Personnel Action
+
+Final Retirement Grade Following Resolution of Pending Investigation or Adverse Action
+
+Finality of Retired Grade Determinations.—
+
+In general
+
+Reopening
+
+Highest Permanent Grade Defined
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. A, title V, § 508(a)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3580](https://www.govinfo.gov/link/statute/134/3580); amended [Pub. L. 118–31, div. A, title XVIII, § 1801(a)(16)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 684](https://www.govinfo.gov/link/statute/137/684); [Pub. L. 118–159, div. A, title V, § 521(f)(2)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1881](https://www.govinfo.gov/link/statute/138/1881).)*

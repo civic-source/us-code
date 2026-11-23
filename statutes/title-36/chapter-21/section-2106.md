@@ -3,9 +3,10 @@ title: "Section 2106 - War memorials not built by the United States Government"
 usc_title: 36
 usc_section: "2106"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 2106"
-generated_at: "2026-03-30T02:55:44.690Z"
+generated_at: "2026-11-23T21:26:13.489Z"
+status: "active"
 ---
 
 # § 2106. War memorials not built by the United States Government
@@ -32,3 +33,80 @@ generated_at: "2026-03-30T02:55:44.690Z"
     - **(B)** the memorial has fallen into disrepair and a reasonable effort by the Commission has failed—
       - **(i)** to persuade the sponsor to maintain the memorial at a standard acceptable to the Commission; or
       - **(ii)** to locate the sponsor.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 2106(a) | 36:125(a). | Mar. 4, 1923, ch. 283, § 5(a) , 42 Stat. 1509 ; June 26, 1946, ch. 502 , 60 Stat. 317 ; July 25, 1956, ch. 721, § 2(b) , (d), 70 Stat. 640 ; Jan. 2, 1974 , Pub. L. 93–244 , 87 Stat. 1070 . |
+| 2106(b)(1) | 36:125(b)(1) (1st sentence), (d). | Mar. 4, 1923, ch. 283, § 5(b) –(d), as added Jan. 2, 1974 , Pub. L. 93–244 , 87 Stat. 1070 ; Oct. 9, 1996 , Pub. L. 104–275, title VI, § 602(a) , 110 Stat. 3344 . |
+| 2106(b)(2) | 36:125(b)(1) (last sentence), (d). |  |
+| 2106(b)(3) | 36:125(b)(2)(A), (d). |  |
+| 2106(c) | 36:125(b)(2)(B), (d). |  |
+| 2106(d) | 36:125(b)(3). |  |
+| 2106(e) | 36:125(c), (d). |  |
+
+
+Cooperation With Others
+
+Control, Administration, and Maintenance of War Memorials
+
+Arrangements for Repair or Long-Term Maintenance of Memorials
+
+Fund for Arrangements for Repair or Long-Term Maintenance of Memorials
+
+Demolition of War Memorial Built in a Foreign Country and Disposition of Site
+
+Historical and Revision Notes
+
+2106(a)
+
+Mar. 4, 1923, ch. 283, § 5(a)
+
+42 Stat. 1509
+
+June 26, 1946, ch. 502
+
+60 Stat. 317
+
+July 25, 1956, ch. 721, § 2(b)
+
+70 Stat. 640
+
+Jan. 2, 1974
+
+Pub. L. 93–244
+
+87 Stat. 1070
+
+2106(b)(1)
+
+Mar. 4, 1923, ch. 283, § 5(b)
+
+Jan. 2, 1974
+
+Pub. L. 93–244
+
+87 Stat. 1070
+
+Oct. 9, 1996
+
+Pub. L. 104–275, title VI, § 602(a)
+
+110 Stat. 3344
+
+2106(b)(2)
+
+2106(b)(3)
+
+2106(c)
+
+2106(d)
+
+2106(e)
+
+Authority
+
+Funding
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1272](https://www.govinfo.gov/link/statute/112/1272).)*

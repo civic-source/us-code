@@ -3,9 +3,10 @@ title: "Section 2106a - Emergency reforestation assistance"
 usc_title: 16
 usc_section: "2106a"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2106a"
-generated_at: "2026-03-30T02:54:22.999Z"
+generated_at: "2026-11-23T21:25:51.942Z"
+status: "active"
 ---
 
 # § 2106a. Emergency reforestation assistance
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:22.999Z"
   - **(6)** the term “Secretary” means the Secretary of Agriculture; and
   - **(7)** the term “wildfire” means any forest or range fire.
 - **(e)** The Secretary shall use funds provided under this section to reimburse landowners for approved reforestation practices that were implemented before November 28, 1990 . The Secretary shall not make reimbursements for reforestation practices that were implemented prior to September 1, 1989 .
+
+## Source Credit
+
+*([Pub. L. 101–624, title XII, § 1271](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3557](https://www.govinfo.gov/link/statute/104/3557); [Pub. L. 102–237, title X, § 1018(f)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1906](https://www.govinfo.gov/link/statute/105/1906); [Pub. L. 104–127, title III, § 336(a)(2)(E)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1005](https://www.govinfo.gov/link/statute/110/1005); [Pub. L. 110–234, title I, § 1603(g)(5)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1011](https://www.govinfo.gov/link/statute/122/1011); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1603(g)(5), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1740; [Pub. L. 113–79, title I, § 1609(b)(1)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 709](https://www.govinfo.gov/link/statute/128/709); [Pub. L. 115–334, title II, § 2301(d)(2)(E)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4554](https://www.govinfo.gov/link/statute/132/4554).)*

@@ -3,9 +3,10 @@ title: "Section 1202 - Exemptions"
 usc_title: 15
 usc_section: "1202"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1202"
-generated_at: "2026-03-30T02:54:08.130Z"
+generated_at: "2026-11-23T21:25:39.801Z"
+status: "active"
 ---
 
 # § 1202. Exemptions
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.130Z"
 - **(c)** Not less than thirty days before any person exports to a foreign country any fabric, related material, or product that fails to conform to an applicable flammability standard or regulation in effect under this chapter, such person shall file a statement with the Commission notifying the Commission of such exportation, and the Commission, upon receipt of such statement, shall promptly notify the government of such country of such exportation and of the basis for such flammability standard or regulation. Any statement filed with the Commission under the preceding sentence shall specify the anticipated date of shipment of such fabric, related material, or product, the country and port of destination of such fabric, related material, or product, and the quantity of such fabric, related material, or product that will be exported, and shall contain such other information as the Commission may by regulation require. Upon petition filed with the Commission by any person required to file a statement under this subsection respecting an exportation, the Commission may, for good cause shown, exempt such person from the requirement of this subsection that such a statement be filed no less than thirty days before the date of the exportation, except that in no case shall the Commission permit such a statement to be filed later than the tenth day before such date.
 - **(d)** Notwithstanding any other provision of this section, the Consumer Product Safety Commission may prohibit, by order, a person from exporting from the United States for purpose of sale any fabric or related material that the Commission determines is not in conformity with an applicable standard or rule under this chapter, unless the importing country has notified the Commission that such country accepts the importation of such fabric or related material, provided that if the importing country has not so notified the Commission within 30 days after the Commission has provided notice to the importing country of the impending shipment, the Commission may take such action as is appropriate with respect to the disposition of the fabric or related material under the circumstances.
 - **(e)** Nothing in this section shall apply to any fabric or related material, the export of which is permitted by the Secretary of the Treasury pursuant to section 2066(e) of this title .
+
+## Source Credit
+
+*(June 30, 1953, ch. 164, § 15, as added [Pub. L. 90–189, § 10](https://www.govinfo.gov/link/plaw/90/public/189), Dec. 14, 1967, [81 Stat. 574](https://www.govinfo.gov/link/statute/81/574); amended [Pub. L. 95–631, § 8(a)](https://www.govinfo.gov/link/plaw/95/public/631), Nov. 10, 1978, [92 Stat. 3746](https://www.govinfo.gov/link/statute/92/3746); [Pub. L. 110–314, title II](https://www.govinfo.gov/link/plaw/110/public/314), §§ 204(c)(2)(F), 221(b), Aug. 14, 2008, [122 Stat. 3042](https://www.govinfo.gov/link/statute/122/3042), 3066.)*

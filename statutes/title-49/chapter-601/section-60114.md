@@ -3,9 +3,10 @@ title: "Section 60114 - One-call notification systems"
 usc_title: 49
 usc_section: "60114"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 60114"
-generated_at: "2026-03-30T02:56:19.414Z"
+generated_at: "2026-11-23T21:26:41.024Z"
+status: "active"
 ---
 
 # § 60114. One-call notification systems
@@ -31,3 +32,72 @@ generated_at: "2026-03-30T02:56:19.414Z"
 - **(e)** Any owner or operator of a pipeline facility who fails to respond to a location request in order to prevent damage to the pipeline facility or who fails to take reasonable steps, in response to such a request, to ensure accurate marking of the location of the pipeline facility in order to prevent damage to the pipeline facility shall be subject to a civil action under section 60120 or assessment of a civil penalty under section 60122.
 - **(f)** The Secretary may not conduct an enforcement proceeding under subsection (d) for a violation within the boundaries of a State that has the authority to impose penalties described in section 60134(b)(7) against persons who violate that State’s damage prevention laws, unless the Secretary has determined that the State’s enforcement is inadequate to protect safety, consistent with this chapter, and until the Secretary issues, through a rulemaking proceeding, the procedures for determining inadequate State enforcement of penalties.
 - **(g)** The Secretary may make grants to any organization or entity (not including for-profit entities) for the development of technologies that will facilitate the prevention of pipeline damage caused by demolition, excavation, tunneling, or construction activities, with emphasis on wireless and global positioning technologies having potential for use in connection with notification systems and underground facility locating and marking services. Funds provided under this subsection may not be used for lobbying or in direct support of litigation. The Secretary may also support such technology development through cooperative agreements with trade associations, academic institutions, and other organizations.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60114(a) | 49 App.:1687(b), (e). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 20(a)–(e); added Oct. 31, 1988 , Pub. L. 100–561, § 303(a) , 102 Stat. 2814 . |
+| 60114(b) | 49 App.:1687(c). |  |
+| 60114(c) | 49 App.:1687(h). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 20(h); added Oct. 24, 1992 , Pub. L. 102–508, § 304(a) , 106 Stat. 3308 . |
+| 60114(d) | 49 App.:1687(a). |  |
+| 60114(e) | 49 App.:1687(d). |  |
+
+
+Minimum Requirements
+
+Marking Facilities
+
+Relationship to Other Laws
+
+Prohibition Applicable to Excavators
+
+Prohibition Applicable to Underground Pipeline Facility Owners and Operators
+
+Limitation
+
+Technology Development Grants
+
+Historical and Revision Notes
+
+Pub. L
+
+60114(a)
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Oct. 31, 1988
+
+Pub. L. 100–561, § 303(a)
+
+102 Stat. 2814
+
+60114(b)
+
+60114(c)
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 304(a)
+
+106 Stat. 3308
+
+60114(d)
+
+60114(e)
+
+Grants
+
+Apportionment
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1318](https://www.govinfo.gov/link/statute/108/1318); [Pub. L. 104–287, § 5(91)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3398](https://www.govinfo.gov/link/statute/110/3398); [Pub. L. 104–304, § 20(d)](https://www.govinfo.gov/link/plaw/104/public/304), Oct. 12, 1996, [110 Stat. 3804](https://www.govinfo.gov/link/statute/110/3804); [Pub. L. 107–355](https://www.govinfo.gov/link/plaw/107/public/355), §§ 3(b), 21(2), Dec. 17, 2002, [116 Stat. 2986](https://www.govinfo.gov/link/statute/116/2986), 3010; [Pub. L. 109–468, § 2(a)(1)](https://www.govinfo.gov/link/plaw/109/public/468), (e), Dec. 29, 2006, [120 Stat. 3486](https://www.govinfo.gov/link/statute/120/3486), 3489.)*

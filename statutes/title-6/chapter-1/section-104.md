@@ -3,9 +3,10 @@ title: "Section 104 - National biodefense strategy"
 usc_title: 6
 usc_section: "104"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 104"
-generated_at: "2026-03-30T02:53:09.443Z"
+generated_at: "2026-11-23T21:25:25.738Z"
+status: "active"
 ---
 
 # § 104. National biodefense strategy
@@ -28,3 +29,11 @@ generated_at: "2026-03-30T02:53:09.443Z"
   - **(2)** The Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate.
   - **(3)** The Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
   - **(4)** The Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
+
+Clarification of Roles and Responsibilities
+
+Elements of Memoranda of Understanding
+
+## Source Credit
+
+*([Pub. L. 114–328, div. A, title X, § 1086](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2423](https://www.govinfo.gov/link/statute/130/2423); [Pub. L. 116–92, div. A, title XVII, § 1704](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1797](https://www.govinfo.gov/link/statute/133/1797).)*

@@ -3,9 +3,10 @@ title: "Section 47118 - Designating current and former military airports"
 usc_title: 49
 usc_section: "47118"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 47118"
-generated_at: "2026-03-30T02:56:19.403Z"
+generated_at: "2026-11-23T21:26:40.979Z"
+status: "active"
 ---
 
 # § 47118. Designating current and former military airports
@@ -37,3 +38,97 @@ generated_at: "2026-03-30T02:56:19.403Z"
 - **(h)** Notwithstanding any other provision of this chapter, a grant under section 47117(e)(1)(B) may be made for a federally owned airport designated under subsection (a) if the grant is for a project that is—
   - **(1)** to preserve or enhance minimum airfield infrastructure facilities described in subsection (c)(3); and
   - **(2)** necessary to meet the minimum safety and emergency operational requirements established under part 139 of title 14, Code of Federal Regulations.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 47118(a) | 49 App.:2207(f)(1). | Sept. 3, 1982 , Pub. L. 97–248 , 96 Stat. 324 , § 508(f)(1); added Nov. 5, 1990 , Pub. L. 101–508, § 9109(c) , 104 Stat. 1388–356 ; Oct. 31, 1992 , Pub. L. 102–581, § 107(b) , 106 Stat. 4878 . |
+| 47118(b) | 49 App.:2207(f)(2). | Sept. 3, 1982 , Pub. L. 97–248 , 96 Stat. 324 , § 508(f)(2)–(5); added Nov. 5, 1990 , Pub. L. 101–508, § 9109(c) , 104 Stat. 1388–356 . |
+| 47118(c) | 49 App.:2207(f)(3). |  |
+| 47118(d) | 49 App.:2207(f)(4). |  |
+| 47118(e) | 49 App.:2207(f)(5). |  |
+| 47118(f) | 49 App.:2207(f)(6). | Sept. 3, 1982 , Pub. L. 97–248 , 96 Stat. 324 , § 508(f)(6); added Oct. 31, 1992 , Pub. L. 102–581, § 107(c)(1) , 106 Stat. 4878 . |
+
+
+General Requirements
+
+Survey
+
+Considerations
+
+Grants
+
+Terminal Building Facilities
+
+Parking Lots, Fuel Farms, Utilities, Hangars, and Air Cargo Terminals.—
+
+Construction
+
+Reimbursement
+
+Designation of General Aviation Airports
+
+Safety-Critical Airports
+
+Historical and Revision Notes
+
+Pub. L
+
+47118(a)
+
+Sept. 3, 1982
+
+Pub. L. 97–248
+
+96 Stat. 324
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 9109(c)
+
+104 Stat. 1388–356
+
+Oct. 31, 1992
+
+Pub. L. 102–581, § 107(b)
+
+106 Stat. 4878
+
+47118(b)
+
+Sept. 3, 1982
+
+Pub. L. 97–248
+
+96 Stat. 324
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 9109(c)
+
+104 Stat. 1388–356
+
+47118(c)
+
+47118(d)
+
+47118(e)
+
+47118(f)
+
+Sept. 3, 1982
+
+Pub. L. 97–248
+
+96 Stat. 324
+
+Oct. 31, 1992
+
+Pub. L. 102–581, § 107(c)(1)
+
+106 Stat. 4878
+
+General Requirements
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1273](https://www.govinfo.gov/link/statute/108/1273); [Pub. L. 103–305, title I, § 116(b)](https://www.govinfo.gov/link/plaw/103/public/305) –(d), Aug. 23, 1994, [108 Stat. 1579](https://www.govinfo.gov/link/statute/108/1579); [Pub. L. 104–264, title I, § 124(a)](https://www.govinfo.gov/link/plaw/104/public/264) –(c), Oct. 9, 1996, [110 Stat. 3219](https://www.govinfo.gov/link/statute/110/3219), 3220; [Pub. L. 104–287, § 5(83)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3397](https://www.govinfo.gov/link/statute/110/3397); [Pub. L. 106–181, title I, § 130](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 78](https://www.govinfo.gov/link/statute/114/78); [Pub. L. 108–176, title I, § 153](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2507](https://www.govinfo.gov/link/statute/117/2507); [Pub. L. 112–95, title I, § 146](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 30](https://www.govinfo.gov/link/statute/126/30); [Pub. L. 115–254, div. B, title I, § 137](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3210](https://www.govinfo.gov/link/statute/132/3210).)*

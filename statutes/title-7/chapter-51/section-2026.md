@@ -3,9 +3,10 @@ title: "Section 2026 - Research, demonstration, and evaluations"
 usc_title: 7
 usc_section: "2026"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2026"
-generated_at: "2026-03-30T02:53:42.371Z"
+generated_at: "2026-11-23T21:25:28.264Z"
+status: "active"
 ---
 
 # § 2026. Research, demonstration, and evaluations
@@ -204,3 +205,53 @@ generated_at: "2026-03-30T02:53:42.371Z"
   - **(9)** Of the funds made available under section 2027 of this title , the Secretary shall use to carry out this subsection—
     - **(A)** $20,000,000 for fiscal year 2019 to remain available through fiscal year 2021; and
     - **(B)** $5,000,000 for fiscal year 2022 and each fiscal year thereafter.
+
+Project requirements.—
+
+Program goal
+
+Permissible projects
+
+Restrictions on permissible projects
+
+Impermissible projects
+
+(aa) paragraphs (4) and (5) of section 2012(m) of this title ;
+
+(bb) the last sentence of section 2014(a) of this title , insofar as a waiver denies assistance to an otherwise eligible household or individual if the household or individual has not failed to comply with any work, behavioral, or other conduct requirement under this or another program;
+
+(cc) section 2014(c)(2) of this title ;
+
+(dd) paragraph (2)(B), (4)(F)(i), or (4)(K) of section 2015(d) of this title ;
+
+(ee) section 2017(b) of this title ;
+
+(ff) section 2020(e)(2)(B) of this title ;
+
+(gg) the time standard under section 2020(e)(3) of this title ;
+
+(hh) subsection (a), (c), (g), (h)(1)(F), (h)(2), or (h)(3) of section 2025 of this title ;
+
+(ii) this paragraph; or
+
+(jj) subsection (a)(1) or (g)(1) of section 2029 of this title ;
+
+(aa) increasing the shelter deduction to households with no out-of-pocket housing costs or housing costs that consume a low percentage of the household’s income; or
+
+(bb) absolving a State from acting with reasonable promptness on substantial reported changes in income or household size (except that this subclause shall not apply with regard to changes related to supplemental nutrition assistance program deductions);
+
+Additional included projects
+
+Cash payment pilot projects
+
+Response to waivers.—
+
+Response
+
+Failure to respond
+
+Notice of denial
+
+## Source Credit
+
+*([Pub. L. 88–525, § 17](https://www.govinfo.gov/link/plaw/88/public/525), as added [Pub. L. 93–86, § 3(n)](https://www.govinfo.gov/link/plaw/93/public/86), Aug. 10, 1973, [87 Stat. 248](https://www.govinfo.gov/link/statute/87/248); amended [Pub. L. 95–113, title XIII, § 1301](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 977](https://www.govinfo.gov/link/statute/91/977); [Pub. L. 95–400](https://www.govinfo.gov/link/plaw/95/public/400), Sept. 30, 1978, [92 Stat. 856](https://www.govinfo.gov/link/statute/92/856); [Pub. L. 96–249, title I](https://www.govinfo.gov/link/plaw/96/public/249), §§ 130–132(a), 133, May 26, 1980, [94 Stat. 367](https://www.govinfo.gov/link/statute/94/367), 368; [Pub. L. 97–98, title XIII](https://www.govinfo.gov/link/plaw/97/public/98), §§ 1328–1330, Dec. 22, 1981, [95 Stat. 1289](https://www.govinfo.gov/link/statute/95/1289), 1290; [Pub. L. 97–253, title I](https://www.govinfo.gov/link/plaw/97/public/253), §§ 152(c), 181, 182, 190(d), Sept. 8, 1982, [96 Stat. 776](https://www.govinfo.gov/link/statute/96/776), 784, 785, 787; [Pub. L. 99–114, § 4](https://www.govinfo.gov/link/plaw/99/public/114), Oct. 1, 1985, [99 Stat. 488](https://www.govinfo.gov/link/statute/99/488); [Pub. L. 99–157, § 2](https://www.govinfo.gov/link/plaw/99/public/157), Nov. 15, 1985, [99 Stat. 818](https://www.govinfo.gov/link/statute/99/818); [Pub. L. 99–182, § 2](https://www.govinfo.gov/link/plaw/99/public/182), Dec. 13, 1985, [99 Stat. 1173](https://www.govinfo.gov/link/statute/99/1173); [Pub. L. 99–198, title XV, § 1540](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1588](https://www.govinfo.gov/link/statute/99/1588); [Pub. L. 100–435, title V](https://www.govinfo.gov/link/plaw/100/public/435), §§ 504, 505, Sept. 19, 1988, [102 Stat. 1673](https://www.govinfo.gov/link/statute/102/1673); [Pub. L. 101–624, title XVII](https://www.govinfo.gov/link/plaw/101/public/624), §§ 1729(b), 1731, 1754–1759, Nov. 28, 1990, [104 Stat. 3790](https://www.govinfo.gov/link/statute/104/3790), 3798–3800, 3802; [Pub. L. 102–237, title IX, § 941(8)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1893](https://www.govinfo.gov/link/statute/105/1893); [Pub. L. 103–66, title XIII, § 13925](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 675](https://www.govinfo.gov/link/statute/107/675); [Pub. L. 103–225, title II, § 204](https://www.govinfo.gov/link/plaw/103/public/225), Mar. 25, 1994, [108 Stat. 109](https://www.govinfo.gov/link/statute/108/109); [Pub. L. 104–127, title IV, § 401(c)](https://www.govinfo.gov/link/plaw/104/public/127), (d), Apr. 4, 1996, [110 Stat. 1026](https://www.govinfo.gov/link/statute/110/1026); [Pub. L. 104–193, title I, § 109(d)](https://www.govinfo.gov/link/plaw/104/public/193), title VIII, §§ 815(b)(1), 850–852, 854(c)(2), Aug. 22, 1996, [110 Stat. 2169](https://www.govinfo.gov/link/statute/110/2169), 2317, 2336–2338, 2342; [Pub. L. 105–18, title VII](https://www.govinfo.gov/link/plaw/105/public/18), [(b)], June 12, 1997, [111 Stat. 217](https://www.govinfo.gov/link/statute/111/217); [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(2)(C), (f)(2)(C)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–418, 2681–429; [Pub. L. 107–171, title IV](https://www.govinfo.gov/link/plaw/107/public/171), §§ 4112(b)(4), 4116(b), 4122(b), 4123(a), May 13, 2002, [116 Stat. 313](https://www.govinfo.gov/link/statute/116/313), 316, 324; [Pub. L. 110–234, title IV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 4001(b), 4002(a)(9), 4115(b)(12), 4141, 4406(a)(5), May 22, 2008, [122 Stat. 1092](https://www.govinfo.gov/link/statute/122/1092), 1094, 1108, 1117, 1141; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, §§ 4001(b), 4002(a)(9), 4115(b)(12), 4141, 4406(a)(5), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1853, 1855, 1869, 1879, 1902; [Pub. L. 113–79, title IV](https://www.govinfo.gov/link/plaw/113/public/79), §§ 4022(b)(3), 4023, Feb. 7, 2014, [128 Stat. 808](https://www.govinfo.gov/link/statute/128/808), 809; [Pub. L. 113–128, title V, § 512](https://www.govinfo.gov/link/plaw/113/public/128) (l)(3), July 22, 2014, [128 Stat. 1709](https://www.govinfo.gov/link/statute/128/1709); [Pub. L. 115–334, title IV](https://www.govinfo.gov/link/plaw/115/public/334), §§ 4005(e), 4014, 4015(a), 4022(7), Dec. 20, 2018, [132 Stat. 4634](https://www.govinfo.gov/link/statute/132/4634), 4643–4645, 4653.)*

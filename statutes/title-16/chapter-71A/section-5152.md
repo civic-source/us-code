@@ -3,9 +3,10 @@ title: "Section 5152 - Definitions"
 usc_title: 16
 usc_section: "5152"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 5152"
-generated_at: "2026-03-30T02:54:23.050Z"
+generated_at: "2026-11-23T21:25:52.028Z"
+status: "active"
 ---
 
 # § 5152. Definitions
@@ -35,3 +36,7 @@ As used in this chapter—
   - **(10)** The term “Plan” means a plan for managing Atlantic striped bass, or an amendment to such plan, that is prepared and adopted by the Commission.
   - **(11)** The term “Secretary” means the Secretary of Commerce or a designee of the Secretary of Commerce.
   - **(12)** The term “Secretaries” means the Secretary of Commerce and the Secretary of the Interior or their designees.
+
+## Source Credit
+
+*([Pub. L. 98–613, § 3](https://www.govinfo.gov/link/plaw/98/public/613), Oct. 31, 1984, [98 Stat. 3187](https://www.govinfo.gov/link/statute/98/3187); [Pub. L. 99–432, § 1](https://www.govinfo.gov/link/plaw/99/public/432), Oct. 1, 1986, [100 Stat. 989](https://www.govinfo.gov/link/statute/100/989); [Pub. L. 100–589, § 6(g)(1)](https://www.govinfo.gov/link/plaw/100/public/589), Nov. 3, 1988, [102 Stat. 2987](https://www.govinfo.gov/link/statute/102/2987); [Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009](https://www.govinfo.gov/link/statute/110/3009), 3009–41; [Pub. L. 105–146, § 2](https://www.govinfo.gov/link/plaw/105/public/146), Dec. 16, 1997, [111 Stat. 2673](https://www.govinfo.gov/link/statute/111/2673).)*

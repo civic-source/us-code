@@ -3,9 +3,10 @@ title: "Section 1831e - Activities of savings associations"
 usc_title: 12
 usc_section: "1831e"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1831e"
-generated_at: "2026-03-30T02:53:53.457Z"
+generated_at: "2026-11-23T21:25:37.017Z"
+status: "active"
 ---
 
 # § 1831e. Activities of savings associations
@@ -70,3 +71,11 @@ generated_at: "2026-03-30T02:53:53.457Z"
 - **(h)** This section may not be construed as limiting—
   - **(1)** any other authority of the Corporation; or
   - **(2)** any authority of the Comptroller of the Currency, of the Corporation, or of a State to impose more stringent restrictions.
+
+In general
+
+Treatment of noncompliance during divestment
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [28], as added [Pub. L. 101–73, title II, § 222](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 269](https://www.govinfo.gov/link/statute/103/269); amended [Pub. L. 102–242, title I, § 151(a)(3)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2284](https://www.govinfo.gov/link/statute/105/2284); [Pub. L. 103–325, title VI, § 602(a)(56)](https://www.govinfo.gov/link/plaw/103/public/325) –(58), Sept. 23, 1994, [108 Stat. 2290](https://www.govinfo.gov/link/statute/108/2290), 2291; [Pub. L. 104–208, div. A, title II, § 2704(d)(14)(X)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–494](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 109–171, title II, § 2102(b)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 9](https://www.govinfo.gov/link/statute/120/9); [Pub. L. 109–173, § 8(a)(32)](https://www.govinfo.gov/link/plaw/109/public/173), Feb. 15, 2006, [119 Stat. 3615](https://www.govinfo.gov/link/statute/119/3615); [Pub. L. 111–203, title III, § 363(9)](https://www.govinfo.gov/link/plaw/111/public/203), title IX, § 939(a)(2), (3), July 21, 2010, [124 Stat. 1555](https://www.govinfo.gov/link/statute/124/1555), 1885.)*

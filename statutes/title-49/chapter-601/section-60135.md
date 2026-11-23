@@ -3,9 +3,10 @@ title: "Section 60135 - Enforcement transparency"
 usc_title: 49
 usc_section: "60135"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 60135"
-generated_at: "2026-03-30T02:56:19.416Z"
+generated_at: "2026-11-23T21:26:41.034Z"
+status: "active"
 ---
 
 # § 60135. Enforcement transparency
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:56:19.416Z"
   - **(3)** provide a mechanism by which a pipeline operator named in an enforcement action may make information, explanations, or documents it believes are responsive to the enforcement action available to the public.
 - **(b)** Each summary under this section shall be made available to the public by electronic means.
 - **(c)** Nothing in this section shall be construed to require disclosure of information or records that are exempt from disclosure under section 552 of title 5 .
+
+In General
+
+Electronic Availability
+
+Relationship to
+
+## Source Credit
+
+*(Added [Pub. L. 109–468, § 6(a)](https://www.govinfo.gov/link/plaw/109/public/468), Dec. 29, 2006, [120 Stat. 3491](https://www.govinfo.gov/link/statute/120/3491).)*

@@ -3,9 +3,10 @@ title: "Section 9674 - Purchasing groups"
 usc_title: 42
 usc_section: "9674"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9674"
-generated_at: "2026-03-30T02:56:11.365Z"
+generated_at: "2026-11-23T21:26:33.274Z"
+status: "active"
 ---
 
 # § 9674. Purchasing groups
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.365Z"
     - **(B)** Insurance related services.
     - **(C)** Management services.
 - **(c)** A State may require that a person acting, or offering to act, as an agent or broker for a purchasing group obtain a license from that State, except that a State may not impose any qualification or requirement which discriminates against a nonresident agent or broker.
+
+## Source Credit
+
+*([Pub. L. 96–510, title IV, § 404](https://www.govinfo.gov/link/plaw/96/public/510), as added [Pub. L. 99–499, title II, § 210(a)](https://www.govinfo.gov/link/plaw/99/public/499), formerly § 210, Oct. 17, 1986, [100 Stat. 1718](https://www.govinfo.gov/link/statute/100/1718); renumbered § 210(a), [Pub. L. 99–563, § 11(c)(1)](https://www.govinfo.gov/link/plaw/99/public/563), Oct. 27, 1986, [100 Stat. 3177](https://www.govinfo.gov/link/statute/100/3177).)*

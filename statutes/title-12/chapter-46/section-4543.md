@@ -3,9 +3,10 @@ title: "Section 4543 - Public access to mortgage information"
 usc_title: 12
 usc_section: "4543"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4543"
-generated_at: "2026-03-30T02:53:53.507Z"
+generated_at: "2026-11-23T21:25:37.186Z"
+status: "active"
 ---
 
 # § 4543. Public access to mortgage information
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.507Z"
   - **(2)** The Director shall not restrict access to the data provided in accordance with section 1723a(m)(1)(A) of this title or section 1456(e)(1)(A) of this title or with subsection (a)(2).
 - **(c)** The Director may charge reasonable fees to cover the cost of making data available under this section to the public.
 - **(d)** Data submitted under this section by an enterprise in connection with a provision referred to in subsection (a) shall be made publicly available in accordance with this section not later than September 30 of the year following the year to which the data relates.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1323](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3954](https://www.govinfo.gov/link/statute/106/3954); [Pub. L. 110–289, div. A, title I](https://www.govinfo.gov/link/plaw/110/public/289), §§ 1122(a)(1), 1126, July 30, 2008, [122 Stat. 2689](https://www.govinfo.gov/link/statute/122/2689), 2695.)*

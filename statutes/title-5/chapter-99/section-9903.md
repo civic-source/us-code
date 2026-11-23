@@ -3,9 +3,10 @@ title: "Section 9903 - Attracting highly qualified experts"
 usc_title: 5
 usc_section: "9903"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 9903"
-generated_at: "2026-03-30T02:52:56.075Z"
+generated_at: "2026-11-23T21:25:23.466Z"
+status: "active"
 ---
 
 # § 9903. Attracting highly qualified experts
@@ -32,3 +33,31 @@ generated_at: "2026-03-30T02:52:56.075Z"
     - **(A)** the period for which the employee was appointed; or
     - **(B)** the period to which the employee’s service is limited under subsection (c), including any extension made under this section before the termination of the program; and
   - **(2)** the rate of basic pay prescribed for the position under this section may not be reduced as long as the employee continues to serve in the position without a break in service.
+
+In General
+
+Authority
+
+Limitation on Term of Appointment
+
+Limitations on Additional Payments
+
+Limitation on Number of Highly Qualified Experts
+
+Savings Provisions
+
+In General
+
+Applicability
+
+Requirement to Disclose Names of Senior Mentors
+
+Senior Mentor Defined
+
+In General
+
+Senior Mentor Defined
+
+## Source Credit
+
+*(Added [Pub. L. 108–136, div. A, title XI, § 1101(a)(1)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1632](https://www.govinfo.gov/link/statute/117/1632); amended [Pub. L. 112–81, div. A, title XI, § 1105](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1612](https://www.govinfo.gov/link/statute/125/1612).)*

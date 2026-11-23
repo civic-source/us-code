@@ -3,9 +3,10 @@ title: "Section 1665j - Behavioral health program"
 usc_title: 25
 usc_section: "1665j"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1665j"
-generated_at: "2026-03-30T02:54:52.825Z"
+generated_at: "2026-11-23T21:25:54.631Z"
+status: "active"
 ---
 
 # § 1665j. Behavioral health program
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:52.825Z"
   - **(5)** The project may deliver services in a manner consistent with traditional health care practices.
   - **(6)** The project is coordinated with, and avoids duplication of, existing services.
 - **(c)** For purposes of this subsection, 1 1 So in original. Probably should be “section,”. the Secretary shall, in evaluating project applications or proposals, use the same criteria that the Secretary uses in evaluating any other application or proposal for such funding.
+
+## Source Credit
+
+*([Pub. L. 94–437, title VII, § 711](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

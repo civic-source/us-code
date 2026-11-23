@@ -3,9 +3,10 @@ title: "Section 670 - Training and employee education"
 usc_title: 29
 usc_section: "670"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 670"
-generated_at: "2026-03-30T02:55:18.689Z"
+generated_at: "2026-11-23T21:26:02.193Z"
+status: "active"
 ---
 
 # § 670. Training and employee education
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:18.689Z"
     - **(B)** which corrects the hazards that have been identified during the visit within the time frames established by the State and agrees to request a subsequent consultative visit if major changes in working conditions or work processes occur which introduce new hazards in the workplace; and
     - **(C)** which is implementing procedures for regularly identifying and preventing hazards regulated under this chapter and maintains appropriate involvement of, and training for, management and non-management employees in achieving safe and healthful working conditions,
   - **(5)** A State shall provide worksite consultations under paragraph (2) at the request of an employer. Priority in scheduling such consultations shall be assigned to requests from small businesses which are in higher hazard industries or have the most hazardous conditions at issue in the request.
+
+## Source Credit
+
+*([Pub. L. 91–596, § 21](https://www.govinfo.gov/link/plaw/91/public/596), Dec. 29, 1970, [84 Stat. 1612](https://www.govinfo.gov/link/statute/84/1612); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695); [Pub. L. 105–197, § 2](https://www.govinfo.gov/link/plaw/105/public/197), July 16, 1998, [112 Stat. 638](https://www.govinfo.gov/link/statute/112/638).)*

@@ -3,9 +3,10 @@ title: "Section 6050S - Returns relating to higher education tuition and related
 usc_title: 26
 usc_section: "6050S"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6050S"
-generated_at: "2026-03-30T02:55:27.835Z"
+generated_at: "2026-11-23T21:26:06.783Z"
+status: "active"
 ---
 
 # § 6050S. Returns relating to higher education tuition and related expenses
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:27.835Z"
 - **(e)** For purposes of this section, the terms “eligible educational institution” and “qualified tuition and related expenses” have the meanings given such terms by section 25A (without regard to subsection (g)(2) thereof), and except as provided in regulations, the term “qualified education loan” has the meaning given such term by section 221(d)(1).
 - **(f)** Except to the extent provided in regulations prescribed by the Secretary, in the case of any amount received by any person on behalf of another person, only the person first receiving such amount shall be required to make the return under subsection (a).
 - **(g)** The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section. No penalties shall be imposed under part II of subchapter B of chapter 68 with respect to any return or statement required under this section until such time as such regulations are issued.
+
+## Source Credit
+
+*(Added and amended [Pub. L. 105–34, title II](https://www.govinfo.gov/link/plaw/105/public/34), §§ 201(c)(1), 202(c), Aug. 5, 1997, [111 Stat. 804](https://www.govinfo.gov/link/statute/111/804), 808; [Pub. L. 105–206, title III, § 3712(a)](https://www.govinfo.gov/link/plaw/105/public/206), (b), title VI, § 6004(a)(2), July 22, 1998, [112 Stat. 781](https://www.govinfo.gov/link/statute/112/781), 792; [Pub. L. 107–16, title IV, § 412(a)(2)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 63](https://www.govinfo.gov/link/statute/115/63); [Pub. L. 107–131, § 1](https://www.govinfo.gov/link/plaw/107/public/131), Jan. 16, 2002, [115 Stat. 2410](https://www.govinfo.gov/link/statute/115/2410); [Pub. L. 114–27, title VIII, § 804(c)](https://www.govinfo.gov/link/plaw/114/public/27), June 29, 2015, [129 Stat. 416](https://www.govinfo.gov/link/statute/129/416); [Pub. L. 114–113, div. Q, title II](https://www.govinfo.gov/link/plaw/114/public/113), §§ 211(b), 212(a), Dec. 18, 2015, [129 Stat. 3085](https://www.govinfo.gov/link/statute/129/3085), 3086.)*

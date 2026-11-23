@@ -3,9 +3,10 @@ title: "Section 6336 - Restoration of transferred leave"
 usc_title: 5
 usc_section: "6336"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 6336"
-generated_at: "2026-03-30T02:52:56.032Z"
+generated_at: "2026-11-23T21:25:23.328Z"
+status: "active"
 ---
 
 # § 6336. Restoration of transferred leave
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:52:56.032Z"
   - **(3)** donating such leave in whole or part to another leave recipient; if a leave donor elects to donate only part of restored leave to another recipient, the donor may elect to have the remaining leave credited to the donor’s annual leave account in accordance with paragraph (1) or (2).
 - **(c)** The Office shall prescribe regulations under which this section shall be applied in the case of an employee who is paid other than on the basis of biweekly pay periods.
 - **(d)** Restorations of leave under this section shall be carried out in a manner consistent with regulations prescribed to carry out section 6334(c), if applicable.
+
+## Source Credit
+
+*(Added [Pub. L. 100–566, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/566), Oct. 31, 1988, [102 Stat. 2836](https://www.govinfo.gov/link/statute/102/2836).)*

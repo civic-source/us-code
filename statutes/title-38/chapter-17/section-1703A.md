@@ -3,9 +3,10 @@ title: "Section 1703A - Agreements with eligible entities or providers; certific
 usc_title: 38
 usc_section: "1703A"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1703A"
-generated_at: "2026-03-30T02:55:53.480Z"
+generated_at: "2026-11-23T21:26:16.616Z"
+status: "active"
 ---
 
 # § 1703A. Agreements with eligible entities or providers; certification processes
@@ -73,3 +74,37 @@ generated_at: "2026-03-30T02:55:53.480Z"
 - **(j)** Eligibility for hospital care, medical services, and extended care services furnished to any covered individual pursuant to a Veterans Care Agreement shall be subject to the same terms as though provided in a facility of the Department, and provisions of this chapter applicable to covered individuals receiving such care and services in a facility of the Department shall apply to covered individuals treated under this section.
 - **(k)** The Secretary shall promulgate regulations to carry out this section.
 - **(l)** In this section, the term “covered individual” means any individual eligible for hospital care, medical services, or extended care services under this title or any other law administered by the Secretary.
+
+Agreements Authorized
+
+Eligible Entities and Providers
+
+Eligible Entity or Provider Certification Process
+
+Rates
+
+Terms of Veterans Care Agreements
+
+Discontinuation or Nonrenewal of a Veterans Care Agreement
+
+Quality of Care
+
+Disputes
+
+Applicability of Other Provisions of Law
+
+Parity of Treatment
+
+Rulemaking
+
+Covered Individual Defined
+
+In General
+
+Applicability Period
+
+TRICARE Program Defined
+
+## Source Credit
+
+*(Added [Pub. L. 115–182, title I, § 102(a)](https://www.govinfo.gov/link/plaw/115/public/182), June 6, 2018, [132 Stat. 1404](https://www.govinfo.gov/link/statute/132/1404); amended [Pub. L. 115–251, title II](https://www.govinfo.gov/link/plaw/115/public/251), §§ 203, 211(a)(2), Sept. 29, 2018, [132 Stat. 3172](https://www.govinfo.gov/link/statute/132/3172), 3174.)*

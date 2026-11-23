@@ -3,9 +3,10 @@ title: "Section 56305 - Vessel encumbrances"
 usc_title: 46
 usc_section: "56305"
 chapter: 563
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 56305"
-generated_at: "2026-03-30T02:56:15.581Z"
+generated_at: "2026-11-23T21:26:37.317Z"
+status: "active"
 ---
 
 # § 56305. Vessel encumbrances
@@ -21,3 +22,46 @@ generated_at: "2026-03-30T02:56:15.581Z"
     - **(B)** in whose district the vessel was located when it was requisitioned.
   - **(3)** Service of process shall be made on the appropriate United States Attorney, the Attorney General, and the Secretary, in the manner provided by the Federal Rules of Civil Procedure (28 App. U.S.C.). Notice of the action shall be given to all interested persons as ordered by the court.
   - **(4)** The action shall proceed and be determined according to the principles of law and the rules of practice applicable in like cases between private parties.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 56305 | 46 App.:1242(d) (last par.). | June 29, 1936, ch. 858 , title IX, § 902(d) (last par.), as added Mar. 24, 1943, ch. 26, § 3(d) , 57 Stat. 49 ; Pub. L. 97–31, § 12(131) , Aug. 6, 1981 , 95 Stat. 165 . |
+
+
+In General
+
+Deposit in Treasury
+
+In general
+
+Availability of amounts deposited
+
+Civil Action
+
+In general
+
+Venue
+
+Service of process
+
+As between private parties
+
+Historical and Revision Notes
+
+56305
+
+June 29, 1936, ch. 858
+
+Mar. 24, 1943, ch. 26, § 3(d)
+
+57 Stat. 49
+
+Pub. L. 97–31, § 12(131)
+
+Aug. 6, 1981
+
+95 Stat. 165
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1655](https://www.govinfo.gov/link/statute/120/1655).)*

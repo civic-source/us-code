@@ -3,9 +3,10 @@ title: "Section 7704 - Certain publicly traded partnerships treated as corporati
 usc_title: 26
 usc_section: "7704"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7704"
-generated_at: "2026-03-30T02:55:27.885Z"
+generated_at: "2026-11-23T21:26:07.016Z"
+status: "active"
 ---
 
 # § 7704. Certain publicly traded partnerships treated as corporations
@@ -34,7 +35,7 @@ generated_at: "2026-03-30T02:55:27.885Z"
         - **(II)** the capture of carbon dioxide by such facility,
       - **(iv)** the production of electricity from any advanced nuclear facility (as defined in section 45J(d)(2)),
       - **(v)** the production of electricity or thermal energy exclusively using a qualified energy resource described in subparagraph (D) or (H) of section 45(c)(1), or
-      - **(vi)** the operation of energy property described in clause (iii) or (vii) of section 48(a)(3)(A) (determined without regard to any requirement under such section with respect to the date on which construction of property begins).
+      - **(vi)** the operation of energy property described in clause (iii) or (vii) of section 48(a)(3)(A) (determined without regard to any requirement under such section with respect to the date on which construction of property begins). 1 1 So in original. The period probably should be a comma.
     - **(F)** any gain from the sale or disposition of a capital asset (or property described in section 1231(b)) held for the production of income described in any of the foregoing subparagraphs of this paragraph, and
     - **(G)** in the case of a partnership described in the second sentence of subsection (c)(3), income and gains from commodities (not described in section 1221(a)(1)) or futures, forwards, and options with respect to commodities.
   - **(2)** Interest shall not be treated as qualifying income if—
@@ -64,3 +65,17 @@ generated_at: "2026-03-30T02:55:27.885Z"
     - **(B)** For purposes of this paragraph, in the case of a partnership which is a partner in another partnership, the gross income referred to in subparagraph (A) shall include the partnership’s distributive share of the gross income of such other partnership from the active conduct of trades and businesses of such other partnership. A similar rule shall apply in the case of lower-tiered partnerships.
     - **(C)** For purposes of this title, the tax imposed by this paragraph shall be treated as imposed by chapter 1 other than for purposes of determining the amount of any credit allowable under chapter 1 and shall be paid by the partnership. Section 6655 shall be applied to such partnership with respect to such tax in the same manner as if the partnership were a corporation, such tax were imposed by section 11, and references in such section to taxable income were references to the gross income referred to in subparagraph (A).
   - **(4)** An election and consent under this subsection shall apply to the taxable year for which made and all subsequent taxable years unless revoked by the partnership. Such revocation may be made without the consent of the Secretary, but, once so revoked, may not be reinstated.
+
+In general
+
+Existing partnership
+
+In general
+
+Special rule where substantial new line of business added after december 17, 1987
+
+Coordination with passive-type income requirements
+
+## Source Credit
+
+*(Added [Pub. L. 100–203, title X, § 10211(a)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–403](https://www.govinfo.gov/link/statute/101/1330); amended [Pub. L. 100–647, title II, § 2004(f)(1)](https://www.govinfo.gov/link/plaw/100/public/647), (3)–(5), Nov. 10, 1988, [102 Stat. 3602](https://www.govinfo.gov/link/statute/102/3602), 3603; [Pub. L. 105–34, title IX, § 964(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 892](https://www.govinfo.gov/link/statute/111/892); [Pub. L. 105–206, title VI, § 6009(b)(1)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 812](https://www.govinfo.gov/link/statute/112/812); [Pub. L. 106–170, title V, § 532(c)(2)(V)](https://www.govinfo.gov/link/plaw/106/public/170) –(Y), Dec. 17, 1999, [113 Stat. 1931](https://www.govinfo.gov/link/statute/113/1931); [Pub. L. 108–357, title III, § 331(e)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1476](https://www.govinfo.gov/link/statute/118/1476); [Pub. L. 110–343, div. B, title I, § 116(a)](https://www.govinfo.gov/link/plaw/110/public/343), title II, § 208(a), Oct. 3, 2008, [122 Stat. 3831](https://www.govinfo.gov/link/statute/122/3831), 3840; [Pub. L. 119–21, title VII, § 70524(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 281](https://www.govinfo.gov/link/statute/139/281).)*

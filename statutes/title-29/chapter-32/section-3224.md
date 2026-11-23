@@ -3,9 +3,10 @@ title: "Section 3224 - Evaluations and research"
 usc_title: 29
 usc_section: "3224"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3224"
-generated_at: "2026-03-30T02:55:18.757Z"
+generated_at: "2026-11-23T21:26:02.345Z"
+status: "active"
 ---
 
 # § 3224. Evaluations and research
@@ -64,3 +65,7 @@ generated_at: "2026-03-30T02:55:18.757Z"
       - **(ii)** The Secretary is authorized to use funds provided under this section to carry out peer review activities under this subparagraph.
     - **(D)** In awarding grants or contracts under this subsection, priority shall be provided to entities with recognized expertise in the methods, techniques, and knowledge of workforce investment activities. The Secretary shall establish appropriate time limits for the duration of such projects.
 - **(c)** Of the amount made available pursuant to section 3172(a)(2)(A) of this title for any program year, the Secretary shall use not more than 10 percent of such amount to carry out demonstration and pilot projects, multiservice projects, and multistate projects relating to the employment and training needs of dislocated workers. Of the requirements of this section, such projects shall be subject only to the provisions relating to review and evaluation of applications under subsection (b)(6)(C). Such projects may include demonstration and pilot projects relating to promoting self-employment, promoting job creation, averting dislocations, assisting dislocated farmers, assisting dislocated fishermen, and promoting public works. Such projects shall be administered by the Secretary, acting through the Assistant Secretary for Employment and Training.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 169](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1568](https://www.govinfo.gov/link/statute/128/1568).)*

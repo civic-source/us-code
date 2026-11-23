@@ -3,9 +3,10 @@ title: "Section 2605 - Acceptance of gifts for defense dependents’ schools"
 usc_title: 10
 usc_section: "2605"
 chapter: 155
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2605"
-generated_at: "2026-03-30T02:53:38.165Z"
+generated_at: "2026-11-23T21:25:32.635Z"
+status: "active"
 ---
 
 # § 2605. Acceptance of gifts for defense dependents’ schools
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:38.165Z"
 - **(g)** In this section, the term “defense dependents’ school” means the following:
   - **(1)** A school established as part of the defense dependents’ education system provided for under the Defense Dependents’ Education Act of 1978 ( 20 U.S.C. 921 et seq.).
   - **(2)** An elementary or secondary school established pursuant to section 2164 of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 99–661, div. A, title III, § 314(a)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3853](https://www.govinfo.gov/link/statute/100/3853); amended [Pub. L. 103–337, div. A, title III, § 353(a)](https://www.govinfo.gov/link/plaw/103/public/337) –(c)(1), Oct. 5, 1994, [108 Stat. 2731](https://www.govinfo.gov/link/statute/108/2731).)*

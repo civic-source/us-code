@@ -3,12 +3,17 @@ title: "Section 30 - Payments to donors of blood for persons undergoing treatmen
 usc_title: 24
 usc_section: "30"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "24 U.S.C. § 30"
-generated_at: "2026-03-30T02:54:50.789Z"
+generated_at: "2026-11-23T21:25:53.404Z"
+status: "active"
 ---
 
 # § 30. Payments to donors of blood for persons undergoing treatment at Government expense
 
 Any person, whether or not in the employ of the United States, who shall furnish blood from his or her veins for transfusion into the veins of a person entitled to and undergoing treatment at Government expense, whether in a Federal hospital or institution or in a civilian hospital or institution, or who shall furnish blood for blood banks or for other scientific and research purposes in connection with the care of any person entitled to treatment at Government expense, shall be entitled to be paid therefor such reasonable sum, not to exceed $50, for each blood withdrawal as may be determined by the head of the department or independent agency concerned, from public funds available to such department or independent agency for medical and hospital supplies: Provided , That no payment shall be made under this authority to any person for blood withdrawn for the benefit of the person from whom it is withdrawn.
 
+
+## Source Credit
+
+*(Feb. 9, 1927, ch. 91, [44 Stat. 1066](https://www.govinfo.gov/link/statute/44/1066); June 2, 1939, ch. 173, [53 Stat. 803](https://www.govinfo.gov/link/statute/53/803); July 30, 1941, ch. 332, [55 Stat. 609](https://www.govinfo.gov/link/statute/55/609).)*

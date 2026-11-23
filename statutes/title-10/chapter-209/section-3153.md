@@ -3,9 +3,10 @@ title: "Section 3153 - Contingency program management matters covered"
 usc_title: 10
 usc_section: "3153"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3153"
-generated_at: "2026-03-30T02:53:38.189Z"
+generated_at: "2026-11-23T21:25:32.716Z"
+status: "active"
 ---
 
 # § 3153. Contingency program management matters covered
@@ -22,3 +23,23 @@ The joint policy for contingency program management required by section 3151 of 
     - **(C)** procedures of the Department of Defense related to funding mechanisms and contingency contract management.
   - **(6)** Appropriate steps to ensure that training is maintained for such personnel even when they are not deployed in a contingency operation.
   - **(7)** Such steps as may be needed to ensure jointness and cross-service coordination in the area of program management during contingency operations.
+
+Authority
+
+Agreement
+
+Effect of Obligation and Availability of Funds
+
+Definitions
+
+Covered support, supplies, and services
+
+Contingency operation
+
+Crediting of Receipts
+
+Notification
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1810(a)](https://www.govinfo.gov/link/plaw/116/public/283), (b)(3), Jan. 1, 2021, [134 Stat. 4162](https://www.govinfo.gov/link/statute/134/4162), 4163.)*

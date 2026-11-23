@@ -3,9 +3,10 @@ title: "Section 602 - Determination of eligibility and project selection"
 usc_title: 23
 usc_section: "602"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 602"
-generated_at: "2026-03-30T02:55:12.574Z"
+generated_at: "2026-11-23T21:25:53.942Z"
+status: "active"
 ---
 
 # § 602. Determination of eligibility and project selection
@@ -79,3 +80,95 @@ generated_at: "2026-03-30T02:55:12.574Z"
     - **(B)** additional information or materials are needed to complete the application.
   - **(3)** Not later than 60 days after the date of issuance of the written notice under paragraph (2), the Secretary shall provide to the applicant a written notice informing the applicant whether the Secretary has approved or disapproved the application.
 - **(e)** Any credit instrument secured under the TIFIA program may be used to finance up to 100 percent of the cost of development phase activities as described in section 601(a)(2)(A).
+
+Eligibility.—
+
+In general
+
+Creditworthiness.—
+
+In general
+
+Senior debt
+
+Inclusion in transportation plans and programs
+
+Application
+
+Eligible project cost parameters.—
+
+In general
+
+Exceptions.—
+
+Intelligent transportation systems
+
+Transit-oriented development projects
+
+Rural projects
+
+Local infrastructure projects
+
+Dedicated revenue sources
+
+Public sponsorship of private entities
+
+Applications where obligor will be identified later
+
+Beneficial effects
+
+Project readiness.—
+
+In general
+
+Rural projects fund
+
+Public-private partnerships
+
+Selection Among Eligible Projects.—
+
+Establishment
+
+Master credit agreements.—
+
+Program of related projects
+
+Adequate funding not available
+
+Preliminary rating opinion letter
+
+Federal Requirements.—
+
+In general
+
+NEPA
+
+Payment and performance security.—
+
+In general
+
+Written determination
+
+No determination or applicable requirements
+
+Application Processing Procedures.—
+
+Processing timelines
+
+Notice of complete application
+
+Approval or denial of application
+
+Development Phase Activities
+
+Eligible project cost parameters
+
+Eligible project costs
+
+Exceptions
+
+Intelligent transportation system projects
+
+## Source Credit
+
+*(Added [Pub. L. 105–178, title I, § 1503(a)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 243](https://www.govinfo.gov/link/statute/112/243), § 182; renumbered § 602 and amended [Pub. L. 109–59, title I](https://www.govinfo.gov/link/plaw/109/public/59), §§ 1601(b), (c), 1602(b)(2), (5), (d), Aug. 10, 2005, [119 Stat. 1240](https://www.govinfo.gov/link/statute/119/1240), 1247; [Pub. L. 112–141, div. A, title II, § 2002](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 611](https://www.govinfo.gov/link/statute/126/611); [Pub. L. 114–94, div. A, title II, § 2001(b)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1440](https://www.govinfo.gov/link/statute/129/1440); [Pub. L. 117–58, div. A, title I, § 11508(d)(3)](https://www.govinfo.gov/link/plaw/117/public/58), title II, §§ 12001(b)–(d), (g), 12002(a), Nov. 15, 2021, [135 Stat. 588](https://www.govinfo.gov/link/statute/135/588), 618, 619, 622.)*

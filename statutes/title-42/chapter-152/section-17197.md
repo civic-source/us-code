@@ -3,9 +3,10 @@ title: "Section 17197 - Advanced geothermal computing and data science research 
 usc_title: 42
 usc_section: "17197"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17197"
-generated_at: "2026-03-30T02:56:11.501Z"
+generated_at: "2026-11-23T21:26:33.774Z"
+status: "active"
 ---
 
 # § 17197. Advanced geothermal computing and data science research and development
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.501Z"
   - **(1)** Research, development, and demonstration of technologies to develop advanced data, machine learning, artificial intelligence, and related computing tools to assist in locating geothermal resources, to increase the reliability of site characterization, to increase the rate and efficiency of drilling, to improve induced seismicity mitigation, and to support enhanced geothermal systems technologies.
   - **(2)** Research, development, and demonstration of models of geothermal reservoir performance and enhanced geothermal systems reservoir stimulation technologies and techniques, with an emphasis on accurately modeling fluid and heat flow, permeability evolution, geomechanics, geochemistry, seismicity, and operational performance over time, including collaboration with industry and field validation.
 - **(c)** In carrying out these programs, the Secretary shall ensure coordination and consultation with the Department of Energy’s Office of Science. The Secretary shall ensure, to the maximum extent practicable, coordination of these activities with the Department of Energy National Laboratories, institutes of higher education, and the private sector.
+
+## Source Credit
+
+*([Pub. L. 110–140, title VI, § 618](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1683](https://www.govinfo.gov/link/statute/121/1683); [Pub. L. 116–260, div. Z, title III, § 3002(g)(1)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2494](https://www.govinfo.gov/link/statute/134/2494).)*

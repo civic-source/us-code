@@ -3,9 +3,10 @@ title: "Section 1169 - Additional standards for group health plans"
 usc_title: 29
 usc_section: "1169"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1169"
-generated_at: "2026-03-30T02:55:18.722Z"
+generated_at: "2026-11-23T21:26:02.268Z"
+status: "active"
 ---
 
 # § 1169. Additional standards for group health plans
@@ -58,3 +59,79 @@ generated_at: "2026-03-30T02:55:18.722Z"
     - **(B)** The term “placement”, or being “placed”, for adoption, in connection with any placement for adoption of a child with any person, means the assumption and retention by such person of a legal obligation for total or partial support of such child in anticipation of adoption of such child. The child’s placement with such person terminates upon the termination of such legal obligation.
 - **(d)** A group health plan may not reduce its coverage of the costs of pediatric vaccines (as defined under section 1928(h)(6) of the Social Security Act [ 42 U.S.C. 1396s(h)(6) ] as amended by section 13830 2 2 So in original. Probably should be section “13631”. of the Omnibus Budget Reconciliation Act of 1993) below the coverage it provided as of May 1, 1993 .
 - **(e)** Any regulations prescribed under this section shall be prescribed by the Secretary of Labor, in consultation with the Secretary of Health and Human Services.
+
+In general
+
+Plan amendments not required until january 1, 1997
+
+National Medical Support Notices for State or Local Governmental Group Health Plans.—
+
+In general
+
+Enrollment of child in plan
+
+Rule of construction
+
+Definitions
+
+State or local governmental group health plan
+
+Alternate recipient
+
+Group health plan
+
+State
+
+Other terms
+
+Effective date
+
+Qualified Medical Child Support Orders and National Medical Support Notices for Church Plans.—
+
+In general
+
+Definitions
+
+Church group health plan
+
+Qualified medical child support order
+
+Medical child support order
+
+Alternate recipient
+
+Group health plan
+
+State
+
+Other terms
+
+Information to be included in qualified order
+
+Restriction on new types or forms of benefits
+
+Procedural requirements.—
+
+Timely notifications and determinations
+
+Establishment of procedures for determining qualified status of orders
+
+National medical support notice deemed to be a qualified medical child support order.—
+
+In general
+
+Enrollment of child in plan
+
+Rule of construction
+
+Direct provision of benefits provided to alternate recipients
+
+Payment to state official treated as satisfaction of plan’s obligation to make payment to alternate recipient
+
+Effective date
+
+Report and Recommendations Regarding the Enforcement of Qualified Medical Child Support Orders
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 609](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 103–66, title IV, § 4301(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 371](https://www.govinfo.gov/link/statute/107/371); amended [Pub. L. 104–193, title III, § 381(a)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2257](https://www.govinfo.gov/link/statute/110/2257); [Pub. L. 105–33, title V](https://www.govinfo.gov/link/plaw/105/public/33), §§ 5611(a), (b), 5612(a), 5613(a), (b), Aug. 5, 1997, [111 Stat. 647](https://www.govinfo.gov/link/statute/111/647), 648; [Pub. L. 105–200, title IV, § 401(d)](https://www.govinfo.gov/link/plaw/105/public/200), (h)(2)(A)(iii), (B), (3)(A), July 16, 1998, [112 Stat. 662](https://www.govinfo.gov/link/statute/112/662), 668.)*

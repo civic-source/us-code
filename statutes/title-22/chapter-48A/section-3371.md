@@ -3,9 +3,10 @@ title: "Section 3371 - Findings"
 usc_title: 22
 usc_section: "3371"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3371"
-generated_at: "2026-03-30T02:55:05.393Z"
+generated_at: "2026-11-23T21:25:58.585Z"
+status: "active"
 ---
 
 # § 3371. Findings
@@ -16,3 +17,7 @@ Congress makes the following findings:
   - **(2)** Taiwan was invited to participate in the World Health Assembly (WHA), the decision-making body of the World Health Organization (WHO), as an observer annually between 2009 and 2016. Since the 2016 election of President Tsai, the PRC has increasingly resisted Taiwan’s participation in the WHA. Taiwan was not invited to attend the WHA in 2017, 2018, 2019, 2020, or 2021.
   - **(3)** The Taipei Flight Information Region reportedly served 1,750,000 flights and 68,900,000 passengers in 2018, and is home to Taiwan Taoyuan International Airport, the eleventh busiest airport in the world. Taiwan has been excluded from participating at the International Civil Aviation Organization (ICAO) since 2013.
   - **(4)** United Nations (UN) General Assembly Resolution 2758 does not address the issue of representation of Taiwan and its people at the United Nations, nor does it give the PRC the right to represent the people of Taiwan.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. E, title LV, § 5516](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3317](https://www.govinfo.gov/link/statute/136/3317).)*

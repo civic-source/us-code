@@ -3,9 +3,10 @@ title: "Section 3811 - Report on impact of trade promotion authority"
 usc_title: 19
 usc_section: "3811"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 3811"
-generated_at: "2026-03-30T02:54:24.698Z"
+generated_at: "2026-11-23T21:25:42.868Z"
+status: "active"
 ---
 
 # § 3811. Report on impact of trade promotion authority
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:24.698Z"
   - **(3)** The North American Free Trade Agreement.
   - **(4)** The Uruguay Round Agreements.
   - **(5)** The Tokyo Round of Multilateral Trade Negotiations.
+
+## Source Credit
+
+*([Pub. L. 107–210, div. B, title XXI, § 2111](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 1021](https://www.govinfo.gov/link/statute/116/1021).)*

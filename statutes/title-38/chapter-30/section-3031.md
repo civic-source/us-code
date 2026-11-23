@@ -3,9 +3,10 @@ title: "Section 3031 - Time limitation for use of eligibility and entitlement"
 usc_title: 38
 usc_section: "3031"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3031"
-generated_at: "2026-03-30T02:55:53.499Z"
+generated_at: "2026-11-23T21:26:16.719Z"
+status: "active"
 ---
 
 # § 3031. Time limitation for use of eligibility and entitlement
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:55:53.499Z"
 - **(i)** 1 In the case of an individual eligible for educational assistance under this chapter who is prevented from pursuing the individual’s chosen program of education before the expiration of the 10-year period for the use of entitlement under this chapter otherwise applicable under this section because the educational institution or training establishment closed (temporarily or permanently) under an established policy based on an Executive order of the President or due to an emergency situation, such 10-year period—
   - **(1)** shall not run during the period the individual is so prevented from pursuing such program; and
   - **(2)** shall again begin running on the first day after the individual is able to resume pursuit of a program of education with educational assistance under this chapter.
+
+## Source Credit
+
+*(Added [Pub. L. 98–525, title VII, § 702(a)(1)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2560](https://www.govinfo.gov/link/statute/98/2560), § 1431; amended [Pub. L. 99–576, title III](https://www.govinfo.gov/link/plaw/99/public/576), §§ 307(b), 321(7), Oct. 28, 1986, [100 Stat. 3270](https://www.govinfo.gov/link/statute/100/3270), 3278; [Pub. L. 100–689, title I, § 111(a)(6)](https://www.govinfo.gov/link/plaw/100/public/689), Nov. 18, 1988, [102 Stat. 4171](https://www.govinfo.gov/link/statute/102/4171); [Pub. L. 101–237, title IV](https://www.govinfo.gov/link/plaw/101/public/237), §§ 420(a)(1), (b), 423(a)(4), (b)(1), Dec. 18, 1989, [103 Stat. 2087](https://www.govinfo.gov/link/statute/103/2087), 2088, 2091, 2092; renumbered § 3031 and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 102–568, title III, § 302(a)(3)](https://www.govinfo.gov/link/plaw/102/public/568), Oct. 29, 1992, [106 Stat. 4327](https://www.govinfo.gov/link/statute/106/4327); [Pub. L. 106–117, title VII, § 702(b)](https://www.govinfo.gov/link/plaw/106/public/117), Nov. 30, 1999, [113 Stat. 1583](https://www.govinfo.gov/link/statute/113/1583); [Pub. L. 107–103, title I, § 105(c)](https://www.govinfo.gov/link/plaw/107/public/103), Dec. 27, 2001, [115 Stat. 983](https://www.govinfo.gov/link/statute/115/983); [Pub. L. 107–330, title III, § 308(g)(10)](https://www.govinfo.gov/link/plaw/107/public/330), Dec. 6, 2002, [116 Stat. 2829](https://www.govinfo.gov/link/statute/116/2829); [Pub. L. 111–377, title II, § 201(a)](https://www.govinfo.gov/link/plaw/111/public/377), Jan. 4, 2011, [124 Stat. 4122](https://www.govinfo.gov/link/statute/124/4122); [Pub. L. 117–328, div. U, title II, § 232(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5456](https://www.govinfo.gov/link/statute/136/5456); [Pub. L. 117–333, § 3(a)](https://www.govinfo.gov/link/plaw/117/public/333), Jan. 5, 2023, [136 Stat. 6126](https://www.govinfo.gov/link/statute/136/6126).)*

@@ -3,9 +3,10 @@ title: "Section 933 - PAYGO estimates and PAYGO scorecards"
 usc_title: 2
 usc_section: "933"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 933"
-generated_at: "2026-03-30T02:53:04.807Z"
+generated_at: "2026-11-23T21:25:21.208Z"
+status: "active"
 ---
 
 # § 933. PAYGO estimates and PAYGO scorecards
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:53:04.807Z"
     - **(D)** A point of order under subparagraph (A) may be raised by a Senator as provided in section 644(e) of this title .
     - **(E)** When the Senate is considering a conference report on, or an amendment between the Houses in relation to, a PAYGO Act, upon a point of order being made by any Senator pursuant to this section, and such point of order being sustained, such material contained in such conference report shall be deemed stricken, and the Senate shall proceed to consider the question of whether the Senate shall recede from its amendment and concur with a further amendment, or concur in the House amendment with a further amendment, as the case may be, which further amendment shall consist of only that portion of the conference report or House amendment, as the case may be, not so stricken. Any such motion in the Senate shall be debatable. In any case in which such point of order is sustained against a conference report (or Senate amendment derived from such conference report by operation of this subsection), no further amendment shall be in order.
   - **(4)** If a provision is designated as an emergency requirement under this Act, CBO or OMB, as applicable, shall not include the budgetary effects of such a provision in its estimate of the budgetary effects of that PAYGO legislation.
+
+## Source Credit
+
+*([Pub. L. 111–139, title I, § 4](https://www.govinfo.gov/link/plaw/111/public/139), Feb. 12, 2010, [124 Stat. 9](https://www.govinfo.gov/link/statute/124/9).)*

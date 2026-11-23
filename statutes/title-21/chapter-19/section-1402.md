@@ -3,9 +3,10 @@ title: "Section 1402 - Foreign pesticide information"
 usc_title: 21
 usc_section: "1402"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 1402"
-generated_at: "2026-03-30T02:54:54.302Z"
+generated_at: "2026-11-23T21:25:56.275Z"
+status: "active"
 ---
 
 # § 1402. Foreign pesticide information
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:54.302Z"
   - **(1)** notify in writing the Department of Agriculture, the Environmental Protection Agency, and the Department of State at the initiation of negotiations with a foreign country to develop a cooperative agreement under subsection (a); and
   - **(2)** coordinate the activities of the Department of Health and Human Services with the activities of those departments and agencies, as appropriate, during the course of such negotiations.
 - **(d)** Not later than one year after August 23, 1988 , the Secretary of Health and Human Services shall report to the Committee on Agriculture, Nutrition, and Forestry and the Committee on Labor and Human Resources of the Senate and the House of Representatives on the activities undertaken by the Secretary to implement this section. The report shall be made available to appropriate Federal and State agencies and to interested persons.
+
+## Source Credit
+
+*([Pub. L. 100–418, title IV, § 4703](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1413](https://www.govinfo.gov/link/statute/102/1413).)*

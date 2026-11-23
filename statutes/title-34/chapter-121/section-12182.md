@@ -3,9 +3,10 @@ title: "Section 12182 - Provision of assistance"
 usc_title: 34
 usc_section: "12182"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 12182"
-generated_at: "2026-03-30T02:55:33.284Z"
+generated_at: "2026-11-23T21:26:09.731Z"
+status: "active"
 ---
 
 # § 12182. Provision of assistance
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:33.284Z"
     - **(C)** demonstrate previous experience in the development of low-income housing or community or business development projects in a low-income community and provide a record of achievement with respect to such projects; and
     - **(D)** have secured one or more commitments from local sources for contributions (either in cash or in kind, letters of credit or letters of commitment) in an amount that is at least equal to the amount requested in the application submitted under subparagraph (B).
   - **(3)** Notwithstanding the provisions of paragraph (2)(D), the Secretary may reduce local contributions to not less than 25 percent of the amount of the line of credit requested by the community development corporation if the Secretary determines such to be appropriate in accordance with section 12186 of this title .
+
+## Source Credit
+
+*([Pub. L. 103–322, title III, § 31112](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1882](https://www.govinfo.gov/link/statute/108/1882).)*

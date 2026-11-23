@@ -3,9 +3,10 @@ title: "Section 2111 - Other Federal programs"
 usc_title: 16
 usc_section: "2111"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2111"
-generated_at: "2026-03-30T02:54:23.000Z"
+generated_at: "2026-11-23T21:25:51.944Z"
+status: "active"
 ---
 
 # § 2111. Other Federal programs
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:23.000Z"
   - **(7)** section 1009 and the proviso to section 1010 1 1 See References in Text note below. of the Agricultural Act of 1970, as added by the Agriculture and Consumer Protection Act of 1973 [ 16 U.S.C. 1509 , 1510].
 - **(b)** Contracts and cooperative and other agreements under cooperative forestry programs executed under authority of the Acts, or portions thereof, repealed under subsection (a) of this section shall remain in effect until revoked or amended by their own terms or under other provisions of law.
 - **(c)** Funds appropriated under the authority of the Acts, or portions thereof, repealed under subsection (a) of this section shall be available for expenditure for the programs authorized under this chapter.
+
+## Source Credit
+
+*([Pub. L. 95–313, § 16](https://www.govinfo.gov/link/plaw/95/public/313), formerly § 13, July 1, 1978, [92 Stat. 374](https://www.govinfo.gov/link/statute/92/374); renumbered § 16, [Pub. L. 101–624, title XII, § 1215(1)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3525](https://www.govinfo.gov/link/statute/104/3525).)*

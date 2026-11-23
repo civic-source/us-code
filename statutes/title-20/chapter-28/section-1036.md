@@ -3,9 +3,10 @@ title: "Section 1036 - Graduate fellowships to prepare faculty in high-need area
 usc_title: 20
 usc_section: "1036"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1036"
-generated_at: "2026-03-30T02:54:48.099Z"
+generated_at: "2026-11-23T21:25:47.029Z"
+status: "active"
 ---
 
 # § 1036. Graduate fellowships to prepare faculty in high-need areas at colleges of education
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:54:48.099Z"
       - **(ii)** based on documentation presented to the Secretary of substantial economic or personal hardship.
 - **(f)** An eligible institution that receives a grant under this section may reserve not more than ten percent of the grant amount for academic and career transition support for graduate fellowship recipients and for meeting the institutional obligation described in subsection (e)(3)(B).
 - **(g)** An eligible institution that receives a grant under this section may not use grant funds for general operational overhead of the institution.
+
+## Source Credit
+
+*([Pub. L. 89–329, title II, § 258](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title II, § 201(3)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3163](https://www.govinfo.gov/link/statute/122/3163); amended [Pub. L. 114–95, title IX, § 9214(c)(11)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2164](https://www.govinfo.gov/link/statute/129/2164).)*

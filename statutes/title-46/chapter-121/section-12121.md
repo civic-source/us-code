@@ -3,9 +3,10 @@ title: "Section 12121 - Small passenger vessels and uninspected passenger vessel
 usc_title: 46
 usc_section: "12121"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 12121"
-generated_at: "2026-03-30T02:56:15.559Z"
+generated_at: "2026-11-23T21:26:37.135Z"
+status: "active"
 ---
 
 # § 12121. Small passenger vessels and uninspected passenger vessels
@@ -26,3 +27,42 @@ generated_at: "2026-03-30T02:56:15.559Z"
   - **(2)** Paragraph (1) does not affect—
     - **(A)** the criminal prohibition on fraud and false statements in section 1001 of title 18 ; or
     - **(B)** any other authority of the Secretary to revoke a certificate or endorsement issued under subsection (b).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 12121 | 46:12106 note. | Pub. L. 105–383, title V , §§ 502–504, Nov. 13, 1998 , 112 Stat. 3445 ; Pub. L. 107–295, title II, § 207(c)(2) , Nov. 25, 2002 , 116 Stat. 2097 . |
+
+
+Definitions
+
+Eligible vessel
+
+Small passenger vessel; uninspected passenger vessel; passenger for hire
+
+Issuance of Certificate and Endorsement
+
+Revocation
+
+For fraud
+
+Other provisions not affected
+
+Historical and Revision Notes
+
+12121
+
+Pub. L. 105–383, title V
+
+Nov. 13, 1998
+
+112 Stat. 3445
+
+Pub. L. 107–295, title II, § 207(c)(2)
+
+Nov. 25, 2002
+
+116 Stat. 2097
+
+## Source Credit
+
+*([Pub. L. 109–304, § 5](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1504](https://www.govinfo.gov/link/statute/120/1504); [Pub. L. 116–283, div. G, title LVXXXIII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXIII], § 8312, Jan. 1, 2021, [134 Stat. 4697](https://www.govinfo.gov/link/statute/134/4697).)*

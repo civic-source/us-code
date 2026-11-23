@@ -3,9 +3,10 @@ title: "Section 47124 - Agreements for State and local operation of airport faci
 usc_title: 49
 usc_section: "47124"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 47124"
-generated_at: "2026-03-30T02:56:19.404Z"
+generated_at: "2026-11-23T21:26:40.982Z"
+status: "active"
 ---
 
 # § 47124. Agreements for State and local operation of airport facilities
@@ -124,3 +125,188 @@ generated_at: "2026-03-30T02:56:19.404Z"
     - **(A)** airports that do not have a permanent air traffic control tower at the time of application;
     - **(B)** airports that would provide small and rural community air service; or
     - **(C)** airports that have been newly accepted as of the date of enactment of this subsection into the Contract Tower Program.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 47124(a) | 49 App.:2222. | Sept. 3, 1982 , Pub. L. 97–248, § 526 , 96 Stat. 698 . |
+| 47124(b)(1) | 49 App.:2222 (note). | Dec. 30, 1987 , Pub. L. 100–223, § 306 , 101 Stat. 1526 . |
+| 47124(b)(2) | 49 App.:1344(h). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 747 , § 303(h); added Oct. 31, 1992 , Pub. L. 102–581, § 201(a) , 106 Stat. 4890 . |
+
+
+Government Relief From Liability
+
+Air Traffic Control Contract Program.—
+
+Contract tower program.—
+
+Continuation
+
+Special rule
+
+Use of excess funds
+
+General authority
+
+In general
+
+Small or medium hub airports
+
+Cost-share program.—
+
+In general
+
+Program components
+
+Priority
+
+Costs exceeding benefits
+
+Funding
+
+Use of excess funds
+
+Benefit-to-cost calculation
+
+Period for completion of an operational readiness inspection
+
+Construction of air traffic control towers.—
+
+Grants
+
+Eligibility
+
+Safety Audits
+
+Criteria To Evaluate Participants.—
+
+Timing of evaluations.—
+
+Towers participating in cost-share program
+
+Towers participating in contract tower program
+
+Costs to be considered
+
+Other criteria to be considered
+
+Review of cost-benefit determinations
+
+Definitions
+
+Contract tower program
+
+Cost-share program
+
+Improving Controller Situational Awareness.—
+
+In general
+
+Installation and maintenance
+
+Requirements
+
+Liability Insurance.—
+
+In general
+
+Interim steps
+
+Briefing
+
+Milestones for Design Approval of Remote Towers.—
+
+In general
+
+Requirements
+
+System design approval and evaluation process
+
+Preservation of existing design approvals
+
+Prioritization for remote tower certification
+
+Historical and Revision Notes
+
+47124(a)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 526
+
+96 Stat. 698
+
+47124(b)(1)
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 306
+
+101 Stat. 1526
+
+47124(b)(2)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 747
+
+Oct. 31, 1992
+
+Pub. L. 102–581, § 201(a)
+
+106 Stat. 4890
+
+pilot
+
+program
+
+In General
+
+Contents
+
+Report
+
+Implementation
+
+Rule of Construction
+
+In General
+
+Report
+
+“The Administrator [of the Federal Aviation Administration] shall establish, maintain, and publish on the website of the FAA [Federal Aviation Administration] a list of the following:
+
+In general
+
+Priority
+
+Tower selection
+
+Controller retention
+
+Safety analysis.—
+
+In general
+
+Report
+
+Authorization of appropriations
+
+In general
+
+Requests for additional authority
+
+Definition of contract tower program
+
+In general
+
+Terms and conditions
+
+Study
+
+Report
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1276](https://www.govinfo.gov/link/statute/108/1276); [Pub. L. 106–181, title I, § 131](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 78](https://www.govinfo.gov/link/statute/114/78); [Pub. L. 108–7, div. I, title III, § 370(b)(1)](https://www.govinfo.gov/link/plaw/108/public/7), (2), Feb. 20, 2003, [117 Stat. 425](https://www.govinfo.gov/link/statute/117/425), 426; [Pub. L. 108–176, title I, § 105](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2498](https://www.govinfo.gov/link/statute/117/2498); [Pub. L. 112–55, div. C, title I, § 119](https://www.govinfo.gov/link/plaw/112/public/55), Nov. 18, 2011, [125 Stat. 649](https://www.govinfo.gov/link/statute/125/649); [Pub. L. 112–95, title I, § 147](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 30](https://www.govinfo.gov/link/statute/126/30); [Pub. L. 113–76, div. L, title I, § 118](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 581](https://www.govinfo.gov/link/statute/128/581); [Pub. L. 113–235, div. K, title I, § 118](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2704](https://www.govinfo.gov/link/statute/128/2704); [Pub. L. 114–55, title I, § 102(c)](https://www.govinfo.gov/link/plaw/114/public/55), Sept. 30, 2015, [129 Stat. 523](https://www.govinfo.gov/link/statute/129/523); [Pub. L. 114–141, title I, § 102(c)](https://www.govinfo.gov/link/plaw/114/public/141), Mar. 30, 2016, [130 Stat. 323](https://www.govinfo.gov/link/statute/130/323); [Pub. L. 114–190, title I, § 1102(c)](https://www.govinfo.gov/link/plaw/114/public/190), July 15, 2016, [130 Stat. 617](https://www.govinfo.gov/link/statute/130/617); [Pub. L. 115–63, title I, § 102(d)](https://www.govinfo.gov/link/plaw/115/public/63), Sept. 29, 2017, [131 Stat. 1169](https://www.govinfo.gov/link/statute/131/1169); [Pub. L. 115–141, div. M, title I, § 102(c)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1046](https://www.govinfo.gov/link/statute/132/1046); [Pub. L. 115–254, div. B, title I, § 133(a)](https://www.govinfo.gov/link/plaw/115/public/254) –(c), Oct. 5, 2018, [132 Stat. 3206–3208](https://www.govinfo.gov/link/statute/132/3206); [Pub. L. 118–63, title VI](https://www.govinfo.gov/link/plaw/118/public/63), §§ 620, 621(a), (c), 625(b), (c), title VII, § 712(c)(2), title XI, § 1101(v), May 16, 2024, [138 Stat. 1234](https://www.govinfo.gov/link/statute/138/1234), 1235, 1237, 1242, 1256, 1414.)*

@@ -3,9 +3,10 @@ title: "Section 330b - Duties of Secretary"
 usc_title: 15
 usc_section: "330b"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 330b"
-generated_at: "2026-03-30T02:54:08.082Z"
+generated_at: "2026-11-23T21:25:39.631Z"
+status: "active"
 ---
 
 # § 330b. Duties of Secretary
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.082Z"
   - **(1)** to other Federal Government departments, agencies, and officials for official use upon request;
   - **(2)** in any judicial proceeding under court order formulated to preserve the confidentiality of such information without impairing the proceeding; and
   - **(3)** to the public if necessary to protect their health and safety.
+
+## Source Credit
+
+*([Pub. L. 92–205, § 3](https://www.govinfo.gov/link/plaw/92/public/205), Dec. 18, 1971, [85 Stat. 736](https://www.govinfo.gov/link/statute/85/736).)*

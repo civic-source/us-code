@@ -3,9 +3,10 @@ title: "Section 4310 - Establishment of Cave Research Program"
 usc_title: 16
 usc_section: "4310"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4310"
-generated_at: "2026-03-30T02:54:23.043Z"
+generated_at: "2026-11-23T21:25:52.014Z"
+status: "active"
 ---
 
 # § 4310. Establishment of Cave Research Program
@@ -13,3 +14,29 @@ generated_at: "2026-03-30T02:54:23.043Z"
 - **(a)** In order to provide for needed research relating to cave resources on certain lands in the United States, the Secretary of the Interior, acting through the Director of the National Park Service shall establish and administer a Cave Research Program (hereinafter in this section referred to as the “Program”). The Program shall include the orderly and scholarly collection, analysis, and dissemination of research material related to caves in lands managed by the National Park Service including, but not limited to, Carlsbad Caverns National Park and the Capitan Reef area.
 - **(b)** The Program shall produce educational and interpretive information and materials vital to public understanding of cave geology, assist students and researchers, and provide for a comprehensive evaluation of cave resources and measures needed for their protection.
 - **(c)** The program 1 1 So in original. Probably should be capitalized. shall be directed primarily toward lands managed by the National Park Service, but the Secretary of the Interior may enter into cooperative agreements with other agencies or entities as may be appropriate to carry out the purposes of this section.
+
+In General
+
+Purposes
+
+Location
+
+Management
+
+Guidelines
+
+Contracts and Cooperative Agreements
+
+Facility.—
+
+Leasing or acquiring a facility
+
+Construction of a facility
+
+Acceptance of Grants and Transfers
+
+“The Congress makes the following findings:
+
+## Source Credit
+
+*([Pub. L. 101–578, title II, § 202](https://www.govinfo.gov/link/plaw/101/public/578), Nov. 15, 1990, [104 Stat. 2859](https://www.govinfo.gov/link/statute/104/2859).)*

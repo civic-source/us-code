@@ -3,9 +3,10 @@ title: "Section 941 - Strategic plan to enhance the security of the internationa
 usc_title: 6
 usc_section: "941"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 941"
-generated_at: "2026-03-30T02:53:09.501Z"
+generated_at: "2026-11-23T21:25:25.854Z"
+status: "active"
 ---
 
 # § 941. Strategic plan to enhance the security of the international supply chain
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:09.501Z"
 - **(g)**
   - **(1)** Not later than 270 days after October 13, 2006 , the Secretary shall submit to the appropriate congressional committees a report that contains the strategic plan required by subsection (a).
   - **(2)** Not later than 270 days after October 5, 2018 , and triennially thereafter, the Secretary shall submit to the appropriate congressional committees a report that contains any updates to the strategic plan under subsection (a) since the prior report.
+
+## Source Credit
+
+*([Pub. L. 109–347, title II, § 201](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1901](https://www.govinfo.gov/link/statute/120/1901); [Pub. L. 115–254, div. J, § 1804](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3533](https://www.govinfo.gov/link/statute/132/3533).)*

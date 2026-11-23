@@ -3,9 +3,10 @@ title: "Section 372a - Heirs by adoption"
 usc_title: 25
 usc_section: "372a"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 372a"
-generated_at: "2026-03-30T02:54:52.805Z"
+generated_at: "2026-11-23T21:25:54.567Z"
+status: "active"
 ---
 
 # § 372a. Heirs by adoption
@@ -14,3 +15,15 @@ In probate matters under the exclusive jurisdiction of the Secretary of the Inte
 
   - **(1)** Unless such adoption shall have been—
   - **(2)** Unless such adoption shall have been recognized by the Department of the Interior prior to the effective date of this section or in the distribution of the estate of an Indian who has died prior to that date: Provided , That an adoption by Indian custom made prior to the effective date of this section may be made valid by recordation with the superintendent if both the adopted child and the adoptive parent are still living, if the adoptive parent requests that the adoption be recorded, and if the adopted child is an adult and makes such a request or the superintendent on behalf of a minor child approves of the recordation.
+
+(a) by a judgment or decree of a State court;
+
+(b) by a judgment or decree of an Indian court;
+
+(c) by a written adoption approved by the superintendent of the agency having jurisdiction over the tribe of which either the adopted child or the adoptive parent is a member, and duly recorded in a book kept by the superintendent for that purpose; or
+
+(d) by an adoption in accordance with a procedure established by the tribal authority, recognized by the Department of the Interior, of the tribe either of the adopted child or the adoptive parent, and duly recorded in a book kept by the tribe for that purpose; or
+
+## Source Credit
+
+*(July 8, 1940, ch. 555, §§ 1, 2, [54 Stat. 746](https://www.govinfo.gov/link/statute/54/746).)*

@@ -3,9 +3,10 @@ title: "Section 1142 - Preseparation counseling; transmittal of certain records 
 usc_title: 10
 usc_section: "1142"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1142"
-generated_at: "2026-03-30T02:53:38.110Z"
+generated_at: "2026-11-23T21:25:32.430Z"
+status: "active"
 ---
 
 # § 1142. Preseparation counseling; transmittal of certain records to Department of Veterans Affairs
@@ -93,3 +94,43 @@ generated_at: "2026-03-30T02:53:38.110Z"
     - **(A)** at the meeting with a counselor under subsection (c)(2); and
     - **(B)** on the day the member separates, retires, or is discharged; and
   - **(2)** the Secretary of Veterans Affairs on the day the member separates, retires, or is discharged.
+
+Requirement
+
+Matters To Be Covered By Counseling
+
+Counseling Pathways
+
+Transmittal of Medical Information to Department of Veterans Affairs
+
+Joint Service Transcript
+
+In General
+
+Information Transmitted
+
+Modification of Form DD–
+
+Opt-out of Information Sharing
+
+Storage and Transfer of Information.—
+
+In general
+
+Compliance
+
+Limitation on Use of Information
+
+Notification Required
+
+Deadline for Notification
+
+In general
+
+Caregivers
+
+Deadline for commencement
+
+## Source Credit
+
+*(Added [Pub. L. 101–510, div. A, title V, § 502(a)(1)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1552](https://www.govinfo.gov/link/statute/104/1552); amended [Pub. L. 102–190, div. A, title X, § 1061(a)(5)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1472](https://www.govinfo.gov/link/statute/105/1472); [Pub. L. 102–484, div. D, title XLIV](https://www.govinfo.gov/link/plaw/102/public/484), §§ 4401, 4441(b), 4462(b), Oct. 23, 1992, [106 Stat. 2701](https://www.govinfo.gov/link/statute/106/2701), 2730, 2740; [Pub. L. 103–35, title II, § 201(i)(1)](https://www.govinfo.gov/link/plaw/103/public/35), May 31, 1993, [107 Stat. 100](https://www.govinfo.gov/link/statute/107/100); [Pub. L. 103–160, div. A, title XIII, § 1332(c)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1797](https://www.govinfo.gov/link/statute/107/1797); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1087(a)(9)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–290; [Pub. L. 107–103, title III, § 302(a)](https://www.govinfo.gov/link/plaw/107/public/103), Dec. 27, 2001, [115 Stat. 991](https://www.govinfo.gov/link/statute/115/991); [Pub. L. 109–163, div. A, title V, § 594](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3281](https://www.govinfo.gov/link/statute/119/3281); [Pub. L. 111–84, div. A, title X, § 1073(a)(13)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2473](https://www.govinfo.gov/link/statute/123/2473); [Pub. L. 112–56, title II, § 221(b)](https://www.govinfo.gov/link/plaw/112/public/56), Nov. 21, 2011, [125 Stat. 716](https://www.govinfo.gov/link/statute/125/716); [Pub. L. 112–81, div. A, title V](https://www.govinfo.gov/link/plaw/112/public/81), §§ 513, 529, 533(c), Dec. 31, 2011, [125 Stat. 1393](https://www.govinfo.gov/link/statute/125/1393), 1402, 1404; [Pub. L. 112–239, div. A, title V, § 541(c)](https://www.govinfo.gov/link/plaw/112/public/239), title X, § 1076(f)(12), title XVI, § 1699(c)(1), Jan. 2, 2013, [126 Stat. 1735](https://www.govinfo.gov/link/statute/126/1735), 1952, 2092; [Pub. L. 114–92, div. A, title V, § 552](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 823](https://www.govinfo.gov/link/statute/129/823); [Pub. L. 114–328, div. A, title V, § 562](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2138](https://www.govinfo.gov/link/statute/130/2138); [Pub. L. 115–91, div. A, title V](https://www.govinfo.gov/link/plaw/115/public/91), §§ 541(a), 542(d), Dec. 12, 2017, [131 Stat. 1393](https://www.govinfo.gov/link/statute/131/1393), 1395; [Pub. L. 115–232, div. A, title V](https://www.govinfo.gov/link/plaw/115/public/232), §§ 552(a)(1), 553(b)(2), Aug. 13, 2018, [132 Stat. 1769](https://www.govinfo.gov/link/statute/132/1769), 1772; [Pub. L. 116–92, div. A, title V, § 561](https://www.govinfo.gov/link/plaw/116/public/92), title XVII, § 1731(a)(26), Dec. 20, 2019, [133 Stat. 1394](https://www.govinfo.gov/link/statute/133/1394), 1813; [Pub. L. 118–31, div. A, title V, § 571](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 275](https://www.govinfo.gov/link/statute/137/275); [Pub. L. 118–159, div. A, title V, § 571](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1909](https://www.govinfo.gov/link/statute/138/1909); [Pub. L. 119–60, div. A, title V](https://www.govinfo.gov/link/plaw/119/public/60), §§ 571(a)–(d), 572, Dec. 18, 2025, [139 Stat. 884–886](https://www.govinfo.gov/link/statute/139/884).)*

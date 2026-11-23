@@ -3,9 +3,10 @@ title: "Section 2132 - Balance-of-payments authority"
 usc_title: 19
 usc_section: "2132"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2132"
-generated_at: "2026-03-30T02:54:24.664Z"
+generated_at: "2026-11-23T21:25:42.773Z"
+status: "active"
 ---
 
 # § 2132. Balance-of-payments authority
@@ -36,3 +37,9 @@ generated_at: "2026-03-30T02:54:24.664Z"
   - **(2)** shall take into account any increase since the end of such representative period in domestic consumption of such article and like or similar articles of domestic manufacture or production.
 - **(g)** The President may at any time, consistent with the provisions of this section, suspend, modify, or terminate, in whole or in part, any proclamation under this section either during the initial 150-day period of effectiveness or as extended by subsequent Act of Congress.
 - **(h)** No provision of law authorizing the termination of tariff concessions shall be used to impose a surcharge on imports into the United States.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 93–618, title I, § 122](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 1987](https://www.govinfo.gov/link/statute/88/1987).)*

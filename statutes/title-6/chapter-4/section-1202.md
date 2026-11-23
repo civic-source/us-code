@@ -3,9 +3,10 @@ title: "Section 1202 - Railroad security-sensitive material tracking"
 usc_title: 6
 usc_section: "1202"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1202"
-generated_at: "2026-03-30T02:53:09.508Z"
+generated_at: "2026-11-23T21:25:25.876Z"
+status: "active"
 ---
 
 # § 1202. Railroad security-sensitive material tracking
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:09.508Z"
   - **(1)** $3,000,000 for fiscal year 2008;
   - **(2)** $3,000,000 for fiscal year 2009; and
   - **(3)** $3,000,000 for fiscal year 2010.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XV, § 1552](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 471](https://www.govinfo.gov/link/statute/121/471).)*

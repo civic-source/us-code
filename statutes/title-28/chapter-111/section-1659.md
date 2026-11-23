@@ -3,9 +3,10 @@ title: "Section 1659 - Stay of certain actions pending disposition of related pr
 usc_title: 28
 usc_section: "1659"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1659"
-generated_at: "2026-03-30T02:55:30.143Z"
+generated_at: "2026-11-23T21:26:01.100Z"
+status: "active"
 ---
 
 # § 1659. Stay of certain actions pending disposition of related proceedings before the United States International Trade Commission
@@ -14,3 +15,11 @@ generated_at: "2026-03-30T02:55:30.143Z"
   - **(1)** 30 days after the party is named as a respondent in the proceeding before the Commission, or
   - **(2)** 30 days after the district court action is filed,
 - **(b)** Notwithstanding section 337(n)(1) of the Tariff Act of 1930, after dissolution of a stay under subsection (a), the record of the proceeding before the United States International Trade Commission shall be transmitted to the district court and shall be admissible in the civil action, subject to such protective order as the district court determines necessary, to the extent permitted under the Federal Rules of Evidence and the Federal Rules of Civil Procedure.
+
+Stay
+
+Use of Commission Record
+
+## Source Credit
+
+*(Added [Pub. L. 103–465, title III, § 321(b)(1)(A)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4945](https://www.govinfo.gov/link/statute/108/4945).)*

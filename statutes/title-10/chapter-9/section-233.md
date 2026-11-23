@@ -3,9 +3,10 @@ title: "Section 233 - Operation and maintenance budget presentation"
 usc_title: 10
 usc_section: "233"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 233"
-generated_at: "2026-03-30T02:53:38.048Z"
+generated_at: "2026-11-23T21:25:32.244Z"
+status: "active"
 ---
 
 # § 233. Operation and maintenance budget presentation
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:53:38.048Z"
   - **(1)** The term “O&M justification documents” means Department of Defense budget justification documents with respect to accounts for operation and maintenance submitted to the congressional defense committees in support of the Department of Defense component of the President’s budget for any fiscal year.
   - **(2)** The term “President’s budget” means the budget of the President submitted to Congress under section 1105 of title 31 for any fiscal year.
   - **(3)** The term “current year” means the fiscal year during which the President’s budget is submitted in any year.
+
+Identification of Baseline Amounts in O&M Justification Documents
+
+Navy for Ship Depot Maintenance and for Intermediate Ship Maintenance
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 108–375, div. A, title X, § 1003(a)(1)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2035](https://www.govinfo.gov/link/statute/118/2035).)*

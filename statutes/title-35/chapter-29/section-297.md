@@ -3,9 +3,10 @@ title: "Section 297 - Improper and deceptive invention promotion"
 usc_title: 35
 usc_section: "297"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "35 U.S.C. § 297"
-generated_at: "2026-03-30T02:55:34.240Z"
+generated_at: "2026-11-23T21:26:08.627Z"
+status: "active"
 ---
 
 # § 297. Improper and deceptive invention promotion
@@ -34,3 +35,19 @@ generated_at: "2026-03-30T02:55:34.240Z"
 - **(d)**
   - **(1)** The Commissioner of Patents shall make all complaints received by the Patent and Trademark Office involving invention promoters publicly available, together with any response of the invention promoters. The Commissioner of Patents shall notify the invention promoter of a complaint and provide a reasonable opportunity to reply prior to making such complaint publicly available.
   - **(2)** The Commissioner of Patents may request complaints relating to invention promotion services from any Federal or State agency and include such complaints in the records maintained under paragraph (1), together with any response of the invention promoters.
+
+In General
+
+Civil Action
+
+Definitions
+
+Records of Complaints.—
+
+Release of complaints
+
+Request for complaints
+
+## Source Credit
+
+*(Added [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4102(a)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–552.)*

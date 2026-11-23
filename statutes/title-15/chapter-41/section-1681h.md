@@ -3,9 +3,10 @@ title: "Section 1681h - Conditions and form of disclosure to consumers"
 usc_title: 15
 usc_section: "1681h"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1681h"
-generated_at: "2026-03-30T02:54:08.151Z"
+generated_at: "2026-11-23T21:25:39.874Z"
+status: "active"
 ---
 
 # § 1681h. Conditions and form of disclosure to consumers
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:08.151Z"
 - **(c)** Any consumer reporting agency shall provide trained personnel to explain to the consumer any information furnished to him pursuant to section 1681g of this title .
 - **(d)** The consumer shall be permitted to be accompanied by one other person of his choosing, who shall furnish reasonable identification. A consumer reporting agency may require the consumer to furnish a written statement granting permission to the consumer reporting agency to discuss the consumer’s file in such person’s presence.
 - **(e)** Except as provided in sections 1681n and 1681 o of this title, no consumer may bring any action or proceeding in the nature of defamation, invasion of privacy, or negligence with respect to the reporting of information against any consumer reporting agency, any user of information, or any person who furnishes information to a consumer reporting agency, based on information disclosed pursuant to section 1681g, 1681h, or 1681m of this title, or based on information disclosed by a user of a consumer report to or for a consumer against whom the user has taken adverse action, based in whole or in part on the report 2 2 So in original. Probably should be followed by a comma. except as to false information furnished with malice or willful intent to injure such consumer.
+
+## Source Credit
+
+*([Pub. L. 90–321, title VI, § 610](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 91–508, title VI, § 601](https://www.govinfo.gov/link/plaw/91/public/508), Oct. 26, 1970, [84 Stat. 1131](https://www.govinfo.gov/link/statute/84/1131); amended [Pub. L. 104–208, div. A, title II, § 2408(e)(1)](https://www.govinfo.gov/link/plaw/104/public/208), (4), (5)(B), Sept. 30, 1996, [110 Stat. 3009–438](https://www.govinfo.gov/link/statute/110/3009), 3009–439.)*

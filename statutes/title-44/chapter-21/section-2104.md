@@ -3,9 +3,10 @@ title: "Section 2104 - Administrative provisions"
 usc_title: 44
 usc_section: "2104"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 2104"
-generated_at: "2026-03-30T02:55:56.292Z"
+generated_at: "2026-11-23T21:26:18.402Z"
+status: "active"
 ---
 
 # § 2104. Administrative provisions
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:56.292Z"
 - **(f)** The Archivist may establish advisory committees to provide advice with respect to any function of the Archivist or the Administration. Members of any such committee shall serve without compensation but shall be entitled to transportation expenses and per diem in lieu of subsistence in accordance with section 5703 of title 5 .
 - **(g)** The Archivist shall advise and consult with interested Federal agencies with a view to obtaining their advice and assistance in carrying out the purposes of this chapter.
 - **(h)** If authorized by the Archivist, officers and employees of the Administration having investigatory functions are empowered, while engaged in the performance of their duties in conducting investigations, to administer oaths.
+
+## Source Credit
+
+*(Added [Pub. L. 98–497, title I, § 102(a)(2)](https://www.govinfo.gov/link/plaw/98/public/497), Oct. 19, 1984, [98 Stat. 2281](https://www.govinfo.gov/link/statute/98/2281).)*

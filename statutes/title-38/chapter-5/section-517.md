@@ -3,9 +3,10 @@ title: "Section 517 - Quarterly reports to Congress on conferences sponsored by 
 usc_title: 38
 usc_section: "517"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 517"
-generated_at: "2026-03-30T02:55:53.472Z"
+generated_at: "2026-11-23T21:26:16.556Z"
+status: "active"
 ---
 
 # § 517. Quarterly reports to Congress on conferences sponsored by the Department
@@ -26,3 +27,13 @@ generated_at: "2026-03-30T02:55:53.472Z"
 - **(c)** In this section, the term “covered conference” means a conference, meeting, or other similar forum that is sponsored or co-sponsored by the Department and is—
   - **(1)** attended by 50 or more individuals, including one or more employees of the Department; or
   - **(2)** estimated to cost the Department at least $20,000.
+
+Quarterly Reports Required
+
+Matters Included
+
+Covered Conference Defined
+
+## Source Credit
+
+*(Added [Pub. L. 112–154, title VII, § 707(a)](https://www.govinfo.gov/link/plaw/112/public/154), Aug. 6, 2012, 126 Stat.1206.)*

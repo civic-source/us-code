@@ -3,9 +3,10 @@ title: "Section 3199 - Counseling and job placement"
 usc_title: 29
 usc_section: "3199"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3199"
-generated_at: "2026-03-30T02:55:18.755Z"
+generated_at: "2026-11-23T21:26:02.342Z"
+status: "active"
 ---
 
 # § 3199. Counseling and job placement
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:18.755Z"
 - **(b)** The Secretary shall arrange for assessment and counseling for enrollees prior to their scheduled graduations to determine their capabilities and, based on their capabilities, shall place the enrollees in employment leading to economic self-sufficiency for which the enrollees are trained or assist the enrollees in participating in further activities described in this part. In arranging for the placement of graduates in jobs, the Secretary shall utilize the one-stop delivery system to the maximum extent practicable.
 - **(c)** The Secretary shall determine the status and progress of enrollees scheduled for graduation and make every effort to assure that their needs for further activities described in this part are met.
 - **(d)** The Secretary may provide such services as the Secretary determines to be appropriate under this part to former enrollees.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 149](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1548](https://www.govinfo.gov/link/statute/128/1548).)*

@@ -3,9 +3,10 @@ title: "Section 6706 - Monitoring and evaluation"
 usc_title: 16
 usc_section: "6706"
 chapter: 86
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6706"
-generated_at: "2026-03-30T02:54:23.066Z"
+generated_at: "2026-11-23T21:25:52.051Z"
+status: "active"
 ---
 
 # § 6706. Monitoring and evaluation
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:23.066Z"
   - **(2)** to determine the extent to which each Institute has implemented its duties under section 6704(c) of this title ; and
   - **(3)** to determine whether continued provision of Federal assistance to each Institute is warranted.
 - **(b)** If, as a result of an evaluation under subsection (a), the Secretary, in consultation with the Secretary of the Interior, determines that an Institute does not qualify for further Federal assistance under this chapter, the Institute shall receive no further Federal assistance under this chapter until such time as the qualifications of the Institute are reestablished to the satisfaction of the Secretaries.
+
+## Source Credit
+
+*([Pub. L. 108–317, § 7](https://www.govinfo.gov/link/plaw/108/public/317), Oct. 5, 2004, [118 Stat. 1209](https://www.govinfo.gov/link/statute/118/1209).)*

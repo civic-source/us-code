@@ -3,9 +3,10 @@ title: "Section 31 - Authority to collect and use fees"
 usc_title: 21
 usc_section: "31"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 31"
-generated_at: "2026-03-30T02:54:54.271Z"
+generated_at: "2026-11-23T21:25:56.153Z"
+status: "active"
 ---
 
 # § 379j–31. Authority to collect and use fees
@@ -56,3 +57,9 @@ generated_at: "2026-03-30T02:54:54.271Z"
   - **(2)** In any case where the Secretary does not receive payment of a fee assessed under this section within 30 days after it is due, such fee shall be treated as a claim of the United States Government subject to provisions of subchapter II of chapter 37 of title 31.
 - **(f)** Not later than 120 days after each fiscal year for which fees are assessed under this section, the Secretary shall submit a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, to include a description of fees assessed and collected for each such year and a summary description of the entities paying such fees and the types of business in which such entities engage.
 - **(g)** For fiscal year 2010 and each fiscal year thereafter, there is authorized to be appropriated for fees under this section an amount equal to the total revenue amount determined under subsection (b) for the fiscal year, as adjusted or otherwise affected under the other provisions of this section.
+
+(3) Use of fees The Secretary shall make all of the fees collected pursuant to clause 3 3 So in original. Probably should be “clauses”. (i), (ii), (iii), and (iv) of paragraph (2)(A) available solely to pay for the costs referred to in such clause (i), (ii), (iii), and (iv) of paragraph (2)(A), respectively.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 743, as added [Pub. L. 111–353, title I, § 107(a)](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3906](https://www.govinfo.gov/link/statute/124/3906).)*

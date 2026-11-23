@@ -3,9 +3,10 @@ title: "Section 2686 - Lead hazard information pamphlet"
 usc_title: 15
 usc_section: "2686"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2686"
-generated_at: "2026-03-30T02:54:08.181Z"
+generated_at: "2026-11-23T21:25:39.951Z"
+status: "active"
 ---
 
 # § 2686. Lead hazard information pamphlet
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.181Z"
   - **(8)** state that certain State and local laws impose additional requirements related to lead-based paint in housing and provide a listing of Federal, State, and local agencies in each State, including address and telephone number, that can provide information about applicable laws and available governmental and private assistance and financing; and
   - **(9)** provide such other information about environmental hazards associated with residential real property as the Administrator deems appropriate.
 - **(b)** Within 2 years after October 28, 1992 , the Administrator shall promulgate regulations under this subsection to require each person who performs for compensation a renovation of target housing to provide a lead hazard information pamphlet to the owner and occupant of such housing prior to commencing the renovation.
+
+## Source Credit
+
+*([Pub. L. 94–469, title IV, § 406](https://www.govinfo.gov/link/plaw/94/public/469), as added [Pub. L. 102–550, title X, § 1021(a)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3920](https://www.govinfo.gov/link/statute/106/3920).)*

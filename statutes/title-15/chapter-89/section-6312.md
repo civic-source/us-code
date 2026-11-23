@@ -3,9 +3,10 @@ title: "Section 6312 - Professional boxing matches conducted on Indian reservati
 usc_title: 15
 usc_section: "6312"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6312"
-generated_at: "2026-03-30T02:54:08.210Z"
+generated_at: "2026-11-23T21:25:40.022Z"
+status: "active"
 ---
 
 # § 6312. Professional boxing matches conducted on Indian reservations
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.210Z"
   - **(2)** If a tribal organization regulates professional boxing matches pursuant to paragraph (1), the tribal organization shall, by tribal ordinance or resolution, establish and provide for the implementation of health and safety standards, licensing requirements, and other requirements relating to the conduct of professional boxing matches that are at least as restrictive as—
     - **(A)** the otherwise applicable standards and requirements of a State in which the reservation is located; or
     - **(B)** the most recently published version of the recommended regulatory guidelines certified and published by the Association of Boxing Commissions.
+
+## Source Credit
+
+*([Pub. L. 104–272, § 21](https://www.govinfo.gov/link/plaw/104/public/272), formerly § 13, Oct. 9, 1996, [110 Stat. 3313](https://www.govinfo.gov/link/statute/110/3313); renumbered § 21, [Pub. L. 106–210, § 4(1)](https://www.govinfo.gov/link/plaw/106/public/210), May 26, 2000, [114 Stat. 322](https://www.govinfo.gov/link/statute/114/322).)*

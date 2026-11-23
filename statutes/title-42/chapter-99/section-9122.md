@@ -3,9 +3,10 @@ title: "Section 9122 - Recordkeeping and public access to information"
 usc_title: 42
 usc_section: "9122"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9122"
-generated_at: "2026-03-30T02:56:11.350Z"
+generated_at: "2026-11-23T21:26:33.229Z"
+status: "active"
 ---
 
 # § 9122. Recordkeeping and public access to information
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.350Z"
       - **(ii)** to any committee of the Congress of appropriate jurisdiction, or
       - **(iii)** pursuant to court order, and
     - **(B)** when the Administrator has taken appropriate steps to inform the recipient of the confidential nature of the information.
+
+## Source Credit
+
+*([Pub. L. 96–320, title I, § 112](https://www.govinfo.gov/link/plaw/96/public/320), Aug. 3, 1980, [94 Stat. 989](https://www.govinfo.gov/link/statute/94/989); [Pub. L. 98–623, title VI, § 602(e)(3)](https://www.govinfo.gov/link/plaw/98/public/623), (18), Nov. 8, 1984, [98 Stat. 3412](https://www.govinfo.gov/link/statute/98/3412).)*

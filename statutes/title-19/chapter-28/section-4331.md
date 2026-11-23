@@ -3,9 +3,10 @@ title: "Section 4331 - Interagency Import Safety Working Group"
 usc_title: 19
 usc_section: "4331"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4331"
-generated_at: "2026-03-30T02:54:24.706Z"
+generated_at: "2026-11-23T21:25:42.881Z"
+status: "active"
 ---
 
 # § 4331. Interagency Import Safety Working Group
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:24.706Z"
     - **(C)** the protection of the international supply chain (as defined in section 901 of title 6 );
   - **(5)** identifying best practices to assist Federal, State, and local governments and agencies, and port authorities, to improve communication and coordination among such agencies and authorities with respect to ensuring the safety of merchandise imported into the United States and the expeditious entry of such merchandise; and
   - **(6)** otherwise identifying appropriate steps to increase the accountability of United States importers and the engagement of foreign government agencies with respect to ensuring the safety of merchandise imported into the United States and the expeditious entry of such merchandise.
+
+## Source Credit
+
+*([Pub. L. 114–125, title II, § 201](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 146](https://www.govinfo.gov/link/statute/130/146).)*

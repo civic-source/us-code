@@ -3,9 +3,10 @@ title: "Section 56 - Adjustments in computing alternative minimum taxable income
 usc_title: 26
 usc_section: "56"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 56"
-generated_at: "2026-03-30T02:55:27.613Z"
+generated_at: "2026-11-23T21:26:05.962Z"
+status: "active"
 ---
 
 # § 56. Adjustments in computing alternative minimum taxable income
@@ -86,3 +87,101 @@ generated_at: "2026-03-30T02:55:27.613Z"
     - **(B)** is secured by property which, at the time such indebtedness was incurred, was—
       - **(i)** the principal residence (within the meaning of section 121) of the taxpayer, or
       - **(ii)** a qualified dwelling used by the taxpayer (or any member of his family (within the meaning of section 267(c)(4))).
+
+Installment sales of certain property
+
+Book income adjustment
+
+Adjusted current earnings
+
+Present value
+
+Effective Dates.—
+
+In general
+
+Alternative tax net operating loss deduction
+
+Loss from operations of life insurance companies
+
+Transitional rule
+
+Exception for TARP Recipients
+
+In general
+
+Increase in limitation on individual loss per casualty
+
+In general
+
+Exception
+
+In general
+
+Application to pass-thru entities, etc
+
+In general
+
+Exception for existing fasits
+
+In General
+
+No New FSCs; Termination of Inactive FSCs.—
+
+No new fscs
+
+Termination of inactive fscs
+
+Transition Period for Existing Foreign Sales Corporations.—
+
+In general
+
+Election to have amendments apply earlier
+
+Exception for old earnings and profits of certain corporations.—
+
+In general
+
+Existing fscs
+
+Other corporations
+
+Related person
+
+Section references
+
+Special Rules Relating to Leasing Transactions.—
+
+Sales income
+
+Limitation on use of gross receipts method
+
+In general
+
+Special rule for 1987
+
+In general
+
+Coordination with transitional rules
+
+In general
+
+Special rules for year which includes september 30, 1990
+
+In general
+
+Binding contract
+
+Bankruptcy proceedings
+
+Subsidiaries of bankrupt parent
+
+In general
+
+Intangible drilling costs
+
+Regulations on earnings and profits rules
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2322](https://www.govinfo.gov/link/statute/100/2322); amended [Pub. L. 100–203, title X](https://www.govinfo.gov/link/plaw/100/public/203), §§ 10202(d), 10243(a), Dec. 22, 1987, [101 Stat. 1330–392](https://www.govinfo.gov/link/statute/101/1330), 1330–423; [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1002(a)(12), 1007(b)(1)–(14)(A), (15)–(19), title II, §§ 2001(c)(3)(A), 2004(b)(2), (3), title V, § 5041(b)(4), title VI, §§ 6079(a)(1), 6303(a), Nov. 10, 1988, [102 Stat. 3355](https://www.govinfo.gov/link/statute/102/3355), 3428–3432, 3594, 3599, 3674, 3709, 3755; [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7205(b), 7611(a)–(f)(4), 7612(c)(1), (d)(1), 7811(d)(3), 7815(e)(2), (4), Dec. 19, 1989, [103 Stat. 2335](https://www.govinfo.gov/link/statute/103/2335), 2371–2374, 2408, 2419; [Pub. L. 101–508, title XI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 11103(b), 11301(b), 11531(a), (b)(1), 11704(a)(1), 11801(a)(3), (c)(2)(A)–(C), (9)(G), 11812(b)(4), Nov. 5, 1990, [104 Stat. 1388–406](https://www.govinfo.gov/link/statute/104/1388), 1388–449, 1388–488, 1388–490, 1388–518, 1388–520, 1388–522, 1388–523, 1388–526, 1388–535; [Pub. L. 102–486, title XIX, § 1915(a)(2)](https://www.govinfo.gov/link/plaw/102/public/486), (b)(2), (c)(1), (2), Oct. 24, 1992, [106 Stat. 3023](https://www.govinfo.gov/link/statute/106/3023), 3024; [Pub. L. 103–66, title XIII](https://www.govinfo.gov/link/plaw/103/public/66), §§ 13115(a), 13171(b), 13227(c), Aug. 10, 1993, [107 Stat. 432](https://www.govinfo.gov/link/statute/107/432), 454, 493; [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1601(b)(2)(B), (C), 1621(b)(2), 1702(c)(1), (e)(1)(A), (g)(4), (h)(12), 1704(t)(1), (48), Aug. 20, 1996, [110 Stat. 1832](https://www.govinfo.gov/link/statute/110/1832), 1833, 1867, 1869, 1870, 1873, 1874, 1887, 1889; [Pub. L. 105–34, title III, § 312(d)(1)](https://www.govinfo.gov/link/plaw/105/public/34), title IV, §§ 402, 403(a), title XII, § 1212(a), Aug. 5, 1997, [111 Stat. 839](https://www.govinfo.gov/link/statute/111/839), 844, 1000; [Pub. L. 105–277, div. J, title IV, § 4006(c)(2)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–912](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–519, § 4(1)](https://www.govinfo.gov/link/plaw/106/public/519), Nov. 15, 2000, [114 Stat. 2432](https://www.govinfo.gov/link/statute/114/2432); [Pub. L. 106–554, § 1(a)(7) [title III, § 314(d)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–643; [Pub. L. 107–147, title I, § 102(c)(1)](https://www.govinfo.gov/link/plaw/107/public/147), title IV, § 417(5), Mar. 9, 2002, [116 Stat. 26](https://www.govinfo.gov/link/statute/116/26), 56; [Pub. L. 108–173, title XII, § 1202(b)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2480](https://www.govinfo.gov/link/statute/117/2480); [Pub. L. 108–311, title IV, § 403(b)(4)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1187](https://www.govinfo.gov/link/statute/118/1187); [Pub. L. 108–357, title I](https://www.govinfo.gov/link/plaw/108/public/357), §§ 101(b)(4), 102(b), title II, § 248(b)(1), title IV, § 422(b), title VIII, § 835(b)(1), Oct. 22, 2004, [118 Stat. 1423](https://www.govinfo.gov/link/statute/118/1423), 1428, 1457, 1519, 1593; [Pub. L. 109–58, title XIII, § 1326(d)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1017](https://www.govinfo.gov/link/statute/119/1017); [Pub. L. 109–135, title IV, § 403(a)(14)](https://www.govinfo.gov/link/plaw/109/public/135), (r)(2), Dec. 21, 2005, [119 Stat. 2619](https://www.govinfo.gov/link/statute/119/2619), 2628; [Pub. L. 109–304, § 17(e)(1)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1707](https://www.govinfo.gov/link/statute/120/1707); [Pub. L. 110–172, § 11(g)(1)](https://www.govinfo.gov/link/plaw/110/public/172), (2), Dec. 29, 2007, [121 Stat. 2489](https://www.govinfo.gov/link/statute/121/2489), 2490; [Pub. L. 110–289, div. C, title I, § 3022(a)(2)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2894](https://www.govinfo.gov/link/statute/122/2894); [Pub. L. 110–343, div. C, title VII](https://www.govinfo.gov/link/plaw/110/public/343), §§ 706(b)(3), 708(c), Oct. 3, 2008, [122 Stat. 3922](https://www.govinfo.gov/link/statute/122/3922), 3925; [Pub. L. 111–5, div. B, title I](https://www.govinfo.gov/link/plaw/111/public/5), §§ 1008(d), 1503(b), Feb. 17, 2009, [123 Stat. 318](https://www.govinfo.gov/link/statute/123/318), 354; [Pub. L. 111–92, § 13(b)](https://www.govinfo.gov/link/plaw/111/public/92), Nov. 6, 2009, [123 Stat. 2993](https://www.govinfo.gov/link/statute/123/2993); [Pub. L. 111–148, title IX, § 9013(c)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 868](https://www.govinfo.gov/link/statute/124/868); [Pub. L. 113–295, div. A, title II](https://www.govinfo.gov/link/plaw/113/public/295), §§ 215(b), 221(a)(9), (25)(B), (30)(C), Dec. 19, 2014, [128 Stat. 4034](https://www.govinfo.gov/link/statute/128/4034), 4038, 4040, 4042; [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 11027(b), 12001(b)(7), (8)(A), Dec. 22, 2017, [131 Stat. 2077](https://www.govinfo.gov/link/statute/131/2077), 2093; [Pub. L. 115–141, div. U, title IV, § 401(b)(7)](https://www.govinfo.gov/link/plaw/115/public/141), (8), Mar. 23, 2018, [132 Stat. 1202](https://www.govinfo.gov/link/statute/132/1202); [Pub. L. 116–94, div. Q, title I, § 103(b)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3228](https://www.govinfo.gov/link/statute/133/3228); [Pub. L. 119–21, title VII](https://www.govinfo.gov/link/plaw/119/public/21), §§ 70203(d)(1), 70302(b)(3), 70430(b), July 4, 2025, [139 Stat. 179](https://www.govinfo.gov/link/statute/139/179), 192, 239.)*

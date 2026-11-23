@@ -3,12 +3,17 @@ title: "Section 2607 - Stolen cultural property"
 usc_title: 19
 usc_section: "2607"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2607"
-generated_at: "2026-03-30T02:54:24.681Z"
+generated_at: "2026-11-23T21:25:42.820Z"
+status: "active"
 ---
 
 # § 2607. Stolen cultural property
 
 No article of cultural property documented as appertaining to the inventory of a museum or religious or secular public monument or similar institution in any State Party which is stolen from such institution after the effective date of this chapter, or after the date of entry into force of the Convention for the State Party, whichever date is later, may be imported into the United States.
 
+
+## Source Credit
+
+*([Pub. L. 97–446, title III, § 308](https://www.govinfo.gov/link/plaw/97/public/446), Jan. 12, 1983, [96 Stat. 2360](https://www.govinfo.gov/link/statute/96/2360).)*

@@ -3,12 +3,17 @@ title: "Section 232 - National Institute of Mental Health; authorization of appr
 usc_title: 42
 usc_section: "232"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 232"
-generated_at: "2026-03-30T02:56:10.685Z"
+generated_at: "2026-11-23T21:26:30.227Z"
+status: "active"
 ---
 
 # § 232. National Institute of Mental Health; authorization of appropriation; construction; location
 
 There is authorized to be appropriated a sum not to exceed $7,500,000 for the erection and equipment, for the use of the Public Health Service in carrying out the provisions of this Act, of suitable and adequate hospital buildings and facilities, including necessary living quarters for personnel, and of suitable and adequate laboratory buildings and facilities, and such buildings and facilities shall be known as the National Institute of Mental Health. The Administrator of General Services is authorized to acquire, by purchase, condemnation, donation, or otherwise, a suitable and adequate site or sites, selected on the advice of the Surgeon General of the Public Health Service, in or near the District of Columbia for such buildings and facilities, and to erect thereon, furnish, and equip such buildings and facilities. The amount authorized to be appropriated in this section shall include the cost of preparation of drawings and specifications, supervision of construction, and other administrative expenses incident to the work: Provided , That the Administrator of General Services shall prepare the plans and specifications, make all necessary contracts, and supervise construction.
 
+
+## Source Credit
+
+*(July 3, 1946, ch. 538, § 11, [60 Stat. 425](https://www.govinfo.gov/link/statute/60/425); June 30, 1949, ch. 288, title I, § 103(a), [63 Stat. 380](https://www.govinfo.gov/link/statute/63/380).)*

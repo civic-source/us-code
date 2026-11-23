@@ -3,9 +3,10 @@ title: "Section 16396 - Prizes for achievement in grand challenges of science an
 usc_title: 42
 usc_section: "16396"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16396"
-generated_at: "2026-03-30T02:56:11.485Z"
+generated_at: "2026-11-23T21:26:33.740Z"
+status: "active"
 ---
 
 # § 16396. Prizes for achievement in grand challenges of science and technology
@@ -86,3 +87,7 @@ generated_at: "2026-03-30T02:56:11.485Z"
     - **(B)** Funds appropriated for prize awards under this subsection shall remain available until expended, and may be transferred, reprogrammed, or expended for other purposes only after the expiration of 10 fiscal years after the fiscal year for which the funds were originally appropriated. No provision in this subsection permits obligation or payment of funds in violation of section 1341 of title 31 (commonly referred to as the Anti-Deficiency Act).
   - **(8)** The programs created under this subsection shall not be considered a substitute for Federal research and development programs.
 - **(h)** In accordance with section 16391a of this title , the Secretary shall report annually on a description of any prize competitions carried out using the authority under this section, the total amount of prizes awarded along with any private sector contributions, the methods used for solicitation and evaluation, and a description of how each prize competition advanced the mission of the Department.
+
+## Source Credit
+
+*([Pub. L. 109–58, title X, § 1008](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 933](https://www.govinfo.gov/link/statute/119/933); [Pub. L. 110–140, title VI, § 654](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1695](https://www.govinfo.gov/link/statute/121/1695); [Pub. L. 116–260, div. Z, title IX, § 9004](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2598](https://www.govinfo.gov/link/statute/134/2598); [Pub. L. 117–167, div. B, title VI, § 10724](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1709](https://www.govinfo.gov/link/statute/136/1709).)*

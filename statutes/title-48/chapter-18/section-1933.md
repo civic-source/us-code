@@ -3,9 +3,10 @@ title: "Section 1933 - Supplemental provisions"
 usc_title: 48
 usc_section: "1933"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1933"
-generated_at: "2026-03-30T02:56:14.598Z"
+generated_at: "2026-11-23T21:26:38.130Z"
+status: "active"
 ---
 
 # § 1933. Supplemental provisions
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:14.598Z"
   - **(1)** , (2) Omitted
   - **(3)** No authority under this subsection to enter into contracts or to make payments shall be effective except to the extent and in such amounts as provided in advance in appropriations Acts. Any provision of this subsection which authorizes the enactment of new budget authority shall be effective only for fiscal years beginning after September 30, 1985 .
 - **(k)** The Departments of Energy and Interior are directed to provide the Committees on Appropriations of the House and Senate with a report by December 1 of each fiscal year detailing how funds were spent during the previous fiscal year for the special medical care and logistical support program for Rongelap and Utrik and for the agriculture and food programs for Eniwetok and Bikini as referenced in Section 103(h) of Public Law 99–239 [ 48 U.S.C. 1903(h) ]. The report shall also specify the anticipated needs during the current and following fiscal years in order to meet the radiological health care and logistical support program for Rongelap and Utrik and the planting, agricultural maintenance, and food programs for Eniwetok and Bikini. It is the sense of the Congress that the special medical care and logistical support program for Rongelap and Utrik and for the agriculture and food programs for Eniwetok and Bikini described in section 103(h) of Public Law 99–239 represent special and continuing moral commitments of the United States which will be annually funded to the extent of the need of the populations of such atolls for such assistance.
+
+## Source Credit
+
+*([Pub. L. 99–658, title I, § 104](https://www.govinfo.gov/link/plaw/99/public/658), Nov. 14, 1986, [100 Stat. 3675](https://www.govinfo.gov/link/statute/100/3675); [Pub. L. 101–219, title I, § 105](https://www.govinfo.gov/link/plaw/101/public/219), Dec. 12, 1989, [103 Stat. 1871](https://www.govinfo.gov/link/statute/103/1871); [Pub. L. 110–181, div. A, title XII, § 1253](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 402](https://www.govinfo.gov/link/statute/122/402).)*

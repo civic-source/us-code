@@ -3,9 +3,10 @@ title: "Section 432 - Additional funding rules for multiemployer plans in endang
 usc_title: 26
 usc_section: "432"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 432"
-generated_at: "2026-03-30T02:55:27.696Z"
+generated_at: "2026-11-23T21:26:06.257Z"
+status: "active"
 ---
 
 # § 432. Additional funding rules for multiemployer plans in endangered status or critical status
@@ -401,3 +402,83 @@ generated_at: "2026-03-30T02:55:27.696Z"
       - **(ii)** such corporation shall consult with the Secretary regarding the amount of special financial assistance needed based on the projected funded status of the plan as of the last day of the plan year ending in 2051, whether the plan proposes to repay benefits over 5 years or as a lump sum, as required by paragraph (2)(A)(ii), and any other relevant factors, as determined by such corporation in consultation with the Secretary, to ensure the amount of assistance is sufficient to meet such requirement and is sufficient to pay benefits as required in section 4262(j)(1) of such Act.
     - **(B)** In the case of any plan which proposes in its application to change the assumptions used, as provided in paragraph (1)(C)(iii), such corporation shall consult with the Secretary regarding such proposed change in assumptions.
     - **(C)** If such corporation specifies in regulations or guidance that temporary priority consideration is available for plans which are insolvent within the meaning of section 418E or likely to become so insolvent or for plans which have suspended benefits under subsection (e)(9), or that availability is otherwise based on the funded status of the plan under this section, as permitted by section 4262(d) of such Act, such corporation shall consult with the Secretary regarding any granting of priority consideration to such plans.
+
+(aa) the plan is not projected to have an accumulated funding deficiency for the plan year or any of the 9 succeeding plan years, without regard to the use of the shortfall method but taking into account any extension of amortization periods under section 431(d)(1), and
+
+(bb) the plan is not projected to become insolvent within the meaning of section 418E for any of the 30 succeeding plan years,
+
+(aa) the plan is projected to have an accumulated funding deficiency for the plan year or any of the 9 succeeding plan years, without regard to the use of the shortfall method but taking into account any extension of amortization periods under section 431(d), or
+
+(bb) the plan is projected to become insolvent within the meaning of section 418E for any of the 30 succeeding plan years.
+
+(aa) the number of months during the period beginning with the month after the month in which occurs the effective date of the suspension and ending with the month during which the participant or beneficiary attains the age of 80, by
+
+(bb) 60 months.
+
+(aa) withdrawn from the plan in a complete withdrawal under section 4203 of the Employee Retirement Income Security Act of 1974 and has paid the full amount of the employer’s withdrawal liability under section 4201(b)(1) of such Act or an agreement with the plan, and
+
+(bb) pursuant to a collective bargaining agreement, assumed liability for providing benefits to participants and beneficiaries of the plan under a separate, single-employer plan sponsored by the employer, in an amount equal to any amount of benefits for such participants and beneficiaries reduced as a result of the financial status of the plan.
+
+(aa) permit the implementation of the suspension proposed by the plan sponsor; or
+
+(bb) permit the implementation of a modification by the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, of such suspension (so long as the plan is projected to avoid insolvency within the meaning of section 4245 of the Employee Retirement Income Security Act of 1974 under such modification).
+
+(aa) In general For purposes of this subparagraph, a systemically important plan is a plan with respect to which the Pension Benefit Guaranty Corporation projects the present value of projected financial assistance payments exceeds $1,000,000,000 if suspensions are not implemented.
+
+(bb) Indexing For calendar years beginning after 2015, there shall be substituted for the dollar amount specified in item (aa) an amount equal to the product of such dollar amount and a fraction, the numerator of which is the contribution and benefit base (determined under section 230 of the Social Security Act) for the preceding calendar year and the denominator of which is such contribution and benefit base for calendar year 2014. If the amount otherwise determined under this item is not a multiple of $1,000,000, such amount shall be rounded to the next lowest multiple of $1,000,000.
+
+(aa) In general A court shall review an action challenging a suspension of benefits under this paragraph in accordance with section 706 of title 5 , United States Code.
+
+(bb) Temporary injunction A court reviewing an action challenging a suspension of benefits under this paragraph may not grant a temporary injunction with respect to such suspension unless the court finds a clear and convincing likelihood that the plaintiff will prevail on the merits of the case.
+
+In General
+
+Exception for Plans Becoming Critical During Election
+
+Election and Notice.—
+
+Election
+
+Notice to participants.—
+
+In general
+
+Notice of endangered status
+
+In General
+
+Definitions and Special Rules
+
+Election
+
+Definitions
+
+Effective Date
+
+In General
+
+Exception for Plans Becoming Critical During Election
+
+Election and Notice.—
+
+Election
+
+Notice to participants.—
+
+In general
+
+Notice of endangered status
+
+In General
+
+Definitions and Special Rules
+
+Election
+
+Definitions
+
+Effective Date
+
+## Source Credit
+
+*(Added [Pub. L. 109–280, title II, § 212(a)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 899](https://www.govinfo.gov/link/statute/120/899); amended [Pub. L. 110–458, title I, § 102(b)(2)(A)](https://www.govinfo.gov/link/plaw/110/public/458) –(G), Dec. 23, 2008, [122 Stat. 5101](https://www.govinfo.gov/link/statute/122/5101), 5102; [Pub. L. 113–235, div. O, title I](https://www.govinfo.gov/link/plaw/113/public/235), §§ 102(b), 103(b), 104(b), 105(b), 106(b), 107(b), 109(b), title II, § 201(b)(1)–(6), Dec. 16, 2014, [128 Stat. 2776](https://www.govinfo.gov/link/statute/128/2776), 2778, 2780–2782, 2784, 2790, 2810–2822; [Pub. L. 115–141, div. U, title IV, § 401(a)(102)](https://www.govinfo.gov/link/plaw/115/public/141) –(107), Mar. 23, 2018, [132 Stat. 1189](https://www.govinfo.gov/link/statute/132/1189); [Pub. L. 117–2, title IX, § 9704(d)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 195](https://www.govinfo.gov/link/statute/135/195).)*

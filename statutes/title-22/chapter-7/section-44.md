@@ -3,9 +3,10 @@ title: "Section 44 - Actions to be taken by the Commission and the Administrator
 usc_title: 22
 usc_section: "44"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 44"
-generated_at: "2026-03-30T02:55:05.312Z"
+generated_at: "2026-11-23T21:25:58.349Z"
+status: "active"
 ---
 
 # § 277d–44. Actions to be taken by the Commission and the Administrator
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:05.312Z"
 - **(d)**
   - **(1)** The Inspector General of the Department of State shall monitor the implementation of any contract entered into under this section and evaluate the extent to which the owner of the Mexican facility has met the terms of this section and fulfilled the terms of the contract.
   - **(2)** The Inspector General shall transmit to Congress a report containing the evaluation under paragraph (1) not later than 2 years after the execution of any contract with the owner of the Mexican facility under this section, 3 years thereafter, and periodically after the second report under this paragraph.
+
+## Source Credit
+
+*([Pub. L. 106–457, title VIII, § 804](https://www.govinfo.gov/link/plaw/106/public/457), Nov. 7, 2000, [114 Stat. 1978](https://www.govinfo.gov/link/statute/114/1978); [Pub. L. 108–425, § 1](https://www.govinfo.gov/link/plaw/108/public/425), Nov. 30, 2004, [118 Stat. 2420](https://www.govinfo.gov/link/statute/118/2420).)*

@@ -3,9 +3,10 @@ title: "Section 1722 - Provision of agricultural commodities"
 usc_title: 7
 usc_section: "1722"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1722"
-generated_at: "2026-03-30T02:53:42.336Z"
+generated_at: "2026-11-23T21:25:28.155Z"
+status: "active"
 ---
 
 # § 1722. Provision of agricultural commodities
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:53:42.336Z"
     - **(B)** may enter into contracts to obtain the services of such entities; and
     - **(C)** shall consult with the Food Aid Consultative Group on how to carry out this subsection.
   - **(3)** Of the funds made available under section 1726a(f) of this title , 1 1 So in original. The comma probably should not appear. for fiscal years 2014 through 2023, not more than $4,500,000 may be used to carry out this subsection.
+
+## Source Credit
+
+*(July 10, 1954, ch. 469, title II, § 202, [68 Stat. 458](https://www.govinfo.gov/link/statute/68/458); [Pub. L. 86–472](https://www.govinfo.gov/link/plaw/86/public/472), ch. VI, § 601(a)(1), May 14, 1960, [74 Stat. 140](https://www.govinfo.gov/link/statute/74/140); [Pub. L. 88–205](https://www.govinfo.gov/link/plaw/88/public/205), pt. IV, § 403(d), Dec. 16, 1963, [77 Stat. 390](https://www.govinfo.gov/link/statute/77/390); [Pub. L. 89–808, § 2(C)](https://www.govinfo.gov/link/plaw/89/public/808), Nov. 11, 1966, [80 Stat. 1534](https://www.govinfo.gov/link/statute/80/1534); [Pub. L. 95–88, title II](https://www.govinfo.gov/link/plaw/95/public/88), §§ 207, 208(a), Aug. 3, 1977, [91 Stat. 547](https://www.govinfo.gov/link/statute/91/547); [Pub. L. 96–53, title I, § 121](https://www.govinfo.gov/link/plaw/96/public/53), title II, § 202, Aug. 14, 1979, [93 Stat. 366](https://www.govinfo.gov/link/statute/93/366), 368; [Pub. L. 99–83, title X](https://www.govinfo.gov/link/plaw/99/public/83), §§ 1003, 1004(a), 1005, Aug. 8, 1985, [99 Stat. 270](https://www.govinfo.gov/link/statute/99/270), 271; [Pub. L. 100–202, § 11](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–448](https://www.govinfo.gov/link/statute/101/1329); [Pub. L. 101–508, title I, § 1204(b)(1)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–11](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 101–624, title XV, § 1512](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3636](https://www.govinfo.gov/link/statute/104/3636); [Pub. L. 104–127, title II, § 207(a)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 953](https://www.govinfo.gov/link/statute/110/953); [Pub. L. 107–171, title III, § 3002](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 280](https://www.govinfo.gov/link/statute/116/280); [Pub. L. 110–246, title III, § 3008](https://www.govinfo.gov/link/plaw/110/public/246), June 18, 2008, [122 Stat. 1823](https://www.govinfo.gov/link/statute/122/1823); [Pub. L. 113–79, title III](https://www.govinfo.gov/link/plaw/113/public/79), §§ 3002, 3003, Feb. 7, 2014, [128 Stat. 773](https://www.govinfo.gov/link/statute/128/773); [Pub. L. 115–334, title III](https://www.govinfo.gov/link/plaw/115/public/334), §§ 3101, 3102, Dec. 20, 2018, [132 Stat. 4603](https://www.govinfo.gov/link/statute/132/4603), 4604.)*

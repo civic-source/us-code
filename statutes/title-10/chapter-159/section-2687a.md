@@ -3,9 +3,10 @@ title: "Section 2687a - Overseas base closures and realignments and status of Un
 usc_title: 10
 usc_section: "2687a"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2687a"
-generated_at: "2026-03-30T02:53:38.170Z"
+generated_at: "2026-11-23T21:25:32.655Z"
+status: "active"
 ---
 
 # § 2687a. Overseas base closures and realignments and status of United States overseas military locations
@@ -79,3 +80,25 @@ generated_at: "2026-03-30T02:53:38.170Z"
     - **(A)** the adjustment of, or surcharge on, selling prices at commissary stores fixed under section 2685 of this title ; or
     - **(B)** a nonappropriated fund instrumentality.
   - **(4)** The term “nonappropriated fund instrumentality” means an instrumentality of the United States under the jurisdiction of the armed forces (including the Army and Air Force Exchange Service, the Navy Resale and Services Support Office, and the Marine Corps exchanges) which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the armed forces.
+
+Annual Report on Status of Overseas Closures and Realignments and Overseas Military Locations
+
+Department of Defense Overseas Military Facility Investment Recovery Account
+
+Treatment of Amounts Corresponding to the Value of Property Purchased With Nonappropriated Funds
+
+OMB Review of Proposed Overseas Basing Settlements
+
+Congressional Oversight of Use of Payments-In-Kind for Construction or Operations
+
+Acceptance of Military Construction Projects As Payments-In-Kind and In-Kind Contributions
+
+Definitions
+
+Prohibition on Closure or Return
+
+Waiver and Exception
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. B, title XXVIII, § 2822(a)(1)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2665](https://www.govinfo.gov/link/statute/123/2665); amended [Pub. L. 111–383, div. A, title X, § 1075(b)(44)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4371](https://www.govinfo.gov/link/statute/124/4371); [Pub. L. 112–239, div. A, title X, § 1076(f)(34)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1954](https://www.govinfo.gov/link/statute/126/1954); [Pub. L. 113–66, div. B, title XXVIII, § 2807(a)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 1008](https://www.govinfo.gov/link/statute/127/1008); [Pub. L. 113–291, div. B, title XXVIII, § 2803(a)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3696](https://www.govinfo.gov/link/statute/128/3696); [Pub. L. 114–92, div. A, title X, § 1081(a)(11)](https://www.govinfo.gov/link/plaw/114/public/92), (b)(7), Nov. 25, 2015, [129 Stat. 1001](https://www.govinfo.gov/link/statute/129/1001), 1002; [Pub. L. 114–328, div. B, title XXVIII, § 2811(a)](https://www.govinfo.gov/link/plaw/114/public/328), (c), Dec. 23, 2016, [130 Stat. 2715](https://www.govinfo.gov/link/statute/130/2715), 2716; [Pub. L. 115–91, div. A, title X, § 1081(d)(15)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1600](https://www.govinfo.gov/link/statute/131/1600); [Pub. L. 116–283, div. B, title XXVIII, § 2822(a)](https://www.govinfo.gov/link/plaw/116/public/283) –(b)(2), Jan. 1, 2021, [134 Stat. 4330–4332](https://www.govinfo.gov/link/statute/134/4330).)*

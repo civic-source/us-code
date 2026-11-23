@@ -3,9 +3,10 @@ title: "Section 1601 - Termination of existing declared emergencies"
 usc_title: 50
 usc_section: "1601"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1601"
-generated_at: "2026-03-30T02:56:26.207Z"
+generated_at: "2026-11-23T21:26:38.918Z"
+status: "active"
 ---
 
 # § 1601. Termination of existing declared emergencies
@@ -15,3 +16,9 @@ generated_at: "2026-03-30T02:56:26.207Z"
   - **(2)** any action or proceeding based on any act committed prior to such date; or
   - **(3)** any rights or duties that matured or penalties that were incurred prior to such date.
 - **(b)** For the purpose of this section, the words “any national emergency in effect” means a general declaration of emergency made by the President.
+
+“This section [amending section 1481 of Title 8 , Aliens and Nationality and section 2667 of Title 10 , Armed Forces, and repealing section 249 of Title 12 , Banks and Banking, section 831d of Title 16 , Conservation, section 1383 of Title 18 , Crimes and Criminal Procedure, and section 211b of Title 42 , The Public Health and Welfare] shall not affect—
+
+## Source Credit
+
+*([Pub. L. 94–412, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/412), Sept. 14, 1976, [90 Stat. 1255](https://www.govinfo.gov/link/statute/90/1255).)*

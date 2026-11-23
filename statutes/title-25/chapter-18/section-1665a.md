@@ -3,9 +3,10 @@ title: "Section 1665a - Behavioral health prevention and treatment services"
 usc_title: 25
 usc_section: "1665a"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1665a"
-generated_at: "2026-03-30T02:54:52.825Z"
+generated_at: "2026-11-23T21:25:54.629Z"
+status: "active"
 ---
 
 # § 1665a. Behavioral health prevention and treatment services
@@ -70,3 +71,7 @@ generated_at: "2026-03-30T02:54:52.825Z"
   - **(3)** The Secretary, acting through the Service, Indian tribes, and tribal organizations, may make funding available to Indian tribes and tribal organizations which adopt a resolution pursuant to paragraph (1) to obtain technical assistance for the development of a community behavioral health plan and to provide administrative support in the implementation of such plan.
 - **(e)** The Secretary, acting through the Service, shall coordinate behavioral health planning, to the extent feasible, with other Federal agencies and with State agencies, to encourage comprehensive behavioral health services for Indians regardless of their place of residence.
 - **(f)** Not later than 1 year after March 23, 2010 , the Secretary, acting through the Service, shall make an assessment of the need for inpatient mental health care among Indians and the availability and cost of inpatient mental health facilities which can meet such need. In making such assessment, the Secretary shall consider the possible conversion of existing, underused Service hospital beds into psychiatric units to meet such need.
+
+## Source Credit
+
+*([Pub. L. 94–437, title VII, § 702](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

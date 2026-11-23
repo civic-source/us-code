@@ -3,9 +3,10 @@ title: "Section 2106 - Administration"
 usc_title: 20
 usc_section: "2106"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 2106"
-generated_at: "2026-03-30T02:54:48.171Z"
+generated_at: "2026-11-23T21:25:47.368Z"
+status: "active"
 ---
 
 # § 2106. Administration
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:48.171Z"
   - **(7)** enter into contracts to carry out the provisions of this subchapter, and such contracts may, with the concurrence of two-thirds of the members of the Board, be entered into without performance or other bonds and in conformity with section 6101 of title 41 ; and
   - **(8)** make advances, progress, and other payments which the Board deems necessary under this subchapter in conformity with the provisions of section 3324(a) and (b) of title 31.
 - **(b)** The Director shall submit to the Librarian for inclusion in the annual report of the Library of Congress to the Congress an annual report of the operations of the Center under this subchapter, which shall include a detailed statement of all private and public funds received and expended by it, and such recommendations as the Center deems appropriate.
+
+## Source Credit
+
+*([Pub. L. 94–201, § 7](https://www.govinfo.gov/link/plaw/94/public/201), Jan. 2, 1976, [89 Stat. 1133](https://www.govinfo.gov/link/statute/89/1133); [Pub. L. 105–275, § 312(b)(2)](https://www.govinfo.gov/link/plaw/105/public/275), Oct. 21, 1998, [112 Stat. 2459](https://www.govinfo.gov/link/statute/112/2459).)*

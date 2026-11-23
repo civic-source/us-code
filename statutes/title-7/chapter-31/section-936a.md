@@ -3,9 +3,10 @@ title: "Section 936a - Prepayment of loans"
 usc_title: 7
 usc_section: "936a"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 936a"
-generated_at: "2026-03-30T02:53:42.296Z"
+generated_at: "2026-11-23T21:25:28.004Z"
+status: "active"
 ---
 
 # § 936a. Prepayment of loans
@@ -24,3 +25,17 @@ generated_at: "2026-03-30T02:53:42.296Z"
     - **(A)** eligibility criteria to ensure that any loan prepayment activity required to be carried out under this subsection will be directed to those cooperative borrowers in greatest need of the benefits associated with prepayment, as determined by the Secretary; and
     - **(B)** such other eligibility criteria as the Secretary determines are necessary to carry out this subsection.
 - **(e)** Any guarantee of a loan prepaid under this section shall be fully assignable under the provisions of section 936 of this title and transferable. However, the Secretary may require that any such guarantee, if transfered 1 1 So in original. Probably should be “transferred”. or assigned, be transferred or assigned to a loan or security that, if sold, will be grouped with nonguaranteed loans or securities and sold in a manner to ensure that such sale will not unreasonably compete with the marketing of obligations of the United States.
+
+Eligibility to Prepay
+
+Priority for Approval
+
+Regulations
+
+Study
+
+“The Secretary of Agriculture shall issue regulations to implement this section [enacting sections 936a and 936b of this title and repealing provisions set out as a note under section 936 of this title ] within 60 days after the date of enactment of this Act [ Oct. 21, 1986 ]. Such regulations—
+
+## Source Credit
+
+*(May 20, 1936, ch. 432, title III, § 306A, as added [Pub. L. 99–509, title I, § 1011(a)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1875](https://www.govinfo.gov/link/statute/100/1875); amended [Pub. L. 103–354, title II, § 235(a)(7)](https://www.govinfo.gov/link/plaw/103/public/354), (13), Oct. 13, 1994, [108 Stat. 3221](https://www.govinfo.gov/link/statute/108/3221).)*

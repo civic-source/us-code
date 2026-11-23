@@ -3,9 +3,10 @@ title: "Section 4948 - Application of taxes and denial of exemption with respect
 usc_title: 26
 usc_section: "4948"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4948"
-generated_at: "2026-03-30T02:55:27.808Z"
+generated_at: "2026-11-23T21:26:06.650Z"
+status: "active"
 ---
 
 # § 4948. Application of taxes and denial of exemption with respect to certain foreign organizations
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:27.808Z"
   - **(4)** No gift or bequest shall be allowed as a deduction under section 170, 545(b)(2), 642(c), 2055, 2106(a)(2), or 2522, if made—
     - **(A)** to a foreign organization described in subsection (b) after the date on which the Secretary publishes notice under paragraph (3)(A) that he has notified such organization that it has engaged in a prohibited transaction, and
     - **(B)** in a taxable year of such organization for which it is not exempt from taxation under section 501(a) by reason of paragraph (1).
+
+## Source Credit
+
+*(Added [Pub. L. 91–172, title I, § 101(b)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 518](https://www.govinfo.gov/link/statute/83/518); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 108–357, title IV, § 413(c)(30)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1509](https://www.govinfo.gov/link/statute/118/1509).)*

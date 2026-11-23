@@ -3,9 +3,10 @@ title: "Section 4101 - Electronic directory; online access to publications; elec
 usc_title: 44
 usc_section: "4101"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 4101"
-generated_at: "2026-03-30T02:55:56.300Z"
+generated_at: "2026-11-23T21:26:18.447Z"
+status: "active"
 ---
 
 # § 4101. Electronic directory; online access to publications; electronic storage facility
@@ -18,3 +19,13 @@ generated_at: "2026-03-30T02:55:56.300Z"
 - **(c)** In carrying out this section, the Superintendent of Documents shall consult—
   - **(1)** users of the directory and the system of access provided for under subsection (a); and
   - **(2)** other providers of similar information services.
+
+In General
+
+Departmental Requests
+
+Consultation
+
+## Source Credit
+
+*(Added [Pub. L. 103–40, § 2(a)](https://www.govinfo.gov/link/plaw/103/public/40), June 8, 1993, [107 Stat. 112](https://www.govinfo.gov/link/statute/107/112); amended [Pub. L. 113–235, div. H, title I, § 1301(c)(1)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537).)*

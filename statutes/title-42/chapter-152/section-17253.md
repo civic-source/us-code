@@ -3,9 +3,10 @@ title: "Section 17253 - Geologic sequestration training and research"
 usc_title: 42
 usc_section: "17253"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17253"
-generated_at: "2026-03-30T02:56:11.503Z"
+generated_at: "2026-11-23T21:26:33.781Z"
+status: "active"
 ---
 
 # § 17253. Geologic sequestration training and research
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.503Z"
   - **(2)** Grants under this subsection shall be renewable for up to 2 additional 3-year terms, based on performance criteria, established by the National Academy of Sciences study conducted under subsection (a), that include the number of graduates of such programs.
   - **(3)** To the greatest extent possible, geologic carbon sequestration science programs supported under this subsection shall interface with the research of the Regional Carbon Sequestration Partnerships operated by the Department to provide internships and practical training in carbon capture and geologic sequestration.
   - **(4)** There are authorized to be appropriated to the Secretary for carrying out this subsection such sums as may be necessary.
+
+## Source Credit
+
+*([Pub. L. 110–140, title VII, § 705](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1709](https://www.govinfo.gov/link/statute/121/1709).)*

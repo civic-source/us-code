@@ -3,9 +3,10 @@ title: "Section 100 - Nitrate plants"
 usc_title: 50
 usc_section: "100"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 100"
-generated_at: "2026-03-30T02:56:26.198Z"
+generated_at: "2026-11-23T21:26:38.897Z"
+status: "active"
 ---
 
 # § 100. Nitrate plants
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:26.198Z"
 - **(c)** The products of such plants shall be used by the President for military and naval purposes to the extent that he may deem necessary, and any surplus which he shall determine is not required shall be sold and disposed of by him under such regulations as he may prescribe.
 - **(d)** The President is authorized to employ such officers, agents, or agencies as may in his discretion be necessary to enable him to carry out the purposes herein specified, and to authorize and require such officers, agents, or agencies to perform any and all of the duties imposed upon him by the provisions hereof.
 - **(e)** The plant or plants provided for under this section shall be constructed and operated solely by the Government and not in conjunction with any other industry or enterprise carried on by private capital.
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, § 37, 70A Stat. 634.)*

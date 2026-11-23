@@ -3,9 +3,10 @@ title: "Section 15301 - General pipeline jurisdiction"
 usc_title: 49
 usc_section: "15301"
 chapter: 153
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 15301"
-generated_at: "2026-03-30T02:56:19.333Z"
+generated_at: "2026-11-23T21:26:40.697Z"
+status: "active"
 ---
 
 # § 15301. General pipeline jurisdiction
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:56:19.333Z"
   - **(7)** the United States and a place in a foreign country.
 - **(b)** The Board does not have jurisdiction under subsection (a) over the transportation of property, or the receipt, delivery, storage, or handling of property, entirely in a State (other than the District of Columbia) and not transported between a place in the United States and a place in a foreign country except as otherwise provided in this part.
 - **(c)** This part does not affect the power of a State, in exercising its police power, to require reasonable intrastate transportation by carriers providing transportation subject to the jurisdiction of the Board under this chapter unless the State requirement is inconsistent with an order of the Board issued under this part or is prohibited under this part.
+
+In General
+
+No Jurisdiction Over Intrastate Transportation
+
+Protection of States Powers
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 106(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 922](https://www.govinfo.gov/link/statute/109/922).)*

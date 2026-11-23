@@ -3,9 +3,10 @@ title: "Section 7926 - Prohibition on aiding and abetting sexual abuse"
 usc_title: 20
 usc_section: "7926"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7926"
-generated_at: "2026-03-30T02:54:48.222Z"
+generated_at: "2026-11-23T21:25:47.626Z"
+status: "active"
 ---
 
 # § 7926. Prohibition on aiding and abetting sexual abuse
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:48.222Z"
     - **(C)** the case or investigation remains open and there have been no charges filed against, or indictment of, the school employee, contractor, or agent within 4 years of the date on which the information was reported to a law enforcement agency.
 - **(c)** The Secretary shall not have the authority to mandate, direct, or control the specific measures adopted by a State, State educational agency, or local educational agency under this section.
 - **(d)** Nothing in this section shall be construed to prevent a State from adopting, or to override a State law, regulation, or policy that provides, greater or additional protections to prohibit any individual who is a school employee, contractor, or agent, or any State educational agency or local educational agency, from assisting a school employee who engaged in sexual misconduct regarding a minor or student in violation of the law in obtaining a new job.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VIII, § 8546](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title VIII, § 8038](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2120](https://www.govinfo.gov/link/statute/129/2120).)*

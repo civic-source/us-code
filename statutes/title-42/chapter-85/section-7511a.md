@@ -3,9 +3,10 @@ title: "Section 7511a - Plan submissions and requirements"
 usc_title: 42
 usc_section: "7511a"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7511a"
-generated_at: "2026-03-30T02:56:11.306Z"
+generated_at: "2026-11-23T21:26:33.106Z"
+status: "active"
 ---
 
 # § 7511a. Plan submissions and requirements
@@ -135,3 +136,21 @@ generated_at: "2026-03-30T02:56:11.306Z"
     - **(A)** take all reasonable steps to coordinate, substantively and procedurally, the revisions and implementation of State implementation plans applicable to the nonattainment area concerned; and
     - **(B)** use photochemical grid modeling or any other analytical method determined by the Administrator, in his discretion, to be at least as effective.
   - **(2)** If any State in which there is located a portion of a multi-State ozone nonattainment area fails to provide a demonstration of attainment of the national ambient air quality standard for ozone in that portion within the required period, the State may petition the Administrator to make a finding that the State would have been able to make such demonstration but for the failure of one or more other States in which other portions of the area are located to commit to the implementation of all measures required under this section (relating to plan submissions and requirements for ozone nonattainment areas). If the Administrator makes such finding, the provisions of section 7509 of this title (relating to sanctions) shall not apply, by reason of the failure to make such demonstration, in the portion of the multi-State ozone nonattainment area within the State submitting such petition.
+
+In General
+
+Limitation on Plan Disapproval
+
+Emissions Reduction Credits.—
+
+State plan revision; approval
+
+Expiration of interim approval
+
+Final approval
+
+Basis of approval; no automatic discount
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 182, as added [Pub. L. 101–549, title I, § 103](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2426](https://www.govinfo.gov/link/statute/104/2426); amended [Pub. L. 104–70, § 1](https://www.govinfo.gov/link/plaw/104/public/70), Dec. 23, 1995, [109 Stat. 773](https://www.govinfo.gov/link/statute/109/773).)*

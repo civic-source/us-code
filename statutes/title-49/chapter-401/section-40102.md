@@ -3,9 +3,10 @@ title: "Section 40102 - Definitions"
 usc_title: 49
 usc_section: "40102"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 40102"
-generated_at: "2026-03-30T02:56:19.369Z"
+generated_at: "2026-11-23T21:26:40.829Z"
+status: "active"
 ---
 
 # § 40102. Definitions
@@ -107,3 +108,293 @@ generated_at: "2026-03-30T02:56:19.369Z"
     - **(D)** trained personnel with specific technical capabilities to satisfy the operational, engineering, management, and planning requirements for air traffic control; and
     - **(E)** systems, software, and hardware operated, owned, and maintained by third parties that support or directly provide air navigation information and air traffic management services with Administration approval.
 - **(b)** In subpart II of this part, “control” means control by any means.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40102(a)(1) | 49 App.:1301(2). | Aug. 23, 1958 , Pub. L. 85–726 , §§ 101(2), (3) (less proviso), (5)–(10), 413, 72 Stat. 737 , 770. |
+| 40102(a)(2) | 49 App.:1301(3) (less proviso). |  |
+| 40102(a)(3) | 49 App.:1301(4). | Aug. 23, 1958 , Pub. L. 85–726, § 101(4) , 72 Stat. 737 ; Sept. 5, 1961 , Pub. L. 87–197, § 3 , 75 Stat. 467 . |
+| 40102(a)(4) | 49 App.:1301(8). |  |
+| 40102(a)(5) | 49 App.:1301(10). |  |
+| 40102(a)(6), (7) | 49 App.:1301(5), (6). |  |
+| 40102(a)(8) | 49 App.:1301(7). |  |
+|  | 49 App.:1655(c)(1). | Oct. 15, 1966 , Pub. L. 89–670, § 6(c)(1) , 80 Stat. 938 ; Jan. 12, 1983 , Pub. L. 97–449, § 7(b) , 96 Stat. 2444 . |
+| 40102(a)(9) | 49 App.:1301(9). |  |
+| 40102(a)(10) | 49 App.:1301(11). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 101(11); added Nov. 9, 1977 , Pub. L. 95–163, § 17(b)(2) , 91 Stat. 1286 ; restated Oct. 4, 1984 , Pub. L. 98–443, § 9(a)(1) , 98 Stat. 1706 . |
+| 40102(a)(11) | 49 App.:1301(12). | Aug. 23, 1958 , Pub. L. 85–726, § 101(12) , (16)–(34), (37), (40), (41), 72 Stat. 737 , 739; July 10, 1962 , Pub. L. 87–528, § 1 , 76 Stat. 143 ; Sept. 26, 1968 , Pub. L. 90–514, § 1 , 82 Stat. 867 ; Oct. 14, 1970 , Pub. L. 91–449, § 1(2) , 84 Stat. 921 ; Aug. 5, 1974 , Pub. L. 93–366, § 206 , 88 Stat. 419 ; Nov. 9, 1977 , Pub. L. 95–163, § 17(b)(1) , 91 Stat. 1286 ; Oct. 24, 1978 , Pub. L. 95–504, § 2(a)(4) , (b), 92 Stat. 1705 . |
+| 40102(a)(12) | (no source). |  |
+| 40102(a)(13) | 49 App.:1301(14) (less certificate). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 101(14) (less certificate), (15); added Oct. 24, 1978 , Pub. L. 95–504, § 2(a)(1) , 92 Stat. 1705 . |
+| 40102(a)(14) | 49 App.:1301(15). |  |
+|  | 49 App.:1551(b)(1)(E). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1601(b)(1)(E); added Oct. 4, 1984 , Pub. L. 98–443, § 3(e) , 98 Stat. 1704 . |
+| 40102(a) (15)–(18) | 49 App.:1301(16)–(19). |  |
+| 40102(a)(19) | 49 App.:1301(20). |  |
+| 40102(a)(20) | 49 App.:1301(21). |  |
+|  | 49 App.:1655(c)(1). |  |
+| 40102(a)(21) | 49 App.:1301(22). |  |
+| 40102(a)(22) | 49 App.:1301(23) (related to foreign air commerce). |  |
+| 40102(a)(23) | 49 App.:1301(24) (related to foreign air transportation). |  |
+| 40102(a)(24) | 49 App.:1301(23) (related to interstate and overseas air commerce). |  |
+| 40102(a)(25) | 49 App.:1301(24) (related to interstate and overseas air transportation). |  |
+|  | 49 App.:1305(b)(2), (d) (related to (b)(2)). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 105(b)(2), (d) (related to (b)(2)); added Oct. 24, 1978 , Pub. L. 95–504, § 4(a) , 92 Stat. 1708 . |
+| 40102(a) (26)–(32) | 49 App.:1301(25)–(31). |  |
+| 40102(a)(33) | 49 App.:1301(32). |  |
+| 40102(a)(34) | 49 App.:1301(35). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 101(35), (39); added Oct. 24, 1978 , Pub. L. 95–504, § 2(a)(2) , (3), (b), 92 Stat. 1705 . |
+| 40102(a)(35) | (no source). |  |
+| 40102(a)(36) | 49 App.:1301(33), (34). |  |
+| 40102(a)(37) | 49 App.:1301(36). | Aug. 23, 1958 , Pub. L. 85–726, § 101(36) , 72 Stat. 739 ; Aug. 5, 1974 , Pub. L. 93–366, § 206 , 88 Stat. 419 ; Nov. 9, 1977 , Pub. L. 95–163, § 17(b)(1) , 91 Stat. 1286 ; Oct. 24, 1978 , Pub. L. 95–504, § 2 , 92 Stat. 1705 ; Dec. 30, 1987 , Pub. L. 100–223, § 207 , 101 Stat. 1523 . |
+| 40102(a)(38) | 49 App.:1301(37). |  |
+| 40102(a)(39) | 49 App.:1301(39). |  |
+| 40102(a)(40) | 49 App.:1301(40). |  |
+| 40102(a)(41) | 49 App.:1301(41). |  |
+| 40102(b) | 49 App.:1383. |  |
+
+
+General Definitions
+
+Limited Definition
+
+Historical and Revision Notes
+
+Pub. L
+
+40102(a)(1)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 737
+
+40102(a)(2)
+
+40102(a)(3)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 101(4)
+
+72 Stat. 737
+
+Sept. 5, 1961
+
+Pub. L. 87–197, § 3
+
+75 Stat. 467
+
+40102(a)(4)
+
+40102(a)(5)
+
+40102(a)(8)
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 6(c)(1)
+
+80 Stat. 938
+
+Jan. 12, 1983
+
+Pub. L. 97–449, § 7(b)
+
+96 Stat. 2444
+
+40102(a)(9)
+
+40102(a)(10)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Nov. 9, 1977
+
+Pub. L. 95–163, § 17(b)(2)
+
+91 Stat. 1286
+
+Oct. 4, 1984
+
+Pub. L. 98–443, § 9(a)(1)
+
+98 Stat. 1706
+
+40102(a)(11)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 101(12)
+
+72 Stat. 737
+
+July 10, 1962
+
+Pub. L. 87–528, § 1
+
+76 Stat. 143
+
+Sept. 26, 1968
+
+Pub. L. 90–514, § 1
+
+82 Stat. 867
+
+Oct. 14, 1970
+
+Pub. L. 91–449, § 1(2)
+
+84 Stat. 921
+
+Aug. 5, 1974
+
+Pub. L. 93–366, § 206
+
+88 Stat. 419
+
+Nov. 9, 1977
+
+Pub. L. 95–163, § 17(b)(1)
+
+91 Stat. 1286
+
+Oct. 24, 1978
+
+Pub. L. 95–504, § 2(a)(4)
+
+92 Stat. 1705
+
+40102(a)(12)
+
+40102(a)(13)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 24, 1978
+
+Pub. L. 95–504, § 2(a)(1)
+
+92 Stat. 1705
+
+40102(a)(14)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 4, 1984
+
+Pub. L. 98–443, § 3(e)
+
+98 Stat. 1704
+
+40102(a)(19)
+
+40102(a)(20)
+
+40102(a)(21)
+
+40102(a)(22)
+
+40102(a)(23)
+
+40102(a)(24)
+
+40102(a)(25)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 24, 1978
+
+Pub. L. 95–504, § 4(a)
+
+92 Stat. 1708
+
+40102(a)(33)
+
+40102(a)(34)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 24, 1978
+
+Pub. L. 95–504, § 2(a)(2)
+
+92 Stat. 1705
+
+40102(a)(35)
+
+40102(a)(36)
+
+40102(a)(37)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 101(36)
+
+72 Stat. 739
+
+Aug. 5, 1974
+
+Pub. L. 93–366, § 206
+
+88 Stat. 419
+
+Nov. 9, 1977
+
+Pub. L. 95–163, § 17(b)(1)
+
+91 Stat. 1286
+
+Oct. 24, 1978
+
+Pub. L. 95–504, § 2
+
+92 Stat. 1705
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 207
+
+101 Stat. 1523
+
+40102(a)(38)
+
+40102(a)(39)
+
+40102(a)(40)
+
+40102(a)(41)
+
+40102(b)
+
+“Except as otherwise provided in this Act [see Tables for classification], the following definitions apply:
+
+Administrator
+
+Secretary
+
+“In this Act [see Short Title of 1994 Amendment note set out under section 40101 of this title ], the following definitions apply:
+
+Administrator
+
+Secretary
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1097](https://www.govinfo.gov/link/statute/108/1097); [Pub. L. 103–305, title VI, § 601(b)(2)(B)](https://www.govinfo.gov/link/plaw/103/public/305), Aug. 23, 1994, [108 Stat. 1606](https://www.govinfo.gov/link/statute/108/1606); [Pub. L. 103–411, § 3(a)](https://www.govinfo.gov/link/plaw/103/public/411), Oct. 25, 1994, [108 Stat. 4236](https://www.govinfo.gov/link/statute/108/4236); [Pub. L. 103–429, § 6(46)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4384](https://www.govinfo.gov/link/statute/108/4384); [Pub. L. 105–137, § 6](https://www.govinfo.gov/link/plaw/105/public/137), Dec. 2, 1997, [111 Stat. 2641](https://www.govinfo.gov/link/statute/111/2641); [Pub. L. 106–181, title III, § 301](https://www.govinfo.gov/link/plaw/106/public/181), title VII, § 702(a), Apr. 5, 2000, [114 Stat. 115](https://www.govinfo.gov/link/statute/114/115), 155; [Pub. L. 108–176, title II, § 225(a)](https://www.govinfo.gov/link/plaw/108/public/176), title VIII, § 807, Dec. 12, 2003, [117 Stat. 2528](https://www.govinfo.gov/link/statute/117/2528), 2588; [Pub. L. 110–181, div. A, title X, § 1078(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 334](https://www.govinfo.gov/link/statute/122/334); [Pub. L. 112–95, title II, § 205](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 39](https://www.govinfo.gov/link/statute/126/39); [Pub. L. 115–254, div. B, title III, § 355(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3305](https://www.govinfo.gov/link/statute/132/3305); [Pub. L. 118–63, title II, § 215](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1054](https://www.govinfo.gov/link/statute/138/1054).)*

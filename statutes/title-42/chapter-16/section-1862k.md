@@ -3,9 +3,10 @@ title: "Section 1862k - Findings; core strategies"
 usc_title: 42
 usc_section: "1862k"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1862k"
-generated_at: "2026-03-30T02:56:11.125Z"
+generated_at: "2026-11-23T21:26:32.203Z"
+status: "active"
 ---
 
 # § 1862k. Findings; core strategies
@@ -27,3 +28,49 @@ generated_at: "2026-03-30T02:56:11.125Z"
   - **(2)** Strengthen the scientific infrastructure by investing in facilities planning and modernization, instrument acquisition, instrument design and development, and shared-use research platforms.
   - **(3)** Integrate research and education through activities that emphasize and strengthen the natural connections between learning and inquiry.
   - **(4)** Promote partnerships with industry, elementary and secondary schools, community colleges, colleges and universities, other agencies, State and local governments, and other institutions involved in science, mathematics, and engineering to enhance the delivery of math and science education and improve the technological literacy of the citizens of the United States.
+
+Matching Funds
+
+Report.—
+
+In general
+
+Report to congress
+
+Notice of Reprogramming
+
+Notice of Reorganization
+
+Definitions
+
+Educationally useful federal equipment
+
+School
+
+Sense of the Congress.—
+
+In general
+
+Reports.—
+
+In general
+
+Contents of report
+
+“In this Act [see Short Title of 1998 Amendment note set out under section 1861 of this title ]:
+
+Director
+
+Foundation
+
+Full life-cycle cost
+
+Board
+
+United states
+
+National research facility
+
+## Source Credit
+
+*([Pub. L. 105–207, title I, § 101](https://www.govinfo.gov/link/plaw/105/public/207), July 29, 1998, [112 Stat. 869](https://www.govinfo.gov/link/statute/112/869).)*

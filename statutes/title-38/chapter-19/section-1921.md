@@ -3,9 +3,10 @@ title: "Section 1921 - Extra hazard costs"
 usc_title: 38
 usc_section: "1921"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1921"
-generated_at: "2026-03-30T02:55:53.490Z"
+generated_at: "2026-11-23T21:26:16.673Z"
+status: "active"
 ---
 
 # § 1921. Extra hazard costs
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:53.490Z"
 - **(c)** Whenever the premiums under insurance are waived because of the total disability of the insured as the result of disease or injury traceable to the extra hazard of military or naval service, as such hazard may be determined by the Secretary, the premiums so waived shall be paid by the United States and the Secretary shall transfer from time to time an amount equal to the amount of such premiums from the National Service Life Insurance appropriation to the National Service Life Insurance Fund.
 - **(d)** Whenever benefits under the total disability income provision become, or have become, payable because of total disability of the insured as a result of disease or injury traceable to the extra hazard of the military or naval service, as such hazard may be determined by the Secretary, the liability shall be borne by the United States, and the Secretary shall transfer from the National Service Life Insurance appropriation to the National Service Life Insurance Fund from time to time any amounts which become, or have become, payable to the insured on account of such total disability, and to transfer from the National Service Life Insurance Fund to the National Service Life Insurance appropriation the amount of the reserve held on account of the total disability benefit. When a person receiving such payments on account of total disability recovers from such disability, and is then entitled to continue protection under the total disability income provision, the Secretary shall transfer to the National Service Life Insurance Fund a sum sufficient to set up the then required reserve on such total disability benefit.
 - **(e)** Any disability for which a waiver was required as a condition to tendering a person a commission under Public Law 816, Seventy-seventh Congress, shall be deemed to be a disability resulting from an injury or disease traceable to the extra hazard of military or naval service for the purpose of applying this section.
+
+## Source Credit
+
+*([Pub. L. 85–857](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1154](https://www.govinfo.gov/link/statute/72/1154), § 721; renumbered § 1921 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406](https://www.govinfo.gov/link/statute/105/404).)*

@@ -3,9 +3,10 @@ title: "Section 5385 - Funding agreements"
 usc_title: 25
 usc_section: "5385"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5385"
-generated_at: "2026-03-30T02:54:52.870Z"
+generated_at: "2026-11-23T21:25:54.732Z"
+status: "active"
 ---
 
 # § 5385. Funding agreements
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:52.870Z"
   - **(1)** retain the Tribal Self-Governance Demonstration Project funding agreement of that Indian tribe (in whole or in part) to the extent that the provisions of that funding agreement are not directly contrary to any express provision of this subchapter; or
   - **(2)** instead of retaining a funding agreement or portion thereof under paragraph (1), negotiate a new funding agreement in a manner consistent with the requirements of this subchapter.
 - **(g)** At the option of an Indian tribe, a funding agreement may provide for a stable base budget specifying the recurring funds (including, for purposes of this provision, funds available under section 5325(a) of this title ) to be transferred to such Indian tribe, for such period as may be specified in the funding agreement, subject to annual adjustment only to reflect changes in congressional appropriations by sub-sub activity excluding earmarks.
+
+## Source Credit
+
+*([Pub. L. 93–638, title V, § 505](https://www.govinfo.gov/link/plaw/93/public/638), as added [Pub. L. 106–260, § 4](https://www.govinfo.gov/link/plaw/106/public/260), Aug. 18, 2000, [114 Stat. 716](https://www.govinfo.gov/link/statute/114/716).)*

@@ -3,9 +3,10 @@ title: "Section 289b - Office of Research Integrity"
 usc_title: 42
 usc_section: "289b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 289b"
-generated_at: "2026-03-30T02:56:10.754Z"
+generated_at: "2026-11-23T21:26:30.532Z"
+status: "active"
 ---
 
 # § 289b. Office of Research Integrity
@@ -32,3 +33,17 @@ generated_at: "2026-03-30T02:56:10.754Z"
     - **(B)** cooperated with an investigation of such an allegation.
   - **(2)** The Secretary shall by regulation establish procedures for the Director to monitor the implementation of the standards established by an entity under paragraph (1) for the purpose of determining whether the procedures have been established, and are being utilized, in accordance with the standards established under such paragraph.
   - **(3)** The Secretary shall by regulation establish remedies for noncompliance by an entity, its officials or agents, which has engaged in retaliation in violation of the standards established under paragraph (1). Such remedies may include termination of funding provided by the Secretary for such project or recovery of funding being provided by the Secretary for such project, or other actions as appropriate.
+
+Issuance of Final Rules.—
+
+In general
+
+Definition of research misconduct
+
+Applicability to Ongoing Investigations
+
+Definitions
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 493, as added [Pub. L. 99–158, § 2](https://www.govinfo.gov/link/plaw/99/public/158), Nov. 20, 1985, [99 Stat. 874](https://www.govinfo.gov/link/statute/99/874); amended [Pub. L. 103–43, title I](https://www.govinfo.gov/link/plaw/103/public/43), §§ 161, 163, June 10, 1993, [107 Stat. 140](https://www.govinfo.gov/link/statute/107/140), 142.)*

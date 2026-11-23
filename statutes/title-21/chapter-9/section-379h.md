@@ -3,9 +3,10 @@ title: "Section 379h - Authority to assess and use drug fees"
 usc_title: 21
 usc_section: "379h"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 379h"
-generated_at: "2026-03-30T02:54:54.266Z"
+generated_at: "2026-11-23T21:25:56.137Z"
+status: "active"
 ---
 
 # § 379h. Authority to assess and use drug fees
@@ -128,3 +129,11 @@ generated_at: "2026-03-30T02:54:54.266Z"
   - **(2)** An exemption under paragraph (1) applies with respect to a drug only if the applicant involved submits a certification that the applicant’s gross annual revenues did not exceed $50,000,000 for the last calendar year ending prior to the fiscal year for which the exemption is requested. Such certification shall be supported by—
     - **(A)** tax returns submitted to the United States Internal Revenue Service; or
     - **(B)** as necessary, other appropriate financial information.
+
+First payment
+
+Final payment
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 736, as added [Pub. L. 102–571, title I, § 103](https://www.govinfo.gov/link/plaw/102/public/571), Oct. 29, 1992, [106 Stat. 4494](https://www.govinfo.gov/link/statute/106/4494); amended [Pub. L. 105–115, title I, § 103(a)](https://www.govinfo.gov/link/plaw/105/public/115) –(g), Nov. 21, 1997, [111 Stat. 2299–2304](https://www.govinfo.gov/link/statute/111/2299); [Pub. L. 107–109, § 5(a)](https://www.govinfo.gov/link/plaw/107/public/109), Jan. 4, 2002, [115 Stat. 1413](https://www.govinfo.gov/link/statute/115/1413); [Pub. L. 107–188, title V, § 504](https://www.govinfo.gov/link/plaw/107/public/188), June 12, 2002, [116 Stat. 689](https://www.govinfo.gov/link/statute/116/689); [Pub. L. 110–85, title I, § 103(a)](https://www.govinfo.gov/link/plaw/110/public/85) –(h)(1), Sept. 27, 2007, [121 Stat. 826–832](https://www.govinfo.gov/link/statute/121/826); [Pub. L. 112–144, title I, § 103](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 996](https://www.govinfo.gov/link/statute/126/996); [Pub. L. 115–52, title I, § 102(a)(1)](https://www.govinfo.gov/link/plaw/115/public/52), (b)–(h), title IX, § 905(b)(1), Aug. 18, 2017, [131 Stat. 1007–1012](https://www.govinfo.gov/link/statute/131/1007), 1090; [Pub. L. 117–180, div. F, title I, § 1003](https://www.govinfo.gov/link/plaw/117/public/180), Sept. 30, 2022, [136 Stat. 2142](https://www.govinfo.gov/link/statute/136/2142); [Pub. L. 117–328, div. FF, title III, § 3625(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5880](https://www.govinfo.gov/link/statute/136/5880).)*

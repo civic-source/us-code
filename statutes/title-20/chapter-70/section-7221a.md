@@ -3,9 +3,10 @@ title: "Section 7221a - Program authorized"
 usc_title: 20
 usc_section: "7221a"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7221a"
-generated_at: "2026-03-30T02:54:48.206Z"
+generated_at: "2026-11-23T21:25:47.556Z"
+status: "active"
 ---
 
 # § 7221a. Program authorized
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:48.206Z"
   - **(2)** reserve 22.5 percent to carry out national activities under section 7221d of this title ; and
   - **(3)** use the remaining amount after the reservations under paragraphs (1) and (2) to carry out section 7221b of this title .
 - **(c)** The recipient of a grant or subgrant under part B of title V (as such part was in effect on the day before December 10, 2015 ) shall continue to receive funds in accordance with the terms and conditions of such grant or subgrant.
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4302](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title IV, § 4301(1)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1994](https://www.govinfo.gov/link/statute/129/1994).)*

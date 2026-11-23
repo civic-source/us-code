@@ -3,9 +3,10 @@ title: "Section 277b - Works or projects under treaty"
 usc_title: 22
 usc_section: "277b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 277b"
-generated_at: "2026-03-30T02:55:05.311Z"
+generated_at: "2026-11-23T21:25:58.343Z"
+status: "active"
 ---
 
 # § 277b. Works or projects under treaty
@@ -14,3 +15,11 @@ generated_at: "2026-03-30T02:55:05.311Z"
 - **(b)** Expenditures for the Rio Grande bank protection project shall be subject to the provisions and conditions made with respect to that project in the first undesignated paragraph under the heading “ International Obligations ” contained in the Act of April 25, 1945 ( 59 Stat. 89 ).
 - **(c)** The Anzalduas diversion dam shall not be operated for irrigation or water supply purposes in the United States unless suitable arrangements have been made with the prospective water users for repayment to the Government of the United States for such portions of the dam as shall have been allocated to such purposes by the Secretary of State.
 - **(d)** Pursuant to the authority of subsection (a) and in order to facilitate further compliance with the terms of the Convention for Equitable Distribution of the Waters of the Rio Grande, May 21, 1906 , United States-Mexico, the Secretary of State, acting through the United States Commissioner of the International Boundary and Water Commission, may make improvements to the Rio Grande Canalization Project, originally authorized by the Act of August 29, 1935 ( 49 Stat. 961 ). Such improvements may include all such works as may be needed to stabilize the Rio Grande in the reach between the Percha Diversion Dam in New Mexico and the American Diversion Dam in El Paso.
+
+International Obligations
+
+International Obligations
+
+## Source Credit
+
+*(May 13, 1924, ch. 153, § 3, as added Aug. 19, 1935, ch. 561, [49 Stat. 660](https://www.govinfo.gov/link/statute/49/660); amended [Pub. L. 101–246, title IV, § 412(b)(1)](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 70](https://www.govinfo.gov/link/statute/104/70); [Pub. L. 104–319, title I, § 104](https://www.govinfo.gov/link/plaw/104/public/319), Oct. 19, 1996, [110 Stat. 3866](https://www.govinfo.gov/link/statute/110/3866).)*

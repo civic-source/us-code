@@ -3,9 +3,10 @@ title: "Section 1427 - Requirements of naturalization"
 usc_title: 8
 usc_section: "1427"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1427"
-generated_at: "2026-03-30T02:53:10.500Z"
+generated_at: "2026-11-23T21:25:25.192Z"
+status: "active"
 ---
 
 # § 1427. Requirements of naturalization
@@ -21,3 +22,15 @@ generated_at: "2026-03-30T02:53:10.500Z"
   - **(1)** Whenever the Director of Central Intelligence, the Attorney General and the Commissioner of Immigration determine that an applicant otherwise eligible for naturalization has made an extraordinary contribution to the national security of the United States or to the conduct of United States intelligence activities, the applicant may be naturalized without regard to the residence and physical presence requirements of this section, or to the prohibitions of section 1424 of this title , and no residence within a particular State or district of the Service in the United States shall be required: Provided , That the applicant has continuously resided in the United States for at least one year prior to naturalization: Provided further , That the provisions of this subsection shall not apply to any alien described in clauses (i) through (v) of section 1158(b)(2)(A) of this title .
   - **(2)** An applicant for naturalization under this subsection may be administered the oath of allegiance under section 1448(a) of this title by any district court of the United States, without regard to the residence of the applicant. Proceedings under this subsection shall be conducted in a manner consistent with the protection of intelligence sources, methods and activities.
   - **(3)** The number of aliens naturalized pursuant to this subsection in any fiscal year shall not exceed five. The Director of Central Intelligence shall inform the Select Committee on Intelligence and the Committee on the Judiciary of the Senate and the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives within a reasonable time prior to the filing of each application under the provisions of this subsection.
+
+In General
+
+Eligible Applicant
+
+Administration of Oath
+
+Definitions
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title III, ch. 2, § 316, [66 Stat. 242](https://www.govinfo.gov/link/statute/66/242); [Pub. L. 97–116, § 14](https://www.govinfo.gov/link/plaw/97/public/116), Dec. 29, 1981, [95 Stat. 1619](https://www.govinfo.gov/link/statute/95/1619); [Pub. L. 99–169, title VI, § 601](https://www.govinfo.gov/link/plaw/99/public/169), Dec. 4, 1985, [99 Stat. 1007](https://www.govinfo.gov/link/statute/99/1007); [Pub. L. 101–649, title IV](https://www.govinfo.gov/link/plaw/101/public/649), §§ 402, 407(c)(2), (d)(1), (e)(1), Nov. 29, 1990, [104 Stat. 5038](https://www.govinfo.gov/link/statute/104/5038), 5041, 5046; [Pub. L. 104–208, div. C, title III, § 308(g)(7)(F)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–624](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 109–149, title V, § 518](https://www.govinfo.gov/link/plaw/109/public/149), Dec. 30, 2005, [119 Stat. 2882](https://www.govinfo.gov/link/statute/119/2882).)*

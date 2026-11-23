@@ -3,9 +3,10 @@ title: "Section 331 - Friendly foreign countries: authority to provide support f
 usc_title: 10
 usc_section: "331"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 331"
-generated_at: "2026-03-30T02:53:38.052Z"
+generated_at: "2026-11-23T21:25:32.252Z"
+status: "active"
 ---
 
 # § 331. Friendly foreign countries: authority to provide support for conduct of operations
@@ -44,3 +45,41 @@ generated_at: "2026-03-30T02:53:38.052Z"
   - **(1)** The aggregate value of all logistic support, supplies, and services provided under paragraphs (1), (4), and (5) of subsection (c) in any fiscal year may not exceed $450,000,000.
   - **(2)** The aggregate value of all logistic support, supplies, and services provided under subsection (c)(2) in any fiscal year may not exceed $5,000,000.
 - **(h)** In this section, the term “logistic support, supplies, and services” has the meaning given that term in section 2350(1) of this title .
+
+Authority
+
+Designated Operations.—
+
+In general
+
+Notice to congress
+
+Annual review for continuing designation
+
+Types of Support Authorized
+
+Certification Required.—
+
+Operations in which the united states is not participating
+
+Accompanying report
+
+Secretary of State Concurrence
+
+Support Otherwise Prohibited by Law
+
+Limitations on Value.—
+
+Logistic Support, Supplies, and Services Defined
+
+In General
+
+Effect on Military Training and Readiness
+
+Funds
+
+Assistance Defined
+
+## Source Credit
+
+*(Added [Pub. L. 109–364, div. A, title XII, § 1201(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2410](https://www.govinfo.gov/link/statute/120/2410), § 127c; renumbered § 127d, [Pub. L. 110–181, div. A, title X, § 1063(a)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 321](https://www.govinfo.gov/link/statute/122/321); [Pub. L. 111–383, div. A, title X, § 1075(b)(3)](https://www.govinfo.gov/link/plaw/111/public/383), title XII, § 1202, Jan. 7, 2011, [124 Stat. 4369](https://www.govinfo.gov/link/statute/124/4369), 4385; renumbered § 331 and amended [Pub. L. 114–328, div. A, title XII, § 1245(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2518](https://www.govinfo.gov/link/statute/130/2518); [Pub. L. 115–232, div. A, title XII, § 1203(b)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2016](https://www.govinfo.gov/link/statute/132/2016); [Pub. L. 117–263, div. A, title XII, § 1202(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2823](https://www.govinfo.gov/link/statute/136/2823).)*

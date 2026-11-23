@@ -3,9 +3,10 @@ title: "Section 9058d - Homeowner Assistance Fund"
 usc_title: 15
 usc_section: "9058d"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9058d"
-generated_at: "2026-03-30T02:54:08.243Z"
+generated_at: "2026-11-23T21:25:40.130Z"
+status: "active"
 ---
 
 # § 9058d. Homeowner Assistance Fund
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:54:08.243Z"
   - **(1)** Notwithstanding any other provision of this section, of the amounts appropriated under subsection (a), the Secretary shall use 5 percent to make payments to entities that are eligible for payments under clauses (i) and (ii) of section 9058a(b)(2)(A) of this title for the purposes described in subsection (c).
   - **(2)** The Secretary shall allocate the funds set aside under paragraph (1) using the allocation formulas described in clauses (i) and (ii) of section 9058a(b)(2)(A) of this title , and shall make payments of such amounts beginning no later than 45 days after March 11, 2021 , to entities eligible for payment under clauses (i) and (ii) of section 9058a(b)(2)(A) of this title that notify the Secretary that they request to receive payments allocated from the Fund by the Secretary for purposes described under subsection (c) and will use such payments in compliance with this section.
   - **(3)** Allocations provided under this subsection may be further adjusted as provided by section 9058a(b)(2)(B) of this title .
+
+## Source Credit
+
+*([Pub. L. 117–2, title III, § 3206](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 63](https://www.govinfo.gov/link/statute/135/63).)*

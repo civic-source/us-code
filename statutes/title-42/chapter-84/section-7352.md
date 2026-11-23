@@ -3,9 +3,10 @@ title: "Section 7352 - Contents of review"
 usc_title: 42
 usc_section: "7352"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7352"
-generated_at: "2026-03-30T02:56:11.289Z"
+generated_at: "2026-11-23T21:26:33.063Z"
+status: "active"
 ---
 
 # § 7352. Contents of review
@@ -26,3 +27,7 @@ Each comprehensive review prepared for submission under section 7351 of this tit
   - **(12)** a projection of the anticipated needs for accomplishing the objectives of the program, including an estimate if applicable of the date on which, and the conditions under which, the program may fulfill such objectives;
   - **(13)** an analysis of the services which could be provided and performance which could be achieved if the program were continued at a level less than, equal to, or greater than the existing level; and
   - **(14)** recommendations for necessary transitional requirements in the event that funding for such program is discontinued, including proposals for such executives or legislative action as may be necessary to prevent such discontinuation from being unduly disruptive.
+
+## Source Credit
+
+*([Pub. L. 95–91, title X, § 1002](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 612](https://www.govinfo.gov/link/statute/91/612).)*

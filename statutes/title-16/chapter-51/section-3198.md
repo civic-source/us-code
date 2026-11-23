@@ -3,9 +3,10 @@ title: "Section 3198 - Local hire"
 usc_title: 16
 usc_section: "3198"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3198"
-generated_at: "2026-03-30T02:54:23.012Z"
+generated_at: "2026-11-23T21:25:51.964Z"
+status: "active"
 ---
 
 # § 3198. Local hire
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:23.012Z"
     - **(B)** With respect to any person who was hired pursuant to the program established under subsection (a) that is no longer serving in that position as of March 30, 2009 —
       - **(i)** the person may provide to the Secretary a request for redesignation of the service as part of the competitive service that includes evidence of the employment; and
       - **(ii)** not later than 90 days of the submission of a request under clause (i), the Secretary shall redesignate the service of the person as being part of the competitive service.
+
+## Source Credit
+
+*([Pub. L. 96–487, title XIII, § 1308](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2480](https://www.govinfo.gov/link/statute/94/2480); [Pub. L. 100–689, title IV, § 401](https://www.govinfo.gov/link/plaw/100/public/689), Nov. 18, 1988, [102 Stat. 4177](https://www.govinfo.gov/link/statute/102/4177); [Pub. L. 102–415, § 16](https://www.govinfo.gov/link/plaw/102/public/415), Oct. 14, 1992, [106 Stat. 2124](https://www.govinfo.gov/link/statute/106/2124); [Pub. L. 108–199, div. H, § 147](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 445](https://www.govinfo.gov/link/statute/118/445); [Pub. L. 111–11, title VI, § 6101](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1170](https://www.govinfo.gov/link/statute/123/1170); [Pub. L. 112–74, div. E, title I, § 121(b)](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 1012](https://www.govinfo.gov/link/statute/125/1012).)*

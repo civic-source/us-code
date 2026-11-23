@@ -3,9 +3,10 @@ title: "Section 2431k - Annual reports to Congress"
 usc_title: 22
 usc_section: "2431k"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2431k"
-generated_at: "2026-03-30T02:55:05.368Z"
+generated_at: "2026-11-23T21:25:58.496Z"
+status: "active"
 ---
 
 # § 2431k. Annual reports to Congress
@@ -16,3 +17,7 @@ Not later than April 15 of each year, the President shall prepare and transmit t
   - **(2)** a description of any Agreement entered into under this subchapter;
   - **(3)** a report on any Funds that have been established under this subchapter and on the operations of such Funds; and
   - **(4)** a description of any grants that have been provided by administering bodies pursuant to Agreements under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. V, § 813, as added [Pub. L. 105–214, § 1](https://www.govinfo.gov/link/plaw/105/public/214), July 29, 1998, [112 Stat. 893](https://www.govinfo.gov/link/statute/112/893); amended [Pub. L. 115–440, § 10](https://www.govinfo.gov/link/plaw/115/public/440), Jan. 14, 2019, [132 Stat. 5584](https://www.govinfo.gov/link/statute/132/5584).)*

@@ -3,9 +3,10 @@ title: "Section 1457a - Authorization of appropriations for particular programs"
 usc_title: 43
 usc_section: "1457a"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1457a"
-generated_at: "2026-03-30T02:55:57.473Z"
+generated_at: "2026-11-23T21:26:19.838Z"
+status: "active"
 ---
 
 # § 1457a. Authorization of appropriations for particular programs
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:57.473Z"
   - **(7)** Office of Territorial Affairs programs;
   - **(8)** United States Geological Survey programs; and
   - **(9)** Bureau of Reclamation (including those programs formerly administered by the Water and Power Resources Service).
+
+## Source Credit
+
+*([Pub. L. 97–35, title XIV, § 1401](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 748](https://www.govinfo.gov/link/statute/95/748), 749; [Pub. L. 102–285, § 10(b)](https://www.govinfo.gov/link/plaw/102/public/285), May 18, 1992, [106 Stat. 172](https://www.govinfo.gov/link/statute/106/172); [Pub. L. 113–287, § 5](https://www.govinfo.gov/link/plaw/113/public/287) (l)(3), Dec. 19, 2014, [128 Stat. 3271](https://www.govinfo.gov/link/statute/128/3271).)*

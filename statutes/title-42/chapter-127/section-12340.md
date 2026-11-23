@@ -3,9 +3,10 @@ title: "Section 12340 - Authorization of appropriation and allotment"
 usc_title: 42
 usc_section: "12340"
 chapter: 127
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12340"
-generated_at: "2026-03-30T02:56:11.412Z"
+generated_at: "2026-11-23T21:26:33.472Z"
+status: "active"
 ---
 
 # § 12340. Authorization of appropriation and allotment
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.412Z"
   - **(1)** the preparation, administration, and evaluation of State plans under section 12337 of this title ;
   - **(2)** the development of comprehensive, efficient, coordinated supportive services under section 12338 of this title ; and
   - **(3)** the development, expansion, and operation of local family support and resource programs under section 12339 1 of this title.
+
+## Source Credit
+
+*([Pub. L. 101–501, title IX, § 934](https://www.govinfo.gov/link/plaw/101/public/501), Nov. 3, 1990, [104 Stat. 1277](https://www.govinfo.gov/link/statute/104/1277); [Pub. L. 103–252, title IV, § 402(b)](https://www.govinfo.gov/link/plaw/103/public/252), May 18, 1994, [108 Stat. 673](https://www.govinfo.gov/link/statute/108/673).)*

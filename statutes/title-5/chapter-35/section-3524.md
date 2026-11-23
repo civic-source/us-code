@@ -3,9 +3,10 @@ title: "Section 3524 - Effect of subsequent employment with the Government"
 usc_title: 5
 usc_section: "3524"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3524"
-generated_at: "2026-03-30T02:52:56.007Z"
+generated_at: "2026-11-23T21:25:23.172Z"
+status: "active"
 ---
 
 # § 3524. Effect of subsequent employment with the Government
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:52:56.007Z"
       - **(ii)** will serve on a temporary basis only so long as that individual’s services are made necessary by the emergency.
   - **(2)** If the employment under this section is with an entity in the legislative branch, the head of the entity or the appointing official may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
   - **(3)** If the employment under this section is with the judicial branch, the Director of the Administrative Office of the United States Courts may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
+
+## Source Credit
+
+*(Added [Pub. L. 107–296, title XIII, § 1313(a)(1)(A)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2293](https://www.govinfo.gov/link/statute/116/2293); amended [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 109–435, title VI, § 604(f)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3242](https://www.govinfo.gov/link/statute/120/3242).)*

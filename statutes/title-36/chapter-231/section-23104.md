@@ -3,9 +3,10 @@ title: "Section 23104 - Governing body"
 usc_title: 36
 usc_section: "23104"
 chapter: 231
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 23104"
-generated_at: "2026-03-30T02:55:44.694Z"
+generated_at: "2026-11-23T21:26:13.544Z"
+status: "active"
 ---
 
 # § 23104. Governing body
@@ -20,3 +21,34 @@ generated_at: "2026-03-30T02:55:44.694Z"
 - **(c)**
   - **(1)** The board of trustees shall appoint a board of nominations, consisting of at least 24 members, from members of the corporation not concurrently serving as members of the board of trustees. Those individuals serve for the term provided in the bylaws.
   - **(2)** The board of nominations shall nominate United States citizens or residents to be honored by the corporation and recommend those persons to the board of trustees for consideration as provided in the bylaws.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 23104(a) | 36:4307(a)–(c) (1st sentence, last sentence words after semicolon). | July 14, 1964 , Pub. L. 88–372 , §§ 7–9, 78 Stat. 316 . |
+| 23104(b) | 36:4308. |  |
+| 23104(c) | 36:4307(c) (last sentence words before semicolon). 36:4309. |  |
+
+
+Board of Trustees
+
+Officers
+
+Board of Nominations
+
+Historical and Revision Notes
+
+23104(a)
+
+July 14, 1964
+
+Pub. L. 88–372
+
+78 Stat. 316
+
+23104(b)
+
+23104(c)
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1312](https://www.govinfo.gov/link/statute/112/1312).)*

@@ -3,9 +3,10 @@ title: "Section 4960 - Tax on excess tax-exempt organization executive compensat
 usc_title: 26
 usc_section: "4960"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4960"
-generated_at: "2026-03-30T02:55:27.809Z"
+generated_at: "2026-11-23T21:26:06.653Z"
+status: "active"
 ---
 
 # § 4960. Tax on excess tax-exempt organization executive compensation
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:55:27.809Z"
     - **(E)** Rules similar to the rules of paragraphs (3) and (4) of section 280G(d) shall apply.
   - **(6)** Remuneration the deduction for which is not allowed by reason of section 162(m) shall not be taken into account for purposes of this section.
 - **(d)** The Secretary shall prescribe such regulations as may be necessary to prevent avoidance of the tax under this section, including regulations to prevent avoidance of such tax through the performance of services other than as an employee or by providing compensation through a pass-through or other entity to avoid such tax.
+
+## Source Credit
+
+*(Added [Pub. L. 115–97, title I, § 13602(a)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2157](https://www.govinfo.gov/link/statute/131/2157); amended [Pub. L. 119–21, title VII, § 70416(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 223](https://www.govinfo.gov/link/statute/139/223).)*

@@ -3,9 +3,10 @@ title: "Section 110 - Penalty for persons who negligently or fraudulently prepar
 usc_title: 11
 usc_section: "110"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 110"
-generated_at: "2026-03-30T02:53:53.872Z"
+generated_at: "2026-11-23T21:25:34.888Z"
+status: "active"
 ---
 
 # § 110. Penalty for persons who negligently or fraudulently prepare bankruptcy petitions
@@ -92,3 +93,7 @@ generated_at: "2026-03-30T02:53:53.872Z"
   - **(4)**
     - **(A)** Fines imposed under this subsection in judicial districts served by United States trustees shall be paid to the United States trustees, who shall deposit an amount equal to such fines in the United States Trustee Fund.
     - **(B)** Fines imposed under this subsection in judicial districts served by bankruptcy administrators shall be deposited as offsetting receipts to the fund established under section 1931 of title 28 , and shall remain available until expended to reimburse any appropriation for the amount paid out of such appropriation for expenses of the operation and maintenance of the courts of the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 103–394, title III, § 308(a)](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4135](https://www.govinfo.gov/link/statute/108/4135); amended [Pub. L. 109–8, title II, § 221](https://www.govinfo.gov/link/plaw/109/public/8), title XII, § 1205, Apr. 20, 2005, [119 Stat. 59](https://www.govinfo.gov/link/statute/119/59), 194; [Pub. L. 110–161, div. B, title II, § 212(b)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 1914](https://www.govinfo.gov/link/statute/121/1914); [Pub. L. 111–327, § 2(a)(7)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3558](https://www.govinfo.gov/link/statute/124/3558).)*

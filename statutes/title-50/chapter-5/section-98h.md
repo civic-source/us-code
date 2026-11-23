@@ -3,9 +3,10 @@ title: "Section 98h - National Defense Stockpile Transaction Fund"
 usc_title: 50
 usc_section: "98h"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 98h"
-generated_at: "2026-03-30T02:56:26.197Z"
+generated_at: "2026-11-23T21:26:38.895Z"
+status: "active"
 ---
 
 # § 98h. National Defense Stockpile Transaction Fund
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:26.197Z"
   - **(1)** be applied toward the total value of materials that are authorized to be disposed of from the stockpile during that fiscal year;
   - **(2)** be treated as an acquisition for purposes of satisfying any requirement imposed on the National Defense Stockpile Manager to enter into obligations during that fiscal year under subsection (b)(2); and
   - **(3)** not increase or decrease the balance in the fund.
+
+## Source Credit
+
+*(June 7, 1939, ch. 190, § 9, as added [Pub. L. 96–41, § 2(a)](https://www.govinfo.gov/link/plaw/96/public/41), July 30, 1979, [93 Stat. 323](https://www.govinfo.gov/link/statute/93/323); amended [Pub. L. 97–35, title II, § 203(d)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 382](https://www.govinfo.gov/link/statute/95/382); [Pub. L. 99–661, div. C, title II, § 3203(a)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 4067](https://www.govinfo.gov/link/statute/100/4067); [Pub. L. 100–180, div. C, title II, § 3204](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1247](https://www.govinfo.gov/link/statute/101/1247); [Pub. L. 101–189, div. C, title XXXIII, § 3312(b)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1688](https://www.govinfo.gov/link/statute/103/1688); [Pub. L. 101–510, div. C, title XXXIII, § 3301(c)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1845](https://www.govinfo.gov/link/statute/104/1845); [Pub. L. 102–190, div. C, title XXXIII, § 3311(a)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1584](https://www.govinfo.gov/link/statute/105/1584); [Pub. L. 102–484, div. C, title XXXIII, § 3313](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2653](https://www.govinfo.gov/link/statute/106/2653); [Pub. L. 103–160, div. C, title XXXIII, § 3313](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1962](https://www.govinfo.gov/link/statute/107/1962); [Pub. L. 105–261, div. C, title XXXIII, § 3304](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2264](https://www.govinfo.gov/link/statute/112/2264); [Pub. L. 113–66, div. A, title XIV, § 1411(b)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 934](https://www.govinfo.gov/link/statute/127/934).)*

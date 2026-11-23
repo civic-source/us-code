@@ -3,9 +3,10 @@ title: "Section 511i - Offenses"
 usc_title: 7
 usc_section: "511i"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 511i"
-generated_at: "2026-03-30T02:53:42.287Z"
+generated_at: "2026-11-23T21:25:27.970Z"
+status: "active"
 ---
 
 # § 511i. Offenses
@@ -21,3 +22,7 @@ It shall be unlawful—
 - **(g)** For any person to substitute, or attempt to substitute, following inspection or sampling or weighing under this chapter, other tobacco for tobacco actually inspected or sampled or weighed, or in the case of tobacco inspected in auction warehouses for any person not so authorized by the Secretary to remove any certificate of grade from any lot of tobacco prior to the sale of such lot.
 - **(h)** For any person falsely to represent that tobacco has been inspected, sampled, or weighed under this chapter; or knowingly to have made any false representation concerning tobacco inspected under this chapter; or knowing that tobacco is to be offered for inspection or sampling under this chapter to load, pack, or arrange such tobacco in such manner as knowingly to conceal foreign matter or tobacco of inferior grade, quality, or condition; or for any person knowing that tobacco has been so loaded, packed, or arranged, to offer it for inspection or sampling without disclosing such knowledge to the inspector or sampler before inspection or sampling.
 - **(i)** For any person willfully to alter an official sample of tobacco by removing or plucking leaves or otherwise, or for any person knowing that an official sample of tobacco has been so altered, thereafter to represent such sample as an official sample.
+
+## Source Credit
+
+*(Aug. 23, 1935, ch. 623, § 10, [49 Stat. 733](https://www.govinfo.gov/link/statute/49/733).)*

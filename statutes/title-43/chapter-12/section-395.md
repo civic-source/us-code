@@ -3,12 +3,19 @@ title: "Section 395 - Contributions by State, municipality, etc."
 usc_title: 43
 usc_section: "395"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 395"
-generated_at: "2026-03-30T02:55:57.446Z"
+generated_at: "2026-11-23T21:26:19.774Z"
+status: "active"
 ---
 
 # § 395. Contributions by State, municipality, etc.
 
 All moneys received after March 4, 1921 , from any State, municipality, corporation, association, firm, district, or individual for investigations, surveys, construction work, or any other development work incident thereto involving operations similar to those provided for by the reclamation law shall be covered into the reclamation fund and shall be available for expenditure for the purposes for which contributed in like manner as if said sums had been specifically appropriated for said purposes.
 
+
+reclamation service
+
+## Source Credit
+
+*(Mar. 4, 1921, ch. 161, [41 Stat. 1404](https://www.govinfo.gov/link/statute/41/1404).)*

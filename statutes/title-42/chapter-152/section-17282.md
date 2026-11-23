@@ -3,9 +3,10 @@ title: "Section 17282 - Renewable energy deployment"
 usc_title: 42
 usc_section: "17282"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17282"
-generated_at: "2026-03-30T02:56:11.504Z"
+generated_at: "2026-11-23T21:26:33.782Z"
+status: "active"
 ---
 
 # § 17282. Renewable energy deployment
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:56:11.504Z"
     - **(B)** the Secretary of Labor shall, with respect to the labor standards described in this paragraph, have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (5 U.S.C. App.) and section 3145 of title 40 .
   - **(4)** Each eligible applicant that receives a grant under this subsection shall contribute to the total cost of the renewable energy project constructed by the eligible applicant an amount not less than 50 percent of the total cost of the project.
 - **(c)** There are authorized to be appropriated to the Fund such sums as are necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 110–140, title VIII, § 803](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1718](https://www.govinfo.gov/link/statute/121/1718).)*

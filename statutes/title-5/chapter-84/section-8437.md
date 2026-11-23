@@ -3,9 +3,10 @@ title: "Section 8437 - Thrift Savings Fund"
 usc_title: 5
 usc_section: "8437"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8437"
-generated_at: "2026-03-30T02:52:56.058Z"
+generated_at: "2026-11-23T21:25:23.425Z"
+status: "active"
 ---
 
 # § 8437. Thrift Savings Fund
@@ -26,3 +27,9 @@ generated_at: "2026-03-30T02:52:56.058Z"
   - **(3)** Moneys due or payable from the Thrift Savings Fund to any individual and, in the case of an individual who is an employee or Member (or former employee or Member), the balance in the account of the employee or Member (or former employee or Member) shall be subject to legal process for the enforcement of the individual’s legal obligations to provide child support or make alimony payments as provided in section 459 of the Social Security Act ( 42 U.S.C. 659 ), the enforcement of an order for restitution under section 3663A of title 18 , forfeiture under section 8432(g)(5) of this title , an obligation of the Executive Director to make a transfer under section 415(d)(3) of the Congressional Accountability Act of 1995 ( 2 U.S.C. 1415(d)(3) ), or an obligation of the Executive Director to make a payment to another person under section 8467 of this title , and shall be subject to a Federal tax levy under section 6331 of the Internal Revenue Code of 1986. For the purposes of this paragraph, an amount contributed for the benefit of an individual under section 8432(c)(1) (including any earnings attributable thereto) shall not be considered part of the balance in such individual’s account unless such amount is nonforfeitable, as determined under applicable provisions of section 8432(g).
 - **(f)** The sums in the Thrift Savings Fund shall not be appropriated for any purpose other than the purposes specified in this section and may not be used for any other purpose.
 - **(g)** All sums contributed to the Thrift Savings Fund by an employee or Member or by an employing agency for the benefit of such employee or Member and all net earnings in such Fund attributable to investment of such sums are held in such Fund in trust for such employee or Member.
+
+“Any potential revenue gain attributable to the enactment of this Act [amending this section], as determined by the Director of the Congressional Budget Office—
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 550](https://www.govinfo.gov/link/statute/100/550); amended [Pub. L. 100–238, title I](https://www.govinfo.gov/link/plaw/100/public/238), §§ 116, 117(a), Jan. 8, 1988, [101 Stat. 1751](https://www.govinfo.gov/link/statute/101/1751); [Pub. L. 103–226, § 9(i)(16)](https://www.govinfo.gov/link/plaw/103/public/226), Mar. 30, 1994, [108 Stat. 122](https://www.govinfo.gov/link/statute/108/122); [Pub. L. 103–358, § 2(b)(4)](https://www.govinfo.gov/link/plaw/103/public/358), Oct. 14, 1994, [108 Stat. 3421](https://www.govinfo.gov/link/statute/108/3421); [Pub. L. 111–31, div. B, title I, § 108](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1856](https://www.govinfo.gov/link/statute/123/1856); [Pub. L. 112–267, § 1](https://www.govinfo.gov/link/plaw/112/public/267), Jan. 14, 2013, [126 Stat. 2440](https://www.govinfo.gov/link/statute/126/2440); [Pub. L. 115–397, title I, § 111(b)](https://www.govinfo.gov/link/plaw/115/public/397), Dec. 21, 2018, [132 Stat. 5311](https://www.govinfo.gov/link/statute/132/5311).)*

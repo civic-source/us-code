@@ -3,9 +3,10 @@ title: "Section 3334c - Assessment of homeland security vulnerabilities associat
 usc_title: 50
 usc_section: "3334c"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3334c"
-generated_at: "2026-03-30T02:56:26.244Z"
+generated_at: "2026-11-23T21:26:39.034Z"
+status: "active"
 ---
 
 # § 3334c. Assessment of homeland security vulnerabilities associated with certain retired and former personnel of the intelligence community
@@ -18,3 +19,21 @@ generated_at: "2026-03-30T02:56:26.244Z"
     - **(B)** the Committee on Homeland Security and Governmental Affairs of the Senate; and
     - **(C)** the Committee on Homeland Security of the House of Representatives.
   - **(2)** The term “covered intelligence assistance” has the meaning given that term in section 5703. 1
+
+Study
+
+Elements
+
+Report and Plan
+
+Form
+
+Definitions
+
+Covered intelligence assistance
+
+Former intelligence personnel
+
+## Source Credit
+
+*([Pub. L. 116–92, div. E, title LVII, § 5717](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2174](https://www.govinfo.gov/link/statute/133/2174).)*

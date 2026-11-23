@@ -3,9 +3,10 @@ title: "Section 5332 - Nondiscrimination"
 usc_title: 49
 usc_section: "5332"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 5332"
-generated_at: "2026-03-30T02:56:19.316Z"
+generated_at: "2026-11-23T21:26:40.655Z"
+status: "active"
 ---
 
 # § 5332. Nondiscrimination
@@ -24,3 +25,55 @@ generated_at: "2026-03-30T02:56:19.316Z"
   - **(1)** a matter is referred to the Attorney General under subsection (d)(2) of this section; or
   - **(2)** the Attorney General believes a person is engaged in a pattern or practice in violation of this section.
 - **(f)** This section applies to an employment or business opportunity and is in addition to title VI of the Civil Rights Act of 1964 ( 42 U.S.C. 2000d et seq.).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5332(a) | 49 App.:1615(a)(5). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 19; added Nov. 6, 1978 , Pub. L. 95–599, § 314 , 92 Stat. 2750 . |
+| 5332(b) | 49 App.:1615(a)(1) (1st sentence). |  |
+| 5332(c) | 49 App.:1615(a)(2), (3)(A). |  |
+| 5332(d) | 49 App.:1615(a)(3)(B). |  |
+| 5332(e) | 49 App.:1615(a)(4). |  |
+| 5332(f) | 49 App.:1615(a)(1) (last sentence). |  |
+
+
+Definition
+
+Prohibitions
+
+Compliance
+
+Authority of Secretary for Noncompliance
+
+Civil Actions by Attorney General
+
+Application and Relationship to Other Laws
+
+Historical and Revision Notes
+
+5332(a)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 314
+
+92 Stat. 2750
+
+5332(b)
+
+5332(c)
+
+5332(d)
+
+5332(e)
+
+5332(f)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 834](https://www.govinfo.gov/link/statute/108/834); [Pub. L. 112–141, div. B](https://www.govinfo.gov/link/plaw/112/public/141), §§ 20023(a), 20030(g), July 6, 2012, [126 Stat. 717](https://www.govinfo.gov/link/statute/126/717), 731.)*

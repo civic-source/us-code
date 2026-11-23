@@ -3,9 +3,10 @@ title: "Section 1162 - Continuation coverage"
 usc_title: 29
 usc_section: "1162"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1162"
-generated_at: "2026-03-30T02:55:18.721Z"
+generated_at: "2026-11-23T21:26:02.267Z"
+status: "active"
 ---
 
 # § 1162. Continuation coverage
@@ -34,3 +35,11 @@ For purposes of section 1161 of this title , the term “continuation coverage�
     - **(B)** may, at the election of the payor, be made in monthly installments.
   - **(4)** The coverage may not be conditioned upon, or discriminate on the basis of lack of, evidence of insurability.
   - **(5)** In the case of a qualified beneficiary whose period of continuation coverage expires under paragraph (2)(A), the plan must, during the 180-day period ending on such expiration date, provide to the qualified beneficiary the option of enrollment under a conversion health plan otherwise generally available under the plan.
+
+Qualifying event involving medicare entitlement
+
+Maximum period
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 602](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 99–272, title X, § 10002(a)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 228](https://www.govinfo.gov/link/statute/100/228); amended [Pub. L. 99–509, title IX, § 9501(b)(1)(B)](https://www.govinfo.gov/link/plaw/99/public/509), (2)(B), Oct. 21, 1986, [100 Stat. 2076](https://www.govinfo.gov/link/statute/100/2076), 2077; [Pub. L. 99–514, title XVIII, § 1895(d)(1)(B)](https://www.govinfo.gov/link/plaw/99/public/514), (2)(B), (3)(B), (4)(B), Oct. 22, 1986, [100 Stat. 2936–2938](https://www.govinfo.gov/link/statute/100/2936); [Pub. L. 101–239, title VI, § 6703(a)](https://www.govinfo.gov/link/plaw/101/public/239), (b), title VII, §§ 7862(c)(3)(B), (4)(A), (5)(B), 7871(c), Dec. 19, 1989, [103 Stat. 2296](https://www.govinfo.gov/link/statute/103/2296), 2432, 2433, 2435; [Pub. L. 104–188, title I, § 1704(g)(1)(B)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1880](https://www.govinfo.gov/link/statute/110/1880); [Pub. L. 104–191, title IV, § 421(b)(1)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 2088](https://www.govinfo.gov/link/statute/110/2088); [Pub. L. 111–5, div. B, title I, § 1899F(a)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 428](https://www.govinfo.gov/link/statute/123/428); [Pub. L. 111–344, title I, § 116(a)](https://www.govinfo.gov/link/plaw/111/public/344), Dec. 29, 2010, [124 Stat. 3615](https://www.govinfo.gov/link/statute/124/3615); [Pub. L. 112–40, title II, § 243(a)(1)](https://www.govinfo.gov/link/plaw/112/public/40), (2), Oct. 21, 2011, [125 Stat. 420](https://www.govinfo.gov/link/statute/125/420).)*

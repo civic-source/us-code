@@ -3,9 +3,10 @@ title: "Section 20121 - Legal assistance for victims"
 usc_title: 34
 usc_section: "20121"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20121"
-generated_at: "2026-03-30T02:55:33.293Z"
+generated_at: "2026-11-23T21:26:09.770Z"
+status: "active"
 ---
 
 # § 20121. Legal assistance for victims
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:55:33.293Z"
       - **(ii)** The requirements of this section shall not apply to funds allocated for the program described in clause (i).
     - **(C)** Of the amount made available under this subsection in each fiscal year, not less than 25 percent shall be used for direct services, training, and technical assistance to support projects focused solely or primarily on providing legal assistance to victims of sexual assault.
   - **(3)** Amounts made available under this section shall be used to supplement and not supplant other Federal, State, and local funds expended to further the purpose of this section.
+
+## Source Credit
+
+*([Pub. L. 106–386, div. B, title II, § 1201](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1504](https://www.govinfo.gov/link/statute/114/1504); [Pub. L. 108–405, title II, § 205](https://www.govinfo.gov/link/plaw/108/public/405), Oct. 30, 2004, [118 Stat. 2271](https://www.govinfo.gov/link/statute/118/2271); [Pub. L. 109–162, title I, § 103](https://www.govinfo.gov/link/plaw/109/public/162), title IX, § 906(f), formerly § 906(g), Jan. 5, 2006, [119 Stat. 2978](https://www.govinfo.gov/link/statute/119/2978), 3082, renumbered § 906(f), [Pub. L. 109–271, § 7(b)(2)(B)](https://www.govinfo.gov/link/plaw/109/public/271), Aug. 12, 2006, [120 Stat. 764](https://www.govinfo.gov/link/statute/120/764); [Pub. L. 109–271, § 7(d)(1)](https://www.govinfo.gov/link/plaw/109/public/271), Aug. 12, 2006, [120 Stat. 765](https://www.govinfo.gov/link/statute/120/765); [Pub. L. 113–4, title I, § 103](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 73](https://www.govinfo.gov/link/statute/127/73); [Pub. L. 117–103, div. W, title I, § 103](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 850](https://www.govinfo.gov/link/statute/136/850).)*

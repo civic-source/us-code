@@ -3,9 +3,10 @@ title: "Section 383 - Response of contestee"
 usc_title: 2
 usc_section: "383"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 383"
-generated_at: "2026-03-30T02:53:04.796Z"
+generated_at: "2026-11-23T21:25:21.160Z"
+status: "active"
 ---
 
 # § 383. Response of contestee
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:04.796Z"
   - **(4)** Failure of contestant to claim right to contestee’s seat.
 - **(c)** If a notice of contest to which an answer is required is so vague or ambiguous that the contestee cannot reasonably be required to frame a responsive answer, he may move for a more definite statement before interposing his answer. The motion shall point out the defects complained of and the details desired. If the motion is granted and the order of the committee is not obeyed within ten days after notice of the order or within such other time as the committee may fix, the committee may dismiss the action, or make such order as it deems just.
 - **(d)** Service of a motion permitted under this section alters the time for serving the answer as follows, unless a different time is fixed by order of the committee: If the committee denies the motion or postpones its disposition until the hearing on the merits, the answer shall be served within ten days after notice of such action. If the committee grants a motion for a more definite statement the answer shall be served within ten days after service of the more definite statement.
+
+## Source Credit
+
+*([Pub. L. 91–138, § 4](https://www.govinfo.gov/link/plaw/91/public/138), Dec. 5, 1969, [83 Stat. 285](https://www.govinfo.gov/link/statute/83/285).)*

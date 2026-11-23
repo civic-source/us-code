@@ -3,9 +3,10 @@ title: "Section 1677e - Determinations on basis of facts available"
 usc_title: 19
 usc_section: "1677e"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1677e"
-generated_at: "2026-03-30T02:54:24.657Z"
+generated_at: "2026-11-23T21:25:42.755Z"
+status: "active"
 ---
 
 # § 1677e. Determinations on basis of facts available
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:24.657Z"
   - **(3)** If the administering authority uses an adverse inference under subsection (b)(1)(A) in selecting among the facts otherwise available, the administering authority is not required, for purposes of subsection (c) or for any other purpose—
     - **(A)** to estimate what the countervailable subsidy rate or dumping margin would have been if the interested party found to have failed to cooperate under subsection (b)(1) had cooperated; or
     - **(B)** to demonstrate that the countervailable subsidy rate or dumping margin used by the administering authority reflects an alleged commercial reality of the interested party.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VII, § 776, as added [Pub. L. 96–39, title I, § 101](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 186](https://www.govinfo.gov/link/statute/93/186); amended [Pub. L. 98–573, title VI, § 618](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 3037](https://www.govinfo.gov/link/statute/98/3037); [Pub. L. 100–418, title I](https://www.govinfo.gov/link/plaw/100/public/418), §§ 1326(d)(1), 1331, Aug. 23, 1988, [102 Stat. 1204](https://www.govinfo.gov/link/statute/102/1204), 1207; [Pub. L. 103–465, title II, § 231(c)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4896](https://www.govinfo.gov/link/statute/108/4896); [Pub. L. 114–27, title V, § 502](https://www.govinfo.gov/link/plaw/114/public/27), June 29, 2015, [129 Stat. 383](https://www.govinfo.gov/link/statute/129/383).)*

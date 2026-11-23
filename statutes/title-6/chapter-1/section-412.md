@@ -3,9 +3,10 @@ title: "Section 412 - Labor-management relations"
 usc_title: 6
 usc_section: "412"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 412"
-generated_at: "2026-03-30T02:53:09.463Z"
+generated_at: "2026-11-23T21:25:25.789Z"
+status: "active"
 ---
 
 # § 412. Labor-management relations
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:09.463Z"
 - **(c)** If the President determines that the application of subsections (a), (b), and (d) would have a substantial adverse impact on the ability of the Department to protect homeland security, the President may waive the application of such subsections 10 days after the President has submitted to Congress a written explanation of the reasons for such determination.
 - **(d)** No other provision of this chapter or of any amendment made by this chapter may be construed or applied in a manner so as to limit, supersede, or otherwise affect the provisions of this section, except to the extent that it does so by specific reference to this section.
 - **(e)** Nothing in section 9701(e) of title 5 shall be considered to apply with respect to any agency or subdivision of any agency, which is excluded from the coverage of chapter 71 of title 5 by virtue of an order issued in accordance with section 7103(b) of such title 5 and the preceding provisions of this section (as applicable), or to any employees of any such agency or subdivision or to any individual or entity representing any such employees or any representatives thereof.
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 842](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2234](https://www.govinfo.gov/link/statute/116/2234).)*

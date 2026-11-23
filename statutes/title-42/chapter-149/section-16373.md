@@ -3,9 +3,10 @@ title: "Section 16373 - Secured loans"
 usc_title: 42
 usc_section: "16373"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16373"
-generated_at: "2026-03-30T02:56:11.484Z"
+generated_at: "2026-11-23T21:26:33.737Z"
+status: "active"
 ---
 
 # § 16373. Secured loans
@@ -75,3 +76,11 @@ generated_at: "2026-03-30T02:56:11.484Z"
 - **(e)**
   - **(1)** The Secretary may provide a loan guarantee to a lender in lieu of making a secured loan under this section if the Secretary determines that the budgetary cost of the loan guarantee is substantially the same as, or less than, that of a secured loan.
   - **(2)** The terms of a loan guarantee under paragraph (1) shall be consistent with the terms required under this section for a secured loan, except that the rate on the guaranteed loan and any prepayment features shall be negotiated between the obligor and the lender, with the consent of the Secretary.
+
+(aa) the date on which an application acceptable to the Secretary is submitted for the applicable project; or
+
+(bb) the date on which the Secretary entered into a master credit agreement for the applicable project; and
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 999C](https://www.govinfo.gov/link/plaw/109/public/58), as added [Pub. L. 117–58, div. D, title III, § 40304(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 995](https://www.govinfo.gov/link/statute/135/995).)*

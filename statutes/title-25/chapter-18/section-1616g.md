@@ -3,9 +3,10 @@ title: "Section 1616g - INMED program"
 usc_title: 25
 usc_section: "1616g"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1616g"
-generated_at: "2026-03-30T02:54:52.819Z"
+generated_at: "2026-11-23T21:25:54.615Z"
+status: "active"
 ---
 
 # § 1616g. INMED program
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:52.819Z"
     - **(D)** provides tutoring, counseling and support to students who are enrolled in a health career program of study at the respective college or university, and
     - **(E)** to the maximum extent feasible, employs qualified Indians in the program.
 - **(d)** By no later than the date that is 3 years after November 23, 1988 , the Secretary shall submit a report to the Congress on the program established under this section including recommendations for expansion or changes to the program.
+
+## Source Credit
+
+*([Pub. L. 94–437, title I, § 114](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 100–713, title I, § 109](https://www.govinfo.gov/link/plaw/100/public/713), Nov. 23, 1988, [102 Stat. 4796](https://www.govinfo.gov/link/statute/102/4796); amended [Pub. L. 102–573, title I](https://www.govinfo.gov/link/plaw/102/public/573), §§ 109, 117(b)(6), Oct. 29, 1992, [106 Stat. 4538](https://www.govinfo.gov/link/statute/106/4538), 4544.)*

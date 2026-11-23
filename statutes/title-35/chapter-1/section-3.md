@@ -3,9 +3,10 @@ title: "Section 3 - Officers and employees"
 usc_title: 35
 usc_section: "3"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "35 U.S.C. § 3"
-generated_at: "2026-03-30T02:55:34.233Z"
+generated_at: "2026-11-23T21:26:08.595Z"
+status: "active"
 ---
 
 # § 3. Officers and employees
@@ -42,3 +43,57 @@ generated_at: "2026-03-30T02:55:34.233Z"
   - **(2)**
     - **(A)** The individual serving as the Assistant Commissioner for Patents on the day before the effective date of the Patent and Trademark Office Efficiency Act may serve as the Commissioner for Patents until the date on which a Commissioner for Patents is appointed under subsection (b).
     - **(B)** The individual serving as the Assistant Commissioner for Trademarks on the day before the effective date of the Patent and Trademark Office Efficiency Act may serve as the Commissioner for Trademarks until the date on which a Commissioner for Trademarks is appointed under subsection (b).
+
+Under Secretary and Director.—
+
+In general
+
+Duties.—
+
+In general
+
+Consulting with the public advisory committees
+
+Oath
+
+Removal
+
+Officers and Employees of the Office.—
+
+Deputy under secretary and deputy director
+
+Commissioners.—
+
+Appointment and duties
+
+Salary and performance agreement
+
+Removal
+
+Other officers and employees
+
+Training of examiners
+
+National security positions
+
+Administrative patent judges and administrative trademark judges
+
+Continued Applicability of Title
+
+Adoption of Existing Labor Agreements
+
+Carryover of Personnel.—
+
+From pto
+
+Other personnel
+
+Transition Provisions.—
+
+Interim appointment of director
+
+Continuation in office of certain officers
+
+## Source Credit
+
+*(July 19, 1952, ch. 950, [66 Stat. 792](https://www.govinfo.gov/link/statute/66/792); [Pub. L. 85–933, § 1](https://www.govinfo.gov/link/plaw/85/public/933), Sept. 6, 1958, [72 Stat. 1793](https://www.govinfo.gov/link/statute/72/1793); [Pub. L. 86–370, § 1(a)](https://www.govinfo.gov/link/plaw/86/public/370), Sept. 23, 1959, [73 Stat. 650](https://www.govinfo.gov/link/statute/73/650); [Pub. L. 88–426, title III, § 305(26)](https://www.govinfo.gov/link/plaw/88/public/426), Aug. 14, 1964, [78 Stat. 425](https://www.govinfo.gov/link/statute/78/425); [Pub. L. 93–596, § 1](https://www.govinfo.gov/link/plaw/93/public/596), Jan. 2, 1975, [88 Stat. 1949](https://www.govinfo.gov/link/statute/88/1949); [Pub. L. 93–601, § 1](https://www.govinfo.gov/link/plaw/93/public/601), Jan. 2, 1975, [88 Stat. 1956](https://www.govinfo.gov/link/statute/88/1956); [Pub. L. 97–247, § 4](https://www.govinfo.gov/link/plaw/97/public/247), Aug. 27, 1982, [96 Stat. 319](https://www.govinfo.gov/link/statute/96/319); [Pub. L. 97–366, § 4](https://www.govinfo.gov/link/plaw/97/public/366), Oct. 25, 1982, [96 Stat. 1760](https://www.govinfo.gov/link/statute/96/1760); [Pub. L. 98–622, title IV, § 405](https://www.govinfo.gov/link/plaw/98/public/622), Nov. 8, 1984, [98 Stat. 3392](https://www.govinfo.gov/link/statute/98/3392); [Pub. L. 105–304, title IV, § 401(a)(1)](https://www.govinfo.gov/link/plaw/105/public/304), Oct. 28, 1998, [112 Stat. 2887](https://www.govinfo.gov/link/statute/112/2887); [Pub. L. 106–44, § 2(c)](https://www.govinfo.gov/link/plaw/106/public/44), Aug. 5, 1999, [113 Stat. 223](https://www.govinfo.gov/link/statute/113/223); [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4713]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–575; [Pub. L. 107–273, div. C, title III, § 13206(a)(2)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1904](https://www.govinfo.gov/link/statute/116/1904); [Pub. L. 112–29](https://www.govinfo.gov/link/plaw/112/public/29), §§ 20(i)(1), 21(b), Sept. 16, 2011, [125 Stat. 334](https://www.govinfo.gov/link/statute/125/334), 336.)*

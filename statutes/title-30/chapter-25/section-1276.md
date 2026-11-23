@@ -3,9 +3,10 @@ title: "Section 1276 - Judicial review"
 usc_title: 30
 usc_section: "1276"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1276"
-generated_at: "2026-03-30T02:55:29.402Z"
+generated_at: "2026-11-23T21:26:00.430Z"
+status: "active"
 ---
 
 # § 1276. Judicial review
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:29.402Z"
   - **(3)** such relief will not adversely affect the public health or safety or cause significant imminent environmental harm to land, air, or water resources.
 - **(d)** The commencement of a proceeding under this section shall not, unless specifically ordered by the court, operate as a stay of the action, order, or decision of the Secretary.
 - **(e)** Action of the State regulatory authority pursuant to an approved State program shall be subject to judicial review by a court of competent jurisdiction in accordance with State law, but the availability of such review shall not be construed to limit the operation of the rights established in section 1270 of this title except as provided therein.
+
+## Source Credit
+
+*([Pub. L. 95–87, title V, § 526](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 512](https://www.govinfo.gov/link/statute/91/512).)*

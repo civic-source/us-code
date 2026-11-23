@@ -3,9 +3,10 @@ title: "Section 3733 - Cooperative agreement between Department of the Interior 
 usc_title: 25
 usc_section: "3733"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3733"
-generated_at: "2026-03-30T02:54:52.856Z"
+generated_at: "2026-11-23T21:25:54.698Z"
+status: "active"
 ---
 
 # § 3733. Cooperative agreement between Department of the Interior and Indian tribes
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:52.856Z"
   - **(2)** In cooperative agreements entered into under paragraph (1), the Secretary may advance or reimburse funds to contractors from any appropriated funds available for similar kinds of work or by furnishing or sharing materials, supplies, facilities, or equipment without regard to the provisions of section 3324 of title 31 relating to the advance of public moneys.
 - **(b)** In any agreement authorized by this section, Indian tribes and their employees may perform cooperative work under the supervision of the Department of the Interior in emergencies or otherwise as mutually agreed to, but shall not be deemed to be Federal employees other than for the purposes of sections 2671 through 2680 of title 28 and sections 8101 through 8193 of title 5.
 - **(c)** Nothing in this chapter shall be construed to limit the authority of the Secretary to enter into cooperative agreements otherwise authorized by law.
+
+## Source Credit
+
+*([Pub. L. 103–177, title II, § 203](https://www.govinfo.gov/link/plaw/103/public/177), Dec. 3, 1993, [107 Stat. 2021](https://www.govinfo.gov/link/statute/107/2021).)*

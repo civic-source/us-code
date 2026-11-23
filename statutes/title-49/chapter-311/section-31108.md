@@ -3,9 +3,10 @@ title: "Section 31108 - Motor carrier research and technology program"
 usc_title: 49
 usc_section: "31108"
 chapter: 311
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 31108"
-generated_at: "2026-03-30T02:56:19.357Z"
+generated_at: "2026-11-23T21:26:40.776Z"
+status: "active"
 ---
 
 # § 31108. Motor carrier research and technology program
@@ -35,3 +36,52 @@ generated_at: "2026-03-30T02:56:19.357Z"
     - **(A)** The Federal share of the cost of activities carried out under a cooperative research and development agreement entered into under this subsection shall not exceed 50 percent; except that, if there is substantial public interest or benefit associated with any such activity, the Secretary may approve a greater Federal share.
     - **(B)** All costs directly incurred by the non-Federal partners, including personnel, travel, and hardware or software development costs, shall be credited toward the non-Federal share of the cost of the activities described in subparagraph (A).
   - **(4)** The research, development, or use of a technology under a cooperative research and development agreement entered into under this subsection, including the terms under which the technology may be licensed and the resulting royalties may be distributed, shall be subject to the Stevenson-Wydler Technology Innovation Act of 1980 ( 15 U.S.C. 3701 et seq.).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 31108 | (uncodified). | Dec. 18, 1991 , Pub. L. 102–240, § 4002(j) , 105 Stat. 2144 . |
+
+
+Research, Technology, and Technology Transfer Activities.—
+
+Establishment
+
+Multiyear plan
+
+Research, development, and technology transfer activities
+
+Tests and development
+
+Training
+
+Procedures
+
+Development and promotion of use of products
+
+Collaborative Research and Development.—
+
+In general
+
+Cooperative agreements
+
+Cost sharing.—
+
+Federal share
+
+Treatment of directly incurred non-federal costs
+
+Use of technology
+
+Historical and Revision Notes
+
+31108
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 4002(j)
+
+105 Stat. 2144
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 993](https://www.govinfo.gov/link/statute/108/993); [Pub. L. 109–59, title IV, § 4111(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1722](https://www.govinfo.gov/link/statute/119/1722).)*

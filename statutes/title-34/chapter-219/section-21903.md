@@ -3,9 +3,10 @@ title: "Section 21903 - Ashanti Alert Coordinator"
 usc_title: 34
 usc_section: "21903"
 chapter: 219
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 21903"
-generated_at: "2026-03-30T02:55:33.305Z"
+generated_at: "2026-11-23T21:26:09.815Z"
+status: "active"
 ---
 
 # § 21903. Ashanti Alert Coordinator
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:55:33.305Z"
     - **(D)** actions States and Indian Tribes have taken to protect the privacy and dignity of the missing adults for whom Ashanti Alerts are issued;
     - **(E)** ways that States and Indian Tribes have facilitated and improved communication about missing adults between families, caregivers, law enforcement officials, and other authorities; and
     - **(F)** any other information the Coordinator determines to be appropriate.
+
+## Source Credit
+
+*([Pub. L. 106–468, title II, § 203](https://www.govinfo.gov/link/plaw/106/public/468), as added [Pub. L. 115–401, § 2(5)](https://www.govinfo.gov/link/plaw/115/public/401), Dec. 31, 2018, [132 Stat. 5337](https://www.govinfo.gov/link/statute/132/5337).)*

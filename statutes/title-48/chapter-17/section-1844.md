@@ -3,9 +3,10 @@ title: "Section 1844 - Political union between Territory of Guam and Commonwealt
 usc_title: 48
 usc_section: "1844"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1844"
-generated_at: "2026-03-30T02:56:14.594Z"
+generated_at: "2026-11-23T21:26:38.032Z"
+status: "active"
 ---
 
 # § 1844. Political union between Territory of Guam and Commonwealth of Northern Mariana Islands
@@ -15,3 +16,7 @@ In the event that a political union is effected at a future time between the Ter
       - **(i)** there will be no diminution of any rights or entitlements otherwise eligible to said territory and Commonwealth in effect on the effective date of such union,
       - **(ii)** there will be no adverse effect on any funds which have been or may hereafter be authorized or appropriated for said territory or Commonwealth, as of the effective date of such union, or
       - **(iii)** no action is taken that would in any manner discourage such unification.
+
+## Source Credit
+
+*([Pub. L. 96–597, title VI, § 602](https://www.govinfo.gov/link/plaw/96/public/597), Dec. 24, 1981, [94 Stat. 3480](https://www.govinfo.gov/link/statute/94/3480).)*

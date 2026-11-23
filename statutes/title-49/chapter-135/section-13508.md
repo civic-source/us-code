@@ -3,9 +3,10 @@ title: "Section 13508 - Limited authority over cooperative associations"
 usc_title: 49
 usc_section: "13508"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 13508"
-generated_at: "2026-03-30T02:56:19.327Z"
+generated_at: "2026-11-23T21:26:40.683Z"
+status: "active"
 ---
 
 # § 13508. Limited authority over cooperative associations
@@ -33,3 +34,23 @@ generated_at: "2026-03-30T02:56:19.327Z"
   - **(5)** knowingly and willfully files a false report or record under this section;
   - **(6)** knowingly and willfully makes a false or incomplete entry in that record about a business-related fact or transaction; or
   - **(7)** knowingly and willfully maintains a record in violation of a regulation or order issued under this section;
+
+In General
+
+Reports
+
+Enforcement
+
+Reporting Penalties.—
+
+In general
+
+Venue
+
+Evasion Penalties
+
+Recordkeeping Penalties
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 863](https://www.govinfo.gov/link/statute/109/863).)*

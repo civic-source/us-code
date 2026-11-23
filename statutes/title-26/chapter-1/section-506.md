@@ -3,9 +3,10 @@ title: "Section 506 - Organizations required to notify Secretary of intent to op
 usc_title: 26
 usc_section: "506"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 506"
-generated_at: "2026-03-30T02:55:27.712Z"
+generated_at: "2026-11-23T21:26:06.313Z"
+status: "active"
 ---
 
 # § 506. Organizations required to notify Secretary of intent to operate under 501(c)(4)
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:55:27.712Z"
 - **(d)** The Secretary may, for reasonable cause, extend the 60-day period described in subsection (a).
 - **(e)** The Secretary shall impose a reasonable user fee for submission of the notice under subsection (a).
 - **(f)** Upon request by an organization to be treated as an organization described in section 501(c)(4), the Secretary may issue a determination with respect to such treatment. Such request shall be treated for purposes of section 6104 as an application for exemption from taxation under section 501(a).
+
+In general
+
+Certain existing organizations
+
+## Source Credit
+
+*(Added [Pub. L. 114–113, div. Q, title IV, § 405(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3118](https://www.govinfo.gov/link/statute/129/3118).)*

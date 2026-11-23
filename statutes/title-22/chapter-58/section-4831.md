@@ -3,9 +3,10 @@ title: "Section 4831 - Security Review Committees"
 usc_title: 22
 usc_section: "4831"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4831"
-generated_at: "2026-03-30T02:55:05.414Z"
+generated_at: "2026-11-23T21:25:58.651Z"
+status: "active"
 ---
 
 # § 4831. Security Review Committees
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:55:05.414Z"
   - **(4)** the Committee on Foreign Affairs of the House of Representatives;
   - **(5)** the Permanent Select Committee on Intelligence of the House of Representatives; and
   - **(6)** the Committee on Appropriations of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 99–399, title III, § 301](https://www.govinfo.gov/link/plaw/99/public/399), Aug. 27, 1986, [100 Stat. 859](https://www.govinfo.gov/link/statute/100/859); [Pub. L. 100–204, title I, § 156(a)](https://www.govinfo.gov/link/plaw/100/public/204), Dec. 22, 1987, [101 Stat. 1354](https://www.govinfo.gov/link/statute/101/1354); [Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 608]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–458; [Pub. L. 109–140, § 3](https://www.govinfo.gov/link/plaw/109/public/140), Dec. 22, 2005, [119 Stat. 2650](https://www.govinfo.gov/link/statute/119/2650); [Pub. L. 117–81, div. E, title LIII, § 5316](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2366](https://www.govinfo.gov/link/statute/135/2366); [Pub. L. 117–263, div. I, title XCIII, § 9302(d)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3884](https://www.govinfo.gov/link/statute/136/3884).)*

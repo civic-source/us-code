@@ -3,9 +3,10 @@ title: "Section 286c - Purpose, establishment, functions, and funding of Nationa
 usc_title: 42
 usc_section: "286c"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 286c"
-generated_at: "2026-03-30T02:56:10.752Z"
+generated_at: "2026-11-23T21:26:30.521Z"
+status: "active"
 ---
 
 # § 286c. Purpose, establishment, functions, and funding of National Center for Biotechnology Information
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:10.752Z"
   - **(2)** perform research into advanced methods of computer-based information processing capable of representing and analyzing the vast number of biologically important molecules and compounds;
   - **(3)** enable persons engaged in biotechnology research and medical care to use systems developed under paragraph (1) and methods described in paragraph (2); and
   - **(4)** coordinate, as much as is practicable, efforts to gather biotechnology information on an international basis.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 478, as added [Pub. L. 100–607, title I, § 105](https://www.govinfo.gov/link/plaw/100/public/607), Nov. 4, 1988, [102 Stat. 3052](https://www.govinfo.gov/link/statute/102/3052); amended [Pub. L. 103–43, title XIV, § 1402(b)](https://www.govinfo.gov/link/plaw/103/public/43), June 10, 1993, [107 Stat. 171](https://www.govinfo.gov/link/statute/107/171).)*

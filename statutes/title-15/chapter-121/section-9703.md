@@ -3,9 +3,10 @@ title: "Section 9703 - Observations and modeling for total water prediction"
 usc_title: 15
 usc_section: "9703"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9703"
-generated_at: "2026-03-30T02:54:08.250Z"
+generated_at: "2026-11-23T21:25:40.153Z"
+status: "active"
 ---
 
 # § 9703. Observations and modeling for total water prediction
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.250Z"
   - **(2)** In establishing partnerships under paragraph (1), the Administrator shall prioritize partnerships to evaluate observations from uncrewed aerial systems.
 - **(b)** If the Administrator determines that incorporating additional observations improves total water prediction, the Administrator shall, to the extent practicable, continue incorporating those observations.
 - **(c)** The Administrator shall advance geographic coverage, resolution, skill, and efficiency of coastal oceanographic modeling, including efforts that improve the coupling of and interoperability between hydrological models and coastal ocean models.
+
+## Source Credit
+
+*([Pub. L. 117–316, § 4](https://www.govinfo.gov/link/plaw/117/public/316), Dec. 27, 2022, [136 Stat. 4408](https://www.govinfo.gov/link/statute/136/4408).)*

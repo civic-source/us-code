@@ -3,9 +3,10 @@ title: "Section 1531 - Partial-birth abortions prohibited"
 usc_title: 18
 usc_section: "1531"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1531"
-generated_at: "2026-03-30T02:54:16.488Z"
+generated_at: "2026-11-23T21:25:44.075Z"
+status: "active"
 ---
 
 # § 1531. Partial-birth abortions prohibited
@@ -25,3 +26,9 @@ generated_at: "2026-03-30T02:54:16.488Z"
   - **(1)** A defendant accused of an offense under this section may seek a hearing before the State Medical Board on whether the physician’s conduct was necessary to save the life of the mother whose life was endangered by a physical disorder, physical illness, or physical injury, including a life-endangering physical condition caused by or arising from the pregnancy itself.
   - **(2)** The findings on that issue are admissible on that issue at the trial of the defendant. Upon a motion of the defendant, the court shall delay the beginning of the trial for not more than 30 days to permit such a hearing to take place.
 - **(e)** A woman upon whom a partial-birth abortion is performed may not be prosecuted under this section, for a conspiracy to violate this section, or for an offense under section 2, 3, or 4 of this title based on a violation of this section.
+
+“The Congress finds and declares the following:
+
+## Source Credit
+
+*(Added [Pub. L. 108–105, § 3(a)](https://www.govinfo.gov/link/plaw/108/public/105), Nov. 5, 2003, [117 Stat. 1206](https://www.govinfo.gov/link/statute/117/1206).)*

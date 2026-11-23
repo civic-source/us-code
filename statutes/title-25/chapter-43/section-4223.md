@@ -3,9 +3,10 @@ title: "Section 4223 - Housing plan"
 usc_title: 25
 usc_section: "4223"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4223"
-generated_at: "2026-03-30T02:54:52.861Z"
+generated_at: "2026-11-23T21:25:54.712Z"
+status: "active"
 ---
 
 # § 4223. Housing plan
@@ -79,3 +80,31 @@ generated_at: "2026-03-30T02:54:52.861Z"
     - **(B)** to an eligible family on the basis that the family is a Native Hawaiian family.
   - **(2)** Program eligibility under this subchapter may be restricted to Native Hawaiians. Subject to the preceding sentence, no person may be discriminated against on the basis of race, color, national origin, religion, sex, familial status, or disability.
 - **(e)** As a condition of receiving grant amounts under this subchapter, the Department of Hawaiian Home Lands shall, to the extent practicable, provide for private nonprofit organizations experienced in the planning and development of affordable housing for Native Hawaiians to carry out affordable housing activities with those grant amounts.
+
+Mission statement
+
+Goals and objectives
+
+Activities plans
+
+Goals and objectives
+
+Statement of needs
+
+Financial resources
+
+Affordable housing resources
+
+(aa) transitional housing;
+
+(bb) homeless housing;
+
+(cc) college housing; and
+
+(dd) supportive services housing; and
+
+Certification of compliance
+
+## Source Credit
+
+*([Pub. L. 104–330, title VIII, § 803](https://www.govinfo.gov/link/plaw/104/public/330), as added [Pub. L. 106–568, title II, § 203](https://www.govinfo.gov/link/plaw/106/public/568), Dec. 27, 2000, [114 Stat. 2878](https://www.govinfo.gov/link/statute/114/2878), and [Pub. L. 106–569, title V, § 513](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 2971](https://www.govinfo.gov/link/statute/114/2971).)*

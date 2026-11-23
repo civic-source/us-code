@@ -3,9 +3,10 @@ title: "Section 19173 - Opportunities for online education"
 usc_title: 42
 usc_section: "19173"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19173"
-generated_at: "2026-03-30T02:56:11.541Z"
+generated_at: "2026-11-23T21:26:33.876Z"
+status: "active"
 ---
 
 # § 19173. Opportunities for online education
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.541Z"
     - **(A)** the results of the evaluation; and
     - **(B)** any recommendations for administrative and legislative action that could optimize the effectiveness of the awards made under this section.
 - **(e)** In carrying out this section, the Director shall, for purposes of enhancing program effectiveness and avoiding duplication of activities, consult, cooperate, and coordinate with the programs and policies of other relevant Federal agencies.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title V, § 10513](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1617](https://www.govinfo.gov/link/statute/136/1617).)*

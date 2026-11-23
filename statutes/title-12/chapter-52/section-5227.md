@@ -3,9 +3,10 @@ title: "Section 5227 - Study and report on margin authority"
 usc_title: 12
 usc_section: "5227"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5227"
-generated_at: "2026-03-30T02:53:53.526Z"
+generated_at: "2026-11-23T21:25:37.234Z"
+status: "active"
 ---
 
 # § 5227. Study and report on margin authority
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.526Z"
   - **(4)** recommendations for the Board and appropriate committees of Congress with respect to the existing authority of the Board.
 - **(c)** Not later than June 1, 2009 , the Comptroller General shall complete and submit a report on the study required by this section to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
 - **(d)** Any reports required under this section shall also be submitted to the Congressional Oversight Panel established under section 5233 of this title .
+
+## Source Credit
+
+*([Pub. L. 110–343, div. A, title I, § 117](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3786](https://www.govinfo.gov/link/statute/122/3786).)*

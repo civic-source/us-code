@@ -3,9 +3,10 @@ title: "Section 16041 - Nuclear facility and materials security"
 usc_title: 42
 usc_section: "16041"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16041"
-generated_at: "2026-03-30T02:56:11.467Z"
+generated_at: "2026-11-23T21:26:33.691Z"
+status: "active"
 ---
 
 # § 16041. Nuclear facility and materials security
@@ -52,3 +53,11 @@ generated_at: "2026-03-30T02:56:11.467Z"
         - **(II)** the agreement described in subclause (I) covers byproduct material (as described in paragraph (3) or (4) of section 2014(e) of this title ); and
         - **(III)** the program of the State for licensing such byproduct material is adequate to protect the public health and safety.
     - **(C)** The Commission shall publish in the Federal Register a notice of any waiver granted under this subsection.
+
+(aa) the State has a program for licensing byproduct material, as defined in paragraph (3) or (4) of section 2014(e) of this title , that is adequate to protect the public health and safety, as determined by the Commission; and
+
+(bb) the State intends to continue to implement the regulatory responsibility of the State with respect to the byproduct material.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VI, § 651](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 799](https://www.govinfo.gov/link/statute/119/799).)*

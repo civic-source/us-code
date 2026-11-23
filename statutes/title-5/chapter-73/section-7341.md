@@ -3,9 +3,10 @@ title: "Section 7341 - Repealed. Pub. L. 90–83, § 1(45)(B) , Sept. 11, 1967 ,
 usc_title: 5
 usc_section: "7341"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 7341"
-generated_at: "2026-03-30T02:52:56.037Z"
+generated_at: "2026-11-23T21:25:23.339Z"
+status: "repealed"
 ---
 
 # [§ 7341. Repealed. Pub. L. 90–83, § 1(45)(B) , Sept. 11, 1967 , 81 Stat. 208 ]

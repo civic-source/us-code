@@ -3,9 +3,10 @@ title: "Section 13218 - Reports"
 usc_title: 42
 usc_section: "13218"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13218"
-generated_at: "2026-03-30T02:56:11.439Z"
+generated_at: "2026-11-23T21:26:33.582Z"
+status: "active"
 ---
 
 # § 13218. Reports
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.439Z"
   - **(3)** Each report submitted under paragraph (1) shall be made public, including—
     - **(A)** placing such report on a publicly available website on the Internet; and
     - **(B)** publishing the availability of the report, including such website address, in the Federal Register.
+
+## Source Credit
+
+*([Pub. L. 102–486, title III, § 310](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2874](https://www.govinfo.gov/link/statute/106/2874); [Pub. L. 105–388, § 8(a)](https://www.govinfo.gov/link/plaw/105/public/388), Nov. 13, 1998, [112 Stat. 3481](https://www.govinfo.gov/link/statute/112/3481); [Pub. L. 109–58, title VII, § 705](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 817](https://www.govinfo.gov/link/statute/119/817).)*

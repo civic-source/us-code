@@ -3,9 +3,10 @@ title: "Section 0 - Additional prohibition on cruel, inhuman, or degrading treat
 usc_title: 42
 usc_section: "0"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 0"
-generated_at: "2026-03-30T02:56:11.141Z"
+generated_at: "2026-11-23T21:26:32.299Z"
+status: "active"
 ---
 
 # § 2000dd–0. Additional prohibition on cruel, inhuman, or degrading treatment or punishment
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:11.141Z"
   - **(1)** No individual in the custody or under the physical control of the United States Government, regardless of nationality or physical location, shall be subject to cruel, inhuman, or degrading treatment or punishment.
   - **(2)** In this section, the term “cruel, inhuman, or degrading treatment or punishment” means cruel, unusual, and inhumane treatment or punishment prohibited by the Fifth, Eighth, and Fourteenth Amendments to the Constitution of the United States, as defined in the United States Reservations, Declarations and Understandings to the United Nations Convention Against Torture and Other Forms of Cruel, Inhuman or Degrading Treatment or Punishment done at New York, December 10, 1984 .
   - **(3)** The President shall take action to ensure compliance with this section, including through the establishment of administrative rules and procedures.
+
+## Source Credit
+
+*([Pub. L. 109–366, § 6(c)](https://www.govinfo.gov/link/plaw/109/public/366), Oct. 17, 2006, [120 Stat. 2635](https://www.govinfo.gov/link/statute/120/2635).)*

@@ -3,9 +3,10 @@ title: "Section 374 - Inspection"
 usc_title: 21
 usc_section: "374"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 374"
-generated_at: "2026-03-30T02:54:54.263Z"
+generated_at: "2026-11-23T21:25:56.128Z"
+status: "active"
 ---
 
 # § 374. Inspection
@@ -162,3 +163,35 @@ generated_at: "2026-03-30T02:54:54.263Z"
       - **(i)** that is made by the owner, operator, or agent in charge of such establishment in a timely manner; and
       - **(ii)** with respect to actions proposed to be taken by a device establishment in a response to a report received by such establishment pursuant to subsection (b) that involve a public health priority, that implicate systemic or major actions, or relate to emerging safety issues (as determined by the Secretary).
   - **(3)** Nothing in this subsection affects the authority of the Secretary to conduct inspections otherwise permitted under this chapter in order to ensure compliance with this chapter.
+
+(aa) at least 1 of such devices is marketed in the United States; and
+
+(bb) at least 1 of such devices is marketed, or is intended to be marketed, in 1 or more foreign countries, 1 of which countries certifies, accredits, or otherwise recognizes the person accredited under paragraph (2) and identified under subclause (III) as a person authorized to conduct inspections of device establishments.
+
+In general
+
+Guidance.—
+
+In general
+
+Timing
+
+In General
+
+Pilot Program Scope
+
+Pilot Program Initiation
+
+Report
+
+In general
+
+Timing
+
+Draft guidance
+
+Final guidance
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 704, [52 Stat. 1057](https://www.govinfo.gov/link/statute/52/1057); Aug. 7, 1953, ch. 350, § 1, [67 Stat. 476](https://www.govinfo.gov/link/statute/67/476); [Pub. L. 87–781, title II, § 201(a)](https://www.govinfo.gov/link/plaw/87/public/781), (b), Oct. 10, 1962, [76 Stat. 792](https://www.govinfo.gov/link/statute/76/792), 793; [Pub. L. 94–295, § 6](https://www.govinfo.gov/link/plaw/94/public/295), May 28, 1976, [90 Stat. 581](https://www.govinfo.gov/link/statute/90/581); [Pub. L. 96–359, § 4](https://www.govinfo.gov/link/plaw/96/public/359), Sept. 26, 1980, [94 Stat. 1193](https://www.govinfo.gov/link/statute/94/1193); [Pub. L. 103–80, § 3(aa)](https://www.govinfo.gov/link/plaw/103/public/80), Aug. 13, 1993, [107 Stat. 778](https://www.govinfo.gov/link/statute/107/778); [Pub. L. 105–115, title I, § 125(b)(2)(L)](https://www.govinfo.gov/link/plaw/105/public/115), title II, § 210(b), title IV, § 412(b), Nov. 21, 1997, [111 Stat. 2326](https://www.govinfo.gov/link/statute/111/2326), 2344, 2375; [Pub. L. 107–188, title III, § 306(b)](https://www.govinfo.gov/link/plaw/107/public/188), June 12, 2002, [116 Stat. 670](https://www.govinfo.gov/link/statute/116/670); [Pub. L. 107–250, title II, § 201(a)](https://www.govinfo.gov/link/plaw/107/public/250), (b), Oct. 26, 2002, [116 Stat. 1602](https://www.govinfo.gov/link/statute/116/1602), 1609; [Pub. L. 108–214, § 2(b)(1)](https://www.govinfo.gov/link/plaw/108/public/214), Apr. 1, 2004, [118 Stat. 573](https://www.govinfo.gov/link/statute/118/573); [Pub. L. 110–85, title II, § 228](https://www.govinfo.gov/link/plaw/110/public/85), Sept. 27, 2007, [121 Stat. 855](https://www.govinfo.gov/link/statute/121/855); [Pub. L. 111–31, div. A, title I, § 103(i)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1837](https://www.govinfo.gov/link/statute/123/1837); [Pub. L. 111–353, title I, § 101(b)](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3887](https://www.govinfo.gov/link/statute/124/3887); [Pub. L. 112–144, title VI, § 612](https://www.govinfo.gov/link/plaw/112/public/144), title VII, § 706, July 9, 2012, [126 Stat. 1060](https://www.govinfo.gov/link/statute/126/1060), 1067; [Pub. L. 115–52, title VII](https://www.govinfo.gov/link/plaw/115/public/52), §§ 702(a), 703, 705, Aug. 18, 2017, [131 Stat. 1055–1057](https://www.govinfo.gov/link/statute/131/1055); [Pub. L. 116–136, div. A, title III, § 3112(d)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 362](https://www.govinfo.gov/link/statute/134/362); [Pub. L. 117–180, div. F, title V, § 5007](https://www.govinfo.gov/link/plaw/117/public/180), Sept. 30, 2022, [136 Stat. 2168](https://www.govinfo.gov/link/statute/136/2168); [Pub. L. 117–229, div. C, title III, § 306](https://www.govinfo.gov/link/plaw/117/public/229), Dec. 16, 2022, [136 Stat. 2312](https://www.govinfo.gov/link/statute/136/2312); [Pub. L. 117–328, div. FF, title II, § 2515(a)(2)](https://www.govinfo.gov/link/plaw/117/public/328), title III, §§ 3106, 3504, 3611(a), (b)(1), 3612(a), 3613(b), Dec. 29, 2022, [136 Stat. 5806](https://www.govinfo.gov/link/statute/136/5806), 5807, 5859, 5869, 5872.)*

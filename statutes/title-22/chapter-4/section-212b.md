@@ -3,9 +3,10 @@ title: "Section 212b - Unique passport identifiers for covered sex offenders"
 usc_title: 22
 usc_section: "212b"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 212b"
-generated_at: "2026-03-30T02:55:05.302Z"
+generated_at: "2026-11-23T21:25:58.316Z"
+status: "active"
 ---
 
 # § 212b. Unique passport identifiers for covered sex offenders
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:05.302Z"
 - **(d)** The Secretary of State, the Secretary of Homeland Security, and the Attorney General, and their agencies, officers, employees, and agents, shall not be liable to any person for any action taken under this section.
 - **(e)** In furtherance of this section, the Secretary of State may require a passport applicant to disclose that they are a registered sex offender.
 - **(f)** This section shall take effect upon certification by the Secretary of State, the Secretary of Homeland Security, and the Attorney General, that the process developed and reported to the appropriate congressional committees under section 21507 of title 34 has been successfully implemented.
+
+## Source Credit
+
+*([Pub. L. 110–457, title II, § 240](https://www.govinfo.gov/link/plaw/110/public/457), as added [Pub. L. 114–119, § 8](https://www.govinfo.gov/link/plaw/114/public/119), Feb. 8, 2016, [130 Stat. 24](https://www.govinfo.gov/link/statute/130/24); amended [Pub. L. 117–347, title III, § 323(b)](https://www.govinfo.gov/link/plaw/117/public/347), Jan. 5, 2023, [136 Stat. 6207](https://www.govinfo.gov/link/statute/136/6207).)*

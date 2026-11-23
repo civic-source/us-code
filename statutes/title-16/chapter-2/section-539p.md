@@ -3,9 +3,10 @@ title: "Section 539p - Southeast Arizona land exchange and conservation"
 usc_title: 16
 usc_section: "539p"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 539p"
-generated_at: "2026-03-30T02:54:22.866Z"
+generated_at: "2026-11-23T21:25:51.662Z"
+status: "active"
 ---
 
 # § 539p. Southeast Arizona land exchange and conservation
@@ -155,3 +156,7 @@ generated_at: "2026-03-30T02:54:22.866Z"
     - **(B)** If there is a conflict between a map, an acreage estimate, or a description of land in this section, the map shall control unless the Secretary concerned and Resolution Copper mutually agree otherwise.
     - **(C)** On December 19, 2014 , the Secretary shall file and make available for public inspection in the Office of the Supervisor, Tonto National Forest, each map referred to in this section.
   - **(3)** As a condition of conveyance of the Federal land, Resolution Copper shall agree to provide access to the surface of the Oak Flat Campground to members of the public, including Indian tribes, to the maximum extent practicable, consistent with health and safety requirements, until such time as the operation of the mine precludes continued public access for safety reasons, as determined by Resolution Copper.
+
+## Source Credit
+
+*([Pub. L. 113–291, div. B, title XXX, § 3003](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3732](https://www.govinfo.gov/link/statute/128/3732).)*

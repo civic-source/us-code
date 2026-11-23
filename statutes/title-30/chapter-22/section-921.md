@@ -3,9 +3,10 @@ title: "Section 921 - Regulations and presumptions"
 usc_title: 30
 usc_section: "921"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 921"
-generated_at: "2026-03-30T02:55:29.391Z"
+generated_at: "2026-11-23T21:26:00.404Z"
+status: "active"
 ---
 
 # § 921. Regulations and presumptions
@@ -19,3 +20,21 @@ generated_at: "2026-03-30T02:55:29.391Z"
   - **(4)** if 2 2 So in original. Probably should be capitalized. a miner was employed for fifteen years or more in one or more underground coal mines, and if there is a chest roentgenogram submitted in connection with such miner’s, his widow’s, his child’s, his parent’s, his brother’s, his sister’s, or his dependent’s claim under this subchapter and it is interpreted as negative with respect to the requirements of paragraph (3) of this subsection, and if other evidence demonstrates the existence of a totally disabling respiratory or pulmonary impairment, then there shall be a rebuttable presumption that such miner is totally disabled due to pneumoconiosis, that his death was due to pneumoconiosis, or that at the time of his death he was totally disabled by pneumoconiosis. In the case of a living miner, a wife’s affidavit may not be used by itself to establish the presumption. The Secretary shall not apply all or a portion of the requirement of this paragraph that the miner work in an underground mine where he determines that conditions of a miner’s employment in a coal mine other than an underground mine were substantially similar to conditions in an underground mine. The Secretary may rebut such presumption only by establishing that (A) such miner does not, or did not, have pneumoconiosis, or that (B) his respiratory or pulmonary impairment did not arise out of, or in connection with, employment in a coal mine.
   - **(5)** In the case of a miner who dies on or before March 1, 1978 , who was employed for 25 years or more in one or more coal mines before June 30, 1971 , the eligible survivors of such miner shall be entitled to the payment of benefits, at the rate applicable under section 922(a)(2) of this title , unless it is established that at the time of his or her death such miner was not partially or totally disabled due to pneumoconiosis. Eligible survivors shall, upon request by the Secretary, furnish such evidence as is available with respect to the health of the miner at the time of his or her death. The provisions of this paragraph shall not apply with respect to claims filed on or after the day that is 180 days after the effective date of the Black Lung Benefits Amendments of 1981.
 - **(d)** Nothing in subsection (c) shall be deemed to affect the applicability of subsection (a) in the case of a claim where the presumptions provided for therein are inapplicable.
+
+Applicability
+
+Transfer of Assets, Liabilities, etc.—
+
+Continuation of Orders, Determinations, etc.—
+
+Continuation of Administrative Proceedings.—
+
+Continuation of Actions and Causes of Action.—
+
+Continuation of Actions Against Officers
+
+Preservation of Penalties, etc
+
+## Source Credit
+
+*([Pub. L. 91–173, title IV, § 411](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 793](https://www.govinfo.gov/link/statute/83/793); [Pub. L. 92–303](https://www.govinfo.gov/link/plaw/92/public/303), §§ 3(a), 4(b)(1), (3), (c), (d), May 19, 1972, [86 Stat. 153](https://www.govinfo.gov/link/statute/86/153), 154; [Pub. L. 95–239, § 3(a)](https://www.govinfo.gov/link/plaw/95/public/239), Mar. 1, 1978, [92 Stat. 96](https://www.govinfo.gov/link/statute/92/96); [Pub. L. 97–119, title II](https://www.govinfo.gov/link/plaw/97/public/119), §§ 202(b), 203(a)(5), Dec. 29, 1981, [95 Stat. 1643](https://www.govinfo.gov/link/statute/95/1643), 1644; [Pub. L. 103–296, title I, § 108(i)(2)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1488](https://www.govinfo.gov/link/statute/108/1488); [Pub. L. 107–275, § 2(a)](https://www.govinfo.gov/link/plaw/107/public/275), Nov. 2, 2002, [116 Stat. 1925](https://www.govinfo.gov/link/statute/116/1925); [Pub. L. 111–148, title I, § 1556(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 260](https://www.govinfo.gov/link/statute/124/260).)*

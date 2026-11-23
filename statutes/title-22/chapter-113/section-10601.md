@@ -3,9 +3,10 @@ title: "Section 10601 - Definitions"
 usc_title: 22
 usc_section: "10601"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10601"
-generated_at: "2026-03-30T02:55:05.478Z"
+generated_at: "2026-11-23T21:25:58.800Z"
+status: "active"
 ---
 
 # § 10601. Definitions
@@ -21,5 +22,9 @@ In this chapter:
   - **(3)** The term “eligible country” means any country described in section 10606(b) of this title .
   - **(4)** The term “eligible project” means any project described in section 10606(a)(3) of this title .
   - **(5)** The term “Executive Director” means the Executive Director of the Foundation hired pursuant to section 10603 of this title .
-  - **(6)** The term “Foundation” means the United States Foundation for International Conservation established pursuant to section 10602(a) of this title .
+  - **(6)** The term “Foundation” means the United States Foundation for Natural Security and Counterterrorism established pursuant to section 10602(a) of this title .
   - **(7)** The term “Secretary” means the Secretary of State.
+
+## Source Credit
+
+*([Pub. L. 118–159, div. E, title LI, § 5101](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2410](https://www.govinfo.gov/link/statute/138/2410); [Pub. L. 119–75, div. F](https://www.govinfo.gov/link/plaw/119/public/75), tite VII, § 7034(k)(1), Feb. 3, 2026, [140 Stat. 571](https://www.govinfo.gov/link/statute/140/571).)*

@@ -3,9 +3,10 @@ title: "Section 1903 - Chief Administrative Officer"
 usc_title: 2
 usc_section: "1903"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1903"
-generated_at: "2026-03-30T02:53:04.819Z"
+generated_at: "2026-11-23T21:25:21.252Z"
+status: "active"
 ---
 
 # § 1903. Chief Administrative Officer
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:53:04.819Z"
     - **(A)** direct, coordinate, and oversee human resources management activities of the Capitol Police;
     - **(B)** develop and monitor payroll and time and attendance systems and employee services; and
     - **(C)** develop and monitor processes for recruiting, selecting, appraising, and promoting employees.
+
+## Source Credit
+
+*([Pub. L. 106–554, § 1(a)(2) [title I, § 108]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–104; [Pub. L. 106–346, § 101(a) [title V, § 507(a)]](https://www.govinfo.gov/link/plaw/106/public/346), Oct. 23, 2000, [114 Stat. 1356](https://www.govinfo.gov/link/statute/114/1356), 1356A–55; [Pub. L. 107–68, title I, § 122(a)](https://www.govinfo.gov/link/plaw/107/public/68), Nov. 12, 2001, [115 Stat. 576](https://www.govinfo.gov/link/statute/115/576); [Pub. L. 108–7, div. H, title I, § 1013(c)](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 361](https://www.govinfo.gov/link/statute/117/361); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 109–55, title I, § 1004(g)](https://www.govinfo.gov/link/plaw/109/public/55), Aug. 2, 2005, [119 Stat. 575](https://www.govinfo.gov/link/statute/119/575); [Pub. L. 111–145](https://www.govinfo.gov/link/plaw/111/public/145), §§ 2(a)(1), (2), 6(a), Mar. 4, 2010, [124 Stat. 49](https://www.govinfo.gov/link/statute/124/49), 54.)*

@@ -3,9 +3,10 @@ title: "Section 7634 - Malaria response Coordinator"
 usc_title: 22
 usc_section: "7634"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7634"
-generated_at: "2026-03-30T02:55:05.443Z"
+generated_at: "2026-11-23T21:25:58.723Z"
+status: "active"
 ---
 
 # § 7634. Malaria response Coordinator
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:55:05.443Z"
     - **(G)** the coordination of antimalarial efforts with broader health and development programs; and
     - **(H)** the constraints on implementation of programs posed by health workforce shortages or capacities; and
     - **(I)** the number of personnel trained as health workers and the training levels achieved.
+
+## Source Credit
+
+*([Pub. L. 108–25, title III, § 304](https://www.govinfo.gov/link/plaw/108/public/25), May 27, 2003, [117 Stat. 737](https://www.govinfo.gov/link/statute/117/737); [Pub. L. 110–293, title III, § 304](https://www.govinfo.gov/link/plaw/110/public/293), July 30, 2008, [122 Stat. 2961](https://www.govinfo.gov/link/statute/122/2961).)*

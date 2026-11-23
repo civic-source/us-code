@@ -3,9 +3,10 @@ title: "Section 19112 - Entrepreneurial fellowships"
 usc_title: 42
 usc_section: "19112"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19112"
-generated_at: "2026-03-30T02:56:11.540Z"
+generated_at: "2026-11-23T21:26:33.870Z"
+status: "active"
 ---
 
 # § 19112. Entrepreneurial fellowships
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.540Z"
   - **(3)** from groups historically underrepresented in STEM fields.
 - **(d)** The Director may enter into an agreement with a qualified third-party entity to administer the fellowships, subject to the provisions of this section.
 - **(e)** There are authorized to be appropriated to the Director a total of $125,000,000 for fiscal years 2023 through 2027, to carry out the activities outlined in this section.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10392](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1588](https://www.govinfo.gov/link/statute/136/1588).)*

@@ -3,9 +3,10 @@ title: "Section 3820 - Procedural rights"
 usc_title: 50
 usc_section: "3820"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3820"
-generated_at: "2026-03-30T02:56:26.262Z"
+generated_at: "2026-11-23T21:26:39.076Z"
+status: "active"
 ---
 
 # § 3820. Procedural rights
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:26.262Z"
   - **(2)** Subject to reasonable limitations on the number of witnesses and the total time allotted to each registrant, each registrant shall have the right to present witnesses on his behalf before the local board.
   - **(3)** A quorum of any local board or appeal board shall be present during the registrant’s personal appearance.
   - **(4)** In the event of a decision adverse to the claim of a registrant, the local or appeal board making such decision shall, upon request, furnish to such registrant a brief written statement of the reasons for its decision.
+
+## Source Credit
+
+*(June 24, 1948, ch. 625, title I, § 22, as added [Pub. L. 92–129, title I, § 101(a)(36)](https://www.govinfo.gov/link/plaw/92/public/129), Sept. 28, 1971, [85 Stat. 353](https://www.govinfo.gov/link/statute/85/353).)*

@@ -3,9 +3,10 @@ title: "Section 12 - Loan repayment for civil legal assistance attorneys"
 usc_title: 20
 usc_section: "12"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 12"
-generated_at: "2026-03-30T02:54:48.116Z"
+generated_at: "2026-11-23T21:25:47.115Z"
+status: "active"
 ---
 
 # § 1078–12. Loan repayment for civil legal assistance attorneys
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:54:48.116Z"
 - **(g)** No borrower may, for the same service, receive a reduction of loan obligations under both this section and section 1078–11 or 1087e(m) of this title.
 - **(h)** The Secretary is authorized to issue such regulations as may be necessary to carry out this section.
 - **(i)** There are authorized to be appropriated to carry out this section $10,000,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 428L](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title IV, § 431](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3242](https://www.govinfo.gov/link/statute/122/3242).)*

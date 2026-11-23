@@ -3,9 +3,10 @@ title: "Section 4003 - Recommendations and rankings"
 usc_title: 22
 usc_section: "4003"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4003"
-generated_at: "2026-03-30T02:55:05.401Z"
+generated_at: "2026-11-23T21:25:58.608Z"
+status: "active"
 ---
 
 # § 4003. Recommendations and rankings
@@ -25,3 +26,11 @@ generated_at: "2026-03-30T02:55:05.401Z"
   - **(1)** A member of the Service or member of the Senior Foreign Service whose performance will be evaluated by a selection board may submit to such selection board a gap memo in advance of such evaluation.
   - **(2)** Members of a selection board may not consider as negative the submission of a gap memo by a member described in paragraph (1) when evaluating the performance of such member.
   - **(3)** In this subsection, the term “gap memo” means a written record, submitted to a selection board in a standard format established by the Director General of the Foreign Service, which indicates and explains a gap in the record of a member of the Service or member of the Senior Foreign Service whose performance will be evaluated by such selection board, which gap is due to personal circumstances, including for health, family, or other reason as determined by the Director General in consultation with the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
+
+Consultation
+
+Definition
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 603](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2095](https://www.govinfo.gov/link/statute/94/2095); [Pub. L. 107–132, § 1(b)](https://www.govinfo.gov/link/plaw/107/public/132), Jan. 16, 2002, [115 Stat. 2412](https://www.govinfo.gov/link/statute/115/2412); [Pub. L. 108–458, title VII, § 7110(c)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3794](https://www.govinfo.gov/link/statute/118/3794); [Pub. L. 117–81, div. E, title LIII, § 5325(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2370](https://www.govinfo.gov/link/statute/135/2370); [Pub. L. 117–263, div. I, title XCIII, § 9302(k)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3889](https://www.govinfo.gov/link/statute/136/3889); [Pub. L. 118–31, div. F, title LXII, § 6201](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 971](https://www.govinfo.gov/link/statute/137/971).)*

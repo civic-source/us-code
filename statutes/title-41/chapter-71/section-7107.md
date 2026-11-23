@@ -3,9 +3,10 @@ title: "Section 7107 - Judicial review of agency board decisions"
 usc_title: 41
 usc_section: "7107"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 7107"
-generated_at: "2026-03-30T02:55:55.811Z"
+generated_at: "2026-11-23T21:26:18.834Z"
+status: "active"
 ---
 
 # § 7107. Judicial review of agency board decisions
@@ -32,3 +33,113 @@ generated_at: "2026-03-30T02:55:55.811Z"
   - **(2)** An issue referred to in paragraph (1) is any issue that could be the proper subject of a final decision of a contracting officer appealable under this chapter.
   - **(3)** A district court shall direct a request under paragraph (1) to the agency board having jurisdiction under this chapter to adjudicate appeals of contract claims under the contract being interpreted by the court.
   - **(4)** After receiving a request for an advisory opinion under paragraph (1), an agency board shall provide the advisory opinion in a timely manner to the district court making the request.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 7107(a) | 41:607(g). | Pub. L. 95–563, § 8(g) , Nov. 1, 1978 , 92 Stat. 2387 ; Pub. L. 97–164, title I, § 156 , Apr. 2, 1982 , 96 Stat. 47 ; Pub. L. 101–552, § 6(b) , Nov. 15, 1990 , 104 Stat. 2746 . |
+| 7107(b) | 41:609(b). | Pub. L. 95–563, § 10(b) , (e), Nov. 1, 1978 , 92 Stat. 2388 . |
+| 7107(c) | 41:609(c). | Pub. L. 95–563, § 10(c) , Nov. 1, 1978 , 92 Stat. 2388 ; Pub. L. 97–164, title I, § 157 , Apr. 2, 1982 , 96 Stat. 47 . |
+| 7107(d) | 41:609(d). | Pub. L. 95–563, § 10(d) , Nov. 1, 1978 , 92 Stat. 2388 ; Pub. L. 97–164, title I, § 160(a)(15) , Apr. 2, 1982 , 96 Stat. 48 . |
+| 7107(e) | 41:609(e). |  |
+| 7107(f) | 41:609(f). | Pub. L. 95–563, § 10(f) , as added Pub. L. 103–355, title II, § 2354 , Oct. 13, 1994 , 108 Stat. 3323 . |
+
+
+Review.—
+
+In general
+
+Tennessee valley authority
+
+Review of arbitration
+
+Finality of Agency Board Decisions on Questions of Law and Fact
+
+Remand
+
+Consolidation
+
+Judgments as to Fewer Than All Claims or Parties
+
+Advisory Opinions.—
+
+In general
+
+Applicable issue
+
+Referral to agency board with jurisdiction
+
+Timely response
+
+Historical and Revision Notes
+
+7107(a)
+
+Pub. L. 95–563, § 8(g)
+
+Nov. 1, 1978
+
+92 Stat. 2387
+
+Pub. L. 97–164, title I, § 156
+
+Apr. 2, 1982
+
+96 Stat. 47
+
+Pub. L. 101–552, § 6(b)
+
+Nov. 15, 1990
+
+104 Stat. 2746
+
+7107(b)
+
+Pub. L. 95–563, § 10(b)
+
+Nov. 1, 1978
+
+92 Stat. 2388
+
+7107(c)
+
+Pub. L. 95–563, § 10(c)
+
+Nov. 1, 1978
+
+92 Stat. 2388
+
+Pub. L. 97–164, title I, § 157
+
+Apr. 2, 1982
+
+96 Stat. 47
+
+7107(d)
+
+Pub. L. 95–563, § 10(d)
+
+Nov. 1, 1978
+
+92 Stat. 2388
+
+Pub. L. 97–164, title I, § 160(a)(15)
+
+Apr. 2, 1982
+
+96 Stat. 48
+
+7107(e)
+
+7107(f)
+
+Pub. L. 95–563, § 10(f)
+
+Pub. L. 103–355, title II, § 2354
+
+Oct. 13, 1994
+
+108 Stat. 3323
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3824](https://www.govinfo.gov/link/statute/124/3824).)*

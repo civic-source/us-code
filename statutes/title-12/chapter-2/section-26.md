@@ -3,12 +3,17 @@ title: "Section 26 - Comptroller to determine if association can commence busine
 usc_title: 12
 usc_section: "26"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 26"
-generated_at: "2026-03-30T02:53:53.370Z"
+generated_at: "2026-11-23T21:25:36.763Z"
+status: "active"
 ---
 
 # § 26. Comptroller to determine if association can commence business
 
 Whenever a certificate is transmitted to the Comptroller of the Currency, as provided in title 62 of the Revised Statutes, and the association transmitting the same notifies the Comptroller that all of its capital stock has been duly paid in, and that such association has complied with all the provisions of title 62 of the Revised Statutes required to be complied with before an association shall be authorized to commence the business of banking, the Comptroller shall examine into the condition of such association, ascertain especially the amount of money paid in on account of its capital, the name and place of residence of each of its directors, and the amount of the capital stock of which each is the owner in good faith, and generally whether such association has complied with all the provisions of title 62 of the Revised Statutes required to entitle it to engage in the business of banking; and shall cause to be made and attested by the oaths of a majority of the directors, and by the president or cashier of the association, a statement of all the facts necessary to enable the Comptroller to determine whether the association is lawfully entitled to commence the business of banking.
 
+
+## Source Credit
+
+*(R.S. § 5168; [Pub. L. 86–230, § 2](https://www.govinfo.gov/link/plaw/86/public/230), Sept. 8, 1959, [73 Stat. 457](https://www.govinfo.gov/link/statute/73/457).)*

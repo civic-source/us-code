@@ -3,9 +3,10 @@ title: "Section 372 - Examinations and investigations"
 usc_title: 21
 usc_section: "372"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 372"
-generated_at: "2026-03-30T02:54:54.263Z"
+generated_at: "2026-11-23T21:25:56.127Z"
+status: "active"
 ---
 
 # § 372. Examinations and investigations
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:54.263Z"
   - **(3)** execute seizure by process issued pursuant to libel under section 334 of this title ;
   - **(4)** make arrests without warrant for offenses under this chapter with respect to such drugs if the offense is committed in his presence or, in the case of a felony, if he has probable cause to believe that the person so arrested has committed, or is committing, such offense; and
   - **(5)** make, prior to the institution of libel proceedings under section 334(a)(2) of this title , seizures of drugs or containers or of equipment, punches, dies, plates, stones, labeling, or other things, if they are, or he has reasonable grounds to believe that they are, subject to seizure and condemnation under such section 334(a)(2). In the event of seizure pursuant to this paragraph (5), libel proceedings under section 334(a)(2) of this title shall be instituted promptly and the property seized be placed under the jurisdiction of the court.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 702, [52 Stat. 1056](https://www.govinfo.gov/link/statute/52/1056); [Pub. L. 87–781, title III](https://www.govinfo.gov/link/plaw/87/public/781), §§ 307(b), 308, Oct. 10, 1962, [76 Stat. 796](https://www.govinfo.gov/link/statute/76/796); [Pub. L. 89–74, § 8(a)](https://www.govinfo.gov/link/plaw/89/public/74), July 15, 1965, [79 Stat. 234](https://www.govinfo.gov/link/statute/79/234); [Pub. L. 91–513, title II, § 701(f)](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1282](https://www.govinfo.gov/link/statute/84/1282); [Pub. L. 102–300, § 6(b)(2)](https://www.govinfo.gov/link/plaw/102/public/300), June 16, 1992, [106 Stat. 240](https://www.govinfo.gov/link/statute/106/240); [Pub. L. 103–80, § 3(dd)(2)](https://www.govinfo.gov/link/plaw/103/public/80), Aug. 13, 1993, [107 Stat. 779](https://www.govinfo.gov/link/statute/107/779); [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(12)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–584; [Pub. L. 107–188, title III, § 314](https://www.govinfo.gov/link/plaw/107/public/188), June 12, 2002, [116 Stat. 674](https://www.govinfo.gov/link/statute/116/674); [Pub. L. 111–31, div. A, title I, § 103(g)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1837](https://www.govinfo.gov/link/statute/123/1837).)*

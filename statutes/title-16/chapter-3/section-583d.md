@@ -3,9 +3,10 @@ title: "Section 583d - Notice; registered mail and publication; costs; contents;
 usc_title: 16
 usc_section: "583d"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 583d"
-generated_at: "2026-03-30T02:54:22.880Z"
+generated_at: "2026-11-23T21:25:51.683Z"
+status: "active"
 ---
 
 # § 583d. Notice; registered mail and publication; costs; contents; request for hearing; time; determination and record available for inspection
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:22.880Z"
   - **(2)** the time and place of a public hearing to be held not less than thirty days after the first publication of said notice if requested by the State or county where the timber is located or by any other person deemed to have a reasonable interest in the proposed sale or in its terms; and
   - **(3)** the place where any request for a public hearing shall be made. Such requests need be considered only if received at the place designated in the notice not later than fifteen days after the first publication of such notice. If a request for a hearing is received within the time designated, notice of the holding of the hearing shall be given not less than ten days before the time set for such hearing, in the same manner as provided for the original notice. The determination made by the Secretary having jurisdiction upon the proposals considered at any such hearing, which determination may include the modification of the terms of such proposals, together with the minutes or other record of the hearing, shall be available for public inspection during the life of any coordinated plan of management or agreement entered into in consequence of such determination.
 
+
+## Source Credit
+
+*(Mar. 29, 1944, ch. 146, § 5, [58 Stat. 133](https://www.govinfo.gov/link/statute/58/133); [Pub. L. 86–507, § 1(17)](https://www.govinfo.gov/link/plaw/86/public/507), June 11, 1960, [74 Stat. 201](https://www.govinfo.gov/link/statute/74/201).)*

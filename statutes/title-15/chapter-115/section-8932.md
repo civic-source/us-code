@@ -3,9 +3,10 @@ title: "Section 8932 - Performance standard for the detection of highly fluorina
 usc_title: 15
 usc_section: "8932"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8932"
-generated_at: "2026-03-30T02:54:08.235Z"
+generated_at: "2026-11-23T21:25:40.100Z"
+status: "active"
 ---
 
 # § 8932. Performance standard for the detection of highly fluorinated compounds
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.235Z"
     - **(A)** develop quality assurance and quality control measures to ensure accurate sampling and testing;
     - **(B)** develop a training program with respect to the appropriate method of sample collection and analysis of highly fluorinated compounds; and
     - **(C)** coordinate as necessary with the Administrator, including, if appropriate, to develop methods to detect individual and different highly fluorinated compounds simultaneously.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. F, title LXXIII, § 7332](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2282](https://www.govinfo.gov/link/statute/133/2282).)*

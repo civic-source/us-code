@@ -3,9 +3,10 @@ title: "Section 406 - Notice of copyright: Error in name or date on certain copi
 usc_title: 17
 usc_section: "406"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 406"
-generated_at: "2026-03-30T02:54:15.351Z"
+generated_at: "2026-11-23T21:25:41.717Z"
+status: "active"
 ---
 
 # § 406. Notice of copyright: Error in name or date on certain copies and phonorecords
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:54:15.351Z"
   - **(2)** a document executed by the person named in the notice and showing the ownership of the copyright had been recorded.
 - **(b)** When the year date in the notice on copies or phonorecords distributed before the effective date of the Berne Convention Implementation Act of 1988 by authority of the copyright owner is earlier than the year in which publication first occurred, any period computed from the year of first publication under section 302 is to be computed from the year in the notice. Where the year date is more than one year later than the year in which publication first occurred, the work is considered to have been published without any notice and is governed by the provisions of section 405.
 - **(c)** Where copies or phonorecords publicly distributed before the effective date of the Berne Convention Implementation Act of 1988 by authority of the copyright owner contain no name or no date that could reasonably be considered a part of the notice, the work is considered to have been published without any notice and is governed by the provisions of section 405 as in effect on the day before the effective date of the Berne Convention Implementation Act of 1988.
+
+Error in Name
+
+Error in Date
+
+Omission of Name or Date
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2578](https://www.govinfo.gov/link/statute/90/2578); [Pub. L. 100–568, § 7(f)](https://www.govinfo.gov/link/plaw/100/public/568), Oct. 31, 1988, [102 Stat. 2858](https://www.govinfo.gov/link/statute/102/2858).)*

@@ -3,9 +3,10 @@ title: "Section 70202 - State freight plans"
 usc_title: 49
 usc_section: "70202"
 chapter: 702
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 70202"
-generated_at: "2026-03-30T02:56:19.417Z"
+generated_at: "2026-11-23T21:26:41.037Z"
+status: "active"
 ---
 
 # § 70202. State freight plans
@@ -52,3 +53,35 @@ generated_at: "2026-03-30T02:56:19.417Z"
 - **(h)**
   - **(1)** The Secretary of Transportation shall approve a State freight plan described in subsection (a) if the plan achieves compliance with the requirements of this section.
   - **(2)** Nothing in this subsection establishes new procedural requirements for the approval of a State freight plan described in subsection (a).
+
+In General
+
+Plan Contents
+
+Relationship to Long-Range Plan.—
+
+Incorporation
+
+Fiscal constraint
+
+Planning Period
+
+Updates.—
+
+In general
+
+Freight investment plan
+
+Commercial Motor Vehicle Parking Facilities Assessments
+
+Priority
+
+Approval.—
+
+In general
+
+Savings provision
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title VIII, § 8001(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1610](https://www.govinfo.gov/link/statute/129/1610); amended [Pub. L. 117–58, div. B, title I, § 21104(a)](https://www.govinfo.gov/link/plaw/117/public/58), (c), Nov. 15, 2021, [135 Stat. 658](https://www.govinfo.gov/link/statute/135/658), 659.)*

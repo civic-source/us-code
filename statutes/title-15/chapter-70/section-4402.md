@@ -3,9 +3,10 @@ title: "Section 4402 - Smokeless tobacco warning"
 usc_title: 15
 usc_section: "4402"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4402"
-generated_at: "2026-03-30T02:54:08.199Z"
+generated_at: "2026-11-23T21:25:39.990Z"
+status: "active"
 ---
 
 # § 4402. Smokeless tobacco warning
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:54:08.199Z"
   - **(4)** The Secretary may, through a rulemaking under section 553 of title 5 , adjust the format and type sizes for the label statements required by this section; the text, format, and type sizes of any required tar, nicotine yield, or other constituent disclosures; or the text, format, and type sizes for any other disclosures required under the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 301 et seq.]. The text of any such label statements or disclosures shall be required to appear only within the 20 percent area of advertisements provided by paragraph (2). The Secretary shall promulgate regulations which provide for adjustments in the format and type sizes of any text required to appear in such area to ensure that the total text required to appear by law will fit within such area.
 - **(c)** It is unlawful to advertise smokeless tobacco on any medium of electronic communications subject to the jurisdiction of the Federal Communications Commission.
 - **(d)** The Secretary may, by a rulemaking conducted under section 553 of title 5 , adjust the format, type size, and text of any of the label requirements, require color graphics to accompany the text, increase the required label area from 30 percent up to 50 percent of the front and rear panels of the package, or establish the format, type size, and text of any other disclosures required under the Federal Food, Drug, and Cosmetic Act, if the Secretary finds that such a change would promote greater public understanding of the risks associated with the use of smokeless tobacco products.
+
+## Source Credit
+
+*([Pub. L. 99–252, § 3](https://www.govinfo.gov/link/plaw/99/public/252), Feb. 27, 1986, [100 Stat. 30](https://www.govinfo.gov/link/statute/100/30); [Pub. L. 111–31, div. A, title II](https://www.govinfo.gov/link/plaw/111/public/31), §§ 204(a), 205(a), June 22, 2009, [123 Stat. 1846](https://www.govinfo.gov/link/statute/123/1846), 1848.)*

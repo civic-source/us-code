@@ -3,9 +3,10 @@ title: "Section 2421a - Capital projects office within Agency for International 
 usc_title: 22
 usc_section: "2421a"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2421a"
-generated_at: "2026-03-30T02:55:05.366Z"
+generated_at: "2026-11-23T21:25:58.492Z"
+status: "active"
 ---
 
 # § 2421a. Capital projects office within Agency for International Development
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:05.366Z"
   - **(6)** shall play a special role in helping to meet the infrastructure needs of countries making the transition from nonmarket to market economies by meeting the challenge of infrastructure assistance provided by foreign governments to those countries, including by undertaking a comprehensive study of the infrastructure needs of the various countries making the transition from nonmarket to market economies—
     - **(A)** to identify those sectors in the economies of these countries that are most in need of rebuilding, and
     - **(B)** to identify the state of technology in these countries and the opportunity for United States high technology firms to help develop a technological infrastructure in these countries, including an assessment of export opportunities for United States high technology companies.
+
+## Source Credit
+
+*([Pub. L. 102–549, title III, § 302](https://www.govinfo.gov/link/plaw/102/public/549), Oct. 28, 1992, [106 Stat. 3658](https://www.govinfo.gov/link/statute/106/3658).)*

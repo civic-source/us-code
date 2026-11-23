@@ -3,9 +3,10 @@ title: "Section 1885b - Preemption"
 usc_title: 50
 usc_section: "1885b"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1885b"
-generated_at: "2026-03-30T02:56:26.215Z"
+generated_at: "2026-11-23T21:26:38.948Z"
+status: "active"
 ---
 
 # § 1885b. Preemption
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:26.215Z"
 - **(b)** The United States may bring suit to enforce the provisions of this section.
 - **(c)** The district courts of the United States shall have jurisdiction over any civil action brought by the United States to enforce the provisions of this section.
 - **(d)** This section shall apply to any investigation, action, or proceeding that is pending on or commenced after July 10, 2008 .
+
+## Source Credit
+
+*([Pub. L. 95–511, title VIII, § 803](https://www.govinfo.gov/link/plaw/95/public/511), as added [Pub. L. 110–261, title II, § 201](https://www.govinfo.gov/link/plaw/110/public/261), July 10, 2008, [122 Stat. 2470](https://www.govinfo.gov/link/statute/122/2470).)*

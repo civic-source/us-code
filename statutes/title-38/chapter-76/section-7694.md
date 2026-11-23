@@ -3,9 +3,10 @@ title: "Section 7694 - Specialty education loan repayment"
 usc_title: 38
 usc_section: "7694"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7694"
-generated_at: "2026-03-30T02:55:53.535Z"
+generated_at: "2026-11-23T21:26:16.891Z"
+status: "active"
 ---
 
 # § 7694. Specialty education loan repayment
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:55:53.535Z"
   - **(2)**
     - **(A)** The Secretary may waive the limitations under paragraph (1) in the case of a participant described in subparagraph (B). In the case of such a waiver, the total amount of payments payable to or for that participant is the total amount of the principal and the interest on the participant’s loans referred to in subsection (a).
     - **(B)** A participant described in this subparagraph is a participant in the Program who the Secretary determines serves in a position for which there is a shortage of qualified employees by reason of either the location or the requirements of the position.
+
+In General
+
+Frequency of Payment
+
+Maximum Amount; Waiver
+
+## Source Credit
+
+*(Added [Pub. L. 115–182, title III, § 303(a)](https://www.govinfo.gov/link/plaw/115/public/182), June 6, 2018, [132 Stat. 1465](https://www.govinfo.gov/link/statute/132/1465).)*

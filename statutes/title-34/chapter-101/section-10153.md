@@ -3,9 +3,10 @@ title: "Section 10153 - Applications"
 usc_title: 34
 usc_section: "10153"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10153"
-generated_at: "2026-03-30T02:55:33.260Z"
+generated_at: "2026-11-23T21:26:09.622Z"
+status: "active"
 ---
 
 # § 10153. Applications
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:55:33.260Z"
     - **(A)** public dissemination of practices, structures, or models for the administration of justice consistent with the requirements of the Sixth Amendment; and
     - **(B)** assistance with adopting and implementing a system for the administration of justice consistent with the requirements of the Sixth Amendment.
   - **(3)** For each of fiscal years 2017 through 2021, of the amounts appropriated to carry out this subpart, not less than $5,000,000 and not more than $10,000,000 shall be used to carry out this subsection.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 502](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 109–162, title XI, § 1111(a)(2)(C)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3096](https://www.govinfo.gov/link/statute/119/3096); amended [Pub. L. 109–271, § 8(i)](https://www.govinfo.gov/link/plaw/109/public/271), Aug. 12, 2006, [120 Stat. 767](https://www.govinfo.gov/link/statute/120/767); [Pub. L. 114–324, § 14(b)](https://www.govinfo.gov/link/plaw/114/public/324), Dec. 16, 2016, [130 Stat. 1958](https://www.govinfo.gov/link/statute/130/1958).)*

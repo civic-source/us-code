@@ -3,9 +3,10 @@ title: "Section 77j - Information required in prospectus"
 usc_title: 15
 usc_section: "77j"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 77j"
-generated_at: "2026-03-30T02:54:08.033Z"
+generated_at: "2026-11-23T21:25:39.505Z"
+status: "active"
 ---
 
 # § 77j. Information required in prospectus
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:08.033Z"
 - **(d)** In the exercise of its powers under subsections (a), (b), or (c), the Commission shall have authority to classify prospectuses according to the nature and circumstances of their use or the nature of the security, issue, issuer, or otherwise, and, by rules and regulations and subject to such terms and conditions as it shall specify therein, to prescribe as to each class the form and contents which it may find appropriate and consistent with the public interest and the protection of investors.
 - **(e)** The statements or information required to be included in a prospectus by or under authority of subsections (a), (b), (c), or (d), when written, shall be placed in a conspicuous part of the prospectus and, except as otherwise permitted by rules or regulations, in type as large as that used generally in the body of the prospectus.
 - **(f)** In any case where a prospectus consists of a radio or television broadcast, copies thereof shall be filed with the Commission under such rules and regulations as it shall prescribe. The Commission may by rules and regulations require the filing with it of forms and prospectuses used in connection with the offer or sale of securities registered under this subchapter.
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title I, § 10, [48 Stat. 81](https://www.govinfo.gov/link/statute/48/81); June 6, 1934, ch. 404, title II, § 205, [48 Stat. 906](https://www.govinfo.gov/link/statute/48/906); Aug. 10, 1954, ch. 667, title I, § 8, [68 Stat. 685](https://www.govinfo.gov/link/statute/68/685).)*

@@ -3,9 +3,10 @@ title: "Section 823e - Promoting hydropower development at existing nonpowered d
 usc_title: 16
 usc_section: "823e"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 823e"
-generated_at: "2026-03-30T02:54:22.913Z"
+generated_at: "2026-11-23T21:25:51.760Z"
+status: "active"
 ---
 
 # § 823e. Promoting hydropower development at existing nonpowered dams
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:54:22.913Z"
 - **(f)** Nothing in this section affects—
   - **(1)** any authority of the Commission to license a facility at a nonpowered dam under this subchapter; and
   - **(2)** any authority of the Commission to issue an exemption to a small hydroelectric power project under the Public Utility Regulatory Policies Act of 1978.
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. I, § 34, as added [Pub. L. 115–270, title III, § 3003](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3863](https://www.govinfo.gov/link/statute/132/3863).)*

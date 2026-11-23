@@ -3,9 +3,10 @@ title: "Section 1712 - Record requirements"
 usc_title: 41
 usc_section: "1712"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 1712"
-generated_at: "2026-03-30T02:55:55.803Z"
+generated_at: "2026-11-23T21:26:18.792Z"
+status: "active"
 ---
 
 # § 1712. Record requirements
@@ -25,3 +26,44 @@ generated_at: "2026-03-30T02:55:55.803Z"
 - **(d)** The head of each executive agency shall—
   - **(1)** ensure the accuracy of the information included in the record established and maintained by the agency under subsection (a); and
   - **(2)** transmit in a timely manner such information to the General Services Administration for entry into the Federal Procurement Data System referred to in section 1122(a)(4) of this title , or any successor system.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1712 | 41:417. | Pub. L. 93–400, § 19 , as added Pub. L. 98–369, title VII, § 2732(a) , July 18, 1984 , 98 Stat. 1197 ; Pub. L. 103–355, title IV, § 4403 , Oct. 13, 1994 , 108 Stat. 3349 ; Pub. L. 110–417, title VIII, § 874(b) , Oct. 14, 2008 , 122 Stat. 4558 . |
+
+
+Maintaining Records on Computer
+
+Contents
+
+Separate Record Category for Procurements Resulting in One Bid or Proposal
+
+Transmission and Data Entry of Information
+
+Historical and Revision Notes
+
+1712
+
+Pub. L. 93–400, § 19
+
+Pub. L. 98–369, title VII, § 2732(a)
+
+July 18, 1984
+
+98 Stat. 1197
+
+Pub. L. 103–355, title IV, § 4403
+
+Oct. 13, 1994
+
+108 Stat. 3349
+
+Pub. L. 110–417, title VIII, § 874(b)
+
+Oct. 14, 2008
+
+122 Stat. 4558
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3718](https://www.govinfo.gov/link/statute/124/3718); [Pub. L. 117–81, div. A, title XVII, § 1702(h)(5)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2158](https://www.govinfo.gov/link/statute/135/2158).)*

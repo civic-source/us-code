@@ -3,9 +3,10 @@ title: "Section 1709C - Assistance for child care for certain veterans receiving
 usc_title: 38
 usc_section: "1709C"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1709C"
-generated_at: "2026-03-30T02:55:53.483Z"
+generated_at: "2026-11-23T21:26:16.625Z"
+status: "active"
 ---
 
 # § 1709C. Assistance for child care for certain veterans receiving health care
@@ -32,3 +33,17 @@ generated_at: "2026-03-30T02:55:53.483Z"
     - **(E)** Such other forms of assistance as the Secretary considers appropriate.
   - **(2)** In providing child care assistance under this section, the child care needs of the local area shall be considered and the head of each medical center may select the type of care that is most appropriate or feasible for such medical center.
   - **(3)** In the case that child care assistance under this section is provided as a stipend under paragraph (1)(A), such stipend shall cover the full cost of such child care.
+
+Program Required
+
+Limitation on Period of Payments
+
+Qualified Veterans
+
+Locations
+
+Forms of Child Care Assistance
+
+## Source Credit
+
+*(Added [Pub. L. 116–315, title V, § 5107(a)(1)](https://www.govinfo.gov/link/plaw/116/public/315), Jan. 5, 2021, [134 Stat. 5030](https://www.govinfo.gov/link/statute/134/5030).)*

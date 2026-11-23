@@ -3,9 +3,10 @@ title: "Section 41715 - Phase-out of slot rules at certain airports"
 usc_title: 49
 usc_section: "41715"
 chapter: 417
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 41715"
-generated_at: "2026-03-30T02:56:19.376Z"
+generated_at: "2026-11-23T21:26:40.860Z"
+status: "active"
 ---
 
 # § 41715. Phase-out of slot rules at certain airports
@@ -19,3 +20,17 @@ generated_at: "2026-03-30T02:56:19.376Z"
 - **(c)**
   - **(1)** Before the award of slot exemptions under sections 41714 and 41716–41718, the Secretary of Transportation may consider, among other determining factors, whether the petitioning air carrier’s proposal provides the maximum benefit to the United States economy, including the number of United States jobs created by the air carrier, its suppliers, and related activities. The Secretary should give equal consideration to the consumer benefits associated with the award of such exemptions.
   - **(2)** Paragraph (1) does not apply in any case in which the air carrier requesting the slot exemption is proposing to use under the exemption a type of aircraft for which there is not a competing United States manufacturer.
+
+Termination
+
+Statutory Construction
+
+Factors To Consider.—
+
+In general
+
+Applicability
+
+## Source Credit
+
+*(Added [Pub. L. 106–181, title II, § 231(b)(2)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 108](https://www.govinfo.gov/link/statute/114/108).)*

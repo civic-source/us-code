@@ -3,9 +3,10 @@ title: "Section 2708 - Referendum among egg producers"
 usc_title: 7
 usc_section: "2708"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2708"
-generated_at: "2026-03-30T02:53:42.391Z"
+generated_at: "2026-11-23T21:25:28.306Z"
+status: "active"
 ---
 
 # § 2708. Referendum among egg producers
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:42.391Z"
       - **(ii)** if the Director of the Office of Management and Budget determines that the change in the assessment rate is a significant action that requires review by the Director, 170 days after receipt of the request from the Egg Board.
   - **(4)** Notwithstanding any other provision of this chapter, if an increase in the assessment rate and the authority for additional increases is approved by producers in a referendum conducted under this subsection, the Secretary shall amend the order to reflect the vote of the producers. The amendment to the order shall become effective on the date of issuance of the amendment.
 - **(c)** The failure of egg producers to approve an amendment to any Egg Research and Promotion Order shall not be deemed to invalidate such order.
+
+## Source Credit
+
+*([Pub. L. 93–428, § 9](https://www.govinfo.gov/link/plaw/93/public/428), Oct. 1, 1974, [88 Stat. 1176](https://www.govinfo.gov/link/statute/88/1176); [Pub. L. 96–276, § 5](https://www.govinfo.gov/link/plaw/96/public/276), June 17, 1980, [94 Stat. 541](https://www.govinfo.gov/link/statute/94/541); [Pub. L. 103–188, § 2(b)](https://www.govinfo.gov/link/plaw/103/public/188), Dec. 14, 1993, [107 Stat. 2256](https://www.govinfo.gov/link/statute/107/2256).)*

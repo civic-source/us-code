@@ -3,9 +3,10 @@ title: "Section 869 - Art. 69. Review by Judge Advocate General"
 usc_title: 10
 usc_section: "869"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 869"
-generated_at: "2026-03-30T02:53:38.084Z"
+generated_at: "2026-11-23T21:25:32.343Z"
+status: "active"
 ---
 
 # § 869. Art. 69. Review by Judge Advocate General
@@ -38,3 +39,30 @@ generated_at: "2026-03-30T02:53:38.084Z"
       - **(ii)** 60 days after the date on which a copy of the decision of the Judge Advocate General is deposited in the United States mails for delivery by first-class certified mail to the accused at an address provided by the accused or, if no such address has been provided by the accused, at the latest address listed for the accused in his official service record.
   - **(3)** The submission of an application for review under this subsection does not constitute a proceeding before the Court of Criminal Appeals for purposes of section 870(c)(1) of this title (article 70(c)(1)).
 - **(e)** Notwithstanding section 866 of this title (article 66), in any case reviewed by a Court of Criminal Appeals under subsection (d), the Court may take action only with respect to matters of law.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 869 | 50:656. | May 5, 1950, ch. 169, § 1 (Art. 69), 64 Stat. 130 . |
+
+
+In General
+
+Timing
+
+Scope
+
+Court of Criminal Appeals
+
+Action Only on Matters of Law
+
+Historical and Revision Notes
+
+869
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 130
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 61; [Pub. L. 90–632, § 2(30)](https://www.govinfo.gov/link/plaw/90/public/632), Oct. 24, 1968, [82 Stat. 1342](https://www.govinfo.gov/link/statute/82/1342); [Pub. L. 97–81, § 6](https://www.govinfo.gov/link/plaw/97/public/81), Nov. 20, 1981, [95 Stat. 1089](https://www.govinfo.gov/link/statute/95/1089); [Pub. L. 98–209, § 7(e)(1)](https://www.govinfo.gov/link/plaw/98/public/209), Dec. 6, 1983, [97 Stat. 1402](https://www.govinfo.gov/link/statute/97/1402); [Pub. L. 101–189, div. A, title XIII](https://www.govinfo.gov/link/plaw/101/public/189), §§ 1302(a), 1304(b)(1), Nov. 29, 1989, [103 Stat. 1576](https://www.govinfo.gov/link/statute/103/1576), 1577; [Pub. L. 103–337, div. A, title IX, § 924(c)(2)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2831](https://www.govinfo.gov/link/statute/108/2831); [Pub. L. 114–328, div. E, title LIX, § 5333](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2935](https://www.govinfo.gov/link/statute/130/2935); [Pub. L. 115–91, div. A, title X, § 1081(c)(1)(L)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1598](https://www.govinfo.gov/link/statute/131/1598); [Pub. L. 117–81, div. A, title V, § 539A(d)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1699](https://www.govinfo.gov/link/statute/135/1699); [Pub. L. 117–263, div. A, title V, § 544(c)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2582](https://www.govinfo.gov/link/statute/136/2582).)*

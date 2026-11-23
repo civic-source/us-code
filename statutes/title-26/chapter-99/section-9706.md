@@ -3,9 +3,10 @@ title: "Section 9706 - Assignment of eligible beneficiaries"
 usc_title: 26
 usc_section: "9706"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 9706"
-generated_at: "2026-03-30T02:55:27.894Z"
+generated_at: "2026-11-23T21:26:07.041Z"
+status: "active"
 ---
 
 # § 9706. Assignment of eligible beneficiaries
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:55:27.894Z"
     - **(A)** For the fiscal year beginning on October 1, 2007 , 55 percent.
     - **(B)** For the fiscal year beginning on October 1, 2008 , 40 percent.
     - **(C)** For the fiscal year beginning on October 1, 2009 , 15 percent.
+
+## Source Credit
+
+*(Added [Pub. L. 102–486, title XIX, § 19143(a)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3047](https://www.govinfo.gov/link/statute/106/3047); amended [Pub. L. 103–296, title I, § 108(h)(9)(B)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1487](https://www.govinfo.gov/link/statute/108/1487); [Pub. L. 109–432, div. C, title II, § 212(a)(3)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 3025](https://www.govinfo.gov/link/statute/120/3025).)*

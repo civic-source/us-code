@@ -3,12 +3,17 @@ title: "Section 2226 - Employment of persons for forest fire fighting, pest cont
 usc_title: 7
 usc_section: "2226"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2226"
-generated_at: "2026-03-30T02:53:42.381Z"
+generated_at: "2026-11-23T21:25:28.286Z"
+status: "active"
 ---
 
 # § 2226. Employment of persons for forest fire fighting, pest control, and handling of animals
 
 Notwithstanding any other provisions of law, the Department is authorized on and after August 31, 1951 , to employ or otherwise contract with persons at regular rates of pay for necessary hours of work for emergency forest fire fighting and pest control and for handling of animals, including dairy cattle, without regard to Sundays, Federal holidays, and the regular workweek.
 
+
+## Source Credit
+
+*(Aug. 31, 1951, ch. 374, title IV, § 407, [65 Stat. 246](https://www.govinfo.gov/link/statute/65/246).)*

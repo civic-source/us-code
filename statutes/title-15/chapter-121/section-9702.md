@@ -3,9 +3,10 @@ title: "Section 9702 - National Integrated Flood Information System"
 usc_title: 15
 usc_section: "9702"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9702"
-generated_at: "2026-03-30T02:54:08.250Z"
+generated_at: "2026-11-23T21:25:40.152Z"
+status: "active"
 ---
 
 # § 9702. National Integrated Flood Information System
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:54:08.250Z"
     - **(B)** to increase storm surge monitoring data through the deployment of additional storm surge sensors.
 - **(d)** In developing and maintaining the National Integrated Flood Information System, the Administrator shall consult with relevant Federal, State, local, and Tribal government agencies, research institutions, and the private sector.
 - **(e)** Each Federal agency shall cooperate as appropriate with the Administrator in carrying out this section.
+
+## Source Credit
+
+*([Pub. L. 117–316, § 3](https://www.govinfo.gov/link/plaw/117/public/316), Dec. 27, 2022, [136 Stat. 4406](https://www.govinfo.gov/link/statute/136/4406).)*

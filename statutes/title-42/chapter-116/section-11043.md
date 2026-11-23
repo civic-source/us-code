@@ -3,9 +3,10 @@ title: "Section 11043 - Provision of information to health professionals, doctor
 usc_title: 42
 usc_section: "11043"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11043"
-generated_at: "2026-03-30T02:56:11.394Z"
+generated_at: "2026-11-23T21:26:33.396Z"
+status: "active"
 ---
 
 # § 11043. Provision of information to health professionals, doctors, and nurses
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.394Z"
     - **(F)** To conduct studies to aid in the identification of a chemical that may reasonably be anticipated to cause an observed health effect.
 - **(d)** Any person obtaining information under subsection (a) or (c) shall, in accordance with such subsection (a) or (c), be required to agree in a written confidentiality agreement that he will not use the information for any purpose other than the health needs asserted in the statement of need, except as may otherwise be authorized by the terms of the agreement or by the person providing such information. Nothing in this subsection shall preclude the parties to a confidentiality agreement from pursuing any remedies to the extent permitted by law.
 - **(e)** As soon as practicable after October 17, 1986 , the Administrator shall promulgate regulations describing criteria and parameters for the statement of need under subsection 1 1 So in original. Probably should be “subsections”. (a) and (c) and the confidentiality agreement under subsection (d).
+
+## Source Credit
+
+*([Pub. L. 99–499, title III, § 323](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1750](https://www.govinfo.gov/link/statute/100/1750).)*

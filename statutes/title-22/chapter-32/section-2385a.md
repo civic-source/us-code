@@ -3,9 +3,10 @@ title: "Section 2385a - Unified personnel system"
 usc_title: 22
 usc_section: "2385a"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2385a"
-generated_at: "2026-03-30T02:55:05.363Z"
+generated_at: "2026-11-23T21:25:58.484Z"
+status: "active"
 ---
 
 # § 2385a. Unified personnel system
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.363Z"
   - **(1)** may not become effective until after the end of the 90-day period beginning on the date of such submission in order to provide the appropriate committees of the Congress an opportunity to review them; and
   - **(2)** shall not become effective then if, during such 90-day period, either House of Congress adopts a resolution stating in substance that it disapproves the personnel system proposed to be established by the regulations.
 - **(c)** Regulations which take effect pursuant to this section shall have the force and effect of law and shall apply with respect to the personnel of the agency primarily responsible for administering part I of the Foreign Assistance Act of 1961 [ 22 U.S.C. 2151 et seq.], notwithstanding and 1 1 So in original. Probably should be “any”. inconsistent provision of law unless that provision of law specifically states that it supersedes regulations issued under this section.
+
+## Source Credit
+
+*([Pub. L. 95–424, title IV, § 401](https://www.govinfo.gov/link/plaw/95/public/424), Oct. 6, 1978, [92 Stat. 956](https://www.govinfo.gov/link/statute/92/956); [Pub. L. 96–53, title V, § 503(a)](https://www.govinfo.gov/link/plaw/96/public/53), Aug. 14, 1979, [93 Stat. 378](https://www.govinfo.gov/link/statute/93/378).)*

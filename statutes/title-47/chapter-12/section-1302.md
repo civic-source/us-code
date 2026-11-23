@@ -3,9 +3,10 @@ title: "Section 1302 - Advanced telecommunications incentives"
 usc_title: 47
 usc_section: "1302"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1302"
-generated_at: "2026-03-30T02:56:24.530Z"
+generated_at: "2026-11-23T21:26:36.089Z"
+status: "active"
 ---
 
 # § 1302. Advanced telecommunications incentives
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:24.530Z"
 - **(d)** For purposes of this subsection: 2 2 So in original. Probably should be “section:”.
   - **(1)** The term “advanced telecommunications capability” is defined, without regard to any transmission media or technology, as high-speed, switched, broadband telecommunications capability that enables users to originate and receive high-quality voice, data, graphics, and video telecommunications using any technology.
   - **(2)** The term “elementary and secondary schools” means elementary and secondary schools, as defined in section 7801 of title 20 .
+
+## Source Credit
+
+*([Pub. L. 104–104, title VII, § 706](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 153](https://www.govinfo.gov/link/statute/110/153); [Pub. L. 107–110, title X, § 1076(gg)](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2093](https://www.govinfo.gov/link/statute/115/2093); [Pub. L. 110–385, title I, § 103(a)](https://www.govinfo.gov/link/plaw/110/public/385), Oct. 10, 2008, [122 Stat. 4096](https://www.govinfo.gov/link/statute/122/4096); [Pub. L. 114–95, title IX, § 9215(ttt)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2190](https://www.govinfo.gov/link/statute/129/2190).)*

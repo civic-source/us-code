@@ -3,9 +3,10 @@ title: "Section 1022 - Economic Report of President; coverage; supplementary rep
 usc_title: 15
 usc_section: "1022"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1022"
-generated_at: "2026-03-30T02:54:08.123Z"
+generated_at: "2026-11-23T21:25:39.773Z"
+status: "active"
 ---
 
 # § 1022. Economic Report of President; coverage; supplementary reports; reference to Congressional joint committee; percentage rate of unemployment; definitions
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.123Z"
 - **(c)** The Economic Report, and all supplementary reports transmitted under subsection (b), shall, when transmitted to Congress, be referred to the joint committee created by section 1024 of this title .
 - **(d)** For the purposes of the Full Employment and Balanced Growth Act of 1978 [ 15 U.S.C. 3101 et seq.] the percentage rate of unemployment as 1 1 So in original. Probably should be “is”. a percentage of the civilian labor force as set forth by the Bureau of Labor Statistics in the Department of Labor as computed under the procedures in effect as of October 27, 1978 .
 - **(e)** For the purpose of the Full Employment and Balanced Growth Act of 1978 [ 15 U.S.C. 3101 et seq.], the terms “inflation”, “prices”, and “reasonable price stability” refer to the rate of change or level of the consumer price index as set forth by the Bureau of Labor Statistics, United States Department of Labor.
+
+## Source Credit
+
+*(Feb. 20, 1946, ch. 33, § 3, [60 Stat. 24](https://www.govinfo.gov/link/statute/60/24); Aug. 2, 1946, ch. 753, title II, § 226, [60 Stat. 838](https://www.govinfo.gov/link/statute/60/838); June 18, 1956, ch. 399, § 1, [70 Stat. 289](https://www.govinfo.gov/link/statute/70/289); [Pub. L. 95–523, title I, § 103](https://www.govinfo.gov/link/plaw/95/public/523), Oct. 27, 1978, [92 Stat. 1892](https://www.govinfo.gov/link/statute/92/1892); [Pub. L. 96–10, § 6(d)](https://www.govinfo.gov/link/plaw/96/public/10), May 10, 1979, [93 Stat. 24](https://www.govinfo.gov/link/statute/93/24); [Pub. L. 101–508, title XIII, § 13112(e)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–609](https://www.govinfo.gov/link/statute/104/1388).)*

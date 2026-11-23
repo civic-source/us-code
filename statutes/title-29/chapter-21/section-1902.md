@@ -3,9 +3,10 @@ title: "Section 1902 - Continued operation of Center"
 usc_title: 29
 usc_section: "1902"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1902"
-generated_at: "2026-03-30T02:55:18.741Z"
+generated_at: "2026-11-23T21:26:02.311Z"
+status: "active"
 ---
 
 # § 1902. Continued operation of Center
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:18.741Z"
   - **(2)** train family members of individuals who are deaf-blind at the Center or anywhere else in the United States, in order to assist family members in providing and obtaining appropriate services for the individual who is deaf-blind;
   - **(3)** train professionals and allied personnel at the Center or anywhere else in the United States to provide services to individuals who are deaf-blind; and
   - **(4)** conduct applied research, development programs, and demonstrations with respect to communication techniques, teaching methods, aids and devices, and delivery of services.
+
+## Source Credit
+
+*([Pub. L. 98–221, title II, § 203](https://www.govinfo.gov/link/plaw/98/public/221), Feb. 22, 1984, [98 Stat. 33](https://www.govinfo.gov/link/statute/98/33); [Pub. L. 102–569, title IX](https://www.govinfo.gov/link/plaw/102/public/569), §§ 902, 908, Oct. 29, 1992, [106 Stat. 4482](https://www.govinfo.gov/link/statute/106/4482), 4485.)*

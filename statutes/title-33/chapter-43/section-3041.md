@@ -3,9 +3,10 @@ title: "Section 3041 - Involuntary retirement or separation"
 usc_title: 33
 usc_section: "3041"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3041"
-generated_at: "2026-03-30T02:55:41.137Z"
+generated_at: "2026-11-23T21:26:11.476Z"
+status: "active"
 ---
 
 # § 3041. Involuntary retirement or separation
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:41.137Z"
   - **(1)** If the Secretary determines that the evaluation of the medical condition of an officer requires hospitalization or medical observation that cannot be completed with confidence in a manner consistent with the officer’s well-being before the date on which the officer would otherwise be required to retire or be separated under this section, the Secretary may defer the retirement or separation of the officer.
   - **(2)** A deferment may only be made with the written consent of the officer involved. If the officer does not provide written consent to the deferment, the officer shall be retired or separated as scheduled.
   - **(3)** A deferment of retirement or separation under this subsection may not extend for more than 30 days after completion of the evaluation requiring hospitalization or medical observation.
+
+## Source Credit
+
+*([Pub. L. 107–372, title II, § 241](https://www.govinfo.gov/link/plaw/107/public/372), Dec. 19, 2002, [116 Stat. 3088](https://www.govinfo.gov/link/statute/116/3088); [Pub. L. 116–259, title IV, § 401](https://www.govinfo.gov/link/plaw/116/public/259), Dec. 23, 2020, [134 Stat. 1177](https://www.govinfo.gov/link/statute/134/1177); [Pub. L. 117–263, div. K, title CXVII, § 11705(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4157](https://www.govinfo.gov/link/statute/136/4157); [Pub. L. 119–60, div. H, title LXXXIV, § 8406](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1913](https://www.govinfo.gov/link/statute/139/1913).)*

@@ -3,9 +3,10 @@ title: "Section 6206 - Publication requirements applicable to antitrust mutual a
 usc_title: 15
 usc_section: "6206"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6206"
-generated_at: "2026-03-30T02:54:08.209Z"
+generated_at: "2026-11-23T21:25:40.019Z"
+status: "active"
 ---
 
 # § 6206. Publication requirements applicable to antitrust mutual assistance agreements
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:08.209Z"
     - **(A)** citations to the locations in the Federal Register at which the text of the antitrust mutual assistance agreement that is so amended, and of any previous amendments to such agreement, are published, and
     - **(B)** a description of the manner in which a copy of the antitrust mutual assistance agreement, as so amended, may be obtained from the Attorney General and the Commission.
 - **(d)** An antitrust mutual assistance agreement, or an agreement that makes an amendment to an antitrust mutual assistance agreement, with respect to which publication does not occur in accordance with subsections (a), (b), and (c) shall not be considered to be in effect under this chapter.
+
+## Source Credit
+
+*([Pub. L. 103–438, § 7](https://www.govinfo.gov/link/plaw/103/public/438), Nov. 2, 1994, [108 Stat. 4600](https://www.govinfo.gov/link/statute/108/4600).)*

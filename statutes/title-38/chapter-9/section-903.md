@@ -3,9 +3,10 @@ title: "Section 903 - Uniform allowance"
 usc_title: 38
 usc_section: "903"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 903"
-generated_at: "2026-03-30T02:55:53.476Z"
+generated_at: "2026-11-23T21:26:16.565Z"
+status: "active"
 ---
 
 # § 903. Uniform allowance
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:53.476Z"
 - **(c)** The allowance established under subsection (b) shall be paid at the beginning of a Department police officer’s employment for those appointed on or after October 1, 2010 . In the case of any other Department police officer, an allowance in the amount established under subsection (b) shall be paid upon the request of the officer.
 - **(d)** A police officer who resigns as a police officer less than one year after receiving an allowance in an amount established under this section shall repay to the Department a pro rata share of the amount paid, based on the number of months the officer was actually employed as such an officer during the twelve-month period following the date on which such officer began such employment or the date on which the officer submitted a request for such an allowance, as the case may be.
 - **(e)** An allowance may not be paid to a Department police officer under this section and under section 5901 of title 5 for the same fiscal year.
+
+## Source Credit
+
+*(Added [Pub. L. 102–83, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 398](https://www.govinfo.gov/link/statute/105/398); amended [Pub. L. 111–163, title X, § 1002](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1182](https://www.govinfo.gov/link/statute/124/1182).)*

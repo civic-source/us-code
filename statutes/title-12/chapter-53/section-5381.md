@@ -3,9 +3,10 @@ title: "Section 5381 - Definitions"
 usc_title: 12
 usc_section: "5381"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5381"
-generated_at: "2026-03-30T02:53:53.532Z"
+generated_at: "2026-11-23T21:25:37.247Z"
+status: "active"
 ---
 
 # § 5381. Definitions
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:53:53.532Z"
   - **(15)** The term “nonbank financial company supervised by the Board of Governors” has the same meaning as in section 5311(a)(4)(D) of this title .
   - **(16)** The term “SIPC” means the Securities Investor Protection Corporation.
 - **(b)** For purpose of the definition of the term “financial company” under subsection (a)(11), no company shall be deemed to be predominantly engaged in activities that the Board of Governors has determined are financial in nature or incidental thereto for purposes of section 1843(k) of this title , if the consolidated revenues of such company from such activities constitute less than 85 percent of the total consolidated revenues of such company, as the Corporation, in consultation with the Secretary, shall establish by regulation. In determining whether a company is a financial company under this subchapter, the consolidated revenues derived from the ownership or control of a depository institution shall be included.
+
+## Source Credit
+
+*([Pub. L. 111–203, title II, § 201](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1442](https://www.govinfo.gov/link/statute/124/1442).)*

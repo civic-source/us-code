@@ -3,9 +3,10 @@ title: "Section 14303 - Consolidation, merger, and acquisition of control of mot
 usc_title: 49
 usc_section: "14303"
 chapter: 143
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 14303"
-generated_at: "2026-03-30T02:56:19.331Z"
+generated_at: "2026-11-23T21:26:40.689Z"
+status: "active"
 ---
 
 # § 14303. Consolidation, merger, and acquisition of control of motor carriers of passengers
@@ -28,3 +29,27 @@ generated_at: "2026-03-30T02:56:19.331Z"
 - **(h)** When the Board approves and authorizes a transaction under this section in which a person not a carrier providing transportation subject to jurisdiction under subchapter I of chapter 135 acquires control of at least 1 carrier subject to such jurisdiction, the person is subject, as a carrier, to the following provisions of this title that apply to the carrier being acquired by that person, to the extent specified by the Board: sections 504(f), 14121–14123, 14901(a), and 14907.
 - **(i)** Pending determination of an application filed under this section, the Board may approve, for a period of not more than 180 days, the operation of the properties sought to be acquired by the person proposing in the application to acquire those properties, when it appears that failure to do so may result in destruction of or injury to those properties or substantially interfere with their future usefulness in providing adequate and continuous service to the public. Transportation provided by a motor carrier under a grant of approval under this subsection is subject to this part.
 - **(j)** When cause exists, the Board may issue appropriate orders supplemental to an order made in a proceeding under this section.
+
+Approval Required
+
+Standard for Approval
+
+Determination of Completeness of Application
+
+Comments
+
+Deadlines
+
+Effect of Approval
+
+Limitation on Applicability
+
+Applicability of Certain Provisions
+
+Interim Approval
+
+Supplemental Orders
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 897](https://www.govinfo.gov/link/statute/109/897).)*

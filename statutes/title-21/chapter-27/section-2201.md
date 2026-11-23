@@ -3,9 +3,10 @@ title: "Section 2201 - Performance standards"
 usc_title: 21
 usc_section: "2201"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 2201"
-generated_at: "2026-03-30T02:54:54.308Z"
+generated_at: "2026-11-23T21:25:56.298Z"
+status: "active"
 ---
 
 # § 2201. Performance standards
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:54.308Z"
   - **(3)** shall not be written to be facility-specific.
 - **(c)** The Secretary shall coordinate with the Secretary of Agriculture to avoid issuing duplicative guidance on the same contaminants.
 - **(d)** The Secretary shall periodically review and revise, as appropriate, the guidance documents, including guidance documents regarding action levels, or regulations promulgated under this section.
+
+## Source Credit
+
+*([Pub. L. 111–353, title I, § 104](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3899](https://www.govinfo.gov/link/statute/124/3899).)*

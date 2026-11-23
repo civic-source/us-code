@@ -3,9 +3,10 @@ title: "Section 1426 - Powers, duties, and responsibilities of the First Respond
 usc_title: 47
 usc_section: "1426"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1426"
-generated_at: "2026-03-30T02:56:24.534Z"
+generated_at: "2026-11-23T21:26:36.098Z"
+status: "active"
 ---
 
 # § 1426. Powers, duties, and responsibilities of the First Responder Network Authority
@@ -83,3 +84,7 @@ generated_at: "2026-03-30T02:56:24.534Z"
     - **(B)** NTIA to make grants to States under section 1442(e)(3)(C)(iii)(I) of this title .
 - **(f)** The authority of the First Responder Network Authority shall terminate on the date that is 15 years after February 22, 2012 .
 - **(g)** Not later than 10 years after February 22, 2012 , the Comptroller General of the United States shall submit to Congress a report on what action Congress should take regarding the 15-year sunset of authority under subsection (f).
+
+## Source Credit
+
+*([Pub. L. 112–96, title VI, § 6206](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 211](https://www.govinfo.gov/link/statute/126/211).)*

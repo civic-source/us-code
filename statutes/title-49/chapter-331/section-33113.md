@@ -3,9 +3,10 @@ title: "Section 33113 - Theft reports"
 usc_title: 49
 usc_section: "33113"
 chapter: 331
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 33113"
-generated_at: "2026-03-30T02:56:19.368Z"
+generated_at: "2026-11-23T21:26:40.818Z"
+status: "active"
 ---
 
 # § 33113. Theft reports
@@ -63,3 +64,40 @@ generated_at: "2026-03-30T02:56:19.368Z"
     - **(A)** cover a period of at least 4 years after the standards required by this chapter are prescribed; and
     - **(B)** reflect any information, as appropriate, from the report under subsection (a) of this section, updated from the date of the report.
   - **(4)** At least 90 days before submitting each report to Congress, the Secretary shall publish a proposed report for public review and an opportunity of at least 45 days for written comment. The Secretary shall consider those comments in preparing the report to be submitted and include a summary of the comments with the submitted report.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 33113 | 15:2034. | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 617; added Oct. 25, 1984 , Pub. L. 98–547, § 101(a) , 98 Stat. 2765 ; Oct. 25, 1992 , Pub. L. 102–519, § 306(a) , (e), 106 Stat. 3397 , 3400. |
+
+
+Truck, Multipurpose Passenger Vehicle, and Motorcycle Report
+
+Motor Vehicle Report
+
+Bases of Reports
+
+Historical and Revision Notes
+
+33113
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Oct. 25, 1984
+
+Pub. L. 98–547, § 101(a)
+
+98 Stat. 2765
+
+Oct. 25, 1992
+
+Pub. L. 102–519, § 306(a)
+
+106 Stat. 3397
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1089](https://www.govinfo.gov/link/statute/108/1089).)*

@@ -3,9 +3,10 @@ title: "Section 17384a - Smart grid modeling, visualization, architecture, and c
 usc_title: 42
 usc_section: "17384a"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17384a"
-generated_at: "2026-03-30T02:56:11.507Z"
+generated_at: "2026-11-23T21:26:33.792Z"
+status: "active"
 ---
 
 # § 17384a. Smart grid modeling, visualization, architecture, and controls
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:56:11.507Z"
   - **(2)** develop voluntary standards for data taxonomies and communication protocols in coordination with public and private sector stakeholders.
 - **(i)** None of the activities authorized in this section shall require private entities to share information or data with the Secretary.
 - **(j)** In this section, the term “resilience” means the ability to withstand and reduce the magnitude or duration of disruptive events, which includes the capability to anticipate, absorb, adapt to, or rapidly recover from such an event, including from deliberate attacks, accidents, and naturally occurring threats or incidents.
+
+## Source Credit
+
+*([Pub. L. 110–140, title XIII, § 1304A](https://www.govinfo.gov/link/plaw/110/public/140), as added [Pub. L. 116–260, div. Z, title VIII, § 8002](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2579](https://www.govinfo.gov/link/statute/134/2579).)*

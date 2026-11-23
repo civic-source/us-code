@@ -3,9 +3,10 @@ title: "Section 200401 - Definitions"
 usc_title: 54
 usc_section: "200401"
 chapter: 2004
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "54 U.S.C. § 200401"
-generated_at: "2026-03-30T02:56:28.421Z"
+generated_at: "2026-11-23T21:26:42.793Z"
+status: "active"
 ---
 
 # § 200401. Definitions
@@ -23,3 +24,15 @@ In this chapter:
     - **(E)** the Bureau of Indian Education.
   - **(3)** The term “Fund” means the National Parks and Public Land Legacy Restoration Fund established by section 200402(a).
   - **(4)** The term “project” means any activity to reduce or eliminate deferred maintenance of an asset, which may include resolving directly related infrastructure deficiencies of the asset that would not by itself be classified as deferred maintenance.
+
+Asset
+
+Covered agency
+
+Fund
+
+Project
+
+## Source Credit
+
+*(Added [Pub. L. 116–152, § 2(a)](https://www.govinfo.gov/link/plaw/116/public/152), Aug. 4, 2020, [134 Stat. 682](https://www.govinfo.gov/link/statute/134/682).)*

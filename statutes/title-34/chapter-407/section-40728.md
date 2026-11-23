@@ -3,9 +3,10 @@ title: "Section 40728 - Establishment of best practices for evidence retention"
 usc_title: 34
 usc_section: "40728"
 chapter: 407
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 40728"
-generated_at: "2026-03-30T02:55:33.311Z"
+generated_at: "2026-11-23T21:26:09.839Z"
+status: "active"
 ---
 
 # § 40728. Establishment of best practices for evidence retention
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:33.311Z"
   - **(2)** assist State, local, and tribal governments in adopting and implementing the best practices established under paragraph (1).
 - **(b)** Not later than 1 year after December 16, 2016 , the Director of the National Institute of Justice shall publish the best practices established under subsection (a)(1).
 - **(c)** Nothing in this section shall be construed to require or obligate compliance with the best practices established under subsection (a)(1).
+
+## Source Credit
+
+*([Pub. L. 108–405, title IV, § 414](https://www.govinfo.gov/link/plaw/108/public/405), as added [Pub. L. 114–324, § 13(a)](https://www.govinfo.gov/link/plaw/114/public/324), Dec. 16, 2016, [130 Stat. 1958](https://www.govinfo.gov/link/statute/130/1958).)*

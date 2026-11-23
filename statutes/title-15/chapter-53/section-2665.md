@@ -3,9 +3,10 @@ title: "Section 2665 - Technical assistance to States for radon programs"
 usc_title: 15
 usc_section: "2665"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2665"
-generated_at: "2026-03-30T02:54:08.180Z"
+generated_at: "2026-11-23T21:25:39.949Z"
+status: "active"
 ---
 
 # § 2665. Technical assistance to States for radon programs
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:54:08.180Z"
   - **(1)** There is authorized to be appropriated for the purposes of carrying out sections 2663, 2664, and 2665 of this title an amount not to exceed $3,000,000 for each of fiscal years 1989, 1990, and 1991.
   - **(2)** No amount appropriated under this subsection may be used by the Environmental Protection Agency to administer the grant program under section 2666 of this title .
   - **(3)** No amount appropriated under this subsection may be used to cover the costs of the proficiency rating program under subsection (a)(2).
+
+## Source Credit
+
+*([Pub. L. 94–469, title III, § 305](https://www.govinfo.gov/link/plaw/94/public/469), as added [Pub. L. 100–551, § 1(a)](https://www.govinfo.gov/link/plaw/100/public/551), Oct. 28, 1988, [102 Stat. 2756](https://www.govinfo.gov/link/statute/102/2756); amended [Pub. L. 101–508, title X, § 10202](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–393](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 104–66, title II, § 2021](https://www.govinfo.gov/link/plaw/104/public/66) (l), Dec. 21, 1995, [109 Stat. 728](https://www.govinfo.gov/link/statute/109/728).)*

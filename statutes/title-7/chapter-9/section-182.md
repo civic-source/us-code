@@ -3,9 +3,10 @@ title: "Section 182 - Definitions"
 usc_title: 7
 usc_section: "182"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 182"
-generated_at: "2026-03-30T02:53:42.276Z"
+generated_at: "2026-11-23T21:25:27.924Z"
+status: "active"
 ---
 
 # § 182. Definitions
@@ -28,3 +29,13 @@ When used in this chapter—
     - **(B)** the swine (including products from the swine) obtained by the person is sold or shipped in commerce.
   - **(13)** The term “swine production contract” means any growout contract or other arrangement under which a swine production contract grower raises and cares for the swine in accordance with the instructions of another person.
   - **(14)** The term “swine production contract grower” means any person engaged in the business of raising and caring for swine in accordance with the instructions of another person.
+
+Swine contractor
+
+Swine production contract
+
+Swine production contract grower
+
+## Source Credit
+
+*(Aug. 15, 1921, ch. 64, title I, § 2(a), [42 Stat. 159](https://www.govinfo.gov/link/statute/42/159); [Pub. L. 94–410, § 3(c)](https://www.govinfo.gov/link/plaw/94/public/410), Sept. 13, 1976, [90 Stat. 1249](https://www.govinfo.gov/link/statute/90/1249); [Pub. L. 100–173, § 2](https://www.govinfo.gov/link/plaw/100/public/173), Nov. 23, 1987, [101 Stat. 917](https://www.govinfo.gov/link/statute/101/917); [Pub. L. 107–171, title X, § 10502(a)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 509](https://www.govinfo.gov/link/statute/116/509).)*

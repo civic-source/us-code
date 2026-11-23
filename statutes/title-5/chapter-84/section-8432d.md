@@ -3,9 +3,10 @@ title: "Section 8432d - Qualified Roth contribution program"
 usc_title: 5
 usc_section: "8432d"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8432d"
-generated_at: "2026-03-30T02:52:56.058Z"
+generated_at: "2026-11-23T21:25:23.423Z"
+status: "active"
 ---
 
 # § 8432d. Qualified Roth contribution program
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:52:56.058Z"
     - **(B)** by any individual, not described in subparagraph (A), who is otherwise eligible to make elective deferrals under the Thrift Savings Plan;
   - **(2)** any provisions which may, as a result of enactment of this section, be necessary in order to clarify the meaning of any reference to an “account” made in section 8432(f), 8433, 8434(d), 8435, 8437, or any other provision of law; and
   - **(3)** any other provisions which may be necessary to carry out this section.
+
+Definitions
+
+Authority To Establish
+
+Required Provisions
+
+## Source Credit
+
+*(Added [Pub. L. 111–31, div. B, title I, § 103(a)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1853](https://www.govinfo.gov/link/statute/123/1853).)*

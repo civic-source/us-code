@@ -3,9 +3,10 @@ title: "Section 9804 - Selection of priority countries and regions"
 usc_title: 22
 usc_section: "9804"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9804"
-generated_at: "2026-03-30T02:55:05.473Z"
+generated_at: "2026-11-23T21:25:58.788Z"
+status: "active"
 ---
 
 # § 9804. Selection of priority countries and regions
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.473Z"
       - **(ii)** the likelihood that United States assistance under the Global Fragility Strategy would measurably help to reduce fragility, prevent the spread of extremism and violence, and stabilize conflict-affected areas in each such country or region; and
   - **(2)** in a manner that ensures that not fewer than five countries or regions are selected, including not fewer than two in which the priority will be preventing violent conflict and fragility, rather than stabilizing ongoing conflicts.
 - **(b)** Prior to finalization of the selection of priority countries and regions under subsection (a), representatives from the Department of State, USAID, the Department of Defense, and other relevant Federal departments and agencies, as necessary and appropriate, shall brief the appropriate congressional committees on the countries and regions being considered and shall consider congressional input on such prioritization.
+
+## Source Credit
+
+*([Pub. L. 116–94, div. J, title V, § 505](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3063](https://www.govinfo.gov/link/statute/133/3063).)*

@@ -3,9 +3,10 @@ title: "Section 10301 - United States international cyberspace policy"
 usc_title: 22
 usc_section: "10301"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10301"
-generated_at: "2026-03-30T02:55:05.476Z"
+generated_at: "2026-11-23T21:25:58.795Z"
+status: "active"
 ---
 
 # § 10301. United States international cyberspace policy
@@ -35,3 +36,49 @@ generated_at: "2026-03-30T02:55:05.476Z"
     - **(G)** not to restrict cross-border data flows or require local storage or processing of data; and
     - **(H)** to protect the exercise of human rights and fundamental freedoms on the internet, while recognizing that the human rights that people have offline also need to be protected online; and
   - **(6)** to advance, encourage, and support the development and adoption of internationally recognized technical standards and best practices.
+
+In General
+
+Consistency With Federal Cybersecurity Regulations
+
+Briefing
+
+Appropriate Congressional Defined
+
+Definitions
+
+Appropriate congressional committees
+
+Technology
+
+Technology transformation project.—
+
+In general
+
+Exclusions
+
+Annual Report.—
+
+In general
+
+Elements
+
+“(aa) an estimate of the percentage of eligible end-users actively using the system within the first three, six, and 12 months of deployment;
+
+“(bb) the proportion of staff trained to use the system;
+
+“(cc) the frequency and duration of use, disaggregated by bureau or geographic region if relevant;
+
+“(dd) summarized user feedback, including pain points and satisfaction ratings; and
+
+“(ee) a description of the status of deprecation or reduction in use of legacy systems, if applicable.
+
+Public summary
+
+Government Accountability Office Evaluation
+
+“It is the policy of the United States—
+
+## Source Credit
+
+*([Pub. L. 117–263, div. I, title XCV, § 9501](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3897](https://www.govinfo.gov/link/statute/136/3897).)*

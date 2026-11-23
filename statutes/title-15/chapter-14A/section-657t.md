@@ -3,9 +3,10 @@ title: "Section 657t - Office of Credit Risk Management"
 usc_title: 15
 usc_section: "657t"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 657t"
-generated_at: "2026-03-30T02:54:08.108Z"
+generated_at: "2026-11-23T21:25:39.706Z"
+status: "active"
 ---
 
 # § 657t. Office of Credit Risk Management
@@ -58,3 +59,11 @@ generated_at: "2026-03-30T02:54:08.108Z"
   - **(1)** include salaries and expenses of the Office and the charge for the lender oversight fees;
   - **(2)** be submitted at or about the time of the budget submission by the President under section 1105(a) of title 31 ; and
   - **(3)** be maintained in an indexed form and made available for public review for a period of not less than 5 years beginning on the date of submission and justification.
+
+In General
+
+No New Waiver Authority
+
+## Source Credit
+
+*([Pub. L. 85–536, § 2[47]](https://www.govinfo.gov/link/plaw/85/public/536), as added and amended [Pub. L. 115–189, § 3(a)(2)](https://www.govinfo.gov/link/plaw/115/public/189), (b), June 21, 2018, [132 Stat. 1492](https://www.govinfo.gov/link/statute/132/1492), 1495.)*

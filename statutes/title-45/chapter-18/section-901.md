@@ -3,9 +3,10 @@ title: "Section 901 - Congressional findings"
 usc_title: 45
 usc_section: "901"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 901"
-generated_at: "2026-03-30T02:55:56.558Z"
+generated_at: "2026-11-23T21:26:19.233Z"
+status: "active"
 ---
 
 # § 901. Congressional findings
@@ -20,3 +21,9 @@ generated_at: "2026-03-30T02:55:56.558Z"
   - **(7)** cessation of such services is imminent; and
   - **(8)** there is no other practicable means of obtaining funds to meet payroll and other expenses necessary for continuation of services and reorganization of the Milwaukee Railroad.
 - **(b)** The Congress declares that emergency measures set forth in this chapter must be taken to restructure the Milwaukee Railroad and to avoid the potential unemployment and damage to the economy of the region and of the Nation which a cessation of essential services by the Milwaukee Railroad would otherwise cause.
+
+“The Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 96–101, § 2](https://www.govinfo.gov/link/plaw/96/public/101), Nov. 4, 1979, [93 Stat. 736](https://www.govinfo.gov/link/statute/93/736).)*

@@ -3,9 +3,10 @@ title: "Section 45J - Credit for production from advanced nuclear power faciliti
 usc_title: 26
 usc_section: "45J"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 45J"
-generated_at: "2026-03-30T02:55:27.602Z"
+generated_at: "2026-11-23T21:26:05.935Z"
+status: "active"
 ---
 
 # § 45J. Credit for production from advanced nuclear power facilities
@@ -68,3 +69,11 @@ generated_at: "2026-03-30T02:55:27.602Z"
     - **(B)** In the case of any credit (or portion thereof) with respect to which an election is made under paragraph (1), such credit shall be taken into account in the first taxable year of the eligible project partner ending with, or after, the qualified public entity’s taxable year with respect to which the credit was determined.
     - **(C)** For purposes of section 141(b)(1), any benefit derived by an eligible project partner in connection with an election under this subsection shall not be taken into account as a private business use.
 - **(f)** Rules similar to the rules of paragraphs (1), (3), (4), and (5) of section 45(e) shall apply for purposes of this section.
+
+Treatment of unutilized limitation amounts
+
+Transfer of credit by certain public entities
+
+## Source Credit
+
+*(Added [Pub. L. 109–58, title XIII, § 1306(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 997](https://www.govinfo.gov/link/statute/119/997); amended [Pub. L. 109–135, title IV, § 402(d)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2610](https://www.govinfo.gov/link/statute/119/2610); [Pub. L. 110–172, § 6(a)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2479](https://www.govinfo.gov/link/statute/121/2479); [Pub. L. 115–123, div. D, title I, § 40501(a)](https://www.govinfo.gov/link/plaw/115/public/123), (b)(1), Feb. 9, 2018, [132 Stat. 153](https://www.govinfo.gov/link/statute/132/153).)*

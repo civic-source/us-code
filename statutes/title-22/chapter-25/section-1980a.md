@@ -3,9 +3,10 @@ title: "Section 1980a - Reimbursement of owner for fee paid to navigate foreign 
 usc_title: 22
 usc_section: "1980a"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1980a"
-generated_at: "2026-03-30T02:55:05.341Z"
+generated_at: "2026-11-23T21:25:58.420Z"
+status: "active"
 ---
 
 # § 1980a. Reimbursement of owner for fee paid to navigate foreign waters if fee inconsistent with international law
@@ -19,3 +20,9 @@ generated_at: "2026-03-30T02:55:05.341Z"
 - **(d)** Such funds as may be necessary to meet the requirements of this section may be made available from the unobligated balance of previously appropriated funds remaining in the Fishermen’s Protective Fund established under section 1979 of this title . To the extent that requests for reimbursement under this section exceed such funds, there are authorized to be appropriated such sums as may be needed for reimbursements authorized under subsection (a), which shall be deposited in the Fishermen’s Protective Fund established under section 1979 of this title .
 - **(e)** The Secretary of State shall take such action as the Secretary deems appropriate to make and collect claims against the foreign country imposing such fee for any amounts reimbursed under this section.
 - **(f)** For purposes of this section, the term “owner” includes any charterer of a vessel of the United States.
+
+“The Congress finds that—
+
+## Source Credit
+
+*(Aug. 27, 1954, ch. 1018, § 11, as added [Pub. L. 104–43, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/104/public/43), Nov. 3, 1995, [109 Stat. 389](https://www.govinfo.gov/link/statute/109/389).)*

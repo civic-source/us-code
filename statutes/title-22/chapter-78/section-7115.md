@@ -3,9 +3,10 @@ title: "Section 7115 - Ensuring protection and confidentiality for survivors of 
 usc_title: 22
 usc_section: "7115"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7115"
-generated_at: "2026-03-30T02:55:05.438Z"
+generated_at: "2026-11-23T21:25:58.713Z"
+status: "active"
 ---
 
 # § 7115. Ensuring protection and confidentiality for survivors of human trafficking
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.438Z"
   - **(1)** that is funded by the Department of Justice;
   - **(2)** for which protections are in place in accordance with the requirements under part 22 of title 28, Code of Federal Regulations, or any successor thereto, and section 10231(a) of title 34 ; and
   - **(3)** for which a current privacy certificate is on file documenting how the researchers intend to fulfill the obligations under such part 22.
+
+## Source Credit
+
+*([Pub. L. 106–386, div. A, § 114](https://www.govinfo.gov/link/plaw/106/public/386), as added [Pub. L. 117–347, title I, § 103](https://www.govinfo.gov/link/plaw/117/public/347), Jan. 5, 2023, [136 Stat. 6200](https://www.govinfo.gov/link/statute/136/6200).)*

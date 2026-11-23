@@ -3,9 +3,10 @@ title: "Section 1191 - Preemption; State flexibility; construction"
 usc_title: 29
 usc_section: "1191"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1191"
-generated_at: "2026-03-30T02:55:18.726Z"
+generated_at: "2026-11-23T21:26:02.277Z"
+status: "active"
 ---
 
 # § 1191. Preemption; State flexibility; construction
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:18.726Z"
 - **(d)** For purposes of this section—
   - **(1)** The term “State law” includes all laws, decisions, rules, regulations, or other State action having the effect of law, of any State. A law of the United States applicable only to the District of Columbia shall be treated as a State law rather than a law of the United States.
   - **(2)** The term “State” includes a State, the Northern Mariana Islands, any political subdivisions of a State or such Islands, or any agency or instrumentality of either.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 731](https://www.govinfo.gov/link/plaw/93/public/406), formerly § 704, as added [Pub. L. 104–191, title I, § 101(a)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 1946](https://www.govinfo.gov/link/statute/110/1946); renumbered § 731 and amended [Pub. L. 104–204, title VI, § 603(a)(3)](https://www.govinfo.gov/link/plaw/104/public/204), (b)(1), Sept. 26, 1996, [110 Stat. 2935](https://www.govinfo.gov/link/statute/110/2935), 2937.)*

@@ -3,9 +3,10 @@ title: "Section 5324 - Statement of policy"
 usc_title: 22
 usc_section: "5324"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5324"
-generated_at: "2026-03-30T02:55:05.416Z"
+generated_at: "2026-11-23T21:25:58.657Z"
+status: "active"
 ---
 
 # § 5324. Statement of policy
@@ -16,3 +17,7 @@ It is the policy of the United States that—
   - **(2)** it is necessary to broaden the range of options in dealing with the debt problem to include improved mechanisms to restructure existing debt;
   - **(3)** active consideration of a new multilateral authority to improve the management of the debt problem and to share the burdens of adjustment more equitably must be undertaken; and
   - **(4)** countries with strong current account surpluses bear a major responsibility for providing the financial resources needed for growth in the developing world.
+
+## Source Credit
+
+*([Pub. L. 100–418, title III, § 3104](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1376](https://www.govinfo.gov/link/statute/102/1376).)*

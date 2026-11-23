@@ -3,9 +3,10 @@ title: "Section 70507 - Forfeitures"
 usc_title: 46
 usc_section: "70507"
 chapter: 705
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 70507"
-generated_at: "2026-03-30T02:56:15.588Z"
+generated_at: "2026-11-23T21:26:37.365Z"
+status: "active"
 ---
 
 # § 70507. Forfeitures
@@ -28,3 +29,44 @@ generated_at: "2026-03-30T02:56:15.588Z"
   - **(7)** The presence of controlled substance residue on the vessel, on an item aboard the vessel, or on an individual aboard the vessel, of a quantity or other nature that reasonably indicates manufacturing or distribution activity.
   - **(8)** The use of petroleum products or other substances on the vessel to foil the detection of controlled substance residue.
   - **(9)** The presence of a controlled substance in the water in the vicinity of the vessel, where given the currents, weather conditions, and course and speed of the vessel, the quantity or other nature is such that it reasonably indicates manufacturing or distribution activity.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 70507 | 46 App.:1904. | Pub. L. 96–350, § 4 , Sept. 15, 1980 , 94 Stat. 1160 ; Pub. L. 99–570, title III, § 3202 , Oct. 27, 1986 , 100 Stat. 3207–97 ; Pub. L. 99–640, § 17 , Nov. 10, 1986 , 100 Stat. 3554 ; Pub. L. 107–295, title IV, § 418(b) , Nov. 25, 2002 , 116 Stat. 2123 . |
+
+
+In General
+
+Prima Facie Evidence of Violation
+
+Historical and Revision Notes
+
+70507
+
+Pub. L. 96–350, § 4
+
+Sept. 15, 1980
+
+94 Stat. 1160
+
+Pub. L. 99–570, title III, § 3202
+
+Oct. 27, 1986
+
+100 Stat. 3207–97
+
+Pub. L. 99–640, § 17
+
+Nov. 10, 1986
+
+100 Stat. 3554
+
+Pub. L. 107–295, title IV, § 418(b)
+
+Nov. 25, 2002
+
+116 Stat. 2123
+
+## Source Credit
+
+*([Pub. L. 109–304, § 10(2)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1688](https://www.govinfo.gov/link/statute/120/1688); [Pub. L. 114–120, title III, § 314(d)](https://www.govinfo.gov/link/plaw/114/public/120), Feb. 8, 2016, [130 Stat. 59](https://www.govinfo.gov/link/statute/130/59).)*

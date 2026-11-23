@@ -3,9 +3,10 @@ title: "Section 2218 - National Defense Sealift Fund"
 usc_title: 10
 usc_section: "2218"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2218"
-generated_at: "2026-03-30T02:53:38.148Z"
+generated_at: "2026-11-23T21:25:32.574Z"
+status: "active"
 ---
 
 # § 2218. National Defense Sealift Fund
@@ -88,3 +89,31 @@ generated_at: "2026-03-30T02:53:38.148Z"
     - **(B)** a national defense reserve fleet vessel, including a vessel in the Ready Reserve Force maintained under section 57100 of title 46 .
   - **(4)** The term “head of an agency” has the meaning given that term in section 3004 of this title .
   - **(5)** The term “Maritime Security Fleet” means the fleet established under section 53102(a) of title 46 .
+
+Establishment
+
+Administration of Fund
+
+Fund Purposes
+
+Deposits
+
+Acceptance of Support
+
+Limitations
+
+Expiration of Funds After
+
+Years
+
+Budget Requests
+
+Title or Management of Vessels
+
+Contracts for Incorporation of Defense Features in Commercial Vessels
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 102–484, div. A, title X, § 1024(a)(1)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2486](https://www.govinfo.gov/link/statute/106/2486); amended [Pub. L. 102–396, title V](https://www.govinfo.gov/link/plaw/102/public/396), Oct. 6, 1992, [106 Stat. 1896](https://www.govinfo.gov/link/statute/106/1896); [Pub. L. 104–106, div. A, title X, § 1014(a)](https://www.govinfo.gov/link/plaw/104/public/106), title XV, § 1502(a)(15), Feb. 10, 1996, [110 Stat. 423](https://www.govinfo.gov/link/statute/110/423), 503; [Pub. L. 106–65, div. A, title X](https://www.govinfo.gov/link/plaw/106/public/65), §§ 1014(b), 1015, 1067(1), Oct. 5, 1999, [113 Stat. 742](https://www.govinfo.gov/link/statute/113/742), 743, 774; [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1011], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–251; [Pub. L. 107–107, div. A, title X, § 1048(e)(9)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1228](https://www.govinfo.gov/link/statute/115/1228); [Pub. L. 108–136, div. A, title X, § 1043(b)(9)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1611](https://www.govinfo.gov/link/statute/117/1611); [Pub. L. 109–163, div. A, title X, § 1018(d)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3426](https://www.govinfo.gov/link/statute/119/3426); [Pub. L. 109–304, § 17(a)(2)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1706](https://www.govinfo.gov/link/statute/120/1706); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title XIV, § 1407, Oct. 14, 2008, [122 Stat. 4647](https://www.govinfo.gov/link/statute/122/4647); [Pub. L. 114–328, div. A, title X, § 1081(b)(5)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2419](https://www.govinfo.gov/link/statute/130/2419); [Pub. L. 115–91, div. A, title X, § 1021(a)](https://www.govinfo.gov/link/plaw/115/public/91) –(c), div. C, title XXXV, § 3502(b)(1), Dec. 12, 2017, [131 Stat. 1546](https://www.govinfo.gov/link/statute/131/1546), 1547, 1910; [Pub. L. 115–232, div. A, title VIII, § 809(a)](https://www.govinfo.gov/link/plaw/115/public/232), title X, §§ 1012, 1013, Aug. 13, 2018, [132 Stat. 1840](https://www.govinfo.gov/link/statute/132/1840), 1947, 1948; [Pub. L. 116–92, div. A, title X, § 1031(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1579](https://www.govinfo.gov/link/statute/133/1579); [Pub. L. 116–283, div. A, title X, § 1022](https://www.govinfo.gov/link/plaw/116/public/283), title XVIII, § 1806(e)(1)(A), Jan. 1, 2021, [134 Stat. 3840](https://www.govinfo.gov/link/statute/134/3840), 4155; [Pub. L. 118–159, div. A, title X, § 1022](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2052](https://www.govinfo.gov/link/statute/138/2052); [Pub. L. 119–60, div. A, title X, § 1022](https://www.govinfo.gov/link/plaw/119/public/60), title XVII, § 1701(a)(17), Dec. 18, 2025, [139 Stat. 1034](https://www.govinfo.gov/link/statute/139/1034), 1209.)*

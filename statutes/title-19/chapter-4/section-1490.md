@@ -3,9 +3,10 @@ title: "Section 1490 - General orders"
 usc_title: 19
 usc_section: "1490"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1490"
-generated_at: "2026-03-30T02:54:24.637Z"
+generated_at: "2026-11-23T21:25:42.714Z"
+status: "active"
 ---
 
 # § 1490. General orders
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:24.637Z"
 - **(c)** Any imported merchandise that—
   - **(1)** is described in any of subparagraphs (A) through (D) of subsection (a)(1); and
   - **(2)** is consigned to, or owned by, the United States Government;
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 490, [46 Stat. 726](https://www.govinfo.gov/link/statute/46/726); [Pub. L. 91–271, title III, § 301(b)](https://www.govinfo.gov/link/plaw/91/public/271), June 2, 1970, [84 Stat. 287](https://www.govinfo.gov/link/statute/84/287); [Pub. L. 103–182, title VI, § 658](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2212](https://www.govinfo.gov/link/statute/107/2212); [Pub. L. 104–295, § 21(e)(9)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3531](https://www.govinfo.gov/link/statute/110/3531).)*

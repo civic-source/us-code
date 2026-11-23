@@ -3,9 +3,10 @@ title: "Section 10502 - Authority to exempt rail carrier transportation"
 usc_title: 49
 usc_section: "10502"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 10502"
-generated_at: "2026-03-30T02:56:19.323Z"
+generated_at: "2026-11-23T21:26:40.673Z"
+status: "active"
 ---
 
 # § 10502. Authority to exempt rail carrier transportation
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:19.323Z"
 - **(e)** No exemption order issued pursuant to this section shall operate to relieve any rail carrier from an obligation to provide contractual terms for liability and claims which are consistent with the provisions of section 11706 of this title . Nothing in this subsection or section 11706 of this title shall prevent rail carriers from offering alternative terms nor give the Board the authority to require any specific level of rates or services based upon the provisions of section 11706 of this title .
 - **(f)** The Board may exercise its authority under this section to exempt transportation that is provided by a rail carrier as part of a continuous intermodal movement.
 - **(g)** The Board may not exercise its authority under this section to relieve a rail carrier of its obligation to protect the interests of employees as required by this part.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 808](https://www.govinfo.gov/link/statute/109/808).)*

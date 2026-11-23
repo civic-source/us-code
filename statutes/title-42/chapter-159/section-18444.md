@@ -3,9 +3,10 @@ title: "Section 18444 - Counterfeit parts"
 usc_title: 42
 usc_section: "18444"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18444"
-generated_at: "2026-03-30T02:56:11.520Z"
+generated_at: "2026-11-23T21:26:33.824Z"
+status: "active"
 ---
 
 # § 18444. Counterfeit parts
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:11.520Z"
     - **(I)** maintenance of secure facilities to prevent unauthorized access to proprietary information; and
     - **(J)** maintenance of product return, buy back, and inventory control practices that limit counterfeiting.
 - **(d)** Within one year after October 11, 2010 , the Administrator shall report on the progress of implementing this section to the appropriate committees of Congress.
+
+## Source Credit
+
+*([Pub. L. 111–267, title XII, § 1206](https://www.govinfo.gov/link/plaw/111/public/267), Oct. 11, 2010, [124 Stat. 2843](https://www.govinfo.gov/link/statute/124/2843).)*

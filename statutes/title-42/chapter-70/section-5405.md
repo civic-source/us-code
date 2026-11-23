@@ -3,9 +3,10 @@ title: "Section 5405 - Judicial review of orders establishing standards; petitio
 usc_title: 42
 usc_section: "5405"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5405"
-generated_at: "2026-03-30T02:56:11.235Z"
+generated_at: "2026-11-23T21:26:32.806Z"
+status: "active"
 ---
 
 # § 5405. Judicial review of orders establishing standards; petition; additional evidence before Secretary; certified copy of transcript
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.235Z"
   - **(5)** Any action instituted under this subsection shall survive, notwithstanding any change in the person occupying the office of Secretary or any vacancy in such office.
   - **(6)** The remedies provided for in this subsection shall be in addition to and not in substitution for any other remedies provided by law.
 - **(b)** A certified copy of the transcript of the record and proceedings under this section shall be furnished by the Secretary to any interested party at his request and payment of the costs thereof, and shall be admissible in any criminal, exclusion of imports, or other proceeding arising under or in respect of this chapter, irrespective of whether proceedings with respect to the order have previously been initiated or become final under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 93–383, title VI, § 606](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 702](https://www.govinfo.gov/link/statute/88/702).)*

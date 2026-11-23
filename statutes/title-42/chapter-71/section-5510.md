@@ -3,9 +3,10 @@ title: "Section 5510 - Dissemination of information to promote practical use of 
 usc_title: 42
 usc_section: "5510"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5510"
-generated_at: "2026-03-30T02:56:11.236Z"
+generated_at: "2026-11-23T21:26:32.814Z"
+status: "active"
 ---
 
 # § 5510. Dissemination of information to promote practical use of solar heating and cooling technologies
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:11.236Z"
     - **(C)** private persons, upon request, in appropriate cases.
   - **(4)** In carrying out his functions under this subsection, the Secretary shall utilize, when feasible, the existing data base of scientific and technical information in Federal agencies, adding to such data base any information described in paragraph (2) which does not already reside in such base.
 - **(d)** Each Federal officer and agency having functions under this subchapter shall include in his or its annual report to the President and the Congress a full and complete description of his or its activities (current and projected) under this subchapter, along with his or its recommendations for legislative, administrative, or other action to improve the programs under this subchapter or to achieve the objectives of this subchapter more promptly and effectively. In addition, the Secretary shall submit annually to the President and the Congress a special report summarizing in appropriate detail all of the activities (current and projected) of the various Federal officers and agencies having functions under this subchapter, with the objective of presenting a comprehensive overall view of such programs.
+
+## Source Credit
+
+*([Pub. L. 93–409, § 12](https://www.govinfo.gov/link/plaw/93/public/409), Sept. 3, 1974, [88 Stat. 1075](https://www.govinfo.gov/link/statute/88/1075); [Pub. L. 93–438, title I, § 104(f)](https://www.govinfo.gov/link/plaw/93/public/438), title III, § 301(h), Oct. 11, 1974, [88 Stat. 1238](https://www.govinfo.gov/link/statute/88/1238), 1250; [Pub. L. 95–91, title III, § 301(a)](https://www.govinfo.gov/link/plaw/95/public/91), title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577](https://www.govinfo.gov/link/statute/91/577), 606, 607; [Pub. L. 100–418, title V, § 5115(c)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1433](https://www.govinfo.gov/link/statute/102/1433); [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(21)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–585.)*

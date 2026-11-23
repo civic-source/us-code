@@ -3,9 +3,10 @@ title: "Section 14 - Student support services"
 usc_title: 20
 usc_section: "14"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 14"
-generated_at: "2026-03-30T02:54:48.105Z"
+generated_at: "2026-11-23T21:25:47.060Z"
+status: "active"
 ---
 
 # § 1070a–14. Student support services
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:54:48.105Z"
   - **(6)** consider, in addition to such other criteria as the Secretary may prescribe, the institution’s effort, and where applicable past history, in—
     - **(A)** providing sufficient financial assistance to meet the full financial need of each student in the project; and
     - **(B)** maintaining the loan burden of each such student at a manageable level.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 402D](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 102–325, title IV, § 402(a)(4)](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 488](https://www.govinfo.gov/link/statute/106/488); amended [Pub. L. 103–208, § 2(b)(11)](https://www.govinfo.gov/link/plaw/103/public/208), Dec. 20, 1993, [107 Stat. 2459](https://www.govinfo.gov/link/statute/107/2459); [Pub. L. 105–244, title IV, § 402(d)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1655](https://www.govinfo.gov/link/statute/112/1655); [Pub. L. 106–554, § 1(a)(1) [title III, § 317(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–48; [Pub. L. 110–315, title IV, § 403(d)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3201](https://www.govinfo.gov/link/statute/122/3201); [Pub. L. 111–152, title II, § 2101(b)(2)](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1073](https://www.govinfo.gov/link/statute/124/1073).)*

@@ -3,9 +3,10 @@ title: "Section 3401 - Congressional findings and declaration of policy"
 usc_title: 22
 usc_section: "3401"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3401"
-generated_at: "2026-03-30T02:55:05.393Z"
+generated_at: "2026-11-23T21:25:58.587Z"
+status: "active"
 ---
 
 # § 3401. Congressional findings and declaration of policy
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.393Z"
   - **(2)** by authorizing additional funds to finance procurements by Egypt and Israel through the fiscal year 1982 of defense articles and defense services for their respective security requirements; and
   - **(3)** by authorizing additional funds for economic assistance for Egypt in order to promote the economic stability and development of that country and to support the peace process in the Middle East.
 - **(c)** The authorities contained in this subchapter to implement certain arrangements in support of the peace treaty between Egypt and Israel do not signify approval by the Congress of any other agreement, understanding, or commitment made by the executive branch.
+
+## Source Credit
+
+*([Pub. L. 96–35, § 2](https://www.govinfo.gov/link/plaw/96/public/35), July 20, 1979, [93 Stat. 89](https://www.govinfo.gov/link/statute/93/89).)*

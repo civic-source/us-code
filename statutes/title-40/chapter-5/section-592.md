@@ -3,9 +3,10 @@ title: "Section 592 - Federal Buildings Fund"
 usc_title: 40
 usc_section: "592"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 592"
-generated_at: "2026-03-30T02:55:43.376Z"
+generated_at: "2026-11-23T21:26:14.827Z"
+status: "active"
 ---
 
 # § 592. Federal Buildings Fund
@@ -40,3 +41,132 @@ generated_at: "2026-03-30T02:55:43.376Z"
     - **(A)** promote further source reduction and recycling programs; and
     - **(B)** encourage employees to participate in recycling programs by providing financing for child care.
 - **(f)** The Fund may receive, in the form of rebates, cash incentives or otherwise, any revenues, collections, or other income related to energy savings or recycling efforts. Amounts received under this subsection remain in the Fund until expended and remain available for federal energy management improvement programs, recycling programs, or employee programs that are authorized by law or that the Administrator considers appropriate. The Administration may use amounts received under this subsection, in addition to amounts received as New Obligational Authority, in activities of the Fund as necessary.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 592(a) | 40:490(f)(1) (related to establishment), (3), (4). | June 30, 1949, ch. 288 , title II, § 210(f), as added July 12, 1952, ch. 703, § 1 ( l ), 66 Stat. 594 ; Pub. L. 85–886, § 3 , Sept. 2, 1958 , 72 Stat. 1709 ; Pub. L. 92–313, § 3 , June 16, 1972 , 86 Stat. 218 ; Pub. L. 102–486, title I, § 153 , Oct. 24, 1992 , 106 Stat. 2851 . |
+| 592(b)(1) | 40:490(f)(1) (related to deposits). |  |
+| 592(b)(2) | 40:490(f)(6). |  |
+| 592(b)(3) | 40:490(f)(5). |  |
+| 592(c)(1) | 40:490(f)(2). |  |
+| 592(c)(2) | 40:490a. | Pub. L. 94–91, title IV, § 401 , Aug. 9, 1975 , 89 Stat. 452 . |
+| 592(c)(3) | 40:490a–1. | Pub. L. 101–136, title IV, § 7 , Nov. 3, 1989 , 103 Stat. 803 . |
+| 592(c)(4) | 40:490i. | Pub. L. 105–277, div. A, § 101(h) [title IV, 6th proviso on p. 2681–502] , Oct. 21, 1998 , 112 Stat. 2681–502 . |
+| 592(d) | 40:490(f)(7). |  |
+| 592(e) | 40:490(f)(8). |  |
+| 592(f) | 40:490g. | Pub. L. 102–393, title IV, § 13 , Oct. 6, 1992 , 106 Stat. 1751 . |
+
+
+Existence
+
+Deposits.—
+
+In general
+
+Reimbursements for special services
+
+Transfer of surplus amounts
+
+Uses.—
+
+In general
+
+Salaries and expenses related to construction projects or planning programs
+
+Repayment of general services administration borrowing from federal financing bank
+
+Buildings deemed federally owned
+
+Energy Management Programs.—
+
+Receiving cash incentives
+
+Receiving goods or services
+
+Assignment of energy rebates
+
+Obligating amounts for energy management improvement programs
+
+Recycling Programs.—
+
+Receiving amounts
+
+Obligating amounts for recycling programs
+
+Additional Authority Related to Energy Management and Recycling Programs
+
+Historical and Revision Notes
+
+592(a)
+
+June 30, 1949, ch. 288
+
+July 12, 1952, ch. 703, § 1
+
+66 Stat. 594
+
+Pub. L. 85–886, § 3
+
+Sept. 2, 1958
+
+72 Stat. 1709
+
+Pub. L. 92–313, § 3
+
+June 16, 1972
+
+86 Stat. 218
+
+Pub. L. 102–486, title I, § 153
+
+Oct. 24, 1992
+
+106 Stat. 2851
+
+592(b)(1)
+
+592(b)(2)
+
+592(b)(3)
+
+592(c)(1)
+
+592(c)(2)
+
+Pub. L. 94–91, title IV, § 401
+
+Aug. 9, 1975
+
+89 Stat. 452
+
+592(c)(3)
+
+Pub. L. 101–136, title IV, § 7
+
+Nov. 3, 1989
+
+103 Stat. 803
+
+592(c)(4)
+
+Pub. L. 105–277, div. A, § 101(h) [title IV, 6th proviso on p. 2681–502]
+
+Oct. 21, 1998
+
+112 Stat. 2681–502
+
+592(d)
+
+592(e)
+
+592(f)
+
+Pub. L. 102–393, title IV, § 13
+
+Oct. 6, 1992
+
+106 Stat. 1751
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1118](https://www.govinfo.gov/link/statute/116/1118).)*

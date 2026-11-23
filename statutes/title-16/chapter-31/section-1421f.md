@@ -3,9 +3,10 @@ title: "Section 1421f - National Marine Mammal Tissue Bank and tissue analysis"
 usc_title: 16
 usc_section: "1421f"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1421f"
-generated_at: "2026-03-30T02:54:22.965Z"
+generated_at: "2026-11-23T21:25:51.873Z"
+status: "active"
 ---
 
 # § 1421f. National Marine Mammal Tissue Bank and tissue analysis
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:22.965Z"
   - **(1)** marine mammal tissues in the Tissue Bank;
   - **(2)** analyses conducted pursuant to subsection (b); and
   - **(3)** marine mammal data in the data base maintained under subsection (c);
+
+## Source Credit
+
+*([Pub. L. 92–522, title IV, § 407](https://www.govinfo.gov/link/plaw/92/public/522), formerly title III, § 307, as added [Pub. L. 102–587, title III, § 3003(a)](https://www.govinfo.gov/link/plaw/102/public/587), Nov. 4, 1992, [106 Stat. 5065](https://www.govinfo.gov/link/statute/106/5065); renumbered title IV, § 407, [Pub. L. 103–238, § 24(b)](https://www.govinfo.gov/link/plaw/103/public/238), Apr. 30, 1994, [108 Stat. 565](https://www.govinfo.gov/link/statute/108/565); amended [Pub. L. 117–263, div. J, title CIV, § 10405](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3984](https://www.govinfo.gov/link/statute/136/3984).)*

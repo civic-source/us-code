@@ -3,9 +3,10 @@ title: "Section 5538 - Mortgage loans; rulemaking procedures; enforcement"
 usc_title: 12
 usc_section: "5538"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5538"
-generated_at: "2026-03-30T02:53:53.545Z"
+generated_at: "2026-11-23T21:25:37.287Z"
+status: "active"
 ---
 
 # § 5538. Mortgage loans; rulemaking procedures; enforcement
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:53.545Z"
     - **(B)** process may be served without regard to the territorial limits of the district or of the State in which the civil action is instituted.
   - **(6)** Whenever a civil action or an administrative action has been instituted by or on behalf of the Bureau of Consumer Financial Protection or the Commission for violation of any provision of law or rule described in paragraph (1), no State may, during the pendency of such action instituted by or on behalf of the Bureau of Consumer Financial Protection or the Commission, institute a civil action under that paragraph against any defendant named in the complaint in such action for violation of any law or rule as alleged in such complaint.
   - **(7)** If the attorney general of a State prevails in any civil action under paragraph (1), the State can recover reasonable costs and attorney fees from the lender or related party.
+
+## Source Credit
+
+*([Pub. L. 111–8, div. D, title VI, § 626(a)](https://www.govinfo.gov/link/plaw/111/public/8), (b), Mar. 11, 2009, [123 Stat. 678](https://www.govinfo.gov/link/statute/123/678); [Pub. L. 111–24, title V, § 511(a)](https://www.govinfo.gov/link/plaw/111/public/24), May 22, 2009, [123 Stat. 1763](https://www.govinfo.gov/link/statute/123/1763); [Pub. L. 111–203, title X, § 1097](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2102](https://www.govinfo.gov/link/statute/124/2102).)*

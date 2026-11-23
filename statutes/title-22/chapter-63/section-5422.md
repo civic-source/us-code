@@ -3,9 +3,10 @@ title: "Section 5422 - Labor market transition in Poland and Hungary"
 usc_title: 22
 usc_section: "5422"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5422"
-generated_at: "2026-03-30T02:55:05.417Z"
+generated_at: "2026-11-23T21:25:58.661Z"
+status: "active"
 ---
 
 # § 5422. Labor market transition in Poland and Hungary
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:05.417Z"
 - **(g)** There are authorized to be appropriated to the Department of Labor for the 3-year period beginning October 1, 1989 , to carry out this section—
   - **(1)** $4,000,000 for technical assistance to Poland; and
   - **(2)** $1,000,000 for technical assistance to Hungary.
+
+## Source Credit
+
+*([Pub. L. 101–179, title II, § 202](https://www.govinfo.gov/link/plaw/101/public/179), Nov. 28, 1989, [103 Stat. 1308](https://www.govinfo.gov/link/statute/103/1308); [Pub. L. 117–286, § 4(a)(171)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4324](https://www.govinfo.gov/link/statute/136/4324).)*

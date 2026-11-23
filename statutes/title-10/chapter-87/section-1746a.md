@@ -3,9 +3,10 @@ title: "Section 1746a - Acquisition workforce educational partnerships"
 usc_title: 10
 usc_section: "1746a"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1746a"
-generated_at: "2026-03-30T02:53:38.136Z"
+generated_at: "2026-11-23T21:25:32.536Z"
+status: "active"
 ---
 
 # § 1746a. Acquisition workforce educational partnerships
@@ -28,3 +29,25 @@ generated_at: "2026-03-30T02:53:38.136Z"
 - **(g)** In this section:
   - **(1)** The term “acquisition workforce” has the meaning given such term in section 1705(g) of this title .
   - **(2)** The term “extramural institutions” means participants in an activity established under section 4142 of this title , public sector organizations, and nonprofit credentialing organizations.
+
+Establishment
+
+Senior Official
+
+Support From Other Department of Defense Organizations
+
+Funding
+
+Annual Reports
+
+Exemption to Report Termination Requirements
+
+Definitions
+
+Acquisition workforce
+
+Extramural institutions
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. A, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1811](https://www.govinfo.gov/link/statute/135/1811); amended [Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4294](https://www.govinfo.gov/link/statute/134/4294).)*

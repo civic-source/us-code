@@ -3,9 +3,10 @@ title: "Section 2686 - Review of world-wide supply, demand, and price of basic r
 usc_title: 22
 usc_section: "2686"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2686"
-generated_at: "2026-03-30T02:55:05.378Z"
+generated_at: "2026-11-23T21:25:58.528Z"
+status: "active"
 ---
 
 # § 2686. Review of world-wide supply, demand, and price of basic raw and processed materials
@@ -18,3 +19,7 @@ It is the sense of the Congress that the Secretary of State should, and he is au
     - **(D)** a list of such materials in short supply and an estimate of the amount of shortage;
     - **(E)** international geological, geophysical, and political conditions which may affect the supply of such materials; and
     - **(F)** other matters that the Secretary considers appropriate in carrying out this section.
+
+## Source Credit
+
+*([Pub. L. 93–475, § 14](https://www.govinfo.gov/link/plaw/93/public/475), Oct. 26, 1974, [88 Stat. 1443](https://www.govinfo.gov/link/statute/88/1443).)*

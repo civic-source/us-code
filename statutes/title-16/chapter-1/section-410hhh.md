@@ -3,9 +3,10 @@ title: "Section 410hhh - Findings"
 usc_title: 16
 usc_section: "410hhh"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410hhh"
-generated_at: "2026-03-30T02:54:22.779Z"
+generated_at: "2026-11-23T21:25:51.475Z"
+status: "active"
 ---
 
 # § 410hhh. Findings
@@ -36,3 +37,7 @@ Congress finds that—
     - **(B)** recognized for offering natural, ecological, wildlife, cultural, scenic, paleontological, wilderness, and recreational resources; and
     - **(C)** recognized as being a fragile and irreplaceable ecological system that could be destroyed if not carefully protected; and
   - **(8)** preservation of this diversity of resources would ensure the perpetuation of the entire ecosystem for the enjoyment of future generations.
+
+## Source Credit
+
+*([Pub. L. 106–530, § 2](https://www.govinfo.gov/link/plaw/106/public/530), Nov. 22, 2000, [114 Stat. 2527](https://www.govinfo.gov/link/statute/114/2527).)*

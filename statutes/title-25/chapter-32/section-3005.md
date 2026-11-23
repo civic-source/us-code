@@ -3,9 +3,10 @@ title: "Section 3005 - Repatriation"
 usc_title: 25
 usc_section: "3005"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3005"
-generated_at: "2026-03-30T02:54:52.846Z"
+generated_at: "2026-11-23T21:25:54.681Z"
+status: "active"
 ---
 
 # § 3005. Repatriation
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:52.846Z"
 - **(d)** Any Federal agency or museum shall share what information it does possess regarding the object in question with the known lineal descendant, Indian tribe, or Native Hawaiian organization to assist in making a claim under this section.
 - **(e)** Where there are multiple requests for repatriation of any cultural item and, after complying with the requirements of this chapter, the Federal agency or museum cannot clearly determine which requesting party is the most appropriate claimant, the agency or museum may retain such item until the requesting parties agree upon its disposition or the dispute is otherwise resolved pursuant to the provisions of this chapter or by a court of competent jurisdiction.
 - **(f)** Any museum which repatriates any item in good faith pursuant to this chapter shall not be liable for claims by an aggrieved party or for claims of breach of fiduciary duty, public trust, or violations of state 1 1 So in original. Probably should be capitalized. law that are inconsistent with the provisions of this chapter.
+
+## Source Credit
+
+*([Pub. L. 101–601, § 7](https://www.govinfo.gov/link/plaw/101/public/601), Nov. 16, 1990, [104 Stat. 3054](https://www.govinfo.gov/link/statute/104/3054).)*

@@ -3,9 +3,10 @@ title: "Section 949m - Number of votes required"
 usc_title: 10
 usc_section: "949m"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 949m"
-generated_at: "2026-03-30T02:53:38.089Z"
+generated_at: "2026-11-23T21:25:32.361Z"
+status: "active"
 ---
 
 # § 949m. Number of votes required
@@ -23,3 +24,13 @@ generated_at: "2026-03-30T02:53:38.089Z"
 - **(c)**
   - **(1)** Except as provided in paragraph (2), in a case in which the penalty of death is sought, the number of primary members of the military commission under this chapter shall be not less than 12 primary members.
   - **(2)** In any case described in paragraph (1) in which 12 primary members are not reasonably available for a military commission because of physical conditions or military exigencies, the convening authority shall specify a lesser number of primary members for the military commission (but not fewer than 9 primary members), and the military commission may be assembled, and the trial held, with not less than the number of primary members so specified. In any such case, the convening authority shall make a detailed written statement, to be appended to the record, stating why a greater number of primary members were not reasonably available.
+
+Conviction
+
+Sentences
+
+Number of Members Required for Penalty of Death
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title XVIII, § 1802](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2589](https://www.govinfo.gov/link/statute/123/2589); amended [Pub. L. 112–81, div. A, title X, § 1030(a)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1570](https://www.govinfo.gov/link/statute/125/1570); [Pub. L. 113–66, div. A, title X, § 1031(c)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 850](https://www.govinfo.gov/link/statute/127/850).)*

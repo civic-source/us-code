@@ -3,9 +3,10 @@ title: "Section 3 - Reports to Congress"
 usc_title: 16
 usc_section: "3"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T02:54:22.966Z"
+generated_at: "2026-11-23T21:25:51.874Z"
+status: "active"
 ---
 
 # § 1421f–3. Reports to Congress
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:54:22.966Z"
     - **(E)** a description of training and other resource needs to meet emerging response requirements in the Arctic region of the United States;
     - **(F)** an analysis of oiled marine mammal response and rehabilitation capabilities in the Arctic region of the United States, including personnel, equipment, facilities, training, and husbandry capabilities, and an assessment of factors that affect response and rehabilitation success rates; and
     - **(G)** recommendations to address future stranding response needs for marine mammals in the Arctic region of the United States.
+
+## Source Credit
+
+*([Pub. L. 92–522, title IV, § 408B](https://www.govinfo.gov/link/plaw/92/public/522), as added [Pub. L. 117–263, div. J, title CIV, § 10408(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3990](https://www.govinfo.gov/link/statute/136/3990).)*

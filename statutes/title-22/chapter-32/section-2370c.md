@@ -3,9 +3,10 @@ title: "Section 2370c - Definitions"
 usc_title: 22
 usc_section: "2370c"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2370c"
-generated_at: "2026-03-30T02:55:05.361Z"
+generated_at: "2026-11-23T21:25:58.479Z"
+status: "active"
 ---
 
 # § 2370c. Definitions
@@ -24,3 +25,9 @@ In sections 2370c to 2370c–2 of this title:
       - **(iii)** any person under 15 years of age who has been voluntarily recruited into governmental armed forces, police, or other security forces; or
       - **(iv)** any person under 18 years of age who has been recruited or used in hostilities by armed forces distinct from the armed forces of a state; and
     - **(B)** includes any person described in clause (ii), (iii), or (iv) of subparagraph (A) who is serving in any capacity, including in a support role such as a cook, porter, messenger, medic, guard, or sex slave.
+
+“Congress finds the following:
+
+## Source Credit
+
+*([Pub. L. 110–457, title IV, § 402](https://www.govinfo.gov/link/plaw/110/public/457), Dec. 23, 2008, [122 Stat. 5088](https://www.govinfo.gov/link/statute/122/5088); [Pub. L. 115–425, title II, § 212(a)](https://www.govinfo.gov/link/plaw/115/public/425), Jan. 8, 2019, [132 Stat. 5485](https://www.govinfo.gov/link/statute/132/5485).)*

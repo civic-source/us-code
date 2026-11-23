@@ -3,9 +3,10 @@ title: "Section 2313a - Designation of transactions of sanctioned persons as of 
 usc_title: 21
 usc_section: "2313a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 2313a"
-generated_at: "2026-03-30T02:54:54.311Z"
+generated_at: "2026-11-23T21:25:56.306Z"
+status: "active"
 ---
 
 # § 2313a. Designation of transactions of sanctioned persons as of primary money laundering concern
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:54.311Z"
 - **(c)** The exemptions from, and prohibitions on, search and disclosure referred to in section 9714(c) of the National Defense Authorization Act for Fiscal Year 2021 ( Public Law 116–283 ; 31 U.S.C. 5318A note) shall apply to any report or record of report filed pursuant to a requirement imposed under subsection (a). For purposes of section 552 of title 5 , this subsection shall be considered a statute described in subsection (b)(3)(B) of such section.
 - **(d)** The penalties referred to in section 9714(d) of the National Defense Authorization Act for Fiscal Year 2021 ( Public Law 116–283 ; 31 U.S.C. 5318A note) shall apply to violations of any order, regulation, special measure, or other requirement imposed under subsection (a), in the same manner and to the same extent as described in such section 9714(d).
 - **(e)** The Secretary of the Treasury may bring a civil action to enjoin a violation of any order, regulation, special measure, or other requirement imposed under subsection (a) in the same manner and to the same extent as described in section 9714(e) of the National Defense Authorization Act for Fiscal Year 2021 ( Public Law 116–283 ; 31 U.S.C. 5318A note).
+
+## Source Credit
+
+*([Pub. L. 116–92, div. F, title LXXII, § 7213A](https://www.govinfo.gov/link/plaw/116/public/92), as added [Pub. L. 118–50, div. E, title II, § 3201(a)](https://www.govinfo.gov/link/plaw/118/public/50), Apr. 24, 2024, [138 Stat. 940](https://www.govinfo.gov/link/statute/138/940).)*

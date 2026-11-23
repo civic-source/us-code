@@ -3,9 +3,10 @@ title: "Section 7981 - Milk price support program"
 usc_title: 7
 usc_section: "7981"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7981"
-generated_at: "2026-03-30T02:53:42.469Z"
+generated_at: "2026-11-23T21:25:28.459Z"
+status: "active"
 ---
 
 # § 7981. Milk price support program
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.469Z"
   - **(1)** The Secretary may allocate the rate of price support between the purchase prices for nonfat dry milk and butter in a manner that will result in the lowest level of expenditures by the Commodity Credit Corporation or achieve such other objectives as the Secretary considers appropriate. Not later than 10 days after making or changing an allocation, the Secretary shall notify the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate of the allocation. Section 553 of title 5 shall not apply with respect to the implementation of this section.
   - **(2)** The Secretary may make any such adjustments in the purchase prices for nonfat dry milk and butter the Secretary considers to be necessary not more than twice in each calendar year.
 - **(e)** The Secretary shall carry out the program authorized by this section through the Commodity Credit Corporation.
+
+## Source Credit
+
+*([Pub. L. 107–171, title I, § 1501](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 205](https://www.govinfo.gov/link/statute/116/205).)*

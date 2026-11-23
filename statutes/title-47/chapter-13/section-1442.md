@@ -3,9 +3,10 @@ title: "Section 1442 - State and local implementation"
 usc_title: 47
 usc_section: "1442"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1442"
-generated_at: "2026-03-30T02:56:24.534Z"
+generated_at: "2026-11-23T21:26:36.100Z"
+status: "active"
 ---
 
 # § 1442. State and local implementation
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:56:24.534Z"
     - **(A)** the decision was procured by corruption, fraud, or undue means;
     - **(B)** there was actual partiality or corruption in the Commission; or
     - **(C)** the Commission was guilty of misconduct in refusing to hear evidence pertinent and material to the decision or of any other misbehavior by which the rights of any party have been prejudiced.
+
+## Source Credit
+
+*([Pub. L. 112–96, title VI, § 6302](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 219](https://www.govinfo.gov/link/statute/126/219).)*

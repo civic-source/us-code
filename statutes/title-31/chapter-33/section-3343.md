@@ -3,9 +3,10 @@ title: "Section 3343 - Check forgery insurance fund"
 usc_title: 31
 usc_section: "3343"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 3343"
-generated_at: "2026-03-30T02:55:34.055Z"
+generated_at: "2026-11-23T21:26:10.573Z"
+status: "active"
 ---
 
 # § 3343. Check forgery insurance fund
@@ -26,3 +27,44 @@ generated_at: "2026-03-30T02:55:34.055Z"
   - **(2)** a transferee or party on a check after the forgery from liability—
     - **(A)** on the express or implied warranty of prior endorsements of the transferee or party; or
     - **(B)** to refund amounts to the Secretary.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3343(a) | 31:561. | Nov. 21, 1941, ch. 489 , §§ 1–3, 55 Stat. 777 . |
+| 3343(b) | 31:562. |  |
+|  | 31:563a(1st sentence). | Nov. 21, 1941, ch. 489 , 55 Stat. 777 , § 4; added Dec. 22, 1974 , Pub. L. 93–539, § 1(b) , 88 Stat. 1738 . |
+| 3343(c) | 31:563a(2d sentence). |  |
+| 3343(d) | 31:563(words after 3d comma). |  |
+|  | 31:563a(last sentence). |  |
+| 3343(e) | 31:563(words before 3d comma). |  |
+
+
+Historical and Revision Notes
+
+3343(a)
+
+Nov. 21, 1941, ch. 489
+
+55 Stat. 777
+
+3343(b)
+
+Nov. 21, 1941, ch. 489
+
+55 Stat. 777
+
+Dec. 22, 1974
+
+Pub. L. 93–539, § 1(b)
+
+88 Stat. 1738
+
+3343(c)
+
+3343(d)
+
+3343(e)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 957](https://www.govinfo.gov/link/statute/96/957); [Pub. L. 104–134, title III, § 31001(x)(3)](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–377](https://www.govinfo.gov/link/statute/110/1321).)*

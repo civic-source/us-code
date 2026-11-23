@@ -3,9 +3,10 @@ title: "Section 70305 - Suspension of passenger services"
 usc_title: 46
 usc_section: "70305"
 chapter: 703
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 70305"
-generated_at: "2026-03-30T02:56:15.588Z"
+generated_at: "2026-11-23T21:26:37.362Z"
+status: "active"
 ---
 
 # § 70305. Suspension of passenger services
@@ -15,3 +16,32 @@ generated_at: "2026-03-30T02:56:15.588Z"
 - **(c)**
   - **(1)** If a person operates a vessel in violation of this section, the Secretary may deny the vessels of that person entry to ports of the United States.
   - **(2)** A person violating this section is liable to the United States Government for a civil penalty of not more than $50,000. Each day a vessel uses a prohibited port is a separate violation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 70305 | 46 App.:1805. | Pub. L. 99–399, title IX, § 909 , Aug. 27, 1986 , 100 Stat. 892 . |
+
+
+General Authority
+
+Prohibition
+
+Penalties
+
+Denial of entry
+
+Civil penalty
+
+Historical and Revision Notes
+
+70305
+
+Pub. L. 99–399, title IX, § 909
+
+Aug. 27, 1986
+
+100 Stat. 892
+
+## Source Credit
+
+*([Pub. L. 109–304, § 10(2)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1684](https://www.govinfo.gov/link/statute/120/1684).)*

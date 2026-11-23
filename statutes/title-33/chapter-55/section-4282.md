@@ -3,9 +3,10 @@ title: "Section 4282 - Grant programs"
 usc_title: 33
 usc_section: "4282"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 4282"
-generated_at: "2026-03-30T02:55:41.148Z"
+generated_at: "2026-11-23T21:26:11.498Z"
+status: "active"
 ---
 
 # § 4282. Grant programs
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:55:41.148Z"
 - **(g)** There are authorized to be appropriated—
   - **(1)** for the program described 1 1 So in original. Probably should be followed by “in”. subsection (a), $55,000,000 for each of fiscal years 2021 through 2025; and
   - **(2)** for each of the programs described 1 subsections (b), (c), and (d), $10,000,000 for each of fiscal years 2021 through 2025.
+
+## Source Credit
+
+*([Pub. L. 116–224, title III, § 302](https://www.govinfo.gov/link/plaw/116/public/224), Dec. 18, 2020, [134 Stat. 1092](https://www.govinfo.gov/link/statute/134/1092).)*

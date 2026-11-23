@@ -3,9 +3,10 @@ title: "Section 7118 - Prevention of unfair labor practices"
 usc_title: 5
 usc_section: "7118"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 7118"
-generated_at: "2026-03-30T02:52:56.035Z"
+generated_at: "2026-11-23T21:25:23.335Z"
+status: "active"
 ---
 
 # § 7118. Prevention of unfair labor practices
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:52:56.035Z"
     - **(D)** including any combination of the actions described in subparagraphs (A) through (C) of this paragraph or such other action as will carry out the purpose of this chapter.
   - **(8)** If the individual or individuals conducting the hearing determine that the preponderance of the evidence received fails to demonstrate that the agency or labor organization named in the complaint has engaged in or is engaging in an unfair labor practice, the individual or individuals shall state in writing their findings of fact and shall issue an order dismissing the complaint.
 - **(b)** In connection with any matter before the Authority in any proceeding under this section, the Authority may request, in accordance with the provisions of section 7105(i) of this title , from the Director of the Office of Personnel Management an advisory opinion concerning the proper interpretation of rules, regulations, or other policy directives issued by the Office of Personnel Management.
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title VII, § 701](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1207](https://www.govinfo.gov/link/statute/92/1207).)*

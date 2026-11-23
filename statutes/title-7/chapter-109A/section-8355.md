@@ -3,9 +3,10 @@ title: "Section 8355 - Losses of livestock due to depredation by federally prote
 usc_title: 7
 usc_section: "8355"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 8355"
-generated_at: "2026-03-30T02:53:42.475Z"
+generated_at: "2026-11-23T21:25:28.475Z"
+status: "active"
 ---
 
 # § 8355. Losses of livestock due to depredation by federally protected species
@@ -64,3 +65,7 @@ generated_at: "2026-03-30T02:53:42.475Z"
 - **(d)** There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2021 through 2030, of which—
   - **(1)** $5,000,000 shall be used to provide grants for the purposes described in subsection (b)(1)(A); and
   - **(2)** $10,000,000 shall be used to provide grants for the purpose described in subsection (b)(1)(B).
+
+## Source Credit
+
+*([Pub. L. 116–188, title I, § 102](https://www.govinfo.gov/link/plaw/116/public/188), Oct. 30, 2020, [134 Stat. 908](https://www.govinfo.gov/link/statute/134/908); [Pub. L. 118–198, title I, § 101](https://www.govinfo.gov/link/plaw/118/public/198), Dec. 23, 2024, [138 Stat. 2678](https://www.govinfo.gov/link/statute/138/2678).)*

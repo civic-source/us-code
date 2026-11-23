@@ -3,9 +3,10 @@ title: "Section 7512a - Plan submissions and requirements"
 usc_title: 42
 usc_section: "7512a"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7512a"
-generated_at: "2026-03-30T02:56:11.309Z"
+generated_at: "2026-11-23T21:26:33.110Z"
+status: "active"
 ---
 
 # § 7512a. Plan submissions and requirements
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:11.309Z"
   - **(2)** If any State in which there is located a portion of a multi-State nonattainment area fails to provide a demonstration of attainment of the national ambient air quality standard for carbon monoxide in that portion within the period required under this part the State may petition the Administrator to make a finding that the State would have been able to make such demonstration but for the failure of one or more other States in which other portions of the area are located to commit to the implementation of all measures required under this section (relating to plan submissions for carbon monoxide nonattainment areas). If the Administrator makes such finding, in the portion of the nonattainment area within the State submitting such petition, no sanction shall be imposed under section 7509 of this title or under any other provision of this chapter, by reason of the failure to make such demonstration.
 - **(f)** Each State containing a carbon monoxide nonattainment area reclassified under section 7512(b)(2) of this title shall meet the requirements of subsection (b) of this section, as may be applicable to the area as reclassified, according to the schedules prescribed in connection with such requirements, except that the Administrator may adjust any applicable deadlines (other than the attainment date) where such deadlines are shown to be infeasible.
 - **(g)** If the Administrator determines under section 7512(b)(2) of this title that the national primary ambient air quality standard for carbon monoxide has not been attained in a Serious Area by the applicable attainment date, the State shall submit a plan revision for the area within 9 months after the date of such determination. The plan revision shall provide that a program of incentives and requirements as described in section 7511a(g)(4) of this title shall be applicable in the area, and such program, in combination with other elements of the revised plan, shall be adequate to reduce the total tonnage of emissions of carbon monoxide in the area by at least 5 percent per year in each year after approval of the plan revision and before attainment of the national primary ambient air quality standard for carbon monoxide.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 187, as added [Pub. L. 101–549, title I, § 104](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2454](https://www.govinfo.gov/link/statute/104/2454).)*

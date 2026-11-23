@@ -3,9 +3,10 @@ title: "Section 592 - Definitions"
 usc_title: 5
 usc_section: "592"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 592"
-generated_at: "2026-03-30T02:52:55.990Z"
+generated_at: "2026-11-23T21:25:23.075Z"
+status: "active"
 ---
 
 # § 592. Definitions
@@ -15,3 +16,22 @@ For the purpose of this subchapter—
   - **(1)** “administrative program” includes a Federal function which involves protection of the public interest and the determination of rights, privileges, and obligations of private persons through rule making, adjudication, licensing, or investigation, as those terms are used in subchapter II of this chapter, except that it does not include a military or foreign affairs function of the United States;
   - **(2)** “administrative agency” means an authority as defined by section 551(1) of this title ; and
   - **(3)** “administrative procedure” means procedure used in carrying out an administrative program and is to be broadly construed to include any aspect of agency organization, procedure, or management which may affect the equitable consideration of public and private interests, the fairness of agency decisions, the speed of agency action, and the relationship of operating methods to later judicial review, but does not include the scope of agency responsibility as established by law or matters of substantive policy committed by law to agency discretion.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 1045a . | Aug. 30, 1964 , Pub. L. 88–499, § 3 , 78 Stat. 615 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 1045a
+
+Aug. 30, 1964
+
+Pub. L. 88–499, § 3
+
+78 Stat. 615
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 388](https://www.govinfo.gov/link/statute/80/388), § 572; renumbered § 592, [Pub. L. 102–354, § 2(2)](https://www.govinfo.gov/link/plaw/102/public/354), Aug. 26, 1992, [106 Stat. 944](https://www.govinfo.gov/link/statute/106/944).)*

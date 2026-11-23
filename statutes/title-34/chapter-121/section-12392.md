@@ -3,9 +3,10 @@ title: "Section 12392 - Enforcement of statutory rape laws"
 usc_title: 34
 usc_section: "12392"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 12392"
-generated_at: "2026-03-30T02:55:33.287Z"
+generated_at: "2026-11-23T21:26:09.743Z"
+status: "active"
 ---
 
 # § 12392. Enforcement of statutory rape laws
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:33.287Z"
   - **(1)** studies the linkage between statutory rape and teenage pregnancy, particularly by predatory older men committing repeat offenses; and
   - **(2)** educates State and local criminal law enforcement officials on the prevention and prosecution of statutory rape, focusing in particular on the commission of statutory rape by predatory older men committing repeat offenses, and any links to teenage pregnancy.
 - **(c)** The Attorney General shall ensure that the Department of Justice’s Violence Against Women initiative addresses the issue of statutory rape, particularly the commission of statutory rape by predatory older men committing repeat offenses.
+
+## Source Credit
+
+*([Pub. L. 104–193, title IX, § 906](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2349](https://www.govinfo.gov/link/statute/110/2349).)*

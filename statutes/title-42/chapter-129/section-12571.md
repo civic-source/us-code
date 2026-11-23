@@ -3,9 +3,10 @@ title: "Section 12571 - Authority to provide assistance and approved national se
 usc_title: 42
 usc_section: "12571"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12571"
-generated_at: "2026-03-30T02:56:11.415Z"
+generated_at: "2026-11-23T21:26:33.486Z"
+status: "active"
 ---
 
 # § 12571. Authority to provide assistance and approved national service positions
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:56:11.415Z"
     - **(C)** ensure that the increases described in subparagraph (B) are achieved through an appropriate balance of full- and part-time service positions;
   - **(2)** not later than 1 year after April 21, 2009 , submit a report to the authorizing committees on the status of the plan described in paragraph (1); and
   - **(3)** subject to the availability of appropriations and quality service opportunities, implement the plan described in paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 121](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 103–82, title I, § 101(b)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 788](https://www.govinfo.gov/link/statute/107/788); amended [Pub. L. 111–13, title I, § 1301](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1484](https://www.govinfo.gov/link/statute/123/1484).)*

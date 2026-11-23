@@ -3,9 +3,10 @@ title: "Section 1604 - Disclosure guidelines"
 usc_title: 15
 usc_section: "1604"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1604"
-generated_at: "2026-03-30T02:54:08.138Z"
+generated_at: "2026-11-23T21:25:39.835Z"
+status: "active"
 ---
 
 # § 1604. Disclosure guidelines
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:08.138Z"
   - **(2)** The Bureau, at its discretion, may adjust the annual earned income and net asset requirements of paragraph (1) for inflation.
 - **(h)** Notwithstanding any power granted to any Federal agency under this subchapter, the deference that a court affords to the Bureau with respect to a determination made by the Bureau relating to the meaning or interpretation of any provision of this subchapter, other than section 1639e or 1639h of this title, shall be applied as if the Bureau were the only agency authorized to apply, enforce, interpret, or administer the provisions of this subchapter.
 - **(i)** Notwithstanding subsection (a), the Board shall have authority to prescribe rules under this subchapter with respect to a person described in section 5519(a) of title 12 . Regulations prescribed under this subsection may contain such classifications, differentiations, or other provisions, as in the judgment of the Board are necessary or proper to effectuate the purposes of this subchapter, to prevent circumvention or evasion thereof, or to facilitate compliance therewith.
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 105](https://www.govinfo.gov/link/plaw/90/public/321), May 29, 1968, [82 Stat. 148](https://www.govinfo.gov/link/statute/82/148); [Pub. L. 96–221, title VI, § 605](https://www.govinfo.gov/link/plaw/96/public/221), Mar. 31, 1980, [94 Stat. 170](https://www.govinfo.gov/link/statute/94/170); [Pub. L. 103–325, title I, § 152(e)(2)(A)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2194](https://www.govinfo.gov/link/statute/108/2194); [Pub. L. 104–208, div. A, title II](https://www.govinfo.gov/link/plaw/104/public/208), §§ 2102(b), 2104, Sept. 30, 1996, [110 Stat. 3009–399](https://www.govinfo.gov/link/statute/110/3009), 3009–401; [Pub. L. 111–203, title X, § 1100A(2)](https://www.govinfo.gov/link/plaw/111/public/203), (4)–(7), title XIV, § 1472(c), July 21, 2010, [124 Stat. 2107](https://www.govinfo.gov/link/statute/124/2107), 2108, 2190; [Pub. L. 116–342, § 2(a)](https://www.govinfo.gov/link/plaw/116/public/342), Jan. 13, 2021, [134 Stat. 5134](https://www.govinfo.gov/link/statute/134/5134).)*

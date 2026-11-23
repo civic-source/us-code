@@ -3,9 +3,10 @@ title: "Section 3563 - Conditions of probation"
 usc_title: 18
 usc_section: "3563"
 chapter: 227
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3563"
-generated_at: "2026-03-30T02:54:16.519Z"
+generated_at: "2026-11-23T21:25:44.209Z"
+status: "active"
 ---
 
 # § 3563. Conditions of probation
@@ -49,3 +50,17 @@ generated_at: "2026-03-30T02:54:16.519Z"
 - **(c)** The court may modify, reduce, or enlarge the conditions of a sentence of probation at any time prior to the expiration or termination of the term of probation, pursuant to the provisions of the Federal Rules of Criminal Procedure relating to the modification of probation and the provisions applicable to the initial setting of the conditions of probation.
 - **(d)** The court shall direct that the probation officer provide the defendant with a written statement that sets forth all the conditions to which the sentence is subject, and that is sufficiently clear and specific to serve as a guide for the defendant’s conduct and for such supervision as is required.
 - **(e)** The results of a drug test administered in accordance with subsection (a)(5) shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A defendant who tests positive may be detained pending verification of a positive drug test result. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual’s current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3565(b), when considering any action against a defendant who fails a drug test administered in accordance with subsection (a)(5).
+
+Mandatory Conditions
+
+Discretionary Conditions
+
+Modifications of Conditions
+
+Written Statement of Conditions
+
+Results of Drug Testing
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 212(a)(2)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 1993](https://www.govinfo.gov/link/statute/98/1993); amended [Pub. L. 99–646](https://www.govinfo.gov/link/plaw/99/public/646), §§ 11(a), 12(a), Nov. 10, 1986, [100 Stat. 3594](https://www.govinfo.gov/link/statute/100/3594); [Pub. L. 100–182](https://www.govinfo.gov/link/plaw/100/public/182), §§ 10, 18, Dec. 7, 1987, [101 Stat. 1267](https://www.govinfo.gov/link/statute/101/1267), 1270; [Pub. L. 100–690, title VII](https://www.govinfo.gov/link/plaw/100/public/690), §§ 7086, 7110, 7303(a)(1), 7305(a), Nov. 18, 1988, [102 Stat. 4408](https://www.govinfo.gov/link/statute/102/4408), 4419, 4464, 4465; [Pub. L. 101–647, title XXXV, § 3584](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4930](https://www.govinfo.gov/link/statute/104/4930); [Pub. L. 102–521, § 3](https://www.govinfo.gov/link/plaw/102/public/521), Oct. 25, 1992, [106 Stat. 3404](https://www.govinfo.gov/link/statute/106/3404); [Pub. L. 103–322, title II, § 20414(b)](https://www.govinfo.gov/link/plaw/103/public/322), title XXVIII, § 280002, title XXXII, § 320921(b), Sept. 13, 1994, [108 Stat. 1830](https://www.govinfo.gov/link/statute/108/1830), 2096, 2130; [Pub. L. 104–132, title II, § 203](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1227](https://www.govinfo.gov/link/statute/110/1227); [Pub. L. 104–208, div. C, title III](https://www.govinfo.gov/link/plaw/104/public/208), §§ 308(g)(10)(E), 374(b), Sept. 30, 1996, [110 Stat. 3009–625](https://www.govinfo.gov/link/statute/110/3009), 3009–647; [Pub. L. 104–294, title VI, § 601(k)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3501](https://www.govinfo.gov/link/statute/110/3501); [Pub. L. 105–119, title I, § 115(a)(8)(B)(i)](https://www.govinfo.gov/link/plaw/105/public/119) –(iii), Nov. 26, 1997, [111 Stat. 2465](https://www.govinfo.gov/link/statute/111/2465); [Pub. L. 106–546, § 7(a)](https://www.govinfo.gov/link/plaw/106/public/546), Dec. 19, 2000, [114 Stat. 2734](https://www.govinfo.gov/link/statute/114/2734); [Pub. L. 107–273, div. B, title IV, § 4002(c)(1)](https://www.govinfo.gov/link/plaw/107/public/273), (e)(12), Nov. 2, 2002, [116 Stat. 1808](https://www.govinfo.gov/link/statute/116/1808), 1811; [Pub. L. 109–248, title I, § 141(d)](https://www.govinfo.gov/link/plaw/109/public/248), title II, § 210(a), July 27, 2006, [120 Stat. 603](https://www.govinfo.gov/link/statute/120/603), 615; [Pub. L. 110–406, § 14(a)](https://www.govinfo.gov/link/plaw/110/public/406), (c), Oct. 13, 2008, [122 Stat. 4294](https://www.govinfo.gov/link/statute/122/4294).)*

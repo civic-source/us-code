@@ -3,9 +3,10 @@ title: "Section 4313 - Educational seminars to improve efforts to classify and a
 usc_title: 19
 usc_section: "4313"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4313"
-generated_at: "2026-03-30T02:54:24.705Z"
+generated_at: "2026-11-23T21:25:42.879Z"
+status: "active"
 ---
 
 # § 4313. Educational seminars to improve efforts to classify and appraise imported articles, to improve trade enforcement efforts, and to otherwise facilitate legitimate international trade
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:54:24.705Z"
   - **(2)** The term “United States” means the customs territory of the United States, as defined in General Note 2 to the Harmonized Tariff Schedule of the United States.
   - **(3)** The term “U.S. Customs and Border Protection personnel” means import specialists, auditors, and other appropriate employees of the U.S. Customs and Border Protection.
   - **(4)** The term “U.S. Immigration and Customs Enforcement personnel” means Homeland Security Investigations Directorate personnel and other appropriate employees of U.S. Immigration and Customs Enforcement.
+
+## Source Credit
+
+*([Pub. L. 114–125, title I, § 104](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 130](https://www.govinfo.gov/link/statute/130/130).)*

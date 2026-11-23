@@ -3,9 +3,10 @@ title: "Section 18901 - Definitions"
 usc_title: 42
 usc_section: "18901"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18901"
-generated_at: "2026-03-30T02:56:11.532Z"
+generated_at: "2026-11-23T21:26:33.854Z"
+status: "active"
 ---
 
 # § 18901. Definitions
@@ -47,3 +48,7 @@ In this division:
   - **(28)** The term “STEM education” has the meaning given the term in section 2 of the STEM Education Act of 2015 ( 42 U.S.C. 6621 note).
   - **(29)** The term “technical standard” has the meaning given such term in section 12(d)(5) of the National Technology Transfer and Advancement Act of 1995 ( 15 U.S.C. 272 note).
   - **(30)** The term “Tribal College or University” has the meaning given such term in section 1059c of title 20 .
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, § 10002](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1405](https://www.govinfo.gov/link/statute/136/1405).)*

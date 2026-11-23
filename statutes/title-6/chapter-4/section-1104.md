@@ -3,9 +3,10 @@ title: "Section 1104 - Immunity for reports of suspected terrorist activity or s
 usc_title: 6
 usc_section: "1104"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1104"
-generated_at: "2026-03-30T02:53:09.503Z"
+generated_at: "2026-11-23T21:25:25.862Z"
+status: "active"
 ---
 
 # § 1104. Immunity for reports of suspected terrorist activity or suspicious behavior and response
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:09.503Z"
   - **(4)** The term “passenger transportation system” means an entity or entities organized to provide passenger transportation using vehicles, including the infrastructure used to provide such transportation.
   - **(5)** The term “vehicle” has the meaning given to that term in section 1992(16) 3 3 So in original. Probably should be section “1992(d)(16)”. of title 18.
 - **(e)** This section shall take effect on October 1, 2006 , and shall apply to all activities and claims occurring on or after such date.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XII, § 1206](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 388](https://www.govinfo.gov/link/statute/121/388).)*

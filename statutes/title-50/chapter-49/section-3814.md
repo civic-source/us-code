@@ -3,9 +3,10 @@ title: "Section 3814 - Definitions"
 usc_title: 50
 usc_section: "3814"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3814"
-generated_at: "2026-03-30T02:56:26.262Z"
+generated_at: "2026-11-23T21:26:39.075Z"
+status: "active"
 ---
 
 # § 3814. Definitions
@@ -24,3 +25,7 @@ When used in this chapter—
   - **(3)** The term “regular or duly ordained minister of religion” does not include a person who irregularly or incidentally preaches and teaches the principles of religion of a church, religious sect, or organization and does not include any person who may have been duly ordained a minister in accordance with the ceremonial, rite, or discipline of a church, religious sect or organization, but who does not regularly, as a bona fide vocation, teach and preach the principles of religion and administer the ordinances of public worship as embodied in the creed or principles of his church, sect, or organization.
 - **(h)** The term “organized unit”, when used with respect to a reserve component, shall be deemed to mean a unit in which the members thereof are required satisfactorily to participate in scheduled drills and training periods as prescribed by the Secretary of Defense.
 - **(i)** The term “reserve components of the armed forces” shall, unless the context otherwise requires, be deemed to include the federally recognized National Guard of the United States, the federally recognized Air National Guard of the United States, the Officers’ Reserve Corps, the Regular Army Reserve, the Air Force Reserve, the Enlisted Reserve Corps, the Navy Reserve, the Marine Corps Reserve, and the Coast Guard Reserve, and shall include, in addition to the foregoing, the Public Health Service Reserve when serving with the armed forces.
+
+## Source Credit
+
+*(June 24, 1948, ch. 625, title I, § 16, [62 Stat. 624](https://www.govinfo.gov/link/statute/62/624); Sept. 27, 1950, ch. 1059, § 1(12), (13), [64 Stat. 1074](https://www.govinfo.gov/link/statute/64/1074); June 19, 1951, ch. 144, title I, § 1(v), [65 Stat. 87](https://www.govinfo.gov/link/statute/65/87); [Pub. L. 86–70, § 36](https://www.govinfo.gov/link/plaw/86/public/70), June 25, 1959, [73 Stat. 150](https://www.govinfo.gov/link/statute/73/150); [Pub. L. 86–624, § 39](https://www.govinfo.gov/link/plaw/86/public/624), July 12, 1960, [74 Stat. 422](https://www.govinfo.gov/link/statute/74/422); [Pub. L. 92–129, title I, § 101(a)(34)](https://www.govinfo.gov/link/plaw/92/public/129), Sept. 28, 1971, [85 Stat. 353](https://www.govinfo.gov/link/statute/85/353); [Pub. L. 109–163, div. A, title V, § 515(g)(3)(B)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3236](https://www.govinfo.gov/link/statute/119/3236).)*

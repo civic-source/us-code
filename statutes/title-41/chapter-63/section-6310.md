@@ -3,9 +3,10 @@ title: "Section 6310 - Requirement for agencies to buy domestically made United 
 usc_title: 41
 usc_section: "6310"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 6310"
-generated_at: "2026-03-30T02:55:55.810Z"
+generated_at: "2026-11-23T21:26:18.828Z"
+status: "active"
 ---
 
 # § 6310. Requirement for agencies to buy domestically made United States flags
@@ -22,3 +23,25 @@ generated_at: "2026-03-30T02:55:55.810Z"
 - **(e)** In this section:
   - **(1)** The term “agency” has the meaning given the term “executive agency” in section 102 of title 40 .
   - **(2)** The term “simplified acquisition threshold” has the meaning given that term in section 134.
+
+Requirement
+
+Availability Exception
+
+Exception for Certain Procurements
+
+Presidential Waiver.—
+
+In general
+
+Notice of waiver
+
+Definitions
+
+Agency
+
+Simplified acquisition threshold
+
+## Source Credit
+
+*(Added [Pub. L. 118–74, § 2(a)(1)](https://www.govinfo.gov/link/plaw/118/public/74), July 30, 2024, [138 Stat. 1505](https://www.govinfo.gov/link/statute/138/1505).)*

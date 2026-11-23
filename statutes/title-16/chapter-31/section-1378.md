@@ -3,9 +3,10 @@ title: "Section 1378 - International program"
 usc_title: 16
 usc_section: "1378"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1378"
-generated_at: "2026-03-30T02:54:22.959Z"
+generated_at: "2026-11-23T21:25:51.863Z"
+status: "active"
 ---
 
 # § 1378. International program
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:22.959Z"
     - **(A)** as a result of the study required under paragraph (1)(A) of this subsection, that the North Pacific fur seal herds are below their optimum sustainable population and are not trending upward toward such level, or have reached their optimum sustainable population but are commencing a downward trend, and believes the herds to be in danger of depletion; or
     - **(B)** as a result of the study required under paragraph (1)(B) of this subsection, that modifications of the Convention are desirable to make it and this chapter consistent;
 - **(c)** The Secretary shall include a description of the annual results of discussions initiated and conducted pursuant to subsection (a)(2)(B), as well as any proposals for further action to achieve the purposes of that subsection, in the report required under section 1373(f) of this title .
+
+## Source Credit
+
+*([Pub. L. 92–522, title I, § 108](https://www.govinfo.gov/link/plaw/92/public/522), Oct. 21, 1972, [86 Stat. 1038](https://www.govinfo.gov/link/statute/86/1038); [Pub. L. 100–711, § 4(b)](https://www.govinfo.gov/link/plaw/100/public/711), (c), Nov. 23, 1988, [102 Stat. 4766](https://www.govinfo.gov/link/statute/102/4766), 4767; [Pub. L. 105–42, § 4(e)](https://www.govinfo.gov/link/plaw/105/public/42), Aug. 15, 1997, [111 Stat. 1125](https://www.govinfo.gov/link/statute/111/1125).)*

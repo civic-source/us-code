@@ -3,9 +3,10 @@ title: "Section 1736a - Administrative provisions"
 usc_title: 7
 usc_section: "1736a"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1736a"
-generated_at: "2026-03-30T02:53:42.338Z"
+generated_at: "2026-11-23T21:25:28.166Z"
+status: "active"
 ---
 
 # § 1736a. Administrative provisions
@@ -65,3 +66,11 @@ generated_at: "2026-03-30T02:53:42.338Z"
   - **(3)** For purposes of applying subparagraph (H) of paragraph (2), the rate of return for a commodity shall be equal to the proportion that—
     - **(A)** the proceeds the implementing partners generate through monetization; bears to
     - **(B)** the cost to the Federal Government to procure and ship the commodity to a recipient country for monetization.
+
+Feasibility assessments
+
+Establishment of sites
+
+## Source Credit
+
+*(July 10, 1954, ch. 469, title IV, § 407, as added [Pub. L. 89–808, § 2(E)](https://www.govinfo.gov/link/plaw/89/public/808), Nov. 11, 1966, [80 Stat. 1537](https://www.govinfo.gov/link/statute/80/1537); amended [Pub. L. 90–436, § 8](https://www.govinfo.gov/link/plaw/90/public/436), July 29, 1968, [82 Stat. 451](https://www.govinfo.gov/link/statute/82/451); [Pub. L. 94–161, title II, § 210](https://www.govinfo.gov/link/plaw/94/public/161), Dec. 20, 1975, [89 Stat. 854](https://www.govinfo.gov/link/statute/89/854); [Pub. L. 101–508, title I, § 1204(b)(3)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–11](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 101–624, title XV, § 1512](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3650](https://www.govinfo.gov/link/statute/104/3650); [Pub. L. 102–237, title III](https://www.govinfo.gov/link/plaw/102/public/237), §§ 319, 324, 325, 328, 329, 332, Dec. 13, 1991, [105 Stat. 1857](https://www.govinfo.gov/link/statute/105/1857), 1858; [Pub. L. 104–66, title I, § 1011(e)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 709](https://www.govinfo.gov/link/statute/109/709); [Pub. L. 104–127, title II, § 216](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 957](https://www.govinfo.gov/link/statute/110/957); [Pub. L. 106–472, title III, § 310(b)](https://www.govinfo.gov/link/plaw/106/public/472), Nov. 9, 2000, [114 Stat. 2076](https://www.govinfo.gov/link/statute/114/2076); [Pub. L. 107–171, title III](https://www.govinfo.gov/link/plaw/107/public/171), §§ 3010, 3011, May 13, 2002, [116 Stat. 284](https://www.govinfo.gov/link/statute/116/284); [Pub. L. 110–246, title III](https://www.govinfo.gov/link/plaw/110/public/246), §§ 3017, 3018(a), June 18, 2008, [122 Stat. 1827](https://www.govinfo.gov/link/statute/122/1827); [Pub. L. 113–79, title III](https://www.govinfo.gov/link/plaw/113/public/79), §§ 3009, 3010, Feb. 7, 2014, [128 Stat. 776](https://www.govinfo.gov/link/statute/128/776), 777; [Pub. L. 115–334, title III](https://www.govinfo.gov/link/plaw/115/public/334), §§ 3111, 3112(a), Dec. 20, 2018, [132 Stat. 4605](https://www.govinfo.gov/link/statute/132/4605).)*

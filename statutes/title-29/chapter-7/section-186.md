@@ -3,9 +3,10 @@ title: "Section 186 - Restrictions on financial transactions"
 usc_title: 29
 usc_section: "186"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 186"
-generated_at: "2026-03-30T02:55:18.679Z"
+generated_at: "2026-11-23T21:26:02.170Z"
+status: "active"
 ---
 
 # § 186. Restrictions on financial transactions
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:18.679Z"
 - **(e)** The district courts of the United States and the United States courts of the Territories and possessions shall have jurisdiction, for cause shown, and subject to the provisions of section 381 of title 28 (relating to notice to opposite party) to restrain violations of this section, without regard to the provisions of section 17 of title 15 and section 52 of this title , and the provisions of chapter 6 of this title.
 - **(f)** This section shall not apply to any contract in force on June 23, 1947 , until the expiration of such contract, or until July 1, 1948 , whichever first occurs.
 - **(g)** Compliance with the restrictions contained in subsection (c)(5)(B) upon contributions to trust funds, otherwise lawful, shall not be applicable to contributions to such trust funds established by collective agreement prior to January 1, 1946 , nor shall subsection (c)(5)(A) be construed as prohibiting contributions to such trust funds if prior to January 1, 1947 , such funds contained provisions for pooled vacation benefits.
+
+## Source Credit
+
+*(June 23, 1947, ch. 120, title III, § 302, [61 Stat. 157](https://www.govinfo.gov/link/statute/61/157); [Pub. L. 86–257, title V, § 505](https://www.govinfo.gov/link/plaw/86/public/257), Sept. 14, 1959, [73 Stat. 537](https://www.govinfo.gov/link/statute/73/537); [Pub. L. 91–86](https://www.govinfo.gov/link/plaw/91/public/86), Oct. 14, 1969, [83 Stat. 133](https://www.govinfo.gov/link/statute/83/133); [Pub. L. 93–95](https://www.govinfo.gov/link/plaw/93/public/95), Aug. 15, 1973, [87 Stat. 314](https://www.govinfo.gov/link/statute/87/314); [Pub. L. 95–524, § 6(d)](https://www.govinfo.gov/link/plaw/95/public/524), Oct. 27, 1978, [92 Stat. 2021](https://www.govinfo.gov/link/statute/92/2021); [Pub. L. 98–473, title II, § 801](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2131](https://www.govinfo.gov/link/statute/98/2131); [Pub. L. 101–273, § 1](https://www.govinfo.gov/link/plaw/101/public/273), Apr. 18, 1990, [104 Stat. 138](https://www.govinfo.gov/link/statute/104/138); [Pub. L. 104–88, title III, § 337](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 954](https://www.govinfo.gov/link/statute/109/954).)*

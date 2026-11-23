@@ -3,9 +3,10 @@ title: "Section 7407 - Enforcement"
 usc_title: 16
 usc_section: "7407"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 7407"
-generated_at: "2026-03-30T02:54:23.075Z"
+generated_at: "2026-11-23T21:25:52.066Z"
+status: "active"
 ---
 
 # § 7407. Enforcement
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:23.075Z"
   - **(3)** For the purposes of this section there is a rebuttable presumption that all fish, or components thereof, found on board a vessel that is used or seized in connection with a violation of this chapter (including any regulation promulgated under this chapter 1 ) were taken, obtained, or retained as a result of IUU fishing or fishing-related activities in support of IUU fishing.
 - **(d)** Any person (other than a foreign government agency, or entity wholly owned by a foreign government) who knowingly commits an act prohibited by section 7406 of this title shall be subject to subsections (b) and (c) of section 1859 of this title .
 - **(e)** Any person assessed a civil penalty for, or convicted of, any violation of this chapter (including any regulation promulgated under this chapter) and any claimant in a forfeiture action brought for such a violation, shall be liable for the reasonable costs incurred by the Secretary in storage, care, and maintenance of any property seized in connection with the violation.
+
+## Source Credit
+
+*([Pub. L. 114–81, title III, § 308](https://www.govinfo.gov/link/plaw/114/public/81), Nov. 5, 2015, [129 Stat. 668](https://www.govinfo.gov/link/statute/129/668).)*

@@ -3,9 +3,10 @@ title: "Section 1310 - Sale of war supplies, land, and buildings"
 usc_title: 40
 usc_section: "1310"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 1310"
-generated_at: "2026-03-30T02:55:43.377Z"
+generated_at: "2026-11-23T21:26:14.844Z"
+status: "active"
 ---
 
 # § 1310. Sale of war supplies, land, and buildings
@@ -18,3 +19,36 @@ generated_at: "2026-03-30T02:55:43.377Z"
   - **(1)** other departments of the Government;
   - **(2)** governments of foreign countries engaged in war against a country with which the United States is at war; and
   - **(3)** members of the National Rifle Association and of other recognized associations organized in the United States for the encouragement of small-arms target practice.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1310 | 40:314. | July 9, 1918, ch. 143 (last par. on p. 850), 40 Stat. 850 ; Feb. 25, 1919, ch. 39, § 3 , 40 Stat. 1173 ; May 29, 1928, ch. 901, § 1(8) , 45 Stat. 986 ; Aug. 7, 1946, ch. 770 , (55), 60 Stat. 870 . |
+
+
+In General
+
+Limitation on Sale of Guns and Ammunition
+
+Historical and Revision Notes
+
+1310
+
+July 9, 1918, ch. 143
+
+40 Stat. 850
+
+Feb. 25, 1919, ch. 39, § 3
+
+40 Stat. 1173
+
+May 29, 1928, ch. 901, § 1(8)
+
+45 Stat. 986
+
+Aug. 7, 1946, ch. 770
+
+60 Stat. 870
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1137](https://www.govinfo.gov/link/statute/116/1137).)*

@@ -3,9 +3,10 @@ title: "Section 6953 - Healthy food financing initiative"
 usc_title: 7
 usc_section: "6953"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6953"
-generated_at: "2026-03-30T02:53:42.441Z"
+generated_at: "2026-11-23T21:25:28.407Z"
+status: "active"
 ---
 
 # § 6953. Healthy food financing initiative
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:53:42.441Z"
         - **(V)** The project receives funding from other sources, including other Federal agencies.
         - **(VI)** The project otherwise advances the purpose of this section, as determined by the Secretary.
 - **(d)** There is authorized to be appropriated to the Secretary to carry out this section $125,000,000, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 103–354, title II, § 243](https://www.govinfo.gov/link/plaw/103/public/354), as added [Pub. L. 113–79, title IV, § 4206](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 824](https://www.govinfo.gov/link/statute/128/824); amended [Pub. L. 115–334, title IV, § 4204](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4656](https://www.govinfo.gov/link/statute/132/4656).)*

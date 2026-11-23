@@ -3,9 +3,10 @@ title: "Section 2426 - Congressional oversight of special access programs"
 usc_title: 50
 usc_section: "2426"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2426"
-generated_at: "2026-03-30T02:56:26.224Z"
+generated_at: "2026-11-23T21:26:38.975Z"
+status: "active"
 ---
 
 # § 2426. Congressional oversight of special access programs
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:26.224Z"
 - **(f)** A special access program may not be initiated until—
   - **(1)** the congressional defense committees are notified of the program; and
   - **(2)** a period of 30 days elapses after such notification is received.
+
+## Source Credit
+
+*([Pub. L. 106–65, div. C, title XXXII, § 3236](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 962](https://www.govinfo.gov/link/statute/113/962); [Pub. L. 113–291, div. C, title XXXI, § 3143(b)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3902](https://www.govinfo.gov/link/statute/128/3902).)*

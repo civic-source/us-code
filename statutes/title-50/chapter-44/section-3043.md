@@ -3,9 +3,10 @@ title: "Section 3043 - Annual national security strategy report"
 usc_title: 50
 usc_section: "3043"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3043"
-generated_at: "2026-03-30T02:56:26.230Z"
+generated_at: "2026-11-23T21:26:39.001Z"
+status: "active"
 ---
 
 # § 3043. Annual national security strategy report
@@ -21,3 +22,31 @@ generated_at: "2026-03-30T02:56:26.230Z"
   - **(4)** The adequacy of the capabilities of the United States to carry out the national security strategy of the United States, including an evaluation of the balance among the capabilities of all elements of the national power of the United States to support the implementation of the national security strategy.
   - **(5)** Such other information as may be necessary to help inform Congress on matters relating to the national security strategy of the United States.
 - **(c)** Each national security strategy report shall be transmitted to Congress in classified form, but may include an unclassified summary.
+
+Purpose
+
+National Security Planning Guidance.—
+
+Guidance required
+
+Contents of guidance
+
+Review and update of guidance
+
+Report.—
+
+In general
+
+Form
+
+Definition
+
+Specified geographic area defined
+
+Implementation Plan
+
+Definitions
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title I, § 108, formerly § 104, as added [Pub. L. 99–433, title VI, § 603(a)(1)](https://www.govinfo.gov/link/plaw/99/public/433), Oct. 1, 1986, [100 Stat. 1074](https://www.govinfo.gov/link/statute/100/1074); renumbered § 108, [Pub. L. 102–496, title VII, § 705(a)(2)](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3190](https://www.govinfo.gov/link/statute/106/3190); amended [Pub. L. 106–65, div. A, title IX, § 901(b)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 717](https://www.govinfo.gov/link/statute/113/717); [Pub. L. 114–328, div. A, title IX, § 944](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2371](https://www.govinfo.gov/link/statute/130/2371); [Pub. L. 116–92, div. E, title LXVII, § 6742(b)(4)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2240](https://www.govinfo.gov/link/statute/133/2240).)*

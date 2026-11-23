@@ -3,9 +3,10 @@ title: "Section 2452 - Authorization of activities"
 usc_title: 22
 usc_section: "2452"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2452"
-generated_at: "2026-03-30T02:55:05.368Z"
+generated_at: "2026-11-23T21:25:58.496Z"
+status: "active"
 ---
 
 # § 2452. Authorization of activities
@@ -33,3 +34,11 @@ generated_at: "2026-03-30T02:55:05.368Z"
   - **(10)** promoting studies, research, instruction, and other educational activities of citizens and nationals of foreign countries in American schools, colleges, and universities located in the United States by making available to citizens and nationals of less developed friendly foreign countries for exchange for currencies of their respective countries (other than excess foreign currencies), at United States embassies, United States dollars in such amounts as may be necessary to enable such foreign citizens or nationals who are coming temporarily to the United States as students, trainees, teachers, instructors, or professors to meet expenses of the kind described in section 2454(e)(1) of this title ;
   - **(11)** interchanges and visits between the United States and other countries of scientists, scholars, leaders, and other experts in the fields of environmental science and environmental management; and
   - **(12)** promoting respect for and guarantees of religious freedom abroad by interchanges and visits between the United States and other nations of religious leaders, scholars, and religious and legal experts in the field of religious freedom.
+
+In General
+
+Grantee Organizations
+
+## Source Credit
+
+*([Pub. L. 87–256, § 102](https://www.govinfo.gov/link/plaw/87/public/256), Sept. 21, 1961, [75 Stat. 527](https://www.govinfo.gov/link/statute/75/527); [Pub. L. 87–565](https://www.govinfo.gov/link/plaw/87/public/565), pt. IV, § 403, Aug. 1, 1962, [76 Stat. 263](https://www.govinfo.gov/link/statute/76/263); [Pub. L. 89–698, title II, § 203(a)](https://www.govinfo.gov/link/plaw/89/public/698), Oct. 29, 1966, [80 Stat. 1071](https://www.govinfo.gov/link/statute/80/1071); 1977 Reorg. Plan No. 2, § 7(a)(2), 42 F.R. 62461, [91 Stat. 1637](https://www.govinfo.gov/link/statute/91/1637); [Pub. L. 97–241, title III, § 303(b)](https://www.govinfo.gov/link/plaw/97/public/241), Aug. 24, 1982, [96 Stat. 291](https://www.govinfo.gov/link/statute/96/291); [Pub. L. 98–164, title VII, § 703(a)](https://www.govinfo.gov/link/plaw/98/public/164), Nov. 22, 1983, [97 Stat. 1045](https://www.govinfo.gov/link/statute/97/1045); [Pub. L. 105–292, title V, § 503](https://www.govinfo.gov/link/plaw/105/public/292), Oct. 27, 1998, [112 Stat. 2811](https://www.govinfo.gov/link/statute/112/2811); [Pub. L. 117–263, div. I, title XCVI, § 9604(b)(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3912](https://www.govinfo.gov/link/statute/136/3912).)*

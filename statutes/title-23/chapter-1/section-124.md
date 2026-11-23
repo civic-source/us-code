@@ -3,9 +3,10 @@ title: "Section 124 - Bridge investment program"
 usc_title: 23
 usc_section: "124"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 124"
-generated_at: "2026-03-30T02:55:12.549Z"
+generated_at: "2026-11-23T21:25:53.869Z"
+status: "active"
 ---
 
 # § 124. Bridge investment program
@@ -240,3 +241,185 @@ generated_at: "2026-03-30T02:55:12.549Z"
     - **(D)** $22,000,000 for fiscal year 2025; and
     - **(E)** $24,000,000 for fiscal year 2026.
   - **(2)** For purposes of section 201, funds made available for section 202(d) under paragraph (1) shall be considered to be part of the tribal transportation program.
+
+Definitions
+
+Eligible project.—
+
+In general
+
+Inclusions
+
+Large project
+
+Program
+
+Establishment of Bridge Investment Program.—
+
+In general
+
+Goals
+
+Grant Authority.—
+
+In general
+
+Grant amounts
+
+Maximum amount
+
+Federal share.—
+
+Maximum federal involvement
+
+Off-system bridges
+
+Federal land management agencies and tribal governments
+
+Considerations.—
+
+In general
+
+(aa) at risk of falling into or remaining in poor condition; or
+
+(bb) in fair condition and at risk of falling into poor condition within the next 3 years;
+
+(aa) the current use of the bridge; or
+
+(bb) load and traffic requirements typical of the regional corridor or local network in which the bridge is located; or
+
+Requirement
+
+Culvert limitation
+
+Eligible Entity
+
+Eligible Project Requirements
+
+Competitive Process and Evaluation of Eligible Projects Other Than Large Projects.—
+
+Competitive process.—
+
+In general
+
+Requirements
+
+Applications
+
+Evaluation.—
+
+In general
+
+Requirements
+
+(aa) innovative design and construction techniques; or
+
+(bb) innovative technologies; or
+
+Competitive Process, Evaluation, and Annual Report for Large Projects.—
+
+In general.—
+
+Applications
+
+First fiscal year
+
+Information required
+
+Determination; notice
+
+Evaluation
+
+Ratings.—
+
+In general
+
+Requirement
+
+Interim methodology
+
+Annual report on funding recommendations for large projects.—
+
+In general
+
+Limitations.—
+
+In general
+
+General fund projects
+
+(aa) funds other than from the Highway Trust Fund have been made available for the project; and
+
+(bb) the Secretary determines that the project can be completed using funds other than from the Highway Trust Fund that are anticipated to be available in future fiscal years.
+
+Considerations
+
+Project diversity
+
+Eligible Project Costs
+
+TIFIA Program
+
+Multiyear Grant Agreements for Large Projects.—
+
+In general
+
+Requirements
+
+Special financial rules.—
+
+In general
+
+Statement of contingent commitment
+
+Interest and other financing costs.—
+
+In general
+
+Certification
+
+Advance payment
+
+Undertaking Parts of Projects in Advance Under Letters of No Prejudice.—
+
+In general
+
+Interest and other financing costs.—
+
+In general
+
+Certification
+
+No obligation or influence on recommendations
+
+Federally-owned Bridges.—
+
+Divestiture consideration
+
+Treatment
+
+Treatment of Projects
+
+Congressional Notification
+
+Reports.—
+
+Annual report
+
+GAO assessment and report
+
+Limitation.—
+
+Large projects
+
+Unutilized amounts
+
+Tribal Transportation Facility Bridge Set Aside.—
+
+In general
+
+Treatment
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. A, title I, § 11118(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 484](https://www.govinfo.gov/link/statute/135/484).)*

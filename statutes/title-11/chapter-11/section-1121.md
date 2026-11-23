@@ -3,9 +3,10 @@ title: "Section 1121 - Who may file a plan"
 usc_title: 11
 usc_section: "1121"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1121"
-generated_at: "2026-03-30T02:53:53.884Z"
+generated_at: "2026-11-23T21:25:34.951Z"
+status: "active"
 ---
 
 # § 1121. Who may file a plan
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:53.884Z"
     - **(A)** the debtor, after providing notice to parties in interest (including the United States trustee), demonstrates by a preponderance of the evidence that it is more likely than not that the court will confirm a plan within a reasonable period of time;
     - **(B)** a new deadline is imposed at the time the extension is granted; and
     - **(C)** the order extending time is signed before the existing deadline has expired.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2631](https://www.govinfo.gov/link/statute/92/2631); [Pub. L. 98–353, title III, § 506](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 385](https://www.govinfo.gov/link/statute/98/385); [Pub. L. 99–554, title II, § 283(u)](https://www.govinfo.gov/link/plaw/99/public/554), Oct. 27, 1986, [100 Stat. 3118](https://www.govinfo.gov/link/statute/100/3118); [Pub. L. 103–394, title II, § 217(d)](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4127](https://www.govinfo.gov/link/statute/108/4127); [Pub. L. 109–8, title IV](https://www.govinfo.gov/link/plaw/109/public/8), §§ 411, 437, Apr. 20, 2005, [119 Stat. 106](https://www.govinfo.gov/link/statute/119/106), 113.)*

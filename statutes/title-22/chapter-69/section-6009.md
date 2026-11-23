@@ -3,9 +3,10 @@ title: "Section 6009 - Enforcement"
 usc_title: 22
 usc_section: "6009"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6009"
-generated_at: "2026-03-30T02:55:05.422Z"
+generated_at: "2026-11-23T21:25:58.674Z"
+status: "active"
 ---
 
 # § 6009. Enforcement
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.422Z"
 - **(c)**
 - **(d)** The penalties set forth in section 16 of the Trading With the Enemy Act [ 50 U.S.C. 4315 ] shall apply to violations of this chapter to the same extent as such penalties apply to violations under that Act [ 50 U.S.C. 4301 et seq.].
 - **(e)** The Department of the Treasury shall establish and maintain a branch of the Office of Foreign Assets Control in Miami, Florida, in order to strengthen the enforcement of this chapter.
+
+## Source Credit
+
+*([Pub. L. 102–484, div. A, title XVII, § 1710](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2580](https://www.govinfo.gov/link/statute/106/2580).)*

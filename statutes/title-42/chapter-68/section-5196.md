@@ -3,9 +3,10 @@ title: "Section 5196 - Detailed functions of administration"
 usc_title: 42
 usc_section: "5196"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5196"
-generated_at: "2026-03-30T02:56:11.227Z"
+generated_at: "2026-11-23T21:26:32.772Z"
+status: "active"
 ---
 
 # § 5196. Detailed functions of administration
@@ -55,3 +56,87 @@ generated_at: "2026-03-30T02:56:11.227Z"
   - **(8)** The Administrator shall submit to Congress a report, at least annually, regarding all contributions made pursuant to this subsection.
   - **(9)** All laborers and mechanics employed by contractors or subcontractors in the performance of construction work financed with the assistance of any contribution of Federal funds made by the Administrator under this subsection shall be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40, and every such employee shall receive compensation at a rate not less than one and ½ times the basic rate of pay of the employee for all hours worked in any workweek in excess of eight hours in any workday or 40 hours in the workweek, as the case may be. The Administrator shall make no contribution of Federal funds without first obtaining adequate assurance that these labor standards will be maintained upon the construction work. The Secretary of Labor shall have, with respect to the labor standards specified in this subsection, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (5 U.S.C. App.) and section 3145 of title 40 .
 - **(k)** The Administrator may arrange for the sale or disposal of materials and facilities found by the Administrator to be unnecessary or unsuitable for emergency preparedness purposes in the same manner as provided for excess property under chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41. Any funds received as proceeds from the sale or other disposition of such materials and facilities shall be deposited into the Treasury as miscellaneous receipts.
+
+Definitions
+
+Administrator
+
+Working group
+
+Working Group
+
+Membership
+
+Duties
+
+No Compensation
+
+Guidance Determination
+
+New Guidance
+
+Sunset.—
+
+In general
+
+Extension
+
+Definitions
+
+Authorized representative of the federal government
+
+Chief operating officer
+
+Emergency
+
+Employee
+
+Locality
+
+Mutual aid agreement
+
+National capital region or region
+
+Party
+
+Public service event
+
+State
+
+Training
+
+Mutual Aid Authorized.—
+
+In general
+
+Facilitating localities
+
+Application and effect
+
+Rights described
+
+District of Columbia.—
+
+In general
+
+Authorization of appropriations
+
+Liability and Actions at Law.—
+
+In general
+
+Actions
+
+Immunities
+
+Workers Compensation.—
+
+Compensation
+
+Other state law
+
+Licenses and Permits
+
+## Source Credit
+
+*([Pub. L. 93–288, title VI, § 611](https://www.govinfo.gov/link/plaw/93/public/288), as added [Pub. L. 103–337, div. C, title XXXIV, § 3411(a)(3)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 3102](https://www.govinfo.gov/link/statute/108/3102); amended [Pub. L. 104–66, title II, § 2071](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 729](https://www.govinfo.gov/link/statute/109/729); [Pub. L. 108–458, title VII, § 7406](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3851](https://www.govinfo.gov/link/statute/118/3851); [Pub. L. 109–308, § 3](https://www.govinfo.gov/link/plaw/109/public/308), Oct. 6, 2006, [120 Stat. 1725](https://www.govinfo.gov/link/statute/120/1725); [Pub. L. 111–351, § 3(c)(2)](https://www.govinfo.gov/link/plaw/111/public/351), Jan. 4, 2011, [124 Stat. 3864](https://www.govinfo.gov/link/statute/124/3864).)*

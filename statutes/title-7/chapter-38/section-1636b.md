@@ -3,9 +3,10 @@ title: "Section 1636b - Enforcement"
 usc_title: 7
 usc_section: "1636b"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1636b"
-generated_at: "2026-03-30T02:53:42.332Z"
+generated_at: "2026-11-23T21:25:28.142Z"
+status: "active"
 ---
 
 # § 1636b. Enforcement
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:42.332Z"
   - **(1)** If a person subject to this subchapter fails to obey a cease and desist or civil penalty order issued under this subsection after the order has become final and unappealable, or after the appropriate United States district court has entered a final judgment in favor of the Secretary, the United States may apply to the appropriate district court for enforcement of the order.
   - **(2)** If the court determines that the order was lawfully made and duly served and that the person violated the order, the court shall enforce the order.
   - **(3)** If the court finds that the person violated the cease and desist provisions of the order, the person shall be subject to a civil penalty of not more than $10,000 for each offense.
+
+## Source Credit
+
+*(Aug. 14, 1946, ch. 966, title II, § 253, as added [Pub. L. 106–78, title IX, § 911(2)](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1202](https://www.govinfo.gov/link/statute/113/1202).)*

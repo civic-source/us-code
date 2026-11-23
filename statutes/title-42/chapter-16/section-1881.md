@@ -3,9 +3,10 @@ title: "Section 1881 - Award of National Medal of Science"
 usc_title: 42
 usc_section: "1881"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1881"
-generated_at: "2026-03-30T02:56:11.131Z"
+generated_at: "2026-11-23T21:26:32.234Z"
+status: "active"
 ---
 
 # § 1881. Award of National Medal of Science
@@ -16,3 +17,19 @@ generated_at: "2026-03-30T02:56:11.131Z"
   - **(1)** is a citizen or other national of the United States; or
   - **(2)** is an alien lawfully admitted to the United States for permanent residence who (A) has filed an application for petition for naturalization in the manner prescribed by section 1445(b) of title 8 and (B) is not permanently ineligible to become a citizen of the United States.
 - **(d)** The presentation of the award shall be made by the President with such ceremonies as he may deem proper, including attendance by appropriate Members of Congress.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*([Pub. L. 86–209, § 2](https://www.govinfo.gov/link/plaw/86/public/209), Aug. 25, 1959, [73 Stat. 431](https://www.govinfo.gov/link/statute/73/431); [Pub. L. 96–516, § 22(a)(1)](https://www.govinfo.gov/link/plaw/96/public/516), Dec. 12, 1980, [94 Stat. 3010](https://www.govinfo.gov/link/statute/94/3010).)*

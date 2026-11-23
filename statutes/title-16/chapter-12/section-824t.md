@@ -3,9 +3,10 @@ title: "Section 824t - Electricity market transparency rules"
 usc_title: 16
 usc_section: "824t"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 824t"
-generated_at: "2026-03-30T02:54:22.919Z"
+generated_at: "2026-11-23T21:25:51.767Z"
+status: "active"
 ---
 
 # § 824t. Electricity market transparency rules
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:22.919Z"
   - **(1)** Except as provided in paragraph (2), no person shall be subject to any civil penalty under this section with respect to any violation occurring more than 3 years before the date on which the person is provided notice of the proposed penalty under section 825 o –1 of this title.
   - **(2)** Paragraph (1) shall not apply in any case in which the Commission finds that a seller that has entered into a contract for the sale of electric energy at wholesale or transmission service subject to the jurisdiction of the Commission has engaged in fraudulent market manipulation activities materially affecting the contract in violation of section 824v of this title .
 - **(f)** This section shall not apply to a transaction for the purchase or sale of wholesale electric energy or transmission services within the area described in section 824k(k)(2)(A) of this title .
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. II, § 220, as added [Pub. L. 109–58, title XII, § 1281](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 978](https://www.govinfo.gov/link/statute/119/978).)*

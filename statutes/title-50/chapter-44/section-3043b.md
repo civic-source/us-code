@@ -3,9 +3,10 @@ title: "Section 3043b - Annual reports on worldwide threats"
 usc_title: 50
 usc_section: "3043b"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3043b"
-generated_at: "2026-03-30T02:56:26.230Z"
+generated_at: "2026-11-23T21:26:39.002Z"
+status: "active"
 ---
 
 # § 3043b. Annual reports on worldwide threats
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:26.230Z"
 - **(d)**
   - **(1)** Upon request by the appropriate congressional committees, the Director (and any other head of an element of the intelligence community determined appropriate by the committees in consultation with the Director) shall testify before such committees in an open setting regarding a report under subsection (b).
   - **(2)** Any information that may not be disclosed during an open hearing under paragraph (1) in order to protect intelligence sources and methods may instead be discussed in a closed hearing that immediately follows such open hearing.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title I, § 108B, as added [Pub. L. 116–260, div. W, title VI, § 617(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2400](https://www.govinfo.gov/link/statute/134/2400).)*

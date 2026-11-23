@@ -3,9 +3,10 @@ title: "Section 829 - Prescriptions"
 usc_title: 21
 usc_section: "829"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 829"
-generated_at: "2026-03-30T02:54:54.294Z"
+generated_at: "2026-11-23T21:25:56.237Z"
+status: "active"
 ---
 
 # § 829. Prescriptions
@@ -43,3 +44,15 @@ generated_at: "2026-03-30T02:54:54.294Z"
       - **(i)** may be filled; and
       - **(ii)** shall be filled not later than 72 hours after the prescription is issued.
   - **(3)** Notwithstanding paragraph (1) or (2), in any circumstance in which, as of the day before July 22, 2016 , a prescription for a controlled substance in schedule II may be lawfully partially filled, the Attorney General may allow such a prescription to be partially filled.
+
+In General
+
+Materials Included
+
+Stakeholder Input
+
+Materials for Training on Verification of Identity
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 309](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1260](https://www.govinfo.gov/link/statute/84/1260); [Pub. L. 110–425, § 2](https://www.govinfo.gov/link/plaw/110/public/425), Oct. 15, 2008, [122 Stat. 4820](https://www.govinfo.gov/link/statute/122/4820); [Pub. L. 114–198, title VII, § 702(a)](https://www.govinfo.gov/link/plaw/114/public/198), July 22, 2016, [130 Stat. 740](https://www.govinfo.gov/link/statute/130/740).)*

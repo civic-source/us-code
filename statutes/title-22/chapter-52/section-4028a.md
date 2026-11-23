@@ -3,9 +3,10 @@ title: "Section 4028a - Per diem allowance for newly hired members of the Foreig
 usc_title: 22
 usc_section: "4028a"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4028a"
-generated_at: "2026-03-30T02:55:05.402Z"
+generated_at: "2026-11-23T21:25:58.612Z"
+status: "active"
 ---
 
 # § 4028a. Per diem allowance for newly hired members of the Foreign Service
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.402Z"
 - **(b)** In this section—
   - **(1)** the term “per diem allowance” has the meaning given such term in section 5701 of title 5 ; and
   - **(2)** the term “Washington, D.C., area” means the geographic area within a 50-mile radius of the Washington Monument.
+
+## Source Credit
+
+*([Pub. L. 118–159, div. G, title LXXI, § 7109](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2525](https://www.govinfo.gov/link/statute/138/2525).)*

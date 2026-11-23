@@ -3,9 +3,10 @@ title: "Section 1414a - Research"
 usc_title: 16
 usc_section: "1414a"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1414a"
-generated_at: "2026-03-30T02:54:22.964Z"
+generated_at: "2026-11-23T21:25:51.871Z"
+status: "active"
 ---
 
 # § 1414a. Research
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:22.964Z"
     - **(C)** $4,000,000 for fiscal year 2000.
     - **(D)** $1,000,000 for fiscal year 2001.
   - **(2)** In addition to the amount authorized to be appropriated under paragraph (1), there are authorized to be appropriated to the Secretary for carrying out this section $3,000,000 for each of the fiscal years 1998, 1999, 2000, and 2001.
+
+## Source Credit
+
+*([Pub. L. 92–522, title III, § 304](https://www.govinfo.gov/link/plaw/92/public/522), as added [Pub. L. 105–42, § 6(c)](https://www.govinfo.gov/link/plaw/105/public/42), Aug. 15, 1997, [111 Stat. 1133](https://www.govinfo.gov/link/statute/111/1133).)*

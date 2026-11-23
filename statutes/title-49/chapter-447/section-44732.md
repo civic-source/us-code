@@ -3,9 +3,10 @@ title: "Section 44732 - Prohibition on personal use of electronic devices on fli
 usc_title: 49
 usc_section: "44732"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44732"
-generated_at: "2026-03-30T02:56:19.387Z"
+generated_at: "2026-11-23T21:26:40.906Z"
+status: "active"
 ---
 
 # § 44732. Prohibition on personal use of electronic devices on flight deck
@@ -14,3 +15,15 @@ generated_at: "2026-03-30T02:56:19.387Z"
 - **(b)** Subsection (a) shall not apply to the use of a personal wireless communications device or laptop computer for a purpose directly related to operation of the aircraft, or for emergency, safety-related, or employment-related communications, in accordance with procedures established by the air carrier and the Administrator of the Federal Aviation Administration.
 - **(c)** In addition to the penalties provided under section 46301 applicable to any violation of this section, the Administrator of the Federal Aviation Administration may enforce compliance with this section under section 44709 by amending, modifying, suspending, or revoking a certificate under this chapter.
 - **(d)** In this section, the term “personal wireless communications device” means a device through which personal wireless services (as defined in section 332(c)(7)(C)(i) of the Communications Act of 1934 ( 47 U.S.C. 332(c)(7)(C)(i) )) are transmitted.
+
+In General
+
+Exceptions
+
+Enforcement
+
+Personal Wireless Communications Device Defined
+
+## Source Credit
+
+*(Added [Pub. L. 112–95, title III, § 307(a)](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 61](https://www.govinfo.gov/link/statute/126/61).)*

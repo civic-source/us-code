@@ -3,9 +3,10 @@ title: "Section 10743 - Liability for payment of rates"
 usc_title: 49
 usc_section: "10743"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 10743"
-generated_at: "2026-03-30T02:56:19.324Z"
+generated_at: "2026-11-23T21:26:40.675Z"
+status: "active"
 ---
 
 # § 10743. Liability for payment of rates
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:19.324Z"
 - **(c)**
   - **(1)** A rail carrier may bring an action to enforce liability under subsection (a) of this section. That rail carrier must bring the action during the period provided in section 11705(a) of this title or by the end of the 6th month after final judgment against it in an action against the consignee, or the beneficial owner named by the consignee or agent, under that section.
   - **(2)** A rail carrier may bring an action to enforce liability under subsection (b) of this section. That carrier must bring the action during the period provided in section 11705(a) of this title or by the end of the 6th month after final judgment against it in an action against the shipper, consignor, or other party under that section.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 819](https://www.govinfo.gov/link/statute/109/819).)*

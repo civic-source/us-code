@@ -3,9 +3,10 @@ title: "Section 2083 - Annual national trade and customs law violation estimates
 usc_title: 19
 usc_section: "2083"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2083"
-generated_at: "2026-03-30T02:54:24.663Z"
+generated_at: "2026-11-23T21:25:42.767Z"
+status: "active"
 ---
 
 # § 2083. Annual national trade and customs law violation estimates and enforcement strategy
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:24.663Z"
   - **(1)** officers and employees of the United States designated by the Commissioner of Customs; 1
   - **(2)** the chairman of each of the Committees; and
   - **(3)** those members of each of the Committees and staff persons of each of the Committees who are authorized by the chairman thereof to have access to the contents.
+
+## Source Credit
+
+*([Pub. L. 101–382, title I, § 123](https://www.govinfo.gov/link/plaw/101/public/382), Aug. 20, 1990, [104 Stat. 642](https://www.govinfo.gov/link/statute/104/642); [Pub. L. 103–182, title VI, § 691(c)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2224](https://www.govinfo.gov/link/statute/107/2224); [Pub. L. 114–125, title VIII, § 802(d)(2)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 210](https://www.govinfo.gov/link/statute/130/210).)*

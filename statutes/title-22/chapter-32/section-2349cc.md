@@ -3,9 +3,10 @@ title: "Section 2349cc - Findings"
 usc_title: 22
 usc_section: "2349cc"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2349cc"
-generated_at: "2026-03-30T02:55:05.359Z"
+generated_at: "2026-11-23T21:25:58.474Z"
+status: "active"
 ---
 
 # § 2349cc. Findings
@@ -18,3 +19,7 @@ Congress makes the following findings:
   - **(4)** United States assistance to countries and international organizations to bolster civilian capacity to address national cybersecurity and deterrence in cyberspace can help—
     - **(A)** reduce vulnerability in the information and communication technologies ecosystem; and
     - **(B)** advance national and economic security objectives.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. II, § 591, as added [Pub. L. 118–31, div. F, title LXIII, § 6307](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 990](https://www.govinfo.gov/link/statute/137/990).)*

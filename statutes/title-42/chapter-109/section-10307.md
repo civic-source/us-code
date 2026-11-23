@@ -3,9 +3,10 @@ title: "Section 10307 - Types of research and development"
 usc_title: 42
 usc_section: "10307"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10307"
-generated_at: "2026-03-30T02:56:11.385Z"
+generated_at: "2026-11-23T21:26:33.360Z"
+status: "active"
 ---
 
 # § 10307. Types of research and development
@@ -22,3 +23,7 @@ The type of research and development to be undertaken under the authority of sec
   - **(8)** The economic, legal, engineering, social, recreational, biological, geographic, ecological, and other aspects of water quality and quantity problems;
   - **(9)** Scientific information dissemination activities, including identifying, assembling, and interpreting the results of scientific and engineering research on water resources problems; and
   - **(10)** Providing means for improved communication of research results, having due regard for the varying conditions and needs for the respective States and regions.
+
+## Source Credit
+
+*([Pub. L. 98–242, title I, § 108](https://www.govinfo.gov/link/plaw/98/public/242), Mar. 22, 1984, [98 Stat. 101](https://www.govinfo.gov/link/statute/98/101); [Pub. L. 101–397, § 1(k)](https://www.govinfo.gov/link/plaw/101/public/397), (l), Sept. 28, 1990, [104 Stat. 853](https://www.govinfo.gov/link/statute/104/853).)*

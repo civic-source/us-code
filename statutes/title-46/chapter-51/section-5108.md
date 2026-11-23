@@ -3,9 +3,10 @@ title: "Section 5108 - Special exemptions"
 usc_title: 46
 usc_section: "5108"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 5108"
-generated_at: "2026-03-30T02:56:15.549Z"
+generated_at: "2026-11-23T21:26:37.071Z"
+status: "active"
 ---
 
 # § 5108. Special exemptions
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:15.549Z"
   - **(2)** under regulations (including regulations on special operations conditions) prescribed by the Secretary, the Secretary finds that good cause exists for granting an exemption.
 - **(b)** When the Secretary grants an exemption under this section, the Secretary may issue a certificate of exemption stating the extent of the exemption.
 - **(c)** A certificate of exemption issued under subsection (b) of this section shall be maintained as required by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 99–509, title V, § 5101(2)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1916](https://www.govinfo.gov/link/statute/100/1916).)*

@@ -3,9 +3,10 @@ title: "Section 231e - Lump sum payments"
 usc_title: 45
 usc_section: "231e"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 231e"
-generated_at: "2026-03-30T02:55:56.546Z"
+generated_at: "2026-11-23T21:26:19.196Z"
+status: "active"
 ---
 
 # § 231e. Lump sum payments
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:55:56.546Z"
 - **(e)**
   - **(1)** Every individual who will have completed ten years of service (or five or more years of service, all of which accrues after December 31, 1995 ) at the time of his retirement or death, who will have received compensation in the nature of separation or severance pay on or after January 1, 1985 , and who would have been credited with additional months of service pursuant to section 231b(i)(4) of this title except for the fact that such individual was not in an employment relation to one or more employers nor an employee representative in such months, shall, at the time his annuity under section 231a(a)(1) of this title begins to accrue, be entitled to a lump sum in the amount provided under subdivision (2) of this subsection. If the full amount of a lump sum under this subsection cannot be determined at the time an individual’s annuity under section 231a(a)(1) of this title begins to accrue, such lump sum shall be payable at such time thereafter as such amount can be determined. If an individual otherwise eligible for a lump sum under this section dies before he becomes entitled to an annuity under section 231a(a)(1) of this title , or before he receives payment of such lump sum, such lump sum shall be payable to the person, if any, who is determined by the Board to be such individual’s widow or widower and who will not have died before receiving payment of such lump sum. If there be no such widow or widower, such lump sum shall be payable to the children, grandchildren, parents, brothers and sisters, or the estate of the deceased individual in the same manner as if such lump sum were a lump sum payable under subsection (c)(1) of this section.
   - **(2)** The lump sum provided under subdivision ( l ) 1 1 So in original. Probably should be subdivision “(1)”. of this subsection shall be in an amount equal to the product of (A) the compensation attributable to the additional months of service which would have been credited to the individual due to the receipt of payments in the nature of separation or severance pay pursuant to section 231b(i)(4) of this title if such individual had remained in an employment relation to one or more employers or had continued to be an employee representative and (B) the rate of tax, or rates of tax, imposed on the compensation described in clause (A) of this subdivision by section 3201(b) of the Internal Revenue Code of 1986 [ 26 U.S.C. 3201(b) ].
+
+## Source Credit
+
+*(Aug. 29, 1935, ch. 812, § 6, as restated June 24, 1937, ch. 382, pt. I, [50 Stat. 307](https://www.govinfo.gov/link/statute/50/307), as restated [Pub. L. 93–445, title I, § 101](https://www.govinfo.gov/link/plaw/93/public/445), Oct. 16, 1974, [88 Stat. 1334](https://www.govinfo.gov/link/statute/88/1334); amended [Pub. L. 97–35, title XI, § 1121](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 637](https://www.govinfo.gov/link/statute/95/637); [Pub. L. 98–76, title IV, § 408](https://www.govinfo.gov/link/plaw/98/public/76), Aug. 12, 1983, [97 Stat. 435](https://www.govinfo.gov/link/statute/97/435); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 100–647, title VII, § 7301](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3776](https://www.govinfo.gov/link/statute/102/3776); [Pub. L. 105–277, div. A, § 101(f) [title VII, § 709(a)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–391; [Pub. L. 107–90, title I, § 103(i)(1)](https://www.govinfo.gov/link/plaw/107/public/90), (4), Dec. 21, 2001, [115 Stat. 882](https://www.govinfo.gov/link/statute/115/882).)*

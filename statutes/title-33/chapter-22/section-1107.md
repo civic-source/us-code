@@ -3,9 +3,10 @@ title: "Section 1107 - Definitions"
 usc_title: 33
 usc_section: "1107"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1107"
-generated_at: "2026-03-30T02:55:41.080Z"
+generated_at: "2026-11-23T21:26:11.355Z"
+status: "active"
 ---
 
 # § 1107. Definitions
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:41.080Z"
 - **(e)** the seabed and subsoil of similar submarine areas adjacent to the coasts of islands which comprise United States territory, and
 - **(f)** the resources thereof.
 
+
+## Source Credit
+
+*([Pub. L. 89–454, title I, § 8](https://www.govinfo.gov/link/plaw/89/public/454), June 17, 1966, [80 Stat. 208](https://www.govinfo.gov/link/statute/80/208); [Pub. L. 89–688, § 2(b)](https://www.govinfo.gov/link/plaw/89/public/688), Oct. 15, 1966, [80 Stat. 1001](https://www.govinfo.gov/link/statute/80/1001).)*

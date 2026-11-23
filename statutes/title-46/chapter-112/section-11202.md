@@ -3,9 +3,10 @@ title: "Section 11202 - Qualified service"
 usc_title: 46
 usc_section: "11202"
 chapter: 112
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 11202"
-generated_at: "2026-03-30T02:56:15.555Z"
+generated_at: "2026-11-23T21:26:37.124Z"
+status: "active"
 ---
 
 # § 11202. Qualified service
@@ -18,3 +19,7 @@ For purposes of this chapter, an individual shall be considered to have engaged 
     - **(C)** under contract or charter to, or property of, the Government of the United States; and
     - **(D)** serving the Armed Forces; and
   - **(2)** while so serving, was licensed or otherwise documented for service as a crewmember of such a vessel by an officer or employee of the United States authorized to license or document the individual for such service.
+
+## Source Credit
+
+*(Added [Pub. L. 105–368, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3336](https://www.govinfo.gov/link/statute/112/3336); amended [Pub. L. 116–283, div. G, title LVXXXV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXV], § 8505(b)(12), Jan. 1, 2021, [134 Stat. 4752](https://www.govinfo.gov/link/statute/134/4752).)*

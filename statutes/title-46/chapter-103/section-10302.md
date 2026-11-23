@@ -3,9 +3,10 @@ title: "Section 10302 - Shipping articles agreements"
 usc_title: 46
 usc_section: "10302"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 10302"
-generated_at: "2026-03-30T02:56:15.553Z"
+generated_at: "2026-11-23T21:26:37.108Z"
+status: "active"
 ---
 
 # § 10302. Shipping articles agreements
@@ -22,3 +23,16 @@ generated_at: "2026-03-30T02:56:15.553Z"
   - **(8)** other matters not contrary to law.
 - **(c)** Each shipping agreement must be signed by the master or individual in charge or a representative of the owner, charterer, or managing operator, and by each seaman employed.
 - **(d)** The owner, charterer, managing operator, master, or individual in charge shall maintain the shipping agreement and make the shipping agreement available to the seaman.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 10302 | 46:564 |
+
+
+Historical and Revision Notes
+
+10302
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 561](https://www.govinfo.gov/link/statute/97/561); [Pub. L. 103–206, title IV, § 401](https://www.govinfo.gov/link/plaw/103/public/206), Dec. 20, 1993, [107 Stat. 2435](https://www.govinfo.gov/link/statute/107/2435).)*

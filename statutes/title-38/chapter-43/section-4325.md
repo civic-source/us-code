@@ -3,9 +3,10 @@ title: "Section 4325 - Enforcement of rights with respect to certain Federal age
 usc_title: 38
 usc_section: "4325"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 4325"
-generated_at: "2026-03-30T02:55:53.518Z"
+generated_at: "2026-11-23T21:26:16.809Z"
+status: "active"
 ---
 
 # § 4325. Enforcement of rights with respect to certain Federal agencies
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:53.518Z"
 - **(d)** This section may not be construed—
   - **(1)** as prohibiting an employee of an agency referred to in subsection (a) from seeking information from the Secretary regarding assistance in seeking reemployment from the agency under this chapter or information relating to the rights and obligations of employees and Federal agencies under this chapter; or
   - **(2)** as prohibiting such an agency from voluntarily cooperating with or seeking assistance in or of clarification from the Secretary or the Director of the Office of Personnel Management of any matter arising under this chapter.
+
+## Source Credit
+
+*(Added [Pub. L. 103–353, § 2(a)](https://www.govinfo.gov/link/plaw/103/public/353), Oct. 13, 1994, [108 Stat. 3167](https://www.govinfo.gov/link/statute/108/3167); amended [Pub. L. 104–275, title III, § 311(12)](https://www.govinfo.gov/link/plaw/104/public/275), Oct. 9, 1996, [110 Stat. 3336](https://www.govinfo.gov/link/statute/110/3336).)*

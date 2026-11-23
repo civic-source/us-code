@@ -3,9 +3,10 @@ title: "Section 4143 - Payment of awards; priorities; limitations"
 usc_title: 50
 usc_section: "4143"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4143"
-generated_at: "2026-03-30T02:56:26.267Z"
+generated_at: "2026-11-23T21:26:39.089Z"
+status: "active"
 ---
 
 # § 4143. Payment of awards; priorities; limitations
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:26.267Z"
 - **(d)** If any person to whom any payment is to be made pursuant to this subchapter is deceased or is under a legal disability, payment shall be made to his legal representative, except that if any payment to be made is not over $1,000 and there is no qualified executor or administrator, payment may be made to the person or persons found by the Secretary of the Treasury to be entitled thereto, without the necessity of compliance with the requirements of law with respect to the administration of estates.
 - **(e)** Payment on account of any award pursuant to this subchapter shall not, unless such payment is for the full amount of the award, extinguish any rights against any foreign government for the unpaid balance of the award.
 - **(f)** Payments made under this section on account of any award for loss, damage, or destruction occurring in the Commonwealth of the Philippines shall not exceed the amount paid on account of awards in the same amount under the Philippine Rehabilitation Act of 1946. 1 1 See References in Text note below.
+
+## Source Credit
+
+*(July 3, 1948, ch. 826, title II, § 213, as added [Pub. L. 87–846, title I, § 103](https://www.govinfo.gov/link/plaw/87/public/846), Oct. 22, 1962, [76 Stat. 1111](https://www.govinfo.gov/link/statute/76/1111); amended [Pub. L. 91–571, § 1(a)](https://www.govinfo.gov/link/plaw/91/public/571), Dec. 24, 1970, [84 Stat. 1503](https://www.govinfo.gov/link/statute/84/1503); [Pub. L. 104–316, title I, § 128(b)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3841](https://www.govinfo.gov/link/statute/110/3841).)*

@@ -3,12 +3,17 @@ title: "Section 3111 - Congressional statement of purpose"
 usc_title: 15
 usc_section: "3111"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3111"
-generated_at: "2026-03-30T02:54:08.187Z"
+generated_at: "2026-11-23T21:25:39.963Z"
+status: "active"
 ---
 
 # § 3111. Congressional statement of purpose
 
 The Congress recognizes that general economic policies alone have been unable to achieve the goals set forth in this chapter related to full employment, production, and real income, balanced growth, adequate growth in productivity, proper attention to national priorities, achievement of an improved trade balance through increased exports and improvement in the international competitiveness of agriculture, business, and industry, and achievement of reasonable price stability as provided for in section 1022b(b) of this title . It is, therefore, the purpose of this subchapter to require the President to initiate, as the President deems appropriate, with recommendations to the Congress where necessary, supplementary programs and policies to the extent that the President finds such action necessary to help achieve these goals, including the goals and timetable for the reduction of unemployment. Insofar as feasible without undue delay, any policies and programs so recommended shall be included in the Economic Report.
 
+
+## Source Credit
+
+*([Pub. L. 95–523, title II, § 201](https://www.govinfo.gov/link/plaw/95/public/523), Oct. 27, 1978, [92 Stat. 1899](https://www.govinfo.gov/link/statute/92/1899).)*

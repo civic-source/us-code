@@ -3,9 +3,10 @@ title: "Section 4081 - Travel and related expenses"
 usc_title: 22
 usc_section: "4081"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4081"
-generated_at: "2026-03-30T02:55:05.405Z"
+generated_at: "2026-11-23T21:25:58.623Z"
+status: "active"
 ---
 
 # § 4081. Travel and related expenses
@@ -41,3 +42,7 @@ The Secretary may pay the travel and related expenses of members of the Service 
     - **(A)** for each child to visit the member abroad if the child does not regularly reside with the member and the member is not receiving an education allowance or educational travel allowance for the child under section 5924(4) of title 5 ,
     - **(B)** for each child to visit the other parent of the child if the other parent resides in a country other than the country to which the member is assigned and the child regularly resides with the member and does not regularly attend school in the country in which the other parent resides, or
     - **(C)** for one of the child’s parents to visit the child or children abroad if the child or children do not regularly reside with that parent and that parent is not receiving an education allowance or educational travel allowance for the child or children under section 5924(4) of title 5 ,
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 901](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2124](https://www.govinfo.gov/link/statute/94/2124); [Pub. L. 101–246, title I, § 148](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 38](https://www.govinfo.gov/link/statute/104/38); [Pub. L. 102–138, title I](https://www.govinfo.gov/link/plaw/102/public/138), §§ 145, 146, Oct. 28, 1991, [105 Stat. 668](https://www.govinfo.gov/link/statute/105/668), 669; [Pub. L. 107–228, div. A, title III](https://www.govinfo.gov/link/plaw/107/public/228), §§ 315(a), 328, Sept. 30, 2002, [116 Stat. 1379](https://www.govinfo.gov/link/statute/116/1379), 1387; [Pub. L. 109–234, title I, § 1602(d)(1)](https://www.govinfo.gov/link/plaw/109/public/234), June 15, 2006, [120 Stat. 442](https://www.govinfo.gov/link/statute/120/442); [Pub. L. 110–321, § 2(1)](https://www.govinfo.gov/link/plaw/110/public/321), Sept. 19, 2008, [122 Stat. 3535](https://www.govinfo.gov/link/statute/122/3535); [Pub. L. 117–81, div. E, title LIII, § 5304](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2361](https://www.govinfo.gov/link/statute/135/2361).)*

@@ -3,12 +3,17 @@ title: "Section 17254 - Relation to Safe Drinking Water Act"
 usc_title: 42
 usc_section: "17254"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17254"
-generated_at: "2026-03-30T02:56:11.503Z"
+generated_at: "2026-11-23T21:26:33.781Z"
+status: "active"
 ---
 
 # § 17254. Relation to Safe Drinking Water Act
 
 The injection and geologic sequestration of carbon dioxide pursuant to this subtitle and the amendments made by this subtitle shall be subject to the requirements of the Safe Drinking Water Act ( 42 U.S.C. 300f et seq.), including the provisions of part C of such Act ( 42 U.S.C. 300h et seq.; relating to protection of underground sources of drinking water). Nothing in this subtitle and the amendments made by this subtitle imposes or authorizes the promulgation of any requirement that is inconsistent or in conflict with the requirements of the Safe Drinking Water Act ( 42 U.S.C. 300f et seq.) or regulations thereunder.
 
+
+## Source Credit
+
+*([Pub. L. 110–140, title VII, § 706](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1710](https://www.govinfo.gov/link/statute/121/1710).)*

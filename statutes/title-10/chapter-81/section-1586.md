@@ -3,9 +3,10 @@ title: "Section 1586 - Rotation of career-conditional and career employees assig
 usc_title: 10
 usc_section: "1586"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1586"
-generated_at: "2026-03-30T02:53:38.131Z"
+generated_at: "2026-11-23T21:25:32.516Z"
+status: "active"
 ---
 
 # § 1586. Rotation of career-conditional and career employees assigned to duty outside the United States
@@ -31,3 +32,13 @@ generated_at: "2026-03-30T02:53:38.131Z"
   - **(1)** The term “rotation” means the assignment of civilian employees referred to in subsection (b) to duty outside the United States and the return of such employees to duty within the United States.
   - **(2)** The term “grade” means, as applicable, a grade of the General Schedule as prescribed in section 5104 of title 5 or a grade or level of the appropriate prevailing rate schedule.
 - **(h)** The Secretary of Defense may, under such regulations as he may prescribe, make the provisions of subsections (a) through (g) applicable to civilian employees of the Department of Defense who are residents of Guam, the Virgin Islands, or the Commonwealth of Puerto Rico at the time of their employment by the Department of Defense in the same manner as if the references in such subsections to the United States (when used in a geographical sense) were references to Guam, the Virgin Islands, or the Commonwealth of Puerto Rico, as the case may be.
+
+Section
+
+Sec
+
+Dwight D. Eisenhower.
+
+## Source Credit
+
+*(Added [Pub. L. 86–585, § 1](https://www.govinfo.gov/link/plaw/86/public/585), July 5, 1960, [74 Stat. 325](https://www.govinfo.gov/link/statute/74/325); amended [Pub. L. 89–718, § 15](https://www.govinfo.gov/link/plaw/89/public/718), Nov. 2, 1966, [80 Stat. 1117](https://www.govinfo.gov/link/statute/80/1117); [Pub. L. 90–83, § 3(3)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 220](https://www.govinfo.gov/link/statute/81/220); [Pub. L. 96–513, title V, § 511(61)](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2925](https://www.govinfo.gov/link/statute/94/2925); [Pub. L. 96–600, § 1](https://www.govinfo.gov/link/plaw/96/public/600), Dec. 24, 1980, [94 Stat. 3493](https://www.govinfo.gov/link/statute/94/3493); [Pub. L. 97–295, § 1(20)(A)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1290](https://www.govinfo.gov/link/statute/96/1290); [Pub. L. 98–525, title XIV, § 1405(29)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2623](https://www.govinfo.gov/link/statute/98/2623); [Pub. L. 101–189, div. A, title XVI, § 1622(e)(4)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1605](https://www.govinfo.gov/link/statute/103/1605).)*

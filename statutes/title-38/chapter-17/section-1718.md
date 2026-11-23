@@ -3,9 +3,10 @@ title: "Section 1718 - Therapeutic and rehabilitative activities"
 usc_title: 38
 usc_section: "1718"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1718"
-generated_at: "2026-03-30T02:55:53.484Z"
+generated_at: "2026-11-23T21:26:16.643Z"
+status: "active"
 ---
 
 # § 1718. Therapeutic and rehabilitative activities
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:53.484Z"
     - **(C)** A veteran’s participation in a program of rehabilitative services that (i) is provided as part of the veteran’s care furnished by a State home and (ii) is approved by the Secretary as conforming appropriately to standards for activities carried out under this section.
     - **(D)** A veteran’s receipt of payment as a result of participation in a program described in subparagraph (C).
   - **(3)** A distribution of funds made under this section and a payment made to a veteran under a program of rehabilitative services described in paragraph (2)(C) shall be considered for the purposes of chapter 15 of this title to be a donation from a public or private relief or welfare organization.
+
+## Source Credit
+
+*(Added [Pub. L. 87–574, § 2(1)](https://www.govinfo.gov/link/plaw/87/public/574), Aug. 6, 1962, [76 Stat. 308](https://www.govinfo.gov/link/statute/76/308), § 618; amended [Pub. L. 94–581, title I, § 105(a)](https://www.govinfo.gov/link/plaw/94/public/581), Oct. 21, 1976, [90 Stat. 2845](https://www.govinfo.gov/link/statute/90/2845); [Pub. L. 98–543, title III, § 303](https://www.govinfo.gov/link/plaw/98/public/543), Oct. 24, 1984, [98 Stat. 2748](https://www.govinfo.gov/link/statute/98/2748); [Pub. L. 99–576, title II, § 205](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3256](https://www.govinfo.gov/link/statute/100/3256); [Pub. L. 102–54](https://www.govinfo.gov/link/plaw/102/public/54), §§ 10, 14(b)(12), June 13, 1991, [105 Stat. 273](https://www.govinfo.gov/link/statute/105/273), 284; renumbered § 1718 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 2(c)(3), 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 402](https://www.govinfo.gov/link/statute/105/402), 404–406; [Pub. L. 102–86, title V, § 506(a)(1)](https://www.govinfo.gov/link/plaw/102/public/86), Aug. 14, 1991, [105 Stat. 426](https://www.govinfo.gov/link/statute/105/426); [Pub. L. 102–405, title III, § 302(c)(1)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1984](https://www.govinfo.gov/link/statute/106/1984); [Pub. L. 102–585, title IV, § 401](https://www.govinfo.gov/link/plaw/102/public/585), Nov. 4, 1992, [106 Stat. 4953](https://www.govinfo.gov/link/statute/106/4953); [Pub. L. 103–446, title XII, § 1201(i)(1)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4688](https://www.govinfo.gov/link/statute/108/4688); [Pub. L. 104–262, title I, § 101(d)(7)](https://www.govinfo.gov/link/plaw/104/public/262), Oct. 9, 1996, [110 Stat. 3180](https://www.govinfo.gov/link/statute/110/3180); [Pub. L. 108–170, title I, § 104(b)](https://www.govinfo.gov/link/plaw/108/public/170), Dec. 6, 2003, [117 Stat. 2045](https://www.govinfo.gov/link/statute/117/2045); [Pub. L. 109–444, § 8(a)(1)](https://www.govinfo.gov/link/plaw/109/public/444), Dec. 21, 2006, [120 Stat. 3313](https://www.govinfo.gov/link/statute/120/3313); [Pub. L. 109–461, title X](https://www.govinfo.gov/link/plaw/109/public/461), §§ 1004(a)(1), 1006(b), Dec. 22, 2006, [120 Stat. 3465](https://www.govinfo.gov/link/statute/120/3465), 3468.)*

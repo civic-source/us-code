@@ -3,9 +3,10 @@ title: "Section 9923 - National or regional programs designed to provide instruc
 usc_title: 42
 usc_section: "9923"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9923"
-generated_at: "2026-03-30T02:56:11.378Z"
+generated_at: "2026-11-23T21:26:33.330Z"
+status: "active"
 ---
 
 # § 9923. National or regional programs designed to provide instructional activities for low-income youth
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.378Z"
 - **(e)** To be eligible to receive a grant under this section, a service provider shall submit to the Secretary, for approval, an application at such time, in such manner, and containing such information as the Secretary may require.
 - **(f)** The Secretary shall promulgate regulations or program guidelines to ensure funds made available through a grant made under this section are used in accordance with the objectives of this chapter.
 - **(g)** There are authorized to be appropriated $15,000,000 for each of fiscal years 1999 through 2003 for grants to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 682](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 105–285, title II, § 201](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2753](https://www.govinfo.gov/link/statute/112/2753); amended [Pub. L. 107–110, title X, § 1076(ee)](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2093](https://www.govinfo.gov/link/statute/115/2093); [Pub. L. 114–95, title IX, § 9215(t)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2171](https://www.govinfo.gov/link/statute/129/2171).)*

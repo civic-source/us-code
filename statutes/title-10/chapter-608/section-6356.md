@@ -3,9 +3,10 @@ title: "Section 6356 - Authority to use passenger carriers for contractor commut
 usc_title: 10
 usc_section: "6356"
 chapter: 608
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6356"
-generated_at: "2026-03-30T02:53:38.227Z"
+generated_at: "2026-11-23T21:25:32.831Z"
+status: "active"
 ---
 
 # § 6356. Authority to use passenger carriers for contractor commuting
@@ -35,3 +36,17 @@ generated_at: "2026-03-30T02:53:38.227Z"
   - **(2)** The term “covered facility” means any facility of the Administration that directly supports the mission of the Administration under section 3211 of the National Nuclear Security Administration Act ( 50 U.S.C. 2401 ).
   - **(3)** The term “Management and Operating contractor” means a management and operating contractor that manages a covered facility.
   - **(4)** The term “passenger carrier” means a passenger motor vehicle, aircraft, boat, ship, train, or other similar means of transportation that is owned, leased, or provided pursuant to contract or subcontract by the Federal Government or through a contractor of the Administration.
+
+Authority
+
+Plan Requests and Approval
+
+Reimbursement
+
+Implementation
+
+Definitions
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2)(B), Dec. 18, 2025, [139 Stat. 1456](https://www.govinfo.gov/link/statute/139/1456), 1462.)*

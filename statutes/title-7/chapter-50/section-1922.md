@@ -3,9 +3,10 @@ title: "Section 1922 - Persons eligible for real estate loans"
 usc_title: 7
 usc_section: "1922"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1922"
-generated_at: "2026-03-30T02:53:42.344Z"
+generated_at: "2026-11-23T21:25:28.189Z"
+status: "active"
 ---
 
 # § 1922. Persons eligible for real estate loans
@@ -37,3 +38,15 @@ generated_at: "2026-03-30T02:53:42.344Z"
       - **(vii)** successfully repaid a youth loan made under section 1941(b) of this title ; or
       - **(viii)** an established relationship with an individual who has experience in farming or ranching, or is a retired farmer or rancher, and is participating as a counselor in a Service Corps of Retired Executives program authorized under section 637(b)(1)(B) of title 15 , or with a local farm or ranch operator or organization, approved by the Secretary, that is committed to mentoring the farmer or rancher; or
     - **(B)** waive the 3-year requirement in paragraph (1) if the farmer or rancher meets the requirements of clauses (iii) and (viii) of subparagraph (A).
+
+In General
+
+Delayed Effective Dates
+
+Transition Provision
+
+Regulations
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 302](https://www.govinfo.gov/link/plaw/87/public/128), Aug. 8, 1961, [75 Stat. 307](https://www.govinfo.gov/link/statute/75/307); [Pub. L. 91–620, § 2](https://www.govinfo.gov/link/plaw/91/public/620), Dec. 31, 1970, [84 Stat. 1862](https://www.govinfo.gov/link/statute/84/1862); [Pub. L. 95–334, title I, § 101](https://www.govinfo.gov/link/plaw/95/public/334), Aug. 4, 1978, [92 Stat. 420](https://www.govinfo.gov/link/statute/92/420); [Pub. L. 97–98, title XVI, § 1601(a)](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1346](https://www.govinfo.gov/link/statute/95/1346); [Pub. L. 99–198, title XIII](https://www.govinfo.gov/link/plaw/99/public/198), §§ 1301(a), 1302(a), 1303, Dec. 23, 1985, [99 Stat. 1518](https://www.govinfo.gov/link/statute/99/1518), 1519; [Pub. L. 104–127, title VI, § 601](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1084](https://www.govinfo.gov/link/statute/110/1084); [Pub. L. 105–277, div. A, § 101(a) [title VIII, §§ 804, 805(1)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681](https://www.govinfo.gov/link/statute/112/2681), 2681–39; [Pub. L. 107–171, title V](https://www.govinfo.gov/link/plaw/107/public/171), §§ 5001, 5302(a), May 13, 2002, [116 Stat. 341](https://www.govinfo.gov/link/statute/116/341), 344; [Pub. L. 110–234, title V, § 5001](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1142](https://www.govinfo.gov/link/statute/122/1142); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title V, § 5001, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1903; [Pub. L. 113–79, title V, § 5001(a)](https://www.govinfo.gov/link/plaw/113/public/79), (b), Feb. 7, 2014, [128 Stat. 832](https://www.govinfo.gov/link/statute/128/832), 833; [Pub. L. 115–334, title V, § 5101](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4668](https://www.govinfo.gov/link/statute/132/4668).)*

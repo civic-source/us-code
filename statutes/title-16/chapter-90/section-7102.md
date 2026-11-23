@@ -3,9 +3,10 @@ title: "Section 7102 - Definitions"
 usc_title: 16
 usc_section: "7102"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 7102"
-generated_at: "2026-03-30T02:54:23.072Z"
+generated_at: "2026-11-23T21:25:52.061Z"
+status: "active"
 ---
 
 # § 7102. Definitions
@@ -63,3 +64,7 @@ In this chapter:
     - **(B)** the Secretary of the Interior or the designee of the Secretary of the Interior with respect to the Federal land described in paragraph (7)(B).
   - **(16)** The term “State payment” means the payment for an eligible State calculated under section 7111(a) of this title .
   - **(17)** The term “25-percent payment” means the payment to States required by the sixth paragraph under the heading of “FOREST SERVICE” in the Act of May 23, 1908 ( 35 Stat. 260 ; 16 U.S.C. 500 ), and section 13 of the Act of March 1, 1911 ( 36 Stat. 963 ; 16 U.S.C. 500 ).
+
+## Source Credit
+
+*([Pub. L. 106–393, § 3](https://www.govinfo.gov/link/plaw/106/public/393), as added [Pub. L. 110–343, div. C, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3894](https://www.govinfo.gov/link/statute/122/3894); amended [Pub. L. 112–141, div. F, title I, § 100101(a)(1)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 905](https://www.govinfo.gov/link/statute/126/905); [Pub. L. 115–141, div. O, title IV, § 401(a)(1)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1076](https://www.govinfo.gov/link/statute/132/1076); [Pub. L. 115–334, title VIII, § 8704(a)(1)(B)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4877](https://www.govinfo.gov/link/statute/132/4877); [Pub. L. 117–58, div. D, title XII, § 41202(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1132](https://www.govinfo.gov/link/statute/135/1132).)*

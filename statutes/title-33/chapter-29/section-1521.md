@@ -3,9 +3,10 @@ title: "Section 1521 - Negotiations with Canada and Mexico; report to Congress"
 usc_title: 33
 usc_section: "1521"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1521"
-generated_at: "2026-03-30T02:55:41.109Z"
+generated_at: "2026-11-23T21:26:11.410Z"
+status: "active"
 ---
 
 # § 1521. Negotiations with Canada and Mexico; report to Congress
@@ -14,3 +15,7 @@ The President of the United States is authorized and requested to enter into neg
 
   - **(1)** the need for intergovernmental understandings, agreements, or treaties to protect the interests of the people of Canada, Mexico, and the United States and of any party or parties involved with the construction or operation of deepwater ports; and
   - **(2)** the desirability of undertaking joint studies and investigations designed to insure protection of the environment and to eliminate any legal and regulatory uncertainty, to assure that the interests of the people of Canada, Mexico, and the United States are adequately met.
+
+## Source Credit
+
+*([Pub. L. 93–627, § 22](https://www.govinfo.gov/link/plaw/93/public/627), Jan. 3, 1975, [88 Stat. 2147](https://www.govinfo.gov/link/statute/88/2147).)*

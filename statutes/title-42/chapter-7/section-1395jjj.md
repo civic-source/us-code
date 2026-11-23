@@ -3,9 +3,10 @@ title: "Section 1395jjj - Shared savings program"
 usc_title: 42
 usc_section: "1395jjj"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1395jjj"
-generated_at: "2026-03-30T02:56:11.029Z"
+generated_at: "2026-11-23T21:26:31.754Z"
+status: "active"
 ---
 
 # § 1395jjj. Shared savings program
@@ -129,3 +130,15 @@ generated_at: "2026-03-30T02:56:11.029Z"
   - **(3)** Any payment made under an ACO Beneficiary Incentive Program established under this subsection shall not be considered income or resources or otherwise taken into account for purposes of—
     - **(A)** determining eligibility for benefits or assistance (or the amount or extent of benefits or assistance) under any Federal program or under any State or local program financed in whole or in part with Federal funds; or
     - **(B)** any Federal or State laws relating to taxation.
+
+Study.—
+
+In general
+
+Collection of data
+
+Report
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1899, as added and amended [Pub. L. 111–148, title III, § 3022](https://www.govinfo.gov/link/plaw/111/public/148), title X, § 10307, Mar. 23, 2010, [124 Stat. 395](https://www.govinfo.gov/link/statute/124/395), 940; [Pub. L. 114–255, div. C, title XVII, § 17007](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1338](https://www.govinfo.gov/link/statute/130/1338); [Pub. L. 115–123, div. E, title III](https://www.govinfo.gov/link/plaw/115/public/123), §§ 50324(a), 50331, 50341(a), Feb. 9, 2018, [132 Stat. 203](https://www.govinfo.gov/link/statute/132/203), 205, 206.)*

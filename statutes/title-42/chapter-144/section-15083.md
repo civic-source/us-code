@@ -3,9 +3,10 @@ title: "Section 15083 - Authorization of appropriations"
 usc_title: 42
 usc_section: "15083"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15083"
-generated_at: "2026-03-30T02:56:11.458Z"
+generated_at: "2026-11-23T21:26:33.663Z"
+status: "active"
 ---
 
 # § 15083. Authorization of appropriations
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.458Z"
   - **(3)** References in this subsection to part D shall not be considered to include section 15063(c)(4) of this title .
 - **(d)** In addition to any funds reserved under subsection (c), the Secretary shall reserve $100,000 from the amount appropriated under subsection (a) for each fiscal year to carry out section 15063(c)(4) of this title .
 - **(e)** For any fiscal year for which the amount appropriated under subsection (a) is not less than $10,000,000, not more than 50 percent of such amount shall be used for activities carried out under section 15081(2)(A) of this title .
+
+## Source Credit
+
+*([Pub. L. 106–402, title I, § 163](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1727](https://www.govinfo.gov/link/statute/114/1727).)*

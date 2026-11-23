@@ -3,12 +3,17 @@ title: "Section 3704 - Foreclosure commissioner; designation, duties, etc."
 usc_title: 12
 usc_section: "3704"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3704"
-generated_at: "2026-03-30T02:53:53.496Z"
+generated_at: "2026-11-23T21:25:37.146Z"
+status: "active"
 ---
 
 # § 3704. Foreclosure commissioner; designation, duties, etc.
 
 A foreclosure commissioner or commissioners designated pursuant to this chapter shall have a nonjudicial power of sale as provided in this chapter. Where the Secretary is the holder of a multifamily mortgage, the Secretary may designate a foreclosure commissioner and, with or without cause, may designate a substitute foreclosure commissioner to replace a previously designated foreclosure commissioner, by executing a duly acknowledged, written designation stating the name and business or residential address of the commissioner or substitute commissioner. The designation shall be effective upon execution. Except as provided in section 3707(b) of this title , a copy of the designation shall be mailed with each copy of the notice of default and foreclosure sale served by mail in accordance with section 3708(1) of this title . The foreclosure commissioner, if a natural person, shall be a resident of the State in which the security property is located and, if not a natural person, the foreclosure commissioner must be duly authorized to transact business under the laws of the State in which the security property is located. The foreclosure commissioner shall be a person who is responsible, financially sound and competent to conduct the foreclosure. More than one foreclosure commissioner may be designated. If a natural person is designated as foreclosure commissioner or substitute foreclosure commissioner, such person shall be designated by name, except that where such person is designated in his or her capacity as an official or employee of the government of the State or subdivision thereof in which the security property is located, such person may be designated by his or her unique title or position instead of by name. The Secretary shall be a guarantor of payment of any judgment against the foreclosure commissioner for damages based upon the commissioner’s failure properly to perform the commissioner’s duties. As between the Secretary and the mortgagor, the Secretary shall bear the risk of any financial default by the foreclosure commissioner. In the event that the Secretary makes any payment pursuant to the preceding two sentences, the Secretary shall be fully subrogated to the rights satisfied by such payment.
 
+
+## Source Credit
+
+*([Pub. L. 97–35, title III, § 365](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 423](https://www.govinfo.gov/link/statute/95/423).)*

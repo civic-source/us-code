@@ -3,9 +3,10 @@ title: "Section 1593 - Initiative and recall"
 usc_title: 48
 usc_section: "1593"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1593"
-generated_at: "2026-03-30T02:56:14.588Z"
+generated_at: "2026-11-23T21:26:38.013Z"
+status: "active"
 ---
 
 # § 1593. Initiative and recall
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:14.588Z"
 - **(d)** As used in this section, the term—
   - **(1)** “law” means a law of the Virgin Islands; and
   - **(2)** “voter” means a registered voter who is eligible to vote on the issue or for the office involved.
+
+## Source Credit
+
+*(July 22, 1954, ch. 558, § 12, [68 Stat. 503](https://www.govinfo.gov/link/statute/68/503); [Pub. L. 90–496, § 5](https://www.govinfo.gov/link/plaw/90/public/496), Aug. 23, 1968, [82 Stat. 838](https://www.govinfo.gov/link/statute/82/838); [Pub. L. 99–396, § 1](https://www.govinfo.gov/link/plaw/99/public/396), Aug. 27, 1986, [100 Stat. 837](https://www.govinfo.gov/link/statute/100/837).)*

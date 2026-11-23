@@ -3,9 +3,10 @@ title: "Section 6665 - Applicable rules"
 usc_title: 26
 usc_section: "6665"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6665"
-generated_at: "2026-03-30T02:55:27.862Z"
+generated_at: "2026-11-23T21:26:06.915Z"
+status: "active"
 ---
 
 # § 6665. Applicable rules
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:27.862Z"
 - **(b)** For purposes of subchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, and certain excise taxes), subsection (a) shall not apply to any addition to tax under section 6651, 6654, or 6655; except that it shall apply—
   - **(1)** in the case of an addition described in section 6651, to that portion of such addition which is attributable to a deficiency in tax described in section 6211; or
   - **(2)** to an addition described in section 6654 or 6655, if no return is filed for the taxable year.
+
+## Source Credit
+
+*(Added [Pub. L. 101–239, title VII, § 7721(a)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2399](https://www.govinfo.gov/link/statute/103/2399).)*

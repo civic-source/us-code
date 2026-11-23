@@ -3,9 +3,10 @@ title: "Section 2656j - Countering white identity terrorism globally"
 usc_title: 22
 usc_section: "2656j"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2656j"
-generated_at: "2026-03-30T02:55:05.376Z"
+generated_at: "2026-11-23T21:25:58.521Z"
+status: "active"
 ---
 
 # § 2656j. Countering white identity terrorism globally
@@ -53,3 +54,9 @@ generated_at: "2026-03-30T02:55:05.376Z"
   - **(3)**
     - **(A)** Not later than one year after the date on which the Secretary of State enters into a contract pursuant to paragraph (1), the federally funded research and development center referred to in such subsection that has entered into such contract with the Secretary shall submit to the Secretary a report containing the results of the study required under this section.
     - **(B)** Not later than 30 days after receipt of the report under subparagraph (A), the Secretary of State shall submit to the Committee of Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate such report, together with any additional views or recommendations of the Secretary.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. A, title XII, § 1299F](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4004](https://www.govinfo.gov/link/statute/134/4004).)*

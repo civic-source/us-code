@@ -3,9 +3,10 @@ title: "Section 1029 - Fraud and related activity in connection with access devi
 usc_title: 18
 usc_section: "1029"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1029"
-generated_at: "2026-03-30T02:54:16.479Z"
+generated_at: "2026-11-23T21:25:44.035Z"
+status: "active"
 ---
 
 # § 1029. Fraud and related activity in connection with access devices
@@ -52,3 +53,13 @@ generated_at: "2026-03-30T02:54:16.479Z"
   - **(1)** It is not a violation of subsection (a)(9) for an officer, employee, or agent of, or a person engaged in business with, a facilities-based carrier, to engage in conduct (other than trafficking) otherwise prohibited by that subsection for the purpose of protecting the property or legal rights of that carrier, unless such conduct is for the purpose of obtaining telecommunications service provided by another facilities-based carrier without the authorization of such carrier.
   - **(2)** In a prosecution for a violation of subsection (a)(9), (other than a violation consisting of producing or trafficking) it is an affirmative defense (which the defendant must establish by a preponderance of the evidence) that the conduct charged was engaged in for research or development in connection with a lawful purpose.
 - **(h)** Any person who, outside the jurisdiction of the United States, engages in any act that, if committed within the jurisdiction of the United States, would constitute an offense under subsection (a) or (b) of this section, shall be subject to the fines, penalties, imprisonment, and forfeiture provided in this title if the offense involves an access device issued, owned, managed, or controlled by a financial institution, account issuer, credit card system member, or other entity organized under the laws of the United States, or any State, the District of Columbia, or other territory of the United States.
+
+Penalties.—
+
+Generally
+
+Forfeiture procedure
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 1602(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2183](https://www.govinfo.gov/link/statute/98/2183); amended [Pub. L. 99–646, § 44(b)](https://www.govinfo.gov/link/plaw/99/public/646), Nov. 10, 1986, [100 Stat. 3601](https://www.govinfo.gov/link/statute/100/3601); [Pub. L. 101–647, title XII, § 1205(f)](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4831](https://www.govinfo.gov/link/statute/104/4831); [Pub. L. 103–322, title XXV, § 250007](https://www.govinfo.gov/link/plaw/103/public/322), title XXXIII, § 330016(2)(I), Sept. 13, 1994, [108 Stat. 2087](https://www.govinfo.gov/link/statute/108/2087), 2148; [Pub. L. 103–414, title II, § 206](https://www.govinfo.gov/link/plaw/103/public/414), Oct. 25, 1994, [108 Stat. 4291](https://www.govinfo.gov/link/statute/108/4291); [Pub. L. 104–294, title VI, § 601](https://www.govinfo.gov/link/plaw/104/public/294) (l), Oct. 11, 1996, [110 Stat. 3501](https://www.govinfo.gov/link/statute/110/3501); [Pub. L. 105–172, § 2(a)](https://www.govinfo.gov/link/plaw/105/public/172) –(d), Apr. 24, 1998, [112 Stat. 53](https://www.govinfo.gov/link/statute/112/53), 54; [Pub. L. 107–56, title III, § 377](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 342](https://www.govinfo.gov/link/statute/115/342); [Pub. L. 107–273, div. B, title IV, § 4002(b)(11)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1808](https://www.govinfo.gov/link/statute/116/1808); [Pub. L. 114–113, div. N, title IV, § 407](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2985](https://www.govinfo.gov/link/statute/129/2985).)*

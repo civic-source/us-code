@@ -3,9 +3,10 @@ title: "Section 1926 - Water and waste facility loans and grants"
 usc_title: 7
 usc_section: "1926"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1926"
-generated_at: "2026-03-30T02:53:42.344Z"
+generated_at: "2026-11-23T21:25:28.191Z"
+status: "active"
 ---
 
 # § 1926. Water and waste facility loans and grants
@@ -128,3 +129,135 @@ generated_at: "2026-03-30T02:53:42.344Z"
 - **(b)** The service provided or made available through any such association shall not be curtailed or limited by inclusion of the area served by such association within the boundaries of any municipal corporation or other public body, or by the granting of any private franchise for similar service within such area during the term of such loan; nor shall the happening of any such event be the basis of requiring such association to secure any franchise, license, or permit as a condition to continuing to serve the area served by the association at the time of the occurrence of such event.
 - **(c)**
 - **(d)** Any amounts appropriated under this section shall remain available until expended, and any amounts authorized for any fiscal year under this section but not appropriated may be appropriated for any succeeding fiscal year.
+
+Water, waste disposal, and wastewater facility grants.—
+
+Authority.—
+
+In general
+
+Amount
+
+Grant rate
+
+Revolving funds for financing water and wastewater projects.—
+
+In general
+
+Eligible entities
+
+Maximum amount of financing
+
+Term
+
+Administration
+
+Annual report
+
+Authorization of appropriations
+
+Special evaluation assistance for rural communities and households program.—
+
+In general
+
+Terms.—
+
+Documentation
+
+Matching
+
+Funding
+
+Relationship to other authority
+
+Application requirements
+
+Conformity with state drinking water standards
+
+Conformity with federal and state water pollution control standards
+
+Rural water and wastewater technical assistance and training programs.—
+
+In general
+
+Selection priority
+
+Funding
+
+Community facilities grant program.—
+
+In general
+
+Federal share.—
+
+In general
+
+Maximum amount
+
+Graduated scale
+
+Community facilities grant program for rural communities with extreme unemployment and severe economic depression.—
+
+Definition of not employed rate
+
+Grant authority
+
+Federal share
+
+Authorization of appropriations
+
+Rural broadband
+
+Community facilities grant program for rural communities with high levels of out-migration or loss of population.—
+
+Grant authority
+
+Federal share
+
+Rural water and wastewater circuit rider program.—
+
+In general
+
+Authorization of appropriations
+
+Loan guarantees for water, wastewater, and essential community facilities loans.—
+
+In general
+
+Requirements
+
+Use of loan guarantees for community facilities
+
+Priority.—
+
+Water or waste facility
+
+Community facility
+
+Tribal college and university essential community facilities.—
+
+In general
+
+Federal share
+
+Authorization of appropriations
+
+Essential community facilities technical assistance and training.—
+
+In general
+
+Selection priority
+
+Funding
+
+“Notwithstanding any other provision of law, for any fiscal year, in the case of a high cost, isolated rural area of the State of Alaska that is not connected to a road system—
+
+Findings
+
+Expanded Eligibility
+
+Effect on State Allotments of Funds
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 306](https://www.govinfo.gov/link/plaw/87/public/128), Aug. 8, 1961, [75 Stat. 308](https://www.govinfo.gov/link/statute/75/308); [Pub. L. 87–703, title IV, § 401(2)](https://www.govinfo.gov/link/plaw/87/public/703), Sept. 27, 1962, [76 Stat. 632](https://www.govinfo.gov/link/statute/76/632); [Pub. L. 89–240, § 1](https://www.govinfo.gov/link/plaw/89/public/240), Oct. 7, 1965, [79 Stat. 931](https://www.govinfo.gov/link/statute/79/931); [Pub. L. 89–769, § 6(b)](https://www.govinfo.gov/link/plaw/89/public/769), Nov. 6, 1966, [80 Stat. 1318](https://www.govinfo.gov/link/statute/80/1318); [Pub. L. 90–488](https://www.govinfo.gov/link/plaw/90/public/488), §§ 3–5, Aug. 15, 1968, [82 Stat. 770](https://www.govinfo.gov/link/statute/82/770); [Pub. L. 91–524, title VIII, § 806(a)](https://www.govinfo.gov/link/plaw/91/public/524), Nov. 30, 1970, [84 Stat. 1383](https://www.govinfo.gov/link/statute/84/1383); [Pub. L. 91–606, title III, § 302(2)](https://www.govinfo.gov/link/plaw/91/public/606), Dec. 31, 1970, [84 Stat. 1759](https://www.govinfo.gov/link/statute/84/1759); [Pub. L. 91–617, § 1(a)](https://www.govinfo.gov/link/plaw/91/public/617), Dec. 31, 1970, [84 Stat. 1855](https://www.govinfo.gov/link/statute/84/1855); [Pub. L. 92–419, title I](https://www.govinfo.gov/link/plaw/92/public/419), §§ 104–112, Aug. 30, 1972, [86 Stat. 658](https://www.govinfo.gov/link/statute/86/658), 659; [Pub. L. 91–524, title VIII, § 816(c)](https://www.govinfo.gov/link/plaw/91/public/524), as added [Pub. L. 93–86, § 1(27)(B)](https://www.govinfo.gov/link/plaw/93/public/86), Aug. 10, 1973, [87 Stat. 240](https://www.govinfo.gov/link/statute/87/240); [Pub. L. 95–334, title I](https://www.govinfo.gov/link/plaw/95/public/334), §§ 104–107(a), Aug. 4, 1978, [92 Stat. 421](https://www.govinfo.gov/link/statute/92/421), 422; [Pub. L. 96–355, § 7](https://www.govinfo.gov/link/plaw/96/public/355), Sept. 24, 1980, [94 Stat. 1174](https://www.govinfo.gov/link/statute/94/1174); [Pub. L. 96–438, § 2(1)](https://www.govinfo.gov/link/plaw/96/public/438), Oct. 13, 1980, [94 Stat. 1871](https://www.govinfo.gov/link/statute/94/1871); [Pub. L. 97–35, title I, § 121](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 368](https://www.govinfo.gov/link/statute/95/368); [Pub. L. 99–198, title XIII, § 1304(a)](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1519](https://www.govinfo.gov/link/statute/99/1519); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 101–624, title XXIII](https://www.govinfo.gov/link/plaw/101/public/624), §§ 2316(b), 2321, 2328, 2329, 2341, 2342, 2393, Nov. 28, 1990, [104 Stat. 4008](https://www.govinfo.gov/link/statute/104/4008), 4010, 4017, 4026, 4027, 4057; [Pub. L. 102–237, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/102/public/237), (h)(1)(A), (B), Dec. 13, 1991, [105 Stat. 1879](https://www.govinfo.gov/link/statute/105/1879), 1880; [Pub. L. 103–129, § 3](https://www.govinfo.gov/link/plaw/103/public/129), Nov. 1, 1993, [107 Stat. 1366](https://www.govinfo.gov/link/statute/107/1366); [Pub. L. 103–354, title II, § 235(b)(5)](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3222](https://www.govinfo.gov/link/statute/108/3222); [Pub. L. 104–127, title VII](https://www.govinfo.gov/link/plaw/104/public/127), §§ 741(a), 758, 763, Apr. 4, 1996, [110 Stat. 1122](https://www.govinfo.gov/link/statute/110/1122), 1132, 1148; [Pub. L. 106–387, § 1(a) [title VII, § 773]](https://www.govinfo.gov/link/plaw/106/public/387), Oct. 28, 2000, [114 Stat. 1549](https://www.govinfo.gov/link/statute/114/1549), 1549A–45; [Pub. L. 106–472, title III](https://www.govinfo.gov/link/plaw/106/public/472), §§ 304(a), 305(a), Nov. 9, 2000, [114 Stat. 2070](https://www.govinfo.gov/link/statute/114/2070), 2071; [Pub. L. 107–76, title VII, § 762](https://www.govinfo.gov/link/plaw/107/public/76), Nov. 28, 2001, [115 Stat. 743](https://www.govinfo.gov/link/statute/115/743); [Pub. L. 107–171, title VI](https://www.govinfo.gov/link/plaw/107/public/171), §§ 6001–6007(a), 6008, 6020(b)(1), May 13, 2002, [116 Stat. 352–355](https://www.govinfo.gov/link/statute/116/352), 363; [Pub. L. 110–234, title VI](https://www.govinfo.gov/link/plaw/110/public/234), §§ 6001, 6002(a), 6003–6007, title VII, § 7511(c)(3), May 22, 2008, [122 Stat. 1161](https://www.govinfo.gov/link/statute/122/1161), 1162, 1267; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VI, §§ 6001, 6002(a), 6003–6007, title VII, § 7511(c)(3), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1923, 1924, 2029; [Pub. L. 113–79, title VI](https://www.govinfo.gov/link/plaw/113/public/79), §§ 6001–6006, 6012(b), Feb. 7, 2014, [128 Stat. 841](https://www.govinfo.gov/link/statute/128/841), 842, 845; [Pub. L. 115–334, title VI](https://www.govinfo.gov/link/plaw/115/public/334), §§ 6402(b)–6406, 6601(a)(1)(A), 6701(a)(1), Dec. 20, 2018, [132 Stat. 4757–4759](https://www.govinfo.gov/link/statute/132/4757), 4775, 4778.)*

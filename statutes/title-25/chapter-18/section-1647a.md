@@ -3,9 +3,10 @@ title: "Section 1647a - Nondiscrimination under Federal health care programs in 
 usc_title: 25
 usc_section: "1647a"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1647a"
-generated_at: "2026-03-30T02:54:52.823Z"
+generated_at: "2026-11-23T21:25:54.626Z"
+status: "active"
 ---
 
 # § 1647a. Nondiscrimination under Federal health care programs in qualifications for reimbursement for services
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:52.823Z"
   - **(2)** No individual who has been excluded from participation in any Federal health care program or whose State license is under suspension shall be eligible to receive payment or reimbursement under any such program for health care services furnished by that individual, directly or through an entity that is otherwise eligible to receive payment for health care services, to an Indian.
   - **(3)** In this subsection, the term, 1 1 So in original. The comma probably should not appear. “Federal health care program” has the meaning given that term in section 1320a–7b(f) of title 42 , except that, for purposes of this subsection, such term shall include the health insurance program under chapter 89 of title 5.
 - **(c)** For provisions related to nondiscrimination against providers operated by the Service, an Indian tribe, tribal organization, or urban Indian organization, see section 1320b–9(c) 2 2 See References in Text note below. of title 42.
+
+## Source Credit
+
+*([Pub. L. 94–437, title IV, § 408](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

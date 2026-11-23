@@ -3,9 +3,10 @@ title: "Section 3111 - State workforce development boards"
 usc_title: 29
 usc_section: "3111"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3111"
-generated_at: "2026-03-30T02:55:18.749Z"
+generated_at: "2026-11-23T21:26:02.324Z"
+status: "active"
 ---
 
 # § 3111. State workforce development boards
@@ -79,3 +80,21 @@ generated_at: "2026-03-30T02:55:18.749Z"
   - **(1)** The State board may hire a director and other staff to assist in carrying out the functions described in subsection (d) using funds available as described in section 3164(b)(3) of this title or 3174(a)(3)(B)(i) of this title.
   - **(2)** The State board shall establish and apply a set of objective qualifications for the position of director, that ensures that the individual selected has the requisite knowledge, skills, and abilities, to meet identified benchmarks and to assist in effectively carrying out the functions of the State board.
   - **(3)** The director and staff described in paragraph (1) shall be subject to the limitations on the payment of salary and bonuses described in section 3254(15) of this title .
+
+(aa) shall include the lead State officials with primary responsibility for the core programs; and
+
+(bb) shall include chief elected officials (collectively representing both cities and counties, where appropriate); and
+
+(aa) the State agency officials from agencies that are one-stop partners not specified in subclause (I) (including additional one-stop partners whose programs are covered by the State plan, if any);
+
+(bb) State agency officials responsible for economic development or juvenile justice programs in the State;
+
+(cc) individuals who represent an Indian tribe or tribal organization, as such terms are defined in section 3221(b) of this title ; and
+
+(dd) State agency officials responsible for education programs in the State, including chief executive officers of community colleges and other institutions of higher education.
+
+“Not later than 1 year after the date of enactment of this Act [ Nov. 15, 2021 ], the Secretary of Labor, in partnership with the Chairman of the Federal Communications Commission, shall establish and issue guidance on how States can address the workforce needs and safety of the telecommunications industry, including guidance on how a State workforce development board established under section 101 of the Workforce Innovation and Opportunity Act ( 29 U.S.C. 3111 ) can—
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 101](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1440](https://www.govinfo.gov/link/statute/128/1440).)*

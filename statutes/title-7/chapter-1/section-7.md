@@ -3,9 +3,10 @@ title: "Section 7 - Designation of boards of trade as contract markets"
 usc_title: 7
 usc_section: "7"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7"
-generated_at: "2026-03-30T02:53:42.242Z"
+generated_at: "2026-11-23T21:25:27.851Z"
+status: "active"
 ---
 
 # § 7. Designation of boards of trade as contract markets
@@ -92,3 +93,7 @@ generated_at: "2026-03-30T02:53:42.242Z"
 - **(e)**
   - **(1)** Subject to paragraph (2) of this subsection, a contract for purchase or sale for future delivery of an agricultural commodity enumerated in section 1a(9) of this title that is available for trade on a contract market, as of December 21, 2000 , may be traded only on a contract market designated under this section.
   - **(2)** In order to promote responsible economic or financial innovation and fair competition, the Commission, on application by any person, after notice and public comment and opportunity for hearing, may prescribe rules and regulations to provide for the offer and sale of contracts for future delivery or options on such contracts to be conducted on a derivatives transaction execution facility.
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 5, as added [Pub. L. 106–554, § 1(a)(5) [title I, § 110(2)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–384; amended [Pub. L. 111–203, title VII](https://www.govinfo.gov/link/plaw/111/public/203), §§ 721(e)(4), 735, July 21, 2010, [124 Stat. 1671](https://www.govinfo.gov/link/statute/124/1671), 1718.)*

@@ -3,9 +3,10 @@ title: "Section 4613 - Critical capital levels"
 usc_title: 12
 usc_section: "4613"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4613"
-generated_at: "2026-03-30T02:53:53.510Z"
+generated_at: "2026-11-23T21:25:37.196Z"
+status: "active"
 ---
 
 # § 4613. Critical capital levels
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:53.510Z"
 - **(b)**
   - **(1)** For purposes of this subchapter, the critical capital level for each Federal Home Loan Bank shall be such amount of capital as the Director shall, by regulation, require.
   - **(2)** In establishing the critical capital level under paragraph (1) for the Federal Home Loan Banks, the Director shall take due consideration of the critical capital level established under subsection (a) for the enterprises, with such modifications as the Director determines to be appropriate to reflect the difference in operations between the banks and the enterprises.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1363](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3976](https://www.govinfo.gov/link/statute/106/3976); [Pub. L. 110–289, div. A, title I, § 1141(a)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2730](https://www.govinfo.gov/link/statute/122/2730).)*

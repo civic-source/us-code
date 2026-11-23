@@ -3,9 +3,10 @@ title: "Section 6305 - Citizen suits"
 usc_title: 42
 usc_section: "6305"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6305"
-generated_at: "2026-03-30T02:56:11.253Z"
+generated_at: "2026-11-23T21:26:32.903Z"
+status: "active"
 ---
 
 # § 6305. Citizen suits
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.253Z"
 - **(d)** The court, in issuing any final order in any action brought pursuant to subsection (a) of this section, may award costs of litigation (including reasonable attorney and expert witness fees) to any party, whenever the court determines such award is appropriate.
 - **(e)** Nothing in this section shall restrict any right which any person (or class of persons) may have under any statute or common law to seek enforcement of this part or any rule thereunder, or to seek any other relief (including relief against the Secretary or the Commission).
 - **(f)** For purposes of this section, if a manufacturer or private labeler complied in good faith with a rule under this part, then he shall not be deemed to have violated any provision of this part by reason of the alleged invalidity of such rule.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 335](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 930](https://www.govinfo.gov/link/statute/89/930); [Pub. L. 95–619, title IV, § 425(f)](https://www.govinfo.gov/link/plaw/95/public/619), title VI, § 691(b)(2), Nov. 9, 1978, [92 Stat. 3266](https://www.govinfo.gov/link/statute/92/3266), 3288; [Pub. L. 100–12](https://www.govinfo.gov/link/plaw/100/public/12), §§ 8, 11(b)(7), Mar. 17, 1987, [101 Stat. 122](https://www.govinfo.gov/link/statute/101/122), 126.)*

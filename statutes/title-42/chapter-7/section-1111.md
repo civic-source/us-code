@@ -3,9 +3,10 @@ title: "Section 1111 - Data exchange standardization for improved interoperabili
 usc_title: 42
 usc_section: "1111"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1111"
-generated_at: "2026-03-30T02:56:10.902Z"
+generated_at: "2026-11-23T21:26:31.222Z"
+status: "active"
 ---
 
 # § 1111. Data exchange standardization for improved interoperability
@@ -24,3 +25,11 @@ generated_at: "2026-03-30T02:56:10.902Z"
     - **(B)** be consistent with and implement applicable accounting principles; and
     - **(C)** be capable of being continually upgraded as necessary.
   - **(3)** In designating reporting standards under this subsection, the Secretary of Labor shall, to the extent practicable, incorporate existing nonproprietary standards, such as the eXtensible Markup Language.
+
+Data exchange standards
+
+Data reporting standards
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IX, § 911, as added [Pub. L. 112–96, title II, § 2104(a)](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 161](https://www.govinfo.gov/link/statute/126/161).)*

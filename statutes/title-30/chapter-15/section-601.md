@@ -3,9 +3,10 @@ title: "Section 601 - Rules and regulations governing disposal of materials; pay
 usc_title: 30
 usc_section: "601"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 601"
-generated_at: "2026-03-30T02:55:29.386Z"
+generated_at: "2026-11-23T21:26:00.385Z"
+status: "active"
 ---
 
 # § 601. Rules and regulations governing disposal of materials; payment; removal without charge; lands excluded
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:29.386Z"
   - **(2)** is not expressly prohibited by laws of the United States, and
   - **(3)** would not be detrimental to the public interest. Such materials may be disposed of only in accordance with the provisions of this subchapter and upon the payment of adequate compensation therefor, to be determined by the Secretary: Provided, however , That, to the extent not otherwise authorized by law, the Secretary is authorized in his discretion to permit any Federal, State, or Territorial agency, unit or subdivision, including municipalities, or any association or corporation not organized for profit, to take and remove, without charge, materials and resources subject to this subchapter, for use other than for commercial or industrial purposes or resale. Where the lands have been withdrawn in aid of a function of a Federal department or agency other than the department headed by the Secretary or of a State, Territory, county, municipality, water district or other local governmental subdivision or agency, the Secretary may make disposals under this subchapter only with the consent of such other Federal department or agency or of such State, Territory, or local governmental unit. Nothing in this subchapter shall be construed to apply to lands in any national park, or national monument or to any Indian lands, or lands set aside or held for the use or benefit of Indians, including lands over which jurisdiction has been transferred to the Department of the Interior by Executive order for the use of Indians. As used in this subchapter, the word “Secretary” means the Secretary of the Interior except that it means the Secretary of Agriculture where the lands involved are administered by him for national forest purposes or for the purposes of title III of the Bankhead-Jones Farm Tenant Act [ 7 U.S.C. 1010 et seq.] or where withdrawn for the purpose of any other function of the Department of Agriculture.
 
+
+## Source Credit
+
+*(July 31, 1947, ch. 406, § 1, [61 Stat. 681](https://www.govinfo.gov/link/statute/61/681); July 23, 1955, ch. 375, § 1, [69 Stat. 367](https://www.govinfo.gov/link/statute/69/367).)*

@@ -3,9 +3,10 @@ title: "Section 1644a - Ports of entry"
 usc_title: 19
 usc_section: "1644a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1644a"
-generated_at: "2026-03-30T02:54:24.649Z"
+generated_at: "2026-11-23T21:25:42.738Z"
+status: "active"
 ---
 
 # § 1644a. Ports of entry
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:24.649Z"
     - **(D)** a bond is deposited with the appropriate Secretary or the Attorney General in an amount and with a surety the appropriate Secretary or the Attorney General prescribes, conditioned on payment of the penalty or amount not remitted or mitigated.
 - **(f)** A civil penalty under this section may be collected by bringing a civil action against the person subject to the penalty, a civil action in rem against an aircraft subject to a lien for a penalty, or both. The action shall conform as nearly as practicable to a civil action in admiralty, regardless of the place an aircraft in a civil action in rem is seized. However, a party may demand a trial by jury of an issue of fact if the value of the matter in controversy is more than $20. An issue of fact tried by jury may be reexamined only under common law rules.
 - **(g)** Necessary amounts may be appropriated to allow the head of a department, agency, or instrumentality of the Government to acquire space at a public airport (as defined in section 47102 of title 49 ) when the head decides the space is necessary to carry out inspections, clearance, collection of taxes or duties, or a similar responsibility of the head, related to transporting passengers or property in air commerce. The head must consult with the Secretary of Transportation before making a decision on space.
+
+## Source Credit
+
+*([Pub. L. 103–272, § 2](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1358](https://www.govinfo.gov/link/statute/108/1358).)*

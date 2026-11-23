@@ -3,9 +3,10 @@ title: "Section 831 - John Heinz Competitive Excellence Award"
 usc_title: 2
 usc_section: "831"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 831"
-generated_at: "2026-03-30T02:53:04.803Z"
+generated_at: "2026-11-23T21:25:21.189Z"
+status: "active"
 ---
 
 # § 831. John Heinz Competitive Excellence Award
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:04.803Z"
   - **(1)** The Office of Technology Assessment shall ensure that all nominees receive a detailed summary of any evaluation conducted of such nominee under subsection (c).
   - **(2)** The Office of Technology Assessment shall also make available to all nominees and the public a summary of each award winner’s competitiveness strategy. Proprietary information shall not be included in any such summary without the consent of the award winner.
 - **(f)** The Majority and Minority Leaders of the Senate and the Speaker and the Minority Leader of the House of Representatives are authorized to seek and accept gifts from public and private sources to defray the cost of implementing this section.
+
+## Source Credit
+
+*([Pub. L. 102–429, title III, § 301](https://www.govinfo.gov/link/plaw/102/public/429), Oct. 21, 1992, [106 Stat. 2205](https://www.govinfo.gov/link/statute/106/2205).)*

@@ -3,9 +3,10 @@ title: "Section 548 - Surplus vessels"
 usc_title: 40
 usc_section: "548"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 548"
-generated_at: "2026-03-30T02:55:43.374Z"
+generated_at: "2026-11-23T21:26:14.807Z"
+status: "active"
 ---
 
 # § 548. Surplus vessels
@@ -17,3 +18,36 @@ generated_at: "2026-03-30T02:55:43.374Z"
     - **(A)** retain the proceeds from the sale or transfer of a covered vessel or equipment under paragraph (1) until expended under subparagraph (B); and
     - **(B)** use such proceeds, without fiscal year limitation, for the acquisition of new covered vessels and equipment or the repair and maintenance of existing covered vessels and equipment.
   - **(3)** In this subsection, the term “covered vessels and equipment” means survey and research vessels and related equipment owned by the Federal Government and under the control of the National Oceanic and Atmospheric Administration.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 548 | 40:484(i). | June 30, 1949, ch. 288 , title II, § 203(i), 63 Stat. 386 ; Pub. L. 97–31, § 12(15) , Aug. 6, 1981 , 95 Stat. 154 . |
+
+
+In General
+
+National Oceanic and Atmospheric Administration Vessels and Equipment.—
+
+Authority
+
+Use of proceeds
+
+Covered vessels and equipment defined
+
+Historical and Revision Notes
+
+548
+
+June 30, 1949, ch. 288
+
+63 Stat. 386
+
+Pub. L. 97–31, § 12(15)
+
+Aug. 6, 1981
+
+95 Stat. 154
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1090](https://www.govinfo.gov/link/statute/116/1090); [Pub. L. 109–304, § 17(g)(1)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1708](https://www.govinfo.gov/link/statute/120/1708); [Pub. L. 119–60, div. H, title LXXXIV, § 8409](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1913](https://www.govinfo.gov/link/statute/139/1913).)*

@@ -3,9 +3,10 @@ title: "Section 6321 - Findings; purpose; definitions"
 usc_title: 42
 usc_section: "6321"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6321"
-generated_at: "2026-03-30T02:56:11.255Z"
+generated_at: "2026-11-23T21:26:32.926Z"
+status: "active"
 ---
 
 # § 6321. Findings; purpose; definitions
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:11.255Z"
       - **(i)** the useful life of the modification involved, as determined by the Secretary, or
       - **(ii)** 25 years after the purchase and installation of such measure,
   - **(8)** The term “transportation controls” means any plan, procedure, method, or arrangement, or any system of incentives, disincentives, restrictions, and requirements, which is designed to reduce the amount of energy consumed in transportation, except that the term does not include rationing of gasoline or diesel fuel.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 361](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 932](https://www.govinfo.gov/link/statute/89/932); [Pub. L. 95–619, title VI, § 691(b)(2)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3288](https://www.govinfo.gov/link/statute/92/3288); [Pub. L. 117–58, div. D, title I, § 40108(a)(1)](https://www.govinfo.gov/link/plaw/117/public/58), (3), Nov. 15, 2021, [135 Stat. 941](https://www.govinfo.gov/link/statute/135/941), 942.)*

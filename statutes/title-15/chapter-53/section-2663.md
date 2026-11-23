@@ -3,9 +3,10 @@ title: "Section 2663 - EPA citizen’s guide"
 usc_title: 15
 usc_section: "2663"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2663"
-generated_at: "2026-03-30T02:54:08.180Z"
+generated_at: "2026-11-23T21:25:39.948Z"
+status: "active"
 ---
 
 # § 2663. EPA citizen’s guide
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.180Z"
     - **(C)** The cost and technological feasibility of reducing radon concentrations within existing and new buildings.
     - **(D)** The relationship between short-term and long-term testing techniques and the relationship between (i) measurements based on both such techniques, and (ii) the actions 1 1 So in original. Probably should be “action”. levels set forth as provided in paragraph (1).
     - **(E)** Outdoor radon levels around the country.
+
+## Source Credit
+
+*([Pub. L. 94–469, title III, § 303](https://www.govinfo.gov/link/plaw/94/public/469), as added [Pub. L. 100–551, § 1(a)](https://www.govinfo.gov/link/plaw/100/public/551), Oct. 28, 1988, [102 Stat. 2755](https://www.govinfo.gov/link/statute/102/2755).)*

@@ -3,9 +3,10 @@ title: "Section 8004 - Congregate services program"
 usc_title: 42
 usc_section: "8004"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8004"
-generated_at: "2026-03-30T02:56:11.332Z"
+generated_at: "2026-11-23T21:26:33.176Z"
+status: "active"
 ---
 
 # § 8004. Congregate services program
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.332Z"
 - **(g)** Nonprofit corporations and public housing agencies receiving assistance for congregate services programs under this chapter shall be required to maintain the same dollar amount of annual contribution which they were making, if any, in support of the provision of services eligible for assistance under this chapter before the date of the submission of the application for such assistance unless the Secretary determines that the waiver of this requirement is necessary for the maintenance of adequate levels of services to eligible project residents. If any contract or lease entered into by a public housing agency or nonprofit corporation pursuant to subsection (f) of this section provides for adjustments in payments for services to reflect changes in the cost of living, then the amount of annual contribution required to be maintained by such public agency or nonprofit corporation under the preceding sentence shall be readjusted in the same manner.
 - **(h)** Each nonprofit corporation and public housing agency shall establish fees for meal service and other appropriate services provided to eligible project residents. These fees shall be reasonable, may not exceed the cost of providing the service, and shall be calculated on a sliding scale related to income which permits the provision of services to such residents who cannot afford meal and service fees. When meal services are provided to other project residents, fees shall be reasonable and may not exceed the cost of providing the meal service.
 - **(i)** The Secretary shall establish standards for the provision of services under this chapter, and, in developing such service standards, the Secretary shall consult with the Secretary of Health and Human Services and with appropriate organizations representing the elderly and handicapped, as determined by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 95–557, title IV, § 405](https://www.govinfo.gov/link/plaw/95/public/557), Oct. 31, 1978, [92 Stat. 2106](https://www.govinfo.gov/link/statute/92/2106); [Pub. L. 96–399, title II, § 208](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1634](https://www.govinfo.gov/link/statute/94/1634); [Pub. L. 98–479, title II, § 201(j)](https://www.govinfo.gov/link/plaw/98/public/479), Oct. 17, 1984, [98 Stat. 2228](https://www.govinfo.gov/link/statute/98/2228).)*

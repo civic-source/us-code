@@ -3,9 +3,10 @@ title: "Section 5338 - Authorizations"
 usc_title: 49
 usc_section: "5338"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 5338"
-generated_at: "2026-03-30T02:56:19.317Z"
+generated_at: "2026-11-23T21:26:40.659Z"
+status: "active"
 ---
 
 # § 5338. Authorizations
@@ -59,3 +60,538 @@ generated_at: "2026-03-30T02:56:19.317Z"
   - **(1)** A grant or contract that is approved by the Secretary and financed with amounts made available from the Mass Transit Account of the Highway Trust Fund pursuant to this section is a contractual obligation of the Government to pay the Government share of the cost of the project.
   - **(2)** A grant or contract that is approved by the Secretary and financed with amounts appropriated in advance from the General Fund of the Treasury pursuant to this section is a contractual obligation of the Government to pay the Government share of the cost of the project only to the extent that amounts are appropriated for such purpose by an Act of Congress.
 - **(e)** Amounts made available by or appropriated under this section shall remain available until expended.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5338(a) | 49 App.:1617(a) (less availability). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 21; added Jan. 6, 1983 , Pub. L. 97–424, § 302(a) , 96 Stat. 2140 ; Apr. 2, 1987 , Pub. L. 100–17, § 328 , 101 Stat. 238 ; restated Dec. 18, 1991 , Pub. L. 102–240, § 3025 , 105 Stat. 2112 ; Oct. 6, 1992 , Pub. L. 102–388, § 502(m) –(q), 106 Stat. 1567 . |
+| 5338(b) | 49 App.:1617(b) (less availability). |  |
+| 5338(c) | 49 App.:1625(d) (1st sentence). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 29(d); added Dec. 18, 1991 , Pub. L. 102–240, § 6022 , 105 Stat. 2185 . |
+| 5338(d) | 49 App.:1607c(c)(6). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 11(c)(6); added Dec. 18, 1991 , Pub. L. 102–240, § 6024 , 105 Stat. 2189 ; Sept. 23, 1992 , Pub. L. 102–368, § 801 , 106 Stat. 1131 . |
+| 5338(e)(1) | 49 App.:1607c(b) (8)(B)(iii), (13) (1st sentence). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 11(b) (8)(B)(iii), (10)(C), (13); added Dec. 18, 1991 , Pub. L. 102–240, § 6023 , 105 Stat. 2186 , 2187, 2188. |
+| 5338(e)(2) | 49 App.:1607c(b) (1)(C). |  |
+| 5338(f) | 49 App.:1617(g). |  |
+| 5338(g)–(i) | 49 App.:1617(c) (less availability), (d) (less availability), (e). |  |
+| 5338(j)(1) | 49 App.:1612(b) (last sentence). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 16(b) (last sentence); added Oct. 15, 1970 , Pub. L. 91–453, § 8 , 84 Stat. 968 ; Aug. 13, 1973 , Pub. L. 93–87, § 301(g) , 87 Stat. 296 ; restated Nov. 6, 1978 , Pub. L. 95–599, § 311(a) , 92 Stat. 2748 ; Jan. 6, 1983 , Pub. L. 97–424, § 317(a) , 96 Stat. 2153 . |
+| 5338(j)(2) | 49 App.:1612(d). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 16(d); added Oct. 15, 1970 , Pub. L. 91–453, § 8 , 84 Stat. 968 ; Dec. 18, 1991 , Pub. L. 102–240, § 3021(5) , 105 Stat. 2110 . |
+| 5338(j)(3) | 49 App.:1603(c) (last sentence). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 4(c) (last sentence); added Nov. 6, 1978 , Pub. L. 95–599, § 303(e) , 92 Stat. 2739 ; Dec. 18, 1991 , Pub. L. 102–240, § 3006(h)(1) , 105 Stat. 2090 . |
+| 5338(j)(4) | 49 App.:1617(f) (less availability). |  |
+| 5338(j)(5) | 49 App.:1602(m) (1st sentence). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 3(m) (1st sentence); added Dec. 18, 1991 , Pub. L. 102–240, § 3009 , 105 Stat. 2093 . |
+| 5338(k) | 49 App.:1607c(b)(13) (last sentence). |  |
+|  | 49 App.:1617(b)(4). |  |
+|  | 49 App.:1625(d) (last sentence). |  |
+| 5338( l )(1) | 49 App.:1614(a) (last sentence). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 18(a) (last sentence); added Nov. 6, 1978 , Pub. L. 95–599, § 313 , 92 Stat. 2749 . |
+| 5338( l )(2) | 49 App.:1617(a)–(d), (f) (as (a)–(d), (f) relate to availability). |  |
+| 5338( l )(3) | 49 App.:1607a–2(c). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 9B(c); added Apr. 2, 1987 , Pub. L. 100–17, § 313 , 101 Stat. 229 . |
+
+
+Grants.—
+
+In general
+
+Allocation of funds
+
+Capital Investment Grants
+
+Oversight.—
+
+In general
+
+Activities
+
+Government share of costs
+
+Availability of certain funds
+
+Grants as Contractual Obligations.—
+
+Grants financed from highway trust fund
+
+Grants financed from general fund
+
+Availability of Amounts
+
+Historical and Revision Notes
+
+Pub. L
+
+5338(a)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 302(a)
+
+96 Stat. 2140
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 328
+
+101 Stat. 238
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3025
+
+105 Stat. 2112
+
+Oct. 6, 1992
+
+Pub. L. 102–388, § 502(m)
+
+106 Stat. 1567
+
+5338(b)
+
+5338(c)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 6022
+
+105 Stat. 2185
+
+5338(d)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 6024
+
+105 Stat. 2189
+
+Sept. 23, 1992
+
+Pub. L. 102–368, § 801
+
+106 Stat. 1131
+
+5338(e)(1)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 6023
+
+105 Stat. 2186
+
+5338(e)(2)
+
+5338(f)
+
+5338(g)–(i)
+
+5338(j)(1)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Oct. 15, 1970
+
+Pub. L. 91–453, § 8
+
+84 Stat. 968
+
+Aug. 13, 1973
+
+Pub. L. 93–87, § 301(g)
+
+87 Stat. 296
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 311(a)
+
+92 Stat. 2748
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 317(a)
+
+96 Stat. 2153
+
+5338(j)(2)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Oct. 15, 1970
+
+Pub. L. 91–453, § 8
+
+84 Stat. 968
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3021(5)
+
+105 Stat. 2110
+
+5338(j)(3)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 303(e)
+
+92 Stat. 2739
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3006(h)(1)
+
+105 Stat. 2090
+
+5338(j)(4)
+
+5338(j)(5)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3009
+
+105 Stat. 2093
+
+5338(k)
+
+5338( l )(1)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 313
+
+92 Stat. 2749
+
+5338( l )(2)
+
+5338( l )(3)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 313
+
+101 Stat. 229
+
+july 30, 2005
+
+july 27, 2005
+
+july 27, 2005
+
+july 21, 2005
+
+july 21, 2005
+
+july 19, 2005
+
+july 19, 2005
+
+june 30, 2005
+
+june 30, 2005
+
+may 31, 2005
+
+july 30, 2005
+
+july 27, 2005
+
+july 27, 2005
+
+july 21, 2005
+
+july 21, 2005
+
+july 19, 2005
+
+july 19, 2005
+
+june 30, 2005
+
+june 30, 2005
+
+may 31, 2005
+
+july 30, 2005
+
+july 27, 2005
+
+july 27, 2005
+
+july 21, 2005
+
+july 21, 2005
+
+july 19, 2005
+
+july 19, 2005
+
+june 30, 2005
+
+june 30, 2005
+
+may 31, 2005
+
+july 30, 2005
+
+july 27, 2005
+
+july 27, 2005
+
+july 21, 2005
+
+july 21, 2005
+
+july 19, 2005
+
+july 19, 2005
+
+june 30, 2005
+
+june 30, 2005
+
+may 31, 2005
+
+july 30, 2005
+
+july 27, 2005
+
+july 27, 2005
+
+july 21, 2005
+
+july 21, 2005
+
+july 19, 2005
+
+july 19, 2005
+
+june 30, 2005
+
+june 30, 2005
+
+may 31, 2005
+
+august 14
+
+july 30
+
+july 30, 2005
+
+july 27, 2005
+
+july 27, 2005
+
+july 21, 2005
+
+july 21, 2005
+
+july 19, 2005
+
+july 19, 2005
+
+june 30, 2005
+
+june 30, 2005
+
+may 31, 2005
+
+and for the period of october 1, 2004 , through may 31, 2005
+
+through 2004
+
+2003 and for the period of october 1, 2003 , through july 31,
+
+2004
+
+july 31, 2004
+
+june 30, 2004
+
+june 30, 2004
+
+april 30, 2004
+
+april 30, 2004
+
+february 29, 2004
+
+and for the period of october 1, 2004 , through may 31, 2005
+
+through 2004
+
+2003 and for the period of october 1, 2003 , through july 31,
+
+2004
+
+july 31, 2004
+
+june 30, 2004
+
+june 30, 2004
+
+april 30, 2004
+
+april 30, 2004
+
+february 29, 2004
+
+and for the period of october 1, 2004 , through may 31, 2005
+
+through 2004
+
+2003 and for the period of october 1, 2003 , through july 31,
+
+2004
+
+july 31, 2004
+
+june 30, 2004
+
+june 30, 2004
+
+april 30, 2004
+
+april 30, 2004
+
+february 29, 2004
+
+and for the period of october 1, 2004 , through may 31, 2005
+
+through 2004
+
+2003 and for the period of october 1, 2003 , through july 31,
+
+2004
+
+july 31, 2004
+
+june 30, 2004
+
+june 30, 2004
+
+april 30, 2004
+
+april 30, 2004
+
+february 29, 2004
+
+and for the period of october 1, 2004 , through may 31, 2005
+
+2004
+
+2003 and for the period of october 1, 2003 , through july 31,
+
+2004
+
+july 31, 2004
+
+june 30, 2004
+
+june 30, 2004
+
+april 30, 2004
+
+april 30, 2004
+
+february 29, 2004
+
+and for the period of october 1, 2004 , through may 31, 2005
+
+2004
+
+2003 and for the period of october 1, 2003 , through july 31,
+
+2004
+
+july 31, 2004
+
+june 30, 2004
+
+june 30, 2004
+
+april 30, 2004
+
+april 30, 2004
+
+february 29, 2004
+
+and for the period of october 1, 2003 , through february 29, 2004
+
+2003
+
+and for the period of october 1, 2003 , through february 29, 2004
+
+2003
+
+and for the period of october 1, 2003 , through february 29, 2004
+
+2003
+
+and for the period of october 1, 2003 , through february 29, 2004
+
+2003
+
+and for the period of october 1, 2003 , through february 29, 2004
+
+2003
+
+and for the period of october 1, 2003 , through february 29, 2004
+
+2003
+
+“Notwithstanding any other provision of law, the total of all obligations from amounts made available from the Mass Transit Account of the Highway Trust Fund by subsection (a) of section 5338 of title 49 , United States Code, and section 3028 of the Federal Public Transportation Act of 2015 [ section 3028 of Pub. L. 114–94 , 129 Stat. 1495 ] shall not exceed—
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 845](https://www.govinfo.gov/link/statute/108/845); [Pub. L. 104–287, § 5(20)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3390](https://www.govinfo.gov/link/statute/110/3390); [Pub. L. 102–240, § 3049(c)](https://www.govinfo.gov/link/plaw/102/public/240), as added [Pub. L. 105–130, § 8](https://www.govinfo.gov/link/plaw/105/public/130), Dec. 1, 1997, [111 Stat. 2559](https://www.govinfo.gov/link/statute/111/2559); [Pub. L. 105–178, title III, § 3029(a)](https://www.govinfo.gov/link/plaw/105/public/178), (c), June 9, 1998, [112 Stat. 368](https://www.govinfo.gov/link/statute/112/368); [Pub. L. 105–206, title IX, § 9009(q)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 858](https://www.govinfo.gov/link/statute/112/858); [Pub. L. 108–88, § 8(c)](https://www.govinfo.gov/link/plaw/108/public/88), (e)–(g), (i), (k), Sept. 30, 2003, [117 Stat. 1121–1124](https://www.govinfo.gov/link/statute/117/1121); [Pub. L. 108–202, § 9(c)](https://www.govinfo.gov/link/plaw/108/public/202), (e)–(g), (i), (k), Feb. 29, 2004, [118 Stat. 485–487](https://www.govinfo.gov/link/statute/118/485); [Pub. L. 108–224, § 7(c)](https://www.govinfo.gov/link/plaw/108/public/224), (e)–(g), (i), (k), Apr. 30, 2004, [118 Stat. 633–636](https://www.govinfo.gov/link/statute/118/633); [Pub. L. 108–263, § 7(c)](https://www.govinfo.gov/link/plaw/108/public/263), (e)–(g), (i), (k), June 30, 2004, [118 Stat. 704–707](https://www.govinfo.gov/link/statute/118/704); [Pub. L. 108–280, § 7(c)](https://www.govinfo.gov/link/plaw/108/public/280), (e)–(g), (i), (k), July 30, 2004, [118 Stat. 882–884](https://www.govinfo.gov/link/statute/118/882); [Pub. L. 108–310, § 8(c)](https://www.govinfo.gov/link/plaw/108/public/310), (e)–(g), (i), (k), Sept. 30, 2004, [118 Stat. 1154–1157](https://www.govinfo.gov/link/statute/118/1154); [Pub. L. 109–14, § 7(b)](https://www.govinfo.gov/link/plaw/109/public/14), (d)–(f), (h), (j), May 31, 2005, [119 Stat. 331–333](https://www.govinfo.gov/link/statute/119/331); [Pub. L. 109–20, § 7(b)](https://www.govinfo.gov/link/plaw/109/public/20), (d)–(f), (h), (j), July 1, 2005, [119 Stat. 353–355](https://www.govinfo.gov/link/statute/119/353); [Pub. L. 109–35, § 7(b)](https://www.govinfo.gov/link/plaw/109/public/35), (d)–(f), (h), (j), July 20, 2005, [119 Stat. 386–388](https://www.govinfo.gov/link/statute/119/386); [Pub. L. 109–37, § 7(b)](https://www.govinfo.gov/link/plaw/109/public/37), (d)–(f), (h), (j), July 22, 2005, [119 Stat. 401–403](https://www.govinfo.gov/link/statute/119/401); [Pub. L. 109–40, § 7(b)](https://www.govinfo.gov/link/plaw/109/public/40), (d)–(f), (h), (j), July 28, 2005, [119 Stat. 417–419](https://www.govinfo.gov/link/statute/119/417); [Pub. L. 109–42, § 5(a)](https://www.govinfo.gov/link/plaw/109/public/42), July 30, 2005, [119 Stat. 436](https://www.govinfo.gov/link/statute/119/436); [Pub. L. 109–59, title III, § 3036](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1629](https://www.govinfo.gov/link/statute/119/1629); [Pub. L. 110–244, title II, § 201(n)](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1611](https://www.govinfo.gov/link/statute/122/1611); [Pub. L. 111–147, title IV, § 436](https://www.govinfo.gov/link/plaw/111/public/147), Mar. 18, 2010, [124 Stat. 90](https://www.govinfo.gov/link/statute/124/90); [Pub. L. 111–322, title II, § 2306](https://www.govinfo.gov/link/plaw/111/public/322), Dec. 22, 2010, [124 Stat. 3528](https://www.govinfo.gov/link/statute/124/3528); [Pub. L. 112–5, title III, § 306](https://www.govinfo.gov/link/plaw/112/public/5), Mar. 4, 2011, [125 Stat. 19](https://www.govinfo.gov/link/statute/125/19); [Pub. L. 112–30, title I, § 136](https://www.govinfo.gov/link/plaw/112/public/30), Sept. 16, 2011, [125 Stat. 352](https://www.govinfo.gov/link/statute/125/352); [Pub. L. 112–102, title III, § 306](https://www.govinfo.gov/link/plaw/112/public/102), Mar. 30, 2012, [126 Stat. 278](https://www.govinfo.gov/link/statute/126/278); [Pub. L. 112–140, title III, § 306](https://www.govinfo.gov/link/plaw/112/public/140), June 29, 2012, [126 Stat. 398](https://www.govinfo.gov/link/statute/126/398); [Pub. L. 112–141, div. B, § 20028](https://www.govinfo.gov/link/plaw/112/public/141), div. G, title III, § 113006, July 6, 2012, [126 Stat. 726](https://www.govinfo.gov/link/statute/126/726), 985; [Pub. L. 113–159, title I, § 1203](https://www.govinfo.gov/link/plaw/113/public/159), Aug. 8, 2014, [128 Stat. 1845](https://www.govinfo.gov/link/statute/128/1845); [Pub. L. 114–21, title I, § 1203](https://www.govinfo.gov/link/plaw/114/public/21), May 29, 2015, [129 Stat. 223](https://www.govinfo.gov/link/statute/129/223); [Pub. L. 114–41, title I, § 1203](https://www.govinfo.gov/link/plaw/114/public/41), July 31, 2015, [129 Stat. 450](https://www.govinfo.gov/link/statute/129/450); [Pub. L. 114–73, title I, § 1203](https://www.govinfo.gov/link/plaw/114/public/73), Oct. 29, 2015, [129 Stat. 573](https://www.govinfo.gov/link/statute/129/573); [Pub. L. 114–87, title I, § 1203](https://www.govinfo.gov/link/plaw/114/public/87), Nov. 20, 2015, [129 Stat. 682](https://www.govinfo.gov/link/statute/129/682); [Pub. L. 114–94, div. A, title III, § 3016](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1479](https://www.govinfo.gov/link/statute/129/1479); [Pub. L. 117–58, div. C, § 30017](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 912](https://www.govinfo.gov/link/statute/135/912).)*

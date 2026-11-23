@@ -3,9 +3,10 @@ title: "Section 1656 - Other contract and grant requirements"
 usc_title: 25
 usc_section: "1656"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1656"
-generated_at: "2026-03-30T02:54:52.824Z"
+generated_at: "2026-11-23T21:25:54.627Z"
+status: "active"
 ---
 
 # § 1656. Other contract and grant requirements
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:52.824Z"
 - **(d)** In connection with any contract or grant entered into pursuant to this subchapter, the Secretary may permit an urban Indian organization to utilize, in carrying out such contract or grant, existing facilities owned by the Federal Government within the Secretary’s jurisdiction under such terms and conditions as may be agreed upon for the use and maintenance of such facilities.
 - **(e)** Contracts with, or grants to, urban Indian organizations and regulations adopted pursuant to this subchapter shall include provisions to assure the fair and uniform provision to urban Indians of services and assistance under such contracts or grants by such organizations.
 - **(f)** Urban Indians, as defined in section 1603(f) 1 1 See References in Text note below. of this title, shall be eligible for health care or referral services provided pursuant to this subchapter.
+
+## Source Credit
+
+*([Pub. L. 94–437, title V, § 506](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 100–713, title V, § 501](https://www.govinfo.gov/link/plaw/100/public/713), Nov. 23, 1988, [102 Stat. 4823](https://www.govinfo.gov/link/statute/102/4823); amended [Pub. L. 102–573, title V, § 501(b)(4)](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4568](https://www.govinfo.gov/link/statute/106/4568).)*

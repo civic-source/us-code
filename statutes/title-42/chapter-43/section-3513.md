@@ -3,9 +3,10 @@ title: "Section 3513 - Working capital fund; establishment; amount; use; reimbur
 usc_title: 42
 usc_section: "3513"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3513"
-generated_at: "2026-03-30T02:56:11.187Z"
+generated_at: "2026-11-23T21:26:32.566Z"
+status: "active"
 ---
 
 # § 3513. Working capital fund; establishment; amount; use; reimbursement
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.187Z"
   - **(6)** a central accounting and payroll service; and
   - **(7)** a central laborers’ service: Provided , That any stocks of supplies and equipment on hand or on order shall be used to capitalize such fund: Provided further , That such fund shall be reimbursed in advance from funds available to bureaus, offices, and agencies for which such centralized services are performed at rates which will return in full all expenses of operation, including reserves for accrued annual leave and depreciation of equipment.
 
+
+## Source Credit
+
+*(July 5, 1952, ch. 575, title II, § 201, [66 Stat. 369](https://www.govinfo.gov/link/statute/66/369); 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631](https://www.govinfo.gov/link/statute/67/631); [Pub. L. 86–703, title II, § 201](https://www.govinfo.gov/link/plaw/86/public/703), Sept. 2, 1960, [74 Stat. 773](https://www.govinfo.gov/link/statute/74/773).)*

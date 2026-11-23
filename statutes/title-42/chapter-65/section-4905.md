@@ -3,9 +3,10 @@ title: "Section 4905 - Noise emission standards for products distributed in comm
 usc_title: 42
 usc_section: "4905"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4905"
-generated_at: "2026-03-30T02:56:11.210Z"
+generated_at: "2026-11-23T21:26:32.698Z"
+status: "active"
 ---
 
 # § 4905. Noise emission standards for products distributed in commerce
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:56:11.210Z"
     - **(B)** with respect to any component incorporated into such new product by the manufacturer of such product, any law or regulation setting a limit on noise emissions from such component when so incorporated.
   - **(2)** Subject to sections 4916 and 4917 of this title, nothing in this section precludes or denies the right of any State or political subdivision thereof to establish and enforce controls on environmental noise (or one or more sources thereof) through the licensing, regulation, or restriction of the use, operation, or movement of any product or combination of products.
 - **(f)** At any time after the promulgation of regulations respecting a product under this section, a State or political subdivision thereof may petition the Administrator to revise such standard on the grounds that a more stringent standard under subsection (c) of this section is necessary to protect the public health and welfare. The Administration shall publish notice of receipt of such petition in the Federal Register and shall within ninety days of receipt of such petition respond by (1) publication of proposed revised regulations in accordance with subsection (c)(3) of this section, or (2) publication in the Federal Register of a decision not to publish such proposed revised regulations at that time, together with a detailed explanation for such decision.
+
+## Source Credit
+
+*([Pub. L. 92–574, § 6](https://www.govinfo.gov/link/plaw/92/public/574), Oct. 27, 1972, [86 Stat. 1237](https://www.govinfo.gov/link/statute/86/1237); [Pub. L. 95–609, § 5](https://www.govinfo.gov/link/plaw/95/public/609), Nov. 8, 1978, [92 Stat. 3081](https://www.govinfo.gov/link/statute/92/3081).)*

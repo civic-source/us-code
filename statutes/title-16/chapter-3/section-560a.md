@@ -3,9 +3,10 @@ title: "Section 560a - Omitted"
 usc_title: 16
 usc_section: "560a"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 560a"
-generated_at: "2026-03-30T02:54:22.876Z"
+generated_at: "2026-11-23T21:25:51.676Z"
+status: "omitted"
 ---
 
 # § 560a. Omitted

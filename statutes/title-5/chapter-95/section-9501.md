@@ -3,9 +3,10 @@ title: "Section 9501 - Internal Revenue Service personnel flexibilities"
 usc_title: 5
 usc_section: "9501"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 9501"
-generated_at: "2026-03-30T02:52:56.072Z"
+generated_at: "2026-11-23T21:25:23.461Z"
+status: "active"
 ---
 
 # § 9501. Internal Revenue Service personnel flexibilities
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:52:56.072Z"
   - **(5)** subject to subsections (b) and (c) of section 1104, as though such authorities were delegated to the Secretary of the Treasury under section 1104(a)(2).
 - **(b)** The Secretary of the Treasury shall provide the Office of Personnel Management with any information that Office requires in carrying out its responsibilities under this section.
 - **(c)** Employees within a unit to which a labor organization is accorded exclusive recognition under chapter 71 shall not be subject to any flexibility provided by sections 9507 through 9510 of this chapter unless the exclusive representative and the Internal Revenue Service have entered into a written agreement which specifically provides for the exercise of that flexibility. Such written agreement may be imposed by the Federal Services Impasses Panel under section 7119.
+
+## Source Credit
+
+*(Added [Pub. L. 105–206, title I, § 1201(a)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 712](https://www.govinfo.gov/link/statute/112/712).)*

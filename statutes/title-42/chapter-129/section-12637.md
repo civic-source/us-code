@@ -3,9 +3,10 @@ title: "Section 12637 - Nonduplication and nondisplacement"
 usc_title: 42
 usc_section: "12637"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12637"
-generated_at: "2026-03-30T02:56:11.421Z"
+generated_at: "2026-11-23T21:26:33.509Z"
+status: "active"
 ---
 
 # § 12637. Nonduplication and nondisplacement
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:11.421Z"
 - **(f)**
   - **(1)** Programs that receive assistance under the national service laws shall consult with the parents or legal guardians of children in developing and operating programs that include and serve children.
   - **(2)** Programs that receive assistance under the national service laws shall, before transporting minor children, provide the children’s parents with the reason for the transportation and obtain the parents’ written permission for such transportation, consistent with State law.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 177](https://www.govinfo.gov/link/plaw/101/public/610), Nov. 16, 1990, [104 Stat. 3163](https://www.govinfo.gov/link/statute/104/3163); [Pub. L. 103–82, title I, § 117](https://www.govinfo.gov/link/plaw/103/public/82), title IV, § 402(b)(1), Sept. 21, 1993, [107 Stat. 864](https://www.govinfo.gov/link/statute/107/864), 918; [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(42)(A)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–427; [Pub. L. 111–13, title I, § 1605](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1530](https://www.govinfo.gov/link/statute/123/1530).)*

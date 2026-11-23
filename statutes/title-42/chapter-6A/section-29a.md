@@ -3,9 +3,10 @@ title: "Section 29a - Supplemental grants"
 usc_title: 42
 usc_section: "29a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 29a"
-generated_at: "2026-03-30T02:56:10.827Z"
+generated_at: "2026-11-23T21:26:30.869Z"
+status: "active"
 ---
 
 # § 300ff–29a. Supplemental grants
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:10.827Z"
   - **(5)** the rationale used for the amount of funds disbursed as described under paragraphs (2), (3), and (4).
 - **(e)** The provisions of section 300ff–22(b) of this title apply with respect to a grant under this section to the same extent and in the same manner as such provisions apply with respect to a grant made pursuant to section 300ff–28(a)(1) of this title .
 - **(f)** The authority to make grants under this section applies beginning with the first fiscal year for which amounts are made available for such grants under section 300ff–31b(b)(1) of this title .
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVI, § 2620, as added and amended [Pub. L. 109–415, title II, § 205(2)](https://www.govinfo.gov/link/plaw/109/public/415), title VII, § 703, Dec. 19, 2006, [120 Stat. 2797](https://www.govinfo.gov/link/statute/120/2797), 2820; [Pub. L. 111–87](https://www.govinfo.gov/link/plaw/111/public/87), §§ 2(a)(1), (3)(A), 5(c)(2), 8(a)(2), (b)(2)(D), Oct. 30, 2009, [123 Stat. 2885](https://www.govinfo.gov/link/statute/123/2885), 2891, 2893, 2894.)*

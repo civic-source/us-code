@@ -3,9 +3,10 @@ title: "Section 2921 - Energy efficiency targets for data centers"
 usc_title: 10
 usc_section: "2921"
 chapter: 173
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2921"
-generated_at: "2026-03-30T02:53:38.187Z"
+generated_at: "2026-11-23T21:25:32.707Z"
+status: "active"
 ---
 
 # § 2921. Energy efficiency targets for data centers
@@ -29,3 +30,11 @@ generated_at: "2026-03-30T02:53:38.187Z"
   - **(2)** The Secretary may waive the requirement for a Department data center established on or after the date of the enactment of this section to meet the standards established under paragraph (1) if the Secretary—
     - **(A)** determines that such waiver is in the national security interest of the United States; and
     - **(B)** submits to the Committee on Armed Services of the House of Representatives notice of such waiver and the reasons for such waiver.
+
+Covered Data Centers.—
+
+New Data Centers
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. A, title III, § 312(a)(1)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1627](https://www.govinfo.gov/link/statute/135/1627).)*

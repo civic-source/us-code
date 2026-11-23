@@ -3,12 +3,17 @@ title: "Section 966 - Departure of vessel forbidden for false statements"
 usc_title: 18
 usc_section: "966"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 966"
-generated_at: "2026-03-30T02:54:16.476Z"
+generated_at: "2026-11-23T21:25:44.021Z"
+status: "active"
 ---
 
 # § 966. Departure of vessel forbidden for false statements
 
 - **(a)** Whenever it appears that the vessel is not entitled to clearance or whenever there is reasonable cause to believe that the additional statements under oath required in section 965 of this title are false, the collector of customs for the district in which the vessel is located may, subject to review by the head of the department or agency charged with the administration of laws relating to clearance of vessels, refuse clearance to any vessel, domestic or foreign, and by formal notice served upon the owners, master, or person or persons in command or charge of any domestic vessel for which clearance is not required by law, forbid the departure of the vessel from the port or from the United States. It shall thereupon be unlawful for the vessel to depart.
 - **(b)** Whoever, in violation of this section, takes or attempts to take, or authorizes the taking of any such vessel, out of port or from the United States, shall be fined under this title or imprisoned not more than ten years, or both. In addition, such vessel, her tackle, apparel, furniture, equipment, and her cargo shall be forfeited to the United States.
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 747](https://www.govinfo.gov/link/statute/62/747); [Pub. L. 103–322, title XXXIII, § 330016(1)(L)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2147](https://www.govinfo.gov/link/statute/108/2147).)*

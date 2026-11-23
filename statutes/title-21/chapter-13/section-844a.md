@@ -3,9 +3,10 @@ title: "Section 844a - Civil penalty for possession of small amounts of certain 
 usc_title: 21
 usc_section: "844a"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 844a"
-generated_at: "2026-03-30T02:54:54.295Z"
+generated_at: "2026-11-23T21:25:56.244Z"
+status: "active"
 ---
 
 # § 844a. Civil penalty for possession of small amounts of certain controlled substances
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:54.295Z"
   - **(3)** the individual has complied with any conditions imposed by the Attorney General;
   - **(4)** the individual has not been convicted of a Federal or State offense relating to a controlled substance; and
   - **(5)** the individual agrees to submit to a drug test, and such test shows the individual to be drug free.
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 405](https://www.govinfo.gov/link/plaw/91/public/513), formerly [Pub. L. 100–690, title VI, § 6486](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4384](https://www.govinfo.gov/link/statute/102/4384), renumbered [§ 405 of Pub. L. 91–513](https://www.govinfo.gov/link/plaw/91/public/513), and amended [Pub. L. 101–647, title X, § 1002(g)(1)](https://www.govinfo.gov/link/plaw/101/public/647), (2), Nov. 29, 1990, [104 Stat. 4828](https://www.govinfo.gov/link/statute/104/4828).)*

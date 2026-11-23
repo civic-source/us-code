@@ -3,9 +3,10 @@ title: "Section 3311 - Required review of regulations"
 usc_title: 12
 usc_section: "3311"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3311"
-generated_at: "2026-03-30T02:53:53.492Z"
+generated_at: "2026-11-23T21:25:37.130Z"
+status: "active"
 ---
 
 # § 3311. Required review of regulations
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:53.492Z"
 - **(e)** Not later than 30 days after carrying out subsection (d)(1), the Council shall submit to the Congress a report, which shall include—
   - **(1)** a summary of any significant issues raised by public comments received by the Council and the appropriate Federal banking agencies under this section and the relative merits of such issues; and
   - **(2)** an analysis of whether the appropriate Federal banking agency involved is able to address the regulatory burdens associated with such issues by regulation, or whether such burdens must be addressed by legislative action.
+
+## Source Credit
+
+*([Pub. L. 104–208, div. A, title II, § 2222](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–414](https://www.govinfo.gov/link/statute/110/3009).)*

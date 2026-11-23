@@ -3,9 +3,10 @@ title: "Section 361c - Authorization of appropriations and allotments of grants"
 usc_title: 7
 usc_section: "361c"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 361c"
-generated_at: "2026-03-30T02:53:42.282Z"
+generated_at: "2026-11-23T21:25:27.949Z"
+status: "active"
 ---
 
 # § 361c. Authorization of appropriations and allotments of grants
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:53:42.282Z"
     - **(B)** to a 1994 Institution (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 ( Public Law 103–382 ; 7 U.S.C. 301 note)); or
     - **(C)** to the Commonwealth of Puerto Rico, the Virgin Islands, or Guam.
   - **(4)** Federal formula funds described in paragraph (1) that are used by a State for a fiscal year for integrated activities in accordance with paragraph (2)(B) may also be used to satisfy the multistate activities requirements of subsection (c)(3) of this section and section 343(h) of this title for the same fiscal year.
+
+## Source Credit
+
+*(Mar. 2, 1887, ch. 314, § 3, [24 Stat. 441](https://www.govinfo.gov/link/statute/24/441); Aug. 11, 1955, ch. 790, § 1, [69 Stat. 671](https://www.govinfo.gov/link/statute/69/671); [Pub. L. 92–318, title V, § 506](https://www.govinfo.gov/link/plaw/92/public/318) (l), June 23, 1972, [86 Stat. 351](https://www.govinfo.gov/link/statute/86/351); [Pub. L. 95–113, title XIV, § 1466](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 1018](https://www.govinfo.gov/link/statute/91/1018); [Pub. L. 97–98, title XIV, § 1442(a)](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1321](https://www.govinfo.gov/link/statute/95/1321); [Pub. L. 101–624, title XVI, § 1618(a)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3733](https://www.govinfo.gov/link/statute/104/3733); [Pub. L. 104–127, title VIII, § 869](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1175](https://www.govinfo.gov/link/statute/110/1175); [Pub. L. 105–185, title I, § 104](https://www.govinfo.gov/link/plaw/105/public/185), title II, §§ 203(a), 204(a), June 23, 1998, [112 Stat. 529](https://www.govinfo.gov/link/statute/112/529), 533, 535; [Pub. L. 105–277, div. A, § 101(a) [title VII, § 753(d)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681](https://www.govinfo.gov/link/statute/112/2681), 2681–33; [Pub. L. 107–171, title VII, § 7213(a)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 448](https://www.govinfo.gov/link/statute/116/448); [Pub. L. 110–234, title VII, § 7404(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1246](https://www.govinfo.gov/link/statute/122/1246); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7404(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2008; [Pub. L. 115–334, title VII, § 7612(b)(1)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4832](https://www.govinfo.gov/link/statute/132/4832).)*

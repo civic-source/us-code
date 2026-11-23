@@ -3,9 +3,10 @@ title: "Section 11331 - Emergency Food and Shelter Program National Board"
 usc_title: 42
 usc_section: "11331"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11331"
-generated_at: "2026-03-30T02:56:11.397Z"
+generated_at: "2026-11-23T21:26:33.410Z"
+status: "active"
 ---
 
 # § 11331. Emergency Food and Shelter Program National Board
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.397Z"
 - **(e)** Upon the appointment of members to the National Board under subsection (b)—
   - **(1)** the national board constituted under the emergency food and shelter program established pursuant to section 101(g) of Public Law 99–500 or Public Law 99–591 shall cease to exist; and
   - **(2)** the personnel, property, records, and undistributed program funds of such national board shall be transferred to the National Board.
+
+## Source Credit
+
+*([Pub. L. 100–77, title III, § 301](https://www.govinfo.gov/link/plaw/100/public/77), July 22, 1987, [101 Stat. 489](https://www.govinfo.gov/link/statute/101/489); [Pub. L. 109–295, title VI, § 612(c)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1410](https://www.govinfo.gov/link/statute/120/1410).)*

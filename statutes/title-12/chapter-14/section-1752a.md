@@ -3,9 +3,10 @@ title: "Section 1752a - National Credit Union Administration"
 usc_title: 12
 usc_section: "1752a"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1752a"
-generated_at: "2026-03-30T02:53:53.434Z"
+generated_at: "2026-11-23T21:25:36.933Z"
+status: "active"
 ---
 
 # § 1752a. National Credit Union Administration
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:53.434Z"
 - **(d)** The management of the Administration shall be vested in the Board. The Board shall adopt such rules as it sees fit for the transaction of its business and shall keep permanent and complete records and minutes of its acts and proceedings. A majority of the Board shall constitute a quorum. Not later than April 1 of each calendar year, and at such other times as the Congress shall determine, the Board shall make a report to the President and to the Congress. Such a report shall summarize the operations of the Administration and set forth such information as is necessary for the Congress to review the financial program approved by the Board.
 - **(e)** The Chairman of the Board shall be the spokesman for the Board and shall represent the Board and the National Credit Union Administration in its official relations with other branches of the Government. The Chairman shall determine each Board member’s area of responsibility and shall review such assignments biennially. It shall be the Chairman’s responsibility to direct the implementation of the adopted policies and regulations of the Board.
 - **(f)** The financial transactions of the Administration shall be subject to audit by the Government Accountability Office in accordance with the principles and procedures applicable to commercial corporate transactions and under such rules and regulations as may be prescribed by the Comptroller General of the United States. The audit shall be conducted at the place or places where the accounts of the Administration are kept.
+
+## Source Credit
+
+*(June 26, 1934, ch. 750, title I, § 102, formerly § 3, as added [Pub. L. 86–354, § 1](https://www.govinfo.gov/link/plaw/86/public/354), Sept. 22, 1959, [73 Stat. 628](https://www.govinfo.gov/link/statute/73/628); amended [Pub. L. 91–206, § 3](https://www.govinfo.gov/link/plaw/91/public/206), Mar. 10, 1970, [84 Stat. 49](https://www.govinfo.gov/link/statute/84/49); renumbered title I, § 102, [Pub. L. 91–468, § 1(2)](https://www.govinfo.gov/link/plaw/91/public/468), Oct. 19, 1970, [84 Stat. 994](https://www.govinfo.gov/link/statute/84/994); amended [Pub. L. 95–630, title V, § 501](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3680](https://www.govinfo.gov/link/statute/92/3680); [Pub. L. 97–320, title V, § 502](https://www.govinfo.gov/link/plaw/97/public/320), Oct. 15, 1982, [96 Stat. 1528](https://www.govinfo.gov/link/statute/96/1528); [Pub. L. 105–219, title II, § 204](https://www.govinfo.gov/link/plaw/105/public/219), Aug. 7, 1998, [112 Stat. 922](https://www.govinfo.gov/link/statute/112/922); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

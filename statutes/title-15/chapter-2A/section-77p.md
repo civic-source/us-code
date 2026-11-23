@@ -3,9 +3,10 @@ title: "Section 77p - Additional remedies; limitation on remedies"
 usc_title: 15
 usc_section: "77p"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 77p"
-generated_at: "2026-03-30T02:54:08.033Z"
+generated_at: "2026-11-23T21:25:39.506Z"
+status: "active"
 ---
 
 # § 77p. Additional remedies; limitation on remedies
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:54:08.033Z"
     - **(C)** For purposes of this paragraph, a corporation, investment company, pension plan, partnership, or other entity, shall be treated as one person or prospective class member, but only if the entity is not established for the purpose of participating in the action.
     - **(D)** Nothing in this paragraph shall be construed to affect the discretion of a State court in determining whether actions filed in such court should be joined, consolidated, or otherwise allowed to proceed as a single action.
   - **(3)** The term “covered security” means a security that satisfies the standards for a covered security specified in paragraph (1) or (2) of section 77r(b) of this title at the time during which it is alleged that the misrepresentation, omission, or manipulative or deceptive conduct occurred, except that such term shall not include any debt security that is exempt from registration under this subchapter pursuant to rules issued by the Commission under section 77d(2) 1 1 See References in Text note below. of this title.
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title I, § 16, [48 Stat. 84](https://www.govinfo.gov/link/statute/48/84); [Pub. L. 105–353, title I, § 101(a)(1)](https://www.govinfo.gov/link/plaw/105/public/353), Nov. 3, 1998, [112 Stat. 3227](https://www.govinfo.gov/link/statute/112/3227).)*

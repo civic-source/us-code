@@ -3,9 +3,10 @@ title: "Section 26 - Cooperative authorities and gifts"
 usc_title: 16
 usc_section: "26"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 26"
-generated_at: "2026-03-30T02:54:22.841Z"
+generated_at: "2026-11-23T21:25:51.619Z"
+status: "active"
 ---
 
 # § 460lll–26. Cooperative authorities and gifts
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:22.841Z"
 - **(c)** The Secretary may, for purposes of carrying out this subchapter—
   - **(1)** enter into memoranda of understanding with State or local government entities, including law enforcement, as appropriate, to clarify jurisdictional matters, such as road management, policing, and other functions that are typically performed by the entity on non-Federal land; and
   - **(2)** make available on a public website of the Department of Agriculture any memoranda of understanding entered into under paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 105–277, div. A, § 101(e) [title V, § 526]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–231](https://www.govinfo.gov/link/statute/112/2681), 2681–316; [Pub. L. 117–328, div. DD, title II, § 201(f)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5583](https://www.govinfo.gov/link/statute/136/5583).)*

@@ -3,9 +3,10 @@ title: "Section 1394 - Recognition of Philippine independence"
 usc_title: 22
 usc_section: "1394"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1394"
-generated_at: "2026-03-30T02:55:05.331Z"
+generated_at: "2026-11-23T21:25:58.395Z"
+status: "active"
 ---
 
 # § 1394. Recognition of Philippine independence
@@ -17,3 +18,9 @@ generated_at: "2026-03-30T02:55:05.331Z"
   - **(2)** Whenever, prior to July 4, 1946 , the President of the United States shall find that any properties of the United States in the Philippines would be suitable for diplomatic and consular establishments of the United States after the inauguration of the independent Government, he shall designate the same by the issuance of a proclamation or proclamations, and title to any properties so designated shall continue to be vested in fee simple in the United States notwithstanding the provisions contained in subsection (a) of this section.
   - **(3)** Title to the lands and buildings pertaining to the official residences of the United States High Commissioner to the Philippine Islands in the cities of Manila and Baguio, together with all fixtures and movable objects, shall continue to be vested in the United States after July 4, 1946 , notwithstanding the provisions contained in subsection (a) of this section.
   - **(4)** Administrative supervision and control over any properties acquired or designated by the President of the United States pursuant to this subsection, and over the official residences in the Philippines of the High Commissioner, shall, on and after July 4, 1946 , be exercised by the Secretary of State, in accordance with Acts of Congress relating to property held by the United States in foreign countries for official establishments.
+
+Harry S. Truman
+
+## Source Credit
+
+*(Mar. 24, 1934, ch. 84, § 10, [48 Stat. 463](https://www.govinfo.gov/link/statute/48/463); Aug. 7, 1939, ch. 502, § 3, [53 Stat. 1230](https://www.govinfo.gov/link/statute/53/1230).)*

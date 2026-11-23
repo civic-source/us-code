@@ -3,12 +3,17 @@ title: "Section 1644b - Receipt and determination of claims; notice by publicati
 usc_title: 22
 usc_section: "1644b"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1644b"
-generated_at: "2026-03-30T02:55:05.337Z"
+generated_at: "2026-11-23T21:25:58.410Z"
+status: "active"
 ---
 
 # § 1644b. Receipt and determination of claims; notice by publication in Federal Register
 
 The Commission shall receive and determine in accordance with applicable substantive law, including international law, the validity and amounts of claims by nationals of the United States against the German Democratic Republic for losses arising as a result of the nationalization, expropriation, or other taking of (or special measures directed against) property, including any rights or interests therein, owned wholly or partially, directly or indirectly, at the time by nationals of the United States whether such losses occurred in the German Democratic Republic or in East Berlin. Such claims must be submitted to the Commission within the period specified by the Commission by notice published in the Federal Register (which period shall not be more than twelve months after such publication) within sixty days after October 18, 1976 , or of legislation making appropriations to the Commission for payment of administrative expenses incurred in carrying out its functions under this subchapter, whichever date is later.
 
+
+## Source Credit
+
+*(Mar. 10, 1950, ch. 54, title VI, § 602, as added [Pub. L. 94–542](https://www.govinfo.gov/link/plaw/94/public/542), Oct. 18, 1976, [90 Stat. 2510](https://www.govinfo.gov/link/statute/90/2510).)*

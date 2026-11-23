@@ -3,9 +3,10 @@ title: "Section 1562a - Complaints of retaliation by victims of sexual assault o
 usc_title: 10
 usc_section: "1562a"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1562a"
-generated_at: "2026-03-30T02:53:38.129Z"
+generated_at: "2026-11-23T21:25:32.508Z"
+status: "active"
 ---
 
 # § 1562a. Complaints of retaliation by victims of sexual assault or sexual harassment and related persons: tracking by Department of Defense
@@ -34,3 +35,17 @@ generated_at: "2026-03-30T02:53:38.129Z"
     - **(C)** a commander or other person at the direction of the commander;
     - **(D)** another armed force or civilian law enforcement organization; or
     - **(E)** any other organization, officer, or employee of the Department of Defense or department in which the Coast Guard is operating when not operating as a service in the Navy for members of the Coast Guard.
+
+Designation of Responsible Component.—
+
+In general
+
+Coast guard
+
+Tracking of Allegations
+
+Covered Allegation of Retaliation Defined
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. A, title V, § 544(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1710](https://www.govinfo.gov/link/statute/135/1710); amended [Pub. L. 119–60, div. G, title LXXV, § 7521](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1813](https://www.govinfo.gov/link/statute/139/1813).)*

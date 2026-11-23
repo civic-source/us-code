@@ -3,12 +3,17 @@ title: "Section 18 - Suspension of importation of adulterated articles"
 usc_title: 21
 usc_section: "18"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 18"
-generated_at: "2026-03-30T02:54:54.214Z"
+generated_at: "2026-11-23T21:25:55.947Z"
+status: "active"
 ---
 
 # § 18. Suspension of importation of adulterated articles
 
 Whenever the President is satisfied that there is good reason to believe that any importation is being made, or is about to be made, into the United States, from any foreign country, of any article used for human food or drink that is adulterated to an extent dangerous to the health or welfare of the people of the United States, or any of them, he may issue his proclamation suspending the importation of such articles from such country for such period of time as he may think necessary to prevent such importation; and during such period it shall be unlawful to import into the United States from the countries designated in the proclamation of the President any of the articles the importation of which is so suspended.
 
+
+## Source Credit
+
+*(Aug. 30, 1890, ch. 839, § 4, [26 Stat. 415](https://www.govinfo.gov/link/statute/26/415).)*

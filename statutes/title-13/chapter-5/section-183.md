@@ -3,12 +3,17 @@ title: "Section 183 - Use of most recent population data"
 usc_title: 13
 usc_section: "183"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "13 U.S.C. § 183"
-generated_at: "2026-03-30T02:54:03.338Z"
+generated_at: "2026-11-23T21:25:34.408Z"
+status: "active"
 ---
 
 # § 183. Use of most recent population data
 
 - **(a)** Except as provided in subsection (b), for the purpose of administering any law of the United States in which population or other population characteristics are used to determine the amount of benefit received by State, county, or local units of general purpose government, the Secretary shall transmit to the President for use by the appropriate departments and agencies of the executive branch the data most recently produced and published under this title.
 - **(b)** This section shall not apply with respect to any law of the United States which, for purposes of determining the amount of benefit received by State, county, or local units of general purpose government, provides that only population or population characteristics data obtained in the most recent decennial census may be used in such determination.
+
+## Source Credit
+
+*(Added [Pub. L. 94–521, § 8(a)](https://www.govinfo.gov/link/plaw/94/public/521), Oct. 17, 1976, [90 Stat. 2463](https://www.govinfo.gov/link/statute/90/2463).)*

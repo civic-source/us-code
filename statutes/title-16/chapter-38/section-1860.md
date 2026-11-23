@@ -3,9 +3,10 @@ title: "Section 1860 - Civil forfeitures"
 usc_title: 16
 usc_section: "1860"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1860"
-generated_at: "2026-03-30T02:54:22.992Z"
+generated_at: "2026-11-23T21:25:51.930Z"
+status: "active"
 ---
 
 # § 1860. Civil forfeitures
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:22.992Z"
   - **(1)** For purposes of this section, it shall be a rebuttable presumption that all fish found on board a fishing vessel which is seized in connection with an act prohibited by section 1857 of this title were taken or retained in violation of this chapter.
   - **(2)** For purposes of this chapter, it shall be a rebuttable presumption that any fish of a species which spawns in fresh or estuarine waters and migrates to ocean waters that is found on board a vessel is of United States origin if the vessel is within the migratory range of the species during that part of the year to which the migratory range applies.
   - **(3)** For purposes of this chapter, it shall be a rebuttable presumption that any vessel that is shoreward of the outer boundary of the exclusive economic zone of the United States or beyond the exclusive economic zone of any nation, and that has gear on board that is capable of use for large-scale driftnet fishing, is engaged in such fishing.
+
+## Source Credit
+
+*([Pub. L. 94–265, title III, § 310](https://www.govinfo.gov/link/plaw/94/public/265), Apr. 13, 1976, [90 Stat. 357](https://www.govinfo.gov/link/statute/90/357); [Pub. L. 97–453, § 12](https://www.govinfo.gov/link/plaw/97/public/453), Jan. 12, 1983, [96 Stat. 2491](https://www.govinfo.gov/link/statute/96/2491); [Pub. L. 99–659, title I, § 109(a)](https://www.govinfo.gov/link/plaw/99/public/659), Nov. 14, 1986, [100 Stat. 3714](https://www.govinfo.gov/link/statute/100/3714); [Pub. L. 101–627, title I, § 116](https://www.govinfo.gov/link/plaw/101/public/627), Nov. 28, 1990, [104 Stat. 4456](https://www.govinfo.gov/link/statute/104/4456); [Pub. L. 104–297, title I, § 114(d)](https://www.govinfo.gov/link/plaw/104/public/297), Oct. 11, 1996, [110 Stat. 3599](https://www.govinfo.gov/link/statute/110/3599); [Pub. L. 114–125, title VIII, § 802(d)(2)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 210](https://www.govinfo.gov/link/statute/130/210).)*

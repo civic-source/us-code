@@ -3,9 +3,10 @@ title: "Section 3862 - Panama Canal Board of Contract Appeals"
 usc_title: 22
 usc_section: "3862"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3862"
-generated_at: "2026-03-30T02:55:05.398Z"
+generated_at: "2026-11-23T21:25:58.599Z"
+status: "active"
 ---
 
 # § 3862. Panama Canal Board of Contract Appeals
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.398Z"
 - **(e)** The Board shall begin to function as soon as it has been established and has prescribed procedures under subsection (d).
 - **(f)** The Board shall have jurisdiction under subsections (b) and (c) over any appeals and protests filed on or after the date on which the Board begins to function. Any appeals and protests filed before such date shall remain before the forum in which they were filed.
 - **(g)** The Board may perform functions similar to those described in this section for such other matters or activities of the Commission as the Commission may determine and in accordance with regulations prescribed by the Commission.
+
+## Source Credit
+
+*([Pub. L. 96–70, title III, § 3102](https://www.govinfo.gov/link/plaw/96/public/70), as added [Pub. L. 105–85, div. C, title XXXV, § 3541](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 2071](https://www.govinfo.gov/link/statute/111/2071); amended [Pub. L. 105–261, div. C, title XXXV, § 3510](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2270](https://www.govinfo.gov/link/statute/112/2270).)*

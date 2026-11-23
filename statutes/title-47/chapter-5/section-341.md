@@ -3,9 +3,10 @@ title: "Section 341 - Carriage of television signals to certain subscribers"
 usc_title: 47
 usc_section: "341"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 341"
-generated_at: "2026-03-30T02:56:24.511Z"
+generated_at: "2026-11-23T21:26:36.006Z"
+status: "active"
 ---
 
 # § 341. Carriage of television signals to certain subscribers
@@ -21,3 +22,17 @@ generated_at: "2026-03-30T02:56:24.511Z"
     - **(C)** as a group had a combined total of 41,340 television households according to the U.S. Television Household Estimates by Nielsen Media Research for 2003–2004.
   - **(4)** Carriage of a station under this section shall be at the option of the cable operator or satellite carrier.
 - **(b)** Notwithstanding any other provision of law, a satellite carrier may not carry the signal of a television station into an adjacent local market that is comprised of only a portion of a county, other than to unserved households located in that county.
+
+In General
+
+Deemed Significantly Viewed
+
+Definition of Eligible County
+
+Limitation
+
+Certain Markets
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 341, as added [Pub. L. 108–447, div. J, title IX](https://www.govinfo.gov/link/plaw/108/public/447) [title II, § 211], Dec. 8, 2004, [118 Stat. 3430](https://www.govinfo.gov/link/statute/118/3430).)*

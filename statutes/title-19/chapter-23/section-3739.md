@@ -3,9 +3,10 @@ title: "Section 3739 - Sense of the Congress relating to HIV/AIDS crisis in sub-
 usc_title: 19
 usc_section: "3739"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 3739"
-generated_at: "2026-03-30T02:54:24.696Z"
+generated_at: "2026-11-23T21:25:42.851Z"
+status: "active"
 ---
 
 # § 3739. Sense of the Congress relating to HIV/AIDS crisis in sub-Saharan Africa
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:24.696Z"
   - **(1)** addressing the HIV/AIDS crisis in sub-Saharan Africa should be a central component of United States foreign policy with respect to sub-Saharan Africa;
   - **(2)** significant progress needs to be made in preventing and treating HIV/AIDS in sub-Saharan Africa in order to sustain a mutually beneficial trade relationship between the United States and sub-Saharan African countries; and
   - **(3)** the HIV/AIDS crisis in sub-Saharan Africa is a global threat that merits further attention through greatly expanded public, private, and joint public-private efforts, and through appropriate United States legislation.
+
+## Source Credit
+
+*([Pub. L. 106–200, title I, § 129](https://www.govinfo.gov/link/plaw/106/public/200), May 18, 2000, [114 Stat. 273](https://www.govinfo.gov/link/statute/114/273).)*

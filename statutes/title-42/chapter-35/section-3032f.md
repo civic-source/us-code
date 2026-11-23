@@ -3,9 +3,10 @@ title: "Section 3032f - Demonstration, support, and research projects for multig
 usc_title: 42
 usc_section: "3032f"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3032f"
-generated_at: "2026-03-30T02:56:11.176Z"
+generated_at: "2026-11-23T21:26:32.505Z"
+status: "active"
 ---
 
 # § 3032f. Demonstration, support, and research projects for multigenerational and civic engagement activities
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:56:11.176Z"
     - **(B)** nurtures productive, sustainable working relationships between—
       - **(i)** older individuals; and
       - **(ii)** individuals in younger generations.
+
+## Source Credit
+
+*([Pub. L. 89–73, title IV, § 417](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 106–501, title IV, § 401](https://www.govinfo.gov/link/plaw/106/public/501), Nov. 13, 2000, [114 Stat. 2261](https://www.govinfo.gov/link/statute/114/2261); amended [Pub. L. 109–365, title IV, § 406](https://www.govinfo.gov/link/plaw/109/public/365), Oct. 17, 2006, [120 Stat. 2555](https://www.govinfo.gov/link/statute/120/2555); [Pub. L. 114–144, § 5(e)](https://www.govinfo.gov/link/plaw/114/public/144), Apr. 19, 2016, [130 Stat. 342](https://www.govinfo.gov/link/statute/130/342); [Pub. L. 116–131, title III, § 306](https://www.govinfo.gov/link/plaw/116/public/131), Mar. 25, 2020, [134 Stat. 264](https://www.govinfo.gov/link/statute/134/264).)*

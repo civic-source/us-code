@@ -3,9 +3,10 @@ title: "Section 7612 - Special procedures for summonses for computer software"
 usc_title: 26
 usc_section: "7612"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7612"
-generated_at: "2026-03-30T02:55:27.880Z"
+generated_at: "2026-11-23T21:26:06.993Z"
+status: "active"
 ---
 
 # § 7612. Special procedures for summonses for computer software
@@ -57,3 +58,11 @@ generated_at: "2026-03-30T02:55:27.880Z"
   - **(4)** The term “owner” shall, with respect to any software, include the developer of the software.
   - **(5)** A person shall be treated as related to another person if such persons are related persons under section 267 or 707(b).
   - **(6)** The term “tax-related computer software source code” means the computer source code for any computer software program intended for accounting, tax return preparation or compliance, or tax planning.
+
+In general
+
+Software protection
+
+## Source Credit
+
+*(Added [Pub. L. 105–206, title III, § 3413(a)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 751](https://www.govinfo.gov/link/statute/112/751); amended [Pub. L. 116–25, title I, § 1001(b)(1)(J)](https://www.govinfo.gov/link/plaw/116/public/25), July 1, 2019, [133 Stat. 985](https://www.govinfo.gov/link/statute/133/985).)*

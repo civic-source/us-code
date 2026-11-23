@@ -3,9 +3,10 @@ title: "Section 4109 - Coordination and review of budget requests; Office of Sci
 usc_title: 15
 usc_section: "4109"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4109"
-generated_at: "2026-03-30T02:54:08.198Z"
+generated_at: "2026-11-23T21:25:39.989Z"
+status: "active"
 ---
 
 # § 4109. Coordination and review of budget requests; Office of Science and Technology Policy; Office of Management and Budget
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.198Z"
 - **(b)**
   - **(1)** The Office of Management and Budget shall consider all Federal agency requests for research related to the Arctic as one integrated, coherent, and multiagency request which shall be reviewed by the Office of Management and Budget prior to submission of the President’s annual budget request for its adherence to the Plan. The Commission shall, after submission of the President’s annual budget request, review the request and report to Congress on adherence to the Plan.
   - **(2)** The Office of Management and Budget shall seek to facilitate planning for the design, procurement, maintenance, deployment, and operations of icebreakers needed to provide a platform for Arctic research by allocating all funds necessary to support icebreaking operations, except for recurring incremental costs associated with specific projects, to the Coast Guard.
+
+## Source Credit
+
+*([Pub. L. 98–373, title I, § 110](https://www.govinfo.gov/link/plaw/98/public/373), July 31, 1984, [98 Stat. 1248](https://www.govinfo.gov/link/statute/98/1248).)*

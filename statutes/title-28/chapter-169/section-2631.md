@@ -3,9 +3,10 @@ title: "Section 2631 - Persons entitled to commence a civil action"
 usc_title: 28
 usc_section: "2631"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 2631"
-generated_at: "2026-03-30T02:55:30.150Z"
+generated_at: "2026-11-23T21:26:01.136Z"
+status: "active"
 ---
 
 # § 2631. Persons entitled to commence a civil action
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:55:30.150Z"
     - **(C)** United States members of a labor organization or other association of workers whose members are employed in the manufacture, production, or wholesale in the United States of a like product;
     - **(D)** a trade or business association a majority of whose members manufacture, produce, or wholesale a like product in the United States, 1 1 So in original. The comma probably should be a semicolon. and
     - **(E)** an association composed of members who represent parties-at-interest described in subparagraph (B), (C), or (D).
+
+## Source Credit
+
+*(Added [Pub. L. 96–417, title III, § 301](https://www.govinfo.gov/link/plaw/96/public/417), Oct. 10, 1980, [94 Stat. 1730](https://www.govinfo.gov/link/statute/94/1730); amended [Pub. L. 98–573, title II, § 212(b)(3)](https://www.govinfo.gov/link/plaw/98/public/573), title VI, § 612(b)(3), Oct. 30, 1984, [98 Stat. 2983](https://www.govinfo.gov/link/statute/98/2983), 3034; [Pub. L. 103–182, title VI, § 684(a)(2)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2219](https://www.govinfo.gov/link/statute/107/2219).)*

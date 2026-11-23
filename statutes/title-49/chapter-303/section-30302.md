@@ -3,9 +3,10 @@ title: "Section 30302 - National Driver Register"
 usc_title: 49
 usc_section: "30302"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 30302"
-generated_at: "2026-03-30T02:56:19.354Z"
+generated_at: "2026-11-23T21:26:40.768Z"
+status: "active"
 ---
 
 # § 30302. National Driver Register
@@ -32,3 +33,44 @@ generated_at: "2026-03-30T02:56:19.354Z"
   - **(3)** Any agreement entered into under this subsection shall include a provision for a transition period sufficient to allow the States to make the budgetary and legislative changes the States may need to pay fees charged by the organization representing their interests for their use of the National Driver Register’s computer timeshare and user assistance functions. During this transition period, the Secretary shall continue to fund these transferred functions.
   - **(4)** The total of the fees charged by the organization representing the interests of the States in any fiscal year for the use of the National Driver Register’s computer timeshare and user assistance functions shall not exceed the total cost to the organization of performing these functions in such fiscal year.
   - **(5)** Nothing in this subsection may be construed to diminish, limit, or otherwise affect the authority of the Secretary to carry out this chapter.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30302 | 23:401 (note). | Oct. 25, 1982 , Pub. L. 97–364, § 203 , 96 Stat. 1741 . |
+
+
+Establishment and Contents
+
+Accuracy of Information
+
+Transition From Prior Register
+
+Assignment of Personnel
+
+Transfer of Selected Functions to Non-Federal Management.—
+
+Agreement
+
+Required demonstration
+
+Transition period
+
+Fees
+
+Limitation on statutory construction
+
+Historical and Revision Notes
+
+30302
+
+Oct. 25, 1982
+
+Pub. L. 97–364, § 203
+
+96 Stat. 1741
+
+“That the Secretary of Commerce shall establish and maintain a register identifying each individual reported to him by a State, or political subdivision thereof, as an individual with respect to whom such State or political subdivision has denied, terminated, or temporarily withdrawn (except a withdrawal for less than six months based on a series of nonmoving violations) an individual’s license or privilege to operate a motor vehicle.
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 973](https://www.govinfo.gov/link/statute/108/973); [Pub. L. 105–178, title II, § 2006(a)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 335](https://www.govinfo.gov/link/statute/112/335); [Pub. L. 112–141, div. C, title I, § 31104](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 741](https://www.govinfo.gov/link/statute/126/741).)*

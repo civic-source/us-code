@@ -3,9 +3,10 @@ title: "Section 3692 - Performance targets and transparency"
 usc_title: 39
 usc_section: "3692"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 3692"
-generated_at: "2026-03-30T02:55:43.695Z"
+generated_at: "2026-11-23T21:26:12.797Z"
+status: "active"
 ---
 
 # § 3692. Performance targets and transparency
@@ -48,3 +49,39 @@ generated_at: "2026-03-30T02:55:43.695Z"
   - **(11)** In this subsection—
     - **(A)** The term “performance information” means the objective external performance measurements established under section 3691(b)(1)(D).
     - **(B)** The term “Website” means the website described in paragraph (1).
+
+Performance Targets
+
+Postal Regulatory Commission Determination of Certain Performance Information
+
+Public Performance Dashboard.—
+
+In general
+
+Performance information
+
+Comprehensibility
+
+Address search functionality
+
+Format
+
+Consultation
+
+Public input
+
+Deadline
+
+Availability
+
+Reporting
+
+Definitions
+
+Performance information
+
+Website
+
+## Source Credit
+
+*(Added [Pub. L. 117–108, title II, § 201(a)](https://www.govinfo.gov/link/plaw/117/public/108), Apr. 6, 2022, [136 Stat. 1144](https://www.govinfo.gov/link/statute/136/1144).)*

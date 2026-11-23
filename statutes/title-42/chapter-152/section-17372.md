@@ -3,9 +3,10 @@ title: "Section 17372 - Annual national energy security strategy report"
 usc_title: 42
 usc_section: "17372"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17372"
-generated_at: "2026-03-30T02:56:11.505Z"
+generated_at: "2026-11-23T21:26:33.790Z"
+status: "active"
 ---
 
 # § 17372. Annual national energy security strategy report
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.505Z"
 - **(c)** Each national energy security strategy report shall be submitted to Congress in—
   - **(1)** a classified form; and
   - **(2)** an unclassified form.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IX, § 933](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1740](https://www.govinfo.gov/link/statute/121/1740).)*

@@ -3,9 +3,10 @@ title: "Section 4002 - Expedited funds availability schedules"
 usc_title: 12
 usc_section: "4002"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4002"
-generated_at: "2026-03-30T02:53:53.499Z"
+generated_at: "2026-11-23T21:25:37.156Z"
+status: "active"
 ---
 
 # § 4002. Expedited funds availability schedules
@@ -69,3 +70,7 @@ generated_at: "2026-03-30T02:53:53.499Z"
 - **(f)** No provision of this section shall be construed as requiring that, with respect to all checks deposited in a receiving depository institution—
   - **(1)** such checks be physically returned to such depository institution; or
   - **(2)** any notice of nonpayment of any such check be given to such depository institution within the times set forth in subsection (a), (b), (c), or (e) or in the regulations issued under any such subsection.
+
+## Source Credit
+
+*([Pub. L. 100–86, title VI, § 603](https://www.govinfo.gov/link/plaw/100/public/86), Aug. 10, 1987, [101 Stat. 637](https://www.govinfo.gov/link/statute/101/637); [Pub. L. 101–625, title X, § 1001](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4424](https://www.govinfo.gov/link/statute/104/4424); [Pub. L. 102–242, title II, § 227(a)](https://www.govinfo.gov/link/plaw/102/public/242), (b)(1), Dec. 19, 1991, [105 Stat. 2307](https://www.govinfo.gov/link/statute/105/2307); [Pub. L. 111–203, title X, § 1086(a)](https://www.govinfo.gov/link/plaw/111/public/203), (e), July 21, 2010, [124 Stat. 2085](https://www.govinfo.gov/link/statute/124/2085), 2086; [Pub. L. 115–174, title II, § 208(a)(2)](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1312](https://www.govinfo.gov/link/statute/132/1312).)*

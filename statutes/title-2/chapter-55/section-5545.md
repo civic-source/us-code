@@ -3,9 +3,10 @@ title: "Section 5545 - House Services Revolving Fund"
 usc_title: 2
 usc_section: "5545"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 5545"
-generated_at: "2026-03-30T02:53:04.838Z"
+generated_at: "2026-11-23T21:25:21.336Z"
+status: "active"
 ---
 
 # § 5545. House Services Revolving Fund
@@ -29,3 +30,9 @@ generated_at: "2026-03-30T02:53:04.838Z"
     - **(B)** The revolving funds for the House Beauty Shop, established by the matter under the heading “ house beauty shop ” in the matter relating to administrative provisions for the House of Representatives in the Legislative Branch Appropriations Act, 1970 ( Public Law 91–145 ; 83 Stat. 347 ).
     - **(C)** The special deposit account established for the House of Representatives Restaurant by section 208 of the First Supplemental Civil Functions Appropriation Act, 1941, or any successor fund or account established for the receipt of revenues of the House Restaurant System.
 - **(e)** This section shall take effect October 1, 2004 , and shall apply with respect to fiscal year 2005 and each succeeding fiscal year.
+
+house beauty shop
+
+## Source Credit
+
+*([Pub. L. 108–447, div. G, title I, § 105](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3175](https://www.govinfo.gov/link/statute/118/3175); [Pub. L. 109–13, div. A, title III, § 3401(b)](https://www.govinfo.gov/link/plaw/109/public/13), May 11, 2005, [119 Stat. 272](https://www.govinfo.gov/link/statute/119/272); [Pub. L. 110–161, div. H, title I, § 104(a)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2225](https://www.govinfo.gov/link/statute/121/2225); [Pub. L. 111–8, div. G, title I, § 102(b)](https://www.govinfo.gov/link/plaw/111/public/8), Mar. 11, 2009, [123 Stat. 817](https://www.govinfo.gov/link/statute/123/817); [Pub. L. 115–141, div. I, title I, § 118(a)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 777](https://www.govinfo.gov/link/statute/132/777); [Pub. L. 117–328, div. I, title I, § 115(a)](https://www.govinfo.gov/link/plaw/117/public/328), (b), Dec. 29, 2022, [136 Stat. 4923](https://www.govinfo.gov/link/statute/136/4923).)*

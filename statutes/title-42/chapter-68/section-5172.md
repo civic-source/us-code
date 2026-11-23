@@ -3,9 +3,10 @@ title: "Section 5172 - Repair, restoration, and replacement of damaged facilitie
 usc_title: 42
 usc_section: "5172"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5172"
-generated_at: "2026-03-30T02:56:11.224Z"
+generated_at: "2026-11-23T21:26:32.757Z"
+status: "active"
 ---
 
 # § 5172. Repair, restoration, and replacement of damaged facilities
@@ -105,3 +106,37 @@ generated_at: "2026-03-30T02:56:11.224Z"
     - **(B)** Not later than 60 days after October 5, 2018 , the Administrator shall issue interim guidance to implement this subsection. Such interim guidance shall expire 18 months after October 5, 2018 , or upon issuance of final regulations pursuant to subparagraph (A), whichever occurs first.
     - **(C)** Not later than 90 days after the date on which the Administrator issues the final rulemaking under this paragraph, the Administrator shall issue any necessary guidance related to the rulemaking.
     - **(D)** Not later than 2 years after October 5, 2018 , the Administrator shall submit to Congress a report summarizing the regulations and guidance issued pursuant to this paragraph.
+
+(aa) has been determined to be ineligible for such a loan; or
+
+(bb) has obtained such a loan in the maximum amount for which the Small Business Administration determines the facility is eligible.
+
+General rule
+
+Special rule
+
+Guidance
+
+Recommendations
+
+Effective Date
+
+Building Safety Assessment Team.—
+
+In general
+
+Publication
+
+National Incident Management System
+
+Effective Date
+
+Definition of Public Assistance Grant Program
+
+Review and Briefing
+
+Report and Recommendations
+
+## Source Credit
+
+*([Pub. L. 93–288, title IV, § 406](https://www.govinfo.gov/link/plaw/93/public/288), as added [Pub. L. 100–707, title I, § 106(b)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4699](https://www.govinfo.gov/link/statute/102/4699); amended [Pub. L. 106–390, title II, § 205(a)](https://www.govinfo.gov/link/plaw/106/public/390) –(d)(1), (e), Oct. 30, 2000, [114 Stat. 1562–1564](https://www.govinfo.gov/link/statute/114/1562), 1566; [Pub. L. 109–295, title VI, § 689h](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1453](https://www.govinfo.gov/link/statute/120/1453); [Pub. L. 109–347, title VI, § 609](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1942](https://www.govinfo.gov/link/statute/120/1942); [Pub. L. 111–351, § 3(c)(2)](https://www.govinfo.gov/link/plaw/111/public/351), Jan. 4, 2011, [124 Stat. 3864](https://www.govinfo.gov/link/statute/124/3864); [Pub. L. 114–111, § 2(b)](https://www.govinfo.gov/link/plaw/114/public/111), Dec. 18, 2015, [129 Stat. 2240](https://www.govinfo.gov/link/statute/129/2240); [Pub. L. 115–123, div. B, title VI](https://www.govinfo.gov/link/plaw/115/public/123), §§ 20604(b), 20606, Feb. 9, 2018, [132 Stat. 86](https://www.govinfo.gov/link/statute/132/86); [Pub. L. 115–254, div. D](https://www.govinfo.gov/link/plaw/115/public/254), §§ 1206(b), 1207(a), (b), 1235(b)–(d), Oct. 5, 2018, [132 Stat. 3440](https://www.govinfo.gov/link/statute/132/3440), 3463, 3464.)*

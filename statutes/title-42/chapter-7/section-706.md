@@ -3,9 +3,10 @@ title: "Section 706 - Administrative and fiscal accountability"
 usc_title: 42
 usc_section: "706"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 706"
-generated_at: "2026-03-30T02:56:10.893Z"
+generated_at: "2026-11-23T21:26:31.179Z"
+status: "active"
 ---
 
 # § 706. Administrative and fiscal accountability
@@ -88,3 +89,7 @@ generated_at: "2026-03-30T02:56:10.893Z"
   - **(1)** For the purpose of evaluating and reviewing the block grant established under this subchapter, the Secretary and the Comptroller General shall have access to any books, accounts, records, correspondence, or other documents that are related to such block grant, and that are in the possession, custody, or control of States, political subdivisions thereof, or any of their grantees.
   - **(2)** In conjunction with an evaluation or review under paragraph (1), no State or political subdivision thereof (or grantee of either) shall be required to create or prepare new rec­ords to comply with paragraph (1).
   - **(3)** For other provisions relating to deposit, accounting, reports, and auditing with respect to Federal grants to States, see section 6503(b) 2 2 See References in Text note below. of title 31.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title V, § 506, as added [Pub. L. 97–35, title XXI, § 2192(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 823](https://www.govinfo.gov/link/statute/95/823); amended [Pub. L. 98–369, div. B, title III, § 2373(a)(2)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1111](https://www.govinfo.gov/link/statute/98/1111); [Pub. L. 101–239, title VI](https://www.govinfo.gov/link/plaw/101/public/239), §§ 6503(c)(3), (4), 6504, Dec. 19, 1989, [103 Stat. 2278](https://www.govinfo.gov/link/statute/103/2278); [Pub. L. 104–316, title I, § 122(f)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3837](https://www.govinfo.gov/link/statute/110/3837); [Pub. L. 106–113, div. B, § 1000(a)(6) [title VII, § 703(d)(1)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–402.)*

@@ -3,9 +3,10 @@ title: "Section 9302 - Strategic plan for sustainable chemistry"
 usc_title: 15
 usc_section: "9302"
 chapter: 118
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9302"
-generated_at: "2026-03-30T02:54:08.246Z"
+generated_at: "2026-11-23T21:25:40.140Z"
+status: "active"
 ---
 
 # § 9302. Strategic plan for sustainable chemistry
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:08.246Z"
     - **(F)** an evaluation of duplicative Federal funding and duplicative Federal research in sustainable chemistry, efforts undertaken by the Entity to eliminate duplicative funding and research, and recommendations on how to achieve these goals.
   - **(2)** The Entity shall also submit the report described in paragraph (1) to the Comptroller General of the United States for consideration in future Congressional inquiries.
   - **(3)** The Entity shall submit a report to Congress and the Comptroller General of the United States that incorporates the information described in subparagraphs (A), (B), (D), (E), and (F) of paragraph (1) every 3 years, commencing after the initial report is submitted until the Entity terminates.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. A, title II, § 262](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3498](https://www.govinfo.gov/link/statute/134/3498).)*

@@ -3,9 +3,10 @@ title: "Section 1386 - Adjustment for partial withdrawal; determination of amoun
 usc_title: 29
 usc_section: "1386"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1386"
-generated_at: "2026-03-30T02:55:18.734Z"
+generated_at: "2026-11-23T21:26:02.298Z"
+status: "active"
 ---
 
 # § 1386. Adjustment for partial withdrawal; determination of amount; reduction for partial withdrawal liability; procedures applicable
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:18.734Z"
     - **(A)** changes in unfunded vested benefits arising after the close of the prior year for which partial withdrawal liability was determined,
     - **(B)** changes in contribution base units occurring after the close of the prior year for which partial withdrawal liability was determined, and
     - **(C)** any other factors for which it determines adjustment to be appropriate,
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4206](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 96–364, title I, § 104(2)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1222](https://www.govinfo.gov/link/statute/94/1222).)*

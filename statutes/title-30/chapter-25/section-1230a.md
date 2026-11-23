@@ -3,9 +3,10 @@ title: "Section 1230a - Strategic Resources Generic Mineral Technology Center"
 usc_title: 30
 usc_section: "1230a"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1230a"
-generated_at: "2026-03-30T02:55:29.396Z"
+generated_at: "2026-11-23T21:26:00.417Z"
+status: "active"
 ---
 
 # § 1230a. Strategic Resources Generic Mineral Technology Center
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:29.396Z"
   - **(3)** has expertise in materials and advanced processing research; and
   - **(4)** is located west of the 100th meridian.
 - **(d)** There is authorized to be appropriated such sums as may be necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 98–409, § 12](https://www.govinfo.gov/link/plaw/98/public/409), as added [Pub. L. 101–498, § 2](https://www.govinfo.gov/link/plaw/101/public/498), Nov. 2, 1990, [104 Stat. 1207](https://www.govinfo.gov/link/statute/104/1207).)*

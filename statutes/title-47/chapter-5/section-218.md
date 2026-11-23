@@ -3,12 +3,17 @@ title: "Section 218 - Management of business; inquiries by Commission"
 usc_title: 47
 usc_section: "218"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 218"
-generated_at: "2026-03-30T02:56:24.495Z"
+generated_at: "2026-11-23T21:26:35.941Z"
+status: "active"
 ---
 
 # § 218. Management of business; inquiries by Commission
 
 The Commission may inquire into the management of the business of all carriers subject to this chapter, and shall keep itself informed as to the manner and method in which the same is conducted and as to technical developments and improvements in wire and radio communication and radio transmission of energy to the end that the benefits of new inventions and developments may be made available to the people of the United States. The Commission may obtain from such carriers and from persons directly or indirectly controlling or controlled by, or under direct or indirect common control with, such carriers full and complete information necessary to enable the Commission to perform the duties and carry out the objects for which it was created.
 
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title II, § 218, [48 Stat. 1077](https://www.govinfo.gov/link/statute/48/1077).)*

@@ -3,9 +3,10 @@ title: "Section 3575 - Findings"
 usc_title: 44
 usc_section: "3575"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 3575"
-generated_at: "2026-03-30T02:55:56.298Z"
+generated_at: "2026-11-23T21:26:18.439Z"
+status: "active"
 ---
 
 # § 3575. Findings
@@ -18,3 +19,7 @@ The Congress finds the following:
   - **(4)** Enhanced sharing of business data among the Bureau of the Census, the Bureau of Economic Analysis, and the Bureau of Labor Statistics for exclusively statistical purposes will improve their ability to track more accurately the large and rapidly changing nature of United States business. In particular, the statistical agencies will be able to better ensure that businesses are consistently classified in appropriate industries, resolve data anomalies, produce statistical samples that are consistently adjusted for the entry and exit of new businesses in a timely manner, and correct faulty reporting errors quickly and efficiently.
   - **(5)** Congress enacted the International Investment and Trade in Services Survey Act ( Public Law 94–472 ), which allowed the Bureau of the Census, the Bureau of Economic Analysis, and the Bureau of Labor Statistics to share data on foreign-owned companies. The Act not only expanded detailed industry coverage from 135 industries to over 800 industries with no increase in the data collected from respondents but also demonstrated how data sharing can result in the creation of valuable data products.
   - **(6)** With part B of this subchapter, the sharing of business data among the Bureau of the Census, the Bureau of Economic Analysis, and the Bureau of Labor Statistics continues to ensure the highest level of confidentiality for respondents to statistical surveys.
+
+## Source Credit
+
+*(Added [Pub. L. 115–435, title III, § 302(a)](https://www.govinfo.gov/link/plaw/115/public/435), Jan. 14, 2019, [132 Stat. 5549](https://www.govinfo.gov/link/statute/132/5549).)*

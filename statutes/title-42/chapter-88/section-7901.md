@@ -3,9 +3,10 @@ title: "Section 7901 - Congressional findings and purposes"
 usc_title: 42
 usc_section: "7901"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7901"
-generated_at: "2026-03-30T02:56:11.330Z"
+generated_at: "2026-11-23T21:26:33.172Z"
+status: "active"
 ---
 
 # § 7901. Congressional findings and purposes
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.330Z"
 - **(b)** The purposes of this chapter are to provide—
   - **(1)** in cooperation with the interested States, Indian tribes, and the persons who own or control inactive mill tailings sites, a program of assessment and remedial action at such sites, including, where appropriate, the reprocessing of tailings to extract residual uranium and other mineral values where practicable, in order to stabilize and control such tailings in a safe and environmentally sound manner and to minimize or eliminate radiation health hazards to the public, and
   - **(2)** a program to regulate mill tailings during uranium or thorium ore processing at active mill operations and after termination of such operations in order to stabilize and control such tailings in a safe and environmentally sound manner and to minimize or eliminate radiation health hazards to the public.
+
+## Source Credit
+
+*([Pub. L. 95–604, § 2](https://www.govinfo.gov/link/plaw/95/public/604), Nov. 8, 1978, [92 Stat. 3021](https://www.govinfo.gov/link/statute/92/3021).)*

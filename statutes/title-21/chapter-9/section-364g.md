@@ -3,9 +3,10 @@ title: "Section 364g - Mandatory recall authority"
 usc_title: 21
 usc_section: "364g"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 364g"
-generated_at: "2026-03-30T02:54:54.263Z"
+generated_at: "2026-11-23T21:25:56.126Z"
+status: "active"
 ---
 
 # § 364g. Mandatory recall authority
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:54.263Z"
   - **(2)** ensure publication, as appropriate, on the website of the Food and Drug Administration of an image of the cosmetic that is the subject of the press release described in paragraph (1), if available.
 - **(g)** The authority conferred by this section to order a recall or vacate a recall order shall not be delegated to any officer or employee other than the Commissioner.
 - **(h)** Nothing in this section shall affect the authority of the Secretary to request or participate in a voluntary recall, or to issue an order to cease distribution or to recall under any other provision of this subchapter.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 611, as added [Pub. L. 117–328, div. FF, title III, § 3502](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5855](https://www.govinfo.gov/link/statute/136/5855).)*

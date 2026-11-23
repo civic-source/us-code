@@ -3,9 +3,10 @@ title: "Section 2770a - Exchange of training and related support"
 usc_title: 22
 usc_section: "2770a"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2770a"
-generated_at: "2026-03-30T02:55:05.385Z"
+generated_at: "2026-11-23T21:25:58.554Z"
+status: "active"
 ---
 
 # § 2770a. Exchange of training and related support
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.385Z"
 - **(b)** Training and related support may be provided under this section only pursuant to an agreement or other arrangement providing for the provision by the recipient foreign country or international organization, on a reciprocal basis, of comparable training and related support to military and civilian personnel under the jurisdiction of the Secretary of the military department providing the training and related support under this section. Such reciprocal training and related support must be provided within a reasonable period of time (which may not be more than one year) of the provision of training and related support by the United States. To the extent that a foreign country or international organization to which training and related support is provided under this section does not provide such comparable training and related support to the United States within a reasonable period of time, that country or international organization shall be required to reimburse the United States for the full costs of the training and related support provided by the United States.
 - **(c)** Training and related support under this section shall be provided under regulations prescribed by the President.
 - **(d)** Not later than February 1 of each year, the President shall submit to the Congress a report on the activities conducted pursuant to this section during the preceding fiscal year, including the estimated full costs of the training and related support provided by the United States to each country and international organization and the estimated value of the training and related support provided to the United States by that country or international organization.
+
+## Source Credit
+
+*([Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 2C, § 30A, as added [Pub. L. 99–83, title I, § 116](https://www.govinfo.gov/link/plaw/99/public/83), Aug. 8, 1985, [99 Stat. 201](https://www.govinfo.gov/link/statute/99/201).)*

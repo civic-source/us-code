@@ -3,9 +3,10 @@ title: "Section 2702 - Definitions"
 usc_title: 15
 usc_section: "2702"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2702"
-generated_at: "2026-03-30T02:54:08.182Z"
+generated_at: "2026-11-23T21:25:39.953Z"
+status: "active"
 ---
 
 # § 2702. Definitions
@@ -20,3 +21,7 @@ As used in this chapter, the term—
   - **(6)** “reliability” refers to (A) the average time and distance over which normal automobile operation can be expected without significant repair or replacement of parts, and (B) the ease of diagnosis and repair of an automobile, its systems, and parts in the event of failure during use or damage from an accident;
   - **(7)** “safety” refers to the performance of an automobile propulsion system or equipment in such a manner that the public is protected against unreasonable risk of accident and against unreasonable risk of death or bodily injury in case of accident;
   - **(8)** “State” means any State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, or any other territory or possession of the United States.
+
+## Source Credit
+
+*([Pub. L. 95–238, title III, § 303](https://www.govinfo.gov/link/plaw/95/public/238), Feb. 25, 1978, [92 Stat. 79](https://www.govinfo.gov/link/statute/92/79).)*

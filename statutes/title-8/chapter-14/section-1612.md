@@ -3,9 +3,10 @@ title: "Section 1612 - Limited eligibility of qualified aliens for certain Feder
 usc_title: 8
 usc_section: "1612"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1612"
-generated_at: "2026-03-30T02:53:10.505Z"
+generated_at: "2026-11-23T21:25:25.209Z"
+status: "active"
 ---
 
 # § 1612. Limited eligibility of qualified aliens for certain Federal programs
@@ -104,3 +105,27 @@ generated_at: "2026-03-30T02:53:10.505Z"
     - **(A)** The program of block grants to States for temporary assistance for needy families under part A of title IV of the Social Security Act [ 42 U.S.C. 601 et seq.].
     - **(B)** The program of block grants to States for social services under title XX of the Social Security Act [ 42 U.S.C. 1397 et seq.].
     - **(C)** A State plan approved under title XIX of the Social Security Act [ 42 U.S.C. 1396 et seq.], other than medical assistance described in section 1611(b)(1)(A) of this title .
+
+migration and refugee assistance
+
+(aa) has been a lawful permanent resident for less than 6 years and such status has not been abandoned, rescinded under section 246 of the Immigration and Nationality Act [ 8 U.S.C. 1256 ], or terminated through removal proceedings under section 240 of the Immigration and Nationality Act [ 8 U.S.C. 1229a ], and the Commissioner of Social Security has verified such status, through procedures established in consultation with the Secretary of Homeland Security;
+
+(bb) has filed an application, within 4 years from the date the alien or victim began receiving supplemental security income benefits, to become a lawful permanent resident with the Secretary of Homeland Security, and the Commissioner of Social Security has verified, through procedures established in consultation with such Secretary, that such application is pending;
+
+(cc) has been granted the status of Cuban and Haitian entrant, as defined in section 501(e) of the Refugee Education Assistance Act of 1980 ( Public Law 96–422 ), for purposes of the specified Federal program described in paragraph (3)(A);
+
+(dd) has had his or her deportation withheld by the Secretary of Homeland Security under section 243(h) of the Immigration and Nationality Act [ 8 U.S.C. 1253 ] (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208 ), or whose removal is withheld under section 241(b)(3) of such Act [ 8 U.S.C. 1231(b)(3) ];
+
+(ee) has not attained age 18; or
+
+(ff) has attained age 70.
+
+(aa) In general For purposes of subclauses (I) and (II), the declaration required under this subclause of a qualified alien or victim of trafficking described in either such subclause is a declaration under penalty of perjury stating that the alien or victim has made a good faith effort to pursue United States citizenship, as determined by the Secretary of Homeland Security. The Commissioner of Social Security shall develop criteria as needed, in consultation with the Secretary of Homeland Security, for consideration of such declarations.
+
+(bb) Exception for children A qualified alien or victim of trafficking described in subclause (I) or (II) who has not attained age 18 shall not be required to furnish to the Commissioner of Social Security a declaration described in item (aa) as a condition of being eligible for the specified Federal program described in paragraph (3)(A) for an additional 2-year period in accordance with this clause.
+
+migration and refugee assistance
+
+## Source Credit
+
+*([Pub. L. 104–193, title IV, § 402](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2262](https://www.govinfo.gov/link/statute/110/2262); [Pub. L. 104–208, div. C, title V, § 510](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–673](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 105–18, title II, § 6005(a)](https://www.govinfo.gov/link/plaw/105/public/18), June 12, 1997, [111 Stat. 191](https://www.govinfo.gov/link/statute/111/191); [Pub. L. 105–33, title V](https://www.govinfo.gov/link/plaw/105/public/33), §§ 5301–5302(b), 5303(a), (b), 5304, 5305(b), 5306(a), (b), 5562, 5563, Aug. 5, 1997, [111 Stat. 597](https://www.govinfo.gov/link/statute/111/597), 598, 600–602, 638; [Pub. L. 105–185, title V](https://www.govinfo.gov/link/plaw/105/public/185), §§ 503–508, June 23, 1998, [112 Stat. 578](https://www.govinfo.gov/link/statute/112/578), 579; [Pub. L. 107–171, title IV, § 4401(a)](https://www.govinfo.gov/link/plaw/107/public/171), (b)(1), (c)(1), May 13, 2002, [116 Stat. 333](https://www.govinfo.gov/link/statute/116/333); [Pub. L. 110–234, title IV, § 4115(c)(2)(D)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1110](https://www.govinfo.gov/link/statute/122/1110); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4115(c)(2)(D), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1871; [Pub. L. 110–328, § 2](https://www.govinfo.gov/link/plaw/110/public/328), Sept. 30, 2008, [122 Stat. 3567](https://www.govinfo.gov/link/statute/122/3567); [Pub. L. 116–260, div. CC, title II, § 208(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2985](https://www.govinfo.gov/link/statute/134/2985); [Pub. L. 118–42, div. G, title II, § 209(f)(1)](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 445](https://www.govinfo.gov/link/statute/138/445).)*

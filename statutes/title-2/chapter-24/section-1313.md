@@ -3,9 +3,10 @@ title: "Section 1313 - Rights and protections under Fair Labor Standards Act of 
 usc_title: 2
 usc_section: "1313"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1313"
-generated_at: "2026-03-30T02:53:04.809Z"
+generated_at: "2026-11-23T21:25:21.218Z"
+status: "active"
 ---
 
 # § 1313. Rights and protections under Fair Labor Standards Act of 1938
@@ -22,3 +23,15 @@ generated_at: "2026-03-30T02:53:04.809Z"
   - **(4)** Law enforcement personnel of the Capitol Police who are subject to the exemption under section 7(k) of the Fair Labor Standards Act of 1938 ( 29 U.S.C. 207(k) ) may elect to receive compensatory time off in lieu of overtime compensation for hours worked in excess of the maximum for their work period.
 - **(d)**
 - **(e)** Subsections (a) and (b) shall be effective 1 year after January 23, 1995 .
+
+House Employees.—
+
+In general
+
+Administration
+
+Architect of the Capitol Employees
+
+## Source Credit
+
+*([Pub. L. 104–1, title II, § 203](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 10](https://www.govinfo.gov/link/statute/109/10); [Pub. L. 104–197, title III, § 312](https://www.govinfo.gov/link/plaw/104/public/197), Sept. 16, 1996, [110 Stat. 2415](https://www.govinfo.gov/link/statute/110/2415); [Pub. L. 119–37, div. C, title II, § 211](https://www.govinfo.gov/link/plaw/119/public/37), Nov. 12, 2025, [139 Stat. 584](https://www.govinfo.gov/link/statute/139/584).)*

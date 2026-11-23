@@ -3,9 +3,10 @@ title: "Section 16296 - Low-volume oil and gas reservoir research program"
 usc_title: 42
 usc_section: "16296"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16296"
-generated_at: "2026-03-30T02:56:11.480Z"
+generated_at: "2026-11-23T21:26:33.728Z"
+status: "active"
 ---
 
 # § 16296. Low-volume oil and gas reservoir research program
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.480Z"
   - **(2)** If an organization receiving a grant under paragraph (1) does not have GIS capabilities, the organization shall contract with an institution of higher education with GIS capabilities.
   - **(3)** The organization receiving a grant under paragraph (1) shall collaborate with the State geologist of each State being studied.
 - **(f)** The Secretary may use the data collected and analyzed under this section to produce maps and literature to disseminate to States to promote conservation of natural gas reserves.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 966](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 893](https://www.govinfo.gov/link/statute/119/893).)*

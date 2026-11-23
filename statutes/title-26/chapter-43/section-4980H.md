@@ -3,9 +3,10 @@ title: "Section 4980H - Shared responsibility for employers regarding health cov
 usc_title: 26
 usc_section: "4980H"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4980H"
-generated_at: "2026-03-30T02:55:27.814Z"
+generated_at: "2026-11-23T21:26:06.676Z"
+status: "active"
 ---
 
 # § 4980H. Shared responsibility for employers regarding health coverage
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:55:27.814Z"
   - **(2)** The Secretary may provide for the payment of any assessable payment provided by this section on an annual, monthly, or other periodic basis as the Secretary may prescribe.
   - **(3)** The Secretary shall prescribe rules, regulations, or guidance for the repayment of any assessable payment (including interest) if such payment is based on the allowance or payment of an applicable premium tax credit or cost-sharing reduction with respect to an employee, such allowance or payment is subsequently disallowed, and the assessable payment would not have been required to be made but for such allowance or payment.
   - **(4)** The Secretary shall allow an applicable large employer at least 90 days from the date of the first letter which informs the employer of a proposed assessment of the employer shared responsibility payment under this section to respond to the proposed assessment before taking any further action with respect to such proposed assessment.
+
+## Source Credit
+
+*(Added and amended [Pub. L. 111–148, title I, § 1513(a)](https://www.govinfo.gov/link/plaw/111/public/148), title X, §§ 10106(e)–(f)(2), 10108(i)(1)(A), Mar. 23, 2010, [124 Stat. 253](https://www.govinfo.gov/link/statute/124/253), 910, 914; [Pub. L. 111–152, title I, § 1003](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1033](https://www.govinfo.gov/link/statute/124/1033); [Pub. L. 112–10, div. B, title VIII, § 1858(b)(4)](https://www.govinfo.gov/link/plaw/112/public/10), Apr. 15, 2011, [125 Stat. 169](https://www.govinfo.gov/link/statute/125/169); [Pub. L. 114–41, title IV, § 4007(a)(1)](https://www.govinfo.gov/link/plaw/114/public/41), July 31, 2015, [129 Stat. 465](https://www.govinfo.gov/link/statute/129/465); [Pub. L. 115–141, div. U, title IV, § 401(a)(2)(B)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1184](https://www.govinfo.gov/link/statute/132/1184); [Pub. L. 118–168, § 4(a)](https://www.govinfo.gov/link/plaw/118/public/168), Dec. 23, 2024, [138 Stat. 2587](https://www.govinfo.gov/link/statute/138/2587).)*

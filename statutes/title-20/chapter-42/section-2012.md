@@ -3,9 +3,10 @@ title: "Section 2012 - Administrative provisions"
 usc_title: 20
 usc_section: "2012"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 2012"
-generated_at: "2026-03-30T02:54:48.171Z"
+generated_at: "2026-11-23T21:25:47.366Z"
+status: "active"
 ---
 
 # § 2012. Administrative provisions
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:48.171Z"
   - **(8)** rent office space in the District of Columbia; and
   - **(9)** make other necessary expenditures.
 - **(b)** The Foundation shall submit to the President and to the Congress an annual report of its operations under this chapter.
+
+## Source Credit
+
+*([Pub. L. 93–642, § 13](https://www.govinfo.gov/link/plaw/93/public/642), Jan. 4, 1975, [88 Stat. 2280](https://www.govinfo.gov/link/statute/88/2280).)*

@@ -3,9 +3,10 @@ title: "Section 2375 - Assistance to Pakistan"
 usc_title: 22
 usc_section: "2375"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2375"
-generated_at: "2026-03-30T02:55:05.362Z"
+generated_at: "2026-11-23T21:25:58.481Z"
+status: "active"
 ---
 
 # § 2375. Assistance to Pakistan
@@ -26,3 +27,49 @@ generated_at: "2026-03-30T02:55:05.362Z"
 - **(f)** The President may release the Government of Pakistan of its contractual obligation to pay the United States Government for the storage costs of items purchased prior to October 1, 1990 , but not delivered by the United States Government pursuant to subsection (e) and may reimburse the Government of Pakistan for any such amount paid, on such terms and conditions as the President may prescribe: Provided , That such payments have no budgetary impact.
 - **(g)** Subsection (e) does not apply to broken, worn or unupgraded items or their equivalent which Pakistan paid for and took possession of prior to October 1, 1990 and which the Government of Pakistan sent to the United States for repair or upgrade. Such equipment or its equivalent may be returned to the Government of Pakistan: Provided , That the President determines and so certifies to the appropriate congressional committees that such equipment or equivalent neither constitutes nor has received any significant qualitative upgrade since being transferred to the United States and that its total value does not exceed $25,000,000.
 - **(h)** Nothing contained herein shall affect sanctions for transfers of missile equipment or technology required under section 4612 of title 50 or section 2797b of this title .
+
+Congressional Findings
+
+Statements of Policy
+
+Strategy Relating to Pakistan.—
+
+Requirement for report on strategy
+
+Form
+
+Limitation on United States Security Assistance to Pakistan.—
+
+Limitation
+
+Memorandum of justification
+
+Form
+
+Nuclear Proliferation.—
+
+Congressional finding
+
+Sense of congress
+
+Authorization of Appropriations.—
+
+In general
+
+Other funds
+
+Declaration of policy
+
+Biannual reports to congress.—
+
+In general
+
+Schedule for submission
+
+Form
+
+George Bush.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 620E, as added [Pub. L. 97–113, title VII, § 736](https://www.govinfo.gov/link/plaw/97/public/113), Dec. 29, 1981, [95 Stat. 1561](https://www.govinfo.gov/link/statute/95/1561); amended [Pub. L. 99–83, title IX, § 902](https://www.govinfo.gov/link/plaw/99/public/83), Aug. 8, 1985, [99 Stat. 267](https://www.govinfo.gov/link/statute/99/267); [Pub. L. 100–202, § 101(e) [title V, § 557]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–131](https://www.govinfo.gov/link/statute/101/1329), 1329–170; [Pub. L. 101–167, title V, § 591](https://www.govinfo.gov/link/plaw/101/public/167), Nov. 21, 1989, [103 Stat. 1253](https://www.govinfo.gov/link/statute/103/1253); [Pub. L. 101–513, title V, § 574(a)](https://www.govinfo.gov/link/plaw/101/public/513), Nov. 5, 1990, [104 Stat. 2042](https://www.govinfo.gov/link/statute/104/2042); [Pub. L. 102–145, § 118](https://www.govinfo.gov/link/plaw/102/public/145), as added [Pub. L. 102–266, § 102](https://www.govinfo.gov/link/plaw/102/public/266), Apr. 1, 1992, [106 Stat. 93](https://www.govinfo.gov/link/statute/106/93); [Pub. L. 102–391, title V, § 570(a)](https://www.govinfo.gov/link/plaw/102/public/391), Oct. 6, 1992, [106 Stat. 1681](https://www.govinfo.gov/link/statute/106/1681); [Pub. L. 103–87, title V, § 536(a)](https://www.govinfo.gov/link/plaw/103/public/87), Sept. 30, 1993, [107 Stat. 955](https://www.govinfo.gov/link/statute/107/955); [Pub. L. 103–236, title VIII, § 822(b)(2)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 512](https://www.govinfo.gov/link/statute/108/512); [Pub. L. 104–107, title V, § 559(a)](https://www.govinfo.gov/link/plaw/104/public/107), Feb. 12, 1996, [110 Stat. 743](https://www.govinfo.gov/link/statute/110/743).)*

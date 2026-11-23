@@ -3,9 +3,10 @@ title: "Section 2805 - National Geospatial Data Asset data themes"
 usc_title: 43
 usc_section: "2805"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 2805"
-generated_at: "2026-03-30T02:55:57.500Z"
+generated_at: "2026-11-23T21:26:19.900Z"
+status: "active"
 ---
 
 # § 2805. National Geospatial Data Asset data themes
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:57.500Z"
       - **(iv)** encourage individuals and entities that are a source of geospatial data or metadata for geospatial data for the National Geospatial Data Asset data theme to provide access to such data through the GeoPlatform;
       - **(v)** coordinate with the GeoPlatform; and
       - **(vi)** identify and publish proven practices for the use and application of geospatial data of the lead covered agency.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. B, title VII, § 756](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3421](https://www.govinfo.gov/link/statute/132/3421).)*

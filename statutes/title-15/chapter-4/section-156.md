@@ -3,12 +3,17 @@ title: "Section 156 - Dissolution of corporation; trustees"
 usc_title: 15
 usc_section: "156"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 156"
-generated_at: "2026-03-30T02:54:08.074Z"
+generated_at: "2026-11-23T21:25:39.608Z"
+status: "active"
 ---
 
 # § 156. Dissolution of corporation; trustees
 
 In case of the voluntary dissolution of a China Trade Act corporation or revocation of its certificate of incorporation, the directors of the corporation shall be trustees for the creditors and stockholders of the corporation; except that upon application to the United States Court for China by any interested party, or upon the motion of any court of competent jurisdiction in any proceeding pending before it, the court may in its discretion appoint as the trustees such persons, other than the directors, as it may determine. The trustees are invested with the powers, and shall do all acts, necessary to wind up the affairs of the corporation and divide among the stockholders according to their respective interests the property of the corporation remaining after all obligations against it have been settled. For the purposes of this section the trustees may sue and be sued in the name of the corporation and shall be jointly and severally liable to the stockholders and creditors of the corporation to the extent of the property coming into their hands as trustees.
 
+
+## Source Credit
+
+*(Sept. 19, 1922, ch. 346, § 16, [42 Stat. 854](https://www.govinfo.gov/link/statute/42/854).)*

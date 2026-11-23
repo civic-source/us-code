@@ -3,9 +3,10 @@ title: "Section 2220c - Board for International Food and Agricultural Developmen
 usc_title: 22
 usc_section: "2220c"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2220c"
-generated_at: "2026-03-30T02:55:05.351Z"
+generated_at: "2026-11-23T21:25:58.449Z"
+status: "active"
 ---
 
 # § 2220c. Board for International Food and Agricultural Development
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:05.351Z"
   - **(1)** a Joint Policy Committee to participate in the design and development of the collaborative activities described in section 2220b of this title ; and
   - **(2)** a Joint Operations Committee which shall assist in and advise on the mechanisms and processes for implementation of activities described in section 2220b of this title .
 - **(e)** In addition to any other functions assigned to and agreed to by the Board, the Board shall be consulted in the preparation of the annual report required by section 2220e of this title and on other agricultural development activities related to programs under this subpart.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 298, as added [Pub. L. 94–161, title III, § 312](https://www.govinfo.gov/link/plaw/94/public/161), Dec. 20, 1975, [89 Stat. 864](https://www.govinfo.gov/link/statute/89/864); amended [Pub. L. 106–373, § 4](https://www.govinfo.gov/link/plaw/106/public/373), Oct. 27, 2000, [114 Stat. 1432](https://www.govinfo.gov/link/statute/114/1432).)*

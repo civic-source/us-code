@@ -3,9 +3,10 @@ title: "Section 5305 - Reporting and audit requirements for recipients of Federa
 usc_title: 25
 usc_section: "5305"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5305"
-generated_at: "2026-03-30T02:54:52.865Z"
+generated_at: "2026-11-23T21:25:54.721Z"
+status: "active"
 ---
 
 # § 5305. Reporting and audit requirements for recipients of Federal financial assistance
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:52.865Z"
   - **(1)** For each fiscal year during which an Indian tribal organization receives or expends funds pursuant to a contract entered into, or grant made, under this chapter, if the Indian Tribal organization expends $500,000 or more in Federal awards during such fiscal year the tribal organization that requested such contract or grant shall submit to the appropriate Secretary a single-agency audit report required by chapter 75 of title 31.
   - **(2)** In addition to submitting a single-agency audit report pursuant to paragraph (1), a tribal organization referred to in such paragraph shall submit such additional information concerning the conduct of the program, function, service, or activity carried out pursuant to the contract or grant that is the subject of the report as the tribal organization may negotiate with the Secretary.
   - **(3)** Any disagreement over reporting requirements shall be subject to the declination criteria and procedures set forth in section 5321 of this title .
+
+## Source Credit
+
+*([Pub. L. 93–638, § 5](https://www.govinfo.gov/link/plaw/93/public/638), formerly § 5 and title I, § 108, Jan. 4, 1975, [88 Stat. 2204](https://www.govinfo.gov/link/statute/88/2204), 2212; renumbered and amended [Pub. L. 100–472, title I, § 104](https://www.govinfo.gov/link/plaw/100/public/472), title II, § 208, Oct. 5, 1988, [102 Stat. 2287](https://www.govinfo.gov/link/statute/102/2287), 2296; [Pub. L. 100–581, title II, § 209](https://www.govinfo.gov/link/plaw/100/public/581), Nov. 1, 1988, [102 Stat. 2940](https://www.govinfo.gov/link/statute/102/2940); [Pub. L. 101–301, § 2(a)(4)](https://www.govinfo.gov/link/plaw/101/public/301), May 24, 1990, [104 Stat. 206](https://www.govinfo.gov/link/statute/104/206); [Pub. L. 101–644, title II, § 202(3)](https://www.govinfo.gov/link/plaw/101/public/644), Nov. 29, 1990, [104 Stat. 4665](https://www.govinfo.gov/link/statute/104/4665); [Pub. L. 103–413, title I, § 102(2)](https://www.govinfo.gov/link/plaw/103/public/413), Oct. 25, 1994, [108 Stat. 4250](https://www.govinfo.gov/link/statute/108/4250); [Pub. L. 116–180, title II, § 201(b)](https://www.govinfo.gov/link/plaw/116/public/180), Oct. 21, 2020, [134 Stat. 879](https://www.govinfo.gov/link/statute/134/879).)*

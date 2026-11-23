@@ -3,9 +3,10 @@ title: "Section 0 - Expanded access policy required for investigational drugs"
 usc_title: 21
 usc_section: "0"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 0"
-generated_at: "2026-03-30T02:54:54.255Z"
+generated_at: "2026-11-23T21:25:56.097Z"
+status: "active"
 ---
 
 # § 360bbb–0. Expanded access policy required for investigational drugs
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:54.255Z"
 - **(f)** This section shall apply to a manufacturer or distributor with respect to an investigational drug beginning on the earlier of—
   - **(1)** the first initiation of a phase 2 or phase 3 study (as such terms are defined in section 312.21(b) and (c) of title 21, Code of Federal Regulations (or any successor regulations)) with respect to such investigational drug; or
   - **(2)** as applicable, 15 days after the drug receives a designation as a breakthrough therapy, fast track product, or regenerative advanced therapy under subsection (a), (b), or (g), respectively, of section 356 of this title .
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 561A, as added [Pub. L. 114–255, div. A, title III, § 3032](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1100](https://www.govinfo.gov/link/statute/130/1100); amended [Pub. L. 115–52, title VI, § 610(c)](https://www.govinfo.gov/link/plaw/115/public/52), Aug. 18, 2017, [131 Stat. 1053](https://www.govinfo.gov/link/statute/131/1053).)*

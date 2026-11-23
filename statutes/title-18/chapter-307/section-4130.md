@@ -3,9 +3,10 @@ title: "Section 4130 - Additional markets"
 usc_title: 18
 usc_section: "4130"
 chapter: 307
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 4130"
-generated_at: "2026-03-30T02:54:16.528Z"
+generated_at: "2026-11-23T21:25:44.242Z"
+status: "active"
 ---
 
 # § 4130. Additional markets
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:54:16.528Z"
   - **(1)** The term “office furniture” means any product or service offering intended to meet the furnishing needs of the workplace, including office, healthcare, educational, and hospitality environments.
   - **(2)** The term “public entity” means a State, a subdivision of a State, an Indian tribe, and an agency or governmental corporation or business of any of the foregoing.
   - **(3)** The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Northern Mariana Islands, and the United States Virgin Islands.
+
+In General
+
+Office Furniture
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 115–391, title VI, § 605(a)](https://www.govinfo.gov/link/plaw/115/public/391), Dec. 21, 2018, [132 Stat. 5242](https://www.govinfo.gov/link/statute/132/5242).)*

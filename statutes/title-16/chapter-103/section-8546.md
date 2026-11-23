@@ -3,9 +3,10 @@ title: "Section 8546 - Reviews for long-term permits"
 usc_title: 16
 usc_section: "8546"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8546"
-generated_at: "2026-03-30T02:54:23.088Z"
+generated_at: "2026-11-23T21:25:52.083Z"
+status: "active"
 ---
 
 # § 8546. Reviews for long-term permits
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:23.088Z"
   - **(3)** For the purposes of determining the number of visitor-use days a recreation service provider used in a specified year under paragraph (2)(A), the Secretary of Agriculture, acting through the Chief of the Forest Service, and the Secretary, as applicable, shall consider an unused visitor-use day that has been surrendered under section 8542(c)(1)(B) of this title as—
     - **(A)** 1/2 of a visitor-use day used; or
     - **(B)** 1 visitor-use day used, if the Secretary concerned determines the use of the allocated visitor-use day had been or will be prevented by a circumstance beyond the control of the recreation service provider.
+
+## Source Credit
+
+*([Pub. L. 118–234, title III, § 317](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2905](https://www.govinfo.gov/link/statute/138/2905).)*

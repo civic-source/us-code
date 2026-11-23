@@ -3,9 +3,10 @@ title: "Section 1007 - Representative payees"
 usc_title: 42
 usc_section: "1007"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1007"
-generated_at: "2026-03-30T02:56:10.899Z"
+generated_at: "2026-11-23T21:26:31.205Z"
+status: "active"
 ---
 
 # § 1007. Representative payees
@@ -119,3 +120,7 @@ generated_at: "2026-03-30T02:56:10.899Z"
 - **(l)**
   - **(1)** If the Commissioner of Social Security or a court of competent jurisdiction determines that a representative payee that is not a Federal, State, or local government agency has misused all or part of a qualified individual’s benefit that was paid to such representative payee under this section, the representative payee shall be liable for the amount misused, and such amount (to the extent not repaid by the representative payee) shall be treated as an overpayment of benefits under this subchapter to the representative payee for all purposes of this chapter and related laws pertaining to the recovery of such overpayments. Subject to paragraph (2), upon recovering all or any part of such amount, the Commissioner shall make payment of an amount equal to the recovered amount to such qualified individual or such qualified individual’s alternative representative payee.
   - **(2)** The total of the amount paid to such individual or such individual’s alternative representative payee under paragraph (1) and the amount paid under subsection (i) may not exceed the total benefit amount misused by the representative payee with respect to such individual.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title VIII, § 807, as added [Pub. L. 106–169, title II, § 251(a)](https://www.govinfo.gov/link/plaw/106/public/169), Dec. 14, 1999, [113 Stat. 1846](https://www.govinfo.gov/link/statute/113/1846); amended [Pub. L. 108–203, title I](https://www.govinfo.gov/link/plaw/108/public/203), §§ 101(b), 102(b)(2), 103(b), 105(b), 106(b), Mar. 2, 2004, [118 Stat. 495](https://www.govinfo.gov/link/statute/118/495), 499, 501, 504, 506; [Pub. L. 115–165, title I, § 102(b)](https://www.govinfo.gov/link/plaw/115/public/165), title II, §§ 202(b), 203(b), Apr. 13, 2018, [132 Stat. 1260](https://www.govinfo.gov/link/statute/132/1260), 1268, 1272.)*

@@ -3,9 +3,10 @@ title: "Section 6063 - Coordination of assistance program; implementation and re
 usc_title: 22
 usc_section: "6063"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6063"
-generated_at: "2026-03-30T02:55:05.424Z"
+generated_at: "2026-11-23T21:25:58.677Z"
+status: "active"
 ---
 
 # § 6063. Coordination of assistance program; implementation and reports to Congress; reprogramming
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.424Z"
   - **(3)** The President shall, upon determining that a democratically elected government in Cuba is in power, submit that determination to the appropriate congressional committees and shall, subject to an authorization of appropriations and subject to the availability of appropriations, commence the delivery and distribution of assistance to such democratically elected government under the plan developed under section 6062(b) of this title .
   - **(4)** Not later than 60 days after the end of each fiscal year, the President shall transmit to the appropriate congressional committees a report on the assistance provided under the plan developed under section 6062(b) of this title , including a description of each type of assistance, the amounts expended for such assistance, and a description of the assistance to be provided under the plan in the current fiscal year.
 - **(d)** Any changes in the assistance to be provided under the plan developed under section 6062(b) of this title may not be made unless the President notifies the appropriate congressional committees at least 15 days in advance in accordance with the procedures applicable to reprogramming notifications under section 2394–1 of this title .
+
+## Source Credit
+
+*([Pub. L. 104–114, title II, § 203](https://www.govinfo.gov/link/plaw/104/public/114), Mar. 12, 1996, [110 Stat. 809](https://www.govinfo.gov/link/statute/110/809).)*

@@ -3,9 +3,10 @@ title: "Section 3504 - Limitations on Federal expenditures affecting the System"
 usc_title: 16
 usc_section: "3504"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3504"
-generated_at: "2026-03-30T02:54:23.017Z"
+generated_at: "2026-11-23T21:25:51.976Z"
+status: "active"
 ---
 
 # § 3504. Limitations on Federal expenditures affecting the System
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:23.017Z"
   - **(1)** in any case with respect to which specific appropriations are required, no money for construction or purchase purposes was appropriated before the date on which the relevant System unit or portion of the System unit was included within the System under this chapter or the Coastal Barrier Improvement Act of 1990; or
   - **(2)** no legally binding commitment for the expenditure or financial assistance was made before such date.
 - **(c)** Not later than 2 years after November 25, 2024 , the Secretary, in consultation with the Secretary of Housing and Urban Development, shall issue regulations requiring the owner or lessor of real property located in a community affected by this chapter, as determined by the Director of the United States Fish and Wildlife Service, to disclose to a prospective buyer or lessee such location of such real property.
+
+## Source Credit
+
+*([Pub. L. 97–348, § 5](https://www.govinfo.gov/link/plaw/97/public/348), Oct. 18, 1982, [96 Stat. 1656](https://www.govinfo.gov/link/statute/96/1656); [Pub. L. 101–591](https://www.govinfo.gov/link/plaw/101/public/591), §§ 2(b)(2), 5(c), Nov. 16, 1990, [104 Stat. 2931](https://www.govinfo.gov/link/statute/104/2931), 2936; [Pub. L. 118–117, title I, § 103](https://www.govinfo.gov/link/plaw/118/public/117), Nov. 25, 2024, [138 Stat. 1610](https://www.govinfo.gov/link/statute/138/1610).)*

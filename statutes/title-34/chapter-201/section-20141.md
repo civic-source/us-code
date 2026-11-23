@@ -3,9 +3,10 @@ title: "Section 20141 - Services to victims"
 usc_title: 34
 usc_section: "20141"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20141"
-generated_at: "2026-03-30T02:55:33.295Z"
+generated_at: "2026-11-23T21:26:09.776Z"
+status: "active"
 ---
 
 # § 20141. Services to victims
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:55:33.295Z"
       - **(v)** a sibling;
       - **(vi)** another family member; or
       - **(vii)** another person designated by the court.
+
+## Source Credit
+
+*([Pub. L. 101–647, title V, § 503](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4820](https://www.govinfo.gov/link/statute/104/4820); [Pub. L. 103–322, title IV, § 40503(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1946](https://www.govinfo.gov/link/statute/108/1946).)*

@@ -3,9 +3,10 @@ title: "Section 45Q - Credit for carbon oxide sequestration"
 usc_title: 26
 usc_section: "45Q"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 45Q"
-generated_at: "2026-03-30T02:55:27.603Z"
+generated_at: "2026-11-23T21:26:05.938Z"
+status: "active"
 ---
 
 # § 45Q. Credit for carbon oxide sequestration
@@ -148,3 +149,19 @@ generated_at: "2026-03-30T02:55:27.603Z"
   - **(1)** ensure proper allocation under subsection (a) for qualified carbon oxide captured by a taxpayer during the taxable year ending after the date of the enactment of the Bipartisan Budget Act of 2018,
   - **(2)** determine whether a facility satisfies the requirements under subsection (d)(1) during such taxable year, and
   - **(3)** for purposes of subsection (d)(2)(B)(ii), adjust the baseline carbon oxide production with respect to any applicable electric generating unit at any electricity generating facility if, after the date on which the carbon capture equipment is placed in service, modifications which are chargeable to capital account are made to such unit which result in a significant increase or decrease in carbon oxide production.
+
+Restrictions relating to prohibited foreign entities
+
+Parity for different uses and utilizations of qualified carbon oxide
+
+In general
+
+Modification of carbon oxide capture requirements
+
+Application of section for certain carbon capture equipment
+
+Election
+
+## Source Credit
+
+*(Added [Pub. L. 110–343, div. B, title I, § 115(a)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3829](https://www.govinfo.gov/link/statute/122/3829); amended [Pub. L. 111–5, div. B, title I, § 1131(a)](https://www.govinfo.gov/link/plaw/111/public/5), (b), Feb. 17, 2009, [123 Stat. 325](https://www.govinfo.gov/link/statute/123/325); [Pub. L. 113–295, div. A, title II, § 209(j)(1)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4030](https://www.govinfo.gov/link/statute/128/4030); [Pub. L. 115–123, div. D, title II, § 41119(a)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 162](https://www.govinfo.gov/link/statute/132/162); [Pub. L. 116–260, div. EE, title I, § 121](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3051](https://www.govinfo.gov/link/statute/134/3051); [Pub. L. 117–58, div. H, title IV, § 80402(e)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1334](https://www.govinfo.gov/link/statute/135/1334); [Pub. L. 117–169, title I, § 13104(a)(1)](https://www.govinfo.gov/link/plaw/117/public/169), (2)(A), (b)–(h), Aug. 16, 2022, [136 Stat. 1924–1928](https://www.govinfo.gov/link/statute/136/1924); [Pub. L. 119–21, title VII, § 70522(a)](https://www.govinfo.gov/link/plaw/119/public/21), (b), July 4, 2025, [139 Stat. 279](https://www.govinfo.gov/link/statute/139/279).)*

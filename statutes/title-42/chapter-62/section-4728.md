@@ -3,9 +3,10 @@ title: "Section 4728 - Transfer of functions"
 usc_title: 42
 usc_section: "4728"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4728"
-generated_at: "2026-03-30T02:56:11.208Z"
+generated_at: "2026-11-23T21:26:32.686Z"
+status: "active"
 ---
 
 # § 4728. Transfer of functions
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:56:11.208Z"
   - **(2)** requirements that generally prohibit discrimination in employment or require equal employment opportunity;
   - **(3)** sections 3141–3144, 3146, and 3147 of title 40; and
   - **(4)** chapter 15 of title 5, relating to political activities of certain State and local employees.
+
+## Source Credit
+
+*([Pub. L. 91–648, title II, § 208](https://www.govinfo.gov/link/plaw/91/public/648), Jan. 5, 1971, [84 Stat. 1915](https://www.govinfo.gov/link/statute/84/1915); [Pub. L. 95–454, § 602(a)(2)](https://www.govinfo.gov/link/plaw/95/public/454), (3), Oct. 13, 1978, [92 Stat. 1188](https://www.govinfo.gov/link/statute/92/1188), 1189; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783](https://www.govinfo.gov/link/statute/92/3783); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695); [Pub. L. 110–234, title IV, § 4002(b)(1)(C)](https://www.govinfo.gov/link/plaw/110/public/234), (2)(CC), May 22, 2008, [122 Stat. 1096](https://www.govinfo.gov/link/statute/122/1096), 1097; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4002(b)(1)(C), (2)(CC), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1859.)*

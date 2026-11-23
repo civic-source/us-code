@@ -3,9 +3,10 @@ title: "Section 20923 - Megan Nicole Kanka and Alexandra Nicole Zapp Community N
 usc_title: 34
 usc_section: "20923"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20923"
-generated_at: "2026-03-30T02:55:33.300Z"
+generated_at: "2026-11-23T21:26:09.798Z"
+status: "active"
 ---
 
 # § 20923. Megan Nicole Kanka and Alexandra Nicole Zapp Community Notification Program
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:33.300Z"
   - **(6)** Volunteer organizations in which contact with minors or other vulnerable individuals might occur.
   - **(7)** Any organization, company, or individual who requests such notification pursuant to procedures established by the jurisdiction.
 - **(c)** Notwithstanding subsection (b), an organization or individual described in subsection (b)(6) or (b)(7) may opt to receive the notification described in that subsection no less frequently than once every five business days.
+
+## Source Credit
+
+*([Pub. L. 109–248, title I, § 121](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 597](https://www.govinfo.gov/link/statute/120/597).)*

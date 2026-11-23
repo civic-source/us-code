@@ -3,9 +3,10 @@ title: "Section 10631 - Adult and juvenile offender State and local reentry demo
 usc_title: 34
 usc_section: "10631"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10631"
-generated_at: "2026-03-30T02:55:33.273Z"
+generated_at: "2026-11-23T21:26:09.679Z"
+status: "active"
 ---
 
 # § 10631. Adult and juvenile offender State and local reentry demonstration projects
@@ -180,3 +181,7 @@ generated_at: "2026-03-30T02:55:33.273Z"
     - **(E)** batterer intervention programs; and
     - **(F)** other appropriate social services; and
   - **(6)** establishes and implements graduated sanctions and incentives.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2976](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 107–273, div. B, title II, § 2421(a)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1801](https://www.govinfo.gov/link/statute/116/1801); amended [Pub. L. 110–199, title I, § 101](https://www.govinfo.gov/link/plaw/110/public/199), Apr. 9, 2008, [122 Stat. 661](https://www.govinfo.gov/link/statute/122/661); [Pub. L. 114–255, div. B, title XIV](https://www.govinfo.gov/link/plaw/114/public/255), §§ 14006, 14009(a), Dec. 13, 2016, [130 Stat. 1296](https://www.govinfo.gov/link/statute/130/1296), 1297; [Pub. L. 115–391, title V, § 502(a)](https://www.govinfo.gov/link/plaw/115/public/391), Dec. 21, 2018, [132 Stat. 5222](https://www.govinfo.gov/link/statute/132/5222).)*

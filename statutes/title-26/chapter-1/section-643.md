@@ -3,9 +3,10 @@ title: "Section 643 - Definitions applicable to subparts A, B, C, and D"
 usc_title: 26
 usc_section: "643"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 643"
-generated_at: "2026-03-30T02:55:27.722Z"
+generated_at: "2026-11-23T21:26:06.355Z"
+status: "active"
 ---
 
 # § 643. Definitions applicable to subparts A, B, C, and D
@@ -69,3 +70,19 @@ generated_at: "2026-03-30T02:55:27.722Z"
     - **(D)** Any trust which is treated under this subsection as making a distribution shall be treated as not described in section 651.
     - **(E)** In the case of the use of any trust property other than a loan of cash or marketable securities, paragraph (1) shall not apply to the extent that the trust is paid the fair market value of such use within a reasonable period of time of such use.
   - **(3)** If any loan (or use of property) is taken into account under paragraph (1), any subsequent transaction between the trust and the original borrower regarding the principal of the loan (by way of complete or partial repayment, satisfaction, cancellation, discharge, or otherwise) or the return of such property shall be disregarded for purposes of this title.
+
+In general
+
+Exception for certain trusts
+
+Abusive transactions
+
+Loans from trusts
+
+In general
+
+Time for making election
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 217; [Pub. L. 87–834, § 7(a)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 985](https://www.govinfo.gov/link/statute/76/985); [Pub. L. 94–455, title X, § 1013(c)](https://www.govinfo.gov/link/plaw/94/public/455), (e)(2), Oct. 4, 1976, [90 Stat. 1615](https://www.govinfo.gov/link/statute/90/1615), 1616; [Pub. L. 96–223, title IV, § 404(b)(4)](https://www.govinfo.gov/link/plaw/96/public/223), Apr. 2, 1980, [94 Stat. 306](https://www.govinfo.gov/link/statute/94/306); [Pub. L. 97–34, title III, § 301(b)(4)](https://www.govinfo.gov/link/plaw/97/public/34), (6)(B), Aug. 13, 1981, [95 Stat. 270](https://www.govinfo.gov/link/statute/95/270); [Pub. L. 97–248, title III](https://www.govinfo.gov/link/plaw/97/public/248), §§ 302(b)(1), 308(a), Sept. 3, 1982, [96 Stat. 586](https://www.govinfo.gov/link/statute/96/586), 591; [Pub. L. 97–448, title I, § 103(a)(3)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2375](https://www.govinfo.gov/link/statute/96/2375); [Pub. L. 98–67, title I, § 102(a)](https://www.govinfo.gov/link/plaw/98/public/67), Aug. 5, 1983, [97 Stat. 369](https://www.govinfo.gov/link/statute/97/369); [Pub. L. 98–369, div. A, title I](https://www.govinfo.gov/link/plaw/98/public/369), §§ 81(a), 82(a), title VII, § 722(h)(3), July 18, 1984, [98 Stat. 597](https://www.govinfo.gov/link/statute/98/597), 598, 975; [Pub. L. 99–514, title III, § 301(b)(7)](https://www.govinfo.gov/link/plaw/99/public/514), title VI, § 612(b)(4), title XIV, § 1404(b), title XVIII, § 1806(a), (c), Oct. 22, 1986, [100 Stat. 2217](https://www.govinfo.gov/link/statute/100/2217), 2250, 2713, 2810, 2811; [Pub. L. 100–647, title I, § 1014(d)(3)](https://www.govinfo.gov/link/plaw/100/public/647), (4), Nov. 10, 1988, [102 Stat. 3561](https://www.govinfo.gov/link/statute/102/3561); [Pub. L. 101–239, title VII, § 7811(b)](https://www.govinfo.gov/link/plaw/101/public/239), (f)(1), Dec. 19, 1989, [103 Stat. 2406](https://www.govinfo.gov/link/statute/103/2406), 2409; [Pub. L. 103–66, title XIII, § 13113(d)(3)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 430](https://www.govinfo.gov/link/statute/107/430); [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1904(c)(1), 1906(b), (c)(1), Aug. 20, 1996, [110 Stat. 1912](https://www.govinfo.gov/link/statute/110/1912), 1915; [Pub. L. 111–147, title V, § 533(a)](https://www.govinfo.gov/link/plaw/111/public/147), (b), (d), Mar. 18, 2010, [124 Stat. 114](https://www.govinfo.gov/link/statute/124/114).)*

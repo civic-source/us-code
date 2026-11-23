@@ -3,9 +3,10 @@ title: "Section 2012 - Credit for gift tax"
 usc_title: 26
 usc_section: "2012"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 2012"
-generated_at: "2026-03-30T02:55:27.778Z"
+generated_at: "2026-11-23T21:26:06.523Z"
+status: "active"
 ---
 
 # § 2012. Credit for gift tax
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:27.778Z"
   - **(1)** For purposes of subsection (a), the amount of tax paid on a gift under chapter 12, or under corresponding provisions of prior laws, with respect to any gift shall be an amount which bears the same ratio to the total tax paid for the calendar quarter (or calendar year if the gift was made before January 1, 1971 ) in which the gift was made as the amount of such gift bears to the total amount of taxable gifts (computed without deduction of the specific exemption) for such quarter or year.
   - **(2)** For purposes of paragraph (1), the “amount of such gift” shall be the amount included with respect to such gift in determining (for the purposes of section 2503(a), or of corresponding provisions of prior laws) the total amount of gifts made during such quarter or year, reduced by the amount of any deduction allowed with respect to such gift under section 2522, or under corresponding provisions of prior laws (relating to charitable deduction), or under section 2523 (relating to marital deduction).
 - **(e)** No credit shall be allowed under this section with respect to the amount of any tax paid under chapter 12 on any gift made after December 31, 1976 .
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 375; [Pub. L. 91–614, title I, § 102(d)(2)](https://www.govinfo.gov/link/plaw/91/public/614), Dec. 31, 1970, [84 Stat. 1841](https://www.govinfo.gov/link/statute/84/1841); [Pub. L. 94–455, title XIX, § 1902(a)(1)](https://www.govinfo.gov/link/plaw/94/public/455), title XX, § 2001(a)(3), (c)(1)(B), Oct. 4, 1976, [90 Stat. 1804](https://www.govinfo.gov/link/statute/90/1804), 1848, 1850; [Pub. L. 97–34, title IV, § 403(a)(2)(A)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 301](https://www.govinfo.gov/link/statute/95/301); [Pub. L. 107–16, title V, § 532(c)(1)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 73](https://www.govinfo.gov/link/statute/115/73).)*

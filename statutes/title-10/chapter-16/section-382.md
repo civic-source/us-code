@@ -3,9 +3,10 @@ title: "Section 382 - Execution and administration of programs and activities"
 usc_title: 10
 usc_section: "382"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 382"
-generated_at: "2026-03-30T02:53:38.054Z"
+generated_at: "2026-11-23T21:25:32.258Z"
+status: "active"
 ---
 
 # § 382. Execution and administration of programs and activities
@@ -17,3 +18,21 @@ generated_at: "2026-03-30T02:53:38.054Z"
 - **(c)**
   - **(1)** Funds available to the Defense Security Cooperation Agency, and other funds available to the Department of Defense for security cooperation programs and activities of the Department of Defense, may be used to implement security cooperation programs and activities of the Department of Defense authorized by this chapter.
   - **(2)** Funds necessary for implementing security cooperation programs and activities of the Department of Defense under this chapter for a fiscal year shall be identified, with appropriate justification, in the consolidated budget for such fiscal year required by section 381 of this title .
+
+Policy Oversight and Resource Allocation
+
+Execution and Administration of Certain Programs and Activities.—
+
+In general
+
+Designation of responsibility
+
+Availability of Funds.—
+
+In general
+
+Budget justification
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title XII, § 1241(m)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2509](https://www.govinfo.gov/link/statute/130/2509).)*

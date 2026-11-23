@@ -3,9 +3,10 @@ title: "Section 2267 - New York Bight study"
 usc_title: 33
 usc_section: "2267"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2267"
-generated_at: "2026-03-30T02:55:41.117Z"
+generated_at: "2026-11-23T21:26:11.431Z"
+status: "active"
 ---
 
 # § 2267. New York Bight study
@@ -14,3 +15,23 @@ generated_at: "2026-03-30T02:55:41.117Z"
 - **(b)** In addition, the Secretary shall study a proper physical hydraulic model of the New York Bight and for such an offshore model to be tied into the existing inshore physical hydraulic model of the Port of New York and New Jersey operated by the United States Army Corps of Engineers.
 - **(c)** The Secretary shall coordinate fully with the Administrator of the Environmental Protection Agency in carrying out the study described in this section and shall report any findings and recommendations to Congress. The Secretary and the Administrator shall also consider the views of other appropriate Federal, State, and local agencies, academic institutions, and members of the public who are concerned about water quality in the New York Bight.
 - **(d)** There is authorized to be appropriated not more than $1,000,000 per fiscal year for each of fiscal years 1987, 1988, 1989, 1990, and 1991.
+
+In General
+
+Hydraulic Model
+
+Purpose
+
+Coordination With EPA; Reports
+
+Remediation Techniques.—
+
+In general
+
+Report
+
+Funding
+
+## Source Credit
+
+*([Pub. L. 99–662, title VII, § 728](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4164](https://www.govinfo.gov/link/statute/100/4164).)*

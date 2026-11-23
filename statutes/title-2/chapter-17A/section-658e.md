@@ -3,9 +3,10 @@ title: "Section 658e - Provisions relating to House of Representatives"
 usc_title: 2
 usc_section: "658e"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 658e"
-generated_at: "2026-03-30T02:53:04.801Z"
+generated_at: "2026-11-23T21:25:21.182Z"
+status: "active"
 ---
 
 # § 658e. Provisions relating to House of Representatives
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:04.801Z"
   - **(3)** As disposition of points of order under section 658d of this title or subsection (a) of this section, the Chair shall put the question of consideration with respect to the proposition that is the subject of the points of order.
   - **(4)** A question of consideration under this section shall be debatable for 10 minutes by each Member initiating a point of order and for 10 minutes by an opponent on each point of order, but shall otherwise be decided without intervening motion except one that the House adjourn or that the Committee of the Whole rise, as the case may be.
   - **(5)** The disposition of the question of consideration under this subsection with respect to a bill or joint resolution shall be considered also to determine the question of consideration under this subsection with respect to an amendment made in order as original text.
+
+## Source Credit
+
+*([Pub. L. 93–344, title IV, § 426](https://www.govinfo.gov/link/plaw/93/public/344), as added [Pub. L. 104–4, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/104/public/4), Mar. 22, 1995, [109 Stat. 59](https://www.govinfo.gov/link/statute/109/59).)*

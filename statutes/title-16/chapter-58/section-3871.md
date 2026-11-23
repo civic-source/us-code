@@ -3,9 +3,10 @@ title: "Section 3871 - Establishment and purposes"
 usc_title: 16
 usc_section: "3871"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3871"
-generated_at: "2026-03-30T02:54:23.037Z"
+generated_at: "2026-11-23T21:25:52.004Z"
+status: "active"
 ---
 
 # § 3871. Establishment and purposes
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:23.037Z"
     - **(B)** implementing projects that will result in the adoption, installation, and maintenance of eligible activities that affect multiple agricultural or nonindustrial private forest operations on a local, regional, State, or multistate basis.
   - **(4)** To encourage the flexible and streamlined delivery of conservation assistance to producers through partnership agreements.
   - **(5)** To engage producers and eligible partners in conservation projects to achieve greater conservation outcomes and benefits for producers than would otherwise be achieved.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1271](https://www.govinfo.gov/link/plaw/99/public/198), as added [Pub. L. 113–79, title II, § 2401](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 744](https://www.govinfo.gov/link/statute/128/744); amended [Pub. L. 115–334, title II, § 2701](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4592](https://www.govinfo.gov/link/statute/132/4592).)*

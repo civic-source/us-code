@@ -3,9 +3,10 @@ title: "Section 17214 - Marine energy research, development, and demonstration"
 usc_title: 42
 usc_section: "17214"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17214"
-generated_at: "2026-03-30T02:56:11.501Z"
+generated_at: "2026-11-23T21:26:33.775Z"
+status: "active"
 ---
 
 # § 17214. Marine energy research, development, and demonstration
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:56:11.501Z"
     - **(B)** associated maritime energy infrastructure, including infrastructure that serves ports, to improve system resilience and disaster recovery; and
     - **(C)** enabling scientific missions at sea and in extreme environments, including the Arctic.
   - **(2)** Not later than 1 year after December 27, 2020 , the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report that describes the results of the study conducted under paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 110–140, title VI, § 635](https://www.govinfo.gov/link/plaw/110/public/140), as added [Pub. L. 116–260, div. Z, title III, § 3001(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2482](https://www.govinfo.gov/link/statute/134/2482).)*

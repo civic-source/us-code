@@ -3,9 +3,10 @@ title: "Section 7861 - Waivers of statutory and regulatory requirements"
 usc_title: 20
 usc_section: "7861"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7861"
-generated_at: "2026-03-30T02:54:48.219Z"
+generated_at: "2026-11-23T21:25:47.616Z"
+status: "active"
 ---
 
 # § 7861. Waivers of statutory and regulatory requirements
@@ -91,3 +92,47 @@ generated_at: "2026-03-30T02:54:48.219Z"
     - **(A)** presents a rationale and supporting information that clearly demonstrates that the waiver is not contributing to the progress of schools described in subsection (e)(1); or
     - **(B)** determines that the waiver is no longer necessary to achieve its original purposes.
 - **(g)** A notice of the Secretary’s decision to grant each waiver under subsection (a) shall be published in the Federal Register and the Secretary shall provide for the dissemination of the notice to State educational agencies, interested parties, including educators, parents, students, advocacy and civil rights organizations, and the public.
+
+In General
+
+Applicable Provisions of Law.—
+
+Streamlined waivers
+
+State and locally-requested waivers
+
+Applicability to charter schools
+
+Limitation
+
+Accountability and improvement
+
+State and Local Requests for Waivers.—
+
+In general
+
+Requests submitted
+
+Secretary approval.—
+
+In general
+
+Exceptions
+
+Duration
+
+Reporting and Publication.—
+
+Public notice
+
+Notifying congress
+
+Publication
+
+Report
+
+Terms
+
+## Source Credit
+
+*([Pub. L. 89–10, title VIII, § 8401](https://www.govinfo.gov/link/plaw/89/public/10), formerly title IX, § 9401, as added [Pub. L. 107–110, title IX, § 901](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1972](https://www.govinfo.gov/link/statute/115/1972); renumbered title VIII, § 8401, and amended [Pub. L. 114–95, title VIII](https://www.govinfo.gov/link/plaw/114/public/95), §§ 8001(a)(4), 8013, Dec. 10, 2015, [129 Stat. 2088](https://www.govinfo.gov/link/statute/129/2088), 2089, 2103.)*

@@ -3,9 +3,10 @@ title: "Section 5721 - Yukon River Salmon Panel"
 usc_title: 16
 usc_section: "5721"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 5721"
-generated_at: "2026-03-30T02:54:23.054Z"
+generated_at: "2026-11-23T21:25:52.033Z"
+status: "active"
 ---
 
 # § 5721. Yukon River Salmon Panel
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:23.054Z"
 - **(d)** Panel members and alternate Panel members shall be eligible for reappointment.
 - **(e)** Decisions of the Panel shall be made by the consensus of the Panel members appointed under subparagraphs (B) and (C) of subsection (b)(1).
 - **(f)** In carrying out their functions, Panel members may consult with such other interested parties as they consider appropriate.
+
+## Source Credit
+
+*([Pub. L. 106–450, title II, § 202](https://www.govinfo.gov/link/plaw/106/public/450), Nov. 7, 2000, [114 Stat. 1941](https://www.govinfo.gov/link/statute/114/1941).)*

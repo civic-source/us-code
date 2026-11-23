@@ -3,9 +3,10 @@ title: "Section 607 - Labeling, marking, and container requirements"
 usc_title: 21
 usc_section: "607"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 607"
-generated_at: "2026-03-30T02:54:54.287Z"
+generated_at: "2026-11-23T21:25:56.209Z"
+status: "active"
 ---
 
 # § 607. Labeling, marking, and container requirements
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:54.287Z"
 - **(d)** No article subject to this subchapter shall be sold or offered for sale by any person, firm, or corporation, in commerce, under any name or other marking or labeling which is false or misleading, or in any container of a misleading form or size, but established trade names and other marking and labeling and containers which are not false or misleading and which are approved by the Secretary are permitted.
 - **(e)** If the Secretary has reason to believe that any marking or labeling or the size or form of any container in use or proposed for use with respect to any article subject to this subchapter is false or misleading in any particular, he may direct that such use be withheld unless the marking, labeling, or container is modified in such manner as he may prescribe so that it will not be false or misleading. If the person, firm, or corporation using or proposing to use the marking, labeling or container does not accept the determination of the Secretary, such person, firm, or corporation may request a hearing, but the use of the marking, labeling, or container shall, if the Secretary so directs, be withheld pending hearing and final determination by the Secretary. Any such determination by the Secretary shall be conclusive unless, within thirty days after receipt of notice of such final determination, the person, firm, or corporation adversely affected thereby appeals to the United States court of appeals for the circuit in which such person, firm, or corporation has its principal place of business or to the United States Court of Appeals for the District of Columbia Circuit. The provisions of section 194 of title 7 shall be applicable to appeals taken under this section.
 - **(f)** The Secretary, consistent with United States international obligations, shall establish standards for the labeling of sheep carcasses, parts of sheep carcasses, sheepmeat, and sheepmeat food products.
+
+## Source Credit
+
+*(Mar. 4, 1907, ch. 2907, title I, § 7, formerly 5th par., [34 Stat. 1262](https://www.govinfo.gov/link/statute/34/1262); renumbered § 7 and amended [Pub. L. 90–201](https://www.govinfo.gov/link/plaw/90/public/201), §§ 1, 3(a), 6, Dec. 15, 1967, [81 Stat. 584](https://www.govinfo.gov/link/statute/81/584), 588; [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695); [Pub. L. 104–127, title II, § 279](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 979](https://www.govinfo.gov/link/statute/110/979).)*

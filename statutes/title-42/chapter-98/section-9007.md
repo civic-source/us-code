@@ -3,9 +3,10 @@ title: "Section 9007 - Technical Panel of Energy Research Advisory Board"
 usc_title: 42
 usc_section: "9007"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9007"
-generated_at: "2026-03-30T02:56:11.349Z"
+generated_at: "2026-11-23T21:26:33.225Z"
+status: "active"
 ---
 
 # § 9007. Technical Panel of Energy Research Advisory Board
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.349Z"
 - **(f)** After consideration of the Technical Panel report, the Energy Research Advisory Board shall submit such report, together with any comments such Board deems appropriate, to the Secretary.
 - **(g)** The heads of the departments, agencies, and instrumentalities of the executive branch of the Federal Government shall cooperate with the Technical Panel in carrying out the requirements of this section and shall furnish to the Technical Panel such information as the Technical Panel deems necessary to carry out this section.
 - **(h)** The Secretary shall provide sufficient staff, funds, and other support as necessary to enable the Technical Panel to carry out the functions described in this section.
+
+## Source Credit
+
+*([Pub. L. 96–310, § 8](https://www.govinfo.gov/link/plaw/96/public/310), July 17, 1980, [94 Stat. 945](https://www.govinfo.gov/link/statute/94/945).)*

@@ -3,9 +3,10 @@ title: "Section 15202 - Medal of Valor Board"
 usc_title: 42
 usc_section: "15202"
 chapter: 145
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15202"
-generated_at: "2026-03-30T02:56:11.459Z"
+generated_at: "2026-11-23T21:26:33.666Z"
+status: "active"
 ---
 
 # § 15202. Medal of Valor Board
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.459Z"
   - **(2)** Witnesses requested to appear before the Board may be paid the same fees as are paid to witnesses under section 1821 of title 28 . The per diem and mileage allowances for witnesses shall be paid from funds appropriated to the Board.
 - **(e)** The Board may secure directly from any Federal department or agency such information as the Board considers necessary to carry out its duties. Upon the request of the Board, the head of such department or agency may furnish such information to the Board.
 - **(f)** The Board shall not disclose any information which may compromise an ongoing law enforcement investigation or is otherwise required by law to be kept confidential.
+
+## Source Credit
+
+*([Pub. L. 107–12, § 3](https://www.govinfo.gov/link/plaw/107/public/12), May 30, 2001, [115 Stat. 20](https://www.govinfo.gov/link/statute/115/20); [Pub. L. 109–162, title XI, § 1112](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3103](https://www.govinfo.gov/link/statute/119/3103).)*

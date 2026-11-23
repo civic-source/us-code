@@ -3,9 +3,10 @@ title: "Section 6175 - Accelerated schedule for defense environmental cleanup ac
 usc_title: 10
 usc_section: "6175"
 chapter: 604
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6175"
-generated_at: "2026-03-30T02:53:38.221Z"
+generated_at: "2026-11-23T21:25:32.819Z"
+status: "active"
 ---
 
 # § 6175. Accelerated schedule for defense environmental cleanup activities
@@ -18,3 +19,13 @@ generated_at: "2026-03-30T02:53:38.221Z"
   - **(4)** The risks that the site poses to local health and safety.
   - **(5)** The proximity of the site to populated areas.
 - **(c)** Nothing in this section may be construed to affect a specific statutory requirement for a specific defense environmental cleanup activity or project or to modify or otherwise affect applicable statutory or regulatory defense environmental cleanup requirements, including substantive standards intended to protect public health and the environment.
+
+Accelerated Cleanup
+
+Consideration of Factors
+
+Savings Provision
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1388](https://www.govinfo.gov/link/statute/139/1388).)*

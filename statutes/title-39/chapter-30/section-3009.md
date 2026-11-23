@@ -3,9 +3,10 @@ title: "Section 3009 - Mailing of unordered merchandise"
 usc_title: 39
 usc_section: "3009"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 3009"
-generated_at: "2026-03-30T02:55:43.692Z"
+generated_at: "2026-11-23T21:26:12.780Z"
+status: "active"
 ---
 
 # § 3009. Mailing of unordered merchandise
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:43.692Z"
 - **(b)** Any merchandise mailed in violation of subsection (a) of this section, or within the exceptions contained therein, may be treated as a gift by the recipient, who shall have the right to retain, use, discard, or dispose of it in any manner he sees fit without any obligation whatsoever to the sender. All such merchandise shall have attached to it a clear and conspicuous statement informing the recipient that he may treat the merchandise as a gift to him and has the right to retain, use, discard, or dispose of it in any manner he sees fit without any obligation whatsoever to the sender.
 - **(c)** No mailer of any merchandise mailed in violation of subsection (a) of this section, or within the exceptions contained therein, shall mail to any recipient of such merchandise a bill for such merchandise or any dunning communications.
 - **(d)** For the purposes of this section, “un­ordered merchandise” means merchandise mailed without the prior expressed request or consent of the recipient.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 749](https://www.govinfo.gov/link/statute/84/749).)*

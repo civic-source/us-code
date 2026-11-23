@@ -3,9 +3,10 @@ title: "Section 4261 - Statement of policy on international cooperation to comba
 usc_title: 33
 usc_section: "4261"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 4261"
-generated_at: "2026-03-30T02:55:41.147Z"
+generated_at: "2026-11-23T21:26:11.497Z"
+status: "active"
 ---
 
 # § 4261. Statement of policy on international cooperation to combat marine debris
@@ -30,3 +31,7 @@ It is the policy of the United States to partner, consult, and coordinate with f
     - **(B)** to promote consumer education, awareness, and outreach to prevent marine debris;
     - **(C)** to reduce marine debris by improving advance planning for marine debris events and responses to such events; and
     - **(D)** to share best practices in post-consumer materials management systems to prevent the entry of plastic waste into the environment.
+
+## Source Credit
+
+*([Pub. L. 116–224, title II, § 201](https://www.govinfo.gov/link/plaw/116/public/224), Dec. 18, 2020, [134 Stat. 1086](https://www.govinfo.gov/link/statute/134/1086).)*

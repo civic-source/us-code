@@ -3,9 +3,10 @@ title: "Section 1680l - Shared services for long-term care"
 usc_title: 25
 usc_section: "1680l"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1680l"
-generated_at: "2026-03-30T02:54:52.828Z"
+generated_at: "2026-11-23T21:25:54.636Z"
+status: "active"
 ---
 
 # § 1680l. Shared services for long-term care
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:52.828Z"
 - **(c)** Any nursing facility provided for under this section shall meet the requirements for nursing facilities under section 1396r of title 42 .
 - **(d)** The Secretary shall provide such technical and other assistance as may be necessary to enable applicants to comply with this section.
 - **(e)** The Secretary shall encourage the use of existing facilities that are underused, or allow the use of swing beds, for long-term or similar care.
+
+## Source Credit
+
+*([Pub. L. 94–437, title VIII, § 822](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 102–573, title VIII, § 810](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4588](https://www.govinfo.gov/link/statute/106/4588); amended [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

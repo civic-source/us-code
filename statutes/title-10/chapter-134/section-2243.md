@@ -3,9 +3,10 @@ title: "Section 2243 - Authority to use appropriated funds to support student me
 usc_title: 10
 usc_section: "2243"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2243"
-generated_at: "2026-03-30T02:53:38.151Z"
+generated_at: "2026-11-23T21:25:32.587Z"
+status: "active"
 ---
 
 # § 2243. Authority to use appropriated funds to support student meal programs in overseas defense dependents’ schools
@@ -17,3 +18,17 @@ generated_at: "2026-03-30T02:53:38.151Z"
 - **(e)** In this section, the term “overseas defense dependents’ school” means the following:
   - **(1)** A school established as part of the defense dependents’ education system provided for under the Defense Dependents’ Education Act of 1978 ( 20 U.S.C. 921 et seq.).
   - **(2)** An elementary or secondary school established pursuant to section 2164 of this title that is located in a territory, commonwealth, or possession of the United States.
+
+Authority
+
+Limitation
+
+Determining Average Price
+
+Overseas Meal Program Defined
+
+Overseas Defense Dependents’ School Defined
+
+## Source Credit
+
+*(Added [Pub. L. 101–189, div. A, title III, § 326(a)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1415](https://www.govinfo.gov/link/statute/103/1415); amended [Pub. L. 106–78, title VII, § 752(b)(7)](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1169](https://www.govinfo.gov/link/statute/113/1169); [Pub. L. 114–92, div. A, title V, § 573(a)](https://www.govinfo.gov/link/plaw/114/public/92), (b)(1), Nov. 25, 2015, [129 Stat. 830](https://www.govinfo.gov/link/statute/129/830), 831.)*

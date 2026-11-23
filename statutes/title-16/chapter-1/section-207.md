@@ -3,12 +3,17 @@ title: "Section 207 - Exchange of certain lands; adjustment of boundary"
 usc_title: 16
 usc_section: "207"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 207"
-generated_at: "2026-03-30T02:54:22.741Z"
+generated_at: "2026-11-23T21:25:51.391Z"
+status: "active"
 ---
 
 # § 207. Exchange of certain lands; adjustment of boundary
 
 The Secretary of the Interior is authorized to accept on behalf of the United States, for inclusion in the Lassen Volcanic National Park, fee simple title to the tract of land containing ten acres, now adjoining said park, and described as the west half west half northwest quarter northeast quarter section 30, township 30 north, range 6 east, Mount Diablo base and meridian, and in exchange therefor is authorized and empowered to patent to the owner of said land ten acres of land now within said park and described as the southwest quarter northeast quarter northeast quarter section 30, township 30 north, range 6 east, Mount Diablo base and meridian: Provided , That the land acquired by the United States under this section and section 207a of this title shall, upon acceptance of title, become and be a part of the Lassen Volcanic National Park and subject to all laws and regulations relating to the lands therein, and the land exchanged therefor shall, upon issuance of patent, be excluded from the park.
 
+
+## Source Credit
+
+*(Apr. 19, 1930, ch. 191, § 1, [46 Stat. 222](https://www.govinfo.gov/link/statute/46/222).)*

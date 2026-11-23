@@ -3,9 +3,10 @@ title: "Section 2514 - Expansion of the coverage of the Agreement"
 usc_title: 19
 usc_section: "2514"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2514"
-generated_at: "2026-03-30T02:54:24.679Z"
+generated_at: "2026-11-23T21:25:42.815Z"
+status: "active"
 ---
 
 # § 2514. Expansion of the coverage of the Agreement
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:24.679Z"
   - **(2)** Taking into account the factors required to be analyzed under section 2512(c) of this title , the President may recommend to the Congress legislation (with respect to entities of the Government which are not covered by the Agreement) which may prohibit such entities from purchasing products of such countries.
   - **(3)** Each annual report of the President under section 163(a) of the Trade Act of 1974 [ 19 U.S.C. 2213(a) ] made after July 26, 1979 shall report the actions, if any, the President deemed appropriate to establish reciprocity in appropriate product sectors with major industrial countries in the area of government procurement.
 - **(e)** Before exercising the waiver authority in section 2511 of this title for procurement not covered by the Agreement on the date it enters into force with respect to the United States, the President shall follow the consultation provisions of section 135 [ 19 U.S.C. 2155 ] and chapter 6 of title I of the Trade Act of 1974 [ 19 U.S.C. 2211 et seq.] for private sector and congressional consultations.
+
+## Source Credit
+
+*([Pub. L. 96–39, title III, § 304](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 238](https://www.govinfo.gov/link/statute/93/238); [Pub. L. 103–465, title III, § 342(b)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4953](https://www.govinfo.gov/link/statute/108/4953); [Pub. L. 104–295, § 20(c)(11)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3528](https://www.govinfo.gov/link/statute/110/3528).)*

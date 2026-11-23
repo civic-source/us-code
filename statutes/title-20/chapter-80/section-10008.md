@@ -3,9 +3,10 @@ title: "Section 10008 - State reports"
 usc_title: 20
 usc_section: "10008"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 10008"
-generated_at: "2026-03-30T02:54:48.234Z"
+generated_at: "2026-11-23T21:25:47.686Z"
+status: "active"
 ---
 
 # § 10008. State reports
@@ -20,3 +21,7 @@ For each year of the program under this chapter, a State receiving funds under t
   - **(6)** the tuition and fee increases for in-State students imposed by public institutions of higher education in the State during the period of availability of funds under this chapter, and a description of any actions taken by the State to limit those increases;
   - **(7)** the extent to which public institutions of higher education maintained, increased, or decreased enrollment of in-State students, including students eligible for Pell Grants or other need-based financial assistance; and
   - **(8)** a description of each modernization, renovation and repair project funded, which shall include the amounts awarded and project costs.
+
+## Source Credit
+
+*([Pub. L. 111–5, div. A, title XIV, § 14008](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 285](https://www.govinfo.gov/link/statute/123/285).)*

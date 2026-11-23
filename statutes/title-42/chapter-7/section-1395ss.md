@@ -3,9 +3,10 @@ title: "Section 1395ss - Certification of medicare supplemental health insurance
 usc_title: 42
 usc_section: "1395ss"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1395ss"
-generated_at: "2026-03-30T02:56:11.011Z"
+generated_at: "2026-11-23T21:26:31.682Z"
+status: "active"
 ---
 
 # § 1395ss. Certification of medicare supplemental health insurance policies
@@ -476,3 +477,85 @@ generated_at: "2026-03-30T02:56:11.011Z"
   - **(3)** In the case of a State described in subsection (p)(6), nothing in this section shall be construed as preventing the State from modifying its alternative simplification program under such subsection so as to eliminate the coverage of the part B deductible for any medical supplemental policy sold or issued under such program to a newly eligible Medicare beneficiary on or after January 1, 2020 .
   - **(4)** In the case of a newly eligible Medicare beneficiary, except as the Secretary may otherwise provide, any reference in this section to a medicare supplemental policy which has a benefit package classified as “C” or “F” shall be deemed, as of January 1, 2020 , to be a reference to a medicare supplemental policy which has a benefit package classified as “D” or “G”, respectively.
   - **(5)** The penalties described in clause (ii) of subsection (d)(3)(A) shall apply with respect to a violation of paragraph (1) in the same manner as it applies to a violation of clause (i) of such subsection.
+
+Rule of construction
+
+Guaranteed issue
+
+Limit on preexisting condition exclusions
+
+Conforming amendment
+
+In general
+
+Transition
+
+“The amendments made by this section [amending this section and sections 1320c–3, 1395b–2, and 1395b–4 of this title, repealing section 1395zz of this title , and enacting and amending provisions set out as notes below] shall be effective as if included in the enactment of OBRA–1990 [ Pub. L. 101–508 ]; except that—
+
+In general
+
+Prohibition on state requirement
+
+In general
+
+Implementation dates.—
+
+In general
+
+Extension of effective date for state law amendment
+
+Transition dates
+
+In general
+
+Issues to be studied
+
+Report
+
+In general
+
+standards
+
+Secretary standards
+
+Date specified.—
+
+In general
+
+Additional legislative action required
+
+In general
+
+standards
+
+Secretary standards
+
+Date specified.—
+
+In general
+
+Additional legislative action required
+
+No penalties
+
+Limitation on legal action
+
+Disclosure condition
+
+Transition period
+
+In general
+
+standards
+
+Secretary standards
+
+Date specified.—
+
+In general
+
+Additional legislative action required
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1882, as added [Pub. L. 96–265, title V, § 507(a)](https://www.govinfo.gov/link/plaw/96/public/265), June 9, 1980, [94 Stat. 476](https://www.govinfo.gov/link/statute/94/476); amended H. Res. 549, Mar. 25, 1980; [Pub. L. 100–93, § 13](https://www.govinfo.gov/link/plaw/100/public/93), Aug. 18, 1987, [101 Stat. 697](https://www.govinfo.gov/link/statute/101/697); [Pub. L. 100–203, title IV, § 4081(b)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–127](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–360, title II, § 221(a)](https://www.govinfo.gov/link/plaw/100/public/360) –(f), title IV, §§ 411(i)(1)(B), (C), 428(b), July 1, 1988, [102 Stat. 742–746](https://www.govinfo.gov/link/statute/102/742), 788, 817; [Pub. L. 101–234, title II, § 203(a)(1)](https://www.govinfo.gov/link/plaw/101/public/234), Dec. 13, 1989, [103 Stat. 1982](https://www.govinfo.gov/link/statute/103/1982); [Pub. L. 101–508, title IV](https://www.govinfo.gov/link/plaw/101/public/508), §§ 4207(k)(1), formerly 4027(k)(1), 4351, formerly 4351(a), 4352, 4353(a)–(d)(1), 4354(a), (b), 4355(a)–(c), 4356(a), 4357(a), 4358(a), (b)(1), (2), Nov. 5, 1990, [104 Stat. 1388–124](https://www.govinfo.gov/link/statute/104/1388), 1388–125, 1388–129, 1388–130, 1388–132, 1388–134 to 1388–137; [Pub. L. 103–432, title I](https://www.govinfo.gov/link/plaw/103/public/432), §§ 160(d)(4), 171(a)–(d)(3)(B), (4), (e)(1), (2), (f)(1), (g), (h)(1), (j)(2), (k), Oct. 31, 1994, [108 Stat. 4444–4451](https://www.govinfo.gov/link/statute/108/4444); [Pub. L. 104–191, title II, § 271(a)](https://www.govinfo.gov/link/plaw/104/public/191), (b), Aug. 21, 1996, [110 Stat. 2034–2036](https://www.govinfo.gov/link/statute/110/2034); [Pub. L. 105–33, title IV](https://www.govinfo.gov/link/plaw/105/public/33), §§ 4002(j)(2), 4003, 4031(a)–(c), 4032(a), Aug. 5, 1997, [111 Stat. 330](https://www.govinfo.gov/link/statute/111/330), 355, 357, 359; [Pub. L. 105–362, title VI, § 601(b)(6)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3286](https://www.govinfo.gov/link/statute/112/3286); [Pub. L. 106–113, div. B, § 1000(a)(6) [title III, § 321(k)(13), (14), title V, §§ 501(a)(2), 536(a)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–368, 1501A–378, 1501A–390; [Pub. L. 106–170, title II, § 205(a)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1899](https://www.govinfo.gov/link/statute/113/1899); [Pub. L. 106–554, § 1(a)(6) [title VI, § 618]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–562; [Pub. L. 108–173, title I, § 104(a)](https://www.govinfo.gov/link/plaw/108/public/173), (b), title VII, § 736(e), Dec. 8, 2003, [117 Stat. 2161](https://www.govinfo.gov/link/statute/117/2161), 2164, 2357; [Pub. L. 110–161, div. H, title I, § 1502(f)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2250](https://www.govinfo.gov/link/statute/121/2250); [Pub. L. 110–233, title I, § 104(a)](https://www.govinfo.gov/link/plaw/110/public/233), (b), May 21, 2008, [122 Stat. 899](https://www.govinfo.gov/link/statute/122/899), 900; [Pub. L. 110–275, title I, § 104(b)](https://www.govinfo.gov/link/plaw/110/public/275), July 15, 2008, [122 Stat. 2502](https://www.govinfo.gov/link/statute/122/2502); [Pub. L. 111–148, title III, § 3210](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 460](https://www.govinfo.gov/link/statute/124/460); [Pub. L. 114–10, title IV, § 401](https://www.govinfo.gov/link/plaw/114/public/10), Apr. 16, 2015, [129 Stat. 159](https://www.govinfo.gov/link/statute/129/159).)*

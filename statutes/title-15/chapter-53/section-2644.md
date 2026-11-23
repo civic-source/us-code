@@ -3,9 +3,10 @@ title: "Section 2644 - Requirements if EPA fails to promulgate regulations"
 usc_title: 15
 usc_section: "2644"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2644"
-generated_at: "2026-03-30T02:54:08.179Z"
+generated_at: "2026-11-23T21:25:39.944Z"
+status: "active"
 ---
 
 # § 2644. Requirements if EPA fails to promulgate regulations
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:54:08.179Z"
   - **(5)** A copy of the management plan shall be available in the administrative offices of the local educational agency for inspection by the public, including teachers, other school personnel, and parents. The local educational agency shall notify parent, teacher, and employee organizations of the availability of such plan.
 - **(e)** The local educational agency shall provide for the protection of building occupants during each phase of activity described in this section.
 - **(f)** The local educational agency shall provide for the transportation and disposal of asbestos in accordance with the most recent version of the Environmental Protection Agency’s “Asbestos Waste Management Guidance” (or any successor to such document).
+
+## Source Credit
+
+*([Pub. L. 94–469, title II, § 204](https://www.govinfo.gov/link/plaw/94/public/469), as added [Pub. L. 99–519, § 2](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2977](https://www.govinfo.gov/link/statute/100/2977).)*

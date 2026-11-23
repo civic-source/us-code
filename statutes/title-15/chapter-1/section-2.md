@@ -3,9 +3,10 @@ title: "Section 2 - Special provisions of a liquidation proceeding"
 usc_title: 15
 usc_section: "2"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-30T02:54:08.062Z"
+generated_at: "2026-11-23T21:25:39.578Z"
+status: "active"
 ---
 
 # § 78fff–2. Special provisions of a liquidation proceeding
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:08.062Z"
 - **(f)** In order to facilitate the prompt satisfaction of customer claims and the orderly liquidation of the debtor, the trustee may, pursuant to terms satisfactory to him and subject to the prior approval of SIPC, sell or otherwise transfer to another member of SIPC, without consent of any customer, all or any part of the account of a customer of the debtor. In connection with any such sale or transfer to another member of SIPC and subject to the prior approval of SIPC, the trustee may—
   - **(1)** waive or modify the need to file a written statement of claim pursuant to subsection (a)(2); and
   - **(2)** enter into such agreements as the trustee considers appropriate under the circumstances to indemnify any such member of SIPC against shortages of cash or securities in the customer accounts sold or transferred.
+
+## Source Credit
+
+*([Pub. L. 91–598, § 8](https://www.govinfo.gov/link/plaw/91/public/598), as added [Pub. L. 95–283, § 9](https://www.govinfo.gov/link/plaw/95/public/283), May 21, 1978, [92 Stat. 261](https://www.govinfo.gov/link/statute/92/261); amended [Pub. L. 95–598, title III, § 308](https://www.govinfo.gov/link/plaw/95/public/598) (l), (m), Nov. 6, 1978, [92 Stat. 2675](https://www.govinfo.gov/link/statute/92/2675).)*

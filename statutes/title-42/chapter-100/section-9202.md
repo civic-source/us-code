@@ -3,9 +3,10 @@ title: "Section 9202 - Definitions"
 usc_title: 42
 usc_section: "9202"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9202"
-generated_at: "2026-03-30T02:56:11.351Z"
+generated_at: "2026-11-23T21:26:33.233Z"
+status: "active"
 ---
 
 # § 9202. Definitions
@@ -19,3 +20,7 @@ For purposes of this chapter—
   - **(5)** the term “known wind resource” means a site with an estimated average annual wind velocity of at least twelve miles per hour;
   - **(6)** the term “conventional energy source” means energy produced from oil, gas, coal, and nuclear fuels; and
   - **(7)** the term “Secretary” means the Secretary of Energy.
+
+## Source Credit
+
+*([Pub. L. 96–345, § 3](https://www.govinfo.gov/link/plaw/96/public/345), Sept. 8, 1980, [94 Stat. 1140](https://www.govinfo.gov/link/statute/94/1140).)*

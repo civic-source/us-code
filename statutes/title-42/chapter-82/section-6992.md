@@ -3,9 +3,10 @@ title: "Section 6992 - Scope of demonstration program for medical waste"
 usc_title: 42
 usc_section: "6992"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6992"
-generated_at: "2026-03-30T02:56:11.281Z"
+generated_at: "2026-11-23T21:26:33.040Z"
+status: "active"
 ---
 
 # § 6992. Scope of demonstration program for medical waste
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.281Z"
   - **(3)** Notifications under paragraphs (1) or (2) shall be submitted to the Administrator no later than 30 days after the promulgation of regulations implementing the demonstration program under this subchapter.
 - **(c)** The Governor of any State may petition the Administrator to be included in the demonstration program and the Administrator may, in his discretion, include any such State. Such petition may not be made later than 30 days after promulgation of regulations establishing the demonstration program under this subchapter, and the Administrator shall determine whether to include the State within 30 days after receipt of the State’s petition.
 - **(d)** The demonstration program shall expire on the date 24 months after the effective date of the regulations under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 11001](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 100–582, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/582), Nov. 1, 1988, [102 Stat. 2950](https://www.govinfo.gov/link/statute/102/2950).)*

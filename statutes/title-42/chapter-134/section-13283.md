@@ -3,9 +3,10 @@ title: "Section 13283 - Discount payments"
 usc_title: 42
 usc_section: "13283"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13283"
-generated_at: "2026-03-30T02:56:11.441Z"
+generated_at: "2026-11-23T21:26:33.590Z"
+status: "active"
 ---
 
 # § 13283. Discount payments
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.441Z"
     - **(B)** the price of the comparable conventionally fueled motor vehicle.
   - **(2)** The purchase price of the electric motor vehicle, less the discount payment and less any additional reduction in the purchase price of the electric motor vehicle that may result from contributions provided by other parties, may not be less than the manufacturer’s suggested retail price of a comparable conventionally fueled motor vehicle.
   - **(3)** The maximum discount payment shall be no greater than $10,000 per electric motor vehicle.
+
+## Source Credit
+
+*([Pub. L. 102–486, title VI, § 613](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2902](https://www.govinfo.gov/link/statute/106/2902).)*

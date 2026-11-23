@@ -3,9 +3,10 @@ title: "Section 11161 - Research and evaluation; statistical analyses; informati
 usc_title: 34
 usc_section: "11161"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 11161"
-generated_at: "2026-03-30T02:55:33.278Z"
+generated_at: "2026-11-23T21:26:09.701Z"
+status: "active"
 ---
 
 # § 11161. Research and evaluation; statistical analyses; information dissemination
@@ -58,3 +59,13 @@ generated_at: "2026-03-30T02:55:33.278Z"
   - **(1)** establish a uniform method of data collection and technology that States may use to evaluate data on juvenile recidivism on an annual basis;
   - **(2)** establish a common national juvenile recidivism measurement system; and
   - **(3)** make cumulative juvenile recidivism data that is collected from States available to the public.
+
+(aa) the relationship between victims and perpetrators;
+
+(bb) demographic characteristics of victims and perpetrators; and
+
+(cc) the type of weapons used in incidents, as classified in the Uniform Crime Reports of the Federal Bureau of Investigation; and
+
+## Source Credit
+
+*([Pub. L. 93–415, title II, § 251](https://www.govinfo.gov/link/plaw/93/public/415), as added [Pub. L. 107–273, div. C, title II, § 12211](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1888](https://www.govinfo.gov/link/statute/116/1888); amended [Pub. L. 115–385, title II, § 207](https://www.govinfo.gov/link/plaw/115/public/385), Dec. 21, 2018, [132 Stat. 5140](https://www.govinfo.gov/link/statute/132/5140).)*

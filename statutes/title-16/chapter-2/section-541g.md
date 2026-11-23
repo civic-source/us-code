@@ -3,9 +3,10 @@ title: "Section 541g - Advisory council for scenic-research area; membership; de
 usc_title: 16
 usc_section: "541g"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 541g"
-generated_at: "2026-03-30T02:54:22.869Z"
+generated_at: "2026-11-23T21:25:51.665Z"
+status: "active"
 ---
 
 # § 541g. Advisory council for scenic-research area; membership; designation of chairman; compensation; consultation by Secretary
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:22.869Z"
 - **(b)** The Secretary shall designate one member to be chairman and shall fill vacancies in the same manner as the original appointment.
 - **(c)** The members shall not receive any compensation for their services as members of the advisory council, but they shall be reimbursed for travel expenses and shall be allowed, as appropriate, per diem or actual subsistence expenses.
 - **(d)** In addition to his consultation with the advisory council, the Secretary shall seek the views of other private groups, individuals, and the public, and shall seek the views and assistance of, and cooperate with all other Federal, State, and local agencies with responsibilities for zoning, planning, migratory fish, waterfowl, and marine animals, water, and natural resources, and all nonprofit agencies and organizations which may contribute information or expertise about the resources, and the management, of the Area, in order that the knowledge, expertise and views of all agencies and groups may contribute affirmatively to the most sensitive present and future use of the Area and its various subareas for the benefit of the public.
+
+## Source Credit
+
+*([Pub. L. 93–535, § 8](https://www.govinfo.gov/link/plaw/93/public/535), Dec. 22, 1974, [88 Stat. 1733](https://www.govinfo.gov/link/statute/88/1733); [Pub. L. 117–286, § 4(a)(98)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4316](https://www.govinfo.gov/link/statute/136/4316).)*

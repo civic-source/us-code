@@ -3,12 +3,17 @@ title: "Section 4701 - Statement of purpose"
 usc_title: 22
 usc_section: "4701"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4701"
-generated_at: "2026-03-30T02:55:05.413Z"
+generated_at: "2026-11-23T21:25:58.648Z"
+status: "active"
 ---
 
 # § 4701. Statement of purpose
 
 The purpose of this chapter is to establish an undergraduate scholarship program designed to bring students of limited financial means from developing countries to the United States for study at United States institutions of higher education.
 
+
+## Source Credit
+
+*([Pub. L. 99–93, title VI, § 601](https://www.govinfo.gov/link/plaw/99/public/93), Aug. 16, 1985, [99 Stat. 439](https://www.govinfo.gov/link/statute/99/439).)*

@@ -3,9 +3,10 @@ title: "Section 1423a - Prohibitions"
 usc_title: 16
 usc_section: "1423a"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1423a"
-generated_at: "2026-03-30T02:54:22.967Z"
+generated_at: "2026-11-23T21:25:51.875Z"
+status: "active"
 ---
 
 # § 1423a. Prohibitions
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:22.967Z"
   - **(5)** to attempt to commit, solicit another person to commit, or cause to be committed, any offense under this subsection; or
   - **(6)** to violate any regulation promulgated by the Secretary to implement any of the prohibitions established in this subsection.
 - **(b)** For the purpose of forensic testing or any other law enforcement purpose, the Secretary, and Federal law enforcement officials, and any State or local law enforcement official authorized by the Secretary, may import a polar bear or any part or product of a polar bear.
+
+## Source Credit
+
+*([Pub. L. 92–522, title V, § 502](https://www.govinfo.gov/link/plaw/92/public/522), as added [Pub. L. 109–479, title IX, § 902(a)](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3661](https://www.govinfo.gov/link/statute/120/3661).)*

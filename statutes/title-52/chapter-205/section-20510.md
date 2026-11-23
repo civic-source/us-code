@@ -3,9 +3,10 @@ title: "Section 20510 - Civil enforcement and private right of action"
 usc_title: 52
 usc_section: "20510"
 chapter: 205
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 20510"
-generated_at: "2026-03-30T02:56:30.165Z"
+generated_at: "2026-11-23T21:26:42.329Z"
+status: "active"
 ---
 
 # § 20510. Civil enforcement and private right of action
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:30.165Z"
 - **(d)**
   - **(1)** The rights and remedies established by this section are in addition to all other rights and remedies provided by law, and neither the rights and remedies established by this section nor any other provision of this chapter shall supersede, restrict, or limit the application of the Voting Rights Act of 1965 ( 42 U.S.C. 1973 et seq.) [now 52 U.S.C. 10301 et seq.].
   - **(2)** Nothing in this chapter authorizes or requires conduct that is prohibited by the Voting Rights Act of 1965 ( 42 U.S.C. 1973 et seq.) [now 52 U.S.C. 10301 et seq.].
+
+## Source Credit
+
+*([Pub. L. 103–31, § 11](https://www.govinfo.gov/link/plaw/103/public/31), May 20, 1993, [107 Stat. 88](https://www.govinfo.gov/link/statute/107/88).)*

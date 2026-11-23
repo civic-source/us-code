@@ -3,9 +3,10 @@ title: "Section 17941 - Recognition of security practices"
 usc_title: 42
 usc_section: "17941"
 chapter: 156
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17941"
-generated_at: "2026-03-30T02:56:11.510Z"
+generated_at: "2026-11-23T21:26:33.801Z"
+status: "active"
 ---
 
 # § 17941. Recognition of security practices
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.510Z"
   - **(2)** Nothing in this section shall be construed as providing the Secretary authority to increase fines under section 1320d–5 of this title (as amended by section 13410 of Pub. L. 111–5 ), or the length, extent or quantity of audits under section 17940 of this title , due to a lack of compliance with the recognized security practices.
   - **(3)** Subject to paragraph (4), nothing in this section shall be construed to subject a covered entity or business associate to liability for electing not to engage in the recognized security practices defined by this section.
   - **(4)** Nothing in this section shall be construed to limit the Secretary’s authority to enforce the HIPAA Security rule (part 160 of title 45 Code of Federal Regulations and subparts A and C of part 164 of such title), or to supersede or conflict with an entity or business associate’s obligations under the HIPAA Security rule.
+
+## Source Credit
+
+*([Pub. L. 111–5, div. A, title XIII, § 13412](https://www.govinfo.gov/link/plaw/111/public/5), as added [Pub. L. 116–321, § 1](https://www.govinfo.gov/link/plaw/116/public/321), Jan. 5, 2021, [134 Stat. 5072](https://www.govinfo.gov/link/statute/134/5072).)*

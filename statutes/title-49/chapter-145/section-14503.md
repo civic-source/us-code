@@ -3,9 +3,10 @@ title: "Section 14503 - Withholding State and local income tax by certain carrie
 usc_title: 49
 usc_section: "14503"
 chapter: 145
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 14503"
-generated_at: "2026-03-30T02:56:19.331Z"
+generated_at: "2026-11-23T21:26:40.693Z"
+status: "active"
 ---
 
 # § 14503. Withholding State and local income tax by certain carriers
@@ -20,3 +21,23 @@ generated_at: "2026-03-30T02:56:19.331Z"
     - **(B)** the State and subdivision in which the employee earned more than 50 percent of the pay received by the employee from the carrier during the preceding calendar year.
   - **(3)** This subsection applies to pay of a master, officer, or sailor who is a member of the crew on a vessel engaged in foreign, coastwise, intercoastal, or noncontiguous trade or in the fisheries of the United States.
 - **(c)** A motor and motor private carrier withholding pay from an employee under subsection (a) of this section shall file income tax information returns and other reports only with the State and subdivision of residence of the employee.
+
+Single State Tax Withholding.—
+
+In general
+
+Employee defined
+
+Special Rules.—
+
+Calculation of earnings
+
+Water carriers
+
+Applicability to sailors
+
+Filing of Information
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 901](https://www.govinfo.gov/link/statute/109/901).)*

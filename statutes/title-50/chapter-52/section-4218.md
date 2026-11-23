@@ -3,9 +3,10 @@ title: "Section 4218 - Definitions"
 usc_title: 50
 usc_section: "4218"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4218"
-generated_at: "2026-03-30T02:56:26.270Z"
+generated_at: "2026-11-23T21:26:39.091Z"
+status: "active"
 ---
 
 # § 4218. Definitions
@@ -25,3 +26,7 @@ For the purposes of this subchapter—
   - **(4)** the term “Fund” means the Civil Liberties Public Education Fund established in section 4214 of this title ;
   - **(5)** the term “Board” means the Civil Liberties Public Education Fund Board of Directors established in section 4216 of this title ; and
   - **(6)** the term “Commission” means the Commission on Wartime Relocation and Internment of Civilians, established by the Commission on Wartime Relocation and Internment of Civilians Act ( Public Law 96–317 ; 50 U.S.C. App. 1981 note). 1 1 See References in Text note below.
+
+## Source Credit
+
+*([Pub. L. 100–383, title I, § 108](https://www.govinfo.gov/link/plaw/100/public/383), Aug. 10, 1988, [102 Stat. 910](https://www.govinfo.gov/link/statute/102/910); [Pub. L. 102–371, § 3](https://www.govinfo.gov/link/plaw/102/public/371), Sept. 27, 1992, [106 Stat. 1167](https://www.govinfo.gov/link/statute/106/1167).)*

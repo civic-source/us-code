@@ -3,9 +3,10 @@ title: "Section 7005 - Under Secretary of Agriculture for Marketing and Regulato
 usc_title: 7
 usc_section: "7005"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7005"
-generated_at: "2026-03-30T02:53:42.442Z"
+generated_at: "2026-11-23T21:25:28.410Z"
+status: "active"
 ---
 
 # § 7005. Under Secretary of Agriculture for Marketing and Regulatory Programs
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.442Z"
   - **(1)** Upon establishment, the Secretary shall delegate to the Under Secretary of Agriculture for Marketing and Regulatory Programs those functions and duties under the jurisdiction of the Department that are related to agricultural marketing, animal and plant health inspection, grain inspection, and packers and stockyards.
   - **(2)** The Under Secretary of Agriculture for Marketing and Regulatory Programs shall perform such other functions and duties as may be required by law or prescribed by the Secretary.
 - **(d)** Any official who is serving as Assistant Secretary of Agriculture for Marketing and Regulatory Programs on October 21, 1998 , and who was appointed by the President, by and with the advice and consent of the Senate, shall not be required to be reappointed under subsection (b) to the successor position authorized under subsection (a) if the Secretary establishes the position, and the official occupies the new position, within 180 days after October 21, 1998 (or such later date set by the Secretary if litigation delays rapid succession).
+
+## Source Credit
+
+*([Pub. L. 103–354, title II, § 285](https://www.govinfo.gov/link/plaw/103/public/354), as added [Pub. L. 105–277, div. A, § 101(a) [title X, § 1001(3)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681](https://www.govinfo.gov/link/statute/112/2681), 2681–41.)*

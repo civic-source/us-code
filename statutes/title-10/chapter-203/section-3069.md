@@ -3,9 +3,10 @@ title: "Section 3069 - Buy-to-budget acquisition: end items"
 usc_title: 10
 usc_section: "3069"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3069"
-generated_at: "2026-03-30T02:53:38.188Z"
+generated_at: "2026-11-23T21:25:32.713Z"
+status: "active"
 ---
 
 # § 3069. Buy-to-budget acquisition: end items
@@ -21,3 +22,15 @@ generated_at: "2026-03-30T02:53:38.188Z"
 - **(d)**
   - **(1)** For the purposes of this section, a quantity of an end item shall be considered specified in a law if the quantity is specified either in a provision of that law or in any related representation that is set forth separately in a table, chart, or explanatory text included in a joint explanatory statement or governing committee report accompanying the law.
   - **(2)** In this section, the term “end item” means a production product assembled, completed, and ready for issue or deployment.
+
+Authority To Acquire Additional End Items
+
+Regulations
+
+Waiver by Other Law
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 107–314, div. A, title VIII, § 801(a)(1)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2600](https://www.govinfo.gov/link/statute/116/2600), § 2308; amended [Pub. L. 108–136, div. A, title X, § 1043(b)(11)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1611](https://www.govinfo.gov/link/statute/117/1611); [Pub. L. 114–328, div. A, title VIII, § 852](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2296](https://www.govinfo.gov/link/statute/130/2296); renumbered § 3069 and amended [Pub. L. 116–283, div. A, title XVIII, § 1807(f)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4159](https://www.govinfo.gov/link/statute/134/4159); [Pub. L. 119–60, div. A, title VIII, § 812(a)(4)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 951](https://www.govinfo.gov/link/statute/139/951).)*

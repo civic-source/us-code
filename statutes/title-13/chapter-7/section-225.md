@@ -3,9 +3,10 @@ title: "Section 225 - Applicability of penal provisions in certain cases"
 usc_title: 13
 usc_section: "225"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "13 U.S.C. § 225"
-generated_at: "2026-03-30T02:54:03.338Z"
+generated_at: "2026-11-23T21:25:34.410Z"
+status: "active"
 ---
 
 # § 225. Applicability of penal provisions in certain cases
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:03.338Z"
 - **(b)** The provisions for imprisonment provided by section 222 of this title shall not apply in connection with any survey conducted pursuant to subchapter II of chapter 3 of this title, or to subchapter IV of chapter 5 of this title.
 - **(c)** The provisions of sections 221, 222, 223, and 224 of this title shall not apply to any censuses or surveys of governments provided for by subchapters III and IV of chapter 5 of this title, nor to other surveys provided for by subchapter IV of such chapter which are taken more frequently than annually.
 - **(d)** Where the doctrine, teaching, or discipline of any religious denomination or church prohibits the disclosure of information relative to membership, a refusal, in such circumstances, to furnish such information shall not be an offense under this chapter.
+
+## Source Credit
+
+*(Aug. 31, 1954, ch. 1158, [68 Stat. 1024](https://www.govinfo.gov/link/statute/68/1024); [Pub. L. 94–521, § 15(a)](https://www.govinfo.gov/link/plaw/94/public/521), Oct. 17, 1976, [90 Stat. 2465](https://www.govinfo.gov/link/statute/90/2465).)*

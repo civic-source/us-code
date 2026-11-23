@@ -3,9 +3,10 @@ title: "Section 1022e - Teacher development"
 usc_title: 20
 usc_section: "1022e"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1022e"
-generated_at: "2026-03-30T02:54:48.098Z"
+generated_at: "2026-11-23T21:25:47.024Z"
+status: "active"
 ---
 
 # § 1022e. Teacher development
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:48.098Z"
   - **(4)** general education teachers receive training in providing instruction to diverse populations, including children with disabilities, limited English proficient students, and children from low-income families; and
   - **(5)** prospective teachers receive training on how to effectively teach in urban and rural schools, as applicable.
 - **(c)** Nothing in this section shall be construed to require an institution to create a new teacher preparation area of concentration or degree program or adopt a specific curriculum in complying with this section.
+
+## Source Credit
+
+*([Pub. L. 89–329, title II, § 206](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title II, § 201(2)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3152](https://www.govinfo.gov/link/statute/122/3152).)*

@@ -3,12 +3,17 @@ title: "Section 479 - Sites for schools and churches"
 usc_title: 16
 usc_section: "479"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 479"
-generated_at: "2026-03-30T02:54:22.857Z"
+generated_at: "2026-11-23T21:25:51.646Z"
+status: "active"
 ---
 
 # § 479. Sites for schools and churches
 
 The settlers residing within the exterior boundaries of national forests, or in the vicinity thereof, may maintain schools and churches within such national forest, and for that purpose may occupy any part of the said national forest, not exceeding two acres for each schoolhouse and one acre for a church.
 
+
+## Source Credit
+
+*(June 4, 1897, ch. 2, § 1, [30 Stat. 36](https://www.govinfo.gov/link/statute/30/36).)*

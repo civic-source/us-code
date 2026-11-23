@@ -3,12 +3,17 @@ title: "Section 42 - Patents for nonmineral lands: application, survey, notice, 
 usc_title: 30
 usc_section: "42"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 42"
-generated_at: "2026-03-30T02:55:29.376Z"
+generated_at: "2026-11-23T21:26:00.363Z"
+status: "active"
 ---
 
 # § 42. Patents for nonmineral lands: application, survey, notice, acreage limitation, payment
 
 - **(a)** Where nonmineral land not contiguous to the vein or lode is used or occupied by the proprietor of such vein or lode for mining or milling purposes, such nonadjacent surface ground may be embraced and included in an application for a patent for such vein or lode, and the same may be patented therewith, subject to the same preliminary requirements as to survey and notice as are applicable to veins or lodes; but no location made on and after May 10, 1872 , of such nonadjacent land shall exceed five acres, and payment for the same must be made at the same rate as fixed by sections 21, 22 to 24, 26 to 28, 29, 30, 33 to 48, 50 to 52, 71 to 76 of this title and section 661 of title 43 for the superficies of the lode. The owner of a quartz mill or reduction works, not owning a mine in connection therewith, may also receive a patent for his mill site, as provided in this section.
 - **(b)** Where nonmineral land is needed by the proprietor of a placer claim for mining, milling, processing, beneficiation, or other operations in connection with such claim, and is used or occupied by the proprietor for such purposes, such land may be included in an application for a patent for such claim, and may be patented therewith subject to the same requirements as to survey and notice as are applicable to placers. No location made of such nonmineral land shall exceed five acres and payment for the same shall be made at the rate applicable to placer claims which do not include a vein or lode.
+
+## Source Credit
+
+*(R.S. § 2337; [Pub. L. 86–390](https://www.govinfo.gov/link/plaw/86/public/390), Mar. 18, 1960, [74 Stat. 7](https://www.govinfo.gov/link/statute/74/7).)*

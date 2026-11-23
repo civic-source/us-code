@@ -3,9 +3,10 @@ title: "Section 402 - Basic allowance for subsistence"
 usc_title: 37
 usc_section: "402"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 402"
-generated_at: "2026-03-30T02:55:44.056Z"
+generated_at: "2026-11-23T21:26:14.224Z"
+status: "active"
 ---
 
 # § 402. Basic allowance for subsistence
@@ -37,3 +38,82 @@ generated_at: "2026-03-30T02:55:44.056Z"
 - **(i)**
   - **(1)** The Secretary of Defense shall prescribe regulations for the administration of this section. Before prescribing the regulations, the Secretary shall consult with each Secretary concerned.
   - **(2)** The regulations shall include the specific rates of basic allowance for subsistence required by subsection (b).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 402(a) 402(b) | 37:251(a) (1st sentence). 37:251(a) (2d and last sentences). 37:251(b). 37:251(c). | Oct. 12, 1949, ch. 681, § 301 , 63 Stat. 812 ; May 19, 1952, ch. 310, § 1(d) , 66 Stat. 80 ; Aug. 10, 1956, ch. 1041, § 20(b) , 70A Stat. 627 ; Sept. 2, 1958 , Pub. L. 85–861, § 10 , 72 Stat. 1556 . |
+|  | 37:251a. | Aug. 1, 1953, ch. 305, § 617 , 67 Stat. 352 . |
+| 402(c) 402(d) 402(e) 402(f) | 37:301(a) (45 words before proviso). 37:301(e) (less applicability to basic pay, incentive pay, administrative pay, and duty without pay). 37:251(a) (less 1st, 2d, and last sentences). 37:251(e). 37:251(f). 37:251(d). | Oct. 12, 1949, ch. 681, § 501(a) (45 words before proviso), (e) (less applicability to basic pay, incentive pay, administrative pay, and duty without pay), 63 Stat. 825 , 827; July 9, 1952, ch. 608, § 244 , 66 Stat. 494 ; June 30, 1960 , Pub. L. 86–559, § 8 , 74 Stat. 282 . |
+
+
+Entitlement to Allowance
+
+Rates of Allowance Based on Food Costs
+
+Advance Payment
+
+Special Rate for Enlisted Members Occupying Single Quarters Without Adequate Availability of Meals
+
+Special Rule for Certain Enlisted Reserve Members
+
+Special Rule for High-Cost Duty Locations and Other Unique and Unusual Circumstances
+
+Policies on Use of Dining and Messing Facilities
+
+No Payment for Meals Received at Military Treatment Facilities
+
+Regulations
+
+Historical and Revision Notes
+
+402(a)
+
+402(b)
+
+Oct. 12, 1949, ch. 681, § 301
+
+63 Stat. 812
+
+May 19, 1952, ch. 310, § 1(d)
+
+66 Stat. 80
+
+Aug. 10, 1956, ch. 1041, § 20(b)
+
+70A Stat. 627
+
+Sept. 2, 1958
+
+Pub. L. 85–861, § 10
+
+72 Stat. 1556
+
+Aug. 1, 1953, ch. 305, § 617
+
+67 Stat. 352
+
+402(c)
+
+402(d)
+
+402(e)
+
+402(f)
+
+Oct. 12, 1949, ch. 681, § 501(a)
+
+63 Stat. 825
+
+July 9, 1952, ch. 608, § 244
+
+66 Stat. 494
+
+June 30, 1960
+
+Pub. L. 86–559, § 8
+
+74 Stat. 282
+
+## Source Credit
+
+*([Pub. L. 87–649](https://www.govinfo.gov/link/plaw/87/public/649), Sept. 7, 1962, [76 Stat. 470](https://www.govinfo.gov/link/statute/76/470); [Pub. L. 89–444, § 2(2)](https://www.govinfo.gov/link/plaw/89/public/444), June 9, 1966, [80 Stat. 198](https://www.govinfo.gov/link/statute/80/198); [Pub. L. 93–419, § 3(1)](https://www.govinfo.gov/link/plaw/93/public/419) –(5), Sept. 19, 1974, [88 Stat. 1152](https://www.govinfo.gov/link/statute/88/1152); [Pub. L. 96–513, title IV, § 411](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2905](https://www.govinfo.gov/link/statute/94/2905); [Pub. L. 98–94, title IX, § 908(a)](https://www.govinfo.gov/link/plaw/98/public/94), Sept. 24, 1983, [97 Stat. 637](https://www.govinfo.gov/link/statute/97/637); [Pub. L. 98–525, title VI, § 605](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2537](https://www.govinfo.gov/link/statute/98/2537); [Pub. L. 98–557, § 17(d)](https://www.govinfo.gov/link/plaw/98/public/557), Oct. 30, 1984, [98 Stat. 2868](https://www.govinfo.gov/link/statute/98/2868); [Pub. L. 99–145, title XIII, § 1303(b)(5)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 740](https://www.govinfo.gov/link/statute/99/740); [Pub. L. 102–25, title VII, § 702(b)(1)](https://www.govinfo.gov/link/plaw/102/public/25), (c), Apr. 6, 1991, [105 Stat. 117](https://www.govinfo.gov/link/statute/105/117); [Pub. L. 104–106, div. A, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/104/public/106) –(c)(1), Feb. 10, 1996, [110 Stat. 356](https://www.govinfo.gov/link/statute/110/356), 357; [Pub. L. 105–85, div. A, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1771](https://www.govinfo.gov/link/statute/111/1771); [Pub. L. 105–261, div. A, title VI, § 604(a)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2037](https://www.govinfo.gov/link/statute/112/2037); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title VI, § 603(a), (b)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–144, 1654A–145; [Pub. L. 107–107, div. A, title VI, § 604(a)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1133](https://www.govinfo.gov/link/statute/115/1133); [Pub. L. 107–296, title XVII, § 1704(c)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 107–314, div. A, title VI, § 603](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2566](https://www.govinfo.gov/link/statute/116/2566); [Pub. L. 108–136, div. A, title VI, § 604](https://www.govinfo.gov/link/plaw/108/public/136), title X, § 1045(b)(2), Nov. 24, 2003, [117 Stat. 1499](https://www.govinfo.gov/link/statute/117/1499), 1612; [Pub. L. 109–163, div. A, title VI, § 607(a)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3288](https://www.govinfo.gov/link/statute/119/3288); [Pub. L. 109–364, div. A, title VI, § 603(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2245](https://www.govinfo.gov/link/statute/120/2245); [Pub. L. 110–181, div. A, title VI, § 614(h)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 149](https://www.govinfo.gov/link/statute/122/149); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title VI, § 602, Oct. 14, 2008, [122 Stat. 4483](https://www.govinfo.gov/link/statute/122/4483); [Pub. L. 119–60, div. A, title VI, § 621(a)(1)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 908](https://www.govinfo.gov/link/statute/139/908).)*

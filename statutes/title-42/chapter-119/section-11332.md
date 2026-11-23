@@ -3,9 +3,10 @@ title: "Section 11332 - Local boards"
 usc_title: 42
 usc_section: "11332"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11332"
-generated_at: "2026-03-30T02:56:11.397Z"
+generated_at: "2026-11-23T21:26:33.410Z"
+status: "active"
 ---
 
 # § 11332. Local boards
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.397Z"
   - **(3)** reallocate funds among service providers;
   - **(4)** ensure proper reporting; and
   - **(5)** coordinate with other Federal, State, and local government assistance programs available in the locality.
+
+## Source Credit
+
+*([Pub. L. 100–77, title III, § 302](https://www.govinfo.gov/link/plaw/100/public/77), July 22, 1987, [101 Stat. 490](https://www.govinfo.gov/link/statute/101/490); [Pub. L. 101–645, title II, § 202(a)](https://www.govinfo.gov/link/plaw/101/public/645), Nov. 29, 1990, [104 Stat. 4675](https://www.govinfo.gov/link/statute/104/4675).)*

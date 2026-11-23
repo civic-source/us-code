@@ -3,9 +3,10 @@ title: "Section 611 - Definitions"
 usc_title: 22
 usc_section: "611"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 611"
-generated_at: "2026-03-30T02:55:05.328Z"
+generated_at: "2026-11-23T21:25:58.388Z"
+status: "active"
 ---
 
 # § 611. Definitions
@@ -37,3 +38,7 @@ As used in and for the purposes of this subchapter—
 - **(n)** The term “prints” means newspapers and periodicals, books, pamphlets, sheet music, visiting cards, address cards, printing proofs, engravings, photographs, pictures, drawings, plans, maps, patterns to be cut out, catalogs, prospectuses, advertisements, and printed, engraved, lithographed, or autographed notices of various kinds, and, in general, all impressions or reproductions obtained on paper or other material assimilable to paper, on parchment or on cardboard, by means of printing, engraving, lithography, autography, or any other easily recognizable mechanical process, with the exception of the copying press, stamps with movable or immovable type, and the typewriter;
 - **(o)** The term “political activities” means any activity that the person engaging in believes will, or that the person intends to, in any way influence any agency or official of the Government of the United States or any section of the public within the United States with reference to formulating, adopting, or changing the domestic or foreign policies of the United States or with reference to the political or public interests, policies, or relations of a government of a foreign country or a foreign political party;
 - **(p)** The term “political consultant” means any person who engages in informing or advising any other person with reference to the domestic or foreign policies of the United States or the political or public interest, policies, or relations of a foreign country or of a foreign political party.
+
+## Source Credit
+
+*(June 8, 1938, ch. 327, § 1, [52 Stat. 631](https://www.govinfo.gov/link/statute/52/631); Aug. 7, 1939, ch. 521, § 1, [53 Stat. 1244](https://www.govinfo.gov/link/statute/53/1244); Apr. 29, 1942, ch. 263, § 1, [56 Stat. 249](https://www.govinfo.gov/link/statute/56/249); Proc. No. 2695, July 4, 1946, 11 F.R. 7517, [60 Stat. 1352](https://www.govinfo.gov/link/statute/60/1352); Sept. 23, 1950, ch. 1024, title I, § 20(a), [64 Stat. 1005](https://www.govinfo.gov/link/statute/64/1005); Aug. 1, 1956, ch. 849, § 1, [70 Stat. 899](https://www.govinfo.gov/link/statute/70/899); [Pub. L. 87–366, § 1](https://www.govinfo.gov/link/plaw/87/public/366), Oct. 4, 1961, [75 Stat. 784](https://www.govinfo.gov/link/statute/75/784); [Pub. L. 89–486, § 1](https://www.govinfo.gov/link/plaw/89/public/486), July 4, 1966, [80 Stat. 244](https://www.govinfo.gov/link/statute/80/244); [Pub. L. 91–375, § 6(k)](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 782](https://www.govinfo.gov/link/statute/84/782); [Pub. L. 104–65, § 9(1)](https://www.govinfo.gov/link/plaw/104/public/65), Dec. 19, 1995, [109 Stat. 699](https://www.govinfo.gov/link/statute/109/699).)*

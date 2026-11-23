@@ -3,9 +3,10 @@ title: "Section 51501 - Establishment of Office of Spaceports"
 usc_title: 51
 usc_section: "51501"
 chapter: 515
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 51501"
-generated_at: "2026-03-30T02:56:28.711Z"
+generated_at: "2026-11-23T21:26:42.556Z"
+status: "active"
 ---
 
 # § 51501. Establishment of Office of Spaceports
@@ -22,3 +23,17 @@ generated_at: "2026-03-30T02:56:28.711Z"
   - **(2)** are involved in suborbital launch activities.
 - **(d)** The head of the Office of the Associate Administrator for Commercial Space Transportation shall designate a Director of the Office of Spaceports.
 - **(e)** In this section the term “spaceport” means a launch or reentry site that is operated by an entity licensed by the Secretary of Transportation.
+
+Establishment of Office
+
+Functions
+
+Recognition
+
+Director
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 115–254, div. B, title V, § 580(b)(1)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3395](https://www.govinfo.gov/link/statute/132/3395).)*

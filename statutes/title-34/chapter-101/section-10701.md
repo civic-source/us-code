@@ -3,9 +3,10 @@ title: "Section 10701 - Description"
 usc_title: 34
 usc_section: "10701"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10701"
-generated_at: "2026-03-30T02:55:33.275Z"
+generated_at: "2026-11-23T21:26:09.688Z"
+status: "active"
 ---
 
 # § 10701. Description
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:33.275Z"
   - **(2)** Nothing in this subsection shall be construed to—
     - **(A)** direct or encourage a State to use a specific interstate data sharing program; or
     - **(B)** limit or prohibit the discretion of a prescription drug monitoring program for interoperability connections to other programs (including electronic health records systems, hospital systems, pharmacy dispensing systems, or health information exchanges).
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 3021](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 114–198, title II, § 201(a)(1)](https://www.govinfo.gov/link/plaw/114/public/198), July 22, 2016, [130 Stat. 711](https://www.govinfo.gov/link/statute/130/711); amended [Pub. L. 117–250, § 2](https://www.govinfo.gov/link/plaw/117/public/250), Dec. 20, 2022, [136 Stat. 2352](https://www.govinfo.gov/link/statute/136/2352).)*

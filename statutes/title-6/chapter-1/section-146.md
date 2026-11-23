@@ -3,9 +3,10 @@ title: "Section 146 - Cybersecurity workforce assessment and strategy"
 usc_title: 6
 usc_section: "146"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 146"
-generated_at: "2026-03-30T02:53:09.446Z"
+generated_at: "2026-11-23T21:25:25.756Z"
+status: "active"
 ---
 
 # § 146. Cybersecurity workforce assessment and strategy
@@ -37,3 +38,45 @@ generated_at: "2026-03-30T02:53:09.446Z"
 - **(c)** The Secretary submit 1 1 So in original. to the appropriate congressional committees annual updates on—
   - **(1)** the cybersecurity workforce assessment required under subsection (a); and
   - **(2)** the progress of the Secretary in carrying out the comprehensive workforce strategy required to be developed under subsection (b).
+
+Short Title
+
+Definitions
+
+Appropriate congressional committees
+
+Cybersecurity work category; data element code; specialty area
+
+Department
+
+Director
+
+Secretary
+
+National Cybersecurity Workforce Measurement Initiative.—
+
+In general
+
+Employment codes.—
+
+Procedures
+
+Code assignments
+
+Progress report
+
+Identification of Cybersecurity Specialty Areas of Critical Need.—
+
+In general
+
+Guidance
+
+Cybersecurity critical needs report
+
+Government Accountability Office Status Reports
+
+“In this Act [enacting this section and provisions set out as a note under section 101 of this title ]—
+
+## Source Credit
+
+*([Pub. L. 113–246, § 3](https://www.govinfo.gov/link/plaw/113/public/246), Dec. 18, 2014, [128 Stat. 2880](https://www.govinfo.gov/link/statute/128/2880).)*

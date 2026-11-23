@@ -3,12 +3,17 @@ title: "Section 2265 - Deposit of money accepted for benefit of National Agricul
 usc_title: 7
 usc_section: "2265"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2265"
-generated_at: "2026-03-30T02:53:42.382Z"
+generated_at: "2026-11-23T21:25:28.289Z"
+status: "active"
 ---
 
 # § 2265. Deposit of money accepted for benefit of National Agricultural Library; disbursement
 
 Any gift of money accepted pursuant to the authority granted in section 2264 of this title , or the net proceeds from the liquidation of any other property so accepted, or the proceeds of any insurance on any gift property not used for its restoration shall be deposited in the Treasury of the United States for credit to a separate account and shall be disbursed upon order of the Secretary of Agriculture.
 
+
+## Source Credit
+
+*([Pub. L. 91–591, § 3](https://www.govinfo.gov/link/plaw/91/public/591), Dec. 28, 1970, [84 Stat. 1588](https://www.govinfo.gov/link/statute/84/1588).)*

@@ -3,9 +3,10 @@ title: "Section 1357 - Items not subject to regular tax; depreciation; interest"
 usc_title: 26
 usc_section: "1357"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1357"
-generated_at: "2026-03-30T02:55:27.769Z"
+generated_at: "2026-11-23T21:26:06.494Z"
+status: "active"
 ---
 
 # § 1357. Items not subject to regular tax; depreciation; interest
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:27.769Z"
   - **(3)**
     - **(A)** Except as provided in subparagraph (B), the interest expense of an electing corporation shall be disallowed in the ratio that the fair market value of such corporation’s qualifying vessels bears to the fair market value of such corporation’s total assets.
     - **(B)** In the case of a corporation which is a member of an electing group, the interest expense of such corporation shall be disallowed in the ratio that the fair market value of such corporation’s qualifying vessels bears to the fair market value of the electing groups total assets.
+
+## Source Credit
+
+*(Added [Pub. L. 108–357, title II, § 248(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1455](https://www.govinfo.gov/link/statute/118/1455).)*

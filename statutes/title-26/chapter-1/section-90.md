@@ -3,9 +3,10 @@ title: "Section 90 - Illegal Federal irrigation subsidies"
 usc_title: 26
 usc_section: "90"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 90"
-generated_at: "2026-03-30T02:55:27.621Z"
+generated_at: "2026-11-23T21:26:05.992Z"
+status: "active"
 ---
 
 # § 90. Illegal Federal irrigation subsidies
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:27.621Z"
     - **(B)** the amount paid for such water.
   - **(2)** The term “Federal irrigation water” means any water made available for agricultural purposes from the operation of any reclamation or irrigation project referred to in paragraph (8) of section 202 of the Reclamation Reform Act of 1982.
 - **(c)** No deduction shall be allowed under this subtitle by reason of any inclusion in gross income under subsection (a).
+
+## Source Credit
+
+*(Added [Pub. L. 100–203, title X, § 10611(a)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–451](https://www.govinfo.gov/link/statute/101/1330).)*

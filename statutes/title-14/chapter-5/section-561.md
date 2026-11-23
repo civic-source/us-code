@@ -3,9 +3,10 @@ title: "Section 561 - Icebreaking in polar regions"
 usc_title: 14
 usc_section: "561"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 561"
-generated_at: "2026-03-30T02:53:51.490Z"
+generated_at: "2026-11-23T21:25:35.378Z"
+status: "active"
 ---
 
 # § 561. Icebreaking in polar regions
@@ -40,3 +41,105 @@ generated_at: "2026-03-30T02:53:51.490Z"
   - **(1)** The term “ Polar Sea ” means Coast Guard Cutter Polar Sea (WAGB 11).
   - **(2)** The term “ Polar Star ” means Coast Guard Cutter Polar Star (WAGB 10).
   - **(3)** The term “ Healy ” means Coast Guard Cutter Healy (WAGB 20).
+
+Procurement Authority.—
+
+In general
+
+Condition for out-year contract payments
+
+Planning
+
+Reimbursement
+
+Restriction.—
+
+In general
+
+Sunset
+
+Limitation.—
+
+In general
+
+Other amounts
+
+Enhanced Maintenance Program for the
+
+In general
+
+Authorization of appropriations
+
+Definitions
+
+Polar sea
+
+Polar star
+
+Healy
+
+In General
+
+Contents
+
+Quarterly Briefings
+
+Limitation
+
+Establishment of the Arctic Security Cutter Program Office.—
+
+Determination
+
+Establishment
+
+Requirements and design phase
+
+Quarterly Briefings
+
+In General
+
+Exemptions From Requirements.—
+
+In general
+
+Additional exceptions
+
+Science Mission Requirements
+
+Operations and Agreements.—
+
+Coast guard
+
+National oceanic and atmospheric administration
+
+Responsibility of under secretary
+
+Memorandum of agreement
+
+Restriction and Briefing
+
+Interim Report
+
+Rule of Construction
+
+Savings Clause.—
+
+In general
+
+Augmentation
+
+Definitions
+
+Appropriate congressional committees
+
+Arctic
+
+Available icebreaker
+
+Under secretary
+
+Sunset
+
+## Source Credit
+
+*(Added [Pub. L. 113–281, title V, § 506(a)](https://www.govinfo.gov/link/plaw/113/public/281), Dec. 18, 2014, [128 Stat. 3060](https://www.govinfo.gov/link/statute/128/3060), § 87; renumbered § 561, [Pub. L. 115–282, title I, § 105(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4200](https://www.govinfo.gov/link/statute/132/4200); amended [Pub. L. 116–283, div. G, title LVXXXI](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXI], § 8111(a), Jan. 1, 2021, [134 Stat. 4637](https://www.govinfo.gov/link/statute/134/4637).)*

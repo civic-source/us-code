@@ -3,9 +3,10 @@ title: "Section 6902 - Policy"
 usc_title: 22
 usc_section: "6902"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6902"
-generated_at: "2026-03-30T02:55:05.434Z"
+generated_at: "2026-11-23T21:25:58.700Z"
+status: "active"
 ---
 
 # § 6902. Policy
@@ -27,3 +28,7 @@ It is the policy of the United States—
       - **(v)** the right to be presumed innocent until proved guilty according to law; and
       - **(vi)** the right to be tried without undue delay; and
   - **(6)** to highlight in the United Nations Human Rights Commission and in other appropriate fora violations of human rights by foreign governments and to seek the support of other governments in urging improvements in human rights practices.
+
+## Source Credit
+
+*([Pub. L. 106–286, div. B, title II, § 203](https://www.govinfo.gov/link/plaw/106/public/286), Oct. 10, 2000, [114 Stat. 893](https://www.govinfo.gov/link/statute/114/893).)*

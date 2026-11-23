@@ -3,9 +3,10 @@ title: "Section 8121 - Improper appropriation of streets"
 usc_title: 40
 usc_section: "8121"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 8121"
-generated_at: "2026-03-30T02:55:43.383Z"
+generated_at: "2026-11-23T21:26:14.911Z"
+status: "active"
 ---
 
 # § 8121. Improper appropriation of streets
@@ -16,3 +17,20 @@ generated_at: "2026-03-30T02:55:43.383Z"
   - **(3)** prevent the erection of any permanent building on property reserved to or for the use of the Government, unless plainly authorized by law; and
   - **(4)** report to Congress at the beginning of each session on the Secretary’s proceedings in the premises, together with a full statement of all property described in this subsection, and how, and by what authority, the property is occupied or claimed.
 - **(b)** This section does not interfere with the temporary and proper occupation of any part of the property described in subsection (a), by lawful authority, for the legitimate purposes of the Government.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8121 | 40:66. | R.S. § 1818. |
+
+
+Authority
+
+Application
+
+Historical and Revision Notes
+
+8121
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1206](https://www.govinfo.gov/link/statute/116/1206).)*

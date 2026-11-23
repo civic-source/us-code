@@ -3,9 +3,10 @@ title: "Section 1902 - Research program"
 usc_title: 30
 usc_section: "1902"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1902"
-generated_at: "2026-03-30T02:55:29.410Z"
+generated_at: "2026-11-23T21:26:00.449Z"
+status: "active"
 ---
 
 # § 1902. Research program
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:29.410Z"
   - **(2)** undertake programs to develop the basic information necessary to the long-term national interest in marine mineral resources (including seabed mapping) and to ensure that data and information are accessible and widely disseminated as needed and appropriate;
   - **(3)** identify, and promote cooperation among agency programs that are developing, technologies developed by other Federal programs that may hold promise for facilitating undersea applications related to marine mineral resources, including technologies related to vessels and other platforms, underwater vehicles, survey and mapping systems, remote power sources, data collection and transmission systems, and various seabed research systems; and
   - **(4)** foster communication and coordination between Federal and State agencies, universities, and private entities concerning marine mineral research on seabeds of the continental shelf, ocean basins, and arctic and cold water areas.
+
+## Source Credit
+
+*([Pub. L. 91–631, title II, § 202](https://www.govinfo.gov/link/plaw/91/public/631), as added [Pub. L. 104–325, § 2(3)](https://www.govinfo.gov/link/plaw/104/public/325), Oct. 19, 1996, [110 Stat. 3995](https://www.govinfo.gov/link/statute/110/3995).)*

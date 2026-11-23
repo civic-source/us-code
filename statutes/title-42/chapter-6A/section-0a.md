@@ -3,9 +3,10 @@ title: "Section 0a - Behavioral health crisis coordinating office"
 usc_title: 42
 usc_section: "0a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 0a"
-generated_at: "2026-03-30T02:56:10.757Z"
+generated_at: "2026-11-23T21:26:30.546Z"
+status: "active"
 ---
 
 # § 290aa–0a. Behavioral health crisis coordinating office
@@ -21,3 +22,21 @@ generated_at: "2026-03-30T02:56:10.757Z"
     - **(D)** certified community behavioral health clinics, as described in section 223 of the Protecting Access to Medicare Act of 2014; and
     - **(E)** other community mental health and substance use disorder providers.
 - **(c)** There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2023 through 2027.
+
+In General
+
+Best Practices.—
+
+In general
+
+Identification of functions
+
+Service capacity and quality best practices
+
+Implementation timeframe
+
+Evaluations
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title V, § 501B, as added [Pub. L. 117–328, div. FF, title I, § 1101](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5635](https://www.govinfo.gov/link/statute/136/5635).)*

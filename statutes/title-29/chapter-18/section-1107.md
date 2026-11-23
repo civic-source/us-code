@@ -3,9 +3,10 @@ title: "Section 1107 - Limitation with respect to acquisition and holding of emp
 usc_title: 29
 usc_section: "1107"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1107"
-generated_at: "2026-03-30T02:55:18.717Z"
+generated_at: "2026-11-23T21:26:02.257Z"
+status: "active"
 ---
 
 # § 1107. Limitation with respect to acquisition and holding of employer securities and employer real property by certain plans
@@ -88,3 +89,13 @@ generated_at: "2026-03-30T02:55:18.717Z"
   - **(2)** Until January 1, 1993 , a plan shall not be treated as violating subsection (a) solely by holding stock which fails to satisfy the requirements of paragraph (1) if such stock—
     - **(A)** has been so held since December 17, 1987 , or
     - **(B)** was acquired after December 17, 1987 , pursuant to a legally binding contract in effect on December 17, 1987 , and has been so held at all times after the acquisition.
+
+Cross References.—
+
+In general
+
+Nonapplication to previously acquired property
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 407](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 880](https://www.govinfo.gov/link/statute/88/880); [Pub. L. 100–203, title IX, § 9345(a)(1)](https://www.govinfo.gov/link/plaw/100/public/203), (2), (b), Dec. 22, 1987, [101 Stat. 1330–373](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7881(l)(1)–(4), 7891(a)(1), 7894(e)(2), Dec. 19, 1989, [103 Stat. 2443](https://www.govinfo.gov/link/statute/103/2443), 2445, 2450; [Pub. L. 101–540, § 1](https://www.govinfo.gov/link/plaw/101/public/540), Nov. 8, 1990, [104 Stat. 2379](https://www.govinfo.gov/link/statute/104/2379); [Pub. L. 105–34, title XV, § 1524(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1071](https://www.govinfo.gov/link/statute/111/1071); [Pub. L. 109–280, title IX, § 901(b)(2)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1032](https://www.govinfo.gov/link/statute/120/1032).)*

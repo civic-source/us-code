@@ -3,9 +3,10 @@ title: "Section 362 - Misbranded cosmetics"
 usc_title: 21
 usc_section: "362"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 362"
-generated_at: "2026-03-30T02:54:54.262Z"
+generated_at: "2026-11-23T21:25:56.123Z"
+status: "active"
 ---
 
 # § 362. Misbranded cosmetics
@@ -18,3 +19,7 @@ A cosmetic shall be deemed to be misbranded—
 - **(d)** If its container is so made, formed, or filled as to be misleading.
 - **(e)** If it is a color additive, unless its packaging and labeling are in conformity with such packaging and labeling requirements, applicable to such color additive, as may be contained in regulations issued under section 379e of this title . This paragraph shall not apply to packages of color additives which, with respect to their use for cosmetics, are marketed and intended for use only in or on hair dyes (as defined in the last sentence of section 361(a) of this title ).
 - **(f)** If its packaging or labeling is in violation of an applicable regulation issued pursuant to section 1472 or 1473 of title 15.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 602, [52 Stat. 1054](https://www.govinfo.gov/link/statute/52/1054); [Pub. L. 86–618, title I, § 102(c)(2)](https://www.govinfo.gov/link/plaw/86/public/618), July 12, 1960, [74 Stat. 398](https://www.govinfo.gov/link/statute/74/398); [Pub. L. 91–601, § 6(f)](https://www.govinfo.gov/link/plaw/91/public/601), formerly § 7(f), Dec. 30, 1970, [84 Stat. 1673](https://www.govinfo.gov/link/statute/84/1673), renumbered [Pub. L. 97–35, title XII, § 1205(c)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 716](https://www.govinfo.gov/link/statute/95/716); [Pub. L. 102–571, title I, § 107(12)](https://www.govinfo.gov/link/plaw/102/public/571), Oct. 29, 1992, [106 Stat. 4499](https://www.govinfo.gov/link/statute/106/4499); [Pub. L. 117–328, div. FF, title III, § 3503(a)(3)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5858](https://www.govinfo.gov/link/statute/136/5858).)*

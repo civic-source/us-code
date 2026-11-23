@@ -3,9 +3,10 @@ title: "Section 136e - Registration of establishments"
 usc_title: 7
 usc_section: "136e"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 136e"
-generated_at: "2026-03-30T02:53:42.260Z"
+generated_at: "2026-11-23T21:25:27.893Z"
+status: "active"
 ---
 
 # § 136e. Registration of establishments
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.260Z"
     - **(C)** which the producer has sold or distributed during the past year.
   - **(2)** Any such producer shall, upon the request of the Administrator for the purpose of issuing a stop sale order pursuant to section 136k of this title , inform the Administrator of the name and address of any recipient of any pesticide produced in any registered establishment which the producer operates.
 - **(d)** Any information submitted to the Administrator pursuant to subsection (c) other than the names of the pesticides or active ingredients used in producing pesticides produced, sold, or distributed at an establishment shall be considered confidential and shall be subject to the provisions of section 136h of this title .
+
+## Source Credit
+
+*(June 25, 1947, ch. 125, § 7, as added [Pub. L. 92–516, § 2](https://www.govinfo.gov/link/plaw/92/public/516), Oct. 21, 1972, [86 Stat. 987](https://www.govinfo.gov/link/statute/86/987); amended [Pub. L. 95–396, § 13](https://www.govinfo.gov/link/plaw/95/public/396), Sept. 30, 1978, [92 Stat. 829](https://www.govinfo.gov/link/statute/92/829); [Pub. L. 102–237, title X, § 1006(b)(1)](https://www.govinfo.gov/link/plaw/102/public/237), (3)(F), (G), Dec. 13, 1991, [105 Stat. 1895](https://www.govinfo.gov/link/statute/105/1895), 1896.)*

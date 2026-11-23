@@ -3,9 +3,10 @@ title: "Section 5103A - Duty to assist claimants"
 usc_title: 38
 usc_section: "5103A"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 5103A"
-generated_at: "2026-03-30T02:55:53.519Z"
+generated_at: "2026-11-23T21:26:16.813Z"
+status: "active"
 ---
 
 # § 5103A. Duty to assist claimants
@@ -52,3 +53,29 @@ generated_at: "2026-03-30T02:55:53.519Z"
 - **(g)** The Secretary shall prescribe regulations to carry out this section.
 - **(h)** Nothing in this section shall be construed to require the Secretary to readjudicate a claim that has been disallowed except when new and relevant evidence is presented or secured, as described in section 5108 of this title .
 - **(i)** Nothing in this section shall be construed as precluding the Secretary from providing such other assistance under subsection (a) to a claimant in substantiating a claim as the Secretary considers appropriate.
+
+Duty To Assist
+
+Assistance in Obtaining Private Records
+
+Obtaining Records for Compensation Claims
+
+Medical Examinations for Compensation Claims
+
+Applicability of Duty to Assist
+
+Correction of Duty to Assist Errors
+
+Regulations
+
+Rule With Respect to Disallowed Claims
+
+Other Assistance Not Precluded
+
+In general
+
+Construction
+
+## Source Credit
+
+*(Added [Pub. L. 106–475, § 3(a)](https://www.govinfo.gov/link/plaw/106/public/475), Nov. 9, 2000, [114 Stat. 2097](https://www.govinfo.gov/link/statute/114/2097); amended [Pub. L. 112–154, title V, § 505(a)](https://www.govinfo.gov/link/plaw/112/public/154), (b), Aug. 6, 2012, [126 Stat. 1192](https://www.govinfo.gov/link/statute/126/1192); [Pub. L. 115–55, § 2(c)](https://www.govinfo.gov/link/plaw/115/public/55), (d), Aug. 23, 2017, [131 Stat. 1105](https://www.govinfo.gov/link/statute/131/1105); [Pub. L. 116–283, div. A, title IX, § 926(a)(51)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3830](https://www.govinfo.gov/link/statute/134/3830).)*

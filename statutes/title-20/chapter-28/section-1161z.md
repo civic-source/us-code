@@ -3,9 +3,10 @@ title: "Section 1161z - Henry Kuualoha Giugni Kupuna Memorial Archives"
 usc_title: 20
 usc_section: "1161z"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1161z"
-generated_at: "2026-03-30T02:54:48.156Z"
+generated_at: "2026-11-23T21:25:47.289Z"
+status: "active"
 ---
 
 # § 1161z. Henry Kuualoha Giugni Kupuna Memorial Archives
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:48.156Z"
     - **(B)** improve student achievement; and
   - **(10)** to increase the economic and financial literacy of postsecondary education students through the dissemination of best practices used at other institutions of higher education regarding debt and credit management and economic decisionmaking.
 - **(c)** There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VIII, § 895](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title VIII, § 801](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3445](https://www.govinfo.gov/link/statute/122/3445).)*

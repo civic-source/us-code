@@ -3,9 +3,10 @@ title: "Section 17354 - Annual report"
 usc_title: 42
 usc_section: "17354"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17354"
-generated_at: "2026-03-30T02:56:11.505Z"
+generated_at: "2026-11-23T21:26:33.789Z"
+status: "active"
 ---
 
 # § 17354. Annual report
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.505Z"
     - **(B)** costs associated with securing the use of real property for carrying out the functions of the Foundation;
     - **(C)** total travel expenses incurred by Board members and Foundation employees in connection with Foundation activities; and
     - **(D)** total representational expenses.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IX, § 924](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1736](https://www.govinfo.gov/link/statute/121/1736).)*

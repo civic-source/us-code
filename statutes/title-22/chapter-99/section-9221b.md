@@ -3,9 +3,10 @@ title: "Section 9221b - Sanctions with respect to foreign financial institutions
 usc_title: 22
 usc_section: "9221b"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9221b"
-generated_at: "2026-03-30T02:55:05.462Z"
+generated_at: "2026-11-23T21:25:58.766Z"
+status: "active"
 ---
 
 # § 9221b. Sanctions with respect to foreign financial institutions that provide financial services to certain sanctioned persons
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:05.462Z"
   - **(1)** The terms “account”, “correspondent account”, and “payable-through account” have the meanings given those terms in section 5318A of title 31 .
   - **(2)** The term “foreign financial institution” has the meaning given that term in section 510.309 of title 31, Code of Federal Regulations (or any corresponding similar regulation or ruling).
   - **(3)** The term “knowingly”, with respect to conduct, a circumstance, or a result, means that a person has actual knowledge, or should have known, of the conduct, the circumstance, or the result.
+
+## Source Credit
+
+*([Pub. L. 114–122, title II, § 201B](https://www.govinfo.gov/link/plaw/114/public/122), as added [Pub. L. 116–92, div. F, title LXXI, § 7121(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2245](https://www.govinfo.gov/link/statute/133/2245).)*

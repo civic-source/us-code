@@ -3,9 +3,10 @@ title: "Section 1764 - General requirements"
 usc_title: 43
 usc_section: "1764"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1764"
-generated_at: "2026-03-30T02:55:57.492Z"
+generated_at: "2026-11-23T21:26:19.882Z"
+status: "active"
 ---
 
 # § 1764. General requirements
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:57.492Z"
   - **(2)** Any regulation or stipulation imposing liability without fault shall include a maximum limitation on damages commensurate with the foreseeable risks or hazards presented. Any liability for damage or injury in excess of this amount shall be determined by ordinary rules of negligence.
 - **(i)** Where he deems it appropriate, the Secretary concerned may require a holder of a right-of-way to furnish a bond, or other security, satisfactory to him to secure all or any of the obligations imposed by the terms and conditions of the right-of-way or by any rule or regulation of the Secretary concerned.
 - **(j)** The Secretary concerned shall grant, issue, or renew a right-of-way under this subchapter only when he is satisfied that the applicant has the technical and financial capability to construct the project for which the right-of-way is requested, and in accord with the requirements of this subchapter.
+
+## Source Credit
+
+*([Pub. L. 94–579, title V, § 504](https://www.govinfo.gov/link/plaw/94/public/579), Oct. 21, 1976, [90 Stat. 2778](https://www.govinfo.gov/link/statute/90/2778); [Pub. L. 98–300](https://www.govinfo.gov/link/plaw/98/public/300), May 25, 1984, [98 Stat. 215](https://www.govinfo.gov/link/statute/98/215); [Pub. L. 99–545, § 2](https://www.govinfo.gov/link/plaw/99/public/545), Oct. 27, 1986, [100 Stat. 3048](https://www.govinfo.gov/link/statute/100/3048); [Pub. L. 104–333, div. I, title X, § 1032(a)](https://www.govinfo.gov/link/plaw/104/public/333), Nov. 12, 1996, [110 Stat. 4239](https://www.govinfo.gov/link/statute/110/4239).)*

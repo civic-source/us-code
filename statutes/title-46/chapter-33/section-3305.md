@@ -3,9 +3,10 @@ title: "Section 3305 - Scope and standards of inspection"
 usc_title: 46
 usc_section: "3305"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 3305"
-generated_at: "2026-03-30T02:56:15.543Z"
+generated_at: "2026-11-23T21:26:37.042Z"
+status: "active"
 ---
 
 # § 3305. Scope and standards of inspection
@@ -37,3 +38,27 @@ generated_at: "2026-03-30T02:56:15.543Z"
   - **(4)** In this section, the term “Officer in Charge, Marine Inspection” means any person from the civilian or military branch of the Coast Guard who—
     - **(A)** is designated as such by the Commandant; and
     - **(B)** under the superintendence and direction of the cognizant Coast Guard district commander, is in charge of an inspection zone for the performance of duties with respect to the inspections under, and enforcement and administration of, subtitle II, chapter 700, and regulations under such laws.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 3305 | 46:369 |
+|  | 46:390a |
+|  | 46:391 |
+|  | 46:392 |
+|  | 46:395 |
+|  | 46:404–1 |
+|  | 46:405 |
+|  | 46:406 |
+|  | 46:407 |
+|  | 46:408 |
+|  | 46:660a |
+|  | 46:881 |
+
+
+Historical and Revision Notes
+
+3305
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 513](https://www.govinfo.gov/link/statute/97/513); [Pub. L. 99–36, § 1(a)(1)](https://www.govinfo.gov/link/plaw/99/public/36), May 15, 1985, [99 Stat. 67](https://www.govinfo.gov/link/statute/99/67); [Pub. L. 99–640, § 13(e)](https://www.govinfo.gov/link/plaw/99/public/640), Nov. 10, 1986, [100 Stat. 3551](https://www.govinfo.gov/link/statute/100/3551); [Pub. L. 107–217, § 3(m)(2)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1302](https://www.govinfo.gov/link/statute/116/1302); [Pub. L. 108–293, title IV, § 416](https://www.govinfo.gov/link/plaw/108/public/293), Aug. 9, 2004, [118 Stat. 1047](https://www.govinfo.gov/link/statute/118/1047); [Pub. L. 109–241, title IX, § 901(f)](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 564](https://www.govinfo.gov/link/statute/120/564); [Pub. L. 115–282, title V, § 501(a)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4268](https://www.govinfo.gov/link/statute/132/4268); [Pub. L. 116–283, div. G, title LVXXXV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXV], § 8507(a)(1), Jan. 1, 2021, [134 Stat. 4752](https://www.govinfo.gov/link/statute/134/4752).)*

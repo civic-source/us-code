@@ -3,9 +3,10 @@ title: "Section 7105 - Protection and assistance for victims of trafficking"
 usc_title: 22
 usc_section: "7105"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7105"
-generated_at: "2026-03-30T02:55:05.436Z"
+generated_at: "2026-11-23T21:25:58.708Z"
+status: "active"
 ---
 
 # § 7105. Protection and assistance for victims of trafficking
@@ -118,3 +119,29 @@ generated_at: "2026-03-30T02:55:05.436Z"
     - **(B)** The Federal share of a grant awarded under this paragraph may not exceed 75 percent of the total costs of the projects described in the application submitted by the grantee.
 - **(f)**
 - **(g)** On or before October 31 of each year, the Secretary of Homeland Security shall submit a report to the appropriate congressional committees setting forth, with respect to the preceding fiscal year, the number, if any, of otherwise eligible applicants who did not receive visas under section 1101(a)(15)(T) of title 8 , as added by subsection (e), or who were unable to adjust their status under section 1255( l ) of title 8, solely on account of the unavailability of visas due to a limitation imposed by section 1184( o )(2) or 1255( l )(4)(A) of title 8.
+
+(aa) has made a bona fide application for a visa under section 1101(a)(15)(T) of title 8 , as added by subsection (e), that has not been denied; or
+
+(bb) is a person whose continued presence in the United States the Secretary of Homeland Security is ensuring in order to effectuate prosecution of traffickers in persons.
+
+“The amendment made by paragraph (1) [amending this section]—
+
+Study.—
+
+In general
+
+Factors
+
+Pilot program
+
+Purposes
+
+Selection of sites
+
+Form of assistance
+
+Report
+
+## Source Credit
+
+*([Pub. L. 106–386, div. A, § 107](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1474](https://www.govinfo.gov/link/statute/114/1474); [Pub. L. 107–228, div. A, title VI, § 682(a)](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1409](https://www.govinfo.gov/link/statute/116/1409); [Pub. L. 108–193](https://www.govinfo.gov/link/plaw/108/public/193), §§ 4(a)(1)–(3), 6(a)(2), 8(b)(2), Dec. 19, 2003, [117 Stat. 2877](https://www.govinfo.gov/link/statute/117/2877), 2880, 2887; [Pub. L. 109–162, title VIII, § 804](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3055](https://www.govinfo.gov/link/statute/119/3055); [Pub. L. 109–164, title I, § 102(a)](https://www.govinfo.gov/link/plaw/109/public/164), Jan. 10, 2006, [119 Stat. 3560](https://www.govinfo.gov/link/statute/119/3560); [Pub. L. 109–164, title II, § 213(c)](https://www.govinfo.gov/link/plaw/109/public/164), formerly [Pub. L. 115–393, title V, § 501(c)](https://www.govinfo.gov/link/plaw/115/public/393), Dec. 21, 2018, [132 Stat. 5276](https://www.govinfo.gov/link/statute/132/5276), renumbered [§ 213(c) of Pub. L. 109–164](https://www.govinfo.gov/link/plaw/109/public/164) by [Pub. L. 117–347, title I, § 106(b)(3)](https://www.govinfo.gov/link/plaw/117/public/347), Jan. 5, 2023, [136 Stat. 6205](https://www.govinfo.gov/link/statute/136/6205); [Pub. L. 110–457, title I, § 104](https://www.govinfo.gov/link/plaw/110/public/457), title II, §§ 205(a)(1), 212, 213(a)(1), (3), Dec. 23, 2008, [122 Stat. 5046](https://www.govinfo.gov/link/statute/122/5046), 5060, 5063, 5064, 5066; [Pub. L. 113–4, title XII](https://www.govinfo.gov/link/plaw/113/public/4), §§ 1203(b), 1234, Mar. 7, 2013, [127 Stat. 139](https://www.govinfo.gov/link/statute/127/139), 146; [Pub. L. 114–22, title I, § 102](https://www.govinfo.gov/link/plaw/114/public/22), title II, §§ 224, 231, title VI, § 603, May 29, 2015, [129 Stat. 230](https://www.govinfo.gov/link/statute/129/230), 250, 259; [Pub. L. 114–271, § 1(a)](https://www.govinfo.gov/link/plaw/114/public/271), (b), Dec. 14, 2016, [130 Stat. 1398](https://www.govinfo.gov/link/statute/130/1398); [Pub. L. 115–392, § 18(b)](https://www.govinfo.gov/link/plaw/115/public/392), Dec. 21, 2018, [132 Stat. 5258](https://www.govinfo.gov/link/statute/132/5258); [Pub. L. 115–393, title III, § 302](https://www.govinfo.gov/link/plaw/115/public/393), Dec. 21, 2018, [132 Stat. 5272](https://www.govinfo.gov/link/statute/132/5272); [Pub. L. 115–425, title I, § 103](https://www.govinfo.gov/link/plaw/115/public/425), Jan. 8, 2019, [132 Stat. 5475](https://www.govinfo.gov/link/statute/132/5475); [Pub. L. 117–301, § 2](https://www.govinfo.gov/link/plaw/117/public/301), Dec. 27, 2022, [136 Stat. 4382](https://www.govinfo.gov/link/statute/136/4382); [Pub. L. 117–347, title I, § 101(b)](https://www.govinfo.gov/link/plaw/117/public/347), Jan. 5, 2023, [136 Stat. 6200](https://www.govinfo.gov/link/statute/136/6200); [Pub. L. 118–42, div. C, title V, § 545](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 178](https://www.govinfo.gov/link/statute/138/178).)*

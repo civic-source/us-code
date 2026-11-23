@@ -3,9 +3,10 @@ title: "Section 1110 - Exculpatory provisions; insurance"
 usc_title: 29
 usc_section: "1110"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1110"
-generated_at: "2026-03-30T02:55:18.718Z"
+generated_at: "2026-11-23T21:26:02.261Z"
+status: "active"
 ---
 
 # § 1110. Exculpatory provisions; insurance
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:18.718Z"
   - **(1)** a plan from purchasing insurance for its fiduciaries or for itself to cover liability or losses occurring by reason of the act or omission of a fiduciary, if such insurance permits recourse by the insurer against the fiduciary in the case of a breach of a fiduciary obligation by such fiduciary;
   - **(2)** a fiduciary from purchasing insurance to cover liability under this part from and for his own account; or
   - **(3)** an employer or an employee organization from purchasing insurance to cover potential liability of one or more persons who serve in a fiduciary capacity with regard to an employee benefit plan.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 410](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 886](https://www.govinfo.gov/link/statute/88/886).)*

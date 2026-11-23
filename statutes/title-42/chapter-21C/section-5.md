@@ -3,9 +3,10 @@ title: "Section 5 - Definitions"
 usc_title: 42
 usc_section: "5"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T02:56:11.141Z"
+generated_at: "2026-11-23T21:26:32.298Z"
+status: "active"
 ---
 
 # § 2000cc–5. Definitions
@@ -26,3 +27,7 @@ In this chapter:
   - **(7)**
     - **(A)** The term “religious exercise” includes any exercise of religion, whether or not compelled by, or central to, a system of religious belief.
     - **(B)** The use, building, or conversion of real property for the purpose of religious exercise shall be considered to be religious exercise of the person or entity that uses or intends to use the property for that purpose.
+
+## Source Credit
+
+*([Pub. L. 106–274, § 8](https://www.govinfo.gov/link/plaw/106/public/274), Sept. 22, 2000, [114 Stat. 806](https://www.govinfo.gov/link/statute/114/806).)*

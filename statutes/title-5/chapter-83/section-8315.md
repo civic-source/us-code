@@ -3,9 +3,10 @@ title: "Section 8315 - Falsifying employment applications"
 usc_title: 5
 usc_section: "8315"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8315"
-generated_at: "2026-03-30T02:52:56.044Z"
+generated_at: "2026-11-23T21:25:23.363Z"
+status: "active"
 ---
 
 # § 8315. Falsifying employment applications
@@ -22,3 +23,22 @@ generated_at: "2026-03-30T02:52:56.044Z"
 - **(b)** The prohibition on the payment of annuity or retired pay applies—
   - **(1)** with respect to matters specified by subsection (a)(1) of this section, to the period after the statement, representation, or concealment of fact is made or occurs, or after September 1, 1954 , whichever is later; and
   - **(2)** with respect to matters specified by subsection (a)(2) of this section, to the period after the statement, representation, or concealment of fact is made or occurs, or after September 26, 1961 , whichever is later.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 2283(b) , (c). | Sept. 26, 1961 , Pub. L. 87–299, § 1 “Sec. 2(b), (c)”, 75 Stat. 642 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 2283(b)
+
+Sept. 26, 1961
+
+Pub. L. 87–299, § 1
+
+75 Stat. 642
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 562](https://www.govinfo.gov/link/statute/80/562).)*

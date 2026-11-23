@@ -3,12 +3,17 @@ title: "Section 124 - Agricultural entry or purchase of lands withdrawn or class
 usc_title: 30
 usc_section: "124"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 124"
-generated_at: "2026-03-30T02:55:29.377Z"
+generated_at: "2026-11-23T21:26:00.366Z"
+status: "active"
 ---
 
 # § 124. Agricultural entry or purchase of lands withdrawn or classified as containing sodium or sulphur
 
 Lands withdrawn, classified, or reported as valuable for sodium and/or sulphur and subject to prospecting, leasing, or development under the General Leasing Act of February 25, 1920 , or Acts amendatory thereof or supplementary thereto [ 30 U.S.C. 181 et seq.], shall be subject to appropriation, location, selection, entry, or purchase if otherwise available in the form and manner and subject to the reservations, provisions, limitations, and conditions of the Act of Congress approved July 17, 1914 (38 Stat. L. 509; U.S.C., title 30, sec. 123); Provided, however , That lands lying within the geologic structure of a field, or withdrawn, classified, or reported as valuable for any of the minerals named herein and/or in any of said sections, or upon which leases or prospecting permits have been applied for or granted, for the production of any of such minerals, shall not be subject to such appropriation, location, selection, entry, or purchase unless it shall be determined by the Secretary of the Interior that such disposal will not unreasonably interfere with operations under said sections.
 
+
+## Source Credit
+
+*(Mar. 4, 1933, ch. 278, [47 Stat. 1570](https://www.govinfo.gov/link/statute/47/1570).)*

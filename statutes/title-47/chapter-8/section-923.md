@@ -3,9 +3,10 @@ title: "Section 923 - Identification of reallocable frequencies"
 usc_title: 47
 usc_section: "923"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 923"
-generated_at: "2026-03-30T02:56:24.527Z"
+generated_at: "2026-11-23T21:26:36.075Z"
+status: "active"
 ---
 
 # § 923. Identification of reallocable frequencies
@@ -161,3 +162,7 @@ generated_at: "2026-03-30T02:56:24.527Z"
   - **(2)** If the NTIA determines under paragraph (1) that relocation of a Federal entity from the band is not feasible, the NTIA shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives of the determination, including the specific technical or cost constraints on which the determination is based.
 - **(k)** Any Federal Government station which operates on electromagnetic spectrum that has been identified in any reallocation report under this section shall, to the maximum extent practicable through the use of the authority granted under subsection (g) and any other applicable provision of law, take action to relocate its spectrum use to other frequencies that are reserved for Federal use or to consolidate its spectrum use with other Federal Government stations in a manner that maximizes the spectrum available for non-Federal use.
 - **(l)** For purposes of this section, the term “Federal entity” means any department, agency, or other instrumentality of the Federal Government that utilizes a Government station license obtained under section 305 of the 1934 Act ( 47 U.S.C. 305 ).
+
+## Source Credit
+
+*([Pub. L. 102–538, title I, § 113](https://www.govinfo.gov/link/plaw/102/public/538), as added [Pub. L. 103–66, title VI, § 6001(a)(3)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 380](https://www.govinfo.gov/link/statute/107/380); amended [Pub. L. 105–33, title III, § 3002(d)(1)](https://www.govinfo.gov/link/plaw/105/public/33), (e)(1)–(3), Aug. 5, 1997, [111 Stat. 262](https://www.govinfo.gov/link/statute/111/262), 264, 265; [Pub. L. 105–261, div. A, title X, § 1064(c)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2132](https://www.govinfo.gov/link/statute/112/2132); [Pub. L. 106–65, div. A, title X, § 1062(c)(2)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 768](https://www.govinfo.gov/link/statute/113/768); [Pub. L. 108–494, title II, § 202](https://www.govinfo.gov/link/plaw/108/public/494), Dec. 23, 2004, [118 Stat. 3991](https://www.govinfo.gov/link/statute/118/3991); [Pub. L. 112–96, title VI, § 6701(a)](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 245](https://www.govinfo.gov/link/statute/126/245); [Pub. L. 114–74, title X, § 1005(b)](https://www.govinfo.gov/link/plaw/114/public/74), (c), Nov. 2, 2015, [129 Stat. 623](https://www.govinfo.gov/link/statute/129/623), 624; [Pub. L. 117–286, § 4(a)(299)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4338](https://www.govinfo.gov/link/statute/136/4338).)*

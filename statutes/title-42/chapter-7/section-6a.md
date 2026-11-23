@@ -3,9 +3,10 @@ title: "Section 6a - Interagency coordination to improve program administration"
 usc_title: 42
 usc_section: "6a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6a"
-generated_at: "2026-03-30T02:56:10.908Z"
+generated_at: "2026-11-23T21:26:31.249Z"
+status: "active"
 ---
 
 # § 1320a–6a. Interagency coordination to improve program administration
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:10.908Z"
 - **(e)** For purposes of this section, the term “disability annuity overpayment” means the amount of the reduction under section 8452(a)(2) of title 5 applicable to a monthly annuity payment made to an individual pursuant to subchapter V of chapter 84 of subpart G of part III of such title due to the individual’s concurrent entitlement to a disability insurance benefit under section 423 of this title during such month.
 - **(f)** The authorization described in this subsection, with respect to an individual, is written authorization provided by the individual to the Director which authorizes the Commissioner to withhold past-due benefits under section 423 of this title to which such individual is entitled in order to pay the amount withheld to the Office of Personnel Management for any disability overpayments made to such individual.
 - **(g)** The Director shall pay to the Social Security Administration an amount equal to the amount estimated by the Commissioner as the total cost incurred by the Social Security Administration in carrying out this section for each calendar quarter.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XI, § 1127A, as added [Pub. L. 114–74, title VIII, § 841(a)](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 615](https://www.govinfo.gov/link/statute/129/615).)*

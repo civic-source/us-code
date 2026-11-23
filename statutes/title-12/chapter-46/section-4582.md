@@ -3,9 +3,10 @@ title: "Section 4582 - Hearings"
 usc_title: 12
 usc_section: "4582"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4582"
-generated_at: "2026-03-30T02:53:53.510Z"
+generated_at: "2026-11-23T21:25:37.193Z"
+status: "active"
 ---
 
 # § 4582. Hearings
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.510Z"
 - **(b)**
   - **(1)** After any such hearing, and within 90 days after the enterprise has been notified that the case has been submitted to the Director for final decision, the Director shall render the decision (which shall include findings of fact upon which the decision is predicated) and shall issue and serve upon the enterprise an order or orders consistent with the provisions of this subpart.
   - **(2)** Judicial review of any such order shall be exclusively as provided in section 4583 of this title . Unless such a petition for review is timely filed as provided in section 4583 of this title , and thereafter until the record in the proceeding has been filed as so provided, the Director may at any time, modify, terminate, or set aside any such order, upon such notice and in such manner as the Director considers proper. Upon such filing of the record, the Director may modify, terminate, or set aside any such order with permission of the court.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1342](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3965](https://www.govinfo.gov/link/statute/106/3965); [Pub. L. 110–289, div. A, title I, § 1130(e)(3)(A)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2711](https://www.govinfo.gov/link/statute/122/2711).)*

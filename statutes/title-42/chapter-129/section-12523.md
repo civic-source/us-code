@@ -3,9 +3,10 @@ title: "Section 12523 - Assistance to States, territories, and Indian tribes"
 usc_title: 42
 usc_section: "12523"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12523"
-generated_at: "2026-03-30T02:56:11.414Z"
+generated_at: "2026-11-23T21:26:33.481Z"
+status: "active"
 ---
 
 # § 12523. Assistance to States, territories, and Indian tribes
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:56:11.414Z"
   - **(2)** provision of professional development opportunities that—
     - **(A)** improve the quality of service-learning instruction and delivery for teachers both preservice and in-service, personnel from community-based entities and youth workers; and
     - **(B)** create and sustain effective partnerships for service-learning programs between local educational agencies, community-based entities, businesses, and other stakeholders.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 112](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 111–13, title I, § 1201](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1468](https://www.govinfo.gov/link/statute/123/1468); amended [Pub. L. 113–128, title V, § 512(u)(1)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1712](https://www.govinfo.gov/link/statute/128/1712); [Pub. L. 114–95, title IX, § 9215(bbb)(2)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2185](https://www.govinfo.gov/link/statute/129/2185).)*

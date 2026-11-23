@@ -3,9 +3,10 @@ title: "Section 453b - Requirement to buy certain items related to national secu
 usc_title: 6
 usc_section: "453b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 453b"
-generated_at: "2026-03-30T02:53:09.464Z"
+generated_at: "2026-11-23T21:25:25.794Z"
+status: "active"
 ---
 
 # § 453b. Requirement to buy certain items related to national security interests from American sources; exceptions
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:09.464Z"
   - **(2)** The Secretary shall ensure that any training program for the acquisition workforce developed or implemented after February 17, 2009 , includes comprehensive information on the requirements described in paragraph (1).
 - **(k)** This section shall be applied in a manner consistent with United States obligations under international agreements.
 - **(l)** This section applies with respect to contracts entered into by the Department of Homeland Security 180 days after February 17, 2009 .
+
+## Source Credit
+
+*([Pub. L. 111–5, div. A, title VI, § 604](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 165](https://www.govinfo.gov/link/statute/123/165); [Pub. L. 115–232, div. A, title VIII, § 836(g)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1872](https://www.govinfo.gov/link/statute/132/1872); [Pub. L. 117–81, div. A, title XVII, § 1702(c)(5)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2156](https://www.govinfo.gov/link/statute/135/2156).)*

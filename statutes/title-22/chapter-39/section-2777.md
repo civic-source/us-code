@@ -3,9 +3,10 @@ title: "Section 2777 - Fiscal provisions relating to foreign military sales cred
 usc_title: 22
 usc_section: "2777"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2777"
-generated_at: "2026-03-30T02:55:05.386Z"
+generated_at: "2026-11-23T21:25:58.557Z"
+status: "active"
 ---
 
 # § 2777. Fiscal provisions relating to foreign military sales credits
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:05.386Z"
 - **(a)** Cash payments received under sections 2761, 2762, and 2769 of this title and advances received under section 2763 of this title shall be available solely for payments to suppliers (including the military departments) and refunds to purchasers and shall not be available for financing credits and guaranties.
 - **(b)** Amounts received from foreign governments and international organizations as repayments for credits extended pursuant to section 2763 of this title , amounts received from the disposition of instruments evidencing indebtedness under section 2764(b) of this title (excluding such portion of the sales proceeds as may be required at the time of disposition to be obligated as a reserve for payment of claims under guaranties issued pursuant to section 2764(b) of this title , which sums are made available for such obligations), and other collections (including fees and interest) shall be transferred to the miscellaneous receipts of the Treasury.
 - **(c)** Notwithstanding the provisions of subsection (b), to the extent that any of the funds constituting the reserve under section 2764(c) of this title are paid out for a claim arising out of a loan guaranteed under section 2764 of this title , amounts received from a foreign government or international organization after the date of such payment, with respect to such claim, shall be credited to such reserve, shall be merged with the funds in such reserve, and shall be available for any purpose for which funds in such reserve are available.
+
+## Source Credit
+
+*([Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 3, § 37, Oct. 22, 1968, [82 Stat. 1326](https://www.govinfo.gov/link/statute/82/1326); [Pub. L. 93–189, § 25(11)](https://www.govinfo.gov/link/plaw/93/public/189), Dec. 17, 1973, [87 Stat. 731](https://www.govinfo.gov/link/statute/87/731); [Pub. L. 96–533, title I](https://www.govinfo.gov/link/plaw/96/public/533), §§ 104(b), 105(e)(1), Dec. 16, 1980, [94 Stat. 3133](https://www.govinfo.gov/link/statute/94/3133), 3135.)*

@@ -3,9 +3,10 @@ title: "Section 685 - Treatment of funeral trusts"
 usc_title: 26
 usc_section: "685"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 685"
-generated_at: "2026-03-30T02:55:27.724Z"
+generated_at: "2026-11-23T21:26:06.365Z"
+status: "active"
 ---
 
 # § 685. Treatment of funeral trusts
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:27.724Z"
 - **(c)** Section 1(e) shall be applied to each qualified funeral trust by treating each beneficiary’s interest in each such trust as a separate trust.
 - **(d)** No gain or loss shall be recognized to a purchaser of a contract described in subsection (b)(1) by reason of any payment from such trust to such purchaser by reason of cancellation of such contract. If any payment referred to in the preceding sentence consists of property other than money, the basis of such property in the hands of such purchaser shall be the same as the trust’s basis in such property immediately before the payment.
 - **(e)** The Secretary may prescribe rules for simplified reporting of all trusts having a single trustee and of trusts terminated during the year.
+
+## Source Credit
+
+*(Added [Pub. L. 105–34, title XIII, § 1309(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1042](https://www.govinfo.gov/link/statute/111/1042); amended [Pub. L. 105–206, title VI, § 6013(b)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 820](https://www.govinfo.gov/link/statute/112/820); [Pub. L. 110–317, § 9(a)](https://www.govinfo.gov/link/plaw/110/public/317), (b), Aug. 29, 2008, [122 Stat. 3530](https://www.govinfo.gov/link/statute/122/3530).)*

@@ -3,12 +3,17 @@ title: "Section 5402 - Definition"
 usc_title: 12
 usc_section: "5402"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5402"
-generated_at: "2026-03-30T02:53:53.537Z"
+generated_at: "2026-11-23T21:25:37.262Z"
+status: "active"
 ---
 
 # § 5402. Definition
 
 In this title, 1 1 See References in Text note below. the term “transferred employee” means, as the context requires, an employee transferred to the Office of the Comptroller of the Currency or the Corporation under section 5432 of this title .
 
+
+## Source Credit
+
+*([Pub. L. 111–203, title III, § 302](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1520](https://www.govinfo.gov/link/statute/124/1520).)*

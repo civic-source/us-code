@@ -3,9 +3,10 @@ title: "Section 7002 - United States-China Economic and Security Review Commissi
 usc_title: 22
 usc_section: "7002"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7002"
-generated_at: "2026-03-30T02:55:05.435Z"
+generated_at: "2026-11-23T21:25:58.704Z"
+status: "active"
 ---
 
 # § 7002. United States-China Economic and Security Review Commission
@@ -72,3 +73,27 @@ generated_at: "2026-03-30T02:55:05.435Z"
   - **(2)** Amounts appropriated to the Commission shall remain available until expended.
 - **(g)** The provisions of chapter 10 of title 5 shall apply to the activities of the Commission.
 - **(h)** This section shall take effect on the first day of the 107th Congress.
+
+“The United States-China Commission shall focus, in lieu of any other areas of work or study, on the following:
+
+Proliferation practices
+
+Economic reforms and united states economic transfers
+
+Energy
+
+United states capital markets
+
+Corporate reporting
+
+Regional economic and security impacts
+
+United states-china bilateral programs
+
+World trade organization compliance
+
+Media control
+
+## Source Credit
+
+*([Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title XII, § 1238], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–334; [Pub. L. 107–67, title VI](https://www.govinfo.gov/link/plaw/107/public/67), §§ 645(a), 648, Nov. 12, 2001, [115 Stat. 556](https://www.govinfo.gov/link/statute/115/556); [Pub. L. 108–7, div. P, § 2(b)(1)](https://www.govinfo.gov/link/plaw/108/public/7), (c)(1), Feb. 20, 2003, [117 Stat. 552](https://www.govinfo.gov/link/statute/117/552); [Pub. L. 109–108, title VI, § 635(b)](https://www.govinfo.gov/link/plaw/109/public/108), Nov. 22, 2005, [119 Stat. 2347](https://www.govinfo.gov/link/statute/119/2347); [Pub. L. 110–161, div. J, title I](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2285](https://www.govinfo.gov/link/statute/121/2285); [Pub. L. 113–291, div. A, title XII, § 1259B(a)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3578](https://www.govinfo.gov/link/statute/128/3578); [Pub. L. 117–286, § 4(a)(173)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4324](https://www.govinfo.gov/link/statute/136/4324).)*

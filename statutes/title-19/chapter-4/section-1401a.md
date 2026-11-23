@@ -3,9 +3,10 @@ title: "Section 1401a - Value"
 usc_title: 19
 usc_section: "1401a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1401a"
-generated_at: "2026-03-30T02:54:24.633Z"
+generated_at: "2026-11-23T21:25:42.700Z"
+status: "active"
 ---
 
 # § 1401a. Value
@@ -149,3 +150,19 @@ generated_at: "2026-03-30T02:54:24.633Z"
       - **(iii)** added under subsection (e)(2) as profit or general expense;
     - **(B)** any difference taken into account for purposes of subsection (b)(2)(C); or
     - **(C)** any adjustment made under subsection (c)(2);
+
+Effective Date of Amendments.—
+
+In general
+
+Earlier effective date under certain circumstances
+
+Application of Old Law Valuation Standards
+
+Special Treatment for Certain Rubber Footwear
+
+Definition
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 402, as added Aug. 2, 1956, ch. 887, § 2(a), [70 Stat. 943](https://www.govinfo.gov/link/statute/70/943); amended [Pub. L. 96–39, title II, § 201(a)](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 194](https://www.govinfo.gov/link/statute/93/194); [Pub. L. 96–490, § 2](https://www.govinfo.gov/link/plaw/96/public/490), Dec. 2, 1980, [94 Stat. 2556](https://www.govinfo.gov/link/statute/94/2556).)*

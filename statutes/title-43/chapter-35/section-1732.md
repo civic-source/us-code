@@ -3,9 +3,10 @@ title: "Section 1732 - Management of use, occupancy, and development of public l
 usc_title: 43
 usc_section: "1732"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1732"
-generated_at: "2026-03-30T02:55:57.488Z"
+generated_at: "2026-11-23T21:26:19.875Z"
+status: "active"
 ---
 
 # § 1732. Management of use, occupancy, and development of public lands
@@ -24,3 +25,29 @@ generated_at: "2026-03-30T02:55:57.488Z"
   - **(4)** Issuance of a general authorization pursuant to this subsection shall be subject to the provisions of section 1712(f) of this title , section 3120 of title 16 , and all other applicable provisions of law. The Secretary of a military department (or the Commandant of the Coast Guard) requesting such authorization shall reimburse the Secretary of the Interior for the costs of implementing this paragraph. An authorization pursuant to this subsection shall not authorize the construction of permanent structures or facilities on the public lands.
   - **(5)** To the extent that public safety may require closure to public use of any portion of the public lands covered by an authorization issued pursuant to this subsection, the Secretary of the military Department concerned or the Commandant of the Coast Guard shall take appropriate steps to notify the public concerning such closure and to provide appropriate warnings of risks to public safety.
   - **(6)** For purposes of this subsection, the term “conservation system unit” has the same meaning as specified in section 3102 of title 16 .
+
+Definitions
+
+Invasive species
+
+Locally adapted
+
+Native plant species
+
+Nonnative
+
+Plant material
+
+Establishment
+
+Implementation
+
+Coordination
+
+Termination of Authority
+
+Report
+
+## Source Credit
+
+*([Pub. L. 94–579, title III, § 302](https://www.govinfo.gov/link/plaw/94/public/579), Oct. 21, 1976, [90 Stat. 2762](https://www.govinfo.gov/link/statute/90/2762); [Pub. L. 100–586](https://www.govinfo.gov/link/plaw/100/public/586), Nov. 3, 1988, [102 Stat. 2980](https://www.govinfo.gov/link/statute/102/2980).)*

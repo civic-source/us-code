@@ -3,9 +3,10 @@ title: "Section 220551 - Definitions"
 usc_title: 36
 usc_section: "220551"
 chapter: 2205
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 220551"
-generated_at: "2026-03-30T02:55:44.711Z"
+generated_at: "2026-11-23T21:26:13.757Z"
+status: "active"
 ---
 
 # § 220551. Definitions
@@ -22,3 +23,7 @@ In this subchapter, the term “joint resolution” means a joint resolution—
     - **(B)**
       - **(i)** the title is only as follows: “A joint resolution relating to terminating the recognition of a national governing body”; and
       - **(ii)** the matter after the resolving clause is only as follows: “That Congress determines that _________, which is recognized as a national governing body under section 220521 of title 36 , United States Code, has failed to fulfill its duties, as described in section 220524 of title 36 , United States Code”, the blank space being filled in with the name of the applicable national governing body.
+
+## Source Credit
+
+*(Added [Pub. L. 116–189, § 5(a)(2)](https://www.govinfo.gov/link/plaw/116/public/189), Oct. 30, 2020, [134 Stat. 946](https://www.govinfo.gov/link/statute/134/946).)*

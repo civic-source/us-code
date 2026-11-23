@@ -3,9 +3,10 @@ title: "Section 6038 - Information reporting with respect to certain foreign cor
 usc_title: 26
 usc_section: "6038"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6038"
-generated_at: "2026-03-30T02:55:27.830Z"
+generated_at: "2026-11-23T21:26:06.762Z"
+status: "active"
 ---
 
 # § 6038. Information reporting with respect to certain foreign corporations and partnerships
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:55:27.830Z"
 - **(f)**
   - **(1)** For provisions relating to penalties for violations of this section, see section 7203.
   - **(2)** For definition of the term “United States person”, see section 7701(a)(30).
+
+## Source Credit
+
+*(Added [Pub. L. 86–780, § 6(a)](https://www.govinfo.gov/link/plaw/86/public/780), Sept. 14, 1960, [74 Stat. 1014](https://www.govinfo.gov/link/statute/74/1014); amended [Pub. L. 87–834, § 20(a)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 1059](https://www.govinfo.gov/link/statute/76/1059); [Pub. L. 88–554, § 4(b)(6)](https://www.govinfo.gov/link/plaw/88/public/554), Aug. 31, 1964, [78 Stat. 764](https://www.govinfo.gov/link/statute/78/764); [Pub. L. 94–455, title X, § 1031(b)(5)](https://www.govinfo.gov/link/plaw/94/public/455), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1623](https://www.govinfo.gov/link/statute/90/1623), 1834; [Pub. L. 97–248, title III, § 338(a)](https://www.govinfo.gov/link/plaw/97/public/248) –(c), Sept. 3, 1982, [96 Stat. 631](https://www.govinfo.gov/link/statute/96/631); [Pub. L. 99–514, title XII](https://www.govinfo.gov/link/plaw/99/public/514), §§ 1202(c), 1245(b)(5), Oct. 22, 1986, [100 Stat. 2530](https://www.govinfo.gov/link/statute/100/2530), 2581; [Pub. L. 101–239, title VII, § 7712(a)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2393](https://www.govinfo.gov/link/statute/103/2393); [Pub. L. 101–508, title XI, § 11701(f)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–508](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 104–188, title I, § 1704(f)(5)(A)](https://www.govinfo.gov/link/plaw/104/public/188), (t)(40), (46), Aug. 20, 1996, [110 Stat. 1880](https://www.govinfo.gov/link/statute/110/1880), 1889; [Pub. L. 105–34, title XI, § 1142(a)](https://www.govinfo.gov/link/plaw/105/public/34) –(e)(2), Aug. 5, 1997, [111 Stat. 981–983](https://www.govinfo.gov/link/statute/111/981); [Pub. L. 105–206, title VI, § 6011(f)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 818](https://www.govinfo.gov/link/statute/112/818); [Pub. L. 115–97, title I, § 14301(c)(36)](https://www.govinfo.gov/link/plaw/115/public/97), (37), Dec. 22, 2017, [131 Stat. 2224](https://www.govinfo.gov/link/statute/131/2224).)*

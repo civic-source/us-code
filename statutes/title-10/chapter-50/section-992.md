@@ -3,9 +3,10 @@ title: "Section 992 - Financial literacy training: financial services"
 usc_title: 10
 usc_section: "992"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 992"
-generated_at: "2026-03-30T02:53:38.094Z"
+generated_at: "2026-11-23T21:25:32.372Z"
+status: "active"
 ---
 
 # § 992. Financial literacy training: financial services
@@ -68,3 +69,103 @@ generated_at: "2026-03-30T02:53:38.094Z"
   - **(2)** Investments in securities or financial instruments.
   - **(3)** Banking, credit, loans, deferred payment plans, and mortgages.
   - **(4)** Health insurance, budget management, Thrift Savings Plan (TSP), retirement lump sum payments (including rollover options and tax consequences), and Survivor Benefit Plan (SBP).
+
+Requirement for Financial Literacy Training Program for Members
+
+Counseling for Members and Spouses
+
+Life Insurance
+
+Provision of Retirement Information
+
+Financial Literacy and Preparedness Survey
+
+Financial Services Defined
+
+In General
+
+Elements
+
+Timing of Provision of Counseling
+
+Short Title
+
+Table of Contents
+
+Life insurance product.—
+
+In general
+
+Included insurance
+
+Exclusions
+
+Amendment
+
+Technical Amendment
+
+Report on Refunds, Sales Practices, and Revenues From Periodic Payment Plans
+
+Investment Advisers
+
+Conforming Amendments
+
+Investment advisers act of 1940
+
+National securities markets improvement act of 1996
+
+Clarification of Jurisdiction
+
+Primary State Jurisdiction
+
+State Standards
+
+State Report
+
+Administrative Coordination; Sense of Congress
+
+Requirement
+
+Disclosure
+
+Voidability
+
+Enforcement
+
+Exceptions
+
+In General
+
+Conditional GAO Report
+
+Reporting by Insurers
+
+Reporting by States
+
+Definition
+
+Establishment
+
+Notice and Access
+
+Regulations.—
+
+In general
+
+Timing.—
+
+Proposed regulations
+
+Final regulations
+
+Effective date
+
+Definition
+
+Study
+
+Reports
+
+## Source Credit
+
+*(Added [Pub. L. 109–163, div. A, title V, § 578(a)(1)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3274](https://www.govinfo.gov/link/statute/119/3274); amended [Pub. L. 111–84, div. A, title X, § 1073(a)(8)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2472](https://www.govinfo.gov/link/statute/123/2472); [Pub. L. 114–92, div. A, title VI, § 661(b)](https://www.govinfo.gov/link/plaw/114/public/92) –(e)(1), Nov. 25, 2015, [129 Stat. 857](https://www.govinfo.gov/link/statute/129/857), 858; [Pub. L. 118–31, div. A, title V, § 524(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 253](https://www.govinfo.gov/link/statute/137/253); [Pub. L. 118–159, div. A, title V, § 541](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1891](https://www.govinfo.gov/link/statute/138/1891).)*

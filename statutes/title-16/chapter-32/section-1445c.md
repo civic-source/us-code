@@ -3,9 +3,10 @@ title: "Section 1445c - Dr. Nancy Foster Scholarship Program"
 usc_title: 16
 usc_section: "1445c"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1445c"
-generated_at: "2026-03-30T02:54:22.969Z"
+generated_at: "2026-11-23T21:25:51.883Z"
+status: "active"
 ---
 
 # § 1445c. Dr. Nancy Foster Scholarship Program
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:22.969Z"
 - **(e)** Of the amount available each fiscal year to carry out this chapter, the Secretary shall award 1 percent as Dr. Nancy Foster Scholarships.
 - **(f)** The Secretary shall require an individual receiving a scholarship under this section to repay the full amount of the scholarship to the Secretary if the Secretary determines that the individual, in obtaining or using the scholarship, engaged in fraudulent conduct or failed to comply with any term or condition of the scholarship.
 - **(g)** In this section the term “maritime archeology” includes the curation, preservation, and display of maritime artifacts.
+
+## Source Credit
+
+*([Pub. L. 92–532, title III, § 318](https://www.govinfo.gov/link/plaw/92/public/532), as added [Pub. L. 106–513, § 18](https://www.govinfo.gov/link/plaw/106/public/513), Nov. 13, 2000, [114 Stat. 2392](https://www.govinfo.gov/link/statute/114/2392).)*

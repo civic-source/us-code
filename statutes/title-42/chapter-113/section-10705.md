@@ -3,9 +3,10 @@ title: "Section 10705 - Grants and contracts"
 usc_title: 42
 usc_section: "10705"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10705"
-generated_at: "2026-03-30T02:56:11.391Z"
+generated_at: "2026-11-23T21:26:33.382Z"
+status: "active"
 ---
 
 # § 10705. Grants and contracts
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:56:11.391Z"
 - **(d)** The Institute shall incorporate in any grant, cooperative agreement, or contract awarded under this section in which a State or local court (or other unit of State or local government) is the recipient, the requirement that the recipient provide a match, from private or public sources, not less than 50 per centum of the total cost of such grant, cooperative agreement, or contract, except that such requirement may be waived in exceptionally rare circumstances upon the approval of the chief justice of the highest court of the State and a majority of the Board of Directors.
 - **(e)** The Institute shall monitor and evaluate, or provide for independent evaluations of, programs supported in whole or in part under this chapter to ensure that the provisions of this chapter, the bylaws of the Institute, and the applicable rules, regulations, and guidelines promulgated pursuant to this chapter, are carried out.
 - **(f)** The Institute shall provide for an independent study of the financial and technical assistance programs under this chapter.
+
+## Source Credit
+
+*([Pub. L. 98–620, title II, § 206](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3340](https://www.govinfo.gov/link/statute/98/3340); [Pub. L. 100–690, title VII, § 7321(b)(3)](https://www.govinfo.gov/link/plaw/100/public/690), (4), Nov. 18, 1988, [102 Stat. 4466](https://www.govinfo.gov/link/statute/102/4466), 4467; [Pub. L. 100–702, title VI](https://www.govinfo.gov/link/plaw/100/public/702), §§ 603, 604, Nov. 19, 1988, [102 Stat. 4653](https://www.govinfo.gov/link/statute/102/4653); [Pub. L. 102–528](https://www.govinfo.gov/link/plaw/102/public/528), §§ 2, 3(2), Oct. 27, 1992, [106 Stat. 3461](https://www.govinfo.gov/link/statute/106/3461), 3462; [Pub. L. 102–572, title VIII](https://www.govinfo.gov/link/plaw/102/public/572), §§ 802, 803(b), Oct. 29, 1992, [106 Stat. 4515](https://www.govinfo.gov/link/statute/106/4515), 4516.)*

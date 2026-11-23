@@ -3,9 +3,10 @@ title: "Section 9567b - Duties"
 usc_title: 20
 usc_section: "9567b"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9567b"
-generated_at: "2026-03-30T02:54:48.228Z"
+generated_at: "2026-11-23T21:25:47.665Z"
+status: "active"
 ---
 
 # § 9567b. Duties
@@ -49,3 +50,11 @@ generated_at: "2026-03-30T02:54:48.228Z"
   - **(1)** synthesize and disseminate, through the National Center for Education Evaluation and Regional Assistance, the findings and results of special education research conducted or supported by the Special Education Research Center; and
   - **(2)** assist the Director in the preparation of a biennial report, as described in section 9519 of this title .
 - **(f)** There are authorized to be appropriated to carry out this part such sums as may be necessary for each of fiscal years 2005 through 2010.
+
+National center for special education research
+
+Plan
+
+## Source Credit
+
+*([Pub. L. 107–279, title I, § 177](https://www.govinfo.gov/link/plaw/107/public/279), as added [Pub. L. 108–446, title II, § 201(a)(2)](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2800](https://www.govinfo.gov/link/statute/118/2800).)*

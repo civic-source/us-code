@@ -3,9 +3,10 @@ title: "Section 4515 - Personnel"
 usc_title: 12
 usc_section: "4515"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4515"
-generated_at: "2026-03-30T02:53:53.506Z"
+generated_at: "2026-11-23T21:25:37.182Z"
+status: "active"
 ---
 
 # § 4515. Personnel
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:53.506Z"
 - **(b)** In fixing and directing compensation under subsection (a), the Director shall consult with, and maintain comparability with compensation of officers and employees of the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation.
 - **(c)** In carrying out the duties of the Agency, the Director may use information, services, staff, and facilities of any executive agency, independent agency, or department on a reimbursable basis, with the consent of such agency or department.
 - **(d)** Notwithstanding any provision of law limiting pay or compensation, the Director may appoint and compensate such outside experts and consultants as the Director determines necessary to assist the work of the Agency.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1315](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3947](https://www.govinfo.gov/link/statute/106/3947); [Pub. L. 110–289, div. A, title I, § 1161(a)(1)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2778](https://www.govinfo.gov/link/statute/122/2778); [Pub. L. 111–203, title III, § 365(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1555](https://www.govinfo.gov/link/statute/124/1555).)*

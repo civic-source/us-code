@@ -3,9 +3,10 @@ title: "Section 1997f - Report to Congress"
 usc_title: 42
 usc_section: "1997f"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1997f"
-generated_at: "2026-03-30T02:56:11.137Z"
+generated_at: "2026-11-23T21:26:32.278Z"
+status: "active"
 ---
 
 # § 1997f. Report to Congress
@@ -17,3 +18,7 @@ The Attorney General shall include in the report to Congress on the business of 
   - **(3)** an analysis of the impact of actions instituted pursuant to this subchapter, including, when feasible, an estimate of the costs incurred by States and other political subdivisions;
   - **(4)** a statement of the financial, technical, or other assistance which has been made available from the United States to the State in order to assist in the correction of the conditions which are alleged to have deprived a person of rights, privileges, or immunities secured or protected by the Constitution or laws of the United States; and
   - **(5)** the progress made in each Federal institution toward meeting existing promulgated standards for such institutions or constitutionally guaranteed minima.
+
+## Source Credit
+
+*([Pub. L. 96–247, § 8](https://www.govinfo.gov/link/plaw/96/public/247), May 23, 1980, [94 Stat. 353](https://www.govinfo.gov/link/statute/94/353); [Pub. L. 97–256, title II, § 201(b)](https://www.govinfo.gov/link/plaw/97/public/256), Sept. 8, 1982, [96 Stat. 817](https://www.govinfo.gov/link/statute/96/817); [Pub. L. 104–134, title I, § 101[(a)]](https://www.govinfo.gov/link/plaw/104/public/134) [title VIII, § 803(e)], Apr. 26, 1996, [110 Stat. 1321](https://www.govinfo.gov/link/statute/110/1321), 1321–73; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327).)*

@@ -3,9 +3,10 @@ title: "Section 17114 - Industrial Technology Innovation Advisory Committee"
 usc_title: 42
 usc_section: "17114"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17114"
-generated_at: "2026-03-30T02:56:11.497Z"
+generated_at: "2026-11-23T21:26:33.767Z"
+status: "active"
 ---
 
 # § 17114. Industrial Technology Innovation Advisory Committee
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:56:11.497Z"
     - **(K)** an assessment of the effectiveness of the program in coordinating efforts within the Department and with other Federal agencies to achieve the purposes of the program.
 - **(g)** Not later than 60 days after receiving a report from the Committee under subsection (f), the Secretary shall submit a copy of that report to the Committees on Appropriations and Science, Space, and Technology of the House of Representatives, the Committees on Appropriations and Energy and Natural Resources of the Senate, and any other relevant Committee of Congress.
 - **(h)** Except as otherwise provided in this section, the Federal Advisory Committee Act (5 U.S.C. App.) 3 3 See References in Text note below. shall apply to the Committee.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IV, § 455](https://www.govinfo.gov/link/plaw/110/public/140), as added [Pub. L. 116–260, div. Z, title VI, § 6004(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2556](https://www.govinfo.gov/link/statute/134/2556).)*

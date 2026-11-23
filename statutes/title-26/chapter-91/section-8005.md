@@ -3,12 +3,17 @@ title: "Section 8005 - Payment of expenses"
 usc_title: 26
 usc_section: "8005"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 8005"
-generated_at: "2026-03-30T02:55:27.889Z"
+generated_at: "2026-11-23T21:26:07.026Z"
+status: "active"
 ---
 
 # § 8005. Payment of expenses
 
 The expenses of the Joint Committee shall be paid one-half from the contingent fund of the Senate and one-half from the contingent fund of the House of Representatives, upon vouchers signed by the chairman or the vice chairman.
 
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 926.)*

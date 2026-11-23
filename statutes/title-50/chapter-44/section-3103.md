@@ -3,9 +3,10 @@ title: "Section 3103 - Future budget projections"
 usc_title: 50
 usc_section: "3103"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3103"
-generated_at: "2026-03-30T02:56:26.236Z"
+generated_at: "2026-11-23T21:26:39.012Z"
+status: "active"
 ---
 
 # § 3103. Future budget projections
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:26.236Z"
 - **(e)** In this section:
   - **(1)** The term “budget year” means the next fiscal year for which the President is required to submit to Congress a budget pursuant to section 1105 of title 31 .
   - **(2)** The terms “independent cost estimate” and “major system” have the meaning given those terms in section 3097(e) of this title .
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title V, § 506G, as added [Pub. L. 111–259, title III, § 325(a)](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2681](https://www.govinfo.gov/link/statute/124/2681); amended [Pub. L. 117–263, div. F, title LXVIII, § 6824(a)(5)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3615](https://www.govinfo.gov/link/statute/136/3615).)*

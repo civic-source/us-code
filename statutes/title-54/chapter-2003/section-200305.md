@@ -3,9 +3,10 @@ title: "Section 200305 - Financial assistance to States"
 usc_title: 54
 usc_section: "200305"
 chapter: 2003
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "54 U.S.C. § 200305"
-generated_at: "2026-03-30T02:56:28.421Z"
+generated_at: "2026-11-23T21:26:42.791Z"
+status: "active"
 ---
 
 # § 200305. Financial assistance to States
@@ -64,3 +65,126 @@ generated_at: "2026-03-30T02:56:28.421Z"
     - **(D)** fund any other project intended to increase the security and safety of public parks and recreation areas.
   - **(2)** In addition to the requirements for project approval imposed by this section, eligibility for assistance under this subsection shall depend on a showing of need. In providing funds under this subsection, the Secretary shall give priority to projects proposed for urban parks and recreation areas with the highest rates of crime and, in particular, to urban parks and recreation areas with the highest rates of sexual assault.
   - **(3)** Notwithstanding subsection (c), the Secretary may provide 70 percent improvement grants for projects undertaken by a State for the purposes described in this subsection.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 200305 | 16 U.S.C. 460 l –8(less (b)(5) (last sentence)). | Pub. L. 88–578, title I, § 6 , formerly § 5(less (b)(5) (last sentence)), Sept. 3, 1964 , 78 Stat. 900 ; renumbered § 6, Pub. L. 92–347, § 2 , July 11, 1972 , 86 Stat. 459 ; Pub. L. 93–303, § 2 , June 7, 1974 , 88 Stat. 194 ; Pub. L. 94–422, title I, § 101(3) , Sept. 28, 1976 , 90 Stat. 1314 . 1315; Pub. L. 95–625, title VI, § 606 , Nov. 10, 1978 , 92 Stat. 3519 ; Pub. L. 99–645, title III, § 303 , Nov. 10, 1986 , 100 Stat. 3587 ; Pub. L. 103–322, title IV, § 40133 , Sept. 13, 1994 , 108 Stat. 1918 ; Pub. L. 103–437, § 6(p)(2) , Nov. 2, 1994 , 108 Stat. 4586 ; Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(H) , Nov. 12, 1996 , 110 Stat. 4196 . |
+
+
+Authority of Secretary To Make Payments
+
+Apportionment Among States
+
+Matching Requirements
+
+Comprehensive State Plan.—
+
+Required for consideration of financial assistance
+
+Factors to be considered
+
+Provision of assistance when plan not otherwise available or to maintain plan
+
+Wetlands
+
+Projects for Land and Water Acquisition and Development of Basic Outdoor Recreation Facilities.—
+
+In general
+
+Acquisition of land or water.—
+
+In general
+
+Retention of right of use and occupancy
+
+Development of basic outdoor recreation facilities
+
+Payments.—
+
+Criteria for making payments
+
+Payment recipients
+
+Conversion to other than public outdoor recreation use
+
+Reports and accounting procedures
+
+Records
+
+Access to Records
+
+Prohibition of Discrimination
+
+Coordination With Federal Agencies
+
+Capital Improvement and Other Projects To Reduce Crime.—
+
+Availability and purpose of funds
+
+Eligibility
+
+Federal share
+
+Historical and Revision Notes
+
+200305
+
+16 U.S.C. 460
+
+Pub. L. 88–578, title I, § 6
+
+Sept. 3, 1964
+
+78 Stat. 900
+
+Pub. L. 92–347, § 2
+
+July 11, 1972
+
+86 Stat. 459
+
+Pub. L. 93–303, § 2
+
+June 7, 1974
+
+88 Stat. 194
+
+Pub. L. 94–422, title I, § 101(3)
+
+Sept. 28, 1976
+
+90 Stat. 1314
+
+Pub. L. 95–625, title VI, § 606
+
+Nov. 10, 1978
+
+92 Stat. 3519
+
+Pub. L. 99–645, title III, § 303
+
+Nov. 10, 1986
+
+100 Stat. 3587
+
+Pub. L. 103–322, title IV, § 40133
+
+Sept. 13, 1994
+
+108 Stat. 1918
+
+Pub. L. 103–437, § 6(p)(2)
+
+Nov. 2, 1994
+
+108 Stat. 4586
+
+Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(H)
+
+Nov. 12, 1996
+
+110 Stat. 4196
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3172](https://www.govinfo.gov/link/statute/128/3172); [Pub. L. 116–9, title III, § 3001(c)](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 755](https://www.govinfo.gov/link/statute/133/755).)*

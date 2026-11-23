@@ -3,9 +3,10 @@ title: "Section 6336 - Report on use of funds for certain research and developme
 usc_title: 10
 usc_section: "6336"
 chapter: 608
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6336"
-generated_at: "2026-03-30T02:53:38.227Z"
+generated_at: "2026-11-23T21:25:32.830Z"
+status: "active"
 ---
 
 # § 6336. Report on use of funds for certain research and development purposes
@@ -19,3 +20,19 @@ generated_at: "2026-03-30T02:53:38.227Z"
   - **(2)** In this subsection, the term “plant-directed research and development” means research and development selected by the director of a nuclear weapons production facility.
 - **(c)** Each report shall be prepared by the officials responsible for Federal oversight of the funds expended on activities under the program.
 - **(d)** Each report shall set forth the criteria utilized by the officials preparing the report in determining whether or not the activities reviewed by such officials support the national security mission of the Department.
+
+Report Required
+
+Plant-directed Research and Development
+
+Preparation of Report
+
+Criteria Used in Preparation of Report
+
+“In general”
+
+“Plant-directed research and development defined”
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2), Dec. 18, 2025, [139 Stat. 1449](https://www.govinfo.gov/link/statute/139/1449), 1462.)*

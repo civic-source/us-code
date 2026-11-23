@@ -3,9 +3,10 @@ title: "Section 12606 - Approval process for approved positions"
 usc_title: 42
 usc_section: "12606"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12606"
-generated_at: "2026-03-30T02:56:11.420Z"
+generated_at: "2026-11-23T21:26:33.501Z"
+status: "active"
 ---
 
 # § 12606. Approval process for approved positions
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.420Z"
     - **(B)** obligates the funds for the payment of national service educational awards for such previously approved national service positions, summer of service educational awards for such previously approved summer of service positions, or silver scholar educational awards for such previously approved silver scholar positions, as applicable.
 - **(c)** The accounts of the Corporation relating to the appropriated funds for approved national service positions, approved summer of service positions, and approved silver scholar positions, and the records demonstrating the manner in which the Corporation has recorded estimates described in subsection (a)(1)(B) as obligations, shall be audited annually by independent certified public accountants or independent licensed public accountants certified or licensed by a regulatory authority of a State or other political subdivision of the United States in accordance with generally accepted auditing standards. A report containing the results of each such independent audit shall be included in the annual report required by subsection (a)(3).
 - **(d)** Except as provided in subsection (b), all amounts included in the National Service Trust under paragraphs (1), (2), and (3) of section 12601(a) of this title shall be available for payments of national service educational awards, summer of service educational awards, or silver scholar educational awards under section 12604 of this title .
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 149](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 111–13, title I, § 1406(a)](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1519](https://www.govinfo.gov/link/statute/123/1519).)*

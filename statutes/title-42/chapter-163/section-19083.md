@@ -3,9 +3,10 @@ title: "Section 19083 - Helium conservation"
 usc_title: 42
 usc_section: "19083"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19083"
-generated_at: "2026-03-30T02:56:11.538Z"
+generated_at: "2026-11-23T21:26:33.868Z"
+status: "active"
 ---
 
 # § 19083. Helium conservation
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.538Z"
   - **(1)** the volume and price of helium purchased;
   - **(2)** changes in pricing and availability of helium; and
   - **(3)** any supply disruptions impacting a substantial number of institutions.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10373](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1571](https://www.govinfo.gov/link/statute/136/1571).)*

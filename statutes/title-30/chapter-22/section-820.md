@@ -3,9 +3,10 @@ title: "Section 820 - Penalties"
 usc_title: 30
 usc_section: "820"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 820"
-generated_at: "2026-03-30T02:55:29.388Z"
+generated_at: "2026-11-23T21:26:00.392Z"
+status: "active"
 ---
 
 # § 820. Penalties
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:29.388Z"
 - **(j)** Civil penalties owed under this chapter shall be paid to the Secretary for deposit into the Treasury of the United States and shall accrue to the United States and may be recovered in a civil action in the name of the United States brought in the United States district court for the district where the violation occurred or where the operator has its principal office. Interest at the rate of 8 percent per annum shall be charged against a person on any final order of the Commission, or the court. Interest shall begin to accrue 30 days after the issuance of such order.
 - **(k)** No proposed penalty which has been contested before the Commission under section 815(a) of this title shall be compromised, mitigated, or settled except with the approval of the Commission. No penalty assessment which has become a final order of the Commission shall be compromised, mitigated, or settled except with the approval of the court.
 - **(l)** The provisions of this section shall not be applicable with respect to subchapter IV of this chapter.
+
+## Source Credit
+
+*([Pub. L. 91–173, title I, § 110](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 758](https://www.govinfo.gov/link/statute/83/758); [Pub. L. 95–164, title II, § 201](https://www.govinfo.gov/link/plaw/95/public/164), Nov. 9, 1977, [91 Stat. 1311](https://www.govinfo.gov/link/statute/91/1311); [Pub. L. 101–508, title III, § 3102](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–29](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 109–236, § 5(b)](https://www.govinfo.gov/link/plaw/109/public/236), § 8(a), June 15, 2006, [120 Stat. 498](https://www.govinfo.gov/link/statute/120/498), 500; [Pub. L. 109–280, title XIII, § 1301](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1108](https://www.govinfo.gov/link/statute/120/1108).)*

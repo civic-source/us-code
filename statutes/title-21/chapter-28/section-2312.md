@@ -3,9 +3,10 @@ title: "Section 2312 - Imposition of sanctions"
 usc_title: 21
 usc_section: "2312"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 2312"
-generated_at: "2026-03-30T02:54:54.311Z"
+generated_at: "2026-11-23T21:25:56.305Z"
+status: "active"
 ---
 
 # § 2312. Imposition of sanctions
@@ -18,3 +19,7 @@ The President shall impose five or more of the sanctions described in section 23
   - **(4)** the President determines—
     - **(A)** has knowingly engaged in a pattern of providing significant financial, material, or technological support for, including through the provision of goods or services in support of, any activity or transaction described in paragraph (3); or
     - **(B)** is owned, controlled, or directed by any foreign person described in subparagraph (A) or in paragraph (3), or has knowingly acted or purported to act for or on behalf of, directly or indirectly, such a foreign person.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. F, title LXXII, § 7212](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2265](https://www.govinfo.gov/link/statute/133/2265); [Pub. L. 119–60, div. H, title LXXXIII, § 8316](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1858](https://www.govinfo.gov/link/statute/139/1858).)*

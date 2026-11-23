@@ -3,9 +3,10 @@ title: "Section 19221 - Strategy and report on the nation’s economic security,
 usc_title: 42
 usc_section: "19221"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19221"
-generated_at: "2026-03-30T02:56:11.542Z"
+generated_at: "2026-11-23T21:26:33.878Z"
+status: "active"
 ---
 
 # § 19221. Strategy and report on the nation’s economic security, science, research, and innovation to support the national security strategy
@@ -76,3 +77,19 @@ generated_at: "2026-03-30T02:56:11.542Z"
       - **(x)** An identification of additional resources, administrative action, or legislative action recommended to assist with the implementation of such strategy.
 - **(d)** The Director of the Office of Science and Technology Policy shall, as the Director of the Office of Science and Technology Policy considers necessary, consult with the Director of the Office of Management and Budget and with the heads of such other elements of the Executive Office of the President as the Director of the Office of Science and Technology Policy considers appropriate to ensure the recommendations and priorities with respect to research and development funding relevant to national security, as expressed in the most recent report and strategy submitted under subsection (b)(1)(C) are incorporated into the development of annual budget requests for Federal research agencies.
 - **(e)** The Director of the Office of Science and Technology Policy shall, consistent with the protection of national security and other sensitive matters and to the maximum extent practicable, make each report submitted under subsection (b)(1)(C)(i) publicly available on an internet website of the Office of Science and Technology Policy. Each such report may include a classified annex if the Director of the Office of Science and Technology Policy determines such is appropriate.
+
+(aa) any governmental organization of a foreign country of concern; or
+
+(bb) any other entity that is— (AA) known to be owned or controlled by any governmental organization of a foreign country of concern; or (BB) organized under, or otherwise subject to, the laws of a foreign country of concern.
+
+(aa) national defense strategy under subsection (g) of section 113 of title 10 ; and
+
+(bb) national science and technology strategy under section 6615 of this title .
+
+(aa) any governmental organization of a foreign country of concern; or
+
+(bb) any other entity that is— (AA) known to be owned or controlled by any governmental organization of a foreign country of concern; or (BB) organized under, or otherwise subject to, the laws of a foreign country of concern.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title VI, § 10612](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1635](https://www.govinfo.gov/link/statute/136/1635).)*

@@ -3,9 +3,10 @@ title: "Section 20157 - Implementation of positive train control systems"
 usc_title: 49
 usc_section: "20157"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 20157"
-generated_at: "2026-03-30T02:56:19.336Z"
+generated_at: "2026-11-23T21:26:40.709Z"
+status: "active"
 ---
 
 # § 20157. Implementation of positive train control systems
@@ -130,3 +131,131 @@ generated_at: "2026-03-30T02:56:19.336Z"
       - **(ii)** publishes a justification for such determination in the Federal Register.
   - **(4)** Each tenant railroad that operates on a host railroad’s positive train control-governed main line and is not currently subject to an exception under section 236.1006(b) of title 49, Code of Federal Regulations, shall submit the information described in paragraph (2) to each applicable host railroad on a continuous basis.
   - **(5)** Any railroad operating a positive train control system classified under Federal Railroad Administration Type Approval number FRA–TA–2010–001 or FRA–TA–2013–003 shall begin submitting the metric required under paragraph (2)(D) not later than January 31, 2023 .
+
+In General.—
+
+Plan required
+
+Implementation.—
+
+Contents of revised plan
+
+(aa) availability of public funding;
+
+(bb) interoperability;
+
+(cc) spectrum;
+
+(dd) software;
+
+(ee) permitting; and
+
+(ff) testing, demonstration, and certification; and
+
+Alternative schedule and sequence
+
+Amendments
+
+Compliance
+
+Secretarial review.—
+
+Notification
+
+Criteria
+
+Decision.—
+
+In general
+
+Deficiencies
+
+Revised deadlines.—
+
+Pending reviews
+
+Alternative schedule and sequence deadline
+
+Technical Assistance
+
+Progress Reports and Review.—
+
+Progress reports
+
+Plan review
+
+Public availability
+
+Report to Congress
+
+Enforcement
+
+Other Railroad Carriers
+
+Regulations.—
+
+In general
+
+Conforming regulatory amendments
+
+Review
+
+Clarification.—
+
+Prohibitions
+
+Civil penalty authority
+
+Retained review authority
+
+Certification.—
+
+In general
+
+Provisional operation
+
+Definitions
+
+Equivalent or greater level of safety
+
+Hardware
+
+Interoperability
+
+Main line
+
+Positive train control system
+
+Early Adoption.—
+
+Operations
+
+Safety assurance
+
+Plans
+
+Notification
+
+Small Railroads
+
+Revenue Service Demonstration
+
+Reports on Positive Train Control System Performance.—
+
+In general
+
+Required information
+
+Due dates.—
+
+In general
+
+Frequency reduction
+
+Tenant railroads
+
+Enforcements
+
+## Source Credit
+
+*(Added [Pub. L. 110–432, div. A, title I, § 104(a)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4856](https://www.govinfo.gov/link/statute/122/4856); amended [Pub. L. 114–73, title I, § 1302(b)](https://www.govinfo.gov/link/plaw/114/public/73), (c), Oct. 29, 2015, [129 Stat. 576](https://www.govinfo.gov/link/statute/129/576), 582; [Pub. L. 114–94, div. A, title XI, § 11315(d)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1675](https://www.govinfo.gov/link/statute/129/1675); [Pub. L. 117–58, div. B, title II, § 22414](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 744](https://www.govinfo.gov/link/statute/135/744).)*

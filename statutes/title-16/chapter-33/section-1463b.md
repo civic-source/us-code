@@ -3,9 +3,10 @@ title: "Section 1463b - National Coastal Resources Research and Development Inst
 usc_title: 16
 usc_section: "1463b"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1463b"
-generated_at: "2026-03-30T02:54:22.973Z"
+generated_at: "2026-11-23T21:25:51.890Z"
+status: "active"
 ---
 
 # § 1463b. National Coastal Resources Research and Development Institute
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:22.973Z"
 - **(h)** The Comptroller General of the United States, and any of his duly authorized representatives, shall have access, for the purpose of audit and examination, to any books, documents, papers and records of the Institute that are pertinent to the funds received under this section.
 - **(i)** Employees of the Institute shall not, by reason of such employment, be considered to be employees of the Federal Government for any purpose.
 - **(j)** For the purposes of this section, there are authorized to be appropriated in each fiscal year $5,000,000, commencing with fiscal year 1985.
+
+## Source Credit
+
+*([Pub. L. 98–364, title II, § 201](https://www.govinfo.gov/link/plaw/98/public/364), July 17, 1984, [98 Stat. 443](https://www.govinfo.gov/link/statute/98/443).)*

@@ -3,9 +3,10 @@ title: "Section 11 - Examinations"
 usc_title: 7
 usc_section: "11"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 11"
-generated_at: "2026-03-30T02:53:42.361Z"
+generated_at: "2026-11-23T21:25:28.241Z"
+status: "active"
 ---
 
 # § 2009cc–11. Examinations
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.361Z"
   - **(1)** be deposited in the account that incurred the costs for carrying out this section;
   - **(2)** be made available to the Secretary to carry out this section, without further appropriation; and
   - **(3)** remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 384L](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 107–171, title VI, § 6029](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 399](https://www.govinfo.gov/link/statute/116/399).)*

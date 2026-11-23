@@ -3,9 +3,10 @@ title: "Section 5302 - Definitions"
 usc_title: 5
 usc_section: "5302"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5302"
-generated_at: "2026-03-30T02:52:56.011Z"
+generated_at: "2026-11-23T21:25:23.206Z"
+status: "active"
 ---
 
 # § 5302. Definitions
@@ -24,3 +25,7 @@ For the purpose of this subchapter—
   - **(7)** the term “comparability payment” means a payment payable under section 5304;
   - **(8)** the term “rates of pay under the General Schedule”, “rates of pay for the General Schedule”, or “scheduled rates of basic pay” means the rates of basic pay under the General Schedule as established by section 5332, excluding pay under section 5304 and any other additional pay of any kind; and
   - **(9)** the term “General Schedule position” means any position to which subchapter III applies.
+
+## Source Credit
+
+*(Added [Pub. L. 101–509, title V, § 529 [title I, § 101(a)(1)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1429; amended [Pub. L. 102–378, § 2(25)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1348](https://www.govinfo.gov/link/statute/106/1348); [Pub. L. 103–89, § 3(b)(1)(E)](https://www.govinfo.gov/link/plaw/103/public/89), Sept. 30, 1993, [107 Stat. 981](https://www.govinfo.gov/link/statute/107/981); [Pub. L. 108–411, title III, § 301(a)(1)](https://www.govinfo.gov/link/plaw/108/public/411), Oct. 30, 2004, [118 Stat. 2313](https://www.govinfo.gov/link/statute/118/2313).)*

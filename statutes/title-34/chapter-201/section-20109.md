@@ -3,9 +3,10 @@ title: "Section 20109 - Sexual assault survivors’ notification grants"
 usc_title: 34
 usc_section: "20109"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20109"
-generated_at: "2026-03-30T02:55:33.293Z"
+generated_at: "2026-11-23T21:26:09.769Z"
+status: "active"
 ---
 
 # § 20109. Sexual assault survivors’ notification grants
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:33.293Z"
   - **(2)** make the written notice described in subsection (b) publicly available on the Internet website of the attorney general of the State.
 - **(d)** The Attorney General may provide such technical assistance and guidance as necessary to help recipients meet the requirements of this section.
 - **(e)** Any system developed and implemented under this section may be integrated with an existing case management system operated by the recipient of the grant if the system meets the requirements listed in this section.
+
+## Source Credit
+
+*([Pub. L. 98–473, title II, § 1404F](https://www.govinfo.gov/link/plaw/98/public/473), as added [Pub. L. 114–236, § 3](https://www.govinfo.gov/link/plaw/114/public/236), Oct. 7, 2016, [130 Stat. 967](https://www.govinfo.gov/link/statute/130/967).)*

@@ -3,9 +3,10 @@ title: "Section 1167 - Railroad security training program"
 usc_title: 6
 usc_section: "1167"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1167"
-generated_at: "2026-03-30T02:53:09.507Z"
+generated_at: "2026-11-23T21:25:25.873Z"
+status: "active"
 ---
 
 # § 1167. Railroad security training program
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:53:09.507Z"
 - **(e)** The Secretary shall ensure that the training program developed under subsection (a) is a component of the National Training Program established under section 748 of this title .
 - **(f)** Not later than 2 years after the date of regulation issuance, the Secretary shall review implementation of the training program of a representative sample of railroad carriers and railroad frontline employees, and report to the appropriate congressional committees on the number of reviews conducted and the results of such reviews. The Secretary may submit the report in both classified and redacted formats as necessary.
 - **(g)** The Secretary shall issue guidance and best practices for a railroad shipper employee security program containing the elements listed under subsection (c).
+
+## Source Credit
+
+*([Pub. L. 110–53, title XV, § 1517](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 439](https://www.govinfo.gov/link/statute/121/439).)*

@@ -3,9 +3,10 @@ title: "Section 7508 - Additional centers"
 usc_title: 15
 usc_section: "7508"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7508"
-generated_at: "2026-03-30T02:54:08.224Z"
+generated_at: "2026-11-23T21:25:40.063Z"
+status: "active"
 ---
 
 # § 7508. Additional centers
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.224Z"
 - **(c)** The Council, through the Director of the National Nanotechnology Coordination Office, shall submit to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science—
   - **(1)** within 6 months after December 3, 2003 , a report identifying which agency shall be the lead agency and which other agencies, if any, will be responsible for establishing the Centers described in this section; and
   - **(2)** within 18 months after December 3, 2003 , a report describing how the Centers described in this section have been established.
+
+## Source Credit
+
+*([Pub. L. 108–153, § 9](https://www.govinfo.gov/link/plaw/108/public/153), Dec. 3, 2003, [117 Stat. 1930](https://www.govinfo.gov/link/statute/117/1930).)*

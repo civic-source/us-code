@@ -3,9 +3,10 @@ title: "Section 9704 - Liability of assigned operators"
 usc_title: 26
 usc_section: "9704"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 9704"
-generated_at: "2026-03-30T02:55:27.893Z"
+generated_at: "2026-11-23T21:26:07.040Z"
+status: "active"
 ---
 
 # § 9704. Liability of assigned operators
@@ -90,3 +91,7 @@ generated_at: "2026-03-30T02:55:27.893Z"
     - **(A)** establish and maintain an account for each assigned operator or related person by, or on whose behalf, a payment described in paragraph (3) was made,
     - **(B)** credit such account with such payment (and any earnings thereon), and
     - **(C)** use all amounts in such account exclusively to pay premiums that would (but for this subsection) be required to be paid by the assigned operator.
+
+## Source Credit
+
+*(Added [Pub. L. 102–486, title XIX, § 19143(a)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3042](https://www.govinfo.gov/link/statute/106/3042); amended [Pub. L. 103–296, title I, § 108(h)(9)(A)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1487](https://www.govinfo.gov/link/statute/108/1487); [Pub. L. 109–432, div. C, title II](https://www.govinfo.gov/link/plaw/109/public/432), §§ 211(a), 212(a)(2), Dec. 20, 2006, [120 Stat. 3020](https://www.govinfo.gov/link/statute/120/3020), 3024; [Pub. L. 115–141, div. U, title IV, § 401(a)(344)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1200](https://www.govinfo.gov/link/statute/132/1200).)*

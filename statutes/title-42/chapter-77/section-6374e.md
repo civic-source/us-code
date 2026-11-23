@@ -3,9 +3,10 @@ title: "Section 6374e - Federal fleet conservation requirements"
 usc_title: 42
 usc_section: "6374e"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6374e"
-generated_at: "2026-03-30T02:56:11.261Z"
+generated_at: "2026-11-23T21:26:32.952Z"
+status: "active"
 ---
 
 # § 6374e. Federal fleet conservation requirements
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.261Z"
     - **(E)** a decrease in vehicle miles traveled;
     - **(F)** a decrease in fleet size; and
     - **(G)** other measures.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 400FF](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 110–140, title I, § 142](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1518](https://www.govinfo.gov/link/statute/121/1518).)*

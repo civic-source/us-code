@@ -3,9 +3,10 @@ title: "Section 3004 - Strength and distribution in grade"
 usc_title: 33
 usc_section: "3004"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3004"
-generated_at: "2026-03-30T02:55:41.136Z"
+generated_at: "2026-11-23T21:26:11.474Z"
+status: "active"
 ---
 
 # § 3004. Strength and distribution in grade
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:41.136Z"
 - **(d)** The total number of officers authorized by law to be on the lineal list during a fiscal year may be temporarily exceeded if the average number on that list during that fiscal year does not exceed the authorized number.
 - **(e)** Officers serving in positions designated under section 3028(a) of this title and officers recalled from retired status shall not be counted when computing authorized strengths under subsection (c) and shall not count against those strengths.
 - **(f)** No officer may be reduced in grade or pay or separated from the commissioned officer corps of the Administration as the result of a computation made to determine the authorized number of officers in the various grades.
+
+## Source Credit
+
+*([Pub. L. 107–372, title II, § 214](https://www.govinfo.gov/link/plaw/107/public/372), Dec. 19, 2002, [116 Stat. 3083](https://www.govinfo.gov/link/statute/116/3083); [Pub. L. 116–259, title I, § 101](https://www.govinfo.gov/link/plaw/116/public/259), Dec. 23, 2020, [134 Stat. 1154](https://www.govinfo.gov/link/statute/134/1154).)*

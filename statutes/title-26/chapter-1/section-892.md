@@ -3,9 +3,10 @@ title: "Section 892 - Income of foreign governments and of international organiz
 usc_title: 26
 usc_section: "892"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 892"
-generated_at: "2026-03-30T02:55:27.742Z"
+generated_at: "2026-11-23T21:26:06.421Z"
+status: "active"
 ---
 
 # § 892. Income of foreign governments and of international organizations
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:27.742Z"
   - **(3)** For purposes of this title, a foreign government shall be treated as a corporate resident of its country. A foreign government shall be so treated for purposes of any income tax treaty obligation of the United States if such government grants equivalent treatment to the Government of the United States.
 - **(b)** The income of international organizations received from investments in the United States in stocks, bonds, or other domestic securities owned by such international organizations, or from interest on deposits in banks in the United States of moneys belonging to such international organizations, or from any other source within the United States, shall not be included in gross income and shall be exempt from taxation under this subtitle.
 - **(c)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 284; [Pub. L. 99–514, title XII, § 1247(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2583](https://www.govinfo.gov/link/statute/100/2583); [Pub. L. 100–647, title I, § 1012(t)(1)](https://www.govinfo.gov/link/plaw/100/public/647) –(3), Nov. 10, 1988, [102 Stat. 3527](https://www.govinfo.gov/link/statute/102/3527); [Pub. L. 101–508, title XI, § 11704(a)(35)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–519](https://www.govinfo.gov/link/statute/104/1388).)*

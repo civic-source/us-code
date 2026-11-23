@@ -3,9 +3,10 @@ title: "Section 300k - Establishment of program of grants to States"
 usc_title: 42
 usc_section: "300k"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 300k"
-generated_at: "2026-03-30T02:56:10.807Z"
+generated_at: "2026-11-23T21:26:30.772Z"
+status: "active"
 ---
 
 # § 300k. Establishment of program of grants to States
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:10.807Z"
     - **(A)** a substantial rate of mortality from breast or cervical cancer; or
     - **(B)** a substantial incidence of either of such cancers.
 - **(d)** The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall establish a committee to coordinate the activities of the agencies of the Public Health Service (and other appropriate Federal agencies) that are carried out toward achieving the objectives established by the Secretary for reductions in the rate of mortality from breast and cervical cancer in the United States by the year 2020. Such committee shall be comprised of Federal officers or employees designated by the heads of the agencies involved to serve on the committee as representatives of the agencies, and such representatives from other public or private entities as the Secretary determines to be appropriate.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XV, § 1501, as added [Pub. L. 101–354, § 2](https://www.govinfo.gov/link/plaw/101/public/354), Aug. 10, 1990, [104 Stat. 409](https://www.govinfo.gov/link/statute/104/409); amended [Pub. L. 103–43, title XX, § 2008(c)(1)](https://www.govinfo.gov/link/plaw/103/public/43), June 10, 1993, [107 Stat. 211](https://www.govinfo.gov/link/statute/107/211); [Pub. L. 103–183, title I, § 101(a)](https://www.govinfo.gov/link/plaw/103/public/183), (b), (f), (g)(1), Dec. 14, 1993, [107 Stat. 2227–2229](https://www.govinfo.gov/link/statute/107/2227); [Pub. L. 105–340, title II, § 203(a)](https://www.govinfo.gov/link/plaw/105/public/340), (b), Oct. 31, 1998, [112 Stat. 3194](https://www.govinfo.gov/link/statute/112/3194); [Pub. L. 105–392, title IV, § 401(b)(5)](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3587](https://www.govinfo.gov/link/statute/112/3587); [Pub. L. 110–18, § 2(1)](https://www.govinfo.gov/link/plaw/110/public/18), Apr. 20, 2007, [121 Stat. 80](https://www.govinfo.gov/link/statute/121/80).)*

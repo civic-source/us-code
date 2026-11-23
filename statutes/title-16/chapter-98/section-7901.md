@@ -3,9 +3,10 @@ title: "Section 7901 - Congressional declaration of national policy"
 usc_title: 16
 usc_section: "7901"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 7901"
-generated_at: "2026-03-30T02:54:23.079Z"
+generated_at: "2026-11-23T21:25:52.071Z"
+status: "active"
 ---
 
 # § 7901. Congressional declaration of national policy
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:23.079Z"
     - **(B)** private property rights; and
   - **(3)** consider hunting, fishing, and recreational shooting opportunities as part of all Federal plans for land, resource, and travel management.
 - **(b)** In this title, 1 1 See References in Text note below. the term “fishing” does not include commercial fishing in which fish are harvested, either in whole or in part, that are intended to enter commerce through sale.
+
+## Source Credit
+
+*([Pub. L. 116–9, title IV, § 4001](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 756](https://www.govinfo.gov/link/statute/133/756).)*

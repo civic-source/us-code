@@ -3,9 +3,10 @@ title: "Section 9002 - Comprehensive program management plan"
 usc_title: 42
 usc_section: "9002"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9002"
-generated_at: "2026-03-30T02:56:11.349Z"
+generated_at: "2026-11-23T21:26:33.224Z"
+status: "active"
 ---
 
 # § 9002. Comprehensive program management plan
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.349Z"
   - **(5)** the estimated relative financial contributions of the Federal Government and non-Federal participants in the pilot and demonstration projects;
   - **(6)** supporting research needed to solve problems which may inhibit or limit development of ocean thermal energy conversion systems; and
   - **(7)** an analysis of the environmental, economic, and societal impacts of ocean thermal energy conversion facilities.
+
+## Source Credit
+
+*([Pub. L. 96–310, § 3](https://www.govinfo.gov/link/plaw/96/public/310), July 17, 1980, [94 Stat. 942](https://www.govinfo.gov/link/statute/94/942); [Pub. L. 104–66, title I, § 1051(c)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 716](https://www.govinfo.gov/link/statute/109/716).)*

@@ -3,12 +3,17 @@ title: "Section 3809 - Authorization of appropriations; required funding"
 usc_title: 15
 usc_section: "3809"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3809"
-generated_at: "2026-03-30T02:54:08.196Z"
+generated_at: "2026-11-23T21:25:39.984Z"
+status: "active"
 ---
 
 # § 3809. Authorization of appropriations; required funding
 
 There are authorized to be appropriated to the Secretary for purposes of carrying out this chapter, not to exceed $3,000,000 for the fiscal year ending September 30, 1982 , not less than one-half of which shall be for the purpose of making loans under section 3806(b) of this title ; not to exceed $5,000,000 for the fiscal year ending September 30, 1983 , not less than one-half of which shall be for the purpose of making loans under section 3806(b) of this title ; not to exceed $5,000,000 for the fiscal year ending September 30, 1984 , not less than one-half of which shall be for the purpose of making loans under section 3806(b) of this title ; and such sums as may be necessary for the fiscal years ending September 30, 1985 , and September 30, 1986 . Any amount appropriated pursuant to this section shall remain available until expended.
 
+
+## Source Credit
+
+*([Pub. L. 96–512, § 10](https://www.govinfo.gov/link/plaw/96/public/512), Dec. 12, 1980, [94 Stat. 2833](https://www.govinfo.gov/link/statute/94/2833).)*

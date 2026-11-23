@@ -3,9 +3,10 @@ title: "Section 5502 - Definitions"
 usc_title: 16
 usc_section: "5502"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 5502"
-generated_at: "2026-03-30T02:54:23.052Z"
+generated_at: "2026-11-23T21:25:52.030Z"
+status: "active"
 ---
 
 # § 5502. Definitions
@@ -34,3 +35,7 @@ As used in this chapter—
       - **(iv)** a corporation created under the laws of the United States or any State, the District of Columbia, or any territory, commonwealth, or possession of the United States; unless the vessel has been granted the nationality of a foreign nation in accordance with article 92 of the 1982 United Nations Convention on the Law of the Sea and a claim of nationality or registry for the vessel is made by the master or individual in charge at the time of the enforcement action by an officer or employee of the United States authorized to enforce applicable provisions of the United States law; and
     - **(C)** a vessel that was once documented under the laws of the United States and, in violation of the laws of the United States, was either sold to a person not a citizen of the United States or placed under foreign registry or a foreign flag, whether or not the vessel has been granted the nationality of a foreign nation.
   - **(10)** The terms “vessel subject to the jurisdiction of the United States” and “vessel without nationality” have the same meaning as in subsections (c) and (d) of section 70502 of title 46 .
+
+## Source Credit
+
+*([Pub. L. 104–43, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/43), Nov. 3, 1995, [109 Stat. 367](https://www.govinfo.gov/link/statute/109/367); [Pub. L. 106–562, title III, § 305](https://www.govinfo.gov/link/plaw/106/public/562), Dec. 23, 2000, [114 Stat. 2807](https://www.govinfo.gov/link/statute/114/2807).)*

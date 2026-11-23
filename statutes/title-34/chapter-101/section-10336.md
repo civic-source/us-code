@@ -3,9 +3,10 @@ title: "Section 10336 - Expenditure of grants; records"
 usc_title: 34
 usc_section: "10336"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10336"
-generated_at: "2026-03-30T02:55:33.266Z"
+generated_at: "2026-11-23T21:26:09.644Z"
+status: "active"
 ---
 
 # § 10336. Expenditure of grants; records
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:33.266Z"
   - **(1)** Grant recipients (or private organizations with which grant recipients have contracted to provide equipment or training using grant funds) shall keep such records as the Director may require by rule to facilitate such an audit.. 1 1 So in original.
   - **(2)** The Director and the Comptroller General of the United States shall have access, for the purpose of audit and examination, to any books, documents, and records of grant recipients (or private organizations with which grant recipients have contracted to provide equipment or training using grant funds) if, in the opinion of the Director or the Comptroller General, such books, documents, and records are related to the receipt or use of any such grant.
 - **(d)** Nothing in this subchapter shall prohibit the utilization of any grant funds to contract with a private organization to provide equipment or training for the televising of testimony as contemplated by the application submitted by an applicant.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 1407](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 101–647, title II, § 241(a)(2)](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4813](https://www.govinfo.gov/link/statute/104/4813); amended [Pub. L. 103–322, title IV, § 40156(c)(7)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1924](https://www.govinfo.gov/link/statute/108/1924).)*

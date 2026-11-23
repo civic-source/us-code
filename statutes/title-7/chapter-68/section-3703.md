@@ -3,9 +3,10 @@ title: "Section 3703 - State and regional plans"
 usc_title: 7
 usc_section: "3703"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3703"
-generated_at: "2026-03-30T02:53:42.404Z"
+generated_at: "2026-11-23T21:25:28.339Z"
+status: "active"
 ---
 
 # § 3703. State and regional plans
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:42.404Z"
   - **(4)** such State or each State within such region has established an adequate plan, as described in section 22102 of title 49 , for rail service in such State or States, or such State or each State in such region is actively developing such a plan.
 - **(e)** Whenever any State or region has submitted a State or regional plan under this section, the Secretary shall approve such plan only if it has been approved by a majority of the members of the appropriate plan review commission established pursuant to this chapter, and it meets the other conditions specified in this chapter and those prescribed in regulations issued by the Secretary to carry out this chapter. When a plan is approved by the Secretary, such plan shall be known as an “approved State plan” or an “approved regional plan”, as appropriate.
 - **(f)** To carry out the purposes of this section, there are authorized to be appropriated not to exceed $3,300,000 for each of the fiscal years ending September 30, 1981 , September 30, 1982 , and September 30, 1983 .
+
+## Source Credit
+
+*([Pub. L. 96–358, § 4](https://www.govinfo.gov/link/plaw/96/public/358), Sept. 25, 1980, [94 Stat. 1185](https://www.govinfo.gov/link/statute/94/1185).)*

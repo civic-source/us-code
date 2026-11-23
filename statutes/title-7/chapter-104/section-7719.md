@@ -3,9 +3,10 @@ title: "Section 7719 - Methyl bromide"
 usc_title: 7
 usc_section: "7719"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7719"
-generated_at: "2026-03-30T02:53:42.461Z"
+generated_at: "2026-11-23T21:25:28.445Z"
+status: "active"
 ---
 
 # § 7719. Methyl bromide
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.461Z"
 - **(d)**
   - **(1)** Upon the promulgation of regulations to carry out this section, the Secretary shall make the determination required by subsection (a) not later than 90 days after receiving the request for such a determination.
   - **(2)** Nothing in this section shall be construed to alter or modify the authority of the Administrator of the Environmental Protection Agency or to provide any authority to the Secretary of Agriculture under the Clean Air Act [ 42 U.S.C. 7401 et seq.] or regulations promulgated under the Clean Air Act.
+
+## Source Credit
+
+*([Pub. L. 106–224, title IV, § 419](https://www.govinfo.gov/link/plaw/106/public/224), as added [Pub. L. 107–171, title VII, § 7504(c)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 466](https://www.govinfo.gov/link/statute/116/466).)*

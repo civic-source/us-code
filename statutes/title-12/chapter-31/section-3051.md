@@ -3,9 +3,10 @@ title: "Section 3051 - Nonprofit corporation"
 usc_title: 12
 usc_section: "3051"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3051"
-generated_at: "2026-03-30T02:53:53.490Z"
+generated_at: "2026-11-23T21:25:37.120Z"
+status: "active"
 ---
 
 # § 3051. Nonprofit corporation
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:53:53.490Z"
   - **(2)** During any period in which the nonprofit corporation described in subsection (b) is qualified as an organization described in section 501(c)(3) of title 26 , contributions made by the Bank pursuant to paragraph (1) shall be treated as charitable contributions within the meaning of section 170(c)(2) of title 26 , and may be deducted notwithstanding the provisions of section 170(b)(2) of title 26 .
   - **(3)** During any period in which the nonprofit corporation described in subsection (b) is qualified as an organization described in section 501(c)(3) of title 26 , contributions to such nonprofit corporation by any person shall qualify as charitable contributions, as defined in section 170(c) of title 26 , for purposes of the charitable contribution deduction provided for in section 170(a) of title 26 , and shall also qualify for the deductions for estate and gift tax purposes provided for in sections 2055 and 2522 of title 26.
 - **(e)** Notwithstanding the laws of the District of Columbia, the Board of Directors of such nonprofit corporation shall adopt and publish its own conflict of interest rules which shall be no less stringent in effect than the conflict of interest provisions adopted by the Board of Directors of the Bank pursuant to section 3024 of this title .
+
+## Source Credit
+
+*([Pub. L. 95–351, title II, § 211](https://www.govinfo.gov/link/plaw/95/public/351), as added [Pub. L. 97–35, title III, § 395(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 437](https://www.govinfo.gov/link/statute/95/437); amended [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095).)*

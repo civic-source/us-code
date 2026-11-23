@@ -3,9 +3,10 @@ title: "Section 7903 - Definitions"
 usc_title: 15
 usc_section: "7903"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7903"
-generated_at: "2026-03-30T02:54:08.226Z"
+generated_at: "2026-11-23T21:25:40.071Z"
+status: "active"
 ---
 
 # § 7903. Definitions
@@ -39,3 +40,7 @@ In this chapter:
     - **(B)** that is an organization described in section 501(c)(6) of title 26 and exempt from tax under section 501(a) of such title; and
     - **(C)** 2 or more members of which are manufacturers or sellers of a qualified product.
   - **(9)** The term “unlawful misuse” means conduct that violates a statute, ordinance, or regulation as it relates to the use of a qualified product.
+
+## Source Credit
+
+*([Pub. L. 109–92, § 4](https://www.govinfo.gov/link/plaw/109/public/92), Oct. 26, 2005, [119 Stat. 2097](https://www.govinfo.gov/link/statute/119/2097).)*

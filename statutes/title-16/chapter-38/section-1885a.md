@@ -3,9 +3,10 @@ title: "Section 1885a - Report on Seafood Import Monitoring Program"
 usc_title: 16
 usc_section: "1885a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1885a"
-generated_at: "2026-03-30T02:54:22.995Z"
+generated_at: "2026-11-23T21:25:51.937Z"
+status: "active"
 ---
 
 # § 1885a. Report on Seafood Import Monitoring Program
@@ -21,3 +22,23 @@ generated_at: "2026-03-30T02:54:22.995Z"
   - **(7)** the location of catch or harvest with respect to which violations described in paragraphs (4) and (5) were most prevalent;
   - **(8)** the additional tools, such as high performance computing and associated costs, that the Secretary needs to improve the efficacy of the Seafood Import Monitoring Program; and
   - **(9)** such other information as the Secretary considers appropriate with respect to monitoring and enforcing compliance with the Seafood Import Monitoring Program.
+
+“In this subtitle [subtitle E (§§ 11329–11341) of title CXIII of div. K of Pub. L. 117–263 , see Tables for classification]:
+
+Forced labor
+
+Human trafficking
+
+Illegal, unreported, or unregulated fishing
+
+Oppressive child labor
+
+Seafood
+
+Seafood Import Monitoring Program
+
+Secretary
+
+## Source Credit
+
+*([Pub. L. 117–263, div. K, title CXIII, § 11334](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4100](https://www.govinfo.gov/link/statute/136/4100).)*

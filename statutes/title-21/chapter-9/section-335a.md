@@ -3,9 +3,10 @@ title: "Section 335a - Debarment, temporary denial of approval, and suspension"
 usc_title: 21
 usc_section: "335a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 335a"
-generated_at: "2026-03-30T02:54:54.218Z"
+generated_at: "2026-11-23T21:25:55.979Z"
+status: "active"
 ---
 
 # § 335a. Debarment, temporary denial of approval, and suspension
@@ -145,3 +146,9 @@ generated_at: "2026-03-30T02:54:54.218Z"
     - **(A)** The period of debarment of a person (other than an individual) shall not be less than 1 year or more than 10 years, but if an act leading to a subsequent debarment under such paragraph occurs within 10 years after such person has been debarred under such paragraph, the period of debarment shall be permanent.
     - **(B)** The debarment of an individual shall be permanent.
   - **(3)** Subsections (c)(3), (d), (e), (i), (j), and ( l )(1) apply with respect to a person (other than an individual) or an individual who is debarred under paragraph (1) to the same extent and in the same manner as such subsections apply with respect to a person who is debarred under subsection (a)(1), or an individual who is debarred under subsection (a)(2), respectively.
+
+“The Congress finds that—
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 306, as added [Pub. L. 102–282, § 2](https://www.govinfo.gov/link/plaw/102/public/282), May 13, 1992, [106 Stat. 150](https://www.govinfo.gov/link/statute/106/150); amended [Pub. L. 105–115, title I, § 125(b)(2)(C)](https://www.govinfo.gov/link/plaw/105/public/115), Nov. 21, 1997, [111 Stat. 2325](https://www.govinfo.gov/link/statute/111/2325); [Pub. L. 107–188, title III, § 304(a)](https://www.govinfo.gov/link/plaw/107/public/188) –(c), June 12, 2002, [116 Stat. 665](https://www.govinfo.gov/link/statute/116/665), 666; [Pub. L. 107–250, title II, § 203](https://www.govinfo.gov/link/plaw/107/public/250), Oct. 26, 2002, [116 Stat. 1610](https://www.govinfo.gov/link/statute/116/1610); [Pub. L. 115–271, title III, § 3022(b)(2)](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 3938](https://www.govinfo.gov/link/statute/132/3938).)*

@@ -3,9 +3,10 @@ title: "Section 4 - Cooperative agreements"
 usc_title: 16
 usc_section: "4"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-30T02:54:22.881Z"
+generated_at: "2026-11-23T21:25:51.684Z"
+status: "active"
 ---
 
 # § 583k–4. Cooperative agreements
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:22.881Z"
   - **(1)** improve trail maintenance in a priority area;
   - **(2)** implement the strategy; or
   - **(3)** advance trail maintenance in a manner deemed appropriate by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 114–245, § 6](https://www.govinfo.gov/link/plaw/114/public/245), Nov. 28, 2016, [130 Stat. 994](https://www.govinfo.gov/link/statute/130/994).)*

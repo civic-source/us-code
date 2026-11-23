@@ -3,9 +3,10 @@ title: "Section 393 - Food and Drug Administration"
 usc_title: 21
 usc_section: "393"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 393"
-generated_at: "2026-03-30T02:54:54.283Z"
+generated_at: "2026-11-23T21:25:56.192Z"
+status: "active"
 ---
 
 # § 393. Food and Drug Administration
@@ -60,3 +61,49 @@ generated_at: "2026-03-30T02:54:54.283Z"
     - **(A)** the number of foreign offices established; and
     - **(B)** the number of personnel permanently stationed in each foreign office.
 - **(i)** The Secretary shall make the reports required under subsection (h) available to the public on the Internet Web site of the Food and Drug Administration.
+
+FDA Report and Implementation of Good Guidance Practices
+
+Report and Implementation of FDA Best Practices for Communicating With External Stakeholders
+
+Consultation
+
+Manner of Issuance
+
+Timing
+
+FDA Strategic Information Technology Plan.—
+
+In general
+
+Content of strategic plan
+
+Evaluation of progress
+
+In General
+
+Requirements
+
+Performance Reports
+
+Medical Product
+
+HHS Report
+
+GAO Report
+
+List and Analysis
+
+Study
+
+Study of Mercury Sales.—
+
+Study
+
+Regulations
+
+“Congress finds that—
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 1003, formerly § 903, as added [Pub. L. 100–607, title V, § 503(a)](https://www.govinfo.gov/link/plaw/100/public/607), Nov. 4, 1988, [102 Stat. 3121](https://www.govinfo.gov/link/statute/102/3121); amended [Pub. L. 100–690, title II, § 2631](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4244](https://www.govinfo.gov/link/statute/102/4244); [Pub. L. 105–115, title IV](https://www.govinfo.gov/link/plaw/105/public/115), §§ 406, 414, Nov. 21, 1997, [111 Stat. 2369](https://www.govinfo.gov/link/statute/111/2369), 2377; renumbered § 1003 and amended [Pub. L. 111–31, div. A, title I](https://www.govinfo.gov/link/plaw/111/public/31), §§ 101(b)(2), 103(m), June 22, 2009, [123 Stat. 1784](https://www.govinfo.gov/link/statute/123/1784), 1838; [Pub. L. 111–353, title II, § 201(b)](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3925](https://www.govinfo.gov/link/statute/124/3925).)*

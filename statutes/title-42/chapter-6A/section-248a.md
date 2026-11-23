@@ -3,9 +3,10 @@ title: "Section 248a - Closing or transfer of hospitals; reduction of services; 
 usc_title: 42
 usc_section: "248a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 248a"
-generated_at: "2026-03-30T02:56:10.708Z"
+generated_at: "2026-11-23T21:26:30.324Z"
+status: "active"
 ---
 
 # § 248a. Closing or transfer of hospitals; reduction of services; Congressional authorization required
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:10.708Z"
     - **(C)** reduce the level and range of the other health-related activities conducted at such hospital from the level and range required by subsection (a)(3),
   - **(2)** Any recommendation submitted to the Congress for legislation to authorize an action described in paragraph (1) with respect to a hospital of the Public Health Service shall be accompanied by a copy of the written, unqualified approval of the proposed action submitted to the Secretary by each (A) section 314(a) State health planning agency whose section 314(a) plan covers (in whole or in part) the area in which such hospital is located or which is served by such hospital, and (B) section 314(b) areawide health planning agency whose section 314(b) plan covers (in whole or in part) such area.
   - **(3)** For purposes of this subsection, the term “section 314(a) State health planning agency” means the agency of a State which administers or supervises the administration of a State’s health planning functions under a State plan approved under section 314(a) of the Public Health Service Act (referred to in paragraph (2) as a “section 314(a) plan”); and the term “section 314(b) areawide health planning agency” means a public or nonprofit private agency or organization which has developed a comprehensive regional, metropolitan, or other local area plan or plans referred to in section 314(b) of that Act (referred to in paragraph (2) as a “section 314(b) plan”).
+
+## Source Credit
+
+*([Pub. L. 93–155, title VIII, § 818(a)](https://www.govinfo.gov/link/plaw/93/public/155), (b), Nov. 16, 1973, [87 Stat. 622](https://www.govinfo.gov/link/statute/87/622); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695).)*

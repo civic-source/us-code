@@ -3,9 +3,10 @@ title: "Section 1730C - Licensure of health care professionals providing treatme
 usc_title: 38
 usc_section: "1730C"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1730C"
-generated_at: "2026-03-30T02:55:53.487Z"
+generated_at: "2026-11-23T21:26:16.662Z"
+status: "active"
 ---
 
 # § 1730C. Licensure of health care professionals providing treatment via telemedicine
@@ -32,3 +33,19 @@ generated_at: "2026-03-30T02:55:53.487Z"
   - **(2)** No State shall deny or revoke the license, registration, or certification of a covered health care professional who otherwise meets the qualifications of the State for holding the license, registration, or certification on the basis that the covered health care professional has engaged or intends to engage in activity covered by subsection (a).
 - **(e)** Nothing in this section may be construed to remove, limit, or otherwise affect any obligation of a covered health care professional under the Controlled Substances Act ( 21 U.S.C. 801 et seq.).
 - **(f)** In this section, the term “State” means a State, as defined in section 101(20) of this title , or a political subdivision of a State.
+
+In General
+
+Covered Health Care Professionals
+
+Property of Federal Government
+
+Relation to State Law
+
+Rule of Construction
+
+State Defined
+
+## Source Credit
+
+*(Added [Pub. L. 115–182, title I, § 151(a)](https://www.govinfo.gov/link/plaw/115/public/182), June 6, 2018, [132 Stat. 1430](https://www.govinfo.gov/link/statute/132/1430); amended [Pub. L. 116–283, div. H, title XCI, § 9101](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4780](https://www.govinfo.gov/link/statute/134/4780); [Pub. L. 118–42, div. G, title II, § 209(a)(4)(B)](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 441](https://www.govinfo.gov/link/statute/138/441).)*

@@ -3,9 +3,10 @@ title: "Section 1665f - Indian women treatment programs"
 usc_title: 25
 usc_section: "1665f"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1665f"
-generated_at: "2026-03-30T02:54:52.825Z"
+generated_at: "2026-11-23T21:25:54.630Z"
+status: "active"
 ---
 
 # § 1665f. Indian women treatment programs
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:52.825Z"
   - **(3)** to develop prevention and intervention models for Indian women which incorporate traditional health care practices, cultural values, and community and family involvement.
 - **(c)** The Secretary, in consultation with Indian tribes and tribal organizations, shall establish criteria for the review and approval of applications and proposals for funding under this section.
 - **(d)** 20 percent of the funds appropriated pursuant to this section shall be used to make grants to urban Indian organizations.
+
+## Source Credit
+
+*([Pub. L. 94–437, title VII, § 707](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

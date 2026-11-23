@@ -3,9 +3,10 @@ title: "Section 10168 - Construction authorization"
 usc_title: 42
 usc_section: "10168"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10168"
-generated_at: "2026-03-30T02:56:11.383Z"
+generated_at: "2026-11-23T21:26:33.345Z"
+status: "active"
 ---
 
 # § 10168. Construction authorization
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.383Z"
   - **(2)** construction of such facility or acceptance of spent nuclear fuel or high-level radioactive waste shall be prohibited during such time as the repository license is revoked by the Commission or construction of the repository ceases;
   - **(3)** the quantity of spent nuclear fuel or high-level radioactive waste at the site of such facility at any one time may not exceed 10,000 metric tons of heavy metal until a repository under this chapter first accepts spent nuclear fuel or solidified high-level radioactive waste; and
   - **(4)** the quantity of spent nuclear fuel or high-level radioactive waste at the site of such facility at any one time may not exceed 15,000 metric tons of heavy metal.
+
+## Source Credit
+
+*([Pub. L. 97–425, title I, § 148](https://www.govinfo.gov/link/plaw/97/public/425), as added [Pub. L. 100–202, § 101(d) [title III, § 300]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–104](https://www.govinfo.gov/link/statute/101/1329), 1329–121; [Pub. L. 100–203, title V, § 5021](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–235](https://www.govinfo.gov/link/statute/101/1330).)*

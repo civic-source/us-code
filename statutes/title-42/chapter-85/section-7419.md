@@ -3,9 +3,10 @@ title: "Section 7419 - Primary nonferrous smelter orders"
 usc_title: 42
 usc_section: "7419"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7419"
-generated_at: "2026-03-30T02:56:11.301Z"
+generated_at: "2026-11-23T21:26:33.093Z"
+status: "active"
 ---
 
 # § 7419. Primary nonferrous smelter orders
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:56:11.301Z"
   - **(2)** (after notice and opportunity for public hearing) revoke such order and enforce compliance with the requirement with respect to which such order was granted,
   - **(3)** give notice of noncompliance and commence action under section 7420 of this title , or
   - **(4)** take any appropriate combination of such actions.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 119, as added [Pub. L. 95–95, title I, § 117(b)](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 712](https://www.govinfo.gov/link/statute/91/712); amended [Pub. L. 95–190, § 14(a)(25)](https://www.govinfo.gov/link/plaw/95/public/190) –(27), Nov. 16, 1977, [91 Stat. 1401](https://www.govinfo.gov/link/statute/91/1401).)*

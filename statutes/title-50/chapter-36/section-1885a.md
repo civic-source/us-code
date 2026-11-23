@@ -3,9 +3,10 @@ title: "Section 1885a - Procedures for implementing statutory defenses"
 usc_title: 50
 usc_section: "1885a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1885a"
-generated_at: "2026-03-30T02:56:26.215Z"
+generated_at: "2026-11-23T21:26:38.948Z"
+status: "active"
 ---
 
 # § 1885a. Procedures for implementing statutory defenses
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:26.215Z"
 - **(g)** A civil action against a person for providing assistance to an element of the intelligence community that is brought in a State court shall be deemed to arise under the Constitution and laws of the United States and shall be removable under section 1441 of title 28 .
 - **(h)** Nothing in this section shall be construed to limit any otherwise available immunity, privilege, or defense under any other provision of law.
 - **(i)** This section shall apply to a civil action pending on or filed after July 10, 2008 .
+
+## Source Credit
+
+*([Pub. L. 95–511, title VIII, § 802](https://www.govinfo.gov/link/plaw/95/public/511), as added [Pub. L. 110–261, title II, § 201](https://www.govinfo.gov/link/plaw/110/public/261), July 10, 2008, [122 Stat. 2468](https://www.govinfo.gov/link/statute/122/2468); amended [Pub. L. 115–118, title I, § 101(b)(2)(A)](https://www.govinfo.gov/link/plaw/115/public/118), Jan. 19, 2018, [132 Stat. 8](https://www.govinfo.gov/link/statute/132/8).)*

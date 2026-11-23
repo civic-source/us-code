@@ -3,9 +3,10 @@ title: "Section 1515 - Review of protests"
 usc_title: 19
 usc_section: "1515"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1515"
-generated_at: "2026-03-30T02:54:24.640Z"
+generated_at: "2026-11-23T21:25:42.720Z"
+status: "active"
 ---
 
 # § 1515. Review of protests
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:24.640Z"
 - **(b)** A request for accelerated disposition of a protest filed in accordance with section 1514 of this title may be mailed by certified or registered mail to the appropriate customs officer any time concurrent with or following the filing of such protest. For purposes of section 1581 of title 28 , a protest which has not been allowed or denied in whole or in part within thirty days following the date of mailing by certified or registered mail of a request for accelerated disposition shall be deemed denied on the thirtieth day following mailing of such request.
 - **(c)** If a protesting party believes that an application for further review was erroneously or improperly denied or was denied without authority for such action, it may file with the Commissioner of U.S. Customs and Border Protection a written request that the denial of the application for further review be set aside. Such request must be filed within 60 days after the date of the notice of the denial. The Commissioner of U.S. Customs and Border Protection may review such request and, based solely on the information before the Customs Service at the time the application for further review was denied, may set aside the denial of the application for further review and void the denial of protest, if appropriate. If the Commissioner of U.S. Customs and Border Protection fails to act within 60 days after the date of the request, the request shall be considered denied. All denials of protests are effective from the date of original denial for purposes of section 2636 of title 28 . If an action is commenced in the Court of International Trade that arises out of a protest or an application for further review, all administrative action pertaining to such protest or application shall terminate and any administrative action taken subsequent to the commencement of the action is null and void.
 - **(d)** If a protest is timely and properly filed, but is denied contrary to proper instructions, the Customs Service may on its own initiative, or pursuant to a written request by the protesting party filed with the appropriate port director within 90 days after the date of the protest denial, void the denial of the protest.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 515, [46 Stat. 734](https://www.govinfo.gov/link/statute/46/734); [Pub. L. 91–271, title II, § 208](https://www.govinfo.gov/link/plaw/91/public/271), June 2, 1970, [84 Stat. 285](https://www.govinfo.gov/link/statute/84/285); [Pub. L. 96–39, title X, § 1001(b)(2)](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 304](https://www.govinfo.gov/link/statute/93/304); [Pub. L. 96–417, title VI, § 606](https://www.govinfo.gov/link/plaw/96/public/417), Oct. 10, 1980, [94 Stat. 1745](https://www.govinfo.gov/link/statute/94/1745); [Pub. L. 103–182, title VI, § 617](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2179](https://www.govinfo.gov/link/statute/107/2179); [Pub. L. 104–295, § 3(a)(11)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3516](https://www.govinfo.gov/link/statute/110/3516); [Pub. L. 106–36, title II, § 2407](https://www.govinfo.gov/link/plaw/106/public/36), June 25, 1999, [113 Stat. 171](https://www.govinfo.gov/link/statute/113/171); [Pub. L. 108–429, title II, § 2104](https://www.govinfo.gov/link/plaw/108/public/429), Dec. 3, 2004, [118 Stat. 2598](https://www.govinfo.gov/link/statute/118/2598); [Pub. L. 114–125, title VIII, § 802(d)(2)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 210](https://www.govinfo.gov/link/statute/130/210).)*

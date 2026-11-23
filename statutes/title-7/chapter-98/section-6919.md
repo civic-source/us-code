@@ -3,9 +3,10 @@ title: "Section 6919 - Military Veterans Agricultural Liaison"
 usc_title: 7
 usc_section: "6919"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6919"
-generated_at: "2026-03-30T02:53:42.438Z"
+generated_at: "2026-11-23T21:25:28.403Z"
+status: "active"
 ---
 
 # § 6919. Military Veterans Agricultural Liaison
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:53:42.438Z"
     - **(A)** the report of the Military Veterans Agricultural Liaison on beginning farmer training for veterans and agricultural vocational and rehabilitation programs; and
     - **(B)** the information disseminated under paragraphs (1) and (2) of subsection (b).
   - **(2)** Not later than the day before the date on which the Military Veterans Agricultural Liaison makes publicly available the information under paragraph (1), the Military Veterans Agricultural Liaison shall provide that information to the Department of Defense, the Department of Veterans Affairs, the Small Business Administration, and the Department of Labor.
+
+## Source Credit
+
+*([Pub. L. 103–354, title II, § 219](https://www.govinfo.gov/link/plaw/103/public/354), as added [Pub. L. 113–79, title XII, § 12304](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 985](https://www.govinfo.gov/link/statute/128/985); amended [Pub. L. 115–334, title XII, § 12402](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4971](https://www.govinfo.gov/link/statute/132/4971).)*

@@ -3,9 +3,10 @@ title: "Section 9619 - Response action contractors"
 usc_title: 42
 usc_section: "9619"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9619"
-generated_at: "2026-03-30T02:56:11.359Z"
+generated_at: "2026-11-23T21:26:33.259Z"
+status: "active"
 ---
 
 # § 9619. Response action contractors
@@ -63,3 +64,7 @@ generated_at: "2026-03-30T02:56:11.359Z"
   - **(3)** If under applicable Federal law surety bonds are required for any direct Federal procurement of any response action contract, unless otherwise provided for by the procuring agency in the bond, in the event of a default, the surety’s liability on a performance bond shall be only for the cost of completion of the contract work in accordance with the plans and specifications less the balance of funds remaining to be paid under the contract, up to the penal sum of the bond. The surety shall in no event be liable on bonds to indemnify or compensate the obligee for loss or liability arising from personal injury or property damage whether or not caused by a breach of the bonded contract.
   - **(4)** Nothing in this subsection shall be construed as preempting, limiting, superseding, affecting, applying to, or modifying any State laws, regulations, requirements, rules, practices or procedures. Nothing in this subsection shall be construed as affecting, applying to, modifying, limiting, superseding, or preempting any rights, authorities, liabilities, demands, actions, causes of action, losses, judgments, claims, statutes of limitation, or obligations under Federal or State law, which do not arise on or under the bond.
   - **(5)** This subsection shall not apply to bonds executed before October 17, 1990 .
+
+## Source Credit
+
+*([Pub. L. 96–510, title I, § 119](https://www.govinfo.gov/link/plaw/96/public/510), as added [Pub. L. 99–499, title I, § 119](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1662](https://www.govinfo.gov/link/statute/100/1662); amended [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 100–202, § 101(f) [title II, § 201]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–187](https://www.govinfo.gov/link/statute/101/1329), 1329–198; [Pub. L. 101–584, § 1](https://www.govinfo.gov/link/plaw/101/public/584), Nov. 15, 1990, [104 Stat. 2872](https://www.govinfo.gov/link/statute/104/2872); [Pub. L. 102–484, div. A, title III, § 331(a)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2373](https://www.govinfo.gov/link/statute/106/2373); [Pub. L. 105–276, title III](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2497](https://www.govinfo.gov/link/statute/112/2497).)*

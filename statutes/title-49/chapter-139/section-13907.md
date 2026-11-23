@@ -3,9 +3,10 @@ title: "Section 13907 - Household goods agents"
 usc_title: 49
 usc_section: "13907"
 chapter: 139
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 13907"
-generated_at: "2026-03-30T02:56:19.330Z"
+generated_at: "2026-11-23T21:26:40.687Z"
+status: "active"
 ---
 
 # § 13907. Household goods agents
@@ -28,3 +29,35 @@ generated_at: "2026-03-30T02:56:19.330Z"
 - **(e)** In this section, the following definitions apply:
   - **(1)** The term “household goods” has the meaning such term had under section 10102(11) of this title , as in effect on December 31, 1995 .
   - **(2)** The term “transportation” means transportation that would be subject to the jurisdiction of the Interstate Commerce Commission under subchapter II of chapter 105 of this title, as in effect on December 31, 1995 , if such subchapter were still in effect.
+
+Carriers Responsible for Agents
+
+Standard for Selecting Agents
+
+Enforcement.—
+
+Complaint
+
+Right to defend
+
+Order
+
+Hearing
+
+Court review
+
+Limitation on Applicability of Antitrust Laws.—
+
+In general
+
+Board review
+
+Definitions
+
+Household goods
+
+Transportation
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 887](https://www.govinfo.gov/link/statute/109/887); amended [Pub. L. 104–287, § 5(35)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3392](https://www.govinfo.gov/link/statute/110/3392).)*

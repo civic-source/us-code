@@ -3,12 +3,17 @@ title: "Section 1365 - Institution of proceeding for court review of committee f
 usc_title: 7
 usc_section: "1365"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1365"
-generated_at: "2026-03-30T02:53:42.309Z"
+generated_at: "2026-11-23T21:25:28.052Z"
+status: "active"
 ---
 
 # § 1365. Institution of proceeding for court review of committee findings
 
 If the farmer is dissatisfied with the determination of the review committee, he may, within fifteen days after a notice of such determination is mailed to him by registered mail or by certified mail, file a bill in equity against the review committee as defendant in the United States district court, or institute proceedings for review in any court of record of the State having general jurisdiction, sitting in the county or the district in which his farm is located, for the purpose of obtaining a review of such determination. Bond shall be given in an amount and with surety satisfactory to the court to secure the United States for the costs of the proceeding. The bill of complaint in such proceeding may be served by delivering a copy thereof to any one of the members of the review committee. Thereupon the review committee shall certify and file in the court a transcript of the record upon which the determination complained of was made, together with its findings of fact.
 
+
+## Source Credit
+
+*(Feb. 16, 1938, ch. 30, title III, § 365, [52 Stat. 63](https://www.govinfo.gov/link/statute/52/63); [Pub. L. 86–507, § 1(5)](https://www.govinfo.gov/link/plaw/86/public/507), June 11, 1960, [74 Stat. 200](https://www.govinfo.gov/link/statute/74/200).)*

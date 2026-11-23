@@ -3,9 +3,10 @@ title: "Section 3383 - National Counterintelligence and Security Center"
 usc_title: 50
 usc_section: "3383"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3383"
-generated_at: "2026-03-30T02:56:26.252Z"
+generated_at: "2026-11-23T21:26:39.050Z"
+status: "active"
 ---
 
 # § 3383. National Counterintelligence and Security Center
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:56:26.252Z"
   - **(1)** any information, document, record, or paper in the possession of the Center; or
   - **(2)** any personnel of the Center.
 - **(j)** Nothing in this section shall be construed as affecting the authority of the Director of National Intelligence, the Secretary of Defense, the Secretary of State, the Attorney General, or the Director of the Federal Bureau of Investigation as provided or specified under the National Security Act of 1947 or under other provisions of law.
+
+## Source Credit
+
+*([Pub. L. 107–306, title IX, § 904](https://www.govinfo.gov/link/plaw/107/public/306), Nov. 27, 2002, [116 Stat. 2434](https://www.govinfo.gov/link/statute/116/2434); [Pub. L. 108–458, title I](https://www.govinfo.gov/link/plaw/108/public/458), §§ 1071(g)(2)(B), 1072(d)(1)(C), Dec. 17, 2004, [118 Stat. 3691](https://www.govinfo.gov/link/statute/118/3691), 3693; [Pub. L. 111–259, title IV, § 412](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2725](https://www.govinfo.gov/link/statute/124/2725); [Pub. L. 112–18, title IV, § 401](https://www.govinfo.gov/link/plaw/112/public/18), June 8, 2011, [125 Stat. 227](https://www.govinfo.gov/link/statute/125/227); [Pub. L. 112–87, title III, § 311(b)](https://www.govinfo.gov/link/plaw/112/public/87), Jan. 3, 2012, [125 Stat. 1886](https://www.govinfo.gov/link/statute/125/1886); [Pub. L. 115–31, div. N, title IV, § 401(b)(1)](https://www.govinfo.gov/link/plaw/115/public/31) –(5), May 5, 2017, [131 Stat. 817](https://www.govinfo.gov/link/statute/131/817), 818; [Pub. L. 117–263, div. F, title LXIII, § 6318(d)(4)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3521](https://www.govinfo.gov/link/statute/136/3521); [Pub. L. 118–31, div. G, title III](https://www.govinfo.gov/link/plaw/118/public/31), §§ 7303, 7305(a), (b)(1), Dec. 22, 2023, [137 Stat. 1025](https://www.govinfo.gov/link/statute/137/1025), 1026; [Pub. L. 118–159, div. F, title LXIII, § 6302](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2471](https://www.govinfo.gov/link/statute/138/2471).)*

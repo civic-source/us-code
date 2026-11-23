@@ -3,9 +3,10 @@ title: "Section 690 - Definitions"
 usc_title: 15
 usc_section: "690"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 690"
-generated_at: "2026-03-30T02:54:08.112Z"
+generated_at: "2026-11-23T21:25:39.721Z"
+status: "active"
 ---
 
 # § 690. Definitions
@@ -24,3 +25,7 @@ In this part:
     - **(B)** that has received conditional approval under section 690c(c) of this title .
   - **(5)** The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States.
   - **(6)** The term “venture capital” means capital in the form of equity capital investments, as that term is defined in section 683(g)(4) of this title .
+
+## Source Credit
+
+*([Pub. L. 85–699, title III, § 381](https://www.govinfo.gov/link/plaw/85/public/699), as added [Pub. L. 110–140, title XII, § 1207](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1774](https://www.govinfo.gov/link/statute/121/1774).)*

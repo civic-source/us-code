@@ -3,9 +3,10 @@ title: "Section 13365 - Coal fuel mixtures"
 usc_title: 42
 usc_section: "13365"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13365"
-generated_at: "2026-03-30T02:56:11.442Z"
+generated_at: "2026-11-23T21:26:33.597Z"
+status: "active"
 ---
 
 # § 13365. Coal fuel mixtures
@@ -17,3 +18,7 @@ Within one year following October 24, 1992 , the Secretary shall submit a report
   - **(3)** an assessment of the market potential of such technologies, including the potential to displace imported crude oil and refined petroleum products;
   - **(4)** identification of barriers to commercialization of such technologies; and
   - **(5)** recommendations for addressing barriers to commercialization.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XIII, § 1336](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2985](https://www.govinfo.gov/link/statute/106/2985).)*

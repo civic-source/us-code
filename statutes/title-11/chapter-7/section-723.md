@@ -3,9 +3,10 @@ title: "Section 723 - Rights of partnership trustee against general partners"
 usc_title: 11
 usc_section: "723"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 723"
-generated_at: "2026-03-30T02:53:53.881Z"
+generated_at: "2026-11-23T21:25:34.936Z"
+status: "active"
 ---
 
 # § 723. Rights of partnership trustee against general partners
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:53.881Z"
 - **(b)** To the extent practicable, the trustee shall first seek recovery of such deficiency from any general partner in such partnership that is not a debtor in a case under this title. Pending determination of such deficiency, the court may order any such partner to provide the estate with indemnity for, or assurance of payment of, any deficiency recoverable from such partner, or not to dispose of property.
 - **(c)** The trustee has a claim against the estate of each general partner in such partnership that is a debtor in a case under this title for the full amount of all claims of creditors allowed in the case concerning such partnership. Notwithstanding section 502 of this title , there shall not be allowed in such partner’s case a claim against such partner on which both such partner and such partnership are liable, except to any extent that such claim is secured only by property of such partner and not by property of such partnership. The claim of the trustee under this subsection is entitled to distribution in such partner’s case under section 726(a) of this title the same as any other claim of a kind specified in such section.
 - **(d)** If the aggregate that the trustee recovers from the estates of general partners under subsection (c) of this section is greater than any deficiency not recovered under subsection (b) of this section, the court, after notice and a hearing, shall determine an equitable distribution of the surplus so recovered, and the trustee shall distribute such surplus to the estates of the general partners in such partnership according to such determination.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2606](https://www.govinfo.gov/link/statute/92/2606); [Pub. L. 98–353, title III, § 476](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 381](https://www.govinfo.gov/link/statute/98/381); [Pub. L. 103–394, title II, § 212](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4125](https://www.govinfo.gov/link/statute/108/4125); [Pub. L. 111–327, § 2(a)(26)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3560](https://www.govinfo.gov/link/statute/124/3560).)*

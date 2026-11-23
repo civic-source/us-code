@@ -3,12 +3,17 @@ title: "Section 346 - Proceedings in actions for allotments"
 usc_title: 25
 usc_section: "346"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 346"
-generated_at: "2026-03-30T02:54:52.804Z"
+generated_at: "2026-11-23T21:25:54.564Z"
+status: "active"
 ---
 
 # § 346. Proceedings in actions for allotments
 
 The plaintiff shall cause a copy of his petition filed under section 345 of this title , to be served upon the United States attorney in the district wherein suit is brought, and shall mail a copy of same, by registered letter, to the Attorney General of the United States, and shall thereupon cause to be filed with the clerk of the court wherein suit is instituted an affidavit of such service and the mailing of such letter. It shall be the duty of the United States attorney upon whom service of petition is made as aforesaid to appear and defend the interests of the Government in the suit, and within sixty days after the service of petition upon him, unless the time should be extended by order of the court made in the case to file a plea, answer, or demurrer on the part of the Government, and to file a notice of any counterclaim, set-off, claim for damages, or other demand or defense whatsoever of the Government in the premises: Provided , That should the United States attorney neglect or refuse to file the plea, answer, demurrer, or defense, as required, the plaintiff may proceed with the case under such rules as the court may adopt in the premises; but the plaintiff shall not have judgment or decree for his claim, or any part thereof, unless he shall establish the same by proof satisfactory to the court.
 
+
+## Source Credit
+
+*(Feb. 6, 1901, ch. 217, § 2, [31 Stat. 760](https://www.govinfo.gov/link/statute/31/760); June 25, 1948, ch. 646, § 1, [62 Stat. 909](https://www.govinfo.gov/link/statute/62/909).)*

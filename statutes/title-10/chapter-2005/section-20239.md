@@ -3,9 +3,10 @@ title: "Section 20239 - Promotions: how made"
 usc_title: 10
 usc_section: "20239"
 chapter: 2005
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 20239"
-generated_at: "2026-03-30T02:53:38.281Z"
+generated_at: "2026-11-23T21:25:33.088Z"
+status: "active"
 ---
 
 # § 20239. Promotions: how made
@@ -32,3 +33,37 @@ generated_at: "2026-03-30T02:53:38.281Z"
   - **(3)** Except as provided in paragraph (2) or as otherwise specifically authorized by law, an officer is not entitled to additional pay or allowances if the effective date of the officer’s promotion is adjusted to reflect a date earlier than the actual date of the officer’s promotion.
 - **(e)** Under regulations prescribed by the Secretary of Defense, the promotion of an officer on the Space Force officer list to the grade of brigadier general or major general shall be delayed if that promotion would cause any strength limitation of section 526 of this title to be exceeded. The delay shall expire when the Secretary of the Air Force determines that the delay is no longer required to ensure compliance with the strength limitation.
 - **(f)** The provisions of section 14311 of this title shall apply to the appointment of an officer under this section in the same manner as they apply to an appointment of an officer under that section, and any reference in that section to an reserve active-status list shall be treated for purposes of applicability to an officer of the Space Force as referring to the Space Force officer list.
+
+Promotion Lists.—
+
+Placement of names on promotion list
+
+Time of establishment of promotion list
+
+Promotions; How Made; Order.—
+
+Appointment authority
+
+Timing
+
+Order
+
+Promotions to grade of first lieutenant
+
+Promotion of First Lieutenants on an All-fully-qualified Officers List
+
+Date of Rank.—
+
+General rule
+
+Adjustments
+
+Additional pay and allowances precluded
+
+Delay of Promotions to General Officer Grades to Comply With Strength Limitations
+
+Authority to Delay Appointments for Specified Reasons
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVII, § 1716(c)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 645](https://www.govinfo.gov/link/statute/137/645); amended [Pub. L. 118–159, div. A, title V, § 521(s)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1882](https://www.govinfo.gov/link/statute/138/1882).)*

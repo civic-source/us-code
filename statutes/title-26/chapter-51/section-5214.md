@@ -3,9 +3,10 @@ title: "Section 5214 - Withdrawal of distilled spirits from bonded premises free
 usc_title: 26
 usc_section: "5214"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5214"
-generated_at: "2026-03-30T02:55:27.821Z"
+generated_at: "2026-11-23T21:26:06.709Z"
+status: "active"
 ---
 
 # § 5214. Withdrawal of distilled spirits from bonded premises free of tax or without payment of tax
@@ -41,3 +42,37 @@ generated_at: "2026-03-30T02:55:27.821Z"
   - **(6)** For provisions authorizing regulations for withdrawal of distilled spirits free of tax for use of the United States, see section 7510.
   - **(7)** For provisions authorizing removal of distillates to bonded wine cellars for use in the production of distilling material, see section 5373(c).
   - **(8)** For provisions relating to distilled spirits for use of foreign embassies, legations, etc., see section 5066.
+
+| Present subsecs.: | Prior sections |
+| --- | --- |
+| (a) | 5243(e), 5247, 5310(a)–(c), 5331 (a)(1), (b), 5373(b)(4), 5522(a). |
+| (a)(1) | 5310(a), 5331(a)(1), (b). |
+| (a)(2), (3) | 5310(b), (c). |
+| (a)(4) | 5243(e), 5247. |
+| (a)(9) | 5373(b)(4). |
+| (b)(3) | 5248(2). |
+| (b)(4) | 5248(4). |
+| (b)(5) | 5248(3). |
+
+
+(a)
+
+(a)(1)
+
+(a)(2), (3)
+
+(a)(4)
+
+(a)(9)
+
+(b)(3)
+
+(b)(4)
+
+(b)(5)
+
+“Any distilled spirits or product described in paragraph (14) of section 5214(a) of the Internal Revenue Code of 1986 (as added by this section) shall not be subject to any requirements related to labeling or bulk sales under—
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1362](https://www.govinfo.gov/link/statute/72/1362); amended [Pub. L. 91–172, title I, § 101(j)(29)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 529](https://www.govinfo.gov/link/statute/83/529); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1905(c)(2), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1823](https://www.govinfo.gov/link/statute/90/1823), 1834; [Pub. L. 95–176](https://www.govinfo.gov/link/plaw/95/public/176), §§ 3(a), (d), 4(a), Nov. 14, 1977, [91 Stat. 1365](https://www.govinfo.gov/link/statute/91/1365); [Pub. L. 96–39, title VIII, § 807(a)(28)](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 285](https://www.govinfo.gov/link/statute/93/285); [Pub. L. 96–223, title II, § 232(e)(2)(B)](https://www.govinfo.gov/link/plaw/96/public/223), Apr. 2, 1980, [94 Stat. 280](https://www.govinfo.gov/link/statute/94/280); [Pub. L. 98–369, div. A, title IV, § 455(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 823](https://www.govinfo.gov/link/statute/98/823); [Pub. L. 116–136, div. A, title II, § 2308(a)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 359](https://www.govinfo.gov/link/statute/134/359).)*

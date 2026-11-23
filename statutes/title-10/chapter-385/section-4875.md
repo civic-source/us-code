@@ -3,9 +3,10 @@ title: "Section 4875 - Prohibition on acquisition of personal protective equipme
 usc_title: 10
 usc_section: "4875"
 chapter: 385
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4875"
-generated_at: "2026-03-30T02:53:38.215Z"
+generated_at: "2026-11-23T21:25:32.799Z"
+status: "active"
 ---
 
 # § 4875. Prohibition on acquisition of personal protective equipment and certain other items from non-allied foreign nations
@@ -27,3 +28,23 @@ generated_at: "2026-03-30T02:53:38.215Z"
     - **(B)** the People’s Republic of China;
     - **(C)** the Russian Federation; and
     - **(D)** the Islamic Republic of Iran.
+
+In General
+
+Applicability
+
+Exceptions.—
+
+In general
+
+Limitation
+
+Definitions
+
+Covered item
+
+Covered nation
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. A, title VIII, § 802(a)(1)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1812](https://www.govinfo.gov/link/statute/135/1812), § 2533e; renumbered § 4875, [Pub. L. 117–81, div. A, title VIII, § 802(b)(1)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1813](https://www.govinfo.gov/link/statute/135/1813).)*

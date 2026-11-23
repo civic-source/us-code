@@ -3,9 +3,10 @@ title: "Section 5104 - Decisions and notices of decisions"
 usc_title: 38
 usc_section: "5104"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 5104"
-generated_at: "2026-03-30T02:55:53.519Z"
+generated_at: "2026-11-23T21:26:16.813Z"
+status: "active"
 ---
 
 # § 5104. Decisions and notices of decisions
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:53.519Z"
 - **(d)** The Secretary shall annually—
   - **(1)** solicit recommendations from stakeholders on how to improve notice under this section; and
   - **(2)** publish such recommendations on a publicly available website of the Department.
+
+## Source Credit
+
+*(Added [Pub. L. 101–237, title I, § 115(a)(1)](https://www.govinfo.gov/link/plaw/101/public/237), Dec. 18, 1989, [103 Stat. 2065](https://www.govinfo.gov/link/statute/103/2065), § 3004; renumbered § 5104, [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238); amended [Pub. L. 102–54, § 14(d)(1)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 285](https://www.govinfo.gov/link/statute/105/285); [Pub. L. 103–446, title XII, § 1201(d)(15)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4684](https://www.govinfo.gov/link/statute/108/4684); [Pub. L. 115–55, § 2(e)](https://www.govinfo.gov/link/plaw/115/public/55), Aug. 23, 2017, [131 Stat. 1106](https://www.govinfo.gov/link/statute/131/1106); [Pub. L. 117–168, title VIII, § 807(a)(2)](https://www.govinfo.gov/link/plaw/117/public/168), Aug. 10, 2022, [136 Stat. 1806](https://www.govinfo.gov/link/statute/136/1806).)*

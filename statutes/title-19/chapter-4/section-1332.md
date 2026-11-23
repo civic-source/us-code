@@ -3,9 +3,10 @@ title: "Section 1332 - Investigations"
 usc_title: 19
 usc_section: "1332"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1332"
-generated_at: "2026-03-30T02:54:24.629Z"
+generated_at: "2026-11-23T21:25:42.695Z"
+status: "active"
 ---
 
 # § 1332. Investigations
@@ -25,3 +26,95 @@ generated_at: "2026-03-30T02:54:24.629Z"
   - **(2)** The term “import cost” means the transaction value of the imported merchandise determined in accordance with section 1401a(b) of this title plus, when not included in the transaction value, all necessary expenses, exclusive of customs duties, of bringing such merchandise to the United States.
 - **(f)**
 - **(g)** The commission shall put at the disposal of the President of the United States, the Committee on Ways and Means of the House of Representatives, and the Committee on Finance of the Senate, whenever requested, all information at its command, and shall make such investigations and reports as may be requested by the President or by either of said committees or by either branch of the Congress. However, the Commission may not release information which the Commission considers to be confidential business information unless the party submitting the confidential business information had notice, at the time of submission, that such information would be released by the Commission, or such party subsequently consents to the release of the information. The Commission shall report to Congress on the first Monday of December of each year after June 17, 1930 , a statement of the methods adopted and all expenses incurred, a summary of all reports made during the year, and a list of all votes taken by the commission during the year, showing those commissioners voting in the affirmative and the negative on each vote and those commissioners not voting on each vote and the reasons for not voting. Each such annual report shall include a list of all complaints filed under section 1337 of this title during the year for which such report is being made, the date on which each such complaint was filed, and the action taken thereon, and the status of all investigations conducted by the commission under such section during such year and the date on which each such investigation was commenced.
+
+Findings
+
+Sense of Congress
+
+Purpose
+
+Requirements of Commission.—
+
+Initiation
+
+Content of petitions
+
+Review.—
+
+Commission publication and public availability
+
+Public comment.—
+
+In general
+
+Publication of comments
+
+Preliminary report.—
+
+In general
+
+Categories of information
+
+“(aa) Petitions for duty suspensions and reductions that the Commission has determined do not contain the information required under paragraph (2).
+
+“(bb) Petitions for duty suspensions and reductions with respect to which the Commission has determined the petitioner is not a likely beneficiary.
+
+Additional information
+
+Final report
+
+Exclusions
+
+Estimates by the congressional budget office
+
+Prohibitions
+
+Confidential business information
+
+Procedures
+
+Department of Commerce Report
+
+In General
+
+Recommendations
+
+Form of Report
+
+House of Representatives.—
+
+In general
+
+Limited tariff benefit defined
+
+Senate.—
+
+In general
+
+Satisfaction of senate rules
+
+Limited tariff benefit defined
+
+Enactment as Exercise of Rulemaking Power of House of Representatives and Senate
+
+Appropriate congressional committees
+
+Commission
+
+Commission disclosure form
+
+Domestic producer
+
+Domestic production
+
+Duty suspension or reduction
+
+Likely beneficiary
+
+Member of congress
+
+Miscellaneous tariff bill
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title III, § 332, [46 Stat. 698](https://www.govinfo.gov/link/statute/46/698); [Pub. L. 93–618, title I, § 173](https://www.govinfo.gov/link/plaw/93/public/618), title III, § 341(b), Jan. 3, 1975, [88 Stat. 2010](https://www.govinfo.gov/link/statute/88/2010), 2056; [Pub. L. 96–39, title II, § 202(a)(1)](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 201](https://www.govinfo.gov/link/statute/93/201); [Pub. L. 100–418, title I, § 1613](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1262](https://www.govinfo.gov/link/statute/102/1262); [Pub. L. 100–647, title IX, § 9001(a)(16)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3808](https://www.govinfo.gov/link/statute/102/3808).)*

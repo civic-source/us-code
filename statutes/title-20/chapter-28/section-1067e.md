@@ -3,9 +3,10 @@ title: "Section 1067e - YES partnerships grant program"
 usc_title: 20
 usc_section: "1067e"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1067e"
-generated_at: "2026-03-30T02:54:48.103Z"
+generated_at: "2026-11-23T21:25:47.046Z"
+status: "active"
 ---
 
 # § 1067e. YES partnerships grant program
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:48.103Z"
 - **(d)** A partnership receiving a grant under this subpart shall provide, from non-Federal sources, in cash or in-kind, an amount equal to 50 percent of the costs of the project supported by such grant.
 - **(e)** In awarding grants under this subpart, the Secretary shall ensure that, to the maximum extent practicable, the projects funded under this subpart are located in diverse geographic regions of the United States.
 - **(f)** Notwithstanding the general eligibility provision in section 1067g of this title , eligibility to receive grants under this subpart is limited to partnerships described in paragraph (5) of such section.
+
+## Source Credit
+
+*([Pub. L. 89–329, title III, § 355](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title III, § 315(a)(2)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3182](https://www.govinfo.gov/link/statute/122/3182); amended [Pub. L. 111–39, title III, § 301(6)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1937](https://www.govinfo.gov/link/statute/123/1937).)*

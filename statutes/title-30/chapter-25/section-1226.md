@@ -3,9 +3,10 @@ title: "Section 1226 - Research"
 usc_title: 30
 usc_section: "1226"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1226"
-generated_at: "2026-03-30T02:55:29.396Z"
+generated_at: "2026-11-23T21:26:00.417Z"
+status: "active"
 ---
 
 # § 1226. Research
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:29.396Z"
 - **(d)**
   - **(1)** There is authorized to be appropriated to the Secretary $450,000 for each of the fiscal years ending September 30, 1990 , through September 30, 1994 , to administer this subchapter. No funds may be withheld by the Secretary for administrative expenses from those authorized to be appropriated by sections 1221 and 1222 of this title.
   - **(2)** There are authorized to be appropriated to the Secretary such sums as are necessary for the printing and publishing of the results of activities carried out by institutes and generic mineral technology centers under this subchapter, but such appropriations shall not exceed $550,000 in any single fiscal year.
+
+## Source Credit
+
+*([Pub. L. 98–409, § 6](https://www.govinfo.gov/link/plaw/98/public/409), Aug. 29, 1984, [98 Stat. 1539](https://www.govinfo.gov/link/statute/98/1539); [Pub. L. 100–483, § 7](https://www.govinfo.gov/link/plaw/100/public/483), Oct. 12, 1988, [102 Stat. 2340](https://www.govinfo.gov/link/statute/102/2340).)*

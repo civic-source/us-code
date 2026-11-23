@@ -3,9 +3,10 @@ title: "Section 1827 - Support and maintenance during emergencies"
 usc_title: 2
 usc_section: "1827"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1827"
-generated_at: "2026-03-30T02:53:04.818Z"
+generated_at: "2026-11-23T21:25:21.246Z"
+status: "active"
 ---
 
 # § 1827. Support and maintenance during emergencies
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:04.818Z"
   - **(1)** may accept contributions of comfort and other incidental items and services to support employees of the Office of the Architect of the Capitol while such employees are on duty in response to the emergency; and
   - **(2)** may incur obligations and make expenditures out of available appropriations for meals, refreshments, and other support and maintenance for the Office of the Architect of the Capitol if, in the judgment of the Architect, such obligations and expenditures are necessary to respond to the emergency.
 - **(b)** This section shall apply with respect to fiscal year 2010 and each succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 111–68, div. A, title I, § 1305](https://www.govinfo.gov/link/plaw/111/public/68), Oct. 1, 2009, [123 Stat. 2035](https://www.govinfo.gov/link/statute/123/2035).)*

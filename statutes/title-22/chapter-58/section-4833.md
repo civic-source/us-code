@@ -3,9 +3,10 @@ title: "Section 4833 - Serious Security Incident investigation process"
 usc_title: 22
 usc_section: "4833"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4833"
-generated_at: "2026-03-30T02:55:05.414Z"
+generated_at: "2026-11-23T21:25:58.651Z"
+status: "active"
 ---
 
 # § 4833. Serious Security Incident investigation process
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:05.414Z"
   - **(2)** a complete and accurate account of the casualties, injuries, and damage resulting from the incident; and
   - **(3)** a review of security procedures and directives in place at the time of the incident.
 - **(c)** The investigative team investigating a Serious Security Incident shall adopt such procedures with respect to confidentiality as determined necessary, including procedures relating to the conduct of closed proceedings or the submission and use of evidence in camera, to ensure in particular the protection of classified information relating to national defense, foreign policy, or intelligence matters. The Director of National Intelligence shall establish the level of protection required for intelligence information and for information relating to intelligence personnel included in the report required under subsection (b). The Security Review Committee shall determine the level of classification of the final report prepared pursuant to section 4834(b) of this title , and shall incorporate the same confidentiality measures in such report to the maximum extent practicable.
+
+## Source Credit
+
+*([Pub. L. 99–399, title III, § 303](https://www.govinfo.gov/link/plaw/99/public/399), Aug. 27, 1986, [100 Stat. 859](https://www.govinfo.gov/link/statute/100/859); [Pub. L. 117–263, div. I, title XCIII, § 9302(f)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3886](https://www.govinfo.gov/link/statute/136/3886); [Pub. L. 117–286, § 4(a)(170)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4324](https://www.govinfo.gov/link/statute/136/4324); [Pub. L. 118–159, div. G, title LXXV, § 7502](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2545](https://www.govinfo.gov/link/statute/138/2545).)*

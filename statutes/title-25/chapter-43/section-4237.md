@@ -3,9 +3,10 @@ title: "Section 4237 - Remedies for noncompliance"
 usc_title: 25
 usc_section: "4237"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4237"
-generated_at: "2026-03-30T02:54:52.861Z"
+generated_at: "2026-11-23T21:25:54.714Z"
+status: "active"
 ---
 
 # § 4237. Remedies for noncompliance
@@ -48,3 +49,15 @@ generated_at: "2026-03-30T02:54:52.861Z"
       - **(i)** the jurisdiction of the court shall be exclusive; and
       - **(ii)** the judgment of the court shall be final.
     - **(B)** A judgment under subparagraph (A) shall be subject to review by the Supreme Court of the United States upon writ of certiorari or certification, as provided in section 1254 of title 28 .
+
+(aa) modify the findings of fact of the Secretary; or
+
+(bb) make new findings; and
+
+(aa) such modified or new findings; and
+
+(bb) the recommendation of the Secretary, if any, for the modification or setting aside of the original action of the Secretary.
+
+## Source Credit
+
+*([Pub. L. 104–330, title VIII, § 818](https://www.govinfo.gov/link/plaw/104/public/330), as added [Pub. L. 106–568, title II, § 203](https://www.govinfo.gov/link/plaw/106/public/568), Dec. 27, 2000, [114 Stat. 2891](https://www.govinfo.gov/link/statute/114/2891), and [Pub. L. 106–569, title V, § 513](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 2985](https://www.govinfo.gov/link/statute/114/2985).)*

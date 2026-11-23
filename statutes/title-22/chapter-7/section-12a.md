@@ -3,9 +3,10 @@ title: "Section 12a - Ukraine debt payment relief"
 usc_title: 22
 usc_section: "12a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 12a"
-generated_at: "2026-03-30T02:55:05.308Z"
+generated_at: "2026-11-23T21:25:58.328Z"
+status: "active"
 ---
 
 # § 262p–12a. Ukraine debt payment relief
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:05.308Z"
   - **(2)** This section shall have no force or effect on the earlier of—
     - **(A)** the date that is 7 years after December 23, 2022 ; or
     - **(B)** the date that is 30 days after the date on which the President reports to Congress that the Government of the Russian Federation has ceased its destabilizing activities with respect to the sovereignty and territorial integrity of Ukraine.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. E, title LVII, § 5703](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3410](https://www.govinfo.gov/link/statute/136/3410).)*

@@ -3,9 +3,10 @@ title: "Section 256a - Patient navigator grants"
 usc_title: 42
 usc_section: "256a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 256a"
-generated_at: "2026-03-30T02:56:10.717Z"
+generated_at: "2026-11-23T21:26:30.365Z"
+status: "active"
 ---
 
 # § 256a. Patient navigator grants
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:56:10.717Z"
 - **(m)**
   - **(1)** To carry out this section, there are authorized to be appropriated $2,000,000 for fiscal year 2006, $5,000,000 for fiscal year 2007, $8,000,000 for fiscal year 2008, $6,500,000 for fiscal year 2009, $3,500,000 for fiscal year 2010, and such sums as may be necessary for each of fiscal years 2011 through 2015.
   - **(2)** The amounts appropriated pursuant to paragraph (1) shall remain available for obligation through the end of fiscal year 2015.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 340A, as added [Pub. L. 109–18, § 2](https://www.govinfo.gov/link/plaw/109/public/18), June 29, 2005, [119 Stat. 340](https://www.govinfo.gov/link/statute/119/340); amended [Pub. L. 111–148, title III, § 3510](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 537](https://www.govinfo.gov/link/statute/124/537).)*

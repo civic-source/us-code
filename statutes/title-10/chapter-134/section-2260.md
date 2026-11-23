@@ -3,9 +3,10 @@ title: "Section 2260 - Licensing of intellectual property: retention of fees"
 usc_title: 10
 usc_section: "2260"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2260"
-generated_at: "2026-03-30T02:53:38.151Z"
+generated_at: "2026-11-23T21:25:32.588Z"
+status: "active"
 ---
 
 # § 2260. Licensing of intellectual property: retention of fees
@@ -31,3 +32,19 @@ generated_at: "2026-03-30T02:53:38.151Z"
   - **(2)** The term “Secretary concerned” has the meaning provided in section 101(a)(9) of this title and also includes—
     - **(A)** the Secretary of Defense, with respect to matters concerning the Defense Agencies and Department of Defense Field Activities; and
     - **(B)** the Secretary of Homeland Security, with respect to matters concerning the Coast Guard when it is not operating as a service in the Department of the Navy.
+
+Authority
+
+Designated Marks
+
+Licenses for Qualifying Companies
+
+Use of Fees
+
+Availability
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 108–375, div. A, title X, § 1004(a)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2035](https://www.govinfo.gov/link/statute/118/2035); amended [Pub. L. 110–181, div. A, title VIII, § 882(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 263](https://www.govinfo.gov/link/statute/122/263); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title VIII, § 881, Oct. 14, 2008, [122 Stat. 4559](https://www.govinfo.gov/link/statute/122/4559).)*

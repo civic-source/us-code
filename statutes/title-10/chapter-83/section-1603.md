@@ -3,9 +3,10 @@ title: "Section 1603 - Additional compensation, incentives, and allowances"
 usc_title: 10
 usc_section: "1603"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1603"
-generated_at: "2026-03-30T02:53:38.132Z"
+generated_at: "2026-11-23T21:25:32.526Z"
+status: "active"
 ---
 
 # § 1603. Additional compensation, incentives, and allowances
@@ -37,3 +38,15 @@ generated_at: "2026-03-30T02:53:38.132Z"
       - **(i)** the congressional defense committees; and
       - **(ii)** the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
     - **(B)** The term “covered employee” means an employee in a defense intelligence position who is assigned to the Defense Clandestine Service at a location in the United States that the Secretary determines has living costs equal to or higher than the District of Columbia.
+
+Additional Compensation Based on Title
+
+Authorities
+
+Allowances Based on Living Costs and Environment
+
+Additional Allowances and Benefits for Certain Employees of the Defense Clandestine Service
+
+## Source Credit
+
+*(Added [Pub. L. 104–201, div. A, title XVI, § 1632(a)(3)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2746](https://www.govinfo.gov/link/statute/110/2746); amended [Pub. L. 116–92, div. A, title XI, § 1108](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1597](https://www.govinfo.gov/link/statute/133/1597).)*

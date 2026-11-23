@@ -3,9 +3,10 @@ title: "Section 228 - Regulation of carrier offering of pay-per-call services"
 usc_title: 47
 usc_section: "228"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 228"
-generated_at: "2026-03-30T02:56:24.499Z"
+generated_at: "2026-11-23T21:26:35.954Z"
+status: "active"
 ---
 
 # § 228. Regulation of carrier offering of pay-per-call services
@@ -108,3 +109,7 @@ generated_at: "2026-03-30T02:56:24.499Z"
     - **(B)** for which the caller pays a per-call or per-time-interval charge that is greater than, or in addition to, the charge for transmission of the call; and
     - **(C)** which is accessed through use of a 900 telephone number or other prefix or area code designated by the Commission in accordance with subsection (b)(5).
   - **(2)** Such term does not include directory services provided by a common carrier or its affiliate or by a local exchange carrier or its affiliate, or any service for which users are assessed charges only after entering into a presubscription or comparable arrangement with the provider of such service.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title II, § 228, as added [Pub. L. 102–556, title I, § 101](https://www.govinfo.gov/link/plaw/102/public/556), Oct. 28, 1992, [106 Stat. 4182](https://www.govinfo.gov/link/statute/106/4182); amended [Pub. L. 103–414, title III, § 303(a)(13)](https://www.govinfo.gov/link/plaw/103/public/414), (14), Oct. 25, 1994, [108 Stat. 4294](https://www.govinfo.gov/link/statute/108/4294); [Pub. L. 104–104, title VII, § 701(a)(1)](https://www.govinfo.gov/link/plaw/104/public/104), (b)(2), Feb. 8, 1996, [110 Stat. 145](https://www.govinfo.gov/link/statute/110/145), 148.)*

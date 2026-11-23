@@ -3,9 +3,10 @@ title: "Section 5052 - Suspension and termination of financial assistance; proce
 usc_title: 42
 usc_section: "5052"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5052"
-generated_at: "2026-03-30T02:56:11.214Z"
+generated_at: "2026-11-23T21:26:32.714Z"
+status: "active"
 ---
 
 # § 5052. Suspension and termination of financial assistance; procedures; notice and hearing; emergency situations; refunding applications
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.214Z"
   - **(3)** in any case where an application for refunding is denied for failure to comply with the terms and conditions of the grant or contract award, the recipient shall be afforded an opportunity for an informal hearing before an impartial hearing officer, who has been agreed to by the recipient and the Agency; and
   - **(4)** assistance under this chapter shall not be terminated for failure to comply with applicable terms and conditions unless the recipient has been afforded reasonable notice and opportunity for a full and fair hearing.
 - **(b)** In order to assure equal access to all recipients, such hearings or other meetings as may be necessary to fulfill the requirements of this section shall be held at locations convenient to the recipient agency.
+
+## Source Credit
+
+*([Pub. L. 93–113, title IV, § 412](https://www.govinfo.gov/link/plaw/93/public/113), Oct. 1, 1973, [87 Stat. 411](https://www.govinfo.gov/link/statute/87/411); [Pub. L. 98–288, § 22](https://www.govinfo.gov/link/plaw/98/public/288), May 21, 1984, [98 Stat. 195](https://www.govinfo.gov/link/statute/98/195); [Pub. L. 99–551, § 10(i)(8)](https://www.govinfo.gov/link/plaw/99/public/551), Oct. 27, 1986, [100 Stat. 3078](https://www.govinfo.gov/link/statute/100/3078).)*

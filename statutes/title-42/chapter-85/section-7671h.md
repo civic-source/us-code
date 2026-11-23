@@ -3,9 +3,10 @@ title: "Section 7671h - Servicing of motor vehicle air conditioners"
 usc_title: 42
 usc_section: "7671h"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7671h"
-generated_at: "2026-03-30T02:56:11.327Z"
+generated_at: "2026-11-23T21:26:33.163Z"
+status: "active"
 ---
 
 # § 7671h. Servicing of motor vehicle air conditioners
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.327Z"
   - **(2)** Effective January 1, 1993 , each person who certified under paragraph (1)(B) shall submit a certification under paragraph (1)(A).
   - **(3)** Each certification under this subsection shall contain the name and address of the person certifying under this subsection and the serial number of each unit of approved recycling equipment acquired by such person and shall be signed and attested by the owner or another responsible officer. Certifications under paragraph (1)(A) may be made by submitting the required information to the Administrator on a standard form provided by the manufacturer of certified refrigerant recycling equipment.
 - **(e)** Effective 2 years after November 15, 1990 , it shall be unlawful for any person to sell or distribute, or offer for sale or distribution, in interstate commerce to any person (other than a person performing service for consideration on motor vehicle air-conditioning systems in compliance with this section) any class I or class II substance that is suitable for use as a refrigerant in a motor vehicle air-conditioning system and that is in a container which contains less than 20 pounds of such refrigerant.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title VI, § 609, as added [Pub. L. 101–549, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2662](https://www.govinfo.gov/link/statute/104/2662).)*

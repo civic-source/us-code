@@ -3,9 +3,10 @@ title: "Section 6203 - Printing and distribution of reports and machine-readable
 usc_title: 31
 usc_section: "6203"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 6203"
-generated_at: "2026-03-30T02:55:34.072Z"
+generated_at: "2026-11-23T21:26:10.637Z"
+status: "active"
 ---
 
 # § 6203. Printing and distribution of reports and machine-readable records
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:34.072Z"
 - **(b)** In carrying out subsection (a)(1)(B), the Director shall, based on the estimates made under paragraphs (1) and (2) of this subsection, fix the price of each printed copy and each machine-readable record of the report so that the aggregate revenues obtained in each fiscal year under subsection (a) will cover as much as is feasible of the incremental costs incurred in making these reports and machine-readable records available for purchase by the public. In computing these costs the Director shall not consider the costs of the activities set forth in sections 6102a and 6205 of this title but shall consider—
   - **(1)** the cost of compiling the reports required by this chapter; preparing the printed copies and machine-readable records under subsection (a); and distributing the printed copies and the machine-readable records of the report for each fiscal year; and
   - **(2)** the number of printed copies and the number of machine-readable records of the report that will be purchased.
+
+## Source Credit
+
+*(Added [Pub. L. 99–547, § 2(a)](https://www.govinfo.gov/link/plaw/99/public/547), Oct. 27, 1986, [100 Stat. 3058](https://www.govinfo.gov/link/statute/100/3058); amended [Pub. L. 104–186, title II, § 219(b)(3)](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1748](https://www.govinfo.gov/link/statute/110/1748).)*

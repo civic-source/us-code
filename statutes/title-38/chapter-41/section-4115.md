@@ -3,9 +3,10 @@ title: "Section 4115 - Longitudinal study of job counseling, training, and place
 usc_title: 38
 usc_section: "4115"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 4115"
-generated_at: "2026-03-30T02:55:53.516Z"
+generated_at: "2026-11-23T21:26:16.796Z"
+status: "active"
 ---
 
 # § 4115. Longitudinal study of job counseling, training, and placement service for veterans
@@ -43,3 +44,11 @@ generated_at: "2026-03-30T02:55:53.516Z"
       - **(i)** The number of job fairs attended by One-Stop Career Center employees at which the employees had contact with a veteran.
       - **(ii)** The number of veterans contacted at each such job fair.
     - **(B)** Such information as the Secretary determines is necessary to determine the long-term outcomes of the individuals in the groups described in subsection (a)(2).
+
+Study Required
+
+Annual Report
+
+## Source Credit
+
+*(Added [Pub. L. 114–315, title V, § 502(a)](https://www.govinfo.gov/link/plaw/114/public/315), Dec. 16, 2016, [130 Stat. 1566](https://www.govinfo.gov/link/statute/130/1566).)*

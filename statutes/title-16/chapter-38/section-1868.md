@@ -3,9 +3,10 @@ title: "Section 1868 - Herring study"
 usc_title: 16
 usc_section: "1868"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1868"
-generated_at: "2026-03-30T02:54:22.994Z"
+generated_at: "2026-11-23T21:25:51.934Z"
+status: "active"
 ---
 
 # § 1868. Herring study
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:22.994Z"
 - **(a)** The Secretary may conduct a cooperative research program to study the issues of abundance, distribution and the role of herring as forage fish for other commercially important fish stocks in the Northwest Atlantic, and the potential for local scale depletion from herring harvesting and how it relates to other fisheries in the Northwest Atlantic. In planning, designing, and implementing this program, the Secretary shall engage multiple fisheries sectors and stakeholder groups concerned with herring management.
 - **(b)** The Secretary shall present the final results of this study to Congress within 3 months following the completion of the study, and an interim report at the end of fiscal year 2008.
 - **(c)** There are authorized to be appropriated $2,000,000 for fiscal year 2007 through fiscal year 2009 to conduct this study.
+
+## Source Credit
+
+*([Pub. L. 94–265, title III, § 319](https://www.govinfo.gov/link/plaw/94/public/265), as added [Pub. L. 109–479, title II, § 205](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3615](https://www.govinfo.gov/link/statute/120/3615).)*

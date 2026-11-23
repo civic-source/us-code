@@ -3,9 +3,10 @@ title: "Section 1639 - Requirements for certain mortgages"
 usc_title: 15
 usc_section: "1639"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1639"
-generated_at: "2026-03-30T02:54:08.141Z"
+generated_at: "2026-11-23T21:25:39.850Z"
+status: "active"
 ---
 
 # § 1639. Requirements for certain mortgages
@@ -85,3 +86,7 @@ generated_at: "2026-03-30T02:54:08.141Z"
   - **(2)** within 60 days of the creditor’s discovery or receipt of notification of an unintentional violation or bona fide error and prior to the institution of any action, the consumer is notified of the compliance failure, appropriate restitution is made, and whatever adjustments are necessary are made to the loan to either, at the choice of the consumer—
     - **(A)** make the loan satisfy the requirements of this part; or
     - **(B)** in the case of a high-cost mortgage, change the terms of the loan in a manner beneficial so that the loan will no longer be a high-cost mortgage.
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 129](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 103–325, title I, § 152(d)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2191](https://www.govinfo.gov/link/statute/108/2191); amended [Pub. L. 111–8, div. D, title VI, § 626(c)](https://www.govinfo.gov/link/plaw/111/public/8), Mar. 11, 2009, [123 Stat. 679](https://www.govinfo.gov/link/statute/123/679); [Pub. L. 111–203, title X, § 1100A(2)](https://www.govinfo.gov/link/plaw/111/public/203), (9), title XIV, §§ 1432, 1433, July 21, 2010, [124 Stat. 2107](https://www.govinfo.gov/link/statute/124/2107), 2109, 2160; [Pub. L. 115–174, title I, § 109(a)](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1305](https://www.govinfo.gov/link/statute/132/1305).)*

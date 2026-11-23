@@ -3,9 +3,10 @@ title: "Section 312 - Administrative sanctions"
 usc_title: 47
 usc_section: "312"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 312"
-generated_at: "2026-03-30T02:56:24.507Z"
+generated_at: "2026-11-23T21:26:35.989Z"
+status: "active"
 ---
 
 # § 312. Administrative sanctions
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:24.507Z"
   - **(1)** The term “willful”, when used with reference to the commission or omission of any act, means the conscious and deliberate commission or omission of such act, irrespective of any intent to violate any provision of this chapter or any rule or regulation of the Commission authorized by this chapter or by a treaty ratified by the United States.
   - **(2)** The term “repeated”, when used with reference to the commission or omission of any act, means the commission or omission of such act more than once or, if such commission or omission is continuous, for more than one day.
 - **(g)** If a broadcasting station fails to transmit broadcast signals for any consecutive 12-month period, then the station license granted for the operation of that broadcast station expires at the end of that period, notwithstanding any provision, term, or condition of the license to the contrary, except that the Commission may extend or reinstate such station license if the holder of the station license prevails in an administrative or judicial appeal, the applicable law changes, or for any other reason to promote equity and fairness. Any broadcast license revoked or terminated in Alaska in a proceeding related to broadcasting via translator, microwave, or other alternative signal delivery is reinstated.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 312, [48 Stat. 1086](https://www.govinfo.gov/link/statute/48/1086); July 16, 1952, ch. 879, § 10, [66 Stat. 716](https://www.govinfo.gov/link/statute/66/716); [Pub. L. 86–752, § 6](https://www.govinfo.gov/link/plaw/86/public/752), Sept. 13, 1960, [74 Stat. 893](https://www.govinfo.gov/link/statute/74/893); [Pub. L. 92–225, title I, § 103(a)(2)(A)](https://www.govinfo.gov/link/plaw/92/public/225), Feb. 7, 1972, [86 Stat. 4](https://www.govinfo.gov/link/statute/86/4); [Pub. L. 97–259, title I, § 117](https://www.govinfo.gov/link/plaw/97/public/259), Sept. 13, 1982, [96 Stat. 1095](https://www.govinfo.gov/link/statute/96/1095); [Pub. L. 104–104, title IV, § 403](https://www.govinfo.gov/link/plaw/104/public/104) (l), Feb. 8, 1996, [110 Stat. 132](https://www.govinfo.gov/link/statute/110/132); [Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 148(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–251; [Pub. L. 108–447, div. J, title IX](https://www.govinfo.gov/link/plaw/108/public/447) [title II, § 213(3)], Dec. 8, 2004, [118 Stat. 3431](https://www.govinfo.gov/link/statute/118/3431).)*

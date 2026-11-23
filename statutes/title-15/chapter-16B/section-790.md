@@ -3,9 +3,10 @@ title: "Section 790 - Establishment of Office of Energy Information and Analysis
 usc_title: 15
 usc_section: "790"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 790"
-generated_at: "2026-03-30T02:54:08.122Z"
+generated_at: "2026-11-23T21:25:39.765Z"
+status: "active"
 ---
 
 # § 790. Establishment of Office of Energy Information and Analysis
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.122Z"
   - **(2)** The Director shall be a person who, by reason of professional background and experience, is specially qualified to manage an energy information system.
 - **(b)** The Administrator shall delegate (which delegation may be on a nonexclusive basis as the Administrator may determine may be necessary to assure the faithful execution of his authorities and responsibilities under law) the authority vested in him under section 796 of this title and section 772 of this title and the Director may act in the name of the Administrator under section 797 of this title and section 772 of this title for the purpose of obtaining enforcement of the authorities delegated to him.
 - **(c)** As used in this chapter the term “energy information” shall have the meaning described in section 796 of this title .
+
+## Source Credit
+
+*([Pub. L. 93–275, § 51](https://www.govinfo.gov/link/plaw/93/public/275), as added [Pub. L. 94–385, title I, § 142](https://www.govinfo.gov/link/plaw/94/public/385), Aug. 14, 1976, [90 Stat. 1135](https://www.govinfo.gov/link/statute/90/1135).)*

@@ -3,12 +3,17 @@ title: "Section 1461 - Rules and regulations governing inspection and copying"
 usc_title: 43
 usc_section: "1461"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1461"
-generated_at: "2026-03-30T02:55:57.474Z"
+generated_at: "2026-11-23T21:26:19.838Z"
+status: "active"
 ---
 
 # § 1461. Rules and regulations governing inspection and copying
 
 Nothing in sections 1460 to 1463 of this title shall be construed to limit or restrict in any manner the authority of the Secretary of the Interior to prescribe such rules and regulations as he may deem proper governing the inspection of the records of said department and its various bureaus by the general public, and any person having any particular interest in any of such records may be permitted to take copies of such records under such rules and regulations as may be prescribed by the Secretary of the Interior.
 
+
+## Source Credit
+
+*(Aug. 24, 1912, ch. 370, § 2, [37 Stat. 498](https://www.govinfo.gov/link/statute/37/498).)*

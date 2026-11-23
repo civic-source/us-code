@@ -3,12 +3,17 @@ title: "Section 12751 - Private-public partnership"
 usc_title: 42
 usc_section: "12751"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12751"
-generated_at: "2026-03-30T02:56:11.431Z"
+generated_at: "2026-11-23T21:26:33.551Z"
+status: "active"
 ---
 
 # § 12751. Private-public partnership
 
 Each participating jurisdiction shall make all reasonable efforts, consistent with the purposes of this subchapter, to maximize participation by the private sector, including nonprofit organizations and for-profit entities, in the implementation of the jurisdiction’s housing strategy, including participation in the financing, development, rehabilitation and management of affordable housing. Nothing in the previous sentence shall preclude public housing authorities from fully participating in the implementation of a jurisdiction’s housing strategy.
 
+
+## Source Credit
+
+*([Pub. L. 101–625, title II, § 221](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4112](https://www.govinfo.gov/link/statute/104/4112).)*

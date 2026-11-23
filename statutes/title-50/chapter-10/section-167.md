@@ -3,9 +3,10 @@ title: "Section 167 - Definitions"
 usc_title: 50
 usc_section: "167"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 167"
-generated_at: "2026-03-30T02:56:26.198Z"
+generated_at: "2026-11-23T21:26:38.897Z"
+status: "active"
 ---
 
 # § 167. Definitions
@@ -30,3 +31,11 @@ In this chapter:
   - **(10)** The term “qualifying domestic helium transaction” means any agreement entered into or renegotiated agreement during the preceding 1-year period in the United States for the purchase or sale of at least 15,000,000 standard cubic feet of crude or pure helium to which any holder of a contract with the Secretary for the acceptance, storage, delivery, or redelivery of crude helium from the Federal Helium System is a party.
   - **(11)** The term “refiner” means a person with the ability to take delivery of crude helium from the Federal Helium Pipeline and refine the crude helium into pure helium.
   - **(12)** The term “Secretary” means the Secretary of the Interior.
+
+In General
+
+Delivery
+
+## Source Credit
+
+*(Mar. 3, 1925, ch. 426, § 2, as added [Pub. L. 86–777, § 2](https://www.govinfo.gov/link/plaw/86/public/777), Sept. 13, 1960, [74 Stat. 918](https://www.govinfo.gov/link/statute/74/918); amended [Pub. L. 113–40, § 2](https://www.govinfo.gov/link/plaw/113/public/40), Oct. 2, 2013, [127 Stat. 534](https://www.govinfo.gov/link/statute/127/534).)*

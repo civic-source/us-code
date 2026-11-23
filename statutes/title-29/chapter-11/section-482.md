@@ -3,9 +3,10 @@ title: "Section 482 - Enforcement"
 usc_title: 29
 usc_section: "482"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 482"
-generated_at: "2026-03-30T02:55:18.684Z"
+generated_at: "2026-11-23T21:26:02.182Z"
+status: "active"
 ---
 
 # § 482. Enforcement
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:18.684Z"
   - **(1)** that an election has not been held within the time prescribed by section 481 of this title , or
   - **(2)** that the violation of section 481 of this title may have affected the outcome of an election,
 - **(d)** An order directing an election, dismissing a complaint, or designating elected officers of a labor organization shall be appealable in the same manner as the final judgment in a civil action, but an order directing an election shall not be stayed pending appeal.
+
+## Source Credit
+
+*([Pub. L. 86–257, title IV, § 402](https://www.govinfo.gov/link/plaw/86/public/257), Sept. 14, 1959, [73 Stat. 534](https://www.govinfo.gov/link/statute/73/534).)*

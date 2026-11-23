@@ -3,9 +3,10 @@ title: "Section 7693 - Eligibility; preferences; covered costs"
 usc_title: 38
 usc_section: "7693"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7693"
-generated_at: "2026-03-30T02:55:53.535Z"
+generated_at: "2026-11-23T21:26:16.891Z"
+status: "active"
 ---
 
 # § 7693. Eligibility; preferences; covered costs
@@ -26,3 +27,13 @@ generated_at: "2026-03-30T02:55:53.535Z"
   - **(1)** tuition expenses;
   - **(2)** all other reasonable educational expenses, including expenses for fees, books, equipment, and laboratory expenses; and
   - **(3)** reasonable living expenses.
+
+Eligibility
+
+Preferences
+
+Covered Costs
+
+## Source Credit
+
+*(Added [Pub. L. 115–182, title III, § 303(a)](https://www.govinfo.gov/link/plaw/115/public/182), June 6, 2018, [132 Stat. 1464](https://www.govinfo.gov/link/statute/132/1464); amended [Pub. L. 115–251, title II, § 211(a)(12)](https://www.govinfo.gov/link/plaw/115/public/251), Sept. 29, 2018, [132 Stat. 3176](https://www.govinfo.gov/link/statute/132/3176).)*

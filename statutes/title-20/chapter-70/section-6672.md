@@ -3,9 +3,10 @@ title: "Section 6672 - Supporting effective educator development"
 usc_title: 20
 usc_section: "6672"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6672"
-generated_at: "2026-03-30T02:54:48.202Z"
+generated_at: "2026-11-23T21:25:47.532Z"
+status: "active"
 ---
 
 # § 6672. Supporting effective educator development
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:48.202Z"
   - **(4)** a partnership consisting of—
     - **(A)** 1 or more entities described in paragraph (1) or (2); and
     - **(B)** a for-profit entity.
+
+## Source Credit
+
+*([Pub. L. 89–10, title II, § 2242](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title II, § 2002](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1948](https://www.govinfo.gov/link/statute/129/1948).)*

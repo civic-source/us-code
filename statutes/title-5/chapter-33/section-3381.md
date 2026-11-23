@@ -3,9 +3,10 @@ title: "Section 3381 - Training"
 usc_title: 5
 usc_section: "3381"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3381"
-generated_at: "2026-03-30T02:52:56.005Z"
+generated_at: "2026-11-23T21:25:23.164Z"
+status: "active"
 ---
 
 # § 3381. Training
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:52:56.005Z"
 - **(d)** The Secretary, without regard to section 3324(a) and (b) of title 31, may pay, or reimburse a controller for, all or part of the necessary expenses of training provided under this section, including expenses authorized to be paid under chapter 41 and subchapter I of chapter 57 of this title, and the costs of other services or facilities directly related to the training of a controller.
 - **(e)** Except as provided by subsection (d) of this section, the provisions of chapter 41 of this title, other than sections 4105, 4107(a) and (b), 1 1 See References in Text note below. and 4111, shall not apply to training under this section.
 - **(f)** The provisions of this section shall not otherwise affect the authority of the Secretary to provide training under chapter 41 of this title or under any other provision of law.
+
+## Source Credit
+
+*(Added [Pub. L. 92–297, § 3(a)](https://www.govinfo.gov/link/plaw/92/public/297), May 16, 1972, [86 Stat. 142](https://www.govinfo.gov/link/statute/86/142); amended [Pub. L. 96–347, § 1(b)](https://www.govinfo.gov/link/plaw/96/public/347), (c)(1), Sept. 12, 1980, [94 Stat. 1150](https://www.govinfo.gov/link/statute/94/1150); [Pub. L. 97–258, § 3(a)(7)](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1063](https://www.govinfo.gov/link/statute/96/1063); [Pub. L. 103–226, § 2(b)(1)](https://www.govinfo.gov/link/plaw/103/public/226), Mar. 30, 1994, [108 Stat. 112](https://www.govinfo.gov/link/statute/108/112).)*

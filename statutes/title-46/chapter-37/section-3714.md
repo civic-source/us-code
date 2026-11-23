@@ -3,9 +3,10 @@ title: "Section 3714 - Inspection and examination"
 usc_title: 46
 usc_section: "3714"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 3714"
-generated_at: "2026-03-30T02:56:15.545Z"
+generated_at: "2026-11-23T21:26:37.058Z"
+status: "active"
 ---
 
 # § 3714. Inspection and examination
@@ -48,3 +49,26 @@ generated_at: "2026-03-30T02:56:15.545Z"
     - **(B)** concluded through such assessment that a performance-driven examination schedule provides not less than the level of safety provided by the annual examinations required under subsection (a)(1); and
     - **(C)** provided the results of such assessment to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 - **(d)** Each vessel to which this chapter applies that operates in the United States shall have a person designated as authorized to accept service of legal process for the vessel.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 3714 | 46:391a(15) |
+
+
+Performance-driven Examination Schedule.—
+
+In general
+
+Considerations
+
+Eligibility
+
+Restrictions
+
+Historical and Revision Notes
+
+3714
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 526](https://www.govinfo.gov/link/statute/97/526); [Pub. L. 99–307, § 1(8)](https://www.govinfo.gov/link/plaw/99/public/307), May 19, 1986, [100 Stat. 445](https://www.govinfo.gov/link/statute/100/445); [Pub. L. 119–60, div. G, title LXXIII, § 7312(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1759](https://www.govinfo.gov/link/statute/139/1759).)*

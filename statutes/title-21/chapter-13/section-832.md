@@ -3,9 +3,10 @@ title: "Section 832 - Suspicious orders"
 usc_title: 21
 usc_section: "832"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 832"
-generated_at: "2026-03-30T02:54:54.294Z"
+generated_at: "2026-11-23T21:25:56.240Z"
+status: "active"
 ---
 
 # § 832. Suspicious orders
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:54.294Z"
   - **(1)** The Attorney General shall prepare and make available information regarding suspicious orders in a State, including information in the database established under subsection (b)(1), to the point of contact for purposes of administrative, civil, and criminal oversight relating to the diversion of controlled substances for the State, as designated by the Governor or chief executive officer of the State.
   - **(2)** The Attorney General shall provide information in accordance with paragraph (1) within a reasonable period of time after obtaining the information.
   - **(3)** In establishing the process for the provision of information under this subsection, the Attorney General shall coordinate with States to ensure that the Attorney General has access to information, as permitted under State law, possessed by the States relating to prescriptions for controlled substances that will assist in enforcing Federal law.
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 312](https://www.govinfo.gov/link/plaw/91/public/513), as added [Pub. L. 115–271, title III, § 3292(b)](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 3956](https://www.govinfo.gov/link/statute/132/3956).)*

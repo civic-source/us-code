@@ -3,9 +3,10 @@ title: "Section 1526 - Inventory of cryptographic systems; migration to post-qua
 usc_title: 6
 usc_section: "1526"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1526"
-generated_at: "2026-03-30T02:53:09.511Z"
+generated_at: "2026-11-23T21:25:25.881Z"
+status: "active"
 ---
 
 # § 1526. Inventory of cryptographic systems; migration to post-quantum cryptography
@@ -32,3 +33,31 @@ generated_at: "2026-03-30T02:53:09.511Z"
     - **(B)** An estimate of the amount of funding needed by agencies to secure the information technology described in subsection (a)(1)(A) from the risk posed by an adversary of the United States using a quantum computer to breach the encryption of the information technology.
     - **(C)** A description of Federal civilian executive branch coordination efforts led by the National Institute of Standards and Technology, including timelines, to develop standards for post-quantum cryptography, including any Federal Information Processing Standards developed under chapter 35 of title 44, as well as standards developed through voluntary, consensus standards bodies such as the International Organization for Standardization.
   - **(2)** Not later than 1 year after the date on which the Director of OMB issues guidance under subsection (c)(2), and thereafter until the date that is 5 years after the date on which post-quantum cryptographic standards are issued, the Director of OMB, in coordination with the National Cyber Director and in consultation with the Director of CISA, shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform of the House of Representatives, with the report submitted pursuant to section 3553(c) of title 44 , a report on the progress of agencies in adopting post-quantum cryptography standards.
+
+Findings
+
+Sense of Congress
+
+“In this Act [see Short Title of 2022 Amendment note set out under section 1500 of this title ]:
+
+Agency
+
+Classical computer
+
+Director of cisa
+
+Director of nist
+
+Director of omb
+
+Information technology
+
+National security system
+
+Post-quantum cryptography
+
+Quantum computer
+
+## Source Credit
+
+*([Pub. L. 117–260, § 4](https://www.govinfo.gov/link/plaw/117/public/260), Dec. 21, 2022, [136 Stat. 2390](https://www.govinfo.gov/link/statute/136/2390).)*

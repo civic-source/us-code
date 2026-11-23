@@ -3,9 +3,10 @@ title: "Section 731 - Payments to States"
 usc_title: 29
 usc_section: "731"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 731"
-generated_at: "2026-03-30T02:55:18.693Z"
+generated_at: "2026-11-23T21:26:02.204Z"
+status: "active"
 ---
 
 # § 731. Payments to States
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:18.693Z"
 - **(b)** The method of computing and paying amounts pursuant to subsection (a) shall be as follows:
   - **(1)** The Commissioner shall, prior to the beginning of each calendar quarter or other period prescribed by the Commissioner, estimate the amount to be paid to each State under the provisions of such subsection for such period, such estimate to be based on such records of the State and information furnished by it, and such other investigation as the Commissioner may find necessary.
   - **(2)** The Commissioner shall pay, from the allotment available therefor, the amount so estimated by the Commissioner for such period, reduced or increased, as the case may be, by any sum (not previously adjusted under this paragraph) by which the Commissioner finds that the estimate of the amount to be paid the State for any prior period under such subsection was greater or less than the amount which should have been paid to the State for such prior period under such subsection. Such payment shall be made prior to audit or settlement by the Government Accountability Office, shall be made through the disbursing facilities of the Treasury Department, and shall be made in such installments as the Commissioner may determine.
+
+## Source Credit
+
+*([Pub. L. 93–112, title I, § 111](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 105–220, title IV, § 404](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1162](https://www.govinfo.gov/link/statute/112/1162); amended [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(8)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–413; [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 113–128, title IV, § 420](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1656](https://www.govinfo.gov/link/statute/128/1656).)*

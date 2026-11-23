@@ -3,9 +3,10 @@ title: "Section 5235 - Authorization of additional appropriations"
 usc_title: 7
 usc_section: "5235"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 5235"
-generated_at: "2026-03-30T02:53:42.413Z"
+generated_at: "2026-11-23T21:25:28.358Z"
+status: "active"
 ---
 
 # § 5235. Authorization of additional appropriations
@@ -17,3 +18,7 @@ There are authorized to be appropriated for the Service, in addition to any sums
   - **(3)** enhancement of the Service worldwide market information system;
   - **(4)** increasing the number of trade shows and exhibitions conducted by the Service and upgrading the quality of United States representation at trade shows and exhibitions; and
   - **(5)** developing markets for value-added beef, pork, and poultry products.
+
+## Source Credit
+
+*([Pub. L. 100–418, title IV, § 4215](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1395](https://www.govinfo.gov/link/statute/102/1395).)*

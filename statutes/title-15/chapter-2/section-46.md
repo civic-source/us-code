@@ -3,9 +3,10 @@ title: "Section 46 - Additional powers of Commission"
 usc_title: 15
 usc_section: "46"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 46"
-generated_at: "2026-03-30T02:54:08.026Z"
+generated_at: "2026-11-23T21:25:39.483Z"
+status: "active"
 ---
 
 # § 46. Additional powers of Commission
@@ -46,3 +47,9 @@ The Commission shall also have power—
     - **(A)** such incidental expenses as meals taken in the course of such attendance;
     - **(B)** any travel and transportation to or from such meetings; and
     - **(C)** any other related lodging or subsistence.
+
+Dwight D. Eisenhower.
+
+## Source Credit
+
+*(Sept. 26, 1914, ch. 311, § 6, [38 Stat. 721](https://www.govinfo.gov/link/statute/38/721); [Pub. L. 93–153, title IV, § 408(e)](https://www.govinfo.gov/link/plaw/93/public/153), Nov. 16, 1973, [87 Stat. 592](https://www.govinfo.gov/link/statute/87/592); [Pub. L. 93–637, title II](https://www.govinfo.gov/link/plaw/93/public/637), §§ 201(b), 202(b), 203(a), Jan. 4, 1975, [88 Stat. 2193](https://www.govinfo.gov/link/statute/88/2193), 2198; [Pub. L. 96–37, § 1(b)](https://www.govinfo.gov/link/plaw/96/public/37), July 23, 1979, [93 Stat. 95](https://www.govinfo.gov/link/statute/93/95); [Pub. L. 96–252](https://www.govinfo.gov/link/plaw/96/public/252), §§ 3–5(a), May 28, 1980, [94 Stat. 374](https://www.govinfo.gov/link/statute/94/374), 375; [Pub. L. 100–86, title VII, § 715(a)](https://www.govinfo.gov/link/plaw/100/public/86), (b), Aug. 10, 1987, [101 Stat. 655](https://www.govinfo.gov/link/statute/101/655); [Pub. L. 103–437, § 5(a)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4582](https://www.govinfo.gov/link/statute/108/4582); [Pub. L. 103–438, § 3(e)(2)(A)](https://www.govinfo.gov/link/plaw/103/public/438), Nov. 2, 1994, [108 Stat. 4598](https://www.govinfo.gov/link/statute/108/4598); [Pub. L. 109–455](https://www.govinfo.gov/link/plaw/109/public/455), §§ 4(a), (b), (d), 13, Dec. 22, 2006, [120 Stat. 3372](https://www.govinfo.gov/link/statute/120/3372), 3373, 3375, 3382; [Pub. L. 112–203, § 1](https://www.govinfo.gov/link/plaw/112/public/203), Dec. 4, 2012, [126 Stat. 1484](https://www.govinfo.gov/link/statute/126/1484).)*

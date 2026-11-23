@@ -3,9 +3,10 @@ title: "Section 313 - Evaluation Officers"
 usc_title: 5
 usc_section: "313"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 313"
-generated_at: "2026-03-30T02:52:55.978Z"
+generated_at: "2026-11-23T21:25:23.025Z"
+status: "active"
 ---
 
 # § 313. Evaluation Officers
@@ -18,3 +19,15 @@ generated_at: "2026-03-30T02:52:55.978Z"
   - **(2)** assess agency capacity to support the development and use of evaluation;
   - **(3)** establish and implement an agency evaluation policy; and
   - **(4)** coordinate, develop, and implement the plans required under section 312.
+
+Establishment
+
+Qualifications
+
+Coordination
+
+Functions
+
+## Source Credit
+
+*(Added [Pub. L. 115–435, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/115/public/435), Jan. 14, 2019, [132 Stat. 5531](https://www.govinfo.gov/link/statute/132/5531).)*

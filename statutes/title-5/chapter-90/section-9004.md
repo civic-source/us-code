@@ -3,9 +3,10 @@ title: "Section 9004 - Financing"
 usc_title: 5
 usc_section: "9004"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 9004"
-generated_at: "2026-03-30T02:52:56.071Z"
+generated_at: "2026-11-23T21:25:23.459Z"
+status: "active"
 ---
 
 # § 9004. Financing
@@ -28,3 +29,35 @@ generated_at: "2026-03-30T02:52:56.071Z"
   - **(2)**
     - **(A)** There is hereby established in the Employees’ Life Insurance Fund a Long-Term Care Administrative Account, which shall be available to the Office, without fiscal year limitation, to defray reasonable expenses incurred by the Office in administering this chapter after the start of the 7-year period described in section 9003(d)(2)(B).
     - **(B)** Each master contract under this chapter shall include appropriate provisions under which the carrier involved shall, during each year, make such periodic contributions to the Long-Term Care Administrative Account as necessary to ensure that the reasonable anticipated expenses of the Office in administering this chapter during such year (adjusted to reconcile for any earlier overestimates or underestimates under this subparagraph) are defrayed.
+
+In General
+
+Withholdings.—
+
+In general
+
+Voluntary withholdings for qualified relatives
+
+Direct Payments
+
+Other Forms of Payment
+
+Separate Accounting Requirement
+
+Reimbursements.—
+
+Reasonable initial costs.—
+
+In general
+
+Reimbursement requirement
+
+Subsequent costs.—
+
+In general
+
+Reimbursement requirement
+
+## Source Credit
+
+*(Added [Pub. L. 106–265, title I, § 1002(a)](https://www.govinfo.gov/link/plaw/106/public/265), Sept. 19, 2000, [114 Stat. 766](https://www.govinfo.gov/link/statute/114/766).)*

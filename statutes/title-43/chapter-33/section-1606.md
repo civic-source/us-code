@@ -3,9 +3,10 @@ title: "Section 1606 - Regional Corporations"
 usc_title: 43
 usc_section: "1606"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1606"
-generated_at: "2026-03-30T02:55:57.478Z"
+generated_at: "2026-11-23T21:26:19.852Z"
+status: "active"
 ---
 
 # § 1606. Regional Corporations
@@ -177,3 +178,19 @@ generated_at: "2026-03-30T02:55:57.478Z"
 - **(p)** In the event of any conflict between the provisions of this section and the laws of the State of Alaska, the provisions of this section shall prevail.
 - **(q)** Two or more Regional Corporations may contract with the same business management group for investment services and advice regarding the investment of corporate funds.
 - **(r)** The authority of a Native Corporation to provide benefits to its shareholders who are Natives or descendants of Natives or to its shareholders’ immediate family members who are Natives or descendants of Natives to promote the health, education, or welfare of such shareholders or family members is expressly authorized and confirmed. Eligibility for such benefits need not be based on share ownership in the Native Corporation and such benefits may be provided on a basis other than pro rata based on share ownership.
+
+Conditions on certain stock.—
+
+In general
+
+Conditions
+
+(aa) the stock described in that subclause shall be deemed to be canceled on the death of the Native to whom the stock is issued, and no compensation for the cancellation shall be paid to the estate of the deceased Native or any person holding the stock;
+
+(bb) the stock shall carry limited or no voting rights; and
+
+(cc) the stock shall not be transferred by gift under subsection (h)(1)(C)(iii).
+
+## Source Credit
+
+*([Pub. L. 92–203, § 7](https://www.govinfo.gov/link/plaw/92/public/203), Dec. 18, 1971, [85 Stat. 691](https://www.govinfo.gov/link/statute/85/691); [Pub. L. 96–487, title XIV, § 1401(a)](https://www.govinfo.gov/link/plaw/96/public/487), (c), Dec. 2, 1980, [94 Stat. 2491](https://www.govinfo.gov/link/statute/94/2491), 2492; [Pub. L. 100–241](https://www.govinfo.gov/link/plaw/100/public/241), §§ 4, 5, 12(a), Feb. 3, 1988, [101 Stat. 1790](https://www.govinfo.gov/link/statute/101/1790), 1792, 1810; [Pub. L. 102–415](https://www.govinfo.gov/link/plaw/102/public/415), §§ 4, 8, Oct. 14, 1992, [106 Stat. 2113](https://www.govinfo.gov/link/statute/106/2113), 2114; [Pub. L. 104–10, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/10), May 18, 1995, [109 Stat. 155](https://www.govinfo.gov/link/statute/109/155); [Pub. L. 104–42, title I, § 109(a)](https://www.govinfo.gov/link/plaw/104/public/42), Nov. 2, 1995, [109 Stat. 357](https://www.govinfo.gov/link/statute/109/357); [Pub. L. 105–333](https://www.govinfo.gov/link/plaw/105/public/333), §§ 8, 12, Oct. 31, 1998, [112 Stat. 3134](https://www.govinfo.gov/link/statute/112/3134), 3135; [Pub. L. 106–194, § 2](https://www.govinfo.gov/link/plaw/106/public/194), May 2, 2000, [114 Stat. 242](https://www.govinfo.gov/link/statute/114/242); [Pub. L. 110–453, title II, § 206](https://www.govinfo.gov/link/plaw/110/public/453), Dec. 2, 2008, [122 Stat. 5030](https://www.govinfo.gov/link/statute/122/5030).)*

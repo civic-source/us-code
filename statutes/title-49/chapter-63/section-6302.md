@@ -3,9 +3,10 @@ title: "Section 6302 - Bureau of Transportation Statistics"
 usc_title: 49
 usc_section: "6302"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 6302"
-generated_at: "2026-03-30T02:56:19.321Z"
+generated_at: "2026-11-23T21:26:40.668Z"
+status: "active"
 ---
 
 # § 6302. Bureau of Transportation Statistics
@@ -68,3 +69,69 @@ generated_at: "2026-03-30T02:56:19.321Z"
     - **(B)** the disposition and allocation of amounts paid to the Bureau for cost-reimbursable projects.
   - **(3)** The Secretary shall direct external support functions, such as the coordination of activities involving multiple modal administrations.
   - **(4)** The Department Chief Information Officer shall consult with the Director to ensure decisions related to information technology guarantee the protection of the confidentiality of information provided solely for statistical purposes, in accordance with section 3572 of title 44 .
+
+In General
+
+Director.—
+
+Appointment
+
+Qualifications
+
+Duties.—
+
+In general
+
+Duties
+
+Access to Federal Data
+
+Independence of Bureau.—
+
+In general
+
+Budget authority
+
+Exceptions
+
+Information technology
+
+Rulemaking
+
+Air Carrier Code
+
+Family Seating Complaints.—
+
+In general
+
+Sunset
+
+Air Travel Consumer Report.—
+
+ATCSCC delays
+
+Family seating complaints
+
+Sunset
+
+Local Outreach
+
+Work Plan.—
+
+In general
+
+Contents
+
+Goals.—
+
+In general
+
+Specific issues
+
+Implementation
+
+Coordination
+
+## Source Credit
+
+*(Added [Pub. L. 112–141, div. E, title II, § 52011(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 887](https://www.govinfo.gov/link/statute/126/887); amended [Pub. L. 114–94, div. A, title I, § 1446(b)](https://www.govinfo.gov/link/plaw/114/public/94), title VI, §§ 6011(d)(2), 6017, Dec. 4, 2015, [129 Stat. 1438](https://www.govinfo.gov/link/statute/129/1438), 1570, 1575; [Pub. L. 115–435, title III, § 302(c)(3)(A)](https://www.govinfo.gov/link/plaw/115/public/435), Jan. 14, 2019, [132 Stat. 5553](https://www.govinfo.gov/link/statute/132/5553); [Pub. L. 117–58, div. B, title V, § 25004(b)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 839](https://www.govinfo.gov/link/statute/135/839).)*

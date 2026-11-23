@@ -3,9 +3,10 @@ title: "Section 3207 - Multi-benefit projects to improve watershed health"
 usc_title: 43
 usc_section: "3207"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 3207"
-generated_at: "2026-03-30T02:55:57.502Z"
+generated_at: "2026-11-23T21:26:19.906Z"
+status: "active"
 ---
 
 # § 3207. Multi-benefit projects to improve watershed health
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:57.502Z"
 - **(d)** The Federal share of the cost of any habitat restoration project that is awarded a grant under subsection (b)—
   - **(1)** shall not exceed 50 percent of the cost of the habitat restoration project; or
   - **(2)** in the case of a habitat restoration project that provides benefits to ecological or recreational values in which the nonconsumptive water conservation benefit or habitat restoration benefit accounts for at least 75 percent of the cost of the habitat restoration project, as determined by the Secretary, shall not exceed 75 percent of the cost of the habitat restoration project.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title IX, § 40907](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1125](https://www.govinfo.gov/link/statute/135/1125).)*

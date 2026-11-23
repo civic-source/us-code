@@ -3,9 +3,10 @@ title: "Section 624 - Study by Secretary of Labor; reports to President and Cong
 usc_title: 29
 usc_section: "624"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 624"
-generated_at: "2026-03-30T02:55:18.687Z"
+generated_at: "2026-11-23T21:26:02.187Z"
+status: "active"
 ---
 
 # § 624. Study by Secretary of Labor; reports to President and Congress; scope of study; implementation of study; transmittal date of reports
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:18.687Z"
     - **(D)** an examination of the effect of the exemption contained in section 631(c) of this title , relating to certain executive employees, and the exemption contained in section 631(d) of this title , relating to tenured teaching personnel.
   - **(2)** The Secretary may undertake the study required by paragraph (1) of this subsection directly or by contract or other arrangement.
 - **(b)** The report required by subsection (a) of this section shall be transmitted to the President and to the Congress as an interim report not later than January 1, 1981 , and in final form not later than January 1, 1982 .
+
+## Source Credit
+
+*([Pub. L. 90–202, § 5](https://www.govinfo.gov/link/plaw/90/public/202), Dec. 15, 1967, [81 Stat. 604](https://www.govinfo.gov/link/statute/81/604); [Pub. L. 95–256, § 6](https://www.govinfo.gov/link/plaw/95/public/256), Apr. 6, 1978, [92 Stat. 192](https://www.govinfo.gov/link/statute/92/192).)*

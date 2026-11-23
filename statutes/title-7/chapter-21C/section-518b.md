@@ -3,9 +3,10 @@ title: "Section 518b - Contract payments for producers of quota tobacco"
 usc_title: 7
 usc_section: "518b"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 518b"
-generated_at: "2026-03-30T02:53:42.288Z"
+generated_at: "2026-11-23T21:25:27.972Z"
+status: "active"
 ---
 
 # § 518b. Contract payments for producers of quota tobacco
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:42.288Z"
     - **(B)** in the case of a producer of quota tobacco that produced quota tobacco marketed, or considered planted, under a marketing quota in only two of those tobacco marketing years, ⅔ of the rate prescribed under paragraph (1)(A);
     - **(C)** in the case of a producer of quota tobacco that produced quota tobacco marketed, or considered planted, under a marketing quota in only one of those tobacco marketing years, ⅓ of the rate prescribed under paragraph (1)(A).
 - **(e)** If a producer of quota tobacco who is entitled to contract payments under this section dies and is survived by a spouse or one or more dependents, the right to receive the contract payments shall transfer to the surviving spouse or, if there is no surviving spouse, to the estate of the producer.
+
+## Source Credit
+
+*([Pub. L. 108–357, title VI, § 623](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1527](https://www.govinfo.gov/link/statute/118/1527).)*

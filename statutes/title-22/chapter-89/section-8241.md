@@ -3,9 +3,10 @@ title: "Section 8241 - Training in democracy promotion and the protection of hum
 usc_title: 22
 usc_section: "8241"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8241"
-generated_at: "2026-03-30T02:55:05.450Z"
+generated_at: "2026-11-23T21:25:58.736Z"
+status: "active"
 ---
 
 # § 8241. Training in democracy promotion and the protection of human rights
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.450Z"
   - **(4)** The protection of internationally recognized human rights (including the protection of religious freedom) and standards related to such rights, provisions of United States law related to such rights, diplomatic tools to promote respect for such rights, and the protection of individuals who have fled their countries due to violations of such rights.
 - **(b)** The Secretary, acting through the Director of the National Foreign Affairs Training Center of the Foreign Service Institute of the Department, shall consult, as appropriate, with nongovernmental organizations involved in the protection and promotion of such rights and the United States Commission on International Religious Freedom with respect to the training required by this subsection. 1 1 So in original. Probably should be “section”.
 - **(c)** Not later than 180 days after August 3, 2007 , the Secretary shall submit to the appropriate congressional committees a report containing a description of the current and planned training provided to Foreign Service officers in human rights and democracy promotion, including such training provided to chiefs of mission serving or preparing to serve in nondemocratic countries or democratic transition countries.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XXI, § 2141](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 534](https://www.govinfo.gov/link/statute/121/534).)*

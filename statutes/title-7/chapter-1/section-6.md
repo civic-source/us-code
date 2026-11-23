@@ -3,9 +3,10 @@ title: "Section 6 - Regulation of futures trading and foreign transactions"
 usc_title: 7
 usc_section: "6"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6"
-generated_at: "2026-03-30T02:53:42.236Z"
+generated_at: "2026-11-23T21:25:27.840Z"
+status: "active"
 ---
 
 # § 6. Regulation of futures trading and foreign transactions
@@ -78,3 +79,15 @@ generated_at: "2026-03-30T02:53:42.236Z"
       - **(iii)** subject to regulation by the foreign futures authority; and
     - **(B)** has not been determined by the Commission to be operating in violation of subsection (a).
   - **(2)** Nothing in this subsection shall be construed as implying or creating any presumption that a board of trade, exchange, or market is located outside the United States, or its territories or possessions, for purposes of subsection (a).
+
+(aa) the information that the foreign board of trade will make publicly available;
+
+(bb) the position limits that the foreign board of trade or foreign futures authority will adopt and enforce;
+
+(cc) the position reductions required to prevent manipulation, excessive speculation as described in section 6a of this title , price distortion, or disruption of delivery or the cash settlement process; and
+
+(dd) any other area of interest expressed by the Commission to the foreign board of trade or foreign futures authority;
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 4, [42 Stat. 999](https://www.govinfo.gov/link/statute/42/999); June 15, 1936, ch. 545, §§ 2, 4, [49 Stat. 1491](https://www.govinfo.gov/link/statute/49/1491), 1492; [Pub. L. 93–463, title I, § 103(a)](https://www.govinfo.gov/link/plaw/93/public/463), (f), Oct. 23, 1974, [88 Stat. 1392](https://www.govinfo.gov/link/statute/88/1392); [Pub. L. 97–444, title II, § 204](https://www.govinfo.gov/link/plaw/97/public/444), Jan. 11, 1983, [96 Stat. 2299](https://www.govinfo.gov/link/statute/96/2299); [Pub. L. 102–546, title V, § 502(a)](https://www.govinfo.gov/link/plaw/102/public/546), Oct. 28, 1992, [106 Stat. 3629](https://www.govinfo.gov/link/statute/106/3629); [Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(3)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–406; [Pub. L. 111–203, title VII](https://www.govinfo.gov/link/plaw/111/public/203), §§ 721(d), 722(f), 738(a), (b), July 21, 2010, [124 Stat. 1671](https://www.govinfo.gov/link/statute/124/1671), 1674, 1726, 1728.)*

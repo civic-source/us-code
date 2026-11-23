@@ -3,9 +3,10 @@ title: "Section 3157 - Competitive, special, and facilities research grants"
 usc_title: 7
 usc_section: "3157"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3157"
-generated_at: "2026-03-30T02:53:42.395Z"
+generated_at: "2026-11-23T21:25:28.317Z"
+status: "active"
 ---
 
 # § 3157. Competitive, special, and facilities research grants
@@ -183,3 +184,31 @@ generated_at: "2026-03-30T02:53:42.395Z"
 - **(i)** The Secretary of Agriculture may issue such rules and regulations as the Secretary deems necessary to carry out this section.
 - **(j)** Chapter 10 of title 5 and title XVIII of the Food and Agriculture Act of 1977 ( 7 U.S.C. 2281 et seq.) shall not apply to a panel or board created for the purpose of reviewing applications or proposals submitted under this section.
 - **(k)** The Secretary of Agriculture shall ensure that grants made under subsections (b) and (c) are, where appropriate, consistent with the development of systems of sustainable agriculture. For purposes of this section, the term “sustainable agriculture” has the meaning given that term in section 3103 of this title .
+
+Short Title
+
+Limitations
+
+Matching Funds
+
+Set Asides
+
+Review requirements.—
+
+Research activities
+
+Extension and education activities
+
+Reports.—
+
+In general
+
+Public availability.—
+
+In general
+
+Exceptions
+
+## Source Credit
+
+*([Pub. L. 89–106, § 2](https://www.govinfo.gov/link/plaw/89/public/106), Aug. 4, 1965, [79 Stat. 431](https://www.govinfo.gov/link/statute/79/431); [Pub. L. 95–113, title XIV, § 1414](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 991](https://www.govinfo.gov/link/statute/91/991); [Pub. L. 97–98, title XIV, § 1415](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1303](https://www.govinfo.gov/link/statute/95/1303); [Pub. L. 99–198, title XIV, § 1409](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1546](https://www.govinfo.gov/link/statute/99/1546); [Pub. L. 101–624, title XIV, § 1497](https://www.govinfo.gov/link/plaw/101/public/624), title XVI, §§ 1615, 1616, Nov. 28, 1990, [104 Stat. 3630](https://www.govinfo.gov/link/statute/104/3630), 3729, 3732; [Pub. L. 102–237, title IV, § 401](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1862](https://www.govinfo.gov/link/statute/105/1862); [Pub. L. 104–66, title I, § 1011(v)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 711](https://www.govinfo.gov/link/statute/109/711); [Pub. L. 104–127, title VIII, § 885](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1179](https://www.govinfo.gov/link/statute/110/1179); [Pub. L. 105–185, title II](https://www.govinfo.gov/link/plaw/105/public/185), §§ 211, 212, title III, § 301(f), title VI, § 606(h), June 23, 1998, [112 Stat. 536](https://www.govinfo.gov/link/statute/112/536), 563, 604; [Pub. L. 107–76, title VII, § 775](https://www.govinfo.gov/link/plaw/107/public/76), Nov. 28, 2001, [115 Stat. 746](https://www.govinfo.gov/link/statute/115/746); [Pub. L. 107–171, title VI, § 6403(b)](https://www.govinfo.gov/link/plaw/107/public/171), title VII, §§ 7136, 7211, May 13, 2002, [116 Stat. 429](https://www.govinfo.gov/link/statute/116/429), 436, 447; [Pub. L. 110–234, title VII](https://www.govinfo.gov/link/plaw/110/public/234), §§ 7101(b)(2), 7406(a), (b)(2), May 22, 2008, [122 Stat. 1213](https://www.govinfo.gov/link/statute/122/1213), 1247, 1251; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, §§ 7101(b)(2), 7406(a), (b)(2), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1974, 2009, 2013; [Pub. L. 113–79, title VII](https://www.govinfo.gov/link/plaw/113/public/79), §§ 7128(b)(4), 7404, Feb. 7, 2014, [128 Stat. 879](https://www.govinfo.gov/link/statute/128/879), 895; [Pub. L. 115–334, title VII](https://www.govinfo.gov/link/plaw/115/public/334), §§ 7504, 7505, 7614(b)(4)(B), Dec. 20, 2018, [132 Stat. 4821](https://www.govinfo.gov/link/statute/132/4821), 4822, 4836; [Pub. L. 117–286, § 4(a)(36)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4309](https://www.govinfo.gov/link/statute/136/4309).)*

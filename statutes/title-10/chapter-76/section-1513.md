@@ -3,9 +3,10 @@ title: "Section 1513 - Definitions"
 usc_title: 10
 usc_section: "1513"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1513"
-generated_at: "2026-03-30T02:53:38.127Z"
+generated_at: "2026-11-23T21:25:32.496Z"
+status: "active"
 ---
 
 # § 1513. Definitions
@@ -38,3 +39,7 @@ In this chapter:
   - **(7)** The term “classified information” means any information the unauthorized disclosure of which (as determined under applicable law and regulations) could reasonably be expected to damage the national security.
   - **(8)** The term “theater component commander” means, with respect to any of the combatant commands, an officer of any of the armed forces who (A) is commander of all forces of that armed force assigned to that combatant command, and (B) is directly subordinate to the commander of the combatant command.
   - **(9)** The term “survival, evasion, resistance, and escape debriefing” means an interview conducted with a person described in section 1501(c) of this title who is returned to United States control in order to record the person’s experiences while surviving, evading, resisting interrogation or exploitation, or escaping.
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title V, § 569(b)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 350](https://www.govinfo.gov/link/statute/110/350); amended [Pub. L. 104–201, div. A, title V, § 578(a)(4)](https://www.govinfo.gov/link/plaw/104/public/201), (b)(3), Sept. 23, 1996, [110 Stat. 2536](https://www.govinfo.gov/link/statute/110/2536); [Pub. L. 105–85, div. A, title V, § 599(a)(4)](https://www.govinfo.gov/link/plaw/105/public/85), (b)(2), Nov. 18, 1997, [111 Stat. 1768](https://www.govinfo.gov/link/statute/111/1768); [Pub. L. 106–65, div. A, title X, § 1066(a)(15)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 771](https://www.govinfo.gov/link/statute/113/771); [Pub. L. 111–84, div. A, title V, § 541(c)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2298](https://www.govinfo.gov/link/statute/123/2298); [Pub. L. 113–66, div. A, title V, § 582(b)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 776](https://www.govinfo.gov/link/statute/127/776); [Pub. L. 113–291, div. A, title X, § 1071(f)(15)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3510](https://www.govinfo.gov/link/statute/128/3510); [Pub. L. 114–328, div. A, title IX, § 953(c)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2376](https://www.govinfo.gov/link/statute/130/2376).)*

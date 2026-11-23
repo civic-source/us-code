@@ -3,12 +3,17 @@ title: "Section 1204 - Radiotelephone for exclusive use of master, person in cha
 usc_title: 33
 usc_section: "1204"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1204"
-generated_at: "2026-03-30T02:55:41.081Z"
+generated_at: "2026-11-23T21:26:11.359Z"
+status: "active"
 ---
 
 # § 1204. Radiotelephone for exclusive use of master, person in charge, or pilot; frequency listening watch; portable radiotelephone equipment
 
 The radiotelephone required by this chapter is for the exclusive use of the master or person in charge of the vessel, or the person designated by the master or person in charge to pilot or direct the movement of the vessel, who shall maintain a listening watch on the designated frequency. Nothing contained herein shall be interpreted as precluding the use of portable radiotelephone equipment to satisfy the requirements of this chapter.
 
+
+## Source Credit
+
+*([Pub. L. 92–63, § 5](https://www.govinfo.gov/link/plaw/92/public/63), Aug. 4, 1971, [85 Stat. 165](https://www.govinfo.gov/link/statute/85/165).)*

@@ -3,9 +3,10 @@ title: "Section 2564 - Damages"
 usc_title: 7
 usc_section: "2564"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2564"
-generated_at: "2026-03-30T02:53:42.388Z"
+generated_at: "2026-11-23T21:25:28.300Z"
+status: "active"
 ---
 
 # § 2564. Damages
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:42.388Z"
 - **(b)** When the damages are not determined by the jury, the court shall determine them. In either event the court may increase the damages up to three times the amount determined.
 - **(c)** The court may receive expert testimony as an aid to the determination of damages or of what royalty would be reasonable under the circumstances.
 - **(d)** As to infringement prior to, or resulting from a planting prior to, issuance of a certificate for the infringed variety, a court finding the infringer to have established innocent intentions, shall have discretion as to awarding damages.
+
+## Source Credit
+
+*([Pub. L. 91–577, title III, § 124](https://www.govinfo.gov/link/plaw/91/public/577), Dec. 24, 1970, [84 Stat. 1556](https://www.govinfo.gov/link/statute/84/1556).)*

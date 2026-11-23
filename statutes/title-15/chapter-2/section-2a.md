@@ -3,9 +3,10 @@ title: "Section 2a - Confidentiality and delayed notice of compulsory process fo
 usc_title: 15
 usc_section: "2a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2a"
-generated_at: "2026-03-30T02:54:08.028Z"
+generated_at: "2026-11-23T21:25:39.488Z"
+status: "active"
 ---
 
 # § 57b–2a. Confidentiality and delayed notice of compulsory process for certain third parties
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:08.028Z"
     - **(A)** the transfer outside the territorial limits of the United States of assets or records related to fraudulent or deceptive commercial practices or related to persons involved in such practices;
     - **(B)** impeding the ability of the Commission to identify persons involved in fraudulent or deceptive commercial practices, or to trace the source or disposition of funds related to such practices; or
     - **(C)** the dissipation, fraudulent transfer, or concealment of assets subject to recovery by the Commission.
+
+## Source Credit
+
+*(Sept. 26, 1914, ch. 311, § 21A, as added [Pub. L. 109–455, § 7(a)](https://www.govinfo.gov/link/plaw/109/public/455), Dec. 22, 2006, [120 Stat. 3377](https://www.govinfo.gov/link/statute/120/3377).)*

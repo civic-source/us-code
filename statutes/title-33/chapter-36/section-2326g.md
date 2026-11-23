@@ -3,9 +3,10 @@ title: "Section 2326g - Beneficial use of dredged material; dredged material man
 usc_title: 33
 usc_section: "2326g"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2326g"
-generated_at: "2026-03-30T02:55:41.124Z"
+generated_at: "2026-11-23T21:26:11.447Z"
+status: "active"
 ---
 
 # § 2326g. Beneficial use of dredged material; dredged material management plans
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:41.124Z"
         - **(I)** a report detailing the method and all of the factors utilized by the Corps of Engineers to determine the Federal standard referred to in clause (i); and
         - **(II)** for each evaluation under subparagraph (A), a report displaying the calculations for economic and environmental benefits and efficiencies from the beneficial use of dredged material (including, where appropriate, the utilization of alternative dredging equipment and dredging disposal methods) considered by the Secretary under such subparagraph for the placement or disposal of such material.
     - **(C)**
+
+## Source Credit
+
+*([Pub. L. 116–260, div. AA, title I, § 125(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2636](https://www.govinfo.gov/link/statute/134/2636); [Pub. L. 118–272, div. A, title I, § 1130(c)](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3019](https://www.govinfo.gov/link/statute/138/3019).)*

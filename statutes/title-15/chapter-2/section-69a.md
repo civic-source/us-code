@@ -3,9 +3,10 @@ title: "Section 69a - Violations of Federal Trade Commission Act"
 usc_title: 15
 usc_section: "69a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 69a"
-generated_at: "2026-03-30T02:54:08.029Z"
+generated_at: "2026-11-23T21:25:39.492Z"
+status: "active"
 ---
 
 # § 69a. Violations of Federal Trade Commission Act
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.029Z"
 - **(g)** No provision of this subchapter shall apply to a fur product—
   - **(1)** the fur of which was obtained from an animal through trapping or hunting; and
   - **(2)** when sold in a face to face transaction at a place such as a residence, craft fair, or other location used on a temporary or short term basis, by the person who trapped or hunted the animal, where the revenue from the sale of apparel or fur products is not the primary source of income of such person.
+
+## Source Credit
+
+*(Aug. 8, 1951, ch. 298, § 3, [65 Stat. 176](https://www.govinfo.gov/link/statute/65/176); [Pub. L. 111–313, § 3](https://www.govinfo.gov/link/plaw/111/public/313), Dec. 18, 2010, [124 Stat. 3326](https://www.govinfo.gov/link/statute/124/3326).)*

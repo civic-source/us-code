@@ -3,9 +3,10 @@ title: "Section 623 - Continuing study of additional budget reform proposals"
 usc_title: 2
 usc_section: "623"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 623"
-generated_at: "2026-03-30T02:53:04.799Z"
+generated_at: "2026-11-23T21:25:21.168Z"
+status: "active"
 ---
 
 # § 623. Continuing study of additional budget reform proposals
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:04.799Z"
   - **(4)** developing techniques of human resource accounting and other means of providing noneconomic as well as economic evaluation measures.
 - **(b)** The Committee on the Budget of each House shall, from time to time, report to its House the results of the study carried on by it under subsection (a), together with its recommendations.
 - **(c)** Nothing in this section shall preclude studies to improve the budgetary process by any other committee of the House of Representatives or the Senate or any joint committee of the Congress.
+
+## Source Credit
+
+*([Pub. L. 93–344, title VII, § 703](https://www.govinfo.gov/link/plaw/93/public/344), July 12, 1974, [88 Stat. 326](https://www.govinfo.gov/link/statute/88/326).)*

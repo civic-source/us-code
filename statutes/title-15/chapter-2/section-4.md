@@ -3,9 +3,10 @@ title: "Section 4 - Good faith reliance on actions of Board of Governors"
 usc_title: 15
 usc_section: "4"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4"
-generated_at: "2026-03-30T02:54:08.028Z"
+generated_at: "2026-11-23T21:25:39.489Z"
+status: "active"
 ---
 
 # § 57b–4. Good faith reliance on actions of Board of Governors
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:08.028Z"
 - **(d)** If, in any case in which—
   - **(1)** the Board of Governors has rulemaking authority with respect to any Federal law; and
   - **(2)** the Commission is authorized to enforce the requirements of such Federal law;
+
+## Source Credit
+
+*(Sept. 26, 1914, ch. 311, § 23, as added [Pub. L. 96–252, § 16](https://www.govinfo.gov/link/plaw/96/public/252), May 28, 1980, [94 Stat. 390](https://www.govinfo.gov/link/statute/94/390).)*

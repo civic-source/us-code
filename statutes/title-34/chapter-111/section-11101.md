@@ -3,9 +3,10 @@ title: "Section 11101 - Findings"
 usc_title: 34
 usc_section: "11101"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 11101"
-generated_at: "2026-03-30T02:55:33.276Z"
+generated_at: "2026-11-23T21:26:09.692Z"
+status: "active"
 ---
 
 # § 11101. Findings
@@ -27,3 +28,15 @@ generated_at: "2026-03-30T02:55:33.276Z"
     - **(B)** programs that assist in holding juveniles accountable for their actions and in developing the competencies necessary to become responsible and productive members of their communities, including a system of graduated sanctions to respond to each delinquent act, requiring juveniles to make restitution, or perform community service, for the damage caused by their delinquent acts, and methods for increasing victim satisfaction with respect to the penalties imposed on juveniles for their acts.
   - **(11)** Coordinated juvenile justice and delinquency prevention projects that meet the needs of juveniles through the collaboration of the many local service systems juveniles encounter can help prevent juveniles from becoming delinquent and help delinquent youth return to a productive life.
 - **(b)** Congress must act now to reform this program by focusing on juvenile delinquency prevention programs, as well as programs that hold juveniles accountable for their acts and which provide opportunities for competency development. Without true reform, the juvenile justice system will not be able to overcome the challenges it will face in the coming years when the number of juveniles is expected to increase by 18 percent between 2000 and 2030.
+
+Effective Date
+
+Application of Amendments
+
+Effective Date
+
+Application of Amendments
+
+## Source Credit
+
+*([Pub. L. 93–415, title I, § 101](https://www.govinfo.gov/link/plaw/93/public/415), Sept. 7, 1974, [88 Stat. 1109](https://www.govinfo.gov/link/statute/88/1109); [Pub. L. 96–509, § 3](https://www.govinfo.gov/link/plaw/96/public/509), Dec. 8, 1980, [94 Stat. 2750](https://www.govinfo.gov/link/statute/94/2750); [Pub. L. 98–473, title II, § 611](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2107](https://www.govinfo.gov/link/statute/98/2107); [Pub. L. 102–586, § 1(a)](https://www.govinfo.gov/link/plaw/102/public/586), Nov. 4, 1992, [106 Stat. 4982](https://www.govinfo.gov/link/statute/106/4982); [Pub. L. 107–273, div. C, title II, § 12202](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1869](https://www.govinfo.gov/link/statute/116/1869).)*

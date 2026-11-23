@@ -3,9 +3,10 @@ title: "Section 2819 - Strategy and assessment with respect to non-operational, 
 usc_title: 10
 usc_section: "2819"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2819"
-generated_at: "2026-03-30T02:53:38.178Z"
+generated_at: "2026-11-23T21:25:32.681Z"
+status: "active"
 ---
 
 # § 2819. Strategy and assessment with respect to non-operational, underutilized, and other Department of Defense facilities: assessments of historical significance
@@ -39,3 +40,17 @@ generated_at: "2026-03-30T02:53:38.178Z"
     - **(C)** recommendations of each such Secretary with respect to reducing—
       - **(i)** the inventory of facilities in poor or failing condition under the uniform index developed under section 2838 of the National Defense Authorization Act for Fiscal Year 2024 ( Public Law 118–31 ); and
       - **(ii)** the total cost to the United States to maintain the facilities covered by the assessment required by subsection (b) of such section.
+
+Strategy for Demolition
+
+Assessment of Certain Maintenance Costs
+
+Required Consideration
+
+Assessments of Historic Significance
+
+Annual Briefing
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. B, title XXVIII, § 2822(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2254](https://www.govinfo.gov/link/statute/138/2254); amended [Pub. L. 119–60, div. A, title XVII, § 1701(a)(19)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1209](https://www.govinfo.gov/link/statute/139/1209).)*

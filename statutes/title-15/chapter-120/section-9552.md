@@ -3,9 +3,10 @@ title: "Section 9552 - Business Centers"
 usc_title: 15
 usc_section: "9552"
 chapter: 120
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9552"
-generated_at: "2026-03-30T02:54:08.249Z"
+generated_at: "2026-11-23T21:25:40.150Z"
+status: "active"
 ---
 
 # § 9552. Business Centers
@@ -61,3 +62,7 @@ generated_at: "2026-03-30T02:54:08.249Z"
         - **(I)** the Act of July 2, 1862 (commonly known as the “First Morrill Act”) ( 12 Stat. 503 , chapter 130; 7 U.S.C. 301 et seq.); or
         - **(II)** the Act of August 30, 1890 (commonly known as the “Second Morrill Act”) ( 26 Stat. 417 , chapter 841; 7 U.S.C. 321 et seq.).
   - **(3)** In determining whether to enter into an MBDA Rural Business Center agreement with an eligible entity under this section, the Under Secretary shall consider the needs of the eligible entity.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. K, title III, § 100302](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1459](https://www.govinfo.gov/link/statute/135/1459).)*

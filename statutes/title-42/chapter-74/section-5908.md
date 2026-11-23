@@ -3,9 +3,10 @@ title: "Section 5908 - Patents and inventions"
 usc_title: 42
 usc_section: "5908"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5908"
-generated_at: "2026-03-30T02:56:11.240Z"
+generated_at: "2026-11-23T21:26:32.840Z"
+status: "active"
 ---
 
 # § 5908. Patents and inventions
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:56:11.240Z"
   - **(4)** the term “invention” means inventions or discoveries, whether patented or unpatented; and
   - **(5)** the term “contractor” means any person having a contract with or on behalf of the Department.
 - **(n)** Within twelve months after December 31, 1974 , the Secretary with the participation of the Attorney General, the Secretary of Commerce, and other officials as the President may designate, shall submit to the President and the appropriate congressional committees a report concerning the applicability of existing patent policies affecting the programs under this chapter, along with his recommendations for amendments or additions to the statutory patent policy, including his recommendations on mandatory licensing, which he deems advisable for carrying out the purposes of this chapter.
+
+## Source Credit
+
+*([Pub. L. 93–577, § 9](https://www.govinfo.gov/link/plaw/93/public/577), Dec. 31, 1974, [88 Stat. 1887](https://www.govinfo.gov/link/statute/88/1887); [Pub. L. 96–517, § 7(c)](https://www.govinfo.gov/link/plaw/96/public/517), Dec. 12, 1980, [94 Stat. 3027](https://www.govinfo.gov/link/statute/94/3027); [Pub. L. 109–58, title X, § 1009(b)(7)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 935](https://www.govinfo.gov/link/statute/119/935).)*

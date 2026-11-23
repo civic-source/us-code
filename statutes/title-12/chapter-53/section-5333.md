@@ -3,9 +3,10 @@ title: "Section 5333 - Study of the effects of size and complexity of financial 
 usc_title: 12
 usc_section: "5333"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5333"
-generated_at: "2026-03-30T02:53:53.529Z"
+generated_at: "2026-11-23T21:25:37.240Z"
+status: "active"
 ---
 
 # § 5333. Study of the effects of size and complexity of financial institutions on capital market efficiency and economic growth
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:53.529Z"
     - **(H)** other limitations on the activities or structure of large financial institutions that may be useful to limit systemic risk.
   - **(2)** The study required by this section shall include recommendations for the optimal structure of any limits considered in subparagraphs (A) through (E), in order to maximize their effectiveness and minimize their economic impact.
 - **(b)** Not later than the end of the 180-day period beginning on July 21, 2010 , and not later than every 5 years thereafter, the Chairperson shall issue a report to the Congress containing any findings and determinations made in carrying out the study required under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 111–203, title I, § 123](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1412](https://www.govinfo.gov/link/statute/124/1412).)*

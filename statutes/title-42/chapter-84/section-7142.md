@@ -3,9 +3,10 @@ title: "Section 7142 - National Atomic Museum and National Atomic Testing Museum
 usc_title: 42
 usc_section: "7142"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7142"
-generated_at: "2026-03-30T02:56:11.283Z"
+generated_at: "2026-11-23T21:26:33.048Z"
+status: "active"
 ---
 
 # § 7142. National Atomic Museum and National Atomic Testing Museum
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.283Z"
 - **(d)** The museum operated by the Nevada Test Site Historical Foundation and located in Las Vegas, Nevada—
   - **(1)** is recognized as the official atomic testing museum of the United States; and
   - **(2)** shall be known as the “National Atomic Testing Museum”.
+
+## Source Credit
+
+*([Pub. L. 102–190, div. C, title XXXI, § 3137](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1578](https://www.govinfo.gov/link/statute/105/1578); [Pub. L. 103–35, title II, § 203(b)(4)](https://www.govinfo.gov/link/plaw/103/public/35), May 31, 1993, [107 Stat. 102](https://www.govinfo.gov/link/statute/107/102); [Pub. L. 112–81, div. C, title XXXI, § 3114](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1709](https://www.govinfo.gov/link/statute/125/1709).)*

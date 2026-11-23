@@ -3,9 +3,10 @@ title: "Section 971d - Administration"
 usc_title: 16
 usc_section: "971d"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 971d"
-generated_at: "2026-03-30T02:54:22.936Z"
+generated_at: "2026-11-23T21:25:51.798Z"
+status: "active"
 ---
 
 # § 971d. Administration
@@ -49,3 +50,11 @@ generated_at: "2026-03-30T02:54:22.936Z"
 - **(d)**
   - **(1)** It is the sense of the Congress that the Secretary, in consultation with the Secretary of State, should seek support for a recommendation by the Commission to ban large-scale driftnet fishing (as that term is defined in section 3(16) 1 1 See References in Text note below. of the Magnuson-Stevens Fishery Conservation and Management Act [ 16 U.S.C. 1802(16) ]) in the Convention area.
   - **(2)** The Secretary, in consultation with the Secretary of State, shall request the Commission to adopt recommendations necessary for the conservation and management of Atlantic swordfish. In making the request, the Secretary shall seek the establishment of an international minimum harvest size and a reduction in harvest levels to the extent necessary to conserve the stock. Until the Commission adopts all the conservation and management measures requested by the Secretary, the Secretary, within 3 months after each annual meeting of the Commission, shall notify Congress as to the nature and results of his request. These notifications shall identify those nations not acting to conserve and manage Atlantic swordfish, and recommend measures which could be taken to achieve effective international conservation and management of the stock.
+
+Identification and notification.—
+
+Consultation
+
+## Source Credit
+
+*([Pub. L. 94–70, § 6](https://www.govinfo.gov/link/plaw/94/public/70), Aug. 5, 1975, [89 Stat. 387](https://www.govinfo.gov/link/statute/89/387); 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3784](https://www.govinfo.gov/link/statute/92/3784); [Pub. L. 101–627, title II](https://www.govinfo.gov/link/plaw/101/public/627), §§ 206, 207, Nov. 28, 1990, [104 Stat. 4461](https://www.govinfo.gov/link/statute/104/4461); [Pub. L. 104–43, title III](https://www.govinfo.gov/link/plaw/104/public/43), §§ 303(3), 305, Nov. 3, 1995, [109 Stat. 384](https://www.govinfo.gov/link/statute/109/384), 385; [Pub. L. 105–384, title II, § 202(b)(1)(C)](https://www.govinfo.gov/link/plaw/105/public/384), (F), Nov. 13, 1998, [112 Stat. 3452](https://www.govinfo.gov/link/statute/112/3452), 3453; [Pub. L. 114–81, title I, § 107(1)](https://www.govinfo.gov/link/plaw/114/public/81), Nov. 5, 2015, [129 Stat. 658](https://www.govinfo.gov/link/statute/129/658).)*

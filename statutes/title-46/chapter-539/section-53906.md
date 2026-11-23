@@ -3,9 +3,10 @@ title: "Section 53906 - Hull insurance valuation"
 usc_title: 46
 usc_section: "53906"
 chapter: 539
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 53906"
-generated_at: "2026-03-30T02:56:15.578Z"
+generated_at: "2026-11-23T21:26:37.294Z"
+status: "active"
 ---
 
 # § 53906. Hull insurance valuation
@@ -18,3 +19,40 @@ generated_at: "2026-03-30T02:56:15.578Z"
   - **(1)** shall be paid, as a tentative advance only, 75 percent of the stated valuation; and
   - **(2)** may bring a civil action against the United States in a court having jurisdiction of the claim to recover a valuation equal to the just compensation the court determines would have been payable if the ownership of the vessel had been requisitioned under chapter 563 of this title at the time the insurance attached under the policy.
 - **(d)** If a court makes a determination as provided under subsection (c)(2), premiums paid under the policy shall be adjusted based on the court’s determination and the rates provided for in the policy.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 53906 | 46 App.:1289(a)(2). | June 29, 1936, ch. 858 , title XII, § 1209(a)(2), as added Sept. 7, 1950, ch. 906 , 64 Stat. 775 ; Aug. 3, 1956, ch. 929, § 1 , 70 Stat. 984 ; Pub. L. 88–478, § 1 , Aug. 22, 1964 , 78 Stat. 587 . |
+
+
+Stated Valuation
+
+Rejecting Stated Valuation
+
+Amount of Claim
+
+Adjusting Premiums
+
+Historical and Revision Notes
+
+53906
+
+June 29, 1936, ch. 858
+
+Sept. 7, 1950, ch. 906
+
+64 Stat. 775
+
+Aug. 3, 1956, ch. 929, § 1
+
+70 Stat. 984
+
+Pub. L. 88–478, § 1
+
+Aug. 22, 1964
+
+78 Stat. 587
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1629](https://www.govinfo.gov/link/statute/120/1629).)*

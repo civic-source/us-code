@@ -3,9 +3,10 @@ title: "Section 2311 - Response to threats of terrorist use of weapons of mass d
 usc_title: 50
 usc_section: "2311"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2311"
-generated_at: "2026-03-30T02:56:26.220Z"
+generated_at: "2026-11-23T21:26:38.963Z"
+status: "active"
 ---
 
 # § 2311. Response to threats of terrorist use of weapons of mass destruction
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:26.220Z"
   - **(1)** an assessment of the capabilities of the Federal Government to prevent and respond to terrorist incidents involving weapons of mass destruction and to support State and local prevention and response efforts;
   - **(2)** requirements for improvements in those capabilities; and
   - **(3)** the measures that should be taken to achieve such improvements, including additional resources and legislative authorities that would be required.
+
+## Source Credit
+
+*([Pub. L. 104–201, div. A, title XIV, § 1411](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2717](https://www.govinfo.gov/link/statute/110/2717).)*

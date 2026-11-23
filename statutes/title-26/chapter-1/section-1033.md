@@ -3,9 +3,10 @@ title: "Section 1033 - Involuntary conversions"
 usc_title: 26
 usc_section: "1033"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1033"
-generated_at: "2026-03-30T02:55:27.756Z"
+generated_at: "2026-11-23T21:26:06.457Z"
+status: "active"
 ---
 
 # § 1033. Involuntary conversions
@@ -81,3 +82,11 @@ generated_at: "2026-03-30T02:55:27.756Z"
   - **(1)** For determination of the period for which the taxpayer has held property involuntarily converted, see section 1223.
   - **(2)** For treatment of gains from involuntary conversions as capital gains in certain cases, see section 1231(a).
   - **(3)** For exclusion from gross income of gain from involuntary conversion of principal residence, see section 121.
+
+In general
+
+Related person
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 303; June 29, 1956, ch. 464, § 5(a), [70 Stat. 407](https://www.govinfo.gov/link/statute/70/407); [Pub. L. 85–866, title I](https://www.govinfo.gov/link/plaw/85/public/866), §§ 45, 46(a), Sept. 2, 1958, [72 Stat. 1641](https://www.govinfo.gov/link/statute/72/1641); [Pub. L. 88–272, title II, § 206(b)(3)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 40](https://www.govinfo.gov/link/statute/78/40); [Pub. L. 91–172, title IX, § 915(a)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 723](https://www.govinfo.gov/link/statute/83/723); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(a)(128), 1906(b)(13)(A), title XXI, §§ 2127(a), 2140(a), Oct. 4, 1976, [90 Stat. 1785](https://www.govinfo.gov/link/statute/90/1785), 1834, 1920, 1932; [Pub. L. 95–600, title IV, § 404(c)(4)](https://www.govinfo.gov/link/plaw/95/public/600), title V, § 542(a), title VII, § 703(j)(5), Nov. 6, 1978, [92 Stat. 2870](https://www.govinfo.gov/link/statute/92/2870), 2888, 2941; [Pub. L. 97–34, title II, § 202(d)(2)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 221](https://www.govinfo.gov/link/statute/95/221); [Pub. L. 98–369, div. A, title IV, § 474(r)(24)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 844](https://www.govinfo.gov/link/statute/98/844); [Pub. L. 101–508, title XI, § 11813(b)(20)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–555](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–66, title XIII, § 13431(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 567](https://www.govinfo.gov/link/statute/107/567); [Pub. L. 104–7, § 3(a)(1)](https://www.govinfo.gov/link/plaw/104/public/7), (b)(1), Apr. 11, 1995, [109 Stat. 94](https://www.govinfo.gov/link/statute/109/94), 95; [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1119(a), (b), 1610(a), Aug. 20, 1996, [110 Stat. 1765](https://www.govinfo.gov/link/statute/110/1765), 1844; [Pub. L. 105–34, title III, § 312(d)(1)](https://www.govinfo.gov/link/plaw/105/public/34), (7), title IX, § 913(b), title X, § 1087(a), Aug. 5, 1997, [111 Stat. 839](https://www.govinfo.gov/link/statute/111/839), 840, 878, 959; [Pub. L. 108–311, title IV, § 408(a)(7)(C)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1191](https://www.govinfo.gov/link/statute/118/1191); [Pub. L. 108–357, title III, § 311(a)](https://www.govinfo.gov/link/plaw/108/public/357), (b), Oct. 22, 2004, [118 Stat. 1466](https://www.govinfo.gov/link/statute/118/1466), 1467; [Pub. L. 109–7, § 1(b)](https://www.govinfo.gov/link/plaw/109/public/7), Apr. 15, 2005, [119 Stat. 22](https://www.govinfo.gov/link/statute/119/22); [Pub. L. 110–343, div. C, title VII, § 706(a)(2)(D)(i)](https://www.govinfo.gov/link/plaw/110/public/343) –(iii), Oct. 3, 2008, [122 Stat. 3922](https://www.govinfo.gov/link/statute/122/3922); [Pub. L. 113–295, div. A, title II](https://www.govinfo.gov/link/plaw/113/public/295), §§ 211(c)(1)(A), 221(a)(27)(D), (77), Dec. 19, 2014, [128 Stat. 4033](https://www.govinfo.gov/link/statute/128/4033), 4041, 4049; [Pub. L. 115–141, div. U, title IV, § 401(a)(167)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1192](https://www.govinfo.gov/link/statute/132/1192).)*

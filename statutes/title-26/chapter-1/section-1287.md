@@ -3,9 +3,10 @@ title: "Section 1287 - Denial of capital gain treatment for gains on certain obl
 usc_title: 26
 usc_section: "1287"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1287"
-generated_at: "2026-03-30T02:55:27.766Z"
+generated_at: "2026-11-23T21:26:06.487Z"
+status: "active"
 ---
 
 # § 1287. Denial of capital gain treatment for gains on certain obligations not in registered form
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:27.766Z"
 - **(b)** For purposes of subsection (a)—
   - **(1)** The term “registration-required obligation” has the meaning given to such term by section 163(f)(2).
   - **(2)** The term “registered form” has the same meaning as when used in section 163(f).
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title I, § 41(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 552](https://www.govinfo.gov/link/statute/98/552); amended [Pub. L. 111–147, title V, § 502(a)(2)(D)](https://www.govinfo.gov/link/plaw/111/public/147), Mar. 18, 2010, [124 Stat. 107](https://www.govinfo.gov/link/statute/124/107).)*

@@ -3,9 +3,10 @@ title: "Section 1531 - Congressional findings and declaration of purposes and po
 usc_title: 16
 usc_section: "1531"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1531"
-generated_at: "2026-03-30T02:54:22.974Z"
+generated_at: "2026-11-23T21:25:51.892Z"
+status: "active"
 ---
 
 # § 1531. Congressional findings and declaration of purposes and policy
@@ -27,3 +28,31 @@ generated_at: "2026-03-30T02:54:22.974Z"
 - **(c)**
   - **(1)** It is further declared to be the policy of Congress that all Federal departments and agencies shall seek to conserve endangered species and threatened species and shall utilize their authorities in furtherance of the purposes of this chapter.
   - **(2)** It is further declared to be the policy of Congress that Federal agencies shall cooperate with State and local agencies to resolve water resource issues in concert with conservation of endangered species.
+
+In General
+
+Expansion of Model
+
+Extension of Period of Regulatory Predictability.—
+
+Definition of period of regulatory predictability
+
+Extension
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 93–205, § 2](https://www.govinfo.gov/link/plaw/93/public/205), Dec. 28, 1973, [87 Stat. 884](https://www.govinfo.gov/link/statute/87/884); [Pub. L. 96–159, § 1](https://www.govinfo.gov/link/plaw/96/public/159), Dec. 28, 1979, [93 Stat. 1225](https://www.govinfo.gov/link/statute/93/1225); [Pub. L. 97–304, § 9(a)](https://www.govinfo.gov/link/plaw/97/public/304), Oct. 13, 1982, [96 Stat. 1426](https://www.govinfo.gov/link/statute/96/1426); [Pub. L. 100–478, title I, § 1013(a)](https://www.govinfo.gov/link/plaw/100/public/478), Oct. 7, 1988, [102 Stat. 2315](https://www.govinfo.gov/link/statute/102/2315).)*

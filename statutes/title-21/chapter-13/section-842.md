@@ -3,9 +3,10 @@ title: "Section 842 - Prohibited acts B"
 usc_title: 21
 usc_section: "842"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 842"
-generated_at: "2026-03-30T02:54:54.295Z"
+generated_at: "2026-11-23T21:25:56.242Z"
+status: "active"
 ---
 
 # § 842. Prohibited acts B
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:54:54.295Z"
   - **(4)**
     - **(A)** If a regulated seller, or a distributor required to submit reports under section 830(b)(3) of this title , violates paragraph (12) of subsection (a) of this section, or if a regulated seller violates paragraph (13) of such subsection, the Attorney General may by order prohibit such seller or distributor (as the case may be) from selling any scheduled listed chemical product. Any sale of such a product in violation of such an order is subject to the same penalties as apply under paragraph (2).
     - **(B)** An order under subparagraph (A) may be imposed only through the same procedures as apply under section 824(c) of this title for an order to show cause.
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 402](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1262](https://www.govinfo.gov/link/statute/84/1262); [Pub. L. 95–633, title II, § 202(b)(1)](https://www.govinfo.gov/link/plaw/95/public/633), (2), Nov. 10, 1978, [92 Stat. 3776](https://www.govinfo.gov/link/statute/92/3776); [Pub. L. 100–690, title VI, § 6056](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4318](https://www.govinfo.gov/link/statute/102/4318); [Pub. L. 104–237, title II, § 205](https://www.govinfo.gov/link/plaw/104/public/237), Oct. 3, 1996, [110 Stat. 3103](https://www.govinfo.gov/link/statute/110/3103); [Pub. L. 105–277, div. A, § 101(b) [title I, § 117]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–50](https://www.govinfo.gov/link/statute/112/2681), 2681–68; [Pub. L. 107–273, div. B, title IV, § 4002(b)(16)](https://www.govinfo.gov/link/plaw/107/public/273), (d)(2)(B), Nov. 2, 2002, [116 Stat. 1808](https://www.govinfo.gov/link/statute/116/1808), 1809; [Pub. L. 109–177, title VII](https://www.govinfo.gov/link/plaw/109/public/177), §§ 711(f)(1)(A), (2), 714, Mar. 9, 2006, [120 Stat. 262–264](https://www.govinfo.gov/link/statute/120/262); [Pub. L. 111–268](https://www.govinfo.gov/link/plaw/111/public/268), §§ 4, 5, Oct. 12, 2010, [124 Stat. 2847](https://www.govinfo.gov/link/statute/124/2847), 2848; [Pub. L. 113–260, § 3(c)](https://www.govinfo.gov/link/plaw/113/public/260), Dec. 18, 2014, [128 Stat. 2931](https://www.govinfo.gov/link/statute/128/2931); [Pub. L. 115–271, title III, § 3273(c)](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 3953](https://www.govinfo.gov/link/statute/132/3953).)*

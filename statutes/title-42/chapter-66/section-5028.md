@@ -3,9 +3,10 @@ title: "Section 5028 - Authority of Director"
 usc_title: 42
 usc_section: "5028"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5028"
-generated_at: "2026-03-30T02:56:11.214Z"
+generated_at: "2026-11-23T21:26:32.712Z"
+status: "active"
 ---
 
 # § 5028. Authority of Director
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.214Z"
   - **(1)** linking youth groups and older American organizations in volunteer activities;
   - **(2)** involving older volunteers in programs and activities different from programs and activities supported in the community; and
   - **(3)** testing whether older American volunteer programs may contribute to new objectives or certain national priorities.
+
+## Source Credit
+
+*([Pub. L. 93–113, title II, § 231](https://www.govinfo.gov/link/plaw/93/public/113), as added [Pub. L. 103–82, title III, § 351](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 906](https://www.govinfo.gov/link/statute/107/906).)*

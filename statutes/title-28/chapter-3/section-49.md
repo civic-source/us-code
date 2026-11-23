@@ -3,9 +3,10 @@ title: "Section 49 - Assignment of judges to division to appoint independent cou
 usc_title: 28
 usc_section: "49"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 49"
-generated_at: "2026-03-30T02:55:30.122Z"
+generated_at: "2026-11-23T21:26:01.006Z"
+status: "active"
 ---
 
 # § 49. Assignment of judges to division to appoint independent counsels
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:30.122Z"
 - **(d)** The Chief Justice of the United States shall designate and assign three circuit court judges or justices, one of whom shall be a judge of the United States Court of Appeals for the District of Columbia, to such division of the court. Not more than one judge or justice or senior or retired judge or justice may be named to such division from a particular court.
 - **(e)** Any vacancy in such division of the court shall be filled only for the remainder of the two-year period in which such vacancy occurs and in the same manner as initial assignments to such division were made.
 - **(f)** Except as otherwise provided in chapter 40 of this title, no member of such division of the court who participated in a function conferred on the division under chapter 40 of this title involving an independent counsel shall be eligible to participate in any judicial proceeding concerning a matter which involves such independent counsel while such independent counsel is serving in that office or which involves the exercise of such independent counsel’s official duties, regardless of whether such independent counsel is still serving in that office.
+
+## Source Credit
+
+*(Added [Pub. L. 95–521, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/95/public/521), Oct. 26, 1978, [92 Stat. 1873](https://www.govinfo.gov/link/statute/92/1873); amended [Pub. L. 97–409, § 2(b)(1)](https://www.govinfo.gov/link/plaw/97/public/409), Jan. 3, 1983, [96 Stat. 2039](https://www.govinfo.gov/link/statute/96/2039); [Pub. L. 99–554, title I, § 144(g)(3)](https://www.govinfo.gov/link/plaw/99/public/554), Oct. 27, 1986, [100 Stat. 3097](https://www.govinfo.gov/link/statute/100/3097); [Pub. L. 100–191](https://www.govinfo.gov/link/plaw/100/public/191), §§ 4, 5(a), Dec. 15, 1987, [101 Stat. 1307](https://www.govinfo.gov/link/statute/101/1307).)*

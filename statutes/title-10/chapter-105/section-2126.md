@@ -3,9 +3,10 @@ title: "Section 2126 - Members of the program: service credit"
 usc_title: 10
 usc_section: "2126"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2126"
-generated_at: "2026-03-30T02:53:38.143Z"
+generated_at: "2026-11-23T21:25:32.558Z"
+status: "active"
 ---
 
 # § 2126. Members of the program: service credit
@@ -23,3 +24,11 @@ generated_at: "2026-03-30T02:53:38.143Z"
   - **(4)** Service may not be counted under paragraph (1) for more than four years of participation in a course of study as a member of the program.
   - **(5)** A member of the Selected Reserve may be considered to be in an active status while pursuing a course of study under this subchapter only for purposes of sections 12732(a) and 12733(3) of this title.
   - **(6)** A member is not entitled to any retroactive award of, or increase in, pay or allowances under title 37 by reason of an award of service credit under paragraph (1).
+
+Service Not Creditable
+
+Service Creditable for Certain Purposes
+
+## Source Credit
+
+*(Added [Pub. L. 92–426, § 2(a)](https://www.govinfo.gov/link/plaw/92/public/426), Sept. 21, 1972, [86 Stat. 718](https://www.govinfo.gov/link/statute/86/718); amended [Pub. L. 96–513, title V, § 501(22)](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2908](https://www.govinfo.gov/link/statute/94/2908); [Pub. L. 104–201, div. A, title V, § 543(a)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2521](https://www.govinfo.gov/link/statute/110/2521); [Pub. L. 106–65, div. A, title V, § 544](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 608](https://www.govinfo.gov/link/statute/113/608).)*

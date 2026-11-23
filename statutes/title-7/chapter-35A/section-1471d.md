@@ -3,9 +3,10 @@ title: "Section 1471d - Assistance programs"
 usc_title: 7
 usc_section: "1471d"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1471d"
-generated_at: "2026-03-30T02:53:42.317Z"
+generated_at: "2026-11-23T21:25:28.089Z"
+status: "active"
 ---
 
 # § 1471d. Assistance programs
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:42.317Z"
 - **(d)** No payment or benefit provided under this section shall be payable or due until such time as a completed application therefor has been approved.
 - **(e)** A person eligible to receive a payment or benefit under this section with respect to a livestock emergency determined to exist prior to January 1, 1989 , shall make application for such payment or benefit not later than March 31, 1989 , or such later date that the Secretary, by regulation, may prescribe.
 - **(f)** The Secretary may make available at least $25,000,000 to provide livestock transportation assistance under subsection (a)(6) for livestock emergencies in 1989.
+
+## Source Credit
+
+*(Oct. 31, 1949, ch. 792, title VI, § 606, as added [Pub. L. 100–387, title I, § 101(a)](https://www.govinfo.gov/link/plaw/100/public/387), Aug. 11, 1988, [102 Stat. 928](https://www.govinfo.gov/link/statute/102/928); amended [Pub. L. 101–82, title II](https://www.govinfo.gov/link/plaw/101/public/82), §§ 201, 202, Aug. 14, 1989, [103 Stat. 581](https://www.govinfo.gov/link/statute/103/581).)*

@@ -3,9 +3,10 @@ title: "Section 860 - Distribution or manufacturing in or near schools and colle
 usc_title: 21
 usc_section: "860"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 860"
-generated_at: "2026-03-30T02:54:54.296Z"
+generated_at: "2026-11-23T21:25:56.249Z"
+status: "active"
 ---
 
 # § 860. Distribution or manufacturing in or near schools and colleges
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:54.296Z"
   - **(2)** The term “youth center” means any recreational facility and/or gymnasium (including any parking lot appurtenant thereto), intended primarily for use by persons under 18 years of age, which regularly provides athletic, civic, or cultural activities.
   - **(3)** The term “video arcade facility” means any facility, legally accessible to persons under 18 years of age, intended primarily for the use of pinball and video machines for amusement containing a minimum of ten pinball and/or video machines.
   - **(4)** The term “swimming pool” includes any parking lot appurtenant thereto.
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 419](https://www.govinfo.gov/link/plaw/91/public/513), formerly § 405A, as added [Pub. L. 98–473, title II, § 503(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2069](https://www.govinfo.gov/link/statute/98/2069); amended [Pub. L. 99–570, title I](https://www.govinfo.gov/link/plaw/99/public/570), §§ 1004(a), 1104, 1105(c), 1841(b), 1866(b), (c), Oct. 27, 1986, [100 Stat. 3207–6](https://www.govinfo.gov/link/statute/100/3207), 3207–11, 3207–52, 3207–55; [Pub. L. 99–646, § 28](https://www.govinfo.gov/link/plaw/99/public/646), Nov. 10, 1986, [100 Stat. 3598](https://www.govinfo.gov/link/statute/100/3598); [Pub. L. 100–690, title VI](https://www.govinfo.gov/link/plaw/100/public/690), §§ 6452(b)(1), 6457, 6458, Nov. 18, 1988, [102 Stat. 4371](https://www.govinfo.gov/link/statute/102/4371), 4373; renumbered § 419 and amended [Pub. L. 101–647, title X](https://www.govinfo.gov/link/plaw/101/public/647), §§ 1002(b), 1003(b), title XII, § 1214, title XV, § 1502, title XXXV, § 3599L, Nov. 29, 1990, [104 Stat. 4827](https://www.govinfo.gov/link/statute/104/4827), 4829, 4833, 4836, 4932; [Pub. L. 103–322, title XIV, § 140006](https://www.govinfo.gov/link/plaw/103/public/322), title XXXII, § 320107, title XXXIII, § 330009(a), Sept. 13, 1994, [108 Stat. 2032](https://www.govinfo.gov/link/statute/108/2032), 2111, 2143.)*

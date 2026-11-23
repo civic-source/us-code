@@ -3,9 +3,10 @@ title: "Section 6731 - Definitions"
 usc_title: 40
 usc_section: "6731"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 6731"
-generated_at: "2026-03-30T02:55:43.382Z"
+generated_at: "2026-11-23T21:26:14.892Z"
+status: "active"
 ---
 
 # § 6731. Definitions
@@ -16,3 +17,26 @@ In this subchapter—
   - **(2)** The term “Federal Triangle property” means—
     - **(A)** the property owned by the Federal Government in the District of Columbia, known as the “Great Plaza” site, which consists of squares 256, 257, 258, parts of squares 259 and 260, and adjacent closed rights-of-way as shown on plate IV of the King Plats of 1803 located in the Office of the Surveyor of the District of Columbia; and
     - **(B)** except for purposes of section 6733(a) of this title , any property the Pennsylvania Avenue Development Corporation acquired under section 3(b) of the Federal Triangle Development Act ( Public Law 100–113 , 101 Stat. 736 ).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 6731 | 40:1109. | Pub. L. 100–113, § 10 , Aug. 21, 1987 , 101 Stat. 747 . |
+
+
+Federal triangle development area
+
+Federal triangle property
+
+Historical and Revision Notes
+
+6731
+
+Pub. L. 100–113, § 10
+
+Aug. 21, 1987
+
+101 Stat. 747
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1198](https://www.govinfo.gov/link/statute/116/1198).)*

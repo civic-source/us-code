@@ -3,9 +3,10 @@ title: "Section 263a - Certification of laboratories"
 usc_title: 42
 usc_section: "263a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 263a"
-generated_at: "2026-03-30T02:56:10.720Z"
+generated_at: "2026-11-23T21:26:30.383Z"
+status: "active"
 ---
 
 # § 263a. Certification of laboratories
@@ -154,3 +155,11 @@ generated_at: "2026-03-30T02:56:10.720Z"
   - **(1)** Except as provided in paragraph (2), nothing in this section shall be construed as affecting the power of any State to enact and enforce laws relating to the matters covered by this section to the extent that such laws are not inconsistent with this section or with the regulations issued under this section.
   - **(2)** If a State enacts laws relating to matters covered by this section which provide for requirements equal to or more stringent than the requirements of this section or than the regulations issued under this section, the Secretary may exempt clinical laboratories in that State from compliance with this section.
 - **(q)** In carrying out this section, the Secretary shall consult with appropriate private organizations and public agencies.
+
+Draft Revised Guidance
+
+Final Revised Guidance
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 353, as added [Pub. L. 90–174, § 5(a)](https://www.govinfo.gov/link/plaw/90/public/174), Dec. 5, 1967, [81 Stat. 536](https://www.govinfo.gov/link/statute/81/536); amended [Pub. L. 100–578, § 2](https://www.govinfo.gov/link/plaw/100/public/578), Oct. 31, 1988, [102 Stat. 2903](https://www.govinfo.gov/link/statute/102/2903); [Pub. L. 105–115, title I, § 123(h)](https://www.govinfo.gov/link/plaw/105/public/115), Nov. 21, 1997, [111 Stat. 2324](https://www.govinfo.gov/link/statute/111/2324); [Pub. L. 112–202, § 2](https://www.govinfo.gov/link/plaw/112/public/202), Dec. 4, 2012, [126 Stat. 1483](https://www.govinfo.gov/link/statute/126/1483).)*

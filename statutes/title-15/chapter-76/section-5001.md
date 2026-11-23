@@ -3,9 +3,10 @@ title: "Section 5001 - Penalties for entering into commerce of imitation firearm
 usc_title: 15
 usc_section: "5001"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 5001"
-generated_at: "2026-03-30T02:54:08.205Z"
+generated_at: "2026-11-23T21:25:40.008Z"
+status: "active"
 ---
 
 # § 5001. Penalties for entering into commerce of imitation firearms
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:08.205Z"
 - **(g)** The provisions of this section shall supersede any provision of State or local laws or ordinances which provide for markings or identification inconsistent with provisions of this section provided that no State shall—
   - **(1)** prohibit the sale or manufacture of any look-alike, nonfiring, collector replica of an antique firearm developed prior to 1898, or
   - **(2)** prohibit the sale (other than prohibiting the sale to minors) of traditional B–B, paint ball, or pellet-firing air guns that expel a projectile through the force of air pressure.
+
+## Source Credit
+
+*([Pub. L. 100–615, § 4](https://www.govinfo.gov/link/plaw/100/public/615), Nov. 5, 1988, [102 Stat. 3190](https://www.govinfo.gov/link/statute/102/3190); [Pub. L. 117–167, div. B, title II, § 10246(e)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1492](https://www.govinfo.gov/link/statute/136/1492).)*

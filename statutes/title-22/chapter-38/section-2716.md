@@ -3,9 +3,10 @@ title: "Section 2716 - Debt collection"
 usc_title: 22
 usc_section: "2716"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2716"
-generated_at: "2026-03-30T02:55:05.380Z"
+generated_at: "2026-11-23T21:25:58.536Z"
+status: "active"
 ---
 
 # § 2716. Debt collection
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.380Z"
   - **(1)** Subject to the availability of appropriations, the Secretary of State shall enter into contracts for collection services to recover indebtedness owed by a person, other than a foreign country, to the United States which arises out of activities of the Department of State and is delinquent by more than 90 days.
   - **(2)** Each contract entered into under this section shall provide that the person with whom the Secretary enters into such contract shall submit to the Secretary at least once every 180 days a status report on the success of the person in collecting debts. Section 3718 of title 31 shall apply to any such contract to the extent that such section is not inconsistent with this subsection.
 - **(b)** The Secretary of State shall, to the extent otherwise allowed by law, disclose to those credit reporting agencies to which the Secretary reports loan activity information concerning any debt of more than $100 owed by a person, other than a foreign country, to the United States which arises out of activities of the Department of State and is delinquent by more than 31 days.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title I, § 44, as added [Pub. L. 101–246, title I, § 117(2)](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 25](https://www.govinfo.gov/link/statute/104/25).)*

@@ -3,9 +3,10 @@ title: "Section 3931 - National wetlands inventory project"
 usc_title: 16
 usc_section: "3931"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3931"
-generated_at: "2026-03-30T02:54:23.038Z"
+generated_at: "2026-11-23T21:25:52.006Z"
+status: "active"
 ---
 
 # § 3931. National wetlands inventory project
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:23.038Z"
   - **(6)** produce, by September 30, 2004 , a digital wetlands data base for the United States based on the final wetlands maps produced under this section; and
   - **(7)** archive and make available for dissemination wetlands data and maps digitized under this section as such data and maps become available.
 - **(b)** The Secretary shall notify the appropriate State and local units of government at such time as he proposes to begin map preparation under subsection (a) in an area. Such notice shall include, but is not limited to, the identification of the area to be mapped, the proposed schedule for completion, and the identification of a source for further information.
+
+## Source Credit
+
+*([Pub. L. 99–645, title IV, § 401](https://www.govinfo.gov/link/plaw/99/public/645), Nov. 10, 1986, [100 Stat. 3588](https://www.govinfo.gov/link/statute/100/3588); [Pub. L. 101–233, § 18](https://www.govinfo.gov/link/plaw/101/public/233), Dec. 13, 1989, [103 Stat. 1978](https://www.govinfo.gov/link/statute/103/1978); [Pub. L. 102–440, title III, § 305](https://www.govinfo.gov/link/plaw/102/public/440), Oct. 23, 1992, [106 Stat. 2235](https://www.govinfo.gov/link/statute/106/2235).)*

@@ -3,9 +3,10 @@ title: "Section 2314 - Furnishing of defense articles or related training or oth
 usc_title: 22
 usc_section: "2314"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2314"
-generated_at: "2026-03-30T02:55:05.356Z"
+generated_at: "2026-11-23T21:25:58.463Z"
+status: "active"
 ---
 
 # § 2314. Furnishing of defense articles or related training or other defense service on grant basis
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:55:05.356Z"
       - **(i)** In the event a statement with respect to an assistance or training transaction is transmitted under subparagraph (A) of this paragraph, the Congress may at any time thereafter adopt a joint resolution terminating or restricting such assistance or training transaction.
       - **(ii)** Any such resolution shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
       - **(iii)** The term “certification”, as used in section 601 of such Act, means, for the purposes of this paragraph, a statement transmitted under subparagraph (A) of this paragraph.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. II, § 505, formerly § 506, Sept. 4, 1961, [75 Stat. 436](https://www.govinfo.gov/link/statute/75/436); [Pub. L. 87–565](https://www.govinfo.gov/link/plaw/87/public/565), pt. II, § 201(a), Aug. 1, 1962, [76 Stat. 259](https://www.govinfo.gov/link/statute/76/259); [Pub. L. 89–583](https://www.govinfo.gov/link/plaw/89/public/583), pt. II, § 201(b), Sept. 19, 1966, [80 Stat. 803](https://www.govinfo.gov/link/statute/80/803); renumbered § 505, [Pub. L. 90–137](https://www.govinfo.gov/link/plaw/90/public/137), pt. II, § 201(e), Nov. 14, 1967, [81 Stat. 456](https://www.govinfo.gov/link/statute/81/456) and amended [Pub. L. 92–226](https://www.govinfo.gov/link/plaw/92/public/226), pt. II, § 201(b), (c), Feb. 7, 1972, [86 Stat. 25](https://www.govinfo.gov/link/statute/86/25); [Pub. L. 93–189, § 12(b)(3)](https://www.govinfo.gov/link/plaw/93/public/189), Dec. 17, 1973, [87 Stat. 721](https://www.govinfo.gov/link/statute/87/721); [Pub. L. 94–329, title II](https://www.govinfo.gov/link/plaw/94/public/329), §§ 203(b), 204(b)(2), title III, §§ 302(a), 304(a), June 30, 1976, [90 Stat. 735](https://www.govinfo.gov/link/statute/90/735), 736, 751, 754; [Pub. L. 95–105, title I, § 109(a)(4)](https://www.govinfo.gov/link/plaw/95/public/105), Aug. 17, 1977, [91 Stat. 846](https://www.govinfo.gov/link/statute/91/846); [Pub. L. 99–83, title I, § 123(b)](https://www.govinfo.gov/link/plaw/99/public/83), Aug. 8, 1985, [99 Stat. 205](https://www.govinfo.gov/link/statute/99/205); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 101–513, title III](https://www.govinfo.gov/link/plaw/101/public/513), Nov. 5, 1990, [104 Stat. 1998](https://www.govinfo.gov/link/statute/104/1998); [Pub. L. 103–236, title I, § 162(e)(2)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 405](https://www.govinfo.gov/link/statute/108/405); [Pub. L. 103–437, § 9(a)(6)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4588](https://www.govinfo.gov/link/statute/108/4588).)*

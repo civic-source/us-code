@@ -3,9 +3,10 @@ title: "Section 5314 - Records and reports on foreign financial agency transacti
 usc_title: 31
 usc_section: "5314"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 5314"
-generated_at: "2026-03-30T02:55:34.067Z"
+generated_at: "2026-11-23T21:26:10.619Z"
+status: "active"
 ---
 
 # § 5314. Records and reports on foreign financial agency transactions
@@ -22,3 +23,28 @@ generated_at: "2026-03-30T02:55:34.067Z"
   - **(4)** the kind of transaction subject to or exempt from a requirement or a regulation under this section; and
   - **(5)** other matters the Secretary considers necessary to carry out this section or a regulation under this section.
 - **(c)** A person shall be required to disclose a record required to be kept under this section or under a regulation under this section only as required by law.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5314(a) | 31:1121(a). | Oct. 26, 1970 , Pub. L. 91–508 , §§ 241, 242, 84 Stat. 1124 . |
+| 5314(b) | 31:1122. |  |
+| 5314(c) | 31:1121(b). |  |
+
+
+Historical and Revision Notes
+
+5314(a)
+
+Oct. 26, 1970
+
+Pub. L. 91–508
+
+84 Stat. 1124
+
+5314(b)
+
+5314(c)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 997](https://www.govinfo.gov/link/statute/96/997).)*

@@ -3,9 +3,10 @@ title: "Section 317 - Special Advisor to Commandant for Tribal and Native Hawaii
 usc_title: 14
 usc_section: "317"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 317"
-generated_at: "2026-03-30T02:53:51.487Z"
+generated_at: "2026-11-23T21:25:35.357Z"
+status: "active"
 ---
 
 # § 317. Special Advisor to Commandant for Tribal and Native Hawaiian Affairs
@@ -32,3 +33,33 @@ generated_at: "2026-03-30T02:53:51.487Z"
   - **(1)** The term “Indian Tribe” has the meaning given such term in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304 ).
   - **(2)** The term “Native Hawaiian organization” has the meaning given such term in section 6207 of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 7517 ) except the term includes the Department of Hawaiian Home Lands and the Office of Hawaiian Affairs.
   - **(3)** The term “Tribal organization” has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304 ).
+
+In General
+
+Career Reserved Position
+
+Duties
+
+Direct Access to Secretary and Commandant
+
+Definitions
+
+Indian tribe
+
+Native hawaiian organization
+
+Tribal organization
+
+Definitions
+
+Indian tribe
+
+Native hawaiian organization
+
+Tribal organization
+
+Rule of construction
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. G, title LXXII, § 7201(e)(6)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1679](https://www.govinfo.gov/link/statute/139/1679).)*

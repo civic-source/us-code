@@ -3,9 +3,10 @@ title: "Section 590a - Purpose"
 usc_title: 16
 usc_section: "590a"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 590a"
-generated_at: "2026-03-30T02:54:22.881Z"
+generated_at: "2026-11-23T21:25:51.685Z"
+status: "active"
 ---
 
 # § 590a. Purpose
@@ -16,3 +17,7 @@ It is recognized that the wastage of soil and moisture resources on farm, grazin
   - **(2)** To carry out preventive measures, including, but not limited to, engineering operations, methods of cultivation, the growing of vegetation, and changes in use of land;
   - **(3)** To cooperate or enter into agreements with, or to furnish financial or other aid to, any agency, governmental or otherwise, or any person, subject to such conditions as he may deem necessary, for the purposes of this chapter; and
   - **(4)** To acquire lands, or rights or interests therein, by purchase, gift, condemnation, or otherwise, whenever necessary for the purposes of this chapter.
+
+## Source Credit
+
+*(Apr. 27, 1935, ch. 85, § 1, [49 Stat. 163](https://www.govinfo.gov/link/statute/49/163); [Pub. L. 110–234, title II, § 2802(a)(1)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1085](https://www.govinfo.gov/link/statute/122/1085); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title II, § 2802(a)(1), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1813.)*

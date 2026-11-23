@@ -3,9 +3,10 @@ title: "Section 30146 - Release of motor vehicles and bonds"
 usc_title: 49
 usc_section: "30146"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 30146"
-generated_at: "2026-03-30T02:56:19.352Z"
+generated_at: "2026-11-23T21:26:40.763Z"
+status: "active"
 ---
 
 # § 30146. Release of motor vehicles and bonds
@@ -24,3 +25,50 @@ generated_at: "2026-03-30T02:56:19.352Z"
   - **(2)** The Secretary of Transportation shall inspect periodically a representative number of motor vehicles for which certifications have been filed under subsection (a)(1) of this section. In carrying out a motor vehicle testing program under this chapter, the Secretary shall include a representative number of motor vehicles for which certifications have been filed under subsection (a)(1).
 - **(d)** A motor vehicle or bond may not be released under subsection (a) of this section if the Secretary of Transportation, not later than 30 days after receiving a certification under subsection (a)(1) of this section, gives written notice that the Secretary believes or has reason to believe that the certification is false or contains a mispresentation. 1 1 So in original. Probably should be “misrepresentation.” The vehicle and bond may be released only after the Secretary is satisfied with the certification and any modification of the certification.
 - **(e)** A release of a bond required under section 30141(d) of this title is deemed an acceptance of a certification or completion of an inspection under this section but is not a decision by the Secretary of Transportation under section 30118(a) or (b) of this title of compliance with applicable motor vehicle safety standards prescribed under this chapter.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30146(a) | 15:1397(c)(3)(E)(i) (1st, 3d, last sentences), (vii). | Sept. 9, 1966 , Pub. L. 89–563 , 80 Stat. 718 , § 108(c)(3)(E); added Oct. 31, 1988 , Pub. L. 100–562, § 2(b) , 102 Stat. 2820 . |
+| 30146(b) | 15:1397(c)(3)(E)(ii). |  |
+| 30146(c) | 15:1397(c)(3)(E)(i) (2d sentence), (iii), (iv). |  |
+| 30146(d) | 15:1397(c)(3)(E)(vi). |  |
+| 30146(e) | 15:1397(c)(3)(E)(v). |  |
+
+
+Compliance Certification and Bond
+
+Reliance on Manufacturer’s Certification
+
+Evidence of Compliance
+
+Challenging the Certification
+
+Bond Release
+
+Historical and Revision Notes
+
+30146(a)
+
+Sept. 9, 1966
+
+Pub. L. 89–563
+
+80 Stat. 718
+
+Oct. 31, 1988
+
+Pub. L. 100–562, § 2(b)
+
+102 Stat. 2820
+
+30146(b)
+
+30146(c)
+
+30146(d)
+
+30146(e)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 964](https://www.govinfo.gov/link/statute/108/964).)*

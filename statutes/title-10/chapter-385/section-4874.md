@@ -3,9 +3,10 @@ title: "Section 4874 - Award of certain contracts to entities controlled by a fo
 usc_title: 10
 usc_section: "4874"
 chapter: 385
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4874"
-generated_at: "2026-03-30T02:53:38.215Z"
+generated_at: "2026-11-23T21:25:32.799Z"
+status: "active"
 ---
 
 # § 4874. Award of certain contracts to entities controlled by a foreign government: prohibition
@@ -33,3 +34,41 @@ generated_at: "2026-03-30T02:53:38.215Z"
   - **(3)** The term “Secretary concerned” means—
     - **(A)** the Secretary of Defense, with respect to Department of Defense contracts; and
     - **(B)** the Secretary of Energy, with respect to Department of Energy contracts.
+
+In General
+
+Waiver Authority
+
+Definitions
+
+Waiver Authority
+
+In General
+
+Acceleration Authorized
+
+Definitions
+
+Covered ntib entity
+
+Proscribed information
+
+Review
+
+Authority
+
+In general
+
+Determinations of eligibility
+
+Exercise of authority
+
+Definitions
+
+Appropriate congressional committees
+
+National technology and industrial base
+
+## Source Credit
+
+*(Added [Pub. L. 102–484, div. A, title VIII, § 836(a)(1)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2462](https://www.govinfo.gov/link/statute/106/2462), § 2536; amended [Pub. L. 103–35, title II, § 201(d)(4)](https://www.govinfo.gov/link/plaw/103/public/35), May 31, 1993, [107 Stat. 99](https://www.govinfo.gov/link/statute/107/99); [Pub. L. 103–160, div. A, title VIII, § 842(a)](https://www.govinfo.gov/link/plaw/103/public/160) –(c)(1), Nov. 30, 1993, [107 Stat. 1719](https://www.govinfo.gov/link/statute/107/1719); [Pub. L. 104–201, div. A, title VIII, § 828](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2611](https://www.govinfo.gov/link/statute/110/2611); renumbered § 4874, [Pub. L. 116–283, div. A, title XVIII, § 1870(d)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4286](https://www.govinfo.gov/link/statute/134/4286); [Pub. L. 117–81, div. A, title XVII, § 1701(t)(2)(B)](https://www.govinfo.gov/link/plaw/117/public/81), (C), Dec. 27, 2021, [135 Stat. 2150](https://www.govinfo.gov/link/statute/135/2150).)*

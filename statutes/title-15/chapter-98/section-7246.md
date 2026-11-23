@@ -3,9 +3,10 @@ title: "Section 7246 - Fair funds for investors"
 usc_title: 15
 usc_section: "7246"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7246"
-generated_at: "2026-03-30T02:54:08.221Z"
+generated_at: "2026-11-23T21:25:40.049Z"
+status: "active"
 ---
 
 # § 7246. Fair funds for investors
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.221Z"
     - **(A)** enforcement actions by the Commission over the five years preceding July 30, 2002 , that have included proceedings to obtain civil penalties or disgorgements to identify areas where such proceedings may be utilized to efficiently, effectively, and fairly provide restitution for injured investors; and
     - **(B)** other methods to more efficiently, effectively, and fairly provide restitution to injured investors, including methods to improve the collection rates for civil penalties and disgorgements.
   - **(2)** The Commission shall report its findings to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate within 180 days after of 1 1 So in original. The word “of” probably should not appear. July 30, 2002 , and shall use such findings to revise its rules and regulations as necessary. The report shall include a discussion of regulatory or legislative actions that are recommended or that may be necessary to address concerns identified in the study.
+
+## Source Credit
+
+*([Pub. L. 107–204, title III, § 308](https://www.govinfo.gov/link/plaw/107/public/204), July 30, 2002, [116 Stat. 784](https://www.govinfo.gov/link/statute/116/784); [Pub. L. 111–203, title IX, § 929B](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1852](https://www.govinfo.gov/link/statute/124/1852).)*

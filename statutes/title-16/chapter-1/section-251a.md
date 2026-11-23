@@ -3,12 +3,17 @@ title: "Section 251a - Additional lands"
 usc_title: 16
 usc_section: "251a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 251a"
-generated_at: "2026-03-30T02:54:22.745Z"
+generated_at: "2026-11-23T21:25:51.399Z"
+status: "active"
 ---
 
 # § 251a. Additional lands
 
 Title to State, county, and private lands situated north of the line between townships 27 and 28 north, Willamette base and meridian, Washington, and within the boundaries of the Olympic National Park as now or hereafter established by proclamation of the President of the United States, shall be subject to acceptance under the provisions of section 485 of this title , and such lands when vested in the ownership of the United States shall be a part of the Olympic National Park subject to all laws and regulations applicable thereto.
 
+
+## Source Credit
+
+*(Dec. 22, 1942, ch. 800, [56 Stat. 1070](https://www.govinfo.gov/link/statute/56/1070).)*

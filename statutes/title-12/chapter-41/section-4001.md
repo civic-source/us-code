@@ -3,9 +3,10 @@ title: "Section 4001 - Definitions"
 usc_title: 12
 usc_section: "4001"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4001"
-generated_at: "2026-03-30T02:53:53.498Z"
+generated_at: "2026-11-23T21:25:37.155Z"
+status: "active"
 ---
 
 # § 4001. Definitions
@@ -53,3 +54,11 @@ For purposes of this chapter—
   - **(23)** The term “United States” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the Virgin Islands.
   - **(24)** The term “unit of general local government” means any city, county, town, township, parish, village, or other general purpose political subdivision of a State.
   - **(25)** The term “wire transfer” has such meaning as the Board shall prescribe by regulations.
+
+Date of Enactment
+
+Year After Date of Enactment
+
+## Source Credit
+
+*([Pub. L. 100–86, title VI, § 602](https://www.govinfo.gov/link/plaw/100/public/86), Aug. 10, 1987, [101 Stat. 635](https://www.govinfo.gov/link/statute/101/635); [Pub. L. 115–174, title II, § 208(a)(1)](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1312](https://www.govinfo.gov/link/statute/132/1312).)*

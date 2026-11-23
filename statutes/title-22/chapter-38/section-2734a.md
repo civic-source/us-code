@@ -3,12 +3,31 @@ title: "Section 2734a - Authorities related to personnel"
 usc_title: 22
 usc_section: "2734a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2734a"
-generated_at: "2026-03-30T02:55:05.382Z"
+generated_at: "2026-11-23T21:25:58.539Z"
+status: "active"
 ---
 
 # § 2734a. Authorities related to personnel
 
 - **(a)** The Secretary, or the head of any agency with respect to personnel of that agency, may extend to any individuals assigned, detailed, or deployed to carry out reconstruction and stabilization activities pursuant to section 2734 of this title (as added by section 1605 1 1 See References in Text note below. of this title), the benefits or privileges set forth in sections 3973, 4024, and 4081 of this title to the same extent and manner that such benefits and privileges are extended to members of the Foreign Service.
 - **(b)** The Secretary is authorized to accept details or assignments of any personnel, and any employee of a State or local government, on a reimbursable or nonreimbursable basis for the purpose of carrying out this title, 1 and the head of any agency is authorized to detail or assign personnel of such agency on a reimbursable or nonreimbursable basis to the Department of State for purposes of section 2734 of this title , as added by section 1605 1 of this title.
+
+“In this title [enacting this section, sections 2368 and 2734 of this title, and provisions set out as notes under sections 2151 and 2368 of this title]:
+
+Administrator
+
+Agency
+
+Appropriate congressional committees
+
+Department
+
+Personnel
+
+Secretary
+
+## Source Credit
+
+*([Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title XVI, § 1606, Oct. 14, 2008, [122 Stat. 4656](https://www.govinfo.gov/link/statute/122/4656).)*

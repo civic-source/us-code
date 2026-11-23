@@ -3,9 +3,10 @@ title: "Section 1066 - Findings"
 usc_title: 20
 usc_section: "1066"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1066"
-generated_at: "2026-03-30T02:54:48.102Z"
+generated_at: "2026-11-23T21:25:47.042Z"
+status: "active"
 ---
 
 # § 1066. Findings
@@ -18,3 +19,7 @@ The Congress finds that—
   - **(4)** due to their small enrollments, limited endowments and other financial factors normally considered by lenders in construction financing, historically Black colleges and universities often lack access to the sources of funding necessary to undertake the necessary capital improvements through borrowing and bond financing;
   - **(5)** despite their track record of long-standing and remarkable institutional longevity and viability, historically Black colleges and universities often lack the financial resources necessary to gain access to traditional sources of capital financing such as bank loans and bond financing; and
   - **(6)** Federal assistance to facilitate low-cost capital basis for historically Black colleges and universities will enable such colleges and universities to continue and expand their educational mission and enhance their significant role in American higher education.
+
+## Source Credit
+
+*([Pub. L. 89–329, title III, § 341](https://www.govinfo.gov/link/plaw/89/public/329), formerly title VII, § 721, as added [Pub. L. 102–325, title VII, § 704](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 741](https://www.govinfo.gov/link/statute/106/741); renumbered title III, § 341, [Pub. L. 105–244, title III, § 301(a)(3)](https://www.govinfo.gov/link/plaw/105/public/244), (4), Oct. 7, 1998, [112 Stat. 1636](https://www.govinfo.gov/link/statute/112/1636).)*

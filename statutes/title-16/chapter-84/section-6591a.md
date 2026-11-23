@@ -3,9 +3,10 @@ title: "Section 6591a - Designation of treatment areas"
 usc_title: 16
 usc_section: "6591a"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6591a"
-generated_at: "2026-03-30T02:54:23.062Z"
+generated_at: "2026-11-23T21:25:52.045Z"
+status: "active"
 ---
 
 # § 6591a. Designation of treatment areas
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:23.062Z"
       - **(i)** not earlier than September 30, 2018 , issue the initial report under subparagraph (A); and
       - **(ii)** not earlier than September 30, 2024 , issue the second report under that subparagraph.
 - **(e)** The Secretary shall carry out projects under subsection (d) in a manner that maximizes the retention of old-growth and large trees, as appropriate for the forest type, to the extent that the trees promote stands that are resilient to insects and disease.
+
+## Source Credit
+
+*([Pub. L. 108–148, title VI, § 602](https://www.govinfo.gov/link/plaw/108/public/148), as added [Pub. L. 113–79, title VIII, § 8204](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 915](https://www.govinfo.gov/link/statute/128/915); amended [Pub. L. 115–334, title VIII](https://www.govinfo.gov/link/plaw/115/public/334), §§ 8407(b), 8408, Dec. 20, 2018, [132 Stat. 4846](https://www.govinfo.gov/link/statute/132/4846), 4847.)*

@@ -3,12 +3,17 @@ title: "Section 21a - Amendment of articles of association"
 usc_title: 12
 usc_section: "21a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 21a"
-generated_at: "2026-03-30T02:53:53.369Z"
+generated_at: "2026-11-23T21:25:36.760Z"
+status: "active"
 ---
 
 # § 21a. Amendment of articles of association
 
 Except as otherwise specifically provided by law, or by the articles of association of the particular national banking association, the articles of association of a national banking association may be amended with respect to any lawful matter, and any action requiring the approval of the stockholders of such association may be had by the approving vote of the holders of a majority of the voting shares of the stock of the association obtained at a meeting of the stockholders called and held pursuant to notice given by mail at least ten days prior to the meeting or pursuant to a waiver of such notice given by all stockholders entitled to receive notice of such meeting. A certified copy of every amendment to the articles of association adopted by the shareholders of a national banking association shall be forwarded to the Comptroller of the Currency, to be filed and preserved in his office.
 
+
+## Source Credit
+
+*([Pub. L. 86–230, § 13](https://www.govinfo.gov/link/plaw/86/public/230), Sept. 8, 1959, [73 Stat. 458](https://www.govinfo.gov/link/statute/73/458).)*

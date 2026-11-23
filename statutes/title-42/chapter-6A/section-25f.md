@@ -3,9 +3,10 @@ title: "Section 25f - Prevention and education programs"
 usc_title: 42
 usc_section: "25f"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 25f"
-generated_at: "2026-03-30T02:56:10.762Z"
+generated_at: "2026-11-23T21:26:30.564Z"
+status: "active"
 ---
 
 # § 290bb–25f. Prevention and education programs
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:10.762Z"
     - **(C)** other programs determined to be effective by the National Institute on Drug Abuse.
 - **(c)** Amounts received under a grant under subsection (a) shall be used for education programs that will directly communicate with teachers, principals, coaches, as well as elementary and secondary school children concerning the harmful effects of anabolic steroids.
 - **(d)** There is authorized to be appropriated to carry out this section, $15,000,000 for each of fiscal years 2005 through 2010.
+
+## Source Credit
+
+*([Pub. L. 108–358, § 4](https://www.govinfo.gov/link/plaw/108/public/358), Oct. 22, 2004, [118 Stat. 1664](https://www.govinfo.gov/link/statute/118/1664).)*

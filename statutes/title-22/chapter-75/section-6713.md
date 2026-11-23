@@ -3,9 +3,10 @@ title: "Section 6713 - Civil liability of United States"
 usc_title: 22
 usc_section: "6713"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6713"
-generated_at: "2026-03-30T02:55:05.432Z"
+generated_at: "2026-11-23T21:25:58.695Z"
+status: "active"
 ---
 
 # § 6713. Civil liability of United States
@@ -72,3 +73,7 @@ generated_at: "2026-03-30T02:55:05.432Z"
   - **(2)** as described in section 552(b)(4) of title 5 ,
 - **(i)** from a United States person; or
 - **(ii)** through the United States Government or the conduct of an inspection on United States territory under the Convention.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. I, title I, § 103](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–861](https://www.govinfo.gov/link/statute/112/2681).)*

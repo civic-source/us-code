@@ -3,9 +3,10 @@ title: "Section 1053 - Financial institution charges incurred because of Governm
 usc_title: 10
 usc_section: "1053"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1053"
-generated_at: "2026-03-30T02:53:38.097Z"
+generated_at: "2026-11-23T21:25:32.380Z"
+status: "active"
 ---
 
 # § 1053. Financial institution charges incurred because of Government error in direct deposit of pay: reimbursement
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:38.097Z"
 - **(d)** In this section:
   - **(1)** The term “financial institution” means a bank, savings and loan association, or similar institution or a credit union chartered by the United States or a State.
   - **(2)** The term “pay” includes (A) retired pay, and (B) allowances.
+
+## Source Credit
+
+*(Added [Pub. L. 99–661, div. A, title VI, § 662(a)(1)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3893](https://www.govinfo.gov/link/statute/100/3893); amended [Pub. L. 101–189, div. A, title VI, § 664(a)(1)](https://www.govinfo.gov/link/plaw/101/public/189) –(3)(A), Nov. 29, 1989, [103 Stat. 1466](https://www.govinfo.gov/link/statute/103/1466); [Pub. L. 102–25, title VII, § 701(e)(8)(A)](https://www.govinfo.gov/link/plaw/102/public/25), Apr. 6, 1991, [105 Stat. 115](https://www.govinfo.gov/link/statute/105/115); [Pub. L. 104–106, div. A, title XV, § 1501(c)(8)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 499](https://www.govinfo.gov/link/statute/110/499); [Pub. L. 105–261, div. A, title V, § 564(a)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2029](https://www.govinfo.gov/link/statute/112/2029); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title V, § 579(c)(2)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–141.)*

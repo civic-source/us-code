@@ -3,12 +3,17 @@ title: "Section 5826 - Policy on combatting tied aid practices"
 usc_title: 22
 usc_section: "5826"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5826"
-generated_at: "2026-03-30T02:55:05.420Z"
+generated_at: "2026-11-23T21:25:58.669Z"
+status: "active"
 ---
 
 # § 5826. Policy on combatting tied aid practices
 
 Should the Secretary of the Treasury determine that foreign countries are engaged in tied aid practices with respect to any of the independent states of the former Soviet Union that violate the 1991 Helsinki agreement of the Organization for Economic Cooperation and Development, the President should give priority attention to combatting such practices.
 
+
+## Source Credit
+
+*([Pub. L. 102–511, title III, § 306](https://www.govinfo.gov/link/plaw/102/public/511), Oct. 24, 1992, [106 Stat. 3335](https://www.govinfo.gov/link/statute/106/3335).)*

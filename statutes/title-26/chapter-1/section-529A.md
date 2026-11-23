@@ -3,9 +3,10 @@ title: "Section 529A - Qualified ABLE programs"
 usc_title: 26
 usc_section: "529A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 529A"
-generated_at: "2026-03-30T02:55:27.715Z"
+generated_at: "2026-11-23T21:26:06.328Z"
+status: "active"
 ---
 
 # § 529A. Qualified ABLE programs
@@ -86,3 +87,23 @@ generated_at: "2026-03-30T02:55:27.715Z"
   - **(5)** to prevent fraud and abuse with respect to amounts claimed as qualified disability expenses,
   - **(6)** under chapters 11, 12, and 13 of this title, and
   - **(7)** to allow for transfers from one ABLE account to another ABLE account.
+
+In general
+
+Modified inflation adjustment
+
+“The purposes of this title [title I of div. B of Pub. L. 113–295 , enacting this section, amending sections 26, 529, 877A, 4965, 4973, and 6693, of this title, section 552a of Title 5 , Government Organization and Employees, sections 521, 541, and 707 of Title 11, Bankruptcy, and section 5517 of Title 12 , Banks and Banking, and enacting provisions set out as notes under this section, section 529 of this title , section 552a of Title 5 , and section 521 of Title 11 ] are as follows:
+
+Account Funds Disregarded for Purposes of Certain Other Means-Tested Federal Programs
+
+Suspension of SSI Benefits During Periods of Excessive Account Funds.—
+
+In general
+
+No impact on medicaid eligibility
+
+Effective Date
+
+## Source Credit
+
+*(Added [Pub. L. 113–295, div. B, title I, § 102(a)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4056](https://www.govinfo.gov/link/statute/128/4056); amended [Pub. L. 114–113, div. Q, title III, § 303(a)](https://www.govinfo.gov/link/plaw/114/public/113) –(c), Dec. 18, 2015, [129 Stat. 3087](https://www.govinfo.gov/link/statute/129/3087); [Pub. L. 115–97, title I, § 11024(a)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2075](https://www.govinfo.gov/link/statute/131/2075); [Pub. L. 115–141, div. U, title I, § 101](https://www.govinfo.gov/link/plaw/115/public/141) (o), title IV, § 401(a)(129), (130), Mar. 23, 2018, [132 Stat. 1166](https://www.govinfo.gov/link/statute/132/1166), 1190; [Pub. L. 117–328, div. T, title I, § 124(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5314](https://www.govinfo.gov/link/statute/136/5314); [Pub. L. 119–21, title VII](https://www.govinfo.gov/link/plaw/119/public/21), §§ 70115(a), 70204(a)(2)(A), (B), July 4, 2025, [139 Stat. 166](https://www.govinfo.gov/link/statute/139/166), 185.)*

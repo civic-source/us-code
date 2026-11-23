@@ -3,9 +3,10 @@ title: "Section 119 - Limitations on exclusive rights: Secondary transmissions o
 usc_title: 17
 usc_section: "119"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 119"
-generated_at: "2026-03-30T02:54:15.349Z"
+generated_at: "2026-11-23T21:25:41.703Z"
+status: "active"
 ---
 
 # § 119. Limitations on exclusive rights: Secondary transmissions of distant television programming by satellite
@@ -178,3 +179,289 @@ generated_at: "2026-03-30T02:54:15.349Z"
     - **(A)** An entity provides “local-into-local service to all DMAs” if the entity provides local service in all designated market areas (as such term is defined in section 122(j)(2)(C)) pursuant to the license under section 122, except for designated market areas where the entity is temporarily or permanently unable to provide local service as a result of an act of god 2 or other force majeure event beyond the control of the entity.
     - **(B)** For purposes of subparagraph (A), an entity that makes available local-into-local service with a good quality satellite signal to at least 90 percent of the households in a designated market area based on the most recent census data released by the United States Census Bureau shall be considered to be providing local service to such designated market area.
     - **(C)** The term “good quality satellite signal” has the meaning given such term under section 342(e)(2) of Communications 4 4 So in original. Probably should be preceded by “the”. Act of 1934.
+
+Secondary Transmissions by Satellite Carriers.—
+
+Non-network stations
+
+Network stations.—
+
+In general
+
+Secondary transmissions to unserved households.—
+
+In general
+
+Short markets
+
+Submission of subscriber lists to networks.—
+
+Initial lists
+
+Monthly lists
+
+Use of subscriber information
+
+Applicability
+
+Noncompliance with reporting and payment requirements
+
+Willful alterations
+
+Violation of territorial restrictions on statutory license for network stations.—
+
+Individual violations
+
+Pattern of violations
+
+Previous subscribers excluded
+
+Burden of proof
+
+Discrimination by a satellite carrier
+
+Geographic limitation on secondary transmissions
+
+Service to recreational vehicles and commercial trucks.—
+
+Exemption.—
+
+In general
+
+Limitation
+
+Exclusion
+
+Documentation requirements
+
+Declaration
+
+Registration
+
+Registration and license
+
+Updated documentation requirements
+
+Statutory license contingent on compliance with fcc rules and remedial steps
+
+Restricted transmission of out-of-state distant network signals into certain markets.—
+
+Out-of-state network affiliates
+
+Exception
+
+Deposit of Statements and Fees; Verification Procedures.—
+
+Deposits with the register of copyrights
+
+Verification of accounts and fee payments
+
+Investment of fees
+
+Persons to whom fees are distributed
+
+Procedures for distribution
+
+Filing of claims for fees
+
+Determination of controversy; distributions
+
+Withholding of fees during controversy
+
+Adjustment of Royalty Fees.—
+
+Applicability and determination of royalty fees for signals.—
+
+Initial fee
+
+Fee set by voluntary negotiation
+
+Negotiations
+
+Agreements binding on parties; filing of agreements; public notice
+
+Voluntary agreements; filing
+
+Procedure for adoption of fees.—
+
+Publication of notice
+
+Public notice of fees
+
+Adoption of fees
+
+Period agreement is in effect
+
+Fee set by copyright royalty judges proceeding.—
+
+Notice of initiation of the proceeding
+
+Establishment of royalty fees
+
+Effective date for decision of copyright royalty judges
+
+Persons subject to royalty fees
+
+Annual royalty fee adjustment
+
+Definitions
+
+Distributor
+
+Network station
+
+Primary network station
+
+Primary transmission
+
+Private home viewing
+
+Satellite carrier
+
+Secondary transmission
+
+Subscriber; subscribe.—
+
+Subscriber
+
+Subscribe
+
+Non-network station
+
+Unserved household
+
+Local market
+
+Commercial establishment
+
+Multicast stream
+
+Primary stream
+
+Local-into-local service to all dmas
+
+Short market
+
+Expedited Consideration by Justice Department of Voluntary Agreements to Provide Satellite Secondary Transmissions to Local Markets.—
+
+In general
+
+Definition
+
+Certain Waivers Granted to Providers of Local-into-local Service to All DMAs.—
+
+Injunction waiver
+
+Limited temporary waiver.—
+
+In general
+
+Expiration of temporary waiver
+
+Failure to provide local-into-local service to all dmas.—
+
+Failure to act reasonably and in good faith
+
+Failure to provide local-into-local service
+
+Single temporary waiver available
+
+Short market defined
+
+Establishment of qualified carrier recognition.—
+
+Statement of eligibility
+
+Grant of recognition as a qualified carrier
+
+Voluntary termination
+
+Loss of recognition prevents future recognition
+
+Qualified carrier obligations and compliance.—
+
+Continuing obligations.—
+
+In general
+
+Cooperation with compliance examination
+
+Qualified carrier compliance examination.—
+
+Examination and report
+
+Records of qualified carrier
+
+Submission of report
+
+Evidence of infringement
+
+Subsequent examination
+
+Compliance
+
+Oversight
+
+Affirmation
+
+Compliance determination
+
+Pleading requirement
+
+Burden of proof
+
+Failure to provide service.—
+
+Penalties
+
+Exception for nonwillful violation
+
+Penalties for violations of license
+
+Local-into-local service to all dmas defined
+
+In general
+
+Household coverage
+
+Good quality satellite signal defined
+
+Non-network stations
+
+Superstations
+
+Statutory License for Secondary Transmissions for Private Home Viewing.—”.
+
+Non-network station
+
+Superstation
+
+Local market
+
+Public broadcasting service satellite feed
+
+Factors for determining royalty fees
+
+Network station
+
+In General
+
+Satellite Home Viewer Act
+
+Technical Amendment
+
+In General
+
+Burden of Proof Provisions
+
+Transitional Signal Intensity Measurement Procedures
+
+Local Service Area of a Primary Transmitter
+
+In general
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 100–667, title II, § 202(2)](https://www.govinfo.gov/link/plaw/100/public/667), Nov. 16, 1988, [102 Stat. 3949](https://www.govinfo.gov/link/statute/102/3949); amended [Pub. L. 103–198, § 5](https://www.govinfo.gov/link/plaw/103/public/198), Dec. 17, 1993, [107 Stat. 2310](https://www.govinfo.gov/link/statute/107/2310); [Pub. L. 103–369, § 2](https://www.govinfo.gov/link/plaw/103/public/369), Oct. 18, 1994, [108 Stat. 3477](https://www.govinfo.gov/link/statute/108/3477); [Pub. L. 104–39, § 5(c)](https://www.govinfo.gov/link/plaw/104/public/39), Nov. 1, 1995, [109 Stat. 348](https://www.govinfo.gov/link/statute/109/348); [Pub. L. 105–80](https://www.govinfo.gov/link/plaw/105/public/80), §§ 1, 12(a)(8), Nov. 13, 1997, [111 Stat. 1529](https://www.govinfo.gov/link/statute/111/1529), 1535; [Pub. L. 106–44, § 1(g)(4)](https://www.govinfo.gov/link/plaw/106/public/44), Aug. 5, 1999, [113 Stat. 222](https://www.govinfo.gov/link/statute/113/222); [Pub. L. 106–113, div. B, § 1000(a)(9) [title I, §§ 1004–1007, 1008(b), 1011(b)(2), (c)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–527 to 1501A–531, 1501A–537, 1501A–543, 1501A–544; [Pub. L. 107–273, div. C, title III](https://www.govinfo.gov/link/plaw/107/public/273), §§ 13209, 13210(1), (8), Nov. 2, 2002, [116 Stat. 1908](https://www.govinfo.gov/link/statute/116/1908), 1909; [Pub. L. 108–419, § 5(g)](https://www.govinfo.gov/link/plaw/108/public/419), (h), Nov. 30, 2004, [118 Stat. 2367](https://www.govinfo.gov/link/statute/118/2367); [Pub. L. 108–447, div. J, title IX](https://www.govinfo.gov/link/plaw/108/public/447) [title I, §§ 101(b)–105, 107(a), 108, 111(a)], Dec. 8, 2004, [118 Stat. 3394–3408](https://www.govinfo.gov/link/statute/118/3394); [Pub. L. 109–303, § 4(e)](https://www.govinfo.gov/link/plaw/109/public/303), (g), Oct. 6, 2006, [120 Stat. 1482](https://www.govinfo.gov/link/statute/120/1482), 1483; [Pub. L. 110–403, title II, § 209(a)(4)](https://www.govinfo.gov/link/plaw/110/public/403), Oct. 13, 2008, [122 Stat. 4264](https://www.govinfo.gov/link/statute/122/4264); [Pub. L. 111–118, div. B, § 1003(a)(1)](https://www.govinfo.gov/link/plaw/111/public/118), Dec. 19, 2009, [123 Stat. 3469](https://www.govinfo.gov/link/statute/123/3469); [Pub. L. 111–144, § 10(a)(1)](https://www.govinfo.gov/link/plaw/111/public/144), Mar. 2, 2010, [124 Stat. 47](https://www.govinfo.gov/link/statute/124/47); [Pub. L. 111–151, § 2(a)(1)](https://www.govinfo.gov/link/plaw/111/public/151), Mar. 26, 2010, [124 Stat. 1027](https://www.govinfo.gov/link/statute/124/1027); [Pub. L. 111–157, § 9(a)(1)](https://www.govinfo.gov/link/plaw/111/public/157), Apr. 15, 2010, [124 Stat. 1118](https://www.govinfo.gov/link/statute/124/1118); [Pub. L. 111–175, title I](https://www.govinfo.gov/link/plaw/111/public/175), §§ 102(a)(1), (b)–(k), 105, May 27, 2010, [124 Stat. 1219–1226](https://www.govinfo.gov/link/statute/124/1219), 1239; [Pub. L. 111–295, § 6(c)](https://www.govinfo.gov/link/plaw/111/public/295), Dec. 9, 2010, [124 Stat. 3181](https://www.govinfo.gov/link/statute/124/3181); [Pub. L. 113–200, title II](https://www.govinfo.gov/link/plaw/113/public/200), §§ 201(2), 202(a), Dec. 4, 2014, [128 Stat. 2066](https://www.govinfo.gov/link/statute/128/2066); [Pub. L. 116–94, div. P, title XI, § 1102(a)](https://www.govinfo.gov/link/plaw/116/public/94), (c)(1), Dec. 20, 2019, [133 Stat. 3201](https://www.govinfo.gov/link/statute/133/3201), 3203.)*

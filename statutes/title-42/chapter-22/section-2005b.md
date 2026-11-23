@@ -3,9 +3,10 @@ title: "Section 2005b - Conditions of assistance"
 usc_title: 42
 usc_section: "2005b"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2005b"
-generated_at: "2026-03-30T02:56:11.145Z"
+generated_at: "2026-11-23T21:26:32.311Z"
+status: "active"
 ---
 
 # § 2005b. Conditions of assistance
@@ -14,3 +15,7 @@ As a condition to providing assistance under section 2005 of this title , the Su
 
 - **(a)** require plans and specifications meeting such standards of construction and equipment as he may prescribe, and
 - **(b)** obtain such assurances and agreements as in his judgment are equitable in the light of the financial assistance provided under this subchapter and are necessary to assure the availability of the facility for the provision of hospital and medical care to Indians and to assure that the hospital is operated in compliance with State standards for operation and maintenance of hospitals which receive Federal aid under title VI of the Public Health Service Act [ 42 U.S.C. 291 et seq.].
+
+## Source Credit
+
+*([Pub. L. 85–151, § 3](https://www.govinfo.gov/link/plaw/85/public/151), Aug. 16, 1957, [71 Stat. 371](https://www.govinfo.gov/link/statute/71/371).)*

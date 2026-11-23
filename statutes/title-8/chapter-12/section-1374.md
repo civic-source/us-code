@@ -3,9 +3,10 @@ title: "Section 1374 - Information regarding female genital mutilation"
 usc_title: 8
 usc_section: "1374"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1374"
-generated_at: "2026-03-30T02:53:10.498Z"
+generated_at: "2026-11-23T21:25:25.186Z"
+status: "active"
 ---
 
 # § 1374. Information regarding female genital mutilation
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:10.498Z"
   - **(2)** Information concerning potential legal consequences in the United States for (A) performing female genital mutilation, or (B) allowing a child under his or her care to be subjected to female genital mutilation, under criminal or child protection statutes or as a form of child abuse.
 - **(b)** In consultation with the Secretary of State, the Commissioner of Immigration and Naturalization shall identify those countries in which female genital mutilation is commonly practiced and, to the extent practicable, limit the provision of information under subsection (a) to aliens from such countries.
 - **(c)** For purposes of this section, the term “female genital mutilation” means the removal or infibulation (or both) of the whole or part of the clitoris, the labia minora, or labia majora.
+
+## Source Credit
+
+*([Pub. L. 104–208, div. C, title VI, § 644](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–708](https://www.govinfo.gov/link/statute/110/3009).)*

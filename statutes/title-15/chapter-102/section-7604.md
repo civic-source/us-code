@@ -3,9 +3,10 @@ title: "Section 7604 - Expiration of contact lens prescriptions"
 usc_title: 15
 usc_section: "7604"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7604"
-generated_at: "2026-03-30T02:54:08.225Z"
+generated_at: "2026-11-23T21:25:40.064Z"
+status: "active"
 ---
 
 # § 7604. Expiration of contact lens prescriptions
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.225Z"
   - **(3)** notwithstanding paragraphs (1) and (2), on the date specified by the prescriber, if that date is based on the medical judgment of the prescriber with respect to the ocular health of the patient.
 - **(b)** If a prescription expires in less than 1 year, the reasons for the judgment referred to in subsection (a)(3) shall be documented in the patient’s medical record. In no circumstance shall the prescription expiration date be less than the period of time recommended by the prescriber for a reexamination of the patient that is medically necessary.
 - **(c)** As used in this section, the term “issue date” means the date on which the patient receives a copy of the prescription.
+
+## Source Credit
+
+*([Pub. L. 108–164, § 5](https://www.govinfo.gov/link/plaw/108/public/164), Dec. 6, 2003, [117 Stat. 2025](https://www.govinfo.gov/link/statute/117/2025).)*

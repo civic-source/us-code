@@ -3,9 +3,10 @@ title: "Section 679 - Foreign trusts having one or more United States beneficiar
 usc_title: 26
 usc_section: "679"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 679"
-generated_at: "2026-03-30T02:55:27.724Z"
+generated_at: "2026-11-23T21:26:06.364Z"
+status: "active"
 ---
 
 # § 679. Foreign trusts having one or more United States beneficiaries
@@ -52,3 +53,11 @@ generated_at: "2026-03-30T02:55:27.724Z"
   - **(1)** submits such information to the Secretary as the Secretary may require with respect to such transfer, and
   - **(2)** demonstrates to the satisfaction of the Secretary that such trust satisfies the requirements of subparagraphs (A) and (B) of subsection (c)(1).
 - **(e)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
+
+Transfers where gain is recognized to transferor
+
+“The amendments made by this section (other than subsection (c)) [enacting this section and amending sections 643, 678, 6048, and 6678 of this title] shall apply to taxable years ending after December 31, 1975 , but only in the case of—
+
+## Source Credit
+
+*(Added [Pub. L. 94–455, title X, § 1013(a)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1614](https://www.govinfo.gov/link/statute/90/1614); amended [Pub. L. 96–603, § 2(b)](https://www.govinfo.gov/link/plaw/96/public/603), Dec. 28, 1980, [94 Stat. 3509](https://www.govinfo.gov/link/statute/94/3509); [Pub. L. 104–188, title I, § 1903(a)](https://www.govinfo.gov/link/plaw/104/public/188) –(f), Aug. 20, 1996, [110 Stat. 1909](https://www.govinfo.gov/link/statute/110/1909), 1910; [Pub. L. 105–34, title XVI, § 1601(i)(2)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1093](https://www.govinfo.gov/link/statute/111/1093); [Pub. L. 105–206, title VI, § 6018(g)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 823](https://www.govinfo.gov/link/statute/112/823); [Pub. L. 111–147, title V](https://www.govinfo.gov/link/plaw/111/public/147), §§ 531, 532(a), 533(c), Mar. 18, 2010, [124 Stat. 113](https://www.govinfo.gov/link/statute/124/113), 114.)*

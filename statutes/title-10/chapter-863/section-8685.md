@@ -3,9 +3,10 @@ title: "Section 8685 - Preservation of Navy shipbuilding capability"
 usc_title: 10
 usc_section: "8685"
 chapter: 863
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 8685"
-generated_at: "2026-03-30T02:53:38.248Z"
+generated_at: "2026-11-23T21:25:32.941Z"
+status: "active"
 ---
 
 # § 8685. Preservation of Navy shipbuilding capability
@@ -25,3 +26,23 @@ generated_at: "2026-03-30T02:53:38.248Z"
     - **(A)** A contract that is in effect on the date on which the agreement is entered into.
     - **(B)** A contract that is awarded during the term of the agreement.
   - **(2)** In a shipbuilding capability preservation agreement applicable to a shipbuilder, the Secretary may agree to apply the cost reimbursement rules set forth in subsection (b) to allocations of indirect costs to private sector work performed by the shipbuilder only with respect to costs that the shipbuilder incurred on or after November 18, 1997 , under a contract between the shipbuilder and a private sector customer of the shipbuilder that became effective on or after January 26, 1996 .
+
+Shipbuilding Capability Preservation Agreements
+
+Cost Reimbursement Rules
+
+Authority To Modify Cost Reimbursement Rules
+
+Applicability
+
+Establishment
+
+Partnerships
+
+Termination
+
+Briefings
+
+## Source Credit
+
+*(Added [Pub. L. 105–85, div. A, title X, § 1027(a)(1)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1878](https://www.govinfo.gov/link/statute/111/1878), § 7315; amended [Pub. L. 106–65, div. A, title X, § 1066(a)(29)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 772](https://www.govinfo.gov/link/statute/113/772); renumbered § 8685, [Pub. L. 115–232, div. A, title VIII, § 807(d)(2)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1836](https://www.govinfo.gov/link/statute/132/1836); [Pub. L. 116–283, div. A, title XVIII, § 1867(e)(3)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4282](https://www.govinfo.gov/link/statute/134/4282).)*

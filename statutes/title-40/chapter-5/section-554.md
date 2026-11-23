@@ -3,9 +3,10 @@ title: "Section 554 - Property for development or operation of a port facility"
 usc_title: 40
 usc_section: "554"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 554"
-generated_at: "2026-03-30T02:55:43.375Z"
+generated_at: "2026-11-23T21:26:14.814Z"
+status: "active"
 ---
 
 # § 554. Property for development or operation of a port facility
@@ -25,3 +26,48 @@ generated_at: "2026-03-30T02:55:43.375Z"
   - **(1)** provide that all of the property be used and maintained for the purpose for which it was conveyed in perpetuity, and that if the property ceases to be used or maintained for that purpose, all or any portion of the property shall, in its then existing condition, at the option of the Government, revert to the Government; and
   - **(2)** contain additional terms, reservations, restrictions, and conditions that the Secretary of Transportation shall by regulation require to ensure use of the property for the purposes for which it was conveyed and to safeguard the interests of the Government.
 - **(f)** The Secretary of Transportation shall determine and enforce compliance with the terms, conditions, reservations, and restrictions contained in an instrument by which a transfer or conveyance under this section is made. The Secretary shall reform, correct, or amend the instrument if necessary to correct the instrument or to conform the transfer to the requirements of law. The Secretary shall grant a release from any term, condition, reservation or restriction contained in the instrument, and shall convey, quitclaim, or release to the grantee any right or interest reserved to the Government by the instrument, if the Secretary determines that the property no longer serves the purpose for which it was transferred or that a release, conveyance, or quitclaim deed will not prevent accomplishment of that purpose. The release, conveyance, or quitclaim deed may be made subject to terms and conditions that the Secretary considers necessary to protect or advance the interests of the Government.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 554 | 40:484(q). | June 30, 1949, ch. 288 , title II, § 203(q), as added Pub. L. 103–160, div. B, title XXIX, § 2927(2) , Nov. 30, 1993 , 107 Stat. 1933 . |
+
+
+Definitions
+
+Base closure law
+
+State
+
+Authority for Assignment to the Secretary of Transportation
+
+Authority for Conveyance by the Secretary of Transportation
+
+In general
+
+Conveyance requirements
+
+No Monetary Consideration
+
+Deed of Conveyance
+
+Enforcement and Revision of Instruments Transferring Property Under This Section
+
+Historical and Revision Notes
+
+554
+
+June 30, 1949, ch. 288
+
+Pub. L. 103–160, div. B, title XXIX, § 2927(2)
+
+Nov. 30, 1993
+
+107 Stat. 1933
+
+Transportation
+
+Transportation
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1100](https://www.govinfo.gov/link/statute/116/1100); [Pub. L. 109–163, div. A, title X, § 1056(a)(5)(A)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3439](https://www.govinfo.gov/link/statute/119/3439); [Pub. L. 109–284, § 6(4)](https://www.govinfo.gov/link/plaw/109/public/284), Sept. 27, 2006, [120 Stat. 1212](https://www.govinfo.gov/link/statute/120/1212).)*

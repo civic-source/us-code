@@ -3,9 +3,10 @@ title: "Section 2112 - Presidential archival depository"
 usc_title: 44
 usc_section: "2112"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 2112"
-generated_at: "2026-03-30T02:55:56.292Z"
+generated_at: "2026-11-23T21:26:18.408Z"
+status: "active"
 ---
 
 # § 2112. Presidential archival depository
@@ -82,3 +83,13 @@ generated_at: "2026-03-30T02:55:56.292Z"
       - **(i)** In calculating the additional endowment amount required under paragraph (4), the Archivist shall take into account credits given under subparagraph (C), and may also give credits against the additional endowment amount required under paragraph (4), if the Archivist determines that construction features or equipment used in making or equipping the physical or material change or addition are expected to result in quantifiable long-term savings to the Government with respect to the cost of facility operations.
       - **(ii)** The features and equipment described under clause (i) shall comply with the standards promulgated by the Archivist under subsection (a)(2).
       - **(iii)** The Archivist shall promulgate standards to be used in calculating the dollar amount of any credit to be given, and shall consult with all donors of the endowment before giving any credits. The total dollar amount of credits given under this paragraph may not exceed 20 percent of the additional endowment amount required under paragraph (4).
+
+Provision of plan
+
+Provided to congress
+
+Annual updates and explanation of changes in cost estimates
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1289](https://www.govinfo.gov/link/statute/82/1289), § 2108; [Pub. L. 94–575, § 4(a)](https://www.govinfo.gov/link/plaw/94/public/575), Oct. 21, 1976, [90 Stat. 2727](https://www.govinfo.gov/link/statute/90/2727); [Pub. L. 95–591, § 2(b)(3)](https://www.govinfo.gov/link/plaw/95/public/591), Nov. 4, 1978, [92 Stat. 2528](https://www.govinfo.gov/link/statute/92/2528); renumbered § 2112 and amended [Pub. L. 98–497, title I](https://www.govinfo.gov/link/plaw/98/public/497), §§ 102(a)(1), 107(a)(6), Oct. 19, 1984, [98 Stat. 2280](https://www.govinfo.gov/link/statute/98/2280), 2286; [Pub. L. 99–323, § 3](https://www.govinfo.gov/link/plaw/99/public/323), May 27, 1986, [100 Stat. 495](https://www.govinfo.gov/link/statute/100/495); [Pub. L. 108–7, div. J, title V, § 513](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 462](https://www.govinfo.gov/link/statute/117/462); [Pub. L. 108–383, § 4(a)](https://www.govinfo.gov/link/plaw/108/public/383), Oct. 30, 2004, [118 Stat. 2218](https://www.govinfo.gov/link/statute/118/2218); [Pub. L. 110–404, § 6(b)](https://www.govinfo.gov/link/plaw/110/public/404), Oct. 13, 2008, [122 Stat. 4285](https://www.govinfo.gov/link/statute/122/4285).)*

@@ -3,9 +3,10 @@ title: "Section 5101 - Definitions"
 usc_title: 46
 usc_section: "5101"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 5101"
-generated_at: "2026-03-30T02:56:15.548Z"
+generated_at: "2026-11-23T21:26:37.069Z"
+status: "active"
 ---
 
 # § 5101. Definitions
@@ -25,3 +26,7 @@ In this chapter—
   - **(5)** “freeboard deck” means the deck or other structure the Secretary prescribes by regulation.
   - **(6)** “minimum safe freeboard” means the freeboard that the Secretary decides cannot be reduced safely without limiting the operation of the vessel.
   - **(7)** “weight of the overload” means the amount obtained by multiplying the number of inches that the vessel is submerged below the applicable assigned freeboard by the tons-an-inch immersion factor for the vessel at the assigned minimum safe freeboard.
+
+## Source Credit
+
+*([Pub. L. 99–509, title V, § 5101(2)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1913](https://www.govinfo.gov/link/statute/100/1913).)*

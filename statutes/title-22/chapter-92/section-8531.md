@@ -3,9 +3,10 @@ title: "Section 8531 - Definitions"
 usc_title: 22
 usc_section: "8531"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8531"
-generated_at: "2026-03-30T02:55:05.453Z"
+generated_at: "2026-11-23T21:25:58.743Z"
+status: "active"
 ---
 
 # § 8531. Definitions
@@ -25,3 +26,7 @@ In this subchapter:
     - **(B)** any local government within a State, and any agency or instrumentality thereof;
     - **(C)** any other governmental instrumentality of a State or locality; and
     - **(D)** any public institution of higher education within the meaning of the Higher Education Act of 1965 ( 20 U.S.C. 1001 et seq.).
+
+## Source Credit
+
+*([Pub. L. 111–195, title II, § 201](https://www.govinfo.gov/link/plaw/111/public/195), July 1, 2010, [124 Stat. 1341](https://www.govinfo.gov/link/statute/124/1341).)*

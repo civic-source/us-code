@@ -3,9 +3,10 @@ title: "Section 30143 - Motor vehicles imported by individuals employed outside 
 usc_title: 49
 usc_section: "30143"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 30143"
-generated_at: "2026-03-30T02:56:19.352Z"
+generated_at: "2026-11-23T21:26:40.763Z"
+status: "active"
 ---
 
 # § 30143. Motor vehicles imported by individuals employed outside the United States
@@ -20,3 +21,37 @@ generated_at: "2026-03-30T02:56:19.352Z"
   - **(4)** who imported the vehicle into the United States not later than October 31, 1992 ; and
   - **(5)** who satisfies section 108(b)(3) of that Act as in effect on October 30, 1988 .
 - **(c)** Subsection (b) of this section is carried out by certification in the form the Secretary of Transportation or the Secretary of the Treasury may prescribe.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30143(a) | 15:1397(g) (3d, last sentences). | Sept. 9, 1966 , Pub. L. 89–563 , 80 Stat. 718 , § 108(g); added Oct. 31, 1988 , Pub. L. 100–562, § 2(b) , 102 Stat. 2823 . |
+| 30143(b), (c) | 15:1397(g) (1st, 2d sentences). |  |
+
+
+Definition
+
+General
+
+Certification
+
+Historical and Revision Notes
+
+30143(a)
+
+Sept. 9, 1966
+
+Pub. L. 89–563
+
+80 Stat. 718
+
+Oct. 31, 1988
+
+Pub. L. 100–562, § 2(b)
+
+102 Stat. 2823
+
+30143(b), (c)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 963](https://www.govinfo.gov/link/statute/108/963).)*

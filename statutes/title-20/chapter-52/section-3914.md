@@ -3,9 +3,10 @@ title: "Section 3914 - Materials development and methods research for mathematic
 usc_title: 20
 usc_section: "3914"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 3914"
-generated_at: "2026-03-30T02:54:48.181Z"
+generated_at: "2026-11-23T21:25:47.424Z"
+status: "active"
 ---
 
 # § 3914. Materials development and methods research for mathematics, science, and engineering
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:48.181Z"
   - **(4)** analysis of materials and methods for mathematics, science, and engineering education used in other countries and their potential application in the United States.
 - **(c)** Funds awarded for such competitive grants shall be expended through a system requiring matching of the grant. The minimum amount required as a match shall be equal to a percentage of the grant that is determined by the Foundation. Funds made available for matching purposes may include in-kind services or other resources.
 - **(d)** In making grant applications for materials or methods research for the purposes described in subsections (a)(1) and (a)(3), the Foundation shall assure the involvement of appropriate State or local education agencies in the case of applications submitted by other entities described in subsection (a), or that one or more of such other entities will be consulted in the case of applications submitted by State or local education agencies.
+
+## Source Credit
+
+*([Pub. L. 98–377, title I, § 104](https://www.govinfo.gov/link/plaw/98/public/377), as added [Pub. L. 99–159, title II, § 201](https://www.govinfo.gov/link/plaw/99/public/159), Nov. 22, 1985, [99 Stat. 895](https://www.govinfo.gov/link/statute/99/895).)*

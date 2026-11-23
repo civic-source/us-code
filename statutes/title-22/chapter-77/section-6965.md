@@ -3,9 +3,10 @@ title: "Section 6965 - Reports to Congress"
 usc_title: 22
 usc_section: "6965"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6965"
-generated_at: "2026-03-30T02:55:05.434Z"
+generated_at: "2026-11-23T21:25:58.703Z"
+status: "active"
 ---
 
 # § 6965. Reports to Congress
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.434Z"
     - **(B)** the identity of the person or persons who attempted to sell the goods for export; and
     - **(C)** the identity of all parties involved in transshipment of the goods; and
   - **(4)** such other information as the Task Force considers useful in monitoring and enforcing compliance with section 1307 of title 19 .
+
+## Source Credit
+
+*([Pub. L. 106–286, div. B, title V, § 505](https://www.govinfo.gov/link/plaw/106/public/286), Oct. 10, 2000, [114 Stat. 904](https://www.govinfo.gov/link/statute/114/904).)*

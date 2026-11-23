@@ -3,9 +3,10 @@ title: "Section 2051 - General authority"
 usc_title: 38
 usc_section: "2051"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 2051"
-generated_at: "2026-03-30T02:55:53.494Z"
+generated_at: "2026-11-23T21:26:16.692Z"
+status: "active"
 ---
 
 # § 2051. General authority
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:53.494Z"
 - **(e)** The Secretary may carry out this subchapter in advance of the issuance of regulations for such purpose.
 - **(f)** The Secretary may guarantee loans under this subchapter notwithstanding any requirement for prior appropriations for such purpose under any provision of law.
 - **(g)** Notwithstanding any other provision of law, a multifamily transitional housing project that is funded by a loan guaranteed under this subchapter may accept uncompensated voluntary services performed by any eligible entity (as that term is defined in section 2011(d) of this title ) in connection with the construction, alteration, or repair of such project.
+
+## Source Credit
+
+*(Added [Pub. L. 105–368, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3342](https://www.govinfo.gov/link/statute/112/3342), § 3772; renumbered § 2051 and amended [Pub. L. 107–95, § 5(d)(1)](https://www.govinfo.gov/link/plaw/107/public/95), (2)(B), Dec. 21, 2001, [115 Stat. 918](https://www.govinfo.gov/link/statute/115/918); [Pub. L. 108–454, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/108/public/454), Dec. 10, 2004, [118 Stat. 3615](https://www.govinfo.gov/link/statute/118/3615).)*

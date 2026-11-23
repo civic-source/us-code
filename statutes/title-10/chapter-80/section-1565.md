@@ -3,9 +3,10 @@ title: "Section 1565 - DNA identification information: collection from certain o
 usc_title: 10
 usc_section: "1565"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1565"
-generated_at: "2026-03-30T02:53:38.130Z"
+generated_at: "2026-11-23T21:25:32.512Z"
+status: "active"
 ---
 
 # § 1565. DNA identification information: collection from certain offenders; use
@@ -31,3 +32,19 @@ generated_at: "2026-03-30T02:53:38.130Z"
     - **(C)** A qualifying military offense.
   - **(3)** For purposes of paragraph (1), a court order is not “final” if time remains for an appeal or application for discretionary review with respect to the order.
 - **(f)** This section shall be carried out under regulations prescribed by the Secretary of Defense, in consultation with the Secretary of Homeland Security and the Attorney General. Those regulations shall apply, to the extent practicable, uniformly throughout the armed forces.
+
+Collection of DNA Samples
+
+Analysis and Use of Samples
+
+Definitions
+
+Qualifying Military Offenses
+
+Expungement
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 106–546, § 5(a)(1)](https://www.govinfo.gov/link/plaw/106/public/546), Dec. 19, 2000, [114 Stat. 2731](https://www.govinfo.gov/link/statute/114/2731); amended [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 108–405, title II, § 203(c)](https://www.govinfo.gov/link/plaw/108/public/405), Oct. 30, 2004, [118 Stat. 2270](https://www.govinfo.gov/link/statute/118/2270).)*

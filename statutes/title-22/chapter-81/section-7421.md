@@ -3,9 +3,10 @@ title: "Section 7421 - Findings"
 usc_title: 22
 usc_section: "7421"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7421"
-generated_at: "2026-03-30T02:55:05.440Z"
+generated_at: "2026-11-23T21:25:58.715Z"
+status: "active"
 ---
 
 # § 7421. Findings
@@ -23,3 +24,7 @@ Congress makes the following findings:
   - **(9)** In addition to exposing members of the Armed Forces of the United States to the risk of international criminal prosecution, the Rome Statute creates a risk that the President and other senior elected and appointed officials of the United States Government may be prosecuted by the International Criminal Court. Particularly if the Preparatory Commission agrees on a definition of the Crime of Aggression over United States objections, senior United States officials may be at risk of criminal prosecution for national security decisions involving such matters as responding to acts of terrorism, preventing the proliferation of weapons of mass destruction, and deterring aggression. No less than members of the Armed Forces of the United States, senior officials of the United States Government should be free from the risk of prosecution by the International Criminal Court, especially with respect to official actions taken by them to protect the national interests of the United States.
   - **(10)** Any agreement within the Preparatory Commission on a definition of the Crime of Aggression that usurps the prerogative of the United Nations Security Council under Article 39 of the charter of the United Nations to “determine the existence of any . … act of aggression” would contravene the charter of the United Nations and undermine deterrence.
   - **(11)** It is a fundamental principle of international law that a treaty is binding upon its parties only and that it does not create obligations for nonparties without their consent to be bound. The United States is not a party to the Rome Statute and will not be bound by any of its terms. The United States will not recognize the jurisdiction of the International Criminal Court over United States nationals.
+
+## Source Credit
+
+*([Pub. L. 107–206, title II, § 2002](https://www.govinfo.gov/link/plaw/107/public/206), Aug. 2, 2002, [116 Stat. 899](https://www.govinfo.gov/link/statute/116/899).)*

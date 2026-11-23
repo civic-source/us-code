@@ -3,9 +3,10 @@ title: "Section 5117 - Special permits and exclusions"
 usc_title: 49
 usc_section: "5117"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 5117"
-generated_at: "2026-03-30T02:56:19.307Z"
+generated_at: "2026-11-23T21:26:40.620Z"
+status: "active"
 ---
 
 # § 5117. Special permits and exclusions
@@ -37,3 +38,70 @@ generated_at: "2026-03-30T02:56:19.307Z"
 - **(g)** The Secretary shall periodically, but at least every 120 days—
   - **(1)** publish in the Federal Register notice of the final disposition of each application for a new special permit, modification to an existing special permit, or approval during the preceding quarter; and
   - **(2)** make available to the public on the Department of Transportation’s Internet Web site notice of the final disposition of any other special permit during the preceding quarter.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5117(a) | 49 App.:1806(a) (1st, 2d sentences). | Jan. 3, 1975 , Pub. L. 93–633, § 107 , 88 Stat. 2158 ; Nov. 16, 1990 , Pub. L. 101–615, § 9 , 104 Stat. 3259 . |
+| 5117(b) | 49 App.:1806(a) (3d–last sentences). |  |
+| 5117(c)(1) | 49 App.:1806(b). |  |
+| 5117(c)(2) | 49 App.:1806(c). |  |
+| 5117(d) | 49 App.:1806(d). |  |
+
+
+Authority To Issue Special Permits
+
+Applications
+
+Applications To Be Dealt With Promptly
+
+Exclusions
+
+Limitation on Authority
+
+Incorporation Into Regulations.—
+
+In general
+
+Factors
+
+Rulemaking
+
+Disclosure of Final Action
+
+Historical and Revision Notes
+
+5117(a)
+
+Jan. 3, 1975
+
+Pub. L. 93–633, § 107
+
+88 Stat. 2158
+
+Nov. 16, 1990
+
+Pub. L. 101–615, § 9
+
+104 Stat. 3259
+
+5117(b)
+
+5117(c)(1)
+
+5117(c)(2)
+
+5117(d)
+
+Rulemaking
+
+Review of Special Permits.—
+
+Review
+
+Factors
+
+Rulemaking
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 776](https://www.govinfo.gov/link/statute/108/776); [Pub. L. 103–311, title I, § 120(a)](https://www.govinfo.gov/link/plaw/103/public/311), Aug. 26, 1994, [108 Stat. 1680](https://www.govinfo.gov/link/statute/108/1680); [Pub. L. 109–59, title VII](https://www.govinfo.gov/link/plaw/109/public/59), §§ 7115(a)(1), (b)–(g), 7126, Aug. 10, 2005, [119 Stat. 1901](https://www.govinfo.gov/link/statute/119/1901), 1909; [Pub. L. 112–141, div. C, title III, § 33012(c)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 839](https://www.govinfo.gov/link/statute/126/839); [Pub. L. 114–94, div. A, title VII, § 7204](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1592](https://www.govinfo.gov/link/statute/129/1592).)*

@@ -3,9 +3,10 @@ title: "Section 3311 - Submittal to Congress by heads of elements of intelligenc
 usc_title: 50
 usc_section: "3311"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3311"
-generated_at: "2026-03-30T02:56:26.242Z"
+generated_at: "2026-11-23T21:26:39.030Z"
+status: "active"
 ---
 
 # § 3311. Submittal to Congress by heads of elements of intelligence community of plans for orderly shutdown in event of absence of appropriations
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:26.242Z"
   - **(1)** The Director of National Intelligence.
   - **(2)** The Director of the Central Intelligence Agency.
   - **(3)** Each head of each element of the intelligence community that is within the Department of Defense.
+
+## Source Credit
+
+*([Pub. L. 113–126, title III, § 323](https://www.govinfo.gov/link/plaw/113/public/126), July 7, 2014, [128 Stat. 1401](https://www.govinfo.gov/link/statute/128/1401).)*

@@ -3,9 +3,10 @@ title: "Section 1169 - Railroad tank car security testing"
 usc_title: 6
 usc_section: "1169"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1169"
-generated_at: "2026-03-30T02:53:09.507Z"
+generated_at: "2026-11-23T21:25:25.873Z"
+status: "active"
 ---
 
 # § 1169. Railroad tank car security testing
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:09.507Z"
   - **(3)** In conducting the dispersion modeling under paragraph (1), the Secretary shall consult with the Secretary of Transportation, hazardous materials experts, railroad carriers, nonprofit employee labor organizations representing railroad employees, appropriate State, local, and tribal officials, and other Federal agencies, as appropriate.
   - **(4)** Upon completion of the analysis required under paragraph (1), the Secretary shall share the information developed with the appropriate stakeholders, given appropriate information protection provisions as may be required by the Secretary.
   - **(5)** Not later than 30 days after completion of all dispersion analyses under paragraph (1), the Secretary shall submit to the appropriate congressional committees a report detailing the Secretary’s conclusions and findings in an appropriate format.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XV, § 1519](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 443](https://www.govinfo.gov/link/statute/121/443).)*

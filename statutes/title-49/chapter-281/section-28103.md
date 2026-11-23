@@ -3,9 +3,10 @@ title: "Section 28103 - Limitations on rail passenger transportation liability"
 usc_title: 49
 usc_section: "28103"
 chapter: 281
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 28103"
-generated_at: "2026-03-30T02:56:19.350Z"
+generated_at: "2026-11-23T21:26:40.752Z"
+status: "active"
 ---
 
 # § 28103. Limitations on rail passenger transportation liability
@@ -22,3 +23,17 @@ generated_at: "2026-03-30T02:56:19.350Z"
     - **(B)** against an officer, employee, affiliate engaged in railroad operations, or agent, of Amtrak, any high-speed railroad authority or operator, any commuter authority or operator, any rail carrier, or any State;
   - **(2)** the term “punitive damages” means damages awarded against any person or entity to punish or deter such person or entity, or others, from engaging in similar behavior in the future; and
   - **(3)** the term “rail carrier” includes a person providing excursion, scenic, or museum train service, and an owner or operator of a privately owned rail passenger car.
+
+Limitations
+
+Contractual Obligations
+
+Mandatory Coverage
+
+Effect on Other Laws
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 105–134, title I, § 161(a)](https://www.govinfo.gov/link/plaw/105/public/134), Dec. 2, 1997, [111 Stat. 2577](https://www.govinfo.gov/link/statute/111/2577).)*

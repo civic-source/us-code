@@ -3,9 +3,10 @@ title: "Section 2 - Reporting requirements"
 usc_title: 7
 usc_section: "2"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-30T02:53:42.254Z"
+generated_at: "2026-11-23T21:25:27.881Z"
+status: "active"
 ---
 
 # § 87f–2. Reporting requirements
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:42.254Z"
   - **(1)** data relating to testing for other intrinsic quality or food safety factors; and
   - **(2)** other data collected from inspection and weighing activities conducted under this chapter.
 - **(f)** Any trade secrets or information described in section 552(b)(4) of title 5 that is provided to or collected by the Secretary in carrying out subsection (d) or (e) shall not be included in a report under subsection (d) or (e) or otherwise publicly disclosed.
+
+## Source Credit
+
+*(Aug. 11, 1916, ch. 313, pt. B, § 17B, as added [Pub. L. 94–582, § 22](https://www.govinfo.gov/link/plaw/94/public/582), Oct. 21, 1976, [90 Stat. 2888](https://www.govinfo.gov/link/statute/90/2888); amended [Pub. L. 95–113, title XVI](https://www.govinfo.gov/link/plaw/95/public/113), §§ 1604(m), 1606(i), (j), Sept. 29, 1977, [91 Stat. 1029](https://www.govinfo.gov/link/statute/91/1029), 1030; [Pub. L. 102–237, title X, § 1007(3)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1897](https://www.govinfo.gov/link/statute/105/1897); [Pub. L. 103–354, title II, § 293(a)(7)](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3237](https://www.govinfo.gov/link/statute/108/3237); [Pub. L. 116–216, § 5](https://www.govinfo.gov/link/plaw/116/public/216), Dec. 11, 2020, [134 Stat. 1048](https://www.govinfo.gov/link/statute/134/1048).)*

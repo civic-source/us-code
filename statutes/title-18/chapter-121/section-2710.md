@@ -3,9 +3,10 @@ title: "Section 2710 - Wrongful disclosure of video tape rental or sale records"
 usc_title: 18
 usc_section: "2710"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2710"
-generated_at: "2026-03-30T02:54:16.508Z"
+generated_at: "2026-11-23T21:25:44.168Z"
+status: "active"
 ---
 
 # § 2710. Wrongful disclosure of video tape rental or sale records
@@ -46,3 +47,19 @@ generated_at: "2026-03-30T02:54:16.508Z"
 - **(d)** Personally identifiable information obtained in any manner other than as provided in this section shall not be received in evidence in any trial, hearing, arbitration, or other proceeding in or before any court, grand jury, department, officer, agency, regulatory body, legislative committee, or other authority of the United States, a State, or a political subdivision of a State.
 - **(e)** A person subject to this section shall destroy personally identifiable information as soon as practicable, but no later than one year from the date the information is no longer necessary for the purpose for which it was collected and there are no pending requests or orders for access to such information under subsection (b)(2) or (c)(2) or pursuant to a court order.
 - **(f)** The provisions of this section preempt only the provisions of State or local law that require disclosure prohibited by this section.
+
+Definitions
+
+Video Tape Rental and Sale Records
+
+Civil Action
+
+Personally Identifiable Information
+
+Destruction of Old Records
+
+Preemption
+
+## Source Credit
+
+*(Added [Pub. L. 100–618, § 2(a)(2)](https://www.govinfo.gov/link/plaw/100/public/618), Nov. 5, 1988, [102 Stat. 3195](https://www.govinfo.gov/link/statute/102/3195); amended [Pub. L. 112–258, § 2](https://www.govinfo.gov/link/plaw/112/public/258), Jan. 10, 2013, [126 Stat. 2414](https://www.govinfo.gov/link/statute/126/2414).)*

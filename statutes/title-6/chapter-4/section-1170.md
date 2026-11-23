@@ -3,9 +3,10 @@ title: "Section 1170 - Security background checks of covered individuals"
 usc_title: 6
 usc_section: "1170"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1170"
-generated_at: "2026-03-30T02:53:09.507Z"
+generated_at: "2026-11-23T21:25:25.873Z"
+status: "active"
 ---
 
 # § 1170. Security background checks of covered individuals
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:09.507Z"
 - **(f)** Nothing in this section shall be construed to abridge a railroad carrier’s or a contractor or subcontractor of a railroad carrier’s rights or responsibilities to make adverse employment decisions permitted by other Federal, State, or local laws. Nothing in the section shall be construed to abridge rights and responsibilities of covered individuals, a railroad carrier, or a contractor or subcontractor of a railroad carrier, under any other Federal, State, or local laws or under any collective bargaining agreement.
 - **(g)** Nothing in this section shall be construed to preempt a Federal, State, or local law that requires criminal history background checks, immigration status checks, or other background checks, of covered individuals.
 - **(h)** Nothing in this section shall be construed to affect the process for review established under section 70105(c) of title 46 , including regulations issued pursuant to such section.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XV, § 1522](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 448](https://www.govinfo.gov/link/statute/121/448).)*

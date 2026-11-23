@@ -3,9 +3,10 @@ title: "Section 90 - Georgia"
 usc_title: 28
 usc_section: "90"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 90"
-generated_at: "2026-03-30T02:55:30.122Z"
+generated_at: "2026-11-23T21:26:01.007Z"
+status: "active"
 ---
 
 # § 90. Georgia
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:30.122Z"
   - **(5)** The Brunswick Division comprises the counties of Appling, Camden, Glynn, Jeff Davis, Long, McIntosh, and Wayne. Court for the Brunswick Division shall be held at Brunswick.
   - **(6)** The Statesboro Division comprises the counties of Bulloch, Candler, Emanuel, Evans, Jenkins, Screven, Tattnall, and Toombs. Court for the Statesboro Division shall be held at Statesboro.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 876](https://www.govinfo.gov/link/statute/62/876); Aug. 16, 1949, ch. 444, [63 Stat. 610](https://www.govinfo.gov/link/statute/63/610); Oct. 31, 1951, ch. 655, § 36a, [65 Stat. 723](https://www.govinfo.gov/link/statute/65/723); [Pub. L. 98–620, title IV, § 408(a)](https://www.govinfo.gov/link/plaw/98/public/620) –(c), Nov. 8, 1984, [98 Stat. 3362](https://www.govinfo.gov/link/statute/98/3362); [Pub. L. 99–657, § 3](https://www.govinfo.gov/link/plaw/99/public/657), Nov. 14, 1986, [100 Stat. 3670](https://www.govinfo.gov/link/statute/100/3670).)*

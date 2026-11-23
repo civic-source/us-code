@@ -3,12 +3,17 @@ title: "Section 423g - Adjustment of water right charges as final adjudication o
 usc_title: 43
 usc_section: "423g"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 423g"
-generated_at: "2026-03-30T02:55:57.449Z"
+generated_at: "2026-11-23T21:26:19.779Z"
+status: "active"
 ---
 
 # § 423g. Adjustment of water right charges as final adjudication on projects and divisions named
 
 The adjustments under sections 1 to 40, inclusive, of the Act of Congress of May 25, 1926 , 44 Statutes 636, are declared to be an incident of the operation of the “reclamation law,” a final adjudication on the projects and divisions named in such sections under the authority contained in section 466 of this title , and shall not after May 25, 1926 , be construed to be the basis of reimbursement to the “reclamation fund” from the general fund of the Treasury or by the diversion to the “reclamation fund” of revenue of the United States not on May 25, 1926 , required by law to be credited to such “reclamation fund.”
 
+
+## Source Credit
+
+*(May 25, 1926, ch. 383, § 50, [44 Stat. 650](https://www.govinfo.gov/link/statute/44/650).)*

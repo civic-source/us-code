@@ -3,9 +3,10 @@ title: "Section 411 - Establishment of the Armed Forces Retirement Home"
 usc_title: 24
 usc_section: "411"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "24 U.S.C. § 411"
-generated_at: "2026-03-30T02:54:50.791Z"
+generated_at: "2026-11-23T21:25:53.412Z"
+status: "active"
 ---
 
 # § 411. Establishment of the Armed Forces Retirement Home
@@ -54,3 +55,19 @@ generated_at: "2026-03-30T02:54:50.791Z"
       - **(ii)** in the case of a lease involving the public benefit exception authorized by subparagraph (A)(ii), a description of the public benefit to be served by the lease.
   - **(7)** The proceeds from the lease of property under this subsection shall be deposited in the Armed Forces Retirement Home Trust Fund.
   - **(8)** The interest of a lessee of property leased under this subsection may be taxed by State or local governments. A lease under this subsection shall provide that, if and to the extent that the leased property is later made taxable by State or local governments under an Act of Congress, the lease shall be renegotiated.
+
+Agreements
+
+Approval and Notification
+
+Administration of Funds
+
+Agreement proceeds
+
+Fund uses
+
+Sunset
+
+## Source Credit
+
+*([Pub. L. 101–510, div. A, title XV, § 1511](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1723](https://www.govinfo.gov/link/statute/104/1723); [Pub. L. 103–160, div. A, title III, § 366(a)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1630](https://www.govinfo.gov/link/statute/107/1630); [Pub. L. 107–107, div. A, title XIV, § 1403](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1258](https://www.govinfo.gov/link/statute/115/1258); [Pub. L. 110–181, div. A, title XIV, § 1422(a)](https://www.govinfo.gov/link/plaw/110/public/181), (b), Jan. 28, 2008, [122 Stat. 420](https://www.govinfo.gov/link/statute/122/420); [Pub. L. 111–84, div. B, title XXVIII, § 2823](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2666](https://www.govinfo.gov/link/statute/123/2666); [Pub. L. 111–383, div. B, title XXVIII, § 2813(b)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4463](https://www.govinfo.gov/link/statute/124/4463); [Pub. L. 112–81, div. A, title V](https://www.govinfo.gov/link/plaw/112/public/81), §§ 561, 564(b)(1), Dec. 31, 2011, [125 Stat. 1420](https://www.govinfo.gov/link/statute/125/1420), 1424; [Pub. L. 112–239, div. A, title X, § 1076(j)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1955](https://www.govinfo.gov/link/statute/126/1955); [Pub. L. 115–91, div. B, title XXVIII, § 2873](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1870](https://www.govinfo.gov/link/statute/131/1870).)*

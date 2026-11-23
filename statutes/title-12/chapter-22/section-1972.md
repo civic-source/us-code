@@ -3,9 +3,10 @@ title: "Section 1972 - Certain tying arrangements prohibited; correspondent acco
 usc_title: 12
 usc_section: "1972"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1972"
-generated_at: "2026-03-30T02:53:53.470Z"
+generated_at: "2026-11-23T21:25:37.048Z"
+status: "active"
 ---
 
 # § 1972. Certain tying arrangements prohibited; correspondent accounts
@@ -46,3 +47,51 @@ generated_at: "2026-03-30T02:53:53.470Z"
       - **(ii)** the term “related interests of such persons” includes any company controlled by such executive officer, director, or person, or any political or campaign committee the funds or services of which will benefit such executive officer, director, or person or which is controlled by such executive officer, director, or person; and
       - **(iii)** the terms “control of a company” and “company” have the same meaning as under section 375b of this title .
     - **(H)** The resignation, termination of employment or participation, or separation of an institution-affiliated party (within the meaning of section 1813(u) of this title ) with respect to such a bank (including a separation caused by the closing of such a bank) shall not affect the jurisdiction and authority of the appropriate Federal banking agency to issue any notice and proceed under this section against any such party, if such notice is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such bank (whether such date occurs before, on, or after August 9, 1989 ).
+
+Civil money penalty.—
+
+First tier
+
+Second tier
+
+(aa) commits any violation described in clause (i);
+
+(bb) recklessly engages in an unsafe or unsound practice in conducting the affairs of such bank; or
+
+(cc) breaches any fiduciary duty;
+
+(aa) is part of a pattern of misconduct;
+
+(bb) causes or is likely to cause more than a minimal loss to such bank; or
+
+(cc) results in pecuniary gain or other benefit to such party,
+
+Third tier
+
+(aa) commits any violation described in clause (i);
+
+(bb) engages in any unsafe or unsound practice in conducting the affairs of such bank; or
+
+(cc) breaches any fiduciary duty; and
+
+Maximum amounts of penalties for any violation described in clause
+
+(aa) $1,000,000; or
+
+(bb) 1 percent of the total assets of such bank.
+
+Assessment; etc
+
+Hearing
+
+Disbursement
+
+“Violate” defined
+
+Regulations
+
+Notice Under This Section After Separation From Service
+
+## Source Credit
+
+*([Pub. L. 91–607, title I, § 106(b)](https://www.govinfo.gov/link/plaw/91/public/607), Dec. 31, 1970, [84 Stat. 1766](https://www.govinfo.gov/link/statute/84/1766); [Pub. L. 95–630, title VIII, § 801](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3690](https://www.govinfo.gov/link/statute/92/3690); [Pub. L. 97–320, title IV](https://www.govinfo.gov/link/plaw/97/public/320), §§ 410(f), 424(c), (d)(11), (e), 428, Oct. 15, 1982, [96 Stat. 1520](https://www.govinfo.gov/link/statute/96/1520), 1523, 1526; [Pub. L. 101–73, title IX](https://www.govinfo.gov/link/plaw/101/public/73), §§ 905(h), 907(i), Aug. 9, 1989, [103 Stat. 461](https://www.govinfo.gov/link/statute/103/461), 473; [Pub. L. 102–242, title III, § 306(j)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2359](https://www.govinfo.gov/link/statute/105/2359); [Pub. L. 104–208, div. A, title II, § 2216(a)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–413](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 109–351, title VI, § 601(b)](https://www.govinfo.gov/link/plaw/109/public/351), Oct. 13, 2006, [120 Stat. 1978](https://www.govinfo.gov/link/statute/120/1978); [Pub. L. 111–203, title III, § 355](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1547](https://www.govinfo.gov/link/statute/124/1547).)*

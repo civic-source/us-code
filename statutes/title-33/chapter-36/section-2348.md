@@ -3,9 +3,10 @@ title: "Section 2348 - Project acceleration"
 usc_title: 33
 usc_section: "2348"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2348"
-generated_at: "2026-03-30T02:55:41.127Z"
+generated_at: "2026-11-23T21:26:11.453Z"
+status: "active"
 ---
 
 # § 2348. Project acceleration
@@ -210,3 +211,13 @@ generated_at: "2026-03-30T02:55:41.127Z"
     - **(C)** the environmental impact of projects.
 - **(n)** The Secretary shall establish a program to measure and report on progress made toward improving and expediting the planning and environmental review process.
 - **(o)** The Secretary shall prepare, in consultation with the Council on Environmental Quality and other Federal agencies with jurisdiction over actions or resources that may be impacted by a project, guidance documents that describe the coordinated environmental review processes that the Secretary intends to use to implement this section for the planning of projects, in accordance with the civil works program of the Corps of Engineers and all applicable law.
+
+(aa) the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.);
+
+(bb) any regulation implementing that Act; and
+
+(cc) any other applicable Federal law; and
+
+## Source Credit
+
+*([Pub. L. 110–114, title II, § 2045](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1103](https://www.govinfo.gov/link/statute/121/1103); [Pub. L. 113–121, title I, § 1005(a)(1)](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1199](https://www.govinfo.gov/link/statute/128/1199).)*

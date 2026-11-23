@@ -3,9 +3,10 @@ title: "Section 15701 - Findings"
 usc_title: 42
 usc_section: "15701"
 chapter: 148
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15701"
-generated_at: "2026-03-30T02:56:11.460Z"
+generated_at: "2026-11-23T21:26:33.672Z"
+status: "active"
 ---
 
 # § 15701. Findings
@@ -21,3 +22,7 @@ The Congress finds the following:
     - **(D)** engineering research on improving new structures and retrofitting existing ones to better withstand windstorms, atmospheric-related research to better understand the behavior and impact of windstorms on the built environment, and subsequent application of those research results; and
     - **(E)** public education and outreach.
   - **(4)** There is an appropriate role for the Federal Government in supporting windstorm impact reduction. An effective Federal program in windstorm impact reduction will require interagency coordination, and input from individuals, academia, the private sector, and other interested non-Federal entities.
+
+## Source Credit
+
+*([Pub. L. 108–360, title II, § 202](https://www.govinfo.gov/link/plaw/108/public/360), Oct. 25, 2004, [118 Stat. 1675](https://www.govinfo.gov/link/statute/118/1675).)*

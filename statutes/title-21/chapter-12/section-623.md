@@ -3,9 +3,10 @@ title: "Section 623 - Exemptions from inspection requirements"
 usc_title: 21
 usc_section: "623"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 623"
-generated_at: "2026-03-30T02:54:54.288Z"
+generated_at: "2026-11-23T21:25:56.212Z"
+status: "active"
 ---
 
 # § 623. Exemptions from inspection requirements
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:54.288Z"
     - **(B)** the pizzas are to be served in public or private nonprofit institutions.
   - **(2)** The Secretary may withdraw or modify any exemption under this subsection whenever the Secretary determines such action is necessary to ensure food safety and to protect public health. The Secretary may reinstate or further modify any exemption withdrawn or modified under this subsection.
 - **(d)** The adulteration and misbranding provisions of this subchapter, other than the requirement of the inspection legend, shall apply to articles which are exempted from inspection or not required to be inspected under this section.
+
+## Source Credit
+
+*(Mar. 4, 1907, ch. 2907, title I, § 23, formerly 21st, 22nd pars., [34 Stat. 1265](https://www.govinfo.gov/link/statute/34/1265); June 29, 1938, ch. 810, [52 Stat. 1235](https://www.govinfo.gov/link/statute/52/1235); renumbered § 23 and amended [Pub. L. 90–201](https://www.govinfo.gov/link/plaw/90/public/201), §§ 1, 11, Dec. 15, 1967, [81 Stat. 584](https://www.govinfo.gov/link/statute/81/584), 591; [Pub. L. 91–342](https://www.govinfo.gov/link/plaw/91/public/342), July 18, 1970, [84 Stat. 438](https://www.govinfo.gov/link/statute/84/438); [Pub. L. 102–237, title X, § 1016(a)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1902](https://www.govinfo.gov/link/statute/105/1902).)*

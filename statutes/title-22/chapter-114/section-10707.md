@@ -3,9 +3,10 @@ title: "Section 10707 - Young Balkan Leaders Initiative"
 usc_title: 22
 usc_section: "10707"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10707"
-generated_at: "2026-03-30T02:55:05.480Z"
+generated_at: "2026-11-23T21:25:58.803Z"
+status: "active"
 ---
 
 # § 10707. Young Balkan Leaders Initiative
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.480Z"
   - **(3)** have had a positive impact in their communities, organizations, or institutions, including by promoting cross-regional and multiethnic cooperation; and
   - **(4)** represent a cross-section of the country’s demographics.
 - **(e)** Not later than 180 days after December 18, 2025 , the Secretary of State shall provide a briefing to the appropriate committees of Congress that describes the status of exchange programs involving the Western Balkans region.
+
+## Source Credit
+
+*([Pub. L. 119–60, div. H, title LXXXIII, § 8338](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1875](https://www.govinfo.gov/link/statute/139/1875).)*

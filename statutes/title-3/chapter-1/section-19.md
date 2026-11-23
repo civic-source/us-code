@@ -3,9 +3,10 @@ title: "Section 19 - Vacancy in offices of both President and Vice President; of
 usc_title: 3
 usc_section: "19"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "3 U.S.C. § 19"
-generated_at: "2026-03-30T02:52:49.877Z"
+generated_at: "2026-11-23T21:25:20.080Z"
+status: "active"
 ---
 
 # § 19. Vacancy in offices of both President and Vice President; officers eligible to act
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:52:49.877Z"
   - **(3)** The taking of the oath of office by an individual specified in the list in paragraph (1) of this subsection shall be held to constitute his resignation from the office by virtue of the holding of which he qualifies to act as President.
 - **(e)** Subsections (a), (b), and (d) of this section shall apply only to such officers as are eligible to the office of President under the Constitution. Subsection (d) of this section shall apply only to officers appointed, by and with the advice and consent of the Senate, prior to the time of the death, resignation, removal from office, inability, or failure to qualify, of the President pro tempore, and only to officers not under impeachment by the House of Representatives at the time the powers and duties of the office of President devolve upon them.
 - **(f)** During the period that any individual acts as President under this section, his compensation shall be at the rate then provided by law in the case of the President.
+
+## Source Credit
+
+*(June 25, 1948, ch. 644, [62 Stat. 677](https://www.govinfo.gov/link/statute/62/677); [Pub. L. 89–174, § 6(a)](https://www.govinfo.gov/link/plaw/89/public/174), Sept. 9, 1965, [79 Stat. 669](https://www.govinfo.gov/link/statute/79/669); [Pub. L. 89–670, § 10(a)](https://www.govinfo.gov/link/plaw/89/public/670), Oct. 15, 1966, [80 Stat. 948](https://www.govinfo.gov/link/statute/80/948); [Pub. L. 91–375, § 6(b)](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 775](https://www.govinfo.gov/link/statute/84/775); [Pub. L. 95–91, title VII, § 709(g)](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 609](https://www.govinfo.gov/link/statute/91/609); [Pub. L. 96–88, title V, § 508(a)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 692](https://www.govinfo.gov/link/statute/93/692); [Pub. L. 100–527, § 13(a)](https://www.govinfo.gov/link/plaw/100/public/527), Oct. 25, 1988, [102 Stat. 2643](https://www.govinfo.gov/link/statute/102/2643); [Pub. L. 109–177, title V, § 503](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 247](https://www.govinfo.gov/link/statute/120/247).)*

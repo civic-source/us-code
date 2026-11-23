@@ -3,9 +3,10 @@ title: "Section 8834 - Price support loans and price guarantees"
 usc_title: 42
 usc_section: "8834"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8834"
-generated_at: "2026-03-30T02:56:11.348Z"
+generated_at: "2026-11-23T21:26:33.220Z"
+status: "active"
 ---
 
 # § 8834. Price support loans and price guarantees
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:56:11.348Z"
   - **(5)** The term “cost of the fuel displaced” means the cost of the fuel (per million Btu’s) which the purchaser of biomass energy would have purchased if the biomass energy had not been available for sale to that purchaser.
   - **(6)** Any biomass energy produced by a municipal waste energy project which may be retained for use by the owner or operator of such project shall be considered to be sold at such price as the Secretary of Energy determines.
   - **(7)** Not later than 90 days after June 30, 1980 , the Secretary of Energy shall prescribe, by rule, the manner of determining the fuel displaced by the sale of any biomass energy, and the price of the fuel displaced.
+
+## Source Credit
+
+*([Pub. L. 96–294, title II, § 234](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 699](https://www.govinfo.gov/link/statute/94/699).)*

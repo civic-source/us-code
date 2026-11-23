@@ -3,9 +3,10 @@ title: "Section 15971 - Integrated coal/renewable energy system"
 usc_title: 42
 usc_section: "15971"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15971"
-generated_at: "2026-03-30T02:56:11.466Z"
+generated_at: "2026-11-23T21:26:33.689Z"
+status: "active"
 ---
 
 # § 15971. Integrated coal/renewable energy system
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.466Z"
 - **(d)**
   - **(1)** The loan guarantees provided under this section do not preclude the facility from receiving an allocation for investment tax credits under section 48A of title 26 .
   - **(2)** Use of the investment tax credit described in paragraph (1) does not prohibit the use of other clean coal program funding.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IV, § 411](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 754](https://www.govinfo.gov/link/statute/119/754).)*

@@ -3,9 +3,10 @@ title: "Section 16524 - Study on the benefits of economic dispatch"
 usc_title: 42
 usc_section: "16524"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16524"
-generated_at: "2026-03-30T02:56:11.488Z"
+generated_at: "2026-11-23T21:26:33.748Z"
+status: "active"
 ---
 
 # § 16524. Study on the benefits of economic dispatch
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.488Z"
   - **(3)** the potential benefits to residential, commercial, and industrial electricity consumers nationally and in each state 1 1 So in original. Probably should be capitalized. if economic dispatch procedures were revised to improve the ability of nonutility generation resources to offer their output for inclusion in economic dispatch.
 - **(b)** The term “economic dispatch” when used in this section means the operation of generation facilities to produce energy at the lowest cost to reliably serve consumers, recognizing any operational limits of generation and transmission facilities.
 - **(c)** Not later than 90 days after August 8, 2005 , and on a yearly basis following, the Secretary shall submit a report to Congress and the States on the results of the study conducted under subsection (a), including recommendations to Congress and the States for any suggested legislative or regulatory changes.
+
+## Source Credit
+
+*([Pub. L. 109–58, title XVIII, § 1832](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1138](https://www.govinfo.gov/link/statute/119/1138).)*

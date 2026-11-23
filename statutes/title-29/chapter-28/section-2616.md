@@ -3,9 +3,10 @@ title: "Section 2616 - Investigative authority"
 usc_title: 29
 usc_section: "2616"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 2616"
-generated_at: "2026-03-30T02:55:18.745Z"
+generated_at: "2026-11-23T21:26:02.316Z"
+status: "active"
 ---
 
 # § 2616. Investigative authority
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:18.745Z"
 - **(b)** Any employer shall make, keep, and preserve records pertaining to compliance with this subchapter in accordance with section 211(c) of this title and in accordance with regulations issued by the Secretary.
 - **(c)** The Secretary shall not under the authority of this section require any employer or any plan, fund, or program to submit to the Secretary any books or records more than once during any 12-month period, unless the Secretary has reasonable cause to believe there may exist a violation of this subchapter or any regulation or order issued pursuant to this subchapter, or is investigating a charge pursuant to section 2617(b) of this title .
 - **(d)** For the purposes of any investigation provided for in this section, the Secretary shall have the subpoena authority provided for under section 209 of this title .
+
+## Source Credit
+
+*([Pub. L. 103–3, title I, § 106](https://www.govinfo.gov/link/plaw/103/public/3), Feb. 5, 1993, [107 Stat. 15](https://www.govinfo.gov/link/statute/107/15).)*

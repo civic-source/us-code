@@ -3,9 +3,10 @@ title: "Section 25 - Organizational and financial requirements for Medicare+Choi
 usc_title: 42
 usc_section: "25"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 25"
-generated_at: "2026-03-30T02:56:10.978Z"
+generated_at: "2026-11-23T21:26:31.544Z"
+status: "active"
 ---
 
 # § 1395w–25. Organizational and financial requirements for Medicare+Choice organizations; provider-sponsored organizations
@@ -67,3 +68,7 @@ generated_at: "2026-03-30T02:56:10.978Z"
     - **(A)** any individual who is engaged in the delivery of health care services in a State and who is required by State law or regulation to be licensed or certified by the State to engage in the delivery of such services in the State, and
     - **(B)** any entity that is engaged in the delivery of health care services in a State and that, if it is required by State law or regulation to be licensed or certified by the State to engage in the delivery of such services in the State, is so licensed.
   - **(6)** The Secretary shall issue regulations to carry out this subsection.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1855, as added [Pub. L. 105–33, title IV, § 4001](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 312](https://www.govinfo.gov/link/statute/111/312).)*

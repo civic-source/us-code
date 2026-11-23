@@ -3,12 +3,17 @@ title: "Section 188 - Rules and regulations, delegation of power"
 usc_title: 35
 usc_section: "188"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "35 U.S.C. § 188"
-generated_at: "2026-03-30T02:55:34.238Z"
+generated_at: "2026-11-23T21:26:08.616Z"
+status: "active"
 ---
 
 # § 188. Rules and regulations, delegation of power
 
 The Atomic Energy Commission, the Secretary of a defense department, the chief officer of any other department or agency of the Government designated by the President as a defense agency of the United States, and the Secretary of Commerce, may separately issue rules and regulations to enable the respective department or agency to carry out the provisions of this chapter, and may delegate any power conferred by this chapter.
 
+
+## Source Credit
+
+*(July 19, 1952, ch. 950, [66 Stat. 808](https://www.govinfo.gov/link/statute/66/808).)*

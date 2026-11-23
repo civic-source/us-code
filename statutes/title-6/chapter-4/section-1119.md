@@ -3,9 +3,10 @@ title: "Section 1119 - Voluntary use of credentialing"
 usc_title: 6
 usc_section: "1119"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1119"
-generated_at: "2026-03-30T02:53:09.504Z"
+generated_at: "2026-11-23T21:25:25.865Z"
+status: "active"
 ---
 
 # § 1119. Voluntary use of credentialing
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:09.504Z"
     - **(B)** not expired;
     - **(C)** shows 2 2 So in original. no signs of tampering; and
     - **(D)** bears 2 a photograph of the individual representing such card.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. K, title I, § 1977](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3617](https://www.govinfo.gov/link/statute/132/3617).)*

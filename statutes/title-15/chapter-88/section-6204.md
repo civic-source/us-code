@@ -3,9 +3,10 @@ title: "Section 6204 - Limitations on authority"
 usc_title: 15
 usc_section: "6204"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6204"
-generated_at: "2026-03-30T02:54:08.209Z"
+generated_at: "2026-11-23T21:25:40.019Z"
+status: "active"
 ---
 
 # § 6204. Limitations on authority
@@ -20,3 +21,7 @@ Sections 6201, 6202, and 6203 of this title shall not apply with respect to the 
     - **(A)** that is classified pursuant to such order or such successor, or
     - **(B)** with respect to which a determination of classification is pending under such order or such successor.
   - **(4)** Antitrust evidence that is classified under section 2162 of title 42 .
+
+## Source Credit
+
+*([Pub. L. 103–438, § 5](https://www.govinfo.gov/link/plaw/103/public/438), Nov. 2, 1994, [108 Stat. 4599](https://www.govinfo.gov/link/statute/108/4599).)*

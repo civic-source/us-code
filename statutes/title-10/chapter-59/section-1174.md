@@ -3,9 +3,10 @@ title: "Section 1174 - Separation pay upon involuntary discharge or release from
 usc_title: 10
 usc_section: "1174"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1174"
-generated_at: "2026-03-30T02:53:38.113Z"
+generated_at: "2026-11-23T21:25:32.440Z"
+status: "active"
 ---
 
 # § 1174. Separation pay upon involuntary discharge or release from active duty
@@ -55,3 +56,27 @@ generated_at: "2026-03-30T02:53:38.113Z"
 - **(j)**
   - **(1)** The Secretary of Defense shall prescribe regulations, which shall be uniform for the Army, Navy, Air Force, Marine Corps, and Space Force, for the administration of this section.
   - **(2)** Active commissioned service in the National Oceanic and Atmospheric Administration or the Public Health Service shall be credited as active service in the armed forces for the purposes of this section.
+
+Regular Officers
+
+Regular Enlisted Members
+
+Other Members
+
+Amount of Separation Pay
+
+Requirement for Service in Ready Reserve; Exceptions To Eligibility
+
+Counting Fractional Years of Service
+
+Coordination With Other Separation or Severance Pay Benefits
+
+Coordination With Retired or Retainer Pay and Disability Compensation
+
+Special Rule for Members Receiving Sole Survivorship Discharge
+
+Regulations; Crediting of Other Commissioned Service
+
+## Source Credit
+
+*(Added [Pub. L. 96–513, title I, § 109(c)](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2870](https://www.govinfo.gov/link/statute/94/2870); amended [Pub. L. 97–22, § 10(b)(10)(A)](https://www.govinfo.gov/link/plaw/97/public/22), July 10, 1981, [95 Stat. 137](https://www.govinfo.gov/link/statute/95/137); [Pub. L. 98–94, title IX](https://www.govinfo.gov/link/plaw/98/public/94), §§ 911(a), (b), 923(b), title X, § 1007(c)(2), Sept. 24, 1983, [97 Stat. 639](https://www.govinfo.gov/link/statute/97/639), 640, 643, 662; [Pub. L. 98–498, title III, § 320(a)(2)](https://www.govinfo.gov/link/plaw/98/public/498), Oct. 19, 1984, [98 Stat. 2308](https://www.govinfo.gov/link/statute/98/2308); [Pub. L. 101–189, div. A, title XVI, § 1621(a)(1)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1602](https://www.govinfo.gov/link/statute/103/1602); [Pub. L. 101–510, div. A, title V, § 501(a)](https://www.govinfo.gov/link/plaw/101/public/510) –(d), (g), (h), Nov. 5, 1990, [104 Stat. 1549–1551](https://www.govinfo.gov/link/statute/104/1549); [Pub. L. 102–190, div. A, title XI, § 1131(6)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1506](https://www.govinfo.gov/link/statute/105/1506); [Pub. L. 103–160, div. A, title V, § 501(a)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1644](https://www.govinfo.gov/link/statute/107/1644); [Pub. L. 103–337, div. A, title V, § 560(c)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2778](https://www.govinfo.gov/link/statute/108/2778); [Pub. L. 104–201, div. A, title VI, § 653(a)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2583](https://www.govinfo.gov/link/statute/110/2583); [Pub. L. 105–85, div. A, title X, § 1073(a)(22)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1901](https://www.govinfo.gov/link/statute/111/1901); [Pub. L. 105–261, div. A, title V, § 502(a)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2003](https://www.govinfo.gov/link/statute/112/2003); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title V, § 508(a), (b)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–107; [Pub. L. 108–375, div. A, title V, § 501(c)(2)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1874](https://www.govinfo.gov/link/statute/118/1874); [Pub. L. 110–317, § 3](https://www.govinfo.gov/link/plaw/110/public/317), Aug. 29, 2008, [122 Stat. 3527](https://www.govinfo.gov/link/statute/122/3527); [Pub. L. 111–32, title III, § 318(a)](https://www.govinfo.gov/link/plaw/111/public/32), June 24, 2009, [123 Stat. 1873](https://www.govinfo.gov/link/statute/123/1873); [Pub. L. 111–383, div. A, title X, § 1075(b)(17)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4370](https://www.govinfo.gov/link/statute/124/4370); [Pub. L. 115–232, div. A, title VIII, § 809(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1840](https://www.govinfo.gov/link/statute/132/1840); [Pub. L. 116–283, div. A, title IX, § 924(b)(1)(K)](https://www.govinfo.gov/link/plaw/116/public/283), (3)(S), Jan. 1, 2021, [134 Stat. 3820](https://www.govinfo.gov/link/statute/134/3820), 3821; [Pub. L. 118–31, div. A, title XVII, § 1722(i)(2)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 673](https://www.govinfo.gov/link/statute/137/673).)*

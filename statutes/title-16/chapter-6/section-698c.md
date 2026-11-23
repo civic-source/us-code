@@ -3,9 +3,10 @@ title: "Section 698c - Administration of Big Thicket Preserve"
 usc_title: 16
 usc_section: "698c"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 698c"
-generated_at: "2026-03-30T02:54:22.897Z"
+generated_at: "2026-11-23T21:25:51.726Z"
+status: "active"
 ---
 
 # § 698c. Administration of Big Thicket Preserve
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:22.897Z"
   - **(4)** grazing and agriculture; and
   - **(5)** such other uses as the Secretary determines must be limited or controlled in order to carry out the purposes of sections 698 to 698e of this title.
 - **(c)** The Secretary shall permit hunting, fishing, and trapping on lands and waters under his jurisdiction within the preserve in accordance with the applicable laws of the United States and the State of Texas, except that he may designate zones where and periods when, no hunting, fishing, trapping, or entry may be permitted for reasons of public safety, administration, floral and faunal protection and management, or public use and enjoyment. Except in emergencies, any regulations prescribing such restrictions relating to hunting, fishing, or trapping shall be put into effect only after consultation with the appropriate State agency having jurisdiction over hunting, fishing and trapping activities.
+
+## Source Credit
+
+*([Pub. L. 93–439, § 4](https://www.govinfo.gov/link/plaw/93/public/439), Oct. 11, 1974, [88 Stat. 1257](https://www.govinfo.gov/link/statute/88/1257).)*

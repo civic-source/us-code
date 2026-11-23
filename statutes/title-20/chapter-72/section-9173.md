@@ -3,9 +3,10 @@ title: "Section 9173 - Museum services activities"
 usc_title: 20
 usc_section: "9173"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9173"
-generated_at: "2026-03-30T02:54:48.225Z"
+generated_at: "2026-11-23T21:25:47.650Z"
+status: "active"
 ---
 
 # § 9173. Museum services activities
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:54:48.225Z"
     - **(A)** The Director may use not more than 10 percent of the funds appropriated to carry out this subchapter for technical assistance.
     - **(B)** Individual museums may receive not more than 3 technical assistance awards under subparagraph (A). Subsequent awards for technical assistance shall be subject to review outside the Institute.
 - **(d)** From amounts appropriated under section 9176 of this title , the Director shall reserve 2.25 percent to award grants to, or enter into contracts or cooperative agreements with, Indian tribes and organizations that primarily serve and represent Native Hawaiians (as defined in section 7517 of this title ), to enable such tribes and organizations to carry out the activities described in subsection (a).
+
+## Source Credit
+
+*([Pub. L. 94–462, title II, § 274](https://www.govinfo.gov/link/plaw/94/public/462), formerly § 273, as added [Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–233](https://www.govinfo.gov/link/statute/110/3009), 3009–303; renumbered § 274 and amended [Pub. L. 108–81, title III](https://www.govinfo.gov/link/plaw/108/public/81), §§ 303, 306(1), Sept. 25, 2003, [117 Stat. 1000](https://www.govinfo.gov/link/statute/117/1000), 1002; [Pub. L. 111–340, title III, § 303](https://www.govinfo.gov/link/plaw/111/public/340), Dec. 22, 2010, [124 Stat. 3603](https://www.govinfo.gov/link/statute/124/3603); [Pub. L. 114–95, title IX, § 9215(aaa)(4)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2184](https://www.govinfo.gov/link/statute/129/2184); [Pub. L. 115–410, § 18](https://www.govinfo.gov/link/plaw/115/public/410), Dec. 31, 2018, [132 Stat. 5420](https://www.govinfo.gov/link/statute/132/5420).)*

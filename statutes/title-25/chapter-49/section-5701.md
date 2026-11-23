@@ -3,9 +3,10 @@ title: "Section 5701 - Purposes"
 usc_title: 25
 usc_section: "5701"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5701"
-generated_at: "2026-03-30T02:54:52.873Z"
+generated_at: "2026-11-23T21:25:54.739Z"
+status: "active"
 ---
 
 # § 5701. Purposes
@@ -16,3 +17,7 @@ The purposes of this chapter are—
   - **(2)** to increase coordination and communication among Federal, State, Tribal, and local law enforcement agencies, including medical examiner and coroner offices;
   - **(3)** to empower Tribal governments with the resources and information necessary to effectively respond to cases of missing or murdered Indians; and
   - **(4)** to increase the collection of data related to missing or murdered Indian men, women, and children, regardless of where they reside, and the sharing of information among Federal, State, and Tribal officials responsible for responding to and investigating cases of missing or murdered Indians.
+
+## Source Credit
+
+*([Pub. L. 116–165, § 2](https://www.govinfo.gov/link/plaw/116/public/165), Oct. 10, 2020, [134 Stat. 760](https://www.govinfo.gov/link/statute/134/760).)*

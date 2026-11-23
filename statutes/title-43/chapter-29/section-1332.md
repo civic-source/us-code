@@ -3,9 +3,10 @@ title: "Section 1332 - Congressional declaration of policy"
 usc_title: 43
 usc_section: "1332"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1332"
-generated_at: "2026-03-30T02:55:57.469Z"
+generated_at: "2026-11-23T21:26:19.828Z"
+status: "active"
 ---
 
 # § 1332. Congressional declaration of policy
@@ -21,3 +22,7 @@ It is hereby declared to be the policy of the United States that—
     - **(C)** such States, and through such States, affected local governments, are entitled to an opportunity to participate, to the extent consistent with the national interest, in the policy and planning decisions made by the Federal Government relating to exploration for, and development and production of, minerals of the outer Continental Shelf. 1 1 So in original. The period probably should be a semicolon.
   - **(5)** the rights and responsibilities of all States and, where appropriate, local governments, to preserve and protect their marine, human, and coastal environments through such means as regulation of land, air, and water uses, of safety, and of related development and activity should be considered and recognized; and
   - **(6)** operations in the outer Continental Shelf should be conducted in a safe manner by well-trained personnel using technology, precautions, and techniques sufficient to prevent or minimize the likelihood of blowouts, loss of well control, fires, spillages, physical obstruction to other users of the waters or subsoil and seabed, or other occurrences which may cause damage to the environment or to property, or endanger life or health.
+
+## Source Credit
+
+*(Aug. 7, 1953, ch. 345, § 3, [67 Stat. 462](https://www.govinfo.gov/link/statute/67/462); [Pub. L. 95–372, title II, § 202](https://www.govinfo.gov/link/plaw/95/public/372), Sept. 18, 1978, [92 Stat. 634](https://www.govinfo.gov/link/statute/92/634); [Pub. L. 99–272, title VIII, § 8002](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 148](https://www.govinfo.gov/link/statute/100/148).)*

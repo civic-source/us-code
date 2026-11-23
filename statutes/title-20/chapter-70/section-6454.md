@@ -3,9 +3,10 @@ title: "Section 6454 - Uses of funds"
 usc_title: 20
 usc_section: "6454"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6454"
-generated_at: "2026-03-30T02:54:48.199Z"
+generated_at: "2026-11-23T21:25:47.517Z"
+status: "active"
 ---
 
 # § 6454. Uses of funds
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:48.199Z"
   - **(6)** programs for at-risk Indian children and youth, including such children and youth in correctional facilities in the area served by the local educational agency that are operated by the Secretary of the Interior or Indian tribes; and
   - **(7)** pay for success initiatives.
 - **(b)** A local educational agency may use a subgrant received under this subpart to carry out the activities described under paragraphs (1) through (7) of subsection (a) directly or through subgrants, contracts, or cooperative agreements.
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1424](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1589](https://www.govinfo.gov/link/statute/115/1589); amended [Pub. L. 114–95, title I, § 1401(11)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1904](https://www.govinfo.gov/link/statute/129/1904).)*

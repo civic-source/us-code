@@ -3,9 +3,10 @@ title: "Section 15009 - Rights of individuals with developmental disabilities"
 usc_title: 42
 usc_section: "15009"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15009"
-generated_at: "2026-03-30T02:56:11.454Z"
+generated_at: "2026-11-23T21:26:33.651Z"
+status: "active"
 ---
 
 # § 15009. Rights of individuals with developmental disabilities
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.454Z"
         - **(III)** the facilities of such programs provide for the humane care of the residents of the facilities, are sanitary, and protect their rights; and
       - **(iii)** in the case of nonresidential programs, that assure that the care provided by such programs is appropriate to the individuals served by the programs.
 - **(b)** The rights of individuals with developmental disabilities described in findings made in this section shall be considered to be in addition to any constitutional or other rights otherwise afforded to all individuals.
+
+## Source Credit
+
+*([Pub. L. 106–402, title I, § 109](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1692](https://www.govinfo.gov/link/statute/114/1692).)*

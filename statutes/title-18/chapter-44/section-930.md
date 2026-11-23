@@ -3,9 +3,10 @@ title: "Section 930 - Possession of firearms and dangerous weapons in Federal fa
 usc_title: 18
 usc_section: "930"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 930"
-generated_at: "2026-03-30T02:54:16.476Z"
+generated_at: "2026-11-23T21:25:44.018Z"
+status: "active"
 ---
 
 # § 930. Possession of firearms and dangerous weapons in Federal facilities
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:16.476Z"
   - **(2)** The term “dangerous weapon” means a weapon, device, instrument, material, or substance, animate or inanimate, that is used for, or is readily capable of, causing death or serious bodily injury, except that such term does not include a pocket knife with a blade of less than 2½ inches in length.
   - **(3)** The term “Federal court facility” means the courtroom, judges’ chambers, witness rooms, jury deliberation rooms, attorney conference rooms, prisoner holding cells, offices of the court clerks, the United States attorney, and the United States marshal, probation and parole offices, and adjoining corridors of any court of the United States.
 - **(h)** Notice of the provisions of subsections (a) and (b) shall be posted conspicuously at each public entrance to each Federal facility, and notice of subsection (e) shall be posted conspicuously at each public entrance to each Federal court facility, and no person shall be convicted of an offense under subsection (a) or (e) with respect to a Federal facility if such notice is not so posted at such facility, unless such person had actual notice of subsection (a) or (e), as the case may be.
+
+## Source Credit
+
+*(Added [Pub. L. 100–690, title VI, § 6215(a)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4361](https://www.govinfo.gov/link/statute/102/4361); amended [Pub. L. 101–647, title XXII, § 2205(a)](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4857](https://www.govinfo.gov/link/statute/104/4857); [Pub. L. 103–322, title VI, § 60014](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1973](https://www.govinfo.gov/link/statute/108/1973); [Pub. L. 104–294, title VI, § 603(t)](https://www.govinfo.gov/link/plaw/104/public/294), (u), Oct. 11, 1996, [110 Stat. 3506](https://www.govinfo.gov/link/statute/110/3506); [Pub. L. 107–56, title VIII, § 811(b)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 381](https://www.govinfo.gov/link/statute/115/381); [Pub. L. 110–177, title II, § 203](https://www.govinfo.gov/link/plaw/110/public/177), Jan. 7, 2008, [121 Stat. 2537](https://www.govinfo.gov/link/statute/121/2537).)*

@@ -3,9 +3,10 @@ title: "Section 4515 - Administration of dispute settlement proceedings"
 usc_title: 19
 usc_section: "4515"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4515"
-generated_at: "2026-03-30T02:54:24.710Z"
+generated_at: "2026-11-23T21:25:42.889Z"
+status: "active"
 ---
 
 # § 4515. Administration of dispute settlement proceedings
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:24.710Z"
     - **(B)** binational panels and extraordinary challenge committees established under section D of chapter 10 of the USMCA; and
     - **(C)** binational panels and extraordinary challenge committees established under NAFTA for matters covered by article 34.1 of the USMCA (relating to transition from NAFTA).
 - **(c)** If the Canadian Section or the Mexican Section of the Secretariat provides funds to the United States Section during any fiscal year as reimbursement for expenses in connection with dispute settlement proceedings under section D of chapter 10 or chapter 31 of the USMCA, or under chapter 19 of NAFTA, the United States Section may, notwithstanding section 3302 of title 31 , retain and use such funds to carry out the functions described in subsection (a)(2).
+
+## Source Credit
+
+*([Pub. L. 116–113, title I, § 105](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 18](https://www.govinfo.gov/link/statute/134/18).)*

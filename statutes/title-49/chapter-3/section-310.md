@@ -3,9 +3,10 @@ title: "Section 310 - Aligning Federal environmental reviews"
 usc_title: 49
 usc_section: "310"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 310"
-generated_at: "2026-03-30T02:56:19.298Z"
+generated_at: "2026-11-23T21:26:40.589Z"
+status: "active"
 ---
 
 # § 310. Aligning Federal environmental reviews
@@ -40,3 +41,37 @@ generated_at: "2026-03-30T02:56:19.298Z"
     - **(A)** progress in aligning Federal environmental reviews under this section; and
     - **(B)** the impact this section has had on accelerating the environmental review and permitting process.
 - **(g)** This section shall not apply to any project subject to section 139 of title 23 .
+
+Coordinated and Concurrent Environmental Reviews
+
+Contents
+
+Environmental Checklist.—
+
+In general
+
+Purpose
+
+Interagency Collaboration.—
+
+In general
+
+Purpose of collaboration sessions
+
+Focus of collaboration sessions
+
+Consultation
+
+Performance Measurement
+
+Reports.—
+
+Report to congress
+
+Inspector general report
+
+Savings Provision
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title I, § 1313(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1400](https://www.govinfo.gov/link/statute/129/1400); amended [Pub. L. 115–420, § 3](https://www.govinfo.gov/link/plaw/115/public/420), Jan. 3, 2019, [132 Stat. 5444](https://www.govinfo.gov/link/statute/132/5444).)*

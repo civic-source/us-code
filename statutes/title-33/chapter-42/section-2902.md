@@ -3,9 +3,10 @@ title: "Section 2902 - Definitions"
 usc_title: 33
 usc_section: "2902"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2902"
-generated_at: "2026-03-30T02:55:41.135Z"
+generated_at: "2026-11-23T21:26:11.472Z"
+status: "active"
 ---
 
 # § 2902. Definitions
@@ -39,3 +40,7 @@ In this chapter, the following definitions apply:
   - **(8)** The term “non-Federal interest” means a State, a political subdivision of a State, an Indian tribe, a regional or interstate agency, or, as provided in section 2903(f)(2) of this title , a nongovernmental organization.
   - **(9)** The term “Secretary” means the Secretary of the Army.
   - **(10)** The term “State” means the States of Alabama, Alaska, California, Connecticut, Delaware, Florida, Georgia, Hawaii, Illinois, Indiana, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, New Hampshire, New Jersey, New York, North Carolina, Ohio, Oregon, Pennsylvania, Rhode Island, South Carolina, Texas, Virginia, Washington, and Wisconsin, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the United States Virgin Islands, American Samoa, and Guam.
+
+## Source Credit
+
+*([Pub. L. 106–457, title I, § 103](https://www.govinfo.gov/link/plaw/106/public/457), Nov. 7, 2000, [114 Stat. 1958](https://www.govinfo.gov/link/statute/114/1958); [Pub. L. 110–114, title V, § 5017(b)](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1197](https://www.govinfo.gov/link/statute/121/1197).)*

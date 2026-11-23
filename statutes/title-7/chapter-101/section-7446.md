@@ -3,9 +3,10 @@ title: "Section 7446 - Referenda"
 usc_title: 7
 usc_section: "7446"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7446"
-generated_at: "2026-03-30T02:53:42.452Z"
+generated_at: "2026-11-23T21:25:28.428Z"
+status: "active"
 ---
 
 # § 7446. Referenda
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:42.452Z"
   - **(1)** The Secretary shall be reimbursed from assessments collected by the Board for any expenses incurred by the Secretary in connection with the conduct of an activity required under this section.
   - **(2)** Each referendum shall be conducted for a reasonable period of time not to exceed 3 days, established by the Secretary, under a procedure under which producers intending to vote in the referendum shall certify that the producers were engaged in the production of canola, rapeseed, or canola or rapeseed products during the representative period and, at the same time, shall be provided an opportunity to vote in the referendum.
   - **(3)** Referenda under this section shall be conducted at locations determined by the Secretary. On request, absentee mail ballots shall be furnished by the Secretary in a manner prescribed by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 537](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1058](https://www.govinfo.gov/link/statute/110/1058); [Pub. L. 110–234, title VII, § 7511(c)(28)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1270](https://www.govinfo.gov/link/statute/122/1270); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7511(c)(28), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2031.)*

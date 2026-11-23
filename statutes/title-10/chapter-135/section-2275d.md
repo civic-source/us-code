@@ -3,9 +3,10 @@ title: "Section 2275d - Acquisition and operation of space systems for space war
 usc_title: 10
 usc_section: "2275d"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2275d"
-generated_at: "2026-03-30T02:53:38.152Z"
+generated_at: "2026-11-23T21:25:32.592Z"
+status: "active"
 ---
 
 # § 2275d. Acquisition and operation of space systems for space warfighting and control
@@ -19,3 +20,13 @@ generated_at: "2026-03-30T02:53:38.152Z"
     - **(B)** the anticipated vulnerabilities to national security posed by the use of such waiver;
     - **(C)** identification of which operational commander will provide direction to the commercial space system that is used pursuant to the waiver instead of a system acquired and operated by the Secretary; and
     - **(D)** the anticipated duration of such waiver.
+
+Requirement
+
+Role of Commercial Space Systems
+
+National Security Waiver
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title XVI, § 1603](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1175](https://www.govinfo.gov/link/statute/139/1175).)*

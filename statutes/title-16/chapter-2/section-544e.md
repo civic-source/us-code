@@ -3,9 +3,10 @@ title: "Section 544e - Administration of scenic area"
 usc_title: 16
 usc_section: "544e"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 544e"
-generated_at: "2026-03-30T02:54:22.870Z"
+generated_at: "2026-11-23T21:25:51.667Z"
+status: "active"
 ---
 
 # § 544e. Administration of scenic area
@@ -22,3 +23,11 @@ generated_at: "2026-03-30T02:54:22.870Z"
   - **(1)** Within ninety days after making a determination that a county has failed to comply with the provisions of this section, the Commission shall make and publish a land use ordinance setting standard for the use of non-Federal lands in such county within the boundaries of the national scenic area, excluding urban areas identified in section 544b(e) of this title . The ordinance shall have the object of assuring that the use of such non-Federal lands is consistent with the management plan. The ordinance may differ amongst the several parcels of land within the boundaries of the scenic area. The ordinance may from time to time be amended by the Commission.
   - **(2)** In the event the Commission has promulgated regulations pursuant to this section, a county may thereafter upon written notice to the Commission elect to adopt a land use ordinance, in which event it shall comply with the provisions of this section for adoption of a land use ordinance. Upon approval of a land use ordinance by the Commission it shall supersede any regulations for the county developed by the Commission, subject to valid existing rights.
 - **(d)** The Secretary is hereby authorized to design, construct, operate and maintain such facilities as are included in the recreation assessment.
+
+Approval by commission
+
+Subsequent Compliance
+
+## Source Credit
+
+*([Pub. L. 99–663, § 7](https://www.govinfo.gov/link/plaw/99/public/663), Nov. 17, 1986, [100 Stat. 4282](https://www.govinfo.gov/link/statute/100/4282).)*

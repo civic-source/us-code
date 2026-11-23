@@ -3,12 +3,17 @@ title: "Section 952 - Reservoir sites for water for livestock"
 usc_title: 43
 usc_section: "952"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 952"
-generated_at: "2026-03-30T02:55:57.466Z"
+generated_at: "2026-11-23T21:26:19.817Z"
+status: "active"
 ---
 
 # § 952. Reservoir sites for water for livestock
 
 Any person, livestock company, or transportation corporation engaged in breeding, grazing, driving, or transporting livestock may construct reservoirs upon unoccupied public lands of the United States, not mineral or otherwise reserved, for the purpose of furnishing water to such livestock, and shall have control of such reservoir, under regulations prescribed by the Secretary of the Interior, and the lands upon which the same is constructed, not exceeding one hundred and sixty acres, so long as such reservoir is maintained and water kept therein for such purposes: Provided , That such reservoir shall not be fenced and shall be open to the free use of any person desiring to water animals of any kind. The Secretary of the Interior, in his discretion, under such rules, regulations, and conditions as he may prescribe, upon application by such person, company, or corporation, may grant permission to fence such reservoirs in order to protect livestock, to conserve water, and to preserve its quality and conditions: Provided , That such reservoir shall be open to the free use of any person desiring to water animals of any kind; but any fence, erected under the authority hereof, shall be immediately removed on the order of the Secretary.
 
+
+## Source Credit
+
+*(Jan. 13, 1897, ch. 11, § 1, [29 Stat. 484](https://www.govinfo.gov/link/statute/29/484); Mar. 3, 1923, ch. 219, [42 Stat. 1437](https://www.govinfo.gov/link/statute/42/1437).)*

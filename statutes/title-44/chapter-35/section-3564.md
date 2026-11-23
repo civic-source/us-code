@@ -3,9 +3,10 @@ title: "Section 3564 - Effect on other laws"
 usc_title: 44
 usc_section: "3564"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 3564"
-generated_at: "2026-03-30T02:55:56.298Z"
+generated_at: "2026-11-23T21:26:18.439Z"
+status: "active"
 ---
 
 # § 3564. Effect on other laws
@@ -22,3 +23,35 @@ generated_at: "2026-03-30T02:55:56.298Z"
 - **(g)** Notwithstanding section 3572, information collected by an agency for exclusively statistical purposes under a pledge of confidentiality may be provided by the collecting agency to a law enforcement agency for the prosecution of submissions to the collecting agency of false statistical information under statutes that authorize criminal penalties (such as section 221 of title 13 ) or civil penalties for the provision of false statistical information, unless such disclosure or use would otherwise be prohibited under Federal law.
 - **(h)** Nothing in this subchapter shall be construed as restricting or diminishing any confidentiality protections or penalties for unauthorized disclosure that otherwise apply to data or information collected for statistical purposes or nonstatistical purposes, including, but not limited to, section 6103 of the Internal Revenue Code of 1986.
 - **(i)** Nothing in this subchapter shall be construed to affect the authority of the Congress, including its committees, members, or agents, to obtain data or information for a statistical purpose, including for oversight of an agency’s statistical activities.
+
+Title
+
+United States Code
+
+Title
+
+and Title
+
+United States Code
+
+Title
+
+United States Code
+
+Various Energy Statutes
+
+Section
+
+of Congressional Budget Act of
+
+Preemption of State Law
+
+Statutes Regarding False Statements
+
+Construction
+
+Authority of Congress
+
+## Source Credit
+
+*(Added [Pub. L. 115–435, title III, § 302(a)](https://www.govinfo.gov/link/plaw/115/public/435), Jan. 14, 2019, [132 Stat. 5547](https://www.govinfo.gov/link/statute/132/5547).)*

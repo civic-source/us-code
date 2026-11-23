@@ -3,9 +3,10 @@ title: "Section 3555 - Objectives for extended negotiations"
 usc_title: 19
 usc_section: "3555"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 3555"
-generated_at: "2026-03-30T02:54:24.693Z"
+generated_at: "2026-11-23T21:25:42.846Z"
+status: "active"
 ---
 
 # § 3555. Objectives for extended negotiations
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:24.693Z"
     - **(C)** the term “indirect support” means indirect government support as defined in Annex II to the US–EC bilateral agreement,
     - **(D)** the term “Agreement on Trade in Civil Aircraft” means the Agreement on Trade in Civil Aircraft approved by the Congress under section 2503 of this title , and
     - **(E)** the term “US–EC bilateral agreement” means the Agreement Concerning the Application of the GATT Agreement on Trade in Civil Aircraft Between the European Economic Community and the Government of the United States of America on trade in large civil aircraft, entered into on July 17, 1992 .
+
+## Source Credit
+
+*([Pub. L. 103–465, title I, § 135](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4840](https://www.govinfo.gov/link/statute/108/4840); [Pub. L. 105–206, title V, § 5003(b)(5)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 790](https://www.govinfo.gov/link/statute/112/790).)*

@@ -3,9 +3,10 @@ title: "Section 3208 - Planning for future competition in contracts for major sy
 usc_title: 10
 usc_section: "3208"
 chapter: 221
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3208"
-generated_at: "2026-03-30T02:53:38.190Z"
+generated_at: "2026-11-23T21:25:32.719Z"
+status: "active"
 ---
 
 # § 3208. Planning for future competition in contracts for major systems
@@ -26,3 +27,27 @@ generated_at: "2026-03-30T02:53:38.190Z"
     - **(A)** the original supplier of such item will be unable to satisfy program schedule or delivery requirements; or
     - **(B)** proposals by the original supplier of such item to meet the mobilization requirements are insufficient to meet the agency’s mobilization needs.
   - **(2)** In considering offers in response to a solicitation requiring proposals described in subsection (a)(2) or (b)(2), the head of an agency shall base any evaluation of items developed exclusively at private expense on an analysis of the total value, in terms of innovative design, life-cycle costs, and other pertinent factors, of incorporating such items in the system.
+
+Development Contract.—
+
+Determining whether proposals are necessary
+
+Contents of proposals
+
+Production Contract.—
+
+Determining whether proposals are necessary
+
+Contents of proposals
+
+Consideration of Factors as Objectives in Negotiations
+
+Items Developed Exclusively at Private Expense.—
+
+Limitation
+
+Evaluation
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1811(g)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4173](https://www.govinfo.gov/link/statute/134/4173).)*

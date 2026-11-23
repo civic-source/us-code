@@ -3,9 +3,10 @@ title: "Section 7327 - Centers for research, education, and clinical activities 
 usc_title: 38
 usc_section: "7327"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7327"
-generated_at: "2026-03-30T02:55:53.528Z"
+generated_at: "2026-11-23T21:26:16.857Z"
+status: "active"
 ---
 
 # § 7327. Centers for research, education, and clinical activities on complex multi-trauma associated with combat injuries
@@ -59,3 +60,31 @@ generated_at: "2026-03-30T02:55:53.528Z"
     - **(A)** $7,000,000 for fiscal year 2005.
     - **(B)** $8,000,000 for each of fiscal years 2006 through 2008.
   - **(2)** In addition to amounts authorized to be appropriated by paragraph (1) for a fiscal year, the Under Secretary for Health may allocate to each center designated under this section, from other funds authorized to be appropriated for such fiscal year for the Department generally for medical and for medical and prosthetic research, such amounts as the Under Secretary for Health determines appropriate to carry out the purposes of this section.
+
+Purpose
+
+Designation of Centers
+
+Requirements for Centers
+
+Additional Resources
+
+Cooperation With Department of Defense
+
+Award of Funding
+
+Dissemination of Information
+
+National Oversight
+
+Authorization of Appropriations
+
+In General
+
+Partnerships
+
+Responsibilities
+
+## Source Credit
+
+*(Added [Pub. L. 108–422, title III, § 302(a)(1)](https://www.govinfo.gov/link/plaw/108/public/422), Nov. 30, 2004, [118 Stat. 2383](https://www.govinfo.gov/link/statute/118/2383).)*

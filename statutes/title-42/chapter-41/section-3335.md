@@ -3,9 +3,10 @@ title: "Section 3335 - Grants to assist in planned areawide development"
 usc_title: 42
 usc_section: "3335"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3335"
-generated_at: "2026-03-30T02:56:11.186Z"
+generated_at: "2026-11-23T21:26:32.557Z"
+status: "active"
 ---
 
 # § 3335. Grants to assist in planned areawide development
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.186Z"
 - **(d)** In making the determinations required under this section, the Secretary shall obtain, and give full consideration to, the comments of the body or bodies (State or local) responsible for comprehensive planning and programing for the area.
 - **(e)** No grant shall be made under this section with respect to an areawide development project for which a Federal grant has been made, or a contract of assistance has been entered into, under the legislation referred to in paragraph (2) of section 3338 of this title , prior to February 21, 1966 , or more than one year prior to the date on which the Secretary has made the determinations required under this section with respect to the applicant and to the area in which the project is located: Provided , That in the case of a project for which a contract of assistance under the legislation referred to in paragraph (2) of section 3338 of this title has been entered into after June 30, 1967 , no grant shall be made under this section unless an application for such grant has been made on or before the date of such contract.
 - **(f)** Nothing in this section shall authorize the Secretary to require (or condition the availability or amount of financial assistance authorized to be provided under this subchapter upon) the adoption by any community of a program to achieve a racial balance or to eliminate racial imbalance within school districts.
+
+## Source Credit
+
+*([Pub. L. 89–754, title II, § 205](https://www.govinfo.gov/link/plaw/89/public/754), Nov. 3, 1966, [80 Stat. 1263](https://www.govinfo.gov/link/statute/80/1263); [Pub. L. 90–448, title VI, § 602(d)](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 532](https://www.govinfo.gov/link/statute/82/532).)*

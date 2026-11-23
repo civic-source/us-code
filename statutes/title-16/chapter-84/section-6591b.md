@@ -3,9 +3,10 @@ title: "Section 6591b - Administrative review"
 usc_title: 16
 usc_section: "6591b"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6591b"
-generated_at: "2026-03-30T02:54:23.062Z"
+generated_at: "2026-11-23T21:25:52.045Z"
+status: "active"
 ---
 
 # § 6591b. Administrative review
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:54:23.062Z"
     - **(C)** the Committee on Agriculture of the House of Representatives;
     - **(D)** the Committee on Natural Resources of the House of Representatives; and
     - **(E)** the Government Accountability Office.
+
+## Source Credit
+
+*([Pub. L. 108–148, title VI, § 603](https://www.govinfo.gov/link/plaw/108/public/148), as added [Pub. L. 113–79, title VIII, § 8204](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 916](https://www.govinfo.gov/link/statute/128/916).)*

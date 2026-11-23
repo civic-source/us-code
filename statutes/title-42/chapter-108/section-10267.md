@@ -3,9 +3,10 @@ title: "Section 10267 - Support services"
 usc_title: 42
 usc_section: "10267"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10267"
-generated_at: "2026-03-30T02:56:11.385Z"
+generated_at: "2026-11-23T21:26:33.356Z"
+status: "active"
 ---
 
 # § 10267. Support services
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.385Z"
 - **(c)** Upon the request of the Chairman, the Board may secure directly from the head of any department or agency of the United States information necessary to enable it to carry out this subchapter.
 - **(d)** The Board may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
 - **(e)** Subject to such rules as may be prescribed by the Board, the Chairman may procure temporary and intermittent services under section 3109(b) of title 5 , but at rates for individuals not to exceed the daily equivalent of the maximum annual rate of basic pay payable for GS–18 of the General Schedule.
+
+## Source Credit
+
+*([Pub. L. 97–425, title V, § 507](https://www.govinfo.gov/link/plaw/97/public/425), as added [Pub. L. 100–202, § 101(d) [title III]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–104](https://www.govinfo.gov/link/statute/101/1329), 1329–121; [Pub. L. 100–203, title V, § 5051](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–250](https://www.govinfo.gov/link/statute/101/1330).)*

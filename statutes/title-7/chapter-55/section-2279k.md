@@ -3,9 +3,10 @@ title: "Section 2279k - Authorization of protection operations for the Secretary
 usc_title: 7
 usc_section: "2279k"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2279k"
-generated_at: "2026-03-30T02:53:42.385Z"
+generated_at: "2026-11-23T21:25:28.295Z"
+status: "active"
 ---
 
 # § 2279k. Authorization of protection operations for the Secretary of Agriculture and others
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:42.385Z"
     - **(B)** such additional guidelines as may be issued by the Secretary.
 - **(c)** The authorities granted under this section may be exercised notwithstanding section 1343(b)(1) of title 31 .
 - **(d)** Not later than September 30, 2019 , and each September 30 through 2024, the Secretary shall provide to the Committee on Agriculture of the House of Representatives and Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the protection provided, and accounting for the expenditures made, pursuant to this section.
+
+## Source Credit
+
+*([Pub. L. 115–334, title XII, § 12520](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 5001](https://www.govinfo.gov/link/statute/132/5001).)*

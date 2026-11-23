@@ -3,9 +3,10 @@ title: "Section 1440a - Sharing of information among Federal Home Loan Banks"
 usc_title: 12
 usc_section: "1440a"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1440a"
-generated_at: "2026-03-30T02:53:53.392Z"
+generated_at: "2026-11-23T21:25:36.825Z"
+status: "active"
 ---
 
 # § 1440a. Sharing of information among Federal Home Loan Banks
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:53.392Z"
   - **(2)** Notwithstanding paragraph (1), a Federal Home Loan Bank responding to a request from another Bank or from the Director for information pursuant to this section may request that the Director determine that such information is proprietary and that the public interest requires that such information not be shared.
 - **(c)** Nothing in this section shall affect the obligations of any Federal Home Loan Bank under the Securities Exchange Act of 1934 ( 15 U.S.C. 78a et seq.) or the regulations issued by the Securities and Exchange Commission thereunder.
 - **(d)** The Director shall not be deemed to have waived any privilege applicable to any information concerning a Federal Home Loan Bank by transferring, or permitting the transfer of, that information to any other Federal Home Loan Bank for the purposes set out in subsection (a).
+
+## Source Credit
+
+*(July 22, 1932, ch. 522, § 20A, as added [Pub. L. 110–289, div. A, title II, § 1207](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2787](https://www.govinfo.gov/link/statute/122/2787).)*

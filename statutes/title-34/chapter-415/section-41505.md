@@ -3,9 +3,10 @@ title: "Section 41505 - Organized retail theft database"
 usc_title: 34
 usc_section: "41505"
 chapter: 415
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 41505"
-generated_at: "2026-03-30T02:55:33.314Z"
+generated_at: "2026-11-23T21:26:09.849Z"
+status: "active"
 ---
 
 # § 41505. Organized retail theft database
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:33.314Z"
   - **(1)** the violation of a State prohibition on retail merchandise theft or shoplifting, if the violation consists of the theft of quantities of items that would not normally be purchased for personal use or consumption and for the purpose of reselling the items or for reentering the items into commerce;
   - **(2)** the receipt, possession, concealment, bartering, sale, transport, or disposal of any property that is know 3 3 So in original. Probably should be “known”. or should be known to have been taken in violation of paragraph (1); or
   - **(3)** the coordination, organization, or recruitment of persons to undertake the conduct described in paragraph (1) or (2).
+
+## Source Credit
+
+*([Pub. L. 109–162, title XI, § 1105](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3092](https://www.govinfo.gov/link/statute/119/3092); [Pub. L. 109–271, § 8(a)](https://www.govinfo.gov/link/plaw/109/public/271), Aug. 12, 2006, [120 Stat. 766](https://www.govinfo.gov/link/statute/120/766).)*

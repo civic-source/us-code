@@ -3,9 +3,10 @@ title: "Section 721 - Responses to safety recommendations"
 usc_title: 14
 usc_section: "721"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 721"
-generated_at: "2026-03-30T02:53:51.490Z"
+generated_at: "2026-11-23T21:25:35.384Z"
+status: "active"
 ---
 
 # § 721. Responses to safety recommendations
@@ -18,3 +19,13 @@ generated_at: "2026-03-30T02:53:51.490Z"
   - **(1)** with respect to a recommendation with which the Commandant concurs or partially concurs, an explanation of the actions the Commandant intends to take to implement such recommendation or part of such recommendation; and
   - **(2)** with respect to a recommendation with which the Commandant does not concur, the reasons the Commandant does not concur.
 - **(c)** If the National Transportation Safety Board has not received the written response required under subsection (a) by the end of the time period described in such subsection, the National Transportation Safety Board shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that such response has not been received.
+
+In General
+
+Explanation of Concurrence
+
+Failure To Respond
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. K, title CXV, § 11501(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4127](https://www.govinfo.gov/link/statute/136/4127).)*

@@ -3,12 +3,17 @@ title: "Section 488f - Protection from civil liability"
 usc_title: 6
 usc_section: "488f"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 488f"
-generated_at: "2026-03-30T02:53:09.468Z"
+generated_at: "2026-11-23T21:25:25.802Z"
+status: "active"
 ---
 
 # § 488f. Protection from civil liability
 
 - **(a)** Notwithstanding any other provision of law, an owner of an ammonium nitrate facility that in good faith refuses to sell or transfer ammonium nitrate to any person, or that in good faith discloses to the Department or to appropriate law enforcement authorities an actual or attempted purchase or transfer of ammonium nitrate, based upon a reasonable belief that the person seeking purchase or transfer of ammonium nitrate may use the ammonium nitrate to create an explosive device to be employed in an act of terrorism (as defined in section 3077 of title 18 ), or to use ammonium nitrate for any other unlawful purpose, shall not be liable in any civil action relating to that refusal to sell ammonium nitrate or that disclosure.
 - **(b)** A reasonable belief that a person may use ammonium nitrate to create an explosive device to be employed in an act of terrorism under subsection (a) may not solely be based on the race, sex, national origin, creed, religion, status as a veteran, or status as a member of the Armed Forces of the United States of that person.
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 899G](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 110–161, div. E, title V, § 563(a)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2089](https://www.govinfo.gov/link/statute/121/2089).)*

@@ -3,9 +3,10 @@ title: "Section 791 - Congressional declaration of purpose"
 usc_title: 15
 usc_section: "791"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 791"
-generated_at: "2026-03-30T02:54:08.122Z"
+generated_at: "2026-11-23T21:25:39.766Z"
+status: "active"
 ---
 
 # § 791. Congressional declaration of purpose
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:08.122Z"
   - **(1)** to provide for a means to assist in meeting the essential needs of the United States for fuels, in a manner which is consistent, to the fullest extent practicable, with existing national commitments to protect and improve the environment, and
   - **(2)** to provide requirements for reports respecting energy resources.
 
+
+## Source Credit
+
+*([Pub. L. 93–319, § 1(b)](https://www.govinfo.gov/link/plaw/93/public/319), June 22, 1974, [88 Stat. 246](https://www.govinfo.gov/link/statute/88/246).)*

@@ -3,9 +3,10 @@ title: "Section 500e - Electromagnetic Spectrum Enterprise Operational Lead for 
 usc_title: 10
 usc_section: "500e"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 500e"
-generated_at: "2026-03-30T02:53:38.063Z"
+generated_at: "2026-11-23T21:25:32.276Z"
+status: "active"
 ---
 
 # § 500e. Electromagnetic Spectrum Enterprise Operational Lead for Joint Electromagnetic Spectrum Operations
@@ -21,3 +22,13 @@ generated_at: "2026-03-30T02:53:38.063Z"
   - **(4)** An assessment of any current gaps in evaluation mechanisms for future joint use of dynamic spectrum sharing technologies.
   - **(5)** The feasibility and advisability of establishing designated virtual ranges for the evaluation of tactics, techniques, and procedures for dynamic spectrum sharing technologies.
   - **(6)** Such other matters as the Chairman considers important to ensuring that the combatant commands are capable of conducting such operations.
+
+In General
+
+Function
+
+Briefings Required
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVI, § 1682(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 616](https://www.govinfo.gov/link/statute/137/616), § 505; renumbered § 500e, [Pub. L. 118–159, div. A, title XVII, § 1701(a)(10)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2203](https://www.govinfo.gov/link/statute/138/2203); amended [Pub. L. 119–60, div. A, title XVI, § 1681](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1203](https://www.govinfo.gov/link/statute/139/1203).)*

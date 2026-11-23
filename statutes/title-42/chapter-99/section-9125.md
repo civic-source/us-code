@@ -3,9 +3,10 @@ title: "Section 9125 - Judicial review"
 usc_title: 42
 usc_section: "9125"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9125"
-generated_at: "2026-03-30T02:56:11.350Z"
+generated_at: "2026-11-23T21:26:33.230Z"
+status: "active"
 ---
 
 # § 9125. Judicial review
@@ -14,3 +15,7 @@ Any person suffering legal wrong, or who is adversely affected or aggrieved by t
 
   - **(1)** has participated in the administrative proceedings before the Administrator (or if he did not so participate, he can show that his failure to do so was caused by the Administrator’s failure to provide the required notice); and
   - **(2)** is adversely affected by the Administrator’s action.
+
+## Source Credit
+
+*([Pub. L. 96–320, title I, § 115](https://www.govinfo.gov/link/plaw/96/public/320), Aug. 3, 1980, [94 Stat. 990](https://www.govinfo.gov/link/statute/94/990).)*

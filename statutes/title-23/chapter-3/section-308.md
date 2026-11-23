@@ -3,9 +3,10 @@ title: "Section 308 - Cooperation with Federal and State agencies and foreign co
 usc_title: 23
 usc_section: "308"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 308"
-generated_at: "2026-03-30T02:55:12.567Z"
+generated_at: "2026-11-23T21:25:53.919Z"
+status: "active"
 ---
 
 # § 308. Cooperation with Federal and State agencies and foreign countries
@@ -24,3 +25,21 @@ generated_at: "2026-03-30T02:55:12.567Z"
       - **(v)** long-term concession agreements; and
       - **(vi)** any method tested, or that could be tested, under an experimental program relating to contracting methods carried out by the Secretary.
 - **(b)** Appropriations for the work of the Federal Highway Administration shall be available for expenses of warehouse maintenance and the procurement, care, and handling of supplies, materials, and equipment for distribution to projects under the supervision of the Federal Highway Administration, or for sale or distribution to other Government agencies, cooperating foreign countries, and State cooperating agencies, and the cost of such supplies and materials or the value of such equipment, including the cost of transportation and handling, may be reimbursed to current applicable appropriations.
+
+Authorized Activities.—
+
+In general
+
+Inclusions
+
+Reimbursement
+
+Alternative contracting methods.—
+
+In general
+
+Methods described
+
+## Source Credit
+
+*([Pub. L. 85–767](https://www.govinfo.gov/link/plaw/85/public/767), Aug. 27, 1958, [72 Stat. 914](https://www.govinfo.gov/link/statute/72/914); [Pub. L. 93–87, title I, § 152(5)](https://www.govinfo.gov/link/plaw/93/public/87), Aug. 13, 1973, [87 Stat. 276](https://www.govinfo.gov/link/statute/87/276); [Pub. L. 112–141, div. A, title I, § 1521(f)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 579](https://www.govinfo.gov/link/statute/126/579); [Pub. L. 117–58, div. A, title I, § 11305(b)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 532](https://www.govinfo.gov/link/statute/135/532).)*

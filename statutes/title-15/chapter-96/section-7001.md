@@ -3,9 +3,10 @@ title: "Section 7001 - General rule of validity"
 usc_title: 15
 usc_section: "7001"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7001"
-generated_at: "2026-03-30T02:54:08.217Z"
+generated_at: "2026-11-23T21:25:40.037Z"
+status: "active"
 ---
 
 # § 7001. General rule of validity
@@ -53,3 +54,21 @@ generated_at: "2026-03-30T02:54:08.217Z"
   - **(1)** the agent or broker has not engaged in negligent, reckless, or intentional tortious conduct;
   - **(2)** the agent or broker was not involved in the development or establishment of such electronic procedures; and
   - **(3)** the agent or broker did not deviate from such procedures.
+
+In General
+
+Exceptions.—
+
+Record retention.—
+
+In general
+
+Delayed effect for pending rulemakings
+
+Certain guaranteed and insured loans
+
+Student loans
+
+## Source Credit
+
+*([Pub. L. 106–229, title I, § 101](https://www.govinfo.gov/link/plaw/106/public/229), June 30, 2000, [114 Stat. 464](https://www.govinfo.gov/link/statute/114/464).)*

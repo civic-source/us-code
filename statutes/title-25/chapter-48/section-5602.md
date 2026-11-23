@@ -3,12 +3,17 @@ title: "Section 5602 - Reaffirmation of policy"
 usc_title: 25
 usc_section: "5602"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5602"
-generated_at: "2026-03-30T02:54:52.872Z"
+generated_at: "2026-11-23T21:25:54.737Z"
+status: "active"
 ---
 
 # § 5602. Reaffirmation of policy
 
 Pursuant to the constitutionally vested authority of Congress over Indian affairs, Congress reaffirms that the responsibility of the United States to Indian tribes includes a duty to promote tribal self-determination regarding governmental authority and economic development.
 
+
+## Source Credit
+
+*([Pub. L. 114–178, title I, § 102](https://www.govinfo.gov/link/plaw/114/public/178), June 22, 2016, [130 Stat. 433](https://www.govinfo.gov/link/statute/130/433).)*

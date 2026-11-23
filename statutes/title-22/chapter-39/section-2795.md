@@ -3,9 +3,10 @@ title: "Section 2795 - Fund"
 usc_title: 22
 usc_section: "2795"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2795"
-generated_at: "2026-03-30T02:55:05.387Z"
+generated_at: "2026-11-23T21:25:58.566Z"
+status: "active"
 ---
 
 # § 2795. Fund
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:05.387Z"
 - **(c)**
   - **(1)** The size of the Fund may not exceed such dollar amount as is prescribed in section 114(c) of title 10 . For purposes of this limitation, the size of the Fund is the amounts in the Fund plus the value (in terms of acquisition cost) of the defense articles acquired under this subchapter which have not been transferred from the Fund in accordance with this subchapter.
   - **(2)** Amounts in the Fund shall be available for obligation in any fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts.
+
+## Source Credit
+
+*([Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 5, § 51, as added [Pub. L. 97–113, title I, § 108(a)](https://www.govinfo.gov/link/plaw/97/public/113), Dec. 29, 1981, [95 Stat. 1522](https://www.govinfo.gov/link/statute/95/1522); amended [Pub. L. 99–83, title I, § 121](https://www.govinfo.gov/link/plaw/99/public/83), Aug. 8, 1985, [99 Stat. 204](https://www.govinfo.gov/link/statute/99/204); [Pub. L. 99–139, § 1(a)](https://www.govinfo.gov/link/plaw/99/public/139), Oct. 30, 1985, [99 Stat. 562](https://www.govinfo.gov/link/statute/99/562); [Pub. L. 99–433, title I, § 110(h)(1)](https://www.govinfo.gov/link/plaw/99/public/433), Oct. 1, 1986, [100 Stat. 1004](https://www.govinfo.gov/link/statute/100/1004); [Pub. L. 101–231, § 4](https://www.govinfo.gov/link/plaw/101/public/231), Dec. 13, 1989, [103 Stat. 1957](https://www.govinfo.gov/link/statute/103/1957); [Pub. L. 104–164, title I, § 145(b)](https://www.govinfo.gov/link/plaw/104/public/164), July 21, 1996, [110 Stat. 1434](https://www.govinfo.gov/link/statute/110/1434).)*

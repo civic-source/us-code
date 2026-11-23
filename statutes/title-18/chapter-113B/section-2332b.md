@@ -3,9 +3,10 @@ title: "Section 2332b - Acts of terrorism transcending national boundaries"
 usc_title: 18
 usc_section: "2332b"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2332b"
-generated_at: "2026-03-30T02:54:16.503Z"
+generated_at: "2026-11-23T21:25:44.145Z"
+status: "active"
 ---
 
 # § 2332b. Acts of terrorism transcending national boundaries
@@ -53,3 +54,37 @@ generated_at: "2026-03-30T02:54:16.503Z"
       - **(ii)** sections 92 (relating to prohibitions governing atomic weapons) or 236 (relating to sabotage of nuclear facilities or fuel) of the Atomic Energy Act of 1954 ( 42 U.S.C. 2122 or 2284);
       - **(iii)** section 46502 (relating to aircraft piracy), the second sentence of section 46504 (relating to assault on a flight crew with a dangerous weapon), section 46505(b)(3) or (c) (relating to explosive or incendiary devices, or endangerment of human life by means of weapons, on aircraft), section 46506 if homicide or attempted homicide is involved (relating to application of certain criminal laws to acts on aircraft), or section 60123(b) (relating to destruction of interstate gas or hazardous liquid pipeline facility) of title 49; or
       - **(iv)** section 1010A of the Controlled Substances Import and Export Act (relating to narco-terrorism).
+
+Prohibited Acts.—
+
+Offenses
+
+Treatment of threats, attempts and conspiracies
+
+Jurisdictional Bases.—
+
+Circumstances
+
+Co-conspirators and accessories after the fact
+
+Penalties.—
+
+Penalties
+
+Consecutive sentence
+
+Proof Requirements
+
+Knowledge
+
+State law
+
+Extraterritorial Jurisdiction
+
+Investigative Authority
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 104–132, title VII, § 702(a)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1291](https://www.govinfo.gov/link/statute/110/1291); amended [Pub. L. 104–294, title VI, § 601(s)(1)](https://www.govinfo.gov/link/plaw/104/public/294), (3), Oct. 11, 1996, [110 Stat. 3502](https://www.govinfo.gov/link/statute/110/3502); [Pub. L. 107–56, title VIII, § 808](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 378](https://www.govinfo.gov/link/statute/115/378); [Pub. L. 107–197, title III, § 301(b)](https://www.govinfo.gov/link/plaw/107/public/197), June 25, 2002, [116 Stat. 728](https://www.govinfo.gov/link/statute/116/728); [Pub. L. 108–458, title VI](https://www.govinfo.gov/link/plaw/108/public/458), §§ 6603(a)(1), 6803(c)(3), 6908, Dec. 17, 2004, [118 Stat. 3762](https://www.govinfo.gov/link/statute/118/3762), 3769, 3774; [Pub. L. 109–177, title I](https://www.govinfo.gov/link/plaw/109/public/177), §§ 110(b)(3)(A), 112, Mar. 9, 2006, [120 Stat. 208](https://www.govinfo.gov/link/statute/120/208), 209; [Pub. L. 110–326, title II, § 204(b)](https://www.govinfo.gov/link/plaw/110/public/326), Sept. 26, 2008, [122 Stat. 3562](https://www.govinfo.gov/link/statute/122/3562); [Pub. L. 114–23, title VIII](https://www.govinfo.gov/link/plaw/114/public/23), §§ 805, 811(d), June 2, 2015, [129 Stat. 309](https://www.govinfo.gov/link/statute/129/309), 311.)*

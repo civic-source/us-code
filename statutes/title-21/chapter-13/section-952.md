@@ -3,9 +3,10 @@ title: "Section 952 - Importation of controlled substances"
 usc_title: 21
 usc_section: "952"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 952"
-generated_at: "2026-03-30T02:54:54.298Z"
+generated_at: "2026-11-23T21:25:56.258Z"
+status: "active"
 ---
 
 # § 952. Importation of controlled substances
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:54.298Z"
     - **(B)** In approving the application, the Attorney General shall specify the period of time for which the approval is in effect, or shall provide that the approval is effective until the registrant involved is notified in writing by the Attorney General that the approval is terminated.
     - **(C)** If the Attorney General does not approve or deny the application before the expiration of the 60-day period under subparagraph (A), the application is deemed to be approved, and such approval remains in effect until the Attorney General notifies the registrant in writing that the approval is terminated.
 - **(e)** Each reference in this section to ephedrine, pseudoephedrine, or phenylpropanolamine includes each of the salts, optical isomers, and salts of optical isomers of such chemical.
+
+## Source Credit
+
+*([Pub. L. 91–513, title III, § 1002](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1285](https://www.govinfo.gov/link/statute/84/1285); [Pub. L. 95–633, title I, § 105](https://www.govinfo.gov/link/plaw/95/public/633), Nov. 10, 1978, [92 Stat. 3772](https://www.govinfo.gov/link/statute/92/3772); [Pub. L. 98–473, title II](https://www.govinfo.gov/link/plaw/98/public/473), §§ 519–521, Oct. 12, 1984, [98 Stat. 2075](https://www.govinfo.gov/link/statute/98/2075); [Pub. L. 109–177, title VII, § 715](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 264](https://www.govinfo.gov/link/statute/120/264).)*

@@ -3,9 +3,10 @@ title: "Section 4606 - Officers and employees"
 usc_title: 22
 usc_section: "4606"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4606"
-generated_at: "2026-03-30T02:55:05.412Z"
+generated_at: "2026-11-23T21:25:58.647Z"
+status: "active"
 ---
 
 # § 4606. Officers and employees
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:05.412Z"
   - **(2)** The Institute shall not make long-term commitments to employees that are inconsistent with rules and regulations applicable to Federal employees.
 - **(g)** No part of the financial resources, income, or assets of the Institute or of any legal entity created by the Institute shall inure to any agent, employee, officer, or director or be distributable to any such person during the life of the corporation or upon dissolution or final liquidation. Nothing in this section may be construed to prevent the payment of reasonable compensation for services or expenses to the directors, officers, employees, and agents of the Institute in amounts approved in accordance with the provisions of this chapter.
 - **(h)** The Institute shall not make loans to its directors, officers, employees, or agents, or to any legal entity created by the Institute. A director, officer, employee, or agent who votes for or assents to the making of a loan or who participates in the making of a loan shall be jointly and severally liable to the Institute for the amount of the loan until repayment thereof.
+
+## Source Credit
+
+*([Pub. L. 98–525, title XVII, § 1707](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2656](https://www.govinfo.gov/link/statute/98/2656); [Pub. L. 100–569, title III, § 301(b)](https://www.govinfo.gov/link/plaw/100/public/569), Oct. 31, 1988, [102 Stat. 2864](https://www.govinfo.gov/link/statute/102/2864); [Pub. L. 101–520, title III, § 319(c)](https://www.govinfo.gov/link/plaw/101/public/520), Nov. 5, 1990, [104 Stat. 2285](https://www.govinfo.gov/link/statute/104/2285); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XII, § 1225(c)(2), Oct. 21, 1998, [112 Stat. 2681–773](https://www.govinfo.gov/link/statute/112/2681).)*

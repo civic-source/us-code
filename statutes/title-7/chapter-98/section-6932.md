@@ -3,9 +3,10 @@ title: "Section 6932 - Farm Service Agency"
 usc_title: 7
 usc_section: "6932"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6932"
-generated_at: "2026-03-30T02:53:42.439Z"
+generated_at: "2026-11-23T21:25:28.404Z"
+status: "active"
 ---
 
 # § 6932. Farm Service Agency
@@ -40,3 +41,11 @@ generated_at: "2026-03-30T02:53:42.439Z"
 - **(g)** For purposes of subsections (c) through (f) of this section:
   - **(1)** A reference to the “Farm Service Agency” includes any other office, agency, or administrative unit of the Department assigned the functions authorized for the Farm Service Agency under this section.
   - **(2)** A reference to the “Natural Resources Conservation Service” includes any other office, agency, or administrative unit of the Department assigned the functions authorized for the Natural Resources Conservation Service under section 6936(b) of this title .
+
+In General
+
+Report
+
+## Source Credit
+
+*([Pub. L. 103–354, title II, § 226](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3214](https://www.govinfo.gov/link/statute/108/3214); [Pub. L. 104–127, title I, § 194(c)](https://www.govinfo.gov/link/plaw/104/public/127), title III, §§ 315(b), 336(a)(2)(C), Apr. 4, 1996, [110 Stat. 946](https://www.govinfo.gov/link/statute/110/946), 985, 1005; [Pub. L. 115–334, title XII](https://www.govinfo.gov/link/plaw/115/public/334), §§ 12404(a), 12410(c)(2)(A), Dec. 20, 2018, [132 Stat. 4974](https://www.govinfo.gov/link/statute/132/4974), 4978.)*

@@ -3,9 +3,10 @@ title: "Section 7152 - Transfers from Department of the Interior"
 usc_title: 42
 usc_section: "7152"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7152"
-generated_at: "2026-03-30T02:56:11.283Z"
+generated_at: "2026-11-23T21:26:33.050Z"
+status: "active"
 ---
 
 # § 7152. Transfers from Department of the Interior
@@ -24,3 +25,37 @@ generated_at: "2026-03-30T02:56:11.283Z"
   - **(1)** fuel supply and demand analysis and data gathering;
   - **(2)** research and development relating to increased efficiency of production technology of solid fuel minerals, other than research relating to mine health and safety and research relating to the environmental and leasing consequences of solid fuel mining (which shall remain in the Department of the Interior); and
   - **(3)** coal preparation and analysis.
+
+Sale of Eklutna
+
+Sale of Snettisham
+
+Cooperation of Other Agencies
+
+Proceeds
+
+Authorization of Appropriations
+
+Contributed Funds
+
+Federal Power Act
+
+Subsequent Transfers
+
+Review
+
+Eklutna Lands
+
+Snettisham Lands
+
+Termination of Alaska Power Administration
+
+Repeals
+
+DOE Organization Act
+
+Disposal
+
+## Source Credit
+
+*([Pub. L. 95–91, title III, § 302](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 578](https://www.govinfo.gov/link/statute/91/578); [Pub. L. 97–100, title II, § 201](https://www.govinfo.gov/link/plaw/97/public/100), Dec. 23, 1981, [95 Stat. 1407](https://www.govinfo.gov/link/statute/95/1407); [Pub. L. 104–58, title I, § 104(h)](https://www.govinfo.gov/link/plaw/104/public/58), Nov. 28, 1995, [109 Stat. 560](https://www.govinfo.gov/link/statute/109/560).)*

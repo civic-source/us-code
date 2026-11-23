@@ -3,9 +3,10 @@ title: "Section 7625 - Vapor recovery for small business marketers of petroleum 
 usc_title: 42
 usc_section: "7625"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7625"
-generated_at: "2026-03-30T02:56:11.320Z"
+generated_at: "2026-11-23T21:26:33.139Z"
+status: "active"
 ---
 
 # § 7625. Vapor recovery for small business marketers of petroleum products
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.320Z"
     - **(B)** controls, is controlled by, or is under common control with, a refiner,
     - **(C)** is otherwise directly or indirectly affiliated (as determined under the regulations of the Administrator) with a refiner or with a person who controls, is controlled by, or is under a common control with a refiner (unless the sole affiliation referred to herein is by means of a supply contract or an agreement or contract to use a trademark, trade name, service mark, or other identifying symbol or name owned by such refiner or any such person), or
   - **(2)** receives less than 50 percent of his annual income from refining or marketing of gasoline.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title III, § 324, formerly § 325, as added [Pub. L. 95–95, title III, § 314(b)](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 789](https://www.govinfo.gov/link/statute/91/789); renumbered § 324, [Pub. L. 96–300, § 1(c)](https://www.govinfo.gov/link/plaw/96/public/300), July 2, 1980, [94 Stat. 831](https://www.govinfo.gov/link/statute/94/831).)*

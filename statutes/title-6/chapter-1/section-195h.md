@@ -3,9 +3,10 @@ title: "Section 195h - National Urban Security Technology Laboratory"
 usc_title: 6
 usc_section: "195h"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 195h"
-generated_at: "2026-03-30T02:53:09.450Z"
+generated_at: "2026-11-23T21:25:25.763Z"
+status: "active"
 ---
 
 # § 195h. National Urban Security Technology Laboratory
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:09.450Z"
   - **(2)** act as a technical advisor to emergency response providers; and
   - **(3)** carry out other such activities as the Secretary determines appropriate.
 - **(d)** Nothing in this section may be construed as affecting in any manner the authorities or responsibilities of the Countering Weapons of Mass Destruction Office of the Department.
+
+## Source Credit
+
+*([Pub. L. 107–296, title III, § 322](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 117–81, div. F, title LXIV, § 6406(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2402](https://www.govinfo.gov/link/statute/135/2402).)*

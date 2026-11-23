@@ -3,9 +3,10 @@ title: "Section 16201 - Financial assistance: health-care professionals in reser
 usc_title: 10
 usc_section: "16201"
 chapter: 1608
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 16201"
-generated_at: "2026-03-30T02:53:38.278Z"
+generated_at: "2026-11-23T21:25:33.074Z"
+status: "active"
 ---
 
 # § 16201. Financial assistance: health-care professionals in reserve components
@@ -74,3 +75,21 @@ generated_at: "2026-03-30T02:53:38.278Z"
     - **(C)** the participant shall be subject to such active duty requirements as may be specified in the agreement and to active duty in time of war or national emergency as provided by law for members of the Selected Reserve; and
     - **(D)** the participant shall agree to serve, upon successful completion of the program, one year in the Selected Reserve for each six months, or part thereof, for which the stipend is provided.
 - **(g)** The amount of a stipend under an agreement under subsection (b), (c), (d), or (f) shall be the stipend rate in effect for participants in the Armed Forces Health Professions Scholarship Program under section 2121(d) of this title .
+
+Establishment of Program
+
+Medical and Dental School Students
+
+Physicians and Dentists in Critical Wartime Specialties
+
+Registered Nurses in Critical Specialties
+
+Baccalaureate Students in Nursing or Other Health Professions
+
+Mental Health Professionals in Critical Wartime Specialties
+
+Amount of Stipend
+
+## Source Credit
+
+*(Added [Pub. L. 100–180, div. A, title VII, § 711(a)(3)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1108](https://www.govinfo.gov/link/statute/101/1108), § 2128; renumbered § 16201 and amended [Pub. L. 103–337, div. A, title XVI, § 1663(c)(2)](https://www.govinfo.gov/link/plaw/103/public/337), (5), Oct. 5, 1994, [108 Stat. 3007](https://www.govinfo.gov/link/statute/108/3007), 3008; [Pub. L. 104–106, div. A, title VII, § 736](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 383](https://www.govinfo.gov/link/statute/110/383); [Pub. L. 107–107, div. A, title V, § 539](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1108](https://www.govinfo.gov/link/statute/115/1108); [Pub. L. 109–163, div. A, title V, § 515(b)(1)(WW)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3234](https://www.govinfo.gov/link/statute/119/3234); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title VI, § 616(c), Oct. 14, 2008, [122 Stat. 4486](https://www.govinfo.gov/link/statute/122/4486); [Pub. L. 111–84, div. A, title X, § 1073(c)(3)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2474](https://www.govinfo.gov/link/statute/123/2474); [Pub. L. 112–81, div. A, title V, § 556](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1416](https://www.govinfo.gov/link/statute/125/1416); [Pub. L. 113–66, div. A, title VI, § 618](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 782](https://www.govinfo.gov/link/statute/127/782).)*

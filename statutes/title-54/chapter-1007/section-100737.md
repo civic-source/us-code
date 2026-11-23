@@ -3,9 +3,10 @@ title: "Section 100737 - Financial disclosure by officer or employee of Secretar
 usc_title: 54
 usc_section: "100737"
 chapter: 1007
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "54 U.S.C. § 100737"
-generated_at: "2026-03-30T02:56:28.413Z"
+generated_at: "2026-11-23T21:26:42.758Z"
+status: "active"
 ---
 
 # § 100737. Financial disclosure by officer or employee of Secretary
@@ -21,3 +22,33 @@ generated_at: "2026-03-30T02:56:28.413Z"
   - **(3)** submit to Congress on June 1 of each year a report with respect to the disclosures and the actions taken in regard to the disclosures during the preceding calendar year.
 - **(c)** In the rules prescribed under subsection (b), the Secretary may identify specific positions within the Department of the Interior that are of a nonregulatory or nonpolicymaking nature and provide that officers or employees occupying those positions shall be exempt from the requirements of this section.
 - **(d)** Criminal penalties for a violation of this section are provided by section 1865 of title 18 .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 100737(a) through (c) | 16 U.S.C. 1912(a) through (c). | Pub. L. 94–429, § 13(a) through (c), Sept. 28, 1976 , 90 Stat. 1344 . |
+| 100737(d) | no source. |  |
+
+
+Written Statements
+
+Monitoring and Enforcement Procedures
+
+Exemptions
+
+Criminal Penalties
+
+Historical and Revision Notes
+
+16 U.S.C. 1912(a)
+
+Pub. L. 94–429, § 13(a)
+
+Sept. 28, 1976
+
+90 Stat. 1344
+
+100737(d)
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3110](https://www.govinfo.gov/link/statute/128/3110).)*

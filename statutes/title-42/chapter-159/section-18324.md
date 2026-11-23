@@ -3,9 +3,10 @@ title: "Section 18324 - Utilization of existing workforce and assets in developm
 usc_title: 42
 usc_section: "18324"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18324"
-generated_at: "2026-03-30T02:56:11.519Z"
+generated_at: "2026-11-23T21:26:33.820Z"
+status: "active"
 ---
 
 # § 18324. Utilization of existing workforce and assets in development of Space Launch System and multi-purpose crew vehicle
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.519Z"
   - **(3)** shall complete construction and activation of the A–3 test stand with a completion goal of September 30, 2013 ;
   - **(4)** may procure, develop, and flight test applicable components; and
   - **(5)** shall take appropriate actions to ensure timely and cost-effective development of the Space Launch System and the multi-purpose crew vehicle, including the use of a procurement approach that incorporates adequate and effective oversight, the facilitation of contractor efficiencies, and the stream-lining of contract and procurement requirements.
+
+## Source Credit
+
+*([Pub. L. 111–267, title III, § 304](https://www.govinfo.gov/link/plaw/111/public/267), Oct. 11, 2010, [124 Stat. 2816](https://www.govinfo.gov/link/statute/124/2816).)*

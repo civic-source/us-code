@@ -3,9 +3,10 @@ title: "Section 494 - Nuclear force reductions"
 usc_title: 10
 usc_section: "494"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 494"
-generated_at: "2026-03-30T02:53:38.062Z"
+generated_at: "2026-11-23T21:25:32.273Z"
+status: "active"
 ---
 
 # § 494. Nuclear force reductions
@@ -59,3 +60,81 @@ generated_at: "2026-03-30T02:53:38.062Z"
     - **(A)** reductions made to ensure the safety, security, reliability, and credibility of the nuclear weapons stockpile and strategic delivery systems, including activities related to surveillance, assessment, certification, testing, and maintenance of nuclear warheads and strategic delivery systems; or
     - **(B)** nuclear warheads that are retired or awaiting dismantlement on the date of the certification under paragraph (1).
   - **(4)** On the date on which the President transmits to the congressional defense committees a report by the Commander of the United States Strategic Command under paragraph (2), the President may transmit to such committees a report by the President with respect to whether the recommended reductions covered by the report of the Commander will impact the deterrence or extended deterrence capabilities of the United States.
+
+Implementation of New START Treaty.—
+
+Sense of congress
+
+Insufficient funding.—
+
+Report
+
+Prior notification
+
+Exception
+
+Definitions
+
+Annual Report on the Nuclear Weapons Stockpile of the United States.—
+
+Sense of congress
+
+Report required
+
+Net Assessment of Nuclear Force Levels Required With Respect to Certain Proposals To Reduce the Nuclear Weapons Stockpile of the United States.—
+
+In general
+
+Proposal described.—
+
+In general
+
+Exceptions
+
+Termination
+
+Prevention of Asymmetry in Reductions.—
+
+Certification
+
+Notification
+
+Exception
+
+Additional views
+
+Report.—
+
+In general
+
+Year described
+
+Definitions
+
+Appropriate congressional committees
+
+CFE treaty
+
+INF treaty
+
+New start treaty
+
+Requirement
+
+Rule of Construction
+
+Implementation.—
+
+Consolidated budget display
+
+Fiscal year specified
+
+Definitions
+
+Barack Obama.
+
+Barack Obama.
+
+## Source Credit
+
+*(Added and amended [Pub. L. 112–239, div. A, title X](https://www.govinfo.gov/link/plaw/112/public/239), §§ 1033(b)(1), (2)(B), 1034, Jan. 2, 2013, [126 Stat. 1920–1922](https://www.govinfo.gov/link/statute/126/1920); [Pub. L. 113–66, div. A, title X, § 1091(a)(7)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 875](https://www.govinfo.gov/link/statute/127/875); [Pub. L. 113–291, div. A, title X, § 1071(c)(10)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3509](https://www.govinfo.gov/link/statute/128/3509); [Pub. L. 115–91, div. A, title X, § 1081(a)(19)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1595](https://www.govinfo.gov/link/statute/131/1595); [Pub. L. 115–232, div. A, title X, § 1081(a)(5)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1983](https://www.govinfo.gov/link/statute/132/1983); [Pub. L. 117–81, div. A, title XVI, § 1632](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2090](https://www.govinfo.gov/link/statute/135/2090).)*

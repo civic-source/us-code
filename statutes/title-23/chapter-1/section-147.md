@@ -3,9 +3,10 @@ title: "Section 147 - Construction of ferry boats and ferry terminal facilities"
 usc_title: 23
 usc_section: "147"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 147"
-generated_at: "2026-03-30T02:55:12.558Z"
+generated_at: "2026-11-23T21:25:53.891Z"
+status: "active"
 ---
 
 # § 147. Construction of ferry boats and ferry terminal facilities
@@ -41,3 +42,81 @@ generated_at: "2026-03-30T02:55:12.558Z"
 - **(i)** Notwithstanding section 118(b), funds made available to carry out this section shall remain available until expended.
 - **(j)** All provisions of this chapter that are applicable to the National Highway System, other than provisions relating to apportionment formula and Federal share, shall apply to funds made available to carry out this section, except as determined by the Secretary to be inconsistent with this section.
 - **(k)** Notwithstanding any other provision of law, in addition to other uses of funds under this section, an eligible entity may use amounts made available under this section to pay the operating costs of the eligible entity.
+
+Program
+
+Federal Share
+
+Distribution of Funds
+
+Formula
+
+Redistribution of Unobligated Amounts
+
+Minimum Amount
+
+Implementation.—
+
+Data collection.—
+
+National ferry database
+
+Eligibility for funding
+
+Adjustments
+
+Authorization of Appropriations
+
+Period of Availability
+
+Applicability
+
+Additional Uses
+
+In general
+
+Sunset
+
+Definitions
+
+Alternative fuel
+
+Electric or low-emitting ferry
+
+Secretary
+
+Establishment
+
+Requirement
+
+Authorization of Appropriations
+
+Definitions
+
+Basic essential ferry service
+
+Eligible service
+
+Rural area
+
+Secretary
+
+Establishment
+
+Program Criteria
+
+Waivers
+
+Treatment.—
+
+Not attributable to urbanized areas
+
+No receipt of certain apportioned funds
+
+Funding
+
+Operating Costs.—
+
+## Source Credit
+
+*(Added [Pub. L. 93–87, title I, § 126(a)](https://www.govinfo.gov/link/plaw/93/public/87), Aug. 13, 1973, [87 Stat. 263](https://www.govinfo.gov/link/statute/87/263); amended [Pub. L. 94–280, title I, § 130](https://www.govinfo.gov/link/plaw/94/public/280), May 5, 1976, [90 Stat. 440](https://www.govinfo.gov/link/statute/90/440); [Pub. L. 105–178, title I, § 1212(a)(2)(A)(i)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 193](https://www.govinfo.gov/link/statute/112/193); [Pub. L. 109–59, title I, § 1801(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1455](https://www.govinfo.gov/link/statute/119/1455); [Pub. L. 112–141, div. A, title I, § 1121(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 493](https://www.govinfo.gov/link/statute/126/493); [Pub. L. 114–94, div. A, title I, § 1112(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1345](https://www.govinfo.gov/link/statute/129/1345); [Pub. L. 117–58, div. A, title I, § 11121](https://www.govinfo.gov/link/plaw/117/public/58), div. G, title XI, § 71103(g)(1), Nov. 15, 2021, [135 Stat. 497](https://www.govinfo.gov/link/statute/135/497), 1326.)*

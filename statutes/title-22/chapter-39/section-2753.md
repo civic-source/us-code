@@ -3,9 +3,10 @@ title: "Section 2753 - Eligibility for defense services or defense articles"
 usc_title: 22
 usc_section: "2753"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2753"
-generated_at: "2026-03-30T02:55:05.383Z"
+generated_at: "2026-11-23T21:25:58.544Z"
+status: "active"
 ---
 
 # § 2753. Eligibility for defense services or defense articles
@@ -69,3 +70,77 @@ generated_at: "2026-03-30T02:55:05.383Z"
 - **(e)** If the President receives any information that a transfer of any defense article, or related training or other defense service, has been made without his consent as required under this section or under section 2314 of this title , he shall report such information immediately to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate.
 - **(f)** No sales or leases shall be made to any country that the President has determined is in material breach of its binding commitments to the United States under international treaties or agreements concerning the nonproliferation of nuclear explosive devices (as defined in section 6305(4) of this title ) and unsafeguarded special nuclear material (as defined in section 6305(8) of this title ).
 - **(g)** Any agreement for the sale or lease of any article on the United States Munitions List entered into by the United States Government after November 29, 1999 , shall state that the United States Government retains the right to verify credible reports that such article has been used for a purpose not authorized under section 2754 of this title or, if such agreement provides that such article may only be used for purposes more limited than those authorized under section 2754 of this title , for a purpose not authorized under such agreement.
+
+In General
+
+Arms Export Control Act
+
+Pilot Program Authorized
+
+Fund for Support of Program Authorized
+
+Credits to Fund.—
+
+In general
+
+Limitation on amounts creditable from sale or transfer of articles.—
+
+Credits in connection with articles not to be replaced
+
+Credits in connection with articles to be replaced
+
+Limitation on size of fund
+
+Treatment of amounts credited
+
+Authorization to purchase services from dod working capital fund activities
+
+Nonavailability of Amounts in Fund for Storage, Maintenance, and Related Costs
+
+Sales or Transfers of Defense Articles.—
+
+In general
+
+Secretary of state concurrence required for certain sales or transfers to foreign countries
+
+Transfers of Amounts.—
+
+Transfer to other department of defense accounts
+
+Transfer from other department of defense accounts
+
+Certain Excess Proceeds To Be Credited to Special Defense Acquisition Fund
+
+Materiel Efficiencies and Duplication
+
+Conduct by Public or Private Sector Facilities or Entities
+
+Reports.—
+
+Annual report
+
+Assessment report
+
+Appropriate congressional committees defined
+
+Defense Article Defined
+
+Expiration of Authority
+
+“Congress makes the following findings:
+
+Notification
+
+Content of Notification
+
+Countries Defined
+
+Exclusions
+
+Eligibility
+
+Definitions
+
+## Source Credit
+
+*([Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 1, § 3, Oct. 22, 1968, [82 Stat. 1322](https://www.govinfo.gov/link/statute/82/1322); [Pub. L. 91–672, § 1](https://www.govinfo.gov/link/plaw/91/public/672), Jan. 12, 1971, [84 Stat. 2053](https://www.govinfo.gov/link/statute/84/2053); [Pub. L. 93–189, § 25(2)](https://www.govinfo.gov/link/plaw/93/public/189), Dec. 17, 1973, [87 Stat. 729](https://www.govinfo.gov/link/statute/87/729); [Pub. L. 93–559, § 45(a)(1)](https://www.govinfo.gov/link/plaw/93/public/559), Dec. 30, 1974, [88 Stat. 1813](https://www.govinfo.gov/link/statute/88/1813); [Pub. L. 94–329, title II](https://www.govinfo.gov/link/plaw/94/public/329), §§ 203(a), 204(a), (b)(1), title III, § 304(b), June 30, 1976, [90 Stat. 735](https://www.govinfo.gov/link/statute/90/735), 736, 754, 755; [Pub. L. 95–92](https://www.govinfo.gov/link/plaw/95/public/92), §§ 15–18, Aug. 4, 1977, [91 Stat. 622](https://www.govinfo.gov/link/statute/91/622); [Pub. L. 96–92, § 11](https://www.govinfo.gov/link/plaw/96/public/92), Oct. 29, 1979, [93 Stat. 705](https://www.govinfo.gov/link/statute/93/705); [Pub. L. 96–533, title I, § 101](https://www.govinfo.gov/link/plaw/96/public/533), Dec. 16, 1980, [94 Stat. 3131](https://www.govinfo.gov/link/statute/94/3131); [Pub. L. 97–113, title I](https://www.govinfo.gov/link/plaw/97/public/113), §§ 101(a), 102(a), 109(b)(2), Dec. 29, 1981, [95 Stat. 1519](https://www.govinfo.gov/link/statute/95/1519), 1520, 1526; [Pub. L. 99–83, title I, § 115(b)(2)](https://www.govinfo.gov/link/plaw/99/public/83), title V, § 503(b), Aug. 8, 1985, [99 Stat. 201](https://www.govinfo.gov/link/statute/99/201), 221; [Pub. L. 99–145, title XI, § 1102(a)(3)](https://www.govinfo.gov/link/plaw/99/public/145), (5), Nov. 8, 1985, [99 Stat. 710](https://www.govinfo.gov/link/statute/99/710); [Pub. L. 99–247, § 1(a)](https://www.govinfo.gov/link/plaw/99/public/247), Feb. 12, 1986, [100 Stat. 9](https://www.govinfo.gov/link/statute/100/9); [Pub. L. 99–661, div. A, title XIII, § 1342(e)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3991](https://www.govinfo.gov/link/statute/100/3991); [Pub. L. 100–461, title V, § 577](https://www.govinfo.gov/link/plaw/100/public/461), Oct. 1, 1988, [102 Stat. 2268–45](https://www.govinfo.gov/link/statute/102/2268); [Pub. L. 101–222, § 2(b)](https://www.govinfo.gov/link/plaw/101/public/222), Dec. 12, 1989, [103 Stat. 1896](https://www.govinfo.gov/link/statute/103/1896); [Pub. L. 103–236, title VIII, § 822(a)(1)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 511](https://www.govinfo.gov/link/statute/108/511); [Pub. L. 104–164, title I](https://www.govinfo.gov/link/plaw/104/public/164), §§ 141(a), (b), 142, July 21, 1996, [110 Stat. 1430](https://www.govinfo.gov/link/statute/110/1430), 1431, 1433; [Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XII, § 1225]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–499; [Pub. L. 107–228, div. B, title XIV, § 1405(a)(1)](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1456](https://www.govinfo.gov/link/statute/116/1456); [Pub. L. 110–429, title II, § 203(b)(1)](https://www.govinfo.gov/link/plaw/110/public/429), (2), Oct. 15, 2008, [122 Stat. 4845](https://www.govinfo.gov/link/statute/122/4845); [Pub. L. 111–266, title I](https://www.govinfo.gov/link/plaw/111/public/266), §§ 102(a), 104(a), title III, § 301, Oct. 8, 2010, [124 Stat. 2797](https://www.govinfo.gov/link/statute/124/2797), 2799, 2804; [Pub. L. 113–276, title II, § 208(a)(1)](https://www.govinfo.gov/link/plaw/113/public/276), Dec. 18, 2014, [128 Stat. 2992](https://www.govinfo.gov/link/statute/128/2992).)*

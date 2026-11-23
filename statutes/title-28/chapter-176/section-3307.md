@@ -3,9 +3,10 @@ title: "Section 3307 - Defenses, liability, and protection of trans­feree"
 usc_title: 28
 usc_section: "3307"
 chapter: 176
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 3307"
-generated_at: "2026-03-30T02:55:30.154Z"
+generated_at: "2026-11-23T21:26:01.146Z"
+status: "active"
 ---
 
 # § 3307. Defenses, liability, and protection of trans­feree
@@ -26,3 +27,19 @@ generated_at: "2026-03-30T02:55:30.154Z"
   - **(1)** to the extent the insider gives new value to or for the benefit of the debtor after the transfer is made unless the new value is secured by a valid lien;
   - **(2)** if made in the ordinary course of business or financial affairs of the debtor and the insider; or
   - **(3)** if made pursuant to a good-faith effort to rehabilitate the debtor and the transfer secured both present value given for that purpose and an antecedent debt of the debtor.
+
+Good Faith Transfer
+
+Limitation
+
+Value of Asset
+
+Rights of Good Faith Transferees and Obligees
+
+Exceptions
+
+Limitation of Voidability
+
+## Source Credit
+
+*(Added [Pub. L. 101–647, title XXXVI, § 3611](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4963](https://www.govinfo.gov/link/statute/104/4963).)*

@@ -3,9 +3,10 @@ title: "Section 1924 - In-service waiver of premiums"
 usc_title: 38
 usc_section: "1924"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1924"
-generated_at: "2026-03-30T02:55:53.490Z"
+generated_at: "2026-11-23T21:26:16.675Z"
+status: "active"
 ---
 
 # § 1924. In-service waiver of premiums
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:53.490Z"
 - **(a)** Waiver of all premiums on five-year level premium term insurance and that portion of any permanent insurance premiums representing the cost of the pure insurance risk, as determined by the Secretary, granted on National Service Life Insurance or United States Government life insurance under section 622 of the National Service Life Insurance Act of 1940 and in effect on January 1, 1959 , shall, unless canceled, continue in effect according to the provisions of such section for the remainder of the insured’s continuous active service and for one hundred and twenty days thereafter. Such premium waiver renders the contract of insurance nonparticipating during the period the waiver is in effect.
 - **(b)** Whenever benefits become payable because of the maturity of such insurance while under the premium waiver continued by this section, liability for payment of such benefits shall be borne by the United States in an amount which, when added to any reserve of the policy at the time of maturity, will equal the then value of such benefits under such policy. Where life contingencies are involved in the calculation of the value of such benefits, the calculation of such liability or liabilities shall be based upon such mortality table or tables as the Secretary may prescribe with interest at the rate of 2¼ per centum per annum as to insurance issued under sections 620 and 621 of the National Service Life Insurance Act of 1940, at the rate of 3 per centum per annum as to other National Service Life Insurance, and 3½ per centum per annum as to United States Government life insurance. The Secretary shall transfer from time to time from the National Service Life Insurance appropriation to the National Service Life Insurance Fund and from the military and naval insurance appropriation to the United States Government Life Insurance Fund such sums as may be necessary to carry out the provisions of this section.
 - **(c)** In any case in which insurance continued in force under this section matures on or after January 1, 1972 , an amount equal to the amount of premiums, less dividends, waived on and after that date shall be placed as an indebtedness against the insurance and, unless otherwise paid, shall be deducted from the proceeds. In such case, the liability of the Government under subsection (b) of this section shall be reduced by the amount so deducted from the proceeds.
+
+## Source Credit
+
+*([Pub. L. 85–857](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1157](https://www.govinfo.gov/link/statute/72/1157), § 724; [Pub. L. 92–197, § 7](https://www.govinfo.gov/link/plaw/92/public/197), Dec. 15, 1971, [85 Stat. 662](https://www.govinfo.gov/link/statute/85/662); renumbered § 1924 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406](https://www.govinfo.gov/link/statute/105/404).)*

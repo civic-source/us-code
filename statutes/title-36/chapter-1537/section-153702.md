@@ -3,9 +3,10 @@ title: "Section 153702 - Purposes"
 usc_title: 36
 usc_section: "153702"
 chapter: 1537
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 153702"
-generated_at: "2026-03-30T02:55:44.706Z"
+generated_at: "2026-11-23T21:26:13.696Z"
+status: "active"
 ---
 
 # § 153702. Purposes
@@ -18,3 +19,22 @@ The purposes of the corporation are—
   - **(4)** to teach patriotism, the duties of citizenship, the true history of our country, and the love and honor of our flag;
   - **(5)** to oppose every tendency or movement that would weaken loyalty to, destroy, or impair our constitutional Union; and
   - **(6)** to inculcate and broadly sustain the American principles of representative government, equal rights, and impartial justice for all.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 153702 | 36:1003. | Sept. 7, 1962 , Pub. L. 87–650, § 3 , 76 Stat. 503 . |
+
+
+Historical and Revision Notes
+
+153702
+
+Sept. 7, 1962
+
+Pub. L. 87–650, § 3
+
+76 Stat. 503
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1428](https://www.govinfo.gov/link/statute/112/1428).)*

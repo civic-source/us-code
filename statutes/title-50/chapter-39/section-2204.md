@@ -3,9 +3,10 @@ title: "Section 2204 - Definitions"
 usc_title: 50
 usc_section: "2204"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2204"
-generated_at: "2026-03-30T02:56:26.220Z"
+generated_at: "2026-11-23T21:26:38.962Z"
+status: "active"
 ---
 
 # § 2204. Definitions
@@ -19,3 +20,7 @@ As used in this chapter—
     - **(B)** any corporation, partnership, or other legal entity; and
     - **(C)** any organization, association, or group; and
   - **(4)** the term “spoils of war” means enemy movable property lawfully captured, seized, confiscated, or found which has become United States property in accordance with the laws of war.
+
+## Source Credit
+
+*([Pub. L. 103–236, title V, § 555](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 482](https://www.govinfo.gov/link/statute/108/482).)*

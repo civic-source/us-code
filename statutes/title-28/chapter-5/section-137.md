@@ -3,9 +3,10 @@ title: "Section 137 - Division of business among district judges"
 usc_title: 28
 usc_section: "137"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 137"
-generated_at: "2026-03-30T02:55:30.124Z"
+generated_at: "2026-11-23T21:26:01.022Z"
+status: "active"
 ---
 
 # § 137. Division of business among district judges
@@ -19,3 +20,51 @@ generated_at: "2026-03-30T02:55:30.124Z"
       - **(ii)** a judge to whom another proceeding concerning an application for the determination of a reasonable license fee is assigned at the time of the filing of the application.
     - **(C)** Subparagraph (B) does not apply to an application to determine reasonable license fees made by individual proprietors under section 513 of title 17 .
   - **(2)** Nothing in paragraph (1) shall modify the rights of any party to a consent decree or to a proceeding to determine reasonable license fees, to make an application for the construction of any provision of the applicable consent decree. Such application shall be referred to the judge to whom continuing jurisdiction over the applicable consent decree is currently assigned. If any such application is made in connection with a rate proceeding, such rate proceeding shall be stayed until the final determination of the construction application. Disputes in connection with a rate proceeding about whether a licensee is similarly situated to another licensee shall not be subject to referral to the judge with continuing jurisdiction over the applicable consent decree.
+
+In General
+
+Random Assignment of Rate Court Proceedings.—
+
+In general.—
+
+Definition
+
+Determination of license fee
+
+Exception
+
+Rule of construction
+
+Establishment.—
+
+In general
+
+Senior judges
+
+Right to transfer cases preserved
+
+Designation.—
+
+In general
+
+Criteria for designations.—
+
+In general
+
+Selection of courts
+
+Duration
+
+Applicability
+
+Reports to Congress.—
+
+In general
+
+Timetable for reports
+
+Periodic reports
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 897](https://www.govinfo.gov/link/statute/62/897); [Pub. L. 115–264, title I, § 104](https://www.govinfo.gov/link/plaw/115/public/264), Oct. 11, 2018, [132 Stat. 3726](https://www.govinfo.gov/link/statute/132/3726).)*

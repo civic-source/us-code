@@ -3,9 +3,10 @@ title: "Section 3734 - Annual submission of information on the Veterans Housing 
 usc_title: 38
 usc_section: "3734"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3734"
-generated_at: "2026-03-30T02:55:53.514Z"
+generated_at: "2026-11-23T21:26:16.782Z"
+status: "active"
 ---
 
 # § 3734. Annual submission of information on the Veterans Housing Benefit Program Fund and housing programs
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:53.514Z"
     - **(E)** Each additional source of revenue.
   - **(3)** Information, for each fiscal year referred to in paragraph (2) of this subsection, regarding the types of dispositions made and anticipated to be made of defaults on loans guaranteed, insured, or made under this chapter, including the cost to the fund, and the numbers, of such types of dispositions.
 - **(c)** The information submitted under subsection (a) shall include a statement that summarizes the financial activity of each of the housing programs operated under this chapter. The statement shall be presented in a form that is simple, concise, and readily understandable, and shall not include references to financing accounts, liquidating accounts, or program accounts.
+
+## Source Credit
+
+*(Added [Pub. L. 101–237, title III, § 302(b)(1)](https://www.govinfo.gov/link/plaw/101/public/237), Dec. 18, 1989, [103 Stat. 2070](https://www.govinfo.gov/link/statute/103/2070), § 1834; renumbered § 3734 and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 105–368, title VI, § 602(d)](https://www.govinfo.gov/link/plaw/105/public/368), (e)(1)(F), (3)(A), Nov. 11, 1998, [112 Stat. 3346](https://www.govinfo.gov/link/statute/112/3346), 3347; [Pub. L. 107–14, § 8(a)(9)](https://www.govinfo.gov/link/plaw/107/public/14), June 5, 2001, [115 Stat. 35](https://www.govinfo.gov/link/statute/115/35); [Pub. L. 107–330, title III, § 308(g)(12)](https://www.govinfo.gov/link/plaw/107/public/330), Dec. 6, 2002, [116 Stat. 2829](https://www.govinfo.gov/link/statute/116/2829).)*

@@ -3,9 +3,10 @@ title: "Section 2615 - Prohibited acts"
 usc_title: 29
 usc_section: "2615"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 2615"
-generated_at: "2026-03-30T02:55:18.745Z"
+generated_at: "2026-11-23T21:26:02.316Z"
+status: "active"
 ---
 
 # § 2615. Prohibited acts
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:18.745Z"
   - **(1)** has filed any charge, or has instituted or caused to be instituted any proceeding, under or related to this subchapter;
   - **(2)** has given, or is about to give, any information in connection with any inquiry or proceeding relating to any right provided under this subchapter; or
   - **(3)** has testified, or is about to testify, in any inquiry or proceeding relating to any right provided under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 103–3, title I, § 105](https://www.govinfo.gov/link/plaw/103/public/3), Feb. 5, 1993, [107 Stat. 14](https://www.govinfo.gov/link/statute/107/14).)*

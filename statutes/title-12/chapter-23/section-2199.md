@@ -3,9 +3,10 @@ title: "Section 2199 - Disclosure"
 usc_title: 12
 usc_section: "2199"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2199"
-generated_at: "2026-03-30T02:53:53.474Z"
+generated_at: "2026-11-23T21:25:37.059Z"
+status: "active"
 ---
 
 # § 2199. Disclosure
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:53.474Z"
   - **(1)** provide a review of the loan to determine if the proper interest rate has been established;
   - **(2)** explain to the borrower in writing the basis for the interest rate charged; and
   - **(3)** explain to the borrower in writing how the credit status of the borrower may be improved to receive a lower interest rate on the loan.
+
+## Source Credit
+
+*([Pub. L. 92–181, title IV, § 4](https://www.govinfo.gov/link/plaw/92/public/181).13, as added [Pub. L. 99–205, title III, § 301(b)](https://www.govinfo.gov/link/plaw/99/public/205), Dec. 23, 1985, [99 Stat. 1707](https://www.govinfo.gov/link/statute/99/1707); amended [Pub. L. 100–233, title I](https://www.govinfo.gov/link/plaw/100/public/233), §§ 103, 109, Jan. 6, 1988, [101 Stat. 1579](https://www.govinfo.gov/link/statute/101/1579), 1584; [Pub. L. 104–105, title II, § 207](https://www.govinfo.gov/link/plaw/104/public/105), Feb. 10, 1996, [110 Stat. 173](https://www.govinfo.gov/link/statute/110/173).)*

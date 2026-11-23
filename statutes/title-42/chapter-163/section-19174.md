@@ -3,9 +3,10 @@ title: "Section 19174 - NIST engagement with rural communities"
 usc_title: 42
 usc_section: "19174"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19174"
-generated_at: "2026-03-30T02:56:11.541Z"
+generated_at: "2026-11-23T21:26:33.876Z"
+status: "active"
 ---
 
 # § 19174. NIST engagement with rural communities
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.541Z"
 - **(c)** In carrying out the program under subsection (a), the Secretary may award not more than a total of $5,000,000 to one or more winners of the prize competition.
 - **(d)** Not later than 60 days after the date on which a prize is awarded under the prize competition, the Secretary shall submit to the relevant committees of Congress a report that describes the winning proposal of the prize competition.
 - **(e)** In carrying out the program under this section, the Secretary shall consult with the Federal Communications Commission and the heads of relevant departments and agencies of the Federal Government.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title V, § 10516](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1619](https://www.govinfo.gov/link/statute/136/1619).)*

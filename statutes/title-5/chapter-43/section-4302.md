@@ -3,9 +3,10 @@ title: "Section 4302 - Establishment of performance appraisal systems"
 usc_title: 5
 usc_section: "4302"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 4302"
-generated_at: "2026-03-30T02:52:56.009Z"
+generated_at: "2026-11-23T21:25:23.188Z"
+status: "active"
 ---
 
 # § 4302. Establishment of performance appraisal systems
@@ -39,3 +40,24 @@ generated_at: "2026-03-30T02:52:56.009Z"
   - **(5)** assisting employees in improving unacceptable performance; and
   - **(6)** reassigning, reducing in grade, or removing employees who continue to have unacceptable performance but only after an opportunity to demonstrate acceptable performance.
 - **(d)** In accordance with regulations which the Office shall prescribe, the head of an agency may administer and maintain a performance appraisal system electronically.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 2002 . | Sept. 30, 1950, ch. 1123, § 3 , 64 Stat. 1098 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 2002
+
+Sept. 30, 1950, ch. 1123, § 3
+
+64 Stat. 1098
+
+Definitions
+
+Report
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 440](https://www.govinfo.gov/link/statute/80/440); [Pub. L. 95–454, title II, § 203(a)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1132](https://www.govinfo.gov/link/statute/92/1132); [Pub. L. 102–378, § 2(18)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1347](https://www.govinfo.gov/link/statute/106/1347); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title XI, § 1104], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–311; [Pub. L. 115–91, div. A, title X, § 1097(d)(1)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1619](https://www.govinfo.gov/link/statute/131/1619).)*

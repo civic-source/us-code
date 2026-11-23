@@ -3,9 +3,10 @@ title: "Section 8343a - Alternative forms of annuities"
 usc_title: 5
 usc_section: "8343a"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8343a"
-generated_at: "2026-03-30T02:52:56.051Z"
+generated_at: "2026-11-23T21:25:23.401Z"
+status: "active"
 ---
 
 # § 8343a. Alternative forms of annuities
@@ -23,3 +24,19 @@ generated_at: "2026-03-30T02:52:56.051Z"
   - **(1)** is married, shall be ineligible to make an election under this section unless a waiver is made under section 8339(j)(1) of this title ; or
   - **(2)** has a former spouse, shall be ineligible to make an election under this section if the former spouse is entitled to benefits under section 8341(h) or 8345(j) of this title (based on the service of the employee or Member) under the terms of a decree of divorce or annulment, or a court order or court-approved property settlement incident to any such decree, with respect to which the Office has been duly notified.
 - **(e)** An employee or Member who is married at the time of retiring under this subchapter and who makes an election under this section may, during the 18-month period beginning on the date of retirement, make the election provided for under section 8339( o ) of this title, subject to the deposit requirement thereunder.
+
+In General
+
+Schedule of Payments
+
+Exceptions
+
+Annuity Benefits Not Affected
+
+Definitions
+
+Continued Applicability
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title II, § 204(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 591](https://www.govinfo.gov/link/statute/100/591); amended [Pub. L. 101–428, § 2(d)(5)](https://www.govinfo.gov/link/plaw/101/public/428), Oct. 15, 1990, [104 Stat. 929](https://www.govinfo.gov/link/statute/104/929); [Pub. L. 101–508, title VII, § 7001(a)(1)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–327](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–66, title XI, § 11002(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 409](https://www.govinfo.gov/link/statute/107/409); [Pub. L. 105–61, title V, § 516(a)(5)](https://www.govinfo.gov/link/plaw/105/public/61), Oct. 10, 1997, [111 Stat. 1306](https://www.govinfo.gov/link/statute/111/1306); [Pub. L. 106–553, § 1(a)(2) [title III, § 308(h)(5)]](https://www.govinfo.gov/link/plaw/106/public/553), Dec. 21, 2000, [114 Stat. 2762](https://www.govinfo.gov/link/statute/114/2762), 2762A–89.)*

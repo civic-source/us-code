@@ -3,9 +3,10 @@ title: "Section 1972 - Genius Prize for Save Our Seas Innovations"
 usc_title: 33
 usc_section: "1972"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1972"
-generated_at: "2026-03-30T02:55:41.111Z"
+generated_at: "2026-11-23T21:26:11.418Z"
+status: "active"
 ---
 
 # § 1972. Genius Prize for Save Our Seas Innovations
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:41.111Z"
   - **(3)** promote development of materials that—
     - **(A)** can fully degrade in the ocean without harming the environment, wildlife, or human health; and
     - **(B)** are to be used in fishing gear or other maritime products that have an increased likelihood of entering the coastal or ocean environment as unintentional waste.
+
+## Source Credit
+
+*([Pub. L. 109–449, § 122](https://www.govinfo.gov/link/plaw/109/public/449), formerly [Pub. L. 116–224, title I, § 122](https://www.govinfo.gov/link/plaw/116/public/224), Dec. 18, 2020, [134 Stat. 1081](https://www.govinfo.gov/link/statute/134/1081); renumbered [Pub. L. 109–449, § 122](https://www.govinfo.gov/link/plaw/109/public/449), by [Pub. L. 119–65, § 4(a)](https://www.govinfo.gov/link/plaw/119/public/65), Dec. 26, 2025, [139 Stat. 1989](https://www.govinfo.gov/link/statute/139/1989).)*

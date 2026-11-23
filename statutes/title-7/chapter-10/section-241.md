@@ -3,9 +3,10 @@ title: "Section 241 - Definitions"
 usc_title: 7
 usc_section: "241"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 241"
-generated_at: "2026-03-30T02:53:42.279Z"
+generated_at: "2026-11-23T21:25:27.937Z"
+status: "active"
 ---
 
 # § 241. Definitions
@@ -26,3 +27,13 @@ In this chapter:
   - **(9)** The term “Secretary” means the Secretary of Agriculture.
   - **(10)** The term “warehouse” means a structure or other approved storage facility, as determined by the Secretary, in which any agricultural product may be stored or handled for the purposes of interstate or foreign commerce.
   - **(11)** The term “warehouse operator” means a person that is lawfully engaged in the business of storing or handling agricultural products.
+
+Proposed Regulations
+
+Final Regulations
+
+Effectiveness of Existing Act
+
+## Source Credit
+
+*(Aug. 11, 1916, ch. 313, pt. C, § 2, as added [Pub. L. 106–472, title II, § 201](https://www.govinfo.gov/link/plaw/106/public/472), Nov. 9, 2000, [114 Stat. 2061](https://www.govinfo.gov/link/statute/114/2061).)*

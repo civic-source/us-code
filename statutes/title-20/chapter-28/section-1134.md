@@ -3,9 +3,10 @@ title: "Section 1134 - Award of Jacob K. Javits fellowships"
 usc_title: 20
 usc_section: "1134"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1134"
-generated_at: "2026-03-30T02:54:48.146Z"
+generated_at: "2026-11-23T21:25:47.245Z"
+status: "active"
 ---
 
 # § 1134. Award of Jacob K. Javits fellowships
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:48.146Z"
 - **(c)** The institution of higher education may allow a fellowship recipient to interrupt periods of study for a period not to exceed 12 months for the purpose of work, travel, or independent study away from the campus, if such independent study is supportive of the fellowship recipient’s academic program and shall continue payments for those 12-month periods during which the student is pursuing travel or independent study supportive of the recipient’s academic program. In the case of other exceptional circumstances, such as active duty military service or personal or family member illness, the institution of higher education may also permit the fellowship recipient to interrupt periods of study for the duration of the tour of duty (in the case of military service) or for not more than 12 months (in any other case), but without payment of the stipend.
 - **(d)** The Secretary shall make applications for fellowships under this part available not later than October 1 of the academic year preceding the academic year for which fellowships will be awarded, and shall announce the recipients of fellowships under this section not later than March 1 of the academic year preceding the academic year for which the fellowships are awarded.
 - **(e)** The Secretary is authorized to enter into a contract with a nongovernmental agency to administer the program assisted under this part if the Secretary determines that entering into the contract is an efficient means of carrying out the program.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VII, § 701](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title VII, § 701](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1786](https://www.govinfo.gov/link/statute/112/1786); amended [Pub. L. 110–315, title VII, § 702(a)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3345](https://www.govinfo.gov/link/statute/122/3345).)*

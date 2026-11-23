@@ -3,9 +3,10 @@ title: "Section 3402 - Congressional declaration of purpose"
 usc_title: 20
 usc_section: "3402"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 3402"
-generated_at: "2026-03-30T02:54:48.177Z"
+generated_at: "2026-11-23T21:25:47.403Z"
+status: "active"
 ---
 
 # § 3402. Congressional declaration of purpose
@@ -19,3 +20,7 @@ The Congress declares that the establishment of a Department of Education is in 
   - **(5)** to improve the coordination of Federal education programs;
   - **(6)** to improve the management and efficiency of Federal education activities, especially with respect to the process, procedures, and administrative structures for the dispersal of Federal funds, as well as the reduction of unnecessary and duplicative burdens and constraints, including unnecessary paperwork, on the recipients of Federal funds; and
   - **(7)** to increase the accountability of Federal education programs to the President, the Congress, and the public.
+
+## Source Credit
+
+*([Pub. L. 96–88, title I, § 102](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 670](https://www.govinfo.gov/link/statute/93/670).)*

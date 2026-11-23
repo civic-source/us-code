@@ -3,9 +3,10 @@ title: "Section 670c - Program for public outdoor recreation"
 usc_title: 16
 usc_section: "670c"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 670c"
-generated_at: "2026-03-30T02:54:22.893Z"
+generated_at: "2026-11-23T21:25:51.719Z"
+status: "active"
 ---
 
 # § 670c. Program for public outdoor recreation
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:22.893Z"
 - **(d)** A volunteer under subsection (c) shall not be considered to be a Federal employee and shall not be subject to the provisions of law relating to Federal employment, including those relating to hours of work, rates of compensation, leave, unemployment compensation, and Federal employee benefits, except that—
   - **(1)** for the purposes of the tort claims provisions of chapter 171 of title 28, the volunteer shall be considered to be a Federal employee; and
   - **(2)** for the purposes of subchapter I of chapter 81 of title 5, relating to compensation to Federal employees for work injuries, the volunteer shall be considered to be an employee, as defined in section 8101(1)(B) of title 5 , and the provisions of such subchapter shall apply.
+
+## Source Credit
+
+*([Pub. L. 86–797, title I, § 103](https://www.govinfo.gov/link/plaw/86/public/797), formerly § 3, Sept. 15, 1960, [74 Stat. 1053](https://www.govinfo.gov/link/statute/74/1053); [Pub. L. 90–465, § 1](https://www.govinfo.gov/link/plaw/90/public/465), Aug. 8, 1968, [82 Stat. 661](https://www.govinfo.gov/link/statute/82/661); renumbered title I, § 103, [Pub. L. 93–452, § 3(1)](https://www.govinfo.gov/link/plaw/93/public/452), Oct. 18, 1974, [88 Stat. 1375](https://www.govinfo.gov/link/statute/88/1375); [Pub. L. 105–85, div. B, title XXIX](https://www.govinfo.gov/link/plaw/105/public/85), §§ 2904(b)(6), 2913(6), Nov. 18, 1997, [111 Stat. 2018](https://www.govinfo.gov/link/statute/111/2018), 2022; [Pub. L. 105–261, div. B, title XXVIII, § 2813](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2206](https://www.govinfo.gov/link/statute/112/2206).)*

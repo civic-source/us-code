@@ -3,9 +3,10 @@ title: "Section 1711 - General Surplus and Participating Reserve Accounts"
 usc_title: 12
 usc_section: "1711"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1711"
-generated_at: "2026-03-30T02:53:53.411Z"
+generated_at: "2026-11-23T21:25:36.875Z"
+status: "active"
 ---
 
 # § 1711. General Surplus and Participating Reserve Accounts
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:53.411Z"
     - **(B)** The term “capital ratio” means the ratio of capital to unamortized insurance-in-force.
     - **(C)** The term “economic net worth” means the current cash available to the Fund, plus the net present value of all future cash inflows and outflows expected to result from the outstanding mortgages in the Fund.
     - **(D)** The term “unamortized insurance-in-force” means the remaining obligation on outstanding mortgages which are obligations of the Mutual Mortgage Insurance Fund, as estimated by the Secretary.
+
+## Source Credit
+
+*(June 27, 1934, ch. 847, title II, § 205, [48 Stat. 1250](https://www.govinfo.gov/link/statute/48/1250); May 28, 1935, ch. 150, § 29(b), [49 Stat. 300](https://www.govinfo.gov/link/statute/49/300); Feb. 3, 1938, ch. 13, § 3, [52 Stat. 15](https://www.govinfo.gov/link/statute/52/15); June 3, 1939, ch. 175, § 11, [53 Stat. 807](https://www.govinfo.gov/link/statute/53/807); Apr. 20, 1950, ch. 94, title I, § 122, [64 Stat. 59](https://www.govinfo.gov/link/statute/64/59); June 30, 1953, ch. 170, § 4, [67 Stat. 122](https://www.govinfo.gov/link/statute/67/122); Aug. 2, 1954, ch. 649, title I, § 114, [68 Stat. 594](https://www.govinfo.gov/link/statute/68/594); [Pub. L. 90–19, § 1(a)(3)](https://www.govinfo.gov/link/plaw/90/public/19), May 25, 1967, [81 Stat. 17](https://www.govinfo.gov/link/statute/81/17); [Pub. L. 101–508, title II](https://www.govinfo.gov/link/plaw/101/public/508), §§ 2104, 2105, Nov. 5, 1990, [104 Stat. 1388–19](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–550, title V, § 508(a)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3782](https://www.govinfo.gov/link/statute/106/3782); [Pub. L. 110–289, div. B, title I, § 2118(c)(1)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2835](https://www.govinfo.gov/link/statute/122/2835).)*

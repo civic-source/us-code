@@ -3,9 +3,10 @@ title: "Section 155 - Commission"
 usc_title: 47
 usc_section: "155"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 155"
-generated_at: "2026-03-30T02:56:24.493Z"
+generated_at: "2026-11-23T21:26:35.933Z"
+status: "active"
 ---
 
 # § 155. Commission
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:24.493Z"
   - **(9)** The secretary and seal of the Commission shall be the secretary and seal of each panel of the Commission, each individual commissioner, and each employee board or individual employee exercising functions delegated pursuant to paragraph (1) of this subsection.
 - **(d)** Meetings of the Commission shall be held at regular intervals, not less frequently than once each calendar month, at which times the functioning of the Commission and the handling of its work load shall be reviewed and such orders shall be entered and other action taken as may be necessary or appropriate to expedite the prompt and orderly conduct of the business of the Commission with the objective of rendering a final decision (1) within three months from the date of filing in all original application, renewal, and transfer cases in which it will not be necessary to hold a hearing, and (2) within six months from the final date of the hearing in all hearing cases.
 - **(e)** The Commission shall have a Managing Director who shall be appointed by the Chairman subject to the approval of the Commission. The Managing Director, under the supervision and direction of the Chairman, shall perform such administrative and executive functions as the Chairman shall delegate. The Managing Director shall be paid at a rate equal to the rate then payable for level V of the Executive Schedule.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title I, § 5, [48 Stat. 1068](https://www.govinfo.gov/link/statute/48/1068); July 16, 1952, ch. 879, § 4, [66 Stat. 712](https://www.govinfo.gov/link/statute/66/712); [Pub. L. 87–192](https://www.govinfo.gov/link/plaw/87/public/192), §§ 1, 2, Aug. 31, 1961, [75 Stat. 420](https://www.govinfo.gov/link/statute/75/420); [Pub. L. 96–470, title I, § 116](https://www.govinfo.gov/link/plaw/96/public/470), Oct. 19, 1980, [94 Stat. 2240](https://www.govinfo.gov/link/statute/94/2240); [Pub. L. 97–35, title XII, § 1252](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 738](https://www.govinfo.gov/link/statute/95/738); [Pub. L. 97–259, title I, § 105](https://www.govinfo.gov/link/plaw/97/public/259), Sept. 13, 1982, [96 Stat. 1091](https://www.govinfo.gov/link/statute/96/1091); [Pub. L. 99–272, title V, § 5002(c)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 118](https://www.govinfo.gov/link/statute/100/118); [Pub. L. 100–594](https://www.govinfo.gov/link/plaw/100/public/594), §§ 4, 8(a), Nov. 3, 1988, [102 Stat. 3021](https://www.govinfo.gov/link/statute/102/3021), 3023; [Pub. L. 103–414, title III, § 303(a)(2)](https://www.govinfo.gov/link/plaw/103/public/414), Oct. 25, 1994, [108 Stat. 4294](https://www.govinfo.gov/link/statute/108/4294); [Pub. L. 104–104, title IV, § 403(c)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 130](https://www.govinfo.gov/link/statute/110/130).)*

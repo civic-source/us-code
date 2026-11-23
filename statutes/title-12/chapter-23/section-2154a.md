@@ -3,9 +3,10 @@ title: "Section 2154a - Capitalization of System institutions"
 usc_title: 12
 usc_section: "2154a"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2154a"
-generated_at: "2026-03-30T02:53:53.473Z"
+generated_at: "2026-11-23T21:25:37.057Z"
+status: "active"
 ---
 
 # § 2154a. Capitalization of System institutions
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:53:53.473Z"
     - **(B)** The bylaws adopted by a bank or association under subsection (b) may provide that if a loan described in subparagraph (A) is sold into a secondary market after the end of the 180-day period described in the subparagraph, all outstanding voting stock or participation certificates held by the borrower with respect to the loan shall, subject to subsection (d)(1), be retired.
 - **(g)** This section shall not be construed to affect the provisions of this chapter that confer on System institutions a lien on borrower stock or other equities and the privilege to retire or cancel such stock or other equities for application against the indebtedness on a defaulted or restructured loan.
 - **(h)** To the extent that any provision of this section is inconsistent with any other provision of this chapter (other than section 2162 of this title ), the provision of this section shall control.
+
+## Source Credit
+
+*([Pub. L. 92–181, title IV, § 4](https://www.govinfo.gov/link/plaw/92/public/181).3A, as added [Pub. L. 100–233, title III, § 301(b)](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1608](https://www.govinfo.gov/link/statute/101/1608); amended [Pub. L. 100–399, title III, § 301(b)](https://www.govinfo.gov/link/plaw/100/public/399) –(f), Aug. 17, 1988, [102 Stat. 994](https://www.govinfo.gov/link/statute/102/994); [Pub. L. 102–552, title I, § 101](https://www.govinfo.gov/link/plaw/102/public/552), Oct. 28, 1992, [106 Stat. 4103](https://www.govinfo.gov/link/statute/106/4103); [Pub. L. 104–105, title II, § 206](https://www.govinfo.gov/link/plaw/104/public/105), Feb. 10, 1996, [110 Stat. 173](https://www.govinfo.gov/link/statute/110/173); [Pub. L. 110–234, title V, § 5403(b)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1154](https://www.govinfo.gov/link/statute/122/1154); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title V, § 5403(b), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1916.)*

@@ -3,9 +3,10 @@ title: "Section 9022 - Financial management"
 usc_title: 10
 usc_section: "9022"
 chapter: 903
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 9022"
-generated_at: "2026-03-30T02:53:38.255Z"
+generated_at: "2026-11-23T21:25:32.972Z"
+status: "active"
 ---
 
 # § 9022. Financial management
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:38.255Z"
     - **(D)** the systematic measurement of performance.
 - **(c)** The Assistant Secretary shall maintain a five-year plan describing the activities the Department of the Air Force proposes to conduct over the next five fiscal years to improve financial management. Such plan shall be revised annually.
 - **(d)** The Assistant Secretary of the Air Force for Financial Management shall transmit to the Secretary of the Air Force a report each year on the activities of the Assistant Secretary during the preceding year. Each such report shall include a description and analysis of the status of Department of the Air Force financial management.
+
+## Source Credit
+
+*(Added [Pub. L. 100–456, div. A, title VII, § 702(c)(2)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 1995](https://www.govinfo.gov/link/statute/102/1995), § 8022; amended [Pub. L. 103–337, div. A, title X, § 1070(a)(15)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2856](https://www.govinfo.gov/link/statute/108/2856); [Pub. L. 104–106, div. A, title XV, § 1503(b)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 512](https://www.govinfo.gov/link/statute/110/512); renumbered § 9022, [Pub. L. 115–232, div. A, title VIII, § 806(c)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1833](https://www.govinfo.gov/link/statute/132/1833).)*

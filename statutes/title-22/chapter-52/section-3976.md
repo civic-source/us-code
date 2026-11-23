@@ -3,9 +3,10 @@ title: "Section 3976 - Survivors’ and dependents’ educational assistance"
 usc_title: 22
 usc_section: "3976"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3976"
-generated_at: "2026-03-30T02:55:05.400Z"
+generated_at: "2026-11-23T21:25:58.607Z"
+status: "active"
 ---
 
 # § 3976. Survivors’ and dependents’ educational assistance
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.400Z"
 - **(b)** The head of an executive agency shall, pursuant to guidance issued under section 3973(c) of this title provide educational assistance authorized by this section to a beneficiary of any employee of that agency who dies as a result of an act of terrorism or terrorism, as defined in section 2656f(d) of this title , while on duty abroad and subject to the authority of the chief of mission pursuant to section 3927 of this title .
 - **(c)** Educational assistance under this section may be made available up to the amounts provided for in section 3532 of title 38 , as adjusted by section 3564 of title 38 , and for an aggregate period not in excess of 48 months.
 - **(d)** For purposes of this section, the terms “program of education” and “educational institution” have the meanings given the terms in section 3501 of title 38 .
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 416](https://www.govinfo.gov/link/plaw/96/public/465), as added [Pub. L. 113–76, div. K, title VII, § 7082(b)(1)](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 566](https://www.govinfo.gov/link/statute/128/566).)*

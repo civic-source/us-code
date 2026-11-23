@@ -3,9 +3,10 @@ title: "Section 3332 - Program; development, purposes, scope, etc."
 usc_title: 7
 usc_section: "3332"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3332"
-generated_at: "2026-03-30T02:53:42.402Z"
+generated_at: "2026-11-23T21:25:28.334Z"
+status: "active"
 ---
 
 # § 3332. Program; development, purposes, scope, etc.
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:42.402Z"
   - **(3)** revegetation and rehabilitation of rangelands including the control of undesirable species of plants; and
   - **(4)** such other matters as the Secretary considers appropriate.
 
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1479](https://www.govinfo.gov/link/plaw/95/public/113), as added [Pub. L. 97–98, title XIV, § 1440(a)](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1318](https://www.govinfo.gov/link/statute/95/1318).)*

@@ -3,9 +3,10 @@ title: "Section 3106 - Dates for submittal of various annual and semiannual repo
 usc_title: 50
 usc_section: "3106"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3106"
-generated_at: "2026-03-30T02:56:26.236Z"
+generated_at: "2026-11-23T21:26:39.013Z"
+status: "active"
 ---
 
 # § 3106. Dates for submittal of various annual and semiannual reports to the congressional intelligence committees
@@ -34,3 +35,11 @@ generated_at: "2026-03-30T02:56:26.236Z"
   - **(3)**
     - **(A)** The date for the submittal of a report whose submittal is postponed under paragraph (1) or (2) may be postponed beyond the time provided for the submittal of such report under such paragraph if the official required to submit such report submits to the congressional intelligence committees a written certification that preparation and submittal of such report at such time will impede the work of officers or employees of the intelligence community in a manner that will be detrimental to the national security of the United States.
     - **(B)** A certification with respect to a report under subparagraph (A) shall include a proposed submittal date for such report, and such report shall be submitted not later than that date.
+
+Consultation in Preparation
+
+Submittal
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title V, § 507, as added [Pub. L. 107–306, title VIII, § 811(a)(1)](https://www.govinfo.gov/link/plaw/107/public/306), Nov. 27, 2002, [116 Stat. 2418](https://www.govinfo.gov/link/statute/116/2418); amended [Pub. L. 108–177, title III, § 361](https://www.govinfo.gov/link/plaw/108/public/177) (l), Dec. 13, 2003, [117 Stat. 2626](https://www.govinfo.gov/link/statute/117/2626); [Pub. L. 111–259, title III, § 349](https://www.govinfo.gov/link/plaw/111/public/259), title V, § 501(b)(3), Oct. 7, 2010, [124 Stat. 2700](https://www.govinfo.gov/link/statute/124/2700), 2739; [Pub. L. 112–277, title III](https://www.govinfo.gov/link/plaw/112/public/277), §§ 309(b)(2), 310(b)(1), Jan. 14, 2013, [126 Stat. 2474](https://www.govinfo.gov/link/statute/126/2474), 2475; [Pub. L. 113–126, title III, § 329(c)(3)](https://www.govinfo.gov/link/plaw/113/public/126), July 7, 2014, [128 Stat. 1407](https://www.govinfo.gov/link/statute/128/1407); [Pub. L. 114–113, div. M, title VII, § 701(c)(2)](https://www.govinfo.gov/link/plaw/114/public/113), (3), Dec. 18, 2015, [129 Stat. 2929](https://www.govinfo.gov/link/statute/129/2929); [Pub. L. 116–92, div. E, title LIII, § 5322(c)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2130](https://www.govinfo.gov/link/statute/133/2130); [Pub. L. 117–263, div. F, title LXVIII, § 6824(a)(6)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3615](https://www.govinfo.gov/link/statute/136/3615); [Pub. L. 117–286, § 4(b)(100)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4353](https://www.govinfo.gov/link/statute/136/4353); [Pub. L. 119–60, div. F, title LXVIII, § 6801(a)(1)(B)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1652](https://www.govinfo.gov/link/statute/139/1652).)*

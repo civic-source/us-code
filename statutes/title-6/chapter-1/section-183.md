@@ -3,9 +3,10 @@ title: "Section 183 - Functions transferred"
 usc_title: 6
 usc_section: "183"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 183"
-generated_at: "2026-03-30T02:53:09.447Z"
+generated_at: "2026-11-23T21:25:25.758Z"
+status: "active"
 ---
 
 # § 183. Functions transferred
@@ -20,3 +21,7 @@ In accordance with subchapter XII, there shall be transferred to the Secretary t
     - **(E)** The Environmental Measurements Laboratory.
     - **(F)** The advanced scientific computing research program and activities at Lawrence Livermore National Laboratory.
   - **(2)** The National Bio-Weapons Defense Analysis Center of the Department of Defense, including the functions of the Secretary of Defense related thereto.
+
+## Source Credit
+
+*([Pub. L. 107–296, title III, § 303](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2164](https://www.govinfo.gov/link/statute/116/2164).)*

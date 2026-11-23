@@ -3,9 +3,10 @@ title: "Section 174 - Advisory personnel: research and development"
 usc_title: 10
 usc_section: "174"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 174"
-generated_at: "2026-03-30T02:53:38.043Z"
+generated_at: "2026-11-23T21:25:32.231Z"
+status: "active"
 ---
 
 # § 174. Advisory personnel: research and development
@@ -16,3 +17,26 @@ generated_at: "2026-03-30T02:53:38.043Z"
   - **(1)** the Under Secretary of his department;
   - **(2)** an Assistant Secretary of his department; or
   - **(3)** the chief, and one assistant to the chief, of any technical service, bureau, or office.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 174(a) | 5:235b (1st sentence). 5:475g (1st sentence). 5:628b (1st sentence). | July 16, 1952, ch. 882 , §§ 1, 7 (as applicable to § 1), 66 Stat. 725 , 726. |
+| 174(b) | 5:235b (less 1st sentence). 5:475g (less 1st sentence). 5:628b (less 1st sentence). |  |
+| 174(c) | 5:235h (as applicable to 5:235b). 5:475m (as applicable to 5:475g). 5:628h (as applicable to 5:628b). |  |
+
+
+Historical and Revision Notes
+
+174(a)
+
+July 16, 1952, ch. 882
+
+66 Stat. 725
+
+174(b)
+
+174(c)
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 9; [Pub. L. 104–106, div. A, title X, § 1061(e)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 443](https://www.govinfo.gov/link/statute/110/443).)*

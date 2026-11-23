@@ -3,9 +3,10 @@ title: "Section 6505 - Compliance requirements"
 usc_title: 7
 usc_section: "6505"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6505"
-generated_at: "2026-03-30T02:53:42.431Z"
+generated_at: "2026-11-23T21:25:28.391Z"
+status: "active"
 ---
 
 # § 6505. Compliance requirements
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:42.431Z"
   - **(1)** contain at least 50 percent organically produced ingredients by weight, excluding water and salt, to the extent that the Secretary, in consultation with the National Organic Standards Board and the Secretary of Health and Human Services, has determined to permit the word “organic” to be used on the principal display panel of such products only for the purpose of describing the organically produced ingredients; or
   - **(2)** contain less than 50 percent organically produced ingredients by weight, excluding water and salt, to the extent that the Secretary, in consultation with the National Organic Standards Board and the Secretary of Health and Human Services, has determined to permit the word “organic” to appear on the ingredient listing panel to describe those ingredients that are organically produced in accordance with this chapter.
 - **(d)** Subsection (a)(1) shall not apply to persons who sell no more than $5,000 annually in value of agricultural products.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XXI, § 2106](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3937](https://www.govinfo.gov/link/statute/104/3937).)*

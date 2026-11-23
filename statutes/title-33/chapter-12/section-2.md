@@ -3,9 +3,10 @@ title: "Section 2 - Deauthorization of inactive projects"
 usc_title: 33
 usc_section: "2"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2"
-generated_at: "2026-03-30T02:55:41.063Z"
+generated_at: "2026-11-23T21:26:11.319Z"
+status: "active"
 ---
 
 # § 579d–2. Deauthorization of inactive projects
@@ -63,3 +64,7 @@ generated_at: "2026-03-30T02:55:41.063Z"
     - **(C)** a review conducted under section 549a of this title , including an initial appraisal that—
       - **(i)** demonstrates a Federal interest; and
       - **(ii)** requires additional analysis for the project or separable element.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. AA, title III, § 301](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2699](https://www.govinfo.gov/link/statute/134/2699); [Pub. L. 117–263, div. H, title LXXXI, § 8301](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3775](https://www.govinfo.gov/link/statute/136/3775); [Pub. L. 118–272, div. A, title III, § 1301](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3107](https://www.govinfo.gov/link/statute/138/3107).)*

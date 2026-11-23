@@ -3,9 +3,10 @@ title: "Section 3352 - Agriculture research facility expansion and security upgr
 usc_title: 7
 usc_section: "3352"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3352"
-generated_at: "2026-03-30T02:53:42.402Z"
+generated_at: "2026-11-23T21:25:28.335Z"
+status: "active"
 ---
 
 # § 3352. Agriculture research facility expansion and security upgrades
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:42.402Z"
 - **(e)** The amount of a grant awarded under this section shall be determined by the Secretary.
 - **(f)** The Federal share of the cost of any expansion or security upgrade carried out using funds from a grant provided under this section shall not exceed 50 percent.
 - **(g)** There are authorized to be appropriated to carry out this section such sums as are necessary for each fiscal year.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1485](https://www.govinfo.gov/link/plaw/95/public/113), as added [Pub. L. 107–171, title VII, § 7221(a)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 453](https://www.govinfo.gov/link/statute/116/453).)*

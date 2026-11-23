@@ -3,9 +3,10 @@ title: "Section 3901 - Definitions and application"
 usc_title: 31
 usc_section: "3901"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 3901"
-generated_at: "2026-03-30T02:55:34.062Z"
+generated_at: "2026-11-23T21:26:10.600Z"
+status: "active"
 ---
 
 # § 3901. Definitions and application
@@ -35,3 +36,25 @@ generated_at: "2026-03-30T02:55:34.062Z"
     - **(B)** If a claim for an interest penalty is filed in the manner described in paragraph (2) and interest is not available for such claims under the laws and regulations governing claims under contracts to provide property or services for the District of Columbia Courts, interest will accrue under this chapter as provided in paragraph (A) and from the date the claim is filed until the date the claim is paid.
   - **(4)** Paragraph (3) of this subsection does not prevent an interest penalty from accruing on a claim if such interest is available for such claim under the laws and regulations governing claims under contracts to provide property or services for the District of Columbia Courts. Such interest may accrue on an unpaid contract payment and on the unpaid penalty under this chapter.
   - **(5)** Except as provided in section 3904 of this title , this chapter does not require an interest penalty on a payment that is not made because of a dispute between the head of an agency and a business concern over the amount of payment or compliance with the contract. A claim related to the dispute, and any interest payable for the period during which the dispute is being resolved, is subject to the laws and regulations governing claims under contracts to provide property or services for the District of Columbia Courts.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3901(a) | 31 App.:1805. | May 21, 1982 , Pub. L. 97–177 , §§ 6, 7(c), 96 Stat. 87 , 88. |
+| 3901(b) | 31 App.:1806. |  |
+
+
+Historical and Revision Notes
+
+3901(a)
+
+May 21, 1982
+
+Pub. L. 97–177
+
+96 Stat. 87
+
+3901(b)
+
+## Source Credit
+
+*(Added [Pub. L. 97–452, § 1(18)(A)](https://www.govinfo.gov/link/plaw/97/public/452), Jan. 12, 1983, [96 Stat. 2474](https://www.govinfo.gov/link/statute/96/2474); amended [Pub. L. 100–496, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/496) –(c)(1), Oct. 17, 1988, [102 Stat. 2455](https://www.govinfo.gov/link/statute/102/2455); [Pub. L. 105–277, div. A, § 101(c) [title I, § 162(a)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–121](https://www.govinfo.gov/link/statute/112/2681), 2681–148; [Pub. L. 105–362, title XIII, § 1301(c)(2)(A)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3293](https://www.govinfo.gov/link/statute/112/3293); [Pub. L. 115–232, div. A, title VIII, § 836(g)(3)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1873](https://www.govinfo.gov/link/statute/132/1873).)*

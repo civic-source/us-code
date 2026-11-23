@@ -3,9 +3,10 @@ title: "Section 2013 - Program to improve retention of housing by formerly homel
 usc_title: 38
 usc_section: "2013"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 2013"
-generated_at: "2026-03-30T02:55:53.493Z"
+generated_at: "2026-11-23T21:26:16.687Z"
+status: "active"
 ---
 
 # § 2013. Program to improve retention of housing by formerly homeless veterans and veterans at risk of becoming homeless
@@ -22,3 +23,15 @@ generated_at: "2026-03-30T02:55:53.493Z"
       - **(ii)** converts a facility that the organization used to provide transitional housing services into a facility that the organization uses to provide permanent housing that meets housing quality standards established under section 8( o )(8)(B) of the United States Housing Act of 1937 ( 42 U.S.C. 1437f ( o )(8)(B)).
     - **(C)** In any case in which a facility, with respect to which a person received a grant for construction, rehabilitation, or acquisition under section 2011 of this title , is converted as described in subparagraph (B)(ii), such conversion shall be considered to have been carried out pursuant to the needs of the Department and such person shall not be considered in noncompliance with the terms of such grant by reason of such conversion.
   - **(3)** The Secretary shall require each recipient of a grant awarded under this subsection to submit to the Secretary a report that describes the services provided or coordinated with amounts under such grant.
+
+Program Required
+
+Services
+
+Staffing
+
+Grants
+
+## Source Credit
+
+*(Added [Pub. L. 114–315, title VII, § 712(a)(1)(B)](https://www.govinfo.gov/link/plaw/114/public/315), Dec. 16, 2016, [130 Stat. 1586](https://www.govinfo.gov/link/statute/130/1586); amended [Pub. L. 117–328, div. U, title III, § 302](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5466](https://www.govinfo.gov/link/statute/136/5466).)*

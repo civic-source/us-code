@@ -3,9 +3,10 @@ title: "Section 1679e - Right to cancel contract"
 usc_title: 15
 usc_section: "1679e"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1679e"
-generated_at: "2026-03-30T02:54:08.146Z"
+generated_at: "2026-11-23T21:25:39.867Z"
+status: "active"
 ---
 
 # § 1679e. Right to cancel contract
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.146Z"
 - **(c)** Any consumer who enters into any contract with any credit repair organization shall be given, by the organization—
   - **(1)** a copy of the completed contract and the disclosure statement required under section 1679c of this title ; and
   - **(2)** a copy of any other document the credit repair organization requires the consumer to sign,
+
+## Source Credit
+
+*([Pub. L. 90–321, title IV, § 407](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 104–208, div. A, title II, § 2451](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–459](https://www.govinfo.gov/link/statute/110/3009).)*

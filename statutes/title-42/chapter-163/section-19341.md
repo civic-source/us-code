@@ -3,9 +3,10 @@ title: "Section 19341 - Applied laboratories infrastructure restoration and mode
 usc_title: 42
 usc_section: "19341"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19341"
-generated_at: "2026-03-30T02:56:11.547Z"
+generated_at: "2026-11-23T21:26:33.886Z"
+status: "active"
 ---
 
 # § 19341. Applied laboratories infrastructure restoration and modernization
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:11.547Z"
 - **(d)** There is authorized to be appropriated to the Secretary to carry out the activities described in this section $800,000,000 for each of fiscal years 2023 through 2027, of which, in each fiscal year—
   - **(1)** $640,000,000 is authorized to be appropriated for projects at National Laboratories described in paragraphs (1) through (4) of subsection (a); and
   - **(2)** $160,000,000 is authorized to be appropriated for projects at National Laboratories described in paragraphs (5) through (7) of that subsection.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title VI, § 10761](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1725](https://www.govinfo.gov/link/statute/136/1725).)*

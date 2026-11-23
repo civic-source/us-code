@@ -3,9 +3,10 @@ title: "Section 18644 - Biological and environmental research"
 usc_title: 42
 usc_section: "18644"
 chapter: 161
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18644"
-generated_at: "2026-03-30T02:56:11.522Z"
+generated_at: "2026-11-23T21:26:33.828Z"
+status: "active"
 ---
 
 # § 18644. Biological and environmental research
@@ -195,3 +196,7 @@ generated_at: "2026-03-30T02:56:11.522Z"
   - **(2)** The term “bioenergy” means energy derived from biofuels.
   - **(3)** The term “biomass” has the meaning given the term in section 15852(b) of this title .
   - **(4)** The term “bioproduct” has the meaning given the term “biobased product” in section 8101 of title 7 .
+
+## Source Credit
+
+*([Pub. L. 115–246, title III, § 306](https://www.govinfo.gov/link/plaw/115/public/246), Sept. 28, 2018, [132 Stat. 3148](https://www.govinfo.gov/link/statute/132/3148); [Pub. L. 116–260, div. Z, title XI, § 11001](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2610](https://www.govinfo.gov/link/statute/134/2610); [Pub. L. 117–167, div. B, title I, § 10103(a)](https://www.govinfo.gov/link/plaw/117/public/167) –(d), Aug. 9, 2022, [136 Stat. 1420–1423](https://www.govinfo.gov/link/statute/136/1420).)*

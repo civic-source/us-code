@@ -3,12 +3,17 @@ title: "Section 194 - Lands held in private, municipal, or State ownership not a
 usc_title: 16
 usc_section: "194"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 194"
-generated_at: "2026-03-30T02:54:22.740Z"
+generated_at: "2026-11-23T21:25:51.389Z"
+status: "active"
 ---
 
 # § 194. Lands held in private, municipal, or State ownership not affected
 
 No lands located within the park boundaries held in private, municipal, or State ownership on January 26, 1915 , shall be affected by or subject to the provisions of sections 191, 193, 195, and 195a of this title.
 
+
+## Source Credit
+
+*(Jan. 26, 1915, ch. 19, § 3, [38 Stat. 800](https://www.govinfo.gov/link/statute/38/800).)*

@@ -3,9 +3,10 @@ title: "Section 6543 - Savings provisions"
 usc_title: 22
 usc_section: "6543"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6543"
-generated_at: "2026-03-30T02:55:05.430Z"
+generated_at: "2026-11-23T21:25:58.692Z"
+status: "active"
 ---
 
 # § 6543. Savings provisions
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:05.430Z"
   - **(2)** The Board shall participate in suits continued under paragraph (1) where the Broadcasting Board of Governors or other appropriate official of the Board is added as a party and shall be liable for any judgments or remedies in those suits or proceedings arising from the exercise of the functions transferred by this part to the same extent that USIA would have been liable if such judgment or remedy had been rendered on the day before the abolition of USIA.
 - **(e)** Any administrative action relating to the preparation or promulgation of a regulation by the Broadcasting Board of Governors relating to a function exercised by the Board before the effective date of this subchapter may be continued by the Board with the same effect as if this part had not been enacted.
 - **(f)** Reference in any other Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or relating to the Broadcasting Board of Governors of the United States Information Agency with regard to functions exercised before the effective date of this subchapter, shall be deemed to refer to the Board.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XIII, § 1327, Oct. 21, 1998, [112 Stat. 2681–783](https://www.govinfo.gov/link/statute/112/2681).)*

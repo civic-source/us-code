@@ -3,9 +3,10 @@ title: "Section 19235 - Person or entity of concern prohibition"
 usc_title: 42
 usc_section: "19235"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19235"
-generated_at: "2026-03-30T02:56:11.543Z"
+generated_at: "2026-11-23T21:26:33.880Z"
+status: "active"
 ---
 
 # § 19235. Person or entity of concern prohibition
@@ -15,3 +16,7 @@ No person published on the list under section 1237(b) of the Strom Thurmond Nati
   - **(1)** the Directorate established in part G of subchapter III of this chapter;
   - **(2)** section 3722a(b)(1) of title 15 , as added by section 10621; or
   - **(3)** the Manufacturing USA Program, as improved and expanded under part D of subchapter II of this chapter.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title VI, § 10636](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1669](https://www.govinfo.gov/link/statute/136/1669).)*

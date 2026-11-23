@@ -3,9 +3,10 @@ title: "Section 9105a - National Museum and Library Services Board"
 usc_title: 20
 usc_section: "9105a"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9105a"
-generated_at: "2026-03-30T02:54:48.223Z"
+generated_at: "2026-11-23T21:25:47.642Z"
+status: "active"
 ---
 
 # § 9105a. National Museum and Library Services Board
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:54:48.223Z"
   - **(1)** Each member of the Museum and Library Services Board who is not an officer or employee of the Federal Government may be compensated at a rate to be fixed by the President, but not to exceed the daily equivalent of the maximum annual rate of pay authorized for a position above grade GS–15 of the General Schedule under section 5108 of title 5 , for each day (including travel time) during which such member is engaged in the performance of the duties of the Museum and Library Services Board. Members of the Museum and Libraries Services Board who are full-time officers or employees of the Federal Government may not receive additional pay, allowances, or benefits by reason of their service on the Museum and Library Services Board.
   - **(2)** Each member of the Museum and Library Services Board shall receive travel expenses, including per diem in lieu of subsistence, in accordance with applicable provisions under subchapter I of chapter 57 of title 5.
 - **(j)** The Director, with the advice of the Museum and Library Services Board, shall coordinate the development and implementation of policies and activities as described in subsections (f) and (g) of section 9103 of this title .
+
+## Source Credit
+
+*([Pub. L. 94–462, title II, § 207](https://www.govinfo.gov/link/plaw/94/public/462), as added [Pub. L. 108–81, title I, § 104(2)](https://www.govinfo.gov/link/plaw/108/public/81), Sept. 25, 2003, [117 Stat. 993](https://www.govinfo.gov/link/statute/117/993); amended [Pub. L. 111–340, title I, § 104](https://www.govinfo.gov/link/plaw/111/public/340), Dec. 22, 2010, [124 Stat. 3597](https://www.govinfo.gov/link/statute/124/3597); [Pub. L. 112–166, § 2(r)](https://www.govinfo.gov/link/plaw/112/public/166), Aug. 10, 2012, [126 Stat. 1288](https://www.govinfo.gov/link/statute/126/1288); [Pub. L. 115–410, § 4](https://www.govinfo.gov/link/plaw/115/public/410), Dec. 31, 2018, [132 Stat. 5413](https://www.govinfo.gov/link/statute/132/5413).)*

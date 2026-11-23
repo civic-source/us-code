@@ -3,9 +3,10 @@ title: "Section 13a - Screening and treatment for maternal mental health and sub
 usc_title: 42
 usc_section: "13a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13a"
-generated_at: "2026-03-30T02:56:10.698Z"
+generated_at: "2026-11-23T21:26:30.272Z"
+status: "active"
 ---
 
 # § 247b–13a. Screening and treatment for maternal mental health and substance use disorders
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:10.698Z"
 - **(f)** The Secretary, based on evaluation of the activities funded pursuant to this section, shall identify and disseminate evidence-based or evidence-informed practices for screening, assessment, treatment, and referral to treatment services for maternal mental health and substance use disorders, including culturally and linguistically appropriate services, for women during pregnancy and 12 months following pregnancy.
 - **(g)** The Federal share of the cost of the activities for which a grant is made to an entity under subsection (a) shall not exceed 90 percent of the total cost of such activities.
 - **(h)** To carry out this section, there are authorized to be appropriated $24,000,000 for each of fiscal years 2023 through 2027.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 317L–1, as added [Pub. L. 114–255, div. B, title X, § 10005](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1266](https://www.govinfo.gov/link/statute/130/1266); amended [Pub. L. 117–328, div. FF, title I, § 1111](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5640](https://www.govinfo.gov/link/statute/136/5640).)*

@@ -3,9 +3,10 @@ title: "Section 1818 - Termination of status as insured depository institution"
 usc_title: 12
 usc_section: "1818"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1818"
-generated_at: "2026-03-30T02:53:53.446Z"
+generated_at: "2026-11-23T21:25:36.975Z"
+status: "active"
 ---
 
 # § 1818. Termination of status as insured depository institution
@@ -320,3 +321,177 @@ generated_at: "2026-03-30T02:53:53.446Z"
   - **(4)** Upon termination of the insured status of any State depository institution pursuant to paragraph (1), the deposits of such depository institution shall be treated in accordance with subsection (a)(7).
   - **(5)** This subsection shall not apply to a successor to the interests of, or a person who acquires, an insured depository institution that violated a provision of law described in paragraph (1), if the successor succeeds to the interests of the violator, or the acquisition is made, in good faith and not for purposes of evading this subsection or regulations prescribed under this subsection.
   - **(6)** The term “senior executive officer” has the same meaning as in regulations prescribed under section 1831i(f) of this title .
+
+Affirmative action to correct conditions resulting from violations or practices
+
+Authority to limit activities
+
+Unsatisfactory asset quality, management, earnings, or liquidity as unsafe or unsound practice
+
+Standard for certain orders
+
+Incomplete or inaccurate records.—
+
+Temporary order
+
+Effective period
+
+False advertising or misuse of names to indicate insured status.—
+
+Temporary order.—
+
+In general
+
+Effect of order
+
+Effective period of temporary order
+
+Civil money penalties
+
+Authority to issue order
+
+Specific violations.—
+
+In general
+
+Factors to be considered
+
+Suspension order.—
+
+Suspension or prohibition authorized
+
+Effective period
+
+Copy of order
+
+Prohibition of certain specific activities
+
+Industrywide Prohibition.—
+
+In general
+
+Exception if agency provides written consent
+
+Violation of paragraph treated as violation of order
+
+“Appropriate federal financial institutions regulatory agency” defined
+
+Consultation between agencies
+
+Applicability
+
+Suspension or prohibition.—
+
+In general
+
+Provisions applicable to notice.—
+
+Copy
+
+Effective period
+
+Removal or prohibition.—
+
+In general
+
+Required for certain offenses
+
+Provisions applicable to order.—
+
+Copy
+
+Effect of acquittal.—
+
+Effective period.—
+
+Relevant depository institution
+
+Civil money penalty.—
+
+First tier
+
+Second tier
+
+Third tier
+
+Maximum amounts of penalties for any violation described in subparagraph (c)
+
+Assessment.—
+
+Written notice
+
+Finality of assessment
+
+Authority to modify or remit penalty
+
+Mitigating factors
+
+Hearing
+
+Collection.—
+
+Referral
+
+Appropriateness of penalty not reviewable
+
+Disbursement
+
+Regulations
+
+Notice under this section after separation from service
+
+Prejudgment attachment.—
+
+In general
+
+Standard.—
+
+Showing
+
+State proceeding
+
+In general
+
+Delay of publication under exceptional circumstances
+
+Establishment
+
+Membership.—
+
+Appointment
+
+Terms
+
+Chairperson
+
+Vacancies
+
+Pay and expenses
+
+Meetings
+
+Duties of the Committee
+
+Review credit standards, lending practices, and supervision by federal regulators
+
+Prepare recommendations
+
+Monitor credit standards, lending practices, and supervision by federal regulators
+
+Annual Report.—
+
+Required
+
+Contents
+
+Conflict of Interest Guidelines
+
+Chapter
+
+of Title
+
+, United States Code, Does not Apply
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [8], [64 Stat. 879](https://www.govinfo.gov/link/statute/64/879); [Pub. L. 89–695, title II](https://www.govinfo.gov/link/plaw/89/public/695), §§ 202, 204, Oct. 16, 1966, [80 Stat. 1046](https://www.govinfo.gov/link/statute/80/1046), 1054; [Pub. L. 93–495, title I, § 110](https://www.govinfo.gov/link/plaw/93/public/495), Oct. 28, 1974, [88 Stat. 1506](https://www.govinfo.gov/link/statute/88/1506); [Pub. L. 95–369](https://www.govinfo.gov/link/plaw/95/public/369), §§ 6(c)(14), (15), 11, Sept. 17, 1978, [92 Stat. 618](https://www.govinfo.gov/link/statute/92/618), 624; [Pub. L. 95–630, title I](https://www.govinfo.gov/link/plaw/95/public/630), §§ 107(a)(1), (b), (c)(1), (d)(1), (e)(1), 111(a), title II, § 208(a), title III, §§ 303, 304, Nov. 10, 1978, [92 Stat. 3649](https://www.govinfo.gov/link/statute/92/3649), 3653, 3654, 3656, 3660, 3665, 3674, 3676; [Pub. L. 97–320, title I, § 113(g)](https://www.govinfo.gov/link/plaw/97/public/320), (h), title IV, §§ 404(c), 424(c), (d)(6), (e), 425(b), (c), 427(d), 433(a), Oct. 15, 1982, [96 Stat. 1473](https://www.govinfo.gov/link/statute/96/1473), 1474, 1512, 1523–1527; [Pub. L. 99–570, title I, § 1359(a)](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–27](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 101–73, title II, § 201](https://www.govinfo.gov/link/plaw/101/public/73), title IX, §§ 901(b)(1), (d), 902(a), 903(a), 904(a), 905(a), 906(a), 907(a), 908(a), 912, 913(a), 920(a), (c), 926, Aug. 9, 1989, [103 Stat. 187](https://www.govinfo.gov/link/statute/103/187), 446, 450, 453, 457, 459, 462, 477, 482, 483, 488; [Pub. L. 101–647, title XXV](https://www.govinfo.gov/link/plaw/101/public/647), §§ 2521(b)(1), 2532(a), 2547(a)(1), (2), 2596(a), (b), Nov. 29, 1990, [104 Stat. 4864](https://www.govinfo.gov/link/statute/104/4864), 4880, 4886, 4887, 4908; [Pub. L. 102–233, title III, § 302(a)](https://www.govinfo.gov/link/plaw/102/public/233), Dec. 12, 1991, [105 Stat. 1767](https://www.govinfo.gov/link/statute/105/1767); [Pub. L. 102–242, title I, § 131(c)(1)](https://www.govinfo.gov/link/plaw/102/public/242), (2), title III, §§ 302(e)(5), formerly (e)(4), 307, Dec. 19, 1991, [105 Stat. 2266](https://www.govinfo.gov/link/statute/105/2266), 2349, 2360; [Pub. L. 102–550, title XV](https://www.govinfo.gov/link/plaw/102/public/550), §§ 1503(a), 1504(a), title XVI, §§ 1603(d)(2)–(4), 1605(a)(5)(A), (11), Oct. 28, 1992, [106 Stat. 4048](https://www.govinfo.gov/link/statute/106/4048), 4051, 4080, 4085, 4086; [Pub. L. 102–558, title III](https://www.govinfo.gov/link/plaw/102/public/558), §§ 303(b)(6)(A), 305, Oct. 28, 1992, [106 Stat. 4225](https://www.govinfo.gov/link/statute/106/4225), 4226; [Pub. L. 103–204, § 25](https://www.govinfo.gov/link/plaw/103/public/204), Dec. 17, 1993, [107 Stat. 2408](https://www.govinfo.gov/link/statute/107/2408); [Pub. L. 103–325, title IV, § 411(c)(2)(A)](https://www.govinfo.gov/link/plaw/103/public/325), title VI, § 602(a)(11)–(18), Sept. 23, 1994, [108 Stat. 2253](https://www.govinfo.gov/link/statute/108/2253), 2289; [Pub. L. 105–164, § 3(a)(2)](https://www.govinfo.gov/link/plaw/105/public/164), Mar. 20, 1998, [112 Stat. 35](https://www.govinfo.gov/link/statute/112/35); [Pub. L. 105–362, title X, § 1001(d)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3291](https://www.govinfo.gov/link/statute/112/3291); [Pub. L. 106–569, title XII, § 1232](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 3037](https://www.govinfo.gov/link/statute/114/3037); [Pub. L. 109–173](https://www.govinfo.gov/link/plaw/109/public/173), §§ 3(a)(6), (7), 8(a)(10), Feb. 15, 2006, [119 Stat. 3605](https://www.govinfo.gov/link/statute/119/3605), 3611; [Pub. L. 109–351, title III, § 303](https://www.govinfo.gov/link/plaw/109/public/351), title VII, §§ 702(c), 708(a), 710(b), 715(a), 716(a), 717, Oct. 13, 2006, [120 Stat. 1970](https://www.govinfo.gov/link/statute/120/1970), 1985, 1988, 1991, 1995, 1996; [Pub. L. 110–343, div. A, title I, § 126(b)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3795](https://www.govinfo.gov/link/statute/122/3795); [Pub. L. 111–203, title I, § 172(b)](https://www.govinfo.gov/link/plaw/111/public/203), title III, § 363(3), title X, § 1090(1), July 21, 2010, [124 Stat. 1439](https://www.govinfo.gov/link/statute/124/1439), 1551, 2093.)*

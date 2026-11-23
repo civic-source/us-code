@@ -3,9 +3,10 @@ title: "Section 3583 - Inclusion of a term of supervised release after imprisonm
 usc_title: 18
 usc_section: "3583"
 chapter: 227
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3583"
-generated_at: "2026-03-30T02:54:16.520Z"
+generated_at: "2026-11-23T21:25:44.210Z"
+status: "active"
 ---
 
 # § 3583. Inclusion of a term of supervised release after imprisonment
@@ -35,3 +36,29 @@ generated_at: "2026-03-30T02:54:16.520Z"
 - **(i)** The power of the court to revoke a term of supervised release for violation of a condition of supervised release, and to order the defendant to serve a term of imprisonment and, subject to the limitations in subsection (h), a further term of supervised release, extends beyond the expiration of the term of supervised release for any period reasonably necessary for the adjudication of matters arising before its expiration if, before its expiration, a warrant or summons has been issued on the basis of an allegation of such a violation.
 - **(j)** Notwithstanding subsection (b), the authorized term of supervised release for any offense listed in section 2332b(g)(5)(B) is any term of years or life.
 - **(k)** Notwithstanding subsection (b), the authorized term of supervised release for any offense under section 1201 involving a minor victim, and for any offense under section 1591, 1594(c), 2241, 2242, 2243, 2244, 2245, 2250, 2251, 2251A, 2252, 2252A, 2260, 2421, 2422, 2423, or 2425, is any term of years not less than 5, or life. If a defendant required to register under the Sex Offender Registration and Notification Act commits any criminal offense under chapter 109A, 110, or 117, or section 1201 or 1591, for which imprisonment for a term longer than 1 year can be imposed, the court shall revoke the term of supervised release and require the defendant to serve a term of imprisonment under subsection (e)(3) without regard to the exception contained therein. Such term shall be not less than 5 years.
+
+In General
+
+Authorized Terms of Supervised Release
+
+Factors To Be Considered in Including a Term of Supervised Release
+
+Conditions of Supervised Release
+
+Modification of Conditions or Revocation
+
+Written Statement of Conditions
+
+Mandatory Revocation for Possession of Controlled Substance or Firearm or for Refusal To Comply With Drug Testing
+
+Supervised Release Following Revocation
+
+Delayed Revocation
+
+Supervised Release Terms for Terrorism Predicates
+
+Possession of Controlled Substances
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 212(a)(2)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 1999](https://www.govinfo.gov/link/statute/98/1999); amended [Pub. L. 99–570, title I, § 1006(a)(1)](https://www.govinfo.gov/link/plaw/99/public/570) –(3), Oct. 27, 1986, [100 Stat. 3207–6](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 99–646, § 14(a)](https://www.govinfo.gov/link/plaw/99/public/646), Nov. 10, 1986, [100 Stat. 3594](https://www.govinfo.gov/link/statute/100/3594); [Pub. L. 100–182](https://www.govinfo.gov/link/plaw/100/public/182), §§ 8, 9, 12, 25, Dec. 7, 1987, [101 Stat. 1267](https://www.govinfo.gov/link/statute/101/1267), 1268, 1272; [Pub. L. 100–690, title VII](https://www.govinfo.gov/link/plaw/100/public/690), §§ 7108, 7303(b), 7305(b), Nov. 18, 1988, [102 Stat. 4418](https://www.govinfo.gov/link/statute/102/4418), 4464, 4465; [Pub. L. 101–647, title XXXV, § 3589](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4930](https://www.govinfo.gov/link/statute/104/4930); [Pub. L. 103–322, title II, § 20414(c)](https://www.govinfo.gov/link/plaw/103/public/322), title XI, § 110505, title XXXII, § 320921(c), Sept. 13, 1994, [108 Stat. 1831](https://www.govinfo.gov/link/statute/108/1831), 2016, 2130; [Pub. L. 105–119, title I, § 115(a)(8)(B)(iv)](https://www.govinfo.gov/link/plaw/105/public/119), Nov. 26, 1997, [111 Stat. 2466](https://www.govinfo.gov/link/statute/111/2466); [Pub. L. 106–546, § 7(b)](https://www.govinfo.gov/link/plaw/106/public/546), Dec. 19, 2000, [114 Stat. 2734](https://www.govinfo.gov/link/statute/114/2734); [Pub. L. 107–56, title VIII, § 812](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 382](https://www.govinfo.gov/link/statute/115/382); [Pub. L. 107–273, div. B, title II, § 2103(b)](https://www.govinfo.gov/link/plaw/107/public/273), title III, § 3007, Nov. 2, 2002, [116 Stat. 1793](https://www.govinfo.gov/link/statute/116/1793), 1806; [Pub. L. 108–21, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/21), Apr. 30, 2003, [117 Stat. 651](https://www.govinfo.gov/link/statute/117/651); [Pub. L. 109–164, title II, § 209(d)](https://www.govinfo.gov/link/plaw/109/public/164), formerly [Pub. L. 114–22, title I, § 114(d)](https://www.govinfo.gov/link/plaw/114/public/22), May 29, 2015, [129 Stat. 242](https://www.govinfo.gov/link/statute/129/242), renumbered [§ 209(d) of Pub. L. 109–164](https://www.govinfo.gov/link/plaw/109/public/164) by [Pub. L. 117–347, title I, § 106(b)(1)](https://www.govinfo.gov/link/plaw/117/public/347), Jan. 5, 2023, [136 Stat. 6204](https://www.govinfo.gov/link/statute/136/6204); [Pub. L. 109–177, title II, § 212](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 230](https://www.govinfo.gov/link/statute/120/230); [Pub. L. 109–248, title I, § 141(e)](https://www.govinfo.gov/link/plaw/109/public/248), title II, § 210(b), July 27, 2006, [120 Stat. 603](https://www.govinfo.gov/link/statute/120/603), 615; [Pub. L. 110–406, § 14(b)](https://www.govinfo.gov/link/plaw/110/public/406), Oct. 13, 2008, [122 Stat. 4294](https://www.govinfo.gov/link/statute/122/4294); [Pub. L. 114–324, § 2(a)](https://www.govinfo.gov/link/plaw/114/public/324), Dec. 16, 2016, [130 Stat. 1948](https://www.govinfo.gov/link/statute/130/1948).)*

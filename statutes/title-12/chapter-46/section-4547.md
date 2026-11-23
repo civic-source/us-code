@@ -3,9 +3,10 @@ title: "Section 4547 - Enterprise guarantee fees"
 usc_title: 12
 usc_section: "4547"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4547"
-generated_at: "2026-03-30T02:53:53.508Z"
+generated_at: "2026-11-23T21:25:37.187Z"
+status: "active"
 ---
 
 # § 4547. Enterprise guarantee fees
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:53:53.508Z"
   - **(2)** An enterprise that has been found to be out of compliance with subsection (b) for any 2 consecutive years shall be precluded from providing any guarantee for a period, determined by rule of the Director, but in no case less than 1 year.
   - **(3)** Nothing in this subsection shall be interpreted as preventing the Director from initiating and implementing an enforcement action against an enterprise, at a time the Director deems necessary, under other existing enforcement authority.
 - **(f)** The provisions of this section shall expire on October 1, 2032 .
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1327](https://www.govinfo.gov/link/plaw/102/public/550), as added [Pub. L. 112–78, title IV, § 401](https://www.govinfo.gov/link/plaw/112/public/78), Dec. 23, 2011, [125 Stat. 1287](https://www.govinfo.gov/link/statute/125/1287); [Pub. L. 117–58, div. I, § 90005](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1346](https://www.govinfo.gov/link/statute/135/1346).)*

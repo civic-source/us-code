@@ -3,9 +3,10 @@ title: "Section 8456 - Socioeconomic impacts of increased coal production and ot
 usc_title: 42
 usc_section: "8456"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8456"
-generated_at: "2026-03-30T02:56:11.343Z"
+generated_at: "2026-11-23T21:26:33.203Z"
+status: "active"
 ---
 
 # § 8456. Socioeconomic impacts of increased coal production and other energy development
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.343Z"
   - **(2)** the timeliness of assistance in meeting impacts caused by Federal decisions on energy policy as well as private sector decisions, and
   - **(3)** the obstacles to effective assistance contained in regulations of existing programs related to impact assistance.
 - **(c)** Within 1 year after the effective date of this chapter, the committee shall submit a detailed report on the results of such study to the Congress, together with any recommendations for additional legislation it may consider appropriate.
+
+## Source Credit
+
+*([Pub. L. 95–620, title VII, § 746](https://www.govinfo.gov/link/plaw/95/public/620), Nov. 9, 1978, [92 Stat. 3344](https://www.govinfo.gov/link/statute/92/3344); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695).)*

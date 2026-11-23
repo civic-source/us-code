@@ -3,9 +3,10 @@ title: "Section 1903 - Special emergency procurement authority"
 usc_title: 41
 usc_section: "1903"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 1903"
-generated_at: "2026-03-30T02:55:55.803Z"
+generated_at: "2026-11-23T21:26:18.793Z"
+status: "active"
 ---
 
 # § 1903. Special emergency procurement authority
@@ -28,3 +29,46 @@ generated_at: "2026-03-30T02:55:55.803Z"
   - **(2)** A contract in an amount of more than $15,000,000 that is awarded on a sole source basis for a product or service treated as a commercial product or a commercial service under paragraph (1) is not exempt from—
     - **(A)** cost accounting standards prescribed under section 1502 of this title ; or
     - **(B)** cost or pricing data requirements (commonly referred to as truth in negotiating) under chapter 35 of this title and chapter 271 of title 10.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1903(a) | 41:428a(a), (e). | Pub. L. 93–400, § 32A , as added Pub. L. 108–136, title XIV, § 1443(a)(1) , Nov. 24, 2003 , 117 Stat. 1675 ; Pub. L. 108–375, title VIII, § 822 , Oct. 28, 2004 , 118 Stat. 2016 . |
+| 1903(b) | 41:428a(b), (c). |  |
+| 1903(c) | 41:428a(d). |  |
+
+
+Applicability
+
+Increased Thresholds and Limitation
+
+Authority To Treat Property or Service as Commercial Product or Commercial Service.—
+
+In general
+
+Certain contracts not exempt from standards or requirements
+
+Historical and Revision Notes
+
+1903(a)
+
+Pub. L. 93–400, § 32A
+
+Pub. L. 108–136, title XIV, § 1443(a)(1)
+
+Nov. 24, 2003
+
+117 Stat. 1675
+
+Pub. L. 108–375, title VIII, § 822
+
+Oct. 28, 2004
+
+118 Stat. 2016
+
+1903(b)
+
+1903(c)
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3721](https://www.govinfo.gov/link/statute/124/3721); [Pub. L. 114–92, div. A, title VIII, § 816](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 897](https://www.govinfo.gov/link/statute/129/897); [Pub. L. 114–328, div. A, title VIII, § 816](https://www.govinfo.gov/link/plaw/114/public/328), title XVI, § 1641, Dec. 23, 2016, [130 Stat. 2272](https://www.govinfo.gov/link/statute/130/2272), 2600; [Pub. L. 115–232, div. A, title VIII, § 836(b)(5)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1861](https://www.govinfo.gov/link/statute/132/1861); [Pub. L. 117–81, div. A, title XVII, § 1702(h)(7)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2158](https://www.govinfo.gov/link/statute/135/2158).)*

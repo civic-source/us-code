@@ -3,9 +3,10 @@ title: "Section 8031 - Interagency Working Group on IUU fishing"
 usc_title: 16
 usc_section: "8031"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8031"
-generated_at: "2026-03-30T02:54:23.081Z"
+generated_at: "2026-11-23T21:25:52.073Z"
+status: "active"
 ---
 
 # § 8031. Interagency Working Group on IUU fishing
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:54:23.081Z"
   - **(12)** supporting the work of collaborative international initiatives to make available certified data from state authorities about vessel and vessel-related activities related to IUU fishing;
   - **(13)** supporting the identification and certification procedures to address IUU fishing in accordance with the High Seas Driftnet Fishing Moratorium Protection Act ( 16 U.S.C. 1826d et seq.); and
   - **(14)** publishing annual reports summarizing nonsensitive information about the Working Group’s efforts to investigate, enforce, and prosecute groups and individuals engaging in IUU fishing.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. C, title XXXV, § 3551](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2005](https://www.govinfo.gov/link/statute/133/2005); [Pub. L. 117–263, div. K, title CXIII, § 11331(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4099](https://www.govinfo.gov/link/statute/136/4099).)*

@@ -3,12 +3,17 @@ title: "Section 875 - Emergency shelters; construction; contents; implementation
 usc_title: 30
 usc_section: "875"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 875"
-generated_at: "2026-03-30T02:55:29.391Z"
+generated_at: "2026-11-23T21:26:00.398Z"
+status: "active"
 ---
 
 # § 875. Emergency shelters; construction; contents; implementation plans
 
 The Secretary or an authorized representative of the Secretary may prescribe in any coal mine that rescue chambers, properly sealed and ventilated, be erected at suitable locations in the mine to which persons may go in case of an emergency for protection against hazards. Such chambers shall be properly equipped with first aid materials, an adequate supply of air and self-contained breathing equipment, an independent communication system to the surface, and proper accommodations for the persons while awaiting rescue, and such other equipment as the Secretary may require. A plan for the erection, maintenance, and revisions of such chambers and the training of the miners in their proper use shall be submitted by the operator to the Secretary for his approval.
 
+
+## Source Credit
+
+*([Pub. L. 91–173, title III, § 315](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 787](https://www.govinfo.gov/link/statute/83/787).)*

@@ -3,9 +3,10 @@ title: "Section 60305 - Evaluations by Inspector General and administrative reme
 usc_title: 34
 usc_section: "60305"
 chapter: 603
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 60305"
-generated_at: "2026-03-30T02:55:33.316Z"
+generated_at: "2026-11-23T21:26:09.859Z"
+status: "active"
 ---
 
 # § 60305. Evaluations by Inspector General and administrative remedies
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:33.316Z"
 - **(f)**
   - **(1)** In the case of a State that employs a statutory procedure described in section 60301(e)(1)(C) of this title , if the Inspector General submits a determination under subsection (a)(3) that the State is not in substantial compliance with the requirements of the applicable State statute, then for the period beginning with the date on which that determination was submitted and ending on the date on which the Inspector General determines that the State is in substantial compliance with the requirements of that statute, the funds awarded under this chapter shall be allocated solely for the uses described in section 60301 of this title .
   - **(2)** The requirements of this subsection apply in addition to, and not instead of, the other requirements of this section.
+
+## Source Credit
+
+*([Pub. L. 108–405, title IV, § 425](https://www.govinfo.gov/link/plaw/108/public/405), Oct. 30, 2004, [118 Stat. 2291](https://www.govinfo.gov/link/statute/118/2291).)*

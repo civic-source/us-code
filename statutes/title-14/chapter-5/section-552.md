@@ -3,9 +3,10 @@ title: "Section 552 - Discontinuance of aid to navigation"
 usc_title: 14
 usc_section: "552"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 552"
-generated_at: "2026-03-30T02:53:51.489Z"
+generated_at: "2026-11-23T21:25:35.377Z"
+status: "active"
 ---
 
 # § 552. Discontinuance of aid to navigation
@@ -30,3 +31,15 @@ generated_at: "2026-03-30T02:53:51.489Z"
     - **(K)** passenger vessel operators; and
     - **(L)** coastal residents.
 - **(d)** Not later than 30 days after the date on which the process is established under subsection (a), the Secretary shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of such process.
+
+In General
+
+Requirement
+
+Consultation
+
+Notification
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. G, title LXXII, § 7264(a)(1)(B)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1739](https://www.govinfo.gov/link/statute/139/1739).)*

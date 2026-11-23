@@ -3,9 +3,10 @@ title: "Section 1921b - Agreements with and other provisions related to the Repu
 usc_title: 48
 usc_section: "1921b"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1921b"
-generated_at: "2026-03-30T02:56:14.596Z"
+generated_at: "2026-11-23T21:26:38.114Z"
+status: "active"
 ---
 
 # § 1921b. Agreements with and other provisions related to the Republic of the Marshall Islands
@@ -90,3 +91,11 @@ generated_at: "2026-03-30T02:56:14.596Z"
     - **(A)** The Government of the Republic of the Marshall Islands shall notify the Government of the United States of America when an agreement amending or superseding the land use agreement dated October 19, 1982 , is concluded.
     - **(B)** If no agreement amending or superseding the land use agreement dated October 19, 1982 is concluded by the date five years after December 17, 2003 , then the President shall report to Congress on the intentions of the United States with respect to the use of Kwajalein Atoll after 2016, on any plans to relocate activities carried out on Kwajalein Atoll, and on the disposition of the funds and interest held in escrow under paragraph (3).
   - **(5)** The President is authorized to make loans and grants to the Government of the Marshall Islands to address the special needs of the community at Ebeye, Kwajalein Atoll, and other Marshallese communities within the Kwajalein Atoll, pursuant to development plans adopted in accordance with applicable laws of the Marshall Islands. The loans and grants shall be subject to such other terms and conditions as the President, in the discretion of the President, may determine are appropriate.
+
+(aa) the results of each visual survey conducted under clause (i)(I); and
+
+(bb) the results of the radiochemical analysis conducted under clause (i)(II); and
+
+## Source Credit
+
+*([Pub. L. 108–188, title I, § 103](https://www.govinfo.gov/link/plaw/108/public/188), Dec. 17, 2003, [117 Stat. 2727](https://www.govinfo.gov/link/statute/117/2727); [Pub. L. 110–229, title VIII, § 806(a)(1)](https://www.govinfo.gov/link/plaw/110/public/229), May 8, 2008, [122 Stat. 871](https://www.govinfo.gov/link/statute/122/871); [Pub. L. 112–149, § 2](https://www.govinfo.gov/link/plaw/112/public/149), July 26, 2012, [126 Stat. 1144](https://www.govinfo.gov/link/statute/126/1144).)*

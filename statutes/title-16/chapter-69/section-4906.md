@@ -3,9 +3,10 @@ title: "Section 4906 - Qualifying facilities"
 usc_title: 16
 usc_section: "4906"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4906"
-generated_at: "2026-03-30T02:54:23.048Z"
+generated_at: "2026-11-23T21:25:52.024Z"
+status: "active"
 ---
 
 # § 4906. Qualifying facilities
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:23.048Z"
   - **(4)** The appropriate governmental authority of the country in which the facility is located has certified in writing, and the Secretary is satisfied, that the facility has the capability of breeding the species in captivity.
   - **(5)** The country in which the facility is located is a Party to the Convention.
   - **(6)** All birds exported from the facility are bred at the facility.
+
+## Source Credit
+
+*([Pub. L. 102–440, title I, § 107](https://www.govinfo.gov/link/plaw/102/public/440), Oct. 23, 1992, [106 Stat. 2228](https://www.govinfo.gov/link/statute/106/2228).)*

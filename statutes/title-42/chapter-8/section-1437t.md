@@ -3,9 +3,10 @@ title: "Section 1437t - Authority to convert public housing to vouchers"
 usc_title: 42
 usc_section: "1437t"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1437t"
-generated_at: "2026-03-30T02:56:11.087Z"
+generated_at: "2026-11-23T21:26:32.022Z"
+status: "active"
 ---
 
 # § 1437t. Authority to convert public housing to vouchers
@@ -44,3 +45,13 @@ generated_at: "2026-03-30T02:56:11.087Z"
   - **(2)** there is reliable information and data available to the Secretary that contradicts that conversion assessment; or
   - **(3)** the plan otherwise fails to meet the requirements of this section.
 - **(f)** To the extent approved by the Secretary, the funds used by the public housing agency to provide tenant-based assistance under section 1437f of this title shall be added to the annual contribution contract administered by the public housing agency.
+
+(aa) tenant-based assistance, except that the requirement under this clause regarding offering of comparable housing shall be fulfilled by use of tenant-based assistance only upon the relocation of such family into such housing;
+
+(bb) project-based assistance; or
+
+(cc) occupancy in a unit operated or assisted by the public housing agency at a rental rate paid by the family that is comparable to the rental rate applicable to the unit from which the family is vacated;
+
+## Source Credit
+
+*(Sept. 1, 1937, ch. 896, title I, § 22, as added [Pub. L. 101–625, title V, § 515(a)](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4196](https://www.govinfo.gov/link/statute/104/4196); amended [Pub. L. 102–550, title I, § 119](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3695](https://www.govinfo.gov/link/statute/106/3695); [Pub. L. 105–276, title V, § 533(a)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2576](https://www.govinfo.gov/link/statute/112/2576).)*

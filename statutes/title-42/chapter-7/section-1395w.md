@@ -3,9 +3,10 @@ title: "Section 1395w - Appropriations to cover Government contributions and con
 usc_title: 42
 usc_section: "1395w"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1395w"
-generated_at: "2026-03-30T02:56:10.960Z"
+generated_at: "2026-11-23T21:26:31.478Z"
+status: "active"
 ---
 
 # § 1395w. Appropriations to cover Government contributions and contingency reserve
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:56:10.960Z"
     - **(A)** the amounts by which claims have offset (in whole or in part) the amount of such payments described in paragraph (1); and
     - **(B)** the amount of such payments that have been repaid (in whole or in part).
   - **(3)** Amounts described in paragraphs (1) and (2) shall be transferred from time to time as appropriate.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1844, as added [Pub. L. 89–97, title I, § 102(a)](https://www.govinfo.gov/link/plaw/89/public/97), July 30, 1965, [79 Stat. 313](https://www.govinfo.gov/link/statute/79/313); amended [Pub. L. 90–248, title I, § 167](https://www.govinfo.gov/link/plaw/90/public/248), Jan. 2, 1968, [81 Stat. 874](https://www.govinfo.gov/link/statute/81/874); [Pub. L. 92–603, title II, § 203(e)](https://www.govinfo.gov/link/plaw/92/public/603), Oct. 30, 1972, [86 Stat. 1377](https://www.govinfo.gov/link/statute/86/1377); [Pub. L. 97–248, title I, § 124(c)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 364](https://www.govinfo.gov/link/statute/96/364); [Pub. L. 98–21, title VI, § 606(a)(3)(F)](https://www.govinfo.gov/link/plaw/98/public/21), (G), Apr. 20, 1983, [97 Stat. 171](https://www.govinfo.gov/link/statute/97/171); [Pub. L. 98–369, div. B, title III, § 2354(b)(16)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1101](https://www.govinfo.gov/link/statute/98/1101); [Pub. L. 100–360, title II, § 211(c)(2)](https://www.govinfo.gov/link/plaw/100/public/360), July 1, 1988, [102 Stat. 738](https://www.govinfo.gov/link/statute/102/738); [Pub. L. 101–234, title II, § 202(a)](https://www.govinfo.gov/link/plaw/101/public/234), Dec. 13, 1989, [103 Stat. 1981](https://www.govinfo.gov/link/statute/103/1981); [Pub. L. 105–33, title IV, § 4571(b)(2)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 464](https://www.govinfo.gov/link/statute/111/464); [Pub. L. 106–554, § 1(a)(6) [title VI, § 606(a)(2)(D)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–558; [Pub. L. 108–173, title II](https://www.govinfo.gov/link/plaw/108/public/173), §§ 222(l)(2)(C), 241(b)(2)(B), title VIII, § 811(b)(2), Dec. 8, 2003, [117 Stat. 2206](https://www.govinfo.gov/link/statute/117/2206), 2221, 2368; [Pub. L. 111–5, div. B, title IV, § 4103(a)(2)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 487](https://www.govinfo.gov/link/statute/123/487); [Pub. L. 114–74, title VI, § 601(b)](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 595](https://www.govinfo.gov/link/statute/129/595); [Pub. L. 116–159, div. C, title IV, § 2401(b)](https://www.govinfo.gov/link/plaw/116/public/159), (c), Oct. 1, 2020, [134 Stat. 732](https://www.govinfo.gov/link/statute/134/732), 733; [Pub. L. 116–260, div. CC, title IV, § 402(e)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3001](https://www.govinfo.gov/link/statute/134/3001).)*

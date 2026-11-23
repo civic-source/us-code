@@ -3,9 +3,10 @@ title: "Section 3970 - Compensation for imprisoned foreign national employees"
 usc_title: 22
 usc_section: "3970"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3970"
-generated_at: "2026-03-30T02:55:05.400Z"
+generated_at: "2026-11-23T21:25:58.606Z"
+status: "active"
 ---
 
 # § 3970. Compensation for imprisoned foreign national employees
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.400Z"
   - **(1)** the termination of the period of imprisonment giving rise to the claim, or
   - **(2)** the date of the claimant’s first opportunity thereafter to file such a claim, as determined by the appropriate agency head.
 - **(d)** The Secretary of State may prescribe regulations governing payments under this section by all agencies and other Government establishments.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 410](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2091](https://www.govinfo.gov/link/statute/94/2091).)*

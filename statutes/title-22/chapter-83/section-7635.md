@@ -3,9 +3,10 @@ title: "Section 7635 - Report on treatment activities by relevant executive bran
 usc_title: 22
 usc_section: "7635"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7635"
-generated_at: "2026-03-30T02:55:05.444Z"
+generated_at: "2026-11-23T21:25:58.723Z"
+status: "active"
 ---
 
 # § 7635. Report on treatment activities by relevant executive branch agencies
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.444Z"
     - **(F)** the status of appropriate law enforcement officials working to ensure that HIV/AIDS pharmaceutical treatment is not diminished through illegal counterfeiting and black market sales of such pharmaceuticals;
   - **(2)** information on existing pilot projects, including a discussion of why a given population was selected, the number of people treated, the cost of treatment, the mechanisms established to ensure that treatment is being administered effectively and safely, and plans for scaling up pilot projects (including projected timelines and required resources); and
   - **(3)** an explanation of how those activities relate to efforts to prevent the transmission of the HIV infection.
+
+## Source Credit
+
+*([Pub. L. 108–25, title III, § 305](https://www.govinfo.gov/link/plaw/108/public/25), May 27, 2003, [117 Stat. 739](https://www.govinfo.gov/link/statute/117/739).)*

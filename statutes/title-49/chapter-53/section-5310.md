@@ -3,9 +3,10 @@ title: "Section 5310 - Formula grants for the enhanced mobility of seniors and i
 usc_title: 49
 usc_section: "5310"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 5310"
-generated_at: "2026-03-30T02:56:19.313Z"
+generated_at: "2026-11-23T21:26:40.639Z"
+status: "active"
 ---
 
 # § 5310. Formula grants for the enhanced mobility of seniors and individuals with disabilities
@@ -98,3 +99,261 @@ generated_at: "2026-03-30T02:56:19.313Z"
   - **(3)** new service delivery options;
   - **(4)** findings from activities under subsection (h); and
   - **(5)** transit cooperative research program reports.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5310(a) | 49 App.:1612(b) (1st sentence words before cl. (1)), cls. (1) (words before 3d comma), (2) (words before “with such grants”). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 16(b) (1st sentence); added Oct. 15, 1970 , Pub. L. 91–453, § 8 , 84 Stat. 967 ; restated Aug. 13, 1973 , Pub. L. 93–87, § 301(g) , 87 Stat. 295 ; Dec. 18, 1991 , Pub. L. 102–240, § 3021(1) – (4), 105 Stat. 2110 . |
+| 5310(b) | 49 App.:1612(c)(2), (3). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 16(c); added Dec. 18, 1991 , Pub. L. 102–240, § 3021(6) , 105 Stat. 2110 ; Oct. 6, 1992 , Pub. L. 102–388, § 502(k) , 106 Stat. 1567 . |
+| 5310(c) | 49 App.:1612(c)(1). |  |
+| 5310(d) | 49 App.:1612(b) (1st sentence cl. (3)). |  |
+| 5310(e) | 49 App.:1612(b) (1st sentence cls. (1) (words after 3d comma), (2) (words after “service under this subsection”)). |  |
+| 5310(f) | 49 App.:1612(e). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 16(e); added Jan. 6, 1983 , Pub. L. 97–424, § 317(c) , 96 Stat. 2153 ; Apr. 2, 1987 , Pub. L. 100–17, § 327(a)(4) , 101 Stat. 238 ; Dec. 18, 1991 , Pub. L. 102–240, § 3021(1) , (5), 105 Stat. 2110 . |
+| 5310(g) | 49 App.:1612(c)(4). |  |
+| 5310(h) | 49 App.:1612(f). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 16(f); added Apr. 2, 1987 , Pub. L. 100–17, § 321 , 101 Stat. 235 ; restated Dec. 18, 1991 , Pub. L. 102–240, § 3021(5) , (7), 105 Stat. 2110 , 2111. |
+| 5310(i) | 49 App.:1614(g) (related to 1612(b)). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 18(g) (related to § 16(b)); added Nov. 6, 1978 , Pub. L. 95–599, § 313 , 92 Stat. 2750 ; restated Dec. 18, 1991 , Pub. L. 102–240, § 3022 , 105 Stat. 2111 . |
+| 5310(j) | 49 App.:1604b. | Nov. 26, 1974 , Pub. L. 93–503, § 108 , 88 Stat. 1572 . |
+
+
+Definitions
+
+Recipient
+
+Subrecipient
+
+General Authority.—
+
+Grants
+
+Limitations for capital projects.—
+
+Amount available
+
+Allocation to subrecipients
+
+Administrative expenses
+
+Eligible capital expenses
+
+Coordination.—
+
+Department of transportation
+
+Other federal agencies and nonprofit organizations
+
+Program of projects.—
+
+In general
+
+Submission
+
+Assurance
+
+Meal delivery for homebound individuals
+
+Apportionment and Transfers.—
+
+Formula
+
+Large urbanized areas
+
+Small urbanized areas
+
+Rural areas
+
+Areas served by projects.—
+
+In general
+
+Exceptions
+
+Limited to eligible projects
+
+Consultation
+
+Government Share of Costs.—
+
+Capital projects
+
+Operating assistance
+
+Remainder of net costs
+
+Use of certain funds
+
+Grant Requirements.—
+
+In general
+
+Certification requirements.—
+
+Project selection and plan development
+
+Allocations to subrecipients
+
+Competitive Process for Grants to Subrecipients.—
+
+Areawide solicitations
+
+Statewide solicitations
+
+Application
+
+Transfers of Facilities and Equipment
+
+Performance Measures.—
+
+In general
+
+Measures
+
+Best Practices
+
+Historical and Revision Notes
+
+5310(a)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Oct. 15, 1970
+
+Pub. L. 91–453, § 8
+
+84 Stat. 967
+
+Aug. 13, 1973
+
+Pub. L. 93–87, § 301(g)
+
+87 Stat. 295
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3021(1)
+
+105 Stat. 2110
+
+5310(b)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3021(6)
+
+105 Stat. 2110
+
+Oct. 6, 1992
+
+Pub. L. 102–388, § 502(k)
+
+106 Stat. 1567
+
+5310(c)
+
+5310(d)
+
+5310(e)
+
+5310(f)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 317(c)
+
+96 Stat. 2153
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 327(a)(4)
+
+101 Stat. 238
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3021(1)
+
+105 Stat. 2110
+
+5310(g)
+
+5310(h)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 321
+
+101 Stat. 235
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3021(5)
+
+105 Stat. 2110
+
+5310(i)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 313
+
+92 Stat. 2750
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3022
+
+105 Stat. 2111
+
+5310(j)
+
+Nov. 26, 1974
+
+Pub. L. 93–503, § 108
+
+88 Stat. 1572
+
+Definitions
+
+General authority
+
+Application
+
+Report
+
+Government share of costs.—
+
+In general
+
+Non-government share
+
+Rule of construction
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 807](https://www.govinfo.gov/link/statute/108/807); [Pub. L. 105–178, title III, § 3013(a)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 359](https://www.govinfo.gov/link/statute/112/359); [Pub. L. 109–59, title III](https://www.govinfo.gov/link/plaw/109/public/59), §§ 3002(b)(2), 3012(a), Aug. 10, 2005, [119 Stat. 1544](https://www.govinfo.gov/link/statute/119/1544), 1589; [Pub. L. 112–141, div. B, § 20009](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 675](https://www.govinfo.gov/link/statute/126/675); [Pub. L. 114–94, div. A, title III, § 3006(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1462](https://www.govinfo.gov/link/statute/129/1462).)*

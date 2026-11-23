@@ -3,9 +3,10 @@ title: "Section 12207 - Commissioned officers: service credit upon original appo
 usc_title: 10
 usc_section: "12207"
 chapter: 1205
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 12207"
-generated_at: "2026-03-30T02:53:38.268Z"
+generated_at: "2026-11-23T21:25:33.038Z"
+status: "active"
 ---
 
 # § 12207. Commissioned officers: service credit upon original appointment
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:53:38.268Z"
   - **(2)** rank in grade; and
   - **(3)** service in grade for promotion eligibility.
 - **(f)** The grade and position on the reserve active-status list of a person receiving an appointment as a reserve officer who at the time of appointment is credited with service under this section shall be determined under regulations prescribed by the Secretary of Defense based upon the amount of service credited.
+
+## Source Credit
+
+*(Added § 596b and renumbered § 12207, [Pub. L. 103–337, div. A, title XVI](https://www.govinfo.gov/link/plaw/103/public/337), §§ 1634, 1662(c)(2), Oct. 5, 1994, [108 Stat. 2965](https://www.govinfo.gov/link/statute/108/2965), 2990; amended [Pub. L. 109–163, div. A, title V, § 515(b)(1)(LL)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3234](https://www.govinfo.gov/link/statute/119/3234); [Pub. L. 110–181, div. A, title V, § 512](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 98](https://www.govinfo.gov/link/statute/122/98); [Pub. L. 115–91, div. A, title V, § 512(a)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1376](https://www.govinfo.gov/link/statute/131/1376); [Pub. L. 115–232, div. A, title V, § 502(b)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1739](https://www.govinfo.gov/link/statute/132/1739); [Pub. L. 116–283, div. A, title V, § 502(b)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3564](https://www.govinfo.gov/link/statute/134/3564).)*

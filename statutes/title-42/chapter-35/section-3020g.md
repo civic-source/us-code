@@ -3,9 +3,10 @@ title: "Section 3020g - National Technical Assistance Center on Grandfamilies an
 usc_title: 42
 usc_section: "3020g"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3020g"
-generated_at: "2026-03-30T02:56:11.172Z"
+generated_at: "2026-11-23T21:26:32.477Z"
+status: "active"
 ---
 
 # § 3020g. National Technical Assistance Center on Grandfamilies and Kinship Families
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.172Z"
   - **(3)** facilitate learning across States, territories, Indian Tribes, Tribal organizations, and urban Indian organizations for providing technical assistance, resources, and training related to issues described in paragraph (1) to individuals and entities across systems that directly work with grandfamilies and kinship families;
   - **(4)** help government programs, nonprofit and other community-based organizations, and Indian Tribes, Tribal organizations, and urban Indian organizations, serving grandfamilies and kinship families, to plan and coordinate responses to assist grandfamilies and kinship families during national, State, Tribal, territorial, and local emergencies and disasters; and
   - **(5)** assist government programs, and nonprofit and other community-based organizations, in promoting equity and implementing culturally and linguistically appropriate approaches as the programs and organizations serve grandfamilies and kinship families.
+
+## Source Credit
+
+*([Pub. L. 117–2, title II, § 2922](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 52](https://www.govinfo.gov/link/statute/135/52).)*

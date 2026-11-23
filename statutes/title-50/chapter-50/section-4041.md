@@ -3,9 +3,10 @@ title: "Section 4041 - Enforcement by the Attorney General"
 usc_title: 50
 usc_section: "4041"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4041"
-generated_at: "2026-03-30T02:56:26.265Z"
+generated_at: "2026-11-23T21:26:39.085Z"
+status: "active"
 ---
 
 # § 4041. Enforcement by the Attorney General
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:26.265Z"
     - **(A)** in an amount not exceeding $55,000 for a first violation; and
     - **(B)** in an amount not exceeding $110,000 for any subsequent violation.
 - **(c)** Upon timely application, a person aggrieved by a violation of this chapter with respect to which the civil action is commenced may intervene in such action, and may obtain such appropriate relief as the person could obtain in a civil action under section 4042 of this title with respect to that violation, along with costs and a reasonable attorney fee.
+
+## Source Credit
+
+*(Oct. 17, 1940, ch. 888, title VIII, § 801, as added [Pub. L. 111–275, title III, § 303(a)](https://www.govinfo.gov/link/plaw/111/public/275), Oct. 13, 2010, [124 Stat. 2877](https://www.govinfo.gov/link/statute/124/2877).)*

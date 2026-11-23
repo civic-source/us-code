@@ -3,9 +3,10 @@ title: "Section 3611 - Assessing and modeling named storms over coastal States"
 usc_title: 33
 usc_section: "3611"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3611"
-generated_at: "2026-03-30T02:55:41.142Z"
+generated_at: "2026-11-23T21:26:11.487Z"
+status: "active"
 ---
 
 # § 3611. Assessing and modeling named storms over coastal States
@@ -95,3 +96,7 @@ generated_at: "2026-03-30T02:55:41.142Z"
     - **(A)** examine duplicated Federal efforts to collect covered data; and
     - **(B)** determine the cost effectiveness of such efforts; and
   - **(2)** submit to the Committee on Banking, Housing, and Urban Affairs and the 1 1 So in original. Probably should be followed by “Committee on”. Commerce, Science, and Transportation of the Senate and the Committee on Financial Services and the Committee on Science, Space, and Technology of the House of Representatives a report on the findings of the Comptroller General with respect to the audit completed under paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 111–11, title XII, § 12312](https://www.govinfo.gov/link/plaw/111/public/11), as added [Pub. L. 112–141, div. F, title II, § 100252](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 969](https://www.govinfo.gov/link/statute/126/969); amended [Pub. L. 116–271, title II, § 201(a)](https://www.govinfo.gov/link/plaw/116/public/271), Dec. 31, 2020, [134 Stat. 3344](https://www.govinfo.gov/link/statute/134/3344).)*

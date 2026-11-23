@@ -3,9 +3,10 @@ title: "Section 8015 - Improvement of transparency and traceability programs"
 usc_title: 16
 usc_section: "8015"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8015"
-generated_at: "2026-03-30T02:54:23.081Z"
+generated_at: "2026-11-23T21:25:52.073Z"
+status: "active"
 ---
 
 # § 8015. Improvement of transparency and traceability programs
@@ -18,3 +19,7 @@ The Secretary of State, the Administrator of the United States Agency for Intern
     - **(A)** deter IUU fishing;
     - **(B)** strengthen fisheries management; and
     - **(C)** enhance maritime domain awareness.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. C, title XXXV, § 3545](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2004](https://www.govinfo.gov/link/statute/133/2004).)*

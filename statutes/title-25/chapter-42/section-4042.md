@@ -3,9 +3,10 @@ title: "Section 4042 - Office of Special Trustee for American Indians"
 usc_title: 25
 usc_section: "4042"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4042"
-generated_at: "2026-03-30T02:54:52.857Z"
+generated_at: "2026-11-23T21:25:54.702Z"
+status: "active"
 ---
 
 # § 4042. Office of Special Trustee for American Indians
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:52.857Z"
   - **(1)** The Special Trustee, in proposing a termination date under section 4043(a)(2)(C) of this title , shall ensure continuation of the Office until all reforms identified in the strategic plan have been implemented to the satisfaction of the Special Trustee.
   - **(2)** Thirty days prior to the termination date proposed in the plan submitted under this section, the Special Trustee shall notify the Secretary and the Congress in writing of the progress in implementing the reforms identified in the plan. The Special Trustee, at that time, may recommend the continuation, or the permanent establishment, of the Office if the Special Trustee concludes that continuation or permanent establishment is necessary for the efficient discharge of the Secretary’s trust responsibilities.
   - **(3)** The Office shall terminate 180 legislative days after the date on which the notice to the Congress under paragraph (2) is provided, unless the Congress extends the authorities of the Special Trustee. For the purposes of this section, a legislative day is a day on which either House of the Congress is in session.
+
+## Source Credit
+
+*([Pub. L. 103–412, title III, § 302](https://www.govinfo.gov/link/plaw/103/public/412), Oct. 25, 1994, [108 Stat. 4244](https://www.govinfo.gov/link/statute/108/4244).)*

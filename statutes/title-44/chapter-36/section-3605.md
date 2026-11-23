@@ -3,9 +3,10 @@ title: "Section 3605 - Program to encourage innovative solutions to enhance elec
 usc_title: 44
 usc_section: "3605"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 3605"
-generated_at: "2026-03-30T02:55:56.299Z"
+generated_at: "2026-11-23T21:26:18.443Z"
+status: "active"
 ---
 
 # § 3605. Program to encourage innovative solutions to enhance electronic Government services and processes
@@ -19,3 +20,13 @@ generated_at: "2026-03-30T02:55:56.299Z"
     - **(B)** submit each proposal, and the assessment of the proposal, to the Administrator.
   - **(3)** The technical assistance team shall not consider or evaluate proposals submitted in response to a solicitation for offers for a pending procurement or for a specific agency requirement.
   - **(4)** After receiving proposals and assessments from the technical assistance team, the Administrator shall consider recommending appropriate proposals for funding under the E-Government Fund established under section 3604 or, if appropriate, forward the proposal and the assessment of it to the executive agency whose mission most coincides with the subject matter of the proposal.
+
+Establishment of Program
+
+Issuance of Announcements Seeking Innovative Solutions
+
+Multiagency Technical Assistance Team
+
+## Source Credit
+
+*(Added [Pub. L. 107–347, title I, § 101(a)](https://www.govinfo.gov/link/plaw/107/public/347), Dec. 17, 2002, [116 Stat. 2909](https://www.govinfo.gov/link/statute/116/2909).)*

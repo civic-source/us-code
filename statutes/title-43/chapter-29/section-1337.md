@@ -3,9 +3,10 @@ title: "Section 1337 - Leases, easements, and rights-of-way on the outer Contine
 usc_title: 43
 usc_section: "1337"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1337"
-generated_at: "2026-03-30T02:55:57.469Z"
+generated_at: "2026-11-23T21:26:19.829Z"
+status: "active"
 ---
 
 # § 1337. Leases, easements, and rights-of-way on the outer Continental Shelf
@@ -154,3 +155,63 @@ generated_at: "2026-03-30T02:55:57.469Z"
   - **(8)** Not later than 270 days after August 8, 2005 , the Secretary, in consultation with the Secretary of Defense, the Secretary of the Department in which the Coast Guard is operating, the Secretary of Commerce, heads of other relevant departments and agencies of the Federal Government, and the Governor of any affected State, shall issue any necessary regulations to carry out this subsection.
   - **(9)** Nothing in this subsection displaces, supersedes, limits, or modifies the jurisdiction, responsibility, or authority of any Federal or State agency under any other Federal law.
   - **(10)** This subsection does not apply to any area on the outer Continental Shelf within the exterior boundaries of any unit of the National Park System, National Wildlife Refuge System, or National Marine Sanctuary System, or any National Monument.
+
+|  | ($ million) |
+| --- | --- |
+| Louisiana | 572 |
+| Texas | 382 |
+| California | 338 |
+| Alabama | 66 |
+| Alaska | 51 |
+| Mississippi | 14 |
+| Florida | 0.03 |
+
+|  | ($ million) |
+| --- | --- |
+| Louisiana | 84 |
+| Texas | 134 |
+| California | 289 |
+| Alabama | 7 |
+| Alaska | 134 |
+| Mississippi | 2. |
+
+
+“Nothing in the amendment made by subsection (a) [amending this section] requires the resubmittal of any document that was previously submitted or the reauthorization of any action that was previously authorized with respect to a project for which, before the date of enactment of this Act [ Aug. 8, 2005 ]—
+
+In general
+
+Use of data
+
+Inclusions
+
+“For all tracts located in water depths of 200 meters or greater in the Western and Central Planning Area of the Gulf of Mexico, including that portion of the Eastern Planning Area of the Gulf of Mexico encompassing whole lease blocks lying west of 87 degrees, 30 minutes West longitude, any lease sale within five years of the date of enactment of this title [ Nov. 28, 1995 ], shall use the bidding system authorized in section 8(a)(1)(H) of the Outer Continental Shelf Lands Act, as amended by this title [ 43 U.S.C. 1337(a)(1)(H) ], except that the suspension of royalties shall be set at a volume of not less than the following:
+
+Louisiana
+
+Texas
+
+California
+
+Alabama
+
+Alaska
+
+Mississippi
+
+Florida
+
+Louisiana
+
+Texas
+
+California
+
+Alabama
+
+Alaska
+
+Mississippi
+
+## Source Credit
+
+*(Aug. 7, 1953, ch. 345, § 8, [67 Stat. 468](https://www.govinfo.gov/link/statute/67/468); [Pub. L. 95–372, title II, § 205(a)](https://www.govinfo.gov/link/plaw/95/public/372), (b), Sept. 18, 1978, [92 Stat. 640](https://www.govinfo.gov/link/statute/92/640), 644; [Pub. L. 99–272, title VIII, § 8003](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 148](https://www.govinfo.gov/link/statute/100/148); [Pub. L. 100–202, § 101(g) [title I, § 100]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–213](https://www.govinfo.gov/link/statute/101/1329), 1329–225; [Pub. L. 103–426, § 1(a)](https://www.govinfo.gov/link/plaw/103/public/426), Oct. 31, 1994, [108 Stat. 4371](https://www.govinfo.gov/link/statute/108/4371); [Pub. L. 104–58, title III](https://www.govinfo.gov/link/plaw/104/public/58), §§ 302, 303, Nov. 28, 1995, [109 Stat. 563](https://www.govinfo.gov/link/statute/109/563), 565; [Pub. L. 105–362, title IX, § 901(k)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3290](https://www.govinfo.gov/link/statute/112/3290); [Pub. L. 106–53, title II, § 215(b)(1)](https://www.govinfo.gov/link/plaw/106/public/53), Aug. 17, 1999, [113 Stat. 292](https://www.govinfo.gov/link/statute/113/292); [Pub. L. 109–58, title III](https://www.govinfo.gov/link/plaw/109/public/58), §§ 346, 388(a), (c), Aug. 8, 2005, [119 Stat. 704](https://www.govinfo.gov/link/statute/119/704), 744, 747; [Pub. L. 117–58, div. D, title III](https://www.govinfo.gov/link/plaw/117/public/58), §§ 40307(b), 40343, Nov. 15, 2021, [135 Stat. 1003](https://www.govinfo.gov/link/statute/135/1003), 1033; [Pub. L. 117–169, title V, § 50261](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2056](https://www.govinfo.gov/link/statute/136/2056); [Pub. L. 119–21, title V, § 50102(d)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 141](https://www.govinfo.gov/link/statute/139/141).)*

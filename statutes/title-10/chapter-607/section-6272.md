@@ -3,9 +3,10 @@ title: "Section 6272 - Reprogramming"
 usc_title: 10
 usc_section: "6272"
 chapter: 607
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6272"
-generated_at: "2026-03-30T02:53:38.225Z"
+generated_at: "2026-11-23T21:25:32.825Z"
+status: "active"
 ---
 
 # § 6272. Reprogramming
@@ -23,3 +24,21 @@ generated_at: "2026-03-30T02:53:38.225Z"
 - **(e)**
   - **(1)** In no event may the total amount of funds obligated pursuant to a DOE national security authorization for a fiscal year exceed the total amount authorized to be appropriated by that authorization for that fiscal year.
   - **(2)** Funds appropriated pursuant to a DOE national security authorization may not be used for an item for which Congress has specifically denied funds.
+
+In General
+
+Exception Where Notice-and-wait Given
+
+Report
+
+Computation of Days
+
+Limitations
+
+Total amount obligated
+
+Prohibited items
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2), Dec. 18, 2025, [139 Stat. 1426](https://www.govinfo.gov/link/statute/139/1426), 1462.)*

@@ -3,12 +3,49 @@ title: "Section 1885 - Seafood import monitoring program"
 usc_title: 16
 usc_section: "1885"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1885"
-generated_at: "2026-03-30T02:54:22.995Z"
+generated_at: "2026-11-23T21:25:51.936Z"
+status: "active"
 ---
 
 # § 1885. Seafood import monitoring program
 
 Not later than 30 days after March 23, 2018 , the Secretary of Commerce (Secretary) shall lift the stay on the effective date of the final rule for the seafood import monitoring program published by the Secretary on December 9, 2016 , (81 Fed. Reg. 88975 et seq.) for the species described in section 300.324(a)(3) of title 50, Code of Federal Regulations: Provided , That the compliance date for the species described in section 300.324(a)(3) of title 50, Code of Federal Regulations, shall occur not later than December 31, 2018 : Provided further , That not later than December 31, 2018 , the Secretary shall establish a traceability program for United States inland, coastal, and marine aquaculture of shrimp and abalone from point of production to entry into United States commerce: Provided further , That the Secretary shall promulgate such regulations as are necessary and appropriate to establish and implement the program: Provided further , That information collected pursuant to a regulation promulgated under this section shall be confidential and not be disclosed except for the information disclosed under section 401(b)(1) of the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1881a(b)(1) ): Provided further , That any regulations promulgated under this section shall be enforced as if this section were a provision of the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1801 et seq.) and the regulations were promulgated under such Act.
 
+
+Definitions
+
+Administrator
+
+Appropriate committees of congress
+
+Illegal, unreported, or unregulated fishing; iuu fishing
+
+Key agency leadership
+
+Red snapper
+
+Tuna
+
+Under secretary
+
+Standard Methodology for Identification.—
+
+In general
+
+Requirements
+
+Initial species for identification
+
+Report
+
+Audit Procedures
+
+Expansion of Marine Forensics Laboratory
+
+Annual Revision
+
+## Source Credit
+
+*([Pub. L. 115–141, div. B, title V, § 539](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 445](https://www.govinfo.gov/link/statute/132/445).)*

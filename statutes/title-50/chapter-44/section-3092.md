@@ -3,9 +3,10 @@ title: "Section 3092 - Reporting of intelligence activities other than covert ac
 usc_title: 50
 usc_section: "3092"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3092"
-generated_at: "2026-03-30T02:56:26.234Z"
+generated_at: "2026-11-23T21:26:39.008Z"
+status: "active"
 ---
 
 # § 3092. Reporting of intelligence activities other than covert actions
@@ -17,3 +18,11 @@ generated_at: "2026-03-30T02:56:26.234Z"
   - **(1)** A concise statement of any facts pertinent to such report.
   - **(2)** An explanation of the significance of the intelligence activity or intelligence failure covered by such report.
 - **(c)** The Director of National Intelligence, in consultation with the heads of the departments, agencies, and entities referred to in subsection (a), shall establish standards and procedures applicable to reports covered by subsection (b).
+
+Furnishing of Specific Information
+
+Access by Committees and Members of Congress
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title V, § 502, as added [Pub. L. 102–88, title VI, § 602(a)(2)](https://www.govinfo.gov/link/plaw/102/public/88), Aug. 14, 1991, [105 Stat. 442](https://www.govinfo.gov/link/statute/105/442); amended [Pub. L. 107–108, title III, § 305](https://www.govinfo.gov/link/plaw/107/public/108), Dec. 28, 2001, [115 Stat. 1398](https://www.govinfo.gov/link/statute/115/1398); [Pub. L. 107–306, title III, § 353(b)(3)(B)](https://www.govinfo.gov/link/plaw/107/public/306), Nov. 27, 2002, [116 Stat. 2402](https://www.govinfo.gov/link/statute/116/2402); [Pub. L. 108–458, title I, § 1071(a)(1)(W)](https://www.govinfo.gov/link/plaw/108/public/458), (X), Dec. 17, 2004, [118 Stat. 3689](https://www.govinfo.gov/link/statute/118/3689); [Pub. L. 111–259, title III, § 331(b)](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2685](https://www.govinfo.gov/link/statute/124/2685).)*

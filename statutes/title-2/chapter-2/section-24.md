@@ -3,12 +3,17 @@ title: "Section 24 - Secretary of Senate or assistant secretary may administer o
 usc_title: 2
 usc_section: "24"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 24"
-generated_at: "2026-03-30T02:53:04.785Z"
+generated_at: "2026-11-23T21:25:21.108Z"
+status: "active"
 ---
 
 # § 24. Secretary of Senate or assistant secretary may administer oaths
 
 The Secretary of the Senate, and the assistant secretary thereof, shall, respectively, have power to administer any oath or affirmation required by law, or by the rules or orders of the Senate, to be taken by any officer of the Senate, and to any witness produced before it.
 
+
+## Source Credit
+
+*(Apr. 18, 1876, ch. 66, § 2, [19 Stat. 34](https://www.govinfo.gov/link/statute/19/34); [Pub. L. 92–51](https://www.govinfo.gov/link/plaw/92/public/51), July 9, 1971, [85 Stat. 125](https://www.govinfo.gov/link/statute/85/125).)*

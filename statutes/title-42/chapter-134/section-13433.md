@@ -3,9 +3,10 @@ title: "Section 13433 - Alternative fuel vehicle program"
 usc_title: 42
 usc_section: "13433"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13433"
-generated_at: "2026-03-30T02:56:11.444Z"
+generated_at: "2026-11-23T21:26:33.605Z"
+status: "active"
 ---
 
 # § 13433. Alternative fuel vehicle program
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.444Z"
 - **(c)** For purposes of this section—
   - **(1)** the term “alternative fuel vehicle” means a motor vehicle that operates on alternative fuels; and
   - **(2)** the term “motor vehicle” includes any automobile, truck, bus, van, or other on-road or off-road motor vehicle, including a boat.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XX, § 2023](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3062](https://www.govinfo.gov/link/statute/106/3062).)*

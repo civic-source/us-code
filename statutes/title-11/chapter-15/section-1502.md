@@ -3,9 +3,10 @@ title: "Section 1502 - Definitions"
 usc_title: 11
 usc_section: "1502"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1502"
-generated_at: "2026-03-30T02:53:53.887Z"
+generated_at: "2026-11-23T21:25:34.976Z"
+status: "active"
 ---
 
 # § 1502. Definitions
@@ -20,3 +21,7 @@ For the purposes of this chapter, the term—
   - **(6)** “trustee” includes a trustee, a debtor in possession in a case under any chapter of this title, or a debtor under chapter 9 of this title;
   - **(7)** “recognition” means the entry of an order granting recognition of a foreign main proceeding or foreign nonmain proceeding under this chapter; and
   - **(8)** “within the territorial jurisdiction of the United States”, when used with reference to property of a debtor, refers to tangible property located within the territory of the United States and intangible property deemed under applicable nonbankruptcy law to be located within that territory, including any property subject to attachment or garnishment that may properly be seized or garnished by an action in a Federal or State court in the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 109–8, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 135](https://www.govinfo.gov/link/statute/119/135).)*

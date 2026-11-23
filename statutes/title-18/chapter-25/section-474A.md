@@ -3,9 +3,10 @@ title: "Section 474A - Deterrents to counterfeiting of obligations and securitie
 usc_title: 18
 usc_section: "474A"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 474A"
-generated_at: "2026-03-30T02:54:16.463Z"
+generated_at: "2026-11-23T21:25:43.964Z"
+status: "active"
 ---
 
 # § 474A. Deterrents to counterfeiting of obligations and securities
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:16.463Z"
   - **(2)** the term “distinctive counterfeit deterrent” includes any ink, watermark, seal, security thread, optically variable device, or other feature or device;
     - **(A)** in which the United States has an exclusive property interest; or
     - **(B)** which is not otherwise in commercial use or in the public domain and which the Secretary designates as being necessary in preventing the counterfeiting of obligations or other securities of the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 102–550, title XV, § 1553(a)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4070](https://www.govinfo.gov/link/statute/106/4070); amended [Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 648(a)]](https://www.govinfo.gov/link/plaw/104/public/208), title II, § 2603(a), Sept. 30, 1996, [110 Stat. 3009–314](https://www.govinfo.gov/link/statute/110/3009), 3009–367, 3009–470.)*

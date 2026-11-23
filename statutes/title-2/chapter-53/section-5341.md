@@ -3,9 +3,10 @@ title: "Section 5341 - Representational allowance for Members of House of Repres
 usc_title: 2
 usc_section: "5341"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 5341"
-generated_at: "2026-03-30T02:53:04.836Z"
+generated_at: "2026-11-23T21:25:21.328Z"
+status: "active"
 ---
 
 # § 5341. Representational allowance for Members of House of Representatives
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.836Z"
 - **(c)** As used in this section, the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress.
 - **(d)** The Committee on House Oversight of the House of Representatives shall have authority to prescribe regulations to carry out this section, including regulations establishing under subsection (a) the official and representational duties during a Congress of a Member-elect of the House of Representatives who is not an incumbent Member re-elected to the ensuing Congress.
 - **(e)** This section shall take effect on September 1, 1995 and shall apply with respect to official and representational duties carried out on or after that date.
+
+## Source Credit
+
+*([Pub. L. 104–186, title I, § 101](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1719](https://www.govinfo.gov/link/statute/110/1719); [Pub. L. 116–260, div. I, title I, § 117(a)](https://www.govinfo.gov/link/plaw/116/public/260), (b), Dec. 27, 2020, [134 Stat. 1641](https://www.govinfo.gov/link/statute/134/1641).)*

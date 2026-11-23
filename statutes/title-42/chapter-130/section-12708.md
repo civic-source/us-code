@@ -3,15 +3,16 @@ title: "Section 12708 - Compliance"
 usc_title: 42
 usc_section: "12708"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12708"
-generated_at: "2026-03-30T02:56:11.430Z"
+generated_at: "2026-11-23T21:26:33.542Z"
+status: "active"
 ---
 
 # § 12708. Compliance
 
 - **(a)**
-  - **(1)** Each participating jurisdiction shall annually review and report, in a form acceptable to the Secretary, on the progress it has made in carrying out its housing strategy, which report shall include an evaluation of the jurisdiction’s progress in meeting its goal established in section 12705(b)(15) 1 1 See References in Text note below. of this title, and information on the number and types of households served, including the number of very low-income, low-income, and moderate-income persons served and the racial and ethnic status of persons served that will be assisted with funds made available.
+  - **(1)** Each participating jurisdiction shall annually review and report, in a form acceptable to the Secretary, on the progress it has made in carrying out its housing strategy, which report shall include an evaluation of the jurisdiction’s progress in meeting its goal established in section 12705(b)(18) of this title , and information on the number and types of households served, including the number of very low-income, low-income, and moderate-income persons served and the racial and ethnic status of persons served that will be assisted with funds made available.
   - **(2)** The Secretary shall (A) establish dates for submission of reports under this subsection, and (B) review such reports and make such recommendations as the Secretary deems appropriate to carry out the purposes of this Act.
   - **(3)** If a jurisdiction fails to submit a report satisfactory to the Secretary in a timely manner, assistance to the jurisdiction under subchapter II of this chapter or the other programs referred to in section 12706 of this title may be—
     - **(A)** suspended until a report satisfactory to the Secretary is submitted; or
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.430Z"
     - **(D)** efforts to ensure that housing assisted under programs administered by the Secretary are in compliance with contractual agreements and the requirements of law.
   - **(2)** The Secretary shall report on the performance review in writing. The Secretary shall give the jurisdiction not less than 30 days to review and comment on the report. After taking into consideration the comments of the jurisdiction, the Secretary may revise the report and shall make the jurisdiction’s comments and the report, with any revisions, readily available to the public within 30 days after receipt of the jurisdiction’s comments.
 - **(c)** The adequacy of information submitted under section 12705(b)(4) of this title shall not be reviewable by any Federal, State, or other court. Review of a housing strategy by any Federal, State, or other court shall be limited to determining whether the process of development and the content of the strategy are in substantial compliance with the requirements of this Act. During the pendency of any action challenging the adequacy of a housing strategy or the action of the Secretary in approving a strategy, the court shall not have the authority to enjoin activities taken by the jurisdiction to implement an approved housing strategy. Any housing assisted during the pendency of such action shall not be subject to any order of the court resulting from such action.
+
+## Source Credit
+
+*([Pub. L. 101–625, title I, § 108](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4092](https://www.govinfo.gov/link/statute/104/4092); [Pub. L. 119–101, title V, § 501(v)(6)](https://www.govinfo.gov/link/plaw/119/public/101), July 11, 2026, [140 Stat. 917](https://www.govinfo.gov/link/statute/140/917).)*

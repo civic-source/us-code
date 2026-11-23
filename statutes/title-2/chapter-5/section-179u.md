@@ -3,9 +3,10 @@ title: "Section 179u - Definitions"
 usc_title: 2
 usc_section: "179u"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 179u"
-generated_at: "2026-03-30T02:53:04.791Z"
+generated_at: "2026-11-23T21:25:21.146Z"
+status: "active"
 ---
 
 # § 179u. Definitions
@@ -17,3 +18,7 @@ As used in sections 179 l to 179w of this title—
   - **(3)** the term “film” means a “motion picture” as defined in section 101 of title 17 , except that such term does not include any work not originally fixed on film stock, such as a work fixed on videotape or laser disk;
   - **(4)** the term “publication” means “publication” as defined in section 101 of title 17 ; and
   - **(5)** the term “Registry version” means, with respect to a film, the version of a film first published, or as complete a version as bona fide preservation and restoration activities by the Librarian, an archivist other than the Librarian, or the copyright owner can compile in those cases where the original material has been irretrievably lost.
+
+## Source Credit
+
+*([Pub. L. 104–285, title I, § 111](https://www.govinfo.gov/link/plaw/104/public/285), Oct. 11, 1996, [110 Stat. 3382](https://www.govinfo.gov/link/statute/110/3382).)*

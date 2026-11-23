@@ -3,9 +3,10 @@ title: "Section 2751 - Savings provision"
 usc_title: 33
 usc_section: "2751"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2751"
-generated_at: "2026-03-30T02:55:41.134Z"
+generated_at: "2026-11-23T21:26:11.468Z"
+status: "active"
 ---
 
 # § 2751. Savings provision
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:41.134Z"
 - **(e)** Except as otherwise provided in this Act, this Act does not affect—
   - **(1)** admiralty and maritime law; or
   - **(2)** the jurisdiction of the district courts of the United States with respect to civil actions under admiralty and maritime jurisdiction, saving to suitors in all cases all other remedies to which they are otherwise entitled.
+
+## Source Credit
+
+*([Pub. L. 101–380, title VI, § 6001](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 554](https://www.govinfo.gov/link/statute/104/554).)*

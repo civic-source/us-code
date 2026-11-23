@@ -3,9 +3,10 @@ title: "Section 794d - Electronic and information technology"
 usc_title: 29
 usc_section: "794d"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 794d"
-generated_at: "2026-03-30T02:55:18.698Z"
+generated_at: "2026-11-23T21:26:02.213Z"
+status: "active"
 ---
 
 # § 794d. Electronic and information technology
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:55:18.698Z"
   - **(2)** Complaints filed under paragraph (1) shall be filed with the Federal department or agency alleged to be in noncompliance. The Federal department or agency receiving the complaint shall apply the complaint procedures established to implement section 794 of this title for resolving allegations of discrimination in a federally conducted program or activity.
   - **(3)** The remedies, procedures, and rights set forth in sections 794a(a)(2) and 794a(b) of this title shall be the remedies, procedures, and rights available to any individual with a disability filing a complaint under paragraph (1).
 - **(g)** This section shall not be construed to limit any right, remedy, or procedure otherwise available under any provision of Federal law (including sections 791 through 794a of this title) that provides greater or equal protection for the rights of individuals with disabilities than this section.
+
+## Source Credit
+
+*([Pub. L. 93–112, title V, § 508](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 99–506, title VI, § 603(a)](https://www.govinfo.gov/link/plaw/99/public/506), Oct. 21, 1986, [100 Stat. 1830](https://www.govinfo.gov/link/statute/100/1830); amended [Pub. L. 100–630, title II, § 206(f)](https://www.govinfo.gov/link/plaw/100/public/630), Nov. 7, 1988, [102 Stat. 3312](https://www.govinfo.gov/link/statute/102/3312); [Pub. L. 102–569, title V, § 509(a)](https://www.govinfo.gov/link/plaw/102/public/569), Oct. 29, 1992, [106 Stat. 4430](https://www.govinfo.gov/link/statute/106/4430); [Pub. L. 105–220, title IV, § 408(b)](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1203](https://www.govinfo.gov/link/statute/112/1203); [Pub. L. 106–246, div. B, title II, § 2405](https://www.govinfo.gov/link/plaw/106/public/246), July 13, 2000, [114 Stat. 555](https://www.govinfo.gov/link/statute/114/555).)*

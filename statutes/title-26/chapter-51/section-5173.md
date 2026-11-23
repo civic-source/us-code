@@ -3,9 +3,10 @@ title: "Section 5173 - Bonds"
 usc_title: 26
 usc_section: "5173"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5173"
-generated_at: "2026-03-30T02:55:27.820Z"
+generated_at: "2026-11-23T21:26:06.702Z"
+status: "active"
 ---
 
 # § 5173. Bonds
@@ -41,3 +42,38 @@ generated_at: "2026-03-30T02:55:27.820Z"
       - **(i)** such distilled spirits plant is qualified under this subchapter for the production of distilled spirits, and
       - **(ii)** such wine cellar and the distilled spirits plant are operated by the same person (or, in the case of a corporation, by such corporation and its controlled subsidiaries).
     - **(B)** In the case of any adjacent wine cellar, a bond furnished under this section which covers operations at such wine cellar shall be in lieu of any bond which would otherwise be required under section 5354 with respect to such wine cellar (other than supplemental bonds required under the second sentence of section 5354).
+
+| Present subsecs.: | Prior sections |
+| --- | --- |
+| (a) | 5172, 5176(a), 5231, 5232(a), 5272(a), 5301–5303, 5304(a)(5), 5305, 5311(a)(3). |
+| (b) | 5176 (a), (d). |
+| (b)(1) | 5176(a), 5177(c). |
+| (b)(1)(A)–(C) | 5177(b)(1)–(3). |
+| (b)(3) | 5177(b)(4). |
+| (c) | 5232(a), 5302, 5303, 5306, 5331(a)(3). |
+| (c)(1) | 5232(a). |
+| (d) | 5272(a). |
+| (e)(1) | 5304(a)(5). |
+
+
+(a)
+
+(b)
+
+(b)(1)
+
+(b)(1)(A)–(C)
+
+(b)(3)
+
+(c)
+
+(c)(1)
+
+(d)
+
+(e)(1)
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1349](https://www.govinfo.gov/link/statute/72/1349); amended [Pub. L. 91–659, § 4](https://www.govinfo.gov/link/plaw/91/public/659), Jan. 8, 1971, [84 Stat. 1966](https://www.govinfo.gov/link/statute/84/1966); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 96–39, title VIII, § 805(c)](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 276](https://www.govinfo.gov/link/statute/93/276); [Pub. L. 114–113, div. Q, title III, § 332(b)(2)(A)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3105](https://www.govinfo.gov/link/statute/129/3105).)*

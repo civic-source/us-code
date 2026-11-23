@@ -3,9 +3,10 @@ title: "Section 594 - Testing authority"
 usc_title: 6
 usc_section: "594"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 594"
-generated_at: "2026-03-30T02:53:09.471Z"
+generated_at: "2026-11-23T21:25:25.809Z"
+status: "active"
 ---
 
 # § 594. Testing authority
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:09.471Z"
 - **(b)** The results of tests performed with services made available shall be confidential and shall not be disclosed outside the Federal Government without the consent of the persons for whom the tests are performed.
 - **(c)** Fees for services made available under this section shall not exceed the amount necessary to recoup the direct and indirect costs involved, such as direct costs of utilities, contractor support, and salaries of personnel that are incurred by the United States to provide for the testing.
 - **(d)** Fees received for services made available under this section may be credited to the appropriation from which funds were expended to provide such services.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XIX, § 1925](https://www.govinfo.gov/link/plaw/107/public/296), formerly title XVIII, § 1804, as added [Pub. L. 109–347, title V, § 501(a)](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1934](https://www.govinfo.gov/link/statute/120/1934); renumbered title XIX, § 1904, and amended [Pub. L. 110–53, title I, § 104(a)(1)](https://www.govinfo.gov/link/plaw/110/public/53) –(3), Aug. 3, 2007, [121 Stat. 294](https://www.govinfo.gov/link/statute/121/294); renumbered § 1925 and amended [Pub. L. 115–387, § 2(a)(5)](https://www.govinfo.gov/link/plaw/115/public/387), (7), Dec. 21, 2018, [132 Stat. 5163](https://www.govinfo.gov/link/statute/132/5163), 5164.)*

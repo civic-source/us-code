@@ -3,9 +3,10 @@ title: "Section 25101 - Corridor Identification and Development Program"
 usc_title: 49
 usc_section: "25101"
 chapter: 251
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 25101"
-generated_at: "2026-03-30T02:56:19.349Z"
+generated_at: "2026-11-23T21:26:40.750Z"
+status: "active"
 ---
 
 # § 25101. Corridor Identification and Development Program
@@ -84,3 +85,23 @@ generated_at: "2026-03-30T02:56:19.349Z"
   - **(2)** the enhancement of an existing intercity passenger rail route of less than 750 miles;
   - **(3)** the restoration of service over all or portions of an intercity passenger rail route formerly operated by Amtrak; or
   - **(4)** the increase of service frequency of a long-distance intercity passenger rail route.
+
+In General
+
+Eligible Entities
+
+Corridor Selection
+
+Service Development Plans
+
+Consultation
+
+Updates
+
+Project Pipeline
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. B, title II, § 22308(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 730](https://www.govinfo.gov/link/statute/135/730).)*

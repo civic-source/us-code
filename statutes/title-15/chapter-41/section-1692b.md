@@ -3,9 +3,10 @@ title: "Section 1692b - Acquisition of location information"
 usc_title: 15
 usc_section: "1692b"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1692b"
-generated_at: "2026-03-30T02:54:08.155Z"
+generated_at: "2026-11-23T21:25:39.884Z"
+status: "active"
 ---
 
 # § 1692b. Acquisition of location information
@@ -18,3 +19,7 @@ Any debt collector communicating with any person other than the consumer for the
   - **(4)** not communicate by post card;
   - **(5)** not use any language or symbol on any envelope or in the contents of any communication effected by the mails or telegram that indicates that the debt collector is in the debt collection business or that the communication relates to the collection of a debt; and
   - **(6)** after the debt collector knows the consumer is represented by an attorney with regard to the subject debt and has knowledge of, or can readily ascertain, such attorney’s name and address, not communicate with any person other than that attorney, unless the attorney fails to respond within a reasonable period of time to communication from the debt collector.
+
+## Source Credit
+
+*([Pub. L. 90–321, title VIII, § 804](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 95–109](https://www.govinfo.gov/link/plaw/95/public/109), Sept. 20, 1977, [91 Stat. 876](https://www.govinfo.gov/link/statute/91/876).)*

@@ -3,9 +3,10 @@ title: "Section 78f - National securities exchanges"
 usc_title: 15
 usc_section: "78f"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 78f"
-generated_at: "2026-03-30T02:54:08.042Z"
+generated_at: "2026-11-23T21:25:39.527Z"
+status: "active"
 ---
 
 # § 78f. National securities exchanges
@@ -140,3 +141,21 @@ generated_at: "2026-03-30T02:54:08.042Z"
   - **(1)** To the extent necessary or appropriate in the public interest, to promote fair competition, and consistent with the promotion of market efficiency, innovation, and expansion of investment opportunities, the protection of investors, and the maintenance of fair and orderly markets, the Commission and the Commodity Futures Trading Commission shall jointly issue such rules, regulations, or orders as are necessary and appropriate to permit the offer and sale of a security futures product traded on or subject to the rules of a foreign board of trade to United States persons.
   - **(2)** The rules, regulations, or orders adopted under paragraph (1) shall take into account, as appropriate, the nature and size of the markets that the securities underlying the security futures product reflect.
 - **(l)** It shall be unlawful for any person to effect a transaction in a security-based swap with or for a person that is not an eligible contract participant, unless such transaction is effected on a national securities exchange registered pursuant to subsection (b).
+
+(1) a Commission determination under subparagraph (A) of this paragraph that an interested person is not entitled to conduct cross-examination or make rebuttal submissions, or
+
+(2) a Commission rule or ruling under subparagraph (B) of this paragraph limiting the petitioner’s cross-examination or rebuttal submissions,
+
+Effective Date.—
+
+In general
+
+Rulemaking authority
+
+Review of filings prior to effective date
+
+Effect on Existing Authority
+
+## Source Credit
+
+*(June 6, 1934, ch. 404, title I, § 6, [48 Stat. 885](https://www.govinfo.gov/link/statute/48/885); [Pub. L. 94–29, § 4](https://www.govinfo.gov/link/plaw/94/public/29), June 4, 1975, [89 Stat. 104](https://www.govinfo.gov/link/statute/89/104); [Pub. L. 100–181, title III](https://www.govinfo.gov/link/plaw/100/public/181), §§ 309–312, Dec. 4, 1987, [101 Stat. 1255](https://www.govinfo.gov/link/statute/101/1255); [Pub. L. 103–202, title III, § 303(b)](https://www.govinfo.gov/link/plaw/103/public/202), Dec. 17, 1993, [107 Stat. 2365](https://www.govinfo.gov/link/statute/107/2365); [Pub. L. 106–554, § 1(a)(5)](https://www.govinfo.gov/link/plaw/106/public/554) [title II, §§ 202(a), 206(a), (i), (k)(2), (l)], Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–416, 2763A–426, 2763A–433, 2763A–434; [Pub. L. 111–203, title VII](https://www.govinfo.gov/link/plaw/111/public/203), §§ 721(e)(8), 734(b)(2), 763(e), title IX, § 957, July 21, 2010, [124 Stat. 1671](https://www.govinfo.gov/link/statute/124/1671), 1718, 1777, 1906.)*

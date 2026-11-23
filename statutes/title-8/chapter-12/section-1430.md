@@ -3,9 +3,10 @@ title: "Section 1430 - Married persons and employees of certain nonprofit organi
 usc_title: 8
 usc_section: "1430"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1430"
-generated_at: "2026-03-30T02:53:10.501Z"
+generated_at: "2026-11-23T21:25:25.193Z"
+status: "active"
 ---
 
 # § 1430. Married persons and employees of certain nonprofit organizations
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:10.501Z"
     - **(A)** the United States; and
     - **(B)** any State or district of the Department of Homeland Security in the United States.
   - **(2)** Notwithstanding any other provision of law, a spouse described in paragraph (1) shall be eligible for naturalization proceedings overseas pursuant to section 1443a of this title .
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title III, ch. 2, § 319, [66 Stat. 244](https://www.govinfo.gov/link/statute/66/244); [Pub. L. 85–697, § 2](https://www.govinfo.gov/link/plaw/85/public/697), Aug. 20, 1958, [72 Stat. 687](https://www.govinfo.gov/link/statute/72/687); [Pub. L. 90–215, § 1(a)](https://www.govinfo.gov/link/plaw/90/public/215), Dec. 18, 1967, [81 Stat. 661](https://www.govinfo.gov/link/statute/81/661); [Pub. L. 90–369](https://www.govinfo.gov/link/plaw/90/public/369), June 29, 1968, [82 Stat. 279](https://www.govinfo.gov/link/statute/82/279); [Pub. L. 101–649, title IV, § 407(b)(1)](https://www.govinfo.gov/link/plaw/101/public/649), (c)(5), (d)(4), Nov. 29, 1990, [104 Stat. 5040](https://www.govinfo.gov/link/statute/104/5040), 5041; [Pub. L. 106–386, div. B, title V, § 1503(e)](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1522](https://www.govinfo.gov/link/statute/114/1522); [Pub. L. 108–136, div. A, title XVII, § 1703(f)(1)](https://www.govinfo.gov/link/plaw/108/public/136), (h), Nov. 24, 2003, [117 Stat. 1695](https://www.govinfo.gov/link/statute/117/1695), 1696; [Pub. L. 110–181, div. A, title VI, § 674(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 185](https://www.govinfo.gov/link/statute/122/185).)*

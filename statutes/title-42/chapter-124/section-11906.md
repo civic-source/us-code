@@ -3,9 +3,10 @@ title: "Section 11906 - Reports"
 usc_title: 42
 usc_section: "11906"
 chapter: 124
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11906"
-generated_at: "2026-03-30T02:56:11.406Z"
+generated_at: "2026-11-23T21:26:33.446Z"
+status: "active"
 ---
 
 # § 11906. Reports
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.406Z"
   - **(1)** the methodology used to distribute amounts made available under this subchapter among public housing agencies, including provisions used to provide for renewals of ongoing programs funded under this subchapter; and
   - **(2)** actions taken by the Secretary to ensure that amounts made available under this subchapter are not used to fund baseline local government services, as described in section 11907(b) of this title .
 - **(c)** The Secretary shall cause to be published in the Federal Register notice of all grant awards made pursuant to this subchapter, which shall identify the grantees and the amount of the grants. Such notice shall be published not less frequently than annually.
+
+## Source Credit
+
+*([Pub. L. 100–690, title V, § 5127](https://www.govinfo.gov/link/plaw/100/public/690), as added [Pub. L. 105–276, title V, § 586(g)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2649](https://www.govinfo.gov/link/statute/112/2649).)*

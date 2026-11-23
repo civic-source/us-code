@@ -3,9 +3,10 @@ title: "Section 10822 - Allotment formula and reallotments"
 usc_title: 42
 usc_section: "10822"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10822"
-generated_at: "2026-03-30T02:56:11.392Z"
+generated_at: "2026-11-23T21:26:33.387Z"
+status: "active"
 ---
 
 # § 10822. Allotment formula and reallotments
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:11.392Z"
     - **(B)** one or more eligible systems have notified the Secretary that they do not intend to use the full amount of their allotment,
   - **(2)** The amount of an allotment to an eligible system for a fiscal year which the Secretary determines will not be required by the system during the period for which it is available shall be available for reallotment by the Secretary to other eligible systems with respect to which such a determination has not been made.
   - **(3)** The Secretary shall make reallotments under paragraphs (1) and (2) on such date or dates as the Secretary may fix (but not earlier than 30 days after the Secretary has published notice of the intention of the Secretary to make such reallotment in the Federal Register). A reallotment to an eligible system shall be made in proportion to the original allotment of such system for such fiscal year, but with such proportionate amount for such system being reduced to the extent it exceeds the sum the Secretary estimates such system needs and will be able to use during such period. The total of such reductions shall be similarly reallotted among eligible systems whose proportionate amounts were not so reduced. Any amount so reallotted to an eligible system for a fiscal year shall be deemed to be a part of its allotment under subsection (a) for such fiscal year.
+
+## Source Credit
+
+*([Pub. L. 99–319, title I, § 112](https://www.govinfo.gov/link/plaw/99/public/319), May 23, 1986, [100 Stat. 483](https://www.govinfo.gov/link/statute/100/483); [Pub. L. 100–509, § 7(e)](https://www.govinfo.gov/link/plaw/100/public/509), Oct. 20, 1988, [102 Stat. 2545](https://www.govinfo.gov/link/statute/102/2545); [Pub. L. 106–310, div. B, title XXXII, § 3206(d)](https://www.govinfo.gov/link/plaw/106/public/310), (e), Oct. 17, 2000, [114 Stat. 1194](https://www.govinfo.gov/link/statute/114/1194), 1195.)*

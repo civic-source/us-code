@@ -3,9 +3,10 @@ title: "Section 2301 - Purpose"
 usc_title: 20
 usc_section: "2301"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 2301"
-generated_at: "2026-03-30T02:54:48.172Z"
+generated_at: "2026-11-23T21:25:47.369Z"
+status: "active"
 ---
 
 # § 2301. Purpose
@@ -22,3 +23,7 @@ The purpose of this chapter is to develop more fully the academic knowledge and 
   - **(6)** supporting partnerships among secondary schools, postsecondary institutions, baccalaureate degree granting institutions, area career and technical education schools, local workforce investment boards, business and industry, and intermediaries;
   - **(7)** providing individuals with opportunities throughout their lifetimes to develop, in conjunction with other education and training programs, the knowledge and skills needed to keep the United States competitive; and
   - **(8)** increasing the employment opportunities for populations who are chronically unemployed or underemployed, including individuals with disabilities, individuals from economically disadvantaged families, out-of-workforce individuals, youth who are in, or have aged out of, the foster care system, and homeless individuals.
+
+## Source Credit
+
+*([Pub. L. 88–210, § 2](https://www.govinfo.gov/link/plaw/88/public/210), as added [Pub. L. 109–270, § 1(b)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 684](https://www.govinfo.gov/link/statute/120/684); amended [Pub. L. 115–224, § 6](https://www.govinfo.gov/link/plaw/115/public/224), July 31, 2018, [132 Stat. 1565](https://www.govinfo.gov/link/statute/132/1565).)*

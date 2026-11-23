@@ -3,9 +3,10 @@ title: "Section 2996a - Definitions"
 usc_title: 42
 usc_section: "2996a"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2996a"
-generated_at: "2026-03-30T02:56:11.168Z"
+generated_at: "2026-11-23T21:26:32.446Z"
+status: "active"
 ---
 
 # § 2996a. Definitions
@@ -20,3 +21,7 @@ As used in this subchapter, the term—
   - **(6)** “recipient” means any grantee, contractee, or recipient of financial assistance described in clause (A) of section 2996e(a)(1) of this title ;
   - **(7)** “staff attorney” means an attorney who receives more than one-half of his annual professional income from a recipient organized solely for the provision of legal assistance to eligible clients under this subchapter; and
   - **(8)** “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
+
+## Source Credit
+
+*([Pub. L. 88–452, title X, § 1002](https://www.govinfo.gov/link/plaw/88/public/452), as added [Pub. L. 93–355, § 2](https://www.govinfo.gov/link/plaw/93/public/355), July 25, 1974, [88 Stat. 378](https://www.govinfo.gov/link/statute/88/378).)*

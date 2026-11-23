@@ -3,9 +3,10 @@ title: "Section 301a - Port of entry donation authority"
 usc_title: 6
 usc_section: "301a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 301a"
-generated_at: "2026-03-30T02:53:09.456Z"
+generated_at: "2026-11-23T21:25:25.776Z"
+status: "active"
 ---
 
 # § 301a. Port of entry donation authority
@@ -90,3 +91,11 @@ generated_at: "2026-03-30T02:53:09.456Z"
   - **(3)** the fees and donations received by U.S. Customs and Border Protection pursuant to such agreements.
 - **(e)** Decisions of the Commissioner of U.S. Customs and Border Protection and the Administrator of General Services under this section regarding the acceptance of real or personal property are in the discretion of the Commissioner and the Administrator and are not subject to judicial review.
 - **(f)** Except as otherwise provided in this section, nothing in this section may be construed as affecting in any manner the responsibilities, duties, or authorities of U.S. Customs and Border Protection or the General Services Administration.
+
+(aa) notify the appropriate entity and provide such entity with a description of all information or material that is needed to complete review of the proposal; and
+
+(bb) allow the entity to resubmit the proposal with additional information and material described in item (aa) to complete the proposal.
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 482](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 114–279, § 2(a)](https://www.govinfo.gov/link/plaw/114/public/279), Dec. 16, 2016, [130 Stat. 1417](https://www.govinfo.gov/link/statute/130/1417); amended [Pub. L. 116–260, div. O, title III, § 301](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2149](https://www.govinfo.gov/link/statute/134/2149); [Pub. L. 117–81, div. F, title LXIV, § 6410](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2408](https://www.govinfo.gov/link/statute/135/2408).)*

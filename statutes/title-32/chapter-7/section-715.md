@@ -3,9 +3,10 @@ title: "Section 715 - Property loss; personal injury or death: activities under 
 usc_title: 32
 usc_section: "715"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "32 U.S.C. § 715"
-generated_at: "2026-03-30T02:55:31.867Z"
+generated_at: "2026-11-23T21:26:08.302Z"
+status: "active"
 ---
 
 # § 715. Property loss; personal injury or death: activities under certain sections of this title
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:31.867Z"
 - **(f)** Under regulations prescribed by the Secretary concerned, an officer or employee under the jurisdiction of the Secretary may settle a claim that otherwise would be payable under this section in an amount not to exceed $25,000. A decision of the officer or employee who makes a final settlement decision under this section may be appealed by the claimant to the Secretary concerned or an officer or employee designated by the Secretary for that purpose.
 - **(g)** Notwithstanding any other provision of law, the settlement of a claim under this section is final and conclusive.
 - **(h)** In this section, “settle” means consider, ascertain, adjust, determine, and dispose of a claim, whether by full or partial allowance or disallowance.
+
+## Source Credit
+
+*(Added [Pub. L. 86–740, § 1(1)](https://www.govinfo.gov/link/plaw/86/public/740), Sept. 13, 1960, [74 Stat. 878](https://www.govinfo.gov/link/statute/74/878); amended [Pub. L. 87–649, § 8(b)](https://www.govinfo.gov/link/plaw/87/public/649), Sept. 7, 1962, [76 Stat. 495](https://www.govinfo.gov/link/statute/76/495); [Pub. L. 90–486, § 2(3)](https://www.govinfo.gov/link/plaw/90/public/486), Aug. 13, 1968, [82 Stat. 756](https://www.govinfo.gov/link/statute/82/756); [Pub. L. 90–525, § 6](https://www.govinfo.gov/link/plaw/90/public/525), Sept. 26, 1968, [82 Stat. 878](https://www.govinfo.gov/link/statute/82/878); [Pub. L. 91–312, § 3](https://www.govinfo.gov/link/plaw/91/public/312), July 8, 1970, [84 Stat. 412](https://www.govinfo.gov/link/statute/84/412); [Pub. L. 92–445](https://www.govinfo.gov/link/plaw/92/public/445), Sept. 29, 1972, [86 Stat. 745](https://www.govinfo.gov/link/statute/86/745); [Pub. L. 93–336, § 3](https://www.govinfo.gov/link/plaw/93/public/336), July 8, 1974, [88 Stat. 292](https://www.govinfo.gov/link/statute/88/292); [Pub. L. 98–564, § 4](https://www.govinfo.gov/link/plaw/98/public/564), Oct. 30, 1984, [98 Stat. 2919](https://www.govinfo.gov/link/statute/98/2919); [Pub. L. 104–316, title II, § 202(r)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3844](https://www.govinfo.gov/link/statute/110/3844).)*

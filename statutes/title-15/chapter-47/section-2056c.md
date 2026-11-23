@@ -3,9 +3,10 @@ title: "Section 2056c - Sulfur content in drywall standard"
 usc_title: 15
 usc_section: "2056c"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2056c"
-generated_at: "2026-03-30T02:54:08.162Z"
+generated_at: "2026-11-23T21:25:39.903Z"
+status: "active"
 ---
 
 # § 2056c. Sulfur content in drywall standard
@@ -25,3 +26,11 @@ generated_at: "2026-03-30T02:54:08.162Z"
   - **(2)** the effective date contained in the voluntary standard.
 - **(e)** If the sulfur content limit of a voluntary standard that met the conditions of subsection (c)(1) is subsequently revised, the organization responsible for the standard shall notify the Commission no later than 60 days after final approval of the revision. The sulfur content limit of the revised voluntary standard shall become enforceable as a Commission rule promulgated under section 2058 of this title , in lieu of the prior version, effective 180 days after the Commission is notified of the revision (or such later date as the Commission considers appropriate), unless within 90 days after receiving that notice the Commission determines that the sulfur content limit of the revised voluntary standard does not meet the requirements of subsection (c)(1)(A), in which case the Commission shall continue to enforce the prior version.
 - **(f)** The Commission, at any time subsequent to publication of the consumer product safety rule required by subsection (a) or a determination under subsection (c), may initiate a rulemaking in accordance with section 553 of title 5 to modify the sulfur content limit or to include any provision relating only to the composition or characteristics of drywall that the Commission determines is reasonably necessary to protect public health or safety. Any rule promulgated under this subsection shall be treated as a consumer product safety rule promulgated under section 2058 of this title .
+
+Labeling Requirement
+
+Revision of Standard
+
+## Source Credit
+
+*([Pub. L. 112–266, § 4](https://www.govinfo.gov/link/plaw/112/public/266), Jan. 14, 2013, [126 Stat. 2438](https://www.govinfo.gov/link/statute/126/2438).)*

@@ -3,9 +3,10 @@ title: "Section 329 - Transportation information"
 usc_title: 49
 usc_section: "329"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 329"
-generated_at: "2026-03-30T02:56:19.299Z"
+generated_at: "2026-11-23T21:26:40.592Z"
+status: "active"
 ---
 
 # § 329. Transportation information
@@ -28,3 +29,71 @@ generated_at: "2026-03-30T02:56:19.299Z"
 - **(e)**
   - **(1)** The Secretary of Transportation shall publish data on incidents and complaints involving passenger and baggage security screening in a manner comparable to other consumer complaint and incident data.
   - **(2)** To assist in the publication of data under paragraph (1), the Secretary of Transportation may request the Secretary of Homeland Security to periodically report on the number of complaints about security screening received by the Secretary of Homeland Security.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 329(a) | 49:1634. | Sept. 30, 1965 , Pub. L. 89–220, § 4 , 79 Stat. 893 . |
+|  | 49:1655(a)(2)(A) (related to 49:1634). | Oct. 15, 1966 , Pub. L. 89–670 , §§ 6(a)(2)(A) (related to § 4 of the Act of Sept. 30, 1965 ), 9(n), 80 Stat. 937 , 946. |
+| 329(b) | 49:1352. | Aug. 23, 1958 , Pub. L. 85–726, § 311 , 72 Stat. 751 . |
+| 329(c)(1) | 49:1657(n)(1) (less last 17 words). |  |
+| 329(c)(2) | 49:1657(n)(1) (last 17 words), (2). |  |
+| 329(d) | 49:1343(b). | Aug. 23, 1958 , Pub. L. 85–726, § 302(d) , 72 Stat. 746 . |
+
+
+Incidents and Complaints Involving Passenger and Baggage Security Screening.—
+
+Publication of data
+
+Monthly reports from secretary of homeland security
+
+Historical and Revision Notes
+
+Pub. L
+
+329(a)
+
+Sept. 30, 1965
+
+Pub. L. 89–220, § 4
+
+79 Stat. 893
+
+Oct. 15, 1966
+
+Pub. L. 89–670
+
+§ 4 of the Act of Sept. 30, 1965
+
+80 Stat. 937
+
+329(b)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 311
+
+72 Stat. 751
+
+329(c)(1)
+
+329(c)(2)
+
+329(d)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 302(d)
+
+72 Stat. 746
+
+In General
+
+Contents
+
+Commercially Sensitive Data
+
+Savings Clause
+
+## Source Credit
+
+*([Pub. L. 97–449, § 1(b)](https://www.govinfo.gov/link/plaw/97/public/449), Jan. 12, 1983, [96 Stat. 2426](https://www.govinfo.gov/link/statute/96/2426); [Pub. L. 98–216, § 2(2)](https://www.govinfo.gov/link/plaw/98/public/216), Feb. 14, 1984, [98 Stat. 5](https://www.govinfo.gov/link/statute/98/5); [Pub. L. 98–443, § 5(a)](https://www.govinfo.gov/link/plaw/98/public/443), Oct. 4, 1984, [98 Stat. 1705](https://www.govinfo.gov/link/statute/98/1705); [Pub. L. 103–272, § 4(j)(7)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1366](https://www.govinfo.gov/link/statute/108/1366); [Pub. L. 104–287, § 5(3)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3389](https://www.govinfo.gov/link/statute/110/3389); [Pub. L. 108–176, title IV, § 421](https://www.govinfo.gov/link/plaw/108/public/176), title VIII, § 805(a), Dec. 12, 2003, [117 Stat. 2551](https://www.govinfo.gov/link/statute/117/2551), 2587.)*

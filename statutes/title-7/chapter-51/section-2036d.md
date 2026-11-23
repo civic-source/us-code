@@ -3,9 +3,10 @@ title: "Section 2036d - Pilot projects to encourage the use of public-private pa
 usc_title: 7
 usc_section: "2036d"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2036d"
-generated_at: "2026-03-30T02:53:42.376Z"
+generated_at: "2026-11-23T21:25:28.270Z"
+status: "active"
 ---
 
 # § 2036d. Pilot projects to encourage the use of public-private partnerships committed to addressing food insecurity
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:42.376Z"
 - **(e)**
   - **(1)** There is authorized to be appropriated to carry out this section $5,000,000 to remain available until expended.
   - **(2)** Only funds appropriated under paragraph (1) in advance specifically to carry out this section shall be available to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 88–525, § 30](https://www.govinfo.gov/link/plaw/88/public/525), as added [Pub. L. 115–334, title IV, § 4021](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4652](https://www.govinfo.gov/link/statute/132/4652).)*

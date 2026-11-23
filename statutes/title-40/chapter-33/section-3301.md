@@ -3,9 +3,10 @@ title: "Section 3301 - Definitions and nonapplication"
 usc_title: 40
 usc_section: "3301"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 3301"
-generated_at: "2026-03-30T02:55:43.379Z"
+generated_at: "2026-11-23T21:26:14.859Z"
+status: "active"
 ---
 
 # § 3301. Definitions and nonapplication
@@ -50,3 +51,109 @@ generated_at: "2026-03-30T02:55:43.379Z"
       - **(ix)** the exclusion of which the President considers to be justified in the public interest.
   - **(6)** The term “United States” includes the States of the United States, the District of Columbia, Puerto Rico, and the territories and possessions of the United States.
 - **(b)** This chapter does not apply to the construction of any public building to which section 241(g) of the Immigration and Nationality Act ( 8 U.S.C. 1231(g) ) or section 1 of the Act of June 26, 1930 ( 19 U.S.C. 68 ) applies.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3301(a)(1) | 40:612(2), (5), (6). | Pub. L. 86–249, § 13 , Sept. 9, 1959 , 73 Stat. 482 ; Pub. L. 90–448, title VIII, § 807(f) , Aug. 1, 1968 , 82 Stat. 544 ; Pub. L. 101–73, title VII, § 744(g) , Aug. 9, 1989 , 103 Stat. 438 ; Pub. L. 102–54, § 13 ( o ), June 13, 1991 , 105 Stat. 278 ; Pub. L. 104–208, div. A, title I, § 101(f) [title IV, § 407(b)] , Sept. 30, 1996 , 110 Stat. 3009–338 . |
+|  | 40:612a(1). | Pub. L. 94–541, title I, § 105(1) , (2), Oct. 18, 1976 , 90 Stat. 2507 . |
+| 3301(a)(2) | 40:612(6). |  |
+| 3301(a)(3) | 40:612(4). |  |
+| 3301(a)(4) | 40:612(3). |  |
+|  | 40:612a(2). |  |
+| 3301(a)(5) | 40:612(1). |  |
+|  | 40:612a(2). |  |
+| 3301(a)(6) | 40:612(7). |  |
+| 3301(b) | 40:613. | Pub. L. 86–249, § 14 , Sept. 9, 1959 , 73 Stat. 483 . |
+
+
+Definitions
+
+Alter
+
+Construct
+
+Executive agency
+
+Federal agency
+
+Public building
+
+United states
+
+Nonapplication
+
+Historical and Revision Notes
+
+3301(a)(1)
+
+Pub. L. 86–249, § 13
+
+Sept. 9, 1959
+
+73 Stat. 482
+
+Pub. L. 90–448, title VIII, § 807(f)
+
+Aug. 1, 1968
+
+82 Stat. 544
+
+Pub. L. 101–73, title VII, § 744(g)
+
+Aug. 9, 1989
+
+103 Stat. 438
+
+Pub. L. 102–54, § 13
+
+June 13, 1991
+
+105 Stat. 278
+
+Pub. L. 104–208, div. A, title I, § 101(f) [title IV, § 407(b)]
+
+Sept. 30, 1996
+
+110 Stat. 3009–338
+
+Pub. L. 94–541, title I, § 105(1)
+
+Oct. 18, 1976
+
+90 Stat. 2507
+
+3301(a)(2)
+
+3301(a)(3)
+
+3301(a)(4)
+
+3301(a)(5)
+
+3301(a)(6)
+
+3301(b)
+
+Pub. L. 86–249, § 14
+
+Sept. 9, 1959
+
+73 Stat. 483
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1156](https://www.govinfo.gov/link/statute/116/1156).)*

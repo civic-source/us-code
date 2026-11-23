@@ -3,9 +3,10 @@ title: "Section 6191 - Reports in connection with permanent closures of Departme
 usc_title: 10
 usc_section: "6191"
 chapter: 604
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6191"
-generated_at: "2026-03-30T02:53:38.222Z"
+generated_at: "2026-11-23T21:25:32.820Z"
+status: "active"
 ---
 
 # § 6191. Reports in connection with permanent closures of Department of Energy defense nuclear facilities
@@ -15,3 +16,11 @@ generated_at: "2026-03-30T02:53:38.222Z"
   - **(1)** a complete survey of environmental problems at the facility;
   - **(2)** budget quality data indicating the cost of defense environmental cleanup activities at the facility; and
   - **(3)** a discussion of the proposed cleanup schedule.
+
+Training and Job Placement Services Plan
+
+Closure Report
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1395](https://www.govinfo.gov/link/statute/139/1395).)*

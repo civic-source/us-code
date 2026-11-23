@@ -3,9 +3,10 @@ title: "Section 313c - Authorized activities of the National Oceanic and Atmosph
 usc_title: 15
 usc_section: "313c"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 313c"
-generated_at: "2026-03-30T02:54:08.082Z"
+generated_at: "2026-11-23T21:25:39.629Z"
+status: "active"
 ---
 
 # § 313c. Authorized activities of the National Oceanic and Atmospheric Administration
@@ -19,3 +20,7 @@ The National Oceanic and Atmospheric Administration, through the United States W
   - **(5)** assess, through research and analysis of previous trends, among other activities—
     - **(A)** the long-term trends in frequency and severity of inland flooding; and
     - **(B)** how shifts in climate, development, and erosion patterns might make certain regions vulnerable to more continual or escalating flood damage in the future.
+
+## Source Credit
+
+*([Pub. L. 107–253, § 2](https://www.govinfo.gov/link/plaw/107/public/253), Oct. 29, 2002, [116 Stat. 1731](https://www.govinfo.gov/link/statute/116/1731).)*

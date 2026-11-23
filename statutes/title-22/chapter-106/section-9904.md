@@ -3,9 +3,10 @@ title: "Section 9904 - Whole-of-government coordination and consultation to supp
 usc_title: 22
 usc_section: "9904"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9904"
-generated_at: "2026-03-30T02:55:05.474Z"
+generated_at: "2026-11-23T21:25:58.791Z"
+status: "active"
 ---
 
 # § 9904. Whole-of-government coordination and consultation to support United States economic and business interests
@@ -30,3 +31,9 @@ generated_at: "2026-03-30T02:55:05.474Z"
     - **(A)** in soliciting private-sector advice;
     - **(B)** with respect to implementation of strategic planning; and
     - **(C)** in advancing the overall mission and goals of United States national security.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*([Pub. L. 116–94, div. J, title VII, § 708](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3072](https://www.govinfo.gov/link/statute/133/3072).)*

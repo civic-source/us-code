@@ -3,9 +3,10 @@ title: "Section 9411 - Presidential waiver authority"
 usc_title: 22
 usc_section: "9411"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9411"
-generated_at: "2026-03-30T02:55:05.466Z"
+generated_at: "2026-11-23T21:25:58.773Z"
+status: "active"
 ---
 
 # § 9411. Presidential waiver authority
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.466Z"
   - **(3)** an explanation of any efforts made by the United States, as applicable, to secure the cooperation of the government with primary jurisdiction over the person or the location where the activity described in paragraph (2) occurred in terminating or, as appropriate, penalizing the activity; and
   - **(4)** an assessment of the significance of the activity described in paragraph (2) in contributing to the ability of Iran to threaten the interests of the United States or allies of the United States, develop systems capable of delivering weapons of mass destruction, support acts of international terrorism, or violate the human rights of any person in Iran.
 - **(c)** If the President submits a report under subsection (a) in connection with a waiver of sanctions under section 9403, 9404, 9405, 9406, or 9407 of this title with respect to a person, or the renewal of such a waiver, the President shall not be required to impose or maintain sanctions under section 9403, 9404, 9405, 9406, or 9407 of this title, as applicable, with respect to the person described in the report during the 30-day period referred to in subsection (a).
+
+## Source Credit
+
+*([Pub. L. 115–44, title I, § 112](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 897](https://www.govinfo.gov/link/statute/131/897).)*

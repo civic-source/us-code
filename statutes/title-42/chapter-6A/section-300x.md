@@ -3,9 +3,10 @@ title: "Section 300x - Formula grants to States"
 usc_title: 42
 usc_section: "300x"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 300x"
-generated_at: "2026-03-30T02:56:10.811Z"
+generated_at: "2026-11-23T21:26:30.795Z"
+status: "active"
 ---
 
 # § 300x. Formula grants to States
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:56:10.811Z"
   - **(2)** carrying out the plan submitted under section 300x–1(a) of this title by the State for the fiscal year involved;
   - **(3)** evaluating programs and services carried out under the plan; and
   - **(4)** planning, administration, and educational activities related to providing services under the plan.
+
+Review of Use of Certain Funding
+
+Report and Guidance.—
+
+Report
+
+Guidance
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XIX, § 1911, as added [Pub. L. 102–321, title II, § 201(2)](https://www.govinfo.gov/link/plaw/102/public/321), July 10, 1992, [106 Stat. 378](https://www.govinfo.gov/link/statute/106/378); amended [Pub. L. 114–255, div. B, title VIII, § 8001(a)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1225](https://www.govinfo.gov/link/statute/130/1225).)*

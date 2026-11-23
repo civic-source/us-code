@@ -3,9 +3,10 @@ title: "Section 9094 - Required assurances"
 usc_title: 15
 usc_section: "9094"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9094"
-generated_at: "2026-03-30T02:54:08.244Z"
+generated_at: "2026-11-23T21:25:40.134Z"
+status: "active"
 ---
 
 # § 9094. Required assurances
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:08.244Z"
       - **(i)** in the case of a passenger air carrier, December 1, 2020 , and the date such passenger air carrier enters into an agreement with the Secretary for financial assistance under this part; or
       - **(ii)** in the case of a contractor, December 27, 2020 , and the date on which such contractor enters into an agreement with the Secretary with respect to financial assistance under this part; and
     - **(C)** restore the rights and protections for such returning employees as if such employees had not been involuntarily furloughed.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. N, title IV, § 404](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2055](https://www.govinfo.gov/link/statute/134/2055).)*

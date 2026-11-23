@@ -3,9 +3,10 @@ title: "Section 32912 - Civil penalties"
 usc_title: 49
 usc_section: "32912"
 chapter: 329
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 32912"
-generated_at: "2026-03-30T02:56:19.367Z"
+generated_at: "2026-11-23T21:26:40.813Z"
+status: "active"
 ---
 
 # § 32912. Civil penalties
@@ -39,3 +40,74 @@ generated_at: "2026-03-30T02:56:19.367Z"
 - **(e)** For fiscal year 2008 and each fiscal year thereafter, from the total amount deposited in the general fund of the Treasury during the preceding fiscal year from fines, penalties, and other funds obtained through enforcement actions conducted pursuant to this section (including funds obtained under consent decrees), the Secretary of the Treasury, subject to the availability of appropriations, shall—
   - **(1)** transfer 50 percent of such total amount to the account providing appropriations to the Secretary of Transportation for the administration of this chapter, which shall be used by the Secretary to support rulemaking under this chapter; and
   - **(2)** transfer 50 percent of such total amount to the account providing appropriations to the Secretary of Transportation for the administration of this chapter, which shall be used by the Secretary to carry out a program to make grants to manufacturers for retooling, reequipping, or expanding existing manufacturing facilities in the United States to produce advanced technology vehicles and components.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 32912(a) | 15:2008(b)(2). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 508(b)(1)–(3) (1st sentence); added Dec. 22, 1975 , Pub. L. 94–163, § 301 , 89 Stat. 913 ; Oct. 10, 1980 , Pub. L. 96–425 , §§ 6(c)(1), (3), 8(f), 94 Stat. 1827 , 1828, 1829. |
+| 32912(b) | 15:2008(b)(1). |  |
+| 32912(c)(1) | 15:2008(d). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 508(d), (e)(1), (2), (4); added Nov. 9, 1978 , Pub. L. 95–619, § 402 , 92 Stat. 3255 , 3256. |
+| 32912(c)(2), (3) | 15:2008(e)(1). |  |
+| 32912(c)(4) | 15:2008(e)(2). |  |
+| 32912(c)(5) | 15:2008(e)(4). |  |
+| 32912(d) | 15:2008(b)(3) (1st sentence). |  |
+
+
+General Penalty
+
+Penalty for Manufacturer Violations of Fuel Economy Standards
+
+Higher Penalty Amounts
+
+Written Notice Requirement
+
+Use of Civil Penalties
+
+Historical and Revision Notes
+
+32912(a)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Dec. 22, 1975
+
+Pub. L. 94–163, § 301
+
+89 Stat. 913
+
+Oct. 10, 1980
+
+Pub. L. 96–425
+
+94 Stat. 1827
+
+32912(b)
+
+32912(c)(1)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Nov. 9, 1978
+
+Pub. L. 95–619, § 402
+
+92 Stat. 3255
+
+32912(c)(4)
+
+32912(c)(5)
+
+32912(d)
+
+“The amendments made by subsection (a) [amending this section] shall—
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1072](https://www.govinfo.gov/link/statute/108/1072); [Pub. L. 110–140, title I, § 112](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1508](https://www.govinfo.gov/link/statute/121/1508); [Pub. L. 119–21, title IV, § 40006(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 136](https://www.govinfo.gov/link/statute/139/136).)*

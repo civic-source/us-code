@@ -3,9 +3,10 @@ title: "Section 410ee - San Antonio Missions National Historical Park"
 usc_title: 16
 usc_section: "410ee"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410ee"
-generated_at: "2026-03-30T02:54:22.764Z"
+generated_at: "2026-11-23T21:25:51.442Z"
+status: "active"
 ---
 
 # § 410ee. San Antonio Missions National Historical Park
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:54:22.764Z"
 - **(f)**
   - **(1)** There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this section, but not more than $10,000,000 for the acquisition of lands and interests in lands.
   - **(2)** For the development of essential public facilities there are authorized to be appropriated not more than $15,000,000.
+
+## Source Credit
+
+*([Pub. L. 95–629, title II, § 201](https://www.govinfo.gov/link/plaw/95/public/629), Nov. 10, 1978, [92 Stat. 3636](https://www.govinfo.gov/link/statute/92/3636); [Pub. L. 96–344, § 13](https://www.govinfo.gov/link/plaw/96/public/344), Sept. 8, 1980, [94 Stat. 1136](https://www.govinfo.gov/link/statute/94/1136); [Pub. L. 101–628, title V, § 501](https://www.govinfo.gov/link/plaw/101/public/628), Nov. 28, 1990, [104 Stat. 4492](https://www.govinfo.gov/link/statute/104/4492); [Pub. L. 103–437, § 6(j)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4585](https://www.govinfo.gov/link/statute/108/4585); [Pub. L. 113–291, div. B, title XXX, § 3042](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3792](https://www.govinfo.gov/link/statute/128/3792).)*

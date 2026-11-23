@@ -3,9 +3,10 @@ title: "Section 238p - Recommendations and guidelines regarding automated extern
 usc_title: 42
 usc_section: "238p"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 238p"
-generated_at: "2026-03-30T02:56:10.689Z"
+generated_at: "2026-11-23T21:26:30.240Z"
+status: "active"
 ---
 
 # § 238p. Recommendations and guidelines regarding automated external defibrillators for Federal buildings
@@ -24,3 +25,9 @@ generated_at: "2026-03-30T02:56:10.689Z"
 - **(e)** For purposes of this section:
   - **(1)** The term “automated external defibrillator device” has the meaning given such term in section 238q of this title .
   - **(2)** The term “Federal building” includes a building or portion of a building leased or rented by a Federal agency, and includes buildings on military installations of the United States.
+
+“Congress makes the following findings:
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title II, § 247, as added [Pub. L. 106–505, title IV, § 403](https://www.govinfo.gov/link/plaw/106/public/505), Nov. 13, 2000, [114 Stat. 2337](https://www.govinfo.gov/link/statute/114/2337).)*

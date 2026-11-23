@@ -3,9 +3,10 @@ title: "Section 2931 - Office of the United States Coordinator for the Preventio
 usc_title: 50
 usc_section: "2931"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2931"
-generated_at: "2026-03-30T02:56:26.226Z"
+generated_at: "2026-11-23T21:26:38.983Z"
+status: "active"
 ---
 
 # § 2931. Office of the United States Coordinator for the Prevention of Weapons of Mass Destruction Proliferation and Terrorism
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:56:26.226Z"
   - **(5)** use the mails in the same manner as any other department or agency of the executive branch.
 - **(e)** The Office and the Coordinator shall regularly consult with and strive to implement the recommendations of the Commission on the Prevention of Weapons of Mass Destruction Proliferation and Terrorism, established under subtitle E of this title. 1
 - **(f)** For fiscal year 2009 and each fiscal year thereafter, the Coordinator shall submit to Congress, at the same time as the submission of the budget for that fiscal year under title 31, a report on the strategy and policies developed pursuant to subsection (c)(2), together with any recommendations of the Coordinator for legislative changes that the Coordinator considers appropriate with respect to such strategy and policies and their implementation or the Office of the Coordinator.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XVIII, § 1841](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 498](https://www.govinfo.gov/link/statute/121/498).)*

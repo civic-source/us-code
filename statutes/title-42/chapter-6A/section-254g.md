@@ -3,9 +3,10 @@ title: "Section 254g - Charges for services by entities using Corps members"
 usc_title: 42
 usc_section: "254g"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 254g"
-generated_at: "2026-03-30T02:56:10.713Z"
+generated_at: "2026-11-23T21:26:30.351Z"
+status: "active"
 ---
 
 # § 254g. Charges for services by entities using Corps members
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:10.713Z"
       - **(i)** the State agency administering the program under title XIX of such Act [ 42 U.S.C. 1396 et seq.] with respect to an individual who is a beneficiary under the medicaid program; and
       - **(ii)** the State agency administering the program under title XXI of such Act [ 42 U.S.C. 1397aa et seq.] with respect to an individual who is a beneficiary under the State children’s health insurance program.
   - **(3)** The entity shall take reasonable and appropriate steps to collect all payments due for health care services provided by the entity, including payments from any third party (including a Federal, State, or local government agency and any other third party) that is responsible for part or all of the charge for such services.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 334, as added [Pub. L. 107–251, title III, § 305](https://www.govinfo.gov/link/plaw/107/public/251), Oct. 26, 2002, [116 Stat. 1647](https://www.govinfo.gov/link/statute/116/1647); amended [Pub. L. 108–163, § 2(i)](https://www.govinfo.gov/link/plaw/108/public/163), Dec. 6, 2003, [117 Stat. 2022](https://www.govinfo.gov/link/statute/117/2022).)*

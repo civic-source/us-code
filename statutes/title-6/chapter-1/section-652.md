@@ -3,9 +3,10 @@ title: "Section 652 - Cybersecurity and Infrastructure Security Agency"
 usc_title: 6
 usc_section: "652"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 652"
-generated_at: "2026-03-30T02:53:09.474Z"
+generated_at: "2026-11-23T21:25:25.815Z"
+status: "active"
 ---
 
 # § 652. Cybersecurity and Infrastructure Security Agency
@@ -106,3 +107,133 @@ generated_at: "2026-03-30T02:53:09.474Z"
     - **(C)** evaluating legislative and regulatory proposals involving collection, use, and disclosure of personal information by the Agency; and
     - **(D)** conducting a privacy impact assessment of proposed rules of the Agency on the privacy of personal information, including the type of personal information collected and the number of people affected.
 - **(i)** Nothing in this subchapter may be construed as affecting in any manner the authority, existing on the day before November 16, 2018 , of any other component of the Department or any other Federal department or agency, including the authority provided to the Sector Risk Management Agency specified in section 61003(c) of division F of the Fixing America’s Surface Transportation Act ( 6 U.S.C. 121 note; Public Law 114–94 ).
+
+In General
+
+Assistance to DHS
+
+Considerations Regarding Selection of a Consortium
+
+Metrics
+
+Outreach
+
+Rule of Construction
+
+Definitions
+
+Program
+
+Identification of Vulnerable Systems
+
+Entity Notification.—
+
+Identification
+
+No identification
+
+Required information
+
+Prioritization of Notifications
+
+Limitation on Procedures
+
+Rule of Construction
+
+Termination
+
+Pilot Required
+
+Public-private Partnerships.—
+
+In general
+
+Voluntary participation.—
+
+In general
+
+Prohibition
+
+Authorized Activities
+
+Competition Concerns
+
+Impartiality
+
+Responsibilities.—
+
+Secretary of homeland security
+
+National cyber director
+
+Secretary of defense
+
+Participation of Other Federal Government Components
+
+Integration With Other Efforts
+
+Rules of Construction
+
+Limitation on government access to data
+
+Stored communications act
+
+Third party customers
+
+Briefings.—
+
+Initial.—
+
+In general
+
+Elements
+
+Annual.—
+
+In general
+
+Elements
+
+Termination
+
+Definitions
+
+Appropriate committees of congress
+
+Internet ecosystem company
+
+Secretary
+
+Definitions
+
+Cybersecurity risk
+
+Director
+
+Information system
+
+educational institution
+
+Study.—
+
+In general
+
+Congressional briefing
+
+Cybersecurity Recommendations
+
+Online Training Toolkit
+
+Public Availability
+
+Voluntary Use
+
+Consultation
+
+In general
+
+Inapplicability of faca
+
+## Source Credit
+
+*([Pub. L. 107–296, title XXII, § 2202](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 115–278, § 2(a)](https://www.govinfo.gov/link/plaw/115/public/278), Nov. 16, 2018, [132 Stat. 4169](https://www.govinfo.gov/link/statute/132/4169); amended [Pub. L. 116–260, div. U, title IX, § 904(b)(1)(A)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2298](https://www.govinfo.gov/link/statute/134/2298); [Pub. L. 116–283, div. A, title XVII](https://www.govinfo.gov/link/plaw/116/public/283), §§ 1717(a)(1)(A), 1719(a), (b), div. H, title XC, §§ 9001(a), 9002(c)(2)(D), Jan. 1, 2021, [134 Stat. 4099](https://www.govinfo.gov/link/statute/134/4099), 4105, 4766, 4773; [Pub. L. 117–81, div. A, title XV](https://www.govinfo.gov/link/plaw/117/public/81), §§ 1547(b)(1)(A)(i), (B), 1549(a), Dec. 27, 2021, [135 Stat. 2060](https://www.govinfo.gov/link/statute/135/2060), 2061, 2063; [Pub. L. 117–263, div. G, title LXXI, § 7143(a)(1)](https://www.govinfo.gov/link/plaw/117/public/263), (b)(2)(C), (c)(5), Dec. 23, 2022, [136 Stat. 3654](https://www.govinfo.gov/link/statute/136/3654), 3659, 3663.)*

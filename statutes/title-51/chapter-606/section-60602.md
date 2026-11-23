@@ -3,9 +3,10 @@ title: "Section 60602 - Integrated strategy"
 usc_title: 51
 usc_section: "60602"
 chapter: 606
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 60602"
-generated_at: "2026-03-30T02:56:28.713Z"
+generated_at: "2026-11-23T21:26:42.565Z"
+status: "active"
 ---
 
 # § 60602. Integrated strategy
@@ -25,3 +26,23 @@ generated_at: "2026-03-30T02:56:28.713Z"
   - **(3)** The Director of the Office of Science and Technology Policy, the Administrator of the National Aeronautics and Space Administration, and the Administrator of the National Oceanic and Atmospheric Administration shall transmit the integrated strategy and the results of the review required under paragraph (1) to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than 1 year after the date of the completion of the survey under section 60601(d)(3). The integrated strategy and its review shall be made publicly available within 30 days of submittal to Congress.
 - **(d)** Not later than 180 days after delivery of the review of the integrated strategy in subsection (c)(3), the interagency working group shall develop a plan to implement the integrated strategy, including an estimate of the cost and schedule required for implementation. Upon completion, the interagency working group shall submit the implementation plan to the Committees on Science, Space, and Technology and Armed Services of the House of Representatives and the Committees on Commerce, Science, and Transportation and Armed Services of the Senate. The implementation plan shall be made publicly available within 30 days of submittal to Congress.
 - **(e)** The Director, in collaboration with the interagency working group, shall update the integrated strategy not later than 1 year after the reevaluation of the user survey from section 60601(d)(3)(F) in accordance with the requirements of subsections (a) through (d).
+
+In General
+
+Considerations
+
+Review of Integrated Strategy.—
+
+Review
+
+Considerations
+
+Transmittal
+
+Implementation Plan
+
+Reevaluation
+
+## Source Credit
+
+*([Pub. L. 116–181, § 2(b)](https://www.govinfo.gov/link/plaw/116/public/181), Oct. 21, 2020, [134 Stat. 886](https://www.govinfo.gov/link/statute/134/886).)*

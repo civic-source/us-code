@@ -3,9 +3,10 @@ title: "Section 1525 - Assistance for facilities subject to inspection under Che
 usc_title: 50
 usc_section: "1525"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1525"
-generated_at: "2026-03-30T02:56:26.206Z"
+generated_at: "2026-11-23T21:26:38.915Z"
+status: "active"
 ---
 
 # § 1525. Assistance for facilities subject to inspection under Chemical Weapons Convention
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:26.206Z"
   - **(2)** The term “facility that is subject to a routine inspection” means a declared facility, as defined in paragraph 15 of part X of the Annex on Implementation and Verification of the Convention.
   - **(3)** The term “challenge inspection” means an inspection conducted under Article IX of the Convention.
   - **(4)** The term “United States National Authority” means the United States National Authority established or designated pursuant to Article VII, paragraph 4, of the Convention.
+
+## Source Credit
+
+*([Pub. L. 105–85, div. A, title XIII, § 1303](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1951](https://www.govinfo.gov/link/statute/111/1951).)*

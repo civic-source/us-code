@@ -3,9 +3,10 @@ title: "Section 461 - Management rights"
 usc_title: 10
 usc_section: "461"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 461"
-generated_at: "2026-03-30T02:53:38.059Z"
+generated_at: "2026-11-23T21:25:32.270Z"
+status: "active"
 ---
 
 # § 461. Management rights
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:53:38.059Z"
 - **(c)**
   - **(1)** If the Director of the National Geospatial-Intelligence Agency determines that the responsibilities of a position within a collective bargaining unit should be modified to include intelligence, counterintelligence, investigative, or security duties not previously assigned to that position and that the performance of the newly assigned duties directly affects the national security of the United States, then, upon such a modification of the responsibilities of that position, the position shall cease to be covered by the collective bargaining unit and the employee in that position shall cease to be entitled to representation by a labor organization accorded exclusive recognition for that collective bargaining unit.
   - **(2)** A determination described in paragraph (1) that is made by the Director of the National Geospatial-Intelligence Agency may not be reviewed by the Federal Labor Relations Authority or any court of the United States.
+
+Scope
+
+Bargaining Units
+
+Termination of Bargaining Unit Coverage of Position Modified To Affect National Security Directly
+
+## Source Credit
+
+*(Added [Pub. L. 104–201, div. A, title XI, § 1112(a)(2)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2681](https://www.govinfo.gov/link/statute/110/2681); amended [Pub. L. 108–136, div. A, title IX, § 921(d)(2)(A)](https://www.govinfo.gov/link/plaw/108/public/136), (C), Nov. 24, 2003, [117 Stat. 1568](https://www.govinfo.gov/link/statute/117/1568).)*

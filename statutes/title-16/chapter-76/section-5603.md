@@ -3,9 +3,10 @@ title: "Section 5603 - Authorities of Secretary of State with respect to Convent
 usc_title: 16
 usc_section: "5603"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 5603"
-generated_at: "2026-03-30T02:54:23.053Z"
+generated_at: "2026-11-23T21:25:52.032Z"
+status: "active"
 ---
 
 # § 5603. Authorities of Secretary of State with respect to Convention
@@ -17,3 +18,7 @@ The Secretary of State may, on behalf of the Government of the United States—
   - **(3)** give or withdraw notice of intent not to be bound by a measure of the Commission consistent with the procedures detailed in Articles XIV and XV of the Convention;
   - **(4)** object or withdraw an objection to an amendment to the Convention; and
   - **(5)** act upon, or refer to any other appropriate authority, any other communication referred to in paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 104–43, title II, § 204](https://www.govinfo.gov/link/plaw/104/public/43), Nov. 3, 1995, [109 Stat. 379](https://www.govinfo.gov/link/statute/109/379); [Pub. L. 114–327, title V, § 504](https://www.govinfo.gov/link/plaw/114/public/327), Dec. 16, 2016, [130 Stat. 1996](https://www.govinfo.gov/link/statute/130/1996).)*

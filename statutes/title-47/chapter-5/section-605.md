@@ -3,9 +3,10 @@ title: "Section 605 - Unauthorized publication or use of communications"
 usc_title: 47
 usc_section: "605"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 605"
-generated_at: "2026-03-30T02:56:24.521Z"
+generated_at: "2026-11-23T21:26:36.045Z"
+status: "active"
 ---
 
 # § 605. Unauthorized publication or use of communications
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:56:24.521Z"
   - **(5)** the effect of any such standard on competition in the manufacture of decryption equipment; and
   - **(6)** the impact of the time delay associated with the Commission procedures necessary for establishment of such standards.
 - **(h)** If the Commission finds, based on the information gathered from the inquiry required by subsection (g), that a universal encryption standard is necessary and in the public interest, the Commission shall initiate a rulemaking to establish such a standard.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VII, § 705, formerly title VI, § 605, [48 Stat. 1103](https://www.govinfo.gov/link/statute/48/1103); [Pub. L. 90–351, title III, § 803](https://www.govinfo.gov/link/plaw/90/public/351), June 19, 1968, [82 Stat. 223](https://www.govinfo.gov/link/statute/82/223); [Pub. L. 97–259, title I, § 126](https://www.govinfo.gov/link/plaw/97/public/259), Sept. 13, 1982, [96 Stat. 1099](https://www.govinfo.gov/link/statute/96/1099); renumbered title VII, § 705, and amended [Pub. L. 98–549](https://www.govinfo.gov/link/plaw/98/public/549), §§ 5(a), 6(a), Oct. 30, 1984, [98 Stat. 2802](https://www.govinfo.gov/link/statute/98/2802), 2804; [Pub. L. 100–626, § 11](https://www.govinfo.gov/link/plaw/100/public/626), Nov. 7, 1988, [102 Stat. 3211](https://www.govinfo.gov/link/statute/102/3211); [Pub. L. 100–667, title II](https://www.govinfo.gov/link/plaw/100/public/667), §§ 204, 205, Nov. 16, 1988, [102 Stat. 3958](https://www.govinfo.gov/link/statute/102/3958), 3959; [Pub. L. 103–414, title III](https://www.govinfo.gov/link/plaw/103/public/414), §§ 303(a)(25)–(28), 304(a)(15), Oct. 25, 1994, [108 Stat. 4295–4297](https://www.govinfo.gov/link/statute/108/4295); [Pub. L. 104–104, title II, § 205(a)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 114](https://www.govinfo.gov/link/statute/110/114).)*

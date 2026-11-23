@@ -3,9 +3,10 @@ title: "Section 559b - Prevention of manufacture, etc., of marijuana and other c
 usc_title: 16
 usc_section: "559b"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 559b"
-generated_at: "2026-03-30T02:54:22.876Z"
+generated_at: "2026-11-23T21:25:51.675Z"
+status: "active"
 ---
 
 # § 559b. Prevention of manufacture, etc., of marijuana and other controlled substances
@@ -13,3 +14,9 @@ generated_at: "2026-03-30T02:54:22.876Z"
 - **(a)** The purpose of sections 559b to 559f of this title is to authorize the Secretary of Agriculture (hereinafter in sections 559b to 559f of this title referred to as the “Secretary”) to take actions necessary, in connection with the administration and use of the National Forest System, to prevent the manufacture, distribution, or dispensing of marijuana and other controlled substances.
 - **(b)** Nothing in sections 559b to 559f of this title shall diminish in any way the law enforcement authority of the Forest Service.
 - **(c)** As used in sections 559b to 559f of this title, the terms “manufacture”, “dispense”, and “distribute” shall have the same meaning given such terms in section 802 of title 21 .
+
+“Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 99–570, title XV, § 15002](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–191](https://www.govinfo.gov/link/statute/100/3207).)*

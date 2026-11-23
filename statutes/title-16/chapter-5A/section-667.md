@@ -3,12 +3,17 @@ title: "Section 667 - Game management supply depots; appropriations"
 usc_title: 16
 usc_section: "667"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 667"
-generated_at: "2026-03-30T02:54:22.888Z"
+generated_at: "2026-11-23T21:25:51.707Z"
+status: "active"
 ---
 
 # § 667. Game management supply depots; appropriations
 
 Appropriations made for the administration, protection, maintenance, control, improvements, and development of wildlife sanctuaries, reservations, and refuges under the control of the Secretary of the Interior shall be available for the purchase, transportation, and handling of supplies and materials for distribution at cost from game management supply depots maintained by the Department of the Interior to projects specially provided for, and transfers between the appropriations for said purposes are authorized in order that the cost of supplies and materials, and transportation and handling thereof, drawn from central warehouses so maintained may be charged to the particular project benefited; and such supplies and materials as remain in said depots at the end of any fiscal year shall be continuously available for issuance during subsequent fiscal years and to be charged for by such transfers of funds between said appropriations for the fiscal year then current without decreasing in any way the appropriations made for that fiscal year: Provided , That supplies and materials shall not be purchased solely for the purpose of increasing the value of storehouse stock beyond reasonable requirements for any current fiscal year.
 
+
+## Source Credit
+
+*(June 24, 1936, ch. 764, [49 Stat. 1913](https://www.govinfo.gov/link/statute/49/1913); 1939 Reorg. Plan No. II, § 4(e), (f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433](https://www.govinfo.gov/link/statute/53/1433).)*

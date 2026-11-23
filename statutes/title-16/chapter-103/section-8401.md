@@ -3,9 +3,10 @@ title: "Section 8401 - Definitions"
 usc_title: 16
 usc_section: "8401"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8401"
-generated_at: "2026-03-30T02:54:23.083Z"
+generated_at: "2026-11-23T21:25:52.076Z"
+status: "active"
 ---
 
 # § 8401. Definitions
@@ -27,3 +28,19 @@ In this chapter:
     - **(A)** the Secretary, with respect to land under the jurisdiction of the Secretary; or
     - **(B)** the Secretary of Agriculture, with respect to land managed by the Forest Service.
   - **(9)** The term “State” means each of the several States, the District of Columbia, and each territory of the United States.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 118–234, § 2](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2837](https://www.govinfo.gov/link/statute/138/2837).)*

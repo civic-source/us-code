@@ -3,9 +3,10 @@ title: "Section 1507 - Effect of proceeding"
 usc_title: 17
 usc_section: "1507"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 1507"
-generated_at: "2026-03-30T02:54:15.359Z"
+generated_at: "2026-11-23T21:25:41.747Z"
+status: "active"
 ---
 
 # § 1507. Effect of proceeding
@@ -25,3 +26,23 @@ generated_at: "2026-03-30T02:54:15.359Z"
   - **(2)** the claim brought alleges infringement of the material identified in the notification of claimed infringement under section 512(c)(1)(C).
 - **(e)** The failure or inability to assert a counterclaim in a proceeding before the Copyright Claims Board shall not preclude the assertion of that counterclaim in a subsequent court action or proceeding before the Copyright Claims Board.
 - **(f)** If a party has timely opted out of a proceeding under section 1506(i) or is dismissed from a proceeding before the Copyright Claims Board issues a final determination in the proceeding, the determination shall not be binding upon and shall have no preclusive effect with respect to that party.
+
+Determination
+
+Class Actions Not Affected.—
+
+In general
+
+Notice of class action
+
+Other Materials in Proceeding
+
+Applicability of Section
+
+Failure To Assert Counterclaim
+
+Opt-Out or Dismissal of Party
+
+## Source Credit
+
+*(Added [Pub. L. 116–260, div. Q, title II, § 212(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2195](https://www.govinfo.gov/link/statute/134/2195).)*

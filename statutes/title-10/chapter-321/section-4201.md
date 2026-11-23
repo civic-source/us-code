@@ -3,9 +3,10 @@ title: "Section 4201 - Major defense acquisition programs: definition; exception
 usc_title: 10
 usc_section: "4201"
 chapter: 321
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4201"
-generated_at: "2026-03-30T02:53:38.205Z"
+generated_at: "2026-11-23T21:25:32.763Z"
+status: "active"
 ---
 
 # § 4201. Major defense acquisition programs: definition; exceptions
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:53:38.205Z"
   - **(1)** An acquisition program or project that is carried out using the rapid fielding or rapid prototyping acquisition pathway under section 3602 of this title .
   - **(2)** An acquisition program for a defense business system (as defined in section 2222(i)(1) of this title ) carried out using the acquisition guidance issued pursuant to section 883(e) of the National Defense Authorization Act for Fiscal Year 2016 ( Public Law 114–92 ; 10 U.S.C. 2223a note). 1 1 See References in Text note below.
   - **(3)** An acquisition program for software and covered hardware as described by section 3603 of this title .
+
+Definition
+
+Exceptions
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1846(b)](https://www.govinfo.gov/link/plaw/116/public/283), (c), Jan. 1, 2021, [134 Stat. 4248](https://www.govinfo.gov/link/statute/134/4248); [Pub. L. 118–159, div. A, title VIII, § 804(c)(2)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1968](https://www.govinfo.gov/link/statute/138/1968); [Pub. L. 119–60, div. A, title VIII, § 812(a)(9)](https://www.govinfo.gov/link/plaw/119/public/60), title XVIII, § 1804(d), Dec. 18, 2025, [139 Stat. 952](https://www.govinfo.gov/link/statute/139/952), 1235.)*

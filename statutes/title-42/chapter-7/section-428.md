@@ -3,9 +3,10 @@ title: "Section 428 - Benefits at age 72 for certain uninsured individuals"
 usc_title: 42
 usc_section: "428"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 428"
-generated_at: "2026-03-30T02:56:10.867Z"
+generated_at: "2026-11-23T21:26:31.056Z"
+status: "active"
 ---
 
 # § 428. Benefits at age 72 for certain uninsured individuals
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:56:10.867Z"
   - **(2)** The term “governmental pension system” means the insurance system established by this subchapter or any other system or fund established by the United States, a State, any political subdivision of a State, or any wholly owned instrumentality of any one or more of the foregoing which provides for payment of (A) pensions, (B) retirement or retired pay, or (C) annuities or similar amounts payable on account of personal services performed by any individual (not including any payment under any workmen’s compensation law or any payment by the Secretary of Veterans Affairs as compensation for service-connected disability or death).
   - **(3)** The term “periodic benefit” includes a benefit payable in a lump sum if it is a commutation of, or a substitute for, periodic payments.
   - **(4)** The determination of whether an individual is a husband or wife for any month shall be made under subsection (h) of section 416 of this title without regard to subsections (b) and (f) of section 416 of this title .
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title II, § 228, as added [Pub. L. 89–368, title III, § 302(a)](https://www.govinfo.gov/link/plaw/89/public/368), Mar. 15, 1966, [80 Stat. 67](https://www.govinfo.gov/link/statute/80/67); amended [Pub. L. 90–248, title I, § 102(b)](https://www.govinfo.gov/link/plaw/90/public/248), title II, § 241(a) Jan. 2, 1968, [81 Stat. 827](https://www.govinfo.gov/link/statute/81/827), 916; [Pub. L. 91–172, title X, § 1003(b)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 740](https://www.govinfo.gov/link/statute/83/740); [Pub. L. 92–5, title II, § 202(b)](https://www.govinfo.gov/link/plaw/92/public/5), Mar. 17, 1971, [85 Stat. 10](https://www.govinfo.gov/link/statute/85/10); [Pub. L. 92–336, title II, § 201(g)(2)](https://www.govinfo.gov/link/plaw/92/public/336), July 1, 1972, [86 Stat. 411](https://www.govinfo.gov/link/statute/86/411); [Pub. L. 93–233](https://www.govinfo.gov/link/plaw/93/public/233), §§ 2(b)(1), 18(c), Dec. 31, 1973, [87 Stat. 952](https://www.govinfo.gov/link/statute/87/952), 968; [Pub. L. 98–21, title III, § 305(a)](https://www.govinfo.gov/link/plaw/98/public/21) –(d), Apr. 20, 1983, [97 Stat. 113](https://www.govinfo.gov/link/statute/97/113); [Pub. L. 98–369, div. B, title VI](https://www.govinfo.gov/link/plaw/98/public/369), §§ 2662(e), 2663(j)(3)(A)(iv), July 18, 1984, [98 Stat. 1159](https://www.govinfo.gov/link/statute/98/1159), 1170; [Pub. L. 101–508, title V, § 5114(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–273](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–54, § 13(q)(3)(B)(i)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 279](https://www.govinfo.gov/link/statute/105/279); [Pub. L. 103–296, title I, § 107(a)(4)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1478](https://www.govinfo.gov/link/statute/108/1478); [Pub. L. 104–193, title I, § 108(a)(2)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2165](https://www.govinfo.gov/link/statute/110/2165).)*

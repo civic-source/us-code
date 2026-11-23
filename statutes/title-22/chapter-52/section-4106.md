@@ -3,9 +3,10 @@ title: "Section 4106 - Foreign Service Labor Relations Board"
 usc_title: 22
 usc_section: "4106"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4106"
-generated_at: "2026-03-30T02:55:05.406Z"
+generated_at: "2026-11-23T21:25:58.626Z"
+status: "active"
 ---
 
 # § 4106. Foreign Service Labor Relations Board
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.406Z"
 - **(c)** A vacancy on the Board shall not impair the right of the remaining members to exercise the full powers of the Board.
 - **(d)** The members of the Board, other than the Chairperson, may not hold another office or position in the Government except as authorized by law, and shall receive compensation at the daily equivalent of the rate payable for level V of the Executive Schedule under section 5316 of title 5 for each day they are performing their duties (including traveltime).
 - **(e)** The Chairperson may remove any other Board member, upon written notice, for corruption, neglect of duty, malfeasance, or demonstrated incapacity to perform his or her functions, established at a hearing, except where the right to a hearing is waived in writing.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 1006](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2131](https://www.govinfo.gov/link/statute/94/2131).)*

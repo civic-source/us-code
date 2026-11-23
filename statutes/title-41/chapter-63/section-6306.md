@@ -3,9 +3,10 @@ title: "Section 6306 - Prohibition on Members of Congress making contracts with 
 usc_title: 41
 usc_section: "6306"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 6306"
-generated_at: "2026-03-30T02:55:55.810Z"
+generated_at: "2026-11-23T21:26:18.828Z"
+status: "active"
 ---
 
 # § 6306. Prohibition on Members of Congress making contracts with Federal Government
@@ -18,3 +19,57 @@ generated_at: "2026-03-30T02:55:55.810Z"
     - **(B)** the Farm Credit Act of 1971 ( 12 U.S.C. 2001 et seq.); or
     - **(C)** the Home Owners’ Loan Act ( 12 U.S.C. 1461 et seq.).
   - **(3)** An exemption under this subsection shall be made a matter of public record.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 6306(a) | 41:22 (1st sentence). | R.S. § 3741; Feb. 27, 1877, ch. 69 , (16th complete par. on p. 249), 19 Stat. 249 ; Pub. L. 103–355, title VI, § 6004 , Oct. 13, 1994 , 108 Stat. 3364 ; Pub. L. 104–106, div. D, title XLIII, § 4321(i)(12) , Feb. 10, 1996 , 110 Stat. 676 . |
+| 6306(b) | 41:22 (last sentence). | Jan. 25, 1934, ch. 5 , (related to R.S. § 3741), 48 Stat. 337 ; June 27, 1934, ch. 847 , title V, § 510, 48 Stat. 1264 ; Aug. 26, 1937, ch. 821 , 50 Stat. 838 . |
+
+
+In General
+
+Exemptions.—
+
+In general
+
+Certain acts
+
+Public record
+
+Historical and Revision Notes
+
+6306(a)
+
+Feb. 27, 1877, ch. 69
+
+19 Stat. 249
+
+Pub. L. 103–355, title VI, § 6004
+
+Oct. 13, 1994
+
+108 Stat. 3364
+
+Pub. L. 104–106, div. D, title XLIII, § 4321(i)(12)
+
+Feb. 10, 1996
+
+110 Stat. 676
+
+6306(b)
+
+Jan. 25, 1934, ch. 5
+
+48 Stat. 337
+
+June 27, 1934, ch. 847
+
+48 Stat. 1264
+
+Aug. 26, 1937, ch. 821
+
+50 Stat. 838
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3805](https://www.govinfo.gov/link/statute/124/3805).)*

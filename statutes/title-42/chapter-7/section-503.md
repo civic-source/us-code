@@ -3,9 +3,10 @@ title: "Section 503 - State laws"
 usc_title: 42
 usc_section: "503"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 503"
-generated_at: "2026-03-30T02:56:10.869Z"
+generated_at: "2026-11-23T21:26:31.061Z"
+status: "active"
 ---
 
 # § 503. State laws
@@ -134,3 +135,25 @@ generated_at: "2026-03-30T02:56:10.869Z"
     - **(A)** the term “unemployment compensation” has the meaning given such term in subsection (d)(2)(A); and
     - **(B)** the term “controlled substance” has the meaning given such term in section 802 of title 21 .
 - **(m)** In the case of a covered unemployment compensation debt (as defined under section 6402(f)(4) of the Internal Revenue Code of 1986) that remains uncollected as of the date that is 1 year after the debt was finally determined to be due and collected, the State to which such debt is owed shall take action to recover such debt under section 6402(f) of the Internal Revenue Code of 1986.
+
+In general
+
+Authority
+
+Effective Date
+
+Definitions
+
+In general
+
+Definition
+
+In General
+
+Definitions
+
+Effective Date
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title III, § 303, [49 Stat. 626](https://www.govinfo.gov/link/statute/49/626); June 25, 1938, ch. 680, § 13(g), [52 Stat. 1112](https://www.govinfo.gov/link/statute/52/1112); June 20, 1939, ch. 227, § 18, [53 Stat. 848](https://www.govinfo.gov/link/statute/53/848); Aug. 10, 1939, ch. 666, title III, § 302, [53 Stat. 1378](https://www.govinfo.gov/link/statute/53/1378); 1946 Reorg. Plan No. 2, § 4, eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095](https://www.govinfo.gov/link/statute/60/1095); Aug. 10, 1946, ch. 951, title IV, § 416(c), [60 Stat. 991](https://www.govinfo.gov/link/statute/60/991); 1949 Reorg. Plan No. 2, § 1, eff. Aug. 20, 1949, 14 F.R. 5225, [63 Stat. 1065](https://www.govinfo.gov/link/statute/63/1065); Aug. 28, 1950, ch. 809, title IV, § 405(b), [64 Stat. 560](https://www.govinfo.gov/link/statute/64/560); Aug. 5, 1954, ch. 657, § 5(a)(1), [68 Stat. 673](https://www.govinfo.gov/link/statute/68/673); [Pub. L. 96–249, title I, § 127(b)(1)](https://www.govinfo.gov/link/plaw/96/public/249), May 26, 1980, [94 Stat. 366](https://www.govinfo.gov/link/statute/94/366); [Pub. L. 96–265, title IV, § 408(b)(1)](https://www.govinfo.gov/link/plaw/96/public/265), June 9, 1980, [94 Stat. 468](https://www.govinfo.gov/link/statute/94/468); [Pub. L. 96–473, § 6(e)(1)](https://www.govinfo.gov/link/plaw/96/public/473), Oct. 19, 1980, [94 Stat. 2265](https://www.govinfo.gov/link/statute/94/2265); [Pub. L. 97–35, title XXIII, § 2335(b)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 863](https://www.govinfo.gov/link/statute/95/863); [Pub. L. 97–248, title I](https://www.govinfo.gov/link/plaw/97/public/248), §§ 171(b)(3), 175(a)(2), Sept. 3, 1982, [96 Stat. 401](https://www.govinfo.gov/link/statute/96/401), 403; [Pub. L. 98–21, title V](https://www.govinfo.gov/link/plaw/98/public/21), §§ 515(a), 523(b), Apr. 20, 1983, [97 Stat. 147](https://www.govinfo.gov/link/statute/97/147), 148; [Pub. L. 98–369, div. B, title VI](https://www.govinfo.gov/link/plaw/98/public/369), §§ 2651(d), 2663(b)(2)–(5), July 18, 1984, [98 Stat. 1149](https://www.govinfo.gov/link/statute/98/1149), 1165; [Pub. L. 99–198, title XV, § 1535(b)(3)](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1584](https://www.govinfo.gov/link/statute/99/1584); [Pub. L. 99–272, title XII, § 12401(a)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 297](https://www.govinfo.gov/link/statute/100/297); [Pub. L. 100–485, title I, § 124(b)(1)](https://www.govinfo.gov/link/plaw/100/public/485), Oct. 13, 1988, [102 Stat. 2353](https://www.govinfo.gov/link/statute/102/2353); [Pub. L. 100–628, title IX, § 904(c)(1)(A)](https://www.govinfo.gov/link/plaw/100/public/628), Nov. 7, 1988, [102 Stat. 3260](https://www.govinfo.gov/link/statute/102/3260); [Pub. L. 102–318, title IV, § 401(a)(3)](https://www.govinfo.gov/link/plaw/102/public/318), July 3, 1992, [106 Stat. 298](https://www.govinfo.gov/link/statute/106/298); [Pub. L. 103–152, § 4(a)(1)](https://www.govinfo.gov/link/plaw/103/public/152), (b), Nov. 24, 1993, [107 Stat. 1517](https://www.govinfo.gov/link/statute/107/1517); [Pub. L. 103–182, title V, § 507(b)(3)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2154](https://www.govinfo.gov/link/statute/107/2154); [Pub. L. 103–465, title VII, § 702(c)(3)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4997](https://www.govinfo.gov/link/statute/108/4997); [Pub. L. 104–193, title III](https://www.govinfo.gov/link/plaw/104/public/193), §§ 313(d), 316(g)(3), Aug. 22, 1996, [110 Stat. 2212](https://www.govinfo.gov/link/statute/110/2212), 2219; [Pub. L. 105–33, title V, § 5201](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 597](https://www.govinfo.gov/link/statute/111/597); [Pub. L. 105–65, title V, § 542(a)(1)](https://www.govinfo.gov/link/plaw/105/public/65), Oct. 27, 1997, [111 Stat. 1412](https://www.govinfo.gov/link/statute/111/1412); [Pub. L. 107–147, title II, § 209(d)(2)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 33](https://www.govinfo.gov/link/statute/116/33); [Pub. L. 108–295, § 2(a)](https://www.govinfo.gov/link/plaw/108/public/295), Aug. 9, 2004, [118 Stat. 1090](https://www.govinfo.gov/link/statute/118/1090); [Pub. L. 110–234, title IV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 4002(b)(1)(A), (B), (D), (2)(V), 4115(c)(1)(A)(i), (B)(iii), (2)(F), May 22, 2008, [122 Stat. 1095–1097](https://www.govinfo.gov/link/statute/122/1095), 1109, 1110; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, §§ 4002(b)(1)(A), (B), (D), (2)(V), 4115(c)(1)(A)(i), (B)(iii), (2)(F), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1858, 1870, 1871; [Pub. L. 112–40, title II, § 251(a)](https://www.govinfo.gov/link/plaw/112/public/40), Oct. 21, 2011, [125 Stat. 420](https://www.govinfo.gov/link/statute/125/420); [Pub. L. 112–96, title II](https://www.govinfo.gov/link/plaw/112/public/96), §§ 2101(a), 2103(a), (b), 2105, 2161(b)(2), Feb. 22, 2012, [126 Stat. 159](https://www.govinfo.gov/link/statute/126/159), 161, 162, 172; [Pub. L. 113–67, div. A, title II, § 201(a)](https://www.govinfo.gov/link/plaw/113/public/67), Dec. 26, 2013, [127 Stat. 1176](https://www.govinfo.gov/link/statute/127/1176).)*

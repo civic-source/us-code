@@ -3,9 +3,10 @@ title: "Section 3236 - Inspector General external review panel"
 usc_title: 50
 usc_section: "3236"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3236"
-generated_at: "2026-03-30T02:56:26.239Z"
+generated_at: "2026-11-23T21:26:39.027Z"
+status: "active"
 ---
 
 # § 3236. Inspector General external review panel
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:56:26.239Z"
   - **(2)** Subject to such limitations as the Inspector General of the Intelligence Community considers necessary to protect the privacy of an individual who has made a claim described in subsection (b), each report submitted under paragraph (1) shall include, for the period covered by the report, the following:
     - **(A)** The determinations and recommendations made by the external review panels convened under this section.
     - **(B)** The responses of the heads of agencies that received recommendations from the external review panels.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title XI, § 1106, as added [Pub. L. 116–92, div. E, title LIII, § 5332(a)(1)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2137](https://www.govinfo.gov/link/statute/133/2137).)*

@@ -3,9 +3,10 @@ title: "Section 1503 - Computation and payment of tax"
 usc_title: 26
 usc_section: "1503"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1503"
-generated_at: "2026-03-30T02:55:27.777Z"
+generated_at: "2026-11-23T21:26:06.516Z"
+status: "active"
 ---
 
 # § 1503. Computation and payment of tax
@@ -59,3 +60,37 @@ generated_at: "2026-03-30T02:55:27.777Z"
     - **(A)** to prevent the avoidance of this subsection through the transfer of built-in losses to the subsidiary,
     - **(B)** to provide rules for cases in which the subsidiary owns (directly or indirectly) stock in another member of the affiliated group, and
     - **(C)** to provide for the application of this subsection where dividends are not paid currently, where the redemption and liquidation rights of the applicable preferred stock exceed the issue price for such stock, or where the stock is otherwise structured to avoid the purposes of this subsection.
+
+In general
+
+Binding contract exception
+
+Special rule when subsidiary leaves group
+
+Retired stock.—
+
+Auction rate preferred
+
+Special rule for certain auction rate preferred
+
+In general
+
+Binding contract
+
+In general
+
+Exception
+
+Treatment of certain excess loss accounts.—
+
+In general
+
+Special rules
+
+Unrecaptured amount
+
+Coordination with binding contract exception
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 367; [Pub. L. 86–780, § 2](https://www.govinfo.gov/link/plaw/86/public/780), Sept. 14, 1960, [74 Stat. 1011](https://www.govinfo.gov/link/statute/74/1011); [Pub. L. 88–272, title II, § 234(a)](https://www.govinfo.gov/link/plaw/88/public/272), (b)(1), (2), Feb. 26, 1964, [78 Stat. 113](https://www.govinfo.gov/link/statute/78/113); [Pub. L. 94–455, title X](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1031(b)(4), 1052(c)(5), title XV, § 1507(b)(3), title XIX, § 1901(b)(1)(Y), Oct. 4, 1976, [90 Stat. 1623](https://www.govinfo.gov/link/statute/90/1623), 1648, 1740, 1792; [Pub. L. 98–369, div. A, title II, § 211(b)(19)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 756](https://www.govinfo.gov/link/statute/98/756); [Pub. L. 99–514, title XII, § 1249(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2584](https://www.govinfo.gov/link/statute/100/2584); [Pub. L. 100–203, title X, § 10222(a)(1)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–410](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title I, § 1012(u)](https://www.govinfo.gov/link/plaw/100/public/647), title II, § 2004(j)(1)(A), (2), (3)(A), Nov. 10, 1988, [102 Stat. 3528](https://www.govinfo.gov/link/statute/102/3528), 3604, 3605; [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7201(a), 7207(a), 7821(c), Dec. 19, 1989, [103 Stat. 2328](https://www.govinfo.gov/link/statute/103/2328), 2337, 2424; [Pub. L. 101–508, title XI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 11802(f)(4), 11813(b)(25), Nov. 5, 1990, [104 Stat. 1388–530](https://www.govinfo.gov/link/statute/104/1388), 1388–555.)*

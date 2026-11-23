@@ -3,9 +3,10 @@ title: "Section 8006 - Application procedure for assistance"
 usc_title: 42
 usc_section: "8006"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8006"
-generated_at: "2026-03-30T02:56:11.332Z"
+generated_at: "2026-11-23T21:26:33.176Z"
+status: "active"
 ---
 
 # § 8006. Application procedure for assistance
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.332Z"
   - **(5)** a statement affirming (A) that the nonprofit corporation or public housing agency has followed the consultation procedures required in subsections (c), (d), and (e) of section 8004 of this title , and (B) that such application complies with subsection (b) of such section.
 - **(b)** The Secretary shall establish appropriate deadlines for each fiscal year for the submission of applications for funding under this chapter and shall notify any public housing agency and nonprofit corporation applying for assistance under this chapter of acceptance or rejection of its application within ninety days of such submission.
 - **(c)** Within twelve months prior to the submission of an application for renewed funding under this chapter, each nonprofit corporation and public housing agency shall review the performance, appropriateness, and fee schedules of their congregate services program with eligible project residents and with the professional assessment committee. The results of such review shall be included in any application for renewal and shall be considered in the development of the application for renewal by the nonprofit corporation or public housing agency and in its evaluation by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 95–557, title IV, § 407](https://www.govinfo.gov/link/plaw/95/public/557), Oct. 31, 1978, [92 Stat. 2108](https://www.govinfo.gov/link/statute/92/2108).)*

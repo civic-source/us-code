@@ -3,9 +3,10 @@ title: "Section 3561 - Definitions"
 usc_title: 44
 usc_section: "3561"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 3561"
-generated_at: "2026-03-30T02:55:56.298Z"
+generated_at: "2026-11-23T21:26:18.438Z"
+status: "active"
 ---
 
 # § 3561. Definitions
@@ -36,3 +37,41 @@ In this subchapter:
   - **(12)** The term “statistical purpose”—
     - **(A)** means the description, estimation, or analysis of the characteristics of groups, without identifying the individuals or organizations that comprise such groups; and
     - **(B)** includes the development, implementation, or maintenance of methods, technical or administrative procedures, or information resources that support the purposes described in subparagraph (A).
+
+Agency
+
+Agent
+
+Business data
+
+Data asset
+
+Director
+
+Evidence
+
+Identifiable form
+
+Nonstatistical purpose
+
+Respondent
+
+Statistical activities
+
+Statistical agency or unit
+
+Statistical purpose
+
+Cutoff date
+
+Original date of enactment unchanged
+
+References to provisions replaced
+
+Regulations, orders, and other administrative actions
+
+Actions taken and offenses committed
+
+## Source Credit
+
+*(Added [Pub. L. 115–435, title III, § 302(a)](https://www.govinfo.gov/link/plaw/115/public/435), Jan. 14, 2019, [132 Stat. 5544](https://www.govinfo.gov/link/statute/132/5544).)*

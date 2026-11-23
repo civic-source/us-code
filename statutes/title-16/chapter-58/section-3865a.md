@@ -3,9 +3,10 @@ title: "Section 3865a - Definitions"
 usc_title: 16
 usc_section: "3865a"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3865a"
-generated_at: "2026-03-30T02:54:23.035Z"
+generated_at: "2026-11-23T21:25:52.002Z"
+status: "active"
 ---
 
 # § 3865a. Definitions
@@ -69,3 +70,11 @@ In this subchapter:
     - **(B)** stipulates—
       - **(i)** the rights, title, and interests in land conveyed to the Secretary; and
       - **(ii)** the rights, title, and interests in land that are reserved to the landowner.
+
+(aa) hold an agricultural land easement on that land, but transfer ownership of the land to a farmer or rancher that is not an eligible entity prior to or on acquisition of the agricultural land easement; or
+
+(bb) hold an agricultural land easement on that land, but transfer ownership of the land to a farmer or rancher that is not an eligible entity in a timely manner and, subject to subparagraph (B), not later than 3 years after the date of acquisition of the agricultural land easement; and
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1265A](https://www.govinfo.gov/link/plaw/99/public/198), as added [Pub. L. 113–79, title II, § 2301(a)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 732](https://www.govinfo.gov/link/statute/128/732); amended [Pub. L. 115–334, title II, § 2602](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4585](https://www.govinfo.gov/link/statute/132/4585).)*

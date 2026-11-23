@@ -3,9 +3,10 @@ title: "Section 7297 - Survivor annuities"
 usc_title: 38
 usc_section: "7297"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7297"
-generated_at: "2026-03-30T02:55:53.526Z"
+generated_at: "2026-11-23T21:26:16.843Z"
+status: "active"
 ---
 
 # § 7297. Survivor annuities
@@ -84,3 +85,7 @@ generated_at: "2026-03-30T02:55:53.526Z"
     - **(C)** A retired judge who would be a recall-eligible retired judge pursuant to subsection (a) of section 7257 but for—
       - **(i)** meeting the aggregate recall service requirements under subsection (b)(3) of such section; or
       - **(ii)** being permanently disabled as described by subsection (b)(4) of such section.
+
+## Source Credit
+
+*(Added [Pub. L. 101–94, title I, § 101(a)](https://www.govinfo.gov/link/plaw/101/public/94), Aug. 16, 1989, [103 Stat. 620](https://www.govinfo.gov/link/statute/103/620), § 4097; renumbered § 7297 and amended [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), (d)(1), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238), 239; [Pub. L. 102–54, § 14(e)(6)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 287](https://www.govinfo.gov/link/statute/105/287); [Pub. L. 102–82, § 5(c)(2)](https://www.govinfo.gov/link/plaw/102/public/82), Aug. 6, 1991, [105 Stat. 376](https://www.govinfo.gov/link/statute/105/376); [Pub. L. 102–198, § 7(c)(4)(E)](https://www.govinfo.gov/link/plaw/102/public/198), Dec. 9, 1991, [105 Stat. 1625](https://www.govinfo.gov/link/statute/105/1625); [Pub. L. 105–368, title V](https://www.govinfo.gov/link/plaw/105/public/368), §§ 503, 512(a)(1), Nov. 11, 1998, [112 Stat. 3340](https://www.govinfo.gov/link/statute/112/3340), 3341; [Pub. L. 106–117, title X](https://www.govinfo.gov/link/plaw/106/public/117), §§ 1023, 1035(2), Nov. 30, 1999, [113 Stat. 1592](https://www.govinfo.gov/link/statute/113/1592), 1595; [Pub. L. 114–315, title II, § 203](https://www.govinfo.gov/link/plaw/114/public/315), Dec. 16, 2016, [130 Stat. 1549](https://www.govinfo.gov/link/statute/130/1549).)*

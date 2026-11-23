@@ -3,9 +3,10 @@ title: "Section 12181 - Definitions"
 usc_title: 42
 usc_section: "12181"
 chapter: 126
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12181"
-generated_at: "2026-03-30T02:56:11.410Z"
+generated_at: "2026-11-23T21:26:33.457Z"
+status: "active"
 ---
 
 # § 12181. Definitions
@@ -44,3 +45,13 @@ As used in this subchapter:
     - **(D)** the type of operation or operations of the covered entity, including the composition, structure, and functions of the workforce of such entity; the geographic separateness, administrative or fiscal relationship of the facility or facilities in question to the covered entity.
   - **(10)** The term “specified public transportation” means transportation by bus, rail, or any other conveyance (other than by aircraft) that provides the general public with general or special service (including charter service) on a regular and continuing basis.
   - **(11)** The term “vehicle” does not include a rail passenger car, railroad locomotive, railroad freight car, railroad caboose, or a railroad car described in section 12162 of this title or covered under this subchapter.
+
+General Rule
+
+Civil Actions
+
+Exception
+
+## Source Credit
+
+*([Pub. L. 101–336, title III, § 301](https://www.govinfo.gov/link/plaw/101/public/336), July 26, 1990, [104 Stat. 353](https://www.govinfo.gov/link/statute/104/353).)*

@@ -3,9 +3,10 @@ title: "Section 47135 - Innovative financing techniques"
 usc_title: 49
 usc_section: "47135"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 47135"
-generated_at: "2026-03-30T02:56:19.405Z"
+generated_at: "2026-11-23T21:26:40.986Z"
+status: "active"
 ---
 
 # § 47135. Innovative financing techniques
@@ -25,3 +26,25 @@ generated_at: "2026-03-30T02:56:19.405Z"
     - **(C)** flexible non-Federal matching requirements;
     - **(D)** use of funds apportioned under section 47114 for the payment of principal and interest of terminal development for costs incurred before the date of the enactment of this section; and
     - **(E)** any other techniques that the Secretary determines are consistent with the purposes of this section.
+
+Authority.—
+
+In general
+
+Approval
+
+Purposes
+
+Limitations.—
+
+No guarantees
+
+Types of techniques
+
+In General
+
+Purpose
+
+## Source Credit
+
+*(Added [Pub. L. 106–181, title I, § 132(a)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 80](https://www.govinfo.gov/link/statute/114/80); amended [Pub. L. 108–176, title I, § 156](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2508](https://www.govinfo.gov/link/statute/117/2508); [Pub. L. 118–63, title VII, § 721](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1264](https://www.govinfo.gov/link/statute/138/1264).)*

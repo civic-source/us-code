@@ -3,9 +3,10 @@ title: "Section 1831r - Payments on foreign deposits prohibited"
 usc_title: 12
 usc_section: "1831r"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1831r"
-generated_at: "2026-03-30T02:53:53.461Z"
+generated_at: "2026-11-23T21:25:37.029Z"
+status: "active"
 ---
 
 # § 1831r. Payments on foreign deposits prohibited
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:53:53.461Z"
 - **(a)** Notwithstanding any other provision of law, the Corporation, the Board of Governors of the Federal Reserve System, the Resolution Trust Corporation, any other agency, department, and instrumentality of the United States, and any corporation owned or controlled by the United States may not, directly or indirectly, make any payment or provide any assistance, guarantee, or transfer under this chapter or any other provision of law in connection with any insured depository institution which would have the direct or indirect effect of satisfying, in whole or in part, any claim against the institution for obligations of the institution which would constitute deposits as defined in section 1813( l ) of this title but for subparagraphs (A) and (B) of section 1813( l )(5) of this title.
 - **(b)** Subsection (a) shall not apply to any payment, assistance, guarantee, or transfer made or provided by the Corporation if the Board of Directors determines in writing that such action is not inconsistent with any requirement of section 1823(c) of this title .
 - **(c)** No provision of this section shall be construed as prohibiting any Federal Reserve bank from making advances or otherwise extending credit pursuant to the Federal Reserve Act [ 12 U.S.C. 221 et seq.] to any insured depository institution to the extent that such advance or extension of credit is consistent with the conditions and limitations imposed under section 10B of such Act [ 12 U.S.C. 347b ].
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [41], as added [Pub. L. 102–242, title III, § 312](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2367](https://www.govinfo.gov/link/statute/105/2367).)*

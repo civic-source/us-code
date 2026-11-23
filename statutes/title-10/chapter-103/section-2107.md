@@ -3,9 +3,10 @@ title: "Section 2107 - Financial assistance program for specially selected membe
 usc_title: 10
 usc_section: "2107"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2107"
-generated_at: "2026-03-30T02:53:38.141Z"
+generated_at: "2026-11-23T21:25:32.552Z"
+status: "active"
 ---
 
 # § 2107. Financial assistance program for specially selected members
@@ -62,3 +63,23 @@ generated_at: "2026-03-30T02:53:38.141Z"
 - **(k)**
   - **(1)** Provisions of this section referring to a regular commission, regular officer, or a commission in a regular component shall be treated as also referring to the commission of an officer, or an officer, who is a commissioned officer in the Space Force serving on active duty pursuant to section 20105(b) of this title .
   - **(2)** Provisions of this section referring to a reserve commission, reserve officer, or a commission in a reserve component shall be treated as also referring to the commission of an officer, or an officer, who is a commissioned officer in the Space Force not serving on active duty pursuant to section 20105(b) of this title .
+
+In General
+
+Number Designated
+
+Amount of Scholarship
+
+Minority-serving Institution Defined
+
+Review
+
+Purpose of Review
+
+Matters Reviewed
+
+Consultation Requirement
+
+## Source Credit
+
+*(Added [Pub. L. 88–647, title II, § 201(1)](https://www.govinfo.gov/link/plaw/88/public/647), Oct. 13, 1964, [78 Stat. 1066](https://www.govinfo.gov/link/statute/78/1066); amended [Pub. L. 92–166, § 1](https://www.govinfo.gov/link/plaw/92/public/166), Nov. 24, 1971, [85 Stat. 487](https://www.govinfo.gov/link/statute/85/487); [Pub. L. 96–357, § 1(a)](https://www.govinfo.gov/link/plaw/96/public/357), (b), Sept. 24, 1980, [94 Stat. 1178](https://www.govinfo.gov/link/statute/94/1178); [Pub. L. 96–513, title V, § 511(62)](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2925](https://www.govinfo.gov/link/statute/94/2925); [Pub. L. 97–60, title II, § 201](https://www.govinfo.gov/link/plaw/97/public/60), Oct. 14, 1981, [95 Stat. 1005](https://www.govinfo.gov/link/statute/95/1005); [Pub. L. 98–94, title X, § 1003(a)(3)](https://www.govinfo.gov/link/plaw/98/public/94), (c)(1), (2), Sept. 24, 1983, [97 Stat. 656](https://www.govinfo.gov/link/statute/97/656), 657; [Pub. L. 98–525, title V, § 542(a)](https://www.govinfo.gov/link/plaw/98/public/525), title XIV, § 1405(33), Oct. 19, 1984, [98 Stat. 2529](https://www.govinfo.gov/link/statute/98/2529), 2624; [Pub. L. 100–180, div. A, title V, § 510](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1087](https://www.govinfo.gov/link/statute/101/1087); [Pub. L. 102–484, div. A, title V](https://www.govinfo.gov/link/plaw/102/public/484), §§ 517(a)(2), 532(a), Oct. 23, 1992, [106 Stat. 2407](https://www.govinfo.gov/link/statute/106/2407), 2411; [Pub. L. 104–106, div. A, title V, § 542](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 316](https://www.govinfo.gov/link/statute/110/316); [Pub. L. 104–201, div. A, title V](https://www.govinfo.gov/link/plaw/104/public/201), §§ 507(a)(2), 553(a), 555(a), Sept. 23, 1996, [110 Stat. 2512](https://www.govinfo.gov/link/statute/110/2512), 2526, 2527; [Pub. L. 106–65, div. A, title V, § 545](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 608](https://www.govinfo.gov/link/statute/113/608); [Pub. L. 107–107, div. A, title V, § 534(a)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1106](https://www.govinfo.gov/link/statute/115/1106); [Pub. L. 107–314, div. A, title V, § 532(d)](https://www.govinfo.gov/link/plaw/107/public/314), (e), Dec. 2, 2002, [116 Stat. 2547](https://www.govinfo.gov/link/statute/116/2547); [Pub. L. 108–136, div. A, title V, § 521(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1462](https://www.govinfo.gov/link/statute/117/1462); [Pub. L. 108–375, div. A, title V, § 524(a)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1888](https://www.govinfo.gov/link/statute/118/1888); [Pub. L. 109–163, div. A, title V](https://www.govinfo.gov/link/plaw/109/public/163), §§ 531(a), 533(a), 534(a), Jan. 6, 2006, [119 Stat. 3247](https://www.govinfo.gov/link/statute/119/3247), 3248; [Pub. L. 112–239, div. A, title V, § 551](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1741](https://www.govinfo.gov/link/statute/126/1741); [Pub. L. 116–283, div. A, title IX, § 924(b)(3)(EE)](https://www.govinfo.gov/link/plaw/116/public/283), (30), Jan. 1, 2021, [134 Stat. 3822](https://www.govinfo.gov/link/statute/134/3822), 3825; [Pub. L. 117–81, div. A, title X, § 1081(a)(26)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1921](https://www.govinfo.gov/link/statute/135/1921); [Pub. L. 118–31, div. A, title XVII, § 1722](https://www.govinfo.gov/link/plaw/118/public/31) (l)(2), Dec. 22, 2023, [137 Stat. 674](https://www.govinfo.gov/link/statute/137/674); [Pub. L. 118–159, div. A, title V, § 521(h)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1881](https://www.govinfo.gov/link/statute/138/1881); [Pub. L. 119–60, div. A, title XVII, § 1701(a)(16)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1208](https://www.govinfo.gov/link/statute/139/1208).)*

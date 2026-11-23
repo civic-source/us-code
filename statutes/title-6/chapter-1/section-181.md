@@ -3,12 +3,17 @@ title: "Section 181 - Under Secretary for Science and Technology"
 usc_title: 6
 usc_section: "181"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 181"
-generated_at: "2026-03-30T02:53:09.447Z"
+generated_at: "2026-11-23T21:25:25.758Z"
+status: "active"
 ---
 
 # § 181. Under Secretary for Science and Technology
 
 There shall be in the Department a Directorate of Science and Technology headed by an Under Secretary for Science and Technology.
 
+
+## Source Credit
+
+*([Pub. L. 107–296, title III, § 301](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2163](https://www.govinfo.gov/link/statute/116/2163).)*

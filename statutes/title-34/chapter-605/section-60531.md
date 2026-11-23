@@ -3,9 +3,10 @@ title: "Section 60531 - Community-based mentoring and transitional service grant
 usc_title: 34
 usc_section: "60531"
 chapter: 605
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 60531"
-generated_at: "2026-03-30T02:55:33.317Z"
+generated_at: "2026-11-23T21:26:09.862Z"
+status: "active"
 ---
 
 # § 60531. Community-based mentoring and transitional service grants to nonprofit organizations
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:33.317Z"
 - **(d)** The Attorney General shall require each applicant under this section to identify specific performance outcomes related to the long-term goal of stabilizing communities by reducing recidivism (using a measure that is consistent with the research undertaken by the Bureau of Justice Statistics under section 60551(b)(6) of this title ), and reintegrating offenders into the community.
 - **(e)** An entity that receives a grant under subsection (a) during a fiscal year shall, not later than the last day of the following fiscal year, submit to the Attorney General a report that describes and assesses the uses of that grant during that fiscal year and that identifies the progress of the grantee toward achieving its strategic performance outcomes.
 - **(f)** There are authorized to be appropriated to the Attorney General to carry out this section $15,000,000 for each of fiscal years 2019 through 2023.
+
+## Source Credit
+
+*([Pub. L. 110–199, title II, § 211](https://www.govinfo.gov/link/plaw/110/public/199), Apr. 9, 2008, [122 Stat. 679](https://www.govinfo.gov/link/statute/122/679); [Pub. L. 114–255, div. B, title XIV, § 14009(b)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1297](https://www.govinfo.gov/link/statute/130/1297); [Pub. L. 115–391, title V, § 502(f)(1)](https://www.govinfo.gov/link/plaw/115/public/391), Dec. 21, 2018, [132 Stat. 5230](https://www.govinfo.gov/link/statute/132/5230).)*

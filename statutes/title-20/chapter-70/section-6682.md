@@ -3,9 +3,10 @@ title: "Section 6682 - Definitions"
 usc_title: 20
 usc_section: "6682"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6682"
-generated_at: "2026-03-30T02:54:48.202Z"
+generated_at: "2026-11-23T21:25:47.533Z"
+status: "active"
 ---
 
 # § 6682. Definitions
@@ -23,3 +24,7 @@ In this subpart:
     - **(H)** Technical services.
     - **(I)** Skilled trades.
   - **(2)** The terms used in this subpart have the meanings given the terms in section 7801 of this title .
+
+## Source Credit
+
+*([Pub. L. 116–13, § 3](https://www.govinfo.gov/link/plaw/116/public/13), Apr. 12, 2019, [133 Stat. 847](https://www.govinfo.gov/link/statute/133/847).)*

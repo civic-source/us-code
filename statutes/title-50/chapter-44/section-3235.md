@@ -3,9 +3,10 @@ title: "Section 3235 - Semiannual reports on investigations of unauthorized disc
 usc_title: 50
 usc_section: "3235"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3235"
-generated_at: "2026-03-30T02:56:26.239Z"
+generated_at: "2026-11-23T21:26:39.027Z"
+status: "active"
 ---
 
 # § 3235. Semiannual reports on investigations of unauthorized disclosures of classified information
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:26.239Z"
     - **(E)** A statement indicating whether any criminal charges have been filed related to the referral.
     - **(F)** A statement indicating whether the Department of Justice has been able to attribute the unauthorized disclosure to a particular entity or individual.
 - **(d)** Each report submitted under this section shall be submitted in unclassified form, but may have a classified annex.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title XI, § 1105, as added [Pub. L. 116–92, div. E, title LXVII, § 6718(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2228](https://www.govinfo.gov/link/statute/133/2228).)*

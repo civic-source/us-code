@@ -3,9 +3,10 @@ title: "Section 50918 - Consultation"
 usc_title: 51
 usc_section: "50918"
 chapter: 509
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 50918"
-generated_at: "2026-03-30T02:56:28.711Z"
+generated_at: "2026-11-23T21:26:42.554Z"
+status: "active"
 ---
 
 # § 50918. Consultation
@@ -16,3 +17,67 @@ generated_at: "2026-03-30T02:56:28.711Z"
   - **(1)** to provide consistent application of licensing requirements under this chapter;
   - **(2)** to ensure fair treatment for all license applicants; and
   - **(3)** when appropriate.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 70116(a) | 49 App.:2619(a). | Oct. 30, 1984 , Pub. L. 98–575, § 20 , 98 Stat. 3062 . |
+| 70116(b) | 49 App.:2619(b). |  |
+| 70116(c) | 49 App.:2604(a)(2). | Oct. 30, 1984 , Pub. L. 98–575, § 5(a)(2) , 98 Stat. 3057 ; Nov. 16, 1990 , Pub. L. 101–611, § 117(e)(2) , 104 Stat. 3203 . |
+|  | 49 App.:2619(c). |  |
+
+
+Matters Affecting National Security
+
+Matters Affecting Foreign Policy
+
+Other Matters
+
+Historical and Revision Notes
+
+70116(a)
+
+Oct. 30, 1984
+
+Pub. L. 98–575, § 20
+
+98 Stat. 3062
+
+70116(b)
+
+70116(c)
+
+Oct. 30, 1984
+
+Pub. L. 98–575, § 5(a)(2)
+
+98 Stat. 3057
+
+Nov. 16, 1990
+
+Pub. L. 101–611, § 117(e)(2)
+
+104 Stat. 3203
+
+Sense of Congress
+
+Reaffirmation of Policy
+
+Requirements.—
+
+In general
+
+Streamlining.—
+
+In general
+
+Waiver
+
+Reports
+
+Definitions
+
+Rule of Construction
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1341](https://www.govinfo.gov/link/statute/108/1341), § 70116 of title 49; renumbered § 70116 then § 50918 of title 51, [Pub. L. 111–314, § 4(d)(2)](https://www.govinfo.gov/link/plaw/111/public/314), (3)(R), Dec. 18, 2010, [124 Stat. 3440](https://www.govinfo.gov/link/statute/124/3440), 3441.)*

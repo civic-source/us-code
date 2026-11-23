@@ -3,12 +3,17 @@ title: "Section 7572 - Enforcement of standards"
 usc_title: 42
 usc_section: "7572"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7572"
-generated_at: "2026-03-30T02:56:11.315Z"
+generated_at: "2026-11-23T21:26:33.126Z"
+status: "active"
 ---
 
 # § 7572. Enforcement of standards
 
 - **(a)** The Secretary of Transportation, after consultation with the Administrator, shall prescribe regulations to insure compliance with all standards prescribed under section 7571 of this title by the Administrator. The regulations of the Secretary of Transportation shall include provisions making such standards applicable in the issuance, amendment, modification, suspension, or revocation of any certificate authorized by part A of subtitle VII of title 49 or the Department of Transportation Act. Such Secretary shall insure that all necessary inspections are accomplished, and, 1 1 So in original. The comma probably should not appear. may execute any power or duty vested in him by any other provision of law in the execution of all powers and duties vested in him under this section.
 - **(b)** In any action to amend, modify, suspend, or revoke a certificate in which violation of an emission standard prescribed under section 7571 of this title or of a regulation prescribed under subsection (a) is at issue, the certificate holder shall have the same notice and appeal rights as are prescribed for such holders in part A of subtitle VII of title 49 or the Department of Transportation Act, except that in any appeal to the National Transportation Safety Board, the Board may amend, modify, or revoke the order of the Secretary of Transportation only if it finds no violation of such standard or regulation and that such amendment, modification, or revocation is consistent with safety in air transportation.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title II, § 232, as added [Pub. L. 91–604, § 11(a)(1)](https://www.govinfo.gov/link/plaw/91/public/604), Dec. 31, 1970, [84 Stat. 1704](https://www.govinfo.gov/link/statute/84/1704).)*

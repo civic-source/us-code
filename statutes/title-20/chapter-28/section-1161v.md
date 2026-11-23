@@ -3,9 +3,10 @@ title: "Section 1161v - Modeling and simulation"
 usc_title: 20
 usc_section: "1161v"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1161v"
-generated_at: "2026-03-30T02:54:48.155Z"
+generated_at: "2026-11-23T21:25:47.286Z"
+status: "active"
 ---
 
 # § 1161v. Modeling and simulation
@@ -70,3 +71,7 @@ generated_at: "2026-03-30T02:54:48.155Z"
   - **(2)** of the amount remaining after the allocation for paragraph (1)—
     - **(A)** 50 percent is authorized to carry out the grant program under subsection (c); and
     - **(B)** 50 percent is authorized to carry out the grant program under subsection (d).
+
+## Source Credit
+
+*([Pub. L. 89–329, title VIII, § 891](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title VIII, § 801](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3432](https://www.govinfo.gov/link/statute/122/3432).)*

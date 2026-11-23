@@ -3,9 +3,10 @@ title: "Section 1374 - Permits"
 usc_title: 16
 usc_section: "1374"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1374"
-generated_at: "2026-03-30T02:54:22.958Z"
+generated_at: "2026-11-23T21:25:51.862Z"
+status: "active"
 ---
 
 # § 1374. Permits
@@ -115,3 +116,7 @@ generated_at: "2026-03-30T02:54:22.958Z"
 - **(h)**
   - **(1)** Consistent with the regulations prescribed pursuant to section 1373 of this title and to the requirements of section 1371 of this title , the Secretary may issue an annual permit to a United States purse seine fishing vessel for the taking of such marine mammals, and shall issue regulations to cover the use of any such annual permits.
   - **(2)** Such annual permits for the incidental taking of marine mammals in the course of commercial purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean shall be governed by section 1416 of this title , subject to the regulations issued pursuant to section 1413 of this title .
+
+## Source Credit
+
+*([Pub. L. 92–522, title I, § 104](https://www.govinfo.gov/link/plaw/92/public/522), Oct. 21, 1972, [86 Stat. 1034](https://www.govinfo.gov/link/statute/86/1034); [Pub. L. 98–364, title I, § 102](https://www.govinfo.gov/link/plaw/98/public/364), July 17, 1984, [98 Stat. 440](https://www.govinfo.gov/link/statute/98/440); [Pub. L. 100–711](https://www.govinfo.gov/link/plaw/100/public/711), §§ 4(d), 5(d), Nov. 23, 1988, [102 Stat. 4767](https://www.govinfo.gov/link/statute/102/4767), 4769; [Pub. L. 103–238, § 5(b)](https://www.govinfo.gov/link/plaw/103/public/238), Apr. 30, 1994, [108 Stat. 537](https://www.govinfo.gov/link/statute/108/537); [Pub. L. 105–18, title V, § 5004](https://www.govinfo.gov/link/plaw/105/public/18), June 12, 1997, [111 Stat. 187](https://www.govinfo.gov/link/statute/111/187); [Pub. L. 105–42, § 4(d)](https://www.govinfo.gov/link/plaw/105/public/42), Aug. 15, 1997, [111 Stat. 1125](https://www.govinfo.gov/link/statute/111/1125); [Pub. L. 105–277, div. A, § 101(e) [title I]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–231](https://www.govinfo.gov/link/statute/112/2681), 2681–238; [Pub. L. 106–31, title V, § 5004(1)](https://www.govinfo.gov/link/plaw/106/public/31), May 21, 1999, [113 Stat. 110](https://www.govinfo.gov/link/statute/113/110); [Pub. L. 108–108, title I, § 149](https://www.govinfo.gov/link/plaw/108/public/108), Nov. 10, 2003, [117 Stat. 1281](https://www.govinfo.gov/link/statute/117/1281).)*

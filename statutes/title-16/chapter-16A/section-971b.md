@@ -3,9 +3,10 @@ title: "Section 971b - Advisory committee"
 usc_title: 16
 usc_section: "971b"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 971b"
-generated_at: "2026-03-30T02:54:22.936Z"
+generated_at: "2026-11-23T21:25:51.798Z"
+status: "active"
 ---
 
 # § 971b. Advisory committee
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:22.936Z"
     - **(B)** The Secretary and the Secretary of State shall furnish the advisory committee with relevant information concerning fisheries and international fishery agreements.
   - **(5)** The advisory committee shall determine its organization, and prescribe its practices and procedures for carrying out its functions under this chapter, the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1801 et seq.), and the Convention. The advisory committee shall publish and make available to the public a statement of its organization, practices, and procedures.
   - **(6)** The advisory committee shall, to the maximum extent practicable, consist of an equitable balance among the various groups concerned with the fisheries covered by the Convention and shall not be subject to chapter 10 of title 5.
+
+## Source Credit
+
+*([Pub. L. 94–70, § 4](https://www.govinfo.gov/link/plaw/94/public/70), Aug. 5, 1975, [89 Stat. 386](https://www.govinfo.gov/link/statute/89/386); [Pub. L. 96–339, § 1(1)](https://www.govinfo.gov/link/plaw/96/public/339), Sept. 4, 1980, [94 Stat. 1069](https://www.govinfo.gov/link/statute/94/1069); [Pub. L. 96–561, title II, § 238(b)](https://www.govinfo.gov/link/plaw/96/public/561), Dec. 22, 1980, [94 Stat. 3300](https://www.govinfo.gov/link/statute/94/3300); [Pub. L. 101–627, title II, § 204](https://www.govinfo.gov/link/plaw/101/public/627), Nov. 28, 1990, [104 Stat. 4460](https://www.govinfo.gov/link/statute/104/4460); [Pub. L. 104–43, title III, § 304](https://www.govinfo.gov/link/plaw/104/public/43), Nov. 3, 1995, [109 Stat. 384](https://www.govinfo.gov/link/statute/109/384); [Pub. L. 105–384, title II, § 202(b)(1)(F)](https://www.govinfo.gov/link/plaw/105/public/384), Nov. 13, 1998, [112 Stat. 3453](https://www.govinfo.gov/link/statute/112/3453); [Pub. L. 117–286, § 4(a)(106)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4317](https://www.govinfo.gov/link/statute/136/4317).)*

@@ -3,9 +3,10 @@ title: "Section 3058 - Review of final decisions of the Authority"
 usc_title: 15
 usc_section: "3058"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3058"
-generated_at: "2026-03-30T02:54:08.187Z"
+generated_at: "2026-11-23T21:25:39.963Z"
+status: "active"
 ---
 
 # § 3058. Review of final decisions of the Authority
@@ -46,3 +47,19 @@ generated_at: "2026-03-30T02:54:08.187Z"
         - **(I)** A party may file a motion to consider additional evidence at any time before the issuance of a decision by the Commission, which shall show, with particularity, that—
         - **(II)** The Commission may—
 - **(d)** Review by an administrative law judge or the Commission under this section shall not operate as a stay of a final civil sanction of the Authority unless the administrative law judge or Commission orders such a stay.
+
+(aa) an erroneous application of the anti-doping and medication control or racetrack safety rules approved by the Commission; or
+
+(bb) an exercise of discretion or a decision of law or policy that warrants review by the Commission.
+
+(aa) such additional evidence is material; and
+
+(bb) there were reasonable grounds for failure to submit the evidence previously.
+
+(aa) accept or hear additional evidence; or
+
+(bb) remand the proceeding to the administrative law judge for the consideration of additional evidence.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. FF, title XII, § 1209](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3272](https://www.govinfo.gov/link/statute/134/3272).)*

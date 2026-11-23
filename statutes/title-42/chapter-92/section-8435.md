@@ -3,9 +3,10 @@ title: "Section 8435 - Citizens suits"
 usc_title: 42
 usc_section: "8435"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8435"
-generated_at: "2026-03-30T02:56:11.342Z"
+generated_at: "2026-11-23T21:26:33.202Z"
+status: "active"
 ---
 
 # § 8435. Citizens suits
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.342Z"
 - **(c)** In any action brought under subsection (a), the Secretary, if not a party, may intervene as a matter of right.
 - **(d)** The court, in issuing any final order in any action brought under subsection (a), may award costs of litigation (including reasonable attorney and expert witness fees) to any party, whenever the court determines such award is appropriate.
 - **(e)** Nothing in this section shall restrict any right which any aggrieved person (or class of aggrieved persons) may have under any statute or common law to seek enforcement of this chapter or any rule thereunder, or to seek any other relief (including relief against the Secretary or the agency head involved).
+
+## Source Credit
+
+*([Pub. L. 95–620, title VII, § 725](https://www.govinfo.gov/link/plaw/95/public/620), Nov. 9, 1978, [92 Stat. 3335](https://www.govinfo.gov/link/statute/92/3335).)*

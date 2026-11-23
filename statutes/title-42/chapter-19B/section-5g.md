@@ -3,9 +3,10 @@ title: "Section 5g - Hydroelectric power resources"
 usc_title: 42
 usc_section: "5g"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5g"
-generated_at: "2026-03-30T02:56:11.135Z"
+generated_at: "2026-11-23T21:26:32.260Z"
+status: "active"
 ---
 
 # § 1962d–5g. Hydroelectric power resources
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.135Z"
 - **(b)** Within three years after the date of the first appropriation of funds for the purpose of carrying out this section, the Secretary of the Army, acting through the Chief of Engineers, shall transmit the plan prepared pursuant to subsection (a) with supporting studies and documentation, together with the recommendations of the Secretary and the Chief of Engineers on such plan, to the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House of Representatives.
 - **(c)** There is authorized to be appropriated to carry out subsections (a) and (b) of this section not to exceed $7,000,000.
 - **(d)** The Secretary of the Army, acting through the Chief of Engineers, is authorized with respect to previously authorized projects to undertake feasibility studies of specific hydroelectric power installations that are identified in the course of the study authorized by this section, as having high potential for contribution toward meeting regional power needs. There is authorized to be appropriated to carry out this subsection not to exceed $5,000,000 per fiscal year for each of the fiscal years 1978 and 1979.
+
+## Source Credit
+
+*([Pub. L. 94–587, § 167](https://www.govinfo.gov/link/plaw/94/public/587), Oct. 22, 1976, [90 Stat. 2935](https://www.govinfo.gov/link/statute/90/2935); [Pub. L. 103–437, § 15(e)(1)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4592](https://www.govinfo.gov/link/statute/108/4592).)*

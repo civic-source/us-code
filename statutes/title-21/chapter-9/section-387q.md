@@ -3,9 +3,10 @@ title: "Section 387q - Tobacco Products Scientific Advisory Committee"
 usc_title: 21
 usc_section: "387q"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 387q"
-generated_at: "2026-03-30T02:54:54.282Z"
+generated_at: "2026-11-23T21:25:56.189Z"
+status: "active"
 ---
 
 # § 387q. Tobacco Products Scientific Advisory Committee
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:54.282Z"
   - **(2)** The Secretary shall furnish the Advisory Committee clerical and other assistance.
   - **(3)** Section 1013 of title 5 does not apply to the Advisory Committee.
 - **(e)** The Advisory Committee shall make and maintain a transcript of any proceeding of the panel or committee. Each such panel and committee shall delete from any transcript made under this subsection information which is exempt from disclosure under section 552(b) of title 5 .
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 917, as added [Pub. L. 111–31, div. A, title I, § 101(b)(3)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1824](https://www.govinfo.gov/link/statute/123/1824); amended [Pub. L. 117–286, § 4(a)(160)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4323](https://www.govinfo.gov/link/statute/136/4323).)*

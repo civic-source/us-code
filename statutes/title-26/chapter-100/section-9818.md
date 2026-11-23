@@ -3,9 +3,10 @@ title: "Section 9818 - Continuity of care"
 usc_title: 26
 usc_section: "9818"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 9818"
-generated_at: "2026-03-30T02:55:27.898Z"
+generated_at: "2026-11-23T21:26:07.049Z"
+status: "active"
 ---
 
 # § 9818. Continuity of care
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:27.898Z"
       - **(i)** is life-threatening, degenerative, potentially disabling, or congenital; and
       - **(ii)** requires specialized medical care over a prolonged period of time.
   - **(3)** The term “terminated” includes, with respect to a contract, the expiration or nonrenewal of the contract, but does not include a termination of the contract for failure to meet applicable quality standards or for fraud.
+
+## Source Credit
+
+*(Added [Pub. L. 116–260, div. BB, title I, § 113(b)(1)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2870](https://www.govinfo.gov/link/statute/134/2870).)*

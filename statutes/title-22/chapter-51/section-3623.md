@@ -3,9 +3,10 @@ title: "Section 3623 - Office of Ombudsman"
 usc_title: 22
 usc_section: "3623"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3623"
-generated_at: "2026-03-30T02:55:05.395Z"
+generated_at: "2026-11-23T21:25:58.590Z"
+status: "active"
 ---
 
 # § 3623. Office of Ombudsman
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.395Z"
 - **(b)** The Ombudsman shall make findings and render assistance with respect to the complaints, grievances, requests, and suggestions submitted to the Office of Ombudsman, and shall make appropriate recommendations to the Commission or any other department or agency of the United States, including the Smithsonian Institution.
 - **(c)** The establishment of the Office of Ombudsman shall not affect any procedures for grievances, appeals, or administrative matters in any other provision of this chapter, any other provision of law, or any Federal regulation.
 - **(d)** The Office of Ombudsman shall terminate upon the termination of the Panama Canal Treaty of 1977.
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1113](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 460](https://www.govinfo.gov/link/statute/93/460); [Pub. L. 104–201, div. C, title XXXV, § 3525](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2861](https://www.govinfo.gov/link/statute/110/2861).)*

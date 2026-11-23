@@ -3,9 +3,10 @@ title: "Section 2514 - Use of funds"
 usc_title: 22
 usc_section: "2514"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2514"
-generated_at: "2026-03-30T02:55:05.372Z"
+generated_at: "2026-11-23T21:25:58.507Z"
+status: "active"
 ---
 
 # § 2514. Use of funds
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:05.372Z"
   - **(11)** use in accordance with authorities of the Foreign Service Act of 1980 ( 22 U.S.C. 3901 et seq.), not otherwise provided for;
   - **(12)** ice and drinking water for use abroad; and
   - **(13)** the transportation of Peace Corps employees, Peace Corps volunteers, dependents of such employees and volunteers, and accompanying baggage, by a foreign air carrier when the transportation is between two places outside the United States without regard to section 40118 of title 49 .
+
+## Source Credit
+
+*([Pub. L. 87–293, title I, § 15](https://www.govinfo.gov/link/plaw/87/public/293), Sept. 22, 1961, [75 Stat. 621](https://www.govinfo.gov/link/statute/75/621); [Pub. L. 89–134, § 7](https://www.govinfo.gov/link/plaw/89/public/134), Aug. 24, 1965, [79 Stat. 551](https://www.govinfo.gov/link/statute/79/551); [Pub. L. 89–572, § 3](https://www.govinfo.gov/link/plaw/89/public/572), Sept. 13, 1966, [80 Stat. 765](https://www.govinfo.gov/link/statute/80/765); [Pub. L. 96–465, title II, § 2202(e)](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2158](https://www.govinfo.gov/link/statute/94/2158); [Pub. L. 96–533, title VI, § 601(c)](https://www.govinfo.gov/link/plaw/96/public/533), Dec. 16, 1980, [94 Stat. 3155](https://www.govinfo.gov/link/statute/94/3155); [Pub. L. 100–202, § 101(e) [title II, § 201]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–131](https://www.govinfo.gov/link/statute/101/1329), 1329–145; [Pub. L. 106–30, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/30), (b)(5)–(8), May 21, 1999, [113 Stat. 55](https://www.govinfo.gov/link/statute/113/55), 56.)*

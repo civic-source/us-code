@@ -3,9 +3,10 @@ title: "Section 4131 - House Recording Studio; Senate Recording Studio and Senat
 usc_title: 2
 usc_section: "4131"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 4131"
-generated_at: "2026-03-30T02:53:04.828Z"
+generated_at: "2026-11-23T21:25:21.296Z"
+status: "active"
 ---
 
 # § 4131. House Recording Studio; Senate Recording Studio and Senate Photographic Studio
@@ -30,3 +31,11 @@ generated_at: "2026-03-30T02:53:04.828Z"
 - **(m)** Effective with the completion of the transfer provided for by subsection (i) hereof the joint resolution entitled “Joint resolution establishing in the Treasury of the United States a revolving fund within the contingent fund of the House of Representatives”, approved August 7, 1953 , is repealed.
 - **(n)**
 - **(o)** Such sums as may be necessary to carry out the provisions of this section are authorized to be appropriated.
+
+House Barber Shops Revolving Fund
+
+house beauty shop
+
+## Source Credit
+
+*(June 27, 1956, ch. 453, § 105, [70 Stat. 370](https://www.govinfo.gov/link/statute/70/370); [Pub. L. 88–652, § 16(a)](https://www.govinfo.gov/link/plaw/88/public/652), Oct. 13, 1964, [78 Stat. 1084](https://www.govinfo.gov/link/statute/78/1084); [Pub. L. 92–310, title II, § 220(j)](https://www.govinfo.gov/link/plaw/92/public/310), June 6, 1972, [86 Stat. 205](https://www.govinfo.gov/link/statute/86/205); [Pub. L. 96–304, title I, § 108(a)](https://www.govinfo.gov/link/plaw/96/public/304), July 8, 1980, [94 Stat. 890](https://www.govinfo.gov/link/statute/94/890); [Pub. L. 97–257, title I, § 102](https://www.govinfo.gov/link/plaw/97/public/257), Sept. 10, 1982, [96 Stat. 849](https://www.govinfo.gov/link/statute/96/849); [Pub. L. 101–520, title I, § 7(a)](https://www.govinfo.gov/link/plaw/101/public/520), (c), (d), Nov. 5, 1990, [104 Stat. 2258](https://www.govinfo.gov/link/statute/104/2258), 2259; [Pub. L. 104–186, title II, § 204(68)](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1740](https://www.govinfo.gov/link/statute/110/1740).)*

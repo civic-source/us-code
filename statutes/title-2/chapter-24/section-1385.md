@@ -3,9 +3,10 @@ title: "Section 1385 - Expenses"
 usc_title: 2
 usc_section: "1385"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1385"
-generated_at: "2026-03-30T02:53:04.812Z"
+generated_at: "2026-11-23T21:25:21.226Z"
+status: "active"
 ---
 
 # § 1385. Expenses
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.812Z"
   - **(2)** one-half of the expenses of the Office shall be paid from funds appropriated for allowances and expenses of the Senate,
 - **(b)** The Executive Director may place orders and enter into agreements for goods and services with the head of any agency, or major organizational unit within an agency, in the legislative or executive branch of the United States in the same manner and to the same extent as agencies are authorized under sections 1535 and 1536 of title 31 to place orders and enter into agreements.
 - **(c)** Except for covered employees, witnesses before a hearing officer or the Board in any proceeding under this chapter other than rulemaking shall be paid the same fee and mileage allowances as are paid subpoenaed witnesses in the courts of the United States. Covered employees who are summoned, or are assigned by their employer, to testify in their official capacity or to produce official records in any proceeding under this chapter shall be entitled to travel expenses under subchapter I and section 5751 of chapter 57 of title 5.
+
+## Source Credit
+
+*([Pub. L. 104–1, title III, § 305](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 31](https://www.govinfo.gov/link/statute/109/31).)*

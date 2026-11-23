@@ -3,9 +3,10 @@ title: "Section 9254 - Authority to designate certain separated members of the A
 usc_title: 10
 usc_section: "9254"
 chapter: 933
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 9254"
-generated_at: "2026-03-30T02:53:38.257Z"
+generated_at: "2026-11-23T21:25:32.983Z"
+status: "active"
 ---
 
 # § 9254. Authority to designate certain separated members of the Air Force as honorary separated members of the Space Force
@@ -19,3 +20,15 @@ generated_at: "2026-03-30T02:53:38.257Z"
 - **(d)** In this section, the term “eligible individual” means an individual—
   - **(1)** whom the Secretary of the Air Force determines served in support of space operations as a member of the Air Force; and
   - **(2)** who separates (or previously separated) from the armed forces as a member of the Air Force.
+
+Authority
+
+Elements
+
+Rule of Construction
+
+Eligible Individual Defined
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title V, § 525](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1885](https://www.govinfo.gov/link/statute/138/1885).)*

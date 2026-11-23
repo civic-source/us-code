@@ -3,9 +3,10 @@ title: "Section 14501 - Failure of selection for promotion"
 usc_title: 10
 usc_section: "14501"
 chapter: 1407
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 14501"
-generated_at: "2026-03-30T02:53:38.275Z"
+generated_at: "2026-11-23T21:25:33.065Z"
+status: "active"
 ---
 
 # § 14501. Failure of selection for promotion
@@ -17,3 +18,19 @@ generated_at: "2026-03-30T02:53:38.275Z"
   - **(3)** The officer’s name has been removed from the report of a selection board under section 14111(b) or from a promotion list under section 14310 of this title after recommendation by a mandatory promotion board convened under section 14101(a) or by a special selection board convened under section 14502(a) or 14502(b) of this title and—
     - **(A)** the officer is not recommended for promotion by the next mandatory promotion board convened under section 14101(a) or special selection board convened under section 14502(a) of this title for that officer’s grade and competitive category; or
     - **(B)** the officer’s name is again removed from the report of a selection board under section 14111(b) or from a promotion list under section 14310 of this title .
+
+Officers Below the Grade of Colonel or Navy Captain
+
+Officers Twice Failed of Selection
+
+Continuation Under Old Law
+
+Exemption
+
+Savings Provisions for Required Separation Age
+
+Savings Provisions for Mandatory Separation for Age
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1611](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2946](https://www.govinfo.gov/link/statute/108/2946); amended [Pub. L. 104–106, div. A, title XV, § 1501(b)(28)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 498](https://www.govinfo.gov/link/statute/110/498); [Pub. L. 109–163, div. A, title V, § 515(b)(1)(TT)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3234](https://www.govinfo.gov/link/statute/119/3234).)*

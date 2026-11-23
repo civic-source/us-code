@@ -3,9 +3,10 @@ title: "Section 3711a - Malcolm Baldrige National Quality Award"
 usc_title: 15
 usc_section: "3711a"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3711a"
-generated_at: "2026-03-30T02:54:08.193Z"
+generated_at: "2026-11-23T21:25:39.977Z"
+status: "active"
 ---
 
 # § 3711a. Malcolm Baldrige National Quality Award
@@ -37,3 +38,11 @@ generated_at: "2026-03-30T02:54:08.193Z"
 - **(e)** The Director of the National Institute of Standards and Technology shall ensure that all program participants receive the complete results of their audits as well as detailed explanations of all suggestions for improvements. The Director shall also provide information about the awards and the successful quality improvement strategies and programs of the award-winning participants to all participants and other appropriate groups.
 - **(f)** The Secretary is authorized to seek and accept gifts from public and private sources to carry out the program under this section. If additional sums are needed to cover the full cost of the program, the Secretary shall impose fees upon the organizations applying for the award in amounts sufficient to provide such additional sums. The Director is authorized to use appropriated funds to carry out responsibilities under this chapter.
 - **(g)** The Secretary shall prepare and submit to the President and the Congress, within 3 years after August 20, 1987 , a report on the progress, findings, and conclusions of activities conducted pursuant to this section along with recommendations for possible modifications thereof.
+
+Findings
+
+Purpose
+
+## Source Credit
+
+*([Pub. L. 96–480, § 17](https://www.govinfo.gov/link/plaw/96/public/480), formerly § 16, as added [Pub. L. 100–107, § 3(a)](https://www.govinfo.gov/link/plaw/100/public/107), Aug. 20, 1987, [101 Stat. 725](https://www.govinfo.gov/link/statute/101/725); renumbered § 17 and amended [Pub. L. 100–418, title V](https://www.govinfo.gov/link/plaw/100/public/418), §§ 5115(b)(2)(A), 5122(a)(1), Aug. 23, 1988, [102 Stat. 1433](https://www.govinfo.gov/link/statute/102/1433), 1438; [Pub. L. 102–245, title III, § 305](https://www.govinfo.gov/link/plaw/102/public/245), Feb. 14, 1992, [106 Stat. 20](https://www.govinfo.gov/link/statute/106/20); [Pub. L. 105–309, § 3](https://www.govinfo.gov/link/plaw/105/public/309), Oct. 30, 1998, [112 Stat. 2935](https://www.govinfo.gov/link/statute/112/2935); [Pub. L. 108–320, § 1](https://www.govinfo.gov/link/plaw/108/public/320), Oct. 5, 2004, [118 Stat. 1213](https://www.govinfo.gov/link/statute/118/1213); [Pub. L. 110–69, title III, § 3010](https://www.govinfo.gov/link/plaw/110/public/69), Aug. 9, 2007, [121 Stat. 592](https://www.govinfo.gov/link/statute/121/592); [Pub. L. 117–167, div. B, title II, § 10246(b)(1)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1492](https://www.govinfo.gov/link/statute/136/1492).)*

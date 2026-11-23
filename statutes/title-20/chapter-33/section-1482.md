@@ -3,9 +3,10 @@ title: "Section 1482 - Administrative provisions"
 usc_title: 20
 usc_section: "1482"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1482"
-generated_at: "2026-03-30T02:54:48.169Z"
+generated_at: "2026-11-23T21:25:47.351Z"
+status: "active"
 ---
 
 # § 1482. Administrative provisions
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:54:48.169Z"
     - **(B)** $4,000,000 to address the postsecondary, vocational, technical, continuing, and adult education needs of individuals with deafness.
     - **(C)** $4,000,000 to address the educational, related services, and transitional needs of children with an emotional disturbance and those who are at risk of developing an emotional disturbance.
   - **(2)** If the sum of the amount appropriated to carry out parts B and C, and part E of the Education Sciences Reform Act of 2002 [ 20 U.S.C. 9567 et seq.] for any fiscal year is less than $130,000,000, the amounts listed in paragraph (1) shall be ratably reduced for the fiscal year.
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 682](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2797](https://www.govinfo.gov/link/statute/118/2797).)*

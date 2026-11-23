@@ -3,9 +3,10 @@ title: "Section 13143 - Outside earned income limitation"
 usc_title: 5
 usc_section: "13143"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 13143"
-generated_at: "2026-03-30T02:52:56.079Z"
+generated_at: "2026-11-23T21:25:23.477Z"
+status: "active"
 ---
 
 # § 13143. Outside earned income limitation
@@ -15,3 +16,46 @@ generated_at: "2026-03-30T02:52:56.079Z"
   - **(2)** In the case of any individual who during a calendar year becomes a Member or an officer or employee who is a noncareer officer or employee and who occupies a position classified above GS–15 of the General Schedule or, in the case of positions not under the General Schedule, for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule, such individual may not have outside earned income attributable to the portion of that calendar year which occurs after such individual becomes a Member or such an officer or employee which exceeds 15 percent of the annual rate of basic pay for level II of the Executive Schedule under section 5313 of this title , as of January 1 of such calendar year multiplied by a fraction the numerator of which is the number of days such individual is a Member or such officer or employee during such calendar year and the denominator of which is 365.
 - **(b)** An individual may not receive any honorarium while that individual is a Member, officer or employee.
 - **(c)** Any honorarium which, except for subsection (b), might be paid to a Member, officer or employee, but which is paid instead on behalf of such Member, officer or employee to a charitable organization, shall be deemed not to be received by such Member, officer or employee. No such payment shall exceed $2,000 or be made to a charitable organization from which such individual or a parent, sibling, spouse, child, or dependent relative of such individual derives any financial benefit.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 13143 | 5 U.S.C. App. (EGA § 501) | Pub. L. 95–521, title V, § 501 , as added Pub. L. 101–194, title VI, § 601(a) , Nov. 30, 1989 , 103 Stat. 1760 ; amended Pub. L. 101–280, § 7(a) , May 4, 1990 , 104 Stat. 161 ; Pub. L. 102–378, § 4(b)(1) , (2), Oct. 2, 1992 , 106 Stat. 1357 . |
+
+
+Outside Earned Income Limitation.—
+
+In general
+
+Portion of year
+
+Honoraria Prohibition
+
+Treatment of Charitable Contributions
+
+Historical and Revision Notes
+
+13143
+
+Pub. L. 95–521, title V, § 501
+
+Pub. L. 101–194, title VI, § 601(a)
+
+Nov. 30, 1989
+
+103 Stat. 1760
+
+Pub. L. 101–280, § 7(a)
+
+May 4, 1990
+
+104 Stat. 161
+
+Pub. L. 102–378, § 4(b)(1)
+
+Oct. 2, 1992
+
+106 Stat. 1357
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(c)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4303](https://www.govinfo.gov/link/statute/136/4303).)*

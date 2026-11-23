@@ -3,9 +3,10 @@ title: "Section 8740 - Adjustments of loans"
 usc_title: 7
 usc_section: "8740"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 8740"
-generated_at: "2026-03-30T02:53:42.480Z"
+generated_at: "2026-11-23T21:25:28.482Z"
+status: "active"
 ---
 
 # § 8740. Adjustments of loans
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:42.480Z"
     - **(A)** revoking or revising any actions taken under paragraph (2)(B); or
     - **(B)** revoking or revising any actions taken or authorized to be taken under paragraph (2)(C).
 - **(e)** The Secretary shall not make adjustments in the loan rates for long grain rice and medium grain rice, except for differences in grade and quality (including milling yields).
+
+## Source Credit
+
+*([Pub. L. 110–234, title I, § 1210](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 965](https://www.govinfo.gov/link/statute/122/965); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1210, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1693; [Pub. L. 117–286, § 4(a)(42)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4310](https://www.govinfo.gov/link/statute/136/4310).)*

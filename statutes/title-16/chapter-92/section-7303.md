@@ -3,9 +3,10 @@ title: "Section 7303 - Collaborative Forest Landscape Restoration Program"
 usc_title: 16
 usc_section: "7303"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 7303"
-generated_at: "2026-03-30T02:54:23.074Z"
+generated_at: "2026-11-23T21:25:52.065Z"
+status: "active"
 ---
 
 # § 7303. Collaborative Forest Landscape Restoration Program
@@ -146,3 +147,7 @@ generated_at: "2026-03-30T02:54:23.074Z"
   - **(4)** the Committee on Natural Resources of the House of Representatives;
   - **(5)** the Committee on Appropriations of the House of Representatives; and
   - **(6)** the Committee on Agriculture of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 111–11, title IV, § 4003](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1141](https://www.govinfo.gov/link/statute/123/1141); [Pub. L. 115–334, title VIII, § 8629](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4865](https://www.govinfo.gov/link/statute/132/4865).)*

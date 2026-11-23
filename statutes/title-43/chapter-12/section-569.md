@@ -3,9 +3,10 @@ title: "Section 569 - Reservation of land for park, playground, or community cen
 usc_title: 43
 usc_section: "569"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 569"
-generated_at: "2026-03-30T02:55:57.455Z"
+generated_at: "2026-11-23T21:26:19.791Z"
+status: "active"
 ---
 
 # § 569. Reservation of land for park, playground, or community center
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:57.455Z"
 - **(b)** Subject to the provisions hereinafter contained in this section every such tract of land so set apart shall be supplied with water from the Government irrigation system, the cost thereof to be charged to the remaining lands of the project as a part of the construction charge of such project, and shall be maintained and used in perpetuity by the people upon said reclaimed lands for a pleasure park, public playground, and community center.
 - **(c)** For the purpose of carrying out and effecting the objects of this section the Secretary of the Interior is authorized to enter into a contract with the organization formed by the owners of the lands irrigated within said project or project unit pursuant to section 498 of this title , stipulating and providing that the organization will maintain and use such of the lands so reserved for the purposes prescribed in this section as such organization may desire, and that upon failure to so maintain and use such lands, or in the event that same shall be permitted to be used or occupied for other purposes than those stipulated in this section, the control of the lands shall revert to the United States.
 - **(d)** Any of such lands not contracted for in accordance with the provisions of subsection (c) of this section within ten years from the time water is available for the same, or sooner, if the Secretary of the Interior may deem it desirable, shall be disposed of in accordance with the public land laws applicable thereto, and the proceeds from the disposition of lands reverting to the United States under the provisions of this section, and from sales of water rights, shall be covered into the reclamation fund and placed to the credit of the project wherein the lands are situate.
+
+## Source Credit
+
+*(Oct. 5, 1914, ch. 316, §§ 1–4, [38 Stat. 727](https://www.govinfo.gov/link/statute/38/727), 728; [Pub. L. 94–579, title VII, § 704(a)](https://www.govinfo.gov/link/plaw/94/public/579), Oct. 21, 1976, [90 Stat. 2792](https://www.govinfo.gov/link/statute/90/2792).)*

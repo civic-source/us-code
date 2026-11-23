@@ -3,9 +3,10 @@ title: "Section 2601 - Definitions"
 usc_title: 33
 usc_section: "2601"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2601"
-generated_at: "2026-03-30T02:55:41.129Z"
+generated_at: "2026-11-23T21:26:11.459Z"
+status: "active"
 ---
 
 # § 2601. Definitions
@@ -28,3 +29,7 @@ In this chapter—
   - **(5)** “receiving facility” means a facility or operation where municipal or commercial waste is unloaded from a vessel.
   - **(6)** “United States”, when used in a geographic sense, means the States of the United States, Puerto Rico, the District of Columbia, the Virgin Islands, American Samoa, Guam, the Northern Mariana Islands, and any other territory or possession of the United States.
   - **(7)** “waste source” means a facility or vessel from which municipal or commercial waste is loaded onto a vessel, including any rolling stock or motor vehicles from which that waste is directly loaded.
+
+## Source Credit
+
+*([Pub. L. 100–688, title IV, § 4101](https://www.govinfo.gov/link/plaw/100/public/688), Nov. 18, 1988, [102 Stat. 4154](https://www.govinfo.gov/link/statute/102/4154).)*

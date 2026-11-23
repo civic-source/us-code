@@ -3,9 +3,10 @@ title: "Section 216b - Disposition of unclaimed property"
 usc_title: 12
 usc_section: "216b"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 216b"
-generated_at: "2026-03-30T02:53:53.376Z"
+generated_at: "2026-11-23T21:25:36.776Z"
+status: "active"
 ---
 
 # § 216b. Disposition of unclaimed property
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:53.376Z"
   - **(2)** The United States Court of Federal Claims may set aside actions of the Comptroller only if such actions are found to be arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.
   - **(3)** All claims for which the United States Court of Federal Claims has jurisdiction under this subsection shall be barred unless suit is filed within two years from the date of expiration of the twelve-month notice period provided by this subchapter.
   - **(4)** For purposes of section 1491 of title 28 , any Claim 1 1 So in original. Probably should not be capitalized. against the Comptroller, the United States, or any officer, employee, or agent thereof shall be considered a claim against the United States.
+
+## Source Credit
+
+*([Pub. L. 96–221, title VII, § 733](https://www.govinfo.gov/link/plaw/96/public/221), as added [Pub. L. 97–320, title IV, § 408](https://www.govinfo.gov/link/plaw/97/public/320), Oct. 15, 1982, [96 Stat. 1513](https://www.govinfo.gov/link/statute/96/1513); amended [Pub. L. 102–572, title IX, § 902(b)(1)](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4516](https://www.govinfo.gov/link/statute/106/4516).)*

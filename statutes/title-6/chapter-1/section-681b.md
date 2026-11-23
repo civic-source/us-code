@@ -3,9 +3,10 @@ title: "Section 681b - Required reporting of certain cyber incidents"
 usc_title: 6
 usc_section: "681b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 681b"
-generated_at: "2026-03-30T02:53:09.497Z"
+generated_at: "2026-11-23T21:25:25.837Z"
+status: "active"
 ---
 
 # § 681b. Required reporting of certain cyber incidents
@@ -117,3 +118,7 @@ generated_at: "2026-03-30T02:53:09.497Z"
 - **(f)** Sections 3506(c), 3507, 3508, and 3509 of title 44 shall not apply to any action to carry out this section.
 - **(g)** Nothing in this section shall affect the authorities of the Federal Government to implement the requirements of Executive Order 14028 (86 Fed. Reg. 26633; relating to improving the nation’s cybersecurity), including changes to the Federal Acquisition Regulations and remedies to include suspension and debarment.
 - **(h)** Nothing in this section shall be construed to supersede or to abrogate, modify, or otherwise limit the authority that is vested in any officer or any agency of the United States Government to regulate or take action with respect to the cybersecurity of an entity.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XXII, § 2242](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 117–103, div. Y, § 103(a)(2)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 1042](https://www.govinfo.gov/link/statute/136/1042).)*

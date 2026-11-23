@@ -3,9 +3,10 @@ title: "Section 220543 - Records, audits, and reports"
 usc_title: 36
 usc_section: "220543"
 chapter: 2205
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 220543"
-generated_at: "2026-03-30T02:55:44.711Z"
+generated_at: "2026-11-23T21:26:13.756Z"
+status: "active"
 ---
 
 # § 220543. Records, audits, and reports
@@ -54,3 +55,39 @@ generated_at: "2026-03-30T02:55:44.711Z"
     - **(B)** an assessment of the internal controls used by the Center that describes the scope of testing of the internal controls and the results of such testing; and
     - **(C)** a compliance assessment that includes an opinion or a disclaimer of opinion as to whether the Center has complied with the terms and conditions of subsection (b); and
   - **(2)** “independent auditor” means an independent certified public accountant or independent licensed public accountant, certified or licensed by a regulatory authority of a State or a political subdivision of a State, who meets the standards specified in generally accepted accounting principles.
+
+Records
+
+Audits and Transparency.—
+
+Annual audit.—
+
+In general
+
+Location
+
+Report
+
+Corrective action plan.—
+
+In general
+
+Matters to be included
+
+Access to records and personnel
+
+Public availability.—
+
+In general
+
+Personally identifiable information
+
+Rule of construction
+
+Report
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 115–126, title II, § 202(a)](https://www.govinfo.gov/link/plaw/115/public/126), Feb. 14, 2018, [132 Stat. 323](https://www.govinfo.gov/link/statute/132/323); amended [Pub. L. 116–189, § 8(c)](https://www.govinfo.gov/link/plaw/116/public/189), Oct. 30, 2020, [134 Stat. 968](https://www.govinfo.gov/link/statute/134/968).)*

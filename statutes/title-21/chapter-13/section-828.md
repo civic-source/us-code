@@ -3,9 +3,10 @@ title: "Section 828 - Order forms"
 usc_title: 21
 usc_section: "828"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 828"
-generated_at: "2026-03-30T02:54:54.294Z"
+generated_at: "2026-11-23T21:25:56.237Z"
+status: "active"
 ---
 
 # § 828. Order forms
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:54.294Z"
   - **(1)** The Attorney General shall issue forms pursuant to subsections (a) and (c)(2) only to persons validly registered under section 823 of this title (or exempted from registration under section 822(d) of this title ). Whenever any such form is issued to a person, the Attorney General shall, before delivery thereof, insert therein the name of such person, and it shall be unlawful for any other person (A) to use such form for the purpose of obtaining controlled substances or (B) to furnish such form to any person with intent thereby to procure the distribution of such substances.
   - **(2)** The Attorney General may charge reasonable fees for the issuance of such forms in such amounts as he may prescribe for the purpose of covering the cost to the United States of issuing such forms, and other necessary activities in connection therewith.
 - **(e)** It shall be unlawful for any person to obtain by means of order forms issued under this section controlled substances for any purpose other than their use, distribution, dispensing, or administration in the conduct of a lawful business in such substances or in the course of his professional practice or research.
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 308](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1259](https://www.govinfo.gov/link/statute/84/1259); [Pub. L. 111–273, § 3(b)](https://www.govinfo.gov/link/plaw/111/public/273), Oct. 12, 2010, [124 Stat. 2860](https://www.govinfo.gov/link/statute/124/2860).)*

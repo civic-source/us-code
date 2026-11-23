@@ -3,9 +3,10 @@ title: "Section 953 - Insurance income"
 usc_title: 26
 usc_section: "953"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 953"
-generated_at: "2026-03-30T02:55:27.748Z"
+generated_at: "2026-11-23T21:26:06.438Z"
+status: "active"
 ---
 
 # § 953. Insurance income
@@ -143,3 +144,7 @@ generated_at: "2026-03-30T02:55:27.748Z"
   - **(8)** In determining insurance income for purposes of subsection (c), exempt insurance income shall not include income derived from exempt contracts which cover risks other than applicable home country risks.
   - **(9)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection and section 954(i).
   - **(10)** For income exempt from foreign personal holding company income, see section 954(i).
+
+## Source Credit
+
+*(Added [Pub. L. 87–834, § 12(a)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 1008](https://www.govinfo.gov/link/statute/76/1008); amended [Pub. L. 89–809, title I, § 104(m)(2)](https://www.govinfo.gov/link/plaw/89/public/809), Nov. 13, 1966, [80 Stat. 1563](https://www.govinfo.gov/link/statute/80/1563); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 98–369, div. A, title II, § 211(b)(13)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 755](https://www.govinfo.gov/link/statute/98/755); [Pub. L. 99–514, title XII, § 1221(b)(1)](https://www.govinfo.gov/link/plaw/99/public/514), (2), (3)(D), Oct. 22, 1986, [100 Stat. 2551](https://www.govinfo.gov/link/statute/100/2551), 2553; [Pub. L. 100–647, title I, § 1012(i)(1)](https://www.govinfo.gov/link/plaw/100/public/647) –(3)(B), (4), (5), (7)–(9), (21), title VI, § 6135(a), Nov. 10, 1988, [102 Stat. 3507–3509](https://www.govinfo.gov/link/statute/102/3507), 3511, 3721; [Pub. L. 101–239, title VII, § 7816(p)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2423](https://www.govinfo.gov/link/statute/103/2423); [Pub. L. 105–277, div. J, title I, § 1005(b)(1)](https://www.govinfo.gov/link/plaw/105/public/277), (3), Oct. 21, 1998, [112 Stat. 2681–893](https://www.govinfo.gov/link/statute/112/2681), 2681–899; [Pub. L. 106–170, title V, § 503(a)](https://www.govinfo.gov/link/plaw/106/public/170), (b), Dec. 17, 1999, [113 Stat. 1921](https://www.govinfo.gov/link/statute/113/1921); [Pub. L. 107–147, title VI, § 614(a)(1)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 61](https://www.govinfo.gov/link/statute/116/61); [Pub. L. 109–222, title I, § 103(a)(1)](https://www.govinfo.gov/link/plaw/109/public/222), May 17, 2006, [120 Stat. 346](https://www.govinfo.gov/link/statute/120/346); [Pub. L. 110–343, div. C, title III, § 303(a)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3866](https://www.govinfo.gov/link/statute/122/3866); [Pub. L. 111–312, title VII, § 750(a)](https://www.govinfo.gov/link/plaw/111/public/312), (b), Dec. 17, 2010, [124 Stat. 3320](https://www.govinfo.gov/link/statute/124/3320); [Pub. L. 112–240, title III, § 322(a)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2332](https://www.govinfo.gov/link/statute/126/2332); [Pub. L. 113–295, div. A, title I, § 134(a)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4019](https://www.govinfo.gov/link/statute/128/4019); [Pub. L. 114–113, div. Q, title I, § 128(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3054](https://www.govinfo.gov/link/statute/129/3054); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 13511(b)(7), 13512(b)(8), 14212(b)(1)(D), (3), Dec. 22, 2017, [131 Stat. 2142](https://www.govinfo.gov/link/statute/131/2142), 2143, 2217.)*

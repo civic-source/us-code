@@ -3,9 +3,10 @@ title: "Section 422 - Transfer of functions"
 usc_title: 5
 usc_section: "422"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 422"
-generated_at: "2026-03-30T02:52:55.984Z"
+generated_at: "2026-11-23T21:25:23.048Z"
+status: "active"
 ---
 
 # § 422. Transfer of functions
@@ -47,3 +48,84 @@ generated_at: "2026-03-30T02:52:55.984Z"
 - **(b)** The personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, of any office or agency the functions, powers, and duties of which are transferred under subsection (a) are hereby transferred to the applicable Office of Inspector General.
 - **(c)** Personnel transferred pursuant to subsection (b) shall be transferred in accordance with applicable laws and regulations relating to the transfer of functions except that the classification and compensation of such personnel shall not be reduced for one year after such transfer.
 - **(d)** In any case in which all the functions, powers, and duties of any office or agency are transferred pursuant to this subsection, such office or agency shall lapse. Any person who, on October 1, 1978 , held a position compensated in accordance with the General Schedule, and who, without a break in service, is appointed in an Office of Inspector General to a position having duties comparable to those performed immediately preceding such appointment shall continue to be compensated in the new position at not less than the rate provided for the previous position, for the duration of service in the new position.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 422 | 5 U.S.C. App. (IGA § 9) | Pub. L. 95–452, § 9 , Oct. 12, 1978 , 92 Stat. 1107 ; Pub. L. 96–88, title V, § 508(n)(2) , Oct. 17, 1979 , 93 Stat. 694 ; Pub. L. 97–252, title XI, § 1117(a)(2) , (3), Sept. 8, 1982 , 96 Stat. 750 ; Pub. L. 100–504, title I, § 102(d) , Oct. 18, 1988 , 102 Stat. 2516 ; Pub. L. 103–82, title II, § 202(g)(3)(A) , Sept. 21, 1993 , 107 Stat. 890 ; Pub. L. 103–296, title I, § 108 ( l )(1), Aug. 15, 1994 , 108 Stat. 1488 ; Pub. L. 105–206, title I, § 1103(c)(1) , July 22, 1998 , 112 Stat. 708 ; Pub. L. 107–189, § 22(c) , June 14, 2002 , 116 Stat. 708 ; Pub. L. 107–296, title XI, § 1112(a)(2) , Nov. 25, 2002 , 116 Stat. 2276 . |
+
+
+In General
+
+Related Transfers
+
+Personnel
+
+Lapse of Office or Agency and Compensation for Transferred Positions With Comparable Duties
+
+Historical and Revision Notes
+
+422
+
+Pub. L. 95–452, § 9
+
+Oct. 12, 1978
+
+92 Stat. 1107
+
+Pub. L. 96–88, title V, § 508(n)(2)
+
+Oct. 17, 1979
+
+93 Stat. 694
+
+Pub. L. 97–252, title XI, § 1117(a)(2)
+
+Sept. 8, 1982
+
+96 Stat. 750
+
+Pub. L. 100–504, title I, § 102(d)
+
+Oct. 18, 1988
+
+102 Stat. 2516
+
+Pub. L. 103–82, title II, § 202(g)(3)(A)
+
+Sept. 21, 1993
+
+107 Stat. 890
+
+Pub. L. 103–296, title I, § 108
+
+Aug. 15, 1994
+
+108 Stat. 1488
+
+Pub. L. 105–206, title I, § 1103(c)(1)
+
+July 22, 1998
+
+112 Stat. 708
+
+Pub. L. 107–189, § 22(c)
+
+June 14, 2002
+
+116 Stat. 708
+
+Pub. L. 107–296, title XI, § 1112(a)(2)
+
+Nov. 25, 2002
+
+116 Stat. 2276
+
+Termination of Office of Chief Inspector
+
+Retention of Certain Internal Audit Personnel
+
+Additional Personnel Transfers
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(b)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4252](https://www.govinfo.gov/link/statute/136/4252).)*

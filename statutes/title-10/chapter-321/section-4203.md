@@ -3,9 +3,10 @@ title: "Section 4203 - Major subprograms"
 usc_title: 10
 usc_section: "4203"
 chapter: 321
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4203"
-generated_at: "2026-03-30T02:53:38.205Z"
+generated_at: "2026-11-23T21:25:32.763Z"
+status: "active"
 ---
 
 # § 4203. Major subprograms
@@ -26,3 +27,15 @@ generated_at: "2026-03-30T02:53:38.205Z"
   - **(2)** the term “procurement unit cost” applies at the level of the subprogram and means the total of all funds programmed to be available for obligation for procurement for each such major subprogram, divided by the number of fully-configured end items to be procured under such major subprogram;
   - **(3)** the term “major contract”, with respect to a designated major subprogram, means each of the six largest prime, associate, or Government furnished equipment contracts under the subprogram that is in excess of $40,000,000 and that is not a firm-fixed price contract; and
   - **(4)** the term “life cycle cost”, with respect to a designated major subprogram, means all costs of development, procurement, military construction, and operations and support, without regard to funding source or management control.
+
+Authority To Designate Major Subprograms as Subject to Acquisition Reporting Requirements
+
+Reporting Requirements
+
+Requirement to Cover Entire Major Defense Acquisition Program
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title VIII, § 811(a)(1), Oct. 14, 2008, [122 Stat. 4520](https://www.govinfo.gov/link/statute/122/4520), § 2430a; amended [Pub. L. 111–383, div. A, title VIII, § 814(a)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4266](https://www.govinfo.gov/link/statute/124/4266); [Pub. L. 112–81, div. A, title IX, § 912](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1536](https://www.govinfo.gov/link/statute/125/1536); [Pub. L. 114–328, div. A, title VIII, § 850](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2295](https://www.govinfo.gov/link/statute/130/2295); renumbered § 4203 and amended [Pub. L. 116–283, div. A, title XVIII, § 1846(g)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4251](https://www.govinfo.gov/link/statute/134/4251); [Pub. L. 117–81, div. A, title XVII, § 1701](https://www.govinfo.gov/link/plaw/117/public/81) (o)(6)(B)(ii), Dec. 27, 2021, [135 Stat. 2147](https://www.govinfo.gov/link/statute/135/2147).)*

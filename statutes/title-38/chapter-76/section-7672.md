@@ -3,9 +3,10 @@ title: "Section 7672 - Eligibility; agreement"
 usc_title: 38
 usc_section: "7672"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7672"
-generated_at: "2026-03-30T02:55:53.534Z"
+generated_at: "2026-11-23T21:26:16.889Z"
+status: "active"
 ---
 
 # § 7672. Eligibility; agreement
@@ -21,3 +22,17 @@ generated_at: "2026-03-30T02:55:53.534Z"
     - **(C)** The participant’s agreement to serve under subparagraph (B) in a Department facility selected by the Secretary.
   - **(2)** In a case in which an extension is granted under section 7673(c)(2) of this title , the number of years for which a scholarship may be provided under the Program shall be the number of school years provided for as a result of the extension.
   - **(3)** In the case of a participant who is a part-time student, the period of obligated service shall be reduced in accordance with the proportion that the number of credit hours carried by such participant in any such school year bears to the number of credit hours required to be carried by a full-time student in the course of training being pursued by the participant, but in no event to less than 1 year.
+
+Eligibility
+
+Eligible Department Employees
+
+Qualifying Fields of Education or Training
+
+Award of Scholarships
+
+Agreement
+
+## Source Credit
+
+*(Added [Pub. L. 105–368, title VIII, § 802(a)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3352](https://www.govinfo.gov/link/statute/112/3352); amended [Pub. L. 107–14, § 8(a)(16)](https://www.govinfo.gov/link/plaw/107/public/14), June 5, 2001, [115 Stat. 35](https://www.govinfo.gov/link/statute/115/35); [Pub. L. 107–135, title I, § 101(b)](https://www.govinfo.gov/link/plaw/107/public/135), Jan. 23, 2002, [115 Stat. 2447](https://www.govinfo.gov/link/statute/115/2447).)*

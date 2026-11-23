@@ -3,9 +3,10 @@ title: "Section 10104 - Requirement to report sexual offenses"
 usc_title: 46
 usc_section: "10104"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 10104"
-generated_at: "2026-03-30T02:56:15.553Z"
+generated_at: "2026-11-23T21:26:37.107Z"
+status: "active"
 ---
 
 # § 10104. Requirement to report sexual offenses
@@ -65,3 +66,51 @@ generated_at: "2026-03-30T02:56:15.553Z"
       - **(ii)** the role of the Commission in addressing employment discrimination complaints; and
     - **(B)** identify the publicly available websites and contact information for the Commission; and
   - **(2)** make available trainings or other presentations to inform seafarers of employment and anti-discrimination rights under the laws administered by the Coast Guard and the Commission.
+
+Mandatory Reporting by Responsible Entity of a Vessel.—
+
+In general
+
+Penalty
+
+Reporting Procedures.—
+
+Responsible entity of a vessel reporting
+
+Contents
+
+Receiving reports; collection of information.—
+
+Receiving reports
+
+Collection of information
+
+Subpoena Authority.—
+
+In general
+
+Jurisdictional limits
+
+Company After-action Summary.—
+
+Civil penalty
+
+Investigatory Audit
+
+Applicability; Regulations.—
+
+Regulations
+
+Interim reports
+
+Definition of Responsible Entity of a Vessel
+
+Harassment Defined
+
+Response to Incidents
+
+Education and Outreach
+
+## Source Credit
+
+*(Added [Pub. L. 101–225, title II, § 214(a)(2)](https://www.govinfo.gov/link/plaw/101/public/225), Dec. 12, 1989, [103 Stat. 1914](https://www.govinfo.gov/link/statute/103/1914); amended [Pub. L. 117–263, div. K, title CXVI, § 11609](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4152](https://www.govinfo.gov/link/statute/136/4152); [Pub. L. 119–60, div. G, title LXXIII, § 7315](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1762](https://www.govinfo.gov/link/statute/139/1762).)*

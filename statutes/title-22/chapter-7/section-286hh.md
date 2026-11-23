@@ -3,9 +3,10 @@ title: "Section 286hh - Policy based lending for debt reduction"
 usc_title: 22
 usc_section: "286hh"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 286hh"
-generated_at: "2026-03-30T02:55:05.320Z"
+generated_at: "2026-11-23T21:25:58.365Z"
+status: "active"
 ---
 
 # § 286hh. Policy based lending for debt reduction
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:05.320Z"
   - **(3)** describes the extent (if any) to which such bank has implemented the measures described in subsections (b) and (c); and
   - **(4)** describes the success each of such countries has had in managing and reducing their debt burdens and achieving sustainable and equitable economic growth as measured by criteria including the ratio of debt service to exports, the ratio of debt to gross national product, net resource flows, and per capita income.
 - **(e)** On receipt of each report required to be submitted pursuant to subsection (d), and after consultation with the Secretary of the Treasury, the Committee on Banking, Finance and Urban Affairs of the House of Representatives shall forward such report to the Committee on Appropriations of the House of Representatives with an assessment by the Committee on Banking, Finance and Urban Affairs describing the effect on the international debt situation of funding the subscription of the United States to the shares of capital stock of the International Bank for Reconstruction and Development due for payment by the United States in the then next fiscal year.
+
+## Source Credit
+
+*([Pub. L. 100–461, title V, § 555](https://www.govinfo.gov/link/plaw/100/public/461), Oct. 1, 1988, [102 Stat. 2268–36](https://www.govinfo.gov/link/statute/102/2268); [Pub. L. 111–203, title IX, § 939(f)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1886](https://www.govinfo.gov/link/statute/124/1886).)*

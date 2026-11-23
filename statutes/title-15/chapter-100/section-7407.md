@@ -3,9 +3,10 @@ title: "Section 7407 - Authorization of appropriations"
 usc_title: 15
 usc_section: "7407"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7407"
-generated_at: "2026-03-30T02:54:08.222Z"
+generated_at: "2026-11-23T21:25:40.056Z"
+status: "active"
 ---
 
 # § 7407. Authorization of appropriations
@@ -24,3 +25,7 @@ There are authorized to be appropriated to the Secretary of Commerce for the Nat
     - **(C)** $6,400,000 for fiscal year 2005;
     - **(D)** $6,600,000 for fiscal year 2006; and
     - **(E)** $6,800,000 for fiscal year 2007.
+
+## Source Credit
+
+*([Pub. L. 107–305, § 11](https://www.govinfo.gov/link/plaw/107/public/305), Nov. 27, 2002, [116 Stat. 2379](https://www.govinfo.gov/link/statute/116/2379).)*

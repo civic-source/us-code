@@ -3,9 +3,10 @@ title: "Section 2680 - Minimum capital investment for facilities sustainment, re
 usc_title: 10
 usc_section: "2680"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2680"
-generated_at: "2026-03-30T02:53:38.169Z"
+generated_at: "2026-11-23T21:25:32.650Z"
+status: "active"
 ---
 
 # § 2680. Minimum capital investment for facilities sustainment, restoration, and modernization for military departments
@@ -36,3 +37,17 @@ generated_at: "2026-03-30T02:53:38.169Z"
     - **(B)** Military construction.
     - **(C)** Research, development, test, and evaluation.
     - **(D)** Working capital funds.
+
+Minimum Investment
+
+Exclusion
+
+Percentage Specified
+
+Certification
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. B, title XXVIII, § 2841(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2262](https://www.govinfo.gov/link/statute/138/2262); amended [Pub. L. 119–60, div. B, title XXVIII, § 2841](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1316](https://www.govinfo.gov/link/statute/139/1316).)*

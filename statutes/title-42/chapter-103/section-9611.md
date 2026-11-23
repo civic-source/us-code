@@ -3,9 +3,10 @@ title: "Section 9611 - Uses of Fund"
 usc_title: 42
 usc_section: "9611"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9611"
-generated_at: "2026-03-30T02:56:11.358Z"
+generated_at: "2026-11-23T21:26:33.254Z"
+status: "active"
 ---
 
 # § 9611. Uses of Fund
@@ -78,3 +79,31 @@ generated_at: "2026-03-30T02:56:11.358Z"
     - **(G)** For fiscal year 1993, $212,500,000.
     - **(H)** For fiscal year 1994, $212,500,000.
   - **(2)** The amounts authorized to be appropriated under paragraph (1) of this subsection in a given fiscal year shall be available only to the extent that such amount exceeds the amount determined by the Secretary under section 9507(b)(2) of title 26 for the prior fiscal year.
+
+Grants for technical assistance
+
+Lead contaminated soil
+
+Evaluation costs under petition provisions of section 9605
+
+Contract costs under section 9604
+
+Acquisition costs under section 9604
+
+Research, development, and demonstration costs under section 9660
+
+Local government reimbursement
+
+Worker training and education grants
+
+Awards under section 9609
+
+Lead poisoning study
+
+Satisfaction of Requirements
+
+Reports to Congress on Audits
+
+## Source Credit
+
+*([Pub. L. 96–510, title I, § 111](https://www.govinfo.gov/link/plaw/96/public/510), Dec. 11, 1980, [94 Stat. 2788](https://www.govinfo.gov/link/statute/94/2788); [Pub. L. 99–499, title I, § 111](https://www.govinfo.gov/link/plaw/99/public/499), title II, § 207(d), Oct. 17, 1986, [100 Stat. 1642](https://www.govinfo.gov/link/statute/100/1642), 1706; [Pub. L. 101–144, title III](https://www.govinfo.gov/link/plaw/101/public/144), Nov. 9, 1989, [103 Stat. 857](https://www.govinfo.gov/link/statute/103/857); [Pub. L. 101–508, title VI, § 6301](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–319](https://www.govinfo.gov/link/statute/104/1388).)*

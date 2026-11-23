@@ -3,9 +3,10 @@ title: "Section 1710B - Extended care services"
 usc_title: 38
 usc_section: "1710B"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1710B"
-generated_at: "2026-03-30T02:55:53.483Z"
+generated_at: "2026-11-23T21:26:16.630Z"
+status: "active"
 ---
 
 # § 1710B. Extended care services
@@ -34,3 +35,123 @@ generated_at: "2026-03-30T02:55:53.483Z"
 - **(e)**
   - **(1)** There is established in the Treasury of the United States a revolving fund known as the Department of Veterans Affairs Extended Care Fund (hereinafter in this section referred to as the “fund”). Amounts in the fund shall be available, without fiscal year limitation and without further appropriation, exclusively for the purpose of providing extended care services under subsection (a).
   - **(2)** All amounts received by the Department under this section shall be deposited in or credited to the fund.
+
+Contingent Effectiveness
+
+Annual Update
+
+Telephone or Telehealth Renewals
+
+No Suspension or Disenrollment
+
+Waiver of Paperwork Requirement
+
+Waiver of Other Requirements
+
+Transfer of Certain Veterans to the Program
+
+Period Specified
+
+Covered Provider Defined
+
+In General
+
+Duration of Pilot Program
+
+Caregiver Assistance Services
+
+Authorization of Appropriations
+
+Allocation of Funds to Facilities
+
+Report
+
+Pilot Programs
+
+Locations of Pilot Programs
+
+Scope of Services Under Pilot Programs
+
+Program Requirements
+
+Design of Pilot Programs
+
+In-Kind Assistance
+
+Limitation
+
+Duration of Programs
+
+Report
+
+Establishment
+
+Program Locations.—
+
+Veterans integrated service networks
+
+Facilities.—
+
+In general
+
+Selection criteria
+
+Program Participants
+
+Provision of Assisted Living Services.—
+
+Agreements
+
+Standards
+
+Inspection
+
+Payment to certain facilities.—
+
+State homes
+
+Community assisted living facilities
+
+Continuity of Care
+
+Determination of Quality
+
+Annual Report
+
+Final Report
+
+Inspector General Report.—
+
+In general
+
+Elements
+
+Plan required
+
+Termination.—
+
+In general
+
+Extension
+
+Definitions
+
+Program Authority
+
+Locations of Pilot Program
+
+Scope of Program
+
+Eligible Veterans
+
+Report
+
+Duration
+
+Definition
+
+Standards
+
+## Source Credit
+
+*(Added [Pub. L. 106–117, title I, § 101(c)(1)](https://www.govinfo.gov/link/plaw/106/public/117), Nov. 30, 1999, [113 Stat. 1548](https://www.govinfo.gov/link/statute/113/1548); amended [Pub. L. 107–14, § 8(a)(2)](https://www.govinfo.gov/link/plaw/107/public/14), (16), June 5, 2001, [115 Stat. 34](https://www.govinfo.gov/link/statute/115/34), 35; [Pub. L. 107–103, title V, § 509(b)](https://www.govinfo.gov/link/plaw/107/public/103), Dec. 27, 2001, [115 Stat. 997](https://www.govinfo.gov/link/statute/115/997); [Pub. L. 108–422, title II, § 204](https://www.govinfo.gov/link/plaw/108/public/422), Nov. 30, 2004, [118 Stat. 2382](https://www.govinfo.gov/link/statute/118/2382); [Pub. L. 114–315, title VI, § 603(c)](https://www.govinfo.gov/link/plaw/114/public/315), Dec. 16, 2016, [130 Stat. 1570](https://www.govinfo.gov/link/statute/130/1570); [Pub. L. 115–232, div. A, title VIII, § 809(n)(1)(C)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1843](https://www.govinfo.gov/link/statute/132/1843).)*

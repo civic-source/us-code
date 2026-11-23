@@ -3,9 +3,10 @@ title: "Section 20141 - Power brake safety"
 usc_title: 49
 usc_section: "20141"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 20141"
-generated_at: "2026-03-30T02:56:19.335Z"
+generated_at: "2026-11-23T21:26:40.707Z"
+status: "active"
 ---
 
 # § 20141. Power brake safety
@@ -25,3 +26,92 @@ generated_at: "2026-03-30T02:56:19.335Z"
   - **(3)** trains that operate only on track that is not part of the general railroad system;
   - **(4)** trains that do not exceed 30 miles an hour and do not operate on heavy grades, except for any categories of trains specifically designated by the Secretary; and
   - **(5)** trains that operate in a push mode.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 20141(a) | 45:431(r)(1), (2). | Oct. 16, 1970 , Pub. L. 91–458 , 84 Stat. 971 , § 202(r); added Sept. 3, 1992 , Pub. L. 102–365, § 7 , 106 Stat. 976 . |
+| 20141(b) | 45:431(r)(3). |  |
+| 20141(c) | 45:431(r)(4). |  |
+
+
+Review and Revision of Existing Regulations
+
+Way End-of-Train Devices
+
+Exclusions
+
+Historical and Revision Notes
+
+20141(a)
+
+Oct. 16, 1970
+
+Pub. L. 91–458
+
+84 Stat. 971
+
+Sept. 3, 1992
+
+Pub. L. 102–365, § 7
+
+106 Stat. 976
+
+20141(b)
+
+20141(c)
+
+Government Accountability Office Study.—
+
+In general
+
+Study elements
+
+Report
+
+Emergency Braking Application Testing.—
+
+In general
+
+Independent experts
+
+Testing framework
+
+Funding
+
+Equipment.—
+
+Receipt
+
+Contracted use
+
+Evidence-Based Approach.—
+
+Analysis
+
+Determination
+
+Savings clause
+
+Definitions
+
+Applicable ecp brake system requirements
+
+Class 3 flammable liquid
+
+ECP
+
+ECP brake mode
+
+ECP brake system.—
+
+In general
+
+Inclusions
+
+Railroad carrier
+
+Report date
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 878](https://www.govinfo.gov/link/statute/108/878).)*

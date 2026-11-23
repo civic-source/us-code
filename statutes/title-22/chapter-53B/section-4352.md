@@ -3,9 +3,10 @@ title: "Section 4352 - Responsibility for preparation of FRUS series"
 usc_title: 22
 usc_section: "4352"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4352"
-generated_at: "2026-03-30T02:55:05.411Z"
+generated_at: "2026-11-23T21:25:58.643Z"
+status: "active"
 ---
 
 # § 4352. Responsibility for preparation of FRUS series
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.411Z"
     - **(B)** The Advisory Committee on Historical Diplomatic Documentation shall review records, and shall advise and make recommendations to the Historian concerning all aspects of preparation and publication of the FRUS series, including, in accordance with the procedures contained in section 4353 of this title , the review and selection of records for inclusion in volumes of the series.
   - **(2)** Other departments, agencies, and other entities of the United States Government shall cooperate with the Office of the Historian by providing full and complete access to the records pertinent to United States foreign policy decisions and actions and by providing copies of selected records in accordance with the procedures developed under section 4353 of this title , except that no access to any record, and no provision of any copy of a record, shall be required in the case of any record that was prepared less than 20 years before the date of a request for such access or copy made by the Office of the Historian.
 - **(b)** Notwithstanding any other provision of this chapter, the requirement for the National Archives and Records Administration to provide access to, and copies of, records to the Department of State for the FRUS series shall be governed by chapter 21 of title 44, by any agreement concluded between the Department of State and the National Archives and Records Administration, and, in the case of Presidential records, by section 2204 of such title.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title IV, § 402, as added [Pub. L. 102–138, title I, § 198(a)](https://www.govinfo.gov/link/plaw/102/public/138), Oct. 28, 1991, [105 Stat. 685](https://www.govinfo.gov/link/statute/105/685); amended [Pub. L. 117–81, div. E, title LV, § 5504(1)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2376](https://www.govinfo.gov/link/statute/135/2376).)*

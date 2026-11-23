@@ -3,9 +3,10 @@ title: "Section 21741 - Training and technical assistance for States"
 usc_title: 34
 usc_section: "21741"
 chapter: 217
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 21741"
-generated_at: "2026-03-30T02:55:33.305Z"
+generated_at: "2026-11-23T21:26:09.814Z"
+status: "active"
 ---
 
 # § 21741. Training and technical assistance for States
@@ -17,3 +18,7 @@ The Attorney General, in consultation with the Secretary of Health and Human Ser
     - **(B)** exploitation of elders, including financial abuse and scams targeting elders; and
     - **(C)** neglect of elders; and
   - **(2)** assessing, addressing, and mitigating the physical and psychological trauma to victims of elder abuse.
+
+## Source Credit
+
+*([Pub. L. 115–70, title IV, § 403](https://www.govinfo.gov/link/plaw/115/public/70), Oct. 18, 2017, [131 Stat. 1214](https://www.govinfo.gov/link/statute/131/1214).)*

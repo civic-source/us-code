@@ -3,9 +3,10 @@ title: "Section 2155 - Export licensing procedures"
 usc_title: 42
 usc_section: "2155"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2155"
-generated_at: "2026-03-30T02:56:11.151Z"
+generated_at: "2026-11-23T21:26:32.345Z"
+status: "active"
 ---
 
 # § 2155. Export licensing procedures
@@ -20,3 +21,29 @@ generated_at: "2026-03-30T02:56:11.151Z"
   - **(1)** Timely consideration shall be given by the Commission to requests for export licenses and exemptions and such requests shall be granted upon a determination that all applicable statutory requirements have been met.
   - **(2)** If, after receiving the executive branch judgment that the issuance of a proposed export license will not be inimical to the common defense and security, the Commission does not issue the proposed license on a timely basis because it is unable to make the statutory determinations required under this chapter, the Commission shall publicly issue its decision to that effect, and shall submit the license application to the President. The Commission’s decision shall include an explanation of the basis for the decision and any dissenting or separate views. If, after receiving the proposed license application and reviewing the Commission’s decision, the President determines that withholding the proposed export would be seriously prejudicial to the achievement of United States non-proliferation objectives, or would otherwise jeopardize the common defense and security, the proposed export may be authorized by Executive order: Provided , That prior to any such export, the President shall submit the Executive order, together with his explanation of why, in light of the Commission’s decision, the export should nonetheless be made, to the Congress for a period of sixty days of continuous session (as defined in section 2159(g) of this title ) and shall be referred to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, but any such proposed export shall not occur if during such sixty-day period the Congress adopts a concurrent resolution stating in substance that it does not favor the proposed export. Any such Executive order shall be considered pursuant to the procedures set forth in section 2159 of this title for the consideration of Presidential submissions: And provided further , That the procedures established pursuant to subsection (b) of section 2155a of this title shall provide that the Commission shall immediately initiate review of any application for a license under this section and to the maximum extent feasible shall expeditiously process the application concurrently with the executive branch review, while awaiting the final executive branch judgment. In initiating its review, the Commission may identify a set of concerns and requests for information associated with the projected issuance of such license and shall transmit such concerns and requests to the executive branch which shall address such concerns and requests in its written communications with the Commission. Such procedures shall also provide that if the Commission has not completed action on the application within sixty days after the receipt of an executive branch judgment that the proposed export or exemption is not inimical to the common defense and security or that any export in the category to which the proposed export belongs would not be inimical to the common defense and security because it lacks significance for nuclear explosive purposes, the Commission shall inform the applicant in writing of the reason for delay and provide follow-up reports as appropriate. If the Commission has not completed action by the end of an additional sixty days (a total of one hundred and twenty days from receipt of the executive branch judgment), the President may authorize the proposed export by Executive order, upon a finding that further delay would be excessive and upon making the findings required for such Presidential authorizations under this subsection, and subject to the Congressional review procedures set forth herein. However, if the Commission has commenced procedures for public participation regarding the proposed export under regulations promulgated pursuant to subsection (b) of section 2155a of this title , or—within sixty days after receipt of the executive branch judgment on the proposed export—the Commission has identified and transmitted to the executive branch a set of additional concerns or requests for information, the President may not authorize the proposed export until sixty days after public proceedings are completed or sixty days after a full executive branch response to the Commission’s additional concerns or requests has been made consistent with subsection (a)(1) of this section: Provided further , That nothing in this section shall affect the right of the Commission to obtain data and recommendations from the Secretary of State at any time as provided in subsection (a)(1) of this section.
 - **(c)** In the event that the House of Representatives or the Senate passes a joint resolution which would adopt one or more additional export criteria, or would modify any existing export criteria under this chapter, any such joint resolution shall be referred in the other House to the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives, as the case may be, and shall be considered by the other House under applicable procedures provided for the consideration of resolutions pursuant to section 2159 of this title .
+
+Definition of Low-Enriched Uranium
+
+Notification
+
+Countries Described
+
+Items Described
+
+Notification of Congress
+
+Applicability
+
+Content of Notification
+
+Jimmy Carter.
+
+Jimmy Carter.
+
+William J. Clinton.
+
+Jimmy Carter.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 126, as added [Pub. L. 95–242, title III, § 304(a)](https://www.govinfo.gov/link/plaw/95/public/242), Mar. 10, 1978, [92 Stat. 131](https://www.govinfo.gov/link/statute/92/131); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944); amended [Pub. L. 103–437, § 15(f)(5)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4592](https://www.govinfo.gov/link/statute/108/4592); [Pub. L. 105–277, div. G, title XII, § 1225(d)(5)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–774](https://www.govinfo.gov/link/statute/112/2681).)*

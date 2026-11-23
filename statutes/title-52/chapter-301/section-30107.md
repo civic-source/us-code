@@ -3,9 +3,10 @@ title: "Section 30107 - Powers of Commission"
 usc_title: 52
 usc_section: "30107"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 30107"
-generated_at: "2026-03-30T02:56:30.170Z"
+generated_at: "2026-11-23T21:26:42.344Z"
+status: "active"
 ---
 
 # § 30107. Powers of Commission
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:30.170Z"
   - **(1)** Whenever the Commission submits any budget estimate or request to the President or the Office of Management and Budget, it shall concurrently transmit a copy of such estimate or request to the Congress.
   - **(2)** Whenever the Commission submits any legislative recommendation, or testimony, or comments on legislation, requested by the Congress or by any Member of the Congress, to the President or the Office of Management and Budget, it shall concurrently transmit a copy thereof to the Congress or to the Member requesting the same. No officer or agency of the United States shall have any authority to require the Commission to submit its legislative recommendations, testimony, or comments on legislation, to any office or agency of the United States for approval, comments, or review, prior to the submission of such recommendations, testimony, or comments to the Congress.
 - **(e)** Except as provided in section 30109(a)(8) of this title , the power of the Commission to initiate civil actions under subsection (a)(6) shall be the exclusive civil remedy for the enforcement of the provisions of this Act.
+
+## Source Credit
+
+*([Pub. L. 92–225, title III, § 307](https://www.govinfo.gov/link/plaw/92/public/225), formerly § 311, as added [Pub. L. 93–443, title II, § 208(a)](https://www.govinfo.gov/link/plaw/93/public/443), Oct. 15, 1974, [88 Stat. 1282](https://www.govinfo.gov/link/statute/88/1282); renumbered § 310 and amended [Pub. L. 94–283, title I](https://www.govinfo.gov/link/plaw/94/public/283), §§ 105, 107, 115(b), May 11, 1976, [90 Stat. 481](https://www.govinfo.gov/link/statute/90/481), 495; renumbered § 307 and amended [Pub. L. 96–187, title I](https://www.govinfo.gov/link/plaw/96/public/187), §§ 105(3), 106, Jan. 8, 1980, [93 Stat. 1354](https://www.govinfo.gov/link/statute/93/1354), 1356; [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095).)*

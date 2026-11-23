@@ -3,9 +3,10 @@ title: "Section 155a - Authority of Chief Information Officer"
 usc_title: 47
 usc_section: "155a"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 155a"
-generated_at: "2026-03-30T02:56:24.493Z"
+generated_at: "2026-11-23T21:26:35.934Z"
+status: "active"
 ---
 
 # § 155a. Authority of Chief Information Officer
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:24.493Z"
   - **(2)** the management, governance, and oversight processes related to information technology; and
   - **(3)** the hiring of personnel with information technology responsibilities.
 - **(b)** The Chief Information Officer of the Commission, in consultation with the Chief Financial Officer of the Commission and budget officials, shall specify and approve the allocation of amounts appropriated to the Commission for information technology, consistent with the provisions of appropriations Acts, budget guidelines, and recommendations from the Director of the Office of Management and Budget.
+
+## Source Credit
+
+*([Pub. L. 115–141, div. P, title V, § 502](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1091](https://www.govinfo.gov/link/statute/132/1091).)*

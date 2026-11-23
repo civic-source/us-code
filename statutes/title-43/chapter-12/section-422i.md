@@ -3,12 +3,17 @@ title: "Section 422i - Rules and regulations"
 usc_title: 43
 usc_section: "422i"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 422i"
-generated_at: "2026-03-30T02:55:57.448Z"
+generated_at: "2026-11-23T21:26:19.778Z"
+status: "active"
 ---
 
 # § 422i. Rules and regulations
 
 The Secretary is authorized to perform any and all acts and to make such rules and regulations as may be necessary or proper in carrying out the provisions of this subchapter.
 
+
+## Source Credit
+
+*(Aug. 6, 1956, ch. 972, § 9, [70 Stat. 1047](https://www.govinfo.gov/link/statute/70/1047).)*

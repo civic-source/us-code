@@ -3,9 +3,10 @@ title: "Section 3509 - Child victims’ and child witnesses’ rights"
 usc_title: 18
 usc_section: "3509"
 chapter: 223
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3509"
-generated_at: "2026-03-30T02:54:16.517Z"
+generated_at: "2026-11-23T21:25:44.203Z"
+status: "active"
 ---
 
 # § 3509. Child victims’ and child witnesses’ rights
@@ -126,3 +127,75 @@ generated_at: "2026-03-30T02:54:16.517Z"
     - **(A)** Notwithstanding Rule 16 of the Federal Rules of Criminal Procedure, a court shall deny, in any criminal proceeding, any request by the defendant to copy, photograph, duplicate, or otherwise reproduce any property or material that constitutes child pornography (as defined by section 2256 of this title ), so long as the Government makes the property or material reasonably available to the defendant.
     - **(B)** For the purposes of subparagraph (A), property or material shall be deemed to be reasonably available to the defendant if the Government provides ample opportunity for inspection, viewing, and examination at a Government facility of the property or material by the defendant, his or her attorney, and any individual the defendant may seek to qualify to furnish expert testimony at trial.
   - **(3)** In any criminal proceeding, a victim, as defined under section 2259(c)(4), shall have reasonable access to any property or material that constitutes child pornography, as defined under section 2256(8), depicting the victim, for inspection, viewing, and examination at a Government facility or court, by the victim, his or her attorney, and any individual the victim may seek to qualify to furnish expert testimony, but under no circumstances may such child pornography be copied, photographed, duplicated, or otherwise reproduced. Such property or material may be redacted to protect the privacy of third parties.
+
+Definitions
+
+Alternatives to Live In-Court Testimony.—
+
+Child’s live testimony by 2-way closed circuit television.—
+
+Videotaped deposition of child
+
+Handling of videotape
+
+Competency Examinations.—
+
+Effect of federal rules of evidence
+
+Presumption
+
+Requirement of written motion
+
+Requirement of compelling reasons
+
+Persons permitted to be present
+
+Not before jury
+
+Direct examination of child
+
+Appropriate questions
+
+Psychological and psychiatric examinations
+
+Privacy Protection.—
+
+Confidentiality of information
+
+Filing under seal
+
+Protective orders
+
+Disclosure of information
+
+Closing the Courtroom
+
+Victim Impact Statement
+
+Use of Multidisciplinary Child Abuse Teams.—
+
+In general
+
+Role of multidisciplinary child abuse teams
+
+Guardian Ad Litem.—
+
+In general
+
+Duties of guardian ad litem
+
+Immunities
+
+Adult Attendant
+
+Speedy Trial
+
+Stay of Civil Action
+
+Testimonial Aids
+
+Prohibition on Reproduction of Child Pornography.—
+
+## Source Credit
+
+*(Added [Pub. L. 101–647, title II, § 225(a)](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4798](https://www.govinfo.gov/link/statute/104/4798); amended [Pub. L. 103–322, title XXXIII](https://www.govinfo.gov/link/plaw/103/public/322), §§ 330010(6), (7), 330011(e), 330018(b), Sept. 13, 1994, [108 Stat. 2143](https://www.govinfo.gov/link/statute/108/2143), 2145, 2149; [Pub. L. 104–294, title VI, § 605(h)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3510](https://www.govinfo.gov/link/statute/110/3510); [Pub. L. 109–248, title V](https://www.govinfo.gov/link/plaw/109/public/248), §§ 504, 507, July 27, 2006, [120 Stat. 629](https://www.govinfo.gov/link/statute/120/629), 631; [Pub. L. 111–16, § 3(11)](https://www.govinfo.gov/link/plaw/111/public/16), May 7, 2009, [123 Stat. 1608](https://www.govinfo.gov/link/statute/123/1608); [Pub. L. 115–299, § 6](https://www.govinfo.gov/link/plaw/115/public/299), Dec. 7, 2018, [132 Stat. 4388](https://www.govinfo.gov/link/statute/132/4388).)*

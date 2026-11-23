@@ -3,9 +3,10 @@ title: "Section 4053 - Exemptions"
 usc_title: 26
 usc_section: "4053"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4053"
-generated_at: "2026-03-30T02:55:27.798Z"
+generated_at: "2026-11-23T21:26:06.593Z"
+status: "active"
 ---
 
 # § 4053. Exemptions
@@ -38,3 +39,7 @@ No tax shall be imposed by section 4051 on any of the following articles:
     - **(A)** is designed to provide to a vehicle those services (such as heat, air conditioning, or electricity) that would otherwise require the operation of the main drive engine while the vehicle is temporarily parked or remains stationary using one or more devices affixed to a tractor, and
     - **(B)** is determined by the Administrator of the Environmental Protection Agency, in consultation with the Secretary of Energy and the Secretary of Transportation, to reduce idling of such vehicle at a motor vehicle rest stop or other location where such vehicles are temporarily parked or remain stationary.
   - **(10)** Any insulation that has an R value of not less than R35 per inch.
+
+## Source Credit
+
+*(Added [Pub. L. 97–424, title V, § 512(b)(1)](https://www.govinfo.gov/link/plaw/97/public/424), Jan. 6, 1983, [96 Stat. 2176](https://www.govinfo.gov/link/statute/96/2176); amended [Pub. L. 98–369, div. A, title VII, § 735(b)(1)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 981](https://www.govinfo.gov/link/statute/98/981); [Pub. L. 108–357, title VIII, § 851(a)(1)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1607](https://www.govinfo.gov/link/statute/118/1607); [Pub. L. 110–343, div. B, title II, § 206(a)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3839](https://www.govinfo.gov/link/statute/122/3839).)*

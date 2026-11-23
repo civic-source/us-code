@@ -3,9 +3,10 @@ title: "Section 20129 - LGBT specific services program"
 usc_title: 34
 usc_section: "20129"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20129"
-generated_at: "2026-03-30T02:55:33.294Z"
+generated_at: "2026-11-23T21:26:09.774Z"
+status: "active"
 ---
 
 # § 20129. LGBT specific services program
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:33.294Z"
 - **(e)** The Director shall award a contract or cooperative agreement to evaluate programs under this section to an entity with the demonstrated expertise in and primary goal of providing enhanced access to services and resources for victims of domestic violence, dating violence, sexual assault, and stalking who face obstacles to using more traditional services and resources.
 - **(f)** Nothing in this section shall be construed to exclude LGBT community-based organizations from applying to other grant programs authorized under this Act.
 - **(g)** There are authorized to be appropriated to carry out this section $8,000,000 for each of fiscal years 2023 through 2027, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 117–103, div. W, title II, § 206](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 861](https://www.govinfo.gov/link/statute/136/861).)*

@@ -3,9 +3,10 @@ title: "Section 3714 - Use of funds for unspecified purposes or for increased am
 usc_title: 50
 usc_section: "3714"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3714"
-generated_at: "2026-03-30T02:56:26.260Z"
+generated_at: "2026-11-23T21:26:39.066Z"
+status: "active"
 ---
 
 # § 3714. Use of funds for unspecified purposes or for increased amounts
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:26.260Z"
     - **(A)** notification of the intent of the Secretary to make such an obligation or expenditure of funds in excess of such authorized amount; and
     - **(B)** a complete discussion of the justification for exceeding such specified amounts, including the amount by which the Secretary will exceed such specified amounts; and
   - **(3)** a period of 15 days has elapsed following the date on which the Secretary submits the notification and discussion under paragraph (2).
+
+## Source Credit
+
+*([Pub. L. 113–291, div. A, title XIII, § 1324](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3599](https://www.govinfo.gov/link/statute/128/3599); [Pub. L. 114–328, div. A, title XIII, § 1302(b)(4)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2566](https://www.govinfo.gov/link/statute/130/2566); [Pub. L. 115–91, div. A, title XIII, § 1302(b)(2)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1705](https://www.govinfo.gov/link/statute/131/1705).)*

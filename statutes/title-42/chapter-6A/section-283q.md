@@ -3,9 +3,10 @@ title: "Section 283q - Eureka prize competitions"
 usc_title: 42
 usc_section: "283q"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 283q"
-generated_at: "2026-03-30T02:56:10.739Z"
+generated_at: "2026-11-23T21:26:30.466Z"
+status: "active"
 ---
 
 # § 283q. Eureka prize competitions
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:10.739Z"
     - **(A)** the effect of innovations funded through the prize competitions under this section in advancing biomedical science or improving health outcomes pursuant to subsection (a); and
     - **(B)** the effect of the innovations on Federal expenditures; and
   - **(2)** include the information collected under paragraph (1) in the triennial report under section 283 of this title (as amended by section 2032).
+
+## Source Credit
+
+*([Pub. L. 114–255, div. A, title II, § 2002](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1047](https://www.govinfo.gov/link/statute/130/1047).)*

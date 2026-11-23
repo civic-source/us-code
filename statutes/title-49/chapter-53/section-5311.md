@@ -3,9 +3,10 @@ title: "Section 5311 - Formula grants for rural areas"
 usc_title: 49
 usc_section: "5311"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 5311"
-generated_at: "2026-03-30T02:56:19.314Z"
+generated_at: "2026-11-23T21:26:40.640Z"
+status: "active"
 ---
 
 # § 5311. Formula grants for rural areas
@@ -111,3 +112,324 @@ generated_at: "2026-03-30T02:56:19.314Z"
     - **(D)** For purposes of subparagraph (A)(iii), the term “low-income individual” means an individual whose family income is at or below 100 percent of the poverty line, as that term is defined in section 673(2) of the Community Services Block Grant Act ( 42 U.S.C. 9902(2) ), including any revision required by that section, for a family of the size involved.
     - **(E)** If more than 1 Indian tribe provides public transportation service on tribal lands in a single Tribal Statistical Area, and the Indian tribes do not determine how to allocate the funds apportioned under clause (iii) of subparagraph (A) between the Indian tribes, the Secretary shall allocate the funds so that each Indian tribe shall receive an amount equal to the total amount apportioned under such clause (iii) multiplied by the ratio of the number of annual unlinked passenger trips provided by each Indian tribe, as reported to the National Transit Database, to the total unlinked passenger trips provided by all Indian tribes in the Tribal Statistical Area.
   - **(2)** A recipient that is an Indian tribe may use funds apportioned under this subsection to finance public transportation services provided by a non-tribal provider of public transportation that connects residents of tribal lands with surrounding communities, improves access to employment or healthcare, or otherwise addresses the mobility needs of tribal members.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5311(a) | 49 App.:1614(c) (3d sentence). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 18(b), (c) (2d, 3d sentences), (d), (e) (1st–4th sentences), (f); added Nov. 6, 1978 , Pub. L. 95–599, § 313 , 92 Stat. 2749 , 2750. |
+| 5311(b)(1) | 49 App.:1614(b) (1st sentence 18th–last words, 2d, last sentences), (c) (2d sentence words between 1st and 2d commas). |  |
+| 5311(b)(2) | 49 App.:1614(h). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 18(h); added Apr. 2, 1987 , Pub. L. 100–17, § 323 , 101 Stat. 235 . |
+| 5311(c) | 49 App.:1614(a) (1st sentence). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 18(a) (1st sentence); added Nov. 6, 1978 , Pub. L. 95–599, § 313 , 92 Stat. 2748 ; Jan. 6, 1983 , Pub. L. 97–424, § 316(a) , 96 Stat. 2153 . |
+|  | 49 App.:1614(a) (2d sentence). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 18(a) (2d sentence); added Nov. 6, 1978 , Pub. L. 95–599, § 313 , 92 Stat. 2748 ; Dec. 18, 1991 , Pub. L. 102–240, § 3024 , 105 Stat. 2112 . |
+|  | 49 App.:1614(c) (1st sentence). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 18(c) (1st sentence); added Nov. 6, 1978 , Pub. L. 95–599, § 313 , 92 Stat. 2749 ; Jan. 6, 1983 , Pub. L. 97–424, § 316(b) , 96 Stat. 2153 . |
+| 5311(d) | 49 App.:1614(b) (1st sentence 1st–17th words), (c) (2d sentence words before 1st and after 2d commas). |  |
+| 5311(e)(1) | 49 App.:1614(d). |  |
+| 5311(e)(2) | 49 App.:1614(c) (4th sentence). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 18(c) (4th sentence); added Apr. 2, 1987 , Pub. L. 100–17, § 322 , 101 Stat. 235 . |
+| 5311(f) | 49 App.:1614(i). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 18(i); added Dec. 18, 1991 , Pub. L. 102–240, § 3023 , 105 Stat. 2111 . |
+| 5311(g)(1) | 49 App.:1614(e) (last sentence). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 18(e) (last sentence); added Dec. 19, 1985 , Pub. L. 99–190, § 326 , 99 Stat. 1289 . |
+| 5311(g)(2) | 49 App.:1614(e) (1st–4th sentences). |  |
+| 5311(h) | 49 App.:1614(c) (last sentence). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 18(c) (last sentence); added Oct. 6, 1992 , Pub. L. 102–388, § 502 ( l ), 106 Stat. 1567 . |
+| 5311(i) | 49 App.:1614(g) (related to this section). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 18(g) (related to this section); added Nov. 6, 1978 , Pub. L. 95–599, § 313(a) , 92 Stat. 2750 ; restated Dec. 18, 1991 , Pub. L. 102–240, § 3022 , 105 Stat. 2111 . |
+| 5311(j) | 49 App.:1614(f). |  |
+
+
+Definitions
+
+Recipient
+
+Subrecipient
+
+General Authority.—
+
+Grants authorized
+
+State program.—
+
+In general
+
+Submission to secretary
+
+Approval
+
+Rural transportation assistance program.—
+
+In general
+
+Grants and contracts
+
+Projects of a national scope
+
+Data collection
+
+Apportionments.—
+
+In general
+
+Public transportation on indian reservations
+
+Appalachian development public transportation assistance program.—
+
+Definitions
+
+In general
+
+Apportionment
+
+Special rule
+
+Remaining amounts.—
+
+In general
+
+Apportionment based on land area and population in nonurbanized areas.—
+
+In general
+
+Land area.—
+
+In general
+
+Maximum apportionment
+
+Population
+
+Apportionment based on land area, vehicle revenue miles, and low-income individuals in nonurbanized areas.—
+
+In general
+
+Land area
+
+Vehicle revenue miles
+
+Low-income individuals
+
+Maximum apportionment
+
+Use for Local Transportation Service
+
+Use for Administration, Planning, and Technical Assistance
+
+Intercity Bus Transportation.—
+
+In general
+
+Certification
+
+Government Share of Costs.—
+
+Capital projects.—
+
+In general
+
+Exception
+
+Operating assistance.—
+
+In general
+
+Exception
+
+Remainder
+
+Use of certain funds
+
+Limitation on operating assistance
+
+Transfer of Facilities and Equipment
+
+Relationship to Other Laws.—
+
+In general
+
+Rule of construction
+
+Formula Grants for Public Transportation on Indian Reservations.—
+
+Apportionment.—
+
+In general
+
+Limitation
+
+Remaining amounts
+
+Low-income individuals
+
+Allocation between multiple indian tribes
+
+Non-tribal service providers
+
+Historical and Revision Notes
+
+5311(a)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 313
+
+92 Stat. 2749
+
+5311(b)(1)
+
+5311(b)(2)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 323
+
+101 Stat. 235
+
+5311(c)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 313
+
+92 Stat. 2748
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 316(a)
+
+96 Stat. 2153
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 313
+
+92 Stat. 2748
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3024
+
+105 Stat. 2112
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 313
+
+92 Stat. 2749
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 316(b)
+
+96 Stat. 2153
+
+5311(d)
+
+5311(e)(1)
+
+5311(e)(2)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 322
+
+101 Stat. 235
+
+5311(f)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3023
+
+105 Stat. 2111
+
+5311(g)(1)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Dec. 19, 1985
+
+Pub. L. 99–190, § 326
+
+99 Stat. 1289
+
+5311(g)(2)
+
+5311(h)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Oct. 6, 1992
+
+Pub. L. 102–388, § 502
+
+106 Stat. 1567
+
+5311(i)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 313(a)
+
+92 Stat. 2750
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3022
+
+105 Stat. 2111
+
+5311(j)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 809](https://www.govinfo.gov/link/statute/108/809); [Pub. L. 105–178, title III, § 3014(a)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 359](https://www.govinfo.gov/link/statute/112/359); [Pub. L. 109–59, title III](https://www.govinfo.gov/link/plaw/109/public/59), §§ 3002(b)(4), 3013(a)–(h), Aug. 10, 2005, [119 Stat. 1545](https://www.govinfo.gov/link/statute/119/1545), 1593–1596; [Pub. L. 110–244, title II, § 201(e)](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1610](https://www.govinfo.gov/link/statute/122/1610); [Pub. L. 111–147, title IV, § 434](https://www.govinfo.gov/link/plaw/111/public/147), Mar. 18, 2010, [124 Stat. 89](https://www.govinfo.gov/link/statute/124/89); [Pub. L. 111–322, title II, § 2304](https://www.govinfo.gov/link/plaw/111/public/322), Dec. 22, 2010, [124 Stat. 3527](https://www.govinfo.gov/link/statute/124/3527); [Pub. L. 112–5, title III, § 304](https://www.govinfo.gov/link/plaw/112/public/5), Mar. 4, 2011, [125 Stat. 19](https://www.govinfo.gov/link/statute/125/19); [Pub. L. 112–30, title I, § 134](https://www.govinfo.gov/link/plaw/112/public/30), Sept. 16, 2011, [125 Stat. 351](https://www.govinfo.gov/link/statute/125/351); [Pub. L. 112–102, title III, § 304](https://www.govinfo.gov/link/plaw/112/public/102), Mar. 30, 2012, [126 Stat. 277](https://www.govinfo.gov/link/statute/126/277); [Pub. L. 112–140, title III, § 304](https://www.govinfo.gov/link/plaw/112/public/140), June 29, 2012, [126 Stat. 398](https://www.govinfo.gov/link/statute/126/398); [Pub. L. 112–141, div. B, § 20010](https://www.govinfo.gov/link/plaw/112/public/141), div. G, title III, § 113004, July 6, 2012, [126 Stat. 680](https://www.govinfo.gov/link/statute/126/680), 985; [Pub. L. 113–159, title I, § 1201](https://www.govinfo.gov/link/plaw/113/public/159), Aug. 8, 2014, [128 Stat. 1845](https://www.govinfo.gov/link/statute/128/1845); [Pub. L. 114–21, title I, § 1201](https://www.govinfo.gov/link/plaw/114/public/21), May 29, 2015, [129 Stat. 222](https://www.govinfo.gov/link/statute/129/222); [Pub. L. 114–41, title I, § 1201](https://www.govinfo.gov/link/plaw/114/public/41), July 31, 2015, [129 Stat. 450](https://www.govinfo.gov/link/statute/129/450); [Pub. L. 114–73, title I, § 1201](https://www.govinfo.gov/link/plaw/114/public/73), Oct. 29, 2015, [129 Stat. 572](https://www.govinfo.gov/link/statute/129/572); [Pub. L. 114–87, title I, § 1201](https://www.govinfo.gov/link/plaw/114/public/87), Nov. 20, 2015, [129 Stat. 681](https://www.govinfo.gov/link/statute/129/681); [Pub. L. 114–94, div. A, title III, § 3007](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1464](https://www.govinfo.gov/link/statute/129/1464); [Pub. L. 117–58, div. C, § 30006](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 900](https://www.govinfo.gov/link/statute/135/900).)*

@@ -3,9 +3,10 @@ title: "Section 3631 - Duties of the Attorney General"
 usc_title: 18
 usc_section: "3631"
 chapter: 229
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3631"
-generated_at: "2026-03-30T02:54:16.523Z"
+generated_at: "2026-11-23T21:25:44.220Z"
+status: "active"
 ---
 
 # § 3631. Duties of the Attorney General
@@ -33,3 +34,27 @@ generated_at: "2026-03-30T02:54:16.523Z"
     - **(E)** an evaluation of the rates of recidivism among similarly classified prisoners to identify any unwarranted disparities, including disparities among similarly classified prisoners of different demographic groups, in such rates;
   - **(5)** make any revisions or updates to the risk and needs assessment system that the Attorney General determines appropriate pursuant to the review under paragraph (4), including updates to ensure that any disparities identified in paragraph (4)(E) are reduced to the greatest extent possible; and
   - **(6)** report to Congress in accordance with section 3634.
+
+In General
+
+Duties
+
+In General
+
+Formation of Independent Review Committee
+
+Appointment of Independent Review Committee
+
+Composition of the Independent Review Committee
+
+Duties of the Independent Review Committee
+
+Bureau of Prisons Cooperation
+
+Report
+
+Termination
+
+## Source Credit
+
+*(Added [Pub. L. 115–391, title I, § 101(a)](https://www.govinfo.gov/link/plaw/115/public/391), Dec. 21, 2018, [132 Stat. 5195](https://www.govinfo.gov/link/statute/132/5195).)*

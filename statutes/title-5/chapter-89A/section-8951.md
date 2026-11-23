@@ -3,9 +3,10 @@ title: "Section 8951 - Definitions"
 usc_title: 5
 usc_section: "8951"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8951"
-generated_at: "2026-03-30T02:52:56.069Z"
+generated_at: "2026-11-23T21:25:23.456Z"
+status: "active"
 ---
 
 # § 8951. Definitions
@@ -20,3 +21,7 @@ In this chapter:
   - **(6)** The term “employee organization” means an association or other organization of employees which is national in scope, or in which membership is open to all employees of a Government agency who are eligible to enroll in a health benefits plan under chapter 89.
   - **(7)** The term “State” includes the District of Columbia.
   - **(8)** The term “covered TRICARE-eligible individual” means an individual entitled to dental care under chapter 55 of title 10, pursuant to section 1076c of such title, who the Secretary of Defense determines should be an eligible individual for purposes of this chapter.
+
+## Source Credit
+
+*(Added [Pub. L. 108–496, § 2](https://www.govinfo.gov/link/plaw/108/public/496), Dec. 23, 2004, [118 Stat. 4001](https://www.govinfo.gov/link/statute/118/4001); amended [Pub. L. 109–356, title I, § 117(a)(1)](https://www.govinfo.gov/link/plaw/109/public/356), Oct. 16, 2006, [120 Stat. 2027](https://www.govinfo.gov/link/statute/120/2027); [Pub. L. 114–328, div. A, title VII, § 715(a)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2221](https://www.govinfo.gov/link/statute/130/2221); [Pub. L. 115–232, div. A, title VII, § 713(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1811](https://www.govinfo.gov/link/statute/132/1811); [Pub. L. 116–283, div. A, title VII, § 711(a)](https://www.govinfo.gov/link/plaw/116/public/283), (c), Jan. 1, 2021, [134 Stat. 3691](https://www.govinfo.gov/link/statute/134/3691).)*

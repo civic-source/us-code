@@ -3,9 +3,10 @@ title: "Section 4081b - Presence of chiefs of mission at diplomatic posts"
 usc_title: 22
 usc_section: "4081b"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4081b"
-generated_at: "2026-03-30T02:55:05.406Z"
+generated_at: "2026-11-23T21:25:58.624Z"
+status: "active"
 ---
 
 # § 4081b. Presence of chiefs of mission at diplomatic posts
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.406Z"
   - **(3)** The Secretary may waive the requirement under paragraph (1) upon a determination that extenuating circumstances warrant such a waiver and upon submission of a brief description of the determination to the appropriate congressional committees.
   - **(4)** Not later than 90 days after December 23, 2024 , and in each case that a chief of mission arrives at an assigned post more than 60 days after confirmation, the Secretary shall submit to the appropriate congressional committees a report identifying any chief of mission who arrived at the assigned post more than 60 days after confirmation by the Senate, and includes a description of the justification.
 - **(b)** Beginning on April 1, 2025 , for 5 years, the Secretary shall notify the appropriate congressional committees of any chief of mission who has permanently departed from the assigned post within 90 days of the departure.
+
+## Source Credit
+
+*([Pub. L. 118–159, div. G, title LXXII, § 7202](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2528](https://www.govinfo.gov/link/statute/138/2528).)*

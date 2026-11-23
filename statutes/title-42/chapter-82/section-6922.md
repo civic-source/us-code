@@ -3,9 +3,10 @@ title: "Section 6922 - Standards applicable to generators of hazardous waste"
 usc_title: 42
 usc_section: "6922"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6922"
-generated_at: "2026-03-30T02:56:11.271Z"
+generated_at: "2026-11-23T21:26:32.997Z"
+status: "active"
 ---
 
 # § 6922. Standards applicable to generators of hazardous waste
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.271Z"
 - **(b)** Effective September 1, 1985 , the manifest required by subsection (a)(5) shall contain a certification by the generator that—
   - **(1)** the generator of the hazardous waste has a program in place to reduce the volume or quantity and toxicity of such waste to the degree determined by the generator to be economically practicable; and
   - **(2)** the proposed method of treatment, storage, or disposal is that practicable method currently available to the generator which minimizes the present and future threat to human health and the environment.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 3002](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2806](https://www.govinfo.gov/link/statute/90/2806); amended [Pub. L. 95–609, § 7(f)](https://www.govinfo.gov/link/plaw/95/public/609), Nov. 8, 1978, [92 Stat. 3082](https://www.govinfo.gov/link/statute/92/3082); [Pub. L. 96–482, § 8](https://www.govinfo.gov/link/plaw/96/public/482), Oct. 21, 1980, [94 Stat. 2338](https://www.govinfo.gov/link/statute/94/2338); [Pub. L. 98–616, title II, § 224(a)](https://www.govinfo.gov/link/plaw/98/public/616), Nov. 8, 1984, [98 Stat. 3252](https://www.govinfo.gov/link/statute/98/3252).)*

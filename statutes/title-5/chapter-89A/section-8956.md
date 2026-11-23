@@ -3,9 +3,10 @@ title: "Section 8956 - Election of coverage"
 usc_title: 5
 usc_section: "8956"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8956"
-generated_at: "2026-03-30T02:52:56.070Z"
+generated_at: "2026-11-23T21:25:23.457Z"
+status: "active"
 ---
 
 # § 8956. Election of coverage
@@ -20,3 +21,11 @@ generated_at: "2026-03-30T02:52:56.070Z"
     - **(B)** during other times and under other circumstances specified by the Office.
   - **(2)** A transfer under paragraph (1) shall be subject to waiting periods provided under a new plan.
 - **(d)** Coverage under a dental benefits plan under this chapter for any employee or a covered TRICARE-eligible individual enrolled in such a plan and who, as a result of a lapse in appropriations, is furloughed or excepted from furlough and working without pay shall continue during such lapse and may not be cancelled as a result of nonpayment of premiums or other periodic charges due to such lapse.
+
+In general
+
+Long-term care premiums from source other than backpay
+
+## Source Credit
+
+*(Added [Pub. L. 108–496, § 2](https://www.govinfo.gov/link/plaw/108/public/496), Dec. 23, 2004, [118 Stat. 4004](https://www.govinfo.gov/link/statute/118/4004); amended [Pub. L. 116–92, div. A, title XI, § 1111(a)(1)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1600](https://www.govinfo.gov/link/statute/133/1600).)*

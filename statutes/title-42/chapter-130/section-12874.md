@@ -3,9 +3,10 @@ title: "Section 12874 - Homeownership program requirements"
 usc_title: 42
 usc_section: "12874"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12874"
-generated_at: "2026-03-30T02:56:11.434Z"
+generated_at: "2026-11-23T21:26:33.566Z"
+status: "active"
 ---
 
 # § 12874. Homeownership program requirements
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:11.434Z"
   - **(1)** No tenant residing in a dwelling unit in a property on the date the Secretary approves an application for an implementation grant may be evicted by reason of a homeownership program approved under this part.
   - **(2)** If a tenant decides not to purchase a unit, or is not qualified to do so, the Secretary shall, subject to the availability of appropriations, ensure that rental assistance under section 1437f of this title is available for use by each otherwise qualified tenant in that or another property.
   - **(3)** The recipient shall also inform each such tenant that if the tenant chooses to move, the recipient will pay relocation assistance in accordance with the approved homeownership program.
+
+## Source Credit
+
+*([Pub. L. 101–625, title IV, § 424](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4166](https://www.govinfo.gov/link/statute/104/4166).)*

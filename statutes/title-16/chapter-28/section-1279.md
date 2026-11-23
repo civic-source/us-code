@@ -3,12 +3,17 @@ title: "Section 1279 - Withdrawal of public lands from entry, sale, or other dis
 usc_title: 16
 usc_section: "1279"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1279"
-generated_at: "2026-03-30T02:54:22.955Z"
+generated_at: "2026-11-23T21:25:51.856Z"
+status: "active"
 ---
 
 # § 1279. Withdrawal of public lands from entry, sale, or other disposition under public land laws
 
 - **(a)** All public lands within the authorized boundaries of any component of the national wild and scenic rivers system which is designated in section 1274 of this title or which is designated after October 2, 1968 , for inclusion in that system are hereby withdrawn from entry, sale, or other disposition under the public land laws of the United States. This subsection shall not be construed to limit the authorities granted in section 1277(d) or section 1285a of this title .
 - **(b)** All public lands which constitute the bed or bank, or are within one-quarter mile of the bank, of any river which is listed in section 1276(a) of this title are hereby withdrawn from entry, sale, or other disposition under the public land laws of the United States for the periods specified in section 1278(b) of this title . Notwithstanding the foregoing provisions of this subsection or any other provision of this chapter, subject only to valid existing rights, including valid Native selection rights under the Alaska Native Claims Settlement Act [ 43 U.S.C. 1601 et seq.], all public lands which constitute the bed or bank, or are within an area extending two miles from the bank of the river channel on both sides of the river segments referred to in paragraphs (77) through (88) of section 1276(a) of this title are hereby withdrawn from entry, sale, State selection or other disposition under the public land laws of the United States for the periods specified in section 1278(b) of this title .
+
+## Source Credit
+
+*([Pub. L. 90–542, § 8](https://www.govinfo.gov/link/plaw/90/public/542), Oct. 2, 1968, [82 Stat. 915](https://www.govinfo.gov/link/statute/82/915); [Pub. L. 96–487, title VI, § 606(c)](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2417](https://www.govinfo.gov/link/statute/94/2417); [Pub. L. 99–590, title V, § 506](https://www.govinfo.gov/link/plaw/99/public/590), Oct. 30, 1986, [100 Stat. 3336](https://www.govinfo.gov/link/statute/100/3336).)*

@@ -3,9 +3,10 @@ title: "Section 213 - Transferred"
 usc_title: 12
 usc_section: "213"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 213"
-generated_at: "2026-03-30T02:53:53.375Z"
+generated_at: "2026-11-23T21:25:36.774Z"
+status: "transferred"
 ---
 
 # § 213. Transferred

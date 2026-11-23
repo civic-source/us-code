@@ -3,9 +3,10 @@ title: "Section 9530 - Exceptions, waiver, and termination"
 usc_title: 22
 usc_section: "9530"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9530"
-generated_at: "2026-03-30T02:55:05.467Z"
+generated_at: "2026-11-23T21:25:58.777Z"
+status: "active"
 ---
 
 # § 9530. Exceptions, waiver, and termination
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.467Z"
   - **(2)** a notice that—
     - **(A)** the person is not engaging in the activity that was the basis for the sanctions or has taken significant verifiable steps toward stopping the activity; and
     - **(B)** the President has received reliable assurances that the person will not knowingly engage in activity subject to sanctions under this part in the future.
+
+## Source Credit
+
+*([Pub. L. 115–44, title II, § 236](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 921](https://www.govinfo.gov/link/statute/131/921).)*

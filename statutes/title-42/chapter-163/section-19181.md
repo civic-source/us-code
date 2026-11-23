@@ -3,9 +3,10 @@ title: "Section 19181 - Agency responsibilities"
 usc_title: 42
 usc_section: "19181"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19181"
-generated_at: "2026-03-30T02:56:11.541Z"
+generated_at: "2026-11-23T21:26:33.876Z"
+status: "active"
 ---
 
 # § 19181. Agency responsibilities
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:11.541Z"
     - **(D)** Offering additional training programs, including individualized and timely guidance to grant officers, faculty, and postdoctoral researchers at HBCUs, TCUs, and MSIs to ensure their understanding of the requirements for an effective grant proposal.
     - **(E)** Other approaches for making current competitive funding models more accessible for underresourced HBCUs, TCUs, and MSIs.
 - **(d)** Not later than two years after August 9, 2022 , and every five years thereafter, the Director of the Office of Science and Technology Policy shall report to Congress on the implementation by Federal research agencies of the policy guidelines developed under this section.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title V, § 10522](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1620](https://www.govinfo.gov/link/statute/136/1620).)*

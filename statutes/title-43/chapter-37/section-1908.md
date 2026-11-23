@@ -3,9 +3,10 @@ title: "Section 1908 - Experimental stewardship program"
 usc_title: 43
 usc_section: "1908"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1908"
-generated_at: "2026-03-30T02:55:57.494Z"
+generated_at: "2026-11-23T21:26:19.889Z"
+status: "active"
 ---
 
 # § 1908. Experimental stewardship program
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:57.494Z"
   - **(2)** the payment of up to 50 per centum of the amount due the Federal Government from grazing permittees in the form of range improvement work,
   - **(3)** such other incentives as he may deem appropriate.
 - **(b)** No later than December 31, 1985 , the Secretaries shall report to the Congress the results of such experimental program, their evaluation of the fee established in section 1905 of this title and other grazing fee options, and their recommendations to implement a grazing fee schedule for the 1986 and subsequent grazing years.
+
+## Source Credit
+
+*([Pub. L. 95–514, § 12](https://www.govinfo.gov/link/plaw/95/public/514), Oct. 25, 1978, [92 Stat. 1808](https://www.govinfo.gov/link/statute/92/1808).)*

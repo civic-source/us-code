@@ -3,12 +3,25 @@ title: "Section 151 - Definitions; short title"
 usc_title: 45
 usc_section: "151"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 151"
-generated_at: "2026-03-30T02:55:56.542Z"
+generated_at: "2026-11-23T21:26:19.183Z"
+status: "active"
 ---
 
 # § 151. Definitions; short title
 
 When used in this chapter and for the purposes of this chapter— First. The term “carrier” includes any railroad subject to the jurisdiction of the Surface Transportation Board, any express company that would have been subject to subtitle IV of title 49, as of December 31, 1995 ,, 1 1 So in original. and any company which is directly or indirectly owned or controlled by or under common control with any carrier by railroad and which operates any equipment or facilities or performs any service (other than trucking service) in connection with the transportation, receipt, delivery, elevation, transfer in transit, refrigeration or icing, storage, and handling of property transported by railroad, and any receiver, trustee, or other individual or body, judicial or otherwise, when in the possession of the business of any such “carrier”: Provided, however , That the term “carrier” shall not include any street, interurban, or suburban electric railway, unless such railway is operating as a part of a general steam-railroad system of transportation, but shall not exclude any part of the general steam-railroad system of transportation now or hereafter operated by any other motive power. The Surface Transportation Board is authorized and directed upon request of the Mediation Board or upon complaint of any party interested to determine after hearing whether any line operated by electric power falls within the terms of this proviso. The term “carrier” shall not include any company by reason of its being engaged in the mining of coal, the supplying of coal to a carrier where delivery is not beyond the mine tipple, and the operation of equipment or facilities therefor, or in any of such activities. Second. The term “Adjustment Board” means the National Railroad Adjustment Board created by this chapter. Third. The term “Mediation Board” means the National Mediation Board created by this chapter. Fourth. The term “commerce” means commerce among the several States or between any State, Territory, or the District of Columbia and any foreign nation, or between any Territory or the District of Columbia and any State, or between any Territory and any other Territory, or between any Territory and the District of Columbia, or within any Territory or the District of Columbia, or between points in the same State but through any other State or any Territory or the District of Columbia or any foreign nation. Fifth. The term “employee” as used herein includes every person in the service of a carrier (subject to its continuing authority to supervise and direct the manner of rendition of his service) who performs any work defined as that of an employee or subordinate official in the orders of the Surface Transportation Board now in effect, and as the same may be amended or interpreted by orders hereafter entered by the Board pursuant to the authority which is conferred upon it to enter orders amending or interpreting such existing orders: Provided, however , That no occupational classification made by order of the Surface Transportation Board shall be construed to define the crafts according to which railway employees may be organized by their voluntary action, nor shall the jurisdiction or powers of such employee organizations be regarded as in any way limited or defined by the provisions of this chapter or by the orders of the Board. The term “employee” shall not include any individual while such individual is engaged in the physical operations consisting of the mining of coal, the preparation of coal, the handling (other than movement by rail with standard railroad locomotives) of coal not beyond the mine tipple, or the loading of coal at the tipple. Sixth. The term “representative” means any person or persons, labor union, organization, or corporation designated either by a carrier or group of carriers or by its or their employees, to act for it or them. Seventh. The term “district court” includes the United States District Court for the District of Columbia; and the term “court of appeals” includes the United States Court of Appeals for the District of Columbia. This chapter may be cited as the “Railway Labor Act.”
 
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*(May 20, 1926, ch. 347, § 1, [44 Stat. 577](https://www.govinfo.gov/link/statute/44/577); June 7, 1934, ch. 426, [48 Stat. 926](https://www.govinfo.gov/link/statute/48/926); June 21, 1934, ch. 691, § 1, [48 Stat. 1185](https://www.govinfo.gov/link/statute/48/1185); June 25, 1936, ch. 804, [49 Stat. 1921](https://www.govinfo.gov/link/statute/49/1921); Aug. 13, 1940, ch. 664, §§ 2, 3, [54 Stat. 785](https://www.govinfo.gov/link/statute/54/785), 786; June 25, 1948, ch. 646, § 32(a), (b), [62 Stat. 991](https://www.govinfo.gov/link/statute/62/991); May 24, 1949, ch. 139, § 127, [63 Stat. 107](https://www.govinfo.gov/link/statute/63/107); [Pub. L. 104–88, title III, § 322](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 950](https://www.govinfo.gov/link/statute/109/950); [Pub. L. 104–264, title XII, § 1223](https://www.govinfo.gov/link/plaw/104/public/264), Oct. 9, 1996, [110 Stat. 3287](https://www.govinfo.gov/link/statute/110/3287).)*

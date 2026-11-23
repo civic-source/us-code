@@ -3,9 +3,10 @@ title: "Section 1956 - Laundering of monetary instruments"
 usc_title: 18
 usc_section: "1956"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1956"
-generated_at: "2026-03-30T02:54:16.493Z"
+generated_at: "2026-11-23T21:25:44.107Z"
+status: "active"
 ---
 
 # § 1956. Laundering of monetary instruments
@@ -86,3 +87,31 @@ generated_at: "2026-03-30T02:54:16.493Z"
   - **(2)** A prosecution for an attempt or conspiracy offense under this section or section 1957 may be brought in the district where venue would lie for the completed offense under paragraph (1), or in any other district where an act in furtherance of the attempt or conspiracy took place.
   - **(3)** For purposes of this section, a transfer of funds from 1 place to another, by wire or any other means, shall constitute a single, continuing transaction. Any person who conducts (as that term is defined in subsection (c)(2)) any portion of the transaction may be charged in any district in which the transaction takes place.
 - **(j)** Notwithstanding section 3282, no person shall be prosecuted, tried, or punished for a violation of this section or section 1957 if the specified unlawful activity constituting the violation is the activity defined in subsection (c)(7)(B) of this section, unless the indictment is found or the information is instituted not later than 7 years after the date on which the offense was committed.
+
+Penalties.—
+
+In general
+
+Jurisdiction over foreign persons
+
+Court authority over assets
+
+Federal receiver.—
+
+In general
+
+Appointment and authority
+
+environmental crimes
+
+Notice of Conviction of Financial Institutions
+
+Venue
+
+Seven-year Limitation
+
+“The amendments made by this section [amending this section] shall apply to—
+
+## Source Credit
+
+*(Added [Pub. L. 99–570, title I, § 1352(a)](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–18](https://www.govinfo.gov/link/statute/100/3207); amended [Pub. L. 100–690, title VI](https://www.govinfo.gov/link/plaw/100/public/690), §§ 6183, 6465, 6466, 6469(a)(1), 6471(a), (b), title VII, § 7031, Nov. 18, 1988, [102 Stat. 4354](https://www.govinfo.gov/link/statute/102/4354), 4375, 4377, 4378, 4398; [Pub. L. 101–647, title I](https://www.govinfo.gov/link/plaw/101/public/647), §§ 105–108, title XII, § 1205(j), title XIV, §§ 1402, 1404, title XXV, § 2506, title XXXV, § 3557, Nov. 29, 1990, [104 Stat. 4791](https://www.govinfo.gov/link/statute/104/4791), 4792, 4831, 4835, 4862, 4927; [Pub. L. 102–550, title XV](https://www.govinfo.gov/link/plaw/102/public/550), §§ 1504(c), 1524, 1526(a), 1527(a), 1530, 1531, 1534, 1536, Oct. 28, 1992, [106 Stat. 4055](https://www.govinfo.gov/link/statute/106/4055), 4064–4067; [Pub. L. 103–322, title XXXII, § 320104(b)](https://www.govinfo.gov/link/plaw/103/public/322), title XXXIII, §§ 330008(2), 330011(l), 330012, 330019, 330021(1), Sept. 13, 1994, [108 Stat. 2111](https://www.govinfo.gov/link/statute/108/2111), 2142, 2145, 2146, 2149, 2150; [Pub. L. 103–325, title IV](https://www.govinfo.gov/link/plaw/103/public/325), §§ 411(c)(2)(E), 413(c)(1), (d), Sept. 23, 1994, [108 Stat. 2253–2255](https://www.govinfo.gov/link/statute/108/2253); [Pub. L. 104–132, title VII, § 726](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1301](https://www.govinfo.gov/link/statute/110/1301); [Pub. L. 104–191, title II, § 246](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 2018](https://www.govinfo.gov/link/statute/110/2018); [Pub. L. 104–294, title VI](https://www.govinfo.gov/link/plaw/104/public/294), §§ 601(f)(6), 604(b)(38), Oct. 11, 1996, [110 Stat. 3499](https://www.govinfo.gov/link/statute/110/3499), 3509; [Pub. L. 106–569, title VII, § 709(a)](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 3018](https://www.govinfo.gov/link/statute/114/3018); [Pub. L. 107–56, title III](https://www.govinfo.gov/link/plaw/107/public/56), §§ 315, 317, 318, 376, title VIII, § 805(b), title X, § 1004, Oct. 26, 2001, [115 Stat. 308](https://www.govinfo.gov/link/statute/115/308), 310, 311, 342, 378, 392; [Pub. L. 107–273, div. B, title IV](https://www.govinfo.gov/link/plaw/107/public/273), §§ 4002(a)(11), (b)(5), (c)(2), 4005(d)(1), (e), Nov. 2, 2002, [116 Stat. 1807](https://www.govinfo.gov/link/statute/116/1807), 1809, 1812, 1813; [Pub. L. 108–458, title VI, § 6909](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3774](https://www.govinfo.gov/link/statute/118/3774); [Pub. L. 109–164, title I, § 103(b)](https://www.govinfo.gov/link/plaw/109/public/164), Jan. 10, 2006, [119 Stat. 3563](https://www.govinfo.gov/link/statute/119/3563); [Pub. L. 109–177, title III, § 311(c)](https://www.govinfo.gov/link/plaw/109/public/177), title IV, §§ 403(b), (c)(1), 405, 406(a)(2), 409, Mar. 9, 2006, [120 Stat. 242–244](https://www.govinfo.gov/link/statute/120/242), 246; [Pub. L. 110–234, title IV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 4002(b)(1)(B), (D), (2)(M), 4115(c)(1)(A)(i), (B)(ii), May 22, 2008, [122 Stat. 1096](https://www.govinfo.gov/link/statute/122/1096), 1097, 1109; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, §§ 4002(b)(1)(B), (D), (2)(M), 4115(c)(1)(A)(i), (B)(ii), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1858, 1870; [Pub. L. 110–358, title II, § 202](https://www.govinfo.gov/link/plaw/110/public/358), Oct. 8, 2008, [122 Stat. 4003](https://www.govinfo.gov/link/statute/122/4003); [Pub. L. 111–21, § 2(f)(1)](https://www.govinfo.gov/link/plaw/111/public/21), May 20, 2009, [123 Stat. 1618](https://www.govinfo.gov/link/statute/123/1618); [Pub. L. 112–127, § 6](https://www.govinfo.gov/link/plaw/112/public/127), June 5, 2012, [126 Stat. 371](https://www.govinfo.gov/link/statute/126/371); [Pub. L. 114–122, title I, § 105(c)](https://www.govinfo.gov/link/plaw/114/public/122), Feb. 18, 2016, [130 Stat. 101](https://www.govinfo.gov/link/statute/130/101); [Pub. L. 114–231, title V, § 502](https://www.govinfo.gov/link/plaw/114/public/231), Oct. 7, 2016, [130 Stat. 956](https://www.govinfo.gov/link/statute/130/956); [Pub. L. 117–159, div. A, title II, § 12004(a)(4)](https://www.govinfo.gov/link/plaw/117/public/159), June 25, 2022, [136 Stat. 1328](https://www.govinfo.gov/link/statute/136/1328); [Pub. L. 117–263, div. E, title LIX, § 5904(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3441](https://www.govinfo.gov/link/statute/136/3441).)*

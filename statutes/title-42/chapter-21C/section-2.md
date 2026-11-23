@@ -3,9 +3,10 @@ title: "Section 2 - Judicial relief"
 usc_title: 42
 usc_section: "2"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T02:56:11.141Z"
+generated_at: "2026-11-23T21:26:32.297Z"
+status: "active"
 ---
 
 # § 2000cc–2. Judicial relief
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.141Z"
 - **(e)** Nothing in this chapter shall be construed to amend or repeal the Prison Litigation Reform Act of 1995 (including provisions of law amended by that Act).
 - **(f)** The United States may bring an action for injunctive or declaratory relief to enforce compliance with this chapter. Nothing in this subsection shall be construed to deny, impair, or otherwise affect any right or authority of the Attorney General, the United States, or any agency, officer, or employee of the United States, acting under any law other than this subsection, to institute or intervene in any proceeding.
 - **(g)** If the only jurisdictional basis for applying a provision of this chapter is a claim that a substantial burden by a government on religious exercise affects, or that removal of that substantial burden would affect, commerce with foreign nations, among the several States, or with Indian tribes, the provision shall not apply if the government demonstrates that all substantial burdens on, or the removal of all substantial burdens from, similar religious exercise throughout the Nation would not lead in the aggregate to a substantial effect on commerce with foreign nations, among the several States, or with Indian tribes.
+
+## Source Credit
+
+*([Pub. L. 106–274, § 4](https://www.govinfo.gov/link/plaw/106/public/274), Sept. 22, 2000, [114 Stat. 804](https://www.govinfo.gov/link/statute/114/804).)*

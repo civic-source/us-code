@@ -3,9 +3,10 @@ title: "Section 392c - Addition to Hawaiʻi Volcanoes National Park"
 usc_title: 16
 usc_section: "392c"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 392c"
-generated_at: "2026-03-30T02:54:22.753Z"
+generated_at: "2026-11-23T21:25:51.419Z"
+status: "active"
 ---
 
 # § 392c. Addition to Hawaiʻi Volcanoes National Park
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:22.753Z"
   - **(3)** For the purposes of a land exchange with the State of Hawaii, real property owned by the United States Government and selected for use in a land exchange shall not be from among those lands ceded to the United States Government.
 - **(e)** The real property acquired by the Secretary pursuant to this section shall be administered by the Secretary as part of Hawaiʻi Volcanoes National Park, subject to the laws and regulations applicable to the Park.
 - **(f)** There is hereby authorized to be appropriated up to $700,000 to carry out the purpose of this section.
+
+## Source Credit
+
+*(June 20, 1938, ch. 530, § 5, as added [Pub. L. 99–564, § 1](https://www.govinfo.gov/link/plaw/99/public/564), Oct. 27, 1986, [100 Stat. 3179](https://www.govinfo.gov/link/statute/100/3179); amended [Pub. L. 108–352, § 3](https://www.govinfo.gov/link/plaw/108/public/352), Oct. 21, 2004, [118 Stat. 1395](https://www.govinfo.gov/link/statute/118/1395).)*

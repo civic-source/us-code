@@ -3,12 +3,17 @@ title: "Section 674 - Audit of grant recipient; maintenance of rec­ords; conten
 usc_title: 29
 usc_section: "674"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 674"
-generated_at: "2026-03-30T02:55:18.690Z"
+generated_at: "2026-11-23T21:26:02.194Z"
+status: "active"
 ---
 
 # § 674. Audit of grant recipient; maintenance of rec­ords; contents of records; access to books, etc.
 
 - **(a)** Each recipient of a grant under this chapter shall keep such records as the Secretary or the Secretary of Health and Human Services shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grant, the total cost of the project or undertaking in connection with which such grant is made or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 - **(b)** The Secretary or the Secretary of Health and Human Services, and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and rec­ords of the recipients of any grant under this chapter that are pertinent to any such grant.
+
+## Source Credit
+
+*([Pub. L. 91–596, § 25](https://www.govinfo.gov/link/plaw/91/public/596), Dec. 29, 1970, [84 Stat. 1615](https://www.govinfo.gov/link/statute/84/1615); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695).)*

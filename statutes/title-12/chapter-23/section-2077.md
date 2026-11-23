@@ -3,12 +3,17 @@ title: "Section 2077 - Taxation"
 usc_title: 12
 usc_section: "2077"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2077"
-generated_at: "2026-03-30T02:53:53.472Z"
+generated_at: "2026-11-23T21:25:37.053Z"
+status: "active"
 ---
 
 # § 2077. Taxation
 
 Each production credit association and its obligations are instrumentalities of the United States and as such any and all notes, debentures, and other obligations issued by such associations shall be exempt, both as to principal and interest, from all taxation (except surtaxes, estate, inheritance, and gift taxes) now or hereafter imposed by the United States or any State, territorial, or local taxing authority, except that interest on such obligations shall be subject to Federal income taxation in the hands of the holder.
 
+
+## Source Credit
+
+*([Pub. L. 92–181, title II, § 2](https://www.govinfo.gov/link/plaw/92/public/181).7, formerly § 2.6, as added [Pub. L. 100–233, title IV, § 401](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1633](https://www.govinfo.gov/link/statute/101/1633); amended [Pub. L. 100–399, title IV, § 401(r)](https://www.govinfo.gov/link/plaw/100/public/399), Aug. 17, 1988, [102 Stat. 998](https://www.govinfo.gov/link/statute/102/998); renumbered § 2.7, [Pub. L. 101–624, title XVIII, § 1833(1)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3832](https://www.govinfo.gov/link/statute/104/3832).)*

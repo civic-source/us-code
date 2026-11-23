@@ -3,9 +3,10 @@ title: "Section 5623 - Expanded access to mainstream financial institutions"
 usc_title: 12
 usc_section: "5623"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5623"
-generated_at: "2026-03-30T02:53:53.549Z"
+generated_at: "2026-11-23T21:25:37.299Z"
+status: "active"
 ---
 
 # § 5623. Expanded access to mainstream financial institutions
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.549Z"
   - **(2)** Subject to regulations prescribed by the Secretary, an eligible entity may, in participating in a program established under subsection (a), offer or provide to low- and moderate-income individuals products and services relating to accounts, including—
     - **(A)** small-dollar value loans; and
     - **(B)** financial education and counseling relating to conducting transactions in and managing accounts.
+
+## Source Credit
+
+*([Pub. L. 111–203, title XII, § 1204](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2130](https://www.govinfo.gov/link/statute/124/2130).)*

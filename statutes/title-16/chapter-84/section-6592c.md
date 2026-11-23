@@ -3,9 +3,10 @@ title: "Section 6592c - Emergency actions"
 usc_title: 16
 usc_section: "6592c"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6592c"
-generated_at: "2026-03-30T02:54:23.065Z"
+generated_at: "2026-11-23T21:25:52.048Z"
+status: "active"
 ---
 
 # § 6592c. Emergency actions
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:54:23.065Z"
 - **(d)** An authorized emergency action carried out under this section shall not be subject to objection under the predecisional administrative review processes established under section 6515 of this title and section 428 of the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2012 ( 16 U.S.C. 6515 note; Public Law 112–74 ).
 - **(e)** A court shall not enjoin an authorized emergency action under this section if the court determines that the plaintiff is unable to demonstrate that the claim of the plaintiff is likely to succeed on the merits.
 - **(f)** The Secretary shall provide notification and guidance to each local field office of the Forest Service to ensure awareness of, compliance with, and appropriate use of the authorized emergency action authority under this section.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title VIII, § 40807](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1112](https://www.govinfo.gov/link/statute/135/1112).)*

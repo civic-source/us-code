@@ -3,9 +3,10 @@ title: "Section 1342 - Institution of termination proceedings by the corporation
 usc_title: 29
 usc_section: "1342"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1342"
-generated_at: "2026-03-30T02:55:18.732Z"
+generated_at: "2026-11-23T21:26:02.289Z"
+status: "active"
 ---
 
 # § 1342. Institution of termination proceedings by the corporation
@@ -70,3 +71,29 @@ generated_at: "2026-03-30T02:55:18.732Z"
 - **(h)**
   - **(1)** The amount of compensation paid to each trustee appointed under the provisions of this subchapter shall require the prior approval of the corporation, and, in the case of a trustee appointed by a court, the consent of that court.
   - **(2)** Trustees shall appoint, retain, and compensate accountants, actuaries, and other professional service personnel in accordance with regulations prescribed by the corporation.
+
+Disclosure of termination information.—
+
+In general.—
+
+Information from plan sponsor or administrator
+
+Information from corporation
+
+Timing of disclosure
+
+Confidentiality.—
+
+In general
+
+Limitation
+
+Form and manner of information; charges.—
+
+Form and manner
+
+Reasonable charges
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4042](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 1021](https://www.govinfo.gov/link/statute/88/1021); [Pub. L. 95–598, title III, § 321(a)](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2678](https://www.govinfo.gov/link/statute/92/2678); [Pub. L. 96–364, title IV, § 402(a)(6)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1298](https://www.govinfo.gov/link/statute/94/1298); [Pub. L. 99–272, title XI](https://www.govinfo.gov/link/plaw/99/public/272), §§ 11010, 11016(c)(10), (11), Apr. 7, 1986, [100 Stat. 253](https://www.govinfo.gov/link/statute/100/253), 274; [Pub. L. 100–203, title IX](https://www.govinfo.gov/link/plaw/100/public/203), §§ 9312(c)(3), 9314(b), 9314(b), Dec. 22, 1987, [101 Stat. 1330–363](https://www.govinfo.gov/link/statute/101/1330), 1330–366, 1330–367; [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7881(g)(7), 7891(a)(1), 7893(e), Dec. 19, 1989, [103 Stat. 2441](https://www.govinfo.gov/link/statute/103/2441), 2445, 2447; [Pub. L. 103–465, title VII, § 771(e)(2)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 5043](https://www.govinfo.gov/link/statute/108/5043); [Pub. L. 109–280, title V, § 506(b)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 947](https://www.govinfo.gov/link/statute/120/947); [Pub. L. 110–458, title I, § 105(e)(2)](https://www.govinfo.gov/link/plaw/110/public/458), Dec. 23, 2008, [122 Stat. 5105](https://www.govinfo.gov/link/statute/122/5105).)*

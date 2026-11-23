@@ -3,9 +3,10 @@ title: "Section 4682 - Definitions and special rules"
 usc_title: 26
 usc_section: "4682"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4682"
-generated_at: "2026-03-30T02:55:27.805Z"
+generated_at: "2026-11-23T21:26:06.638Z"
+status: "active"
 ---
 
 # § 4682. Definitions and special rules
@@ -14,7 +15,31 @@ generated_at: "2026-03-30T02:55:27.805Z"
   - **(1)** The term “ozone-depleting chemical” means any substance—
     - **(A)** which, at the time of the sale or use by the manufacturer, producer, or importer, is listed as an ozone-depleting chemical in the table contained in paragraph (2), and
     - **(B)** which is manufactured or produced in the United States or entered into the United States for consumption, use, or warehousing.
-  - **(2)** Common name: Chemical nomenclature: CFC–11 trichlorofluoromethane CFC–12 dichlorodifluoromethane CFC–113 trichlorotrifluoroethane CFC–114 1,2-dichloro-1,1,2,2-tetra- fluoroethane CFC–115 chloropentafluoroethane Halon-1211 bromochlorodifluoro- methane Halon-1301 bromotrifluoromethane Halon-2402 dibromotetrafluoroethane Carbon tetrachloride Tetrachloromethane Methyl chloroform 1,1,1-trichloroethane CFC–13 CF3Cl CFC–111 C2FCl5 CFC–112 C2F2Cl4 CFC–211 C3FCl7 CFC–212 C3F2Cl6 CFC–213 C3F3Cl5 CFC–214 C3F4Cl4 CFC–215 C3F5Cl3 CFC–216 C3F6Cl2 CFC–217 C3F7Cl.
+  - **(2)**
+
+| Common name: | Chemical nomenclature: |
+| --- | --- |
+| CFC–11 | trichlorofluoromethane |
+| CFC–12 | dichlorodifluoromethane |
+| CFC–113 | trichlorotrifluoroethane |
+| CFC–114 | 1,2-dichloro-1,1,2,2-tetra- fluoroethane |
+| CFC–115 | chloropentafluoroethane |
+| Halon-1211 | bromochlorodifluoro- methane |
+| Halon-1301 | bromotrifluoromethane |
+| Halon-2402 | dibromotetrafluoroethane |
+| Carbon tetrachloride | Tetrachloromethane |
+| Methyl chloroform | 1,1,1-trichloroethane |
+| CFC–13 | CF3Cl |
+| CFC–111 | C2FCl5 |
+| CFC–112 | C2F2Cl4 |
+| CFC–211 | C3FCl7 |
+| CFC–212 | C3F2Cl6 |
+| CFC–213 | C3F3Cl5 |
+| CFC–214 | C3F4Cl4 |
+| CFC–215 | C3F5Cl3 |
+| CFC–216 | C3F6Cl2 |
+| CFC–217 | C3F7Cl. |
+
 - **(b)** For purposes of this subchapter, the term “ozone-depletion factor” means, with respect to an ozone-depleting chemical, the factor assigned to such chemical under the following table: Ozone-depleting chemical: Ozone-depletion factor: CFC–11 1.0 CFC–12 1.0 CFC–113 0.8 CFC–114 1.0 CFC–115 0.6 Halon-1211 3.0 Halon-1301 10.0 Halon-2402 6.0 Carbon tetrachloride 1.1 Methyl chloroform 0.1 CFC–13 1.0 CFC–111 1.0 CFC–112 1.0 CFC–211 1.0 CFC–212 1.0 CFC–213 1.0 CFC–214 1.0 CFC–215 1.0 CFC–216 1.0 CFC–217 1.0.
 - **(c)** For purposes of this subchapter—
   - **(1)** The term “imported taxable product” means any product (other than an ozone-depleting chemical) entered into the United States for consumption, use, or warehousing if any ozone-depleting chemical was used as material in the manufacture or production of such product.
@@ -68,3 +93,119 @@ generated_at: "2026-03-30T02:55:27.805Z"
     - **(C)** For purposes of this paragraph, the term “tax-increase date” means January 1 of any calendar year.
   - **(2)** The taxes imposed by this subsection on January 1 of any calendar year shall be paid on or before June 30 of such year.
   - **(3)** All other provisions of law, including penalties, applicable with respect to the taxes imposed by section 4681 shall apply to the floor stocks taxes imposed by this subsection.
+
+| Ozone-depleting chemical: | Ozone-depletion factor: |
+| --- | --- |
+| CFC–11 | 1.0 |
+| CFC–12 | 1.0 |
+| CFC–113 | 0.8 |
+| CFC–114 | 1.0 |
+| CFC–115 | 0.6 |
+| Halon-1211 | 3.0 |
+| Halon-1301 | 10.0 |
+| Halon-2402 | 6.0 |
+| Carbon tetrachloride | 1.1 |
+| Methyl chloroform | 0.1 |
+| CFC–13 | 1.0 |
+| CFC–111 | 1.0 |
+| CFC–112 | 1.0 |
+| CFC–211 | 1.0 |
+| CFC–212 | 1.0 |
+| CFC–213 | 1.0 |
+| CFC–214 | 1.0 |
+| CFC–215 | 1.0 |
+| CFC–216 | 1.0 |
+| CFC–217 | 1.0. |
+
+
+CFC–11
+
+CFC–12
+
+CFC–113
+
+CFC–114
+
+CFC–115
+
+Halon-1211
+
+Halon-1301
+
+Halon-2402
+
+Carbon tetrachloride
+
+Methyl chloroform
+
+CFC–13
+
+CFC–111
+
+CFC–112
+
+CFC–211
+
+CFC–212
+
+CFC–213
+
+CFC–214
+
+CFC–215
+
+CFC–216
+
+CFC–217
+
+CFC–11
+
+CFC–12
+
+CFC–113
+
+CFC–114
+
+CFC–115
+
+Halon-1211
+
+Halon-1301
+
+Halon-2402
+
+Carbon tetrachloride
+
+Methyl chloroform
+
+CFC–13
+
+CFC–111
+
+CFC–112
+
+CFC–211
+
+CFC–212
+
+CFC–213
+
+CFC–214
+
+CFC–215
+
+CFC–216
+
+CFC–217
+
+Recycled halon.—
+
+In general
+
+Halon-1211
+
+Metered-dose inhalers
+
+## Source Credit
+
+*(Added [Pub. L. 101–239, title VII, § 7506(a)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2365](https://www.govinfo.gov/link/statute/103/2365); amended [Pub. L. 101–508, title XI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 11203(a), (b), (d), 11701(g), Nov. 5, 1990, [104 Stat. 1388–421](https://www.govinfo.gov/link/statute/104/1388), 1388–422, 1388–508; [Pub. L. 102–486, title XIX](https://www.govinfo.gov/link/plaw/102/public/486), §§ 1931(b), (c), 1932(a)–(c), Oct. 24, 1992, [106 Stat. 3029–3031](https://www.govinfo.gov/link/statute/106/3029); [Pub. L. 104–188, title I, § 1803(a)(1)](https://www.govinfo.gov/link/plaw/104/public/188), (b), Aug. 20, 1996, [110 Stat. 1892](https://www.govinfo.gov/link/statute/110/1892), 1893; [Pub. L. 105–34, title IX, § 903(a)](https://www.govinfo.gov/link/plaw/105/public/34), title XIV, § 1432(c)(2), Aug. 5, 1997, [111 Stat. 873](https://www.govinfo.gov/link/statute/111/873), 1051; [Pub. L. 113–295, div. A, title II, § 221(a)(107)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4053](https://www.govinfo.gov/link/statute/128/4053).)*

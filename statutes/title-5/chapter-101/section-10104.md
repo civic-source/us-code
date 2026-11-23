@@ -3,9 +3,10 @@ title: "Section 10104 - Recruitment bonuses"
 usc_title: 5
 usc_section: "10104"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 10104"
-generated_at: "2026-03-30T02:52:56.076Z"
+generated_at: "2026-11-23T21:25:23.467Z"
+status: "active"
 ---
 
 # § 10104. Recruitment bonuses
@@ -27,3 +28,27 @@ generated_at: "2026-03-30T02:52:56.076Z"
   - **(2)** Each report submitted under this subsection shall include, with respect to the period covered by such report, a description of how the authority to pay bonuses under this section was used by the Agency, including—
     - **(A)** the number and dollar amount of bonuses paid to individuals holding positions within each pay grade, pay level, or other pay classification; and
     - **(B)** a determination of the extent to which such bonuses furthered the purposes of this section.
+
+In General
+
+Bonus Amount.—
+
+In general
+
+Form of payment
+
+Service Agreements
+
+Eligibility
+
+Termination
+
+Reports.—
+
+In general
+
+Contents
+
+## Source Credit
+
+*(Added [Pub. L. 109–295, title VI, § 621(a)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1414](https://www.govinfo.gov/link/statute/120/1414).)*

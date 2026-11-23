@@ -3,9 +3,10 @@ title: "Section 8302 - Staff department"
 usc_title: 46
 usc_section: "8302"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 8302"
-generated_at: "2026-03-30T02:56:15.552Z"
+generated_at: "2026-11-23T21:26:37.098Z"
+status: "active"
 ---
 
 # § 8302. Staff department
@@ -21,3 +22,25 @@ generated_at: "2026-03-30T02:56:15.552Z"
 - **(f)** A staff officer may not be included in a vessel’s certificate of inspection.
 - **(g)** A registered staff officer serving under this section who is a member of the Navy Reserve may wear on the officer’s uniform special distinguishing insignia prescribed by the Secretary of the Navy.
 - **(h)** The uniform stripes, decoration, or other insignia worn by a staff officer shall be of gold braid or woven gold or silver material. A crewmember (except a staff officer) may not wear any uniform with a staff officer’s identifying insignia.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 8302(a)–(d) | 46:242 46:248 |
+| 8302(e), (f) | 46:246(a) |
+| 8302(g) | 46:245(a) |
+| 8302(h) | 46:245(b) |
+
+
+Historical and Revision Notes
+
+8302(a)–(d)
+
+8302(e), (f)
+
+8302(g)
+
+8302(h)
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 551](https://www.govinfo.gov/link/statute/97/551); [Pub. L. 99–36, § 1(a)(4)](https://www.govinfo.gov/link/plaw/99/public/36), May 15, 1985, [99 Stat. 67](https://www.govinfo.gov/link/statute/99/67); [Pub. L. 109–163, div. A, title V, § 515(f)(3)(A)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3236](https://www.govinfo.gov/link/statute/119/3236); [Pub. L. 116–283, div. G, title LVXXXV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXV], § 8505(b)(10), Jan. 1, 2021, [134 Stat. 4751](https://www.govinfo.gov/link/statute/134/4751).)*

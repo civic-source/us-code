@@ -3,9 +3,10 @@ title: "Section 4693 - Final remedies"
 usc_title: 19
 usc_section: "4693"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4693"
-generated_at: "2026-03-30T02:54:24.715Z"
+generated_at: "2026-11-23T21:25:42.897Z"
+status: "active"
 ---
 
 # § 4693. Final remedies
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:24.715Z"
     - **(B)** to apply any duties or penalties to customs entries for which liquidation was suspended pursuant to section 4692 of this title ; and
   - **(2)** apply other remedies that are appropriate and available under Annex 31–A of the USMCA, until the denial of rights with respect to the case has been remedied.
 - **(b)** The Trade Representative shall promptly notify the Secretary when the denial of rights with respect to a case described in subsection (a) has been remedied.
+
+## Source Credit
+
+*([Pub. L. 116–113, title VII, § 753](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 90](https://www.govinfo.gov/link/statute/134/90).)*

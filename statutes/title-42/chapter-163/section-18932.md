@@ -3,9 +3,10 @@ title: "Section 18932 - Greenhouse gas measurement research"
 usc_title: 42
 usc_section: "18932"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18932"
-generated_at: "2026-03-30T02:56:11.533Z"
+generated_at: "2026-11-23T21:26:33.856Z"
+status: "active"
 ---
 
 # § 18932. Greenhouse gas measurement research
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.533Z"
     - **(D)** foster collaboration among academic researchers, private sector stakeholders, and State, Tribal, territorial, and local officials in the use of Institute testbeds as described in subsection (c);
     - **(E)** conduct activities with research institutions, industry partners, and State and local officials to identify research, testing, and technical standards needs relevant to greenhouse gas emissions; and
     - **(F)** collaborate with other Federal agencies to conduct outreach and coordination to share and promote technical data, tools, and expertise with relevant public and private sector stakeholders, including State, Tribal, territorial, and local officials, to assist such in the accurate measurement of greenhouse gas emissions.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title II, § 10222](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1475](https://www.govinfo.gov/link/statute/136/1475).)*

@@ -3,9 +3,10 @@ title: "Section 4063 - Provision of relief"
 usc_title: 19
 usc_section: "4063"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4063"
-generated_at: "2026-03-30T02:54:24.701Z"
+generated_at: "2026-11-23T21:25:42.873Z"
+status: "active"
 ---
 
 # § 4063. Provision of relief
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:24.701Z"
 - **(f)** No import relief may be provided under this section on—
   - **(1)** any article subject to import relief under chapter 1 of title II of the Trade Act of 1974 ( 19 U.S.C. 2251 et seq.); or
   - **(2)** imports of a CAFTA–DR article of a CAFTA–DR country that is a de minimis supplying country with respect to that article.
+
+## Source Credit
+
+*([Pub. L. 109–53, title III, § 313](https://www.govinfo.gov/link/plaw/109/public/53), Aug. 2, 2005, [119 Stat. 490](https://www.govinfo.gov/link/statute/119/490).)*

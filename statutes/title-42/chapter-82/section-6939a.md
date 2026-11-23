@@ -3,9 +3,10 @@ title: "Section 6939a - Exposure information and health assessments"
 usc_title: 42
 usc_section: "6939a"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6939a"
-generated_at: "2026-03-30T02:56:11.273Z"
+generated_at: "2026-11-23T21:26:33.007Z"
+status: "active"
 ---
 
 # § 6939a. Exposure information and health assessments
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.273Z"
 - **(e)** The Administrator of such Agency shall issue periodic reports which include the results of all the assessments carried out under this section. Such assessments or other activities shall be reported after appropriate peer review.
 - **(f)** For the purposes of this section, the term “health assessments” shall include preliminary assessments of the potential risk to human health posed by individual sites and facilities subject to this section, based on such factors as the nature and extent of contamination, the existence of potential for pathways of human exposure (including ground or surface water contamination, air emissions, and food chain contamination), the size and potential susceptibility of the community within the likely pathways of exposure, the comparison of expected human exposure levels to the short-term and long-term health effects associated with identified contaminants and any available recommended exposure or tolerance limits for such contaminants, and the comparison of existing morbidity and mortality data on diseases that may be associated with the observed levels of exposure. The assessment shall include an evaluation of the risks to the potentially affected population from all sources of such contaminants, including known point or nonpoint sources other than the site or facility in question. A purpose of such preliminary assessments shall be to help determine whether full-scale health or epidemiological studies and medical evaluations of exposed populations shall be undertaken.
 - **(g)** In any case in which a health assessment performed under this section discloses the exposure of a population to the release of a hazardous substance, the costs of such health assessment may be recovered as a cost of response under section 9607 of this title from persons causing or contributing to such release of such hazardous substance or, in the case of multiple releases contributing to such exposure, to all such release.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 3019](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 98–616, title II, § 247(a)](https://www.govinfo.gov/link/plaw/98/public/616), Nov. 8, 1984, [98 Stat. 3265](https://www.govinfo.gov/link/statute/98/3265).)*

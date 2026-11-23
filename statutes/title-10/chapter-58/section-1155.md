@@ -3,9 +3,10 @@ title: "Section 1155 - Statement of benefits"
 usc_title: 10
 usc_section: "1155"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1155"
-generated_at: "2026-03-30T02:53:38.112Z"
+generated_at: "2026-11-23T21:25:32.437Z"
+status: "active"
 ---
 
 # § 1155. Statement of benefits
@@ -14,3 +15,11 @@ generated_at: "2026-03-30T02:53:38.112Z"
   - **(1)** the Secretary of Defense; and
   - **(2)** the Secretary of Veterans Affairs.
 - **(b)** The Secretary concerned shall provide a member of a reserve component with a current assessment of benefits described in subsection (a) upon release of that member from active duty.
+
+Before Separation
+
+Statement for Reserves
+
+## Source Credit
+
+*(Added [Pub. L. 115–232, div. A, title V, § 522(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1756](https://www.govinfo.gov/link/statute/132/1756).)*

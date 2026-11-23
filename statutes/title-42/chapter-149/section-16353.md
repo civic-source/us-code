@@ -3,9 +3,10 @@ title: "Section 16353 - Merit review of proposals"
 usc_title: 42
 usc_section: "16353"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16353"
-generated_at: "2026-03-30T02:56:11.483Z"
+generated_at: "2026-11-23T21:26:33.735Z"
+status: "active"
 ---
 
 # § 16353. Merit review of proposals
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.483Z"
   - **(4)** State and local governments.
   - **(5)** Consortia of entities described in paragraphs (1) through (4).
 - **(c)** It is the sense of Congress that research, development, demonstration, and commercial application activities carried out by the Department should be awarded using competitive procedures, to the maximum extent practicable.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 989](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 911](https://www.govinfo.gov/link/statute/119/911).)*

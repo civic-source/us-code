@@ -3,9 +3,10 @@ title: "Section 6701 - Penalties for aiding and abetting understatement of tax l
 usc_title: 26
 usc_section: "6701"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6701"
-generated_at: "2026-03-30T02:55:27.865Z"
+generated_at: "2026-11-23T21:26:06.923Z"
+status: "active"
 ---
 
 # § 6701. Penalties for aiding and abetting understatement of tax liability
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:27.865Z"
   - **(1)** Except as provided by paragraphs (2) and (3), the penalty imposed by this section shall be in addition to any other penalty provided by law.
   - **(2)** No penalty shall be assessed under subsection (a) or (b) of section 6694 on any person with respect to any document for which a penalty is assessed on such person under subsection (a).
   - **(3)** No penalty shall be assessed under section 6700 on any person with respect to any document for which a penalty is assessed on such person under subsection (a).
+
+## Source Credit
+
+*(Added [Pub. L. 97–248, title III, § 324(a)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 615](https://www.govinfo.gov/link/statute/96/615); amended [Pub. L. 101–239, title VII, § 7735(a)](https://www.govinfo.gov/link/plaw/101/public/239), (b), Dec. 19, 1989, [103 Stat. 2403](https://www.govinfo.gov/link/statute/103/2403).)*

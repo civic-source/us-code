@@ -3,9 +3,10 @@ title: "Section 4308 - Regulations"
 usc_title: 12
 usc_section: "4308"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4308"
-generated_at: "2026-03-30T02:53:53.504Z"
+generated_at: "2026-11-23T21:25:37.174Z"
+status: "active"
 ---
 
 # § 4308. Regulations
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:53.504Z"
       - **(i)** deleting any information which is not required by this chapter; or
       - **(ii)** rearranging the format,
   - **(3)** Model disclosure forms and clauses shall be adopted by the Bureau after duly given notice in the Federal Register and an opportunity for public comment in accordance with section 553 of title 5 .
+
+## Source Credit
+
+*([Pub. L. 102–242, title II, § 269](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2338](https://www.govinfo.gov/link/statute/105/2338); [Pub. L. 102–550, title IX, § 957(b)](https://www.govinfo.gov/link/plaw/102/public/550), title XVI, § 1604(e)(2)(D)–(H), Oct. 28, 1992, [106 Stat. 3897](https://www.govinfo.gov/link/statute/106/3897), 4084; [Pub. L. 111–203, title X, § 1100B(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2109](https://www.govinfo.gov/link/statute/124/2109).)*

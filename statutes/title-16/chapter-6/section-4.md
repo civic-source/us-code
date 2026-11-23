@@ -3,9 +3,10 @@ title: "Section 4 - Limited authority to acquire"
 usc_title: 16
 usc_section: "4"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-30T02:54:22.899Z"
+generated_at: "2026-11-23T21:25:51.729Z"
+status: "active"
 ---
 
 # § 698u–4. Limited authority to acquire
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:22.899Z"
 - **(a)** The Secretary shall acquire, by donation, not more than 180 acres of real property within the boundaries of the Preserve (as described in section 698u–2(b) of this title ) and the improvements on the real property.
 - **(b)** For the purposes of payments made under chapter 69 of title 31, the real property described in subsection (a) shall be deemed to have been acquired for the purposes specified in section 6904(a) of that title.
 - **(c)** No property may be acquired under this section without the consent of the owner of the property. The United States may not acquire fee ownership of any lands within the Preserve other than lands described in this section.
+
+## Source Credit
+
+*([Pub. L. 104–333, div. I, title X, § 1006](https://www.govinfo.gov/link/plaw/104/public/333), Nov. 12, 1996, [110 Stat. 4208](https://www.govinfo.gov/link/statute/110/4208); [Pub. L. 108–352, § 17](https://www.govinfo.gov/link/plaw/108/public/352), Oct. 21, 2004, [118 Stat. 1398](https://www.govinfo.gov/link/statute/118/1398).)*

@@ -3,9 +3,10 @@ title: "Section 1092 - Studies and demonstration projects relating to delivery o
 usc_title: 10
 usc_section: "1092"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1092"
-generated_at: "2026-03-30T02:53:38.107Z"
+generated_at: "2026-11-23T21:25:32.418Z"
+status: "active"
 ---
 
 # § 1092. Studies and demonstration projects relating to delivery of health and medical care
@@ -27,3 +28,165 @@ generated_at: "2026-03-30T02:53:38.107Z"
   - **(6)** The Secretary of Defense may include in the studies and demonstration projects conducted under paragraph (1) studies and demonstration projects to improve the continuity of health care services for family members of mobilized members of the reserve components of the armed forces who are eligible for such services under this chapter, including payment of a stipend for continuation of employer-provided health coverage during extended periods of active duty.
 - **(b)** Subject to the availability of appropriations for that purpose, the Secretary of Defense may enter into contracts or transactions (other than contracts, cooperative agreements, and grants) with public or private agencies, institutions, and organizations to conduct studies and demonstration projects under subsection (a).
 - **(c)** The Secretary of Defense may obtain the advice and recommendations of such advisory committees as the Secretary considers appropriate. Each such committee consulted by the Secretary under this subsection shall evaluate the proposed study or demonstration project as to the soundness of the objectives of such study or demonstration project, the likelihood of obtaining productive results based on such study or demonstration project, the resources which were required to conduct such study or demonstration project, and the relationship of such study or demonstration project to other on­going or completed studies and demonstration projects.
+
+In General
+
+Discharge Through Partnerships
+
+Program Activities
+
+Evaluation Metrics
+
+Reports.—
+
+Initial report
+
+Final report
+
+Termination
+
+In General
+
+Report on Pilot Program.—
+
+In general
+
+Elements
+
+Pilot Program Authorized
+
+Selection of Facilities.—
+
+Categories
+
+OCONUS locations
+
+Contractor-operated facilities
+
+Urgent Care Clinics.—
+
+Placement
+
+Determination
+
+Pharmacies.—
+
+Placement
+
+Determination
+
+Duration
+
+Report
+
+Submission
+
+Elements
+
+Qualified Medical Professional Defined
+
+Pilot Program
+
+Incentive Programs.—
+
+Development
+
+Elements
+
+Use of existing models
+
+Termination
+
+Reports.—
+
+Interim report
+
+Final report
+
+Elements
+
+Definitions
+
+Pilot Program.—
+
+In general
+
+Commencement
+
+Duration
+
+Report
+
+Definitions
+
+Demonstration Project Required
+
+Elements of Demonstration Project.—
+
+Wellness assessment
+
+Population enrolled
+
+Geographic coverage of demonstration project
+
+Programs
+
+Inclusion of incentives required
+
+Evaluation of Demonstration Project
+
+Implementation Plan
+
+Duration of Project
+
+Report.—
+
+In general
+
+Matters covered
+
+Availability of Chiropractic Health Care Services
+
+Implementation and Report
+
+Pilot Program
+
+Requirements of Pilot Program
+
+Consultation Requirements
+
+Selection of Military Installation
+
+Duration of Pilot Program
+
+Reports
+
+Establishment
+
+Membership
+
+Chairman
+
+Meetings
+
+Duties
+
+Report
+
+Applicability of Temporary Organizations Law
+
+Termination
+
+Plan Required
+
+Consultation Requirements
+
+Continuation of Current Services
+
+Report Required
+
+GAO Reports
+
+## Source Credit
+
+*(Added [Pub. L. 98–94, title IX, § 933(a)(1)](https://www.govinfo.gov/link/plaw/98/public/94), Sept. 24, 1983, [97 Stat. 650](https://www.govinfo.gov/link/statute/97/650); amended [Pub. L. 98–557, § 19(14)](https://www.govinfo.gov/link/plaw/98/public/557), Oct. 30, 1984, [98 Stat. 2870](https://www.govinfo.gov/link/statute/98/2870); [Pub. L. 105–261, div. A, title X, § 1031(a)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2123](https://www.govinfo.gov/link/statute/112/2123); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title VII, § 715, Oct. 14, 2008, [122 Stat. 4505](https://www.govinfo.gov/link/statute/122/4505); [Pub. L. 117–263, div. A, title VII, § 717(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2662](https://www.govinfo.gov/link/statute/136/2662).)*

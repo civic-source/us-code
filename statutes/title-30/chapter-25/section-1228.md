@@ -3,9 +3,10 @@ title: "Section 1228 - Interagency cooperation"
 usc_title: 30
 usc_section: "1228"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1228"
-generated_at: "2026-03-30T02:55:29.396Z"
+generated_at: "2026-11-23T21:26:00.417Z"
+status: "active"
 ---
 
 # § 1228. Interagency cooperation
@@ -18,3 +19,7 @@ The President shall, by such means as he deems appropriate, clarify agency respo
   - **(4)** recommendations with respect to allocation of technical effort among Federal agencies;
   - **(5)** review of technical manpower needs, and findings concerning management policies to improve the quality of the Government-wide research effort; and
   - **(6)** actions to facilitate interagency communication at management levels.
+
+## Source Credit
+
+*([Pub. L. 98–409, § 8](https://www.govinfo.gov/link/plaw/98/public/409), Aug. 29, 1984, [98 Stat. 1540](https://www.govinfo.gov/link/statute/98/1540).)*

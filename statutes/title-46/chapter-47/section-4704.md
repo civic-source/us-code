@@ -3,9 +3,10 @@ title: "Section 4704 - Removal of abandoned barges"
 usc_title: 46
 usc_section: "4704"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 4704"
-generated_at: "2026-03-30T02:56:15.548Z"
+generated_at: "2026-11-23T21:26:37.068Z"
+status: "active"
 ---
 
 # § 4704. Removal of abandoned barges
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:15.548Z"
     - **(A)** may be subject to the condition that the barge and all property on the barge is the property of the barge removal contractor; and
     - **(B)** must require the barge removal contractor to submit to the Secretary a plan for the removal.
   - **(3)** Removal of an abandoned barge may begin thirty days after the Secretary completes the procedures under subsection (a)(1).
+
+## Source Credit
+
+*(Added [Pub. L. 102–587, title V, § 5302](https://www.govinfo.gov/link/plaw/102/public/587), Nov. 4, 1992, [106 Stat. 5082](https://www.govinfo.gov/link/statute/106/5082); amended [Pub. L. 119–60, div. G, title LXXIII, § 7347(c)(3)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1781](https://www.govinfo.gov/link/statute/139/1781).)*

@@ -3,9 +3,10 @@ title: "Section 12138 - List of documented vessels"
 usc_title: 46
 usc_section: "12138"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 12138"
-generated_at: "2026-03-30T02:56:15.559Z"
+generated_at: "2026-11-23T21:26:37.138Z"
+status: "active"
 ---
 
 # § 12138. List of documented vessels
@@ -18,3 +19,35 @@ generated_at: "2026-03-30T02:56:15.559Z"
     - **(B)** the abilities and limitations of the vessel with respect to laying, maintaining, and repairing a submarine cable; and
     - **(C)** the name and address of the person to whom inquiries regarding the vessel may be made.
   - **(3)** The Secretary of Transportation shall publish in the Federal Register an updated inventory every 6 months.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 12138(a) | 46:12119. |  |
+| 12138(b) | 46:12119 note. | Pub. L. 107–295, title IV, § 403 , Nov. 25, 2002 , 116 Stat. 2114 . |
+
+
+In General
+
+Vessels for Cable Laying, Maintenance, and Repair
+
+In general
+
+Information to be included
+
+Publication
+
+Historical and Revision Notes
+
+12138(a)
+
+12138(b)
+
+Pub. L. 107–295, title IV, § 403
+
+Nov. 25, 2002
+
+116 Stat. 2114
+
+## Source Credit
+
+*([Pub. L. 109–304, § 5](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1507](https://www.govinfo.gov/link/statute/120/1507).)*

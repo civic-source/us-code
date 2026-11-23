@@ -3,9 +3,10 @@ title: "Section 7131 - Internet safety"
 usc_title: 20
 usc_section: "7131"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7131"
-generated_at: "2026-03-30T02:54:48.205Z"
+generated_at: "2026-11-23T21:25:47.551Z"
+status: "active"
 ---
 
 # § 7131. Internet safety
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:54:48.205Z"
   - **(7)** The term “obscene” has the meaning applicable to that term under section 1460 of title 18 .
   - **(8)** The terms “sexual act” and “sexual contact” have the meanings given those terms in section 2246 of title 18 .
 - **(f)** If any provision of this section is held invalid, the remainder of this section shall not be affected thereby.
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4121](https://www.govinfo.gov/link/plaw/89/public/10), formerly title II, § 2441, as added [Pub. L. 107–110, title II, § 201](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1686](https://www.govinfo.gov/link/statute/115/1686); renumbered title IV, § 4161, renumbered § 4121, [Pub. L. 114–95, title II, § 2001(a)(4)(A)](https://www.govinfo.gov/link/plaw/114/public/95), (B), (D), title IV, § 4001(a)(5)(D), Dec. 10, 2015, [129 Stat. 1913](https://www.govinfo.gov/link/statute/129/1913), 1966.)*

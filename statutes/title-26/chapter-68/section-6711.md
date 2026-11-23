@@ -3,9 +3,10 @@ title: "Section 6711 - Failure by tax-exempt organization to disclose that certa
 usc_title: 26
 usc_section: "6711"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6711"
-generated_at: "2026-03-30T02:55:27.865Z"
+generated_at: "2026-11-23T21:26:06.926Z"
+status: "active"
 ---
 
 # § 6711. Failure by tax-exempt organization to disclose that certain information or service available from Federal Government
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:27.865Z"
     - **(A)** is described in subsection (c) or (d) of section 501 and exempt from taxation under section 501(a), or
     - **(B)** is a political organization (as defined in section 527(e)).
   - **(2)** The day on which any failure referred to in subsection (a) occurs shall be determined under rules similar to the rules of section 6710(d).
+
+## Source Credit
+
+*(Added [Pub. L. 100–203, title X, § 10705(a)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–463](https://www.govinfo.gov/link/statute/101/1330).)*

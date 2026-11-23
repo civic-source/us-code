@@ -3,9 +3,10 @@ title: "Section 152505 - Powers"
 usc_title: 36
 usc_section: "152505"
 chapter: 1525
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 152505"
-generated_at: "2026-03-30T02:55:44.704Z"
+generated_at: "2026-11-23T21:26:13.683Z"
+status: "active"
 ---
 
 # § 152505. Powers
@@ -27,3 +28,21 @@ The corporation may—
   - **(13)** establish and maintain offices to conduct its activities, charter local, State, and regional safety organizations, and establish, regulate, and discontinue departmental subdivisions and local, State, and regional chapters in appropriate places throughout the United States and its territories and possessions;
   - **(14)** sue and be sued; and
   - **(15)** do any other act necessary and proper to carry out the purposes of the corporation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 152505 | 36:464. | Aug. 13, 1953, ch. 429 , §§ 4, 18, 67 Stat. 570 , 574. |
+|  | 36:478. |  |
+
+
+Historical and Revision Notes
+
+152505
+
+Aug. 13, 1953, ch. 429
+
+67 Stat. 570
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1416](https://www.govinfo.gov/link/statute/112/1416).)*

@@ -3,9 +3,10 @@ title: "Section 289b - Authorization of appropriations; payment of salaries and 
 usc_title: 22
 usc_section: "289b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 289b"
-generated_at: "2026-03-30T02:55:05.322Z"
+generated_at: "2026-11-23T21:25:58.372Z"
+status: "active"
 ---
 
 # § 289b. Authorization of appropriations; payment of salaries and expenses
@@ -16,3 +17,7 @@ There is hereby authorized to be appropriated annually to the Department of Stat
 - **(b)** such sums, not to exceed $175,000 for the fiscal year beginning July 1, 1947 , as may be necessary for the payment of—
   - **(1)** salaries of the representative or representatives and alternates provided for in section 289a of this title , and appropriate staff, including personal services in the District of Columbia and elsewhere, without regard to the civil-service laws and chapter 51 and subchapter III of chapter 53 of title 5; and
   - **(2)** such other expenses as the Secretary of State deems necessary to participation by the United States in the activities of the Organization; Provided , That the provisions of section 287e of this title and regulations thereunder, applicable to expenses incurred pursuant to subchapter XVI of this chapter shall be applicable to any expenses incurred pursuant to this chapter.
+
+## Source Credit
+
+*(July 1, 1947, ch. 185, § 3, [61 Stat. 215](https://www.govinfo.gov/link/statute/61/215); Oct. 28, 1949, ch. 782, title II, § 202(2), title XI, § 1106(a), [63 Stat. 954](https://www.govinfo.gov/link/statute/63/954), 972.)*

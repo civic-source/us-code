@@ -3,9 +3,10 @@ title: "Section 8304 - Implementing the Officers’ Competency Certificates Conv
 usc_title: 46
 usc_section: "8304"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 8304"
-generated_at: "2026-03-30T02:56:15.552Z"
+generated_at: "2026-11-23T21:26:37.098Z"
+status: "active"
 ---
 
 # § 8304. Implementing the Officers’ Competency Certificates Convention, 1936
@@ -23,3 +24,16 @@ generated_at: "2026-03-30T02:56:15.552Z"
 - **(g)** A foreign vessel to which the convention described in subsection (b) of this section applies, on the navigable waters of the United States, is subject to detention under subsection (f) of this section, and to an examination that may be necessary to decide if there is compliance with the convention.
 - **(h)** The owner, charterer, managing operator, agent, master, or individual in charge of a vessel detained under subsection (f) or (g) of this section may appeal the order within 5 days as provided by regulation.
 - **(i)** An officer or employee of the Customs Service may be designated to enforce this section.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 8304 | 46:224a 46:241 |
+
+
+Historical and Revision Notes
+
+8304
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 552](https://www.govinfo.gov/link/statute/97/552); [Pub. L. 104–324, title VII, § 730](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3940](https://www.govinfo.gov/link/statute/110/3940).)*

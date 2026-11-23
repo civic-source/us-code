@@ -3,9 +3,10 @@ title: "Section 2578 - Notice of United States participation in international st
 usc_title: 19
 usc_section: "2578"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2578"
-generated_at: "2026-03-30T02:54:24.680Z"
+generated_at: "2026-11-23T21:25:42.818Z"
+status: "active"
 ---
 
 # § 2578. Notice of United States participation in international standard-setting activities
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:24.680Z"
     - **(C)** the agenda for the United States participation, if any; and
     - **(D)** the agency responsible for representing the United States with respect to the standard.
 - **(d)** The agency specified in subsection (c)(2)(D) shall provide an opportunity for public comment with respect to the standards for which the agency is responsible and shall take the comments into account in participating in the consideration of the standards and in proposing matters to be considered by the organization.
+
+## Source Credit
+
+*([Pub. L. 96–39, title IV, § 491](https://www.govinfo.gov/link/plaw/96/public/39), as added [Pub. L. 103–465, title IV, § 432](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4970](https://www.govinfo.gov/link/statute/108/4970).)*

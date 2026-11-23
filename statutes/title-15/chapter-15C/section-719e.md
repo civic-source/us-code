@@ -3,9 +3,10 @@ title: "Section 719e - Presidential decision and report"
 usc_title: 15
 usc_section: "719e"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 719e"
-generated_at: "2026-03-30T02:54:08.119Z"
+generated_at: "2026-11-23T21:25:39.753Z"
+status: "active"
 ---
 
 # § 719e. Presidential decision and report
@@ -25,3 +26,13 @@ generated_at: "2026-03-30T02:54:08.119Z"
 - **(c)** The report of the President pursuant to subsection (b) of this section shall contain a financial analysis for the transportation system designated for approval. Unless the President finds and states in his report submitted pursuant to this section that he reasonably anticipates that the system designated by him can be privately financed, constructed, and operated, his report shall also be accompanied by his recommendation concerning the use of existing Federal financing authority or the need for new Federal financing authority.
 - **(d)** In making his decision under subsection (a) the President shall inform himself, through appropriate consultation, of the views and objectives of the States, the Government of Canada, and other governments with respect to those aspects of such a decision that may involve intergovernmental and international cooperation among the Government of the United States, the States, the Government of Canada, and any other government.
 - **(e)** If the President determines to designate a transportation system for approval, the decision of the President shall take effect as provided in section 719f of this title , except that the approval of a decision of the President shall not be construed as amending or otherwise affecting the laws of the United States so as to grant any new financing authority as may have been identified by the President pursuant to subsection (c).
+
+Jimmy Carter.
+
+The White House
+
+Jimmy Carter.
+
+## Source Credit
+
+*([Pub. L. 94–586, § 7](https://www.govinfo.gov/link/plaw/94/public/586), Oct. 22, 1976, [90 Stat. 2907](https://www.govinfo.gov/link/statute/90/2907); [Pub. L. 102–486, title XXX, § 3012(a)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3128](https://www.govinfo.gov/link/statute/106/3128).)*

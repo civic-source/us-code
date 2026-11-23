@@ -3,9 +3,10 @@ title: "Section 1315a - Center for Medicare and Medicaid Innovation"
 usc_title: 42
 usc_section: "1315a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1315a"
-generated_at: "2026-03-30T02:56:10.907Z"
+generated_at: "2026-11-23T21:26:31.241Z"
+status: "active"
 ---
 
 # § 1315a. Center for Medicare and Medicaid Innovation
@@ -105,3 +106,25 @@ generated_at: "2026-03-30T02:56:10.907Z"
     - **(C)** the amount described in subparagraph (B) for the activities initiated under this section for each subsequent 10-year fiscal period (beginning with the 10-year fiscal period beginning with fiscal year 2020).
   - **(2)** Out of amounts appropriated under subparagraphs (B) and (C) of paragraph (1), not less than $25,000,000 shall be made available each such fiscal year to design, implement, and evaluate models under subsection (b).
 - **(g)** Beginning in 2012, and not less than once every other year thereafter, the Secretary shall submit to Congress a report on activities under this section. Each such report shall describe the models tested under subsection (b), including the number of individuals described in subsection (a)(4)(A)(i) and of individuals described in subsection (a)(4)(A)(ii) participating in such models and payments made under applicable subchapters for services on behalf of such individuals, any models chosen for expansion under subsection (c), and the results from evaluations under subsection (b)(4). In addition, each such report shall provide such recommendations as the Secretary determines are appropriate for legislative action to facilitate the development and expansion of successful payment models.
+
+In General
+
+Duration and Scope
+
+Eligible Safety Net Hospital System or Network
+
+Evaluation.—
+
+Testing
+
+Budget neutrality
+
+Modification
+
+Report
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XI, § 1115A, as added and amended [Pub. L. 111–148, title III, § 3021(a)](https://www.govinfo.gov/link/plaw/111/public/148), title X, § 10306, Mar. 23, 2010, [124 Stat. 389](https://www.govinfo.gov/link/statute/124/389), 939; [Pub. L. 114–10, title I, § 101(e)(4)](https://www.govinfo.gov/link/plaw/114/public/10), Apr. 16, 2015, [129 Stat. 122](https://www.govinfo.gov/link/statute/129/122); [Pub. L. 114–85, § 1](https://www.govinfo.gov/link/plaw/114/public/85), Nov. 5, 2015, [129 Stat. 674](https://www.govinfo.gov/link/statute/129/674); [Pub. L. 115–271, title VI](https://www.govinfo.gov/link/plaw/115/public/271), §§ 6001, 6085(a), Oct. 24, 2018, [132 Stat. 3976](https://www.govinfo.gov/link/statute/132/3976), 3996.)*

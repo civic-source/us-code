@@ -3,9 +3,10 @@ title: "Section 701 - Flood control generally"
 usc_title: 33
 usc_section: "701"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 701"
-generated_at: "2026-03-30T02:55:41.067Z"
+generated_at: "2026-11-23T21:26:11.327Z"
+status: "active"
 ---
 
 # § 701. Flood control generally
@@ -18,3 +19,13 @@ generated_at: "2026-03-30T02:55:41.067Z"
 - **(b)** what share of the expense, if any, should be borne by the United States; and
 - **(c)** the advisability of adopting the project.
 
+
+[Laws applicable to works of improvement relating to flood control.]
+
+[Examinations and surveys; details from Government departments; reports.]
+
+[Reports by Board of Engineers for Rivers and Harbors.]
+
+## Source Credit
+
+*(Mar. 1, 1917, ch. 144, § 3, [39 Stat. 950](https://www.govinfo.gov/link/statute/39/950); July 26, 1947, ch. 343, title II, § 205(a), [61 Stat. 501](https://www.govinfo.gov/link/statute/61/501); [Pub. L. 103–437, § 12(c)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4590](https://www.govinfo.gov/link/statute/108/4590).)*

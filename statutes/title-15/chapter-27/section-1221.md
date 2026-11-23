@@ -3,9 +3,10 @@ title: "Section 1221 - Definitions"
 usc_title: 15
 usc_section: "1221"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1221"
-generated_at: "2026-03-30T02:54:08.130Z"
+generated_at: "2026-11-23T21:25:39.802Z"
+status: "active"
 ---
 
 # § 1221. Definitions
@@ -17,3 +18,7 @@ As used in this chapter—
 - **(c)** The term “automobile dealer” shall mean any person, partnership, corporation, association, or other form of business enterprise resident in the United States or in any Territory thereof or in the District of Columbia operating under the terms of a franchise and engaged in the sale or distribution of passenger cars, trucks, or station wagons.
 - **(d)** The term “commerce” shall mean commerce among the several States of the United States or with foreign nations, or in any Territory of the United States or in the District of Columbia, or among the Territories or between any Territory and any State or foreign nation, or between the District of Columbia and any State or Territory or foreign nation.
 - **(e)** The term “good faith” shall mean the duty of each party to any franchise, and all officers, employees, or agents thereof to act in a fair and equitable manner toward each other so as to guarantee the one party freedom from coercion, intimidation, or threats of coercion or intimidation from the other party: Provided , That recommendation, endorsement, exposition, persuasion, urging or argument shall not be deemed to constitute a lack of good faith.
+
+## Source Credit
+
+*(Aug. 8, 1956, ch. 1038, § 1, [70 Stat. 1125](https://www.govinfo.gov/link/statute/70/1125).)*

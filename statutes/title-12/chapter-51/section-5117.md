@@ -3,9 +3,10 @@ title: "Section 5117 - Employment transition of loan originators"
 usc_title: 12
 usc_section: "5117"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5117"
-generated_at: "2026-03-30T02:53:53.524Z"
+generated_at: "2026-11-23T21:25:37.230Z"
+status: "active"
 ---
 
 # § 5117. Employment transition of loan originators
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:53:53.524Z"
 - **(d)**
   - **(1)** Any person employing an individual who is deemed to have temporary authority to act as a loan originator in an application State under this section shall be subject to the requirements of this chapter and to applicable State law to the same extent as if that individual was a State-licensed loan originator licensed by the application State.
   - **(2)** Any individual who is deemed to have temporary authority to act as a loan originator in an application State under this section and who engages in residential mortgage loan origination activities shall be subject to the requirements of this chapter and to applicable State law to the same extent as if that individual was a State-licensed loan originator licensed by the application State.
+
+## Source Credit
+
+*([Pub. L. 110–289, div. A, title V, § 1518](https://www.govinfo.gov/link/plaw/110/public/289), as added [Pub. L. 115–174, title I, § 106(a)](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1302](https://www.govinfo.gov/link/statute/132/1302).)*

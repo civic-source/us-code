@@ -3,12 +3,17 @@ title: "Section 1411 - Guano districts; claim by United States"
 usc_title: 48
 usc_section: "1411"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1411"
-generated_at: "2026-03-30T02:56:14.584Z"
+generated_at: "2026-11-23T21:26:37.991Z"
+status: "active"
 ---
 
 # § 1411. Guano districts; claim by United States
 
 Whenever any citizen of the United States discovers a deposit of guano on any island, rock, or key, not within the lawful jurisdiction of any other government, and not occupied by the citizens of any other government, and takes peaceable possession thereof, and occupies the same, such island, rock, or key may, at the discretion of the President, be considered as appertaining to the United States.
 
+
+## Source Credit
+
+*(R.S. § 5570.)*

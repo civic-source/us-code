@@ -3,9 +3,10 @@ title: "Section 1395hh - Regulations"
 usc_title: 42
 usc_section: "1395hh"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1395hh"
-generated_at: "2026-03-30T02:56:11.004Z"
+generated_at: "2026-11-23T21:26:31.652Z"
+status: "active"
 ---
 
 # § 1395hh. Regulations
@@ -52,3 +53,19 @@ generated_at: "2026-03-30T02:56:11.004Z"
     - **(A)** information from individuals entitled to benefits under part A or enrolled under part B, or both, providers of services, and suppliers and from the Medicare Beneficiary Ombudsman with respect to such areas of inconsistency and conflict; and
     - **(B)** information from medicare contractors that tracks the nature of written and telephone inquiries.
   - **(3)** A report under paragraph (1) shall include a description of efforts by the Secretary to reduce such inconsistency or conflicts, and recommendations for legislation or administrative action that the Secretary determines appropriate to further reduce such inconsistency or conflicts.
+
+In General
+
+Update of Guidance.—
+
+Periodic update
+
+Consultation
+
+Study
+
+Report
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1871, as added [Pub. L. 89–97, title I, § 102(a)](https://www.govinfo.gov/link/plaw/89/public/97) July 30, 1965, [79 Stat. 331](https://www.govinfo.gov/link/statute/79/331); amended [Pub. L. 99–509, title IX, § 9321(e)(1)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 2017](https://www.govinfo.gov/link/statute/100/2017); [Pub. L. 100–203, title IV, § 4035(b)](https://www.govinfo.gov/link/plaw/100/public/203), (c), Dec. 22, 1987, [101 Stat. 1330–78](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 108–173, title IX](https://www.govinfo.gov/link/plaw/108/public/173), §§ 902(a)(1), (b)(1), 903(a)(1), (b)(1), (c)(1), 904(b), Dec. 8, 2003, [117 Stat. 2375–2377](https://www.govinfo.gov/link/statute/117/2375).)*

@@ -3,9 +3,10 @@ title: "Section 1174a - Special separation benefits programs"
 usc_title: 10
 usc_section: "1174a"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1174a"
-generated_at: "2026-03-30T02:53:38.113Z"
+generated_at: "2026-11-23T21:25:32.441Z"
+status: "active"
 ---
 
 # § 1174a. Special separation benefits programs
@@ -45,3 +46,33 @@ generated_at: "2026-03-30T02:53:38.113Z"
 - **(h)**
   - **(1)** Except as provided in paragraph (2), the Secretary concerned may not conduct a program pursuant to this section after December 31, 2001 .
   - **(2)** No member of the armed forces may be separated under a program established pursuant to this section after the date of the termination of that program.
+
+Requirement for Programs
+
+Benefits
+
+Eligibility
+
+Program Applicability
+
+Applicability Subject to Needs of the Service
+
+Application Requirements
+
+Other Conditions, Requirements, and Administrative Provisions
+
+Termination of Program
+
+Procedure for Review
+
+Application
+
+Purpose of Review
+
+Remedy
+
+Effective Date
+
+## Source Credit
+
+*(Added [Pub. L. 102–190, div. A, title VI, § 661(a)(1)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1394](https://www.govinfo.gov/link/statute/105/1394); amended [Pub. L. 102–484, div. A, title X, § 1052(15)](https://www.govinfo.gov/link/plaw/102/public/484), div. D, title XLIV, §§ 4405(a), 4422(a), Oct. 23, 1992, [106 Stat. 2499](https://www.govinfo.gov/link/statute/106/2499), 2706, 2718; [Pub. L. 103–35, title II, § 202(a)(17)](https://www.govinfo.gov/link/plaw/103/public/35), May 31, 1993, [107 Stat. 102](https://www.govinfo.gov/link/statute/107/102); [Pub. L. 103–160, div. A, title V](https://www.govinfo.gov/link/plaw/103/public/160), §§ 502, 561(g), Nov. 30, 1993, [107 Stat. 1644](https://www.govinfo.gov/link/statute/107/1644), 1668; [Pub. L. 103–337, div. A, title V, § 542(b)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2768](https://www.govinfo.gov/link/statute/108/2768); [Pub. L. 105–261, div. A, title V, § 561(b)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2025](https://www.govinfo.gov/link/statute/112/2025); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title V, § 571(b)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–134; [Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1465](https://www.govinfo.gov/link/statute/125/1465); [Pub. L. 112–239, div. A, title X, § 1076(a)(9)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1948](https://www.govinfo.gov/link/statute/126/1948); [Pub. L. 117–263, div. A, title VI, § 626(c)(2)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2628](https://www.govinfo.gov/link/statute/136/2628).)*

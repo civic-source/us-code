@@ -3,9 +3,10 @@ title: "Section 8543 - Office of Oceanic and Atmospheric Research and National W
 usc_title: 15
 usc_section: "8543"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8543"
-generated_at: "2026-03-30T02:54:08.232Z"
+generated_at: "2026-11-23T21:25:40.088Z"
+status: "active"
 ---
 
 # § 8543. Office of Oceanic and Atmospheric Research and National Weather Service exchange program
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.232Z"
 - **(b)** The goal of this program is to enhance forecasting innovation through regular, direct interaction between the Office of Oceanic and Atmospheric Research’s world-class scientists and the National Weather Service’s operational staff.
 - **(c)** The program shall allow up to 10 Office of Oceanic and Atmospheric Research staff and National Weather Service staff to spend up to 1 year on detail. Candidates shall be jointly selected by the Assistant Administrator for Oceanic and Atmospheric Research and the Director of the National Weather Service.
 - **(d)** Not less frequently than once each year, the Under Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on participation in such program and shall highlight any innovations that come from this interaction.
+
+## Source Credit
+
+*([Pub. L. 115–25, title IV, § 403](https://www.govinfo.gov/link/plaw/115/public/25), Apr. 18, 2017, [131 Stat. 107](https://www.govinfo.gov/link/statute/131/107).)*

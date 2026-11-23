@@ -3,9 +3,10 @@ title: "Section 13122 - Authority and functions"
 usc_title: 5
 usc_section: "13122"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 13122"
-generated_at: "2026-03-30T02:52:56.079Z"
+generated_at: "2026-11-23T21:25:23.475Z"
+status: "active"
 ---
 
 # § 13122. Authority and functions
@@ -70,3 +71,84 @@ generated_at: "2026-03-30T02:52:56.079Z"
   - **(4)** For purposes of paragraphs (2)(A)(ii), (iii), (iv), and (3)(B), in the case of an officer or employee within an agency which is headed by a board, committee, or other group of individuals (rather than by a single individual), any notification, recommendation, or other matter which would otherwise be sent to an agency head shall instead be sent to the officer’s or employee’s appointing authority.
   - **(5)** Nothing in this subchapter shall be considered to allow the Director (or any designee) to make any finding that a provision of title 18, or any criminal law of the United States outside of title 18, has been or is being violated.
   - **(6)** Notwithstanding any other provision of law, no record developed pursuant to the authority of this section concerning an investigation of an individual for a violation of any rule, regulation, or Executive order relating to a conflict of interest shall be made available pursuant to section 552(a)(3) of this title , unless the request for such information identifies the individual to whom such records relate and the subject matter of any alleged violation to which such records relate, except that nothing in this subsection shall affect the application of the provisions of section 552(b) of this title to any record so identified.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 13122 | 5 U.S.C. App. (EGA § 402) | Pub. L. 95–521, title IV, § 402 , Oct. 26, 1978 , 92 Stat. 1862 ; Pub. L. 96–19, § 9(e) , (s), June 13, 1979 , 93 Stat. 43 , 44; Pub. L. 98–150, § 3(a) , (b), Nov. 11, 1983 , 97 Stat. 959 ; Pub. L. 100–598 , §§ 5–7, Nov. 3, 1988 , 102 Stat. 3032 , 3033. |
+
+
+Overall Direction of Executive Branch Policies Relating to Prevention of Conflicts of Interest
+
+Responsibilities of Director
+
+Consultation
+
+Established Written Procedures.—
+
+In general
+
+Conformance with applicable requirements
+
+Reports From Executive Agencies
+
+Corrective Actions.—
+
+Executive agencies
+
+Individual officers and employees.—
+
+In general
+
+Investigations and findings concerning possible violations.—
+
+Authority of director
+
+Notification of alleged violation and opportunity to comment.—
+
+Notification before a finding is made
+
+Procedures
+
+Hearing
+
+Exception
+
+Copies of orders relating to finding of violation
+
+Agency headed by board, committee, or other group
+
+No authority to make findings of criminal law violations
+
+Limitation on availability of records
+
+Historical and Revision Notes
+
+13122
+
+Pub. L. 95–521, title IV, § 402
+
+Oct. 26, 1978
+
+92 Stat. 1862
+
+Pub. L. 96–19, § 9(e)
+
+June 13, 1979
+
+93 Stat. 43
+
+Pub. L. 98–150, § 3(a)
+
+Nov. 11, 1983
+
+97 Stat. 959
+
+Pub. L. 100–598
+
+Nov. 3, 1988
+
+102 Stat. 3032
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(c)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4296](https://www.govinfo.gov/link/statute/136/4296).)*

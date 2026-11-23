@@ -3,9 +3,10 @@ title: "Section 2252 - Powers and duties"
 usc_title: 12
 usc_section: "2252"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2252"
-generated_at: "2026-03-30T02:53:53.476Z"
+generated_at: "2026-11-23T21:25:37.067Z"
+status: "active"
 ---
 
 # § 2252. Powers and duties
@@ -59,3 +60,17 @@ generated_at: "2026-03-30T02:53:53.476Z"
       - **(i)** continuity of session is broken only by an adjournment of Congress sine die; and
       - **(ii)** the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of sixty and ninety calendar days of continuous session of Congress.
   - **(4)** Congressional inaction on or rejection of a resolution of disapproval shall not be deemed an expression of approval of such regulation.
+
+Findings
+
+Implementation
+
+Findings
+
+Continuation of Regulatory Review
+
+“It further is the sense of Congress that the Farm Credit Administration should in its oversight of Farm Credit System institutions, with respect to farmers and ranchers who suffer major losses due to drought, hail, excessive moisture, or related condition in 1988—
+
+## Source Credit
+
+*([Pub. L. 92–181, title V, § 5](https://www.govinfo.gov/link/plaw/92/public/181).17, formerly § 5.18, Dec. 10, 1971, [85 Stat. 621](https://www.govinfo.gov/link/statute/85/621); [Pub. L. 96–592, title V](https://www.govinfo.gov/link/plaw/96/public/592), §§ 507, 508, Dec. 24, 1980, [94 Stat. 3449](https://www.govinfo.gov/link/statute/94/3449); renumbered § 5.17 and amended [Pub. L. 99–205, title II, § 201(7)](https://www.govinfo.gov/link/plaw/99/public/205), Dec. 23, 1985, [99 Stat. 1691](https://www.govinfo.gov/link/statute/99/1691); [Pub. L. 99–509, title I, § 1036](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1878](https://www.govinfo.gov/link/statute/100/1878); [Pub. L. 100–233, title II, § 207(a)(2)](https://www.govinfo.gov/link/plaw/100/public/233), title IV, § 417, formerly § 414, § 418(d), formerly § 415(d), §§ 424(a), 431(e), title VIII, §§ 802(v), 805(z), Jan. 6, 1988, [101 Stat. 1607](https://www.govinfo.gov/link/statute/101/1607), 1653, 1656, 1660, 1713, 1717, renumbered §§ 417, 418(d), [Pub. L. 100–399, title IV, § 409(a)](https://www.govinfo.gov/link/plaw/100/public/399), Aug. 17, 1988, [102 Stat. 1003](https://www.govinfo.gov/link/statute/102/1003); [Pub. L. 100–399, title II, § 205](https://www.govinfo.gov/link/plaw/100/public/399), title IV, § 409(e), title IX, § 901(m), (n), Aug. 17, 1988, [102 Stat. 993](https://www.govinfo.gov/link/statute/102/993), 1003, 1008; [Pub. L. 101–624, title XVIII, § 1843(a)(1)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3836](https://www.govinfo.gov/link/statute/104/3836); [Pub. L. 102–237, title V, § 502(h)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1869](https://www.govinfo.gov/link/statute/105/1869); [Pub. L. 102–552, title IV, § 401(c)](https://www.govinfo.gov/link/plaw/102/public/552), title V, § 511, Oct. 28, 1992, [106 Stat. 4128](https://www.govinfo.gov/link/statute/106/4128), 4132; [Pub. L. 104–105, title II](https://www.govinfo.gov/link/plaw/104/public/105), §§ 210, 211, Feb. 10, 1996, [110 Stat. 174](https://www.govinfo.gov/link/statute/110/174); [Pub. L. 110–234, title V, § 5407(b)](https://www.govinfo.gov/link/plaw/110/public/234), (c)(1), May 22, 2008, [122 Stat. 1160](https://www.govinfo.gov/link/statute/122/1160); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title V, § 5407(b), (c)(1), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1921, 1922; [Pub. L. 115–334, title V, § 5411(29)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4682](https://www.govinfo.gov/link/statute/132/4682).)*

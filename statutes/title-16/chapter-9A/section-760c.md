@@ -3,12 +3,17 @@ title: "Section 760c - Studies; authorization of appropriations"
 usc_title: 16
 usc_section: "760c"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 760c"
-generated_at: "2026-03-30T02:54:22.906Z"
+generated_at: "2026-11-23T21:25:51.747Z"
+status: "active"
 ---
 
 # § 760c. Studies; authorization of appropriations
 
 There is authorized to be appropriated from time to time, out of any moneys in the Treasury not otherwise appropriated, such sums, not in excess of $250,000 per annum, as may be necessary to carry out the purposes and objectives of sections 760a to 760c of this title.
 
+
+## Source Credit
+
+*(Aug. 25, 1950, ch. 782, § 3, [64 Stat. 474](https://www.govinfo.gov/link/statute/64/474).)*

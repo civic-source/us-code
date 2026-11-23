@@ -3,9 +3,10 @@ title: "Section 8374 - Emergency authorities"
 usc_title: 42
 usc_section: "8374"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8374"
-generated_at: "2026-03-30T02:56:11.342Z"
+generated_at: "2026-11-23T21:26:33.199Z"
+status: "active"
 ---
 
 # § 8374. Emergency authorities
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.342Z"
   - **(4)** For purposes of this subsection, the provisions of this subsection supersede the provisions of subchapter II of chapter 34 of title 50.
 - **(e)** The authority of the President to issue any order under this section may not be delegated. This subsection shall not be construed to prevent the President from directing any Federal agency to issue rules or regulations or take such other action, consistent with this section, in the implementation of such order.
 - **(f)** Any order issued under this section shall be published in the Federal Register. To the greatest extent practicable, the President shall, before issuing any order under this section, but in no event later than 5 days after issuing such order, report to the Congress of his intention to issue such order and state his reasons therefor.
+
+## Source Credit
+
+*([Pub. L. 95–620, title IV, § 404](https://www.govinfo.gov/link/plaw/95/public/620), Nov. 9, 1978, [92 Stat. 3319](https://www.govinfo.gov/link/statute/92/3319); [Pub. L. 100–42, § 1(c)(15)](https://www.govinfo.gov/link/plaw/100/public/42), May 21, 1987, [101 Stat. 313](https://www.govinfo.gov/link/statute/101/313).)*

@@ -3,9 +3,10 @@ title: "Section 4980C - Requirements for issuers of qualified long-term care ins
 usc_title: 26
 usc_section: "4980C"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4980C"
-generated_at: "2026-03-30T02:55:27.814Z"
+generated_at: "2026-11-23T21:26:06.674Z"
+status: "active"
 ---
 
 # § 4980C. Requirements for issuers of qualified long-term care insurance contracts
@@ -41,3 +42,11 @@ generated_at: "2026-03-30T02:55:27.814Z"
 - **(d)** The requirements of this subsection are met if the issuer of a long-term care insurance policy discloses in such policy and in the outline of coverage required under subsection (c)(1)(B)(ii) that the policy is intended to be a qualified long-term care insurance contract under section 7702B(b).
 - **(e)** For purposes of this section, the term “qualified long-term care insurance contract” has the meaning given such term by section 7702B.
 - **(f)** If a State imposes any requirement which is more stringent than the analogous requirement imposed by this section or section 7702B(g), the requirement imposed by this section or section 7702B(g) shall be treated as met if the more stringent State requirement is met.
+
+In General
+
+Issuers
+
+## Source Credit
+
+*(Added [Pub. L. 104–191, title III, § 326(a)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 2065](https://www.govinfo.gov/link/statute/110/2065).)*

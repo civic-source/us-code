@@ -3,9 +3,10 @@ title: "Section 11433 - Local educational agency subgrants for the education of 
 usc_title: 42
 usc_section: "11433"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11433"
-generated_at: "2026-03-30T02:56:11.403Z"
+generated_at: "2026-11-23T21:26:33.430Z"
+status: "active"
 ---
 
 # § 11433. Local educational agency subgrants for the education of homeless children and youths
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:56:11.403Z"
   - **(14)** The adaptation of space and purchase of supplies for any nonschool facilities made available under subsection (a)(2) to provide services under this subsection.
   - **(15)** The provision of school supplies, including those supplies to be distributed at shelters or temporary housing facilities, or other appropriate locations.
   - **(16)** The provision of other extraordinary or emergency assistance needed to enable homeless children and youths to attend school and participate fully in school activities.
+
+## Source Credit
+
+*([Pub. L. 100–77, title VII, § 723](https://www.govinfo.gov/link/plaw/100/public/77), as added [Pub. L. 107–110, title X, § 1032](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2001](https://www.govinfo.gov/link/statute/115/2001); amended [Pub. L. 114–95, title IX, § 9103](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2134](https://www.govinfo.gov/link/statute/129/2134).)*

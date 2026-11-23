@@ -3,9 +3,10 @@ title: "Section 6132 - Long-term plan for meeting national security requirements
 usc_title: 10
 usc_section: "6132"
 chapter: 602
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6132"
-generated_at: "2026-03-30T02:53:38.220Z"
+generated_at: "2026-11-23T21:25:32.816Z"
+status: "active"
 ---
 
 # § 6132. Long-term plan for meeting national security requirements for unencumbered uranium
@@ -28,3 +29,17 @@ generated_at: "2026-03-30T02:53:38.220Z"
 - **(e)** In this section:
   - **(1)** The term “depleted”, with respect to uranium, means that the uranium is depleted in uranium-235 compared with natural uranium.
   - **(2)** The term “unencumbered”, with respect to uranium, means that the United States has no obligation to foreign governments to use the uranium for only peaceful purposes.
+
+In General
+
+Plan Requirements
+
+Form of Plan
+
+Comptroller General Briefing
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1367](https://www.govinfo.gov/link/statute/139/1367).)*

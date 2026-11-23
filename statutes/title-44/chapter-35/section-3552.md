@@ -3,9 +3,10 @@ title: "Section 3552 - Definitions"
 usc_title: 44
 usc_section: "3552"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 3552"
-generated_at: "2026-03-30T02:55:56.297Z"
+generated_at: "2026-11-23T21:26:18.434Z"
+status: "active"
 ---
 
 # § 3552. Definitions
@@ -36,3 +37,11 @@ generated_at: "2026-03-30T02:55:56.297Z"
       - **(ii)** is protected at all times by procedures established for information that have been specifically authorized under criteria established by an Executive order or an Act of Congress to be kept classified in the interest of national defense or foreign policy.
     - **(B)** Subparagraph (A)(i)(V) does not include a system that is to be used for routine administrative and business applications (including payroll, finance, logistics, and personnel management applications).
   - **(7)** The term “Secretary” means the Secretary of Homeland Security.
+
+In General
+
+Additional Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 113–283, § 2(a)](https://www.govinfo.gov/link/plaw/113/public/283), Dec. 18, 2014, [128 Stat. 3074](https://www.govinfo.gov/link/statute/128/3074).)*

@@ -3,9 +3,10 @@ title: "Section 1114 - Surface transportation security technology information sh
 usc_title: 6
 usc_section: "1114"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1114"
-generated_at: "2026-03-30T02:53:09.503Z"
+generated_at: "2026-11-23T21:25:25.863Z"
+status: "active"
 ---
 
 # § 1114. Surface transportation security technology information sharing
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:09.503Z"
   - **(2)** The Secretary shall include in such information provided in paragraph (1) whether the technology is designated as a qualified antiterrorism technology under the Support Anti-terrorism by Fostering Effective Technologies Act of 2002 ( Public Law 107–296 ) [ 6 U.S.C. 441 et seq.], as appropriate.
 - **(b)** The purpose of the program is to assist eligible grant recipients under this Act and others, as appropriate, to purchase and use the best technology and equipment available to meet the security needs of the Nation’s surface transportation system.
 - **(c)** The Secretary shall ensure that the program established under this section makes use of and is consistent with other Department technology testing, information sharing, evaluation, and standards-setting programs, as appropriate.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XIII, § 1305](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 394](https://www.govinfo.gov/link/statute/121/394).)*

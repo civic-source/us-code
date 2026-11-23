@@ -3,9 +3,10 @@ title: "Section 213a - Authority to designate additional passport acceptance age
 usc_title: 22
 usc_section: "213a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 213a"
-generated_at: "2026-03-30T02:55:05.302Z"
+generated_at: "2026-11-23T21:25:58.316Z"
+status: "active"
 ---
 
 # § 213a. Authority to designate additional passport acceptance agents
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.302Z"
   - **(6)** A United States citizen who, as determined by the Secretary, is employed by and provides services through a reputable, established company or institution and is commissioned or appointed as a notary or notary public or otherwise authorized to perform a notarization under the laws of a State, district, or territorial government.
   - **(7)** Any other person specifically designated by the Secretary.
 - **(c)** The Secretary shall prescribe or revise such regulations as may be necessary to carry out this division.
+
+## Source Credit
+
+*([Pub. L. 118–31, div. F, title LXI, § 6109](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 967](https://www.govinfo.gov/link/statute/137/967); [Pub. L. 118–159, div. G, title LXXV, § 7507(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2547](https://www.govinfo.gov/link/statute/138/2547).)*

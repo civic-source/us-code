@@ -3,9 +3,10 @@ title: "Section 10157 - Reserved funds"
 usc_title: 34
 usc_section: "10157"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10157"
-generated_at: "2026-03-30T02:55:33.261Z"
+generated_at: "2026-11-23T21:26:09.623Z"
+status: "reserved"
 ---
 
 # § 10157. Reserved funds
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:33.261Z"
 - **(b)** Of the total amount made available to carry out this part for a fiscal year, the Attorney General may reserve not more than 5 percent, to be granted to 1 or more States or units of local government, for 1 or more of the purposes specified in section 10152 of this title , pursuant to his determination that the same is necessary—
   - **(1)** to combat, address, or otherwise respond to precipitous or extraordinary increases in crime, or in a type or types of crime; or
   - **(2)** to prevent, compensate for, or mitigate significant programmatic harm resulting from operation of the formula established under section 10156 of this title .
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 506](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 109–162, title XI, § 1111(a)(2)(C)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3100](https://www.govinfo.gov/link/statute/119/3100).)*

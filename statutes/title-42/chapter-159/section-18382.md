@@ -3,9 +3,10 @@ title: "Section 18382 - Suborbital research activities"
 usc_title: 42
 usc_section: "18382"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18382"
-generated_at: "2026-03-30T02:56:11.520Z"
+generated_at: "2026-11-23T21:26:33.823Z"
+status: "active"
 ---
 
 # § 18382. Suborbital research activities
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.520Z"
 - **(c)** The Administrator shall establish a Suborbital Research Program within the Science Mission Directorate that shall include the use of sounding rockets, aircraft, high altitude balloons, suborbital reusable launch vehicles, and commercial launch vehicles to advance science and train the next generation of scientists and engineers in systems engineering and systems integration which are vital to maintaining critical skills in the aerospace workforce. The program shall integrate existing suborbital research programs with orbital missions at the discretion of the designated officer or employee and shall emphasize the participation of undergraduate and graduate students and post-doctoral researchers when formulating announcements of opportunity.
 - **(d)** The Administrator shall report to the appropriate committees of Congress on the number and type of suborbital missions conducted in each fiscal year and the number of undergraduate and graduate students participating in the missions. The report shall be made annually for each fiscal year under this section.
 - **(e)** There are authorized to be appropriated to the Administrator such sums as may be necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 111–267, title VIII, § 802](https://www.govinfo.gov/link/plaw/111/public/267), Oct. 11, 2010, [124 Stat. 2832](https://www.govinfo.gov/link/statute/124/2832).)*

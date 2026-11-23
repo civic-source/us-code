@@ -3,9 +3,10 @@ title: "Section 459h - Gulf Islands National Seashore"
 usc_title: 16
 usc_section: "459h"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 459h"
-generated_at: "2026-03-30T02:54:22.808Z"
+generated_at: "2026-11-23T21:25:51.551Z"
+status: "active"
 ---
 
 # § 459h. Gulf Islands National Seashore
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:22.808Z"
     - **(F)** a tract of land in the Pensacola Naval Air Station in Florida that includes the Coast Guard Station and Lighthouse, Fort San Carlos, Fort Barrancas, and Fort Redoubt and sufficient surrounding land for proper administration and protection of the historic resources.
   - **(3)** Upon its acquisition by the Secretary, the area described in this paragraph is the parcel consisting of approximately 2,000 acres of land on Cat Island, Mississippi, as generally depicted on the map entitled “Boundary Map, Gulf Islands National Seashore, Cat Island, Mississippi”, numbered 635/80085, and dated November 9, 1999 (referred to in sections 459h to 459h–10 of this title 1 1 See References in Text note below. as the “Cat Island Map”).
   - **(4)** The Cat Island Map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+
+## Source Credit
+
+*([Pub. L. 91–660, § 1](https://www.govinfo.gov/link/plaw/91/public/660), Jan. 8, 1971, [84 Stat. 1967](https://www.govinfo.gov/link/statute/84/1967); [Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 137(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–231.)*

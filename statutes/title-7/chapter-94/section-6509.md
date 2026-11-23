@@ -3,9 +3,10 @@ title: "Section 6509 - Animal production practices and materials"
 usc_title: 7
 usc_section: "6509"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6509"
-generated_at: "2026-03-30T02:53:42.431Z"
+generated_at: "2026-11-23T21:25:28.391Z"
+status: "active"
 ---
 
 # § 6509. Animal production practices and materials
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:42.431Z"
     - **(A)** amounts and sources of all medications administered; and
     - **(B)** all feeds and feed supplements bought and fed.
 - **(g)** The Secretary shall hold public hearings and shall develop detailed regulations, with notice and public comment, to guide the implementation of the standards for livestock products provided under this section.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XXI, § 2110](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3940](https://www.govinfo.gov/link/statute/104/3940); [Pub. L. 102–237, title X, § 1001(2)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1893](https://www.govinfo.gov/link/statute/105/1893); [Pub. L. 109–97, title VII, § 797(c)](https://www.govinfo.gov/link/plaw/109/public/97), Nov. 10, 2005, [119 Stat. 2165](https://www.govinfo.gov/link/statute/119/2165).)*

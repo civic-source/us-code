@@ -3,9 +3,10 @@ title: "Section 7104a - Compliance plan and certification requirement"
 usc_title: 22
 usc_section: "7104a"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7104a"
-generated_at: "2026-03-30T02:55:05.436Z"
+generated_at: "2026-11-23T21:25:58.708Z"
+status: "active"
 ---
 
 # § 7104a. Compliance plan and certification requirement
@@ -17,3 +18,17 @@ generated_at: "2026-03-30T02:55:05.436Z"
 - **(b)** Any plan or procedures implemented pursuant to subsection (a) shall be appropriate to the size and complexity of the grant, contract, or cooperative agreement and to the nature and scope of its activities, including the number of non-United States citizens expected to be employed.
 - **(c)** The recipient shall provide a copy of the plan to the contracting or grant officer upon request, and as appropriate, shall post the useful and relevant contents of the plan or related materials on its website and at the workplace.
 - **(d)** The President, in consultation with the Secretary of State, the Attorney General, the Secretary of Defense, the Secretary of Labor, the Secretary of Homeland Security, the Administrator for the United States Agency for International Development, and the heads of such other executive agencies as the President deems appropriate, shall establish minimum requirements for contractor plans and procedures to be implemented pursuant to this section.
+
+“In this title [title XVII (§§ 1701–1708) of div. A of Pub. L. 112–239 , enacting this section and sections 7104b to 7104d of this title, amending sections 7103 and 7104 of this title, section 1351 of Title 18 , Crimes and Criminal Procedure, and section 2313 of Title 41 , Public Contracts, and enacting provisions set out as a note under section 1101 of Title 8 , Aliens and Nationality]:
+
+Executive agency
+
+Subcontractor
+
+Subgrantee
+
+United states
+
+## Source Credit
+
+*([Pub. L. 112–239, div. A, title XVII, § 1703](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2094](https://www.govinfo.gov/link/statute/126/2094).)*

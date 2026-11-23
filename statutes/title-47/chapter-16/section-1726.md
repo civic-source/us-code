@@ -3,9 +3,10 @@ title: "Section 1726 - General provisions"
 usc_title: 47
 usc_section: "1726"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1726"
-generated_at: "2026-03-30T02:56:24.542Z"
+generated_at: "2026-11-23T21:26:36.129Z"
+status: "active"
 ---
 
 # § 1726. General provisions
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:24.542Z"
   - **(3)** Judicial review of an action taken by the Assistant Secretary under paragraph (2) shall be available to the extent provided in section 2000d–2 of title 42 .
 - **(b)** The Assistant Secretary shall, to the extent practicable, carry out this subchapter in a technologically neutral manner.
 - **(c)** Beginning in the first fiscal year in which amounts are made available to carry out an activity authorized under this subchapter, and in each of the 4 fiscal years thereafter, there is authorized to be appropriated to the Office of Inspector General for the Department of Commerce $1,000,000 for audits and oversight of funds made available to carry out this subchapter, which shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. F, title III, § 60307](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1230](https://www.govinfo.gov/link/statute/135/1230).)*

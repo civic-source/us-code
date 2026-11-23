@@ -3,9 +3,10 @@ title: "Section 44803 - Unmanned aircraft system test ranges"
 usc_title: 49
 usc_section: "44803"
 chapter: 448
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44803"
-generated_at: "2026-03-30T02:56:19.388Z"
+generated_at: "2026-11-23T21:26:40.914Z"
+status: "active"
 ---
 
 # § 44803. Unmanned aircraft system test ranges
@@ -77,3 +78,71 @@ generated_at: "2026-03-30T02:56:19.388Z"
     - **(B)** supporting or performing such demonstration and validation activities described in subparagraph (A) at a test range designated under the section.
   - **(2)** Funding provided under this subsection shall be divided evenly among all UAS test ranges designated under this section, for the purpose of providing matching funds to commercial entities described in paragraph (1) and available until expended.
 - **(i)** The program under this section shall terminate on September 30, 2028 .
+
+Test Ranges.—
+
+In general
+
+Designations.—
+
+Existing test ranges
+
+New test ranges
+
+Limitation
+
+Eligibility
+
+Airspace Requirements.—
+
+In general
+
+NEPA review
+
+Inactive restricted area or special use airspace.—
+
+In general
+
+Using agency
+
+Approval authority
+
+Program Requirements
+
+Exemption
+
+Responsibilities of Test Range Sponsors
+
+Testing.—
+
+In general
+
+Waiver
+
+Collaborative Research and Development Agreements
+
+Authorization of Appropriations.—
+
+Establishment
+
+Disbursement
+
+Termination
+
+In General
+
+Goals
+
+Briefing to Congress
+
+Definitions
+
+Eligible airport authority
+
+Innovative technologies
+
+UAS
+
+## Source Credit
+
+*(Added [Pub. L. 118–63, title IX, § 925(a)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1356](https://www.govinfo.gov/link/statute/138/1356).)*

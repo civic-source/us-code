@@ -3,9 +3,10 @@ title: "Section 2 - Provision of evidence of certain robocall violations to Atto
 usc_title: 47
 usc_section: "2"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 2"
-generated_at: "2026-03-30T02:56:24.499Z"
+generated_at: "2026-11-23T21:26:35.954Z"
+status: "active"
 ---
 
 # § 227b–2. Provision of evidence of certain robocall violations to Attorney General
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:24.499Z"
   - **(1)** to refer a matter to the Attorney General; or
   - **(2)** to pursue or continue pursuit of an enforcement action in a matter with respect to which the Chief of the Enforcement Bureau provided the evidence described in subsection (a) to the Attorney General.
 - **(d)** In this section, the term “robocall violation” means a violation of subsection (b) or (e) of section 227 of this title .
+
+## Source Credit
+
+*([Pub. L. 116–105, § 11](https://www.govinfo.gov/link/plaw/116/public/105), Dec. 30, 2019, [133 Stat. 3285](https://www.govinfo.gov/link/statute/133/3285).)*

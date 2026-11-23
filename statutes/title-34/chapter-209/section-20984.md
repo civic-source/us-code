@@ -3,9 +3,10 @@ title: "Section 20984 - Grants for fingerprinting programs for children"
 usc_title: 34
 usc_section: "20984"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20984"
-generated_at: "2026-03-30T02:55:33.302Z"
+generated_at: "2026-11-23T21:26:09.805Z"
+status: "active"
 ---
 
 # § 20984. Grants for fingerprinting programs for children
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:33.302Z"
   - **(2)** may not be copied or retained by any Federal, State, local, or tribal law enforcement officer unless written permission is given by the parent or guardian.
 - **(d)** Any person who uses the fingerprints of a child derived from a program funded under this section for any purpose other than the purpose described in subsection (c)(1) shall be subject to imprisonment for not more than 1 year, a fine under title 18, or both.
 - **(e)** There is authorized to be appropriated $20,000,000 to carry out this section for the 5-year period beginning on the first day of fiscal year 2007.
+
+## Source Credit
+
+*([Pub. L. 109–248, title VI, § 627](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 637](https://www.govinfo.gov/link/statute/120/637).)*

@@ -3,9 +3,10 @@ title: "Section 7414 - Compliance with requirements for examining qualifications
 usc_title: 38
 usc_section: "7414"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7414"
-generated_at: "2026-03-30T02:55:53.531Z"
+generated_at: "2026-11-23T21:26:16.871Z"
+status: "active"
 ---
 
 # § 7414. Compliance with requirements for examining qualifications and clinical abilities of health care professionals
@@ -53,3 +54,37 @@ generated_at: "2026-03-30T02:55:53.531Z"
   - **(2)** The term “covered health care professional” means an individual employed in a position as a health care professional of the Department, or a contractor of the Department, that requires the individual to be authorized to prescribe, dispense, administer, or conduct research with, controlled substances.
   - **(3)** The term “Drug Enforcement Administration registration” means registration with the Drug Enforcement Administration under section 303 of the Controlled Substances Act ( 21 U.S.C. 823 ) 302 of the Controlled Substances Act ( 21 U.S.C. 822 ) by health care practitioners authorized to dispense, prescribe, administer, or conduct research with, controlled substances.
   - **(4)** The term “health care professional of the Department” means an individual working for the Department in a position described in section 7401 of this title , including a contractor of the Department serving in such a position.
+
+Compliance With Credentialing Requirements
+
+Registration Regarding Controlled Substances
+
+Reviews of Concerns Relating to Quality of Clinical Care
+
+Compliance With Requirements for Reporting Quality of Care Concerns
+
+Prohibition on Certain Settlement Agreement Terms
+
+Training
+
+Definitions
+
+“The Secretary of Veterans Affairs shall commence the implementation of section 7414 of title 38 , United States Code, as added by subsection (a), by the following dates:
+
+Audits.—
+
+In general
+
+Conduct of audits
+
+Reports
+
+In general
+
+Elements
+
+Initial report
+
+## Source Credit
+
+*(Added [Pub. L. 117–328, div. U, title I, § 112(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5411](https://www.govinfo.gov/link/statute/136/5411).)*

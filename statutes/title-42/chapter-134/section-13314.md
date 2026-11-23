@@ -3,12 +3,17 @@ title: "Section 13314 - Study of tax and rate treatment of renewable energy proj
 usc_title: 42
 usc_section: "13314"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13314"
-generated_at: "2026-03-30T02:56:11.441Z"
+generated_at: "2026-11-23T21:26:33.591Z"
+status: "active"
 ---
 
 # § 13314. Study of tax and rate treatment of renewable energy projects
 
 - **(a)** The Secretary, in conjunction with State regulatory commissions, shall undertake a study to determine if conventional taxation and ratemaking procedures result in economic barriers to or incentives for renewable energy power plants compared to conventional power plants.
 - **(b)** Within 1 year after October 24, 1992 , the Secretary shall submit a report to the Congress on the results of the study undertaken under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 102–486, title XII, § 1205](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2962](https://www.govinfo.gov/link/statute/106/2962).)*

@@ -3,9 +3,10 @@ title: "Section 2602 - Definitions"
 usc_title: 16
 usc_section: "2602"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2602"
-generated_at: "2026-03-30T02:54:23.003Z"
+generated_at: "2026-11-23T21:25:51.950Z"
+status: "active"
 ---
 
 # § 2602. Definitions
@@ -36,3 +37,7 @@ As used in this Act, except as otherwise specifically provided—
   - **(19)** The term “integrated resource planning” means, in the case of an electric utility, a planning and selection process for new energy resources that evaluates the full range of alternatives, including new generating capacity, power purchases, energy conservation and efficiency, cogeneration and district heating and cooling applications, and renewable energy resources, in order to provide adequate and reliable service to its electric customers at the lowest system cost. The process shall take into account necessary features for system operation, such as diversity, reliability, dispatchability, and other factors of risk; shall take into account the ability to verify energy savings achieved through energy conservation and efficiency and the projected durability of such savings measured over time; and shall treat demand and supply resources on a consistent and integrated basis.
   - **(20)** The term “system cost” means all direct and quantifiable net costs for an energy resource over its available life, including the cost of production, distribution, transportation, utilization, waste management, and environmental compliance.
   - **(21)** The term “demand side management” includes load management techniques.
+
+## Source Credit
+
+*([Pub. L. 95–617, § 3](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3119](https://www.govinfo.gov/link/statute/92/3119); [Pub. L. 102–486, title I, § 111(d)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2796](https://www.govinfo.gov/link/statute/106/2796).)*

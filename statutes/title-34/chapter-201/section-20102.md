@@ -3,9 +3,10 @@ title: "Section 20102 - Crime victim compensation"
 usc_title: 34
 usc_section: "20102"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20102"
-generated_at: "2026-03-30T02:55:33.292Z"
+generated_at: "2026-11-23T21:26:09.767Z"
+status: "active"
 ---
 
 # § 20102. Crime victim compensation
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:55:33.292Z"
 - **(e)** Notwithstanding any other law, if the compensation paid by an eligible crime victim compensation program would cover costs that a Federal program, including the program established under title IV of Public Law 107–42 , or a federally financed State or local program, would otherwise pay,— 1 1 So in original. The comma probably should not appear.
   - **(1)** such crime victim compensation program shall not pay that compensation; and
   - **(2)** the other program shall make its payments without regard to the existence of the crime victim compensation program.
+
+## Source Credit
+
+*([Pub. L. 98–473, title II, § 1403](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2171](https://www.govinfo.gov/link/statute/98/2171); [Pub. L. 100–690, title VII](https://www.govinfo.gov/link/plaw/100/public/690), §§ 7123(b)(1)–(3), 7125, 7126, Nov. 18, 1988, [102 Stat. 4421–4423](https://www.govinfo.gov/link/statute/102/4421); [Pub. L. 103–322, title XXIII](https://www.govinfo.gov/link/plaw/103/public/322), §§ 230202, 230203, title XXXIII, § 330025(b), Sept. 13, 1994, [108 Stat. 2079](https://www.govinfo.gov/link/statute/108/2079), 2151; [Pub. L. 104–132, title II](https://www.govinfo.gov/link/plaw/104/public/132), §§ 233(a), (b), 234(a)(1), (b), Apr. 24, 1996, [110 Stat. 1244](https://www.govinfo.gov/link/statute/110/1244), 1245; [Pub. L. 104–155, § 5](https://www.govinfo.gov/link/plaw/104/public/155), July 3, 1996, [110 Stat. 1394](https://www.govinfo.gov/link/statute/110/1394); [Pub. L. 107–56, title VI, § 622(a)](https://www.govinfo.gov/link/plaw/107/public/56) –(e)(1), Oct. 26, 2001, [115 Stat. 371](https://www.govinfo.gov/link/statute/115/371), 372; [Pub. L. 109–162, title XI, § 1133(a)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3108](https://www.govinfo.gov/link/statute/119/3108); [Pub. L. 117–27, § 2(b)](https://www.govinfo.gov/link/plaw/117/public/27), July 22, 2021, [135 Stat. 301](https://www.govinfo.gov/link/statute/135/301); [Pub. L. 117–103, div. W, title XIII](https://www.govinfo.gov/link/plaw/117/public/103), §§ 1311, 1316(b), Mar. 15, 2022, [136 Stat. 935](https://www.govinfo.gov/link/statute/136/935), 939.)*

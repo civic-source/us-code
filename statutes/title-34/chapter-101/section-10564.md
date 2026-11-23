@@ -3,9 +3,10 @@ title: "Section 10564 - Use of grants"
 usc_title: 34
 usc_section: "10564"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10564"
-generated_at: "2026-03-30T02:55:33.272Z"
+generated_at: "2026-11-23T21:26:09.675Z"
+status: "active"
 ---
 
 # § 10564. Use of grants
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:33.272Z"
 - **(e)** For purposes of this section, a backlog in the analysis of forensic science evidence exists if such evidence—
   - **(1)** has been stored in a laboratory, medical examiner’s office, coroner’s office, law enforcement storage facility, or medical facility; and
   - **(2)** has not been subjected to all appropriate forensic testing because of a lack of resources or personnel.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2804](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 106–561, § 2(c)(1)](https://www.govinfo.gov/link/plaw/106/public/561), Dec. 21, 2000, [114 Stat. 2789](https://www.govinfo.gov/link/statute/114/2789); amended [Pub. L. 107–273, div. B, title V, § 5001(b)(4)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1814](https://www.govinfo.gov/link/statute/116/1814); [Pub. L. 108–405, title III, § 311(a)](https://www.govinfo.gov/link/plaw/108/public/405), Oct. 30, 2004, [118 Stat. 2276](https://www.govinfo.gov/link/statute/118/2276); [Pub. L. 114–324, § 9(a)(3)](https://www.govinfo.gov/link/plaw/114/public/324), Dec. 16, 2016, [130 Stat. 1955](https://www.govinfo.gov/link/statute/130/1955).)*

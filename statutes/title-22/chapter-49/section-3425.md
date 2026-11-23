@@ -3,9 +3,10 @@ title: "Section 3425 - Reports to Congress"
 usc_title: 22
 usc_section: "3425"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3425"
-generated_at: "2026-03-30T02:55:05.394Z"
+generated_at: "2026-11-23T21:25:58.588Z"
+status: "active"
 ---
 
 # § 3425. Reports to Congress
@@ -25,3 +26,13 @@ generated_at: "2026-03-30T02:55:05.394Z"
   - **(1)** The reports required by this section shall be as detailed as possible.
   - **(2)** The information pursuant to subsection (b)(3) shall, in the case of costs which are not identifiable, be set forth with reasonable accuracy.
   - **(3)** The information with respect to any administrative and technical support and services provided on a nonreimbursed basis under section 3424(a) of this title shall include a description of the types of support and services which have been provided and an estimate of both the total costs of such support and services and the incremental costs incurred by the United States with respect to such support and services.
+
+Section
+
+Sec
+
+Ronald Reagan.
+
+## Source Credit
+
+*([Pub. L. 97–132, § 6](https://www.govinfo.gov/link/plaw/97/public/132), Dec. 29, 1981, [95 Stat. 1695](https://www.govinfo.gov/link/statute/95/1695).)*

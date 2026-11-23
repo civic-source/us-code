@@ -3,9 +3,10 @@ title: "Section 4586 - Public disclosure of final orders and agreements"
 usc_title: 12
 usc_section: "4586"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4586"
-generated_at: "2026-03-30T02:53:53.510Z"
+generated_at: "2026-11-23T21:25:37.194Z"
+status: "active"
 ---
 
 # § 4586. Public disclosure of final orders and agreements
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:53.510Z"
 - **(d)** The Director may file any document or part thereof under seal in any hearing under this subpart if the Director determines in writing that disclosure thereof would be contrary to the public interest.
 - **(e)** The Director shall keep and maintain a record, for not less than 6 years, of all documents described in subsection (a) and all enforcement agreements and other supervisory actions and supporting documents issued with respect to or in connection with any enforcement proceeding initiated by the Director under this subpart.
 - **(f)** This section may not be construed to authorize the withholding, or to prohibit the disclosure, of any information to the Congress or any committee or subcommittee thereof.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1346](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3968](https://www.govinfo.gov/link/statute/106/3968); [Pub. L. 110–289, div. A, title I, § 1130(e)(3)(C)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2711](https://www.govinfo.gov/link/statute/122/2711).)*

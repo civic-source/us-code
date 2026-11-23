@@ -3,9 +3,10 @@ title: "Section 545 - Undistributed personal holding company income"
 usc_title: 26
 usc_section: "545"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 545"
-generated_at: "2026-03-30T02:55:27.719Z"
+generated_at: "2026-11-23T21:26:06.338Z"
+status: "active"
 ---
 
 # § 545. Undistributed personal holding company income
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:27.719Z"
     - **(C)** either that there was reasonable expectation that the operation of the property would result in a profit, or that the property was necessary to the conduct of the business.
   - **(7)** In the case of a foreign corporation, paragraph (5) shall be applied by taking into account only gains and losses which are effectively connected with the conduct of a trade or business within the United States and are not exempt from tax under treaty.
 - **(c)** In the case of a foreign corporation all of the outstanding stock of which during the last half of the taxable year is owned by nonresident alien individuals (whether directly or indirectly through foreign estates, foreign trusts, foreign partnerships, or other foreign corporations), the taxable income for purposes of subsection (a) shall be the income which constitutes personal holding company income under section 543(a)(7), reduced by the deductions attributable to such income, and adjusted, with respect to such income, in the manner provided in subsection (b).
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 189; [Pub. L. 85–866, title I, § 32(a)](https://www.govinfo.gov/link/plaw/85/public/866), (b), Sept. 2, 1958, [72 Stat. 1631](https://www.govinfo.gov/link/statute/72/1631); [Pub. L. 87–403, § 3(d)](https://www.govinfo.gov/link/plaw/87/public/403), Feb. 2, 1962, [76 Stat. 7](https://www.govinfo.gov/link/statute/76/7); [Pub. L. 87–834, § 9(d)(2)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 1001](https://www.govinfo.gov/link/statute/76/1001); [Pub. L. 88–272, title II](https://www.govinfo.gov/link/plaw/88/public/272), §§ 207(b)(5), 209(c)(2), 225(i)(1), (2), Feb. 26, 1964, [78 Stat. 42](https://www.govinfo.gov/link/statute/78/42), 46, 90; [Pub. L. 89–719, title I, § 101(b)(2)](https://www.govinfo.gov/link/plaw/89/public/719), Nov. 2, 1966, [80 Stat. 1132](https://www.govinfo.gov/link/statute/80/1132); [Pub. L. 89–809, title I, § 104(h)(3)](https://www.govinfo.gov/link/plaw/89/public/809), Nov. 13, 1966, [80 Stat. 1560](https://www.govinfo.gov/link/statute/80/1560); [Pub. L. 91–172, title II, § 201(a)(2)(B)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 558](https://www.govinfo.gov/link/statute/83/558); [Pub. L. 94–455, title X, § 1033(b)(4)](https://www.govinfo.gov/link/plaw/94/public/455), title XIX, §§ 1901(a)(77), (b)(20)(B), (32)(E), (33)(D), 1906(b)(13)(A), 1951(b)(9)(A), Oct. 4, 1976, [90 Stat. 1628](https://www.govinfo.gov/link/statute/90/1628), 1777, 1797, 1800, 1801, 1834, 1839; [Pub. L. 97–448, title I, § 102(m)(2)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2374](https://www.govinfo.gov/link/statute/96/2374); [Pub. L. 99–514, title XII, § 1225(b)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2559](https://www.govinfo.gov/link/statute/100/2559); [Pub. L. 101–508, title XI, § 11801(a)(24)](https://www.govinfo.gov/link/plaw/101/public/508), (c)(10)(B), Nov. 5, 1990, [104 Stat. 1388–521](https://www.govinfo.gov/link/statute/104/1388), 1388–527; [Pub. L. 109–280, title XII, § 1206(b)(2)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1070](https://www.govinfo.gov/link/statute/120/1070); [Pub. L. 113–295, div. A, title II, § 221(a)(64)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4048](https://www.govinfo.gov/link/statute/128/4048); [Pub. L. 115–97, title I, § 14301(c)(4)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2222](https://www.govinfo.gov/link/statute/131/2222).)*

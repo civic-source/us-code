@@ -3,9 +3,10 @@ title: "Section 7231 - Findings and purpose"
 usc_title: 20
 usc_section: "7231"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7231"
-generated_at: "2026-03-30T02:54:48.208Z"
+generated_at: "2026-11-23T21:25:47.562Z"
+status: "active"
 ---
 
 # § 7231. Findings and purpose
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:48.208Z"
   - **(4)** courses of instruction within magnet schools that will substantially strengthen the knowledge of academic subjects and the attainment of tangible and marketable career, technological, and professional skills of students attending such schools;
   - **(5)** improving the capacity of local educational agencies, including through professional development, to continue operating magnet schools at a high performance level after Federal funding for the magnet schools is terminated; and
   - **(6)** ensuring that all students enrolled in the magnet school programs have equitable access to high quality education that will enable the students to succeed academically and continue with postsecondary education or employment.
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4401](https://www.govinfo.gov/link/plaw/89/public/10), formerly title V, § 5301, as added [Pub. L. 107–110, title V, § 501](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1806](https://www.govinfo.gov/link/statute/115/1806); renumbered title IV, § 4401, and amended [Pub. L. 114–95, title IV](https://www.govinfo.gov/link/plaw/114/public/95), §§ 4001(b)(3)(A), (B), (D)(i), 4401(1), Dec. 10, 2015, [129 Stat. 1967](https://www.govinfo.gov/link/statute/129/1967), 2014.)*

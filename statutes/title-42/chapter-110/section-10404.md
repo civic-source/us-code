@@ -3,9 +3,10 @@ title: "Section 10404 - Authority of Secretary"
 usc_title: 42
 usc_section: "10404"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10404"
-generated_at: "2026-03-30T02:56:11.387Z"
+generated_at: "2026-11-23T21:26:33.369Z"
+status: "active"
 ---
 
 # § 10404. Authority of Secretary
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.387Z"
     - **(C)** coordinating family violence, domestic violence, and dating violence research efforts within the Department of Health and Human Services with relevant research administered or carried out by other Federal agencies and other researchers, including research on the provision of assistance for adult and youth victims of family violence, domestic violence, or dating violence; and
   - **(4)** support the development and implementation of effective policies, protocols, and programs within the Department and at other Federal agencies that address the safety and support needs of adult and youth victims of family violence, domestic violence, or dating violence.
 - **(c)** Every 2 years, the Secretary shall review and evaluate the activities conducted by grantees, subgrantees, and contractors under this chapter and the effectiveness of the programs administered pursuant to this chapter, and submit a report containing the evaluation to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate. Such report shall also include a summary of the documentation provided to the Secretary through performance reports submitted under section 10406(d) of this title . The Secretary shall make publicly available on the Department of Health and Human Services website the evaluation reports submitted to Congress under this subsection, including the summary of the documentation provided to the Secretary under section 10406(d) of this title .
+
+## Source Credit
+
+*([Pub. L. 98–457, title III, § 304](https://www.govinfo.gov/link/plaw/98/public/457), as added [Pub. L. 111–320, title II, § 201](https://www.govinfo.gov/link/plaw/111/public/320), Dec. 20, 2010, [124 Stat. 3487](https://www.govinfo.gov/link/statute/124/3487).)*

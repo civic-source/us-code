@@ -3,9 +3,10 @@ title: "Section 687e - Removal or suspension of management officials"
 usc_title: 15
 usc_section: "687e"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 687e"
-generated_at: "2026-03-30T02:54:08.110Z"
+generated_at: "2026-11-23T21:25:39.715Z"
+status: "active"
 ---
 
 # § 687e. Removal or suspension of management officials
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:54:08.110Z"
       - **(ii)** review of such proceedings shall be had as provided in chapter 7 of title 5; and
       - **(iii)** the judgment and decree of the court shall be final, except that the judgment and decree shall be subject to review by the Supreme Court of the United States upon certiorari, as provided in section 1254 of title 28 .
     - **(E)** The commencement of proceedings for judicial review under this paragraph shall not, unless specifically ordered by the court, operate as a stay of any order issued by the Administrator under this section.
+
+## Source Credit
+
+*([Pub. L. 85–699, title III, § 313](https://www.govinfo.gov/link/plaw/85/public/699), as added [Pub. L. 89–779, § 7](https://www.govinfo.gov/link/plaw/89/public/779), Nov. 6, 1966, [80 Stat. 1360](https://www.govinfo.gov/link/statute/80/1360); amended [Pub. L. 107–100, § 5](https://www.govinfo.gov/link/plaw/107/public/100), Dec. 21, 2001, [115 Stat. 967](https://www.govinfo.gov/link/statute/115/967).)*

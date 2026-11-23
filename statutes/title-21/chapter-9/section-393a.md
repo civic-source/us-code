@@ -3,9 +3,10 @@ title: "Section 393a - Office of Pediatric Therapeutics"
 usc_title: 21
 usc_section: "393a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 393a"
-generated_at: "2026-03-30T02:54:54.283Z"
+generated_at: "2026-11-23T21:25:56.193Z"
+status: "active"
 ---
 
 # § 393a. Office of Pediatric Therapeutics
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:54.283Z"
   - **(3)** one or more additional individuals with expertise in pediatric epidemiology; and
   - **(4)** one or more additional individuals with expertise in pediatrics as may be necessary to perform the activities described in subsection (b).
 - **(d)** At least one of the individuals described in subsection (c)(2) shall have expertise in neonatology.
+
+## Source Credit
+
+*([Pub. L. 107–109, § 6](https://www.govinfo.gov/link/plaw/107/public/109), Jan. 4, 2002, [115 Stat. 1414](https://www.govinfo.gov/link/statute/115/1414); [Pub. L. 110–85, title III, § 306(a)](https://www.govinfo.gov/link/plaw/110/public/85), Sept. 27, 2007, [121 Stat. 864](https://www.govinfo.gov/link/statute/121/864); [Pub. L. 112–144, title V, § 511](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 1050](https://www.govinfo.gov/link/statute/126/1050); [Pub. L. 115–52, title V, § 505(d)(1)](https://www.govinfo.gov/link/plaw/115/public/52), Aug. 18, 2017, [131 Stat. 1047](https://www.govinfo.gov/link/statute/131/1047).)*

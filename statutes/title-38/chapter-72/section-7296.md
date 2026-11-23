@@ -3,9 +3,10 @@ title: "Section 7296 - Retirement of judges"
 usc_title: 38
 usc_section: "7296"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7296"
-generated_at: "2026-03-30T02:55:53.526Z"
+generated_at: "2026-11-23T21:26:16.841Z"
+status: "active"
 ---
 
 # § 7296. Retirement of judges
@@ -14,7 +15,17 @@ generated_at: "2026-03-30T02:55:53.526Z"
   - **(1)** The term “Court” means the United States Court of Appeals for Veterans Claims.
   - **(2)** The term “judge” means a judge of the Court.
 - **(b)**
-  - **(1)** A judge who meets the age and service requirements set forth in the following table may retire: The judge has attained age: And the years of service as a judge are at least 65 15 66 14 67 13 68 12 69 11 70 10
+  - **(1)** A judge who meets the age and service requirements set forth in the following table may retire:
+
+| The judge has attained age: | And the years of service as a judge are at least |
+| --- | --- |
+| 65 | 15 |
+| 66 | 14 |
+| 67 | 13 |
+| 68 | 12 |
+| 69 | 11 |
+| 70 | 10 |
+
   - **(2)** A judge who is not reappointed following the expiration of the term for which appointed may retire upon the completion of that term if the judge has served as a judge of the Court for 15 years or more.
   - **(3)** A judge who becomes permanently disabled and as a result of that disability is unable to perform the duties of the office shall retire.
 - **(c)**
@@ -63,3 +74,69 @@ generated_at: "2026-03-30T02:55:53.526Z"
   - **(2)** Each judge who makes an election under subsection (d) of this section shall be considered to agree to the deductions from salary which are made under paragraph (1) of this subsection.
 - **(j)** A judge who makes an election under subsection (d) of this section shall deposit, for service on the Court performed before the election for which contributions may be made under this section, an amount equal to 1 percent of the salary received for the first years, not exceeding 15 years, of that service. Retired pay may not be allowed until a deposit required by this subsection has been made.
 - **(k)** The amounts deducted and withheld under subsection (i) of this section, and the amounts deposited under subsection (j) of this section, shall be deposited in the Court of Appeals for Veterans Claims Retirement Fund for credit to individual accounts in the name of each judge from whom such amounts are received.
+
+| “The judge has attained age: | And the years of service as a judge are at least |
+| --- | --- |
+| 65 | 13 |
+| 66 | 13 |
+| 67 | 13 |
+| 68 | 12 |
+| 69 | 11 |
+| 70 | 10.” |
+
+
+65
+
+66
+
+67
+
+68
+
+69
+
+70
+
+Retirement Authorized
+
+Eligible Judges
+
+Multiple Eligible Judges
+
+Notice
+
+Date of Retirement
+
+Applicable Provisions
+
+Applicability of Recall Status Authority
+
+Rate of Retired Pay
+
+Adjustments in Retired Pay for Judges Available for Recall
+
+Duty of Actuary
+
+Transitional Service of Judge Retired Under This Section
+
+Treatment of Political Party Membership
+
+Modified Terms
+
+Eligibility for Retirement
+
+65
+
+66
+
+67
+
+68
+
+69
+
+70
+
+## Source Credit
+
+*(Added [Pub. L. 101–94, title I, § 101(a)](https://www.govinfo.gov/link/plaw/101/public/94), Aug. 16, 1989, [103 Stat. 617](https://www.govinfo.gov/link/statute/103/617), § 4096; renumbered § 7296 and amended [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), (d)(1), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238), 239; [Pub. L. 102–82, § 5(c)(1)](https://www.govinfo.gov/link/plaw/102/public/82), Aug. 6, 1991, [105 Stat. 376](https://www.govinfo.gov/link/statute/105/376); [Pub. L. 102–198, § 7(c)(4)(D)](https://www.govinfo.gov/link/plaw/102/public/198), Dec. 9, 1991, [105 Stat. 1625](https://www.govinfo.gov/link/statute/105/1625); [Pub. L. 105–368, title V, § 512(a)(1)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3341](https://www.govinfo.gov/link/statute/112/3341); [Pub. L. 106–117, title X](https://www.govinfo.gov/link/plaw/106/public/117), §§ 1022, 1035(2), Nov. 30, 1999, [113 Stat. 1592](https://www.govinfo.gov/link/statute/113/1592), 1595; [Pub. L. 107–103, title VI, § 602](https://www.govinfo.gov/link/plaw/107/public/103), Dec. 27, 2001, [115 Stat. 999](https://www.govinfo.gov/link/statute/115/999); [Pub. L. 110–389, title VI, § 603(b)(1)](https://www.govinfo.gov/link/plaw/110/public/389), (2), Oct. 10, 2008, [122 Stat. 4177](https://www.govinfo.gov/link/statute/122/4177), 4178.)*

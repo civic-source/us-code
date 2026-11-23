@@ -3,9 +3,10 @@ title: "Section 4061 - Defense Research and Development Rapid Innovation Program
 usc_title: 10
 usc_section: "4061"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4061"
-generated_at: "2026-03-30T02:53:38.200Z"
+generated_at: "2026-11-23T21:25:32.753Z"
+status: "active"
 ---
 
 # § 4061. Defense Research and Development Rapid Innovation Program
@@ -28,3 +29,19 @@ generated_at: "2026-03-30T02:53:38.200Z"
 - **(e)**
   - **(1)** The Secretary may transfer funds available for the program to the research, development, test, and evaluation accounts of a military department, defense agency, or the unified combatant command for special operations forces pursuant to a proposal, or any part of a proposal, that the Secretary determines would directly support the purposes of the program.
   - **(2)** The transfer authority provided in this subsection is in addition to any other transfer authority available to the Department of Defense.
+
+Program Established
+
+Guidelines
+
+Treatment Pursuant to Certain Congressional Rules
+
+Funding
+
+Transfer Authority
+
+“Subject to the availability of appropriations for such purpose, the Secretary of Defense may expand the efforts of the Defense Innovation Unit to engage and collaborate with private-sector industry and communities in various regions of the United States—
+
+## Source Credit
+
+*(Added [Pub. L. 115–232, div. A, title II, § 224(a)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1683](https://www.govinfo.gov/link/statute/132/1683), § 2359a; amended [Pub. L. 116–92, div. A, title VIII, § 878(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1530](https://www.govinfo.gov/link/statute/133/1530); renumbered § 4061 and amended [Pub. L. 116–283, div. A, title XVIII](https://www.govinfo.gov/link/plaw/116/public/283), §§ 1842(b), 1883(b)(2), Jan. 1, 2021, [134 Stat. 4244](https://www.govinfo.gov/link/statute/134/4244), 4294; [Pub. L. 117–81, div. A, title XVII, § 1701(d)(8)](https://www.govinfo.gov/link/plaw/117/public/81), (q)(1), (u)(3)(B), Dec. 27, 2021, [135 Stat. 2136](https://www.govinfo.gov/link/statute/135/2136), 2148, 2152; [Pub. L. 118–31, div. A, title VIII, § 860](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 346](https://www.govinfo.gov/link/statute/137/346).)*

@@ -3,9 +3,10 @@ title: "Section 593 - Reserves for losses on loans"
 usc_title: 26
 usc_section: "593"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 593"
-generated_at: "2026-03-30T02:55:27.720Z"
+generated_at: "2026-11-23T21:26:06.344Z"
+status: "active"
 ---
 
 # § 593. Reserves for losses on loans
@@ -99,3 +100,15 @@ generated_at: "2026-03-30T02:55:27.720Z"
     - **(A)** any amount required to be included in the gross income of the credit union by reason of this subsection shall be treated as derived from an unrelated trade or business (as defined in section 513), and
     - **(B)** for purposes of paragraph (3), the credit union shall not be treated as if it were a bank.
   - **(8)** The Secretary shall prescribe such regulations as may be necessary to carry out this subsection and subsection (e), including regulations providing for the application of such subsections in the case of acquisitions, mergers, spin-offs, and other reorganizations.
+
+In general
+
+Subsection
+
+Subsection
+
+Subsection
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 205; [Pub. L. 87–834, § 6(a)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 977](https://www.govinfo.gov/link/statute/76/977); [Pub. L. 91–172, title IV, § 432(a)](https://www.govinfo.gov/link/plaw/91/public/172), (b), Dec. 30, 1969, [83 Stat. 620](https://www.govinfo.gov/link/statute/83/620), 622; [Pub. L. 94–455, title XIX, § 1901(a)(84)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1778](https://www.govinfo.gov/link/statute/90/1778); [Pub. L. 96–222, title I, § 104(a)(3)(C)](https://www.govinfo.gov/link/plaw/96/public/222), Apr. 1, 1980, [94 Stat. 215](https://www.govinfo.gov/link/statute/94/215); [Pub. L. 97–34, title II](https://www.govinfo.gov/link/plaw/97/public/34), §§ 243, 245(b), (c), Aug. 13, 1981, [95 Stat. 255](https://www.govinfo.gov/link/statute/95/255), 256; [Pub. L. 99–514, title III, § 311(b)(2)](https://www.govinfo.gov/link/plaw/99/public/514), title VI, § 671(b)(2), title IX, § 901(b)(1)–(3), (d)(2), Oct. 22, 1986, [100 Stat. 2219](https://www.govinfo.gov/link/statute/100/2219), 2317, 2378; [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1003(c)(3), 1006(t)(25)(B), Nov. 10, 1988, [102 Stat. 3384](https://www.govinfo.gov/link/statute/102/3384), 3426; [Pub. L. 101–73, title XIV, § 1401(b)(3)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 550](https://www.govinfo.gov/link/statute/103/550); [Pub. L. 101–508, title XI, § 11801(c)(12)(F)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–527](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1616(a), (b)(7), 1704(t)(51), Aug. 20, 1996, [110 Stat. 1854](https://www.govinfo.gov/link/statute/110/1854), 1857, 1890; [Pub. L. 105–34, title XVI, § 1601(f)(5)(A)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1091](https://www.govinfo.gov/link/statute/111/1091); [Pub. L. 115–141, div. U, title IV, § 401(b)(24)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1203](https://www.govinfo.gov/link/statute/132/1203).)*

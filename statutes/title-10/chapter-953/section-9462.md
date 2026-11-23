@@ -3,9 +3,10 @@ title: "Section 9462 - Support of athletic programs"
 usc_title: 10
 usc_section: "9462"
 chapter: 953
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 9462"
-generated_at: "2026-03-30T02:53:38.260Z"
+generated_at: "2026-11-23T21:25:33.003Z"
+status: "active"
 ---
 
 # § 9462. Support of athletic programs
@@ -37,3 +38,39 @@ generated_at: "2026-03-30T02:53:38.260Z"
     - **(A)** such agreement would reflect unfavorably on the ability of the Department of the Air Force, any of its employees, or any member of the armed forces to carry out any responsibility or duty in a fair and objective manner; or
     - **(B)** the Secretary determines that the use of the trademark or service mark would compromise the integrity or appearance of integrity of any program of the Department of the Air Force, or any individual involved in such a program.
 - **(i)** Any funds received under this section may be retained for use in support of the athletic programs of the Academy and shall remain available until expended.
+
+Corporation for Support Authorized
+
+Corporate Organization
+
+Corporate Board of Directors
+
+Transfers From Nonappropriated Fund Operation
+
+Acceptance of Support.—
+
+Support received from the corporation
+
+Funds received from other sources
+
+Limitations
+
+Leases and Licenses.—
+
+In general
+
+Support services
+
+Contracts and Cooperative Agreements
+
+Trademarks and Service Marks.—
+
+Licensing, marketing, and sponsorship agreements
+
+Limitations
+
+Retention and Use of Funds
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title V, § 528(a)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2289](https://www.govinfo.gov/link/statute/123/2289), § 9362; amended [Pub. L. 113–291, div. A, title V, § 554](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3377](https://www.govinfo.gov/link/statute/128/3377); renumbered § 9462, [Pub. L. 115–232, div. A, title VIII, § 806(a)(3)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1832](https://www.govinfo.gov/link/statute/132/1832); [Pub. L. 116–283, div. A, title IX, § 923(d)(15)](https://www.govinfo.gov/link/plaw/116/public/283), title XVIII, § 1883(b)(2), Jan. 1, 2021, [134 Stat. 3815](https://www.govinfo.gov/link/statute/134/3815), 4294.)*

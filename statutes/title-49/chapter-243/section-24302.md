@@ -3,9 +3,10 @@ title: "Section 24302 - Board of directors"
 usc_title: 49
 usc_section: "24302"
 chapter: 243
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 24302"
-generated_at: "2026-03-30T02:56:19.343Z"
+generated_at: "2026-11-23T21:26:40.731Z"
+status: "active"
 ---
 
 # § 24302. Board of directors
@@ -41,3 +42,107 @@ generated_at: "2026-03-30T02:56:19.343Z"
 - **(d)** A vacancy on the Board is filled in the same way as the original selection, except that an individual appointed by the President of the United States under subsection (a)(1)(C) of this section to fill a vacancy occurring before the end of the term for which the predecessor of that individual was appointed is appointed for the remainder of that term. A vacancy required to be filled by appointment under subsection (a)(1)(C) must be filled not later than 120 days after the vacancy occurs.
 - **(e)** A majority of the members serving who are eligible to vote shall constitute a quorum for doing business.
 - **(f)** The Board may adopt and amend bylaws governing the operation of Amtrak. The bylaws shall be consistent with this part and the articles of incorporation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 24302(a)(1) | 45:543(a)(1) (words before (A)), (A) (1st sentence), (B)–(E) (words before comma). | Oct. 30, 1970 , Pub. L. 91–518, § 303(a) , 84 Stat. 1330 ; restated Nov. 3, 1973 , Pub. L. 93–146, § 3(a) , 87 Stat. 548 ; Feb. 5, 1976 , Pub. L. 94–210, § 706(f) , 90 Stat. 124 ; Oct. 19, 1976 , Pub. L. 94–555, § 103 , 90 Stat. 2615 ; May 30, 1980 , Pub. L. 96–254, § 206(a) , 94 Stat. 412 ; Aug. 13, 1981 , Pub. L. 97–35, § 1174(a) , 95 Stat. 689 ; June 22, 1988 , Pub. L. 100–342, § 18(b) , 102 Stat. 636 . |
+| 24302(a)(2) | 45:543(a)(2)(A) (1st sentence words before comma, last sentence). |  |
+| 24302(a)(3) | 45:543(a)(2)(B). |  |
+| 24302(a)(4) | 45:543(a)(1)(E) (words after comma). |  |
+| 24302(a)(5) | 45:543(a)(4). |  |
+| 24302(a)(6) | 45:543(a)(1)(A) (last sentence). |  |
+| 24302(b) | 45:543(a)(7). |  |
+|  | 45:543(c). | Oct. 30, 1970 , Pub. L. 91–518, § 303(b) , (c), 84 Stat. 1331 . |
+| 24302(c) | 45:543(a)(6). |  |
+| 24302(d) | 45:543(a)(5). |  |
+| 24302(e) | 45:543(a)(2)(A) (1st sentence words after comma), (3), (8). |  |
+| 24302(f) | 45:543(b). |  |
+
+
+Composition and Terms.—
+
+Pay and Expenses
+
+Travel
+
+Vacancies
+
+Quorum
+
+Bylaws
+
+Historical and Revision Notes
+
+24302(a)(1)
+
+Oct. 30, 1970
+
+Pub. L. 91–518, § 303(a)
+
+84 Stat. 1330
+
+Nov. 3, 1973
+
+Pub. L. 93–146, § 3(a)
+
+87 Stat. 548
+
+Feb. 5, 1976
+
+Pub. L. 94–210, § 706(f)
+
+90 Stat. 124
+
+Oct. 19, 1976
+
+Pub. L. 94–555, § 103
+
+90 Stat. 2615
+
+May 30, 1980
+
+Pub. L. 96–254, § 206(a)
+
+94 Stat. 412
+
+Aug. 13, 1981
+
+Pub. L. 97–35, § 1174(a)
+
+95 Stat. 689
+
+June 22, 1988
+
+Pub. L. 100–342, § 18(b)
+
+102 Stat. 636
+
+24302(a)(2)
+
+24302(a)(3)
+
+24302(a)(4)
+
+24302(a)(5)
+
+24302(a)(6)
+
+24302(b)
+
+Oct. 30, 1970
+
+Pub. L. 91–518, § 303(b)
+
+84 Stat. 1331
+
+24302(c)
+
+24302(d)
+
+24302(e)
+
+24302(f)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 906](https://www.govinfo.gov/link/statute/108/906); [Pub. L. 105–134, title IV, § 411(a)](https://www.govinfo.gov/link/plaw/105/public/134), Dec. 2, 1997, [111 Stat. 2588](https://www.govinfo.gov/link/statute/111/2588); [Pub. L. 110–432, div. B, title II, § 202(a)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4911](https://www.govinfo.gov/link/statute/122/4911); [Pub. L. 114–94, div. A, title XI, § 11205](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1637](https://www.govinfo.gov/link/statute/129/1637); [Pub. L. 117–58, div. B, title II, § 22202(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 697](https://www.govinfo.gov/link/statute/135/697).)*

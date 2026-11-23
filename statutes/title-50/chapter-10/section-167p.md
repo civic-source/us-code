@@ -3,9 +3,10 @@ title: "Section 167p - Helium-3 separation"
 usc_title: 50
 usc_section: "167p"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 167p"
-generated_at: "2026-03-30T02:56:26.199Z"
+generated_at: "2026-11-23T21:26:38.900Z"
+status: "active"
 ---
 
 # § 167p. Helium-3 separation
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:26.199Z"
   - **(2)** exploring other potential sources of the isotope helium-3.
 - **(c)** Not later than 1 year after October 2, 2013 , the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report that contains a description of the results of the assessments conducted under this section.
 - **(d)** There is authorized to be appropriated to carry out this section $1,000,000.
+
+## Source Credit
+
+*(Mar. 3, 1925, ch. 426, § 18, as added [Pub. L. 113–40, § 6(3)](https://www.govinfo.gov/link/plaw/113/public/40), Oct. 2, 2013, [127 Stat. 543](https://www.govinfo.gov/link/statute/127/543).)*

@@ -3,9 +3,10 @@ title: "Section 14925 - Universal accreditation requirements"
 usc_title: 42
 usc_section: "14925"
 chapter: 143
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 14925"
-generated_at: "2026-03-30T02:56:11.453Z"
+generated_at: "2026-11-23T21:26:33.646Z"
+status: "active"
 ---
 
 # § 14925. Universal accreditation requirements
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.453Z"
 - **(c)** This Act shall not apply to a person offering or providing adoption services as described in subsection (a) in the case of a prospective adoption in which—
   - **(1)** an application for advance processing of an orphan petition or petition to classify an orphan as an immediate relative for a child is filed before the date that is 180 days after January 14, 2013 ; or
   - **(2)** the prospective adoptive parents of a child have initiated the adoption process with the filing of an appropriate application in a foreign country sufficient such that the Secretary of State is satisfied before the date that is 180 days after January 14, 2013 .
+
+## Source Credit
+
+*([Pub. L. 112–276, § 2](https://www.govinfo.gov/link/plaw/112/public/276), Jan. 14, 2013, [126 Stat. 2466](https://www.govinfo.gov/link/statute/126/2466).)*

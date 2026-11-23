@@ -3,9 +3,10 @@ title: "Section 6592a - Ecosystem restoration"
 usc_title: 16
 usc_section: "6592a"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6592a"
-generated_at: "2026-03-30T02:54:23.064Z"
+generated_at: "2026-11-23T21:25:52.048Z"
+status: "active"
 ---
 
 # § 6592a. Ecosystem restoration
@@ -88,3 +89,7 @@ generated_at: "2026-03-30T02:54:23.064Z"
     - **(A)** all of the priority watersheds on National Forest System land;
     - **(B)** the condition of each priority watershed on November 15, 2021 ; and
     - **(C)** the condition of each priority watershed on the date that is 5 years after November 15, 2021 .
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title VIII, § 40804](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1105](https://www.govinfo.gov/link/statute/135/1105).)*

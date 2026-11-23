@@ -3,9 +3,10 @@ title: "Section 21142 - Audits and repayment of funds"
 usc_title: 52
 usc_section: "21142"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 21142"
-generated_at: "2026-03-30T02:56:30.169Z"
+generated_at: "2026-11-23T21:26:42.339Z"
+status: "active"
 ---
 
 # § 21142. Audits and repayment of funds
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:30.169Z"
 - **(c)** If the Comptroller General determines as a result of an audit conducted under subsection (b) prior to November 26, 2014 , that—
   - **(1)** a recipient of funds under this chapter is not in compliance with each of the requirements of the program under which the funds are provided; or
   - **(2)** an excess payment has been made to the recipient under the program,
+
+## Source Credit
+
+*([Pub. L. 107–252, title IX, § 902](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1727](https://www.govinfo.gov/link/statute/116/1727); [Pub. L. 113–188, title IX, § 901(c)](https://www.govinfo.gov/link/plaw/113/public/188), Nov. 26, 2014, [128 Stat. 2020](https://www.govinfo.gov/link/statute/128/2020).)*

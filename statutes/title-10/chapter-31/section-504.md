@@ -3,9 +3,10 @@ title: "Section 504 - Persons not qualified"
 usc_title: 10
 usc_section: "504"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 504"
-generated_at: "2026-03-30T02:53:38.064Z"
+generated_at: "2026-11-23T21:25:32.278Z"
+status: "active"
 ---
 
 # § 504. Persons not qualified
@@ -38,3 +39,19 @@ generated_at: "2026-03-30T02:53:38.064Z"
     - **(A)** The number of individuals described in paragraph (2) provided information described in paragraph (3)(A).
     - **(B)** The number of individuals described in paragraph (2) provided information described in paragraph (3)(B).
     - **(C)** The number of agreements described in paragraph (3)(C) into which the Secretary entered.
+
+Insanity, Desertion, Felons, Etc
+
+Citizenship or Residency
+
+Alternative Service in Areas of National Interest
+
+In General
+
+Certain Persons Not Qualified to Enlist
+
+Covered Armed Force Defined
+
+## Source Credit
+
+*(Added [Pub. L. 90–235, § 2(a)(1)(B)](https://www.govinfo.gov/link/plaw/90/public/235), Jan. 2, 1968, [81 Stat. 754](https://www.govinfo.gov/link/statute/81/754); amended [Pub. L. 109–163, div. A, title V, § 542(a)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3253](https://www.govinfo.gov/link/statute/119/3253); [Pub. L. 115–232, div. A, title V, § 521(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1755](https://www.govinfo.gov/link/statute/132/1755); [Pub. L. 119–60, div. A, title V, § 532(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 869](https://www.govinfo.gov/link/statute/139/869).)*

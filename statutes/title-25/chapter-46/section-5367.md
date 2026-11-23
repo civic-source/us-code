@@ -3,9 +3,10 @@ title: "Section 5367 - Construction programs and projects"
 usc_title: 25
 usc_section: "5367"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5367"
-generated_at: "2026-03-30T02:54:52.868Z"
+generated_at: "2026-11-23T21:25:54.730Z"
+status: "active"
 ---
 
 # § 5367. Construction programs and projects
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:54:52.868Z"
   - **(3)** The Secretary may conduct onsite project oversight visits semiannually or on an alternate schedule agreed to by the Secretary and the Indian Tribe.
 - **(i)** Unless otherwise agreed to by the Indian Tribe and except as otherwise provided in this chapter, no provision of title 41, the Federal Acquisition Regulation, or any other law or regulation pertaining to Federal procurement (including Executive orders) shall apply to any construction program or project carried out under this subchapter.
 - **(j)** Upon completion of a facility constructed under this subchapter, the Secretary shall include the facility among those eligible for annual operation and maintenance funding support comparable to that provided for similar facilities funded by the Department as annual appropriations are available and to the extent that the facility size and complexity and other factors do not exceed the funding formula criteria for comparable buildings.
+
+## Source Credit
+
+*([Pub. L. 93–638, title IV, § 407](https://www.govinfo.gov/link/plaw/93/public/638), as added [Pub. L. 116–180, title I, § 101(e)](https://www.govinfo.gov/link/plaw/116/public/180), Oct. 21, 2020, [134 Stat. 870](https://www.govinfo.gov/link/statute/134/870).)*

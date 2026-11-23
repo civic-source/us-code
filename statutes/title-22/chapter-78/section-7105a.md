@@ -3,9 +3,10 @@ title: "Section 7105a - Increasing effectiveness of anti-trafficking programs"
 usc_title: 22
 usc_section: "7105a"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7105a"
-generated_at: "2026-03-30T02:55:05.437Z"
+generated_at: "2026-11-23T21:25:58.710Z"
+status: "active"
 ---
 
 # § 7105a. Increasing effectiveness of anti-trafficking programs
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:05.437Z"
 - **(f)** For each of the fiscal years 2008 through 2011, not more than 5 percent of the amounts made available to carry out this chapter may be used to carry out this section, including—
   - **(1)** evaluations of promising anti-trafficking programs and projects funded by the disbursing agency pursuant to this Act; and
   - **(2)** evaluations of emerging problems or global trends.
+
+## Source Credit
+
+*([Pub. L. 106–386, div. A, § 107A](https://www.govinfo.gov/link/plaw/106/public/386), as added [Pub. L. 110–457, title I, § 105](https://www.govinfo.gov/link/plaw/110/public/457), Dec. 23, 2008, [122 Stat. 5047](https://www.govinfo.gov/link/statute/122/5047).)*

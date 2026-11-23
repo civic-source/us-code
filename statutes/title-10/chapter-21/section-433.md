@@ -3,9 +3,10 @@ title: "Section 433 - Relationship with other Federal laws"
 usc_title: 10
 usc_section: "433"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 433"
-generated_at: "2026-03-30T02:53:38.059Z"
+generated_at: "2026-11-23T21:25:32.268Z"
+status: "active"
 ---
 
 # § 433. Relationship with other Federal laws
@@ -23,3 +24,13 @@ generated_at: "2026-03-30T02:53:38.059Z"
   - **(5)** Payments for travel and housing.
   - **(6)** The establishment of legal entities or government instrumentalities.
   - **(7)** Foreign trade or financial transaction restrictions that would reveal the commercial activity as an activity of the United States Government.
+
+In General
+
+Authorization of Waivers When Necessary to Maintain Security
+
+Federal Laws and Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 102–88, title V, § 504(a)(2)](https://www.govinfo.gov/link/plaw/102/public/88), Aug. 14, 1991, [105 Stat. 438](https://www.govinfo.gov/link/statute/105/438).)*

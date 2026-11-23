@@ -3,9 +3,10 @@ title: "Section 948b - Military commissions generally"
 usc_title: 10
 usc_section: "948b"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 948b"
-generated_at: "2026-03-30T02:53:38.088Z"
+generated_at: "2026-11-23T21:25:32.359Z"
+status: "active"
 ---
 
 # § 948b. Military commissions generally
@@ -20,3 +21,27 @@ generated_at: "2026-03-30T02:53:38.088Z"
     - **(C)** Section 832 (article 32 of the Uniform Code of Military Justice), relating to preliminary hearing.
   - **(2)** Other provisions of chapter 47 of this title shall apply to trial by military commission under this chapter only to the extent provided by the terms of such provisions or by this chapter.
 - **(e)** No alien unprivileged enemy belligerent subject to trial by military commission under this chapter may invoke the Geneva Conventions as a basis for a private right of action.
+
+Purpose
+
+Authority for Military Commissions Under This Chapter
+
+Construction of Provisions
+
+Inapplicability of Certain Provisions
+
+Geneva Conventions Not Establishing Private Right of Action
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+George W. Bush.
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title XVIII, § 1802](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2575](https://www.govinfo.gov/link/statute/123/2575); amended [Pub. L. 113–66, div. A, title XVII, § 1702(c)(3)(E)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 958](https://www.govinfo.gov/link/statute/127/958).)*

@@ -3,9 +3,10 @@ title: "Section 1683 - Definitions"
 usc_title: 19
 usc_section: "1683"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1683"
-generated_at: "2026-03-30T02:54:24.659Z"
+generated_at: "2026-11-23T21:25:42.759Z"
+status: "active"
 ---
 
 # § 1683. Definitions
@@ -42,3 +43,19 @@ In this subtitle:
   - **(7)** The term “HTS” means the Harmonized Tariff Schedule of the United States ( 19 U.S.C. 1202 ) (as in effect on January 1, 2008 ).
   - **(8)** The term “person” includes any individual, partnership, corporation, association, organization, business trust, government entity, or other entity subject to the jurisdiction of the United States.
   - **(9)** The term “United States” means the customs territory of the United States, as defined in General Note 2 of the HTS.
+
+(aa) does not hold tenure rights provided by the country of export;
+
+(bb) did not acquire standing timber directly from the country of export; and
+
+(cc) is not related to the person who holds tenure rights or acquired standing timber directly from the country of export.
+
+(aa) holds tenure rights provided by the country of export;
+
+(bb) acquired standing timber directly from the country of export; or
+
+(cc) is related to a person who holds tenure rights or acquired standing timber directly from the country of export.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VIII, § 802, as added [Pub. L. 110–246, title III, § 3301(a)](https://www.govinfo.gov/link/plaw/110/public/246), June 18, 2008, [122 Stat. 1844](https://www.govinfo.gov/link/statute/122/1844).)*

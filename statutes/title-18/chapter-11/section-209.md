@@ -3,9 +3,10 @@ title: "Section 209 - Salary of Government officials and employees payable only 
 usc_title: 18
 usc_section: "209"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 209"
-generated_at: "2026-03-30T02:54:16.459Z"
+generated_at: "2026-11-23T21:25:43.951Z"
+status: "active"
 ---
 
 # § 209. Salary of Government officials and employees payable only by United States
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:16.459Z"
   - **(1)** This section does not prohibit an employee of a private sector organization, while assigned to an agency under chapter 37 of title 5, from continuing to receive pay and benefits from such organization in accordance with such chapter.
   - **(2)** For purposes of this subsection, the term “agency” means an agency (as defined by section 3701 of title 5 ) and the Office of the Chief Technology Officer of the District of Columbia.
 - **(h)** This section does not prohibit a member of the reserve components of the armed forces, or a member of the Space Force, on active duty pursuant to a call or order to active duty under a provision of law referred to in section 101(a)(13) of title 10 from receiving from any person that employed such member before the call or order to active duty any payment of any part of the salary or wages that such person would have paid the member if the member’s employment had not been interrupted by such call or order to active duty.
+
+## Source Credit
+
+*(Added [Pub. L. 87–849, § 1(a)](https://www.govinfo.gov/link/plaw/87/public/849), Oct. 23, 1962, [76 Stat. 1125](https://www.govinfo.gov/link/statute/76/1125); amended [Pub. L. 96–174](https://www.govinfo.gov/link/plaw/96/public/174), Dec. 29, 1979, [93 Stat. 1288](https://www.govinfo.gov/link/statute/93/1288); [Pub. L. 97–171](https://www.govinfo.gov/link/plaw/97/public/171), Apr. 13, 1982, [96 Stat. 67](https://www.govinfo.gov/link/statute/96/67); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 99–646, § 70](https://www.govinfo.gov/link/plaw/99/public/646), Nov. 10, 1986, [100 Stat. 3617](https://www.govinfo.gov/link/statute/100/3617); [Pub. L. 101–194, title IV, § 406](https://www.govinfo.gov/link/plaw/101/public/194), Nov. 30, 1989, [103 Stat. 1753](https://www.govinfo.gov/link/statute/103/1753); [Pub. L. 101–647, title XXXV, § 3510](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4922](https://www.govinfo.gov/link/statute/104/4922); [Pub. L. 103–322, title XXXIII, § 330008(7)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2143](https://www.govinfo.gov/link/statute/108/2143); [Pub. L. 107–273, div. A, title III, § 302(3)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1781](https://www.govinfo.gov/link/statute/116/1781); [Pub. L. 107–347, title II, § 209(g)(2)](https://www.govinfo.gov/link/plaw/107/public/347), Dec. 17, 2002, [116 Stat. 2932](https://www.govinfo.gov/link/statute/116/2932); [Pub. L. 108–375, div. A, title VI, § 663](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1974](https://www.govinfo.gov/link/statute/118/1974); [Pub. L. 118–159, div. A, title V, § 568(b)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1906](https://www.govinfo.gov/link/statute/138/1906).)*

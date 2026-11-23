@@ -3,9 +3,10 @@ title: "Section 1803 - Study with respect to inland waterway user taxes and char
 usc_title: 33
 usc_section: "1803"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1803"
-generated_at: "2026-03-30T02:55:41.109Z"
+generated_at: "2026-11-23T21:26:11.411Z"
+status: "active"
 ---
 
 # § 1803. Study with respect to inland waterway user taxes and charges
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:55:41.109Z"
 - **(g)** For purposes of this section, the term “inland waterway user taxes and charges” means taxes imposed on the use of the inland and intra­coastal waterways of the United States and all alternatives to such taxes.
 - **(h)** Not later than September 30, 1981 , the Secretary of Transportation shall transmit to Congress a final report of the study required by this section, together with his findings and recommendations (including necessary legislation) and the findings and recommendations of the Secretary of Commerce, the Secretary of the Treasury, the Secretary of Agriculture, the Secretary of Energy, the Attorney General of the United States, the Secretary of the Army, the Chairman of the Water Resources Council, and the Director of the Office of Management and Budget.
 - **(i)** There are hereby authorized to be appropriated from time to time to the Secretary of Transportation such sums, not to exceed $8,000,000 in the aggregate, as may be necessary to carry out the study required by this section.
+
+## Source Credit
+
+*([Pub. L. 95–502, title II, § 205](https://www.govinfo.gov/link/plaw/95/public/502), Oct. 21, 1978, [92 Stat. 1698](https://www.govinfo.gov/link/statute/92/1698); [Pub. L. 104–88, title III, § 338](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 954](https://www.govinfo.gov/link/statute/109/954).)*

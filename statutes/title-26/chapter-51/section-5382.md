@@ -3,9 +3,10 @@ title: "Section 5382 - Cellar treatment of natural wine"
 usc_title: 26
 usc_section: "5382"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5382"
-generated_at: "2026-03-30T02:55:27.823Z"
+generated_at: "2026-11-23T21:26:06.722Z"
+status: "active"
 ---
 
 # § 5382. Cellar treatment of natural wine
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:27.823Z"
 - **(d)** For purposes of this part, juice, concentrated juice, or must processed at a plant qualified under section 5511 may be deemed to be pure juice, concentrated juice, or must even though volatile fruit flavor has been removed if, at a plant qualified under section 5511 or at the bonded wine cellar, there is added to such juice, concentrated juice, or must, or (in the case of a bonded wine cellar) to wine of the winemaker’s own production made therefrom, either the identical volatile flavor removed or—
   - **(1)** in the case of natural grape or berry wine of the winemaker’s own production, an equivalent quantity of volatile fruit-flavor concentrate produced at such a plant and derived from the same kind and variety of grape or berry, or
   - **(2)** in the case of natural fruit wine (other than grape or berry wine) of the winemaker’s own production, an equivalent quantity of volatile fruit-flavor concentrate produced at such a plant and derived from the same kind of fruit.
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1383](https://www.govinfo.gov/link/statute/72/1383); amended [Pub. L. 88–653](https://www.govinfo.gov/link/plaw/88/public/653), §§ 1, 2, Oct. 13, 1964, [78 Stat. 1085](https://www.govinfo.gov/link/statute/78/1085); [Pub. L. 89–44, title VIII, § 806(c)(1)](https://www.govinfo.gov/link/plaw/89/public/44), June 21, 1965, [79 Stat. 164](https://www.govinfo.gov/link/statute/79/164); [Pub. L. 90–619, § 2](https://www.govinfo.gov/link/plaw/90/public/619), Oct. 22, 1968, [82 Stat. 1237](https://www.govinfo.gov/link/statute/82/1237); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 108–429, title II, § 2002(a)](https://www.govinfo.gov/link/plaw/108/public/429), Dec. 3, 2004, [118 Stat. 2588](https://www.govinfo.gov/link/statute/118/2588); [Pub. L. 109–432, div. D, title III, § 3007](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 3176](https://www.govinfo.gov/link/statute/120/3176).)*

@@ -3,9 +3,10 @@ title: "Section 6736 - Authorization of appropriations for Puerto Rico, Guam, Am
 usc_title: 42
 usc_section: "6736"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6736"
-generated_at: "2026-03-30T02:56:11.266Z"
+generated_at: "2026-11-23T21:26:32.977Z"
+status: "active"
 ---
 
 # § 6736. Authorization of appropriations for Puerto Rico, Guam, American Samoa, and Virgin Islands
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.266Z"
     - **(B)** The term “territorial population” means the most recent population for each territory as determined by the Bureau of Census.
     - **(C)** The provisions of sections 6723(c)(4), 6724, 6725, 6726, 1 1 See References in Text note below. 6727, 6728, 6729, 6730, 6731, 6732, and 6733 1 of this title shall apply to the funds authorized under this section.
 - **(c)** The governments of the territories are authorized to make payments to local governments within their jurisdiction from sums received under this section as they deem appropriate.
+
+## Source Credit
+
+*([Pub. L. 94–369, title II, § 216](https://www.govinfo.gov/link/plaw/94/public/369), as added [Pub. L. 95–30, title VI, § 607](https://www.govinfo.gov/link/plaw/95/public/30), May 23, 1977, [91 Stat. 167](https://www.govinfo.gov/link/statute/91/167).)*

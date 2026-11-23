@@ -3,9 +3,10 @@ title: "Section 407bb - Establishment"
 usc_title: 16
 usc_section: "407bb"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 407bb"
-generated_at: "2026-03-30T02:54:22.758Z"
+generated_at: "2026-11-23T21:25:51.430Z"
+status: "active"
 ---
 
 # § 407bb. Establishment
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:22.758Z"
   - **(2)** directing a national program of public education on the Constitution; issuing traveling exhibits, commissioning radio and television programs, furnishing materials for the schools, and providing other education services;
   - **(3)** functioning as an intellectual center, drawing both academics and practitioners to debate and refine constitutional issues and, at the same time, providing intellectual support for the Center’s exhibits and public education program; and
   - **(4)** creating archives for programs on the bicentennial of the United States Constitution.
+
+## Source Credit
+
+*([Pub. L. 100–433, § 3](https://www.govinfo.gov/link/plaw/100/public/433), Sept. 16, 1988, [102 Stat. 1640](https://www.govinfo.gov/link/statute/102/1640).)*

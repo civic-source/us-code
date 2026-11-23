@@ -3,9 +3,10 @@ title: "Section 124a - Homeland security information sharing"
 usc_title: 6
 usc_section: "124a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 124a"
-generated_at: "2026-03-30T02:53:09.444Z"
+generated_at: "2026-11-23T21:25:25.748Z"
+status: "active"
 ---
 
 # § 124a. Homeland security information sharing
@@ -27,3 +28,11 @@ generated_at: "2026-03-30T02:53:09.444Z"
   - **(2)** The Under Secretary for Intelligence and Analysis shall—
     - **(A)** on an ongoing basis, evaluate how employees of the Office of Intelligence and Analysis and the intelligence components of the Department are utilizing homeland security information or national intelligence, sharing information within the Department, as described in this subchapter, and participating in the information sharing environment established under section 485 of this title ; and
     - **(B)** provide to the appropriate component heads regular reports regarding the evaluations under subparagraph (A).
+
+In general
+
+Savings clause
+
+## Source Credit
+
+*([Pub. L. 107–296, title II, § 204](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 110–53, title V, § 501(a)(1)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 307](https://www.govinfo.gov/link/statute/121/307); amended [Pub. L. 115–278, § 2(g)(2)(E)](https://www.govinfo.gov/link/plaw/115/public/278), Nov. 16, 2018, [132 Stat. 4177](https://www.govinfo.gov/link/statute/132/4177).)*

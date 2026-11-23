@@ -3,12 +3,17 @@ title: "Section 7470A - Judicial conference"
 usc_title: 26
 usc_section: "7470A"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7470A"
-generated_at: "2026-03-30T02:55:27.875Z"
+generated_at: "2026-11-23T21:26:06.971Z"
+status: "active"
 ---
 
 # § 7470A. Judicial conference
 
 - **(a)** The chief judge may summon the judges and special trial judges of the Tax Court to an annual judicial conference, at such time and place as the chief judge shall designate, for the purpose of considering the business of the Tax Court and recommending means of improving the administration of justice within the jurisdiction of the Tax Court. The Tax Court shall provide by its rules for representation and active participation at such conferences by persons admitted to practice before the Tax Court and by other persons active in the legal profession.
 - **(b)** The Tax Court may impose a reasonable registration fee on persons (other than judges and special trial judges of the Tax Court) participating at judicial conferences convened pursuant to subsection (a). Amounts so received by the Tax Court shall be available to the Tax Court to defray the expenses of such conferences.
+
+## Source Credit
+
+*(Added [Pub. L. 114–113, div. Q, title IV, § 432(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3126](https://www.govinfo.gov/link/statute/129/3126).)*

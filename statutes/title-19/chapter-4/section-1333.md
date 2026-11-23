@@ -3,9 +3,10 @@ title: "Section 1333 - Testimony and production of papers"
 usc_title: 19
 usc_section: "1333"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1333"
-generated_at: "2026-03-30T02:54:24.629Z"
+generated_at: "2026-11-23T21:25:42.695Z"
+status: "active"
 ---
 
 # § 1333. Testimony and production of papers
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:24.629Z"
 - **(f)** The commission is authorized, in order to ascertain any facts required by subdivision (d) of section 1332 of this title to require any importer and any American grower, producer, manufacturer, or seller to file with the commission a statement, under oath, giving his selling prices in the United States of any article imported, grown, produced, fabricated, manipulated, or manufactured by him.
 - **(g)** The Commission shall be represented in all judicial proceedings by attorneys who are employees of the Commission or, at the request of the Commission, by the Attorney General of the United States.
 - **(h)** Any correspondence, private letters of reprimand, and other documents and files relating to violations or possible violations of administrative protective orders issued by the Commission in connection with investigations or other proceedings under this subtitle shall be treated as information described in section 552(b)(3) of title 5 .
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title III, § 333, [46 Stat. 699](https://www.govinfo.gov/link/statute/46/699); June 25, 1936, ch. 804, [49 Stat. 1921](https://www.govinfo.gov/link/statute/49/1921); June 25, 1948, ch. 646, § 32(b), [62 Stat. 991](https://www.govinfo.gov/link/statute/62/991); May 24, 1949, ch. 139, § 127, [63 Stat. 107](https://www.govinfo.gov/link/statute/63/107); [Pub. L. 85–686, § 9(a)](https://www.govinfo.gov/link/plaw/85/public/686), (b), Aug. 20, 1958, [72 Stat. 679](https://www.govinfo.gov/link/statute/72/679); [Pub. L. 91–452, title II, § 229](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 930](https://www.govinfo.gov/link/statute/84/930); [Pub. L. 93–618, title I, § 174](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 2011](https://www.govinfo.gov/link/statute/88/2011); [Pub. L. 101–382, title I, § 135(a)](https://www.govinfo.gov/link/plaw/101/public/382), Aug. 20, 1990, [104 Stat. 651](https://www.govinfo.gov/link/statute/104/651).)*

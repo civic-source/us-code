@@ -3,9 +3,10 @@ title: "Section 3373 - Penalties and sanctions"
 usc_title: 16
 usc_section: "3373"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3373"
-generated_at: "2026-03-30T02:54:23.015Z"
+generated_at: "2026-11-23T21:25:51.970Z"
+status: "active"
 ---
 
 # § 3373. Penalties and sanctions
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:23.015Z"
     - **(B)** shall be fined under title 18 or imprisoned for not more than 1 year, or both, if the offense does not involve conduct described in subparagraph (A).
   - **(4)** Any person who knowingly violates section 3372(e) of this title shall be fined not more than $20,000, or imprisoned for not more than 5 years, or both. Each violation shall be a separate offense and the offense is deemed to have been committed in the district where the violation first occurred, and in any district in which the defendant may have taken or been in possession of the prohibited wildlife species.
 - **(e)** The Secretary may also suspend, modify, or cancel any Federal hunting or fishing license, permit, or stamp, or any license or permit authorizing a person to import or export fish or wildlife or plants (other than a permit or license issued pursuant to the Magnuson-Stevens Fishery Conservation and Management Act [ 16 U.S.C. 1801 et seq.]), or to operate a quarantine station or rescue center for imported wildlife or plants, issued to any person who is convicted of a criminal violation of any provision of this chapter or any regulation issued hereunder. The Secretary shall not be liable for the payments of any compensation, reimbursement, or damages in connection with the modification, suspension, or revocation of any licenses, permits, stamps, or other agreements pursuant to this section.
+
+## Source Credit
+
+*([Pub. L. 97–79, § 4](https://www.govinfo.gov/link/plaw/97/public/79), Nov. 16, 1981, [95 Stat. 1074](https://www.govinfo.gov/link/statute/95/1074); [Pub. L. 100–653, title I](https://www.govinfo.gov/link/plaw/100/public/653), §§ 102, 103, Nov. 14, 1988, [102 Stat. 3825](https://www.govinfo.gov/link/statute/102/3825), 3826; [Pub. L. 110–234, title VII, § 8204(c)](https://www.govinfo.gov/link/plaw/110/public/234), (f), May 22, 2008, [122 Stat. 1294](https://www.govinfo.gov/link/statute/122/1294); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VIII, § 8204(c), (f), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2055, 2056; [Pub. L. 117–243, § 4](https://www.govinfo.gov/link/plaw/117/public/243), Dec. 20, 2022, [136 Stat. 2338](https://www.govinfo.gov/link/statute/136/2338).)*

@@ -3,9 +3,10 @@ title: "Section 1719 - Mineral interests; reservation and conveyance requirement
 usc_title: 43
 usc_section: "1719"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1719"
-generated_at: "2026-03-30T02:55:57.487Z"
+generated_at: "2026-11-23T21:26:19.874Z"
+status: "active"
 ---
 
 # § 1719. Mineral interests; reservation and conveyance requirements and procedures
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:57.487Z"
       - **(i)** the Secretary shall require the deposit by the applicant of a sum of money which he deems sufficient to cover administrative costs including, but not limited to, costs of conducting an exploratory program to determine the character of the mineral deposits in the land, evaluating the data obtained under the exploratory program to determine the fair market value of the mineral interests to be conveyed, and preparing and issuing the documents of conveyance: Provided , That, if the administrative costs exceed the deposit, the applicant shall pay the outstanding amount; and, if the deposit exceeds the administrative costs, the applicant shall be given a credit for or refund of the excess; or
       - **(ii)** the applicant, with the consent of the Secretary, shall have conducted, and submitted to the Secretary the results of, such an exploratory program, in accordance with standards promulgated by the Secretary.
   - **(4)** Moneys paid to the Secretary for administrative costs pursuant to this subsection shall be paid to the agency which rendered the service and deposited to the appropriation then current.
+
+## Source Credit
+
+*([Pub. L. 94–579, title II, § 209](https://www.govinfo.gov/link/plaw/94/public/579), Oct. 21, 1976, [90 Stat. 2757](https://www.govinfo.gov/link/statute/90/2757).)*

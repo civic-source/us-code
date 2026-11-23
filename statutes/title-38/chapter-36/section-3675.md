@@ -3,9 +3,10 @@ title: "Section 3675 - Approval of accredited courses"
 usc_title: 38
 usc_section: "3675"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3675"
-generated_at: "2026-03-30T02:55:53.507Z"
+generated_at: "2026-11-23T21:26:16.757Z"
+status: "active"
 ---
 
 # § 3675. Approval of accredited courses
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:55:53.507Z"
     - **(A)** The name of each educational institution for which a waiver was issued.
     - **(B)** The justification for each such waiver.
     - **(C)** The total number of waivers issued.
+
+## Source Credit
+
+*(Added [Pub. L. 88–126, § 1](https://www.govinfo.gov/link/plaw/88/public/126), Sept. 23, 1963, [77 Stat. 159](https://www.govinfo.gov/link/statute/77/159), § 1775; amended [Pub. L. 89–358, § 3(a)(8)](https://www.govinfo.gov/link/plaw/89/public/358), Mar. 3, 1966, [80 Stat. 21](https://www.govinfo.gov/link/statute/80/21); [Pub. L. 94–502, title V](https://www.govinfo.gov/link/plaw/94/public/502), §§ 504, 513(a)(2), Oct. 15, 1976, [90 Stat. 2399](https://www.govinfo.gov/link/statute/90/2399), 2402; [Pub. L. 96–466, title VIII, § 801(d)](https://www.govinfo.gov/link/plaw/96/public/466), Oct. 17, 1980, [94 Stat. 2216](https://www.govinfo.gov/link/statute/94/2216); [Pub. L. 101–237, title IV, § 423(b)(1)(A)](https://www.govinfo.gov/link/plaw/101/public/237), Dec. 18, 1989, [103 Stat. 2092](https://www.govinfo.gov/link/statute/103/2092); renumbered § 3675 and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 102–568, title III, § 312](https://www.govinfo.gov/link/plaw/102/public/568), Oct. 29, 1992, [106 Stat. 4330](https://www.govinfo.gov/link/statute/106/4330); [Pub. L. 103–446, title VI, § 605(a)(2)(A)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4672](https://www.govinfo.gov/link/statute/108/4672); [Pub. L. 104–275, title I, § 103(c)](https://www.govinfo.gov/link/plaw/104/public/275), Oct. 9, 1996, [110 Stat. 3326](https://www.govinfo.gov/link/statute/110/3326); [Pub. L. 108–183, title III, § 305(a)](https://www.govinfo.gov/link/plaw/108/public/183), Dec. 16, 2003, [117 Stat. 2660](https://www.govinfo.gov/link/statute/117/2660); [Pub. L. 108–454, title I, § 110(c)(1)](https://www.govinfo.gov/link/plaw/108/public/454), Dec. 10, 2004, [118 Stat. 3605](https://www.govinfo.gov/link/statute/118/3605); [Pub. L. 111–377, title II, § 203(c)](https://www.govinfo.gov/link/plaw/111/public/377), Jan. 4, 2011, [124 Stat. 4125](https://www.govinfo.gov/link/statute/124/4125); [Pub. L. 114–315, title IV](https://www.govinfo.gov/link/plaw/114/public/315), §§ 408(b), 409(c), 410(b), Dec. 16, 2016, [130 Stat. 1558](https://www.govinfo.gov/link/statute/130/1558), 1560, 1561; [Pub. L. 116–315, title I, § 1015(a)](https://www.govinfo.gov/link/plaw/116/public/315), Jan. 5, 2021, [134 Stat. 4945](https://www.govinfo.gov/link/statute/134/4945); [Pub. L. 118–210, title II](https://www.govinfo.gov/link/plaw/118/public/210), §§ 205, 206(a), (b)(2)(B), 207(a), (b)(3), Jan. 2, 2025, [138 Stat. 2763–2765](https://www.govinfo.gov/link/statute/138/2763).)*

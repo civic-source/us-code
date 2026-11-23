@@ -3,9 +3,10 @@ title: "Section 1710C - Traumatic brain injury: plans for rehabilitation and rei
 usc_title: 38
 usc_section: "1710C"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1710C"
-generated_at: "2026-03-30T02:55:53.483Z"
+generated_at: "2026-11-23T21:26:16.631Z"
+status: "active"
 ---
 
 # § 1710C. Traumatic brain injury: plans for rehabilitation and reintegration into the community
@@ -64,3 +65,75 @@ generated_at: "2026-03-30T02:55:53.483Z"
   - **(1)** rehabilitative services, as defined in section 1701 of this title ;
   - **(2)** treatment and services (which may be of ongoing duration) to sustain, and prevent loss of, functional gains that have been achieved; and
   - **(3)** any other rehabilitative services or supports that may contribute to maximizing an individual’s independence.
+
+Plan Required
+
+Contents of Plan
+
+Comprehensive Assessment
+
+Case Manager
+
+Participation and Collaboration in Development of Plans
+
+Evaluation.—
+
+Periodic review by secretary
+
+Request for review by veterans
+
+State Designated Protection and Advocacy System Defined
+
+Rehabilitative Services Defined
+
+In General
+
+Collaboration
+
+Dissemination of Useful Information
+
+Traumatic Brain Injury Registry.—
+
+In general
+
+Description
+
+Notification
+
+Pilot Program
+
+Program Locations.—
+
+In general
+
+Special consideration for veterans in rural areas
+
+Provision of Community-Based Brain Injury Residential Rehabilitative Care Services.—
+
+Agreements
+
+Standards
+
+Continuation of Case Management and Rehabilitation Services
+
+Reports.—
+
+Quarterly reports.—
+
+In general
+
+Elements
+
+Final report.—
+
+In general
+
+Elements
+
+Definitions
+
+Termination
+
+## Source Credit
+
+*(Added [Pub. L. 110–181, div. A, title XVII, § 1702(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 486](https://www.govinfo.gov/link/statute/122/486); amended [Pub. L. 112–154, title I, § 107(a)](https://www.govinfo.gov/link/plaw/112/public/154), (d), Aug. 6, 2012, [126 Stat. 1173](https://www.govinfo.gov/link/statute/126/1173).)*

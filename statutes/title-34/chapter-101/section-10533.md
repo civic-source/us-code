@@ -3,9 +3,10 @@ title: "Section 10533 - Definitions"
 usc_title: 34
 usc_section: "10533"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10533"
-generated_at: "2026-03-30T02:55:33.271Z"
+generated_at: "2026-11-23T21:26:09.672Z"
+status: "active"
 ---
 
 # § 10533. Definitions
@@ -20,3 +21,7 @@ For purposes of this subchapter—
   - **(4)** the term “unit of local government” means a county, municipality, town, township, village, parish, borough, or other unit of general government below the State level;
   - **(5)** the term “Indian tribe” has the same meaning as in section 5304(e) of title 25 ; and
   - **(6)** the term “law enforcement officer” means any officer, agent, or employee of a State, unit of local government, or Indian tribe authorized by law or by a government agency to engage in or supervise the prevention, detection, or investigation of any violation of criminal law, or authorized by law to supervise sentenced criminal offenders.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2503](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 105–181, § 3(a)(3)](https://www.govinfo.gov/link/plaw/105/public/181), June 16, 1998, [112 Stat. 514](https://www.govinfo.gov/link/statute/112/514); amended [Pub. L. 106–517, § 3(d)](https://www.govinfo.gov/link/plaw/106/public/517), Nov. 13, 2000, [114 Stat. 2408](https://www.govinfo.gov/link/statute/114/2408).)*

@@ -3,9 +3,10 @@ title: "Section 12351 - Findings and purpose"
 usc_title: 42
 usc_section: "12351"
 chapter: 127
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12351"
-generated_at: "2026-03-30T02:56:11.413Z"
+generated_at: "2026-11-23T21:26:33.472Z"
+status: "active"
 ---
 
 # § 12351. Findings and purpose
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.413Z"
   - **(1)** stimulate the development and expansion of family resource and support programs that are prevention oriented;
   - **(2)** encourage early intervention of such programs with families to ameliorate problem situations before such situations become crises; and
   - **(3)** assist parents in enhancing their children’s development to ensure that their children enter school prepared and ready to learn.
+
+## Source Credit
+
+*([Pub. L. 101–501, title IX, § 956](https://www.govinfo.gov/link/plaw/101/public/501), Nov. 3, 1990, [104 Stat. 1278](https://www.govinfo.gov/link/statute/104/1278).)*

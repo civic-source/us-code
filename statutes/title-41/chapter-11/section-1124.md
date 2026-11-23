@@ -3,9 +3,10 @@ title: "Section 1124 - Tests of innovative procurement methods and procedures"
 usc_title: 41
 usc_section: "1124"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 1124"
-generated_at: "2026-03-30T02:55:55.799Z"
+generated_at: "2026-11-23T21:26:18.776Z"
+status: "active"
 ---
 
 # § 1124. Tests of innovative procurement methods and procedures
@@ -23,3 +24,42 @@ generated_at: "2026-03-30T02:55:55.799Z"
   - **(2)** the procedures to be followed in carrying out the proposed program;
   - **(3)** the provisions of law affected and the application of any provision of law that must be waived in order to carry out the proposed program; and
   - **(4)** the executive agencies involved in carrying out the proposed program.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1124(a) | 41:413(a) (1st, 2d sentences). | Pub. L. 93–400, § 15 , as added Pub. L. 98–191, § 7 , Dec. 1, 1983 , 97 Stat. 1329 ; Pub. L. 104–201, title X, § 1074(f)(2) , Sept. 23, 1996 , 110 Stat. 2661 . |
+| 1124(b) | 41:413(a) (last sentence). |  |
+| 1124(c) | 41:413(b). |  |
+
+
+In General
+
+Approval of Executive Agencies Required
+
+Request for Waiver of Law
+
+Historical and Revision Notes
+
+1124(a)
+
+Pub. L. 93–400, § 15
+
+Pub. L. 98–191, § 7
+
+Dec. 1, 1983
+
+97 Stat. 1329
+
+Pub. L. 104–201, title X, § 1074(f)(2)
+
+Sept. 23, 1996
+
+110 Stat. 2661
+
+1124(b)
+
+1124(c)
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3688](https://www.govinfo.gov/link/statute/124/3688).)*

@@ -3,9 +3,10 @@ title: "Section 1467b - Intermediate holding companies"
 usc_title: 12
 usc_section: "1467b"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1467b"
-generated_at: "2026-03-30T02:53:53.401Z"
+generated_at: "2026-11-23T21:25:36.846Z"
+status: "active"
 ---
 
 # § 1467b. Intermediate holding companies
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:53:53.401Z"
 - **(d)**
   - **(1)** Nothing in this section shall be construed to require a grandfathered unitary savings and loan holding company to conform its activities to permissible activities.
   - **(2)** The formation of an intermediate holding company as required in subsection (b) shall be presumed to be a permissible corporate reorganization as described in section 1467a(c)(9)(D) of this title .
+
+## Source Credit
+
+*(June 13, 1933, ch. 64, § 10A, as added [Pub. L. 111–203, title VI, § 626](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1638](https://www.govinfo.gov/link/statute/124/1638).)*

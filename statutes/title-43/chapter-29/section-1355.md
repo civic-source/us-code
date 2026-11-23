@@ -3,9 +3,10 @@ title: "Section 1355 - Restrictions on employment of former officers or employee
 usc_title: 43
 usc_section: "1355"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1355"
-generated_at: "2026-03-30T02:55:57.472Z"
+generated_at: "2026-11-23T21:26:19.835Z"
+status: "active"
 ---
 
 # § 1355. Restrictions on employment of former officers or employees of Department of the Interior
@@ -19,3 +20,7 @@ No full-time officer or employee of the Department of the Interior who directly 
   - **(2)** within one year after his employment with the Department has ceased—
     - **(A)** knowingly act as agent or attorney for, or otherwise represent, any other person (except the United States) in any formal or informal appearance before; or
     - **(B)** with the intent to influence, make any oral or written communication on behalf of any other person (except the United States) to,
+
+## Source Credit
+
+*(Aug. 7, 1953, ch. 345, § 29, as added [Pub. L. 95–372, title II, § 208](https://www.govinfo.gov/link/plaw/95/public/372), Sept. 18, 1978, [92 Stat. 668](https://www.govinfo.gov/link/statute/92/668).)*

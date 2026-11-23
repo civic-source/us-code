@@ -3,9 +3,10 @@ title: "Section 40308 - Space grant review panel"
 usc_title: 51
 usc_section: "40308"
 chapter: 403
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 40308"
-generated_at: "2026-03-30T02:56:28.706Z"
+generated_at: "2026-11-23T21:26:42.542Z"
+status: "active"
 ---
 
 # § 40308. Space grant review panel
@@ -24,3 +25,42 @@ generated_at: "2026-03-30T02:56:28.706Z"
   - **(3)** Voting members of the panel who are not Federal employees shall be reimbursed for actual and reasonable expenses incurred in the performance of such duties.
   - **(4)** The panel shall meet on a biannual basis and, at any other time, at the call of the Chairman or upon the request of a majority of the voting members or of the Administrator.
   - **(5)** The panel may exercise such powers as are reasonably necessary in order to carry out the duties enumerated in subsection (b).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40308 | 42 U.S.C. 2486h . | Pub. L. 100–147, title II, § 210 , Oct. 30, 1987 , 101 Stat. 874 . |
+
+
+Establishment
+
+Duties
+
+Personnel and Administrative Services
+
+Members.—
+
+Appointment
+
+Chairman and vice chairman
+
+Reimbursement for expenses
+
+Meetings
+
+Powers
+
+Historical and Revision Notes
+
+40308
+
+42 U.S.C. 2486h
+
+Pub. L. 100–147, title II, § 210
+
+Oct. 30, 1987
+
+101 Stat. 874
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3387](https://www.govinfo.gov/link/statute/124/3387); [Pub. L. 117–286, § 4(a)(325)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4341](https://www.govinfo.gov/link/statute/136/4341).)*

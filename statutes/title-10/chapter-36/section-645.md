@@ -3,9 +3,10 @@ title: "Section 645 - Definitions"
 usc_title: 10
 usc_section: "645"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 645"
-generated_at: "2026-03-30T02:53:38.072Z"
+generated_at: "2026-11-23T21:25:32.306Z"
+status: "active"
 ---
 
 # § 645. Definitions
@@ -25,3 +26,7 @@ In this chapter:
     - **(A)** are eligible for consideration for promotion to the next higher grade;
     - **(B)** are in the same grade as the officers in the promotion zone for that competitive category; and
     - **(C)** are junior to the junior officer in the promotion zone for that competitive category.
+
+## Source Credit
+
+*(Added [Pub. L. 96–513, title I, § 105](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2867](https://www.govinfo.gov/link/statute/94/2867); amended [Pub. L. 97–86, title IV, § 405(b)(1)](https://www.govinfo.gov/link/plaw/97/public/86), Dec. 1, 1981, [95 Stat. 1105](https://www.govinfo.gov/link/statute/95/1105); [Pub. L. 98–525, title V, § 533(a)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2528](https://www.govinfo.gov/link/statute/98/2528); [Pub. L. 99–145, title V, § 514(b)(1)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 628](https://www.govinfo.gov/link/statute/99/628); [Pub. L. 102–25, title VII, § 701(i)(1)](https://www.govinfo.gov/link/plaw/102/public/25), Apr. 6, 1991, [105 Stat. 115](https://www.govinfo.gov/link/statute/105/115); [Pub. L. 118–159, div. A, title V, § 521(e)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1881](https://www.govinfo.gov/link/statute/138/1881).)*

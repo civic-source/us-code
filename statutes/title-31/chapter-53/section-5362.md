@@ -3,9 +3,10 @@ title: "Section 5362 - Definitions"
 usc_title: 31
 usc_section: "5362"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 5362"
-generated_at: "2026-03-30T02:55:34.071Z"
+generated_at: "2026-11-23T21:26:10.633Z"
+status: "active"
 ---
 
 # § 5362. Definitions
@@ -84,3 +85,59 @@ In this subchapter:
       - **(i)** has the meaning given the term in section 3(c) of the Federal Deposit Insurance Act ( 12 U.S.C. 1813(c) ); and
       - **(ii)** includes an insured credit union (as defined in section 101 of the Federal Credit Union Act).
     - **(E)** The terms “money transmitting business” and “money transmitting service” have the meanings given the terms in section 5330(d) (determined without regard to any regulations prescribed by the Secretary thereunder).
+
+Bet or wager
+
+(aa) on the score, point-spread, or any performance or performances of any single real-world team or any combination of such teams; or
+
+(bb) solely on any single performance of an individual athlete in any single real-world sporting or other event.
+
+Business of betting or wagering
+
+Designated payment system
+
+Financial transaction provider
+
+Internet
+
+Interactive computer service
+
+Restricted transaction
+
+Secretary
+
+State
+
+Unlawful internet gambling.—
+
+In general
+
+Intrastate transactions
+
+Intratribal transactions
+
+Interstate horseracing.—
+
+In general
+
+Rule of construction regarding preemption
+
+Sense of congress
+
+Intermediate routing
+
+Other terms.—
+
+Credit; creditor; credit card; and card issuer
+
+Electronic fund transfer
+
+Financial institution
+
+Insured depository institution
+
+Money transmitting business and money transmitting service
+
+## Source Credit
+
+*(Added [Pub. L. 109–347, title VIII, § 802(a)](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1953](https://www.govinfo.gov/link/statute/120/1953).)*

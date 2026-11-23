@@ -3,9 +3,10 @@ title: "Section 13368 - Ownership of coalbed methane"
 usc_title: 42
 usc_section: "13368"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13368"
-generated_at: "2026-03-30T02:56:11.443Z"
+generated_at: "2026-11-23T21:26:33.598Z"
+status: "active"
 ---
 
 # § 13368. Ownership of coalbed methane
@@ -73,3 +74,7 @@ generated_at: "2026-03-30T02:56:11.443Z"
   - **(4)** The term “nonparticipating working interest owner” means a gas or oil owner of a tract included in a spacing unit which elects to share in the operation of the well on a carried basis by agreeing to have its proportionate share of the costs allocable to its interest charged against its share of production of the well in accordance with subsection (f)(3).
   - **(5)** The term “participating working interest owner” means a gas or oil owner which elects to bear a share of the risks and costs of drilling, completing, equipping, gathering, operating (including any and all disposal costs) 2 2 So in original. Probably should be followed by a comma. plugging, and abandoning a well on a spacing unit and to receive a share of production from the well equal to the proportion which the acreage in the spacing unit it owns or holds under lease bears to the total acreage of the spacing unit.
   - **(6)** The term “coal seam” means any stratum of coal 20 inches or more in thickness, unless a stratum of less thickness is being commercially worked, or can in the judgment of the Secretary of the Interior forseeably 3 3 So in original. Probably should be “foreseeably”. be commercially worked and will require protection if wells are being drilled through it.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XIII, § 1339](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2986](https://www.govinfo.gov/link/statute/106/2986).)*

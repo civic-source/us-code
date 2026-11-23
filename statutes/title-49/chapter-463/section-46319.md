@@ -3,9 +3,10 @@ title: "Section 46319 - Permanent closure of an airport without providing suffic
 usc_title: 49
 usc_section: "46319"
 chapter: 463
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 46319"
-generated_at: "2026-03-30T02:56:19.398Z"
+generated_at: "2026-11-23T21:26:40.949Z"
+status: "active"
 ---
 
 # § 46319. Permanent closure of an airport without providing sufficient notice
@@ -13,3 +14,13 @@ generated_at: "2026-03-30T02:56:19.398Z"
 - **(a)** A public agency (as defined in section 47102) may not permanently close an airport listed in the national plan of integrated airport systems under section 47103 without providing written notice to the Administrator of the Federal Aviation Administration at least 30 days before the date of the closure.
 - **(b)** The Administrator shall publish each notice received under subsection (a) in the Federal Register.
 - **(c)** A public agency violating subsection (a) shall be liable for a civil penalty of $10,000 for each day that the airport remains closed without having given the notice required by this section.
+
+Prohibition
+
+Publication of Notice
+
+Civil Penalty
+
+## Source Credit
+
+*(Added [Pub. L. 108–176, title I, § 185(a)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2517](https://www.govinfo.gov/link/statute/117/2517).)*

@@ -3,9 +3,10 @@ title: "Section 1255 - Grants for research and development"
 usc_title: 33
 usc_section: "1255"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1255"
-generated_at: "2026-03-30T02:55:41.082Z"
+generated_at: "2026-11-23T21:26:11.361Z"
+status: "active"
 ---
 
 # § 1255. Grants for research and development
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:41.082Z"
 - **(h)** For the purpose of this section there is authorized to be appropriated $75,000,000 per fiscal year for the fiscal year ending June 30, 1973 , the fiscal year ending June 30, 1974 , and the fiscal year ending June 30, 1975 , and from such appropriations at least 10 per centum of the funds actually appropriated in each fiscal year shall be available only for the purposes of subsection (e).
 - **(i)** The Administrator is authorized to make grants to a municipality to assist in the costs of operating and maintaining a project which received a grant under this section, section 1254 of this title , or section 1263 of this title prior to December 27, 1977 , so as to reduce the operation and maintenance costs borne by the recipients of services from such project to costs comparable to those for projects assisted under subchapter II of this chapter.
 - **(j)** The Administrator is authorized to make a grant to any grantee who received an increased grant pursuant to section 1282(a)(2) of this title . Such grant may pay up to 100 per centum of the costs of technical evaluation of the operation of the treatment works, costs of training of persons (other than employees of the grantee), and costs of disseminating technical information on the operation of the treatment works.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title I, § 105, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 825](https://www.govinfo.gov/link/statute/86/825); amended [Pub. L. 93–592, § 2](https://www.govinfo.gov/link/plaw/93/public/592), Jan. 2, 1975, [88 Stat. 1925](https://www.govinfo.gov/link/statute/88/1925); [Pub. L. 95–217](https://www.govinfo.gov/link/plaw/95/public/217), §§ 8, 9, Dec. 27, 1977, [91 Stat. 1568](https://www.govinfo.gov/link/statute/91/1568).)*

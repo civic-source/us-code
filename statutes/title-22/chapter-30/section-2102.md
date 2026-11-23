@@ -3,9 +3,10 @@ title: "Section 2102 - Authority of Secretary"
 usc_title: 22
 usc_section: "2102"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2102"
-generated_at: "2026-03-30T02:55:05.341Z"
+generated_at: "2026-11-23T21:25:58.422Z"
+status: "active"
 ---
 
 # § 2102. Authority of Secretary
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.341Z"
 - **(c)** For the purposes of this section—
   - **(1)** The term “health research” shall include, but not be limited to, research, investigations, and studies relating to causes and methods of prevention of accidents, including but not limited to highway and aviation accidents.
   - **(2)** The term “participating foreign countries” means those foreign countries which cooperate with the United States in carrying out the purposes of this section.
+
+## Source Credit
+
+*([Pub. L. 86–610, § 4](https://www.govinfo.gov/link/plaw/86/public/610), July 12, 1960, [74 Stat. 365](https://www.govinfo.gov/link/statute/74/365).)*

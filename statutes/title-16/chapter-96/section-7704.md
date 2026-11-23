@@ -3,9 +3,10 @@ title: "Section 7704 - Authority of the Secretary of Commerce"
 usc_title: 16
 usc_section: "7704"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 7704"
-generated_at: "2026-03-30T02:54:23.077Z"
+generated_at: "2026-11-23T21:25:52.069Z"
+status: "active"
 ---
 
 # § 7704. Authority of the Secretary of Commerce
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:23.077Z"
   - **(2)** Notwithstanding any other provision of law, the Secretary shall file a response to any petition filed in accordance with paragraph (1), not later than 30 days after the date the Secretary is served with that petition, except that the appropriate court may extend the period for filing such a response upon a showing by the Secretary of good cause for that extension.
   - **(3)** A response of the Secretary under paragraph (2) shall include a copy of the administrative record for the regulations that are the subject of the petition.
   - **(4)** Upon a motion by the person who files a petition under this subsection, the appropriate court shall assign the matter for hearing at the earliest possible date.
+
+## Source Credit
+
+*([Pub. L. 114–327, title I, § 104](https://www.govinfo.gov/link/plaw/114/public/327), Dec. 16, 2016, [130 Stat. 1979](https://www.govinfo.gov/link/statute/130/1979).)*

@@ -3,9 +3,10 @@ title: "Section 6413 - Requirement of initial referendum"
 usc_title: 7
 usc_section: "6413"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6413"
-generated_at: "2026-03-30T02:53:42.430Z"
+generated_at: "2026-11-23T21:25:28.390Z"
+status: "active"
 ---
 
 # § 6413. Requirement of initial referendum
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:42.430Z"
   - **(2)** A fluid milk processor who chooses to vote in any referendum conducted under this chapter shall register with the Secretary prior to the voting period, after receiving notice from the Secretary concerning the referendum under paragraph (4).
   - **(3)** A fluid milk processor who votes in any referendum conducted under this chapter shall vote in accordance with procedures established by the Secretary. The ballots and other information or reports that reveal or tend to reveal the vote of any processor shall be held strictly confidential.
   - **(4)** The Secretary shall notify all processors at least 30 days prior to a referendum conducted under this chapter. The notice shall explain the procedure established under this subsection.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1999N](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3924](https://www.govinfo.gov/link/statute/104/3924); [Pub. L. 104–127, title I, § 146(d)(1)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 919](https://www.govinfo.gov/link/statute/110/919).)*

@@ -3,12 +3,17 @@ title: "Section 2196 - Drunkenness or neglect of duty by seamen"
 usc_title: 18
 usc_section: "2196"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2196"
-generated_at: "2026-03-30T02:54:16.496Z"
+generated_at: "2026-11-23T21:25:44.117Z"
+status: "active"
 ---
 
 # § 2196. Drunkenness or neglect of duty by seamen
 
 Whoever, being a master, officer, radio operator, seaman, apprentice or other person employed on any merchant vessel, by willful breach of duty, or by reason of drunkenness, does any act tending to the immediate loss or destruction of, or serious damage to, such vessel, or tending immediately to endanger the life or limb of any person belonging to or on board of such vessel; or, by willful breach of duty or by neglect of duty or by reason of drunkenness, refuses or omits to do any lawful act proper and requisite to be done by him for preserving such vessel from immediate loss, destruction, or serious damage, or for preserving any person belonging to or on board of such ship from immediate danger to life or limb, shall be imprisoned not more than one year.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 801](https://www.govinfo.gov/link/statute/62/801).)*

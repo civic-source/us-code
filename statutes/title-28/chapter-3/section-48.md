@@ -3,14 +3,32 @@ title: "Section 48 - Terms of court"
 usc_title: 28
 usc_section: "48"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 48"
-generated_at: "2026-03-30T02:55:30.122Z"
+generated_at: "2026-11-23T21:26:01.006Z"
+status: "active"
 ---
 
 # § 48. Terms of court
 
-- **(a)** The courts of appeals shall hold regular sessions at the places listed below, and at such other places within the respective circuit as each court may designate by rule. Circuits Places District of Columbia Washington. First Boston. Second New York. Third Philadelphia. Fourth Richmond, Asheville. Fifth New Orleans, Fort Worth, Jackson. Sixth Cincinnati. Seventh Chicago. Eighth St. Louis, Kansas City, Omaha, St. Paul. Ninth San Francisco, Los Angeles, Portland, Seattle. Tenth Denver, Wichita, Oklahoma City. Eleventh Atlanta, Jacksonville, Montgomery. Federal District of Columbia, and in any other place listed above as the court by rule directs.
+- **(a)** The courts of appeals shall hold regular sessions at the places listed below, and at such other places within the respective circuit as each court may designate by rule.
+
+| Circuits | Places |
+| --- | --- |
+| District of Columbia | Washington. |
+| First | Boston. |
+| Second | New York. |
+| Third | Philadelphia. |
+| Fourth | Richmond, Asheville. |
+| Fifth | New Orleans, Fort Worth, Jackson. |
+| Sixth | Cincinnati. |
+| Seventh | Chicago. |
+| Eighth | St. Louis, Kansas City, Omaha, St. Paul. |
+| Ninth | San Francisco, Los Angeles, Portland, Seattle. |
+| Tenth | Denver, Wichita, Oklahoma City. |
+| Eleventh | Atlanta, Jacksonville, Montgomery. |
+| Federal | District of Columbia, and in any other place listed above as the court by rule directs. |
+
 - **(b)** Each court of appeals may hold special sessions at any place within its circuit as the nature of the business may require, and upon such notice as the court orders. The court may transact any business at a special session which it might transact at a regular session.
 - **(c)** Any court of appeals may pretermit any regular session of court at any place for insufficient business or other good cause.
 - **(d)** The times and places of the sessions of the Court of Appeals for the Federal Circuit shall be prescribed with a view to securing reasonable opportunity to citizens to appear before the court with as little inconvenience and expense to citizens as is practicable.
@@ -24,3 +42,33 @@ generated_at: "2026-03-30T02:55:30.122Z"
       - **(iii)** the impact of such order on litigants; and
       - **(iv)** the costs to the judiciary resulting from such order; and
   - **(2)** shall provide reasonable notice to the United States Marshals Service before the commencement of any special session held pursuant to such order.
+
+District of Columbia
+
+First
+
+Second
+
+Third
+
+Fourth
+
+Fifth
+
+Sixth
+
+Seventh
+
+Eighth
+
+Ninth
+
+Tenth
+
+Eleventh
+
+Federal
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 872](https://www.govinfo.gov/link/statute/62/872); Oct. 31, 1951, ch. 655, § 36, [65 Stat. 723](https://www.govinfo.gov/link/statute/65/723); [Pub. L. 96–452, § 4](https://www.govinfo.gov/link/plaw/96/public/452), Oct. 14, 1980, [94 Stat. 1994](https://www.govinfo.gov/link/statute/94/1994); [Pub. L. 97–164, title I, § 104](https://www.govinfo.gov/link/plaw/97/public/164), Apr. 2, 1982, [96 Stat. 26](https://www.govinfo.gov/link/statute/96/26); [Pub. L. 102–572, title V, § 501](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4512](https://www.govinfo.gov/link/statute/106/4512); [Pub. L. 109–63, § 2(a)](https://www.govinfo.gov/link/plaw/109/public/63), Sept. 9, 2005, [119 Stat. 1993](https://www.govinfo.gov/link/statute/119/1993).)*

@@ -3,9 +3,10 @@ title: "Section 5853 - Limitation on legal fee reimbursement"
 usc_title: 42
 usc_section: "5853"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5853"
-generated_at: "2026-03-30T02:56:11.239Z"
+generated_at: "2026-11-23T21:26:32.834Z"
+status: "active"
 ---
 
 # § 5853. Limitation on legal fee reimbursement
@@ -14,3 +15,7 @@ The Department of Energy shall not, except as required under a contract entered 
 
   - **(1)** an adverse determination on the merits with respect to such complaint against the contractor or subcontractor by the Director of the Department of Energy’s Office of Hearings and Appeals pursuant to part 708 of title 10, Code of Federal Regulations, or by a Department of Labor Administrative Law Judge pursuant to section 5851 of this title ; or
   - **(2)** an adverse final judgment by any State or Federal court with respect to such complaint against the contractor or subcontractor for wrongful termination or retaliation due to the making of disclosures protected under chapter 12 of title 5, section 5851 of this title , or any comparable State law,
+
+## Source Credit
+
+*([Pub. L. 93–438, title II, § 212](https://www.govinfo.gov/link/plaw/93/public/438), as added [Pub. L. 109–58, title VI, § 627](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 784](https://www.govinfo.gov/link/statute/119/784).)*

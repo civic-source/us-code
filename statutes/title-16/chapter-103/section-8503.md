@@ -3,9 +3,10 @@ title: "Section 8503 - Partnerships to promote military and veteran recreation"
 usc_title: 16
 usc_section: "8503"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8503"
-generated_at: "2026-03-30T02:54:23.087Z"
+generated_at: "2026-11-23T21:25:52.081Z"
+status: "active"
 ---
 
 # § 8503. Partnerships to promote military and veteran recreation
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:23.087Z"
 - **(c)** Under a partnership or agreement entered into pursuant to subsection (a), the Secretary concerned may provide financial or technical assistance to the entity with which the respective Secretary concerned has entered into the partnership or agreement to assist with—
   - **(1)** the planning, development, and execution of events, activities, or programs designed to promote outdoor recreation for members of the Armed Forces or veterans; or
   - **(2)** the acquisition of assistive technology to facilitate improved outdoor recreation opportunities for members of the Armed Forces or veterans.
+
+## Source Credit
+
+*([Pub. L. 118–234, title II, § 223](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2887](https://www.govinfo.gov/link/statute/138/2887).)*

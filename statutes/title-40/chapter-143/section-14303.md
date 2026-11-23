@@ -3,9 +3,10 @@ title: "Section 14303 - Functions"
 usc_title: 40
 usc_section: "14303"
 chapter: 143
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 14303"
-generated_at: "2026-03-30T02:55:43.386Z"
+generated_at: "2026-11-23T21:26:14.954Z"
+status: "active"
 ---
 
 # § 14303. Functions
@@ -23,3 +24,44 @@ generated_at: "2026-03-30T02:55:43.386Z"
   - **(10)** seek to coordinate the economic development activities of, and the use of economic development resources by, federal agencies in the region; and
   - **(11)** support broadband access in the Appalachian region.
 - **(b)** In carrying out its functions under this section, the Commission shall identify the characteristics of, and may distinguish between the needs and goals of, appropriate subregional areas, including central, northern, and southern Appalachia.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 14303 | 40 App.:102. | Pub. L. 89–4, title I, § 102 , Mar. 9, 1965 , 79 Stat. 7 ; Pub. L. 90–103, title I, § 102 , Oct. 11, 1967 , 81 Stat. 257 ; Pub. L. 94–188, title I, § 105 , Dec. 31, 1975 , 89 Stat. 1080 ; Pub. L. 107–149, § 3 , Mar. 12, 2002 , 116 Stat. 66 . |
+
+
+In General
+
+Identify Needs and Goals of Subregional Areas
+
+Historical and Revision Notes
+
+14303
+
+Pub. L. 89–4, title I, § 102
+
+Mar. 9, 1965
+
+79 Stat. 7
+
+Pub. L. 90–103, title I, § 102
+
+Oct. 11, 1967
+
+81 Stat. 257
+
+Pub. L. 94–188, title I, § 105
+
+Dec. 31, 1975
+
+89 Stat. 1080
+
+Pub. L. 107–149, § 3
+
+Mar. 12, 2002
+
+116 Stat. 66
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1258](https://www.govinfo.gov/link/statute/116/1258); [Pub. L. 117–58, div. A, title I, § 11506(b)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 584](https://www.govinfo.gov/link/statute/135/584).)*

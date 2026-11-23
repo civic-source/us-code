@@ -3,9 +3,10 @@ title: "Section 2801 - Congressional findings and purposes"
 usc_title: 19
 usc_section: "2801"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2801"
-generated_at: "2026-03-30T02:54:24.686Z"
+generated_at: "2026-11-23T21:25:42.830Z"
+status: "active"
 ---
 
 # § 2801. Congressional findings and purposes
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:24.686Z"
   - **(1)** to provide wine consumers with the greatest possible choice of wines from wine-producing countries;
   - **(2)** to encourage the initiation of an export promotion program to develop, maintain, and expand foreign markets for United States wine; and
   - **(3)** to achieve greater access to foreign markets for United States wine and grape products through the reduction or elimination of tariff barriers and nontariff barriers to (or other distortions of) trade in wine.
+
+## Source Credit
+
+*([Pub. L. 98–573, title IX, § 902](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 3047](https://www.govinfo.gov/link/statute/98/3047).)*

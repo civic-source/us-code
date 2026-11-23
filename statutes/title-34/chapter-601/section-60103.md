@@ -3,9 +3,10 @@ title: "Section 60103 - Federal regulation of prisoner transport companies"
 usc_title: 34
 usc_section: "60103"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 60103"
-generated_at: "2026-03-30T02:55:33.316Z"
+generated_at: "2026-11-23T21:26:09.856Z"
+status: "active"
 ---
 
 # § 60103. Federal regulation of prisoner transport companies
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:33.316Z"
   - **(9)** A requirement that in the event of an escape by a violent prisoner, private prisoner transport company officials shall immediately notify appropriate law enforcement officials in the jurisdiction where the escape occurs, and the governmental entity that contracted with the private prisoner transport company for the transport of the escaped violent prisoner.
   - **(10)** Minimum standards for the safety of violent prisoners in accordance with applicable Federal and State law.
 - **(c)** Except for the requirements of subsection (b)(6), the regulations promulgated under sections 60101 to 60104 of this title shall not provide stricter standards with respect to private prisoner transport companies than are applicable, without exception, to the United States Marshals Service, Federal Bureau of Prisons, and the Immigration and Naturalization Service when transporting violent prisoners under comparable circumstances.
+
+## Source Credit
+
+*([Pub. L. 106–560, § 4](https://www.govinfo.gov/link/plaw/106/public/560), Dec. 21, 2000, [114 Stat. 2785](https://www.govinfo.gov/link/statute/114/2785).)*

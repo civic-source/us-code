@@ -3,9 +3,10 @@ title: "Section 1873 - Acceptance of travel expenses from non-Federal sources"
 usc_title: 2
 usc_section: "1873"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1873"
-generated_at: "2026-03-30T02:53:04.819Z"
+generated_at: "2026-11-23T21:25:21.250Z"
+status: "active"
 ---
 
 # § 1873. Acceptance of travel expenses from non-Federal sources
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.819Z"
   - **(1)** may be required, in addition to any penalty provided by law, to repay, for deposit in the general fund of the Treasury, an amount equal to the amount of the payment so accepted; and
   - **(2)** in the case of a repayment under paragraph (1), shall not be entitled to any payment from the Government for such expenses.
 - **(c)** This section shall apply with respect to fiscal year 2019 and each succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 115–244, div. B, title I, § 135](https://www.govinfo.gov/link/plaw/115/public/244), Sept. 21, 2018, [132 Stat. 2937](https://www.govinfo.gov/link/statute/132/2937).)*

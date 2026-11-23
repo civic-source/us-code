@@ -3,9 +3,10 @@ title: "Section 925 - Distribution of frequencies by Commission"
 usc_title: 47
 usc_section: "925"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 925"
-generated_at: "2026-03-30T02:56:24.528Z"
+generated_at: "2026-11-23T21:26:36.078Z"
+status: "active"
 ---
 
 # § 925. Distribution of frequencies by Commission
@@ -25,3 +26,19 @@ generated_at: "2026-03-30T02:56:24.528Z"
 - **(c)**
   - **(1)** With respect to the frequencies made available for reallocation pursuant to section 923(b)(3) of this title , the Commission shall, not later than one year after receipt of the second reallocation report required by section 923(a) of this title , prepare, submit to the President and the Congress, and implement, a plan for the immediate allocation and assignment under the 1934 Act [47 U.S.C. § 151 et seq.] of all such frequencies in accordance with section 309(j) of such Act [ 47 U.S.C. 309(j) ].
   - **(2)** The plan prepared by the Commission under paragraph (1) shall consist of a schedule of allocation and assignment of those frequencies in accordance with section 309(j) of the 1934 Act in time for the assignment of those licenses or permits by September 30, 2002 .
+
+In general
+
+Criteria for Reassignment
+
+Use of bands at 2,110–2,150 megahertz
+
+Use of
+
+megahertz from bands at 1,990–2,110 megahertz
+
+Notification to the Secretary of Commerce
+
+## Source Credit
+
+*([Pub. L. 102–538, title I, § 115](https://www.govinfo.gov/link/plaw/102/public/538), as added [Pub. L. 103–66, title VI, § 6001(a)(3)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 385](https://www.govinfo.gov/link/statute/107/385); amended [Pub. L. 105–33, title III, § 3002(e)(4)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 265](https://www.govinfo.gov/link/statute/111/265).)*

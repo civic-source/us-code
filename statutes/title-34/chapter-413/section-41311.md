@@ -3,12 +3,17 @@ title: "Section 41311 - Improving Department of Justice data collection on menta
 usc_title: 34
 usc_section: "41311"
 chapter: 413
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 41311"
-generated_at: "2026-03-30T02:55:33.314Z"
+generated_at: "2026-11-23T21:26:09.848Z"
+status: "active"
 ---
 
 # § 41311. Improving Department of Justice data collection on mental illness involved in crime
 
 - **(a)** Notwithstanding any other provision of law, on or after the date that is 90 days after the date on which the Attorney General promulgates regulations under subsection (b), any data prepared by, or submitted to, the Attorney General or the Director of the Federal Bureau of Investigation with respect to the incidences of homicides, law enforcement officers killed, seriously injured, and assaulted, or individuals killed or seriously injured by law enforcement officers shall include data with respect to the involvement of mental illness in such incidences, if any.
 - **(b)** Not later than 90 days after December 13, 2016 , the Attorney General shall promulgate or revise regulations as necessary to carry out subsection (a).
+
+## Source Credit
+
+*([Pub. L. 114–255, div. B, title XIV, § 14015](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1306](https://www.govinfo.gov/link/statute/130/1306).)*

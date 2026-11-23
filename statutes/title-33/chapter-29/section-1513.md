@@ -3,9 +3,10 @@ title: "Section 1513 - Public access to information"
 usc_title: 33
 usc_section: "1513"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1513"
-generated_at: "2026-03-30T02:55:41.108Z"
+generated_at: "2026-11-23T21:26:11.409Z"
+status: "active"
 ---
 
 # § 1513. Public access to information
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:41.108Z"
   - **(2)** to any committee of Congress having jurisdiction over the subject matter to which the information relates, upon request;
   - **(3)** to any person in any judicial proceeding, under a court order formulated to preserve such confidentiality without impairing the proceedings; and
   - **(4)** to the public in order to protect health and safety, after notice and opportunity for comment in writing or for discussion in closed session within fifteen days by the party to which the information pertains (if the delay resulting from such notice and opportunity for comment would not be detrimental to the public health and safety).
+
+## Source Credit
+
+*([Pub. L. 93–627, § 14](https://www.govinfo.gov/link/plaw/93/public/627), Jan. 3, 1975, [88 Stat. 2139](https://www.govinfo.gov/link/statute/88/2139).)*

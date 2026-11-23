@@ -3,9 +3,10 @@ title: "Section 3505 - Federal power marketing administrations"
 usc_title: 25
 usc_section: "3505"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3505"
-generated_at: "2026-03-30T02:54:52.853Z"
+generated_at: "2026-11-23T21:25:54.694Z"
+status: "active"
 ---
 
 # § 3505. Federal power marketing administrations
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:52.853Z"
     - **(B)** the quantity of power sold to Indian tribes by any other power marketing administration; and
     - **(C)** barriers that impede tribal access to and use of Federal power, including an assessment of opportunities to remove those barriers and improve the ability of power marketing administrations to deliver Federal power.
 - **(f)** There are authorized to be appropriated to carry out this section $750,000, non-reimbursable, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXVI, § 2605](https://www.govinfo.gov/link/plaw/102/public/486), as added [Pub. L. 109–58, title V, § 503(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 776](https://www.govinfo.gov/link/statute/119/776).)*

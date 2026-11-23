@@ -3,9 +3,10 @@ title: "Section 4901 - Definitions"
 usc_title: 12
 usc_section: "4901"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4901"
-generated_at: "2026-03-30T02:53:53.519Z"
+generated_at: "2026-11-23T21:25:37.222Z"
+status: "active"
 ---
 
 # § 4901. Definitions
@@ -44,3 +45,7 @@ In this chapter, the following definitions shall apply:
   - **(18)** The term “termination date” means—
     - **(A)** with respect to a fixed rate mortgage, the date on which the principal balance of the mortgage, based solely on the initial amortization schedule for that mortgage, and irrespective of the outstanding balance for that mortgage on that date, is first scheduled to reach 78 percent of the original value of the property securing the loan; and
     - **(B)** with respect to an adjustable rate mortgage, the date on which the principal balance of the mortgage, based solely on the amortization schedule then in effect for that mortgage, and irrespective of the outstanding balance for that mortgage on that date, is first scheduled to reach 78 percent of the original value of the property securing the loan.
+
+## Source Credit
+
+*([Pub. L. 105–216, § 2](https://www.govinfo.gov/link/plaw/105/public/216), July 29, 1998, [112 Stat. 897](https://www.govinfo.gov/link/statute/112/897); [Pub. L. 106–569, title IV](https://www.govinfo.gov/link/plaw/106/public/569), §§ 402(a)(1), (b), 405(a), 406(b)–(d), Dec. 27, 2000, [114 Stat. 2956](https://www.govinfo.gov/link/statute/114/2956), 2958, 2959.)*

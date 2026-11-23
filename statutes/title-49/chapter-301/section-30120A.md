@@ -3,12 +3,17 @@ title: "Section 30120A - Recall obligations and bankruptcy of a manufacturer"
 usc_title: 49
 usc_section: "30120A"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 30120A"
-generated_at: "2026-03-30T02:56:19.351Z"
+generated_at: "2026-11-23T21:26:40.760Z"
+status: "active"
 ---
 
 # § 30120A. Recall obligations and bankruptcy of a manufacturer
 
 A manufacturer’s filing of a petition in bankruptcy under chapter 7 or chapter 11 of title 11 does not negate the manufacturer’s duty to comply with section 30112 or sections 30115 through 30120 of this title. In any bankruptcy proceeding, the manufacturer’s obligations under such sections shall be treated as a claim of the United States Government against such manufacturer, subject to subchapter II of chapter 37 of title 31, United States Code, and given priority pursuant to section 3713(a)(1)(A) of such chapter, notwithstanding section 3713(a)(2), to ensure that consumers are adequately protected from any safety defect or noncompliance determined to exist in the manufacturer’s products. This section shall apply equally to actions of a manufacturer taken before or after the filing of a petition in bankruptcy.
 
+
+## Source Credit
+
+*(Added [Pub. L. 112–141, div. C, title I, § 31312(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 772](https://www.govinfo.gov/link/statute/126/772); amended [Pub. L. 114–94, div. B, title XXIV, § 24106](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1705](https://www.govinfo.gov/link/statute/129/1705).)*

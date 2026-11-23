@@ -3,9 +3,10 @@ title: "Section 7803 - Issuance of orders"
 usc_title: 7
 usc_section: "7803"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7803"
-generated_at: "2026-03-30T02:53:42.463Z"
+generated_at: "2026-11-23T21:25:28.451Z"
+status: "active"
 ---
 
 # § 7803. Issuance of orders
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:42.463Z"
     - **(A)** After notice and opportunity for public comment are provided in accordance with paragraph (2), the Secretary shall issue the order, taking into consideration the comments received and including in the order such provisions as are necessary to ensure that the order is in conformity with this chapter.
     - **(B)** The order shall be issued and become effective only after an affirmative vote in a referendum as provided in section 7805 of this title , but not later than 180 days after publication of the proposed order.
 - **(c)** The Secretary, from time to time, may amend an order. The provisions of this chapter applicable to an order shall be applicable to any amendment to an order.
+
+## Source Credit
+
+*([Pub. L. 106–387, § 1(a) [title XII, § 1204]](https://www.govinfo.gov/link/plaw/106/public/387), Oct. 28, 2000, [114 Stat. 1549](https://www.govinfo.gov/link/statute/114/1549), 1549A–81.)*

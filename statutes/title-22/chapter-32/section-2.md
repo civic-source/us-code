@@ -3,9 +3,10 @@ title: "Section 2 - Enforcement of nonproliferation treaties"
 usc_title: 22
 usc_section: "2"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2"
-generated_at: "2026-03-30T02:55:05.366Z"
+generated_at: "2026-11-23T21:25:58.493Z"
+status: "active"
 ---
 
 # § 2429a–2. Enforcement of nonproliferation treaties
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.366Z"
 - **(c)** The President may waive the application of subsection (b) if—
   - **(1)** the President determines that the termination of such assistance would be seriously prejudicial to the achievement of United States nonproliferation objectives or otherwise jeopardize the common defense and security; and
   - **(2)** the President reports such determination to the Congress at least 15 days in advance of any resumption of assistance to that state.
+
+## Source Credit
+
+*([Pub. L. 103–236, title V, § 530](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 479](https://www.govinfo.gov/link/statute/108/479).)*

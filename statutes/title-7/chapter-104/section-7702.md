@@ -3,9 +3,10 @@ title: "Section 7702 - Definitions"
 usc_title: 7
 usc_section: "7702"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7702"
-generated_at: "2026-03-30T02:53:42.460Z"
+generated_at: "2026-11-23T21:25:28.444Z"
+status: "active"
 ---
 
 # § 7702. Definitions
@@ -52,3 +53,7 @@ In this chapter:
   - **(18)** For the purposes of section 7712(e) of this title , the term “systems approach” means a defined set of phytosanitary procedures, at least two of which have an independent effect in mitigating pest risk associated with the movement of commodities.
   - **(19)** Except when used in this section, the term “this chapter” includes any regulation or order issued by the Secretary under the authority of this chapter.
   - **(20)** The term “United States” means all of the States.
+
+## Source Credit
+
+*([Pub. L. 106–224, title IV, § 403](https://www.govinfo.gov/link/plaw/106/public/224), June 20, 2000, [114 Stat. 438](https://www.govinfo.gov/link/statute/114/438).)*

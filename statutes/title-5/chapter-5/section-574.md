@@ -3,9 +3,10 @@ title: "Section 574 - Confidentiality"
 usc_title: 5
 usc_section: "574"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 574"
-generated_at: "2026-03-30T02:52:55.989Z"
+generated_at: "2026-11-23T21:25:23.073Z"
+status: "active"
 ---
 
 # § 574. Confidentiality
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:52:55.989Z"
 - **(h)** Subsections (a) and (b) shall not prevent the gathering of information for research or educational purposes, in cooperation with other agencies, governmental entities, or dispute resolution programs, so long as the parties and the specific issues in controversy are not identifiable.
 - **(i)** Subsections (a) and (b) shall not prevent use of a dispute resolution communication to resolve a dispute between the neutral in a dispute resolution proceeding and a party to or participant in such proceeding, so long as such dispute resolution communication is disclosed only to the extent necessary to resolve such dispute.
 - **(j)** A dispute resolution communication which is between a neutral and a party and which may not be disclosed under this section shall also be exempt from disclosure under section 552(b)(3).
+
+## Source Credit
+
+*(Added [Pub. L. 101–552, § 4(b)](https://www.govinfo.gov/link/plaw/101/public/552), Nov. 15, 1990, [104 Stat. 2740](https://www.govinfo.gov/link/statute/104/2740), § 584; renumbered § 574, [Pub. L. 102–354, § 3(b)(2)](https://www.govinfo.gov/link/plaw/102/public/354), Aug. 26, 1992, [106 Stat. 944](https://www.govinfo.gov/link/statute/106/944); amended [Pub. L. 104–320, § 3](https://www.govinfo.gov/link/plaw/104/public/320), Oct. 19, 1996, [110 Stat. 3870](https://www.govinfo.gov/link/statute/110/3870).)*

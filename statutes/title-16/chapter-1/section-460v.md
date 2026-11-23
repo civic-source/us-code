@@ -3,12 +3,17 @@ title: "Section 460v - Establishment"
 usc_title: 16
 usc_section: "460v"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 460v"
-generated_at: "2026-03-30T02:54:22.819Z"
+generated_at: "2026-11-23T21:25:51.575Z"
+status: "active"
 ---
 
 # § 460v. Establishment
 
 In order to provide, in furtherance of the purposes of the Colorado River storage project, for the public outdoor recreation use and enjoyment of the Flaming Gorge Reservoir and surrounding lands in the States of Utah and Wyoming and the conservation of scenic, scientific, historic, and other values contributing to public enjoyment of such lands and waters, there is hereby established, subject to valid existing rights, the Flaming Gorge National Recreation Area in the States of Utah and Wyoming (hereinafter referred to as the “recreation area”). The boundaries of the recreation area shall be those shown on the map entitled “Proposed Flaming Gorge National Recreation Area,” which is on file and available for public inspection in the office of the Chief, Forest Service, Department of Agriculture.
 
+
+## Source Credit
+
+*([Pub. L. 90–540, § 1](https://www.govinfo.gov/link/plaw/90/public/540), Oct. 1, 1968, [82 Stat. 904](https://www.govinfo.gov/link/statute/82/904).)*

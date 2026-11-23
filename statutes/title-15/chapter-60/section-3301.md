@@ -3,9 +3,10 @@ title: "Section 3301 - Definitions"
 usc_title: 15
 usc_section: "3301"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3301"
-generated_at: "2026-03-30T02:54:08.188Z"
+generated_at: "2026-11-23T21:25:39.966Z"
+status: "active"
 ---
 
 # § 3301. Definitions
@@ -80,3 +81,7 @@ For purposes of this chapter—
   - **(35)** The term “Outer Continental Shelf” has the same meaning as such term has under section 1331(a) of title 43 .
   - **(36)** The term “Prudhoe Bay Unit of Alaska” means the geographic area subject to the voluntary unit agreement approved by the Commissioner of the Department of Natural Resources of the State of Alaska on June 2, 1977 , and referred to as the “affected area” in Conservation Order No. 145 of the Alaska Oil and Gas Conservation Committee, Division of Oil and Gas Conservation, Department of Natural Resources of the State of Alaska, as such order was in effect on June 1, 1977 , and determined without regard to any adjustments in the description of the affected area permitted to be made under such order.
   - **(37)** The term “Federal antitrust laws” means the Sherman Act ( 15 U.S.C. 1 et seq.), the Clayton Act ( 15 U.S.C. 12 , 13, 14–19, 20, 21, 22–27), the Federal Trade Commission Act ( 15 U.S.C. 41 et seq.), sections 73 and 74 of the Wilson Tariff Act ( 15 U.S.C. 8–9 ), and the Act of June 19, 1936 , chapter 592 ( 15 U.S.C. 13 , 13a, 13b, and 21a).
+
+## Source Credit
+
+*([Pub. L. 95–621, § 2](https://www.govinfo.gov/link/plaw/95/public/621), Nov. 9, 1978, [92 Stat. 3352](https://www.govinfo.gov/link/statute/92/3352).)*

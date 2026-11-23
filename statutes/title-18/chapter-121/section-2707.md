@@ -3,9 +3,10 @@ title: "Section 2707 - Civil action"
 usc_title: 18
 usc_section: "2707"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2707"
-generated_at: "2026-03-30T02:54:16.508Z"
+generated_at: "2026-11-23T21:25:44.167Z"
+status: "active"
 ---
 
 # § 2707. Civil action
@@ -23,3 +24,21 @@ generated_at: "2026-03-30T02:54:16.508Z"
   - **(3)** a good faith determination that section 2511(3), section 2702(b)(9), or section 2702(c)(7) of this title permitted the conduct complained of;
 - **(f)** A civil action under this section may not be commenced later than two years after the date upon which the claimant first discovered or had a reasonable opportunity to discover the violation.
 - **(g)** Any willful disclosure of a “record”, as that term is defined in section 552a(a) of title 5 , United States Code, obtained by an investigative or law enforcement officer, or a governmental entity, pursuant to section 2703 of this title , or from a device installed pursuant to section 3123 or 3125 of this title, that is not a disclosure made in the proper performance of the official functions of the officer or governmental entity making the disclosure, is a violation of this chapter. This provision shall not apply to information previously lawfully disclosed (prior to the commencement of any civil or administrative proceeding under this chapter) to the public by a Federal, State, or local governmental entity or by the plaintiff in a civil action under this chapter.
+
+Cause of Action
+
+Relief
+
+Damages
+
+Administrative Discipline
+
+Defense
+
+Limitation
+
+Improper Disclosure
+
+## Source Credit
+
+*(Added [Pub. L. 99–508, title II, § 201[(a)]](https://www.govinfo.gov/link/plaw/99/public/508), Oct. 21, 1986, [100 Stat. 1866](https://www.govinfo.gov/link/statute/100/1866); amended [Pub. L. 104–293, title VI, § 601(c)](https://www.govinfo.gov/link/plaw/104/public/293), Oct. 11, 1996, [110 Stat. 3469](https://www.govinfo.gov/link/statute/110/3469); [Pub. L. 107–56, title II](https://www.govinfo.gov/link/plaw/107/public/56), §§ 223(b), title VIII, § 815, Oct. 26, 2001, [115 Stat. 293](https://www.govinfo.gov/link/statute/115/293), 384; [Pub. L. 107–273, div. B, title IV, § 4005(f)(2)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1813](https://www.govinfo.gov/link/statute/116/1813); [Pub. L. 115–141, div. V, § 104(2)(B)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1216](https://www.govinfo.gov/link/statute/132/1216).)*

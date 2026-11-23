@@ -3,9 +3,10 @@ title: "Section 4654 - Litigation expenses"
 usc_title: 42
 usc_section: "4654"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4654"
-generated_at: "2026-03-30T02:56:11.207Z"
+generated_at: "2026-11-23T21:26:32.684Z"
+status: "active"
 ---
 
 # § 4654. Litigation expenses
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.207Z"
   - **(2)** the proceeding is abandoned by the United States.
 - **(b)** Any award made pursuant to subsection (a) of this section shall be paid by the head of the Federal agency for whose benefit the condemnation proceedings was instituted.
 - **(c)** The court rendering a judgment for the plaintiff in a proceeding brought under section 1346(a)(2) or 1491 of title 28, awarding compensation for the taking of property by a Federal agency, or the Attorney General effecting a settlement of any such proceeding, shall determine and award or allow to such plaintiff, as a part of such judgment or settlement, such sum as will in the opinion of the court or the Attorney General reimburse such plaintiff for his reasonable costs, disbursements, and expenses, including reasonable attorney, appraisal, and engineering fees, actually incurred because of such proceeding.
+
+## Source Credit
+
+*([Pub. L. 91–646, title III, § 304](https://www.govinfo.gov/link/plaw/91/public/646), Jan. 2, 1971, [84 Stat. 1906](https://www.govinfo.gov/link/statute/84/1906).)*

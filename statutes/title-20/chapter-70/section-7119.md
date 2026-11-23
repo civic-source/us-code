@@ -3,9 +3,10 @@ title: "Section 7119 - Activities to support the effective use of technology"
 usc_title: 20
 usc_section: "7119"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7119"
-generated_at: "2026-03-30T02:54:48.205Z"
+generated_at: "2026-11-23T21:25:47.550Z"
+status: "active"
 ---
 
 # § 7119. Activities to support the effective use of technology
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:48.205Z"
   - **(5)** providing professional development in the use of technology (which may be provided through partnerships with outside organizations) to enable teachers and instructional leaders to increase student achievement in the areas of science, technology, engineering, and mathematics, including computer science; and
   - **(6)** providing students in rural, remote, and underserved areas with the resources to take advantage of high-quality digital learning experiences, digital resources, and access to online courses taught by effective educators.
 - **(b)** A local educational agency, or consortium of such agencies, shall not use more than 15 percent of funds for purchasing technology infrastructure as described in subsection (a)(2)(B), which shall include technology infrastructure purchased for the activities under subsection (a)(4)(A).
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4109](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title IV, § 4101](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1981](https://www.govinfo.gov/link/statute/129/1981).)*

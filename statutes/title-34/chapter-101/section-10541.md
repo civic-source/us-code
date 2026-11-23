@@ -3,9 +3,10 @@ title: "Section 10541 - Continuation of rules, authorities, and proceedings"
 usc_title: 34
 usc_section: "10541"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10541"
-generated_at: "2026-03-30T02:55:33.271Z"
+generated_at: "2026-11-23T21:26:09.673Z"
+status: "active"
 ---
 
 # § 10541. Continuation of rules, authorities, and proceedings
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:33.271Z"
 - **(h)** Any funds made available under subchapters II, III, and V 1 1 See References in Text note below. of this chapter, as in effect before December 27, 1979 , which are not obligated by a State or unit of local government, may be used to provide up to 100 per centum of the cost of any program or project.
 - **(i)** Notwithstanding any other provision of this chapter, all provisions of this chapter, as in effect on the day before December 27, 1979 , which are necessary to carry out the provisions of the Juvenile Justice and Delinquency Prevention Act of 1974 [ 34 U.S.C. 11101 et seq.], remain in effect for the sole purpose of carrying out the Juvenile Justice and Delinquency Prevention Act of 1974, and the State criminal justice council established under this chapter shall serve as the State planning agency for the purposes of the Juvenile Justice and Delinquency Prevention Act of 1974.
 - **(j)** Notwithstanding the provisions of section 404(c)(3), 1 any construction projects which were funded under this chapter, as in effect before December 27, 1979 , and which were budgeted in anticipation of receiving additional Federal funding for such construction may continue for two years to be funded under this chapter.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2601](https://www.govinfo.gov/link/plaw/90/public/351), formerly § 1301, as added [Pub. L. 96–157, § 2](https://www.govinfo.gov/link/plaw/96/public/157), Dec. 27, 1979, [93 Stat. 1221](https://www.govinfo.gov/link/statute/93/1221); amended [Pub. L. 98–473, title II, § 609G](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2100](https://www.govinfo.gov/link/statute/98/2100); renumbered § 1401, [Pub. L. 99–570, title I, § 1552(a)(2)](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–41](https://www.govinfo.gov/link/statute/100/3207); renumbered § 1501, renumbered § 1601, [Pub. L. 101–647, title II, § 241(a)(1)(B)](https://www.govinfo.gov/link/plaw/101/public/647), title VIII, § 801(a)(2), Nov. 29, 1990, [104 Stat. 4810](https://www.govinfo.gov/link/statute/104/4810), 4825; renumbered § 1701, [Pub. L. 102–521, § 4(a)(2)](https://www.govinfo.gov/link/plaw/102/public/521), Oct. 25, 1992, [106 Stat. 3404](https://www.govinfo.gov/link/statute/106/3404); renumbered § 1801, renumbered § 1901, renumbered § 2001, renumbered § 2101, renumbered § 2201, renumbered § 2301, renumbered § 2401, renumbered § 2501, [Pub. L. 103–322, title I, § 10003(a)(2)](https://www.govinfo.gov/link/plaw/103/public/322), title II, § 20201(a)(2), title III, § 32101(a)(2), title IV, §§ 40121(a)(2), 40231(a)(2), title V, § 50001(a)(2), title XXI, §§ 210201(a)(2), 210302(c)(1)(B), Sept. 13, 1994, [108 Stat. 1808](https://www.govinfo.gov/link/statute/108/1808), 1819, 1898, 1910, 1932, 1955, 2062, 2066, renumbered § 2601, [Pub. L. 105–181, § 3(a)(2)](https://www.govinfo.gov/link/plaw/105/public/181), June 16, 1998, [112 Stat. 512](https://www.govinfo.gov/link/statute/112/512).)*

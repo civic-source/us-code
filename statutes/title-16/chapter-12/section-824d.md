@@ -3,9 +3,10 @@ title: "Section 824d - Rates and charges; schedules; suspension of new rates; au
 usc_title: 16
 usc_section: "824d"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 824d"
-generated_at: "2026-03-30T02:54:22.915Z"
+generated_at: "2026-11-23T21:25:51.763Z"
+status: "active"
 ---
 
 # § 824d. Rates and charges; schedules; suspension of new rates; automatic adjustment clauses
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:22.915Z"
     - **(A)** the failure to issue an order accepting or denying the change by the Commission shall be considered to be an order issued by the Commission accepting the change for purposes of section 825 l (a) of this title; and
     - **(B)** each Commissioner shall add to the record of the Commission a written statement explaining the views of the Commissioner with respect to the change.
   - **(2)** If, pursuant to this subsection, a person seeks a rehearing under section 825 l (a) of this title, and the Commission fails to act on the merits of the rehearing request by the date that is 30 days after the date of the rehearing request because the Commissioners are divided two against two, as a result of vacancy, incapacity, or recusal on the Commission, or if the Commission lacks a quorum, such person may appeal under section 825 l (b) of this title.
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. II, § 205, as added Aug. 26, 1935, ch. 687, title II, § 213, [49 Stat. 851](https://www.govinfo.gov/link/statute/49/851); amended [Pub. L. 95–617, title II](https://www.govinfo.gov/link/plaw/95/public/617), §§ 207(a), 208, Nov. 9, 1978, [92 Stat. 3142](https://www.govinfo.gov/link/statute/92/3142); [Pub. L. 115–270, title III, § 3006](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3868](https://www.govinfo.gov/link/statute/132/3868).)*

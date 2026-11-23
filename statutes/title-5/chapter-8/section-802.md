@@ -3,9 +3,10 @@ title: "Section 802 - Congressional disapproval procedure"
 usc_title: 5
 usc_section: "802"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 802"
-generated_at: "2026-03-30T02:52:55.991Z"
+generated_at: "2026-11-23T21:25:23.086Z"
+status: "active"
 ---
 
 # § 802. Congressional disapproval procedure
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:52:55.991Z"
 - **(g)** This section is enacted by Congress—
   - **(1)** as an exercise of the rulemaking power of the Senate and House of Representatives, respectively, and as such it is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of a joint resolution described in subsection (a), and it supersedes other rules only to the extent that it is inconsistent with such rules; and
   - **(2)** with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
+
+## Source Credit
+
+*(Added [Pub. L. 104–121, title II, § 251](https://www.govinfo.gov/link/plaw/104/public/121), Mar. 29, 1996, [110 Stat. 871](https://www.govinfo.gov/link/statute/110/871).)*

@@ -3,9 +3,10 @@ title: "Section 2152e - Program to improve building construction and practices i
 usc_title: 22
 usc_section: "2152e"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2152e"
-generated_at: "2026-03-30T02:55:05.347Z"
+generated_at: "2026-11-23T21:25:58.441Z"
+status: "active"
 ---
 
 # § 2152e. Program to improve building construction and practices in Latin American countries
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.347Z"
     - **(B)** Translating and distributing in the region detailed construction manuals, model building codes, and publications from organizations described in paragraph (2), including materials that address zoning, egress, fire and life safety, plumbing, sewage, sanitation, electrical installation, mechanical installation, structural engineering, and seismic design.
     - **(C)** Offering other relevant assistance as needed, such as helping government officials develop seismic micro-zonation maps or draft pertinent legislation, to implement building codes and practices that will help improve the resistance of buildings and housing in the region to seismic activity and other natural disasters.
   - **(2)** Grants and contracts provided under this section shall be carried out through United States organizations with expertise in the areas described in paragraph (1), including the American Society of Testing Materials, the Underwriters Laboratories, the American Society of Mechanical Engineers, the American Society of Civil Engineers, the American Society of Heating, Refrigeration, and Air Conditioning Engineers, the International Association of Plumbing and Mechanical Officials, the International Code Council, and the National Fire Protection Association.
+
+## Source Credit
+
+*([Pub. L. 107–228, div. A, title VI, § 688](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1413](https://www.govinfo.gov/link/statute/116/1413).)*

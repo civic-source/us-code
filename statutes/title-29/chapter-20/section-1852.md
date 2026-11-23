@@ -3,12 +3,17 @@ title: "Section 1852 - Judicial enforcement"
 usc_title: 29
 usc_section: "1852"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1852"
-generated_at: "2026-03-30T02:55:18.740Z"
+generated_at: "2026-11-23T21:26:02.310Z"
+status: "active"
 ---
 
 # § 1852. Judicial enforcement
 
 - **(a)** The Secretary may petition any appropriate district court of the United States for temporary or permanent injunctive relief if the Secretary determines that this chapter, or any regulation under this chapter, has been violated.
 - **(b)** Except as provided in section 518(a) of title 28 , relating to litigation before the Supreme Court, the Solicitor of Labor may appear for and represent the Secretary in any civil litigation brought under this chapter, but all such litigation shall be subject to the direction and control of the Attorney General.
+
+## Source Credit
+
+*([Pub. L. 97–470, title V, § 502](https://www.govinfo.gov/link/plaw/97/public/470), Jan. 14, 1983, [96 Stat. 2596](https://www.govinfo.gov/link/statute/96/2596).)*

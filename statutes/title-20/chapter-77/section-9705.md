@@ -3,9 +3,10 @@ title: "Section 9705 - Commission personnel matters"
 usc_title: 20
 usc_section: "9705"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9705"
-generated_at: "2026-03-30T02:54:48.232Z"
+generated_at: "2026-11-23T21:25:47.676Z"
+status: "active"
 ---
 
 # § 9705. Commission personnel matters
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:48.232Z"
 - **(c)**
   - **(1)** The Director of the Office of Financial Education of the Department of the Treasury shall provide assistance to the Commission, upon request of the Commission, without reimbursement.
   - **(2)** Any Federal Government employee may be detailed to the Commission without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
+
+## Source Credit
+
+*([Pub. L. 108–159, title V, § 516](https://www.govinfo.gov/link/plaw/108/public/159), Dec. 4, 2003, [117 Stat. 2008](https://www.govinfo.gov/link/statute/117/2008).)*

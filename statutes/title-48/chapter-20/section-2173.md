@@ -3,12 +3,17 @@ title: "Section 2173 - Modification of plan"
 usc_title: 48
 usc_section: "2173"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 2173"
-generated_at: "2026-03-30T02:56:14.605Z"
+generated_at: "2026-11-23T21:26:38.142Z"
+status: "active"
 ---
 
 # § 2173. Modification of plan
 
 The Oversight Board, after the issuance of a certification pursuant to section 2124(j) of this title , may modify the plan at any time before confirmation, but may not modify the plan so that the plan as modified fails to meet the requirements of this subchapter. After the Oversight Board files a modification, the plan as modified becomes the plan.
 
+
+## Source Credit
+
+*([Pub. L. 114–187, title III, § 313](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 583](https://www.govinfo.gov/link/statute/130/583).)*

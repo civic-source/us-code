@@ -3,9 +3,10 @@ title: "Section 122 - Determination of place of primary use"
 usc_title: 4
 usc_section: "122"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "4 U.S.C. § 122"
-generated_at: "2026-03-30T02:52:51.498Z"
+generated_at: "2026-11-23T21:25:19.976Z"
+status: "active"
 ---
 
 # § 122. Determination of place of primary use
@@ -14,3 +15,11 @@ generated_at: "2026-03-30T02:52:51.498Z"
   - **(1)** allow a home service provider to rely on the applicable residential or business street address supplied by the home service provider’s customer; and
   - **(2)** not hold a home service provider liable for any additional taxes, charges, or fees based on a different determination of the place of primary use for taxes, charges, or fees that are customarily passed on to the customer as a separate itemized charge.
 - **(b)** Except as provided in section 121, a taxing jurisdiction shall allow a home service provider to treat the address used by the home service provider for tax purposes for any customer under a service contract or agreement in effect 2 years after the date of the enactment of the Mobile Telecommunications Sourcing Act as that customer’s place of primary use for the remaining term of such service contract or agreement, excluding any extension or renewal of such service contract or agreement, for purposes of determining the taxing jurisdictions to which taxes, charges, or fees on charges for mobile telecommunications services are remitted.
+
+Place of Primary Use
+
+Address Under Existing Agreements
+
+## Source Credit
+
+*(Added [Pub. L. 106–252, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/252), July 28, 2000, [114 Stat. 630](https://www.govinfo.gov/link/statute/114/630).)*

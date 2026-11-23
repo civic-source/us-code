@@ -3,9 +3,10 @@ title: "Section 3613 - Roles and responsibilities of agencies"
 usc_title: 44
 usc_section: "3613"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 3613"
-generated_at: "2026-03-30T02:55:56.299Z"
+generated_at: "2026-11-23T21:26:18.444Z"
+status: "active"
 ---
 
 # § 3613. Roles and responsibilities of agencies
@@ -23,3 +24,21 @@ generated_at: "2026-03-30T02:55:56.299Z"
   - **(2)** The presumption under paragraph (1) does not modify or alter—
     - **(A)** the responsibility of any agency to ensure compliance with subchapter II of chapter 35 for any cloud computing product or service used by the agency; or
     - **(B)** the authority of the head of any agency to make a determination that there is a demonstrable need for additional security requirements beyond the security requirements included in a FedRAMP authorization for a particular control implementation.
+
+In General
+
+Attestation
+
+Submission of Authorizations to Operate Required
+
+Submission of Policies Required
+
+Presumption of Adequacy.—
+
+In general
+
+Information security requirements
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. E, title LIX, § 5921(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3453](https://www.govinfo.gov/link/statute/136/3453).)*

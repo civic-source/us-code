@@ -3,9 +3,10 @@ title: "Section 18321 - Human space flight beyond low-Earth orbit"
 usc_title: 42
 usc_section: "18321"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18321"
-generated_at: "2026-03-30T02:56:11.519Z"
+generated_at: "2026-11-23T21:26:33.819Z"
+status: "active"
 ---
 
 # § 18321. Human space flight beyond low-Earth orbit
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.519Z"
     - **(A)** A Space Launch System.
     - **(B)** A multi-purpose crew vehicle.
     - **(C)** Such other technology elements the Administrator may consider appropriate, and which the Administrator shall specifically identify in the report.
+
+## Source Credit
+
+*([Pub. L. 111–267, title III, § 301](https://www.govinfo.gov/link/plaw/111/public/267), Oct. 11, 2010, [124 Stat. 2813](https://www.govinfo.gov/link/statute/124/2813).)*

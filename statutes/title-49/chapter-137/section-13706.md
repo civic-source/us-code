@@ -3,9 +3,10 @@ title: "Section 13706 - Liability for payment of rates"
 usc_title: 49
 usc_section: "13706"
 chapter: 137
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 13706"
-generated_at: "2026-03-30T02:56:19.329Z"
+generated_at: "2026-11-23T21:26:40.684Z"
+status: "active"
 ---
 
 # § 13706. Liability for payment of rates
@@ -14,3 +15,11 @@ generated_at: "2026-03-30T02:56:19.329Z"
   - **(1)** of the agency and absence of beneficial title; and
   - **(2)** of the name and address of the beneficial owner of the property if it is reconsigned or diverted to a place other than the place specified in the original bill of lading.
 - **(b)** When the consignee is liable only for rates billed at the time of delivery under subsection (a), the shipper or consignor, or, if the property is reconsigned or diverted, the beneficial owner is liable for those additional rates regardless of the bill of the lading or contract under which the property was transported. The beneficial owner is liable for all rates when the property is reconsigned or diverted by an agent but is refused or abandoned at its ultimate destination if the agent gave the carrier in the reconsignment or diversion order a notice of agency and the name and address of the beneficial owner. A consignee giving the carrier erroneous information about the identity of the beneficial owner of the property is liable for the additional rates.
+
+Liability of Consignee
+
+Liability of Beneficial Owner
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 872](https://www.govinfo.gov/link/statute/109/872).)*

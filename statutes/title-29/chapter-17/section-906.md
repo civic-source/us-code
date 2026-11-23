@@ -3,9 +3,10 @@ title: "Section 906 - Repealed. Pub. L. 97–300, title I, § 184(a)(1) , Oct. 1
 usc_title: 29
 usc_section: "906"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 906"
-generated_at: "2026-03-30T02:55:18.701Z"
+generated_at: "2026-11-23T21:26:02.221Z"
+status: "repealed"
 ---
 
 # §§ 899 to 906. Repealed. Pub. L. 97–300, title I, § 184(a)(1) , Oct. 13, 1982 , 96 Stat. 1357

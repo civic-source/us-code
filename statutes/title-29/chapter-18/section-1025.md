@@ -3,9 +3,10 @@ title: "Section 1025 - Reporting of participant’s benefit rights"
 usc_title: 29
 usc_section: "1025"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1025"
-generated_at: "2026-03-30T02:55:18.705Z"
+generated_at: "2026-11-23T21:26:02.230Z"
+status: "active"
 ---
 
 # § 1025. Reporting of participant’s benefit rights
@@ -26,7 +27,7 @@ generated_at: "2026-03-30T02:55:18.705Z"
         - **(II)** the nonforfeitable pension benefits, if any, which have accrued, or the earliest date on which benefits will become nonforfeitable,
       - **(ii)** shall include an explanation of any permitted disparity under section 401( l ) of title 26 or any floor-offset arrangement that may be applied in determining any accrued benefits described in clause (i),
       - **(iii)** shall be written in a manner calculated to be understood by the average plan participant, and
-      - **(iv)** may be delivered in written, electronic, or other appropriate form to the extent such form is reasonably accessible to the participant or beneficiary.
+      - **(iv)** subject to subparagraph (E), may be delivered in written, electronic, or other appropriate form to the extent such form is reasonably accessible to the participant or beneficiary.
     - **(B)** In the case of an individual account plan, any pension benefit statement under clause (i) or (ii) of paragraph (1)(A) shall include—
       - **(i)** the value of each investment to which assets in the individual account have been allocated, determined as of the most recent valuation date under the plan, including the value of any assets held in the form of employer securities, without regard to whether such securities were contributed by the plan sponsor or acquired at the direction of the plan or of the participant or beneficiary,
       - **(ii)** in the case of a pension benefit statement under paragraph (1)(A)(i)—
@@ -55,8 +56,27 @@ generated_at: "2026-03-30T02:55:18.705Z"
         - **(I)** interim final rules under clause (i);
         - **(II)** the model disclosure under clause (ii); or
         - **(III)** the assumptions under clause (iii).
+    - **(E)** With respect to at least 1 pension benefit statement furnished for a calendar year with respect to an individual account plan under paragraph (1)(A), and with respect to at least 1 pension benefit statement furnished every 3 calendar years with respect to a defined benefit plan under paragraph (1)(B), such statement shall be furnished on paper in written form except—
+      - **(i)** in the case of a plan that furnishes such statement in accordance with section 2520.104b-1(c) of title 29, Code of Federal Regulations; or
+      - **(ii)** in the case of a plan that permits a participant or beneficiary to request that the statements referred to in the matter preceding clause (i) be furnished by electronic delivery, if the participant or beneficiary requests that such statements be delivered electronically and the statements are so delivered.
   - **(3)**
     - **(A)** In the case of a defined benefit plan, the requirements of paragraph (1)(B)(i) shall be treated as met with respect to a participant if at least once each year the administrator provides to the participant notice of the availability of the pension benefit statement and the ways in which the participant may obtain such statement. Such notice may be delivered in written, electronic, or other appropriate form to the extent such form is reasonably accessible to the participant.
     - **(B)** The Secretary may provide that years in which no employee or former employee benefits (within the meaning of section 410(b) of title 26 ) under the plan need not be taken into account in determining the 3-year period under paragraph (1)(B)(i).
 - **(b)** In no case shall a participant or beneficiary of a plan be entitled to more than 1 statement described in subparagraph (A)(iii) or (B)(ii) of subsection (a)(1), whichever is applicable, in any 12-month period.
 - **(c)** Each administrator required to register under section 6057 of title 26 shall, before the expiration of the time prescribed for such registration, furnish to each participant described in subsection (a)(2)(C) of such section, an individual statement setting forth the information with respect to such participant required to be contained in the registration statement required by section 6057(a)(2) of title 26 . Such statement shall also include a notice to the participant of any benefits which are forfeitable if the participant dies before a certain date.
+
+In general
+
+Special rule for collectively bargained agreements
+
+In general
+
+Other guidance
+
+In general
+
+Interim final rules
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 105](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 849](https://www.govinfo.gov/link/statute/88/849); [Pub. L. 98–397, title I, § 106](https://www.govinfo.gov/link/plaw/98/public/397), Aug. 23, 1984, [98 Stat. 1436](https://www.govinfo.gov/link/statute/98/1436); [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7891(a)(1), 7894(b)(5), Dec. 19, 1989, [103 Stat. 2445](https://www.govinfo.gov/link/statute/103/2445), 2448; [Pub. L. 109–280, title V, § 508(a)(1)](https://www.govinfo.gov/link/plaw/109/public/280) –(2)(B), Aug. 17, 2006, [120 Stat. 949](https://www.govinfo.gov/link/statute/120/949), 951; [Pub. L. 116–94, div. O, title II, § 203](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3163](https://www.govinfo.gov/link/statute/133/3163); [Pub. L. 117–328, div. T, title III, § 338(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5373](https://www.govinfo.gov/link/statute/136/5373).)*

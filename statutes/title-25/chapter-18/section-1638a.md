@@ -3,9 +3,10 @@ title: "Section 1638a - Tribal management of federally owned quarters"
 usc_title: 25
 usc_section: "1638a"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1638a"
-generated_at: "2026-03-30T02:54:52.823Z"
+generated_at: "2026-11-23T21:25:54.623Z"
+status: "active"
 ---
 
 # § 1638a. Tribal management of federally owned quarters
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:52.823Z"
   - **(4)** If a tribal health program that elected to collect rent directly under paragraph (1) requests retrocession of the authority of the tribal health program to collect that rent, the retrocession shall take effect on the earlier of—
     - **(A)** the first day of the month that begins not less than 180 days after the tribal health program submits the request; and
     - **(B)** such other date as may be mutually agreed on by the Secretary and the tribal health program.
+
+## Source Credit
+
+*([Pub. L. 94–437, title III, § 309](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

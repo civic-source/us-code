@@ -3,12 +3,17 @@ title: "Section 1710 - Index of documents: number and distribution"
 usc_title: 44
 usc_section: "1710"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 1710"
-generated_at: "2026-03-30T02:55:56.291Z"
+generated_at: "2026-11-23T21:26:18.397Z"
+status: "active"
 ---
 
 # § 1710. Index of documents: number and distribution
 
 The Superintendent of Documents, at the close of each regular session of Congress, shall prepare and publish a comprehensive index of public documents, upon a plan approved by the Joint Committee on Printing. The Director of the Government Publishing Office shall, immediately upon its publication, deliver to him a copy of every document printed by the Government Publishing Office. The head of each executive department, independent agency and establishment of the Government shall deliver to him a copy of every document issued or published by the department, bureau, or office not confidential in character. He shall also prepare and print in one volume a consolidated index of Congressional documents, and shall index single volumes of documents as the Joint Committee on Printing directs. Two thousand copies each of the comprehensive index and of the consolidated index shall be printed and bound in addition to the usual number, two hundred for the Senate, eight hundred for the House of Representatives and one thousand for distribution by the Superintendent of Documents.
 
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1280](https://www.govinfo.gov/link/statute/82/1280); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), (c)(1), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537).)*

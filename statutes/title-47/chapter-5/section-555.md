@@ -3,9 +3,10 @@ title: "Section 555 - Judicial proceedings"
 usc_title: 47
 usc_section: "555"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 555"
-generated_at: "2026-03-30T02:56:24.520Z"
+generated_at: "2026-11-23T21:26:36.041Z"
+status: "active"
 ---
 
 # § 555. Judicial proceedings
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:24.520Z"
 - **(c)**
   - **(1)** Notwithstanding any other provision of law, any civil action challenging the constitutionality of section 534 or 535 of this title or any provision thereof shall be heard by a district court of three judges convened pursuant to the provisions of section 2284 of title 28 .
   - **(2)** Notwithstanding any other provision of law, an interlocutory or final judgment, decree, or order of the court of three judges in an action under paragraph (1) holding section 534 or 535 of this title or any provision thereof unconstitutional shall be reviewable as a matter of right by direct appeal to the Supreme Court. Any such appeal shall be filed not more than 20 days after entry of such judgment, decree, or order.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VI, § 635, as added [Pub. L. 98–549, § 2](https://www.govinfo.gov/link/plaw/98/public/549), Oct. 30, 1984, [98 Stat. 2800](https://www.govinfo.gov/link/statute/98/2800); amended [Pub. L. 102–385](https://www.govinfo.gov/link/plaw/102/public/385), §§ 7(a)(2), 23, 24(b), Oct. 5, 1992, [106 Stat. 1483](https://www.govinfo.gov/link/statute/106/1483), 1500, 1501.)*

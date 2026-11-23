@@ -3,9 +3,10 @@ title: "Section 36B - Refundable credit for coverage under a qualified health pl
 usc_title: 26
 usc_section: "36B"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 36B"
-generated_at: "2026-03-30T02:55:27.592Z"
+generated_at: "2026-11-23T21:26:05.904Z"
+status: "active"
 ---
 
 # § 36B. Refundable credit for coverage under a qualified health plan
@@ -27,7 +28,17 @@ generated_at: "2026-03-30T02:55:27.592Z"
         - **(III)** Subclause (II) shall apply for any calendar year only if the aggregate amount of premium tax credits under this section and cost-sharing reductions under section 1402 of the Patient Protection and Affordable Care Act for the preceding calendar year exceeds an amount equal to 0.504 percent of the gross domestic product for the preceding calendar year.
       - **(iii)** In the case of a taxable year beginning after December 31, 2020 , and before January 1, 2026 —
         - **(I)** clause (ii) shall not apply for purposes of adjusting premium percentages under this subparagraph, and
-        - **(II)** the following table shall be applied in lieu of the table contained in clause (i): In the case of household income (expressed as a percent of poverty line) within the following income tier: The initial premium percentage is— The final premium percentage is— Up to 150.0 percent 0.0 0.0 150.0 percent up to 200.0 percent 0.0 2.0 200.0 percent up to 250.0 percent 2.0 4.0 250.0 percent up to 300.0 percent 4.0 6.0 300.0 percent up to 400.0 percent 6.0 8.5 400.0 percent and higher 8.5 8.5
+        - **(II)** the following table shall be applied in lieu of the table contained in clause (i):
+
+| In the case of household income (expressed as a percent of poverty line) within the following income tier: | The initial premium percentage is— | The final premium percentage is— |
+| --- | --- | --- |
+| Up to 150.0 percent | 0.0 | 0.0 |
+| 150.0 percent up to 200.0 percent | 0.0 | 2.0 |
+| 200.0 percent up to 250.0 percent | 2.0 | 4.0 |
+| 250.0 percent up to 300.0 percent | 4.0 | 6.0 |
+| 300.0 percent up to 400.0 percent | 6.0 | 8.5 |
+| 400.0 percent and higher | 8.5 | 8.5 |
+
     - **(B)** The applicable second lowest cost silver plan with respect to any applicable taxpayer is the second lowest cost silver plan of the individual market in the rating area in which the taxpayer resides which—
       - **(i)** is offered through the same Exchange through which the qualified health plans taken into account under paragraph (2)(A) were offered, and
       - **(ii)** provides—
@@ -125,3 +136,51 @@ generated_at: "2026-03-30T02:55:27.592Z"
 - **(h)** The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section, including regulations which provide for—
   - **(1)** the coordination of the credit allowed under this section with the program for advance payment of the credit under section 1412 of the Patient Protection and Affordable Care Act, and
   - **(2)** the application of subsection (f) where the filing status of the taxpayer for a taxable year is different from such status used for determining the advance payment of the credit.
+
+| In the case of household income (expressed as a percent of poverty line) within the following income tier: | The initial premium percentage is— | The final premium percentage is— |
+| --- | --- | --- |
+| Up to 133% | 2.0% | 2.0% |
+| 133% up to 150% | 3.0% | 4.0% |
+| 150% up to 200% | 4.0% | 6.3% |
+| 200% up to 250% | 6.3% | 8.05% |
+| 250% up to 300% | 8.05% | 9.5% |
+| 300% up to 400% | 9.5% | 9.5%. |
+
+
+(aa) whose tax for the taxable year is determined under section 1(c) 2 2 See References in Text note below. (relating to unmarried individuals other than surviving spouses and heads of households) and who is not allowed a deduction under section 151 for the taxable year with respect to a dependent, or
+
+(bb) who is not described in item (aa) but who purchases only self-only coverage, and
+
+(aa) the numerator of which is the poverty line for the taxpayer’s family size determined after application of subclause (I), and
+
+(bb) the denominator of which is the poverty line for the taxpayer’s family size determined without regard to subclause (I).
+
+In general
+
+Transition relief
+
+Coordination with health insurance premium credit
+
+Employee notice.—
+
+In general
+
+Transition relief
+
+W–2 reporting
+
+Information provided by exchange subsidy applicants.—
+
+In general
+
+Verification
+
+Transitional relief
+
+Estimate of secretary
+
+Transfer of funds
+
+## Source Credit
+
+*(Added and amended [Pub. L. 111–148, title I, § 1401(a)](https://www.govinfo.gov/link/plaw/111/public/148), title X, §§ 10105(a)–(c), 10108(h)(1), Mar. 23, 2010, [124 Stat. 213](https://www.govinfo.gov/link/statute/124/213), 906, 914; [Pub. L. 111–152, title I](https://www.govinfo.gov/link/plaw/111/public/152), §§ 1001(a), 1004(a)(1)(A), (2)(A), (c), Mar. 30, 2010, [124 Stat. 1030](https://www.govinfo.gov/link/statute/124/1030), 1034, 1035; [Pub. L. 111–309, title II, § 208(a)](https://www.govinfo.gov/link/plaw/111/public/309), (b), Dec. 15, 2010, [124 Stat. 3291](https://www.govinfo.gov/link/statute/124/3291), 3292; [Pub. L. 112–9, § 4(a)](https://www.govinfo.gov/link/plaw/112/public/9), Apr. 14, 2011, [125 Stat. 36](https://www.govinfo.gov/link/statute/125/36); [Pub. L. 112–10, div. B, title VIII, § 1858(b)(1)](https://www.govinfo.gov/link/plaw/112/public/10), Apr. 15, 2011, [125 Stat. 168](https://www.govinfo.gov/link/statute/125/168); [Pub. L. 112–56, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/112/public/56), Nov. 21, 2011, [125 Stat. 734](https://www.govinfo.gov/link/statute/125/734); [Pub. L. 114–255, div. C, title XVIII, § 18001(a)(3)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1341](https://www.govinfo.gov/link/statute/130/1341); [Pub. L. 115–97, title I, § 11002(d)(1)(E)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2060](https://www.govinfo.gov/link/statute/131/2060); [Pub. L. 117–2, title IX](https://www.govinfo.gov/link/plaw/117/public/2), §§ 9661(a), (b), 9662(a), 9663(a), Mar. 11, 2021, [135 Stat. 182](https://www.govinfo.gov/link/statute/135/182), 183; [Pub. L. 117–169, title I, § 12001(a)](https://www.govinfo.gov/link/plaw/117/public/169), (b), Aug. 16, 2022, [136 Stat. 1905](https://www.govinfo.gov/link/statute/136/1905); [Pub. L. 119–21, title VII](https://www.govinfo.gov/link/plaw/119/public/21), §§ 71301(a), (b), 71302(a), 71303(a), (b), 71304(a), 71305(a), (b)(1), July 4, 2025, [139 Stat. 321–325](https://www.govinfo.gov/link/statute/139/321).)*

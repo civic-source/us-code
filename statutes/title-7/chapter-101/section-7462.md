@@ -3,9 +3,10 @@ title: "Section 7462 - Definitions"
 usc_title: 7
 usc_section: "7462"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7462"
-generated_at: "2026-03-30T02:53:42.453Z"
+generated_at: "2026-11-23T21:25:28.429Z"
+status: "active"
 ---
 
 # § 7462. Definitions
@@ -27,3 +28,7 @@ In this subchapter (unless the context otherwise requires):
   - **(13)** The term “research” means any type of research relating to the use, nutritional value, and marketing of kiwifruit conducted for the purpose of advancing the image, desirability, marketability, or quality of kiwifruit.
   - **(14)** The term “Secretary” means the Secretary of Agriculture.
   - **(15)** The term “United States” means the 50 States of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 553](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1064](https://www.govinfo.gov/link/statute/110/1064).)*

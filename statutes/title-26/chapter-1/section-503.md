@@ -3,9 +3,10 @@ title: "Section 503 - Requirements for exemption"
 usc_title: 26
 usc_section: "503"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 503"
-generated_at: "2026-03-30T02:55:27.711Z"
+generated_at: "2026-11-23T21:26:06.311Z"
+status: "active"
 ---
 
 # § 503. Requirements for exemption
@@ -35,3 +36,11 @@ generated_at: "2026-03-30T02:55:27.711Z"
   - **(1)** the employer is prohibited (at the time of such making or renewal) by any law of the United States or regulation thereunder from directly or indirectly pledging, as security for such a loan, a particular class or classes of his assets the value of which (at such time) represents more than one-half of the value of all his assets;
   - **(2)** the making or renewal, as the case may be, is approved in writing as an investment which is consistent with the exempt purposes of the trust by a trustee who is independent of the employer, and no other such trustee had previously refused to give such written approval; and
   - **(3)** immediately following the making or renewal, as the case may be, the aggregate amount loaned by the trust to the employer, without the receipt of adequate security, does not exceed 25 percent of the value of all the assets of the trust.
+
+In general
+
+Exceptions
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 166; [Pub. L. 85–866, title I, § 30(a)](https://www.govinfo.gov/link/plaw/85/public/866), (b), Sept. 2, 1958, [72 Stat. 1629](https://www.govinfo.gov/link/statute/72/1629), 1630; [Pub. L. 86–667, § 2](https://www.govinfo.gov/link/plaw/86/public/667), July 14, 1960, [74 Stat. 535](https://www.govinfo.gov/link/statute/74/535); [Pub. L. 87–792, § 6](https://www.govinfo.gov/link/plaw/87/public/792), Oct. 10, 1962, [76 Stat. 827](https://www.govinfo.gov/link/statute/76/827); [Pub. L. 91–172, title I](https://www.govinfo.gov/link/plaw/91/public/172), §§ 101(j)(7)–(14), 121(b)(6)(B), Dec. 30, 1969, [83 Stat. 527](https://www.govinfo.gov/link/statute/83/527), 542; [Pub. L. 93–406, title II, § 2003(b)](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 978](https://www.govinfo.gov/link/statute/88/978); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 101–508, title XI, § 11801(a)(22)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–521](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 113–295, div. A, title II, § 221(a)(63)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4048](https://www.govinfo.gov/link/statute/128/4048).)*

@@ -3,9 +3,10 @@ title: "Section 4043 - Surtax on fuel used in aircraft part of a fractional owne
 usc_title: 26
 usc_section: "4043"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4043"
-generated_at: "2026-03-30T02:55:27.797Z"
+generated_at: "2026-11-23T21:26:06.591Z"
+status: "active"
 ---
 
 # § 4043. Surtax on fuel used in aircraft part of a fractional ownership program
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:55:27.797Z"
   - **(5)** For purposes of subsection (a), a fractional program aircraft shall not be considered to be used for the transportation of a qualified fractional owner, or on account of such qualified fractional owner, when it is used for flight demonstration, maintenance, or crew training.
   - **(6)** A fractional program aircraft shall not be considered to be used on account of a qualified fractional owner when it is used in deadhead service and a person other than a qualified fractional owner is separately charged for such service.
 - **(d)** This section shall not apply to liquids used as a fuel in an aircraft after September 30, 2028 .
+
+## Source Credit
+
+*(Added [Pub. L. 112–95, title XI, § 1103(a)(1)](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 149](https://www.govinfo.gov/link/statute/126/149); amended [Pub. L. 115–254, div. B, title VIII, § 802(c)(1)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3429](https://www.govinfo.gov/link/statute/132/3429); [Pub. L. 118–15, div. B, title II, § 2212(c)(1)](https://www.govinfo.gov/link/plaw/118/public/15), Sept. 30, 2023, [137 Stat. 85](https://www.govinfo.gov/link/statute/137/85); [Pub. L. 118–34, title II, § 202(c)(1)](https://www.govinfo.gov/link/plaw/118/public/34), Dec. 26, 2023, [137 Stat. 1115](https://www.govinfo.gov/link/statute/137/1115); [Pub. L. 118–41, title II, § 202(c)(1)](https://www.govinfo.gov/link/plaw/118/public/41), Mar. 8, 2024, [138 Stat. 24](https://www.govinfo.gov/link/statute/138/24); [Pub. L. 118–63, title XIII, § 1302(c)(1)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1433](https://www.govinfo.gov/link/statute/138/1433).)*

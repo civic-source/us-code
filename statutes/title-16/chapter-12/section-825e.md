@@ -3,12 +3,17 @@ title: "Section 825e - Complaints"
 usc_title: 16
 usc_section: "825e"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 825e"
-generated_at: "2026-03-30T02:54:22.920Z"
+generated_at: "2026-11-23T21:25:51.768Z"
+status: "active"
 ---
 
 # § 825e. Complaints
 
 Any person, electric utility, State, municipality, or State commission complaining of anything done or omitted to be done by any licensee, transmitting utility, or public utility in contravention of the provisions of this chapter may apply to the Commission by petition which shall briefly state the facts, whereupon a statement of the complaint thus made shall be forwarded by the Commission to such licensee, transmitting utility, or public utility, who shall be called upon to satisfy the complaint or to answer the same in writing within a reasonable time to be specified by the Commission. If such licensee, transmitting utility, or public utility shall not satisfy the complaint within the time specified or there shall appear to be any reasonable ground for investigating such complaint, it shall be the duty of the Commission to investigate the matters complained of in such manner and by such means as it shall find proper.
 
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. III, § 306, as added Aug. 26, 1935, ch. 687, title II, § 213, [49 Stat. 856](https://www.govinfo.gov/link/statute/49/856); amended [Pub. L. 109–58, title XII, § 1284(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 980](https://www.govinfo.gov/link/statute/119/980).)*

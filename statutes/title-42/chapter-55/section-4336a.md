@@ -3,9 +3,10 @@ title: "Section 4336a - Timely and unified Federal reviews"
 usc_title: 42
 usc_section: "4336a"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4336a"
-generated_at: "2026-03-30T02:56:11.201Z"
+generated_at: "2026-11-23T21:26:32.648Z"
+status: "active"
 ---
 
 # § 4336a. Timely and unified Federal reviews
@@ -69,3 +70,7 @@ generated_at: "2026-03-30T02:56:11.201Z"
       - **(ii)** such lead agency began the scoping for the major Federal action; or
       - **(iii)** such lead agency issued a notice of intent to prepare the environmental assessment or environmental impact statement for the major Federal action; and
     - **(C)** when such environmental assessment and environmental impact statement is expected to be complete.
+
+## Source Credit
+
+*([Pub. L. 91–190, title I, § 107](https://www.govinfo.gov/link/plaw/91/public/190), as added [Pub. L. 118–5, div. C, title III, § 321(b)](https://www.govinfo.gov/link/plaw/118/public/5), June 3, 2023, [137 Stat. 40](https://www.govinfo.gov/link/statute/137/40).)*

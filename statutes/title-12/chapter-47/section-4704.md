@@ -3,9 +3,10 @@ title: "Section 4704 - Applications for assistance"
 usc_title: 12
 usc_section: "4704"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4704"
-generated_at: "2026-03-30T02:53:53.516Z"
+generated_at: "2026-11-23T21:25:37.211Z"
+status: "active"
 ---
 
 # § 4704. Applications for assistance
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:53.516Z"
     - **(B)** will expand its operations into a new investment area or to serve a new targeted population, offer more products or services, or increase the volume of its current business; and
   - **(6)** to include such other information as the Fund deems appropriate.
 - **(c)** The Fund shall provide an outreach program to identify and provide information to potential applicants and may provide technical assistance to potential applicants, but shall not assist in the preparation of any application.
+
+## Source Credit
+
+*([Pub. L. 103–325, title I, § 105](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2170](https://www.govinfo.gov/link/statute/108/2170).)*

@@ -3,9 +3,10 @@ title: "Section 3148 - Oil and gas leasing program for non-North Slope Federal l
 usc_title: 16
 usc_section: "3148"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3148"
-generated_at: "2026-03-30T02:54:23.010Z"
+generated_at: "2026-11-23T21:25:51.961Z"
+status: "active"
 ---
 
 # § 3148. Oil and gas leasing program for non-North Slope Federal lands
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:23.010Z"
 - **(g)** Subsequent to a discovery of oil or gas in paying quantities, and prior to developing and producing such oil and gas, the Secretary shall require the lessee to describe development and production activities in a development and production plan. He shall approve such plan if such activities may be conducted in conformity with such requirements as may be made by the Secretary for the protection and use of the land for the purpose for which it is managed under applicable law.
 - **(h)** The Secretary shall monitor the performance of the lessee and, if he determines that due to significant changes in circumstances regarding that operation, including environmental or economic changes, new requirements are needed, he may require a revised development and production plan.
 - **(i)** If the Secretary determines that immediate and irreparable damage will result from continuation in force of a lease, that the threat will not disappear and that the advantages of cancellation outweigh the advantages of continuation in force of a lease, he shall suspend operations for up to five years. If such a threat persists beyond such five-year suspension period, he shall cancel a lease and provide compensation to the lease under such terms as the Secretary establishes, by regulation, to be appropriate.
+
+## Source Credit
+
+*([Pub. L. 96–487, title X, § 1008](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2454](https://www.govinfo.gov/link/statute/94/2454); [Pub. L. 100–203, title V, § 5105](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–259](https://www.govinfo.gov/link/statute/101/1330).)*

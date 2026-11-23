@@ -3,9 +3,10 @@ title: "Section 1164 - Presumptions of service-connection for Coronavirus Diseas
 usc_title: 38
 usc_section: "1164"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1164"
-generated_at: "2026-03-30T02:55:53.478Z"
+generated_at: "2026-11-23T21:26:16.589Z"
+status: "active"
 ---
 
 # § 1164. Presumptions of service-connection for Coronavirus Disease 2019
@@ -35,3 +36,21 @@ generated_at: "2026-03-30T02:55:53.478Z"
   - **(2)** where entitlement to benefits under this title is predicated on the individual who was disabled or died being a veteran, benefits for disability or death resulting from COVID–19 as described in subsection (a) shall be paid or furnished as if the individual was a veteran, without regard to whether the period of duty would constitute active military, naval, or air service under section 101 of this title .
 - **(d)** For purposes of subsection (a), symptoms of COVID–19 are those symptoms that competent medical evidence demonstrates are experienced by an individual affected and directly related to COVID–19.
 - **(e)** If there is a question of whether the symptoms experienced by an individual described in paragraph (1) of subsection (a) during a manifestation period described in paragraph (2) of such subsection are attributable to COVID–19 resulting from infection with SARS–CoV–2 during the qualifying period of duty, in determining whether a medical examination or medical opinion is necessary to make a decision on the claim within the meaning of section 5103A(d) of this title , a qualifying period of duty described in subsection (b) of this section shall be treated as if it were active military, naval, or air service for purposes of section 5103A(d)(2)(B) of this title .
+
+Presumptions Generally
+
+Qualifying Period of Duty Described
+
+Application of Presumptions for Training Duty
+
+Symptoms of COVID–
+
+Medical Examinations and Opinions
+
+In General
+
+Outreach
+
+## Source Credit
+
+*(Added [Pub. L. 116–315, title IV, § 4101(a)](https://www.govinfo.gov/link/plaw/116/public/315), Jan. 5, 2021, [134 Stat. 5006](https://www.govinfo.gov/link/statute/134/5006).)*

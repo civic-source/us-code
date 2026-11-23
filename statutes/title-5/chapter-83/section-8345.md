@@ -3,9 +3,10 @@ title: "Section 8345 - Payment of benefits; commencement, termination, and waive
 usc_title: 5
 usc_section: "8345"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8345"
-generated_at: "2026-03-30T02:52:56.051Z"
+generated_at: "2026-11-23T21:25:23.404Z"
+status: "active"
 ---
 
 # § 8345. Payment of benefits; commencement, termination, and waiver of annuity
@@ -50,3 +51,33 @@ generated_at: "2026-03-30T02:52:56.051Z"
   - **(4)** This subsection does not give the consent of the United States to the application of a statute which imposes more burdensome requirements on the United States than on employers generally, or which subjects the United States or any annuitant to a penalty or liability because of this subsection. The Office may not accept pay from a State for services performed in withholding State income taxes from annuities. Any amount erroneously withheld from an annuity and paid to a State by the Office shall be repaid by the State in accordance with regulations issued by the Office.
   - **(5)** For the purpose of this subsection, “State” means a State, the District of Columbia, or any territory or possession of the United States.
 - **(l)** Transfers of contributions and deposits authorized by section 408(a)(3) of the Foreign Service Act of 1980 shall be deemed to be a complete and final payment of benefits under this chapter.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 2264 . | July 31, 1956, ch. 804, § 401 “Sec. 14”, 70 Stat. 757 . |
+|  |  | Sept. 6, 1960 , Pub. L. 86–713, § 1(b) , 74 Stat. 814 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 2264
+
+July 31, 1956, ch. 804, § 401
+
+70 Stat. 757
+
+Sept. 6, 1960
+
+Pub. L. 86–713, § 1(b)
+
+74 Stat. 814
+
+Savings Provision
+
+Ratification of Erroneous Payments
+
+Adjustments of Certain Reductions
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 582](https://www.govinfo.gov/link/statute/80/582); [Pub. L. 93–273, § 1](https://www.govinfo.gov/link/plaw/93/public/273), Apr. 26, 1974, [88 Stat. 93](https://www.govinfo.gov/link/statute/88/93); [Pub. L. 94–126, § 1(c)](https://www.govinfo.gov/link/plaw/94/public/126), Nov. 12, 1975, [89 Stat. 679](https://www.govinfo.gov/link/statute/89/679); [Pub. L. 94–166, § 1](https://www.govinfo.gov/link/plaw/94/public/166), Dec. 23, 1975, [89 Stat. 1002](https://www.govinfo.gov/link/statute/89/1002); [Pub. L. 94–183, § 1](https://www.govinfo.gov/link/plaw/94/public/183), Dec. 31, 1975, [89 Stat. 1057](https://www.govinfo.gov/link/statute/89/1057); [Pub. L. 95–366, § 1(a)](https://www.govinfo.gov/link/plaw/95/public/366), Sept. 15, 1978, [92 Stat. 600](https://www.govinfo.gov/link/statute/92/600); [Pub. L. 95–454, title IX, § 906(a)(2)](https://www.govinfo.gov/link/plaw/95/public/454), (3), Oct. 13, 1978, [92 Stat. 1224](https://www.govinfo.gov/link/statute/92/1224); [Pub. L. 97–35, title XVII, § 1705(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 758](https://www.govinfo.gov/link/statute/95/758); [Pub. L. 97–253, title III](https://www.govinfo.gov/link/plaw/97/public/253), §§ 304(b), 305(a), Sept. 8, 1982, [96 Stat. 795](https://www.govinfo.gov/link/statute/96/795); [Pub. L. 98–615, § 2(6)](https://www.govinfo.gov/link/plaw/98/public/615), Nov. 8, 1984, [98 Stat. 3202](https://www.govinfo.gov/link/statute/98/3202); [Pub. L. 99–251, title III, § 305(a)](https://www.govinfo.gov/link/plaw/99/public/251), Feb. 27, 1986, [100 Stat. 26](https://www.govinfo.gov/link/statute/100/26); [Pub. L. 101–246, title I, § 141(b)](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 35](https://www.govinfo.gov/link/statute/104/35); [Pub. L. 103–358, § 2(a)](https://www.govinfo.gov/link/plaw/103/public/358), Oct. 14, 1994, [108 Stat. 3420](https://www.govinfo.gov/link/statute/108/3420); [Pub. L. 116–126, § 2(c)(1)](https://www.govinfo.gov/link/plaw/116/public/126), (d)(1), Mar. 18, 2020, [134 Stat. 175](https://www.govinfo.gov/link/statute/134/175), 176.)*

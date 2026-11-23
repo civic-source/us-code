@@ -3,9 +3,10 @@ title: "Section 5510 - Authorization"
 usc_title: 20
 usc_section: "5510"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 5510"
-generated_at: "2026-03-30T02:54:48.188Z"
+generated_at: "2026-11-23T21:25:47.467Z"
+status: "active"
 ---
 
 # § 5510. Authorization
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:48.188Z"
 - **(c)** Funds appropriated pursuant to this section may be made available to the National Environmental Education and Training Foundation to—
   - **(1)** match partially or wholly the amount or value of contributions (whether in currency, services, or property) made to the Foundation by private persons and State and local governments; and
   - **(2)** provide administrative services under section 5509(d) of this title :
+
+## Source Credit
+
+*([Pub. L. 101–619, § 11](https://www.govinfo.gov/link/plaw/101/public/619), Nov. 16, 1990, [104 Stat. 3339](https://www.govinfo.gov/link/statute/104/3339).)*

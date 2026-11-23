@@ -3,9 +3,10 @@ title: "Section 1383 - Application to other treaties and conventions"
 usc_title: 16
 usc_section: "1383"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1383"
-generated_at: "2026-03-30T02:54:22.960Z"
+generated_at: "2026-11-23T21:25:51.865Z"
+status: "active"
 ---
 
 # § 1383. Application to other treaties and conventions
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:22.960Z"
 - **(b)** Not later than 1 year after April 30, 1994 , the Secretary of the Interior shall, in consultation with the contracting parties, initiate a review of the effectiveness of the Agreement on the Conservation of Polar Bears, as provided for in Article IX of the Agreement, and establish a process by which future reviews shall be conducted.
 - **(c)** The Secretary of the Interior, in consultation with the Secretary of State and the Marine Mammal Commission, shall review the effectiveness of United States implementation of the Agreement on the Conservation of Polar Bears, particularly with respect to the habitat protection mandates contained in Article II. The Secretary shall report the results of this review to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than April 1, 1995 .
 - **(d)** Not later than 6 months after April 30, 1994 , the Secretary of the Interior, acting through the Secretary of State and in consultation with the Marine Mammal Commission and the State of Alaska, shall consult with the appropriate officials of the Russian Federation on the development and implementation of enhanced cooperative research and management programs for the conservation of polar bears in Alaska and Russia. The Secretary shall report the results of this consultation and provide periodic progress reports on the research and management programs to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science and Transportation of the Senate.
+
+## Source Credit
+
+*([Pub. L. 92–522, title I, § 113](https://www.govinfo.gov/link/plaw/92/public/522), Oct. 21, 1972, [86 Stat. 1042](https://www.govinfo.gov/link/statute/86/1042); [Pub. L. 103–238, § 7(b)](https://www.govinfo.gov/link/plaw/103/public/238), Apr. 30, 1994, [108 Stat. 542](https://www.govinfo.gov/link/statute/108/542).)*

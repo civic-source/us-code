@@ -3,9 +3,10 @@ title: "Section 4412 - Registration"
 usc_title: 26
 usc_section: "4412"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4412"
-generated_at: "2026-03-30T02:55:27.803Z"
+generated_at: "2026-11-23T21:26:06.622Z"
+status: "active"
 ---
 
 # § 4412. Registration
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:27.803Z"
   - **(3)** if he is engaged in receiving wagers for or on behalf of any person liable for tax under subchapter A, the name and place of residence of each such person.
 - **(b)** Where subsection (a) requires the name and place of residence of a firm or company to be registered, the names and places of residence of the several persons constituting the firm or company shall be registered.
 - **(c)** In accordance with regulations prescribed by the Secretary, the Secretary may require from time to time such supplemental information from any person required to register under this section as may be needful to the enforcement of this chapter.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 527; [Pub. L. 94–455, title XIX, § 1906(b)(13)(I)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1835](https://www.govinfo.gov/link/statute/90/1835).)*

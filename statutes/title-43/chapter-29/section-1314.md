@@ -3,12 +3,17 @@ title: "Section 1314 - Rights and powers retained by United States; purchase of 
 usc_title: 43
 usc_section: "1314"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1314"
-generated_at: "2026-03-30T02:55:57.468Z"
+generated_at: "2026-11-23T21:26:19.826Z"
+status: "active"
 ---
 
 # § 1314. Rights and powers retained by United States; purchase of natural resources; condemnation of lands
 
 - **(a)** The United States retains all its navigational servitude and rights in and powers of regulation and control of said lands and navigable waters for the constitutional purposes of commerce, navigation, national defense, and international affairs, all of which shall be paramount to, but shall not be deemed to include, proprietary rights of ownership, or the rights of management, administration, leasing, use, and development of the lands and natural resources which are specifically recognized, confirmed, established, and vested in and assigned to the respective States and others by section 1311 of this title .
 - **(b)** In time of war or when necessary for national defense, and the Congress or the President shall so prescribe, the United States shall have the right of first refusal to purchase at the prevailing market price, all or any portion of the said natural resources, or to acquire and use any portion of said lands by proceeding in accordance with due process of law and paying just compensation therefor.
+
+## Source Credit
+
+*(May 22, 1953, ch. 65, title II, § 6, [67 Stat. 32](https://www.govinfo.gov/link/statute/67/32).)*

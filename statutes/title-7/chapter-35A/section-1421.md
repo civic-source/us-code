@@ -3,9 +3,10 @@ title: "Section 1421 - Price support"
 usc_title: 7
 usc_section: "1421"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1421"
-generated_at: "2026-03-30T02:53:42.310Z"
+generated_at: "2026-11-23T21:25:28.060Z"
+status: "active"
 ---
 
 # § 1421. Price support
@@ -22,3 +23,37 @@ generated_at: "2026-03-30T02:53:42.310Z"
       - **(i)** be subrogated to all claims of such producers against the processor and other persons responsible for nonpayment; and
       - **(ii)** have authority to pursue such claims as necessary to recover the benefits not paid to the producers.
     - **(C)** The Secretary shall carry out this paragraph through the Commodity Credit Corporation.
+
+In General
+
+Inclusion in Food, Agriculture, Conservation, and Trade Act of
+
+Miscellaneous Amendments to Consolidated Farm and Rural Development Act
+
+Food and Nutrition Programs.—
+
+In general
+
+PASS accounts exclusion.—
+
+In general
+
+Limitation on application of section
+
+Performance standards for employment and training programs
+
+Recovery of claims caused by nonfraudulent household errors
+
+Definition of retail food store
+
+In General
+
+Prior Crops
+
+Promulgation
+
+Congressional Review of Agency Rulemaking
+
+## Source Credit
+
+*(Oct. 31, 1949, ch. 792, title IV, § 401, [63 Stat. 1054](https://www.govinfo.gov/link/statute/63/1054); Aug. 28, 1954, ch. 1041, title II, §§ 206, 207, [68 Stat. 901](https://www.govinfo.gov/link/statute/68/901); [Pub. L. 88–297, title I, § 103(c)](https://www.govinfo.gov/link/plaw/88/public/297), Apr. 11, 1964, [78 Stat. 175](https://www.govinfo.gov/link/statute/78/175); [Pub. L. 99–198, title IX, § 903(a)](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1444](https://www.govinfo.gov/link/statute/99/1444); [Pub. L. 100–707, title I](https://www.govinfo.gov/link/plaw/100/public/707), 109(a)(1), Nov. 23, 1988, [102 Stat. 4708](https://www.govinfo.gov/link/statute/102/4708).)*

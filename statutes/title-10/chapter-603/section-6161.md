@@ -3,9 +3,10 @@ title: "Section 6161 - Annual Selected Acquisition Reports on certain hardware r
 usc_title: 10
 usc_section: "6161"
 chapter: 603
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6161"
-generated_at: "2026-03-30T02:53:38.221Z"
+generated_at: "2026-11-23T21:25:32.818Z"
+status: "active"
 ---
 
 # § 6161. Annual Selected Acquisition Reports on certain hardware relating to defense nuclear nonproliferation
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:53:38.221Z"
 - **(b)** In this section, the term “covered hardware project” means a project carried out under the defense nuclear nonproliferation research and development program that—
   - **(1)** is focused on the production and deployment of hardware, including with respect to the development and deployment of satellites or satellite payloads; and
   - **(2)** exceeds $500,000,000 in total program cost over the course of five years.
+
+Annual Selected Acquisition Reports
+
+Covered Hardware Project Defined
+
+In general
+
+Matters included
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2), Dec. 18, 2025, [139 Stat. 1385](https://www.govinfo.gov/link/statute/139/1385), 1462.)*

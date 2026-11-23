@@ -3,9 +3,10 @@ title: "Section 31a - Findings and purpose"
 usc_title: 43
 usc_section: "31a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 31a"
-generated_at: "2026-03-30T02:55:57.433Z"
+generated_at: "2026-11-23T21:26:19.738Z"
+status: "active"
 ---
 
 # § 31a. Findings and purpose
@@ -33,3 +34,9 @@ generated_at: "2026-03-30T02:55:57.433Z"
   - **(9)** advances in digital technology and geographical information system science have made geologic map databases increasingly available as decision support tools for land and resource management; and
   - **(10)** a comprehensive nationwide program of geologic mapping of surficial and bedrock deposits is required in order to systematically build the Nation’s geologic-map data base at a pace that responds to increasing demand.
 - **(b)** The purpose of sections 31a to 31h of this title is to expedite the production of a geologic-map data base for the Nation, to be located within the United States Geological Survey, which can be applied to land-use management, assessment, and utilization, conservation of natural resources, groundwater management, and environmental protection and management.
+
+“Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 102–285, § 2](https://www.govinfo.gov/link/plaw/102/public/285), May 18, 1992, [106 Stat. 166](https://www.govinfo.gov/link/statute/106/166); [Pub. L. 106–148, § 2](https://www.govinfo.gov/link/plaw/106/public/148), Dec. 9, 1999, [113 Stat. 1719](https://www.govinfo.gov/link/statute/113/1719); [Pub. L. 111–11, title XI, § 11001(a)](https://www.govinfo.gov/link/plaw/111/public/11), (b), Mar. 30, 2009, [123 Stat. 1414](https://www.govinfo.gov/link/statute/123/1414).)*

@@ -3,9 +3,10 @@ title: "Section 372 - Bankers’ acceptances"
 usc_title: 12
 usc_section: "372"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 372"
-generated_at: "2026-03-30T02:53:53.381Z"
+generated_at: "2026-11-23T21:25:36.791Z"
+status: "active"
 ---
 
 # § 372. Bankers’ acceptances
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:53.381Z"
 - **(f)** With respect to an institution which issues an acceptance, the limitations contained in this section shall not apply to that portion of an acceptance which is issued by such institution and which is covered by a participation agreement sold to another institution.
 - **(g)** In order to carry out the purposes of this section, the Board may define any of the terms used in this section, and, with respect to institutions which do not have capital or capital stock, the Board shall define an equivalent measure to which the limitations contained in this section shall apply.
 - **(h)** Any limitation or restriction in this section based on paid-up and unimpaired capital stock and surplus of an institution shall be deemed to refer, with respect to a United States branch or agency of a foreign bank, to the dollar equivalent of the paid-up capital stock and surplus of the foreign bank, as determined by the Board, and if the foreign bank has more than one United States branch or agency, the business transacted by all such branches and agencies shall be aggregated in determining compliance with the limitation or restriction.
+
+## Source Credit
+
+*(Dec. 23, 1913, ch. 6, § 13 (par.), [38 Stat. 264](https://www.govinfo.gov/link/statute/38/264); Mar. 3, 1915, ch. 93, [38 Stat. 958](https://www.govinfo.gov/link/statute/38/958); Sept. 7, 1916, ch. 461, [39 Stat. 752](https://www.govinfo.gov/link/statute/39/752); June 21, 1917, ch. 32, § 5, [40 Stat. 235](https://www.govinfo.gov/link/statute/40/235); Aug. 23, 1935, ch. 614, title II, § 203(a), [49 Stat. 704](https://www.govinfo.gov/link/statute/49/704); [Pub. L. 97–290, title II, § 207](https://www.govinfo.gov/link/plaw/97/public/290), Oct. 8, 1982, [96 Stat. 1239](https://www.govinfo.gov/link/statute/96/1239).)*

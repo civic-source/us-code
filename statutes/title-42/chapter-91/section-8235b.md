@@ -3,9 +3,10 @@ title: "Section 8235b - Applications for approval of plans for prototype residen
 usc_title: 42
 usc_section: "8235b"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8235b"
-generated_at: "2026-03-30T02:56:11.337Z"
+generated_at: "2026-11-23T21:26:33.185Z"
+status: "active"
 ---
 
 # § 8235b. Applications for approval of plans for prototype residential energy efficiency programs
@@ -17,3 +18,7 @@ Each application for the approval of a plan under section 8235a(a) of this title
   - **(3)** a description of the contract to be entered into pursuant to section 8235a(a)(1) of this title and the manner in which the requirements of the contract contained in section 8235a(b) of this title are to be met;
   - **(4)** the record of the public hearing conducted pursuant to section 8235c(a)(2) of this title ; and
   - **(5)** any other information determined by the Secretary to be necessary to carry out this part.
+
+## Source Credit
+
+*([Pub. L. 95–619, title II, § 263](https://www.govinfo.gov/link/plaw/95/public/619), as added [Pub. L. 96–294, title V, § 562](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 748](https://www.govinfo.gov/link/statute/94/748).)*

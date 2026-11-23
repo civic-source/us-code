@@ -3,9 +3,10 @@ title: "Section 19194 - Research awards"
 usc_title: 42
 usc_section: "19194"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19194"
-generated_at: "2026-03-30T02:56:11.542Z"
+generated_at: "2026-11-23T21:26:33.877Z"
+status: "active"
 ---
 
 # § 19194. Research awards
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.542Z"
   - **(4)** support for institutions of higher education or nonprofit organizations to develop, adapt, implement, and assess the impact of innovative, evidence-based strategies, policies, and approaches to policy implementation to prevent and address sex-based and sexual harassment;
   - **(5)** research on alternatives to the power dynamics, hierarchical, and dependent relationships, including but not limited to the mentor-mentee relationship, in academia that have been shown to create higher levels of risk for and lower levels of reporting of sex- based and sexual harassment; and
   - **(6)** establishing a center for the ongoing compilation, management, and analysis of organizational climate survey data.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title V, § 10534](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1628](https://www.govinfo.gov/link/statute/136/1628).)*

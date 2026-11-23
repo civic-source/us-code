@@ -3,9 +3,10 @@ title: "Section 5464 - Standards for systemically important financial market uti
 usc_title: 12
 usc_section: "5464"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5464"
-generated_at: "2026-03-30T02:53:53.539Z"
+generated_at: "2026-11-23T21:25:37.268Z"
+status: "active"
 ---
 
 # § 5464. Standards for systemically important financial market utilities and payment, clearing, or settlement activities
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:53:53.539Z"
   - **(4)** any authority granted to the Commodity Futures Trading Commission or the Securities and Exchange Commission with respect to transaction reporting or trade execution.
 - **(e)** The standards prescribed under subsection (a) governing the conduct of designated activities by financial institutions shall, where appropriate, establish a threshold as to the level or significance of engagement in the activity at which a financial institution will become subject to the standards with respect to that activity.
 - **(f)** Designated financial market utilities and financial institutions subject to the standards prescribed under subsection (a) for a designated activity shall conduct their operations in compliance with the applicable risk management standards.
+
+## Source Credit
+
+*([Pub. L. 111–203, title VIII, § 805](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1809](https://www.govinfo.gov/link/statute/124/1809).)*

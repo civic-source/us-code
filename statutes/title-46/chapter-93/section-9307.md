@@ -3,9 +3,10 @@ title: "Section 9307 - Great Lakes Pilotage Advisory Committee"
 usc_title: 46
 usc_section: "9307"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 9307"
-generated_at: "2026-03-30T02:56:15.552Z"
+generated_at: "2026-11-23T21:26:37.105Z"
+status: "active"
 ---
 
 # § 9307. Great Lakes Pilotage Advisory Committee
@@ -43,3 +44,16 @@ generated_at: "2026-03-30T02:56:15.552Z"
 - **(f)**
   - **(1)** Chapter 10 of title 5 applies to the Committee, except that the Committee terminates on September 30, 2030 .
   - **(2)** 2 years before the termination date set forth in paragraph (1) of this subsection, the Committee shall submit to the Congress its recommendation regarding whether the Committee should be renewed and continued beyond the termination date.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 9307 | 46:216h |
+
+
+Historical and Revision Notes
+
+9307
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 559](https://www.govinfo.gov/link/statute/97/559); [Pub. L. 105–383, title III, § 303](https://www.govinfo.gov/link/plaw/105/public/383), Nov. 13, 1998, [112 Stat. 3418](https://www.govinfo.gov/link/statute/112/3418); [Pub. L. 106–554, § 1(a)(4) [div. A, § 1118]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–209; [Pub. L. 108–293, title IV, § 418(d)](https://www.govinfo.gov/link/plaw/108/public/293), Aug. 9, 2004, [118 Stat. 1049](https://www.govinfo.gov/link/statute/118/1049); [Pub. L. 109–304, § 15(23)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1704](https://www.govinfo.gov/link/statute/120/1704); [Pub. L. 111–281, title VI, § 621(a)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2976](https://www.govinfo.gov/link/statute/124/2976); [Pub. L. 116–283, div. G, title LVXXXIII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXIII], § 8334(a), Jan. 1, 2021, [134 Stat. 4705](https://www.govinfo.gov/link/statute/134/4705); [Pub. L. 117–286, § 4(a)(291)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4337](https://www.govinfo.gov/link/statute/136/4337).)*

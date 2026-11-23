@@ -3,12 +3,17 @@ title: "Section 15103 - Remedies as cumulative"
 usc_title: 49
 usc_section: "15103"
 chapter: 151
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 15103"
-generated_at: "2026-03-30T02:56:19.333Z"
+generated_at: "2026-11-23T21:26:40.697Z"
+status: "active"
 ---
 
 # § 15103. Remedies as cumulative
 
 Except as otherwise provided in this part, the remedies provided under this part are in addition to remedies existing under another law or common law.
 
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 106(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 922](https://www.govinfo.gov/link/statute/109/922).)*

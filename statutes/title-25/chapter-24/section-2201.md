@@ -3,9 +3,10 @@ title: "Section 2201 - Definitions"
 usc_title: 25
 usc_section: "2201"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2201"
-generated_at: "2026-03-30T02:54:52.835Z"
+generated_at: "2026-11-23T21:25:54.658Z"
+status: "active"
 ---
 
 # § 2201. Definitions
@@ -31,3 +32,29 @@ For the purpose of this chapter—
     - **(B)** lineal descendents within 2 degrees of consanguinity of an Indian; or
     - **(C)** owners of a trust or restricted interest in a parcel of land for purposes of inheriting by descent, renunciation, or consolidation agreement under section 2206 of this title , another trust or restricted interest in such parcel from the decedent; and
   - **(10)** “without regard to waste” means, with respect to a life estate interest in land, that the holder of such estate is entitled to the receipt of all income, including bonuses and royalties, from such land to the exclusion of the remaindermen.
+
+Notice.—
+
+In general
+
+Specifications
+
+Requirements
+
+Certification
+
+Effective Dates.—
+
+In general
+
+Exceptions
+
+“Congress finds that—
+
+“Congress finds that—
+
+“It is the policy of the United States—
+
+## Source Credit
+
+*([Pub. L. 97–459, title II, § 202](https://www.govinfo.gov/link/plaw/97/public/459), Jan. 12, 1983, [96 Stat. 2517](https://www.govinfo.gov/link/statute/96/2517); [Pub. L. 106–462, title I, § 103(1)](https://www.govinfo.gov/link/plaw/106/public/462), Nov. 7, 2000, [114 Stat. 1992](https://www.govinfo.gov/link/statute/114/1992); [Pub. L. 108–374, § 6(b)](https://www.govinfo.gov/link/plaw/108/public/374), Oct. 27, 2004, [118 Stat. 1804](https://www.govinfo.gov/link/statute/118/1804); [Pub. L. 110–453, title II, § 207(a)](https://www.govinfo.gov/link/plaw/110/public/453), Dec. 2, 2008, [122 Stat. 5030](https://www.govinfo.gov/link/statute/122/5030).)*

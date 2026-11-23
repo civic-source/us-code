@@ -3,9 +3,10 @@ title: "Section 19069 - Astronomy and satellite constellations"
 usc_title: 42
 usc_section: "19069"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19069"
-generated_at: "2026-03-30T02:56:11.538Z"
+generated_at: "2026-11-23T21:26:33.867Z"
+status: "active"
 ---
 
 # § 19069. Astronomy and satellite constellations
@@ -15,3 +16,7 @@ The Director shall support research into and the design, development, and testin
   - **(1)** making awards on a competitive basis to support study of the potential impacts of satellite constellations on ground-based optical, infrared, and radio astronomy, including through existing programs such Spectrum and Wireless Innovation enabled by Future Technologies (SWIFT) and the Spectrum Innovation Initiative;
   - **(2)** supporting research on potential satellite impacts and benefits and mitigation strategies to be carried out at one or more Foundation supported Federally Funded Research and Development Centers or major multiuser research facilities as defined in section 1862s–2(g) of this title , as appropriate; and
   - **(3)** supporting workshops related to the potential impact of satellite constellations on scientific research and how those constellations could be used to improve scientific research.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10362](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1568](https://www.govinfo.gov/link/statute/136/1568).)*

@@ -3,9 +3,10 @@ title: "Section 8445 - Rights of a former spouse"
 usc_title: 5
 usc_section: "8445"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8445"
-generated_at: "2026-03-30T02:52:56.061Z"
+generated_at: "2026-11-23T21:25:23.430Z"
+status: "active"
 ---
 
 # § 8445. Rights of a former spouse
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:52:56.061Z"
 - **(h)**
   - **(1)** Subsection (c)(2) (to the extent that it provides for termination of a survivor annuity because of a remarriage before age 55) shall not apply if the former spouse was married for at least 30 years to the individual on whose service the survivor annuity is based.
   - **(2)** A remarriage described in paragraph (1) shall not be taken into account for purposes of section 8419(b)(1)(B) or any other provision of this chapter which the Office may by regulation identify in order to carry out the purposes of this subsection.
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 564](https://www.govinfo.gov/link/statute/100/564); amended [Pub. L. 105–61, title V, § 518(b)(2)](https://www.govinfo.gov/link/plaw/105/public/61), Oct. 10, 1997, [111 Stat. 1308](https://www.govinfo.gov/link/statute/111/1308).)*

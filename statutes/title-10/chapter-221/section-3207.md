@@ -3,9 +3,10 @@ title: "Section 3207 - Assessment before contract for acquisition of supplies is
 usc_title: 10
 usc_section: "3207"
 chapter: 221
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3207"
-generated_at: "2026-03-30T02:53:38.190Z"
+generated_at: "2026-11-23T21:25:32.719Z"
+status: "active"
 ---
 
 # § 3207. Assessment before contract for acquisition of supplies is entered into
@@ -16,3 +17,19 @@ The Secretary of Defense shall ensure that before a contract for the delivery of
     - **(A)** through the supply system of the Department of Defense; and
     - **(B)** under standard Government supply contracts, if the item is in a category of supplies defined under regulations of the Secretary of Defense as being potentially available under a standard Government supply contract; and
   - **(2)** there is a review of both the procurement history of the item and a description of the item, including, when necessary for an adequate description of the item, a picture, drawing, diagram, or other graphic representation of the item.
+
+In General
+
+Analysis
+
+Biobased Product Defined
+
+Process
+
+Elements
+
+Notification
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1811(f)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4173](https://www.govinfo.gov/link/statute/134/4173).)*

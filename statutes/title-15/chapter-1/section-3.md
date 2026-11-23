@@ -3,9 +3,10 @@ title: "Section 3 - SIPC advances"
 usc_title: 15
 usc_section: "3"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3"
-generated_at: "2026-03-30T02:54:08.062Z"
+generated_at: "2026-11-23T21:25:39.578Z"
+status: "active"
 ---
 
 # § 78fff–3. SIPC advances
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:08.062Z"
     - **(A)** the overall state of the fund and the economic conditions affecting members of SIPC;
     - **(B)** the potential problems affecting members of SIPC; and
     - **(C)** such other factors as the Board of Directors of SIPC may determine appropriate.
+
+## Source Credit
+
+*([Pub. L. 91–598, § 9](https://www.govinfo.gov/link/plaw/91/public/598), as added [Pub. L. 95–283, § 9](https://www.govinfo.gov/link/plaw/95/public/283), May 21, 1978, [92 Stat. 265](https://www.govinfo.gov/link/statute/92/265); amended [Pub. L. 96–433, § 1](https://www.govinfo.gov/link/plaw/96/public/433), Oct. 10, 1980, [94 Stat. 1855](https://www.govinfo.gov/link/statute/94/1855); [Pub. L. 111–203, title IX](https://www.govinfo.gov/link/plaw/111/public/203), §§ 929H(a), 983(a), July 21, 2010, [124 Stat. 1856](https://www.govinfo.gov/link/statute/124/1856), 1931.)*

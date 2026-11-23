@@ -3,9 +3,10 @@ title: "Section 7846 - Other general assurances"
 usc_title: 20
 usc_section: "7846"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7846"
-generated_at: "2026-03-30T02:54:48.219Z"
+generated_at: "2026-11-23T21:25:47.616Z"
+status: "active"
 ---
 
 # § 7846. Other general assurances
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:48.219Z"
     - **(B)** maintain such records, provide such information, and afford such access to the records as the State educational agency (after consultation with the Governor) or the Secretary may reasonably require to carry out the State educational agency’s or the Secretary’s duties; and
   - **(7)** before the application was submitted, the applicant afforded a reasonable opportunity for public comment on the application and considered such comment.
 - **(b)** Section 442 of the General Education Provisions Act [ 20 U.S.C. 1232e ] shall not apply to programs under this chapter.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VIII, § 8306](https://www.govinfo.gov/link/plaw/89/public/10), formerly title IX, § 9306, as added [Pub. L. 107–110, title IX, § 901](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1971](https://www.govinfo.gov/link/statute/115/1971); renumbered title VIII, § 8306, and amended [Pub. L. 114–95, title VIII](https://www.govinfo.gov/link/plaw/114/public/95), §§ 8001(a)(3), (b)(2), 8012, Dec. 10, 2015, [129 Stat. 2088](https://www.govinfo.gov/link/statute/129/2088), 2089, 2102.)*

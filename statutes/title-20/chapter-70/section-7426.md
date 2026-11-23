@@ -3,9 +3,10 @@ title: "Section 7426 - Integration of services authorized"
 usc_title: 20
 usc_section: "7426"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7426"
-generated_at: "2026-03-30T02:54:48.212Z"
+generated_at: "2026-11-23T21:25:47.581Z"
+status: "active"
 ---
 
 # § 7426. Integration of services authorized
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:54:48.212Z"
 - **(p)** For the purposes of this section, the term “Secretary” means—
   - **(1)** the Secretary of the Interior, in the case of an entity meeting the definition of a contract or grant school under title XI of the Education Amendments of 1978 [ 25 U.S.C. 2001 et seq.]; or
   - **(2)** the Secretary of Education, in the case of any other entity.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VI, § 6116](https://www.govinfo.gov/link/plaw/89/public/10), formerly title VII, § 7116, as added [Pub. L. 107–110, title VII, § 701](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1913](https://www.govinfo.gov/link/statute/115/1913); renumbered title VI, § 6116, and amended [Pub. L. 114–95, title VI](https://www.govinfo.gov/link/plaw/114/public/95), §§ 6001(a), (b)(1), (6), 6002(h), Dec. 10, 2015, [129 Stat. 2046](https://www.govinfo.gov/link/statute/129/2046), 2047, 2053.)*

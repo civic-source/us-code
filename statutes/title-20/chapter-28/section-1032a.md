@@ -3,9 +3,10 @@ title: "Section 1032a - Uses of funds"
 usc_title: 20
 usc_section: "1032a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1032a"
-generated_at: "2026-03-30T02:54:48.098Z"
+generated_at: "2026-11-23T21:25:47.026Z"
+status: "active"
 ---
 
 # § 1032a. Uses of funds
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:48.098Z"
   - **(4)** collaborate among faculty and students to create and disseminate case studies of technology applications in classroom settings with a goal of improving student academic achievement in high-need schools;
   - **(5)** provide additional technology resources for preservice teachers to plan and implement technology applications in classroom settings that provide evidence of student learning; and
   - **(6)** bring together expertise from departments, schools, or colleges of education, arts and science faculty, and academic content specialists at the local educational agency to share and disseminate technology applications in the classroom through teacher preparation and into early career practice.
+
+## Source Credit
+
+*([Pub. L. 89–329, title II, § 232](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title II, § 201(3)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3155](https://www.govinfo.gov/link/statute/122/3155).)*

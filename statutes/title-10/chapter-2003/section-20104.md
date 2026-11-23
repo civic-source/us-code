@@ -3,9 +3,10 @@ title: "Section 20104 - Orders to active duty: with consent of member"
 usc_title: 10
 usc_section: "20104"
 chapter: 2003
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 20104"
-generated_at: "2026-03-30T02:53:38.280Z"
+generated_at: "2026-11-23T21:25:33.083Z"
+status: "active"
 ---
 
 # § 20104. Orders to active duty: with consent of member
@@ -25,3 +26,11 @@ generated_at: "2026-03-30T02:53:38.280Z"
   - **(7)** Section 12318, relating to duties and funding of reserve members on active duty.
   - **(8)** Section 12320, relating to grade in which ordered to active duty.
   - **(9)** Section 12321, relating to a limitation on number of reserve members assigned to Reserve Officer Training Corps units.
+
+Authority
+
+Applicable Provisions of Law
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVII, § 1715](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 628](https://www.govinfo.gov/link/statute/137/628).)*

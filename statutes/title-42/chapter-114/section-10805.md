@@ -3,9 +3,10 @@ title: "Section 10805 - System requirements"
 usc_title: 42
 usc_section: "10805"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10805"
-generated_at: "2026-03-30T02:56:11.392Z"
+generated_at: "2026-11-23T21:26:33.386Z"
+status: "active"
 ---
 
 # § 10805. System requirements
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:56:11.392Z"
   - **(2)** The governing authority established under paragraph (1) shall—
     - **(A)** be responsible for the planning, design, implementation, and functioning of the system; and
     - **(B)** consistent with subparagraph (A), jointly develop the annual priorities of the system with the advisory council.
+
+## Source Credit
+
+*([Pub. L. 99–319, title I, § 105](https://www.govinfo.gov/link/plaw/99/public/319), May 23, 1986, [100 Stat. 480](https://www.govinfo.gov/link/statute/100/480); [Pub. L. 100–509](https://www.govinfo.gov/link/plaw/100/public/509), §§ 4–6(a), 7(c), Oct. 20, 1988, [102 Stat. 2543–2545](https://www.govinfo.gov/link/statute/102/2543); [Pub. L. 102–173](https://www.govinfo.gov/link/plaw/102/public/173), §§ 6, 10, Nov. 27, 1991, [105 Stat. 1218](https://www.govinfo.gov/link/statute/105/1218), 1219; [Pub. L. 105–12, § 9(m)](https://www.govinfo.gov/link/plaw/105/public/12), Apr. 30, 1997, [111 Stat. 28](https://www.govinfo.gov/link/statute/111/28); [Pub. L. 114–255, div. B, title VI, § 6022(a)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1216](https://www.govinfo.gov/link/statute/130/1216).)*

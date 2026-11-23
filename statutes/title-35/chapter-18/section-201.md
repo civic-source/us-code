@@ -3,9 +3,10 @@ title: "Section 201 - Definitions"
 usc_title: 35
 usc_section: "201"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "35 U.S.C. § 201"
-generated_at: "2026-03-30T02:55:34.238Z"
+generated_at: "2026-11-23T21:26:08.616Z"
+status: "active"
 ---
 
 # § 201. Definitions
@@ -21,3 +22,7 @@ As used in this chapter—
 - **(g)** The term “made” when used in relation to any invention means the conception or first actual reduction to practice of such invention.
 - **(h)** The term “small business firm” means a small business concern as defined at section 2 of Public Law 85–536 ( 15 U.S.C. 632 ) and implementing regulations of the Administrator of the Small Business Administration.
 - **(i)** The term “nonprofit organization” means universities and other institutions of higher education or an organization of the type described in section 501(c)(3) of the Internal Revenue Code of 1986 ( 26 U.S.C. 501(c) ) and exempt from taxation under section 501(a) of the Internal Revenue Code ( 26 U.S.C. 501(a) ) or any nonprofit scientific or educational organization qualified under a State nonprofit organization statute.
+
+## Source Credit
+
+*(Added [Pub. L. 96–517, § 6(a)](https://www.govinfo.gov/link/plaw/96/public/517), Dec. 12, 1980, [94 Stat. 3019](https://www.govinfo.gov/link/statute/94/3019); amended [Pub. L. 98–620, title V, § 501(1)](https://www.govinfo.gov/link/plaw/98/public/620), (2), Nov. 8, 1984, [98 Stat. 3364](https://www.govinfo.gov/link/statute/98/3364); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 107–273, div. C, title III, § 13206(a)(12)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1904](https://www.govinfo.gov/link/statute/116/1904).)*

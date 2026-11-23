@@ -3,9 +3,10 @@ title: "Section 8541 - Environmental Information Services Working Group"
 usc_title: 15
 usc_section: "8541"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8541"
-generated_at: "2026-03-30T02:54:08.231Z"
+generated_at: "2026-11-23T21:25:40.088Z"
+status: "active"
 ---
 
 # § 8541. Environmental Information Services Working Group
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.231Z"
   - **(1)** The Working Group shall be composed of leading experts and innovators from all relevant fields of science and engineering including atmospheric chemistry, atmospheric physics, meteorology, hydrology, social science, risk communications, electrical engineering, and computer sciences. In carrying out this section, the Working Group may organize into subpanels.
   - **(2)** The Working Group shall be composed of no fewer than 15 members. Nominees for the Working Group may be forwarded by the Working Group for approval by the Science Advisory Board. Members of the Working Group may choose a chair (or co-chairs) from among their number with approval by the Science Advisory Board.
 - **(c)** Not less frequently than once each year, the Working Group shall transmit to the Science Advisory Board for submission to the Under Secretary a report on progress made by National Oceanic and Atmospheric Administration in adopting the Working Group’s recommendations. The Science Advisory Board shall transmit this report to the Under Secretary. Within 30 days of receipt of such report, the Under Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a copy of such report.
+
+## Source Credit
+
+*([Pub. L. 115–25, title IV, § 401](https://www.govinfo.gov/link/plaw/115/public/25), Apr. 18, 2017, [131 Stat. 105](https://www.govinfo.gov/link/statute/131/105).)*

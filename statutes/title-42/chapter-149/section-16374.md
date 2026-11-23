@@ -3,9 +3,10 @@ title: "Section 16374 - Future growth grants"
 usc_title: 42
 usc_section: "16374"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16374"
-generated_at: "2026-03-30T02:56:11.485Z"
+generated_at: "2026-11-23T21:26:33.738Z"
+status: "active"
 ---
 
 # § 16374. Future growth grants
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.485Z"
   - **(3)** submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary determines to be appropriate.
 - **(c)** A grant provided under this section may be used only to pay the costs of any additional flow rate capacity of a carbon dioxide transportation infrastructure asset that the project sponsor demonstrates to the satisfaction of the Secretary can reasonably be expected to be used during the 20-year period beginning on the date of substantial completion of the project described in subsection (b)(2).
 - **(d)** The amount of a grant provided under this section may not exceed an amount equal to 80 percent of the cost of the additional capacity described in subsection (a).
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 999D](https://www.govinfo.gov/link/plaw/109/public/58), as added [Pub. L. 117–58, div. D, title III, § 40304(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 998](https://www.govinfo.gov/link/statute/135/998).)*

@@ -3,9 +3,10 @@ title: "Section 2160 - Prohibition on slaughter of dogs and cats for human consu
 usc_title: 7
 usc_section: "2160"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2160"
-generated_at: "2026-03-30T02:53:42.378Z"
+generated_at: "2026-11-23T21:25:28.279Z"
+status: "active"
 ---
 
 # § 2160. Prohibition on slaughter of dogs and cats for human consumption
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:42.378Z"
 - **(e)** Nothing in this section—
   - **(1)** limits any State or local law or regulation protecting the welfare of animals; or
   - **(2)** prevents a State or unit of local government from adopting and enforcing an animal welfare law or regulation that is more stringent than this section.
+
+## Source Credit
+
+*([Pub. L. 115–334, title XII, § 12515](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 5000](https://www.govinfo.gov/link/statute/132/5000).)*

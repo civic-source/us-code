@@ -3,9 +3,10 @@ title: "Section 1306 - Connecting minority communities"
 usc_title: 47
 usc_section: "1306"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1306"
-generated_at: "2026-03-30T02:56:24.531Z"
+generated_at: "2026-11-23T21:26:36.092Z"
+status: "active"
 ---
 
 # § 1306. Connecting minority communities
@@ -125,3 +126,7 @@ generated_at: "2026-03-30T02:56:24.531Z"
   - **(8)** The termination of the Pilot Program under paragraph (6) shall not limit, alter, or affect the ability of the Secretary of Commerce or the Inspector General of the Department of Commerce to—
     - **(A)** investigate waste, fraud, and abuse with respect to the Pilot Program; or
     - **(B)** recover funds that are misused under the Pilot Program.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. N, title IX, § 902](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2121](https://www.govinfo.gov/link/statute/134/2121).)*

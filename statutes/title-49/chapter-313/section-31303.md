@@ -3,9 +3,10 @@ title: "Section 31303 - Notification requirements"
 usc_title: 49
 usc_section: "31303"
 chapter: 313
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 31303"
-generated_at: "2026-03-30T02:56:19.360Z"
+generated_at: "2026-11-23T21:26:40.789Z"
+status: "active"
 ---
 
 # § 31303. Notification requirements
@@ -15,3 +16,28 @@ generated_at: "2026-03-30T02:56:19.360Z"
 - **(c)**
   - **(1)** Subject to paragraph (2) of this subsection, an individual applying for employment as an operator of a commercial motor vehicle shall notify the prospective employer, at the time of the application, of any previous employment as an operator of a commercial motor vehicle.
   - **(2)** The Secretary of Transportation shall prescribe by regulation the period for which notice of previous employment must be given under paragraph (1) of this subsection. However, the period may not be less than the 10-year period ending on the date of the application.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 31303 | 49 App.:2702. | Oct. 27, 1986 , Pub. L. 99–570, § 12003 , 100 Stat. 3207–171 . |
+
+
+Violations
+
+Revocations, Suspensions, and Cancellations
+
+Previous Employment
+
+Historical and Revision Notes
+
+31303
+
+Oct. 27, 1986
+
+Pub. L. 99–570, § 12003
+
+100 Stat. 3207–171
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1016](https://www.govinfo.gov/link/statute/108/1016).)*

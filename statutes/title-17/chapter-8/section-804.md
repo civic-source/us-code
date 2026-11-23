@@ -3,9 +3,10 @@ title: "Section 804 - Institution of proceedings"
 usc_title: 17
 usc_section: "804"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 804"
-generated_at: "2026-03-30T02:54:15.355Z"
+generated_at: "2026-11-23T21:25:41.728Z"
+status: "active"
 ---
 
 # § 804. Institution of proceedings
@@ -34,3 +35,31 @@ generated_at: "2026-03-30T02:54:15.355Z"
   - **(6)** A petition described in subsection (a) to initiate proceedings under section 801(b)(1) concerning the determination of reasonable terms and rates of royalty payments as provided in section 118 may be filed in the year 2006 and in each subsequent fifth calendar year.
   - **(7)** A petition described in subsection (a) to initiate proceedings under section 801(b)(1) concerning the adjustment of reasonable royalty rates under section 1004 may be filed as provided in section 1004(a)(3).
   - **(8)** With respect to proceedings under section 801(b)(3) concerning the distribution of royalty fees in certain circumstances under section 111, 119, or 1007, the Copyright Royalty Judges shall, upon a determination that a controversy exists concerning such distribution, cause to be published in the Federal Register notice of commencement of proceedings under this chapter.
+
+Filing of Petition
+
+Timing of Proceedings.—
+
+Section 111 proceedings
+
+Certain section 112 proceedings
+
+Section 114 and corresponding 112 proceedings.—
+
+For eligible nonsubscription services and new subscription services
+
+For preexisting subscription and satellite digital audio radio services
+
+Section 115 proceedings
+
+Section 116 proceedings
+
+Section 118 proceedings
+
+Section 1004 proceedings
+
+Proceedings concerning distribution of royalty fees
+
+## Source Credit
+
+*(Added [Pub. L. 108–419, § 3(a)](https://www.govinfo.gov/link/plaw/108/public/419), Nov. 30, 2004, [118 Stat. 2357](https://www.govinfo.gov/link/statute/118/2357); amended [Pub. L. 109–303, § 3(12)](https://www.govinfo.gov/link/plaw/109/public/303), (13), Oct. 6, 2006, [120 Stat. 1481](https://www.govinfo.gov/link/statute/120/1481); [Pub. L. 111–175, title I, § 104(f)](https://www.govinfo.gov/link/plaw/111/public/175), May 27, 2010, [124 Stat. 1238](https://www.govinfo.gov/link/statute/124/1238); [Pub. L. 115–264, title I, § 103(g)(4)](https://www.govinfo.gov/link/plaw/115/public/264), (i), Oct. 11, 2018, [132 Stat. 3725](https://www.govinfo.gov/link/statute/132/3725).)*

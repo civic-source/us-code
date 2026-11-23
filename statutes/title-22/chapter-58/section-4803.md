@@ -3,9 +3,10 @@ title: "Section 4803 - Designation of high risk, high threat posts"
 usc_title: 22
 usc_section: "4803"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4803"
-generated_at: "2026-03-30T02:55:05.413Z"
+generated_at: "2026-11-23T21:25:58.650Z"
+status: "active"
 ---
 
 # § 4803. Designation of high risk, high threat posts
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.413Z"
       - **(i)** with high to critical levels of political violence and terrorism; and
       - **(ii)** the government of which lacks the ability or willingness to provide adequate security; and
     - **(B)** has mission physical security platforms that fall below the Department of State’s established standards.
+
+## Source Credit
+
+*([Pub. L. 99–399, title I, § 104](https://www.govinfo.gov/link/plaw/99/public/399), as added [Pub. L. 114–323, title I, § 101(a)](https://www.govinfo.gov/link/plaw/114/public/323), Dec. 16, 2016, [130 Stat. 1907](https://www.govinfo.gov/link/statute/130/1907); amended [Pub. L. 115–94, § 2(a)](https://www.govinfo.gov/link/plaw/115/public/94), Dec. 18, 2017, [131 Stat. 2038](https://www.govinfo.gov/link/statute/131/2038).)*

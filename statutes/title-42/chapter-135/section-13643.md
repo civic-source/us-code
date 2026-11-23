@@ -3,12 +3,17 @@ title: "Section 13643 - Regulations"
 usc_title: 42
 usc_section: "13643"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13643"
-generated_at: "2026-03-30T02:56:11.449Z"
+generated_at: "2026-11-23T21:26:33.624Z"
+status: "active"
 ---
 
 # § 13643. Regulations
 
 The Secretary shall issue regulations necessary to carry out subtitles B through F of this title and the amendments made by such subtitles not later than the expiration of the 6-month period beginning on October 28, 1992 . The regulations shall be issued after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5 (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section).
 
+
+## Source Credit
+
+*([Pub. L. 102–550, title VI, § 685](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3832](https://www.govinfo.gov/link/statute/106/3832).)*

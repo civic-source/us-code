@@ -3,9 +3,10 @@ title: "Section 1584 - Removal of all dwelling structures on land under Secretar
 usc_title: 42
 usc_section: "1584"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1584"
-generated_at: "2026-03-30T02:56:11.101Z"
+generated_at: "2026-11-23T21:26:32.091Z"
+status: "active"
 ---
 
 # § 1584. Removal of all dwelling structures on land under Secretary’s control; temporary housing exempted; preference in fulfilling vacancies
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.101Z"
       - **(i)** such institution certifies that the accommodations are urgently needed for such veterans and submits facts showing, to the satisfaction of the Secretary of Housing and Urban Development, that all reasonable efforts have been made by the institution to find other accommodations for them and
       - **(ii)** such institution agrees to reimburse the Secretary of Housing and Urban Development for any financial loss to the Secretary of Housing and Urban Development in the operation of the accommodations after June 30, 1951 .
 
+
+## Source Credit
+
+*(Oct. 14, 1940, ch. 862, title VI, § 604, as added June 28, 1948, ch. 688, § 7, as added Apr. 20, 1950, ch. 94, title II, § 201, [64 Stat. 59](https://www.govinfo.gov/link/statute/64/59); amended June 30, 1951, ch. 197, [65 Stat. 110](https://www.govinfo.gov/link/statute/65/110); Sept. 1, 1951, ch. 378, title VI, § 603(a), [65 Stat. 314](https://www.govinfo.gov/link/statute/65/314); Ex. Ord. No. 10284, §§ 3–5, eff. Sept. 4, 1951, 16 F.R. 8971; Ex. Ord. No. 10339, eff. Apr. 7, 1952, 17 F.R. 3012; [Pub. L. 89–174, § 5(a)](https://www.govinfo.gov/link/plaw/89/public/174), Sept. 9, 1965, [79 Stat. 669](https://www.govinfo.gov/link/statute/79/669).)*

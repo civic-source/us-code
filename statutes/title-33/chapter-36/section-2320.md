@@ -3,9 +3,10 @@ title: "Section 2320 - Protection of recreational and commercial uses"
 usc_title: 33
 usc_section: "2320"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2320"
-generated_at: "2026-03-30T02:55:41.123Z"
+generated_at: "2026-11-23T21:26:11.444Z"
+status: "active"
 ---
 
 # § 2320. Protection of recreational and commercial uses
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:41.123Z"
   - **(1)** Subsections (b) and (c) shall apply to maintenance, repair, rehabilitation, or reconstruction for which physical construction is initiated after May 1, 1988 .
   - **(2)** Subsections (b) and (c) shall not apply to any action of the Secretary which is necessary to discontinue the operation of a water resources project.
 - **(e)** Costs incurred by the Secretary to carry out the objectives of this section shall be allocated to recreation and shall be payable by the beneficiaries of the recreation.
+
+## Source Credit
+
+*([Pub. L. 101–640, title III, § 313](https://www.govinfo.gov/link/plaw/101/public/640), Nov. 28, 1990, [104 Stat. 4640](https://www.govinfo.gov/link/statute/104/4640).)*

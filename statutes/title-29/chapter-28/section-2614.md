@@ -3,9 +3,10 @@ title: "Section 2614 - Employment and benefits protection"
 usc_title: 29
 usc_section: "2614"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 2614"
-generated_at: "2026-03-30T02:55:18.744Z"
+generated_at: "2026-11-23T21:26:02.316Z"
+status: "active"
 ---
 
 # § 2614. Employment and benefits protection
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:55:18.744Z"
     - **(C)**
       - **(i)** The certification described in subparagraph (A)(ii) shall be sufficient if the certification states that a serious health condition prevented the employee from being able to perform the functions of the position of the employee on the date that the leave of the employee expired.
       - **(ii)** The certification described in subparagraph (A)(i) shall be sufficient if the certification states that the employee is needed to care for the son, daughter, spouse, or parent who has a serious health condition on the date that the leave of the employee expired.
+
+## Source Credit
+
+*([Pub. L. 103–3, title I, § 104](https://www.govinfo.gov/link/plaw/103/public/3), Feb. 5, 1993, [107 Stat. 12](https://www.govinfo.gov/link/statute/107/12); [Pub. L. 110–181, div. A, title V, § 585(a)(3)(F)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 131](https://www.govinfo.gov/link/statute/122/131).)*

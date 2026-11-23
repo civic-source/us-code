@@ -3,9 +3,10 @@ title: "Section 179p - National Film Registry Collection of Library of Congress"
 usc_title: 2
 usc_section: "179p"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 179p"
-generated_at: "2026-03-30T02:53:04.791Z"
+generated_at: "2026-11-23T21:25:21.145Z"
+status: "active"
 ---
 
 # § 179p. National Film Registry Collection of Library of Congress
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:04.791Z"
 - **(e)** The Librarian shall utilize the National Audio-Visual Conservation Center of the Library of Congress at Culpeper, Virginia, to ensure that preserved films included in the National Film Registry are stored in a proper manner, and disseminated to researchers, scholars, and the public as may be appropriate in accordance with—
   - **(1)** title 17; and
   - **(2)** the terms of any agreements between the Librarian and persons who hold copyrights to such audiovisual works.
+
+## Source Credit
+
+*([Pub. L. 104–285, title I, § 106](https://www.govinfo.gov/link/plaw/104/public/285), Oct. 11, 1996, [110 Stat. 3380](https://www.govinfo.gov/link/statute/110/3380); [Pub. L. 109–9, title III, § 302(c)](https://www.govinfo.gov/link/plaw/109/public/9), Apr. 27, 2005, [119 Stat. 225](https://www.govinfo.gov/link/statute/119/225).)*

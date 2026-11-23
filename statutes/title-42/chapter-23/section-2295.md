@@ -3,9 +3,10 @@ title: "Section 2295 - Acquisition of nuclear materials"
 usc_title: 42
 usc_section: "2295"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2295"
-generated_at: "2026-03-30T02:56:11.161Z"
+generated_at: "2026-11-23T21:26:32.398Z"
+status: "active"
 ---
 
 # § 2295. Acquisition of nuclear materials
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.161Z"
 - **(c)** Any contract made under the provisions of this section to acquire uranium enriched in the isotope uranium 235 may be at such price and for such period of time as the Commission may deem necessary: Provided , That no such contract shall be for a period of time extending beyond the terminal date of the agreement for cooperation with the Community or provide for the acquisition of uranium enriched in the isotope U–235 in excess of the quantities of such material that have been distributed to the Community by the Commission less the quantity consumed in the nuclear reactors involved in the joint program: And provided further , That no such contract shall provide for compensation or the payment of a purchase price in excess of the Atomic Energy Commission’s established charges for such material in effect at the time delivery is made to the Commission.
 - **(d)** Any contract made under this section for the purchase of special nuclear material or any interest therein may be made without regard to the provisions of sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15 of title 31.
 - **(e)** Any contract made under this section may be made without regard to section 6101 of title 41 , upon certification by the Commission that such action is necessary in the interest of the common defense and security, or upon a showing by the Commission that advertising is not reasonably practicable.
+
+## Source Credit
+
+*([Pub. L. 85–846, § 6](https://www.govinfo.gov/link/plaw/85/public/846), Aug. 28, 1958, [72 Stat. 1085](https://www.govinfo.gov/link/statute/72/1085).)*

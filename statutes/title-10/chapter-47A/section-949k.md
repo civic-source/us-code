@@ -3,9 +3,10 @@ title: "Section 949k - Defense of lack of mental responsibility"
 usc_title: 10
 usc_section: "949k"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 949k"
-generated_at: "2026-03-30T02:53:38.089Z"
+generated_at: "2026-11-23T21:25:32.361Z"
+status: "active"
 ---
 
 # § 949k. Defense of lack of mental responsibility
@@ -17,3 +18,15 @@ generated_at: "2026-03-30T02:53:38.089Z"
   - **(2)** not guilty; or
   - **(3)** subject to subsection (d), not guilty by reason of lack of mental responsibility.
 - **(d)** The accused shall be found not guilty by reason of lack of mental responsibility under subsection (c)(3) only if a majority of the members present at the time the vote is taken determines that the defense of lack of mental responsibility has been established.
+
+Affirmative Defense
+
+Burden of Proof
+
+Findings Following Assertion of Defense
+
+Majority Vote Required for Finding
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title XVIII, § 1802](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2588](https://www.govinfo.gov/link/statute/123/2588).)*

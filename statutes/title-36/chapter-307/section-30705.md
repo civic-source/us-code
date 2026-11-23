@@ -3,9 +3,10 @@ title: "Section 30705 - Powers"
 usc_title: 36
 usc_section: "30705"
 chapter: 307
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 30705"
-generated_at: "2026-03-30T02:55:44.695Z"
+generated_at: "2026-11-23T21:26:13.556Z"
+status: "active"
 ---
 
 # § 30705. Powers
@@ -22,3 +23,20 @@ The corporation may—
   - **(8)** publish a magazine and other publications;
   - **(9)** sue and be sued; and
   - **(10)** do any other act necessary and proper to carry out the purpose of the corporation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30705 | 36:504. | July 19, 1954, ch. 536, § 4 , 68 Stat. 490 . |
+
+
+Historical and Revision Notes
+
+30705
+
+July 19, 1954, ch. 536, § 4
+
+68 Stat. 490
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1323](https://www.govinfo.gov/link/statute/112/1323).)*

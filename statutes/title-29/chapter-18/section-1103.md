@@ -3,9 +3,10 @@ title: "Section 1103 - Establishment of trust"
 usc_title: 29
 usc_section: "1103"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1103"
-generated_at: "2026-03-30T02:55:18.716Z"
+generated_at: "2026-11-23T21:26:02.255Z"
+status: "active"
 ---
 
 # § 1103. Establishment of trust
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:18.716Z"
 - **(d)**
   - **(1)** Upon termination of a pension plan to which section 1321 of this title does not apply at the time of termination and to which this part applies (other than a plan to which no employer contributions have been made) the assets of the plan shall be allocated in accordance with the provisions of section 1344 of this title , except as otherwise provided in regulations of the Secretary.
   - **(2)** The assets of a welfare plan which terminates shall be distributed in accordance with the terms of the plan, except as otherwise provided in regulations of the Secretary.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 403](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 876](https://www.govinfo.gov/link/statute/88/876); [Pub. L. 96–364, title III, § 310](https://www.govinfo.gov/link/plaw/96/public/364), title IV, §§ 402(b)(2), 410(a), 411(c), Sept. 26, 1980, [94 Stat. 1296](https://www.govinfo.gov/link/statute/94/1296), 1299, 1308; [Pub. L. 100–203, title IX, § 9343(c)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–372](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7881(k), 7891(a)(1), 7894(e)(1)(A), (3), Dec. 19, 1989, [103 Stat. 2443](https://www.govinfo.gov/link/statute/103/2443), 2445, 2450; [Pub. L. 101–508, title XII, § 12012(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–571](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–465, title VII, § 731(c)(4)(B)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 5004](https://www.govinfo.gov/link/statute/108/5004); [Pub. L. 106–170, title V, § 535(a)(2)(B)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1934](https://www.govinfo.gov/link/statute/113/1934); [Pub. L. 108–218, title II, § 204(b)(2)](https://www.govinfo.gov/link/plaw/108/public/218), Apr. 10, 2004, [118 Stat. 609](https://www.govinfo.gov/link/statute/118/609); [Pub. L. 108–357, title VII, § 709(a)(2)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1551](https://www.govinfo.gov/link/statute/118/1551); [Pub. L. 109–280, title I, § 108(a)(11)](https://www.govinfo.gov/link/plaw/109/public/280), formerly § 107(a)(11), Aug. 17, 2006, [120 Stat. 819](https://www.govinfo.gov/link/statute/120/819), renumbered [Pub. L. 111–192, title II, § 202(a)](https://www.govinfo.gov/link/plaw/111/public/192), June 25, 2010, [124 Stat. 1297](https://www.govinfo.gov/link/statute/124/1297); [Pub. L. 112–141, div. D, title II, § 40241(b)(1)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 859](https://www.govinfo.gov/link/statute/126/859); [Pub. L. 114–41, title II, § 2007(b)(1)](https://www.govinfo.gov/link/plaw/114/public/41), July 31, 2015, [129 Stat. 459](https://www.govinfo.gov/link/statute/129/459); [Pub. L. 117–328, div. T, title VI, § 606(b)(2)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5397](https://www.govinfo.gov/link/statute/136/5397).)*

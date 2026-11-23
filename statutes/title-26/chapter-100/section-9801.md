@@ -3,9 +3,10 @@ title: "Section 9801 - Increased portability through limitation on preexisting c
 usc_title: 26
 usc_section: "9801"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 9801"
-generated_at: "2026-03-30T02:55:27.895Z"
+generated_at: "2026-11-23T21:26:07.043Z"
+status: "active"
 ---
 
 # § 9801. Increased portability through limitation on preexisting condition exclusions
@@ -101,3 +102,43 @@ generated_at: "2026-03-30T02:55:27.895Z"
         - **(I)** Each employer that maintains a group health plan in a State that provides medical assistance under a State Medicaid plan under title XIX of the Social Security Act, or child health assistance under a State child health plan under title XXI of such Act, in the form of premium assistance for the purchase of coverage under a group health plan, shall provide to each employee a written notice informing the employee of potential opportunities then currently available in the State in which the employee resides for premium assistance under such plans for health coverage of the employee or the employee’s dependents. For purposes of compliance with this clause, the employer may use any State-specific model notice developed in accordance with section 701(f)(3)(B)(i)(II) of the Employee Retirement Income Security Act of 1974 ( 29 U.S.C. 1181(f)(3)(B)(i)(II) ).
         - **(II)** An employer may provide the model notice applicable to the State in which an employee resides concurrent with the furnishing of materials notifying the employee of health plan eligibility, concurrent with materials provided to the employee in connection with an open season or election process conducted under the plan, or concurrent with the furnishing of the summary plan description as provided in section 104(b) of the Employee Retirement Income Security Act of 1974 ( 29 U.S.C. 1024 ).
       - **(ii)** In the case of a participant or beneficiary of a group health plan who is covered under a Medicaid plan of a State under title XIX of the Social Security Act or under a State child health plan under title XXI of such Act, the plan administrator of the group health plan shall disclose to the State, upon request, information about the benefits available under the group health plan in sufficient specificity, as determined under regulations of the Secretary of Health and Human Services in consultation with the Secretary that require use of the model coverage coordination disclosure form developed under section 311(b)(1)(C) of the Children’s Health Insurance Program Reauthorization Act of 2009, so as to permit the State to make a determination (under paragraph (2)(B), (3), or (10) of section 2105(c) of the Social Security Act or otherwise) concerning the cost-effectiveness of the State providing medical or child health assistance through premium assistance for the purchase of coverage under such group health plan and in order for the State to provide supplemental benefits required under paragraph (10)(E) of such section or other authority.
+
+In general
+
+Transitional rules.—
+
+Benefit determinations
+
+Guidance concerning periods before 30 days after enactment
+
+Special rule relating to certain loss of coverage
+
+In general
+
+Determination of creditable coverage.—
+
+Period of coverage.—
+
+In general
+
+Special rule for certain periods
+
+Certifications, etc.—
+
+In general
+
+No certification required to be provided before june 1, 1997
+
+Certification only on written request for events occurring before october 1, 1996
+
+Transitional rule
+
+Special rule for collective bargaining agreements
+
+Timely regulations
+
+Limitation on actions
+
+## Source Credit
+
+*(Added [Pub. L. 104–191, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 2073](https://www.govinfo.gov/link/statute/110/2073); amended [Pub. L. 105–34, title XV, § 1531(b)(1)(A)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1084](https://www.govinfo.gov/link/statute/111/1084); [Pub. L. 111–3, title III, § 311(a)](https://www.govinfo.gov/link/plaw/111/public/3), Feb. 4, 2009, [123 Stat. 64](https://www.govinfo.gov/link/statute/123/64); [Pub. L. 111–5, div. B, title I, § 1899D(a)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 425](https://www.govinfo.gov/link/statute/123/425); [Pub. L. 111–344, title I, § 114(a)](https://www.govinfo.gov/link/plaw/111/public/344), Dec. 29, 2010, [124 Stat. 3615](https://www.govinfo.gov/link/statute/124/3615); [Pub. L. 112–40, title II, § 242(a)(1)](https://www.govinfo.gov/link/plaw/112/public/40), Oct. 21, 2011, [125 Stat. 419](https://www.govinfo.gov/link/statute/125/419).)*

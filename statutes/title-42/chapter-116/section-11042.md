@@ -3,9 +3,10 @@ title: "Section 11042 - Trade secrets"
 usc_title: 42
 usc_section: "11042"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11042"
-generated_at: "2026-03-30T02:56:11.394Z"
+generated_at: "2026-11-23T21:26:33.395Z"
+status: "active"
 ---
 
 # § 11042. Trade secrets
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:56:11.394Z"
   - **(1)** In any case in which the identity of a hazardous chemical or an extremely hazardous substance is claimed as a trade secret, the Governor or State emergency response commission established under section 11001 of this title shall identify the adverse health effects associated with the hazardous chemical or extremely hazardous substance and shall assure that such information is provided to any person requesting information about such hazardous chemical or extremely hazardous substance.
   - **(2)** In any case in which the identity of a toxic chemical is claimed as a trade secret, the Administrator shall identify the adverse health and environmental effects associated with the toxic chemical and shall assure that such information is included in the computer database required by section 11023(j) of this title and is provided to any person requesting information about such toxic chemical.
 - **(i)** Notwithstanding any limitatio 2 2 So in original. Probably should be “limitation”. contained in this section or any other provision of law, all information reported to or otherwise obtained by the Administrator (or any representative of the Administrator) under this chapter shall be made available to a duly authorized committee of the Congress upon written request by such a committee.
+
+## Source Credit
+
+*([Pub. L. 99–499, title III, § 322](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1747](https://www.govinfo.gov/link/statute/100/1747).)*

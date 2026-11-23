@@ -3,9 +3,10 @@ title: "Section 2704 - Limits on liability"
 usc_title: 33
 usc_section: "2704"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2704"
-generated_at: "2026-03-30T02:55:41.130Z"
+generated_at: "2026-11-23T21:26:11.462Z"
+status: "active"
 ---
 
 # § 2704. Limits on liability
@@ -47,3 +48,13 @@ generated_at: "2026-03-30T02:55:41.130Z"
     - **(C)** If the Secretary determines, based on the results of the study conducted under subparagraph (A), that the use of deepwater ports in connection with the transportation of oil by vessel results in a lower operational or environmental risk than the use of other ports, the Secretary shall initiate, not later than the 180th day following the date of submission of the report to the Congress under subparagraph (B), a rulemaking proceeding to lower the limits of liability under this section for deepwater ports as the Secretary determines appropriate. The Secretary may establish a limit of liability of less than $350,000,000, but not less than $50,000,000, in accordance with paragraph (1).
   - **(3)** The President shall, within 6 months after August 18, 1990 , and from time to time thereafter, report to the Congress on the desirability of adjusting the limits of liability specified in subsection (a).
   - **(4)** The President, by regulations issued not later than 3 years after July 11, 2006 , and not less than every 3 years thereafter, shall adjust the limits on liability specified in subsection (a) to reflect significant increases in the Consumer Price Index.
+
+Initial report
+
+Contents
+
+Annual updates
+
+## Source Credit
+
+*([Pub. L. 101–380, title I, § 1004](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 491](https://www.govinfo.gov/link/statute/104/491); [Pub. L. 104–55, § 2(d)(1)](https://www.govinfo.gov/link/plaw/104/public/55), Nov. 20, 1995, [109 Stat. 546](https://www.govinfo.gov/link/statute/109/546); [Pub. L. 105–383, title IV, § 406](https://www.govinfo.gov/link/plaw/105/public/383), Nov. 13, 1998, [112 Stat. 3429](https://www.govinfo.gov/link/statute/112/3429); [Pub. L. 109–241, title VI, § 603(a)(1)](https://www.govinfo.gov/link/plaw/109/public/241), (2), (b), July 11, 2006, [120 Stat. 553](https://www.govinfo.gov/link/statute/120/553), 554; [Pub. L. 111–281, title IX, § 903(a)(2)](https://www.govinfo.gov/link/plaw/111/public/281), (e)(1), Oct. 15, 2010, [124 Stat. 3010](https://www.govinfo.gov/link/statute/124/3010), 3011; [Pub. L. 115–232, div. C, title XXXV, § 3547(c)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2328](https://www.govinfo.gov/link/statute/132/2328).)*

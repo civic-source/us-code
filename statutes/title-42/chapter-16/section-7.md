@@ -3,9 +3,10 @@ title: "Section 7 - Computer science education research"
 usc_title: 42
 usc_section: "7"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-30T02:56:11.129Z"
+generated_at: "2026-11-23T21:26:32.225Z"
+status: "active"
 ---
 
 # § 1862s–7. Computer science education research
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:11.129Z"
 - **(d)** The Director of the Foundation shall develop metrics to measure the success of the grant program funded under this section in achieving program goals.
 - **(e)** The Director of the Foundation shall report, in the annual budget submission to Congress, on the success of the program as measured by the metrics in subsection (d).
 - **(f)** In this section, the term “eligible entity” means an institution of higher education or a nonprofit research organization.
+
+## Source Credit
+
+*([Pub. L. 114–329, title III, § 310](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 3012](https://www.govinfo.gov/link/statute/130/3012); [Pub. L. 116–102, § 5](https://www.govinfo.gov/link/plaw/116/public/102), Dec. 24, 2019, [133 Stat. 3264](https://www.govinfo.gov/link/statute/133/3264); [Pub. L. 116–283, div. H, title XCIV, § 9405(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4812](https://www.govinfo.gov/link/statute/134/4812).)*

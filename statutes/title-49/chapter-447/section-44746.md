@@ -3,9 +3,10 @@ title: "Section 44746 - Flight data recovery from overwater operations"
 usc_title: 49
 usc_section: "44746"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44746"
-generated_at: "2026-03-30T02:56:19.388Z"
+generated_at: "2026-11-23T21:26:40.909Z"
+status: "active"
 ---
 
 # § 44746. Flight data recovery from overwater operations
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:56:19.388Z"
   - **(1)** operated under part 121 of title 14, Code of Federal Regulations;
   - **(2)** required by regulation to have a cockpit voice recorder and a flight data recorder; and
   - **(3)** used in extended overwater operations.
+
+In General
+
+Applicable Aircraft Defined
+
+## Source Credit
+
+*(Added [Pub. L. 118–63, title III, § 352(a)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1112](https://www.govinfo.gov/link/statute/138/1112).)*

@@ -3,9 +3,10 @@ title: "Section 3166 - Agency, Presidential, and Congressional actions"
 usc_title: 16
 usc_section: "3166"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3166"
-generated_at: "2026-03-30T02:54:23.011Z"
+generated_at: "2026-11-23T21:25:51.962Z"
+status: "active"
 ---
 
 # § 3166. Agency, Presidential, and Congressional actions
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:23.011Z"
   - **(4)** For the purposes of this subsection, the term “resolution” means a joint resolution, the resolving clause of which is as follows: “That the House of Representatives and Senate approve the application for under title XI of the Alaska National Interest Lands Conservation Act submitted by the President to the Congress on , 19 .”; the first blank space therein to be filled in with the appropriate transportation or utility system and the second blank therein to be filled with the date on which the President submits the application to the House of Representatives and the Senate.
   - **(5)** Except as otherwise provided in this subsection, the provisions of section 719f(d) of title 15 shall apply to the consideration of the resolution.
   - **(6)** After an application for a transportation or utility system has been approved under subsection (a), the appropriate Federal agencies shall issue appropriate authorizations in accordance with applicable law. In any case in which an application for a transportation or utility system has been approved pursuant to subsection (b), the appropriate Federal agencies shall issue appropriate authorizations in accordance with title V of the Federal Lands Policy Management Act [ 43 U.S.C. 1761 et seq.] or other applicable law. After issuance pursuant to this subsection, the appropriate land managing agency shall administer the right-of-way in accordance with relevant management authorities of the land managing agency and title V of the Federal Lands Policy Management Act.
+
+## Source Credit
+
+*([Pub. L. 96–487, title XI, § 1106](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2461](https://www.govinfo.gov/link/statute/94/2461).)*

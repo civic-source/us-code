@@ -3,9 +3,10 @@ title: "Section 2901 - Findings"
 usc_title: 25
 usc_section: "2901"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2901"
-generated_at: "2026-03-30T02:54:52.845Z"
+generated_at: "2026-11-23T21:25:54.679Z"
+status: "active"
 ---
 
 # § 2901. Findings
@@ -22,3 +23,7 @@ The Congress finds that—
   - **(8)** acts of suppression and extermination directed against Native American languages and cultures are in conflict with the United States policy of self-determination for Native Americans;
   - **(9)** languages are the means of communication for the full range of human experiences and are critical to the survival of cultural and political integrity of any people; and
   - **(10)** language provides a direct and powerful means of promoting international communication by people who share languages.
+
+## Source Credit
+
+*([Pub. L. 101–477, title I, § 102](https://www.govinfo.gov/link/plaw/101/public/477), Oct. 30, 1990, [104 Stat. 1153](https://www.govinfo.gov/link/statute/104/1153).)*

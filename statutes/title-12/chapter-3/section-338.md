@@ -3,12 +3,17 @@ title: "Section 338 - Examination of affiliates; forfeiture of membership on ref
 usc_title: 12
 usc_section: "338"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 338"
-generated_at: "2026-03-30T02:53:53.378Z"
+generated_at: "2026-11-23T21:25:36.784Z"
+status: "active"
 ---
 
 # § 338. Examination of affiliates; forfeiture of membership on refusal of affiliate to give information or pay expense
 
 In connection with examinations of State member banks, examiners selected or approved by the Board of Governors of the Federal Reserve System shall make such examinations of the affairs of all affiliates of such banks as shall be necessary to disclose fully the relations between such banks and their affiliates and the effect of such relations upon the affairs of such banks. The expense of examination of affiliates of any State member bank may, in the discretion of the Board of Governors of the Federal Reserve System, be assessed against such bank and, when so assessed, shall be paid by such bank. In the event of the refusal to give any information requested in the course of the examination of any such affiliate, or in the event of the refusal to permit such examination, or in the event of the refusal to pay any expenses so assessed, the Board of Governors of the Federal Reserve System may, in its discretion, require any or all State member banks affiliated with such affiliate to surrender their stock in the Federal Reserve bank and to forfeit all rights and privileges of membership in the Federal Reserve System, as provided in this subchapter.
 
+
+## Source Credit
+
+*(Dec. 23, 1913, ch. 6, § 9 (par.), as added June 16, 1933, ch. 89, § 5(c), [48 Stat. 166](https://www.govinfo.gov/link/statute/48/166); amended Aug. 23, 1935, ch. 614, title II, § 203(a), [49 Stat. 704](https://www.govinfo.gov/link/statute/49/704).)*

@@ -3,9 +3,10 @@ title: "Section 24320 - Amtrak 5-year service line and asset line plans"
 usc_title: 49
 usc_section: "24320"
 chapter: 243
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 24320"
-generated_at: "2026-03-30T02:56:19.345Z"
+generated_at: "2026-11-23T21:26:40.741Z"
+status: "active"
 ---
 
 # § 24320. Amtrak 5-year service line and asset line plans
@@ -92,3 +93,57 @@ generated_at: "2026-03-30T02:56:19.345Z"
 - **(d)** In preparing plans under this section, Amtrak shall—
   - **(1)** apply sound budgetary practices, including reducing costs and other expenditures, improving productivity, increasing revenues, or combinations of such practices; and
   - **(2)** use the categories specified in the financial accounting and reporting system developed under section 203 of the Passenger Rail Investment and Improvement Act of 2008 ( 49 U.S.C. 24101 note).
+
+In General.—
+
+Final plans
+
+Fiscal constraint
+
+Amtrak
+
+-Year Service Line Plans.—
+
+Amtrak service lines
+
+Contents of 5-year service line plans
+
+-year service line plans process
+
+-year service line plans updates
+
+Definition of northeast corridor
+
+Amtrak
+
+-Year Asset Line Plans.—
+
+Asset lines
+
+Contents of 5-year asset line plans
+
+-year asset line plan process
+
+-year asset line plan updates
+
+Evaluation of national assets costs
+
+Definition of national assets
+
+Restructuring of national assets
+
+Exemption.—
+
+In general
+
+Public availability
+
+Inclusion in plan
+
+Standards to Promote Financial Stability
+
+“Not later than 1 year after the date of enactment of this Act [ Dec. 4, 2015 ], the Secretary [of Transportation] shall—
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title XI, § 11203(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1630](https://www.govinfo.gov/link/statute/129/1630); amended [Pub. L. 117–58, div. B, title II](https://www.govinfo.gov/link/plaw/117/public/58), §§ 22204(b), 22207(a), Nov. 15, 2021, [135 Stat. 699](https://www.govinfo.gov/link/statute/135/699), 703.)*

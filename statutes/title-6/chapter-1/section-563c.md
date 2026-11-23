@@ -3,9 +3,10 @@ title: "Section 563c - Inventory utilization"
 usc_title: 6
 usc_section: "563c"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 563c"
-generated_at: "2026-03-30T02:53:09.469Z"
+generated_at: "2026-11-23T21:25:25.805Z"
+status: "active"
 ---
 
 # § 563c. Inventory utilization
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:09.469Z"
   - **(2)** The Administrator may not use just-in-time logistics if doing so—
     - **(A)** would inhibit necessary planning for large-scale delivery of equipment to airports or other facilities; or
     - **(B)** would unduly diminish surge capacity for response to a terrorist threat.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XVI, § 1614](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 113–245, § 3(a)](https://www.govinfo.gov/link/plaw/113/public/245), Dec. 18, 2014, [128 Stat. 2876](https://www.govinfo.gov/link/statute/128/2876).)*

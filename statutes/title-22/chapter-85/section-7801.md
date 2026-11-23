@@ -3,9 +3,10 @@ title: "Section 7801 - Findings"
 usc_title: 22
 usc_section: "7801"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7801"
-generated_at: "2026-03-30T02:55:05.446Z"
+generated_at: "2026-11-23T21:25:58.728Z"
+status: "active"
 ---
 
 # § 7801. Findings
@@ -37,3 +38,15 @@ Congress makes the following findings:
   - **(23)** Between 1994 and 2003, South Korea has admitted approximately 3,800 North Korean refugees for domestic resettlement, a number that is small in comparison with the total number of North Korean escapees but far greater than the number legally admitted in any other country.
   - **(24)** Although the principal responsibility for North Korean refugee resettlement naturally falls to the Government of South Korea, the United States should play a leadership role in focusing international attention on the plight of these refugees, and formulating international solutions to that profound humanitarian dilemma.
   - **(25)** In addition to infringing the rights of its own citizens, the Government of North Korea has been responsible in years past for the abduction of numerous citizens of South Korea and Japan, whose condition and whereabouts remain unknown.
+
+“Congress makes the following findings:
+
+“Congress finds the following:
+
+“Congress finds the following:
+
+“It is the sense of Congress that—
+
+## Source Credit
+
+*([Pub. L. 108–333, § 3](https://www.govinfo.gov/link/plaw/108/public/333), Oct. 18, 2004, [118 Stat. 1287](https://www.govinfo.gov/link/statute/118/1287).)*

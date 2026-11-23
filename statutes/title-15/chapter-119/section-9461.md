@@ -3,9 +3,10 @@ title: "Section 9461 - Department of Energy artificial intelligence research pro
 usc_title: 15
 usc_section: "9461"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9461"
-generated_at: "2026-03-30T02:54:08.248Z"
+generated_at: "2026-11-23T21:25:40.145Z"
+status: "active"
 ---
 
 # § 9461. Department of Energy artificial intelligence research program
@@ -54,3 +55,23 @@ generated_at: "2026-03-30T02:54:08.248Z"
   - **(3)** $228,980,000 for fiscal year 2023;
   - **(4)** $245,000,000 for fiscal year 2024; and
   - **(5)** $262,160,000 for fiscal year 2025.
+
+Definitions
+
+American science cloud
+
+Artificial intelligence
+
+Transformational Models
+
+Uses.—
+
+Microelectronics
+
+New energy technologies
+
+Appropriations
+
+## Source Credit
+
+*([Pub. L. 116–283, div. E, title LV, § 5501](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4545](https://www.govinfo.gov/link/statute/134/4545).)*

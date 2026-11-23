@@ -3,9 +3,10 @@ title: "Section 7405 - Temporary full-time appointments, part-time appointments,
 usc_title: 38
 usc_section: "7405"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7405"
-generated_at: "2026-03-30T02:55:53.530Z"
+generated_at: "2026-11-23T21:26:16.869Z"
+status: "active"
 ---
 
 # § 7405. Temporary full-time appointments, part-time appointments, and without-compensation appointments
@@ -50,3 +51,13 @@ generated_at: "2026-03-30T02:55:53.530Z"
     - **(A)** nurses with a part-time appointment resulting from an academic affiliation or teaching position in a nursing academy of the Department;
     - **(B)** nurses appointed as a result of a specific research proposal or grant; or
     - **(C)** nurses who are not citizens of the United States and appointed under section 7407(a) of this title .
+
+In General
+
+Partnering With and Developing Community Entities and Nonprofit Organizations
+
+Military Culture Training
+
+## Source Credit
+
+*(Added [Pub. L. 102–40, title IV, § 401(b)(2)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 226](https://www.govinfo.gov/link/statute/105/226); amended [Pub. L. 102–405, title III, § 302(c)(1)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1984](https://www.govinfo.gov/link/statute/106/1984); [Pub. L. 106–419, title II, § 204](https://www.govinfo.gov/link/plaw/106/public/419), Nov. 1, 2000, [114 Stat. 1842](https://www.govinfo.gov/link/statute/114/1842); [Pub. L. 108–170, title III, § 301(c)](https://www.govinfo.gov/link/plaw/108/public/170), Dec. 6, 2003, [117 Stat. 2057](https://www.govinfo.gov/link/statute/117/2057); [Pub. L. 111–163, title VI, § 601(c)](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1168](https://www.govinfo.gov/link/statute/124/1168).)*

@@ -3,9 +3,10 @@ title: "Section 8477 - Fiduciary responsibilities; liability and penalties"
 usc_title: 5
 usc_section: "8477"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8477"
-generated_at: "2026-03-30T02:52:56.063Z"
+generated_at: "2026-11-23T21:25:23.435Z"
+status: "active"
 ---
 
 # § 8477. Fiduciary responsibilities; liability and penalties
@@ -125,3 +126,11 @@ generated_at: "2026-03-30T02:52:56.063Z"
 - **(g)**
   - **(1)** The Secretary of Labor shall establish a program to carry out audits to determine the level of compliance with the requirements of this section relating to fiduciary responsibilities and prohibited activities of fiduciaries.
   - **(2)** An audit under this subsection may be conducted by the Secretary of Labor, by contract with a qualified non-governmental organization, or in cooperation with the Comptroller General of the United States, as the Secretary considers appropriate.
+
+In General
+
+Termination of Interim Authority
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 582](https://www.govinfo.gov/link/statute/100/582); amended [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 99–556, title I](https://www.govinfo.gov/link/plaw/99/public/556), §§ 112, 114(b), Oct. 27, 1986, [100 Stat. 3133](https://www.govinfo.gov/link/statute/100/3133); [Pub. L. 100–238, title I, § 133(a)](https://www.govinfo.gov/link/plaw/100/public/238), (c), Jan. 8, 1988, [101 Stat. 1760](https://www.govinfo.gov/link/statute/101/1760), 1762; [Pub. L. 100–366, § 3(a)](https://www.govinfo.gov/link/plaw/100/public/366), July 13, 1988, [102 Stat. 826](https://www.govinfo.gov/link/statute/102/826); [Pub. L. 101–335, § 8](https://www.govinfo.gov/link/plaw/101/public/335), July 17, 1990, [104 Stat. 325](https://www.govinfo.gov/link/statute/104/325); [Pub. L. 111–31, div. B, title I, § 106(b)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1855](https://www.govinfo.gov/link/statute/123/1855); [Pub. L. 113–255, § 3](https://www.govinfo.gov/link/plaw/113/public/255), Dec. 18, 2014, [128 Stat. 2921](https://www.govinfo.gov/link/statute/128/2921).)*

@@ -3,9 +3,10 @@ title: "Section 6937 - Inventory of Federal agency hazardous waste facilities"
 usc_title: 42
 usc_section: "6937"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6937"
-generated_at: "2026-03-30T02:56:11.273Z"
+generated_at: "2026-11-23T21:26:33.006Z"
+status: "active"
 ---
 
 # § 6937. Inventory of Federal agency hazardous waste facilities
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.273Z"
   - **(7)** An identification of the types of techniques of waste treatment, storage, or disposal which have been used at each site.
   - **(8)** The name and address and responsible Federal agency for each site, determined as of the date of preparation of the inventory.
 - **(b)** If the Administrator determines that any Federal agency under subsection (a) is not adequately providing information respecting the sites referred to in subsection (a), the Administrator shall notify the chief official of such agency. If within ninety days following such notification, the Federal agency has not undertaken a program to adequately provide such information, the Administrator shall carry out the inventory program for such agency.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 3016](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 98–616, title II, § 244](https://www.govinfo.gov/link/plaw/98/public/616), Nov. 8, 1984, [98 Stat. 3261](https://www.govinfo.gov/link/statute/98/3261).)*

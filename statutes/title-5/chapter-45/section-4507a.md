@@ -3,9 +3,10 @@ title: "Section 4507a - Awarding of ranks to other senior career employees"
 usc_title: 5
 usc_section: "4507a"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 4507a"
-generated_at: "2026-03-30T02:52:56.009Z"
+generated_at: "2026-11-23T21:25:23.193Z"
+status: "active"
 ---
 
 # § 4507a. Awarding of ranks to other senior career employees
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:52:56.009Z"
   - **(2)** in a position that is excepted from the competitive service because of its confidential or policy-making character.
 - **(b)** Each agency employing senior career employees shall submit annually to the Office of Personnel Management recommendations of senior career employees in the agency to be awarded the rank of Meritorious Senior Professional or Distinguished Senior Professional, which may be awarded by the President for sustained accomplishment or sustained extraordinary accomplishment, respectively.
 - **(c)** The recommendations shall be made, reviewed, and awarded under the same terms and conditions (to the extent determined by the Office of Personnel Management) that apply to rank awards for members of the Senior Executive Service under section 4507.
+
+## Source Credit
+
+*(Added [Pub. L. 107–67, title VI, § 641(a)](https://www.govinfo.gov/link/plaw/107/public/67), Nov. 12, 2001, [115 Stat. 554](https://www.govinfo.gov/link/statute/115/554).)*

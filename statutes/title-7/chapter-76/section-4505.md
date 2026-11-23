@@ -3,9 +3,10 @@ title: "Section 4505 - Certification of organizations"
 usc_title: 7
 usc_section: "4505"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 4505"
-generated_at: "2026-03-30T02:53:42.408Z"
+generated_at: "2026-11-23T21:25:28.346Z"
+status: "active"
 ---
 
 # § 4505. Certification of organizations
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.408Z"
   - **(4)** sources from which the organization’s operating funds are derived;
   - **(5)** functions of the organization; and
   - **(6)** the organization’s ability and willingness to further the aims and objectives of this subchapter.
+
+## Source Credit
+
+*([Pub. L. 98–180, title I, § 114](https://www.govinfo.gov/link/plaw/98/public/180), Nov. 29, 1983, [97 Stat. 1140](https://www.govinfo.gov/link/statute/97/1140).)*

@@ -3,9 +3,10 @@ title: "Section 278t - Advanced communications research activities"
 usc_title: 15
 usc_section: "278t"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 278t"
-generated_at: "2026-03-30T02:54:08.081Z"
+generated_at: "2026-11-23T21:25:39.626Z"
+status: "active"
 ---
 
 # § 278t. Advanced communications research activities
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:08.081Z"
     - **(D)** conducting interference tests to better understand the impact of current and proposed Federal and commercial spectrum activities;
     - **(E)** conducting research and testing to improve spectrum interference tolerance, flexibility, agility, and interference mitigation methods; and
     - **(F)** other activities as determined necessary by the Director.
+
+## Source Credit
+
+*(Mar. 3, 1901, ch. 872, § 35, as added [Pub. L. 117–167, div. B, title II, § 10230(2)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1482](https://www.govinfo.gov/link/statute/136/1482).)*

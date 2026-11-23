@@ -3,9 +3,10 @@ title: "Section 2635 - Filing of official documents"
 usc_title: 28
 usc_section: "2635"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 2635"
-generated_at: "2026-03-30T02:55:30.150Z"
+generated_at: "2026-11-23T21:26:01.137Z"
+status: "active"
 ---
 
 # § 2635. Filing of official documents
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:30.150Z"
     - **(C)** any documents, comments, or other papers filed by the public, interested parties, or governments with respect to the agency’s action.
   - **(2)** The agency shall identify and transmit under seal to the clerk of the court any document, comment, or other information that was obtained on a confidential basis and that is required to be transmitted to the clerk under paragraph (1) of this subsection. Any such document, comment, or information shall include a nonconfidential description of the nature of the material being transmitted. The confidential or privileged status of such material shall be preserved in the civil action, but the court may examine such material in camera and may make such material available under such terms and conditions as the court may order.
   - **(3)** The parties may stipulate that fewer documents, comments, or other information than those specified in paragraph (1) of this subsection shall be transmitted to the clerk of the court.
+
+## Source Credit
+
+*(Added [Pub. L. 96–417, title III, § 301](https://www.govinfo.gov/link/plaw/96/public/417), Oct. 10, 1980, [94 Stat. 1733](https://www.govinfo.gov/link/statute/94/1733); amended [Pub. L. 103–182, title VI, § 684(d)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2219](https://www.govinfo.gov/link/statute/107/2219).)*

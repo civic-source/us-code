@@ -3,9 +3,10 @@ title: "Section 17141 - Prohibition on incandescent lamps by Coast Guard"
 usc_title: 42
 usc_section: "17141"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17141"
-generated_at: "2026-03-30T02:56:11.498Z"
+generated_at: "2026-11-23T21:26:33.769Z"
+status: "active"
 ---
 
 # § 17141. Prohibition on incandescent lamps by Coast Guard
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.498Z"
   - **(2)** reasonable due to the architectural or historical value of a light fixture installed before January 1, 2009 ; or
   - **(3)** the Commandant of the Coast Guard determines that operational requirements necessitate the use of a general service incandescent lamp.
 - **(c)** In this section, the term “facility” does not include a vessel or aircraft of the Coast Guard.
+
+## Source Credit
+
+*([Pub. L. 110–140, title V, § 522](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1662](https://www.govinfo.gov/link/statute/121/1662).)*

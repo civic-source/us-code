@@ -3,12 +3,17 @@ title: "Section 3 - Construction of provisions not to affect authority of Attorn
 usc_title: 42
 usc_section: "3"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T02:56:11.140Z"
+generated_at: "2026-11-23T21:26:32.294Z"
+status: "active"
 ---
 
 # § 2000h–3. Construction of provisions not to affect authority of Attorney General, etc., to institute or intervene in actions or proceedings
 
 Nothing in this Act shall be construed to deny, impair, or otherwise affect any right or authority of the Attorney General or of the United States or any agency or officer thereof under existing law to institute or intervene in any action or proceeding.
 
+
+## Source Credit
+
+*([Pub. L. 88–352, title XI, § 1103](https://www.govinfo.gov/link/plaw/88/public/352), July 2, 1964, [78 Stat. 268](https://www.govinfo.gov/link/statute/78/268).)*

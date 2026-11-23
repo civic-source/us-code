@@ -3,9 +3,10 @@ title: "Section 6413 - Reports on administration"
 usc_title: 16
 usc_section: "6413"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6413"
-generated_at: "2026-03-30T02:54:23.058Z"
+generated_at: "2026-11-23T21:25:52.040Z"
+status: "active"
 ---
 
 # § 6413. Reports on administration
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:23.058Z"
 - **(b)** The committees specified in this subsection are—
   - **(1)** the Committee on Commerce, Science, and Transportation, Committee on Environment and Public Works, Committee on Energy and Natural Resources, and the Committee on Appropriations of the Senate; and
   - **(2)** the Committee on Natural Resources and the Committee on Appropriations of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 106–562, title II, § 214](https://www.govinfo.gov/link/plaw/106/public/562), as added [Pub. L. 117–263, div. J, title C, § 10001(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3947](https://www.govinfo.gov/link/statute/136/3947).)*

@@ -3,9 +3,10 @@ title: "Section 6504 - Incorporation of Department of Transportation research"
 usc_title: 49
 usc_section: "6504"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 6504"
-generated_at: "2026-03-30T02:56:19.322Z"
+generated_at: "2026-11-23T21:26:40.671Z"
+status: "active"
 ---
 
 # § 6504. Incorporation of Department of Transportation research
@@ -28,3 +29,13 @@ generated_at: "2026-03-30T02:56:19.322Z"
   - **(2)** any statutory or regulatory modification for the adoption of such a practice, material, or technology that—
     - **(A)** is determined to be required under subsection (b)(2); or
     - **(B)** was otherwise made during that period.
+
+Review
+
+Requirements
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. B, title V, § 25016(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 872](https://www.govinfo.gov/link/statute/135/872).)*

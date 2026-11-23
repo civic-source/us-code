@@ -3,9 +3,10 @@ title: "Section 252 - U.S. Immigration and Customs Enforcement"
 usc_title: 6
 usc_section: "252"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 252"
-generated_at: "2026-03-30T02:53:09.454Z"
+generated_at: "2026-11-23T21:25:25.771Z"
+status: "active"
 ---
 
 # § 252. U.S. Immigration and Customs Enforcement
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:09.454Z"
     - **(A)** making policy recommendations and performing policy research and analysis on immigration enforcement issues; and
     - **(B)** coordinating immigration policy issues with the Chief of Policy and Strategy for U.S. Citizenship and Immigration Services (established under part E of this subchapter), as appropriate.
 - **(c)** There shall be a principal legal advisor to the Assistant Secretary of U.S. Immigration and Customs Enforcement. The legal advisor shall provide specialized legal advice to the Assistant Secretary of U.S. Immigration and Customs Enforcement and shall represent the agency in all exclusion, deportation, and removal proceedings before the Executive Office for Immigration Review.
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 442](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2193](https://www.govinfo.gov/link/statute/116/2193); [Pub. L. 118–96, § 3(b)(2)](https://www.govinfo.gov/link/plaw/118/public/96), Oct. 1, 2024, [138 Stat. 1571](https://www.govinfo.gov/link/statute/138/1571).)*

@@ -3,9 +3,10 @@ title: "Section 605a - Mississippi River forecasting improvements"
 usc_title: 33
 usc_section: "605a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 605a"
-generated_at: "2026-03-30T02:55:41.064Z"
+generated_at: "2026-11-23T21:26:11.321Z"
+status: "active"
 ---
 
 # § 605a. Mississippi River forecasting improvements
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:41.064Z"
     - **(C)** deploying additional automatic identification system base stations at river gage sites.
   - **(2)** In carrying out this section, the Secretary shall prioritize the sections of the Mississippi River on which additional and more reliable information would have the greatest impact on maintaining navigation on the Mississippi River.
   - **(3)** Not later than 1 year after June 10, 2014 , the Secretary shall submit to Congress and make publicly available a report on the activities carried out by the Secretary under this section.
+
+## Source Credit
+
+*([Pub. L. 113–121, title IV, § 4002(a)](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1308](https://www.govinfo.gov/link/statute/128/1308).)*

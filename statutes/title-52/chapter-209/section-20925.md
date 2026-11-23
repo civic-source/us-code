@@ -3,9 +3,10 @@ title: "Section 20925 - Powers"
 usc_title: 52
 usc_section: "20925"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 20925"
-generated_at: "2026-03-30T02:56:30.166Z"
+generated_at: "2026-11-23T21:26:42.331Z"
+status: "active"
 ---
 
 # § 20925. Powers
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:30.166Z"
 - **(c)** The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
 - **(d)** Upon the request of the Commission, the Administrator of General Services shall provide to the Commission, on a reimbursable basis, the administrative support services that are necessary to enable the Commission to carry out its duties under this chapter.
 - **(e)** The Commission may contract with and compensate persons and Federal agencies for supplies and services without regard to section 6101 of title 41 .
+
+## Source Credit
+
+*([Pub. L. 107–252, title II, § 205](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1677](https://www.govinfo.gov/link/statute/116/1677).)*

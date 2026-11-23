@@ -3,9 +3,10 @@ title: "Section 47528 - Prohibition on operating certain aircraft not complying 
 usc_title: 49
 usc_section: "47528"
 chapter: 475
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 47528"
-generated_at: "2026-03-30T02:56:19.408Z"
+generated_at: "2026-11-23T21:26:40.997Z"
+status: "active"
 ---
 
 # § 47528. Prohibition on operating certain aircraft not complying with stage 3 noise levels
@@ -45,3 +46,64 @@ generated_at: "2026-03-30T02:56:19.408Z"
     - **(G)** divert the aircraft to an alternative airport in the contiguous 48 States on account of weather, mechanical, fuel, air traffic control, or other safety reasons while conducting a flight in order to perform any of the activities described in subparagraphs (A) through (F).
   - **(2)** Not later than 30 days after the date of the enactment of this subsection, the Secretary shall establish and publish a procedure to implement paragraph (1) through the use of categorical waivers, ferry permits, or other means.
 - **(g)** Nothing in this section may be construed as interfering with, nullifying, or otherwise affecting determinations made by the Federal Aviation Administration, or to be made by the Administration with respect to applications under part 161 of title 14, Code of Federal Regulations, that were pending on November 1, 1999 .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 47528(a) | 49 App.:2157(a). | Nov. 5, 1990 , Pub. L. 101–508, § 9308(a) –(c), (g), 104 Stat. 1388–382 , 1388–383. |
+| 47528(b) | 49 App.:2157(b). |  |
+| 47528(c) | 49 App.:2157(c). |  |
+| 47528(d) | 49 App.:2157(g). |  |
+| 47528(e) | 49 App.:2157(i). | Nov. 5, 1990 , Pub. L. 101–508 , 104 Stat. 1388–382 , § 9308(i); added Oct. 28, 1991 , Pub. L. 102–143, § 349(b) , 105 Stat. 949 . |
+
+
+Prohibition
+
+Waivers
+
+Schedule for Phased-In Compliance
+
+Annual Report
+
+Hawaiian Operations
+
+Aircraft Modification, Disposal, Scheduled Heavy Maintenance, or Leasing.—
+
+In general
+
+Procedure To Be Published
+
+Statutory Construction
+
+Historical and Revision Notes
+
+47528(a)
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 9308(a)
+
+104 Stat. 1388–382
+
+47528(b)
+
+47528(c)
+
+47528(d)
+
+47528(e)
+
+Nov. 5, 1990
+
+Pub. L. 101–508
+
+104 Stat. 1388–382
+
+Oct. 28, 1991
+
+Pub. L. 102–143, § 349(b)
+
+105 Stat. 949
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1291](https://www.govinfo.gov/link/statute/108/1291); [Pub. L. 106–113, div. B, § 1000(a)(5) [title II, § 231(a), (b)(1)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–300, 1501A–301; [Pub. L. 106–181, title VII, § 721(a)](https://www.govinfo.gov/link/plaw/106/public/181) –(c)(1), (d), Apr. 5, 2000, [114 Stat. 164](https://www.govinfo.gov/link/statute/114/164), 165.)*

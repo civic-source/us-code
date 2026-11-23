@@ -3,9 +3,10 @@ title: "Section 11704 - Rights and remedies of persons injured by rail carriers"
 usc_title: 49
 usc_section: "11704"
 chapter: 117
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 11704"
-generated_at: "2026-03-30T02:56:19.326Z"
+generated_at: "2026-11-23T21:26:40.680Z"
+status: "active"
 ---
 
 # § 11704. Rights and remedies of persons injured by rail carriers
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:19.326Z"
     - **(C)** through which the railroad line of that carrier runs.
   - **(2)** All parties in whose favor the award was made may be joined as plaintiffs in a civil action brought in a district court of the United States under this subsection and all the rail carriers that are parties to the order awarding damages may be joined as defendants. Trial in the action is in the judicial district in which any one of the plaintiffs could bring the action against any one of the defendants. Process may be served on a defendant at its principal operating office when that defendant is not in the district in which the action is brought. A judgment ordering recovery may be made in favor of any of those plaintiffs against the defendant found to be liable to that plaintiff.
   - **(3)** The district court shall award a reasonable attorney’s fee as a part of the damages for which a rail carrier is found liable under this subsection. The district court shall tax and collect that fee as a part of the costs of the action.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 846](https://www.govinfo.gov/link/statute/109/846).)*

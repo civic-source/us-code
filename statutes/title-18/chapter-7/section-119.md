@@ -3,9 +3,10 @@ title: "Section 119 - Protection of individuals performing certain official duti
 usc_title: 18
 usc_section: "119"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 119"
-generated_at: "2026-03-30T02:54:16.458Z"
+generated_at: "2026-11-23T21:25:43.943Z"
+status: "active"
 ---
 
 # § 119. Protection of individuals performing certain official duties
@@ -22,3 +23,11 @@ generated_at: "2026-03-30T02:54:16.458Z"
     - **(D)** a State or local officer or employee whose restricted personal information is made publicly available because of the participation in, or assistance provided to, a Federal criminal investigation by that officer or employee;
   - **(3)** the term “crime of violence” has the meaning given the term in section 16; and
   - **(4)** the term “immediate family” has the meaning given the term in section 115(c)(2).
+
+In General
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 110–177, title II, § 202(a)](https://www.govinfo.gov/link/plaw/110/public/177), Jan. 7, 2008, [121 Stat. 2536](https://www.govinfo.gov/link/statute/121/2536).)*

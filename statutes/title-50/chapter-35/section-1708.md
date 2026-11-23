@@ -3,9 +3,10 @@ title: "Section 1708 - Actions to address economic or industrial espionage in cy
 usc_title: 50
 usc_section: "1708"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1708"
-generated_at: "2026-03-30T02:56:26.207Z"
+generated_at: "2026-11-23T21:26:38.931Z"
+status: "active"
 ---
 
 # § 1708. Actions to address economic or industrial espionage in cyberspace
@@ -61,3 +62,7 @@ generated_at: "2026-03-30T02:56:26.207Z"
     - **(A)** an individual who is a citizen or resident of the United States;
     - **(B)** an entity organized under the laws of the United States or any jurisdiction within the United States; or
     - **(C)** a person located in the United States.
+
+## Source Credit
+
+*([Pub. L. 113–291, div. A, title XVI, § 1637](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3644](https://www.govinfo.gov/link/statute/128/3644).)*

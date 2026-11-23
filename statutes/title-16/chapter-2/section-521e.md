@@ -3,9 +3,10 @@ title: "Section 521e - Small parcels and road rights-of-way"
 usc_title: 16
 usc_section: "521e"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 521e"
-generated_at: "2026-03-30T02:54:22.861Z"
+generated_at: "2026-11-23T21:25:51.653Z"
+status: "active"
 ---
 
 # § 521e. Small parcels and road rights-of-way
@@ -21,3 +22,7 @@ The National Forest System lands which may be sold, exchanged, or interchanged u
     - **(C)** to have lost National Forest character;
   - **(5)** parcels of 10 acres or less that are not eligible for conveyance under paragraph (2) but are encroached on by a permanent habitable improvement for which there is no evidence that the encroachment was intentional or negligent; or
   - **(6)** parcels used as a cemetery (including a parcel of not more than 1 acre adjacent to the parcel used as a cemetery), a landfill, or a sewage treatment plant under a special use authorization issued or otherwise authorized by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 97–465, § 3](https://www.govinfo.gov/link/plaw/97/public/465), Jan. 12, 1983, [96 Stat. 2535](https://www.govinfo.gov/link/statute/96/2535); [Pub. L. 115–334, title VIII, § 8621(a)](https://www.govinfo.gov/link/plaw/115/public/334), (b), Dec. 20, 2018, [132 Stat. 4852](https://www.govinfo.gov/link/statute/132/4852).)*

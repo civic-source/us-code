@@ -3,9 +3,10 @@ title: "Section 2332a - Use of weapons of mass destruction"
 usc_title: 18
 usc_section: "2332a"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2332a"
-generated_at: "2026-03-30T02:54:16.502Z"
+generated_at: "2026-11-23T21:25:44.144Z"
+status: "active"
 ---
 
 # § 2332a. Use of weapons of mass destruction
@@ -28,3 +29,17 @@ generated_at: "2026-03-30T02:54:16.502Z"
     - **(C)** any weapon involving a biological agent, toxin, or vector (as those terms are defined in section 178 of this title ); or
     - **(D)** any weapon that is designed to release radiation or radioactivity at a level dangerous to human life; and
   - **(3)** the term “property” includes all real and personal property.
+
+Offense Against a National of the United States or Within the United States
+
+Offense by National of the United States Outside of the United States
+
+Definitions
+
+Against a National of the United States or Within the United States
+
+Offense
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title VI, § 60023(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1980](https://www.govinfo.gov/link/statute/108/1980); amended [Pub. L. 104–132, title V, § 511(c)](https://www.govinfo.gov/link/plaw/104/public/132), title VII, § 725, Apr. 24, 1996, [110 Stat. 1284](https://www.govinfo.gov/link/statute/110/1284), 1300; [Pub. L. 104–294, title VI, § 605(m)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3510](https://www.govinfo.gov/link/statute/110/3510); [Pub. L. 105–277, div. I, title II, § 201(b)(1)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–871](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 107–188, title II, § 231(d)](https://www.govinfo.gov/link/plaw/107/public/188), June 12, 2002, [116 Stat. 661](https://www.govinfo.gov/link/statute/116/661); [Pub. L. 108–458, title VI, § 6802(a)](https://www.govinfo.gov/link/plaw/108/public/458), (b), Dec. 17, 2004, [118 Stat. 3766](https://www.govinfo.gov/link/statute/118/3766), 3767.)*

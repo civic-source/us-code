@@ -3,9 +3,10 @@ title: "Section 2593e - Measures against persons involved in activities that vio
 usc_title: 22
 usc_section: "2593e"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2593e"
-generated_at: "2026-03-30T02:55:05.373Z"
+generated_at: "2026-11-23T21:25:58.511Z"
+status: "active"
 ---
 
 # § 2593e. Measures against persons involved in activities that violate arms control treaties or agreements with the United States
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:55:05.373Z"
 - **(h)** In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committee on Armed Services, the Committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives; and
   - **(2)** the Committee on Armed Services, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate.
+
+## Source Credit
+
+*([Pub. L. 114–328, div. A, title XII, § 1290](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2555](https://www.govinfo.gov/link/statute/130/2555).)*

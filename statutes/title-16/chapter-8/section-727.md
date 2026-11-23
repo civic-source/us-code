@@ -3,9 +3,10 @@ title: "Section 727 - Powers of employees of Department of the Interior"
 usc_title: 16
 usc_section: "727"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 727"
-generated_at: "2026-03-30T02:54:22.903Z"
+generated_at: "2026-11-23T21:25:51.738Z"
+status: "active"
 ---
 
 # § 727. Powers of employees of Department of the Interior
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:22.903Z"
 - **(a)** Any employee of the Department of the Interior authorized by the Secretary of the Interior to enforce the provisions of this chapter (1) shall have power, without warrant, to arrest any person committing in the presence of such employee a violation of this chapter or of any regulation made pursuant to this chapter, and to take such person immediately for examination or trial before an officer or court of competent jurisdiction, (2) shall have power to execute any warrant or other process issued by an officer or court of competent jurisdiction to enforce the provisions of this chapter or regulations made pursuant thereto, and (3) shall have authority, with a search warrant issued by an officer or court of competent jurisdiction to make a search in accordance with the terms of such warrant. Any judge of a court established under the laws of the United States, or any United States magistrate judge may, within his respective jurisdiction, upon proper oath or affirmation showing probable cause, issue warrants in all such cases.
 - **(b)** All birds, animals, fish, or parts thereof captured, injured, or killed, and all flowers, plants, trees, and other natural growths, and nests and eggs of birds removed, and all implements or paraphernalia, including guns, fishing equipment, and boats used or attempted to be used contrary to the provisions of this chapter or any regulations made pursuant thereto, shall, when found by such employee or by any marshal or deputy marshal, be summarily seized by him and placed in the custody of such persons as the Secretary of the Interior may by regulation prescribe.
 - **(c)** A report of the seizure shall be made to the United States attorney for the judicial district in which the seizure is made, for forfeiture either (1) upon conviction of the offender under section 730 of this title , or (2) by proceedings by libel in rem. Such libel proceedings shall conform as near as may be to civil suits in admiralty, except that either party may demand trial by jury upon any issue of fact when the value in controversy exceeds $20. In case of a jury trial the verdict of the jury shall have the same effect as the finding of the court upon the facts. Libel proceedings shall be at the suit and in the name of the United States. If such forfeiture proceedings are not instituted within a reasonable time, the United States attorney shall give notice thereof, and the custodian shall thereupon release the articles seized.
+
+## Source Credit
+
+*(June 7, 1924, ch. 346, § 8, [43 Stat. 651](https://www.govinfo.gov/link/statute/43/651); 1939 Reorg. Plan No. II, § 4(e), (f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433](https://www.govinfo.gov/link/statute/53/1433); [Pub. L. 90–578, title IV, § 402(b)(2)](https://www.govinfo.gov/link/plaw/90/public/578), Oct. 17, 1968, [82 Stat. 1118](https://www.govinfo.gov/link/statute/82/1118); [Pub. L. 101–650, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117).)*

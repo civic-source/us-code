@@ -3,9 +3,10 @@ title: "Section 4001 - Trade suspension reserves"
 usc_title: 7
 usc_section: "4001"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 4001"
-generated_at: "2026-03-30T02:53:42.405Z"
+generated_at: "2026-11-23T21:25:28.341Z"
+status: "active"
 ---
 
 # § 4001. Trade suspension reserves
@@ -27,3 +28,9 @@ Notwithstanding any other provision of law—
 - **(f)** The Secretary of Agriculture shall establish safeguards to ensure that stocks of agricultural commodities held in the reserves established under this section shall not be used in any manner or under any circumstance to unduly depress, manipulate, or curtail the free market.
 - **(g)** Whenever stocks of agricultural commodities are disposed of or released from reserves established under this section, as provided in subsections (c)(2) and (d)(2) of this section, the reserves may not be replenished with replacement stocks.
 - **(h)** The provisions of this section shall become effective with respect to any suspension of, or restriction on, the export of agricultural commodities, as described in subsection (a) of this section, implemented after December 3, 1980 .
+
+Applicability of certain provisions
+
+## Source Credit
+
+*([Pub. L. 96–494, title II, § 208](https://www.govinfo.gov/link/plaw/96/public/494), Dec. 3, 1980, [94 Stat. 2573](https://www.govinfo.gov/link/statute/94/2573); [Pub. L. 97–98, title X, § 1004](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1260](https://www.govinfo.gov/link/statute/95/1260); [Pub. L. 104–127, title II, § 225(b)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 962](https://www.govinfo.gov/link/statute/110/962); [Pub. L. 105–385, title II, § 212(b)(4)](https://www.govinfo.gov/link/plaw/105/public/385), Nov. 13, 1998, [112 Stat. 3467](https://www.govinfo.gov/link/statute/112/3467).)*

@@ -3,9 +3,10 @@ title: "Section 1232 - Enhancing efforts to combat the trafficking of children"
 usc_title: 8
 usc_section: "1232"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1232"
-generated_at: "2026-03-30T02:53:10.489Z"
+generated_at: "2026-11-23T21:25:25.158Z"
+status: "active"
 ---
 
 # § 1232. Enhancing efforts to combat the trafficking of children
@@ -107,3 +108,7 @@ generated_at: "2026-03-30T02:53:10.489Z"
   - **(1)** shall take effect on the date that is 90 days after December 23, 2008 ; and
   - **(2)** shall also apply to all aliens in the United States in pending proceedings before the Department of Homeland Security or the Executive Office for Immigration Review, or related administrative or Federal appeals, on December 23, 2008 .
 - **(i)** The Secretary of Health and Human Services may award grants to, and enter into contracts with, voluntary agencies to carry out this section and section 279 of title 6 .
+
+## Source Credit
+
+*([Pub. L. 110–457, title II, § 235](https://www.govinfo.gov/link/plaw/110/public/457), Dec. 23, 2008, [122 Stat. 5074](https://www.govinfo.gov/link/statute/122/5074); [Pub. L. 113–4, title XII](https://www.govinfo.gov/link/plaw/113/public/4), §§ 1261–1263, Mar. 7, 2013, [127 Stat. 156–159](https://www.govinfo.gov/link/statute/127/156); [Pub. L. 115–393, title III, § 301(d)](https://www.govinfo.gov/link/plaw/115/public/393), Dec. 21, 2018, [132 Stat. 5272](https://www.govinfo.gov/link/statute/132/5272).)*

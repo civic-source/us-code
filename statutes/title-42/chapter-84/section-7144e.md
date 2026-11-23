@@ -3,9 +3,10 @@ title: "Section 7144e - Office of Indian Energy Policy and Programs"
 usc_title: 42
 usc_section: "7144e"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7144e"
-generated_at: "2026-03-30T02:56:11.283Z"
+generated_at: "2026-11-23T21:26:33.050Z"
+status: "active"
 ---
 
 # § 7144e. Office of Indian Energy Policy and Programs
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.283Z"
   - **(2)** reduce or stabilize energy costs;
   - **(3)** enhance and strengthen Indian tribal energy and economic infrastructure relating to natural resource development and electrification; and
   - **(4)** bring electrical power and service to Indian land and the homes of tribal members located on Indian lands or acquired, constructed, or improved (in whole or in part) with Federal funds.
+
+## Source Credit
+
+*([Pub. L. 95–91, title II, § 217](https://www.govinfo.gov/link/plaw/95/public/91), as added [Pub. L. 109–58, title V, § 502(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 763](https://www.govinfo.gov/link/statute/119/763).)*

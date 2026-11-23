@@ -3,9 +3,10 @@ title: "Section 5707a - Adherence to fire safety guidelines in establishing rate
 usc_title: 5
 usc_section: "5707a"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5707a"
-generated_at: "2026-03-30T02:52:56.024Z"
+generated_at: "2026-11-23T21:25:23.294Z"
+status: "active"
 ---
 
 # § 5707a. Adherence to fire safety guidelines in establishing rates and discounts for lodging expenses
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:52:56.024Z"
   - **(1)** The term “agency” does not include the government of the District of Columbia.
   - **(2)** The term “approved places of public accommodation” means hotels, motels, and other places of public accommodation that are listed by the Administrator of the Federal Emergency Management Agency as meeting the requirements of the fire prevention and control guidelines described in section 29 of the Federal Fire Prevention and Control Act of 1974 ( 15 U.S.C. 2225 ).
   - **(3)** The term “State” means any State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, the Virgin Islands, Guam, American Samoa, or any other territory or possession of the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 101–391, § 4(a)](https://www.govinfo.gov/link/plaw/101/public/391), Sept. 25, 1990, [104 Stat. 749](https://www.govinfo.gov/link/statute/104/749); amended [Pub. L. 105–85, div. A, title XI, § 1107(a)](https://www.govinfo.gov/link/plaw/105/public/85) –(c), Nov. 18, 1997, [111 Stat. 1924](https://www.govinfo.gov/link/statute/111/1924), 1925; [Pub. L. 109–295, title VI, § 612(c)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1410](https://www.govinfo.gov/link/statute/120/1410).)*

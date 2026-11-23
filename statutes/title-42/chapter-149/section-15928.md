@@ -3,9 +3,10 @@ title: "Section 15928 - Consultation regarding energy rights-of-way on public la
 usc_title: 42
 usc_section: "15928"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15928"
-generated_at: "2026-03-30T02:56:11.465Z"
+generated_at: "2026-11-23T21:26:33.687Z"
+status: "active"
 ---
 
 # § 15928. Consultation regarding energy rights-of-way on public land
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:11.465Z"
     - **(C)** products in support of the production of material referred to in subparagraph (A) or (B);
   - **(2)** for storage and terminal facilities in connection with the production of material referred to in paragraph (1); or
   - **(3)** for the generation, transmission, and distribution of electric energy.
+
+## Source Credit
+
+*([Pub. L. 109–58, title III, § 372](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 734](https://www.govinfo.gov/link/statute/119/734).)*

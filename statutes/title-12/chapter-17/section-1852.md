@@ -3,9 +3,10 @@ title: "Section 1852 - Concentration limits on large financial firms"
 usc_title: 12
 usc_section: "1852"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1852"
-generated_at: "2026-03-30T02:53:53.470Z"
+generated_at: "2026-11-23T21:25:37.045Z"
+status: "active"
 ---
 
 # § 1852. Concentration limits on large financial firms
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:53:53.470Z"
     - **(A)** complete a study of the extent to which the concentration limit under this section would affect financial stability, moral hazard in the financial system, the efficiency and competitiveness of United States financial firms and financial markets, and the cost and availability of credit and other financial services to households and businesses in the United States; and
     - **(B)** make recommendations regarding any modifications to the concentration limit that the Council determines would more effectively implement this section.
   - **(2)** Not later than 9 months after the date of completion of the study under paragraph (1), and notwithstanding subsections (b) and (d), the Board shall issue final regulations implementing this section, which shall reflect any recommendations by the Council under paragraph (1)(B).
+
+## Source Credit
+
+*(May 9, 1956, ch. 240, § 14, as added [Pub. L. 111–203, title VI, § 622](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1632](https://www.govinfo.gov/link/statute/124/1632).)*

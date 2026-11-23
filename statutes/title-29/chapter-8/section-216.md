@@ -3,9 +3,10 @@ title: "Section 216 - Penalties"
 usc_title: 29
 usc_section: "216"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 216"
-generated_at: "2026-03-30T02:55:18.682Z"
+generated_at: "2026-11-23T21:26:02.177Z"
+status: "active"
 ---
 
 # § 216. Penalties
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:18.682Z"
     - **(C)** ordered by the court, in an action brought for a violation of section 215(a)(4) of this title or a repeated or willful violation of section 215(a)(2) of this title , to be paid to the Secretary.
   - **(4)** Any administrative determination by the Secretary of the amount of any penalty under this subsection shall be final, unless within 15 days after receipt of notice thereof by certified mail the person charged with the violation takes exception to the determination that the violations for which the penalty is imposed occurred, in which event final determination of the penalty shall be made in an administrative proceeding after opportunity for hearing in accordance with section 554 of title 5 and regulations to be promulgated by the Secretary.
   - **(5)** Except for civil penalties collected for violations of section 212 of this title , sums collected as penalties pursuant to this section shall be applied toward reimbursement of the costs of determining the violations and assessing and collecting such penalties, in accordance with the provision of section 9a of this title . Civil penalties collected for violations of section 212 of this title shall be deposited in the general fund of the Treasury.
+
+## Source Credit
+
+*(June 25, 1938, ch. 676, § 16, [52 Stat. 1069](https://www.govinfo.gov/link/statute/52/1069); May 14, 1947, ch. 52, § 5(a), [61 Stat. 87](https://www.govinfo.gov/link/statute/61/87); Oct. 26, 1949, ch. 736, § 14, [63 Stat. 919](https://www.govinfo.gov/link/statute/63/919); 1950 Reorg. Plan No. 6, §§ 1, 2, 15 F.R. 3174, [64 Stat. 1263](https://www.govinfo.gov/link/statute/64/1263); Aug. 8, 1956, ch. 1035, § 4, [70 Stat. 1118](https://www.govinfo.gov/link/statute/70/1118); [Pub. L. 85–231, § 1(2)](https://www.govinfo.gov/link/plaw/85/public/231), Aug. 30, 1957, [71 Stat. 514](https://www.govinfo.gov/link/statute/71/514); [Pub. L. 87–30, § 12(a)](https://www.govinfo.gov/link/plaw/87/public/30), May 5, 1961, [75 Stat. 74](https://www.govinfo.gov/link/statute/75/74); [Pub. L. 89–601, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/89/public/601), Sept. 23, 1966, [80 Stat. 844](https://www.govinfo.gov/link/statute/80/844); [Pub. L. 93–259](https://www.govinfo.gov/link/plaw/93/public/259), §§ 6(d)(1), 25(c), 26, Apr. 8, 1974, [88 Stat. 61](https://www.govinfo.gov/link/statute/88/61), 72, 73; [Pub. L. 95–151, § 10](https://www.govinfo.gov/link/plaw/95/public/151), Nov. 1, 1977, [91 Stat. 1252](https://www.govinfo.gov/link/statute/91/1252); [Pub. L. 101–157, § 9](https://www.govinfo.gov/link/plaw/101/public/157), Nov. 17, 1989, [103 Stat. 945](https://www.govinfo.gov/link/statute/103/945); [Pub. L. 101–508, title III, § 3103](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–29](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 104–174, § 2](https://www.govinfo.gov/link/plaw/104/public/174), Aug. 6, 1996, [110 Stat. 1554](https://www.govinfo.gov/link/statute/110/1554); [Pub. L. 110–233, title III, § 302(a)](https://www.govinfo.gov/link/plaw/110/public/233), May 21, 2008, [122 Stat. 920](https://www.govinfo.gov/link/statute/122/920); [Pub. L. 115–141, div. S, title XII, § 1201(b)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1148](https://www.govinfo.gov/link/statute/132/1148); [Pub. L. 117–328, div. KK, § 102(b)(2)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 6096](https://www.govinfo.gov/link/statute/136/6096).)*

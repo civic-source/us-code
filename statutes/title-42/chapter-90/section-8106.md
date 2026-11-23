@@ -3,9 +3,10 @@ title: "Section 8106 - Reports and audits"
 usc_title: 42
 usc_section: "8106"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8106"
-generated_at: "2026-03-30T02:56:11.334Z"
+generated_at: "2026-11-23T21:26:33.182Z"
+status: "active"
 ---
 
 # § 8106. Reports and audits
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.334Z"
 - **(c)** In addition to the annual audit, the financial transactions of the corporation for any fiscal year during which Federal funds are available to finance any portion of its operations may be audited by the Government Accountability Office in accordance with such rules and regulations as may be prescribed by the Comptroller General of the United States.
 - **(d)** For any fiscal year during which Federal funds are available to finance any portion of the corporation’s grants or contracts, the Government Accountability Office, in accordance with such rules and regulations as may be prescribed by the Comptroller General of the United States, may audit the grantees or contractors of the corporation.
 - **(e)** The corporation shall conduct or require each grantee or contractor to provide for an annual financial audit. The report of each such audit shall be maintained for a period of at least five years at the principal office of the corporation.
+
+## Source Credit
+
+*([Pub. L. 95–557, title VI, § 607](https://www.govinfo.gov/link/plaw/95/public/557), Oct. 31, 1978, [92 Stat. 2118](https://www.govinfo.gov/link/statute/92/2118); [Pub. L. 104–66, title II, § 2161](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 731](https://www.govinfo.gov/link/statute/109/731); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

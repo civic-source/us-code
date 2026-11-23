@@ -3,9 +3,10 @@ title: "Section 1439 - Naturalization through service in the armed forces"
 usc_title: 8
 usc_section: "1439"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1439"
-generated_at: "2026-03-30T02:53:10.501Z"
+generated_at: "2026-11-23T21:25:25.194Z"
+status: "active"
 ---
 
 # § 1439. Naturalization through service in the armed forces
@@ -20,3 +21,11 @@ generated_at: "2026-03-30T02:53:10.501Z"
 - **(d)** The applicant shall comply with the requirements of section 1427(a) of this title , if the termination of such service has been more than six months preceding the date of filing the application for naturalization, except that such service within five years immediately preceding the date of filing such application shall be considered as residence and physical presence within the United States.
 - **(e)** Any such period or periods of service under honorable conditions, and good moral character, attachment to the principles of the Constitution of the United States, and favorable disposition toward the good order and happiness of the United States, during such service, shall be proved by duly authenticated copies of the records of the executive departments having custody of the records of such service, and such authenticated copies of records shall be accepted in lieu of compliance with the provisions of section 1427(a) of this title .
 - **(f)** Citizenship granted pursuant to this section may be revoked in accordance with section 1451 of this title if the person is separated from the Armed Forces under other than honorable conditions before the person has served honorably for a period or periods aggregating five years. Such ground for revocation shall be in addition to any other provided by law, including the grounds described in section 1451 of this title . The fact that the naturalized person was separated from the service under other than honorable conditions shall be proved by a duly authenticated certification from the executive department under which the person was serving at the time of separation. Any period or periods of service shall be proved by duly authenticated copies of the records of the executive departments having custody of the records of such service.
+
+In General
+
+Exception
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title III, ch. 2, § 328, [66 Stat. 249](https://www.govinfo.gov/link/statute/66/249); [Pub. L. 90–633, § 5](https://www.govinfo.gov/link/plaw/90/public/633), Oct. 24, 1968, [82 Stat. 1344](https://www.govinfo.gov/link/statute/82/1344); [Pub. L. 97–116, § 15(e)](https://www.govinfo.gov/link/plaw/97/public/116), Dec. 29, 1981, [95 Stat. 1619](https://www.govinfo.gov/link/statute/95/1619); [Pub. L. 101–649, title IV, § 407(b)(4)](https://www.govinfo.gov/link/plaw/101/public/649), (c)(10), (d)(8), Nov. 29, 1990, [104 Stat. 5040–5042](https://www.govinfo.gov/link/statute/104/5040); [Pub. L. 102–232, title III, § 305(c)](https://www.govinfo.gov/link/plaw/102/public/232), Dec. 12, 1991, [105 Stat. 1750](https://www.govinfo.gov/link/statute/105/1750); [Pub. L. 108–136, div. A, title XVII, § 1701(a)](https://www.govinfo.gov/link/plaw/108/public/136), (b)(1), (c)(1)(A), (f), Nov. 24, 2003, [117 Stat. 1691](https://www.govinfo.gov/link/statute/117/1691), 1692; [Pub. L. 110–382, § 3(a)](https://www.govinfo.gov/link/plaw/110/public/382), Oct. 9, 2008, [122 Stat. 4088](https://www.govinfo.gov/link/statute/122/4088).)*

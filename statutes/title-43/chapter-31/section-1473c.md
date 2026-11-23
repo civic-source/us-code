@@ -3,12 +3,17 @@ title: "Section 1473c - Payment of costs incidental to services contributed by v
 usc_title: 43
 usc_section: "1473c"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1473c"
-generated_at: "2026-03-30T02:55:57.474Z"
+generated_at: "2026-11-23T21:26:19.840Z"
+status: "active"
 ---
 
 # § 1473c. Payment of costs incidental to services contributed by volunteers
 
 Appropriations under this title 1 1 See References in Text note below. in fiscal year 1992 and thereafter, may be made available for paying costs incidental to the utilization of services contributed by individuals who serve without compensation as volunteers in aid of work for units of the Department of the Interior.
 
+
+## Source Credit
+
+*([Pub. L. 102–154, title I, § 116](https://www.govinfo.gov/link/plaw/102/public/154), Nov. 13, 1991, [105 Stat. 1012](https://www.govinfo.gov/link/statute/105/1012).)*

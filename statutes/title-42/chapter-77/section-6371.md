@@ -3,9 +3,10 @@ title: "Section 6371 - Definitions"
 usc_title: 42
 usc_section: "6371"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6371"
-generated_at: "2026-03-30T02:56:11.258Z"
+generated_at: "2026-11-23T21:26:32.938Z"
+status: "active"
 ---
 
 # § 6371. Definitions
@@ -69,3 +70,11 @@ For the purposes of this part—
   - **(19)** The term “energy conservation maintenance and operating procedure” means modification or modifications in the maintenance and operations of a building, and any installations therein, which are designed to reduce energy consumption in such building and which require no significant expenditure of funds.
   - **(20)** The term “Secretary” means the Secretary of Energy or his designee.
   - **(21)** The term “Governor” means the chief executive officer of a State or his designee.
+
+Findings
+
+Purpose
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 391](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 95–619, title III, § 302(a)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3239](https://www.govinfo.gov/link/statute/92/3239); amended [Pub. L. 98–454, title VI, § 601(e)](https://www.govinfo.gov/link/plaw/98/public/454), Oct. 5, 1984, [98 Stat. 1736](https://www.govinfo.gov/link/statute/98/1736); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 101–440, § 6(b)](https://www.govinfo.gov/link/plaw/101/public/440), Oct. 18, 1990, [104 Stat. 1011](https://www.govinfo.gov/link/statute/104/1011); [Pub. L. 105–388, § 5(a)(9)](https://www.govinfo.gov/link/plaw/105/public/388), Nov. 13, 1998, [112 Stat. 3478](https://www.govinfo.gov/link/statute/112/3478).)*

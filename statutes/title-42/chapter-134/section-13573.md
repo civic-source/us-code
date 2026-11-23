@@ -3,9 +3,10 @@ title: "Section 13573 - Generation projects"
 usc_title: 42
 usc_section: "13573"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13573"
-generated_at: "2026-03-30T02:56:11.449Z"
+generated_at: "2026-11-23T21:26:33.619Z"
+status: "active"
 ---
 
 # § 13573. Generation projects
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:11.449Z"
   - **(3)** $400,000,000 for each of fiscal years 2009 through 2012; and
   - **(4)** $300,000,000 for fiscal year 2013.
 - **(e)** No technology, or level of emission reduction, shall be treated as adequately demonstrated for purpose 1 1 So in original. Probably should be “purposes”. of section 7411 of this title , achievable for purposes of section 7479 of this title , or achievable in practice for purposes of section 7501 of this title solely by reason of the use of such technology, or the achievement of such emission reduction, by one or more facilities receiving assistance under section 13572(a)(1) of this title .
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXXI, § 3103](https://www.govinfo.gov/link/plaw/102/public/486), as added [Pub. L. 109–58, title IV, § 421(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 758](https://www.govinfo.gov/link/statute/119/758).)*

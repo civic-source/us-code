@@ -3,9 +3,10 @@ title: "Section 77t - Injunctions and prosecution of offenses"
 usc_title: 15
 usc_section: "77t"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 77t"
-generated_at: "2026-03-30T02:54:08.034Z"
+generated_at: "2026-11-23T21:25:39.508Z"
+status: "active"
 ---
 
 # § 77t. Injunctions and prosecution of offenses
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:08.034Z"
 - **(g)**
   - **(1)** In any proceeding under subsection (a) against any person participating in, or, at the time of the alleged misconduct, who was participating in, an offering of penny stock, the court may prohibit that person from participating in an offering of penny stock, conditionally or unconditionally, and permanently or for such period of time as the court shall determine.
   - **(2)** For purposes of this subsection, the term “person participating in an offering of penny stock” includes any person engaging in activities with a broker, dealer, or issuer for purposes of issuing, trading, or inducing or attempting to induce the purchase or sale of, any penny stock. The Commission may, by rule or regulation, define such term to include other activities, and may, by rule, regulation, or order, exempt any person or class of persons, in whole or in part, conditionally or unconditionally, from inclusion in such term.
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title I, § 20, [48 Stat. 86](https://www.govinfo.gov/link/statute/48/86); [Pub. L. 100–181, title II, § 208](https://www.govinfo.gov/link/plaw/100/public/181), Dec. 4, 1987, [101 Stat. 1253](https://www.govinfo.gov/link/statute/101/1253); [Pub. L. 101–429, title I, § 101](https://www.govinfo.gov/link/plaw/101/public/429), Oct. 15, 1990, [104 Stat. 932](https://www.govinfo.gov/link/statute/104/932); [Pub. L. 104–67, title I, § 103(b)(1)](https://www.govinfo.gov/link/plaw/104/public/67), Dec. 22, 1995, [109 Stat. 756](https://www.govinfo.gov/link/statute/109/756); [Pub. L. 107–204, title III](https://www.govinfo.gov/link/plaw/107/public/204), §§ 305(a)(2), 308(d)(3), title VI, § 603(b), July 30, 2002, [116 Stat. 779](https://www.govinfo.gov/link/statute/116/779), 785, 795; [Pub. L. 111–203, title IX, § 923(a)(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1849](https://www.govinfo.gov/link/statute/124/1849).)*

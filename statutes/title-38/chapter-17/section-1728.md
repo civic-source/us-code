@@ -3,9 +3,10 @@ title: "Section 1728 - Reimbursement of certain medical expenses"
 usc_title: 38
 usc_section: "1728"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1728"
-generated_at: "2026-03-30T02:55:53.487Z"
+generated_at: "2026-11-23T21:26:16.659Z"
+status: "active"
 ---
 
 # § 1728. Reimbursement of certain medical expenses
@@ -26,3 +27,15 @@ generated_at: "2026-03-30T02:55:53.487Z"
     - **(A)** an administrative error made by the individual or entity, such as submission of the claim to the wrong Federal agency or submission of the claim after the deadline; or
     - **(B)** an administrative error made by the Department, such as misplacement of a paper claim or deletion of an electronic claim.
 - **(d)** In this section, the term “emergency treatment” has the meaning given such term in section 1725(h)(1) of this title .
+
+In General
+
+Amount Covered
+
+Sunset
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 93–82, title I, § 106(a)](https://www.govinfo.gov/link/plaw/93/public/82), Aug. 2, 1973, [87 Stat. 183](https://www.govinfo.gov/link/statute/87/183), § 628; amended [Pub. L. 94–581, title II](https://www.govinfo.gov/link/plaw/94/public/581), §§ 202(n), 210(a)(13), Oct. 21, 1976, [90 Stat. 2856](https://www.govinfo.gov/link/statute/90/2856), 2863; [Pub. L. 96–151, title II, § 201(d)](https://www.govinfo.gov/link/plaw/96/public/151), Dec. 20, 1979, [93 Stat. 1093](https://www.govinfo.gov/link/statute/93/1093); [Pub. L. 101–237, title II, § 202(a)](https://www.govinfo.gov/link/plaw/101/public/237), Dec. 18, 1989, [103 Stat. 2066](https://www.govinfo.gov/link/statute/103/2066); [Pub. L. 102–54, § 14(b)(14)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 284](https://www.govinfo.gov/link/statute/105/284); renumbered § 1728 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406](https://www.govinfo.gov/link/statute/105/404); [Pub. L. 110–387, title IV, § 402(b)](https://www.govinfo.gov/link/plaw/110/public/387), Oct. 10, 2008, [122 Stat. 4123](https://www.govinfo.gov/link/statute/122/4123); [Pub. L. 117–328, div. U, title I, § 142(b)](https://www.govinfo.gov/link/plaw/117/public/328), (c)(3), Dec. 29, 2022, [136 Stat. 5424](https://www.govinfo.gov/link/statute/136/5424); [Pub. L. 117–333, § 3(e)(3)(B)(i)](https://www.govinfo.gov/link/plaw/117/public/333), Jan. 5, 2023, [136 Stat. 6128](https://www.govinfo.gov/link/statute/136/6128).)*

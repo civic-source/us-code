@@ -3,9 +3,10 @@ title: "Section 300h - Regulations for State programs"
 usc_title: 42
 usc_section: "300h"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 300h"
-generated_at: "2026-03-30T02:56:10.799Z"
+generated_at: "2026-11-23T21:26:30.732Z"
+status: "active"
 ---
 
 # § 300h. Regulations for State programs
@@ -46,3 +47,9 @@ generated_at: "2026-03-30T02:56:10.799Z"
       - **(i)** the underground injection of natural gas for purposes of storage; and
       - **(ii)** the underground injection of fluids or propping agents (other than diesel fuels) pursuant to hydraulic fracturing operations related to oil, gas, or geothermal production activities.
   - **(2)** Underground injection endangers drinking water sources if such injection may result in the presence in underground water which supplies or can reasonably be expected to supply any public water system of any contaminant, and if the presence of such contaminant may result in such system’s not complying with any national primary drinking water regulation or may otherwise adversely affect the health of persons.
+
+Underground injection
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XIV, § 1421, as added [Pub. L. 93–523, § 2(a)](https://www.govinfo.gov/link/plaw/93/public/523), Dec. 16, 1974, [88 Stat. 1674](https://www.govinfo.gov/link/statute/88/1674); amended [Pub. L. 95–190, § 6(b)](https://www.govinfo.gov/link/plaw/95/public/190), Nov. 16, 1977, [91 Stat. 1396](https://www.govinfo.gov/link/statute/91/1396); [Pub. L. 96–502](https://www.govinfo.gov/link/plaw/96/public/502), §§ 3, 4(c), Dec. 5, 1980, [94 Stat. 2738](https://www.govinfo.gov/link/statute/94/2738); [Pub. L. 99–339, title II, § 201(a)](https://www.govinfo.gov/link/plaw/99/public/339), June 19, 1986, [100 Stat. 653](https://www.govinfo.gov/link/statute/100/653); [Pub. L. 104–182, title V, § 501(b)(1)](https://www.govinfo.gov/link/plaw/104/public/182), Aug. 6, 1996, [110 Stat. 1691](https://www.govinfo.gov/link/statute/110/1691); [Pub. L. 109–58, title III, § 322](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 694](https://www.govinfo.gov/link/statute/119/694).)*

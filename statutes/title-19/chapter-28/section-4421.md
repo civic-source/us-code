@@ -3,9 +3,10 @@ title: "Section 4421 - Enhancement of engagement on currency exchange rate and e
 usc_title: 19
 usc_section: "4421"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4421"
-generated_at: "2026-03-30T02:54:24.708Z"
+generated_at: "2026-11-23T21:25:42.884Z"
+status: "active"
 ---
 
 # § 4421. Enhancement of engagement on currency exchange rate and economic policies with certain major trading partners of the United States
@@ -63,3 +64,15 @@ generated_at: "2026-03-30T02:54:24.708Z"
   - **(2)** The term “country” means a foreign country, dependent territory, or possession of a foreign country, and may include an association of 2 or more foreign countries, dependent territories, or possessions of countries into a customs union outside the United States.
   - **(3)** The term “real effective exchange rate” means a weighted average of bilateral exchange rates, expressed in price-adjusted terms.
   - **(4)** The term “Secretary” means the Secretary of the Treasury.
+
+Section
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 114–125, title VII, § 701](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 195](https://www.govinfo.gov/link/statute/130/195); [Pub. L. 115–254, div. F, title VI, § 1470(h)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3516](https://www.govinfo.gov/link/statute/132/3516).)*

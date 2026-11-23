@@ -3,12 +3,17 @@ title: "Section 280 - Representation in South Pacific Commission; appointment of
 usc_title: 22
 usc_section: "280"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 280"
-generated_at: "2026-03-30T02:55:05.313Z"
+generated_at: "2026-11-23T21:25:58.351Z"
+status: "active"
 ---
 
 # § 280. Representation in South Pacific Commission; appointment of commissioners and alternates
 
 The President is hereby authorized to accept membership for the United States in the South Pacific Commission, created by the Agreement Establishing the South Pacific Commission, signed on February 6, 1947 , at Canberra, Australia, by delegates representing the Governments of Australia, the French Republic, the Kingdom of the Netherlands, New Zealand, the United Kingdom of Great Britain and Northern Ireland, and the United States of America, and to appoint the United States Commissioners, and their alternates, thereto.
 
+
+## Source Credit
+
+*(Jan. 28, 1948, ch. 38, § 1, [62 Stat. 15](https://www.govinfo.gov/link/statute/62/15).)*

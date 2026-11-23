@@ -3,9 +3,10 @@ title: "Section 544b - Establishment of scenic area"
 usc_title: 16
 usc_section: "544b"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 544b"
-generated_at: "2026-03-30T02:54:22.870Z"
+generated_at: "2026-11-23T21:25:51.666Z"
+status: "active"
 ---
 
 # § 544b. Establishment of scenic area
@@ -37,3 +38,17 @@ generated_at: "2026-03-30T02:54:22.870Z"
     - **(B)** revision of urban area boundaries would be consistent with the standards established in section 544d of this title and the purposes of sections 544 to 544p of this title;
     - **(C)** revision of urban area boundaries would result in maximum efficiency of land uses within and on the fringe of existing urban areas; and
     - **(D)** revision of urban area boundaries would not result in the significant reduction of agricultural lands, forest lands, or open spaces.
+
+Boundaries.—
+
+In general
+
+Exclusions
+
+Modification of boundaries
+
+“The amendment made by subsection (a) [amending this section]—
+
+## Source Credit
+
+*([Pub. L. 99–663, § 4](https://www.govinfo.gov/link/plaw/99/public/663), Nov. 17, 1986, [100 Stat. 4276](https://www.govinfo.gov/link/statute/100/4276); [Pub. L. 103–437, § 6(d)(34)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4585](https://www.govinfo.gov/link/statute/108/4585); [Pub. L. 105–277, div. A, § 101(e) [title III, § 354(a)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–231](https://www.govinfo.gov/link/statute/112/2681), 2681–303; [Pub. L. 106–31, title V, § 5004(3)](https://www.govinfo.gov/link/plaw/106/public/31), May 21, 1999, [113 Stat. 110](https://www.govinfo.gov/link/statute/113/110); [Pub. L. 106–291, title III, § 346(d)](https://www.govinfo.gov/link/plaw/106/public/291), Oct. 11, 2000, [114 Stat. 1000](https://www.govinfo.gov/link/statute/114/1000).)*

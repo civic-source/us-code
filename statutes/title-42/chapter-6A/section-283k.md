@@ -3,9 +3,10 @@ title: "Section 283k - Biomedical and behavioral research facilities"
 usc_title: 42
 usc_section: "283k"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 283k"
-generated_at: "2026-03-30T02:56:10.738Z"
+generated_at: "2026-11-23T21:26:30.463Z"
+status: "active"
 ---
 
 # § 283k. Biomedical and behavioral research facilities
@@ -77,3 +78,9 @@ generated_at: "2026-03-30T02:56:10.738Z"
   - **(1)** in the case of an award by the Director of NIH, acting through the Office of the Director of NIH, the applicant or other owner of the facility shall cease to be a public or non profit 3 3 So in original. Probably should be “nonprofit”. private entity; or
   - **(2)** the facility shall cease to be used for the research purposes for which it was constructed (unless the Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases, determines, in accordance with regulations, that there is good cause for releasing the applicant or other owner from obligation to do so),
 - **(g)** Not later than 6 months after June 10, 1993 , the Director of NIH, acting through the Office of the Director of NIH, after consultation with the Council, shall issue guidelines with respect to grants under subsection (a).
+
+“Congress finds that—
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 404I, formerly § 481A, as added [Pub. L. 103–43, title XV, § 1502](https://www.govinfo.gov/link/plaw/103/public/43), June 10, 1993, [107 Stat. 173](https://www.govinfo.gov/link/statute/107/173); amended [Pub. L. 105–392, title I, § 101(c)](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3537](https://www.govinfo.gov/link/statute/112/3537); [Pub. L. 106–505, title III, § 303](https://www.govinfo.gov/link/plaw/106/public/505), Nov. 13, 2000, [114 Stat. 2330](https://www.govinfo.gov/link/statute/114/2330); [Pub. L. 108–276, § 2(b)](https://www.govinfo.gov/link/plaw/108/public/276), July 21, 2004, [118 Stat. 841](https://www.govinfo.gov/link/statute/118/841); [Pub. L. 109–482, title I](https://www.govinfo.gov/link/plaw/109/public/482), §§ 103(b)(40), 104(b)(1)(M), Jan. 15, 2007, [120 Stat. 3688](https://www.govinfo.gov/link/statute/120/3688), 3693; renumbered § 404I and amended [Pub. L. 112–74, div. F, title II, § 221(b)(1)](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 1087](https://www.govinfo.gov/link/statute/125/1087).)*

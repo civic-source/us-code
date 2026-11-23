@@ -3,9 +3,10 @@ title: "Section 9616 - Schedules"
 usc_title: 42
 usc_section: "9616"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9616"
-generated_at: "2026-03-30T02:56:11.359Z"
+generated_at: "2026-11-23T21:26:33.258Z"
+status: "active"
 ---
 
 # § 9616. Schedules
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.359Z"
 - **(e)** The President shall assure that substantial and continuous physical on-site remedial action commences at facilities on the National Priorities List, in addition to those facilities on which remedial action has commenced prior to October 17, 1986 , at a rate not fewer than:
   - **(1)** 175 facilities during the first 36-month period after October 17, 1986 ; and
   - **(2)** 200 additional facilities during the following 24 months after such 36-month period.
+
+## Source Credit
+
+*([Pub. L. 96–510, title I, § 116](https://www.govinfo.gov/link/plaw/96/public/510), as added [Pub. L. 99–499, title I, § 116](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1653](https://www.govinfo.gov/link/statute/100/1653).)*

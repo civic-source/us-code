@@ -3,9 +3,10 @@ title: "Section 1602 - Definitions"
 usc_title: 2
 usc_section: "1602"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1602"
-generated_at: "2026-03-30T02:53:04.815Z"
+generated_at: "2026-11-23T21:25:21.235Z"
+status: "active"
 ---
 
 # § 1602. Definitions
@@ -89,3 +90,7 @@ As used in this chapter:
     - **(E)** a national or State political party or any organizational unit thereof; or
     - **(F)** a national, regional, or local unit of any foreign government, or a group of governments acting together as an international organization.
   - **(16)** The term “State” means each of the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
+## Source Credit
+
+*([Pub. L. 104–65, § 3](https://www.govinfo.gov/link/plaw/104/public/65), Dec. 19, 1995, [109 Stat. 691](https://www.govinfo.gov/link/statute/109/691); [Pub. L. 105–166](https://www.govinfo.gov/link/plaw/105/public/166), §§ 2, 3, Apr. 6, 1998, [112 Stat. 38](https://www.govinfo.gov/link/statute/112/38); [Pub. L. 110–81, title II, § 201(b)(1)](https://www.govinfo.gov/link/plaw/110/public/81), Sept. 14, 2007, [121 Stat. 742](https://www.govinfo.gov/link/statute/121/742); [Pub. L. 117–286, § 4(a)(2)](https://www.govinfo.gov/link/plaw/117/public/286), (b)(2), (c)(3), Dec. 27, 2022, [136 Stat. 4305](https://www.govinfo.gov/link/statute/136/4305), 4342, 4353.)*

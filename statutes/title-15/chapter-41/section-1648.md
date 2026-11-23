@@ -3,9 +3,10 @@ title: "Section 1648 - Reverse mortgages"
 usc_title: 15
 usc_section: "1648"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1648"
-generated_at: "2026-03-30T02:54:08.144Z"
+generated_at: "2026-11-23T21:25:39.860Z"
+status: "active"
 ---
 
 # § 1648. Reverse mortgages
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.144Z"
   - **(2)** all costs and charges to the consumer, including the costs of any associated annuity that the consumer elects or is required to purchase as part of the reverse mortgage transaction;
   - **(3)** all payments to and for the benefit of the consumer, including, in the case in which an associated annuity is purchased (whether or not required by the lender as a condition of making the reverse mortgage), the annuity payments received by the consumer and financed from the proceeds of the loan, instead of the proceeds used to finance the annuity; and
   - **(4)** any limitation on the liability of the consumer under reverse mortgage transactions (such as nonrecourse limits and equity conservation agreements).
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 138](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 103–325, title I, § 154(b)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2196](https://www.govinfo.gov/link/statute/108/2196); amended [Pub. L. 111–203, title X, § 1100A(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2107](https://www.govinfo.gov/link/statute/124/2107).)*

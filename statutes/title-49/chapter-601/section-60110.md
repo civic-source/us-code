@@ -3,9 +3,10 @@ title: "Section 60110 - Excess flow valves"
 usc_title: 49
 usc_section: "60110"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 60110"
-generated_at: "2026-03-30T02:56:19.414Z"
+generated_at: "2026-11-23T21:26:41.023Z"
+status: "active"
 ---
 
 # § 60110. Excess flow valves
@@ -29,3 +30,50 @@ generated_at: "2026-03-30T02:56:19.414Z"
   - **(2)** The standards shall provide that, except when installation is required under subsection (b) of this section, excess flow valves shall be installed at the request of the customer if the customer will pay all costs associated with installation.
 - **(d)** If the Secretary decides under subsection (b) of this section that there are no circumstances under which an operator must install excess flow valves, the Secretary shall submit to Congress a report on the reasons for the decision not later than 30 days after the decision is made.
 - **(e)** Not later than April 24, 1994 , the Secretary shall develop standards for the performance of excess flow valves used to protect lines in a natural gas distribution system. The Secretary may adopt industry accepted performance standards in order to comply with the requirement under the preceding sentence. The standards shall be incorporated into regulations the Secretary prescribes under this section. All excess flow valves shall be installed according to the standards.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60110(a) | 49 App.:1672(j)(5). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 3(j); added Oct. 24, 1992 , Pub. L. 102–508, § 104 , 106 Stat. 3291 . |
+| 60110(b) | 49 App.:1672(j)(1). |  |
+| 60110(c) | 49 App.:1672(j)(2). |  |
+| 60110(d) | 49 App.:1672(j)(3). |  |
+| 60110(e) | 49 App.:1672(j)(4). |  |
+
+
+Application
+
+Installation Requirements and Considerations
+
+Notification of Availability
+
+Report
+
+Performance Standards
+
+Historical and Revision Notes
+
+60110(a)
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 104
+
+106 Stat. 3291
+
+60110(b)
+
+60110(c)
+
+60110(d)
+
+60110(e)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1316](https://www.govinfo.gov/link/statute/108/1316); [Pub. L. 104–304](https://www.govinfo.gov/link/plaw/104/public/304), §§ 8, 20(j), Oct. 12, 1996, [110 Stat. 3800](https://www.govinfo.gov/link/statute/110/3800), 3805; [Pub. L. 107–355, § 21(1)](https://www.govinfo.gov/link/plaw/107/public/355), Dec. 17, 2002, [116 Stat. 3010](https://www.govinfo.gov/link/statute/116/3010).)*

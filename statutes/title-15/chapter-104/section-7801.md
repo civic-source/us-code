@@ -3,9 +3,10 @@ title: "Section 7801 - Definitions"
 usc_title: 15
 usc_section: "7801"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7801"
-generated_at: "2026-03-30T02:54:08.226Z"
+generated_at: "2026-11-23T21:25:40.069Z"
+status: "active"
 ---
 
 # § 7801. Definitions
@@ -21,3 +22,7 @@ As used in this chapter, the following definitions apply:
   - **(7)** The term “professional sports contract” means an agreement under which an individual is employed, or agrees to render services, as a player on a professional sports team, with a professional sports organization, or as a professional athlete.
   - **(8)** The term “State” includes a State of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States.
   - **(9)** The term “student athlete” means an individual who engages in, is eligible to engage in, or may be eligible in the future to engage in, any intercollegiate sport. An individual who is permanently ineligible to participate in a particular intercollegiate sport is not a student athlete for purposes of that sport.
+
+## Source Credit
+
+*([Pub. L. 108–304, § 2](https://www.govinfo.gov/link/plaw/108/public/304), Sept. 24, 2004, [118 Stat. 1125](https://www.govinfo.gov/link/statute/118/1125).)*

@@ -3,9 +3,10 @@ title: "Section 632 - Annual adoption of concurrent resolution on the budget"
 usc_title: 2
 usc_section: "632"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 632"
-generated_at: "2026-03-30T02:53:04.799Z"
+generated_at: "2026-11-23T21:25:21.169Z"
+status: "active"
 ---
 
 # § 632. Annual adoption of concurrent resolution on the budget
@@ -55,3 +56,15 @@ generated_at: "2026-03-30T02:53:04.799Z"
   - **(3)** Subject to periodic reestimation based on changed economic conditions or technical estimates, determinations under titles III and IV of the Congressional Budget Act of 1974 [ 2 U.S.C. 631 et seq., 651 et seq.] shall be based upon such common economic and technical assumptions.
 - **(h)** The Committee on the Budget of the House of Representatives shall consult with the committees of its House having legislative jurisdiction during the preparation, consideration, and enforcement of the concurrent resolution on the budget with respect to all matters which relate to the jurisdiction or functions of such committees.
 - **(i)** It shall not be in order in the Senate to consider any concurrent resolution on the budget (or amendment, motion, or conference report on the resolution) that would decrease the excess of social security revenues over social security outlays in any of the fiscal years covered by the concurrent resolution. No change in chapter 1 of the Internal Revenue Code of 1986 [ 26 U.S.C. 1 et seq.] shall be treated as affecting the amount of social security revenues unless such provision changes the income tax treatment of social security benefits.
+
+“Notwithstanding any other provision of law, the receipts and disbursements of the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund shall not be counted as new budget authority, outlays, receipts, or deficit or surplus for purposes of—
+
+In General
+
+Application
+
+Definitions
+
+## Source Credit
+
+*([Pub. L. 93–344, title III, § 301](https://www.govinfo.gov/link/plaw/93/public/344), July 12, 1974, [88 Stat. 306](https://www.govinfo.gov/link/statute/88/306); [Pub. L. 95–523, title III](https://www.govinfo.gov/link/plaw/95/public/523), §§ 303(a), 304, Oct. 27, 1978, [92 Stat. 1905](https://www.govinfo.gov/link/statute/92/1905), 1906; [Pub. L. 99–177, title II, § 201(b)](https://www.govinfo.gov/link/plaw/99/public/177), Dec. 12, 1985, [99 Stat. 1040](https://www.govinfo.gov/link/statute/99/1040); [Pub. L. 100–119, title I, § 106(d)](https://www.govinfo.gov/link/plaw/100/public/119), title II, § 208(a), Sept. 29, 1987, [101 Stat. 781](https://www.govinfo.gov/link/statute/101/781), 786; [Pub. L. 100–418, title V, § 5302](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1462](https://www.govinfo.gov/link/statute/102/1462); [Pub. L. 101–508, title XIII](https://www.govinfo.gov/link/plaw/101/public/508), §§ 13112(a)(5), 13203, 13204, 13301(b), 13303(a), (b), Nov. 5, 1990, [104 Stat. 1388–608](https://www.govinfo.gov/link/statute/104/1388), 1388–615, 1388–616, 1388–623, 1388–625; [Pub. L. 104–4, title I, § 102(2)](https://www.govinfo.gov/link/plaw/104/public/4), Mar. 22, 1995, [109 Stat. 62](https://www.govinfo.gov/link/statute/109/62); [Pub. L. 105–33, title X, § 10105(a)](https://www.govinfo.gov/link/plaw/105/public/33) –(f)(1), Aug. 5, 1997, [111 Stat. 679](https://www.govinfo.gov/link/statute/111/679), 680; [Pub. L. 113–67, div. A, title I, § 122(1)](https://www.govinfo.gov/link/plaw/113/public/67), (2), Dec. 26, 2013, [127 Stat. 1175](https://www.govinfo.gov/link/statute/127/1175).)*

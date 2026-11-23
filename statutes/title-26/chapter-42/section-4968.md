@@ -3,9 +3,10 @@ title: "Section 4968 - Excise tax based on investment income of private colleges
 usc_title: 26
 usc_section: "4968"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4968"
-generated_at: "2026-03-30T02:55:27.810Z"
+generated_at: "2026-11-23T21:26:06.656Z"
+status: "active"
 ---
 
 # § 4968. Excise tax based on investment income of private colleges and universities
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:27.810Z"
     - **(B)** is controlled by 1 or more persons which also control such institution, or
     - **(C)** is a supported organization (as defined in section 509(f)(3)), or an organization described in section 509(a)(3), during the taxable year with respect to such institution.
 - **(h)** The Secretary shall prescribe such regulations or other guidance as may be necessary to prevent avoidance of the tax under this section, including regulations or other guidance to prevent avoidance of such tax through the restructuring of endowment funds or other arrangements designed to reduce or eliminate the value of net investment income or assets subject to the tax imposed by this section.
+
+## Source Credit
+
+*(Added [Pub. L. 115–97, title I, § 13701(a)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2167](https://www.govinfo.gov/link/statute/131/2167); amended [Pub. L. 115–123, div. D, title II, § 41109(a)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 159](https://www.govinfo.gov/link/statute/132/159); [Pub. L. 119–21, title VII, § 70415(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 221](https://www.govinfo.gov/link/statute/139/221).)*

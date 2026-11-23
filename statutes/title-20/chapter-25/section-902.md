@@ -3,9 +3,10 @@ title: "Section 902 - Regulations of Secretary of Defense"
 usc_title: 20
 usc_section: "902"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 902"
-generated_at: "2026-03-30T02:54:48.086Z"
+generated_at: "2026-11-23T21:25:46.969Z"
+status: "active"
 ---
 
 # § 902. Regulations of Secretary of Defense
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:48.086Z"
   - **(9)** quarters, allowances, and additional compensation for teachers; and
   - **(10)** such other matters as may be relevant and appropriate to the purposes of this chapter.
 - **(b)** The regulations prescribed and issued by the Secretary of Defense under subsection (a) of this section shall become effective on such date as the Secretary of Defense shall prescribe but not later than the ninetieth day following the date of issuance of such regulations.
+
+## Source Credit
+
+*([Pub. L. 86–91, § 4](https://www.govinfo.gov/link/plaw/86/public/91), July 17, 1959, [73 Stat. 214](https://www.govinfo.gov/link/statute/73/214); [Pub. L. 89–391, § 1(a)](https://www.govinfo.gov/link/plaw/89/public/391), Apr. 14, 1966, [80 Stat. 117](https://www.govinfo.gov/link/statute/80/117).)*

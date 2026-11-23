@@ -3,9 +3,10 @@ title: "Section 10361 - Grant authorization"
 usc_title: 34
 usc_section: "10361"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10361"
-generated_at: "2026-03-30T02:55:33.266Z"
+generated_at: "2026-11-23T21:26:09.645Z"
+status: "active"
 ---
 
 # § 10361. Grant authorization
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:33.266Z"
   - **(3)** reach an agreement within the State regarding the priorities of such State in the enforcement of criminal interstate child support legislation;
   - **(4)** develop a plan to implement such priorities; and
   - **(5)** coordinate criminal interstate child support enforcement efforts.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 1601](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 102–521, § 4(a)(3)](https://www.govinfo.gov/link/plaw/102/public/521), Oct. 25, 1992, [106 Stat. 3404](https://www.govinfo.gov/link/statute/106/3404).)*

@@ -3,9 +3,10 @@ title: "Section 610 - Appeal of adverse decision"
 usc_title: 42
 usc_section: "610"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 610"
-generated_at: "2026-03-30T02:56:10.874Z"
+generated_at: "2026-11-23T21:26:31.087Z"
+status: "active"
 ---
 
 # § 610. Appeal of adverse decision
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:10.874Z"
     - **(A)** the district court of the United States for the judicial district in which the principal or headquarters office of the State agency is located; or
     - **(B)** the United States District Court for the District of Columbia.
   - **(2)** The district court in which an action is filed under paragraph (1) shall review the final decision of the Board on the record established in the administrative proceeding, in accordance with the standards of review prescribed by subparagraphs (A) through (E) of section 706(2) of title 5 . The review shall be on the basis of the documents and supporting data submitted to the Board.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 410, as added [Pub. L. 104–193, title I, § 103(a)(1)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2148](https://www.govinfo.gov/link/statute/110/2148); amended [Pub. L. 105–33, title V, § 5514(c)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 620](https://www.govinfo.gov/link/statute/111/620).)*

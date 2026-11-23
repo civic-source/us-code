@@ -3,9 +3,10 @@ title: "Section 3531 - Multiyear contracts: acquisition of services"
 usc_title: 10
 usc_section: "3531"
 chapter: 249
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3531"
-generated_at: "2026-03-30T02:53:38.193Z"
+generated_at: "2026-11-23T21:25:32.731Z"
+status: "active"
 ---
 
 # § 3531. Multiyear contracts: acquisition of services
@@ -43,3 +44,31 @@ generated_at: "2026-03-30T02:53:38.193Z"
 - **(f)** For the purposes of this section, a multiyear contract is a contract for the purchase of services for more than one, but not more than five, program years. Such a contract may provide that performance under the contract during the second and subsequent years of the contract is contingent upon the appropriation of funds and (if it does so provide) may provide for a cancellation payment to be made to the contractor if such appropriations are not made.
 - **[(g)** Repealed. Pub. L. 108–136, div. A, title VIII, § 843(a) , Nov. 24, 2003 , 117 Stat. 1553 .]
 - **(h)** In this section, the term “military installation” has the meaning given such term in section 2801(c)(4) of this title .
+
+Authority
+
+Covered Services
+
+Applicable Principles
+
+Restrictions Applicable Generally
+
+Cancellation or Termination for Insufficient Funding After First Year
+
+Multiyear Contract Defined
+
+Military Installation Defined
+
+Establishment
+
+Study.—
+
+In general
+
+Report
+
+Comptroller General Report
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. A, title XVIII, § 1822(c)](https://www.govinfo.gov/link/plaw/116/public/283), formerly § 1822(m), Jan. 1, 2021, [134 Stat. 4203](https://www.govinfo.gov/link/statute/134/4203), as renumbered and amended [Pub. L. 117–81, div. A, title XVII, § 1701(k)(3)(A)(ii)](https://www.govinfo.gov/link/plaw/117/public/81), (B), Dec. 27, 2021, [135 Stat. 2143](https://www.govinfo.gov/link/statute/135/2143); amended [Pub. L. 116–283, div. A, title XVIII, § 1822(d)](https://www.govinfo.gov/link/plaw/116/public/283), as added [Pub. L. 117–81, div. A, title XVII, § 1701(k)(3)(D)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2143](https://www.govinfo.gov/link/statute/135/2143); [Pub. L. 117–81, div. A, title XVII, § 1701(k)(3)(C)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2143](https://www.govinfo.gov/link/statute/135/2143).)*

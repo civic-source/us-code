@@ -3,9 +3,10 @@ title: "Section 4010 - Civil liability"
 usc_title: 12
 usc_section: "4010"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4010"
-generated_at: "2026-03-30T02:53:53.500Z"
+generated_at: "2026-11-23T21:25:37.159Z"
+status: "active"
 ---
 
 # § 4010. Civil liability
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:53.500Z"
 - **(d)** Any action under this section may be brought in any United States district court, or in any other court of competent jurisdiction, within one year after the date of the occurrence of the violation involved.
 - **(e)** No provision of this section imposing any liability shall apply to any act done or omitted in good faith in conformity with any rule, regulation, or interpretation thereof by the Board of Governors of the Federal Reserve System, notwithstanding the fact that after such act or omission has occurred, such rule, regulation, or interpretation is amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
 - **(f)** The Board is authorized to impose on or allocate among depository institutions the risks of loss and liability in connection with any aspect of the payment system, including the receipt, payment, collection, or clearing of checks, and any related function of the payment system with respect to checks. Liability under this subsection shall not exceed the amount of the check giving rise to the loss or liability, and, where there is bad faith, other damages, if any, suffered as a proximate consequence of any act or omission giving rise to the loss or liability.
+
+## Source Credit
+
+*([Pub. L. 100–86, title VI, § 611](https://www.govinfo.gov/link/plaw/100/public/86), Aug. 10, 1987, [101 Stat. 650](https://www.govinfo.gov/link/statute/101/650).)*

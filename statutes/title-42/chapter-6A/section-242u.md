@@ -3,9 +3,10 @@ title: "Section 242u - Improving State, local, and Tribal information sharing"
 usc_title: 42
 usc_section: "242u"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 242u"
-generated_at: "2026-03-30T02:56:10.692Z"
+generated_at: "2026-11-23T21:26:30.254Z"
+status: "active"
 ---
 
 # § 242u. Improving State, local, and Tribal information sharing
@@ -20,3 +21,9 @@ generated_at: "2026-03-30T02:56:10.692Z"
 - **(d)** The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may exempt from disclosure under section 552(b)(3) of title 5 public health data that are gathered under this section if—
   - **(1)** an individual is identified through such data; or
   - **(2)** there is at least a very small risk, as determined by current scientific practices or statistical methods, that some combination of the information, the request, and other available data sources or the application of technology could be used to deduce the identity of an individual.
+
+“Nothing in this section [enacting this section, amending section 300hh–33 of this title , and enacting provisions set out as notes under sections 300hh and 300hh–33 of this title] shall be construed to—
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 310B, as added [Pub. L. 117–328, div. FF, title II, § 2213(d)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5737](https://www.govinfo.gov/link/statute/136/5737).)*

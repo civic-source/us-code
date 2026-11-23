@@ -3,9 +3,10 @@ title: "Section 1862b - Establishment of Program"
 usc_title: 42
 usc_section: "1862b"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1862b"
-generated_at: "2026-03-30T02:56:11.124Z"
+generated_at: "2026-11-23T21:26:32.200Z"
+status: "active"
 ---
 
 # § 1862b. Establishment of Program
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.124Z"
   - **(4)** the contribution that the project will make toward meeting national, regional, and institutional research and related training needs;
   - **(5)** in the case of an institution that historically has received relatively little Federal research and development funding, the contribution the proposed project will make to improving the institution’s academic scientific and engineering infrastructure and broadening the Nation’s science and engineering base; and
   - **(6)** the impact of the award on the overall geographic distribution of awards made under the Program, with the objective of avoiding undue concentration of awards.
+
+## Source Credit
+
+*([Pub. L. 100–570, title II, § 203](https://www.govinfo.gov/link/plaw/100/public/570), Oct. 31, 1988, [102 Stat. 2874](https://www.govinfo.gov/link/statute/102/2874).)*

@@ -3,9 +3,10 @@ title: "Section 4730 - Great Lakes and Lake Champlain Invasive Species Program"
 usc_title: 16
 usc_section: "4730"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4730"
-generated_at: "2026-03-30T02:54:23.048Z"
+generated_at: "2026-11-23T21:25:52.023Z"
+status: "active"
 ---
 
 # § 4730. Great Lakes and Lake Champlain Invasive Species Program
@@ -67,3 +68,7 @@ generated_at: "2026-03-30T02:54:23.048Z"
       - **(iii)** recommendations relating to activities that would contribute to achievement of the purposes described in paragraph (2)(B); and
       - **(iv)** recommendations to improve the efficiency and effectiveness of the Program.
   - **(7)** There is authorized to be appropriated to carry out the Program $50,000,000 for each of fiscal years 2019 through 2023.
+
+## Source Credit
+
+*([Pub. L. 115–282, title IX, § 903(g)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4359](https://www.govinfo.gov/link/statute/132/4359).)*

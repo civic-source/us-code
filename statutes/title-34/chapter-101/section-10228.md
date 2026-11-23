@@ -3,9 +3,10 @@ title: "Section 10228 - Prohibition of Federal control over State and local crim
 usc_title: 34
 usc_section: "10228"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10228"
-generated_at: "2026-03-30T02:55:33.262Z"
+generated_at: "2026-11-23T21:26:09.630Z"
+status: "active"
 ---
 
 # § 10228. Prohibition of Federal control over State and local criminal justice agencies; prohibition of discrimination
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:55:33.262Z"
     - **(A)** Whenever a State government or unit of local government, or any officer or employee thereof acting in an official capacity, has engaged or is engaging in any act or practice prohibited by this subsection, a civil action may be instituted after exhaustion of administrative remedies by the person aggrieved in an appropriate United States district court or in a State court of general jurisdiction. Administrative remedies shall be deemed to be exhausted upon the expiration of sixty days after the date the administrative complaint was filed with the Office of Justice Programs or any other administrative enforcement agency, unless within such period there has been a determination by the Office of Justice Programs or the agency on the merits of the complaint, in which case such remedies shall be deemed exhausted at the time the determination becomes final.
     - **(B)** In any civil action brought by a private person to enforce compliance with any provision of this subsection, the court may grant to a prevailing plaintiff reasonable attorney fees, unless the court determines that the lawsuit is frivolous, vexatious, brought for harassment purposes, or brought principally for the purpose of gaining attorney fees.
     - **(C)** In any action instituted under this section to enforce compliance with paragraph (1), the Attorney General, or a specially designated assistant for or in the name of the United States, may intervene upon timely application if he certifies that the action is of general public importance. In such action the United States shall be entitled to the same relief as if it had instituted the action.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 809](https://www.govinfo.gov/link/plaw/90/public/351), formerly § 815, as added [Pub. L. 96–157, § 2](https://www.govinfo.gov/link/plaw/96/public/157), Dec. 27, 1979, [93 Stat. 1206](https://www.govinfo.gov/link/statute/93/1206); renumbered § 809 and amended [Pub. L. 98–473, title II, § 609B(f)](https://www.govinfo.gov/link/plaw/98/public/473), (h)), Oct. 12, 1984, [98 Stat. 2093](https://www.govinfo.gov/link/statute/98/2093), 2095; [Pub. L. 103–322, title XXXIII, § 330001(h)(11)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2139](https://www.govinfo.gov/link/statute/108/2139).)*

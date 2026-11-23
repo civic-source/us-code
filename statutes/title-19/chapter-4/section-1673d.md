@@ -3,9 +3,10 @@ title: "Section 1673d - Final determinations"
 usc_title: 19
 usc_section: "1673d"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1673d"
-generated_at: "2026-03-30T02:54:24.652Z"
+generated_at: "2026-11-23T21:25:42.745Z"
+status: "active"
 ---
 
 # § 1673d. Final determinations
@@ -63,3 +64,13 @@ generated_at: "2026-03-30T02:54:24.652Z"
     - **(B)** If the estimated weighted average dumping margins established for all exporters and producers individually investigated are zero or de minimis margins, or are determined entirely under section 1677e of this title , the administering authority may use any reasonable method to establish the estimated all-others rate for exporters and producers not individually investigated, including averaging the estimated weighted average dumping margins determined for the exporters and producers individually investigated.
 - **(d)** Whenever the administering authority or the Commission makes a determination under this section, it shall notify the petitioner, other parties to the investigation, and the other agency of its determination and of the facts and conclusions of law upon which the determination is based, and it shall publish notice of its determination in the Federal Register.
 - **(e)** The administering authority shall establish procedures for the correction of ministerial errors in final determinations within a reasonable time after the determinations are issued under this section. Such procedures shall ensure opportunity for interested parties to present their views regarding any such errors. As used in this subsection, the term “ministerial error” includes errors in addition, subtraction, or other arithmetic function, clerical errors resulting from inaccurate copying, duplication, or the like, and any other type of unintentional error which the administering authority considers ministerial.
+
+Commission standard for retroactive application.—
+
+In general
+
+Factors to consider
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VII, § 735, as added [Pub. L. 96–39, title I, § 101](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 169](https://www.govinfo.gov/link/statute/93/169); amended [Pub. L. 98–573, title VI](https://www.govinfo.gov/link/plaw/98/public/573), §§ 602(c), 605(b), Oct. 30, 1984, [98 Stat. 3024](https://www.govinfo.gov/link/statute/98/3024), 3028; [Pub. L. 100–418, title I](https://www.govinfo.gov/link/plaw/100/public/418), §§ 1324(b)(3), 1333(a), Aug. 23, 1988, [102 Stat. 1201](https://www.govinfo.gov/link/statute/102/1201), 1209; [Pub. L. 103–465, title II](https://www.govinfo.gov/link/plaw/103/public/465), §§ 212(b)(2)(B), 213(b), 214(b)(2), 219(b), (c)(6)–(8), 233(a)(5)(V), Dec. 8, 1994, [108 Stat. 4849–4851](https://www.govinfo.gov/link/statute/108/4849), 4856, 4857, 4900; [Pub. L. 104–295, § 20(b)(6)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3527](https://www.govinfo.gov/link/statute/110/3527).)*

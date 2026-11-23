@@ -3,9 +3,10 @@ title: "Section 3610 - Definitions"
 usc_title: 20
 usc_section: "3610"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 3610"
-generated_at: "2026-03-30T02:54:48.180Z"
+generated_at: "2026-11-23T21:25:47.420Z"
+status: "active"
 ---
 
 # § 3610. Definitions
@@ -31,3 +32,7 @@ For purposes of this chapter—
   - **(7)** the term “Secretary” means the Secretary of Education, or his designee;
   - **(8)** the term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, the Bureau of Indian Affairs, and the Office of Overseas Schools of the Department of Defense; and
   - **(9)** the term “State educational agency” has the same meaning given such term by section 198(a)(17) 1 of the Elementary and Secondary Education Act of 1965.
+
+## Source Credit
+
+*([Pub. L. 96–270, § 11](https://www.govinfo.gov/link/plaw/96/public/270), June 14, 1980, [94 Stat. 496](https://www.govinfo.gov/link/statute/94/496).)*

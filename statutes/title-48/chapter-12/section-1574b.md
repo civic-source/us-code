@@ -3,9 +3,10 @@ title: "Section 1574b - Federal guarantee for issuance of revenue bonds or other
 usc_title: 48
 usc_section: "1574b"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1574b"
-generated_at: "2026-03-30T02:56:14.588Z"
+generated_at: "2026-11-23T21:26:38.011Z"
+status: "active"
 ---
 
 # § 1574b. Federal guarantee for issuance of revenue bonds or other obligations
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:14.588Z"
   - **(1)** There is hereby created within the Treasury a separate fund (hereinafter referred to as “the fund”) which shall be available to the Secretary without fiscal year limitation as revolving fund for the purpose of this Act. A business-type budget for the fund shall be prepared, transmitted to the Congress, considered, and enacted in the manner prescribed by law (sections 9103 and 9104 of title 31) for wholly owned Government corporations.
   - **(2)** All expenses, including reimbursements to other government accounts, and payments pursuant to operations of the Secretary under this Act shall be paid from the fund. If at any time the Secretary determines that moneys in the fund exceed the present and any reasonably prospective future requirements of the fund, such excess may be transferred to the general fund of the Treasury.
   - **(3)** If at any time the moneys available in the fund are insufficient to enable the Secretary to discharge his responsibilities under guarantees under this Act, he shall issue to the Secretary of the Treasury notes or other obligations in such forms and denominations, bearing such maturities, and subject to such terms and conditions, as may be prescribed by the Secretary of the Treasury. Redemption of such notes or obligations shall be made by the Secretary from appropriations which are hereby authorized for this purpose. Such notes or other obligations shall bear interest at a rate determined by the Secretary of the Treasury, which shall not be less than a rate determined by taking into consideration the average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of the notes or other obligations. The Secretary of the Treasury shall purchase any notes or other obligations issued hereunder and for that purpose he is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31 and the purposes for which securities may be issued under that chapter are extended to include any purchase of such notes or obligations. The Secretary of the Treasury may at any time sell any of the notes or other obligations acquired by him under this subsection. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes or other obligations shall be treated as public debt transactions of the United States.
+
+## Source Credit
+
+*([Pub. L. 94–392, § 2](https://www.govinfo.gov/link/plaw/94/public/392), Aug. 19, 1976, [90 Stat. 1193](https://www.govinfo.gov/link/statute/90/1193); [Pub. L. 96–205, title IV, § 407](https://www.govinfo.gov/link/plaw/96/public/205), Mar. 12, 1980, [94 Stat. 89](https://www.govinfo.gov/link/statute/94/89); [Pub. L. 98–146, title I](https://www.govinfo.gov/link/plaw/98/public/146), Nov. 4, 1983, [97 Stat. 931](https://www.govinfo.gov/link/statute/97/931), 932; [Pub. L. 98–213, § 4(b)](https://www.govinfo.gov/link/plaw/98/public/213), Dec. 8, 1983, [97 Stat. 1460](https://www.govinfo.gov/link/statute/97/1460); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095).)*

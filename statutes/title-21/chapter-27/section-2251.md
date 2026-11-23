@@ -3,9 +3,10 @@ title: "Section 2251 - Jurisdiction; authorities"
 usc_title: 21
 usc_section: "2251"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 2251"
-generated_at: "2026-03-30T02:54:54.311Z"
+generated_at: "2026-11-23T21:25:56.303Z"
+status: "active"
 ---
 
 # § 2251. Jurisdiction; authorities
@@ -27,3 +28,7 @@ Nothing in this Act, or an amendment made by this Act, shall be construed to—
     - **(G)** the Agricultural Marketing Act of 1946 ( 7 U.S.C. 1621 et seq.); and
     - **(H)** the Agricultural Adjustment Act ( 7 U.S.C. 601 et seq.), reenacted with the amendments made by the Agricultural Marketing Agreement Act of 1937; or
   - **(5)** alter, impede, or affect the authority of the Secretary of Homeland Security under the Homeland Security Act of 2002 ( 6 U.S.C. 101 et seq.) or any other statute, including any authority related to securing the borders of the United States, managing ports of entry, or agricultural import and entry inspection activities.
+
+## Source Credit
+
+*([Pub. L. 111–353, title IV, § 403](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3972](https://www.govinfo.gov/link/statute/124/3972).)*

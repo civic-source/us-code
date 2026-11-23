@@ -3,9 +3,10 @@ title: "Section 25F - Qualified elementary and secondary education scholarships"
 usc_title: 26
 usc_section: "25F"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 25F"
-generated_at: "2026-03-30T02:55:27.589Z"
+generated_at: "2026-11-23T21:26:05.891Z"
+status: "active"
 ---
 
 # § 25F. Qualified elementary and secondary education scholarships
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:55:27.589Z"
 - **(h)** The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this section, including regulations or other guidance—
   - **(1)** providing for enforcement of the requirements under subsections (d) and (g), and
   - **(2)** with respect to recordkeeping or information reporting for purposes of administering the requirements of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 119–21, title VII, § 70411(a)(1)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 215](https://www.govinfo.gov/link/statute/139/215).)*

@@ -3,9 +3,10 @@ title: "Section 14944 - Enforcement"
 usc_title: 42
 usc_section: "14944"
 chapter: 143
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 14944"
-generated_at: "2026-03-30T02:56:11.453Z"
+generated_at: "2026-11-23T21:26:33.647Z"
+status: "active"
 ---
 
 # § 14944. Enforcement
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.453Z"
   - **(1)** The Attorney General may bring a civil action to enforce subsection (a) against any person in any United States district court.
   - **(2)** In imposing penalties the court shall consider the gravity of the violation, the degree of culpability of the defendant, and any history of prior violations by the defendant.
 - **(c)** Whoever knowingly and willfully violates paragraph (1) or (2) of subsection (a) shall be subject to a fine of not more than $250,000, imprisonment for not more than 5 years, or both.
+
+## Source Credit
+
+*([Pub. L. 106–279, title IV, § 404](https://www.govinfo.gov/link/plaw/106/public/279), Oct. 6, 2000, [114 Stat. 842](https://www.govinfo.gov/link/statute/114/842).)*

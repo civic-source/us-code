@@ -3,9 +3,10 @@ title: "Section 1343 - Reportable events"
 usc_title: 29
 usc_section: "1343"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1343"
-generated_at: "2026-03-30T02:55:18.732Z"
+generated_at: "2026-11-23T21:26:02.289Z"
+status: "active"
 ---
 
 # § 1343. Reportable events
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:55:18.732Z"
   - **(1)** whenever a reportable event described in paragraph (1), (5), or (8) of subsection (c) occurs, or
   - **(2)** whenever any other event occurs which the Secretary of Labor believes indicates that the plan may not be sound.
 - **(f)** Any information or documentary material submitted to the corporation pursuant to this section shall be exempt from disclosure under section 552 of title 5 , and no such information or documentary material may be made public, except as may be relevant to any administrative or judicial action or proceeding. Nothing in this section is intended to prevent disclosure to either body of Congress or to any duly authorized committee or subcommittee of the Congress.
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4043](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 1024](https://www.govinfo.gov/link/statute/88/1024); [Pub. L. 101–239, title VII, § 7891(a)(1)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2445](https://www.govinfo.gov/link/statute/103/2445); [Pub. L. 103–465, title VII, § 771(a)](https://www.govinfo.gov/link/plaw/103/public/465) –(e)(1), Dec. 8, 1994, [108 Stat. 5042](https://www.govinfo.gov/link/statute/108/5042), 5043; [Pub. L. 109–280, title IV, § 407(c)(2)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 930](https://www.govinfo.gov/link/statute/120/930).)*

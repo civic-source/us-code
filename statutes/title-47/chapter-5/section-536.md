@@ -3,9 +3,10 @@ title: "Section 536 - Regulation of carriage agreements"
 usc_title: 47
 usc_section: "536"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 536"
-generated_at: "2026-03-30T02:56:24.518Z"
+generated_at: "2026-11-23T21:26:36.032Z"
+status: "active"
 ---
 
 # § 536. Regulation of carriage agreements
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:24.518Z"
   - **(5)** provide for appropriate penalties and remedies for violations of this subsection, including carriage; and
   - **(6)** provide penalties to be assessed against any person filing a frivolous complaint pursuant to this section.
 - **(b)** As used in this section, the term “video programming vendor” means a person engaged in the production, creation, or wholesale distribution of video programming for sale.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VI, § 616, as added [Pub. L. 102–385, § 12](https://www.govinfo.gov/link/plaw/102/public/385), Oct. 5, 1992, [106 Stat. 1488](https://www.govinfo.gov/link/statute/106/1488).)*

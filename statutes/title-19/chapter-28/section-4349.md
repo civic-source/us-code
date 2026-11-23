@@ -3,9 +3,10 @@ title: "Section 4349 - Report on intellectual property rights enforcement"
 usc_title: 19
 usc_section: "4349"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4349"
-generated_at: "2026-03-30T02:54:24.707Z"
+generated_at: "2026-11-23T21:25:42.882Z"
+status: "active"
 ---
 
 # § 4349. Report on intellectual property rights enforcement
@@ -28,3 +29,7 @@ Not later than September 30, 2016 , and annually thereafter, the Commissioner an
     - **(C)** coordination with foreign governments and international organizations with respect to the enforcement of intellectual property rights.
   - **(4)** A summary of the efforts of U.S. Customs and Border Protection and U.S. Immigration and Customs Enforcement to address the challenges with respect to the enforcement of intellectual property rights presented by Internet commerce and the transit of small packages and an identification of the volume, value, and type of merchandise seized for infringing intellectual property rights as a result of such efforts.
   - **(5)** A summary of training relating to the enforcement of intellectual property rights conducted under section 4347 of this title and expenditures for such training.
+
+## Source Credit
+
+*([Pub. L. 114–125, title III, § 310](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 153](https://www.govinfo.gov/link/statute/130/153).)*

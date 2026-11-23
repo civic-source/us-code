@@ -3,9 +3,10 @@ title: "Section 1085 - Definitions for student loan insurance program"
 usc_title: 20
 usc_section: "1085"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1085"
-generated_at: "2026-03-30T02:54:48.119Z"
+generated_at: "2026-11-23T21:25:47.122Z"
+status: "active"
 ---
 
 # § 1085. Definitions for student loan insurance program
@@ -192,3 +193,29 @@ As used in this part:
       - **(ii)** lose its status as the sole owner of a beneficial interest in a loan and the income from a loan,
   - **(3)** In the case of a loan for which the special allowance payment is calculated under section 1087–1(b)(2)(I)(vi)(II) of this title and that is sold by the eligible not-for-profit holder holding the loan to an entity that is not an eligible not-for-profit holder under this chapter, the special allowance payment for such loan shall, beginning on the date of the sale, no longer be calculated under section 1087–1(b)(2)(I)(vi)(II) of this title and shall be calculated under section 1087–1(b)(2)(I)(vi)(I) of this title instead.
   - **(4)** Not later than 1 year after September 27, 2007 , the Secretary shall promulgate regulations in accordance with the provisions of this subsection.
+
+(aa) remained in the program beyond the point the students would have received a 100 percent tuition refund from the institution;
+
+(bb) were initially enrolled on at least a half-time basis; and
+
+(cc) were originally scheduled, at the time of enrollment, to complete their educational programs during the same 12-month period described in clause (i).
+
+(aa) are employed, in an occupation for which the institution provided training, on the date following 12 months after the date of their last day of attendance at the institution;
+
+(bb) were employed, in an occupation for which the institution provided training, for at least 13 weeks before the date following 12 months after the date of their last day of attendance at the institution; or
+
+(cc) entered active duty in the Armed Forces of the United States.
+
+Effective date
+
+Transition
+
+In General
+
+Applicability
+
+Coverage
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 435](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1408](https://www.govinfo.gov/link/statute/100/1408); amended [Pub. L. 100–50, § 10(aa)](https://www.govinfo.gov/link/plaw/100/public/50), June 3, 1987, [101 Stat. 347](https://www.govinfo.gov/link/statute/101/347); [Pub. L. 101–239, title II](https://www.govinfo.gov/link/plaw/101/public/239), §§ 2003(a)(2), 2007(a), Dec. 19, 1989, [103 Stat. 2113](https://www.govinfo.gov/link/statute/103/2113), 2120; [Pub. L. 101–508, title III, § 3004(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–26](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 101–542, title III, § 301](https://www.govinfo.gov/link/plaw/101/public/542), Nov. 8, 1990, [104 Stat. 2387](https://www.govinfo.gov/link/statute/104/2387); [Pub. L. 102–26, § 2(a)(1)](https://www.govinfo.gov/link/plaw/102/public/26), Apr. 9, 1991, [105 Stat. 123](https://www.govinfo.gov/link/statute/105/123); [Pub. L. 102–325, title IV](https://www.govinfo.gov/link/plaw/102/public/325), §§ 416(e)(2), 427(a), (b)(1), (c)–(g), July 23, 1992, [106 Stat. 519](https://www.govinfo.gov/link/statute/106/519), 549, 550; [Pub. L. 103–66, title IV](https://www.govinfo.gov/link/plaw/103/public/66), §§ 4046(b)(1), 4106(b), Aug. 10, 1993, [107 Stat. 362](https://www.govinfo.gov/link/statute/107/362), 368; [Pub. L. 103–208, § 2(c)(55)](https://www.govinfo.gov/link/plaw/103/public/208) –(62), Dec. 20, 1993, [107 Stat. 2468](https://www.govinfo.gov/link/statute/107/2468), 2469; [Pub. L. 103–235, § 1](https://www.govinfo.gov/link/plaw/103/public/235), Apr. 28, 1994, [108 Stat. 381](https://www.govinfo.gov/link/statute/108/381); [Pub. L. 103–382, title III, § 357](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 3967](https://www.govinfo.gov/link/statute/108/3967); [Pub. L. 104–208, div. A, title I, § 101(e) [title VI, § 602(b)(1)(A)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–233](https://www.govinfo.gov/link/statute/110/3009), 3009–283; [Pub. L. 105–244, title I, § 102(b)(2)](https://www.govinfo.gov/link/plaw/105/public/244), title IV, § 429(a)–(c)(1), (d), title IX, § 901(d), Oct. 7, 1998, [112 Stat. 1622](https://www.govinfo.gov/link/statute/112/1622), 1704–1709, 1828; [Pub. L. 106–554, § 1(a)(1) [title III, §§ 308(a), 312]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–45, 2763A–46; [Pub. L. 109–171, title VIII, § 8011](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 165](https://www.govinfo.gov/link/statute/120/165); [Pub. L. 109–292, § 3(a)](https://www.govinfo.gov/link/plaw/109/public/292), Sept. 30, 2006, [120 Stat. 1340](https://www.govinfo.gov/link/statute/120/1340); [Pub. L. 110–84, title III, § 304](https://www.govinfo.gov/link/plaw/110/public/84), Sept. 27, 2007, [121 Stat. 797](https://www.govinfo.gov/link/statute/121/797); [Pub. L. 110–109, § 4](https://www.govinfo.gov/link/plaw/110/public/109), Oct. 31, 2007, [121 Stat. 1028](https://www.govinfo.gov/link/statute/121/1028); [Pub. L. 110–315, title IV](https://www.govinfo.gov/link/plaw/110/public/315), §§ 436(a)(1), (b)–(e)(1), 438(a)(3), Aug. 14, 2008, [122 Stat. 3253–3256](https://www.govinfo.gov/link/statute/122/3253), 3258; [Pub. L. 111–39, title IV, § 402(b)(2)](https://www.govinfo.gov/link/plaw/111/public/39), (f)(10), July 1, 2009, [123 Stat. 1940](https://www.govinfo.gov/link/statute/123/1940), 1944; [Pub. L. 111–152, title II, § 2101(b)(3)](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1073](https://www.govinfo.gov/link/statute/124/1073).)*

@@ -3,9 +3,10 @@ title: "Section 5442 - Poland-Hungary scholarship partnership"
 usc_title: 22
 usc_section: "5442"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5442"
-generated_at: "2026-03-30T02:55:05.418Z"
+generated_at: "2026-11-23T21:25:58.662Z"
+status: "active"
 ---
 
 # § 5442. Poland-Hungary scholarship partnership
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.418Z"
 - **(i)** Grants to States pursuant to this section shall be made with funds made available to carry out chapter 1 of part I of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2151 and following; relating to development assistance) or chapter 4 of part II of that Act ( 22 U.S.C. 2346 and following; relating to the economic support fund). In addition to amounts otherwise available for such purpose under those chapters, there are authorized to be appropriated $10,000,000 for the 3-year period beginning October 1, 1989 , for use in carrying out this section.
 - **(j)** Prohibitions on the use of foreign assistance funds for assistance for Poland and Hungary shall not apply with respect to the funds made available to carry out this section.
 - **(k)** As used in this section, the term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
+
+## Source Credit
+
+*([Pub. L. 101–179, title IV, § 402](https://www.govinfo.gov/link/plaw/101/public/179), Nov. 28, 1989, [103 Stat. 1315](https://www.govinfo.gov/link/statute/103/1315).)*

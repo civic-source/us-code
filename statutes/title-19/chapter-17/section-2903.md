@@ -3,9 +3,10 @@ title: "Section 2903 - Implementation of trade agreements"
 usc_title: 19
 usc_section: "2903"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2903"
-generated_at: "2026-03-30T02:54:24.687Z"
+generated_at: "2026-11-23T21:25:42.832Z"
+status: "active"
 ---
 
 # § 2903. Implementation of trade agreements
@@ -76,3 +77,7 @@ generated_at: "2026-03-30T02:54:24.687Z"
 - **(e)** Each period of time described in subsection (c)(1)(A) and (E) and (2) of this section shall be computed without regard to—
   - **(1)** the days on which either House of Congress is not in session because of an adjournment of more than 3 days to a day certain or an adjournment of the Congress sine die; and
   - **(2)** any Saturday and Sunday, not excluded under paragraph (1), when either House of the Congress is not in session.
+
+## Source Credit
+
+*([Pub. L. 100–418, title I, § 1103](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1128](https://www.govinfo.gov/link/statute/102/1128).)*

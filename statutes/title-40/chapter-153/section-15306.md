@@ -3,9 +3,10 @@ title: "Section 15306 - Personal financial interests"
 usc_title: 40
 usc_section: "15306"
 chapter: 153
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 15306"
-generated_at: "2026-03-30T02:55:43.388Z"
+generated_at: "2026-11-23T21:26:14.973Z"
+status: "active"
 ---
 
 # § 15306. Personal financial interests
@@ -27,3 +28,27 @@ generated_at: "2026-03-30T02:55:43.388Z"
   - **(2)** Any person that violates this subsection shall be fined under title 18, imprisoned not more than 1 year, or both.
 - **(d)** The Federal Cochairman, the alternate to the Federal Cochairman, and any Federal officer or employee detailed to duty with the Commission are not subject to this section but remain subject to sections 202 through 209 of title 18.
 - **(e)** A Commission may declare void any contract, loan, or grant of or by the Commission in relation to which the Commission determines that there has been a violation of any provision under subsection (a)(1), (b), or (c), or any of the provisions of sections 202 through 209 of title 18.
+
+Conflicts of Interest.—
+
+No role allowed
+
+Exception
+
+Violation
+
+State Member or Alternate
+
+Detailed Employees.—
+
+In general
+
+Violation
+
+Federal Cochairman, Alternate to Federal Cochairman, and Federal Officers and Employees
+
+Rescission
+
+## Source Credit
+
+*(Added [Pub. L. 110–234, title XIV, § 14217(a)(2)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1473](https://www.govinfo.gov/link/statute/122/1473), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14217(a)(2), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2235.)*

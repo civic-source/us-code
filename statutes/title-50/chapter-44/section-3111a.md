@@ -3,9 +3,10 @@ title: "Section 3111a - Annual report on Federal Bureau of Investigation case da
 usc_title: 50
 usc_section: "3111a"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3111a"
-generated_at: "2026-03-30T02:56:26.236Z"
+generated_at: "2026-11-23T21:26:39.014Z"
+status: "active"
 ---
 
 # § 3111a. Annual report on Federal Bureau of Investigation case data
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:26.236Z"
   - **(8)** China cyber national security cases.
   - **(9)** All other cyber national security cases, disaggregated by country affiliation.
 - **(c)** Each report required by subsection (a) shall be submitted in unclassified form, but may include a classified annex.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title V, § 512A, as added [Pub. L. 119–60, div. F, title LXV, § 6524](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1632](https://www.govinfo.gov/link/statute/139/1632).)*

@@ -3,9 +3,10 @@ title: "Section 540B - Investigation of serial killings"
 usc_title: 28
 usc_section: "540B"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 540B"
-generated_at: "2026-03-30T02:55:30.132Z"
+generated_at: "2026-11-23T21:26:01.055Z"
+status: "active"
 ---
 
 # § 540B. Investigation of serial killings
@@ -15,3 +16,17 @@ generated_at: "2026-03-30T02:55:30.132Z"
   - **(1)** The term “killing” means conduct that would constitute an offense under section 1111 of title 18 , United States Code, if Federal jurisdiction existed.
   - **(2)** The term “serial killings” means a series of three or more killings, not less than one of which was committed within the United States, having common characteristics such as to suggest the reasonable possibility that the crimes were committed by the same actor or actors.
   - **(3)** The term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
+In General
+
+Definitions
+
+Killing
+
+Serial killings
+
+State
+
+## Source Credit
+
+*(Added [Pub. L. 105–314, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/105/public/314), Oct. 30, 1998, [112 Stat. 2986](https://www.govinfo.gov/link/statute/112/2986).)*

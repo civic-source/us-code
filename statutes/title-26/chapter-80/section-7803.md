@@ -3,9 +3,10 @@ title: "Section 7803 - Commissioner of Internal Revenue; other officials"
 usc_title: 26
 usc_section: "7803"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7803"
-generated_at: "2026-03-30T02:55:27.886Z"
+generated_at: "2026-11-23T21:26:07.019Z"
+status: "active"
 ---
 
 # § 7803. Commissioner of Internal Revenue; other officials
@@ -87,8 +88,9 @@ generated_at: "2026-03-30T02:55:27.886Z"
       - **(iv)** in conjunction with the Commissioner, develop career paths for local taxpayer advocates choosing to make a career in the Office of the Taxpayer Advocate.
     - **(D)**
       - **(i)** The National Taxpayer Advocate shall have the responsibility and authority to—
-        - **(I)** appoint local taxpayer advocates and make available at least 1 such advocate for each State; and
-        - **(II)** evaluate and take personnel actions (including dismissal) with respect to any employee of any local office of a taxpayer advocate described in subclause (I).
+        - **(I)** appoint local taxpayer advocates and make available at least 1 such advocate for each State;
+        - **(II)** appoint counsel in the Office of the Taxpayer Advocate to report directly to the National Taxpayer Advocate, or delegate thereof; and
+        - **(III)** evaluate and take personnel actions (including dismissal) with respect to any employee of the Office of the Taxpayer Advocate.
       - **(ii)** The National Taxpayer Advocate may consult with the appropriate supervisory personnel of the Internal Revenue Service in carrying out the National Taxpayer Advocate’s responsibilities under this subparagraph.
     - **(E)** Before beginning any research or study, the National Taxpayer Advocate shall coordinate with the Treasury Inspector General for Tax Administration to ensure that the National Taxpayer Advocate does not duplicate any action that the Treasury Inspector General for Tax Administration has already undertaken or has a plan to undertake.
   - **(3)** The Commissioner shall establish procedures requiring a formal response to all recommendations submitted to the Commissioner by the National Taxpayer Advocate within 3 months after submission to the Commissioner.
@@ -186,3 +188,27 @@ generated_at: "2026-03-30T02:55:27.886Z"
       - **(i)** the Office of the Taxpayer Advocate,
       - **(ii)** the Criminal Investigation Division of the Internal Revenue Service, and
       - **(iii)** except as otherwise provided by the Secretary with respect to information technology related to matters described in subsection (b)(3)(B), the Office of the Chief Counsel.
+
+In general
+
+In general
+
+Access to case files
+
+In general
+
+Chief counsel
+
+National taxpayer advocate
+
+Current officers.—
+
+In general
+
+Significant irs information technology acquisitions
+
+Scope
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 915; [Pub. L. 92–310, title II, § 230(e)](https://www.govinfo.gov/link/plaw/92/public/310), June 6, 1972, [86 Stat. 209](https://www.govinfo.gov/link/statute/86/209); [Pub. L. 94–455, title XIX, § 1906(a)(58)](https://www.govinfo.gov/link/plaw/94/public/455), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1833](https://www.govinfo.gov/link/statute/90/1833), 1834; [Pub. L. 105–206, title I, § 1102(a)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 697](https://www.govinfo.gov/link/statute/112/697); [Pub. L. 110–176, § 1(a)](https://www.govinfo.gov/link/plaw/110/public/176), Jan. 4, 2008, [121 Stat. 2532](https://www.govinfo.gov/link/statute/121/2532); [Pub. L. 110–428, § 2(c)](https://www.govinfo.gov/link/plaw/110/public/428), Oct. 15, 2008, [122 Stat. 4840](https://www.govinfo.gov/link/statute/122/4840); [Pub. L. 114–113, div. Q, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3117](https://www.govinfo.gov/link/statute/129/3117); [Pub. L. 116–25, title I](https://www.govinfo.gov/link/plaw/116/public/25), §§ 1001(a), 1301(a)–(b)(2), (3)(B)–(c), title II, § 2101(a), July 1, 2019, [133 Stat. 983](https://www.govinfo.gov/link/statute/133/983), 991–993, 1008; [Pub. L. 117–286, § 4(b)(46)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4348](https://www.govinfo.gov/link/statute/136/4348); [Pub. L. 119–139, § 2(a)](https://www.govinfo.gov/link/plaw/119/public/139), (b), Nov. 10, 2026, [140 Stat. 1106](https://www.govinfo.gov/link/statute/140/1106).)*

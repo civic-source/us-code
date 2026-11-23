@@ -3,9 +3,10 @@ title: "Section 3162 - Waiver for individuals who perform volunteer services"
 usc_title: 40
 usc_section: "3162"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 3162"
-generated_at: "2026-03-30T02:55:43.378Z"
+generated_at: "2026-11-23T21:26:14.857Z"
+status: "active"
 ---
 
 # § 3162. Waiver for individuals who perform volunteer services
@@ -27,3 +28,54 @@ generated_at: "2026-03-30T02:55:43.378Z"
     - **(C)** a nominal fee may not be used as a substitute for compensation and may not be connected to productivity.
   - **(3)** The Secretary shall decide what constitutes a nominal fee for purposes of paragraph (2)(C). The decision shall be based on the context of the economic realities of the situation involved.
 - **(c)** In determining whether an expense, benefit, or fee described in subsection (b) may be paid to volunteers in the context of the economic realities of the particular situation, the Secretary may not permit any expense, benefit, or fee that has the effect of undermining labor standards by creating downward pressure on prevailing wages in the local construction industry.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3162(a) | 40:276d–1(a). | Pub. L. 103–355, title VII , §§ 7303, 7304, Oct. 13, 1994 , 108 Stat. 3382 . |
+|  | 40:276d–2. |  |
+|  | 40:276d–3. | Pub. L. 103–355, title VII, § 7305 , Oct. 13, 1994 , 108 Stat. 3384 ; Pub. L. 104–208, div. A, § 101(e) [title VII, § 709(a)(4)] , Sept. 30, 1996 , 110 Stat. 3009–312 . |
+| 3162(b) | 40:276d–1(b). |  |
+| 3162(c) | 40:276d–1(c). |  |
+
+
+Criteria for Receiving Waiver
+
+Payments.—
+
+In accordance with regulations
+
+Criteria and content of regulations
+
+Nominal fee
+
+Economic Reality
+
+Historical and Revision Notes
+
+3162(a)
+
+Pub. L. 103–355, title VII
+
+Oct. 13, 1994
+
+108 Stat. 3382
+
+Pub. L. 103–355, title VII, § 7305
+
+Oct. 13, 1994
+
+108 Stat. 3384
+
+Pub. L. 104–208, div. A, § 101(e) [title VII, § 709(a)(4)]
+
+Sept. 30, 1996
+
+110 Stat. 3009–312
+
+3162(b)
+
+3162(c)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1153](https://www.govinfo.gov/link/statute/116/1153).)*

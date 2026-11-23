@@ -3,9 +3,10 @@ title: "Section 2151t - Development assistance authority"
 usc_title: 22
 usc_section: "2151t"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2151t"
-generated_at: "2026-03-30T02:55:05.346Z"
+generated_at: "2026-11-23T21:25:58.438Z"
+status: "active"
 ---
 
 # § 2151t. Development assistance authority
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.346Z"
 - **(c)** Dollar receipts paid during any fiscal year from loans made under subchapter I of this chapter or from loans made under predecessor foreign assistance legislation shall be deposited in the Treasury as miscellaneous receipts.
 - **(d)** Not to exceed $10,000,000 of the funds made available each fiscal year for the purposes of this part may be used for assistance, on such terms and conditions as the President may determine, to research and educational institutions in the United States for the purpose of strengthening their capacity to develop and carry out programs concerned with the economic and social development of developing countries.
 - **(e)** The President shall establish an interagency Development Loan Committee, consisting of such officers from such agencies of the United States Government as he may determine, which shall, under the direction of the President, establish standards and criteria for lending operations under this part in accordance with the foreign and financial policies of the United States. Except in the case of officers serving in positions to which they were appointed by the President by and with the advice and consent of the Senate, officers assigned to the Committee shall be so assigned by the President by and with the advice and consent of the Senate.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 122, as added [Pub. L. 95–424, title I, § 102(a)](https://www.govinfo.gov/link/plaw/95/public/424), (b)(1), (c)(1), (d), Oct. 6, 1978, [92 Stat. 940](https://www.govinfo.gov/link/statute/92/940), 941.)*

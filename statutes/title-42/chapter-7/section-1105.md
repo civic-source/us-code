@@ -3,9 +3,10 @@ title: "Section 1105 - Extended unemployment compensation account"
 usc_title: 42
 usc_section: "1105"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1105"
-generated_at: "2026-03-30T02:56:10.901Z"
+generated_at: "2026-11-23T21:26:31.220Z"
+status: "active"
 ---
 
 # § 1105. Extended unemployment compensation account
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:10.901Z"
   - **(3)** The Secretary of the Treasury shall make no transfer pursuant to paragraph (1) as of the close of any month if he determines that the amount in the extended unemployment compensation account is equal to (or in excess of) the limitation provided in paragraph (2).
 - **(c)** Amounts in the extended unemployment compensation account shall be available for transfer to the accounts of the States in the Unemployment Trust Fund as provided in section 204(e) of the Federal-State Extended Unemployment Compensation Act of 1970.
 - **(d)** There are hereby authorized to be appropriated, without fiscal year limitation, to the extended unemployment compensation account, as repayable advances, such sums as may be necessary to carry out the purposes of the Federal-State Extended Unemployment Compensation Act of 1970. Amounts appropriated as repayable advances shall be repaid by transfers from the extended unemployment compensation account to the general fund of the Treasury, at such times as the amount in the extended unemployment compensation account is determined by the Secretary of the Treasury, in consultation with the Secretary of Labor, to be adequate for such purpose. Repayments under the preceding sentence shall be made whenever the Secretary of the Treasury (after consultation with the Secretary of Labor) determines that the amount then in the account exceeds the amount necessary to meet the anticipated payments from the account during the next 3 months. Any amount transferred as a repayment under this subsection shall be credited against, and shall operate to reduce, any balance of advances repayable under this subsection. Amounts appropriated as repayable advances for purposes of this subsection shall bear interest at a rate equal to the average rate of interest, computed as of the end of the calendar month next preceding the date of such advance, borne by all interest bearing obligations of the United States then forming part of the public debt; except that in cases in which such average rate is not a multiple of one-eighth of 1 percent, the rate of interest shall be the multiple of one-eighth of 1 percent next lower than such average rate.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IX, § 905, as added [Pub. L. 91–373, title III, § 305(a)](https://www.govinfo.gov/link/plaw/91/public/373), Aug. 10, 1970, [84 Stat. 716](https://www.govinfo.gov/link/statute/84/716); amended [Pub. L. 92–329, § 2(c)](https://www.govinfo.gov/link/plaw/92/public/329), June 30, 1972, [86 Stat. 398](https://www.govinfo.gov/link/statute/86/398); [Pub. L. 94–566, title II, § 211(e)(2) [(c)(2)]](https://www.govinfo.gov/link/plaw/94/public/566), Oct. 20, 1976, [90 Stat. 2677](https://www.govinfo.gov/link/statute/90/2677); [Pub. L. 97–248, title II](https://www.govinfo.gov/link/plaw/97/public/248), §§ 271(b)(2)(B), 275, Sept. 3, 1982, [96 Stat. 555](https://www.govinfo.gov/link/statute/96/555), 558; [Pub. L. 100–203, title IX](https://www.govinfo.gov/link/plaw/100/public/203), §§ 9154(b)(2), (c)(1), 9155(a), Dec. 22, 1987, [101 Stat. 1330–326](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 102–318, title V, § 531(a)](https://www.govinfo.gov/link/plaw/102/public/318), July 3, 1992, [106 Stat. 315](https://www.govinfo.gov/link/statute/106/315); [Pub. L. 103–152, § 5](https://www.govinfo.gov/link/plaw/103/public/152), Nov. 24, 1993, [107 Stat. 1518](https://www.govinfo.gov/link/statute/107/1518).)*

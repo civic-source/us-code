@@ -3,9 +3,10 @@ title: "Section 3742 - Review of a sentence"
 usc_title: 18
 usc_section: "3742"
 chapter: 235
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3742"
-generated_at: "2026-03-30T02:54:16.525Z"
+generated_at: "2026-11-23T21:25:44.228Z"
+status: "active"
 ---
 
 # § 3742. Review of a sentence
@@ -57,3 +58,27 @@ generated_at: "2026-03-30T02:54:16.525Z"
     - **(B)** is authorized under section 3553(b); and
     - **(C)** is justified by the facts of the case; and
   - **(2)** a factor is an “impermissible” ground of departure if it is not a permissible factor within the meaning of subsection (j)(1).
+
+Appeal by a Defendant
+
+Appeal by the Government
+
+Plea Agreements
+
+Record on Review
+
+Consideration
+
+Decision and Disposition
+
+Sentencing Upon Remand
+
+Application to a Sentence by a Magistrate Judge
+
+Guideline Not Expressed as a Range
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 213(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2011](https://www.govinfo.gov/link/statute/98/2011); amended [Pub. L. 99–646, § 73(a)](https://www.govinfo.gov/link/plaw/99/public/646), Nov. 10, 1986, [100 Stat. 3617](https://www.govinfo.gov/link/statute/100/3617); [Pub. L. 100–182](https://www.govinfo.gov/link/plaw/100/public/182), §§ 4–6, Dec. 7, 1987, [101 Stat. 1266](https://www.govinfo.gov/link/statute/101/1266), 1267; [Pub. L. 100–690, title VII, § 7103(a)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4416](https://www.govinfo.gov/link/statute/102/4416); [Pub. L. 101–647, title XXXV](https://www.govinfo.gov/link/plaw/101/public/647), §§ 3501, 3503, Nov. 29, 1990, [104 Stat. 4921](https://www.govinfo.gov/link/statute/104/4921); [Pub. L. 101–650, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117); [Pub. L. 103–322, title XXXIII, § 330002(k)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2140](https://www.govinfo.gov/link/statute/108/2140); [Pub. L. 108–21, title IV, § 401(d)](https://www.govinfo.gov/link/plaw/108/public/21) –(f), Apr. 30, 2003, [117 Stat. 670](https://www.govinfo.gov/link/statute/117/670), 671.)*

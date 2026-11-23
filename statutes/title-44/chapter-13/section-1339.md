@@ -3,12 +3,17 @@ title: "Section 1339 - Printing of the President’s Message"
 usc_title: 44
 usc_section: "1339"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 1339"
-generated_at: "2026-03-30T02:55:56.291Z"
+generated_at: "2026-11-23T21:26:18.392Z"
+status: "active"
 ---
 
 # § 1339. Printing of the President’s Message
 
 The message of the President without the accompanying documents and reports shall be printed in pamphlet form, immediately upon its receipt by Congress. In addition to the usual number, fifteen thousand copies shall be printed, of which five thousand shall be for the Senate, and ten thousand for the House of Representatives. In addition to the usual number of the President’s message and accompanying documents, there shall be printed one thousand copies for the Senate and two thousand for the House of Representatives. The President’s message shall be delivered by the printer to the appropriate officers of each House of Congress on or before the third Wednesday next after the meeting of Congress, or as soon after as may be practicable.
 
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1272](https://www.govinfo.gov/link/statute/82/1272).)*

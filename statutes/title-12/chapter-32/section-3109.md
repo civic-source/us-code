@@ -3,9 +3,10 @@ title: "Section 3109 - Cooperation with foreign supervisors"
 usc_title: 12
 usc_section: "3109"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3109"
-generated_at: "2026-03-30T02:53:53.492Z"
+generated_at: "2026-11-23T21:25:37.125Z"
+status: "active"
 ---
 
 # § 3109. Cooperation with foreign supervisors
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:53.492Z"
     - **(A)** authorizing any Federal banking agency to withhold any information from any duly authorized committee of the House of Representatives or the Senate; or
     - **(B)** preventing any Federal banking agency from complying with an order of a court of the United States in an action commenced by the United States or such agency.
   - **(4)** For purposes of this subsection, the term “Federal banking agency” means the Board, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the Director of the Office of Thrift Supervision.
+
+## Source Credit
+
+*([Pub. L. 95–369, § 15](https://www.govinfo.gov/link/plaw/95/public/369), as added [Pub. L. 102–242, title II, § 206](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2294](https://www.govinfo.gov/link/statute/105/2294); amended [Pub. L. 109–351, title VII, § 709](https://www.govinfo.gov/link/plaw/109/public/351), Oct. 13, 2006, [120 Stat. 1990](https://www.govinfo.gov/link/statute/120/1990).)*

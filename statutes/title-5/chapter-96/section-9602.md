@@ -3,9 +3,10 @@ title: "Section 9602 - Competitive service; time-limited appointments"
 usc_title: 5
 usc_section: "9602"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 9602"
-generated_at: "2026-03-30T02:52:56.073Z"
+generated_at: "2026-11-23T21:25:23.462Z"
+status: "active"
 ---
 
 # § 9602. Competitive service; time-limited appointments
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:52:56.073Z"
   - **(1)** such employee applies for a position covered by this section within the period of 2 years after the most recent date of separation; and
   - **(2)** such employee’s most recent separation was for reasons other than misconduct or performance.
 - **(e)** The Office of Personnel Management shall prescribe such regulations as may be necessary to carry out this section.
+
+## Source Credit
+
+*(Added [Pub. L. 114–47, § 2(a)](https://www.govinfo.gov/link/plaw/114/public/47), Aug. 7, 2015, [129 Stat. 485](https://www.govinfo.gov/link/statute/129/485); amended [Pub. L. 114–328, div. A, title XI, § 1135](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2459](https://www.govinfo.gov/link/statute/130/2459).)*

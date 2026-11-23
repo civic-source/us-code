@@ -3,9 +3,10 @@ title: "Section 22705 - Content"
 usc_title: 49
 usc_section: "22705"
 chapter: 227
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 22705"
-generated_at: "2026-03-30T02:56:19.341Z"
+generated_at: "2026-11-23T21:26:40.724Z"
+status: "active"
 ---
 
 # § 22705. Content
@@ -39,3 +40,17 @@ generated_at: "2026-03-30T02:56:19.341Z"
     - **(E)** Environmental impact.
     - **(F)** Economic and employment impacts.
     - **(G)** Projected ridership and other service measures for passenger rail projects.
+
+In General
+
+Long-Range Service and Investment Program.—
+
+Program content
+
+Project list content
+
+Considerations for project list
+
+## Source Credit
+
+*(Added [Pub. L. 110–432, div. B, title III, § 303(a)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4949](https://www.govinfo.gov/link/statute/122/4949); amended [Pub. L. 114–94, div. A, title XI, § 11315(a)(2)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1674](https://www.govinfo.gov/link/statute/129/1674).)*

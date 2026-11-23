@@ -3,9 +3,10 @@ title: "Section 350b - New dietary ingredients"
 usc_title: 21
 usc_section: "350b"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 350b"
-generated_at: "2026-03-30T02:54:54.226Z"
+generated_at: "2026-11-23T21:25:56.002Z"
+status: "active"
 ---
 
 # § 350b. New dietary ingredients
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:54.226Z"
     - **(A)** the term “anabolic steroid” has the meaning given such term in section 802(41) of this title ; and
     - **(B)** the term “analogue of an anabolic steroid” means a substance whose chemical structure is substantially similar to the chemical structure of an anabolic steroid.
 - **(d)** For purposes of this section, the term “new dietary ingredient” means a dietary ingredient that was not marketed in the United States before October 15, 1994 and does not include any dietary ingredient which was marketed in the United States before October 15, 1994 .
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 413, as added [Pub. L. 103–417, § 8](https://www.govinfo.gov/link/plaw/103/public/417), Oct. 25, 1994, [108 Stat. 4331](https://www.govinfo.gov/link/statute/108/4331); amended [Pub. L. 111–353, title I, § 113(a)](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3920](https://www.govinfo.gov/link/statute/124/3920).)*

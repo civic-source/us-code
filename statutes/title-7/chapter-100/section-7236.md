@@ -3,9 +3,10 @@ title: "Section 7236 - Special marketing loan provisions for upland cotton"
 usc_title: 7
 usc_section: "7236"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7236"
-generated_at: "2026-03-30T02:53:42.446Z"
+generated_at: "2026-11-23T21:25:28.418Z"
+status: "active"
 ---
 
 # § 7236. Special marketing loan provisions for upland cotton
@@ -55,3 +56,11 @@ generated_at: "2026-03-30T02:53:42.446Z"
       - **(iii)** The term “limited global import quota” means a quantity of imports that is not subject to the over-quota tariff rate of a tariff-rate quota.
     - **(E)** When a quota is established under this subsection, cotton may be entered under the quota during the 90-day period beginning on the date the quota is established by the Secretary.
   - **(2)** Notwithstanding paragraph (1), a quota period may not be established that overlaps an existing quota period or a special quota period established under subsection (b).
+
+(aa) average exports of upland cotton during the preceding 6 marketing years; or
+
+(bb) cumulative exports of upland cotton plus outstanding export sales for the marketing year in which the quota is established.
+
+## Source Credit
+
+*([Pub. L. 104–127, title I, § 136](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 909](https://www.govinfo.gov/link/statute/110/909); [Pub. L. 105–86, title VII, § 731](https://www.govinfo.gov/link/plaw/105/public/86), Nov. 18, 1997, [111 Stat. 2108](https://www.govinfo.gov/link/statute/111/2108); [Pub. L. 105–277, div. A, § 101(a) [title VII, § 762]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681](https://www.govinfo.gov/link/statute/112/2681), 2681–36; [Pub. L. 106–78, title VIII, § 806](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1179](https://www.govinfo.gov/link/statute/113/1179).)*

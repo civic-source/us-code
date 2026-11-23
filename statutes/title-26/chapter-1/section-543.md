@@ -3,9 +3,10 @@ title: "Section 543 - Personal holding company income"
 usc_title: 26
 usc_section: "543"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 543"
-generated_at: "2026-03-30T02:55:27.717Z"
+generated_at: "2026-11-23T21:26:06.336Z"
+status: "active"
 ---
 
 # § 543. Personal holding company income
@@ -117,3 +118,27 @@ generated_at: "2026-03-30T02:55:27.717Z"
       - **(i)** the taxpayer receives royalties in connection with the licensing of computer software, and
       - **(ii)** another corporation which is a member of the same affiliated group as the taxpayer meets the requirements of paragraphs (2), (3), (4), and (5) with respect to such computer software,
     - **(B)** For purposes of this paragraph, the term “affiliated group” has the meaning given such term by section 1504(a).
+
+General Rule
+
+Limitation
+
+Qualified Bank Holding Company
+
+Percent Owned Bank
+
+Special Rules for Broker-Dealers
+
+Special Rule for Royalties Received by Qualified Taxpayer.—
+
+In general
+
+Qualified taxpayer
+
+Qualified royalty
+
+Special Rule for Treatment of Active Business Computer Royalties for S Corporation Purposes
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 186; [Pub. L. 86–435, § 1(a)](https://www.govinfo.gov/link/plaw/86/public/435), (b), Apr. 22, 1960, [74 Stat. 77](https://www.govinfo.gov/link/statute/74/77); [Pub. L. 87–403, § 3(c)](https://www.govinfo.gov/link/plaw/87/public/403), Feb. 2, 1962, [76 Stat. 6](https://www.govinfo.gov/link/statute/76/6); [Pub. L. 88–272, title II, § 225(d)](https://www.govinfo.gov/link/plaw/88/public/272), (k)(2), Feb. 26, 1964, [78 Stat. 81](https://www.govinfo.gov/link/statute/78/81), 93; [Pub. L. 88–484, § 3(a)](https://www.govinfo.gov/link/plaw/88/public/484), Aug. 22, 1964, [78 Stat. 598](https://www.govinfo.gov/link/statute/78/598); [Pub. L. 89–809, title I, § 104(h)(2)](https://www.govinfo.gov/link/plaw/89/public/809), title II, § 206(a), (b), Nov. 13, 1966, [80 Stat. 1559](https://www.govinfo.gov/link/statute/80/1559), 1578, 1579; [Pub. L. 94–455, title II, § 211(a)](https://www.govinfo.gov/link/plaw/94/public/455), title XIX, §§ 1901(b)(32)(D), 1906(b)(13)(A), title XXI, § 2106(a), Oct. 4, 1976, [90 Stat. 1544](https://www.govinfo.gov/link/statute/90/1544), 1800, 1834, 1902; [Pub. L. 94–553, § 105(d)](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2599](https://www.govinfo.gov/link/statute/90/2599); [Pub. L. 97–248, title II, § 222(e)(6)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 480](https://www.govinfo.gov/link/statute/96/480); [Pub. L. 98–369, div. A, title VII, § 712(i)(3)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 948](https://www.govinfo.gov/link/statute/98/948); [Pub. L. 99–514, title VI, § 645(a)(1)](https://www.govinfo.gov/link/plaw/99/public/514), (2), (4), title XVIII, § 1899A(18), Oct. 22, 1986, [100 Stat. 2289](https://www.govinfo.gov/link/statute/100/2289), 2291, 2959; [Pub. L. 100–647, title I, § 1010(f)(5)](https://www.govinfo.gov/link/plaw/100/public/647), title VI, § 6279(a), Nov. 10, 1988, [102 Stat. 3454](https://www.govinfo.gov/link/statute/102/3454), 3754; [Pub. L. 104–188, title I, § 1704(t)(6)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1887](https://www.govinfo.gov/link/statute/110/1887); [Pub. L. 105–206, title VI, § 6023(9)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 825](https://www.govinfo.gov/link/statute/112/825); [Pub. L. 106–170, title V, § 532(c)(2)(E)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1930](https://www.govinfo.gov/link/statute/113/1930); [Pub. L. 108–357, title IV, § 413(c)(8)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1507](https://www.govinfo.gov/link/statute/118/1507); [Pub. L. 109–304, § 17(e)(3)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1708](https://www.govinfo.gov/link/statute/120/1708); [Pub. L. 113–295, div. B, title II, § 207(a)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4072](https://www.govinfo.gov/link/statute/128/4072); [Pub. L. 115–141, div. U, title IV, § 401(a)(134)](https://www.govinfo.gov/link/plaw/115/public/141), (135), Mar. 23, 2018, [132 Stat. 1190](https://www.govinfo.gov/link/statute/132/1190); [Pub. L. 119–21, title VII, § 70302(b)(8)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 192](https://www.govinfo.gov/link/statute/139/192).)*

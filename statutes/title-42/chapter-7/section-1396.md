@@ -3,9 +3,10 @@ title: "Section 1396 - Medicaid and CHIP Payment and Access Commission"
 usc_title: 42
 usc_section: "1396"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1396"
-generated_at: "2026-03-30T02:56:11.030Z"
+generated_at: "2026-11-23T21:26:31.759Z"
+status: "active"
 ---
 
 # § 1396. Medicaid and CHIP Payment and Access Commission
@@ -92,3 +93,35 @@ generated_at: "2026-03-30T02:56:11.030Z"
     - **(A)** Out of any funds in the Treasury not otherwise appropriated, there is appropriated to MACPAC to carry out the provisions of this section for fiscal year 2010, $9,000,000.
     - **(B)** Notwithstanding section 1397dd(a)(13) of this title , from the amounts appropriated in such section for fiscal year 2010, $2,000,000 is hereby transferred and made available in such fiscal year to MACPAC to carry out the provisions of this section.
   - **(4)** Amounts made available under paragraphs (2) and (3) to MACPAC to carry out the provisions of this section shall remain available until expended.
+
+General Effective Date
+
+Exception for State Legislation
+
+Coordination of CHIP Funding for Fiscal Year
+
+Reliance on Law
+
+In General
+
+Promotion
+
+Model
+
+Nonapplication of Paperwork Reduction Act
+
+In General
+
+Report to Congress
+
+“The Secretary [of Health and Human Services] shall—
+
+“In this Act [see Effective Date note above]:
+
+Medicaid
+
+Secretary
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XIX, § 1900, as added [Pub. L. 111–3, title V, § 506(a)](https://www.govinfo.gov/link/plaw/111/public/3), Feb. 4, 2009, [123 Stat. 91](https://www.govinfo.gov/link/statute/123/91); amended [Pub. L. 111–148, title II, § 2801(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 328](https://www.govinfo.gov/link/statute/124/328); [Pub. L. 113–93, title II, § 221(b)](https://www.govinfo.gov/link/plaw/113/public/93), Apr. 1, 2014, [128 Stat. 1076](https://www.govinfo.gov/link/statute/128/1076); [Pub. L. 117–286, § 4(c)(43)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4359](https://www.govinfo.gov/link/statute/136/4359).)*

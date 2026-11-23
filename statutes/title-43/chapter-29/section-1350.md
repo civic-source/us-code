@@ -3,9 +3,10 @@ title: "Section 1350 - Remedies and penalties"
 usc_title: 43
 usc_section: "1350"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1350"
-generated_at: "2026-03-30T02:55:57.471Z"
+generated_at: "2026-11-23T21:26:19.833Z"
+status: "active"
 ---
 
 # § 1350. Remedies and penalties
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:57.471Z"
 - **(c)** Any person who knowingly and willfully (1) violates any provision of this subchapter, any term of a lease, license, or permit issued pursuant to this subchapter, or any regulation or order issued under the authority of this subchapter designed to protect health, safety, or the environment or conserve natural resources, (2) makes any false statement, representation, or certification in any application, record, report, or other document filed or required to be maintained under this subchapter, (3) falsifies, tampers with, or renders inaccurate any monitoring device or method of record required to be maintained under this subchapter, or (4) reveals any data or information required to be kept confidential by this subchapter shall, upon conviction, be punished by a fine of not more than $100,000, or by imprisonment for not more than ten years, or both. Each day that a violation under clause (1) of this subsection continues, or each day that any monitoring device or data recorder remains inoperative or inaccurate because of any activity described in clause (3) of this subsection, shall constitute a separate violation.
 - **(d)** Whenever a corporation or other entity is subject to prosecution under subsection (c) of this section, any officer or agent of such corporation or entity who knowingly and willfully authorized, ordered, or carried out the proscribed activity shall be subject to the same fines or imprisonment, or both, as provided for under subsection (c) of this section.
 - **(e)** The remedies and penalties prescribed in this subchapter shall be concurrent and cumulative and the exercise of one shall not preclude the exercise of the others. Further, the remedies and penalties prescribed in this subchapter shall be in addition to any other remedies and penalties afforded by any other law or regulation.
+
+## Source Credit
+
+*(Aug. 7, 1953, ch. 345, § 24, as added [Pub. L. 95–372, title II, § 208](https://www.govinfo.gov/link/plaw/95/public/372), Sept. 18, 1978, [92 Stat. 659](https://www.govinfo.gov/link/statute/92/659); amended [Pub. L. 101–380, title VIII, § 8201](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 570](https://www.govinfo.gov/link/statute/104/570).)*

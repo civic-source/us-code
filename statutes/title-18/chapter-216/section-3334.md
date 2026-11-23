@@ -3,12 +3,17 @@ title: "Section 3334 - General provisions"
 usc_title: 18
 usc_section: "3334"
 chapter: 216
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3334"
-generated_at: "2026-03-30T02:54:16.516Z"
+generated_at: "2026-11-23T21:25:44.199Z"
+status: "active"
 ---
 
 # § 3334. General provisions
 
 The provisions of chapter 215, title 18, United States Code, and the Federal Rules of Criminal Procedure applicable to regular grand juries shall apply to special grand juries to the extent not inconsistent with sections 3331, 3332, or 3333 of this chapter.
 
+
+## Source Credit
+
+*(Added [Pub. L. 91–452, title I, § 101(a)](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 926](https://www.govinfo.gov/link/statute/84/926).)*

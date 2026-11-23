@@ -3,9 +3,10 @@ title: "Section 2810 - Military construction projects for innovation, research, 
 usc_title: 10
 usc_section: "2810"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2810"
-generated_at: "2026-03-30T02:53:38.176Z"
+generated_at: "2026-11-23T21:25:32.678Z"
+status: "active"
 ---
 
 # § 2810. Military construction projects for innovation, research, development, test, and evaluation
@@ -59,3 +60,31 @@ generated_at: "2026-03-30T02:53:38.176Z"
   - **(6)**
     - **(A)** In addition to the authority provided to the Secretary of Defense under paragraph (1) to use amounts appropriated or otherwise made available for research, development, test, and evaluation for a military construction project referred to in such subsection, the Secretary of the military department concerned may use amounts appropriated or otherwise made available for research, development, test, and evaluation to obtain architectural and engineering services and to carry out construction design in connection with such a project.
     - **(B)** In the case of architectural and engineering services and construction design to be undertaken under this paragraph for which the estimated cost exceeds $4,000,000, the Secretary concerned shall notify the appropriate committees of Congress of the scope of the proposed project and the estimated cost of such services before the initial obligation of funds for such services. The Secretary may then obligate funds for such services only after the end of the 14-day period beginning on the date on which the notification is received by the committees in an electronic medium pursuant to section 480 of this title .
+
+Project Authorization Required
+
+Submission of Project Proposals
+
+Budget Justification Display
+
+Application to Military Construction Projects
+
+Annual Five-year Plans on Improvement of Innovation Infrastructure.—
+
+Submission
+
+Elements
+
+Incorporation of results-oriented management practices
+
+Innovative infrastructure defined
+
+Defense Laboratory Modernization Program
+
+Guidance Required
+
+Contents
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. B, title XXVIII, § 2805(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2994](https://www.govinfo.gov/link/statute/136/2994); amended [Pub. L. 118–159, div. B, title XXVIII, § 2806(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2249](https://www.govinfo.gov/link/statute/138/2249); [Pub. L. 119–60, div. B, title XXVIII, § 2873](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1328](https://www.govinfo.gov/link/statute/139/1328).)*

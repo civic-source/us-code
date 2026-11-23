@@ -3,9 +3,10 @@ title: "Section 1470 - Federal supervision of insured institutions, State member
 usc_title: 12
 usc_section: "1470"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1470"
-generated_at: "2026-03-30T02:53:53.401Z"
+generated_at: "2026-11-23T21:25:36.847Z"
+status: "active"
 ---
 
 # § 1470. Federal supervision of insured institutions, State member and nonmember banks; access to information; definitions
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.401Z"
   - **(2)** The terms “State member insured banks” and “State nonmember insured banks” have the same meaning as when used in the Federal Deposit Insurance Act [ 12 U.S.C. 1811 et seq.].
   - **(3)** The term “State housing corporation” means a corporation established by a State for the limited purpose of providing housing and incidental services, particularly for families of low or moderate income.
   - **(4)** The term “State” means any State, the District of Columbia, Guam, the Commonwealth of Puerto Rico, and the Virgin Islands.
+
+## Source Credit
+
+*([Pub. L. 93–100, § 5(d)](https://www.govinfo.gov/link/plaw/93/public/100), (e), Aug. 16, 1973, [87 Stat. 344](https://www.govinfo.gov/link/statute/87/344); [Pub. L. 111–203, title III, § 375](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1566](https://www.govinfo.gov/link/statute/124/1566).)*

@@ -3,9 +3,10 @@ title: "Section 5805 - Benchmark for loans"
 usc_title: 12
 usc_section: "5805"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5805"
-generated_at: "2026-03-30T02:53:53.551Z"
+generated_at: "2026-11-23T21:25:37.305Z"
+status: "active"
 ---
 
 # § 5805. Benchmark for loans
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:53.551Z"
 - **(b)** With respect to a benchmark used by a bank—
   - **(1)** the bank, in any non-IBOR loan made before, on, or after March 15, 2022 , may use any benchmark, including a benchmark that is not SOFR, that the bank determines to be appropriate for the funding model of the bank; the needs of the customers of the bank; and the products, risk profile, risk management capabilities, and operational capabilities of the bank; provided, however, that the use of any benchmark shall remain subject to the terms of the non-IBOR loan, and applicable law; and
   - **(2)** no Federal supervisory agency may take any covered action against the bank solely because that benchmark is not SOFR.
+
+## Source Credit
+
+*([Pub. L. 117–103, div. U, § 106](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 831](https://www.govinfo.gov/link/statute/136/831).)*

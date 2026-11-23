@@ -3,9 +3,10 @@ title: "Section 8235g - Records and reports"
 usc_title: 42
 usc_section: "8235g"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8235g"
-generated_at: "2026-03-30T02:56:11.337Z"
+generated_at: "2026-11-23T21:26:33.186Z"
+status: "active"
 ---
 
 # § 8235g. Records and reports
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.337Z"
   - **(2)** an estimate of the annual savings in energy anticipated as a result of each prototype residential energy efficiency program established under a plan approved under section 8235a(a) of this title ;
   - **(3)** an analysis, developed in consultation with the Federal Trade Commission and the Department of Justice, of the impact on competition of each prototype residential energy efficiency program established under a plan approved under section 8235a(a) of this title ; and
   - **(4)** if the Secretary determines that it is appropriate, an analysis of the impact of expanding the approval of plans under section 8235a(a) of this title to establish prototype residential energy efficiency programs, and the provision of financial assistance to such programs, on a national basis and an assessment of the alternative methods by which such an expansion could be accomplished.
+
+## Source Credit
+
+*([Pub. L. 95–619, title II, § 268](https://www.govinfo.gov/link/plaw/95/public/619), as added [Pub. L. 96–294, title V, § 562](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 750](https://www.govinfo.gov/link/statute/94/750).)*

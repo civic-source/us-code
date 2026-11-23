@@ -3,9 +3,10 @@ title: "Section 666 - Theft or bribery concerning programs receiving Federal fun
 usc_title: 18
 usc_section: "666"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 666"
-generated_at: "2026-03-30T02:54:16.468Z"
+generated_at: "2026-11-23T21:25:43.986Z"
+status: "active"
 ---
 
 # § 666. Theft or bribery concerning programs receiving Federal funds
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:16.468Z"
   - **(3)** the term “local” means of or pertaining to a political subdivision within a State;
   - **(4)** the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States; and
   - **(5)** the term “in any one-year period” means a continuous period that commences no earlier than twelve months before the commission of the offense or that ends no later than twelve months after the commission of the offense. Such period may include time both before and after the commission of the offense.
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 1104(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2143](https://www.govinfo.gov/link/statute/98/2143); amended [Pub. L. 99–646, § 59(a)](https://www.govinfo.gov/link/plaw/99/public/646), Nov. 10, 1986, [100 Stat. 3612](https://www.govinfo.gov/link/statute/100/3612); [Pub. L. 101–647, title XII](https://www.govinfo.gov/link/plaw/101/public/647), §§ 1205(d), 1209, Nov. 29, 1990, [104 Stat. 4831](https://www.govinfo.gov/link/statute/104/4831), 4832; [Pub. L. 103–322, title XXXIII, § 330003(c)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2140](https://www.govinfo.gov/link/statute/108/2140).)*

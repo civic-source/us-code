@@ -3,12 +3,17 @@ title: "Section 691d - Applicability of certain statutes"
 usc_title: 16
 usc_section: "691d"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 691d"
-generated_at: "2026-03-30T02:54:22.895Z"
+generated_at: "2026-11-23T21:25:51.723Z"
+status: "active"
 ---
 
 # § 691d. Applicability of certain statutes
 
 Sections 715f to 715i and 715 l to 715n 1 1 See References in Text note below. of this title are made applicable for the purposes of sections 691, 691a, and 691c of this title in the same manner and to the same extent as though they were enacted as a part of those sections.
 
+
+## Source Credit
+
+*(June 12, 1930, ch. 469, § 5, [46 Stat. 579](https://www.govinfo.gov/link/statute/46/579).)*

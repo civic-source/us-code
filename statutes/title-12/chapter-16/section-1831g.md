@@ -3,9 +3,10 @@ title: "Section 1831g - Contracts between depository institutions and persons pr
 usc_title: 12
 usc_section: "1831g"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1831g"
-generated_at: "2026-03-30T02:53:53.458Z"
+generated_at: "2026-11-23T21:25:37.019Z"
+status: "active"
 ---
 
 # § 1831g. Contracts between depository institutions and persons providing goods, products, or services
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:53.458Z"
     - **(A)** insured depository institutions are entering into contracts with vendors under which the vendors agree to purchase stock or assets from insured depository institutions or to invest capital in or make deposits in such institutions; and
     - **(B)** if such practices occur, the extent to which such practices are having an anticompetitive effect and should be prohibited.
   - **(2)** Before the end of the 1-year period beginning on August 9, 1989 , the Attorney General and the Comptroller General shall submit a report to the Congress on the results of the study conducted pursuant to paragraph (1).
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [30], as added [Pub. L. 101–73, title II, § 225](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 275](https://www.govinfo.gov/link/statute/103/275); amended [Pub. L. 103–325, title VI, § 602(a)(59)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2291](https://www.govinfo.gov/link/statute/108/2291).)*

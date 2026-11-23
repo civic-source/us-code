@@ -3,9 +3,10 @@ title: "Section 2083 - Capitol Preservation Fund"
 usc_title: 2
 usc_section: "2083"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 2083"
-generated_at: "2026-03-30T02:53:04.824Z"
+generated_at: "2026-11-23T21:25:21.279Z"
+status: "active"
 ---
 
 # § 2083. Capitol Preservation Fund
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:04.824Z"
   - **(2)** to equalize disbursements under subsection (b) between the Senate and the House of Representatives.
 - **(d)** The Commission shall deposit in the fund gifts of money and proceeds of transactions under section 2082 of this title . The Secretary of the Treasury shall credit to the fund the interest on, and the proceeds from sale or redemption of, obligations held in the fund. Disbursements from the fund shall be made on vouchers approved by the Commission and signed by the co-chairmen.
 - **(e)** The Secretary of the Treasury shall invest any portion of the fund that, as determined by the Commission, is not required to meet current withdrawals. Each investment shall be made in an interest bearing obligation of the United States or an obligation guaranteed as to principal and interest by the United States that, as determined by the Commission has a maturity suitable for the fund. In carrying out this subsection, the Secretary may make such purchases, sales, and redemptions of obligations as may be approved by the Commission.
+
+## Source Credit
+
+*([Pub. L. 100–696, title VIII, § 803](https://www.govinfo.gov/link/plaw/100/public/696), Nov. 18, 1988, [102 Stat. 4609](https://www.govinfo.gov/link/statute/102/4609); [Pub. L. 101–302, title III, § 312(b)](https://www.govinfo.gov/link/plaw/101/public/302), May 25, 1990, [104 Stat. 245](https://www.govinfo.gov/link/statute/104/245).)*

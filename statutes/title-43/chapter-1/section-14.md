@@ -3,12 +3,17 @@ title: "Section 14 - Returns relative to lands"
 usc_title: 43
 usc_section: "14"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 14"
-generated_at: "2026-03-30T02:55:57.432Z"
+generated_at: "2026-11-23T21:26:19.737Z"
+status: "active"
 ---
 
 # § 14. Returns relative to lands
 
 All returns relative to the public lands shall be made to the Secretary of the Interior or such officer as he may designate.
 
+
+## Source Credit
+
+*(R.S. § 456; July 31, 1894, ch. 174, § 7, [28 Stat. 207](https://www.govinfo.gov/link/statute/28/207); 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, [60 Stat. 1100](https://www.govinfo.gov/link/statute/60/1100).)*

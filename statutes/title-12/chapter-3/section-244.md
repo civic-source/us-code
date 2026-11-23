@@ -3,12 +3,17 @@ title: "Section 244 - Principal offices of Board; chairman of Board; obligations
 usc_title: 12
 usc_section: "244"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 244"
-generated_at: "2026-03-30T02:53:53.376Z"
+generated_at: "2026-11-23T21:25:36.778Z"
+status: "active"
 ---
 
 # § 244. Principal offices of Board; chairman of Board; obligations and expenses; qualifications of members; vacancies
 
 The principal offices of the Board shall be in the District of Columbia. At meetings of the Board the chairman shall preside, and, in his absence, the vice chairman shall preside. In the absence of the chairman and the vice chairman, the Board shall elect a member to act as chairman pro tempore. The Board shall determine and prescribe the manner in which its obligations shall be incurred and its disbursements and expenses allowed and paid, and may leave on deposit in the Federal Reserve banks the proceeds of assessments levied upon them to defray its estimated expenses and the salaries of its members and employees, whose employment, compensation, leave, and expenses shall be governed solely by the provisions of this chapter and rules and regulations of the Board not inconsistent therewith; and funds derived from such assessments shall not be construed to be Government funds or appropriated moneys. No member of the Board of Governors of the Federal Reserve System shall be an officer or director of any bank, banking institution, trust company, or Federal Reserve bank or hold stock in any bank, banking institution, or trust company; and before entering upon his duties as a member of the Board of Governors of the Federal Reserve System he shall certify under oath that he has complied with this requirement, and such certification shall be filed with the secretary of the Board. Whenever a vacancy shall occur, other than by expiration of term, among the seven members of the Board of Governors of the Federal Reserve System appointed by the President as above provided, a successor shall be appointed by the President, by and with the advice and consent of the Senate, to fill such vacancy, and when appointed he shall hold office for the unexpired term of his predecessor.
 
+
+## Source Credit
+
+*(Dec. 23, 1913, ch. 6, § 10 (par.), [38 Stat. 261](https://www.govinfo.gov/link/statute/38/261); June 3, 1922, ch. 205, [42 Stat. 621](https://www.govinfo.gov/link/statute/42/621); June 16, 1933, ch. 89, § 6(b), [48 Stat. 167](https://www.govinfo.gov/link/statute/48/167); Aug. 23, 1935, ch. 614, title II, § 203(a)–(c), [49 Stat. 704](https://www.govinfo.gov/link/statute/49/704), 705.)*

@@ -3,9 +3,10 @@ title: "Section 535a - Forest development roads: prohibition on credits; inclusi
 usc_title: 16
 usc_section: "535a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 535a"
-generated_at: "2026-03-30T02:54:22.862Z"
+generated_at: "2026-11-23T21:25:51.655Z"
+status: "active"
 ---
 
 # § 535a. Forest development roads: prohibition on credits; inclusion of construction costs in notice of sale; special election by small business concerns; construction standards; authorization of harvesting; treatment of road value
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:22.862Z"
       - **(i)** the effective date of regulations issued by the Secretary of Agriculture to implement this section; and
       - **(ii)** the date on which new timber sale contract provisions designed to implement this section, that have been published for public comment, are approved by the Secretary.
   - **(2)** Notwithstanding paragraph (1), any sale of national forest timber or other forest products for which notice of sale is provided before the effective date of this section, and any effective purchaser road credit earned pursuant to a contract resulting from such a notice of sale or otherwise earned before that effective date shall remain in effect, and shall continue to be subject to section 535 of this title and section 472a(i) of this title , and rules issued thereunder, as in effect on the day before October 21, 1998 .
+
+## Source Credit
+
+*([Pub. L. 105–277, div. A, § 101(e) [title III, § 329]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–231](https://www.govinfo.gov/link/statute/112/2681), 2681–292.)*

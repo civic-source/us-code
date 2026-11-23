@@ -3,9 +3,10 @@ title: "Section 1732 - Machine-readable, tamper-resistant entry and exit documen
 usc_title: 8
 usc_section: "1732"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1732"
-generated_at: "2026-03-30T02:53:10.507Z"
+generated_at: "2026-11-23T21:25:25.216Z"
+status: "active"
 ---
 
 # § 1732. Machine-readable, tamper-resistant entry and exit documents
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:10.507Z"
   - **(3)** The systems employed to implement paragraphs (1) and (2) shall utilize the technology standard established pursuant to section 1379 of this title .
 - **(c)**
 - **(d)** There are authorized to be appropriated such sums as may be necessary to carry out this section, including reimbursement to international and domestic standards organizations.
+
+## Source Credit
+
+*([Pub. L. 107–173, title III, § 303](https://www.govinfo.gov/link/plaw/107/public/173), May 14, 2002, [116 Stat. 553](https://www.govinfo.gov/link/statute/116/553); [Pub. L. 108–299, § 1](https://www.govinfo.gov/link/plaw/108/public/299), Aug. 9, 2004, [118 Stat. 1100](https://www.govinfo.gov/link/statute/118/1100); [Pub. L. 114–113, div. O, title II, § 202(c)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2989](https://www.govinfo.gov/link/statute/129/2989).)*

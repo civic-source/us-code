@@ -3,9 +3,10 @@ title: "Section 11303 - Performance-based and results-based management"
 usc_title: 40
 usc_section: "11303"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 11303"
-generated_at: "2026-03-30T02:55:43.385Z"
+generated_at: "2026-11-23T21:26:14.940Z"
+status: "active"
 ---
 
 # § 11303. Performance-based and results-based management
@@ -29,3 +30,40 @@ generated_at: "2026-03-30T02:55:43.385Z"
       - **(ii)** reducing or otherwise adjusting apportionments and reapportionments of appropriations for information resources;
       - **(iii)** using other administrative controls over appropriations to restrict the availability of amounts for information resources; and
       - **(iv)** designating for the executive agency an executive agent to contract with private sector sources for the performance of information resources management or the acquisition of information technology.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 11303 | 40:1413. | Pub. L. 104–106, div. E, title LI, § 5113 , Feb. 10, 1996 , 110 Stat. 681 . |
+
+
+In General
+
+Evaluation of Agency Programs and Investments.—
+
+Requirement
+
+Direction for executive agency action
+
+Guidance for multiagency investments
+
+Periodic reviews
+
+Enforcement of accountability.—
+
+In general
+
+Specific actions
+
+Historical and Revision Notes
+
+11303
+
+Pub. L. 104–106, div. E, title LI, § 5113
+
+Feb. 10, 1996
+
+110 Stat. 681
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1238](https://www.govinfo.gov/link/statute/116/1238).)*

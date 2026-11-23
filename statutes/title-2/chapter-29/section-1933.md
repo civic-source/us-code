@@ -3,9 +3,10 @@ title: "Section 1933 - Clarification of authorities regarding certain personnel 
 usc_title: 2
 usc_section: "1933"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1933"
-generated_at: "2026-03-30T02:53:04.821Z"
+generated_at: "2026-11-23T21:25:21.260Z"
+status: "active"
 ---
 
 # § 1933. Clarification of authorities regarding certain personnel benefits
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:04.821Z"
   - **(3)**
     - **(A)**
     - **(B)** The amendment made by subparagraph (A) shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2003, except that the amendment shall not apply with respect to any overtime work performed prior to March 4, 2010 .
+
+## Source Credit
+
+*([Pub. L. 111–145, § 5](https://www.govinfo.gov/link/plaw/111/public/145), Mar. 4, 2010, [124 Stat. 52](https://www.govinfo.gov/link/statute/124/52).)*

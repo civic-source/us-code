@@ -3,9 +3,10 @@ title: "Section 2155b - International nuclear export and innovation activities"
 usc_title: 42
 usc_section: "2155b"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2155b"
-generated_at: "2026-03-30T02:56:11.151Z"
+generated_at: "2026-11-23T21:26:32.346Z"
+status: "active"
 ---
 
 # § 2155b. International nuclear export and innovation activities
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.151Z"
 - **(c)**
 - **(d)** The Commission shall coordinate all international activities under this section with the Secretary of State, the Secretary of Energy, and other applicable agencies, as appropriate.
 - **(e)** Nothing in this section alters the authority of the Commission to license and regulate the civilian use of radioactive materials.
+
+## Source Credit
+
+*([Pub. L. 118–67, div. B, title I, § 101](https://www.govinfo.gov/link/plaw/118/public/67), July 9, 2024, [138 Stat. 1450](https://www.govinfo.gov/link/statute/138/1450).)*

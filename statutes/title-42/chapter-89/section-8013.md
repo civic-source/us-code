@@ -3,9 +3,10 @@ title: "Section 8013 - Supportive housing for persons with disabilities"
 usc_title: 42
 usc_section: "8013"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8013"
-generated_at: "2026-03-30T02:56:11.333Z"
+generated_at: "2026-11-23T21:26:33.179Z"
+status: "active"
 ---
 
 # § 8013. Supportive housing for persons with disabilities
@@ -193,3 +194,11 @@ generated_at: "2026-03-30T02:56:11.333Z"
   - **(1)** The amendments made by this section shall take effect on October 1, 1991 , with respect to projects approved on or after such date. The Secretary shall issue regulations for such purpose after notice and public comment.
   - **(2)** The Secretary shall, upon the request of an owner, apply the provisions of this section to any housing for which a loan reservation was made under section 1701q of title 12 before November 28, 1990 , 4 but for which no loan has been executed and recorded. In the absence of such a request, any housing identified under the preceding sentence shall continue to be subject to the provisions of section 1701q of title 12 as they were in effect when such assistance was made or reserved.
   - **(3)** When responding to an owner’s request under paragraph (1), the Secretary shall, notwithstanding any other provision of law, apply such portion of amounts obligated at the time of loan reservation, including amounts reserved with respect to such housing under section 1437f of this title , as are required for the owner’s housing under the provisions of this section and shall make any remaining portion available for other housing under this section.
+
+(aa) (AA) is hardwired; or (BB) uses 10-year non rechargeable, nonreplaceable primary batteries and is sealed, is tamper resistant, and contains silencing means; and
+
+(bb) provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or
+
+## Source Credit
+
+*([Pub. L. 101–625, title VIII, § 811](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4324](https://www.govinfo.gov/link/statute/104/4324); [Pub. L. 102–27, title II](https://www.govinfo.gov/link/plaw/102/public/27), Apr. 10, 1991, [105 Stat. 150](https://www.govinfo.gov/link/statute/105/150); [Pub. L. 102–550, title VI](https://www.govinfo.gov/link/plaw/102/public/550), §§ 601(d), 603, 623(a), title IX, § 913(b), Oct. 28, 1992, [106 Stat. 3803](https://www.govinfo.gov/link/statute/106/3803), 3805, 3818, 3877; [Pub. L. 106–74, title V](https://www.govinfo.gov/link/plaw/106/public/74), §§ 512, 524(a), Oct. 20, 1999, [113 Stat. 1101](https://www.govinfo.gov/link/statute/113/1101), 1106; [Pub. L. 106–402, title IV, § 401(b)(11)](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1739](https://www.govinfo.gov/link/statute/114/1739); [Pub. L. 106–569, title VIII](https://www.govinfo.gov/link/plaw/106/public/569), §§ 822, 841–845, Dec. 27, 2000, [114 Stat. 3020](https://www.govinfo.gov/link/statute/114/3020), 3022, 3023; [Pub. L. 111–374](https://www.govinfo.gov/link/plaw/111/public/374), §§ 2(a), 3–6, Jan. 4, 2011, [124 Stat. 4089–4098](https://www.govinfo.gov/link/statute/124/4089); [Pub. L. 116–260, div. Q, title I, § 101(d)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2164](https://www.govinfo.gov/link/statute/134/2164); [Pub. L. 117–328, div. AA, title VI, § 601(c)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5545](https://www.govinfo.gov/link/statute/136/5545).)*

@@ -3,9 +3,10 @@ title: "Section 4652 - Buildings, structures, and improvements"
 usc_title: 42
 usc_section: "4652"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4652"
-generated_at: "2026-03-30T02:56:11.207Z"
+generated_at: "2026-11-23T21:26:32.684Z"
+status: "active"
 ---
 
 # § 4652. Buildings, structures, and improvements
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.207Z"
 - **(b)**
   - **(1)** For the purpose of determining the just compensation to be paid for any building, structure, or other improvement required to be acquired by subsection (a) of this section, such building, structure, or other improvement shall be deemed to be a part of the real property to be acquired notwithstanding the right or obligation of a tenant, as against the owner of any other interest in the real property, to remove such building, structure, or improvement at the expiration of his term, and the fair market value which such building, structure, or improvement contributes to the fair market value of the real property to be acquired, or the fair market value of such building, structure, or improvement for removal from the real property, whichever is the greater, shall be paid to the tenant therefor.
   - **(2)** Payment under this subsection shall not result in duplication of any payments otherwise authorized by law. No such payment shall be made unless the owner of the land involved disclaims all interest in the improvements of the tenant. In consideration for any such payment, the tenant shall assign, transfer, and release to the United States all his right, title, and interest in and to such improvements. Nothing in this subsection shall be construed to deprive the tenant of any rights to reject payment under this subsection and to obtain payment for such property interests in accordance with applicable law, other than this subsection.
+
+## Source Credit
+
+*([Pub. L. 91–646, title III, § 302](https://www.govinfo.gov/link/plaw/91/public/646), Jan. 2, 1971, [84 Stat. 1905](https://www.govinfo.gov/link/statute/84/1905).)*

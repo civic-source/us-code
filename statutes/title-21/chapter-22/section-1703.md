@@ -3,9 +3,10 @@ title: "Section 1703 - Appointment and duties of Director and Deputy Directors"
 usc_title: 21
 usc_section: "1703"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 1703"
-generated_at: "2026-03-30T02:54:54.304Z"
+generated_at: "2026-11-23T21:25:56.284Z"
+status: "active"
 ---
 
 # § 1703. Appointment and duties of Director and Deputy Directors
@@ -175,3 +176,23 @@ generated_at: "2026-03-30T02:54:54.304Z"
   - **(2)** There is authorized to be appropriated to carry out this subsection $1,250,000 for each of fiscal years 2018 through 2023.
 - **(j)** The Director shall designate or appoint a United States State, Local, and Tribal Affairs Coordinator to perform the duties of the Office outlined in this section and section 1705 of this title and such other duties as may be determined by the Director with respect to coordination of drug control efforts between agencies and State, local, and Tribal governments. For purposes of carrying out the previous sentence, the Director shall designate or appoint an appointee in the Senior Executive Service or an appointee in a position at level 15 of the General Schedule (or equivalent).
 - **(k)** When developing the national drug control policy, any policy of the Director, including policies relating to syringe exchange programs for intravenous drug users, shall be based on the best available medical and scientific evidence regarding the effectiveness of such policy in promoting individual health and preventing the spread of infectious disease and the impact of such policy on drug addiction and use. In making any policy relating to harm reduction programs, the Director shall consult with the National Institutes of Health and the National Academy of Sciences.
+
+(aa) a written statement that either— (AA) certifies that the budget submission includes sufficient funding; or (BB) decertifies the budget submission as not including sufficient funding;
+
+(bb) a copy of the description made under subparagraph (B); and
+
+(cc) the budget recommendations made under subsection (b)(8).
+
+Section
+
+General Provisions
+
+Sec
+
+Goals, Direction, Duties and Responsibilities with Respect to the National Drug Control Program
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. C, title VII](https://www.govinfo.gov/link/plaw/105/public/277), §§ 704, 715, Oct. 21, 1998, [112 Stat. 2681–672](https://www.govinfo.gov/link/statute/112/2681), 2681–693; [Pub. L. 109–469, title I](https://www.govinfo.gov/link/plaw/109/public/469), §§ 103(a)–(e), (f)(3), 105, title VI, § 602, Dec. 29, 2006, [120 Stat. 3506](https://www.govinfo.gov/link/statute/120/3506), 3507, 3510, 3511, 3533; [Pub. L. 112–166, § 2(t)](https://www.govinfo.gov/link/plaw/112/public/166), Aug. 10, 2012, [126 Stat. 1288](https://www.govinfo.gov/link/statute/126/1288); [Pub. L. 115–271, title VIII](https://www.govinfo.gov/link/plaw/115/public/271), §§ 8202(a), (b)(2), 8217(c)–(f), 8221(b)(1), 8222(2), Oct. 24, 2018, [132 Stat. 4110](https://www.govinfo.gov/link/statute/132/4110), 4120–4122, 4142; [Pub. L. 116–74, § 2(a)(1)](https://www.govinfo.gov/link/plaw/116/public/74), (2), (5), Nov. 27, 2019, [133 Stat. 1155](https://www.govinfo.gov/link/statute/133/1155).)*

@@ -3,9 +3,10 @@ title: "Section 955 - National Council on the Arts"
 usc_title: 20
 usc_section: "955"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 955"
-generated_at: "2026-03-30T02:54:48.088Z"
+generated_at: "2026-11-23T21:25:46.979Z"
+status: "active"
 ---
 
 # § 955. National Council on the Arts
@@ -40,3 +41,13 @@ generated_at: "2026-03-30T02:54:48.088Z"
 - **(f)** The Council shall advise the Chairperson with respect to policies, programs, and procedures for carrying out the Chairperson’s functions, duties, or responsibilities under this subchapter, and review applications for financial assistance under this subchapter and make recommendations to the Chairperson with respect to the approval of each application and the amount of financial assistance (if any) to provide to each applicant. The Council shall make recommendations to the Chairperson concerning—
   - **(1)** whether to approve particular applications for financial assistance under subsections (c) and (p) of section 954 of this title that are determined by panels under section 959(c) of this title to have artistic excellence and artistic merit; and
   - **(2)** the amount of financial assistance the Chairperson should provide with respect to each such application the Council recommends for approval.
+
+Transition to the new council composition.—
+
+Deemed Appointed Under
+
+Act
+
+## Source Credit
+
+*([Pub. L. 89–209, § 6](https://www.govinfo.gov/link/plaw/89/public/209), Sept. 29, 1965, [79 Stat. 849](https://www.govinfo.gov/link/statute/79/849); [Pub. L. 90–348, § 4](https://www.govinfo.gov/link/plaw/90/public/348), June 18, 1968, [82 Stat. 185](https://www.govinfo.gov/link/statute/82/185); [Pub. L. 91–346, § 5(b)](https://www.govinfo.gov/link/plaw/91/public/346), July 20, 1970, [84 Stat. 444](https://www.govinfo.gov/link/statute/84/444); [Pub. L. 93–133, § 2(a)(5)](https://www.govinfo.gov/link/plaw/93/public/133), Oct. 19, 1973, [87 Stat. 463](https://www.govinfo.gov/link/statute/87/463); [Pub. L. 94–462, title I, § 103(a)](https://www.govinfo.gov/link/plaw/94/public/462), Oct. 8, 1976, [90 Stat. 1971](https://www.govinfo.gov/link/statute/90/1971); [Pub. L. 96–496, title I, § 103](https://www.govinfo.gov/link/plaw/96/public/496), Dec. 4, 1980, [94 Stat. 2584](https://www.govinfo.gov/link/statute/94/2584); renumbered title I, § 6, and amended [Pub. L. 98–306](https://www.govinfo.gov/link/plaw/98/public/306), §§ 2, 5(a), May 31, 1984, [98 Stat. 223](https://www.govinfo.gov/link/statute/98/223), 224; renumbered § 6 and amended [Pub. L. 99–194, title I](https://www.govinfo.gov/link/plaw/99/public/194), §§ 101(1), 106, Dec. 20, 1985, [99 Stat. 1332](https://www.govinfo.gov/link/statute/99/1332), 1335; [Pub. L. 101–512, title III, § 318 [title I, § 106]](https://www.govinfo.gov/link/plaw/101/public/512), Nov. 5, 1990, [104 Stat. 1960](https://www.govinfo.gov/link/statute/104/1960), 1968; [Pub. L. 105–83, title III, § 346(e)](https://www.govinfo.gov/link/plaw/105/public/83), (f), Nov. 14, 1997, [111 Stat. 1605](https://www.govinfo.gov/link/statute/111/1605), 1606; [Pub. L. 105–119, title VI, § 624](https://www.govinfo.gov/link/plaw/105/public/119), Nov. 26, 1997, [111 Stat. 2522](https://www.govinfo.gov/link/statute/111/2522); [Pub. L. 105–277, div. A, § 101(e) [title III, § 330]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–231](https://www.govinfo.gov/link/statute/112/2681), 2681–293; [Pub. L. 111–88, div. A, title IV, § 417](https://www.govinfo.gov/link/plaw/111/public/88), Oct. 30, 2009, [123 Stat. 2959](https://www.govinfo.gov/link/statute/123/2959).)*

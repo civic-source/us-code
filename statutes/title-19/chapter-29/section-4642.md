@@ -3,9 +3,10 @@ title: "Section 4642 - Duties"
 usc_title: 19
 usc_section: "4642"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4642"
-generated_at: "2026-03-30T02:54:24.714Z"
+generated_at: "2026-11-23T21:25:42.896Z"
+status: "active"
 ---
 
 # § 4642. Duties
@@ -30,3 +31,7 @@ The duties of the Interagency Labor Committee shall include the following:
   - **(7)** Based on reports provided by the Forced Labor Enforcement Task Force under section 4683 of this title , developing recommendations for appropriate enforcement actions by the Trade Representative.
   - **(8)** Reviewing reports submitted by the labor experts appointed in accordance with Annex 31–A of the USMCA, with respect to the functioning of that Annex.
   - **(9)** Reviewing reports submitted by the Independent Mexico Labor Expert Board under section 4674 of this title .
+
+## Source Credit
+
+*([Pub. L. 116–113, title VII, § 712](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 81](https://www.govinfo.gov/link/statute/134/81).)*

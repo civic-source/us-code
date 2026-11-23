@@ -3,9 +3,10 @@ title: "Section 1665d - Mental health technician program"
 usc_title: 25
 usc_section: "1665d"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1665d"
-generated_at: "2026-03-30T02:54:52.825Z"
+generated_at: "2026-11-23T21:25:54.630Z"
+status: "active"
 ---
 
 # § 1665d. Mental health technician program
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:52.825Z"
 - **(b)** In carrying out subsection (a), the Secretary, acting through the Service, shall provide high-standard paraprofessional training in mental health care necessary to provide quality care to the Indian communities to be served. Such training shall be based upon a curriculum developed or approved by the Secretary which combines education in the theory of mental health care with supervised practical experience in the provision of such care.
 - **(c)** The Secretary, acting through the Service, shall supervise and evaluate the mental health technicians in the training program.
 - **(d)** The Secretary, acting through the Service, shall ensure that the program established pursuant to this section involves the use and promotion of the traditional health care practices of the Indian tribes to be served.
+
+## Source Credit
+
+*([Pub. L. 94–437, title VII, § 705](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

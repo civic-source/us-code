@@ -3,9 +3,10 @@ title: "Section 2274 - Economic assistance coordination"
 usc_title: 22
 usc_section: "2274"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2274"
-generated_at: "2026-03-30T02:55:05.352Z"
+generated_at: "2026-11-23T21:25:58.452Z"
+status: "active"
 ---
 
 # § 2274. Economic assistance coordination
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:05.352Z"
 - **(d)**
   - **(1)** The administrator of the agency primarily responsible for administering subchapter I of this chapter, under the supervision and direction of the Secretary of State, shall prepare a detailed proposal to carry out this section and shall keep the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate fully and currently informed concerning the development of this proposal.
   - **(2)** The President shall transmit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a copy of the text of any agreement, which he proposes to sign, that would provide for the establishment of and United States participation in the Organization no less than sixty days prior to his signature. During that sixty-day period there shall be full and formal consultations with and review by those committees in accordance with procedures applicable to reprogramming notifications pursuant to section 2394–1 of this title .
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 464, as added [Pub. L. 99–83, title VII, § 701](https://www.govinfo.gov/link/plaw/99/public/83), Aug. 8, 1985, [99 Stat. 235](https://www.govinfo.gov/link/statute/99/235).)*

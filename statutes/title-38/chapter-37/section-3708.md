@@ -3,9 +3,10 @@ title: "Section 3708 - Authority to buy down interest rates: pilot program"
 usc_title: 38
 usc_section: "3708"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3708"
-generated_at: "2026-03-30T02:55:53.512Z"
+generated_at: "2026-11-23T21:26:16.773Z"
+status: "active"
 ---
 
 # § 3708. Authority to buy down interest rates: pilot program
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:53.512Z"
 - **(e)** The Secretary or lender shall provide comprehensive prepurchase counseling to eligible veterans explaining the features of interest rate buy downs under subsection (a), including a hypothetical payment schedule that displays the increases in monthly payments to the mortgagor over the first five years of the mortgage term. For the purposes of this subsection, the Secretary may assign personnel to military installations referred to in subsection (b)(2).
 - **(f)** There is authorized to be appropriated $3,000,000 annually to carry out this section.
 - **(g)** The Secretary may not guarantee a loan under this chapter after September 30, 1998 , on which the Secretary is obligated to make payments under this section.
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. B, title XXVIII, § 2822(b)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 556](https://www.govinfo.gov/link/statute/110/556).)*

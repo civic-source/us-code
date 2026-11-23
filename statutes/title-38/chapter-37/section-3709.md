@@ -3,9 +3,10 @@ title: "Section 3709 - Refinancing of housing loans"
 usc_title: 38
 usc_section: "3709"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3709"
-generated_at: "2026-03-30T02:55:53.512Z"
+generated_at: "2026-11-23T21:26:16.773Z"
+status: "active"
 ---
 
 # § 3709. Refinancing of housing loans
@@ -29,3 +30,23 @@ generated_at: "2026-03-30T02:55:53.512Z"
 - **(d)**
   - **(1)** Subsections (a) through (c) shall not apply in a case of a loan refinancing in which the amount of the principal for the new loan to be guaranteed or insured under this chapter is larger than the payoff amount of the refinanced loan.
   - **(2)** Not later than 180 days after the date of the enactment of this section, the Secretary shall promulgate such rules as the Secretary considers appropriate with respect to refinancing described in paragraph (1) to ensure that such refinancing is in the financial interest of the borrower, including rules relating to recoupment, seasoning, and net tangible benefits.
+
+Fee Recoupment
+
+Net Tangible Benefit Test
+
+Loan Seasoning
+
+Cash-out Refinances
+
+In general
+
+Public notice and comment
+
+Effective date
+
+Termination date
+
+## Source Credit
+
+*(Added [Pub. L. 115–174, title III, § 309(a)(1)](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1348](https://www.govinfo.gov/link/statute/132/1348); amended [Pub. L. 116–33, § 2(b)](https://www.govinfo.gov/link/plaw/116/public/33), July 25, 2019, [133 Stat. 1038](https://www.govinfo.gov/link/statute/133/1038).)*

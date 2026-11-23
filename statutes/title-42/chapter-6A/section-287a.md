@@ -3,9 +3,10 @@ title: "Section 287a - Cures Acceleration Network"
 usc_title: 42
 usc_section: "287a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 287a"
-generated_at: "2026-03-30T02:56:10.752Z"
+generated_at: "2026-11-23T21:26:30.522Z"
+status: "active"
 ---
 
 # § 287a. Cures Acceleration Network
@@ -100,3 +101,25 @@ generated_at: "2026-03-30T02:56:10.752Z"
 - **(g)**
   - **(1)** For purposes of carrying out this section, there are authorized to be appropriated $500,000,000 for fiscal year 2010, and such sums as may be necessary for subsequent fiscal years. Funds appropriated under this section shall be available until expended.
   - **(2)** No funds appropriated under this chapter, other than funds appropriated under paragraph (1), may be allocated to the Cures Acceleration Network.
+
+(aa) basic research;
+
+(bb) medicine;
+
+(cc) biopharmaceuticals;
+
+(dd) discovery and delivery of medical products;
+
+(ee) bioinformatics and gene therapy;
+
+(ff) medical instrumentation; and
+
+(gg) regulatory review and approval of medical products,
+
+(aa) progress in carrying out the project; and
+
+(bb) compliance with all provisions of this section and conditions of receipt of such grant or contract; and
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 480, formerly § 402C, as added [Pub. L. 111–148, title X, § 10409(d)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 978](https://www.govinfo.gov/link/statute/124/978); renumbered § 480 and amended [Pub. L. 112–74, div. F, title II, § 221(c)(1)](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 1089](https://www.govinfo.gov/link/statute/125/1089).)*

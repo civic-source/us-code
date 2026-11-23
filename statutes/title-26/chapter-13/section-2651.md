@@ -3,9 +3,10 @@ title: "Section 2651 - Generation assignment"
 usc_title: 26
 usc_section: "2651"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 2651"
-generated_at: "2026-03-30T02:55:27.786Z"
+generated_at: "2026-11-23T21:26:06.543Z"
+status: "active"
 ---
 
 # § 2651. Generation assignment
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:27.786Z"
     - **(A)** organization described in section 511(a)(2),
     - **(B)** charitable trust described in section 511(b)(2), and
     - **(C)** governmental entity,
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XIV, § 1431(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2725](https://www.govinfo.gov/link/statute/100/2725); amended [Pub. L. 100–647, title I, § 1014(g)(11)](https://www.govinfo.gov/link/plaw/100/public/647), (19), Nov. 10, 1988, [102 Stat. 3565](https://www.govinfo.gov/link/statute/102/3565), 3567; [Pub. L. 105–34, title V, § 511(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 860](https://www.govinfo.gov/link/statute/111/860).)*

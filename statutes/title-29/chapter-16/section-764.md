@@ -3,9 +3,10 @@ title: "Section 764 - Research and other covered activities"
 usc_title: 29
 usc_section: "764"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 764"
-generated_at: "2026-03-30T02:55:18.695Z"
+generated_at: "2026-11-23T21:26:02.207Z"
+status: "active"
 ---
 
 # § 764. Research and other covered activities
@@ -165,3 +166,7 @@ generated_at: "2026-03-30T02:55:18.695Z"
   - **(3)**
     - **(A)** In the case of an application for funding under this section to carry out a covered activity that results in the development of a marketable product, the application shall also include a commercialization and dissemination plan, as appropriate, containing commercialization and marketing strategies for the product involved, and strategies for disseminating information about the product. The funding received under this section shall not be used to carry out the commercialization and marketing strategies.
     - **(B)** In the case of any other application for funding to carry out a covered activity under this section, the application shall also include a dissemination plan, containing strategies for disseminating educational materials, research results, or findings, conclusions, and recommendations, resulting from the covered activity.
+
+## Source Credit
+
+*([Pub. L. 93–112, title II, § 204](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 105–220, title IV, § 405](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1173](https://www.govinfo.gov/link/statute/112/1173); amended [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 401(16)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–412; [Pub. L. 105–394, title IV, § 402(b)](https://www.govinfo.gov/link/plaw/105/public/394), Nov. 13, 1998, [112 Stat. 3661](https://www.govinfo.gov/link/statute/112/3661); [Pub. L. 111–256, § 2(d)(2)](https://www.govinfo.gov/link/plaw/111/public/256), Oct. 5, 2010, [124 Stat. 2643](https://www.govinfo.gov/link/statute/124/2643); [Pub. L. 113–128, title IV, § 435](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1666](https://www.govinfo.gov/link/statute/128/1666).)*

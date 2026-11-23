@@ -3,9 +3,10 @@ title: "Section 31144 - Safety fitness of owners and operators"
 usc_title: 49
 usc_section: "31144"
 chapter: 311
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 31144"
-generated_at: "2026-03-30T02:56:19.359Z"
+generated_at: "2026-11-23T21:26:40.786Z"
+status: "active"
 ---
 
 # § 31144. Safety fitness of owners and operators
@@ -60,3 +61,112 @@ generated_at: "2026-03-30T02:56:19.359Z"
   - **(4)** In conducting the safety reviews required under this subsection, the Secretary shall—
     - **(A)** reassess the safety fitness rating of each motor carrier of passengers not less frequently than once every 3 years; and
     - **(B)** annually assess the safety fitness of certain motor carriers of passengers that serve primarily urban areas with high passenger loads.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 31144(a)(1) | 49 App.:2512(a), (b). | Oct. 30, 1984 , Pub. L. 98–554, § 215 , 98 Stat. 2844 . |
+| 31144(a)(2) | 49 App.:2512(c). |  |
+| 31144(b) | 49 App.:2512(d). |  |
+
+
+In General
+
+Procedure
+
+Prohibited Transportation.—
+
+In general
+
+Owners or operators transporting passengers
+
+Owners or operators transporting hazardous material
+
+Secretary’s discretion
+
+Transportation affecting interstate commerce
+
+Determination of Unfitness by State
+
+Review of Fitness Determinations.—
+
+In general
+
+Owners or operators transporting passengers
+
+Owners or operators transporting hazardous material
+
+Prohibited Government Use
+
+Safety Reviews of New Operators.—
+
+Safety review.—
+
+In general
+
+Providers of motorcoach services
+
+Elements
+
+Phase-in of requirement
+
+New entrant authority
+
+Additional requirements for household goods motor carriers.—
+
+In general
+
+Elements
+
+Recognition of Canadian Motor Carrier Safety Fitness Determinations.—
+
+Periodic Safety Reviews of Owners and Operators of Interstate For-hire Commercial Motor Vehicles Designed or Used to Transport Passengers.—
+
+Safety review.—
+
+In general
+
+Applicability
+
+Periodic review
+
+Enforcement strike forces
+
+Periodic update of safety fitness rating
+
+Historical and Revision Notes
+
+31144(a)(1)
+
+Oct. 30, 1984
+
+Pub. L. 98–554, § 215
+
+98 Stat. 2844
+
+31144(a)(2)
+
+31144(b)
+
+Findings and Action on Applications
+
+Definitions
+
+Covered state
+
+Imminent hazard
+
+Review and Enforcement of State Out-of-service Orders
+
+Review and Enforcement of State Imminent Hazard Determinations.—
+
+In general
+
+Enforcement
+
+In General
+
+Report
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1012](https://www.govinfo.gov/link/statute/108/1012); [Pub. L. 104–88, title I, § 104(g)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 920](https://www.govinfo.gov/link/statute/109/920); [Pub. L. 105–178, title IV, § 4009(a)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 405](https://www.govinfo.gov/link/statute/112/405); [Pub. L. 106–159, title II, § 210(a)](https://www.govinfo.gov/link/plaw/106/public/159), Dec. 9, 1999, [113 Stat. 1764](https://www.govinfo.gov/link/statute/113/1764); [Pub. L. 109–59, title IV](https://www.govinfo.gov/link/plaw/109/public/59), §§ 4107(b), 4114, title VII, § 7112(b), (c), Aug. 10, 2005, [119 Stat. 1720](https://www.govinfo.gov/link/statute/119/1720), 1725, 1899; [Pub. L. 110–244, title III, § 301(b)](https://www.govinfo.gov/link/plaw/110/public/244), (c), June 6, 2008, [122 Stat. 1616](https://www.govinfo.gov/link/statute/122/1616); [Pub. L. 111–147, title IV, § 422(e)](https://www.govinfo.gov/link/plaw/111/public/147), Mar. 18, 2010, [124 Stat. 87](https://www.govinfo.gov/link/statute/124/87); [Pub. L. 111–322, title II, § 2202(e)](https://www.govinfo.gov/link/plaw/111/public/322), Dec. 22, 2010, [124 Stat. 3525](https://www.govinfo.gov/link/statute/124/3525); [Pub. L. 112–5, title II, § 202(e)](https://www.govinfo.gov/link/plaw/112/public/5), Mar. 4, 2011, [125 Stat. 17](https://www.govinfo.gov/link/statute/125/17); [Pub. L. 112–30, title I, § 122(e)](https://www.govinfo.gov/link/plaw/112/public/30), Sept. 16, 2011, [125 Stat. 349](https://www.govinfo.gov/link/statute/125/349); [Pub. L. 112–102, title II, § 202(e)](https://www.govinfo.gov/link/plaw/112/public/102), Mar. 30, 2012, [126 Stat. 274](https://www.govinfo.gov/link/statute/126/274); [Pub. L. 112–140, title II, § 202(e)](https://www.govinfo.gov/link/plaw/112/public/140), June 29, 2012, [126 Stat. 395](https://www.govinfo.gov/link/statute/126/395); [Pub. L. 112–141, div. C, title II](https://www.govinfo.gov/link/plaw/112/public/141), §§ 32102(a), 32202, 32603(e), 32707(a), 32921(b), div. G, title II, § 112002(d), July 6, 2012, [126 Stat. 778](https://www.govinfo.gov/link/statute/126/778), 784, 808, 813, 828, 983; [Pub. L. 113–159, title I, § 1102(e)](https://www.govinfo.gov/link/plaw/113/public/159), Aug. 8, 2014, [128 Stat. 1844](https://www.govinfo.gov/link/statute/128/1844); [Pub. L. 114–21, title I, § 1102(e)](https://www.govinfo.gov/link/plaw/114/public/21), May 29, 2015, [129 Stat. 222](https://www.govinfo.gov/link/statute/129/222); [Pub. L. 114–41, title I, § 1102(e)](https://www.govinfo.gov/link/plaw/114/public/41), July 31, 2015, [129 Stat. 449](https://www.govinfo.gov/link/statute/129/449); [Pub. L. 114–73, title I, § 1102(e)](https://www.govinfo.gov/link/plaw/114/public/73), Oct. 29, 2015, [129 Stat. 572](https://www.govinfo.gov/link/statute/129/572); [Pub. L. 114–87, title I, § 1102(e)](https://www.govinfo.gov/link/plaw/114/public/87), Nov. 20, 2015, [129 Stat. 681](https://www.govinfo.gov/link/statute/129/681); [Pub. L. 114–94, div. A, title V](https://www.govinfo.gov/link/plaw/114/public/94), §§ 5101(e)(1), 5105(d), 5508(b)(4), Dec. 4, 2015, [129 Stat. 1525](https://www.govinfo.gov/link/statute/129/1525), 1529, 1554.)*

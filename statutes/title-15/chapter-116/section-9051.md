@@ -3,9 +3,10 @@ title: "Section 9051 - Temporary relief from troubled debt restructurings"
 usc_title: 15
 usc_section: "9051"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9051"
-generated_at: "2026-03-30T02:54:08.241Z"
+generated_at: "2026-11-23T21:25:40.124Z"
+status: "active"
 ---
 
 # § 9051. Temporary relief from troubled debt restructurings
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.241Z"
 - **(d)** For modified loans for which suspensions under subsection (a) apply—
   - **(1)** financial institutions, including insurance companies, should continue to maintain records of the volume of loans involved; and
   - **(2)** the appropriate Federal banking agencies may collect data about such loans for supervisory purposes.
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title IV, § 4013](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 480](https://www.govinfo.gov/link/statute/134/480); [Pub. L. 116–260, div. N, title V, § 541](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2090](https://www.govinfo.gov/link/statute/134/2090).)*

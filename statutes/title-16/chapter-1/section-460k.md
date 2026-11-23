@@ -3,9 +3,10 @@ title: "Section 460k - Public recreation use of fish and wildlife conservation a
 usc_title: 16
 usc_section: "460k"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 460k"
-generated_at: "2026-03-30T02:54:22.811Z"
+generated_at: "2026-11-23T21:25:51.559Z"
+status: "active"
 ---
 
 # § 460k. Public recreation use of fish and wildlife conservation areas; compatibility with conservation purposes; appropriate incidental or secondary use; consistency with other Federal operations and primary objectives of particular areas; curtailment; forms of recreation not directly related to primary purposes of individual areas; repeal or amendment of provisions for particular areas
@@ -14,3 +15,7 @@ In recognition of mounting public demands for recreational opportunities on area
 
 - **(a)** that such recreational use will not interfere with the primary purposes for which the areas were established, and
 - **(b)** that funds are available for the development, operation, and maintenance of these permitted forms of recreation. This section shall not be construed to repeal or amend previous enactments relating to particular areas.
+
+## Source Credit
+
+*([Pub. L. 87–714, § 1](https://www.govinfo.gov/link/plaw/87/public/714), Sept. 28, 1962, [76 Stat. 653](https://www.govinfo.gov/link/statute/76/653); [Pub. L. 89–669, § 9](https://www.govinfo.gov/link/plaw/89/public/669), Oct. 15, 1966, [80 Stat. 930](https://www.govinfo.gov/link/statute/80/930).)*

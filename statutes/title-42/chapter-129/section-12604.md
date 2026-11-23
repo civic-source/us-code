@@ -3,9 +3,10 @@ title: "Section 12604 - Disbursement of educational awards"
 usc_title: 42
 usc_section: "12604"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12604"
-generated_at: "2026-03-30T02:56:11.420Z"
+generated_at: "2026-11-23T21:26:33.500Z"
+status: "active"
 ---
 
 # § 12604. Disbursement of educational awards
@@ -74,3 +75,7 @@ generated_at: "2026-03-30T02:56:11.420Z"
     - **(C)** who is a child, foster child, or grandchild of the individual described in subparagraph (A).
 - **(g)** With the approval of the Chief Executive Officer, an approved national service program funded under section 12571 of this title , may offer participants the option of waiving their right to receive a national service educational award, summer of service educational award, or silver scholar educational award, as appropriate, in order to receive an alternative post-service benefit funded by the program entirely with non-Federal funds.
 - **(h)** Notwithstanding section 12511 of this title , for purposes of this section the term “institution of higher education” has the meaning provided by section 102 of the Higher Education Act of 1965 [ 20 U.S.C. 1002 ].
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 148](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 103–82, title I, § 102(a)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 820](https://www.govinfo.gov/link/statute/107/820); amended [Pub. L. 105–244, title I, § 102(c)(2)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1622](https://www.govinfo.gov/link/statute/112/1622); [Pub. L. 111–13, title I, § 1405](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1515](https://www.govinfo.gov/link/statute/123/1515).)*

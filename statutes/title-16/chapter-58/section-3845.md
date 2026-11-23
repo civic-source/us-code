@@ -3,9 +3,10 @@ title: "Section 3845 - Environmental services markets"
 usc_title: 16
 usc_section: "3845"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3845"
-generated_at: "2026-03-30T02:54:23.034Z"
+generated_at: "2026-11-23T21:25:52.001Z"
+status: "active"
 ---
 
 # § 3845. Environmental services markets
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:23.034Z"
     - **(D)** nongovernmental organizations with relevant expertise or experience; and
     - **(E)** private sector representatives with relevant expertise or experience.
   - **(3)** Other interested persons, as determined by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1245](https://www.govinfo.gov/link/plaw/99/public/198), as added [Pub. L. 110–234, title II, § 2709](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1081](https://www.govinfo.gov/link/statute/122/1081), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title II, § 2709, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1809.)*

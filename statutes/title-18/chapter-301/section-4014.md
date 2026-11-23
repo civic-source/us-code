@@ -3,9 +3,10 @@ title: "Section 4014 - Testing for human immunodeficiency virus"
 usc_title: 18
 usc_section: "4014"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 4014"
-generated_at: "2026-03-30T02:54:16.526Z"
+generated_at: "2026-11-23T21:25:44.233Z"
+status: "active"
 ---
 
 # § 4014. Testing for human immunodeficiency virus
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:16.526Z"
 - **(c)** If the results of a test under subsection (a) or (b) indicate the presence of the human immunodeficiency virus, the Attorney General shall provide appropriate access for counselling, health care, and support services to the affected officer, employee, or other person, and to the person tested.
 - **(d)** The results of a test under this section are inadmissible against the person tested in any Federal or State civil or criminal case or proceeding.
 - **(e)** Not later than 1 year after the date of the enactment of this section, the Attorney General shall issue rules to implement this section. Such rules shall require that the results of any test are communicated only to the person tested, and, if the results of the test indicate the presence of the virus, to correctional facility personnel consistent with guidelines issued by the Bureau of Prisons. Such rules shall also provide for procedures designed to protect the privacy of a person requesting that the test be performed and the privacy of the person tested.
+
+## Source Credit
+
+*(Added [Pub. L. 105–370, § 2(a)](https://www.govinfo.gov/link/plaw/105/public/370), Nov. 12, 1998, [112 Stat. 3374](https://www.govinfo.gov/link/statute/112/3374).)*

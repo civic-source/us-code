@@ -3,9 +3,10 @@ title: "Section 8111 - Intellectual Property Enforcement Coordinator"
 usc_title: 15
 usc_section: "8111"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8111"
-generated_at: "2026-03-30T02:54:08.227Z"
+generated_at: "2026-11-23T21:25:40.073Z"
+status: "active"
 ---
 
 # § 8111. Intellectual Property Enforcement Coordinator
@@ -35,3 +36,15 @@ generated_at: "2026-03-30T02:54:08.227Z"
         - **(IX)** Any such other agencies as the President determines to be substantially involved in the efforts of the Federal Government to combat counterfeiting and infringement.
       - **(ii)** The Register of Copyrights, or a senior representative of the United States Copyright Office appointed by the Register of Copyrights.
     - **(B)** The advisory committee established under subparagraph (A) shall develop the Joint Strategic Plan against counterfeiting and infringement under section 8113 of this title .
+
+Section
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 110–403, title III, § 301](https://www.govinfo.gov/link/plaw/110/public/403), Oct. 13, 2008, [122 Stat. 4264](https://www.govinfo.gov/link/statute/122/4264).)*

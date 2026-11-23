@@ -3,9 +3,10 @@ title: "Section 3910 - Audit authority of Government Accountability Office"
 usc_title: 12
 usc_section: "3910"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3910"
-generated_at: "2026-03-30T02:53:53.498Z"
+generated_at: "2026-11-23T21:25:37.155Z"
+status: "active"
 ---
 
 # § 3910. Audit authority of Government Accountability Office
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:53.498Z"
     - **(B)** The Comptroller General shall give each appropriate Federal banking agency a current list of officers and employees to whom, with proper identification, records and property may be made available, and who may make notes or copies necessary to carry out an audit.
     - **(C)** Each appropriate Federal banking agency shall give the Comptroller General suitable and lockable offices and furniture, telephones, and access to copying facilities.
   - **(2)** Except for the temporary removal of workpapers of the Comptroller General that do not identify a customer of an open or closed bank or bank holding company, an open bank, or an open bank holding company, all workpapers of the Comptroller General and records and property of or used by an appropriate Federal banking agency that the Comptroller General possesses during an audit, shall remain in such agency. The Comptroller General shall prevent unauthorized access to records or property.
+
+## Source Credit
+
+*([Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title IX, § 911], Nov. 30, 1983, [97 Stat. 1282](https://www.govinfo.gov/link/statute/97/1282); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

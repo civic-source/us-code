@@ -3,9 +3,10 @@ title: "Section 523 - Coordination and promotion of other programs affecting vet
 usc_title: 38
 usc_section: "523"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 523"
-generated_at: "2026-03-30T02:55:53.472Z"
+generated_at: "2026-11-23T21:26:16.557Z"
+status: "active"
 ---
 
 # § 523. Coordination and promotion of other programs affecting veterans and their dependents
@@ -15,3 +16,33 @@ generated_at: "2026-03-30T02:55:53.472Z"
 - **(c)** The Secretary shall maintain a publicly available website of the Department through which a veteran or dependent of a veteran may search by ZIP code for programs for—
   - **(1)** veterans who recently separated from active military, naval, air, or space service; or
   - **(2)** dependents of veterans described in paragraph (1).
+
+Pilot Program Required
+
+Duration of Program
+
+Program Locations.—
+
+In general
+
+Considerations
+
+Grants
+
+Selection of Grant Recipients.—
+
+In general
+
+Elements
+
+Use of Grant Funds
+
+Report on Program.—
+
+In general
+
+Elements
+
+## Source Credit
+
+*(Added [Pub. L. 102–83, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 390](https://www.govinfo.gov/link/statute/105/390); amended [Pub. L. 119–60, div. A, title V, § 571(e)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 885](https://www.govinfo.gov/link/statute/139/885).)*

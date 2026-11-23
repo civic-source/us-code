@@ -3,9 +3,10 @@ title: "Section 13106 - Source reduction and recycling data collection"
 usc_title: 42
 usc_section: "13106"
 chapter: 133
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13106"
-generated_at: "2026-03-30T02:56:11.438Z"
+generated_at: "2026-11-23T21:26:33.578Z"
+status: "active"
 ---
 
 # § 13106. Source reduction and recycling data collection
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.438Z"
 - **(c)** The provisions of sections 11042, 11045(c), and 11046 of this title shall apply to the reporting requirements of this section in the same manner as to the reports required under section 11023 of this title . The Administrator may modify the form required for purposes of reporting information under section 11023 of this title to the extent he deems necessary to include the additional information required under this section.
 - **(d)** Any person filing a report under this section for any year may include with the report additional information regarding source reduction, recycling, and other pollution control techniques in earlier years.
 - **(e)** Subject to section 11042 of this title , the Administrator shall make data collected under this section publicly available in the same manner as the data collected under section 11023 of this title .
+
+## Source Credit
+
+*([Pub. L. 101–508, title VI, § 6607](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–324](https://www.govinfo.gov/link/statute/104/1388).)*

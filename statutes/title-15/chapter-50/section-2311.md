@@ -3,9 +3,10 @@ title: "Section 2311 - Applicability to other laws"
 usc_title: 15
 usc_section: "2311"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2311"
-generated_at: "2026-03-30T02:54:08.171Z"
+generated_at: "2026-11-23T21:25:39.926Z"
+status: "active"
 ---
 
 # § 2311. Applicability to other laws
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:08.171Z"
     - **(C)** which is not identical to a requirement of section 2302, 2303, or 2304 of this title (or a rule thereunder),
   - **(2)** If, upon application of an appropriate State agency, the Commission determines (pursuant to rules issued in accordance with section 2309 of this title ) that any requirement of such State covering any transaction to which this chapter applies (A) affords protection to consumers greater than the requirements of this chapter and (B) does not unduly burden interstate commerce, then such State requirement shall be applicable (notwithstanding the provisions of paragraph (1) of this subsection) to the extent specified in such determination for so long as the State administers and enforces effectively any such greater requirement.
 - **(d)** This chapter (other than section 2302(c) of this title ) shall be inapplicable to any written warranty the making or content of which is otherwise governed by Federal law. If only a portion of a written warranty is so governed by Federal law, the remaining portion shall be subject to this chapter.
+
+## Source Credit
+
+*([Pub. L. 93–637, title I, § 111](https://www.govinfo.gov/link/plaw/93/public/637), Jan. 4, 1975, [88 Stat. 2192](https://www.govinfo.gov/link/statute/88/2192).)*

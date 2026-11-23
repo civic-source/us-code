@@ -3,9 +3,10 @@ title: "Section 4022 - Power of attorney"
 usc_title: 50
 usc_section: "4022"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4022"
-generated_at: "2026-03-30T02:56:26.265Z"
+generated_at: "2026-11-23T21:26:39.083Z"
+status: "active"
 ---
 
 # § 4022. Power of attorney
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:26.265Z"
   - **(2)** designates the servicemember’s spouse, parent, or other named relative as the servicemember’s attorney in fact for certain, specified, or all purposes; and
   - **(3)** expires by its terms after the servicemember entered a missing status.
 - **(b)** A power of attorney executed by a servicemember may not be extended under subsection (a) if the document by its terms clearly indicates that the power granted expires on the date specified even though the servicemember, after the date of execution of the document, enters a missing status.
+
+## Source Credit
+
+*(Oct. 17, 1940, ch. 888, title VII, § 702, as added [Pub. L. 108–189, § 1](https://www.govinfo.gov/link/plaw/108/public/189), Dec. 19, 2003, [117 Stat. 2861](https://www.govinfo.gov/link/statute/117/2861).)*

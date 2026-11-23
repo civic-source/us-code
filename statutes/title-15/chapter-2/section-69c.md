@@ -3,9 +3,10 @@ title: "Section 69c - False advertising and invoicing"
 usc_title: 15
 usc_section: "69c"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 69c"
-generated_at: "2026-03-30T02:54:08.029Z"
+generated_at: "2026-11-23T21:25:39.492Z"
+status: "active"
 ---
 
 # § 69c. False advertising and invoicing
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.029Z"
     - **(E)** the name and address of the person issuing such invoice;
     - **(F)** the name of the country of origin of any imported furs or those contained in a fur product;
   - **(2)** if such invoice contains the name or names of any animal or animals other than the name or names specified in paragraph (1)(A) of this subsection, or contains any form of misrepresentation or deception, directly or by implication, with respect to such fur product or fur.
+
+## Source Credit
+
+*(Aug. 8, 1951, ch. 298, § 5, [65 Stat. 178](https://www.govinfo.gov/link/statute/65/178).)*

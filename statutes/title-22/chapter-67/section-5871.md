@@ -3,9 +3,10 @@ title: "Section 5871 - Facilitating discussions regarding acquisition of space h
 usc_title: 22
 usc_section: "5871"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5871"
-generated_at: "2026-03-30T02:55:05.421Z"
+generated_at: "2026-11-23T21:25:58.671Z"
+status: "active"
 ---
 
 # § 5871. Facilitating discussions regarding acquisition of space hardware, technology, and services from former Soviet Union
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.421Z"
 - **(c)** This section applies to a request for any license or other approval that may be necessary to conduct discussions with an independent state of the former Soviet Union with respect to the possible acquisition of any space hardware, space technology, or space service for integration into—
   - **(1)** United States space projects that have been approved by the Congress, or
   - **(2)** commercial space ventures,
+
+## Source Credit
+
+*([Pub. L. 102–511, title VI, § 601](https://www.govinfo.gov/link/plaw/102/public/511), Oct. 24, 1992, [106 Stat. 3346](https://www.govinfo.gov/link/statute/106/3346).)*

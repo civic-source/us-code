@@ -3,9 +3,10 @@ title: "Section 4 - Information Security and Privacy Advisory Board"
 usc_title: 15
 usc_section: "4"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4"
-generated_at: "2026-03-30T02:54:08.078Z"
+generated_at: "2026-11-23T21:25:39.620Z"
+status: "active"
 ---
 
 # § 278g–4. Information Security and Privacy Advisory Board
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.078Z"
 - **(f)** The Board shall hold meetings at such locations and at such time and place as determined by a majority of the Board.
 - **(g)** To provide the staff services necessary to assist the Board in carrying out its functions, the Board may utilize personnel from the Institute or any other agency of the Federal Government with the consent of the head of the agency.
 - **(h)** As used in this section, the terms “information system” and “information technology” have the meanings given in section 278g–3 of this title .
+
+## Source Credit
+
+*(Mar. 3, 1901, ch. 872, § 21, as added [Pub. L. 100–235, § 3(2)](https://www.govinfo.gov/link/plaw/100/public/235), Jan. 8, 1988, [101 Stat. 1727](https://www.govinfo.gov/link/statute/101/1727); amended [Pub. L. 100–418, title V, § 5115(a)(1)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1433](https://www.govinfo.gov/link/statute/102/1433); [Pub. L. 107–296, title X, § 1004](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2271](https://www.govinfo.gov/link/statute/116/2271); [Pub. L. 107–347, title III, § 304](https://www.govinfo.gov/link/plaw/107/public/347), Dec. 17, 2002, [116 Stat. 2959](https://www.govinfo.gov/link/statute/116/2959); [Pub. L. 113–283, § 2(f)(2)](https://www.govinfo.gov/link/plaw/113/public/283), Dec. 18, 2014, [128 Stat. 3087](https://www.govinfo.gov/link/statute/128/3087).)*

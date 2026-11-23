@@ -3,9 +3,10 @@ title: "Section 720h - Clarification of ANGTA status and authorities"
 usc_title: 15
 usc_section: "720h"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 720h"
-generated_at: "2026-03-30T02:54:08.121Z"
+generated_at: "2026-11-23T21:25:39.757Z"
+status: "active"
 ---
 
 # § 720h. Clarification of ANGTA status and authorities
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.121Z"
   - **(1)** would not compel any change in the basic nature and general route of the Alaska natural gas transportation system as designated and described in section 2 of the President’s decision; or
   - **(2)** would not otherwise prevent or impair in any significant respect the expeditious construction and initial operation of the Alaska natural gas transportation system.
 - **(c)** The Secretary shall require the sponsor of the Alaska natural gas transportation system to submit such updated environmental data, reports, permits, and impact analyses as the Secretary determines are necessary to develop detailed terms, conditions, and compliance plans required by section 5 of the President’s decision.
+
+## Source Credit
+
+*([Pub. L. 108–324, div. C, § 110](https://www.govinfo.gov/link/plaw/108/public/324), Oct. 13, 2004, [118 Stat. 1262](https://www.govinfo.gov/link/statute/118/1262).)*

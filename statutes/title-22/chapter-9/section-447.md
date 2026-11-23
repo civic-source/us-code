@@ -3,9 +3,10 @@ title: "Section 447 - Financial transactions"
 usc_title: 22
 usc_section: "447"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 447"
-generated_at: "2026-03-30T02:55:05.327Z"
+generated_at: "2026-11-23T21:25:58.386Z"
+status: "active"
 ---
 
 # § 447. Financial transactions
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.327Z"
 - **(c)** Whoever shall knowingly violate any of the provisions of this section or of any regulations issued thereunder shall, upon conviction thereof, be fined not more than $50,000 or imprisoned for not more than five years, or both. Should the violation be by a corporation, organization, or association, each officer or director thereof participating in the violation shall be liable to the penalty herein prescribed.
 - **(d)** Whenever any proclamation issued under the authority of section 441(a) of this title shall have been revoked with respect to any state the provisions of this section shall thereupon cease to apply with respect to such state, except as to offenses committed prior to such revocation.
 - **(e)** This section shall not be operative when the United States is at war.
+
+## Source Credit
+
+*(Nov. 4, 1939, ch. 2, § 7, [54 Stat. 8](https://www.govinfo.gov/link/statute/54/8); Feb. 21, 1942, ch. 104, [56 Stat. 95](https://www.govinfo.gov/link/statute/56/95).)*

@@ -3,9 +3,10 @@ title: "Section 4671 - Imposition of tax"
 usc_title: 26
 usc_section: "4671"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4671"
-generated_at: "2026-03-30T02:55:27.805Z"
+generated_at: "2026-11-23T21:26:06.636Z"
+status: "active"
 ---
 
 # § 4671. Imposition of tax
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:27.805Z"
   - **(1)** Paragraphs (2), (5), and (9) of section 4662(b) (relating to tax-free sales of chemicals used as fuel or in the production of fertilizer or animal feed).
   - **(2)** Paragraphs (2), (3), and (4) of section 4662(d) (relating to refund or credit of tax on certain chemicals used as fuel or in the production of fertilizer or animal feed).
 - **(e)** No tax shall be imposed by this section after December 31, 2031 .
+
+## Source Credit
+
+*(Added [Pub. L. 99–499, title V, § 515(a)](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1767](https://www.govinfo.gov/link/statute/100/1767); amended [Pub. L. 99–509, title VIII, § 8032(c)(3)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1958](https://www.govinfo.gov/link/statute/100/1958); [Pub. L. 117–58, div. H, title II, § 80201(a)(2)](https://www.govinfo.gov/link/plaw/117/public/58), (b)(2), Nov. 15, 2021, [135 Stat. 1328](https://www.govinfo.gov/link/statute/135/1328), 1330.)*

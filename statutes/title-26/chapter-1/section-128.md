@@ -3,9 +3,10 @@ title: "Section 128 - Employer contributions to Trump accounts"
 usc_title: 26
 usc_section: "128"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 128"
-generated_at: "2026-03-30T02:55:27.627Z"
+generated_at: "2026-11-23T21:26:06.009Z"
+status: "active"
 ---
 
 # § 128. Employer contributions to Trump accounts
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:27.627Z"
       - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins by substituting “calendar year 2026” for “calendar year 2016” in subparagraph (A)(ii) thereof.
     - **(B)** If any increase determined under subparagraph (A) is not a multiple of $100, such increase shall be rounded to the next lowest multiple of $100.
 - **(c)** For purposes of this section, a Trump account contribution program is a separate written plan of an employer for the exclusive benefit of his employees to provide contributions to the Trump accounts of such employees or dependents of such employees which meets requirements similar to the requirements of paragraphs (2), (3), (6), (7), and (8) of section 129(d).
+
+## Source Credit
+
+*(Added [Pub. L. 119–21, title VII, § 70204(b)(1)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 186](https://www.govinfo.gov/link/statute/139/186).)*

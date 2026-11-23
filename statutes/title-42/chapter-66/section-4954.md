@@ -3,9 +3,10 @@ title: "Section 4954 - Terms and periods of service"
 usc_title: 42
 usc_section: "4954"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4954"
-generated_at: "2026-03-30T02:56:11.211Z"
+generated_at: "2026-11-23T21:26:32.704Z"
+status: "active"
 ---
 
 # § 4954. Terms and periods of service
@@ -21,3 +22,13 @@ generated_at: "2026-03-30T02:56:11.211Z"
   - **(1)** Notwithstanding any other provision of this part, the Director may enroll full-time VISTA summer associates in a program for the summer months only, under such terms and conditions as the Director shall determine to be appropriate. Such individuals shall be assigned to projects that meet the criteria set forth in section 4953(a) of this title .
   - **(2)** In preparing reports relating to programs under this chapter, the Director shall report on participants, costs, and accomplishments under the summer program separately.
   - **(3)** The limitation on funds appropriated for grants and contracts, as contained in section 4958 of this title , shall not apply to the summer program.
+
+In general
+
+Limitations on extensions
+
+Duration of authority
+
+## Source Credit
+
+*([Pub. L. 93–113, title I, § 104](https://www.govinfo.gov/link/plaw/93/public/113), Oct. 1, 1973, [87 Stat. 397](https://www.govinfo.gov/link/statute/87/397); [Pub. L. 98–288, § 5](https://www.govinfo.gov/link/plaw/98/public/288), May 21, 1984, [98 Stat. 190](https://www.govinfo.gov/link/statute/98/190); [Pub. L. 101–204, title VII, § 702](https://www.govinfo.gov/link/plaw/101/public/204), Dec. 7, 1989, [103 Stat. 1821](https://www.govinfo.gov/link/statute/103/1821); [Pub. L. 103–82, title III, § 324](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 900](https://www.govinfo.gov/link/statute/107/900).)*

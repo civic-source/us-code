@@ -3,9 +3,10 @@ title: "Section 2210 - Indemnification and limitation of liability"
 usc_title: 42
 usc_section: "2210"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2210"
-generated_at: "2026-03-30T02:56:11.155Z"
+generated_at: "2026-11-23T21:26:32.370Z"
+status: "active"
 ---
 
 # § 2210. Indemnification and limitation of liability
@@ -171,3 +172,215 @@ generated_at: "2026-03-30T02:56:11.155Z"
     - **(A)** that date, in the case of the first adjustment under this paragraph; or
     - **(B)** the previous adjustment under this paragraph.
   - **(3)** For purposes of this subsection, the term “Consumer Price Index” means the Consumer Price Index for all urban consumers published by the Secretary of Labor.
+
+“Congress finds that—
+
+In general
+
+Affidavits
+
+Findings
+
+Purpose
+
+Apology
+
+Establishment
+
+Investment of Amounts in the Fund
+
+Availability of the Fund
+
+Termination
+
+Appropriation.—
+
+In general
+
+Limitation
+
+Claims.—
+
+Claims relating to leukemia.—
+
+In general
+
+Amount
+
+Conditions
+
+Claims Relating to Specified Diseases
+
+Conformity with section 6
+
+Exclusion
+
+Definitions
+
+Eligibility of Individuals.—
+
+In general
+
+(aa) does not meet the conditions of subclause (I) or (II);
+
+“(bb) worked, during the period described in clause (i)(I), in 2 or more of the following positions: miner, miller, core driller, and ore transporter;
+
+“(cc) meets the requirements under paragraph (4) or (5); and
+
+“(dd) submits written medical documentation that the individual developed lung cancer, a nonmalignant respiratory disease, renal cancer, or any other chronic renal disease, including nephritis and kidney tubal tissue injury after exposure to radiation through work in one or more of the positions referred to in item (bb);
+
+Inclusion of additional states
+
+Payment requirement
+
+Special rule relating to combined work histories for individuals with at least one year of experience
+
+Special rule relating to combined work histories for miners
+
+Definitions
+
+Written Documentation.—
+
+Diagnosis alternative to arterial blood gas study.—
+
+In general
+
+Certain written diagnoses.—
+
+In general
+
+Description of physicians
+
+Chest x-rays.—
+
+In general
+
+Certain written diagnoses.—
+
+In general
+
+Description of physicians
+
+“(aa) the Indian Health Service; or
+
+“(bb) the Department of Veterans Affairs; and
+
+General
+
+Losses Available to Living Affected Individuals.—
+
+In general
+
+Losses due to medical expenses
+
+Limitation
+
+Payments to Beneficiaries of Deceased Individuals
+
+Affected Areas
+
+Specified Disease
+
+In general
+
+Types of physical presence
+
+Disease Contraction in Affected Areas
+
+Establishment of Filing Procedures
+
+Determination of Claims.—
+
+In general
+
+Consultation
+
+Payment of Claims.—
+
+In general
+
+Offset for certain payments
+
+Right of subrogation
+
+Payments in the case of deceased persons.—
+
+In general
+
+Individuals who are survivors
+
+Definitions
+
+Application of native american law
+
+Action on Claims.—
+
+In general
+
+Additional information
+
+Treatment of period associated with request.—
+
+In general
+
+Period
+
+Payment within 6 weeks
+
+Native american considerations
+
+Payment in Full Settlement of Claims Against the United States
+
+Administrative Costs Not Paid From the Fund
+
+Termination of Duties of Attorney General
+
+Certification of Treatment of Payments Under Other Laws
+
+Use of Existing Resources
+
+Regulatory Authority
+
+Issuance of Regulations, Guidelines, and Procedures
+
+Judicial Review
+
+Claims Not Assignable or Transferable
+
+Choice of Remedies
+
+In General
+
+Resubmittal of Claims
+
+General Rule
+
+Applicable Percentage Limitations
+
+Penalty
+
+Report
+
+Completion
+
+Rulemaking Proceeding.—
+
+Purpose
+
+Final determination
+
+Negotiated Rulemaking.—
+
+Administrative conference guidelines
+
+Designation of convener
+
+Submission of recommendations of the convener
+
+Publication of recommendations and proposed rule
+
+Administrative procedures
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 170, as added [Pub. L. 85–256, § 4](https://www.govinfo.gov/link/plaw/85/public/256), Sept. 2, 1957, [71 Stat. 576](https://www.govinfo.gov/link/statute/71/576); amended [Pub. L. 85–602](https://www.govinfo.gov/link/plaw/85/public/602), §§ 2, 2[3], Aug. 8, 1958, [72 Stat. 525](https://www.govinfo.gov/link/statute/72/525); [Pub. L. 85–744](https://www.govinfo.gov/link/plaw/85/public/744), Aug. 23, 1958, [72 Stat. 837](https://www.govinfo.gov/link/statute/72/837); [Pub. L. 87–206, § 15](https://www.govinfo.gov/link/plaw/87/public/206), Sept. 6, 1961, [75 Stat. 479](https://www.govinfo.gov/link/statute/75/479); [Pub. L. 87–615](https://www.govinfo.gov/link/plaw/87/public/615), §§ 6, 7, Aug. 29, 1962, [76 Stat. 410](https://www.govinfo.gov/link/statute/76/410); [Pub. L. 88–394](https://www.govinfo.gov/link/plaw/88/public/394), §§ 2, 3, Aug. 1, 1964, [78 Stat. 376](https://www.govinfo.gov/link/statute/78/376); [Pub. L. 89–210](https://www.govinfo.gov/link/plaw/89/public/210), §§ 1–5, Sept. 29, 1965, [79 Stat. 855–857](https://www.govinfo.gov/link/statute/79/855); [Pub. L. 89–645](https://www.govinfo.gov/link/plaw/89/public/645), §§ 2, 3, Oct. 13, 1966, [80 Stat. 891](https://www.govinfo.gov/link/statute/80/891); [Pub. L. 94–197](https://www.govinfo.gov/link/plaw/94/public/197), §§ 2–14, Dec. 31, 1975, [89 Stat. 1111–1115](https://www.govinfo.gov/link/statute/89/1111); [Pub. L. 100–408](https://www.govinfo.gov/link/plaw/100/public/408), §§ 2–4(a), 5(c)–11(a), (c), (d)(1), 12–15, 16(a)(2), (b)(3)–(c), (d)(4)–(e), Aug. 20, 1988, [102 Stat. 1066–1068](https://www.govinfo.gov/link/statute/102/1066), 1070–1080; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944); [Pub. L. 105–362, title XII, § 1201(b)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3292](https://www.govinfo.gov/link/statute/112/3292); [Pub. L. 107–314, div. C, title XXXI, § 3171](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2743](https://www.govinfo.gov/link/statute/116/2743); [Pub. L. 108–7, div. O, § 101](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 551](https://www.govinfo.gov/link/statute/117/551); [Pub. L. 108–375, div. C, title XXXI, § 3141](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2171](https://www.govinfo.gov/link/statute/118/2171); [Pub. L. 109–58, title VI](https://www.govinfo.gov/link/plaw/109/public/58), §§ 602–608, Aug. 8, 2005, [119 Stat. 779–781](https://www.govinfo.gov/link/statute/119/779); [Pub. L. 109–295, title VI, § 612(c)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1410](https://www.govinfo.gov/link/statute/120/1410); [Pub. L. 117–286, § 4(a)(260)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4334](https://www.govinfo.gov/link/statute/136/4334); [Pub. L. 118–47, div. G, title I, § 107(a)](https://www.govinfo.gov/link/plaw/118/public/47) –(c), Mar. 23, 2024, [138 Stat. 857](https://www.govinfo.gov/link/statute/138/857).)*

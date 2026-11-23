@@ -3,9 +3,10 @@ title: "Section 9905 - Direct hire authority for certain personnel of the Depart
 usc_title: 5
 usc_section: "9905"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 9905"
-generated_at: "2026-03-30T02:52:56.075Z"
+generated_at: "2026-11-23T21:25:23.466Z"
+status: "active"
 ---
 
 # § 9905. Direct hire authority for certain personnel of the Department of Defense
@@ -33,3 +34,17 @@ generated_at: "2026-03-30T02:52:56.075Z"
   - **(2)** Sections 1112 and 1113 of the National Defense Authorization Act for Fiscal Year 2016 ( Public Law 114–92 ; 129 Stat. 1033 ).
   - **(3)** Sections 1110 and 1643(a)(3) of the National Defense Authorization Act for Fiscal Year 2017 ( Public Law 114–328 ; 130 Stat. 2450 and 2602).
   - **(4)** Sections 559 and 1101 of the National Defense Authorization Act for Fiscal Year 2018 ( Public Law 115–91 ; 131 Stat. 1406 and 1627).
+
+In General
+
+Sunset.—
+
+In general
+
+Exception
+
+Suspension of Other Hiring Authorities
+
+## Source Credit
+
+*(Added [Pub. L. 115–232, div. A, title XI, § 1101(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2000](https://www.govinfo.gov/link/statute/132/2000); amended [Pub. L. 116–92, div. A, title XI, § 1109(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1598](https://www.govinfo.gov/link/statute/133/1598); [Pub. L. 116–283, div. A, title XI, § 1117](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3897](https://www.govinfo.gov/link/statute/134/3897); [Pub. L. 118–31, div. A, title XI, § 1104](https://www.govinfo.gov/link/plaw/118/public/31), title XII, § 1250B(i), Dec. 22, 2023, [137 Stat. 427](https://www.govinfo.gov/link/statute/137/427), 467.)*

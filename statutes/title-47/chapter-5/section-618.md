@@ -3,9 +3,10 @@ title: "Section 618 - Enforcement and recordkeeping obligations"
 usc_title: 47
 usc_section: "618"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 618"
-generated_at: "2026-03-30T02:56:24.525Z"
+generated_at: "2026-11-23T21:26:36.059Z"
+status: "active"
 ---
 
 # § 618. Enforcement and recordkeeping obligations
@@ -49,3 +50,9 @@ generated_at: "2026-03-30T02:56:24.525Z"
   - **(2)** Not later than 5 years after October 8, 2010 , the Comptroller General shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the results of the study required by paragraph (1), with recommendations for how the enforcement process and measures under this section may be modified or improved.
 - **(d)** Within one year after October 8, 2010 , the Commission shall, in consultation with the Architectural and Transportation Barriers Compliance Board, the National Telecommunications and Information Administration, trade associations, and organizations representing individuals with disabilities, establish a clearinghouse of information on the availability of accessible products and services and accessibility solutions required under sections 255, 617, and 619 of this title. Such information shall be made publicly available on the Commission’s website and by other means, and shall include an annually updated list of products and services with access features.
 - **(e)** Upon establishment of the clearinghouse of information required under subsection (d), the Commission, in coordination with the National Telecommunications and Information Administration, shall conduct an informational and educational program designed to inform the public about the availability of the clearinghouse and the protections and remedies available under sections 255, 617, and 619 of this title.
+
+No violation
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VII, § 717, as added [Pub. L. 111–260, title I, § 104(a)](https://www.govinfo.gov/link/plaw/111/public/260), Oct. 8, 2010, [124 Stat. 2758](https://www.govinfo.gov/link/statute/124/2758); amended [Pub. L. 111–265, § 2(3)](https://www.govinfo.gov/link/plaw/111/public/265), Oct. 8, 2010, [124 Stat. 2795](https://www.govinfo.gov/link/statute/124/2795).)*

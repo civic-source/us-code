@@ -3,9 +3,10 @@ title: "Section 15505 - Local development districts and organizations"
 usc_title: 40
 usc_section: "15505"
 chapter: 155
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 15505"
-generated_at: "2026-03-30T02:55:43.388Z"
+generated_at: "2026-11-23T21:26:14.974Z"
+status: "active"
 ---
 
 # § 15505. Local development districts and organizations
@@ -20,3 +21,19 @@ generated_at: "2026-03-30T02:55:43.388Z"
   - **(2)** assist the Commission in carrying out outreach activities for local governments, community development groups, the business community, and the public;
   - **(3)** serve as a liaison between State and local governments, nonprofit organizations (including community-based groups and educational institutions), the business community, and citizens; and
   - **(4)** assist the individuals and entities described in paragraph (3) in identifying, assessing, and facilitating projects and programs to promote the economic development of the region.
+
+Grants to Local Development Districts
+
+Conditions for Grants.—
+
+Maximum amount
+
+Maximum period for state agencies
+
+Local share
+
+Duties of Local Development Districts
+
+## Source Credit
+
+*(Added [Pub. L. 110–234, title XIV, § 14217(a)(2)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1477](https://www.govinfo.gov/link/statute/122/1477), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14217(a)(2), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2239.)*

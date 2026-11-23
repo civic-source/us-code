@@ -3,9 +3,10 @@ title: "Section 1252 - Comprehensive programs for water pollution control"
 usc_title: 33
 usc_section: "1252"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1252"
-generated_at: "2026-03-30T02:55:41.081Z"
+generated_at: "2026-11-23T21:26:11.360Z"
+status: "active"
 ---
 
 # § 1252. Comprehensive programs for water pollution control
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:41.081Z"
     - **(C)** recommends maintenance and improvement of water quality within the basin or portion thereof and recommends methods of adequately financing those facilities as may be necessary to implement the plan; and
     - **(D)** as appropriate, is developed in cooperation with, and is consistent with any comprehensive plan prepared by the Water Resources Council, any areawide waste management plans developed pursuant to section 1288 of this title , and any State plan developed pursuant to section 1313(e) of this title .
   - **(3)** For the purposes of this subsection the term “basin” includes, but is not limited to, rivers and their tributaries, streams, coastal waters, sounds, estuaries, bays, lakes, and portions thereof as well as the lands drained thereby.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title I, § 102, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 817](https://www.govinfo.gov/link/statute/86/817); amended [Pub. L. 95–91, title IV, § 402(a)(1)(A)](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 583](https://www.govinfo.gov/link/statute/91/583); [Pub. L. 95–217, § 5(b)](https://www.govinfo.gov/link/plaw/95/public/217), Dec. 27, 1977, [91 Stat. 1567](https://www.govinfo.gov/link/statute/91/1567); [Pub. L. 104–66, title II, § 2021(a)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 726](https://www.govinfo.gov/link/statute/109/726).)*

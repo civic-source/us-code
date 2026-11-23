@@ -3,9 +3,10 @@ title: "Section 11123 - Situations requiring immediate action to serve the publi
 usc_title: 49
 usc_section: "11123"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 11123"
-generated_at: "2026-03-30T02:56:19.325Z"
+generated_at: "2026-11-23T21:26:40.677Z"
+status: "active"
 ---
 
 # § 11123. Situations requiring immediate action to serve the public
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:19.325Z"
 - **(d)** In carrying out this section, the Board shall require, to the maximum extent practicable, the use of employees who would normally have performed work in connection with the traffic subject to the action of the Board.
 - **(e)** For purposes of this section, the National Railroad Passenger Corporation and any entity providing commuter rail passenger transportation shall be considered rail carriers subject to the Board’s jurisdiction.
 - **(f)** For purposes of this section, the term “commuter rail passenger transportation” has the meaning given that term in section 24102(4). 1 1 See References in Text note below.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 833](https://www.govinfo.gov/link/statute/109/833); amended [Pub. L. 108–199, div. F, title I, § 150(1)](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 302](https://www.govinfo.gov/link/statute/118/302).)*

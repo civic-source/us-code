@@ -3,9 +3,10 @@ title: "Section 292 - Voluntary separation incentive payments"
 usc_title: 6
 usc_section: "292"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 292"
-generated_at: "2026-03-30T02:53:09.455Z"
+generated_at: "2026-11-23T21:25:25.774Z"
+status: "active"
 ---
 
 # § 292. Voluntary separation incentive payments
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:53:09.455Z"
 - **(f)**
   - **(1)** Voluntary separations under this section are not intended to necessarily reduce the total number of full-time equivalent positions in any covered entity.
   - **(2)** A covered entity may redeploy or use the full-time equivalent positions vacated by voluntary separations under this section to make other positions available to more critical locations or more critical occupations.
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 472](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2205](https://www.govinfo.gov/link/statute/116/2205).)*

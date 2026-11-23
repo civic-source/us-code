@@ -3,9 +3,10 @@ title: "Section 41310 - Discriminatory practices"
 usc_title: 49
 usc_section: "41310"
 chapter: 413
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 41310"
-generated_at: "2026-03-30T02:56:19.373Z"
+generated_at: "2026-11-23T21:26:40.852Z"
+status: "active"
 ---
 
 # § 41310. Discriminatory practices
@@ -37,3 +38,165 @@ generated_at: "2026-03-30T02:56:19.373Z"
 - **(g)** The Secretary of Transportation may take such actions as the Secretary considers are in the public interest to eliminate an activity of a foreign air carrier that owns or markets a computer reservations system, or of a computer reservations system firm whose principal offices are located outside the United States, when the Secretary, on the initiative of the Secretary or on complaint, decides that the activity, with respect to airline service—
   - **(1)** is an unjustifiable or unreasonable discriminatory, predatory, or anticompetitive practice against a computer reservations system firm whose principal offices are located inside the United States; or
   - **(2)** imposes an unjustifiable or unreasonable restriction on access of such a computer reservations system to a foreign market.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 41310(a) | 49 App.:1374(b). | Aug. 23, 1958 , Pub. L. 85–726, § 404(b) , 72 Stat. 760 . |
+|  | 49 App.:1551(a)(4)(C) (related to 49 App.:1374(b)). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1601(a)(4)(C) (related to § 404(b)); added Oct. 4, 1984 , Pub. L. 98–443, § 3(c) , 98 Stat. 1703 . |
+| 41310(b) | 49 App.:1159a. | June 16, 1948, ch. 473 , 62 Stat. 450 , § 11; added Jan. 3, 1975 , Pub. L. 93–623, § 3 , 88 Stat. 2103 ; Oct. 4, 1984 , Pub. L. 98–443, § 9(c) , 98 Stat. 1706 . |
+| 41310(c) | 49 App.:1159b(b)(1). | Jan. 3, 1975 , Pub. L. 93–623 , 88 Stat. 2102 , § 2(b)(1), (2), (4); added Feb. 15, 1980 , Pub. L. 96–192, § 23 , 94 Stat. 45 ; Oct. 4, 1984 , Pub. L. 98–443, § 9(d)(2) , (3), 98 Stat. 1707 ; Aug. 23, 1988 , Pub. L. 100–418 , §§ 10011, 10012(1), (2), 102 Stat. 1573 . |
+| 41310(d)(1) | 49 App.:1159b(b)(2), (4). |  |
+| 41310(d)(2) | 49 App.:1159b(b)(3). | Jan. 3, 1975 , Pub. L. 93–623 , 88 Stat. 2102 , § 2(b)(3), (e); added Aug. 23, 1988 , Pub. L. 100–418 , §§ 10012(3), 10013, 102 Stat. 1573 . |
+| 41310(e)(1) | 49 App.:1159b(a). | Jan. 3, 1975 , Pub. L. 93–623, § 2(a) , 88 Stat. 2102 ; Oct. 4, 1984 , Pub. L. 98–443, § 9(d)(1) , 98 Stat. 1706 . |
+|  | 49 App.:1159b(c). | Jan. 3, 1975 , Pub. L. 93–623, § 2(c) , 88 Stat. 2103 ; Feb. 15, 1980 , Pub. L. 96–192, § 23 , 94 Stat. 45 . |
+| 41310(e)(2) | 49 App.:1159b(d). | Jan. 3, 1975 , Pub. L. 93–623, § 2(d) , 88 Stat. 2103 ; Feb. 15, 1980 , Pub. L. 96–192, § 23 , 94 Stat. 45 ; Oct. 4, 1984 , Pub. L. 98–443, § 9(d)(2) , (4), 98 Stat. 1707 . |
+| 41310(f) | 49 App.:1159b(e). |  |
+
+
+Prohibition
+
+Review and Negotiation of Discriminatory Foreign Charges
+
+Actions Against Discriminatory Activity
+
+Filing of, and Acting on, Complaints
+
+Review
+
+Reports
+
+Actions Against Discriminatory Activity by Foreign CRS Systems
+
+Historical and Revision Notes
+
+41310(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 404(b)
+
+72 Stat. 760
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 4, 1984
+
+Pub. L. 98–443, § 3(c)
+
+98 Stat. 1703
+
+41310(b)
+
+June 16, 1948, ch. 473
+
+62 Stat. 450
+
+Jan. 3, 1975
+
+Pub. L. 93–623, § 3
+
+88 Stat. 2103
+
+Oct. 4, 1984
+
+Pub. L. 98–443, § 9(c)
+
+98 Stat. 1706
+
+41310(c)
+
+Jan. 3, 1975
+
+Pub. L. 93–623
+
+88 Stat. 2102
+
+Feb. 15, 1980
+
+Pub. L. 96–192, § 23
+
+94 Stat. 45
+
+Oct. 4, 1984
+
+Pub. L. 98–443, § 9(d)(2)
+
+98 Stat. 1707
+
+Aug. 23, 1988
+
+Pub. L. 100–418
+
+102 Stat. 1573
+
+41310(d)(1)
+
+41310(d)(2)
+
+Jan. 3, 1975
+
+Pub. L. 93–623
+
+88 Stat. 2102
+
+Aug. 23, 1988
+
+Pub. L. 100–418
+
+102 Stat. 1573
+
+41310(e)(1)
+
+Jan. 3, 1975
+
+Pub. L. 93–623, § 2(a)
+
+88 Stat. 2102
+
+Oct. 4, 1984
+
+Pub. L. 98–443, § 9(d)(1)
+
+98 Stat. 1706
+
+Jan. 3, 1975
+
+Pub. L. 93–623, § 2(c)
+
+88 Stat. 2103
+
+Feb. 15, 1980
+
+Pub. L. 96–192, § 23
+
+94 Stat. 45
+
+41310(e)(2)
+
+Jan. 3, 1975
+
+Pub. L. 93–623, § 2(d)
+
+88 Stat. 2103
+
+Feb. 15, 1980
+
+Pub. L. 96–192, § 23
+
+94 Stat. 45
+
+Oct. 4, 1984
+
+Pub. L. 98–443, § 9(d)(2)
+
+98 Stat. 1707
+
+41310(f)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1130](https://www.govinfo.gov/link/statute/108/1130); [Pub. L. 104–287, § 5(9)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3389](https://www.govinfo.gov/link/statute/110/3389); [Pub. L. 106–181, title VII, § 741](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 174](https://www.govinfo.gov/link/statute/114/174).)*

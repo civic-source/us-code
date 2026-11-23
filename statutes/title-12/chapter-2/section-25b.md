@@ -3,9 +3,10 @@ title: "Section 25b - State law preemption standards for national banks and subs
 usc_title: 12
 usc_section: "25b"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 25b"
-generated_at: "2026-03-30T02:53:53.370Z"
+generated_at: "2026-11-23T21:25:36.763Z"
+status: "active"
 ---
 
 # § 25b. State law preemption standards for national banks and subsidiaries clarified
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:53:53.370Z"
 - **(i)**
   - **(1)** In accordance with the decision of the Supreme Court of the United States in Cuomo v. Clearing House Assn., L. L. C. (129 S. Ct. 2710 (2009)), no provision of title 62 of the Revised Statutes which relates to visitorial powers or otherwise limits or restricts the visitorial authority to which any national bank is subject shall be construed as limiting or restricting the authority of any attorney general (or other chief law enforcement officer) of any State to bring an action against a national bank in a court of appropriate jurisdiction to enforce an applicable law and to seek relief as authorized by such law.
 - **(j)** The ability of the Comptroller of the Currency to bring an enforcement action under title 62 of the Revised Statutes or section 45 of title 15 does not preclude any private party from enforcing rights granted under Federal or State law in the courts.
+
+## Source Credit
+
+*(R.S. § 5136C, as added and amended [Pub. L. 111–203, title X](https://www.govinfo.gov/link/plaw/111/public/203), §§ 1044(a), 1045, 1047(a), July 21, 2010, [124 Stat. 2014](https://www.govinfo.gov/link/statute/124/2014), 2017, 2018.)*

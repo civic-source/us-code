@@ -3,9 +3,10 @@ title: "Section 102 - Conditions for patentability; novelty"
 usc_title: 35
 usc_section: "102"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "35 U.S.C. § 102"
-generated_at: "2026-03-30T02:55:34.236Z"
+generated_at: "2026-11-23T21:26:08.603Z"
+status: "active"
 ---
 
 # § 102. Conditions for patentability; novelty
@@ -28,3 +29,29 @@ generated_at: "2026-03-30T02:55:34.236Z"
 - **(d)** For purposes of determining whether a patent or application for patent is prior art to a claimed invention under subsection (a)(2), such patent or application shall be considered to have been effectively filed, with respect to any subject matter described in the patent or application—
   - **(1)** if paragraph (2) does not apply, as of the actual filing date of the patent or the application for patent; or
   - **(2)** if the patent or application for patent is entitled to claim a right of priority under section 119, 365(a), 365(b), 386(a), or 386(b), or to claim the benefit of an earlier filing date under section 120, 121, 365(c), or 386(c), based upon 1 or more prior filed applications for patent, as of the filing date of the earliest such application that describes the subject matter.
+
+Novelty; Prior Art
+
+Exceptions.—
+
+Disclosures made 1 year or less before the effective filing date of the claimed invention
+
+Disclosures appearing in applications and patents
+
+Common Ownership Under Joint Research Agreements
+
+Patents and Published Applications Effective as Prior Art
+
+In General
+
+Definition
+
+Exclusions
+
+Rule of Construction
+
+Effective Date; Applicability
+
+## Source Credit
+
+*(July 19, 1952, ch. 950, [66 Stat. 797](https://www.govinfo.gov/link/statute/66/797); [Pub. L. 92–358, § 2](https://www.govinfo.gov/link/plaw/92/public/358), July 28, 1972, [86 Stat. 502](https://www.govinfo.gov/link/statute/86/502); [Pub. L. 94–131, § 5](https://www.govinfo.gov/link/plaw/94/public/131), Nov. 14, 1975, [89 Stat. 691](https://www.govinfo.gov/link/statute/89/691); [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4505, 4806]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–565, 1501A–590; [Pub. L. 107–273, div. C, title III, § 13205(1)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1902](https://www.govinfo.gov/link/statute/116/1902); [Pub. L. 112–29, § 3(b)(1)](https://www.govinfo.gov/link/plaw/112/public/29), Sept. 16, 2011, [125 Stat. 285](https://www.govinfo.gov/link/statute/125/285); [Pub. L. 112–211, title I, § 102(2)](https://www.govinfo.gov/link/plaw/112/public/211), Dec. 18, 2012, [126 Stat. 1531](https://www.govinfo.gov/link/statute/126/1531).)*

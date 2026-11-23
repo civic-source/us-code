@@ -3,9 +3,10 @@ title: "Section 2604 - Home buying information booklets"
 usc_title: 12
 usc_section: "2604"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2604"
-generated_at: "2026-03-30T02:53:53.486Z"
+generated_at: "2026-11-23T21:25:37.103Z"
+status: "active"
 ---
 
 # § 2604. Home buying information booklets
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:53.486Z"
 - **(c)** Each lender shall include with the booklet a good faith estimate of the amount or range of charges for specific settlement services the borrower is likely to incur in connection with the settlement as prescribed by the Bureau. Each lender shall also include with the booklet a reasonably complete or updated list of homeownership counselors who are certified pursuant to section 1701x(e) of this title and located in the area of the lender.
 - **(d)** Each lender referred to in subsection (a) shall provide the booklet described in such subsection to each person from whom it receives or for whom it prepares a written application to borrow money to finance the purchase of residential real estate. The lender shall provide the booklet in the version that is most appropriate for the person receiving it. Such booklet shall be provided by delivering it or placing it in the mail not later than 3 business days after the lender receives the application, but no booklet need be provided if the lender denies the application for credit before the end of the 3-day period.
 - **(e)** Booklets may be printed and distributed by lenders if their form and content are approved by the Bureau as meeting the requirements of subsection (b) of this section.
+
+## Source Credit
+
+*([Pub. L. 93–533, § 5](https://www.govinfo.gov/link/plaw/93/public/533), Dec. 22, 1974, [88 Stat. 1725](https://www.govinfo.gov/link/statute/88/1725); [Pub. L. 94–205, § 4](https://www.govinfo.gov/link/plaw/94/public/205), Jan. 2, 1976, [89 Stat. 1158](https://www.govinfo.gov/link/statute/89/1158); [Pub. L. 102–550, title IX, § 951](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3892](https://www.govinfo.gov/link/statute/106/3892); [Pub. L. 111–203, title X, § 1098(3)](https://www.govinfo.gov/link/plaw/111/public/203), title XIV, § 1450, July 21, 2010, [124 Stat. 2104](https://www.govinfo.gov/link/statute/124/2104), 2174; [Pub. L. 112–141, div. F, title II, § 100222](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 934](https://www.govinfo.gov/link/statute/126/934); [Pub. L. 113–89, § 13(b)](https://www.govinfo.gov/link/plaw/113/public/89), Mar. 21, 2014, [128 Stat. 1026](https://www.govinfo.gov/link/statute/128/1026).)*

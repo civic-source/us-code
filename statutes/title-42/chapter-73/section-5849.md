@@ -3,9 +3,10 @@ title: "Section 5849 - Other officers"
 usc_title: 42
 usc_section: "5849"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5849"
-generated_at: "2026-03-30T02:56:11.239Z"
+generated_at: "2026-11-23T21:26:32.832Z"
+status: "active"
 ---
 
 # § 5849. Other officers
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.239Z"
 - **(c)** The Executive Director shall report to the Commission at semi-annual public meetings on the problems, progress, and status of the Commission’s equal employment opportunity efforts.
 - **(d)** The Executive Director shall prepare and forward to the Commission an annual report (for the fiscal year 1978 and each succeeding fiscal year) on the status of the Commission’s programs concerning domestic safeguards matters including an assessment of the effectiveness and adequacy of safeguards at facilities and activities licensed by the Commission. The Commission shall forward to the Congress a report under this section prior to February 1, 1979 , as a separate document, and prior to February 1 of each succeeding year as a separate chapter of the Commission’s annual report (required under section 5877(c) of this title ) following the fiscal year to which such report applies.
 - **(e)** There shall be in the Commission not more than five additional officers appointed by the Commission. The positions of such officers shall be considered career positions and be subject to section 2201(d) of this title .
+
+## Source Credit
+
+*([Pub. L. 93–438, title II, § 209](https://www.govinfo.gov/link/plaw/93/public/438), Oct. 11, 1974, [88 Stat. 1248](https://www.govinfo.gov/link/statute/88/1248); [Pub. L. 95–601](https://www.govinfo.gov/link/plaw/95/public/601), §§ 4, 6, Nov. 6, 1978, [92 Stat. 2949](https://www.govinfo.gov/link/statute/92/2949).)*

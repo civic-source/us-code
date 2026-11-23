@@ -3,9 +3,10 @@ title: "Section 24201 - Efficient environmental reviews"
 usc_title: 49
 usc_section: "24201"
 chapter: 242
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 24201"
-generated_at: "2026-03-30T02:56:19.343Z"
+generated_at: "2026-11-23T21:26:40.729Z"
+status: "active"
 ---
 
 # § 24201. Efficient environmental reviews
@@ -23,3 +24,25 @@ generated_at: "2026-03-30T02:56:19.343Z"
 - **(c)** Not later than 1 year after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, the Secretary shall publish a notice of proposed rulemaking to propose new and existing categorical exclusions for railroad projects that require the approval of the Secretary under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.), including those identified under subsection (b), and develop a process for considering new categorical exclusions to the extent that the categorical exclusions meet the criteria for a categorical exclusion under section 1508.4 of title 40, Code of Federal Regulations.
 - **(d)** The Secretary shall maintain and make publicly available, including on the Internet, a database that identifies project-specific information on the use of a categorical exclusion on any railroad project carried out under this title.
 - **(e)** Nothing in subtitle E of the Passenger Rail Reform and Investment Act of 2015, or any amendment made by such subtitle, shall affect any existing environmental review process, program, agreement, or funding arrangement approved by the Secretary under title 49, as that title was in effect on the day preceding the date of enactment of such subtitle.
+
+Efficient Environmental Reviews.—
+
+In general
+
+Regulations and procedures
+
+Discretion
+
+Applicability
+
+Additional Categorical Exclusions
+
+New Categorical Exclusions
+
+Transparency
+
+Protections for Existing Agreements and NEPA
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title XI, § 11503(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1691](https://www.govinfo.gov/link/statute/129/1691).)*

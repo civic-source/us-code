@@ -3,9 +3,10 @@ title: "Section 364h - Small businesses"
 usc_title: 21
 usc_section: "364h"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 364h"
-generated_at: "2026-03-30T02:54:54.263Z"
+generated_at: "2026-11-23T21:25:56.126Z"
+status: "active"
 ---
 
 # § 364h. Small businesses
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:54.263Z"
   - **(2)** Cosmetic products that are injected.
   - **(3)** Cosmetic products that are intended for internal use.
   - **(4)** Cosmetic products that are intended to alter appearance for more than 24 hours under conditions of use that are customary or usual and removal by the consumer is not part of such conditions of use that are customary or usual.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 612, as added [Pub. L. 117–328, div. FF, title III, § 3502](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5857](https://www.govinfo.gov/link/statute/136/5857).)*

@@ -3,9 +3,10 @@ title: "Section 13369 - Establishment of data base and study of transportation r
 usc_title: 42
 usc_section: "13369"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13369"
-generated_at: "2026-03-30T02:56:11.443Z"
+generated_at: "2026-11-23T21:26:33.599Z"
+status: "active"
 ---
 
 # § 13369. Establishment of data base and study of transportation rates
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.443Z"
 - **(b)** The Energy Information Administration shall determine the extent to which any agency of the Federal Government is studying the rates and distribution patterns of domestic coal, oil, and gas to determine the impact of the Clean Air Act [ 42 U.S.C. 7401 et seq.] as amended by the Act entitled “An Act to amend the Clean Air Act to provide for attainment and maintenance of health protective national ambient air quality standards, and for other purposes.”, enacted November 15, 1990 ( Public Law 101–549 ), and other Federal policies on such rates and distribution patterns. If the Energy Information Administration finds that no such study is underway, or that reports of the results of such study will not be available to the Congress providing the information specified in this subsection and subsection (a) by the dates established in subsection (c), the Energy Information Administration shall initiate such a study.
 - **(c)** Within one year after October 24, 1992 , the Secretary shall report to the Congress on the determination the Energy Information Administration is required to make under subsection (b). Within three years after October 24, 1992 , the Secretary shall submit reports on any data base or study developed under this section. Any such reports shall be updated and resubmitted to the Congress within eight years after October 24, 1992 . If the Energy Information Administration has determined pursuant to subsection (b) that another study or studies will provide all or part of the information called for in this section, the Secretary shall transmit the results of that study by the dates established in this subsection, together with his comments.
 - **(d)** The Secretary and the Energy Information Administration shall consult with the Chairmen of the Federal Energy Regulatory Commission and the Surface Transportation Board in implementing this section.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XIII, § 1340](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2992](https://www.govinfo.gov/link/statute/106/2992); [Pub. L. 104–88, title III, § 320](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 949](https://www.govinfo.gov/link/statute/109/949).)*

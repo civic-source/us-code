@@ -3,9 +3,10 @@ title: "Section 3021 - Purpose and program"
 usc_title: 42
 usc_section: "3021"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3021"
-generated_at: "2026-03-30T02:56:11.172Z"
+generated_at: "2026-11-23T21:26:32.477Z"
+status: "active"
 ---
 
 # § 3021. Purpose and program
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.172Z"
 - **(d)**
   - **(1)** Any funds received under an allotment as described in section 3024(a) of this title , or funds contributed toward the non-Federal share under section 3024(d) of this title , shall be used only for activities and services to benefit older individuals and other individuals as specifically provided for in this subchapter.
   - **(2)** No provision of this subchapter shall be construed as prohibiting a State agency or area agency on aging from providing services by using funds from sources not described in paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 89–73, title III, § 301](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 95–478, title I, § 103(b)](https://www.govinfo.gov/link/plaw/95/public/478), Oct. 18, 1978, [92 Stat. 1516](https://www.govinfo.gov/link/statute/92/1516); amended [Pub. L. 97–115, § 3(a)](https://www.govinfo.gov/link/plaw/97/public/115), (d), Dec. 29, 1981, [95 Stat. 1596](https://www.govinfo.gov/link/statute/95/1596), 1597; [Pub. L. 98–459, title III, § 301](https://www.govinfo.gov/link/plaw/98/public/459), Oct. 9, 1984, [98 Stat. 1771](https://www.govinfo.gov/link/statute/98/1771); [Pub. L. 100–175, title I](https://www.govinfo.gov/link/plaw/100/public/175), §§ 104(b), 105(c), 121, 129(a), Nov. 29, 1987, [101 Stat. 929](https://www.govinfo.gov/link/statute/101/929), 930, 933, 934; [Pub. L. 100–628, title VII, § 705(3)](https://www.govinfo.gov/link/plaw/100/public/628), Nov. 7, 1988, [102 Stat. 3247](https://www.govinfo.gov/link/statute/102/3247); [Pub. L. 102–54, § 13(q)(9)(B)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 281](https://www.govinfo.gov/link/statute/105/281); [Pub. L. 102–321, title I, § 163(c)(2)(B)](https://www.govinfo.gov/link/plaw/102/public/321), July 10, 1992, [106 Stat. 377](https://www.govinfo.gov/link/statute/106/377); [Pub. L. 102–375, title I, § 102(b)(1)(A)](https://www.govinfo.gov/link/plaw/102/public/375), title III, § 301, title VII, § 708(a)(2)(B), Sept. 30, 1992, [106 Stat. 1200](https://www.govinfo.gov/link/statute/106/1200), 1219, 1292; [Pub. L. 103–171, § 3(a)(13)](https://www.govinfo.gov/link/plaw/103/public/171), Dec. 2, 1993, [107 Stat. 1990](https://www.govinfo.gov/link/statute/107/1990); [Pub. L. 106–501, title III, § 301](https://www.govinfo.gov/link/plaw/106/public/501), title VIII, § 801(c)(1), Nov. 13, 2000, [114 Stat. 2238](https://www.govinfo.gov/link/statute/114/2238), 2292; [Pub. L. 109–365, title III, § 301](https://www.govinfo.gov/link/plaw/109/public/365), Oct. 17, 2006, [120 Stat. 2538](https://www.govinfo.gov/link/statute/120/2538); [Pub. L. 116–131, title II, § 201](https://www.govinfo.gov/link/plaw/116/public/131), Mar. 25, 2020, [134 Stat. 254](https://www.govinfo.gov/link/statute/134/254).)*

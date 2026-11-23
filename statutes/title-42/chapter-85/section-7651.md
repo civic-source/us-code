@@ -3,9 +3,10 @@ title: "Section 7651 - Findings and purposes"
 usc_title: 42
 usc_section: "7651"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7651"
-generated_at: "2026-03-30T02:56:11.320Z"
+generated_at: "2026-11-23T21:26:33.140Z"
+status: "active"
 ---
 
 # § 7651. Findings and purposes
@@ -19,3 +20,13 @@ generated_at: "2026-03-30T02:56:11.320Z"
   - **(6)** reduction of total atmospheric loading of sulfur dioxide and nitrogen oxides will enhance protection of the public health and welfare and the environment; and
   - **(7)** control measures to reduce precursor emissions from steam-electric generating units should be initiated without delay.
 - **(b)** The purpose of this subchapter is to reduce the adverse effects of acid deposition through reductions in annual emissions of sulfur dioxide of ten million tons from 1980 emission levels, and, in combination with other provisions of this chapter, of nitrogen oxides emissions of approximately two million tons from 1980 emission levels, in the forty-eight contiguous States and the District of Columbia. It is the intent of this subchapter to effectuate such reductions by requiring compliance by affected sources with prescribed emission limitations by specified deadlines, which limitations may be met through alternative methods of compliance provided by an emission allocation and transfer system. It is also the purpose of this subchapter to encourage energy conservation, use of renewable and clean alternative technologies, and pollution prevention as a long-range strategy, consistent with the provisions of this subchapter, for reducing air pollution and other adverse impacts of energy production and use.
+
+Report
+
+Million Ton Cap
+
+Election
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title IV, § 401, as added [Pub. L. 101–549, title IV, § 401](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2584](https://www.govinfo.gov/link/statute/104/2584).)*

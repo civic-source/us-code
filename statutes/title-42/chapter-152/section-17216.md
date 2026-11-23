@@ -3,9 +3,10 @@ title: "Section 17216 - Organization and administration of programs"
 usc_title: 42
 usc_section: "17216"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17216"
-generated_at: "2026-03-30T02:56:11.501Z"
+generated_at: "2026-11-23T21:26:33.776Z"
+status: "active"
 ---
 
 # § 17216. Organization and administration of programs
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.501Z"
   - **(1)** not later than one year after December 27, 2020 , draft a plan, considering input from relevant stakeholders such as industry and academia, to implement the programs described in this part and update the plan on an annual basis; and
   - **(2)** the plan 1 1 So in original. shall address near-term (up to 2 years), mid-term (up to 7 years), and long-term (up to 15 years) challenges to the advancement of water power systems.
 - **(h)** Not later than 1 year after December 27, 2020 , and at least once every 2 years thereafter, the Secretary shall provide, and make available to the public and the relevant authorizing and appropriations committees of Congress, a report on the findings of research conducted and activities carried out pursuant to this part, including the most current strategic plan under subsection (g) and the progress made in implementing such plan.
+
+## Source Credit
+
+*([Pub. L. 110–140, title VI, § 637](https://www.govinfo.gov/link/plaw/110/public/140), as added [Pub. L. 116–260, div. Z, title III, § 3001(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2485](https://www.govinfo.gov/link/statute/134/2485).)*

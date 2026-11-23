@@ -3,9 +3,10 @@ title: "Section 7784 - Agreements"
 usc_title: 7
 usc_section: "7784"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7784"
-generated_at: "2026-03-30T02:53:42.462Z"
+generated_at: "2026-11-23T21:25:28.450Z"
+status: "active"
 ---
 
 # § 7784. Agreements
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:42.462Z"
     - **(A)** is technically feasible;
     - **(B)** economically responsible; and
     - **(C)** minimizes adverse impacts to the structure and function of an ecosystem and adverse effects on nontarget species and ecosystems.
+
+## Source Credit
+
+*([Pub. L. 106–224, title IV, § 455](https://www.govinfo.gov/link/plaw/106/public/224), as added [Pub. L. 108–412, § 1](https://www.govinfo.gov/link/plaw/108/public/412), Oct. 30, 2004, [118 Stat. 2322](https://www.govinfo.gov/link/statute/118/2322).)*

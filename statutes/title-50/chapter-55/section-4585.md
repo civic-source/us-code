@@ -3,9 +3,10 @@ title: "Section 4585 - Public database of covered foreign persons"
 usc_title: 50
 usc_section: "4585"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4585"
-generated_at: "2026-03-30T02:56:26.281Z"
+generated_at: "2026-11-23T21:26:39.114Z"
+status: "active"
 ---
 
 # § 4585. Public database of covered foreign persons
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:26.281Z"
 - **(b)** The Secretary, in consultation with the Secretary of Commerce, is authorized to establish a mechanism for a covered foreign person to petition for their removal from or inclusion in the publicly accessible, non-exhaustive database described in (a). 1 1 So in original. Probably should be preceded by “subsection”.
 - **(c)** The Secretary shall establish a mechanism for the public, including Congress, stakeholders, investors, and nongovernmental organizations, to submit evidence on a confidential basis regarding whether a foreign person is a covered foreign person in a prohibited technology or notifiable technology and should be included in the database described in subsection (a), if any.
 - **(d)** The database described in subsection (a), if any, shall not be considered to be an exhaustive or comprehensive list of covered foreign persons for the purposes of this subchapter.
+
+## Source Credit
+
+*(Sept. 8, 1950, ch. 932, title VIII, § 805, as added [Pub. L. 119–60, div. H, title LXXXV, § 8521](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1930](https://www.govinfo.gov/link/statute/139/1930).)*

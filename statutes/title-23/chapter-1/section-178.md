@@ -3,9 +3,10 @@ title: "Section 178 - Environmental review implementation funds"
 usc_title: 23
 usc_section: "178"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 178"
-generated_at: "2026-03-30T02:55:12.564Z"
+generated_at: "2026-11-23T21:25:53.911Z"
+status: "active"
 ---
 
 # § 178. Environmental review implementation funds
@@ -36,3 +37,25 @@ generated_at: "2026-03-30T02:55:12.564Z"
     - **(G)** a metropolitan planning organization (as defined in section 134(b)(2)).
   - **(3)** The term “environmental review process” has the meaning given the term in section 139(a)(5).
   - **(4)** The term “proposed project” means a surface transportation project for which an environmental review process is required.
+
+Establishment
+
+Cost Share.—
+
+In general
+
+Source of funds
+
+Definitions
+
+Administrator
+
+Eligible entity
+
+Environmental review process
+
+Proposed project
+
+## Source Credit
+
+*(Added [Pub. L. 117–169, title VI, § 60505(a)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2083](https://www.govinfo.gov/link/statute/136/2083).)*

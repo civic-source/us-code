@@ -3,9 +3,10 @@ title: "Section 1099b - Recognition of accrediting agency or association"
 usc_title: 20
 usc_section: "1099b"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1099b"
-generated_at: "2026-03-30T02:54:48.139Z"
+generated_at: "2026-11-23T21:25:47.223Z"
+status: "active"
 ---
 
 # § 1099b. Recognition of accrediting agency or association
@@ -112,3 +113,17 @@ generated_at: "2026-03-30T02:54:48.139Z"
   - **(1)** an accrediting agency or association to set, with the involvement of its members, and to apply, accreditation standards for or to institutions or programs that seek review by the agency or association; or
   - **(2)** an institution to develop and use institutional standards to show its success with respect to student achievement, which achievement may be considered as part of any accreditation review.
 - **(q)** The Secretary shall require a review, at the next available meeting of the National Advisory Committee on Institutional Quality and Integrity, of any change in scope undertaken by an agency or association under subsection (a)(4)(B)(i)(II) if the enrollment of an institution that offers distance education or correspondence education that is accredited by such agency or association increases by 50 percent or more within any one institutional fiscal year.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 496](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 102–325, title IV, § 499](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 641](https://www.govinfo.gov/link/statute/106/641); amended [Pub. L. 103–208, § 2(i)(3)](https://www.govinfo.gov/link/plaw/103/public/208) –(8), Dec. 20, 1993, [107 Stat. 2478](https://www.govinfo.gov/link/statute/107/2478), 2479; [Pub. L. 105–244, title I, § 102(b)(5)](https://www.govinfo.gov/link/plaw/105/public/244), title IV, § 492(a)(2)–(d), Oct. 7, 1998, [112 Stat. 1622](https://www.govinfo.gov/link/statute/112/1622), 1759, 1760; [Pub. L. 110–315, title IV, § 495](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3324](https://www.govinfo.gov/link/statute/122/3324); [Pub. L. 111–39, title IV, § 408(1)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1953](https://www.govinfo.gov/link/statute/123/1953).)*

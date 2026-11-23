@@ -3,9 +3,10 @@ title: "Section 18021 - Qualified health plan defined"
 usc_title: 42
 usc_section: "18021"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18021"
-generated_at: "2026-03-30T02:56:11.512Z"
+generated_at: "2026-11-23T21:26:33.804Z"
+status: "active"
 ---
 
 # § 18021. Qualified health plan defined
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.512Z"
     - **(B)** Except to the extent specifically provided by this title, 1 the term “health plan” shall not include a group health plan or multiple employer welfare arrangement to the extent the plan or arrangement is not subject to State insurance regulation under section 1144 of title 29 .
   - **(2)** The terms “health insurance coverage” and “health insurance issuer” have the meanings given such terms by section 300gg–91(b) of this title .
   - **(3)** The term “group health plan” has the meaning given such term by section 300gg–91(a) of this title .
+
+## Source Credit
+
+*([Pub. L. 111–148, title I, § 1301](https://www.govinfo.gov/link/plaw/111/public/148), title X, § 10104(a), Mar. 23, 2010, [124 Stat. 162](https://www.govinfo.gov/link/statute/124/162), 896.)*

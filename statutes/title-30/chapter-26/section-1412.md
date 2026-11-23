@@ -3,9 +3,10 @@ title: "Section 1412 - Licenses for exploration and permits for commercial recov
 usc_title: 30
 usc_section: "1412"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1412"
-generated_at: "2026-03-30T02:55:29.404Z"
+generated_at: "2026-11-23T21:26:00.436Z"
+status: "active"
 ---
 
 # § 1412. Licenses for exploration and permits for commercial recovery
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:29.404Z"
   - **(5)** Except as otherwise provided in this paragraph, the processing on land of hard mineral resources recovered pursuant to a permit shall be conducted within the United States: Provided , That the President does not determine that such restrictions contravene the overriding national interests of the United States. The Administrator may allow the processing of hard mineral resources at a place other than within the United States if he finds, after opportunity for an agency hearing, that—
     - **(A)** the processing of the quantity concerned of such resource at a place other than within the United States is necessary for the economic viability of the commercial recovery activities of a permittee; and
     - **(B)** satisfactory assurances have been given by the permittee that such resource, after processing, to the extent of the permittee’s ownership therein, will be returned to the United States for domestic use, if the Administrator so requires after determining that the national interest necessitates such return.
+
+## Source Credit
+
+*([Pub. L. 96–283, title I, § 102](https://www.govinfo.gov/link/plaw/96/public/283), June 28, 1980, [94 Stat. 558](https://www.govinfo.gov/link/statute/94/558).)*

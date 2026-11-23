@@ -3,9 +3,10 @@ title: "Section 11386 - Program requirements"
 usc_title: 42
 usc_section: "11386"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11386"
-generated_at: "2026-03-30T02:56:11.401Z"
+generated_at: "2026-11-23T21:26:33.420Z"
+status: "active"
 ---
 
 # § 11386. Program requirements
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.401Z"
 - **(e)** The Secretary shall, by regulation, require each recipient or project sponsor to provide for the participation of not less than 1 homeless individual or former homeless individual on the board of directors or other equivalent policymaking entity of the recipient or project sponsor, to the extent that such entity considers and makes policies and decisions regarding any project, supportive services, or assistance provided under this part. The Secretary may grant waivers to applicants unable to meet the requirement under the preceding sentence if the applicant agrees to otherwise consult with homeless or formerly homeless individuals in considering and making such policies and decisions.
 - **(f)** No assistance received under this part (or any State or local government funds used to supplement such assistance) may be used to replace other State or local funds previously used, or designated for use, to assist homeless persons.
 - **(g)** If an individual or family who receives assistance under this part (not including residents of an emergency shelter) from a recipient violates program requirements, the recipient may terminate assistance in accordance with a formal process established by the recipient that recognizes the rights of individuals receiving such assistance to due process of law, which may include a hearing.
+
+## Source Credit
+
+*([Pub. L. 100–77, title IV, § 426](https://www.govinfo.gov/link/plaw/100/public/77), as added [Pub. L. 102–550, title XIV, § 1403(a)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4018](https://www.govinfo.gov/link/statute/106/4018); amended [Pub. L. 111–22, div. B, title III, § 1304](https://www.govinfo.gov/link/plaw/111/public/22), May 20, 2009, [123 Stat. 1688](https://www.govinfo.gov/link/statute/123/1688).)*

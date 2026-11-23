@@ -3,9 +3,10 @@ title: "Section 393 - Reporting on penetrations of networks and information syst
 usc_title: 10
 usc_section: "393"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 393"
-generated_at: "2026-03-30T02:53:38.056Z"
+generated_at: "2026-11-23T21:25:32.261Z"
+status: "active"
 ---
 
 # § 393. Reporting on penetrations of networks and information systems of certain contractors
@@ -48,3 +49,35 @@ generated_at: "2026-03-30T02:53:38.056Z"
 - **(e)** In this section:
   - **(1)** The term “cleared defense contractor” means a private entity granted clearance by the Department of Defense to access, receive, or store classified information for the purpose of bidding for a contract or conducting activities in support of any program of the Department of Defense.
   - **(2)** The term “covered network” means a network or information system of a cleared defense contractor that contains or processes information created by or for the Department of Defense with respect to which such contractor is required to apply enhanced protection.
+
+Procedures for Reporting Penetrations
+
+Networks and Information Systems Subject to Reporting
+
+Criteria
+
+Officials
+
+Procedure Requirements
+
+Rapid reporting
+
+Access to equipment and information by department of defense personnel
+
+Dissemination of information
+
+Protection From Liability of Cleared Defense Contractors
+
+Definitions
+
+Cleared defense contractor
+
+Covered network
+
+In general
+
+Applicability date
+
+## Source Credit
+
+*(Added and amended [Pub. L. 114–92, div. A, title XVI, § 1641(a)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1114](https://www.govinfo.gov/link/statute/129/1114); [Pub. L. 116–92, div. A, title IX, § 902(8)](https://www.govinfo.gov/link/plaw/116/public/92), title XVI, § 1621(e)(1)(A)(vi), Dec. 20, 2019, [133 Stat. 1543](https://www.govinfo.gov/link/statute/133/1543), 1733; [Pub. L. 116–283, div. A, title X, § 1081(a)(15)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3871](https://www.govinfo.gov/link/statute/134/3871); [Pub. L. 117–81, div. A, title X, § 1081(a)(9)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1920](https://www.govinfo.gov/link/statute/135/1920).)*

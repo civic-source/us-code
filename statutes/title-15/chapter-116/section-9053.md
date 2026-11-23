@@ -3,9 +3,10 @@ title: "Section 9053 - Special Inspector General for Pandemic Recovery"
 usc_title: 15
 usc_section: "9053"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9053"
-generated_at: "2026-03-30T02:54:08.241Z"
+generated_at: "2026-11-23T21:25:40.124Z"
+status: "active"
 ---
 
 # § 9053. Special Inspector General for Pandemic Recovery
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:54:08.241Z"
 - **(j)** The Secretary shall—
   - **(1)** take action to address deficiencies identified by a report or investigation of the Special Inspector General; or
   - **(2)** with respect to a deficiency identified under paragraph (1), certify to the Committee on Banking, Housing, and Urban Affairs of the Senate, the Committee on Finance of the Senate, the Committee on Financial Services of the House of Representatives, and the Committee on Ways and Means of the House of Representatives that no action is necessary or appropriate.
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title IV, § 4018](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 482](https://www.govinfo.gov/link/statute/134/482).)*

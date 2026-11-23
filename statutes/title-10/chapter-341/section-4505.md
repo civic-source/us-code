@@ -3,9 +3,10 @@ title: "Section 4505 - Procurement of services: tracking of purchases"
 usc_title: 10
 usc_section: "4505"
 chapter: 341
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4505"
-generated_at: "2026-03-30T02:53:38.208Z"
+generated_at: "2026-11-23T21:25:32.778Z"
+status: "active"
 ---
 
 # § 4505. Procurement of services: tracking of purchases
@@ -75,3 +76,39 @@ generated_at: "2026-03-30T02:53:38.208Z"
   - **(8)**
     - **(A)** The term “small business concern” has the meaning given such term under section 3 of the Small Business Act ( 15 U.S.C. 632 ).
     - **(B)** The terms “small business concern owned and controlled by socially and economically disadvantaged individuals” and “small business concern owned and controlled by women” have the meanings given such terms, respectively, in section 8(d)(3) of the Small Business Act ( 15 U.S.C. 637(d)(3) ).
+
+Data Collection Required
+
+Data To Be Collected
+
+Inventory Summary
+
+Review and Planning Requirements
+
+Development of Plan and Enforcement and Approval Mechanisms
+
+Comptroller General Report
+
+Rule of Construction
+
+Definitions
+
+Performance-based
+
+Function closely associated with inherently governmental functions
+
+Inherently governmental functions
+
+Personal services contract
+
+Service acquisition portfolio groups
+
+Staff augmentation contracts
+
+Simplified acquisition threshold
+
+Small business act definitions.—
+
+## Source Credit
+
+*(Added [Pub. L. 107–107, div. A, title VIII, § 801(c)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1176](https://www.govinfo.gov/link/statute/115/1176), § 2330a; amended [Pub. L. 110–181, div. A, title VIII, § 807(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 213](https://www.govinfo.gov/link/statute/122/213); [Pub. L. 111–84, div. A, title VIII, § 803(b)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2402](https://www.govinfo.gov/link/statute/123/2402); [Pub. L. 111–383, div. A, title III, § 321](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4183](https://www.govinfo.gov/link/statute/124/4183); [Pub. L. 112–81, div. A, title IX, § 936](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1545](https://www.govinfo.gov/link/statute/125/1545); [Pub. L. 113–66, div. A, title IX, § 951(a)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 839](https://www.govinfo.gov/link/statute/127/839); [Pub. L. 114–328, div. A, title VIII](https://www.govinfo.gov/link/plaw/114/public/328), §§ 812, 833(b)(2)(C)(ii), Dec. 23, 2016, [130 Stat. 2269](https://www.govinfo.gov/link/statute/130/2269), 2284; [Pub. L. 115–91, div. A, title X, § 1081(a)(30)](https://www.govinfo.gov/link/plaw/115/public/91), (d)(6)(A), Dec. 12, 2017, [131 Stat. 1595](https://www.govinfo.gov/link/statute/131/1595), 1600; [Pub. L. 115–232, div. A, title VIII, § 819](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1853](https://www.govinfo.gov/link/statute/132/1853); renumbered § 4505 and amended [Pub. L. 116–283, div. A, title XVIII](https://www.govinfo.gov/link/plaw/116/public/283), §§ 1856(g), (h), 1883(b)(2), Jan. 1, 2021, [134 Stat. 4275](https://www.govinfo.gov/link/statute/134/4275), 4294; [Pub. L. 117–81, div. A, title XVII, § 1701(b)(19)(B)](https://www.govinfo.gov/link/plaw/117/public/81), (d)(13), Dec. 27, 2021, [135 Stat. 2135](https://www.govinfo.gov/link/statute/135/2135), 2137; [Pub. L. 118–159, div. A, title XVII, § 1701(a)(40)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2206](https://www.govinfo.gov/link/statute/138/2206).)*

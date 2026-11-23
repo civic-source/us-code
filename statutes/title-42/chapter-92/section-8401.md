@@ -3,9 +3,10 @@ title: "Section 8401 - Assistance to areas impacted by increased coal or uranium
 usc_title: 42
 usc_section: "8401"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8401"
-generated_at: "2026-03-30T02:56:11.342Z"
+generated_at: "2026-11-23T21:26:33.200Z"
+status: "active"
 ---
 
 # § 8401. Assistance to areas impacted by increased coal or uranium production
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:56:11.342Z"
   - **(1)** 2 2 So in original. No par. (2) has been enacted. There is hereby authorized to be appropriated to the Secretary of Energy for purposes of this section, $60,000,000 for fiscal year 1979 and $120,000,000 for fiscal year 1980. The Secretary of Energy and the Secretary of Agriculture shall enter into an agreement for the allocation of funds appropriated pursuant to this section for carrying out their respective responsibilities under this section, including the amounts for personnel and administrative costs, and upon such agreement, the Secretary of Energy shall transfer to the Secretary of Agriculture amounts determined under that agreement.
 - **(i)** Federal agencies having responsibilities concerning the health and safety of any person working in any coal, uranium, metal, or nonmetallic mine regulated by any Federal agency shall interpret and utilize their authorities fully and promptly, including the promulgation of standards and regulations, to protect existing and future housing, property, persons, and public facilities located adjacent to or near active and abandoned coal, uranium, metal, and nonmetallic mines from actions occurring at such activities that pose a hazard to such property or persons.
 - **(j)** The authority of the Secretary of Agriculture and the authority of the Secretary of Energy under this section may not be transferred to any other Secretary or to any other Federal agency under chapter 9 of title 5 or under any other provision of law, other than under specific provisions of a law enacted after November 9, 1978 . The preceding provisions of this subsection shall not preclude either Secretary from delegating any such authority to any officer, employee, or entity within such Secretary’s department.
+
+## Source Credit
+
+*([Pub. L. 95–620, title VI, § 601](https://www.govinfo.gov/link/plaw/95/public/620), Nov. 9, 1978, [92 Stat. 3323](https://www.govinfo.gov/link/statute/92/3323).)*

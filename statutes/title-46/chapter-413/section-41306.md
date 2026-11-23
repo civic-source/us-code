@@ -3,9 +3,10 @@ title: "Section 41306 - Injunctive relief sought by complainants"
 usc_title: 46
 usc_section: "41306"
 chapter: 413
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 41306"
-generated_at: "2026-03-30T02:56:15.565Z"
+generated_at: "2026-11-23T21:26:37.198Z"
+status: "active"
 ---
 
 # § 41306. Injunctive relief sought by complainants
@@ -16,3 +17,30 @@ generated_at: "2026-03-30T02:56:15.565Z"
   - **(2)** the defendant resides or transacts business, if the Commission has not brought such an action.
 - **(c)** After notice to the defendant, and a showing that the standards for granting injunctive relief by courts of equity are met, the court may grant a temporary restraining order or preliminary injunction for a period not to exceed 10 days after the Commission has issued an order disposing of the complaint.
 - **(d)** A defendant prevailing in a civil action under this section shall be allowed reasonable attorney fees to be assessed and collected as part of the costs of the action.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 41306 | 46 App.:1710(h)(2). | Pub. L. 98–237, § 11(h)(2) , Mar. 20, 1984 , 98 Stat. 81 . |
+
+
+In General
+
+Venue
+
+Remedies by Court
+
+Attorney Fees
+
+Historical and Revision Notes
+
+41306
+
+Pub. L. 98–237, § 11(h)(2)
+
+Mar. 20, 1984
+
+98 Stat. 81
+
+## Source Credit
+
+*([Pub. L. 109–304, § 7](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1546](https://www.govinfo.gov/link/statute/120/1546).)*

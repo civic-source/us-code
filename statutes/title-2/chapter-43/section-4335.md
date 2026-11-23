@@ -3,12 +3,17 @@ title: "Section 4335 - Employment of civilian employees of executive branch of G
 usc_title: 2
 usc_section: "4335"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 4335"
-generated_at: "2026-03-30T02:53:04.829Z"
+generated_at: "2026-11-23T21:25:21.300Z"
+status: "active"
 ---
 
 # § 4335. Employment of civilian employees of executive branch of Government by Senate Committee on Appropriations; restoration to former position
 
 Whenever any person has left or leaves any civilian position in any department or agency in the executive branch of the Government in order to accept employment by the Senate Committee on Appropriations, he shall be carried on the rolls of such committee and shall be solely employed by such committee, and responsible only to it; but he shall be entitled upon making application to the Director of the Office of Personnel Management within thirty days after the termination of his employment by such committee (unless such employment is terminated for cause) to be restored to a position in the same or any other department or agency where an opening exists, comparable to the position which, according to the records of the department or agency which he left to accept employment by the Senate Committee on Appropriations or in the judgment of the Director of the Office of Personnel Management, such person would be occupying if he had remained in the employ of such department or agency during the time he was employed by such committee; and such person shall be restored to such position with the same seniority, status, and pay as if he had remained in the employ of the department or agency which he left, during such time. This section shall not be construed to require any person to be restored to a position in any department or agency after the expiration of the time for which he was appointed to the position which he left to accept employment by such committee.
 
+
+## Source Credit
+
+*(June 13, 1945, ch. 189, § 1, [59 Stat. 243](https://www.govinfo.gov/link/statute/59/243); July 1, 1946, ch. 530, [60 Stat. 392](https://www.govinfo.gov/link/statute/60/392); 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783](https://www.govinfo.gov/link/statute/92/3783).)*

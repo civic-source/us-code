@@ -3,9 +3,10 @@ title: "Section 2003 - Target participation rates"
 usc_title: 7
 usc_section: "2003"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2003"
-generated_at: "2026-03-30T02:53:42.354Z"
+generated_at: "2026-11-23T21:25:28.225Z"
+status: "active"
 ---
 
 # § 2003. Target participation rates
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:42.354Z"
   - **(1)** As used in this section, the term “socially disadvantaged group” means a group whose members have been subjected to racial, ethnic, or gender prejudice because of their identity as members of a group without regard to their individual qualities.
   - **(2)** As used in this section, the term “socially disadvantaged farmer or rancher” means a farmer or rancher who is a member of a socially disadvantaged group.
 - **(f)** Not later than 180 days after April 4, 1996 , the Secretary shall ensure that the implementation of this section is consistent with the holding of the Supreme Court in Adarand Constructors, Inc. v. Federico Pena, Secretary of Transportation, 115 S. Ct. 2097 (1995).
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 355](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 100–233, title VI, § 617](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1682](https://www.govinfo.gov/link/statute/101/1682); amended [Pub. L. 101–624, title XVIII, § 1817](https://www.govinfo.gov/link/plaw/101/public/624), title XXV, § 2501(f), Nov. 28, 1990, [104 Stat. 3829](https://www.govinfo.gov/link/statute/104/3829), 4065; [Pub. L. 102–554, § 21(a)](https://www.govinfo.gov/link/plaw/102/public/554), (b), Oct. 28, 1992, [106 Stat. 4161](https://www.govinfo.gov/link/statute/106/4161); [Pub. L. 104–127, title VI, § 647](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1104](https://www.govinfo.gov/link/statute/110/1104); [Pub. L. 107–171, title V, § 5315](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 348](https://www.govinfo.gov/link/statute/116/348).)*

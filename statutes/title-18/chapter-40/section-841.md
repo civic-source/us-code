@@ -3,9 +3,10 @@ title: "Section 841 - Definitions"
 usc_title: 18
 usc_section: "841"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 841"
-generated_at: "2026-03-30T02:54:16.470Z"
+generated_at: "2026-11-23T21:25:43.995Z"
+status: "active"
 ---
 
 # § 841. Definitions
@@ -37,3 +38,15 @@ As used in this chapter—
 - **(r)** “Alien” means any person who is not a citizen or national of the United States.
 - **(s)** “Responsible person” means an individual who has the power to direct the management and policies of the applicant pertaining to explosive materials.
 - **(t)** The term “Indian tribe” has the meaning given the term in section 102 of the Federally Recognized Indian Tribe List Act of 1994 ( 25 U.S.C. 479a )). 2 2 So in original. The second closing parenthesis probably should not appear. \, \ 3 3 See References in Text note below.
+
+Indian Tribe
+
+Findings
+
+Purpose
+
+“Nothing in this title [enacting this chapter, amending section 2516 of this title , repealing section 837 of this title and sections 121 to 144 of Title 50, War and National Defense, and enacting provisions set out as notes under this section] shall be construed as modifying or affecting any provision of—
+
+## Source Credit
+
+*(Added [Pub. L. 91–452, title XI, § 1102(a)](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 952](https://www.govinfo.gov/link/statute/84/952); amended [Pub. L. 104–132, title VI, § 602](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1288](https://www.govinfo.gov/link/statute/110/1288); [Pub. L. 107–296, title XI](https://www.govinfo.gov/link/plaw/107/public/296), §§ 1112(e)(1), (3), 1122(a), Nov. 25, 2002, [116 Stat. 2276](https://www.govinfo.gov/link/statute/116/2276), 2280; [Pub. L. 111–211, title II, § 236(b)](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2286](https://www.govinfo.gov/link/statute/124/2286).)*

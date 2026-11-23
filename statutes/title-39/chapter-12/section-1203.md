@@ -3,9 +3,10 @@ title: "Section 1203 - Recognition of labor organizations"
 usc_title: 39
 usc_section: "1203"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 1203"
-generated_at: "2026-03-30T02:55:43.690Z"
+generated_at: "2026-11-23T21:26:12.773Z"
+status: "active"
 ---
 
 # § 1203. Recognition of labor organizations
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:43.690Z"
   - **(2)** by the Postal Service, alleging that one or more labor organizations has presented to it a claim to be recognized as the representative;
 - **(d)** A petition filed under subsection (c)(1) of this section shall be accompanied by a statement signed by at least 30 percent of the employees in the appropriate unit stating that they desire that an election be conducted for either of the purposes set forth in such subsection.
 - **(e)** Nothing in this section shall be construed to prohibit the waiving of hearings by stipulation for the purpose of a consent election in conformity with regulations and rules of decision of the National Labor Relations Board.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 734](https://www.govinfo.gov/link/statute/84/734).)*

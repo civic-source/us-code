@@ -3,9 +3,10 @@ title: "Section 915 - Court approved abandonment and sales in pending cases"
 usc_title: 45
 usc_section: "915"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 915"
-generated_at: "2026-03-30T02:55:56.559Z"
+generated_at: "2026-11-23T21:26:19.235Z"
+status: "active"
 ---
 
 # § 915. Court approved abandonment and sales in pending cases
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:56.559Z"
   - **(2)** may not be stayed by the Commission.
 - **(d)** The authority of the bankruptcy court to authorize abandonments, sales, and transfers of lines of the Milwaukee Railroad shall be governed by the provisions of section 904 of this title , rather than the provisions of this section.
 - **(e)** Nothing in this section shall be deemed to affect the priorities or timing of payment of employee protection which might have existed in the absence of this chapter.
+
+## Source Credit
+
+*([Pub. L. 96–101, § 17](https://www.govinfo.gov/link/plaw/96/public/101), Nov. 4, 1979, [93 Stat. 744](https://www.govinfo.gov/link/statute/93/744); [Pub. L. 97–468, title II, § 213](https://www.govinfo.gov/link/plaw/97/public/468), Jan. 14, 1983, [96 Stat. 2544](https://www.govinfo.gov/link/statute/96/2544).)*

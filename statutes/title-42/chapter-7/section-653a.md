@@ -3,9 +3,10 @@ title: "Section 653a - State Directory of New Hires"
 usc_title: 42
 usc_section: "653a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 653a"
-generated_at: "2026-03-30T02:56:10.882Z"
+generated_at: "2026-11-23T21:26:31.120Z"
+status: "active"
 ---
 
 # § 653a. State Directory of New Hires
@@ -51,3 +52,15 @@ generated_at: "2026-03-30T02:56:10.882Z"
   - **(2)** A State agency responsible for administering a program specified in section 1320b–7(b) of this title shall have access to information reported by employers pursuant to subsection (b) of this section for purposes of verifying eligibility for the program.
   - **(3)** State agencies operating employment security and workers’ compensation programs shall have access to information reported by employers pursuant to subsection (b) for the purposes of administering such programs.
   - **(4)** The Secretaries of Labor and of Veterans Affairs shall have access to information reported by employers pursuant to subsection (b) of this section for purposes of tracking employment of veterans.
+
+In general
+
+Compliance transition period
+
+In general
+
+Compliance transition period
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 453A, as added [Pub. L. 104–193, title III, § 313(b)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2209](https://www.govinfo.gov/link/statute/110/2209); amended [Pub. L. 105–33, title V, § 5533](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 627](https://www.govinfo.gov/link/statute/111/627); [Pub. L. 111–291, title VIII, § 802(a)](https://www.govinfo.gov/link/plaw/111/public/291), (b), Dec. 8, 2010, [124 Stat. 3157](https://www.govinfo.gov/link/statute/124/3157); [Pub. L. 112–40, title II, § 253(a)](https://www.govinfo.gov/link/plaw/112/public/40), Oct. 21, 2011, [125 Stat. 422](https://www.govinfo.gov/link/statute/125/422); [Pub. L. 116–315, title IV, § 4301](https://www.govinfo.gov/link/plaw/116/public/315), Jan. 5, 2021, [134 Stat. 5016](https://www.govinfo.gov/link/statute/134/5016).)*

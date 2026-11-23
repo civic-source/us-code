@@ -3,9 +3,10 @@ title: "Section 7466 - Permissive terms in order"
 usc_title: 7
 usc_section: "7466"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7466"
-generated_at: "2026-03-30T02:53:42.453Z"
+generated_at: "2026-11-23T21:25:28.430Z"
+status: "active"
 ---
 
 # § 7466. Permissive terms in order
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:42.453Z"
 - **(c)** The order may authorize the Board to convene working groups drawn from producers, handlers, importers, exporters, or the general public and utilize the expertise of the groups to assist in the development of research and marketing programs for kiwifruit.
 - **(d)** The order may authorize the Board to accumulate reserve funds from assessments collected pursuant to section 7465(b) of this title to permit an effective and continuous coordinated program of research, promotion, and consumer information in years in which production and assessment income may be reduced, except that any reserve fund may not exceed the amount budgeted for operation of this subchapter for 1 year.
 - **(e)** The order may authorize the Board to use, with the approval of the Secretary, funds collected under section 7465(b) of this title and funds from other sources for the development and expansion of sales in foreign markets of kiwifruit produced in the United States.
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 557](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1070](https://www.govinfo.gov/link/statute/110/1070).)*

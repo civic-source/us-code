@@ -3,9 +3,10 @@ title: "Section 10 - Website"
 usc_title: 42
 usc_section: "10"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-03-30T02:56:11.068Z"
+generated_at: "2026-11-23T21:26:31.941Z"
+status: "active"
 ---
 
 # § 1397n–10. Website
@@ -28,3 +29,7 @@ The Federal Interagency Council on Social Impact Partnerships shall establish an
     - **(K)** The metrics used to determine whether the proposed outcomes have been achieved and how these metrics are measured.
   - **(4)** A copy of the progress reports and the final reports relating to each social impact partnership project.
   - **(5)** An estimate of the savings to the Federal, State, and local government, on a program-by-program basis and in the aggregate, resulting from the successful completion of the social impact partnership project.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XX, § 2061, as added [Pub. L. 115–123, div. E, title VIII, § 50802(2)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 281](https://www.govinfo.gov/link/statute/132/281).)*

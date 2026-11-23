@@ -3,9 +3,10 @@ title: "Section 238 - Cyber mission forces: program elements"
 usc_title: 10
 usc_section: "238"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 238"
-generated_at: "2026-03-30T02:53:38.048Z"
+generated_at: "2026-11-23T21:25:32.244Z"
+status: "active"
 ---
 
 # § 238. Cyber mission forces: program elements
@@ -19,3 +20,27 @@ generated_at: "2026-03-30T02:53:38.048Z"
 - **(c)** The Secretary shall provide the displays described in subsection (a)—
   - **(1)** in electronic format not later than five days after the submission by the President under section 1105(a) of title 31 of the budget; and
   - **(2)** in print format not later than 21 days after the submission by the President under section 1105(a) of title 31 of the budget.
+
+Budget Justification Display
+
+Waiver
+
+Submission
+
+Demonstration Program.—
+
+Requirement
+
+Coordination with military departments
+
+Elements
+
+Briefing.—
+
+Initial briefing
+
+Final briefing
+
+## Source Credit
+
+*(Added [Pub. L. 113–291, div. A, title XVI, § 1631(a)(1)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3637](https://www.govinfo.gov/link/statute/128/3637); amended [Pub. L. 116–283, div. A, title XVII, § 1701(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4080](https://www.govinfo.gov/link/statute/134/4080).)*

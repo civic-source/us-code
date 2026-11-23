@@ -3,12 +3,17 @@ title: "Section 8124 - Prohibited acts relating to complementary access"
 usc_title: 22
 usc_section: "8124"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8124"
-generated_at: "2026-03-30T02:55:05.449Z"
+generated_at: "2026-11-23T21:25:58.734Z"
+status: "active"
 ---
 
 # § 8124. Prohibited acts relating to complementary access
 
 It shall be unlawful for any person willfully to fail or refuse to permit, or to disrupt, delay, or otherwise impede, a complementary access authorized by this subchapter or an entry in connection with such access.
 
+
+## Source Credit
+
+*([Pub. L. 109–401, title II, § 224](https://www.govinfo.gov/link/plaw/109/public/401), Dec. 18, 2006, [120 Stat. 2747](https://www.govinfo.gov/link/statute/120/2747).)*

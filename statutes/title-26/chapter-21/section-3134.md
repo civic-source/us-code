@@ -3,9 +3,10 @@ title: "Section 3134 - Employee retention credit for employers subject to closur
 usc_title: 26
 usc_section: "3134"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 3134"
-generated_at: "2026-03-30T02:55:27.790Z"
+generated_at: "2026-11-23T21:26:06.556Z"
+status: "active"
 ---
 
 # § 3134. Employee retention credit for employers subject to closure due to COVID–19
@@ -98,3 +99,49 @@ generated_at: "2026-03-30T02:55:27.790Z"
   - **(2)** with respect to the application of the credit under subsection (a) to third party payors (including professional employer organizations, certified professional employer organizations, or agents under section 3504), including regulations or guidance allowing such payors to submit documentation necessary to substantiate the eligible employer status of employers that use such payors, and
   - **(3)** to prevent the avoidance of the purposes of the limitations under this section, including through the leaseback of employees.
 - **(n)** This section shall only apply to wages paid after June 30, 2021 , and before October 1, 2021 (or, in the case of wages paid by an eligible employer which is a recovery startup business, January 1, 2022 ).
+
+Assessable Penalty for Failure to Comply With Due Diligence Requirements.—
+
+In general
+
+Due diligence requirements
+
+Restriction to documents used in connection with returns or claims for refund
+
+Treatment as assessable penalty, etc
+
+Secretary
+
+COVID–ERTC Promoter
+
+In general
+
+Exception for certified professional employer organizations
+
+Aggregation rule
+
+Short taxable years
+
+COVID–ERTC Document
+
+Limitation on Credits and Refunds
+
+Extension of Limitation on Assessment
+
+Amendment to Penalty for Erroneous Claim for Refund or Credit
+
+Effective Dates
+
+In general
+
+Limitation on credits and refunds
+
+Extension of limitation on assessment
+
+Amendment to penalty for erroneous claim for refund or credit
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 117–2, title IX, § 9651(a)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 177](https://www.govinfo.gov/link/statute/135/177); amended [Pub. L. 117–58, div. H, title VI, § 80604(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1341](https://www.govinfo.gov/link/statute/135/1341); [Pub. L. 119–21, title VII, § 70605(e)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 288](https://www.govinfo.gov/link/statute/139/288).)*

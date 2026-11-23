@@ -3,9 +3,10 @@ title: "Section 12147 - Alterations of existing facilities"
 usc_title: 42
 usc_section: "12147"
 chapter: 126
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12147"
-generated_at: "2026-03-30T02:56:11.409Z"
+generated_at: "2026-11-23T21:26:33.454Z"
+status: "active"
 ---
 
 # § 12147. Alterations of existing facilities
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.409Z"
   - **(3)** The Secretary shall require the appropriate public entity to develop and submit to the Secretary a plan for compliance with this subsection—
     - **(A)** that reflects consultation with individuals with disabilities affected by such plan and the results of a public hearing and public comments on such plan, and
     - **(B)** that establishes milestones for achievement of the requirements of this subsection.
+
+## Source Credit
+
+*([Pub. L. 101–336, title II, § 227](https://www.govinfo.gov/link/plaw/101/public/336), July 26, 1990, [104 Stat. 343](https://www.govinfo.gov/link/statute/104/343).)*

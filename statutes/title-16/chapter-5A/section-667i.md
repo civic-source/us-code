@@ -3,9 +3,10 @@ title: "Section 667i - Chronic wasting disease research and management program"
 usc_title: 16
 usc_section: "667i"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 667i"
-generated_at: "2026-03-30T02:54:22.889Z"
+generated_at: "2026-11-23T21:25:51.709Z"
+status: "active"
 ---
 
 # § 667i. Chronic wasting disease research and management program
@@ -55,3 +56,9 @@ generated_at: "2026-03-30T02:54:22.889Z"
   - **(3)** The Secretary shall ensure that, of the funds made available and allocated to carry out subsection (b), not less than 75 percent of such funds are made available to State or Tribal wildlife agencies.
 - **(f)** Of the funds made available under subsection (e) for a fiscal year to carry out this section, the Secretary may use not more than 10 percent of such funds for administrative costs incurred by the Secretary in carrying out this section.
 - **(g)** Nothing in this section shall be construed as interfering with, or otherwise affecting, the authority of the Federal Government or States to manage wildlife and livestock on land within their respective jurisdictions, including managing, surveying, and monitoring the incidence of chronic wasting disease.
+
+“Congress finds the following:
+
+## Source Credit
+
+*([Pub. L. 117–328, div. HH, title V, § 603](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5996](https://www.govinfo.gov/link/statute/136/5996).)*

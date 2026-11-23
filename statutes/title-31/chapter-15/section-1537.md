@@ -3,9 +3,10 @@ title: "Section 1537 - Services between the United States Government and the Dis
 usc_title: 31
 usc_section: "1537"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 1537"
-generated_at: "2026-03-30T02:55:34.053Z"
+generated_at: "2026-11-23T21:26:10.558Z"
+status: "active"
 ---
 
 # § 1537. Services between the United States Government and the District of Columbia government
@@ -25,3 +26,31 @@ generated_at: "2026-03-30T02:55:34.053Z"
   - **(1)** costs incurred by the United States Government may be paid from appropriations available to the District of Columbia government officer or employee to whom the services were provided; and
   - **(2)** costs incurred by the District of Columbia government may be paid from amounts available to the United States Government officer or employee to whom the services were provided.
 - **(d)** When requested by the Director of the United States Secret Service, the Chief of the Metropolitan Police shall assist the Secret Service and the Secret Service Uniformed Division on a non-reimbursable basis in carrying out their protective duties under sections 3056 and 3056A of title 18.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1537(a) | 31:685a(a)(1st sentence). | Dec. 24, 1973 , Pub. L. 93–198, § 731 , 87 Stat. 822 . |
+| 1537(b) | 31:685a(a)(2d, last sentences), (b). |  |
+| 1537(c) | 31:685a(c)(less last sentence words after last comma). |  |
+| 1537(d) | 31:685a(c)(last sentence words after last comma). |  |
+
+
+Historical and Revision Notes
+
+1537(a)
+
+Dec. 24, 1973
+
+Pub. L. 93–198, § 731
+
+87 Stat. 822
+
+1537(b)
+
+1537(c)
+
+1537(d)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 934](https://www.govinfo.gov/link/statute/96/934); [Pub. L. 109–177, title VI, § 605(d)(1)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 255](https://www.govinfo.gov/link/statute/120/255).)*

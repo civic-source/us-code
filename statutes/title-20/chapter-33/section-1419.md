@@ -3,9 +3,10 @@ title: "Section 1419 - Preschool grants"
 usc_title: 20
 usc_section: "1419"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1419"
-generated_at: "2026-03-30T02:54:48.165Z"
+generated_at: "2026-11-23T21:25:47.333Z"
+status: "active"
 ---
 
 # § 1419. Preschool grants
@@ -65,3 +66,19 @@ generated_at: "2026-03-30T02:54:48.165Z"
 - **(h)** Subchapter III does not apply to any child with a disability receiving a free appropriate public education, in accordance with this subchapter, with funds received under this section.
 - **(i)** In this section, the term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 - **(j)** There are authorized to be appropriated to carry out this section such sums as may be necessary.
+
+(aa) the amount the State received under this section for fiscal year 1997; and
+
+(bb) ⅓ of 1 percent of the amount by which the amount appropriated under subsection (j) for the fiscal year exceeds the amount appropriated for this section for fiscal year 1997;
+
+(aa) the amount the State received under this section for the preceding fiscal year; and
+
+(bb) that amount multiplied by the percentage by which the increase in the funds appropriated under this section from the preceding fiscal year exceeds 1.5 percent; or
+
+(aa) the amount the State received under this section for the preceding fiscal year; and
+
+(bb) that amount multiplied by 90 percent of the percentage increase in the amount appropriated under this section from the preceding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 619](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2740](https://www.govinfo.gov/link/statute/118/2740).)*

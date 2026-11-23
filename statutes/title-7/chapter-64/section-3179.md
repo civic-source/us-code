@@ -3,9 +3,10 @@ title: "Section 3179 - Research on strategies to promote the selection and consu
 usc_title: 7
 usc_section: "3179"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3179"
-generated_at: "2026-03-30T02:53:42.398Z"
+generated_at: "2026-11-23T21:25:28.322Z"
+status: "active"
 ---
 
 # § 3179. Research on strategies to promote the selection and consumption of healthy foods
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:42.398Z"
 - **(g)**
   - **(1)** There are authorized to be appropriated to carry out this section such sums as are necessary for each of fiscal years 2011 through 2015.
   - **(2)** The Secretary may use up to 5 percent of the funds made available under paragraph (1) for Federal administrative expenses incurred in carrying out this section.
+
+## Source Credit
+
+*([Pub. L. 111–296, title II, § 244](https://www.govinfo.gov/link/plaw/111/public/296), Dec. 13, 2010, [124 Stat. 3239](https://www.govinfo.gov/link/statute/124/3239).)*

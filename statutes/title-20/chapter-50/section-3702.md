@@ -3,9 +3,10 @@ title: "Section 3702 - Organization of Commission"
 usc_title: 20
 usc_section: "3702"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 3702"
-generated_at: "2026-03-30T02:54:48.180Z"
+generated_at: "2026-11-23T21:25:47.421Z"
+status: "active"
 ---
 
 # § 3702. Organization of Commission
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:48.180Z"
 - **(k)** The Commission may procure, subject to the availability of funds, temporary and intermittent services to the same extent as is authorized by section 3109(b) of title 5 .
 - **(l)** Upon request of the Commission, and subject to the availability of funds, the head of any Federal agency may detail to the Commission on a reimbursable basis any of the personnel of such agency to assist the Commission in carrying out its duties under this chapter.
 - **(m)** The Administrator of the General Services Administration shall provide to the Commission on a reimbursable basis such administrative support services as the Commission may request to carry out its duties under this chapter.
+
+## Source Credit
+
+*([Pub. L. 96–430, title II, § 203](https://www.govinfo.gov/link/plaw/96/public/430), Oct. 10, 1980, [94 Stat. 1847](https://www.govinfo.gov/link/statute/94/1847).)*

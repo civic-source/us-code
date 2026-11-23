@@ -3,12 +3,28 @@ title: "Section 802 - Forfeiture of pay during absence from duty due to disease 
 usc_title: 37
 usc_section: "802"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 802"
-generated_at: "2026-03-30T02:55:44.060Z"
+generated_at: "2026-11-23T21:26:14.262Z"
+status: "active"
 ---
 
 # § 802. Forfeiture of pay during absence from duty due to disease from intemperate use of alcohol or drugs
 
 A member of the Army, Navy, Air Force, Marine Corps, or Space Force, on active duty who is absent from the member’s regular duties for a continuous period of more than one day because of disease that is directly caused by and immediately follows the member’s intemperate use of alcoholic liquor or habit-forming drugs is not entitled to pay for the period of that absence. However, a member whose pay is forfeited for more than one month is entitled to $5 for personal expenses for each full month that the member’s pay is forfeited. Determinations of periods and causes of absence under this section shall be made as prescribed by the Secretary concerned, and are final.
 
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 802 | 10:3632. | [None.] |
+|  | 10:6111. | [None.] |
+|  | 10:8632. | [None.] |
+
+
+Historical and Revision Notes
+
+802
+
+## Source Credit
+
+*([Pub. L. 87–649](https://www.govinfo.gov/link/plaw/87/public/649), Sept. 7, 1962, [76 Stat. 485](https://www.govinfo.gov/link/statute/76/485); [Pub. L. 116–283, div. A, title IX, § 925(i)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3828](https://www.govinfo.gov/link/statute/134/3828).)*

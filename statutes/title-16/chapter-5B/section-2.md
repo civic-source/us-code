@@ -3,9 +3,10 @@ title: "Section 2 - Multistate conservation grant program"
 usc_title: 16
 usc_section: "2"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T02:54:22.892Z"
+generated_at: "2026-11-23T21:25:51.717Z"
+status: "active"
 ---
 
 # § 669h–2. Multistate conservation grant program
@@ -43,3 +44,9 @@ generated_at: "2026-03-30T02:54:22.892Z"
     - **(B)** Any nongovernmental organization that is found to use grant funds in violation of subparagraph (A) shall return all funds received under this section and be subject to any other applicable penalties under law.
 - **(d)** A grant under this section shall not be used, in whole or in part, for an activity, project, or program that promotes or encourages opposition to the regulated hunting or trapping of wildlife or to recreational shooting activities.
 - **(e)** Chapter 10 of title 5 shall not apply to any activity carried out under this section.
+
+“Not later than 10 years after the date of enactment of this Act [ Dec. 20, 2019 ], the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, shall—
+
+## Source Credit
+
+*(Sept. 2, 1937, ch. 899, § 11, as added [Pub. L. 106–408, title I, § 113](https://www.govinfo.gov/link/plaw/106/public/408), Nov. 1, 2000, [114 Stat. 1767](https://www.govinfo.gov/link/statute/114/1767); amended [Pub. L. 116–94, div. P, title V, § 501(g)(1)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3193](https://www.govinfo.gov/link/statute/133/3193); [Pub. L. 117–286, § 4(a)(101)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4316](https://www.govinfo.gov/link/statute/136/4316).)*

@@ -3,12 +3,17 @@ title: "Section 3597 - Reemployment following limited appointment in the Foreign
 usc_title: 5
 usc_section: "3597"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3597"
-generated_at: "2026-03-30T02:52:56.007Z"
+generated_at: "2026-11-23T21:25:23.175Z"
+status: "active"
 ---
 
 # § 3597. Reemployment following limited appointment in the Foreign Service
 
 An employee of any agency who accepts, with the consent of the head of that agency, a limited appointment in the Foreign Service under section 309 of the Foreign Service Act of 1980 is entitled, upon the expiration of that appointment, to be reemployed in that employee’s former position or in a corresponding or higher position in that agency. Upon reemployment under this section, an employee shall be entitled to any within-grade increases in pay which the employee would have received if the employee had remained in the former position in the agency.
 
+
+## Source Credit
+
+*(Added [Pub. L. 96–465, title II, § 2301(a)](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2164](https://www.govinfo.gov/link/statute/94/2164).)*

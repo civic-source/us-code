@@ -3,9 +3,10 @@ title: "Section 2113a - Board of Regents"
 usc_title: 10
 usc_section: "2113a"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2113a"
-generated_at: "2026-03-30T02:53:38.142Z"
+generated_at: "2026-11-23T21:25:32.555Z"
+status: "active"
 ---
 
 # § 2113a. Board of Regents
@@ -23,3 +24,19 @@ generated_at: "2026-03-30T02:53:38.142Z"
 - **(d)** One of the members of the Board (other than an ex officio member) shall be designated by the Secretary as Chairman. He shall be the presiding officer of the Board.
 - **(e)** Members of the Board (other than ex officio members) while attending conferences or meetings or while otherwise performing their duties as members shall be entitled to receive compensation at a rate to be fixed by the Secretary and shall also be entitled to receive an allowance for necessary travel expenses while so serving away from their place of residence.
 - **(f)** The Board shall meet at least once a quarter.
+
+In General
+
+Membership
+
+Term of Office
+
+Chairman
+
+Compensation
+
+Meetings
+
+## Source Credit
+
+*(Added [Pub. L. 110–181, div. A, title IX, § 954(a)(1)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 293](https://www.govinfo.gov/link/statute/122/293); amended [Pub. L. 111–84, div. A, title V, § 523](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2285](https://www.govinfo.gov/link/statute/123/2285); [Pub. L. 116–283, div. A, title VII, § 715(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3694](https://www.govinfo.gov/link/statute/134/3694).)*

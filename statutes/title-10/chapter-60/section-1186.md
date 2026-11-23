@@ -3,9 +3,10 @@ title: "Section 1186 - Officer considered for removal: voluntary retirement or d
 usc_title: 10
 usc_section: "1186"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1186"
-generated_at: "2026-03-30T02:53:38.115Z"
+generated_at: "2026-11-23T21:25:32.446Z"
+status: "active"
 ---
 
 # § 1186. Officer considered for removal: voluntary retirement or discharge
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:38.115Z"
     - **(A)** be honorably discharged in the grade then held, in the case of an officer whose case was brought under subsection (a) of section 1181 of this title ; or
     - **(B)** be discharged in the grade then held, in the case of an officer whose case was brought under subsection (b) of section 1181 of this title .
 - **(c)** An officer who is discharged under subsection (b)(2) is entitled, if eligible therefor, to separation pay under section 1174(a)(2) of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 96–513, title I, § 110](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2874](https://www.govinfo.gov/link/statute/94/2874); amended [Pub. L. 101–510, div. A, title V, § 501(f)(1)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1550](https://www.govinfo.gov/link/statute/104/1550).)*

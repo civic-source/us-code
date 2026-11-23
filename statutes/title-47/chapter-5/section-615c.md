@@ -3,9 +3,10 @@ title: "Section 615c - Emergency Access Advisory Committee"
 usc_title: 47
 usc_section: "615c"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 615c"
-generated_at: "2026-03-30T02:56:24.522Z"
+generated_at: "2026-11-23T21:26:36.053Z"
+status: "active"
 ---
 
 # § 615c. Emergency Access Advisory Committee
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:56:24.522Z"
   - **(1)** the term “Commission” means the Federal Communications Commission;
   - **(2)** the term “Chairman” means the Chairman of the Federal Communications Commission; and
   - **(3)** except as otherwise expressly provided, other terms have the meanings given such terms in section 153 of this title .
+
+## Source Credit
+
+*([Pub. L. 111–260, title I, § 106](https://www.govinfo.gov/link/plaw/111/public/260), Oct. 8, 2010, [124 Stat. 2762](https://www.govinfo.gov/link/statute/124/2762); [Pub. L. 117–286, § 4(a)(298)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4338](https://www.govinfo.gov/link/statute/136/4338).)*

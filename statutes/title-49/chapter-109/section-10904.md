@@ -3,9 +3,10 @@ title: "Section 10904 - Offers of financial assistance to avoid abandonment and 
 usc_title: 49
 usc_section: "10904"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 10904"
-generated_at: "2026-03-30T02:56:19.324Z"
+generated_at: "2026-11-23T21:26:40.676Z"
+status: "active"
 ---
 
 # § 10904. Offers of financial assistance to avoid abandonment and discontinuance
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:56:19.324Z"
     - **(A)** No purchaser of a line or portion of line sold under this section may transfer or discontinue service on such line prior to the end of the second year after consummation of the sale, nor may such purchaser transfer such line, except to the rail carrier from whom it was purchased, prior to the end of the fifth year after consummation of the sale.
     - **(B)** No subsidy arrangement approved under this section shall remain in effect for more than one year, unless otherwise mutually agreed by the parties.
 - **(g)** Upon abandonment of a railroad line under this chapter, the obligation of the rail carrier abandoning the line to provide transportation on that line, as required by section 11101(a), is extinguished.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 825](https://www.govinfo.gov/link/statute/109/825).)*

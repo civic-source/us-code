@@ -3,9 +3,10 @@ title: "Section 1007 - Deductions from pay"
 usc_title: 37
 usc_section: "1007"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 1007"
-generated_at: "2026-03-30T02:55:44.060Z"
+generated_at: "2026-11-23T21:26:14.269Z"
+status: "active"
 ---
 
 # § 1007. Deductions from pay
@@ -47,3 +48,41 @@ generated_at: "2026-03-30T02:55:44.060Z"
   - **(2)** Amounts deducted under paragraph (1) shall be deposited in the Armed Forces Retirement Home Trust Fund.
   - **(3)** The Secretary of Defense or, in the case of the Coast Guard, the Commandant, after consultation with the Chief Operating Officer of the Armed Forces Retirement Home, shall determine from time to time the amount to be deducted under paragraph (1) from the pay of enlisted members, warrant officers, and limited duty officers on the basis of the financial needs of the Armed Forces Retirement Home. The amount to be deducted may be fixed at different amounts on the basis of grade or length of service, or both.
   - **(4)** This subsection does not apply to an enlisted member, warrant officer, or limited duty officer of a reserve component.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1007(a) | 10:2772. | [None.] |
+|  | 14:461(b). | [None.] |
+| 1007(b) | 10:4837(a). | [None.] |
+|  | 10:9837(a). | [None.] |
+| 1007(c) | 10:4837(b). | [None.] |
+|  | 10:9837(b). | [None.] |
+| 1007(d) | 10:4837(c). | [None.] |
+|  | 10:9837(c). | [None.] |
+| 1007(e) | 10:4837(e). | [None.] |
+|  | 10:9837(e). | [None.] |
+| 1007(f) | 10:4837(f). | [None.] |
+|  | 10:9837(f). | [None.] |
+| 1007(g) | 10:4837(g). | [None.] |
+|  | 10:9837(g). | [None.] |
+
+
+Historical and Revision Notes
+
+1007(a)
+
+1007(b)
+
+1007(c)
+
+1007(d)
+
+1007(e)
+
+1007(f)
+
+1007(g)
+
+## Source Credit
+
+*([Pub. L. 87–649](https://www.govinfo.gov/link/plaw/87/public/649), Sept. 7, 1962, [76 Stat. 491](https://www.govinfo.gov/link/statute/76/491); [Pub. L. 89–718](https://www.govinfo.gov/link/plaw/89/public/718), §§ 71, 72, Nov. 2, 1966, [80 Stat. 1124](https://www.govinfo.gov/link/statute/80/1124); [Pub. L. 90–83, § 5(3)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 221](https://www.govinfo.gov/link/statute/81/221); [Pub. L. 98–525, title XIII, § 1305](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2613](https://www.govinfo.gov/link/statute/98/2613); [Pub. L. 99–145, title VI, § 684](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 666](https://www.govinfo.gov/link/statute/99/666); [Pub. L. 100–180, div. A, title VI, § 633(a)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1105](https://www.govinfo.gov/link/statute/101/1105); [Pub. L. 101–189, div. A, title III, § 343(a)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1420](https://www.govinfo.gov/link/statute/103/1420); [Pub. L. 101–510, div. A, title XV, § 1533(b)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1735](https://www.govinfo.gov/link/statute/104/1735); [Pub. L. 102–25, title VII, § 702(b)(1)](https://www.govinfo.gov/link/plaw/102/public/25), (c), Apr. 6, 1991, [105 Stat. 117](https://www.govinfo.gov/link/statute/105/117); [Pub. L. 102–484, div. A, title X, § 1054(a)(7)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2502](https://www.govinfo.gov/link/statute/106/2502); [Pub. L. 103–337, div. A, title III, § 371(a)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2735](https://www.govinfo.gov/link/statute/108/2735); [Pub. L. 104–106, div. A, title IX, § 913(c)(2)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 411](https://www.govinfo.gov/link/statute/110/411); [Pub. L. 104–201, div. A, title X, § 1009(c)(1)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2635](https://www.govinfo.gov/link/statute/110/2635); [Pub. L. 106–65, div. A, title X, § 1066(d)(5)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 773](https://www.govinfo.gov/link/statute/113/773); [Pub. L. 107–296, title XVII, § 1704(c)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 107–314, div. A, title X, § 1006(b)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2633](https://www.govinfo.gov/link/statute/116/2633); [Pub. L. 109–364, div. A, title VI, § 674](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2272](https://www.govinfo.gov/link/statute/120/2272); [Pub. L. 111–84, div. A, title VI, § 661(a)](https://www.govinfo.gov/link/plaw/111/public/84) –(c), Oct. 28, 2009, [123 Stat. 2370](https://www.govinfo.gov/link/statute/123/2370); [Pub. L. 111–281, title II, § 205(b)(2)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2911](https://www.govinfo.gov/link/statute/124/2911); [Pub. L. 114–328, div. A, title VI, § 671(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2173](https://www.govinfo.gov/link/statute/130/2173); [Pub. L. 116–283, div. A, title IX, § 925(k)(2)](https://www.govinfo.gov/link/plaw/116/public/283), title XIV, § 1412(c), Jan. 1, 2021, [134 Stat. 3829](https://www.govinfo.gov/link/statute/134/3829), 4031.)*

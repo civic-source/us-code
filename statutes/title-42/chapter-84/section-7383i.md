@@ -3,9 +3,10 @@ title: "Section 7383i - Definitions of national laboratory and nuclear weapons p
 usc_title: 42
 usc_section: "7383i"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7383i"
-generated_at: "2026-03-30T02:56:11.291Z"
+generated_at: "2026-11-23T21:26:33.067Z"
+status: "active"
 ---
 
 # § 7383i. Definitions of national laboratory and nuclear weapons production facility
@@ -22,3 +23,7 @@ For purposes of this subchapter:
     - **(C)** The Y–12 Plant, Oak Ridge, Tennessee.
     - **(D)** The tritium operations at the Savannah River Site, Aiken, South Carolina.
     - **(E)** The Nevada Test Site, Nevada.
+
+## Source Credit
+
+*([Pub. L. 106–65, div. C, title XXXI, § 3155](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 942](https://www.govinfo.gov/link/statute/113/942).)*

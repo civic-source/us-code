@@ -3,9 +3,10 @@ title: "Section 30305 - Outreach program"
 usc_title: 51
 usc_section: "30305"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 30305"
-generated_at: "2026-03-30T02:56:28.705Z"
+generated_at: "2026-11-23T21:26:42.535Z"
+status: "active"
 ---
 
 # § 30305. Outreach program
@@ -19,3 +20,36 @@ generated_at: "2026-03-30T02:56:28.705Z"
   - **(1)** data on the number of small businesses receiving assistance, jobs created and retained, and volunteer hours donated by the Administration, contractors, and academic institutions nationwide;
   - **(2)** an estimate of the total dollar value of the economic impact made by small businesses that received technical assistance through the program; and
   - **(3)** an accounting of the use of funds appropriated for the program.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30305 | 42 U.S.C. 17824 . | Pub. L. 110–422, title XI, § 1107 , Oct. 15, 2008 , 122 Stat. 4810 . |
+
+
+Establishment
+
+Program Structure
+
+Facilitating enhanced insight
+
+Creating network
+
+Creating network of economic development organizations
+
+Report
+
+Historical and Revision Notes
+
+30305
+
+42 U.S.C. 17824
+
+Pub. L. 110–422, title XI, § 1107
+
+Oct. 15, 2008
+
+122 Stat. 4810
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3364](https://www.govinfo.gov/link/statute/124/3364).)*

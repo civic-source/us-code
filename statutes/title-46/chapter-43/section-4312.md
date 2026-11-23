@@ -3,9 +3,10 @@ title: "Section 4312 - Engine cut-off switches"
 usc_title: 46
 usc_section: "4312"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 4312"
-generated_at: "2026-03-30T02:56:15.548Z"
+generated_at: "2026-11-23T21:26:37.064Z"
+status: "active"
 ---
 
 # § 4312. Engine cut-off switches
@@ -33,3 +34,37 @@ generated_at: "2026-03-30T02:56:15.548Z"
   - **(4)** The term “equipment manufacturer” means any person engaged in the manufacture, construction, or assembly of recreational vessels or associated equipment, or the importation of recreational vessels into the United States for subsequent sale.
   - **(5)** The term “propulsion machinery” means a self-contained propulsion system, and includes, but is not limited to, inboard engines, outboard motors, and sterndrive engines.
   - **(6)** The term “static thrust” means the forward or backwards thrust developed by propulsion machinery while stationary.
+
+Installation Requirement
+
+Use Requirement.—
+
+In general
+
+Exceptions
+
+Education on Cut-off Switches
+
+Availability of Standard for Inspection.—
+
+In general
+
+Availability
+
+Definitions
+
+Covered recreational vessel
+
+Dealer
+
+Distributor
+
+Manufacturer
+
+Propulsion machinery
+
+Static thrust
+
+## Source Credit
+
+*(Added [Pub. L. 115–282, title V, § 503(a)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4270](https://www.govinfo.gov/link/statute/132/4270); amended [Pub. L. 116–283, div. G, title LVXXXIII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXIII], § 8316(a), title LVXXXV [LXXXV], § 8507(a)(2), Jan. 1, 2021, [134 Stat. 4699](https://www.govinfo.gov/link/statute/134/4699), 4752.)*

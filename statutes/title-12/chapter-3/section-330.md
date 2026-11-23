@@ -3,12 +3,17 @@ title: "Section 330 - Laws applicable on becoming members; discounts for State b
 usc_title: 12
 usc_section: "330"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 330"
-generated_at: "2026-03-30T02:53:53.378Z"
+generated_at: "2026-11-23T21:25:36.783Z"
+status: "active"
 ---
 
 # § 330. Laws applicable on becoming members; discounts for State banks
 
 Banks becoming members of the Federal reserve system under authority of this subchapter shall be subject to the provisions of this subchapter and to those of this chapter which relate specifically to member banks, but shall not be subject to examination under the provisions of sections 481 and 482 of this title. Subject to the provisions of this chapter and to the regulations of the board made pursuant thereto, any bank becoming a member of the Federal reserve system shall retain its full charter and statutory rights as a State bank or trust company, and may continue to exercise all corporate powers granted it by the State in which it was created, and shall be entitled to all privileges of member banks, except that the Board of Governors of the Federal Reserve System may limit the activities of State member banks and subsidiaries of State member banks in a manner consistent with section 1831a of this title . No Federal reserve bank shall be permitted to discount for any State bank or trust company notes, drafts, or bills of exchange of any one borrower who is liable for borrowed money to such State bank or trust company in an amount greater than that which could be borrowed lawfully from such State bank or trust company were it a national banking association. The Federal reserve bank, as a condition of the discount of notes, drafts, and bills of exchange for such State bank or trust company, shall require a certificate or guaranty to the effect that the borrower is not liable to such bank in excess of the amount provided by this subchapter, and will not be permitted to become liable in excess of this amount while such notes, drafts, or bills of exchange are under discount with the Federal reserve bank.
 
+
+## Source Credit
+
+*(Dec. 23, 1913, ch. 6, § 9 (par.), as added June 21, 1917, ch. 32, § 3, [40 Stat. 234](https://www.govinfo.gov/link/statute/40/234); amended July 1, 1922, ch. 274, [42 Stat. 821](https://www.govinfo.gov/link/statute/42/821); [Pub. L. 102–242, title III, § 303(b)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2353](https://www.govinfo.gov/link/statute/105/2353).)*

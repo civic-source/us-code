@@ -3,9 +3,10 @@ title: "Section 13412 - Oil shale"
 usc_title: 42
 usc_section: "13412"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13412"
-generated_at: "2026-03-30T02:56:11.444Z"
+generated_at: "2026-11-23T21:26:33.604Z"
+status: "active"
 ---
 
 # § 13412. Oil shale
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.444Z"
   - **(3)** The program carried out under this subsection shall be cost-shared with universities and the private sector to the maximum extent possible.
 - **(d)** As part of the program authorized by this section, the Secretary shall carry out a program on extracting oil from western oil shales that includes, if appropriate, establishment and utilization of at least one field testing center for the purpose of testing, evaluating, and developing improvements in oil shale technology at the field test level. In establishing such a center, the Secretary shall consider sites with existing oil shale mining and processing infrastructure and facilities. Sixty days prior to establishing any such field testing center, the Secretary shall submit a report to Congress on the center to be established.
 - **(e)** There are authorized to be appropriated to the Secretary for carrying out this section $5,250,000 for fiscal year 1993 and $6,000,000 for fiscal year 1994.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XX, § 2012](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3058](https://www.govinfo.gov/link/statute/106/3058).)*

@@ -3,9 +3,10 @@ title: "Section 1712 - Duties of lessees, operators, and motor vehicle transport
 usc_title: 30
 usc_section: "1712"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1712"
-generated_at: "2026-03-30T02:55:29.408Z"
+generated_at: "2026-11-23T21:26:00.444Z"
+status: "active"
 ---
 
 # § 1712. Duties of lessees, operators, and motor vehicle transporters
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:29.408Z"
 - **(c)**
   - **(1)** Any person engaged in transporting by motor vehicle any oil from any lease site, or allocated to any such lease site, shall carry, on his person, in his vehicle, or in his immediate control, documentation showing, at a minimum, the amount, origin, and intended first destination of the oil.
   - **(2)** Any person engaged in transporting any oil or gas by pipeline from any lease site, or allocated to any lease site, on Federal or Indian lands shall maintain documentation showing, at a minimum, amount, origin, and intended first destination of such oil or gas.
+
+## Source Credit
+
+*([Pub. L. 97–451, title I, § 102](https://www.govinfo.gov/link/plaw/97/public/451), Jan. 12, 1983, [96 Stat. 2450](https://www.govinfo.gov/link/statute/96/2450); [Pub. L. 104–185, § 6(g)](https://www.govinfo.gov/link/plaw/104/public/185), Aug. 13, 1996, [110 Stat. 1715](https://www.govinfo.gov/link/statute/110/1715).)*

@@ -3,9 +3,10 @@ title: "Section 7374 - Energy self-sufficiency initiatives"
 usc_title: 42
 usc_section: "7374"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7374"
-generated_at: "2026-03-30T02:56:11.289Z"
+generated_at: "2026-11-23T21:26:33.063Z"
+status: "active"
 ---
 
 # § 7374. Energy self-sufficiency initiatives
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.289Z"
   - **(4)** to stimulate the utilization of abandoned or underutilized industrial facilities for the generation of energy from any locally available renewable resource, such as municipal solid waste, agricultural waste, or forest products waste.
 - **(c)** In carrying out the provisions of this section, the Secretary is authorized to assign to an existing office in the Department of Energy the responsibility of undertaking and carrying out the subprograms established under subsection (b). In addition, the Secretary shall prepare a detailed plan within one hundred eighty days of June 30, 1980 , setting forth (1) the 3-year pilot program itself, and (2) any additional Federal actions needed to encourage and promote the adoption of programs for energy self-sufficiency.
 - **(d)** The Secretary shall submit to the Congress, within one year after June 30, 1980 , the plan prepared under the second sentence of subsection (c) along with a report suggesting the legislative initiatives needed to fully implement such plan.
+
+## Source Credit
+
+*([Pub. L. 96–294, title IV, § 406](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 716](https://www.govinfo.gov/link/statute/94/716).)*

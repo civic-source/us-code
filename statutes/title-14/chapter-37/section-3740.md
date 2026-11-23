@@ -3,9 +3,10 @@ title: "Section 3740 - Promotion; recommendations of selection boards"
 usc_title: 14
 usc_section: "3740"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 3740"
-generated_at: "2026-03-30T02:53:51.503Z"
+generated_at: "2026-11-23T21:25:35.457Z"
+status: "active"
 ---
 
 # § 3740. Promotion; recommendations of selection boards
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:53:51.503Z"
 - **(g)** The report of a selection board shall be submitted to the Secretary for review and transmission to the President for approval. When an officer recommended by a board for promotion is not acceptable to the President, the President may remove the name of that officer from the report of the board.
 - **(h)** The recommendations of a selection board, as approved by the President, constitute a list of selectees from which the promotions of Reserve officers shall be made. An officer on a list of selectees remains thereon until promoted unless removed by the President under section 3749 of this title . If an existing list of selectees has not been exhausted by the time a later list has been approved, all officers remaining on the older list shall be tendered appointments prior to those on the later list.
 - **(i)** A Reserve officer whose name is on a list of selectees for promotion shall, unless that officer’s promotion is lawfully withheld, be tendered an appointment in the next higher grade on the date a vacancy occurs, or as soon thereafter as practicable in the grade to which the officer was selected for promotion or, if promotion was determined in accordance with a running mate system, at the same time, or as soon thereafter as practicable, as that officer’s running mate is tendered a similar appointment.
+
+## Source Credit
+
+*(Added [Pub. L. 96–322, § 1](https://www.govinfo.gov/link/plaw/96/public/322), Aug. 4, 1980, [94 Stat. 1010](https://www.govinfo.gov/link/statute/94/1010), § 729; amended [Pub. L. 97–417, § 2(13)](https://www.govinfo.gov/link/plaw/97/public/417), Jan. 4, 1983, [96 Stat. 2086](https://www.govinfo.gov/link/statute/96/2086); [Pub. L. 99–145, title V, § 514(c)(1)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 629](https://www.govinfo.gov/link/statute/99/629); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title V, § 502(a)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–99; [Pub. L. 107–295, title IV, § 411(a)](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2118](https://www.govinfo.gov/link/statute/116/2118); renumbered § 3740 and amended [Pub. L. 115–282, title I](https://www.govinfo.gov/link/plaw/115/public/282), §§ 118(b), 123(b)(2), Dec. 4, 2018, [132 Stat. 4233](https://www.govinfo.gov/link/statute/132/4233), 4240; [Pub. L. 119–60, div. G, title LXXII, § 7230](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1709](https://www.govinfo.gov/link/statute/139/1709).)*

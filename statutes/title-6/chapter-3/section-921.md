@@ -3,9 +3,10 @@ title: "Section 921 - Domestic radiation detection and imaging"
 usc_title: 6
 usc_section: "921"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 921"
-generated_at: "2026-03-30T02:53:09.501Z"
+generated_at: "2026-11-23T21:25:25.853Z"
+status: "active"
 ---
 
 # § 921. Domestic radiation detection and imaging
@@ -35,3 +36,13 @@ generated_at: "2026-03-30T02:53:09.501Z"
   - **(1)** In accordance with subsection (b), and in order to comply with this section, the Secretary shall establish an Intermodal Rail Radiation Detection Test Center (referred to in this subsection as the “Test Center”).
   - **(2)** The Secretary shall conduct multiple, concurrent projects at the Test Center to rapidly identify and test concepts specific to the challenges posed by on-dock rail.
   - **(3)** The Test Center shall be located within a public port facility at which a majority of the containerized cargo is directly laden from (or unladen to) on-dock, intermodal rail.
+
+Report
+
+Update
+
+Other weapons of mass destruction threats
+
+## Source Credit
+
+*([Pub. L. 109–347, title I, § 121](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1898](https://www.govinfo.gov/link/statute/120/1898); [Pub. L. 115–254, div. J, § 1816(b)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3541](https://www.govinfo.gov/link/statute/132/3541).)*

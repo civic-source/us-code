@@ -3,9 +3,10 @@ title: "Section 1059 - Recordkeeping and reporting requirements"
 usc_title: 29
 usc_section: "1059"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1059"
-generated_at: "2026-03-30T02:55:18.708Z"
+generated_at: "2026-11-23T21:26:02.239Z"
+status: "active"
 ---
 
 # § 1059. Recordkeeping and reporting requirements
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:18.708Z"
     - **(C)** has a 1-year break in service (as defined in section 1053(b)(3)(A) of this title ).
   - **(2)** If more than one employer adopts a plan, each such employer shall furnish to the plan administrator the information necessary for the administrator to maintain the records, and make the reports, required by paragraph (1). Such administrator shall maintain the records, and make the reports, required by paragraph (1).
 - **(b)** If any person who is required, under subsection (a), to furnish information or maintain records for any plan year fails to comply with such requirement, he shall pay to the Secretary a civil penalty of $10 for each employee with respect to whom such failure occurs, unless it is shown that such failure is due to reasonable cause.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 209](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 865](https://www.govinfo.gov/link/statute/88/865); [Pub. L. 110–458, title I, § 105(f)](https://www.govinfo.gov/link/plaw/110/public/458), Dec. 23, 2008, [122 Stat. 5105](https://www.govinfo.gov/link/statute/122/5105).)*

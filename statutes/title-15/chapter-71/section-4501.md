@@ -3,9 +3,10 @@ title: "Section 4501 - Restitutionary amounts covered"
 usc_title: 15
 usc_section: "4501"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4501"
-generated_at: "2026-03-30T02:54:08.199Z"
+generated_at: "2026-11-23T21:25:39.991Z"
+status: "active"
 ---
 
 # § 4501. Restitutionary amounts covered
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:08.199Z"
     - **(B)** identified in such order or judgment issued before October 21, 1986 , for indirect restitution.
 - **(d)** Subject to subsections (b) and (c), the amounts covered by subsection (a) shall be held in appropriate escrow accounts administered for the Secretary by the Secretary of the Treasury.
 - **(e)** Consistent with the disbursement requirements of this chapter, the Secretary of the Treasury shall provide that amounts described in subsection (a) shall earn interest at the maximum rate earned on investments of Federal trust funds by the Secretary of the Treasury in short-term and long-term securities issued by the Federal Government (including minority bank investments).
+
+## Source Credit
+
+*([Pub. L. 99–509, title III, § 3002](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1881](https://www.govinfo.gov/link/statute/100/1881).)*

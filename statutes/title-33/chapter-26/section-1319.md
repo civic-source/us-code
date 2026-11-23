@@ -3,9 +3,10 @@ title: "Section 1319 - Enforcement"
 usc_title: 33
 usc_section: "1319"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1319"
-generated_at: "2026-03-30T02:55:41.093Z"
+generated_at: "2026-11-23T21:26:11.381Z"
+status: "active"
 ---
 
 # § 1319. Enforcement
@@ -80,3 +81,7 @@ generated_at: "2026-03-30T02:55:41.093Z"
 - **(h)**
   - **(1)** In conjunction with an enforcement action under subsection (a) or (b) relating to municipal discharges, the Administrator shall inform a municipality of the opportunity to develop an integrated plan, as defined in section 1342(s) of this title .
   - **(2)** Any municipality under an administrative order under subsection (a) or settlement agreement (including a judicial consent decree) under subsection (b) that has developed an integrated plan consistent with section 1342(s) of this title may request a modification of the administrative order or settlement agreement based on that integrated plan.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title III, § 309, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 859](https://www.govinfo.gov/link/statute/86/859); amended [Pub. L. 95–217](https://www.govinfo.gov/link/plaw/95/public/217), §§ 54(b), 55, 56, 67(c)(2), Dec. 27, 1977, [91 Stat. 1591](https://www.govinfo.gov/link/statute/91/1591), 1592, 1606; [Pub. L. 100–4, title III](https://www.govinfo.gov/link/plaw/100/public/4), §§ 312, 313(a)(1), (b)(1), (c), 314(a), Feb. 4, 1987, [101 Stat. 42](https://www.govinfo.gov/link/statute/101/42), 45, 46; [Pub. L. 101–380, title IV, § 4301(c)](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 537](https://www.govinfo.gov/link/statute/104/537); [Pub. L. 115–282, title IX, § 903(c)(2)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4356](https://www.govinfo.gov/link/statute/132/4356); [Pub. L. 115–436, § 3(b)](https://www.govinfo.gov/link/plaw/115/public/436), Jan. 14, 2019, [132 Stat. 5560](https://www.govinfo.gov/link/statute/132/5560).)*

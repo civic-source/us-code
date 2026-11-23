@@ -3,9 +3,10 @@ title: "Section 825 - Mandatory health and safety training"
 usc_title: 30
 usc_section: "825"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 825"
-generated_at: "2026-03-30T02:55:29.389Z"
+generated_at: "2026-11-23T21:26:00.393Z"
+status: "active"
 ---
 
 # § 825. Mandatory health and safety training
@@ -32,3 +33,27 @@ generated_at: "2026-03-30T02:55:29.389Z"
       - **(iv)** That the operator of each underground coal mine with 36 or less employees shall—
         - **(I)** have an employee on each shift who is knowledgeable in mine emergency responses; and
         - **(II)** make available two certified mine rescue teams whose members—
+
+(aa) have an employee knowledgeable in mine emergency response who is employed at the mine on each shift at each underground mine; and
+
+(bb) make available two certified mine rescue teams whose members— (AA) are familiar with the operations of such coal mine; (BB) participate at least annually in two local mine rescue contests; (CC) participate at least annually in mine rescue training at the underground coal mine covered by the mine rescue team; and (DD) are available at the mine within one hour ground travel time from the mine rescue station.
+
+(aa) For the purpose of complying with subclause (I), an operator shall employ one team that is either an individual mine site mine rescue team or a composite team as provided for in item (bb)(BB).
+
+(bb) The following options may be used by an operator to comply with the requirements of item (aa): (AA) An individual mine-site mine rescue team. (BB) A multi-employer composite team that is made up of team members who are knowledgeable about the operations and ventilation of the covered mines and who train on a semi-annual basis at the covered underground coal mine— (aaa) which provides coverage for multiple operators that have team members which include at least two active employees from each of the covered mines; (bbb) which provides coverage for multiple mines owned by the same operator which members include at least two active employees from each mine; or (ccc) which is a State-sponsored mine rescue team comprised of at least two active employees from each of the covered mines. (CC) A commercial mine rescue team provided by contract through a third-party vendor or mine rescue team provided by another coal company, if such team— (aaa) trains on a quarterly basis at covered underground coal mines; (bbb) is knowledgeable about the operations and ventilation of the covered mines; and (ccc) is comprised of individuals with a minimum of 3 years underground coal mine experience that shall have occurred within the 10-year period preceding their employment on the contract mine rescue team. (DD) A State-sponsored team made up of State employees.
+
+(aa) are familiar with the operations of such coal mine;
+
+(bb) participate at least annually in two local mine rescue contests;
+
+(cc) participate at least semi-annually in mine rescue training at the underground coal mine covered by the mine rescue team;
+
+(dd) are available at the mine within one hour ground travel time from the mine rescue station;
+
+(ee) are knowledgeable about the operations and ventilation of the covered mines; and
+
+(ff) are comprised of individuals with a minimum of 3 years underground coal mine experience that shall have occurred within the 10-year period preceding their employment on the contract mine rescue team.
+
+## Source Credit
+
+*([Pub. L. 91–173, title I, § 115](https://www.govinfo.gov/link/plaw/91/public/173), as added [Pub. L. 95–164, title II, § 201](https://www.govinfo.gov/link/plaw/95/public/164), Nov. 9, 1977, [91 Stat. 1315](https://www.govinfo.gov/link/statute/91/1315); amended [Pub. L. 109–236, § 4](https://www.govinfo.gov/link/plaw/109/public/236), June 15, 2006, [120 Stat. 497](https://www.govinfo.gov/link/statute/120/497).)*

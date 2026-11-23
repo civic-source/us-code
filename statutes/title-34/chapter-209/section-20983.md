@@ -3,9 +3,10 @@ title: "Section 20983 - Grants to combat sexual abuse of children"
 usc_title: 34
 usc_section: "20983"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20983"
-generated_at: "2026-03-30T02:55:33.302Z"
+generated_at: "2026-11-23T21:26:09.805Z"
+status: "active"
 ---
 
 # § 20983. Grants to combat sexual abuse of children
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:33.302Z"
   - **(3)** purchase computer hardware and software necessary to investigate sexual abuse of children over the Internet, access local, State, and Federal databases needed to apprehend sex offenders, and facilitate the creation and enforcement of sex offender registries.
 - **(c)** The Attorney General shall give priority to law enforcement agencies making a showing of need.
 - **(d)** There are authorized to be appropriated such sums as may be necessary for fiscal years 2007 through 2009 to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 109–248, title VI, § 625](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 636](https://www.govinfo.gov/link/statute/120/636).)*

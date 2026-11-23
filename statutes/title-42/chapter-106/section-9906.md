@@ -3,9 +3,10 @@ title: "Section 9906 - Allotments and payments to States"
 usc_title: 42
 usc_section: "9906"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9906"
-generated_at: "2026-03-30T02:56:11.376Z"
+generated_at: "2026-11-23T21:26:33.323Z"
+status: "active"
 ---
 
 # § 9906. Allotments and payments to States
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.376Z"
   - **(3)** The amount allotted under paragraph (1) to a State for a fiscal year shall be reduced, if necessary, so that the aggregate amount allotted to such State under such paragraph and subsection (a) does not exceed 140 percent of the aggregate amount allotted to such State under the corresponding provisions of this chapter for the preceding fiscal year.
 - **(c)** The Secretary shall make grants to eligible States for the allotments described in subsections (a) and (b). The Secretary shall make payments for the grants in accordance with section 6503(a) of title 31 .
 - **(d)** In this section, the term “State” does not include Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 675B](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 105–285, title II, § 201](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2730](https://www.govinfo.gov/link/statute/112/2730).)*

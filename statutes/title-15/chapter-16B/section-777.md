@@ -3,9 +3,10 @@ title: "Section 777 - Economic analysis of proposed actions"
 usc_title: 15
 usc_section: "777"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 777"
-generated_at: "2026-03-30T02:54:08.122Z"
+generated_at: "2026-11-23T21:25:39.762Z"
+status: "active"
 ---
 
 # § 777. Economic analysis of proposed actions
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:08.122Z"
 - **(c)** Such analyses shall, wherever possible, be made explicit, and to the extent possible, other Federal agencies and agencies of State and local governments which have special knowledge and expertise relevant to the impact of proposed regulatory or other actions shall be consulted in making the analyses and all Federal agencies are authorized and directed to cooperate with the Administrator in preparing such analyses: Provided , That the Administrator’s actions pursuant to this section shall not create any right of review or cause of action except as would otherwise exist under other provisions of law.
 - **(d)** The Administrator, together with the Secretaries of Labor and Commerce, shall monitor the economic impact of any energy actions taken by the Administrator, and shall provide the Congress with an annual report on the impact of the energy shortage and the Administrator’s actions on employment and the economy. Such report shall contain recommendations as to whether additional Federal programs of employment and economic assistance should be put into effect to minimize the impact of the energy shortage and any actions taken.
 - **(e)** The Administrator shall formulate and implement regulatory and other actions in a manner (1) which does not unduly discriminate against any industry or any region of the United States; and (2) designed to insure that, to the greatest extent possible, the costs and burdens of meeting energy shortages shall be borne equally by every sector and segment of the country and of the economy.
+
+## Source Credit
+
+*([Pub. L. 93–275, § 18](https://www.govinfo.gov/link/plaw/93/public/275), May 7, 1974, [88 Stat. 110](https://www.govinfo.gov/link/statute/88/110); [Pub. L. 94–385, title I, § 109(d)](https://www.govinfo.gov/link/plaw/94/public/385), Aug. 14, 1976, [90 Stat. 1130](https://www.govinfo.gov/link/statute/90/1130).)*

@@ -3,9 +3,10 @@ title: "Section 1717 - Home health services; invalid lifts and other devices"
 usc_title: 38
 usc_section: "1717"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1717"
-generated_at: "2026-03-30T02:55:53.484Z"
+generated_at: "2026-11-23T21:26:16.640Z"
+status: "active"
 ---
 
 # § 1717. Home health services; invalid lifts and other devices
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:53.484Z"
 - **(d)**
   - **(1)** In the case of a member of the Armed Forces who, as determined by the Secretary, has a disability permanent in nature incurred or aggravated in the line of duty in the active military, naval, air, or space service, the Secretary may furnish improvements and structural alterations for such member for such disability or as otherwise described in subsection (a)(2) while such member is hospitalized or receiving outpatient medical care, services, or treatment for such disability if the Secretary determines that such member is likely to be discharged or released from the Armed Forces for such disability.
   - **(2)** The furnishing of improvements and alterations under paragraph (1) in connection with the furnishing of medical services described in subparagraph (A) or (B) of subsection (a)(2) shall be subject to the limitation specified in the applicable subparagraph.
+
+## Source Credit
+
+*(Added [Pub. L. 86–211, § 5](https://www.govinfo.gov/link/plaw/86/public/211), Aug. 29, 1959, [73 Stat. 435](https://www.govinfo.gov/link/statute/73/435), § 617; amended [Pub. L. 88–450, § 6(a)](https://www.govinfo.gov/link/plaw/88/public/450), (c), Aug. 19, 1964, [78 Stat. 504](https://www.govinfo.gov/link/statute/78/504); [Pub. L. 90–77, title I, § 109](https://www.govinfo.gov/link/plaw/90/public/77), Aug. 31, 1967, [81 Stat. 180](https://www.govinfo.gov/link/statute/81/180); [Pub. L. 90–493, § 3(a)](https://www.govinfo.gov/link/plaw/90/public/493), Aug. 19, 1968, [82 Stat. 809](https://www.govinfo.gov/link/statute/82/809); [Pub. L. 97–295, § 4(18)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1306](https://www.govinfo.gov/link/statute/96/1306); [Pub. L. 98–528, title I, § 107](https://www.govinfo.gov/link/plaw/98/public/528), Oct. 19, 1984, [98 Stat. 2690](https://www.govinfo.gov/link/statute/98/2690); [Pub. L. 99–576, title II, § 202(2)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3254](https://www.govinfo.gov/link/statute/100/3254); [Pub. L. 100–322, title I, § 101(d)](https://www.govinfo.gov/link/plaw/100/public/322), May 20, 1988, [102 Stat. 491](https://www.govinfo.gov/link/statute/102/491); renumbered § 1717 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406](https://www.govinfo.gov/link/statute/105/404); [Pub. L. 102–405, title I, § 101(a)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1973](https://www.govinfo.gov/link/statute/106/1973); [Pub. L. 104–262, title I, § 101(d)(6)](https://www.govinfo.gov/link/plaw/104/public/262), Oct. 9, 1996, [110 Stat. 3180](https://www.govinfo.gov/link/statute/110/3180); [Pub. L. 105–114, title IV, § 402(b)](https://www.govinfo.gov/link/plaw/105/public/114), Nov. 21, 1997, [111 Stat. 2294](https://www.govinfo.gov/link/statute/111/2294); [Pub. L. 110–289, div. B, title VI, § 2601](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2858](https://www.govinfo.gov/link/statute/122/2858); [Pub. L. 111–163, title V, § 516(a)](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1166](https://www.govinfo.gov/link/statute/124/1166); [Pub. L. 111–275, title X, § 1001(c)(1)](https://www.govinfo.gov/link/plaw/111/public/275), Oct. 13, 2010, [124 Stat. 2896](https://www.govinfo.gov/link/statute/124/2896); [Pub. L. 116–283, div. A, title IX, § 926(a)(24)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3830](https://www.govinfo.gov/link/statute/134/3830).)*

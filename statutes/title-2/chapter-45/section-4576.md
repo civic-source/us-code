@@ -3,9 +3,10 @@ title: "Section 4576 - Availability of appropriated funds for payment to an indi
 usc_title: 2
 usc_section: "4576"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 4576"
-generated_at: "2026-03-30T02:53:04.833Z"
+generated_at: "2026-11-23T21:25:21.313Z"
+status: "active"
 ---
 
 # § 4576. Availability of appropriated funds for payment to an individual of pay from more than one position; conditions
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:53:04.833Z"
     - **(D)** A position—
       - **(i)** that is filled pursuant to section 6311 of this title ; and
       - **(ii)** the pay of which is disbursed by the Secretary of the Senate out of an appropriation under the heading “miscellaneous items”.
+
+## Source Credit
+
+*([Pub. L. 95–94, title I, § 114](https://www.govinfo.gov/link/plaw/95/public/94), Aug. 5, 1977, [91 Stat. 665](https://www.govinfo.gov/link/statute/91/665); [Pub. L. 95–240, title II, § 207](https://www.govinfo.gov/link/plaw/95/public/240), Mar. 7, 1978, [92 Stat. 117](https://www.govinfo.gov/link/statute/92/117); [Pub. L. 100–202, § 101(i) [title I, § 9]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–290](https://www.govinfo.gov/link/statute/101/1329), 1329–295; [Pub. L. 117–10, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/10), Apr. 23, 2021, [135 Stat. 259](https://www.govinfo.gov/link/statute/135/259).)*

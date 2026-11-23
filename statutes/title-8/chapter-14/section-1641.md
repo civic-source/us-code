@@ -3,9 +3,10 @@ title: "Section 1641 - Definitions"
 usc_title: 8
 usc_section: "1641"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1641"
-generated_at: "2026-03-30T02:53:10.506Z"
+generated_at: "2026-11-23T21:25:25.213Z"
+status: "active"
 ---
 
 # § 1641. Definitions
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:10.506Z"
     - **(A)** resides in the same household as a parent who has been battered or subjected to extreme cruelty in the United States by that parent’s spouse or by a member of the spouse’s family residing in the same household as the parent and the spouse consented or acquiesced to such battery or cruelty, but only if (in the opinion of the agency providing such benefits) there is a substantial connection between such battery or cruelty and the need for the benefits to be provided; and
     - **(B)** who meets the requirement of subparagraph (B) of paragraph (1); or
   - **(4)** an alien who has been granted nonimmigrant status under section 101(a)(15)(T) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(15)(T) ) or who has a pending application that sets forth a prima facie case for eligibility for such nonimmigrant status.
+
+## Source Credit
+
+*([Pub. L. 104–193, title IV, § 431](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2274](https://www.govinfo.gov/link/statute/110/2274); [Pub. L. 104–208, div. C, title III, § 308(g)(8)(E)](https://www.govinfo.gov/link/plaw/104/public/208), title V, § 501, Sept. 30, 1996, [110 Stat. 3009–624](https://www.govinfo.gov/link/statute/110/3009), 3009–670; [Pub. L. 105–33, title V](https://www.govinfo.gov/link/plaw/105/public/33), §§ 5302(c)(3), 5562, 5571(a)–(c), 5581(b)(6), (7), Aug. 5, 1997, [111 Stat. 599](https://www.govinfo.gov/link/statute/111/599), 638, 640, 643; [Pub. L. 106–386, div. B, title V, § 1508](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1530](https://www.govinfo.gov/link/statute/114/1530); [Pub. L. 110–457, title II, § 211(a)](https://www.govinfo.gov/link/plaw/110/public/457), Dec. 23, 2008, [122 Stat. 5063](https://www.govinfo.gov/link/statute/122/5063); [Pub. L. 116–260, div. CC, title II, § 208(c)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2985](https://www.govinfo.gov/link/statute/134/2985); [Pub. L. 118–42, div. G, title II, § 209(f)(3)](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 445](https://www.govinfo.gov/link/statute/138/445).)*

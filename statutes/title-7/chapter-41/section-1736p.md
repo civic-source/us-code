@@ -3,9 +3,10 @@ title: "Section 1736p - Trade policy declaration"
 usc_title: 7
 usc_section: "1736p"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1736p"
-generated_at: "2026-03-30T02:53:42.340Z"
+generated_at: "2026-11-23T21:25:28.173Z"
+status: "active"
 ---
 
 # § 1736p. Trade policy declaration
@@ -18,3 +19,7 @@ It is hereby declared to be the agricultural trade policy of the United States t
   - **(4)** aggressively counter unfair foreign trade practices as a means of encouraging fairer trade;
   - **(5)** remove foreign policy constraints to maximize United States economic interests through agricultural trade; and
   - **(6)** provide for consideration of United States agricultural trade interests in the design of national fiscal and monetary policy that may foster continued strength in the value of the dollar.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XI, § 1121](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1480](https://www.govinfo.gov/link/statute/99/1480); [Pub. L. 104–127, title II, § 267](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 974](https://www.govinfo.gov/link/statute/110/974).)*

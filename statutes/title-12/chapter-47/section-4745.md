@@ -3,9 +3,10 @@ title: "Section 4745 - Terms of participation agreements"
 usc_title: 12
 usc_section: "4745"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4745"
-generated_at: "2026-03-30T02:53:53.518Z"
+generated_at: "2026-11-23T21:25:37.218Z"
+status: "active"
 ---
 
 # § 4745. Terms of participation agreements
@@ -73,3 +74,7 @@ generated_at: "2026-03-30T02:53:53.518Z"
     - **(B)** upon the participating financial institution’s withdrawal from authority to make new loans under the Program.
   - **(2)** After any withdrawal of assets from the reserve fund pursuant to paragraph (1)(B), any future claims filed by the participating financial institution on loans remaining in its capital access program portfolio shall only be paid from funds remaining in the reserve fund to the extent that, in the aggregate, such claims exceed the sum of the amount of such withdrawn assets, and interest on that amount, imputed at the same rate as income would have accrued had the amount not been withdrawn.
   - **(3)** If the Fund determines that the inclusion in a participation agreement of the provisions authorized by this subsection is resulting in the enrollment of loans under the Program that are likely to have been made without assistance provided under this subchapter, the Fund may notify the participating State that henceforth, the Fund will only make reimbursements to the State under section 4747 of this title with respect to a loan if the participation agreement between the participating State and each participating financial institution has been amended to conform with this section, without exercise of the special authority granted by this subsection.
+
+## Source Credit
+
+*([Pub. L. 103–325, title II, § 255](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2207](https://www.govinfo.gov/link/statute/108/2207).)*

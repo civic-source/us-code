@@ -3,9 +3,10 @@ title: "Section 6393 - Administrative procedure and judicial review"
 usc_title: 42
 usc_section: "6393"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6393"
-generated_at: "2026-03-30T02:56:11.261Z"
+generated_at: "2026-11-23T21:26:32.955Z"
+status: "active"
 ---
 
 # § 6393. Administrative procedure and judicial review
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.261Z"
   - **(4)** Any officer or agency authorized to issue rules, regulations, or orders described in paragraph (1) shall provide for the making of such adjustments, consistent with the other purposes of this Act as may be necessary to prevent special hardship, inequity, or an unfair distribution of burdens and shall in rules prescribed by it establish procedures which are available to any person for the purpose of seeking an interpretation, modification, or rescission of, or an exception to or exemption from, such rules, regulations and orders. If such person is aggrieved or adversely affected by the denial of a request for such action under the preceding sentence, he may request a review of such denial by the officer or agency and may obtain judicial review in accordance with subsection (b) or other applicable law when such denial becomes final. The officer or agency shall, by rule, establish appropriate procedures, including a hearing where deemed advisable, for considering such requests for action under this paragraph.
 - **(b)** The procedures for judicial review established by section 211 of the Economic Stabilization Act of 1970 shall apply to proceedings to which subsection (a) applies, as if such proceedings took place under such Act. Such procedures for judicial review shall apply notwithstanding the expiration of the Economic Stabilization Act of 1970.
 - **(c)** Any agency authorized to issue any rule, regulation, or order described in subsection (a)(1) shall, upon written request of any person, which request is filed after any grant or denial of a request for exception or exemption from any such rule, regulation, or order, furnish such person, within 30 days after the date on which such request is filed, with a written opinion setting forth applicable facts and the legal basis in support of such grant or denial.
+
+## Source Credit
+
+*([Pub. L. 94–163, title V, § 523](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 962](https://www.govinfo.gov/link/statute/89/962).)*

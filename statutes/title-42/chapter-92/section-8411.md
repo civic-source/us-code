@@ -3,9 +3,10 @@ title: "Section 8411 - Administrative procedures"
 usc_title: 42
 usc_section: "8411"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8411"
-generated_at: "2026-03-30T02:56:11.342Z"
+generated_at: "2026-11-23T21:26:33.201Z"
+status: "active"
 ---
 
 # § 8411. Administrative procedures
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.342Z"
   - **(3)** The procedures applicable under this chapter shall not—
     - **(A)** be considered to be modified or affected by any other provision of law unless such other provision specifically amends this chapter (or provisions of law cited herein), or
     - **(B)** be considered to be superseded by any other provision of law unless such other provision does so in specific terms, referring to this chapter, and declaring that such provision supersedes, in whole or in part, the procedures of this chapter.
+
+## Source Credit
+
+*([Pub. L. 95–620, title VII, § 701](https://www.govinfo.gov/link/plaw/95/public/620), Nov. 9, 1978, [92 Stat. 3329](https://www.govinfo.gov/link/statute/92/3329); [Pub. L. 100–42, § 1(c)(16)](https://www.govinfo.gov/link/plaw/100/public/42), May 21, 1987, [101 Stat. 313](https://www.govinfo.gov/link/statute/101/313).)*

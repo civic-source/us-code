@@ -3,9 +3,10 @@ title: "Section 7423 - Prohibition on cooperation with the International Crimina
 usc_title: 22
 usc_section: "7423"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7423"
-generated_at: "2026-03-30T02:55:05.440Z"
+generated_at: "2026-11-23T21:25:58.715Z"
+status: "active"
 ---
 
 # § 7423. Prohibition on cooperation with the International Criminal Court
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:05.440Z"
   - **(2)** The prohibition under paragraph (1) shall not apply with respect to investigative activities that—
     - **(A)** relate solely to investigations and prosecutions of foreign persons for crimes within the jurisdiction of the International Criminal Court related to the Situation in Ukraine; and
     - **(B)** are undertaken in concurrence with the Attorney General.
+
+## Source Credit
+
+*([Pub. L. 107–206, title II, § 2004](https://www.govinfo.gov/link/plaw/107/public/206), Aug. 2, 2002, [116 Stat. 902](https://www.govinfo.gov/link/statute/116/902); [Pub. L. 117–328, div. K, title VII, § 7073(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5092](https://www.govinfo.gov/link/statute/136/5092).)*

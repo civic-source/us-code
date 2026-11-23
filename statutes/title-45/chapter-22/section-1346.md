@@ -3,9 +3,10 @@ title: "Section 1346 - Resolution of certain issues"
 usc_title: 45
 usc_section: "1346"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 1346"
-generated_at: "2026-03-30T02:55:56.561Z"
+generated_at: "2026-11-23T21:26:19.243Z"
+status: "active"
 ---
 
 # § 1346. Resolution of certain issues
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:56.561Z"
   - **(5)** resolves all claims against the Railway Labor Executives’ Association or the Corporation by any adviser, consultant, or other person who has provided services to such association in connection with any matter referred to in this subchapter.
 - **(b)** The Corporation shall not be considered to be in breach, default, or violation of any agreement to which it is a party, notwithstanding any provision of such agreement, because of any provision of this subchapter or any action the Corporation is required to take under this subchapter.
 - **(c)** The United States hereby withdraws any stated or implied consent for the United States, or any agent or officer of the United States, to be sued by any person for any legal, equitable, or other relief with respect to any claim arising out of, or resulting from, acts or omissions under this subchapter, except actions brought to require the Secretary of Transportation to perform duties or acts required under part A of this subchapter.
+
+## Source Credit
+
+*([Pub. L. 99–509, title IV, § 4038](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1909](https://www.govinfo.gov/link/statute/100/1909).)*

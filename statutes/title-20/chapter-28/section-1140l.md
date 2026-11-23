@@ -3,9 +3,10 @@ title: "Section 1140l - Establishment of Advisory Commission on Accessible Instr
 usc_title: 20
 usc_section: "1140l"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1140l"
-generated_at: "2026-03-30T02:54:48.148Z"
+generated_at: "2026-11-23T21:25:47.257Z"
+status: "active"
 ---
 
 # § 1140l. Establishment of Advisory Commission on Accessible Instructional Materials in Postsecondary Education for Students with Disabilities
@@ -62,3 +63,11 @@ generated_at: "2026-03-30T02:54:48.148Z"
     - **(A)** the National Technical Assistance Center established under subpart 4; and
     - **(B)** other means, as determined by the Commission.
 - **(c)** The Commission shall terminate on the date that is 90 days after the date on which the Commission submits the report under subsection (b)(2) to the Secretary and the authorizing committees.
+
+(aa) within a timeframe comparable to the availability of instructional materials for nondisabled students; and
+
+(bb) to the maximum extent practicable, at costs comparable to the costs of such materials for nondisabled students;
+
+## Source Credit
+
+*([Pub. L. 89–329, title VII, § 772](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title VII, § 709(2)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3368](https://www.govinfo.gov/link/statute/122/3368); amended [Pub. L. 111–39, title VII, § 701(5)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1955](https://www.govinfo.gov/link/statute/123/1955).)*

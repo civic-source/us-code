@@ -3,9 +3,10 @@ title: "Section 1187 - Visa waiver program for certain visitors"
 usc_title: 8
 usc_section: "1187"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1187"
-generated_at: "2026-03-30T02:53:10.482Z"
+generated_at: "2026-11-23T21:25:25.145Z"
+status: "active"
 ---
 
 # § 1187. Visa waiver program for certain visitors
@@ -250,3 +251,11 @@ generated_at: "2026-03-30T02:53:10.482Z"
   - **(3)** Not later than 180 days after August 3, 2007 , the Secretary shall submit to Congress a report that describes—
     - **(A)** the progress made in developing and deploying the exit system established under this subsection; and
     - **(B)** the procedures by which the Secretary shall improve the method of calculating the rates of nonimmigrants who overstay their authorized period of stay in the United States.
+
+In general
+
+“It is the sense of Congress that—
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 2, § 217, as added [Pub. L. 99–603, title III, § 313(a)](https://www.govinfo.gov/link/plaw/99/public/603), Nov. 6, 1986, [100 Stat. 3435](https://www.govinfo.gov/link/statute/100/3435); amended [Pub. L. 100–525, § 2(p)(1)](https://www.govinfo.gov/link/plaw/100/public/525), (2), Oct. 24, 1988, [102 Stat. 2613](https://www.govinfo.gov/link/statute/102/2613); [Pub. L. 101–649, title II, § 201(a)](https://www.govinfo.gov/link/plaw/101/public/649), Nov. 29, 1990, [104 Stat. 5012](https://www.govinfo.gov/link/statute/104/5012); [Pub. L. 102–232, title III](https://www.govinfo.gov/link/plaw/102/public/232), §§ 303(a)(1), (2), 307(l)(3), Dec. 12, 1991, [105 Stat. 1746](https://www.govinfo.gov/link/statute/105/1746), 1756; [Pub. L. 103–415, § 1(m)](https://www.govinfo.gov/link/plaw/103/public/415), Oct. 25, 1994, [108 Stat. 4301](https://www.govinfo.gov/link/statute/108/4301); [Pub. L. 103–416, title II](https://www.govinfo.gov/link/plaw/103/public/416), §§ 210, 211, Oct. 25, 1994, [108 Stat. 4312](https://www.govinfo.gov/link/statute/108/4312), 4313; [Pub. L. 104–208, div. C, title III, § 308(d)(4)(F)](https://www.govinfo.gov/link/plaw/104/public/208), (e)(9), title VI, § 635(a)–(c)(1), (3), Sept. 30, 1996, [110 Stat. 3009–618](https://www.govinfo.gov/link/statute/110/3009), 3009–620, 3009–702, 3009–703; [Pub. L. 105–119, title I, § 125](https://www.govinfo.gov/link/plaw/105/public/119), Nov. 26, 1997, [111 Stat. 2471](https://www.govinfo.gov/link/statute/111/2471); [Pub. L. 105–173](https://www.govinfo.gov/link/plaw/105/public/173), §§ 1, 3, Apr. 27, 1998, [112 Stat. 56](https://www.govinfo.gov/link/statute/112/56); [Pub. L. 106–396, title I, § 101(a)](https://www.govinfo.gov/link/plaw/106/public/396), title II, §§ 201–207, title IV, § 403(a)–(d), Oct. 30, 2000, [114 Stat. 1637–1644](https://www.govinfo.gov/link/statute/114/1637), 1647, 1648; [Pub. L. 107–56, title IV, § 417(c)](https://www.govinfo.gov/link/plaw/107/public/56), (d), Oct. 26, 2001, [115 Stat. 355](https://www.govinfo.gov/link/statute/115/355); [Pub. L. 107–173, title III, § 307(a)](https://www.govinfo.gov/link/plaw/107/public/173), May 14, 2002, [116 Stat. 556](https://www.govinfo.gov/link/statute/116/556); [Pub. L. 110–53, title VII, § 711(c)](https://www.govinfo.gov/link/plaw/110/public/53), (d)(1), Aug. 3, 2007, [121 Stat. 339](https://www.govinfo.gov/link/statute/121/339), 341; [Pub. L. 111–145, § 9(h)](https://www.govinfo.gov/link/plaw/111/public/145), formerly § 9(e), Mar. 4, 2010, [124 Stat. 62](https://www.govinfo.gov/link/statute/124/62), renumbered [Pub. L. 113–235, div. B, title VI, § 606(1)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2219](https://www.govinfo.gov/link/statute/128/2219); [Pub. L. 111–198, § 5(a)](https://www.govinfo.gov/link/plaw/111/public/198), July 2, 2010, [124 Stat. 1357](https://www.govinfo.gov/link/statute/124/1357); [Pub. L. 113–235, div. B, title VI, § 605(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2219](https://www.govinfo.gov/link/statute/128/2219); [Pub. L. 114–113, div. O, title II](https://www.govinfo.gov/link/plaw/114/public/113), §§ 202(a), (b), 203–205(a), 206, 207(a), 209, Dec. 18, 2015, [129 Stat. 2989–2995](https://www.govinfo.gov/link/statute/129/2989); [Pub. L. 115–123, div. C, title II, § 30203(a)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 126](https://www.govinfo.gov/link/statute/132/126); [Pub. L. 116–94, div. I, title VIII, § 806](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3029](https://www.govinfo.gov/link/statute/133/3029); [Pub. L. 117–103, div. EE, § 101](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 1111](https://www.govinfo.gov/link/statute/136/1111); [Pub. L. 119–21, title X, § 100014](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 382](https://www.govinfo.gov/link/statute/139/382).)*

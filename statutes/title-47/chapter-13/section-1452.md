@@ -3,9 +3,10 @@ title: "Section 1452 - Special requirements for incentive auction of broadcast T
 usc_title: 47
 usc_section: "1452"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1452"
-generated_at: "2026-03-30T02:56:24.535Z"
+generated_at: "2026-11-23T21:26:36.102Z"
+status: "active"
 ---
 
 # § 1452. Special requirements for incentive auction of broadcast TV spectrum
@@ -126,3 +127,7 @@ generated_at: "2026-03-30T02:56:24.535Z"
   - **(2)** The rulemaking completed under paragraph (1) shall include the development of lists of reasonable eligible costs to be reimbursed by the Commission pursuant to subsections (k) and (l), and procedures for the submission and review of cost estimates and other materials related to those costs consistent with the regulations developed by the Commission pursuant to subsection (b)(4).
 - **(n)**
   - **(1)** Nothing in subsections (j) through (m) shall alter the final transition phase completion date established by the Commission for full power and Class A television stations.
+
+## Source Credit
+
+*([Pub. L. 112–96, title VI, § 6403](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 225](https://www.govinfo.gov/link/statute/126/225); [Pub. L. 115–141, div. E, title V, § 511](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 563](https://www.govinfo.gov/link/statute/132/563).)*

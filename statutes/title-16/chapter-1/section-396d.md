@@ -3,9 +3,10 @@ title: "Section 396d - Establishment"
 usc_title: 16
 usc_section: "396d"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 396d"
-generated_at: "2026-03-30T02:54:22.753Z"
+generated_at: "2026-11-23T21:25:51.420Z"
+status: "active"
 ---
 
 # § 396d. Establishment
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:22.753Z"
   - **(6)** The Commission shall meet not less than twice a year. Additional meetings may be called by the Chairman.
   - **(7)** The Advisory Commission shall terminate on December 31, 2018 .
 - **(g)** There are hereby authorized to be appropriated not to exceed $25,000,000 for acquisition and $1,000,000 for development.
+
+## Source Credit
+
+*([Pub. L. 95–625, title V, § 505](https://www.govinfo.gov/link/plaw/95/public/625), Nov. 10, 1978, [92 Stat. 3499](https://www.govinfo.gov/link/statute/92/3499); [Pub. L. 96–87, title IV, § 401(i)](https://www.govinfo.gov/link/plaw/96/public/87), Oct. 12, 1979, [93 Stat. 666](https://www.govinfo.gov/link/statute/93/666); [Pub. L. 104–333, div. I, title V, § 503(b)](https://www.govinfo.gov/link/plaw/104/public/333), Nov. 12, 1996, [110 Stat. 4155](https://www.govinfo.gov/link/statute/110/4155); [Pub. L. 106–510, § 3(c)(1)](https://www.govinfo.gov/link/plaw/106/public/510), Nov. 13, 2000, [114 Stat. 2363](https://www.govinfo.gov/link/statute/114/2363); [Pub. L. 108–142, § 2](https://www.govinfo.gov/link/plaw/108/public/142), Dec. 2, 2003, [117 Stat. 1875](https://www.govinfo.gov/link/statute/117/1875); [Pub. L. 111–11, title VII, § 7401](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1219](https://www.govinfo.gov/link/statute/123/1219).)*

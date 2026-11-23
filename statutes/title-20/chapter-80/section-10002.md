@@ -3,9 +3,10 @@ title: "Section 10002 - State uses of funds"
 usc_title: 20
 usc_section: "10002"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 10002"
-generated_at: "2026-03-30T02:54:48.233Z"
+generated_at: "2026-11-23T21:25:47.684Z"
+status: "active"
 ---
 
 # § 10002. State uses of funds
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:48.233Z"
     - **(A)** qualifies as an institution of higher education, as defined in subsection 1 1 So in original. Probably should be “section”. 10013(3) of this title; and
     - **(B)** continues to be eligible to participate in the programs under title IV of the Higher Education Act of 1965 [ 20 U.S.C. 1070 et seq.].
 - **(c)** Nothing in this section shall allow a local educational agency to engage in school modernization, renovation, or repair that is inconsistent with State law.
+
+## Source Credit
+
+*([Pub. L. 111–5, div. A, title XIV, § 14002](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 279](https://www.govinfo.gov/link/statute/123/279); [Pub. L. 111–8, div. F, title V, § 523(a)](https://www.govinfo.gov/link/plaw/111/public/8), (b), Mar. 11, 2009, [123 Stat. 806](https://www.govinfo.gov/link/statute/123/806).)*

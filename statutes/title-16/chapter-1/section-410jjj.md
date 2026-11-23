@@ -3,9 +3,10 @@ title: "Section 410jjj - Establishment"
 usc_title: 16
 usc_section: "410jjj"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410jjj"
-generated_at: "2026-03-30T02:54:22.780Z"
+generated_at: "2026-11-23T21:25:51.480Z"
+status: "active"
 ---
 
 # § 410jjj. Establishment
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:22.780Z"
     - **(C)** shall negatively affect the economic development of the areas surrounding the park; or
     - **(D)** affects the classification of the park under section 7472 of title 42 .
 - **(d)** The total acreage of the park shall not exceed 26,776 acres.
+
+## Source Credit
+
+*([Pub. L. 94–545, § 1](https://www.govinfo.gov/link/plaw/94/public/545), Oct. 18, 1976, [90 Stat. 2517](https://www.govinfo.gov/link/statute/90/2517); [Pub. L. 100–524, § 5](https://www.govinfo.gov/link/plaw/100/public/524), Oct. 24, 1988, [102 Stat. 2607](https://www.govinfo.gov/link/statute/102/2607); [Pub. L. 108–108, title I](https://www.govinfo.gov/link/plaw/108/public/108), §§ 135, 148, Nov. 10, 2003, [117 Stat. 1270](https://www.govinfo.gov/link/statute/117/1270), 1281; [Pub. L. 108–199, div. H, § 139(a)](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 442](https://www.govinfo.gov/link/statute/118/442).)*

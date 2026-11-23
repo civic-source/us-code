@@ -3,9 +3,10 @@ title: "Section 6991f - Federal facilities"
 usc_title: 42
 usc_section: "6991f"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6991f"
-generated_at: "2026-03-30T02:56:11.281Z"
+generated_at: "2026-11-23T21:26:33.038Z"
+status: "active"
 ---
 
 # § 6991f. Federal facilities
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.281Z"
     - **(E)** describes the operator training that has been provided to the operator and other persons having primary daily on-site management responsibility for the operation and maintenance of underground storage tanks owned or operated by the agency; and
     - **(F)** describes the actions that have been and will be taken to ensure compliance for each underground storage tank identified under subparagraph (B).
   - **(2)** This subsection does not relieve any person from any obligation or requirement under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 9007](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 98–616, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/98/public/616), Nov. 8, 1984, [98 Stat. 3286](https://www.govinfo.gov/link/statute/98/3286); amended [Pub. L. 109–58, title XV, § 1528](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1100](https://www.govinfo.gov/link/statute/119/1100).)*

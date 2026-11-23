@@ -3,12 +3,17 @@ title: "Section 1775 - Retention of nonimmigrant visa applications by the Depart
 usc_title: 8
 usc_section: "1775"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1775"
-generated_at: "2026-03-30T02:53:10.508Z"
+generated_at: "2026-11-23T21:25:25.218Z"
+status: "active"
 ---
 
 # § 1775. Retention of nonimmigrant visa applications by the Department of State
 
 The Department of State shall retain, for a period of seven years from the date of application, every application for a nonimmigrant visa under section 101(a)(15) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(15) ) in a form that will be admissible in the courts of the United States or in administrative proceedings, including removal proceedings under such Act [ 8 U.S.C. 1101 et seq.], without regard to whether the application was approved or denied.
 
+
+## Source Credit
+
+*([Pub. L. 107–173, title VI, § 606](https://www.govinfo.gov/link/plaw/107/public/173), May 14, 2002, [116 Stat. 565](https://www.govinfo.gov/link/statute/116/565).)*

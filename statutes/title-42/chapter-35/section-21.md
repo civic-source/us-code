@@ -3,9 +3,10 @@ title: "Section 21 - Program"
 usc_title: 42
 usc_section: "21"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 21"
-generated_at: "2026-03-30T02:56:11.179Z"
+generated_at: "2026-11-23T21:26:32.521Z"
+status: "active"
 ---
 
 # § 3057k–21. Program
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.179Z"
   - **(1)** Subject to paragraph (2), supportive services described in subsection (a) may include any of the activities described in section 3030d(a) of this title .
   - **(2)** The Assistant Secretary, in making grants under this section, shall give priority to organizations that will use the grant funds for supportive services described in subsection (a) that are for in-home assistance, transportation, information and referral, case management, health and wellness programs, legal services, family caregiver support services, and other services that directly support the independence of the older individuals served.
   - **(3)** Nothing in this section shall be construed or interpreted to prohibit the provision of supportive services under part A or B.
+
+## Source Credit
+
+*([Pub. L. 89–73, title VI, § 636](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 116–131, title V, § 501(3)](https://www.govinfo.gov/link/plaw/116/public/131), Mar. 25, 2020, [134 Stat. 268](https://www.govinfo.gov/link/statute/134/268).)*

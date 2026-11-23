@@ -3,9 +3,10 @@ title: "Section 509B - Section to enforce human rights laws"
 usc_title: 28
 usc_section: "509B"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 509B"
-generated_at: "2026-03-30T02:55:30.130Z"
+generated_at: "2026-11-23T21:26:01.047Z"
+status: "active"
 ---
 
 # § 509B. Section to enforce human rights laws
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:30.130Z"
 - **(c)** The Attorney General shall, as appropriate, consult with the Secretary of Homeland Security and the Secretary of State.
 - **(d)** In determining the appropriate legal action to take against individuals who are suspected of committing serious human rights offenses under Federal law, the section shall take into consideration the availability of criminal prosecution under the laws of the United States for such offenses or in a foreign jurisdiction that is prepared to undertake a prosecution for the conduct that forms the basis for such offenses.
 - **(e)** The term “serious human rights offenses” includes violations of Federal criminal laws relating to genocide, torture, war crimes, and the use or recruitment of child soldiers under sections 1091, 2340, 2340A, 2441, and 2442 of title 18, United States Code.
+
+## Source Credit
+
+*(Added [Pub. L. 111–122, § 2(b)](https://www.govinfo.gov/link/plaw/111/public/122), Dec. 22, 2009, [123 Stat. 3480](https://www.govinfo.gov/link/statute/123/3480).)*

@@ -3,9 +3,10 @@ title: "Section 7809 - Child-care centers"
 usc_title: 38
 usc_section: "7809"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7809"
-generated_at: "2026-03-30T02:55:53.536Z"
+generated_at: "2026-11-23T21:26:16.895Z"
+status: "active"
 ---
 
 # § 7809. Child-care centers
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:53.536Z"
   - **(5)** shall require in connection with the operation of the center compliance with all State and local laws, ordinances, and regulations relating to health and safety and the operation of child-care centers.
 - **(d)** The Secretary shall prescribe regulations to carry out this section.
 - **(e)** For the purpose of this section, the term “parent advisory committee” means a committee comprised of, and selected by, the parents of children receiving care in a child-care center operated under this section.
+
+## Source Credit
+
+*(Added [Pub. L. 100–322, title IV, § 412(a)](https://www.govinfo.gov/link/plaw/100/public/322), May 20, 1988, [102 Stat. 547](https://www.govinfo.gov/link/statute/102/547), § 4209; renumbered § 7809 and amended [Pub. L. 102–40, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/102/public/40), (b)(1), (d)(1), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238), 239; [Pub. L. 102–54, § 14(e)(8)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 287](https://www.govinfo.gov/link/statute/105/287); [Pub. L. 102–83, § 4(a)(3)](https://www.govinfo.gov/link/plaw/102/public/83), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404](https://www.govinfo.gov/link/statute/105/404), 405.)*

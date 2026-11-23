@@ -3,9 +3,10 @@ title: "Section 873 - Cooperative arrangements"
 usc_title: 21
 usc_section: "873"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 873"
-generated_at: "2026-03-30T02:54:54.297Z"
+generated_at: "2026-11-23T21:25:56.253Z"
+status: "active"
 ---
 
 # § 873. Cooperative arrangements
@@ -35,3 +36,25 @@ generated_at: "2026-03-30T02:54:54.297Z"
     - **(F)** training law enforcement and regulatory personnel to improve the control of such diversions.
   - **(2)** No grant may be made under paragraph (1) unless an application therefor is submitted to the Attorney General in such form and manner as the Attorney General may prescribe. No grant may exceed 80 per centum of the costs for which the grant is made, and no grant may be made unless the recipient of the grant provides assurances satisfactory to the Attorney General that it will obligate funds to meet the remaining 20 per centum of such costs. The Attorney General shall review the activities carried out with grants under paragraph (1) and shall report annually to Congress on such activities.
   - **(3)** To carry out this subsection there is authorized to be appropriated $6,000,000 for fiscal year 1985 and $6,000,000 for fiscal year 1986.
+
+Activities
+
+Additional Positions and Personnel.—
+
+In general
+
+Particular positions
+
+Authorization of Appropriations
+
+In general
+
+Transfer of funds
+
+Limitation
+
+Authority
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 503](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1271](https://www.govinfo.gov/link/statute/84/1271); [Pub. L. 96–359, § 8(a)](https://www.govinfo.gov/link/plaw/96/public/359) Sept. 26, 1980, [94 Stat. 1194](https://www.govinfo.gov/link/statute/94/1194); [Pub. L. 98–473, title II, § 517](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2074](https://www.govinfo.gov/link/statute/98/2074); [Pub. L. 99–570, title I, § 1868](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–55](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 99–646, § 85](https://www.govinfo.gov/link/plaw/99/public/646), Nov. 10, 1986, [100 Stat. 3620](https://www.govinfo.gov/link/statute/100/3620); [Pub. L. 111–211, title II, § 232(c)](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2278](https://www.govinfo.gov/link/statute/124/2278); [Pub. L. 115–271, title III, § 3273(b)](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 3953](https://www.govinfo.gov/link/statute/132/3953).)*

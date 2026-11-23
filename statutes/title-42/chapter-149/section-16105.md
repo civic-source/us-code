@@ -3,9 +3,10 @@ title: "Section 16105 - Biodiesel engine testing program"
 usc_title: 42
 usc_section: "16105"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16105"
-generated_at: "2026-03-30T02:56:11.469Z"
+generated_at: "2026-11-23T21:26:33.696Z"
+status: "active"
 ---
 
 # § 16105. Biodiesel engine testing program
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.469Z"
 - **(c)** Not later than 2 years after August 8, 2005 , the Secretary shall provide an interim report to Congress on the findings of the program, including a comprehensive analysis of impacts from biodiesel on engine operation for both existing and expected future diesel technologies, and recommendations for ensuring optimal emissions reductions and engine performance with biodiesel.
 - **(d)** There are authorized to be appropriated $5,000,000 for each of fiscal years 2006 through 2010 to carry out this section.
 - **(e)** For purposes of this section, the term “biodiesel” means a diesel fuel substitute produced from nonpetroleum renewable resources that meets the registration requirements for fuels and fuel additives established by the Environmental Protection Agency under section 7545 of this title and that meets the American Society for Testing and Materials D6751–02a Standard Specification for Biodiesel Fuel (B100) Blend Stock for Distillate Fuels.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VII, § 757](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 832](https://www.govinfo.gov/link/statute/119/832).)*

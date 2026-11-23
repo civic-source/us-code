@@ -3,9 +3,10 @@ title: "Section 8618 - Marine Corps Heritage Center and National Museum of the M
 usc_title: 10
 usc_section: "8618"
 chapter: 861
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 8618"
-generated_at: "2026-03-30T02:53:38.246Z"
+generated_at: "2026-11-23T21:25:32.933Z"
+status: "active"
 ---
 
 # § 8618. Marine Corps Heritage Center and National Museum of the Marine Corps at Marine Corps Base, Quantico, Virginia
@@ -28,3 +29,19 @@ generated_at: "2026-03-30T02:53:38.246Z"
   - **(3)** The Secretary may authorize the sale of donated property received under paragraph (1). A sale under this paragraph need not be conducted in accordance with disposal requirements that would otherwise apply, so long as the sale is conducted at arms-length and includes an auditable transaction record.
   - **(4)** Any money received under paragraph (1) and any proceeds from the sale of property under paragraph (3) shall be deposited into a fund established in the Treasury to support the Marine Corps Heritage Center and the National Museum of the Marine Corps.
 - **(f)** The Secretary may require such additional terms and conditions in connection with the joint venture authorized by subsection (a) as the Secretary considers appropriate to protect the interests of the United States.
+
+Joint Venture for Development and Continued Maintenance and Operation
+
+Design and Construction
+
+Acceptance Authority
+
+Maintenance, Operation, and Support
+
+Authority to Accept Gifts
+
+Additional Terms and Conditions
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. B, title XXVIII, § 2882(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 780](https://www.govinfo.gov/link/statute/137/780).)*

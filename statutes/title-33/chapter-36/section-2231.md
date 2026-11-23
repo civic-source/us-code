@@ -3,9 +3,10 @@ title: "Section 2231 - Study of water resources development projects by non-Fede
 usc_title: 33
 usc_section: "2231"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2231"
-generated_at: "2026-03-30T02:55:41.114Z"
+generated_at: "2026-11-23T21:26:11.425Z"
+status: "active"
 ---
 
 # § 2231. Study of water resources development projects by non-Federal interests
@@ -51,3 +52,11 @@ generated_at: "2026-03-30T02:55:41.114Z"
     - **(A)** shall not be considered to be an approval or endorsement of the feasibility study; and
     - **(B)** shall not affect the responsibilities of the Secretary under subsections (b) and (c).
 - **(f)** There is authorized to be appropriated to the Secretary $1,000,000 for each fiscal year to carry out this section.
+
+One-year window
+
+projects
+
+## Source Credit
+
+*([Pub. L. 99–662, title II, § 203](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4098](https://www.govinfo.gov/link/statute/100/4098); [Pub. L. 113–121, title I, § 1014(a)](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1219](https://www.govinfo.gov/link/statute/128/1219); [Pub. L. 114–322, title I, § 1126](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1648](https://www.govinfo.gov/link/statute/130/1648); [Pub. L. 115–270, title I, § 1152](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3788](https://www.govinfo.gov/link/statute/132/3788); [Pub. L. 116–260, div. AA, title I, § 161(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2665](https://www.govinfo.gov/link/statute/134/2665); [Pub. L. 118–272, div. A, title I, § 1109(a)](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3007](https://www.govinfo.gov/link/statute/138/3007).)*

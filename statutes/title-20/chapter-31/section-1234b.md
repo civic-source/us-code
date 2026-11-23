@@ -3,9 +3,10 @@ title: "Section 1234b - Measure of recovery"
 usc_title: 20
 usc_section: "1234b"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1234b"
-generated_at: "2026-03-30T02:54:48.158Z"
+generated_at: "2026-11-23T21:25:47.308Z"
+status: "active"
 ---
 
 # § 1234b. Measure of recovery
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:48.158Z"
     - **(C)** the State or local educational agency reasonably believed that the proposed expenditure or practice was permissible under then applicable State and Federal law.
   - **(6)** The Secretary shall disseminate to State educational agencies responses to written requests for guidance, described in paragraph (5), that reflect significant interpretations of applicable law or policy.
 - **(c)** The Secretary shall periodically review the written requests for guidance submitted under this section to determine the need for new or supplementary regulatory or other guidance under applicable programs.
+
+## Source Credit
+
+*([Pub. L. 90–247, title IV, § 453](https://www.govinfo.gov/link/plaw/90/public/247), as added [Pub. L. 95–561, title XII, § 1232](https://www.govinfo.gov/link/plaw/95/public/561), Nov. 1, 1978, [92 Stat. 2349](https://www.govinfo.gov/link/statute/92/2349); amended [Pub. L. 100–297, title III, § 3501(a)](https://www.govinfo.gov/link/plaw/100/public/297), Apr. 28, 1988, [102 Stat. 353](https://www.govinfo.gov/link/statute/102/353).)*

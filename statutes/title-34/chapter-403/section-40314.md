@@ -3,9 +3,10 @@ title: "Section 40314 - Effect on other laws"
 usc_title: 34
 usc_section: "40314"
 chapter: 403
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 40314"
-generated_at: "2026-03-30T02:55:33.308Z"
+generated_at: "2026-11-23T21:26:09.831Z"
+status: "active"
 ---
 
 # § 40314. Effect on other laws
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:33.308Z"
 - **(e)** Members of the Council (other than a member from the FBI or any at-large member who may be a Federal official or employee) shall not, by virtue of such membership, be deemed—
   - **(1)** to be, for any purpose other than to effect the Compact, officers or employees of the United States (as defined in sections 2104 and 2105 of title 5); or
   - **(2)** to become entitled by reason of Council membership to any compensation or benefit payable or made available by the Federal Government to its officers or employees.
+
+## Source Credit
+
+*([Pub. L. 105–251, title II, § 215](https://www.govinfo.gov/link/plaw/105/public/251), Oct. 9, 1998, [112 Stat. 1875](https://www.govinfo.gov/link/statute/112/1875); [Pub. L. 117–286, § 4(a)(213)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4329](https://www.govinfo.gov/link/statute/136/4329).)*

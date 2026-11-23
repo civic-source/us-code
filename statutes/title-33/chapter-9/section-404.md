@@ -3,12 +3,17 @@ title: "Section 404 - Establishment of harbor lines; conditions to grants for ex
 usc_title: 33
 usc_section: "404"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 404"
-generated_at: "2026-03-30T02:55:41.054Z"
+generated_at: "2026-11-23T21:26:11.296Z"
+status: "active"
 ---
 
 # § 404. Establishment of harbor lines; conditions to grants for extension of piers, etc.
 
 Where it is made manifest to the Secretary of the Army that the establishment of harbor lines is essential to the preservation and protection of harbors he may, and is, authorized to cause such lines to be established, beyond which no piers, wharves, bulkheads, or other works shall be extended or deposits made, except under such regulations as may be prescribed from time to time by him: Provided , That, whenever the Secretary of the Army grants to any person or persons permission to extend piers, wharves, bulkheads, or other works, or to make deposits in any tidal harbor or river of the United States beyond any harbor lines established under authority of the United States, he shall cause to be ascertained the amount of tidewater displaced by any such structure or by any such deposits, and he shall, if he deem it necessary, require the parties to whom the permission is given to make compensation for such displacement either by excavating in some part of the harbor, including tidewater channels between high and low water mark, to such an extent as to create a basin for as much tidewater as may be displaced by such structure or by such deposits, or in any other mode that may be satisfactory to him.
 
+
+## Source Credit
+
+*(Mar. 3, 1899, ch. 425, § 11, [30 Stat. 1151](https://www.govinfo.gov/link/statute/30/1151); July 26, 1947, ch. 343, title II, § 205(a), [61 Stat. 501](https://www.govinfo.gov/link/statute/61/501).)*

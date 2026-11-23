@@ -3,9 +3,10 @@ title: "Section 47138 - Pilot program for purchase of airport development rights
 usc_title: 49
 usc_section: "47138"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 47138"
-generated_at: "2026-03-30T02:56:19.405Z"
+generated_at: "2026-11-23T21:26:40.987Z"
+status: "active"
 ---
 
 # § 47138. Pilot program for purchase of airport development rights
@@ -21,3 +22,21 @@ generated_at: "2026-03-30T02:56:19.405Z"
   - **(2)** requirements for the content of the instrument recording the purchase of the development rights.
 - **(d)** Any development rights purchased under the program shall remain the property of the State or political subdivision unless the Secretary approves the transfer or disposal of the development rights after making a determination that the transfer or disposal of that right is in the public interest.
 - **(e)** The Secretary may not make a grant under the pilot program for the purchase of development rights at more than 10 airports.
+
+In General
+
+Grant Requirements.—
+
+In general
+
+Matching requirement
+
+Grant Standards
+
+Release of Purchased Rights and Covenant
+
+Limitation
+
+## Source Credit
+
+*(Added [Pub. L. 108–176, title I, § 152(a)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2506](https://www.govinfo.gov/link/statute/117/2506).)*

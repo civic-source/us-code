@@ -3,9 +3,10 @@ title: "Section 228i - Havasupai Indian Reservation"
 usc_title: 16
 usc_section: "228i"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 228i"
-generated_at: "2026-03-30T02:54:22.743Z"
+generated_at: "2026-11-23T21:25:51.395Z"
+status: "active"
 ---
 
 # § 228i. Havasupai Indian Reservation
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:22.743Z"
 - **(d)** The Secretary shall permit any person presently exercising grazing privileges pursuant to Federal permit or lease in that part of the Kaibab National Forest designated as the “Raintank Allotment”, and which is included in the Havasupai Reservation by this section, to continue in the exercise thereof, but no permit or renewal shall be extended beyond the period ending ten years from January 3, 1975 , at which time all rights of use and occupancy of the lands will be transferred to the tribe subject to the same terms and conditions as the other lands included in the reservation in paragraph (b) of this section.
 - **(e)** The Secretary, subject to such reasonable regulations as he may prescribe to protect the scenic, natural, and wildlife values thereof, shall permit the tribe to use lands within the Grand Canyon National Park which are designated as “Havasupai Use Lands” on the Grand Canyon National Park boundary map described in section 228b of this title , and consisting of approximately ninety-five thousand three hundred acres of land, for grazing and other traditional purposes.
 - **(f)** By the enactment of sections 228a to 228j of this title, the Congress recognizes and declares that all right, title, and interest in any lands not otherwise declared to be held in trust for the Havasupai Tribe or otherwise covered by sections 228a to 228j of this title is extinguished.
+
+## Source Credit
+
+*([Pub. L. 93–620, § 10](https://www.govinfo.gov/link/plaw/93/public/620), Jan. 3, 1975, [88 Stat. 2091](https://www.govinfo.gov/link/statute/88/2091); [Pub. L. 103–437, § 6(a)(2)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4583](https://www.govinfo.gov/link/statute/108/4583).)*

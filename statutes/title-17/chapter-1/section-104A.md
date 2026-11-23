@@ -3,9 +3,10 @@ title: "Section 104A - Copyright in restored works"
 usc_title: 17
 usc_section: "104A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 104A"
-generated_at: "2026-03-30T02:54:15.344Z"
+generated_at: "2026-11-23T21:25:41.684Z"
+status: "active"
 ---
 
 # § 104A. Copyright in restored works
@@ -102,3 +103,45 @@ generated_at: "2026-03-30T02:54:15.344Z"
     - **(C)** in the case of a published work—
       - **(i)** the eligible country in which the work is first published, or
       - **(ii)** if the restored work is published on the same day in 2 or more eligible countries, the eligible country which has the most significant contacts with the work.
+
+Automatic Protection and Term.—
+
+Term.—
+
+Exception
+
+Ownership of Restored Copyright
+
+Filing of Notice of Intent to Enforce Restored Copyright Against Reliance Parties
+
+Remedies for Infringement of Restored Copyrights.—
+
+Enforcement of copyright in restored works in the absence of a reliance party
+
+Enforcement of copyright in restored works as against reliance parties
+
+Existing derivative works
+
+Commencement of infringement for reliance parties
+
+Notices of Intent To Enforce a Restored Copyright.—
+
+Notices of intent filed with the copyright office
+
+Notices of intent served on a reliance party
+
+Effect of material false statements
+
+Immunity From Warranty and Related Liability.—
+
+In general
+
+Performances
+
+Proclamation of Copyright Restoration
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 103–182, title III, § 334(a)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2115](https://www.govinfo.gov/link/statute/107/2115); amended [Pub. L. 103–465, title V, § 514(a)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4976](https://www.govinfo.gov/link/statute/108/4976); [Pub. L. 104–295, § 20(e)(2)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3529](https://www.govinfo.gov/link/statute/110/3529); [Pub. L. 105–80, § 2](https://www.govinfo.gov/link/plaw/105/public/80), Nov. 13, 1997, [111 Stat. 1530](https://www.govinfo.gov/link/statute/111/1530); [Pub. L. 105–304, title I, § 102(c)](https://www.govinfo.gov/link/plaw/105/public/304), Oct. 28, 1998, [112 Stat. 2862](https://www.govinfo.gov/link/statute/112/2862).)*

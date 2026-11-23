@@ -3,9 +3,10 @@ title: "Section 11331 - Responsibilities for Federal information systems standar
 usc_title: 40
 usc_section: "11331"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 11331"
-generated_at: "2026-03-30T02:55:43.385Z"
+generated_at: "2026-11-23T21:26:14.948Z"
+status: "active"
 ---
 
 # § 11331. Responsibilities for Federal information systems standards
@@ -30,3 +31,104 @@ generated_at: "2026-03-30T02:55:43.385Z"
   - **(1)** The term “Federal information system” means an information system used or operated by an executive agency, by a contractor of an executive agency, or by another organization on behalf of an executive agency.
   - **(2)** The term “information security” has the meaning given that term in section 3552(b)(3) of title 44 .
   - **(3)** The term “national security system” has the meaning given that term in section 3552(b)(6) of title 44 .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 11331 | 40:1441. | Pub. L. 104–106, div. E, title LI, § 5131(a) –(d), Feb. 10, 1996 , 110 Stat. 687 . |
+
+
+Standards and Guidelines.—
+
+Authority to prescribe
+
+National security systems
+
+Mandatory Requirements.—
+
+Authority to make mandatory
+
+Required mandatory standards.—
+
+In general
+
+Requirement
+
+Authority to Disapprove or Modify
+
+Exercise of Authority
+
+Application of More Stringent Standards
+
+Decisions on Promulgation of Standards
+
+Definitions
+
+Federal information system
+
+Information security
+
+National security system
+
+Historical and Revision Notes
+
+11331
+
+Pub. L. 104–106, div. E, title LI, § 5131(a)
+
+Feb. 10, 1996
+
+110 Stat. 687
+
+Standards and Guidelines
+
+Authority to prescribe
+
+National security systems
+
+Mandatory Requirements
+
+Authority to make mandatory
+
+Required mandatory standards
+
+Authority to Disapprove or Modify
+
+Exercise of Authority
+
+Application of More Stringent Standards
+
+Decisions on Promulgation of Standards
+
+Definitions
+
+Federal information system
+
+Information security
+
+National security system
+
+Definitions
+
+Standards and Guidelines.—
+
+Authority to prescribe and disapprove or modify.—
+
+Authority to prescribe
+
+Authority to disapprove or modify
+
+Exercise of authority
+
+Application of More Stringent Standards
+
+Waiver of Standards.—
+
+Authority of the secretary
+
+Delegation of waiver authority
+
+Notice
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1243](https://www.govinfo.gov/link/statute/116/1243); [Pub. L. 107–296, title X, § 1002(a)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2268](https://www.govinfo.gov/link/statute/116/2268); [Pub. L. 107–347, title III, § 302(a)](https://www.govinfo.gov/link/plaw/107/public/347), Dec. 17, 2002, [116 Stat. 2956](https://www.govinfo.gov/link/statute/116/2956); [Pub. L. 117–167, div. B, title II, § 10246(f)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1492](https://www.govinfo.gov/link/statute/136/1492).)*

@@ -3,9 +3,10 @@ title: "Section 610 - State infrastructure bank program"
 usc_title: 23
 usc_section: "610"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 610"
-generated_at: "2026-03-30T02:55:12.575Z"
+generated_at: "2026-11-23T21:25:53.945Z"
+status: "active"
 ---
 
 # § 610. State infrastructure bank program
@@ -76,3 +77,89 @@ generated_at: "2026-03-30T02:55:12.575Z"
 - **(i)** The deposit of Federal funds into an infrastructure bank established under this section shall not be construed as a commitment, guarantee, or obligation on the part of the United States to any third party, nor shall any third party have any right against the United States for payment solely by virtue of the contribution. Any security or debt-financing instrument issued by the infrastructure bank shall expressly state that the security or instrument does not constitute a commitment, guarantee, or obligation of the United States.
 - **(j)** Sections 3335 and 6503 of title 31 shall not apply to funds deposited into an infrastructure bank under this section.
 - **(k)** For each of fiscal years 2022 through 2026, a State may expend not to exceed 2 percent of the Federal funds contributed to an infrastructure bank established by the State under this section to pay the reasonable costs of administering the bank.
+
+Definitions
+
+Capital project
+
+Other forms of credit assistance
+
+State
+
+Capitalization
+
+Cooperative agreement
+
+Loan
+
+Guarantee
+
+Initial assistance
+
+Leverage
+
+Leveraged
+
+Rural infrastructure project
+
+Rural projects fund
+
+Cooperative Agreements
+
+Interstate Compacts.—
+
+In general
+
+Reservation of rights
+
+Funding.—
+
+Highway account
+
+Transit account
+
+Rail account
+
+Rural projects fund
+
+Capital grants.—
+
+Highway account
+
+Transit account
+
+Rail account
+
+Special rule for urbanized areas of over 200,000
+
+Discontinuance of funding
+
+Forms of Assistance From State Infrastructure Banks.—
+
+In general
+
+Subordination of loan
+
+Maximum amount of assistance
+
+Initial assistance
+
+Eligible Projects
+
+Infrastructure Bank Requirements
+
+Applicability of Federal Law.—
+
+In general
+
+Repayments
+
+United States not Obligated
+
+Management of Federal Funds
+
+Program Administration
+
+## Source Credit
+
+*(Added [Pub. L. 109–59, title I, § 1602(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1243](https://www.govinfo.gov/link/statute/119/1243), § 190; renumbered § 610, [Pub. L. 109–59, title I, § 1602(d)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1247](https://www.govinfo.gov/link/statute/119/1247), as amended [Pub. L. 110–244, title I, § 101(f)](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1574](https://www.govinfo.gov/link/statute/122/1574); [Pub. L. 112–141, div. A, title I, § 1519(c)(11)](https://www.govinfo.gov/link/plaw/112/public/141), formerly § 1519(c)(12), July 6, 2012, [126 Stat. 577](https://www.govinfo.gov/link/statute/126/577), renumbered § 1519(c)(11), [Pub. L. 114–94, div. A, title I, § 1446(d)(5)(B)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1438](https://www.govinfo.gov/link/statute/129/1438); [Pub. L. 114–94, div. A, title II, § 2001(i)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1444](https://www.govinfo.gov/link/statute/129/1444); [Pub. L. 117–58, div. A, title II, § 12001(k)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 621](https://www.govinfo.gov/link/statute/135/621).)*

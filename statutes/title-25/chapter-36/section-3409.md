@@ -3,9 +3,10 @@ title: "Section 3409 - Employer training placements"
 usc_title: 25
 usc_section: "3409"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3409"
-generated_at: "2026-03-30T02:54:52.852Z"
+generated_at: "2026-11-23T21:25:54.691Z"
+status: "active"
 ---
 
 # § 3409. Employer training placements
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:52.852Z"
 - **(b)** An Indian tribe may carry out subsection (a) only if the Indian tribe enters into a written agreement with each applicable employer under which the employer shall agree—
   - **(1)** to provide on-the-job training to the participants; and
   - **(2)** on satisfactory completion of the training period described in subsection (a)(2), to prioritize the provision of permanent employment to the participants.
+
+## Source Credit
+
+*([Pub. L. 102–477, § 10](https://www.govinfo.gov/link/plaw/102/public/477), Oct. 23, 1992, [106 Stat. 2304](https://www.govinfo.gov/link/statute/106/2304); [Pub. L. 115–93, § 10](https://www.govinfo.gov/link/plaw/115/public/93), Dec. 18, 2017, [131 Stat. 2032](https://www.govinfo.gov/link/statute/131/2032).)*

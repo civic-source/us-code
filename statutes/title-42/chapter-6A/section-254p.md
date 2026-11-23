@@ -3,9 +3,10 @@ title: "Section 254p - Special loans for former Corps members to enter private p
 usc_title: 42
 usc_section: "254p"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 254p"
-generated_at: "2026-03-30T02:56:10.715Z"
+generated_at: "2026-11-23T21:26:30.359Z"
+status: "active"
 ---
 
 # § 254p. Special loans for former Corps members to enter private practice
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:10.715Z"
 - **(d)** If the Secretary determines that an individual has breached a written agreement entered into under subsection (a), he shall, as soon as practicable after making such determination, notify the individual of such determination. If within 60 days after the date of giving such notice, such individual is not practicing his profession in accordance with the agreement under such subsection and has not provided assurances satisfactory to the Secretary that he will not knowingly violate such agreement again, the United States shall be entitled to recover from such individual—
   - **(1)** in the case of an individual who has received a grant under this section (as in effect prior to October 1, 1984 ), an amount determined under section 254 o (b) of this title, except that in applying the formula contained in such section “ϕ” shall be the sum of the amount of the grant made under subsection (a) to such individual and the interest on such amount which would be payable if at the time it was paid it was a loan bearing interest at the maximum legal prevailing rate, “t” shall be the number of months that such individual agreed to practice his profession under such agreement, and “s” shall be the number of months that such individual practices his profession in accordance with such agreement; and
   - **(2)** in the case of an individual who has received a loan under this section, the full amount of the principal and interest owed by such individual under this section.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 338G, formerly title VII, § 755, as added [Pub. L. 94–484, title IV, § 408(b)(1)](https://www.govinfo.gov/link/plaw/94/public/484), Oct. 12, 1976, [90 Stat. 2287](https://www.govinfo.gov/link/statute/90/2287); renumbered § 338E and amended [Pub. L. 97–35, title XXVII, § 2709(a)](https://www.govinfo.gov/link/plaw/97/public/35), (f), Aug. 13, 1981, [95 Stat. 908](https://www.govinfo.gov/link/statute/95/908), 911; [Pub. L. 97–414, § 8(g)(3)](https://www.govinfo.gov/link/plaw/97/public/414), Jan. 4, 1983, [96 Stat. 2061](https://www.govinfo.gov/link/statute/96/2061); renumbered § 338F and amended [Pub. L. 100–177, title II, § 201(2)](https://www.govinfo.gov/link/plaw/100/public/177), title III, § 309, Dec. 1, 1987, [101 Stat. 992](https://www.govinfo.gov/link/statute/101/992), 1006; renumbered § 338G and amended [Pub. L. 101–597, title II, § 204](https://www.govinfo.gov/link/plaw/101/public/597), title IV, § 401(b)[(a)], Nov. 16, 1990, [104 Stat. 3027](https://www.govinfo.gov/link/statute/104/3027), 3035.)*

@@ -3,9 +3,10 @@ title: "Section 3953 - Louisiana coastal wetlands conservation planning"
 usc_title: 16
 usc_section: "3953"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3953"
-generated_at: "2026-03-30T02:54:23.039Z"
+generated_at: "2026-11-23T21:25:52.007Z"
+status: "active"
 ---
 
 # § 3953. Louisiana coastal wetlands conservation planning
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:54:23.039Z"
 - **(h)**
   - **(1)** Within one hundred and eighty days after entering into the agreement required under subsection (a) of this section, the Secretary, the Director, and the Administrator shall report to the Congress as to the status of a conservation plan approved under this section and the progress of the State in carrying out such a plan, including and 1 1 So in original. Probably should be “an”. accounting, as required under subsection (c) of this section, of the gains and losses of coastal wetlands as a result of development activities.
   - **(2)** Twenty-four months after the initial one hundred and eighty day period set forth in paragraph (1), and at the end of each twenty-four-month period thereafter, the Secretary, the Director, and the Administrator shall, report to the Congress on the status of the conservation plan and provide an evaluation of the effectiveness of the plan in meeting the goal of this section.
+
+## Source Credit
+
+*([Pub. L. 101–646, title III, § 304](https://www.govinfo.gov/link/plaw/101/public/646), Nov. 29, 1990, [104 Stat. 4783](https://www.govinfo.gov/link/statute/104/4783).)*

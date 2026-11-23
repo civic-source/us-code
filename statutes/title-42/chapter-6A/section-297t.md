@@ -3,9 +3,10 @@ title: "Section 297t - National Advisory Council on Nurse Education and Practice
 usc_title: 42
 usc_section: "297t"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 297t"
-generated_at: "2026-03-30T02:56:10.784Z"
+generated_at: "2026-11-23T21:26:30.671Z"
+status: "active"
 ---
 
 # § 297t. National Advisory Council on Nurse Education and Practice
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:10.784Z"
   - **(2)** The members of the Advisory Council shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Council.
 - **(g)** Amounts appropriated for carrying out parts B, C, and D may be utilized by the Secretary to support the nurse education and practice activities of the Council.
 - **(h)** Chapter 10 of title 5 shall apply to the Advisory Committee under this section only to the extent that the provisions of chapter 10 of title 5 do not conflict with the requirements of this section.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VIII, § 851, formerly § 845, as added [Pub. L. 105–392, title I, § 123(5)](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3572](https://www.govinfo.gov/link/statute/112/3572); renumbered § 851, [Pub. L. 111–148, title V, § 5310(b)(8)(A)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 631](https://www.govinfo.gov/link/statute/124/631); amended [Pub. L. 116–136, div. A, title III, § 3404(a)(11)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 394](https://www.govinfo.gov/link/statute/134/394); [Pub. L. 116–260, div. BB, title III, § 331(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2938](https://www.govinfo.gov/link/statute/134/2938); [Pub. L. 117–286, § 4(a)(240)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4332](https://www.govinfo.gov/link/statute/136/4332).)*

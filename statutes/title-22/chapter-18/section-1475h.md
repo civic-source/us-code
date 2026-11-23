@@ -3,9 +3,10 @@ title: "Section 1475h - Overseas public diplomacy grants"
 usc_title: 22
 usc_section: "1475h"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1475h"
-generated_at: "2026-03-30T02:55:05.333Z"
+generated_at: "2026-11-23T21:25:58.402Z"
+status: "active"
 ---
 
 # § 1475h. Overseas public diplomacy grants
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.333Z"
   - **(1)** After October 1, 1991 , overseas public diplomacy grants awarded by the Department of State shall substantially comply with Department of State grant guidelines and applicable circulars of the Office of Management and Budget.
   - **(2)** If the Agency 1 1 So in original. Probably should be “Department”. determines that a grantee has not satisfied the requirement of paragraph (1), the Department of State shall notify the grantee of the suspension of payments under a grant unless compliance is achieved within 90 days of such notice.
   - **(3)** The Agency 1 shall suspend payments under any such grant which remains in noncompliance 90 days after notification under paragraph (2).
+
+## Source Credit
+
+*([Pub. L. 102–138, title II, § 212](https://www.govinfo.gov/link/plaw/102/public/138), Oct. 28, 1991, [105 Stat. 695](https://www.govinfo.gov/link/statute/105/695); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XIII, § 1335(b), Oct. 21, 1998, [112 Stat. 2681–787](https://www.govinfo.gov/link/statute/112/2681).)*

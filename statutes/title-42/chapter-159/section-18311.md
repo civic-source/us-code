@@ -3,9 +3,10 @@ title: "Section 18311 - United States human space flight policy"
 usc_title: 42
 usc_section: "18311"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18311"
-generated_at: "2026-03-30T02:56:11.518Z"
+generated_at: "2026-11-23T21:26:33.818Z"
+status: "active"
 ---
 
 # § 18311. United States human space flight policy
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.518Z"
     - **(C)** The term “United States commercial provider” means a commercial provider, organized under the laws of the United States or of a State, that is more than 50 percent owned by United States nationals.
   - **(3)** Nothing in this subsection shall prevent the Administrator from negotiating or entering into human space flight transportation arrangements with foreign entities to ensure safety of flight and continued ISS operations.
 - **(b)** Congress reaffirms the policy stated in section 70501(a) of title 51 , that the United States shall maintain an uninterrupted capability for human space flight and operations in low-Earth orbit, and beyond, as an essential instrument of national security and of the capacity to ensure continued United States participation and leadership in the exploration and utilization of space.
+
+## Source Credit
+
+*([Pub. L. 111–267, title II, § 201](https://www.govinfo.gov/link/plaw/111/public/267), Oct. 11, 2010, [124 Stat. 2811](https://www.govinfo.gov/link/statute/124/2811); [Pub. L. 115–10, title III, § 302(d)](https://www.govinfo.gov/link/plaw/115/public/10), Mar. 21, 2017, [131 Stat. 25](https://www.govinfo.gov/link/statute/131/25).)*

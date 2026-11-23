@@ -3,9 +3,10 @@ title: "Section 3372 - Prohibited acts"
 usc_title: 16
 usc_section: "3372"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3372"
-generated_at: "2026-03-30T02:54:23.015Z"
+generated_at: "2026-11-23T21:25:51.969Z"
+status: "active"
 ---
 
 # § 3372. Prohibited acts
@@ -92,3 +93,13 @@ generated_at: "2026-03-30T02:54:23.015Z"
     - **(A)** to limit the applicability of any requirement imposed by paragraph (2) to specific plant products;
     - **(B)** to make any other necessary modification to any requirement imposed by paragraph (2), as determined by the Secretary based on the review; and
     - **(C)** to limit the scope of the exclusion provided by paragraph (3), if the limitations in scope are warranted as a result of the review.
+
+(aa) reflects established conservation science principles;
+
+(bb) incorporates genetic and demographic analysis of a multi-institution population of animals covered by the plan; and
+
+(cc) promotes animal welfare by ensuring that the frequency of breeding is appropriate for the species; and
+
+## Source Credit
+
+*([Pub. L. 97–79, § 3](https://www.govinfo.gov/link/plaw/97/public/79), Nov. 16, 1981, [95 Stat. 1074](https://www.govinfo.gov/link/statute/95/1074); [Pub. L. 100–653, title I, § 101](https://www.govinfo.gov/link/plaw/100/public/653), Nov. 14, 1988, [102 Stat. 3825](https://www.govinfo.gov/link/statute/102/3825); [Pub. L. 108–191, § 3(a)](https://www.govinfo.gov/link/plaw/108/public/191), Dec. 19, 2003, [117 Stat. 2871](https://www.govinfo.gov/link/statute/117/2871); [Pub. L. 110–234, title VIII, § 8204(b)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1292](https://www.govinfo.gov/link/statute/122/1292); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VIII, § 8204(b), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2053; [Pub. L. 117–243, § 3](https://www.govinfo.gov/link/plaw/117/public/243), Dec. 20, 2022, [136 Stat. 2336](https://www.govinfo.gov/link/statute/136/2336).)*

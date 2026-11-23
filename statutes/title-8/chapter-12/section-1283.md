@@ -3,12 +3,17 @@ title: "Section 1283 - Hospital treatment of alien crewmen afflicted with certai
 usc_title: 8
 usc_section: "1283"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1283"
-generated_at: "2026-03-30T02:53:10.492Z"
+generated_at: "2026-11-23T21:25:25.169Z"
+status: "active"
 ---
 
 # § 1283. Hospital treatment of alien crewmen afflicted with certain diseases
 
 An alien crewman, including an alien crewman ineligible for a conditional permit to land under section 1282(a) of this title , who is found on arrival in a port of the United States to be afflicted with any of the disabilities or diseases mentioned in section 1285 of this title , shall be placed in a hospital designated by the immigration officer in charge at the port of arrival and treated, all expenses connected therewith, including burial in the event of death, to be borne by the owner, agent, consignee, commanding officer, or master of the vessel or aircraft, and not to be deducted from the crewman’s wages. No such vessel or aircraft shall be granted clearance until such expenses are paid, or their payment appropriately guaranteed, and the collector of customs is so notified by the immigration officer in charge. An alien crewman suspected of being afflicted with any such disability or disease may be removed from the vessel or aircraft on which he arrived to an immigration station, or other appropriate place, for such observation as will enable the examining surgeons to determine definitely whether or not he is so afflicted, all expenses connected therewith to be borne in the manner hereinbefore prescribed. In cases in which it appears to the satisfaction of the immigration officer in charge that it will not be possible within a reasonable time to effect a cure, the return of the alien crewman shall be enforced on, or at the expense of, the transportation line on which he came, upon such conditions as the Attorney General shall prescribe, to insure that the alien shall be properly cared for and protected, and that the spread of contagion shall be guarded against.
 
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 6, § 253, [66 Stat. 221](https://www.govinfo.gov/link/statute/66/221).)*

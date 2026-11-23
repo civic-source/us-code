@@ -3,9 +3,10 @@ title: "Section 3010 - Co-owned property"
 usc_title: 28
 usc_section: "3010"
 chapter: 176
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 3010"
-generated_at: "2026-03-30T02:55:30.152Z"
+generated_at: "2026-11-23T21:26:01.141Z"
+status: "active"
 ---
 
 # § 3010. Co-owned property
@@ -14,3 +15,11 @@ generated_at: "2026-03-30T02:55:30.152Z"
 - **(b)** For purposes of subsection (a)—
   - **(1)** the term “retirement system for Federal military or civilian personnel” means a pension or annuity system for Federal military or civilian personnel of more than one agency, or for some or all of such personnel of a single agency, established by statute or by regulation pursuant to statutory authority; and
   - **(2)** the term “qualified retirement arrangement” means a plan qualified under section 401(a), 403(a), or 409 of the Internal Revenue Code of 1986 or a plan that is subject to the requirements of section 205 of the Employee Retirement Income Security Act of 1974.
+
+Limitation
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 101–647, title XXXVI, § 3611](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4937](https://www.govinfo.gov/link/statute/104/4937).)*

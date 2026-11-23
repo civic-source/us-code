@@ -3,9 +3,10 @@ title: "Section 3122 - Local workforce development boards"
 usc_title: 29
 usc_section: "3122"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3122"
-generated_at: "2026-03-30T02:55:18.750Z"
+generated_at: "2026-11-23T21:26:02.326Z"
+status: "active"
 ---
 
 # § 3122. Local workforce development boards
@@ -158,3 +159,7 @@ generated_at: "2026-03-30T02:55:18.750Z"
         - **(I)** representatives of labor organizations (for a local area in which employees are represented by labor organizations), nominated by local labor federations; or
         - **(II)** other representatives of employees in the local area (for a local area in which no employees are represented by such organizations).
   - **(2)** A reference in this Act or a core program provision to a local board, shall include a reference to such an entity.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 107](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1456](https://www.govinfo.gov/link/statute/128/1456); [Pub. L. 114–18, § 2(b)](https://www.govinfo.gov/link/plaw/114/public/18), May 22, 2015, [129 Stat. 213](https://www.govinfo.gov/link/statute/129/213).)*

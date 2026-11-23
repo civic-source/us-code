@@ -3,9 +3,10 @@ title: "Section 202a - Consolidation of coal leases into logical mining unit"
 usc_title: 30
 usc_section: "202a"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 202a"
-generated_at: "2026-03-30T02:55:29.380Z"
+generated_at: "2026-11-23T21:26:00.373Z"
+status: "active"
 ---
 
 # § 202a. Consolidation of coal leases into logical mining unit
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:29.380Z"
   - **(6)** By regulation the Secretary may require a lessee under this chapter to form a logical mining unit, and may provide for determination of participating acreage within a unit.
   - **(7)** No logical mining unit shall be approved by the Secretary if the total acreage (both Federal and non-Federal) of the unit would exceed twenty-five thousand acres.
   - **(8)** Nothing in this section shall be construed to waive the acreage limitations for coal leases contained in section 184(a) of this title .
+
+## Source Credit
+
+*(Feb. 25, 1920, ch. 85, § 2(d), as added [Pub. L. 94–377, § 5(b)](https://www.govinfo.gov/link/plaw/94/public/377), Aug. 4, 1976, [90 Stat. 1086](https://www.govinfo.gov/link/statute/90/1086); amended [Pub. L. 109–58, title IV, § 433](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 761](https://www.govinfo.gov/link/statute/119/761).)*

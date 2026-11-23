@@ -3,9 +3,10 @@ title: "Section 3025 - Designation of State agencies"
 usc_title: 42
 usc_section: "3025"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3025"
-generated_at: "2026-03-30T02:56:11.173Z"
+generated_at: "2026-11-23T21:26:32.483Z"
+status: "active"
 ---
 
 # § 3025. Designation of State agencies
@@ -76,3 +77,7 @@ generated_at: "2026-03-30T02:56:11.173Z"
   - **(2)** a numerical statement of the actual funding formula to be used,
   - **(3)** a listing of the population, economic, and social data to be used for each planning and service area in the State, and
   - **(4)** a demonstration of the allocation of funds, pursuant to the funding formula, to each planning and service area in the State.
+
+## Source Credit
+
+*([Pub. L. 89–73, title III, § 305](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 95–478, title I, § 103(b)](https://www.govinfo.gov/link/plaw/95/public/478), Oct. 18, 1978, [92 Stat. 1520](https://www.govinfo.gov/link/statute/92/1520); amended [Pub. L. 97–115](https://www.govinfo.gov/link/plaw/97/public/115), §§ 3(d), 5, Dec. 29, 1981, [95 Stat. 1597](https://www.govinfo.gov/link/statute/95/1597); [Pub. L. 98–459, title III, § 305](https://www.govinfo.gov/link/plaw/98/public/459), Oct. 9, 1984, [98 Stat. 1773](https://www.govinfo.gov/link/statute/98/1773); [Pub. L. 100–175, title I](https://www.govinfo.gov/link/plaw/100/public/175), §§ 124, 132(a), 134(a)(1), 182(e)(2), (g), (h), Nov. 29, 1987, [101 Stat. 933](https://www.govinfo.gov/link/statute/101/933), 939, 940, 965; [Pub. L. 100–628, title VII, § 705(4)](https://www.govinfo.gov/link/plaw/100/public/628), Nov. 7, 1988, [102 Stat. 3247](https://www.govinfo.gov/link/statute/102/3247); [Pub. L. 102–375, title I, § 102(b)(9)(B)](https://www.govinfo.gov/link/plaw/102/public/375), (10)(B)–(D), title III, § 305, title IX, § 904(a)(11), Sept. 30, 1992, [106 Stat. 1201](https://www.govinfo.gov/link/statute/106/1201), 1202, 1222, 1306; [Pub. L. 103–171](https://www.govinfo.gov/link/plaw/103/public/171), §§ 2(8), 3(a)(13), Dec. 2, 1993, [107 Stat. 1988](https://www.govinfo.gov/link/statute/107/1988), 1990; [Pub. L. 106–501, title III, § 304](https://www.govinfo.gov/link/plaw/106/public/501), title VIII, § 801(c)(3), Nov. 13, 2000, [114 Stat. 2239](https://www.govinfo.gov/link/statute/114/2239), 2292; [Pub. L. 109–365, title III, § 305](https://www.govinfo.gov/link/plaw/109/public/365), Oct. 17, 2006, [120 Stat. 2539](https://www.govinfo.gov/link/statute/120/2539); [Pub. L. 114–144, § 4(c)](https://www.govinfo.gov/link/plaw/114/public/144), Apr. 19, 2016, [130 Stat. 338](https://www.govinfo.gov/link/statute/130/338).)*

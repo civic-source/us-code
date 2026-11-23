@@ -3,9 +3,10 @@ title: "Section 689d - Debentures"
 usc_title: 15
 usc_section: "689d"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 689d"
-generated_at: "2026-03-30T02:54:08.111Z"
+generated_at: "2026-11-23T21:25:39.719Z"
+status: "active"
 ---
 
 # § 689d. Debentures
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:08.111Z"
   - **(2)** Except to the extent approved by the Administrator, a covered New Markets Venture Capital company may not acquire or issue commitments for securities under this subchapter for any single enterprise in an aggregate amount equal to more than 10 percent of the sum of—
     - **(A)** the regulatory capital of the covered New Markets Venture Capital company; and
     - **(B)** the total amount of leverage projected in the participation agreement of the covered New Markets Venture Capital.
+
+## Source Credit
+
+*([Pub. L. 85–699, title III, § 355](https://www.govinfo.gov/link/plaw/85/public/699), as added [Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–658; amended [Pub. L. 111–240, title I, § 1115](https://www.govinfo.gov/link/plaw/111/public/240), Sept. 27, 2010, [124 Stat. 2508](https://www.govinfo.gov/link/statute/124/2508).)*

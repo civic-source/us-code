@@ -3,9 +3,10 @@ title: "Section 116 - Negotiated licenses for public performances by means of co
 usc_title: 17
 usc_section: "116"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 116"
-generated_at: "2026-03-30T02:54:15.348Z"
+generated_at: "2026-11-23T21:25:41.702Z"
+status: "active"
 ---
 
 # § 116. Negotiated licenses for public performances by means of coin-operated phonorecord players
@@ -25,3 +26,21 @@ generated_at: "2026-03-30T02:54:15.348Z"
     - **(A)** owns a coin-operated phonorecord player;
     - **(B)** has the power to make a coin-operated phonorecord player available for placement in an establishment for purposes of public performance; or
     - **(C)** has the power to exercise primary control over the selection of the musical works made available for public performance on a coin-operated phonorecord player.
+
+Applicability of Section
+
+Negotiated Licenses.—
+
+Authority for negotiations
+
+Chapter 8 proceeding
+
+License Agreements Superior to Determinations by Copyright Royalty Judges
+
+Definitions
+
+Arbitration
+
+## Source Credit
+
+*(Added [Pub. L. 100–568, § 4(a)(4)](https://www.govinfo.gov/link/plaw/100/public/568), Oct. 31, 1988, [102 Stat. 2855](https://www.govinfo.gov/link/statute/102/2855), § 116A; renumbered § 116 and amended [Pub. L. 103–198, § 3(b)(1)](https://www.govinfo.gov/link/plaw/103/public/198), Dec. 17, 1993, [107 Stat. 2309](https://www.govinfo.gov/link/statute/107/2309); [Pub. L. 105–80, § 5](https://www.govinfo.gov/link/plaw/105/public/80), Nov. 13, 1997, [111 Stat. 1531](https://www.govinfo.gov/link/statute/111/1531); [Pub. L. 108–419, § 5(e)](https://www.govinfo.gov/link/plaw/108/public/419), Nov. 30, 2004, [118 Stat. 2365](https://www.govinfo.gov/link/statute/118/2365).)*

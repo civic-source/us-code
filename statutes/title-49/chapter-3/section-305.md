@@ -3,9 +3,10 @@ title: "Section 305 - Transportation investment standards and criteria"
 usc_title: 49
 usc_section: "305"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 305"
-generated_at: "2026-03-30T02:56:19.298Z"
+generated_at: "2026-11-23T21:26:40.588Z"
+status: "active"
 ---
 
 # § 305. Transportation investment standards and criteria
@@ -27,3 +28,25 @@ generated_at: "2026-03-30T02:56:19.298Z"
     - **(A)** with the Secretary and include the views and comments of the Secretary; and
     - **(B)** as appropriate, with other departments, agencies, and instrumentalities of the Government, States, and local governments, and include their views and comments; and
   - **(3)** send the survey, plan, or report to the President for disposition under law and procedure established by the President.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 305(a) | 49:1656(a) (less next-to-last par.). | Oct. 15, 1966 , Pub. L. 89–670, § 7 (less (a) next-to-last par.), 80 Stat. 941 . |
+| 305(b) | 49:1656 (less (a)). |  |
+
+
+Historical and Revision Notes
+
+305(a)
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 7
+
+80 Stat. 941
+
+305(b)
+
+## Source Credit
+
+*([Pub. L. 97–449, § 1(b)](https://www.govinfo.gov/link/plaw/97/public/449), Jan. 12, 1983, [96 Stat. 2420](https://www.govinfo.gov/link/statute/96/2420).)*

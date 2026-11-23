@@ -3,12 +3,17 @@ title: "Section 1009 - Personnel not to receive fees"
 usc_title: 39
 usc_section: "1009"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 1009"
-generated_at: "2026-03-30T02:55:43.690Z"
+generated_at: "2026-11-23T21:26:12.773Z"
+status: "active"
 ---
 
 # § 1009. Personnel not to receive fees
 
 An officer or employee of the Postal Service may not receive any fee or perquisite from a patron of the Postal Service on account of the duties performed by virtue of his appointment, except as authorized by law.
 
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 733](https://www.govinfo.gov/link/statute/84/733).)*

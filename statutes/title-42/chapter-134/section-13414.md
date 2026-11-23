@@ -3,9 +3,10 @@ title: "Section 13414 - Natural gas end-use technologies"
 usc_title: 42
 usc_section: "13414"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13414"
-generated_at: "2026-03-30T02:56:11.444Z"
+generated_at: "2026-11-23T21:26:33.604Z"
+status: "active"
 ---
 
 # § 13414. Natural gas end-use technologies
@@ -14,3 +15,7 @@ The Secretary shall carry out a 5-year program, in accordance with sections 1354
 
   - **(1)** stationary source emissions control and efficiency improvements including combustion systems, industrial processes, cogeneration, and waste fuels; and
   - **(2)** natural gas storage including increased deliverability from existing gas storage facilities and new capabilities for storage near demand centers, and on-site storage at major energy consuming facilities.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XX, § 2014](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3060](https://www.govinfo.gov/link/statute/106/3060).)*

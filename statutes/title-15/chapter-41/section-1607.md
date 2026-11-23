@@ -3,9 +3,10 @@ title: "Section 1607 - Administrative enforcement"
 usc_title: 15
 usc_section: "1607"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1607"
-generated_at: "2026-03-30T02:54:08.138Z"
+generated_at: "2026-11-23T21:25:39.837Z"
+status: "active"
 ---
 
 # § 1607. Administrative enforcement
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:54:08.138Z"
   - **(5)** Except as otherwise specifically provided in this subsection and notwithstanding any provision of law referred to in subsection (a) or (c), no agency referred to in subsection (a) or (c) may require a creditor to make dollar adjustments for errors in any requirements under this subchapter, except with regard to the requirements of section 1666d of this title .
   - **(6)** A creditor shall not be subject to an order to make an adjustment, if within sixty days after discovering a disclosure error, whether pursuant to a final written examination report or through the creditor’s own procedures, the creditor notifies the person concerned of the error and adjusts the account so as to assure that such person will not be required to pay a finance charge in excess of the finance charge actually disclosed or the dollar equivalent of the annual percentage rate actually disclosed, whichever is lower.
   - **(7)** Notwithstanding the second sentence of subsection (e)(1), subsection (e)(3)(C)(i), and subsection (e)(3)(C)(ii), each agency referred to in subsection (a) or (c) shall require an adjustment for an annual percentage rate disclosure error that exceeds a tolerance of one quarter of one percent less than the actual rate, determined without regard to section 1606(c) of this title , with respect to any transaction consummated between January 1, 1977 , and March 31, 1980 .
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 108](https://www.govinfo.gov/link/plaw/90/public/321), May 29, 1968, [82 Stat. 150](https://www.govinfo.gov/link/statute/82/150); [Pub. L. 91–206, § 3](https://www.govinfo.gov/link/plaw/91/public/206), Mar. 10, 1970, [84 Stat. 49](https://www.govinfo.gov/link/statute/84/49); [Pub. L. 93–495, title IV, § 403](https://www.govinfo.gov/link/plaw/93/public/495), Oct. 28, 1974, [88 Stat. 1517](https://www.govinfo.gov/link/statute/88/1517); [Pub. L. 95–630, title V, § 501](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3680](https://www.govinfo.gov/link/statute/92/3680); [Pub. L. 96–221, title VI, § 608(a)](https://www.govinfo.gov/link/plaw/96/public/221), (c), Mar. 21, 1980, [94 Stat. 171](https://www.govinfo.gov/link/statute/94/171), 173; [Pub. L. 98–443, § 9(n)](https://www.govinfo.gov/link/plaw/98/public/443), Oct. 4, 1984, [98 Stat. 1708](https://www.govinfo.gov/link/statute/98/1708); [Pub. L. 101–73, title VII, § 744(k)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 439](https://www.govinfo.gov/link/statute/103/439); [Pub. L. 102–242, title II, § 212(b)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2299](https://www.govinfo.gov/link/statute/105/2299); [Pub. L. 102–550, title XVI, § 1604(a)(5)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4082](https://www.govinfo.gov/link/statute/106/4082); [Pub. L. 104–208, div. A, title II, § 2106](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–402](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 111–203, title X, § 1100A(2)](https://www.govinfo.gov/link/plaw/111/public/203), (8), title XIV, § 1414(b), July 21, 2010, [124 Stat. 2107](https://www.govinfo.gov/link/statute/124/2107), 2108, 2152.)*

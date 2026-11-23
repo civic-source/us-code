@@ -3,9 +3,10 @@ title: "Section 20102 - Individual ready guardians: designation; mobilization ca
 usc_title: 10
 usc_section: "20102"
 chapter: 2003
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 20102"
-generated_at: "2026-03-30T02:53:38.280Z"
+generated_at: "2026-11-23T21:25:33.082Z"
+status: "active"
 ---
 
 # § 20102. Individual ready guardians: designation; mobilization category
@@ -19,3 +20,21 @@ generated_at: "2026-03-30T02:53:38.280Z"
   - **(3)** A member of the Space Force in a space force active status may not remain designated an Individual Ready Guardian in such mobilization category after the end of the 24-month period beginning on the date of the separation of the member from active service.
   - **(4)** The Secretary of the Air Force shall designate the grades and military skills or specialties of members to be eligible for placement in such mobilization category.
   - **(5)** A member in such mobilization category shall be eligible for benefits (other than pay and training) on the same basis as are available to members of the Individual Ready Reserve who are in the special mobilization category under section 10144(b) of this title , as determined by the Secretary of Defense.
+
+In General
+
+Mobilization Category.—
+
+In general
+
+Limitations on placement in mobilization category
+
+Limitation on time in mobilization category
+
+Designation of grades and military skills or specialties
+
+Benefits
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVII, § 1715](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 627](https://www.govinfo.gov/link/statute/137/627).)*

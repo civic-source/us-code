@@ -3,12 +3,21 @@ title: "Section 1449 - State court record supplied"
 usc_title: 28
 usc_section: "1449"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1449"
-generated_at: "2026-03-30T02:55:30.140Z"
+generated_at: "2026-11-23T21:26:01.090Z"
+status: "active"
 ---
 
 # § 1449. State court record supplied
 
 Where a party is entitled to copies of the rec­ords and proceedings in any suit or prosecution in a State court, to be used in any district court of the United States, and the clerk of such State court, upon demand, and the payment or tender of the legal fees, fails to deliver certified copies, the district court may, on affidavit reciting such facts, direct such record to be supplied by affidavit or otherwise. Thereupon such proceedings, trial, and judgment may be had in such district court, and all such process awarded, as if certified copies had been filed in the district court.
 
+
+Act
+
+Act
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 940](https://www.govinfo.gov/link/statute/62/940); May 24, 1949, ch. 139, § 85, [63 Stat. 102](https://www.govinfo.gov/link/statute/63/102).)*

@@ -3,9 +3,10 @@ title: "Section 1793 - Grants for expansion of school breakfast programs"
 usc_title: 42
 usc_section: "1793"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1793"
-generated_at: "2026-03-30T02:56:11.122Z"
+generated_at: "2026-11-23T21:26:32.193Z"
+status: "active"
 ---
 
 # § 1793. Grants for expansion of school breakfast programs
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:56:11.122Z"
   - **(1)** evaluate whether electing to provide universal free breakfasts under the school breakfast program in accordance with Provision 2 as established under subsections (b) through (k) of section 245.9 of title 7, Code of Federal Regulations (or successor regulations), would be cost-effective for the qualified schools based on estimated administrative savings and economies of scale; and
   - **(2)** submit the results of the evaluation to the State educational agency.
 - **(j)** There are authorized to be appropriated to carry out this section such sums as are necessary for each of fiscal years 2010 through 2015.
+
+## Source Credit
+
+*([Pub. L. 89–642, § 23](https://www.govinfo.gov/link/plaw/89/public/642), as added [Pub. L. 111–296, title I, § 105](https://www.govinfo.gov/link/plaw/111/public/296), Dec. 13, 2010, [124 Stat. 3201](https://www.govinfo.gov/link/statute/124/3201).)*

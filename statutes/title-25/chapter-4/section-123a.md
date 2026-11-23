@@ -3,12 +3,17 @@ title: "Section 123a - Tribal funds; use to purchase insurance for protection of
 usc_title: 25
 usc_section: "123a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 123a"
-generated_at: "2026-03-30T02:54:52.798Z"
+generated_at: "2026-11-23T21:25:54.537Z"
+status: "active"
 ---
 
 # § 123a. Tribal funds; use to purchase insurance for protection of tribal property
 
 On and after April 13, 1926 , the funds of any tribe of Indians under the control of the United States may be used for payments of insurance premiums for protection of the property of the tribe against fire, theft, tornado, hail, earthquake, or other elements and forces of nature, and for protection against liability on account of injuries or damages to persons or property and other like claims.
 
+
+## Source Credit
+
+*(Apr. 13, 1926, ch. 118, [44 Stat. 242](https://www.govinfo.gov/link/statute/44/242); Aug. 2, 1946, ch. 754, [60 Stat. 852](https://www.govinfo.gov/link/statute/60/852).)*

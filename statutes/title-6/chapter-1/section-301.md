@@ -3,9 +3,10 @@ title: "Section 301 - Fee agreements for certain services at ports of entry"
 usc_title: 6
 usc_section: "301"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 301"
-generated_at: "2026-03-30T02:53:09.456Z"
+generated_at: "2026-11-23T21:25:25.775Z"
+status: "active"
 ---
 
 # § 301. Fee agreements for certain services at ports of entry
@@ -65,3 +66,7 @@ generated_at: "2026-03-30T02:53:09.456Z"
     - **(H)** the Committee on Ways and Means of the House of Representatives; and
   - **(2)** not later than 15 days before entering into a fee agreement, notify the members of Congress that represent the State or Congressional District in which the affected port of entry or facility is located of such agreement.
 - **(l)** Nothing in this section may be construed as imposing on U.S. Customs and Border Protection any responsibilities, duties, or authorities relating to real property.
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 481](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 114–279, § 2(a)](https://www.govinfo.gov/link/plaw/114/public/279), Dec. 16, 2016, [130 Stat. 1413](https://www.govinfo.gov/link/statute/130/1413).)*

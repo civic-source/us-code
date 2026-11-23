@@ -3,9 +3,10 @@ title: "Section 603 - Grants to States"
 usc_title: 42
 usc_section: "603"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 603"
-generated_at: "2026-03-30T02:56:10.870Z"
+generated_at: "2026-11-23T21:26:31.068Z"
+status: "active"
 ---
 
 # § 603. Grants to States
@@ -277,3 +278,129 @@ generated_at: "2026-03-30T02:56:10.870Z"
     - **(B)** The term “non-recurrent short term benefits” has the meaning given the term in OMB approved Form ACF–196R, published on July 31, 2014 .
     - **(C)** The term “State” means the 50 States of the United States, the District of Columbia, and the territories.
     - **(D)** The term “territory” means the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+
+(aa) how the programs or activities proposed in the application will address, as appropriate, issues of domestic violence; and
+
+(bb) what the applicant will do, to the extent relevant, to ensure that participation in the programs or activities is voluntary, and to inform potential participants that their participation is voluntary; and
+
+(aa) to not use the funds for any other purpose; and
+
+(bb) to consult with experts in domestic violence or relevant community domestic violence coalitions in developing the programs and activities.
+
+(aa) the total amount required to be paid to the State under former section 603 of this title (as in effect during fiscal year 1994) for fiscal year 1994; and
+
+(bb) the amount (if any) required to be paid to the State under this paragraph for the fiscal year preceding the fiscal year for which the grant is to be made.
+
+(aa) the total amount required to be paid to the State under former section 603 of this title (as in effect during fiscal year 1994) for fiscal year 1994; and
+
+(bb) the amount (if any) paid to the State under this paragraph for the immediately preceding fiscal year; divided by
+
+(aa) describes how, consistent with this subparagraph, the State will use any funds provided under this subparagraph during the fiscal year;
+
+(bb) specifies the formula to be used pursuant to clause (vi) to distribute funds in the State, and describes the process by which the formula was developed;
+
+(cc) contains evidence that the plan was developed in consultation and coordination with appropriate entitites 2 2 So in original. Probably should be “entities”. in sub-State areas;
+
+(dd) contains assurances by the Governor of the State that the private industry council (and any alternate agency designated by the Governor under item (ee)) for a service delivery area in the State will coordinate the expenditure of any funds provided under this subparagraph for the benefit of the service delivery area with the expenditure of the funds provided to the State under paragraph (1);
+
+(ee) if the Governor of the State desires to have an agency other than a private industry council administer the funds provided under this subparagraph for the benefit of 1 or more service delivery areas in the State, contains an application to the Secretary of Labor for a waiver of clause (vii)(I) with respect to the area or areas in order to permit an alternate agency designated by the Governor to so administer the funds; and
+
+(ff) describes how the State will ensure that a private industry council to which information is disclosed pursuant to section 603(a)(5)(K) 3 3 See References in Text note below. or 654A(f)(5) of this title has procedures for safeguarding the information and for ensuring that the information is used solely for the purpose described in that section.
+
+(aa) the amount specified in subparagraph (H) for the fiscal year, minus the total of the amounts reserved pursuant to subparagraphs (E), (F), and (G) for the fiscal year; and
+
+(bb) any amount reserved pursuant to subparagraph (E) for the immediately preceding fiscal year that has not been obligated; and
+
+(aa) determines the amount to be allocated for the benefit of a service delivery area in proportion to the number (if any) by which the population of the area with an income that is less than the poverty line exceeds 7.5 percent of the total population of the area, relative to such number for all such areas in the State with such an excess, and accords a weight of not less than 50 percent to this factor;
+
+(bb) may determine the amount to be allocated for the benefit of such an area in proportion to the number of adults residing in the area who have been recipients of assistance under the State program funded under this part (whether in effect before or after the amendments made by section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 first applied to the State) for at least 30 months (whether or not consecutive) relative to the number of such adults residing in the State; and
+
+(cc) may determine the amount to be allocated for the benefit of such an area in proportion to the number of unemployed individuals residing in the area relative to the number of such individuals residing in the State.
+
+(aa) In general If the amount allocated by the formula to a service delivery area is at least $100,000, the State shall distribute the amount to the entity administering the grant in the area.
+
+(bb) Special rule If the amount allocated by the formula to a service delivery area is less than $100,000, the sum shall be available for distribution in the State under subclause (III) during the fiscal year.
+
+(aa) the private industry council (or such alternate agency) shall remit the funds to the Governor; and
+
+(bb) the Governor shall apply to the Secretary of Labor for a waiver of subclause (I) of this clause with respect to the service delivery area or areas involved in order to permit an alternate agency designated by the Governor to administer the funds in accordance with the assurances.
+
+(aa) expanding the base of knowledge about programs aimed at moving recipients of assistance under State programs funded under this part who are least job ready into unsubsidized employment. 4 4 So in original. The period probably should be a semicolon.
+
+(bb) moving recipients of assistance under State programs funded under this part who are least job ready into unsubsidized employment; and
+
+(cc) moving recipients of assistance under State programs funded under this part who are least job ready into unsubsidized employment, even in labor markets that have a shortage of low-skill jobs.
+
+(aa) The history of success of the applicant in moving individuals with multiple barriers into work.
+
+(bb) Evidence of the applicant’s ability to leverage private, State, and local resources.
+
+(cc) Use by the applicant of State and local resources beyond those required by subparagraph (A).
+
+(dd) Plans of the applicant to coordinate with other organizations at the local and State level.
+
+(ee) Use by the applicant of current or former recipients of assistance under a State program funded under this part as mentors, case managers, or service providers.
+
+(aa) the amount specified in subparagraph (H) for the fiscal year, minus the total of the amounts reserved pursuant to subparagraphs (E), (F), and (G) for the fiscal year; and
+
+(bb) any amount reserved pursuant to subparagraph (E) for the immediately preceding fiscal year that has not been obligated; and
+
+(aa) The minor child or the custodial parent of the minor child meets the requirements of subclause (I) or (II) of clause (ii).
+
+(bb) The minor child is eligible for, or is receiving, benefits under the program funded under this part.
+
+(cc) The minor child received benefits under the program funded under this part in the 12-month period preceding the date of the determination but no longer receives such benefits.
+
+(dd) The minor child is eligible for, or is receiving, assistance under the Food and Nutrition Act of 2008 [ 7 U.S.C. 2011 et seq.], benefits under the supplemental security income program under subchapter XVI of this chapter, medical assistance under subchapter XIX of this chapter, or child health assistance under subchapter XXI of this chapter.
+
+(aa) A commitment by the noncustodial parent to cooperate, at the earliest opportunity, in the establishment of the paternity of the minor child, through voluntary acknowledgement or other procedures, and in the establishment of a child support order.
+
+(bb) A commitment by the noncustodial parent to cooperate in the payment of child support for the minor child, which may include a modification of an existing support order to take into account the ability of the noncustodial parent to pay such support and the participation of such parent in the project.
+
+(cc) A commitment by the noncustodial parent to participate in employment or related activities that will enable the noncustodial parent to make regular child support payments, and if the noncustodial parent has not attained 20 years of age, such related activities may include completion of high school, a general equivalency degree, or other education directly related to employment.
+
+(dd) A description of the services to be provided under this paragraph, and a commitment by the noncustodial parent to participate in such services, that are designed to assist the noncustodial parent obtain and retain employment, increase earnings, and enhance the financial and emotional contributions to the well-being of the minor child.
+
+(aa) who have attained 18 years of age but not 25 years of age; and
+
+(bb) who, before attaining 18 years of age, were recipients of foster care maintenance payments (as defined in section 675(4) of this title ) under part E or were in foster care under the responsibility of a State;
+
+(aa) when any other individual is on layoff from the same or any substantially equivalent job;
+
+(bb) if the employer has terminated the employment of any regular employee or otherwise caused an involuntary reduction in its workforce with the intention of filling the vacancy so created with the participant; or
+
+(cc) if the employer has caused an involuntary reduction to less than full time in hours of any employee in the same or a substantially equivalent job.
+
+(aa) suspension or termination of payments from funds provided under this paragraph;
+
+(bb) prohibition of placement of a participant with an employer that has violated clause (i), (ii), or (iii);
+
+(cc) where applicable, reinstatement of an employee, payment of lost wages and benefits, and reestablishment of other relevant terms, conditions and privileges of employment; and
+
+(dd) where appropriate, other equitable relief.
+
+(aa) Filing Not later than 30 days after a grievant or complainant receives an adverse decision under the procedure established pursuant to subclause (I), the grievant or complainant may appeal the decision to a State agency designated by the State which shall be independent of the State or local agency that is administering the programs operated with funds provided under this paragraph and the State agency administering, or supervising the administration of, the State program funded under this part.
+
+(bb) Final determination Not later than 120 days after the State agency designated under item (aa) receives a grievance or complaint made under the procedure established by a State pursuant to subclause (I), the State agency shall make a final determination on the appeal.
+
+(aa) the population of children in the State, determined on the basis of the most recent population estimates as determined by the Bureau of the Census; divided by
+
+(bb) the total population of children in the States that are not territories, as so determined; plus
+
+(aa) the total amount expended by the State for basic assistance, non-recurrent short term benefits, and emergency assistance in fiscal year 2019, as reported by the State under section 611 of this title ; divided by
+
+(bb) the total amount expended by the States that are not territories for basic assistance, non-recurrent short term benefits, and emergency assistance in fiscal year 2019, as so reported by the States.
+
+If 5 eligible States
+
+If fewer than 5 eligible States
+
+State
+
+Secretary
+
+“The amendments made by this section [amending this section and sections 604 and 612 of this title]—
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 403, as added [Pub. L. 104–193, title I, § 103(a)(1)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2115](https://www.govinfo.gov/link/statute/110/2115); amended [Pub. L. 104–327, § 1(b)](https://www.govinfo.gov/link/plaw/104/public/327), Oct. 19, 1996, [110 Stat. 4002](https://www.govinfo.gov/link/statute/110/4002); [Pub. L. 105–33, title V](https://www.govinfo.gov/link/plaw/105/public/33), §§ 5001(a)(1), 5502, 5514(c), Aug. 5, 1997, [111 Stat. 577](https://www.govinfo.gov/link/statute/111/577), 606, 620; [Pub. L. 105–78, title VI, § 608](https://www.govinfo.gov/link/plaw/105/public/78), Nov. 13, 1997, [111 Stat. 1522](https://www.govinfo.gov/link/statute/111/1522); [Pub. L. 105–89, title IV, § 404(a)](https://www.govinfo.gov/link/plaw/105/public/89), (b), Nov. 19, 1997, [111 Stat. 2134](https://www.govinfo.gov/link/statute/111/2134); [Pub. L. 105–200, title IV, § 408](https://www.govinfo.gov/link/plaw/105/public/200), July 16, 1998, [112 Stat. 672](https://www.govinfo.gov/link/statute/112/672); [Pub. L. 105–277, div. A, § 101(f) [title I, § 102, title VIII, § 405(d)(30), (f)(22)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–346, 2681–425, 2681–432; [Pub. L. 105–306, § 6(a)](https://www.govinfo.gov/link/plaw/105/public/306), Oct. 28, 1998, [112 Stat. 2928](https://www.govinfo.gov/link/statute/112/2928); [Pub. L. 106–113, div. B, § 1000(a)(4) [title VIII, §§ 801(a), (b)(1), (c), 802, 803, 804(b), 805(a)(2), (b), 806]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1535](https://www.govinfo.gov/link/statute/113/1535), 1501A–280, 1501A–281, 1501A–283 to 1501A–286; [Pub. L. 106–246, div. B, title II, § 2402](https://www.govinfo.gov/link/plaw/106/public/246), July 13, 2000, [114 Stat. 555](https://www.govinfo.gov/link/statute/114/555); [Pub. L. 106–554, § 1(a)(1) [title I, §§ 103, 107(a)–(b)(4), (c), title V, § 513]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–11, 2763A–12, 2763A–71; [Pub. L. 107–147, title VI](https://www.govinfo.gov/link/plaw/107/public/147), §§ 616, 617, Mar. 9, 2002, [116 Stat. 62](https://www.govinfo.gov/link/statute/116/62); [Pub. L. 108–40, § 3(a)](https://www.govinfo.gov/link/plaw/108/public/40), (c)–(e), June 30, 2003, [117 Stat. 836](https://www.govinfo.gov/link/statute/117/836), 837; [Pub. L. 108–89, title I, § 101(b)(1)](https://www.govinfo.gov/link/plaw/108/public/89), (2), Oct. 1, 2003, [117 Stat. 1131](https://www.govinfo.gov/link/statute/117/1131); [Pub. L. 108–210, § 2(b)](https://www.govinfo.gov/link/plaw/108/public/210), Mar. 31, 2004, [118 Stat. 564](https://www.govinfo.gov/link/statute/118/564); [Pub. L. 108–262, § 2(b)](https://www.govinfo.gov/link/plaw/108/public/262), June 30, 2004, [118 Stat. 696](https://www.govinfo.gov/link/statute/118/696); [Pub. L. 108–308, § 2(b)(1)](https://www.govinfo.gov/link/plaw/108/public/308), (2), Sept. 30, 2004, [118 Stat. 1135](https://www.govinfo.gov/link/statute/118/1135); [Pub. L. 109–4, § 2(b)](https://www.govinfo.gov/link/plaw/109/public/4), Mar. 25, 2005, [119 Stat. 17](https://www.govinfo.gov/link/statute/119/17); [Pub. L. 109–19, § 2(b)](https://www.govinfo.gov/link/plaw/109/public/19), July 1, 2005, [119 Stat. 344](https://www.govinfo.gov/link/statute/119/344); [Pub. L. 109–68, § 2(b)(2)(A)](https://www.govinfo.gov/link/plaw/109/public/68), (B), Sept. 21, 2005, [119 Stat. 2003](https://www.govinfo.gov/link/statute/119/2003); [Pub. L. 109–161, § 2(b)](https://www.govinfo.gov/link/plaw/109/public/161), Dec. 30, 2005, [119 Stat. 2958](https://www.govinfo.gov/link/statute/119/2958); [Pub. L. 109–171, title VII](https://www.govinfo.gov/link/plaw/109/public/171), §§ 7101(b)(1), (2), 7103(a), Feb. 8, 2006, [120 Stat. 135](https://www.govinfo.gov/link/statute/120/135), 138; [Pub. L. 110–234, title IV, § 4002(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/234), (B), (2)(V), May 22, 2008, [122 Stat. 1095–1097](https://www.govinfo.gov/link/statute/122/1095); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4002(b)(1)(A), (B), (2)(V), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1858; [Pub. L. 110–275, title III, § 301(b)](https://www.govinfo.gov/link/plaw/110/public/275), July 15, 2008, [122 Stat. 2594](https://www.govinfo.gov/link/statute/122/2594); [Pub. L. 111–5, div. B, title II](https://www.govinfo.gov/link/plaw/111/public/5), §§ 2101(a), 2102(b), Feb. 17, 2009, [123 Stat. 446](https://www.govinfo.gov/link/statute/123/446), 449; [Pub. L. 111–242, § 131(b)(1)](https://www.govinfo.gov/link/plaw/111/public/242), (2), Sept. 30, 2010, [124 Stat. 2612](https://www.govinfo.gov/link/statute/124/2612); [Pub. L. 111–291, title VIII, § 811(b)](https://www.govinfo.gov/link/plaw/111/public/291) –(d), Dec. 8, 2010, [124 Stat. 3159](https://www.govinfo.gov/link/statute/124/3159); [Pub. L. 112–96, title IV, § 4002(a)](https://www.govinfo.gov/link/plaw/112/public/96), (b), Feb. 22, 2012, [126 Stat. 194](https://www.govinfo.gov/link/statute/126/194), 195; [Pub. L. 112–275, § 9(a)](https://www.govinfo.gov/link/plaw/112/public/275), Jan. 14, 2013, [126 Stat. 2465](https://www.govinfo.gov/link/statute/126/2465); [Pub. L. 113–128, title V, § 512(dd)(1)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1717](https://www.govinfo.gov/link/statute/128/1717); [Pub. L. 115–31, div. M, title I, § 102(a)(1)](https://www.govinfo.gov/link/plaw/115/public/31), (2), (b), (c)(2), May 5, 2017, [131 Stat. 800](https://www.govinfo.gov/link/statute/131/800), 803; [Pub. L. 117–2, title IX, § 9201](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 124](https://www.govinfo.gov/link/statute/135/124).)*

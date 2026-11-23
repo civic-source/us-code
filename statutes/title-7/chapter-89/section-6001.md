@@ -3,9 +3,10 @@ title: "Section 6001 - Findings and declaration of policy"
 usc_title: 7
 usc_section: "6001"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6001"
-generated_at: "2026-03-30T02:53:42.422Z"
+generated_at: "2026-11-23T21:25:28.378Z"
+status: "active"
 ---
 
 # § 6001. Findings and declaration of policy
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:42.422Z"
   - **(2)** maintain and expand existing domestic and foreign markets and uses for pecans; and
   - **(3)** develop new markets and uses for pecans.
 - **(c)** Nothing in this chapter may be construed to provide for the control of production or otherwise limit the right of any person to produce pecans.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1906](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3838](https://www.govinfo.gov/link/statute/104/3838).)*

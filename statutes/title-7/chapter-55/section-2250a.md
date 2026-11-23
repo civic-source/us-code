@@ -3,12 +3,17 @@ title: "Section 2250a - Erection of buildings and other structures on non-Federa
 usc_title: 7
 usc_section: "2250a"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2250a"
-generated_at: "2026-03-30T02:53:42.382Z"
+generated_at: "2026-11-23T21:25:28.288Z"
+status: "active"
 ---
 
 # § 2250a. Erection of buildings and other structures on non-Federal lands; duration of use of such lands; removal of structures after termination of use; availability of funds for expenses of acquiring long-term leases or other agreements
 
 Notwithstanding the provisions of existing law, except the Commodity Credit Corporation Charter Act [ 15 U.S.C. 714 et seq.] and without regard to sections 3111 and 3112 of title 40, but within the limitations of cost otherwise applicable, appropriations of the Department of Agriculture may be expended for the erection of buildings and other structures on land owned by States, counties, municipalities, or other political subdivisions, corporations, or individuals: Provided , That prior to such erection there is obtained the right to use the land for the estimated life of or need for the structure, including the right to remove any such structure within a reasonable time after the termination of the right to use the land: Provided further , That appropriations and funds available to the Department of Agriculture shall be available for expenses in connection with acquiring the right to use land for such purposes under long-term lease or other agreement.
 
+
+## Source Credit
+
+*([Pub. L. 89–106, § 1](https://www.govinfo.gov/link/plaw/89/public/106), Aug. 4, 1965, [79 Stat. 431](https://www.govinfo.gov/link/statute/79/431).)*

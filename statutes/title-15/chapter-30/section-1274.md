@@ -3,9 +3,10 @@ title: "Section 1274 - Remedies respecting banned hazardous substances"
 usc_title: 15
 usc_section: "1274"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1274"
-generated_at: "2026-03-30T02:54:08.131Z"
+generated_at: "2026-11-23T21:25:39.809Z"
+status: "active"
 ---
 
 # § 1274. Remedies respecting banned hazardous substances
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:08.131Z"
 - **(e)** An order under subsection (a), (b), or (c) may be issued only after an opportunity for a hearing in accordance with section 554 of title 5 , except that, if the Commission determines that any person who wishes to participate in such hearing is a part of a class of participants who share an identity of interest, the Commission may limit such person’s participation in such hearing to participation through a single representative designated by such class (or by the Commission if such class fails to designate such a representative).
 - **(f)** For purposes of this section (1) the term “manufacturer” includes an importer for resale, and (2) a dealer who sells at wholesale an article or substance shall with respect to that sale be considered the distributor of that article or substance.
 - **(g)** Nothing in this section shall be construed to require the Commission, in determining that an article or substance distributed in commerce presents a substantial product hazard and that notification or other action under this section should be taken, to prepare a comparison of the costs that would be incurred in providing notification or taking other action under this section with the benefits from such notification or action.
+
+## Source Credit
+
+*([Pub. L. 86–613, § 15](https://www.govinfo.gov/link/plaw/86/public/613), as added [Pub. L. 91–113, § 4(a)](https://www.govinfo.gov/link/plaw/91/public/113), Nov. 6, 1969, [83 Stat. 189](https://www.govinfo.gov/link/statute/83/189); amended [Pub. L. 97–35, title XII, § 1211(f)(1)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 721](https://www.govinfo.gov/link/statute/95/721); [Pub. L. 97–414, § 9](https://www.govinfo.gov/link/plaw/97/public/414) (l), Jan. 4, 1983, [96 Stat. 2065](https://www.govinfo.gov/link/statute/96/2065); [Pub. L. 98–491, § 2](https://www.govinfo.gov/link/plaw/98/public/491), Oct. 17, 1984, [98 Stat. 2269](https://www.govinfo.gov/link/statute/98/2269); [Pub. L. 100–418, title I, § 1214(c)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1156](https://www.govinfo.gov/link/statute/102/1156); [Pub. L. 101–608, title I, § 111(b)](https://www.govinfo.gov/link/plaw/101/public/608), Nov. 16, 1990, [104 Stat. 3114](https://www.govinfo.gov/link/statute/104/3114); [Pub. L. 110–314, title II, § 204(b)(4)(H)](https://www.govinfo.gov/link/plaw/110/public/314), Aug. 14, 2008, [122 Stat. 3042](https://www.govinfo.gov/link/statute/122/3042).)*

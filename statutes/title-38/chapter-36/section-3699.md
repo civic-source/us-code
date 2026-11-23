@@ -3,9 +3,10 @@ title: "Section 3699 - Effects of closure or disapproval of educational institut
 usc_title: 38
 usc_section: "3699"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3699"
-generated_at: "2026-03-30T02:55:53.511Z"
+generated_at: "2026-11-23T21:26:16.769Z"
+status: "active"
 ---
 
 # § 3699. Effects of closure or disapproval of educational institution
@@ -36,7 +37,7 @@ generated_at: "2026-03-30T02:55:53.511Z"
       - **(iii)** The Secretary shall notify individuals described in subparagraph (B) of being eligible to be covered by this paragraph.
       - **(iv)** In carrying out this subparagraph, the Secretary, in consultation with the Secretary of Education, shall establish procedures to determine whether the individual transferred credits to a comparable course or program of education.
     - **(B)** An individual described in this subparagraph is an individual who is enrolled in a course or program of education closed or discontinued as described in subsection (b)(1) during the period beginning on the date that is 120 days before the date of such closure or discontinuance and ending on the date of such closure or discontinuance, as the case may be.
-    - **(C)** This paragraph, including clauses (ii) and (iii) of subparagraph (A), shall apply with respect to the closure or discontinuation of a course or program of education, as described in subsection (b)(1), that occurs during the period beginning on August 1, 2021 , and ending on September 30, 2026 .
+    - **(C)** This paragraph, including clauses (ii) and (iii) of subparagraph (A), shall apply with respect to the closure or discontinuation of a course or program of education, as described in subsection (b)(1), that occurs during the period beginning on August 1, 2021 , and ending on December 11, 2026 .
 - **(d)**
   - **(1)** The Secretary may treat a course of education that is disapproved under this chapter as being approved under this chapter with respect to an individual described in paragraph (2) if the Secretary determines, on a case-by-case basis, that—
     - **(A)** such disapproval is the result of an action described in clause (i) or (ii) of subsection (b)(1)(B); and
@@ -45,3 +46,29 @@ generated_at: "2026-03-30T02:55:53.511Z"
 - **(e)** Not later than 5 business days after the date on which the Secretary receives notice that an educational institution will close or is closed, the Secretary shall provide to each individual who is enrolled in a course or program or education at such educational institution using entitlement to educational assistance under chapter 30, 31, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, notice of—
   - **(1)** such closure and the date of such closure; and
   - **(2)** the effect of such closure on the individual’s entitlement to educational assistance pursuant to this section.
+
+Closure or Disapproval
+
+Educational Assistance Described
+
+Period Not Charged
+
+(aa) the individual may not be deemed under such clause to be an individual who did not receive such credits; and
+
+(bb) the Secretary shall rescind the certificate of eligibility provided under subclause (IV);
+
+Continuing Pursuit of Disapproved Courses
+
+Notice of Closures
+
+In general
+
+Special application.—
+
+In general
+
+Individual described
+
+## Source Credit
+
+*(Added [Pub. L. 115–48, title I, § 109(a)(1)](https://www.govinfo.gov/link/plaw/115/public/48), Aug. 16, 2017, [131 Stat. 978](https://www.govinfo.gov/link/statute/131/978); amended [Pub. L. 116–61, § 6(6)](https://www.govinfo.gov/link/plaw/116/public/61), Sept. 30, 2019, [133 Stat. 1117](https://www.govinfo.gov/link/statute/133/1117); [Pub. L. 116–315, title I](https://www.govinfo.gov/link/plaw/116/public/315), §§ 1007(a), 1021(a), Jan. 5, 2021, [134 Stat. 4940](https://www.govinfo.gov/link/statute/134/4940), 4958; [Pub. L. 117–297, § 2](https://www.govinfo.gov/link/plaw/117/public/297), Dec. 27, 2022, [136 Stat. 4375](https://www.govinfo.gov/link/statute/136/4375); [Pub. L. 117–333, § 8(a)](https://www.govinfo.gov/link/plaw/117/public/333), Jan. 5, 2023, [136 Stat. 6130](https://www.govinfo.gov/link/statute/136/6130); [Pub. L. 118–19, § 2](https://www.govinfo.gov/link/plaw/118/public/19), Oct. 6, 2023, [137 Stat. 106](https://www.govinfo.gov/link/statute/137/106); [Pub. L. 118–210, title II, § 211](https://www.govinfo.gov/link/plaw/118/public/210), Jan. 2, 2025, [138 Stat. 2767](https://www.govinfo.gov/link/statute/138/2767); [Pub. L. 119–37, div. G, title II, § 7202](https://www.govinfo.gov/link/plaw/119/public/37), Nov. 12, 2025, [139 Stat. 650](https://www.govinfo.gov/link/statute/139/650); [Pub. L. 119–103, div. D, title II, § 4202](https://www.govinfo.gov/link/plaw/119/public/103), Sept. 2, 2026, [140 Stat. 1007](https://www.govinfo.gov/link/statute/140/1007).)*

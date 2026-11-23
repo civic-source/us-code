@@ -3,9 +3,10 @@ title: "Section 361g - Duties of Secretary; ascertainment of entitlement of Stat
 usc_title: 7
 usc_section: "361g"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 361g"
-generated_at: "2026-03-30T02:53:42.282Z"
+generated_at: "2026-11-23T21:25:27.951Z"
+status: "active"
 ---
 
 # § 361g. Duties of Secretary; ascertainment of entitlement of State to funds; plans of work
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:42.282Z"
   - **(1)** The Secretary of Agriculture shall develop protocols to be used to evaluate the success of multistate, multi-institutional, and multidisciplinary research activities and joint research and extension activities in addressing critical agricultural issues identified in the plans of work submitted under subsection (d).
   - **(2)** The Secretary of Agriculture shall develop the protocols in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board established under section 3123 of this title and land-grant colleges and universities.
 - **(g)** To the maximum extent practicable, the Secretary shall consider a plan of work submitted under subsection (d) to satisfy other appropriate Federal reporting requirements.
+
+## Source Credit
+
+*(Mar. 2, 1887, ch. 314, § 7, [24 Stat. 441](https://www.govinfo.gov/link/statute/24/441); Aug. 11, 1955, ch. 790, § 1, [69 Stat. 673](https://www.govinfo.gov/link/statute/69/673); [Pub. L. 86–533, § 1(22)](https://www.govinfo.gov/link/plaw/86/public/533), June 29, 1960, [74 Stat. 249](https://www.govinfo.gov/link/statute/74/249); [Pub. L. 94–273, § 3(2)](https://www.govinfo.gov/link/plaw/94/public/273), Apr. 21, 1976, [90 Stat. 376](https://www.govinfo.gov/link/statute/90/376); [Pub. L. 105–185, title I, § 103(f)(2)](https://www.govinfo.gov/link/plaw/105/public/185), title II, § 202(b), June 23, 1998, [112 Stat. 528](https://www.govinfo.gov/link/statute/112/528), 532; [Pub. L. 107–171, title VII, § 7202](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 437](https://www.govinfo.gov/link/statute/116/437); [Pub. L. 115–334, title VII, § 7612(b)(2)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4832](https://www.govinfo.gov/link/statute/132/4832).)*

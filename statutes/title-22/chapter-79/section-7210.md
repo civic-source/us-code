@@ -3,9 +3,10 @@ title: "Section 7210 - Application of the Trade Sanctions Reform and Export Enha
 usc_title: 22
 usc_section: "7210"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7210"
-generated_at: "2026-03-30T02:55:05.439Z"
+generated_at: "2026-11-23T21:25:58.714Z"
+status: "active"
 ---
 
 # § 7210. Application of the Trade Sanctions Reform and Export Enhancement Act
@@ -17,3 +18,7 @@ Nothing in the Trade Sanctions Reform and Export Enhancement Act of 2000 [22 U.S
   - **(3)** a foreign organization, group, or person designated pursuant to Executive Order No. 13224 ( September 23, 2001 );
   - **(4)** any narcotics trafficking entity designated pursuant to Executive Order No. 12978 ( October 21, 1995 ) or the Foreign Narcotics Kingpin Designation Act ( Public Law 106–120 ) [21 U.S.C. § 1901 et seq.]; or
   - **(5)** any foreign organization, group, or persons subject to any restriction for its involvement in weapons of mass destruction or missile proliferation.
+
+## Source Credit
+
+*([Pub. L. 107–56, title II, § 221(b)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 292](https://www.govinfo.gov/link/statute/115/292).)*

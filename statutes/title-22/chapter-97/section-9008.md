@@ -3,9 +3,10 @@ title: "Section 9008 - Collection, maintenance, and dissemination of information
 usc_title: 22
 usc_section: "9008"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9008"
-generated_at: "2026-03-30T02:55:05.460Z"
+generated_at: "2026-11-23T21:25:58.762Z"
+status: "active"
 ---
 
 # § 9008. Collection, maintenance, and dissemination of information
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.460Z"
   - **(2)** would be prohibited by section 9 of title 13 ;
 - **(d)** To the extent that information which the United States Central Authority is authorized to obtain under the provisions of subsection (c) can be obtained through the Parent Locator Service, the United States Central Authority shall first seek to obtain such information from the Parent Locator Service, before requesting such information directly under the provisions of subsection (c) of this section.
 - **(e)** The United States Central Authority shall maintain appropriate records concerning its activities and the disposition of cases brought to its attention.
+
+## Source Credit
+
+*([Pub. L. 100–300, § 9](https://www.govinfo.gov/link/plaw/100/public/300), Apr. 29, 1988, [102 Stat. 440](https://www.govinfo.gov/link/statute/102/440).)*

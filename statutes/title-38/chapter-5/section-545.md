@@ -3,9 +3,10 @@ title: "Section 545 - Advisory Committee on the Readjustment of Veterans"
 usc_title: 38
 usc_section: "545"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 545"
-generated_at: "2026-03-30T02:55:53.474Z"
+generated_at: "2026-11-23T21:26:16.559Z"
+status: "active"
 ---
 
 # § 545. Advisory Committee on the Readjustment of Veterans
@@ -37,3 +38,57 @@ generated_at: "2026-03-30T02:55:53.474Z"
 - **(d)**
   - **(1)** Except as provided in paragraph (2), the provisions of chapter 10 of title 5 shall apply to the activities of the Committee under this section.
   - **(2)** Section 1013 of title 5 shall not apply to the Committee.
+
+Establishment
+
+Membership
+
+Period of Appointment; Vacancies
+
+Initial Meeting
+
+Quorum
+
+Chairman and Vice Chairman
+
+Meetings
+
+Panels
+
+Authority of Individuals To Act for Commission
+
+In General
+
+Review of Programs To Assist Members of the Armed Forces at Separation
+
+Review of Programs To Assist Veterans
+
+Reports
+
+Hearings
+
+Information From Federal Agencies
+
+Postal Services
+
+Gifts
+
+Miscellaneous Administrative Support
+
+Compensation of Members
+
+Travel and Travel Expenses
+
+Staff
+
+Detail of Government Employees
+
+Procurement of Temporary and Intermittent Services
+
+In General
+
+Availability
+
+## Source Credit
+
+*(Added [Pub. L. 104–262, title III, § 333(a)(1)](https://www.govinfo.gov/link/plaw/104/public/262), Oct. 9, 1996, [110 Stat. 3199](https://www.govinfo.gov/link/statute/110/3199); amended [Pub. L. 107–14, § 8(a)(16)](https://www.govinfo.gov/link/plaw/107/public/14), June 5, 2001, [115 Stat. 35](https://www.govinfo.gov/link/statute/115/35); [Pub. L. 117–286, § 4(a)(217)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4330](https://www.govinfo.gov/link/statute/136/4330).)*

@@ -3,9 +3,10 @@ title: "Section 3019 - Taxation by State, county, etc., taxing authority; Federa
 usc_title: 12
 usc_section: "3019"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3019"
-generated_at: "2026-03-30T02:53:53.489Z"
+generated_at: "2026-11-23T21:25:37.117Z"
+status: "active"
 ---
 
 # § 3019. Taxation by State, county, etc., taxing authority; Federal tax status
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:53.489Z"
   - **(3)** the terms “written notice of allocation” and “qualified written notices of allocation”, as defined in sections 1388(b) and (c) of title 26, include (to the extent of par value), only as such sections apply to the Bank, any class B or class C stock distributed by the Bank pursuant to section 3014(i) of this title and shall also include any allocated surplus set aside by the Bank pursuant to section 3014(i) of this title ;
   - **(4)** patrons of the Bank shall be deemed to have consented under section 1388(c)(2) of title 26 to the inclusion in their incomes of any qualified written notices of allocation received by such patrons from the Bank; and
   - **(5)** any amounts required to be included in the incomes of patrons of the Bank with respect to class B or class C stock or allocated surplus shall be treated as earnings from business done by such patrons of the Bank with or for their own patrons.
+
+## Source Credit
+
+*([Pub. L. 95–351, title I, § 109](https://www.govinfo.gov/link/plaw/95/public/351), Aug. 20, 1978, [92 Stat. 509](https://www.govinfo.gov/link/statute/92/509); [Pub. L. 97–35, title III, § 392(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 434](https://www.govinfo.gov/link/statute/95/434); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095).)*

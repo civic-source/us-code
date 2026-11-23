@@ -3,9 +3,10 @@ title: "Section 12653b - ServeAmerica Fellowships"
 usc_title: 42
 usc_section: "12653b"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12653b"
-generated_at: "2026-03-30T02:56:11.425Z"
+generated_at: "2026-11-23T21:26:33.524Z"
+status: "active"
 ---
 
 # § 12653b. ServeAmerica Fellowships
@@ -95,3 +96,7 @@ generated_at: "2026-03-30T02:56:11.425Z"
 - **(f)** Service under a ServeAmerica Fellowship shall comply with section 12584(a) of this title . For purposes of applying that section to this subsection, a reference to assistance shall be considered to be a reference to assistance provided under this section.
 - **(g)** Each service sponsor organization that receives a fellow under this section shall, on a biweekly basis, report to the Corporation on the number of hours served and the services provided by that fellow. The Corporation shall establish a web portal for the organizations to use in reporting the information.
 - **(h)** A fellow who serves in a service project under this section shall be considered to have served in an approved national service position and, upon meeting the requirements of section 12603 of this title for full-time or part-time national service, shall be eligible for a national service educational award described in such section. The Corporation shall transfer an appropriate amount of funds to the National Service Trust to provide for the national service educational award for such fellow.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 198B](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 111–13, title I, § 1805](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1554](https://www.govinfo.gov/link/statute/123/1554).)*

@@ -3,9 +3,10 @@ title: "Section 115 - Ohio"
 usc_title: 28
 usc_section: "115"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 115"
-generated_at: "2026-03-30T02:55:30.123Z"
+generated_at: "2026-11-23T21:26:01.011Z"
+status: "active"
 ---
 
 # § 115. Ohio
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:30.123Z"
   - **(1)** The Western Division comprises the counties of Adams, Brown, Butler, Champaign, Clark, Clermont, Clinton, Darke, Greene, Hamilton, Highland, Lawrence, Miami, Montgomery, Preble, Scioto, Shelby, and Warren. Court for the Western Division shall be held at Cincinnati and Dayton.
   - **(2)** The Eastern Division comprises the counties of Athens, Belmont, Coshocton, Delaware, Fairfield, Fayette, Franklin, Gallia, Guernsey, Harrison, Hocking, Jackson, Jefferson, Knox, Licking, Logan, Madison, Meigs, Monroe, Morgan, Morrow, Muskingum, Noble, Perry, Pickaway, Pike, Ross, Union, Vinton, and Washington. Court for the Eastern Division shall be held at Columbus 1 1 So in original. Probably should be followed by a comma. St. Clairsville, and Steubenville.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 887](https://www.govinfo.gov/link/statute/62/887); Feb. 10, 1954, ch. 6, § 2(b)(9), [68 Stat. 11](https://www.govinfo.gov/link/statute/68/11); [Pub. L. 107–273, div. C, title I, § 11021](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1829](https://www.govinfo.gov/link/statute/116/1829).)*

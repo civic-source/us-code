@@ -3,9 +3,10 @@ title: "Section 33109 - National Stolen Passenger Motor Vehicle Information Syst
 usc_title: 49
 usc_section: "33109"
 chapter: 331
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 33109"
-generated_at: "2026-03-30T02:56:19.368Z"
+generated_at: "2026-11-23T21:26:40.818Z"
+status: "active"
 ---
 
 # § 33109. National Stolen Passenger Motor Vehicle Information System
@@ -45,3 +46,42 @@ generated_at: "2026-03-30T02:56:19.368Z"
     - **(B)** the verification system under section 33110 of this title .
   - **(4)** Not later than April 25, 1993 , the committee shall submit to the Attorney General, the Secretary, and Congress a report including the recommendations of the committee.
 - **(d)** Any person performing any activity under this section or section 33110 or 33111 in good faith and with the reasonable belief that such activity was in accordance with such section shall be immune from any civil action respecting such activity which is seeking money damages or equitable relief in any court of the United States or a State.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 33109(a) | 15:2026c(a), (b) (last sentence), (c), (f). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 609; added Oct. 25, 1992 , Pub. L. 102–519, § 306(e) , 106 Stat. 3398 . |
+| 33109(b) | 15:2026c(b) (1st sentence), (e). |  |
+| 33109(c) | 15:2026c(d). |  |
+
+
+General Requirements
+
+Requests for Information
+
+Advisory Committee
+
+Immunity
+
+Historical and Revision Notes
+
+33109(a)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Oct. 25, 1992
+
+Pub. L. 102–519, § 306(e)
+
+106 Stat. 3398
+
+33109(b)
+
+33109(c)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1084](https://www.govinfo.gov/link/statute/108/1084); [Pub. L. 104–152, § 5](https://www.govinfo.gov/link/plaw/104/public/152), July 2, 1996, [110 Stat. 1385](https://www.govinfo.gov/link/statute/110/1385).)*

@@ -3,9 +3,10 @@ title: "Section 9004 - Entitlement of eligible candidates to payments"
 usc_title: 26
 usc_section: "9004"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 9004"
-generated_at: "2026-03-30T02:55:27.889Z"
+generated_at: "2026-11-23T21:26:07.028Z"
+status: "active"
 ---
 
 # § 9004. Entitlement of eligible candidates to payments
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:27.889Z"
   - **(2)** to repay loans the proceeds of which were used to defray such qualified campaign expenses, or otherwise to restore funds (other than contributions to defray qualified campaign expenses received and expended by such candidates or such committees) used to defray such qualified campaign expenses.
 - **(d)** In order to be eligible to receive any payment under section 9006, the candidate of a major, minor, or new party in an election for the office of President shall certify to the Commission, under penalty of perjury, that such candidate will not knowingly make expenditures from his personal funds, or the personal funds of his immediate family, in connection with his campaign for election to the office of President in excess of, in the aggregate, $50,000. For purposes of this subsection, expenditures from personal funds made by a candidate of a major, minor, or new party for the office of Vice President shall be considered to be expenditures by the candidate of such party for the office of President.
 - **(e)** For purposes of subsection (d), the term “immediate family” means a candidate’s spouse, and any child, parent, grandparent, brother, half-brother, sister, or half-sister of the candidate, and the spouses of such persons.
+
+## Source Credit
+
+*(Added [Pub. L. 92–178, title VIII, § 801](https://www.govinfo.gov/link/plaw/92/public/178), Dec. 10, 1971, [85 Stat. 565](https://www.govinfo.gov/link/statute/85/565); amended [Pub. L. 93–443, title IV, § 404(a)](https://www.govinfo.gov/link/plaw/93/public/443), (b), Oct. 15, 1974, [88 Stat. 1291](https://www.govinfo.gov/link/statute/88/1291); [Pub. L. 94–283, title III](https://www.govinfo.gov/link/plaw/94/public/283), §§ 301(a), 307(d), May 11, 1976, [90 Stat. 497](https://www.govinfo.gov/link/statute/90/497), 501; [Pub. L. 110–172, § 11(a)(42)(B)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2488](https://www.govinfo.gov/link/statute/121/2488).)*

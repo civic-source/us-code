@@ -3,9 +3,10 @@ title: "Section 4114 - Resolution of implementation disputes"
 usc_title: 22
 usc_section: "4114"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4114"
-generated_at: "2026-03-30T02:55:05.407Z"
+generated_at: "2026-11-23T21:25:58.627Z"
+status: "active"
 ---
 
 # § 4114. Resolution of implementation disputes
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.407Z"
   - **(2)** on other grounds similar to those applied by Federal courts in private sector labor-management relations;
 - **(c)** If no exception to a Foreign Service Grievance Board action is filed under subsection (b) within 30 days after such action is communicated to the parties, such action shall become final and binding and shall be implemented by the parties.
 - **(d)** Resolutions of disputes under this section shall not be subject to judicial review.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 1014](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2137](https://www.govinfo.gov/link/statute/94/2137).)*

@@ -3,9 +3,10 @@ title: "Section 1521 - Findings"
 usc_title: 21
 usc_section: "1521"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 1521"
-generated_at: "2026-03-30T02:54:54.302Z"
+generated_at: "2026-11-23T21:25:56.276Z"
+status: "active"
 ---
 
 # § 1521. Findings
@@ -24,3 +25,25 @@ Congress finds the following:
       - **(ii)** data suggests that if parents would simply talk to their children regularly about the dangers of substance abuse, use among youth could be expected to decline by as much as 30 percent.
   - **(7)** Community anti-drug coalitions throughout the United States are successfully developing and implementing comprehensive, long-term strategies to reduce substance abuse among youth on a sustained basis.
   - **(8)** Intergovernmental cooperation and coordination through national, State, and local or tribal leadership and partnerships are critical to facilitate the reduction of substance abuse among youth in communities throughout the United States.
+
+In general
+
+Laws described
+
+“Congress makes the following findings:
+
+In General
+
+Eligible Organizations
+
+Use of Grant Amount
+
+Administration of Grant.—
+
+Duration
+
+Disbursement
+
+## Source Credit
+
+*([Pub. L. 100–690, title I, § 1021](https://www.govinfo.gov/link/plaw/100/public/690), as added [Pub. L. 105–20, § 2(a)(2)](https://www.govinfo.gov/link/plaw/105/public/20), June 27, 1997, [111 Stat. 224](https://www.govinfo.gov/link/statute/111/224).)*

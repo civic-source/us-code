@@ -3,9 +3,10 @@ title: "Section 3006 - Ensuring energy security"
 usc_title: 43
 usc_section: "3006"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 3006"
-generated_at: "2026-03-30T02:55:57.500Z"
+generated_at: "2026-11-23T21:26:19.903Z"
+status: "active"
 ---
 
 # § 3006. Ensuring energy security
@@ -28,3 +29,13 @@ generated_at: "2026-03-30T02:55:57.500Z"
     - **(A)** an offshore lease sale has been held during the 1-year period ending on the date of the issuance of the lease for offshore wind development; and
     - **(B)** the sum total of acres offered for lease in offshore lease sales during the 1-year period ending on the date of the issuance of the lease for offshore wind development is not less than 60,000,000 acres.
 - **(c)** Except as expressly provided in paragraphs (1) and (2) of subsection (b), nothing in this section supersedes, amends, or modifies existing law.
+
+“In this subtitle [subtitle B (§§ 50211–50281), enacting this section, section 1356c of this title , and section 1727 of Title 30 , Mineral Lands and Mining, and amending sections 1331, 1337, and 1344 of this title and sections 188 and 226 of Title 30]:
+
+Secretary
+
+United states insular areas
+
+## Source Credit
+
+*([Pub. L. 117–169, title V, § 50265](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2060](https://www.govinfo.gov/link/statute/136/2060).)*

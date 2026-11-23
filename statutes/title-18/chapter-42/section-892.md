@@ -3,9 +3,10 @@ title: "Section 892 - Making extortionate extensions of credit"
 usc_title: 18
 usc_section: "892"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 892"
-generated_at: "2026-03-30T02:54:16.472Z"
+generated_at: "2026-11-23T21:25:44.001Z"
+status: "active"
 ---
 
 # § 892. Making extortionate extensions of credit
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:16.472Z"
     - **(B)** the creditor had a reputation for the use of extortionate means to collect extensions of credit or to punish the nonrepayment thereof.
   - **(4)** Upon the making of the extension of credit, the total of the extensions of credit by the creditor to the debtor then outstanding, including any unpaid interest or similar charges, exceeded $100.
 - **(c)** In any prosecution under this section, if evidence has been introduced tending to show the existence of any of the circumstances described in subsection (b)(1) or (b)(2), and direct evidence of the actual belief of the debtor as to the creditor’s collection practices is not available, then for the purpose of showing the understanding of the debtor and the creditor at the time the extension of credit was made, the court may in its discretion allow evidence to be introduced tending to show the reputation as to collection practices of the creditor in any community of which the debtor was a member at the time of the extension.
+
+## Source Credit
+
+*(Added [Pub. L. 90–321, title II, § 202(a)](https://www.govinfo.gov/link/plaw/90/public/321), May 29, 1968, [82 Stat. 160](https://www.govinfo.gov/link/statute/82/160); amended [Pub. L. 103–322, title XXXIII, § 330016(1)(L)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2147](https://www.govinfo.gov/link/statute/108/2147).)*

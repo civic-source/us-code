@@ -3,9 +3,10 @@ title: "Section 1122 - Graduate and undergraduate language and area centers and 
 usc_title: 20
 usc_section: "1122"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1122"
-generated_at: "2026-03-30T02:54:48.142Z"
+generated_at: "2026-11-23T21:25:47.235Z"
+status: "active"
 ---
 
 # § 1122. Graduate and undergraduate language and area centers and programs
@@ -61,3 +62,7 @@ generated_at: "2026-03-30T02:54:48.142Z"
 - **(e)** Each institution of higher education or consortium of such institutions desiring a grant under this section shall submit an application to the Secretary at such time, in such manner, and accompanied by such information and assurances as the Secretary may require. Each such application shall include—
   - **(1)** an explanation of how the activities funded by the grant will reflect diverse perspectives and a wide range of views and generate debate on world regions and international affairs; and
   - **(2)** a description of how the applicant will encourage government service in areas of national need, as identified by the Secretary, as well as in areas of need in the education, business, and nonprofit sectors.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VI, § 602](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title VI, § 601](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1775](https://www.govinfo.gov/link/statute/112/1775); amended [Pub. L. 110–315, title VI, § 602](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3334](https://www.govinfo.gov/link/statute/122/3334).)*

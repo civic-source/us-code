@@ -3,9 +3,10 @@ title: "Section 2124 - Powers of Oversight Board"
 usc_title: 48
 usc_section: "2124"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 2124"
-generated_at: "2026-03-30T02:56:14.603Z"
+generated_at: "2026-11-23T21:26:38.137Z"
+status: "active"
 ---
 
 # § 2124. Powers of Oversight Board
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:56:14.603Z"
 - **(n)** Upon the request of the Oversight Board, the Administrator of General Services or other appropriate Federal agencies shall promptly provide to the Oversight Board, on a reimbursable or non-reimbursable basis, the administrative support services necessary for the Oversight Board to carry out its responsibilities under this chapter.
 - **(o)** The Oversight Board may investigate the disclosure and selling practices in connection with the purchase of bonds issued by a covered territory for or on behalf of any retail investors including any underrepresentation of risk for such investors and any relationships or conflicts of interest maintained by such broker, dealer, or investment adviser is as provided in applicable laws and regulations.
 - **(p)** The Oversight Board shall make public the findings of any investigation referenced in subsection ( o ).
+
+## Source Credit
+
+*([Pub. L. 114–187, title I, § 104](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 558](https://www.govinfo.gov/link/statute/130/558).)*

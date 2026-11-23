@@ -3,9 +3,10 @@ title: "Section 4012 - Assessments"
 usc_title: 16
 usc_section: "4012"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4012"
-generated_at: "2026-03-30T02:54:23.040Z"
+generated_at: "2026-11-23T21:25:52.009Z"
+status: "active"
 ---
 
 # § 4012. Assessments
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:23.040Z"
   - **(4)** Any individual who is required to keep information confidential under this subsection and who knowingly violates this subsection shall, upon conviction, be—
     - **(A)** subject to a fine of not more than $1,000 or to imprisonment for not more than one year, or both; and
     - **(B)** removed from office if an officer or employee of a council or the Department of Commerce.
+
+## Source Credit
+
+*([Pub. L. 99–659, title II, § 213](https://www.govinfo.gov/link/plaw/99/public/659), Nov. 14, 1986, [100 Stat. 3727](https://www.govinfo.gov/link/statute/100/3727).)*

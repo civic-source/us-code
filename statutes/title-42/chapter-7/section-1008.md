@@ -3,9 +3,10 @@ title: "Section 1008 - Overpayments and underpayments"
 usc_title: 42
 usc_section: "1008"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1008"
-generated_at: "2026-03-30T02:56:10.900Z"
+generated_at: "2026-11-23T21:26:31.207Z"
+status: "active"
 ---
 
 # § 1008. Overpayments and underpayments
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:10.900Z"
     - **(A)** in excess of the correct amount of the payment under this subchapter; and
     - **(B)** determined by the Commissioner of Social Security to be otherwise unrecoverable under this section from a person who is not a qualified individual under this subchapter.
 - **(e)** For provisions relating to the cross-program recovery of overpayments made under programs administered by the Commissioner of Social Security, see section 1320b–17 of this title .
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title VIII, § 808, as added [Pub. L. 106–169, title II, § 251(a)](https://www.govinfo.gov/link/plaw/106/public/169), Dec. 14, 1999, [113 Stat. 1850](https://www.govinfo.gov/link/statute/113/1850); amended [Pub. L. 108–203, title II, § 210(b)(2)](https://www.govinfo.gov/link/plaw/108/public/203), Mar. 2, 2004, [118 Stat. 517](https://www.govinfo.gov/link/statute/118/517).)*

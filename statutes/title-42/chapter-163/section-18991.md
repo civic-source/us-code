@@ -3,9 +3,10 @@ title: "Section 18991 - PreK–12 STEM education"
 usc_title: 42
 usc_section: "18991"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18991"
-generated_at: "2026-03-30T02:56:11.534Z"
+generated_at: "2026-11-23T21:26:33.859Z"
+status: "active"
 ---
 
 # § 18991. PreK–12 STEM education
@@ -78,3 +79,7 @@ generated_at: "2026-03-30T02:56:11.534Z"
     - **(B)** if deemed effective, a proposal to Congress for permanent implementation of the pilot program.
   - **(9)** The authority to carry out this subsection shall terminate on the date that is 15 years after August 9, 2022 .
   - **(10)** There are authorized to be appropriated $60,000,000 for each of fiscal years 2023 through 2032 to carry out this subsection.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10311](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1510](https://www.govinfo.gov/link/statute/136/1510).)*

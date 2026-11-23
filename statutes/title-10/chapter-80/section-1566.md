@@ -3,9 +3,10 @@ title: "Section 1566 - Voting assistance: compliance assessments; assistance"
 usc_title: 10
 usc_section: "1566"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1566"
-generated_at: "2026-03-30T02:53:38.130Z"
+generated_at: "2026-11-23T21:25:32.513Z"
+status: "active"
 ---
 
 # § 1566. Voting assistance: compliance assessments; assistance
@@ -36,3 +37,27 @@ generated_at: "2026-03-30T02:53:38.130Z"
   - **(1)** The Secretary of each military department, using a variety of means including both print and electronic media, shall, to the maximum extent practicable, ensure that members of the armed forces and their dependents who are qualified to vote have ready access to information regarding voter registration requirements and deadlines (including voter registration), absentee ballot application requirements and deadlines, and the availability of voting assistance officers to assist members and dependents to understand and comply with these requirements.
   - **(2)** The Secretary of each military department shall make the national voter registration form prepared for purposes of the Uniformed and Overseas Citizens Absentee Voting Act by the Federal Election Commission available so that each person who enlists shall receive such form at the time of the enlistment, or as soon thereafter as practicable.
   - **(3)** Where practicable, a special day or days shall be designated at each military installation for the purpose of informing members of the armed forces and their dependents of election timing, registration requirements, and voting procedures.
+
+Regulations
+
+Voting Assistance Programs Defined
+
+Annual Effectiveness and Compliance Reviews
+
+Regular Military Department Assessments
+
+Voting Assistance Officers
+
+Delivery of Mail From Overseas Preceding Federal Elections
+
+Notice of Deadlines and Requirements
+
+Registration and Voting Information for Members and Dependents
+
+In General
+
+Personnel Responsible of Discharge
+
+## Source Credit
+
+*(Added [Pub. L. 107–107, div. A, title XVI, § 1602(a)(1)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1274](https://www.govinfo.gov/link/statute/115/1274); amended [Pub. L. 107–252, title VII, § 701](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1722](https://www.govinfo.gov/link/statute/116/1722); [Pub. L. 108–375, div. A, title X, § 1084(d)(13)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2062](https://www.govinfo.gov/link/statute/118/2062); [Pub. L. 109–364, div. A, title V, § 596(a)](https://www.govinfo.gov/link/plaw/109/public/364), (d), Oct. 17, 2006, [120 Stat. 2235](https://www.govinfo.gov/link/statute/120/2235), 2236; [Pub. L. 116–283, div. A, title IX, § 924(b)(1)(M)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3820](https://www.govinfo.gov/link/statute/134/3820).)*

@@ -3,9 +3,10 @@ title: "Section 4711 - Committee on Standards of Official Conduct of House of Re
 usc_title: 2
 usc_section: "4711"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 4711"
-generated_at: "2026-03-30T02:53:04.834Z"
+generated_at: "2026-11-23T21:25:21.318Z"
+status: "active"
 ---
 
 # § 4711. Committee on Standards of Official Conduct of House of Representatives
@@ -33,3 +34,11 @@ generated_at: "2026-03-30T02:53:04.834Z"
     - **(D)** Developing and carrying out, subject to the approval of the chairman, periodic educational briefings for Members, officers and employees of the House on those laws, rules, regulations, or other standards of conduct applicable to them.
   - **(4)** No information provided to the Committee on Standards of Official Conduct by a Member, officer or employee of the House of Representatives when seeking advice regarding prospective conduct of such Member, officer or employee may be used as the basis for initiating an investigation under clause 4(e)(1)(B) of rule X 1 of the Rules of the House of Representatives, if such Member, officer or employee acts in accordance with the written advice of the committee.
 - **(j)** This section shall take effect immediately before noon January 3, 1991 , except that subsections (g), (h), and (i) shall take effect on January 1, 1990 .
+
+Restrictions
+
+Exemption Authority
+
+## Source Credit
+
+*([Pub. L. 101–194, title VIII, § 803](https://www.govinfo.gov/link/plaw/101/public/194), Nov. 30, 1989, [103 Stat. 1774](https://www.govinfo.gov/link/statute/103/1774).)*

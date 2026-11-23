@@ -3,9 +3,10 @@ title: "Section 1110b - TRICARE program: extension of dependent coverage"
 usc_title: 10
 usc_section: "1110b"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1110b"
-generated_at: "2026-03-30T02:53:38.109Z"
+generated_at: "2026-11-23T21:25:32.426Z"
+status: "active"
 ---
 
 # § 1110b. TRICARE program: extension of dependent coverage
@@ -22,3 +23,13 @@ generated_at: "2026-03-30T02:53:38.109Z"
   - **(2)** The monthly amount of the premium in effect for a month for coverage under the TRICARE program pursuant to this section shall be the amount equal to the cost of such coverage that the Secretary determines on an appropriate actuarial basis.
   - **(3)** The Secretary shall prescribe the requirements and procedures applicable to the payment of premiums under this subsection.
   - **(4)** Amounts collected as premiums under this subsection shall be credited to the appropriation available for the Defense Health Program Account under section 1100 of this title , shall be merged with sums in such Account that are available for the fiscal year in which collected, and shall be available under subsection (b) of such section for such fiscal year.
+
+In General
+
+Individual Described
+
+Premium
+
+## Source Credit
+
+*(Added [Pub. L. 111–383, div. A, title VII, § 702(a)(1)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4244](https://www.govinfo.gov/link/statute/124/4244); [Pub. L. 114–328, div. A, title VII, § 701(j)(1)(F)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2192](https://www.govinfo.gov/link/statute/130/2192); [Pub. L. 115–91, div. A, title VII, § 739(f)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1447](https://www.govinfo.gov/link/statute/131/1447).)*

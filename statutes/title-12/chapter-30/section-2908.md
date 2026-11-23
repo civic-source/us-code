@@ -3,9 +3,10 @@ title: "Section 2908 - Small bank regulatory relief"
 usc_title: 12
 usc_section: "2908"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2908"
-generated_at: "2026-03-30T02:53:53.489Z"
+generated_at: "2026-11-23T21:25:37.115Z"
+status: "active"
 ---
 
 # § 2908. Small bank regulatory relief
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:53.489Z"
   - **(3)** as deemed necessary by the appropriate Federal financial supervisory agency, for an institution that has received a rating of less than “satisfactory record of meeting community credit needs” at its most recent examination under section 2903 of this title .
 - **(b)** A regulated financial institution described in subsection (a) shall remain subject to examination under this chapter in connection with an application for a deposit facility.
 - **(c)** A regulated financial institution described in subsection (a) may be subject to more frequent or less frequent examinations for reasonable cause under such circumstances as may be determined by the appropriate Federal financial supervisory agency.
+
+## Source Credit
+
+*([Pub. L. 95–128, title VIII, § 809](https://www.govinfo.gov/link/plaw/95/public/128), as added [Pub. L. 106–102, title VII, § 712](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1469](https://www.govinfo.gov/link/statute/113/1469).)*

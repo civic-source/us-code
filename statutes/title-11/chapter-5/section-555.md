@@ -3,12 +3,17 @@ title: "Section 555 - Contractual right to liquidate, terminate, or accelerate a
 usc_title: 11
 usc_section: "555"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 555"
-generated_at: "2026-03-30T02:53:53.879Z"
+generated_at: "2026-11-23T21:25:34.931Z"
+status: "active"
 ---
 
 # § 555. Contractual right to liquidate, terminate, or accelerate a securities contract
 
 The exercise of a contractual right of a stockbroker, financial institution, financial participant, or securities clearing agency to cause the liquidation, termination, or acceleration of a securities contract, as defined in section 741 of this title , because of a condition of the kind specified in section 365(e)(1) of this title shall not be stayed, avoided, or otherwise limited by operation of any provision of this title or by order of a court or administrative agency in any proceeding under this title unless such order is authorized under the provisions of the Securities Investor Protection Act of 1970 or any statute administered by the Securities and Exchange Commission. As used in this section, the term “contractual right” includes a right set forth in a rule or bylaw of a derivatives clearing organization (as defined in the Commodity Exchange Act), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991), a national securities exchange, a national securities association, a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act), or in a resolution of the governing board thereof, and a right, whether or not in writing, arising under common law, under law merchant, or by reason of normal business practice.
 
+
+## Source Credit
+
+*(Added [Pub. L. 97–222, § 6(a)](https://www.govinfo.gov/link/plaw/97/public/222), July 27, 1982, [96 Stat. 236](https://www.govinfo.gov/link/statute/96/236); amended [Pub. L. 98–353, title III, § 469](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 380](https://www.govinfo.gov/link/statute/98/380); [Pub. L. 103–394, title V, § 501(b)(6)](https://www.govinfo.gov/link/plaw/103/public/394), (d)(20), Oct. 22, 1994, [108 Stat. 4143](https://www.govinfo.gov/link/statute/108/4143), 4146; [Pub. L. 109–8, title IX, § 907(g)](https://www.govinfo.gov/link/plaw/109/public/8), (o)(7), Apr. 20, 2005, [119 Stat. 177](https://www.govinfo.gov/link/statute/119/177), 182.)*

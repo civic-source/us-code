@@ -3,9 +3,10 @@ title: "Section 5705 - Credit, refund, or allowance of tax"
 usc_title: 26
 usc_section: "5705"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5705"
-generated_at: "2026-03-30T02:55:27.825Z"
+generated_at: "2026-11-23T21:26:06.740Z"
+status: "active"
 ---
 
 # § 5705. Credit, refund, or allowance of tax
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:27.825Z"
 - **(a)** Credit or refund of any tax imposed by this chapter or section 7652 shall be allowed or made (without interest) to the manufacturer, importer, or export warehouse proprietor, on proof satisfactory to the Secretary that the claimant manufacturer, importer, or export warehouse proprietor has paid the tax on tobacco products and cigarette papers and tubes withdrawn by him from the market; or on such articles lost (otherwise than by theft) or destroyed, by fire, casualty, or act of God, while in the possession of ownership of the claimant.
 - **(b)** If the tax has not yet been paid on tobacco products and cigarette papers and tubes provided to have been withdrawn from the market or lost or destroyed as aforesaid, relief from the tax on such articles may be extended upon the filing of a claim for allowance therefor in accordance with such regulations as the Secretary shall prescribe.
 - **(c)** Any claim for credit or refund of tax under this section shall be filed within 6 months after the date of the withdrawal from the market, loss, or destruction of the articles to which the claim relates, and shall be in such form and contain such information as the Secretary shall by regulations prescribe.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 709; [Pub. L. 85–859, title II, § 202](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1419](https://www.govinfo.gov/link/statute/72/1419); [Pub. L. 89–44, title VIII, § 808(b)(1)](https://www.govinfo.gov/link/plaw/89/public/44), (2), (c)(1), June 21, 1965, [79 Stat. 164](https://www.govinfo.gov/link/statute/79/164), 165; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834).)*

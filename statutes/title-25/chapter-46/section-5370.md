@@ -3,9 +3,10 @@ title: "Section 5370 - Discretionary application of other sections"
 usc_title: 25
 usc_section: "5370"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5370"
-generated_at: "2026-03-30T02:54:52.869Z"
+generated_at: "2026-11-23T21:25:54.731Z"
+status: "active"
 ---
 
 # § 5370. Discretionary application of other sections
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:52.869Z"
 - **(c)** If an Indian Tribe requests incorporation at the negotiation stage of a compact or funding agreement, the incorporation shall—
   - **(1)** be effective immediately; and
   - **(2)** control the negotiation and resulting compact and funding agreement.
+
+## Source Credit
+
+*([Pub. L. 93–638, title IV, § 410](https://www.govinfo.gov/link/plaw/93/public/638), as added [Pub. L. 116–180, title I, § 101(e)](https://www.govinfo.gov/link/plaw/116/public/180), Oct. 21, 2020, [134 Stat. 875](https://www.govinfo.gov/link/statute/134/875).)*

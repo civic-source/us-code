@@ -3,9 +3,10 @@ title: "Section 1 - Mission of United States Information Agency"
 usc_title: 22
 usc_section: "1"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1"
-generated_at: "2026-03-30T02:55:05.332Z"
+generated_at: "2026-11-23T21:25:58.397Z"
+status: "active"
 ---
 
 # § 1461–1. Mission of United States Information Agency
@@ -19,3 +20,7 @@ The mission of the United States Information Agency shall be to further the nati
   - **(3)** coordinate international informational, educational, or cultural activities conducted or planned by departments and agencies of the United States Government;
   - **(4)** assist in the development of a comprehensive national policy on international communications; and
   - **(5)** promote United States participation in international events relevant to the mission of the Agency.
+
+## Source Credit
+
+*([Pub. L. 95–426, title II, § 202](https://www.govinfo.gov/link/plaw/95/public/426), Oct. 7, 1978, [92 Stat. 972](https://www.govinfo.gov/link/statute/92/972); [Pub. L. 97–241, title III, § 303(b)](https://www.govinfo.gov/link/plaw/97/public/241), Aug. 24, 1982, [96 Stat. 291](https://www.govinfo.gov/link/statute/96/291).)*

@@ -3,9 +3,10 @@ title: "Section 830 - Regulation of listed chemicals and certain machines"
 usc_title: 21
 usc_section: "830"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 830"
-generated_at: "2026-03-30T02:54:54.294Z"
+generated_at: "2026-11-23T21:25:56.238Z"
+status: "active"
 ---
 
 # § 830. Regulation of listed chemicals and certain machines
@@ -98,3 +99,21 @@ generated_at: "2026-03-30T02:54:54.294Z"
     - **(B)** The person may not sell more than 7.5 grams of ephedrine base, pseudoephedrine base, or phenylpropanolamine base in such products per customer during a 30-day period.
     - **(C)** Each regulated person who makes a sale at retail of a scheduled listed chemical product and is required under subsection (b)(3) to submit a report of the sales transaction to the Attorney General may not sell any scheduled listed chemical product at retail unless such regulated person has submitted to the Attorney General a self-certification including a statement that the seller understands each of the requirements that apply under this paragraph and under subsection (d) and agrees to comply with the requirements. The Attorney General shall by regulation establish criteria for certifications of mail-order distributors that are consistent with the criteria established for the certifications of regulated sellers under paragraph (1)(B).
   - **(3)** Upon the application of a manufacturer of a scheduled listed chemical product, the Attorney General may by regulation provide that the product is exempt from the provisions of subsection (d) and paragraphs (1) and (2) of this subsection if the Attorney General determines that the product cannot be used in the illicit manufacture of methamphetamine.
+
+Mail order reporting
+
+(aa) presents an identification card that provides a photograph and is issued by a State or the Federal Government, or a document that, with respect to identification, is considered acceptable for purposes of sections 274a.2(b)(1)(v)(A) and 274a.2(b)(1)(v)(B) of title 8, Code of Federal Regulations (as in effect on or after March 9, 2006 ); and
+
+(bb) signs the written logbook and enters in the logbook his or her name, address, and the date and time of the sale, or for transactions involving an electronic logbook, the purchaser provides a signature using one of the following means: (AA) Signing a device presented by the seller that captures signatures in an electronic format. Such device shall display the notice described in clause (v). Any device used shall preserve each signature in a manner that clearly links that signature to the other electronically-captured logbook information relating to the prospective purchaser providing that signature. (BB) Signing a bound paper book. Such bound paper book shall include, for such purchaser, either (aaa) a printed sticker affixed to the bound paper book at the time of sale which either displays the name of each product sold, the quantity sold, the name and address of the purchaser, and the date and time of the sale, or a unique identifier which can be linked to that electronic information, or (bbb) a unique identifier which can be linked to that information and which is written into the book by the seller at the time of sale. The purchaser shall sign adjacent to the printed sticker or written unique identifier related to that sale. Such bound paper book shall display the notice described in clause (v). (CC) Signing a printed document that includes, for such purchaser, the name of each product sold, the quantity sold, the name and address of the purchaser, and the date and time of the sale. Such document shall be printed by the seller at the time of the sale. Such document shall contain a clearly identified signature line for a purchaser to sign. Such printed document shall display the notice described in clause (v). Each signed document shall be inserted into a binder or other secure means of document storage immediately after the purchaser signs the document.
+
+(aa) If the purchaser enters the information, the seller must determine that the name entered in the logbook corresponds to the name provided on such identification and that the date and time entered are correct.
+
+(bb) If the seller enters the information, the prospective purchaser must verify that the information is correct.
+
+(cc) Such information may be captured through electronic means, including through electronic data capture through bar code reader or similar technology.
+
+“With respect to subsections (d) and (e)(1) of section 310 of the Controlled Substances Act [ 21 U.S.C. 830(d) , (e)(1)], as added by paragraph (1) of this subsection:
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 310](https://www.govinfo.gov/link/plaw/91/public/513), as added [Pub. L. 95–633, title II, § 202(a)](https://www.govinfo.gov/link/plaw/95/public/633), Nov. 10, 1978, [92 Stat. 3774](https://www.govinfo.gov/link/statute/92/3774); amended [Pub. L. 100–690, title VI, § 6052(a)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4312](https://www.govinfo.gov/link/statute/102/4312); [Pub. L. 103–200](https://www.govinfo.gov/link/plaw/103/public/200), §§ 2(c), 10, Dec. 17, 1993, [107 Stat. 2336](https://www.govinfo.gov/link/statute/107/2336), 2341; [Pub. L. 104–237, title II, § 208](https://www.govinfo.gov/link/plaw/104/public/237), title IV, § 402, Oct. 3, 1996, [110 Stat. 3104](https://www.govinfo.gov/link/statute/110/3104), 3111; [Pub. L. 106–310, div. B, title XXXVI, § 3652](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1239](https://www.govinfo.gov/link/statute/114/1239); [Pub. L. 109–177, title VII](https://www.govinfo.gov/link/plaw/109/public/177), §§ 711(a)(2)(B), (b)(1), (c)(1), (2), (d), 716(b)(2), Mar. 9, 2006, [120 Stat. 257](https://www.govinfo.gov/link/statute/120/257), 261, 267; [Pub. L. 110–415, § 2](https://www.govinfo.gov/link/plaw/110/public/415), Oct. 14, 2008, [122 Stat. 4349](https://www.govinfo.gov/link/statute/122/4349); [Pub. L. 111–268](https://www.govinfo.gov/link/plaw/111/public/268), §§ 2, 3, Oct. 12, 2010, [124 Stat. 2847](https://www.govinfo.gov/link/statute/124/2847).)*

@@ -3,9 +3,10 @@ title: "Section 147 - Other requirements applicable to certain private activity 
 usc_title: 26
 usc_section: "147"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 147"
-generated_at: "2026-03-30T02:55:27.634Z"
+generated_at: "2026-11-23T21:26:06.031Z"
+status: "active"
 ---
 
 # § 147. Other requirements applicable to certain private activity bonds
@@ -117,3 +118,7 @@ generated_at: "2026-03-30T02:55:27.634Z"
   - **(1)** Subsections (a), (b), (c), and (d) shall not apply to any qualified mortgage bond, qualified veterans’ mortgage bond, or qualified student loan bond.
   - **(2)** Subsections (a), (c), and (d) shall not apply to any qualified 501(c)(3) bond and subsection (e) shall be applied as if it did not contain “health club facility” with respect to such a bond.
   - **(3)** Subsection (c) shall not apply to any exempt facility bond issued as part of an issue described in section 142(a)(13) (relating to qualified public educational facilities).
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XIII, § 1301(b)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2635](https://www.govinfo.gov/link/statute/100/2635); amended [Pub. L. 100–647, title I, § 1013(a)(11)](https://www.govinfo.gov/link/plaw/100/public/647) –(13)(B), (29), (36), title VI, § 6180(b)(4), (5), Nov. 10, 1988, [102 Stat. 3539](https://www.govinfo.gov/link/statute/102/3539), 3543, 3544, 3728; [Pub. L. 101–239, title VII, § 7816(s)(3)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2423](https://www.govinfo.gov/link/statute/103/2423); [Pub. L. 101–508, title XI, § 11813(b)(8)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–552](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 104–188, title I, § 1117(a)](https://www.govinfo.gov/link/plaw/104/public/188), (b), Aug. 20, 1996, [110 Stat. 1764](https://www.govinfo.gov/link/statute/110/1764); [Pub. L. 107–16, title IV, § 422(d)](https://www.govinfo.gov/link/plaw/107/public/16), (e), June 7, 2001, [115 Stat. 66](https://www.govinfo.gov/link/statute/115/66); [Pub. L. 110–234, title XV, § 15341(a)](https://www.govinfo.gov/link/plaw/110/public/234) –(d), May 22, 2008, [122 Stat. 1517](https://www.govinfo.gov/link/statute/122/1517); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XV, § 15341(a)–(d), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2279; [Pub. L. 112–95, title XI, § 1105(a)](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 152](https://www.govinfo.gov/link/statute/126/152); [Pub. L. 115–97, title I, § 11002(d)(1)(P)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2060](https://www.govinfo.gov/link/statute/131/2060).)*

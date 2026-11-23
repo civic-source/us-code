@@ -3,9 +3,10 @@ title: "Section 2705 - Coordinating and consulting requirements and authorities 
 usc_title: 15
 usc_section: "2705"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2705"
-generated_at: "2026-03-30T02:54:08.183Z"
+generated_at: "2026-11-23T21:25:39.953Z"
+status: "active"
 ---
 
 # § 2705. Coordinating and consulting requirements and authorities of Secretary of Energy
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.183Z"
 - **(c)** The Secretary of Energy may, in accordance with subsection (a), obtain the assistance of any department, agency, or instrumentality of the executive branch of the Federal Government upon written request, on a reimbursable basis or otherwise and with the consent of such department, agency, or instrumentality. Each such request shall identify the assistance the Secretary of Energy deems necessary to carry out any duty under this chapter.
 - **(d)** The Secretary of Energy shall consult with the Administrator of the Environmental Protection Agency and the Secretary of Transportation, and shall establish procedures for periodic consultation with representatives of science, industry, and such other groups as may have special expertise in the area of automobile propulsion system research, development, and technology. The Secretary of Energy may establish such advisory panels as he deems appropriate to review and make recommendations with respect to applications for funding under this chapter.
 - **(e)** Nothing contained in this chapter shall be construed to reduce in any way the responsibilities of the Secretary of Energy for automotive research, development, and demonstration under the Energy Reorganization Act of 1974 ( 42 U.S.C. 5801 et seq.) and the Federal Nonnuclear Energy Research and Development Act of 1974 ( 42 U.S.C. 5901 et seq.).
+
+## Source Credit
+
+*([Pub. L. 95–238, title III, § 306](https://www.govinfo.gov/link/plaw/95/public/238), Feb. 25, 1978, [92 Stat. 81](https://www.govinfo.gov/link/statute/92/81).)*

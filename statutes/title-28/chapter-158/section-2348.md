@@ -3,12 +3,30 @@ title: "Section 2348 - Representation in proceeding; intervention"
 usc_title: 28
 usc_section: "2348"
 chapter: 158
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 2348"
-generated_at: "2026-03-30T02:55:30.148Z"
+generated_at: "2026-11-23T21:26:01.125Z"
+status: "active"
 ---
 
 # § 2348. Representation in proceeding; intervention
 
 The Attorney General is responsible for and has control of the interests of the Government in all court proceedings under this chapter. The agency, and any party in interest in the proceeding before the agency whose interests will be affected if an order of the agency is or is not enjoined, set aside, or suspended, may appear as parties thereto of their own motion and as of right, and be represented by counsel in any proceeding to review the order. Communities, associations, corporations, firms, and individuals, whose interests are affected by the order of the agency, may intervene in any proceeding to review the order. The Attorney General may not dispose of or discontinue the proceeding to review over the objection of any party or intervenor, but any intervenor may prosecute, defend, or continue the proceeding unaffected by the action or inaction of the Attorney General.
 
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 1038 . | Dec. 29, 1950, ch. 1189, § 8 , 64 Stat. 1131 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 1038
+
+Dec. 29, 1950, ch. 1189, § 8
+
+64 Stat. 1131
+
+## Source Credit
+
+*(Added [Pub. L. 89–554, § 4(e)](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 623](https://www.govinfo.gov/link/statute/80/623).)*

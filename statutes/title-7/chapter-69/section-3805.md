@@ -3,9 +3,10 @@ title: "Section 3805 - Civil penalties"
 usc_title: 7
 usc_section: "3805"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3805"
-generated_at: "2026-03-30T02:53:42.404Z"
+generated_at: "2026-11-23T21:25:28.339Z"
+status: "active"
 ---
 
 # § 3805. Civil penalties
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:42.404Z"
 - **(c)** If any person fails to pay a civil penalty under a final order of the Secretary, the Secretary shall refer the matter to the Attorney General, who shall institute a civil action to recover the amount assessed in any appropriate district court of the United States. In such collection action, the validity and appropriateness of the Secretary’s order imposing the civil penalty shall not be subject to review.
 - **(d)** All penalties collected under authority of this section shall be paid into the Treasury of the United States.
 - **(e)** The Secretary may, in his discretion, compromise, modify, or remit, with or without conditions, any civil penalty assessed under this chapter.
+
+## Source Credit
+
+*([Pub. L. 96–468, § 6](https://www.govinfo.gov/link/plaw/96/public/468), Oct. 17, 1980, [94 Stat. 2231](https://www.govinfo.gov/link/statute/94/2231).)*

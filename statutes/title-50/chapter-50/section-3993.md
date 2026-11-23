@@ -3,9 +3,10 @@ title: "Section 3993 - Desert-land entries"
 usc_title: 50
 usc_section: "3993"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3993"
-generated_at: "2026-03-30T02:56:26.264Z"
+generated_at: "2026-11-23T21:26:39.082Z"
+status: "active"
 ---
 
 # § 3993. Desert-land entries
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:26.264Z"
   - **(3)** during any period of hospitalization or rehabilitation due to an injury or disability incurred in the line of duty.
 - **(b)** If an entryman or claimant is honorably discharged and is unable to accomplish reclamation of, and payment for, desert land due to a disability incurred in the line of duty, the entryman or claimant may make proof without further reclamation or payments, under regulations prescribed by the Secretary of the Interior, and receive a patent for the land entered or claimed.
 - **(c)** In order to obtain the protection of this section, the entryman or claimant shall, within 180 days after entry into military service, cause to be filed in the land office of the district where the claim is situated a notice communicating the fact of military service and the desire to hold the claim under this section.
+
+## Source Credit
+
+*(Oct. 17, 1940, ch. 888, title V, § 503, as added [Pub. L. 108–189, § 1](https://www.govinfo.gov/link/plaw/108/public/189), Dec. 19, 2003, [117 Stat. 2856](https://www.govinfo.gov/link/statute/117/2856).)*

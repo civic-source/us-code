@@ -3,9 +3,10 @@ title: "Section 11825 - Review of applications"
 usc_title: 42
 usc_section: "11825"
 chapter: 123
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11825"
-generated_at: "2026-03-30T02:56:11.406Z"
+generated_at: "2026-11-23T21:26:33.442Z"
+status: "active"
 ---
 
 # § 11825. Review of applications
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.406Z"
     - **(C)** describing the procedures applicable to submitting and reviewing applications for such funds.
   - **(2)** As part of such process, each application referred to in subsection (a) shall be subject to peer review by individuals (excluding officers and employees of the Department of Justice and the Department of Health and Human Services) who have expertise in the subject matter related to the project or activity proposed in such application.
 - **(c)** The appropriate Federal officer shall expedite the consideration of an application referred to in subsection (a) if the applicant demonstrates, to the satisfaction of the 1 1 So in original. The word “the” probably should not appear. such officer, that the failure to expedite such consideration would prevent the effective implementation of the project or activity set forth in such application.
+
+## Source Credit
+
+*([Pub. L. 100–690, title III, § 3515](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4257](https://www.govinfo.gov/link/statute/102/4257); [Pub. L. 101–204, title X, § 1001(b)](https://www.govinfo.gov/link/plaw/101/public/204), Dec. 7, 1989, [103 Stat. 1826](https://www.govinfo.gov/link/statute/103/1826).)*

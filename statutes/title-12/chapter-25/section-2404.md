@@ -3,9 +3,10 @@ title: "Section 2404 - Powers of Commission"
 usc_title: 12
 usc_section: "2404"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2404"
-generated_at: "2026-03-30T02:53:53.485Z"
+generated_at: "2026-11-23T21:25:37.101Z"
+status: "active"
 ---
 
 # § 2404. Powers of Commission
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.485Z"
   - **(2)** If a person issued a subpena under paragraph (1) refuses to obey such subpena or is guilty of contumacy, any court of the United States within the judicial district within which the hearing is conducted or within the judicial district within which such person is found or resides or transacts business may (upon application by the Commission) order such person to appear before the Commission to produce evidence or to give testimony touching the matter under investigation. Any failure to obey such order of the court may be punished by such court as a contempt thereof.
   - **(3)** The subpenas of the Commission shall be served in the manner provided for subpenas issued by a United States district court under the Federal Rules of Civil Procedure for the United States district courts.
   - **(4)** All process of any court to which application may be made under this section may be served in the judicial district wherein the person required to be served resides or may be found.
+
+## Source Credit
+
+*([Pub. L. 93–495, title II, § 204](https://www.govinfo.gov/link/plaw/93/public/495), Oct. 28, 1974, [88 Stat. 1509](https://www.govinfo.gov/link/statute/88/1509).)*

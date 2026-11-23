@@ -3,9 +3,10 @@ title: "Section 7401 - Congressional findings and declaration of purpose"
 usc_title: 42
 usc_section: "7401"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7401"
-generated_at: "2026-03-30T02:56:11.293Z"
+generated_at: "2026-11-23T21:26:33.074Z"
+status: "active"
 ---
 
 # § 7401. Congressional findings and declaration of purpose
@@ -21,3 +22,35 @@ generated_at: "2026-03-30T02:56:11.293Z"
   - **(3)** to provide technical and financial assistance to State and local governments in connection with the development and execution of their air pollution prevention and control programs; and
   - **(4)** to encourage and assist the development and operation of regional air pollution prevention and control programs.
 - **(c)** A primary goal of this chapter is to encourage or otherwise promote reasonable Federal, State, and local governmental actions, consistent with the provisions of this chapter, for pollution prevention.
+
+National assessment of radon gas
+
+Radon mitigation demonstration program.—
+
+Demonstration program
+
+Liability
+
+Construction of section
+
+Establishment of program
+
+Technology transfer
+
+Contracts and grants
+
+Use of site
+
+Design of Program
+
+Program Requirements
+
+Advisory Committees
+
+Implementation Plan
+
+Report
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 101, formerly § 1, as added [Pub. L. 88–206, § 1](https://www.govinfo.gov/link/plaw/88/public/206), Dec. 17, 1963, [77 Stat. 392](https://www.govinfo.gov/link/statute/77/392); renumbered § 101 and amended [Pub. L. 89–272, title I, § 101(2)](https://www.govinfo.gov/link/plaw/89/public/272), (3), Oct. 20, 1965, [79 Stat. 992](https://www.govinfo.gov/link/statute/79/992); [Pub. L. 90–148, § 2](https://www.govinfo.gov/link/plaw/90/public/148), Nov. 21, 1967, [81 Stat. 485](https://www.govinfo.gov/link/statute/81/485); [Pub. L. 101–549, title I, § 108(k)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2468](https://www.govinfo.gov/link/statute/104/2468).)*

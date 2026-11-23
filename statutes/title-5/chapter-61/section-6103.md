@@ -3,9 +3,10 @@ title: "Section 6103 - Holidays"
 usc_title: 5
 usc_section: "6103"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 6103"
-generated_at: "2026-03-30T02:52:56.029Z"
+generated_at: "2026-11-23T21:25:23.312Z"
+status: "active"
 ---
 
 # § 6103. Holidays
@@ -23,3 +24,81 @@ generated_at: "2026-03-30T02:52:56.029Z"
     - **(A)** the term “compressed schedule” has the meaning given such term by section 6121(5); and
     - **(B)** the term “adverse agency impact” has the meaning given such term by section 6131(b).
   - **(2)** An agency may prescribe rules under which employees on a compressed schedule may, in the case of a holiday that occurs on a regularly scheduled non-workday for such employees, and notwithstanding any other provision of law or the terms of any collective bargaining agreement, be required to observe such holiday on a workday other than as provided by subsection (b), if the agency head determines that it is necessary to do so in order to prevent an adverse agency impact.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| (a) | 5 U.S.C. 87 . | June 28, 1894, ch. 118 , 28 Stat. 96 . |
+|  | 5 U.S.C. 87a . | May 13, 1938, ch. 210 , 52 Stat. 351 . |
+|  |  | June 1, 1954, ch. 250 , 68 Stat. 168 . |
+|  | 5 U.S.C. 87b . | Dec. 26, 1941, ch. 631 , 55 Stat. 862 . |
+| (b) | 5 U.S.C. 87c . | Sept. 22, 1959 , Pub. L. 86–362 , §§ 1, 2, 73 Stat. 643 , 644. |
+| (c) | [Uncodified]. | Jan. 11, 1957 , Pub. L. 85–1 , 71 Stat. 3 . |
+
+
+Historical and Revision Notes
+
+(a)
+
+5 U.S.C. 87
+
+June 28, 1894, ch. 118
+
+28 Stat. 96
+
+5 U.S.C. 87a
+
+May 13, 1938, ch. 210
+
+52 Stat. 351
+
+June 1, 1954, ch. 250
+
+68 Stat. 168
+
+5 U.S.C. 87b
+
+Dec. 26, 1941, ch. 631
+
+55 Stat. 862
+
+(b)
+
+5 U.S.C. 87c
+
+Sept. 22, 1959
+
+Pub. L. 86–362
+
+73 Stat. 643
+
+(c)
+
+Jan. 11, 1957
+
+Pub. L. 85–1
+
+71 Stat. 3
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Richard Nixon.
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 515](https://www.govinfo.gov/link/statute/80/515); [Pub. L. 90–363, § 1(a)](https://www.govinfo.gov/link/plaw/90/public/363), June 28, 1968, [82 Stat. 250](https://www.govinfo.gov/link/statute/82/250); [Pub. L. 94–97](https://www.govinfo.gov/link/plaw/94/public/97), Sept. 18, 1975, [89 Stat. 479](https://www.govinfo.gov/link/statute/89/479); [Pub. L. 98–144, § 1](https://www.govinfo.gov/link/plaw/98/public/144), Nov. 2, 1983, [97 Stat. 917](https://www.govinfo.gov/link/statute/97/917); [Pub. L. 104–201, div. A, title XVI, § 1613](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2739](https://www.govinfo.gov/link/statute/110/2739); [Pub. L. 105–261, div. A, title XI, § 1107](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2142](https://www.govinfo.gov/link/statute/112/2142); [Pub. L. 117–17, § 2](https://www.govinfo.gov/link/plaw/117/public/17), June 17, 2021, [135 Stat. 287](https://www.govinfo.gov/link/statute/135/287).)*

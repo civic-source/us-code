@@ -3,9 +3,10 @@ title: "Section 618 - Promulgation of charges for electrical energy"
 usc_title: 43
 usc_section: "618"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 618"
-generated_at: "2026-03-30T02:55:57.457Z"
+generated_at: "2026-11-23T21:26:19.797Z"
+status: "active"
 ---
 
 # § 618. Promulgation of charges for electrical energy
@@ -17,3 +18,7 @@ The Secretary of the Interior is authorized and directed to, and he shall, promu
 - **(c)** To provide $600,000 for each of the years and for the purposes specified in section 618a(c) of this title ;
 - **(d)** To provide $500,000 for each of the years and for the purposes specified in section 618a(d) of this title ; and
 - **(e)** To provide, by application of the increments to rates specified in section 403(c)(2) of the Colorado River Basin Project Act of 1968, as amended and supplemented [ 43 U.S.C. 1543(c)(2) ], revenues, from and after June 1, 1987 , for application to the purposes there specified. Such charges may be made subject to revisions and adjustments at such times, to such extent, and in such manner, as by the terms of their promulgation the Secretary shall prescribe.
+
+## Source Credit
+
+*(July 19, 1940, ch. 643, § 1, [54 Stat. 774](https://www.govinfo.gov/link/statute/54/774); Apr. 30, 1947, ch. 46, [61 Stat. 56](https://www.govinfo.gov/link/statute/61/56); [Pub. L. 98–381, title I, § 104(a)(1)](https://www.govinfo.gov/link/plaw/98/public/381) –(3), Aug. 17, 1984, [98 Stat. 1334](https://www.govinfo.gov/link/statute/98/1334).)*

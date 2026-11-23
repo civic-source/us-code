@@ -3,9 +3,10 @@ title: "Section 6202 - Content, form, and data for report"
 usc_title: 31
 usc_section: "6202"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 6202"
-generated_at: "2026-03-30T02:55:34.072Z"
+generated_at: "2026-11-23T21:26:10.637Z"
+status: "active"
 ---
 
 # § 6202. Content, form, and data for report
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:34.072Z"
   - **(11)** the appropriate data files of the National Railroad Passenger Corporation; and
   - **(12)** the payroll file of the Federal Bureau of Investigation.
 - **(d)** For the purposes of subsection (b), the general categories of Federal funds presented in each report required by subsection (a) shall include data with respect to grants, loans, purchases and contracts, cooperative agreements, direct Federal payments to individuals, pay of civilian employees of the Government, military pay, annuities, retirement pay, pensions, and disability compensation.
+
+## Source Credit
+
+*(Added [Pub. L. 99–547, § 2(a)](https://www.govinfo.gov/link/plaw/99/public/547), Oct. 27, 1986, [100 Stat. 3057](https://www.govinfo.gov/link/statute/100/3057); amended [Pub. L. 103–272, § 4(f)(1)(T)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1362](https://www.govinfo.gov/link/statute/108/1362); [Pub. L. 109–435, title VI, § 604(f)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3242](https://www.govinfo.gov/link/statute/120/3242); [Pub. L. 111–350, § 5(h)(9)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3849](https://www.govinfo.gov/link/statute/124/3849).)*

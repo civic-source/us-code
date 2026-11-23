@@ -3,9 +3,10 @@ title: "Section 0 - National Mental Health and Substance Use Policy Laboratory"
 usc_title: 42
 usc_section: "0"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 0"
-generated_at: "2026-03-30T02:56:10.756Z"
+generated_at: "2026-11-23T21:26:30.545Z"
+status: "active"
 ---
 
 # § 290aa–0. National Mental Health and Substance Use Policy Laboratory
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:56:10.756Z"
       - **(ii)** integrating such evidence-based programs into models of care across specialties and jurisdictions.
   - **(2)** In awarding grants under this subsection, the Assistant Secretary shall, as appropriate, consult with the Chief Medical Officer, appointed under section 290aa(g) of this title , the advisory councils described in section 290aa–1 of this title , the National Institute of Mental Health, the National Institute on Drug Abuse, and the National Institute on Alcohol Abuse and Alcoholism, as appropriate.
 - **(f)** To carry out this section, there is authorized to be appropriated $10,000,000 for each of fiscal years 2023 through 2027.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title V, § 501A, as added [Pub. L. 114–255, div. B, title VII, § 7001](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1220](https://www.govinfo.gov/link/statute/130/1220); amended [Pub. L. 115–271, title VII, § 7111](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 4042](https://www.govinfo.gov/link/statute/132/4042); [Pub. L. 117–328, div. FF, title I, § 1121(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5647](https://www.govinfo.gov/link/statute/136/5647).)*

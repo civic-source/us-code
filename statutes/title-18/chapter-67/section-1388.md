@@ -3,9 +3,10 @@ title: "Section 1388 - Prohibition on disruptions of funerals of members or form
 usc_title: 18
 usc_section: "1388"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1388"
-generated_at: "2026-03-30T02:54:16.484Z"
+generated_at: "2026-11-23T21:25:44.061Z"
+status: "active"
 ---
 
 # § 1388. Prohibition on disruptions of funerals of members or former members of the Armed Forces
@@ -45,3 +46,39 @@ generated_at: "2026-03-30T02:54:16.484Z"
 - **(f)** In this section—
   - **(1)** the term “Armed Forces” has the meaning given the term in section 101 of title 10 and includes members and former members of the National Guard who were employed in the service of the United States; and
   - **(2)** the term “immediate family” means, with respect to a person, the immediate family members of such person, as such term is defined in section 115 of this title .
+
+Prohibition
+
+Penalty
+
+Civil Remedies.—
+
+District courts
+
+Attorney general
+
+Claims
+
+Estoppel
+
+Actual and Statutory Damages.—
+
+In general
+
+Actions by private persons
+
+Actions by attorney general
+
+Statutory damages
+
+Rebuttable Presumption
+
+Definitions
+
+Purpose
+
+Constitutional authority
+
+## Source Credit
+
+*(Added [Pub. L. 109–464, § 1(a)](https://www.govinfo.gov/link/plaw/109/public/464), Dec. 22, 2006, [120 Stat. 3480](https://www.govinfo.gov/link/statute/120/3480); amended [Pub. L. 112–154, title VI, § 601(b)](https://www.govinfo.gov/link/plaw/112/public/154), Aug. 6, 2012, [126 Stat. 1196](https://www.govinfo.gov/link/statute/126/1196).)*

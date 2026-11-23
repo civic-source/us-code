@@ -3,9 +3,10 @@ title: "Section 781 - Authority over the General Accounting Office Building"
 usc_title: 31
 usc_section: "781"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 781"
-generated_at: "2026-03-30T02:55:34.048Z"
+generated_at: "2026-11-23T21:26:10.535Z"
+status: "active"
 ---
 
 # § 781. Authority over the General Accounting Office Building
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:55:34.048Z"
   - **(1)** The Comptroller General is authorized to enter into agreements or contracts to acquire property or services on such terms and conditions and in such a manner as he deems necessary and without regard to section 6101(b) to (d) of title 41; except that the Comptroller General may not acquire real property unless specifically authorized by law. In exercising the authority granted by this section, the Comptroller General shall obtain full and open competition in accordance with the principles and purposes of the Competition in Contracting Act of 1984.
   - **(2)** To the extent that funds are otherwise available for obligation, agreements or contracts for utility services may be made for periods not exceeding 10 years.
   - **(3)** The Comptroller General may make advance, progress, and other payments which relate to agreements or contracts entered into under authority of this section, without regard to the provisions of section 3324(a) and (b) of this title.
+
+Reimbursements
+
+Amount
+
+## Source Credit
+
+*(Added [Pub. L. 100–545, § 1](https://www.govinfo.gov/link/plaw/100/public/545), Oct. 28, 1988, [102 Stat. 2727](https://www.govinfo.gov/link/statute/102/2727); amended [Pub. L. 107–217, § 3(h)(1)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1299](https://www.govinfo.gov/link/statute/116/1299); [Pub. L. 111–350, § 5(h)(3)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3849](https://www.govinfo.gov/link/statute/124/3849).)*

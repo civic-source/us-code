@@ -3,9 +3,10 @@ title: "Section 1298 - Special rules"
 usc_title: 26
 usc_section: "1298"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1298"
-generated_at: "2026-03-30T02:55:27.768Z"
+generated_at: "2026-11-23T21:26:06.490Z"
+status: "active"
 ---
 
 # § 1298. Special rules
@@ -71,3 +72,7 @@ generated_at: "2026-03-30T02:55:27.768Z"
   - **(3)** For purposes of this subsection, the term “controlled foreign corporation” has the meaning given such term by section 957(a).
 - **(f)** Except as otherwise provided by the Secretary, each United States person who is a shareholder of a passive foreign investment company shall file an annual report containing such information as the Secretary may require.
 - **(g)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this part.
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XII, § 1235(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2573](https://www.govinfo.gov/link/statute/100/2573), § 1297; amended [Pub. L. 100–647, title I, § 1012(p)(10)](https://www.govinfo.gov/link/plaw/100/public/647), (17), (20), (22), (24), (35), (36), Nov. 10, 1988, [102 Stat. 3517–3519](https://www.govinfo.gov/link/statute/102/3517), 3522; [Pub. L. 101–239, title VII, § 7811(i)(4)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2410](https://www.govinfo.gov/link/statute/103/2410); [Pub. L. 103–66, title XIII, § 13231(d)(2)](https://www.govinfo.gov/link/plaw/103/public/66), (4), Aug. 10, 1993, [107 Stat. 499](https://www.govinfo.gov/link/statute/107/499); [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1501(b)(10), (11), 1703(i)(5), (6), Aug. 20, 1996, [110 Stat. 1826](https://www.govinfo.gov/link/statute/110/1826), 1876; renumbered § 1298 and amended [Pub. L. 105–34, title XI, § 1122(a)](https://www.govinfo.gov/link/plaw/105/public/34), (e), Aug. 5, 1997, [111 Stat. 972](https://www.govinfo.gov/link/statute/111/972), 977; [Pub. L. 105–206, title VI, § 6011(b)(2)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 818](https://www.govinfo.gov/link/statute/112/818); [Pub. L. 110–172, § 11(a)(24)(C)](https://www.govinfo.gov/link/plaw/110/public/172), (f)(2), Dec. 29, 2007, [121 Stat. 2487](https://www.govinfo.gov/link/statute/121/2487), 2489; [Pub. L. 111–147, title V, § 521(a)](https://www.govinfo.gov/link/plaw/111/public/147), Mar. 18, 2010, [124 Stat. 112](https://www.govinfo.gov/link/statute/124/112); [Pub. L. 115–141, div. U, title IV, § 401(a)(184)](https://www.govinfo.gov/link/plaw/115/public/141) –(186), (d)(1)(D)(viii)(III), Mar. 23, 2018, [132 Stat. 1193](https://www.govinfo.gov/link/statute/132/1193), 1207.)*

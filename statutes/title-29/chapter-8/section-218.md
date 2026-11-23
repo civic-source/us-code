@@ -3,9 +3,10 @@ title: "Section 218 - Relation to other laws"
 usc_title: 29
 usc_section: "218"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 218"
-generated_at: "2026-03-30T02:55:18.682Z"
+generated_at: "2026-11-23T21:26:02.178Z"
+status: "active"
 ---
 
 # § 218. Relation to other laws
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:18.682Z"
 - **(b)** Notwithstanding any other provision of this chapter (other than section 213(f) of this title ) or any other law—
   - **(1)** any Federal employee in the Canal Zone engaged in employment of the kind described in section 5102(c)(7) of title 5 , or
   - **(2)** any employee employed in a nonappropriated fund instrumentality under the jurisdiction of the Armed Forces,
+
+## Source Credit
+
+*(June 25, 1938, ch. 676, § 18, [52 Stat. 1069](https://www.govinfo.gov/link/statute/52/1069); [Pub. L. 89–601, title III, § 306](https://www.govinfo.gov/link/plaw/89/public/601), Sept. 23, 1966, [80 Stat. 841](https://www.govinfo.gov/link/statute/80/841); [Pub. L. 90–83, § 8](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 222](https://www.govinfo.gov/link/statute/81/222).)*

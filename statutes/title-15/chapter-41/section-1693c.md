@@ -3,9 +3,10 @@ title: "Section 1693c - Terms and conditions of transfers"
 usc_title: 15
 usc_section: "1693c"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1693c"
-generated_at: "2026-03-30T02:54:08.156Z"
+generated_at: "2026-11-23T21:25:39.887Z"
+status: "active"
 ---
 
 # § 1693c. Terms and conditions of transfers
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:08.156Z"
 - **(c)** For any account of a consumer made accessible to electronic fund transfers prior to the effective date of this subchapter, the information required to be disclosed to the consumer under subsection (a) shall be disclosed not later than the earlier of—
   - **(1)** the first periodic statement required by section 1693d(c) of this title after the effective date of this subchapter; or
   - **(2)** thirty days after the effective date of this subchapter.
+
+## Source Credit
+
+*([Pub. L. 90–321, title IX, § 905](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 95–630, title XX, § 2001](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3730](https://www.govinfo.gov/link/statute/92/3730); amended [Pub. L. 106–102, title VII, § 703](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1464](https://www.govinfo.gov/link/statute/113/1464); [Pub. L. 111–203, title X, § 1084(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2081](https://www.govinfo.gov/link/statute/124/2081).)*

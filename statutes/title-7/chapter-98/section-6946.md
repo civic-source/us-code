@@ -3,9 +3,10 @@ title: "Section 6946 - Rural Health Liaison"
 usc_title: 7
 usc_section: "6946"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6946"
-generated_at: "2026-03-30T02:53:42.440Z"
+generated_at: "2026-11-23T21:25:28.407Z"
+status: "active"
 ---
 
 # § 6946. Rural Health Liaison
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:42.440Z"
   - **(7)** consult on programs, pilot projects, research, training, and other affairs relating to rural health at the Department and other Federal agencies;
   - **(8)** provide expertise on rural health to support the activities of the Secretary as Chair of the Council on Rural Community Innovation and Economic Development; and
   - **(9)** provide technical assistance and guidance with respect to activities relating to rural health to the outreach, extension, and county offices of the Department.
+
+## Source Credit
+
+*([Pub. L. 103–354, title II, § 236](https://www.govinfo.gov/link/plaw/103/public/354), as added [Pub. L. 115–334, title XII, § 12409](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4977](https://www.govinfo.gov/link/statute/132/4977).)*

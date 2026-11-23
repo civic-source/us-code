@@ -3,9 +3,10 @@ title: "Section 10247 - Environmental impact statement"
 usc_title: 42
 usc_section: "10247"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10247"
-generated_at: "2026-03-30T02:56:11.385Z"
+generated_at: "2026-11-23T21:26:33.354Z"
+status: "active"
 ---
 
 # § 10247. Environmental impact statement
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.385Z"
   - **(2)**
     - **(A)** In any such statement prepared with respect to a repository to be constructed under this subchapter at the Yucca Mountain site, the Nuclear Regulatory Commission need not consider the need for a repository, the time of initial availability of a repository, alternate sites to the Yucca Mountain site, or nongeologic alternatives to such site.
     - **(B)** In any such statement prepared with respect to a repository to be constructed under this subchapter at a site other than the Yucca Mountain site, the Nuclear Regulatory Commission need not consider the need for a repository, the time of initial availability of a repository, or nongeologic alternatives to such site but shall consider the Yucca Mountain site as an alternate to such site in the preparation of such statement.
+
+## Source Credit
+
+*([Pub. L. 97–425, title IV, § 407](https://www.govinfo.gov/link/plaw/97/public/425), as added [Pub. L. 100–202, § 101(d) [title III]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–104](https://www.govinfo.gov/link/statute/101/1329), 1329–121; [Pub. L. 100–203, title V, § 5041](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–246](https://www.govinfo.gov/link/statute/101/1330).)*

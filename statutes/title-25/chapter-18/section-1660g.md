@@ -3,9 +3,10 @@ title: "Section 1660g - Use of Federal Government facilities and sources of supp
 usc_title: 25
 usc_section: "1660g"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1660g"
-generated_at: "2026-03-30T02:54:52.824Z"
+generated_at: "2026-11-23T21:25:54.628Z"
+status: "active"
 ---
 
 # § 1660g. Use of Federal Government facilities and sources of supply
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:52.824Z"
   - **(1)** the date on which the Secretary transfers title to the property to the urban Indian organization; and
   - **(2)** the date on which the Secretary transfers the property physically to the urban Indian organization.
 - **(e)** For purposes of section 501(a) of title 40 , an urban Indian organization that has entered into a contract or received a grant pursuant to this subchapter may be considered to be an Executive agency in carrying out the contract or grant.
+
+## Source Credit
+
+*([Pub. L. 94–437, title V, § 517](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

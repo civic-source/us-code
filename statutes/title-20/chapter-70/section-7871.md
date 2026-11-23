@@ -3,9 +3,10 @@ title: "Section 7871 - Approval and disapproval of State plans"
 usc_title: 20
 usc_section: "7871"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7871"
-generated_at: "2026-03-30T02:54:48.219Z"
+generated_at: "2026-11-23T21:25:47.618Z"
+status: "active"
 ---
 
 # § 7871. Approval and disapproval of State plans
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:48.219Z"
   - **(4)** If the State educational agency does not respond to the Secretary’s notification described in paragraph (2)(A) prior to the expiration of the 45-day period beginning on the date on which the State educational agency received the notification, such plan shall be deemed to be disapproved.
 - **(c)** A plan submitted under section 6611(d), 7113(c), 7173, or 7842 of this title shall not be approved or disapproved based upon the nature of the activities proposed within such plan if such proposed activities meet the applicable program requirements.
 - **(d)** Notwithstanding any other requirements of this part, the Secretary shall ensure that any portion of a consolidated State plan that is related to part A of subchapter I is subject to the peer-review process described in section 6311(a)(4) of this title .
+
+## Source Credit
+
+*([Pub. L. 89–10, title VIII, § 8451](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title VIII, § 8014](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2107](https://www.govinfo.gov/link/statute/129/2107).)*

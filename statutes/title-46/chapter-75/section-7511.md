@@ -3,9 +3,10 @@ title: "Section 7511 - Convicted sex offender as grounds for denial"
 usc_title: 46
 usc_section: "7511"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 7511"
-generated_at: "2026-03-30T02:56:15.550Z"
+generated_at: "2026-11-23T21:26:37.086Z"
+status: "active"
 ---
 
 # § 7511. Convicted sex offender as grounds for denial
@@ -15,3 +16,11 @@ generated_at: "2026-03-30T02:56:15.550Z"
   - **(2)** section 920 or 920b of title 10 (article 120 and 120b of the Uniform Code of Military Justice); or
   - **(3)** a substantially similar offense under Federal, State, local, or Tribal law.
 - **(b)** A license, certificate of registry, or merchant mariner’s document authorized to be issued under this part may be denied to an individual who within 5 years before applying for the license, certificate, or document, has been convicted of a sexual offense prohibited under subsection (b) of section 2244 of title 18 , or a substantially similar offense under State, local, or Tribal law.
+
+Sexual Abuse
+
+Abusive Sexual Contact
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. K, title CXVI, § 11602(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4147](https://www.govinfo.gov/link/statute/136/4147); amended [Pub. L. 119–60, div. G, title LXXIII, § 7301(g)(3)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1756](https://www.govinfo.gov/link/statute/139/1756).)*

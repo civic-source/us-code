@@ -3,9 +3,10 @@ title: "Section 6374d - Studies and reports"
 usc_title: 42
 usc_section: "6374d"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6374d"
-generated_at: "2026-03-30T02:56:11.261Z"
+generated_at: "2026-11-23T21:26:32.952Z"
+status: "active"
 ---
 
 # § 6374d. Studies and reports
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.261Z"
   - **(3)** The Secretary shall submit a report under this subsection to the Committees on Commerce, Science, and Transportation and Governmental Affairs of the Senate, and the Committee on Energy and Commerce of the House of Representatives, no later than September 30, 1990 .
 - **(b)**
 - **(c)** Adequate opportunity shall be provided for public comment on the reports required by this section before they are submitted to the Congress, and a summary of such comments shall be attached to such reports.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 400EE](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 100–494, § 4(a)](https://www.govinfo.gov/link/plaw/100/public/494), Oct. 14, 1988, [102 Stat. 2447](https://www.govinfo.gov/link/statute/102/2447).)*

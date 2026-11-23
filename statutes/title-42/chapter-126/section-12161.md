@@ -3,9 +3,10 @@ title: "Section 12161 - Definitions"
 usc_title: 42
 usc_section: "12161"
 chapter: 126
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12161"
-generated_at: "2026-03-30T02:56:11.410Z"
+generated_at: "2026-11-23T21:26:33.455Z"
+status: "active"
 ---
 
 # § 12161. Definitions
@@ -21,3 +22,11 @@ As used in this subpart:
     - **(B)** in the case of a station more than 50 percent of which is owned by a private party, the persons providing intercity or commuter rail transportation to such station, as allocated on an equitable basis by regulation by the Secretary of Transportation; and
     - **(C)** in a case where no party owns more than 50 percent of a station, the persons providing intercity or commuter rail transportation to such station and the owners of the station, other than private party owners, as allocated on an equitable basis by regulation by the Secretary of Transportation.
   - **(6)** The term “station” means the portion of a property located appurtenant to a right-of-way on which intercity or commuter rail transportation is operated, where such portion is used by the general public and is related to the provision of such transportation, including passenger platforms, designated waiting areas, ticketing areas, restrooms, and, where a public entity providing rail transportation owns the property, concession areas, to the extent that such public entity exercises control over the selection, design, construction, or alteration of the property, but such term does not include flag stops.
+
+General Rule
+
+Exception
+
+## Source Credit
+
+*([Pub. L. 101–336, title II, § 241](https://www.govinfo.gov/link/plaw/101/public/336), July 26, 1990, [104 Stat. 346](https://www.govinfo.gov/link/statute/104/346); [Pub. L. 104–287, § 6(k)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3400](https://www.govinfo.gov/link/statute/110/3400).)*

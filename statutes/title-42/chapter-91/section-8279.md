@@ -3,9 +3,10 @@ title: "Section 8279 - National Action Plan for Demand Response"
 usc_title: 42
 usc_section: "8279"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8279"
-generated_at: "2026-03-30T02:56:11.340Z"
+generated_at: "2026-11-23T21:26:33.193Z"
+status: "active"
 ---
 
 # § 8279. National Action Plan for Demand Response
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.340Z"
   - **(3)** Development or identification of analytical tools, information, model regulatory provisions, model contracts, and other support materials for use by customers, States, utilities and demand response providers.
 - **(c)** Upon completion, the National Action Plan on Demand Response shall be published, together with any favorable and dissenting comments submitted by participants in its preparation. Six months after publication, the Commission, together with the Secretary of Energy, shall submit to Congress a proposal to implement the Action Plan, including specific proposed assignments of responsibility, proposed budget amounts, and any agreements secured for participation from State and other participants.
 - **(d)** There are authorized to be appropriated to the Commission to carry out this section not more than $10,000,000 for each of the fiscal years 2008, 2009, and 2010.
+
+## Source Credit
+
+*([Pub. L. 95–619, title V, § 571](https://www.govinfo.gov/link/plaw/95/public/619), as added [Pub. L. 110–140, title V, § 529(a)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1664](https://www.govinfo.gov/link/statute/121/1664).)*

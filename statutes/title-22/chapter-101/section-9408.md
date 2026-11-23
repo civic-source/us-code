@@ -3,9 +3,10 @@ title: "Section 9408 - Report on coordination of sanctions between the United St
 usc_title: 22
 usc_section: "9408"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9408"
-generated_at: "2026-03-30T02:55:05.466Z"
+generated_at: "2026-11-23T21:25:58.772Z"
+status: "active"
 ---
 
 # § 9408. Report on coordination of sanctions between the United States and the European Union
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.466Z"
   - **(1)** in the case of the first report submitted under subsection (a), the period beginning on August 2, 2017 , and ending on the date the report is submitted; and
   - **(2)** in the case of a subsequent such report, the 180-day period preceding the submission of the report.
 - **(c)** The report required by subsection (a) shall be submitted in unclassified form but may include a classified annex.
+
+## Source Credit
+
+*([Pub. L. 115–44, title I, § 109](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 895](https://www.govinfo.gov/link/statute/131/895).)*

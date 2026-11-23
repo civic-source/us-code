@@ -3,9 +3,10 @@ title: "Section 47134 - Airport investment partnership program"
 usc_title: 49
 usc_section: "47134"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 47134"
-generated_at: "2026-03-30T02:56:19.405Z"
+generated_at: "2026-11-23T21:26:40.986Z"
+status: "active"
 ---
 
 # § 47134. Airport investment partnership program
@@ -53,3 +54,53 @@ generated_at: "2026-03-30T02:56:19.405Z"
 - **(j)** The provisions of this section requiring the approval of air carriers in determinations concerning the use of revenues, and imposition of fees, at an airport shall not be extended so as to apply to any airport owned by a public agency that is not participating in the program established by this section.
 - **(k)** The Secretary may conduct periodic audits of the financial records and operations of an airport receiving an exemption under this section.
 - **(l)** A grant to an airport sponsor under this subchapter for predevelopment planning costs relating to the preparation of an application or proposed application under this section may not exceed $750,000 per application or proposed application.
+
+Submission of Applications
+
+Approval of Applications
+
+Use of revenues.—
+
+In general
+
+Objection to exemption
+
+Landed weight defined
+
+Repayment requirements
+
+Compensation from airport operations
+
+Benefit-cost analysis.—
+
+In general
+
+Finding
+
+Terms and Conditions
+
+Program Participation.—
+
+Multiple airports
+
+Partial privatization
+
+Required Finding That Approval Will Not Result in Unfair Methods of Competition
+
+Interests of General Aviation Users
+
+Passenger Facility Fees; Apportionments; Service Charges
+
+Effectiveness of Exemptions
+
+Revocation of Exemptions
+
+Nonapplication of Provisions to Airports Owned by Public Agencies
+
+Audits
+
+Predevelopment Limitation
+
+## Source Credit
+
+*(Added [Pub. L. 104–264, title I, § 149(a)(1)](https://www.govinfo.gov/link/plaw/104/public/264), Oct. 9, 1996, [110 Stat. 3224](https://www.govinfo.gov/link/statute/110/3224); amended [Pub. L. 108–176, title I, § 155(a)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2508](https://www.govinfo.gov/link/statute/117/2508); [Pub. L. 112–95, title I](https://www.govinfo.gov/link/plaw/112/public/95), §§ 111(c)(2)(A)(iv), 156, Feb. 14, 2012, [126 Stat. 18](https://www.govinfo.gov/link/statute/126/18), 36; [Pub. L. 115–254, div. B, title I, § 160(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3220](https://www.govinfo.gov/link/statute/132/3220); [Pub. L. 118–63, title VII, § 738](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1276](https://www.govinfo.gov/link/statute/138/1276).)*

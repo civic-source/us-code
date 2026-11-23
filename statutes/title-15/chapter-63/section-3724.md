@@ -3,9 +3,10 @@ title: "Section 3724 - Crowdsourcing and citizen science"
 usc_title: 15
 usc_section: "3724"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3724"
-generated_at: "2026-03-30T02:54:08.195Z"
+generated_at: "2026-11-23T21:25:39.983Z"
+status: "active"
 ---
 
 # § 3724. Crowdsourcing and citizen science
@@ -85,3 +86,7 @@ generated_at: "2026-03-30T02:54:08.195Z"
 - **(f)** Nothing in this section may be construed—
   - **(1)** to affect the authority to conduct crowdsourcing and citizen science authorized by any other provision of law; or
   - **(2)** to displace Federal Government resources allocated to the Federal science agencies that use crowdsourcing or citizen science authorized under this section to carry out a project.
+
+## Source Credit
+
+*([Pub. L. 114–329, title IV, § 402](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 3019](https://www.govinfo.gov/link/statute/130/3019).)*

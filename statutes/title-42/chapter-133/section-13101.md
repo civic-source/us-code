@@ -3,9 +3,10 @@ title: "Section 13101 - Findings and policy"
 usc_title: 42
 usc_section: "13101"
 chapter: 133
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13101"
-generated_at: "2026-03-30T02:56:11.438Z"
+generated_at: "2026-11-23T21:26:33.577Z"
+status: "active"
 ---
 
 # § 13101. Findings and policy
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.438Z"
   - **(4)** Source reduction is fundamentally different and more desirable than waste management and pollution control. The Environmental Protection Agency needs to address the historical lack of attention to source reduction.
   - **(5)** As a first step in preventing pollution through source reduction, the Environmental Protection Agency must establish a source reduction program which collects and disseminates information, provides financial assistance to States, and implements the other activities provided for in this chapter.
 - **(b)** The Congress hereby declares it to be the national policy of the United States that pollution should be prevented or reduced at the source whenever feasible; pollution that cannot be prevented should be recycled in an environmentally safe manner, whenever feasible; pollution that cannot be prevented or recycled should be treated in an environmentally safe manner whenever feasible; and disposal or other release into the environment should be employed only as a last resort and should be conducted in an environmentally safe manner.
+
+## Source Credit
+
+*([Pub. L. 101–508, title VI, § 6602](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–321](https://www.govinfo.gov/link/statute/104/1388).)*

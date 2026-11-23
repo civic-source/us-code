@@ -3,9 +3,10 @@ title: "Section 11702 - Enforcement by the Board"
 usc_title: 49
 usc_section: "11702"
 chapter: 117
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 11702"
-generated_at: "2026-03-30T02:56:19.326Z"
+generated_at: "2026-11-23T21:26:40.679Z"
+status: "active"
 ---
 
 # § 11702. Enforcement by the Board
@@ -15,3 +16,7 @@ The Board may bring a civil action—
   - **(1)** to enjoin a rail carrier from violating sections 10901 through 10906 of this title, or a regulation prescribed or order or certificate issued under any of those sections;
   - **(2)** to enforce subchapter II of chapter 113 of this title and to compel compliance with an order of the Board under that subchapter; and
   - **(3)** to enforce an order of the Board, except a civil action to enforce an order for the payment of money, when it is violated by a rail carrier providing transportation subject to the jurisdiction of the Board under this part.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 845](https://www.govinfo.gov/link/statute/109/845).)*

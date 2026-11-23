@@ -3,9 +3,10 @@ title: "Section 2507 - Contracts"
 usc_title: 15
 usc_section: "2507"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2507"
-generated_at: "2026-03-30T02:54:08.172Z"
+generated_at: "2026-11-23T21:25:39.929Z"
+status: "active"
 ---
 
 # § 2507. Contracts
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.172Z"
 - **(c)** Each contract under this section shall be entered into in accordance with such rules as the Secretary of Energy may prescribe in accordance with the provisions of this section. Each application for funding shall be made in writing in such form and with such content and other submissions as the Secretary of Energy shall require. The Secretary of Energy may enter into contracts under this section without regard to section 6101 of title 41 .
 - **(d)** In addition to contracting for the purchase or lease of vehicles when conducting the demonstrations established under section 2506 of this title , the Secretary of Energy may acquire or secure use of such vehicles, or have such vehicles acquired or used by others, by making agreements and utilizing various forms of Federal assistance and participation which is authorized under the Energy Reorganization Act of 1974 ( Public Law 93–438 ) [ 42 U.S.C. 5801 et seq.] and the Federal Nonnuclear Energy Research and Development Act of 1974 ( Public Law 93–577 ) [ 42 U.S.C. 5901 et seq.].
 - **(e)** When contracting and otherwise using Federal funds to conduct demonstrations under this chapter, the Secretary of Energy shall seek cost-sharing with others to the maximum extent practical. During the first 2 years of demonstration activities the Secretary of Energy may enter into procurement or lease contracts for purposes of carrying out demonstrations under this chapter without regard to the provisions of chapter 83 of title 41.
+
+## Source Credit
+
+*([Pub. L. 94–413, § 8](https://www.govinfo.gov/link/plaw/94/public/413), Sept. 17, 1976, [90 Stat. 1266](https://www.govinfo.gov/link/statute/90/1266); [Pub. L. 95–91, title III, § 301(a)](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 577](https://www.govinfo.gov/link/statute/91/577); [Pub. L. 95–238, title VI, § 602](https://www.govinfo.gov/link/plaw/95/public/238), Feb. 25, 1978, [92 Stat. 92](https://www.govinfo.gov/link/statute/92/92).)*

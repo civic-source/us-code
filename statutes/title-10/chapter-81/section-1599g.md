@@ -3,9 +3,10 @@ title: "Section 1599g - Public-private talent exchange"
 usc_title: 10
 usc_section: "1599g"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1599g"
-generated_at: "2026-03-30T02:53:38.132Z"
+generated_at: "2026-11-23T21:25:32.524Z"
+status: "active"
 ---
 
 # § 1599g. Public-private talent exchange
@@ -51,3 +52,41 @@ generated_at: "2026-03-30T02:53:38.132Z"
   - **(2)** expenses relating to assignment under this section of a member of the acquisition workforce away from the member’s regular duty station, including expenses for travel, per diem, and lodging; and
   - **(3)** expenses for the administration of the program.
 - **(k)** Each member of the acquisition workforce that participates in the program established under this section shall, upon completion of such participation, submit to the President of the Defense Acquisition University for inclusion in the report required under section 1746a(e) a description and evaluation of such participation.
+
+Assignment Authority
+
+Agreements
+
+Termination
+
+Duration
+
+Status of Federal Employees Assigned to Private-sector Organizations
+
+Terms and Conditions for Private-sector Employees
+
+Prohibition Against Charging Certain Costs to the Federal Government
+
+Considerations
+
+Conflicts of Interest
+
+Funding; Use of Defense Acquisition Workforce Development Fund
+
+Report
+
+In General
+
+Maximum Number of Participants
+
+Program Participant Defined
+
+Application of Exchange Authority to Modernization Priorities
+
+Conflicts of Interest
+
+Treatment of Program Participants
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title XI, § 1104(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2445](https://www.govinfo.gov/link/statute/130/2445); amended [Pub. L. 116–92, div. A, title VIII, § 863(a)](https://www.govinfo.gov/link/plaw/116/public/92), title XI, § 1116, Dec. 20, 2019, [133 Stat. 1522](https://www.govinfo.gov/link/statute/133/1522), 1604; [Pub. L. 116–283, div. A, title XI, § 1102(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3885](https://www.govinfo.gov/link/statute/134/3885); [Pub. L. 117–263, div. A, title VIII, § 831(c)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2712](https://www.govinfo.gov/link/statute/136/2712); [Pub. L. 119–60, div. A, title VIII, § 821](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 954](https://www.govinfo.gov/link/statute/139/954).)*

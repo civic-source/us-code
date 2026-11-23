@@ -3,9 +3,10 @@ title: "Section 2413 - Prohibition on certain demonstrations and disruptions at 
 usc_title: 38
 usc_section: "2413"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 2413"
-generated_at: "2026-03-30T02:55:53.498Z"
+generated_at: "2026-11-23T21:26:16.708Z"
+status: "active"
 ---
 
 # § 2413. Prohibition on certain demonstrations and disruptions at cemeteries under control of the National Cemetery Administration and at Arlington National Cemetery
@@ -50,3 +51,19 @@ generated_at: "2026-03-30T02:55:53.498Z"
     - **(C)** the display of any placard, banner, flag, or similar device, unless such a display is part of a funeral, memorial service, or ceremony; and
     - **(D)** the distribution of any handbill, pamphlet, leaflet, or other written or printed matter other than a program distributed as part of a funeral, memorial service, or ceremony; and
   - **(2)** the term “immediate family” means, with respect to a person, the immediate family members of such person, as such term is defined in section 115 of title 18 .
+
+Prohibition
+
+Penalty
+
+Civil Remedies
+
+Actual and Statutory Damages
+
+Rebuttable Presumption
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 109–228, § 2(a)(1)](https://www.govinfo.gov/link/plaw/109/public/228), May 29, 2006, [120 Stat. 387](https://www.govinfo.gov/link/statute/120/387); amended [Pub. L. 112–154, title VI, § 601(c)(1)](https://www.govinfo.gov/link/plaw/112/public/154), Aug. 6, 2012, [126 Stat. 1197](https://www.govinfo.gov/link/statute/126/1197).)*

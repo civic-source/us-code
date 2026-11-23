@@ -3,12 +3,17 @@ title: "Section 672 - Administrative detention; duration; pending judicial proce
 usc_title: 21
 usc_section: "672"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 672"
-generated_at: "2026-03-30T02:54:54.288Z"
+generated_at: "2026-11-23T21:25:56.214Z"
+status: "active"
 ---
 
 # § 672. Administrative detention; duration; pending judicial proceedings; notification of governmental authorities; release
 
 Whenever any carcass, part of a carcass, meat or meat food product of cattle, sheep, swine, goats, horses, mules, or other equines, or any product exempted from the definition of a meat food product, or any dead, dying, disabled, or diseased cattle, sheep, swine, goat, or equine is found by any authorized representative of the Secretary upon any premises where it is held for purposes of, or during or after distribution in, commerce or otherwise subject to subchapter I or II of this chapter, and there is reason to believe that any such article is adulterated or misbranded and is capable of use as human food, or that it has not been inspected, in violation of the provisions of subchapter I of this chapter or of any other Federal law or the laws of any State or Territory, or the District of Columbia, or that such article or animal has been or is intended to be, distributed in violation of any such provisions, it may be detained by such representative for a period not to exceed twenty days, pending action under section 673 of this title or notification of any Federal, State, or other governmental authorities having jurisdiction over such article or animal, and shall not be moved by any person, firm, or corporation from the place at which it is located when so detained, until released by such representative. All official marks may be required by such representative to be removed from such article or animal before it is released unless it appears to the satisfaction of the Secretary that the article or animal is eligible to retain such marks.
 
+
+## Source Credit
+
+*(Mar. 4, 1907, ch. 2907, title IV, § 402, as added [Pub. L. 90–201, § 16](https://www.govinfo.gov/link/plaw/90/public/201), Dec. 15, 1967, [81 Stat. 598](https://www.govinfo.gov/link/statute/81/598).)*

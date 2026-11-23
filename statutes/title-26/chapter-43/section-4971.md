@@ -3,9 +3,10 @@ title: "Section 4971 - Taxes on failure to meet minimum funding standards"
 usc_title: 26
 usc_section: "4971"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4971"
-generated_at: "2026-03-30T02:55:27.810Z"
+generated_at: "2026-11-23T21:26:06.657Z"
+status: "active"
 ---
 
 # § 4971. Taxes on failure to meet minimum funding standards
@@ -76,3 +77,15 @@ generated_at: "2026-03-30T02:55:27.810Z"
   - **(3)** In the case of a failure described in paragraph (1) which the Secretary determines is due to reasonable cause and not to willful neglect, the Secretary may waive a portion or all of the tax imposed by such paragraph.
   - **(4)** The tax imposed by paragraph (1) shall be paid by the plan sponsor (within the meaning of section 433(j)(5)(E)).
 - **(i)** For disallowance of deduction for taxes paid under this section, see section 275. For liability for tax in case of an employer party to collective bargaining agreement, see section 413(b)(6). For provisions concerning notification of Secretary of Labor of imposition of tax under this section, waiver of the tax imposed by subsection (b), and other coordination between Secretary of the Treasury and Secretary of Labor with respect to compliance with this section, see section 3002(b) of title III of the Employee Retirement Income Security Act of 1974.
+
+Initial tax
+
+Additional tax
+
+In General
+
+Plan Described
+
+## Source Credit
+
+*(Added [Pub. L. 93–406, title II, § 1013(b)](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 920](https://www.govinfo.gov/link/statute/88/920); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 96–364, title II, § 204](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1287](https://www.govinfo.gov/link/statute/94/1287); [Pub. L. 96–596, § 2(a)(1)(J)](https://www.govinfo.gov/link/plaw/96/public/596), (2)(H), Dec. 24, 1980, [94 Stat. 3469](https://www.govinfo.gov/link/statute/94/3469), 3471; [Pub. L. 100–203, title IX](https://www.govinfo.gov/link/plaw/100/public/203), §§ 9304(c)(1), 9305(a), Dec. 22, 1987, [101 Stat. 1330–348](https://www.govinfo.gov/link/statute/101/1330), 1330–351; [Pub. L. 103–465, title VII, § 751(a)(9)(B)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 5020](https://www.govinfo.gov/link/statute/108/5020); [Pub. L. 104–188, title I, § 1464(a)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1824](https://www.govinfo.gov/link/statute/110/1824); [Pub. L. 109–280, title I, § 114(e)(1)](https://www.govinfo.gov/link/plaw/109/public/280) –(4), title II, § 212(b), Aug. 17, 2006, [120 Stat. 854](https://www.govinfo.gov/link/statute/120/854), 855, 915; [Pub. L. 110–458, title I](https://www.govinfo.gov/link/plaw/110/public/458), §§ 101(d)(2)(F), 102(b)(2)(I), (3)(A), Dec. 23, 2008, [122 Stat. 5099](https://www.govinfo.gov/link/statute/122/5099), 5103; [Pub. L. 113–97, title II, § 202(c)(8)](https://www.govinfo.gov/link/plaw/113/public/97), (9), Apr. 7, 2014, [128 Stat. 1137](https://www.govinfo.gov/link/statute/128/1137), 1138; [Pub. L. 115–141, div. U, title IV, § 401(a)(225)](https://www.govinfo.gov/link/plaw/115/public/141) –(228), (b)(44), Mar. 23, 2018, [132 Stat. 1195](https://www.govinfo.gov/link/statute/132/1195), 1204.)*

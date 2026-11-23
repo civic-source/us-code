@@ -3,9 +3,10 @@ title: "Section 7585 - Standards for heavy-duty clean-fuel vehicles (GVWR above 
 usc_title: 42
 usc_section: "7585"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7585"
-generated_at: "2026-03-30T02:56:11.318Z"
+generated_at: "2026-11-23T21:26:33.131Z"
+status: "active"
 ---
 
 # § 7585. Standards for heavy-duty clean-fuel vehicles (GVWR above 8,500 up to 26,000 lbs.)
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.318Z"
   - **(1)** The Administrator may promulgate a revised less stringent standard for the vehicles or engines referred to in subsection (a) if the Administrator determines that the 50 percent reduction required under subsection (a) is not technologically feasible for clean diesel-fueled vehicles and engines, taking into account durability, costs, lead time, safety, and other relevant factors. To provide adequate lead time the Administrator shall make a determination with regard to the technological feasibility of such 50 percent reduction before December 31, 1993 .
   - **(2)** Any person may at any time petition the Administrator to make a determination under paragraph (1). The Administrator shall act on such a petition within 6 months after the petition is filed.
   - **(3)** Any revised less stringent standards promulgated as provided in this subsection shall require at least a 30 percent reduction in lieu of the 50 percent reduction referred to in paragraph (1).
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title II, § 245, as added [Pub. L. 101–549, title II, § 229(a)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2519](https://www.govinfo.gov/link/statute/104/2519).)*

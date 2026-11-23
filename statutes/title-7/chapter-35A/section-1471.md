@@ -3,9 +3,10 @@ title: "Section 1471 - Definitions"
 usc_title: 7
 usc_section: "1471"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1471"
-generated_at: "2026-03-30T02:53:42.317Z"
+generated_at: "2026-11-23T21:25:28.088Z"
+status: "active"
 ---
 
 # § 1471. Definitions
@@ -29,3 +30,11 @@ As used in this subchapter:
     - **(A)** best suits the livestock producer’s operation; and
     - **(B)** is consistent with acceptable feed practices.
   - **(5)** The term “area” includes any Indian reservation (as defined in section 1985(e)(1)(D)(ii) 2 of this title).
+
+In general
+
+Prior losses
+
+## Source Credit
+
+*(Oct. 31, 1949, ch. 792, title VI, § 602, as added [Pub. L. 100–387, title I, § 101(a)](https://www.govinfo.gov/link/plaw/100/public/387), Aug. 11, 1988, [102 Stat. 926](https://www.govinfo.gov/link/statute/102/926); amended [Pub. L. 108–447, div. A, title VII, § 785(b)(1)](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 2850](https://www.govinfo.gov/link/statute/118/2850); [Pub. L. 109–97, title VII, § 784(b)(1)](https://www.govinfo.gov/link/plaw/109/public/97), Nov. 10, 2005, [119 Stat. 2162](https://www.govinfo.gov/link/statute/119/2162); [Pub. L. 115–334, title XII, § 12104](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4942](https://www.govinfo.gov/link/statute/132/4942).)*

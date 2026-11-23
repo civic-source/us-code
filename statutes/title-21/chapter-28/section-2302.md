@@ -3,9 +3,10 @@ title: "Section 2302 - Definitions"
 usc_title: 21
 usc_section: "2302"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 2302"
-generated_at: "2026-03-30T02:54:54.311Z"
+generated_at: "2026-11-23T21:25:56.304Z"
+status: "active"
 ---
 
 # § 2302. Definitions
@@ -45,3 +46,7 @@ In this chapter:
     - **(B)** any alien lawfully admitted for permanent residence in the United States;
     - **(C)** any entity organized under the laws of the United States or any jurisdiction within the United States (including a foreign branch of such an entity); or
     - **(D)** any person located in the United States.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. F, title LXXII, § 7203](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2262](https://www.govinfo.gov/link/statute/133/2262); [Pub. L. 119–60, div. H, title LXXXIII, § 8314](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1856](https://www.govinfo.gov/link/statute/139/1856).)*

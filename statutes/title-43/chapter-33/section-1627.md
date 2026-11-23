@@ -3,9 +3,10 @@ title: "Section 1627 - Merger of Native corporations"
 usc_title: 43
 usc_section: "1627"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1627"
-generated_at: "2026-03-30T02:55:57.482Z"
+generated_at: "2026-11-23T21:26:19.860Z"
+status: "active"
 ---
 
 # § 1627. Merger of Native corporations
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:57.482Z"
 - **(c)** Notwithstanding the provisions of section 1606(j) or (m) of this title, in any merger or consolidation in which the class of stockholders of a Regional Corporation who are not residents of any of the villages in the region are entitled under Alaska law to vote as a class, the terms of the merger or consolidation may provide for the alteration or elimination of the right of said class to receive dividends pursuant to said section 1606(j) or (m) of this title. In the event that such dividend right is not expressly altered or eliminated by the terms of the merger or consolidation, such class of stockholders shall continue to receive such dividends pursuant to section 1606(j) or (m) of this title as would have been applicable if the merger or consolidation had not taken place and all Village Corporations within the affected region continued to exist separately.
 - **(d)** Notwithstanding any other provision of this section or of any other law, no corporation referred to in this section may merger or consolidate with any other such corporations unless that corporation’s shareholders have approved such merger or consolidation.
 - **(e)** The plan of merger or consolidation shall provide that the right of any affected Village Corporation pursuant to section 1613(f) of this title to withhold consent to mineral exploration, development, or removal within the boundaries of the Native village shall be conveyed, as part of the merger or consolidation, to a separate entity composed of the Native residents of such Native village.
+
+## Source Credit
+
+*([Pub. L. 92–203, § 30](https://www.govinfo.gov/link/plaw/92/public/203), as added [Pub. L. 94–204, § 6](https://www.govinfo.gov/link/plaw/94/public/204), Jan. 2, 1976, [89 Stat. 1148](https://www.govinfo.gov/link/statute/89/1148); amended [Pub. L. 100–241, § 12(c)](https://www.govinfo.gov/link/plaw/100/public/241), Feb. 3, 1988, [101 Stat. 1810](https://www.govinfo.gov/link/statute/101/1810).)*

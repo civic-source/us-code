@@ -3,9 +3,10 @@ title: "Section 6581 - Reorganization of Agency for International Development"
 usc_title: 22
 usc_section: "6581"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6581"
-generated_at: "2026-03-30T02:55:05.430Z"
+generated_at: "2026-11-23T21:25:58.693Z"
+status: "active"
 ---
 
 # § 6581. Reorganization of Agency for International Development
@@ -14,3 +15,9 @@ generated_at: "2026-03-30T02:55:05.430Z"
 - **(b)** The reorganization of the Agency for International Development shall provide, at a minimum, for the transfer to and consolidation with the Department of State of the following functions of AID:
   - **(1)** The Press office.
   - **(2)** Certain administrative functions.
+
+“This title [enacting this subchapter], and the amendments made by this title, shall take effect on the earlier of—
+
+## Source Credit
+
+*([Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XV, § 1511, Oct. 21, 1998, [112 Stat. 2681–793](https://www.govinfo.gov/link/statute/112/2681).)*

@@ -3,9 +3,10 @@ title: "Section 6805 - Exclusion; determinations"
 usc_title: 7
 usc_section: "6805"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6805"
-generated_at: "2026-03-30T02:53:42.436Z"
+generated_at: "2026-11-23T21:25:28.401Z"
+status: "active"
 ---
 
 # § 6805. Exclusion; determinations
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:42.436Z"
       - **(iv)** in the case of a corporation, sales attributable to any corporate subsidiary or other corporation or entity in which the corporation owns more than 50 percent of the stock or (if the entity is not a corporation) that the corporation controls.
     - **(B)** For the purpose of this paragraph, stock or an ownership interest in an entity that is owned by the spouse, children, grandchildren, parents, grandparents, or partners of an individual, or by a partnership in which a person is a partner, or by a corporation more than 50 percent of the stock of which is owned by a person, shall be treated as owned by the individual or person.
   - **(3)** For the purpose of this subsection, the order may require a person who sells cut flowers or cut greens to retailers to submit reports to the PromoFlor Council on annual sales by the person.
+
+## Source Credit
+
+*([Pub. L. 103–190, § 6](https://www.govinfo.gov/link/plaw/103/public/190), Dec. 14, 1993, [107 Stat. 2283](https://www.govinfo.gov/link/statute/107/2283).)*

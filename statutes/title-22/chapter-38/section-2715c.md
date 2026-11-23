@@ -3,9 +3,10 @@ title: "Section 2715c - Conservation and disposition of estates"
 usc_title: 22
 usc_section: "2715c"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2715c"
-generated_at: "2026-03-30T02:55:05.380Z"
+generated_at: "2026-11-23T21:25:58.535Z"
+status: "active"
 ---
 
 # § 2715c. Conservation and disposition of estates
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:05.380Z"
     - **(B)** An officer or employee of the Department of State may be liable to the Department of State to the extent of any compensation provided under paragraph (1).
     - **(C)** The liability of any officer or employee of the Department of State to the Department for any payment made under subsection (a) shall be determined pursuant to the Department’s procedures for determining accountability for United States Government property.
 - **(d)** The Secretary of State may prescribe such regulations as may be necessary to carry out this section.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title I, § 43B, as added [Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 234(b)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–427.)*

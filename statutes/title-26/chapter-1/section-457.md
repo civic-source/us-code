@@ -3,9 +3,10 @@ title: "Section 457 - Deferred compensation plans of State and local governments
 usc_title: 26
 usc_section: "457"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 457"
-generated_at: "2026-03-30T02:55:27.702Z"
+generated_at: "2026-11-23T21:26:06.278Z"
+status: "active"
 ---
 
 # § 457. Deferred compensation plans of State and local governments and tax-exempt organizations
@@ -95,7 +96,7 @@ generated_at: "2026-03-30T02:55:27.702Z"
     - **(A)** This section shall not apply to nonelective deferred compensation attributable to services not performed as an employee.
     - **(B)** For purposes of subparagraph (A), deferred compensation shall be treated as nonelective only if all individuals (other than those who have not satisfied any applicable initial service requirement) with the same relationship to the payor are covered under the same plan with no individual variations or options under the plan.
   - **(13)** The term “eligible employer” shall not include a church (as defined in section 3121(w)(3)(A)) or qualified church-controlled organization (as defined in section 3121(w)(3)(B)).
-  - **(14)** Subsections (b)(2) and (c)(1) shall not apply to any qualified governmental excess benefit arrangement (as defined in section 415(m)(3)), and benefits provided under such an arrangement shall not be taken into account in determining whether any other plan is an eligible deferred compensation plan.
+  - **(14)** Subsections (b)(2) and (c)(1) 1 1 See References in Text note below. shall not apply to any qualified governmental excess benefit arrangement (as defined in section 415(m)(3)), and benefits provided under such an arrangement shall not be taken into account in determining whether any other plan is an eligible deferred compensation plan.
   - **(15)**
     - **(A)** The applicable dollar amount is $15,000.
     - **(B)** In the case of taxable years beginning after December 31, 2006 , the Secretary shall adjust the $15,000 amount under subparagraph (A) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2005 , and any increase under this paragraph which is not a multiple of $500 shall be rounded to the next lowest multiple of $500.
@@ -146,3 +147,71 @@ generated_at: "2026-03-30T02:55:27.702Z"
     - **(B)** notwithstanding any other provision of this title, amounts in the trust shall be includible in the gross income of participants and beneficiaries only to the extent, and at the time, provided in this section.
   - **(3)** For purposes of this subsection, custodial accounts and contracts described in section 401(f) shall be treated as trusts under rules similar to the rules under section 401(f).
   - **(4)** A plan described in paragraph (1) shall not be treated as an eligible deferred compensation plan unless such plan meets the requirements of section 401(a)(37).
+
+Benefits not treated as made available by reason of certain elections
+
+Certain plans excepted
+
+“Certain plans excepted
+
+“Exception for nonelective deferred compensation of nonemployees.—
+
+In general
+
+Nonelective deferred compensation
+
+In general
+
+Tax amendments
+
+amendments
+
+Construction
+
+In general
+
+Transition rule
+
+In general
+
+Exception for certain collectively bargained plans.—
+
+In general
+
+Nonelective plan
+
+Termination
+
+Treatment of certain nonelective deferred compensation
+
+Study
+
+In general
+
+Transfers and cash-outs
+
+Application to tax-exempt organizations.—
+
+In general
+
+Existing deferrals and arrangements
+
+Deferred compensation plans for state judges
+
+Special rule for certain deferred compensation plans
+
+In general
+
+Application of catch-up provisions in certain cases
+
+Applications of certain coordination provisions
+
+Meaning of terms
+
+In general
+
+Qualified state judicial plan
+
+## Source Credit
+
+*(Added [Pub. L. 95–600, title I, § 131(a)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2779](https://www.govinfo.gov/link/statute/92/2779); amended [Pub. L. 96–222, title I, § 101(a)(4)](https://www.govinfo.gov/link/plaw/96/public/222), Apr. 1, 1980, [94 Stat. 196](https://www.govinfo.gov/link/statute/94/196); [Pub. L. 98–369, div. A, title IV, § 491(d)(33)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 851](https://www.govinfo.gov/link/statute/98/851); [Pub. L. 99–514, title XI, § 1107(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2426](https://www.govinfo.gov/link/statute/100/2426); [Pub. L. 100–647, title I, § 1011(e)(1)](https://www.govinfo.gov/link/plaw/100/public/647), (2), (9), (10), title VI, §§ 6064(a)–(c), 6071(c), Nov. 10, 1988, [102 Stat. 3460](https://www.govinfo.gov/link/statute/102/3460), 3461, 3700, 3701, 3705; [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7811(g)(4), (5), 7816(j), Dec. 19, 1989, [103 Stat. 2409](https://www.govinfo.gov/link/statute/103/2409), 2421; [Pub. L. 102–318, title V, § 521(b)(26)](https://www.govinfo.gov/link/plaw/102/public/318), July 3, 1992, [106 Stat. 312](https://www.govinfo.gov/link/statute/106/312); [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1421(b)(3)(C), 1444(b)(2), (3), 1447(a), (b), 1448(a), (b), 1458(a), Aug. 20, 1996, [110 Stat. 1796](https://www.govinfo.gov/link/statute/110/1796), 1810, 1812, 1813, 1819; [Pub. L. 105–34, title X, § 1071(a)(2)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 948](https://www.govinfo.gov/link/statute/111/948); [Pub. L. 107–16, title VI](https://www.govinfo.gov/link/plaw/107/public/16), §§ 611(d)(3)(B), (e), 615(a), 632(c)(1), 641(a)(1)(A)–(C), 646(a)(3), 647(b), 648(b), 649(a), (b), June 7, 2001, [115 Stat. 98](https://www.govinfo.gov/link/statute/115/98), 102, 115, 118, 119, 126–128; [Pub. L. 107–147, title IV, § 411](https://www.govinfo.gov/link/plaw/107/public/147) (o)(9), (p)(5), Mar. 9, 2002, [116 Stat. 49](https://www.govinfo.gov/link/statute/116/49), 51; [Pub. L. 109–280, title VIII](https://www.govinfo.gov/link/plaw/109/public/280), §§ 829(a)(4), 845(b)(3), title XI, § 1104(a)(1), (b), Aug. 17, 2006, [120 Stat. 1002](https://www.govinfo.gov/link/statute/120/1002), 1015, 1058, 1059; [Pub. L. 110–245, title I, § 104(c)(3)](https://www.govinfo.gov/link/plaw/110/public/245), June 17, 2008, [122 Stat. 1627](https://www.govinfo.gov/link/statute/122/1627); [Pub. L. 113–295, div. A, title II, § 221(a)(57)(H)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4047](https://www.govinfo.gov/link/statute/128/4047); [Pub. L. 114–95, title IX, § 9215(uu)(2)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2183](https://www.govinfo.gov/link/statute/129/2183); [Pub. L. 115–97, title I, § 13612(a)](https://www.govinfo.gov/link/plaw/115/public/97) –(c), Dec. 22, 2017, [131 Stat. 2165](https://www.govinfo.gov/link/statute/131/2165); [Pub. L. 115–141, div. U, title IV, § 401(a)(112)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1189](https://www.govinfo.gov/link/statute/132/1189); [Pub. L. 116–94, div. M, § 104(b)](https://www.govinfo.gov/link/plaw/116/public/94), div. O, title I, § 109(d), Dec. 20, 2019, [133 Stat. 3095](https://www.govinfo.gov/link/statute/133/3095), 3151; [Pub. L. 117–328, div. T, title I, § 110(f)](https://www.govinfo.gov/link/plaw/117/public/328), title III, §§ 306(a), 312(c), 334(b)(5), title VI, § 603(b)(2), Dec. 29, 2022, [136 Stat. 5293](https://www.govinfo.gov/link/statute/136/5293), 5343, 5348, 5370, 5392.)*

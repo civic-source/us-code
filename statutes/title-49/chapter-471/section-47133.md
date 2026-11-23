@@ -3,9 +3,10 @@ title: "Section 47133 - Restriction on use of revenues"
 usc_title: 49
 usc_section: "47133"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 47133"
-generated_at: "2026-03-30T02:56:19.405Z"
+generated_at: "2026-11-23T21:26:40.985Z"
+status: "active"
 ---
 
 # § 47133. Restriction on use of revenues
@@ -22,3 +23,31 @@ generated_at: "2026-03-30T02:56:19.405Z"
     - **(C)** an amount equal to the remaining unamortized portion of any airport improvement grant made to that airport for purposes other than land acquisition, amortized over a 20-year period, plus an amount equal to the Federal share of the current fair market value of any land acquired with an airport improvement grant made to that airport on or after October 1, 1996 , is repaid to the Secretary by the private owner.
   - **(3)** Repayments referred to in paragraph (2)(C) shall be treated as a recovery of prior year obligations.
 - **(c)** Nothing in this section may be construed to prevent the use of a State tax on aviation fuel to support a State aviation program or the use of airport revenue on or off the airport for a noise mitigation purpose.
+
+Prohibition
+
+Exceptions.—
+
+Prior laws and agreements
+
+Sale of private airport to public sponsor
+
+Treatment of repayments
+
+Rule of Construction
+
+In General
+
+Use of Revenue
+
+Conditions
+
+Completion of Determination
+
+Rulemaking
+
+General Aviation Airport Defined
+
+## Source Credit
+
+*(Added [Pub. L. 104–264, title VIII, § 804(a)](https://www.govinfo.gov/link/plaw/104/public/264), Oct. 9, 1996, [110 Stat. 3271](https://www.govinfo.gov/link/statute/110/3271); amended [Pub. L. 112–95, title I, § 149(a)](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 32](https://www.govinfo.gov/link/statute/126/32).)*

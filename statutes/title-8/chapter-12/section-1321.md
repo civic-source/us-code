@@ -3,9 +3,10 @@ title: "Section 1321 - Prevention of unauthorized landing of aliens"
 usc_title: 8
 usc_section: "1321"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1321"
-generated_at: "2026-03-30T02:53:10.493Z"
+generated_at: "2026-11-23T21:25:25.171Z"
+status: "active"
 ---
 
 # § 1321. Prevention of unauthorized landing of aliens
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:10.493Z"
   - **(2)**
     - **(A)** At the request of any person described in paragraph (1), the Attorney General shall inspect any facility established, or any method utilized, at a point of entry into the United States by such person for the purpose of complying with subsection (a). The Attorney General shall approve any such facility or method (for such period of time as the Attorney General may prescribe) which the Attorney General determines is satisfactory for such purpose.
     - **(B)** Proof that any person described in paragraph (1) has diligently maintained any facility, or utilized any method, which has been approved by the Attorney General under subparagraph (A) (within the period for which the approval is effective) shall be prima facie evidence that such person acted diligently and reasonably to fulfill the duty imposed by subsection (a) (within the meaning of paragraph (1) of this subsection).
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 8, § 271, [66 Stat. 226](https://www.govinfo.gov/link/statute/66/226); [Pub. L. 99–603, title I, § 114](https://www.govinfo.gov/link/plaw/99/public/603), Nov. 6, 1986, [100 Stat. 3383](https://www.govinfo.gov/link/statute/100/3383); [Pub. L. 101–649, title V, § 543(a)(8)](https://www.govinfo.gov/link/plaw/101/public/649), Nov. 29, 1990, [104 Stat. 5058](https://www.govinfo.gov/link/statute/104/5058); [Pub. L. 104–208, div. C, title III, § 308(g)(1)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–622](https://www.govinfo.gov/link/statute/110/3009).)*

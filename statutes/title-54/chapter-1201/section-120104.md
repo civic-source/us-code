@@ -3,9 +3,10 @@ title: "Section 120104 - Evaluation"
 usc_title: 54
 usc_section: "120104"
 chapter: 1201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "54 U.S.C. § 120104"
-generated_at: "2026-03-30T02:56:28.420Z"
+generated_at: "2026-11-23T21:26:42.789Z"
+status: "active"
 ---
 
 # § 120104. Evaluation
@@ -24,3 +25,13 @@ generated_at: "2026-03-30T02:56:28.420Z"
     - **(A)** any means by which that Federal funding may be reduced or eliminated over time; and
     - **(B)** the appropriate time period necessary to achieve the recommended reduction or elimination of Federal funding; or
   - **(2)** if the report contains a recommendation of the Secretary that Federal funding for the applicable National Heritage Area should be eliminated, a description of potential impacts on conservation, interpretation, and sustainability in the applicable National Heritage Area.
+
+In General
+
+Components
+
+Recommendations
+
+## Source Credit
+
+*(Added [Pub. L. 117–339, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/339), Jan. 5, 2023, [136 Stat. 6161](https://www.govinfo.gov/link/statute/136/6161).)*

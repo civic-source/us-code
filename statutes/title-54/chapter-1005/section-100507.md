@@ -3,9 +3,10 @@ title: "Section 100507 - Additional areas for System"
 usc_title: 54
 usc_section: "100507"
 chapter: 1005
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "54 U.S.C. § 100507"
-generated_at: "2026-03-30T02:56:28.412Z"
+generated_at: "2026-11-23T21:26:42.755Z"
+status: "active"
 ---
 
 # § 100507. Additional areas for System
@@ -58,3 +59,152 @@ generated_at: "2026-03-30T02:56:28.412Z"
   - **(1)** To carry out studies for potential new System units and for monitoring the welfare of historical and natural resources referred to in subparagraphs (A) and (B) of subsection (d)(1), there is authorized to be appropriated not more than $1,000,000 for each fiscal year.
   - **(2)** To monitor the welfare and integrity of the national landmarks, there is authorized to be appropriated not more than $1,500,000 for each fiscal year.
   - **(3)** To carry out subsections (b), (c), and (g), there is authorized to be appropriated $2,000,000 for each fiscal year.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 100507(a) | 16 U.S.C. 1a–5(a) (1st sentence). | Pub. L. 91–383, § 8 , as added Pub. L. 94–458, § 2 , Oct. 7, 1976 , 90 Stat. 1940 ; Pub. L. 95–625, title VI, § 604(1) , Nov. 10, 1978 , 92 Stat. 3518 ; Pub. L. 96–199, title I, § 104 , Mar. 5, 1980 , 94 Stat. 68 ; Pub. L. 96–344, § 8 , Sept. 8, 1980 , 94 Stat. 1135 ; Pub. L. 103–437, § 6(b) , Nov. 2, 1994 , 108 Stat. 4583 ; Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(I) , Nov. 12, 1996 , 110 Stat. 4196 ; Pub. L. 105–391, title III, § 303 , Nov. 13, 1998 , 112 Stat. 3501 . |
+| 100507(b)(1), (2) | 16 U.S.C. 1a–5(b)(1) , (2). |  |
+| 100507(b)(3) | 16 U.S.C. 1a–5(a) (2d sentence). |  |
+| 100507(b)(4) through (6) | 16 U.S.C. 1a–5(b)(3) through (5). |  |
+| 100507(c) | 16 U.S.C. 1a–5(c) . |  |
+| 100507(d) | 16 U.S.C. 1a–5(e) . |  |
+| 100507(e), (f) | 16 U.S.C. 1a–5(a) (3d, last sentences). |  |
+| 100507(g) | 16 U.S.C. 1a–5(d) . |  |
+| 100507(h) | 16 U.S.C. 1a–5(f) . |  |
+
+
+Monitoring Areas for Inclusion in System
+
+Submission of List of Areas Recommended for Study for Potential Inclusion.—
+
+When list is to be submitted
+
+Factors to be considered
+
+Accompanying synopsis
+
+Congressional authorization required
+
+Authority to conduct certain activities not limited
+
+Study of rivers or trails not affected
+
+Study of Areas for Potential Inclusion.—
+
+Study to be completed within 3 years
+
+Opportunity for public involvement required
+
+Considerations
+
+Scope of study
+
+Compliance with national environmental policy act of 1969
+
+Recommendation of preferred management option
+
+List of Areas Previously Studied.—
+
+Submission of list
+
+Considerations
+
+Areas eligible for inclusion
+
+List of Areas That Exhibit Danger or Threats to the Integrity of Their Resources
+
+Reports and Listings Printed as House Documents
+
+Designation of Office
+
+Authorization of Appropriations.—
+
+Studies of potential new system units and monitoring the welfare of system unit resources
+
+Monitoring welfare and integrity of national landmarks
+
+Carrying out subsections
+
+and
+
+Historical and Revision Notes
+
+100507(a)
+
+16 U.S.C. 1a–5(a)
+
+Pub. L. 91–383, § 8
+
+Pub. L. 94–458, § 2
+
+Oct. 7, 1976
+
+90 Stat. 1940
+
+Pub. L. 95–625, title VI, § 604(1)
+
+Nov. 10, 1978
+
+92 Stat. 3518
+
+Pub. L. 96–199, title I, § 104
+
+Mar. 5, 1980
+
+94 Stat. 68
+
+Pub. L. 96–344, § 8
+
+Sept. 8, 1980
+
+94 Stat. 1135
+
+Pub. L. 103–437, § 6(b)
+
+Nov. 2, 1994
+
+108 Stat. 4583
+
+Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(I)
+
+Nov. 12, 1996
+
+110 Stat. 4196
+
+Pub. L. 105–391, title III, § 303
+
+Nov. 13, 1998
+
+112 Stat. 3501
+
+16 U.S.C. 1a–5(b)(1)
+
+100507(b)(3)
+
+16 U.S.C. 1a–5(a)
+
+16 U.S.C. 1a–5(b)(3)
+
+100507(c)
+
+16 U.S.C. 1a–5(c)
+
+100507(d)
+
+16 U.S.C. 1a–5(e)
+
+100507(e), (f)
+
+16 U.S.C. 1a–5(a)
+
+100507(g)
+
+16 U.S.C. 1a–5(d)
+
+100507(h)
+
+16 U.S.C. 1a–5(f)
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3102](https://www.govinfo.gov/link/statute/128/3102).)*

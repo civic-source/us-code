@@ -3,9 +3,10 @@ title: "Section 3806 - Criminal penalties"
 usc_title: 7
 usc_section: "3806"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3806"
-generated_at: "2026-03-30T02:53:42.404Z"
+generated_at: "2026-11-23T21:25:28.340Z"
+status: "active"
 ---
 
 # § 3806. Criminal penalties
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:42.404Z"
   - **(1)** after the expiration of the time allowed for filing a petition in the court of appeals to review such order, if no such petition has been filed within such time; or
   - **(2)** after the expiration of the time allowed for applying for a writ of certiorari, if such order, or such order as modified, has been sustained by the court of appeals and no such writ has been applied for within such time; or
   - **(3)** after such order, or such order as modified, has been sustained by the courts as provided in section 3804(b) of this title ;
+
+## Source Credit
+
+*([Pub. L. 96–468, § 7](https://www.govinfo.gov/link/plaw/96/public/468), Oct. 17, 1980, [94 Stat. 2231](https://www.govinfo.gov/link/statute/94/2231).)*

@@ -3,9 +3,10 @@ title: "Section 818 - Other definitions and special rules"
 usc_title: 26
 usc_section: "818"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 818"
-generated_at: "2026-03-30T02:55:27.730Z"
+generated_at: "2026-11-23T21:26:06.386Z"
+status: "active"
 ---
 
 # § 818. Other definitions and special rules
@@ -49,3 +50,11 @@ generated_at: "2026-03-30T02:55:27.730Z"
   - **(1)** Any reference to a life insurance contract shall be treated as including a reference to a qualified accelerated death benefit rider on such contract.
   - **(2)** For purposes of this subsection, the term “qualified accelerated death benefit rider” means any rider on a life insurance contract if the only payments under the rider are payments meeting the requirements of section 101(g).
   - **(3)** Paragraph (1) shall not apply to any rider which is treated as a long-term care insurance contract under section 7702B.
+
+In general
+
+Issuance of rider not treated as material change
+
+## Source Credit
+
+*(Added and amended [Pub. L. 98–369, div. A, title II, § 211(a)](https://www.govinfo.gov/link/plaw/98/public/369), title X, § 1001(b)(10), (e), July 18, 1984, [98 Stat. 752](https://www.govinfo.gov/link/statute/98/752), 1011, 1012; [Pub. L. 99–514, title XI](https://www.govinfo.gov/link/plaw/99/public/514), §§ 1106(d)(3)(C), 1112(d)(4), 1136(b), title XVIII, § 1821(n), (o), Oct. 22, 1986, [100 Stat. 2424](https://www.govinfo.gov/link/statute/100/2424), 2445, 2486, 2842; [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1010(k), 1011(e)(5)(A), Nov. 10, 1988, [102 Stat. 3456](https://www.govinfo.gov/link/statute/102/3456), 3461; [Pub. L. 104–191, title III, § 332(a)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 2069](https://www.govinfo.gov/link/statute/110/2069); [Pub. L. 106–170, title V, § 532(c)(1)(D)](https://www.govinfo.gov/link/plaw/106/public/170), (3), Dec. 17, 1999, [113 Stat. 1930](https://www.govinfo.gov/link/statute/113/1930), 1931.)*

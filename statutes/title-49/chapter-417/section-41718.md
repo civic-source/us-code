@@ -3,9 +3,10 @@ title: "Section 41718 - Special rules for Ronald Reagan Washington National Airp
 usc_title: 49
 usc_section: "41718"
 chapter: 417
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 41718"
-generated_at: "2026-03-30T02:56:19.377Z"
+generated_at: "2026-11-23T21:26:40.861Z"
+status: "active"
 ---
 
 # § 41718. Special rules for Ronald Reagan Washington National Airport
@@ -79,3 +80,77 @@ generated_at: "2026-03-30T02:56:19.377Z"
       - **(i)** authorized by the Metropolitan Washington Airports Regulations;
       - **(ii)** agreed to in writing by the air carrier; or
       - **(iii)** charged in the ordinary course of business to an air carrier operating at Ronald Reagan Washington National Airport regardless of whether or not the air carrier obtained a slot exemption authorized under this subsection.
+
+Beyond-Perimeter Exemptions
+
+Within-Perimeter Exemptions
+
+Limitations.—
+
+Stage 3 aircraft required
+
+General exemptions.—
+
+Hourly limitation
+
+Use of existing slots
+
+Allocation of within-perimeter exemptions
+
+Applicability to exemption no. 5133
+
+Application Procedures
+
+Applicability of Certain Laws
+
+Commuters Defined
+
+Additional Slot Exemptions
+
+Increase in slot exemptions
+
+New entrants and limited incumbents
+
+Improved network slots
+
+Notices of intent
+
+Conditions
+
+Scheduling Priority
+
+Additional Slot Exemptions.—
+
+Increase in slot exemptions
+
+Non-limited incumbents
+
+Limited incumbents
+
+Allocation procedures
+
+Limitations
+
+Criteria
+
+Prohibition.—
+
+In general
+
+Rule of construction
+
+Deadline for submission
+
+Deadline for comments
+
+Deadline for final decision
+
+Security Plan
+
+Landings and Takeoffs
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 106–181, title II, § 231(e)(1)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 112](https://www.govinfo.gov/link/statute/114/112); amended [Pub. L. 108–176, title IV](https://www.govinfo.gov/link/plaw/108/public/176), §§ 425, 426(a), Dec. 12, 2003, [117 Stat. 2555](https://www.govinfo.gov/link/statute/117/2555); [Pub. L. 112–95, title IV, § 414(a)](https://www.govinfo.gov/link/plaw/112/public/95), (b), Feb. 14, 2012, [126 Stat. 90](https://www.govinfo.gov/link/statute/126/90), 92; [Pub. L. 118–63, title V, § 502(a)](https://www.govinfo.gov/link/plaw/118/public/63), (b), May 16, 2024, [138 Stat. 1187](https://www.govinfo.gov/link/statute/138/1187), 1188.)*

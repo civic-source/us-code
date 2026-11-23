@@ -3,9 +3,10 @@ title: "Section 95 - Emergency limitations and restrictions on business of membe
 usc_title: 12
 usc_section: "95"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 95"
-generated_at: "2026-03-30T02:53:53.374Z"
+generated_at: "2026-11-23T21:25:36.770Z"
+status: "active"
 ---
 
 # § 95. Emergency limitations and restrictions on business of members of Federal Reserve System; designation of legal holiday for national banking associations; exceptions; “State” defined
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:53.374Z"
 - **(b)**
   - **(1)** In the event of natural calamity, riot, insurrection, war, or other emergency conditions occurring in any State whether caused by acts of nature or of man, the Comptroller of the Currency may designate by proclamation any day a legal holiday for the national banking associations located in that State. In the event that the emergency conditions affect only part of a State, the Comptroller of the Currency may designate the part so affected and may proclaim a legal holiday for the national banking associations located in that affected part. In the event that a State or a State official authorized by law designates any day as a legal holiday for ceremonial or emergency reasons, for the State or any part thereof, that same day shall be a legal holiday for all national banking associations or their offices located in that State or the part so affected. A national banking association or its affected offices may close or remain open on such a State-designated holiday unless the Comptroller of the Currency by written order directs otherwise.
   - **(2)** For the purpose of this subsection, the term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, or any other territory or possession of the United States.
+
+## Source Credit
+
+*(Mar. 9, 1933, ch. 1, title I, § 4, [48 Stat. 2](https://www.govinfo.gov/link/statute/48/2); [Pub. L. 96–221, title VII, § 705](https://www.govinfo.gov/link/plaw/96/public/221), Mar. 31, 1980, [94 Stat. 187](https://www.govinfo.gov/link/statute/94/187); [Pub. L. 97–320, title IV, § 407](https://www.govinfo.gov/link/plaw/97/public/320), Oct. 15, 1982, [96 Stat. 1513](https://www.govinfo.gov/link/statute/96/1513); [Pub. L. 97–457, § 21](https://www.govinfo.gov/link/plaw/97/public/457), Jan. 12, 1983, [96 Stat. 2509](https://www.govinfo.gov/link/statute/96/2509).)*

@@ -3,9 +3,10 @@ title: "Section 1747g - Debentures"
 usc_title: 12
 usc_section: "1747g"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1747g"
-generated_at: "2026-03-30T02:53:53.431Z"
+generated_at: "2026-11-23T21:25:36.925Z"
+status: "active"
 ---
 
 # § 1747g. Debentures
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.431Z"
 - **(f)** Such debentures shall be in such form and in such denominations in multiples of $50, shall be subject to such terms and conditions, and may include such provisions of redemption as shall be prescribed by the Secretary, with the approval of the Secretary of the Treasury, and may be issued in either coupon or registered form.
 - **(g)** Such debentures shall be exempt, both as to principal and interest, from all taxation (except surtaxes, estate, inheritance, and gift taxes) now or hereafter imposed by any Territory, dependency, or possession of the United States, or by the District of Columbia, or by any State, county, municipality, or local taxing authority, shall be payable out of the General Insurance Fund, which shall be primarily liable therefor, and shall be fully and unconditionally guaranteed, as to both the principal thereof and the interest thereon, by the United States, and such guaranty shall be expressed on the face thereof. In the event that the General Insurance Fund fails to pay upon demand, when due, the principal of or the interest on any debentures so guaranteed, the Secretary of the Treasury shall pay to the holders the amount thereof, which is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, and thereupon, to the extent of the amount so paid, the Secretary of the Treasury shall succeed to all the rights of the holders of such debentures.
 - **(h)** Notwithstanding any other provisions of law relating to the acquisition, handling, or disposal of real and other property by the United States, the Secretary shall have power, for the protection of the General Insurance Fund, to pay out of said Fund all expenses or charges in connection with, and to deal with, complete, reconstruct, rent, renovate, modernize, insure, make contracts for the management of, or establish suitable agencies for the management of, or sell for cash or credit or lease in his discretion, in whole or in part, any project acquired pursuant to this subchapter; and, notwithstanding any other provisions of law, the Secretary shall also have power to pursue to final collection by way of compromise or otherwise all claims acquired by, or assigned or transferred to, him in connection with the acquisition or disposal of any project pursuant to this subchapter: Provided , That section 6101 of title 41 shall not be construed to apply to any contract for hazard insurance, or to any purchase or contract for services or supplies on account of any project acquired pursuant to this subchapter if the amount of such purchase or contract does not exceed $1,000.
+
+## Source Credit
+
+*(June 27, 1934, ch. 847, title VII, § 708, as added Aug. 10, 1948, ch. 832, title IV, § 401, [62 Stat. 1278](https://www.govinfo.gov/link/statute/62/1278); amended Apr. 20, 1950, ch. 94, title I, § 122, [64 Stat. 59](https://www.govinfo.gov/link/statute/64/59); [Pub. L. 89–117, title XI, § 1108(t)](https://www.govinfo.gov/link/plaw/89/public/117), Aug. 10, 1965, [79 Stat. 506](https://www.govinfo.gov/link/statute/79/506); [Pub. L. 90–19, § 1(a)(3)](https://www.govinfo.gov/link/plaw/90/public/19), May 25, 1967, [81 Stat. 17](https://www.govinfo.gov/link/statute/81/17).)*

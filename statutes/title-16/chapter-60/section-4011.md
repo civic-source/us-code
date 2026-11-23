@@ -3,9 +3,10 @@ title: "Section 4011 - Functions and powers of Secretary"
 usc_title: 16
 usc_section: "4011"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4011"
-generated_at: "2026-03-30T02:54:23.040Z"
+generated_at: "2026-11-23T21:25:52.009Z"
+status: "active"
 ---
 
 # § 4011. Functions and powers of Secretary
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:23.040Z"
   - **(5)** enforce the provisions of this chapter, as provided under section 4016 of this title ; and
   - **(6)** make all appointments to councils in accordance with section 4009(f) of this title .
 - **(b)** The Secretary may provide, on a reimbursable or other basis, such administrative or technical assistance as a council may request for purposes of the initial organization and subsequent operation of the council.
+
+## Source Credit
+
+*([Pub. L. 99–659, title II, § 212](https://www.govinfo.gov/link/plaw/99/public/659), Nov. 14, 1986, [100 Stat. 3726](https://www.govinfo.gov/link/statute/100/3726).)*

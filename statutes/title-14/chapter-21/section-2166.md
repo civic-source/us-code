@@ -3,9 +3,10 @@ title: "Section 2166 - Continuation on active duty; Coast Guard officers with ce
 usc_title: 14
 usc_section: "2166"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 2166"
-generated_at: "2026-03-30T02:53:51.498Z"
+generated_at: "2026-11-23T21:25:35.424Z"
+status: "active"
 ---
 
 # § 2166. Continuation on active duty; Coast Guard officers with certain critical skills
@@ -14,3 +15,15 @@ generated_at: "2026-03-30T02:53:51.498Z"
 - **(b)** The Commandant shall designate any critical skill, specialty, or career field eligible for continuation on active duty as provided in subsection (a).
 - **(c)** An officer continued on active duty pursuant to this section shall, if not earlier retired, be retired on the first day of the month after the month in which the officer completes 40 years of active service.
 - **(d)** The Commandant shall carry out this section by prescribing policy which shall specify the criteria to be used in designating any critical skill, specialty, or career field for purposes of subsection (b).
+
+In General
+
+Critical Skills, Specialty, or Career Field
+
+Duration of Continuation
+
+Policy
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. K, title CXII, § 11235(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4035](https://www.govinfo.gov/link/statute/136/4035).)*

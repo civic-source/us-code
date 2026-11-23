@@ -3,9 +3,10 @@ title: "Section 5307 - Urbanized area formula grants"
 usc_title: 49
 usc_section: "5307"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 5307"
-generated_at: "2026-03-30T02:56:19.312Z"
+generated_at: "2026-11-23T21:26:40.632Z"
+status: "active"
 ---
 
 # § 5307. Urbanized area formula grants
@@ -87,3 +88,553 @@ generated_at: "2026-03-30T02:56:19.312Z"
   - **(1)** The Secretary may make grants under this subsection to recipients for passenger ferry projects that are eligible for a grant under subsection (a).
   - **(2)** Except as otherwise provided in this subsection, a grant under this subsection shall be subject to the same terms and conditions as a grant under subsection (a).
   - **(3)** The Secretary shall solicit grant applications and make grants for eligible projects on a competitive basis.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5307(a)(1) | 49 App.:1607a(j)(1) (last sentence). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 9(j)(1) (last sentence); added Jan. 6, 1983 , Pub. L. 97–424, § 303 , 96 Stat. 2145 ; Apr. 2, 1987 , Pub. L. 100–17 , §§ 309(b)(1), (2), 327(b), 101 Stat. 227 , 238. |
+| 5307(a)(2) | 49 App.:1607a(m)(1). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 9(h), (i), (m)(1); added Jan. 6, 1983 , Pub. L. 97–424, § 303 , 96 Stat. 2145 , 2147; Apr. 2, 1987 , Pub. L. 100–17, § 327(b) , 101 Stat. 238 ; Oct. 6, 1992 , Pub. L. 102–388, § 503(2) , 106 Stat. 1567 . |
+| 5307(b)(1) | 49 App.:1607a(j)(1) (1st sentence). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 9(j)(1) (1st sentence); added Jan. 6, 1983 , Pub. L. 97–424, § 303 , 96 Stat. 2145 ; Apr. 2, 1987 , Pub. L. 100–17 , §§ 309(b)(3), 327(b), 101 Stat. 227 , 238. |
+| 5307(b)(2) | 49 App.:1607a(j)(1) (2d sentence). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 9(j)(1) (2d sentence); added Dec. 18, 1991 , Pub. L. 102–240, § 3013(h)(1) , 105 Stat. 2107 . |
+| 5307(b)(3) | 49 App.:1607a(j)(1) (3d, 4th sentences). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 9(j)(1) (3d, 4th sentences); added Apr. 2, 1987 , Pub. L. 100–17, § 308 , 101 Stat. 226 . |
+| 5307(b)(4) | 49 App.:1607a(j)(2). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 9(j)(2); added Apr. 2, 1987 , Pub. L. 100–17, § 309(b)(4) , 101 Stat. 227 . |
+| 5307(b)(5) | 49 App.:1607a(j)(3). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 9(j)(3); added Dec. 18, 1991 , Pub. L. 102–240, § 3013(h)(2) , 105 Stat. 2107 . |
+| 5307(c) | 49 App.:1607a(f). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 9(f); added Jan. 6, 1983 , Pub. L. 97–424, § 303 , 96 Stat. 2144 ; Apr. 2, 1987 , Pub. L. 100–17, § 327(b) , 101 Stat. 238 ; Dec. 18, 1991 , Pub. L. 102–240, § 3013(g) , 105 Stat. 2107 . |
+| 5307(d)(1) | 49 App.:1607a(e)(2) (1st, last sentences). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 9(e)(2); added Jan. 6, 1983 , Pub. L. 97–424, § 303 , 96 Stat. 2143 ; Apr. 2, 1987 , Pub. L. 100–17 , §§ 312(a), 327(b), 101 Stat. 228 , 238; Dec. 18, 1991 , Pub. L. 102–240, § 3013(d) , 105 Stat. 2106 . |
+|  | 49 App.:1607a(e)(3). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 202 , § 9(e)(3); added Jan. 6, 1983 , Pub. L. 97–424, § 303 , 96 Stat. 2143 ; Apr. 2, 1987 , Pub. L. 100–17, § 327(b) , 101 Stat. 238 ; Dec. 18, 1991 , Pub. L. 102–240, § 3013(f) , 105 Stat. 2106 . |
+| 5307(d)(2) | 49 App.:1607a(e)(5). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 9(e)(5); added Apr. 2, 1987 , Pub. L. 100–17, § 312(f)(1) , 101 Stat. 229 . |
+| 5307(e) | 49 App.:1607a(k)(1). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 9(k)(1); added Jan. 6, 1983 , Pub. L. 97–424, § 303 , 96 Stat. 2145 ; Apr. 2, 1987 , Pub. L. 100–17 , §§ 309(c), (d), (f), 312(b)(1), 327(b), 101 Stat. 227 , 228, 238. |
+| 5307(f) | 49 App.:1607a (note). | Nov. 21, 1989 , Pub. L. 101–164, § 334(c) , 103 Stat. 1098 . |
+| 5307(g) | 49 App.:1607a(p). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 9(p); added Apr. 2, 1987 , Pub. L. 100–17, § 306(b) , 101 Stat. 225 . |
+| 5307(h) | 49 App.:1607a(e)(6). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 9(e)(6); added Dec. 18, 1991 , Pub. L. 102–240, § 3013(e) , 105 Stat. 2106 . |
+| 5307(i) | 49 App.:1607a(g). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 9(g); added Jan. 6, 1983 , Pub. L. 97–424, § 303 , 96 Stat. 2144 ; Apr. 2, 1987 , Pub. L. 100–17 , §§ 312(f)(2), 327(b), 101 Stat. 229 , 238. |
+| 5307(j) | 49 App.:1607a(e)(4). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 9(e)(4); added Apr. 2, 1987 , Pub. L. 100–17, § 312(b)(2) , 101 Stat. 228 . |
+| 5307(k) | 49 App.:1607a(e)(2) (2d, 3d sentences). |  |
+| 5307( l ) | 49 App.:1607a(i). |  |
+| 5307(m) | 49 App.:1607a(r). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 9(r); added Dec. 18, 1991 , Pub. L. 102–240, § 3013(j) , 105 Stat. 2107 . |
+| 5307(n)(1) | 49 App.:1607a(h). |  |
+| 5307(n)(2) | 49 App.:1607a(e)(1). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 9(e)(1); added Jan. 6, 1983 , Pub. L. 97–424, § 303 , 96 Stat. 2143 ; Apr. 2, 1987 , Pub. L. 100–17, § 327(b) , 101 Stat. 238 ; Dec. 18, 1991 , Pub. L. 102–240, § 3013(c) , 105 Stat. 2106 . |
+
+
+General Authority.—
+
+Grants
+
+Program of Projects
+
+Grant Recipient Requirements
+
+Government Share of Costs.—
+
+Capital projects
+
+Operating expenses
+
+Remaining costs
+
+Use of certain funds
+
+Undertaking Projects in Advance.—
+
+Payment
+
+Approval of application
+
+Financing costs.—
+
+In general
+
+Limitation on the amount of interest
+
+Certification
+
+Reviews, Audits, and Evaluations.—
+
+Annual review.—
+
+In general
+
+Auditing procedures
+
+Triennial review
+
+Actions resulting from review, audit, or evaluation
+
+Treatment
+
+Passenger Ferry Grants.—
+
+In general
+
+Grant requirements
+
+Competitive process
+
+Historical and Revision Notes
+
+Pub. L
+
+5307(a)(1)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 303
+
+96 Stat. 2145
+
+Apr. 2, 1987
+
+Pub. L. 100–17
+
+101 Stat. 227
+
+5307(a)(2)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 303
+
+96 Stat. 2145
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 327(b)
+
+101 Stat. 238
+
+Oct. 6, 1992
+
+Pub. L. 102–388, § 503(2)
+
+106 Stat. 1567
+
+5307(b)(1)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 303
+
+96 Stat. 2145
+
+Apr. 2, 1987
+
+Pub. L. 100–17
+
+101 Stat. 227
+
+5307(b)(2)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3013(h)(1)
+
+105 Stat. 2107
+
+5307(b)(3)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 308
+
+101 Stat. 226
+
+5307(b)(4)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 309(b)(4)
+
+101 Stat. 227
+
+5307(b)(5)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3013(h)(2)
+
+105 Stat. 2107
+
+5307(c)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 303
+
+96 Stat. 2144
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 327(b)
+
+101 Stat. 238
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3013(g)
+
+105 Stat. 2107
+
+5307(d)(1)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 303
+
+96 Stat. 2143
+
+Apr. 2, 1987
+
+Pub. L. 100–17
+
+101 Stat. 228
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3013(d)
+
+105 Stat. 2106
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 202
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 303
+
+96 Stat. 2143
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 327(b)
+
+101 Stat. 238
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3013(f)
+
+105 Stat. 2106
+
+5307(d)(2)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 312(f)(1)
+
+101 Stat. 229
+
+5307(e)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 303
+
+96 Stat. 2145
+
+Apr. 2, 1987
+
+Pub. L. 100–17
+
+101 Stat. 227
+
+5307(f)
+
+Nov. 21, 1989
+
+Pub. L. 101–164, § 334(c)
+
+103 Stat. 1098
+
+5307(g)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 306(b)
+
+101 Stat. 225
+
+5307(h)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3013(e)
+
+105 Stat. 2106
+
+5307(i)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 303
+
+96 Stat. 2144
+
+Apr. 2, 1987
+
+Pub. L. 100–17
+
+101 Stat. 229
+
+5307(j)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 312(b)(2)
+
+101 Stat. 228
+
+5307(k)
+
+5307( l )
+
+5307(m)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3013(j)
+
+105 Stat. 2107
+
+5307(n)(1)
+
+5307(n)(2)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 303
+
+96 Stat. 2143
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 327(b)
+
+101 Stat. 238
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3013(c)
+
+105 Stat. 2106
+
+Special rule
+
+Exception to the special rule
+
+Special rule for fiscal years 2005 through 2012
+
+Special rule for fiscal years 2005 through 2011 and the period beginning on october 1, 2011 , and ending on june 30, 2012
+
+ending on july 6, 2012
+
+ending on june 30, 2012
+
+Special rule for fiscal years 2005 through 2011 and the period beginning on october 1, 2011 , and ending on june 30, 2012
+
+Special rule for fiscal years 2005 through 2011 and the period beginning on october 1, 2011 , and ending on march 31, 2012
+
+Maximum amounts in fiscal years 2008 through 2012
+
+Maximum amounts in fiscal years 2008 through 2011 and the period beginning on october 1, 2011 , and ending on june 30, 2012
+
+ending on july 6, 2012
+
+ending on june 30, 2012
+
+Maximum amounts in fiscal years 2008 through 2011 and the period beginning on october 1, 2011 , and ending on june 30, 2012
+
+Maximum amounts in fiscal years 2008 through 2011 and the period beginning on october 1, 2011 , and ending on march 31, 2012
+
+Special rule for fiscal years 2005 through 2011 and the period beginning on october 1, 2011 , and ending on march 31, 2012
+
+Special rule for fiscal years 2005 through 2011
+
+Special rule for fiscal years 2005 through 2011
+
+Special rule for fiscal years 2005 through 2010, and the period beginning october 1, 2010 , and ending march 4, 2011
+
+Maximum amounts in fiscal years 2008 through 2011 and the period beginning on october 1, 2011 , and ending on march 31, 2012
+
+Maximum amounts in fiscal years 2008 through 2011
+
+Maximum amounts in fiscal years 2008 through 2011
+
+Maximum amounts in fiscal years 2008 through 2010 and during the period beginning october 1, 2010 , and ending march 4, 2011
+
+march 4, 2011
+
+december 31, 2010
+
+2010, and the period beginning october 1, 2010 , and ending december 31, 2010
+
+2009
+
+march 4, 2011
+
+december 31, 2010
+
+through 2010 and during the period beginning october 1, 2010 , and ending december 31, 2010
+
+and 2009
+
+2009
+
+2007
+
+july 30, 2005
+
+july 27, 2005
+
+july 27, 2005
+
+july 21, 2005
+
+july 21, 2005
+
+july 19, 2005
+
+july 19, 2005
+
+june 30, 2005
+
+june 30, 2005
+
+may 31, 2005
+
+In general
+
+Period of availability
+
+Report
+
+and for the period of october 1, 2004 , through may 31, 2005
+
+2004
+
+fiscal years 2003 and 2004
+
+fiscal year 2003 and for the period of october 1, 2003 , through july 31, 2004
+
+july 31, 2004
+
+june 30, 2004
+
+june 30, 2004
+
+april 30, 2004
+
+april 30, 2004
+
+february 29, 2004
+
+Associated capital maintenance items
+
+Designated recipient
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 795](https://www.govinfo.gov/link/statute/108/795); [Pub. L. 103–429, § 6(7)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4378](https://www.govinfo.gov/link/statute/108/4378); [Pub. L. 104–287, § 5(11)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3389](https://www.govinfo.gov/link/statute/110/3389); [Pub. L. 105–178, title III, § 3007(a)(1)](https://www.govinfo.gov/link/plaw/105/public/178), (b)–(h), June 9, 1998, [112 Stat. 347](https://www.govinfo.gov/link/statute/112/347), 348; [Pub. L. 105–206, title IX, § 9009(e)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 855](https://www.govinfo.gov/link/statute/112/855); [Pub. L. 107–232, § 1](https://www.govinfo.gov/link/plaw/107/public/232), Oct. 1, 2002, [116 Stat. 1478](https://www.govinfo.gov/link/statute/116/1478); [Pub. L. 108–88, § 8(n)](https://www.govinfo.gov/link/plaw/108/public/88), Sept. 30, 2003, [117 Stat. 1125](https://www.govinfo.gov/link/statute/117/1125); [Pub. L. 108–202, § 9(n)](https://www.govinfo.gov/link/plaw/108/public/202), Feb. 29, 2004, [118 Stat. 488](https://www.govinfo.gov/link/statute/118/488); [Pub. L. 108–224, § 7(n)](https://www.govinfo.gov/link/plaw/108/public/224), Apr. 30, 2004, [118 Stat. 636](https://www.govinfo.gov/link/statute/118/636); [Pub. L. 108–263, § 7(n)](https://www.govinfo.gov/link/plaw/108/public/263), June 30, 2004, [118 Stat. 708](https://www.govinfo.gov/link/statute/118/708); [Pub. L. 108–280, § 7(n)](https://www.govinfo.gov/link/plaw/108/public/280), July 30, 2004, [118 Stat. 885](https://www.govinfo.gov/link/statute/118/885); [Pub. L. 108–310, § 8(n)](https://www.govinfo.gov/link/plaw/108/public/310), Sept. 30, 2004, [118 Stat. 1158](https://www.govinfo.gov/link/statute/118/1158); [Pub. L. 109–14, § 7(m)](https://www.govinfo.gov/link/plaw/109/public/14), May 31, 2005, [119 Stat. 333](https://www.govinfo.gov/link/statute/119/333); [Pub. L. 109–20, § 7(m)](https://www.govinfo.gov/link/plaw/109/public/20), July 1, 2005, [119 Stat. 355](https://www.govinfo.gov/link/statute/119/355); [Pub. L. 109–35, § 7(m)](https://www.govinfo.gov/link/plaw/109/public/35), July 20, 2005, [119 Stat. 389](https://www.govinfo.gov/link/statute/119/389); [Pub. L. 109–37, § 7(m)](https://www.govinfo.gov/link/plaw/109/public/37), July 22, 2005, [119 Stat. 404](https://www.govinfo.gov/link/statute/119/404); [Pub. L. 109–40, § 7(m)](https://www.govinfo.gov/link/plaw/109/public/40), July 28, 2005, [119 Stat. 420](https://www.govinfo.gov/link/statute/119/420); [Pub. L. 109–59, title III](https://www.govinfo.gov/link/plaw/109/public/59), §§ 3002(b)(4), 3009(a)–(h), Aug. 10, 2005, [119 Stat. 1545](https://www.govinfo.gov/link/statute/119/1545), 1568–1571; [Pub. L. 110–244, title II, § 201(c)](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1609](https://www.govinfo.gov/link/statute/122/1609); [Pub. L. 111–147, title IV, § 432](https://www.govinfo.gov/link/plaw/111/public/147), Mar. 18, 2010, [124 Stat. 88](https://www.govinfo.gov/link/statute/124/88); [Pub. L. 111–322, title II, § 2302](https://www.govinfo.gov/link/plaw/111/public/322), Dec. 22, 2010, [124 Stat. 3526](https://www.govinfo.gov/link/statute/124/3526); [Pub. L. 112–5, title III, § 302](https://www.govinfo.gov/link/plaw/112/public/5), Mar. 4, 2011, [125 Stat. 18](https://www.govinfo.gov/link/statute/125/18); [Pub. L. 112–30, title I, § 132](https://www.govinfo.gov/link/plaw/112/public/30), Sept. 16, 2011, [125 Stat. 350](https://www.govinfo.gov/link/statute/125/350); [Pub. L. 112–102, title III, § 302](https://www.govinfo.gov/link/plaw/112/public/102), Mar. 30, 2012, [126 Stat. 275](https://www.govinfo.gov/link/statute/126/275); [Pub. L. 112–140, title III, § 302](https://www.govinfo.gov/link/plaw/112/public/140), June 29, 2012, [126 Stat. 396](https://www.govinfo.gov/link/statute/126/396); [Pub. L. 112–141, div. B, § 20007](https://www.govinfo.gov/link/plaw/112/public/141), div. G, title III, § 113002, July 6, 2012, [126 Stat. 652](https://www.govinfo.gov/link/statute/126/652), 983; [Pub. L. 114–94, div. A, title III, § 3004](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1450](https://www.govinfo.gov/link/statute/129/1450); [Pub. L. 115–31, div. K, title I, § 165](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 749](https://www.govinfo.gov/link/statute/131/749).)*

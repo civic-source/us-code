@@ -3,9 +3,10 @@ title: "Section 364 - Obtaining credit"
 usc_title: 11
 usc_section: "364"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 364"
-generated_at: "2026-03-30T02:53:53.875Z"
+generated_at: "2026-11-23T21:25:34.903Z"
+status: "active"
 ---
 
 # § 364. Obtaining credit
@@ -23,3 +24,15 @@ generated_at: "2026-03-30T02:53:53.875Z"
   - **(2)** In any hearing under this subsection, the trustee has the burden of proof on the issue of adequate protection.
 - **(e)** The reversal or modification on appeal of an authorization under this section to obtain credit or incur debt, or of a grant under this section of a priority or a lien, does not affect the validity of any debt so incurred, or any priority or lien so granted, to an entity that extended such credit in good faith, whether or not such entity knew of the pendency of the appeal, unless such authorization and the incurring of such debt, or the granting of such priority or lien, were stayed pending appeal.
 - **(f)** Except with respect to an entity that is an underwriter as defined in section 1145(b) of this title , section 5 of the Securities Act of 1933, the Trust Indenture Act of 1939, and any State or local law requiring registration for offer or sale of a security or registration or licensing of an issuer of, underwriter of, or broker or dealer in, a security does not apply to the offer or sale under this section of a security that is not an equity security.
+
+Effective date
+
+Sunset.—
+
+In general
+
+Applicability
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2574](https://www.govinfo.gov/link/statute/92/2574); [Pub. L. 99–554, title II, § 257](https://www.govinfo.gov/link/plaw/99/public/554) (l), Oct. 27, 1986, [100 Stat. 3115](https://www.govinfo.gov/link/statute/100/3115); [Pub. L. 103–394, title V, § 501(d)(9)](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4144](https://www.govinfo.gov/link/statute/108/4144); [Pub. L. 116–54, § 4(a)(7)](https://www.govinfo.gov/link/plaw/116/public/54), Aug. 23, 2019, [133 Stat. 1086](https://www.govinfo.gov/link/statute/133/1086); [Pub. L. 116–260, div. N, title III, § 320(a)](https://www.govinfo.gov/link/plaw/116/public/260), (f)(2)(A)(i), Dec. 27, 2020, [134 Stat. 2015](https://www.govinfo.gov/link/statute/134/2015), 2016.)*

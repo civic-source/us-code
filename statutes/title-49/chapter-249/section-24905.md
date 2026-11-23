@@ -3,9 +3,10 @@ title: "Section 24905 - Northeast Corridor Commission; Safety Committee"
 usc_title: 49
 usc_section: "24905"
 chapter: 249
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 24905"
-generated_at: "2026-03-30T02:56:19.348Z"
+generated_at: "2026-11-23T21:26:40.747Z"
+status: "active"
 ---
 
 # § 24905. Northeast Corridor Commission; Safety Committee
@@ -72,3 +73,99 @@ generated_at: "2026-03-30T02:56:19.348Z"
     - **(F)** rail labor; and
     - **(G)** other individuals and organizations the Secretary decides have a significant interest in rail safety or security.
   - **(2)** The Committee established under this subsection ceases to exist on the date that the Secretary determines positive train control, as required by section 20157, is fully implemented along the Northeast Corridor.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 24905(a)(1) | 45:585(c). | Oct. 30, 1970 , Pub. L. 91–518 , 84 Stat. 1327 , § 505(c); added Jan. 14, 1983 , Pub. L. 97–468, § 508(2) , 96 Stat. 2554 . |
+| 24905(a)(2) | 45:585(a). | Oct. 30, 1970 , Pub. L. 91–518 , 84 Stat. 1327 , § 505(a), (b); added Aug. 13, 1981 , Pub. L. 97–35, § 1137 , 95 Stat. 650 ; Jan. 14, 1983 , Pub. L. 97–468, § 508(1) , 96 Stat. 2554 . |
+| 24905(a)(3) | 45:585(b). |  |
+| 24905(b) | 45:431 (note). | June 22, 1988 , Pub. L. 100–342, § 11 , 102 Stat. 629 ; Sept. 3, 1992 , Pub. L. 102–365, § 18 , 106 Stat. 982 . |
+
+
+Northeast Corridor Commission.—
+
+Statement of Goals and Recommendations.—
+
+Statement of goals
+
+Recommendations
+
+Submission of statement of goals, recommendations, and performance reports
+
+Allocation of Costs.—
+
+Policy
+
+Implementation.—
+
+In general
+
+Effect of failure to implement or comply with policy
+
+Revisions
+
+Request for dispute resolution
+
+Authorization of Appropriations
+
+Northeast Corridor Safety Committee.—
+
+In general
+
+Sunset
+
+Historical and Revision Notes
+
+24905(a)(1)
+
+Oct. 30, 1970
+
+Pub. L. 91–518
+
+84 Stat. 1327
+
+Jan. 14, 1983
+
+Pub. L. 97–468, § 508(2)
+
+96 Stat. 2554
+
+24905(a)(2)
+
+Oct. 30, 1970
+
+Pub. L. 91–518
+
+84 Stat. 1327
+
+Aug. 13, 1981
+
+Pub. L. 97–35, § 1137
+
+95 Stat. 650
+
+Jan. 14, 1983
+
+Pub. L. 97–468, § 508(1)
+
+96 Stat. 2554
+
+24905(a)(3)
+
+24905(b)
+
+June 22, 1988
+
+Pub. L. 100–342, § 11
+
+102 Stat. 629
+
+Sept. 3, 1992
+
+Pub. L. 102–365, § 18
+
+106 Stat. 982
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 935](https://www.govinfo.gov/link/statute/108/935); [Pub. L. 110–432, div. B, title II, § 212(a)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4921](https://www.govinfo.gov/link/statute/122/4921); [Pub. L. 114–94, div. A, title XI, § 11305(a)](https://www.govinfo.gov/link/plaw/114/public/94) –(d)(1), Dec. 4, 2015, [129 Stat. 1656](https://www.govinfo.gov/link/statute/129/1656), 1657; [Pub. L. 115–420](https://www.govinfo.gov/link/plaw/115/public/420), §§ 4(a), 6(a), Jan. 3, 2019, [132 Stat. 5444](https://www.govinfo.gov/link/statute/132/5444), 5445; [Pub. L. 117–58, div. B, title II, § 22302](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 716](https://www.govinfo.gov/link/statute/135/716).)*

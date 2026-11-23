@@ -3,9 +3,10 @@ title: "Section 1356c - Wind lease sales for areas of the outer Continental Shel
 usc_title: 43
 usc_section: "1356c"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1356c"
-generated_at: "2026-03-30T02:55:57.473Z"
+generated_at: "2026-11-23T21:26:19.836Z"
+status: "active"
 ---
 
 # § 1356c. Wind lease sales for areas of the outer Continental Shelf offshore of territories of the United States
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:57.473Z"
     - **(A)** The Secretary has concluded that a wind lease sale in the area is feasible.
     - **(B)** The Secretary has determined that there is sufficient interest in leasing the area.
     - **(C)** The Secretary has consulted with the Governor of the territory regarding the suitability of the area for wind energy development.
+
+## Source Credit
+
+*(Aug. 7, 1953, ch. 345, § 33, as added [Pub. L. 117–169, title V, § 50251(b)(2)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2055](https://www.govinfo.gov/link/statute/136/2055).)*

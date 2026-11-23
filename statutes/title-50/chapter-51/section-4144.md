@@ -3,12 +3,17 @@ title: "Section 4144 - Fees of attorneys and agents"
 usc_title: 50
 usc_section: "4144"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4144"
-generated_at: "2026-03-30T02:56:26.267Z"
+generated_at: "2026-11-23T21:26:39.090Z"
+status: "active"
 ---
 
 # § 4144. Fees of attorneys and agents
 
 No remuneration on account of services rendered on behalf of any claimant in connection with any claim filed with the Commission under this subchapter shall exceed 10 per centum (or such lesser per centum as may be fixed by the Commission with respect to any class of claims) of the total amount paid pursuant to any award certified under the provisions of this subchapter on account of such claim. Any agreement to the contrary shall be unlawful and void. Whoever, in the United States or elsewhere, demands or receives, on account of services so rendered, any remuneration in excess of the maximum permitted by this section shall be guilty of a misdemeanor and, upon conviction thereof, shall be fined not more than $5,000 or imprisoned not more than twelve months, or both.
 
+
+## Source Credit
+
+*(July 3, 1948, ch. 826, title II, § 214, as added [Pub. L. 87–846, title I, § 103](https://www.govinfo.gov/link/plaw/87/public/846), Oct. 22, 1962, [76 Stat. 1112](https://www.govinfo.gov/link/statute/76/1112).)*

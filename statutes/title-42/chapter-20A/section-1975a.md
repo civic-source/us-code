@@ -3,9 +3,10 @@ title: "Section 1975a - Duties of Commission"
 usc_title: 42
 usc_section: "1975a"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1975a"
-generated_at: "2026-03-30T02:56:11.136Z"
+generated_at: "2026-11-23T21:26:32.270Z"
+status: "active"
 ---
 
 # § 1975a. Duties of Commission
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.136Z"
   - **(3)** A witness attending any proceeding of the Commission shall be paid the same fees and mileage that are paid witnesses in the courts of the United States.
   - **(4)** The Commission may use depositions and written interrogatories to obtain information and testimony about matters that are the subject of a Commission hearing or report.
 - **(f)** Nothing in this chapter or any other Act shall be construed as authorizing the Commission, its advisory committees, or any other person under its supervision or control to study and collect, make appraisals of, or serve as a clearinghouse for any information about laws and policies of the Federal Government or any other governmental authority in the United States, with respect to abortion.
+
+## Source Credit
+
+*([Pub. L. 98–183, § 3](https://www.govinfo.gov/link/plaw/98/public/183), Nov. 30, 1983, [97 Stat. 1302](https://www.govinfo.gov/link/statute/97/1302); [Pub. L. 102–167, § 5](https://www.govinfo.gov/link/plaw/102/public/167), Nov. 26, 1991, [105 Stat. 1101](https://www.govinfo.gov/link/statute/105/1101); [Pub. L. 103–419, § 2](https://www.govinfo.gov/link/plaw/103/public/419), Oct. 25, 1994, [108 Stat. 4339](https://www.govinfo.gov/link/statute/108/4339).)*

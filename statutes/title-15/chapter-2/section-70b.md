@@ -3,9 +3,10 @@ title: "Section 70b - Misbranded and falsely advertised textile fiber products"
 usc_title: 15
 usc_section: "70b"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 70b"
-generated_at: "2026-03-30T02:54:08.029Z"
+generated_at: "2026-11-23T21:25:39.498Z"
+status: "active"
 ---
 
 # § 70b. Misbranded and falsely advertised textile fiber products
@@ -28,3 +29,9 @@ generated_at: "2026-03-30T02:54:08.029Z"
 - **(k)**
   - **(1)** Notwithstanding any other provision of law, socks provided for in subheading 6115.92.90, 6115.93.90, 6115.99.18, 6111.20.60, 6111.30.50, or 6111.90.50 of the Harmonized Tariff Schedule of the United States, as in effect on September 1, 2003 , shall be marked as legibly, indelibly, and permanently as the nature of the article or package will permit in such a manner as to indicate to the ultimate consumer in the United States the English name of the country of origin of the article. The marking required by this subsection shall be on the front of the package, adjacent to the size designation of the product, and shall be set forth in such a manner as to be clearly legible, conspicuous, and readily accessible to the ultimate consumer.
   - **(2)** Any package that contains several different types of goods and includes socks classified under subheading 6115.92.90, 6115.93.90, 6115.99.18, 6111.20.60, 6111.30.50, or 6111.90.50 of the Harmonized Tariff Schedule of the United States, as in effect on September 1, 2003 , shall not be subject to the requirements of paragraph (1).
+
+Exceptions
+
+## Source Credit
+
+*([Pub. L. 85–897, § 4](https://www.govinfo.gov/link/plaw/85/public/897), Sept. 2, 1958, [72 Stat. 1719](https://www.govinfo.gov/link/statute/72/1719); [Pub. L. 89–35](https://www.govinfo.gov/link/plaw/89/public/35), §§ 1, 2, June 5, 1965, [79 Stat. 124](https://www.govinfo.gov/link/statute/79/124); [Pub. L. 98–417, title III](https://www.govinfo.gov/link/plaw/98/public/417), §§ 301–303, Sept. 24, 1984, [98 Stat. 1603](https://www.govinfo.gov/link/statute/98/1603), 1604; [Pub. L. 108–429, title II, § 2004(h)(1)](https://www.govinfo.gov/link/plaw/108/public/429), Dec. 3, 2004, [118 Stat. 2594](https://www.govinfo.gov/link/statute/118/2594).)*

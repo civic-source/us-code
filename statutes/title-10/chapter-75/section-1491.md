@@ -3,9 +3,10 @@ title: "Section 1491 - Funeral honors functions at funerals for veterans"
 usc_title: 10
 usc_section: "1491"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1491"
-generated_at: "2026-03-30T02:53:38.126Z"
+generated_at: "2026-11-23T21:25:32.492Z"
+status: "active"
 ---
 
 # § 1491. Funeral honors functions at funerals for veterans
@@ -38,3 +39,29 @@ generated_at: "2026-03-30T02:53:38.126Z"
 - **(h)** In this section, the term “veteran” means a decedent who—
   - **(1)** served in the active military, naval, air, or space service (as defined in section 101(24) of title 38 ) and who was discharged or released therefrom under conditions other than dishonorable; or
   - **(2)** was a member or former member of the Selected Reserve described in section 2301(f) of title 38 .
+
+Availability of Funeral Honors Detail Ensured
+
+Composition of Funeral Honors Details
+
+Ceremony
+
+Support
+
+Waiver Authority
+
+Regulations
+
+Annual Report
+
+Veteran Defined
+
+Installation plans for honors required
+
+Elements
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 105–261, div. A, title V, § 567(b)(1)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2030](https://www.govinfo.gov/link/statute/112/2030); amended [Pub. L. 106–65, div. A, title V, § 578(a)(1)](https://www.govinfo.gov/link/plaw/106/public/65), (b)–(e), (k)(1), title X, § 1067(1), Oct. 5, 1999, [113 Stat. 625–627](https://www.govinfo.gov/link/statute/113/625), 630, 774; [Pub. L. 107–107, div. A, title V](https://www.govinfo.gov/link/plaw/107/public/107), §§ 561(a), 564, Dec. 28, 2001, [115 Stat. 1119](https://www.govinfo.gov/link/statute/115/1119), 1120; [Pub. L. 107–314, div. A, title V, § 571](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2556](https://www.govinfo.gov/link/statute/116/2556); [Pub. L. 109–163, div. A, title VI, § 662(b)(4)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3315](https://www.govinfo.gov/link/statute/119/3315); [Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1465](https://www.govinfo.gov/link/statute/125/1465); [Pub. L. 112–239, div. A, title X, § 1076(a)(9)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1948](https://www.govinfo.gov/link/statute/126/1948); [Pub. L. 113–66, div. A, title VI, § 621(f)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 784](https://www.govinfo.gov/link/statute/127/784); [Pub. L. 116–92, div. A, title V, § 574(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1404](https://www.govinfo.gov/link/statute/133/1404); [Pub. L. 116–283, div. A, title V, § 596(a)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3667](https://www.govinfo.gov/link/statute/134/3667); [Pub. L. 117–263, div. A, title VI, § 626(c)(5)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2628](https://www.govinfo.gov/link/statute/136/2628); [Pub. L. 118–31, div. A, title XVII, § 1741(b)(5)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 681](https://www.govinfo.gov/link/statute/137/681).)*

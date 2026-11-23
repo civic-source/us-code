@@ -3,12 +3,17 @@ title: "Section 11171 - Grants and projects"
 usc_title: 34
 usc_section: "11171"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 11171"
-generated_at: "2026-03-30T02:55:33.278Z"
+generated_at: "2026-11-23T21:26:09.702Z"
+status: "active"
 ---
 
 # § 11171. Grants and projects
 
 - **(a)** The Administrator may make grants to and contracts with States, units of general local government, Indian tribal governments, public and private agencies, organizations, and individuals, or combinations thereof, to carry out projects for the development, testing, and demonstration of promising initiatives and programs for the prevention, control, or reduction of juvenile delinquency. The Administrator shall ensure that, to the extent reasonable and practicable, such grants are made to achieve an equitable geographical distribution of such projects throughout the United States.
 - **(b)** A grant made under subsection (a) may be used to pay all or part of the cost of the project for which such grant is made.
+
+## Source Credit
+
+*([Pub. L. 93–415, title II, § 261](https://www.govinfo.gov/link/plaw/93/public/415), as added [Pub. L. 107–273, div. C, title II, § 12212](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1891](https://www.govinfo.gov/link/statute/116/1891).)*

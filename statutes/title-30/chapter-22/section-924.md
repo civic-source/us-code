@@ -3,9 +3,10 @@ title: "Section 924 - Time for filing claims"
 usc_title: 30
 usc_section: "924"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 924"
-generated_at: "2026-03-30T02:55:29.392Z"
+generated_at: "2026-11-23T21:26:00.405Z"
+status: "active"
 ---
 
 # § 924. Time for filing claims
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:29.392Z"
 - **(c)** No benefits under this part shall be payable for any period prior to the date a claim therefor is filed.
 - **(d)** No benefits shall be paid under this part to the residents of any State which, after December 30, 1969 , reduces the benefits payable to persons eligible to receive benefits under this part, under its State laws which are applicable to its general work force with regard to workmen’s compensation, unemployment compensation, or disability insurance.
 - **(e)** No benefits shall be payable to a widow, child, parent, brother, or sister under this part on account of the death of a miner unless (1) benefits under this part were being paid to such miner with respect to disability due to pneumoconiosis prior to his death, (2) the death of such miner occurred prior to January 1, 1974 , or (3) any such individual is entitled to benefits under paragraph (5) of section 921(c) of this title .
+
+## Source Credit
+
+*([Pub. L. 91–173, title IV, § 414](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 795](https://www.govinfo.gov/link/statute/83/795); [Pub. L. 92–303](https://www.govinfo.gov/link/plaw/92/public/303), §§ 1(c)(1), (6), 5(1)–(3), May 19, 1972, [86 Stat. 151](https://www.govinfo.gov/link/statute/86/151), 152, 155; [Pub. L. 95–239, § 3(b)(2)](https://www.govinfo.gov/link/plaw/95/public/239), Mar. 1, 1978, [92 Stat. 97](https://www.govinfo.gov/link/statute/92/97); [Pub. L. 103–296, title I, § 108(i)(2)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1488](https://www.govinfo.gov/link/statute/108/1488); [Pub. L. 107–275, § 2(a)](https://www.govinfo.gov/link/plaw/107/public/275), Nov. 2, 2002, [116 Stat. 1925](https://www.govinfo.gov/link/statute/116/1925).)*

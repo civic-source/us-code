@@ -3,9 +3,10 @@ title: "Section 8126 - Subpenas; oaths; examination of witnesses"
 usc_title: 5
 usc_section: "8126"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8126"
-generated_at: "2026-03-30T02:52:56.042Z"
+generated_at: "2026-11-23T21:25:23.355Z"
+status: "active"
 ---
 
 # § 8126. Subpenas; oaths; examination of witnesses
@@ -16,3 +17,24 @@ The Secretary of Labor, on any matter within his jurisdiction under this subchap
   - **(2)** administer oaths;
   - **(3)** examine witnesses; and
   - **(4)** require the production of books, papers, documents, and other evidence.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 780 . | Sept. 7, 1916, ch. 458, § 29 , 39 Stat. 748 . Oct. 14, 1949, ch. 691, § 205(c)(2) , 63 Stat. 864 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 780
+
+Sept. 7, 1916, ch. 458, § 29
+
+39 Stat. 748
+
+Oct. 14, 1949, ch. 691, § 205(c)(2)
+
+63 Stat. 864
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 545](https://www.govinfo.gov/link/statute/80/545).)*

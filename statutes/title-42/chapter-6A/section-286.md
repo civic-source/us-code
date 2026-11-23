@@ -3,9 +3,10 @@ title: "Section 286 - National Library of Medicine"
 usc_title: 42
 usc_section: "286"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 286"
-generated_at: "2026-03-30T02:56:10.751Z"
+generated_at: "2026-11-23T21:26:30.518Z"
+status: "active"
 ---
 
 # § 286. National Library of Medicine
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:10.751Z"
   - **(3)** because there is no medical library located in such area which, with financial assistance under section 286b–6 of this title , can feasibly be developed into a regional medical library adequate to serve such area,
 - **(f)** Section 238 of this title shall be applicable to the acceptance and administration of gifts made for the benefit of the Library or for carrying out any of its functions, and the Board of Regents shall make recommendations to the Secretary relating to establishment within the Library of suitable memorials to the donors.
 - **(g)** For purposes of this part, the terms “medicine” and “medical”, except when used in section 286a of this title , include preventive and therapeutic medicine, dentistry, pharmacy, hospitalization, nursing, public health, and the fundamental sciences related thereto, and other related fields of study, research, or ac­tivity.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 465, as added [Pub. L. 99–158, § 2](https://www.govinfo.gov/link/plaw/99/public/158), Nov. 20, 1985, [99 Stat. 857](https://www.govinfo.gov/link/statute/99/857); amended [Pub. L. 99–660, title III, § 311(b)(1)](https://www.govinfo.gov/link/plaw/99/public/660), Nov. 14, 1986, [100 Stat. 3779](https://www.govinfo.gov/link/statute/100/3779); [Pub. L. 100–202, § 101(h) [title II, § 215]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–256](https://www.govinfo.gov/link/statute/101/1329), 1329–275; [Pub. L. 100–607, title II, § 204(2)](https://www.govinfo.gov/link/plaw/100/public/607), Nov. 4, 1988, [102 Stat. 3079](https://www.govinfo.gov/link/statute/102/3079); [Pub. L. 100–690, title II, § 2620(b)(1)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4244](https://www.govinfo.gov/link/statute/102/4244); [Pub. L. 101–381, title I, § 102(2)](https://www.govinfo.gov/link/plaw/101/public/381), Aug. 18, 1990, [104 Stat. 585](https://www.govinfo.gov/link/statute/104/585); [Pub. L. 103–43, title XIV, § 1401(a)](https://www.govinfo.gov/link/plaw/103/public/43), (c)(1), title XX, § 2010(b)(3), June 10, 1993, [107 Stat. 170](https://www.govinfo.gov/link/statute/107/170), 214.)*

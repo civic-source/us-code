@@ -3,9 +3,10 @@ title: "Section 2153b - Export policies relating to peaceful nuclear activities 
 usc_title: 42
 usc_section: "2153b"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2153b"
-generated_at: "2026-03-30T02:56:11.151Z"
+generated_at: "2026-11-23T21:26:32.343Z"
+status: "active"
 ---
 
 # § 2153b. Export policies relating to peaceful nuclear activities and international nuclear trade
@@ -23,3 +24,7 @@ The President shall take immediate and vigorous steps to seek agreement from all
   - **(2)** Any facilities within the territory of any nation or group of nations, under its jurisdiction, or under its control anywhere for the necessary short-term storage of fuel elements containing plutonium, uranium 233, or uranium enriched to greater than 20 percent in the isotope 235 prior to placement in a reactor or of irradiated fuel elements prior to transfer as required in subparagraph (1) shall be placed under effective international auspices and inspection.
 - **(c)** Adequate physical security measures will be established and maintained with respect to all nuclear activities within the territory of each nation and group of nations, under its jurisdiction, or under its control anywhere, and with respect to any international shipment of significant quantities of source or special nuclear material or irradiated source or special nuclear material, which shall also be conducted under international safeguards.
 - **(d)** Nothing in this section shall be interpreted to require international control or supervision of any United States military activities.
+
+## Source Credit
+
+*([Pub. L. 95–242, title IV, § 403](https://www.govinfo.gov/link/plaw/95/public/242), Mar. 10, 1978, [92 Stat. 146](https://www.govinfo.gov/link/statute/92/146).)*

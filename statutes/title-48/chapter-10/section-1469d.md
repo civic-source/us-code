@@ -3,9 +3,10 @@ title: "Section 1469d - General technical assistance"
 usc_title: 48
 usc_section: "1469d"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1469d"
-generated_at: "2026-03-30T02:56:14.586Z"
+generated_at: "2026-11-23T21:26:38.003Z"
+status: "active"
 ---
 
 # § 1469d. General technical assistance
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:14.586Z"
 - **(b)** The Secretary of the Interior is further authorized to provide technical assistance to, and maintenance of agricultural plantings and physical facilities for, the peoples from Enewetak Atoll and Bikini Atoll, as well as for the purchase of food and equipment and for the transportation of such food, equipment and persons as he deems necessary and appropriate until such areas produce sufficient food to fully sustain the residents after resettlement. This provision shall not cease to be applicable either before or after the termination of the trusteeship without the express approval of the United States Congress.
 - **(c)** The Secretary of Agriculture is authorized to extend, in his discretion, programs administered by the Department of Agriculture to Guam, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, the Virgin Islands, and American Samoa (hereinafter called the territories). Notwithstanding any other provision of law, the Secretary of Agriculture is authorized to waive or modify any statutory requirements relating to the provision of assistance under such programs when he deems it necessary in order to adapt the programs to the needs of the respective territory: Provided , That not less than sixty days prior to extending any program pursuant to this section or waiving or modifying any statutory requirement pursuant to this section, the Secretary of Agriculture shall notify the Committee on Agriculture and the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Agriculture, Nutrition, and Forestry of the Senate of his proposed action together with an explanation of why his action is necessary and the anticipated benefits to each territory affected. Such programs shall be carried out in cooperation with the respective governments of the territories and shall be covered by a memorandum of understanding between the respective territorial government and the Department of Agriculture. Any sums appropriated pursuant to this paragraph shall be allocated to the agencies of the Department of Agriculture concerned with the administration of programs in the territories.
 - **(d)** Effective October 1, 1981 , there are authorized to be appropriated such sums as may be necessary to carry out the purposes of this section.
+
+## Source Credit
+
+*([Pub. L. 96–597, title VI, § 601](https://www.govinfo.gov/link/plaw/96/public/597), Dec. 24, 1980, [94 Stat. 3479](https://www.govinfo.gov/link/statute/94/3479); [Pub. L. 103–437, § 17(a)(2)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4595](https://www.govinfo.gov/link/statute/108/4595).)*

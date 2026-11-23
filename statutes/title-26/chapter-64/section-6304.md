@@ -3,9 +3,10 @@ title: "Section 6304 - Fair tax collection practices"
 usc_title: 26
 usc_section: "6304"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6304"
-generated_at: "2026-03-30T02:55:27.847Z"
+generated_at: "2026-11-23T21:26:06.841Z"
+status: "active"
 ---
 
 # § 6304. Fair tax collection practices
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:27.847Z"
   - **(3)** Causing a telephone to ring or engaging any person in telephone conversation repeatedly or continuously with intent to annoy, abuse, or harass any person at the called number.
   - **(4)** Except as provided under rules similar to the rules in section 804 of the Fair Debt Collection Practices Act ( 15 U.S.C. 1692b ), the placement of telephone calls without meaningful disclosure of the caller’s identity.
 - **(c)** For civil action for violations of this section, see section 7433.
+
+## Source Credit
+
+*(Added [Pub. L. 105–206, title III, § 3466(a)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 768](https://www.govinfo.gov/link/statute/112/768).)*

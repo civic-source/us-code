@@ -3,9 +3,10 @@ title: "Section 802 - Definitions"
 usc_title: 21
 usc_section: "802"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 802"
-generated_at: "2026-03-30T02:54:54.289Z"
+generated_at: "2026-11-23T21:25:56.220Z"
+status: "active"
 ---
 
 # § 802. Definitions
@@ -320,3 +321,55 @@ As used in this subchapter:
     - **(A)** an offense described in section 3559(c)(2) of title 18 for which the offender served a term of imprisonment of more than 12 months; and
     - **(B)** any offense that would be a felony violation of section 113 of title 18 , if the offense were committed in the special maritime and territorial jurisdiction of the United States, for which the offender served a term of imprisonment of more than 12 months.
   - **(60)** The term “fentanyl-related substance” has the meaning given the term in subsection (e)(2) of schedule I of section 812(c) of this title .
+
+(aa) promotes muscle growth; or
+
+(bb) otherwise causes a pharmacological effect similar to that of testosterone; or
+
+(aa) an herb or other botanical;
+
+(bb) a concentrate, metabolite, or extract of, or a constituent isolated directly from, an herb or other botanical; or
+
+(cc) a combination of 2 or more substances described in item (aa) or (bb);
+
+(aa) is exempted from such registration in all States under section 822(d) of this title ; or
+
+(bb) is— (AA) an employee or contractor of the Department of Veterans Affairs who is acting in the scope of such employment or contract; and (BB) registered under section 823(g) of this title in any State or is utilizing the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(g) of this title ;
+
+(aa) an employee or contractor of the Department of Veterans Affairs who is acting in the scope of such employment or contract; and
+
+(bb) registered under section 823(g) of this title in any State or is using the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(g) of this title ;
+
+In general
+
+Definition of practice of telemedicine.—
+
+In general
+
+Temporary phase-in of telemedicine regulation
+
+Rule of construction
+
+Study
+
+Report.—
+
+Requirement
+
+Elements
+
+Matters considered
+
+Regulation of Retail Sales.—
+
+In general
+
+Due process
+
+Drugs for Treatment of Rare Diseases
+
+Date of Issuance of Regulations
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 102](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1242](https://www.govinfo.gov/link/statute/84/1242); [Pub. L. 93–281, § 2](https://www.govinfo.gov/link/plaw/93/public/281), May 14, 1974, [88 Stat. 124](https://www.govinfo.gov/link/statute/88/124); [Pub. L. 95–633, title I, § 102(b)](https://www.govinfo.gov/link/plaw/95/public/633), Nov. 10, 1978, [92 Stat. 3772](https://www.govinfo.gov/link/statute/92/3772); [Pub. L. 96–132, § 16(a)](https://www.govinfo.gov/link/plaw/96/public/132), Nov. 30, 1979, [93 Stat. 1049](https://www.govinfo.gov/link/statute/93/1049); [Pub. L. 98–473, title II, § 507(a)](https://www.govinfo.gov/link/plaw/98/public/473), (b), Oct. 12, 1984, [98 Stat. 2071](https://www.govinfo.gov/link/statute/98/2071); [Pub. L. 98–509, title III, § 301(a)](https://www.govinfo.gov/link/plaw/98/public/509), Oct. 19, 1984, [98 Stat. 2364](https://www.govinfo.gov/link/statute/98/2364); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 99–570, title I](https://www.govinfo.gov/link/plaw/99/public/570), §§ 1003(b), 1203, 1870, Oct. 27, 1986, [100 Stat. 3207–6](https://www.govinfo.gov/link/statute/100/3207), 3207–13, 3207–56; [Pub. L. 99–646, § 83](https://www.govinfo.gov/link/plaw/99/public/646), Nov. 10, 1986, [100 Stat. 3619](https://www.govinfo.gov/link/statute/100/3619); [Pub. L. 100–690, title VI, § 6054](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4316](https://www.govinfo.gov/link/statute/102/4316); [Pub. L. 101–647, title XIX, § 1902(b)](https://www.govinfo.gov/link/plaw/101/public/647), title XXIII, § 2301, title XXXV, § 3599I, Nov. 29, 1990, [104 Stat. 4852](https://www.govinfo.gov/link/statute/104/4852), 4858, 4932; [Pub. L. 103–200](https://www.govinfo.gov/link/plaw/103/public/200), §§ 2(a), 7–9(a), Dec. 17, 1993, [107 Stat. 2333](https://www.govinfo.gov/link/statute/107/2333), 2340; [Pub. L. 103–322, title IX, § 90105(d)](https://www.govinfo.gov/link/plaw/103/public/322), title XXXIII, § 330024(a), (b), (d)(1), Sept. 13, 1994, [108 Stat. 1988](https://www.govinfo.gov/link/statute/108/1988), 2150; [Pub. L. 104–237, title II](https://www.govinfo.gov/link/plaw/104/public/237), §§ 204(a), 209, title IV, § 401(a), (b), Oct. 3, 1996, [110 Stat. 3102](https://www.govinfo.gov/link/statute/110/3102), 3104, 3106, 3107; [Pub. L. 104–294, title VI](https://www.govinfo.gov/link/plaw/104/public/294), §§ 604(b)(4), 607(j), Oct. 11, 1996, [110 Stat. 3506](https://www.govinfo.gov/link/statute/110/3506), 3512; [Pub. L. 105–115, title I, § 126(c)(3)](https://www.govinfo.gov/link/plaw/105/public/115), Nov. 21, 1997, [111 Stat. 2328](https://www.govinfo.gov/link/statute/111/2328); [Pub. L. 106–172](https://www.govinfo.gov/link/plaw/106/public/172), §§ 3(c), 5(a), Feb. 18, 2000, [114 Stat. 9](https://www.govinfo.gov/link/statute/114/9), 10; [Pub. L. 106–310, div. B, title XXXVI, § 3622(a)](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1231](https://www.govinfo.gov/link/statute/114/1231); [Pub. L. 107–273, div. B, title IV, § 4002(c)(1)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1808](https://www.govinfo.gov/link/statute/116/1808); [Pub. L. 108–358, § 2(a)](https://www.govinfo.gov/link/plaw/108/public/358), Oct. 22, 2004, [118 Stat. 1661](https://www.govinfo.gov/link/statute/118/1661); [Pub. L. 109–162, title XI, § 1180](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3126](https://www.govinfo.gov/link/statute/119/3126); [Pub. L. 109–177, title VII](https://www.govinfo.gov/link/plaw/109/public/177), §§ 711(a)(1), (2)(A), 712(a)(1), Mar. 9, 2006, [120 Stat. 256](https://www.govinfo.gov/link/statute/120/256), 257, 263; [Pub. L. 110–425, § 3(a)](https://www.govinfo.gov/link/plaw/110/public/425), Oct. 15, 2008, [122 Stat. 4821](https://www.govinfo.gov/link/statute/122/4821); [Pub. L. 113–260, § 2(a)](https://www.govinfo.gov/link/plaw/113/public/260), Dec. 18, 2014, [128 Stat. 2929](https://www.govinfo.gov/link/statute/128/2929); [Pub. L. 114–198, title III, § 303(a)(2)](https://www.govinfo.gov/link/plaw/114/public/198), July 22, 2016, [130 Stat. 722](https://www.govinfo.gov/link/statute/130/722); [Pub. L. 115–271, title III](https://www.govinfo.gov/link/plaw/115/public/271), §§ 3202(c), 3292(a), Oct. 24, 2018, [132 Stat. 3945](https://www.govinfo.gov/link/statute/132/3945), 3956; [Pub. L. 115–334, title XII, § 12619(a)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 5018](https://www.govinfo.gov/link/statute/132/5018); [Pub. L. 115–391, title IV, § 401(a)(1)](https://www.govinfo.gov/link/plaw/115/public/391), Dec. 21, 2018, [132 Stat. 5220](https://www.govinfo.gov/link/statute/132/5220); [Pub. L. 117–215, § 2(b)](https://www.govinfo.gov/link/plaw/117/public/215), title I, § 103(b)(1)(A), Dec. 2, 2022, [136 Stat. 2258](https://www.govinfo.gov/link/statute/136/2258), 2262; [Pub. L. 118–189, § 1](https://www.govinfo.gov/link/plaw/118/public/189), Dec. 23, 2024, [138 Stat. 2652](https://www.govinfo.gov/link/statute/138/2652); [Pub. L. 119–26, § 6(c)](https://www.govinfo.gov/link/plaw/119/public/26), July 16, 2025, [139 Stat. 417](https://www.govinfo.gov/link/statute/139/417).)*

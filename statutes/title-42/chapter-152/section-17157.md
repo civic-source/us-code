@@ -3,9 +3,10 @@ title: "Section 17157 - Review and evaluation"
 usc_title: 42
 usc_section: "17157"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17157"
-generated_at: "2026-03-30T02:56:11.498Z"
+generated_at: "2026-11-23T21:26:33.771Z"
+status: "active"
 ---
 
 # § 17157. Review and evaluation
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.498Z"
 - **(b)** The Secretary may withhold from an eligible entity any portion of a grant to be provided to the eligible entity under the program if the Secretary determines that the eligible entity has failed to achieve compliance with—
   - **(1)** any applicable guideline or regulation of the Secretary relating to the program, including the misuse or misappropriation of funds provided under the program; or
   - **(2)** the energy efficiency and conservation strategy of the eligible entity.
+
+## Source Credit
+
+*([Pub. L. 110–140, title V, § 547](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1674](https://www.govinfo.gov/link/statute/121/1674).)*

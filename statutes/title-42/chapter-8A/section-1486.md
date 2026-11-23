@@ -3,9 +3,10 @@ title: "Section 1486 - Financial assistance to provide low-rent housing for dome
 usc_title: 42
 usc_section: "1486"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1486"
-generated_at: "2026-03-30T02:56:11.097Z"
+generated_at: "2026-11-23T21:26:32.068Z"
+status: "active"
 ---
 
 # § 1486. Financial assistance to provide low-rent housing for domestic farm labor
@@ -83,3 +84,13 @@ generated_at: "2026-03-30T02:56:11.097Z"
       - **(i)** means any person (and the family of such person) who (I) receives a substantial portion of his or her income from primary production of agricultural or aquacultural commodities, the handling of such commodities in the unprocessed stage, or the processing of such commodities, without respect to the source of employment, and (II) establishes residence in a location on a seasonal or temporary basis, in an attempt to receive an income as described in subclause (I); and
       - **(ii)** includes any person (and the family of such person) who is retired or disabled, but who met the requirements of clause (i) at the time of retirement or becoming disabled.
     - **(D)** The term “operating costs” means expenses incurred by a recipient providing housing under this subsection with respect to the administration, maintenance, repair, and security of such housing and utilities, fuel, furnishings, and equipment for such housing.
+
+(aa) is sealed;
+
+(bb) is tamper resistant; and
+
+(cc) contains silencing means; and
+
+## Source Credit
+
+*(July 15, 1949, ch. 338, title V, § 516, as added [Pub. L. 88–560, title V, § 503(a)](https://www.govinfo.gov/link/plaw/88/public/560), Sept. 2, 1964, [78 Stat. 796](https://www.govinfo.gov/link/statute/78/796); amended [Pub. L. 91–609, title VIII, § 801(c)](https://www.govinfo.gov/link/plaw/91/public/609), (d), Dec. 31, 1970, [84 Stat. 1806](https://www.govinfo.gov/link/statute/84/1806); [Pub. L. 95–557, title V, § 505](https://www.govinfo.gov/link/plaw/95/public/557), Oct. 31, 1978, [92 Stat. 2112](https://www.govinfo.gov/link/statute/92/2112); [Pub. L. 96–153, title V, § 509](https://www.govinfo.gov/link/plaw/96/public/153), Dec. 21, 1979, [93 Stat. 1136](https://www.govinfo.gov/link/statute/93/1136); [Pub. L. 96–399, title V, § 507(d)](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1670](https://www.govinfo.gov/link/statute/94/1670); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title V, § 513], Nov. 30, 1983, [97 Stat. 1247](https://www.govinfo.gov/link/statute/97/1247); [Pub. L. 100–242, title III, § 305(b)](https://www.govinfo.gov/link/plaw/100/public/242), Feb. 5, 1988, [101 Stat. 1895](https://www.govinfo.gov/link/statute/101/1895); [Pub. L. 100–628, title X, § 1043(b)](https://www.govinfo.gov/link/plaw/100/public/628), Nov. 7, 1988, [102 Stat. 3273](https://www.govinfo.gov/link/statute/102/3273); [Pub. L. 101–625, title VII, § 714(a)](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4292](https://www.govinfo.gov/link/statute/104/4292); [Pub. L. 106–400, § 2](https://www.govinfo.gov/link/plaw/106/public/400), Oct. 30, 2000, [114 Stat. 1675](https://www.govinfo.gov/link/statute/114/1675); [Pub. L. 117–328, div. AA, title VI, § 601(f)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5548](https://www.govinfo.gov/link/statute/136/5548).)*

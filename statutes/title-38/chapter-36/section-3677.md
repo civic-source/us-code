@@ -3,9 +3,10 @@ title: "Section 3677 - Approval of training on the job"
 usc_title: 38
 usc_section: "3677"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3677"
-generated_at: "2026-03-30T02:55:53.507Z"
+generated_at: "2026-11-23T21:26:16.758Z"
+status: "active"
 ---
 
 # § 3677. Approval of training on the job
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:53.507Z"
   - **(2)**
     - **(A)** Not later than three years after the implementation of the pilot project, the Secretary shall submit to Congress an initial report on the pilot project. The report shall include an assessment of the usefulness of the program in recruiting and retaining of personnel of the Department as well as an assessment of the value of the program as a training program.
     - **(B)** Not later than 18 months after the date on which the initial report under subparagraph (A) is submitted, the Secretary shall submit to Congress a final report on the pilot project. The final report shall include recommendations of the Secretary with respect to continuation of the pilot project and with respect to expansion of the types of claims for which the extended period of on the job training is available to train such employees.
+
+## Source Credit
+
+*(Added [Pub. L. 90–77, title III, § 304(d)](https://www.govinfo.gov/link/plaw/90/public/77), Aug. 31, 1967, [81 Stat. 186](https://www.govinfo.gov/link/statute/81/186), § 1777; amended [Pub. L. 91–219, title II, § 212](https://www.govinfo.gov/link/plaw/91/public/219), Mar. 26, 1970, [84 Stat. 83](https://www.govinfo.gov/link/statute/84/83); [Pub. L. 92–540, title III, § 314](https://www.govinfo.gov/link/plaw/92/public/540), Oct. 24, 1972, [86 Stat. 1084](https://www.govinfo.gov/link/statute/86/1084); [Pub. L. 94–502, title V, § 513(a)(3)](https://www.govinfo.gov/link/plaw/94/public/502), Oct. 15, 1976, [90 Stat. 2402](https://www.govinfo.gov/link/statute/90/2402); [Pub. L. 101–237, title IV, § 423(b)(1)(A)](https://www.govinfo.gov/link/plaw/101/public/237), Dec. 18, 1989, [103 Stat. 2092](https://www.govinfo.gov/link/statute/103/2092); renumbered § 3677, [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 105–368, title II, § 205(a)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3327](https://www.govinfo.gov/link/statute/112/3327); [Pub. L. 108–454, title I, § 108](https://www.govinfo.gov/link/plaw/108/public/454), Dec. 10, 2004, [118 Stat. 3604](https://www.govinfo.gov/link/statute/118/3604); [Pub. L. 110–389, title III, § 325](https://www.govinfo.gov/link/plaw/110/public/389), Oct. 10, 2008, [122 Stat. 4169](https://www.govinfo.gov/link/statute/122/4169).)*

@@ -3,9 +3,10 @@ title: "Section 2081 - Computation of length of service"
 usc_title: 50
 usc_section: "2081"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2081"
-generated_at: "2026-03-30T02:56:26.218Z"
+generated_at: "2026-11-23T21:26:38.957Z"
+status: "active"
 ---
 
 # § 2081. Computation of length of service
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:26.218Z"
   - **(1)** The Director may from time to time establish a list of places outside the United States that, by reason of climatic or other extreme conditions, are to be classed as unhealthful posts. Such list shall be established in consultation with the Secretary of State.
   - **(2)** Each year of duty at a post on the list established under paragraph (1), inclusive of regular leaves of absence, shall be counted as one and a half years in computing the length of service of a participant under this subchapter for the purpose of retirement. In computing such service, any fractional month shall be treated as a full month.
   - **(3)** Extra credit for service at an unhealthful post may not be credited to a participant who is paid a differential under section 5925 or 5928 of title 5 for the same service.
+
+## Source Credit
+
+*([Pub. L. 88–643, title II, § 251](https://www.govinfo.gov/link/plaw/88/public/643), as added [Pub. L. 102–496, title VIII, § 802](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3228](https://www.govinfo.gov/link/statute/106/3228).)*

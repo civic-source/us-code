@@ -3,12 +3,17 @@ title: "Section 3783 - Disposition of property of United States"
 usc_title: 22
 usc_section: "3783"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3783"
-generated_at: "2026-03-30T02:55:05.397Z"
+generated_at: "2026-11-23T21:25:58.597Z"
+status: "active"
 ---
 
 # § 3783. Disposition of property of United States
 
 No property of the United States located in the Republic of Panama may be disposed of except pursuant to law enacted by the Congress.
 
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1503](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 488](https://www.govinfo.gov/link/statute/93/488).)*

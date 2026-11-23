@@ -3,9 +3,10 @@ title: "Section 1726 - Alternatives for marginal properties"
 usc_title: 30
 usc_section: "1726"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1726"
-generated_at: "2026-03-30T02:55:29.409Z"
+generated_at: "2026-11-23T21:26:00.447Z"
+status: "active"
 ---
 
 # § 1726. Alternatives for marginal properties
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:29.409Z"
   - **(2)** A prepayment under this section shall be shared by the Secretary with any State or other recipient to the same extent as any royalty payment for such lease.
   - **(3)** Except as may be provided in the terms and conditions established by the Secretary under subsection (b), a lessee or its designee who makes a prepayment under this section shall have satisfied in full the lessee’s obligation to pay royalty on the production stream sold from the lease or leases or well or wells.
 - **(c)** Within one year after August 13, 1996 , the Secretary or the delegated State shall provide accounting, reporting, and auditing relief that will encourage lessees to continue to produce and develop properties subject to subsection (a): Provided , That such relief will only be available to lessees in a State that concurs, which concurrence is not required if royalty payments from the lease or leases or well or wells are not shared with any State. Prior to granting such relief, the Secretary and, if appropriate, the State concerned shall agree that the type of marginal wells and relief provided under this paragraph is in the best interest of the United States and, if appropriate, the State concerned.
+
+## Source Credit
+
+*([Pub. L. 97–451, title I, § 117](https://www.govinfo.gov/link/plaw/97/public/451), as added [Pub. L. 104–185, § 7(a)](https://www.govinfo.gov/link/plaw/104/public/185), Aug. 13, 1996, [110 Stat. 1715](https://www.govinfo.gov/link/statute/110/1715); amended [Pub. L. 104–200, § 1(7)](https://www.govinfo.gov/link/plaw/104/public/200), Sept. 22, 1996, [110 Stat. 2421](https://www.govinfo.gov/link/statute/110/2421).)*

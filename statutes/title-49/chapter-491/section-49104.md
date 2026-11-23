@@ -3,9 +3,10 @@ title: "Section 49104 - Lease of Metropolitan Washington Airports"
 usc_title: 49
 usc_section: "49104"
 chapter: 491
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 49104"
-generated_at: "2026-03-30T02:56:19.409Z"
+generated_at: "2026-11-23T21:26:41.004Z"
+status: "active"
 ---
 
 # § 49104. Lease of Metropolitan Washington Airports
@@ -48,3 +49,115 @@ generated_at: "2026-03-30T02:56:19.409Z"
   - **(2)** The Secretary and the Airports Authority shall renegotiate the level of lease payments at least once every 10 years to ensure that in no year the amount specified in paragraph (1)(B) is less than $15,000,000 in 2027 dollars.
 - **(c)** The district courts of the United States have jurisdiction to compel the Airports Authority and its officers and employees to comply with the terms of the lease. The Attorney General or an aggrieved party may bring an action on behalf of the Government.
 - **(d)** The Secretary and the Airports Authority may at any time negotiate an extension of the lease.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 49104(a) | (uncodified). | Oct. 18, 1986 , Pub. L. 99–500, title VI , §§ 6005(a), (d), 6007(d) (last sentence), 100 Stat. 1783–375 , 1783–376, 1783–380. |
+|  |  | Oct. 18, 1986 , Pub. L. 99–500, title VI, § 6005(c) , 100 Stat. 1783–376 ; Oct. 9, 1996 , Pub. L. 104–264, title IX, § 902 , 110 Stat. 3274 . |
+|  |  | Oct. 30, 1986 , Pub. L. 99–591, title VI , §§ 6005(a), (d), 6007(d) (last sentence), 100 Stat. 3341–378 , 3341–379, 3341–383. |
+|  |  | Oct. 30, 1986 , Pub. L. 99–591, title VI, § 6005(c) , 100 Stat. 3341–379 ; Oct. 9, 1996 , Pub. L. 104–264, title IX, § 902 , 110 Stat. 3274 . |
+| 49104(b) | (uncodified). | Oct. 18, 1986 , Pub. L. 99–500, title VI, § 6005(b) , 100 Stat. 1783–375 . |
+|  |  | Oct. 30, 1986 , Pub. L. 99–591, title VI, § 6005(b) , 100 Stat. 3341–378 . |
+| 49104(c) | (uncodified). | Oct. 18, 1986 , Pub. L. 99–500, title VI, § 6005(e) , 100 Stat. 1783–378 . |
+|  |  | Oct. 30, 1986 , Pub. L. 99–591, title VI, § 6005(e) , 100 Stat. 3341–381 . |
+| 49104(d) | (uncodified). | Oct. 18, 1986 , Pub. L. 99–500, title VI, § 6010 , 100 Stat. 1783–385 . |
+|  |  | Oct. 30, 1986 , Pub. L. 99–591, title VI, § 6010 , 100 Stat. 3341–388 . |
+
+
+General
+
+Payments.—
+
+In general
+
+Renegotiation
+
+Enforcement of Lease Provisions
+
+Extension of Lease
+
+Historical and Revision Notes
+
+49104(a)
+
+Oct. 18, 1986
+
+Pub. L. 99–500, title VI
+
+100 Stat. 1783–375
+
+Oct. 18, 1986
+
+Pub. L. 99–500, title VI, § 6005(c)
+
+100 Stat. 1783–376
+
+Oct. 9, 1996
+
+Pub. L. 104–264, title IX, § 902
+
+110 Stat. 3274
+
+Oct. 30, 1986
+
+Pub. L. 99–591, title VI
+
+100 Stat. 3341–378
+
+Oct. 30, 1986
+
+Pub. L. 99–591, title VI, § 6005(c)
+
+100 Stat. 3341–379
+
+Oct. 9, 1996
+
+Pub. L. 104–264, title IX, § 902
+
+110 Stat. 3274
+
+49104(b)
+
+Oct. 18, 1986
+
+Pub. L. 99–500, title VI, § 6005(b)
+
+100 Stat. 1783–375
+
+Oct. 30, 1986
+
+Pub. L. 99–591, title VI, § 6005(b)
+
+100 Stat. 3341–378
+
+49104(c)
+
+Oct. 18, 1986
+
+Pub. L. 99–500, title VI, § 6005(e)
+
+100 Stat. 1783–378
+
+Oct. 30, 1986
+
+Pub. L. 99–591, title VI, § 6005(e)
+
+100 Stat. 3341–381
+
+49104(d)
+
+Oct. 18, 1986
+
+Pub. L. 99–500, title VI, § 6010
+
+100 Stat. 1783–385
+
+Oct. 30, 1986
+
+Pub. L. 99–591, title VI, § 6010
+
+100 Stat. 3341–388
+
+## Source Credit
+
+*(Added [Pub. L. 105–102, § 2(26)](https://www.govinfo.gov/link/plaw/105/public/102), Nov. 20, 1997, [111 Stat. 2207](https://www.govinfo.gov/link/statute/111/2207); amended [Pub. L. 105–154, § 2(a)(1)(D)](https://www.govinfo.gov/link/plaw/105/public/154), Feb. 6, 1998, [112 Stat. 3](https://www.govinfo.gov/link/statute/112/3); [Pub. L. 106–181, title II, § 231(e)(2)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 113](https://www.govinfo.gov/link/statute/114/113); [Pub. L. 112–95, title IV, § 414(e)](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 92](https://www.govinfo.gov/link/statute/126/92); [Pub. L. 119–21, title IV, § 40007](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 136](https://www.govinfo.gov/link/statute/139/136).)*

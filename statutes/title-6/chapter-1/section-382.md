@@ -3,9 +3,10 @@ title: "Section 382 - Use of proceeds derived from criminal investigations"
 usc_title: 6
 usc_section: "382"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 382"
-generated_at: "2026-03-30T02:53:09.462Z"
+generated_at: "2026-11-23T21:25:25.786Z"
+status: "active"
 ---
 
 # § 382. Use of proceeds derived from criminal investigations
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:09.462Z"
 - **(e)**
   - **(1)** The Secret Service shall conduct detailed financial audits of closed undercover investigative operations for which a written certification was made pursuant to subsection (b) on a quarterly basis and shall report the results of the audits in writing to the Secretary of Homeland Security.
   - **(2)** The Secretary of Homeland Security shall annually submit to the Committees on Appropriations of the Senate and House of Representatives, at the time that the President’s budget is submitted under section 1105(a) of title 31 , a summary of such audits.
+
+## Source Credit
+
+*([Pub. L. 109–295, title V, § 532](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1384](https://www.govinfo.gov/link/statute/120/1384); [Pub. L. 110–161, div. E, title V, § 527](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2074](https://www.govinfo.gov/link/statute/121/2074); [Pub. L. 110–329, div. D, title V, § 520](https://www.govinfo.gov/link/plaw/110/public/329), Sept. 30, 2008, [122 Stat. 3684](https://www.govinfo.gov/link/statute/122/3684); [Pub. L. 111–83, title V, § 519](https://www.govinfo.gov/link/plaw/111/public/83), Oct. 28, 2009, [123 Stat. 2171](https://www.govinfo.gov/link/statute/123/2171); [Pub. L. 112–10, div. B, title VI, § 1652](https://www.govinfo.gov/link/plaw/112/public/10), Apr. 15, 2011, [125 Stat. 147](https://www.govinfo.gov/link/statute/125/147); [Pub. L. 112–74, div. D, title V, § 518](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 972](https://www.govinfo.gov/link/statute/125/972); [Pub. L. 113–6, div. D, title V, § 518](https://www.govinfo.gov/link/plaw/113/public/6), Mar. 26, 2013, [127 Stat. 369](https://www.govinfo.gov/link/statute/127/369); [Pub. L. 113–76, div. F, title V, § 518](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 272](https://www.govinfo.gov/link/statute/128/272).)*

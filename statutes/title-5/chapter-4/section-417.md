@@ -3,9 +3,10 @@ title: "Section 417 - Special provisions concerning the Department of Homeland S
 usc_title: 5
 usc_section: "417"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 417"
-generated_at: "2026-03-30T02:52:55.983Z"
+generated_at: "2026-11-23T21:25:23.044Z"
+status: "active"
 ---
 
 # § 417. Special provisions concerning the Department of Homeland Security
@@ -42,3 +43,64 @@ generated_at: "2026-03-30T02:52:55.983Z"
       - **(i)** the procedure to file complaints or comments concerning civil rights and civil liberties matters; and
       - **(ii)** the status of corrective actions taken by the Department in response to Office of the Inspector General reports; and
     - **(I)** inform the Officer for Civil Rights and Civil Liberties of any weaknesses, problems, and deficiencies within the Department relating to civil rights or civil liberties.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 417 | 5 U.S.C. App. (IGA § 8I) | Pub. L. 95–452, § 8I , as added Pub. L. 108–7, div. L, § 104(b)(3) , Feb. 20, 2003 , 117 Stat. 529 ; amended Pub. L. 108–458, title VIII, § 8304 , Dec. 17, 2004 , 118 Stat. 3868 ; Pub. L. 109–177, title VI, § 605(e)(4) , Mar. 9, 2006 , 120 Stat. 255 ; Pub. L. 114–317, § 6(5) , Dec. 16, 2016 , 130 Stat. 1604 . |
+
+
+In General.—
+
+Authority of secretary of homeland security over certain audits and investigations
+
+Authority of secretary of homeland security to prohibit carrying out or completing audits or investigations
+
+Notification of exercise of power
+
+Not a Limitation on Congressional Access to Information
+
+Authority of Inspector General To Initiate, Conduct, and Supervise Audits and Investigations
+
+Reports
+
+Oversight Responsibility
+
+Designated Senior Official.—
+
+In general
+
+Functions
+
+Historical and Revision Notes
+
+417
+
+Pub. L. 95–452, § 8I
+
+Pub. L. 108–7, div. L, § 104(b)(3)
+
+Feb. 20, 2003
+
+117 Stat. 529
+
+Pub. L. 108–458, title VIII, § 8304
+
+Dec. 17, 2004
+
+118 Stat. 3868
+
+Pub. L. 109–177, title VI, § 605(e)(4)
+
+Mar. 9, 2006
+
+120 Stat. 255
+
+Pub. L. 114–317, § 6(5)
+
+Dec. 16, 2016
+
+130 Stat. 1604
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(b)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4244](https://www.govinfo.gov/link/statute/136/4244).)*

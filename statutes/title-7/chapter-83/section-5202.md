@@ -3,9 +3,10 @@ title: "Section 5202 - Policy"
 usc_title: 7
 usc_section: "5202"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 5202"
-generated_at: "2026-03-30T02:53:42.413Z"
+generated_at: "2026-11-23T21:25:28.358Z"
+status: "active"
 ---
 
 # § 5202. Policy
@@ -17,3 +18,7 @@ It is the policy of the United States—
   - **(3)** to support fully the negotiating objectives set forth in section 2901(b) of title 19 to eliminate or reduce substantially constraints on fair and open trade in agricultural commodities and products;
   - **(4)** to use statutory authority to counter unfair foreign trade practices and to use all available means, including export promotion programs, and, if necessary, restrictions on United States imports of agricultural commodities and products, in order to encourage fair and open trade; and
   - **(5)** to provide for increased representation of United States agricultural trade interests in the formulation of national fiscal and monetary policy affecting trade.
+
+## Source Credit
+
+*([Pub. L. 100–418, title IV, § 4102](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1390](https://www.govinfo.gov/link/statute/102/1390).)*

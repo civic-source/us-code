@@ -3,9 +3,10 @@ title: "Section 7267 - Annual report"
 usc_title: 42
 usc_section: "7267"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7267"
-generated_at: "2026-03-30T02:56:11.286Z"
+generated_at: "2026-11-23T21:26:33.058Z"
+status: "active"
 ---
 
 # § 7267. Annual report
@@ -22,3 +23,7 @@ The Secretary shall, as soon as practicable after the end of each fiscal year, c
   - **(6)** a summary of cooperative and voluntary efforts that have been mobilized to promote conservation and recycling, together with plans for such efforts in the succeeding fiscal year, and recommendations for changes in laws and regulations needed to encourage more conservation and recycling by all segments of the Nation’s populace;
   - **(7)** a summary of substantive measures taken by the Department to stimulate and encourage the development of new manpower resources through the Nation’s colleges and universities and to involve these institutions in the execution of the Department’s research and development programs; and
   - **(8)** to the extent practicable, a summary of activities in the United States by companies or persons which are foreign owned or controlled and which own or control United States energy sources and supplies, including the magnitude of annual foreign direct investment in the energy sector in the United States and exports of energy resources from the United States by foreign owned or controlled business entities or persons, and such other related matters as the Secretary may deem appropriate.
+
+## Source Credit
+
+*([Pub. L. 95–91, title VI, § 657](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 603](https://www.govinfo.gov/link/statute/91/603); [Pub. L. 104–66, title I, § 1052(g)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 718](https://www.govinfo.gov/link/statute/109/718).)*

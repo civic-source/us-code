@@ -3,9 +3,10 @@ title: "Section 3936 - Purposes and powers of corporation"
 usc_title: 42
 usc_section: "3936"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3936"
-generated_at: "2026-03-30T02:56:11.193Z"
+generated_at: "2026-11-23T21:26:32.605Z"
+status: "active"
 ---
 
 # § 3936. Purposes and powers of corporation
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.193Z"
 - **(c)** To carry out the foregoing purposes and engaged in the foregoing activities, the corporation shall have the usual powers conferred upon a stock corporation by the District of Columbia Business Corporation Act.
 - **(d)** Nothing in this chapter shall have the effect of waiving or otherwise affecting the applicability of the provisions of sections 3141–3144, 3146, and 3147 of title 40, or any other law requiring compliance with labor standards, in the case of any construction to which such provisions would otherwise apply.
 - **(e)** The combined outstanding equity commitment of the corporation and the partnership with respect to activities undertaken under subsection (a)(4) may not exceed (1) 7 percent of their total combined equity commitment outstanding during the first 12-month period following October 17, 1984 ; (2) 14 percent of their total combined equity commitment outstanding during the second 12-month period following October 17, 1984 ; or (3) 20 percent of their total combined equity commitment outstanding at any time thereafter.
+
+## Source Credit
+
+*([Pub. L. 90–448, title IX, § 906](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 548](https://www.govinfo.gov/link/statute/82/548); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title IV, § 467], Nov. 30, 1983, [97 Stat. 1236](https://www.govinfo.gov/link/statute/97/1236); [Pub. L. 98–479, title I, § 104(c)(1)](https://www.govinfo.gov/link/plaw/98/public/479), (2), Oct. 17, 1984, [98 Stat. 2225](https://www.govinfo.gov/link/statute/98/2225).)*

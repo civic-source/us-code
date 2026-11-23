@@ -3,9 +3,10 @@ title: "Section 4323 - Allocation of “unallocated interest fund”"
 usc_title: 50
 usc_section: "4323"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4323"
-generated_at: "2026-03-30T02:56:26.273Z"
+generated_at: "2026-11-23T21:26:39.097Z"
+status: "active"
 ---
 
 # § 4323. Allocation of “unallocated interest fund”
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:26.273Z"
 - **(b)** The Alien Property Custodian, when the allocation has been made, is authorized and directed to pay to each person entitled, in accordance with a final decision of a court of the United States or of the District of Columbia, or of an opinion of the Attorney General, to the distribution of any portion of such unallocated interest fund, the amount allocated to his trust, except as provided in subsection (c) of this section.
 - **(c)** In the case of persons entitled, under paragraph (12), (13), (14), or (16) of subsection (b) of section 4309 of this title , to such return, and in the case of persons who would be entitled to such return thereunder if all such money or property had not been returned under paragraph (9) or (10) of such subsection, and in the case of persons entitled to such return under subsection (n) of section 4309 of this title , an amount equal to the aggregate amount allocated to their trusts shall be credited against the sum of $25,000,000 invested in participating certificates under paragraph (1) of subsection (b) of section 4322 of this title . If the aggregate amount so allocated is in excess of $25,000,000, an amount equal to the excess shall be invested in the same manner. Upon the repayment of any of the amounts so invested, under the provisions of section 4 of the Settlement of War Claims Act of 1928, the amount so repaid shall be distributed pro rata among such persons, notwithstanding any receipts or releases given by them.
 - **(d)** The unallocated interest fund shall be available for carrying out the provisions of this section, including the expenses of making the allocation.
+
+## Source Credit
+
+*(Oct. 6, 1917, ch. 106, § 26, as added Mar. 10, 1928, ch. 167, § 15, [45 Stat. 273](https://www.govinfo.gov/link/statute/45/273); amended June 11, 1929, ch. 14, [46 Stat. 6](https://www.govinfo.gov/link/statute/46/6).)*

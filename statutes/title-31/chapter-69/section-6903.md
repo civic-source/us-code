@@ -3,9 +3,10 @@ title: "Section 6903 - Payments"
 usc_title: 31
 usc_section: "6903"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 6903"
-generated_at: "2026-03-30T02:55:34.075Z"
+generated_at: "2026-11-23T21:26:10.650Z"
+status: "active"
 ---
 
 # § 6903. Payments
@@ -31,5 +32,195 @@ generated_at: "2026-03-30T02:55:34.075Z"
   - **(2)** The chief executive officer of a State shall submit to the Secretary of the Interior a statement on the amounts of payments the State transfers to each unit of general local government in the State out of amounts received under a payment law.
 - **(c)**
   - **(1)** The limitation for a unit of general local government with a population of not more than 4,999 is the highest dollar amount specified in paragraph (2).
-  - **(2)** The limitation for a unit of general local government with a population of at least 5,000 is the following amount (rounding the population off to the nearest thousand): If the population equals— the limitation is equal to the population times— 5,000 $110.00 6,000 103.00 7,000 97.00 8,000 90.00 9,000 84.00 10,000 77.00 11,000 75.00 12,000 73.00 13,000 70.00 14,000 68.00 15,000 66.00 16,000 65.00 17,000 64.00 18,000 63.00 19,000 62.00 20,000 61.00 21,000 60.00 22,000 59.00 23,000 59.00 24,000 58.00 25,000 57.00 26,000 56.00 27,000 56.00 28,000 56.00 29,000 55.00 30,000 55.00 31,000 54.00 32,000 54.00 33,000 53.00 34,000 53.00 35,000 52.00 36,000 52.00 37,000 51.00 38,000 51.00 39,000 50.00 40,000 50.00 41,000 49.00 42,000 48.00 43,000 48.00 44,000 47.00 45,000 47.00 46,000 46.00 47,000 46.00 48,000 45.00 49,000 45.00 50,000 44.00.
+  - **(2)** The limitation for a unit of general local government with a population of at least 5,000 is the following amount (rounding the population off to the nearest thousand):
+
+| If the population equals— | the limitation is equal to the population times— |
+| --- | --- |
+| 5,000 | $110.00 |
+| 6,000 | 103.00 |
+| 7,000 | 97.00 |
+| 8,000 | 90.00 |
+| 9,000 | 84.00 |
+| 10,000 | 77.00 |
+| 11,000 | 75.00 |
+| 12,000 | 73.00 |
+| 13,000 | 70.00 |
+| 14,000 | 68.00 |
+| 15,000 | 66.00 |
+| 16,000 | 65.00 |
+| 17,000 | 64.00 |
+| 18,000 | 63.00 |
+| 19,000 | 62.00 |
+| 20,000 | 61.00 |
+| 21,000 | 60.00 |
+| 22,000 | 59.00 |
+| 23,000 | 59.00 |
+| 24,000 | 58.00 |
+| 25,000 | 57.00 |
+| 26,000 | 56.00 |
+| 27,000 | 56.00 |
+| 28,000 | 56.00 |
+| 29,000 | 55.00 |
+| 30,000 | 55.00 |
+| 31,000 | 54.00 |
+| 32,000 | 54.00 |
+| 33,000 | 53.00 |
+| 34,000 | 53.00 |
+| 35,000 | 52.00 |
+| 36,000 | 52.00 |
+| 37,000 | 51.00 |
+| 38,000 | 51.00 |
+| 39,000 | 50.00 |
+| 40,000 | 50.00 |
+| 41,000 | 49.00 |
+| 42,000 | 48.00 |
+| 43,000 | 48.00 |
+| 44,000 | 47.00 |
+| 45,000 | 47.00 |
+| 46,000 | 46.00 |
+| 47,000 | 46.00 |
+| 48,000 | 45.00 |
+| 49,000 | 45.00 |
+| 50,000 | 44.00. |
+
 - **(d)** On October 1 of each year after the date of enactment of the Payment in Lieu of Taxes Act, the Secretary of the Interior shall adjust each dollar amount specified in subsections (b) and (c) to reflect changes in the Consumer Price Index published by the Bureau of Labor Statistics of the Department of Labor, for the 12 months ending the preceding June 30.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 6903(a)(1) | 16:715s(h)(2). | June 15, 1935, ch. 261 , 49 Stat. 378 , § 401(h)(2); added Oct. 17, 1978 , Pub. L. 95–469, § 1(a)(4) , 92 Stat. 1321 . |
+|  | 31:1604. | Oct. 20, 1976 , Pub. L. 94–565 , §§ 2, 4, 90 Stat. 2662 , 2664. |
+| 6903(a)(2) | 31:1602(c). |  |
+| 6903(a)(3) | 31:1602(b)(2)(last sentence). |  |
+| 6903(a)(4) | 31:1602(d). |  |
+| 6903(b)(1) | 31:1602(a)(1st sentence). |  |
+| 6903(b)(2) | 31:1602(a)(last sentence). |  |
+| 6903(c) | 31:1602(b)(1), (2)(1st sentence). |  |
+
+
+5,000
+
+6,000
+
+7,000
+
+8,000
+
+9,000
+
+10,000
+
+11,000
+
+12,000
+
+13,000
+
+14,000
+
+15,000
+
+16,000
+
+17,000
+
+18,000
+
+19,000
+
+20,000
+
+21,000
+
+22,000
+
+23,000
+
+24,000
+
+25,000
+
+26,000
+
+27,000
+
+28,000
+
+29,000
+
+30,000
+
+31,000
+
+32,000
+
+33,000
+
+34,000
+
+35,000
+
+36,000
+
+37,000
+
+38,000
+
+39,000
+
+40,000
+
+41,000
+
+42,000
+
+43,000
+
+44,000
+
+45,000
+
+46,000
+
+47,000
+
+48,000
+
+49,000
+
+50,000
+
+Historical and Revision Notes
+
+6903(a)(1)
+
+June 15, 1935, ch. 261
+
+49 Stat. 378
+
+Oct. 17, 1978
+
+Pub. L. 95–469, § 1(a)(4)
+
+92 Stat. 1321
+
+Oct. 20, 1976
+
+Pub. L. 94–565
+
+90 Stat. 2662
+
+6903(a)(2)
+
+6903(a)(3)
+
+6903(a)(4)
+
+6903(b)(1)
+
+6903(b)(2)
+
+6903(c)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1032](https://www.govinfo.gov/link/statute/96/1032); [Pub. L. 98–63, title I](https://www.govinfo.gov/link/plaw/98/public/63), July 30, 1983, [97 Stat. 324](https://www.govinfo.gov/link/statute/97/324); [Pub. L. 103–397](https://www.govinfo.gov/link/plaw/103/public/397), §§ 2, 3, 5(b), Oct. 22, 1994, [108 Stat. 4156–4158](https://www.govinfo.gov/link/statute/108/4156); [Pub. L. 106–393, § 4](https://www.govinfo.gov/link/plaw/106/public/393), Oct. 30, 2000, [114 Stat. 1610](https://www.govinfo.gov/link/statute/114/1610).)*

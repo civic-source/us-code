@@ -3,9 +3,10 @@ title: "Section 9859e - Use of funds"
 usc_title: 42
 usc_section: "9859e"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9859e"
-generated_at: "2026-03-30T02:56:11.376Z"
+generated_at: "2026-11-23T21:26:33.320Z"
+status: "active"
 ---
 
 # § 9859e. Use of funds
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.376Z"
   - **(8)** providing information to parents on what factors to consider in choosing a safe and healthy child care setting; or
   - **(9)** assisting in improving the safety of transportation practices for children enrolled in child care programs with eligible child care providers.
 - **(b)** Funds appropriated pursuant to the authority of this subchapter shall be used to supplement and not supplant other Federal, State, and local public funds expended to provide services for eligible individuals.
+
+## Source Credit
+
+*([Pub. L. 106–310, div. A, title XIV, § 1406](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1145](https://www.govinfo.gov/link/statute/114/1145).)*

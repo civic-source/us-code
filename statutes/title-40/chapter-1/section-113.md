@@ -3,9 +3,10 @@ title: "Section 113 - Limitations"
 usc_title: 40
 usc_section: "113"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 113"
-generated_at: "2026-03-30T02:55:43.371Z"
+generated_at: "2026-11-23T21:26:14.774Z"
+status: "active"
 ---
 
 # § 113. Limitations
@@ -44,3 +45,122 @@ generated_at: "2026-03-30T02:55:43.371Z"
   - **(18)** the Secretary of the Interior with respect to procurement for program operations under the Bonneville Project Act of 1937 ( 16 U.S.C. 832 et seq.);
   - **(19)** the Secretary of State with respect to the furnishing of facilities in foreign countries and reception centers within the United States; or
   - **(20)** the Office of the Director of National Intelligence.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 113(a) | 40:474(c) (words before 1st comma). | June 30, 1949, ch. 288 , title VI, § 602(c)–(e), formerly § 502(c)–(e), 63 Stat. 401 ; renumbered § 602(c)–(e), Sept. 5, 1950, ch. 849, § 6(a) , (b), 64 Stat. 583 ; Sept. 5, 1950, ch. 849 , §§ 7(e), (f), 8(c), 64 Stat. 590 , 591; Pub. L. 85–726, title XIV, § 1406 , Aug. 23, 1958 , 72 Stat. 808 ; Pub. L. 87–456, title III, § 303(b) , May 24, 1962 , 76 Stat. 78 ; Pub. L. 89–343, § 6 , Nov. 8, 1965 , 79 Stat. 1303 ; Pub. L. 90–19, § 7 , May 25, 1967 , 81 Stat. 22 ; Pub. L. 91–375, § 6(m)(2) , Aug. 12, 1970 , 84 Stat. 782 ; Pub. L. 93–400, § 15(4) , Aug. 30, 1974 , 88 Stat. 800 ; Pub. L. 96–60, title II, § 203(c) , Aug. 15, 1979 , 93 Stat. 399 ; Pub. L. 96–83, § 10(b) , Oct. 10, 1979 , 93 Stat. 652 ; Pub. L. 97–31, § 12(13) , Aug. 6, 1981 , 95 Stat. 154 ; Pub. L. 98–191 , §§ 8(d)(2), 9(a)(3), Dec. 1, 1983 , 97 Stat. 1331 ; Pub. L. 101–73, title VII, § 744(f) , Aug. 9, 1989 , 103 Stat. 438 ; Pub. L. 106–78, title VII, § 752(b)(14) , Oct. 22, 1999 , 113 Stat. 1170 . |
+| 113(b) | 40:474(c) (words between 1st and last commas). |  |
+| 113(c) | 40:474(c) (words after last comma). |  |
+| 113(d) | 40:474(e). |  |
+| 113(e) | 40:474(d). |  |
+
+
+In General
+
+Limitation Regarding Division B (Except Sections 1704 and 2303) of Subtitle I of Title 41
+
+Limitation Regarding Certain Government Corporations and Agencies
+
+Limitation Regarding Congress
+
+Other Limitations
+
+Historical and Revision Notes
+
+113(a)
+
+June 30, 1949, ch. 288
+
+63 Stat. 401
+
+Sept. 5, 1950, ch. 849, § 6(a)
+
+64 Stat. 583
+
+Sept. 5, 1950, ch. 849
+
+64 Stat. 590
+
+Pub. L. 85–726, title XIV, § 1406
+
+Aug. 23, 1958
+
+72 Stat. 808
+
+Pub. L. 87–456, title III, § 303(b)
+
+May 24, 1962
+
+76 Stat. 78
+
+Pub. L. 89–343, § 6
+
+Nov. 8, 1965
+
+79 Stat. 1303
+
+Pub. L. 90–19, § 7
+
+May 25, 1967
+
+81 Stat. 22
+
+Pub. L. 91–375, § 6(m)(2)
+
+Aug. 12, 1970
+
+84 Stat. 782
+
+Pub. L. 93–400, § 15(4)
+
+Aug. 30, 1974
+
+88 Stat. 800
+
+Pub. L. 96–60, title II, § 203(c)
+
+Aug. 15, 1979
+
+93 Stat. 399
+
+Pub. L. 96–83, § 10(b)
+
+Oct. 10, 1979
+
+93 Stat. 652
+
+Pub. L. 97–31, § 12(13)
+
+Aug. 6, 1981
+
+95 Stat. 154
+
+Pub. L. 98–191
+
+Dec. 1, 1983
+
+97 Stat. 1331
+
+Pub. L. 101–73, title VII, § 744(f)
+
+Aug. 9, 1989
+
+103 Stat. 438
+
+Pub. L. 106–78, title VII, § 752(b)(14)
+
+Oct. 22, 1999
+
+113 Stat. 1170
+
+113(b)
+
+113(c)
+
+113(d)
+
+113(e)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1066](https://www.govinfo.gov/link/statute/116/1066); [Pub. L. 108–458, title I, § 1080](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3696](https://www.govinfo.gov/link/statute/118/3696); [Pub. L. 111–350, § 5](https://www.govinfo.gov/link/plaw/111/public/350) (l)(4), Jan. 4, 2011, [124 Stat. 3851](https://www.govinfo.gov/link/statute/124/3851); [Pub. L. 117–81, div. A, title XVII, § 1702(g)(1)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2157](https://www.govinfo.gov/link/statute/135/2157).)*

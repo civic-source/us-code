@@ -3,12 +3,21 @@ title: "Section 1708 - Theft or receipt of stolen mail matter gen­erally"
 usc_title: 18
 usc_section: "1708"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1708"
-generated_at: "2026-03-30T02:54:16.489Z"
+generated_at: "2026-11-23T21:25:44.086Z"
+status: "active"
 ---
 
 # § 1708. Theft or receipt of stolen mail matter gen­erally
 
 Whoever steals, takes, or abstracts, or by fraud or deception obtains, or attempts so to obtain, from or out of any mail, post office, or station thereof, letter box, mail receptacle, or any mail route or other authorized depository for mail matter, or from a letter or mail carrier, any letter, postal card, package, bag, or mail, or abstracts or removes from any such letter, package, bag, or mail, any article or thing contained therein, or secretes, embezzles, or destroys any such letter, postal card, package, bag, or mail, or any article or thing contained therein; or Whoever steals, takes, or abstracts, or by fraud or deception obtains any letter, postal card, package, bag, or mail, or any article or thing contained therein which has been left for collection upon or adjacent to a collection box or other authorized depository of mail matter; or Whoever buys, receives, or conceals, or unlawfully has in his possession, any letter, postal card, package, bag, or mail, or any article or thing contained therein, which has been so stolen, taken, embezzled, or abstracted, as herein described, knowing the same to have been stolen, taken, embezzled, or abstracted— Shall be fined under this title or imprisoned not more than five years, or both.
 
+
+Act
+
+Act
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 779](https://www.govinfo.gov/link/statute/62/779); May 24, 1949, ch. 139, § 39, [63 Stat. 95](https://www.govinfo.gov/link/statute/63/95); July 1, 1952, ch. 535, [66 Stat. 314](https://www.govinfo.gov/link/statute/66/314); [Pub. L. 103–322, title XXXIII, § 330016(1)(I)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2147](https://www.govinfo.gov/link/statute/108/2147).)*

@@ -3,9 +3,10 @@ title: "Section 31 - Accountants and auditors"
 usc_title: 15
 usc_section: "31"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 31"
-generated_at: "2026-03-30T02:54:08.069Z"
+generated_at: "2026-11-23T21:25:39.592Z"
+status: "active"
 ---
 
 # § 80a–31. Accountants and auditors
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.069Z"
   - **(4)** such certificate or report of such accountant shall be addressed both to the board of directors of such registered company and to the security holders thereof.
 - **(b)** No registered management company or registered face-amount certificate company shall file with the Commission any financial statement in the preparation of which the controller or other principal accounting officer or employee of such company participated, unless such controller, officer or employee was selected, either by vote of the holders of such company’s voting securities at the last annual meeting of such security holders, or by the board of directors of such company.
 - **(c)** The Commission is authorized, by rules and regulations or order in the public interest or for the protection of investors, to require accountants and auditors to keep reports, work sheets, and other documents and papers relating to registered investment companies for such period or periods as the Commission may prescribe, and to make the same available for inspection by the Commission or any member or representative thereof.
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title I, § 32, [54 Stat. 838](https://www.govinfo.gov/link/statute/54/838); [Pub. L. 91–547, § 18](https://www.govinfo.gov/link/plaw/91/public/547), Dec. 14, 1970, [84 Stat. 1427](https://www.govinfo.gov/link/statute/84/1427); [Pub. L. 94–29, § 28(4)](https://www.govinfo.gov/link/plaw/94/public/29), June 4, 1975, [89 Stat. 165](https://www.govinfo.gov/link/statute/89/165).)*

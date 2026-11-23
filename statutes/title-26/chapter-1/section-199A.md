@@ -3,9 +3,10 @@ title: "Section 199A - Qualified business income"
 usc_title: 26
 usc_section: "199A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 199A"
-generated_at: "2026-03-30T02:55:27.651Z"
+generated_at: "2026-11-23T21:26:06.088Z"
+status: "active"
 ---
 
 # § 199A. Qualified business income
@@ -187,3 +188,7 @@ generated_at: "2026-03-30T02:55:27.651Z"
   - **(3)** In the case of any taxable year beginning after 2026, the $400 amount in paragraph (1)(B) and the $1,000 amount in paragraph (2)(A) shall each be increased by an amount equal to—
     - **(A)** such dollar amount, multiplied by
     - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2025” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+
+## Source Credit
+
+*(Added [Pub. L. 115–97, title I, § 11011(a)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2063](https://www.govinfo.gov/link/statute/131/2063); amended [Pub. L. 115–141, div. T, § 101(a)(1)](https://www.govinfo.gov/link/plaw/115/public/141), (2)(A), (C), (b), Mar. 23, 2018, [132 Stat. 1151](https://www.govinfo.gov/link/statute/132/1151), 1155; [Pub. L. 119–21, title VII](https://www.govinfo.gov/link/plaw/119/public/21), §§ 70105(a), (b), 70111(b), 70201(d), July 4, 2025, [139 Stat. 161](https://www.govinfo.gov/link/statute/139/161), 165, 171.)*

@@ -3,9 +3,10 @@ title: "Section 2507i - Reporting requirements"
 usc_title: 22
 usc_section: "2507i"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2507i"
-generated_at: "2026-03-30T02:55:05.371Z"
+generated_at: "2026-11-23T21:25:58.506Z"
+status: "active"
 ---
 
 # § 2507i. Reporting requirements
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.371Z"
 - **(c)**
   - **(1)** The President shall determine the level of access to communication, including cellular and Internet access, of each volunteer.
   - **(2)** Not later than six months after November 21, 2011 , the President shall submit to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives a report on the costs, feasibility, and benefits of providing all volunteers with access to adequate communication, including cellular service and Internet access.
+
+## Source Credit
+
+*([Pub. L. 87–293, title I, § 8I](https://www.govinfo.gov/link/plaw/87/public/293), as added [Pub. L. 112–57, § 2](https://www.govinfo.gov/link/plaw/112/public/57), Nov. 21, 2011, [125 Stat. 743](https://www.govinfo.gov/link/statute/125/743).)*

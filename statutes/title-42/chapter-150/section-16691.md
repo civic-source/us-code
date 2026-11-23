@@ -3,9 +3,10 @@ title: "Section 16691 - Transferred"
 usc_title: 42
 usc_section: "16691"
 chapter: 150
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16691"
-generated_at: "2026-03-30T02:56:11.492Z"
+generated_at: "2026-11-23T21:26:33.752Z"
+status: "transferred"
 ---
 
 # § 16691. Transferred

@@ -3,9 +3,10 @@ title: "Section 44 - Expenditures to provide access to disabled individuals"
 usc_title: 26
 usc_section: "44"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 44"
-generated_at: "2026-03-30T02:55:27.599Z"
+generated_at: "2026-11-23T21:26:05.926Z"
+status: "active"
 ---
 
 # § 44. Expenditures to provide access to disabled individuals
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:55:27.599Z"
     - **(A)** no deduction or credit shall be allowed for such amount under any other provision of this chapter, and
     - **(B)** no increase in the adjusted basis of any property shall result from such amount.
 - **(e)** The Secretary shall prescribe regulations necessary to carry out the purposes of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 101–508, title XI, § 11611(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–501](https://www.govinfo.gov/link/statute/104/1388).)*

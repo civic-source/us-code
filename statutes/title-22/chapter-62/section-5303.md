@@ -3,9 +3,10 @@ title: "Section 5303 - Statement of policy"
 usc_title: 22
 usc_section: "5303"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5303"
-generated_at: "2026-03-30T02:55:05.416Z"
+generated_at: "2026-11-23T21:25:58.656Z"
+status: "active"
 ---
 
 # § 5303. Statement of policy
@@ -16,3 +17,7 @@ It is the policy of the United States that—
   - **(2)** the goal of the United States in international economic negotiations should be to achieve macroeconomic policies and exchange rates consistent with more appropriate and sustainable balances in trade and capital flows and to foster price stability in conjunction with economic growth;
   - **(3)** the United States, in close coordination with the other major industrialized countries should, where appropriate, participate in international currency markets with the objective of producing more orderly adjustment of foreign exchange markets and, in combination with necessary macroeconomic policy changes, assisting adjustment toward a more appropriate and sustainable balance in current accounts; and
   - **(4)** the accountability of the President for the impact of economic policies and exchange rates on trade competitiveness should be increased.
+
+## Source Credit
+
+*([Pub. L. 100–418, title III, § 3003](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1373](https://www.govinfo.gov/link/statute/102/1373).)*

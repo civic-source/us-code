@@ -3,9 +3,10 @@ title: "Section 1835 - Advisory council"
 usc_title: 38
 usc_section: "1835"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1835"
-generated_at: "2026-03-30T02:55:53.489Z"
+generated_at: "2026-11-23T21:26:16.669Z"
+status: "active"
 ---
 
 # § 1835. Advisory council
@@ -13,3 +14,13 @@ generated_at: "2026-03-30T02:55:53.489Z"
 - **(a)** The Secretary shall establish an advisory council on health care and benefits for covered children.
 - **(b)** The advisory council established under subsection (a) shall be composed of Federal employees.
 - **(c)** The advisory council established under subsection (a) shall solicit feedback from covered children and covered veterans on the health care and benefits provided under this chapter and communicate such feedback to the Secretary.
+
+In General
+
+Membership
+
+Duties
+
+## Source Credit
+
+*(Added [Pub. L. 118–18, § 1(b)](https://www.govinfo.gov/link/plaw/118/public/18), Oct. 6, 2023, [137 Stat. 103](https://www.govinfo.gov/link/statute/137/103).)*

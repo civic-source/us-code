@@ -3,9 +3,10 @@ title: "Section 11384 - Incentives for high-performing communities"
 usc_title: 42
 usc_section: "11384"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11384"
-generated_at: "2026-03-30T02:56:11.400Z"
+generated_at: "2026-11-23T21:26:33.419Z"
+status: "active"
 ---
 
 # § 11384. Incentives for high-performing communities
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:56:11.400Z"
   - **(4)** If recipients in the geographic area have used funding awarded under section 11382(a) of this title for eligible activities described under section 11374(a) of this title in previous years based on the authority granted under subsection (c), that such activities were effective at reducing the number of individuals and families who became homeless in that community.
   - **(5)** With respect to collaborative applicants exercising the authority under section 11382(j) of this title to serve homeless families with children and youth defined as homeless under other Federal statutes, effectiveness in achieving the goals and outcomes identified in subsection 1 1 So in original. Probably should be “section”. 11386a(b)(1)(F) of this title according to such standards as the Secretary shall promulgate.
 - **(e)** A collaborative applicant designated as a high-performing community under this section shall cooperate with the Secretary in distributing information about successful efforts within the geographic area represented by the collaborative applicant to reduce homelessness.
+
+## Source Credit
+
+*([Pub. L. 100–77, title IV, § 424](https://www.govinfo.gov/link/plaw/100/public/77), as added [Pub. L. 111–22, div. B, title III, § 1303](https://www.govinfo.gov/link/plaw/111/public/22), May 20, 2009, [123 Stat. 1687](https://www.govinfo.gov/link/statute/123/1687).)*

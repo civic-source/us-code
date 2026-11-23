@@ -3,9 +3,10 @@ title: "Section 1875 - Protection of jurors’ employment"
 usc_title: 28
 usc_section: "1875"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1875"
-generated_at: "2026-03-30T02:55:30.145Z"
+generated_at: "2026-11-23T21:26:01.111Z"
+status: "active"
 ---
 
 # § 1875. Protection of jurors’ employment
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:30.145Z"
 - **(d)**
   - **(1)** An individual claiming that his employer has violated the provisions of this section may make application to the district court for the district in which such employer maintains a place of business and the court shall, upon finding probable merit in such claim, appoint counsel to represent such individual in any action in the district court necessary to the resolution of such claim. Such counsel shall be compensated and necessary expenses repaid to the extent provided by section 3006A of title 18 , United States Code.
   - **(2)** In any action or proceeding under this section, the court may award a prevailing employee who brings such action by retained counsel a reasonable attorney’s fee as part of the costs. The court may tax a defendant employer, as costs payable to the court, the attorney fees and expenses incurred on behalf of a prevailing employee, where such costs were expended by the court pursuant to paragraph (1) of this subsection. The court may award a prevailing employer a reasonable attorney’s fee as part of the costs only if the court finds that the action is frivolous, vexatious, or brought in bad faith.
+
+## Source Credit
+
+*(Added [Pub. L. 95–572, § 6(a)(1)](https://www.govinfo.gov/link/plaw/95/public/572), Nov. 2, 1978, [92 Stat. 2456](https://www.govinfo.gov/link/statute/92/2456); amended [Pub. L. 97–463, § 1](https://www.govinfo.gov/link/plaw/97/public/463), Jan. 12, 1983, [96 Stat. 2531](https://www.govinfo.gov/link/statute/96/2531); [Pub. L. 110–406, § 19](https://www.govinfo.gov/link/plaw/110/public/406), Oct. 13, 2008, [122 Stat. 4295](https://www.govinfo.gov/link/statute/122/4295).)*

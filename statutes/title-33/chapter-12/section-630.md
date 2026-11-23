@@ -3,12 +3,17 @@ title: "Section 630 - Limitation on expenditure for purchase of dredges"
 usc_title: 33
 usc_section: "630"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 630"
-generated_at: "2026-03-30T02:55:41.065Z"
+generated_at: "2026-11-23T21:26:11.323Z"
+status: "active"
 ---
 
 # § 630. Limitation on expenditure for purchase of dredges
 
 No money authorized to be expended for the acquirement of any dredge or dredges shall be so expended for the purchase of any dredge or dredges from private contractors, which at the time of the proposed purchase can be manufactured at any navy yard or other government-owned factory for a sum less than it can be purchased for from such private contractor.
 
+
+## Source Credit
+
+*(Sept. 22, 1922, ch. 427, § 5, [42 Stat. 1042](https://www.govinfo.gov/link/statute/42/1042).)*

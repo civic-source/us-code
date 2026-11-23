@@ -3,9 +3,10 @@ title: "Section 4813 - Additional authorities"
 usc_title: 50
 usc_section: "4813"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4813"
-generated_at: "2026-03-30T02:56:26.283Z"
+generated_at: "2026-11-23T21:26:39.121Z"
+status: "active"
 ---
 
 # § 4813. Additional authorities
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:56:26.283Z"
     - **(E)** foreign maritime nuclear projects that would pose a risk to the national security or foreign policy of the United States.
 - **(e)** The Secretary may inform United States persons, either individually by specific notice or through amendment to any regulation or order issued under this subchapter, that a license from the Bureau of Industry and Security of the Department of Commerce is required to engage in any activity if the activity involves the types of movement, service, or support described in subsection (d). The absence of any such notification does not excuse the United States person from compliance with the license requirements of subsection (d), or any regulation or order issued under this subchapter.
 - **(f)** The Secretary shall deny an application to engage in any activity described in subsection (d) if the activity would make a material contribution to any of the items described in subsection (d)(2).
+
+## Source Credit
+
+*([Pub. L. 115–232, div. A, title XVII, § 1754](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2212](https://www.govinfo.gov/link/statute/132/2212).)*

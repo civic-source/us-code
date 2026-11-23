@@ -3,9 +3,10 @@ title: "Section 479a - Conveyance of National Forest System lands for educationa
 usc_title: 16
 usc_section: "479a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 479a"
-generated_at: "2026-03-30T02:54:22.857Z"
+generated_at: "2026-11-23T21:25:51.646Z"
+status: "active"
 ---
 
 # § 479a. Conveyance of National Forest System lands for educational purposes
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:22.857Z"
     - **(A)** make a final determination whether or not to convey land pursuant to the application, and notify the applicant of that determination; or
     - **(B)** submit written notice to the applicant containing the reasons why a final determination has not been made.
 - **(e)** If, at any time after lands are conveyed pursuant to this section, the entity to whom the lands were conveyed attempts to transfer title to or control over the lands to another or the lands are devoted to a use other than the use for which the lands were conveyed, title to the lands shall revert to the United States.
+
+## Source Credit
+
+*([Pub. L. 106–577, title II, § 202](https://www.govinfo.gov/link/plaw/106/public/577), Dec. 28, 2000, [114 Stat. 3070](https://www.govinfo.gov/link/statute/114/3070).)*

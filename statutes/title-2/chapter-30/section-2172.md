@@ -3,9 +3,10 @@ title: "Section 2172 - Office of Congressional Accessibility Services"
 usc_title: 2
 usc_section: "2172"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 2172"
-generated_at: "2026-03-30T02:53:04.826Z"
+generated_at: "2026-11-23T21:25:21.288Z"
+status: "active"
 ---
 
 # § 2172. Office of Congressional Accessibility Services
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:53:04.826Z"
       - **(iv)** serve as contracting officer for the Office of Congressional Accessibility Services.
     - **(B)** Subject to the approval of the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives, the Director of Accessibility Services may place orders and enter into agreements with the Office of the Architect of the Capitol, with other legislative branch agencies, and with any office or other entity of the Senate or House of Representatives for procuring goods and providing financial and administrative services on behalf of the Office of Congressional Accessibility Services, or to otherwise assist the Director in the administration and management of the Office of Congressional Accessibility Services.
   - **(3)** The Director of Accessibility Services shall submit a report to the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives not later than 45 days following the close of each semiannual period ending on March 31 or September 30 of each year on the financial and operational status during the period of each function under the jurisdiction of the Director. Each such report shall include financial statements and a description or explanation of current operations, the implementation of new policies and procedures, and future plans for each function.
+
+## Source Credit
+
+*([Pub. L. 101–163, title III, § 310](https://www.govinfo.gov/link/plaw/101/public/163), Nov. 21, 1989, [103 Stat. 1065](https://www.govinfo.gov/link/statute/103/1065); [Pub. L. 104–53, title I, § 112](https://www.govinfo.gov/link/plaw/104/public/53), Nov. 19, 1995, [109 Stat. 525](https://www.govinfo.gov/link/statute/109/525); [Pub. L. 110–437, title IV, § 411(a)](https://www.govinfo.gov/link/plaw/110/public/437), Oct. 20, 2008, [122 Stat. 4993](https://www.govinfo.gov/link/statute/122/4993).)*

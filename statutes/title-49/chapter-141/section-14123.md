@@ -3,9 +3,10 @@ title: "Section 14123 - Financial reporting"
 usc_title: 49
 usc_section: "14123"
 chapter: 141
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 14123"
-generated_at: "2026-03-30T02:56:19.331Z"
+generated_at: "2026-11-23T21:26:40.688Z"
+status: "active"
 ---
 
 # § 14123. Financial reporting
@@ -27,3 +28,33 @@ generated_at: "2026-03-30T02:56:19.331Z"
     - **(D)** The Secretary shall not release publicly the report of a carrier making a request under subparagraph (A) while such request is pending.
   - **(3)** Exemptions granted under this subsection shall be for 3-year periods.
 - **(d)** The Secretary shall streamline and simplify, to the maximum extent practicable, any reporting requirements the Secretary imposes under this section.
+
+Reports.—
+
+Annual reports
+
+Other reports
+
+Matters To Be Covered
+
+Exemptions.—
+
+From filing
+
+From public release.—
+
+In general
+
+Procedure
+
+Use of data for internal dot purposes
+
+Pending requests
+
+Period of exemptions
+
+Streamlining and Simplification
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 893](https://www.govinfo.gov/link/statute/109/893); amended [Pub. L. 105–102, § 2(11)](https://www.govinfo.gov/link/plaw/105/public/102), Nov. 20, 1997, [111 Stat. 2205](https://www.govinfo.gov/link/statute/111/2205).)*

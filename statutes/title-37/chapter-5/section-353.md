@@ -3,9 +3,10 @@ title: "Section 353 - Skill incentive pay or proficiency bonus"
 usc_title: 37
 usc_section: "353"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 353"
-generated_at: "2026-03-30T02:55:44.056Z"
+generated_at: "2026-11-23T21:26:14.219Z"
+status: "active"
 ---
 
 # § 353. Skill incentive pay or proficiency bonus
@@ -37,3 +38,55 @@ generated_at: "2026-03-30T02:55:44.056Z"
 - **(g)** A member who receives skill incentive pay or a proficiency bonus under this section and who fails to fulfill the eligibility requirement for receipt of the pay or bonus shall be subject to the repayment provisions of section 373 of this title .
 - **(h)** A member may not be paid more than one pay under this section in any month for the same period of service and skill. A member may be paid skill incentive pay or the proficiency bonus under this section in addition to any other pay and allowances to which the member is entitled, except that a member may not be paid skill incentive pay or a proficiency bonus under this section and hazardous duty pay under section 351 of this title for the same period of service in the same career field or skill.
 - **(i)** No agreement may be entered into under this section after December 31, 2026 .
+
+Skill Incentive Pay
+
+Skill Proficiency Bonus.—
+
+Availability; eligible persons
+
+Inclusion of certain senior rotc members
+
+Maximum Amounts and Methods of Payment.—
+
+Skill incentive pay
+
+Proficiency bonus
+
+Certified Proficiency for Proficiency Bonus.—
+
+Certification required
+
+Duration of certification
+
+Waiver
+
+Written Agreement.—
+
+Discretionary for skill incentive pay
+
+Required for proficiency bonus
+
+Foreign Language Studies in Officer Training Programs.—
+
+Availability of incentive pay
+
+Inclusion of certain senior rotc members
+
+Critical foreign language defined
+
+Repayment
+
+Relationship to Other Pays and Allowances
+
+Termination of Authority
+
+Pilot program required
+
+Duration of pilot program
+
+Reporting requirement
+
+## Source Credit
+
+*(Added [Pub. L. 110–181, div. A, title VI, § 661(a)(2)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 175](https://www.govinfo.gov/link/statute/122/175); amended [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title VI, § 619(a), Oct. 14, 2008, [122 Stat. 4487](https://www.govinfo.gov/link/statute/122/4487); [Pub. L. 111–84, div. A, title VI](https://www.govinfo.gov/link/plaw/111/public/84), §§ 614(8), 618(d), Oct. 28, 2009, [123 Stat. 2354](https://www.govinfo.gov/link/statute/123/2354), 2356; [Pub. L. 111–383, div. A, title VI, § 614(8)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4237](https://www.govinfo.gov/link/statute/124/4237); [Pub. L. 112–81, div. A, title VI, § 614(8)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1450](https://www.govinfo.gov/link/statute/125/1450); [Pub. L. 112–239, div. A, title VI, § 614(8)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1777](https://www.govinfo.gov/link/statute/126/1777); [Pub. L. 113–66, div. A, title VI, § 614(8)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 781](https://www.govinfo.gov/link/statute/127/781); [Pub. L. 113–291, div. A, title VI, § 614(9)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3401](https://www.govinfo.gov/link/statute/128/3401); [Pub. L. 114–92, div. A, title VI, § 614(9)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 839](https://www.govinfo.gov/link/statute/129/839); [Pub. L. 114–328, div. A, title VI, § 614(9)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2159](https://www.govinfo.gov/link/statute/130/2159); [Pub. L. 115–91, div. A, title VI, § 614(9)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1422](https://www.govinfo.gov/link/statute/131/1422); [Pub. L. 115–232, div. A, title VI, § 611(d)(8)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1797](https://www.govinfo.gov/link/statute/132/1797); [Pub. L. 116–92, div. A, title VI, § 611(d)(8)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1426](https://www.govinfo.gov/link/statute/133/1426); [Pub. L. 116–283, div. A, title VI, § 611(d)(8)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3673](https://www.govinfo.gov/link/statute/134/3673); [Pub. L. 117–81, div. A, title VI, § 611(d)(8)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1769](https://www.govinfo.gov/link/statute/135/1769); [Pub. L. 117–263, div. A, title VI](https://www.govinfo.gov/link/plaw/117/public/263), §§ 601(d)(8), 602(d), Dec. 23, 2022, [136 Stat. 2620](https://www.govinfo.gov/link/statute/136/2620); [Pub. L. 118–31, div. A, title VI, § 613(d)(8)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 292](https://www.govinfo.gov/link/statute/137/292); [Pub. L. 118–159, div. A, title VI](https://www.govinfo.gov/link/plaw/118/public/159), §§ 611(d)(8), 613, Dec. 23, 2024, [138 Stat. 1932](https://www.govinfo.gov/link/statute/138/1932), 1933; [Pub. L. 119–60, div. A, title VI](https://www.govinfo.gov/link/plaw/119/public/60), §§ 601(c)(4), 611(d)(8), Dec. 18, 2025, [139 Stat. 903](https://www.govinfo.gov/link/statute/139/903), 906.)*

@@ -3,9 +3,10 @@ title: "Section 4588 - Exemption from disclosure"
 usc_title: 50
 usc_section: "4588"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4588"
-generated_at: "2026-03-30T02:56:26.281Z"
+generated_at: "2026-11-23T21:26:39.114Z"
+status: "active"
 ---
 
 # § 4588. Exemption from disclosure
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:26.281Z"
   - **(4)** Identity of a covered foreign person in the public database described in section 4585 of this title .
   - **(5)** Information that the parties have consented to be disclosed to third parties.
   - **(6)** Information gathered by the Secretary or the Secretary’s designee where the disclosure is determined to be in the national security interest, which may include publication of anonymized data.
+
+## Source Credit
+
+*(Sept. 8, 1950, ch. 932, title VIII, § 808, as added [Pub. L. 119–60, div. H, title LXXXV, § 8521](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1931](https://www.govinfo.gov/link/statute/139/1931).)*

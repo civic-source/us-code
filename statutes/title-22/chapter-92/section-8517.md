@@ -3,9 +3,10 @@ title: "Section 8517 - Increased capacity for efforts to combat unlawful or terr
 usc_title: 22
 usc_section: "8517"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8517"
-generated_at: "2026-03-30T02:55:05.452Z"
+generated_at: "2026-11-23T21:25:58.743Z"
+status: "active"
 ---
 
 # § 8517. Increased capacity for efforts to combat unlawful or terrorist financing
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.452Z"
 - **(d)** There are authorized to be appropriated to the Secretary of Commerce for the Bureau of Industry and Security of the Department of Commerce—
   - **(1)** $113,000,000 for fiscal year 2011; and
   - **(2)** such sums as may be necessary for each of the fiscal years 2012 and 2013.
+
+## Source Credit
+
+*([Pub. L. 111–195, title I, § 109](https://www.govinfo.gov/link/plaw/111/public/195), July 1, 2010, [124 Stat. 1338](https://www.govinfo.gov/link/statute/124/1338).)*

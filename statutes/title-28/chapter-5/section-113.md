@@ -3,9 +3,10 @@ title: "Section 113 - North Carolina"
 usc_title: 28
 usc_section: "113"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 113"
-generated_at: "2026-03-30T02:55:30.123Z"
+generated_at: "2026-11-23T21:26:01.010Z"
+status: "active"
 ---
 
 # § 113. North Carolina
@@ -14,3 +15,9 @@ generated_at: "2026-03-30T02:55:30.123Z"
 - **(b)** Middle District .—The Middle District comprises the counties of Alamance, Cabarrus, Caswell, Chatham, Davidson, Davie, Durham (excluding that portion of Durham County encompassing the Federal Correctional Institution, Butner, North Carolina), Forsyth, Guilford, Hoke (excluding that portion of Hoke County encompassing the Fort Bragg Military Reservation and Camp Mackall), Lee, Montgomery, Moore (excluding that portion of Moore County encompassing the Fort Bragg Military Reservation and Camp Mackall), Orange, Person, Randolph, Richmond (excluding that portion of Richmond County encompassing the Fort Bragg Military Reservation and Camp Mackall), Rockingham, Rowan, Scotland (excluding that portion of Scotland County encompassing the Fort Bragg Military Reservation and Camp Mackall), Stanly, Stokes, Surry, and Yadkin. Court for the Middle District shall be held at Durham, Greensboro, and Winston-Salem. Western District
 - **(c)** The Western District comprises the counties of Alexander, Alleghany, Anson, Ashe, Avery, Buncombe, Burke, Caldwell, Catawba, Cherokee, Clay, Cleveland, Gaston, Graham, Haywood, Henderson, Iredell, Jackson, Lincoln, McDowell, Macon, Madison, Mecklenburg, Mitchell, Polk, Rutherford, Swain, Transylvania, Union, Watauga, Wilkes, and Yancey. Court for the Western District shall be held at Asheville, Bryson City, Charlotte, Shelby, and Statesville.
 
+
+Middle District
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 886](https://www.govinfo.gov/link/statute/62/886); [Pub. L. 89–319](https://www.govinfo.gov/link/plaw/89/public/319), Nov. 2, 1965, [79 Stat. 1186](https://www.govinfo.gov/link/statute/79/1186); [Pub. L. 96–462, § 5(a)](https://www.govinfo.gov/link/plaw/96/public/462) –(c), Oct. 15, 1980, [94 Stat. 2053](https://www.govinfo.gov/link/statute/94/2053), 2054; [Pub. L. 102–272](https://www.govinfo.gov/link/plaw/102/public/272), Apr. 21, 1992, [106 Stat. 112](https://www.govinfo.gov/link/statute/106/112); [Pub. L. 117–26, § 1(a)](https://www.govinfo.gov/link/plaw/117/public/26), July 6, 2021, [135 Stat. 299](https://www.govinfo.gov/link/statute/135/299).)*

@@ -3,9 +3,10 @@ title: "Section 9201 - Findings; purposes"
 usc_title: 22
 usc_section: "9201"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9201"
-generated_at: "2026-03-30T02:55:05.461Z"
+generated_at: "2026-11-23T21:25:58.764Z"
+status: "active"
 ---
 
 # § 9201. Findings; purposes
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:55:05.461Z"
   - **(2)** to provide diplomatic leverage to negotiate necessary changes in the conduct of the Government of North Korea;
   - **(3)** to ease the suffering of the people of North Korea; and
   - **(4)** to reaffirm the purposes set forth in section 7802 of this title .
+
+## Source Credit
+
+*([Pub. L. 114–122, § 2](https://www.govinfo.gov/link/plaw/114/public/122), Feb. 18, 2016, [130 Stat. 94](https://www.govinfo.gov/link/statute/130/94).)*

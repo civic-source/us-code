@@ -3,9 +3,10 @@ title: "Section 1300 - Indian lands"
 usc_title: 30
 usc_section: "1300"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1300"
-generated_at: "2026-03-30T02:55:29.403Z"
+generated_at: "2026-11-23T21:26:00.432Z"
+status: "active"
 ---
 
 # § 1300. Indian lands
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:29.403Z"
     - **(A)** Except as provided in subparagraph (B), grants for developing, administering, and enforcing tribal programs approved in accordance with section 1254(e) of this title shall be provided to an Indian tribe in accordance with section 1295 of this title .
     - **(B)** Notwithstanding subparagraph (A), the Federal share of the costs of developing, administering, and enforcing an approved tribal program shall be 100 percent.
   - **(6)** Not later than 18 months after the date on which a tribal program is approved under subsection (e) of section 1254 of this title , the Secretary shall submit to the appropriate committees of Congress a report, developed in cooperation with the applicable Indian tribe, on the tribal program that includes a recommendation of the Secretary on whether primary regulatory authority under that subsection should be expanded to include additional Indian lands.
+
+## Source Credit
+
+*([Pub. L. 95–87, title VII, § 710](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 523](https://www.govinfo.gov/link/statute/91/523); [Pub. L. 102–486, title XXV, § 2514](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3112](https://www.govinfo.gov/link/statute/106/3112); [Pub. L. 109–432, div. C, title II, § 209](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 3019](https://www.govinfo.gov/link/statute/120/3019).)*

@@ -3,9 +3,10 @@ title: "Section 6404 - Abatements"
 usc_title: 26
 usc_section: "6404"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6404"
-generated_at: "2026-03-30T02:55:27.851Z"
+generated_at: "2026-11-23T21:26:06.859Z"
+status: "active"
 ---
 
 # § 6404. Abatements
@@ -56,3 +57,31 @@ generated_at: "2026-03-30T02:55:27.851Z"
     - **(B)** Rules similar to the rules of section 6512(b) shall apply for purposes of this subsection.
     - **(C)** An order of the Tax Court under this subsection shall be reviewable in the same manner as a decision of the Tax Court, but only with respect to the matters determined in such order.
 - **(i)** For authority to suspend running of interest, etc. by reason of Presidentially declared disaster or terroristic or military action, see section 7508A.
+
+In general
+
+Exception for reportable or listed transactions.—
+
+In general
+
+Special rule for certain listed and reportable transactions.—
+
+In general
+
+Participants in settlement initiatives
+
+Taxpayers acting in good faith
+
+Closed transactions
+
+Effective Date
+
+Emergency Designation.—
+
+In general
+
+Statute of limitations
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 792; [Pub. L. 94–455, title XII, § 1212(a)](https://www.govinfo.gov/link/plaw/94/public/455), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1712](https://www.govinfo.gov/link/statute/90/1712), 1834; [Pub. L. 96–589, § 6(b)(2)](https://www.govinfo.gov/link/plaw/96/public/589), Dec. 24, 1980, [94 Stat. 3407](https://www.govinfo.gov/link/statute/94/3407); [Pub. L. 99–514, title XV, § 1563(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2762](https://www.govinfo.gov/link/statute/100/2762); [Pub. L. 100–647, title I, § 1015(n)](https://www.govinfo.gov/link/plaw/100/public/647), title VI, § 6229(a), Nov. 10, 1988, [102 Stat. 3572](https://www.govinfo.gov/link/statute/102/3572), 3733; [Pub. L. 104–168, title III](https://www.govinfo.gov/link/plaw/104/public/168), §§ 301(a), (b), 302(a), title VII, § 701(c)(3), July 30, 1996, [110 Stat. 1457](https://www.govinfo.gov/link/statute/110/1457), 1464; [Pub. L. 105–206, title III](https://www.govinfo.gov/link/plaw/105/public/206), §§ 3305(a), 3309(a), July 22, 1998, [112 Stat. 743](https://www.govinfo.gov/link/statute/112/743), 745; [Pub. L. 105–277, div. J, title IV, § 4003(e)(2)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–909](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 107–134, title I, § 112(d)(1)](https://www.govinfo.gov/link/plaw/107/public/134), Jan. 23, 2002, [115 Stat. 2434](https://www.govinfo.gov/link/statute/115/2434); [Pub. L. 108–357, title VIII, § 903(a)](https://www.govinfo.gov/link/plaw/108/public/357) –(c), Oct. 22, 2004, [118 Stat. 1652](https://www.govinfo.gov/link/statute/118/1652); [Pub. L. 109–135, title III, § 303(b)(1)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2609](https://www.govinfo.gov/link/statute/119/2609); [Pub. L. 110–28, title VIII, § 8242(a)](https://www.govinfo.gov/link/plaw/110/public/28), May 25, 2007, [121 Stat. 200](https://www.govinfo.gov/link/statute/121/200); [Pub. L. 113–295, div. A, title II, § 221(a)(111)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4054](https://www.govinfo.gov/link/statute/128/4054); [Pub. L. 114–113, div. Q, title IV, § 421(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3123](https://www.govinfo.gov/link/statute/129/3123); [Pub. L. 115–141, div. U, title IV, § 401(a)(288)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1198](https://www.govinfo.gov/link/statute/132/1198).)*

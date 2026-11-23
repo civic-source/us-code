@@ -3,9 +3,10 @@ title: "Section 22 - Great Lakes fishery and ecosystem restoration"
 usc_title: 42
 usc_section: "22"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 22"
-generated_at: "2026-03-30T02:56:11.135Z"
+generated_at: "2026-11-23T21:26:32.265Z"
+status: "active"
 ---
 
 # § 1962d–22. Great Lakes fishery and ecosystem restoration
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:56:11.135Z"
     - **(B)** The non-Federal interest may provide up to 100 percent of the non-Federal share required under paragraphs (1) and (2) in the form of services, materials, supplies, or other in-kind contributions.
   - **(4)** The operation, maintenance, repair, rehabilitation, and replacement of projects carried out under this section shall be a non-Federal responsibility.
   - **(5)** In accordance with section 1962d–5b of this title , for any project carried out under this section, a non-Federal interest may include a private interest and a nonprofit entity.
+
+## Source Credit
+
+*([Pub. L. 106–541, title V, § 506](https://www.govinfo.gov/link/plaw/106/public/541), Dec. 11, 2000, [114 Stat. 2645](https://www.govinfo.gov/link/statute/114/2645); [Pub. L. 110–114, title V, § 5011](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1194](https://www.govinfo.gov/link/statute/121/1194); [Pub. L. 114–322, title I](https://www.govinfo.gov/link/plaw/114/public/322), §§ 1123, 1140, Dec. 16, 2016, [130 Stat. 1647](https://www.govinfo.gov/link/statute/130/1647), 1658.)*

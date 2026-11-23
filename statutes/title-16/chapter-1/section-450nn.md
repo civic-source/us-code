@@ -3,12 +3,17 @@ title: "Section 450nn - General Grant National Memorial; establishment"
 usc_title: 16
 usc_section: "450nn"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 450nn"
-generated_at: "2026-03-30T02:54:22.803Z"
+generated_at: "2026-11-23T21:25:51.540Z"
+status: "active"
 ---
 
 # § 450nn. General Grant National Memorial; establishment
 
 The Secretary of the Interior is authorized and directed to accept, as a gift to the United States, title to the real property known as Grant’s Tomb at Riverside Drive and West One Hundred and Twenty-Second Street in New York, New York, and thereafter to administer and maintain such real property as the General Grant National Memorial.
 
+
+## Source Credit
+
+*([Pub. L. 85–659](https://www.govinfo.gov/link/plaw/85/public/659), Aug. 14, 1958, [72 Stat. 614](https://www.govinfo.gov/link/statute/72/614).)*

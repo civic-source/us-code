@@ -3,9 +3,10 @@ title: "Section 3334e - Enhanced procurement authority to manage supply chain ri
 usc_title: 50
 usc_section: "3334e"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3334e"
-generated_at: "2026-03-30T02:56:26.244Z"
+generated_at: "2026-11-23T21:26:39.034Z"
+status: "active"
 ---
 
 # § 3334e. Enhanced procurement authority to manage supply chain risk
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:26.244Z"
 - **(d)** The head of a covered agency may not delegate the authority provided in subsection (b) or the responsibility to make a determination under subsection (c) to an official below the level of the service acquisition executive for the agency concerned.
 - **(e)** The authority under this section is in addition to any other authority under any other provision of law. The authority under this section shall not be construed to alter or effect the exercise of any other provision of law.
 - **(f)** The requirements of this section shall take effect on the date that is 180 days after January 3, 2012 , and shall apply to contracts that are awarded on or after such date.
+
+## Source Credit
+
+*([Pub. L. 112–87, title III, § 309](https://www.govinfo.gov/link/plaw/112/public/87), Jan. 3, 2012, [125 Stat. 1883](https://www.govinfo.gov/link/statute/125/1883); [Pub. L. 116–92, div. E, title LXIII, § 6309](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2190](https://www.govinfo.gov/link/statute/133/2190); [Pub. L. 117–263, div. F, title LXVIII, § 6824(c)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3615](https://www.govinfo.gov/link/statute/136/3615).)*

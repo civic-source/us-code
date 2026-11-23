@@ -3,9 +3,10 @@ title: "Section 1627c - Local agriculture market program"
 usc_title: 7
 usc_section: "1627c"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1627c"
-generated_at: "2026-03-30T02:53:42.329Z"
+generated_at: "2026-11-23T21:25:28.131Z"
+status: "active"
 ---
 
 # § 1627c. Local agriculture market program
@@ -219,3 +220,9 @@ generated_at: "2026-03-30T02:53:42.329Z"
       - **(i)** shall be available to the agency carrying out the Program with the unobligated funds to carry out any function of the Program, as determined by the Secretary; and
       - **(ii)** may carry over to the next fiscal year.
     - **(E)** Not greater than 8 percent of amounts made available to provide grants under subsections (d) and (e) for a fiscal year may be used for administrative expenses.
+
+Purpose
+
+## Source Credit
+
+*(Aug. 14, 1946, ch. 966, title II, § 210A, as added [Pub. L. 115–334, title X, § 10102(b)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4888](https://www.govinfo.gov/link/statute/132/4888).)*

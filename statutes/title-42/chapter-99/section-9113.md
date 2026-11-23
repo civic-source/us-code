@@ -3,9 +3,10 @@ title: "Section 9113 - Protection of submarine electric transmission cables and 
 usc_title: 42
 usc_section: "9113"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9113"
-generated_at: "2026-03-30T02:56:11.350Z"
+generated_at: "2026-11-23T21:26:33.227Z"
+status: "active"
 ---
 
 # § 9113. Protection of submarine electric transmission cables and equipment
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.350Z"
 - **(d)** The penalties provided in subsections (a) and (b) of this section for the breaking or injury of any submarine electric transmission cable or equipment shall not be a bar to a suit for damages on account of such breaking or injury.
 - **(e)** Whenever any vessel sacrifices any anchor, fishing net, or other fishing gear to avoid injuring any submarine electric transmission cable or equipment being constructed or operated under a license issued pursuant to this chapter, the licensee shall indemnify the owner of such vessel for the items sacrificed: Provided , That the owner of the vessel had taken all reasonable precautionary measures beforehand.
 - **(f)** Any licensee who causes any break in or injury to any submarine cable or pipeline of any type shall bear the cost of the repairs.
+
+## Source Credit
+
+*([Pub. L. 96–320, title I, § 103](https://www.govinfo.gov/link/plaw/96/public/320), Aug. 3, 1980, [94 Stat. 982](https://www.govinfo.gov/link/statute/94/982).)*

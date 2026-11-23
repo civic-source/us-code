@@ -3,9 +3,10 @@ title: "Section 4112 - Criteria for approval of plan of action involving incenti
 usc_title: 12
 usc_section: "4112"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4112"
-generated_at: "2026-03-30T02:53:53.501Z"
+generated_at: "2026-11-23T21:25:37.164Z"
+status: "active"
 ---
 
 # § 4112. Criteria for approval of plan of action involving incentives
@@ -57,3 +58,13 @@ generated_at: "2026-03-30T02:53:53.501Z"
     - **(A)** continue to operate the property in accordance with the affordability provisions of the use agreement for the property for the remaining useful life of the property;
     - **(B)** as required by the plan of action for the property, continue to renew or extend any project-based rental assistance contract for a term of not less than 20 years; and
     - **(C)** if the owner has an existing multi-year project-based rental assistance contract for less than 20 years, have the option to extend the contract to a 20-year term.
+
+Windfall Profits
+
+In general
+
+Exception
+
+## Source Credit
+
+*([Pub. L. 100–242, title II, § 222](https://www.govinfo.gov/link/plaw/100/public/242), as added [Pub. L. 101–625, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4260](https://www.govinfo.gov/link/statute/104/4260); amended [Pub. L. 102–550, title III](https://www.govinfo.gov/link/plaw/102/public/550), §§ 308, 317(a)(4), Oct. 28, 1992, [106 Stat. 3764](https://www.govinfo.gov/link/statute/106/3764), 3772; [Pub. L. 103–327, title II](https://www.govinfo.gov/link/plaw/103/public/327), Sept. 28, 1994, [108 Stat. 2316](https://www.govinfo.gov/link/statute/108/2316); [Pub. L. 114–94, div. G, title LXXVII, § 77001](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1790](https://www.govinfo.gov/link/statute/129/1790).)*

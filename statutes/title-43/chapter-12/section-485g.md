@@ -3,9 +3,10 @@ title: "Section 485g - Classification of lands"
 usc_title: 43
 usc_section: "485g"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 485g"
-generated_at: "2026-03-30T02:55:57.451Z"
+generated_at: "2026-11-23T21:26:19.784Z"
+status: "active"
 ---
 
 # § 485g. Classification of lands
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:57.451Z"
 - **(f)** One-half of the expense involved in any classification work undertaken pursuant to this section shall be charged to operation and maintenance administration nonreimbursable; and one-half shall be paid in advance by the organization involved. On determining probable justification for the requested classification or reclassification as provided in this section, the Secretary shall estimate the cost of the work involved and shall submit a statement of the estimated cost to said organization. Said organization, before commencement of the work, shall advance to the United States one-half of the amount set forth in said statement and also shall advance one-half of the amount of supplementary estimates of costs which the Secretary may find it necessary to make from time to time during the progress of the work; and said amounts shall be and remain available for expenditure by the Secretary for the purposes for which they are advanced, until the work is completed or abandoned. After completion or abandonment of the work, the Secretary, shall determine the actual costs thereof; and said organization shall pay any additional amount required to make its total payments hereunder equal to one-half of the actual cost or shall be credited with any amount by which advances made by it exceed one-half of said actual cost, as the case may be.
 - **(g)** If in the judgment of the Secretary a classification or reclassification pursuant to the provisions of this section is a necessary preliminary to entering into a contract under section 485b or 485c 1 1 See References in Text note below. of this title, he may require the same as a condition precedent to entering into such a contract.
 - **(h)** No modification of any existing obligation to pay construction charges on any project shall be made by reason of any classification or reclassification undertaken pursuant to this section without express authority therefor granted by Congress upon recommendations of the Secretary made in a report under subsection (f) of this section.
+
+## Source Credit
+
+*(Aug. 4, 1939, ch. 418, § 8, [53 Stat. 1192](https://www.govinfo.gov/link/statute/53/1192); [Pub. L. 93–608, § 1(18)](https://www.govinfo.gov/link/plaw/93/public/608), Jan. 2, 1975, [88 Stat. 1970](https://www.govinfo.gov/link/statute/88/1970).)*

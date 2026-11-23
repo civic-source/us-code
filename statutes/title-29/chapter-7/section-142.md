@@ -3,9 +3,10 @@ title: "Section 142 - Definitions"
 usc_title: 29
 usc_section: "142"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 142"
-generated_at: "2026-03-30T02:55:18.677Z"
+generated_at: "2026-11-23T21:26:02.166Z"
+status: "active"
 ---
 
 # § 142. Definitions
@@ -15,3 +16,7 @@ When used in this chapter—
   - **(1)** The term “industry affecting commerce” means any industry or activity in commerce or in which a labor dispute would burden or obstruct commerce or tend to burden or obstruct commerce or the free flow of commerce.
   - **(2)** The term “strike” includes any strike or other concerted stoppage of work by employees (including a stoppage by reason of the expiration of a collective-bargaining agreement) and any concerted slowdown or other concerted interruption of operations by employees.
   - **(3)** The terms “commerce”, “labor disputes”, “employer”, “employee”, “labor organization”, “representative”, “person”, and “supervisor” shall have the same meaning as when used in subchapter II of this chapter.
+
+## Source Credit
+
+*(June 23, 1947, ch. 120, title V, § 501, [61 Stat. 161](https://www.govinfo.gov/link/statute/61/161).)*

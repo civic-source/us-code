@@ -3,9 +3,10 @@ title: "Section 504 - Office of Federal Financial Management"
 usc_title: 31
 usc_section: "504"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 504"
-generated_at: "2026-03-30T02:55:34.046Z"
+generated_at: "2026-11-23T21:26:10.524Z"
+status: "active"
 ---
 
 # § 504. Office of Federal Financial Management
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:34.046Z"
   - **(1)** demonstrated ability and practical experience in accounting, financial management, and financial systems; and
   - **(2)** extensive practical experience in financial management in large governmental or business entities.
 - **(c)** The Controller of the Office of Federal Financial Management shall be the deputy and principal advisor to the Deputy Director for Management in the performance by the Deputy Director for Management of functions described in section 503(a).
+
+## Source Credit
+
+*(Added [Pub. L. 101–576, title II, § 203(a)](https://www.govinfo.gov/link/plaw/101/public/576), Nov. 15, 1990, [104 Stat. 2841](https://www.govinfo.gov/link/statute/104/2841).)*

@@ -3,9 +3,10 @@ title: "Section 5104 - Unlawful activities"
 usc_title: 40
 usc_section: "5104"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 5104"
-generated_at: "2026-03-30T02:55:43.380Z"
+generated_at: "2026-11-23T21:26:14.876Z"
+status: "active"
 ---
 
 # § 5104. Unlawful activities
@@ -50,3 +51,87 @@ generated_at: "2026-03-30T02:55:43.380Z"
 - **(f)** Except as provided in section 5106 of this title , a person may not—
   - **(1)** parade, stand, or move in processions or assemblages in the Grounds; or
   - **(2)** display in the Grounds a flag, banner, or device designed or adapted to bring into public notice a party, organization, or movement.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5104(a) | 40:193m(2)–(5). | July 31, 1946, ch. 707, § 16(a)(2) –(5), 60 Stat. 721 ; Pub. L. 90–108, § 1(d) , Oct. 20, 1967 , 81 Stat. 277 . |
+| 5104(b) | 40:193c. | July 31, 1946, ch. 707 , §§ 3–5, 7, 60 Stat. 718 , 719. |
+| 5104(c) | 40:193d. |  |
+| 5104(d) | 40:193e. |  |
+| 5104(e) | 40:193f. | July 31, 1946, ch. 707, § 6 , 60 Stat. 718 ; Pub. L. 87–571 , Aug. 6, 1962 , 76 Stat. 307 ; Pub. L. 90–108, § 1(b) , Oct. 20, 1967 , 81 Stat. 276 . |
+| 5104(f) | 40:193g. |  |
+
+
+Definitions
+
+Act of physical violence
+
+Dangerous weapon
+
+Explosives
+
+Firearm
+
+Obstruction of Roads
+
+Sale of Articles, Display of Signs, and Solicitations
+
+Injuries to Property
+
+Capitol Grounds and Buildings Security.—
+
+Firearms, dangerous weapons, explosives, or incendiary devices
+
+Violent entry and disorderly conduct
+
+Exemption of government officials
+
+Parades, Assemblages, and Display of Flags
+
+Historical and Revision Notes
+
+5104(a)
+
+July 31, 1946, ch. 707, § 16(a)(2)
+
+60 Stat. 721
+
+Pub. L. 90–108, § 1(d)
+
+Oct. 20, 1967
+
+81 Stat. 277
+
+5104(b)
+
+July 31, 1946, ch. 707
+
+60 Stat. 718
+
+5104(c)
+
+5104(d)
+
+5104(e)
+
+July 31, 1946, ch. 707, § 6
+
+60 Stat. 718
+
+Pub. L. 87–571
+
+Aug. 6, 1962
+
+76 Stat. 307
+
+Pub. L. 90–108, § 1(b)
+
+Oct. 20, 1967
+
+81 Stat. 276
+
+5104(f)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1176](https://www.govinfo.gov/link/statute/116/1176); [Pub. L. 110–161, div. H, title I, § 1004(d)(2)(A)(iii)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2234](https://www.govinfo.gov/link/statute/121/2234); [Pub. L. 110–178, § 4(b)(1)(C)](https://www.govinfo.gov/link/plaw/110/public/178), Jan. 7, 2008, [121 Stat. 2552](https://www.govinfo.gov/link/statute/121/2552); [Pub. L. 111–145, § 6(d)(1)](https://www.govinfo.gov/link/plaw/111/public/145), Mar. 4, 2010, [124 Stat. 54](https://www.govinfo.gov/link/statute/124/54).)*

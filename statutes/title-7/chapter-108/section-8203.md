@@ -3,9 +3,10 @@ title: "Section 8203 - Assistance"
 usc_title: 7
 usc_section: "8203"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 8203"
-generated_at: "2026-03-30T02:53:42.473Z"
+generated_at: "2026-11-23T21:25:28.470Z"
+status: "active"
 ---
 
 # § 8203. Assistance
@@ -14,3 +15,7 @@ Subject to section 8204 of this title , the assistance provided by the Secretary
 
   - **(1)** reimbursement of 75 percent of the cost of replanting trees lost due to a natural disaster, as determined by the Secretary, in excess of 15 percent mortality (adjusted for normal mortality); or
   - **(2)** at the option of the Secretary, sufficient seedlings to reestablish a stand.
+
+## Source Credit
+
+*([Pub. L. 107–171, title X, § 10203](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 491](https://www.govinfo.gov/link/statute/116/491).)*

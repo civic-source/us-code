@@ -3,9 +3,10 @@ title: "Section 629k - Reduction of administrative burden"
 usc_title: 42
 usc_section: "629k"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 629k"
-generated_at: "2026-03-30T02:56:10.880Z"
+generated_at: "2026-11-23T21:26:31.112Z"
+status: "active"
 ---
 
 # § 629k. Reduction of administrative burden
@@ -16,3 +17,9 @@ generated_at: "2026-03-30T02:56:10.880Z"
   - **(3)** collecting input from the recipients with respect to fiscal and oversight requirements and making changes to ensure consistency with standards and guidelines for other Federal formula grant programs based on the input; and
   - **(4)** respecting the sovereignty of Indian tribes when complying with this subsection.
 - **(b)** Subsection (a) of this section shall not apply to any reporting or data collection otherwise required by law that would affect the ability of the Secretary to monitor and ensure compliance with State plans approved under this part or ensure that funds are expended consistent with this part.
+
+“Within 2 years after the date of the enactment of this Act [ Jan. 4, 2025 ], the Secretary of Health and Human Services shall—
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 441, as added [Pub. L. 118–258, title I, § 106(f)(1)](https://www.govinfo.gov/link/plaw/118/public/258), Jan. 4, 2025, [138 Stat. 2952](https://www.govinfo.gov/link/statute/138/2952).)*

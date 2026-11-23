@@ -3,9 +3,10 @@ title: "Section 8232 - Residential energy efficiency standards study"
 usc_title: 42
 usc_section: "8232"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8232"
-generated_at: "2026-03-30T02:56:11.336Z"
+generated_at: "2026-11-23T21:26:33.184Z"
+status: "active"
 ---
 
 # § 8232. Residential energy efficiency standards study
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.336Z"
   - **(1)** the savings in energy costs resulting from the requirement described in subsection (a) throughout the estimated remaining useful life of the existing residential buildings to which such requirement would apply; and
   - **(2)** the total cost per barrel of oil equivalent, in obtaining the energy savings likely to result from such requirement, computed for each class of existing residential buildings to which such requirement would apply.
 - **(d)** The Secretary shall report, no later than one year after November 9, 1978 , to both Houses of the Congress with regard to the findings made as a result of such study along with any recommendations for legislative proposals which the Secretary determines should be enacted with respect to the subject of such study.
+
+## Source Credit
+
+*([Pub. L. 95–619, title II, § 253](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3236](https://www.govinfo.gov/link/statute/92/3236); [Pub. L. 102–54, § 13(q)(12)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 281](https://www.govinfo.gov/link/statute/105/281).)*

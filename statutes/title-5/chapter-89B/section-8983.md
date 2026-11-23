@@ -3,9 +3,10 @@ title: "Section 8983 - Contracting authority"
 usc_title: 5
 usc_section: "8983"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8983"
-generated_at: "2026-03-30T02:52:56.070Z"
+generated_at: "2026-11-23T21:25:23.457Z"
+status: "active"
 ---
 
 # § 8983. Contracting authority
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:52:56.070Z"
     - **(B)** the district courts of the United States shall have original jurisdiction, concurrent with the United States Court of Federal Claims, of any action described in section 10(a)(1) 1 of such Act relative to such a dispute.
 - **(e)** Nothing in this section shall be considered to grant authority for the Office or third-party reviewer to change the terms of any contract under this chapter.
 - **(f)** Contracts under this chapter shall be for a uniform term of 7 years and may not be renewed automatically.
+
+## Source Credit
+
+*(Added [Pub. L. 108–496, § 3](https://www.govinfo.gov/link/plaw/108/public/496), Dec. 23, 2004, [118 Stat. 4007](https://www.govinfo.gov/link/statute/118/4007); amended [Pub. L. 111–350, § 5(a)(17)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3842](https://www.govinfo.gov/link/statute/124/3842).)*

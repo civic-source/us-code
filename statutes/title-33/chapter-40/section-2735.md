@@ -3,9 +3,10 @@ title: "Section 2735 - Equipment and personnel requirements under tank vessel an
 usc_title: 33
 usc_section: "2735"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2735"
-generated_at: "2026-03-30T02:55:41.134Z"
+generated_at: "2026-11-23T21:26:11.467Z"
+status: "active"
 ---
 
 # § 2735. Equipment and personnel requirements under tank vessel and facility response plans
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:41.134Z"
   - **(2)** the term “worst case discharge” means—
     - **(A)** in the case of a vessel, a discharge in adverse weather conditions of its entire cargo; and
     - **(B)** in the case of a facility, the largest foreseeable discharge in adverse weather conditions.
+
+## Source Credit
+
+*([Pub. L. 101–380, title V, § 5005](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 553](https://www.govinfo.gov/link/statute/104/553); [Pub. L. 102–388, title III, § 354](https://www.govinfo.gov/link/plaw/102/public/388), Oct. 6, 1992, [106 Stat. 1555](https://www.govinfo.gov/link/statute/106/1555).)*

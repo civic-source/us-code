@@ -3,9 +3,10 @@ title: "Section 530C - Authority to use available funds"
 usc_title: 28
 usc_section: "530C"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 530C"
-generated_at: "2026-03-30T02:55:30.131Z"
+generated_at: "2026-11-23T21:26:01.052Z"
+status: "active"
 ---
 
 # § 530C. Authority to use available funds
@@ -75,3 +76,47 @@ generated_at: "2026-03-30T02:55:30.131Z"
 - **(d)** Whenever the Department of Justice or any component participates in a cooperative project to improve law enforcement or national security operations or services with a friendly foreign country on a cost-sharing basis, any reimbursements or contributions received from that foreign country to meet its share of the project may be credited to appropriate current appropriations accounts of the Department of Justice or any component. The amount of a reimbursement or contribution credited shall be available only for payment of the share of the project expenses allocated to the participating foreign country.
 - **(e)** The Attorney General is authorized to establish and collect a fee to defray the costs of railroad police officers participating in a Federal Bureau of Investigation law enforcement training program authorized by Public Law 106–110 , and to credit such fees to the appropriation account “Federal Bureau of Investigation, Salaries and Expenses”, to be available until expended for salaries and expenses incurred in providing such services.
 - **(f)** In instances where the Attorney General determines that law enforcement-, security-, or mission-related considerations mitigate against obtaining maintenance or repair services from private sector entities for equipment under warranty, the Attorney General is authorized to seek reimbursement from such entities for warranty work performed at Department of Justice facilities, and to credit any payment made for such work to any appropriation charged therefor.
+
+In General
+
+Permitted Uses.—
+
+General permitted uses
+
+Specific permitted uses.—
+
+Aircraft and boats
+
+Purchase of ammunition and firearms; firearms competitions
+
+Construction
+
+Fees and expenses of witnesses
+
+Federal bureau of investigation
+
+Immigration and naturalization service
+
+Federal prison system
+
+Detention trustee
+
+Related Provisions.—
+
+Limitation of compensation of individuals employed as attorneys
+
+Reimbursements paid to governmental entities
+
+Foreign Reimbursements
+
+Railroad Police Training Fees
+
+Warranty Work
+
+Federal Training Facilities
+
+Annual Report
+
+## Source Credit
+
+*(Added [Pub. L. 107–273, div. A, title II, § 201(a)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1767](https://www.govinfo.gov/link/statute/116/1767); amended [Pub. L. 108–199, div. B, title I](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 53](https://www.govinfo.gov/link/statute/118/53); [Pub. L. 112–265, § 2(a)](https://www.govinfo.gov/link/plaw/112/public/265), Jan. 14, 2013, [126 Stat. 2435](https://www.govinfo.gov/link/statute/126/2435).)*

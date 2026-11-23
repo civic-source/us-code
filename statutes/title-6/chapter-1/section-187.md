@@ -3,9 +3,10 @@ title: "Section 187 - Homeland Security Advanced Research Projects Agency"
 usc_title: 6
 usc_section: "187"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 187"
-generated_at: "2026-03-30T02:53:09.447Z"
+generated_at: "2026-11-23T21:25:25.758Z"
+status: "active"
 ---
 
 # § 187. Homeland Security Advanced Research Projects Agency
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:09.447Z"
   - **(1)** There is established the Acceleration Fund for Research and Development of Homeland Security Technologies, which shall be administered by the Director of HSARPA.
   - **(2)** There are authorized to be appropriated $500,000,000 to the Fund for fiscal year 2003 and such sums as may be necessary thereafter.
   - **(3)** Of the funds authorized to be appropriated under paragraph (2), not less than 10 percent of such funds for each fiscal year through fiscal year 2005 shall be authorized only for the Under Secretary, through joint agreement with the Commandant of the Coast Guard, to carry out research and development of improved ports, waterways and coastal security surveillance and perimeter protection capabilities for the purpose of minimizing the possibility that Coast Guard cutters, aircraft, helicopters, and personnel will be diverted from non-homeland security missions to the ports, waterways and coastal security mission.
+
+## Source Credit
+
+*([Pub. L. 107–296, title III, § 307](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2168](https://www.govinfo.gov/link/statute/116/2168); [Pub. L. 114–22, title III, § 302(c)](https://www.govinfo.gov/link/plaw/114/public/22), formerly § 302(d), May 29, 2015, [129 Stat. 255](https://www.govinfo.gov/link/statute/129/255); renumbered § 302(d), [Pub. L. 115–392, § 23(c)(2)](https://www.govinfo.gov/link/plaw/115/public/392), Dec. 21, 2018, [132 Stat. 5264](https://www.govinfo.gov/link/statute/132/5264).)*

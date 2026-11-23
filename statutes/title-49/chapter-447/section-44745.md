@@ -3,9 +3,10 @@ title: "Section 44745 - Don Young Alaska Aviation Safety Initiative"
 usc_title: 49
 usc_section: "44745"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44745"
-generated_at: "2026-03-30T02:56:19.387Z"
+generated_at: "2026-11-23T21:26:40.908Z"
+status: "active"
 ---
 
 # § 44745. Don Young Alaska Aviation Safety Initiative
@@ -74,3 +75,101 @@ generated_at: "2026-03-30T02:56:19.387Z"
   - **(2)** The term “covered automated weather system” means an automated or visual weather reporting facility that enables a pilot to begin an instrument procedure approach to an airport under section 91.1039 or 135.225 of title 14, Code of Federal Regulations.
   - **(3)** The term “covered location” means Hawaii, Puerto Rico, American Samoa, Guam, the Northern Mariana Islands, and the Virgin Islands.
 - **(l)** The Administrator shall conduct all activities required under this section in conformity with section 44720.
+
+In General
+
+Objective
+
+Leadership.—
+
+In general
+
+Covered locations
+
+Reporting chain
+
+Coordination
+
+Automated Weather Systems.—
+
+Requirement
+
+Waiver
+
+Prioritization
+
+Reliability.—
+
+In general
+
+Specifications
+
+System reliability and restoration plan
+
+Telecommunications or other failures
+
+Reliability data
+
+Inventory.—
+
+Maintenance improvements.—
+
+In general
+
+Spare parts availability
+
+Notice of outages
+
+Visual weather observation system.—
+
+Deployment
+
+Modification of specifications
+
+Weather Cameras.—
+
+In general
+
+Applications
+
+Presumption
+
+Cooperation With Other Agencies
+
+Surveillance and Communication.—
+
+In general
+
+Requirement
+
+Waiver
+
+Service areas
+
+Other Projects
+
+Annual Report.—
+
+In general
+
+Stakeholder comments
+
+Funding.—
+
+In general
+
+Supplemental funding
+
+Definitions
+
+Covered airport
+
+Covered automated weather system
+
+Covered location
+
+Conformity
+
+## Source Credit
+
+*(Added [Pub. L. 118–63, title III, § 342(a)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1095](https://www.govinfo.gov/link/statute/138/1095).)*

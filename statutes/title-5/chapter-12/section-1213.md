@@ -3,9 +3,10 @@ title: "Section 1213 - Provisions relating to disclosures of violations of law, 
 usc_title: 5
 usc_section: "1213"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 1213"
-generated_at: "2026-03-30T02:52:55.995Z"
+generated_at: "2026-11-23T21:25:23.109Z"
+status: "active"
 ---
 
 # § 1213. Provisions relating to disclosures of violations of law, gross mismanagement, and certain other matters
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:52:55.995Z"
   - **(1)** specifically prohibited from disclosure by any other provision of law; or
   - **(2)** specifically required by Executive order to be kept secret in the interest of national defense or the conduct of foreign affairs.
 - **(j)** With respect to any disclosure of information described in subsection (a) which involves foreign intelligence or counterintelligence information, if the disclosure is specifically prohibited by law or by Executive order, the Special Counsel shall transmit such information to the National Security Advisor, the Permanent Select Committee on Intelligence of the House of Representatives, and the Select Committee on Intelligence of the Senate.
+
+## Source Credit
+
+*(Added [Pub. L. 101–12, § 3(a)(13)](https://www.govinfo.gov/link/plaw/101/public/12), Apr. 10, 1989, [103 Stat. 21](https://www.govinfo.gov/link/statute/103/21); amended [Pub. L. 104–316, title I, § 103(a)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3828](https://www.govinfo.gov/link/statute/110/3828); [Pub. L. 107–304, § 3](https://www.govinfo.gov/link/plaw/107/public/304), Nov. 27, 2002, [116 Stat. 2364](https://www.govinfo.gov/link/statute/116/2364); [Pub. L. 115–91, div. A, title X, § 1097(c)(2)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1618](https://www.govinfo.gov/link/statute/131/1618).)*

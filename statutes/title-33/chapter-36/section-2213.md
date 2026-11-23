@@ -3,9 +3,10 @@ title: "Section 2213 - Flood control and other purposes"
 usc_title: 33
 usc_section: "2213"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2213"
-generated_at: "2026-03-30T02:55:41.112Z"
+generated_at: "2026-11-23T21:26:11.422Z"
+status: "active"
 ---
 
 # § 2213. Flood control and other purposes
@@ -125,3 +126,23 @@ generated_at: "2026-03-30T02:55:41.112Z"
     - **(A)** solicit contributions from non-Federal interests for costs of constructing authorized water resources projects or measures in excess of the non-Federal share assigned to the appropriate project purposes listed in subsections (a), (b), and (c); or
     - **(B)** condition Federal participation in such projects or measures on the receipt of such contributions.
   - **(2)** Nothing in this subsection shall be construed to affect the Secretary’s authority under section 903(c). 1 1 See References in Text note below.
+
+General rule
+
+Procedures.—
+
+In general
+
+Limitations
+
+Regulations
+
+Generally
+
+Amendment of cooperation agreement
+
+Non-federal option
+
+## Source Credit
+
+*([Pub. L. 99–662, title I, § 103](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4084](https://www.govinfo.gov/link/statute/100/4084); [Pub. L. 101–640, title III, § 305(a)](https://www.govinfo.gov/link/plaw/101/public/640), Nov. 28, 1990, [104 Stat. 4635](https://www.govinfo.gov/link/statute/104/4635); [Pub. L. 102–580, title II, § 201(a)](https://www.govinfo.gov/link/plaw/102/public/580), title III, § 333(b)(2), Oct. 31, 1992, [106 Stat. 4825](https://www.govinfo.gov/link/statute/106/4825), 4852; [Pub. L. 104–303, title II](https://www.govinfo.gov/link/plaw/104/public/303), §§ 202(a)(1)(A), (2), (b)(1), 210(a), Oct. 12, 1996, [110 Stat. 3673](https://www.govinfo.gov/link/statute/110/3673), 3681; [Pub. L. 106–53, title II](https://www.govinfo.gov/link/plaw/106/public/53), §§ 215(a), 219(c), Aug. 17, 1999, [113 Stat. 292](https://www.govinfo.gov/link/statute/113/292), 295; [Pub. L. 106–109, § 5](https://www.govinfo.gov/link/plaw/106/public/109), Nov. 24, 1999, [113 Stat. 1495](https://www.govinfo.gov/link/statute/113/1495); [Pub. L. 106–541, title II, § 204](https://www.govinfo.gov/link/plaw/106/public/541), Dec. 11, 2000, [114 Stat. 2589](https://www.govinfo.gov/link/statute/114/2589); [Pub. L. 110–114, title II](https://www.govinfo.gov/link/plaw/110/public/114), §§ 2001, 2019(a), Nov. 8, 2007, [121 Stat. 1067](https://www.govinfo.gov/link/statute/121/1067), 1078; [Pub. L. 116–260, div. AA, title I](https://www.govinfo.gov/link/plaw/116/public/260), §§ 115(b), 143, title III, § 351, Dec. 27, 2020, [134 Stat. 2627](https://www.govinfo.gov/link/statute/134/2627), 2653, 2717; [Pub. L. 117–263, div. H, title LXXXI](https://www.govinfo.gov/link/plaw/117/public/263), §§ 8385, 8386, Dec. 23, 2022, [136 Stat. 3829](https://www.govinfo.gov/link/statute/136/3829), 3830; [Pub. L. 118–272, div. A, title I, § 1139(a)](https://www.govinfo.gov/link/plaw/118/public/272), title III, §§ 1358, 1359, Jan. 4, 2025, [138 Stat. 3026](https://www.govinfo.gov/link/statute/138/3026), 3162.)*

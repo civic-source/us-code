@@ -3,9 +3,10 @@ title: "Section 1203 - Chairman; Vice Chairman"
 usc_title: 5
 usc_section: "1203"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 1203"
-generated_at: "2026-03-30T02:52:55.994Z"
+generated_at: "2026-11-23T21:25:23.106Z"
+status: "active"
 ---
 
 # § 1203. Chairman; Vice Chairman
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:52:55.994Z"
 - **(a)** The President shall from time to time appoint, by and with the advice and consent of the Senate, one of the members of the Merit Systems Protection Board as the Chairman of the Board. The Chairman is the chief executive and administrative officer of the Board.
 - **(b)** The President shall from time to time designate one of the members of the Board as Vice Chairman of the Board. During the absence or disability of the Chairman, or when the office of Chairman is vacant, the Vice Chairman shall perform the functions vested in the Chairman.
 - **(c)** During the absence or disability of both the Chairman and the Vice Chairman, or when the offices of Chairman and Vice Chairman are vacant, the remaining Board member shall perform the functions vested in the Chairman.
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title II, § 202(a)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1122](https://www.govinfo.gov/link/statute/92/1122); amended [Pub. L. 101–12, § 3(a)(4)](https://www.govinfo.gov/link/plaw/101/public/12), (5), Apr. 10, 1989, [103 Stat. 17](https://www.govinfo.gov/link/statute/103/17).)*

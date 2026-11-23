@@ -3,9 +3,10 @@ title: "Section 4359a - International students"
 usc_title: 20
 usc_section: "4359a"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 4359a"
-generated_at: "2026-03-30T02:54:48.183Z"
+generated_at: "2026-11-23T21:25:47.441Z"
+status: "active"
 ---
 
 # § 4359a. International students
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:48.183Z"
     - **(A)** will be used to determine the amount of a tuition surcharge reduction pursuant to paragraph (1); and
     - **(B)** shall be approved by the Secretary.
 - **(d)** In this section, the term “developing country” means a country with a per-capita income of not more than $5,345, measured in 2005 United States dollars, as adjusted by the Secretary to reflect inflation since 2005.
+
+## Source Credit
+
+*([Pub. L. 99–371, title II, § 209](https://www.govinfo.gov/link/plaw/99/public/371), formerly § 210, as added [Pub. L. 102–421, title I, § 139](https://www.govinfo.gov/link/plaw/102/public/421), Oct. 16, 1992, [106 Stat. 2163](https://www.govinfo.gov/link/statute/106/2163); amended [Pub. L. 103–73, title II, § 204(h)](https://www.govinfo.gov/link/plaw/103/public/73), Aug. 11, 1993, [107 Stat. 735](https://www.govinfo.gov/link/statute/107/735); renumbered § 209 and amended [Pub. L. 105–244, title IX, § 922](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1832](https://www.govinfo.gov/link/statute/112/1832); [Pub. L. 110–315, title IX, § 911](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3454](https://www.govinfo.gov/link/statute/122/3454).)*

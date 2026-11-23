@@ -3,9 +3,10 @@ title: "Section 1322 - Ownership limitations"
 usc_title: 45
 usc_section: "1322"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 1322"
-generated_at: "2026-03-30T02:55:56.561Z"
+generated_at: "2026-11-23T21:26:19.242Z"
+status: "active"
 ---
 
 # § 1322. Ownership limitations
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:56.561Z"
   - **(1)** During a period of 1 year beginning on the sale date, no railroad may purchase or hold, directly or indirectly, more than 10 percent of any class of stock of the Corporation. During such period, no railroad may file an application with the Commission for a merger or consolidation with the Corporation or the acquisition of control of the Corporation under section 11344 1 1 See References in Text note below. of title 49.
   - **(2)** During a period of 3 years beginning on the sale date, any railroad which purchases or holds any stock of the Corporation shall vote such stock in the same proportion as all other common stock of the Corporation is voted. After the expiration of 1 year after the sale date, the preceding sentence shall not apply to any railroad with respect to which the Commission has approved an application for a merger or consolidation with the Corporation or the acquisition of control of the Corporation under section 11344 1 of title 49.
   - **(3)** As used in this subsection, the term “railroad” means a class I railroad as determined by the Commission under the definition in effect on October 21, 1986 , and includes any entity controlling, controlled by, or under common control with any railroad (other than the Corporation or its subsidiaries).
+
+## Source Credit
+
+*([Pub. L. 99–509, title IV, § 4022](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1900](https://www.govinfo.gov/link/statute/100/1900).)*

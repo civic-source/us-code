@@ -3,9 +3,10 @@ title: "Section 301c - Incentive pay: submarine duty"
 usc_title: 37
 usc_section: "301c"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 301c"
-generated_at: "2026-03-30T02:55:44.050Z"
+generated_at: "2026-11-23T21:26:14.179Z"
+status: "active"
 ---
 
 # § 301c. Incentive pay: submarine duty
@@ -29,3 +30,17 @@ generated_at: "2026-03-30T02:55:44.050Z"
   - **(1)** An officer who fails of selection for assignment as an executive officer or commanding officer of a submarine or who declines to serve in either such position may not be paid submarine duty incentive pay except for periods during which the officer is serving on a submarine during underway operations.
   - **(2)** An enlisted member may not be paid continuous submarine duty incentive pay while serving ashore between submarine sea duty assignments unless the member has a sufficient period of enlistment (including any extension of an enlistment) remaining to be reassigned to submarine sea duty.
 - **(d)** Under regulations prescribed by the President and to the extent provided for by appropriations, when a member of the Navy Reserve who is entitled to compensation under section 206 of this title , performs, under orders, duty on a submarine during underway operations, he is eligible for an increase in such compensation equal to one-thirtieth of the monthly incentive pay prescribed pursuant to subsection (b) for the performance of that duty by a member of a corresponding grade and years of service who is entitled to basic pay. Such a member is eligible for the increase for each day served, for as long as he is qualified for it, during each regular period of appropriate duty.
+
+Eligibility Requirements
+
+Monthly Rates
+
+Exceptions
+
+Applicability to Certain Navy Reserve Duty
+
+“The tables set forth in subsection (b) of section 301c of title 37 , United States Code, as in effect on the day before the date of the enactment of this Act [ Dec. 28, 2001 ], shall continue to apply until the later of the following:
+
+## Source Credit
+
+*(Added [Pub. L. 96–579, § 3(d)](https://www.govinfo.gov/link/plaw/96/public/579), Dec. 23, 1980, [94 Stat. 3360](https://www.govinfo.gov/link/statute/94/3360); amended [Pub. L. 97–39, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/97/public/39), (b), Aug. 14, 1981, [95 Stat. 942](https://www.govinfo.gov/link/statute/95/942); [Pub. L. 97–60, title I, § 114](https://www.govinfo.gov/link/plaw/97/public/60), Oct. 14, 1981, [95 Stat. 995](https://www.govinfo.gov/link/statute/95/995); [Pub. L. 99–145, title VI, § 633(a)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 646](https://www.govinfo.gov/link/statute/99/646); [Pub. L. 100–26, § 8(e)(4)](https://www.govinfo.gov/link/plaw/100/public/26), Apr. 21, 1987, [101 Stat. 286](https://www.govinfo.gov/link/statute/101/286); [Pub. L. 100–180, div. A, title VI, § 623(a)](https://www.govinfo.gov/link/plaw/100/public/180), (b), Dec. 4, 1987, [101 Stat. 1101](https://www.govinfo.gov/link/statute/101/1101); [Pub. L. 100–224, § 5(a)(2)](https://www.govinfo.gov/link/plaw/100/public/224), Dec. 30, 1987, [101 Stat. 1538](https://www.govinfo.gov/link/statute/101/1538); [Pub. L. 100–456, div. A, title XII, § 1233](https://www.govinfo.gov/link/plaw/100/public/456) (l)(1), Sept. 29, 1988, [102 Stat. 2058](https://www.govinfo.gov/link/statute/102/2058); [Pub. L. 101–510, div. A, title XIII, § 1322(c)(1)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1672](https://www.govinfo.gov/link/statute/104/1672); [Pub. L. 102–25, title VII, § 702(b)(1)](https://www.govinfo.gov/link/plaw/102/public/25), (2), (c), Apr. 6, 1991, [105 Stat. 117](https://www.govinfo.gov/link/statute/105/117); [Pub. L. 102–190, div. A, title XI, § 1111(d)(2)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1492](https://www.govinfo.gov/link/statute/105/1492); [Pub. L. 107–107, div. A, title VI, § 617(a)](https://www.govinfo.gov/link/plaw/107/public/107), (b), Dec. 28, 2001, [115 Stat. 1137](https://www.govinfo.gov/link/statute/115/1137); [Pub. L. 109–163, div. A, title V, § 515(d)(1)(D)](https://www.govinfo.gov/link/plaw/109/public/163), (2), Jan. 6, 2006, [119 Stat. 3236](https://www.govinfo.gov/link/statute/119/3236).)*

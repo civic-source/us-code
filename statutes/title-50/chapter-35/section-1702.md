@@ -3,9 +3,10 @@ title: "Section 1702 - Presidential authorities"
 usc_title: 50
 usc_section: "1702"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1702"
-generated_at: "2026-03-30T02:56:26.207Z"
+generated_at: "2026-11-23T21:26:38.930Z"
+status: "active"
 ---
 
 # § 1702. Presidential authorities
@@ -26,3 +27,15 @@ generated_at: "2026-03-30T02:56:26.207Z"
   - **(3)** the importation from any country, or the exportation to any country, whether commercial or otherwise, regardless of format or medium of transmission, of any information or informational materials, including but not limited to, publications, films, posters, phonograph records, photographs, microfilms, microfiche, tapes, compact disks, CD ROMs, artworks, and news wire feeds. The exports exempted from regulation or prohibition by this paragraph do not include those which are otherwise controlled for export under section 4604 3 3 See References in Text note below. of this title, or under section 4605 3 of this title to the extent that such controls promote the nonproliferation or antiterrorism policies of the United States, or with respect to which acts are prohibited by chapter 37 of title 18; or
   - **(4)** any transactions ordinarily incident to travel to or from any country, including importation of accompanied baggage for personal use, maintenance within any country including payment of living expenses and acquisition of goods or services for personal use, and arrangement or facilitation of such travel including nonscheduled air, sea, or land voyages.
 - **(c)** In any judicial review of a determination made under this section, if the determination was based on classified information (as defined in section 1(a) of the Classified Information Procedures Act) such information may be submitted to the reviewing court ex parte and in camera. This subsection does not confer or imply any right to judicial review.
+
+Section
+
+Sec
+
+Sec
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 95–223, title II, § 203](https://www.govinfo.gov/link/plaw/95/public/223), Dec. 28, 1977, [91 Stat. 1626](https://www.govinfo.gov/link/statute/91/1626); [Pub. L. 100–418, title II, § 2502(b)(1)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1371](https://www.govinfo.gov/link/statute/102/1371); [Pub. L. 103–236, title V, § 525(c)(1)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 474](https://www.govinfo.gov/link/statute/108/474); [Pub. L. 107–56, title I, § 106](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 277](https://www.govinfo.gov/link/statute/115/277).)*

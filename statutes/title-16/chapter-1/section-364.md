@@ -3,12 +3,17 @@ title: "Section 364 - Investigation of applicant for lease or contract"
 usc_title: 16
 usc_section: "364"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 364"
-generated_at: "2026-03-30T02:54:22.750Z"
+generated_at: "2026-11-23T21:25:51.416Z"
+status: "active"
 ---
 
 # § 364. Investigation of applicant for lease or contract
 
 The Secretary of the Interior, before executing any lease to bathhouses or bathhouse sites in the park or contracts for the use of hot water for bathhouses outside said park, may make due investigation to ascertain whether the person, persons, or corporation applying for such lease or contract are not, directly or indirectly, interested in any manner whatever in any other bathhouse, lease, interest, or privilege at or near Hot Springs, Arkansas, or whether he or they belong to any pool, combination, or association so interested, or whether he or they are members or stockholders in any corporation so interested, or, if a corporation, whether its members or any of them are members or stockholders of any other corporation or association interested in any other bathhouse, lease, interest, or privilege as aforesaid, and in order to arrive at the facts in any such case he is authorized to send for persons and papers, administer oaths to witnesses, and require affidavits from applicants; and any such person making a false oath or affidavit in the premises shall be deemed guilty of perjury, and, upon conviction, subject to all the pains and penalties of perjury under the statutes of the United States; and whenever, either at the time of leasing or other time it appears to the satisfaction of the said Secretary that such interest in other bathhouse, lease, interest, or privilege exists, or at any time any pool or combination exists between any two or more bathhouses or he deems it for the best interests of the management of the Hot Springs National Park and waters, or for the public interest, he may refuse such lease, license, permit, or other privilege, or forfeit any lease or privilege wherein the parties interested have become otherwise interested as aforesaid.
 
+
+## Source Credit
+
+*(Mar. 3, 1891, ch. 533, § 4, [26 Stat. 843](https://www.govinfo.gov/link/statute/26/843); Mar. 4, 1921, ch. 161, § 1, [41 Stat. 1407](https://www.govinfo.gov/link/statute/41/1407).)*

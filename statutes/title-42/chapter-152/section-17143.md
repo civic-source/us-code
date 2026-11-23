@@ -3,9 +3,10 @@ title: "Section 17143 - Government efficiency status reports"
 usc_title: 42
 usc_section: "17143"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17143"
-generated_at: "2026-03-30T02:56:11.498Z"
+generated_at: "2026-11-23T21:26:33.770Z"
+status: "active"
 ---
 
 # § 17143. Government efficiency status reports
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.498Z"
   - **(1)** to the Director at such time as the Director requires;
   - **(2)** in electronic, not paper, format; and
   - **(3)** consistent with related reporting requirements.
+
+## Source Credit
+
+*([Pub. L. 110–140, title V, § 527](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1663](https://www.govinfo.gov/link/statute/121/1663).)*

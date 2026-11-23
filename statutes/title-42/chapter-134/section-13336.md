@@ -3,9 +3,10 @@ title: "Section 13336 - Coalbed methane recovery"
 usc_title: 42
 usc_section: "13336"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13336"
-generated_at: "2026-03-30T02:56:11.442Z"
+generated_at: "2026-11-23T21:26:33.594Z"
+status: "active"
 ---
 
 # § 13336. Coalbed methane recovery
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.442Z"
   - **(2)** technologies to use mine ventilation air in nearby power generation facilities, including gas turbines, internal combustion engines, or other coal fired powerplants;
   - **(3)** technologies for cofiring methane recovered from mines, including methane from ventilation systems and degasification systems, together with coal in conventional or clean coal technology boilers; and
   - **(4)** other technologies for producing and using methane from coal mines that the Secretary considers appropriate.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XIII, § 1306](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2974](https://www.govinfo.gov/link/statute/106/2974).)*

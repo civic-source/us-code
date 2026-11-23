@@ -3,12 +3,17 @@ title: "Section 2107 - Regulations; consultation with Indian organizations; pend
 usc_title: 25
 usc_section: "2107"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2107"
-generated_at: "2026-03-30T02:54:52.835Z"
+generated_at: "2026-11-23T21:25:54.658Z"
+status: "active"
 ---
 
 # § 2107. Regulations; consultation with Indian organizations; pending agreements
 
 Within one hundred and eighty days of December 22, 1982 , the Secretary of the Interior shall promulgate rules and regulations to facilitate implementation of this chapter. The Secretary shall, to the extent practicable, consult with national and regional Indian organizations and tribes with expertise in mineral development both in the initial formulation of rules and regulations and any future revision or amendment of such rules and regulations. Where there is pending before the Secretary for his approval a Minerals Agreement of the type authorized by section 2102 of this title which was submitted prior to December 22, 1982 , the Secretary shall evaluate and approve or disapprove such agreement based upon section 2103 of this title , but shall not withhold or delay such approval or disapproval on the grounds that the rules and regulations implementing this chapter have not been promulgated.
 
+
+## Source Credit
+
+*([Pub. L. 97–382, § 8](https://www.govinfo.gov/link/plaw/97/public/382), Dec. 22, 1982, [96 Stat. 1940](https://www.govinfo.gov/link/statute/96/1940).)*

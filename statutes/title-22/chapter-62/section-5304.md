@@ -3,9 +3,10 @@ title: "Section 5304 - International negotiations on exchange rate and economic 
 usc_title: 22
 usc_section: "5304"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5304"
-generated_at: "2026-03-30T02:55:05.416Z"
+generated_at: "2026-11-23T21:25:58.656Z"
+status: "active"
 ---
 
 # § 5304. International negotiations on exchange rate and economic policies
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:55:05.416Z"
     - **(B)** more appropriate and sustainable levels of trade and current account balances, and exchange rates of the dollar and other currencies consistent with such balances; and
   - **(2)** to develop a program for improving existing mechanisms for coordination and improving the functioning of the exchange rate system to provide for long-term exchange rate stability consistent with more appropriate and sustainable current account balances.
 - **(b)** The Secretary of the Treasury shall analyze on an annual basis the exchange rate policies of foreign countries, in consultation with the International Monetary Fund, and consider whether countries manipulate the rate of exchange between their currency and the United States dollar for purposes of preventing effective balance of payments adjustments or gaining unfair competitive advantage in international trade. If the Secretary considers that such manipulation is occurring with respect to countries that (1) have material global current account surpluses; and (2) have significant bilateral trade surpluses with the United States, the Secretary of the Treasury shall take action to initiate negotiations with such foreign countries on an expedited basis, in the International Monetary Fund or bilaterally, for the purpose of ensuring that such countries regularly and promptly adjust the rate of exchange between their currencies and the United States dollar to permit effective balance of payments adjustments and to eliminate the unfair advantage. The Secretary shall not be required to initiate negotiations in cases where such negotiations would have a serious detrimental impact on vital national economic and security interests; in such cases, the Secretary shall inform the chairman and the ranking minority member of the Committee on Banking, Housing, and Urban Affairs of the Senate and of the Committee on Banking, Finance and Urban Affairs of the House of Representatives of his determination.
+
+Findings
+
+Negotiations
+
+## Source Credit
+
+*([Pub. L. 100–418, title III, § 3004](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1373](https://www.govinfo.gov/link/statute/102/1373).)*

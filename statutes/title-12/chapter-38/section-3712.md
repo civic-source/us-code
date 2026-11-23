@@ -3,9 +3,10 @@ title: "Section 3712 - Disposition of sale proceeds"
 usc_title: 12
 usc_section: "3712"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3712"
-generated_at: "2026-03-30T02:53:53.497Z"
+generated_at: "2026-11-23T21:25:37.147Z"
+status: "active"
 ---
 
 # § 3712. Disposition of sale proceeds
@@ -19,3 +20,7 @@ Money realized from a foreclosure sale shall be made available for obligation an
   - **(5)** then to the interest;
   - **(6)** then to the principal balance secured by the mortgage (including expenditures for the necessary protection, preservation, and repair of the security property as authorized under the mortgage agreement and interest thereon if provided for in the mortgage agreement); and
   - **(7)** then to late charges.
+
+## Source Credit
+
+*([Pub. L. 97–35, title III, § 369D](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 429](https://www.govinfo.gov/link/statute/95/429).)*

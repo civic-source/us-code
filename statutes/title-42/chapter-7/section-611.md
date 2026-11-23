@@ -3,9 +3,10 @@ title: "Section 611 - Data collection and reporting"
 usc_title: 42
 usc_section: "611"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 611"
-generated_at: "2026-03-30T02:56:10.874Z"
+generated_at: "2026-11-23T21:26:31.087Z"
+status: "active"
 ---
 
 # § 611. Data collection and reporting
@@ -133,3 +134,17 @@ generated_at: "2026-03-30T02:56:10.874Z"
     - **(D)** The percentage of individuals who have not attained 24 years of age, are attending high school or enrolled in an equivalency program, and are work-eligible individuals or were work-eligible individuals as of the time of exit from the program, who obtain a high school degree or its recognized equivalent while receiving assistance under the State program funded under this part or within 1 year after the exit.
   - **(3)** In paragraph (2), the term “exit” means, with respect to a State program funded under this part, ceases to receive assistance under the program funded by this part.
   - **(4)** In order to ensure nationwide comparability of data, the Secretary, after consultation with the Secretary of Labor and with States, shall issue regulations governing the reporting of performance indicators under this subsection.
+
+(aa) the work-eligible individual did not engage in sufficient hours of the activity;
+
+(bb) the work-eligible individual has reached the maximum time limit allowed for having participation in the activity counted toward the State’s work participation rate; or
+
+(cc) the number of work-eligible individuals engaged in such activity exceeds a limitation under such section.
+
+Data exchange standards
+
+Data reporting standards
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 411, as added [Pub. L. 104–193, title I, § 103(a)(1)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2148](https://www.govinfo.gov/link/statute/110/2148); amended [Pub. L. 105–33, title V](https://www.govinfo.gov/link/plaw/105/public/33), §§ 5001(e), 5507, 5514(c), Aug. 5, 1997, [111 Stat. 591](https://www.govinfo.gov/link/statute/111/591), 616, 620; [Pub. L. 106–113, div. B, § 1000(a)(4) [title VIII, § 804(a)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1535](https://www.govinfo.gov/link/statute/113/1535), 1501A–284; [Pub. L. 109–171, title VII, § 7102(b)(2)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 136](https://www.govinfo.gov/link/statute/120/136); [Pub. L. 110–234, title IV, § 4002(b)(1)(E)](https://www.govinfo.gov/link/plaw/110/public/234), (2)(V), May 22, 2008, [122 Stat. 1096](https://www.govinfo.gov/link/statute/122/1096), 1097; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4002(b)(1)(E), (2)(V), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1858; [Pub. L. 111–291, title VIII, § 812(a)](https://www.govinfo.gov/link/plaw/111/public/291), Dec. 8, 2010, [124 Stat. 3160](https://www.govinfo.gov/link/statute/124/3160); [Pub. L. 112–96, title IV](https://www.govinfo.gov/link/plaw/112/public/96), §§ 4003(a), 4005(e), Feb. 22, 2012, [126 Stat. 195](https://www.govinfo.gov/link/statute/126/195), 198; [Pub. L. 118–5, div. C, title I](https://www.govinfo.gov/link/plaw/118/public/5), §§ 302, 304, June 3, 2023, [137 Stat. 34](https://www.govinfo.gov/link/statute/137/34), 35.)*

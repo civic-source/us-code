@@ -3,9 +3,10 @@ title: "Section 1322 - International traffic and rescue work; United States-Mexi
 usc_title: 19
 usc_section: "1322"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1322"
-generated_at: "2026-03-30T02:54:24.629Z"
+generated_at: "2026-11-23T21:25:42.694Z"
+status: "active"
 ---
 
 # § 1322. International traffic and rescue work; United States-Mexico Boundary Treaty of 1970
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:24.629Z"
   - **(2)** fire-fighting and rescue and relief equipment and supplies for emergent temporary use in connection with conflagrations;
   - **(3)** rescue and relief equipment and supplies for emergent temporary use in connection with floods and other disasters; and
   - **(4)** personal property related to the use and enjoyment of a separated tract of land as described in article III of the Treaty To Resolve Pending Boundary Differences and Maintain the Rio Grande and Colorado Rivers as the International Boundary between the United States of America and the United Mexican States signed on November 23, 1970 .
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title III, § 322, as added Aug. 8, 1953, ch. 397, § 14, [67 Stat. 516](https://www.govinfo.gov/link/statute/67/516); amended [Pub. L. 92–549, title I, § 107](https://www.govinfo.gov/link/plaw/92/public/549), Oct. 25, 1972, [86 Stat. 1162](https://www.govinfo.gov/link/statute/86/1162); [Pub. L. 98–573, title I](https://www.govinfo.gov/link/plaw/98/public/573), §§ 124(c), 127(b), Oct. 30, 1984, [98 Stat. 2959](https://www.govinfo.gov/link/statute/98/2959).)*

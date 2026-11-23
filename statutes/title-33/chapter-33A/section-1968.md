@@ -3,9 +3,10 @@ title: "Section 1968 - Authorization of appropriations"
 usc_title: 33
 usc_section: "1968"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1968"
-generated_at: "2026-03-30T02:55:41.111Z"
+generated_at: "2026-11-23T21:26:11.418Z"
+status: "active"
 ---
 
 # § 1968. Authorization of appropriations
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:41.111Z"
 - **(c)** Amounts provided as a grant by the Foundation shall not be used for—
   - **(1)** any expense related to litigation consistent with Federal-wide cost principles; or
   - **(2)** any activity the purpose of which is to influence legislation pending before Congress consistent with Federal-wide cost principles.
+
+## Source Credit
+
+*([Pub. L. 109–449, § 118](https://www.govinfo.gov/link/plaw/109/public/449), formerly [Pub. L. 116–224, title I, § 118](https://www.govinfo.gov/link/plaw/116/public/224), Dec. 18, 2020, [134 Stat. 1080](https://www.govinfo.gov/link/statute/134/1080); renumbered [Pub. L. 109–449, § 118](https://www.govinfo.gov/link/plaw/109/public/449), and amended [Pub. L. 119–65, § 3(a)](https://www.govinfo.gov/link/plaw/119/public/65), (h), Dec. 26, 2025, [139 Stat. 1987](https://www.govinfo.gov/link/statute/139/1987), 1988.)*

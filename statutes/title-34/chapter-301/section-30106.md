@@ -3,9 +3,10 @@ title: "Section 30106 - Annual reports"
 usc_title: 34
 usc_section: "30106"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 30106"
-generated_at: "2026-03-30T02:55:33.305Z"
+generated_at: "2026-11-23T21:26:09.817Z"
+status: "active"
 ---
 
 # § 30106. Annual reports
@@ -70,3 +71,7 @@ generated_at: "2026-03-30T02:55:33.305Z"
       - **(ii)** whether the prosecution resulted in a conviction; and
       - **(iii)** the sentence and the statutory maximum for such crime, as well as the average sentence imposed for such crime; and
   - **(4)** a Bureau-wide assessment of the staff, financial resources, and other resources (such as time, technology, and training) devoted to the enforcement, investigation, and prosecution of intellectual property crimes, including the number of investigators, prosecutors, and forensic specialists dedicated to investigating and prosecuting intellectual property crimes.
+
+## Source Credit
+
+*([Pub. L. 110–403, title IV, § 404](https://www.govinfo.gov/link/plaw/110/public/403), Oct. 13, 2008, [122 Stat. 4274](https://www.govinfo.gov/link/statute/122/4274).)*

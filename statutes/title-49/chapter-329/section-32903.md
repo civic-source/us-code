@@ -3,9 +3,10 @@ title: "Section 32903 - Credits for exceeding average fuel economy standards"
 usc_title: 49
 usc_section: "32903"
 chapter: 329
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 32903"
-generated_at: "2026-03-30T02:56:19.366Z"
+generated_at: "2026-11-23T21:26:40.809Z"
+status: "active"
 ---
 
 # § 32903. Credits for exceeding average fuel economy standards
@@ -44,3 +45,82 @@ generated_at: "2026-03-30T02:56:19.366Z"
       - **(ii)** Passenger automobiles not manufactured domestically.
       - **(iii)** Non-passenger automobiles.
 - **(h)** When a civil penalty has been collected under this chapter from a manufacturer that has earned credits under this section, the Secretary of the Treasury shall refund to the manufacturer the amount of the penalty to the extent the penalty is attributable to credits available under this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 32903(a) | 15:2002( l )(1)(B), (4). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 502( l ); added Oct. 10, 1980 , Pub. L. 96–425, § 6(b) , 94 Stat. 1826 . |
+| 32903(b)(1) | 15:2002( l )(1)(A). |  |
+| 32903(b)(2) | 15:2002( l )(1)(C). |  |
+| 32903(c) | 15:2002( l )(1)(D). |  |
+| 32903(d) | 15:2002( l )(1)(E). |  |
+| 32903(e) | 15:2002( l )(2). |  |
+| 32903(f) | 15:2002( l )(3). |  |
+
+
+Earning and Period for Applying Credits
+
+Period of Availability and Plan for Future Credits
+
+Determining Number of Credits
+
+Applying Credits for Passenger Automobiles
+
+Applying Credits for Non-Passenger Automobiles
+
+Credit Trading Among Manufacturers.—
+
+In general
+
+Limitation
+
+Credit Transferring Within a Manufacturer’s Fleet.—
+
+In general
+
+Years for which used
+
+Maximum increase
+
+Limitation
+
+Years available
+
+Definitions
+
+Fleet
+
+Compliance category of automobiles
+
+Refund of Collected Penalty
+
+Historical and Revision Notes
+
+32903(a)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Oct. 10, 1980
+
+Pub. L. 96–425, § 6(b)
+
+94 Stat. 1826
+
+32903(b)(1)
+
+32903(b)(2)
+
+32903(c)
+
+32903(d)
+
+32903(e)
+
+32903(f)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1061](https://www.govinfo.gov/link/statute/108/1061); [Pub. L. 110–140, title I, § 104(a)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1501](https://www.govinfo.gov/link/statute/121/1501).)*

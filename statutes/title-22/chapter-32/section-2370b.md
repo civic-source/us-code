@@ -3,9 +3,10 @@ title: "Section 2370b - Humanitarian assistance code of conduct"
 usc_title: 22
 usc_section: "2370b"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2370b"
-generated_at: "2026-03-30T02:55:05.361Z"
+generated_at: "2026-11-23T21:25:58.479Z"
+status: "active"
 ---
 
 # § 2370b. Humanitarian assistance code of conduct
@@ -14,3 +15,9 @@ generated_at: "2026-03-30T02:55:05.361Z"
 - **(b)** The code of conduct referred to in subsection (a) shall, to the maximum extent practicable, be consistent with the six core principles of the United Nations Inter-Agency Standing Committee Task Force on Protection From Sexual Exploitation and Abuse in Humanitarian Crises.
 - **(c)** Not later than 180 days after May 11, 2005 , and not later than one year after May 11, 2005 , the President shall transmit to the appropriate congressional committees a report on the implementation of this section.
 - **(d)** This section shall take effect 60 days after May 11, 2005 , and shall apply to funds obligated after such date for fiscal year 2005 and any subsequent fiscal year.
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 109–13, div. A, title II, § 2110](https://www.govinfo.gov/link/plaw/109/public/13), May 11, 2005, [119 Stat. 268](https://www.govinfo.gov/link/statute/119/268).)*

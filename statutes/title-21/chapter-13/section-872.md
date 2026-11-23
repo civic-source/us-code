@@ -3,9 +3,10 @@ title: "Section 872 - Education and research programs of Attorney General"
 usc_title: 21
 usc_section: "872"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 872"
-generated_at: "2026-03-30T02:54:54.297Z"
+generated_at: "2026-11-23T21:25:56.252Z"
+status: "active"
 ---
 
 # § 872. Education and research programs of Attorney General
@@ -22,3 +23,27 @@ generated_at: "2026-03-30T02:54:54.297Z"
 - **(d)** Nothing in the Single Convention on Narcotic Drugs, the Convention on Psychotropic Substances, or other treaties or international agreements shall be construed to limit, modify, or prevent the protection of the confidentiality of patient records or of the names and other identifying characteristics of research subjects as provided by any Federal, State, or local law or regulation.
 - **(e)** The Attorney General, on his own motion or at the request of the Secretary, may authorize the possession, distribution, and dispensing of controlled substances by persons engaged in research. Persons who obtain this authorization shall be exempt from State or Federal prosecution for possession, distribution, and dispensing of controlled substances to the extent authorized by the Attorney General.
 - **(f)** The Attorney General shall maintain an active program, both domestic and international, to curtail the diversion of precursor chemicals and essential chemicals used in the illicit manufacture of controlled substances.
+
+“Nothing in this section [amending this section and sections 872a, 873, and 878 of this title] or any amendment made by this section—
+
+In General.—
+
+Requirement
+
+Duration
+
+Covered Programs
+
+Advanced mobile clandestine laboratory training teams
+
+Basic clandestine laboratory certification training
+
+Clandestine laboratory recertification and awareness training
+
+Authorization of Appropriations
+
+“The Attorney General may—
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 502](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1271](https://www.govinfo.gov/link/statute/84/1271); [Pub. L. 95–633, title I, § 108(a)](https://www.govinfo.gov/link/plaw/95/public/633), Nov. 10, 1978, [92 Stat. 3773](https://www.govinfo.gov/link/statute/92/3773); [Pub. L. 100–690, title VI, § 6060](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4320](https://www.govinfo.gov/link/statute/102/4320); [Pub. L. 111–211, title II, § 232(a)](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2278](https://www.govinfo.gov/link/statute/124/2278).)*

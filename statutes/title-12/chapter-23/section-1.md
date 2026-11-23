@@ -3,9 +3,10 @@ title: "Section 1 - Risk-based capital levels"
 usc_title: 12
 usc_section: "1"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1"
-generated_at: "2026-03-30T02:53:53.484Z"
+generated_at: "2026-11-23T21:25:37.095Z"
+status: "active"
 ---
 
 # § 2279bb–1. Risk-based capital levels
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:53.484Z"
     - **(B)** contain specific requirements, definitions, methods, variables, and parameters used under the risk-based capital test and in implementing the test (such as loan loss severity, float income, loan-to-value ratios, taxes, yield curve slopes, default experience, prepayment rates, and performance of pools of qualified loans).
   - **(2)** The regulations referred to in paragraph (1) shall be sufficiently specific to permit an individual other than the Director to apply the test in the same manner as the Director.
 - **(e)** The Director shall make copies of the statistical model or models used to implement the risk-based capital test under this section available for public acquisition and may charge a reasonable fee for such copies.
+
+## Source Credit
+
+*([Pub. L. 92–181, title VIII, § 8](https://www.govinfo.gov/link/plaw/92/public/181).32, as added [Pub. L. 102–237, title V, § 503(b)(2)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1871](https://www.govinfo.gov/link/statute/105/1871); amended [Pub. L. 102–552, title III, § 308(b)(3)](https://www.govinfo.gov/link/plaw/102/public/552), Oct. 28, 1992, [106 Stat. 4116](https://www.govinfo.gov/link/statute/106/4116); [Pub. L. 104–105, title I](https://www.govinfo.gov/link/plaw/104/public/105), §§ 109(b)(3), 113, Feb. 10, 1996, [110 Stat. 165](https://www.govinfo.gov/link/statute/110/165), 166; [Pub. L. 110–234, title V, § 5406(d)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1159](https://www.govinfo.gov/link/statute/122/1159); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title V, § 5406(d), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1920; [Pub. L. 115–334, title V, § 5411(48)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4685](https://www.govinfo.gov/link/statute/132/4685).)*

@@ -3,9 +3,10 @@ title: "Section 2719a - Foreign affairs training"
 usc_title: 22
 usc_section: "2719a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2719a"
-generated_at: "2026-03-30T02:55:05.381Z"
+generated_at: "2026-11-23T21:25:58.536Z"
+status: "active"
 ---
 
 # § 2719a. Foreign affairs training
@@ -98,3 +99,7 @@ generated_at: "2026-03-30T02:55:05.381Z"
 - **(j)**
   - **(1)** The Secretary is authorized to establish and implement an incentive program, with a similar structure as the Foreign Language Proficiency Bonus offered by the Department of Defense, to encourage members of the Foreign Service who possess language proficiency in any of the languages that qualify for additional incentive pay, as determined by the Secretary, to maintain critical foreign language skills.
   - **(2)** Not later than 90 days after December 23, 2022 , the Secretary shall submit a report to the appropriate committees of Congress that includes a detailed plan for implementing the program authorized under paragraph (1), including anticipated resource requirements to carry out such program.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. I, title XCII, § 9205](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3865](https://www.govinfo.gov/link/statute/136/3865).)*

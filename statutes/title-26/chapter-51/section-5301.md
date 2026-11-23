@@ -3,9 +3,10 @@ title: "Section 5301 - General"
 usc_title: 26
 usc_section: "5301"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5301"
-generated_at: "2026-03-30T02:55:27.822Z"
+generated_at: "2026-11-23T21:26:06.717Z"
+status: "active"
 ---
 
 # § 5301. General
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:27.822Z"
   - **(4)** possess any liquor bottle, any portion of the contents of which has been altered or increased in violation of the provisions of paragraph (3);
 - **(d)** The immediate container of distilled spirits withdrawn from bonded premises, or from customs custody, on determination of tax shall bear a closure or other device which is designed so as to require breaking in order to gain access to the contents of such container. The preceding sentence shall not apply to containers of bulk distilled spirits.
 - **(e)** For penalty for violation of this section, see section 5606.
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1374](https://www.govinfo.gov/link/statute/72/1374); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 96–39, title VIII, § 807(a)(41)](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 287](https://www.govinfo.gov/link/statute/93/287); [Pub. L. 98–369, div. A, title IV, § 454(b)](https://www.govinfo.gov/link/plaw/98/public/369), (c)(9), July 18, 1984, [98 Stat. 820](https://www.govinfo.gov/link/statute/98/820), 821.)*

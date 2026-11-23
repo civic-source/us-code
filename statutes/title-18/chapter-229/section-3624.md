@@ -3,9 +3,10 @@ title: "Section 3624 - Release of a prisoner"
 usc_title: 18
 usc_section: "3624"
 chapter: 229
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3624"
-generated_at: "2026-03-30T02:54:16.522Z"
+generated_at: "2026-11-23T21:25:44.218Z"
+status: "active"
 ---
 
 # § 3624. Release of a prisoner
@@ -73,3 +74,97 @@ generated_at: "2026-03-30T02:54:16.522Z"
   - **(9)** Any prerelease custody into which a prisoner is placed under this subsection may not include a condition prohibiting the prisoner from receiving mentoring, reentry, or spiritual services from a person who provided such services to the prisoner while the prisoner was incarcerated, except that the warden of the facility at which the prisoner was incarcerated may waive the requirement under this paragraph if the warden finds that the provision of such services would pose a significant security risk to the prisoner, persons who provide such services, or any other person. The warden shall provide written notice of any such waiver to the person providing such services and to the prisoner.
   - **(10)** The time limits under subsections (b) and (c) shall not apply to prerelease custody under this subsection.
   - **(11)** The Director of the Bureau of Prisons shall ensure there is sufficient prerelease custody capacity to accommodate all eligible prisoners.
+
+Date of Release
+
+Credit Toward Service of Sentence for Satisfactory Behavior
+
+Prerelease Custody.—
+
+In general
+
+Home confinement authority
+
+Assistance
+
+No limitations
+
+Reporting
+
+Issuance of regulations
+
+Allotment of Clothing, Funds, and Transportation
+
+Supervision After Release
+
+Mandatory Functional Literacy Requirement.—
+
+Prerelease Custody or Supervised Release for Risk and Needs Assessment System Participants.—
+
+Eligible prisoners
+
+(aa) the prisoner would not be a danger to society if transferred to prerelease custody or supervised release;
+
+(bb) the prisoner has made a good faith effort to lower their recidivism risk through participation in recidivism reduction programs or productive activities; and
+
+(cc) the prisoner is unlikely to recidivate; or
+
+Types of prerelease custody
+
+Home confinement.—
+
+In general
+
+(aa) perform a job or job-related activities, including an apprenticeship, or participate in job-seeking activities;
+
+(bb) participate in evidence-based recidivism reduction programming or productive activities assigned by the System, or similar activities;
+
+(cc) perform community service;
+
+(dd) participate in crime victim restoration activities;
+
+(ee) receive medical treatment;
+
+(ff) attend religious activities; or
+
+(gg) participate in other family-related activities that facilitate the prisoner’s successful reentry such as a family funeral, a family wedding, or to visit a family member who is seriously ill; and
+
+Alternate means of monitoring
+
+Modifications
+
+Duration
+
+Residential reentry center
+
+Supervised release
+
+Determination of conditions
+
+Violations of conditions
+
+Issuance of guidelines
+
+Agreements with united states probation and pretrial services
+
+Assistance
+
+Mentoring, reentry, and spiritual services
+
+Time limits inapplicable
+
+Prerelease custody capacity
+
+Effective date
+
+Applicability
+
+In General
+
+Required Consultation
+
+Contents
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 212(a)(2)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2008](https://www.govinfo.gov/link/statute/98/2008); amended [Pub. L. 99–646](https://www.govinfo.gov/link/plaw/99/public/646), §§ 16(a), 17(a), Nov. 10, 1986, [100 Stat. 3595](https://www.govinfo.gov/link/statute/100/3595); [Pub. L. 101–647, title XXIX](https://www.govinfo.gov/link/plaw/101/public/647), §§ 2902(a), 2904, Nov. 29, 1990, [104 Stat. 4913](https://www.govinfo.gov/link/statute/104/4913); [Pub. L. 103–322, title II](https://www.govinfo.gov/link/plaw/103/public/322), §§ 20405, 20412, Sept. 13, 1994, [108 Stat. 1825](https://www.govinfo.gov/link/statute/108/1825), 1828; [Pub. L. 104–66, title I, § 1091(c)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 722](https://www.govinfo.gov/link/statute/109/722); [Pub. L. 104–134, title I, § 101[(a)]](https://www.govinfo.gov/link/plaw/104/public/134) [title VIII, § 809(c)], Apr. 26, 1996, [110 Stat. 1321](https://www.govinfo.gov/link/statute/110/1321), 1321–76; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327); [Pub. L. 110–177, title V, § 505](https://www.govinfo.gov/link/plaw/110/public/177), Jan. 7, 2008, [121 Stat. 2542](https://www.govinfo.gov/link/statute/121/2542); [Pub. L. 110–199, title II, § 251(a)](https://www.govinfo.gov/link/plaw/110/public/199), Apr. 9, 2008, [122 Stat. 692](https://www.govinfo.gov/link/statute/122/692); [Pub. L. 115–391, title I, § 102(b)(1)](https://www.govinfo.gov/link/plaw/115/public/391), title V, § 504(c), title VI, § 602, Dec. 21, 2018, [132 Stat. 5210](https://www.govinfo.gov/link/statute/132/5210), 5233, 5238.)*

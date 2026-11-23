@@ -3,9 +3,10 @@ title: "Section 1121 - Killing persons aiding Federal investigations or State co
 usc_title: 18
 usc_section: "1121"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1121"
-generated_at: "2026-03-30T02:54:16.482Z"
+generated_at: "2026-11-23T21:25:44.046Z"
+status: "active"
 ---
 
 # § 1121. Killing persons aiding Federal investigations or State correctional officers
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:16.482Z"
     - **(A)** the correctional officer is engaged in transporting the incarcerated person interstate; or
     - **(B)** the incarcerated person is incarcerated pursuant to a conviction for an offense against the United States.
 - **(c)** For the purposes of this section, the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title VI, § 60015(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1974](https://www.govinfo.gov/link/statute/108/1974); amended [Pub. L. 104–294, title VI, § 607(k)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3512](https://www.govinfo.gov/link/statute/110/3512).)*

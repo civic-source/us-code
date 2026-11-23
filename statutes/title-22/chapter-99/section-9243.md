@@ -3,9 +3,10 @@ title: "Section 9243 - Report on and imposition of sanctions with respect to ser
 usc_title: 22
 usc_section: "9243"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9243"
-generated_at: "2026-03-30T02:55:05.464Z"
+generated_at: "2026-11-23T21:25:58.769Z"
+status: "active"
 ---
 
 # § 9243. Report on and imposition of sanctions with respect to serious human rights abuses or censorship in North Korea
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:05.464Z"
 - **(c)** It is the sense of Congress that the President should—
   - **(1)** seek the prompt adoption by the United Nations Security Council of a resolution calling for the blocking of the assets of all persons responsible for severe human rights abuses or censorship in North Korea; and
   - **(2)** fully cooperate with the prosecution of any individual listed in the report required under subsection (a)(1) before any international tribunal that may be established to prosecute persons responsible for severe human rights abuses or censorship in North Korea.
+
+## Source Credit
+
+*([Pub. L. 114–122, title III, § 304](https://www.govinfo.gov/link/plaw/114/public/122), Feb. 18, 2016, [130 Stat. 113](https://www.govinfo.gov/link/statute/130/113).)*

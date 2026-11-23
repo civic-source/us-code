@@ -3,9 +3,10 @@ title: "Section 404 - Specific powers"
 usc_title: 39
 usc_section: "404"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 404"
-generated_at: "2026-03-30T02:55:43.687Z"
+generated_at: "2026-11-23T21:26:12.767Z"
+status: "active"
 ---
 
 # § 404. Specific powers
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:55:43.687Z"
     - **(B)** the ability of the private sector to meet the public need for the service.
   - **(4)** Any nonpostal service not determined to be continued by the Postal Regulatory Commission under paragraph (3) shall terminate.
   - **(5)** If the Postal Regulatory Commission authorizes the Postal Service to continue a nonpostal service under this subsection, the Postal Regulatory Commission shall designate whether the service shall be regulated under this title as a market dominant product, a competitive product, or an experimental product.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 724](https://www.govinfo.gov/link/statute/84/724); [Pub. L. 94–421, § 9(a)](https://www.govinfo.gov/link/plaw/94/public/421), Sept. 24, 1976, [90 Stat. 1310](https://www.govinfo.gov/link/statute/90/1310); [Pub. L. 105–241, § 3](https://www.govinfo.gov/link/plaw/105/public/241), Sept. 28, 1998, [112 Stat. 1572](https://www.govinfo.gov/link/statute/112/1572); [Pub. L. 109–435, title I, § 102(a)](https://www.govinfo.gov/link/plaw/109/public/435), title IV, § 403(b)(2), title VI, § 604(a), title X, §§ 1006(a), 1010(e), Dec. 20, 2006, [120 Stat. 3200](https://www.govinfo.gov/link/statute/120/3200), 3227, 3241, 3258, 3261; [Pub. L. 117–108, title I, § 103(b)(1)](https://www.govinfo.gov/link/plaw/117/public/108), Apr. 6, 2022, [136 Stat. 1144](https://www.govinfo.gov/link/statute/136/1144).)*

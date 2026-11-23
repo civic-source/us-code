@@ -3,9 +3,10 @@ title: "Section 22 - Credit for the elderly and the permanently and totally disa
 usc_title: 26
 usc_section: "22"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 22"
-generated_at: "2026-03-30T02:55:27.585Z"
+generated_at: "2026-11-23T21:26:05.882Z"
+status: "active"
 ---
 
 # § 22. Credit for the elderly and the permanently and totally disabled
@@ -44,3 +45,11 @@ generated_at: "2026-03-30T02:55:27.585Z"
   - **(2)** Marital status shall be determined under section 7703.
   - **(3)** An individual is permanently and totally disabled if he is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment which can be expected to result in death or which has lasted or can be expected to last for a continuous period of not less than 12 months. An individual shall not be considered to be permanently and totally disabled unless he furnishes proof of the existence thereof in such form and manner, and at such times, as the Secretary may require.
 - **(f)** No credit shall be allowed under this section to any nonresident alien.
+
+In general
+
+Transitional rule
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 15, § 37; Aug. 9, 1955, ch. 659, § 1, [69 Stat. 591](https://www.govinfo.gov/link/statute/69/591); Jan. 28, 1956, ch. 17, § 1, [70 Stat. 8](https://www.govinfo.gov/link/statute/70/8); [Pub. L. 87–792, § 7(a)](https://www.govinfo.gov/link/plaw/87/public/792), Oct. 10, 1962, [76 Stat. 828](https://www.govinfo.gov/link/statute/76/828); [Pub. L. 87–876, § 1](https://www.govinfo.gov/link/plaw/87/public/876), Oct. 24, 1962, [76 Stat. 1199](https://www.govinfo.gov/link/statute/76/1199); [Pub. L. 88–272, title I, § 113(a)](https://www.govinfo.gov/link/plaw/88/public/272), title II, §§ 201(d)(3), 202(a), Feb. 26, 1964, [78 Stat. 24](https://www.govinfo.gov/link/statute/78/24), 32, 33; [Pub. L. 93–406, title II, § 2002(g)(1)](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 968](https://www.govinfo.gov/link/statute/88/968); [Pub. L. 94–455, title V, § 503(a)](https://www.govinfo.gov/link/plaw/94/public/455), title XIX, § 1901(c)(1), Oct. 4, 1976, [90 Stat. 1559](https://www.govinfo.gov/link/statute/90/1559), 1803; [Pub. L. 95–600, title VII](https://www.govinfo.gov/link/plaw/95/public/600), §§ 701(a)(1)–(3), 703(j)(11), Nov. 6, 1978, [92 Stat. 2897](https://www.govinfo.gov/link/statute/92/2897), 2942; [Pub. L. 96–222, title I, § 107(a)(1)(E)(i)](https://www.govinfo.gov/link/plaw/96/public/222), Apr. 1, 1980, [94 Stat. 222](https://www.govinfo.gov/link/statute/94/222); [Pub. L. 97–34, title I, § 111(b)(4)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 194](https://www.govinfo.gov/link/statute/95/194); [Pub. L. 98–21, title I, § 122(a)](https://www.govinfo.gov/link/plaw/98/public/21), Apr. 20, 1983, [97 Stat. 85](https://www.govinfo.gov/link/statute/97/85); renumbered § 22 and amended [Pub. L. 98–369, div. A, title IV](https://www.govinfo.gov/link/plaw/98/public/369), §§ 471(c), 474(d), July 18, 1984, [98 Stat. 826](https://www.govinfo.gov/link/statute/98/826), 830; [Pub. L. 99–514, title XIII, § 1301(j)(8)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2658](https://www.govinfo.gov/link/statute/100/2658); [Pub. L. 115–141, div. U, title IV, § 401(a)(2)(A)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1184](https://www.govinfo.gov/link/statute/132/1184).)*

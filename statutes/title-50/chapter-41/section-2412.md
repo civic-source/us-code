@@ -3,9 +3,10 @@ title: "Section 2412 - Cybersecurity Risk Inventory, Assessment, and Mitigation 
 usc_title: 50
 usc_section: "2412"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2412"
-generated_at: "2026-03-30T02:56:26.224Z"
+generated_at: "2026-11-23T21:26:38.974Z"
+status: "active"
 ---
 
 # § 2412. Cybersecurity Risk Inventory, Assessment, and Mitigation Working Group
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:26.224Z"
   - **(1)** Not later than 120 days after December 22, 2023 , the working group shall provide to the congressional defense committees a briefing on the plan of the working group to develop the strategy required under subsection (d).
   - **(2)** Not later than April 1, 2025 , the working group shall submit the congressional defense committees a copy of the completed strategy.
 - **(f)** The working group shall terminate on a date determined by the Administrator that is not earlier than the date that is five years after December 22, 2023 .
+
+## Source Credit
+
+*([Pub. L. 106–65, div. C, title XXXII, § 3222](https://www.govinfo.gov/link/plaw/106/public/65), as added [Pub. L. 118–31, div. C, title XXXI, § 3113](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 789](https://www.govinfo.gov/link/statute/137/789).)*

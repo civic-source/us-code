@@ -3,9 +3,10 @@ title: "Section 4503 - Jury and witness service by Senate and House employees"
 usc_title: 2
 usc_section: "4503"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 4503"
-generated_at: "2026-03-30T02:53:04.831Z"
+generated_at: "2026-11-23T21:25:21.301Z"
+status: "active"
 ---
 
 # § 4503. Jury and witness service by Senate and House employees
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:04.831Z"
   - **(2)** An employee summoned (and permitted to respond to such summons by the House of the Congress disbursing his pay), or assigned by such House, to testify in his official capacity or produce official records on behalf of a party other than the United States, is entitled to travel expenses, unless any travel expenses are paid to the employee for his appearance by the court, authority, or party which caused him to be summoned.
 - **(f)** The Committee on Rules and Administration of the Senate and the Committee on House Oversight of the House of Representatives are authorized to prescribe, for employees of their respective Houses, such rules and regulations as may be necessary to carry out the provisions of this section.
 - **(g)** No provision of this section shall be construed to confer the consent of either House of the Congress to the production of official records of that House or to testimony by an employee of that House concerning activities related to his employment.
+
+## Source Credit
+
+*([Pub. L. 91–563, § 6](https://www.govinfo.gov/link/plaw/91/public/563), Dec. 19, 1970, [84 Stat. 1478](https://www.govinfo.gov/link/statute/84/1478); [Pub. L. 94–310, § 2](https://www.govinfo.gov/link/plaw/94/public/310), June 15, 1976, [90 Stat. 687](https://www.govinfo.gov/link/statute/90/687); [Pub. L. 104–186, title II, § 204(74)](https://www.govinfo.gov/link/plaw/104/public/186), (75), Aug. 20, 1996, [110 Stat. 1741](https://www.govinfo.gov/link/statute/110/1741).)*

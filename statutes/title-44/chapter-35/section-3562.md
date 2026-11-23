@@ -3,9 +3,10 @@ title: "Section 3562 - Coordination and oversight of policies"
 usc_title: 44
 usc_section: "3562"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 3562"
-generated_at: "2026-03-30T02:55:56.298Z"
+generated_at: "2026-11-23T21:26:18.438Z"
+status: "active"
 ---
 
 # § 3562. Coordination and oversight of policies
@@ -17,3 +18,15 @@ generated_at: "2026-03-30T02:55:56.298Z"
   - **(1)** The head of each agency shall provide to the Director such reports and other information as the Director requests.
   - **(2)** Each Designated Statistical Agency (as defined in section 3576(e)) shall report annually to the Director, the Committee on Oversight and Government Reform of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate on the actions it has taken to implement section 3576. The report shall include copies of each written agreement entered into pursuant to section 3576(c)(1) for the applicable year.
   - **(3)** The Director shall include a summary of reports submitted to the Director under this subsection and actions taken by the Director to advance the purposes of this subchapter in the annual report to Congress on statistical programs prepared under section 3504(e)(2).
+
+In General
+
+Agency Rules
+
+Review and Approval of Rules
+
+Reports.—
+
+## Source Credit
+
+*(Added [Pub. L. 115–435, title III, § 302(a)](https://www.govinfo.gov/link/plaw/115/public/435), Jan. 14, 2019, [132 Stat. 5546](https://www.govinfo.gov/link/statute/132/5546).)*

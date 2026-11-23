@@ -3,9 +3,10 @@ title: "Section 1905 - Pollution reception facilities"
 usc_title: 33
 usc_section: "1905"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1905"
-generated_at: "2026-03-30T02:55:41.110Z"
+generated_at: "2026-11-23T21:26:11.413Z"
+status: "active"
 ---
 
 # § 1905. Pollution reception facilities
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:55:41.110Z"
 - **(f)**
   - **(1)** The Secretary and the Administrator are authorized to conduct surveys of existing reception facilities in the United States to determine measures needed to comply with the MARPOL Protocol or the Antarctic Protocol.
   - **(2)** Not later than 18 months after October 19, 1996 , the Secretary shall promulgate regulations that require the operator of each port or terminal that is subject to any requirement of the MARPOL Protocol relating to reception facilities to post a placard in a location that can easily be seen by port and terminal users. The placard shall state, at a minimum, that a user of a reception facility of the port or terminal should report to the Secretary any inadequacy of the reception facility.
+
+## Source Credit
+
+*([Pub. L. 96–478, § 6](https://www.govinfo.gov/link/plaw/96/public/478), Oct. 21, 1980, [94 Stat. 2299](https://www.govinfo.gov/link/statute/94/2299); [Pub. L. 100–220, title II, § 2103](https://www.govinfo.gov/link/plaw/100/public/220), Dec. 29, 1987, [101 Stat. 1461](https://www.govinfo.gov/link/statute/101/1461); [Pub. L. 101–225, title II, § 201(1)](https://www.govinfo.gov/link/plaw/101/public/225), Dec. 12, 1989, [103 Stat. 1910](https://www.govinfo.gov/link/statute/103/1910); [Pub. L. 104–227, title II, § 201(d)](https://www.govinfo.gov/link/plaw/104/public/227), Oct. 2, 1996, [110 Stat. 3042](https://www.govinfo.gov/link/statute/110/3042); [Pub. L. 104–324, title VIII, § 801](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3943](https://www.govinfo.gov/link/statute/110/3943); [Pub. L. 110–280, § 7](https://www.govinfo.gov/link/plaw/110/public/280), July 21, 2008, [122 Stat. 2614](https://www.govinfo.gov/link/statute/122/2614).)*

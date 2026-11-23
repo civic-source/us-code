@@ -3,9 +3,10 @@ title: "Section 5305a - Prohibition on sale, importation, or exportation of prod
 usc_title: 16
 usc_section: "5305a"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 5305a"
-generated_at: "2026-03-30T02:54:23.051Z"
+generated_at: "2026-11-23T21:25:52.030Z"
+status: "active"
 ---
 
 # § 5305a. Prohibition on sale, importation, or exportation of products labeled or advertised as rhinoceros or tiger products
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:23.051Z"
 - **(d)** After consultation with the Secretary of the Treasury, the Secretary of Health and Human Services, and the United States Trade Representative, the Secretary shall issue such regulations as are appropriate to carry out this section.
 - **(e)** The Secretary, the Secretary of the Treasury, and the Secretary of the department in which the Coast Guard is operating shall enforce this section in the manner in which the Secretaries carry out enforcement activities under section 11(e) of the Endangered Species Act of 1973 ( 16 U.S.C. 1540(e) ).
 - **(f)** Amounts received as penalties, fines, or forfeiture of property under this section shall be used in accordance with section 3375(d) of this title .
+
+## Source Credit
+
+*([Pub. L. 103–391, § 7](https://www.govinfo.gov/link/plaw/103/public/391), as added [Pub. L. 105–312, title IV, § 405(2)](https://www.govinfo.gov/link/plaw/105/public/312), Oct. 30, 1998, [112 Stat. 2960](https://www.govinfo.gov/link/statute/112/2960).)*

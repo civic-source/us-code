@@ -3,9 +3,10 @@ title: "Section 6802 - Definitions"
 usc_title: 7
 usc_section: "6802"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6802"
-generated_at: "2026-03-30T02:53:42.435Z"
+generated_at: "2026-11-23T21:25:28.399Z"
+status: "active"
 ---
 
 # § 6802. Definitions
@@ -55,3 +56,25 @@ As used in this chapter:
   - **(11)** The term “Secretary” means the Secretary of Agriculture.
   - **(12)** The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the United States Virgin Islands, Guam, American Samoa, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau (until such time as the Compact of Free Association is ratified).
   - **(13)** The term “United States” means the States collectively.
+
+(aa) bouquet manufacturers (subject to paragraph (2)(B));
+
+(bb) an auction house that clears the sale of cut flowers and cut greens to retailers and exempt handlers through a central clearinghouse; and
+
+(cc) a distribution center that is owned or controlled by a retailer if the predominant retail business activity of the retailer is floral sales.
+
+(aa) Importer The term “importer” has the meaning provided in section 6804(b)(2)(B)(i)(I) of this title .
+
+(bb) Producer The term “producer” has the meaning provided in section 6804(b)(2)(B)(ii)(I) of this title .
+
+(aa) the price paid by the distribution center or importer, respectively, to acquire the cut flowers or cut greens; and
+
+(bb) an amount determined by multiplying the acquisition price referred to in item (aa) by a uniform percentage established by an order to represent the mark-up of a wholesale handler on a sale to a retailer.
+
+(aa) recommendation by the PromoFlor Council; and
+
+(bb) approval by the Secretary after public notice and opportunity for comment in accordance with section 553 of title 5 and without regard to sections 556 and 557 of such title.
+
+## Source Credit
+
+*([Pub. L. 103–190, § 3](https://www.govinfo.gov/link/plaw/103/public/190), Dec. 14, 1993, [107 Stat. 2268](https://www.govinfo.gov/link/statute/107/2268).)*

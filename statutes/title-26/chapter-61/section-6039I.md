@@ -3,9 +3,10 @@ title: "Section 6039I - Returns and records with respect to employer-owned life 
 usc_title: 26
 usc_section: "6039I"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6039I"
-generated_at: "2026-03-30T02:55:27.832Z"
+generated_at: "2026-11-23T21:26:06.767Z"
+status: "active"
 ---
 
 # § 6039I. Returns and records with respect to employer-owned life insurance contracts
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:27.832Z"
   - **(5)** that the applicable policyholder has a valid consent for each insured employee (or, if all such consents are not obtained, the number of insured employees for whom such consent was not obtained).
 - **(b)** Each applicable policyholder owning 1 or more employer-owned life insurance contracts during any year shall keep such records as may be necessary for purposes of determining whether the requirements of this section and section 101(j) are met.
 - **(c)** Any term used in this section which is used in section 101(j) shall have the same meaning given such term by section 101(j).
+
+## Source Credit
+
+*(Added [Pub. L. 109–280, title VIII, § 863(b)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1023](https://www.govinfo.gov/link/statute/120/1023).)*

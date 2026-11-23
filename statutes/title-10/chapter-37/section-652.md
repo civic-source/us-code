@@ -3,9 +3,10 @@ title: "Section 652 - Notice to Congress of proposed changes in units, assignmen
 usc_title: 10
 usc_section: "652"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 652"
-generated_at: "2026-03-30T02:53:38.072Z"
+generated_at: "2026-11-23T21:25:32.308Z"
+status: "active"
 ---
 
 # § 652. Notice to Congress of proposed changes in units, assignments, etc. to which female members may be assigned
@@ -30,3 +31,11 @@ generated_at: "2026-03-30T02:53:38.072Z"
     - **(A)** Any type of unit not covered by subsection (a).
     - **(B)** Any class of combat vessel.
     - **(C)** Any type of combat platform.
+
+Rule for Ground Combat Personnel Policy
+
+Other Personnel Policy Changes
+
+## Source Credit
+
+*(Added [Pub. L. 109–163, div. A, title V, § 541(a)(1)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3251](https://www.govinfo.gov/link/statute/119/3251); amended [Pub. L. 114–92, div. A, title V, § 524](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 813](https://www.govinfo.gov/link/statute/129/813); [Pub. L. 115–232, div. A, title VIII, § 809(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1840](https://www.govinfo.gov/link/statute/132/1840).)*

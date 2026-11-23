@@ -3,9 +3,10 @@ title: "Section 10661 - Authority to make grants to address public safety and me
 usc_title: 34
 usc_section: "10661"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10661"
-generated_at: "2026-03-30T02:55:33.275Z"
+generated_at: "2026-11-23T21:26:09.686Z"
+status: "active"
 ---
 
 # § 10661. Authority to make grants to address public safety and methamphetamine manufacturing, sale, and use in hot spots
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:33.275Z"
     - **(B)** reimburse the Drug Enforcement Administration for expenses related to the clean up of methamphetamine clandestine labs;
     - **(C)** support State, Tribal, and local health department and environmental agency services deployed to address methamphetamine; and
     - **(D)** procure equipment, technology, or support systems, or pay for resources, if the applicant for such a grant demonstrates to the satisfaction of the Attorney General that expenditures for such purposes would result in the reduction in the use, sale, and manufacture of methamphetamine.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2996](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 109–177, title VII, § 754](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 274](https://www.govinfo.gov/link/statute/120/274); amended [Pub. L. 110–161, div. B, title II, § 220(a)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 1916](https://www.govinfo.gov/link/statute/121/1916).)*

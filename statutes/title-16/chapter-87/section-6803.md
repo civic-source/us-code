@@ -3,9 +3,10 @@ title: "Section 6803 - Public participation"
 usc_title: 16
 usc_section: "6803"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6803"
-generated_at: "2026-03-30T02:54:23.067Z"
+generated_at: "2026-11-23T21:25:52.052Z"
+status: "active"
 ---
 
 # § 6803. Public participation
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:54:23.067Z"
     - **(A)** All meetings of a Recreation Resource Advisory Committee shall be announced at least one week in advance in a local newspaper of record and the Federal Register, and shall be open to the public.
     - **(B)** A Recreation Resource Advisory Committee shall maintain records of the meetings of the Recreation Resource Advisory Committee and make the records available for public inspection.
   - **(12)** A Recreation Resource Advisory Committee is subject to the provisions of chapter 10 of title 5.
+
+## Source Credit
+
+*([Pub. L. 108–447, div. J, title VIII, § 804](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3382](https://www.govinfo.gov/link/statute/118/3382); [Pub. L. 117–286, § 4(a)(132)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4320](https://www.govinfo.gov/link/statute/136/4320); [Pub. L. 118–234, title II, § 225](https://www.govinfo.gov/link/plaw/118/public/234), title III, § 311(c), Jan. 4, 2025, [138 Stat. 2888](https://www.govinfo.gov/link/statute/138/2888), 2897.)*

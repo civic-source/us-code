@@ -3,9 +3,10 @@ title: "Section 12893 - Implementation grants"
 usc_title: 42
 usc_section: "12893"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12893"
-generated_at: "2026-03-30T02:56:11.434Z"
+generated_at: "2026-11-23T21:26:33.569Z"
+status: "active"
 ---
 
 # § 12893. Implementation grants
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:56:11.434Z"
   - **(6)** national geographic diversity among housing for which applicants are selected to receive assistance; and
   - **(7)** the extent to which a sufficient supply of affordable rental housing of the type assisted under this part exists in the locality, so that the implementation of the homeownership program will not appreciably reduce the number of such rental units available to residents currently residing in such units or eligible for residency in such units.
 - **(f)** The Secretary shall notify each applicant, not later than 6 months after the date of the submission of the application, whether the application is approved or not approved.
+
+## Source Credit
+
+*([Pub. L. 101–625, title IV, § 443](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4174](https://www.govinfo.gov/link/statute/104/4174); [Pub. L. 102–550, title X, § 1012(j)(2)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3906](https://www.govinfo.gov/link/statute/106/3906); [Pub. L. 103–233, title II, § 221](https://www.govinfo.gov/link/plaw/103/public/233), Apr. 11, 1994, [108 Stat. 366](https://www.govinfo.gov/link/statute/108/366).)*

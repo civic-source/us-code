@@ -3,9 +3,10 @@ title: "Section 5569 - Benefits for captives"
 usc_title: 5
 usc_section: "5569"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5569"
-generated_at: "2026-03-30T02:52:56.022Z"
+generated_at: "2026-11-23T21:25:23.287Z"
+status: "active"
 ---
 
 # § 5569. Benefits for captives
@@ -80,3 +81,27 @@ generated_at: "2026-03-30T02:52:56.022Z"
 - **(i)** Notwithstanding any other provision of this subchapter, any determination by the President under subsection (a)(2) or (d) shall be conclusive and shall not be subject to judicial review.
 - **(j)** The President may prescribe regulations necessary to administer this section.
 - **(k)** Any benefit or payment pursuant to this section shall be paid out of funds available for salaries and expenses of the relevant agency of the United States.
+
+Savings Fund.—
+
+Medical and Health Care; Educational Expenses.—
+
+Definition.—
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Ronald Reagan.
+
+## Source Credit
+
+*(Added [Pub. L. 99–399, title VIII, § 803(a)](https://www.govinfo.gov/link/plaw/99/public/399), Aug. 27, 1986, [100 Stat. 879](https://www.govinfo.gov/link/statute/100/879); amended [Pub. L. 102–83, § 5(c)(2)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 108–189, § 2(b)(2)](https://www.govinfo.gov/link/plaw/108/public/189), Dec. 19, 2003, [117 Stat. 2865](https://www.govinfo.gov/link/statute/117/2865).)*

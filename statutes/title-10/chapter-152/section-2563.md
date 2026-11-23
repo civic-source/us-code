@@ -3,9 +3,10 @@ title: "Section 2563 - Articles and services of industrial facilities: sale to p
 usc_title: 10
 usc_section: "2563"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2563"
-generated_at: "2026-03-30T02:53:38.163Z"
+generated_at: "2026-11-23T21:25:32.626Z"
+status: "active"
 ---
 
 # § 2563. Articles and services of industrial facilities: sale to persons outside the Department of Defense
@@ -42,3 +43,21 @@ generated_at: "2026-03-30T02:53:38.163Z"
   - **(3)** The term “variable costs”, with respect to sales of articles or services, means the costs that are expected to fluctuate directly with the volume of sales and—
     - **(A)** in the case of articles, the volume of production necessary to satisfy the sales orders; or
     - **(B)** in the case of services, the extent of the services sold.
+
+Authority To Sell Outside DOD
+
+Designation of Participating Industrial Facilities
+
+Conditions for Sales
+
+Methods of Sale
+
+Deposit of Proceeds
+
+Relationship to Arms Export Control Act
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title III, § 339(a)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2718](https://www.govinfo.gov/link/statute/108/2718), § 2553; amended [Pub. L. 106–65, div. A, title III, § 331(a)(2)](https://www.govinfo.gov/link/plaw/106/public/65), (b), Oct. 5, 1999, [113 Stat. 566](https://www.govinfo.gov/link/statute/113/566), 567; renumbered § 2563, [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1033(b)(1)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–260; [Pub. L. 107–107, div. A, title III, § 343(a)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1061](https://www.govinfo.gov/link/statute/115/1061); [Pub. L. 115–232, div. A, title VIII, § 809(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1840](https://www.govinfo.gov/link/statute/132/1840).)*

@@ -3,9 +3,10 @@ title: "Section 2601 - General gift funds"
 usc_title: 10
 usc_section: "2601"
 chapter: 155
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2601"
-generated_at: "2026-03-30T02:53:38.165Z"
+generated_at: "2026-11-23T21:25:32.634Z"
+status: "active"
 ---
 
 # § 2601. General gift funds
@@ -55,3 +56,48 @@ generated_at: "2026-03-30T02:53:38.165Z"
 - **(j)** In this section:
   - **(1)** The term “Secretary concerned” includes the Secretary of Defense.
   - **(2)** The term “services” includes activities that benefit the education, morale, welfare, or recreation of members of the armed forces and their dependents or are related or incidental to the conveyance of a gift, devise, or bequest of real property or personal property under subsection (a) or (b).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 2601(a) 2601(b) | 5:150q. 5:150r. | Mar. 11, 1948, ch. 107 , 62 Stat. 71 . |
+| 2601(c) | 5:150s. |  |
+| 2601(d) | 5:150t. |  |
+
+
+General Authority to Accept Gifts
+
+Additional Authority to Accept Gifts to Benefit Certain Members, Dependents, and Civilian Employees
+
+Gift Funds
+
+Use of Gifts; Prohibitions
+
+Acceptance of Property Gifts; Naming Rights
+
+Payment of Expenses
+
+Treatment of Gifts
+
+Management of Funds
+
+Comptroller General Review
+
+Definitions
+
+Historical and Revision Notes
+
+2601(a)
+
+2601(b)
+
+Mar. 11, 1948, ch. 107
+
+62 Stat. 71
+
+2601(c)
+
+2601(d)
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 144; [Pub. L. 96–513, title V, § 511(86)](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2927](https://www.govinfo.gov/link/statute/94/2927); [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 109–163, div. A, title III, § 374](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3211](https://www.govinfo.gov/link/statute/119/3211); [Pub. L. 110–181, div. A, title V, § 593(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 138](https://www.govinfo.gov/link/statute/122/138); [Pub. L. 112–239, div. A, title V, § 587(a)](https://www.govinfo.gov/link/plaw/112/public/239), div. B, title XXVIII, § 2852(a), Jan. 2, 2013, [126 Stat. 1768](https://www.govinfo.gov/link/statute/126/1768), 2160; [Pub. L. 114–92, div. B, title XXVIII, § 2812](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1174](https://www.govinfo.gov/link/statute/129/1174); [Pub. L. 116–283, div. B, title XXVIII, § 2821](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4330](https://www.govinfo.gov/link/statute/134/4330); [Pub. L. 118–159, div. A, title V, § 556](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1896](https://www.govinfo.gov/link/statute/138/1896).)*

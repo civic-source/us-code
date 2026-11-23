@@ -3,9 +3,10 @@ title: "Section 30507 - Jabara-Heyer NO HATE Act"
 usc_title: 34
 usc_section: "30507"
 chapter: 305
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 30507"
-generated_at: "2026-03-30T02:55:33.307Z"
+generated_at: "2026-11-23T21:26:09.826Z"
+status: "active"
 ---
 
 # § 30507. Jabara-Heyer NO HATE Act
@@ -117,3 +118,11 @@ generated_at: "2026-03-30T02:55:33.307Z"
         - **(I)** the total number of trainings conducted by each agency; and
         - **(II)** the duration of the trainings described in subclause (I).
 - **(h)**
+
+(aa) establishing a liaison with formal community-based organizations or leaders; and
+
+(bb) conducting public meetings or educational forums on the impact of hate crime, services available to hate crime victims, and the relevant Federal, State, and local laws pertaining to hate crime; and
+
+## Source Credit
+
+*([Pub. L. 117–13, § 5](https://www.govinfo.gov/link/plaw/117/public/13), May 20, 2021, [135 Stat. 266](https://www.govinfo.gov/link/statute/135/266).)*

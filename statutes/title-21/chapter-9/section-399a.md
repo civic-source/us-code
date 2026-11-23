@@ -3,9 +3,10 @@ title: "Section 399a - Office of the Chief Scientist"
 usc_title: 21
 usc_section: "399a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 399a"
-generated_at: "2026-03-30T02:54:54.283Z"
+generated_at: "2026-11-23T21:25:56.195Z"
+status: "active"
 ---
 
 # § 399a. Office of the Chief Scientist
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:54.283Z"
     - **(A)** representatives of each of the centers and the science-based offices within the Office of the Commissioner; and
     - **(B)** experts on trial design, epidemiology, demographics, pharmacovigilance, basic science, and public health; and
   - **(6)** develop postmarket safety performance measures that are as measurable and rigorous as the ones already developed for premarket review.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 1010, formerly § 910, as added [Pub. L. 110–85, title VI, § 602](https://www.govinfo.gov/link/plaw/110/public/85), Sept. 27, 2007, [121 Stat. 898](https://www.govinfo.gov/link/statute/121/898); renumbered § 1010, [Pub. L. 111–31, div. A, title I, § 101(b)(2)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1784](https://www.govinfo.gov/link/statute/123/1784).)*

@@ -3,9 +3,10 @@ title: "Section 6 - Civil actions by aggrieved persons"
 usc_title: 42
 usc_section: "6"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-30T02:56:11.140Z"
+generated_at: "2026-11-23T21:26:32.295Z"
+status: "active"
 ---
 
 # § 2000aa–6. Civil actions by aggrieved persons
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.140Z"
 - **(f)** A person having a cause of action under this section shall be entitled to recover actual damages but not less than liquidated damages of $1,000, and such reasonable attorneys’ fees and other litigation costs reasonably incurred as the court, in its discretion, may award: Provided, however , That the United States, a State, or any other governmental unit shall not be liable for interest prior to judgment.
 - **(g)** The Attorney General may settle a claim for damages brought against the United States under this section, and shall promulgate regulations to provide for the commencement of an administrative inquiry following a determination of a violation of this chapter by an officer or employee of the United States and for the imposition of administrative sanctions against such officer or employee, if warranted.
 - **(h)** The district courts shall have original jurisdiction of all civil actions arising under this section.
+
+## Source Credit
+
+*([Pub. L. 96–440, title I, § 106](https://www.govinfo.gov/link/plaw/96/public/440), Oct. 13, 1980, [94 Stat. 1880](https://www.govinfo.gov/link/statute/94/1880).)*

@@ -3,9 +3,10 @@ title: "Section 9406 - Program authorized"
 usc_title: 20
 usc_section: "9406"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9406"
-generated_at: "2026-03-30T02:54:48.225Z"
+generated_at: "2026-11-23T21:25:47.653Z"
+status: "active"
 ---
 
 # § 9406. Program authorized
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:48.225Z"
   - **(2)** State responsibilities described in section 9410(d) of this title shall be carried out by the Local Council with regard to the locality;
   - **(3)** the Secretary shall provide such technical assistance and monitoring as necessary to ensure that the use of the funds by Local Councils and the distribution of the funds to Local Councils are consistent with this chapter; and
   - **(4)** subject to paragraph (1), the Secretary shall assume the responsibilities of the Lead State Agency under this chapter, as appropriate.
+
+## Source Credit
+
+*([Pub. L. 106–554, § 1(a)(1) [title VIII, § 807]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–82.)*

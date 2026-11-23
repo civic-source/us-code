@@ -3,9 +3,10 @@ title: "Section 6591d - Wildfire resilience projects"
 usc_title: 16
 usc_section: "6591d"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6591d"
-generated_at: "2026-03-30T02:54:23.063Z"
+generated_at: "2026-11-23T21:25:52.046Z"
+status: "active"
 ---
 
 # § 6591d. Wildfire resilience projects
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:54:23.063Z"
     - **(C)** the Committee on Agriculture of the House of Representatives;
     - **(D)** the Committee on Natural Resources of the House of Representatives; and
     - **(E)** the Government Accountability Office.
+
+## Source Credit
+
+*([Pub. L. 108–148, title VI, § 605](https://www.govinfo.gov/link/plaw/108/public/148), as added [Pub. L. 115–141, div. O, title II, § 202](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1062](https://www.govinfo.gov/link/statute/132/1062).)*

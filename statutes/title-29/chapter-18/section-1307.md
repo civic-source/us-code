@@ -3,9 +3,10 @@ title: "Section 1307 - Payment of premiums"
 usc_title: 29
 usc_section: "1307"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1307"
-generated_at: "2026-03-30T02:55:18.730Z"
+generated_at: "2026-11-23T21:26:02.285Z"
+status: "active"
 ---
 
 # § 1307. Payment of premiums
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:18.730Z"
     - **(A)** the contributing sponsor or plan administrator in the case of a single-employer plan, and
     - **(B)** the plan administrator in the case of a multiemployer plan.
   - **(2)** If the contributing sponsor of any single-employer plan is a member of a controlled group, each member of such group shall be jointly and severally liable for any premiums required to be paid by such contributing sponsor. For purposes of the preceding sentence, the term “controlled group” means any group treated as a single employer under subsection (b), (c), (m), or ( o ) of section 414 of title 26 .
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4007](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 1013](https://www.govinfo.gov/link/statute/88/1013); [Pub. L. 96–364, title IV](https://www.govinfo.gov/link/plaw/96/public/364), §§ 402(a)(3), 403(b), Sept. 26, 1980, [94 Stat. 1298](https://www.govinfo.gov/link/statute/94/1298), 1300; [Pub. L. 100–203, title IX, § 9331(c)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–368](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 101–239, title VII, § 7891(a)(1)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2445](https://www.govinfo.gov/link/statute/103/2445); [Pub. L. 109–280, title IV, § 406(a)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 929](https://www.govinfo.gov/link/statute/120/929).)*

@@ -3,9 +3,10 @@ title: "Section 1627 - Creation of special funds in Treasury"
 usc_title: 22
 usc_section: "1627"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1627"
-generated_at: "2026-03-30T02:55:05.334Z"
+generated_at: "2026-11-23T21:25:58.405Z"
+status: "active"
 ---
 
 # § 1627. Creation of special funds in Treasury
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:05.334Z"
     - **(A)** For the purpose of computing the payments to be made under paragraph (1) to any claimant which was an incorporated business enterprise on the date of nationalization or other taking of property, the award certified by the Commission under subchapter V shall be reduced by the amount of Federal tax benefits derived by such claimant on account of the losses upon which such claim was based, but in no case shall such payments be reduced below the amount paid to such claimant on account of such claim before October 13, 1980 . For purposes of this subparagraph, such Federal tax benefits shall be the amount by which the claimant’s taxes in any prior taxable year or years under chapters 1, 2A, 2B, 2D, and 2E of the Internal Revenue Code of 1939, or subtitle A of the Internal Revenue Code of 1986, were decreased with respect to the loss or losses upon which the claim was based. The sum of the amounts which would otherwise be payable but for this paragraph which are not paid to any such claimant shall be aggregated, and the Secretary of the Treasury is authorized and directed to make payments out of such aggregated sums in accordance with subparagraph (B).
     - **(B)** To the extent that there remain unpaid principal balances on awards to claimants which were, on the date of nationalization or other taking of property, nonprofit organizations operated exclusively for the promotion of social welfare, religious, charitable, or educational purposes (after payments made to such nonprofit organizations pursuant to subparagraphs (A) and (B) of paragraph (1) are taken into account), the Secretary of the Treasury is authorized and directed to make payments from time to time on account of the unpaid principal balance of each remaining award to such nonprofit organizations which bear to such unpaid principal balance the same proportion as the total sums aggregated pursuant to subparagraph (A) at the times such payments are made bear to the aggregate unpaid principal balance of all such awards to nonprofit organizations.
 - **(g)** The Secretary of the Treasury is authorized and directed to invest the amounts held respectively in the “special funds” established by this section in public debt securities with maturities suitable for the needs of the separate accounts and bearing interest at rates determined by the Secretary, taking into consideration the average market yield on outstanding marketable obligations of the United States of comparable maturities. The interest earned on the amounts in each special fund shall be used to make payments, in accordance with subsection (c), on awards payable from that special fund.
+
+## Source Credit
+
+*(Mar. 10, 1950, ch. 54, title I, § 8, [64 Stat. 17](https://www.govinfo.gov/link/statute/64/17); Aug. 9, 1955, ch. 645, § 1, [69 Stat. 562](https://www.govinfo.gov/link/statute/69/562); [Pub. L. 90–421, § 1(4)](https://www.govinfo.gov/link/plaw/90/public/421), (5), July 24, 1968, [82 Stat. 420](https://www.govinfo.gov/link/statute/82/420); [Pub. L. 96–445](https://www.govinfo.gov/link/plaw/96/public/445), Oct. 13, 1980, [94 Stat. 1891](https://www.govinfo.gov/link/statute/94/1891); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 100–204, title I, § 142(a)](https://www.govinfo.gov/link/plaw/100/public/204), Dec. 22, 1987, [101 Stat. 1350](https://www.govinfo.gov/link/statute/101/1350).)*

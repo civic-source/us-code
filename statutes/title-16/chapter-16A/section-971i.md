@@ -3,9 +3,10 @@ title: "Section 971i - Research on Atlantic highly migratory species"
 usc_title: 16
 usc_section: "971i"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 971i"
-generated_at: "2026-03-30T02:54:22.937Z"
+generated_at: "2026-11-23T21:25:51.799Z"
+status: "active"
 ---
 
 # § 971i. Research on Atlantic highly migratory species
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:22.937Z"
     - **(B)** provide for comparable monitoring of all United States fishermen to which the Atlantic Tunas Convention Act of 1975 applies with respect to effort and species composition of catch and discards;
     - **(C)** consult with relevant Federal and State agencies, scientific and technical experts, commercial and recreational fishermen, and other interested persons, public and private, and shall publish a proposed plan in the Federal Register for the purpose of receiving public comment on the plan; and
     - **(D)** through the Secretary of State, encourage other member nations to adopt a similar program.
+
+## Source Credit
+
+*([Pub. L. 96–339, § 3](https://www.govinfo.gov/link/plaw/96/public/339), Sept. 4, 1980, [94 Stat. 1070](https://www.govinfo.gov/link/statute/94/1070); [Pub. L. 104–43, title III, § 302(b)](https://www.govinfo.gov/link/plaw/104/public/43), Nov. 3, 1995, [109 Stat. 382](https://www.govinfo.gov/link/statute/109/382); [Pub. L. 105–384, title II, § 202(b)(2)](https://www.govinfo.gov/link/plaw/105/public/384), Nov. 13, 1998, [112 Stat. 3453](https://www.govinfo.gov/link/statute/112/3453); [Pub. L. 109–479, title IV, § 405(b)](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3633](https://www.govinfo.gov/link/statute/120/3633).)*

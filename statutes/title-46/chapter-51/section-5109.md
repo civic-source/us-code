@@ -3,12 +3,17 @@ title: "Section 5109 - Reciprocity for foreign vessels"
 usc_title: 46
 usc_section: "5109"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 5109"
-generated_at: "2026-03-30T02:56:15.549Z"
+generated_at: "2026-11-23T21:26:37.071Z"
+status: "active"
 ---
 
 # § 5109. Reciprocity for foreign vessels
 
 - **(a)** When the Secretary finds that the laws and regulations of a foreign country related to load lines are similar to those of this chapter and the regulations prescribed under this chapter, or when a foreign country is a party to an international load line agreement to which the United States Government is a party, the Secretary shall accept the load line marks and certificate of a vessel of that foreign country as complying with this chapter and the regulations prescribed under this chapter. The Secretary may control the vessel as provided for in the applicable international agreement.
 - **(b)** Subsection (a) of this section does not apply to a vessel of a foreign country that does not recognize load lines assigned under this chapter.
+
+## Source Credit
+
+*([Pub. L. 99–509, title V, § 5101(2)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1917](https://www.govinfo.gov/link/statute/100/1917).)*

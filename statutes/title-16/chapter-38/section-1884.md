@@ -3,9 +3,10 @@ title: "Section 1884 - Deep sea coral research and technology program"
 usc_title: 16
 usc_section: "1884"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1884"
-generated_at: "2026-03-30T02:54:22.995Z"
+generated_at: "2026-11-23T21:25:51.936Z"
+status: "active"
 ---
 
 # § 1884. Deep sea coral research and technology program
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:22.995Z"
   - **(5)** to develop technologies or methods designed to assist fishing industry participants in reducing interactions between fishing gear and deep sea corals; and
   - **(6)** to prioritize program activities in areas where deep sea corals are known to occur, and in areas where scientific modeling or other methods predict deep sea corals are likely to be present.
 - **(b)** Beginning 1 year after January 12, 2007 , the Secretary, in consultation with the Councils, shall submit biennial reports to Congress and the public on steps taken by the Secretary to identify, monitor, and protect deep sea coral areas, including summaries of the results of mapping, research, and data collection performed under the program.
+
+## Source Credit
+
+*([Pub. L. 94–265, title IV, § 408](https://www.govinfo.gov/link/plaw/94/public/265), as added [Pub. L. 109–479, title II, § 211](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3618](https://www.govinfo.gov/link/statute/120/3618).)*

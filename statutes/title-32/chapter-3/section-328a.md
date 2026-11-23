@@ -3,9 +3,10 @@ title: "Section 328a - Active Guard and Reserve duty: State disaster response du
 usc_title: 32
 usc_section: "328a"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "32 U.S.C. § 328a"
-generated_at: "2026-03-30T02:55:31.866Z"
+generated_at: "2026-11-23T21:26:08.292Z"
+status: "active"
 ---
 
 # § 328a. Active Guard and Reserve duty: State disaster response duty
@@ -30,3 +31,17 @@ generated_at: "2026-03-30T02:55:31.866Z"
 - **(e)** In this section:
   - **(1)** The term “Active Guard and Reserve duty” has the meaning given such term in section 101 of title 10 .
   - **(2)** The term “State” has the meaning given such term in section 901 of this title .
+
+Authority
+
+Requirements
+
+Reimbursement
+
+Limitation of Liability
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title V, § 512(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 860](https://www.govinfo.gov/link/statute/139/860).)*

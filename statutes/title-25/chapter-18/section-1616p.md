@@ -3,9 +3,10 @@ title: "Section 1616p - Health professional chronic shortage demonstration progr
 usc_title: 25
 usc_section: "1616p"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1616p"
-generated_at: "2026-03-30T02:54:52.819Z"
+generated_at: "2026-11-23T21:25:54.616Z"
+status: "active"
 ---
 
 # § 1616p. Health professional chronic shortage demonstration programs
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:52.819Z"
   - **(3)** to provide academic and scholarly opportunities for health professionals serving Indians by identifying all academic and scholarly resources of the region; and
   - **(4)** to provide training and support for alternative provider types, such as community health representatives, and community health aides.
 - **(c)** The demonstration programs established pursuant to subsection (a) shall incorporate a program advisory board, which may be composed of representatives of tribal governments, Indian health programs, and Indian communities in the areas to be served by the demonstration programs.
+
+## Source Credit
+
+*([Pub. L. 94–437, title I, § 123](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

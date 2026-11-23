@@ -3,9 +3,10 @@ title: "Section 1022e - Inflation"
 usc_title: 15
 usc_section: "1022e"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1022e"
-generated_at: "2026-03-30T02:54:08.124Z"
+generated_at: "2026-11-23T21:25:39.775Z"
+status: "active"
 ---
 
 # § 1022e. Inflation
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.124Z"
   - **(6)** removal or proper modification of such Government restrictions and regulations as added unnecessarily to inflationary costs;
   - **(7)** increasing exports and improving the international competitive position of agriculture, business, and industry; and
   - **(8)** such other administrative actions and recommendations for legislation as the President deems desirable, to promote reasonable price stability.
+
+## Source Credit
+
+*(Feb. 20, 1946, ch. 33, § 8, as added [Pub. L. 95–523, title I, § 109](https://www.govinfo.gov/link/plaw/95/public/523), Oct. 27, 1978, [92 Stat. 1898](https://www.govinfo.gov/link/statute/92/1898).)*

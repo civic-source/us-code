@@ -3,9 +3,10 @@ title: "Section 7521 - Actions against administrative law judges"
 usc_title: 5
 usc_section: "7521"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 7521"
-generated_at: "2026-03-30T02:52:56.039Z"
+generated_at: "2026-11-23T21:25:23.342Z"
+status: "active"
 ---
 
 # § 7521. Actions against administrative law judges
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:52:56.039Z"
     - **(A)** a suspension or removal under section 7532 of this title ;
     - **(B)** a reduction-in-force action under section 3502 of this title ; or
     - **(C)** any action initiated under section 1215 of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title II, § 204(a)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1137](https://www.govinfo.gov/link/statute/92/1137); amended [Pub. L. 101–12, § 9(a)(2)](https://www.govinfo.gov/link/plaw/101/public/12), Apr. 10, 1989, [103 Stat. 35](https://www.govinfo.gov/link/statute/103/35).)*

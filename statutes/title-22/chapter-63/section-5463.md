@@ -3,9 +3,10 @@ title: "Section 5463 - Encouraging voluntary assistance for Poland and Hungary"
 usc_title: 22
 usc_section: "5463"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5463"
-generated_at: "2026-03-30T02:55:05.418Z"
+generated_at: "2026-11-23T21:25:58.663Z"
+status: "active"
 ---
 
 # § 5463. Encouraging voluntary assistance for Poland and Hungary
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.418Z"
   - **(1)** using all available authorities, including section 402 of title 10 (relating to transportation of humanitarian relief supplies), should use resources of the Department of Defense (including the National Guard) to transport nonfinancial private contributions to Poland, 2 2 So in original. The comma probably should be a semicolon.
   - **(2)** should request additional authorities as needed for the use of those resources for that purpose; and
   - **(3)** should encourage maximum participation by such recognized private and voluntary organizations as the Polish-American Congress in the transportation of nonfinancial private contributions to Poland.
+
+## Source Credit
+
+*([Pub. L. 101–179, title VI, § 603](https://www.govinfo.gov/link/plaw/101/public/179), Nov. 28, 1989, [103 Stat. 1319](https://www.govinfo.gov/link/statute/103/1319).)*

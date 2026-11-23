@@ -3,9 +3,10 @@ title: "Section 7n - Disclosure of predictive modeling and other analytics techn
 usc_title: 42
 usc_section: "7n"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7n"
-generated_at: "2026-03-30T02:56:10.913Z"
+generated_at: "2026-11-23T21:26:31.269Z"
+status: "active"
 ---
 
 # § 1320a–7n. Disclosure of predictive modeling and other analytics technologies to identify and prevent waste, fraud, and abuse
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:10.913Z"
 - **(c)** In this section, the term “covered algorithm”—
   - **(1)** means a predictive modeling or other analytics technology, as used for purposes of section 1320a–7m(a) of this title to identify and prevent waste, fraud, and abuse with respect to the Medicare program under subchapter XVIII, the Medicaid program under subchapter XIX, and the Children’s Health Insurance Program under subchapter XXI; and
   - **(2)** includes the mathematical expressions utilized in the application of such technology and the means by which such technology is developed.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XI, § 1128K, as added [Pub. L. 114–198, title VII, § 706(a)](https://www.govinfo.gov/link/plaw/114/public/198), July 22, 2016, [130 Stat. 753](https://www.govinfo.gov/link/statute/130/753).)*

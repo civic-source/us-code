@@ -3,9 +3,10 @@ title: "Section 77uuu - Special powers of the Commission"
 usc_title: 15
 usc_section: "77uuu"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 77uuu"
-generated_at: "2026-03-30T02:54:08.037Z"
+generated_at: "2026-11-23T21:25:39.516Z"
+status: "active"
 ---
 
 # § 77uuu. Special powers of the Commission
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.037Z"
 - **(d)** The provisions section 78d(b) of this title shall be applicable with respect to the power of the Commission—
   - **(1)** to appoint and fix the compensation of such employees as may be necessary for carrying out its functions under this subchapter, and
   - **(2)** to lease and allocate such real property as may be necessary for carrying out its functions under this subchapter.
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title III, § 321, as added Aug. 3, 1939, ch. 411, [53 Stat. 1174](https://www.govinfo.gov/link/statute/53/1174); amended [Pub. L. 101–550, title I, § 104(b)](https://www.govinfo.gov/link/plaw/101/public/550), Nov. 15, 1990, [104 Stat. 2714](https://www.govinfo.gov/link/statute/104/2714).)*

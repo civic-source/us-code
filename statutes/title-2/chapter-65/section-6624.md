@@ -3,9 +3,10 @@ title: "Section 6624 - Metered charges on copiers; “Sergeant at Arms” and �
 usc_title: 2
 usc_section: "6624"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 6624"
-generated_at: "2026-03-30T02:53:04.843Z"
+generated_at: "2026-11-23T21:25:21.366Z"
+status: "active"
 ---
 
 # § 6624. Metered charges on copiers; “Sergeant at Arms” and “user” defined; certification of services and equipment as official; deposit of payments; availability for expenditure
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:04.843Z"
 - **(b)**
   - **(1)** Subject to such regulations as may on and after November 5, 1990 , be issued by the Committee on Rules and Administration of the Senate, the Sergeant at Arms shall have the authority, with respect to metered charges on copying equipment provided by the Sergeant at Arms, solely for the purposes of this section, to make such certification as may be necessary to establish such services and equipment as official, issue invoices in conjunction therewith, and receive payment for such services and equipment by certification, voucher, or otherwise.
   - **(2)** All moneys, derived from the payment of metered charges on copying equipment provided from funds from the Appropriation Account within the contingent fund of the Senate for “Contingent Expenses, Sergeant at Arms and Doorkeeper of the Senate” under the line item for the Service Department, shall be deposited in and made a part of such Appropriation Account and under such line item, and shall be available for expenditure or obligation, or both, in like manner and subject to the same limitations as any other moneys in such account and under such line item.
+
+## Source Credit
+
+*([Pub. L. 101–520, title I, § 4(a)](https://www.govinfo.gov/link/plaw/101/public/520), (b), Nov. 5, 1990, [104 Stat. 2257](https://www.govinfo.gov/link/statute/104/2257).)*

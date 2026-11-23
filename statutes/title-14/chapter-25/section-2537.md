@@ -3,9 +3,10 @@ title: "Section 2537 - Accountability and transparency relating to allegations o
 usc_title: 14
 usc_section: "2537"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 2537"
-generated_at: "2026-03-30T02:53:51.501Z"
+generated_at: "2026-11-23T21:25:35.437Z"
+status: "active"
 ---
 
 # § 2537. Accountability and transparency relating to allegations of misconduct against senior leaders
@@ -31,3 +32,21 @@ generated_at: "2026-03-30T02:53:51.501Z"
     - **(B)** an officer of the Coast Guard selected for promotion to the grade of O–7;
     - **(C)** a current or former civilian member of the Senior Executive Service (career reserved) employed by the Coast Guard; or
     - **(D)** any civilian member of the Coast Guard whose position is deemed equivalent to that of a member of the Senior Executive Service (career reserved), as determined by the Office of the Inspector General of the department in which the Coast Guard is operating.
+
+In General
+
+Elements
+
+First Right to Exclusive Investigation
+
+Public Availability and Broad Dissemination
+
+Definitions
+
+Alleged misconduct
+
+Senior leader of the coast guard
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. G, title LXXV, § 7511(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1804](https://www.govinfo.gov/link/statute/139/1804).)*

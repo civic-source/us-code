@@ -3,9 +3,10 @@ title: "Section 7506 - Annual report"
 usc_title: 16
 usc_section: "7506"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 7506"
-generated_at: "2026-03-30T02:54:23.076Z"
+generated_at: "2026-11-23T21:25:52.067Z"
+status: "active"
 ---
 
 # § 7506. Annual report
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:23.076Z"
   - **(1)** a full and complete statement of the receipts, including the source of all receipts, expenditures, and investments of the Fund;
   - **(2)** a statement of the amounts deposited in the Fund and the balance remaining in the Fund at the end of the fiscal year; and
   - **(3)** a description of the expenditures made from the Fund for the fiscal year, including the purpose of the expenditures.
+
+## Source Credit
+
+*([Pub. L. 114–113, div. O, title IX, § 907](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3034](https://www.govinfo.gov/link/statute/129/3034).)*

@@ -3,9 +3,10 @@ title: "Section 2804 - Assistance by other agencies"
 usc_title: 25
 usc_section: "2804"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2804"
-generated_at: "2026-03-30T02:54:52.844Z"
+generated_at: "2026-11-23T21:25:54.677Z"
+status: "active"
 ---
 
 # § 2804. Assistance by other agencies
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:52.844Z"
 - **(g)** The Bureau may accept reimbursement, resources, assistance, or funding from—
   - **(1)** a Federal, tribal, State, or other government agency; or
   - **(2)** the Indian Law Enforcement Foundation established under section 5412(a) 1 1 See References in Text note below. of this title.
+
+## Source Credit
+
+*([Pub. L. 101–379, § 5](https://www.govinfo.gov/link/plaw/101/public/379), Aug. 18, 1990, [104 Stat. 476](https://www.govinfo.gov/link/statute/104/476); [Pub. L. 111–211, title II, § 231(b)](https://www.govinfo.gov/link/plaw/111/public/211), (e), July 29, 2010, [124 Stat. 2273](https://www.govinfo.gov/link/statute/124/2273), 2278.)*

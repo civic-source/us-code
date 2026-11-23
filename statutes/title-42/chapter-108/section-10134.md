@@ -3,9 +3,10 @@ title: "Section 10134 - Site approval and construction authorization"
 usc_title: 42
 usc_section: "10134"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10134"
-generated_at: "2026-03-30T02:56:11.379Z"
+generated_at: "2026-11-23T21:26:33.336Z"
+status: "active"
 ---
 
 # § 10134. Site approval and construction authorization
@@ -42,3 +43,9 @@ generated_at: "2026-03-30T02:56:11.379Z"
   - **(4)** Any environmental impact statement prepared in connection with a repository proposed to be constructed by the Secretary under this part shall, to the extent practicable, be adopted by the Commission in connection with the issuance by the Commission of a construction authorization and license for such repository. To the extent such statement is adopted by the Commission, such adoption shall be deemed to also satisfy the responsibilities of the Commission under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) and no further consideration shall be required, except that nothing in this subsection shall affect any independent responsibilities of the Commission to protect the public health and safety under the Atomic Energy Act of 1954 ( 42 U.S.C. 2011 et seq.).
   - **(5)** Nothing in this chapter shall be construed to amend or otherwise detract from the licensing requirements of the Nuclear Regulatory Commission established in title II of the Energy Reorganization Act of 1974 ( 42 U.S.C. 5841 et seq.).
   - **(6)** In any such statement prepared with respect to the repository to be constructed under this part, the Nuclear Regulatory Commission need not consider the need for a repository, the time of initial availability of a repository, alternate sites to the Yucca Mountain site, or nongeologic alternatives to such site.
+
+“That no later than September 30, 1998 , the Secretary shall provide to the President and to the Congress a viability assessment of the Yucca Mountain site. The viability assessment shall include:
+
+## Source Credit
+
+*([Pub. L. 97–425, title I, § 114](https://www.govinfo.gov/link/plaw/97/public/425), Jan. 7, 1983, [96 Stat. 2213](https://www.govinfo.gov/link/statute/96/2213); [Pub. L. 100–202, § 101(d) [title III, § 300]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–104](https://www.govinfo.gov/link/statute/101/1329), 1329–121; [Pub. L. 100–203, title V, § 5011(h)](https://www.govinfo.gov/link/plaw/100/public/203) –(l), Dec. 22, 1987, [101 Stat. 1330–229](https://www.govinfo.gov/link/statute/101/1330), 1330–230.)*

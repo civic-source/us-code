@@ -3,9 +3,10 @@ title: "Section 1841 - Definitions"
 usc_title: 43
 usc_section: "1841"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1841"
-generated_at: "2026-03-30T02:55:57.494Z"
+generated_at: "2026-11-23T21:26:19.887Z"
+status: "active"
 ---
 
 # § 1841. Definitions
@@ -28,3 +29,7 @@ As used in this subchapter, the term—
   - **(6)** “fishing gear” means (A) any commercial fishing vessel, and (B) any equipment of such vessel, whether or not attached to such a vessel;
   - **(7)** “Fund” means the Fishermen’s Contingency Fund established under section 1842 of this title ; and
   - **(8)** “Secretary” means the Secretary of Commerce or the designee of such Secretary.
+
+## Source Credit
+
+*([Pub. L. 95–372, title IV, § 401](https://www.govinfo.gov/link/plaw/95/public/372), Sept. 18, 1978, [92 Stat. 685](https://www.govinfo.gov/link/statute/92/685); [Pub. L. 97–212](https://www.govinfo.gov/link/plaw/97/public/212), §§ 1, 8, June 30, 1982, [96 Stat. 143](https://www.govinfo.gov/link/statute/96/143), 147.)*

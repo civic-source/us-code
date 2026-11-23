@@ -3,9 +3,10 @@ title: "Section 30172 - Whistleblower incentives and protections"
 usc_title: 49
 usc_section: "30172"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 30172"
-generated_at: "2026-03-30T02:56:19.353Z"
+generated_at: "2026-11-23T21:26:40.767Z"
+status: "active"
 ---
 
 # § 30172. Whistleblower incentives and protections
@@ -66,3 +67,73 @@ generated_at: "2026-03-30T02:56:19.353Z"
   - **(2)** Any determination made by the Secretary under this section may be appealed by a whistleblower to the appropriate court of appeals of the United States not later than 30 days after the determination is issued by the Secretary.
   - **(3)** The court shall review the determination made by the Secretary in accordance with section 706 of title 5 .
 - **(i)** Not later than 18 months after the date of enactment of this section, the Secretary shall promulgate regulations on the requirements of this section, consistent with this section.
+
+Definitions
+
+Covered action
+
+Monetary sanctions
+
+Original information
+
+Part supplier
+
+Successful resolution
+
+Whistleblower
+
+Awards.—
+
+In general
+
+Payment of awards
+
+Determination of Awards; Denial of Awards.—
+
+Determination of awards.—
+
+Discretion
+
+Criteria
+
+Denial of awards
+
+Representation
+
+No Contract Necessary
+
+Protection of Whistleblowers; Confidentiality.—
+
+In general
+
+Redaction
+
+Section 552(b)(3)(b)
+
+Effect
+
+Availability to government agencies.—
+
+In general
+
+Maintenance of information
+
+Provision of False Information
+
+Appeals.—
+
+In general
+
+Appeals
+
+Review
+
+Regulation
+
+Original information
+
+Awards
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. B, title XXIV, § 24352(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1716](https://www.govinfo.gov/link/statute/129/1716).)*

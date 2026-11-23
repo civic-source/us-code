@@ -3,9 +3,10 @@ title: "Section 9805 - Priority country and regional plans"
 usc_title: 22
 usc_section: "9805"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9805"
-generated_at: "2026-03-30T02:55:05.473Z"
+generated_at: "2026-11-23T21:25:58.788Z"
+status: "active"
 ---
 
 # § 9805. Priority country and regional plans
@@ -28,3 +29,7 @@ Not later than one year after December 20, 2019 , the President, in coordination
     - **(E)** the private sector.
   - **(10)** A regional component outlining plans to address relevant transnational issues and how each such country is affected by or at risk of regional fragility or violence.
   - **(11)** When a region is selected, a component outlining plans to address factors at the individual country level that affect regional fragility or violence.
+
+## Source Credit
+
+*([Pub. L. 116–94, div. J, title V, § 506](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3064](https://www.govinfo.gov/link/statute/133/3064).)*

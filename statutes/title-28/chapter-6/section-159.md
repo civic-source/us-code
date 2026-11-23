@@ -3,9 +3,10 @@ title: "Section 159 - Bankruptcy statistics"
 usc_title: 28
 usc_section: "159"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 159"
-generated_at: "2026-03-30T02:55:30.125Z"
+generated_at: "2026-11-23T21:26:01.031Z"
+status: "active"
 ---
 
 # § 159. Bankruptcy statistics
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:30.125Z"
       - **(iii)** the number of cases in which the debtor filed another case during the 6-year period preceding the filing;
     - **(G)** the number of cases in which creditors were fined for misconduct and any amount of punitive damages awarded by the court for creditor misconduct; and
     - **(H)** the number of cases in which sanctions under rule 9011 of the Federal Rules of Bankruptcy Procedure were imposed against the debtor’s attorney or damages awarded under such Rule.
+
+## Source Credit
+
+*(Added [Pub. L. 109–8, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 119](https://www.govinfo.gov/link/statute/119/119); amended [Pub. L. 111–327, § 2(c)(2)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3563](https://www.govinfo.gov/link/statute/124/3563).)*

@@ -3,9 +3,10 @@ title: "Section 3805 - Research and development activities"
 usc_title: 15
 usc_section: "3805"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3805"
-generated_at: "2026-03-30T02:54:08.196Z"
+generated_at: "2026-11-23T21:25:39.984Z"
+status: "active"
 ---
 
 # § 3805. Research and development activities
@@ -20,3 +21,7 @@ The Secretary, acting through appropriate agencies and contractors, shall initia
   - **(6)** total vehicle construction and design;
   - **(7)** the nature and quantities of emissions, and alterations in or alternatives to emission control systems presently in use; and
   - **(8)** overcoming institutional barriers to widespread use including but not limited to restrictions on the transportation of methane for vehicular use through tunnels, and the potential expansion of the distribution of methane for vehicular purposes.
+
+## Source Credit
+
+*([Pub. L. 96–512, § 6](https://www.govinfo.gov/link/plaw/96/public/512), Dec. 12, 1980, [94 Stat. 2830](https://www.govinfo.gov/link/statute/94/2830).)*

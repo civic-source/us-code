@@ -3,9 +3,10 @@ title: "Section 6205 - Permissive terms in orders"
 usc_title: 7
 usc_section: "6205"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6205"
-generated_at: "2026-03-30T02:53:42.425Z"
+generated_at: "2026-11-23T21:25:28.384Z"
+status: "active"
 ---
 
 # § 6205. Permissive terms in orders
@@ -20,3 +21,7 @@ On the recommendation of the Board and with the approval of the Secretary, an or
   - **(6)** provide for terms and conditions—
     - **(A)** incidental to, and not inconsistent with, the terms and conditions specified in this chapter; and
     - **(B)** necessary to effectuate the other provisions of such order.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1956](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3876](https://www.govinfo.gov/link/statute/104/3876).)*

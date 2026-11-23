@@ -3,9 +3,10 @@ title: "Section 9132 - Payroll support program"
 usc_title: 15
 usc_section: "9132"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9132"
-generated_at: "2026-03-30T02:54:08.245Z"
+generated_at: "2026-11-23T21:25:40.138Z"
+status: "active"
 ---
 
 # § 9132. Payroll support program
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.245Z"
 - **(c)** The Secretary may not enter into any agreement under this section with an employer who was allowed a credit under section 2301 of the CARES Act ( 26 U.S.C. 3111 note) for the immediately preceding calendar quarter ending before such agreement is entered into, who received financial assistance under section 9073 of this title , or who is currently expending financial assistance under the paycheck protection program established under section 636(a)(36) of this title , as of the date the employer submits an application under the payroll support program established under subsection (a).
 - **(d)** To address any shortfall in assistance that would otherwise be provided under this part, the Secretary shall reduce, on a pro rata basis, the financial assistance provided under this part.
 - **(e)** No agreement may be entered into by the Secretary under the payroll support program established under subsection (a) after the last day of the 6 month period that begins on the effective date of the first agreement entered into under such program.
+
+## Source Credit
+
+*([Pub. L. 117–2, title VII, § 7202](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 103](https://www.govinfo.gov/link/statute/135/103).)*

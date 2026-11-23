@@ -3,9 +3,10 @@ title: "Section 2350t - Military medical cooperation arrangements among Five Eye
 usc_title: 10
 usc_section: "2350t"
 chapter: 138
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2350t"
-generated_at: "2026-03-30T02:53:38.157Z"
+generated_at: "2026-11-23T21:25:32.605Z"
+status: "active"
 ---
 
 # § 2350t. Military medical cooperation arrangements among Five Eyes countries
@@ -37,3 +38,11 @@ generated_at: "2026-03-30T02:53:38.157Z"
     - **(H)** Anomalous health incidents.
     - **(I)** Mass casualty management.
     - **(J)** Any other areas of military medicine designated by the Secretary of Defense.
+
+Authority
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title VII, § 715(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 922](https://www.govinfo.gov/link/statute/139/922).)*

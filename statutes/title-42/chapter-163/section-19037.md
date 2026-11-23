@@ -3,9 +3,10 @@ title: "Section 19037 - Research security and integrity information sharing anal
 usc_title: 42
 usc_section: "19037"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19037"
-generated_at: "2026-03-30T02:56:11.537Z"
+generated_at: "2026-11-23T21:26:33.864Z"
+status: "active"
 ---
 
 # § 19037. Research security and integrity information sharing analysis organization
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.537Z"
 - **(f)** In establishing the RSI-ISAO under this section, the Director shall take necessary steps to ensure the services provided are aligned with the needs of the research community, including by—
   - **(1)** convening a series of workshops or other multi-stakeholder events; or
   - **(2)** publishing a description of the services the RSI-ISAO intends to provide and the requirements for membership in the Federal Register and provide an opportunity for submission of public comments for a period of not less than 60 days.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10338](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1553](https://www.govinfo.gov/link/statute/136/1553).)*

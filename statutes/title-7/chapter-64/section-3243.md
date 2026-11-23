@@ -3,9 +3,10 @@ title: "Section 3243 - Hispanic-serving agricultural colleges and universities"
 usc_title: 7
 usc_section: "3243"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3243"
-generated_at: "2026-03-30T02:53:42.400Z"
+generated_at: "2026-11-23T21:25:28.327Z"
+status: "active"
 ---
 
 # § 3243. Hispanic-serving agricultural colleges and universities
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:53:42.400Z"
     - **(A)** to fund fundamental and applied research and extension at Hispanic-serving agricultural colleges and universities in agriculture, human nutrition, food science, bioenergy, and environmental science; and
     - **(B)** to award competitive grants to Hispanic-serving agricultural colleges and universities to provide for training in the food and agricultural sciences of Hispanic agricultural workers and Hispanic youth working in the food and agricultural sciences.
   - **(2)** There are authorized to be appropriated to the Secretary such sums as are necessary to carry out this subsection for fiscal year 2008 and each fiscal year thereafter.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1456](https://www.govinfo.gov/link/plaw/95/public/113), as added [Pub. L. 110–234, title VII, § 7129(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1224](https://www.govinfo.gov/link/statute/122/1224), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7129(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1985; amended [Pub. L. 113–79, title VII, § 7116](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 875](https://www.govinfo.gov/link/statute/128/875).)*

@@ -3,9 +3,10 @@ title: "Section 1096 - Military-civilian health services partnership program; me
 usc_title: 10
 usc_section: "1096"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1096"
-generated_at: "2026-03-30T02:53:38.107Z"
+generated_at: "2026-11-23T21:25:32.421Z"
+status: "active"
 ---
 
 # § 1096. Military-civilian health services partnership program; medical surge program
@@ -45,3 +46,85 @@ generated_at: "2026-03-30T02:53:38.107Z"
     - **(A)** The term “institution of higher education” means a four-year institution of higher education (as defined in section 101(a) of the Higher Education Act of 1965 ( 20 U.S.C. 1001(a) )).
     - **(B)** The term “National Disaster Medical System” means the system established under section 2812 of the Public Health Service Act ( 42 U.S.C. 300hh–11 ).
     - **(C)** The term “Program” means the Military-Civilian Medical Surge Program established under paragraph (1).
+
+Resources Sharing Agreements
+
+Eligible Resources
+
+Computation of Charges
+
+Reimbursement for License Fees
+
+Medical Surge Program
+
+In General
+
+Updated plan on integrated medical operations in continental united states
+
+Updated plan on global patient movement
+
+Assessment of biosurveillance and medical research capabilities
+
+Interim Briefing
+
+Report
+
+In General
+
+Duration
+
+Lead Official for Design and Implementation of Pilot Program.—
+
+In general
+
+Resources
+
+Locations.—
+
+In general
+
+Phased selection of locations.—
+
+Initial selection
+
+Subsequent selection
+
+Consideration for locations
+
+Priority for locations
+
+Requirements
+
+Evaluation Metrics
+
+Reports.—
+
+Initial report.—
+
+In general
+
+Elements
+
+Final report
+
+Definitions
+
+In General
+
+Elements of Systems
+
+Agreements.—
+
+In general
+
+Private sector care
+
+Value-based reimbursement methodologies
+
+Quality of care
+
+Covered Beneficiary Defined
+
+## Source Credit
+
+*(Added [Pub. L. 99–661, div. A, title VII, § 701(a)(1)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3894](https://www.govinfo.gov/link/statute/100/3894); amended [Pub. L. 103–337, div. A, title VII, § 712](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2801](https://www.govinfo.gov/link/statute/108/2801); [Pub. L. 108–375, div. A, title VI, § 607(b)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1946](https://www.govinfo.gov/link/statute/118/1946); [Pub. L. 119–60, div. A, title VII, § 712](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 919](https://www.govinfo.gov/link/statute/139/919).)*

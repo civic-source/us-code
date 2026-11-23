@@ -3,9 +3,10 @@ title: "Section 5925c - Organic production and market data initiatives"
 usc_title: 7
 usc_section: "5925c"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 5925c"
-generated_at: "2026-03-30T02:53:42.421Z"
+generated_at: "2026-11-23T21:25:28.374Z"
+status: "active"
 ---
 
 # § 5925c. Organic production and market data initiatives
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:42.421Z"
     - **(C)** $1,000,000 for fiscal year 2024; and
     - **(D)** $10,000,000 for the period of fiscal years 2026 through 2031.
   - **(2)** In addition to funds made available under paragraph (1), there are authorized to be appropriated to carry out this section not more than $5,000,000 for each of fiscal years 2008 through 2023, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 107–171, title VII, § 7407](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 461](https://www.govinfo.gov/link/statute/116/461); [Pub. L. 110–234, title X, § 10302](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1347](https://www.govinfo.gov/link/statute/122/1347); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title X, § 10302, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2108; [Pub. L. 112–240, title VII, § 701(g)(4)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2366](https://www.govinfo.gov/link/statute/126/2366); [Pub. L. 113–79, title X, § 10004(a)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 941](https://www.govinfo.gov/link/statute/128/941); [Pub. L. 115–334, title X, § 10103](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4898](https://www.govinfo.gov/link/statute/132/4898); [Pub. L. 118–22, div. B, title I, § 102(d)(7)(A)](https://www.govinfo.gov/link/plaw/118/public/22), Nov. 17, 2023, [137 Stat. 118](https://www.govinfo.gov/link/statute/137/118); [Pub. L. 119–21, title I, § 10606(c)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 110](https://www.govinfo.gov/link/statute/139/110).)*

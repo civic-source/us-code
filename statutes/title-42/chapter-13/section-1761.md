@@ -3,9 +3,10 @@ title: "Section 1761 - Summer food service program for children"
 usc_title: 42
 usc_section: "1761"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1761"
-generated_at: "2026-03-30T02:56:11.111Z"
+generated_at: "2026-11-23T21:26:32.134Z"
+status: "active"
 ---
 
 # § 1761. Summer food service program for children
@@ -225,3 +226,49 @@ generated_at: "2026-03-30T02:56:11.111Z"
     - **(A)** The Secretary shall maintain a list of service institutions and individuals that have been terminated or otherwise disqualified from participation in the program under the procedures established pursuant to paragraph (1).
     - **(B)** The Secretary shall make the list available to States for use in approving or renewing applications by service institutions for participation in the program.
 - **(r)** For the period beginning October 1, 1977 , and ending September 30, 2015 , there are hereby authorized to be appropriated such sums as are necessary to carry out the purposes of this section.
+
+(aa) for which the program food service site documents the eligibility of enrolled children through the collection of income eligibility statements from the families of enrolled children or other means; and
+
+(bb) at least 50 percent of the children enrolled at the program food service site meet the income standards for free or reduced price school meals under this chapter and the Child Nutrition Act of 1966 ( 42 U.S.C. 1771 et seq.);
+
+Payments.—
+
+In general
+
+Adjustments
+
+Seamless summer reimbursements
+
+Permanent operating agreements and budget for administrative costs.—
+
+Permanent operating agreements.—
+
+In general
+
+Amendments
+
+Termination
+
+(aa) for cause by the applicable State agency in accordance with subsection (q) and with regulations promulgated by the Secretary; or
+
+(bb) on termination of participation of the service institution in the program.
+
+Budget for administrative costs.—
+
+In general
+
+Amount
+
+Offer versus serve
+
+In general
+
+In general
+
+Maximum amounts
+
+“Not later than February 1, 1990 , the Secretary of Agriculture shall—
+
+## Source Credit
+
+*(June 4, 1946, ch. 281, § 13, as added [Pub. L. 90–302, § 3](https://www.govinfo.gov/link/plaw/90/public/302), May 8, 1968, [82 Stat. 117](https://www.govinfo.gov/link/statute/82/117); amended [Pub. L. 91–248, § 6(c)](https://www.govinfo.gov/link/plaw/91/public/248), (d), May 14, 1970, [84 Stat. 210](https://www.govinfo.gov/link/statute/84/210); [Pub. L. 92–32, § 7](https://www.govinfo.gov/link/plaw/92/public/32), June 30, 1971, [85 Stat. 86](https://www.govinfo.gov/link/statute/85/86); [Pub. L. 92–433](https://www.govinfo.gov/link/plaw/92/public/433), §§ 1, 2, Sept. 26, 1972, [86 Stat. 724](https://www.govinfo.gov/link/statute/86/724); [Pub. L. 94–20](https://www.govinfo.gov/link/plaw/94/public/20), May 2, 1975, [89 Stat. 82](https://www.govinfo.gov/link/statute/89/82); [Pub. L. 94–105, § 13](https://www.govinfo.gov/link/plaw/94/public/105), Oct. 7, 1975, [89 Stat. 515](https://www.govinfo.gov/link/statute/89/515); [Pub. L. 95–166, § 2](https://www.govinfo.gov/link/plaw/95/public/166), Nov. 10, 1977, [91 Stat. 1325](https://www.govinfo.gov/link/statute/91/1325); [Pub. L. 95–627](https://www.govinfo.gov/link/plaw/95/public/627), §§ 5(d), 7(b), 10(d)(2), Nov. 10, 1978, [92 Stat. 3620](https://www.govinfo.gov/link/statute/92/3620), 3622, 3624; [Pub. L. 96–499, title II, § 206](https://www.govinfo.gov/link/plaw/96/public/499), Dec. 5, 1980, [94 Stat. 2601](https://www.govinfo.gov/link/statute/94/2601); [Pub. L. 97–35, title VIII](https://www.govinfo.gov/link/plaw/97/public/35), §§ 809, 817(b), Aug. 13, 1981, [95 Stat. 527](https://www.govinfo.gov/link/statute/95/527), 532; [Pub. L. 99–500, title III, § 311](https://www.govinfo.gov/link/plaw/99/public/500), Oct. 18, 1986, [100 Stat. 1783–360](https://www.govinfo.gov/link/statute/100/1783), and [Pub. L. 99–591, title III, § 311](https://www.govinfo.gov/link/plaw/99/public/591), Oct. 30, 1986, [100 Stat. 3341–363](https://www.govinfo.gov/link/statute/100/3341); [Pub. L. 99–661, div. D, title I, § 4101](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 4071](https://www.govinfo.gov/link/statute/100/4071); [Pub. L. 100–435, title II, § 213](https://www.govinfo.gov/link/plaw/100/public/435), Sept. 19, 1988, [102 Stat. 1658](https://www.govinfo.gov/link/statute/102/1658); [Pub. L. 101–147, title I, § 102(a)](https://www.govinfo.gov/link/plaw/101/public/147), title III, § 307, Nov. 10, 1989, [103 Stat. 879](https://www.govinfo.gov/link/statute/103/879), 915; [Pub. L. 103–448, title I](https://www.govinfo.gov/link/plaw/103/public/448), §§ 105(b), 114(a)–(g), Nov. 2, 1994, [108 Stat. 4702](https://www.govinfo.gov/link/statute/108/4702), 4712, 4713; [Pub. L. 104–193, title VII, § 706(a)](https://www.govinfo.gov/link/plaw/104/public/193) –(l), Aug. 22, 1996, [110 Stat. 2291–2293](https://www.govinfo.gov/link/statute/110/2291); [Pub. L. 105–336, title I](https://www.govinfo.gov/link/plaw/105/public/336), §§ 105(a)–(e)(1), 107(j)(2)(A), (3)(B), Oct. 31, 1998, [112 Stat. 3148](https://www.govinfo.gov/link/statute/112/3148), 3149, 3152, 3153; [Pub. L. 108–134, § 5(1)](https://www.govinfo.gov/link/plaw/108/public/134), Nov. 22, 2003, [117 Stat. 1389](https://www.govinfo.gov/link/statute/117/1389); [Pub. L. 108–211, § 5(a)](https://www.govinfo.gov/link/plaw/108/public/211), Mar. 31, 2004, [118 Stat. 566](https://www.govinfo.gov/link/statute/118/566); [Pub. L. 108–265, title I, § 116(a)](https://www.govinfo.gov/link/plaw/108/public/265) –(e), June 30, 2004, [118 Stat. 748–750](https://www.govinfo.gov/link/statute/118/748); [Pub. L. 108–447, div. A, title VII, § 788(b)](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 2851](https://www.govinfo.gov/link/statute/118/2851); [Pub. L. 110–161, div. A, title VII, § 738(a)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 1880](https://www.govinfo.gov/link/statute/121/1880); [Pub. L. 111–296, title I](https://www.govinfo.gov/link/plaw/111/public/296), §§ 111–113, title III, §§ 321, 322, title IV, §§ 404, 441(a)(5), Dec. 13, 2010, [124 Stat. 3203](https://www.govinfo.gov/link/statute/124/3203), 3204, 3247, 3259, 3261; [Pub. L. 117–328, div. HH, title IV, § 502(b)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5988](https://www.govinfo.gov/link/statute/136/5988).)*

@@ -3,9 +3,10 @@ title: "Section 208 - Acts affecting a personal financial interest"
 usc_title: 18
 usc_section: "208"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 208"
-generated_at: "2026-03-30T02:54:16.459Z"
+generated_at: "2026-11-23T21:25:43.951Z"
+status: "active"
 ---
 
 # § 208. Acts affecting a personal financial interest
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:16.459Z"
   - **(2)** The Office of Government Ethics, after consultation with the Attorney General, shall issue uniform regulations for the issuance of waivers and exemptions under subsection (b) which shall—
     - **(A)** list and describe exemptions; and
     - **(B)** provide guidance with respect to the types of interests that are not so substantial as to be deemed likely to affect the integrity of the services the Government may expect from the employee.
+
+## Source Credit
+
+*(Added [Pub. L. 87–849, § 1(a)](https://www.govinfo.gov/link/plaw/87/public/849), Oct. 23, 1962, [76 Stat. 1124](https://www.govinfo.gov/link/statute/76/1124); amended [Pub. L. 95–188, title II, § 205](https://www.govinfo.gov/link/plaw/95/public/188), Nov. 16, 1977, [91 Stat. 1388](https://www.govinfo.gov/link/statute/91/1388); [Pub. L. 101–194, title IV, § 405](https://www.govinfo.gov/link/plaw/101/public/194), Nov. 30, 1989, [103 Stat. 1751](https://www.govinfo.gov/link/statute/103/1751); [Pub. L. 101–280, § 5(e)](https://www.govinfo.gov/link/plaw/101/public/280), May 4, 1990, [104 Stat. 159](https://www.govinfo.gov/link/statute/104/159); [Pub. L. 103–322, title XXXIII](https://www.govinfo.gov/link/plaw/103/public/322), §§ 330002(b), 330008(6), Sept. 13, 1994, [108 Stat. 2140](https://www.govinfo.gov/link/statute/108/2140), 2143; [Pub. L. 117–286, § 4(a)(134)](https://www.govinfo.gov/link/plaw/117/public/286), (c)(27), Dec. 27, 2022, [136 Stat. 4320](https://www.govinfo.gov/link/statute/136/4320), 4357.)*

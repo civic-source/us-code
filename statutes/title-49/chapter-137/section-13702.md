@@ -3,9 +3,10 @@ title: "Section 13702 - Tariff requirement for certain transportation"
 usc_title: 49
 usc_section: "13702"
 chapter: 137
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 13702"
-generated_at: "2026-03-30T02:56:19.329Z"
+generated_at: "2026-11-23T21:26:40.683Z"
+status: "active"
 ---
 
 # § 13702. Tariff requirement for certain transportation
@@ -34,3 +35,37 @@ generated_at: "2026-03-30T02:56:19.329Z"
   - **(4)** A carrier may incorporate by reference the rates, terms, and other conditions of a tariff in agreements covering the transportation of household goods.
   - **(5)** A complaint that a rate or related rule or practice maintained in a tariff under this subsection violates section 13701(a) may be submitted to the Board for resolution.
 - **(d)** The Board may invalidate a tariff prepared by a carrier or carriers under this section if that tariff violates this section or a regulation of the Board carrying out this section.
+
+In General
+
+Tariff Requirements for Noncontiguous Domestic Trade.—
+
+Filing
+
+Contents
+
+Inland divisions
+
+Time-volume rates
+
+Changes
+
+Complaints
+
+Tariff Requirements for Household Goods Carriers.—
+
+In general
+
+Notice of availability
+
+Requirements
+
+Incorporation by reference
+
+Complaints
+
+Invalidation
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 868](https://www.govinfo.gov/link/statute/109/868).)*

@@ -3,9 +3,10 @@ title: "Section 410iii - Purpose"
 usc_title: 16
 usc_section: "410iii"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410iii"
-generated_at: "2026-03-30T02:54:22.780Z"
+generated_at: "2026-11-23T21:25:51.478Z"
+status: "active"
 ---
 
 # § 410iii. Purpose
@@ -16,3 +17,7 @@ The purpose of this subchapter is to establish the Cedar Creek and Belle Grove N
   - **(2)** tell the rich story of Shenandoah Valley history from early settlement through the Civil War and beyond, and the Battle of Cedar Creek and its significance in the conduct of the war in the Shenandoah Valley;
   - **(3)** preserve the significant historic, natural, cultural, military, and scenic resources found in the Cedar Creek Battlefield and Belle Grove Plantation areas through partnerships with local landowners and the community; and
   - **(4)** serve as a focal point to recognize and interpret important events and geographic locations within the Shenandoah Valley Battlefields National Historic District representing key Civil War battles in the Shenandoah Valley, including those battlefields associated with the Thomas J. (Stonewall) Jackson campaign of 1862 and the decisive campaigns of 1864.
+
+## Source Credit
+
+*([Pub. L. 107–373, § 2](https://www.govinfo.gov/link/plaw/107/public/373), Dec. 19, 2002, [116 Stat. 3104](https://www.govinfo.gov/link/statute/116/3104).)*

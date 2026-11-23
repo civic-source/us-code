@@ -3,9 +3,10 @@ title: "Section 2466 - Fugitive disentitlement"
 usc_title: 28
 usc_section: "2466"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 2466"
-generated_at: "2026-03-30T02:55:30.149Z"
+generated_at: "2026-11-23T21:26:01.133Z"
+status: "active"
 ---
 
 # § 2466. Fugitive disentitlement
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:30.149Z"
     - **(C)** otherwise evades the jurisdiction of the court in which a criminal case is pending against the person; and
   - **(2)** is not confined or held in custody in any other jurisdiction for commission of criminal conduct in that jurisdiction.
 - **(b)** Subsection (a) may be applied to a claim filed by a corporation if any majority shareholder, or individual filing the claim on behalf of the corporation is a person to whom subsection (a) applies.
+
+## Source Credit
+
+*(Added [Pub. L. 106–185, § 14(a)](https://www.govinfo.gov/link/plaw/106/public/185), Apr. 25, 2000, [114 Stat. 219](https://www.govinfo.gov/link/statute/114/219); amended [Pub. L. 107–56, title III, § 322](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 315](https://www.govinfo.gov/link/statute/115/315); [Pub. L. 109–162, title XI, § 1171(c)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3123](https://www.govinfo.gov/link/statute/119/3123); [Pub. L. 109–177, title IV, § 406(a)(1)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 244](https://www.govinfo.gov/link/statute/120/244).)*

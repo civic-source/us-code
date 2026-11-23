@@ -3,9 +3,10 @@ title: "Section 1442 - Alien enemies"
 usc_title: 8
 usc_section: "1442"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1442"
-generated_at: "2026-03-30T02:53:10.502Z"
+generated_at: "2026-11-23T21:25:25.195Z"
+status: "active"
 ---
 
 # § 1442. Alien enemies
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:10.502Z"
 - **(c)** The Attorney General may, in his discretion, upon investigation fully establishing the loyalty of any alien enemy who did not have an application for naturalization pending at the beginning of the state of war, except such alien enemy from the classification of alien enemy for the purposes of this subchapter, and thereupon such alien shall have the privilege of filing an application for naturalization.
 - **(d)** An alien who is a native, citizen, subject, or denizen of any country, state, or sovereignty with which the United States is at war shall cease to be an alien enemy within the meaning of this section upon the determination by proclamation of the President, or by concurrent resolution of the Congress, that hostilities between the United States and such country, state, or sovereignty have ended.
 - **(e)** Nothing contained herein shall be taken or construed to interfere with or prevent the apprehension and removal, consistent with law, of any alien enemy at any time prior to the actual naturalization of such alien.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title III, ch. 2, § 331, [66 Stat. 252](https://www.govinfo.gov/link/statute/66/252); [Pub. L. 101–649, title IV, § 407(c)(13)](https://www.govinfo.gov/link/plaw/101/public/649), (d)(9), (e)(2), Nov. 29, 1990, [104 Stat. 5041](https://www.govinfo.gov/link/statute/104/5041), 5042, 5046.)*

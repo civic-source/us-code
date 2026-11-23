@@ -3,9 +3,10 @@ title: "Section 1055 - Members of Advisory Board"
 usc_title: 16
 usc_section: "1055"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1055"
-generated_at: "2026-03-30T02:54:22.940Z"
+generated_at: "2026-11-23T21:25:51.806Z"
+status: "active"
 ---
 
 # § 1055. Members of Advisory Board
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:22.940Z"
   - **(4)** two individuals appointed by the Secretary from the public at large.
 - **(b)** Each class of two members of the Advisory Board referred to in subsection (a) shall be appointed for terms of four years, except that, of each such class of two members initially appointed, one shall be appointed for a term of two years. Any person appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term. Of each class of two members of such Board referred to in paragraphs (1) and (2) of subsection (a), not more than one shall be from the same political party, and not more than one shall be from the same State. Any member of such Board referred to in such paragraphs (1) and (2) who shall cease to be a Member of Congress during the term of his appointment under this section shall cease to be a member of such Board.
 - **(c)** Any vacancy in the Advisory Board shall be filled in the same manner as in the case of the original appointment.
+
+## Source Credit
+
+*([Pub. L. 87–758, § 5](https://www.govinfo.gov/link/plaw/87/public/758), Oct. 9, 1962, [76 Stat. 753](https://www.govinfo.gov/link/statute/76/753).)*

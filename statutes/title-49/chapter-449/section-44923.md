@@ -3,9 +3,10 @@ title: "Section 44923 - Airport security improvement projects"
 usc_title: 49
 usc_section: "44923"
 chapter: 449
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44923"
-generated_at: "2026-03-30T02:56:19.394Z"
+generated_at: "2026-11-23T21:26:40.931Z"
+status: "active"
 ---
 
 # § 44923. Airport security improvement projects
@@ -32,3 +33,43 @@ generated_at: "2026-03-30T02:56:19.394Z"
   - **(2)** Of the amount made available under paragraph (1) for a fiscal year, not less than $200,000,000 shall be allocated to fulfill letters of intent issued under subsection (d).
   - **(3)** Of the amount made available under paragraph (1) for a fiscal year, up to $50,000,000 shall be used to make discretionary grants, including other transaction agreements for airport security improvement projects, with priority given to small hub airports and nonhub airports.
 - **(i)** For purposes of this section, a grant under subsection (a) to an airport sponsor to service an obligation issued by or on behalf of that sponsor to fund a project described in subsection (a) shall be considered to be a grant for that project.
+
+Grant Authority
+
+Applications
+
+Approval
+
+Letters of Intent.—
+
+Issuance
+
+Schedule
+
+Notice to administrator of the transportation security administration
+
+Notice to congress
+
+Limitations
+
+Statutory construction
+
+Federal Share
+
+Sponsor Defined
+
+Applicability of Certain Requirements
+
+Aviation Security Capital Fund.—
+
+In general
+
+Allocation
+
+Discretionary grants
+
+Leveraged Funding
+
+## Source Credit
+
+*(Added [Pub. L. 108–176, title VI, § 605(a)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2566](https://www.govinfo.gov/link/statute/117/2566); amended [Pub. L. 108–458, title IV, § 4019(e)(1)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3722](https://www.govinfo.gov/link/statute/118/3722); [Pub. L. 110–53, title XVI](https://www.govinfo.gov/link/plaw/110/public/53), §§ 1603(a), 1604(a), Aug. 3, 2007, [121 Stat. 480](https://www.govinfo.gov/link/statute/121/480); [Pub. L. 115–254, div. K, title I, § 1991(d)(19)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3636](https://www.govinfo.gov/link/statute/132/3636).)*

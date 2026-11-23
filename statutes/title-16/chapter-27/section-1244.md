@@ -3,9 +3,10 @@ title: "Section 1244 - National scenic and national historic trails"
 usc_title: 16
 usc_section: "1244"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1244"
-generated_at: "2026-03-30T02:54:22.944Z"
+generated_at: "2026-11-23T21:25:51.839Z"
+status: "active"
 ---
 
 # § 1244. National scenic and national historic trails
@@ -345,3 +346,191 @@ generated_at: "2026-03-30T02:54:22.944Z"
       - **(v)** Old Fort Kearny Road (Oxbow Trail).
       - **(vi)** Childs cutoff.
       - **(vii)** Raft River to Applegate.
+
+El camino real de tierra adentro.—
+
+Map
+
+Administration
+
+Land acquisition
+
+Volunteer groups; consultation
+
+Coordination of activities
+
+Ala kahakai national historic trail.—
+
+In general
+
+Map
+
+Administration
+
+Land acquisition
+
+Public participation; consultation
+
+Old spanish national historic trail.—
+
+In general
+
+Map
+
+Administration
+
+Land acquisition
+
+Consultation
+
+Additional routes
+
+El camino real de los tejas national historic trail.—
+
+In general
+
+Map
+
+Administration
+
+Consultation
+
+Coordination of activities
+
+Land acquisition
+
+Captain john smith chesapeake national historic trail.—
+
+In general
+
+Map
+
+Administration
+
+Land acquisition
+
+Star-spangled banner national historic trail.—
+
+In general
+
+Map
+
+Administration
+
+Land acquisition
+
+Public participation
+
+Interpretation and assistance
+
+Arizona national scenic trail.—
+
+In general
+
+Availability of map
+
+New england national scenic trail
+
+Washington-rochambeau revolutionary route national historic trail.—
+
+In general
+
+Map
+
+Administration
+
+Land acquisition
+
+Pacific northwest national scenic trail.—
+
+In general
+
+Availability of map
+
+Administration
+
+Land acquisition
+
+Chilkoot national historic trail.—
+
+In general
+
+Availability of map
+
+Administration
+
+Effect
+
+Coordination of activities
+
+Butterfield overland national historic trail.—
+
+In general
+
+Maps
+
+Administration
+
+Land acquisition
+
+No buffer zone created.—
+
+In general
+
+Outside activities
+
+Effect on energy development, production, or transmission
+
+No eminent domain or condemnation
+
+Star-Spangled Banner National Historic Trail.—
+
+In general
+
+Affected areas
+
+Coordination with other congressionally mandated activities
+
+Deadline for study
+
+Metacomet-Monadnock-Mattabesett Trail
+
+Chisholm Trail.—
+
+In general
+
+Requirement
+
+Great Western Trail.—
+
+In general
+
+Requirement
+
+Pike national historic trail
+
+Emancipation national historic trail
+
+Alaska long trail.—
+
+In general
+
+Requirement
+
+Consultation
+
+Buckeye trail
+
+Effect on Access for Recreational Activities
+
+Effect on State Authority
+
+Management
+
+Cooperative Agreements
+
+Additional Trail Segments
+
+## Source Credit
+
+*([Pub. L. 90–543, § 5](https://www.govinfo.gov/link/plaw/90/public/543), Oct. 2, 1968, [82 Stat. 920](https://www.govinfo.gov/link/statute/82/920); [Pub. L. 94–527](https://www.govinfo.gov/link/plaw/94/public/527), Oct. 17, 1976, [90 Stat. 2481](https://www.govinfo.gov/link/statute/90/2481); [Pub. L. 95–248, § 1(1)](https://www.govinfo.gov/link/plaw/95/public/248), (2), Mar. 21, 1978, [92 Stat. 159](https://www.govinfo.gov/link/statute/92/159); [Pub. L. 95–625, title V, § 551](https://www.govinfo.gov/link/plaw/95/public/625) (7)–(15), Nov. 10, 1978, [92 Stat. 3512–3515](https://www.govinfo.gov/link/statute/92/3512); [Pub. L. 96–87, title IV, § 401(m)(1)](https://www.govinfo.gov/link/plaw/96/public/87), Oct. 12, 1979, [93 Stat. 666](https://www.govinfo.gov/link/statute/93/666); [Pub. L. 96–199, title I, § 101(b)(1)](https://www.govinfo.gov/link/plaw/96/public/199) –(3), Mar. 5, 1980, [94 Stat. 67](https://www.govinfo.gov/link/statute/94/67), 68; [Pub. L. 96–344, § 14](https://www.govinfo.gov/link/plaw/96/public/344), Sept. 8, 1980, [94 Stat. 1136](https://www.govinfo.gov/link/statute/94/1136); [Pub. L. 96–370, § 1(a)](https://www.govinfo.gov/link/plaw/96/public/370), Oct. 3, 1980, [94 Stat. 1360](https://www.govinfo.gov/link/statute/94/1360); [Pub. L. 98–11, title II, § 205](https://www.govinfo.gov/link/plaw/98/public/11), Mar. 28, 1983, [97 Stat. 43](https://www.govinfo.gov/link/statute/97/43); [Pub. L. 98–405, § 1](https://www.govinfo.gov/link/plaw/98/public/405), Aug. 28, 1984, [98 Stat. 1483](https://www.govinfo.gov/link/statute/98/1483); [Pub. L. 99–445, § 1](https://www.govinfo.gov/link/plaw/99/public/445), Oct. 6, 1986, [100 Stat. 1122](https://www.govinfo.gov/link/statute/100/1122); [Pub. L. 100–35, § 1(a)](https://www.govinfo.gov/link/plaw/100/public/35), May 8, 1987, [101 Stat. 302](https://www.govinfo.gov/link/statute/101/302); [Pub. L. 100–187, § 3](https://www.govinfo.gov/link/plaw/100/public/187), Dec. 11, 1987, [101 Stat. 1287](https://www.govinfo.gov/link/statute/101/1287); [Pub. L. 100–192, § 1](https://www.govinfo.gov/link/plaw/100/public/192), Dec. 16, 1987, [101 Stat. 1309](https://www.govinfo.gov/link/statute/101/1309); [Pub. L. 100–470, § 4](https://www.govinfo.gov/link/plaw/100/public/470), Oct. 4, 1988, [102 Stat. 2283](https://www.govinfo.gov/link/statute/102/2283); [Pub. L. 100–559, title II, § 203](https://www.govinfo.gov/link/plaw/100/public/559), Oct. 28, 1988, [102 Stat. 2797](https://www.govinfo.gov/link/statute/102/2797); [Pub. L. 101–321, § 3](https://www.govinfo.gov/link/plaw/101/public/321), July 3, 1990, [104 Stat. 293](https://www.govinfo.gov/link/statute/104/293); [Pub. L. 101–365, § 2(a)](https://www.govinfo.gov/link/plaw/101/public/365), Aug. 15, 1990, [104 Stat. 429](https://www.govinfo.gov/link/statute/104/429); [Pub. L. 102–328, § 1](https://www.govinfo.gov/link/plaw/102/public/328), Aug. 3, 1992, [106 Stat. 845](https://www.govinfo.gov/link/statute/106/845); [Pub. L. 102–461](https://www.govinfo.gov/link/plaw/102/public/461), Oct. 23, 1992, [106 Stat. 2273](https://www.govinfo.gov/link/statute/106/2273); [Pub. L. 103–144, § 3](https://www.govinfo.gov/link/plaw/103/public/144), Nov. 17, 1993, [107 Stat. 1494](https://www.govinfo.gov/link/statute/107/1494); [Pub. L. 103–145, § 3](https://www.govinfo.gov/link/plaw/103/public/145), Nov. 17, 1993, [107 Stat. 1497](https://www.govinfo.gov/link/statute/107/1497); [Pub. L. 103–437, § 6(d)(38)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4585](https://www.govinfo.gov/link/statute/108/4585); [Pub. L. 104–333, div. I, title IV](https://www.govinfo.gov/link/plaw/104/public/333), §§ 402, 403, title V, § 501, Nov. 12, 1996, [110 Stat. 4148](https://www.govinfo.gov/link/statute/110/4148), 4153; [Pub. L. 106–135, § 3](https://www.govinfo.gov/link/plaw/106/public/135), Dec. 7, 1999, [113 Stat. 1686](https://www.govinfo.gov/link/statute/113/1686); [Pub. L. 106–307, § 3](https://www.govinfo.gov/link/plaw/106/public/307), Oct. 13, 2000, [114 Stat. 1075](https://www.govinfo.gov/link/statute/114/1075); [Pub. L. 106–509, § 3](https://www.govinfo.gov/link/plaw/106/public/509), Nov. 13, 2000, [114 Stat. 2361](https://www.govinfo.gov/link/statute/114/2361); [Pub. L. 106–510, § 3(a)(2)](https://www.govinfo.gov/link/plaw/106/public/510), Nov. 13, 2000, [114 Stat. 2363](https://www.govinfo.gov/link/statute/114/2363); [Pub. L. 107–214, § 3](https://www.govinfo.gov/link/plaw/107/public/214), Aug. 21, 2002, [116 Stat. 1053](https://www.govinfo.gov/link/statute/116/1053); [Pub. L. 107–325, § 2](https://www.govinfo.gov/link/plaw/107/public/325), Dec. 4, 2002, [116 Stat. 2790](https://www.govinfo.gov/link/statute/116/2790); [Pub. L. 107–338, § 2](https://www.govinfo.gov/link/plaw/107/public/338), Dec. 16, 2002, [116 Stat. 2886](https://www.govinfo.gov/link/statute/116/2886); [Pub. L. 108–342, § 2](https://www.govinfo.gov/link/plaw/108/public/342), Oct. 18, 2004, [118 Stat. 1370](https://www.govinfo.gov/link/statute/118/1370); [Pub. L. 108–352, § 14(1)](https://www.govinfo.gov/link/plaw/108/public/352), Oct. 21, 2004, [118 Stat. 1397](https://www.govinfo.gov/link/statute/118/1397); [Pub. L. 109–54, title I, § 133](https://www.govinfo.gov/link/plaw/109/public/54), Aug. 2, 2005, [119 Stat. 526](https://www.govinfo.gov/link/statute/119/526); [Pub. L. 109–378, § 1](https://www.govinfo.gov/link/plaw/109/public/378), Dec. 1, 2006, [120 Stat. 2664](https://www.govinfo.gov/link/statute/120/2664); [Pub. L. 109–418, § 2](https://www.govinfo.gov/link/plaw/109/public/418), Dec. 19, 2006, [120 Stat. 2882](https://www.govinfo.gov/link/statute/120/2882); [Pub. L. 110–229, title III, § 341](https://www.govinfo.gov/link/plaw/110/public/229), May 8, 2008, [122 Stat. 795](https://www.govinfo.gov/link/statute/122/795); [Pub. L. 111–11, title V](https://www.govinfo.gov/link/plaw/111/public/11), §§ 5201, 5202(a), 5204–5206, 5301(a), 5302, 5303, title VII, § 7116(f), Mar. 30, 2009, [123 Stat. 1154](https://www.govinfo.gov/link/statute/123/1154), 1158, 1159, 1161, 1164, 1203; [Pub. L. 116–9, title II](https://www.govinfo.gov/link/plaw/116/public/9), §§ 2501, 2502(a), 2504, Mar. 12, 2019, [133 Stat. 753](https://www.govinfo.gov/link/statute/133/753), 754; [Pub. L. 116–111, § 2](https://www.govinfo.gov/link/plaw/116/public/111), Jan. 27, 2020, [134 Stat. 8](https://www.govinfo.gov/link/statute/134/8); [Pub. L. 117–328, div. DD, title V](https://www.govinfo.gov/link/plaw/117/public/328), §§ 501–503, Dec. 29, 2022, [136 Stat. 5599–5601](https://www.govinfo.gov/link/statute/136/5599); [Pub. L. 117–345, § 2](https://www.govinfo.gov/link/plaw/117/public/345), Jan. 5, 2023, [136 Stat. 6196](https://www.govinfo.gov/link/statute/136/6196).)*

@@ -3,9 +3,10 @@ title: "Section 10 - Administrative matters"
 usc_title: 42
 usc_section: "10"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-03-30T02:56:11.293Z"
+generated_at: "2026-11-23T21:26:33.073Z"
+status: "active"
 ---
 
 # § 7385s–10. Administrative matters
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.293Z"
   - **(2)** Until the commencement of the administration of this part, the Department of Energy Physicians Panels appointed pursuant to part D shall continue to consider and issue determinations concerning any cases pending before such Panels immediately before October 28, 2004 .
   - **(3)** The Secretary shall take such actions as are appropriate to identify other activities under part D that will continue until the commencement of the administration of this part.
 - **(g)** Upon the commencement of the administration of this part, any application previously filed with the Secretary of Energy pursuant to part D shall be considered to have been filed with the Secretary as a claim for benefits pursuant to this part.
+
+## Source Credit
+
+*([Pub. L. 106–398, § 1 [div. C, title XXXVI, § 3681]](https://www.govinfo.gov/link/plaw/106/public/398), as added [Pub. L. 108–375, div. C, title XXXI, § 3161](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2183](https://www.govinfo.gov/link/statute/118/2183).)*

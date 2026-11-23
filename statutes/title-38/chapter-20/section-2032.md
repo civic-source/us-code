@@ -3,9 +3,10 @@ title: "Section 2032 - Therapeutic housing"
 usc_title: 38
 usc_section: "2032"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 2032"
-generated_at: "2026-03-30T02:55:53.494Z"
+generated_at: "2026-11-23T21:26:16.690Z"
+status: "active"
 ---
 
 # § 2032. Therapeutic housing
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:53.494Z"
   - **(2)** appropriate limits on the period for which such persons may reside in transitional housing.
 - **(g)** The Secretary may dispose of any property acquired for the purpose of this section. The proceeds of any such disposal shall be credited to the General Post Fund.
 - **(h)** Funds received by the Department under this section shall be deposited in the General Post Fund. The Secretary may distribute out of the fund such amounts as necessary for the acquisition, management, maintenance, and disposition of real property for the purpose of carrying out such program. The Secretary shall manage the operation of this section so as to ensure that expenditures under this subsection for any fiscal year shall not exceed by more than $500,000 proceeds credited to the General Post Fund under this section. The operation of the program and funds received shall be separately accounted for, and shall be stated in the documents accompanying the President’s budget for each fiscal year.
+
+## Source Credit
+
+*(Added [Pub. L. 105–114, title II, § 202(a)](https://www.govinfo.gov/link/plaw/105/public/114), Nov. 21, 1997, [111 Stat. 2284](https://www.govinfo.gov/link/statute/111/2284), § 1772; renumbered § 2032, [Pub. L. 107–95, § 5(b)(1)](https://www.govinfo.gov/link/plaw/107/public/95), Dec. 21, 2001, [115 Stat. 918](https://www.govinfo.gov/link/statute/115/918).)*

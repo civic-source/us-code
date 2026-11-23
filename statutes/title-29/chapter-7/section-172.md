@@ -3,9 +3,10 @@ title: "Section 172 - Federal Mediation and Conciliation Service"
 usc_title: 29
 usc_section: "172"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 172"
-generated_at: "2026-03-30T02:55:18.678Z"
+generated_at: "2026-11-23T21:26:02.169Z"
+status: "active"
 ---
 
 # § 172. Federal Mediation and Conciliation Service
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:18.678Z"
 - **(b)** The Director is authorized, subject to the civil service laws, to appoint such clerical and other personnel as may be necessary for the execution of the functions of the Service, and shall fix their compensation in accordance with chapter 51 and subchapter III of chapter 53 of title 5, and may, without regard to the provisions of the civil service laws, appoint such conciliators and mediators as may be necessary to carry out the functions of the Service. The Director is authorized to make such expenditures for supplies, facilities, and services as he deems necessary. Such expenditures shall be allowed and paid upon presentation of itemized vouchers therefor approved by the Director or by any employee designated by him for that purpose.
 - **(c)** The principal office of the Service shall be in the District of Columbia, but the Director may establish regional offices convenient to localities in which labor controversies are likely to arise. The Director may by order, subject to revocation at any time, delegate any authority and discretion conferred upon him by this chapter to any regional director, or other officer or employee of the Service. The Director may establish suitable procedures for cooperation with State and local mediation agencies. The Director shall make an annual report in writing to Congress at the end of the fiscal year.
 - **(d)** All mediation and conciliation functions of the Secretary of Labor or the United States Conciliation Service under section 51 of this title , and all functions of the United States Conciliation Service under any other law are transferred to the Federal Mediation and Conciliation Service, together with the personnel and records of the United States Conciliation Service. Such transfer shall take effect upon the sixtieth day after June 23, 1947 . Such transfer shall not affect any proceedings pending before the United States Conciliation Service or any certification, order, rule, or regulation theretofore made by it or by the Secretary of Labor. The Director and the Service shall not be subject in any way to the jurisdiction or authority of the Secretary of Labor or any official or division of the Department of Labor.
+
+## Source Credit
+
+*(June 23, 1947, ch. 120, title II, § 202, [61 Stat. 153](https://www.govinfo.gov/link/statute/61/153); Oct. 28, 1949, ch. 782, title XI, § 1106(a), [63 Stat. 972](https://www.govinfo.gov/link/statute/63/972).)*

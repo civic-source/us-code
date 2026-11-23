@@ -3,9 +3,10 @@ title: "Section 3 - Queens County, New York"
 usc_title: 33
 usc_section: "3"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3"
-generated_at: "2026-03-30T02:55:41.051Z"
+generated_at: "2026-11-23T21:26:11.283Z"
+status: "active"
 ---
 
 # § 59c–3. Queens County, New York
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:41.051Z"
 - **(c)** The declaration of nonnavigability under subsection (a) shall expire with respect to a portion of the area described in subsection (a), if the portion—
   - **(1)** is not bulkheaded, filled, or otherwise occupied by a permanent structure or other permanent physical improvement (including parkland) in accordance with subsection (b) by the date that is 20 years after October 12, 1996 ; or
   - **(2)** requires an improvement described in subsection (b)(2) that is subject to a permit under an applicable Federal law, and the improvement is not commenced by the date that is 5 years after the date of issuance of the permit.
+
+## Source Credit
+
+*([Pub. L. 104–303, title V, § 556](https://www.govinfo.gov/link/plaw/104/public/303), Oct. 12, 1996, [110 Stat. 3782](https://www.govinfo.gov/link/statute/110/3782).)*

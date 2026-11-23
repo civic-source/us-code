@@ -3,9 +3,10 @@ title: "Section 5702 - Definitions"
 usc_title: 25
 usc_section: "5702"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5702"
-generated_at: "2026-03-30T02:54:52.873Z"
+generated_at: "2026-11-23T21:25:54.739Z"
+status: "active"
 ---
 
 # § 5702. Definitions
@@ -23,3 +24,7 @@ In this chapter:
   - **(5)** The term “Indian land” means Indian lands, as defined in section 4302 of this title .
   - **(6)** The term “Indian Tribe” has the meaning given the term “Indian tribe” in section 5304 of this title .
   - **(7)** The term “law enforcement agency” means a Tribal, Federal, State, or local law enforcement agency.
+
+## Source Credit
+
+*([Pub. L. 116–165, § 3](https://www.govinfo.gov/link/plaw/116/public/165), Oct. 10, 2020, [134 Stat. 760](https://www.govinfo.gov/link/statute/134/760).)*

@@ -3,9 +3,10 @@ title: "Section 10501 - General jurisdiction"
 usc_title: 49
 usc_section: "10501"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 10501"
-generated_at: "2026-03-30T02:56:19.323Z"
+generated_at: "2026-11-23T21:26:40.673Z"
+status: "active"
 ---
 
 # § 10501. General jurisdiction
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:19.323Z"
       - **(ii)** the representation of employees for collective bargaining; and
       - **(iii)** employment, retirement, annuity, and unemployment systems or other provisions related to dealings between employees and employers.
     - **(B)** The Board has jurisdiction under sections 11102 and 11103 of this title over transportation provided by a local governmental authority only if the Board finds that such governmental authority meets all of the standards and requirements for being a rail carrier providing transportation subject to the jurisdiction of the Interstate Commerce Commission that were in effect immediately before January 1, 1996 . The enactment of the ICC Termination Act of 1995 shall neither expand nor contract coverage of employees and employers by the Railway Labor Act, the Railroad Retirement Act of 1974, the Railroad Retirement Tax Act, and the Railroad Unemployment Insurance Act.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 807](https://www.govinfo.gov/link/statute/109/807); amended [Pub. L. 104–287, § 5(21)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3390](https://www.govinfo.gov/link/statute/110/3390); [Pub. L. 110–432, div. A, title VI, § 602](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4900](https://www.govinfo.gov/link/statute/122/4900); [Pub. L. 114–94, div. A, title III, § 3030(g)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1497](https://www.govinfo.gov/link/statute/129/1497).)*

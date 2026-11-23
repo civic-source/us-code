@@ -3,9 +3,10 @@ title: "Section 7502 - Nonattainment plan provisions in general"
 usc_title: 42
 usc_section: "7502"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7502"
-generated_at: "2026-03-30T02:56:11.304Z"
+generated_at: "2026-11-23T21:26:33.103Z"
+status: "active"
 ---
 
 # § 7502. Nonattainment plan provisions in general
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:11.304Z"
   - **(9)** Such plan shall provide for the implementation of specific measures to be undertaken if the area fails to make reasonable further progress, or to attain the national primary ambient air quality standard by the attainment date applicable under this part. Such measures shall be included in the plan revision as contingency measures to take effect in any such case without further action by the State or the Administrator.
 - **(d)** Any plan revision for a nonattainment area which is required to be submitted in response to a finding by the Administrator pursuant to section 7410(k)(5) of this title (relating to calls for plan revisions) must correct the plan deficiency (or deficiencies) specified by the Administrator and meet all other applicable plan requirements of section 7410 of this title and this part. The Administrator may reasonably adjust the dates otherwise applicable under such requirements to such revision (except for attainment dates that have not yet elapsed), to the extent necessary to achieve a consistent application of such requirements. In order to facilitate submittal by the States of adequate and approvable plans consistent with the applicable requirements of this chapter, the Administrator shall, as appropriate and from time to time, issue written guidelines, interpretations, and information to the States which shall be available to the public, taking into consideration any such guidelines, interpretations, or information provided before November 15, 1990 .
 - **(e)** If the Administrator relaxes a national primary ambient air quality standard after November 15, 1990 , the Administrator shall, within 12 months after the relaxation, promulgate requirements applicable to all areas which have not attained that standard as of the date of such relaxation. Such requirements shall provide for controls which are not less stringent than the controls applicable to areas designated nonattainment before such relaxation.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 172, as added [Pub. L. 95–95, title I, § 129(b)](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 746](https://www.govinfo.gov/link/statute/91/746); amended [Pub. L. 95–190, § 14(a)(55)](https://www.govinfo.gov/link/plaw/95/public/190), (56), Nov. 16, 1977, [91 Stat. 1402](https://www.govinfo.gov/link/statute/91/1402); [Pub. L. 101–549, title I, § 102(b)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2412](https://www.govinfo.gov/link/statute/104/2412).)*

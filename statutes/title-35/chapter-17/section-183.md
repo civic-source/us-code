@@ -3,12 +3,17 @@ title: "Section 183 - Right to compensation"
 usc_title: 35
 usc_section: "183"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "35 U.S.C. § 183"
-generated_at: "2026-03-30T02:55:34.238Z"
+generated_at: "2026-11-23T21:26:08.615Z"
+status: "active"
 ---
 
 # § 183. Right to compensation
 
 An applicant, his successors, assigns, or legal representatives, whose patent is withheld as herein provided, shall have the right, beginning at the date the applicant is notified that, except for such order, his application is otherwise in condition for allowance, or February 1, 1952 , whichever is later, and ending six years after a patent is issued thereon, to apply to the head of any department or agency who caused the order to be issued for compensation for the damage caused by the order of secrecy and/or for the use of the invention by the Government, resulting from his disclosure. The right to compensation for use shall begin on the date of the first use of the invention by the Government. The head of the department or agency is authorized, upon the presentation of a claim, to enter into an agreement with the applicant, his successors, assigns, or legal representatives, in full settlement for the damage and/or use. This settlement agreement shall be conclusive for all purposes notwithstanding any other provision of law to the contrary. If full settlement of the claim cannot be effected, the head of the department or agency may award and pay to such applicant, his successors, assigns, or legal representatives, a sum not exceeding 75 per centum of the sum which the head of the department or agency considers just compensation for the damage and/or use. A claimant may bring suit against the United States in the United States Court of Federal Claims or in the District Court of the United States for the district in which such claimant is a resident for an amount which when added to the award shall constitute just compensation for the damage and/or use of the invention by the Government. The owner of any patent issued upon an application that was subject to a secrecy order issued pursuant to section 181, who did not apply for compensation as above provided, shall have the right, after the date of issuance of such patent, to bring suit in the United States Court of Federal Claims for just compensation for the damage caused by reason of the order of secrecy and/or use by the Government of the invention resulting from his disclosure. The right to compensation for use shall begin on the date of the first use of the invention by the Government. In a suit under the provisions of this section the United States may avail itself of all defenses it may plead in an action under section 1498 of title 28 . This section shall not confer a right of action on anyone or his successors, assigns, or legal representatives who, while in the full-time employment or service of the United States, discovered, invented, or developed the invention on which the claim is based.
 
+
+## Source Credit
+
+*(July 19, 1952, ch. 950, [66 Stat. 806](https://www.govinfo.gov/link/statute/66/806); [Pub. L. 97–164, title I, § 160(a)(12)](https://www.govinfo.gov/link/plaw/97/public/164), Apr. 2, 1982, [96 Stat. 48](https://www.govinfo.gov/link/statute/96/48); [Pub. L. 102–572, title IX, § 902(b)(1)](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4516](https://www.govinfo.gov/link/statute/106/4516); [Pub. L. 112–29, § 20(j)](https://www.govinfo.gov/link/plaw/112/public/29), Sept. 16, 2011, [125 Stat. 335](https://www.govinfo.gov/link/statute/125/335).)*

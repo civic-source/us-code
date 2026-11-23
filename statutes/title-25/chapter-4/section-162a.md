@@ -3,9 +3,10 @@ title: "Section 162a - Deposit of tribal funds in banks; bond or collateral secu
 usc_title: 25
 usc_section: "162a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 162a"
-generated_at: "2026-03-30T02:54:52.799Z"
+generated_at: "2026-11-23T21:25:54.546Z"
+status: "active"
 ---
 
 # § 162a. Deposit of tribal funds in banks; bond or collateral security; investments; collections from irrigation projects; affirmative action required
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:52.799Z"
   - **(6)** Establishing consistent, written policies and procedures for trust fund management and accounting.
   - **(7)** Providing adequate staffing, supervision, and training for trust fund management and accounting.
   - **(8)** Appropriately managing the natural resources located within the boundaries of Indian reservations and trust lands.
+
+## Source Credit
+
+*(June 24, 1938, ch. 648, § 1, [52 Stat. 1037](https://www.govinfo.gov/link/statute/52/1037); [Pub. L. 98–146, title I](https://www.govinfo.gov/link/plaw/98/public/146), Nov. 4, 1983, [97 Stat. 929](https://www.govinfo.gov/link/statute/97/929); [Pub. L. 101–644, title III, § 302](https://www.govinfo.gov/link/plaw/101/public/644), Nov. 29, 1990, [104 Stat. 4667](https://www.govinfo.gov/link/statute/104/4667); [Pub. L. 103–412, title I](https://www.govinfo.gov/link/plaw/103/public/412), §§ 101, 103(b), (c), Oct. 25, 1994, [108 Stat. 4240](https://www.govinfo.gov/link/statute/108/4240), 4241.)*

@@ -3,9 +3,10 @@ title: "Section 4472 - Definitions"
 usc_title: 26
 usc_section: "4472"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4472"
-generated_at: "2026-03-30T02:55:27.803Z"
+generated_at: "2026-11-23T21:26:06.624Z"
+status: "active"
 ---
 
 # § 4472. Definitions
@@ -18,3 +19,7 @@ For purposes of this subchapter—
       - **(ii)** a commercial vessel transporting passengers engaged in gambling aboard the vessel beyond the territorial waters of the United States,
     - **(B)** The term “covered voyage” shall not include a voyage of a passenger vessel of less than 12 hours between 2 ports in the United States.
   - **(2)** The term “passenger vessel” means any vessel having berth or stateroom accommodations for more than 16 passengers.
+
+## Source Credit
+
+*(Added [Pub. L. 101–239, title VII, § 7504(a)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2362](https://www.govinfo.gov/link/statute/103/2362).)*

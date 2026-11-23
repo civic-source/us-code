@@ -3,9 +3,10 @@ title: "Section 516 - Equal employment responsibilities"
 usc_title: 38
 usc_section: "516"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 516"
-generated_at: "2026-03-30T02:55:53.472Z"
+generated_at: "2026-11-23T21:26:16.556Z"
+status: "active"
 ---
 
 # § 516. Equal employment responsibilities
@@ -62,3 +63,17 @@ generated_at: "2026-03-30T02:55:53.472Z"
     - **(A)** reports directly to the Deputy Secretary with respect to the functions under this section; and
     - **(B)** does not also serve in a position that has responsibility over personnel functions of the Department or other functions that conflict with the functions under this section.
 - **(i)** In accordance with subsection (b), not later than one year after the date of the enactment of the Joseph Maxwell Cleland and Robert Joseph Dole Memorial Veterans Benefits and Health Care Improvement Act of 2022, the Secretary shall ensure that each Equal Employment Opportunity program manager of the Department at the facility level reports to the head of the Office of Resolution Management, or such successor office established pursuant to subsection (a), with respect to the equal employment functions of the program manager.
+
+“The Secretary of Veterans Affairs shall—
+
+“Not later than one year after the date of the enactment of this Act [ Dec. 29, 2022 ] and once each year thereafter, the Secretary of Veterans Affairs shall make available to the public on an internet website of the Department an annual report that includes, for the year covered by the report, the following:
+
+Agreement for Assessment and Review
+
+Initial Assessment of System
+
+Review of Administration of System
+
+## Source Credit
+
+*(Added [Pub. L. 105–114, title I, § 101(a)(1)](https://www.govinfo.gov/link/plaw/105/public/114), Nov. 21, 1997, [111 Stat. 2278](https://www.govinfo.gov/link/statute/111/2278); amended [Pub. L. 105–368, title IV, § 403(d)(2)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3339](https://www.govinfo.gov/link/statute/112/3339); [Pub. L. 108–170, title IV, § 405(a)](https://www.govinfo.gov/link/plaw/108/public/170), Dec. 6, 2003, [117 Stat. 2063](https://www.govinfo.gov/link/statute/117/2063); [Pub. L. 117–76, § 7(a)](https://www.govinfo.gov/link/plaw/117/public/76), Dec. 21, 2021, [135 Stat. 1520](https://www.govinfo.gov/link/statute/135/1520); [Pub. L. 117–328, div. U, title IV](https://www.govinfo.gov/link/plaw/117/public/328), §§ 402(a)–(d), 408(a)(1), Dec. 29, 2022, [136 Stat. 5484](https://www.govinfo.gov/link/statute/136/5484), 5485, 5495.)*

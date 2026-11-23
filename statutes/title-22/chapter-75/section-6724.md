@@ -3,9 +3,10 @@ title: "Section 6724 - Procedures for inspections"
 usc_title: 22
 usc_section: "6724"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6724"
-generated_at: "2026-03-30T02:55:05.432Z"
+generated_at: "2026-11-23T21:25:58.696Z"
+status: "active"
 ---
 
 # § 6724. Procedures for inspections
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:55:05.432Z"
   - **(1)** The Director of the United States National Authority is authorized to require the provision of samples to a member of the inspection team of the Technical Secretariat in accordance with the provisions of the Convention. The owner or the operator, occupant or agent in charge of the premises to be inspected shall determine whether the sample shall be taken by representatives of the premises or the inspection team or other individuals present. No sample collected in the United States pursuant to an inspection permitted by this chapter may be transferred for analysis to any laboratory outside the territory of the United States.
   - **(2)** In carrying out their activities, members of the inspection team of the Technical Secretariat and representatives of agencies or departments accompanying the inspection team shall observe safety regulations established at the premises to be inspected, including those for protection of controlled environments within a facility and for personal safety.
 - **(g)** The appropriate representatives of the United States, as designated, if present, shall assist the owner and the operator, occupant or agent in charge of the premises to be inspected in interacting with the members of the inspection team of the Technical Secretariat.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. I, title III, § 304](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–874](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 107–107, div. A, title XII, § 1204(b)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1247](https://www.govinfo.gov/link/statute/115/1247).)*

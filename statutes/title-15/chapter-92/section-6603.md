@@ -3,9 +3,10 @@ title: "Section 6603 - Application of chapter"
 usc_title: 15
 usc_section: "6603"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6603"
-generated_at: "2026-03-30T02:54:08.212Z"
+generated_at: "2026-11-23T21:25:40.025Z"
+status: "active"
 ---
 
 # § 6603. Application of chapter
@@ -61,3 +62,7 @@ generated_at: "2026-03-30T02:54:08.212Z"
     - **(B)** The term “residential mortgage” has the meaning given the term “federally related mortgage loan” under section 2602 of title 12 .
     - **(C)** The term “servicer” means the person, including any successor, responsible for receiving any scheduled periodic payments from a consumer pursuant to the terms of a residential mortgage, including amounts for any escrow account, and for making the payments of principal and interest and such other payments with respect to the amounts received from the borrower as may be required pursuant to the terms of the mortgage. Such term includes the person, including any successor, who makes or holds a loan if such person also services the loan.
 - **(i)** In any Y2K action in which the underlying claim arises under the securities laws (as defined in section 78c(a) of this title ), the provisions of this chapter, other than section 6612(b) of this title , shall not apply.
+
+## Source Credit
+
+*([Pub. L. 106–37, § 4](https://www.govinfo.gov/link/plaw/106/public/37), July 20, 1999, [113 Stat. 188](https://www.govinfo.gov/link/statute/113/188).)*

@@ -3,9 +3,10 @@ title: "Section 6756 - Powers"
 usc_title: 15
 usc_section: "6756"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6756"
-generated_at: "2026-03-30T02:54:08.215Z"
+generated_at: "2026-11-23T21:25:40.032Z"
+status: "active"
 ---
 
 # § 6756. Powers
@@ -20,3 +21,7 @@ In addition to all the powers conferred upon a nonprofit corporation by the Dist
   - **(6)** establish personnel policies of the Association and programs relating to, among other things, conflicts of interest, rates of compensation, where applicable, and qualifications of personnel;
   - **(7)** borrow money; and
   - **(8)** secure funding for such amounts as the Association determines to be necessary and appropriate to organize and begin operations of the Association, which shall be treated as loans to be repaid by the Association with interest at market rate.
+
+## Source Credit
+
+*([Pub. L. 106–102, title III, § 326](https://www.govinfo.gov/link/plaw/106/public/102), as added [Pub. L. 114–1, title II, § 202(a)](https://www.govinfo.gov/link/plaw/114/public/1), Jan. 12, 2015, [129 Stat. 24](https://www.govinfo.gov/link/statute/129/24).)*

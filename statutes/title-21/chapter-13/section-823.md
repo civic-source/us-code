@@ -3,9 +3,10 @@ title: "Section 823 - Registration requirements"
 usc_title: 21
 usc_section: "823"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 823"
-generated_at: "2026-03-30T02:54:54.292Z"
+generated_at: "2026-11-23T21:25:56.230Z"
+status: "active"
 ---
 
 # § 823. Registration requirements
@@ -230,3 +231,73 @@ generated_at: "2026-03-30T02:54:54.292Z"
     - **(B)** the process and criteria that shall be applied to applications to conduct research with those substances; and
     - **(C)** how the process and criteria described in subparagraph (B) differ from the process and criteria applicable to applications to conduct research with other controlled substances in the same schedule.
   - **(2)** The Attorney General shall make information described in paragraph (1) public upon making a determination described in that paragraph, regardless of whether a practitioner has submitted such an application at that time.
+
+(aa) by the Secretary of Health and Human Services under section 355(i) of this title ;
+
+(bb) by the National Institutes of Health or another Federal agency that funds scientific research; or
+
+(cc) pursuant to sections 1301.18 and 1301.32 of title 21, Code of Federal Regulations, or any successors thereto; and
+
+(aa) approve the application; or
+
+(bb) request supplemental information.
+
+(aa) the quantity or type of marijuana or cannabidiol (including any derivative, extract, preparation, and compound thereof);
+
+(bb) the source of such marijuana or cannabidiol; or
+
+(cc) the conditions under which such marijuana or cannabidiol is stored, tracked, or administered.
+
+(aa) If a registrant under clause (i) seeks to change the type of marijuana or cannabidiol (including any derivative, extract, preparation, and compound thereof), the source of such marijuana or cannabidiol, or the conditions under which such marijuana or cannabidiol is stored, tracked, or administered, the registrant shall notify the Attorney General via registered mail, or an electronic means permitted by the Attorney General, not later than 30 days before implementing an amended or supplemental research protocol.
+
+(bb) A registrant may proceed with an amended or supplemental research protocol described in item (aa) if the Attorney General does not explicitly object during the 30-day period beginning on the date on which the Attorney General receives the notice under item (aa).
+
+(cc) The Attorney General may only object to an amended or supplemental research protocol under this subclause if additional security measures are needed to safeguard against diversion or abuse.
+
+(dd) If a registrant under clause (i) seeks to address additional security measures identified by the Attorney General under item (cc), the registrant shall notify the Attorney General via registered mail, or an electronic means permitted by the Attorney General, not later than 30 days before implementing an amended or supplemental research protocol.
+
+(ee) A registrant may proceed with an amended or supplemental research protocol described in item (dd) if the Attorney General does not explicitly object during the 30-day period beginning on the date on which the Attorney General receives the notice under item (dd).
+
+(aa) If a registrant under clause (i) seeks to change the quantity of marijuana needed for research and the change in quantity does not impact the factors described in item (bb) or (cc) of subclause (I) of this clause, the registrant shall notify the Attorney General via registered mail or using an electronic means permitted by the Attorney General.
+
+(bb) A notification under item (aa) shall include— (AA) the Drug Enforcement Administration registration number of the registrant; (BB) the quantity of marijuana or cannabidiol already obtained; (CC) the quantity of additional marijuana or cannabidiol needed to complete the research; and (DD) an attestation that the change in quantity does not impact the source of the marijuana or cannabidiol or the conditions under which the marijuana or cannabidiol is stored, tracked, or administered.
+
+(cc) The Attorney General shall ensure that— (AA) any registered mail return receipt with respect to a notification under item (aa) is submitted for delivery to the registrant providing the notification not later than 3 days after receipt of the notification by the Attorney General; and (BB) notice of receipt of a notification using an electronic means permitted under item (aa) is provided to the registrant providing the notification not later than 3 days after receipt of the notification by the Attorney General.
+
+(dd) (AA) On and after the date described in subitem (BB), a registrant that submits a notification in accordance with item (aa) may proceed with the research as if the change in quantity has been approved on such date, unless the Attorney General notifies the registrant of an objection described in item (ee). (BB) The date described in this subitem is the date on which a registrant submitting a notification under item (aa) receives the registered mail return receipt with respect to the notification or the date on which the registrant receives notice that the notification using an electronic means permitted under item (aa) was received by the Attorney General, as the case may be.
+
+(ee) A notification submitted under item (aa) shall be deemed to be approved unless the Attorney General, not later than 10 days after receiving the notification, explicitly objects based on a finding that the change in quantity— (AA) does impact the source of the marijuana or cannabidiol or the conditions under which the marijuana or cannabidiol is stored, tracked, or administered; or (BB) necessitates that the registrant implement additional security measures to safeguard against diversion or abuse.
+
+(aa) the method of administration of marijuana or cannabidiol;
+
+(bb) the dosing of marijuana or cannabidiol; and
+
+(cc) the number of individuals or patients involved in research.
+
+(aa) in the case of a mass casualty incident; or
+
+(bb) to ensure the proper care and treatment of a specific patient.
+
+(aa) in the case of a grant, contract, cooperative agreement, or other transaction, or intramural research project, by identifying the sponsoring agency and supplying the number of the grant, contract, cooperative agreement, other transaction, or project; or
+
+(bb) in the case of an application under section 355(i) of this title , by supplying the application number and the sponsor of record on the application.
+
+(aa) register the applicant; or
+
+(bb) serve an order to show cause upon the applicant in accordance with section 824(c) of this title .
+
+In General
+
+Report to Congress
+
+In General
+
+Requirements for Other Measures
+
+In general
+
+Contents
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 303](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1253](https://www.govinfo.gov/link/statute/84/1253); [Pub. L. 93–281, § 3](https://www.govinfo.gov/link/plaw/93/public/281), May 14, 1974, [88 Stat. 124](https://www.govinfo.gov/link/statute/88/124); [Pub. L. 95–633, title I, § 109](https://www.govinfo.gov/link/plaw/95/public/633), Nov. 10, 1978, [92 Stat. 3773](https://www.govinfo.gov/link/statute/92/3773); [Pub. L. 98–473, title II, § 511](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2073](https://www.govinfo.gov/link/statute/98/2073); [Pub. L. 103–200, § 3(c)](https://www.govinfo.gov/link/plaw/103/public/200), Dec. 17, 1993, [107 Stat. 2336](https://www.govinfo.gov/link/statute/107/2336); [Pub. L. 106–310, div. B, title XXXV, § 3502(a)](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1222](https://www.govinfo.gov/link/statute/114/1222); [Pub. L. 107–273, div. B, title II, § 2501](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1803](https://www.govinfo.gov/link/statute/116/1803); [Pub. L. 109–56, § 1(a)](https://www.govinfo.gov/link/plaw/109/public/56), (b), Aug. 2, 2005, [119 Stat. 591](https://www.govinfo.gov/link/statute/119/591); [Pub. L. 109–177, title VII, § 712(a)(3)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 263](https://www.govinfo.gov/link/statute/120/263); [Pub. L. 109–469, title XI, § 1102](https://www.govinfo.gov/link/plaw/109/public/469), Dec. 29, 2006, [120 Stat. 3540](https://www.govinfo.gov/link/statute/120/3540); [Pub. L. 110–425, § 3(b)](https://www.govinfo.gov/link/plaw/110/public/425), Oct. 15, 2008, [122 Stat. 4824](https://www.govinfo.gov/link/statute/122/4824); [Pub. L. 114–89, § 3](https://www.govinfo.gov/link/plaw/114/public/89), Nov. 25, 2015, [129 Stat. 701](https://www.govinfo.gov/link/statute/129/701); [Pub. L. 114–145, § 2(a)(1)](https://www.govinfo.gov/link/plaw/114/public/145), Apr. 19, 2016, [130 Stat. 354](https://www.govinfo.gov/link/statute/130/354); [Pub. L. 114–198, title III, § 303(a)(1)](https://www.govinfo.gov/link/plaw/114/public/198), (b), July 22, 2016, [130 Stat. 720](https://www.govinfo.gov/link/statute/130/720), 723; [Pub. L. 115–83, § 2](https://www.govinfo.gov/link/plaw/115/public/83), Nov. 17, 2017, [131 Stat. 1267](https://www.govinfo.gov/link/statute/131/1267); [Pub. L. 115–271, title III](https://www.govinfo.gov/link/plaw/115/public/271), §§ 3201(a)–(d), 3202(a), Oct. 24, 2018, [132 Stat. 3943](https://www.govinfo.gov/link/statute/132/3943), 3944; [Pub. L. 117–215, title I](https://www.govinfo.gov/link/plaw/117/public/215), §§ 101, 102(a), 103(a), Dec. 2, 2022, [136 Stat. 2258](https://www.govinfo.gov/link/statute/136/2258), 2260, 2261; [Pub. L. 117–328, div. FF, title I](https://www.govinfo.gov/link/plaw/117/public/328), §§ 1262(a), 1263(a), Dec. 29, 2022, [136 Stat. 5681](https://www.govinfo.gov/link/statute/136/5681), 5683; [Pub. L. 119–26](https://www.govinfo.gov/link/plaw/119/public/26), §§ 3(a), (g), 4(2)(A), July 16, 2025, [139 Stat. 411](https://www.govinfo.gov/link/statute/139/411), 416; [Pub. L. 119–44, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/119/public/44), Dec. 1, 2025, [139 Stat. 690](https://www.govinfo.gov/link/statute/139/690).)*

@@ -3,9 +3,10 @@ title: "Section 9002 - Definitions"
 usc_title: 22
 usc_section: "9002"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9002"
-generated_at: "2026-03-30T02:55:05.460Z"
+generated_at: "2026-11-23T21:25:58.761Z"
+status: "active"
 ---
 
 # § 9002. Definitions
@@ -21,3 +22,7 @@ For the purposes of this chapter—
   - **(7)** the term “rights of access” means visitation rights;
   - **(8)** the term “State” means any of the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States; and
   - **(9)** the term “United States Central Authority” means the agency of the Federal Government designated by the President under section 9006(a) of this title .
+
+## Source Credit
+
+*([Pub. L. 100–300, § 3](https://www.govinfo.gov/link/plaw/100/public/300), Apr. 29, 1988, [102 Stat. 437](https://www.govinfo.gov/link/statute/102/437).)*

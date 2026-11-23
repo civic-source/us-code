@@ -3,9 +3,10 @@ title: "Section 40117 - Passenger facility charges"
 usc_title: 49
 usc_section: "40117"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 40117"
-generated_at: "2026-03-30T02:56:19.370Z"
+generated_at: "2026-11-23T21:26:40.840Z"
+status: "active"
 ---
 
 # § 40117. Passenger facility charges
@@ -137,3 +138,193 @@ generated_at: "2026-03-30T02:56:19.370Z"
 - **(n)** Notwithstanding the requirements relating to airport control under subsection (b)(1), the Secretary may authorize use of a passenger facility charge under subsection (b) to finance an eligible airport-related project if—
   - **(1)** the eligible agency seeking to impose the new charge controls an airport where a $2.00 passenger facility charge became effective on January 1, 2013 ; and
   - **(2)** the location of the project to be financed by the new charge is at an airport that was under the control of the same eligible agency that had controlled the airport described in paragraph (1).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40117(a)(1) | 49 App.:1513(e) (15)(A), (B), (D). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1113(e)(1)–(3), (5)–(15); added Nov. 5, 1990 , Pub. L. 101–508, § 9110(2) , 104 Stat. 1388–357 . |
+| 40117(a)(2) | (no source). |  |
+| 40117(a)(3) | 49 App.:1513(e) (15)(C). |  |
+| 40117(a)(4), (5) | (no source). |  |
+| 40117(b)(1) | 49 App.:1513(e)(1). |  |
+| 40117(b)(2) | 49 App.:1513(e)(8) (1st sentence). |  |
+| 40117(b)(3) | 49 App.:1513(e)(6) (1st sentence). |  |
+| 40117(c)(1), (2) | 49 App.:1513(e) (11)(A)–(C). |  |
+| 40117(c)(3) | 49 App.:1513(e) (11)(D), (E) (last sentence). |  |
+| 40117(d) | 49 App.:1513(e)(2), (5). |  |
+| 40117(e) (1)(A) | 49 App.:1513(e) (11)(E) (1st sentence). |  |
+| 40117(e) (1)(B) | 49 App.:1513(e)(13). |  |
+| 40117(e) (2)(A) | 49 App.:1513(e)(6) (last sentence). |  |
+| 40117(e) (2)(B) | 49 App.:1513(e)(3). |  |
+| 40117(e) (2)(C) | 49 App.:1513(e)(4). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1113(e)(4); added Nov. 5, 1990 , Pub. L. 101–508, § 9110(2) , 104 Stat. 1388–357 ; Oct. 31, 1992 , Pub. L. 102–581, § 105 , 106 Stat. 4877 . |
+| 40117(f)(1) | 49 App.:1513(e)(8) (last sentence). |  |
+| 40117(f)(2), (3) | 49 App.:1513(e)(9). |  |
+| 40117(g) | 49 App.:1513(e)(7). |  |
+| 40117(h) | 49 App.:1513(e)(12). |  |
+| 40117(i) | 49 App.:1513(e)(10), (14). |  |
+
+
+Definitions
+
+Airport, commercial service airport, and public agency
+
+Eligible agency
+
+Eligible airport-related project
+
+Ground support equipment
+
+Passenger facility charge
+
+Passenger facility revenue
+
+General Authority
+
+Maximum cost for certain low-emission technology projects
+
+Debt service for certain projects
+
+Noise mitigation for certain schools.—
+
+In general
+
+Eligible project costs
+
+Applications
+
+Limitations on Approving Applications
+
+Limitations on Imposing Charges
+
+Limitations on Contracts, Leases, and Use Agreements
+
+Treatment of Revenue
+
+Compliance
+
+Regulations
+
+Limitation on Certain Actions
+
+Competition Plans.—
+
+In general
+
+Secretary shall ensure implementation and compliance
+
+Passenger Facility Charge Streamlining.—
+
+In general.—
+
+Regulations
+
+Passenger facility charge
+
+Notice and opportunity for consultation
+
+Notice of intention
+
+Acknowledgment of receipt and indication of objection.—
+
+In general
+
+Prohibited objection
+
+Allowed objection
+
+Authority to impose charge
+
+Acknowledgement not an order
+
+Financial Management of Charges.—
+
+Handling of charges
+
+Trust fund status
+
+Prohibition
+
+Compensation to eligible entities
+
+Interest on amounts
+
+Existing regulations
+
+Covered air carrier defined
+
+Use of Revenues at Previously Associated Airport
+
+Historical and Revision Notes
+
+Pub. L
+
+40117(a)(1)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 9110(2)
+
+104 Stat. 1388–357
+
+40117(a)(2)
+
+40117(a)(3)
+
+40117(b)(1)
+
+40117(b)(2)
+
+40117(b)(3)
+
+40117(c)(3)
+
+40117(d)
+
+40117(e) (1)(A)
+
+40117(e) (1)(B)
+
+40117(e) (2)(C)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 9110(2)
+
+104 Stat. 1388–357
+
+Oct. 31, 1992
+
+Pub. L. 102–581, § 105
+
+106 Stat. 4877
+
+40117(f)(1)
+
+40117(f)(2), (3)
+
+40117(g)
+
+40117(h)
+
+40117(i)
+
+Rulemaking
+
+Interim Guidance
+
+“The Congress makes the following findings:
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1113](https://www.govinfo.gov/link/statute/108/1113); [Pub. L. 103–305, title II](https://www.govinfo.gov/link/plaw/103/public/305), §§ 203, 204(a)(1), (b), Aug. 23, 1994, [108 Stat. 1582](https://www.govinfo.gov/link/statute/108/1582), 1583; [Pub. L. 104–264, title I, § 142(b)(2)](https://www.govinfo.gov/link/plaw/104/public/264), title XII, § 1202, Oct. 9, 1996, [110 Stat. 3221](https://www.govinfo.gov/link/statute/110/3221), 3280; [Pub. L. 104–287, § 5(67)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3395](https://www.govinfo.gov/link/statute/110/3395); [Pub. L. 106–181, title I](https://www.govinfo.gov/link/plaw/106/public/181), §§ 105(a), (b), 135(a), (b), 151, 152(a), 155(c), Apr. 5, 2000, [114 Stat. 71](https://www.govinfo.gov/link/statute/114/71), 83, 86–88; [Pub. L. 108–176, title I](https://www.govinfo.gov/link/plaw/108/public/176), §§ 121(a)–(c), 122–123(d), 124, Dec. 12, 2003, [117 Stat. 2499–2502](https://www.govinfo.gov/link/statute/117/2499); [Pub. L. 110–253, § 3(c)(1)](https://www.govinfo.gov/link/plaw/110/public/253), June 30, 2008, [122 Stat. 2417](https://www.govinfo.gov/link/statute/122/2417); [Pub. L. 110–330, § 5(a)](https://www.govinfo.gov/link/plaw/110/public/330), Sept. 30, 2008, [122 Stat. 3718](https://www.govinfo.gov/link/statute/122/3718); [Pub. L. 110–337, § 1](https://www.govinfo.gov/link/plaw/110/public/337), Oct. 2, 2008, [122 Stat. 3729](https://www.govinfo.gov/link/statute/122/3729); [Pub. L. 111–12, § 5(a)](https://www.govinfo.gov/link/plaw/111/public/12), Mar. 30, 2009, [123 Stat. 1458](https://www.govinfo.gov/link/statute/123/1458); [Pub. L. 111–69, § 5(a)](https://www.govinfo.gov/link/plaw/111/public/69), Oct. 1, 2009, [123 Stat. 2055](https://www.govinfo.gov/link/statute/123/2055); [Pub. L. 111–116, § 5(a)](https://www.govinfo.gov/link/plaw/111/public/116), Dec. 16, 2009, [123 Stat. 3032](https://www.govinfo.gov/link/statute/123/3032); [Pub. L. 111–153, § 5(a)](https://www.govinfo.gov/link/plaw/111/public/153), Mar. 31, 2010, [124 Stat. 1085](https://www.govinfo.gov/link/statute/124/1085); [Pub. L. 111–161, § 5(a)](https://www.govinfo.gov/link/plaw/111/public/161), Apr. 30, 2010, [124 Stat. 1127](https://www.govinfo.gov/link/statute/124/1127); [Pub. L. 111–197, § 5(a)](https://www.govinfo.gov/link/plaw/111/public/197), July 2, 2010, [124 Stat. 1354](https://www.govinfo.gov/link/statute/124/1354); [Pub. L. 111–216, title I, § 104(a)](https://www.govinfo.gov/link/plaw/111/public/216), Aug. 1, 2010, [124 Stat. 2349](https://www.govinfo.gov/link/statute/124/2349); [Pub. L. 111–249, § 5(a)](https://www.govinfo.gov/link/plaw/111/public/249), Sept. 30, 2010, [124 Stat. 2628](https://www.govinfo.gov/link/statute/124/2628); [Pub. L. 111–329, § 5(a)](https://www.govinfo.gov/link/plaw/111/public/329), Dec. 22, 2010, [124 Stat. 3567](https://www.govinfo.gov/link/statute/124/3567); [Pub. L. 112–7, § 5(a)](https://www.govinfo.gov/link/plaw/112/public/7), Mar. 31, 2011, [125 Stat. 32](https://www.govinfo.gov/link/statute/125/32); [Pub. L. 112–16, § 5(a)](https://www.govinfo.gov/link/plaw/112/public/16), May 31, 2011, [125 Stat. 219](https://www.govinfo.gov/link/statute/125/219); [Pub. L. 112–21, § 5(a)](https://www.govinfo.gov/link/plaw/112/public/21), June 29, 2011, [125 Stat. 234](https://www.govinfo.gov/link/statute/125/234); [Pub. L. 112–27, § 5(a)](https://www.govinfo.gov/link/plaw/112/public/27), Aug. 5, 2011, [125 Stat. 271](https://www.govinfo.gov/link/statute/125/271); [Pub. L. 112–30, title II, § 205(a)](https://www.govinfo.gov/link/plaw/112/public/30), Sept. 16, 2011, [125 Stat. 358](https://www.govinfo.gov/link/statute/125/358); [Pub. L. 112–91, § 5(a)](https://www.govinfo.gov/link/plaw/112/public/91), Jan. 31, 2012, [126 Stat. 4](https://www.govinfo.gov/link/statute/126/4); [Pub. L. 112–95, title I](https://www.govinfo.gov/link/plaw/112/public/95), §§ 111(a)–(c)(1), 152(e)(1), Feb. 14, 2012, [126 Stat. 17](https://www.govinfo.gov/link/statute/126/17), 18, 34; [Pub. L. 114–190, title II, § 2302](https://www.govinfo.gov/link/plaw/114/public/190), July 15, 2016, [130 Stat. 638](https://www.govinfo.gov/link/statute/130/638); [Pub. L. 115–254, div. B, title I, § 121](https://www.govinfo.gov/link/plaw/115/public/254), div. B, title V, § 539(b), Oct. 5, 2018, [132 Stat. 3201](https://www.govinfo.gov/link/statute/132/3201), 3370; [Pub. L. 118–63, title VII](https://www.govinfo.gov/link/plaw/118/public/63), §§ 775, 776(a), May 16, 2024, [138 Stat. 1300](https://www.govinfo.gov/link/statute/138/1300).)*

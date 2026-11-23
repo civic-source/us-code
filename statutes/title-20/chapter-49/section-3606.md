@@ -3,9 +3,10 @@ title: "Section 3606 - Standards and safety procedures"
 usc_title: 20
 usc_section: "3606"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 3606"
-generated_at: "2026-03-30T02:54:48.180Z"
+generated_at: "2026-11-23T21:25:47.420Z"
+status: "active"
 ---
 
 # § 3606. Standards and safety procedures
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:48.180Z"
     - **(C)** restoring such school buildings to conditions comparable to those existing before asbestos containment or removal activities were undertaken; and
   - **(2)** standards for determining which contractors are qualified to carry out the activities referred to in paragraph (1).
 - **(c)** In carrying out his duties under this section, the Secretary shall avoid, to the maximum extent practicable, duplicating similar activities undertaken by the Environmental Protection Agency.
+
+## Source Credit
+
+*([Pub. L. 96–270, § 7](https://www.govinfo.gov/link/plaw/96/public/270), June 14, 1980, [94 Stat. 494](https://www.govinfo.gov/link/statute/94/494).)*

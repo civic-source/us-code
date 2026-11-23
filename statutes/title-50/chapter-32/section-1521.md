@@ -3,9 +3,10 @@ title: "Section 1521 - Destruction of existing stockpile of lethal chemical agen
 usc_title: 50
 usc_section: "1521"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1521"
-generated_at: "2026-03-30T02:56:26.205Z"
+generated_at: "2026-11-23T21:26:38.913Z"
+status: "active"
 ---
 
 # § 1521. Destruction of existing stockpile of lethal chemical agents and munitions
@@ -130,3 +131,17 @@ generated_at: "2026-03-30T02:56:26.205Z"
   - **(4)** The term “destruction” means, with respect to chemical munitions or agents—
     - **(A)** the demolishment of such munitions or agents by incineration or by any other means; or
     - **(B)** the dismantling or other disposal of such munitions or agents so as to make them useless for military purposes and harmless to human beings under normal circumstances.
+
+“The amendments made by subsection (a) [amending this section]—
+
+Reporting on Major Programs
+
+Major Program Within the Chemical Demilitarization Programs of the Department of Defense Defined
+
+Findings
+
+Sense of Congress
+
+## Source Credit
+
+*([Pub. L. 99–145, title XIV, § 1412](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 747](https://www.govinfo.gov/link/statute/99/747); [Pub. L. 100–456, div. A, title I, § 118](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 1934](https://www.govinfo.gov/link/statute/102/1934); [Pub. L. 101–510, div. A, title I](https://www.govinfo.gov/link/plaw/101/public/510), §§ 171, 172, Nov. 5, 1990, [104 Stat. 1507](https://www.govinfo.gov/link/statute/104/1507); [Pub. L. 102–190, div. A, title I, § 151](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1313](https://www.govinfo.gov/link/statute/105/1313); [Pub. L. 102–484, div. A, title I](https://www.govinfo.gov/link/plaw/102/public/484), §§ 171, 179, Oct. 23, 1992, [106 Stat. 2341](https://www.govinfo.gov/link/statute/106/2341), 2347; [Pub. L. 103–160, div. A, title I, § 107(c)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1564](https://www.govinfo.gov/link/statute/107/1564); [Pub. L. 103–337, div. A, title I, § 142](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2689](https://www.govinfo.gov/link/statute/108/2689); [Pub. L. 104–106, div. A, title I, § 153(b)](https://www.govinfo.gov/link/plaw/104/public/106), (c), title XV, § 1502(c)(6), Feb. 10, 1996, [110 Stat. 216](https://www.govinfo.gov/link/statute/110/216), 508; [Pub. L. 104–201, div. A, title X, § 1074(d)(2)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2661](https://www.govinfo.gov/link/statute/110/2661); [Pub. L. 105–85, div. A, title X, § 1041(d)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1885](https://www.govinfo.gov/link/statute/111/1885); [Pub. L. 105–261, div. A, title I, § 141](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 1942](https://www.govinfo.gov/link/statute/112/1942); [Pub. L. 106–65, div. A, title I, § 141(b)](https://www.govinfo.gov/link/plaw/106/public/65), title X, § 1067(11), Oct. 5, 1999, [113 Stat. 537](https://www.govinfo.gov/link/statute/113/537), 775; [Pub. L. 107–107, div. A, title X, § 1048(i)(4)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1229](https://www.govinfo.gov/link/statute/115/1229); [Pub. L. 108–375, div. A, title IX, § 931](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2031](https://www.govinfo.gov/link/statute/118/2031); [Pub. L. 109–163, div. A, title IX, § 921(a)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3410](https://www.govinfo.gov/link/statute/119/3410); [Pub. L. 110–181, div. A, title IX](https://www.govinfo.gov/link/plaw/110/public/181), §§ 923, 924, Jan. 28, 2008, [122 Stat. 284](https://www.govinfo.gov/link/statute/122/284); [Pub. L. 111–383, div. A, title XIV, § 1421(a)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4412](https://www.govinfo.gov/link/statute/124/4412); [Pub. L. 112–239, div. A, title XIV, § 1421(a)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2049](https://www.govinfo.gov/link/statute/126/2049); [Pub. L. 114–92, div. A, title XIV, § 1411](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1083](https://www.govinfo.gov/link/statute/129/1083); [Pub. L. 115–232, div. A, title XIV, § 1424](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2094](https://www.govinfo.gov/link/statute/132/2094); [Pub. L. 116–92, div. A, title IX, § 902(91)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1554](https://www.govinfo.gov/link/statute/133/1554); [Pub. L. 118–159, div. A, title XVI, § 1621(d)(4)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2171](https://www.govinfo.gov/link/statute/138/2171).)*

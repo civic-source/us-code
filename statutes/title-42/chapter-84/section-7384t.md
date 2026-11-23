@@ -3,9 +3,10 @@ title: "Section 7384t - Medical benefits"
 usc_title: 42
 usc_section: "7384t"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7384t"
-generated_at: "2026-03-30T02:56:11.292Z"
+generated_at: "2026-11-23T21:26:33.070Z"
+status: "active"
 ---
 
 # § 7384t. Medical benefits
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.292Z"
 - **(d)** An individual receiving benefits under this section shall be furnished those benefits as of the date on which that individual submitted the claim for those benefits in accordance with this subchapter.
 - **(e)** The benefits provided under this section, when authorized or approved by the President, shall be paid from the compensation fund established under section 7384e of this title .
 - **(f)** This section shall take effect on July 31, 2001 , unless Congress otherwise provides in an Act enacted before that date.
+
+## Source Credit
+
+*([Pub. L. 106–398, § 1 [div. C, title XXXVI, § 3629]](https://www.govinfo.gov/link/plaw/106/public/398), Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–507.)*

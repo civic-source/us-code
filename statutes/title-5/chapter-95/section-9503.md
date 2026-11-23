@@ -3,9 +3,10 @@ title: "Section 9503 - Streamlined critical pay authority"
 usc_title: 5
 usc_section: "9503"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 9503"
-generated_at: "2026-03-30T02:52:56.072Z"
+generated_at: "2026-11-23T21:25:23.461Z"
+status: "active"
 ---
 
 # § 9503. Streamlined critical pay authority
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:52:56.072Z"
   - **(7)** total annual compensation for any appointee to such positions does not exceed the highest total annual compensation payable at the rate determined under section 104 of title 3 ; and
   - **(8)** all such positions are excluded from the collective bargaining unit.
 - **(b)** Individuals appointed under this section shall not be considered to be employees for purposes of subchapter II of chapter 75.
+
+## Source Credit
+
+*(Added [Pub. L. 105–206, title I, § 1201(a)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 712](https://www.govinfo.gov/link/statute/112/712); amended [Pub. L. 110–161, div. D, title I, § 105](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 1977](https://www.govinfo.gov/link/statute/121/1977); [Pub. L. 113–6, div. F, title III, § 1309](https://www.govinfo.gov/link/plaw/113/public/6), Mar. 26, 2013, [127 Stat. 418](https://www.govinfo.gov/link/statute/127/418).)*

@@ -3,12 +3,17 @@ title: "Section 1087i - Authority to sell loans"
 usc_title: 20
 usc_section: "1087i"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1087i"
-generated_at: "2026-03-30T02:54:48.125Z"
+generated_at: "2026-11-23T21:25:47.155Z"
+status: "active"
 ---
 
 # § 1087i. Authority to sell loans
 
 The Secretary, in consultation with the Secretary of the Treasury, is authorized to sell loans made under this part on such terms as the Secretary determines are in the best interest of the United States, except that any such sale shall not result in any cost to the Federal Government. Notwithstanding any other provision of law, the proceeds of any such sale may be used by the Secretary to offer reductions in the interest rate paid by a borrower of a loan made under this part as the Secretary determines appropriate to encourage on-time repayment in accordance with section 1087e(b)(7) of this title . Such reductions may be offered only if the Secretary determines the reductions are in the best financial interests of the Federal Government.
 
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 459](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title IV, § 455](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1718](https://www.govinfo.gov/link/statute/112/1718).)*

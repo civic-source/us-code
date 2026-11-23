@@ -3,12 +3,17 @@ title: "Section 276aa - Establishment of the Kermit Roosevelt fund; creation and
 usc_title: 22
 usc_section: "276aa"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 276aa"
-generated_at: "2026-03-30T02:55:05.310Z"
+generated_at: "2026-11-23T21:25:58.343Z"
+status: "active"
 ---
 
 # § 276aa. Establishment of the Kermit Roosevelt fund; creation and composition of board of trustees
 
 There is established in the Department of the Army a board to be known as the Trustees of the Kermit Roosevelt Fund, whose duty it shall be properly to administer all money and property which on and after July 2, 1945 , may come under its control as part of the Kermit Roosevelt fund, created pursuant to section 276bb of this title . The board shall be composed of the Chief of Finance, United States Army, ex officio, and three general officers of the Army who shall be appointed to the board and may be replaced thereon by the Secretary of the Army.
 
+
+## Source Credit
+
+*(July 2, 1945, ch. 228, § 1, [59 Stat. 316](https://www.govinfo.gov/link/statute/59/316); July 26, 1947, ch. 343, title II, § 205(a), [61 Stat. 501](https://www.govinfo.gov/link/statute/61/501).)*

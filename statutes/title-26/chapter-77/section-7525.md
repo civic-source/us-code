@@ -3,9 +3,10 @@ title: "Section 7525 - Confidentiality privileges relating to taxpayer communica
 usc_title: 26
 usc_section: "7525"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7525"
-generated_at: "2026-03-30T02:55:27.878Z"
+generated_at: "2026-11-23T21:26:06.983Z"
+status: "active"
 ---
 
 # § 7525. Confidentiality privileges relating to taxpayer communications
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:27.878Z"
     - **(B)** any director, officer, employee, agent, or representative of the person, or
     - **(C)** any other person holding a capital or profits interest in the person, and
   - **(2)** in connection with the promotion of the direct or indirect participation of the person in any tax shelter (as defined in section 6662(d)(2)(C)(ii)).
+
+## Source Credit
+
+*(Added [Pub. L. 105–206, title III, § 3411(a)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 750](https://www.govinfo.gov/link/statute/112/750); amended [Pub. L. 108–357, title VIII, § 813(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1581](https://www.govinfo.gov/link/statute/118/1581).)*

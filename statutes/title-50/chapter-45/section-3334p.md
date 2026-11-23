@@ -3,9 +3,10 @@ title: "Section 3334p - Increased intelligence-related engineering, research, an
 usc_title: 50
 usc_section: "3334p"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3334p"
-generated_at: "2026-03-30T02:56:26.245Z"
+generated_at: "2026-11-23T21:26:39.037Z"
+status: "active"
 ---
 
 # § 3334p. Increased intelligence-related engineering, research, and development capabilities of minority institutions
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:26.245Z"
 - **(d)** In this section, the term “covered institution” means the following:
   - **(1)** A part B institution (as defined in section 1061 of title 20 ).
   - **(2)** An institution of higher education (as defined in section 1001 of title 20 ) not covered by paragraph (1) at which not less than 50 percent of the total student enrollment consists of students from ethnic groups that are underrepresented in the fields of science and engineering, as determined by the Director of National Intelligence.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. F, title LXVIII, § 6812](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3602](https://www.govinfo.gov/link/statute/136/3602).)*

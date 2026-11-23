@@ -3,9 +3,10 @@ title: "Section 112 - Drug interdiction and counter-drug activities"
 usc_title: 32
 usc_section: "112"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "32 U.S.C. § 112"
-generated_at: "2026-03-30T02:55:31.865Z"
+generated_at: "2026-11-23T21:26:08.281Z"
+status: "active"
 ---
 
 # § 112. Drug interdiction and counter-drug activities
@@ -56,3 +57,47 @@ generated_at: "2026-03-30T02:55:31.865Z"
   - **(1)** The term “drug interdiction and counter-drug activities”, with respect to the National Guard of a State, means the use of National Guard personnel in drug interdiction and counter-drug law enforcement activities, including drug demand reduction activities, authorized by the law of the State and requested by the Governor of the State.
   - **(2)** The term “Governor of a State” means, in the case of the District of Columbia, the Commanding General of the National Guard of the District of Columbia.
   - **(3)** The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, or a territory or possession of the United States.
+
+Funding Assistance
+
+Use of Personnel Performing Full-Time National Guard Duty
+
+Plan Requirements
+
+Examination of Plan
+
+End Strength Limitation
+
+Annual Report
+
+Statutory Construction
+
+Definitions
+
+Authority To Operate
+
+Purpose
+
+Counterdrug Schools Specified
+
+Use of National Guard Personnel.—
+
+In general
+
+Definition
+
+Curriculum Review
+
+Treatment Under Authority To Provide Counterdrug Support
+
+Annual Report on Activities
+
+Authorization of Appropriations.—
+
+In general
+
+Construction
+
+## Source Credit
+
+*(Added [Pub. L. 101–189, div. A, title XII, § 1207(a)(1)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1564](https://www.govinfo.gov/link/statute/103/1564); amended [Pub. L. 102–25, title VII, § 703](https://www.govinfo.gov/link/plaw/102/public/25), Apr. 6, 1991, [105 Stat. 118](https://www.govinfo.gov/link/statute/105/118); [Pub. L. 102–396, title IX, § 9099A](https://www.govinfo.gov/link/plaw/102/public/396), Oct. 6, 1992, [106 Stat. 1926](https://www.govinfo.gov/link/statute/106/1926); [Pub. L. 104–106, div. A, title X, § 1021](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 426](https://www.govinfo.gov/link/statute/110/426); [Pub. L. 104–208, div. C, title VI, § 660](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–720](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 105–85, div. A, title X, § 1031](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1880](https://www.govinfo.gov/link/statute/111/1880); [Pub. L. 105–261, div. A, title X, § 1022](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2120](https://www.govinfo.gov/link/statute/112/2120); [Pub. L. 106–65, div. A, title X, § 1021](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 746](https://www.govinfo.gov/link/statute/113/746); [Pub. L. 108–375, div. A, title IV, § 416(k)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1869](https://www.govinfo.gov/link/statute/118/1869); [Pub. L. 118–31, div. A, title X, § 1012](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 380](https://www.govinfo.gov/link/statute/137/380).)*

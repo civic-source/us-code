@@ -3,9 +3,10 @@ title: "Section 5936 - Farm and Ranch Stress Assistance Network"
 usc_title: 7
 usc_section: "5936"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 5936"
-generated_at: "2026-03-30T02:53:42.421Z"
+generated_at: "2026-11-23T21:25:28.376Z"
+status: "active"
 ---
 
 # § 5936. Farm and Ranch Stress Assistance Network
@@ -48,3 +49,37 @@ generated_at: "2026-03-30T02:53:42.421Z"
       - **(iii)** rural families and communities; and
       - **(iv)** succession planning.
 - **(f)** For purposes of this section, the term “State” has the meaning given such term in section 3103 of this title .
+
+Public Service Announcement Campaign to Address Farm and Ranch Mental Health.—
+
+In general
+
+Requirements
+
+Contractor.—
+
+In general
+
+Requirement
+
+Authorization of appropriations
+
+Employee Training Program to Manage Farmer and Rancher Stress.—
+
+In general
+
+Report
+
+Task Force for Assessment of Causes of Mental Stress and Best Practices for Response.—
+
+In general
+
+Submission of report
+
+Collaboration
+
+Cessation of Authorities
+
+## Source Credit
+
+*([Pub. L. 110–234, title VII, § 7522](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1272](https://www.govinfo.gov/link/statute/122/1272); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7522, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2033; [Pub. L. 115–334, title VII, § 7412](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4817](https://www.govinfo.gov/link/statute/132/4817).)*

@@ -3,9 +3,10 @@ title: "Section 1064 - Cancellation of registration"
 usc_title: 15
 usc_section: "1064"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1064"
-generated_at: "2026-03-30T02:54:08.125Z"
+generated_at: "2026-11-23T21:25:39.781Z"
+status: "active"
 ---
 
 # § 1064. Cancellation of registration
@@ -18,3 +19,7 @@ A petition to cancel a registration of a mark, stating the grounds relied upon, 
   - **(4)** At any time if the mark is registered under the Act of March 3, 1881 , or the Act of February 20, 1905 , and has not been published under the provisions of subsection (c) of section 1062 of this title .
   - **(5)** At any time in the case of a certification mark on the ground that the registrant (A) does not control, or is not able legitimately to exercise control over, the use of such mark, or (B) engages in the production or marketing of any goods or services to which the certification mark is applied, or (C) permits the use of the certification mark for purposes other than to certify, or (D) discriminately refuses to certify or to continue to certify the goods or services of any person who maintains the standards or conditions which such mark certifies.
   - **(6)** At any time after the 3-year period following the date of registration, if the registered mark has never been used in commerce on or in connection with some or all of the goods or services recited in the registration:
+
+## Source Credit
+
+*(July 5, 1946, ch. 540, title I, § 14, [60 Stat. 433](https://www.govinfo.gov/link/statute/60/433); [Pub. L. 87–772, § 9](https://www.govinfo.gov/link/plaw/87/public/772), Oct. 9, 1962, [76 Stat. 771](https://www.govinfo.gov/link/statute/76/771); [Pub. L. 97–247, § 9(b)](https://www.govinfo.gov/link/plaw/97/public/247), Aug. 27, 1982, [96 Stat. 320](https://www.govinfo.gov/link/statute/96/320); [Pub. L. 98–620, title I, § 102](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3335](https://www.govinfo.gov/link/statute/98/3335); [Pub. L. 100–667, title I, § 115](https://www.govinfo.gov/link/plaw/100/public/667), Nov. 16, 1988, [102 Stat. 3940](https://www.govinfo.gov/link/statute/102/3940); [Pub. L. 105–330, title II, § 201(a)(4)](https://www.govinfo.gov/link/plaw/105/public/330), title III, § 301, Oct. 30, 1998, [112 Stat. 3070](https://www.govinfo.gov/link/statute/112/3070); [Pub. L. 106–43, § 2(c)](https://www.govinfo.gov/link/plaw/106/public/43), Aug. 5, 1999, [113 Stat. 218](https://www.govinfo.gov/link/statute/113/218); [Pub. L. 109–312, § 3(c)](https://www.govinfo.gov/link/plaw/109/public/312), Oct. 6, 2006, [120 Stat. 1732](https://www.govinfo.gov/link/statute/120/1732); [Pub. L. 116–260, div. Q, title II, § 225(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2204](https://www.govinfo.gov/link/statute/134/2204).)*

@@ -3,9 +3,10 @@ title: "Section 30703 - Bills of lading"
 usc_title: 46
 usc_section: "30703"
 chapter: 307
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 30703"
-generated_at: "2026-03-30T02:56:15.562Z"
+generated_at: "2026-11-23T21:26:37.162Z"
+status: "active"
 ---
 
 # § 30703. Bills of lading
@@ -16,3 +17,26 @@ generated_at: "2026-03-30T02:56:15.562Z"
   - **(2)** the number of packages, or the quantity or weight, and whether it is carrier’s or shipper’s weight; and
   - **(3)** the apparent condition of the goods.
 - **(c)** A bill of lading or shipping document issued under this section is prima facie evidence of receipt of the goods described.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30703 | 46 App.:193. | Feb. 13, 1893, ch. 105, § 4 , 27 Stat. 445 . |
+
+
+Issuance
+
+Contents
+
+Prima Facie Evidence of Receipt
+
+Historical and Revision Notes
+
+30703
+
+Feb. 13, 1893, ch. 105, § 4
+
+27 Stat. 445
+
+## Source Credit
+
+*([Pub. L. 109–304, § 6(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1516](https://www.govinfo.gov/link/statute/120/1516).)*

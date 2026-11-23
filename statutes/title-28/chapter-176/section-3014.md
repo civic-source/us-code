@@ -3,9 +3,10 @@ title: "Section 3014 - Exempt property"
 usc_title: 28
 usc_section: "3014"
 chapter: 176
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 3014"
-generated_at: "2026-03-30T02:55:30.152Z"
+generated_at: "2026-11-23T21:26:01.141Z"
+status: "active"
 ---
 
 # § 3014. Exempt property
@@ -20,3 +21,19 @@ generated_at: "2026-03-30T02:55:30.152Z"
   - **(2)** The United States or the debtor, by application to the court in which an action or proceeding under this chapter is pending, may request a hearing on the applicability of any exemption claimed by the debtor. The court shall determine the extent (if any) to which the exemption applies. Unless it is reasonably evident that the exemption applies, the debtor shall bear the burden of persuasion.
   - **(3)** Assertion of an exemption shall prevent the United States from selling or otherwise disposing of the property for which such exemption is claimed until the court determines whether the debtor has a substantial nonexempt interest in such property. The United States may not take possession of, dispose of, sell, or otherwise interfere with the debtor’s normal use and enjoyment of an interest in property the United States knows or has reason to know is exempt.
 - **(c)** Subject to the limitation in subsection (a), this section shall apply separately with respect to each debtor in a joint case.
+
+Election To Exempt Property
+
+Effect on Assertion and Manner of Determination.—
+
+Statement
+
+Hearing
+
+Stay of Disposition
+
+Debtors in Joint Cases
+
+## Source Credit
+
+*(Added [Pub. L. 101–647, title XXXVI, § 3611](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4938](https://www.govinfo.gov/link/statute/104/4938).)*

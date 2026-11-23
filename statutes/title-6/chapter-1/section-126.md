@@ -3,9 +3,10 @@ title: "Section 126 - Department of Homeland Security data framework"
 usc_title: 6
 usc_section: "126"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 126"
-generated_at: "2026-03-30T02:53:09.446Z"
+generated_at: "2026-11-23T21:25:25.755Z"
+status: "active"
 ---
 
 # § 126. Department of Homeland Security data framework
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:53:09.446Z"
   - **(2)** The term “homeland security information” has the meaning given such term in section 482 of this title .
   - **(3)** The term “national intelligence” has the meaning given such term in section 3003(5) of title 50 .
   - **(4)** The term “terrorism information” has the meaning given such term in section 485 of this title .
+
+## Source Credit
+
+*([Pub. L. 115–331, § 2](https://www.govinfo.gov/link/plaw/115/public/331), Dec. 19, 2018, [132 Stat. 4484](https://www.govinfo.gov/link/statute/132/4484).)*

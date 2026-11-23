@@ -3,9 +3,10 @@ title: "Section 2805 - Required consultations"
 usc_title: 19
 usc_section: "2805"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2805"
-generated_at: "2026-03-30T02:54:24.686Z"
+generated_at: "2026-11-23T21:25:42.830Z"
+status: "active"
 ---
 
 # § 2805. Required consultations
@@ -15,3 +16,7 @@ The Trade Representative shall consult with the Committees and with representati
   - **(1)** before identifying tariff barriers and nontariff barriers to (or other distortions of) trade in United States wine and designating major wine trading countries under section 2803 of this title ;
   - **(2)** in developing the reports required under section 2804(b) of this title ; and
   - **(3)** for purposes of determining whether action by the President is appropriate under any provision of the Trade Act of 1974 [ 19 U.S.C. 2101 et seq.] with respect to any act, policy, or practice referred to in section 2804(b)(1) of this title .
+
+## Source Credit
+
+*([Pub. L. 98–573, title IX, § 906](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 3050](https://www.govinfo.gov/link/statute/98/3050).)*

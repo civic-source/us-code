@@ -3,9 +3,10 @@ title: "Section 1347 - Tax treatment of Conrail public sale"
 usc_title: 45
 usc_section: "1347"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 1347"
-generated_at: "2026-03-30T02:55:56.561Z"
+generated_at: "2026-11-23T21:26:19.243Z"
+status: "active"
 ---
 
 # § 1347. Tax treatment of Conrail public sale
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:56.561Z"
   - **(1)** The term “Conrail” means the Consolidated Rail Corporation. Such term includes any corporation which was a subsidiary of Conrail immediately before the public sale.
   - **(2)** The term “public sale” means the sale of stock in Conrail pursuant to a public offering under the Conrail Privatization Act [ 45 U.S.C. 1301 et seq.]. If there is more than 1 public offering under such Act, such term means the sale pursuant to the initial public offering under such Act.
   - **(3)** The term “Secretary” means the Secretary of the Treasury or his delegate.
+
+## Source Credit
+
+*([Pub. L. 99–509, title VIII, § 8021](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1954](https://www.govinfo.gov/link/statute/100/1954); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095).)*

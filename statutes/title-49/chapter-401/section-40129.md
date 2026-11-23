@@ -3,9 +3,10 @@ title: "Section 40129 - Collaborative decisionmaking pilot program"
 usc_title: 49
 usc_section: "40129"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 40129"
-generated_at: "2026-03-30T02:56:19.372Z"
+generated_at: "2026-11-23T21:26:40.845Z"
+status: "active"
 ---
 
 # § 40129. Collaborative decisionmaking pilot program
@@ -30,3 +31,41 @@ generated_at: "2026-03-30T02:56:19.372Z"
   - **(1)** Before the expiration of the 2-year period for which the pilot program is authorized under subsection (b), the Administrator shall determine whether the pilot program has facilitated more effective use of air traffic capacity and the Secretary, with the concurrence of the Attorney General, shall determine whether the pilot program has had an adverse effect on airline competition or the availability of air services to communities. The Administrator shall also examine whether capacity benefits resulting from the participation in the pilot program of an airport resulted in capacity benefits to other parts of the national airspace system.
   - **(2)** The Administrator may require participating air carriers and airports to provide data necessary to evaluate the pilot program’s impact.
 - **(k)** At the end of the 2-year period for which the pilot program is authorized, the Administrator, with the concurrence of the Attorney General, may continue the pilot program for an additional 2 years and expand participation in the program to up to 7 additional airports if the Administrator determines pursuant to subsection (j) that the pilot program has facilitated more effective use of air traffic capacity and if the Secretary, with the concurrence of the Attorney General, determines that the pilot program has had no adverse effect on airline competition or the availability of air services to communities. The Administrator shall select the additional airports to participate in the extended pilot program in the same manner in which airports were initially selected to participate.
+
+Establishment
+
+Duration
+
+Guidelines.—
+
+Issuance
+
+Views
+
+Effect of Determination of Existence of Capacity Reduction Event
+
+Selection of Participating Airports
+
+Eligibility of Air Carriers
+
+Modification or Termination of Pilot Program at an Airport
+
+Antitrust Immunity.—
+
+In general
+
+Antitrust laws defined
+
+Consultation With Attorney General
+
+Evaluation.—
+
+In general
+
+Obtaining necessary data
+
+Extension of Pilot Program
+
+## Source Credit
+
+*(Added [Pub. L. 108–176, title IV, § 423(a)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2552](https://www.govinfo.gov/link/statute/117/2552).)*

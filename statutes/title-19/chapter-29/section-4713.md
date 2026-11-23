@@ -3,9 +3,10 @@ title: "Section 4713 - Monitoring actions"
 usc_title: 19
 usc_section: "4713"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4713"
-generated_at: "2026-03-30T02:54:24.715Z"
+generated_at: "2026-11-23T21:25:42.897Z"
+status: "active"
 ---
 
 # § 4713. Monitoring actions
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:24.715Z"
     - **(B)** may request the Trade Representative to, within a reasonable period of time, request Mexico to take such additional steps with respect to the particular shipment.
   - **(3)** The Trade Representative, on behalf of the Interagency Environment Committee, shall, on a quarterly basis, consult with the appropriate congressional committees and the Trade and Environment Policy Advisory Committee (or successor advisory committee) established under section 2155(c)(1) of this title regarding the public comments and relevant information described in paragraph (1) and the actions taken under paragraph (2).
 - **(e)** Subsections (c) and (d) shall apply with respect to Mexico for such time as the USMCA is in force with respect to, and the United States applies the USMCA to, Mexico.
+
+## Source Credit
+
+*([Pub. L. 116–113, title VIII, § 813](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 92](https://www.govinfo.gov/link/statute/134/92).)*

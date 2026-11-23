@@ -3,9 +3,10 @@ title: "Section 1382 - Capitalization grant agreements"
 usc_title: 33
 usc_section: "1382"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1382"
-generated_at: "2026-03-30T02:55:41.104Z"
+generated_at: "2026-11-23T21:26:11.401Z"
+status: "active"
 ---
 
 # § 1382. Capitalization grant agreements
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:41.104Z"
       - **(ii)** the cost of operating and maintaining the project or activity over the life of the project or activity; and
       - **(iii)** the cost of replacing the project or activity; and
   - **(14)** a contract to be carried out using funds directly made available by a capitalization grant under this subchapter for program management, construction management, feasibility studies, preliminary engineering, design, engineering, surveying, mapping, or architectural related services shall be negotiated in the same manner as a contract for architectural and engineering services is negotiated under chapter 11 of title 40 or an equivalent State qualifications-based requirement (as determined by the Governor of the State).
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title VI, § 602, as added [Pub. L. 100–4, title II, § 212(a)](https://www.govinfo.gov/link/plaw/100/public/4), Feb. 4, 1987, [101 Stat. 22](https://www.govinfo.gov/link/statute/101/22); amended [Pub. L. 113–121, title V, § 5002](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1322](https://www.govinfo.gov/link/statute/128/1322).)*

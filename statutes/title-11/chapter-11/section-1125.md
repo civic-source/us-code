@@ -3,9 +3,10 @@ title: "Section 1125 - Postpetition disclosure and solicitation"
 usc_title: 11
 usc_section: "1125"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1125"
-generated_at: "2026-03-30T02:53:53.884Z"
+generated_at: "2026-11-23T21:25:34.953Z"
+status: "active"
 ---
 
 # § 1125. Postpetition disclosure and solicitation
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:53.884Z"
     - **(B)** acceptances and rejections of a plan may be solicited based on a conditionally approved disclosure statement if the debtor provides adequate information to each holder of a claim or interest that is solicited, but a conditionally approved disclosure statement shall be mailed not later than 25 days before the date of the hearing on confirmation of the plan; and
     - **(C)** the hearing on the disclosure statement may be combined with the hearing on confirmation of a plan.
 - **(g)** Notwithstanding subsection (b), an acceptance or rejection of the plan may be solicited from a holder of a claim or interest if such solicitation complies with applicable nonbankruptcy law and if such holder was solicited before the commencement of the case in a manner complying with applicable nonbankruptcy law.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2633](https://www.govinfo.gov/link/statute/92/2633); [Pub. L. 98–353, title III, § 509](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 385](https://www.govinfo.gov/link/statute/98/385); [Pub. L. 103–394, title II, § 217(e)](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4127](https://www.govinfo.gov/link/statute/108/4127); [Pub. L. 109–8, title IV](https://www.govinfo.gov/link/plaw/109/public/8), §§ 408, 431, title VII, § 717, Apr. 20, 2005, [119 Stat. 106](https://www.govinfo.gov/link/statute/119/106), 109, 131.)*

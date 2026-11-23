@@ -3,9 +3,10 @@ title: "Section 6 - Safeguarding and elimination of conventional arms"
 usc_title: 22
 usc_section: "6"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6"
-generated_at: "2026-03-30T02:55:05.359Z"
+generated_at: "2026-11-23T21:25:58.474Z"
+status: "active"
 ---
 
 # § 2349bb–6. Safeguarding and elimination of conventional arms
@@ -21,3 +22,31 @@ generated_at: "2026-03-30T02:55:05.359Z"
   - **(7)** Activities to secure and safeguard MANPADS and other conventional weapons.
   - **(8)** Actions to ensure that equipment and funds, including security upgrades at locations for the storage or disposition of MANPADS and other conventional weapons and related equipment that are determined by the Secretary of State to pose a proliferation threat, continue to be used for authorized purposes.
 - **(c)** Nothing in this section shall be construed to affect the authorities of the Secretary of Defense.
+
+Statement of Policy
+
+Intelligence Community Assessment on MANPADS in Libya.—
+
+In general
+
+Elements
+
+Notice regarding delay in submittal
+
+Comprehensive Strategy on Threat of MANPADS Originating From Libya.—
+
+Strategy required
+
+Report required.—
+
+In general
+
+Elements
+
+Form
+
+Appropriate Committees of Congress Defined
+
+## Source Credit
+
+*([Pub. L. 109–472, § 11](https://www.govinfo.gov/link/plaw/109/public/472), Jan. 11, 2007, [120 Stat. 3557](https://www.govinfo.gov/link/statute/120/3557).)*

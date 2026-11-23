@@ -3,9 +3,10 @@ title: "Section 613 - Identification of reporting redundancies and development o
 usc_title: 6
 usc_section: "613"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 613"
-generated_at: "2026-03-30T02:53:09.473Z"
+generated_at: "2026-11-23T21:25:25.814Z"
+status: "active"
 ---
 
 # § 613. Identification of reporting redundancies and development of performance metrics
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:09.473Z"
     - **(B)** the plan required under subsection (b)(3).
   - **(2)** Not later than 1 year after the date on which the contract described in paragraph (1) is awarded, the Administrator shall submit to the appropriate committees of Congress a report that describes the findings and recommendations of the study conducted under paragraph (1).
   - **(3)** There are authorized to be appropriated to the Administrator such sums as may be necessary to carry out this subsection.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XX, § 2023](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 111–271, § 2(a)](https://www.govinfo.gov/link/plaw/111/public/271), Oct. 12, 2010, [124 Stat. 2852](https://www.govinfo.gov/link/statute/124/2852).)*

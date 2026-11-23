@@ -3,9 +3,10 @@ title: "Section 1522 - Definitions; actions to recover developed property"
 usc_title: 42
 usc_section: "1522"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1522"
-generated_at: "2026-03-30T02:56:11.100Z"
+generated_at: "2026-11-23T21:26:32.086Z"
+status: "active"
 ---
 
 # § 1522. Definitions; actions to recover developed property
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.100Z"
   - **(4)** officers of the Army, Air Force, and Marine Corps not above the grade of captain, and officers of the Navy and Coast Guard, not above the grade of lieutenant, senior grade, assigned to duty at naval or military reservations, posts, or bases, or to duty at defense industries: Provided , That any proceedings for the recovery of possession of any property or project developed or constructed under this subchapter shall be brought by the Secretary of Housing and Urban Development in the courts of the States having jurisdiction of such causes and the laws of the States shall be applicable thereto;
 - **(b)** the term “Federal agency” means any executive department or office (including the President), independent establishment, commission, board, bureau, division, or office in the executive branch of the United States Government, or other agency of the United States, including corporations in which the United States owns all or a majority of the stock, directly or indirectly.
 
+
+## Source Credit
+
+*(Oct. 14, 1940, ch. 862, title I, § 2, [54 Stat. 1126](https://www.govinfo.gov/link/statute/54/1126); Jan. 21, 1942, ch. 14, § 2, [56 Stat. 11](https://www.govinfo.gov/link/statute/56/11); Ex. Ord. No. 9070, § 1, eff. Feb. 24, 1942, 7 F.R. 1529; July 26, 1947, ch. 343, title II, §§ 205(a), 207(a), (f), [61 Stat. 501–503](https://www.govinfo.gov/link/statute/61/501); Apr. 20, 1950, ch. 94, title II, § 204, [64 Stat. 73](https://www.govinfo.gov/link/statute/64/73); [Pub. L. 89–174, § 5(a)](https://www.govinfo.gov/link/plaw/89/public/174), Sept. 9, 1965, [79 Stat. 669](https://www.govinfo.gov/link/statute/79/669).)*

@@ -3,9 +3,10 @@ title: "Section 959 - Administrative provisions"
 usc_title: 20
 usc_section: "959"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 959"
-generated_at: "2026-03-30T02:54:48.089Z"
+generated_at: "2026-11-23T21:25:46.983Z"
+status: "active"
 ---
 
 # § 959. Administrative provisions
@@ -49,3 +50,11 @@ generated_at: "2026-03-30T02:54:48.089Z"
     - **(A)** for purposes of determining whether to provide any subsequent financial assistance, take into consideration the results of the post-award evaluation conducted under this subsection;
     - **(B)** prohibit the recipient of such financial assistance to use the name of, or in any way associate such project, production, or program with the Endowment that provided such financial assistance; and
     - **(C)** if such project, production, or program is published, require that the publication contain the following statement: “The opinions, findings, conclusions, and recommendations expressed herein do not reflect the views of the National Endowment for the Arts or the National Endowment for the Humanities.”
+
+George W. Bush.
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 89–209, § 10](https://www.govinfo.gov/link/plaw/89/public/209), Sept. 29, 1965, [79 Stat. 852](https://www.govinfo.gov/link/statute/79/852); [Pub. L. 90–348, § 5](https://www.govinfo.gov/link/plaw/90/public/348), June 18, 1968, [82 Stat. 186](https://www.govinfo.gov/link/statute/82/186); [Pub. L. 91–346](https://www.govinfo.gov/link/plaw/91/public/346), §§ 5(a)(3), 10, 11, July 20, 1970, [84 Stat. 443](https://www.govinfo.gov/link/statute/84/443), 446; [Pub. L. 93–133, § 2(a)(9)](https://www.govinfo.gov/link/plaw/93/public/133), (10), Oct. 19, 1973, [87 Stat. 465](https://www.govinfo.gov/link/statute/87/465); [Pub. L. 96–496, title I, § 107](https://www.govinfo.gov/link/plaw/96/public/496), Dec. 4, 1980, [94 Stat. 2588](https://www.govinfo.gov/link/statute/94/2588); renumbered title I, § 10, [Pub. L. 98–306, § 2](https://www.govinfo.gov/link/plaw/98/public/306), May 31, 1984, [98 Stat. 223](https://www.govinfo.gov/link/statute/98/223); renumbered § 10 and amended [Pub. L. 99–194, title I](https://www.govinfo.gov/link/plaw/99/public/194), §§ 101(1), 110, Dec. 20, 1985, [99 Stat. 1332](https://www.govinfo.gov/link/statute/99/1332), 1339; [Pub. L. 101–512, title III, § 318 [title I, § 109]](https://www.govinfo.gov/link/plaw/101/public/512), Nov. 5, 1990, [104 Stat. 1960](https://www.govinfo.gov/link/statute/104/1960), 1970.)*

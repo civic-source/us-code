@@ -3,9 +3,10 @@ title: "Section 1692e - False or misleading representations"
 usc_title: 15
 usc_section: "1692e"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1692e"
-generated_at: "2026-03-30T02:54:08.155Z"
+generated_at: "2026-11-23T21:25:39.885Z"
+status: "active"
 ---
 
 # § 1692e. False or misleading representations
@@ -32,3 +33,7 @@ A debt collector may not use any false, deceptive, or misleading representation 
   - **(14)** The use of any business, company, or organization name other than the true name of the debt collector’s business, company, or organization.
   - **(15)** The false representation or implication that documents are not legal process forms or do not require action by the consumer.
   - **(16)** The false representation or implication that a debt collector operates or is employed by a consumer reporting agency as defined by section 1681a(f) of this title .
+
+## Source Credit
+
+*([Pub. L. 90–321, title VIII, § 807](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 95–109](https://www.govinfo.gov/link/plaw/95/public/109), Sept. 20, 1977, [91 Stat. 877](https://www.govinfo.gov/link/statute/91/877); amended [Pub. L. 104–208, div. A, title II, § 2305(a)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–425](https://www.govinfo.gov/link/statute/110/3009).)*

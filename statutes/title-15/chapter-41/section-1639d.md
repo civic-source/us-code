@@ -3,9 +3,10 @@ title: "Section 1639d - Escrow or impound accounts relating to certain consumer 
 usc_title: 15
 usc_section: "1639d"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1639d"
-generated_at: "2026-03-30T02:54:08.143Z"
+generated_at: "2026-11-23T21:25:39.855Z"
+status: "active"
 ---
 
 # § 1639d. Escrow or impound accounts relating to certain consumer credit transactions
@@ -67,3 +68,7 @@ generated_at: "2026-03-30T02:54:08.143Z"
     - **(B)** A clear and prominent statement that the consumer is responsible for personally and directly paying the non-escrowed items, in addition to paying the mortgage loan payment, in the absence of any such account, and the fact that the costs for taxes, insurance, and related fees can be substantial.
     - **(C)** A clear explanation of the consequences of any failure to pay non-escrowed items, including the possible requirement for the forced placement of insurance by the creditor or servicer and the potentially higher cost (including any potential commission payments to the servicer) or reduced coverage for the consumer in the event of any such creditor-placed insurance.
     - **(D)** Such other information as the Bureau determines necessary for the protection of the consumer.
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 129D](https://www.govinfo.gov/link/plaw/90/public/321), as added and amended [Pub. L. 111–203, title X, § 1100A(2)](https://www.govinfo.gov/link/plaw/111/public/203), title XIV, §§ 1461(a), 1462, July 21, 2010, [124 Stat. 2107](https://www.govinfo.gov/link/statute/124/2107), 2178, 2181; [Pub. L. 114–94, div. G, title LXXXIX, § 89003(2)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1801](https://www.govinfo.gov/link/statute/129/1801); [Pub. L. 115–174, title I, § 108](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1304](https://www.govinfo.gov/link/statute/132/1304).)*

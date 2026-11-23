@@ -3,9 +3,10 @@ title: "Section 4744 - Grants to other organizations"
 usc_title: 42
 usc_section: "4744"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4744"
-generated_at: "2026-03-30T02:56:11.208Z"
+generated_at: "2026-11-23T21:26:32.688Z"
+status: "active"
 ---
 
 # § 4744. Grants to other organizations
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.208Z"
   - **(1)** a national, regional, statewide, areawide, or metropolitan organization, representing member State or local governments;
   - **(2)** an association of State or local public officials; or
   - **(3)** a nonprofit organization one of whose principal functions is to offer professional advisory, research, development, educational or related services to governments.
+
+## Source Credit
+
+*([Pub. L. 91–648, title III, § 304](https://www.govinfo.gov/link/plaw/91/public/648), Jan. 5, 1971, [84 Stat. 1919](https://www.govinfo.gov/link/statute/84/1919); 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783](https://www.govinfo.gov/link/statute/92/3783).)*

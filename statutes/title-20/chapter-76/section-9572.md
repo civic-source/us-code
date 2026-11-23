@@ -3,9 +3,10 @@ title: "Section 9572 - Prohibitions"
 usc_title: 20
 usc_section: "9572"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9572"
-generated_at: "2026-03-30T02:54:48.229Z"
+generated_at: "2026-11-23T21:25:47.666Z"
+status: "active"
 ---
 
 # § 9572. Prohibitions
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:48.229Z"
 - **(d)**
   - **(1)** Subject to paragraph (2), no funds provided under this subchapter to the Secretary or to the recipient of any award may be used to develop, pilot test, field test, implement, administer, or distribute any federally sponsored national test in reading, mathematics, or any other subject, unless specifically and explicitly authorized by law.
   - **(2)** Subsection (a) shall not apply to international comparative assessments developed under the authority of section 9543(a)(6) of this title or section 9003(a)(6) of this title (as such section was in effect on the day before November 5, 2002 ) and administered to only a representative sample of pupils in the United States and in foreign nations.
+
+## Source Credit
+
+*([Pub. L. 107–279, title I, § 182](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1971](https://www.govinfo.gov/link/statute/116/1971).)*

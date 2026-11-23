@@ -3,12 +3,17 @@ title: "Section 494a - Study of bridges over navigable waters"
 usc_title: 33
 usc_section: "494a"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 494a"
-generated_at: "2026-03-30T02:55:41.059Z"
+generated_at: "2026-11-23T21:26:11.309Z"
+status: "active"
 ---
 
 # § 494a. Study of bridges over navigable waters
 
 The Commandant of the Coast Guard shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a comprehensive study on the construction or alteration of any bridge, drawbridge, or causeway over the navigable waters of the United States with a channel depth of 25 feet or greater that may impede or obstruct future navigation to or from port facilities and for which a permit under the Act of March 23, 1906 ( 33 U.S.C. 491 et seq.), popularly known as the Bridge Act of 1906, was requested during the period beginning on January 1, 2006 , and ending on August 3, 2011 .
 
+
+## Source Credit
+
+*([Pub. L. 111–281, title IX, § 905](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 3012](https://www.govinfo.gov/link/statute/124/3012); [Pub. L. 112–213, title VII, § 702(a)](https://www.govinfo.gov/link/plaw/112/public/213), Dec. 20, 2012, [126 Stat. 1580](https://www.govinfo.gov/link/statute/126/1580).)*

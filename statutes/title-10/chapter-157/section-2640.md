@@ -3,9 +3,10 @@ title: "Section 2640 - Charter air transportation of members of the armed forces
 usc_title: 10
 usc_section: "2640"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2640"
-generated_at: "2026-03-30T02:53:38.167Z"
+generated_at: "2026-11-23T21:25:32.638Z"
+status: "active"
 ---
 
 # § 2640. Charter air transportation of members of the armed forces or cargo
@@ -49,3 +50,27 @@ generated_at: "2026-03-30T02:53:38.167Z"
 - **(j)** In this section:
   - **(1)** The terms “air carrier”, “aircraft”, “air transportation”, “cargo”, and “charter air transportation” have the meanings given such terms by section 40102(a) of title 49 .
   - **(2)** The term “members of the armed forces” means members of the Army, Navy, Air Force, Marine Corps, and Space Force.
+
+Requirements
+
+Inspections
+
+Commercial Airlift Review Board
+
+Suspension and Reinstatement
+
+Authority To Leave Unsafe Aircraft
+
+FAA Information
+
+Waiver
+
+Authority To Protect Safety-Related Information Voluntarily Provided by an Air Carrier
+
+Regulations
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 99–661, div. A, title XII, § 1204(a)(1)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3969](https://www.govinfo.gov/link/statute/100/3969); amended [Pub. L. 103–272, § 5(b)(1)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1373](https://www.govinfo.gov/link/statute/108/1373); [Pub. L. 105–85, div. A, title X, § 1075(a)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1911](https://www.govinfo.gov/link/statute/111/1911); [Pub. L. 116–283, div. A, title IX, § 924(b)(1)(P)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3820](https://www.govinfo.gov/link/statute/134/3820); [Pub. L. 117–81, div. A, title X, § 1083(d)(1)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1923](https://www.govinfo.gov/link/statute/135/1923).)*

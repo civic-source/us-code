@@ -3,9 +3,10 @@ title: "Section 9703 - Managerial accountability and flexibility"
 usc_title: 31
 usc_section: "9703"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 9703"
-generated_at: "2026-03-30T02:55:34.077Z"
+generated_at: "2026-11-23T21:26:10.659Z"
+status: "active"
 ---
 
 # § 9703. Managerial accountability and flexibility
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:34.077Z"
 - **(d)** Any proposed waiver of procedural requirements or controls imposed by an agency (other than the proposing agency or the Office of Management and Budget) may not be included in a performance plan unless it is endorsed by the agency that established the requirement, and the endorsement included in the proposing agency’s performance plan.
 - **(e)** A waiver shall be in effect for one or two years as specified by the Director of the Office of Management and Budget in approving the waiver. A waiver may be renewed for a subsequent year. After a waiver has been in effect for three consecutive years, the performance plan prepared under section 1115 may propose that a waiver, other than a waiver of limitations on compensation or remuneration, be made permanent.
 - **(f)** For purposes of this section, the definitions under section 1115(f) 1 shall apply.
+
+## Source Credit
+
+*(Added [Pub. L. 103–62, § 5(a)](https://www.govinfo.gov/link/plaw/103/public/62), Aug. 3, 1993, [107 Stat. 289](https://www.govinfo.gov/link/statute/107/289).)*

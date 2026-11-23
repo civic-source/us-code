@@ -3,9 +3,10 @@ title: "Section 1229b - Cancellation of removal; adjustment of status"
 usc_title: 8
 usc_section: "1229b"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1229b"
-generated_at: "2026-03-30T02:53:10.488Z"
+generated_at: "2026-11-23T21:25:25.156Z"
+status: "active"
 ---
 
 # § 1229b. Cancellation of removal; adjustment of status
@@ -77,3 +78,11 @@ generated_at: "2026-03-30T02:53:10.488Z"
   - **(3)** Paragraph (1) shall not apply to the following:
     - **(A)** Aliens described in section 309(c)(5)(C)(i) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (as amended by the Nicaraguan Adjustment and Central American Relief Act).
     - **(B)** Aliens in deportation proceedings prior to April 1, 1997 , who applied for suspension of deportation under section 1254(a)(3) of this title (as in effect before September 30, 1996 ).
+
+In general
+
+Sense of congress
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 4, § 240A, as added [Pub. L. 104–208, div. C, title III, § 304(a)(3)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–594](https://www.govinfo.gov/link/statute/110/3009); amended [Pub. L. 105–100, title II, § 204(a)](https://www.govinfo.gov/link/plaw/105/public/100) –(c), Nov. 19, 1997, [111 Stat. 2200](https://www.govinfo.gov/link/statute/111/2200), 2201; [Pub. L. 106–386, div. B, title V](https://www.govinfo.gov/link/plaw/106/public/386), §§ 1504(a), (b), 1505(b)(2), 1506(b)(1), Oct. 28, 2000, [114 Stat. 1522](https://www.govinfo.gov/link/statute/114/1522), 1524, 1525, 1527; [Pub. L. 109–162, title VIII](https://www.govinfo.gov/link/plaw/109/public/162), §§ 813(c)(1), 822(a), (b), Jan. 5, 2006, [119 Stat. 3058](https://www.govinfo.gov/link/statute/119/3058), 3062, 3063; [Pub. L. 109–271, § 6(e)](https://www.govinfo.gov/link/plaw/109/public/271), Aug. 12, 2006, [120 Stat. 763](https://www.govinfo.gov/link/statute/120/763); [Pub. L. 110–457, title II, § 205(b)](https://www.govinfo.gov/link/plaw/110/public/457), Dec. 23, 2008, [122 Stat. 5062](https://www.govinfo.gov/link/statute/122/5062).)*

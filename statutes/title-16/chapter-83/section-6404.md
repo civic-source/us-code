@@ -3,9 +3,10 @@ title: "Section 6404 - Coral reef action plans"
 usc_title: 16
 usc_section: "6404"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6404"
-generated_at: "2026-03-30T02:54:23.057Z"
+generated_at: "2026-11-23T21:25:52.038Z"
+status: "active"
 ---
 
 # § 6404. Coral reef action plans
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:54:23.057Z"
       - **(iv)** a data management plan to ensure data, assessments, and accompanying information are appropriately preserved, curated, publicly accessible, and broadly reusable.
 - **(c)** The Administrator and the Task Force shall make reasonable efforts to provide technical assistance upon request by a Federal reef manager or covered reef manager developing a coral reef action plan under this section.
 - **(d)** The Administrator shall publish each coral reef action plan prepared and submitted to the Task Force under this section on the public website of the Coral Reef Conservation Program of the National Oceanic and Atmospheric Administration.
+
+## Source Credit
+
+*([Pub. L. 106–562, title II, § 205](https://www.govinfo.gov/link/plaw/106/public/562), as added [Pub. L. 117–263, div. J, title C, § 10001(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3935](https://www.govinfo.gov/link/statute/136/3935).)*

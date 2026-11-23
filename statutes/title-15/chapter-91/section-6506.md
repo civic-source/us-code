@@ -3,9 +3,10 @@ title: "Section 6506 - Review"
 usc_title: 15
 usc_section: "6506"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6506"
-generated_at: "2026-03-30T02:54:08.211Z"
+generated_at: "2026-11-23T21:25:40.024Z"
+status: "active"
 ---
 
 # § 6506. Review
@@ -14,3 +15,7 @@ Not later than 5 years after the effective date of the regulations initially iss
 
   - **(1)** review the implementation of this chapter, including the effect of the implementation of this chapter on practices relating to the collection and disclosure of information relating to children, children’s ability to obtain access to information of their choice online, and on the availability of websites directed to children; and
   - **(2)** prepare and submit to Congress a report on the results of the review under paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 105–277, div. C, title XIII, § 1307](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–735](https://www.govinfo.gov/link/statute/112/2681).)*

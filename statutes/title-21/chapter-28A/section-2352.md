@@ -3,9 +3,10 @@ title: "Section 2352 - Use of national emergency authorities; reporting"
 usc_title: 21
 usc_section: "2352"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 2352"
-generated_at: "2026-03-30T02:54:54.312Z"
+generated_at: "2026-11-23T21:25:56.308Z"
+status: "active"
 ---
 
 # § 2352. Use of national emergency authorities; reporting
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:54.312Z"
     - **(E)** a description of any pending enforcement cases; and
     - **(F)** the implementation of mitigation procedures.
   - **(2)** Each report required under paragraph (1) shall be submitted in unclassified form, but may include the matters required under subparagraphs (C), (D), (E), and (F) of such paragraph in a classified annex.
+
+## Source Credit
+
+*([Pub. L. 118–50, div. E, title I, § 3102](https://www.govinfo.gov/link/plaw/118/public/50), Apr. 24, 2024, [138 Stat. 936](https://www.govinfo.gov/link/statute/138/936).)*

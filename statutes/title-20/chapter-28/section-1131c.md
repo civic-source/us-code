@@ -3,9 +3,10 @@ title: "Section 1131c - Internships"
 usc_title: 20
 usc_section: "1131c"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1131c"
-generated_at: "2026-03-30T02:54:48.145Z"
+generated_at: "2026-11-23T21:25:47.241Z"
+status: "active"
 ---
 
 # § 1131c. Internships
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:48.145Z"
     - **(A)** on an annual basis inform the Secretary and the Institute regarding ways to advise students participating in the internship program assisted under this section with respect to goals for careers in international affairs;
     - **(B)** locate for students potential internship opportunities in the Federal Government related to international affairs; and
     - **(C)** promote policies in each department and agency participating in the Committee that are designed to carry out the objectives of this part.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VI, § 625](https://www.govinfo.gov/link/plaw/89/public/329), formerly § 624, as added [Pub. L. 102–325, title VI, § 601](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 735](https://www.govinfo.gov/link/statute/106/735); renumbered § 625, and amended [Pub. L. 105–244, title VI, § 603(b)(1)](https://www.govinfo.gov/link/plaw/105/public/244), (d), Oct. 7, 1998, [112 Stat. 1783](https://www.govinfo.gov/link/statute/112/1783), 1784; [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XIII, § 1335(j), Oct. 21, 1998, [112 Stat. 2681–788](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 110–315, title VI, § 616](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3341](https://www.govinfo.gov/link/statute/122/3341); [Pub. L. 115–254, div. F, title VI, § 1470(i)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3516](https://www.govinfo.gov/link/statute/132/3516); [Pub. L. 115–334, title XII, § 12405(d)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4975](https://www.govinfo.gov/link/statute/132/4975).)*

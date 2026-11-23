@@ -3,9 +3,10 @@ title: "Section 30125 - Soft money of political parties"
 usc_title: 52
 usc_section: "30125"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 30125"
-generated_at: "2026-03-30T02:56:30.174Z"
+generated_at: "2026-11-23T21:26:42.349Z"
+status: "active"
 ---
 
 # § 30125. Soft money of political parties
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:56:30.174Z"
 - **(f)**
   - **(1)** A candidate for State or local office, individual holding State or local office, or an agent of such a candidate or individual may not spend any funds for a communication described in section 30101(20)(A)(iii) of this title unless the funds are subject to the limitations, prohibitions, and reporting requirements of this Act.
   - **(2)** Paragraph (1) shall not apply to an individual described in such paragraph if the communication involved is in connection with an election for such State or local office and refers only to such individual or to any other candidate for the State or local office held or sought by such individual, or both.
+
+## Source Credit
+
+*([Pub. L. 92–225, title III, § 323](https://www.govinfo.gov/link/plaw/92/public/225), as added [Pub. L. 107–155, title I, § 101(a)](https://www.govinfo.gov/link/plaw/107/public/155), Mar. 27, 2002, [116 Stat. 82](https://www.govinfo.gov/link/statute/116/82).)*

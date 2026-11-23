@@ -3,9 +3,10 @@ title: "Section 6303 - Enforcement"
 usc_title: 42
 usc_section: "6303"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6303"
-generated_at: "2026-03-30T02:56:11.252Z"
+generated_at: "2026-11-23T21:26:32.899Z"
+status: "active"
 ---
 
 # § 6303. Enforcement
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.252Z"
     - **(B)** Subject to the provisions of section 7192(c) of this title , the Secretary shall be represented by the Attorney General, or the Solicitor General, as appropriate, in actions under this subsection, except to the extent provided in subparagraph (A) of this paragraph.
     - **(C)** Section 7172(d) of this title shall not apply with respect to the functions of the Secretary under this subsection.
   - **(6)** For purposes of applying the preceding provisions of this subsection in the case of the assessment of a penalty by the Commission for a violation of paragraphs (1) and (2) of section 6302 of this title , references in such provisions to “Secretary” and “Department of Energy” shall be considered to be references to the “Commission”.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 333](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 929](https://www.govinfo.gov/link/statute/89/929); [Pub. L. 95–619, title IV](https://www.govinfo.gov/link/plaw/95/public/619), §§ 423, 425(e), title VI, § 691(b)(2), Nov. 9, 1978, [92 Stat. 3262](https://www.govinfo.gov/link/statute/92/3262), 3266, 3288; [Pub. L. 100–12, § 11(b)(6)](https://www.govinfo.gov/link/plaw/100/public/12), Mar. 17, 1987, [101 Stat. 125](https://www.govinfo.gov/link/statute/101/125); [Pub. L. 114–11, title II, § 201(3)](https://www.govinfo.gov/link/plaw/114/public/11), Apr. 30, 2015, [129 Stat. 189](https://www.govinfo.gov/link/statute/129/189).)*

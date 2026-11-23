@@ -3,9 +3,10 @@ title: "Section 63 - Accounts and records"
 usc_title: 15
 usc_section: "63"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 63"
-generated_at: "2026-03-30T02:54:08.071Z"
+generated_at: "2026-11-23T21:25:39.599Z"
+status: "active"
 ---
 
 # § 80a–63. Accounts and records
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.071Z"
 - **(b)**
   - **(1)** In addition to the requirements of subsection (a), a business development company shall file with the Commission and supply annually to its shareholders a written statement, in such form and manner as the Commission may, by rule, prescribe, describing the risk factors involved in an investment in the securities of a business development company due to the nature of such company’s investment portfolio and capital structure, and shall supply copies of such statement to any registered broker or dealer upon request.
   - **(2)** If the Commission finds it is necessary or appropriate in the public interest and consistent with the protection of investors and the purposes fairly intended by the policy and provisions of this subchapter, the Commission may also require, by rule, any person who, acting as principal or agent, sells a security of a business development company to inform the purchaser of such securities, at or before the time of sale, of the existence of the risk statement prepared by such business development company pursuant to this subsection, and make such risk statement available on request. The Commission, in making such rules and regulations, shall consider, among other matters, whether any such rule or regulation would impose any unreasonable burdens on such brokers or dealers or unreasonably impair the maintenance of fair and orderly markets.
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title I, § 64, as added [Pub. L. 96–477, title I](https://www.govinfo.gov/link/plaw/96/public/477) § 105, Oct. 21, 1980, [94 Stat. 2289](https://www.govinfo.gov/link/statute/94/2289); amended [Pub. L. 104–290, title V, § 507](https://www.govinfo.gov/link/plaw/104/public/290), Oct. 11, 1996, [110 Stat. 3446](https://www.govinfo.gov/link/statute/110/3446).)*

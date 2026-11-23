@@ -3,9 +3,10 @@ title: "Section 2192b - Program on enhancement of preparation of dependents of m
 usc_title: 10
 usc_section: "2192b"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2192b"
-generated_at: "2026-03-30T02:53:38.147Z"
+generated_at: "2026-11-23T21:25:32.567Z"
+status: "active"
 ---
 
 # § 2192b. Program on enhancement of preparation of dependents of members of armed forces for careers in science, technology, engineering, and mathematics
@@ -25,3 +26,17 @@ generated_at: "2026-03-30T02:53:38.147Z"
   - **(4)** Development of travel opportunities, demonstrations, mentoring programs, and informal science education for students and teachers at covered schools.
 - **(d)** The Secretary shall establish outcome-based metrics and internal and external assessments to evaluate the merits and benefits of activities conducted under the program with respect to the needs of the Department of Defense.
 - **(e)** In this section, the term “covered schools” means elementary or secondary schools at which the Secretary determines a significant number of dependents of members of the armed forces are enrolled.
+
+Program Required
+
+Coordination
+
+Activities
+
+Metrics
+
+Covered Schools Defined
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. A, title II, § 211(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1254](https://www.govinfo.gov/link/statute/133/1254).)*

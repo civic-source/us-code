@@ -3,12 +3,17 @@ title: "Section 618g - Regulations; contracts; modification of allotments of ene
 usc_title: 43
 usc_section: "618g"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 618g"
-generated_at: "2026-03-30T02:55:57.457Z"
+generated_at: "2026-11-23T21:26:19.798Z"
+status: "active"
 ---
 
 # § 618g. Regulations; contracts; modification of allotments of energy
 
 The Secretary is authorized from time to time to promulgate such regulations and enter into such contracts as he may find necessary or appropriate for carrying out the purposes of this subchapter and the Project Act [ 43 U.S.C. 617 et seq.], as modified hereby, and, by mutual consent, to terminate or modify any such contract: Provided, however , That no allotment of energy to any allottee made by any rule or regulation heretofore promulgated shall be modified or changed without the consent of such allottee.
 
+
+## Source Credit
+
+*(July 19, 1940, ch. 643, § 8, [54 Stat. 777](https://www.govinfo.gov/link/statute/54/777).)*

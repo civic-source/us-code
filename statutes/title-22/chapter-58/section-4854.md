@@ -3,12 +3,17 @@ title: "Section 4854 - Qualifications of persons hired for diplomatic constructi
 usc_title: 22
 usc_section: "4854"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4854"
-generated_at: "2026-03-30T02:55:05.414Z"
+generated_at: "2026-11-23T21:25:58.652Z"
+status: "active"
 ---
 
 # § 4854. Qualifications of persons hired for diplomatic construction program
 
 In carrying out the diplomatic construction program referred to in section 4851(a) of this title , the Secretary of State shall employ as professional staff (by appointment, contract, or otherwise) only those persons with a demonstrated specialized background in the fields of construction, construction law, or contract management. In filling such positions, the Secretary shall actively recruit women and members of minority groups.
 
+
+## Source Credit
+
+*([Pub. L. 99–399, title IV, § 404](https://www.govinfo.gov/link/plaw/99/public/399), Aug. 27, 1986, [100 Stat. 865](https://www.govinfo.gov/link/statute/100/865).)*

@@ -3,9 +3,10 @@ title: "Section 2706 - Natural resources"
 usc_title: 33
 usc_section: "2706"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2706"
-generated_at: "2026-03-30T02:55:41.130Z"
+generated_at: "2026-11-23T21:26:11.462Z"
+status: "active"
 ---
 
 # § 2706. Natural resources
@@ -48,3 +49,13 @@ generated_at: "2026-03-30T02:55:41.130Z"
   - **(2)** Any determination or assessment of damages to natural resources for the purposes of this Act made under subsection (d) by a Federal, State, or Indian trustee in accordance with the regulations promulgated under paragraph (1) shall have the force and effect of a rebuttable presumption on behalf of the trustee in any administrative or judicial proceeding under this Act.
 - **(f)** Sums recovered under this Act by a Federal, State, Indian, or foreign trustee for natural resource damages under section 2702(b)(2)(A) of this title shall be retained by the trustee in a revolving trust account, without further appropriation, for use only to reimburse or pay costs incurred by the trustee under subsection (c) with respect to the damaged natural resources. Any amounts in excess of those required for these reimbursements and costs shall be deposited in the Fund.
 - **(g)** Review of actions by any Federal official where there is alleged to be a failure of that official to perform a duty under this section that is not discretionary with that official may be had by any person in the district court in which the person resides or in which the alleged damage to natural resources occurred. The court may award costs of litigation (including reasonable attorney and expert witness fees) to any prevailing or substantially prevailing party. Nothing in this subsection shall restrict any right which any person may have to seek relief under any other provision of law.
+
+Treatment of Amounts Received as Reimbursement of Expenses
+
+Application
+
+Definitions
+
+## Source Credit
+
+*([Pub. L. 101–380, title I, § 1006](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 494](https://www.govinfo.gov/link/statute/104/494).)*

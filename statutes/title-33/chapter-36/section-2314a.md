@@ -3,9 +3,10 @@ title: "Section 2314a - Technical assistance program"
 usc_title: 33
 usc_section: "2314a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2314a"
-generated_at: "2026-03-30T02:55:41.122Z"
+generated_at: "2026-11-23T21:26:11.442Z"
+status: "active"
 ---
 
 # § 2314a. Technical assistance program
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:41.122Z"
 - **(d)** For purposes of this section—
   - **(1)** The term “United States firm” means a corporation, partnership, limited partnership, or sole proprietorship that is incorporated or established under the laws of any of the United States with its principal place of business in the United States.
   - **(2)** The term “United States”, when used in a geographical sense, means the several States of the United States and the District of Columbia.
+
+## Source Credit
+
+*([Pub. L. 100–676, § 9](https://www.govinfo.gov/link/plaw/100/public/676), Nov. 17, 1988, [102 Stat. 4024](https://www.govinfo.gov/link/statute/102/4024); [Pub. L. 101–640, title III, § 318(c)](https://www.govinfo.gov/link/plaw/101/public/640), Nov. 28, 1990, [104 Stat. 4642](https://www.govinfo.gov/link/statute/104/4642).)*

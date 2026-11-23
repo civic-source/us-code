@@ -3,9 +3,10 @@ title: "Section 8926a - Supporting the identification and recovery of abducted U
 usc_title: 22
 usc_section: "8926a"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8926a"
-generated_at: "2026-03-30T02:55:05.459Z"
+generated_at: "2026-11-23T21:25:58.760Z"
+status: "active"
 ---
 
 # § 8926a. Supporting the identification and recovery of abducted Ukrainian children
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:55:05.459Z"
   - **(2)** the Secretary of State, in coordination with the Secretary of the Treasury, shall submit a report to the Committee on Foreign Relations of the Senate, the Committee on Banking, Housing, and Urban Affairs of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Financial Services of the House of Representatives that outlines—
     - **(A)** any discrepancies between the sanctions regimes of the United States, the United Kingdom, and the European Union with respect to those responsible for the abduction of Ukrainian children; and
     - **(B)** efforts made by the United States Government to better align such sanction regimes.
+
+## Source Credit
+
+*([Pub. L. 119–60, div. H, title LXXXIII, § 8363](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1885](https://www.govinfo.gov/link/statute/139/1885).)*

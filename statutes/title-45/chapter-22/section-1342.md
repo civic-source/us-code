@@ -3,12 +3,17 @@ title: "Section 1342 - Exemption from liability"
 usc_title: 45
 usc_section: "1342"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 1342"
-generated_at: "2026-03-30T02:55:56.561Z"
+generated_at: "2026-11-23T21:26:19.243Z"
+status: "active"
 ---
 
 # § 1342. Exemption from liability
 
 - **(a)** No person referred to in section 726(f)(8)(C)(i), (ii), or (iii) of this title shall be liable, for money damages or otherwise, to any party if, with respect to the subject matter of the action, suit, or proceeding, such person was fulfilling a duty, in connection with any action taken under this subchapter, which such person in good faith reasonably believed to be required by law or vested in such person.
 - **(b)** This section shall not apply to claims arising out of the Securities Act of 1933 [ 15 U.S.C. 77a et seq.], the Securities Exchange Act of 1934 [ 15 U.S.C. 78a et seq.], or the Constitution or laws of any State, territory, or possession of the United States relating to transactions in securities, which claims are in connection with a public offering under section 1312 of this title .
+
+## Source Credit
+
+*([Pub. L. 99–509, title IV, § 4034](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1909](https://www.govinfo.gov/link/statute/100/1909).)*

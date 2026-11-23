@@ -3,9 +3,10 @@ title: "Section 8412 - Identifying opportunities for recreation"
 usc_title: 16
 usc_section: "8412"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8412"
-generated_at: "2026-03-30T02:54:23.083Z"
+generated_at: "2026-11-23T21:25:52.077Z"
+status: "active"
 ---
 
 # § 8412. Identifying opportunities for recreation
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:23.083Z"
     - **(C)** the adequacy of the current management of the recreation resource.
 - **(b)** To the extent practicable, the Secretary concerned shall use or incorporate existing applicable research and planning decisions and processes in carrying out this section.
 - **(c)**
+
+## Source Credit
+
+*([Pub. L. 118–234, title I, § 112](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2838](https://www.govinfo.gov/link/statute/138/2838).)*

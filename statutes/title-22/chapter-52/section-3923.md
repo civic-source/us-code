@@ -3,12 +3,17 @@ title: "Section 3923 - Compatibility among agencies utilizing Foreign Service pe
 usc_title: 22
 usc_section: "3923"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3923"
-generated_at: "2026-03-30T02:55:05.398Z"
+generated_at: "2026-11-23T21:25:58.600Z"
+status: "active"
 ---
 
 # § 3923. Compatibility among agencies utilizing Foreign Service personnel system
 
 - **(a)** The Service shall be administered to the extent practicable in a manner that will assure maximum compatibility among the agencies authorized by law to utilize the Foreign Service personnel system. To this end, the other heads of such agencies shall consult regularly with the Secretary of State.
 - **(b)** Nothing in this subchapter shall be construed as diminishing the authority of the head of any agency authorized by law to utilize the Foreign Service personnel system.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 203](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2079](https://www.govinfo.gov/link/statute/94/2079).)*

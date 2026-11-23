@@ -3,9 +3,10 @@ title: "Section 2408 - Staff of Administration"
 usc_title: 50
 usc_section: "2408"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2408"
-generated_at: "2026-03-30T02:56:26.224Z"
+generated_at: "2026-11-23T21:26:38.973Z"
+status: "active"
 ---
 
 # § 2408. Staff of Administration
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:26.224Z"
   - **(3)** Public affairs.
   - **(4)** Liaison with the Department of Energy’s Office of Intelligence and Counterintelligence.
   - **(5)** Liaison with other elements of the Department of Energy and with other Federal agencies, State, tribal, and local governments, and the public.
+
+## Source Credit
+
+*([Pub. L. 106–65, div. C, title XXXII, § 3218](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 960](https://www.govinfo.gov/link/statute/113/960); [Pub. L. 109–364, div. C, title XXXI, § 3117(e)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2508](https://www.govinfo.gov/link/statute/120/2508).)*

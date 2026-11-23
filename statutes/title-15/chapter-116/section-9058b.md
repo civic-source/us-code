@@ -3,9 +3,10 @@ title: "Section 9058b - Funding for water assistance program"
 usc_title: 15
 usc_section: "9058b"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9058b"
-generated_at: "2026-03-30T02:54:08.243Z"
+generated_at: "2026-11-23T21:25:40.129Z"
+status: "active"
 ---
 
 # § 9058b. Funding for water assistance program
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.243Z"
     - **(B)** the percentage of households in the State, or under the jurisdiction of the Indian Tribe, that spend more than 30 percent of monthly income on housing; and
   - **(2)** reserve up to 3 percent of the amount appropriated in this section for Indian Tribes and tribal organizations.
 - **(c)** In this section, the term “State” means each of the 50 States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
+
+## Source Credit
+
+*([Pub. L. 117–2, title II, § 2912](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 51](https://www.govinfo.gov/link/statute/135/51).)*

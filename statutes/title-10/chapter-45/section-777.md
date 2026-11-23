@@ -3,9 +3,10 @@ title: "Section 777 - Wearing of insignia of higher grade before promotion (froc
 usc_title: 10
 usc_section: "777"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 777"
-generated_at: "2026-03-30T02:53:38.076Z"
+generated_at: "2026-11-23T21:25:32.319Z"
+status: "active"
 ---
 
 # § 777. Wearing of insignia of higher grade before promotion (frocking): authority; restrictions
@@ -27,3 +28,15 @@ generated_at: "2026-03-30T02:53:38.076Z"
 - **(d)**
   - **(1)** The total number of colonels, Navy captains, brigadier generals, and rear admirals (lower half) on the active-duty list who are authorized as described in subsection (a) to wear the insignia for the next higher grade may not exceed 85.
   - **(2)** The number of officers of an armed force on the active-duty list, or for the Space Force, the Space Force officer list, who are authorized as described in subsection (a) to wear the insignia for a grade to which a limitation on total number applies under section 523(a) of this title for a fiscal year may not exceed 1 percent, or, for the grades of colonel and Navy captain, 2 percent, of the total number provided for the officers in that grade in that armed force in the administration of the limitation under that section for that fiscal year.
+
+Authority
+
+Restrictions
+
+Benefits Not To Be Construed as Accruing
+
+Limitation on Number of Officers Frocked to Specified Grades
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title V, § 503(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 294](https://www.govinfo.gov/link/statute/110/294); amended [Pub. L. 105–85, div. A, title V, § 505](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1726](https://www.govinfo.gov/link/statute/111/1726); [Pub. L. 106–65, div. A, title V, § 502](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 590](https://www.govinfo.gov/link/statute/113/590); [Pub. L. 108–136, div. A, title V, § 509(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1458](https://www.govinfo.gov/link/statute/117/1458); [Pub. L. 108–375, div. A, title V, § 503](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1875](https://www.govinfo.gov/link/statute/118/1875); [Pub. L. 109–163, div. A, title V](https://www.govinfo.gov/link/plaw/109/public/163), §§ 503(c), 504, Jan. 6, 2006, [119 Stat. 3226](https://www.govinfo.gov/link/statute/119/3226); [Pub. L. 111–383, div. A, title V, § 505(b)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4210](https://www.govinfo.gov/link/statute/124/4210); [Pub. L. 118–31, div. A, title XVII, § 1722(e)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 671](https://www.govinfo.gov/link/statute/137/671).)*

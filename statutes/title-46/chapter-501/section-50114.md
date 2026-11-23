@@ -3,9 +3,10 @@ title: "Section 50114 - National maritime strategy"
 usc_title: 46
 usc_section: "50114"
 chapter: 501
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 50114"
-generated_at: "2026-03-30T02:56:15.568Z"
+generated_at: "2026-11-23T21:26:37.215Z"
+status: "active"
 ---
 
 # § 50114. National maritime strategy
@@ -30,3 +31,75 @@ generated_at: "2026-03-30T02:56:15.568Z"
     - **(J)** maximize the cost effectiveness of Federal funding for carriage of non-defense government impelled cargo for the purposes of maintaining a United States flag fleet for national and economic security.
 - **(c)** Upon the release of a strategy or update under subsection (a), the Secretary of Transportation shall make such strategy or update publicly available on the website of the Department of Transportation.
 - **(d)** Not later than six months after the submission of a strategy or update under subsection (a), the Secretary of Transportation, in consultation with the Secretary of the department in which the Coast Guard is operating and the Secretary of Defense, shall make publicly available on an appropriate website an implementation plan for such strategy or update.
+
+In General
+
+Contents
+
+Update
+
+Implementation Plan
+
+Biannual Briefing.—
+
+Requirement
+
+Use
+
+Elements
+
+Appropriate Congressional Committees
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. C, title XXXV, § 3542(b)(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3096](https://www.govinfo.gov/link/statute/136/3096).)*

@@ -3,9 +3,10 @@ title: "Section 7488 - Investigations and power to subpoena"
 usc_title: 7
 usc_section: "7488"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7488"
-generated_at: "2026-03-30T02:53:42.455Z"
+generated_at: "2026-11-23T21:25:28.432Z"
+status: "active"
 ---
 
 # § 7488. Investigations and power to subpoena
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.455Z"
   - **(2)** The court may issue an enforcement order requiring the person to appear before the Secretary to produce records or to give testimony concerning the matter under investigation.
   - **(3)** A failure to obey an enforcement order of the court under paragraph (2) may be punished by the court as a contempt of the court.
   - **(4)** Process in a case under this subsection may be served in the judicial district in which the person resides or carries on business or wherever the person may be found.
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 579](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1083](https://www.govinfo.gov/link/statute/110/1083).)*

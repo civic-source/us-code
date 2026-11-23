@@ -3,9 +3,10 @@ title: "Section 1058 - Definitions; eligibility"
 usc_title: 20
 usc_section: "1058"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1058"
-generated_at: "2026-03-30T02:54:48.099Z"
+generated_at: "2026-11-23T21:25:47.031Z"
+status: "active"
 ---
 
 # § 1058. Definitions; eligibility
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:48.099Z"
     - **(B)** offers a 2-year program in engineering, mathematics, or the physical or biological sciences, designed to prepare a student to work as a technician or at the semiprofessional level in engineering, scientific, or other technological fields requiring the understanding and application of basic engineering, scientific, or mathematical principles of knowledge.
 - **(g)** For the purpose of this part, the term “low-income individual” means an individual from a family whose taxable income for the preceding year did not exceed 150 percent of an amount equal to the poverty level determined by using criteria of poverty established by the Bureau of the Census.
 - **(h)** For the purposes of this section, no historically black college or university which is eligible for and receives funds under part B of this subchapter is eligible for or may receive funds under this part.
+
+## Source Credit
+
+*([Pub. L. 89–329, title III, § 312](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title III, § 301(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1292](https://www.govinfo.gov/link/statute/100/1292); amended [Pub. L. 100–50, § 2(a)(2)](https://www.govinfo.gov/link/plaw/100/public/50) –(6), June 3, 1987, [101 Stat. 335](https://www.govinfo.gov/link/statute/101/335); [Pub. L. 100–369, § 10(a)](https://www.govinfo.gov/link/plaw/100/public/369), July 18, 1988, [102 Stat. 837](https://www.govinfo.gov/link/statute/102/837); [Pub. L. 102–325, title III, § 302(a)](https://www.govinfo.gov/link/plaw/102/public/325), (b), July 23, 1992, [106 Stat. 472](https://www.govinfo.gov/link/statute/106/472); [Pub. L. 103–208, § 2(a)(5)](https://www.govinfo.gov/link/plaw/103/public/208), Dec. 20, 1993, [107 Stat. 2457](https://www.govinfo.gov/link/statute/107/2457); [Pub. L. 103–382, title III, § 353](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 3966](https://www.govinfo.gov/link/statute/108/3966); [Pub. L. 105–244, title III](https://www.govinfo.gov/link/plaw/105/public/244), §§ 301(c)(2), 303(b), Oct. 7, 1998, [112 Stat. 1636](https://www.govinfo.gov/link/statute/112/1636), 1639; [Pub. L. 110–315, title III](https://www.govinfo.gov/link/plaw/110/public/315), §§ 302, 305(b), Aug. 14, 2008, [122 Stat. 3167](https://www.govinfo.gov/link/statute/122/3167), 3173.)*

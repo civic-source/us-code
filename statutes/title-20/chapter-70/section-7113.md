@@ -3,9 +3,10 @@ title: "Section 7113 - Formula grants to States"
 usc_title: 20
 usc_section: "7113"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7113"
-generated_at: "2026-03-30T02:54:48.205Z"
+generated_at: "2026-11-23T21:25:47.547Z"
+status: "active"
 ---
 
 # § 7113. Formula grants to States
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:48.205Z"
       - **(i)** review existing resources and programs across the State and will coordinate any new plans and resources under this subpart with such existing resources and programs;
       - **(ii)** monitor the implementation of activities under this subpart and provide technical assistance to local educational agencies in carrying out such activities; and
       - **(iii)** provide for equitable access for all students to the activities supported under this subpart, including aligning those activities with the requirements of other Federal laws.
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4103](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title IV, § 4101](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1970](https://www.govinfo.gov/link/statute/129/1970).)*

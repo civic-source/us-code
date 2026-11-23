@@ -3,9 +3,10 @@ title: "Section 1593a - Penalties for false drawback claims"
 usc_title: 19
 usc_section: "1593a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1593a"
-generated_at: "2026-03-30T02:54:24.646Z"
+generated_at: "2026-11-23T21:25:42.730Z"
+status: "active"
 ---
 
 # § 1593a. Penalties for false drawback claims
@@ -75,3 +76,7 @@ generated_at: "2026-03-30T02:54:24.646Z"
   - **(1)** all issues, including the amount of the penalty, shall be tried de novo;
   - **(2)** if the monetary penalty is based on fraud, the United States shall have the burden of proof to establish the alleged violation by clear and convincing evidence; and
   - **(3)** if the monetary penalty is based on negligence, the United States shall have the burden of proof to establish the act or omission constituting the violation, and the alleged violator shall have the burden of providing evidence that the act or omission did not occur as a result of negligence.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 593A, as added [Pub. L. 103–182, title VI, § 622(a)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2181](https://www.govinfo.gov/link/statute/107/2181); amended [Pub. L. 108–429, title I, § 1563(f)](https://www.govinfo.gov/link/plaw/108/public/429), Dec. 3, 2004, [118 Stat. 2587](https://www.govinfo.gov/link/statute/118/2587).)*

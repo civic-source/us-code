@@ -3,9 +3,10 @@ title: "Section 1297 - Passive foreign investment company"
 usc_title: 26
 usc_section: "1297"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1297"
-generated_at: "2026-03-30T02:55:27.767Z"
+generated_at: "2026-11-23T21:26:06.489Z"
+status: "active"
 ---
 
 # § 1297. Passive foreign investment company
@@ -64,3 +65,7 @@ generated_at: "2026-03-30T02:55:27.767Z"
       - **(ii)** is made on the basis of international financial reporting standards, but only if there is no statement that meets the requirement of clause (i), or
       - **(iii)** except as otherwise provided by the Secretary in regulations, is the annual statement which is required to be filed with the applicable insurance regulatory body, but only if there is no statement which meets the requirements of clause (i) or (ii).
     - **(B)** The term “applicable insurance regulatory body” means, with respect to any insurance business, the entity established by law to license, authorize, or regulate such business and to which the statement described in subparagraph (A) is provided.
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XII, § 1235(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2572](https://www.govinfo.gov/link/statute/100/2572), § 1296; amended [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1012(p)(2), (5), (16), (26), (27), 1018(u)(40), Nov. 10, 1988, [102 Stat. 3515](https://www.govinfo.gov/link/statute/102/3515), 3518–3520, 3592; [Pub. L. 103–66, title XIII, § 13231(d)(1)](https://www.govinfo.gov/link/plaw/103/public/66), (3), Aug. 10, 1993, [107 Stat. 499](https://www.govinfo.gov/link/statute/107/499); [Pub. L. 104–188, title I, § 1704(r)(1)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1887](https://www.govinfo.gov/link/statute/110/1887); renumbered § 1297 and amended [Pub. L. 105–34, title XI](https://www.govinfo.gov/link/plaw/105/public/34), §§ 1121, 1122(a), (d)(4), 1123, Aug. 5, 1997, [111 Stat. 971](https://www.govinfo.gov/link/statute/111/971), 972, 977; [Pub. L. 105–206, title VI, § 6011(b)(1)](https://www.govinfo.gov/link/plaw/105/public/206), (d), July 22, 1998, [112 Stat. 817](https://www.govinfo.gov/link/statute/112/817), 818; [Pub. L. 110–172, § 11(a)(24)(A)](https://www.govinfo.gov/link/plaw/110/public/172), (g)(18), Dec. 29, 2007, [121 Stat. 2486](https://www.govinfo.gov/link/statute/121/2486), 2491; [Pub. L. 115–97, title I, § 14501(a)](https://www.govinfo.gov/link/plaw/115/public/97), (b), Dec. 22, 2017, [131 Stat. 2234](https://www.govinfo.gov/link/statute/131/2234).)*

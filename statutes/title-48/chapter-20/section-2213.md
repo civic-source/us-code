@@ -3,9 +3,10 @@ title: "Section 2213 - Critical Projects"
 usc_title: 48
 usc_section: "2213"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 2213"
-generated_at: "2026-03-30T02:56:14.606Z"
+generated_at: "2026-11-23T21:26:38.144Z"
+status: "active"
 ---
 
 # § 2213. Critical Projects
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:56:14.606Z"
 - **(c)** Not later than 30 days after receiving the Critical Project Report, the Oversight Board, by majority vote, shall approve or disapprove the project as a Critical Project, if the Oversight Board—
   - **(1)** approves the project, the project shall be deemed a Critical Project; and
   - **(2)** disapproves the project, the Oversight Board shall submit to the Revitalization Coordinator in writing the reasons for disapproval.
+
+## Source Credit
+
+*([Pub. L. 114–187, title V, § 503](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 598](https://www.govinfo.gov/link/statute/130/598).)*

@@ -3,9 +3,10 @@ title: "Section 44946 - Aviation Security Advisory Committee"
 usc_title: 49
 usc_section: "44946"
 chapter: 449
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44946"
-generated_at: "2026-03-30T02:56:19.395Z"
+generated_at: "2026-11-23T21:26:40.937Z"
+status: "active"
 ---
 
 # § 44946. Aviation Security Advisory Committee
@@ -55,3 +56,95 @@ generated_at: "2026-03-30T02:56:19.395Z"
   - **(3)**
     - **(A)** The term “perimeter security” means procedures or systems to monitor, secure, and prevent unauthorized access to an airport, including its airfield and terminal.
     - **(B)** The term “perimeter security” includes the fence area surrounding an airport, access gates, and access controls.
+
+Establishment
+
+Duties.—
+
+In general
+
+Recommendations.—
+
+In general
+
+Recommendations of subcommittees
+
+Periodic reports
+
+Annual report
+
+Feedback
+
+Congressional notification
+
+Report to congress
+
+Membership.—
+
+Appointment.—
+
+In general
+
+Composition
+
+Representation
+
+Term of office.—
+
+Terms
+
+Removal
+
+Prohibition on compensation
+
+Meetings.—
+
+In general
+
+Public meetings
+
+Attendance
+
+Member access to sensitive security information
+
+Chairperson
+
+Subcommittees.—
+
+Membership
+
+Air cargo security
+
+General aviation
+
+Perimeter and access control
+
+Security technology
+
+Risk-based security
+
+Meetings and reporting
+
+Subcommittee chairs
+
+Subject Matter Experts
+
+Nonapplicability of Chapter
+
+of Title
+
+Definitions
+
+Administrator
+
+Advisory committee
+
+Perimeter security.—
+
+In general
+
+Inclusions
+
+## Source Credit
+
+*(Added [Pub. L. 113–238, § 2(a)](https://www.govinfo.gov/link/plaw/113/public/238), Dec. 18, 2014, [128 Stat. 2842](https://www.govinfo.gov/link/statute/128/2842); amended [Pub. L. 114–190, title III, § 3411](https://www.govinfo.gov/link/plaw/114/public/190), July 15, 2016, [130 Stat. 662](https://www.govinfo.gov/link/statute/130/662); [Pub. L. 115–254, div. K, title I, § 1991(d)(37)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3641](https://www.govinfo.gov/link/statute/132/3641); [Pub. L. 117–286, § 4(a)(317)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4340](https://www.govinfo.gov/link/statute/136/4340).)*

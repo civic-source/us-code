@@ -3,9 +3,10 @@ title: "Section 30103 - Liability of master, mate, engineer, and pilot"
 usc_title: 46
 usc_section: "30103"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 30103"
-generated_at: "2026-03-30T02:56:15.561Z"
+generated_at: "2026-11-23T21:26:37.154Z"
+status: "active"
 ---
 
 # § 30103. Liability of master, mate, engineer, and pilot
@@ -14,3 +15,16 @@ A person may bring a civil action against a master, mate, engineer, or pilot of 
 
   - **(1)** negligence or willful misconduct; or
   - **(2)** neglect or refusal to obey the laws governing the navigation of vessels.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30103 | 46 App.:491 (words after semicolon). | R.S. § 4493 (words after semicolon). |
+
+
+Historical and Revision Notes
+
+30103
+
+## Source Credit
+
+*([Pub. L. 109–304, § 6(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1510](https://www.govinfo.gov/link/statute/120/1510).)*

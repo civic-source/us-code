@@ -3,9 +3,10 @@ title: "Section 3407 - Plan approval; Secretarial authority; review of decision"
 usc_title: 25
 usc_section: "3407"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3407"
-generated_at: "2026-03-30T02:54:52.852Z"
+generated_at: "2026-11-23T21:25:54.691Z"
+status: "active"
 ---
 
 # § 3407. Plan approval; Secretarial authority; review of decision
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:52.852Z"
   - **(3)** Notwithstanding any other provision of law, a decision by an official of the Department of the Interior or the Department of Health and Human Services, as appropriate (collectively referred to in this paragraph as the “Department”) that constitutes final agency action and that relates to an appeal within the Department that is conducted under paragraph (1)(C) shall be made—
     - **(A)** by an official of the Department who holds a position at a higher organizational level within the Department than the level of the departmental agency (such as the Indian Health Service or the Bureau of Indian Affairs) in which the decision that is the subject of the appeal was made; or
     - **(B)** by an administrative law judge.
+
+## Source Credit
+
+*([Pub. L. 102–477, § 8](https://www.govinfo.gov/link/plaw/102/public/477), Oct. 23, 1992, [106 Stat. 2303](https://www.govinfo.gov/link/statute/106/2303); [Pub. L. 106–568, title XI, § 1103(d)](https://www.govinfo.gov/link/plaw/106/public/568), Dec. 27, 2000, [114 Stat. 2932](https://www.govinfo.gov/link/statute/114/2932); [Pub. L. 115–93, § 9](https://www.govinfo.gov/link/plaw/115/public/93), Dec. 18, 2017, [131 Stat. 2030](https://www.govinfo.gov/link/statute/131/2030).)*

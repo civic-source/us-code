@@ -3,9 +3,10 @@ title: "Section 12645 - Commissioned officers: retention until completion of req
 usc_title: 10
 usc_section: "12645"
 chapter: 1219
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 12645"
-generated_at: "2026-03-30T02:53:38.271Z"
+generated_at: "2026-11-23T21:25:33.050Z"
+status: "active"
 ---
 
 # § 12645. Commissioned officers: retention until completion of required service
@@ -16,3 +17,20 @@ generated_at: "2026-03-30T02:53:38.271Z"
   - **(2)** an officer on the active-duty list or a reserve active-status list who is found not qualified for promotion to the grade of first lieutenant, in the case of an officer of the Army, Air Force, or Marine Corps, or lieutenant (junior grade), in the case of an officer of the Navy;
   - **(3)** an officer on the active-duty list or reserve active-status list who has failed of selection for promotion for the second time to the grade of captain, in the case of an officer of the Army, Air Force, or Marine Corps, or to the grade of lieutenant, in the case of an officer of the Navy; or
   - **(4)** an officer whose discharge or transfer from an active status is required by law.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1005 | 50:1181(1) (as applicable to 50: 1194). 50:1194. | Sept. 3, 1954, ch. 1257 , §§ 102(1) (as applicable to § 204), 204, 68 Stat. 1149 , 1151. |
+
+
+Historical and Revision Notes
+
+1005
+
+Sept. 3, 1954, ch. 1257
+
+68 Stat. 1149
+
+## Source Credit
+
+*(Added [Pub. L. 85–861, § 1(22)(B)](https://www.govinfo.gov/link/plaw/85/public/861), Sept. 2, 1958, [72 Stat. 1444](https://www.govinfo.gov/link/statute/72/1444), § 1005; amended [Pub. L. 93–586, § 2](https://www.govinfo.gov/link/plaw/93/public/586), Jan. 2, 1975, [88 Stat. 1920](https://www.govinfo.gov/link/statute/88/1920); [Pub. L. 98–525, title V, § 528(a)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2525](https://www.govinfo.gov/link/statute/98/2525); renumbered § 12645 and amended [Pub. L. 103–337, div. A, title XVI](https://www.govinfo.gov/link/plaw/103/public/337), §§ 1627, 1662(h)(2), 1675(d)(2), Oct. 5, 1994, [108 Stat. 2962](https://www.govinfo.gov/link/statute/108/2962), 2996, 3018; [Pub. L. 104–106, div. A, title XV, § 1501(a)(4)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 495](https://www.govinfo.gov/link/statute/110/495); [Pub. L. 104–201, div. A, title V, § 544(b)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2523](https://www.govinfo.gov/link/statute/110/2523); [Pub. L. 115–232, div. A, title VIII, § 809(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1840](https://www.govinfo.gov/link/statute/132/1840).)*

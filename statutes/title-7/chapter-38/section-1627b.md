@@ -3,9 +3,10 @@ title: "Section 1627b - National Sheep Industry Improvement Center"
 usc_title: 7
 usc_section: "1627b"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1627b"
-generated_at: "2026-03-30T02:53:42.329Z"
+generated_at: "2026-11-23T21:25:28.130Z"
+status: "active"
 ---
 
 # § 1627b. National Sheep Industry Improvement Center
@@ -153,3 +154,7 @@ generated_at: "2026-03-30T02:53:42.329Z"
     - **(B)** suspend the authority of the Center to withdraw funds from the Fund; or
     - **(C)** impose other appropriate sanctions, including recoupment of money improperly expended for purposes prohibited or not authorized by this Act and disqualification from receipt of financial assistance under this section.
   - **(3)** The Secretary shall rescind sanctions imposed under paragraph (2) on a finding by the Secretary that there is no longer any failure by the Board or the Center to comply with this section or that the noncompliance will be promptly corrected.
+
+## Source Credit
+
+*(Aug. 14, 1946, ch. 966, title II, § 210, formerly [Pub. L. 87–128, title III, § 375](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 104–127, title VII, § 759](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1132](https://www.govinfo.gov/link/statute/110/1132); amended [Pub. L. 106–78, title VIII, § 816](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1182](https://www.govinfo.gov/link/statute/113/1182); [Pub. L. 106–387, § 1(a) [title VII, § 756]](https://www.govinfo.gov/link/plaw/106/public/387), Oct. 28, 2000, [114 Stat. 1549](https://www.govinfo.gov/link/statute/114/1549), 1549A–43; [Pub. L. 107–76, title VII, § 731](https://www.govinfo.gov/link/plaw/107/public/76), Nov. 28, 2001, [115 Stat. 736](https://www.govinfo.gov/link/statute/115/736); [Pub. L. 108–7, div. A, title VII, § 728](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 42](https://www.govinfo.gov/link/statute/117/42); [Pub. L. 108–199, div. A, title VII, § 726](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 35](https://www.govinfo.gov/link/statute/118/35); [Pub. L. 108–447, div. A, title VII, § 725](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 2842](https://www.govinfo.gov/link/statute/118/2842); [Pub. L. 110–234, title XI, § 11009(a)](https://www.govinfo.gov/link/plaw/110/public/234), (b)(1), May 22, 2008, [122 Stat. 1359](https://www.govinfo.gov/link/statute/122/1359); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XI, § 11009(a), (b)(1), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2120, 2121; renumbered act Aug. 14, 1946, § 210, and amended [Pub. L. 113–79, title XII, § 12102(b)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 979](https://www.govinfo.gov/link/statute/128/979).)*

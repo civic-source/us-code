@@ -3,9 +3,10 @@ title: "Section 1005 - Works of improvement"
 usc_title: 16
 usc_section: "1005"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1005"
-generated_at: "2026-03-30T02:54:22.939Z"
+generated_at: "2026-11-23T21:25:51.802Z"
+status: "active"
 ---
 
 # § 1005. Works of improvement
@@ -15,3 +16,25 @@ generated_at: "2026-03-30T02:54:22.939Z"
   - **(3)** Whenever the estimated Federal contribution to the construction cost of works of improvement in the plan for any watershed or subwatershed area shall exceed $25,000,000 or the works of improvement include any structure having a total capacity in excess of twenty-five hundred acre-feet, the Secretary shall transmit a copy of the plan and the justification therefor to the Congress through the President.
   - **(4)** Any plans for works of improvement involving an estimated Federal contribution to construction costs in excess of $25,000,000 or including any structure having a total capacity in excess of twenty-five hundred acre-feet (a) which includes works of improvement for reclamation or irrigation, or which affects public or other lands or wildlife under the jurisdiction of the Secretary of the Interior, (b) which includes Federal assistance for floodwater detention structures, (c) which includes features which may affect the public health, or (d) which includes measures for control or abatement of water pollution, shall be submitted to the Secretary of the Interior, the Secretary of the Army, the Secretary of Health and Human Services, or the Administrator of the Environmental Protection Agency, respectively, for his views and recommendations at least thirty days prior to transmission of the plan to the Congress through the President. The views and recommendations of the Secretary of the Interior, the Secretary of the Army, the Secretary of Health and Human Services, and the Administrator of the Environmental Protection Agency, if received by the Secretary prior to the expiration of the above thirty-day period, shall accompany the plan transmitted by the Secretary to the Congress through the President.
   - **(5)** Prior to any Federal participation in the works of improvement under this chapter, the President shall issue such rules and regulations as he deems necessary or desirable to carry out the purposes of this chapter, and to assure the coordination of the work authorized under this chapter and related work of other agencies, including the Department of the Interior and the Department of the Army.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Dwight D. Eisenhower.
+
+Dwight D. Eisenhower.
+
+## Source Credit
+
+*(Aug. 4, 1954, ch. 656, § 5, [68 Stat. 667](https://www.govinfo.gov/link/statute/68/667); July 19, 1956, ch. 639, [70 Stat. 580](https://www.govinfo.gov/link/statute/70/580); Aug. 7, 1956, ch. 1027, § 1(f), [70 Stat. 1089](https://www.govinfo.gov/link/statute/70/1089); [Pub. L. 87–703, title I, § 105](https://www.govinfo.gov/link/plaw/87/public/703), Sept. 27, 1962, [76 Stat. 609](https://www.govinfo.gov/link/statute/76/609); [Pub. L. 90–361](https://www.govinfo.gov/link/plaw/90/public/361), June 27, 1968, [82 Stat. 250](https://www.govinfo.gov/link/statute/82/250); [Pub. L. 92–419, title II, § 201(g)](https://www.govinfo.gov/link/plaw/92/public/419), Aug. 30, 1972, [86 Stat. 669](https://www.govinfo.gov/link/statute/86/669); [Pub. L. 95–113, title XV, § 1506(b)](https://www.govinfo.gov/link/plaw/95/public/113), (c), Sept. 29, 1977, [91 Stat. 1022](https://www.govinfo.gov/link/statute/91/1022); [Pub. L. 97–98, title XV, § 1512(e)](https://www.govinfo.gov/link/plaw/97/public/98), (f), Dec. 22, 1981, [95 Stat. 1333](https://www.govinfo.gov/link/statute/95/1333); [Pub. L. 115–141, div. A, title VII, § 761(b)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 396](https://www.govinfo.gov/link/statute/132/396); [Pub. L. 115–334, title II, § 2821(a)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4602](https://www.govinfo.gov/link/statute/132/4602).)*

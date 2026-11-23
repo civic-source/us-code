@@ -3,9 +3,10 @@ title: "Section 16292 - Carbon capture technology program"
 usc_title: 42
 usc_section: "16292"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16292"
-generated_at: "2026-03-30T02:56:11.479Z"
+generated_at: "2026-11-23T21:26:33.723Z"
+status: "active"
 ---
 
 # § 16292. Carbon capture technology program
@@ -162,3 +163,27 @@ generated_at: "2026-03-30T02:56:11.479Z"
     - **(B)** The Secretary may renew a grant for 1 or more additional 5-year terms, subject to a competitive merit review and the availability of appropriations.
   - **(6)** To the extent otherwise authorized by law, the Secretary may eliminate, and terminate grant funding under this subsection for, a Center during any 5-year term described in paragraph (5) if the Secretary determines that the Center is underperforming.
   - **(7)** There is authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2021 through 2025.
+
+(aa) applicant and contractor qualifications;
+
+(bb) project management practices at the Department;
+
+(cc) economic or market changes and other factors impacting project viability;
+
+(dd) completion of third-party agreements, including power purchase agreements and carbon dioxide offtake agreements;
+
+(ee) regulatory challenges; and
+
+(ff) construction challenges.
+
+(aa) an estimate of the cost of licensing, permitting, constructing, and operating each carbon capture facility expected to be constructed under the demonstration program established under subparagraph (A);
+
+(bb) a schedule for the planned construction and operation of each demonstration or pilot project under the demonstration program; and
+
+(cc) an estimate of any financial assistance, compensation, or incentives proposed to be paid by the host State, Indian Tribe, or local government with respect to each facility described in item (aa).
+
+“Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 962](https://www.govinfo.gov/link/plaw/109/public/58), as added [Pub. L. 116–260, div. Z, title IV, § 4002(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2528](https://www.govinfo.gov/link/statute/134/2528); amended [Pub. L. 117–58, div. D, title III, § 40303](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 988](https://www.govinfo.gov/link/statute/135/988).)*

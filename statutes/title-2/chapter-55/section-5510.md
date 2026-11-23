@@ -3,9 +3,10 @@ title: "Section 5510 - Providing assistance to House of Representatives in respo
 usc_title: 2
 usc_section: "5510"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 5510"
-generated_at: "2026-03-30T02:53:04.837Z"
+generated_at: "2026-11-23T21:25:21.332Z"
+status: "active"
 ---
 
 # § 5510. Providing assistance to House of Representatives in response to cybersecurity events
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:04.837Z"
 - **(d)** In providing assistance under this section, the head of the Executive department, military department, or independent establishment shall meet the requirements of section 113 of the Legislative Branch Appropriations Act, 2017 ( Public Law 115–31 ).
 - **(e)** Nothing in this section may be construed to affect the authority of an Executive department, military department, or independent establishment to provide any support, including cybersecurity support, to the House of Representatives under any other law, rule, or regulation.
 - **(f)** In this section, each of the terms “Executive department”, “military department”, and “independent establishment” has the meaning given such term in chapter 1 of title 5.
+
+## Source Credit
+
+*([Pub. L. 115–91, div. A, title X, § 1090](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1606](https://www.govinfo.gov/link/statute/131/1606).)*

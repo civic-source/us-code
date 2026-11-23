@@ -3,9 +3,10 @@ title: "Section 384b - Voluntary qualified importer program"
 usc_title: 21
 usc_section: "384b"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 384b"
-generated_at: "2026-03-30T02:54:54.278Z"
+generated_at: "2026-11-23T21:25:56.174Z"
+status: "active"
 ---
 
 # § 384b. Voluntary qualified importer program
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:54.278Z"
 - **(e)** Any importer qualified by the Secretary in accordance with the eligibility criteria set forth in this section shall be reevaluated not less often than once every 3 years and the Secretary shall promptly revoke the qualified importer status of any importer found not to be in compliance with such criteria.
 - **(f)** Any statement or representation made by an importer to the Secretary shall be subject to section 1001 of title 18 .
 - **(g)** For purposes of this section, the term “importer” means the person that brings food, or causes food to be brought, from a foreign country into the customs territory of the United States.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 806, as added [Pub. L. 111–353, title III, § 302](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3955](https://www.govinfo.gov/link/statute/124/3955).)*

@@ -3,9 +3,10 @@ title: "Section 3364 - Miscellaneous provisions"
 usc_title: 15
 usc_section: "3364"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3364"
-generated_at: "2026-03-30T02:54:08.189Z"
+generated_at: "2026-11-23T21:25:39.968Z"
+status: "active"
 ---
 
 # § 3364. Miscellaneous provisions
@@ -31,3 +32,9 @@ generated_at: "2026-03-30T02:54:08.189Z"
     - **(D)** such other procedures as may be specified by the President in such request or order shall be complied with.
 - **(f)** There shall be available as a defense to any action brought for breach of contract under Federal or State Law arising out of any act or omission that such act was taken or that such omission occurred for purposes of complying with any order issued under section 3363 of this title .
 - **(g)** Any order issued pursuant to this subchapter shall preempt any provision of any program for the allocation, emergency delivery, transportation, or purchase of natural gas established by any State or local government if such program is in conflict with any such order.
+
+Jimmy Carter.
+
+## Source Credit
+
+*([Pub. L. 95–621, title III, § 304](https://www.govinfo.gov/link/plaw/95/public/621), Nov. 9, 1978, [92 Stat. 3387](https://www.govinfo.gov/link/statute/92/3387).)*

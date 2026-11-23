@@ -3,9 +3,10 @@ title: "Section 4336b - Programmatic environmental document"
 usc_title: 42
 usc_section: "4336b"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4336b"
-generated_at: "2026-03-30T02:56:11.201Z"
+generated_at: "2026-11-23T21:26:32.648Z"
+status: "active"
 ---
 
 # § 4336b. Programmatic environmental document
@@ -14,3 +15,7 @@ When an agency prepares a programmatic environmental document for which judicial
 
   - **(1)** Within 5 years and without additional review of the analysis in the programmatic environmental document, unless there are substantial new circumstances or information about the significance of adverse effects that bear on the analysis.
   - **(2)** After 5 years, so long as the agency reevaluates the analysis in the programmatic environmental document and any underlying assumption to ensure reliance on the analysis remains valid.
+
+## Source Credit
+
+*([Pub. L. 91–190, title I, § 108](https://www.govinfo.gov/link/plaw/91/public/190), as added [Pub. L. 118–5, div. C, title III, § 321(b)](https://www.govinfo.gov/link/plaw/118/public/5), June 3, 2023, [137 Stat. 43](https://www.govinfo.gov/link/statute/137/43).)*

@@ -3,9 +3,10 @@ title: "Section 1505 - Management of Corporation"
 usc_title: 7
 usc_section: "1505"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1505"
-generated_at: "2026-03-30T02:53:42.318Z"
+generated_at: "2026-11-23T21:25:28.093Z"
+status: "active"
 ---
 
 # § 1505. Management of Corporation
@@ -42,3 +43,11 @@ generated_at: "2026-03-30T02:53:42.318Z"
   - **(4)** The Board shall include reviews conducted under this subsection as part of the consideration of any policy or plan or insurance, or any related material or modification of a policy or plan of insurance, proposed to be offered under this subchapter.
   - **(5)** Each contract to conduct a review under this subsection shall be funded from amounts made available under section 1516(b)(2)(A)(ii) of this title .
   - **(6)** The contract authority provided in this subsection is in addition to any other contracting authority that may be exercised by the Board under section 1506( l ) of this title.
+
+Implementation
+
+Effect on existing board
+
+## Source Credit
+
+*(Feb. 16, 1938, ch. 30, title V, § 505, [52 Stat. 72](https://www.govinfo.gov/link/statute/52/72); Aug. 1, 1947, ch. 440, § 8, [61 Stat. 719](https://www.govinfo.gov/link/statute/61/719); Aug. 25, 1949, ch. 512, § 7, [63 Stat. 665](https://www.govinfo.gov/link/statute/63/665); [Pub. L. 96–365, title I, § 102](https://www.govinfo.gov/link/plaw/96/public/365), Sept. 26, 1980, [94 Stat. 1312](https://www.govinfo.gov/link/statute/94/1312); [Pub. L. 103–354, title I](https://www.govinfo.gov/link/plaw/103/public/354), §§ 102(b)(3), (4), 103, 115(a), Oct. 13, 1994, [108 Stat. 3181](https://www.govinfo.gov/link/statute/108/3181), 3204; [Pub. L. 106–224, title I, § 142(a)(1)](https://www.govinfo.gov/link/plaw/106/public/224), (b), June 20, 2000, [114 Stat. 389](https://www.govinfo.gov/link/statute/114/389), 390; [Pub. L. 110–234, title XII, § 12033(c)(2)(B)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1405](https://www.govinfo.gov/link/statute/122/1405); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XII, § 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2167.)*

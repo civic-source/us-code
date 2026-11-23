@@ -3,9 +3,10 @@ title: "Section 60102 - Purpose and general authority"
 usc_title: 49
 usc_section: "60102"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 60102"
-generated_at: "2026-03-30T02:56:19.410Z"
+generated_at: "2026-11-23T21:26:41.010Z"
+status: "active"
 ---
 
 # § 60102. Purpose and general authority
@@ -205,3 +206,555 @@ generated_at: "2026-03-30T02:56:19.410Z"
       - **(ii)** the gas pressure of a low-pressure distribution system is monitored, particularly at or near the location of critical pressure-control equipment;
       - **(iii)** the regulator station has secondary or backup pressure-relieving or overpressure-protection safety technology, such as a relief valve or automatic shutoff valve, or other pressure-limiting devices appropriate for the configuration and siting of the station and, in the case of a regulator station that employs the primary and monitor regulator design, the operator shall eliminate the common mode of failure or provide backup protection capable of either shutting the flow of gas, relieving gas to the atmosphere to fully protect the distribution system from overpressurization events, or there must be technology in place to eliminate a common mode of failure; and
       - **(iv)** if the Secretary determines that it is not operationally possible for an operator to implement the requirements under clause (iii), the Secretary shall require such operator to identify actions in their plan that minimize the risk of an overpressurization event.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60102(a)(1) | 49 App.:1672(a)(1) (1st, 2d sentences). | Aug. 12, 1968 , Pub. L. 90–481, § 3(a)(1) (1st, 2d, 7th, 8th sentences), 82 Stat. 721 ; Oct. 11, 1976 , Pub. L. 94–477, § 4(1) , 90 Stat. 2073 ; Nov. 30, 1979 , Pub. L. 96–129 , §§ 101(a), 109(c)–(e), 93 Stat. 990 , 996; Oct. 24, 1992 , Pub. L. 102–508, § 101(a)(1) , (2), 106 Stat. 3290 . |
+|  | 49 App.:1672(a)(1) (3d sentence). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 3(a)(1) (3d sentence); added Oct. 31, 1988 , Pub. L. 100–561, § 101 , 102 Stat. 2806 ; Oct. 24, 1992 , Pub. L. 102–508, § 106(1) , 102 Stat. 3293 . |
+|  | 49 App.:2002(a)(1) (1st, 2d sentences). | Nov. 30, 1979 , Pub. L. 96–129 , 203(a)(1), 93 Stat. 1004 ; Oct. 22, 1986 , Pub. L. 99–516, § 3(b)(1)(A) , 100 Stat. 2966 ; Oct. 24, 1992 , Pub. L. 102–508, § 201(a)(1) , 106 Stat. 3299 . |
+|  | 49 App.:2002(c) (1st sentence). | Nov. 30, 1979 , Pub. L. 96–129, § 203(c) (1st sentence), (e), (f), 93 Stat. 1004 . |
+|  | 49 App.:2002(c) (2d sentence). | Nov. 30, 1979 , Pub. L. 96–129 , 93 Stat. 989 , § 203(c) (2d sentence); added Oct. 31, 1988 , Pub. L. 100–561, § 201 , 102 Stat. 2809 ; Oct. 24, 1992 , Pub. L. 102–508, § 205(1) , 106 Stat. 3302 . |
+| 60102(a)(2) | 49 App.:1672(a)(1) (4th, 5th sentences). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 3(a)(1) (4th, 5th sentences); added Oct. 24, 1992 , Pub. L. 102–508, § 106(2) , 102 Stat. 3293 . |
+|  | 49 App.:2002(c) (3d, 4th sentences). | Nov. 30, 1979 , Pub. L. 96–129 , 93 Stat. 989 , § 203(c) (3d, 4th sentences); added Oct. 24, 1992 , Pub. L. 102–508, § 205(2) , 106 Stat. 3302 . |
+| 60102(b) | 49 App.:1672(a)(1) (7th, 8th sentences). |  |
+|  | 49 App.:2002(a)(1) (last sentence). |  |
+|  | 49 App.:2002(b) (1st sentence). | Nov. 30, 1979 , Pub. L. 96–129, § 203(b) (1st sentence), 93 Stat. 1004 ; Oct. 24, 1992 , Pub. L. 102–508, § 201(a)(3) , 106 Stat. 3300 . |
+| 60102(c)(1), (2) | 49 App.:1672(a)(2). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 3(a)(2); added Nov. 30, 1979 , Pub. L. 96–129 , §§ 101(a), 109(c), 93 Stat. 990 , 996. |
+| 60102(c)(3) | 49 App.:2002(e). |  |
+| 60102(d) | 49 App.:1672(e). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 3(e); added Oct. 31, 1988 , Pub. L. 100–561, § 102 , 102 Stat. 2806 ; Oct. 24, 1992 , Pub. L. 102–508, § 102(b) , 106 Stat. 3291 . |
+|  | 49 App.:2002(i). | Nov. 30, 1979 , Pub. L. 96–129 , 93 Stat. 989 , § 203(i); added Oct. 31, 1988 , Pub. L. 100–561, § 202 , 102 Stat. 2810 ; Oct. 24, 1992 , Pub. L. 102–508, § 202(b) , 106 Stat. 3301 . |
+| 60102(e) | 49 App.:1672(f). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 3(f); added Oct. 31, 1988 , Pub. L. 100–561, § 102 , 102 Stat. 2806 ; Oct. 24, 1992 , Pub. L. 102–508, § 102(a)(1) , 106 Stat. 3290 . |
+|  | 49 App.:2002(j). | Nov. 30, 1979 , Pub. L. 96–129 , 93 Stat. 989 , § 203(j); added Oct. 31, 1988 , Pub. L. 100–561, § 202 , 102 Stat. 2810 ; Oct. 24, 1992 , Pub. L. 102–508, § 202(a)(1) , 106 Stat. 3300 . |
+| 60102(f) | 49 App.:1672(g). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 3(g); added Oct. 31, 1988 , Pub. L. 100–561, § 108(b) , 102 Stat. 2808 ; Oct. 24, 1992 , Pub. L. 102–508, § 103 , 106 Stat. 3291 . |
+|  | 49 App.:2002(k). | Nov. 30, 1979 , Pub. L. 96–129 , 93 Stat. 989 , § 203(k); added Oct. 31, 1988 , Pub. L. 100–561, § 207(b) , 102 Stat. 2812 ; Oct. 24, 1992 , Pub. L. 102–508, § 203 , 106 Stat. 3301 . |
+| 60102(g) | 49 App.:1672(b). | Aug. 12, 1968 , Pub. L. 90–481, § 3(b) , 82 Stat. 721 ; Nov. 30, 1979 , Pub. L. 96–129, § 109(c) , (f), 93 Stat. 996 . |
+|  | 49 App.:2002(f). |  |
+| 60102(h) | 49 App.:1672(a)(3). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 3(a)(3); added Oct. 22, 1986 , Pub. L. 99–516, § 3(a)(1) , 100 Stat. 2965 ; Oct. 24, 1992 , Pub. L. 102–508, § 101(a)(3) , 106 Stat. 3290 . |
+|  | 49 App.:2002(a)(2). | Nov. 30, 1979 , Pub. L. 96–129 , 93 Stat. 989 , § 203(a)(2); added Oct. 22, 1986 , Pub. L. 99–516, § 3(b)(1)(B) , 100 Stat. 2966 ; Oct. 24, 1992 , Pub. L. 102–508, § 201(a)(2) , 106 Stat. 3300 . |
+| 60102(i) | 49 App.:2015. | Nov. 30, 1979 , Pub. L. 96–129 , 93 Stat. 989 , § 219; added Oct. 31, 1988 , Pub. L. 100–561, § 211(a) , 102 Stat. 2813 . |
+|  | 49 App.:2015 (note). | Oct. 31, 1988 , Pub. L. 100–561, § 211(c) , 102 Stat. 2813 . |
+| 60102(j) | 49 App.:2002(n). | Nov. 30, 1979 , Pub. L. 96–129 , 93 Stat. 989 , § 203(n); added Oct. 24, 1992 , Pub. L. 102–508, § 212 , 106 Stat. 3304 . |
+| 60102(k) | 49 App.:2002(b) (last sentence). | Nov. 30, 1979 , Pub. L. 96–129 , 93 Stat. 989 , § 203(b) (last sentence); added Oct. 24, 1992 , Pub. L. 102–508, § 206 , 106 Stat. 3302 . |
+
+
+Purpose and Minimum Safety Standards.—
+
+Purpose
+
+Minimum safety standards
+
+Qualifications of pipeline operators
+
+Practicability and Safety Needs Standards.—
+
+In general
+
+Factors for consideration
+
+Risk assessment
+
+Review.—
+
+In general
+
+Peer review panels
+
+Review by secretary
+
+Secretarial decisionmaking
+
+Exceptions from application
+
+Report
+
+Public Safety Program Requirements
+
+Promoting public awareness.—
+
+Facility Operation Information Standards
+
+Pipe Inventory Standards
+
+Standards as Accommodating “Smart Pigs”
+
+Minimum safety standards
+
+Periodic inspections
+
+Effective Dates
+
+Safety Condition Reports
+
+Submission of report
+
+Submission of report to other entities
+
+Carbon Dioxide Regulation
+
+Transportation in liquid state
+
+Transportation in gaseous state.—
+
+Minimum safety standards
+
+Considerations
+
+Limitation on statutory construction
+
+Emergency Flow Restricting Devices
+
+Low-Stress Hazardous Liquid Pipelines.—
+
+Minimum standards
+
+General prohibition against low internal stress exception
+
+Limited exceptions
+
+Relationship to other laws
+
+Definition
+
+Effective date
+
+Updating Standards
+
+Inspections by Direct Assessment
+
+Automatic and Remote-Controlled Shut-off Valves for New Transmission Pipelines.—
+
+In general
+
+High-consequence area study.—
+
+Study
+
+Considerations
+
+Report
+
+Transportation-Related Oil Flow Lines.—
+
+Data collection
+
+Transportation-related oil flow line defined
+
+Limitation
+
+Limitation on Incorporation of Documents by Reference
+
+Gas Pipeline Leak Detection and Repair.—
+
+In general
+
+Leak detection and repair programs.—
+
+Minimum performance standards
+
+Requirement
+
+Advanced leak detection technologies and practices.—
+
+In general
+
+Advanced leak detection technologies and practices described
+
+Rules of construction.—
+
+Surveys and timelines
+
+Application
+
+Existing authority
+
+Emergency Response Plans
+
+Operations and Maintenance Manuals
+
+Other Pipeline Safety Practices.—
+
+Records
+
+Presence of qualified employees.—
+
+In general
+
+Exclusion
+
+District regulator stations.—
+
+In general
+
+Historical and Revision Notes
+
+60102(a)(1)
+
+Aug. 12, 1968
+
+Pub. L. 90–481, § 3(a)(1)
+
+82 Stat. 721
+
+Oct. 11, 1976
+
+Pub. L. 94–477, § 4(1)
+
+90 Stat. 2073
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 990
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 101(a)(1)
+
+106 Stat. 3290
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Oct. 31, 1988
+
+Pub. L. 100–561, § 101
+
+102 Stat. 2806
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 106(1)
+
+102 Stat. 3293
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 1004
+
+Oct. 22, 1986
+
+Pub. L. 99–516, § 3(b)(1)(A)
+
+100 Stat. 2966
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 201(a)(1)
+
+106 Stat. 3299
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 203(c)
+
+93 Stat. 1004
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 989
+
+Oct. 31, 1988
+
+Pub. L. 100–561, § 201
+
+102 Stat. 2809
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 205(1)
+
+106 Stat. 3302
+
+60102(a)(2)
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 106(2)
+
+102 Stat. 3293
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 989
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 205(2)
+
+106 Stat. 3302
+
+60102(b)
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 203(b)
+
+93 Stat. 1004
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 201(a)(3)
+
+106 Stat. 3300
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 990
+
+60102(c)(3)
+
+60102(d)
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Oct. 31, 1988
+
+Pub. L. 100–561, § 102
+
+102 Stat. 2806
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 102(b)
+
+106 Stat. 3291
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 989
+
+Oct. 31, 1988
+
+Pub. L. 100–561, § 202
+
+102 Stat. 2810
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 202(b)
+
+106 Stat. 3301
+
+60102(e)
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Oct. 31, 1988
+
+Pub. L. 100–561, § 102
+
+102 Stat. 2806
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 102(a)(1)
+
+106 Stat. 3290
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 989
+
+Oct. 31, 1988
+
+Pub. L. 100–561, § 202
+
+102 Stat. 2810
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 202(a)(1)
+
+106 Stat. 3300
+
+60102(f)
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Oct. 31, 1988
+
+Pub. L. 100–561, § 108(b)
+
+102 Stat. 2808
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 103
+
+106 Stat. 3291
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 989
+
+Oct. 31, 1988
+
+Pub. L. 100–561, § 207(b)
+
+102 Stat. 2812
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 203
+
+106 Stat. 3301
+
+60102(g)
+
+Aug. 12, 1968
+
+Pub. L. 90–481, § 3(b)
+
+82 Stat. 721
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 109(c)
+
+93 Stat. 996
+
+60102(h)
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Oct. 22, 1986
+
+Pub. L. 99–516, § 3(a)(1)
+
+100 Stat. 2965
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 101(a)(3)
+
+106 Stat. 3290
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 989
+
+Oct. 22, 1986
+
+Pub. L. 99–516, § 3(b)(1)(B)
+
+100 Stat. 2966
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 201(a)(2)
+
+106 Stat. 3300
+
+60102(i)
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 989
+
+Oct. 31, 1988
+
+Pub. L. 100–561, § 211(a)
+
+102 Stat. 2813
+
+Oct. 31, 1988
+
+Pub. L. 100–561, § 211(c)
+
+102 Stat. 2813
+
+60102(j)
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 989
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 212
+
+106 Stat. 3304
+
+60102(k)
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 989
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 206
+
+106 Stat. 3302
+
+Minimum safety standards
+
+Minimum Safety Standards
+
+In General
+
+Requirement
+
+Rule of Construction
+
+“Each owner or operator of a hazardous liquid pipeline facility required to prepare a response plan pursuant to part 194 of title 49, Code of Federal Regulations, shall—
+
+“Not later than June 1, 2008 , the Secretary of Transportation shall issue standards that implement the following recommendations contained in the National Transportation Safety Board’s report entitled ‘Supervisory Control and Data Acquisition (SCADA) in Liquid Pipelines’ and adopted November 29, 2005 :
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1304](https://www.govinfo.gov/link/statute/108/1304); [Pub. L. 104–304](https://www.govinfo.gov/link/plaw/104/public/304), §§ 4, 20(g), Oct. 12, 1996, [110 Stat. 3794](https://www.govinfo.gov/link/statute/110/3794), 3805; [Pub. L. 107–355](https://www.govinfo.gov/link/plaw/107/public/355), §§ 20(a)(1), (2)(A), 23, Dec. 17, 2002, [116 Stat. 3009](https://www.govinfo.gov/link/statute/116/3009), 3011; [Pub. L. 109–468, § 4](https://www.govinfo.gov/link/plaw/109/public/468), Dec. 29, 2006, [120 Stat. 3490](https://www.govinfo.gov/link/statute/120/3490); [Pub. L. 112–90](https://www.govinfo.gov/link/plaw/112/public/90), §§ 4, 12, 15, 18(b), 24, Jan. 3, 2012, [125 Stat. 1906](https://www.govinfo.gov/link/statute/125/1906), 1913, 1915, 1916, 1919; [Pub. L. 113–30, § 1](https://www.govinfo.gov/link/plaw/113/public/30), Aug. 9, 2013, [127 Stat. 510](https://www.govinfo.gov/link/statute/127/510); [Pub. L. 116–260, div. R, title I](https://www.govinfo.gov/link/plaw/116/public/260), §§ 113, 118, 121, title II, §§ 203, 204, 206, Dec. 27, 2020, [134 Stat. 2228](https://www.govinfo.gov/link/statute/134/2228), 2234, 2236, 2239–2241.)*

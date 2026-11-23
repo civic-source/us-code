@@ -3,9 +3,10 @@ title: "Section 32709 - Penalties and enforcement"
 usc_title: 49
 usc_section: "32709"
 chapter: 327
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 32709"
-generated_at: "2026-03-30T02:56:19.364Z"
+generated_at: "2026-11-23T21:26:40.806Z"
+status: "active"
 ---
 
 # § 32709. Penalties and enforcement
@@ -24,3 +25,89 @@ generated_at: "2026-03-30T02:56:19.364Z"
     - **(A)** to enjoin the violation; or
     - **(B)** to recover amounts for which the person is liable under section 32710 of this title for each person on whose behalf the action is brought.
   - **(2)** An action under this subsection may be brought in an appropriate United States district court or in a State court of competent jurisdiction. The action must be brought not later than 2 years after the claim accrues.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 32709(a) | 15:1988(b) (related to violating rules). | Oct. 20, 1972 , Pub. L. 92–513, § 408(b) (related to violating rules), 86 Stat. 963 ; restated July 14, 1976 , Pub. L. 94–364, § 406 , 90 Stat. 983 . |
+|  | 15:1990b. | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , §§ 412, 413; added July 14, 1976 , Pub. L. 94–364, § 408(2) , 90 Stat. 984 ; Oct. 28, 1986 , Pub. L. 99–579, § 3 , 100 Stat. 3311 . |
+| 32709(b) | 15:1988(b) (related to violating rules). |  |
+|  | 15:1990c. |  |
+| 32709(c) | 15:1990. | Oct. 20, 1972 , Pub. L. 92–513, § 410 , 86 Stat. 963 ; restated July 14, 1976 , Pub. L. 94–364, § 407 , 90 Stat. 984 . |
+| 32709(d) | 15:1990a. | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 411; added July 14, 1976 , Pub. L. 94–364, § 408(2) , 90 Stat. 984 . |
+
+
+Civil Penalty
+
+Criminal Penalty
+
+Civil Actions by Attorney General
+
+Civil Actions by States
+
+Historical and Revision Notes
+
+32709(a)
+
+Oct. 20, 1972
+
+Pub. L. 92–513, § 408(b)
+
+86 Stat. 963
+
+July 14, 1976
+
+Pub. L. 94–364, § 406
+
+90 Stat. 983
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+July 14, 1976
+
+Pub. L. 94–364, § 408(2)
+
+90 Stat. 984
+
+Oct. 28, 1986
+
+Pub. L. 99–579, § 3
+
+100 Stat. 3311
+
+32709(b)
+
+32709(c)
+
+Oct. 20, 1972
+
+Pub. L. 92–513, § 410
+
+86 Stat. 963
+
+July 14, 1976
+
+Pub. L. 94–364, § 407
+
+90 Stat. 984
+
+32709(d)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+July 14, 1976
+
+Pub. L. 94–364, § 408(2)
+
+90 Stat. 984
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1054](https://www.govinfo.gov/link/statute/108/1054); [Pub. L. 112–141, div. C, title I, § 31206(1)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 761](https://www.govinfo.gov/link/statute/126/761).)*

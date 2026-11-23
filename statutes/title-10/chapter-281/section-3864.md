@@ -3,9 +3,10 @@ title: "Section 3864 - Assumption of uninsurable risk on certain contracts"
 usc_title: 10
 usc_section: "3864"
 chapter: 281
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3864"
-generated_at: "2026-03-30T02:53:38.199Z"
+generated_at: "2026-11-23T21:25:32.745Z"
+status: "active"
 ---
 
 # § 3864. Assumption of uninsurable risk on certain contracts
@@ -21,3 +22,13 @@ generated_at: "2026-03-30T02:53:38.199Z"
   - **(2)** The term “covered contract” means a classified, fixed-price type contract for the acquisition of a product entered into by the Department of Defense after the enactment of this Act.
   - **(3)** The term “work in process” means an item at any stage of production or manufacture at any time from the initiation of contract performance until delivery to and acceptance by the Government.
   - **(4)** The term “workmanship error” means damage to work in process that is a result of an incorrectly performed skill-based task, operation, or action that was originally planned or intended.
+
+In General
+
+Limitations
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 939](https://www.govinfo.gov/link/statute/139/939).)*

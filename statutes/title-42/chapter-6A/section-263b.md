@@ -3,9 +3,10 @@ title: "Section 263b - Certification of mammography facilities"
 usc_title: 42
 usc_section: "263b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 263b"
-generated_at: "2026-03-30T02:56:10.721Z"
+generated_at: "2026-11-23T21:26:30.390Z"
+status: "active"
 ---
 
 # § 263b. Certification of mammography facilities
@@ -260,3 +261,9 @@ generated_at: "2026-03-30T02:56:10.721Z"
   - **(2)** There are authorized to be appropriated to carry out this section—
     - **(A)** to award research grants under subsection (p), such sums as may be necessary for each of the fiscal years 1993 through 2007; and
     - **(B)** for the Secretary to carry out other activities which are not supported by fees authorized and collected under paragraph (1), such sums as may be necessary for fiscal years 1993 through 2007.
+
+“The Secretary of Health and Human Services is authorized to issue interim final regulations—
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 354, as added [Pub. L. 102–539, § 2](https://www.govinfo.gov/link/plaw/102/public/539), Oct. 27, 1992, [106 Stat. 3547](https://www.govinfo.gov/link/statute/106/3547); amended [Pub. L. 105–248](https://www.govinfo.gov/link/plaw/105/public/248), §§ 2–13, Oct. 9, 1998, [112 Stat. 1864–1867](https://www.govinfo.gov/link/statute/112/1864); [Pub. L. 108–365](https://www.govinfo.gov/link/plaw/108/public/365), §§ 2–4, Oct. 25, 2004, [118 Stat. 1738–1740](https://www.govinfo.gov/link/statute/118/1738).)*

@@ -3,9 +3,10 @@ title: "Section 294q - National Health Care Workforce Commission"
 usc_title: 42
 usc_section: "294q"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 294q"
-generated_at: "2026-03-30T02:56:10.779Z"
+generated_at: "2026-11-23T21:26:30.645Z"
+status: "active"
 ---
 
 # § 294q. National Health Care Workforce Commission
@@ -112,3 +113,27 @@ generated_at: "2026-03-30T02:56:10.779Z"
     - **(C)** representatives of schools of medicine, osteopathy, nursing, dentistry, optometry, pharmacy, chiropractic, allied health, educational programs for public health professionals, behavioral and mental health professionals (as so defined), social workers, pharmacists, physical and occupational therapists, optometrists, ophthalmologists, 5 oral health care industry dentistry and dental hygiene, and physician assistants;
     - **(D)** representatives of public and private teaching hospitals, and ambulatory health facilities, including Federal medical facilities; and
     - **(E)** any other health professional the Comptroller General of the United States determines appropriate.
+
+“The purpose of this title [see Tables for classification] is to improve access to and the delivery of health care services for all individuals, particularly low income, underserved, uninsured, minority, health disparity, and rural populations by—
+
+“In this title [see Tables for classification]:
+
+Allied health professional
+
+Health care career pathway
+
+Institution of higher education
+
+Low income individual, state workforce investment board, and local workforce investment board.—
+
+Low-income individual
+
+State workforce investment board; local workforce investment board
+
+Postsecondary education
+
+Registered apprenticeship program
+
+## Source Credit
+
+*([Pub. L. 111–148, title V, § 5101](https://www.govinfo.gov/link/plaw/111/public/148), title X, § 10501(a), Mar. 23, 2010, [124 Stat. 592](https://www.govinfo.gov/link/statute/124/592), 993; [Pub. L. 113–128, title V, § 512(y)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1716](https://www.govinfo.gov/link/statute/128/1716); [Pub. L. 117–286, § 4(a)(239)](https://www.govinfo.gov/link/plaw/117/public/286), (c)(40), Dec. 27, 2022, [136 Stat. 4332](https://www.govinfo.gov/link/statute/136/4332), 4359.)*

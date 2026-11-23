@@ -3,9 +3,10 @@ title: "Section 894 - Income affected by treaty"
 usc_title: 26
 usc_section: "894"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 894"
-generated_at: "2026-03-30T02:55:27.742Z"
+generated_at: "2026-11-23T21:26:06.421Z"
+status: "active"
 ---
 
 # § 894. Income affected by treaty
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:27.742Z"
     - **(B)** the treaty does not contain a provision addressing the applicability of the treaty in the case of an item of income derived through a partnership, and
     - **(C)** the foreign country does not impose tax on a distribution of such item of income from such entity to such person.
   - **(2)** The Secretary shall prescribe such regulations as may be necessary or appropriate to determine the extent to which a taxpayer to which paragraph (1) does not apply shall not be entitled to benefits under any income tax treaty of the United States with respect to any payment received by, or income attributable to any activities of, an entity organized in any jurisdiction (including the United States) that is treated as a partnership or is otherwise treated as fiscally transparent for purposes of this title (including a common investment trust under section 584, a grantor trust, or an entity that is disregarded for purposes of this title) and is treated as fiscally nontransparent for purposes of the tax laws of the jurisdiction of residence of the taxpayer.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 284; [Pub. L. 89–809, title I, § 105(a)](https://www.govinfo.gov/link/plaw/89/public/809), Nov. 13, 1966, [80 Stat. 1563](https://www.govinfo.gov/link/statute/80/1563); [Pub. L. 100–647, title I, § 1012(aa)(6)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3533](https://www.govinfo.gov/link/statute/102/3533); [Pub. L. 105–34, title X, § 1054(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 943](https://www.govinfo.gov/link/statute/111/943).)*

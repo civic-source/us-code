@@ -3,9 +3,10 @@ title: "Section 7517 - The Gus Schumacher nutrition incentive program"
 usc_title: 7
 usc_section: "7517"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7517"
-generated_at: "2026-03-30T02:53:42.456Z"
+generated_at: "2026-11-23T21:25:28.436Z"
+status: "active"
 ---
 
 # § 7517. The Gus Schumacher nutrition incentive program
@@ -156,3 +157,17 @@ generated_at: "2026-03-30T02:53:42.456Z"
     - **(C)** the Secretary shall use for the Nutrition Incentive Program Training, Technical Assistance, Evaluation, and Information Centers established under subsection (e) not more than—
       - **(i)** $17,000,000 in the aggregate for fiscal years 2019 and 2020; and
       - **(ii)** $7,000,000 for each of the fiscal years 2021 through 2023.
+
+(aa) screen and verify eligibility for members for participation in a produce prescription project, in accordance with procedures established under subsection (a)(5);
+
+(bb) implement an effective produce prescription project, including the role of each healthcare partner in implementing the produce prescription project;
+
+(cc) evaluate members participating in a produce prescription project with respect to the matters described in subparagraphs (A) through (C) of paragraph (1);
+
+(dd) provide educational opportunities relating to nutrition to members participating in a produce prescription project; and
+
+(ee) inform members of the availability of the produce prescription project, including locations at which produce prescriptions may be redeemed;
+
+## Source Credit
+
+*([Pub. L. 110–234, title IV, § 4405](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1138](https://www.govinfo.gov/link/statute/122/1138); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4405, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1899; [Pub. L. 113–79, title IV, § 4208](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 826](https://www.govinfo.gov/link/statute/128/826); [Pub. L. 115–334, title IV, § 4205(a)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4656](https://www.govinfo.gov/link/statute/132/4656).)*

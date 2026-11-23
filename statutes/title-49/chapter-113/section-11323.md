@@ -3,9 +3,10 @@ title: "Section 11323 - Consolidation, merger, and acquisition of control"
 usc_title: 49
 usc_section: "11323"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 11323"
-generated_at: "2026-03-30T02:56:19.325Z"
+generated_at: "2026-11-23T21:26:40.678Z"
+status: "active"
 ---
 
 # § 11323. Consolidation, merger, and acquisition of control
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:19.325Z"
   - **(2)** A transaction by a person affiliated with a rail carrier that has the effect of putting that rail carrier and persons affiliated with it, taken together, in control of another rail carrier.
   - **(3)** A transaction by at least 2 persons acting together (one of whom is a rail carrier or is affiliated with a rail carrier) that has the effect of putting those persons and rail carriers and persons affiliated with any of them, or with any of those affiliated rail carriers, taken together, in control of another rail carrier.
 - **(c)** A person is affiliated with a rail carrier under this subchapter if, because of the relationship between that person and a rail carrier, it is reasonable to believe that the affairs of another rail carrier, control of which may be acquired by that person, will be managed in the interest of the other rail carrier.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 838](https://www.govinfo.gov/link/statute/109/838).)*

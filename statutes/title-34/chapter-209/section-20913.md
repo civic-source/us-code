@@ -3,9 +3,10 @@ title: "Section 20913 - Registry requirements for sex offenders"
 usc_title: 34
 usc_section: "20913"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20913"
-generated_at: "2026-03-30T02:55:33.300Z"
+generated_at: "2026-11-23T21:26:09.796Z"
+status: "active"
 ---
 
 # § 20913. Registry requirements for sex offenders
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:33.300Z"
 - **(c)** A sex offender shall, not later than 3 business days after each change of name, residence, employment, or student status, appear in person in at least 1 jurisdiction involved pursuant to subsection (a) and inform that jurisdiction of all changes in the information required for that offender in the sex offender registry. That jurisdiction shall immediately provide that information to all other jurisdictions in which the offender is required to register.
 - **(d)** The Attorney General shall have the authority to specify the applicability of the requirements of this subchapter to sex offenders convicted before the enactment of this chapter or its implementation in a particular jurisdiction, and to prescribe rules for the registration of any such sex offenders and for other categories of sex offenders who are unable to comply with subsection (b).
 - **(e)** Each jurisdiction, other than a Federally recognized Indian tribe, shall provide a criminal penalty that includes a maximum term of imprisonment that is greater than 1 year for the failure of a sex offender to comply with the requirements of this subchapter.
+
+## Source Credit
+
+*([Pub. L. 109–248, title I, § 113](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 593](https://www.govinfo.gov/link/statute/120/593).)*

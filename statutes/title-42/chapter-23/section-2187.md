@@ -3,9 +3,10 @@ title: "Section 2187 - Compensation, awards, and royalties"
 usc_title: 42
 usc_section: "2187"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2187"
-generated_at: "2026-03-30T02:56:11.154Z"
+generated_at: "2026-11-23T21:26:32.364Z"
+status: "active"
 ---
 
 # § 2187. Compensation, awards, and royalties
@@ -19,3 +20,9 @@ generated_at: "2026-03-30T02:56:11.154Z"
   - **(1)** In determining a reasonable royalty fee as provided for in section 2183(b) or 2183(e) of this title, the Commission shall take into consideration (A) the advice of the Patent Compensation Board; (B) any defense, general or special, that might be pleaded by a defendant in an action for infringement; (C) the extent to which, if any, such patent was developed through federally financed research; and (D) the degree of utility, novelty, and importance of the invention or discovery, and may consider the cost to the owner of the patent of developing such invention or discovery or acquiring such patent.
   - **(2)** In determining what constitutes just compensation as provided for in section 2181 of this title , or in determining the amount of any award under subsection (b)(3), the Commission shall take into account the considerations set forth in paragraph (1) of this subsection and the actual use of such invention or discovery. Such compensation may be paid by the Commission in periodic payments or in a lump sum.
 - **(d)** Every application under this section shall be barred unless filed within six years after the date on which first accrues the right to such reasonable royalty fee, just compensation, or award for which such application is filed.
+
+Richard Nixon.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 157, as added Aug. 30, 1954, ch. 1073, § 1, [68 Stat. 947](https://www.govinfo.gov/link/statute/68/947); amended [Pub. L. 87–206, § 11](https://www.govinfo.gov/link/plaw/87/public/206), Sept. 6, 1961, [75 Stat. 478](https://www.govinfo.gov/link/statute/75/478); [Pub. L. 93–276, title II, § 201](https://www.govinfo.gov/link/plaw/93/public/276), May 10, 1974, [88 Stat. 119](https://www.govinfo.gov/link/statute/88/119); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944).)*

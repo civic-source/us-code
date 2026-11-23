@@ -3,9 +3,10 @@ title: "Section 1314 - Public advisory groups"
 usc_title: 42
 usc_section: "1314"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1314"
-generated_at: "2026-03-30T02:56:10.904Z"
+generated_at: "2026-11-23T21:26:31.237Z"
+status: "active"
 ---
 
 # § 1314. Public advisory groups
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:10.904Z"
   - **(2)** The exemption granted by paragraph (1) shall not extend—
     - **(A)** to the receipt or payment of salary in connection with the appointee’s Government service from any source other than the employer of the appointee at the time of his appointment, or
     - **(B)** during the period of such appointment, to the prosecution or participation in the prosecution, by any person so appointed, of any claim against the Government involving any matter with which such person, during such period, is or was directly connected by reason of such appointment.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XI, § 1114, as added [Pub. L. 87–543, title I, § 121](https://www.govinfo.gov/link/plaw/87/public/543), July 25, 1962, [76 Stat. 190](https://www.govinfo.gov/link/statute/76/190); amended [Pub. L. 90–248, title IV, § 403(e)](https://www.govinfo.gov/link/plaw/90/public/248), Jan. 2, 1968, [81 Stat. 932](https://www.govinfo.gov/link/statute/81/932); [Pub. L. 98–369, div. B, title VI, § 2663(e)(4)](https://www.govinfo.gov/link/plaw/98/public/369), (j)(2)(D)(iv), July 18, 1984, [98 Stat. 1168](https://www.govinfo.gov/link/statute/98/1168), 1170; [Pub. L. 106–554, § 1(a)(6) [title V, § 522(c)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–546; [Pub. L. 108–173, title IX, § 948(a)(1)(A)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2425](https://www.govinfo.gov/link/statute/117/2425).)*

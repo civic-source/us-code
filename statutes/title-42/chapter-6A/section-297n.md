@@ -3,9 +3,10 @@ title: "Section 297n - Loan repayment and scholarship programs"
 usc_title: 42
 usc_section: "297n"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 297n"
-generated_at: "2026-03-30T02:56:10.783Z"
+generated_at: "2026-11-23T21:26:30.665Z"
+status: "active"
 ---
 
 # § 297n. Loan repayment and scholarship programs
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:56:10.783Z"
   - **(10)** justification for the allocation of funds between the scholarship and loan repayment programs; and
   - **(11)** an evaluation of the overall costs and benefits of the programs.
 - **(i)** Of the amounts appropriated under section 298d(b) of this title ,, 3 3 So in original. the Secretary may, as determined appropriate by the Secretary, allocate amounts between the program under subsection (a) and the program under subsection (d).
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VIII, § 846, as added [Pub. L. 102–408, title II, § 211(a)(3)](https://www.govinfo.gov/link/plaw/102/public/408), Oct. 13, 1992, [106 Stat. 2078](https://www.govinfo.gov/link/statute/106/2078); amended [Pub. L. 105–392, title I, § 133(d)](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3576](https://www.govinfo.gov/link/statute/112/3576); [Pub. L. 107–205, title I, § 103](https://www.govinfo.gov/link/plaw/107/public/205), Aug. 1, 2002, [116 Stat. 813](https://www.govinfo.gov/link/statute/116/813); [Pub. L. 111–148, title V, § 5310(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 631](https://www.govinfo.gov/link/statute/124/631); [Pub. L. 116–136, div. A, title III, § 3404(a)(8)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 394](https://www.govinfo.gov/link/statute/134/394).)*

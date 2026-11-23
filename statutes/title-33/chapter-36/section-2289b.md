@@ -3,9 +3,10 @@ title: "Section 2289b - Stormwater management projects"
 usc_title: 33
 usc_section: "2289b"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2289b"
-generated_at: "2026-03-30T02:55:41.120Z"
+generated_at: "2026-11-23T21:26:11.439Z"
+status: "active"
 ---
 
 # § 2289b. Stormwater management projects
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:41.120Z"
   - **(2)** Subject to paragraph (3), the non-Federal share of the cost of a project carried out under this section shall be 35 percent.
   - **(3)** The total Federal amount expended for a study or project under this section shall be not more than $10,000,000.
 - **(d)** There is authorized to be appropriated to the Secretary to carry out this section $50,000,000 for each fiscal year.
+
+## Source Credit
+
+*([Pub. L. 118–272, div. A, title I, § 1108](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3006](https://www.govinfo.gov/link/statute/138/3006).)*

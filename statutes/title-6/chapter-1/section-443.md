@@ -3,9 +3,10 @@ title: "Section 443 - Risk management"
 usc_title: 6
 usc_section: "443"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 443"
-generated_at: "2026-03-30T02:53:09.464Z"
+generated_at: "2026-11-23T21:25:25.790Z"
+status: "active"
 ---
 
 # § 443. Risk management
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:09.464Z"
   - **(4)** Such liability insurance under this section shall provide coverage against third party claims arising out of, relating to, or resulting from the sale or use of anti-terrorism technologies.
 - **(b)** The Seller shall enter into a reciprocal waiver of claims with its contractors, subcontractors, suppliers, vendors and customers, and contractors and subcontractors of the customers, involved in the manufacture, sale, use or operation of qualified anti-terrorism technologies, under which each party to the waiver agrees to be responsible for losses, including business interruption losses, that it sustains, or for losses sustained by its own employees resulting from an activity resulting from an act of terrorism when qualified anti-terrorism technologies have been deployed in defense against or response or recovery from such act.
 - **(c)** Notwithstanding any other provision of law, liability for all claims against a Seller arising out of, relating to, or resulting from an act of terrorism when qualified anti-terrorism technologies have been deployed in defense against or response or recovery from such act and such claims result or may result in loss to the Seller, whether for compensatory or punitive damages or for contribution or indemnity, shall not be in an amount greater than the limits of liability insurance coverage required to be maintained by the Seller under this section.
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 864](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2240](https://www.govinfo.gov/link/statute/116/2240).)*

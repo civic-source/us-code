@@ -3,9 +3,10 @@ title: "Section 796d - Statewide Independent Living Council"
 usc_title: 29
 usc_section: "796d"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 796d"
-generated_at: "2026-03-30T02:55:18.699Z"
+generated_at: "2026-11-23T21:26:02.217Z"
+status: "active"
 ---
 
 # § 796d. Statewide Independent Living Council
@@ -65,3 +66,7 @@ generated_at: "2026-03-30T02:55:18.699Z"
   - **(2)** Each Council shall, consistent with State law, supervise and evaluate such staff and other personnel as may be necessary to carry out the functions of the Council under this section.
   - **(3)** While assisting the Council in carrying out its duties, staff and other personnel shall not be assigned duties by the designated State entity or any other agency or office of the State, that would create a conflict of interest.
 - **(f)** The Council may use available resources to reimburse members of the Council for reasonable and necessary expenses of attending Council meetings and performing Council duties (such as personal assistance services), and to pay reasonable compensation to a member of the Council, if such member is not employed or must forfeit wages from other employment, for each day the member is engaged in performing Council duties.
+
+## Source Credit
+
+*([Pub. L. 93–112, title VII, § 705](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 105–220, title IV, § 410](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1220](https://www.govinfo.gov/link/statute/112/1220); amended [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(c)(7)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–416; [Pub. L. 113–128, title IV, § 475](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1687](https://www.govinfo.gov/link/statute/128/1687).)*

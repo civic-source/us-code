@@ -3,9 +3,10 @@ title: "Section 1667a - Consumer lease disclosures"
 usc_title: 15
 usc_section: "1667a"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1667a"
-generated_at: "2026-03-30T02:54:08.145Z"
+generated_at: "2026-11-23T21:25:39.865Z"
+status: "active"
 ---
 
 # § 1667a. Consumer lease disclosures
@@ -23,3 +24,7 @@ Each lessor shall give a lessee prior to the consummation of the lease a dated w
   - **(9)** The number, amount, and due dates or periods of payments under the lease and the total amount of such periodic payments;
   - **(10)** Where the lease provides that the lessee shall be liable for the anticipated fair market value of the property on expiration of the lease, the fair market value of the property at the inception of the lease, the aggregate cost of the lease on expiration, and the differential between them; and
   - **(11)** A statement of the conditions under which the lessee or lessor may terminate the lease prior to the end of the term and the amount or method of determining any penalty or other charge for delinquency, default, late payments, or early termination.
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 182](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 94–240, § 3](https://www.govinfo.gov/link/plaw/94/public/240), Mar. 23, 1976, [90 Stat. 258](https://www.govinfo.gov/link/statute/90/258); amended [Pub. L. 111–203, title X, § 1100A(2)](https://www.govinfo.gov/link/plaw/111/public/203), (10)(B), July 21, 2010, [124 Stat. 2107](https://www.govinfo.gov/link/statute/124/2107), 2109.)*

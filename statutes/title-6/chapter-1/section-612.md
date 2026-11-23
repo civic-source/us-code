@@ -3,9 +3,10 @@ title: "Section 612 - Accountability"
 usc_title: 6
 usc_section: "612"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 612"
-generated_at: "2026-03-30T02:53:09.473Z"
+generated_at: "2026-11-23T21:25:25.813Z"
+status: "active"
 ---
 
 # § 612. Accountability
@@ -67,3 +68,7 @@ generated_at: "2026-03-30T02:53:09.473Z"
       - **(i)** October 31; or
       - **(ii)** 30 days before the issuance of any program guidance for grants administered by the Department.
   - **(3)** At the end of each fiscal year, the Administrator shall submit to the appropriate committees of Congress a report setting forth the amount of funding provided during that fiscal year to Indian tribes under any grant program administered by the Department, whether provided directly or through a subgrant from a State or high-risk urban area.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XX, § 2022](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 110–53, title I, § 101](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 287](https://www.govinfo.gov/link/statute/121/287); amended [Pub. L. 111–204, § 2(h)(6)(B)(iii)](https://www.govinfo.gov/link/plaw/111/public/204), July 22, 2010, [124 Stat. 2231](https://www.govinfo.gov/link/statute/124/2231); [Pub. L. 113–284, § 2(c)(1)](https://www.govinfo.gov/link/plaw/113/public/284), (2), Dec. 18, 2014, [128 Stat. 3089](https://www.govinfo.gov/link/statute/128/3089); [Pub. L. 116–117, § 3(b)(2)](https://www.govinfo.gov/link/plaw/116/public/117), Mar. 2, 2020, [134 Stat. 133](https://www.govinfo.gov/link/statute/134/133).)*

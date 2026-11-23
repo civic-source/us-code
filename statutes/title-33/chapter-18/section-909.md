@@ -3,9 +3,10 @@ title: "Section 909 - Compensation for death"
 usc_title: 33
 usc_section: "909"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 909"
-generated_at: "2026-03-30T02:55:41.076Z"
+generated_at: "2026-11-23T21:26:11.349Z"
+status: "active"
 ---
 
 # § 909. Compensation for death
@@ -21,3 +22,7 @@ If the injury causes death, the compensation therefore shall be known as a death
   - **(2)** in the case of a claim based on death due to an occupational disease for which the time of injury (as determined under section 910(i) of this title ) occurs after the employee has retired, the total weekly benefits shall not exceed one fifty-second part of the employee’s average annual earnings during the 52-week period preceding retirement.
 - **(f)** All questions of dependency shall be determined as of the time of the injury.
 - **(g)** Aliens: Compensation under this chapter to aliens not residents (or about to become nonresidents) of the United States or Canada shall be the same in amount as provided for residents, except that dependents in any foreign country shall be limited to surviving wife and child or children, or if there be no surviving wife or child or children, to surviving father or mother whom the employee has supported, either wholly or in part, for the period of one year prior to the date of the injury, and except that the Secretary may, at his option or upon the application of the insurance carrier shall, commute all future installments of compensation to be paid to such aliens by paying or causing to be paid to them one-half of the commuted amount of such future installments of compensation as determined by the Secretary.
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 509, § 9, [44 Stat. 1429](https://www.govinfo.gov/link/statute/44/1429); June 25, 1938, ch. 685, § 6, [52 Stat. 1166](https://www.govinfo.gov/link/statute/52/1166); June 24, 1948, ch. 623, § 3, [62 Stat. 602](https://www.govinfo.gov/link/statute/62/602); July 26, 1956, ch. 735, § 4, [70 Stat. 655](https://www.govinfo.gov/link/statute/70/655); [Pub. L. 87–87, § 2](https://www.govinfo.gov/link/plaw/87/public/87), July 14, 1961, [75 Stat. 203](https://www.govinfo.gov/link/statute/75/203); [Pub. L. 92–576](https://www.govinfo.gov/link/plaw/92/public/576), §§ 5(d), 10, 20(c)(2), Oct. 27, 1972, [86 Stat. 1253](https://www.govinfo.gov/link/statute/86/1253), 1257, 1265; [Pub. L. 98–426](https://www.govinfo.gov/link/plaw/98/public/426), §§ 9, 27(a)(2), Sept. 28, 1984, [98 Stat. 1647](https://www.govinfo.gov/link/statute/98/1647), 1654.)*

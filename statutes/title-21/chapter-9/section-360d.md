@@ -3,9 +3,10 @@ title: "Section 360d - Performance standards"
 usc_title: 21
 usc_section: "360d"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 360d"
-generated_at: "2026-03-30T02:54:54.248Z"
+generated_at: "2026-11-23T21:25:56.076Z"
+status: "active"
 ---
 
 # § 360d. Performance standards
@@ -81,3 +82,7 @@ generated_at: "2026-03-30T02:54:54.248Z"
       - **(i)** suspension or withdrawal of accreditation of a testing laboratory or recognition of an accreditation body under paragraph (1)(A); or
       - **(ii)** requesting additional information with regard to such device.
   - **(3)** The Secretary shall make available on the internet website of the Food and Drug Administration an annual report on the progress of the program under this subsection.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 514, as added [Pub. L. 94–295, § 2](https://www.govinfo.gov/link/plaw/94/public/295), May 28, 1976, [90 Stat. 546](https://www.govinfo.gov/link/statute/90/546); amended [Pub. L. 94–460, title III, § 304](https://www.govinfo.gov/link/plaw/94/public/460), Oct. 8, 1976, [90 Stat. 1960](https://www.govinfo.gov/link/statute/90/1960); [Pub. L. 101–629](https://www.govinfo.gov/link/plaw/101/public/629), §§ 6(a), (b)(1), 18(b), Nov. 28, 1990, [104 Stat. 4519](https://www.govinfo.gov/link/statute/104/4519), 4528; [Pub. L. 102–300, § 6(g)](https://www.govinfo.gov/link/plaw/102/public/300), June 16, 1992, [106 Stat. 241](https://www.govinfo.gov/link/statute/106/241); [Pub. L. 103–80, § 4(a)(1)](https://www.govinfo.gov/link/plaw/103/public/80), Aug. 13, 1993, [107 Stat. 779](https://www.govinfo.gov/link/statute/107/779); [Pub. L. 105–115, title II, § 204(a)](https://www.govinfo.gov/link/plaw/105/public/115), (d), Nov. 21, 1997, [111 Stat. 2335](https://www.govinfo.gov/link/statute/111/2335), 2336; [Pub. L. 112–144, title VI, § 608(a)(2)(B)](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 1056](https://www.govinfo.gov/link/statute/126/1056); [Pub. L. 114–255, div. A, title III](https://www.govinfo.gov/link/plaw/114/public/255), §§ 3044(b)(3), 3053(a), Dec. 13, 2016, [130 Stat. 1121](https://www.govinfo.gov/link/statute/130/1121), 1125; [Pub. L. 115–52, title II, § 205(a)](https://www.govinfo.gov/link/plaw/115/public/52), Aug. 18, 2017, [131 Stat. 1016](https://www.govinfo.gov/link/statute/131/1016); [Pub. L. 117–180, div. F, title II, § 2005](https://www.govinfo.gov/link/plaw/117/public/180), Sept. 30, 2022, [136 Stat. 2153](https://www.govinfo.gov/link/statute/136/2153).)*

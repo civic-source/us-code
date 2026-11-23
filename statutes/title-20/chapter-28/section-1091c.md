@@ -3,9 +3,10 @@ title: "Section 1091c - Readmission requirements for servicemembers"
 usc_title: 20
 usc_section: "1091c"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1091c"
-generated_at: "2026-03-30T02:54:48.133Z"
+generated_at: "2026-11-23T21:25:47.198Z"
+status: "active"
 ---
 
 # § 1091c. Readmission requirements for servicemembers
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:54:48.133Z"
   - **(1)** A separation of such person from the Armed Forces (including the National Guard and Reserves) with a dishonorable or bad conduct discharge.
   - **(2)** A dismissal of such person permitted under section 1161(a) of title 10 .
   - **(3)** A dropping of such person from the rolls pursuant to section 1161(b) of title 10 .
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 484C](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title IV, § 487](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3290](https://www.govinfo.gov/link/statute/122/3290); amended [Pub. L. 115–232, div. A, title XII, § 1204(a)(6)](https://www.govinfo.gov/link/plaw/115/public/232), (b)(2), Aug. 13, 2018, [132 Stat. 2017](https://www.govinfo.gov/link/statute/132/2017); [Pub. L. 118–159, div. E, title LVII, § 5705](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2466](https://www.govinfo.gov/link/statute/138/2466).)*

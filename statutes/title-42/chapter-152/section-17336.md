@@ -3,9 +3,10 @@ title: "Section 17336 - Deployment of international clean and efficient energy t
 usc_title: 42
 usc_section: "17336"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17336"
-generated_at: "2026-03-30T02:56:11.504Z"
+generated_at: "2026-11-23T21:26:33.787Z"
+status: "active"
 ---
 
 # § 17336. Deployment of international clean and efficient energy technologies and investment in global energy markets
@@ -67,3 +68,7 @@ generated_at: "2026-03-30T02:56:11.504Z"
     - **(G)** Strategies to integrate representatives of the private sector and other interested groups on the export and deployment of clean and efficient energy technologies.
     - **(H)** A description of programs to disseminate information to the private sector and the public on clean and efficient energy technologies and opportunities to transfer such clean and efficient energy technologies.
 - **(e)** There are authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2008 through 2020.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IX, § 916](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1728](https://www.govinfo.gov/link/statute/121/1728); [Pub. L. 115–254, div. F, title VI, § 1470(v)(2)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3519](https://www.govinfo.gov/link/statute/132/3519).)*

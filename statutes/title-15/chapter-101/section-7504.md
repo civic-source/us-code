@@ -3,9 +3,10 @@ title: "Section 7504 - Quadrennial external review of the National Nanotechnolog
 usc_title: 15
 usc_section: "7504"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7504"
-generated_at: "2026-03-30T02:54:08.224Z"
+generated_at: "2026-11-23T21:25:40.062Z"
+status: "active"
 ---
 
 # § 7504. Quadrennial external review of the National Nanotechnology Program
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:08.224Z"
 - **(d)**
   - **(1)** Not later than 30 days after the date the first evaluation under subsection (a) is received, and quadrennially thereafter, the Director of the National Nanotechnology Coordination Office shall report to the President its assessments under subsection (c) and its recommendations for ways to improve the Program.
   - **(2)** Not later than 30 days after the date the President receives the report under paragraph (1), the Director of the Office of Science and Technology Policy shall transmit a copy of the report to Congress.
+
+## Source Credit
+
+*([Pub. L. 108–153, § 5](https://www.govinfo.gov/link/plaw/108/public/153), Dec. 3, 2003, [117 Stat. 1928](https://www.govinfo.gov/link/statute/117/1928); [Pub. L. 114–329, title II, § 204(b)(3)](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 2999](https://www.govinfo.gov/link/statute/130/2999).)*

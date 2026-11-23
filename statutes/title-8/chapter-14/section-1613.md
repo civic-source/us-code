@@ -3,9 +3,10 @@ title: "Section 1613 - Five-year limited eligibility of qualified aliens for Fed
 usc_title: 8
 usc_section: "1613"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1613"
-generated_at: "2026-03-30T02:53:10.506Z"
+generated_at: "2026-11-23T21:25:25.212Z"
+status: "active"
 ---
 
 # § 1613. Five-year limited eligibility of qualified aliens for Federal means-tested public benefit
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:53:10.506Z"
 - **(d)** Notwithstanding any other provision of law, the limitations under section 1611(a) of this title and subsection (a) shall not apply to—
   - **(1)** an individual described in section 1612(a)(2)(G) of this title , but only with respect to the programs specified in subsections (a)(3) and (b)(3)(C) of section 1612 of this title ; or
   - **(2)** an individual, spouse, or dependent described in section 1612(a)(2)(K) of this title , but only with respect to the specified Federal program described in section 1612(a)(3)(B) of this title .
+
+## Source Credit
+
+*([Pub. L. 104–193, title IV, § 403](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2265](https://www.govinfo.gov/link/statute/110/2265); [Pub. L. 105–33, title V](https://www.govinfo.gov/link/plaw/105/public/33), §§ 5302(c)(1), 5303(c), 5306(c), 5562, 5563, Aug. 5, 1997, [111 Stat. 599](https://www.govinfo.gov/link/statute/111/599), 600, 602, 638; [Pub. L. 105–185, title V, § 509](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 580](https://www.govinfo.gov/link/statute/112/580); [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(3)(A), (f)(3)(A)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–419, 2681–429; [Pub. L. 106–78, title VII, § 752(b)(6)](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1169](https://www.govinfo.gov/link/statute/113/1169); [Pub. L. 107–171, title IV, § 4401(b)(2)(A)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 333](https://www.govinfo.gov/link/statute/116/333); [Pub. L. 113–128, title V, § 512(x)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1716](https://www.govinfo.gov/link/statute/128/1716); [Pub. L. 116–260, div. CC, title II, § 208(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2985](https://www.govinfo.gov/link/statute/134/2985); [Pub. L. 118–42, div. G, title II, § 209(f)(2)](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 445](https://www.govinfo.gov/link/statute/138/445).)*

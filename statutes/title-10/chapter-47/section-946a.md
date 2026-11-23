@@ -3,9 +3,10 @@ title: "Section 946a - Art. 146a. Annual reports"
 usc_title: 10
 usc_section: "946a"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 946a"
-generated_at: "2026-03-30T02:53:38.088Z"
+generated_at: "2026-11-23T21:25:32.358Z"
+status: "active"
 ---
 
 # § 946a. Art. 146a. Annual reports
@@ -34,3 +35,13 @@ generated_at: "2026-03-30T02:53:38.088Z"
 - **(c)** Each report under this section shall be submitted—
   - **(1)** to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives; and
   - **(2)** to the Secretary of Defense, the Secretaries of the military departments, and the Secretary of the department in which the Coast Guard is operating when it is not operating as a service in the Navy.
+
+Court of Appeals for the Armed Forces
+
+Service Reports
+
+Submission
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. E, title LXII, § 5522](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2964](https://www.govinfo.gov/link/statute/130/2964); amended [Pub. L. 116–283, div. A, title V, § 542(d)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3612](https://www.govinfo.gov/link/statute/134/3612); [Pub. L. 118–159, div. A, title V, § 566(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1904](https://www.govinfo.gov/link/statute/138/1904).)*

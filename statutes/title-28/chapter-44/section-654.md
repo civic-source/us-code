@@ -3,9 +3,10 @@ title: "Section 654 - Arbitration"
 usc_title: 28
 usc_section: "654"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 654"
-generated_at: "2026-03-30T02:55:30.136Z"
+generated_at: "2026-11-23T21:26:01.071Z"
+status: "active"
 ---
 
 # § 654. Arbitration
@@ -19,3 +20,15 @@ generated_at: "2026-03-30T02:55:30.136Z"
   - **(2)** no party or attorney is prejudiced for refusing to participate in arbitration.
 - **(c)** For purposes of subsection (a)(3), a district court may presume damages are not in excess of $150,000 unless counsel certifies that damages exceed such amount.
 - **(d)** Nothing in this chapter is deemed to affect any program in which arbitration is conducted pursuant to section 1 1 So in original. The word “section” probably should not appear. title IX of the Judicial Improvements and Access to Justice Act ( Public Law 100–702 ), as amended by section 1 of Public Law 105–53 .
+
+Referral of Actions to Arbitration
+
+Safeguards in Consent Cases
+
+Presumptions
+
+Existing Programs
+
+## Source Credit
+
+*(Added [Pub. L. 100–702, title IX, § 901(a)](https://www.govinfo.gov/link/plaw/100/public/702), Nov. 19, 1988, [102 Stat. 4660](https://www.govinfo.gov/link/statute/102/4660); amended [Pub. L. 105–315, § 6](https://www.govinfo.gov/link/plaw/105/public/315), Oct. 30, 1998, [112 Stat. 2995](https://www.govinfo.gov/link/statute/112/2995).)*

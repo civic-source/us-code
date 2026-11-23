@@ -3,9 +3,10 @@ title: "Section 8543 - Permit administration"
 usc_title: 16
 usc_section: "8543"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8543"
-generated_at: "2026-03-30T02:54:23.088Z"
+generated_at: "2026-11-23T21:25:52.082Z"
+status: "active"
 ---
 
 # § 8543. Permit administration
@@ -28,3 +29,11 @@ generated_at: "2026-03-30T02:54:23.088Z"
     - **(A)** issue a final decision with respect to the application or proposal; or
     - **(B)** provide to the applicant notice of a projected date for a final decision on the application or proposal.
 - **(c)** Nothing in this section applies to a concession contract issued by the National Park Service for the provision of accommodations, facilities, or services.
+
+(aa) a recreation service provider that is the holder of an existing special recreation permit; or
+
+(bb) a holder of an existing commercial use authorization for outfitting and guiding; or
+
+## Source Credit
+
+*([Pub. L. 118–234, title III, § 314](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2902](https://www.govinfo.gov/link/statute/138/2902).)*

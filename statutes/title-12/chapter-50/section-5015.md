@@ -3,9 +3,10 @@ title: "Section 5015 - Study and report on funds availability"
 usc_title: 12
 usc_section: "5015"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5015"
-generated_at: "2026-03-30T02:53:53.522Z"
+generated_at: "2026-11-23T21:25:37.227Z"
+status: "active"
 ---
 
 # § 5015. Study and report on funds availability
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:53.522Z"
   - **(4)** the increase or decrease in check-related losses over the study period; and
   - **(5)** the appropriateness of the time periods and amount limits applicable under sections 4002 and 4003 of this title, as in effect on October 28, 2003 .
 - **(b)** Before the end of the 30-month period beginning on the effective date of this chapter, the Board shall submit a report to the Congress containing the results of the study conducted under this section, together with recommendations for legislative action.
+
+## Source Credit
+
+*([Pub. L. 108–100, § 16](https://www.govinfo.gov/link/plaw/108/public/100), Oct. 28, 2003, [117 Stat. 1190](https://www.govinfo.gov/link/statute/117/1190).)*

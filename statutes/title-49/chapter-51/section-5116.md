@@ -3,9 +3,10 @@ title: "Section 5116 - Planning and training grants, monitoring, and review"
 usc_title: 49
 usc_section: "5116"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 5116"
-generated_at: "2026-03-30T02:56:19.306Z"
+generated_at: "2026-11-23T21:26:40.619Z"
+status: "active"
 ---
 
 # § 5116. Planning and training grants, monitoring, and review
@@ -94,3 +95,97 @@ generated_at: "2026-03-30T02:56:19.306Z"
   - **(2)** the number of persons trained under the grant program, by training level;
   - **(3)** an evaluation of the efficacy of such planning and training programs; and
   - **(4)** any recommendations the Secretary may have for improving such grant programs.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5116(a) | 49 App.:1815(a). | Jan. 3, 1975 , Pub. L. 93–633 , 88 Stat. 2156 , § 117A(a)–(f), (g)(7), (9), (h)(6); added Nov. 16, 1990 , Pub. L. 101–615, § 17 , 104 Stat. 3263 , 3266, 3267, 3268. |
+| 5116(b)(1) | 49 App.:1815(b)(1). |  |
+| 5116(b)(2) | 49 App.:1815(b) (2)–(4). |  |
+| 5116(b)(3) | 49 App.:1815(b)(5), (6). |  |
+| 5116(b)(4) | 49 App.:1815(b)(7). |  |
+| 5116(c) | 49 App.:1815(c). |  |
+| 5116(d) | 49 App.:1815(e). |  |
+| 5116(e) | 49 App.:1815(d). |  |
+| 5116(f) | 49 App.:1815(g)(7). |  |
+| 5116(g) | 49 App.:1815(f). |  |
+| 5116(h) | 49 App.:1815(g)(9). |  |
+| 5116(i) | 49 App.:1815(h)(6). |  |
+
+
+Planning and Training Grants
+
+Compliance With Certain Law
+
+Applications
+
+Government’s Share of Costs
+
+Monitoring and Technical Assistance
+
+Delegation of Authority
+
+Minimizing Duplication of Effort and Expenses
+
+Annual Registration Fee Account and Its Uses
+
+Supplemental Training Grants.—
+
+Alert Grant Program.—
+
+Assistance for local emergency response training
+
+Eligible entities
+
+Funding.—
+
+In general
+
+Other hazardous material training activities
+
+Obligation limitation
+
+Reports
+
+Historical and Revision Notes
+
+Pub. L
+
+5116(a)
+
+Jan. 3, 1975
+
+Pub. L. 93–633
+
+88 Stat. 2156
+
+Nov. 16, 1990
+
+Pub. L. 101–615, § 17
+
+104 Stat. 3263
+
+5116(b)(1)
+
+5116(b)(2)
+
+5116(b)(3)
+
+5116(b)(4)
+
+5116(c)
+
+5116(d)
+
+5116(e)
+
+5116(f)
+
+5116(g)
+
+5116(h)
+
+5116(i)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 773](https://www.govinfo.gov/link/statute/108/773); [Pub. L. 103–311, title I](https://www.govinfo.gov/link/plaw/103/public/311), §§ 105, 119(a), (d)(2), (3), Aug. 26, 1994, [108 Stat. 1673](https://www.govinfo.gov/link/statute/108/1673), 1679, 1680; [Pub. L. 103–429, § 7(c)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4389](https://www.govinfo.gov/link/statute/108/4389); [Pub. L. 104–287](https://www.govinfo.gov/link/plaw/104/public/287), §§ 5(8), 6(b), Oct. 11, 1996, [110 Stat. 3389](https://www.govinfo.gov/link/statute/110/3389), 3398; [Pub. L. 109–59, title VII](https://www.govinfo.gov/link/plaw/109/public/59), §§ 7114(a)–(d)(2), (e), 7126, Aug. 10, 2005, [119 Stat. 1900](https://www.govinfo.gov/link/statute/119/1900), 1909; [Pub. L. 109–295, title VI, § 612(c)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1410](https://www.govinfo.gov/link/statute/120/1410); [Pub. L. 112–141, div. C, title III, § 33004(b)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 832](https://www.govinfo.gov/link/statute/126/832); [Pub. L. 114–94, div. A, title VII, § 7203(a)](https://www.govinfo.gov/link/plaw/114/public/94), (b)(2), Dec. 4, 2015, [129 Stat. 1589](https://www.govinfo.gov/link/statute/129/1589), 1591; [Pub. L. 117–58, div. B, title VI, § 26002](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 882](https://www.govinfo.gov/link/statute/135/882).)*

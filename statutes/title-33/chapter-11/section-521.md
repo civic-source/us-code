@@ -3,12 +3,17 @@ title: "Section 521 - Regulations and orders"
 usc_title: 33
 usc_section: "521"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 521"
-generated_at: "2026-03-30T02:55:41.060Z"
+generated_at: "2026-11-23T21:26:11.311Z"
+status: "active"
 ---
 
 # § 521. Regulations and orders
 
 The Secretary is authorized to prescribe such rules and regulations, and to make and issue such orders, as may be necessary or appropriate for carrying out the provisions of this subchapter.
 
+
+## Source Credit
+
+*(June 21, 1940, ch. 409, § 11, [54 Stat. 501](https://www.govinfo.gov/link/statute/54/501).)*

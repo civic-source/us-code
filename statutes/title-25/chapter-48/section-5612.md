@@ -3,9 +3,10 @@ title: "Section 5612 - Establishment of demonstration project; selection of part
 usc_title: 25
 usc_section: "5612"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5612"
-generated_at: "2026-03-30T02:54:52.872Z"
+generated_at: "2026-11-23T21:25:54.737Z"
+status: "active"
 ---
 
 # § 5612. Establishment of demonstration project; selection of participating Indian tribes
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:52.872Z"
 - **(d)** The project—
   - **(1)** shall remain in effect for a period of 10 years after June 22, 2016 ; but
   - **(2)** may be extended at the discretion of the Secretary.
+
+## Source Credit
+
+*([Pub. L. 114–178, title II, § 203](https://www.govinfo.gov/link/plaw/114/public/178), June 22, 2016, [130 Stat. 433](https://www.govinfo.gov/link/statute/130/433).)*

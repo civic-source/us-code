@@ -3,9 +3,10 @@ title: "Section 3712 - Indian participation in land management activities"
 usc_title: 25
 usc_section: "3712"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3712"
-generated_at: "2026-03-30T02:54:52.855Z"
+generated_at: "2026-11-23T21:25:54.697Z"
+status: "active"
 ---
 
 # § 3712. Indian participation in land management activities
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:52.855Z"
   - **(3)** upon the request of an Indian tribe, require appropriate Federal officials to appear in tribal forums.
 - **(c)** In any case in which a regulation or administrative policy of the Department of the Interior conflicts with the objectives of the agricultural resource management plan provided for in section 3711 of this title , or with a tribal law, the Secretary may waive the application of such regulation or administrative policy unless such waiver would constitute a violation of a Federal statute or judicial decision or would conflict with his general trust responsibility under Federal law.
 - **(d)** This section does not constitute a waiver of the sovereign immunity of the United States, nor does it authorize tribal justice systems to review actions of the Secretary.
+
+## Source Credit
+
+*([Pub. L. 103–177, title I, § 102](https://www.govinfo.gov/link/plaw/103/public/177), Dec. 3, 1993, [107 Stat. 2015](https://www.govinfo.gov/link/statute/107/2015).)*

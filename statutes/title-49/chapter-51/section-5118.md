@@ -3,9 +3,10 @@ title: "Section 5118 - Hazardous material technical assessment, research and dev
 usc_title: 49
 usc_section: "5118"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 5118"
-generated_at: "2026-03-30T02:56:19.307Z"
+generated_at: "2026-11-23T21:26:40.621Z"
+status: "active"
 ---
 
 # § 5118. Hazardous material technical assessment, research and development, and analysis program
@@ -30,3 +31,23 @@ generated_at: "2026-03-30T02:56:19.307Z"
     - **(E)** cargo packaging and handling;
     - **(F)** hazmat release consequences; and
     - **(G)** materials and equipment testing.
+
+Risk Reduction.—
+
+Program authorized
+
+Coordination
+
+Cooperation
+
+Cooperative Research.—
+
+In general
+
+National academies
+
+Research
+
+## Source Credit
+
+*(Added [Pub. L. 112–141, div. C, title III, § 33007(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 835](https://www.govinfo.gov/link/statute/126/835); amended [Pub. L. 114–94, div. A, title VI, § 6014](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1570](https://www.govinfo.gov/link/statute/129/1570).)*

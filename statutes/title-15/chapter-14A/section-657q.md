@@ -3,9 +3,10 @@ title: "Section 657q - Consolidation of contract requirements"
 usc_title: 15
 usc_section: "657q"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 657q"
-generated_at: "2026-03-30T02:54:08.108Z"
+generated_at: "2026-11-23T21:25:39.705Z"
+status: "active"
 ---
 
 # § 657q. Consolidation of contract requirements
@@ -33,3 +34,13 @@ generated_at: "2026-03-30T02:54:08.108Z"
     - **(B)** acquisition cycle;
     - **(C)** terms and conditions; and
     - **(D)** any other benefit.
+
+In general
+
+Rule
+
+Date
+
+## Source Credit
+
+*([Pub. L. 85–536, § 2[44]](https://www.govinfo.gov/link/plaw/85/public/536), as added [Pub. L. 111–240, title I, § 1313(a)(2)](https://www.govinfo.gov/link/plaw/111/public/240), Sept. 27, 2010, [124 Stat. 2538](https://www.govinfo.gov/link/statute/124/2538); amended [Pub. L. 112–239, div. A, title XVI, § 1671(a)](https://www.govinfo.gov/link/plaw/112/public/239), (b), (c)(2), Jan. 2, 2013, [126 Stat. 2084](https://www.govinfo.gov/link/statute/126/2084), 2085; [Pub. L. 113–291, div. A, title VIII, § 822(b)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3436](https://www.govinfo.gov/link/statute/128/3436); [Pub. L. 114–92, div. A, title VIII, § 863(b)](https://www.govinfo.gov/link/plaw/114/public/92), (c), Nov. 25, 2015, [129 Stat. 926](https://www.govinfo.gov/link/statute/129/926), 927.)*

@@ -3,9 +3,10 @@ title: "Section 50301 - Definitions"
 usc_title: 34
 usc_section: "50301"
 chapter: 503
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 50301"
-generated_at: "2026-03-30T02:55:33.315Z"
+generated_at: "2026-11-23T21:26:09.851Z"
+status: "active"
 ---
 
 # § 50301. Definitions
@@ -35,3 +36,7 @@ In this chapter:
     - **(C)** whose duties are primarily—
       - **(i)** engagement in or supervision of the prevention, detection, investigation, or prosecution of, or the incarceration of any person for, any violation of law; or
       - **(ii)** the protection of Federal, State, local, or foreign government officials against threats to personal safety.
+
+## Source Credit
+
+*([Pub. L. 110–298, § 2](https://www.govinfo.gov/link/plaw/110/public/298), July 31, 2008, [122 Stat. 2985](https://www.govinfo.gov/link/statute/122/2985).)*

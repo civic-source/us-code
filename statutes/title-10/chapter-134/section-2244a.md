@@ -3,9 +3,10 @@ title: "Section 2244a - Equipment scheduled for retirement or disposal: limitati
 usc_title: 10
 usc_section: "2244a"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2244a"
-generated_at: "2026-03-30T02:53:38.151Z"
+generated_at: "2026-11-23T21:25:32.587Z"
+status: "active"
 ---
 
 # § 2244a. Equipment scheduled for retirement or disposal: limitation on expenditures for modifications
@@ -18,3 +19,19 @@ generated_at: "2026-03-30T02:53:38.151Z"
     - **(B)** the cost of such modification (including the cost of the removal and refurbishment of reusable items of value under subparagraph (A)) is less than $1,000,000.
   - **(3)** The prohibition in subsection (a) does not apply to a safety modification.
 - **(c)** The Secretary concerned may waive the prohibition in subsection (a) in the case of any modification otherwise subject to that subsection if the Secretary determines that carrying out the modification is in the national security interest of the United States. Whenever the Secretary issues such a waiver, the Secretary shall notify the congressional defense committees in writing.
+
+Prohibition
+
+Exceptions.—
+
+Exception for below-threshold modifications
+
+Exception for transfer of reusable items of value
+
+Exception for safety modifications
+
+Waiver Authority
+
+## Source Credit
+
+*(Added [Pub. L. 109–163, div. A, title III, § 372(a)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3209](https://www.govinfo.gov/link/statute/119/3209).)*

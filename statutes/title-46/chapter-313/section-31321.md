@@ -3,9 +3,10 @@ title: "Section 31321 - Filing, recording, and discharge"
 usc_title: 46
 usc_section: "31321"
 chapter: 313
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 31321"
-generated_at: "2026-03-30T02:56:15.562Z"
+generated_at: "2026-11-23T21:26:37.172Z"
+status: "active"
 ---
 
 # § 31321. Filing, recording, and discharge
@@ -37,3 +38,40 @@ generated_at: "2026-03-30T02:56:15.562Z"
 - **(f)** On full and final discharge of the indebtedness under a mortgage recorded under subsection (e)(1) of this section, a mortgagee, on request of the Secretary or mortgagor, shall provide the Secretary with an acknowledged certificate of discharge of the indebtedness in a form prescribed by the Secretary. The Secretary shall record the certificate.
 - **(g)** The mortgage or related instrument of a vessel covered by a preferred mortgage under section 31322(d) of this title , that is later filed under this section at the time an application for documentation is filed, is valid under this section from the time the mortgage or instrument representing financing became a preferred mortgage under section 31322(d).
 - **(h)** On full and final discharge of the indebtedness under a mortgage deemed to be a preferred mortgage under section 31322(d) of this title , a mortgagee, on request of the Secretary, a State, or mortgagor, shall provide the Secretary or the State, as appropriate, with an acknowledged certificate of discharge of the indebtedness in a form prescribed by the Secretary or the State, as applicable. If filed with the Secretary, the Secretary shall enter that information in the vessel identification system under chapter 125 of this title.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 31321(a)(1) | 46:921(a) |
+| 31321(a)(2) | 46:1012 |
+| 31321(a)(3) | New |
+| 31321(b) | 46:926(a), (b) |
+| 31321(c), (d) | New |
+| 31321(e) | 46:921(b) |
+| 31321(f) | 46:925(b) |
+| 31321(g) | New |
+| 31321(h) | 46:925(b) |
+
+
+Historical and Revision Notes
+
+31321(a)(1)
+
+31321(a)(2)
+
+31321(a)(3)
+
+31321(b)
+
+31321(c), (d)
+
+31321(e)
+
+31321(f)
+
+31321(g)
+
+31321(h)
+
+## Source Credit
+
+*([Pub. L. 100–710, title I, § 102(c)](https://www.govinfo.gov/link/plaw/100/public/710), Nov. 23, 1988, [102 Stat. 4741](https://www.govinfo.gov/link/statute/102/4741); [Pub. L. 101–225, title III, § 303(2)](https://www.govinfo.gov/link/plaw/101/public/225), Dec. 12, 1989, [103 Stat. 1923](https://www.govinfo.gov/link/statute/103/1923); [Pub. L. 104–324, title III, § 305](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3918](https://www.govinfo.gov/link/statute/110/3918); [Pub. L. 107–295, title IV, § 420](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2124](https://www.govinfo.gov/link/statute/116/2124); [Pub. L. 111–281, title IX, § 913(a)(1)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 3017](https://www.govinfo.gov/link/statute/124/3017).)*

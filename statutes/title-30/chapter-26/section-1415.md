@@ -3,9 +3,10 @@ title: "Section 1415 - License and permit terms, conditions, and restrictions; i
 usc_title: 30
 usc_section: "1415"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1415"
-generated_at: "2026-03-30T02:55:29.405Z"
+generated_at: "2026-11-23T21:26:00.436Z"
+status: "active"
 ---
 
 # § 1415. License and permit terms, conditions, and restrictions; issuance and transfer of licenses and permits
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:29.405Z"
   - **(3)** The Administrator shall establish, by regulation, guidelines for a determination of the scale or extent of a proposed modification or revision for which any or all license or permit application requirements and procedures, including a public hearing, shall apply. Any increase in the size of the area, or any change in the location of an area, to which an exploration plan or a recovery plan applies, except an incidental increase or change, must be made by application for another license or permit.
   - **(4)** The procedures set forth in subsection (b)(3) of this section shall apply with respect to any modification under this subsection in the same manner, and to the same extent, as if such modification were an initial term, condition, or restriction proposed by the Administrator.
 - **(d)** Prior to making a determination to issue, transfer, modify, or renew a license or permit under this section, the Administrator shall consult with any affected Regional Fishery Management Council established pursuant to section 1852 of title 16 , if the activities undertaken pursuant to such license or permit could adversely affect any fishery within the Fishery Conservation Zone, or any anadromous species or Continental Shelf fishery resource subject to the exclusive management authority of the United States beyond such zone.
+
+## Source Credit
+
+*([Pub. L. 96–283, title I, § 105](https://www.govinfo.gov/link/plaw/96/public/283), June 28, 1980, [94 Stat. 563](https://www.govinfo.gov/link/statute/94/563); [Pub. L. 96–561, title II, § 238(b)](https://www.govinfo.gov/link/plaw/96/public/561), Dec. 22, 1980, [94 Stat. 3300](https://www.govinfo.gov/link/statute/94/3300); [Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009](https://www.govinfo.gov/link/statute/110/3009), 3009–41.)*

@@ -3,9 +3,10 @@ title: "Section 150506 - Powers"
 usc_title: 36
 usc_section: "150506"
 chapter: 1505
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 150506"
-generated_at: "2026-03-30T02:55:44.702Z"
+generated_at: "2026-11-23T21:26:13.651Z"
+status: "active"
 ---
 
 # § 150506. Powers
@@ -22,3 +23,21 @@ The corporation has the powers provided in its bylaws and articles of incorporat
   - **(8)** publish a magazine, newspaper, and other publications consistent with the purposes of the corporation;
   - **(9)** sue and be sued; and
   - **(10)** do any other act necessary and proper to carry out the purposes of the corporation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 150506 | 36:403. | Apr. 3, 1952, ch. 131 , §§ 3, 8, 66 Stat. 38 , 40. |
+|  | 36:408. |  |
+
+
+Historical and Revision Notes
+
+150506
+
+Apr. 3, 1952, ch. 131
+
+66 Stat. 38
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1390](https://www.govinfo.gov/link/statute/112/1390).)*

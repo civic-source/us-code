@@ -3,9 +3,10 @@ title: "Section 304 - Redemption through use of related corporations"
 usc_title: 26
 usc_section: "304"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 304"
-generated_at: "2026-03-30T02:55:27.664Z"
+generated_at: "2026-11-23T21:26:06.132Z"
+status: "active"
 ---
 
 # § 304. Redemption through use of related corporations
@@ -71,3 +72,41 @@ generated_at: "2026-03-30T02:55:27.664Z"
       - **(ii)** paragraph (3)(C) of section 318(a) shall be applied—
         - **(I)** by substituting “5 percent” for “50 percent”, and
         - **(II)** in any case where such paragraph would not apply but for subclause (I), by considering a corporation as owning the stock (other than stock in such corporation) owned by or for any shareholder of such corporation in that proportion which the value of the stock which such shareholder owned in such corporation bears to the value of all stock in such corporation.
+
+In general
+
+Transition rule
+
+In general
+
+Exceptions.—
+
+Distributions
+
+Section 304 transfers
+
+Distributions covered by prior transition rule
+
+Treatment of certain members of affiliated group.—
+
+In general
+
+Limitation to stock held on designated date
+
+Designated date
+
+In general
+
+Election by taxpayer to have amendments apply earlier
+
+Special rule for certain transfers to form bank holding company
+
+Amendments to apply to certain liabilities incurred before october 20, 1983
+
+In general
+
+Approval by federal reserve board
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 89; [Pub. L. 88–554, § 4(b)(1)](https://www.govinfo.gov/link/plaw/88/public/554), Aug. 31, 1964, [78 Stat. 763](https://www.govinfo.gov/link/statute/78/763); [Pub. L. 97–248, title II, § 226(a)(1)(A)](https://www.govinfo.gov/link/plaw/97/public/248), (2), (3), Sept. 3, 1982, [96 Stat. 490](https://www.govinfo.gov/link/statute/96/490), 491; [Pub. L. 98–369, div. A, title VII, § 712](https://www.govinfo.gov/link/plaw/98/public/369) (l)(1)–(5)(A), July 18, 1984, [98 Stat. 953](https://www.govinfo.gov/link/statute/98/953), 954; [Pub. L. 99–514, title XVIII, § 1875(b)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2894](https://www.govinfo.gov/link/statute/100/2894); [Pub. L. 100–203, title X, § 10223(c)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–411](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title II, § 2004(k)(2)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3605](https://www.govinfo.gov/link/statute/102/3605); [Pub. L. 105–34, title X, § 1013(a)](https://www.govinfo.gov/link/plaw/105/public/34), (c), Aug. 5, 1997, [111 Stat. 918](https://www.govinfo.gov/link/statute/111/918); [Pub. L. 105–206, title VI, § 6010(d)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 814](https://www.govinfo.gov/link/statute/112/814); [Pub. L. 111–226, title II, § 215(a)](https://www.govinfo.gov/link/plaw/111/public/226), Aug. 10, 2010, [124 Stat. 2399](https://www.govinfo.gov/link/statute/124/2399); [Pub. L. 113–295, div. A, title II, § 221(a)(48)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4045](https://www.govinfo.gov/link/statute/128/4045).)*

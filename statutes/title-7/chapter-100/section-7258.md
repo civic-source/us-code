@@ -3,9 +3,10 @@ title: "Section 7258 - Standby authority to indicate entity best suited to provi
 usc_title: 7
 usc_section: "7258"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7258"
-generated_at: "2026-03-30T02:53:42.448Z"
+generated_at: "2026-11-23T21:25:28.420Z"
+status: "active"
 ---
 
 # § 7258. Standby authority to indicate entity best suited to provide international market development and export services
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:42.448Z"
   - **(2)** the quantity of exports of United States dairy products during the 12-month period preceding July 1, 1998 does not exceed the quantity of exports of United States dairy products during the 12-month period preceding July 1, 1997 by 1.5 billion pounds (milk equivalent, total solids basis).
 - **(b)** The Secretary shall assist the entity or entities identified under subsection (a) in identifying sources of funding for the activities specified in subsection (a) from within the dairy industry and elsewhere.
 - **(c)** This section shall apply only during the period beginning on July 1, 1997 and ending on September 30, 2000 .
+
+## Source Credit
+
+*([Pub. L. 104–127, title I, § 150](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 921](https://www.govinfo.gov/link/statute/110/921).)*

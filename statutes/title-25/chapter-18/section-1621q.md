@@ -3,9 +3,10 @@ title: "Section 1621q - Prevention, control, and elimination of communicable and
 usc_title: 25
 usc_section: "1621q"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1621q"
-generated_at: "2026-03-30T02:54:52.821Z"
+generated_at: "2026-11-23T21:25:54.620Z"
+status: "active"
 ---
 
 # § 1621q. Prevention, control, and elimination of communicable and infectious diseases
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:52.821Z"
 - **(d)** In carrying out this section, the Secretary—
   - **(1)** may, at the request of an Indian tribe or tribal organization, provide technical assistance; and
   - **(2)** shall prepare and submit a report to Congress biennially on the use of funds under this section and on the progress made toward the prevention, control, and elimination of communicable and infectious diseases among Indians and urban Indians.
+
+## Source Credit
+
+*([Pub. L. 94–437, title II, § 218](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 102–573, title II, § 214](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4556](https://www.govinfo.gov/link/statute/106/4556); amended [Pub. L. 103–437, § 10(e)(1)](https://www.govinfo.gov/link/plaw/103/public/437), (2)(B), Nov. 2, 1994, [108 Stat. 4589](https://www.govinfo.gov/link/statute/108/4589); [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

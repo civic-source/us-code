@@ -3,9 +3,10 @@ title: "Section 6176 - Defense environmental cleanup technology program"
 usc_title: 10
 usc_section: "6176"
 chapter: 604
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6176"
-generated_at: "2026-03-30T02:53:38.221Z"
+generated_at: "2026-11-23T21:25:32.819Z"
+status: "active"
 ---
 
 # § 6176. Defense environmental cleanup technology program
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:53:38.221Z"
 - **(b)** As used in this section:
   - **(1)** The term “defense waste” means waste, including radioactive waste, resulting primarily from atomic energy defense activities of the Department of Energy.
   - **(2)** The term “inactive defense waste disposal site” means any site (including any facility) under the control or jurisdiction of the Secretary of Energy which is used for the disposal of defense waste and is closed to the disposal of additional defense waste, including any site that is subject to decontamination and decommissioning.
+
+Establishment of Program
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1389](https://www.govinfo.gov/link/statute/139/1389).)*

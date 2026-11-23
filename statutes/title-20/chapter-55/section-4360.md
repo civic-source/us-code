@@ -3,9 +3,10 @@ title: "Section 4360 - National study on the education of the deaf"
 usc_title: 20
 usc_section: "4360"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 4360"
-generated_at: "2026-03-30T02:54:48.183Z"
+generated_at: "2026-11-23T21:25:47.442Z"
+status: "active"
 ---
 
 # § 4360. National study on the education of the deaf
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:48.183Z"
   - **(1)** recommendations relating to educated-related factors that contribute to successful postsecondary education experiences and employment for individuals who are deaf, including recommendations for legislation, that the commission deems appropriate; and
   - **(2)** a detailed summary of the input received under subsection (b) and the ways in which the report addresses such input.
 - **(d)** There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2009 and 2010 to carry out the provisions of this section.
+
+## Source Credit
+
+*([Pub. L. 99–371, title II, § 211](https://www.govinfo.gov/link/plaw/99/public/371), as added [Pub. L. 105–244, title IX, § 924](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1832](https://www.govinfo.gov/link/statute/112/1832); amended [Pub. L. 110–315, title IX, § 913](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3455](https://www.govinfo.gov/link/statute/122/3455).)*

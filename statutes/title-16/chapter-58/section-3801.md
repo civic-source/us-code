@@ -3,9 +3,10 @@ title: "Section 3801 - Definitions"
 usc_title: 16
 usc_section: "3801"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3801"
-generated_at: "2026-03-30T02:54:23.021Z"
+generated_at: "2026-11-23T21:25:51.983Z"
+status: "active"
 ---
 
 # § 3801. Definitions
@@ -77,3 +78,65 @@ generated_at: "2026-03-30T02:54:23.021Z"
 - **(b)** The Secretary shall develop—
   - **(1)** criteria for the identification of hydric soils and hydrophytic vegetation; and
   - **(2)** lists of such soils and such vegetation.
+
+Beginning farmer or rancher
+
+Conservation plan
+
+Conservation system
+
+Farm
+
+Field
+
+Equations
+
+Indian tribe
+
+Integrated pest management
+
+Livestock
+
+Nonindustrial private forest land
+
+Person and legal entity
+
+Socially disadvantaged farmer or rancher
+
+Technical assistance
+
+Issuance
+
+Applicable Authority
+
+Congressional Review of Agency Rulemaking
+
+In General
+
+Applicable Authority
+
+Congressional Review of Agency Rulemaking
+
+Interim Administration
+
+Regional Conservation Partnership Program
+
+Funding
+
+Termination of Authority
+
+Permanent Administration
+
+Applicability
+
+Interim Administration
+
+Funding
+
+Termination of Authority
+
+Permanent Administration
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1201](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1504](https://www.govinfo.gov/link/statute/99/1504); [Pub. L. 99–349, title I](https://www.govinfo.gov/link/plaw/99/public/349), July 2, 1986, [100 Stat. 714](https://www.govinfo.gov/link/statute/100/714); [Pub. L. 101–624, title XIV, § 1421(a)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3572](https://www.govinfo.gov/link/statute/104/3572); [Pub. L. 104–127, title III, § 301(a)](https://www.govinfo.gov/link/plaw/104/public/127) –(c), Apr. 4, 1996, [110 Stat. 980](https://www.govinfo.gov/link/statute/110/980), 981; [Pub. L. 110–234, title II, § 2001](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1025](https://www.govinfo.gov/link/statute/122/1025); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title II, § 2001, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1753; [Pub. L. 113–79, title II, § 2713(a)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 772](https://www.govinfo.gov/link/statute/128/772).)*

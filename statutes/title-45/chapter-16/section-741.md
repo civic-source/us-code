@@ -3,9 +3,10 @@ title: "Section 741 - Formation and structure"
 usc_title: 45
 usc_section: "741"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 741"
-generated_at: "2026-03-30T02:55:56.555Z"
+generated_at: "2026-11-23T21:26:19.225Z"
+status: "active"
 ---
 
 # § 741. Formation and structure
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:55:56.555Z"
   - **(27)** section 797i(b)(1) of this title ;
   - **(28)** section 797j of this title ; and
   - **(29)** section 797m of this title , but only with regard to disputes or controversies specified in such section that arose before the sale date.
+
+## Source Credit
+
+*([Pub. L. 93–236, title III, § 301](https://www.govinfo.gov/link/plaw/93/public/236), Jan. 2, 1974, [87 Stat. 1004](https://www.govinfo.gov/link/statute/87/1004); [Pub. L. 94–210, title VI](https://www.govinfo.gov/link/plaw/94/public/210), §§ 608, 611, 612(j)(1), (3), (m), Feb. 5, 1976, [90 Stat. 99](https://www.govinfo.gov/link/statute/90/99), 105, 109, 110; [Pub. L. 94–216](https://www.govinfo.gov/link/plaw/94/public/216), §§ 1, 3, Feb. 17, 1976, [90 Stat. 191](https://www.govinfo.gov/link/statute/90/191); [Pub. L. 94–248, § 4](https://www.govinfo.gov/link/plaw/94/public/248), Mar. 25, 1976, [90 Stat. 286](https://www.govinfo.gov/link/statute/90/286); [Pub. L. 97–35, title XI, § 1141](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 653](https://www.govinfo.gov/link/statute/95/653); [Pub. L. 99–509, title IV, § 4032](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1906](https://www.govinfo.gov/link/statute/100/1906); [Pub. L. 104–88, title III, § 327(2)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 951](https://www.govinfo.gov/link/statute/109/951).)*

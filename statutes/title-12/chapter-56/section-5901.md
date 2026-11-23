@@ -3,9 +3,10 @@ title: "Section 5901 - Definitions"
 usc_title: 12
 usc_section: "5901"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5901"
-generated_at: "2026-03-30T02:53:53.551Z"
+generated_at: "2026-11-23T21:25:37.305Z"
+status: "active"
 ---
 
 # § 5901. Definitions
@@ -103,3 +104,9 @@ In this chapter:
     - **(A)** an organization providing services to the insured credit union that are associated with the routine operations of credit unions, as described in section 1757(7)(I) of this title ;
     - **(B)** a credit union service organization, as such term is used under part 712 of title 12, Code of Federal Regulations, with respect to which the insured credit union has an ownership interest or to which the insured credit union has extended a loan; and
     - **(C)** a subsidiary of a State chartered insured credit union authorized under State law.
+
+“This Act [see Short Title note set out below], and the amendments made by this Act, shall take effect on the earlier of
+
+## Source Credit
+
+*([Pub. L. 119–27, § 2](https://www.govinfo.gov/link/plaw/119/public/27), July 18, 2025, [139 Stat. 419](https://www.govinfo.gov/link/statute/139/419).)*

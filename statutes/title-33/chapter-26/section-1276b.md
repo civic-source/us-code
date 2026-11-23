@@ -3,9 +3,10 @@ title: "Section 1276b - Puget Sound"
 usc_title: 33
 usc_section: "1276b"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1276b"
-generated_at: "2026-03-30T02:55:41.086Z"
+generated_at: "2026-11-23T21:26:11.367Z"
+status: "active"
 ---
 
 # § 1276b. Puget Sound
@@ -156,3 +157,7 @@ generated_at: "2026-03-30T02:55:41.086Z"
     - **(B)** interpreting and enforcing regulations that impact the restoration and protection of the Puget Sound;
     - **(C)** issuing Federal licenses or permits that impact the restoration and protection of the Puget Sound; and
     - **(D)** granting Federal assistance to State, local, and Tribal governments for activities related to the restoration and protection of the Puget Sound.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title I, § 126, as added [Pub. L. 117–263, div. H, title LXXXV, § 8501(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3847](https://www.govinfo.gov/link/statute/136/3847).)*

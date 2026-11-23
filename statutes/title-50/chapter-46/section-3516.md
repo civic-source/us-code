@@ -3,9 +3,10 @@ title: "Section 3516 - Health benefits for certain former spouses of Central Int
 usc_title: 50
 usc_section: "3516"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3516"
-generated_at: "2026-03-30T02:56:26.254Z"
+generated_at: "2026-11-23T21:26:39.055Z"
+status: "active"
 ---
 
 # § 3516. Health benefits for certain former spouses of Central Intelligence Agency employees
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:26.254Z"
       - **(ii)** was an individual referred to in paragraph (2) and was an individual covered under a benefits plan immediately before the remarriage ended the enrollment.
 - **(f)** No individual may be covered by a health benefits plan under this section during any period in which such individual is enrolled in a health benefits plan under any other authority, nor may any individual be covered under more than one enrollment under this section.
 - **(g)** For purposes of this section the term “health benefits plan” means an approved health benefits plan under chapter 89 of title 5.
+
+## Source Credit
+
+*(June 20, 1949, ch. 227, § 16, as added [Pub. L. 99–569, title III, § 303(a)](https://www.govinfo.gov/link/plaw/99/public/569), Oct. 27, 1986, [100 Stat. 3194](https://www.govinfo.gov/link/statute/100/3194); amended [Pub. L. 102–88, title III, § 307(c)](https://www.govinfo.gov/link/plaw/102/public/88), Aug. 14, 1991, [105 Stat. 433](https://www.govinfo.gov/link/statute/105/433); [Pub. L. 103–178, title II, § 203(c)](https://www.govinfo.gov/link/plaw/103/public/178), Dec. 3, 1993, [107 Stat. 2031](https://www.govinfo.gov/link/statute/107/2031); [Pub. L. 108–458, title I, § 1071(b)(2)(B)](https://www.govinfo.gov/link/plaw/108/public/458), (b)(3)(B), (C), Dec. 17, 2004, [118 Stat. 3690](https://www.govinfo.gov/link/statute/118/3690), 3691.)*

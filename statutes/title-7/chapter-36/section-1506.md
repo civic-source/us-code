@@ -3,9 +3,10 @@ title: "Section 1506 - General powers"
 usc_title: 7
 usc_section: "1506"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1506"
-generated_at: "2026-03-30T02:53:42.318Z"
+generated_at: "2026-11-23T21:25:28.094Z"
+status: "active"
 ---
 
 # § 1506. General powers
@@ -57,3 +58,31 @@ generated_at: "2026-03-30T02:53:42.318Z"
     - **(A)** the manner in which inquiries described in paragraph (1) are required to be submitted to the Corporation; and
     - **(B)** a reasonable maximum number of days within which the Corporation will respond to all inquiries.
   - **(3)** If the Corporation fails to respond to an inquiry in accordance with the procedures established pursuant to this subsection, the person requesting the interpretation of this subchapter or regulation may assume the interpretation is correct for the applicable reinsurance year.
+
+Definitions
+
+Terms and Conditions.—
+
+Incorporation of amendments
+
+Retention of existing provisions
+
+Implementation
+
+In General
+
+Collection of Information and Proposals
+
+Initial Report
+
+Final Report
+
+Information.—
+
+Privacy
+
+Subpoenas
+
+## Source Credit
+
+*(Feb. 16, 1938, ch. 30, title V, § 506, [52 Stat. 73](https://www.govinfo.gov/link/statute/52/73); June 21, 1941, ch. 214, § 2, [55 Stat. 255](https://www.govinfo.gov/link/statute/55/255); Aug. 1, 1947, ch. 440, § 7, [61 Stat. 719](https://www.govinfo.gov/link/statute/61/719); Aug. 25, 1949, ch. 512, § 8, [63 Stat. 665](https://www.govinfo.gov/link/statute/63/665); [Pub. L. 96–365, title I](https://www.govinfo.gov/link/plaw/96/public/365), §§ 103, 107(a), Sept. 26, 1980, [94 Stat. 1313](https://www.govinfo.gov/link/statute/94/1313), 1317; [Pub. L. 101–624, title XXII](https://www.govinfo.gov/link/plaw/101/public/624), §§ 2201(a), 2202, Nov. 28, 1990, [104 Stat. 3951](https://www.govinfo.gov/link/statute/104/3951), 3954; [Pub. L. 102–237, title VI, § 601(1)](https://www.govinfo.gov/link/plaw/102/public/237), (2), Dec. 13, 1991, [105 Stat. 1878](https://www.govinfo.gov/link/statute/105/1878); [Pub. L. 103–66, title I, § 1403(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 333](https://www.govinfo.gov/link/statute/107/333); [Pub. L. 103–354, title I](https://www.govinfo.gov/link/plaw/103/public/354), §§ 104, 119(f)(1), Oct. 13, 1994, [108 Stat. 3181](https://www.govinfo.gov/link/statute/108/3181), 3208; [Pub. L. 105–185, title V, § 533](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 583](https://www.govinfo.gov/link/statute/112/583); [Pub. L. 106–224, title I](https://www.govinfo.gov/link/plaw/106/public/224), §§ 121(b), 124(b), June 20, 2000, [114 Stat. 377](https://www.govinfo.gov/link/statute/114/377), 378; [Pub. L. 110–234, title XII](https://www.govinfo.gov/link/plaw/110/public/234), §§ 12002(a), (b)(1), 12003(a), 12033(c)(2)(B), May 22, 2008, [122 Stat. 1371](https://www.govinfo.gov/link/statute/122/1371), 1405; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XII, §§ 12002(a), (b)(1), 12003(a), 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2133, 2167; [Pub. L. 115–334, title XI](https://www.govinfo.gov/link/plaw/115/public/334), §§ 11102, 11103, Dec. 20, 2018, [132 Stat. 4919](https://www.govinfo.gov/link/statute/132/4919), 4920.)*

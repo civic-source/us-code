@@ -3,9 +3,10 @@ title: "Section 1469a - Congressional declaration of policy respecting “Insula
 usc_title: 48
 usc_section: "1469a"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1469a"
-generated_at: "2026-03-30T02:56:14.586Z"
+generated_at: "2026-11-23T21:26:38.002Z"
+status: "active"
 ---
 
 # § 1469a. Congressional declaration of policy respecting “Insular Areas”
@@ -16,3 +17,7 @@ In order to minimize the burden caused by existing application and reporting pro
 - **(b)** Any consolidated grant for any insular area shall not be less than the sum of all grants which such area would otherwise be entitled to receive for such year.
 - **(c)** The funds received under a consolidated grant shall be expended in furtherance of the programs and purposes authorized for any of the grants which are being consolidated, which are authorized under any of the Acts administered by the department or agency making the grant, and which would be applicable to grants for such programs and purposes in the absence of the consolidation, but the Insular Areas shall determine the proportion of the funds granted which shall be allocated to such programs and purposes.
 - **(d)** Each department or agency making grants-in-aid shall, by regulations published in the Federal Register, provide the method by which any Insular Area may submit (i) a single application for a consolidated grant for any fiscal year period, but not more than one such application for a consolidated grant shall be required by any department or agency unless notice of such requirement is transmitted to the appropriate committees of the United States Congress together with a complete explanation of the necessity for requiring such additional applications and (ii) a single report to such department or agency with respect to each such consolidated grant: Provided , That nothing in this paragraph shall preclude such department or agency from providing adequate procedures for accounting, auditing, evaluating, and reviewing any programs or activities receiving benefits from any consolidated grant. The administering authority of any department or agency, in its discretion, may 1 1 See Application of Subsection (d) to Department of the Interior note below. (i) waive any requirement for matching funds otherwise required by law to be provided by the Insular Area involved and (ii) waive the requirement that any Insular Area submit an application or report in writing with respect to any consolidated grant.
+
+## Source Credit
+
+*([Pub. L. 95–134, title V, § 501](https://www.govinfo.gov/link/plaw/95/public/134), Oct. 15, 1977, [91 Stat. 1164](https://www.govinfo.gov/link/statute/91/1164); [Pub. L. 95–348, § 9](https://www.govinfo.gov/link/plaw/95/public/348), Aug. 18, 1978, [92 Stat. 495](https://www.govinfo.gov/link/statute/92/495).)*

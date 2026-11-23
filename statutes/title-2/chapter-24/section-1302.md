@@ -3,9 +3,10 @@ title: "Section 1302 - Application of laws"
 usc_title: 2
 usc_section: "1302"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1302"
-generated_at: "2026-03-30T02:53:04.809Z"
+generated_at: "2026-11-23T21:25:21.217Z"
+status: "active"
 ---
 
 # § 1302. Application of laws
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:53:04.809Z"
   - **(2)**
     - **(A)** Nothing in this section limits the provisions of this chapter that apply to a violation of a law described in subparagraph (B).
     - **(B)** A law described in this subparagraph is a law (even if not listed in subsection (a) or this subsection) that explicitly applies one or more provisions of this chapter to a violation.
+
+## Source Credit
+
+*([Pub. L. 104–1, title I, § 102](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 5](https://www.govinfo.gov/link/statute/109/5); [Pub. L. 115–397, title III, § 301](https://www.govinfo.gov/link/plaw/115/public/397), Dec. 21, 2018, [132 Stat. 5320](https://www.govinfo.gov/link/statute/132/5320); [Pub. L. 116–92, div. A, title XI, § 1122(d)(1)(A)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1608](https://www.govinfo.gov/link/statute/133/1608).)*

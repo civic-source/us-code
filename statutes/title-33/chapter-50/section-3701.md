@@ -3,9 +3,10 @@ title: "Section 3701 - Purposes"
 usc_title: 33
 usc_section: "3701"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3701"
-generated_at: "2026-03-30T02:55:41.143Z"
+generated_at: "2026-11-23T21:26:11.488Z"
+status: "active"
 ---
 
 # § 3701. Purposes
@@ -18,3 +19,7 @@ The purposes of this chapter are to provide for—
   - **(2)** maintenance of an ocean acidification program within the National Oceanic and Atmospheric Administration;
   - **(3)** assessment and consideration of regional and national ecosystem and socioeconomic impacts of increased ocean acidification and coastal acidification; and
   - **(4)** research adaptation strategies and mitigating the impacts of ocean and coastal acidification and related co-stressors on marine ecosystems.
+
+## Source Credit
+
+*([Pub. L. 111–11, title XII, § 12402](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1436](https://www.govinfo.gov/link/statute/123/1436); [Pub. L. 117–167, div. B, title VI, § 10642](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1672](https://www.govinfo.gov/link/statute/136/1672).)*

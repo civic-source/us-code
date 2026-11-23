@@ -3,9 +3,10 @@ title: "Section 1635e - Mandatory reporting for live cattle"
 usc_title: 7
 usc_section: "1635e"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1635e"
-generated_at: "2026-03-30T02:53:42.331Z"
+generated_at: "2026-11-23T21:25:28.138Z"
+status: "active"
 ---
 
 # § 1635e. Mandatory reporting for live cattle
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:53:42.331Z"
 - **(e)**
   - **(1)** The Secretary shall determine whether adequate data can be obtained on a regional basis for fed Holsteins and other fed dairy steers and heifers, cows, and bulls based on the number of packers required to report under this section.
   - **(2)** Not later than 2 years after October 22, 1999 , the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the determination of the Secretary under paragraph (1).
+
+## Source Credit
+
+*(Aug. 14, 1946, ch. 966, title II, § 222, as added [Pub. L. 106–78, title IX, § 911(2)](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1191](https://www.govinfo.gov/link/statute/113/1191).)*

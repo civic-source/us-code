@@ -3,9 +3,10 @@ title: "Section 9754 - Restriction on export of covered articles and services to
 usc_title: 22
 usc_section: "9754"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9754"
-generated_at: "2026-03-30T02:55:05.473Z"
+generated_at: "2026-11-23T21:25:58.787Z"
+status: "active"
 ---
 
 # § 9754. Restriction on export of covered articles and services to certain security forces of Venezuela
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:55:05.473Z"
 - **(e)** This section shall terminate on the earlier of—
   - **(1)** the date that is 3 years after December 20, 2019 ; or
   - **(2)** the date on which the President certifies to the appropriate congressional committees that the Government of Venezuela has returned to a democratic form of government with respect for the essential elements of representative democracy as set forth in Article 3 of the Inter-American Democratic Charter, adopted by the Organization of American States in Lima on September 11, 2001 .
+
+## Source Credit
+
+*([Pub. L. 116–94, div. J, title I, § 166](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3044](https://www.govinfo.gov/link/statute/133/3044).)*

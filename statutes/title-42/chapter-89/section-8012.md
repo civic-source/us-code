@@ -3,9 +3,10 @@ title: "Section 8012 - Hope for elderly independence"
 usc_title: 42
 usc_section: "8012"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8012"
-generated_at: "2026-03-30T02:56:11.333Z"
+generated_at: "2026-11-23T21:26:33.178Z"
+status: "active"
 ---
 
 # § 8012. Hope for elderly independence
@@ -76,3 +77,7 @@ generated_at: "2026-03-30T02:56:11.333Z"
 - **(j)** The budget authority available under section 1437c(c) of this title for assistance under sections 1437f(b) and 1437f( o ) of this title is authorized to be increased by $38,288,000 on or after October 1, 1992 , and by $39,896,096 on or after October 1, 1993 . The amounts made available under this subsection shall be used only in connection with the demonstration under this section.
 - **(k)** There are authorized to be appropriated for the Secretary to carry out the responsibilities for supportive services under the demonstrations under this section $10,000,000 to become available in fiscal year 1993, and $10,420,000 to become available in fiscal year 1994. Any such amounts appropriated under this subsection shall remain available until expended.
 - **(l)** Not later than the expiration of the 180-day period beginning on the date that funds authorized for the demonstrations under this section first become available for obligation, the Secretary shall by notice establish such requirements as may be necessary to carry out the demonstration programs authorized under this section.
+
+## Source Credit
+
+*([Pub. L. 101–625, title VIII, § 803](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4317](https://www.govinfo.gov/link/statute/104/4317); [Pub. L. 102–550, title VI, § 605](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3806](https://www.govinfo.gov/link/statute/106/3806).)*

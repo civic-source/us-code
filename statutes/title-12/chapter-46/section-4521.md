@@ -3,9 +3,10 @@ title: "Section 4521 - Annual reports by Director"
 usc_title: 12
 usc_section: "4521"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4521"
-generated_at: "2026-03-30T02:53:53.507Z"
+generated_at: "2026-11-23T21:25:37.184Z"
+status: "active"
 ---
 
 # § 4521. Annual reports by Director
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:53.507Z"
     - **(A)** the number of days between the date of the request and the commencement of the litigation; and
     - **(B)** the number of days between the date of the commencement and termination of the litigation; and
   - **(5)** the number of litigation requests pending at the beginning of the calendar year, the number of requests made during the calendar year, the number of requests for which action was completed during the calendar year, and the number of requests pending at the end of the calendar year.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1319B](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3950](https://www.govinfo.gov/link/statute/106/3950); [Pub. L. 103–325, title V, § 529(c)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2267](https://www.govinfo.gov/link/statute/108/2267); [Pub. L. 110–289, div. A, title I](https://www.govinfo.gov/link/plaw/110/public/289), §§ 1103(b), 1161(a)(6), July 30, 2008, [122 Stat. 2665](https://www.govinfo.gov/link/statute/122/2665), 2779.)*

@@ -3,9 +3,10 @@ title: "Section 2752 - Annual appropriations"
 usc_title: 33
 usc_section: "2752"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2752"
-generated_at: "2026-03-30T02:55:41.134Z"
+generated_at: "2026-11-23T21:26:11.468Z"
+status: "active"
 ---
 
 # § 2752. Annual appropriations
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:41.134Z"
       - **(ii)** the facts and circumstances that necessitated the advance.
     - **(C)** Amounts advanced under this paragraph shall be repaid to the Fund when, and to the extent that, removal costs are recovered by the Coast Guard from responsible parties for the discharge or substantial threat of discharge.
   - **(3)** Amounts to which this subsection applies shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 101–380, title VI, § 6002](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 555](https://www.govinfo.gov/link/statute/104/555); [Pub. L. 104–324, title XI, § 1102(c)(1)](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3966](https://www.govinfo.gov/link/statute/110/3966); [Pub. L. 107–295, title III, § 323](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2104](https://www.govinfo.gov/link/statute/116/2104); [Pub. L. 111–191, § 1](https://www.govinfo.gov/link/plaw/111/public/191), June 15, 2010, [124 Stat. 1278](https://www.govinfo.gov/link/statute/124/1278); [Pub. L. 111–212, title II, § 2001](https://www.govinfo.gov/link/plaw/111/public/212), July 29, 2010, [124 Stat. 2337](https://www.govinfo.gov/link/statute/124/2337); [Pub. L. 117–263, div. K, title CXIII, § 11313](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4086](https://www.govinfo.gov/link/statute/136/4086).)*

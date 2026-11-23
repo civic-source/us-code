@@ -3,9 +3,10 @@ title: "Section 2442 - Illegal narcotics traffic on Tohono O’odham and St. Reg
 usc_title: 25
 usc_section: "2442"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2442"
-generated_at: "2026-03-30T02:54:52.841Z"
+generated_at: "2026-11-23T21:25:54.669Z"
+status: "active"
 ---
 
 # § 2442. Illegal narcotics traffic on Tohono O’odham and St. Regis Reservations; source eradication
@@ -21,3 +22,15 @@ generated_at: "2026-03-30T02:54:52.841Z"
 - **(b)**
   - **(1)** The Secretary of the Interior, in cooperation with appropriate Federal, tribal, and State and local law enforcement agencies, shall establish and implement a program for the eradication of marijuana cultivation, and interdiction, investigation, and control of illegal narcotics trafficking within Indian country as defined in section 1152 of title 18 . The Secretary shall establish a priority for the use of funds appropriated under paragraph (2) for those Indian reservations where the scope of the problem is most critical, and such funds shall be available for contracting by Indian tribes pursuant to the Indian Self-Determination Act ( 25 U.S.C. 450f et seq.). 1 1 See References in Text note below.
   - **(2)** For the purpose of establishing the program required by paragraph (1), there are authorized to be appropriated $2,000,000 for each of fiscal years 2011 through 2015.
+
+Authorization of appropriations
+
+Authorization
+
+Investigation and control
+
+Authorizations
+
+## Source Credit
+
+*([Pub. L. 99–570, title IV, § 4216](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–146](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 100–690, title II, § 2208](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4218](https://www.govinfo.gov/link/statute/102/4218); [Pub. L. 102–573, title VII, § 703(6)](https://www.govinfo.gov/link/plaw/102/public/573) –(8), Oct. 29, 1992, [106 Stat. 4583](https://www.govinfo.gov/link/statute/106/4583); [Pub. L. 111–211, title II, § 241(e)](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2290](https://www.govinfo.gov/link/statute/124/2290).)*

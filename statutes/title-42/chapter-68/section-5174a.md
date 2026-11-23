@@ -3,9 +3,10 @@ title: "Section 5174a - Flexibility"
 usc_title: 42
 usc_section: "5174a"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5174a"
-generated_at: "2026-03-30T02:56:11.225Z"
+generated_at: "2026-11-23T21:26:32.761Z"
+status: "active"
 ---
 
 # § 5174a. Flexibility
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:11.225Z"
       - **(i)** no administrative action may be taken to recover a payment of such assistance after October 5, 2018 , if the action is prohibited under section 5205(a)(1) of this title , as amended by paragraph (1); and
       - **(ii)** any administrative action to recover a payment of such assistance that is pending on such date of enactment shall be terminated if the action is prohibited under section 5205(a)(1) of this title , as amended by paragraph (1).
     - **(B)** This section, including the amendments made by this section, may not be construed to invalidate or otherwise affect any administration action completed before October 5, 2018 .
+
+## Source Credit
+
+*([Pub. L. 115–254, div. D, § 1216](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3449](https://www.govinfo.gov/link/statute/132/3449); [Pub. L. 117–263, div. E, title LVI, § 5602(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3404](https://www.govinfo.gov/link/statute/136/3404).)*

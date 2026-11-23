@@ -3,9 +3,10 @@ title: "Section 881 - Forfeitures"
 usc_title: 21
 usc_section: "881"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 881"
-generated_at: "2026-03-30T02:54:54.298Z"
+generated_at: "2026-11-23T21:25:56.254Z"
+status: "active"
 ---
 
 # § 881. Forfeitures
@@ -62,3 +63,21 @@ generated_at: "2026-03-30T02:54:54.298Z"
 - **(i)** The provisions of section 981(g) of title 18 regarding the stay of a civil forfeiture proceeding shall apply to forfeitures under this section.
 - **(j)** In addition to the venue provided for in section 1395 of title 28 or any other provision of law, in the case of property of a defendant charged with a violation that is the basis for forfeiture of the property under this section, a proceeding for forfeiture under this section may be brought in the judicial district in which the defendant owning such property is found or in the judicial district in which the criminal prosecution is brought.
 - **(l)** The functions of the Attorney General under this section shall be carried out by the Postal Service pursuant to such agreement as may be entered into between the Attorney General and the Postal Service.
+
+In General
+
+Specifications
+
+(1) the owner establishes that the owner at no time had any knowledge or reason to believe that the property in which the owner claims an interest was being or would be used in a violation of the law; and
+
+“(2) if the owner at any time had, or should have had, knowledge or reason to believe that the property in which the owner claims an interest was being or would be used in a violation of the law, that the owner did what reasonably could be expected to prevent the violation.
+
+Notice
+
+Summons in Lieu of Seizure of Commercial Fishing Industry Vessels
+
+Personal Use Quantities of a Controlled Substance
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 511](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1276](https://www.govinfo.gov/link/statute/84/1276); [Pub. L. 95–633, title III, § 301(a)](https://www.govinfo.gov/link/plaw/95/public/633), Nov. 10, 1978, [92 Stat. 3777](https://www.govinfo.gov/link/statute/92/3777); [Pub. L. 96–132, § 14](https://www.govinfo.gov/link/plaw/96/public/132), Nov. 30, 1979, [93 Stat. 1048](https://www.govinfo.gov/link/statute/93/1048); [Pub. L. 98–473, title II](https://www.govinfo.gov/link/plaw/98/public/473), §§ 306, 309, 518, Oct. 12, 1984, [98 Stat. 2050](https://www.govinfo.gov/link/statute/98/2050), 2051, 2075; [Pub. L. 99–570, title I](https://www.govinfo.gov/link/plaw/99/public/570), §§ 1006(c), 1865, 1992, Oct. 27, 1986, [100 Stat. 3207–7](https://www.govinfo.gov/link/statute/100/3207), 3207–54, 3207–59; [Pub. L. 99–646, § 74](https://www.govinfo.gov/link/plaw/99/public/646), Nov. 10, 1986, [100 Stat. 3618](https://www.govinfo.gov/link/statute/100/3618); [Pub. L. 100–690, title V, § 5105](https://www.govinfo.gov/link/plaw/100/public/690), title VI, §§ 6059, 6074, 6075, 6077(a), (b), 6253, Nov. 18, 1988, [102 Stat. 4301](https://www.govinfo.gov/link/statute/102/4301), 4319, 4323–4325, 4363; [Pub. L. 101–189, div. A, title XII, § 1215(a)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1569](https://www.govinfo.gov/link/statute/103/1569); [Pub. L. 101–647, title XX](https://www.govinfo.gov/link/plaw/101/public/647), §§ 2003, 2004, 2007, 2008, Nov. 29, 1990, [104 Stat. 4855](https://www.govinfo.gov/link/statute/104/4855), 4856; [Pub. L. 102–239, § 2](https://www.govinfo.gov/link/plaw/102/public/239), Dec. 17, 1991, [105 Stat. 1912](https://www.govinfo.gov/link/statute/105/1912); [Pub. L. 103–447, title I, § 102(d)](https://www.govinfo.gov/link/plaw/103/public/447), Nov. 2, 1994, [108 Stat. 4693](https://www.govinfo.gov/link/statute/108/4693); [Pub. L. 104–237, title II, § 201(b)](https://www.govinfo.gov/link/plaw/104/public/237), Oct. 3, 1996, [110 Stat. 3101](https://www.govinfo.gov/link/statute/110/3101); [Pub. L. 106–185](https://www.govinfo.gov/link/plaw/106/public/185), §§ 2(c)(2), 5(b), 8(b), Apr. 25, 2000, [114 Stat. 210](https://www.govinfo.gov/link/statute/114/210), 214, 216; [Pub. L. 107–273, div. B, title IV, § 4002(e)(3)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1810](https://www.govinfo.gov/link/statute/116/1810).)*

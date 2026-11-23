@@ -3,9 +3,10 @@ title: "Section 308j - Special pay: affiliation bonus for officers in the Select
 usc_title: 37
 usc_section: "308j"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 308j"
-generated_at: "2026-03-30T02:55:44.052Z"
+generated_at: "2026-11-23T21:26:14.203Z"
+status: "active"
 ---
 
 # § 308j. Special pay: affiliation bonus for officers in the Selected Reserve
@@ -40,3 +41,21 @@ generated_at: "2026-03-30T02:55:44.052Z"
   - **(2)** A person entitled to a bonus under this section who is called or ordered to active duty shall be paid, during that period of active duty, any amount of the bonus that becomes payable to the member during that period of active duty.
 - **(f)** A person may not receive an affiliation bonus or accession bonus under this section and financial assistance under chapter 1608, 1609, or 1611 of title 10, or under section 302g of this title , for the same period of service.
 - **(g)** A person who enters into an agreement under this section and receives all or part of the bonus under the agreement, but who does not accept a commission or an appointment as an officer or does not commence to participate or does not satisfactorily participate in the Selected Reserve for the total period of service specified in the agreement, shall be subject to the repayment provisions of section 303a(e) of this title .
+
+Affiliation Bonus
+
+Accession Bonus
+
+Period of Obligated Service
+
+Amount
+
+Payment
+
+Relation to Other Accession Bonus Authority
+
+Repayment
+
+## Source Credit
+
+*(Added [Pub. L. 108–375, div. A, title VI, § 619(a)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1950](https://www.govinfo.gov/link/statute/118/1950); amended [Pub. L. 109–163, div. A, title VI, § 634(a)](https://www.govinfo.gov/link/plaw/109/public/163) –(c)(1), Jan. 6, 2006, [119 Stat. 3300](https://www.govinfo.gov/link/statute/119/3300); [Pub. L. 109–364, div. A, title X, § 1071(c)(4)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2401](https://www.govinfo.gov/link/statute/120/2401); [Pub. L. 112–239, div. A, title VI, § 616](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1777](https://www.govinfo.gov/link/statute/126/1777).)*

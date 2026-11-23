@@ -3,9 +3,10 @@ title: "Section 1136 - Legal educational opportunity program"
 usc_title: 20
 usc_section: "1136"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1136"
-generated_at: "2026-03-30T02:54:48.147Z"
+generated_at: "2026-11-23T21:25:47.249Z"
+status: "active"
 ---
 
 # § 1136. Legal educational opportunity program
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:54:48.147Z"
 - **(f)** For the purposes of planning, developing, or delivering one or more of the services described in subsection (d), the Council on Legal Education Opportunity shall enter into subcontracts with, and make subgrants to, institutions of higher education, law schools, public and private agencies and organizations, national and State bar associations, and combinations of such institutions, schools, agencies, organizations, and associations.
 - **(g)** The Secretary shall annually establish the maximum fellowship to be awarded, and the maximum stipend to be paid (including allowances for participant travel and for the travel of the dependents of the participant), to Thurgood Marshall Fellows or Associates for the period of participation in summer institutes, midyear seminars, and bar preparation seminars. A Thurgood Marshall Fellow or Associate may be eligible for such a fellowship or stipend only if the Fellow or Associate maintains satisfactory academic progress toward the Juris Doctor or Bachelor of Laws degree, as determined by the respective institutions (except with respect to a law school graduate enrolled in a bar preparation course).
 - **(h)** There are authorized to be appropriated to carry out this section $5,000,000 for fiscal year 2009 and each of the five succeeding fiscal years.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VII, § 721](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title VII, § 701](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1794](https://www.govinfo.gov/link/statute/112/1794); amended [Pub. L. 110–315, title VII, § 704(a)](https://www.govinfo.gov/link/plaw/110/public/315) –(h), Aug. 14, 2008, [122 Stat. 3347](https://www.govinfo.gov/link/statute/122/3347), 3348; [Pub. L. 111–39, title VII, § 701(1)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1954](https://www.govinfo.gov/link/statute/123/1954).)*

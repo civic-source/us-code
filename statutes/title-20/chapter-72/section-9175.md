@@ -3,9 +3,10 @@ title: "Section 9175 - 21st century museum professional program"
 usc_title: 20
 usc_section: "9175"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9175"
-generated_at: "2026-03-30T02:54:48.225Z"
+generated_at: "2026-11-23T21:25:47.651Z"
+status: "active"
 ---
 
 # § 9175. 21st century museum professional program
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:48.225Z"
   - **(3)** develop new or enhance current professional development and retention programs for museum professionals and the museum workforce, including through mid-career skill-building, mentoring, and fellowships, and by supporting the development of local and regional networks for those who may not have easy access to such opportunities; and
   - **(4)** support and conduct research, needs assessments, pilot programs, and evaluation of education and professional development programs to explore successful approaches that can successfully recruit, prepare, educate, and retain the next generation of museum professionals.
 - **(c)** The Director shall establish procedures for reviewing and evaluating arrangements supported under this section.
+
+## Source Credit
+
+*([Pub. L. 94–462, title II, § 275](https://www.govinfo.gov/link/plaw/94/public/462), as added [Pub. L. 115–410, § 19(2)](https://www.govinfo.gov/link/plaw/115/public/410), Dec. 31, 2018, [132 Stat. 5421](https://www.govinfo.gov/link/statute/132/5421).)*

@@ -3,9 +3,10 @@ title: "Section 2215 - Nuclear Regulatory Commission user fees and annual charge
 usc_title: 42
 usc_section: "2215"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2215"
-generated_at: "2026-03-30T02:56:11.157Z"
+generated_at: "2026-11-23T21:26:32.378Z"
+status: "active"
 ---
 
 # § 2215. Nuclear Regulatory Commission user fees and annual charges for fiscal year 2021 and each fiscal year thereafter
@@ -75,3 +76,69 @@ generated_at: "2026-03-30T02:56:11.157Z"
 - **(e)** Not later than September 30, 2021 , the Commission shall submit to the Committee on Appropriations and the Committee on Environment and Public Works of the Senate and the Committee on Appropriations and the Committee on Energy and Commerce of the House of Representatives a report describing the implementation of this section, including any impacts and recommendations for improvement.
 - **(f)** Except as provided in subsection (c), this section takes effect on October 1, 2020 .
 - **(g)** Paragraphs (1)(B)(vi) and (2)(C) of subsection (b) shall cease to be effective on September 30, 2030 .
+
+(aa) a circulating loop through the core in which the licensee conducts fuel experiments;
+
+(bb) a liquid fuel loading; or
+
+(cc) an experimental facility in the core in excess of 16 square inches in cross-section.
+
+“The purpose of this Act [see Short Title of 2019 Amendment note set out under section 2011 of this title ] is to provide—
+
+“In this Act [see Short Title of 2019 Amendment note set out under section 2011 of this title ]:
+
+Advanced nuclear reactor
+
+Advanced nuclear reactor applicant
+
+Advanced nuclear reactor fuel
+
+Advanced nuclear reactor pre-applicant
+
+Agency support
+
+Agreement state
+
+Appropriate congressional committees
+
+Commission
+
+Conceptual design assessment
+
+Corporate support costs.—
+
+In general
+
+Exclusions
+
+Fusion machine
+
+Hourly rate for mission-direct program salaries and benefits
+
+Licensing project plan
+
+Mission-direct program salaries and benefits
+
+Mission-indirect program support
+
+Regulatory framework
+
+Requested activity of the commission
+
+Research and test reactor.—
+
+In general
+
+Exclusion
+
+Secretary
+
+Standard design approval
+
+Technology-inclusive regulatory framework
+
+Topical report
+
+## Source Credit
+
+*([Pub. L. 115–439, title I, § 102](https://www.govinfo.gov/link/plaw/115/public/439), Jan. 14, 2019, [132 Stat. 5568](https://www.govinfo.gov/link/statute/132/5568); [Pub. L. 118–67, div. B, title I, § 101(c)(1)](https://www.govinfo.gov/link/plaw/118/public/67), title II, §§ 201(b)–(d), 204(a), title V, §§ 503(b), 504, July 9, 2024, [138 Stat. 1450](https://www.govinfo.gov/link/statute/138/1450), 1456, 1460, 1476, 1477.)*

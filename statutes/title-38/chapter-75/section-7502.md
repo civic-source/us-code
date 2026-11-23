@@ -3,9 +3,10 @@ title: "Section 7502 - Application and acceptance"
 usc_title: 38
 usc_section: "7502"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7502"
-generated_at: "2026-03-30T02:55:53.533Z"
+generated_at: "2026-11-23T21:26:16.882Z"
+status: "active"
 ---
 
 # § 7502. Application and acceptance
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:55:53.533Z"
 - **(b)**
   - **(1)** Upon the Secretary’s approval of an individual’s participation in the scholarship program, the Secretary shall, in writing, promptly notify the individual of that acceptance.
   - **(2)** An individual becomes a participant in the scholarship program upon such approval by the Secretary.
+
+Application
+
+Approval
+
+## Source Credit
+
+*(Added [Pub. L. 111–163, title III, § 302(a)](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1147](https://www.govinfo.gov/link/statute/124/1147).)*

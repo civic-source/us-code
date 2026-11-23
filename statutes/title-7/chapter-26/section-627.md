@@ -3,9 +3,10 @@ title: "Section 627 - Dairy forward pricing pilot program"
 usc_title: 7
 usc_section: "627"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 627"
-generated_at: "2026-03-30T02:53:42.293Z"
+generated_at: "2026-11-23T21:25:27.994Z"
+status: "active"
 ---
 
 # § 627. Dairy forward pricing pilot program
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:42.293Z"
 - **(e)**
   - **(1)** The Secretary of Agriculture shall conduct a study on forward contracting between milk producers and cooperatives and milk handlers to determine the impact on milk prices paid to producers in the United States. To obtain information for the study, the Secretary may use the authorities available to the Secretary under section 608d of this title , subject to the confidentiality requirements of subsection (2) of such section.
   - **(2)** Not later than April 30, 2002 , the Secretary shall submit to the Committee on Agriculture, Nutrition and Forestry of the Senate and the Committee on Agriculture of the House of Representatives a report containing the results of the study.
+
+## Source Credit
+
+*(May 12, 1933, ch. 25, title I, § 23, as added [Pub. L. 106–113, div. B, § 1000(a)(8) [§ 3]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–519.)*

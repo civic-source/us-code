@@ -3,9 +3,10 @@ title: "Section 5102 - Definitions"
 usc_title: 12
 usc_section: "5102"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5102"
-generated_at: "2026-03-30T02:53:53.523Z"
+generated_at: "2026-11-23T21:25:37.227Z"
+status: "active"
 ---
 
 # § 5102. Definitions
@@ -66,3 +67,7 @@ For purposes of this chapter, the following definitions shall apply:
       - **(ii)** is assigned by protocols established by the Nationwide Mortgage Licensing System and Registry and the Bureau to facilitate electronic tracking of loan originators and uniform identification of, and public access to, the employment history of and the publicly adjudicated disciplinary and enforcement actions against loan originators; and
       - **(iii)** shall not be used for purposes other than those set forth under this chapter.
     - **(B)** To the greatest extent possible and to accomplish the purpose of this chapter, States shall use unique identifiers in lieu of social security numbers.
+
+## Source Credit
+
+*([Pub. L. 110–289, div. A, title V, § 1503](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2811](https://www.govinfo.gov/link/statute/122/2811); [Pub. L. 111–203, title X, § 1100(2)](https://www.govinfo.gov/link/plaw/111/public/203) –(4), July 21, 2010, [124 Stat. 2106](https://www.govinfo.gov/link/statute/124/2106).)*

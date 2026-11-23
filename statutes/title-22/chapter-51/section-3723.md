@@ -3,9 +3,10 @@ title: "Section 3723 - Audits"
 usc_title: 22
 usc_section: "3723"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3723"
-generated_at: "2026-03-30T02:55:05.397Z"
+generated_at: "2026-11-23T21:25:58.595Z"
+status: "active"
 ---
 
 # § 3723. Audits
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.397Z"
 - **(b)**
 - **(c)** At the discretion of the Board provided for in section 3612 of this title , the Commission may hire independent auditors to perform, in lieu of the Comptroller General, the audit and reporting functions prescribed in subsections (a) and (b).
 - **(d)** In addition to auditing the financial statements of the Commission, the Comptroller General (or the independent auditor if one is employed pursuant to subsection (c)) shall, in accordance with standards for an examination of a financial forecast established by the American Institute of Certified Public Accountants, examine and report on the Commission’s financial forecast that it will be in a position to meet its financial liabilities on December 31, 1999 .
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1313](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 479](https://www.govinfo.gov/link/statute/93/479); [Pub. L. 104–106, div. C, title XXXV, § 3526(a)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 640](https://www.govinfo.gov/link/statute/110/640); [Pub. L. 104–201, div. C, title XXXV](https://www.govinfo.gov/link/plaw/104/public/201), §§ 3541(b), 3546(a)(9), (b), Sept. 23, 1996, [110 Stat. 2867](https://www.govinfo.gov/link/statute/110/2867), 2868; [Pub. L. 105–261, div. C, title XXXV, § 3512(a)(3)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2271](https://www.govinfo.gov/link/statute/112/2271).)*

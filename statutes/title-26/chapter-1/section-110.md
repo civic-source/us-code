@@ -3,9 +3,10 @@ title: "Section 110 - Qualified lessee construction allowances for short-term le
 usc_title: 26
 usc_section: "110"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 110"
-generated_at: "2026-03-30T02:55:27.625Z"
+generated_at: "2026-11-23T21:26:06.003Z"
+status: "active"
 ---
 
 # § 110. Qualified lessee construction allowances for short-term leases
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:27.625Z"
 - **(d)** Under regulations, the lessee and lessor described in subsection (a) shall, at such times and in such manner as may be provided in such regulations, furnish to the Secretary—
   - **(1)** information concerning the amounts received (or treated as a rent reduction) and expended as described in subsection (a), and
   - **(2)** any other information which the Secretary deems necessary to carry out the provisions of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 105–34, title XII, § 1213(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1000](https://www.govinfo.gov/link/statute/111/1000).)*

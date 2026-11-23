@@ -3,12 +3,17 @@ title: "Section 153 - Control of library of House of Representatives"
 usc_title: 2
 usc_section: "153"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 153"
-generated_at: "2026-03-30T02:53:04.789Z"
+generated_at: "2026-11-23T21:25:21.137Z"
+status: "active"
 ---
 
 # § 153. Control of library of House of Representatives
 
 The library of the House of Representatives shall be under the control and direction of the Librarian of Congress, who shall provide all needful books of reference therefor. The librarian, two assistant librarians, and assistant in the library, shall be appointed by the Clerk of the House, with the approval of the Speaker of the House of Representatives. No removals shall be made from the said positions except for cause reported to and approved by the Committee on Rules.
 
+
+## Source Credit
+
+*(Mar. 3, 1901, ch. 830, § 1, [31 Stat. 964](https://www.govinfo.gov/link/statute/31/964).)*

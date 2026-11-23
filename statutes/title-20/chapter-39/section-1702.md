@@ -3,9 +3,10 @@ title: "Section 1702 - Congressional findings"
 usc_title: 20
 usc_section: "1702"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1702"
-generated_at: "2026-03-30T02:54:48.169Z"
+generated_at: "2026-11-23T21:25:47.355Z"
+status: "active"
 ---
 
 # § 1702. Congressional findings
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:48.169Z"
   - **(5)** the risks and harms created by excessive transportation are particularly great for children enrolled in the first six grades; and
   - **(6)** the guidelines provided by the courts for fashioning remedies to dismantle dual school systems have been, as the Supreme Court of the United States has said, “incomplete and imperfect,” and have not established, a clear, rational, and uniform standard for determining the extent to which a local educational agency is required to reassign and transport its students in order to eliminate the vestiges of a dual school system.
 - **(b)** For the foregoing reasons, it is necessary and proper that the Congress, pursuant to the powers granted to it by the Constitution of the United States, specify appropriate remedies for the elimination of the vestiges of dual school systems, except that the provisions of this chapter are not intended to modify or diminish the authority of the courts of the United States to enforce fully the fifth and fourteenth amendments to the Constitution of the United States.
+
+## Source Credit
+
+*([Pub. L. 93–380, title II, § 203](https://www.govinfo.gov/link/plaw/93/public/380), Aug. 21, 1974, [88 Stat. 514](https://www.govinfo.gov/link/statute/88/514).)*

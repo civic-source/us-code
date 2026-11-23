@@ -3,9 +3,10 @@ title: "Section 1711 - Definitions"
 usc_title: 28
 usc_section: "1711"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1711"
-generated_at: "2026-03-30T02:55:30.143Z"
+generated_at: "2026-11-23T21:26:01.100Z"
+status: "active"
 ---
 
 # § 1711. Definitions
@@ -18,3 +19,23 @@ In this chapter:
   - **(4)** The term “class members” means the persons (named or unnamed) who fall within the definition of the proposed or certified class in a class action.
   - **(5)** The term “plaintiff class action” means a class action in which class members are plaintiffs.
   - **(6)** The term “proposed settlement” means an agreement regarding a class action that is subject to court approval and that, if approved, would be binding on some or all class members.
+
+Class
+
+Class action
+
+Class counsel
+
+Class members
+
+Plaintiff class action
+
+Proposed settlement
+
+Findings
+
+Purposes
+
+## Source Credit
+
+*(Added [Pub. L. 109–2, § 3(a)](https://www.govinfo.gov/link/plaw/109/public/2), Feb. 18, 2005, [119 Stat. 5](https://www.govinfo.gov/link/statute/119/5).)*

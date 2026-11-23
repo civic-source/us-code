@@ -3,9 +3,10 @@ title: "Section 1302a - Bureau of Prisons tribal prisoner program"
 usc_title: 25
 usc_section: "1302a"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1302a"
-generated_at: "2026-03-30T02:54:52.815Z"
+generated_at: "2026-11-23T21:25:54.600Z"
+status: "active"
 ---
 
 # § 1302a. Bureau of Prisons tribal prisoner program
@@ -20,3 +21,11 @@ generated_at: "2026-03-30T02:54:52.815Z"
     - **(A)** The applicable tribal government shall retain the authority to rescind the request for confinement of a tribal offender by the Bureau of Prisons under this paragraph at any time during the sentence of the offender.
     - **(B)** On rescission of a request under subparagraph (A), a tribal offender shall be returned to tribal custody.
   - **(4)** If tribal court demand for participation in this program exceeds 100 tribal offenders, a representative of the Bureau of Prisons shall notify Congress.
+
+Report
+
+Termination
+
+## Source Credit
+
+*([Pub. L. 111–211, title II, § 234(c)](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2281](https://www.govinfo.gov/link/statute/124/2281); [Pub. L. 117–103, div. W, title VIII, § 803](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 898](https://www.govinfo.gov/link/statute/136/898).)*

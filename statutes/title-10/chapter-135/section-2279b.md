@@ -3,9 +3,10 @@ title: "Section 2279b - Council on Oversight of the Department of Defense Positi
 usc_title: 10
 usc_section: "2279b"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2279b"
-generated_at: "2026-03-30T02:53:38.153Z"
+generated_at: "2026-11-23T21:25:32.594Z"
+status: "active"
 ---
 
 # § 2279b. Council on Oversight of the Department of Defense Positioning, Navigation, and Timing Enterprise
@@ -51,3 +52,23 @@ generated_at: "2026-03-30T02:53:38.153Z"
   - **(1)** The Secretary of Defense shall submit to the congressional defense committees written notification of an anomaly in the Department of Defense positioning, navigation, and timing enterprise that is reported to the Secretary or the Council by not later than 14 days after the date on which the Secretary or the Council learns of such anomaly, as the case may be.
   - **(2)** In this subsection, the term “anomaly” means any unplanned, irregular, or abnormal event, whether unexplained or caused intentionally or unintentionally by a person or a system.
 - **(h)** The Council shall terminate on the date that is 10 years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2022.
+
+Establishment
+
+Membership
+
+Co-chair
+
+Responsibilities
+
+Annual Reports
+
+Budget and Funding Matters
+
+Notification of Anomalies
+
+Termination
+
+## Source Credit
+
+*(Added [Pub. L. 114–92, div. A, title XVI, § 1603(a)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1096](https://www.govinfo.gov/link/statute/129/1096); amended [Pub. L. 116–92, div. A, title IX, § 902(31)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1546](https://www.govinfo.gov/link/statute/133/1546); [Pub. L. 116–283, div. A, title XVI, § 1604(b)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4043](https://www.govinfo.gov/link/statute/134/4043); [Pub. L. 117–81, div. A, title X, § 1081(a)(27)](https://www.govinfo.gov/link/plaw/117/public/81), title XVI, § 1604, Dec. 27, 2021, [135 Stat. 1921](https://www.govinfo.gov/link/statute/135/1921), 2077.)*

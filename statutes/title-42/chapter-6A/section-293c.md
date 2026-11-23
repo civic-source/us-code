@@ -3,9 +3,10 @@ title: "Section 293c - Educational assistance in the health professions regardin
 usc_title: 42
 usc_section: "293c"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 293c"
-generated_at: "2026-03-30T02:56:10.775Z"
+generated_at: "2026-11-23T21:26:30.630Z"
+status: "active"
 ---
 
 # § 293c. Educational assistance in the health professions regarding individuals from disadvantaged backgrounds
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:10.775Z"
   - **(4)** The programs or activities under the award shall focus on developing a culturally competent health care workforce that will serve the unserved and underserved populations within the geographic area.
 - **(c)** The Secretary, to the extent practicable, shall ensure that services and activities under subsection (a) are adequately allocated among the various racial and ethnic populations who are from disadvantaged backgrounds.
 - **(d)** The Secretary may require that an entity that applies for a grant or contract under subsection (a), provide non-Federal matching funds, as appropriate, to ensure the institutional commitment of the entity to the projects funded under the grant or contract. As determined by the Secretary, such non-Federal matching funds may be provided directly or through donations from public or private entities and may be in cash or in-kind, fairly evaluated, including plant, equipment, or services.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 739, as added [Pub. L. 105–392, title I, § 101(a)](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3534](https://www.govinfo.gov/link/statute/112/3534).)*

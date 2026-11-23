@@ -3,9 +3,10 @@ title: "Section 1056a - Reintegration of recovered Department of Defense personn
 usc_title: 10
 usc_section: "1056a"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1056a"
-generated_at: "2026-03-30T02:53:38.097Z"
+generated_at: "2026-11-23T21:25:32.381Z"
+status: "active"
 ---
 
 # § 1056a. Reintegration of recovered Department of Defense personnel; post-isolation support activities for other recovered personnel
@@ -29,3 +30,13 @@ generated_at: "2026-03-30T02:53:38.097Z"
     - **(A)** the debriefing of the recovered person following a separation as described in paragraph (2);
     - **(B)** activities to promote or support for the physical and mental health of the recovered person following such a separation; and
     - **(C)** other activities to facilitate return of the recovered person to military duty or employment with the Department of Defense as expeditiously as possible following such a separation.
+
+Reintegration and Support Authorized
+
+Activities Authorized
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 112–81, div. A, title V, § 588(a)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1436](https://www.govinfo.gov/link/statute/125/1436).)*

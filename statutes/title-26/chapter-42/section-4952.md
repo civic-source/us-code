@@ -3,9 +3,10 @@ title: "Section 4952 - Taxes on taxable expenditures"
 usc_title: 26
 usc_section: "4952"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4952"
-generated_at: "2026-03-30T02:55:27.808Z"
+generated_at: "2026-11-23T21:26:06.651Z"
+status: "active"
 ---
 
 # § 4952. Taxes on taxable expenditures
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:27.808Z"
   - **(2)** The term “taxable period” means, with respect to any taxable expenditure, the period beginning with the date on which the taxable expenditure occurs and ending on the earlier of—
     - **(A)** the date of mailing a notice of deficiency with respect to the tax imposed by subsection (a)(1) under section 6212, or
     - **(B)** the date on which the tax imposed by subsection (a)(1) is assessed.
+
+## Source Credit
+
+*(Added [Pub. L. 95–227, § 4(c)(1)](https://www.govinfo.gov/link/plaw/95/public/227), Feb. 10, 1978, [92 Stat. 21](https://www.govinfo.gov/link/statute/92/21); amended [Pub. L. 96–596, § 2(a)(1)(I)](https://www.govinfo.gov/link/plaw/96/public/596), (2)(G), Dec. 24, 1980, [94 Stat. 3469](https://www.govinfo.gov/link/statute/94/3469), 3471.)*

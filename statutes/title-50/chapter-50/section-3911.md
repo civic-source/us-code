@@ -3,9 +3,10 @@ title: "Section 3911 - Definitions"
 usc_title: 50
 usc_section: "3911"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3911"
-generated_at: "2026-03-30T02:56:26.263Z"
+generated_at: "2026-11-23T21:26:39.076Z"
+status: "active"
 ---
 
 # § 3911. Definitions
@@ -34,3 +35,7 @@ For the purposes of this chapter:
     - **(C)** with respect to a commissioned officer of the National Oceanic and Atmospheric Administration, means the Secretary of Commerce.
   - **(8)** The term “motor vehicle” has the meaning given that term in section 30102(a)(6) of title 49 . 1 1 See References in Text note below.
   - **(9)** The term “judgment” means any judgment, decree, order, or ruling, final or temporary.
+
+## Source Credit
+
+*(Oct. 17, 1940, ch. 888, title I, § 101, as added [Pub. L. 108–189, § 1](https://www.govinfo.gov/link/plaw/108/public/189), Dec. 19, 2003, [117 Stat. 2836](https://www.govinfo.gov/link/statute/117/2836); amended [Pub. L. 108–454, title VII, § 701](https://www.govinfo.gov/link/plaw/108/public/454), Dec. 10, 2004, [118 Stat. 3624](https://www.govinfo.gov/link/statute/118/3624); [Pub. L. 118–31, div. A, title XVII, § 1742(c)(1)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 681](https://www.govinfo.gov/link/statute/137/681).)*

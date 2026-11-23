@@ -3,9 +3,10 @@ title: "Section 18842 - Model guidance for combined heat and power systems and w
 usc_title: 42
 usc_section: "18842"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18842"
-generated_at: "2026-03-30T02:56:11.532Z"
+generated_at: "2026-11-23T21:26:33.854Z"
+status: "active"
 ---
 
 # § 18842. Model guidance for combined heat and power systems and waste heat to power systems
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:11.532Z"
       - **(ii)** procurement of additional services by an electric utility from a competitive market; and
       - **(iii)** waivers of fees or rates for additional services for small electric consumers; and
     - **(G)** outcomes such as increased electric reliability, fuel diversification, enhanced power quality, and reduced electric losses that may result from increased use of combined heat and power systems and waste heat to power systems.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title V, § 40556](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1078](https://www.govinfo.gov/link/statute/135/1078).)*

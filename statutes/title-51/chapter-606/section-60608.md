@@ -3,9 +3,10 @@ title: "Section 60608 - Space weather benchmarks"
 usc_title: 51
 usc_section: "60608"
 chapter: 606
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 60608"
-generated_at: "2026-03-30T02:56:28.713Z"
+generated_at: "2026-11-23T21:26:42.565Z"
+status: "active"
 ---
 
 # § 60608. Space weather benchmarks
@@ -14,3 +15,7 @@ The interagency working group established under section 60601(c) shall periodica
 
   - **(1)** any significant new data or advances in scientific understanding that become available; or
   - **(2)** the evolving needs of entities impacted by space weather phenomena.
+
+## Source Credit
+
+*([Pub. L. 116–181, § 2(b)](https://www.govinfo.gov/link/plaw/116/public/181), Oct. 21, 2020, [134 Stat. 892](https://www.govinfo.gov/link/statute/134/892).)*

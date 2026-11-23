@@ -3,9 +3,10 @@ title: "Section 2703 - Services and facilities for employees at posts abroad"
 usc_title: 22
 usc_section: "2703"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2703"
-generated_at: "2026-03-30T02:55:05.379Z"
+generated_at: "2026-11-23T21:25:58.531Z"
+status: "active"
 ---
 
 # § 2703. Services and facilities for employees at posts abroad
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.379Z"
     - **(A)** the number of members of the post is subject to a ceiling imposed by the receiving country; and
     - **(B)** Foreign Service nationals are not employed at the post; and
   - **(2)** whether local child care is available.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title I, § 31, as added [Pub. L. 96–465, title II, § 2201(a)](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2156](https://www.govinfo.gov/link/statute/94/2156); renumbered title I, [Pub. L. 97–241, title II, § 202(a)](https://www.govinfo.gov/link/plaw/97/public/241), Aug. 24, 1982, [96 Stat. 282](https://www.govinfo.gov/link/statute/96/282); amended [Pub. L. 101–246, title I, § 147](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 38](https://www.govinfo.gov/link/statute/104/38); [Pub. L. 102–138, title I](https://www.govinfo.gov/link/plaw/102/public/138), §§ 121, 144, Oct. 28, 1991, [105 Stat. 658](https://www.govinfo.gov/link/statute/105/658), 668; [Pub. L. 103–236, title I, § 124](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 393](https://www.govinfo.gov/link/statute/108/393).)*

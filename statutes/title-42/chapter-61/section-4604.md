@@ -3,9 +3,10 @@ title: "Section 4604 - Certification"
 usc_title: 42
 usc_section: "4604"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4604"
-generated_at: "2026-03-30T02:56:11.206Z"
+generated_at: "2026-11-23T21:26:32.679Z"
+status: "active"
 ---
 
 # § 4604. Certification
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.206Z"
 - **(c)**
   - **(1)** The head of a Federal agency may withhold his approval of any Federal financial assistance to or contract or cooperative agreement with any displacing agency found by the Federal agency to have failed to comply with the laws described in subsection (a) of this section.
   - **(2)** After consultation with the head of the lead agency, the head of a Federal agency may rescind his acceptance of any certification under this section, in whole or in part, if the State agency fails to comply with such certification or with State law.
+
+## Source Credit
+
+*([Pub. L. 91–646, title I, § 103](https://www.govinfo.gov/link/plaw/91/public/646), as added [Pub. L. 100–17, title IV, § 403](https://www.govinfo.gov/link/plaw/100/public/17), Apr. 2, 1987, [101 Stat. 248](https://www.govinfo.gov/link/statute/101/248); amended [Pub. L. 104–66, title I, § 1121(f)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 724](https://www.govinfo.gov/link/statute/109/724).)*

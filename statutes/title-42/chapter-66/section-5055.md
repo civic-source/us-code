@@ -3,9 +3,10 @@ title: "Section 5055 - Application of Federal law"
 usc_title: 42
 usc_section: "5055"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5055"
-generated_at: "2026-03-30T02:56:11.214Z"
+generated_at: "2026-11-23T21:26:32.714Z"
+status: "active"
 ---
 
 # § 5055. Application of Federal law
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.214Z"
   - **(2)** The Attorney General of the United States shall defend any civil action or proceeding brought in any court against any person referred to in paragraph (1) of this subsection (or such person’s estate) for any such damage or injury. Any such person against whom such civil action or proceeding is brought shall deliver, within such time after date of service or knowledge of service as determined by the Attorney General, all process served upon such person or an attested true copy thereof to such person’s immediate supervisor or to whomever is designated by the Director to receive such papers, and such person shall promptly furnish copies of the pleading and process therein to the United States attorney for the district embracing the place wherein the proceeding is brought and to the Attorney General.
   - **(3)** Upon a certification by the Attorney General that the defendant was acting in the scope of such person’s volunteer assignment at the time of the incident out of which the suit arose, any such civil action or proceeding commenced in a State court shall be removed without bond at any time before trial by the Attorney General to the district court of the United States of the district and division embracing the place wherein it is pending and the proceeding deemed a tort action brought against the United States under the provisions of title 28 and all references thereto. After removal the United States shall have available all defenses to which it would have been entitled if the action had originally been commenced against the United States. Should a district court of the United States determine on a hearing on a motion to remand held before a trial on the merits that the volunteer whose act or omission gave rise to the suit was not acting within the scope of such person’s volunteer assignment, the case shall be remanded to the State court.
   - **(4)** The Attorney General may compromise or settle any claim asserted in such civil action or proceeding in the manner provided in section 2677 of title 28 and with the same effect.
+
+## Source Credit
+
+*([Pub. L. 93–113, title IV, § 415](https://www.govinfo.gov/link/plaw/93/public/113), Oct. 1, 1973, [87 Stat. 411](https://www.govinfo.gov/link/statute/87/411); [Pub. L. 96–143](https://www.govinfo.gov/link/plaw/96/public/143), §§ 11, 18(c)(2), Dec. 13, 1979, [93 Stat. 1078](https://www.govinfo.gov/link/statute/93/1078), 1083; [Pub. L. 96–465, title II, § 2206(h)](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2163](https://www.govinfo.gov/link/statute/94/2163); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 99–551, § 10(i)(9)](https://www.govinfo.gov/link/plaw/99/public/551), Oct. 27, 1986, [100 Stat. 3078](https://www.govinfo.gov/link/statute/100/3078); [Pub. L. 103–82, title III, § 366](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 908](https://www.govinfo.gov/link/statute/107/908); [Pub. L. 111–13, title II, § 2152](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1591](https://www.govinfo.gov/link/statute/123/1591).)*

@@ -3,9 +3,10 @@ title: "Section 6503 - Training and monitoring"
 usc_title: 5
 usc_section: "6503"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 6503"
-generated_at: "2026-03-30T02:52:56.034Z"
+generated_at: "2026-11-23T21:25:23.332Z"
+status: "active"
 ---
 
 # § 6503. Training and monitoring
@@ -22,3 +23,11 @@ generated_at: "2026-03-30T02:52:56.034Z"
     - **(D)** other acts involving managerial discretion; and
   - **(4)** when determining what constitutes diminished employee performance, the agency shall consult the performance management guidelines of the Office of Personnel Management.
 - **(b)** The head of an executive agency may provide for an exemption from the training requirements under subsection (a), if the head of that agency determines that the training would be unnecessary because the employee is already teleworking under a work arrangement in effect before the date of enactment of this chapter.
+
+In General
+
+Training Requirement Exemptions
+
+## Source Credit
+
+*(Added [Pub. L. 111–292, § 2(a)](https://www.govinfo.gov/link/plaw/111/public/292), Dec. 9, 2010, [124 Stat. 3166](https://www.govinfo.gov/link/statute/124/3166).)*

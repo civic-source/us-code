@@ -3,9 +3,10 @@ title: "Section 8402 - Prohibitions against certain unfair and deceptive Interne
 usc_title: 15
 usc_section: "8402"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8402"
-generated_at: "2026-03-30T02:54:08.229Z"
+generated_at: "2026-11-23T21:25:40.082Z"
+status: "active"
 ---
 
 # § 8402. Prohibitions against certain unfair and deceptive Internet sales practices
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:08.229Z"
       - **(i)** the initial merchant;
       - **(ii)** a subsidiary or corporate affiliate of the initial merchant; or
       - **(iii)** a successor of an entity described in clause (i) or (ii).
+
+## Source Credit
+
+*([Pub. L. 111–345, § 3](https://www.govinfo.gov/link/plaw/111/public/345), Dec. 29, 2010, [124 Stat. 3619](https://www.govinfo.gov/link/statute/124/3619).)*

@@ -3,9 +3,10 @@ title: "Section 2162 - Who may be a debtor"
 usc_title: 48
 usc_section: "2162"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 2162"
-generated_at: "2026-03-30T02:56:14.604Z"
+generated_at: "2026-11-23T21:26:38.141Z"
+status: "active"
 ---
 
 # § 2162. Who may be a debtor
@@ -17,3 +18,7 @@ An entity may be a debtor under this subchapter if—
     - **(B)** a covered territorial instrumentality of a territory described in paragraph (1)(A);
   - **(2)** the Oversight Board has issued a certification under section 2146(b) of this title for such entity; and
   - **(3)** the entity desires to effect a plan to adjust its debts.
+
+## Source Credit
+
+*([Pub. L. 114–187, title III, § 302](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 579](https://www.govinfo.gov/link/statute/130/579).)*

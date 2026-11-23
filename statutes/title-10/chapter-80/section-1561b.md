@@ -3,9 +3,10 @@ title: "Section 1561b - Confidential reporting of sexual harassment"
 usc_title: 10
 usc_section: "1561b"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1561b"
-generated_at: "2026-03-30T02:53:38.129Z"
+generated_at: "2026-11-23T21:25:32.507Z"
+status: "active"
 ---
 
 # § 1561b. Confidential reporting of sexual harassment
@@ -27,3 +28,21 @@ generated_at: "2026-03-30T02:53:38.129Z"
 - **(e)**
   - **(1)** Not later than April 30, 2026 , and April 30 every 2 years thereafter, the Secretary of the department in which the Coast Guard is operating shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report containing data on the complaints of sexual harassment alleged pursuant to the process under subsection (a) during the previous 2 calendar years.
   - **(2)** Any data on complaints described in paragraph (1) shall not contain any personally identifiable information.
+
+Reporting Process
+
+Receipt of Complaints
+
+Education and Tracking
+
+Reports
+
+Reports for the Coast Guard.—
+
+In general
+
+Personally identifiable information
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. A, title V, § 532(a)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3601](https://www.govinfo.gov/link/statute/134/3601); amended [Pub. L. 119–60, div. G, title LXXV, § 7525](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1816](https://www.govinfo.gov/link/statute/139/1816).)*

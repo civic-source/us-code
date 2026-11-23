@@ -3,9 +3,10 @@ title: "Section 1003 - Assistance to local organizations"
 usc_title: 16
 usc_section: "1003"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1003"
-generated_at: "2026-03-30T02:54:22.938Z"
+generated_at: "2026-11-23T21:25:51.802Z"
+status: "active"
 ---
 
 # § 1003. Assistance to local organizations
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:22.938Z"
 - **(b)** The Secretary may waive the watershed plan for works of improvement if the Secretary determines that—
   - **(1)** the watershed plan is unnecessary or duplicative; and
   - **(2)** the works of improvement are otherwise consistent with applicable requirements under section 1004 of this title .
+
+## Source Credit
+
+*(Aug. 4, 1954, ch. 656, § 3, [68 Stat. 666](https://www.govinfo.gov/link/statute/68/666); Aug. 7, 1956, ch. 1027, § 1(b), [70 Stat. 1088](https://www.govinfo.gov/link/statute/70/1088); [Pub. L. 92–419, title II, § 201(c)](https://www.govinfo.gov/link/plaw/92/public/419), Aug. 30, 1972, [86 Stat. 667](https://www.govinfo.gov/link/statute/86/667); [Pub. L. 97–98, title XV, § 1512(c)](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1333](https://www.govinfo.gov/link/statute/95/1333); [Pub. L. 101–624, title XIV, § 1464](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3616](https://www.govinfo.gov/link/statute/104/3616); [Pub. L. 115–334, title II, § 2401(a)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4570](https://www.govinfo.gov/link/statute/132/4570).)*

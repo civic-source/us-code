@@ -3,9 +3,10 @@ title: "Section 5195a - Definitions"
 usc_title: 42
 usc_section: "5195a"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5195a"
-generated_at: "2026-03-30T02:56:11.226Z"
+generated_at: "2026-11-23T21:26:32.771Z"
+status: "active"
 ---
 
 # § 5195a. Definitions
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.226Z"
   - **(9)** The terms “United States” and “States” includes 1 1 So in original. Probably should be “include”. the several States, the District of Columbia, and territories and possessions of the United States.
   - **(10)** The term “State” includes interstate emergency preparedness authorities established under section 5196(h) of this title .
 - **(b)** The terms “national defense” and “defense,” 2 2 So in original. The comma probably should follow the closing quotation marks. as used in the Defense Production Act of 1950 (50 U.S.C. App. 2061 et seq.), 3 3 See References in Text note below. includes 1 emergency preparedness activities conducted pursuant to this subchapter.
+
+## Source Credit
+
+*([Pub. L. 93–288, title VI, § 602](https://www.govinfo.gov/link/plaw/93/public/288), as added [Pub. L. 103–337, div. C, title XXXIV, § 3411(a)(3)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 3101](https://www.govinfo.gov/link/statute/108/3101); amended [Pub. L. 111–351, § 3(c)](https://www.govinfo.gov/link/plaw/111/public/351), Jan. 4, 2011, [124 Stat. 3864](https://www.govinfo.gov/link/statute/124/3864).)*

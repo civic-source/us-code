@@ -3,9 +3,10 @@ title: "Section 3510 - Appropriations"
 usc_title: 50
 usc_section: "3510"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3510"
-generated_at: "2026-03-30T02:56:26.253Z"
+generated_at: "2026-11-23T21:26:39.053Z"
+status: "active"
 ---
 
 # § 3510. Appropriations
@@ -23,3 +24,9 @@ generated_at: "2026-03-30T02:56:26.253Z"
       - **(iii)** require timely congressional notification in accordance with this subsection.
     - **(B)** The Director shall regularly review and update the guidance issued under this paragraph as appropriate.
     - **(C)** Not later than 60 days after the date on which the initial guidance is issued under this paragraph, and not later than 60 days after the date on which any material revisions to such guidance take effect, the Director shall provide to the committees specified in paragraph (1) a briefing with respect to such guidance or such material revisions.
+
+Notification
+
+## Source Credit
+
+*(June 20, 1949, ch. 227, § 8, formerly § 10, [63 Stat. 212](https://www.govinfo.gov/link/statute/63/212); renumbered § 8, [Pub. L. 85–507, § 21(b)(2)](https://www.govinfo.gov/link/plaw/85/public/507), July 7, 1958, [72 Stat. 337](https://www.govinfo.gov/link/statute/72/337); amended [Pub. L. 116–92, div. E, title LIII, § 5341](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2142](https://www.govinfo.gov/link/statute/133/2142); [Pub. L. 117–263, div. F, title LXIV, § 6415(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3528](https://www.govinfo.gov/link/statute/136/3528); [Pub. L. 119–60, div. F, title LXV, § 6501(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1619](https://www.govinfo.gov/link/statute/139/1619).)*

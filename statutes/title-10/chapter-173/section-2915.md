@@ -3,9 +3,10 @@ title: "Section 2915 - Facilities: use of renewable forms of energy and energy e
 usc_title: 10
 usc_section: "2915"
 chapter: 173
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2915"
-generated_at: "2026-03-30T02:53:38.186Z"
+generated_at: "2026-11-23T21:25:32.705Z"
+status: "active"
 ---
 
 # § 2915. Facilities: use of renewable forms of energy and energy efficient products
@@ -29,3 +30,17 @@ generated_at: "2026-03-30T02:53:38.186Z"
   - **(3)** In determining the energy efficiency of products, the Secretary shall consider products that—
     - **(A)** meet or exceed Energy Star specifications; or
     - **(B)** are listed on the Federal Energy Management Program Product Energy Efficiency Recommendations product list of the Department of Energy.
+
+Use of Renewable Forms of Energy Encouraged
+
+Consideration During Design Phase of Projects
+
+Determination of Cost Effectiveness
+
+Exception to Square Feet and Cost Per Square Foot Limitations
+
+Use of Energy Efficient Products in Facilities
+
+## Source Credit
+
+*(Added [Pub. L. 97–214, § 2(a)](https://www.govinfo.gov/link/plaw/97/public/214), July 12, 1982, [96 Stat. 166](https://www.govinfo.gov/link/statute/96/166), § 2857; amended [Pub. L. 97–321, title VIII, § 801(b)(1)](https://www.govinfo.gov/link/plaw/97/public/321), (2), Oct. 15, 1982, [96 Stat. 1571](https://www.govinfo.gov/link/statute/96/1571); [Pub. L. 98–525, title XIV, § 1405(45)(A)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2625](https://www.govinfo.gov/link/statute/98/2625); [Pub. L. 101–218, § 8(b)](https://www.govinfo.gov/link/plaw/101/public/218), Dec. 11, 1989, [103 Stat. 1868](https://www.govinfo.gov/link/statute/103/1868); [Pub. L. 101–510, div. B, title XXVIII, § 2852(b)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1804](https://www.govinfo.gov/link/statute/104/1804); [Pub. L. 102–25, title VII, § 701(g)(2)](https://www.govinfo.gov/link/plaw/102/public/25), Apr. 6, 1991, [105 Stat. 115](https://www.govinfo.gov/link/statute/105/115); renumbered § 2915 and amended [Pub. L. 109–364, div. B, title XXVIII](https://www.govinfo.gov/link/plaw/109/public/364), §§ 2851(b)(1), (3)(A), 2854, Oct. 17, 2006, [120 Stat. 2494](https://www.govinfo.gov/link/statute/120/2494), 2497; [Pub. L. 111–383, div. B, title XXVIII, § 2832(b)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4468](https://www.govinfo.gov/link/statute/124/4468); [Pub. L. 112–81, div. B, title XXVIII, § 2825(a)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1693](https://www.govinfo.gov/link/statute/125/1693); [Pub. L. 115–91, div. B, title XXVIII, § 2831(c)(2)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1857](https://www.govinfo.gov/link/statute/131/1857).)*

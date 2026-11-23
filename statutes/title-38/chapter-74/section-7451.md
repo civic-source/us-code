@@ -3,9 +3,10 @@ title: "Section 7451 - Nurses and other health-care personnel: competitive pay"
 usc_title: 38
 usc_section: "7451"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7451"
-generated_at: "2026-03-30T02:55:53.531Z"
+generated_at: "2026-11-23T21:26:16.876Z"
+status: "active"
 ---
 
 # § 7451. Nurses and other health-care personnel: competitive pay
@@ -79,3 +80,23 @@ generated_at: "2026-03-30T02:55:53.531Z"
       - **(i)** an individual in a covered position at a Department health-care facility; or
       - **(ii)** a representative of the labor organization representing that individual who is designated by that individual to make the request.
 - **(f)** For the purposes of this section, the term “health-care facility” means a medical center, an independent outpatient clinic, or an independent domiciliary facility.
+
+In General
+
+New Pay Rates
+
+Report Required
+
+Matters To Be Included
+
+Updated Report
+
+Revision
+
+Deadline For Prescribing Standards
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 101–366, title I, § 102(b)](https://www.govinfo.gov/link/plaw/101/public/366), Aug. 15, 1990, [104 Stat. 431](https://www.govinfo.gov/link/statute/104/431), § 4141; renumbered § 7451 and amended [Pub. L. 102–40, title III, § 301(b)](https://www.govinfo.gov/link/plaw/102/public/40), (c), title IV, § 401(c)(1)(A), (2), May 7, 1991, [105 Stat. 208](https://www.govinfo.gov/link/statute/105/208), 238; [Pub. L. 102–405, title III, § 302(c)(1)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1984](https://www.govinfo.gov/link/statute/106/1984); [Pub. L. 102–585, title III](https://www.govinfo.gov/link/plaw/102/public/585), §§ 301(b)–303, 304(b), 307, Nov. 4, 1992, [106 Stat. 4951–4953](https://www.govinfo.gov/link/statute/106/4951); [Pub. L. 103–446, title XII, § 1201(c)(7)](https://www.govinfo.gov/link/plaw/103/public/446), (e)(23), Nov. 2, 1994, [108 Stat. 4684](https://www.govinfo.gov/link/statute/108/4684), 4686; [Pub. L. 104–110, title I, § 101(i)](https://www.govinfo.gov/link/plaw/104/public/110), Feb. 13, 1996, [110 Stat. 768](https://www.govinfo.gov/link/statute/110/768); [Pub. L. 106–419, title II, § 201(a)](https://www.govinfo.gov/link/plaw/106/public/419), Nov. 1, 2000, [114 Stat. 1838](https://www.govinfo.gov/link/statute/114/1838); [Pub. L. 107–135, title I, § 133](https://www.govinfo.gov/link/plaw/107/public/135), Jan. 23, 2002, [115 Stat. 2454](https://www.govinfo.gov/link/statute/115/2454); [Pub. L. 111–163, title V, § 501(a)](https://www.govinfo.gov/link/plaw/111/public/163), title VI, § 601(g), (h), (j), May 5, 2010, [124 Stat. 1157](https://www.govinfo.gov/link/statute/124/1157), 1170; [Pub. L. 115–46, title II, § 212](https://www.govinfo.gov/link/plaw/115/public/46), Aug. 12, 2017, [131 Stat. 967](https://www.govinfo.gov/link/statute/131/967); [Pub. L. 117–103, div. S, title I, § 102(a)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 822](https://www.govinfo.gov/link/statute/136/822); [Pub. L. 117–263, div. E, title LI, § 5122](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3210](https://www.govinfo.gov/link/statute/136/3210); [Pub. L. 118–210, title I, § 142(a)(3)(C)](https://www.govinfo.gov/link/plaw/118/public/210), Jan. 2, 2025, [138 Stat. 2746](https://www.govinfo.gov/link/statute/138/2746).)*

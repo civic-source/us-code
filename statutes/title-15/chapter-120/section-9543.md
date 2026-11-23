@@ -3,9 +3,10 @@ title: "Section 9543 - Educational development relating to management and entrep
 usc_title: 15
 usc_section: "9543"
 chapter: 120
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9543"
-generated_at: "2026-03-30T02:54:08.249Z"
+generated_at: "2026-11-23T21:25:40.149Z"
+status: "active"
 ---
 
 # § 9543. Educational development relating to management and entrepreneurship
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:08.249Z"
     - **(A)** a description of each curriculum developed and implemented under each grant awarded under this section;
     - **(B)** the date on which each grant awarded under this section was awarded; and
     - **(C)** the number of eligible entities that were recipients of grants awarded under this section.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. K, title II, § 100203](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1457](https://www.govinfo.gov/link/statute/135/1457).)*

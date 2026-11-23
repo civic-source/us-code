@@ -3,9 +3,10 @@ title: "Section 8531 - Definitions"
 usc_title: 16
 usc_section: "8531"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8531"
-generated_at: "2026-03-30T02:54:23.087Z"
+generated_at: "2026-11-23T21:25:52.082Z"
+status: "active"
 ---
 
 # § 8531. Definitions
@@ -19,3 +20,7 @@ In this subchapter:
   - **(3)** The term “recreation service provider” has the meaning given the term in section 6801 of this title (as amended by section 311).
   - **(4)** The term “special recreation permit” has the meaning given the term in section 6801 of this title (as amended by section 311).
   - **(5)** The term “visitor-use day” means a visitor-use day, user day, launch, or other metric used by the Secretary concerned for purposes of authorizing use under a special recreation permit.
+
+## Source Credit
+
+*([Pub. L. 118–234, title III, § 301](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2891](https://www.govinfo.gov/link/statute/138/2891).)*

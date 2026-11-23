@@ -3,9 +3,10 @@ title: "Section 1906 - List of laws inapplicable to procurements of commercial p
 usc_title: 41
 usc_section: "1906"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 1906"
-generated_at: "2026-03-30T02:55:55.803Z"
+generated_at: "2026-11-23T21:26:18.794Z"
+status: "active"
 ---
 
 # § 1906. List of laws inapplicable to procurements of commercial products and commercial services
@@ -23,3 +24,49 @@ generated_at: "2026-03-30T02:55:55.803Z"
   - **(1)** provides for criminal or civil penalties; or
   - **(2)** specifically refers to this section and provides that, notwithstanding this section, it shall be applicable to contracts for the procurement of commercial products or commercial services.
 - **(e)** A person may petition the Administrator to take appropriate action when a provision of law described in subsection (d) is not included on the list of inapplicable provisions of law as required by subsection (b) or (c) and the Council has not made a written determination pursuant to subsection (b)(2) or (c)(3). The Administrator shall revise the Federal Acquisition Regulation to include the provision on the list of inapplicable provisions of law unless the Council makes a determination pursuant to subsection (b)(2) or (c)(3) within 60 days after the petition is received.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1906(a) | no source. |  |
+| 1906(b)–(e) | 41:430. | Pub. L. 93–400, § 34 , as added Pub. L. 103–355, title VIII, § 8003(a) , Oct. 13, 1994 , 108 Stat. 3388 . |
+
+
+Definition
+
+Contracts.—
+
+Inclusion in federal acquisition regulation
+
+Laws enacted after october 13, 1994
+
+Subcontracts.—
+
+Definition
+
+Inclusion in federal acquisition regulation
+
+Provisions to be excluded from list
+
+Waiver not authorized
+
+Covered Law
+
+Petition
+
+Historical and Revision Notes
+
+1906(a)
+
+1906(b)–(e)
+
+Pub. L. 93–400, § 34
+
+Pub. L. 103–355, title VIII, § 8003(a)
+
+Oct. 13, 1994
+
+108 Stat. 3388
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3723](https://www.govinfo.gov/link/statute/124/3723); [Pub. L. 115–91, div. A, title VIII, § 820](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1464](https://www.govinfo.gov/link/statute/131/1464); [Pub. L. 115–232, div. A, title VIII, § 836(b)(6)(A)](https://www.govinfo.gov/link/plaw/115/public/232), (B)(i), Aug. 13, 2018, [132 Stat. 1861](https://www.govinfo.gov/link/statute/132/1861).)*

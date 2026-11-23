@@ -3,9 +3,10 @@ title: "Section 1044b - Military powers of attorney: requirement for recognition
 usc_title: 10
 usc_section: "1044b"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1044b"
-generated_at: "2026-03-30T02:53:38.096Z"
+generated_at: "2026-11-23T21:25:32.377Z"
+status: "active"
 ---
 
 # § 1044b. Military powers of attorney: requirement for recognition by States
@@ -18,3 +19,15 @@ generated_at: "2026-03-30T02:53:38.096Z"
   - **(1)** Under regulations prescribed by the Secretary concerned, each military power of attorney shall contain a statement that sets forth the provisions of subsection (a).
   - **(2)** Paragraph (1) shall not be construed to make inapplicable the provisions of subsection (a) to a military power of attorney that does not include a statement described in that paragraph.
 - **(d)** In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and a possession of the United States.
+
+Instruments To Be Given Legal Effect Without Regard to State Law
+
+Military Power of Attorney
+
+Statement To Be Included
+
+State Defined
+
+## Source Credit
+
+*(Added [Pub. L. 103–160, div. A, title V, § 574(a)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1674](https://www.govinfo.gov/link/statute/107/1674).)*

@@ -3,9 +3,10 @@ title: "Section 1781a - Department of Defense Military Family Readiness Council"
 usc_title: 10
 usc_section: "1781a"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1781a"
-generated_at: "2026-03-30T02:53:38.137Z"
+generated_at: "2026-11-23T21:25:32.538Z"
+status: "active"
 ---
 
 # § 1781a. Department of Defense Military Family Readiness Council
@@ -53,3 +54,21 @@ generated_at: "2026-03-30T02:53:38.137Z"
   - **(5)** In this subsection:
     - **(A)** The term “landlord” has the meaning given that term in section 2871 of this title .
     - **(B)** The term “covered military housing” means housing acquired or constructed pursuant to subchapter IV of chapter 169 of this title that is owned by an entity other than the Federal Government.
+
+In General
+
+Members
+
+Meetings
+
+Duties
+
+Military Family Readiness Working Group for Military Housing.—
+
+In general
+
+Applicability of membership and term amendments
+
+## Source Credit
+
+*(Added [Pub. L. 110–181, div. A, title V, § 581(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 120](https://www.govinfo.gov/link/statute/122/120); amended [Pub. L. 111–84, div. A, title V, § 562](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2303](https://www.govinfo.gov/link/statute/123/2303); [Pub. L. 111–383, div. A, title V, § 581](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4226](https://www.govinfo.gov/link/statute/124/4226); [Pub. L. 112–81, div. A, title V, § 574](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1427](https://www.govinfo.gov/link/statute/125/1427); [Pub. L. 114–328, div. A, title IX, § 933(a)(2)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2364](https://www.govinfo.gov/link/statute/130/2364); [Pub. L. 115–232, div. A, title V, § 571(a)](https://www.govinfo.gov/link/plaw/115/public/232) –(c), Aug. 13, 2018, [132 Stat. 1777](https://www.govinfo.gov/link/statute/132/1777), 1778; [Pub. L. 116–283, div. A, title IX, § 924(b)(29)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3825](https://www.govinfo.gov/link/statute/134/3825); [Pub. L. 118–31, div. A, title XVII, § 1722(k)(1)](https://www.govinfo.gov/link/plaw/118/public/31), div. B, title XXVIII, § 2821(a), Dec. 22, 2023, [137 Stat. 673](https://www.govinfo.gov/link/statute/137/673), 749.)*

@@ -3,9 +3,10 @@ title: "Section 12892 - Planning grants"
 usc_title: 42
 usc_section: "12892"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12892"
-generated_at: "2026-03-30T02:56:11.434Z"
+generated_at: "2026-11-23T21:26:33.569Z"
+status: "active"
 ---
 
 # § 12892. Planning grants
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:11.434Z"
   - **(3)** the potential of the applicant for developing a successful and affordable homeownership program and the availability and suitability of eligible properties in the applicable geographic area with respect to the application;
   - **(4)** national geographic diversity among housing for which applicants are selected to receive assistance; and
   - **(5)** such other factors that the Secretary shall require that (in the determination of the Secretary) are appropriate for purposes of carrying out the program established by this part in an effective and efficient manner.
+
+## Source Credit
+
+*([Pub. L. 101–625, title IV, § 442](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4172](https://www.govinfo.gov/link/statute/104/4172); [Pub. L. 102–550, title X, § 1012(j)(1)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3906](https://www.govinfo.gov/link/statute/106/3906).)*

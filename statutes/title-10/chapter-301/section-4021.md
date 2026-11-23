@@ -3,9 +3,10 @@ title: "Section 4021 - Research projects: transactions other than contracts and 
 usc_title: 10
 usc_section: "4021"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4021"
-generated_at: "2026-03-30T02:53:38.200Z"
+generated_at: "2026-11-23T21:25:32.750Z"
+status: "active"
 ---
 
 # § 4021. Research projects: transactions other than contracts and grants
@@ -32,3 +33,53 @@ generated_at: "2026-03-30T02:53:38.200Z"
       - **(i)** A proposal, proposal abstract, and supporting documents.
       - **(ii)** A business plan submitted on a confidential basis.
       - **(iii)** Technical information submitted on a confidential basis.
+
+Additional Forms of Transactions Authorized
+
+Exercise of Authority by Secretary of Defense
+
+Advance Payments
+
+Recovery of Funds
+
+Conditions
+
+Support Accounts
+
+Education and Training
+
+Guidance
+
+Protection of Certain Information From Disclosure
+
+In General
+
+Data Collection
+
+Definitions
+
+Nontraditional defense contractor
+
+Other transaction authority
+
+Small business
+
+Procedures for Identifying Certain Acquisition Agreements and Activities
+
+Reporting
+
+Publication of Information
+
+Collection and Storage
+
+Use of Data
+
+Report Required.—
+
+In general
+
+Form of report
+
+## Source Credit
+
+*(Added [Pub. L. 101–189, div. A, title II, § 251(a)(1)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1403](https://www.govinfo.gov/link/statute/103/1403), § 2371; amended [Pub. L. 101–510, div. A, title XIV, § 1484(k)(9)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1719](https://www.govinfo.gov/link/statute/104/1719); [Pub. L. 102–190, div. A, title VIII, § 826](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1442](https://www.govinfo.gov/link/statute/105/1442); [Pub. L. 102–484, div. A, title II, § 217](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2352](https://www.govinfo.gov/link/statute/106/2352); [Pub. L. 103–35, title II, § 201(c)(4)](https://www.govinfo.gov/link/plaw/103/public/35), May 31, 1993, [107 Stat. 98](https://www.govinfo.gov/link/statute/107/98); [Pub. L. 103–160, div. A, title VIII, § 827(b)](https://www.govinfo.gov/link/plaw/103/public/160), title XI, § 1182(a)(6), Nov. 30, 1993, [107 Stat. 1712](https://www.govinfo.gov/link/statute/107/1712), 1771; [Pub. L. 103–355, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/103/public/355), Oct. 13, 1994, [108 Stat. 3285](https://www.govinfo.gov/link/statute/108/3285); [Pub. L. 104–106, div. A, title XV, § 1502(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 502](https://www.govinfo.gov/link/statute/110/502); [Pub. L. 104–201, div. A, title II, § 267(a)](https://www.govinfo.gov/link/plaw/104/public/201) –(c)(1)(A), title X, § 1073(e)(1)(B), Sept. 23, 1996, [110 Stat. 2467](https://www.govinfo.gov/link/statute/110/2467), 2468, 2658; [Pub. L. 105–85, div. A, title VIII, § 832](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1842](https://www.govinfo.gov/link/statute/111/1842); [Pub. L. 105–261, div. A, title VIII, § 817](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2089](https://www.govinfo.gov/link/statute/112/2089); [Pub. L. 106–65, div. A, title X, § 1067(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774); [Pub. L. 108–136, div. A, title X, § 1031(a)(19)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1597](https://www.govinfo.gov/link/statute/117/1597); [Pub. L. 113–291, div. A, title X, § 1071(f)(20)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3511](https://www.govinfo.gov/link/statute/128/3511); [Pub. L. 115–91, div. A, title VIII, § 863](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1494](https://www.govinfo.gov/link/statute/131/1494); renumbered § 4021 and amended [Pub. L. 116–283, div. A, title XVIII, § 1841(b)(1)](https://www.govinfo.gov/link/plaw/116/public/283), (2)(B), Jan. 1, 2021, [134 Stat. 4243](https://www.govinfo.gov/link/statute/134/4243); [Pub. L. 117–81, div. A, title VIII, § 821(a)](https://www.govinfo.gov/link/plaw/117/public/81), title XVII, § 1701(u)(2)(B), (F)(i)(III), Dec. 27, 2021, [135 Stat. 1825](https://www.govinfo.gov/link/statute/135/1825), 2151; [Pub. L. 118–31, div. A, title IX, § 913(a)(2)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 367](https://www.govinfo.gov/link/statute/137/367).)*

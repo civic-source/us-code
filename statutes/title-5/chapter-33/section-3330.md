@@ -3,9 +3,10 @@ title: "Section 3330 - Government-wide list of vacant positions"
 usc_title: 5
 usc_section: "3330"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3330"
-generated_at: "2026-03-30T02:52:56.002Z"
+generated_at: "2026-11-23T21:25:23.154Z"
+status: "active"
 ---
 
 # § 3330. Government-wide list of vacant positions
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:52:56.002Z"
 - **(d)** The list shall be available to members of the public.
 - **(e)** The Office shall prescribe such regulations as may be necessary to carry out this section. Any requirement under this section that agencies notify the Office as to the availability of any vacant positions shall be designed so as to avoid any duplication of information otherwise required to be furnished under section 3327 of this title or any other provision of law.
 - **(f)** The Office may, to the extent it determines appropriate, charge such fees to agencies for services provided under this section and for related Federal employment information. The Office shall retain such fees to pay the costs of providing such services and information.
+
+## Source Credit
+
+*(Added [Pub. L. 102–484, div. D, title XLIV, § 4431(a)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2719](https://www.govinfo.gov/link/statute/106/2719), § 3329; renumbered § 3330 and amended [Pub. L. 104–52, title IV, § 4(1)](https://www.govinfo.gov/link/plaw/104/public/52), Nov. 19, 1995, [109 Stat. 490](https://www.govinfo.gov/link/statute/109/490); [Pub. L. 104–106, div. A, title X, § 1037(b)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 432](https://www.govinfo.gov/link/statute/110/432); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

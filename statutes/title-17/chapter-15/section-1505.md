@@ -3,9 +3,10 @@ title: "Section 1505 - Registration requirement"
 usc_title: 17
 usc_section: "1505"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 1505"
-generated_at: "2026-03-30T02:54:15.358Z"
+generated_at: "2026-11-23T21:25:41.745Z"
+status: "active"
 ---
 
 # § 1505. Registration requirement
@@ -21,3 +22,15 @@ generated_at: "2026-03-30T02:54:15.358Z"
   - **(3)** if the Copyright Claims Board receives notice that registration with respect to the work has been refused, the proceeding shall be dismissed without prejudice.
 - **(c)** In a case in which a registration certificate shows that registration with respect to a work was issued not later than 5 years after the date of the first publication of the work, the presumption under section 410(c) shall apply in a proceeding before the Copyright Claims Board, in addition to relevant principles of law under this title.
 - **(d)** In order to ensure that actions before the Copyright Claims Board proceed in a timely manner, the Register of Copyrights shall establish regulations allowing the Copyright Office to make a decision, on an expedited basis, to issue or deny copyright registration for an unregistered work that is at issue before the Board.
+
+Application or Certificate
+
+Certificate of Registration
+
+Presumption
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 116–260, div. Q, title II, § 212(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2184](https://www.govinfo.gov/link/statute/134/2184).)*

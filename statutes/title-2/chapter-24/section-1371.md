@@ -3,9 +3,10 @@ title: "Section 1371 - Study and recommendations regarding General Accounting Of
 usc_title: 2
 usc_section: "1371"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1371"
-generated_at: "2026-03-30T02:53:04.811Z"
+generated_at: "2026-11-23T21:25:21.223Z"
+status: "active"
 ---
 
 # § 1371. Study and recommendations regarding General Accounting Office, Government Printing Office, and Library of Congress
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:04.811Z"
 - **(d)** Not later than December 31, 1996 —
   - **(1)** the Board shall prepare and complete the study and recommendations required under this section; and
   - **(2)** the Board shall transmit such study and recommendations (with the Board’s comments) to the head of each entity considered in the study, and to the Congress by delivery to the Speaker of the House of Representatives and President pro tempore of the Senate for referral to the appropriate committees of the House of Representatives and of the Senate.
+
+## Source Credit
+
+*([Pub. L. 104–1, title II, § 230](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 23](https://www.govinfo.gov/link/statute/109/23); [Pub. L. 104–53, title III, § 309(a)](https://www.govinfo.gov/link/plaw/104/public/53), (b), Nov. 19, 1995, [109 Stat. 538](https://www.govinfo.gov/link/statute/109/538).)*

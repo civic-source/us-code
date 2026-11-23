@@ -3,12 +3,17 @@ title: "Section 2203 - Definition of executor"
 usc_title: 26
 usc_section: "2203"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 2203"
-generated_at: "2026-03-30T02:55:27.783Z"
+generated_at: "2026-11-23T21:26:06.535Z"
+status: "active"
 ---
 
 # § 2203. Definition of executor
 
 The term “executor” wherever it is used in this title in connection with the estate tax imposed by this chapter means the executor or administrator of the decedent, or, if there is no executor or administrator appointed, qualified, and acting within the United States, then any person in actual or constructive possession of any property of the decedent.
 
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 401.)*

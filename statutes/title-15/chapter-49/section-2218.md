@@ -3,9 +3,10 @@ title: "Section 2218 - Administrative provisions"
 usc_title: 15
 usc_section: "2218"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2218"
-generated_at: "2026-03-30T02:54:08.169Z"
+generated_at: "2026-11-23T21:25:39.919Z"
+status: "active"
 ---
 
 # § 2218. Administrative provisions
@@ -23,3 +24,25 @@ generated_at: "2026-03-30T02:54:08.169Z"
   - **(1)** To the extent practicable, the Administrator shall use existing programs, data, information, and facilities already available in other Federal Government departments and agencies and, where appropriate, existing research organizations, centers, and universities.
   - **(2)** The Administrator shall provide liaison at an appropriate organizational level to assure coordination of the activities of the Administrator with Federal, State, and local government agencies and departments and nongovernmental organizations concerned with any matter related to programs of fire prevention and control.
   - **(3)** The Administrator shall provide liaison at an appropriate organizational level to assure coordination of the activities of the Administrator related to emergency medical services provided by fire service-based systems with Federal, State, and local government agencies and departments and nongovernmental organizations so concerned, as well as those entities concerned with emergency medical services generally.
+
+Definitions
+
+Administrator
+
+Educationally useful federal equipment
+
+School
+
+Sense of Congress.—
+
+In general
+
+Reports.—
+
+In general
+
+Contents of report
+
+## Source Credit
+
+*([Pub. L. 93–498, § 21](https://www.govinfo.gov/link/plaw/93/public/498), Oct. 29, 1974, [88 Stat. 1548](https://www.govinfo.gov/link/statute/88/1548); [Pub. L. 96–121, § 2](https://www.govinfo.gov/link/plaw/96/public/121), Nov. 16, 1979, [93 Stat. 863](https://www.govinfo.gov/link/statute/93/863); [Pub. L. 106–503, title I, § 110(a)(2)(B)(ix)](https://www.govinfo.gov/link/plaw/106/public/503), Nov. 13, 2000, [114 Stat. 2302](https://www.govinfo.gov/link/statute/114/2302); [Pub. L. 110–376, § 9(a)](https://www.govinfo.gov/link/plaw/110/public/376), Oct. 8, 2008, [122 Stat. 4061](https://www.govinfo.gov/link/statute/122/4061); [Pub. L. 112–239, div. A, title XVIII, § 1802(b)(1)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2100](https://www.govinfo.gov/link/statute/126/2100).)*

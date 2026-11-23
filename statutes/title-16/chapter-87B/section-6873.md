@@ -3,9 +3,10 @@ title: "Section 6873 - Data consolidation and publication"
 usc_title: 16
 usc_section: "6873"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6873"
-generated_at: "2026-03-30T02:54:23.070Z"
+generated_at: "2026-11-23T21:25:52.055Z"
+status: "active"
 ---
 
 # § 6873. Data consolidation and publication
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:54:23.070Z"
   - **(2)** the data described in subsection (c) in real time as changes go into effect.
 - **(f)** This section shall not apply to irrigation canals and flowage easements.
 - **(g)** Any geographic information system data made publicly available under this section shall not disclose information regarding the nature, location, character, or ownership of historic, paleontological, or archaeological resources, consistent with applicable law.
+
+## Source Credit
+
+*([Pub. L. 119–62, § 4](https://www.govinfo.gov/link/plaw/119/public/62), Dec. 26, 2025, [139 Stat. 1980](https://www.govinfo.gov/link/statute/139/1980).)*

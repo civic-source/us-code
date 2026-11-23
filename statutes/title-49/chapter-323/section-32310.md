@@ -3,9 +3,10 @@ title: "Section 32310 - New Car Assessment Program roadmap"
 usc_title: 49
 usc_section: "32310"
 chapter: 323
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 32310"
-generated_at: "2026-03-30T02:56:19.363Z"
+generated_at: "2026-11-23T21:26:40.801Z"
+status: "active"
 ---
 
 # § 32310. New Car Assessment Program roadmap
@@ -52,3 +53,17 @@ generated_at: "2026-03-30T02:56:19.363Z"
   - **(2)** to assist with long-term planning;
   - **(3)** to provide an interim update of the status and development of the following roadmap to be established under subsection (a); and
   - **(4)** to collect feedback or other information that the Secretary determines to be relevant to enhancing the New Car Assessment Program of the National Highway Traffic Safety Administration.
+
+Establishment
+
+Requirements
+
+Contents
+
+Considerations
+
+Stakeholder Engagement
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. B, title IV, § 24213(c)(1)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 827](https://www.govinfo.gov/link/statute/135/827).)*

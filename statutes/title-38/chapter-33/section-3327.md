@@ -3,9 +3,10 @@ title: "Section 3327 - Election to receive educational assistance"
 usc_title: 38
 usc_section: "3327"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3327"
-generated_at: "2026-03-30T02:55:53.504Z"
+generated_at: "2026-11-23T21:26:16.740Z"
+status: "active"
 ---
 
 # § 3327. Election to receive educational assistance
@@ -47,3 +48,57 @@ generated_at: "2026-03-30T02:55:53.504Z"
   - **(1)** In the case of an individual who, on or after January 1, 2017 , submits to the Secretary an election under this section that the Secretary determines is clearly against the interests of the individual, or who fails to make an election under this section, the Secretary may make an alternative election on behalf of the individual that the Secretary determines is in the best interests of the individual.
   - **(2)** If the Secretary makes an election on behalf of an individual under this subsection, the Secretary shall notify the individual by not later than seven days after making such election and shall provide the individual with a 30-day period, beginning on the date of the individual’s receipt of such notice, during which the individual may modify or revoke the election made by the Secretary on the individual’s behalf. The Secretary shall include, as part of such notice, a clear statement of why the alternative election made by the Secretary is in the best interests of the individual as compared to the election submitted by the individual. The Secretary shall provide the notice required under this paragraph by electronic means whenever possible.
 - **(i)** An election under subsection (a) or (c)(1) is irrevocable.
+
+Individuals Eligible To Elect Participation in Post-
+
+Educational Assistance
+
+Cessation of Contributions Toward GI Bill
+
+Revocation of Remaining Transferred Entitlement.—
+
+Election to revoke
+
+Availability of revoked entitlement
+
+Availability of unrevoked entitlement
+
+Post-
+
+Educational Assistance.—
+
+In general
+
+Limitation on entitlement for certain individuals
+
+Continuing Entitlement to Educational Assistance Not Available Under Post-
+
+Educational Assistance Program.—
+
+In general
+
+Charge for use of entitlement
+
+Additional Post-
+
+Assistance for Members Having Made Contributions Toward GI Bill.—
+
+Additional assistance
+
+Months of remaining entitlement for certain individuals
+
+Timing of payment
+
+Continuing Entitlement to Additional Assistance for Critical Skills or Specialty and Additional Service
+
+Alternative Election by Secretary.—
+
+In general
+
+Notice
+
+Irrevocability of Elections
+
+## Source Credit
+
+*(Added [Pub. L. 114–315, title IV, § 405(a)](https://www.govinfo.gov/link/plaw/114/public/315), Dec. 16, 2016, [130 Stat. 1555](https://www.govinfo.gov/link/statute/130/1555).)*

@@ -3,9 +3,10 @@ title: "Section 3722 - Regional innovation program"
 usc_title: 15
 usc_section: "3722"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3722"
-generated_at: "2026-03-30T02:54:08.194Z"
+generated_at: "2026-11-23T21:25:39.980Z"
+status: "active"
 ---
 
 # § 3722. Regional innovation program
@@ -83,3 +84,7 @@ generated_at: "2026-03-30T02:54:08.194Z"
     - **(D)** a recommendation as to whether the program should be continued or terminated.
 - **(g)** Not later than 5 years after the first grant is awarded under subsection (c), and every 5 years thereafter until 5 years after the last grant recipient completes the regional innovation initiative for which such grant was awarded, the Secretary shall submit a summary report to Congress that describes the outcome of each regional innovation initiative that was completed during the previous 5 years.
 - **(h)** From amounts appropriated by Congress to the Secretary, the Secretary may use up to $50,000,000 in each of the fiscal years 2020 through 2024 to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 96–480, § 27](https://www.govinfo.gov/link/plaw/96/public/480), as added [Pub. L. 111–358, title VI, § 603](https://www.govinfo.gov/link/plaw/111/public/358), Jan. 4, 2011, [124 Stat. 4030](https://www.govinfo.gov/link/statute/124/4030); amended [Pub. L. 113–235, div. B, title VII, § 705](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2230](https://www.govinfo.gov/link/statute/128/2230); [Pub. L. 116–92, div. A, title XVII, § 1742](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1837](https://www.govinfo.gov/link/statute/133/1837).)*

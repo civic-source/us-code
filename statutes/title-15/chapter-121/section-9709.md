@@ -3,9 +3,10 @@ title: "Section 9709 - National Weather Service hydrologic research fellowship p
 usc_title: 15
 usc_section: "9709"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9709"
-generated_at: "2026-03-30T02:54:08.250Z"
+generated_at: "2026-11-23T21:25:40.154Z"
+status: "active"
 ---
 
 # § 9709. National Weather Service hydrologic research fellowship program
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:54:08.250Z"
     - **(B)** successfully fulfilled the requirements of the fellowship within the executive branch of the Federal Government; and
     - **(C)** meets qualification standards established by the Office of Personnel Management.
   - **(2)** The direct hire authority provided by this subsection shall be exercised with respect to an individual described in paragraph (1) not later than 2 years after the date on which the individual completed the fellowship under the program.
+
+## Source Credit
+
+*([Pub. L. 117–316, § 14](https://www.govinfo.gov/link/plaw/117/public/316), Dec. 27, 2022, [136 Stat. 4415](https://www.govinfo.gov/link/statute/136/4415).)*

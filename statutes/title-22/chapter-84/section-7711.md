@@ -3,9 +3,10 @@ title: "Section 7711 - Disclosure"
 usc_title: 22
 usc_section: "7711"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7711"
-generated_at: "2026-03-30T02:55:05.445Z"
+generated_at: "2026-11-23T21:25:58.727Z"
+status: "active"
 ---
 
 # § 7711. Disclosure
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.445Z"
   - **(1)** by publishing it on the website of the Corporation;
   - **(2)** by providing notice of the availability of such information in the Federal Register; and
   - **(3)** by any other methods that the Board determines to be appropriate.
+
+## Source Credit
+
+*([Pub. L. 108–199, div. D, title VI, § 612](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 221](https://www.govinfo.gov/link/statute/118/221); [Pub. L. 115–167, title II, § 206](https://www.govinfo.gov/link/plaw/115/public/167), Apr. 23, 2018, [132 Stat. 1282](https://www.govinfo.gov/link/statute/132/1282).)*

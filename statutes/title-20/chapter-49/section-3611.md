@@ -3,9 +3,10 @@ title: "Section 3611 - Authorization of appropriations"
 usc_title: 20
 usc_section: "3611"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 3611"
-generated_at: "2026-03-30T02:54:48.180Z"
+generated_at: "2026-11-23T21:25:47.421Z"
+status: "active"
 ---
 
 # § 3611. Authorization of appropriations
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:48.180Z"
 - **(b)** Programs under this chapter shall be considered automatically eligible for the one-year contingent extension under section 1226a 1 1 See References in Text note below. of this title.
 - **(c)** If funds appropriated to carry out this chapter are insufficient to pay the total amount required to make all the grants and loans authorized under this chapter, the Secretary shall establish criteria to be used in determining which applicants for grants or loans under this chapter have the greatest financial need for receiving funds under this chapter and shall make determinations regarding the approval of applications for such grants or loans in accordance with such criteria.
 - **(d)** Notwithstanding any other provision of this chapter, the authority of the Secretary to enter into agreements, or to make payments, under this chapter shall be effective for any fiscal year only to the extent or in such amounts as are provided in appropriation Acts.
+
+## Source Credit
+
+*([Pub. L. 96–270, § 12](https://www.govinfo.gov/link/plaw/96/public/270), June 14, 1980, [94 Stat. 497](https://www.govinfo.gov/link/statute/94/497).)*

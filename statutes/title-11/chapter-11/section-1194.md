@@ -3,9 +3,10 @@ title: "Section 1194 - Payments"
 usc_title: 11
 usc_section: "1194"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1194"
-generated_at: "2026-03-30T02:53:53.886Z"
+generated_at: "2026-11-23T21:25:34.962Z"
+status: "active"
 ---
 
 # § 1194. Payments
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:53:53.886Z"
   - **(3)** any fee owing to the trustee.
 - **(b)** If a plan is confirmed under section 1191(b) of this title , except as otherwise provided in the plan or in the order confirming the plan, the trustee shall make payments to creditors under the plan.
 - **(c)** Prior to confirmation of a plan, the court, after notice and a hearing, may authorize the trustee to make payments to the holder of a secured claim for the purpose of providing adequate protection of an interest in property.
+
+Retention and Distribution by Trustee
+
+Other Plans
+
+Payments Prior to Confirmation
+
+## Source Credit
+
+*(Added [Pub. L. 116–54, § 2(a)](https://www.govinfo.gov/link/plaw/116/public/54), Aug. 23, 2019, [133 Stat. 1084](https://www.govinfo.gov/link/statute/133/1084).)*

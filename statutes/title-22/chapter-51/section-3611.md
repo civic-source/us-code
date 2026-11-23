@@ -3,12 +3,29 @@ title: "Section 3611 - Establishment, purposes, offices, and residence of Commis
 usc_title: 22
 usc_section: "3611"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3611"
-generated_at: "2026-03-30T02:55:05.394Z"
+generated_at: "2026-11-23T21:25:58.588Z"
+status: "active"
 ---
 
 # § 3611. Establishment, purposes, offices, and residence of Commission
 
 - **(a)** For the purposes of managing, operating, and maintaining the Panama Canal and its complementary works, installations and equipment, and of conducting operations incident thereto, in accordance with the Panama Canal Treaty of 1977 and related agreements, the Panama Canal Commission (hereinafter in this chapter referred to as the “Commission”) is established as a wholly owned government corporation (as that term is used in chapter 91 of title 31) within the executive branch of the Government of the United States. The authority of the President with respect to the Commission shall be exercised through the Secretary of Defense.
 - **(b)** The principal office of the Commission shall be located in the Republic of Panama in one of the areas made available for use of the United States under the Panama Canal Treaty of 1977 and related agreements, but the Commission may establish branch offices in such other places as it considers necessary or appropriate for the conduct of its business. Within the meaning of the laws of the United States relating to venue in civil actions, the Commission is an inhabitant and resident of the District of Columbia and the eastern judicial district of Louisiana.
+
+Report
+
+Preparation of Plan
+
+Plan To Be Consistent With Panama Canal Treaty
+
+Report
+
+Preparation of Report
+
+Report To Be Consistent With Panama Canal Treaty
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1101](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 456](https://www.govinfo.gov/link/statute/93/456); [Pub. L. 104–106, div. C, title XXXV, § 3522(a)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 638](https://www.govinfo.gov/link/statute/110/638).)*

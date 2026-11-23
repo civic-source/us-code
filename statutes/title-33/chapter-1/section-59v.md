@@ -3,9 +3,10 @@ title: "Section 59v - Middle River, Maryland"
 usc_title: 33
 usc_section: "59v"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 59v"
-generated_at: "2026-03-30T02:55:41.052Z"
+generated_at: "2026-11-23T21:26:11.285Z"
+status: "active"
 ---
 
 # § 59v. Middle River, Maryland
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:41.052Z"
 - **(b)** The line described in subsection (a) shall be established as a combined pierhead and bulkhead line of Dark Head Creek.
 - **(c)** Any project heretofore authorized by any Act of Congress, insofar as such project is within the boundaries of Dark Head Creek as described in subsection (a), is not authorized after November 17, 1986 .
 - **(d)** The right to alter, amend, or repeal this section is hereby expressly reserved.
+
+## Source Credit
+
+*([Pub. L. 99–662, title XI, § 1160](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4257](https://www.govinfo.gov/link/statute/100/4257).)*

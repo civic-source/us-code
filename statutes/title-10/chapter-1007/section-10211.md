@@ -3,12 +3,17 @@ title: "Section 10211 - Policies and regulations: participation of Reserve offic
 usc_title: 10
 usc_section: "10211"
 chapter: 1007
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 10211"
-generated_at: "2026-03-30T02:53:38.265Z"
+generated_at: "2026-11-23T21:25:33.024Z"
+status: "active"
 ---
 
 # § 10211. Policies and regulations: participation of Reserve officers in preparation and administration
 
 Within such numbers and in such grades and assignments as the Secretary concerned may prescribe, each armed force shall have officers of its reserve components on active duty (other than for training) at the seat of government, and at headquarters responsible for reserve affairs, to participate in preparing and administering the policies and regulations affecting those reserve components. While so serving, such an officer is an additional number of any staff with which he is serving.
 
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1661(a)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2978](https://www.govinfo.gov/link/statute/108/2978).)*

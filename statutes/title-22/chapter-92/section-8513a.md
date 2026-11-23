@@ -3,9 +3,10 @@ title: "Section 8513a - Imposition of sanctions with respect to the financial se
 usc_title: 22
 usc_section: "8513a"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8513a"
-generated_at: "2026-03-30T02:55:05.452Z"
+generated_at: "2026-11-23T21:25:58.741Z"
+status: "active"
 ---
 
 # § 8513a. Imposition of sanctions with respect to the financial sector of Iran
@@ -69,3 +70,17 @@ generated_at: "2026-03-30T02:55:05.452Z"
     - **(A)** a natural person who is a citizen or resident of the United States or a national of the United States (as defined in section 1101(a) of title 8 ); and
     - **(B)** an entity that is organized under the laws of the United States or a jurisdiction within the United States.
 - **(i)** The provisions of this section shall terminate on the date that is 30 days after the date on which the President submits to Congress the certification described in section 8551(a) of this title .
+
+(aa) in the Annex to the Missile Technology Control Regime Guidelines;
+
+(bb) in the Annex on Chemicals to the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction, done at Paris January 13, 1993 , and entered into force April 29, 1997 (commonly known as the “Chemical Weapons Convention”);
+
+(cc) in Part 1 or 2 of the Nuclear Suppliers Group Guidelines; or
+
+(dd) on a control list of the Wassenaar Arrangement on Export Controls for Conventional Arms and Dual-Use Goods and Technologies; or
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 112–81, div. A, title XII, § 1245](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1647](https://www.govinfo.gov/link/statute/125/1647); [Pub. L. 112–158, title V](https://www.govinfo.gov/link/plaw/112/public/158), §§ 503(a)(1), (b)(1), 504(a), Aug. 10, 2012, [126 Stat. 1260](https://www.govinfo.gov/link/statute/126/1260), 1261; [Pub. L. 112–239, div. A, title XII, § 1250](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2016](https://www.govinfo.gov/link/statute/126/2016); [Pub. L. 118–50, div. S, § 2](https://www.govinfo.gov/link/plaw/118/public/50), Apr. 24, 2024, [138 Stat. 1003](https://www.govinfo.gov/link/statute/138/1003).)*

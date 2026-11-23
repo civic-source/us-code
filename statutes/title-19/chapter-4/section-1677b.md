@@ -3,9 +3,10 @@ title: "Section 1677b - Normal value"
 usc_title: 19
 usc_section: "1677b"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1677b"
-generated_at: "2026-03-30T02:54:24.656Z"
+generated_at: "2026-11-23T21:25:42.754Z"
+status: "active"
 ---
 
 # § 1677b. Normal value
@@ -105,3 +106,7 @@ generated_at: "2026-03-30T02:54:24.656Z"
       - **(iii)** The adjustment for startup operations shall be made by substituting the unit production costs incurred with respect to the merchandise at the end of the startup period for the unit production costs incurred during the startup period. If the startup period extends beyond the period of the investigation or review under this subtitle, the administering authority shall use the most recent cost of production data that it reasonably can obtain, analyze, and verify without delaying the timely completion of the investigation or review. For purposes of this subparagraph, the startup period ends at the point at which the level of commercial production that is characteristic of the merchandise, producer, or industry concerned is achieved.
   - **(2)** A transaction directly or indirectly between affiliated persons may be disregarded if, in the case of any element of value required to be considered, the amount representing that element does not fairly reflect the amount usually reflected in sales of merchandise under consideration in the market under consideration. If a transaction is disregarded under the preceding sentence and no other transactions are available for consideration, the determination of the amount shall be based on the information available as to what the amount would have been if the transaction had occurred between persons who are not affiliated.
   - **(3)** If, in the case of a transaction between affiliated persons involving the production by one of such persons of a major input to the merchandise, the administering authority has reasonable grounds to believe or suspect that an amount represented as the value of such input is less than the cost of production of such input, then the administering authority may determine the value of the major input on the basis of the information available regarding such cost of production, if such cost is greater than the amount that would be determined for such input under paragraph (2).
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VII, § 773, as added [Pub. L. 96–39, title I, § 101](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 182](https://www.govinfo.gov/link/statute/93/182); amended [Pub. L. 98–573, title VI](https://www.govinfo.gov/link/plaw/98/public/573), §§ 615, 620(b), Oct. 30, 1984, [98 Stat. 3036](https://www.govinfo.gov/link/statute/98/3036), 3039; [Pub. L. 99–514, title XVIII, § 1886(a)(11)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2922](https://www.govinfo.gov/link/statute/100/2922); [Pub. L. 100–418, title I](https://www.govinfo.gov/link/plaw/100/public/418), §§ 1316(a), 1318, 1319, Aug. 23, 1988, [102 Stat. 1186](https://www.govinfo.gov/link/statute/102/1186), 1189; [Pub. L. 103–465, title II, § 224](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4878](https://www.govinfo.gov/link/statute/108/4878); [Pub. L. 114–27, title V](https://www.govinfo.gov/link/plaw/114/public/27), §§ 504(b), (c), 505, June 29, 2015, [129 Stat. 385](https://www.govinfo.gov/link/statute/129/385).)*

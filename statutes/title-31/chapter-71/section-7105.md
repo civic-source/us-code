@@ -3,9 +3,10 @@ title: "Section 7105 - Prescribing uniform technical and administrative provisio
 usc_title: 31
 usc_section: "7105"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 7105"
-generated_at: "2026-03-30T02:55:34.076Z"
+generated_at: "2026-11-23T21:26:10.652Z"
+status: "active"
 ---
 
 # § 7105. Prescribing uniform technical and administrative provisions
@@ -21,3 +22,28 @@ generated_at: "2026-03-30T02:55:34.076Z"
   - **(2)**
     - **(A)** the waiver is requested by the head of a unit of general government certifying jurisdiction over the public agencies concerned; or
     - **(B)** the State or local public agencies concerned agree to the waiver.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 7105(a) | 42:4255(a). | Dec. 5, 1974 , Pub. L. 93–510, § 6 , 88 Stat. 1606 . |
+| 7105(b) | 42:4255(b). |  |
+| 7105(c) | 42:4255(c). |  |
+
+
+Historical and Revision Notes
+
+7105(a)
+
+Dec. 5, 1974
+
+Pub. L. 93–510, § 6
+
+88 Stat. 1606
+
+7105(b)
+
+7105(c)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1037](https://www.govinfo.gov/link/statute/96/1037).)*

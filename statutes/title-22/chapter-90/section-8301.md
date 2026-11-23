@@ -3,9 +3,10 @@ title: "Section 8301 - Findings"
 usc_title: 22
 usc_section: "8301"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8301"
-generated_at: "2026-03-30T02:55:05.450Z"
+generated_at: "2026-11-23T21:25:58.736Z"
+status: "active"
 ---
 
 # § 8301. Findings
@@ -24,3 +25,23 @@ Congress makes the following findings:
     - **(D)** support for organizations that utilize skilled Americans as volunteers;
     - **(E)** participation in the development of special initiatives to further opportunities for skilled Americans; and
     - **(F)** leadership of an innovative public-private partnership to provide eligible skilled 1 1 So in original. Probably should be “eligible skilled professionals”. with financial assistance for volunteer assignments.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 111–13, title V, § 5101](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1597](https://www.govinfo.gov/link/statute/123/1597).)*

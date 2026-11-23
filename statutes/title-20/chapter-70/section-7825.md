@@ -3,9 +3,10 @@ title: "Section 7825 - Department staff"
 usc_title: 20
 usc_section: "7825"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7825"
-generated_at: "2026-03-30T02:54:48.219Z"
+generated_at: "2026-11-23T21:25:47.614Z"
+status: "active"
 ---
 
 # § 7825. Department staff
@@ -21,3 +22,7 @@ The Secretary shall—
     - **(C)** how the Secretary has reduced the number of full-time equivalent employees as described in paragraph (3);
     - **(D)** the average salary of the full-time equivalent employees described in subparagraph (B) whose positions were eliminated; and
     - **(E)** the average salary of the full-time equivalent employees who work on or administer a program or project authorized by the Department under this chapter, disaggregated by employee function within each such program or project.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VIII, § 8205](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title VIII, § 8008](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2101](https://www.govinfo.gov/link/statute/129/2101).)*

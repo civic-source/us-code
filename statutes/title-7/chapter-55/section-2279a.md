@@ -3,9 +3,10 @@ title: "Section 2279a - Fair and equitable treatment of socially disadvantaged p
 usc_title: 7
 usc_section: "2279a"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2279a"
-generated_at: "2026-03-30T02:53:42.384Z"
+generated_at: "2026-11-23T21:25:28.293Z"
+status: "active"
 ---
 
 # § 2279a. Fair and equitable treatment of socially disadvantaged producers
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.384Z"
     - **(B)** if such underrepresentation exists, whether it inhibits or interferes with the participation of socially disadvantaged producers in programs of the Department of Agriculture.
   - **(2)** Not later than February 1, 1995 , the Comptroller General shall submit the report required by this subsection to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 - **(d)** For purposes of this section, the term “socially disadvantaged producer” means a producer who is a member of a group whose members have been subjected to racial, ethnic, or gender prejudice because of their identity as members of a group without regard to their individual qualities.
+
+## Source Credit
+
+*([Pub. L. 103–354, title III, § 305](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3240](https://www.govinfo.gov/link/statute/108/3240).)*

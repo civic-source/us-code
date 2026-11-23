@@ -3,9 +3,10 @@ title: "Section 1430c - Housing goals"
 usc_title: 12
 usc_section: "1430c"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1430c"
-generated_at: "2026-03-30T02:53:53.391Z"
+generated_at: "2026-11-23T21:25:36.823Z"
+status: "active"
 ---
 
 # § 1430c. Housing goals
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.391Z"
 - **(c)** To facilitate an orderly transition, the Director shall establish interim target goals for purposes of this section for each of the 2 calendar years following July 30, 2008 .
 - **(d)** The requirements of section 4566 1 1 See References in Text note below. of this title, shall apply to this section, in the same manner and to the same extent as that section applies to the Federal housing enterprises.
 - **(e)** The Director shall annually report to Congress on the performance of the Banks in meeting the goals established under this section.
+
+## Source Credit
+
+*(July 22, 1932, ch. 522, § 10C, as added [Pub. L. 110–289, div. A, title II, § 1205](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2786](https://www.govinfo.gov/link/statute/122/2786).)*

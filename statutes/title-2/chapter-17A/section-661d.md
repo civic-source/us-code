@@ -3,9 +3,10 @@ title: "Section 661d - Authorizations"
 usc_title: 2
 usc_section: "661d"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 661d"
-generated_at: "2026-03-30T02:53:04.802Z"
+generated_at: "2026-11-23T21:25:21.183Z"
+status: "active"
 ---
 
 # § 661d. Authorizations
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:04.802Z"
 - **(e)** There are authorized to be appropriated to existing accounts such sums as may be necessary for salaries and expenses to carry out the responsibilities under this subchapter.
 - **(f)** Nothing in this subchapter shall be construed as authorizing or requiring the purchase of insurance or reinsurance on a direct loan or loan guarantee from private insurers. If any such reinsurance for a direct loan or loan guarantee is authorized, the cost of such insurance and any recoveries to the Government shall be included in the calculation of the cost.
 - **(g)** Nothing in this subchapter shall be construed to change the authority or the responsibility of a Federal agency to determine the terms and conditions of eligibility for, or the amount of assistance provided by a direct loan or a loan guarantee.
+
+## Source Credit
+
+*([Pub. L. 93–344, title V, § 505](https://www.govinfo.gov/link/plaw/93/public/344), as added [Pub. L. 101–508, title XIII, § 13201(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–613](https://www.govinfo.gov/link/statute/104/1388); amended [Pub. L. 105–33, title X, § 10117(c)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 694](https://www.govinfo.gov/link/statute/111/694); [Pub. L. 113–67, div. A, title I, § 122(15)](https://www.govinfo.gov/link/plaw/113/public/67), Dec. 26, 2013, [127 Stat. 1176](https://www.govinfo.gov/link/statute/127/1176).)*

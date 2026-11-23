@@ -3,9 +3,10 @@ title: "Section 109 - Standards"
 usc_title: 23
 usc_section: "109"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 109"
-generated_at: "2026-03-30T02:55:12.546Z"
+generated_at: "2026-11-23T21:25:53.860Z"
+status: "active"
 ---
 
 # § 109. Standards
@@ -71,3 +72,229 @@ generated_at: "2026-03-30T02:55:12.546Z"
     - **(A)** non-proprietary charging connectors that meet applicable industry safety standards; and
     - **(B)** open access to payment methods that are available to all members of the public to ensure secure, convenient, and equal access to the electric vehicle charging infrastructure that shall not be limited by membership to a particular payment provider.
   - **(2)** Notwithstanding any other provision of law, a project to install electric vehicle charging infrastructure using funds provided under this title shall be treated as if the project is located on a Federal-aid highway.
+
+In General
+
+Design Criteria for National Highway System.—
+
+In general
+
+Development of criteria
+
+Manual on Uniform Traffic Control Devices.—
+
+In general
+
+Updates
+
+Installation of Safety Devices.—
+
+Highway and railroad grade crossings and drawbridges
+
+Temporary traffic control devices
+
+Protection of Nonmotorized Transportation Traffic
+
+Compliance With State Laws for Non-NHS Projects.—
+
+In general
+
+Local jurisdictions
+
+Scenic and Historic Values
+
+Phase Construction
+
+Pavement Markings
+
+Electric Vehicle Charging Stations.—
+
+Standards
+
+Treatment of projects
+
+Design and Construction Standards for NHS
+
+Historic and Scenic Values
+
+“In carrying out the first update to the Manual on Uniform Traffic Control Devices under section 109(d)(2) of title 23 , United States Code, to the greatest extent practicable, the Secretary [of Transportation] shall include updates necessary to provide for—
+
+In General
+
+Continued Issuance of Eligibility Letters
+
+Report to Congress.—
+
+In general
+
+Inclusions
+
+Definitions
+
+Administrator
+
+Best management practices report
+
+Reissuance
+
+Updates
+
+“The first adjustment made pursuant to the amendments made by subsection (a) [amending section 1317 of Pub. L. 112–141 , set out under this section] shall—
+
+“Not later than 30 days after the date of enactment of this Act [ Dec. 4, 2015 ], the Secretary [of Transportation] shall revise section 771.117(g) of title 23, Code of Federal Regulations, to allow a programmatic agreement under this section [see section 1318(e) of Pub. L. 112–141 , set out under this section] to include responsibility for making categorical exclusion determinations—
+
+“Notwithstanding section 109( o ) of title 23, United States Code, a State may allow a local jurisdiction to use a roadway design publication that is different from the roadway design publication used by the State in which the local jurisdiction is located for the design of a project on a roadway under the ownership of the local jurisdiction (other than a highway on the Interstate System) if—
+
+In General
+
+Exemptions and Expedited Procedures.—
+
+Alternative arrangements
+
+Stormwater discharge permits
+
+Emergency procedures
+
+National historic preservation act exemption
+
+Endangered species act exemption
+
+Expedited consultation under endangered species act
+
+Other exemptions
+
+In General
+
+Report
+
+Best Practices
+
+In General
+
+Rulemaking.—
+
+In general
+
+Reasonable alternatives
+
+In General
+
+Definition of an Operational Right-of-way
+
+“Not later than 180 days after the date of enactment of this Act [see section 3(a), (b) of Pub. L. 112–141 , set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title ], the Secretary [of Transportation] shall—
+
+In General
+
+New Categorical Exclusions
+
+Additional Actions
+
+Programmatic Agreements.—
+
+In general
+
+Inclusions
+
+Determinations
+
+Programmatic Agreement Template.—
+
+In general
+
+Use of template
+
+Outcome measurements
+
+In General
+
+Applicability
+
+Study
+
+Required elements
+
+Report to congress
+
+Crash Cushions.—
+
+Guidance
+
+Use of guidance
+
+Traffic Flow and Safety Applications of Road Barriers.—
+
+Study
+
+Uses to consider
+
+Report
+
+Placement and modification of signs
+
+Other actions
+
+Definitions
+
+Highway
+
+Metric system
+
+General rule
+
+Exceptions
+
+Study
+
+Report
+
+Asphalt Pavement Containing Recycled Rubber Demonstration Program
+
+Studies.—
+
+In general
+
+Division of responsibilities
+
+Additional study
+
+Additional elements
+
+Report
+
+DOT Guidance.—
+
+Information gathering and distribution
+
+Encouragement of use
+
+Asphalt Pavement Containing Recycled Rubber.—
+
+Crumb rubber modifier research
+
+Crumb rubber modifier program development.—
+
+In general
+
+Use of grant funds
+
+Definitions
+
+Development
+
+More Stringent State Requirements
+
+Consistency With Other Programs
+
+Requirement for Innovative Barriers
+
+Certification
+
+Definition of Innovative Crashworthy Safety Barrier
+
+Initiation of Rulemaking Proceeding
+
+Final Rule
+
+## Source Credit
+
+*([Pub. L. 85–767](https://www.govinfo.gov/link/plaw/85/public/767), Aug. 27, 1958, [72 Stat. 894](https://www.govinfo.gov/link/statute/72/894); [Pub. L. 88–157, § 4](https://www.govinfo.gov/link/plaw/88/public/157), Oct. 24, 1963, [77 Stat. 277](https://www.govinfo.gov/link/statute/77/277); [Pub. L. 89–574](https://www.govinfo.gov/link/plaw/89/public/574), §§ 5(a), 14, Sept. 13, 1966, [80 Stat. 767](https://www.govinfo.gov/link/statute/80/767), 771; [Pub. L. 91–605, title I, § 136(a)](https://www.govinfo.gov/link/plaw/91/public/605), (b), Dec. 31, 1970, [84 Stat. 1734](https://www.govinfo.gov/link/statute/84/1734); [Pub. L. 93–87, title I](https://www.govinfo.gov/link/plaw/93/public/87), §§ 114, 152(2), 156, Aug. 13, 1973, [87 Stat. 257](https://www.govinfo.gov/link/statute/87/257), 276, 277; [Pub. L. 95–599, title I](https://www.govinfo.gov/link/plaw/95/public/599), §§ 113, 116(d), 141(f), (g), Nov. 6, 1978, [92 Stat. 2696](https://www.govinfo.gov/link/statute/92/2696), 2699, 2711; [Pub. L. 96–106, § 3](https://www.govinfo.gov/link/plaw/96/public/106), Nov. 9, 1979, [93 Stat. 797](https://www.govinfo.gov/link/statute/93/797); [Pub. L. 97–424, title I, § 110(a)](https://www.govinfo.gov/link/plaw/97/public/424), Jan. 6, 1983, [96 Stat. 2105](https://www.govinfo.gov/link/statute/96/2105); [Pub. L. 102–240, title I, § 1016(c)](https://www.govinfo.gov/link/plaw/102/public/240) –(f)(1), Dec. 18, 1991, [105 Stat. 1946](https://www.govinfo.gov/link/statute/105/1946); [Pub. L. 104–59, title III](https://www.govinfo.gov/link/plaw/104/public/59), §§ 304, 305(a), Nov. 28, 1995, [109 Stat. 579](https://www.govinfo.gov/link/statute/109/579), 580; [Pub. L. 105–178, title I](https://www.govinfo.gov/link/plaw/105/public/178), §§ 1202(c), 1212(a)(2)(A), 1306, June 9, 1998, [112 Stat. 169](https://www.govinfo.gov/link/statute/112/169), 193, 229; [Pub. L. 109–59, title I, § 1110(a)](https://www.govinfo.gov/link/plaw/109/public/59), (c), title VI, § 6008, Aug. 10, 2005, [119 Stat. 1170](https://www.govinfo.gov/link/statute/119/1170), 1171, 1874; [Pub. L. 112–141, div. A, title I](https://www.govinfo.gov/link/plaw/112/public/141), §§ 1504, 1519(c)(3), formerly § 1519(c)(4), July 6, 2012, [126 Stat. 564](https://www.govinfo.gov/link/statute/126/564), 575, renumbered § 1519(c)(3), [Pub. L. 114–94, div. A, title I, § 1446(d)(5)(B)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1438](https://www.govinfo.gov/link/statute/129/1438); [Pub. L. 114–94, div. A, title I, § 1404(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1409](https://www.govinfo.gov/link/statute/129/1409); [Pub. L. 117–58, div. A, title I](https://www.govinfo.gov/link/plaw/117/public/58), §§ 11123(d), 11129, Nov. 15, 2021, [135 Stat. 506](https://www.govinfo.gov/link/statute/135/506), 508.)*

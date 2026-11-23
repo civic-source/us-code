@@ -3,9 +3,10 @@ title: "Section 158 - Appeals"
 usc_title: 28
 usc_section: "158"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 158"
-generated_at: "2026-03-30T02:55:30.125Z"
+generated_at: "2026-11-23T21:26:01.030Z"
+status: "active"
 ---
 
 # § 158. Appeals
@@ -45,3 +46,19 @@ generated_at: "2026-03-30T02:55:30.125Z"
     - **(C)** The parties may supplement the certification with a short statement of the basis for the certification.
     - **(D)** An appeal under this paragraph does not stay any proceeding of the bankruptcy court, the district court, or the bankruptcy appellate panel from which the appeal is taken, unless the respective bankruptcy court, district court, or bankruptcy appellate panel, or the court of appeals in which the appeal is pending, issues a stay of such proceeding pending the appeal.
     - **(E)** Any request under subparagraph (B) for certification shall be made not later than 60 days after the entry of the judgment, order, or decree.
+
+Temporary application
+
+Certification
+
+Procedure
+
+Filing of petition with attachment
+
+References in rule
+
+Application of rules
+
+## Source Credit
+
+*(Added [Pub. L. 98–353, title I, § 104(a)](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 341](https://www.govinfo.gov/link/statute/98/341); amended [Pub. L. 101–650, title III, § 305](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5105](https://www.govinfo.gov/link/statute/104/5105); [Pub. L. 103–394, title I](https://www.govinfo.gov/link/plaw/103/public/394), §§ 102, 104(c), (d), Oct. 22, 1994, [108 Stat. 4108–4110](https://www.govinfo.gov/link/statute/108/4108); [Pub. L. 109–8, title XII, § 1233(a)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 202](https://www.govinfo.gov/link/statute/119/202); [Pub. L. 111–327, § 2(c)(1)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3562](https://www.govinfo.gov/link/statute/124/3562).)*

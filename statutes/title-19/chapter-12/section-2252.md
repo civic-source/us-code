@@ -3,9 +3,10 @@ title: "Section 2252 - Investigations, determinations, and recommendations by Co
 usc_title: 19
 usc_section: "2252"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2252"
-generated_at: "2026-03-30T02:54:24.667Z"
+generated_at: "2026-11-23T21:25:42.780Z"
+status: "active"
 ---
 
 # § 2252. Investigations, determinations, and recommendations by Commission
@@ -158,3 +159,11 @@ generated_at: "2026-03-30T02:54:24.667Z"
       - **(i)** The term “Textiles Agreement” means the Agreement on Textiles and Clothing referred to in section 3511(d)(4) of this title .
       - **(ii)** The term “GATT 1994” has the meaning given that term in section 3501(1)(B) of this title .
 - **(i)** The Commission shall promulgate regulations to provide access to confidential business information under protective order to authorized representatives of interested parties who are parties to an investigation under this section.
+
+In General
+
+Section
+
+## Source Credit
+
+*([Pub. L. 93–618, title II, § 202](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 2014](https://www.govinfo.gov/link/statute/88/2014); [Pub. L. 100–418, title I, § 1401(a)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1225](https://www.govinfo.gov/link/statute/102/1225); [Pub. L. 103–182, title III](https://www.govinfo.gov/link/plaw/103/public/182), §§ 315, 317(b), Dec. 8, 1993, [107 Stat. 2107](https://www.govinfo.gov/link/statute/107/2107), 2108; [Pub. L. 103–465, title III](https://www.govinfo.gov/link/plaw/103/public/465), §§ 301(a)–(d)(2), (4), (e), (f), 302(b)(4)(B), 303(1)–(6), Dec. 8, 1994, [108 Stat. 4932–4934](https://www.govinfo.gov/link/statute/108/4932), 4936, 4937; [Pub. L. 104–295, § 20(c)(5)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3528](https://www.govinfo.gov/link/statute/110/3528); [Pub. L. 107–43, title II, § 222](https://www.govinfo.gov/link/plaw/107/public/43), Sept. 28, 2001, [115 Stat. 250](https://www.govinfo.gov/link/statute/115/250); [Pub. L. 108–77, title III, § 316](https://www.govinfo.gov/link/plaw/108/public/77), Sept. 3, 2003, [117 Stat. 937](https://www.govinfo.gov/link/statute/117/937); [Pub. L. 108–78, title III, § 316](https://www.govinfo.gov/link/plaw/108/public/78), Sept. 3, 2003, [117 Stat. 967](https://www.govinfo.gov/link/statute/117/967); [Pub. L. 108–286, title III, § 316](https://www.govinfo.gov/link/plaw/108/public/286), Aug. 3, 2004, [118 Stat. 945](https://www.govinfo.gov/link/statute/118/945); [Pub. L. 108–302, title III, § 316](https://www.govinfo.gov/link/plaw/108/public/302), Aug. 17, 2004, [118 Stat. 1120](https://www.govinfo.gov/link/statute/118/1120); [Pub. L. 109–53, title III, § 316](https://www.govinfo.gov/link/plaw/109/public/53), Aug. 2, 2005, [119 Stat. 492](https://www.govinfo.gov/link/statute/119/492); [Pub. L. 109–169, title III, § 316](https://www.govinfo.gov/link/plaw/109/public/169), Jan. 11, 2006, [119 Stat. 3597](https://www.govinfo.gov/link/statute/119/3597); [Pub. L. 109–283, title III, § 316](https://www.govinfo.gov/link/plaw/109/public/283), Sept. 26, 2006, [120 Stat. 1207](https://www.govinfo.gov/link/statute/120/1207); [Pub. L. 110–138, title III, § 316](https://www.govinfo.gov/link/plaw/110/public/138), Dec. 14, 2007, [121 Stat. 1483](https://www.govinfo.gov/link/statute/121/1483); [Pub. L. 112–41, title III, § 316](https://www.govinfo.gov/link/plaw/112/public/41), Oct. 21, 2011, [125 Stat. 456](https://www.govinfo.gov/link/statute/125/456); [Pub. L. 112–42, title III, § 316](https://www.govinfo.gov/link/plaw/112/public/42), Oct. 21, 2011, [125 Stat. 491](https://www.govinfo.gov/link/statute/125/491); [Pub. L. 112–43, title III, § 316](https://www.govinfo.gov/link/plaw/112/public/43), Oct. 21, 2011, [125 Stat. 527](https://www.govinfo.gov/link/statute/125/527); [Pub. L. 116–113, title III, § 325](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 60](https://www.govinfo.gov/link/statute/134/60).)*

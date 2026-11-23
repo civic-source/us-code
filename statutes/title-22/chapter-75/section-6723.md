@@ -3,9 +3,10 @@ title: "Section 6723 - Authority to conduct inspections"
 usc_title: 22
 usc_section: "6723"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6723"
-generated_at: "2026-03-30T02:55:05.432Z"
+generated_at: "2026-11-23T21:25:58.695Z"
+status: "active"
 ---
 
 # § 6723. Authority to conduct inspections
@@ -24,3 +25,11 @@ generated_at: "2026-03-30T02:55:05.432Z"
       - **(iii)** the participation of such individual as a member of an inspection team would pose a risk to the national security or economic well-being of the United States.
     - **(B)** Any objection by the President to an individual serving as an inspector, whether made pursuant to this section or otherwise, shall not be reviewable in any court.
 - **(c)** The requirement under subsection (b)(2)(A) shall not apply to inspections of United States chemical weapons destruction facilities (as used within the meaning of part IV(C)(13) of the Verification Annex to the Convention).
+
+Reimbursement
+
+Report
+
+## Source Credit
+
+*([Pub. L. 105–277, div. I, title III, § 303](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–873](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–280, title III, § 305](https://www.govinfo.gov/link/plaw/106/public/280), Oct. 6, 2000, [114 Stat. 854](https://www.govinfo.gov/link/statute/114/854); [Pub. L. 107–107, div. A, title XII, § 1204(a)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1247](https://www.govinfo.gov/link/statute/115/1247).)*

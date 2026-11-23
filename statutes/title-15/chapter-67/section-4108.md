@@ -3,9 +3,10 @@ title: "Section 4108 - Arctic research plan"
 usc_title: 15
 usc_section: "4108"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4108"
-generated_at: "2026-03-30T02:54:08.198Z"
+generated_at: "2026-11-23T21:25:39.988Z"
+status: "active"
 ---
 
 # § 4108. Arctic research plan
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.198Z"
   - **(3)** a detailed listing of all existing Federal programs relating to Arctic research, including the existing goals, funding levels for each of the 5 following fiscal years, and the funds currently being expended to conduct the programs;
   - **(4)** recommendations for necessary program changes and other proposals to meet the requirements of the policy and goals as set forth by the Commission and in the Plan as currently in effect; and
   - **(5)** a description of the actions taken by the Interagency Committee to coordinate the budget review process in order to ensure interagency coordination and cooperation in (A) carrying out Federal Arctic research programs, and (B) eliminating unnecessary duplication of effort among these programs.
+
+## Source Credit
+
+*([Pub. L. 98–373, title I, § 109](https://www.govinfo.gov/link/plaw/98/public/373), July 31, 1984, [98 Stat. 1247](https://www.govinfo.gov/link/statute/98/1247).)*

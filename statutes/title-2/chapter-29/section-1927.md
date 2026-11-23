@@ -3,9 +3,10 @@ title: "Section 1927 - Bonuses, retention allowances, and additional compensatio
 usc_title: 2
 usc_section: "1927"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1927"
-generated_at: "2026-03-30T02:53:04.820Z"
+generated_at: "2026-11-23T21:25:21.259Z"
+status: "active"
 ---
 
 # § 1927. Bonuses, retention allowances, and additional compensation
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:04.820Z"
   - **(1)** The payment of bonuses, allowances, step increases, compensation, and other payments pursuant to this section shall be carried out in accordance with regulations prescribed by the Board.
   - **(2)**
 - **(f)** This section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 107–117, div. B, § 909](https://www.govinfo.gov/link/plaw/107/public/117), Jan. 10, 2002, [115 Stat. 2320](https://www.govinfo.gov/link/statute/115/2320); [Pub. L. 108–7, div. H, title I](https://www.govinfo.gov/link/plaw/108/public/7), §§ 1004, 1006, Feb. 20, 2003, [117 Stat. 358](https://www.govinfo.gov/link/statute/117/358).)*

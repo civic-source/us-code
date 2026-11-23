@@ -3,9 +3,10 @@ title: "Section 472 - Office of Technology Assessment"
 usc_title: 2
 usc_section: "472"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 472"
-generated_at: "2026-03-30T02:53:04.797Z"
+generated_at: "2026-11-23T21:25:21.163Z"
+status: "active"
 ---
 
 # § 472. Office of Technology Assessment
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:04.797Z"
 - **(e)** Assessments made by the Office, including information, surveys, studies, reports, and findings related thereto, shall be made available to the initiating committee or other appropriate committees of the Congress. In addition, any such information, surveys, studies, reports, and findings produced by the Office may be made available to the public except where—
   - **(1)** to do so would violate security statutes; or
   - **(2)** the Board considers it necessary or advisable to withhold such information in accordance with one or more of the numbered paragraphs in section 552(b) of title 5 .
+
+## Source Credit
+
+*([Pub. L. 92–484, § 3](https://www.govinfo.gov/link/plaw/92/public/484), Oct. 13, 1972, [86 Stat. 797](https://www.govinfo.gov/link/statute/86/797).)*

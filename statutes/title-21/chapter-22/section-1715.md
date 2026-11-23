@@ -3,9 +3,10 @@ title: "Section 1715 - GAO audit"
 usc_title: 21
 usc_section: "1715"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 1715"
-generated_at: "2026-03-30T02:54:54.307Z"
+generated_at: "2026-11-23T21:25:56.293Z"
+status: "active"
 ---
 
 # § 1715. GAO audit
@@ -22,3 +23,7 @@ Not later than 4 years after October 24, 2018 , and every 4 years thereafter, th
     - **(A)** policies and activities of the programs and operations subject to the audit;
     - **(B)** economy, efficiency, and effectiveness in the administration of the reviewed programs and operations; and
     - **(C)** policy or management changes needed to prevent and detect fraud and abuse in such programs and operations.
+
+## Source Credit
+
+*([Pub. L. 115–271, title VIII, § 8220](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 4134](https://www.govinfo.gov/link/statute/132/4134).)*

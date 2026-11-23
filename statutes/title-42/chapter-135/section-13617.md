@@ -3,12 +3,17 @@ title: "Section 13617 - Treatment of covered section 8 housing not subject to el
 usc_title: 42
 usc_section: "13617"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13617"
-generated_at: "2026-03-30T02:56:11.449Z"
+generated_at: "2026-11-23T21:26:33.622Z"
+status: "active"
 ---
 
 # § 13617. Treatment of covered section 8 housing not subject to elderly preference
 
 If an owner of any covered section 8 housing project designed primarily for occupancy by elderly families does not give preference in occupancy to elderly families as authorized in this subchapter, then elderly families (as such term was defined in section 1437a of this title before October 28, 1992 ) shall be eligible for occupancy in such housing to the same extent that such families were eligible before October 28, 1992 .
 
+
+## Source Credit
+
+*([Pub. L. 102–550, title VI, § 657](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3825](https://www.govinfo.gov/link/statute/106/3825).)*

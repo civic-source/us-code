@@ -3,9 +3,10 @@ title: "Section 7422 - Grants to local educational agencies and tribes"
 usc_title: 20
 usc_section: "7422"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7422"
-generated_at: "2026-03-30T02:54:48.210Z"
+generated_at: "2026-11-23T21:25:47.579Z"
+status: "active"
 ---
 
 # § 7422. Grants to local educational agencies and tribes
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:48.210Z"
     - **(B)** assists in the social, cultural, and educational development of Indians in such community;
     - **(C)** meets the unique cultural, language, and academic needs of Indian students; and
     - **(D)** demonstrates organizational and administrative capacity to manage the grant.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VI, § 6112](https://www.govinfo.gov/link/plaw/89/public/10), formerly title VII, § 7112, as added [Pub. L. 107–110, title VII, § 701](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1908](https://www.govinfo.gov/link/statute/115/1908); renumbered title VI, § 6112, and amended [Pub. L. 114–95, title VI](https://www.govinfo.gov/link/plaw/114/public/95), §§ 6001(a), (b)(1), (2), 6002(d), Dec. 10, 2015, [129 Stat. 2046](https://www.govinfo.gov/link/statute/129/2046), 2048.)*

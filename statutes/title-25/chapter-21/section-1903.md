@@ -3,9 +3,10 @@ title: "Section 1903 - Definitions"
 usc_title: 25
 usc_section: "1903"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1903"
-generated_at: "2026-03-30T02:54:52.830Z"
+generated_at: "2026-11-23T21:25:54.645Z"
+status: "active"
 ---
 
 # § 1903. Definitions
@@ -28,3 +29,7 @@ For the purposes of this chapter, except as may be specifically provided otherwi
   - **(10)** “reservation” means Indian country as defined in section 1151 of title 18 and any lands, not covered under such section, title to which is either held by the United States in trust for the benefit of any Indian tribe or individual or held by any Indian tribe or individual subject to a restriction by the United States against alienation;
   - **(11)** “Secretary” means the Secretary of the Interior; and
   - **(12)** “tribal court” means a court with jurisdiction over child custody proceedings and which is either a Court of Indian Offenses, a court established and operated under the code or custom of an Indian tribe, or any other administrative body of a tribe which is vested with authority over child custody proceedings.
+
+## Source Credit
+
+*([Pub. L. 95–608, § 4](https://www.govinfo.gov/link/plaw/95/public/608), Nov. 8, 1978, [92 Stat. 3069](https://www.govinfo.gov/link/statute/92/3069).)*

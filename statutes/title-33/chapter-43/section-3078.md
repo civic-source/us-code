@@ -3,9 +3,10 @@ title: "Section 3078 - Interest payment program"
 usc_title: 33
 usc_section: "3078"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3078"
-generated_at: "2026-03-30T02:55:41.137Z"
+generated_at: "2026-11-23T21:26:11.478Z"
+status: "active"
 ---
 
 # § 3078. Interest payment program
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:41.137Z"
     - **(A)** for the funds necessary to pay interest and special allowances on student loans under this section (in accordance with sections 428( o ), 455( l ), and 464(j) of the Higher Education Act of 1965 ( 20 U.S.C. 1078 ( o ), 1087e( l ), and 1087dd(j)); 1 1 So in original. The semicolon probably should be preceded by a third closing parenthesis. and
     - **(B)** for any reasonable administrative costs incurred by the Secretary of Education in coordinating the program under this section with the administration of the student loan programs under parts B, D, and E of title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1071 et seq., 1087a et seq., 1087aa et seq.).
 - **(f)** In this section, the term ‘special allowance’ means a special allowance that is payable under section 438 of the Higher Education Act of 1965 ( 20 U.S.C. 1087–1 ).
+
+## Source Credit
+
+*([Pub. L. 107–372, title II, § 268](https://www.govinfo.gov/link/plaw/107/public/372), as added [Pub. L. 116–259, title II, § 202(a)](https://www.govinfo.gov/link/plaw/116/public/259), Dec. 23, 2020, [134 Stat. 1162](https://www.govinfo.gov/link/statute/134/1162).)*

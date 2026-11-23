@@ -3,9 +3,10 @@ title: "Section 1754 - Digital discrimination"
 usc_title: 47
 usc_section: "1754"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1754"
-generated_at: "2026-03-30T02:56:24.543Z"
+generated_at: "2026-11-23T21:26:36.133Z"
+status: "active"
 ---
 
 # § 1754. Digital discrimination
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:24.543Z"
   - **(3)** other factors the Commission determines to be relevant based on the findings in the record developed from the rulemaking under subsection (b).
 - **(d)** The Commission shall develop model policies and best practices that can be adopted by States and localities to ensure that broadband internet access service providers do not engage in digital discrimination.
 - **(e)** The Commission shall revise its public complaint process to accept complaints from consumers or other members of the public that relate to digital discrimination.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. F, title V, § 60506](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1245](https://www.govinfo.gov/link/statute/135/1245).)*

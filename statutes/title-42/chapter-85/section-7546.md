@@ -3,9 +3,10 @@ title: "Section 7546 - Renewable fuel"
 usc_title: 42
 usc_section: "7546"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7546"
-generated_at: "2026-03-30T02:56:11.315Z"
+generated_at: "2026-11-23T21:26:33.124Z"
+status: "active"
 ---
 
 # § 7546. Renewable fuel
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:56:11.315Z"
   - **(3)** There is authorized to be appropriated to carry out this subsection—
     - **(A)** $250,000,000 for fiscal year 2006; and
     - **(B)** $400,000,000 for fiscal year 2007.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title II, § 212, as added [Pub. L. 109–58, title XV, § 1511](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1086](https://www.govinfo.gov/link/statute/119/1086).)*

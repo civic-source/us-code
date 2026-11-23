@@ -3,9 +3,10 @@ title: "Section 44938 - Reports"
 usc_title: 49
 usc_section: "44938"
 chapter: 449
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44938"
-generated_at: "2026-03-30T02:56:19.395Z"
+generated_at: "2026-11-23T21:26:40.935Z"
+status: "active"
 ---
 
 # § 44938. Reports
@@ -27,3 +28,81 @@ generated_at: "2026-03-30T02:56:19.395Z"
   - **(3)** that includes an assessment of the steps being taken, and the progress being made, in ensuring compliance with section 44906 of this title for each foreign air carrier security program at airports outside the United States—
     - **(A)** at which the Administrator of the Transportation Security Administration decides that Foreign Security Liaison Officers are necessary for air transportation security; and
     - **(B)** for which extraordinary security measures are in place.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44938(a) | 49 App.:1356(b). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 315(b); added Nov. 16, 1990 , Pub. L. 101–604, § 102(a) , 104 Stat. 3068 . |
+| 44938(b)(1), (2) | 49 App.:1356(a) (3d sentence 1st–18th words, last sentence). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 315(a) (3d sentence 1st–18th words, last sentence); added Aug. 5, 1974 , Pub. L. 93–366, § 202 , 88 Stat. 415 ; Aug. 8, 1985 , Pub. L. 99–83, § 551(b)(1) , 99 Stat. 225 ; Nov. 16, 1990 , Pub. L. 101–604, § 102(b) , 104 Stat. 3069 . |
+| 44938(b)(3) | 49 App.:1357(k)(4). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 316(k)(4); added Nov. 16, 1990 , Pub. L. 101–604, § 105(a) , 104 Stat. 3074 . |
+| 44938(c) | 49 App.:1357 (note). | Nov. 16, 1990 , Pub. L. 101–604, § 106(d) , 104 Stat. 3075 . |
+
+
+Transportation Security
+
+Screening and Foreign Air Carrier and Airport Security
+
+Historical and Revision Notes
+
+44938(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Nov. 16, 1990
+
+Pub. L. 101–604, § 102(a)
+
+104 Stat. 3068
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Aug. 5, 1974
+
+Pub. L. 93–366, § 202
+
+88 Stat. 415
+
+Aug. 8, 1985
+
+Pub. L. 99–83, § 551(b)(1)
+
+99 Stat. 225
+
+Nov. 16, 1990
+
+Pub. L. 101–604, § 102(b)
+
+104 Stat. 3069
+
+44938(b)(3)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Nov. 16, 1990
+
+Pub. L. 101–604, § 105(a)
+
+104 Stat. 3074
+
+44938(c)
+
+Nov. 16, 1990
+
+Pub. L. 101–604, § 106(d)
+
+104 Stat. 3075
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1220](https://www.govinfo.gov/link/statute/108/1220); [Pub. L. 103–305, title V, § 502](https://www.govinfo.gov/link/plaw/103/public/305), Aug. 23, 1994, [108 Stat. 1595](https://www.govinfo.gov/link/statute/108/1595); [Pub. L. 105–362, title XV, § 1502(b)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3295](https://www.govinfo.gov/link/statute/112/3295); [Pub. L. 107–71, title I, § 101(f)(7)](https://www.govinfo.gov/link/plaw/107/public/71), (9), Nov. 19, 2001, [115 Stat. 603](https://www.govinfo.gov/link/statute/115/603); [Pub. L. 115–254, div. K, title I, § 1991(d)(29)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3639](https://www.govinfo.gov/link/statute/132/3639).)*

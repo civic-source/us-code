@@ -3,9 +3,10 @@ title: "Section 1a - Assistance for troubled multifamily housing projects"
 usc_title: 12
 usc_section: "1a"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1a"
-generated_at: "2026-03-30T02:53:53.420Z"
+generated_at: "2026-11-23T21:25:36.895Z"
+status: "active"
 ---
 
 # § 1715z–1a. Assistance for troubled multifamily housing projects
@@ -98,3 +99,61 @@ generated_at: "2026-03-30T02:53:53.420Z"
     - **(B)** the extent to which there is evidence that the project owner has provided competent management and complied with all regulatory and administrative requirements.
 - **(o)** The Secretary shall coordinate the allocation of assistance under this section with assistance made available under section 8(v) of the United States Housing Act of 1937 [ 42 U.S.C. 1437f(v) ] and section 1701z–11 of this title to enhance the cost effectiveness of the Federal response to troubled multifamily housing.
 - **(p)** Notwithstanding any other provision of law, any project that receives or has received assistance under this section and which is the subject of a transaction under which the project is preserved as affordable housing, as determined by the Secretary, shall be considered eligible low-income housing under section 229 of the Low-Income Housing Preservation and Resident Homeownership Act of 1990 ( 12 U.S.C. 4119 ) for purposes of eligibility of residents of such project for enhanced voucher assistance provided under section 8(t) of the United States Housing Act of 1937 ( 42 U.S.C. 1437f(t) ) (pursuant to section 223(f) of the Low-Income Housing Preservation and Resident Homeownership Act of 1990 ( 12 U.S.C. 4113(f) )).
+
+In general
+
+Exception
+
+Notice
+
+In general
+
+Displacement protection
+
+Implementation
+
+Covered multifamily housing property
+
+Covered multifamily housing property for the elderly
+
+Secretary
+
+In General
+
+Timing
+
+In General
+
+Projects for the Elderly
+
+Form
+
+Resident Review
+
+State Housing Finance Agency Review
+
+Review.—
+
+In general
+
+Incomplete or inadequate assessments
+
+Cost of Preparation of Strategy
+
+Publication of Method for Receiving Capital Needs Assessment
+
+Annual Review and Report of Funding and Targeting for Covered Multifamily Properties for the Elderly.—
+
+Review
+
+Report
+
+Allocation of Assistance
+
+Operating Assistance and Capital Improvement Assistance
+
+Amount of Assistance
+
+## Source Credit
+
+*([Pub. L. 95–557, title II, § 201](https://www.govinfo.gov/link/plaw/95/public/557), Oct. 31, 1978, [92 Stat. 2084](https://www.govinfo.gov/link/statute/92/2084); [Pub. L. 96–153, title II](https://www.govinfo.gov/link/plaw/96/public/153), §§ 205(a), 211(c), Dec. 21, 1979, [93 Stat. 1108](https://www.govinfo.gov/link/statute/93/1108), 1110; [Pub. L. 96–399, title II, § 204(a)](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1629](https://www.govinfo.gov/link/statute/94/1629); [Pub. L. 97–35, title III](https://www.govinfo.gov/link/plaw/97/public/35), §§ 321(f)(1), (2), 329C, Aug. 13, 1981, [95 Stat. 399](https://www.govinfo.gov/link/statute/95/399), 400, 409; [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title II, § 217(a), (b)], Nov. 30, 1983, [97 Stat. 1186](https://www.govinfo.gov/link/statute/97/1186); [Pub. L. 98–479, title II, § 204(n)(1)](https://www.govinfo.gov/link/plaw/98/public/479), (2), Oct. 17, 1984, [98 Stat. 2234](https://www.govinfo.gov/link/statute/98/2234); [Pub. L. 100–242, title I](https://www.govinfo.gov/link/plaw/100/public/242), §§ 185, 186(b), Feb. 5, 1988, [101 Stat. 1873](https://www.govinfo.gov/link/statute/101/1873), 1877; [Pub. L. 100–628, title X, § 1011(a)](https://www.govinfo.gov/link/plaw/100/public/628), Nov. 7, 1988, [102 Stat. 3268](https://www.govinfo.gov/link/statute/102/3268); [Pub. L. 101–235, title I, § 109(c)](https://www.govinfo.gov/link/plaw/101/public/235), title II, § 203(a)(2), Dec. 15, 1989, [103 Stat. 2011](https://www.govinfo.gov/link/statute/103/2011), 2037; [Pub. L. 101–625, title V, § 578(b)](https://www.govinfo.gov/link/plaw/101/public/625), (c), Nov. 28, 1990, [104 Stat. 4244](https://www.govinfo.gov/link/statute/104/4244), 4245; [Pub. L. 102–550, title IV](https://www.govinfo.gov/link/plaw/102/public/550), §§ 405, 406, 408(a), Oct. 28, 1992, [106 Stat. 3776](https://www.govinfo.gov/link/statute/106/3776), 3778; [Pub. L. 103–233, title I, § 103(b)](https://www.govinfo.gov/link/plaw/103/public/233), Apr. 11, 1994, [108 Stat. 359](https://www.govinfo.gov/link/statute/108/359); [Pub. L. 105–276, title V, § 550(g)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2610](https://www.govinfo.gov/link/statute/112/2610); [Pub. L. 106–74, title V, § 536](https://www.govinfo.gov/link/plaw/106/public/74), Oct. 20, 1999, [113 Stat. 1121](https://www.govinfo.gov/link/statute/113/1121).)*

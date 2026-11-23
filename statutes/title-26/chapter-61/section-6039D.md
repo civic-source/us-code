@@ -3,9 +3,10 @@ title: "Section 6039D - Returns and records with respect to certain fringe benef
 usc_title: 26
 usc_section: "6039D"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6039D"
-generated_at: "2026-03-30T02:55:27.831Z"
+generated_at: "2026-11-23T21:26:06.766Z"
+status: "active"
 ---
 
 # § 6039D. Returns and records with respect to certain fringe benefit plans
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:27.831Z"
   - **(1)** The term “specified fringe benefit plan” means any plan under section 79, 105, 106, 125, 127, 129, or 137.
   - **(2)** The term “applicable exclusion” means, with respect to any specified fringe benefit plan, the section specified under paragraph (1) under which benefits under such plan are excludable from gross income.
   - **(3)** In the case of a multiemployer plan, the plan shall be required to provide any information required by this section which the Secretary determines, on the basis of the agreement between the plan and employer, is held by the plan (and not the employer).
+
+## Source Credit
+
+*(Added [Pub. L. 98–611, § 1(d)(1)](https://www.govinfo.gov/link/plaw/98/public/611), Oct. 31, 1984, [98 Stat. 3176](https://www.govinfo.gov/link/statute/98/3176); amended [Pub. L. 99–514, title XI, § 1151(h)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1879(d)(1), Oct. 22, 1986, [100 Stat. 2507](https://www.govinfo.gov/link/statute/100/2507), 2906; [Pub. L. 100–647, title I, § 1011B(a)(24)](https://www.govinfo.gov/link/plaw/100/public/647), title III, § 3021(a)(15)(A), Nov. 10, 1988, [102 Stat. 3486](https://www.govinfo.gov/link/statute/102/3486), 3631; [Pub. L. 101–508, title XI, § 11704(a)(24)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–519](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 105–34, title XVI, § 1601(h)(2)(D)(iii)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1092](https://www.govinfo.gov/link/statute/111/1092); [Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(vii)](https://www.govinfo.gov/link/plaw/113/public/295), (108), Dec. 19, 2014, [128 Stat. 4040](https://www.govinfo.gov/link/statute/128/4040), 4053.)*

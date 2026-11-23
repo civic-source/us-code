@@ -3,9 +3,10 @@ title: "Section 1322a - Multiemployer plan benefits guaranteed"
 usc_title: 29
 usc_section: "1322a"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1322a"
-generated_at: "2026-03-30T02:55:18.731Z"
+generated_at: "2026-11-23T21:26:02.286Z"
+status: "active"
 ---
 
 # § 1322a. Multiemployer plan benefits guaranteed
@@ -92,3 +93,7 @@ generated_at: "2026-03-30T02:55:18.731Z"
   - **(3)** This subsection does not apply with respect to a plan for plan years following a plan year—
     - **(A)** in which the plan has terminated within the meaning of section 1341a(a)(2) of this title , or
     - **(B)** in which it is determined by the corporation that substantially all the employers have withdrawn from the plan pursuant to an agreement or arrangement to withdraw.
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4022A](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 96–364, title I, § 102](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1210](https://www.govinfo.gov/link/statute/94/1210); amended [Pub. L. 99–272, title XI, § 11005(c)(4)](https://www.govinfo.gov/link/plaw/99/public/272) –(12), Apr. 7, 1986, [100 Stat. 242](https://www.govinfo.gov/link/statute/100/242); [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7891(a)(1), 7893(b), 7894(g)(3)(C)(i), Dec. 19, 1989, [103 Stat. 2445](https://www.govinfo.gov/link/statute/103/2445), 2447, 2451; [Pub. L. 106–554, § 1(a)(6) [title IX, § 951(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–586; [Pub. L. 113–235, div. O, title I, § 110(a)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2792](https://www.govinfo.gov/link/statute/128/2792).)*

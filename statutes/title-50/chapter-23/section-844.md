@@ -3,9 +3,10 @@ title: "Section 844 - Determination by jury of membership in Communist Party, pa
 usc_title: 50
 usc_section: "844"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 844"
-generated_at: "2026-03-30T02:56:26.201Z"
+generated_at: "2026-11-23T21:26:38.909Z"
+status: "active"
 ---
 
 # § 844. Determination by jury of membership in Communist Party, participation, or knowledge of purpose
@@ -26,3 +27,7 @@ In determining membership or participation in the Communist Party or any other o
   - **(12)** Has indicated by word, action, conduct, writing or in any other way a willingness to carry out in any manner and to any degree the plans, designs, objectives, or purposes of the organization;
   - **(13)** Has in any other way participated in the activities, planning, actions, objectives, or purposes of the organization;
   - **(14)** The enumeration of the above subjects of evidence on membership or participation in the Communist Party or any other organization as above defined, shall not limit the inquiry into and consideration of any other subject of evidence on membership and participation as herein stated.
+
+## Source Credit
+
+*(Aug. 24, 1954, ch. 886, § 5, [68 Stat. 776](https://www.govinfo.gov/link/statute/68/776).)*

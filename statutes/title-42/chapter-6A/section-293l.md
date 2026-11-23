@@ -3,9 +3,10 @@ title: "Section 293l - Advisory Committee on Training in Primary Care Medicine a
 usc_title: 42
 usc_section: "293l"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 293l"
-generated_at: "2026-03-30T02:56:10.776Z"
+generated_at: "2026-11-23T21:26:30.633Z"
+status: "active"
 ---
 
 # § 293l. Advisory Committee on Training in Primary Care Medicine and Dentistry
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:10.776Z"
   - **(1)** Each member of the Advisory Committee shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5 for each day (including travel time) during which such member is engaged in the performance of the duties of the Committee.
   - **(2)** The members of the Advisory Committee shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Committee.
 - **(g)** Chapter 10 of title 5 shall apply to the Advisory Committee under this section only to the extent that the provisions of chapter 10 of title 5 do not conflict with the requirements of this section.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 749, formerly § 748, as added [Pub. L. 105–392, title I, § 102(4)](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3539](https://www.govinfo.gov/link/statute/112/3539); renumbered § 749 and amended [Pub. L. 111–148, title V](https://www.govinfo.gov/link/plaw/111/public/148), §§ 5103(d)(1), 5303(1), Mar. 23, 2010, [124 Stat. 605](https://www.govinfo.gov/link/statute/124/605), 618; [Pub. L. 116–136, div. A, title III, § 3401(5)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 386](https://www.govinfo.gov/link/statute/134/386); [Pub. L. 117–286, § 4(a)(237)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4331](https://www.govinfo.gov/link/statute/136/4331).)*

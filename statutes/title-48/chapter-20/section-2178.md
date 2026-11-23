@@ -3,9 +3,10 @@ title: "Section 2178 - Disclosure by professional persons seeking approval of co
 usc_title: 48
 usc_section: "2178"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 2178"
-generated_at: "2026-03-30T02:56:14.605Z"
+generated_at: "2026-11-23T21:26:38.142Z"
+status: "active"
 ---
 
 # § 2178. Disclosure by professional persons seeking approval of compensation under section 2176 or 2177 of this title
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:56:14.605Z"
   - **(2)** during the professional person’s employment in connection with the case, the professional person—
     - **(A)** is not a disinterested person (as defined in section 101 of title 11 ) relative to any entity or person on the List of Material Interested Parties; or
     - **(B)** represents or holds an adverse interest in connection with the case.
+
+## Source Credit
+
+*([Pub. L. 117–82, § 2](https://www.govinfo.gov/link/plaw/117/public/82), Jan. 20, 2022, [136 Stat. 3](https://www.govinfo.gov/link/statute/136/3).)*

@@ -3,9 +3,10 @@ title: "Section 6313 - Standards"
 usc_title: 42
 usc_section: "6313"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6313"
-generated_at: "2026-03-30T02:56:11.253Z"
+generated_at: "2026-11-23T21:26:32.911Z"
+status: "active"
 ---
 
 # § 6313. Standards
@@ -119,7 +120,31 @@ generated_at: "2026-03-30T02:56:11.253Z"
       - **(viii)** The minimum energy efficiency ratio of single package vertical heat pumps at or above 135,000 Btu per hour (cooling capacity) but less than 240,000 Btu per hour (cooling capacity), shall be 8.6 and the minimum coefficient of performance in the heating mode shall be 2.9.
     - **(B)** Not later than 3 years after December 19, 2007 , the Secretary shall review the most recently published ASHRAE/IES Standard 90.1 with respect to single package vertical air conditioners and single package vertical heat pumps in accordance with the procedures established under paragraph (6).
 - **(b)**
-  - **(1)** Except for definite purpose motors, special purpose motors, and those motors exempted by the Secretary under paragraph (2), 2 2 See References in Text note below. each electric motor manufactured (alone or as a component of another piece of equipment) after the 60-month period beginning on October 24, 1992 , or in the case of an electric motor which requires listing or certification by a nationally recognized safety testing laboratory, after the 84-month period beginning on October 24, 1992 , shall have a nominal full load efficiency of not less than the following: Number of poles Nominal Full-Load Efficiency Open Motors Closed Motors 6 4 2 6 4 2 Motor Horsepower 1 80.0 82.5 ....... 80.0 82.5 75.5 1.5 84.0 84.0 82.5 85.5 84.0 82.5 2 85.5 84.0 84.0 86.5 84.0 84.0 3 86.5 86.5 84.0 87.5 87.5 85.5 5 87.5 87.5 85.5 87.5 87.5 87.5 7.5 88.5 88.5 87.5 89.5 89.5 88.5 10 90.2 89.5 88.5 89.5 89.5 89.5 15 90.2 91.0 89.5 90.2 91.0 90.2 20 91.0 91.0 90.2 90.2 91.0 90.2 25 91.7 91.7 91.0 91.7 92.4 91.0 30 92.4 92.4 91.0 91.7 92.4 91.0 40 93.0 93.0 91.7 93.0 93.0 91.7 50 93.0 93.0 92.4 93.0 93.0 92.4 60 93.6 93.6 93.0 93.6 93.6 93.0 75 93.6 94.1 93.0 93.6 94.1 93.0 100 94.1 94.1 93.0 94.1 94.5 93.6 125 94.1 94.5 93.6 94.1 94.5 94.5 150 94.5 95.0 93.6 95.0 95.0 94.5 200 94.5 95.0 94.5 95.0 95.0 95.0
+  - **(1)** Except for definite purpose motors, special purpose motors, and those motors exempted by the Secretary under paragraph (2), 2 2 See References in Text note below. each electric motor manufactured (alone or as a component of another piece of equipment) after the 60-month period beginning on October 24, 1992 , or in the case of an electric motor which requires listing or certification by a nationally recognized safety testing laboratory, after the 84-month period beginning on October 24, 1992 , shall have a nominal full load efficiency of not less than the following:
+
+| Number of poles | Nominal Full-Load Efficiency | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Motor Horsepower |  |  |  |  |  |  |
+| 1 | 80.0 | 82.5 | ....... | 80.0 | 82.5 | 75.5 |
+| 1.5 | 84.0 | 84.0 | 82.5 | 85.5 | 84.0 | 82.5 |
+| 2 | 85.5 | 84.0 | 84.0 | 86.5 | 84.0 | 84.0 |
+| 3 | 86.5 | 86.5 | 84.0 | 87.5 | 87.5 | 85.5 |
+| 5 | 87.5 | 87.5 | 85.5 | 87.5 | 87.5 | 87.5 |
+| 7.5 | 88.5 | 88.5 | 87.5 | 89.5 | 89.5 | 88.5 |
+| 10 | 90.2 | 89.5 | 88.5 | 89.5 | 89.5 | 89.5 |
+| 15 | 90.2 | 91.0 | 89.5 | 90.2 | 91.0 | 90.2 |
+| 20 | 91.0 | 91.0 | 90.2 | 90.2 | 91.0 | 90.2 |
+| 25 | 91.7 | 91.7 | 91.0 | 91.7 | 92.4 | 91.0 |
+| 30 | 92.4 | 92.4 | 91.0 | 91.7 | 92.4 | 91.0 |
+| 40 | 93.0 | 93.0 | 91.7 | 93.0 | 93.0 | 91.7 |
+| 50 | 93.0 | 93.0 | 92.4 | 93.0 | 93.0 | 92.4 |
+| 60 | 93.6 | 93.6 | 93.0 | 93.6 | 93.6 | 93.0 |
+| 75 | 93.6 | 94.1 | 93.0 | 93.6 | 94.1 | 93.0 |
+| 100 | 94.1 | 94.1 | 93.0 | 94.1 | 94.5 | 93.6 |
+| 125 | 94.1 | 94.5 | 93.6 | 94.1 | 94.5 | 94.5 |
+| 150 | 94.5 | 95.0 | 93.6 | 95.0 | 95.0 | 94.5 |
+| 200 | 94.5 | 95.0 | 94.5 | 95.0 | 95.0 | 95.0 |
+
   - **(2)**
     - **(A)** Except as provided in subparagraph (B), each general purpose electric motor (subtype I) with a power rating of 1 horsepower or greater, but not greater than 200 horsepower, manufactured (alone or as a component of another piece of equipment) after the 3-year period beginning on December 19, 2007 , shall have a nominal full load efficiency that is not less than as defined in NEMA MG–1 (2006) Table 12–12.
     - **(B)** Each fire pump motor manufactured (alone or as a component of another piece of equipment) after the 3-year period beginning on December 19, 2007 , shall have nominal full load efficiency that is not less than as defined in NEMA MG–1 (2006) Table 12–11.
@@ -146,7 +171,16 @@ generated_at: "2026-03-30T02:56:11.253Z"
       - **(ii)** that has a height not greater than 66 inches and is intended to serve as a counter for transactions between sales personnel and customers.
     - **(D)** The term “TDA” means the total display area (ft 2 ) of the refrigerated case, as defined in AHRI Standard 1200.
     - **(E)** Other terms have such meanings as may be established by the Secretary, based on industry-accepted definitions and practice.
-  - **(2)** Each commercial refrigerator, freezer, and refrigerator-freezer with a self-contained condensing unit designed for holding temperature applications manufactured on or after January 1, 2010 , shall have a daily energy consumption (in kilowatt hours per day) that does not exceed the following: Refrigerators with solid doors 0.10 V + 2.04 Refrigerators with transparent doors 0.12 V + 3.34 Freezers with solid doors 0.40 V + 1.38 Freezers with transparent doors 0.75 V + 4.10 Refrigerators/freezers with solid doors the greater of 0.27 AV – 0.71 or 0.70.
+  - **(2)** Each commercial refrigerator, freezer, and refrigerator-freezer with a self-contained condensing unit designed for holding temperature applications manufactured on or after January 1, 2010 , shall have a daily energy consumption (in kilowatt hours per day) that does not exceed the following:
+
+|  |  |
+| --- | --- |
+| Refrigerators with solid doors | 0.10 V + 2.04 |
+| Refrigerators with transparent doors | 0.12 V + 3.34 |
+| Freezers with solid doors | 0.40 V + 1.38 |
+| Freezers with transparent doors | 0.75 V + 4.10 |
+| Refrigerators/freezers with solid doors the greater of | 0.27 AV – 0.71 or 0.70. |
+
   - **(3)** Each commercial refrigerator with a self-contained condensing unit designed for pull-down temperature applications and transparent doors manufactured on or after January 1, 2010 , shall have a daily energy consumption (in kilowatt hours per day) of not more than 0.126 V + 3.51.
   - **(4)**
     - **(A)** Each SOC–SC–M manufactured on or after January 1, 2012 , shall have a total daily energy consumption (in kilowatt hours per day) of not more than 0.6 × TDA + 1.0.
@@ -166,7 +200,24 @@ generated_at: "2026-03-30T02:56:11.253Z"
       - **(i)** 3 years after the date on which the final amended standard is published; or
       - **(ii)** if the Secretary determines, by rule, that 3 years is inadequate, not later than 5 years after the date on which the final rule is published.
 - **(d)**
-  - **(1)** Each automatic commercial ice maker that produces cube type ice with capacities between 50 and 2500 pounds per 24-hour period when tested according to the test standard established in section 6314(a)(7) of this title and is manufactured on or after January 1, 2010 , shall meet the following standard levels: Equipment Type Type of Cooling Harvest Rate (lbs ice/24 hours) Maximum Energy Use (kWh/100 lbs Ice) Maximum Condenser Water Use (gal/100 lbs Ice) H = Harvest rate in pounds per 24 hours. Water use is for the condenser only and does not include potable water used to make ice. Ice Making Head Water <500 7.80–0.0055 H 200–0.022 H ª500 and <1436 5.58–0.0011 H 200–0.022 H ª1436 4.0 200–0.022 H Ice Making Head Air <450 10.26–0.0086 H Not Applicable ª450 6.89–0.0011 H Not Applicable Remote Condensing (but not remote compressor) Air <1000 8.85–0.0038 H Not Applicable ª1000 5.10 Not Applicable Remote Condensing and Remote Compressor Air <934 8.85–0.0038 H Not Applicable ª934 5.3 Not Applicable Self Contained Water <200 11.40–0.019 H 191–0.0315 H ª200 7.60 191–0.0315 H Self Contained Air <175 18.0–0.0469 H Not Applicable ª175 9.80 Not Applicable
+  - **(1)** Each automatic commercial ice maker that produces cube type ice with capacities between 50 and 2500 pounds per 24-hour period when tested according to the test standard established in section 6314(a)(7) of this title and is manufactured on or after January 1, 2010 , shall meet the following standard levels:
+
+| Equipment Type | Type of Cooling | Harvest Rate (lbs ice/24 hours) | Maximum Energy Use (kWh/100 lbs Ice) | Maximum Condenser Water Use (gal/100 lbs Ice) |
+| --- | --- | --- | --- | --- |
+| Ice Making Head | Water | &lt;500 | 7.80–0.0055 H | 200–0.022 H |
+|  |  | ª500 and &lt;1436 | 5.58–0.0011 H | 200–0.022 H |
+|  |  | ª1436 | 4.0 | 200–0.022 H |
+| Ice Making Head | Air | &lt;450 | 10.26–0.0086 H | Not Applicable |
+|  |  | ª450 | 6.89–0.0011 H | Not Applicable |
+| Remote Condensing (but not remote compressor) | Air | &lt;1000 | 8.85–0.0038 H | Not Applicable |
+|  |  | ª1000 | 5.10 | Not Applicable |
+| Remote Condensing and Remote Compressor | Air | &lt;934 | 8.85–0.0038 H | Not Applicable |
+|  |  | ª934 | 5.3 | Not Applicable |
+| Self Contained | Water | &lt;200 | 11.40–0.019 H | 191–0.0315 H |
+|  |  | ª200 | 7.60 | 191–0.0315 H |
+| Self Contained | Air | &lt;175 | 18.0–0.0469 H | Not Applicable |
+|  |  | ª175 | 9.80 | Not Applicable |
+
   - **(2)**
     - **(A)** The Secretary may issue, by rule, standard levels for types of automatic commercial ice makers that are not covered by paragraph (1).
     - **(B)** The standards established under subparagraph (A) shall apply to products manufactured on or after the date that is—
@@ -227,3 +278,139 @@ generated_at: "2026-03-30T02:56:11.253Z"
       - **(ii)** If the Secretary determines, by rule, that a 3-year period is inadequate, the Secretary may establish an effective date for products manufactured beginning on the date that is not more than 5 years after the date of publication of a final rule for the products.
   - **(6)** Subparagraph (C) of paragraph (1) shall not apply to a walk-in cooler or walk-in freezer component if the component manufacturer has demonstrated to the satisfaction of the Secretary that the component reduces energy consumption at least as much as if such subparagraph were to apply. In support of any demonstration under this paragraph, a manufacturer shall provide to the Secretary all data and technical information necessary to fully evaluate its application.
 - **(g)** If the Secretary, acting pursuant to section 6312(b) of this title , includes as covered equipment solid state lighting power supply circuits, drivers, or devices described in section 6291(36)(A)(ii) of this title , the Secretary may prescribe under this part, not earlier than 1 year after the date on which a test procedure has been prescribed, an energy conservation standard for such equipment.
+
+Amended energy efficiency standards.—
+
+In general.—
+
+Analysis of potential energy savings
+
+Amended uniform national standard for products.—
+
+In general
+
+More stringent standard
+
+Rule.—
+
+In general
+
+Factors
+
+Administration.—
+
+Energy use and efficiency
+
+Unavailability.—
+
+(aa) In general .— The Secretary may not prescribe an amended standard under this subparagraph if the Secretary finds (and publishes the finding) that interested persons have established by a preponderance of the evidence that a standard is likely to result in the unavailability in the United States in any product type (or class) of performance characteristics (including reliability, features, sizes, capacities, and volumes) that are substantially the same as those generally available in the United States at the time of the finding of the Secretary.
+
+(bb) Other types or classes .— The failure of some types (or classes) to meet the criterion established under this subclause shall not affect the determination of the Secretary on whether to prescribe a standard for the other types or classes.
+
+Amendment of standard.—
+
+In general
+
+Notice
+
+Amendment of standard; new determination.—
+
+Amendment of standard
+
+New determination
+
+Application to products
+
+Consideration of prices and operating patterns
+
+Single package vertical air conditioners and single package vertical heat pumps.—
+
+In general
+
+Review
+
+1
+
+1.5
+
+2
+
+3
+
+5
+
+7.5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+40
+
+50
+
+60
+
+75
+
+100
+
+125
+
+150
+
+200
+
+Electric motors.—
+
+General purpose electric motors (subtype i)
+
+Fire pump motors
+
+General purpose electric motors (subtype ii)
+
+design b, general purpose electric motors
+
+Refrigerators with solid doors
+
+Freezers with solid doors
+
+Freezers with transparent doors
+
+H = Harvest rate in pounds per 24 hours. Water use is for the condenser only and does not include potable water used to make ice.
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 342](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 95–619, title IV, § 441(a)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3269](https://www.govinfo.gov/link/statute/92/3269); amended [Pub. L. 102–486, title I, § 122(d)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2810](https://www.govinfo.gov/link/statute/106/2810); [Pub. L. 109–58, title I, § 136(b)](https://www.govinfo.gov/link/plaw/109/public/58) –(e), Aug. 8, 2005, [119 Stat. 636–641](https://www.govinfo.gov/link/statute/119/636); [Pub. L. 110–140, title III](https://www.govinfo.gov/link/plaw/110/public/140), §§ 305(b), 306(c), 312(b), 313(b)(1), 314(b), Dec. 19, 2007, [121 Stat. 1554](https://www.govinfo.gov/link/statute/121/1554), 1559, 1564, 1568, 1570; [Pub. L. 112–210](https://www.govinfo.gov/link/plaw/112/public/210), §§ 2, 4, 5(b), 10(a)(3), (4), Dec. 18, 2012, [126 Stat. 1514](https://www.govinfo.gov/link/statute/126/1514), 1516, 1518, 1522, 1524; [Pub. L. 113–188, title VI, § 601(c)](https://www.govinfo.gov/link/plaw/113/public/188), Nov. 26, 2014, [128 Stat. 2019](https://www.govinfo.gov/link/statute/128/2019); [Pub. L. 115–115, § 2(b)(2)](https://www.govinfo.gov/link/plaw/115/public/115), Jan. 12, 2018, [131 Stat. 2280](https://www.govinfo.gov/link/statute/131/2280).)*

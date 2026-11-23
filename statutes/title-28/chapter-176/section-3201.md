@@ -3,9 +3,10 @@ title: "Section 3201 - Judgment liens"
 usc_title: 28
 usc_section: "3201"
 chapter: 176
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 3201"
-generated_at: "2026-03-30T02:55:30.152Z"
+generated_at: "2026-11-23T21:26:01.143Z"
+status: "active"
 ---
 
 # § 3201. Judgment liens
@@ -22,3 +23,19 @@ generated_at: "2026-03-30T02:55:30.152Z"
 - **(f)**
   - **(1)** On proper application to a court, the court may order the United States to sell, in accordance with sections 2001 and 2002, any real property subject to a judgment lien in effect under this section.
   - **(2)** This subsection shall not preclude the United States from using an execution sale pursuant to section 3203(g) to sell real property subject to a judgment lien.
+
+Creation
+
+Priority of Lien
+
+Duration of Lien; Renewal
+
+Release of Judgment Lien
+
+Effect of Lien on Eligibility for Federal Grants, Loans or Programs
+
+Sale of Property Subject to Judgment Lien
+
+## Source Credit
+
+*(Added [Pub. L. 101–647, title XXXVI, § 3611](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4948](https://www.govinfo.gov/link/statute/104/4948).)*

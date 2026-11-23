@@ -3,9 +3,10 @@ title: "Section 6050Q - Certain long-term care benefits"
 usc_title: 26
 usc_section: "6050Q"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6050Q"
-generated_at: "2026-03-30T02:55:27.835Z"
+generated_at: "2026-11-23T21:26:06.782Z"
+status: "active"
 ---
 
 # § 6050Q. Certain long-term care benefits
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:27.835Z"
 - **(c)** For purposes of this section, the term “long-term care benefit” means—
   - **(1)** any payment under a product which is advertised, marketed, or offered as long-term care insurance, and
   - **(2)** any payment which is excludable from gross income by reason of section 101(g).
+
+## Source Credit
+
+*(Added [Pub. L. 104–191, title III, § 323(a)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 2062](https://www.govinfo.gov/link/statute/110/2062); amended [Pub. L. 105–34, title XVI, § 1602(d)(1)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1094](https://www.govinfo.gov/link/statute/111/1094).)*

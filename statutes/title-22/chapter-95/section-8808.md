@@ -3,9 +3,10 @@ title: "Section 8808 - Report on use of certain Iranian seaports by foreign vess
 usc_title: 22
 usc_section: "8808"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8808"
-generated_at: "2026-03-30T02:55:05.458Z"
+generated_at: "2026-11-23T21:25:58.756Z"
+status: "active"
 ---
 
 # § 8808. Report on use of certain Iranian seaports by foreign vessels and use of foreign airports by sanctioned Iranian air carriers
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.458Z"
   - **(1)** in the case of the first report submitted under subsection (a), the 180-day period preceding the submission of the report; and
   - **(2)** in the case of any subsequent report submitted under that subsection, the year preceding the submission of the report.
 - **(c)** Each report required by subsection (a) shall be submitted in unclassified form, but may include a classified annex.
+
+## Source Credit
+
+*([Pub. L. 112–239, div. A, title XII, § 1252](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2017](https://www.govinfo.gov/link/statute/126/2017).)*

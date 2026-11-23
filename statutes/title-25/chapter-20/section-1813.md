@@ -3,9 +3,10 @@ title: "Section 1813 - Construction of new facilities"
 usc_title: 25
 usc_section: "1813"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1813"
-generated_at: "2026-03-30T02:54:52.830Z"
+generated_at: "2026-11-23T21:25:54.643Z"
+status: "active"
 ---
 
 # § 1813. Construction of new facilities
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:52.830Z"
 - **(f)** For the purposes of this section—
   - **(1)** the term “construction” includes reconstruction or renovation (as such terms are defined in the first sentence of subparagraph (B) of section 1132e–1(2) 1 1 See References in Text note below. of title 20); and
   - **(2)** the term “academic facilities” has the meaning provided such term under section 1132e–1(1) 1 of title 20.
+
+## Source Credit
+
+*([Pub. L. 95–471, title I, § 113](https://www.govinfo.gov/link/plaw/95/public/471), formerly § 112, Oct. 17, 1978, [92 Stat. 1329](https://www.govinfo.gov/link/statute/92/1329); renumbered § 113 and amended [Pub. L. 98–192](https://www.govinfo.gov/link/plaw/98/public/192), §§ 4(a)(1), 12, Dec. 1, 1983, [97 Stat. 1336](https://www.govinfo.gov/link/statute/97/1336), 1340; [Pub. L. 99–428, § 6(b)](https://www.govinfo.gov/link/plaw/99/public/428), Sept. 30, 1986, [100 Stat. 983](https://www.govinfo.gov/link/statute/100/983); [Pub. L. 105–244, title I, § 102(a)(8)(C)](https://www.govinfo.gov/link/plaw/105/public/244), title IX, § 901(b)(5), (7), (12), Oct. 7, 1998, [112 Stat. 1619](https://www.govinfo.gov/link/statute/112/1619), 1828.)*

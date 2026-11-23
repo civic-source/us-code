@@ -3,9 +3,10 @@ title: "Section 1564a - Counterintelligence polygraph program"
 usc_title: 10
 usc_section: "1564a"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1564a"
-generated_at: "2026-03-30T02:53:38.129Z"
+generated_at: "2026-11-23T21:25:32.511Z"
+status: "active"
 ---
 
 # § 1564a. Counterintelligence polygraph program
@@ -59,3 +60,21 @@ generated_at: "2026-03-30T02:53:38.129Z"
   - **(1)** An on-going evaluation of the validity of polygraph techniques used by the Department.
   - **(2)** Research on polygraph countermeasures and anti-countermeasures.
   - **(3)** Developmental research on polygraph techniques, instrumentation, and analytic methods.
+
+Authority for Program
+
+Persons Covered
+
+Covered Types of Duties
+
+Exceptions From Coverage for Certain Intelligence Agencies and Functions
+
+Standards
+
+Oversight
+
+Polygraph Research Program
+
+## Source Credit
+
+*(Added [Pub. L. 108–136, div. A, title X, § 1041(a)(1)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1607](https://www.govinfo.gov/link/statute/117/1607); amended [Pub. L. 109–163, div. A, title X, § 1054(a)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3436](https://www.govinfo.gov/link/statute/119/3436); [Pub. L. 115–232, div. A, title XVI, § 1623(a)](https://www.govinfo.gov/link/plaw/115/public/232) –(c), Aug. 13, 2018, [132 Stat. 2119](https://www.govinfo.gov/link/statute/132/2119).)*

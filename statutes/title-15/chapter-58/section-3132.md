@@ -3,9 +3,10 @@ title: "Section 3132 - Committee review"
 usc_title: 15
 usc_section: "3132"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3132"
-generated_at: "2026-03-30T02:54:08.187Z"
+generated_at: "2026-11-23T21:25:39.964Z"
+status: "active"
 ---
 
 # § 3132. Committee review
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.187Z"
 - **(b)** The Joint Economic Committee shall hold hearings on the Economic Report for the purpose of receiving testimony from Members of the Congress, and such appropriate representatives of Federal departments and agencies, the general public, and interested groups as the joint committee deems advisable. The joint committee shall also consider the comments and views on the Economic Report which are received from State and local officials.
 - **(c)** Within thirty days after receipt by the Congress of the Economic Report, each standing committee of the Senate and the House of Representatives, each other committee of the Senate and the House of Representatives which has legislative jurisdiction, and each joint committee of the Congress may submit to the Joint Economic Committee, for use by the Joint Economic Committee in conducting its review and analysis under subsection (a), a report containing the views and recommendations of the submitting committee with respect to aspects of the Economic Report which relate to its jurisdiction.
 - **(d)** On or before March 15 of each year, a majority of the members of the Joint Economic Committee shall submit a report to the Committees on the Budget of the Senate and the House of Representatives. Such report shall include findings, recommendations, and any appropriate analyses with respect and in direct comparison to each of the short-term and medium-term goals set forth in the Economic Report.
+
+## Source Credit
+
+*([Pub. L. 95–523, title III, § 302](https://www.govinfo.gov/link/plaw/95/public/523), Oct. 27, 1978, [92 Stat. 1904](https://www.govinfo.gov/link/statute/92/1904).)*

@@ -3,9 +3,10 @@ title: "Section 3505 - Foreign records of regularly conducted ac­tivity"
 usc_title: 18
 usc_section: "3505"
 chapter: 223
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3505"
-generated_at: "2026-03-30T02:54:16.517Z"
+generated_at: "2026-11-23T21:25:44.203Z"
+status: "active"
 ---
 
 # § 3505. Foreign records of regularly conducted ac­tivity
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:16.517Z"
   - **(1)** “foreign record of regularly conducted activity” means a memorandum, report, record, or data compilation, in any form, of acts, events, conditions, opinions, or diagnoses, maintained in a foreign country;
   - **(2)** “foreign certification” means a written declaration made and signed in a foreign country by the custodian of a foreign record of regularly conducted activity or another qualified person that, if falsely made, would subject the maker to criminal penalty under the laws of that country; and
   - **(3)** “business” includes business, institution, association, profession, occupation, and calling of every kind, whether or not conducted for profit.
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 1217(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2165](https://www.govinfo.gov/link/statute/98/2165).)*

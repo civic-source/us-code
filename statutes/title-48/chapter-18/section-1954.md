@@ -3,9 +3,10 @@ title: "Section 1954 - Public auditor and special prosecutor"
 usc_title: 48
 usc_section: "1954"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1954"
-generated_at: "2026-03-30T02:56:14.598Z"
+generated_at: "2026-11-23T21:26:38.131Z"
+status: "active"
 ---
 
 # § 1954. Public auditor and special prosecutor
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:14.598Z"
 - **(a)** 1 1 So in original. No subsec. (b) has been enacted. Upon request of the Government of Palau the President shall provide, on a nonreimbursable basis, appropriate technical assistance to the public auditor or special prosecutor. The assistance provided pursuant to this subsection for the first five years after the effective date of the Compact shall, upon the request of the Government of Palau, and to the extent personnel are available, include (but not be limited to) the full time services of—
   - **(1)** an auditor or accountant, as determined by the public auditor, for the office of public auditor; and
   - **(2)** an attorney or investigator, as determined by the special prosecutor, for the office of special prosecutor.
+
+## Source Credit
+
+*([Pub. L. 101–219, title I, § 104](https://www.govinfo.gov/link/plaw/101/public/219), Dec. 12, 1989, [103 Stat. 1871](https://www.govinfo.gov/link/statute/103/1871).)*

@@ -3,9 +3,10 @@ title: "Section 637b - Availability of information"
 usc_title: 15
 usc_section: "637b"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 637b"
-generated_at: "2026-03-30T02:54:08.095Z"
+generated_at: "2026-11-23T21:25:39.668Z"
+status: "active"
 ---
 
 # § 637b. Availability of information
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.095Z"
 - **(b)** Subsection (a) shall not apply to any contract or subcontract under such contract which—
   - **(1)** will be performed entirely outside any State, territory, or possession of the United States, the District of Columbia, or the Commonwealth of Puerto Rico; or
   - **(2)** is for services which are personal in nature.
+
+## Source Credit
+
+*([Pub. L. 95–507, title II, § 223](https://www.govinfo.gov/link/plaw/95/public/507), Oct. 24, 1978, [92 Stat. 1772](https://www.govinfo.gov/link/statute/92/1772).)*

@@ -3,9 +3,10 @@ title: "Section 2523 - Gift to spouse"
 usc_title: 26
 usc_section: "2523"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 2523"
-generated_at: "2026-03-30T02:55:27.785Z"
+generated_at: "2026-11-23T21:26:06.539Z"
+status: "active"
 ---
 
 # § 2523. Gift to spouse
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:55:27.785Z"
   - **(1)** no deduction shall be allowed under this section,
   - **(2)** section 2503(b) shall be applied with respect to gifts which are made by the donor to such spouse and with respect to which a deduction would be allowable under this section but for paragraph (1) by substituting “$100,000” for “$10,000”, and
   - **(3)** the principles of sections 2515 and 2515A (as such sections were in effect before their repeal by the Economic Recovery Tax Act of 1981) shall apply, except that the provisions of such section 2515 providing for an election shall not apply.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 412; [Pub. L. 91–614, title I, § 102(c)(3)](https://www.govinfo.gov/link/plaw/91/public/614), Dec. 31, 1970, [84 Stat. 1841](https://www.govinfo.gov/link/statute/84/1841); [Pub. L. 94–455, title XIX, § 1902(a)(12)(E)](https://www.govinfo.gov/link/plaw/94/public/455), title XX, § 2002(b), Oct. 4, 1976, [90 Stat. 1806](https://www.govinfo.gov/link/statute/90/1806), 1854; [Pub. L. 97–34, title IV, § 403(b)(1)](https://www.govinfo.gov/link/plaw/97/public/34), (2), (d)(2), Aug. 13, 1981, [95 Stat. 301](https://www.govinfo.gov/link/statute/95/301), 303; [Pub. L. 97–448, title I, § 104(a)(2)(B)](https://www.govinfo.gov/link/plaw/97/public/448), (4)–(6), Jan. 12, 1983, [96 Stat. 2380](https://www.govinfo.gov/link/statute/96/2380), 2381; [Pub. L. 99–514, title XVIII, § 1879(n)(1)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2910](https://www.govinfo.gov/link/statute/100/2910); [Pub. L. 100–647, title V, § 5033(b)](https://www.govinfo.gov/link/plaw/100/public/647), title VI, § 6152(b), Nov. 10, 1988, [102 Stat. 3672](https://www.govinfo.gov/link/statute/102/3672), 3725; [Pub. L. 101–239, title VII, § 7815(d)(1)(A)](https://www.govinfo.gov/link/plaw/101/public/239), (2), Dec. 19, 1989, [103 Stat. 2415](https://www.govinfo.gov/link/statute/103/2415); [Pub. L. 101–508, title XI, § 11702(g)(1)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–515](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–486, title XIX, § 1941(b)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3036](https://www.govinfo.gov/link/statute/106/3036); [Pub. L. 105–34, title XVI, § 1604(g)(4)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1099](https://www.govinfo.gov/link/statute/111/1099); [Pub. L. 115–141, div. U, title IV, § 401(a)(205)](https://www.govinfo.gov/link/plaw/115/public/141), (206), Mar. 23, 2018, [132 Stat. 1194](https://www.govinfo.gov/link/statute/132/1194).)*

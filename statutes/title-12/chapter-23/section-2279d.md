@@ -3,9 +3,10 @@ title: "Section 2279d - Termination of System institution status"
 usc_title: 12
 usc_section: "2279d"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2279d"
-generated_at: "2026-03-30T02:53:53.482Z"
+generated_at: "2026-11-23T21:25:37.089Z"
+status: "active"
 ---
 
 # § 2279d. Termination of System institution status
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:53.482Z"
 - **(b)** On termination of its status as a System institution—
   - **(1)** the Farm Credit Administration Board shall revoke the charter of the institution; and
   - **(2)** the institution shall no longer be an instrumentality of the United States under this chapter.
+
+## Source Credit
+
+*([Pub. L. 92–181, title VII, § 7](https://www.govinfo.gov/link/plaw/92/public/181).10, as added [Pub. L. 100–233, title IV, § 416](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1650](https://www.govinfo.gov/link/statute/101/1650); amended [Pub. L. 115–334, title V, § 5411(41)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4683](https://www.govinfo.gov/link/statute/132/4683).)*

@@ -3,9 +3,10 @@ title: "Section 2226 - Water resources projects on Federal land"
 usc_title: 33
 usc_section: "2226"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2226"
-generated_at: "2026-03-30T02:55:41.114Z"
+generated_at: "2026-11-23T21:26:11.425Z"
+status: "active"
 ---
 
 # § 2226. Water resources projects on Federal land
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:41.114Z"
 - **(a)** Subject to subsection (b), the Secretary may carry out an authorized water resources development project on Federal land that is under the administrative jurisdiction of another Federal agency where the cost of the acquisition of such Federal land has been paid for by the non-Federal interest for the project.
 - **(b)** The Secretary may carry out a project pursuant to subsection (a) only after the non-Federal interest has entered into a memorandum of understanding with the Federal agency that includes such terms and conditions as the Secretary determines to be necessary.
 - **(c)** Nothing in this section alters any non-Federal cost-sharing requirements for the project.
+
+## Source Credit
+
+*([Pub. L. 113–121, title I, § 1025](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1229](https://www.govinfo.gov/link/statute/128/1229).)*

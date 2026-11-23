@@ -3,9 +3,10 @@ title: "Section 362 - Automatic stay"
 usc_title: 11
 usc_section: "362"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 362"
-generated_at: "2026-03-30T02:53:53.875Z"
+generated_at: "2026-11-23T21:25:34.899Z"
+status: "active"
 ---
 
 # § 362. Automatic stay
@@ -179,3 +180,17 @@ generated_at: "2026-03-30T02:53:53.875Z"
       - **(i)** the debtor proves by a preponderance of the evidence that the filing of the petition resulted from circumstances beyond the control of the debtor not foreseeable at the time the case then pending was filed; and
       - **(ii)** it is more likely than not that the court will confirm a feasible plan, but not a liquidating plan, within a reasonable period of time.
 - **(o)** The exercise of rights not subject to the stay arising under subsection (a) pursuant to paragraph (6), (7), (17), or (27) of subsection (b) shall not be stayed by any order of a court or administrative agency in any proceeding under this title.
+
+(aa) file or amend the petition or other documents as required by this title or the court without substantial excuse (but mere inadvertence or negligence shall not be a substantial excuse unless the dismissal was caused by the negligence of the debtor’s attorney);
+
+(bb) provide adequate protection as ordered by the court; or
+
+(cc) perform the terms of a plan confirmed by the court; or
+
+(aa) if a case under chapter 7, with a discharge; or
+
+(bb) if a case under chapter 11 or 13, with a confirmed plan that will be fully performed; and
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2570](https://www.govinfo.gov/link/statute/92/2570); [Pub. L. 97–222, § 3](https://www.govinfo.gov/link/plaw/97/public/222), July 27, 1982, [96 Stat. 235](https://www.govinfo.gov/link/statute/96/235); [Pub. L. 98–353, title III](https://www.govinfo.gov/link/plaw/98/public/353), §§ 304, 363(b), 392, 441, July 10, 1984, [98 Stat. 352](https://www.govinfo.gov/link/statute/98/352), 363, 365, 371; [Pub. L. 99–509, title V, § 5001(a)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1911](https://www.govinfo.gov/link/statute/100/1911); [Pub. L. 99–554, title II](https://www.govinfo.gov/link/plaw/99/public/554), §§ 257(j), 283(d), Oct. 27, 1986, [100 Stat. 3115](https://www.govinfo.gov/link/statute/100/3115), 3116; [Pub. L. 101–311, title I, § 102](https://www.govinfo.gov/link/plaw/101/public/311), title II, § 202, June 25, 1990, [104 Stat. 267](https://www.govinfo.gov/link/statute/104/267), 269; [Pub. L. 101–508, title III, § 3007(a)(1)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–28](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–394, title I](https://www.govinfo.gov/link/plaw/103/public/394), §§ 101, 116, title II, §§ 204(a), 218(b), title III, § 304(b), title IV, § 401, title V, § 501(b)(2), (d)(7), Oct. 22, 1994, [108 Stat. 4107](https://www.govinfo.gov/link/statute/108/4107), 4119, 4122, 4128, 4132, 4141, 4142, 4144; [Pub. L. 105–277, div. I, title VI, § 603](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–886](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 109–8, title I, § 106(f)](https://www.govinfo.gov/link/plaw/109/public/8), title II, §§ 214, 224(b), title III, §§ 302, 303, 305(1), 311, 320, title IV, §§ 401(b), 441, 444, title VII, §§ 709, 718, title IX, § 907(d), (o)(1), (2), title XI, § 1106, title XII, § 1225, Apr. 20, 2005, [119 Stat. 41](https://www.govinfo.gov/link/statute/119/41), 54, 64, 75, 77, 79, 84, 94, 104, 114, 117, 127, 131, 176, 181, 182, 192, 199; [Pub. L. 109–304, § 17(b)(1)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1706](https://www.govinfo.gov/link/statute/120/1706); [Pub. L. 109–390, § 5(a)(2)](https://www.govinfo.gov/link/plaw/109/public/390), Dec. 12, 2006, [120 Stat. 2696](https://www.govinfo.gov/link/statute/120/2696); [Pub. L. 111–327, § 2(a)(12)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3558](https://www.govinfo.gov/link/statute/124/3558); [Pub. L. 116–189, § 9](https://www.govinfo.gov/link/plaw/116/public/189), Oct. 30, 2020, [134 Stat. 970](https://www.govinfo.gov/link/statute/134/970); [Pub. L. 119–27, § 11(c)](https://www.govinfo.gov/link/plaw/119/public/27), July 18, 2025, [139 Stat. 457](https://www.govinfo.gov/link/statute/139/457).)*

@@ -3,9 +3,10 @@ title: "Section 1813 - Electronic Visa Update System fee"
 usc_title: 8
 usc_section: "1813"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1813"
-generated_at: "2026-03-30T02:53:10.510Z"
+generated_at: "2026-11-23T21:25:25.220Z"
+status: "active"
 ---
 
 # § 1813. Electronic Visa Update System fee
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:10.510Z"
   - **(1)**
   - **(2)** Of the fees collected pursuant to this section, an amount equal to $5 multiplied by the number of payments collected pursuant to this section shall be deposited to the general fund of the Treasury.
 - **(d)** Fees required to be paid under this section shall not be waived or reduced.
+
+## Source Credit
+
+*([Pub. L. 119–21, title X, § 100015](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 382](https://www.govinfo.gov/link/statute/139/382).)*

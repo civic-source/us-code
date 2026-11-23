@@ -3,9 +3,10 @@ title: "Section 5213 - Considerations"
 usc_title: 12
 usc_section: "5213"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5213"
-generated_at: "2026-03-30T02:53:53.524Z"
+generated_at: "2026-11-23T21:25:37.230Z"
+status: "active"
 ---
 
 # § 5213. Considerations
@@ -21,3 +22,7 @@ In exercising the authorities granted in this chapter, the Secretary shall take 
   - **(7)** the need to ensure stability for United States public instrumentalities, such as counties and cities, that may have suffered significant increased costs or losses in the current market turmoil;
   - **(8)** protecting the retirement security of Americans by purchasing troubled assets held by or on behalf of an eligible retirement plan described in clause (iii), (iv), (v), or (vi) of section 402(c)(8)(B) of title 26 , except that such authority shall not extend to any compensation arrangements subject to section 409A of such title; and
   - **(9)** the utility of purchasing other real estate owned and instruments backed by mortgages on multifamily properties.
+
+## Source Credit
+
+*([Pub. L. 110–343, div. A, title I, § 103](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3770](https://www.govinfo.gov/link/statute/122/3770).)*

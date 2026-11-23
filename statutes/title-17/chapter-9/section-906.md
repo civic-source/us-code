@@ -3,9 +3,10 @@ title: "Section 906 - Limitation on exclusive rights: reverse engineering; first
 usc_title: 17
 usc_section: "906"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 906"
-generated_at: "2026-03-30T02:54:15.355Z"
+generated_at: "2026-11-23T21:25:41.730Z"
+status: "active"
 ---
 
 # § 906. Limitation on exclusive rights: reverse engineering; first sale
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:15.355Z"
   - **(1)** a person to reproduce the mask work solely for the purpose of teaching, analyzing, or evaluating the concepts or techniques embodied in the mask work or the circuitry, logic flow, or organization of components used in the mask work; or
   - **(2)** a person who performs the analysis or evaluation described in paragraph (1) to incorporate the results of such conduct in an original mask work which is made to be distributed.
 - **(b)** Notwithstanding the provisions of section 905(2), the owner of a particular semiconductor chip product made by the owner of the mask work, or by any person authorized by the owner of the mask work, may import, distribute, or otherwise dispose of or use, but not reproduce, that particular semiconductor chip product without the authority of the owner of the mask work.
+
+## Source Credit
+
+*(Added [Pub. L. 98–620, title III, § 302](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3350](https://www.govinfo.gov/link/statute/98/3350).)*

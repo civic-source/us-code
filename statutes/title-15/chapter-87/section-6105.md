@@ -3,9 +3,10 @@ title: "Section 6105 - Administration and applicability of chapter"
 usc_title: 15
 usc_section: "6105"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6105"
-generated_at: "2026-03-30T02:54:08.209Z"
+generated_at: "2026-11-23T21:25:40.018Z"
+status: "active"
 ---
 
 # § 6105. Administration and applicability of chapter
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.209Z"
 - **(b)** The Commission shall prevent any person from violating a rule of the Commission under section 6102 of this title in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act ( 15 U.S.C. 41 et seq.) were incorporated into and made a part of this chapter. Any person who violates such rule shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act in the same manner, by the same means, and with the same jurisdiction, power, and duties as though all applicable terms and provisions of the Federal Trade Commission Act were incorporated into and made a part of this chapter.
 - **(c)** Nothing contained in this chapter shall be construed to limit the authority of the Commission under any other provision of law.
 - **(d)** Except as otherwise provided in sections 6102(d), 6102(e), 6103, and 6104 of this title, and subject to subtitle B of the Consumer Financial Protection Act of 2010 [ 12 U.S.C. 5511 et seq.], this chapter shall be enforced by the Bureau of Consumer Financial Protection under subtitle E of the Consumer Financial Protection Act of 2010 [ 12 U.S.C. 5561 et seq.], with respect to the offering or provision of a consumer financial product or service subject to that Act.
+
+## Source Credit
+
+*([Pub. L. 103–297, § 6](https://www.govinfo.gov/link/plaw/103/public/297), Aug. 16, 1994, [108 Stat. 1549](https://www.govinfo.gov/link/statute/108/1549); [Pub. L. 111–203, title X, § 1100C(d)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2111](https://www.govinfo.gov/link/statute/124/2111).)*

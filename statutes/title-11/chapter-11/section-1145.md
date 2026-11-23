@@ -3,9 +3,10 @@ title: "Section 1145 - Exemption from securities laws"
 usc_title: 11
 usc_section: "1145"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1145"
-generated_at: "2026-03-30T02:53:53.885Z"
+generated_at: "2026-11-23T21:25:34.956Z"
+status: "active"
 ---
 
 # § 1145. Exemption from securities laws
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:53:53.885Z"
   - **(3)** An entity other than an entity of the kind specified in paragraph (1) of this subsection is not an underwriter under section 2(a)(11) of the Securities Act of 1933 with respect to any securities offered or sold to such entity in the manner specified in subsection (a)(1) of this section.
 - **(c)** An offer or sale of securities of the kind and in the manner specified under subsection (a)(1) of this section is deemed to be a public offering.
 - **(d)** The Trust Indenture Act of 1939 does not apply to a note issued under the plan that matures not later than one year after the effective date of the plan.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2639](https://www.govinfo.gov/link/statute/92/2639); [Pub. L. 98–353, title III, § 516](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 387](https://www.govinfo.gov/link/statute/98/387); [Pub. L. 103–394, title V, § 501(d)(33)](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4146](https://www.govinfo.gov/link/statute/108/4146); [Pub. L. 111–327, § 2(a)(37)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3561](https://www.govinfo.gov/link/statute/124/3561).)*

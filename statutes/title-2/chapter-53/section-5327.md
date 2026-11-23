@@ -3,12 +3,17 @@ title: "Section 5327 - Termination of service of Members of House"
 usc_title: 2
 usc_section: "5327"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 5327"
-generated_at: "2026-03-30T02:53:04.836Z"
+generated_at: "2026-11-23T21:25:21.328Z"
+status: "active"
 ---
 
 # § 5327. Termination of service of Members of House
 
 - **(a)** Until otherwise provided by law, for purposes of sections 5324, 5325, and 5326 of this title, any termination of service during a term of office of a Member of the House that is not described in section 5324 of this title shall be treated as if such termination were described in such section.
 - **(b)** The Clerk of the House shall take such action as may be necessary to apply the principles of section 5325 of this title in the carrying out of sections 5327 to 5329 of this title.
+
+## Source Credit
+
+*([Pub. L. 97–51, § 101(c)](https://www.govinfo.gov/link/plaw/97/public/51), Oct. 1, 1981, [95 Stat. 959](https://www.govinfo.gov/link/statute/95/959).)*

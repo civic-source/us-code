@@ -3,9 +3,10 @@ title: "Section 1425a - Producers of honey; loan obligations and liabilities"
 usc_title: 7
 usc_section: "1425a"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1425a"
-generated_at: "2026-03-30T02:53:42.311Z"
+generated_at: "2026-11-23T21:25:28.062Z"
+status: "active"
 ---
 
 # § 1425a. Producers of honey; loan obligations and liabilities
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:42.311Z"
 - **(b)** The producer of honey shall be personally liable for the repayment of a loan or loans made to the producer under the program for the crop of honey involved, with respect to that portion of the loan or loans for which satisfaction of the loan by forfeiture, as provided in subsection (a), is prohibited.
 - **(c)** The loan contracts of the Commodity Credit Corporation entered into with producers of honey shall clearly indicate the extent to which a producer of honey may be personally liable for repayment of a loan under this section.
 - **(d)** The Commodity Credit Corporation may issue such regulations as the Corporation deems necessary to carry out this section. The regulations shall provide for the attribution of the value of collateral forfeited on loans described in subsection (a).
+
+## Source Credit
+
+*(Oct. 31, 1949, ch. 792, title IV, § 405A, as added [Pub. L. 100–460, title VI, § 634(b)](https://www.govinfo.gov/link/plaw/100/public/460), Oct. 1, 1988, [102 Stat. 2263](https://www.govinfo.gov/link/statute/102/2263); amended [Pub. L. 101–624, title X, § 1002](https://www.govinfo.gov/link/plaw/101/public/624), title XI, § 1161(d), Nov. 28, 1990, [104 Stat. 3490](https://www.govinfo.gov/link/statute/104/3490), 3521.)*

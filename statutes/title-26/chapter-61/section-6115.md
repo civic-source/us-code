@@ -3,9 +3,10 @@ title: "Section 6115 - Disclosure related to quid pro quo contributions"
 usc_title: 26
 usc_section: "6115"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6115"
-generated_at: "2026-03-30T02:55:27.842Z"
+generated_at: "2026-11-23T21:26:06.820Z"
+status: "active"
 ---
 
 # § 6115. Disclosure related to quid pro quo contributions
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:27.842Z"
   - **(1)** informs the donor that the amount of the contribution that is deductible for Federal income tax purposes is limited to the excess of the amount of any money and the value of any property other than money contributed by the donor over the value of the goods or services provided by the organization, and
   - **(2)** provides the donor with a good faith estimate of the value of such goods or services.
 - **(b)** For purposes of this section, the term “quid pro quo contribution” means a payment made partly as a contribution and partly in consideration for goods or services provided to the payor by the donee organization. A quid pro quo contribution does not include any payment made to an organization, organized exclusively for religious purposes, in return for which the taxpayer receives solely an intangible religious benefit that generally is not sold in a commercial transaction outside the donative context.
+
+## Source Credit
+
+*(Added [Pub. L. 103–66, title XIII, § 13173(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 456](https://www.govinfo.gov/link/statute/107/456).)*

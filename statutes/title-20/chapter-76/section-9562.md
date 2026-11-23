@@ -3,9 +3,10 @@ title: "Section 9562 - Commissioner for Education Evaluation and Regional Assist
 usc_title: 20
 usc_section: "9562"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9562"
-generated_at: "2026-03-30T02:54:48.227Z"
+generated_at: "2026-11-23T21:25:47.663Z"
+status: "active"
 ---
 
 # § 9562. Commissioner for Education Evaluation and Regional Assistance
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:54:48.227Z"
         - **(I)** scientifically valid research; or
         - **(II)** the priorities and mission of the Institute; and
       - **(ii)** developed by the Department, other Federal agencies, or entities (including entities supported under subchapter II of this chapter and the Educational Resources Information Center Clearinghouses (established under section 941(f) of the Educational Research, Development, Dissemination, and Improvement Act of 1994 ( 20 U.S.C. 6041(f) ) (as such provision was in effect on the day before November 5, 2002 ))). 1 1 So in original. The third closing parenthesis probably should not appear.
+
+## Source Credit
+
+*([Pub. L. 107–279, title I, § 172](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1962](https://www.govinfo.gov/link/statute/116/1962).)*

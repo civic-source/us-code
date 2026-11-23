@@ -3,9 +3,10 @@ title: "Section 4643 - Enforcement priorities"
 usc_title: 19
 usc_section: "4643"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4643"
-generated_at: "2026-03-30T02:54:24.714Z"
+generated_at: "2026-11-23T21:25:42.896Z"
+status: "active"
 ---
 
 # § 4643. Enforcement priorities
@@ -23,3 +24,7 @@ The Interagency Labor Committee shall—
     - **(G)** mining; and
     - **(H)** steel and aluminum; and
   - **(3)** review priority facilities within such priority subsectors for monitoring and enforcement.
+
+## Source Credit
+
+*([Pub. L. 116–113, title VII, § 713](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 82](https://www.govinfo.gov/link/statute/134/82).)*

@@ -3,9 +3,10 @@ title: "Section 286ll - Fund policy changes"
 usc_title: 22
 usc_section: "286ll"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 286ll"
-generated_at: "2026-03-30T02:55:05.320Z"
+generated_at: "2026-11-23T21:25:58.365Z"
+status: "active"
 ---
 
 # § 286ll. Fund policy changes
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:55:05.320Z"
 - **(c)** The Secretary of the Treasury shall instruct the United States Executive Director to the Fund to urge the Fund—
   - **(1)** to explore ways to increase the involvement and participation of important ministries, national development experts, environmental experts, free-market experts, and other legitimate experts and representatives from the loan-recipient country in the development of Fund programs; and
   - **(2)** to report on the status of Fund efforts in this regard.
+
+## Source Credit
+
+*(July 31, 1945, ch. 339, § 59, as added [Pub. L. 102–511, title X, § 1002](https://www.govinfo.gov/link/plaw/102/public/511), Oct. 24, 1992, [106 Stat. 3357](https://www.govinfo.gov/link/statute/106/3357).)*

@@ -3,9 +3,10 @@ title: "Section 5302 - Definitions"
 usc_title: 7
 usc_section: "5302"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 5302"
-generated_at: "2026-03-30T02:53:42.413Z"
+generated_at: "2026-11-23T21:25:28.358Z"
+status: "active"
 ---
 
 # § 5302. Definitions
@@ -30,3 +31,7 @@ As used in this chapter—
     - **(C)** the bioavailability of nutrients such as absorption, digestion, and utilization; and
     - **(D)** the nutritional importance of non­nutrient substances such as fiber, phytate, and such substances that are naturally found in the food supply; and
   - **(9)** the term “Secretaries” means the Secretary of Agriculture and the Secretary of Health and Human Services, acting jointly.
+
+## Source Credit
+
+*([Pub. L. 101–445, § 3](https://www.govinfo.gov/link/plaw/101/public/445), Oct. 22, 1990, [104 Stat. 1035](https://www.govinfo.gov/link/statute/104/1035).)*

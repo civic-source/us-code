@@ -3,9 +3,10 @@ title: "Section 3102 - Employment of personal assistants for handicapped employe
 usc_title: 5
 usc_section: "3102"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3102"
-generated_at: "2026-03-30T02:52:55.999Z"
+generated_at: "2026-11-23T21:25:23.132Z"
+status: "active"
 ---
 
 # § 3102. Employment of personal assistants for handicapped employees, including blind and deaf employees
@@ -30,3 +31,22 @@ generated_at: "2026-03-30T02:52:55.999Z"
     - **(A)** the amount paid to that individual shall not exceed the limit or limits which the Office of Personnel Management shall prescribe by regulation to ensure that the payment does not exceed amounts (including pay and, if appropriate, travel expenses and per diem allowances) which could be paid to an employee assigned to accompany or assist the handicapped employee; and
     - **(B)** that individual shall be considered an employee, but only for purposes of chapter 81 of this title (relating to compensation for injury) and sections 2671 through 2680 of title 28 (relating to tort claims).
 - **(e)** This section may not be held or considered to prevent or limit in any way the assignment to a handicapped employee (including a blind or deaf employee) by an agency of clerical or secretarial assistance, at the expense of the agency under statutes and regulations currently applicable at the time, if that assistance normally is provided, or authorized to be provided, in that manner under currently applicable statutes and regulations.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 43a . | Aug. 29, 1962 , Pub. L. 87–614 , 76 Stat. 408 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 43a
+
+Aug. 29, 1962
+
+Pub. L. 87–614
+
+76 Stat. 408
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 414](https://www.govinfo.gov/link/statute/80/414); [Pub. L. 90–623, § 1(3)](https://www.govinfo.gov/link/plaw/90/public/623), Oct. 22, 1968, [82 Stat. 1312](https://www.govinfo.gov/link/statute/82/1312); [Pub. L. 95–454, title III, § 302(a)](https://www.govinfo.gov/link/plaw/95/public/454), (b)(2), Oct. 13, 1978, [92 Stat. 1145](https://www.govinfo.gov/link/statute/92/1145), 1146; [Pub. L. 96–54, § 2(a)(11)](https://www.govinfo.gov/link/plaw/96/public/54), Aug. 14, 1979, [93 Stat. 382](https://www.govinfo.gov/link/statute/93/382); [Pub. L. 96–523, § 1(a)](https://www.govinfo.gov/link/plaw/96/public/523), Dec. 12, 1980, [94 Stat. 3039](https://www.govinfo.gov/link/statute/94/3039); [Pub. L. 97–258, § 3(a)(3)](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1063](https://www.govinfo.gov/link/statute/96/1063); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 106–518, title III, § 311](https://www.govinfo.gov/link/plaw/106/public/518), Nov. 13, 2000, [114 Stat. 2421](https://www.govinfo.gov/link/statute/114/2421); [Pub. L. 106–553, § 1(a)(2) [title III, § 307]](https://www.govinfo.gov/link/plaw/106/public/553), Dec. 21, 2000, [114 Stat. 2762](https://www.govinfo.gov/link/statute/114/2762), 2762A–86.)*

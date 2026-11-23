@@ -3,9 +3,10 @@ title: "Section 657b - Veterans programs"
 usc_title: 15
 usc_section: "657b"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 657b"
-generated_at: "2026-03-30T02:54:08.106Z"
+generated_at: "2026-11-23T21:25:39.697Z"
+status: "active"
 ---
 
 # § 657b. Veterans programs
@@ -110,3 +111,99 @@ generated_at: "2026-03-30T02:54:08.106Z"
     - **(E)** any recommendations of the Administrator for improvement of the Boots to Business Program, which may include expansion of the types of individuals who are covered individuals;
     - **(F)** an explanation of how the Boots to Business Program has been integrated with other transition programs and related resources of the Administration and other Federal agencies; and
     - **(G)** any additional information the Administrator determines necessary.
+
+“Congress finds the following:
+
+“The purpose of this Act [see Short Title of 1999 Amendments note set out under section 631 of this title ] is to expand existing and establish new assistance programs for veterans who own or operate small businesses. This Act accomplishes this purpose by—
+
+In General
+
+Membership.—
+
+In general
+
+Appointment.—
+
+In general
+
+Initial appointments
+
+Political affiliation
+
+Prohibition on federal employment.—
+
+In general
+
+Exception
+
+Term of service.—
+
+In general
+
+Terms of initial appointees
+
+Vacancies
+
+Chairperson.—
+
+In general
+
+Vacancies in office of chairperson
+
+Duties
+
+Powers.—
+
+Hearings
+
+Information from federal agencies
+
+Use of mails
+
+Gifts
+
+Meetings.—
+
+In general
+
+Location
+
+Task groups
+
+Compensation and Expenses.—
+
+No compensation
+
+Expenses
+
+Report
+
+In General
+
+Resources
+
+“Not later than 180 days after the date of the enactment of this Act [ Aug. 17, 1999 ], the Secretary of Veterans Affairs, the Administrator of the Small Business Administration, and the head of the association formed pursuant to section 21(a)(3)(A) of the Small Business Act ( 15 U.S.C. 648(a)(3)(A) ) shall enter into a memorandum of understanding with respect to entrepreneurial assistance to veterans, including service-disabled veterans, through Small Business Development Centers (described in section 21 of the Small Business Act ( 15 U.S.C. 648 )) and facilities of the Department of Veterans Affairs. Such assistance shall include the following:
+
+“The Administrator of the Small Business Administration shall transmit annually to the Committees on Small Business and Veterans Affairs of the House of Representatives and the Senate [Committee on Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate] a report on the needs of small business concerns owned and controlled by veterans and small business concerns owned and controlled by service-disabled veterans, which shall include information on—
+
+Information on Federal Procurement Practices
+
+Identification of Small Business Concerns Owned by Eligible Veterans
+
+Self-Employment Opportunities
+
+Data Collection Required
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 85–536, § 2[32]](https://www.govinfo.gov/link/plaw/85/public/536), as added [Pub. L. 106–50, title II, § 201(b)(2)](https://www.govinfo.gov/link/plaw/106/public/50), Aug. 17, 1999, [113 Stat. 235](https://www.govinfo.gov/link/statute/113/235); amended [Pub. L. 108–447, div. K, title I, § 145](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3455](https://www.govinfo.gov/link/statute/118/3455); [Pub. L. 110–186, title I](https://www.govinfo.gov/link/plaw/110/public/186), §§ 102, 104, Feb. 14, 2008, [122 Stat. 624](https://www.govinfo.gov/link/statute/122/624), 625; [Pub. L. 115–416, § 2](https://www.govinfo.gov/link/plaw/115/public/416), Jan. 3, 2019, [132 Stat. 5436](https://www.govinfo.gov/link/statute/132/5436); [Pub. L. 118–159, div. A, title VIII, § 873(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2008](https://www.govinfo.gov/link/statute/138/2008).)*

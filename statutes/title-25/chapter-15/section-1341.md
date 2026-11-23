@@ -3,9 +3,10 @@ title: "Section 1341 - Authorization of Secretary"
 usc_title: 25
 usc_section: "1341"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1341"
-generated_at: "2026-03-30T02:54:52.816Z"
+generated_at: "2026-11-23T21:25:54.602Z"
+status: "active"
 ---
 
 # § 1341. Authorization of Secretary
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:52.816Z"
   - **(3)** have prepared, to the extent determined by the Secretary of the Interior to be feasible, an accurate compilation of the official opinions, published and unpublished, of the Solicitor of the Department of the Interior relating to Indian affairs rendered by the Solicitor prior to September 1, 1967 , and to have such compilation printed as a Government publication at the Government Publishing Office.
 - **(b)** With respect to the document entitled “Indian Affairs, Laws and Treaties” as revised and extended in accordance with paragraph (1) of subsection (a), and the compilation prepared in accordance with paragraph (3) of such subsection, the Secretary of the Interior shall take such action as may be necessary to keep such document and compilation current on an annual basis.
 - **(c)** There is authorized to be appropriated for carrying out the provisions of this subchapter such sum as may be necessary.
+
+## Source Credit
+
+*([Pub. L. 90–284, title VII, § 701](https://www.govinfo.gov/link/plaw/90/public/284), Apr. 11, 1968, [82 Stat. 80](https://www.govinfo.gov/link/statute/82/80); [Pub. L. 93–265](https://www.govinfo.gov/link/plaw/93/public/265), Apr. 12, 1974, [88 Stat. 84](https://www.govinfo.gov/link/statute/88/84); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537).)*

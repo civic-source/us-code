@@ -3,9 +3,10 @@ title: "Section 8121 - Revolving supply fund"
 usc_title: 38
 usc_section: "8121"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 8121"
-generated_at: "2026-03-30T02:55:53.537Z"
+generated_at: "2026-11-23T21:26:16.904Z"
+status: "active"
 ---
 
 # § 8121. Revolving supply fund
@@ -18,3 +19,27 @@ generated_at: "2026-03-30T02:55:53.537Z"
 - **(c)** At the end of each fiscal year, there shall be covered into the Treasury of the United States as miscellaneous receipts such amounts as the Secretary determines to be in excess of the requirements necessary for the maintenance of adequate inventory levels and for the effective financial management of the revolving supply fund.
 - **(d)** An adequate system of accounts for the fund shall be maintained on the accrual method, and financial reports prepared on the basis of such accounts. An annual business type budget shall be prepared for operations under the fund.
 - **(e)** The Secretary is authorized to capitalize, at fair and reasonable values as determined by the Secretary, all supplies and materials and depot stocks of equipment on hand or on order.
+
+Report on Critical Items and Requirements
+
+Participation in Warstopper Program.—
+
+In general
+
+Requirements
+
+Reimbursement
+
+Prohibition on Exclusive Reliance on Regional Inventories
+
+Report on Implementation.—
+
+In general
+
+Contents
+
+Updates to report
+
+## Source Credit
+
+*([Pub. L. 85–857](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1253](https://www.govinfo.gov/link/statute/72/1253), § 5011; amended [Pub. L. 87–314](https://www.govinfo.gov/link/plaw/87/public/314), Sept. 26, 1961, [75 Stat. 675](https://www.govinfo.gov/link/statute/75/675); [Pub. L. 94–581, title II, § 210(e)(6)](https://www.govinfo.gov/link/plaw/94/public/581), Oct. 21, 1976, [90 Stat. 2865](https://www.govinfo.gov/link/statute/90/2865); renumbered § 5021, [Pub. L. 96–22, title III, § 301(b)(1)](https://www.govinfo.gov/link/plaw/96/public/22), June 13, 1979, [93 Stat. 61](https://www.govinfo.gov/link/statute/93/61); [Pub. L. 96–330, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/96/public/330), Aug. 26, 1980, [94 Stat. 1051](https://www.govinfo.gov/link/statute/94/1051); renumbered § 8121, [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238); [Pub. L. 102–83, § 4(a)(3)](https://www.govinfo.gov/link/plaw/102/public/83), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404](https://www.govinfo.gov/link/statute/105/404), 405; [Pub. L. 108–170, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/108/public/170), Dec. 6, 2003, [117 Stat. 2062](https://www.govinfo.gov/link/statute/117/2062).)*

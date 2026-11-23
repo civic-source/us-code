@@ -3,9 +3,10 @@ title: "Section 16152 - Definitions"
 usc_title: 42
 usc_section: "16152"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16152"
-generated_at: "2026-03-30T02:56:11.470Z"
+generated_at: "2026-11-23T21:26:33.700Z"
+status: "active"
 ---
 
 # § 16152. Definitions
@@ -25,3 +26,7 @@ In this subchapter:
     - **(B)** backup electric power.
   - **(7)** The term “Task Force” means the Hydrogen and Fuel Cell Technical Task Force established under section 16155 of this title .
   - **(8)** The term “Technical Advisory Committee” means the independent Technical Advisory Committee established under section 16156 of this title .
+
+## Source Credit
+
+*([Pub. L. 109–58, title VIII, § 803](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 844](https://www.govinfo.gov/link/statute/119/844); [Pub. L. 117–58, div. D, title III, § 40312](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1006](https://www.govinfo.gov/link/statute/135/1006).)*

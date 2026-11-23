@@ -3,9 +3,10 @@ title: "Section 6120 - Requirements for specific request for new or modified nuc
 usc_title: 10
 usc_section: "6120"
 chapter: 602
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6120"
-generated_at: "2026-03-30T02:53:38.219Z"
+generated_at: "2026-11-23T21:25:32.812Z"
+status: "active"
 ---
 
 # § 6120. Requirements for specific request for new or modified nuclear weapons
@@ -30,3 +31,15 @@ generated_at: "2026-03-30T02:53:38.219Z"
   - **(2)** The term “new nuclear weapon” means a nuclear weapon that contains a pit or canned subassembly, either of which is neither—
     - **(A)** in the nuclear weapons stockpile on December 2, 2002 ; nor
     - **(B)** in production as of that date.
+
+Requirement for Request for Funds for Development
+
+Budget Request Format
+
+Notification and Briefing of Noncovered Activities
+
+Definitions
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2)(B), Dec. 18, 2025, [139 Stat. 1357](https://www.govinfo.gov/link/statute/139/1357), 1462.)*

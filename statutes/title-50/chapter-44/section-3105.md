@@ -3,9 +3,10 @@ title: "Section 3105 - Summary of intelligence relating to terrorist recidivism 
 usc_title: 50
 usc_section: "3105"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3105"
-generated_at: "2026-03-30T02:56:26.236Z"
+generated_at: "2026-11-23T21:26:39.012Z"
+status: "active"
 ---
 
 # § 3105. Summary of intelligence relating to terrorist recidivism of detainees held at United States Naval Station, Guantanamo Bay, Cuba
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:26.236Z"
   - **(1)** intelligence relating to recidivism of detainees currently or formerly held at the Naval Detention Facility at Guantanamo Bay, Cuba, by the Department of Defense; and
   - **(2)** an assessment of the likelihood that such detainees will engage in terrorism or communicate with persons in terrorist organizations.
 - **(b)** Not less frequently than annually, the Director of National Intelligence, in consultation with the Director of the Central Intelligence Agency and the Secretary of Defense, shall update and make publicly available an unclassified summary consisting of the information required by subsection (a) and the number of individuals formerly detained at Naval Station, Guantanamo Bay, Cuba, who are confirmed or suspected of returning to terrorist activities after release or transfer from such Naval Station.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title V, § 506I, as added [Pub. L. 112–87, title III, § 307(a)(1)](https://www.govinfo.gov/link/plaw/112/public/87), Jan. 3, 2012, [125 Stat. 1882](https://www.govinfo.gov/link/statute/125/1882); amended [Pub. L. 116–92, div. E, title LVII, § 5701(a)(1)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2159](https://www.govinfo.gov/link/statute/133/2159).)*

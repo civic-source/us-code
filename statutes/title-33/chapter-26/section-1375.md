@@ -3,9 +3,10 @@ title: "Section 1375 - Reports to Congress; detailed estimates and comprehensive
 usc_title: 33
 usc_section: "1375"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1375"
-generated_at: "2026-03-30T02:55:41.103Z"
+generated_at: "2026-11-23T21:26:11.400Z"
+status: "active"
 ---
 
 # § 1375. Reports to Congress; detailed estimates and comprehensive study on costs; State estimates
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:41.103Z"
     - **(D)** an assessment of the operations, loan portfolio, and loan conditions of such revolving funds;
     - **(E)** an assessment of the effect on user charges of the assistance provided by such revolving funds compared to the assistance provided with funds appropriated pursuant to section 1287 of this title ; and
     - **(F)** an assessment of the efficiency of the operation and maintenance of treatment works constructed with assistance provided by such revolving funds compared to the efficiency of the operation and maintenance of treatment works constructed with assistance provided under section 1281 of this title .
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title V, § 516, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 895](https://www.govinfo.gov/link/statute/86/895); amended [Pub. L. 93–243, § 4](https://www.govinfo.gov/link/plaw/93/public/243), Jan. 2, 1974, [87 Stat. 1069](https://www.govinfo.gov/link/statute/87/1069); [Pub. L. 95–217](https://www.govinfo.gov/link/plaw/95/public/217), §§ 70–72, Dec. 27, 1977, [91 Stat. 1608](https://www.govinfo.gov/link/statute/91/1608), 1609; [Pub. L. 100–4, title II, § 212(c)](https://www.govinfo.gov/link/plaw/100/public/4), Feb. 4, 1987, [101 Stat. 27](https://www.govinfo.gov/link/statute/101/27); [Pub. L. 104–66, title II, § 2021(d)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 727](https://www.govinfo.gov/link/statute/109/727); [Pub. L. 105–362, title V, § 501(d)(1)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3283](https://www.govinfo.gov/link/statute/112/3283); [Pub. L. 107–303, title III, § 302(b)(1)](https://www.govinfo.gov/link/plaw/107/public/303), Nov. 27, 2002, [116 Stat. 2361](https://www.govinfo.gov/link/statute/116/2361).)*

@@ -3,9 +3,10 @@ title: "Section 3104 - Survival craft"
 usc_title: 46
 usc_section: "3104"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 3104"
-generated_at: "2026-03-30T02:56:15.542Z"
+generated_at: "2026-11-23T21:26:37.037Z"
+status: "active"
 ---
 
 # § 3104. Survival craft
@@ -18,3 +19,23 @@ generated_at: "2026-03-30T02:56:15.542Z"
   - **(1)** ensures no part of an individual is immersed in water; and
   - **(2)** provides an equal or higher standard of safety than is provided by such requirements as in effect before such date of the enactment.
 - **(d)** In this section, the term “built” has the meaning that term has under section 4503(d).
+
+Requirement To Equip
+
+Higher Standard of Safety
+
+Innovative and Novel Designs
+
+Built Defined
+
+Review
+
+Scope
+
+Updates
+
+Revision
+
+## Source Credit
+
+*(Added [Pub. L. 111–281, title VI, § 609(a)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2968](https://www.govinfo.gov/link/statute/124/2968); amended [Pub. L. 112–213, title III, § 303](https://www.govinfo.gov/link/plaw/112/public/213), Dec. 20, 2012, [126 Stat. 1563](https://www.govinfo.gov/link/statute/126/1563); [Pub. L. 114–120, title III, § 301(a)](https://www.govinfo.gov/link/plaw/114/public/120), Feb. 8, 2016, [130 Stat. 50](https://www.govinfo.gov/link/statute/130/50); [Pub. L. 114–328, div. C, title XXXV, § 3503(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2775](https://www.govinfo.gov/link/statute/130/2775); [Pub. L. 115–282, title V, § 508(e)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4273](https://www.govinfo.gov/link/statute/132/4273).)*

@@ -3,9 +3,10 @@ title: "Section 853 - Foreign tax credit allowed to shareholders"
 usc_title: 26
 usc_section: "853"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 853"
-generated_at: "2026-03-30T02:55:27.733Z"
+generated_at: "2026-11-23T21:26:06.396Z"
+status: "active"
 ---
 
 # § 853. Foreign tax credit allowed to shareholders
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:27.733Z"
 - **(f)**
   - **(1)** For treatment by shareholders of taxes paid to foreign countries and possessions of the United States, see section 164(a) and section 901.
   - **(2)** For definition of foreign corporation, see section 7701(a)(5).
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 272; [Pub. L. 88–272, title II, § 229(a)(3)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 99](https://www.govinfo.gov/link/statute/78/99); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 99–514, title VI, § 655(a)(3)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2299](https://www.govinfo.gov/link/statute/100/2299); [Pub. L. 105–34, title X, § 1053(b)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 943](https://www.govinfo.gov/link/statute/111/943); [Pub. L. 105–206, title VI, § 6010(k)(1)](https://www.govinfo.gov/link/plaw/105/public/206), (2), July 22, 1998, [112 Stat. 815](https://www.govinfo.gov/link/statute/112/815); [Pub. L. 109–135, title IV, § 403(aa)(1)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2630](https://www.govinfo.gov/link/statute/119/2630); [Pub. L. 111–325, title III, § 301(c)](https://www.govinfo.gov/link/plaw/111/public/325), Dec. 22, 2010, [124 Stat. 3544](https://www.govinfo.gov/link/statute/124/3544).)*

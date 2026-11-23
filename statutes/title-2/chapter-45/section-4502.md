@@ -3,12 +3,17 @@ title: "Section 4502 - Appropriation of funds for compensation of Members of Con
 usc_title: 2
 usc_section: "4502"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 4502"
-generated_at: "2026-03-30T02:53:04.831Z"
+generated_at: "2026-11-23T21:25:21.301Z"
+status: "active"
 ---
 
 # § 4502. Appropriation of funds for compensation of Members of Congress and for administrative expenses at levels authorized by law and recommended by the President for Federal employees
 
 Effective beginning with fiscal year 1983, and continuing each year thereafter, such sums as hereafter may be necessary for “Compensation of Members” (and administrative expenses related thereto), as authorized by law and at such level recommended by the President for Federal employees for that fiscal year are hereby appropriated from money in the Treasury not otherwise appropriated. Such sums when paid shall be in lieu of any sums accrued in prior years but not paid. For purposes of this subsection, the term “Member” means each Member of the Senate and the House of Representatives, the Resident Commissioner from Puerto Rico, the Delegates from the District of Columbia, Guam, Virgin Islands, and American Samoa, and the Vice President.
 
+
+## Source Credit
+
+*([Pub. L. 97–51, § 130(c)](https://www.govinfo.gov/link/plaw/97/public/51), Oct. 1, 1981, [95 Stat. 966](https://www.govinfo.gov/link/statute/95/966).)*

@@ -3,9 +3,10 @@ title: "Section 2142 - Domestic medical isotope production"
 usc_title: 42
 usc_section: "2142"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2142"
-generated_at: "2026-03-30T02:56:11.150Z"
+generated_at: "2026-11-23T21:26:32.341Z"
+status: "active"
 ---
 
 # § 2142. Domestic medical isotope production
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.150Z"
     - **(B)** use of the target will permit the large majority of ongoing and planned experiments and medical isotope production to be conducted in the reactor without a large percentage increase in the total cost of operating the reactor;
   - **(3)** the term “highly enriched uranium” means uranium enriched to 20 percent or more in the isotope U–235; and
   - **(4)** the term “medical isotope” includes molybdenum-99, iodine-131, xenon-133, and other radioactive materials used to produce a radiopharmaceutical for diagnostic or therapeutic procedures or for research and development.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 112, as added [Pub. L. 112–239, div. C, title XXXI, § 3176(a)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2215](https://www.govinfo.gov/link/statute/126/2215); [Pub. L. 113–66, div. C, title XXXI, § 3144](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 1071](https://www.govinfo.gov/link/statute/127/1071).)*

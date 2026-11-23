@@ -3,9 +3,10 @@ title: "Section 162 - Combatant commands: assigned forces; chain of command"
 usc_title: 10
 usc_section: "162"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 162"
-generated_at: "2026-03-30T02:53:38.042Z"
+generated_at: "2026-11-23T21:25:32.227Z"
+status: "active"
 ---
 
 # § 162. Combatant commands: assigned forces; chain of command
@@ -20,3 +21,11 @@ generated_at: "2026-03-30T02:53:38.042Z"
 - **(b)** Unless otherwise directed by the President, the chain of command to a unified or specified combatant command runs—
   - **(1)** from the President to the Secretary of Defense; and
   - **(2)** from the Secretary of Defense to the commander of the combatant command.
+
+Assignment of Forces
+
+Chain of Command
+
+## Source Credit
+
+*(Added [Pub. L. 99–433, title II, § 211(a)](https://www.govinfo.gov/link/plaw/99/public/433), Oct. 1, 1986, [100 Stat. 1012](https://www.govinfo.gov/link/statute/100/1012); amended [Pub. L. 100–180, div. A, title XIII, § 1313](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1175](https://www.govinfo.gov/link/statute/101/1175); [Pub. L. 100–456, div. A, title VII, § 711](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 1997](https://www.govinfo.gov/link/statute/102/1997); [Pub. L. 104–201, div. A, title X, § 1073(a)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2657](https://www.govinfo.gov/link/statute/110/2657); [Pub. L. 114–328, div. A, title IX, § 924](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2358](https://www.govinfo.gov/link/statute/130/2358); [Pub. L. 115–91, div. A, title X, § 1081(a)(9)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1594](https://www.govinfo.gov/link/statute/131/1594); [Pub. L. 115–232, div. A, title VIII, § 809(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1840](https://www.govinfo.gov/link/statute/132/1840).)*

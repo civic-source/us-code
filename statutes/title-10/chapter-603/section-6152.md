@@ -3,12 +3,21 @@ title: "Section 6152 - Completion of material protection, control, and accountin
 usc_title: 10
 usc_section: "6152"
 chapter: 603
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6152"
-generated_at: "2026-03-30T02:53:38.220Z"
+generated_at: "2026-11-23T21:25:32.817Z"
+status: "active"
 ---
 
 # § 6152. Completion of material protection, control, and accounting activities in the Russian Federation
 
 - **(a)** Except as provided in subsection (b) or specifically authorized by Congress, international material protection, control, and accounting activities in the Russian Federation shall be completed not later than fiscal year 2018.
 - **(b)** The limitation in subsection (a) shall not apply to international material protection, control, and accounting activities in the Russian Federation associated with the Agreement Concerning the Management and Disposition of Plutonium Designated as No Longer Required for Defense Purposes and Related Cooperation, signed at Moscow and Washington August 29 and September 1, 2000 , and entered into force July 13, 2011 (TIAS 11–713.1), between the United States and the Russian Federation.
+
+In General
+
+Exception
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1372](https://www.govinfo.gov/link/statute/139/1372).)*

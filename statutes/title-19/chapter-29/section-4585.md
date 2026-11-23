@@ -3,9 +3,10 @@ title: "Section 4585 - Rules of procedure for panels and committees"
 usc_title: 19
 usc_section: "4585"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4585"
-generated_at: "2026-03-30T02:54:24.714Z"
+generated_at: "2026-11-23T21:25:42.895Z"
+status: "active"
 ---
 
 # § 4585. Rules of procedure for panels and committees
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:24.714Z"
 - **(c)** The administering authority shall prescribe rules, negotiated in accordance with Annex 10–B.4, governing the procedures for special committees described in such Annex.
 - **(d)** The rules prescribed under subsections (a), (b), and (c) shall be published in the Federal Register.
 - **(e)** As used in this section, the term “administering authority” has the meaning given such term in section 1677(1) of this title .
+
+## Source Credit
+
+*([Pub. L. 116–113, title IV, § 415](https://www.govinfo.gov/link/plaw/116/public/113), formerly [Pub. L. 103–182, title IV, § 405](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2137](https://www.govinfo.gov/link/statute/107/2137); renumbered [§ 415 of Pub. L. 116–113](https://www.govinfo.gov/link/plaw/116/public/113) and amended [Pub. L. 116–113, title V, § 504(f)](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 75](https://www.govinfo.gov/link/statute/134/75).)*

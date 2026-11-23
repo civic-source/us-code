@@ -3,9 +3,10 @@ title: "Section 1385 - Dolphin protection"
 usc_title: 16
 usc_section: "1385"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1385"
-generated_at: "2026-03-30T02:54:22.961Z"
+generated_at: "2026-11-23T21:25:51.866Z"
+status: "active"
 ---
 
 # § 1385. Dolphin protection
@@ -66,3 +67,11 @@ generated_at: "2026-03-30T02:54:22.961Z"
     - **(A)** before the effective date of the initial finding by the Secretary under subsection (g)(1);
     - **(B)** after the effective date of such initial finding and before the effective date of the finding of the Secretary under subsection (g)(2), where the initial finding is that the intentional deployment on or encirclement of dolphins is having a significant adverse impact on any depleted dolphin stock; or
     - **(C)** after the effective date of the finding under subsection (g)(2), where such finding is that the intentional deployment on or encirclement of dolphins is having a significant adverse impact on any such depleted stock.
+
+Negotiations
+
+Effective Date
+
+## Source Credit
+
+*([Pub. L. 101–627, title IX, § 901](https://www.govinfo.gov/link/plaw/101/public/627), Nov. 28, 1990, [104 Stat. 4465](https://www.govinfo.gov/link/statute/104/4465); [Pub. L. 105–42, § 5](https://www.govinfo.gov/link/plaw/105/public/42), Aug. 15, 1997, [111 Stat. 1125](https://www.govinfo.gov/link/statute/111/1125); [Pub. L. 114–81, title I, § 109](https://www.govinfo.gov/link/plaw/114/public/81), Nov. 5, 2015, [129 Stat. 659](https://www.govinfo.gov/link/statute/129/659).)*

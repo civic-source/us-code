@@ -3,9 +3,10 @@ title: "Section 9455 - Board of Visitors"
 usc_title: 10
 usc_section: "9455"
 chapter: 953
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 9455"
-generated_at: "2026-03-30T02:53:38.259Z"
+generated_at: "2026-11-23T21:25:33.001Z"
+status: "active"
 ---
 
 # § 9455. Board of Visitors
@@ -44,3 +45,44 @@ generated_at: "2026-03-30T02:53:38.259Z"
   - **(2)** A member may attend such meeting—
     - **(A)** in person, at the Academy; or
     - **(B)** remotely, at the election of such member.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 9355(a) 9355(b) | 10:1055. 10:1056 (1st sentence). 10:1056 (less 1st sentence). | June 29, 1948, ch. 714 , §§ 1–6, 62 Stat. 1094 ; June 30, 1954, ch. 432, § 732 , 68 Stat. 356 . |
+| 9355(c) | 10:1057. |  |
+| 9355(d) | 10:1058. |  |
+| 9355(e) | 10:1059(a). |  |
+| 9355(f) | 10:1059(b). |  |
+| 9355(g) | 10:1059(c). |  |
+| 9355(h) | 10:1060. |  |
+
+
+Historical and Revision Notes
+
+9355(a)
+
+9355(b)
+
+June 29, 1948, ch. 714
+
+62 Stat. 1094
+
+June 30, 1954, ch. 432, § 732
+
+68 Stat. 356
+
+9355(c)
+
+9355(d)
+
+9355(e)
+
+9355(f)
+
+9355(g)
+
+9355(h)
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 567, § 9355; [Pub. L. 96–579, § 13(c)](https://www.govinfo.gov/link/plaw/96/public/579), Dec. 23, 1980, [94 Stat. 3369](https://www.govinfo.gov/link/statute/94/3369); [Pub. L. 104–106, div. A, title X, § 1061(e)(2)](https://www.govinfo.gov/link/plaw/104/public/106), title XV, § 1502(a)(12), Feb. 10, 1996, [110 Stat. 443](https://www.govinfo.gov/link/statute/110/443), 503; [Pub. L. 106–65, div. A, title X, § 1067(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774); [Pub. L. 108–375, div. A, title V, § 543](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1904](https://www.govinfo.gov/link/statute/118/1904); [Pub. L. 109–364, div. A, title X, § 1071(a)(39)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2400](https://www.govinfo.gov/link/statute/120/2400); renumbered § 9455 and amended [Pub. L. 115–232, div. A, title V, § 593](https://www.govinfo.gov/link/plaw/115/public/232), title VIII, § 806(a)(3), Aug. 13, 2018, [132 Stat. 1789](https://www.govinfo.gov/link/statute/132/1789), 1832; [Pub. L. 117–81, div. A, title V](https://www.govinfo.gov/link/plaw/117/public/81), §§ 554(c), 555(c), Dec. 27, 2021, [135 Stat. 1738](https://www.govinfo.gov/link/statute/135/1738), 1739; [Pub. L. 118–159, div. A, title V, § 558(c)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1899](https://www.govinfo.gov/link/statute/138/1899); [Pub. L. 119–60, div. A, title V, § 557(c)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 879](https://www.govinfo.gov/link/statute/139/879).)*

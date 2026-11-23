@@ -3,9 +3,10 @@ title: "Section 2009cc - Definitions"
 usc_title: 7
 usc_section: "2009cc"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2009cc"
-generated_at: "2026-03-30T02:53:42.360Z"
+generated_at: "2026-11-23T21:25:28.239Z"
+status: "active"
 ---
 
 # § 2009cc. Definitions
@@ -64,3 +65,7 @@ In this subchapter:
         - **(I)** if the rural business concern is not required by law to pay State (and local, if any) income taxes at the enterprise level, the net income (determined without regard to this clause), multiplied by the marginal State income tax rate (or by the combined State and local income tax rates, as applicable) that would have applied if the business concern were a corporation; and
         - **(II)** the net income (so determined) less any deduction for State (and local) income taxes calculated under subclause (I), multiplied by the marginal Federal income tax rate that would have applied if the rural business concern were a corporation; or
     - **(B)** satisfies the standard industrial classification size standards established by the Administrator of the Small Business Administration for the industry in which the rural business concern is primarily engaged.
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 384A](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 107–171, title VI, § 6029](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 388](https://www.govinfo.gov/link/statute/116/388); amended [Pub. L. 115–334, title VI, § 6426(a)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4770](https://www.govinfo.gov/link/statute/132/4770).)*

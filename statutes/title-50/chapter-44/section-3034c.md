@@ -3,9 +3,10 @@ title: "Section 3034c - Intelligence Community Innovation Unit"
 usc_title: 50
 usc_section: "3034c"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3034c"
-generated_at: "2026-03-30T02:56:26.229Z"
+generated_at: "2026-11-23T21:26:38.998Z"
+status: "active"
 ---
 
 # § 3034c. Intelligence Community Innovation Unit
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:56:26.229Z"
   - **(1)** Nothing in this section shall be construed to require any element of the intelligence community to provide preferential treatment for any private sector entity with regard to procurement of technology construed as restricting or preempting any activities of the intelligence community.
   - **(2)** The Unit established pursuant to subsection (c) will be limited to the existing authorities possessed by the Director of National Intelligence.
 - **(k)** The authorities and requirements of this section shall terminate on the date that is 5 years after the date of the establishment of the Unit.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title I, § 103L, as added [Pub. L. 118–31, div. G, title V, § 7502](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1079](https://www.govinfo.gov/link/statute/137/1079).)*

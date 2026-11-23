@@ -3,9 +3,10 @@ title: "Section 1365 - Tampering with consumer products"
 usc_title: 18
 usc_section: "1365"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1365"
-generated_at: "2026-03-30T02:54:16.484Z"
+generated_at: "2026-11-23T21:25:44.058Z"
+status: "active"
 ---
 
 # § 1365. Tampering with consumer products
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:54:16.484Z"
     - **(C)** illness;
     - **(D)** impairment of the function of a bodily member, organ, or mental faculty; or
     - **(E)** any other injury to the body, no matter how temporary.
+
+## Source Credit
+
+*(Added [Pub. L. 98–127, § 2](https://www.govinfo.gov/link/plaw/98/public/127), Oct. 13, 1983, [97 Stat. 831](https://www.govinfo.gov/link/statute/97/831); amended [Pub. L. 101–647, title XXXV, § 3544](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4926](https://www.govinfo.gov/link/statute/104/4926); [Pub. L. 103–322, title XXXIII, § 330016(1)(L)](https://www.govinfo.gov/link/plaw/103/public/322), (O), (Q), (S), Sept. 13, 1994, [108 Stat. 2147](https://www.govinfo.gov/link/statute/108/2147), 2148; [Pub. L. 107–307, § 2](https://www.govinfo.gov/link/plaw/107/public/307), Dec. 2, 2002, [116 Stat. 2445](https://www.govinfo.gov/link/statute/116/2445).)*

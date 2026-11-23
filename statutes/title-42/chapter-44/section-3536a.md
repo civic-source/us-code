@@ -3,9 +3,10 @@ title: "Section 3536a - Report on interagency family economic empowerment strate
 usc_title: 42
 usc_section: "3536a"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3536a"
-generated_at: "2026-03-30T02:56:11.189Z"
+generated_at: "2026-11-23T21:26:32.574Z"
+status: "active"
 ---
 
 # § 3536a. Report on interagency family economic empowerment strategies
@@ -14,3 +15,7 @@ The Secretary of Housing and Urban Development, in consultation with the Secreta
 
   - **(1)** any interagency strategies of such Departments that are designed to improve family economic empowerment by linking housing assistance with essential supportive services, such as employment counseling and training, financial education and growth, childcare, transportation, meals, youth recreational activities, and other supportive services; and
   - **(2)** any actions taken in the preceding year to carry out such strategies and the extent of progress achieved by such actions.
+
+## Source Credit
+
+*([Pub. L. 114–201, title VI, § 601](https://www.govinfo.gov/link/plaw/114/public/201), July 29, 2016, [130 Stat. 812](https://www.govinfo.gov/link/statute/130/812).)*

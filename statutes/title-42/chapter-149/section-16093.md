@@ -3,9 +3,10 @@ title: "Section 16093 - Fuel cell school buses"
 usc_title: 42
 usc_section: "16093"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16093"
-generated_at: "2026-03-30T02:56:11.468Z"
+generated_at: "2026-11-23T21:26:33.695Z"
+status: "active"
 ---
 
 # § 16093. Fuel cell school buses
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.468Z"
   - **(1)** evaluates the process of converting natural gas infrastructure to accommodate fuel cell-powered school buses; and
   - **(2)** assesses the results of the development and demonstration program under this section.
 - **(d)** There are authorized to be appropriated to the Secretary to carry out this section $25,000,000 for the period of fiscal years 2006 through 2009.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VII, § 743](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 826](https://www.govinfo.gov/link/statute/119/826).)*

@@ -3,9 +3,10 @@ title: "Section 411 - Bill of rights; constitution and bylaws of labor organizat
 usc_title: 29
 usc_section: "411"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 411"
-generated_at: "2026-03-30T02:55:18.683Z"
+generated_at: "2026-11-23T21:26:02.180Z"
+status: "active"
 ---
 
 # § 411. Bill of rights; constitution and bylaws of labor organizations
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:18.683Z"
   - **(4)** No labor organization shall limit the right of any member thereof to institute an action in any court, or in a proceeding before any administrative agency, irrespective of whether or not the labor organization or its officers are named as defendants or respondents in such action or proceeding, or the right of any member of a labor organization to appear as a witness in any judicial, administrative, or legislative proceeding, or to petition any legislature or to communicate with any legislator: Provided , That any such member may be required to exhaust reasonable hearing procedures (but not to exceed a four-month lapse of time) within such organization, before instituting legal or administrative proceedings against such organizations or any officer thereof: And provided further , That no interested employer or employer association shall directly or indirectly finance, encourage, or participate in, except as a party, any such action, proceeding, appearance, or petition.
   - **(5)** No member of any labor organization may be fined, suspended, expelled, or otherwise disciplined except for nonpayment of dues by such organization or by any officer thereof unless such member has been (A) served with written specific charges; (B) given a reasonable time to prepare his defense; (C) afforded a full and fair hearing.
 - **(b)** Any provision of the constitution and bylaws of any labor organization which is inconsistent with the provisions of this section shall be of no force or effect.
+
+## Source Credit
+
+*([Pub. L. 86–257, title I, § 101](https://www.govinfo.gov/link/plaw/86/public/257), Sept. 14, 1959, [73 Stat. 522](https://www.govinfo.gov/link/statute/73/522).)*

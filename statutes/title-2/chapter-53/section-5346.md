@@ -3,9 +3,10 @@ title: "Section 5346 - Transportation of official records and papers to House Me
 usc_title: 2
 usc_section: "5346"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 5346"
-generated_at: "2026-03-30T02:53:04.836Z"
+generated_at: "2026-11-23T21:25:21.329Z"
+status: "active"
 ---
 
 # § 5346. Transportation of official records and papers to House Member’s district
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:04.836Z"
 - **(b)** As used in this section—
   - **(1)** the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress; and
   - **(2)** the term “official records and papers” means books, records, papers, and official files which could be sent as franked mail.
+
+## Source Credit
+
+*([Pub. L. 98–51, title I, § 111(1)](https://www.govinfo.gov/link/plaw/98/public/51), July 14, 1983, [97 Stat. 269](https://www.govinfo.gov/link/statute/97/269); [Pub. L. 104–186, title II, § 203(21)](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1728](https://www.govinfo.gov/link/statute/110/1728).)*

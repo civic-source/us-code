@@ -3,9 +3,10 @@ title: "Section 200104 - Federal interagency council on outdoor recreation 1 1 S
 usc_title: 54
 usc_section: "200104"
 chapter: 2001
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "54 U.S.C. § 200104"
-generated_at: "2026-03-30T02:56:28.420Z"
+generated_at: "2026-11-23T21:26:42.790Z"
+status: "active"
 ---
 
 # § 200104. Federal interagency council on outdoor recreation 1 1 So in original. Probably should be capitalized as “Federal Interagency Council on Outdoor Recreation”.
@@ -54,3 +55,42 @@ generated_at: "2026-03-30T02:56:28.420Z"
     - **(C)** to provide additional resources relating to enhancing outdoor recreation opportunities; and
   - **(9)** any other outdoor recreation-related issues that the Council determines necessary.
 - **(d)** Nothing in this section affects the authorities, regulations, or policies of any Federal agency described in paragraph (1) or (2) of subsection (b).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 200104 | 16 U.S.C. 460 l –2. | Pub. L. 88–29, § 3 , May 28, 1963 , 77 Stat. 50 . |
+
+
+Establishment
+
+Composition.—
+
+In general
+
+Additional participants
+
+State coordination
+
+Leadership
+
+Funding
+
+Coordination
+
+Effect
+
+Historical and Revision Notes
+
+200104
+
+16 U.S.C. 460
+
+Pub. L. 88–29, § 3
+
+May 28, 1963
+
+77 Stat. 50
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3171](https://www.govinfo.gov/link/statute/128/3171); [Pub. L. 118–234, title I, § 113(b)](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2840](https://www.govinfo.gov/link/statute/138/2840).)*

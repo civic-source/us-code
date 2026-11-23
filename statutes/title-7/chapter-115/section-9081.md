@@ -3,9 +3,10 @@ title: "Section 9081 - Supplemental agricultural disaster assistance"
 usc_title: 7
 usc_section: "9081"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 9081"
-generated_at: "2026-03-30T02:53:42.488Z"
+generated_at: "2026-11-23T21:25:28.496Z"
+status: "active"
 ---
 
 # § 9081. Supplemental agricultural disaster assistance
@@ -169,3 +170,25 @@ generated_at: "2026-03-30T02:53:42.488Z"
   - **(1)** In this subsection, the terms “legal entity” and “person” have the meaning given those terms in section 1001(a) of the Food Security Act of 1985 ( 7 U.S.C. 1308(a) ).
   - **(2)** The total amount of disaster assistance payments received, directly or indirectly, by a person or legal entity (excluding a joint venture or general partnership) under subsection (c) may not exceed $125,000 for any crop year.
   - **(3)** Subsections (e) and (f) of section 1001 of the Food Security Act of 1985 ( 7 U.S.C. 1308 ) or any successor provisions relating to direct attribution shall apply with respect to assistance provided under this section.
+
+(aa) the current production year; or
+
+(bb) subject to paragraph (3)(B)(ii), 1 or both of the 2 production years immediately preceding the current production year.
+
+(aa) the national average corn price per bushel for the 12-month period immediately preceding March 1 of the year for which the disaster assistance is calculated; or
+
+(bb) the national average corn price per bushel for the 24-month period immediately preceding that March 1; by
+
+(aa) 4 consecutive weeks during the normal grazing period for the county, as determined by the Secretary, shall be eligible to receive assistance under this paragraph in an amount equal to 1 monthly payment using the monthly payment rate determined under subparagraph (B); or
+
+(bb) 7 of the previous 8 consecutive weeks during the normal grazing period for the county, as determined by the Secretary, shall be eligible to receive assistance under this paragraph in an amount equal to 2 monthly payments using the monthly payment rate determined under subparagraph (B).
+
+(aa) in an amount equal to 3 monthly payments using the monthly payment rate determined under subparagraph (B);
+
+(bb) if the county is rated as having a D3 (extreme drought) intensity in any area of the county for at least 4 weeks during the normal grazing period for the county, or is rated as having a D4 (exceptional drought) intensity in any area of the county at any time during the normal grazing period, in an amount equal to 4 monthly payments using the monthly payment rate determined under subparagraph (B); or
+
+(cc) if the county is rated as having a D4 (exceptional drought) intensity in any area of the county for at least 4 weeks during the normal grazing period, in an amount equal to 5 monthly payments using the monthly rate determined under subparagraph (B).
+
+## Source Credit
+
+*([Pub. L. 113–79, title I, § 1501](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 697](https://www.govinfo.gov/link/statute/128/697); [Pub. L. 115–123, div. B, title I, § 20101(a)](https://www.govinfo.gov/link/plaw/115/public/123) –(d), Feb. 9, 2018, [132 Stat. 68](https://www.govinfo.gov/link/statute/132/68), 69; [Pub. L. 115–334, title I, § 1501(a)](https://www.govinfo.gov/link/plaw/115/public/334) –(c)(1), (d), (e), title XII, § 12306(h), Dec. 20, 2018, [132 Stat. 4522](https://www.govinfo.gov/link/statute/132/4522), 4523, 4970; [Pub. L. 119–21, title I, § 10401(a)](https://www.govinfo.gov/link/plaw/119/public/21) –(c)(1), (d), July 4, 2025, [139 Stat. 101–103](https://www.govinfo.gov/link/statute/139/101).)*

@@ -3,9 +3,10 @@ title: "Section 31106 - Information systems"
 usc_title: 49
 usc_section: "31106"
 chapter: 311
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 31106"
-generated_at: "2026-03-30T02:56:19.357Z"
+generated_at: "2026-11-23T21:26:40.775Z"
+status: "active"
 ---
 
 # § 31106. Information systems
@@ -48,3 +49,76 @@ generated_at: "2026-03-30T02:56:19.357Z"
 - **(e)**
   - **(1)** The Secretary shall develop a policy on making information available from the information systems authorized by this section and section 31309. The policy shall be consistent with existing Federal information laws, including regulations, and shall provide for review and correction of such information in a timely manner.
   - **(2)** Notwithstanding any prohibition on disclosure of information in section 31105(h) or 31143(b) of this title or section 552a of title 5 , the Secretary may disclose information maintained by the Secretary pursuant to chapters 51, 135, 311, or 313 of this title to appropriate personnel of a State agency or instrumentality authorized to carry out State commercial motor vehicle safety activities and commercial driver’s license laws, or appropriate personnel of a local law enforcement agency, in accordance with standards, conditions, and procedures as determined by the Secretary. Disclosure under this section shall not operate as a waiver by the Secretary of any applicable privilege against disclosure under common law or as a basis for compelling disclosure under section 552 of title 5 .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 31106(a) | 49 App.:2306(f). | Jan. 6, 1983 , Pub. L. 97–424 , 96 Stat. 2155 , § 407; added Dec. 18, 1991 , Pub. L. 102–240, § 4003 , 105 Stat. 2144 . |
+| 31106(b) | 49 App.:2306(a) (2)–(5). |  |
+| 31106(c) | 49 App.:2306(b). |  |
+| 31106(d) | 49 App.:2306(a)(1). |  |
+| 31106(e) | 49 App.:2306(c). |  |
+| 31106(f) | 49 App.:2306(d). |  |
+| 31106(g) | 49 App.:2306(e). |  |
+
+
+Information Systems and Data Analysis.—
+
+In general
+
+Network coordination
+
+Data analysis capacity and programs
+
+Standards
+
+Performance and Registration Information Systems Management.—
+
+Information clearinghouse
+
+Design
+
+Conditions for participation
+
+In General
+
+Access to records
+
+Cooperative Agreements, Grants, and Contracts
+
+Information Availability and Privacy Protection Policy
+
+In general
+
+Historical and Revision Notes
+
+31106(a)
+
+Jan. 6, 1983
+
+Pub. L. 97–424
+
+96 Stat. 2155
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 4003
+
+105 Stat. 2144
+
+31106(b)
+
+31106(c)
+
+31106(d)
+
+31106(e)
+
+31106(f)
+
+31106(g)
+
+Commercial Motor Vehicle Driver Safety Program
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 991](https://www.govinfo.gov/link/statute/108/991); [Pub. L. 105–178, title IV, § 4004(a)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 398](https://www.govinfo.gov/link/statute/112/398); [Pub. L. 109–59, title IV](https://www.govinfo.gov/link/plaw/109/public/59), §§ 4108(a), 4109(a), Aug. 10, 2005, [119 Stat. 1720](https://www.govinfo.gov/link/statute/119/1720); [Pub. L. 112–141, div. C, title II](https://www.govinfo.gov/link/plaw/112/public/141), §§ 32103(b), 32306, 32508, 32602, July 6, 2012, [126 Stat. 780](https://www.govinfo.gov/link/statute/126/780), 793, 805, 807; [Pub. L. 114–94, div. A, title V](https://www.govinfo.gov/link/plaw/114/public/94), §§ 5101(e)(2), 5102, Dec. 4, 2015, [129 Stat. 1525](https://www.govinfo.gov/link/statute/129/1525), 1526.)*

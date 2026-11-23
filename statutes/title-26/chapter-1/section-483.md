@@ -3,9 +3,10 @@ title: "Section 483 - Interest on certain deferred payments"
 usc_title: 26
 usc_section: "483"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 483"
-generated_at: "2026-03-30T02:55:27.709Z"
+generated_at: "2026-11-23T21:26:06.302Z"
+status: "active"
 ---
 
 # § 483. Interest on certain deferred payments
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:55:27.709Z"
   - **(1)** For treatment of assumptions, see section l274(c)(4).
   - **(2)** For special rules for certain transactions where stated principal amount does not exceed $2,800,000, see section 1274A.
   - **(3)** For special rules in case of the borrower under certain loans for personal use, see section 1275(b).
+
+## Source Credit
+
+*(Added [Pub. L. 88–272, title II, § 224(a)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 77](https://www.govinfo.gov/link/statute/78/77); amended [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(b)(3)(B), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1792](https://www.govinfo.gov/link/statute/90/1792), 1834; [Pub. L. 97–34, title I, § 126(a)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 202](https://www.govinfo.gov/link/statute/95/202); [Pub. L. 97–448, title I, § 101(g)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2367](https://www.govinfo.gov/link/statute/96/2367); [Pub. L. 98–369, div. A, title I, § 41(b)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 553](https://www.govinfo.gov/link/statute/98/553); [Pub. L. 99–121, title I](https://www.govinfo.gov/link/plaw/99/public/121), §§ 101(a)(2), 102(c)(1)–(3), Oct. 11, 1985, [99 Stat. 505](https://www.govinfo.gov/link/statute/99/505), 508; [Pub. L. 99–514, title XVIII, § 1803(a)(14)(B)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2797](https://www.govinfo.gov/link/statute/100/2797).)*

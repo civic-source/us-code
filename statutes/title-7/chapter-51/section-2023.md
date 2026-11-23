@@ -3,9 +3,10 @@ title: "Section 2023 - Administrative and judicial review; restoration of rights
 usc_title: 7
 usc_section: "2023"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2023"
-generated_at: "2026-03-30T02:53:42.370Z"
+generated_at: "2026-11-23T21:25:28.259Z"
+status: "active"
 ---
 
 # § 2023. Administrative and judicial review; restoration of rights
@@ -30,3 +31,11 @@ generated_at: "2026-03-30T02:53:42.370Z"
   - **(17)** During the pendency of such judicial review, or any appeal therefrom, the administrative action under review shall be and remain in full force and effect, unless on application to the court on not less than ten days’ notice, and after hearing thereon and a consideration by the court of the applicant’s likelihood of prevailing on the merits and of irreparable injury, the court temporarily stays such administrative action pending disposition of such trial or appeal.
   - **(18)** Notwithstanding any other provision of this subsection, any permanent disqualification of a retail food store or wholesale food concern under paragraph (3) or (4) of section 2021(b) of this title shall be effective from the date of receipt of the notice of disqualification. If the disqualification is reversed through administrative or judicial review, the Secretary shall not be liable for the value of any sales lost during the disqualification period.
 - **(b)** In any judicial action arising under this chapter, any allotments found to have been wrongfully withheld shall be restored only for periods of not more than one year prior to the date of the commencement of such action, or in the case of an action seeking review of a final State agency determination, not more than one year prior to the date of the filing of a request with the State for the restoration of such allotments or, in either case, not more than one year prior to the date the State agency is notified or otherwise discovers the possible loss to a household.
+
+Delivery of notices
+
+Suspension of stores pending review
+
+## Source Credit
+
+*([Pub. L. 88–525, § 14](https://www.govinfo.gov/link/plaw/88/public/525), Aug. 31, 1964, [78 Stat. 708](https://www.govinfo.gov/link/statute/78/708); [Pub. L. 91–671, § 7](https://www.govinfo.gov/link/plaw/91/public/671), Jan. 11, 1971, [84 Stat. 2052](https://www.govinfo.gov/link/statute/84/2052); [Pub. L. 92–603, title IV, § 411(f)](https://www.govinfo.gov/link/plaw/92/public/603), Oct. 30, 1972, [86 Stat. 1492](https://www.govinfo.gov/link/statute/86/1492); [Pub. L. 95–113, title XIII, § 1301](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 974](https://www.govinfo.gov/link/statute/91/974); [Pub. L. 97–98, title XIII, § 1320(b)](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1286](https://www.govinfo.gov/link/statute/95/1286); [Pub. L. 97–253, title I, § 176(b)](https://www.govinfo.gov/link/plaw/97/public/253), Sept. 8, 1982, [96 Stat. 781](https://www.govinfo.gov/link/statute/96/781); [Pub. L. 99–198, title XV, § 1536](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1585](https://www.govinfo.gov/link/statute/99/1585); [Pub. L. 100–435, title VI, § 603](https://www.govinfo.gov/link/plaw/100/public/435), Sept. 19, 1988, [102 Stat. 1674](https://www.govinfo.gov/link/statute/102/1674); [Pub. L. 103–66, title XIII, § 13951(b)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 678](https://www.govinfo.gov/link/statute/107/678); [Pub. L. 104–193, title VIII, § 845](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2333](https://www.govinfo.gov/link/statute/110/2333); [Pub. L. 107–171, title IV, § 4117(a)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 316](https://www.govinfo.gov/link/statute/116/316); [Pub. L. 110–234, title IV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 4001(b), 4002(a)(7), May 22, 2008, [122 Stat. 1092](https://www.govinfo.gov/link/statute/122/1092), 1094; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, §§ 4001(b), 4002(a)(7), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1853, 1855.)*

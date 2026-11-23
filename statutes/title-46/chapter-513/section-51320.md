@@ -3,9 +3,10 @@ title: "Section 51320 - Acceptance of guarantees with gifts for major projects"
 usc_title: 46
 usc_section: "51320"
 chapter: 513
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 51320"
-generated_at: "2026-03-30T02:56:15.570Z"
+generated_at: "2026-11-23T21:26:37.235Z"
+status: "active"
 ---
 
 # § 51320. Acceptance of guarantees with gifts for major projects
@@ -40,3 +41,27 @@ generated_at: "2026-03-30T02:56:15.570Z"
 - **(c)** The amount of a qualified guarantee accepted under this section shall be considered as contract authority to provide obligation authority for purposes of Federal fiscal and contractual requirements. Funds available for a project for which such a guarantee has been accepted may be obligated and expended for the project without regard to whether the total amount of funds and other resources available for the project (not taking into account the amount of the guarantee) is sufficient to pay for completion of the project.
 - **(d)** The Maritime Administrator may not accept a qualified guarantee under this section for the completion of a major project until 30 days after the date on which a report of the facts concerning the proposed guarantee is submitted to Congress.
 - **(e)** The Maritime Administrator may not enter into any contract or other transaction involving the use of a qualified guarantee and appropriated funds in the same contract or transaction.
+
+Definitions
+
+Major project
+
+Major united states commercial bank
+
+Major united states investment management firm
+
+Qualified guarantee
+
+Qualified account control agreement
+
+Acceptance Authority
+
+Obligation Authority
+
+Notice
+
+Prohibition on Commingling Funds
+
+## Source Credit
+
+*(Added [Pub. L. 115–91, div. C, title XXXV, § 3510(a)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1916](https://www.govinfo.gov/link/statute/131/1916).)*

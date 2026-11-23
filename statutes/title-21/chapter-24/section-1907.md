@@ -3,9 +3,10 @@ title: "Section 1907 - Definitions"
 usc_title: 21
 usc_section: "1907"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 1907"
-generated_at: "2026-03-30T02:54:54.307Z"
+generated_at: "2026-11-23T21:25:56.295Z"
+status: "active"
 ---
 
 # § 1907. Definitions
@@ -19,3 +20,7 @@ As used in this chapter:
   - **(5)** The term “person” means an individual or entity.
   - **(6)** The term “United States person” means any United States citizen or national, permanent resident alien, an entity organized under the laws of the United States (including its foreign branches), or any person within the United States.
   - **(7)** The term “significant foreign narcotics trafficker” means any foreign person that plays a significant role in international narcotics trafficking, that the President has determined to be appropriate for sanctions pursuant to this chapter, and that the President has publicly identified in the report required under subsection (b) or (h)(1) of section 1903 of this title .
+
+## Source Credit
+
+*([Pub. L. 106–120, title VIII, § 808](https://www.govinfo.gov/link/plaw/106/public/120), Dec. 3, 1999, [113 Stat. 1632](https://www.govinfo.gov/link/statute/113/1632).)*

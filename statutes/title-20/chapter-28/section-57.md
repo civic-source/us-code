@@ -3,9 +3,10 @@ title: "Section 57 - Additional funds to conduct community service work-study pr
 usc_title: 20
 usc_section: "57"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 57"
-generated_at: "2026-03-30T02:54:48.123Z"
+generated_at: "2026-11-23T21:25:47.143Z"
+status: "active"
 ---
 
 # § 1087–57. Additional funds to conduct community service work-study programs
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:48.123Z"
   - **(2)** An institution shall ensure that funds granted to such institution under this subsection are used in accordance with section 1087–53(b)(2)(A) of this title to recruit and compensate students (including compensation for time spent in training and for travel directly related to such community service).
   - **(3)** In awarding grants under this subsection, the Secretary shall give priority to applications that support postsecondary students assisting with early childhood education activities and activities in preparation for emergencies and natural disasters.
   - **(4)** There are authorized to be appropriated to carry out this subsection such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 447](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1436](https://www.govinfo.gov/link/statute/100/1436); amended [Pub. L. 102–325, title IV, § 446(a)](https://www.govinfo.gov/link/plaw/102/public/325), (b), July 23, 1992, [106 Stat. 567](https://www.govinfo.gov/link/statute/106/567); [Pub. L. 110–315, title IV, § 446](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3260](https://www.govinfo.gov/link/statute/122/3260).)*

@@ -3,9 +3,10 @@ title: "Section 1028 - Hot dry rock geothermal energy"
 usc_title: 30
 usc_section: "1028"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1028"
-generated_at: "2026-03-30T02:55:29.396Z"
+generated_at: "2026-11-23T21:26:00.415Z"
+status: "active"
 ---
 
 # § 1028. Hot dry rock geothermal energy
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:29.396Z"
       - **(ii)** risk maps for induced seismicity based on geologic, geographic, and operational parameters; and
   - **(2)** to the maximum extent practicable, by coordinating with relevant State officials and institutions of higher education to expand geothermal assessments, including enhanced geothermal systems assessments, to include assessments for the Commonwealth of Puerto Rico and the States of Alaska and Hawaii.
 - **(d)** There are authorized to be appropriated such sums as may be necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXV, § 2501](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3101](https://www.govinfo.gov/link/statute/106/3101); [Pub. L. 116–260, div. Z, title III, § 3002(m)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2496](https://www.govinfo.gov/link/statute/134/2496).)*

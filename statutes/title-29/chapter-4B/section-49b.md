@@ -3,9 +3,10 @@ title: "Section 49b - Duties of Secretary"
 usc_title: 29
 usc_section: "49b"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 49b"
-generated_at: "2026-03-30T02:55:18.674Z"
+generated_at: "2026-11-23T21:26:02.162Z"
+status: "active"
 ---
 
 # § 49b. Duties of Secretary
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:18.674Z"
 - **(e)** The Secretary, in consultation with States, is authorized to assist the States in the development of national electronic tools that may be used to improve access to workforce information for individuals through—
   - **(1)** the one-stop delivery systems established as described in section 3151(e) of this title ; and
   - **(2)** such other delivery systems as the Secretary determines to be appropriate.
+
+## Source Credit
+
+*(June 6, 1933, ch. 49, § 3, [48 Stat. 114](https://www.govinfo.gov/link/statute/48/114); Sept. 8, 1950, ch. 933, § 1, [64 Stat. 822](https://www.govinfo.gov/link/statute/64/822); Aug. 3, 1954, ch. 655, § 6(a), [68 Stat. 665](https://www.govinfo.gov/link/statute/68/665); Aug. 1, 1956, ch. 852, § 17(a), [70 Stat. 910](https://www.govinfo.gov/link/statute/70/910); [Pub. L. 86–624, § 21(a)](https://www.govinfo.gov/link/plaw/86/public/624), July 12, 1960, [74 Stat. 417](https://www.govinfo.gov/link/statute/74/417); [Pub. L. 93–198, title II, § 204(c)](https://www.govinfo.gov/link/plaw/93/public/198), Dec. 24, 1973, [87 Stat. 783](https://www.govinfo.gov/link/statute/87/783); [Pub. L. 94–566, title V, § 508(a)](https://www.govinfo.gov/link/plaw/94/public/566), Oct. 20, 1976, [90 Stat. 2689](https://www.govinfo.gov/link/statute/90/2689); [Pub. L. 97–300, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/97/public/300), formerly title V, § 501(a), Oct. 13, 1982, [96 Stat. 1392](https://www.govinfo.gov/link/statute/96/1392); renumbered title VI, § 601(a), [Pub. L. 100–628, title VII, § 712(a)(1)](https://www.govinfo.gov/link/plaw/100/public/628), (2), Nov. 7, 1988, [102 Stat. 3248](https://www.govinfo.gov/link/statute/102/3248); [Pub. L. 99–198, title XV, § 1535(b)(2)](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1584](https://www.govinfo.gov/link/statute/99/1584); [Pub. L. 104–193, title I, § 110(m)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2173](https://www.govinfo.gov/link/statute/110/2173); [Pub. L. 105–220, title III](https://www.govinfo.gov/link/plaw/105/public/220), §§ 302(a), 310, Aug. 7, 1998, [112 Stat. 1080](https://www.govinfo.gov/link/statute/112/1080), 1086; [Pub. L. 110–234, title IV, § 4002(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/234), (B), (2)(Q), May 22, 2008, [122 Stat. 1095–1097](https://www.govinfo.gov/link/statute/122/1095); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4002(b)(1)(A), (B), (2)(Q), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1858; [Pub. L. 113–128, title III, § 303](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1625](https://www.govinfo.gov/link/statute/128/1625).)*

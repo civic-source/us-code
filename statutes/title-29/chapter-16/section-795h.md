@@ -3,9 +3,10 @@ title: "Section 795h - Allotments"
 usc_title: 29
 usc_section: "795h"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 795h"
-generated_at: "2026-03-30T02:55:18.699Z"
+generated_at: "2026-11-23T21:26:02.215Z"
+status: "active"
 ---
 
 # § 795h. Allotments
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:18.699Z"
 - **(b)** Whenever the Commissioner determines that any amount of an allotment to a State under subsection (a) for any fiscal year will not be expended by such State for carrying out the provisions of this subchapter, the Commissioner shall make such amount available for carrying out the provisions of this subchapter to 1 or more of the States that the Commissioner determines will be able to use additional amounts during such year for carrying out such provisions. Any amount made available to a State for any fiscal year pursuant to the preceding sentence shall, for the purposes of this section, be regarded as an increase in the allotment of the State (as determined under the preceding provisions of this section) for such year.
 - **(c)** A State that receives an allotment under this subchapter shall not use more than 2.5 percent of such allotment to pay for administrative costs.
 - **(d)** A State that receives an allotment under this subchapter shall reserve and expend half of such allotment for the provision of supported employment services, including extended services, to youth with the most significant disabilities in order to assist those youth in achieving an employment outcome in supported employment.
+
+## Source Credit
+
+*([Pub. L. 93–112, title VI, § 603](https://www.govinfo.gov/link/plaw/93/public/112), formerly § 622, as added [Pub. L. 105–220, title IV, § 409](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1214](https://www.govinfo.gov/link/statute/112/1214); amended [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(13)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–414; renumbered § 603 and amended [Pub. L. 113–128, title IV, § 461(3)](https://www.govinfo.gov/link/plaw/113/public/128), (5), July 22, 2014, [128 Stat. 1679](https://www.govinfo.gov/link/statute/128/1679).)*

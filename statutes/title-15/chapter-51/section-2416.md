@@ -3,9 +3,10 @@ title: "Section 2416 - Contracts and other funding arrangements"
 usc_title: 15
 usc_section: "2416"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2416"
-generated_at: "2026-03-30T02:54:08.172Z"
+generated_at: "2026-11-23T21:25:39.928Z"
+status: "active"
 ---
 
 # § 2416. Contracts and other funding arrangements
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.172Z"
   - **(3)** the participating parties agree that all information relating to any innovation or achievement generated in the course of any Center-funded demonstration program shall be public information.
 - **(b)** No contract or other funding arrangement shall be made or entered into pursuant to the provisions of this chapter for a period of more than three years.
 - **(c)** Any non-Federal share of a project may be in cash or in kind, fairly evaluated, including, but not limited to, plant, equipment, or services.
+
+## Source Credit
+
+*([Pub. L. 94–136, title II, § 206](https://www.govinfo.gov/link/plaw/94/public/136), Nov. 28, 1975, [89 Stat. 739](https://www.govinfo.gov/link/statute/89/739).)*

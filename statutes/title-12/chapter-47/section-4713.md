@@ -3,9 +3,10 @@ title: "Section 4713 - Incentives for depository institution participation"
 usc_title: 12
 usc_section: "4713"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4713"
-generated_at: "2026-03-30T02:53:53.517Z"
+generated_at: "2026-11-23T21:25:37.213Z"
+status: "active"
 ---
 
 # § 4713. Incentives for depository institution participation
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:53:53.517Z"
   - **(5)** The Administrator may, in the Administrator’s discretion, apply section 233 of the Bank Enterprise Act of 1991 for purposes of this section by providing community enterprise assessment credits with respect to annual periods rather than semiannual periods.
   - **(6)** The Administrator shall ensure that information about the Bank Enterprise Act of 1991 under this section is widely disseminated to all interested parties.
   - **(7)** For the purpose of this subchapter, section 233(a)(2)(A) of the Bank Enterprise Act of 1991 shall be applied by inserting “of the increase” after “the amount”.
+
+## Source Credit
+
+*([Pub. L. 103–325, title I, § 114](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2179](https://www.govinfo.gov/link/statute/108/2179).)*

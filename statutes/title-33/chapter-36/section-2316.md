@@ -3,9 +3,10 @@ title: "Section 2316 - Environmental protection mission"
 usc_title: 33
 usc_section: "2316"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2316"
-generated_at: "2026-03-30T02:55:41.122Z"
+generated_at: "2026-11-23T21:26:11.443Z"
+status: "active"
 ---
 
 # § 2316. Environmental protection mission
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:41.122Z"
   - **(1)** existing Corps of Engineers’ authorities, including its authorities with respect to navigation and flood control;
   - **(2)** pending Corps of Engineers permit applications or pending lawsuits involving permits or water resources projects; or
   - **(3)** the application of public interest review procedures for Corps of Engineers permits.
+
+## Source Credit
+
+*([Pub. L. 101–640, title III, § 306](https://www.govinfo.gov/link/plaw/101/public/640), Nov. 28, 1990, [104 Stat. 4635](https://www.govinfo.gov/link/statute/104/4635).)*

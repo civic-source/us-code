@@ -3,9 +3,10 @@ title: "Section 602 - Foreign letters out of the mails"
 usc_title: 39
 usc_section: "602"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 602"
-generated_at: "2026-03-30T02:55:43.689Z"
+generated_at: "2026-11-23T21:26:12.771Z"
+status: "active"
 ---
 
 # § 602. Foreign letters out of the mails
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:43.689Z"
   - **(2)** does not relate to the cargo of the vessel.
 - **(b)** The officer of the port empowered to grant clearances shall require from the master of such a vessel, as a condition of clearance, an oath that he does not have under his care or control, and will not receive or transport, any letter contrary to the provisions of this section.
 - **(c)** Except as provided in section 1699 of title 18 , the master of a vessel arriving at a port of the United States carrying letters not regularly in the mails shall deposit them in the post office at the port of arrival.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 727](https://www.govinfo.gov/link/statute/84/727).)*

@@ -3,9 +3,10 @@ title: "Section 9305 - Agreements with Canada"
 usc_title: 46
 usc_section: "9305"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 9305"
-generated_at: "2026-03-30T02:56:15.552Z"
+generated_at: "2026-11-23T21:26:37.105Z"
+status: "active"
 ---
 
 # § 9305. Agreements with Canada
@@ -17,3 +18,16 @@ To provide for a coordinated system of pilotage service on the Great Lakes, the 
   - **(3)** prescribe joint or identical rates and charges;
   - **(4)** coordinate pool operations; and
   - **(5)** establish conditions for services by registered pilots.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 9305 | 46:216b(d) 46:216d |
+
+
+Historical and Revision Notes
+
+9305
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 559](https://www.govinfo.gov/link/statute/97/559).)*

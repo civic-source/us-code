@@ -3,9 +3,10 @@ title: "Section 287 - Limitation on damages and other remedies; marking and noti
 usc_title: 35
 usc_section: "287"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "35 U.S.C. § 287"
-generated_at: "2026-03-30T02:55:34.240Z"
+generated_at: "2026-11-23T21:26:08.624Z"
+status: "active"
 ---
 
 # § 287. Limitation on damages and other remedies; marking and notice
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:55:34.240Z"
     - **(A)** directly related to the commercial development, manufacture, sale, importation, or distribution of a machine, manufacture, or composition of matter or the provision of pharmacy or clinical laboratory services (other than clinical laboratory services provided in a physician’s office), and
     - **(B)** regulated under the Federal Food, Drug, and Cosmetic Act, the Public Health Service Act, or the Clinical Laboratories Improvement Act.
   - **(4)** This subsection shall not apply to any patent issued based on an application which has an effective filing date before September 30, 1996 .
+
+## Source Credit
+
+*(July 19, 1952, ch. 950, [66 Stat. 813](https://www.govinfo.gov/link/statute/66/813); [Pub. L. 100–418, title IX, § 9004(a)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1564](https://www.govinfo.gov/link/statute/102/1564); [Pub. L. 103–465, title V, § 533(b)(5)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4989](https://www.govinfo.gov/link/statute/108/4989); [Pub. L. 104–208, div. A, title I, § 101(a) [title VI, § 616]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009](https://www.govinfo.gov/link/statute/110/3009), 3009–67; [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4803]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–589; [Pub. L. 112–29](https://www.govinfo.gov/link/plaw/112/public/29), §§ 3(g)(2), 16(a)(1), 20(i)(4), (j), Sept. 16, 2011, [125 Stat. 288](https://www.govinfo.gov/link/statute/125/288), 328, 335.)*

@@ -3,9 +3,10 @@ title: "Section 992 - Requirements of a domestic international sales corporation
 usc_title: 26
 usc_section: "992"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 992"
-generated_at: "2026-03-30T02:55:27.752Z"
+generated_at: "2026-11-23T21:26:06.449Z"
+status: "active"
 ---
 
 # § 992. Requirements of a domestic international sales corporation
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:55:27.752Z"
 - **(e)** If—
   - **(1)** a corporation (hereinafter in this subsection referred to as “subsidiary”) was established to take advantage of the provisions of this part, and
   - **(2)** a second corporation (hereinafter in this subsection referred to as “parent”) throughout the taxable year owns directly at least 80 percent of the stock of the subsidiary,
+
+## Source Credit
+
+*(Added [Pub. L. 92–178, title V, § 501](https://www.govinfo.gov/link/plaw/92/public/178), Dec. 10, 1971, [85 Stat. 535](https://www.govinfo.gov/link/statute/85/535); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 97–354, § 5(a)(32)](https://www.govinfo.gov/link/plaw/97/public/354), Oct. 19, 1982, [96 Stat. 1695](https://www.govinfo.gov/link/statute/96/1695); [Pub. L. 98–369, div. A, title VIII, § 802(c)(1)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 999](https://www.govinfo.gov/link/statute/98/999); [Pub. L. 104–188, title I, § 1616(b)(11)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1857](https://www.govinfo.gov/link/statute/110/1857); [Pub. L. 110–172, § 11(g)(16)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2491](https://www.govinfo.gov/link/statute/121/2491); [Pub. L. 115–141, div. U, title IV, § 401(b)(30)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1203](https://www.govinfo.gov/link/statute/132/1203).)*

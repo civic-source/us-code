@@ -3,9 +3,10 @@ title: "Section 12754 - Limitation on jurisdictions under court order"
 usc_title: 42
 usc_section: "12754"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12754"
-generated_at: "2026-03-30T02:56:11.431Z"
+generated_at: "2026-11-23T21:26:33.551Z"
+status: "active"
 ---
 
 # § 12754. Limitation on jurisdictions under court order
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.431Z"
   - **(1)** a participating jurisdiction has been adjudicated, by a Federal, State, or local court, to be in violation of title VI of the Civil Rights Act of 1964 [ 42 U.S.C. 2000d et seq.], the Fair Housing Act [ 42 U.S.C. 3601 et seq.], or any other Federal, State, or local law promoting fair housing or prohibiting discrimination, or
   - **(2)** a settlement has been entered into in any case where claims of such violations have been asserted against a participating jurisdiction, except to the extent permitted by subsection (b).
 - **(b)** In the case of settlement described in subsection (a)(2), a jurisdiction may use funds provided under this Act to carry out housing remedies with eligible activities.
+
+## Source Credit
+
+*([Pub. L. 101–625, title II, § 224](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4113](https://www.govinfo.gov/link/statute/104/4113).)*

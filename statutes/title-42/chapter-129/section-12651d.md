@@ -3,9 +3,10 @@ title: "Section 12651d - Authorities and duties of the Chief Executive Officer"
 usc_title: 42
 usc_section: "12651d"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12651d"
-generated_at: "2026-03-30T02:56:11.423Z"
+generated_at: "2026-11-23T21:26:33.519Z"
+status: "active"
 ---
 
 # § 12651d. Authorities and duties of the Chief Executive Officer
@@ -112,3 +113,7 @@ generated_at: "2026-03-30T02:56:11.423Z"
   - **(3)** For the first fiscal year after the effective date of this subsection, and for each fiscal year thereafter, for the purpose of carrying out such recruiting and public awareness functions, the Chief Executive Officer shall obligate not less than 1.5 percent of the amounts appropriated for the fiscal year under section 501(a) of the Domestic Volunteer Service Act of 1973 [ 42 U.S.C. 5081(a) ].
 - **(h)** The Chief Executive Officer may, through contracts or cooperative agreements, carry out the marketing duties described in subsection (b)(13), with priority given to those entities that have established expertise in the recruitment of disadvantaged youth, members of Indian tribes, and older adults.
 - **(i)** The Chief Executive Officer may conduct a campaign to solicit funds to conduct outreach and recruitment campaigns to recruit a diverse population of service sponsors of, and participants in, programs and projects receiving assistance under the national service laws.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 193A](https://www.govinfo.gov/link/plaw/101/public/610), as added and amended [Pub. L. 103–82, title II](https://www.govinfo.gov/link/plaw/103/public/82), §§ 202(a), 203(a)(1)(B), (3), Sept. 21, 1993, [107 Stat. 877](https://www.govinfo.gov/link/statute/107/877), 891; [Pub. L. 103–304, § 3(b)(2)](https://www.govinfo.gov/link/plaw/103/public/304), Aug. 23, 1994, [108 Stat. 1567](https://www.govinfo.gov/link/statute/108/1567); [Pub. L. 111–13, title I, § 1704](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1545](https://www.govinfo.gov/link/statute/123/1545); [Pub. L. 117–286, § 4(b)(86)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4352](https://www.govinfo.gov/link/statute/136/4352).)*

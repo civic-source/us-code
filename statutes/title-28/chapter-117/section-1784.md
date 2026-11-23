@@ -3,9 +3,10 @@ title: "Section 1784 - Contempt"
 usc_title: 28
 usc_section: "1784"
 chapter: 117
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1784"
-generated_at: "2026-03-30T02:55:30.144Z"
+generated_at: "2026-11-23T21:26:01.105Z"
+status: "active"
 ---
 
 # § 1784. Contempt
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:30.144Z"
 - **(b)** The court, in the order to show cause, may direct that any of the person’s property within the United States be levied upon or seized, in the manner provided by law or court rules governing levy or seizure under execution, and held to satisfy any judgment that may be rendered against him pursuant to subsection (d) of this section if adequate security, in such amount as the court may direct in the order, be given for any damage that he might suffer should he not be found in contempt. Security under this subsection may not be required of the United States.
 - **(c)** A copy of the order to show cause shall be served on the person in accordance with section 1783(b) of this title .
 - **(d)** On the return day of the order to show cause or any later day to which the hearing may be continued, proof shall be taken. If the person is found in contempt, the court, notwithstanding any limitation upon its power generally to punish for contempt, may fine him not more than $100,000 and direct that the fine and costs of the proceedings be satisfied by a sale of the property levied upon or seized, conducted upon the notice required and in the manner provided for sales upon execution.
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 949](https://www.govinfo.gov/link/statute/62/949); [Pub. L. 88–619, § 11](https://www.govinfo.gov/link/plaw/88/public/619), Oct. 3, 1964, [78 Stat. 998](https://www.govinfo.gov/link/statute/78/998).)*

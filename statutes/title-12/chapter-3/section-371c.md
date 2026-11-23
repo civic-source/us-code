@@ -3,9 +3,10 @@ title: "Section 371c - Banking affiliates"
 usc_title: 12
 usc_section: "371c"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 371c"
-generated_at: "2026-03-30T02:53:53.380Z"
+generated_at: "2026-11-23T21:25:36.789Z"
+status: "active"
 ---
 
 # § 371c. Banking affiliates
@@ -109,3 +110,33 @@ generated_at: "2026-03-30T02:53:53.380Z"
     - **(A)** Not later than 18 months after November 12, 1999 , the Board shall adopt final rules under this section to address as covered transactions credit exposure arising out of derivative transactions between member banks and their affiliates and intraday extensions of credit by member banks to their affiliates.
     - **(B)** The effective date of any final rule adopted by the Board pursuant to subparagraph (A) shall be delayed for such period as the Board deems necessary or appropriate to permit banks to conform their activities to the requirements of the final rule without undue hardship.
   - **(4)** The Board may issue such regulations or interpretations as the Board determines are necessary or appropriate with respect to the manner in which a netting agreement may be taken into account in determining the amount of a covered transaction between a member bank or a subsidiary and an affiliate, including the extent to which netting agreements between a member bank or a subsidiary and an affiliate may be taken into account in determining whether a covered transaction is fully secured for purposes of subsection (d)(4). An interpretation under this paragraph with respect to a specific member bank, subsidiary, or affiliate shall be issued jointly with the appropriate Federal banking agency for such member bank, subsidiary, or affiliate.
+
+Rebuttable presumption of control of portfolio companies
+
+In general
+
+Additional exemptions.—
+
+National banks
+
+State banks
+
+Rulemaking required concerning derivative transactions and intraday credit.—
+
+In general
+
+Effective date
+
+Amounts of covered transactions
+
+Exception from limit on covered transactions with any individual financial subsidiary
+
+Exception for earnings retained by financial subsidiaries
+
+Prospective Application of Amendment
+
+Effective Date
+
+## Source Credit
+
+*(Dec. 23, 1913, ch. 6, § 23A, as added June 16, 1933, ch. 89, § 13, [48 Stat. 183](https://www.govinfo.gov/link/statute/48/183); amended Aug. 23, 1935, ch. 614, title III, § 327, [49 Stat. 717](https://www.govinfo.gov/link/statute/49/717); June 30, 1954, ch. 434, § 1, [68 Stat. 358](https://www.govinfo.gov/link/statute/68/358); [Pub. L. 86–230, § 1(b)](https://www.govinfo.gov/link/plaw/86/public/230), Sept. 8, 1959, [73 Stat. 457](https://www.govinfo.gov/link/statute/73/457); [Pub. L. 89–485](https://www.govinfo.gov/link/plaw/89/public/485), §§ 12(a), 13(h), July 1, 1966, [80 Stat. 241](https://www.govinfo.gov/link/statute/80/241), 243; [Pub. L. 97–320, title IV, § 410(b)](https://www.govinfo.gov/link/plaw/97/public/320), Oct. 15, 1982, [96 Stat. 1515](https://www.govinfo.gov/link/statute/96/1515); [Pub. L. 97–457, § 22](https://www.govinfo.gov/link/plaw/97/public/457), Jan. 12, 1983, [96 Stat. 2509](https://www.govinfo.gov/link/statute/96/2509); [Pub. L. 106–102, title I, § 121(b)](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1378](https://www.govinfo.gov/link/statute/113/1378); [Pub. L. 111–203, title VI](https://www.govinfo.gov/link/plaw/111/public/203), §§ 608(a), 609(a), July 21, 2010, [124 Stat. 1608](https://www.govinfo.gov/link/statute/124/1608), 1611.)*

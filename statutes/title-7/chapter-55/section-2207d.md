@@ -3,9 +3,10 @@ title: "Section 2207d - Reports on disbursement of funds for agricultural resear
 usc_title: 7
 usc_section: "2207d"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2207d"
-generated_at: "2026-03-30T02:53:42.380Z"
+generated_at: "2026-11-23T21:25:28.283Z"
+status: "active"
 ---
 
 # § 2207d. Reports on disbursement of funds for agricultural research and extension at 1862 and 1890 land-grant colleges, including Tuskegee University
@@ -16,3 +17,7 @@ Not later than September 30, 2019 , and each year thereafter, the Secretary shal
   - **(2)** section 3222 of this title ;
   - **(3)** subsections (b) and (c) of section 343 of this title ; and
   - **(4)** the Hatch Act of 1887 ( 7 U.S.C. 361a et seq.).
+
+## Source Credit
+
+*([Pub. L. 115–334, title VII, § 7116](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4789](https://www.govinfo.gov/link/statute/132/4789).)*

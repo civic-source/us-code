@@ -3,9 +3,10 @@ title: "Section 668 - Theft of major artwork"
 usc_title: 18
 usc_section: "668"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 668"
-generated_at: "2026-03-30T02:54:16.468Z"
+generated_at: "2026-11-23T21:25:43.987Z"
+status: "active"
 ---
 
 # § 668. Theft of major artwork
@@ -22,3 +23,11 @@ generated_at: "2026-03-30T02:54:16.468Z"
 - **(b)** A person who—
   - **(1)** steals or obtains by fraud from the care, custody, or control of a museum any object of cultural heritage; or
   - **(2)** knowing that an object of cultural heritage has been stolen or obtained by fraud, if in fact the object was stolen or obtained from the care, custody, or control of a museum (whether or not that fact is known to the person), receives, conceals, exhibits, or disposes of the object,
+
+Definitions
+
+Offenses
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title XXXII, § 320902(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2123](https://www.govinfo.gov/link/statute/108/2123); amended [Pub. L. 104–294, title VI, § 604(b)(18)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3507](https://www.govinfo.gov/link/statute/110/3507).)*

@@ -3,9 +3,10 @@ title: "Section 40501 - Program authorized"
 usc_title: 34
 usc_section: "40501"
 chapter: 405
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 40501"
-generated_at: "2026-03-30T02:55:33.309Z"
+generated_at: "2026-11-23T21:26:09.832Z"
+status: "active"
 ---
 
 # § 40501. Program authorized
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:33.309Z"
     - **(E)** Accredited, publicly funded crime laboratories.
     - **(F)** Publicly funded university forensic anthropology laboratories.
     - **(G)** Nonprofit organizations that have working collaborative agreements with State and county forensic offices, including medical examiners, coroners, and justices of the peace, for entry of data into CODIS or the National Missing and Unidentified Persons System (commonly known as “NamUs”), or both.
+
+## Source Credit
+
+*([Pub. L. 106–177, title II, § 202](https://www.govinfo.gov/link/plaw/106/public/177), as added [Pub. L. 116–277, § 2(a)(1)](https://www.govinfo.gov/link/plaw/116/public/277), Dec. 31, 2020, [134 Stat. 3368](https://www.govinfo.gov/link/statute/134/3368).)*

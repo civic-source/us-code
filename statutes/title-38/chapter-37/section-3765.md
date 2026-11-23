@@ -3,9 +3,10 @@ title: "Section 3765 - Definitions"
 usc_title: 38
 usc_section: "3765"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3765"
-generated_at: "2026-03-30T02:55:53.515Z"
+generated_at: "2026-11-23T21:26:16.785Z"
+status: "active"
 ---
 
 # § 3765. Definitions
@@ -38,3 +39,7 @@ For the purposes of this subchapter—
   - **(9)** The term “net tangible benefit” shall have such meaning as the Secretary determines appropriate, but shall include the refinance of an interim construction loan.
   - **(10)** The term “other technical assistance” means services to assist a Native American veteran to navigate the steps necessary for securing a mortgage loan on trust land, including pre-development activities related to utilities, identifying appropriate residential construction services, and obtaining lease clearances and title status reports from the applicable tribal organization or the Bureau of Indian Affairs.
   - **(11)** The term “tribally designated housing entity” has the meaning given that term in section 4 of the Native American Housing Assistance and Self-Determination Act of 1996 ( 25 U.S.C. 4103 ).
+
+## Source Credit
+
+*(Added [Pub. L. 102–547, § 8(a)](https://www.govinfo.gov/link/plaw/102/public/547), Oct. 28, 1992, [106 Stat. 3639](https://www.govinfo.gov/link/statute/106/3639), § 3764; renumbered § 3765 and amended [Pub. L. 109–233, title I, § 104(a)(1)](https://www.govinfo.gov/link/plaw/109/public/233), (b), June 15, 2006, [120 Stat. 401](https://www.govinfo.gov/link/statute/120/401), 402; [Pub. L. 118–210, title II, § 231(e)](https://www.govinfo.gov/link/plaw/118/public/210), Jan. 2, 2025, [138 Stat. 2786](https://www.govinfo.gov/link/statute/138/2786).)*

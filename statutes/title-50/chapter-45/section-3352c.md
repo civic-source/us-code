@@ -3,9 +3,10 @@ title: "Section 3352c - Goals for promptness of determinations regarding securit
 usc_title: 50
 usc_section: "3352c"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3352c"
-generated_at: "2026-03-30T02:56:26.247Z"
+generated_at: "2026-11-23T21:26:39.041Z"
+status: "active"
 ---
 
 # § 3352c. Goals for promptness of determinations regarding security clearances
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:26.247Z"
   - **(1)** If the Council develops a set of performance metrics that it certifies to the appropriate congressional committees should achieve substantially equivalent outcomes as those outlined in subsections (a) and (b), the Council may use those metrics for purposes of compliance within this provision.
   - **(2)** If the Council uses the authority provided by paragraph (1) to use metrics as described in such paragraph, the Council shall, not later than 30 days after communicating such metrics to departments and agencies, notify the appropriate congressional committees that it is using such authority.
 - **(d)** Not later than 180 days after December 20, 2019 , the Council shall submit to the appropriate congressional committees and make available to appropriate industry partners a plan to carry out this section. Such plan shall include recommended interim milestones for the goals set forth in subsections (a) and (b) for 2019, 2020, and 2021.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. E, title LXVI, § 6604](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2213](https://www.govinfo.gov/link/statute/133/2213); [Pub. L. 117–263, div. F, title LXVIII, § 6824(b)(3)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3615](https://www.govinfo.gov/link/statute/136/3615).)*

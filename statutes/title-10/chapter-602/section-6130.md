@@ -3,9 +3,10 @@ title: "Section 6130 - Authorization of workforce development and training partn
 usc_title: 10
 usc_section: "6130"
 chapter: 602
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6130"
-generated_at: "2026-03-30T02:53:38.219Z"
+generated_at: "2026-11-23T21:25:32.815Z"
+status: "active"
 ---
 
 # § 6130. Authorization of workforce development and training partnership programs within National Nuclear Security Administration
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:53:38.219Z"
     - **(A)** Los Alamos National Laboratory, Los Alamos, New Mexico; or
     - **(B)** the Savannah River Site, Aiken, South Carolina.
   - **(2)** The term “prospective employee” means an individual who has applied (or who, based on their field of study and experience, is likely to apply) for a position of employment with a management and operating contractor to support plutonium pit production at a covered facility.
+
+Authority
+
+Capacity
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1366](https://www.govinfo.gov/link/statute/139/1366).)*

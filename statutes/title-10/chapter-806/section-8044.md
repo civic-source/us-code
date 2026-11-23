@@ -3,9 +3,10 @@ title: "Section 8044 - Assistant Commandant of the Marine Corps"
 usc_title: 10
 usc_section: "8044"
 chapter: 806
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 8044"
-generated_at: "2026-03-30T02:53:38.238Z"
+generated_at: "2026-11-23T21:25:32.886Z"
+status: "active"
 ---
 
 # § 8044. Assistant Commandant of the Marine Corps
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:38.238Z"
 - **(d)** When there is a vacancy in the office of Commandant of the Marine Corps, or during the absence or disability of the Commandant—
   - **(1)** the Assistant Commandant of the Marine Corps shall perform the duties of the Commandant until a successor is appointed or the absence or disability ceases; or
   - **(2)** if there is a vacancy in the office of the Assistant Commandant of the Marine Corps or the Assistant Commandant is absent or disabled, unless the President directs otherwise, the most senior officer of the Marine Corps in the Headquarters, Marine Corps, who is not absent or disabled and who is not restricted in performance of duty shall perform the duties of the Commandant until a successor to the Commandant or the Assistant Commandant is appointed or until the absence or disability of the Commandant or Assistant Commandant ceases, whichever occurs first.
+
+## Source Credit
+
+*(Added [Pub. L. 99–433, title V, § 513(b)](https://www.govinfo.gov/link/plaw/99/public/433), Oct. 1, 1986, [100 Stat. 1054](https://www.govinfo.gov/link/statute/100/1054), § 5044; renumbered § 8044, [Pub. L. 115–232, div. A, title VIII, § 807(a)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1834](https://www.govinfo.gov/link/statute/132/1834).)*

@@ -3,12 +3,17 @@ title: "Section 358 - Rights under prior leases; priority of pending application
 usc_title: 30
 usc_section: "358"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 358"
-generated_at: "2026-03-30T02:55:29.383Z"
+generated_at: "2026-11-23T21:26:00.381Z"
+status: "active"
 ---
 
 # § 358. Rights under prior leases; priority of pending applications; exchange of leases
 
 Nothing in this chapter shall affect any rights acquired by any lessee of lands subject to this chapter under the law as it existed prior to August 7, 1947 , and such rights shall be governed by the law in effect at the time of their acquisition; but any person qualified to hold a lease who, on August 7, 1947 , had pending an application for an oil and gas lease for any lands subject to this chapter which on the date the application was filed was not situated within the known geologic structure of a producing oil or gas field, shall have a preference right over others to a lease of such lands without competitive bidding. Any person holding a lease on lands subject hereto, which lease was issued prior to August 7, 1947 , shall be entitled to exchange such lease for a new lease issued under the provisions of this chapter, at any time prior to the expiration of such existing lease.
 
+
+## Source Credit
+
+*(Aug. 7, 1947, ch. 513, § 9, [61 Stat. 915](https://www.govinfo.gov/link/statute/61/915).)*

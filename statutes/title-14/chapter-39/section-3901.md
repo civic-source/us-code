@@ -3,9 +3,10 @@ title: "Section 3901 - Administration of the Coast Guard Auxiliary"
 usc_title: 14
 usc_section: "3901"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 3901"
-generated_at: "2026-03-30T02:53:51.505Z"
+generated_at: "2026-11-23T21:25:35.459Z"
+status: "active"
 ---
 
 # § 3901. Administration of the Coast Guard Auxiliary
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:51.505Z"
     - **(B)** as otherwise provided in this chapter.
   - **(3)** The Secretary may reimburse the Auxiliary, and each organizational element and unit of the Auxiliary, for necessary expenses of operation, maintenance, and repair or replacement of personal property of the Auxiliary.
   - **(4)** In this subsection, the term “personal property of the Auxiliary” means motor boats, yachts, aircraft, radio stations, motorized vehicles, trailers, or other equipment that is under the administrative jurisdiction of the Coast Guard Auxiliary or an organizational element or unit of the Auxiliary and that is used solely for the purposes described in this subsection.
+
+## Source Credit
+
+*(Aug. 4, 1949, ch. 393, [63 Stat. 555](https://www.govinfo.gov/link/statute/63/555), § 821; [Pub. L. 104–324, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3922](https://www.govinfo.gov/link/statute/110/3922); [Pub. L. 108–293, title II, § 226](https://www.govinfo.gov/link/plaw/108/public/293), Aug. 9, 2004, [118 Stat. 1041](https://www.govinfo.gov/link/statute/118/1041); [Pub. L. 109–304, § 17(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1707](https://www.govinfo.gov/link/statute/120/1707); [Pub. L. 114–120, title II, § 209(14)](https://www.govinfo.gov/link/plaw/114/public/120), Feb. 8, 2016, [130 Stat. 41](https://www.govinfo.gov/link/statute/130/41); renumbered § 3901 and amended [Pub. L. 115–282, title I](https://www.govinfo.gov/link/plaw/115/public/282), §§ 119(b), 123(b)(2), Dec. 4, 2018, [132 Stat. 4236](https://www.govinfo.gov/link/statute/132/4236), 4240.)*

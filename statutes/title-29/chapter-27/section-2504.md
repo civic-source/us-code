@@ -3,9 +3,10 @@ title: "Section 2504 - Competitive grants"
 usc_title: 29
 usc_section: "2504"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 2504"
-generated_at: "2026-03-30T02:55:18.743Z"
+generated_at: "2026-11-23T21:26:02.314Z"
+status: "active"
 ---
 
 # § 2504. Competitive grants
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:18.743Z"
   - **(2)** demonstrate experience working with the business community to prepare them to place women in apprenticeable occupations or other nontraditional occupations;
   - **(3)** have tradeswomen or women in nontraditional occupations as active members of the organization, as either employed staff or board members; and
   - **(4)** have experience delivering technical assistance.
+
+## Source Credit
+
+*([Pub. L. 102–530, § 5](https://www.govinfo.gov/link/plaw/102/public/530), Oct. 27, 1992, [106 Stat. 3467](https://www.govinfo.gov/link/statute/106/3467).)*

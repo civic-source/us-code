@@ -3,9 +3,10 @@ title: "Section 831d - Directors; maintenance and operation of plant for product
 usc_title: 16
 usc_section: "831d"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 831d"
-generated_at: "2026-03-30T02:54:22.922Z"
+generated_at: "2026-11-23T21:25:51.773Z"
+status: "active"
 ---
 
 # § 831d. Directors; maintenance and operation of plant for production, sale, and distribution of fertilizer and power
@@ -24,3 +25,7 @@ The Board is authorized—
 - **(j)** Upon the requisition of the Secretary of the Army or the Secretary of the Navy to manufacture for and sell at cost to the United States explosives or their nitrogenous content.
 - **(k)** Upon the requisition of the Secretary of the Army, the Corporation shall allot and deliver without charge to the Department of the Army so much power as shall be necessary in the judgment of said Department for use in operation of all locks, lifts, or other facilities in aid of navigation.
 - **(l)** To produce, distribute, and sell electric power, as herein particularly specified.
+
+## Source Credit
+
+*(May 18, 1933, ch. 32, § 5, [48 Stat. 61](https://www.govinfo.gov/link/statute/48/61); Aug. 31, 1935, ch. 836, § 4, [49 Stat. 1076](https://www.govinfo.gov/link/statute/49/1076); July 26, 1947, ch. 343, title II, § 205(a), [61 Stat. 501](https://www.govinfo.gov/link/statute/61/501); July 3, 1952, ch. 570, § 2(a), [66 Stat. 334](https://www.govinfo.gov/link/statute/66/334); [Pub. L. 86–137, § 3](https://www.govinfo.gov/link/plaw/86/public/137), Aug. 6, 1959, [73 Stat. 285](https://www.govinfo.gov/link/statute/73/285); [Pub. L. 94–412, title V, § 501(d)](https://www.govinfo.gov/link/plaw/94/public/412), Sept. 14, 1976, [90 Stat. 1258](https://www.govinfo.gov/link/statute/90/1258); [Pub. L. 108–447, div. C, title VI, § 603(a)(2)](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 2966](https://www.govinfo.gov/link/statute/118/2966).)*

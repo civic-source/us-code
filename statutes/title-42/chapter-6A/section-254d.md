@@ -3,9 +3,10 @@ title: "Section 254d - National Health Service Corps"
 usc_title: 42
 usc_section: "254d"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 254d"
-generated_at: "2026-03-30T02:56:10.712Z"
+generated_at: "2026-11-23T21:26:30.348Z"
+status: "active"
 ---
 
 # § 254d. National Health Service Corps
@@ -65,3 +66,7 @@ generated_at: "2026-03-30T02:56:10.712Z"
   - **(4)** The term “State” includes, in addition to the several States, only the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands.
   - **(5)** The terms “full time” and “full-time” mean a minimum of 40 hours per week in a clinical practice, for a minimum of 45 weeks per year.
   - **(6)** The terms “half time” and “half-time” mean a minimum of 20 hours per week (not to exceed 39 hours per week) in a clinical practice, for a minimum of 45 weeks per year.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 331, as added [Pub. L. 94–484, title IV, § 407(b)(3)](https://www.govinfo.gov/link/plaw/94/public/484), Oct. 12, 1976, [90 Stat. 2268](https://www.govinfo.gov/link/statute/90/2268); amended [Pub. L. 97–35, title XXVII, § 2701](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 902](https://www.govinfo.gov/link/statute/95/902); [Pub. L. 100–177, title II, § 202(b)](https://www.govinfo.gov/link/plaw/100/public/177), title III, § 301, Dec. 1, 1987, [101 Stat. 996](https://www.govinfo.gov/link/statute/101/996), 1003; [Pub. L. 100–607, title VI, § 629(a)(2)](https://www.govinfo.gov/link/plaw/100/public/607), Nov. 4, 1988, [102 Stat. 3146](https://www.govinfo.gov/link/statute/102/3146); [Pub. L. 101–597, title I, § 101](https://www.govinfo.gov/link/plaw/101/public/597), title IV, § 401(b)[(a)], Nov. 16, 1990, [104 Stat. 3013](https://www.govinfo.gov/link/statute/104/3013), 3035; [Pub. L. 107–251, title III, § 301](https://www.govinfo.gov/link/plaw/107/public/251), Oct. 26, 2002, [116 Stat. 1642](https://www.govinfo.gov/link/statute/116/1642); [Pub. L. 109–417, title II, § 206(c)(2)](https://www.govinfo.gov/link/plaw/109/public/417), Dec. 19, 2006, [120 Stat. 2853](https://www.govinfo.gov/link/statute/120/2853); [Pub. L. 111–148, title X, § 10501(n)(1)](https://www.govinfo.gov/link/plaw/111/public/148), (2), Mar. 23, 2010, [124 Stat. 1002](https://www.govinfo.gov/link/statute/124/1002), 1003.)*

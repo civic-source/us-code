@@ -3,9 +3,10 @@ title: "Section 7112 - Determination of appropriate units for labor organization
 usc_title: 5
 usc_section: "7112"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 7112"
-generated_at: "2026-03-30T02:52:56.035Z"
+generated_at: "2026-11-23T21:25:23.334Z"
+status: "active"
 ---
 
 # § 7112. Determination of appropriate units for labor organization representation
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:52:56.035Z"
   - **(1)** which represents other individuals to whom such provision applies; or
   - **(2)** which is affiliated directly or indirectly with an organization which represents other individuals to whom such provision applies.
 - **(d)** Two or more units which are in an agency and for which a labor organization is the exclusive representative may, upon petition by the agency or labor organization, be consolidated with or without an election into a single larger unit if the Authority considers the larger unit to be appropriate. The Authority shall certify the labor organization as the exclusive representative of the new larger unit.
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title VII, § 701](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1200](https://www.govinfo.gov/link/statute/92/1200); amended [Pub. L. 102–378, § 2(54)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1354](https://www.govinfo.gov/link/statute/106/1354).)*

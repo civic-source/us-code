@@ -3,12 +3,17 @@ title: "Section 3605 - Notice of conversion and opportunity to purchase; respons
 usc_title: 15
 usc_section: "3605"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3605"
-generated_at: "2026-03-30T02:54:08.191Z"
+generated_at: "2026-11-23T21:25:39.971Z"
+status: "active"
 ---
 
 # § 3605. Notice of conversion and opportunity to purchase; responsibility of State and local governments
 
 It is the sense of the Congress that, when multifamily rental housing projects are converted to condominium or cooperative use, tenants in those projects are entitled to adequate notice of the pending conversion and to receive the first opportunity to purchase units in the converted projects and that State and local governments which have not already provided for such notice and opportunity for purchase should move toward that end. The Congress believes it is the responsibility of State and local governments to provide for such notice and opportunity to purchase in a prompt manner. The Congress has decided not to intervene and therefore leaves this responsibility to State and local governments to be carried out.
 
+
+## Source Credit
+
+*([Pub. L. 96–399, title VI, § 606](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1676](https://www.govinfo.gov/link/statute/94/1676).)*

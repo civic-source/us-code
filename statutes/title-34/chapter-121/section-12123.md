@@ -3,9 +3,10 @@ title: "Section 12123 - Conversion of closed military installations into Federal
 usc_title: 34
 usc_section: "12123"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 12123"
-generated_at: "2026-03-30T02:55:33.283Z"
+generated_at: "2026-11-23T21:26:09.726Z"
+status: "active"
 ---
 
 # § 12123. Conversion of closed military installations into Federal prison facilities
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:33.283Z"
 - **(e)** In this section, “base closure law” means—
   - **(1)** the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510 ; 10 U.S.C. 2687 note); and
   - **(2)** title II of the Defense Authorization Amendments and Base Closure and Realignment Act ( Public Law 100–526 ; 10 U.S.C. 2687 note).
+
+## Source Credit
+
+*([Pub. L. 103–322, title II, § 20413](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1829](https://www.govinfo.gov/link/statute/108/1829).)*

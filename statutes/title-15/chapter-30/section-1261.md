@@ -3,9 +3,10 @@ title: "Section 1261 - Definitions"
 usc_title: 15
 usc_section: "1261"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1261"
-generated_at: "2026-03-30T02:54:08.130Z"
+generated_at: "2026-11-23T21:25:39.804Z"
+status: "active"
 ---
 
 # § 1261. Definitions
@@ -50,3 +51,9 @@ For the purposes of this chapter—
 - **(r)** An article may be determined to present an electrical hazard if, in normal use or when subjected to reasonably foreseeable damage or abuse, its design or manufacture may cause personal injury or illness by electric shock.
 - **(s)** An article may be determined to present a mechanical hazard if, in normal use or when subjected to reasonably foreseeable damage or abuse, its design or manufacture presents an unreasonable risk of personal injury or illness (1) from fracture, fragmentation, or disassembly of the article, (2) from propulsion of the article (or any part or accessory thereof), (3) from points or other protrusions, surfaces, edges, openings, or closures, (4) from moving parts, (5) from lack or insufficiency of controls to reduce or stop motion, (6) as a result of self-adhering characteristics of the article, (7) because the article (or any part or accessory thereof) may be aspirated or ingested, (8) because of instability, or (9) because of any other aspect of the article’s design or manufacture.
 - **(t)** An article may be determined to present a thermal hazard if, in normal use or when subjected to reasonably foreseeable damage or abuse, its design or manufacture presents an unreasonable risk of personal injury or illness because of heat as from heated parts, substances, or surfaces.
+
+“This Act [enacting this chapter and repealing sections 401 to 411 of this title] shall take effect upon the date of its enactment [ July 12, 1960 ]; but no penalty or condemnation shall be enforced for any violation of this Act which occurs—
+
+## Source Credit
+
+*([Pub. L. 86–613, § 2](https://www.govinfo.gov/link/plaw/86/public/613), July 12, 1960, [74 Stat. 372](https://www.govinfo.gov/link/statute/74/372); [Pub. L. 89–756](https://www.govinfo.gov/link/plaw/89/public/756), §§ 2(a)–(c), 3(a), Nov. 3, 1966, [80 Stat. 1303](https://www.govinfo.gov/link/statute/80/1303), 1304; [Pub. L. 91–113](https://www.govinfo.gov/link/plaw/91/public/113), §§ 2(a), (c), (d), 3, Nov. 6, 1969, [83 Stat. 187–189](https://www.govinfo.gov/link/statute/83/187); [Pub. L. 91–601, § 6(a)](https://www.govinfo.gov/link/plaw/91/public/601), formerly § 7(a), Dec. 30, 1970, [84 Stat. 1673](https://www.govinfo.gov/link/statute/84/1673), renumbered [Pub. L. 97–35, title XII, § 1205(c)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 716](https://www.govinfo.gov/link/statute/95/716); [Pub. L. 92–516, § 3(1)](https://www.govinfo.gov/link/plaw/92/public/516), Oct. 21, 1972, [86 Stat. 998](https://www.govinfo.gov/link/statute/86/998); [Pub. L. 94–284, § 3(c)](https://www.govinfo.gov/link/plaw/94/public/284), May 11, 1976, [90 Stat. 503](https://www.govinfo.gov/link/statute/90/503); [Pub. L. 95–631, § 9](https://www.govinfo.gov/link/plaw/95/public/631), Nov. 10, 1978, [92 Stat. 3747](https://www.govinfo.gov/link/statute/92/3747); [Pub. L. 99–339, title I, § 109(d)(1)](https://www.govinfo.gov/link/plaw/99/public/339), June 19, 1986, [100 Stat. 653](https://www.govinfo.gov/link/statute/100/653); [Pub. L. 110–314, title II, § 204(b)(2)](https://www.govinfo.gov/link/plaw/110/public/314), (4)(A), (B), (D), Aug. 14, 2008, [122 Stat. 3041](https://www.govinfo.gov/link/statute/122/3041), 3042.)*

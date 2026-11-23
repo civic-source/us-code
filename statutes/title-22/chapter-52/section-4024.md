@@ -3,9 +3,10 @@ title: "Section 4024 - Functions of Secretary"
 usc_title: 22
 usc_section: "4024"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4024"
-generated_at: "2026-03-30T02:55:05.401Z"
+generated_at: "2026-11-23T21:25:58.611Z"
+status: "active"
 ---
 
 # § 4024. Functions of Secretary
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:05.401Z"
     - **(A)** be required to complete successfully a program of training essentially equivalent to the training that a consular officer who is a member of the Foreign Service would receive for purposes of performing such function; and
     - **(B)** be certified by an appropriate official of the Department of State to be qualified by knowledge and experience to perform such function.
   - **(2)** As used in this subsection, the term “consular function” includes the issuance of visas, the performance of notarial and other legalization functions, the adjudication of passport applications, the adjudication of nationality, and the issuance of citizenship documentation.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 704](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2100](https://www.govinfo.gov/link/statute/94/2100); [Pub. L. 97–241, title I, § 125(1)](https://www.govinfo.gov/link/plaw/97/public/241), Aug. 24, 1982, [96 Stat. 281](https://www.govinfo.gov/link/statute/96/281); [Pub. L. 103–236, title I, § 126(3)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 394](https://www.govinfo.gov/link/statute/108/394); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. B, title XXII, § 2222(f), Oct. 21, 1998, [112 Stat. 2681–819](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 114–323, title IV, § 407](https://www.govinfo.gov/link/plaw/114/public/323), Dec. 16, 2016, [130 Stat. 1930](https://www.govinfo.gov/link/statute/130/1930); [Pub. L. 119–60, div. E, title II, § 5206(b)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1592](https://www.govinfo.gov/link/statute/139/1592).)*

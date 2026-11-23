@@ -3,9 +3,10 @@ title: "Section 15304 - Administrative powers and expenses"
 usc_title: 40
 usc_section: "15304"
 chapter: 153
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 15304"
-generated_at: "2026-03-30T02:55:43.388Z"
+generated_at: "2026-11-23T21:26:14.972Z"
+status: "active"
 ---
 
 # § 15304. Administrative powers and expenses
@@ -36,3 +37,27 @@ generated_at: "2026-03-30T02:55:43.388Z"
       - **(i)** no assistance under this subtitle shall be provided to the State (including assistance to a political subdivision or a resident of the State) for any project not approved as of the date of the commencement of the delinquency; and
       - **(ii)** no member of the Commission from the State shall participate or vote in any action by the Commission.
   - **(4)** A State’s share of administrative expenses of a Commission under this subsection shall not be taken into consideration when determining the amount of assistance provided to the State under this subtitle.
+
+Powers
+
+Federal Agency Cooperation
+
+Administrative Expenses.—
+
+In general
+
+Expenses of the federal cochairperson
+
+State share.—
+
+In general
+
+No federal participation
+
+Delinquent states
+
+Effect on assistance
+
+## Source Credit
+
+*(Added [Pub. L. 110–234, title XIV, § 14217(a)(2)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1471](https://www.govinfo.gov/link/statute/122/1471), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14217(a)(2), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2233; amended [Pub. L. 115–334, title VI, § 6304(a)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4749](https://www.govinfo.gov/link/statute/132/4749); [Pub. L. 118–272, div. B, title II, § 2242(c)](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3203](https://www.govinfo.gov/link/statute/138/3203).)*

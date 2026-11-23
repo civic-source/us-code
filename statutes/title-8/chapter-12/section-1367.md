@@ -3,9 +3,10 @@ title: "Section 1367 - Penalties for disclosure of information"
 usc_title: 8
 usc_section: "1367"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1367"
-generated_at: "2026-03-30T02:53:10.497Z"
+generated_at: "2026-11-23T21:25:25.184Z"
+status: "active"
 ---
 
 # § 1367. Penalties for disclosure of information
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:10.497Z"
   - **(8)** Notwithstanding subsection (a)(2), the Secretary of Homeland Security, the Secretary of State, or the Attorney General may provide in the discretion of either such Secretary or the Attorney General for the disclosure of information to national security officials to be used solely for a national security purpose in a manner that protects the confidentiality of such information.
 - **(c)** Anyone who willfully uses, publishes, or permits information to be disclosed in violation of this section or who knowingly makes a false certification under section 239(e) of the Immigration and Nationality Act [ 8 U.S.C. 1229(e) ] shall be subject to appropriate disciplinary action and subject to a civil money penalty of not more than $5,000 for each such violation.
 - **(d)** The Attorney General, Secretary of State, and the Secretary of Homeland Security shall provide guidance to officers and employees of the Department of Justice, Department of State, or the Department of Homeland Security who have access to information covered by this section regarding the provisions of this section, including the provisions to protect victims of domestic violence and severe forms of trafficking in persons or criminal activity listed in section 101(a)(15)(U) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(15)(u) ) from harm that could result from the inappropriate disclosure of covered information.
+
+## Source Credit
+
+*([Pub. L. 104–208, div. C, title III](https://www.govinfo.gov/link/plaw/104/public/208), §§ 308(g)(8)(D), 384, Sept. 30, 1996, [110 Stat. 3009–624](https://www.govinfo.gov/link/statute/110/3009), 3009–652; [Pub. L. 105–33, title V, § 5572(b)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 641](https://www.govinfo.gov/link/statute/111/641); [Pub. L. 106–386, div. B, title V, § 1513(d)](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1536](https://www.govinfo.gov/link/statute/114/1536); [Pub. L. 109–162, title VIII, § 817](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3060](https://www.govinfo.gov/link/statute/119/3060); [Pub. L. 109–271, § 6(h)](https://www.govinfo.gov/link/plaw/109/public/271), Aug. 12, 2006, [120 Stat. 763](https://www.govinfo.gov/link/statute/120/763); [Pub. L. 113–4, title VIII, § 810(a)](https://www.govinfo.gov/link/plaw/113/public/4), (b), (d), Mar. 7, 2013, [127 Stat. 117](https://www.govinfo.gov/link/statute/127/117), 118.)*

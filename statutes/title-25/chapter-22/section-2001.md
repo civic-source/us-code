@@ -3,9 +3,10 @@ title: "Section 2001 - Accreditation for the basic education of Indian children 
 usc_title: 25
 usc_section: "2001"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2001"
-generated_at: "2026-03-30T02:54:52.831Z"
+generated_at: "2026-11-23T21:25:54.647Z"
+status: "active"
 ---
 
 # § 2001. Accreditation for the basic education of Indian children in Bureau of Indian Affairs schools
@@ -155,3 +156,11 @@ generated_at: "2026-03-30T02:54:52.831Z"
 - **(h)**
   - **(1)** The Comptroller General of the United States shall conduct a study to determine the adequacy of funding, and formulas used by the Bureau to determine funding, for programs operated by Bureau-funded schools, taking into account unique circumstances applicable to Bureau-funded schools. The study shall analyze existing information gathered and contained in germane studies that have been conducted or are currently being conducted with regard to Bureau-funded schools.
   - **(2)** Upon completion of the study, the Secretary of the Interior shall take such action as necessary to ensure distribution of the findings of the study to all affected Indian tribes, local school boards, and associations of local school boards.
+
+(aa) a school which is not a Bureau-funded school; or
+
+(bb) the expansion of a Bureau-funded school which would increase the amount of funds received by the Indian tribe or school board under section 2007 of this title .
+
+## Source Credit
+
+*([Pub. L. 95–561, title XI, § 1121](https://www.govinfo.gov/link/plaw/95/public/561), as added [Pub. L. 107–110, title X, § 1042](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2007](https://www.govinfo.gov/link/statute/115/2007); amended [Pub. L. 109–54, title I, § 127](https://www.govinfo.gov/link/plaw/109/public/54), Aug. 2, 2005, [119 Stat. 525](https://www.govinfo.gov/link/statute/119/525).)*

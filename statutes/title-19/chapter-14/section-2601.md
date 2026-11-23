@@ -3,9 +3,10 @@ title: "Section 2601 - Definitions"
 usc_title: 19
 usc_section: "2601"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2601"
-generated_at: "2026-03-30T02:54:24.680Z"
+generated_at: "2026-11-23T21:25:42.819Z"
+status: "active"
 ---
 
 # § 2601. Definitions
@@ -40,3 +41,47 @@ For purposes of this chapter—
     - **(A)** any individual who is a citizen or national of the United States;
     - **(B)** any corporation, partnership, association, or other legal entity organized or existing under the laws of the United States or any State; or
     - **(C)** any department, agency, or entity of the Federal Government or of any government of any State.
+
+“For the purposes of this subtitle—
+
+In General
+
+Exception
+
+In General
+
+Annual Determination Regarding Certification.—
+
+Determination.—
+
+In general
+
+Conditions
+
+Termination of restrictions.—
+
+In general
+
+Request for termination
+
+Waiver.—
+
+In general
+
+Conditions
+
+Action
+
+Immunity from seizure
+
+Definitions
+
+Appropriate congressional committees
+
+Archaeological or ethnological material of syria
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 97–446, title III, § 302](https://www.govinfo.gov/link/plaw/97/public/446), Jan. 12, 1983, [96 Stat. 2351](https://www.govinfo.gov/link/statute/96/2351).)*

@@ -3,9 +3,10 @@ title: "Section 4094 - Enhanced pay authority for certain research and technolog
 usc_title: 10
 usc_section: "4094"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4094"
-generated_at: "2026-03-30T02:53:38.201Z"
+generated_at: "2026-11-23T21:25:32.756Z"
+status: "active"
 ---
 
 # § 4094. Enhanced pay authority for certain research and technology positions in science and technology reinvention laboratories
@@ -23,3 +24,25 @@ generated_at: "2026-03-30T02:53:38.201Z"
   - **(2)** The authority in subsection (a) may not be used with respect to more than five positions in each military department at any one time, unless the Under Secretary of Defense for Research and Engineering, in concurrence with the Secretaries of the military departments concerned, authorizes the transfer of positions from one military department to another.
   - **(3)** The authority in subsection (a) may be used only for positions having a term of less than five years.
 - **(f)** In this section, the term “science and technology reinvention laboratories of the Department of Defense” means the laboratories designated as science and technology reinvention laboratories by section 4121(b) of this title .
+
+In General
+
+Approval Required
+
+Positions
+
+Rate of Basic Pay
+
+Limitations.—
+
+In general
+
+Number of positions
+
+Term of positions
+
+Science and Technology Reinvention Laboratories of the Department of Defense Defined
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. A, title XI, § 1106(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2817](https://www.govinfo.gov/link/statute/136/2817).)*

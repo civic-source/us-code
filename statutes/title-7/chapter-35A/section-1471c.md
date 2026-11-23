@@ -3,9 +3,10 @@ title: "Section 1471c - Eligible producers"
 usc_title: 7
 usc_section: "1471c"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1471c"
-generated_at: "2026-03-30T02:53:42.317Z"
+generated_at: "2026-11-23T21:25:28.089Z"
+status: "active"
 ---
 
 # § 1471c. Eligible producers
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.317Z"
   - **(3)** Each qualifying livestock producer shall be eligible for emergency feed assistance under the programs specified in section 1471d(a) of this title that is made available where the producer is located in quantities sufficient to meet such feed deficiency with respect to the producer’s livestock normally fed with feed produced by the producer.
 - **(b)** Each livestock producer in such State, county, or area, or in a contiguous county as provided for in section 1471a(b) of this title , regardless of whether the producer qualifies for assistance under subsection (a), shall be eligible for emergency assistance under the programs specified in section 1471e of this title that are made available where the producer is located.
 - **(c)** Any livestock producer, located in a county or area in which benefits under the emergency feed program or the emergency feed assistance program were made available due to the drought or related condition in 1988 prior to the effective date of this subchapter, who qualifies for assistance under such pre-existing programs shall be eligible for assistance for such drought or related conditions as prescribed in subsection (a) or, at the producer’s option, for assistance under such pre-existing programs.
+
+## Source Credit
+
+*(Oct. 31, 1949, ch. 792, title VI, § 605, as added [Pub. L. 100–387, title I, § 101(a)](https://www.govinfo.gov/link/plaw/100/public/387), Aug. 11, 1988, [102 Stat. 928](https://www.govinfo.gov/link/statute/102/928).)*

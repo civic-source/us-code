@@ -3,9 +3,10 @@ title: "Section 13263a - Alternative compliance"
 usc_title: 42
 usc_section: "13263a"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13263a"
-generated_at: "2026-03-30T02:56:11.440Z"
+generated_at: "2026-11-23T21:26:33.589Z"
+status: "active"
 ---
 
 # § 13263a. Alternative compliance
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.440Z"
 - **(d)** If a State or covered person that receives a waiver under this section fails to comply with this section, the Secretary—
   - **(1)** shall revoke the waiver; and
   - **(2)** may impose on the State or covered person a penalty under section 13262 of this title .
+
+## Source Credit
+
+*([Pub. L. 102–486, title V, § 514](https://www.govinfo.gov/link/plaw/102/public/486), as added [Pub. L. 109–58, title VII, § 703(a)(2)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 815](https://www.govinfo.gov/link/statute/119/815).)*

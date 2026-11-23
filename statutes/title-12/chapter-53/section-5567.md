@@ -3,9 +3,10 @@ title: "Section 5567 - Employee protection"
 usc_title: 12
 usc_section: "5567"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5567"
-generated_at: "2026-03-30T02:53:53.546Z"
+generated_at: "2026-11-23T21:25:37.292Z"
+status: "active"
 ---
 
 # § 5567. Employee protection
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:53:53.546Z"
   - **(1)** Except as provided under paragraph (3), and notwithstanding any other provision of law, the rights and remedies provided for in this section may not be waived by any agreement, policy, form, or condition of employment, including by any predispute arbitration agreement.
   - **(2)** Except as provided under paragraph (3), and notwithstanding any other provision of law, no predispute arbitration agreement shall be valid or enforceable to the extent that it requires arbitration of a dispute arising under this section.
   - **(3)** Notwithstanding paragraphs (1) and (2), an arbitration provision in a collective bargaining agreement shall be enforceable as to disputes arising under subsection (a)(4), unless the Bureau determines, by rule, that such provision is inconsistent with the purposes of this title. 1
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1057](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2031](https://www.govinfo.gov/link/statute/124/2031).)*

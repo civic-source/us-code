@@ -3,9 +3,10 @@ title: "Section 2460 - Bureau of Educational and Cultural Affairs"
 usc_title: 22
 usc_section: "2460"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2460"
-generated_at: "2026-03-30T02:55:05.369Z"
+generated_at: "2026-11-23T21:25:58.499Z"
+status: "active"
 ---
 
 # § 2460. Bureau of Educational and Cultural Affairs
@@ -61,3 +62,31 @@ generated_at: "2026-03-30T02:55:05.369Z"
   - **(9)** All decisions of the Working Group shall be by majority vote of the members present and voting.
   - **(10)** The members of the Working Group shall serve without additional compensation for their service on the Working Group. Any expenses incurred by a member of the Working Group in connection with service on the Working Group shall be compensated by that member’s department or agency.
   - **(11)** With respect to any report issued under paragraph (6), a member may submit dissenting views to be submitted as part of the report of the Working Group.
+
+In general
+
+Authorization of certain partnerships
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 87–256, § 112](https://www.govinfo.gov/link/plaw/87/public/256), as added [Pub. L. 98–164, title II, § 213](https://www.govinfo.gov/link/plaw/98/public/164), Nov. 22, 1983, [97 Stat. 1034](https://www.govinfo.gov/link/statute/97/1034); amended [Pub. L. 100–204, title III](https://www.govinfo.gov/link/plaw/100/public/204), §§ 302(a), 303, Dec. 22, 1987, [101 Stat. 1378](https://www.govinfo.gov/link/statute/101/1378), 1379; [Pub. L. 101–246, title II](https://www.govinfo.gov/link/plaw/101/public/246), §§ 204(a)(2), 222(a), 223, Feb. 16, 1990, [104 Stat. 50](https://www.govinfo.gov/link/statute/104/50), 55, 56; [Pub. L. 103–199, title III, § 301(1)](https://www.govinfo.gov/link/plaw/103/public/199), Dec. 17, 1993, [107 Stat. 2322](https://www.govinfo.gov/link/statute/107/2322); [Pub. L. 103–236, title II, § 229(a)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 423](https://www.govinfo.gov/link/statute/108/423); [Pub. L. 105–244, title I, § 102(a)(7)(B)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1619](https://www.govinfo.gov/link/statute/112/1619); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. B, title XXIV, § 2414, Oct. 21, 1998, [112 Stat. 2681–832](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 107–228, div. A, title II](https://www.govinfo.gov/link/plaw/107/public/228), §§ 221, 229, Sept. 30, 2002, [116 Stat. 1367](https://www.govinfo.gov/link/statute/116/1367), 1371; [Pub. L. 117–263, div. I, title XCVI, § 9604(b)(2)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3912](https://www.govinfo.gov/link/statute/136/3912); [Pub. L. 118–31, div. F, title LXVI, § 6604(b)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1013](https://www.govinfo.gov/link/statute/137/1013).)*

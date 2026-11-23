@@ -3,9 +3,10 @@ title: "Section 5441 - Educational and cultural exchanges and sister institution
 usc_title: 22
 usc_section: "5441"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5441"
-generated_at: "2026-03-30T02:55:05.418Z"
+generated_at: "2026-11-23T21:25:58.662Z"
+status: "active"
 ---
 
 # § 5441. Educational and cultural exchanges and sister institutions programs with Poland and Hungary
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.418Z"
 - **(c)** The President should consider the establishment of reciprocal cultural centers in Poland and the United States and in Hungary and the United States to facilitate government-funded and privately-funded cultural exchanges.
 - **(d)** The President shall act to encourage the establishment of “sister institution” programs between American and Polish organizations and between American and Hungarian organizations, including such organizations as institutions of higher education, cities and towns, and organizations in such fields as medicine and health care, business management, environmental protection, and agricultural research and marketing.
 - **(e)** To enable the United States Information Agency to support the activities described in this section, there are authorized to be appropriated $12,000,000 for the 3-year period beginning October 1, 1989 , in addition to amounts otherwise available for such purposes.
+
+## Source Credit
+
+*([Pub. L. 101–179, title IV, § 401](https://www.govinfo.gov/link/plaw/101/public/179), Nov. 28, 1989, [103 Stat. 1314](https://www.govinfo.gov/link/statute/103/1314).)*

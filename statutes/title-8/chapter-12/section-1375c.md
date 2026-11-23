@@ -3,9 +3,10 @@ title: "Section 1375c - Protections, remedies, and limitations on issuance for A
 usc_title: 8
 usc_section: "1375c"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1375c"
-generated_at: "2026-03-30T02:53:10.499Z"
+generated_at: "2026-11-23T21:25:25.188Z"
+status: "active"
 ---
 
 # § 1375c. Protections, remedies, and limitations on issuance for A–3 and G–5 visas
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:53:10.499Z"
   - **(4)** The term “appropriate congressional committees” means—
     - **(A)** the Committee on Foreign Affairs and the Committee on the Judiciary of the House of Representatives; and
     - **(B)** the Committee on Foreign Relations and the Committee on the Judiciary of the Senate.
+
+## Source Credit
+
+*([Pub. L. 110–457, title II, § 203](https://www.govinfo.gov/link/plaw/110/public/457), Dec. 23, 2008, [122 Stat. 5057](https://www.govinfo.gov/link/statute/122/5057); [Pub. L. 115–425, title I, § 123](https://www.govinfo.gov/link/plaw/115/public/425), Jan. 8, 2019, [132 Stat. 5479](https://www.govinfo.gov/link/statute/132/5479).)*

@@ -3,9 +3,10 @@ title: "Section 1 - Products produced in distinct geographic areas"
 usc_title: 7
 usc_section: "1"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-30T02:53:42.285Z"
+generated_at: "2026-11-23T21:25:27.964Z"
+status: "active"
 ---
 
 # § 499b–1. Products produced in distinct geographic areas
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.285Z"
 - **(c)** A person bringing a complaint under this section shall reimburse the Secretary of Agriculture for any and all costs associated with the enforcement of this section.
 - **(d)** The Secretary of Agriculture shall not increase any fees charged under the Perishable Agricultural Commodities Act [ 7 U.S.C. 499a et seq.] to offset costs associated with the operation of this section.
 - **(e)** The Secretary shall promulgate regulations to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIII, § 1309](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3562](https://www.govinfo.gov/link/statute/104/3562).)*

@@ -3,9 +3,10 @@ title: "Section 9673 - Prohibition on support in countries that support terroris
 usc_title: 22
 usc_section: "9673"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9673"
-generated_at: "2026-03-30T02:55:05.472Z"
+generated_at: "2026-11-23T21:25:58.785Z"
+status: "active"
 ---
 
 # § 9673. Prohibition on support in countries that support terrorism or violate human rights and with sanctioned persons
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.472Z"
   - **(2)** has engaged in a consistent pattern of gross violations of internationally recognized human rights for purposes of section 2151n(a) or 2304(a)(2) of this title or any other relevant provision of law.
 - **(b)** The Corporation is prohibited from all dealings related to any project under subchapter II of this chapter prohibited under United States sanctions laws or regulations, including dealings with persons on the list of specially designated persons and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury, except to the extent otherwise authorized by the Secretary of the Treasury or the Secretary of State.
 - **(c)** The Corporation shall require any person receiving support under subchapter II of this chapter to certify that the person, and any entity owned or controlled by the person, is in compliance with all United States sanctions laws and regulations.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. F, title V, § 1453](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3510](https://www.govinfo.gov/link/statute/132/3510).)*

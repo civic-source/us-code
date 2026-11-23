@@ -3,9 +3,10 @@ title: "Section 2325 - Definition"
 usc_title: 18
 usc_section: "2325"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2325"
-generated_at: "2026-03-30T02:54:16.502Z"
+generated_at: "2026-11-23T21:25:44.143Z"
+status: "active"
 ---
 
 # § 2325. Definition
@@ -25,3 +26,11 @@ In this chapter, the term “telemarketing or email marketing”—
     - **(B)** includes the business address of the solicitor;
     - **(C)** includes multiple pages of written material or illustration; and
     - **(D)** has been issued not less frequently than once a year,
+
+Hotline
+
+Action on Information Gathered
+
+## Source Credit
+
+*(Added [Pub. L. 115–70, title IV, § 402(a)(2)](https://www.govinfo.gov/link/plaw/115/public/70), Oct. 18, 2017, [131 Stat. 1213](https://www.govinfo.gov/link/statute/131/1213).)*

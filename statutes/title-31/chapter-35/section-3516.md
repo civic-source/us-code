@@ -3,9 +3,10 @@ title: "Section 3516 - Reports consolidation"
 usc_title: 31
 usc_section: "3516"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 3516"
-generated_at: "2026-03-30T02:55:34.057Z"
+generated_at: "2026-11-23T21:26:10.577Z"
+status: "active"
 ---
 
 # § 3516. Reports consolidation
@@ -30,3 +31,21 @@ generated_at: "2026-03-30T02:55:34.057Z"
   - **(3)** shall design and implement Department-wide management controls that—
     - **(A)** reflect the most recent homeland security strategy developed pursuant to section 874(b)(2) of the Homeland Security Act of 2002; and
     - **(B)** permit assessment, by the Congress and by managers within the Department, of the Department’s performance in executing such strategy.
+
+Definitions
+
+Reaching an Unqualified Audit Opinion
+
+Report to Congress on Progress of Meeting Audit Requirements
+
+Implementation of Audit Opinion Requirement
+
+Assertion of Internal Controls
+
+Findings
+
+Purposes
+
+## Source Credit
+
+*(Added [Pub. L. 106–531, § 3(a)](https://www.govinfo.gov/link/plaw/106/public/531), Nov. 22, 2000, [114 Stat. 2537](https://www.govinfo.gov/link/statute/114/2537); amended [Pub. L. 108–330, § 4(a)](https://www.govinfo.gov/link/plaw/108/public/330), Oct. 16, 2004, [118 Stat. 1277](https://www.govinfo.gov/link/statute/118/1277).)*

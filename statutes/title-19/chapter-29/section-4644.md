@@ -3,9 +3,10 @@ title: "Section 4644 - Assessments"
 usc_title: 19
 usc_section: "4644"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4644"
-generated_at: "2026-03-30T02:54:24.714Z"
+generated_at: "2026-11-23T21:25:42.896Z"
+status: "active"
 ---
 
 # § 4644. Assessments
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:24.714Z"
     - **(C)** $328,000,000 for 2023.
   - **(2)** The extent to which any legal challenges to Mexico’s labor reform have succeeded in that court system.
   - **(3)** The extent to which Mexico has implemented the federal and state labor courts, registration entity, and federal and state conciliation centers consistent with the timeline set forth for Mexico’s labor reform, in the September 2019 policy statements by the Government of Mexico on a national strategy for implementation of the labor justice system, and in subsequent policy statements in accordance with Mexico’s labor reform.
+
+## Source Credit
+
+*([Pub. L. 116–113, title VII, § 714](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 82](https://www.govinfo.gov/link/statute/134/82).)*

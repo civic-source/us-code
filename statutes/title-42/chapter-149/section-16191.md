@@ -3,9 +3,10 @@ title: "Section 16191 - Energy efficiency"
 usc_title: 42
 usc_section: "16191"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16191"
-generated_at: "2026-03-30T02:56:11.471Z"
+generated_at: "2026-11-23T21:26:33.704Z"
+status: "active"
 ---
 
 # § 16191. Energy efficiency
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:56:11.471Z"
   - **(2)** the weatherization program established under part A of title IV of the Energy Conservation and Production Act ( 42 U.S.C. 6861 et seq.);
   - **(3)** a State energy conservation plan established under part D of title III of the Energy Policy and Conservation Act ( 42 U.S.C. 6321 et seq.); or
   - **(4)** a Federal energy management measure carried out under part 3 of title V of the National Energy Conservation Policy Act ( 42 U.S.C. 8251 et seq.).
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 911](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 857](https://www.govinfo.gov/link/statute/119/857); [Pub. L. 110–140, title III, § 315(a)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1571](https://www.govinfo.gov/link/statute/121/1571).)*

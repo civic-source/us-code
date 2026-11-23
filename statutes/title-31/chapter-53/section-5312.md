@@ -3,9 +3,10 @@ title: "Section 5312 - Definitions and application"
 usc_title: 31
 usc_section: "5312"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 5312"
-generated_at: "2026-03-30T02:55:34.066Z"
+generated_at: "2026-11-23T21:26:10.618Z"
+status: "active"
 ---
 
 # § 5312. Definitions and application
@@ -55,3 +56,47 @@ generated_at: "2026-03-30T02:55:34.066Z"
 - **(c)** For purposes of this subchapter, the following definitions shall apply:
   - **(1)** The term “financial institution” (as defined in subsection (a)) includes the following:
     - **(A)** 2 2 So in original. No subpar. (B) has been enacted. Any futures commission merchant, commodity trading advisor, or commodity pool operator registered, or required to register, under the Commodity Exchange Act.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5312(a)(1) | 31:1052(a), (b), (g), (i). | Oct. 26, 1970 , Pub. L. 91–508, § 203(a) –(i), ( l ), 84 Stat. 1118 . |
+| 5312(a)(2) | 31:1052(e). |  |
+| 5312(a)(3) | 31:1052( l ). |  |
+| 5312(a)(4) | 31:1052(c). |  |
+| 5312(a)(5) | 31:1052(d). |  |
+| 5312(b) | 31:1052(f), (h). |  |
+
+
+Nonfinancial trade or business
+
+Additional Definitions
+
+Certain institutions included in definition
+
+Historical and Revision Notes
+
+5312(a)(1)
+
+Oct. 26, 1970
+
+Pub. L. 91–508, § 203(a)
+
+84 Stat. 1118
+
+5312(a)(2)
+
+5312(a)(3)
+
+5312(a)(4)
+
+5312(a)(5)
+
+5312(b)
+
+In general
+
+Considerations
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 995](https://www.govinfo.gov/link/statute/96/995); [Pub. L. 99–570, title I, § 1362](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–33](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 100–690, title VI, § 6185(a)](https://www.govinfo.gov/link/plaw/100/public/690), (g)(1), Nov. 18, 1988, [102 Stat. 4354](https://www.govinfo.gov/link/statute/102/4354), 4357; [Pub. L. 103–325, title IV](https://www.govinfo.gov/link/plaw/103/public/325), §§ 405, 409, Sept. 23, 1994, [108 Stat. 2247](https://www.govinfo.gov/link/statute/108/2247), 2252; [Pub. L. 107–56, title III](https://www.govinfo.gov/link/plaw/107/public/56), §§ 321(a), (b), 359(a), 365(c)(1), (2)(A), Oct. 26, 2001, [115 Stat. 315](https://www.govinfo.gov/link/statute/115/315), 328, 335; [Pub. L. 108–458, title VI](https://www.govinfo.gov/link/plaw/108/public/458), §§ 6202(g), 6203(b), Dec. 17, 2004, [118 Stat. 3746](https://www.govinfo.gov/link/statute/118/3746); [Pub. L. 116–283, div. F, title LXI](https://www.govinfo.gov/link/plaw/116/public/283), §§ 6102(d)(1), 6110(a)(1), Jan. 1, 2021, [134 Stat. 4553](https://www.govinfo.gov/link/statute/134/4553), 4561.)*

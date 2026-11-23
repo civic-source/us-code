@@ -3,9 +3,10 @@ title: "Section 544d - Scenic area management plan"
 usc_title: 16
 usc_section: "544d"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 544d"
-generated_at: "2026-03-30T02:54:22.870Z"
+generated_at: "2026-11-23T21:25:51.667Z"
+status: "active"
 ---
 
 # § 544d. Scenic area management plan
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:54:22.870Z"
     - **(B)** by a vote of two-thirds of its membership, including a majority of the members appointed from each State, reject the suggested modifications of the Secretary and adopt a management plan consistent with the provisions of this section and the purposes of sections 544 to 544p of this title.
 - **(g)** No sooner than five years after adoption of the management plan, but at least every ten years, the Commission shall review the management plan to determine whether it should be revised. The Commission shall submit any revised management plan to the Secretary for review and concurrence, in accordance with the provisions of this section for adoption of the management plan.
 - **(h)** If the Commission determines at any time that conditions within the scenic area have significantly changed, it may amend the management plan. The Commission shall submit amendments to the management plan to the Secretary for review, in accordance with the provisions of this section for adoption of the management plan.
+
+## Source Credit
+
+*([Pub. L. 99–663, § 6](https://www.govinfo.gov/link/plaw/99/public/663), Nov. 17, 1986, [100 Stat. 4279](https://www.govinfo.gov/link/statute/100/4279).)*

@@ -3,9 +3,10 @@ title: "Section 792 - Architectural and Transportation Barriers Compliance Board
 usc_title: 29
 usc_section: "792"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 792"
-generated_at: "2026-03-30T02:55:18.697Z"
+generated_at: "2026-11-23T21:26:02.211Z"
+status: "active"
 ---
 
 # § 792. Architectural and Transportation Barriers Compliance Board
@@ -86,3 +87,35 @@ generated_at: "2026-03-30T02:55:18.697Z"
     - **(B)** The Access Board shall publish regulations setting forth the criteria the Board will use in determining whether the acceptance of gifts, devises, and bequests of property, both real and personal, would reflect unfavorably upon the ability of the Board or any employee to carry out the responsibilities or official duties of the Board in a fair and objective manner, or would compromise the integrity of or the appearance of the integrity of a Government program or any official involved in that program.
   - **(3)** Omitted.
 - **(j)** There are authorized to be appropriated for the purpose of carrying out the duties and functions of the Access Board under this section $7,448,000 for fiscal year 2015, $8,023,000 for fiscal year 2016, $8,190,000 for fiscal year 2017, $8,371,000 for fiscal year 2018, $8,568,000 for fiscal year 2019, and $8,750,000 for fiscal year 2020.
+
+Establishment of Working Group.—
+
+In general
+
+Members
+
+Best practices.—
+
+In general
+
+Public availability
+
+Limitations
+
+Considerations
+
+Information campaign
+
+Waiver of chapter 10 of title 5, united states code
+
+GAO Study.—
+
+In general
+
+Report
+
+Definitions
+
+## Source Credit
+
+*([Pub. L. 93–112, title V, § 502](https://www.govinfo.gov/link/plaw/93/public/112), Sept. 26, 1973, [87 Stat. 391](https://www.govinfo.gov/link/statute/87/391); [Pub. L. 93–516, title I](https://www.govinfo.gov/link/plaw/93/public/516), §§ 110, 111(n)–(q), Dec. 7, 1974, [88 Stat. 1619](https://www.govinfo.gov/link/statute/88/1619), 1621, 1622; [Pub. L. 93–651, title I](https://www.govinfo.gov/link/plaw/93/public/651), §§ 110, 111(n)–(q), Nov. 21, 1974, [89 Stat. 2–4](https://www.govinfo.gov/link/statute/89/2), 2–6, 2–7; [Pub. L. 94–230](https://www.govinfo.gov/link/plaw/94/public/230), §§ 10, 11(b)(13), Mar. 15, 1976, [90 Stat. 212](https://www.govinfo.gov/link/statute/90/212), 214; [Pub. L. 95–251, § 2(a)(8)](https://www.govinfo.gov/link/plaw/95/public/251), Mar. 27, 1978, [92 Stat. 183](https://www.govinfo.gov/link/statute/92/183); [Pub. L. 95–602, title I, § 118](https://www.govinfo.gov/link/plaw/95/public/602), Nov. 6, 1978, [92 Stat. 2979](https://www.govinfo.gov/link/statute/92/2979); [Pub. L. 96–374, title XIII, § 1321](https://www.govinfo.gov/link/plaw/96/public/374), Oct. 3, 1980, [94 Stat. 1499](https://www.govinfo.gov/link/statute/94/1499); [Pub. L. 98–221, title I, § 151](https://www.govinfo.gov/link/plaw/98/public/221), Feb. 22, 1984, [98 Stat. 28](https://www.govinfo.gov/link/statute/98/28); [Pub. L. 99–506, title I, § 103(d)(2)(C)](https://www.govinfo.gov/link/plaw/99/public/506), title VI, § 601, title X, § 1002(e)(2)(B)–(D), Oct. 21, 1986, [100 Stat. 1810](https://www.govinfo.gov/link/statute/100/1810), 1829, 1844; [Pub. L. 100–630, title II, § 206(b)](https://www.govinfo.gov/link/plaw/100/public/630), Nov. 7, 1988, [102 Stat. 3311](https://www.govinfo.gov/link/statute/102/3311); [Pub. L. 102–52, § 6](https://www.govinfo.gov/link/plaw/102/public/52), June 6, 1991, [105 Stat. 262](https://www.govinfo.gov/link/statute/105/262); [Pub. L. 102–54, § 13(k)(1)(A)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 276](https://www.govinfo.gov/link/statute/105/276); [Pub. L. 102–569, title I, § 102(p)(30)](https://www.govinfo.gov/link/plaw/102/public/569), title V, § 504, Oct. 29, 1992, [106 Stat. 4360](https://www.govinfo.gov/link/statute/106/4360), 4424; [Pub. L. 103–73, title I, § 112(b)](https://www.govinfo.gov/link/plaw/103/public/73), Aug. 11, 1993, [107 Stat. 727](https://www.govinfo.gov/link/statute/107/727); [Pub. L. 105–220, title IV, § 408(a)(2)](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1202](https://www.govinfo.gov/link/statute/112/1202); [Pub. L. 105–394, title II, § 203(a)](https://www.govinfo.gov/link/plaw/105/public/394), Nov. 13, 1998, [112 Stat. 3653](https://www.govinfo.gov/link/statute/112/3653); [Pub. L. 108–364, § 3(b)(3)](https://www.govinfo.gov/link/plaw/108/public/364), Oct. 25, 2004, [118 Stat. 1737](https://www.govinfo.gov/link/statute/118/1737); [Pub. L. 113–128, title IV, § 456(b)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1675](https://www.govinfo.gov/link/statute/128/1675).)*

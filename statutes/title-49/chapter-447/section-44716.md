@@ -3,9 +3,10 @@ title: "Section 44716 - Collision avoidance systems"
 usc_title: 49
 usc_section: "44716"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44716"
-generated_at: "2026-03-30T02:56:19.385Z"
+generated_at: "2026-11-23T21:26:40.902Z"
+status: "active"
 ---
 
 # § 44716. Collision avoidance systems
@@ -31,3 +32,75 @@ generated_at: "2026-03-30T02:56:19.385Z"
   - **(3)** In this subsection, the term “collision avoidance equipment” means equipment that provides protection from mid-air collisions using technology that provides—
     - **(A)** cockpit-based collision detection and conflict resolution guidance, including display of traffic; and
     - **(B)** a margin of safety of at least the same level as provided by the collision avoidance system known as TCAS–II.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44716(a) | 49 App.:1421(f)(1). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 601(f); added Dec. 30, 1987 , Pub. L. 100–223, § 203(b) , 101 Stat. 1518 ; Dec. 15, 1989 , Pub. L. 101–236, § 2 , 103 Stat. 2060 . |
+| 44716(b) | 49 App.:1421(f)(2), (4). |  |
+| 44716(c) | 49 App.:1421(f)(3). |  |
+| 44716(d) | 49 App.:1421(f)(5). |  |
+| 44716(e) | 49 App.:1421 (note). | Dec. 30, 1987 , Pub. L. 100–223, § 203(d) , 101 Stat. 1519 . |
+| 44716(f) | 49 App.:1421(f)(6). |  |
+
+
+Development and Certification
+
+Installation and Operation
+
+Operational Evaluation
+
+Amending Schedule for Windshear Equipment
+
+Deadline for Development and Certification
+
+Installing and Using Transponders
+
+Cargo Collision Avoidance Systems.—
+
+In general
+
+Extension of deadline
+
+Collision avoidance equipment defined
+
+Historical and Revision Notes
+
+44716(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 203(b)
+
+101 Stat. 1518
+
+Dec. 15, 1989
+
+Pub. L. 101–236, § 2
+
+103 Stat. 2060
+
+44716(b)
+
+44716(c)
+
+44716(d)
+
+44716(e)
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 203(d)
+
+101 Stat. 1519
+
+44716(f)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1198](https://www.govinfo.gov/link/statute/108/1198); [Pub. L. 106–181, title V, § 502](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 132](https://www.govinfo.gov/link/statute/114/132).)*

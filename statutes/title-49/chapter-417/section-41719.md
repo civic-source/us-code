@@ -3,9 +3,10 @@ title: "Section 41719 - Air service termination notice"
 usc_title: 49
 usc_section: "41719"
 chapter: 417
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 41719"
-generated_at: "2026-03-30T02:56:19.377Z"
+generated_at: "2026-11-23T21:26:40.861Z"
+status: "active"
 ---
 
 # § 41719. Air service termination notice
@@ -25,3 +26,23 @@ generated_at: "2026-03-30T02:56:19.377Z"
     - **(A)** a part 135 air carrier; or
     - **(B)** a part 121 air carrier that provides air transportation exclusively with aircraft having a seating capacity of no more than 70 passengers.
   - **(4)** The term “termination” means the cessation of all service at an airport by an air carrier.
+
+In General
+
+Exceptions
+
+Waivers for Regional/Commuter Carriers
+
+Definitions
+
+Part 121 air carrier
+
+Part 135 air carrier
+
+Regional/commuter carriers
+
+Termination
+
+## Source Credit
+
+*(Added [Pub. L. 103–305, title II, § 207(a)](https://www.govinfo.gov/link/plaw/103/public/305), Aug. 23, 1994, [108 Stat. 1587](https://www.govinfo.gov/link/statute/108/1587), § 41715; amended [Pub. L. 103–429, § 6(53)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4385](https://www.govinfo.gov/link/statute/108/4385); [Pub. L. 104–287, § 5(73)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3396](https://www.govinfo.gov/link/statute/110/3396); renumbered § 41719, [Pub. L. 106–181, title II, § 231(b)(1)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 108](https://www.govinfo.gov/link/statute/114/108); [Pub. L. 108–176, title II, § 225(b)(1)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2528](https://www.govinfo.gov/link/statute/117/2528).)*

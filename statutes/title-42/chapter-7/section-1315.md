@@ -3,9 +3,10 @@ title: "Section 1315 - Demonstration projects"
 usc_title: 42
 usc_section: "1315"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1315"
-generated_at: "2026-03-30T02:56:10.906Z"
+generated_at: "2026-11-23T21:26:31.239Z"
+status: "active"
 ---
 
 # § 1315. Demonstration projects
@@ -68,3 +69,31 @@ generated_at: "2026-03-30T02:56:10.906Z"
 - **(g)**
   - **(1)** Beginning January 1 2027, the Secretary may not approve an application for (or renewal or amendment of) an experimental, pilot, or demonstration project undertaken under subsection (a) to promote the objectives of subchapter XIX in a State (in this subsection referred to as a “Medicaid demonstration project”) unless the Chief Actuary for the Centers for Medicare & Medicaid Services certifies that such project, or, in the case of a renewal, the duration of the preceding waiver, is not expected to result in an increase in the amount of Federal expenditures compared to the amount that such expenditures would otherwise be in the absence of such project. For purposes of this subsection, expenditures for the coverage of populations and services that the State could have otherwise provided through its Medicaid State plan or other authority under subchapter XIX, including expenditures that could be made under such authority but for the provision of such services at a different site of service than authorized under such State plan or other authority, shall be considered expenditures in the absence of such a project.
   - **(2)** In the event that expenditures with respect to a State under a Medicaid demonstration project are, during an approval period for such project, less than the amount of such expenditures that would have otherwise been made in the absence of such project, the Secretary shall specify the methodology to be used with respect to the subsequent approval period for such project for purposes of taking the difference between such expenditures into account.
+
+Demonstration Projects To Test the Effect of Early Childhood Development Programs
+
+State Demonstration Projects To Encourage Innovative Education and Training Programs for Children
+
+Demonstrations To Ensure Long Term Family Self-Sufficiency Through Community-Based Services
+
+Authorization of Appropriations
+
+Findings and Purpose
+
+In General
+
+Nature of Project
+
+Applications; Selection Criteria
+
+Evaluation and Report
+
+Funding
+
+Duration
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XI, § 1115, as added [Pub. L. 87–543, title I, § 122](https://www.govinfo.gov/link/plaw/87/public/543), July 25, 1962, [76 Stat. 192](https://www.govinfo.gov/link/statute/76/192); amended [Pub. L. 89–97, title I, § 121(c)(3)](https://www.govinfo.gov/link/plaw/89/public/97), July 30, 1965, [79 Stat. 352](https://www.govinfo.gov/link/statute/79/352); [Pub. L. 90–36, § 2](https://www.govinfo.gov/link/plaw/90/public/36), June 29, 1967, [81 Stat. 94](https://www.govinfo.gov/link/statute/81/94); [Pub. L. 90–248, title II](https://www.govinfo.gov/link/plaw/90/public/248), §§ 241(c)(4), 247, Jan. 2, 1968, [81 Stat. 917](https://www.govinfo.gov/link/statute/81/917), 918; [Pub. L. 93–233, § 18](https://www.govinfo.gov/link/plaw/93/public/233) (z–2)(1)(B), Dec. 31, 1973, [87 Stat. 973](https://www.govinfo.gov/link/statute/87/973); [Pub. L. 93–647, § 3(c)](https://www.govinfo.gov/link/plaw/93/public/647), Jan. 4, 1975, [88 Stat. 2349](https://www.govinfo.gov/link/statute/88/2349); [Pub. L. 95–216, title IV, § 404](https://www.govinfo.gov/link/plaw/95/public/216), Dec. 20, 1977, [91 Stat. 1562](https://www.govinfo.gov/link/statute/91/1562); [Pub. L. 97–35, title XXIII, § 2353(g)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 872](https://www.govinfo.gov/link/statute/95/872); [Pub. L. 98–369, div. B, title VI, § 2663(e)(5)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1168](https://www.govinfo.gov/link/statute/98/1168); [Pub. L. 98–378, § 10](https://www.govinfo.gov/link/plaw/98/public/378), Aug. 16, 1984, [98 Stat. 1317](https://www.govinfo.gov/link/statute/98/1317); [Pub. L. 99–272, title XIV, § 14001(b)(2)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 328](https://www.govinfo.gov/link/statute/100/328); [Pub. L. 100–485, title V, § 503](https://www.govinfo.gov/link/plaw/100/public/485), Oct. 13, 1988, [102 Stat. 2402](https://www.govinfo.gov/link/statute/102/2402); [Pub. L. 104–193, title I, § 108(g)(2)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2168](https://www.govinfo.gov/link/statute/110/2168); [Pub. L. 105–33, title IV, § 4757(a)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 527](https://www.govinfo.gov/link/statute/111/527); [Pub. L. 106–554, § 1(a)(6) [title VII, § 703(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–574; [Pub. L. 111–148, title II, § 2601(b)(2)](https://www.govinfo.gov/link/plaw/111/public/148), title X, § 10201(i), Mar. 23, 2010, [124 Stat. 315](https://www.govinfo.gov/link/statute/124/315), 922; [Pub. L. 113–183, title III, § 302(b)](https://www.govinfo.gov/link/plaw/113/public/183), Sept. 29, 2014, [128 Stat. 1945](https://www.govinfo.gov/link/statute/128/1945); [Pub. L. 119–21, title VII, § 71118(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 306](https://www.govinfo.gov/link/statute/139/306).)*

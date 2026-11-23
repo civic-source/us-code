@@ -3,9 +3,10 @@ title: "Section 1472 - Community parent resource centers"
 usc_title: 20
 usc_section: "1472"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1472"
-generated_at: "2026-03-30T02:54:48.168Z"
+generated_at: "2026-11-23T21:25:47.349Z"
+status: "active"
 ---
 
 # § 1472. Community parent resource centers
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:48.168Z"
   - **(2)** carry out the activities required of parent training and information centers under paragraphs (2) through (9) of section 1471(b) of this title ;
   - **(3)** establish cooperative partnerships with the parent training and information centers funded under section 1471 of this title ; and
   - **(4)** be designed to meet the specific needs of families who experience significant isolation from available sources of information and support.
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 672](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2791](https://www.govinfo.gov/link/statute/118/2791).)*

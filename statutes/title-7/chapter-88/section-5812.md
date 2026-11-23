@@ -3,9 +3,10 @@ title: "Section 5812 - Program administration"
 usc_title: 7
 usc_section: "5812"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 5812"
-generated_at: "2026-03-30T02:53:42.418Z"
+generated_at: "2026-11-23T21:25:28.367Z"
+status: "active"
 ---
 
 # § 5812. Program administration
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:53:42.418Z"
     - **(D)** review and act on the recommendations of the technical committee, and coordinate its activities with the regional host institution; and
     - **(E)** prepare and make available an annual report concerning projects funded under sections 5811 and 5813 of this title, together with an evaluation of the project activity.
   - **(3)** A member of the Regional Administrative Council or a technical committee may not participate in the discussion or recommendation of proposed projects if the member has or had a professional or business interest in, including the provision of consultancy services, the organization whose grant application is under review.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XVI, § 1622](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3736](https://www.govinfo.gov/link/statute/104/3736); [Pub. L. 104–127, title VIII, § 860(a)](https://www.govinfo.gov/link/plaw/104/public/127), (b), Apr. 4, 1996, [110 Stat. 1173](https://www.govinfo.gov/link/statute/110/1173); [Pub. L. 110–234, title VII, § 7511(c)(15)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1268](https://www.govinfo.gov/link/statute/122/1268); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7511(c)(15), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2030.)*

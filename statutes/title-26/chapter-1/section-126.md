@@ -3,9 +3,10 @@ title: "Section 126 - Certain cost-sharing payments"
 usc_title: 26
 usc_section: "126"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 126"
-generated_at: "2026-03-30T02:55:27.626Z"
+generated_at: "2026-11-23T21:26:06.008Z"
+status: "active"
 ---
 
 # § 126. Certain cost-sharing payments
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:27.626Z"
   - **(2)** Any election under paragraph (1) shall be made in the manner prescribed by the Secretary by regulations and shall be made not later than the due date prescribed by law (including extensions) for filing the return of tax under this chapter for the taxable year in which the payment was received or accrued.
 - **(d)** No deduction or credit shall be allowed with respect to any expenditure which is properly associated with any amount excluded from gross income under subsection (a).
 - **(e)** Notwithstanding any provision of section 1016 to the contrary, no adjustment to basis shall be made with respect to property acquired or improved through the use of any payment, to the extent that such adjustment would reflect any amount which is excluded from gross income under subsection (a).
+
+## Source Credit
+
+*(Added [Pub. L. 95–600, title V, § 543(a)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2888](https://www.govinfo.gov/link/statute/92/2888); amended [Pub. L. 96–222, title I, § 105(a)(7)(A)](https://www.govinfo.gov/link/plaw/96/public/222), (C), (E), Apr. 1, 1980, [94 Stat. 220](https://www.govinfo.gov/link/statute/94/220), 221; [Pub. L. 113–295, div. A, title II, § 221(a)(22)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4040](https://www.govinfo.gov/link/statute/128/4040); [Pub. L. 115–141, div. U, title IV, § 401(b)(9)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1202](https://www.govinfo.gov/link/statute/132/1202).)*

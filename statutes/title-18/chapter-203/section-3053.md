@@ -3,12 +3,17 @@ title: "Section 3053 - Powers of marshals and deputies"
 usc_title: 18
 usc_section: "3053"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3053"
-generated_at: "2026-03-30T02:54:16.510Z"
+generated_at: "2026-11-23T21:25:44.174Z"
+status: "active"
 ---
 
 # § 3053. Powers of marshals and deputies
 
 United States marshals and their deputies may carry firearms and may make arrests without warrant for any offense against the United States committed in their presence, or for any felony cognizable under the laws of the United States if they have reasonable grounds to believe that the person to be arrested has committed or is committing such felony.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 817](https://www.govinfo.gov/link/statute/62/817).)*

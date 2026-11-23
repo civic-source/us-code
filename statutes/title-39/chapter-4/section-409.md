@@ -3,9 +3,10 @@ title: "Section 409 - Suits by and against the Postal Service"
 usc_title: 39
 usc_section: "409"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 409"
-generated_at: "2026-03-30T02:55:43.687Z"
+generated_at: "2026-11-23T21:26:12.768Z"
+status: "active"
 ---
 
 # § 409. Suits by and against the Postal Service
@@ -50,3 +51,28 @@ generated_at: "2026-03-30T02:55:43.687Z"
     - **(A)** In any action, suit, or proceeding in a court of the United States arising in whole or in part under any of the provisions of law referred to in subparagraph (B) or (C) of paragraph (1), and to which the Commission is not otherwise a party, the Commission shall be permitted to appear as a party on its own motion and as of right.
     - **(B)** The Department of Justice shall, under such terms and conditions as the Commission and the Attorney General shall consider appropriate, furnish the Commission such legal representation as it may require in connection with any such action, suit, or proceeding, except that, with the prior consent of the Attorney General, the Commission may employ attorneys by contract or otherwise for that purpose.
 - **(h)** A judgment against the Government of the United States arising out of activities of the Postal Service shall be paid by the Postal Service out of any funds available to the Postal Service, subject to the restriction specified in section 2011(g).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 409(e) | 31:724a (last sentence). | July 27, 1956, ch. 748 , 70 Stat. 678 , § 1302 (last sentence); added Aug. 12, 1970 , Pub. L. 91–375, § 6 ( l )(3), 84 Stat. 782 . |
+
+
+Historical and Revision Notes
+
+Act
+
+409(e)
+
+July 27, 1956, ch. 748
+
+70 Stat. 678
+
+Aug. 12, 1970
+
+Pub. L. 91–375, § 6
+
+84 Stat. 782
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 725](https://www.govinfo.gov/link/statute/84/725); [Pub. L. 97–258, § 2(k)](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1062](https://www.govinfo.gov/link/statute/96/1062); [Pub. L. 109–435, title IV, § 404](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3227](https://www.govinfo.gov/link/statute/120/3227).)*

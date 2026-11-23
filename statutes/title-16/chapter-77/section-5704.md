@@ -3,9 +3,10 @@ title: "Section 5704 - Advisory Committee"
 usc_title: 16
 usc_section: "5704"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 5704"
-generated_at: "2026-03-30T02:54:23.053Z"
+generated_at: "2026-11-23T21:25:52.033Z"
+status: "active"
 ---
 
 # § 5704. Advisory Committee
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:23.053Z"
 - **(b)** The members of such Advisory Committee shall receive no compensation for their services.
 - **(c)** Advisory Committee members shall serve two-year terms. Any individual appointed to fill a vacancy occurring before the expiration of any term shall be appointed for the remainder of that term.
 - **(d)** Advisory Committee members shall be eligible for reappointment.
+
+## Source Credit
+
+*([Pub. L. 104–43, title VII, § 705](https://www.govinfo.gov/link/plaw/104/public/43), Nov. 3, 1995, [109 Stat. 394](https://www.govinfo.gov/link/statute/109/394).)*

@@ -3,9 +3,10 @@ title: "Section 1401 - Definitions"
 usc_title: 6
 usc_section: "1401"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1401"
-generated_at: "2026-03-30T02:53:09.509Z"
+generated_at: "2026-11-23T21:25:25.877Z"
+status: "active"
 ---
 
 # § 1401. Definitions
@@ -17,3 +18,7 @@ In this chapter:
   - **(3)** The term “northern border” means the international border between the United States and Canada.
   - **(4)** The term “Secretary” means the Secretary of the Department of Homeland Security.
   - **(5)** The term “southern border” means the international border between the United States and Mexico.
+
+## Source Credit
+
+*([Pub. L. 110–161, div. E, title VI, § 602](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2094](https://www.govinfo.gov/link/statute/121/2094).)*

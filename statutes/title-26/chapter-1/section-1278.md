@@ -3,9 +3,10 @@ title: "Section 1278 - Definitions and special rules"
 usc_title: 26
 usc_section: "1278"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1278"
-generated_at: "2026-03-30T02:55:27.766Z"
+generated_at: "2026-11-23T21:26:06.485Z"
+status: "active"
 ---
 
 # § 1278. Definitions and special rules
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:55:27.766Z"
   - **(3)** An election under this subsection shall apply to the taxable year for which it is made and for all subsequent taxable years, unless the taxpayer secures the consent of the Secretary to the revocation of such election.
   - **(4)** The basis of any bond in the hands of the taxpayer shall be increased by the amount included in gross income pursuant to this subsection.
 - **(c)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subpart, including regulations providing proper adjustments in the case of a bond the principal of which may be paid in 2 or more payments.
+
+## Source Credit
+
+*(Added and amended [Pub. L. 98–369, div. A, title I, § 41(a)](https://www.govinfo.gov/link/plaw/98/public/369), title X, § 1001(b)(24), July 18, 1984, [98 Stat. 547](https://www.govinfo.gov/link/statute/98/547); [Pub. L. 99–514, title XVIII](https://www.govinfo.gov/link/plaw/99/public/514), §§ 1803(a)(6), 1878(a), 1899A(32), Oct. 22, 1986, [100 Stat. 2793](https://www.govinfo.gov/link/statute/100/2793), 2903, 2960; [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1006(u)(2), 1018(c)(2), (3), Nov. 10, 1988, [102 Stat. 3427](https://www.govinfo.gov/link/statute/102/3427), 3578; [Pub. L. 103–66, title XIII, § 13206(b)(2)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 465](https://www.govinfo.gov/link/statute/107/465); [Pub. L. 115–141, div. U, title IV, § 401(a)(181)](https://www.govinfo.gov/link/plaw/115/public/141), (c)(1)(G), Mar. 23, 2018, [132 Stat. 1193](https://www.govinfo.gov/link/statute/132/1193), 1205.)*

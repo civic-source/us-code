@@ -3,9 +3,10 @@ title: "Section 1692a - Definitions"
 usc_title: 15
 usc_section: "1692a"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1692a"
-generated_at: "2026-03-30T02:54:08.155Z"
+generated_at: "2026-11-23T21:25:39.884Z"
+status: "active"
 ---
 
 # § 1692a. Definitions
@@ -26,3 +27,7 @@ As used in this subchapter—
     - **(F)** any person collecting or attempting to collect any debt owed or due or asserted to be owed or due another to the extent such activity (i) is incidental to a bona fide fiduciary obligation or a bona fide escrow arrangement; (ii) concerns a debt which was originated by such person; (iii) concerns a debt which was not in default at the time it was obtained by such person; or (iv) concerns a debt obtained by such person as a secured party in a commercial credit transaction involving the creditor.
   - **(7)** The term “location information” means a consumer’s place of abode and his telephone number at such place, or his place of employment.
   - **(8)** The term “State” means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any political subdivision of any of the foregoing.
+
+## Source Credit
+
+*([Pub. L. 90–321, title VIII, § 803](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 95–109](https://www.govinfo.gov/link/plaw/95/public/109), Sept. 20, 1977, [91 Stat. 875](https://www.govinfo.gov/link/statute/91/875); amended [Pub. L. 99–361](https://www.govinfo.gov/link/plaw/99/public/361), July 9, 1986, [100 Stat. 768](https://www.govinfo.gov/link/statute/100/768); [Pub. L. 111–203, title X, § 1089(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2092](https://www.govinfo.gov/link/statute/124/2092).)*

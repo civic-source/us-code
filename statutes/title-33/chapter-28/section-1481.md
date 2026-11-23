@@ -3,9 +3,10 @@ title: "Section 1481 - Violations; penalties"
 usc_title: 33
 usc_section: "1481"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1481"
-generated_at: "2026-03-30T02:55:41.107Z"
+generated_at: "2026-11-23T21:26:11.407Z"
+status: "active"
 ---
 
 # § 1481. Violations; penalties
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:41.107Z"
   - **(2)** willfully refuses or fails to comply with any lawful order or direction given pursuant to this chapter; or
   - **(3)** willfully obstructs any person who is acting in compliance with an order or direction under this chapter.
 - **(b)** In a criminal proceeding for an offense under paragraph (1) or (2) of subsection (a) of this section it shall be a defense for the accused to prove that he used all due diligence to comply with any order or direction that he had reasonable cause to believe that compliance would have resulted in serious risk to human life.
+
+## Source Credit
+
+*([Pub. L. 93–248, § 12](https://www.govinfo.gov/link/plaw/93/public/248), Feb. 5, 1974, [88 Stat. 10](https://www.govinfo.gov/link/statute/88/10); [Pub. L. 101–380, title IV, § 4302](https://www.govinfo.gov/link/plaw/101/public/380) (l), Aug. 18, 1990, [104 Stat. 539](https://www.govinfo.gov/link/statute/104/539).)*

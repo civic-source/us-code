@@ -3,9 +3,10 @@ title: "Section 8212 - Funding"
 usc_title: 16
 usc_section: "8212"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8212"
-generated_at: "2026-03-30T02:54:23.083Z"
+generated_at: "2026-11-23T21:25:52.076Z"
+status: "active"
 ---
 
 # § 8212. Funding
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:23.083Z"
     - **(B)** may be—
       - **(i)** used directly by the Secretary; or
       - **(ii)** provided to another Federal department or agency through an interagency agreement.
+
+## Source Credit
+
+*([Pub. L. 116–188, title II, § 212](https://www.govinfo.gov/link/plaw/116/public/188), Oct. 30, 2020, [134 Stat. 937](https://www.govinfo.gov/link/statute/134/937); [Pub. L. 118–198, title II, § 206](https://www.govinfo.gov/link/plaw/118/public/198), Dec. 23, 2024, [138 Stat. 2683](https://www.govinfo.gov/link/statute/138/2683).)*

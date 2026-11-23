@@ -3,9 +3,10 @@ title: "Section 3056d - Distribution of assistance"
 usc_title: 42
 usc_section: "3056d"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3056d"
-generated_at: "2026-03-30T02:56:11.178Z"
+generated_at: "2026-11-23T21:26:32.512Z"
+status: "active"
 ---
 
 # § 3056d. Distribution of assistance
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:56:11.178Z"
   - **(4)** The term “level of activities” means the number of authorized positions multiplied by the cost per authorized position.
   - **(5)** The term “national grants” means grants made under this subchapter by the Secretary to public and nonprofit private agency and organization grantees that operate under this subchapter.
   - **(6)** The term “State” does not include Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands.
+
+## Source Credit
+
+*([Pub. L. 89–73, title V, § 506](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 109–365, title V, § 501](https://www.govinfo.gov/link/plaw/109/public/365), Oct. 17, 2006, [120 Stat. 2576](https://www.govinfo.gov/link/statute/120/2576).)*

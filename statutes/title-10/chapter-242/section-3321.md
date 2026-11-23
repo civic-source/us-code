@@ -3,9 +3,10 @@ title: "Section 3321 - Contracts awarded using procedures other than sealed-bid 
 usc_title: 10
 usc_section: "3321"
 chapter: 242
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3321"
-generated_at: "2026-03-30T02:53:38.191Z"
+generated_at: "2026-11-23T21:25:32.723Z"
+status: "active"
 ---
 
 # § 3321. Contracts awarded using procedures other than sealed-bid procedures
@@ -19,3 +20,17 @@ generated_at: "2026-03-30T02:53:38.191Z"
   - **(3)** This subsection does not apply—
     - **(A)** to a contract that is for an amount not greater than the simplified acquisition threshold; or
     - **(B)** to a contract for the acquisition of commercial products or commercial services.
+
+Authorized Types
+
+Required Warranty.—
+
+Content
+
+Remedy for Breaking Warranty
+
+Inapplicability to Certain Contracts
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1817(a)](https://www.govinfo.gov/link/plaw/116/public/283), (b), (d), Jan. 1, 2021, [134 Stat. 4186](https://www.govinfo.gov/link/statute/134/4186).)*

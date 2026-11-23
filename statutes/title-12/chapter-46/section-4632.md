@@ -3,9 +3,10 @@ title: "Section 4632 - Temporary cease-and-desist orders"
 usc_title: 12
 usc_section: "4632"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4632"
-generated_at: "2026-03-30T02:53:53.514Z"
+generated_at: "2026-11-23T21:25:37.204Z"
+status: "active"
 ---
 
 # § 4632. Temporary cease-and-desist orders
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:53.514Z"
       - **(ii)** the date the Director determines, by examination or otherwise, that the books and records of the regulated entity are accurate and reflect the financial condition of the regulated entity.
 - **(d)** A regulated entity, executive officer, director, or entity-affiliated party that has been served with a temporary order pursuant to this section may apply to the United States District Court for the District of Columbia within 10 days after such service for an injunction setting aside, limiting, or suspending the enforcement, operation, or effectiveness of the order pending the completion of the administrative proceedings pursuant to the notice of charges served upon the enterprise, executive officer, director, or entity-affiliated party under section 4631(a) or (b) of this title. Such court shall have jurisdiction to issue such injunction.
 - **(e)** In the case of violation or threatened violation of, or failure to obey, a temporary order issued pursuant to this section, the Director may bring an action in the United States District Court for the District of Columbia for an injunction to enforce such order. If the court finds any such violation, threatened violation, or failure to obey, the court shall issue such injunction.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1372](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3988](https://www.govinfo.gov/link/statute/106/3988); [Pub. L. 110–289, div. A, title I, § 1152](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2769](https://www.govinfo.gov/link/statute/122/2769).)*

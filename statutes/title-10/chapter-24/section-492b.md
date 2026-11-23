@@ -3,9 +3,10 @@ title: "Section 492b - Biannual briefing on nuclear weapons and related activiti
 usc_title: 10
 usc_section: "492b"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 492b"
-generated_at: "2026-03-30T02:53:38.062Z"
+generated_at: "2026-11-23T21:25:32.273Z"
+status: "active"
 ---
 
 # § 492b. Biannual briefing on nuclear weapons and related activities
@@ -20,3 +21,15 @@ generated_at: "2026-03-30T02:53:38.062Z"
   - **(6)** The Director for Capability and Resource Integration for the United States Strategic Command.
 - **(c)** An official specified in subsection (b) may delegate the authority to provide a briefing under subsection (a) to a member of the Senior Executive Service who reports to the official.
 - **(d)** The requirement to provide a briefing under subsection (a) shall terminate on January 1, 2028 .
+
+In General
+
+Officials Specified
+
+Delegation
+
+Termination
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. A, title XVI, § 1631](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2934](https://www.govinfo.gov/link/statute/136/2934); amended [Pub. L. 118–159, div. A, title XVI, § 1621(d)(2)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2171](https://www.govinfo.gov/link/statute/138/2171).)*

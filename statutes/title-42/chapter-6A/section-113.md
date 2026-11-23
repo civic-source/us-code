@@ -3,9 +3,10 @@ title: "Section 113 - Continuity of care"
 usc_title: 42
 usc_section: "113"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 113"
-generated_at: "2026-03-30T02:56:10.838Z"
+generated_at: "2026-11-23T21:26:30.916Z"
+status: "active"
 ---
 
 # § 300gg–113. Continuity of care
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:10.838Z"
       - **(i)** is life-threatening, degenerative, potentially disabling, or congenital; and
       - **(ii)** requires specialized medical care over a prolonged period of time.
   - **(3)** The term “terminated” includes, with respect to a contract, the expiration or nonrenewal of the contract, but does not include a termination of the contract for failure to meet applicable quality standards or for fraud.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVII, § 2799A–3, as added [Pub. L. 116–260, div. BB, title I, § 113(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2868](https://www.govinfo.gov/link/statute/134/2868).)*

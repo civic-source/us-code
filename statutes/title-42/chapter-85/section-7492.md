@@ -3,9 +3,10 @@ title: "Section 7492 - Visibility"
 usc_title: 42
 usc_section: "7492"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7492"
-generated_at: "2026-03-30T02:56:11.304Z"
+generated_at: "2026-11-23T21:26:33.103Z"
+status: "active"
 ---
 
 # § 7492. Visibility
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:11.304Z"
   - **(1)** The Administrator shall, taking into account the studies pursuant to subsection (a)(1) and the reports pursuant to subsection (d)(2) and any other relevant information, within eighteen months of receipt of the report referred to in subsection (d)(2) of this section, carry out the Administrator’s regulatory responsibilities under section 7491 of this title , including criteria for measuring “reasonable progress” toward the national goal.
   - **(2)** Any regulations promulgated under section 7491 of this title pursuant to this subsection shall require affected States to revise within 12 months their implementation plans under section 7410 of this title to contain such emission limits, schedules of compliance, and other measures as may be necessary to carry out regulations promulgated pursuant to this subsection.
 - **(f)** The Administrator pursuant to subsection (c)(1) shall, within 12 months, establish a visibility transport commission for the region affecting the visibility of the Grand Canyon National Park.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 169B, as added [Pub. L. 101–549, title VIII, § 816](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2695](https://www.govinfo.gov/link/statute/104/2695); amended [Pub. L. 117–286, § 4(a)(269)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4335](https://www.govinfo.gov/link/statute/136/4335).)*

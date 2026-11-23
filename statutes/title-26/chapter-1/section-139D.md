@@ -3,9 +3,10 @@ title: "Section 139D - Indian health care benefits"
 usc_title: 26
 usc_section: "139D"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 139D"
-generated_at: "2026-03-30T02:55:27.628Z"
+generated_at: "2026-11-23T21:26:06.015Z"
+status: "active"
 ---
 
 # § 139D. Indian health care benefits
@@ -23,3 +24,9 @@ generated_at: "2026-03-30T02:55:27.628Z"
   - **(4)** The terms “accident or health insurance” and “accident or health plan” have the same meaning as when used in section 105.
   - **(5)** The term “dependent” has the meaning given such term by section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof.
 - **(d)** Subsection (a) shall not apply to the amount of any qualified Indian health care benefit which is not includible in gross income of the beneficiary of such benefit under any other provision of this chapter, or to the amount of any such benefit for which a deduction is allowed to such beneficiary under any other provision of this chapter.
+
+“Nothing in the amendments made by this section [enacting this section] shall be construed to create an inference with respect to the exclusion from gross income of—
+
+## Source Credit
+
+*(Added [Pub. L. 111–148, title IX, § 9021(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 873](https://www.govinfo.gov/link/statute/124/873).)*

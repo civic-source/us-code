@@ -3,9 +3,10 @@ title: "Section 4819 - Penalties"
 usc_title: 50
 usc_section: "4819"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4819"
-generated_at: "2026-03-30T02:56:26.284Z"
+generated_at: "2026-11-23T21:26:39.122Z"
+status: "active"
 ---
 
 # § 4819. Penalties
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:56:26.284Z"
   - **(1)** the availability of other administrative or judicial remedies with respect to violations of this subchapter, or any regulation, order, license or other authorization issued under this subchapter;
   - **(2)** the authority to compromise and settle administrative proceedings brought with respect to violations of this subchapter, or any regulation, order, license, or other authorization issued under this subchapter; or
   - **(3)** the authority to compromise, remit or mitigate seizures and forfeitures pursuant to section 401(b) of title 22 .
+
+## Source Credit
+
+*([Pub. L. 115–232, div. A, title XVII, § 1760](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2223](https://www.govinfo.gov/link/statute/132/2223).)*

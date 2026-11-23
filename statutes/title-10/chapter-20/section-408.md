@@ -3,9 +3,10 @@ title: "Section 408 - Assistance in support of Department of Defense accounting 
 usc_title: 10
 usc_section: "408"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 408"
-generated_at: "2026-03-30T02:53:38.058Z"
+generated_at: "2026-11-23T21:25:32.265Z"
+status: "active"
 ---
 
 # § 408. Assistance in support of Department of Defense accounting for missing United States Government personnel
@@ -27,3 +28,19 @@ generated_at: "2026-03-30T02:53:38.058Z"
     - **(C)** section 40 of the Arms Export Control Act ( 22 U.S.C. 2780 ).
 - **(e)** The authority to provide assistance under this section is in addition to any other authority to provide assistance to foreign nations under law.
 - **(f)** Not later than December 31 of each year, the Secretary of Defense shall submit to the congressional defense committees a report on the assistance provided under this section during the preceding fiscal year.
+
+In General
+
+Types of Assistance
+
+Approval by Secretary of State
+
+Limitations
+
+Construction With Other Assistance
+
+Annual Report
+
+## Source Credit
+
+*(Added [Pub. L. 110–181, div. A, title XII, § 1207(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 367](https://www.govinfo.gov/link/statute/122/367); amended [Pub. L. 112–81, div. A, title X, § 1064(5)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1587](https://www.govinfo.gov/link/statute/125/1587); [Pub. L. 118–31, div. A, title X, § 1042(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 388](https://www.govinfo.gov/link/statute/137/388); [Pub. L. 119–60, div. A, title X, § 1041](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1035](https://www.govinfo.gov/link/statute/139/1035).)*

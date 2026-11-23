@@ -3,9 +3,10 @@ title: "Section 12111 - Definitions"
 usc_title: 42
 usc_section: "12111"
 chapter: 126
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12111"
-generated_at: "2026-03-30T02:56:11.407Z"
+generated_at: "2026-11-23T21:26:33.450Z"
+status: "active"
 ---
 
 # § 12111. Definitions
@@ -36,3 +37,7 @@ As used in this subchapter:
       - **(ii)** the overall financial resources of the facility or facilities involved in the provision of the reasonable accommodation; the number of persons employed at such facility; the effect on expenses and resources, or the impact otherwise of such accommodation upon the operation of the facility;
       - **(iii)** the overall financial resources of the covered entity; the overall size of the business of a covered entity with respect to the number of its employees; the number, type, and location of its facilities; and
       - **(iv)** the type of operation or operations of the covered entity, including the composition, structure, and functions of the workforce of such entity; the geographic separateness, administrative, or fiscal relationship of the facility or facilities in question to the covered entity.
+
+## Source Credit
+
+*([Pub. L. 101–336, title I, § 101](https://www.govinfo.gov/link/plaw/101/public/336), July 26, 1990, [104 Stat. 330](https://www.govinfo.gov/link/statute/104/330); [Pub. L. 102–166, title I, § 109(a)](https://www.govinfo.gov/link/plaw/102/public/166), Nov. 21, 1991, [105 Stat. 1077](https://www.govinfo.gov/link/statute/105/1077); [Pub. L. 110–325, § 5(c)(1)](https://www.govinfo.gov/link/plaw/110/public/325), Sept. 25, 2008, [122 Stat. 3557](https://www.govinfo.gov/link/statute/122/3557).)*

@@ -3,9 +3,10 @@ title: "Section 6621 - Coordination of Federal STEM education"
 usc_title: 42
 usc_section: "6621"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6621"
-generated_at: "2026-03-30T02:56:11.264Z"
+generated_at: "2026-11-23T21:26:32.967Z"
+status: "active"
 ---
 
 # § 6621. Coordination of Federal STEM education
@@ -38,3 +39,13 @@ generated_at: "2026-03-30T02:56:11.264Z"
   - **(8)** a description of any significant new STEM education public-private partnerships 1 1 So in original. Probably should be followed by a semicolon.
   - **(9)** an account of Federal research agency investments in HBCUs, TCUs, and MSIs, including, to the degree practicable, data on the level of participation of HBCUs, TCUs, and MSIs as prime recipients, contractors, subrecipients, or subcontractors of an award, or reasonable estimates thereof; and
   - **(10)** a description of material changes to the implementation of section 10522 of the Research and Development, Competition, and Innovation Act.
+
+“In this Act [see Tables for classification]:
+
+Director
+
+STEM
+
+## Source Credit
+
+*([Pub. L. 111–358, title I, § 101](https://www.govinfo.gov/link/plaw/111/public/358), Jan. 4, 2011, [124 Stat. 3984](https://www.govinfo.gov/link/statute/124/3984); [Pub. L. 114–329, title III, § 304](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 3006](https://www.govinfo.gov/link/statute/130/3006); [Pub. L. 117–167, div. B, title V, § 10522(e)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1621](https://www.govinfo.gov/link/statute/136/1621).)*

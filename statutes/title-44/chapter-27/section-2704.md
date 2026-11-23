@@ -3,12 +3,17 @@ title: "Section 2704 - Powers of the Committee"
 usc_title: 44
 usc_section: "2704"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 2704"
-generated_at: "2026-03-30T02:55:56.294Z"
+generated_at: "2026-11-23T21:26:18.415Z"
+status: "active"
 ---
 
 # § 2704. Powers of the Committee
 
 - **(a)** For purposes of carrying out the duties referred to under section 2703, the Committee or, on the authorization of the Committee, any subcommittee or member thereof, may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as is appropriate.
 - **(b)** The Committee may secure directly from any department or agency of the United States such information as the Committee may require to carry out the duties referred to under section 2703. Upon request of the Chairman of the Committee, the head of such department or agency shall furnish such information to the Committee.
+
+## Source Credit
+
+*(Added [Pub. L. 101–509, title IV, § 1(d)(1)](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1418](https://www.govinfo.gov/link/statute/104/1418).)*

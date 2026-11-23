@@ -3,9 +3,10 @@ title: "Section 300j - Assurances of availability of adequate supplies of chemic
 usc_title: 42
 usc_section: "300j"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 300j"
-generated_at: "2026-03-30T02:56:10.800Z"
+generated_at: "2026-11-23T21:26:30.740Z"
+status: "active"
 ---
 
 # § 300j. Assurances of availability of adequate supplies of chemicals necessary for treatment of water
@@ -30,3 +31,9 @@ generated_at: "2026-03-30T02:56:10.800Z"
   - **(2)** Whoever fails to comply with any order issued pursuant to subsection (c)(1) shall be subject to a civil penalty of not more than $2,500 for each such failure to comply.
   - **(3)** Whenever the Administrator or the President or his delegate has reason to believe that any person is violating or will violate any order issued pursuant to subsection (c)(1), he may petition a United States district court to issue a temporary restraining order or preliminary or permanent injunction (including a mandatory injunction) to enforce the provision of such order.
 - **(f)** No certification of need or order issued under this section may remain in effect for more than one year.
+
+Gerald R. Ford.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XIV, § 1441, as added [Pub. L. 93–523, § 2(a)](https://www.govinfo.gov/link/plaw/93/public/523), Dec. 16, 1974, [88 Stat. 1680](https://www.govinfo.gov/link/statute/88/1680); amended [Pub. L. 95–190, § 7](https://www.govinfo.gov/link/plaw/95/public/190), Nov. 16, 1977, [91 Stat. 1396](https://www.govinfo.gov/link/statute/91/1396); [Pub. L. 96–63, § 3](https://www.govinfo.gov/link/plaw/96/public/63), Sept. 6, 1979, [93 Stat. 411](https://www.govinfo.gov/link/statute/93/411); [Pub. L. 99–339, title III, § 301(d)](https://www.govinfo.gov/link/plaw/99/public/339), June 19, 1986, [100 Stat. 664](https://www.govinfo.gov/link/statute/100/664); [Pub. L. 104–182, title V, § 501(c)](https://www.govinfo.gov/link/plaw/104/public/182), Aug. 6, 1996, [110 Stat. 1691](https://www.govinfo.gov/link/statute/110/1691).)*

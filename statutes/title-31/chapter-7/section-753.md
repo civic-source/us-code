@@ -3,9 +3,10 @@ title: "Section 753 - Duties and powers"
 usc_title: 31
 usc_section: "753"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 753"
-generated_at: "2026-03-30T02:55:34.047Z"
+generated_at: "2026-11-23T21:26:10.532Z"
+status: "active"
 ---
 
 # § 753. Duties and powers
@@ -26,3 +27,31 @@ generated_at: "2026-03-30T02:55:34.047Z"
 - **(e)** The Board shall prescribe regulations—
   - **(1)** providing for officer and employee appeals consistent with sections 7701 and 7702 of title 5; and
   - **(2)** on the operating procedure of the Board.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 753(a) | 31:52–3(h). | Feb. 15, 1980 , Pub. L. 96–191, § 4(h) , (j), (k), (m), 94 Stat. 30 , 31. |
+| 753(b) | 31:52–3(j). |  |
+| 753(c) | 31:52–3(k). |  |
+| 753(d) | 31:52–3(m). |  |
+
+
+Historical and Revision Notes
+
+753(a)
+
+Feb. 15, 1980
+
+Pub. L. 96–191, § 4(h)
+
+94 Stat. 30
+
+753(b)
+
+753(c)
+
+753(d)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 901](https://www.govinfo.gov/link/statute/96/901); [Pub. L. 103–283, title III, § 312(e)(4)(B)](https://www.govinfo.gov/link/plaw/103/public/283), July 22, 1994, [108 Stat. 1446](https://www.govinfo.gov/link/statute/108/1446); [Pub. L. 104–53, title II, § 213](https://www.govinfo.gov/link/plaw/104/public/53), Nov. 19, 1995, [109 Stat. 535](https://www.govinfo.gov/link/statute/109/535).)*

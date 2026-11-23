@@ -3,9 +3,10 @@ title: "Section 2364 - Special authorities"
 usc_title: 22
 usc_section: "2364"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2364"
-generated_at: "2026-03-30T02:55:05.360Z"
+generated_at: "2026-11-23T21:25:58.477Z"
+status: "active"
 ---
 
 # § 2364. Special authorities
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:05.360Z"
   - **(5)** The authority of this section may not be used to waive the limitations on transfers contained in section 2360(a) of this title .
 - **(b)** Whenever the President determines it to be important to the national interest, he may use funds available for the purposes of part IV of subchapter I of this chapter in order to meet the responsibilities or objectives of the United States in Germany, including West Berlin, and without regard to such provisions of law as he determines should be disregarded to achieve this purpose.
 - **(c)** The President is authorized to use amounts not to exceed $50,000,000 of the funds made available under this chapter pursuant to his certification that it is inadvisable to specify the nature of the use of such funds, which certification shall be deemed to be a sufficient voucher for such amounts. The President shall fully inform the chairman and ranking minority member of the Committee on Foreign Affairs of the House of Representatives and the chairman and ranking minority member of the Committee on Foreign Relations of the Senate of each use of funds under this subsection prior to the use of such funds.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 614, Sept. 4, 1961, [75 Stat. 444](https://www.govinfo.gov/link/statute/75/444); [Pub. L. 89–583](https://www.govinfo.gov/link/plaw/89/public/583), pt. III, § 301(f), (g), Sept. 19, 1966, [80 Stat. 805](https://www.govinfo.gov/link/statute/80/805); [Pub. L. 90–137](https://www.govinfo.gov/link/plaw/90/public/137), pt. III, § 301(e), Nov. 14, 1967, [81 Stat. 459](https://www.govinfo.gov/link/statute/81/459); [Pub. L. 93–559, § 19(b)](https://www.govinfo.gov/link/plaw/93/public/559), Dec. 30, 1974, [88 Stat. 1800](https://www.govinfo.gov/link/statute/88/1800); [Pub. L. 96–533, title I, § 117(a)](https://www.govinfo.gov/link/plaw/96/public/533), Dec. 16, 1980, [94 Stat. 3140](https://www.govinfo.gov/link/statute/94/3140); [Pub. L. 99–83, title I, § 128](https://www.govinfo.gov/link/plaw/99/public/83), Aug. 8, 1985, [99 Stat. 206](https://www.govinfo.gov/link/statute/99/206); [Pub. L. 101–222, § 8](https://www.govinfo.gov/link/plaw/101/public/222), Dec. 12, 1989, [103 Stat. 1899](https://www.govinfo.gov/link/statute/103/1899); [Pub. L. 103–199, title VII, § 705(2)](https://www.govinfo.gov/link/plaw/103/public/199), Dec. 17, 1993, [107 Stat. 2328](https://www.govinfo.gov/link/statute/107/2328).)*

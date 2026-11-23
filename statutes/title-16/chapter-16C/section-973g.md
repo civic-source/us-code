@@ -3,9 +3,10 @@ title: "Section 973g - Licenses"
 usc_title: 16
 usc_section: "973g"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 973g"
-generated_at: "2026-03-30T02:54:22.938Z"
+generated_at: "2026-11-23T21:25:51.800Z"
+status: "active"
 ---
 
 # § 973g. Licenses
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:22.938Z"
   - **(1)** section 12113 of title 46 ;
   - **(2)** the general permit issued on December 1, 1980 , to the American Tunaboat Association under section 1374(h)(1) of this title ; and
   - **(3)** sections 1374(h)(2) and 1416(a) of this title— 1 1 So in original. The dash probably should be a semicolon.
+
+## Source Credit
+
+*([Pub. L. 100–330, § 9](https://www.govinfo.gov/link/plaw/100/public/330), June 7, 1988, [102 Stat. 596](https://www.govinfo.gov/link/statute/102/596); [Pub. L. 104–43, title VIII, § 801](https://www.govinfo.gov/link/plaw/104/public/43), Nov. 3, 1995, [109 Stat. 395](https://www.govinfo.gov/link/statute/109/395); [Pub. L. 119–60, div. H, title LXXXIV, § 8417](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1916](https://www.govinfo.gov/link/statute/139/1916).)*

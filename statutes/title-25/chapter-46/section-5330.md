@@ -3,9 +3,10 @@ title: "Section 5330 - Rescission of contract or grant and assumption of control
 usc_title: 25
 usc_section: "5330"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5330"
-generated_at: "2026-03-30T02:54:52.867Z"
+generated_at: "2026-11-23T21:25:54.726Z"
+status: "active"
 ---
 
 # § 5330. Rescission of contract or grant and assumption of control of program, etc.; authority; grounds; procedure; correction of violation as prerequisite to new contract or grant agreement; construction with occupational safety and health requirements
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:52.867Z"
       - **(i)** there is an immediate threat of imminent harm to the safety of any person, or imminent substantial and irreparable harm to trust funds, trust lands, or interests in such lands, and
       - **(ii)** such threat arises from the failure of the contractor to fulfill the requirements of the contract. In such cases, the Secretary shall provide the tribal organization with a hearing on the record within ten days or such later date as the tribal organization may approve. Such Secretary may decline to enter into a new contract or grant agreement and retain control of such program, activity, or service until such time as he is satisfied that the violations of rights or endangerment of health, safety, or welfare which necessitated the rescission has been corrected. In any hearing or appeal provided for under this section, the Secretary shall have the burden of proof to establish, by clearly demonstrating the validity of the grounds for rescinding, assuming, or reassuming the contract that is the subject of the hearing. Nothing in this section shall be construed as contravening the Occupational Safety and Health Act of 1970, as amended [ 29 U.S.C. 651 et seq.].
 
+
+## Source Credit
+
+*([Pub. L. 93–638, title I, § 109](https://www.govinfo.gov/link/plaw/93/public/638), Jan. 4, 1975, [88 Stat. 2212](https://www.govinfo.gov/link/statute/88/2212); [Pub. L. 100–581, title II, § 211](https://www.govinfo.gov/link/plaw/100/public/581), Nov. 1, 1988, [102 Stat. 2941](https://www.govinfo.gov/link/statute/102/2941); [Pub. L. 101–301, § 2(a)(10)](https://www.govinfo.gov/link/plaw/101/public/301), May 24, 1990, [104 Stat. 207](https://www.govinfo.gov/link/statute/104/207); [Pub. L. 103–413, title I, § 104(1)](https://www.govinfo.gov/link/plaw/103/public/413), Oct. 25, 1994, [108 Stat. 4268](https://www.govinfo.gov/link/statute/108/4268).)*

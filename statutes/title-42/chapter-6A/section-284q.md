@@ -3,9 +3,10 @@ title: "Section 284q - Pain research"
 usc_title: 42
 usc_section: "284q"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 284q"
-generated_at: "2026-03-30T02:56:10.742Z"
+generated_at: "2026-11-23T21:26:30.476Z"
+status: "active"
 ---
 
 # § 284q. Pain research
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:10.742Z"
       - **(iii)** on how to expand partnerships between public entities and private entities to expand collaborative, cross-cutting research.
   - **(6)** The Secretary shall ensure that recommendations and actions taken by the Director with respect to the topics discussed at the meetings described in paragraph (4) are included in appropriate reports to Congress.
   - **(7)** The Secretary shall review the necessity of the Committee at least once every 2 years.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 409J, as added [Pub. L. 111–148, title IV, § 4305(b)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 585](https://www.govinfo.gov/link/statute/124/585); amended [Pub. L. 115–271, title VII, § 7042](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 4016](https://www.govinfo.gov/link/statute/132/4016).)*

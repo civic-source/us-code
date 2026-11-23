@@ -3,9 +3,10 @@ title: "Section 1437 - Declaration of policy and public housing agency organizat
 usc_title: 42
 usc_section: "1437"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1437"
-generated_at: "2026-03-30T02:56:11.076Z"
+generated_at: "2026-11-23T21:26:31.975Z"
+status: "active"
 ---
 
 # § 1437. Declaration of policy and public housing agency organization
@@ -34,3 +35,111 @@ generated_at: "2026-03-30T02:56:11.076Z"
       - **(I)** 1 1 So in original. Probably should be “(i)”. the Housing Authority of the county of Los Angeles, California; or
       - **(ii)** any of the States of Alaska, Iowa, and Mississippi.
   - **(4)** No person shall be prohibited from serving on the board of directors or similar governing body of a public housing agency because of the residence of that person in a public housing project or status as assisted under section 1437f of this title .
+
+In General
+
+Savings Provision
+
+Technical Recommendations
+
+List of Obsolete Documents
+
+Protection of Certain Regulations
+
+Effective Date
+
+In general
+
+Effective date
+
+In General
+
+Eligibility.—
+
+In general
+
+Criteria
+
+Installation
+
+Collection of Complaint Records.—
+
+In general
+
+Definitions
+
+Data Collection.—
+
+In general
+
+Personally identifiable information
+
+Pilot Program Evaluation.—
+
+Interim evaluation
+
+Final evaluation
+
+Treatment of Projects
+
+Sunset
+
+Definitions
+
+Approved temperature sensor
+
+Covered federally assisted rental dwelling unit
+
+Owner
+
+Definitions
+
+Covered public housing agency
+
+Inspector general
+
+Secretary
+
+Required Notice
+
+Federal Monitor and Receiver Transparency.—
+
+In general
+
+Additional information
+
+Disclosure Required
+
+Inspector General Review
+
+Findings
+
+Purposes
+
+“The Secretary of Housing and Urban Development, in consultation with the Secretary of Health and Human Services, the Secretary of Labor, and appropriate State and local officials and representatives, shall—
+
+In General
+
+Effective Date
+
+Purchase of American-Made Equipment and Products
+
+Notice Requirement
+
+Effective Date
+
+Study
+
+Contents
+
+Prohibition of Recommendations
+
+Federal Assisted Housing Programs
+
+Report
+
+Effective Date
+
+## Source Credit
+
+*(Sept. 1, 1937, ch. 896, title I, § 2, as added [Pub. L. 93–383, title II, § 201(a)](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 653](https://www.govinfo.gov/link/statute/88/653); amended [Pub. L. 97–35, title III, § 322(c)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 402](https://www.govinfo.gov/link/statute/95/402); renumbered title I, [Pub. L. 100–358, § 5](https://www.govinfo.gov/link/plaw/100/public/358), June 29, 1988, [102 Stat. 681](https://www.govinfo.gov/link/statute/102/681); [Pub. L. 101–625, title V, § 572(2)](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4236](https://www.govinfo.gov/link/statute/104/4236); [Pub. L. 105–276, title V, § 505](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2522](https://www.govinfo.gov/link/statute/112/2522); [Pub. L. 114–201, title I, § 114](https://www.govinfo.gov/link/plaw/114/public/201), July 29, 2016, [130 Stat. 804](https://www.govinfo.gov/link/statute/130/804).)*

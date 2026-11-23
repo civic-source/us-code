@@ -3,9 +3,10 @@ title: "Section 9305 - Magnetic fusion engineering center"
 usc_title: 42
 usc_section: "9305"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9305"
-generated_at: "2026-03-30T02:56:11.352Z"
+generated_at: "2026-11-23T21:26:33.236Z"
+status: "active"
 ---
 
 # § 9305. Magnetic fusion engineering center
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.352Z"
   - **(7)** the advisability of establishing such a center considering all factors, including the alternative means and associated costs of pursuing such technology; and
   - **(8)** changes in the management structure of the magnetic fusion program to allow more effective direction of activities related to the national center.
 - **(c)** The Secretary shall submit not later than July 1, 1981 , a report to the House Committee on Science and Technology and the Senate Committee on Energy and Natural Resources characterizing the plan and setting forth the steps necessary for implementation of the plan, including any steps already implemented.
+
+## Source Credit
+
+*([Pub. L. 96–386, § 6](https://www.govinfo.gov/link/plaw/96/public/386), Oct. 7, 1980, [94 Stat. 1541](https://www.govinfo.gov/link/statute/94/1541).)*

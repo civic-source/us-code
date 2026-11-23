@@ -3,9 +3,10 @@ title: "Section 42304 - Widespread disruptions"
 usc_title: 49
 usc_section: "42304"
 chapter: 423
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 42304"
-generated_at: "2026-03-30T02:56:19.379Z"
+generated_at: "2026-11-23T21:26:40.875Z"
+status: "active"
 ---
 
 # § 42304. Widespread disruptions
@@ -20,3 +21,17 @@ generated_at: "2026-03-30T02:56:19.379Z"
   - **(1)** The term “widespread disruption” means, with respect to a covered air carrier, the interruption of all or the overwhelming majority of the air carrier’s systemwide flight operations, including flight delays and cancellations, as the result of the failure of 1 or more computer systems or computer networks of the air carrier.
   - **(2)** The term “covered air carrier” means an air carrier that provides scheduled passenger air transportation by operating an aircraft that as originally designed has a passenger capacity of 30 or more seats.
 - **(c)** Nothing in this section may be construed to modify, abridge, or repeal any obligation of an air carrier under section 42301.
+
+General Requirements
+
+Definitions
+
+Widespread disruption
+
+Covered air carrier
+
+Savings Provision
+
+## Source Credit
+
+*(Added [Pub. L. 115–254, div. B, title IV, § 428(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3341](https://www.govinfo.gov/link/statute/132/3341).)*

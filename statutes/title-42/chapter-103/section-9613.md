@@ -3,9 +3,10 @@ title: "Section 9613 - Civil proceedings"
 usc_title: 42
 usc_section: "9613"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9613"
-generated_at: "2026-03-30T02:56:11.359Z"
+generated_at: "2026-11-23T21:26:33.257Z"
+status: "active"
 ---
 
 # § 9613. Civil proceedings
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:56:11.359Z"
     - **(C)** Until such regulations under subparagraphs (A) and (B) are promulgated, the administrative record shall consist of all items developed and received pursuant to current procedures for selection of the response action, including procedures for the participation of interested parties and the public. The development of an administrative record and the selection of response action under this chapter shall not include an adjudicatory hearing.
     - **(D)** The President shall make reasonable efforts to identify and notify potentially responsible parties as early as possible before selection of a response action. Nothing in this paragraph shall be construed to be a defense to liability.
 - **(l)** Whenever any action is brought under this chapter in a court of the United States by a plaintiff other than the United States, the plaintiff shall provide a copy of the complaint to the Attorney General of the United States and to the Administrator of the Environmental Protection Agency.
+
+## Source Credit
+
+*([Pub. L. 96–510, title I, § 113](https://www.govinfo.gov/link/plaw/96/public/510), Dec. 11, 1980, [94 Stat. 2795](https://www.govinfo.gov/link/statute/94/2795); [Pub. L. 99–499, title I, § 113](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1647](https://www.govinfo.gov/link/statute/100/1647); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095).)*

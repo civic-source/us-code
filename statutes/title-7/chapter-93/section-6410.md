@@ -3,9 +3,10 @@ title: "Section 6410 - Petition and review"
 usc_title: 7
 usc_section: "6410"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6410"
-generated_at: "2026-03-30T02:53:42.430Z"
+generated_at: "2026-11-23T21:25:28.389Z"
+status: "active"
 ---
 
 # § 6410. Petition and review
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.430Z"
   - **(3)** If the court determines that such ruling is not in accordance with law, the court shall remand the matter to the Secretary with directions either—
     - **(A)** to make such ruling as the court shall determine to be in accordance with law; or
     - **(B)** to take such further proceedings as, in the opinion of the court, the law requires.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1999K](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3921](https://www.govinfo.gov/link/statute/104/3921).)*

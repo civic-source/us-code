@@ -3,9 +3,10 @@ title: "Section 1465 - Appeals to the Secretary"
 usc_title: 16
 usc_section: "1465"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1465"
-generated_at: "2026-03-30T02:54:22.973Z"
+generated_at: "2026-11-23T21:25:51.891Z"
+status: "active"
 ---
 
 # § 1465. Appeals to the Secretary
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:22.973Z"
 - **(c)**
   - **(1)** Not later than 60 days after the date of publication of a Federal Register notice stating when the decision record for an appeal has been closed, the Secretary shall issue a decision or publish a notice in the Federal Register explaining why a decision cannot be issued at that time.
   - **(2)** Not later than 15 days after the date of publication of a Federal Register notice explaining why a decision cannot be issued within the 60-day period, the Secretary shall issue a decision.
+
+## Source Credit
+
+*([Pub. L. 89–454, title III, § 319](https://www.govinfo.gov/link/plaw/89/public/454), as added [Pub. L. 104–150, § 8](https://www.govinfo.gov/link/plaw/104/public/150), June 3, 1996, [110 Stat. 1382](https://www.govinfo.gov/link/statute/110/1382); amended [Pub. L. 109–58, title III, § 381](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 737](https://www.govinfo.gov/link/statute/119/737).)*

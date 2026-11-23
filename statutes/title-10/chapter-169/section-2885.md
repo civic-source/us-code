@@ -3,9 +3,10 @@ title: "Section 2885 - Oversight and accountability for privatization projects"
 usc_title: 10
 usc_section: "2885"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2885"
-generated_at: "2026-03-30T02:53:38.182Z"
+generated_at: "2026-11-23T21:25:32.699Z"
+status: "active"
 ---
 
 # § 2885. Oversight and accountability for privatization projects
@@ -28,3 +29,19 @@ generated_at: "2026-03-30T02:53:38.182Z"
     - **(A)** The financial health and performance of the privatization project, including the debt-coverage ratio of the project and occupancy rates for the housing units.
     - **(B)** An assessment of the backlog of maintenance and repair of the housing units.
   - **(2)** If the debt service coverage for a military housing privatization project falls below 1.0 or the occupancy rates for the housing units of the project are below 75 percent for more than one year, the Secretary concerned shall require the development of a plan to address the financial risk of the project.
+
+Oversight and Accountability Measures
+
+Required Qualifications
+
+Bonding Levels
+
+Reporting of Efforts To Select Successor in Event of Default
+
+Effect of Notices of Deficiency on Contractors and Affiliated Entities
+
+Financial Integrity and Accountability Measures
+
+## Source Credit
+
+*(Added [Pub. L. 110–417, div. B, title XXVIII, § 2805(a)(1)](https://www.govinfo.gov/link/plaw/110/public/417), Oct. 14, 2008, [122 Stat. 4721](https://www.govinfo.gov/link/statute/122/4721); amended [Pub. L. 112–239, div. B, title XXVIII, § 2803(a)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2147](https://www.govinfo.gov/link/statute/126/2147); [Pub. L. 113–66, div. A, title X, § 1084(a)(3)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 871](https://www.govinfo.gov/link/statute/127/871); [Pub. L. 113–291, div. A, title IX, § 901(n)(2)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3469](https://www.govinfo.gov/link/statute/128/3469); [Pub. L. 115–91, div. B, title XXVIII, § 2801(d)(4)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1844](https://www.govinfo.gov/link/statute/131/1844).)*

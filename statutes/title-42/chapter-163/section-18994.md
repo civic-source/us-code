@@ -3,9 +3,10 @@ title: "Section 18994 - STEM workforce data"
 usc_title: 42
 usc_section: "18994"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18994"
-generated_at: "2026-03-30T02:56:11.536Z"
+generated_at: "2026-11-23T21:26:33.861Z"
+status: "active"
 ---
 
 # § 18994. STEM workforce data
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.536Z"
   - **(4)** Not later than 1 year after August 9, 2022 , the Comptroller General of the United States shall submit a report to Congress that—
     - **(A)** evaluates Foundation processes for ensuring the data and analysis produced by the National Center for Science and Engineering Statistics meets current and future needs; and
     - **(B)** includes such recommendations as the Comptroller General determines are appropriate to improve such processes.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10314](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1529](https://www.govinfo.gov/link/statute/136/1529).)*

@@ -3,9 +3,10 @@ title: "Section 1781 - Transmittal of letter rogatory or request"
 usc_title: 28
 usc_section: "1781"
 chapter: 117
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1781"
-generated_at: "2026-03-30T02:55:30.144Z"
+generated_at: "2026-11-23T21:26:01.104Z"
+status: "active"
 ---
 
 # § 1781. Transmittal of letter rogatory or request
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:30.144Z"
 - **(b)** This section does not preclude—
   - **(1)** the transmittal of a letter rogatory or request directly from a foreign or international tribunal to the tribunal, officer, or agency in the United States to whom it is addressed and its return in the same manner; or
   - **(2)** the transmittal of a letter rogatory or request directly from a tribunal in the United States to the foreign or international tribunal, officer, or agency to whom it is addressed and its return in the same manner.
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 948](https://www.govinfo.gov/link/statute/62/948); [Pub. L. 88–619, § 8(a)](https://www.govinfo.gov/link/plaw/88/public/619), Oct. 3, 1964, [78 Stat. 996](https://www.govinfo.gov/link/statute/78/996).)*

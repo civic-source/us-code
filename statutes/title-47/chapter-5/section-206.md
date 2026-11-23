@@ -3,12 +3,17 @@ title: "Section 206 - Carriers’ liability for damages"
 usc_title: 47
 usc_section: "206"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 206"
-generated_at: "2026-03-30T02:56:24.494Z"
+generated_at: "2026-11-23T21:26:35.938Z"
+status: "active"
 ---
 
 # § 206. Carriers’ liability for damages
 
 In case any common carrier shall do, or cause or permit to be done, any act, matter, or thing in this chapter prohibited or declared to be unlawful, or shall omit to do any act, matter, or thing in this chapter required to be done, such common carrier shall be liable to the person or persons injured thereby for the full amount of damages sustained in consequence of any such violation of the provisions of this chapter, together with a reasonable counsel or attorney’s fee, to be fixed by the court in every case of recovery, which attorney’s fee shall be taxed and collected as part of the costs in the case.
 
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title II, § 206, [48 Stat. 1072](https://www.govinfo.gov/link/statute/48/1072).)*

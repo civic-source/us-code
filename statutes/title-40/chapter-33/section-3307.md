@@ -3,9 +3,10 @@ title: "Section 3307 - Congressional approval of proposed projects"
 usc_title: 40
 usc_section: "3307"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 3307"
-generated_at: "2026-03-30T02:55:43.379Z"
+generated_at: "2026-11-23T21:26:14.863Z"
+status: "active"
 ---
 
 # § 3307. Congressional approval of proposed projects
@@ -48,3 +49,110 @@ generated_at: "2026-03-30T02:55:43.379Z"
 - **(j)**
   - **(1)** Unless a lease is awarded or a construction, alteration, repair, design, or acquisition project is initiated not later than 5 years after the resolution approvals adopted by the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate pursuant to subsection (a), the resolutions shall be deemed expired.
   - **(2)** This subsection shall only apply to resolutions approved after the date of enactment of this subsection.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3307(a) | 40:606(a) (1st–3d sentences). | Pub. L. 86–249, § 7(a) –(d), Sept. 9, 1959 , 73 Stat. 480 ; Pub. L. 92–313, § 2(4) , June 16, 1972 , 86 Stat. 217 ; Pub. L. 94–541, title I, § 103(1) , (2), Oct. 18, 1976 , 90 Stat. 2505 ; Pub. L. 100–678 , §§ 2, 3(a), Nov. 17, 1988 , 102 Stat. 4049 ; Pub. L. 103–437, § 14(b)(1) , Nov. 2, 1994 , 108 Stat. 4590 . |
+| 3307(b) | 40:606(a) (last sentence). |  |
+| 3307(c) | 40:606(b). |  |
+| 3307(d) | 40:606(c). |  |
+| 3307(e) | 40:606(d). |  |
+| 3307(f) | 40:606(e). | Pub. L. 86–249, § 7(e) , as added Pub. L. 100–678, § 3(b) , Nov. 17, 1988 , 102 Stat. 4049 . |
+| 3307(g) | 40:606(f) (related to this section). | Pub. L. 86–249, § 7(f) (related to this section), Sept. 9, 1959 , as added Pub. L. 100–678, § 4 , Nov. 17, 1988 , 102 Stat. 4050 . |
+
+
+Resolutions Required Before Appropriations May Be Made
+
+Transmission to Congress of Prospectus of Proposed Project
+
+Increase of Estimated Maximum Cost
+
+Rescission of Approval
+
+Emergency Leases by the Administrator
+
+Minimum Performance Requirements for Leased Space
+
+Limitation on Leasing Certain Space.—
+
+In general
+
+Exception
+
+Dollar Amount Adjustment
+
+Notification Required
+
+Expiration of Committee Resolutions.—
+
+In general
+
+Application
+
+Historical and Revision Notes
+
+3307(a)
+
+Pub. L. 86–249, § 7(a)
+
+Sept. 9, 1959
+
+73 Stat. 480
+
+Pub. L. 92–313, § 2(4)
+
+June 16, 1972
+
+86 Stat. 217
+
+Pub. L. 94–541, title I, § 103(1)
+
+Oct. 18, 1976
+
+90 Stat. 2505
+
+Pub. L. 100–678
+
+Nov. 17, 1988
+
+102 Stat. 4049
+
+Pub. L. 103–437, § 14(b)(1)
+
+Nov. 2, 1994
+
+108 Stat. 4590
+
+3307(b)
+
+3307(c)
+
+3307(d)
+
+3307(e)
+
+3307(f)
+
+Pub. L. 86–249, § 7(e)
+
+Pub. L. 100–678, § 3(b)
+
+Nov. 17, 1988
+
+102 Stat. 4049
+
+3307(g)
+
+Pub. L. 86–249, § 7(f)
+
+Sept. 9, 1959
+
+Pub. L. 100–678, § 4
+
+Nov. 17, 1988
+
+102 Stat. 4050
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1161](https://www.govinfo.gov/link/statute/116/1161); [Pub. L. 110–140, title III, § 323(a)](https://www.govinfo.gov/link/plaw/110/public/140), (b), Dec. 19, 2007, [121 Stat. 1589](https://www.govinfo.gov/link/statute/121/1589), 1590; [Pub. L. 114–287, § 17](https://www.govinfo.gov/link/plaw/114/public/287), Dec. 16, 2016, [130 Stat. 1476](https://www.govinfo.gov/link/statute/130/1476); [Pub. L. 118–272, div. B, title III](https://www.govinfo.gov/link/plaw/118/public/272), §§ 2304(a), (c), (f), 2310, Jan. 4, 2025, [138 Stat. 3223](https://www.govinfo.gov/link/statute/138/3223), 3224, 3227.)*

@@ -3,13 +3,20 @@ title: "Section 3044 - Complaint—(Rule)"
 usc_title: 18
 usc_section: "3044"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3044"
-generated_at: "2026-03-30T02:54:16.510Z"
+generated_at: "2026-11-23T21:25:44.173Z"
+status: "active"
 ---
 
 # § 3044. Complaint—(Rule)
 
+
+See Federal Rules of Criminal Procedure
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 816](https://www.govinfo.gov/link/statute/62/816).)*
 
 ## Notes
 

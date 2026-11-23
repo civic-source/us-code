@@ -3,9 +3,10 @@ title: "Section 16273 - Fuel cycle research, development, demonstration, and com
 usc_title: 42
 usc_section: "16273"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16273"
-generated_at: "2026-03-30T02:56:11.476Z"
+generated_at: "2026-11-23T21:26:33.713Z"
+status: "active"
 ---
 
 # § 16273. Fuel cycle research, development, demonstration, and commercial application
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:11.476Z"
   - **(2)** In carrying out the program under this subsection, the Secretary shall focus on the development of advanced technology fuels, including fabrication techniques, that offer improved accident-tolerance and economic performance with the goal of initial commercial application by December 31, 2025 .
   - **(3)** Not later than 180 days December 27, 2020 , the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that describes how the technologies and concepts studied under this program would impact reactor economics, the fuel cycle, operations, safety, proliferation, and the environment.
   - **(4)** There are authorized to be appropriated to the Secretary to carry out the program under this subsection $125,000,000 for each of fiscal years 2021 through 2025.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 953](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 886](https://www.govinfo.gov/link/statute/119/886); [Pub. L. 115–248, § 2(c)](https://www.govinfo.gov/link/plaw/115/public/248), Sept. 28, 2018, [132 Stat. 3155](https://www.govinfo.gov/link/statute/132/3155); [Pub. L. 116–260, div. Z, title II, § 2003(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2462](https://www.govinfo.gov/link/statute/134/2462).)*

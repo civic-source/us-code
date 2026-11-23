@@ -3,9 +3,10 @@ title: "Section 2297h - Definitions"
 usc_title: 42
 usc_section: "2297h"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2297h"
-generated_at: "2026-03-30T02:56:11.161Z"
+generated_at: "2026-11-23T21:26:32.404Z"
+status: "active"
 ---
 
 # § 2297h. Definitions
@@ -26,3 +27,23 @@ Except as provided in section 2297h–10a of this title , for purposes of this s
   - **(12)** The term “Secretary” means the Secretary of Energy.
   - **(13)** The “Suspension Agreement” means the Agreement to Suspend the Antidumping Investigation on Uranium from the Russian Federation, as amended.
   - **(14)** The term “uranium enrichment” means the separation of uranium of a given isotopic content into 2 components, 1 having a higher percentage of a fissile isotope and 1 having a lower percentage.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 104–134, title III, § 3102](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–335](https://www.govinfo.gov/link/statute/110/1321); [Pub. L. 110–329, div. C, title VIII, § 8118(1)](https://www.govinfo.gov/link/plaw/110/public/329), Sept. 30, 2008, [122 Stat. 3647](https://www.govinfo.gov/link/statute/122/3647).)*

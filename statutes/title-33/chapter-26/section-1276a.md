@@ -3,9 +3,10 @@ title: "Section 1276a - San Francisco Bay restoration grant program"
 usc_title: 33
 usc_section: "1276a"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1276a"
-generated_at: "2026-03-30T02:55:41.085Z"
+generated_at: "2026-11-23T21:26:11.367Z"
+status: "active"
 ---
 
 # § 1276a. San Francisco Bay restoration grant program
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:55:41.085Z"
 - **(f)**
   - **(1)** Of the amount made available to carry out this section for a fiscal year, the Director may not use more than 5 percent to pay administrative expenses incurred in carrying out this section.
   - **(2)** No amounts made available under this section may be used for the administration of a management conference under section 1330 of this title .
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title I, § 125, as added [Pub. L. 117–263, div. H, title LXXXV, § 8501(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3845](https://www.govinfo.gov/link/statute/136/3845).)*

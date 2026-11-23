@@ -3,9 +3,10 @@ title: "Section 1242 - Enrollment by Board; standards and qualifications; suspen
 usc_title: 29
 usc_section: "1242"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1242"
-generated_at: "2026-03-30T02:55:18.728Z"
+generated_at: "2026-11-23T21:26:02.281Z"
+status: "active"
 ---
 
 # § 1242. Enrollment by Board; standards and qualifications; suspension or termination of enrollment
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:18.728Z"
 - **(b)** The Joint Board may, after notice and an opportunity for a hearing, suspend or terminate the enrollment of an individual under this section if the Joint Board finds that such individual—
   - **(1)** has failed to discharge his duties under this chapter, or
   - **(2)** does not satisfy the requirements for enrollment as in effect at the time of his enrollment.
+
+## Source Credit
+
+*([Pub. L. 93–406, title III, § 3042](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 1002](https://www.govinfo.gov/link/statute/88/1002).)*

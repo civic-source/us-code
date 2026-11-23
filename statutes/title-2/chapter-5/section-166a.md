@@ -3,9 +3,10 @@ title: "Section 166a - Equal access to Congressional Research Service Reports"
 usc_title: 2
 usc_section: "166a"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 166a"
-generated_at: "2026-03-30T02:53:04.790Z"
+generated_at: "2026-11-23T21:25:21.140Z"
+status: "active"
 ---
 
 # § 166a. Equal access to Congressional Research Service Reports
@@ -73,3 +74,7 @@ generated_at: "2026-03-30T02:53:04.790Z"
     - **(A)** Not later than 90 days after March 23, 2018 , the CRS Director shall provide the Librarian of Congress with the information necessary for the Librarian of Congress to begin the initial operation of the Website.
     - **(B)** Upon provision of the information described in subparagraph (A), the Librarian of Congress shall submit to Congress a certification that the CRS Director has provided the information necessary for the Librarian of Congress to begin the initial operation of the Website.
     - **(C)** In the event of technical difficulties encountered in planning or implementing the requirements of this section and the amendments made by this section, upon providing a detailed report submitted by the Librarian of Congress or the CRS Director to the Committees on Appropriations of the House and the Senate detailing the nature of the technical difficulties and the timeline for resolving such technical difficulties, the effective date established by subsection (f)(1) shall be extended for up to 90 additional days.
+
+## Source Credit
+
+*([Pub. L. 115–141, div. I, title I, § 154](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 787](https://www.govinfo.gov/link/statute/132/787).)*

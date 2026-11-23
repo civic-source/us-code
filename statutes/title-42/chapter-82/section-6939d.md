@@ -3,9 +3,10 @@ title: "Section 6939d - Public vessels"
 usc_title: 42
 usc_section: "6939d"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6939d"
-generated_at: "2026-03-30T02:56:11.274Z"
+generated_at: "2026-11-23T21:26:33.008Z"
+status: "active"
 ---
 
 # § 6939d. Public vessels
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.274Z"
   - **(1)** The term “public vessel” means a vessel owned or bareboat chartered and operated by the United States, or by a foreign nation, except when the vessel is engaged in commerce.
   - **(2)** The terms “in reserve” and “in service” have the meanings applicable to those terms under section 8663 and sections 8674 through 8678 of title 10 and regulations prescribed under those sections.
 - **(d)** Nothing in this section shall be construed as altering or otherwise affecting the provisions of section 8681 of title 10 .
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 3022](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 102–386, title I, § 106(a)](https://www.govinfo.gov/link/plaw/102/public/386), Oct. 6, 1992, [106 Stat. 1513](https://www.govinfo.gov/link/statute/106/1513); amended [Pub. L. 115–232, div. A, title VIII, § 809(n)(2)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1844](https://www.govinfo.gov/link/statute/132/1844).)*

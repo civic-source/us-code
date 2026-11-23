@@ -3,9 +3,10 @@ title: "Section 351 - Definitions"
 usc_title: 45
 usc_section: "351"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 351"
-generated_at: "2026-03-30T02:55:56.548Z"
+generated_at: "2026-11-23T21:26:19.203Z"
+status: "active"
 ---
 
 # § 351. Definitions
@@ -30,7 +31,14 @@ For the purposes of this chapter, except when used in amending the provisions of
     - **(B)**
       - **(i)** The amount of the monthly compensation base for each calendar year beginning after December 31, 1988 , is the greater of—
         - **(I)** $600; or
-        - **(II)** the amount, as rounded under clause (iii) if applicable, computed under the formula: A−37,800 B=600 A 1+ ————  56,700
+        - **(II)** the amount, as rounded under clause (iii) if applicable, computed under the formula:
+
+|  | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | A−37,800 |  |  |
+|  | B=600 | A | 1+ | ———— |  |  |
+|  |  |  |  | 56,700 |  |  |
+
       - **(ii)** For the purposes of the formula in clause (i)—
         - **(I)** “B” is the dollar amount of the monthly compensation base; and
         - **(II)** “A” is the amount of the applicable base with respect to tier 1 taxes, for the calendar year for which the monthly compensation base is being computed, as determined under section 3231(e)(2) of title 26 .
@@ -49,3 +57,23 @@ For the purposes of this chapter, except when used in amending the provisions of
 - **(s)** The term “United States”, when used in a geographical sense, means the States and the District of Columbia.
 - **(t)** The term “State” means any of the States or the District of Columbia.
 - **(u)** Any reference in this chapter to any other Act of Congress, including such reference in amendments to other Acts, includes a reference to such other Act as amended from time to time.
+
+In General
+
+Monthly Compensation Base.—
+
+In general
+
+Computation.—
+
+In general
+
+Meaning of symbols
+
+Rounding rule
+
+“That the provisions of this act [amending this section, sections 228a, 228i, 352 to 355, 356, 361, and 362 of this title, and section 1532 of former Title 26, Internal Revenue Code of 1939, and enacting provisions set out as notes under this section and section 262 of this title ] shall take effect on November 1, 1940 , except that sections 2, 11, 25, 26, and 27 [amending sections 228a, 228i, 351, and 352 of this title and section 1532 of former Title 26 and enacting provisions set out as a note under section 262 of this title ] shall be effective as of July 1, 1940 , and sections 19 and 20 [amending section 355 of this title ] shall become effective upon the approval of this act: Provided, however , That—
+
+## Source Credit
+
+*(June 25, 1938, ch. 680, § 1, [52 Stat. 1094](https://www.govinfo.gov/link/statute/52/1094); June 20, 1939, ch. 227, §§ 1–6, 20, [53 Stat. 845](https://www.govinfo.gov/link/statute/53/845), 848; Aug. 13, 1940, ch. 664, §§ 1, 3, [54 Stat. 785](https://www.govinfo.gov/link/statute/54/785), 786; Oct. 10, 1940, ch. 842, §§ 2–8, [54 Stat. 1094](https://www.govinfo.gov/link/statute/54/1094), 1095; Apr. 8, 1942, ch. 227, § 15, [56 Stat. 210](https://www.govinfo.gov/link/statute/56/210); July 31, 1946, ch. 709, §§ 1, 2, 301–304, [60 Stat. 722](https://www.govinfo.gov/link/statute/60/722), 735, 736; Oct. 30, 1951, ch. 632, § 26, [65 Stat. 691](https://www.govinfo.gov/link/statute/65/691); Aug. 31, 1954, ch. 1164, pt. III, §§ 301–303, [68 Stat. 1041](https://www.govinfo.gov/link/statute/68/1041); [Pub. L. 85–927](https://www.govinfo.gov/link/plaw/85/public/927), pt. II, § 201, Sept. 6, 1958, [72 Stat. 1782](https://www.govinfo.gov/link/statute/72/1782); [Pub. L. 86–28](https://www.govinfo.gov/link/plaw/86/public/28), pt. III, § 301, May 19, 1959, [73 Stat. 30](https://www.govinfo.gov/link/statute/73/30); [Pub. L. 89–700, title II, § 201](https://www.govinfo.gov/link/plaw/89/public/700), Oct. 30, 1966, [80 Stat. 1087](https://www.govinfo.gov/link/statute/80/1087); [Pub. L. 90–257, title II, § 201](https://www.govinfo.gov/link/plaw/90/public/257), Feb. 15, 1968, [82 Stat. 23](https://www.govinfo.gov/link/statute/82/23); [Pub. L. 90–624, § 3](https://www.govinfo.gov/link/plaw/90/public/624), Oct. 22, 1968, [82 Stat. 1316](https://www.govinfo.gov/link/statute/82/1316); [Pub. L. 94–92, title I, § 1(a)](https://www.govinfo.gov/link/plaw/94/public/92), (b), Aug. 9, 1975, [89 Stat. 461](https://www.govinfo.gov/link/statute/89/461); [Pub. L. 98–76, title IV](https://www.govinfo.gov/link/plaw/98/public/76), §§ 402(b), 403(b), 411(a)(1), title V, § 503(b), Aug. 12, 1983, [97 Stat. 434](https://www.govinfo.gov/link/statute/97/434), 436, 441; [Pub. L. 100–647, title VII](https://www.govinfo.gov/link/plaw/100/public/647), §§ 7101(a), (b), 7203(a), Nov. 10, 1988, [102 Stat. 3757](https://www.govinfo.gov/link/statute/102/3757), 3758, 3776; [Pub. L. 104–88, title III, § 324(1)](https://www.govinfo.gov/link/plaw/104/public/88), (2), Dec. 29, 1995, [109 Stat. 950](https://www.govinfo.gov/link/statute/109/950).)*

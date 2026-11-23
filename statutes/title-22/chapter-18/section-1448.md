@@ -3,12 +3,17 @@ title: "Section 1448 - Assistance to certain institutions abroad founded or spon
 usc_title: 22
 usc_section: "1448"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1448"
-generated_at: "2026-03-30T02:55:05.331Z"
+generated_at: "2026-11-23T21:25:58.396Z"
+status: "active"
 ---
 
 # § 1448. Assistance to certain institutions abroad founded or sponsored by United States citizens
 
 The Secretary is authorized to provide for assistance to schools, 1 1 See Partial Repeal note below. libraries, and community centers abroad, founded or sponsored by citizens of the United States, and serving as demonstration centers for methods and practices employed in the United States. In assisting any such schools, however, the Secretary shall exercise no control over their educational policies and shall in no case furnish assistance of any character which is not in keeping with the free democratic principles and the established foreign policy of the United States.
 
+
+## Source Credit
+
+*(Jan. 27, 1948, ch. 36, title II, § 203, [62 Stat. 7](https://www.govinfo.gov/link/statute/62/7).)*

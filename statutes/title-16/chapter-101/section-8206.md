@@ -3,9 +3,10 @@ title: "Section 8206 - Technical and scientific assistance"
 usc_title: 16
 usc_section: "8206"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8206"
-generated_at: "2026-03-30T02:54:23.083Z"
+generated_at: "2026-11-23T21:25:52.075Z"
+status: "active"
 ---
 
 # § 8206. Technical and scientific assistance
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:23.083Z"
   - **(5)** supporting and providing recommendations for a national fish habitat assessment;
   - **(6)** ensuring the availability of experts to assist in conducting scientifically based evaluation and reporting of the results of fish habitat conservation projects; and
   - **(7)** providing resources to secure State agency scientific and technical assistance to support Partnerships, participants in fish habitat conservation projects, and the Board.
+
+## Source Credit
+
+*([Pub. L. 116–188, title II, § 206](https://www.govinfo.gov/link/plaw/116/public/188), Oct. 30, 2020, [134 Stat. 934](https://www.govinfo.gov/link/statute/134/934); [Pub. L. 118–198, title II, § 204](https://www.govinfo.gov/link/plaw/118/public/198), Dec. 23, 2024, [138 Stat. 2682](https://www.govinfo.gov/link/statute/138/2682).)*

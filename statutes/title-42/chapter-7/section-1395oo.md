@@ -3,9 +3,10 @@ title: "Section 1395oo - Provider Reimbursement Review Board"
 usc_title: 42
 usc_section: "1395oo"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1395oo"
-generated_at: "2026-03-30T02:56:11.009Z"
+generated_at: "2026-11-23T21:26:31.669Z"
+status: "active"
 ---
 
 # § 1395oo. Provider Reimbursement Review Board
@@ -33,3 +34,9 @@ generated_at: "2026-03-30T02:56:11.009Z"
 - **(h)** The Board shall be composed of five members appointed by the Secretary without regard to the provisions of title 5 governing appointments in the competitive services. Two of such members shall be representative of providers of services. All of the members of the Board shall be persons knowledgeable in the field of payment of providers of services, and at least one of them shall be a certified public accountant. Members of the Board shall be entitled to receive compensation at rates fixed by the Secretary, but not exceeding the rate specified (at the time the service involved is rendered by such members) for grade GS–18 in section 5332 of title 5 . The term of office shall be three years, except that the Secretary shall appoint the initial members of the Board for shorter terms to the extent necessary to permit staggered terms of office.
 - **(i)** The Board is authorized to engage such technical assistance as may be required to carry out its functions, and the Secretary shall, in addition, make available to the Board such secretarial, clerical, and other assistance as the Board may require to carry out its functions.
 - **(j)** In this section, the term “provider of services” includes a rural health clinic and a Federally qualified health center.
+
+“Notwithstanding section 604 of the Social Security Amendments of 1983 ( Public Law 98–21 ) [set out as an Effective Date of 1983 Amendments note under section 1395ww of this title ]—
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1878, as added [Pub. L. 92–603, title II, § 243(a)](https://www.govinfo.gov/link/plaw/92/public/603), Oct. 30, 1972, [86 Stat. 1420](https://www.govinfo.gov/link/statute/86/1420); amended [Pub. L. 93–484, § 3(a)](https://www.govinfo.gov/link/plaw/93/public/484), Oct. 26, 1974, [88 Stat. 1459](https://www.govinfo.gov/link/statute/88/1459); [Pub. L. 96–499, title IX, § 955](https://www.govinfo.gov/link/plaw/96/public/499), Dec. 5, 1980, [94 Stat. 2647](https://www.govinfo.gov/link/statute/94/2647); [Pub. L. 98–21, title VI, § 602(h)](https://www.govinfo.gov/link/plaw/98/public/21), Apr. 20, 1983, [97 Stat. 165](https://www.govinfo.gov/link/statute/97/165); [Pub. L. 98–369, div. B, title III](https://www.govinfo.gov/link/plaw/98/public/369), §§ 2351(a)(1), (b)(1), 2354(b)(39), (40), July 18, 1984, [98 Stat. 1098](https://www.govinfo.gov/link/statute/98/1098), 1099, 1102; [Pub. L. 101–508, title IV, § 4161(a)(6)](https://www.govinfo.gov/link/plaw/101/public/508), (b)(4), Nov. 5, 1990, [104 Stat. 1388–94](https://www.govinfo.gov/link/statute/104/1388), 1388–95; [Pub. L. 103–66, title XIII, § 13503(c)(1)(B)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 579](https://www.govinfo.gov/link/statute/107/579).)*

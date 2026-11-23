@@ -3,9 +3,10 @@ title: "Section 1272 - Environmental dredging"
 usc_title: 33
 usc_section: "1272"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1272"
-generated_at: "2026-03-30T02:55:41.085Z"
+generated_at: "2026-11-23T21:26:11.366Z"
+status: "active"
 ---
 
 # § 1272. Environmental dredging
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:41.085Z"
   - **(7)** Snake Creek, Bixby, Oklahoma.
   - **(8)** Willamette River, Oregon.
 - **(g)** Notwithstanding section 1962d–5b of title 42 , for any project carried out under this section, a non-Federal sponsor may include a nonprofit entity, with the consent of the affected local government.
+
+## Source Credit
+
+*([Pub. L. 101–640, title III, § 312](https://www.govinfo.gov/link/plaw/101/public/640), Nov. 28, 1990, [104 Stat. 4639](https://www.govinfo.gov/link/statute/104/4639); [Pub. L. 104–303, title II, § 205](https://www.govinfo.gov/link/plaw/104/public/303), Oct. 12, 1996, [110 Stat. 3679](https://www.govinfo.gov/link/statute/110/3679); [Pub. L. 106–53, title II, § 224](https://www.govinfo.gov/link/plaw/106/public/53), Aug. 17, 1999, [113 Stat. 297](https://www.govinfo.gov/link/statute/113/297); [Pub. L. 106–541, title II, § 210(a)](https://www.govinfo.gov/link/plaw/106/public/541), Dec. 11, 2000, [114 Stat. 2592](https://www.govinfo.gov/link/statute/114/2592).)*

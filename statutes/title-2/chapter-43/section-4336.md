@@ -3,9 +3,10 @@ title: "Section 4336 - Discretionary authority of Senate Committee on Appropriat
 usc_title: 2
 usc_section: "4336"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 4336"
-generated_at: "2026-03-30T02:53:04.829Z"
+generated_at: "2026-11-23T21:25:21.300Z"
+status: "active"
 ---
 
 # § 4336. Discretionary authority of Senate Committee on Appropriations
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:04.829Z"
   - **(6)** to provide for the training of the professional staff of such committee (under procedures specified by section 4301(j) of this title ).
 - **(b)**
 - **(c)** This section shall be effective on and after October 1, 1998 , or the date of enactment of this Act [ October 21, 1998 ], whichever is later.
+
+## Source Credit
+
+*([Pub. L. 105–275, title I, § 10](https://www.govinfo.gov/link/plaw/105/public/275), Oct. 21, 1998, [112 Stat. 2435](https://www.govinfo.gov/link/statute/112/2435); [Pub. L. 109–55, title I, § 6](https://www.govinfo.gov/link/plaw/109/public/55), Aug. 2, 2005, [119 Stat. 568](https://www.govinfo.gov/link/statute/119/568).)*

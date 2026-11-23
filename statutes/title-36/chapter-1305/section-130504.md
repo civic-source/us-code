@@ -3,9 +3,10 @@ title: "Section 130504 - Governing body"
 usc_title: 36
 usc_section: "130504"
 chapter: 1305
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 130504"
-generated_at: "2026-03-30T02:55:44.701Z"
+generated_at: "2026-11-23T21:26:13.630Z"
+status: "active"
 ---
 
 # § 130504. Governing body
@@ -16,3 +17,29 @@ generated_at: "2026-03-30T02:55:44.701Z"
 - **(b)**
   - **(1)** The officers of the corporation are a chairman of the board of directors, a president, a vice president, and a secretary-treasurer. Their duties are as provided in the constitution and bylaws of the corporation.
   - **(2)** The officers shall be elected annually at the annual meeting of the corporation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 130504(a) | 36:1077. | July 16, 1964 , Pub. L. 88–378 , §§ 7, 8, 78 Stat. 326 . |
+| 130504(b) | 36:1078. |  |
+
+
+Board of Directors
+
+Officers
+
+Historical and Revision Notes
+
+130504(a)
+
+July 16, 1964
+
+Pub. L. 88–378
+
+78 Stat. 326
+
+130504(b)
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1377](https://www.govinfo.gov/link/statute/112/1377).)*

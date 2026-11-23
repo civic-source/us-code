@@ -3,9 +3,10 @@ title: "Section 1881b - Presidential awards for teaching excellence"
 usc_title: 42
 usc_section: "1881b"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1881b"
-generated_at: "2026-03-30T02:56:11.131Z"
+generated_at: "2026-11-23T21:26:32.235Z"
+status: "active"
 ---
 
 # § 1881b. Presidential awards for teaching excellence
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.131Z"
   - **(3)**
     - **(A)** Funds to carry out this subsection for any fiscal year shall be made available from amounts appropriated pursuant to annual authorization of appropriations for the Foundation for Education and Human Resources.
     - **(B)** Amounts made available pursuant to subparagraph (A) shall be available for making awards under this subsection, for administrative expenses, for necessary travel by teachers selected under this subsection, and for special activities related to carrying out this subsection.
+
+## Source Credit
+
+*([Pub. L. 100–570, title I, § 117(a)](https://www.govinfo.gov/link/plaw/100/public/570), Oct. 31, 1988, [102 Stat. 2872](https://www.govinfo.gov/link/statute/102/2872); [Pub. L. 105–207, title II, § 202(c)](https://www.govinfo.gov/link/plaw/105/public/207), July 29, 1998, [112 Stat. 874](https://www.govinfo.gov/link/statute/112/874); [Pub. L. 117–167, div. B, title III, § 10321(a)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1538](https://www.govinfo.gov/link/statute/136/1538).)*

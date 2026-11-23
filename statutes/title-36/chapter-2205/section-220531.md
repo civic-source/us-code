@@ -3,9 +3,10 @@ title: "Section 220531 - Grant to protect young athletes from abuse"
 usc_title: 36
 usc_section: "220531"
 chapter: 2205
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 220531"
-generated_at: "2026-03-30T02:55:44.710Z"
+generated_at: "2026-11-23T21:26:13.754Z"
+status: "active"
 ---
 
 # § 220531. Grant to protect young athletes from abuse
@@ -21,3 +22,19 @@ generated_at: "2026-03-30T02:55:44.710Z"
 - **(d)**
   - **(1)** There is authorized to be appropriated to carry out this section $2,500,000 for each of the fiscal years 2018 through 2022.
   - **(2)** Funds appropriated under this section shall remain available until expended.
+
+Authority
+
+Applications
+
+Use of Grant Amount
+
+Authorization of Appropriations.—
+
+In general
+
+Availability of grant funds
+
+## Source Credit
+
+*(Added [Pub. L. 115–141, div. S, title III, § 302(a)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1127](https://www.govinfo.gov/link/statute/132/1127); amended [Pub. L. 116–189](https://www.govinfo.gov/link/plaw/116/public/189), §§ 4(a)(11), 7(a)(2)(A)(vi), Oct. 30, 2020, [134 Stat. 946](https://www.govinfo.gov/link/statute/134/946), 957.)*

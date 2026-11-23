@@ -3,9 +3,10 @@ title: "Section 9655 - Legislative veto of rule or regulation"
 usc_title: 42
 usc_section: "9655"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9655"
-generated_at: "2026-03-30T02:56:11.363Z"
+generated_at: "2026-11-23T21:26:33.270Z"
+status: "active"
 ---
 
 # § 9655. Legislative veto of rule or regulation
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.363Z"
   - **(1)** continuity of session is broken only by an adjournment of Congress sine die; and
   - **(2)** the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of thirty, sixty, and ninety calendar days of continuous session of Congress.
 - **(d)** Congressional inaction on, or rejection of, a resolution of disapproval shall not be deemed an expression of approval of such rule or regulation.
+
+## Source Credit
+
+*([Pub. L. 96–510, title III, § 305](https://www.govinfo.gov/link/plaw/96/public/510), Dec. 11, 1980, [94 Stat. 2809](https://www.govinfo.gov/link/statute/94/2809).)*

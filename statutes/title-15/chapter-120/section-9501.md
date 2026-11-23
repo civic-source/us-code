@@ -3,9 +3,10 @@ title: "Section 9501 - Definitions"
 usc_title: 15
 usc_section: "9501"
 chapter: 120
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9501"
-generated_at: "2026-03-30T02:54:08.248Z"
+generated_at: "2026-11-23T21:25:40.146Z"
+status: "active"
 ---
 
 # § 9501. Definitions
@@ -94,3 +95,7 @@ In this chapter:
     - **(H)** each Tribal Government.
   - **(18)** The term “Tribal Government” means the recognized governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation, individually identified (including parenthetically) in the list published most recently as of November 15, 2021 , pursuant to section 5131 of title 25 .
   - **(19)** The term “Under Secretary” means the Under Secretary of Commerce for Minority Business Development, who is appointed as described in section ___3(b) 1 1 So in original. See References in Text note below. to administer this chapter.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. K, § 100002](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1445](https://www.govinfo.gov/link/statute/135/1445).)*

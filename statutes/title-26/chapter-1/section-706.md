@@ -3,9 +3,10 @@ title: "Section 706 - Taxable years of partner and partnership"
 usc_title: 26
 usc_section: "706"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 706"
-generated_at: "2026-03-30T02:55:27.726Z"
+generated_at: "2026-11-23T21:26:06.372Z"
+status: "active"
 ---
 
 # § 706. Taxable years of partner and partnership
@@ -55,3 +56,9 @@ generated_at: "2026-03-30T02:55:27.726Z"
     - **(A)** during any taxable year of the partnership there is a change in any partner’s interest in the partnership (hereinafter in this paragraph referred to as the “upper tier partnership”), and
     - **(B)** such partnership is a partner in another partnership (hereinafter in this paragraph referred to as the “lower tier partnership”),
   - **(4)** For purposes of this subsection, the taxable year of a partnership shall be determined without regard to subsection (c)(2)(A).
+
+“The amendments made by this section [amending this section] shall apply—
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 242; [Pub. L. 94–455, title II, § 213(c)(1)](https://www.govinfo.gov/link/plaw/94/public/455), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1547](https://www.govinfo.gov/link/statute/90/1547), 1834; [Pub. L. 98–369, div. A, title I, § 72(a)](https://www.govinfo.gov/link/plaw/98/public/369), (b), July 18, 1984, [98 Stat. 589](https://www.govinfo.gov/link/statute/98/589), 591; [Pub. L. 99–514, title VIII, § 806(a)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1805(a), Oct. 22, 1986, [100 Stat. 2362](https://www.govinfo.gov/link/statute/100/2362), 2810; [Pub. L. 100–647, title I, § 1008(e)(1)](https://www.govinfo.gov/link/plaw/100/public/647) –(3), Nov. 10, 1988, [102 Stat. 3439](https://www.govinfo.gov/link/statute/102/3439), 3440; [Pub. L. 105–34, title V, § 507(b)(2)](https://www.govinfo.gov/link/plaw/105/public/34), title XII, § 1246(a), (b), Aug. 5, 1997, [111 Stat. 857](https://www.govinfo.gov/link/statute/111/857), 1030; [Pub. L. 115–141, div. U, title IV, § 401(a)(139)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1191](https://www.govinfo.gov/link/statute/132/1191).)*

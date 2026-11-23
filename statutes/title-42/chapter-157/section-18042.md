@@ -3,9 +3,10 @@ title: "Section 18042 - Federal program to assist establishment and operation of
 usc_title: 42
 usc_section: "18042"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18042"
-generated_at: "2026-03-30T02:56:11.514Z"
+generated_at: "2026-11-23T21:26:33.809Z"
+status: "active"
 ---
 
 # § 18042. Federal program to assist establishment and operation of nonprofit, member-run health insurance issuers
@@ -78,3 +79,15 @@ generated_at: "2026-03-30T02:56:11.514Z"
 - **(i)**
   - **(1)** The Comptroller General of the General Accountability Office shall conduct an ongoing study on competition and market concentration in the health insurance market in the United States after the implementation of the reforms in such market under the provisions of, and the amendments made by, this Act. Such study shall include an analysis of new issuers of health insurance in such market.
   - **(2)** The Comptroller General shall, not later than December 31 of each even-numbered year (beginning with 2014), report to the appropriate committees of the Congress the results of the study conducted under paragraph (1), including any recommendations for administrative or legislative changes the Comptroller General determines necessary or appropriate to increase competition in the health insurance market.
+
+Establishment
+
+Transfer and Rescission.—
+
+Transfer
+
+Rescission
+
+## Source Credit
+
+*([Pub. L. 111–148, title I, § 1322](https://www.govinfo.gov/link/plaw/111/public/148), title X, § 10104(l), Mar. 23, 2010, [124 Stat. 187](https://www.govinfo.gov/link/statute/124/187), 902; [Pub. L. 117–286, § 4(a)(282)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4337](https://www.govinfo.gov/link/statute/136/4337).)*

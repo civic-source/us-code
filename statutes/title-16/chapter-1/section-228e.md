@@ -3,12 +3,17 @@ title: "Section 228e - Cooperative agreements for protection and unified interpr
 usc_title: 16
 usc_section: "228e"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 228e"
-generated_at: "2026-03-30T02:54:22.743Z"
+generated_at: "2026-11-23T21:25:51.395Z"
+status: "active"
 ---
 
 # § 228e. Cooperative agreements for protection and unified interpretation of enlarged park; scope of agreements
 
 In the administration of the Grand Canyon National Park, as enlarged by sections 228a to 228j of this title, the Secretary is authorized and encouraged to enter into cooperative agreements with other Federal, State, and local public departments and agencies and with interested Indian tribes providing for the protection and interpretation of the Grand Canyon in its entirety. Such agreements shall include, but not be limited to, authority for the Secretary to develop and operate interpretative facilities and programs on lands and waters outside of the boundaries of such park, with the concurrence of the owner or administrator thereof, to the end that there will be a unified interpretation of the entire Grand Canyon.
 
+
+## Source Credit
+
+*([Pub. L. 93–620, § 6](https://www.govinfo.gov/link/plaw/93/public/620), Jan. 3, 1975, [88 Stat. 2090](https://www.govinfo.gov/link/statute/88/2090).)*

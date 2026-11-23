@@ -3,9 +3,10 @@ title: "Section 44704 - Type certificates, production certificates, airworthines
 usc_title: 49
 usc_section: "44704"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44704"
-generated_at: "2026-03-30T02:56:19.384Z"
+generated_at: "2026-11-23T21:26:40.896Z"
+status: "active"
 ---
 
 # § 44704. Type certificates, production certificates, airworthiness certificates, and design and production organization certificates
@@ -112,3 +113,343 @@ generated_at: "2026-03-30T02:56:19.384Z"
     - **(A)** gross misconduct;
     - **(B)** a violation of title 18; or
     - **(C)** a violation of any of the provisions of part 2635 or 6001 of title 5, Code of Federal Regulations.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44704(a)(1) | 49 App.:1423(a)(2) (1st–4th sentences). | Aug. 23, 1958 , Pub. L. 85–726 , §§ 503(h), 603(a)(1) (related to regulations for appliances), (2), (b) (related to basis for issuing, and contents of, certificates), (c) (related to basis for issuing, and contents of, certificates), 72 Stat. 774 , 776. |
+|  | 49 App.:1655(c)(1). | Oct. 15, 1966 , Pub. L. 89–670, § 6(c)(1) , 80 Stat. 938 ; Jan. 12, 1983 , Pub. L. 97–449, § 7(b) , 96 Stat. 2444 . |
+| 44704(a)(2) | 49 App.:1423(a)(1) (related to regulations for appliances), (2) (5th, last sentences). |  |
+|  | 49 App.:1655(c)(1). |  |
+| 44704(b) | 49 App.:1423(b) (related to basis for issuing, and contents of, certificates). |  |
+|  | 49 App.:1655(c)(1). |  |
+| 44704(c)(1) | 49 App.:1423(c) (related to basis for issuing, and contents of, certificates). |  |
+|  | 49 App.:1655(c)(1). |  |
+| 44704(c)(2) | 49 App.:1403(h). |  |
+|  | 49 App.:1655(c)(1). |  |
+
+
+Type Certificates
+
+Issuance, investigations, and tests
+
+Specifications
+
+Special rules for new aircraft and appliances
+
+Limitation for aircraft manufactured before august 5, 2004
+
+Release of data.—
+
+In general
+
+Engineering data defined
+
+Requirement to maintain data
+
+Submission of data
+
+Supplemental Type Certificates.—
+
+Issuance
+
+Contents
+
+Requirement
+
+Production Certificates
+
+Airworthiness Certificates
+
+Nonconformity with approved type design.—
+
+In general
+
+Civil penalty
+
+Penalty considerations
+
+Nonconforming aircraft defined
+
+Disclosure of Safety Critical Information.—
+
+In general
+
+Ongoing communications.—
+
+Newly discovered information
+
+System development changes
+
+Flight manuals
+
+Civil penalty.—
+
+Amount
+
+Penalty considerations
+
+Revocation and civil penalty for individuals.—
+
+In general
+
+Authority to impose civil penalty
+
+Rule of construction
+
+Definition of type certificate
+
+Hearing Requirement
+
+Certification Dispute Resolution.—
+
+Dispute resolution process and appeals.—
+
+In general
+
+Escalation
+
+Disposition.—
+
+Written decision
+
+Report to congress
+
+Final review.—
+
+In general
+
+Decline to review
+
+Judicial review
+
+Prohibited contacts.—
+
+Prohibition generally
+
+Disclosure
+
+Definitions
+
+Covered person
+
+Covered official
+
+Major certification process milestone
+
+Rule of construction
+
+Historical and Revision Notes
+
+44704(a)(1)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 774
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 6(c)(1)
+
+80 Stat. 938
+
+Jan. 12, 1983
+
+Pub. L. 97–449, § 7(b)
+
+96 Stat. 2444
+
+44704(a)(2)
+
+44704(b)
+
+44704(c)(1)
+
+44704(c)(2)
+
+Assessment
+
+Considerations
+
+Consultation
+
+Congressional Report
+
+Required Updates.—
+
+In general
+
+Requirements
+
+In General
+
+Composition
+
+Considerations
+
+Duties
+
+In General
+
+Surplus Military Aircraft
+
+Conforming Amendments to FAA Documents
+
+Savings Provision
+
+Definitions
+
+Covered aircraft
+
+Firefighters
+
+In general
+
+Application
+
+Savings provision
+
+In General
+
+Membership
+
+Availability
+
+Duties
+
+Documentation of FAA Response
+
+Report
+
+In General
+
+System Safety Assessments and Other Requirements
+
+Guidance
+
+FAA Review
+
+In General
+
+Prohibition
+
+Existing Airplane Designs
+
+In General
+
+Congressional Briefing
+
+Final Rule
+
+Annual Report
+
+Review and Reevaluation of Amended Type Certificates.—
+
+International leadership
+
+Reevaluation of amended type certificates
+
+Amended Type Certificate Report and Rulemaking.—
+
+Briefings
+
+Initiation of action
+
+Contents
+
+Guidance materials
+
+Training materials
+
+Certification management team defined
+
+Deadline
+
+International Leadership
+
+In general
+
+Contents
+
+Report and recommendations
+
+International engagement
+
+Termination
+
+Regulations
+
+Human Factors
+
+Requirements
+
+Implementation
+
+Authorization of Appropriations
+
+Pilot Operational Evaluations
+
+Requirement
+
+In General
+
+Consideration
+
+In General
+
+Objectives Described
+
+Consensus-Based Standards
+
+Safety Cooperation
+
+Definitions
+
+Consensus standards.—
+
+In general
+
+Organizations described
+
+Part 23
+
+Part 23 reorganization aviation rulemaking committee
+
+Small airplane
+
+In General
+
+Contents
+
+Recommendations
+
+Report to Congress
+
+Implementation of Recommendations
+
+Preservation of Documents.—
+
+In general
+
+Revision of order
+
+Consultation
+
+Availability of Documents.—
+
+Freedom of information act requests
+
+Trade secrets, commercial, and financial information
+
+Holder of Type Certificate.—
+
+Rights of holder
+
+Liability
+
+Airworthiness
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1188](https://www.govinfo.gov/link/statute/108/1188); [Pub. L. 104–264, title IV, § 403](https://www.govinfo.gov/link/plaw/104/public/264), Oct. 9, 1996, [110 Stat. 3256](https://www.govinfo.gov/link/statute/110/3256); [Pub. L. 108–176, title II, § 227(b)(2)](https://www.govinfo.gov/link/plaw/108/public/176), (e)(1), title VIII, § 811, Dec. 12, 2003, [117 Stat. 2531](https://www.govinfo.gov/link/statute/117/2531), 2532, 2590; [Pub. L. 109–59, title IV, § 4405](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1776](https://www.govinfo.gov/link/statute/119/1776); [Pub. L. 112–95, title III](https://www.govinfo.gov/link/plaw/112/public/95), §§ 302, 303(a), (c)(1), Feb. 14, 2012, [126 Stat. 56](https://www.govinfo.gov/link/statute/126/56), 57; [Pub. L. 115–254, div. B, title II, § 214](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3250](https://www.govinfo.gov/link/statute/132/3250); [Pub. L. 116–260, div. V, title I](https://www.govinfo.gov/link/plaw/116/public/260), §§ 105(a), (b), 110, 120, Dec. 27, 2020, [134 Stat. 2317](https://www.govinfo.gov/link/statute/134/2317), 2328, 2343; [Pub. L. 118–63, title III](https://www.govinfo.gov/link/plaw/118/public/63), §§ 306(c), 343(a), title XI, § 1101(k), May 16, 2024, [138 Stat. 1072](https://www.govinfo.gov/link/statute/138/1072), 1101, 1414.)*

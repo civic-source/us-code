@@ -3,9 +3,10 @@ title: "Section 1514 - Notification to foreign creditors concerning a case under
 usc_title: 11
 usc_section: "1514"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1514"
-generated_at: "2026-03-30T02:53:53.888Z"
+generated_at: "2026-11-23T21:25:34.977Z"
+status: "active"
 ---
 
 # § 1514. Notification to foreign creditors concerning a case under this title
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:53.888Z"
   - **(2)** indicate whether secured creditors need to file proofs of claim; and
   - **(3)** contain any other information required to be included in such notification to creditors under this title and the orders of the court.
 - **(d)** Any rule of procedure or order of the court as to notice or the filing of a proof of claim shall provide such additional time to creditors with foreign addresses as is reasonable under the circumstances.
+
+## Source Credit
+
+*(Added [Pub. L. 109–8, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 138](https://www.govinfo.gov/link/statute/119/138).)*

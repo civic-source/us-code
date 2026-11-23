@@ -3,9 +3,10 @@ title: "Section 4907 - Permissive terms in plans"
 usc_title: 7
 usc_section: "4907"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 4907"
-generated_at: "2026-03-30T02:53:42.412Z"
+generated_at: "2026-11-23T21:25:28.355Z"
+status: "active"
 ---
 
 # § 4907. Permissive terms in plans
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.412Z"
 - **(f)** The plan may provide authority for the accumulation of reserve funds from assessments collected under this chapter, to permit an effective and continuous coordinated program of research, development, advertising, and promotion in years when watermelon production and assessment income may be reduced, except that the total reserve fund may not exceed the amount budgeted for two years operation.
 - **(g)** The plan may provide for the use of funds from assessments collected under this chapter, with the approval of the Secretary, for the development and expansion of sales of watermelons in foreign markets.
 - **(h)** The plan may contain terms and conditions incidental to and not inconsistent with the terms and conditions specified in this chapter and necessary to effectuate the other provisions of the plan.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XVI, § 1648](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1625](https://www.govinfo.gov/link/statute/99/1625).)*

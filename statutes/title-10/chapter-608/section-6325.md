@@ -3,9 +3,10 @@ title: "Section 6325 - Notice-and-wait requirement applicable to certain third-p
 usc_title: 10
 usc_section: "6325"
 chapter: 608
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6325"
-generated_at: "2026-03-30T02:53:38.226Z"
+generated_at: "2026-11-23T21:25:32.828Z"
+status: "active"
 ---
 
 # § 6325. Notice-and-wait requirement applicable to certain third-party financing arrangements
@@ -18,3 +19,15 @@ generated_at: "2026-03-30T02:53:38.226Z"
   - **(2)** An arrangement referred to in subsection (a) does not include an arrangement that—
     - **(A)** involves the Department of Energy or a contractor acquiring or entering into a capital lease for office space, facilities, or other real property assets; or
     - **(B)** is entered into in connection with a capital improvement project undertaken as part of an energy savings performance contract under section 801 of the National Energy Conservation Policy Act ( 42 U.S.C. 8287 ).
+
+Notice-and-wait Requirement
+
+Covered Arrangements
+
+“In general”
+
+“Exception”
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2), Dec. 18, 2025, [139 Stat. 1443](https://www.govinfo.gov/link/statute/139/1443), 1462.)*

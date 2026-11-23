@@ -3,9 +3,10 @@ title: "Section 302i - Special pay: pharmacy officers"
 usc_title: 37
 usc_section: "302i"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 302i"
-generated_at: "2026-03-30T02:55:44.051Z"
+generated_at: "2026-11-23T21:26:14.192Z"
+status: "active"
 ---
 
 # § 302i. Special pay: pharmacy officers
@@ -18,3 +19,19 @@ generated_at: "2026-03-30T02:55:44.051Z"
   - **(2)** is on active duty under a call or order to active duty for a period of not less than one year.
 - **(c)** Special pay may not be paid under this section to an officer serving in a pay grade above pay grade O–6.
 - **(d)** The amount of retention special pay paid to an officer under this section may not exceed $15,000 for any 12-month period.
+
+Army, Navy, and Air Force Pharmacy Officers
+
+Public Health Service Corps
+
+Limitation on Eligibility for Special Pay
+
+Limitation on Amount of Special Pay
+
+on Eligibility for Special Pay
+
+Limitation
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title VI, § 628(a)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–154; amended [Pub. L. 107–314, div. A, title VI, § 615(g)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2569](https://www.govinfo.gov/link/statute/116/2569).)*

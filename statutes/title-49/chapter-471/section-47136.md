@@ -3,9 +3,10 @@ title: "Section 47136 - Zero-emission airport vehicles and infrastructure"
 usc_title: 49
 usc_section: "47136"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 47136"
-generated_at: "2026-03-30T02:56:19.405Z"
+generated_at: "2026-11-23T21:26:40.986Z"
+status: "active"
 ---
 
 # § 47136. Zero-emission airport vehicles and infrastructure
@@ -45,3 +46,71 @@ generated_at: "2026-03-30T02:56:19.405Z"
   - **(3)** The term “zero-emission vehicle” means—
     - **(A)** a zero-emission vehicle as defined in section 88.102–94 of title 40, Code of Federal Regulations; or
     - **(B)** a vehicle that produces zero exhaust emissions of any criteria pollutant (or precursor pollutant) under any possible operational modes and conditions.
+
+In General
+
+Eligibility
+
+Selection Criteria
+
+Federal Share
+
+Technical Assistance.—
+
+In general
+
+Providers of technical assistance
+
+Materials Identifying Best Practices
+
+Allowable Project Cost
+
+Flexible Procurement
+
+Testing Required.—
+
+In general
+
+Penalties for false statements
+
+Definitions
+
+Eligible zero-emission vehicle and equipment
+
+Removable power source
+
+Zero-emission vehicle
+
+Establishment
+
+General authority.—
+
+Assistance to nonprofit organizations
+
+Forms of assistance
+
+Selection of participants.—
+
+National solicitation
+
+Considerations
+
+Priority
+
+Eligible projects
+
+Administrative provisions.—
+
+Federal share
+
+Terms and conditions
+
+Definitions
+
+Eligible organization
+
+Organization
+
+## Source Credit
+
+*(Added [Pub. L. 112–95, title V, § 511(a)](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 107](https://www.govinfo.gov/link/statute/126/107), § 47136a; renumbered § 47136 and amended [Pub. L. 115–254, div. B, title I](https://www.govinfo.gov/link/plaw/115/public/254), §§ 166(b)(1), 192(a), Oct. 5, 2018, [132 Stat. 3226](https://www.govinfo.gov/link/statute/132/3226), 3239; [Pub. L. 118–63, title VII, § 722](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1265](https://www.govinfo.gov/link/statute/138/1265).)*

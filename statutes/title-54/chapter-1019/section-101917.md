@@ -3,9 +3,10 @@ title: "Section 101917 - Franchise fees"
 usc_title: 54
 usc_section: "101917"
 chapter: 1019
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "54 U.S.C. § 101917"
-generated_at: "2026-03-30T02:56:28.415Z"
+generated_at: "2026-11-23T21:26:42.770Z"
+status: "active"
 ---
 
 # § 101917. Franchise fees
@@ -16,3 +17,36 @@ generated_at: "2026-03-30T02:56:28.415Z"
   - **(1)** All franchise fees (and other monetary consideration) paid to the United States pursuant to concession contracts shall be deposited in a special account established in the Treasury. Twenty percent of the funds deposited in the special account shall be available for expenditure by the Secretary, without further appropriation, to support activities throughout the System regardless of the System unit in which the funds were collected. The funds deposited in the special account shall remain available until expended.
   - **(2)** There shall be established within the special account a subaccount for each System unit. Each subaccount shall be credited with 80 percent of the franchise fees (and other monetary consideration) collected at a single System unit under concession contracts. The funds credited to the subaccount for a System unit shall be available for expenditure by the Secretary, without further appropriation, for use at the System unit for visitor services and for purposes of funding high-priority and urgently necessary resource management programs and operations. The funds credited to a subaccount shall remain available until expended.
   - **(3)** The Secretary may reduce the percentage allocation otherwise applicable under paragraph (2) to a unit or area of the National Park Service for a fiscal year if the Secretary determines that the revenues collected at the unit or area exceed the reasonable needs of the unit or area for which expenditures may be made for that fiscal year. In no event may a percentage allocation be reduced below 60 percent.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 101917 | 16 U.S.C. 5956 . | Pub. L. 105–391, title IV, § 407 , Nov. 13, 1998 , 112 Stat. 3511 . |
+
+
+In General
+
+Provisions To Be Specified in Contract
+
+Special Account in Treasury.—
+
+Deposit and availability
+
+Subaccount for each system unit
+
+Reduction
+
+Historical and Revision Notes
+
+101917
+
+16 U.S.C. 5956
+
+Pub. L. 105–391, title IV, § 407
+
+Nov. 13, 1998
+
+112 Stat. 3511
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3146](https://www.govinfo.gov/link/statute/128/3146); [Pub. L. 118–42, div. E, title I, § 121](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 249](https://www.govinfo.gov/link/statute/138/249).)*

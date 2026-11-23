@@ -3,9 +3,10 @@ title: "Section 7705 - Certified professional employer organizations"
 usc_title: 26
 usc_section: "7705"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7705"
-generated_at: "2026-03-30T02:55:27.885Z"
+generated_at: "2026-11-23T21:26:07.017Z"
+status: "active"
 ---
 
 # § 7705. Certified professional employer organizations
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:55:27.885Z"
   - **(2)** each person whose certification as a professional employer organization is suspended or revoked under subsection (d).
 - **(g)** Except to the extent necessary for purposes of section 3511, nothing in this section shall be construed to affect the determination of who is an employee or employer for purposes of this title.
 - **(h)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 113–295, div. B, title II, § 206(b)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4067](https://www.govinfo.gov/link/statute/128/4067).)*

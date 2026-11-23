@@ -3,9 +3,10 @@ title: "Section 10341 - Findings"
 usc_title: 42
 usc_section: "10341"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10341"
-generated_at: "2026-03-30T02:56:11.386Z"
+generated_at: "2026-11-23T21:26:33.361Z"
+status: "active"
 ---
 
 # § 10341. Findings
@@ -18,3 +19,7 @@ The Congress finds that—
   - **(4)** it is necessary to provide for research into new techniques to reclaim waste water and to convert saline and other contaminated waters to a quality suitable for municipal, industrial, agricultural, recreational, and other beneficial uses;
   - **(5)** there is very little Federal funding being applied to basic research in the field of treatment of contaminated water through membrane processes; and
   - **(6)** the treatment of contaminated water through membrane processes will solve a wide variety of water treatment problems, including compliance with the Federal Water Pollution Control Act [ 33 U.S.C. 1251 et seq.] and the Safe Drinking Water Act [ 42 U.S.C. 300f et seq.].
+
+## Source Credit
+
+*([Pub. L. 102–490, § 2](https://www.govinfo.gov/link/plaw/102/public/490), Oct. 24, 1992, [106 Stat. 3142](https://www.govinfo.gov/link/statute/106/3142).)*

@@ -3,9 +3,10 @@ title: "Section 292a - Demonstration of solar and other renewable energy technol
 usc_title: 22
 usc_section: "292a"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 292a"
-generated_at: "2026-03-30T02:55:05.326Z"
+generated_at: "2026-11-23T21:25:58.380Z"
+status: "active"
 ---
 
 # § 292a. Demonstration of solar and other renewable energy technologies in foreign countries
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:05.326Z"
   - **(5)** In selecting projects under this section, the Secretary of State shall give priority to proj­ects to be implemented in developing countries.
 - **(c)** Whenever any building is constructed under the authority contained in section 292 of this title , the Secretary of State shall insure that the planning for such construction takes into account those renewable energy systems which are available in the country in which the building is to be constructed.
 - **(d)** In addition to amounts otherwise available for such purposes, $4,000,000 of the amount authorized to be appropriated by section 101(a)(1) of this Act shall be available only to carry out the purposes of this section.
+
+## Source Credit
+
+*([Pub. L. 95–426, title I, § 105](https://www.govinfo.gov/link/plaw/95/public/426), Oct. 7, 1978, [92 Stat. 965](https://www.govinfo.gov/link/statute/92/965).)*

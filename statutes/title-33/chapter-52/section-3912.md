@@ -3,9 +3,10 @@ title: "Section 3912 - Funding"
 usc_title: 33
 usc_section: "3912"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3912"
-generated_at: "2026-03-30T02:55:41.145Z"
+generated_at: "2026-11-23T21:26:11.493Z"
+status: "active"
 ---
 
 # § 3912. Funding
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:41.145Z"
     - **(A)** the total amount appropriated for the fiscal year for State loan funds under section 300j–12 of title 42 is less than either the amount made available for such purpose in fiscal year 2018, or 105 percent of the previous fiscal year’s appropriation for such purpose, whichever is greater; and
     - **(B)** the total amount appropriated for the fiscal year for water pollution control revolving funds under title VI of the Federal Water Pollution Control Act [ 33 U.S.C. 1381 et seq.] is less than either the amount made available for such purpose for fiscal year 2018, or 105 percent of the previous fiscal year’s appropriation for such purpose, whichever is greater.
   - **(3)** If the Administrator provides financial assistance to a State infrastructure financing authority under section 3908 of this title using funds made available pursuant to this subsection, the Administrator shall specify in the agreement under such section the amount of such assistance that is attributable to such funds.
+
+## Source Credit
+
+*([Pub. L. 113–121, title V, § 5033](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1342](https://www.govinfo.gov/link/statute/128/1342); [Pub. L. 115–270, title IV, § 4201(a)(4)](https://www.govinfo.gov/link/plaw/115/public/270), (b)(3), Oct. 23, 2018, [132 Stat. 3878](https://www.govinfo.gov/link/statute/132/3878), 3879; [Pub. L. 117–58, div. E, title II, § 50215(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1174](https://www.govinfo.gov/link/statute/135/1174).)*

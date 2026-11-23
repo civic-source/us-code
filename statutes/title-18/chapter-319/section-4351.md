@@ -3,9 +3,10 @@ title: "Section 4351 - Establishment; Advisory Board; appointment of members; co
 usc_title: 18
 usc_section: "4351"
 chapter: 319
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 4351"
-generated_at: "2026-03-30T02:54:16.529Z"
+generated_at: "2026-11-23T21:25:44.246Z"
+status: "active"
 ---
 
 # § 4351. Establishment; Advisory Board; appointment of members; compensation; officers; committees; delegation of powers; Director, appointment and powers 1 1 Section catchline editorially supplied.
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:16.529Z"
 - **(f)** The Board is authorized to appoint, without regard to the civil service laws, technical, or other advisory committees to advise the Institute with respect to the administration of this title as it deems appropriate. Members of these committees not otherwise employed by the United States, while engaged in advising the Institute or attending meetings of the committees, shall be entitled to receive compensation at the rate fixed by the Board but not to exceed the daily equivalent of the rate authorized for GS–18 by section 5332 of title 5 , United States Code, and while away from their homes or regular places of business may be allowed travel expenses, including per diem in lieu of subsistence equal to that authorized by section 5703 of title 5 , United States Code, for persons in the Government service employed intermittently.
 - **(g)** The Board is authorized to delegate its powers under this title to such persons as it deems appropriate.
 - **(h)** The Institute shall be under the supervision of an officer to be known as the Director, who shall be appointed by the Attorney General after consultation with the Board. The Director shall have authority to supervise the organization, employees, enrollees, financial affairs, and all other operations of the Institute and may employ such staff, faculty, and administrative personnel, subject to the civil service and classification laws, as are necessary to the functioning of the Institute. The Director shall have the power to acquire and hold real and personal property for the Institute and may receive gifts, donations, and trusts on behalf of the Institute. The Director shall also have the power to appoint such technical or other advisory councils comprised of consultants to guide and advise the Board. The Director is authorized to delegate his powers under this title to such persons as he deems appropriate.
+
+## Source Credit
+
+*(Added [Pub. L. 93–415, title V, § 521](https://www.govinfo.gov/link/plaw/93/public/415), Sept. 7, 1974, [88 Stat. 1139](https://www.govinfo.gov/link/statute/88/1139); amended [Pub. L. 95–115, § 8(a)](https://www.govinfo.gov/link/plaw/95/public/115), Oct. 3, 1977, [91 Stat. 1060](https://www.govinfo.gov/link/statute/91/1060); [Pub. L. 98–473, title II, § 223](https://www.govinfo.gov/link/plaw/98/public/473) (o), Oct. 12, 1984, [98 Stat. 2030](https://www.govinfo.gov/link/statute/98/2030); [Pub. L. 103–322, title XXXIII, § 330001(i)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2140](https://www.govinfo.gov/link/statute/108/2140).)*

@@ -3,9 +3,10 @@ title: "Section 6050P - Returns relating to the cancellation of indebtedness by 
 usc_title: 26
 usc_section: "6050P"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6050P"
-generated_at: "2026-03-30T02:55:27.834Z"
+generated_at: "2026-11-23T21:26:06.782Z"
+status: "active"
 ---
 
 # § 6050P. Returns relating to the cancellation of indebtedness by certain entities
@@ -29,3 +30,11 @@ generated_at: "2026-03-30T02:55:27.834Z"
   - **(1)** the name and address of the entity required to make such return, and
   - **(2)** the information required to be shown on the return with respect to such person.
 - **(e)** In lieu of making a return required under subsection (a), an agency described in subsection (c)(1)(A) may submit to the Secretary (at such time and in such form as the Secretary may by regulations prescribe) information sufficient for the Secretary to complete such a return on behalf of such agency. Upon receipt of such information, the Secretary shall complete such return and provide a copy of such return to such agency.
+
+In general
+
+Governmental entities
+
+## Source Credit
+
+*(Added [Pub. L. 103–66, title XIII, § 13252(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 531](https://www.govinfo.gov/link/statute/107/531); amended [Pub. L. 104–134, title III, § 31001(m)(2)(A)](https://www.govinfo.gov/link/plaw/104/public/134) –(D)(ii), Apr. 26, 1996, [110 Stat. 1321–368](https://www.govinfo.gov/link/statute/110/1321), 1321–369; [Pub. L. 106–170, title V, § 533(a)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1931](https://www.govinfo.gov/link/statute/113/1931).)*

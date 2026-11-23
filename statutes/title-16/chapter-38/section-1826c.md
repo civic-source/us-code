@@ -3,9 +3,10 @@ title: "Section 1826c - Definitions"
 usc_title: 16
 usc_section: "1826c"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1826c"
-generated_at: "2026-03-30T02:54:22.985Z"
+generated_at: "2026-11-23T21:25:51.917Z"
+status: "active"
 ---
 
 # § 1826c. Definitions
@@ -19,3 +20,7 @@ In sections 1826a to 1826c of this title, the following definitions apply:
   - **(3)** The term “large-scale driftnet fishing vessel” means any vessel which is—
     - **(A)** used for, equipped to be used for, or of a type which is normally used for large-scale driftnet fishing; or
     - **(B)** used for aiding or assisting one or more vessels at sea in the performance of large-scale driftnet fishing, including preparation, supply, storage, refrigeration, transportation, or processing.
+
+## Source Credit
+
+*([Pub. L. 102–582, title I, § 104](https://www.govinfo.gov/link/plaw/102/public/582), Nov. 2, 1992, [106 Stat. 4903](https://www.govinfo.gov/link/statute/106/4903).)*

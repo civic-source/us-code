@@ -3,12 +3,17 @@ title: "Section 15834 - Report on failure to comply with deadlines for new or re
 usc_title: 42
 usc_section: "15834"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15834"
-generated_at: "2026-03-30T02:56:11.461Z"
+generated_at: "2026-11-23T21:26:33.676Z"
+status: "active"
 ---
 
 # § 15834. Report on failure to comply with deadlines for new or revised energy conservation standards
 
 - **(a)** The Secretary shall submit a report to Congress regarding each new or revised energy conservation or water use standard which the Secretary has failed to issue in conformance with the deadlines established in the Energy Policy and Conservation Act [ 42 U.S.C. 6201 et seq.]. Such report shall state the reasons why the Secretary has failed to comply with the deadline for issuances of the new or revised standard and set forth the Secretary’s plan for expeditiously prescribing such new or revised standard. The Secretary’s initial report shall be submitted not later than 6 months following August 8, 2005 , and subsequent reports shall be submitted whenever the Secretary determines that additional deadlines for issuance of new or revised standards have been missed.
 - **(b)** Every 6 months following the submission of a report under subsection (a) until the adoption of a new or revised standard described in such report, the Secretary shall submit to the Congress an implementation report describing the Secretary’s progress in implementing the Secretary’s plan or the issuance of the new or revised standard.
+
+## Source Credit
+
+*([Pub. L. 109–58, title I, § 141](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 648](https://www.govinfo.gov/link/statute/119/648).)*

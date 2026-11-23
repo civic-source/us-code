@@ -3,9 +3,10 @@ title: "Section 8813 - Subcommittee on Quantum Information Science"
 usc_title: 15
 usc_section: "8813"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8813"
-generated_at: "2026-03-30T02:54:08.234Z"
+generated_at: "2026-11-23T21:25:40.096Z"
+status: "active"
 ---
 
 # § 8813. Subcommittee on Quantum Information Science
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:54:08.234Z"
     - **(D)** An assessment of the relative position of the United States with respect to other countries in the global race to develop, demonstrate, and utilize quantum networking and communications technology.
     - **(E)** Recommendations to Congress for legislative action relating to the matters considered under subparagraphs (A), (B), (C), and (D).
     - **(F)** Such other matters as the Quantum Network Working Group considers necessary to advance the security of communications and network infrastructure, remain at the forefront of scientific discovery in the quantum information science domain, and transition quantum information science research into the emerging quantum technology economy.
+
+## Source Credit
+
+*([Pub. L. 115–368, title I, § 103](https://www.govinfo.gov/link/plaw/115/public/368), Dec. 21, 2018, [132 Stat. 5095](https://www.govinfo.gov/link/statute/132/5095); [Pub. L. 117–167, div. B, title VI, § 10661(b)(1)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1683](https://www.govinfo.gov/link/statute/136/1683).)*

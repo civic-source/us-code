@@ -3,9 +3,10 @@ title: "Section 1635 - Right of rescission as to certain transactions"
 usc_title: 15
 usc_section: "1635"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1635"
-generated_at: "2026-03-30T02:54:08.139Z"
+generated_at: "2026-11-23T21:25:39.841Z"
+status: "active"
 ---
 
 # § 1635. Right of rescission as to certain transactions
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:08.139Z"
   - **(2)** Notwithstanding section 1605(f) of this title , and subject to the time period provided in subsection (f), for the purposes of exercising any rescission rights after the initiation of any judicial or nonjudicial foreclosure process on the principal dwelling of the obligor securing an extension of credit, the disclosure of the finance charge and other disclosures affected by any finance charge shall be treated as being accurate for purposes of this section if the amount disclosed as the finance charge does not vary from the actual finance charge by more than $35 or is greater than the amount required to be disclosed under this subchapter.
   - **(3)** Nothing in this subsection affects a consumer’s right of rescission in recoupment under State law.
   - **(4)** This subsection shall apply to all consumer credit transactions in existence or consummated on or after September 30, 1995 .
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 125](https://www.govinfo.gov/link/plaw/90/public/321), May 29, 1968, [82 Stat. 153](https://www.govinfo.gov/link/statute/82/153); [Pub. L. 93–495, title IV](https://www.govinfo.gov/link/plaw/93/public/495), §§ 404, 405, 412, Oct. 28, 1974, [88 Stat. 1517](https://www.govinfo.gov/link/statute/88/1517), 1519; [Pub. L. 96–221, title VI, § 612(a)(1)](https://www.govinfo.gov/link/plaw/96/public/221), (3)–(6), Mar. 31, 1980, [94 Stat. 175](https://www.govinfo.gov/link/statute/94/175), 176; [Pub. L. 98–479, title II, § 205](https://www.govinfo.gov/link/plaw/98/public/479), Oct. 17, 1984, [98 Stat. 2234](https://www.govinfo.gov/link/statute/98/2234); [Pub. L. 104–29](https://www.govinfo.gov/link/plaw/104/public/29), §§ 5, 8, Sept. 30, 1995, [109 Stat. 274](https://www.govinfo.gov/link/statute/109/274), 275; [Pub. L. 111–203, title X, § 1100A(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2107](https://www.govinfo.gov/link/statute/124/2107).)*

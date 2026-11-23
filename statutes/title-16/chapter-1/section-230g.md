@@ -3,9 +3,10 @@ title: "Section 230g - Authorization of appropriations; general management plan;
 usc_title: 16
 usc_section: "230g"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 230g"
-generated_at: "2026-03-30T02:54:22.744Z"
+generated_at: "2026-11-23T21:25:51.397Z"
+status: "active"
 ---
 
 # § 230g. Authorization of appropriations; general management plan; submission to Congressional committees
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:22.744Z"
   - **(2)** the number of visitors and types of public use within the park which can be accommodated in accordance with the protection of its resources;
   - **(3)** the location and estimated cost of facilities deemed necessary to accommodate such visitors and uses; and
   - **(4)** a statement setting forth the actions which have been and should be taken to assure appropriate protection, interpretation, and management of the areas known as Big Oak Island and Couba Island.
+
+## Source Credit
+
+*([Pub. L. 95–625, title IX, § 908](https://www.govinfo.gov/link/plaw/95/public/625), Nov. 10, 1978, [92 Stat. 3537](https://www.govinfo.gov/link/statute/92/3537).)*

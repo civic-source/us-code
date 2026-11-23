@@ -3,9 +3,10 @@ title: "Section 4806 - Powers of Council"
 usc_title: 15
 usc_section: "4806"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4806"
-generated_at: "2026-03-30T02:54:08.204Z"
+generated_at: "2026-11-23T21:25:40.007Z"
+status: "active"
 ---
 
 # § 4806. Powers of Council
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:08.204Z"
   - **(6)** Any discussion held by any subcouncil shall not be subject to the provisions of chapter 10 of title 5, except that a Federal representative shall attend all subcouncil meetings.
   - **(7)** Any subcouncil shall terminate 30 days after making recommendations, unless the Council specifically requests that the subcouncil continue in operation.
 - **(h)** The provisions of subsections (e) and (f) of section 1009 of title 5 shall not apply to the Council.
+
+## Source Credit
+
+*([Pub. L. 100–418, title V, § 5207](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1459](https://www.govinfo.gov/link/statute/102/1459); [Pub. L. 101–382, title I, § 133(c)](https://www.govinfo.gov/link/plaw/101/public/382), Aug. 20, 1990, [104 Stat. 649](https://www.govinfo.gov/link/statute/104/649); [Pub. L. 117–286, § 4(a)(74)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4314](https://www.govinfo.gov/link/statute/136/4314).)*

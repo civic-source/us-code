@@ -3,12 +3,17 @@ title: "Section 2814 - Policies and protocol"
 usc_title: 25
 usc_section: "2814"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2814"
-generated_at: "2026-03-30T02:54:52.845Z"
+generated_at: "2026-11-23T21:25:54.679Z"
+status: "active"
 ---
 
 # § 2814. Policies and protocol
 
 The Director of the Indian Health Service, in coordination with the Director of the Office of Justice Services and the Director of the Office on Violence Against Women of the Department of Justice, in consultation with Indian Tribes and Tribal Organizations, and in conference with Urban Indian Organizations, shall develop standardized sexual assault policies and protocol for the facilities of the Service, based on similar protocol that has been established by the Department of Justice.
 
+
+## Source Credit
+
+*([Pub. L. 101–379, § 17](https://www.govinfo.gov/link/plaw/101/public/379), as added [Pub. L. 111–211, title II, § 265](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2300](https://www.govinfo.gov/link/statute/124/2300).)*

@@ -3,12 +3,17 @@ title: "Section 64 - Unfair methods of competition in export trade"
 usc_title: 15
 usc_section: "64"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 64"
-generated_at: "2026-03-30T02:54:08.028Z"
+generated_at: "2026-11-23T21:25:39.490Z"
+status: "active"
 ---
 
 # § 64. Unfair methods of competition in export trade
 
 The prohibition against “unfair methods of competition” and the remedies provided for enforcing said prohibition contained in the Federal Trade Commission Act [ 15 U.S.C. 41 et seq.] shall be construed as extending to unfair methods of competition used in export trade against competitors engaged in export trade, even though the acts constituting such unfair methods are done without the territorial jurisdiction of the United States.
 
+
+## Source Credit
+
+*(Apr. 10, 1918, ch. 50, § 4, [40 Stat. 517](https://www.govinfo.gov/link/statute/40/517).)*

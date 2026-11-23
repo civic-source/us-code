@@ -3,9 +3,10 @@ title: "Section 464 - Exemptions"
 usc_title: 21
 usc_section: "464"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 464"
-generated_at: "2026-03-30T02:54:54.286Z"
+generated_at: "2026-11-23T21:25:56.202Z"
+status: "active"
 ---
 
 # § 464. Exemptions
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:54.286Z"
   - **(2)** The Secretary may withdraw or modify any exemption under this subsection whenever the Secretary determines such action is necessary to ensure food safety and to protect public health. The Secretary may reinstate or further modify any exemption withdrawn or modified under this subsection.
 - **(e)** The adulteration and misbranding provisions of this chapter, other than the requirement of the inspection legend, shall apply to articles which are exempted from inspection under this section, except as otherwise specified under paragraphs (a) and (d).
 - **(f)** The Secretary may by order suspend or terminate any exemption under this section with respect to any person whenever he finds that such action will aid in effectuating the purposes of this chapter.
+
+## Source Credit
+
+*([Pub. L. 85–172, § 15](https://www.govinfo.gov/link/plaw/85/public/172), Aug. 28, 1957, [71 Stat. 447](https://www.govinfo.gov/link/statute/71/447); [Pub. L. 90–492, § 14](https://www.govinfo.gov/link/plaw/90/public/492), Aug. 18, 1968, [82 Stat. 803](https://www.govinfo.gov/link/statute/82/803); [Pub. L. 97–206](https://www.govinfo.gov/link/plaw/97/public/206), June 30, 1982, [96 Stat. 136](https://www.govinfo.gov/link/statute/96/136); [Pub. L. 102–237, title X, § 1016(b)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1903](https://www.govinfo.gov/link/statute/105/1903).)*

@@ -3,9 +3,10 @@ title: "Section 3905 - Importing and exporting authorities"
 usc_title: 19
 usc_section: "3905"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 3905"
-generated_at: "2026-03-30T02:54:24.698Z"
+generated_at: "2026-11-23T21:25:42.868Z"
+status: "active"
 ---
 
 # § 3905. Importing and exporting authorities
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:24.698Z"
   - **(1)** the importing authority shall be the United States Bureau of Customs and Border Protection or, in the case of a territory or possession of the United States with its own customs administration, analogous officials; and
   - **(2)** the exporting authority shall be the Bureau of the Census.
 - **(b)** The President shall publish in the Federal Register a list of all Participants, and all exporting authorities and importing authorities of Participants. The President shall update the list as necessary.
+
+## Source Credit
+
+*([Pub. L. 108–19, § 6](https://www.govinfo.gov/link/plaw/108/public/19), Apr. 25, 2003, [117 Stat. 634](https://www.govinfo.gov/link/statute/117/634).)*

@@ -3,9 +3,10 @@ title: "Section 357 - Assumption of liability"
 usc_title: 26
 usc_section: "357"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 357"
-generated_at: "2026-03-30T02:55:27.667Z"
+generated_at: "2026-11-23T21:26:06.151Z"
+status: "active"
 ---
 
 # § 357. Assumption of liability
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:27.667Z"
     - **(A)** the amount of such liability which an owner of other assets not transferred to the transferee and also subject to such liability has agreed with the transferee to, and is expected to, satisfy; or
     - **(B)** the fair market value of such other assets (determined without regard to section 7701(g)).
   - **(3)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection and section 362(d). The Secretary may also prescribe regulations which provide that the manner in which a liability is treated as assumed under this subsection is applied, where appropriate, elsewhere in this title.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 116; June 29, 1956, ch. 463, § 2, [70 Stat. 403](https://www.govinfo.gov/link/statute/70/403); [Pub. L. 95–600, title III, § 365(a)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2854](https://www.govinfo.gov/link/statute/92/2854); [Pub. L. 96–222, title I, § 103(a)(12)](https://www.govinfo.gov/link/plaw/96/public/222), Apr. 1, 1980, [94 Stat. 213](https://www.govinfo.gov/link/statute/94/213); [Pub. L. 96–589, § 4(h)(2)](https://www.govinfo.gov/link/plaw/96/public/589), Dec. 24, 1980, [94 Stat. 3405](https://www.govinfo.gov/link/statute/94/3405); [Pub. L. 101–508, title XI, § 11801(c)(8)(F)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–524](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 106–36, title III, § 3001(a)(1)](https://www.govinfo.gov/link/plaw/106/public/36), (b)(1), (d)(2)–(5), June 25, 1999, [113 Stat. 181–184](https://www.govinfo.gov/link/statute/113/181); [Pub. L. 106–554, § 1(a)(7) [title III, § 309(b)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–638; [Pub. L. 108–357, title VIII, § 898(b)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1649](https://www.govinfo.gov/link/statute/118/1649); [Pub. L. 109–135, title IV, § 403(jj)(2)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2632](https://www.govinfo.gov/link/statute/119/2632).)*

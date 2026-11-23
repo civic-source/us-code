@@ -3,9 +3,10 @@ title: "Section 6313 - Eligible school attendance areas"
 usc_title: 20
 usc_section: "6313"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6313"
-generated_at: "2026-03-30T02:54:48.194Z"
+generated_at: "2026-11-23T21:25:47.495Z"
+status: "active"
 ---
 
 # § 6313. Eligible school attendance areas
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:54:48.194Z"
         - **(II)** transportation pursuant to section 11432(g)(1)(J)(iii) of such title.
   - **(4)** A local educational agency may reserve such funds as are necessary from those funds received by the local educational agency under subchapter II, and not more than 5 percent of those funds received by the local educational agency under subpart 2 of this part, to provide financial incentives and rewards to teachers who serve in schools eligible under this section and identified for comprehensive support and improvement activities or targeted support and improvement activities under section 6311(d) of this title for the purpose of attracting and retaining qualified and effective teachers.
   - **(5)** A local educational agency may reserve funds made available to carry out this section to provide early childhood education programs for eligible children.
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1113](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1469](https://www.govinfo.gov/link/statute/115/1469); amended [Pub. L. 114–95, title I, § 1007](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1859](https://www.govinfo.gov/link/statute/129/1859).)*

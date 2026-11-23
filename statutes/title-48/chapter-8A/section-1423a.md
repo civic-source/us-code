@@ -3,9 +3,10 @@ title: "Section 1423a - Power of legislature; limitation on indebtedness of Guam
 usc_title: 48
 usc_section: "1423a"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1423a"
-generated_at: "2026-03-30T02:56:14.585Z"
+generated_at: "2026-11-23T21:26:37.997Z"
+status: "active"
 ---
 
 # § 1423a. Power of legislature; limitation on indebtedness of Guam; bond issues; guarantees for purchase by Federal Financing Bank of Guam Power Authority bonds or other obligations; interest rates; default
@@ -16,3 +17,7 @@ The legislative power of Guam shall extend to all rightful subjects of legislati
 - **(b)** maturity of obligations no later than December 31, 2004 ;
 - **(c)** authority for the Secretary, should there be a violation of a provision of this legislation, or covenants or stipulations contained in the refinancing document and after giving sixty days notice of such violation to the Guam Power Authority and the Governor of Guam, to dismiss members of the Board of Directors or the general manager of the Guam Power Authority, and (1) appoint in their place members or a general manager who shall serve at the pleasure of the Secretary, or (2) contract for the management of the Guam Power Authority; and
 - **(d)** an annual simple interest rate of seven per centum; and
+
+## Source Credit
+
+*(Aug. 1, 1950, ch. 512, § 11, [64 Stat. 387](https://www.govinfo.gov/link/statute/64/387); [Pub. L. 94–395](https://www.govinfo.gov/link/plaw/94/public/395), Sept. 3, 1976, [90 Stat. 1199](https://www.govinfo.gov/link/statute/90/1199); [Pub. L. 96–205, title III, § 303](https://www.govinfo.gov/link/plaw/96/public/205), Mar. 12, 1980, [94 Stat. 88](https://www.govinfo.gov/link/statute/94/88); [Pub. L. 98–454, title II, § 203](https://www.govinfo.gov/link/plaw/98/public/454), Oct. 5, 1984, [98 Stat. 1733](https://www.govinfo.gov/link/statute/98/1733); [Pub. L. 105–291, § 4](https://www.govinfo.gov/link/plaw/105/public/291), Oct. 27, 1998, [112 Stat. 2786](https://www.govinfo.gov/link/statute/112/2786).)*

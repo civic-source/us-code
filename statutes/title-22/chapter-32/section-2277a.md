@@ -3,9 +3,10 @@ title: "Section 2277a - Targeted sanctions to fight corruption in El Salvador, G
 usc_title: 22
 usc_section: "2277a"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2277a"
-generated_at: "2026-03-30T02:55:05.353Z"
+generated_at: "2026-11-23T21:25:58.452Z"
+status: "active"
 ---
 
 # § 2277a. Targeted sanctions to fight corruption in El Salvador, Guatemala,, 1 1 So in original. Honduras, and Nicaragua
@@ -40,3 +41,9 @@ generated_at: "2026-03-30T02:55:05.353Z"
 - **(h)** In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committee on Foreign Relations and the Committee on the Judiciary of the Senate;
   - **(2)** the Committee on Foreign Affairs and the Committee on the Judiciary of the House of Representatives.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. FF, title III, § 353](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3129](https://www.govinfo.gov/link/statute/134/3129); [Pub. L. 117–54, § 7](https://www.govinfo.gov/link/plaw/117/public/54), Nov. 10, 2021, [135 Stat. 418](https://www.govinfo.gov/link/statute/135/418).)*

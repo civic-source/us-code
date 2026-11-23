@@ -3,9 +3,10 @@ title: "Section 4 - Determinations regarding contraction of covered illnesses"
 usc_title: 42
 usc_section: "4"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-30T02:56:11.293Z"
+generated_at: "2026-11-23T21:26:33.073Z"
+status: "active"
 ---
 
 # § 7385s–4. Determinations regarding contraction of covered illnesses
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.293Z"
     - **(B)** it is at least as likely as not that the exposure to such toxic substance was related to employment at a Department of Energy facility.
   - **(2)** A determination under paragraph (1) shall be made by the Secretary.
 - **(d)** If a spouse or child of a Department of Energy contractor employee applies for benefits under this part, the Secretary shall make a determination under this section with respect to that employee without regard to whether the spouse is a “covered spouse”, or the child is a “covered child”, under this part.
+
+## Source Credit
+
+*([Pub. L. 106–398, § 1 [div. C, title XXXVI, § 3675]](https://www.govinfo.gov/link/plaw/106/public/398), as added [Pub. L. 108–375, div. C, title XXXI, § 3161](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2181](https://www.govinfo.gov/link/statute/118/2181).)*

@@ -3,9 +3,10 @@ title: "Section 9627 - Recycling transactions"
 usc_title: 42
 usc_section: "9627"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9627"
-generated_at: "2026-03-30T02:56:11.362Z"
+generated_at: "2026-11-23T21:26:33.266Z"
+status: "active"
 ---
 
 # § 9627. Recycling transactions
@@ -59,3 +60,9 @@ generated_at: "2026-03-30T02:56:11.362Z"
 - **(l)** Nothing in this section shall be construed to—
   - **(1)** affect any defenses or liabilities of any person to whom subsection (a)(1) does not apply; or
   - **(2)** create any presumption of liability against any person to whom subsection (a)(1) does not apply.
+
+“The purposes of this section [enacting this section] are—
+
+## Source Credit
+
+*([Pub. L. 96–510, title I, § 127](https://www.govinfo.gov/link/plaw/96/public/510), as added [Pub. L. 106–113, div. B, § 1000(a)(9) [title VI, § 6001(b)(1)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–599.)*

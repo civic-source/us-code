@@ -3,9 +3,10 @@ title: "Section 1784A - Examination and treatment for emergency medical conditio
 usc_title: 38
 usc_section: "1784A"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1784A"
-generated_at: "2026-03-30T02:55:53.488Z"
+generated_at: "2026-11-23T21:26:16.666Z"
+status: "active"
 ---
 
 # § 1784A. Examination and treatment for emergency medical conditions and women in labor
@@ -62,3 +63,17 @@ generated_at: "2026-03-30T02:55:53.488Z"
   - **(4)** The term “transfer” means the movement (including the discharge) of an individual outside the facilities of a hospital of the Department at the direction of any person employed by (or affiliated or associated, directly or indirectly, with) the hospital, but does not include such a movement of an individual who—
     - **(A)** has been declared dead; or
     - **(B)** leaves the facility without the permission of any such person.
+
+In General
+
+Necessary Stabilizing Treatment for Emergency Medical Conditions and Labor
+
+Restricting Transfers Until Individual Stabilized
+
+Payment to the Department
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 114–315, title VI, § 606(a)](https://www.govinfo.gov/link/plaw/114/public/315), Dec. 16, 2016, [130 Stat. 1572](https://www.govinfo.gov/link/statute/130/1572).)*

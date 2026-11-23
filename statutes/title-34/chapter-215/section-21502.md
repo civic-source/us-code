@@ -3,9 +3,10 @@ title: "Section 21502 - Definitions"
 usc_title: 34
 usc_section: "21502"
 chapter: 215
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 21502"
-generated_at: "2026-03-30T02:55:33.304Z"
+generated_at: "2026-11-23T21:26:09.811Z"
+status: "active"
 ---
 
 # § 21502. Definitions
@@ -33,3 +34,7 @@ In this chapter:
     - **(A)** The term “sex offense against a minor” means a specified offense against a minor, as defined in section 111 of the Adam Walsh Child Protection and Safety Act of 2006 ( 42 U.S.C. 16911 ). 1
     - **(B)** The term “sex offense against a minor” includes a sex offense described in section 111(5)(A) of the Adam Walsh Child Protection and Safety Act of 2006 ( 42 U.S.C. 16911(5)(A) ) 1 that is a specified offense against a minor, as defined in paragraph (7) of such section, or an attempt or conspiracy to commit such an offense.
     - **(C)** The limitations contained in subparagraphs (B) and (C) of section 111(5) of the Adam Walsh Child Protection and Safety Act of 2006 ( 42 U.S.C. 16911(5) ) 1 shall apply with respect to a sex offense against a minor for purposes of this chapter to the same extent and in the same manner as such limitations apply with respect to a sex offense for purposes of the Adam Walsh Child Protection and Safety Act of 2006 [ 34 U.S.C. 20901 et seq.].
+
+## Source Credit
+
+*([Pub. L. 114–119, § 3](https://www.govinfo.gov/link/plaw/114/public/119), Feb. 8, 2016, [130 Stat. 16](https://www.govinfo.gov/link/statute/130/16).)*

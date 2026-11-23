@@ -3,9 +3,10 @@ title: "Section 2335 - Coastal aquatic habitat management"
 usc_title: 33
 usc_section: "2335"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2335"
-generated_at: "2026-03-30T02:55:41.126Z"
+generated_at: "2026-11-23T21:26:11.450Z"
+status: "active"
 ---
 
 # § 2335. Coastal aquatic habitat management
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:41.126Z"
 - **(c)** The Federal share of the cost of measures undertaken under this section shall not exceed 65 percent.
 - **(d)** The non-Federal share of operation and maintenance costs for projects constructed with assistance provided under this section shall be 100 percent.
 - **(e)** There is authorized to be appropriated to carry out this section $7,000,000 for the period beginning with fiscal year 2000.
+
+## Source Credit
+
+*([Pub. L. 106–53, title V, § 559](https://www.govinfo.gov/link/plaw/106/public/53), Aug. 17, 1999, [113 Stat. 354](https://www.govinfo.gov/link/statute/113/354).)*

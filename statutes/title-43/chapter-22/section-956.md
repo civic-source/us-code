@@ -3,12 +3,17 @@ title: "Section 956 - Right of way for tramroads, canals, or reservoirs"
 usc_title: 43
 usc_section: "956"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 956"
-generated_at: "2026-03-30T02:55:57.466Z"
+generated_at: "2026-11-23T21:26:19.817Z"
+status: "active"
 ---
 
 # § 956. Right of way for tramroads, canals, or reservoirs
 
 The Secretary of the Interior is authorized and empowered, under general regulations to be fixed by him, to permit the use of the right of way through the public lands of the United States, not within the limits of any national forest, park, military or Indian reservation, for tramroads, canals, or reservoirs to the extent of the ground occupied by the water of the canals and reservoirs and fifty feet on each side of the marginal limits thereof, or fifty feet on each side of the center line of the tramroad, by any citizen or any association of citizens of the United States engaged in the business of mining or quarrying or of cutting timber and manufacturing lumber or for the purposes of furnishing water for domestic, public, and other beneficial uses.
 
+
+## Source Credit
+
+*(Jan. 21, 1895, ch. 37, § 1, [28 Stat. 635](https://www.govinfo.gov/link/statute/28/635); May 11, 1898, ch. 292, § 1, [30 Stat. 404](https://www.govinfo.gov/link/statute/30/404); Mar. 4, 1907, ch. 2907, [34 Stat. 1269](https://www.govinfo.gov/link/statute/34/1269).)*

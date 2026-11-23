@@ -3,9 +3,10 @@ title: "Section 831 - Additional requirements relating to online pharmacies and 
 usc_title: 21
 usc_section: "831"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 831"
-generated_at: "2026-03-30T02:54:54.294Z"
+generated_at: "2026-11-23T21:25:56.239Z"
+status: "active"
 ---
 
 # § 831. Additional requirements relating to online pharmacies and telemedicine
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:54:54.294Z"
   - **(1)** Any practitioner issuing a prescription for a controlled substance under the authorization to conduct telemedicine during a medical emergency situation described in section 802(54)(F) of this title shall report to the Secretary of Veterans Affairs the authorization of that emergency prescription, in accordance with such requirements as the Secretary of Veterans Affairs shall, by regulation, establish.
   - **(2)** Not later than 30 days after the date that a prescription described in subparagraph (A) is issued, the Secretary of Veterans Affairs shall report to the Attorney General the authorization of that emergency prescription.
 - **(j)** Any transfer between pharmacies of information relating to a prescription for a controlled substance shall meet the applicable requirements under regulations promulgated by the Attorney General under this chapter.
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 311](https://www.govinfo.gov/link/plaw/91/public/513), as added [Pub. L. 110–425, § 3(d)(1)](https://www.govinfo.gov/link/plaw/110/public/425), Oct. 15, 2008, [122 Stat. 4825](https://www.govinfo.gov/link/statute/122/4825); amended [Pub. L. 115–271, title III, § 3232](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 3950](https://www.govinfo.gov/link/statute/132/3950); [Pub. L. 117–215, title I, § 103(b)(1)(F)](https://www.govinfo.gov/link/plaw/117/public/215), Dec. 2, 2022, [136 Stat. 2263](https://www.govinfo.gov/link/statute/136/2263).)*

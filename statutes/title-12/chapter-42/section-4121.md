@@ -3,9 +3,10 @@ title: "Section 4121 - Definitions of qualified and priority purchaser and relat
 usc_title: 12
 usc_section: "4121"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4121"
-generated_at: "2026-03-30T02:53:53.502Z"
+generated_at: "2026-11-23T21:25:37.167Z"
+status: "active"
 ---
 
 # § 4121. Definitions of qualified and priority purchaser and related party rule
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:53.502Z"
 - **(b)** The term “qualified purchaser” means any entity that agrees to maintain low-income affordability restrictions for the remaining useful life of the housing (as determined under section 4112(c) of this title ), and includes for-profit entities and priority purchasers.
 - **(c)** Except as provided in subsection (d), the terms “qualified purchaser” and “priority purchaser” do not include any entity that, either directly or indirectly, is wholly or partially owned or controlled by the owner of the housing being transferred under this subchapter, is under whole or partial common control with such owner, or has any financial interest in such owner or in which such owner has any financial interest. The Secretary shall issue any regulations appropriate to implement the preceding sentence.
 - **(d)** A qualified purchaser shall not be precluded from retaining as a property management entity a company that is owned or controlled by the selling owner or a principal thereof if retention of the management company is neither a condition of sale nor part of consideration paid for sale and the property management contract is negotiated by the qualified purchaser on an arm’s length basis.
+
+## Source Credit
+
+*([Pub. L. 100–242, title II, § 231](https://www.govinfo.gov/link/plaw/100/public/242), as added [Pub. L. 101–625, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4273](https://www.govinfo.gov/link/statute/104/4273); amended [Pub. L. 102–550, title III, § 317(a)(6)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3772](https://www.govinfo.gov/link/statute/106/3772).)*

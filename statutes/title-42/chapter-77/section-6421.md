@@ -3,9 +3,10 @@ title: "Section 6421 - Procedure for Congressional review of Presidential reques
 usc_title: 42
 usc_section: "6421"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6421"
-generated_at: "2026-03-30T02:56:11.261Z"
+generated_at: "2026-11-23T21:26:32.956Z"
+status: "active"
 ---
 
 # § 6421. Procedure for Congressional review of Presidential requests to implement certain authorities
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:56:11.261Z"
     - **(A)** Motions to postpone, made with respect to the discharge from committee, or the consideration of a resolution and motions to proceed to the consideration of other business, shall be decided without debate.
     - **(B)** Appeals from the decision of the Chair relating to the application of the rules of the Senate or the House of Representatives, as the case may be, to the procedure relating to a resolution shall be decided without debate.
   - **(7)** Notwithstanding any of the provisions of this subsection, if a House has approved a resolution with respect to an energy action, then it shall not be in order to consider in that House any other resolution with respect to the same such action.
+
+## Source Credit
+
+*([Pub. L. 94–163, title V, § 551](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 965](https://www.govinfo.gov/link/statute/89/965).)*

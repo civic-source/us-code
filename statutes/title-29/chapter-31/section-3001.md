@@ -3,9 +3,10 @@ title: "Section 3001 - Purposes"
 usc_title: 29
 usc_section: "3001"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3001"
-generated_at: "2026-03-30T02:55:18.746Z"
+generated_at: "2026-11-23T21:26:02.319Z"
+status: "active"
 ---
 
 # § 3001. Purposes
@@ -21,3 +22,7 @@ The purposes of this chapter are to—
     - **(F)** increase the awareness and facilitate the change of laws, regulations, policies, practices, procedures, and organizational structures that facilitate the availability or provision of assistive technology devices and assistive technology services; and
     - **(G)** increase awareness and knowledge of the benefits of assistive technology devices and assistive technology services among targeted individuals and entities and the general population; and
   - **(2)** to 1 provide States and protection and advocacy systems with financial assistance that supports programs designed to maximize the ability of individuals with disabilities and their family members, guardians, advocates, and authorized representatives to obtain assistive technology devices and assistive technology services.
+
+## Source Credit
+
+*([Pub. L. 105–394, § 2](https://www.govinfo.gov/link/plaw/105/public/394), Nov. 13, 1998, [112 Stat. 3628](https://www.govinfo.gov/link/statute/112/3628); [Pub. L. 108–364, § 2](https://www.govinfo.gov/link/plaw/108/public/364), Oct. 25, 2004, [118 Stat. 1707](https://www.govinfo.gov/link/statute/118/1707); [Pub. L. 117–263, div. E, title LIV, § 5402](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3260](https://www.govinfo.gov/link/statute/136/3260).)*

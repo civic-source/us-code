@@ -3,9 +3,10 @@ title: "Section 12615 - National Civilian Community Corps"
 usc_title: 42
 usc_section: "12615"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12615"
-generated_at: "2026-03-30T02:56:11.420Z"
+generated_at: "2026-11-23T21:26:33.503Z"
+status: "active"
 ---
 
 # § 12615. National Civilian Community Corps
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.420Z"
     - **(A)** transfer a member of the Corps in that campus to another unit or campus if the campus director determines that the retention of the member in the member’s unit or in the campus director’s campus will jeopardize the enforcement of the standards or diminish the opportunities of other Corps members in that unit or campus, as the case may be; or
     - **(B)** dismiss a member of the Corps from the Corps if the campus director determines that retention of the member in the Corps will jeopardize the enforcement of the standards or diminish the opportunities of other Corps members.
   - **(3)** Under procedures prescribed by the Director, a member of the Corps may appeal to the Director a determination of a campus director to transfer or dismiss the member. The Director shall provide for expeditious disposition of appeals under this paragraph.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 155](https://www.govinfo.gov/link/plaw/101/public/610), formerly § 195D, as added [Pub. L. 102–484, div. A, title X, § 1092(a)(1)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2524](https://www.govinfo.gov/link/statute/106/2524); renumbered § 155 and amended [Pub. L. 103–82, title I, § 104(b)](https://www.govinfo.gov/link/plaw/103/public/82), (e)(2)(C), title IV, § 403(b), Sept. 21, 1993, [107 Stat. 840](https://www.govinfo.gov/link/statute/107/840), 847, 920; [Pub. L. 103–304, § 3(b)(5)(A)](https://www.govinfo.gov/link/plaw/103/public/304), Aug. 23, 1994, [108 Stat. 1567](https://www.govinfo.gov/link/statute/108/1567); [Pub. L. 111–13, title I, § 1505](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1522](https://www.govinfo.gov/link/statute/123/1522).)*

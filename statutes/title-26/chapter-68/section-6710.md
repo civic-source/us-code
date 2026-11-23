@@ -3,9 +3,10 @@ title: "Section 6710 - Failure to disclose that contributions are nondeductible"
 usc_title: 26
 usc_section: "6710"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6710"
-generated_at: "2026-03-30T02:55:27.865Z"
+generated_at: "2026-11-23T21:26:06.926Z"
+status: "active"
 ---
 
 # § 6710. Failure to disclose that contributions are nondeductible
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:27.865Z"
   - **(2)** by mail, shall be treated as occurring when the solicitation was mailed,
   - **(3)** not by mail but in written or printed form, shall be treated as occurring when the solicitation was distributed, or
   - **(4)** by telephone, shall be treated as occurring when the solicitation was made.
+
+## Source Credit
+
+*(Added [Pub. L. 100–203, title X, § 10701(b)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–458](https://www.govinfo.gov/link/statute/101/1330).)*

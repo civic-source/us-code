@@ -3,9 +3,10 @@ title: "Section 2107 - Savings provisions"
 usc_title: 41
 usc_section: "2107"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 2107"
-generated_at: "2026-03-30T02:55:55.804Z"
+generated_at: "2026-11-23T21:26:18.797Z"
+status: "active"
 ---
 
 # § 2107. Savings provisions
@@ -19,3 +20,54 @@ This chapter does not—
   - **(5)** authorize the withholding of information from, nor restrict its receipt by, Congress, a committee or subcommittee of Congress, the Comptroller General, a Federal agency, or an inspector general of a Federal agency;
   - **(6)** authorize the withholding of information from, nor restrict its receipt by, the Comptroller General in the course of a protest against the award or proposed award of a Federal agency procurement contract; or
   - **(7)** limit the applicability of a requirement, sanction, contract penalty, or remedy established under another law or regulation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 2107 | 41:423(h). | Pub. L. 93–400, § 27(h) , as added Pub. L. 100–679, § 6(a) , Nov. 17, 1988 , 102 Stat. 4063 ; Pub. L. 101–189, title VIII, § 814(a) –(d)(1), Nov. 29, 1989 , 103 Stat. 1495 ; Pub. L. 101–510, title XIV, § 1484 ( l )(6), Nov. 5, 1990 , 104 Stat. 1720 ; Pub. L. 102–25, title VII, § 705(i) , Apr. 6, 1991 , 105 Stat. 121 ; Pub. L. 103–355, title VIII, § 8301(e) , Oct. 13, 1994 , 108 Stat. 3397 ; Pub. L. 104–106, title XLIII, § 4304(a) , Feb. 10, 1996 , 110 Stat. 663 . |
+
+
+Historical and Revision Notes
+
+2107
+
+Pub. L. 93–400, § 27(h)
+
+Pub. L. 100–679, § 6(a)
+
+Nov. 17, 1988
+
+102 Stat. 4063
+
+Pub. L. 101–189, title VIII, § 814(a)
+
+Nov. 29, 1989
+
+103 Stat. 1495
+
+Pub. L. 101–510, title XIV, § 1484
+
+Nov. 5, 1990
+
+104 Stat. 1720
+
+Pub. L. 102–25, title VII, § 705(i)
+
+Apr. 6, 1991
+
+105 Stat. 121
+
+Pub. L. 103–355, title VIII, § 8301(e)
+
+Oct. 13, 1994
+
+108 Stat. 3397
+
+Pub. L. 104–106, title XLIII, § 4304(a)
+
+Feb. 10, 1996
+
+110 Stat. 663
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3731](https://www.govinfo.gov/link/statute/124/3731).)*

@@ -3,9 +3,10 @@ title: "Section 1082 - Minimum funding standards"
 usc_title: 29
 usc_section: "1082"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1082"
-generated_at: "2026-03-30T02:55:18.709Z"
+generated_at: "2026-11-23T21:26:02.240Z"
+status: "active"
 ---
 
 # § 1082. Minimum funding standards
@@ -79,3 +80,13 @@ generated_at: "2026-03-30T02:55:18.709Z"
     - **(B)** does not reduce the accrued benefit of any participant determined as of the beginning of the first plan year to which the amendment applies, and
     - **(C)** does not reduce the accrued benefit of any participant determined as of the time of adoption except to the extent required by the circumstances,
   - **(3)** For purposes of this section, the term “controlled group” means any group treated as a single employer under subsection (b), (c), (m), or ( o ) of section 414 of title 26 .
+
+In general
+
+Special rule for certain notices
+
+Special rule for certain restored benefits
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 302](https://www.govinfo.gov/link/plaw/93/public/406), as added and amended [Pub. L. 109–280, title I, § 101(b)](https://www.govinfo.gov/link/plaw/109/public/280), title II, § 202(d), Aug. 17, 2006, [120 Stat. 784](https://www.govinfo.gov/link/statute/120/784), 885; [Pub. L. 110–458, title I](https://www.govinfo.gov/link/plaw/110/public/458), §§ 101(a)(1), 102(b)(1)(A), Dec. 23, 2008, [122 Stat. 5093](https://www.govinfo.gov/link/statute/122/5093), 5100; [Pub. L. 113–97, title I, § 102(b)(1)](https://www.govinfo.gov/link/plaw/113/public/97), (2), Apr. 7, 2014, [128 Stat. 1115](https://www.govinfo.gov/link/statute/128/1115).)*

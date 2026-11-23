@@ -3,9 +3,10 @@ title: "Section 1639c - Minimum standards for residential mortgage loans"
 usc_title: 15
 usc_section: "1639c"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1639c"
-generated_at: "2026-03-30T02:54:08.142Z"
+generated_at: "2026-11-23T21:25:39.853Z"
+status: "active"
 ---
 
 # § 1639c. Minimum standards for residential mortgage loans
@@ -147,3 +148,17 @@ generated_at: "2026-03-30T02:54:08.142Z"
   - **(1)** the creditor’s policy regarding the acceptance of partial payments; and
   - **(2)** if partial payments are accepted, how such payments will be applied to such mortgage and if such payments will be placed in escrow.
 - **(i)** This section and any regulations promulgated under this section do not apply to an extension of credit relating to a plan described in section 101(53D) of title 11.
+
+(aa) that is originated and retained in portfolio by a covered institution;
+
+(bb) that is in compliance with the limitations with respect to prepayment penalties described in subsections (c)(1) and (c)(3);
+
+(cc) that is in compliance with the requirements of clause (vii) of subparagraph (A);
+
+(dd) that does not have negative amortization or interest-only features; and
+
+(ee) for which the covered institution considers and documents the debt, income, and financial resources of the consumer in accordance with clause (iv); and
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 129C](https://www.govinfo.gov/link/plaw/90/public/321), as added and amended [Pub. L. 111–203, title X, § 1100A(2)](https://www.govinfo.gov/link/plaw/111/public/203), title XIV, §§ 1411(a)(2), 1412, 1414(a), (c), (d), July 21, 2010, [124 Stat. 2107](https://www.govinfo.gov/link/statute/124/2107), 2142, 2145, 2149, 2152; [Pub. L. 114–94, div. G, title LXXXIX, § 89003(1)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1800](https://www.govinfo.gov/link/statute/129/1800); [Pub. L. 115–174, title I, § 101](https://www.govinfo.gov/link/plaw/115/public/174), title III, § 307, May 24, 2018, [132 Stat. 1297](https://www.govinfo.gov/link/statute/132/1297), 1347.)*

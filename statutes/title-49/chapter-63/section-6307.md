@@ -3,9 +3,10 @@ title: "Section 6307 - Furnishing of information, data, or reports by Federal ag
 usc_title: 49
 usc_section: "6307"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 6307"
-generated_at: "2026-03-30T02:56:19.321Z"
+generated_at: "2026-11-23T21:26:40.669Z"
+status: "active"
 ---
 
 # § 6307. Furnishing of information, data, or reports by Federal agencies
@@ -26,3 +27,25 @@ generated_at: "2026-03-30T02:56:19.321Z"
 - **(c)** The Director shall be provided access to any transportation and transportation-related information in the possession of any Federal agency, except—
   - **(1)** information that is expressly prohibited by law from being disclosed to another Federal agency; or
   - **(2)** information that the agency possessing the information determines could not be disclosed without significantly impairing the discharge of authorities and responsibilities which have been delegated to, or vested by law, in such agency.
+
+In General
+
+Prohibition on Certain Disclosures.—
+
+In general
+
+Copies of reports.—
+
+In general
+
+Limitation on judicial proceedings
+
+Applicability
+
+Informing respondent of use of data
+
+Transportation and Transportation-related Data Access
+
+## Source Credit
+
+*(Added [Pub. L. 112–141, div. E, title II, § 52011(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 892](https://www.govinfo.gov/link/statute/126/892); amended [Pub. L. 114–94, div. A, title VI, § 6018(b)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1577](https://www.govinfo.gov/link/statute/129/1577).)*

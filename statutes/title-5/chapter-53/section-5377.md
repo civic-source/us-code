@@ -3,9 +3,10 @@ title: "Section 5377 - Pay authority for critical positions"
 usc_title: 5
 usc_section: "5377"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5377"
-generated_at: "2026-03-30T02:52:56.016Z"
+generated_at: "2026-11-23T21:25:23.255Z"
+status: "active"
 ---
 
 # § 5377. Pay authority for critical positions
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:52:56.016Z"
 - **(i)**
   - **(1)** For the purpose of this subsection, the term “position” means the work, consisting of the duties and responsibilities, assignable to an employee, except that such term does not include any position under subsection (a)(2)(A)–(E).
   - **(2)** At the request of an agency head, the President may designate 1 or more categories of positions within such agency to be treated, for purposes of this section, as positions within the meaning of subsection (a)(2).
+
+## Source Credit
+
+*(Added [Pub. L. 101–509, title V, § 529 [title I, § 103(a)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1444; amended [Pub. L. 102–378, § 2(34)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1350](https://www.govinfo.gov/link/statute/106/1350); [Pub. L. 108–411, title I, § 102](https://www.govinfo.gov/link/plaw/108/public/411), Oct. 30, 2004, [118 Stat. 2311](https://www.govinfo.gov/link/statute/118/2311); [Pub. L. 108–447, div. B, title I, § 115](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 2870](https://www.govinfo.gov/link/statute/118/2870).)*

@@ -3,9 +3,10 @@ title: "Section 689m - Additional penalties for noncompliance"
 usc_title: 15
 usc_section: "689m"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 689m"
-generated_at: "2026-03-30T02:54:08.112Z"
+generated_at: "2026-11-23T21:25:39.720Z"
+status: "active"
 ---
 
 # § 689m. Additional penalties for noncompliance
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.112Z"
 - **(b)**
   - **(1)** Before the Administrator may cause a New Markets Venture Capital company to forfeit rights or privileges under subsection (a), a court of the United States of competent jurisdiction must find that the company committed a violation, or failed to comply, in a cause of action brought for that purpose in the district, territory, or other place subject to the jurisdiction of the United States, in which the principal office of the company is located.
   - **(2)** Each cause of action brought by the United States under this subsection shall be brought by the Administrator or by the Attorney General.
+
+## Source Credit
+
+*([Pub. L. 85–699, title III, § 364](https://www.govinfo.gov/link/plaw/85/public/699), as added [Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–663.)*

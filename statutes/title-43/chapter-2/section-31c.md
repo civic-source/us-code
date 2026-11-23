@@ -3,9 +3,10 @@ title: "Section 31c - Geologic mapping program"
 usc_title: 43
 usc_section: "31c"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 31c"
-generated_at: "2026-03-30T02:55:57.433Z"
+generated_at: "2026-11-23T21:26:19.739Z"
+status: "active"
 ---
 
 # § 31c. Geologic mapping program
@@ -72,3 +73,7 @@ generated_at: "2026-03-30T02:55:57.433Z"
   - **(4)**
     - **(A)** The geologic mapping program shall include an abandoned mine land and mine waste geologic mapping component, the objective of which shall be to establish the geologic framework of abandoned mine land and other land containing mine waste.
     - **(B)** For the component described in subparagraph (A), the priority shall be mapping abandoned mine land and other land containing mine waste where multiple critical mineral (as defined in section 1606(a) of title 30 ) and metal commodities are anticipated to be present, rather than single mineral resources.
+
+## Source Credit
+
+*([Pub. L. 102–285, § 4](https://www.govinfo.gov/link/plaw/102/public/285), May 18, 1992, [106 Stat. 167](https://www.govinfo.gov/link/statute/106/167); [Pub. L. 103–437, § 16(a)(1)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4594](https://www.govinfo.gov/link/statute/108/4594); [Pub. L. 105–36, § 3(b)](https://www.govinfo.gov/link/plaw/105/public/36), Aug. 5, 1997, [111 Stat. 1108](https://www.govinfo.gov/link/statute/111/1108); [Pub. L. 106–148, § 4](https://www.govinfo.gov/link/plaw/106/public/148), Dec. 9, 1999, [113 Stat. 1720](https://www.govinfo.gov/link/statute/113/1720); [Pub. L. 111–11, title XI, § 11001(c)](https://www.govinfo.gov/link/plaw/111/public/11) –(e), Mar. 30, 2009, [123 Stat. 1414](https://www.govinfo.gov/link/statute/123/1414), 1415; [Pub. L. 116–9, title V, § 5002(a)(2)](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 768](https://www.govinfo.gov/link/statute/133/768); [Pub. L. 117–58, div. D, title II, § 40202(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 959](https://www.govinfo.gov/link/statute/135/959).)*

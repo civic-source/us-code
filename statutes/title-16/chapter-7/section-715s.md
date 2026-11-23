@@ -3,9 +3,10 @@ title: "Section 715s - Participation of local governments in revenue from areas 
 usc_title: 16
 usc_section: "715s"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 715s"
-generated_at: "2026-03-30T02:54:22.901Z"
+generated_at: "2026-11-23T21:25:51.735Z"
+status: "active"
 ---
 
 # § 715s. Participation of local governments in revenue from areas administered by the United States Fish and Wildlife Service
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:22.901Z"
   - **(3)** The term “reserve area” means any area of land withdrawn from the public domain and administered, either solely or primarily, by the Secretary through the Service.
   - **(4)** The term “Service” means the United States Fish and Wildlife Service.
   - **(5)** The term “county” means any county, parish, or organized or unorganized borough.
+
+## Source Credit
+
+*(June 15, 1935, ch. 261, title IV, § 401, [49 Stat. 383](https://www.govinfo.gov/link/statute/49/383); 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433](https://www.govinfo.gov/link/statute/53/1433); 1940 Reorg. Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2108, [54 Stat. 1232](https://www.govinfo.gov/link/statute/54/1232); Oct. 31, 1951, ch. 654, § 2(13), [65 Stat. 707](https://www.govinfo.gov/link/statute/65/707); [Pub. L. 88–523](https://www.govinfo.gov/link/plaw/88/public/523), Aug. 30, 1964, [78 Stat. 701](https://www.govinfo.gov/link/statute/78/701); [Pub. L. 89–669, § 8(b)](https://www.govinfo.gov/link/plaw/89/public/669), Oct. 15, 1966, [80 Stat. 930](https://www.govinfo.gov/link/statute/80/930); [Pub. L. 93–205, § 13(b)](https://www.govinfo.gov/link/plaw/93/public/205), Dec. 28, 1973, [87 Stat. 902](https://www.govinfo.gov/link/statute/87/902); [Pub. L. 93–509, § 4](https://www.govinfo.gov/link/plaw/93/public/509), Dec. 3, 1974, [88 Stat. 1603](https://www.govinfo.gov/link/statute/88/1603); [Pub. L. 95–469, § 1(a)](https://www.govinfo.gov/link/plaw/95/public/469), Oct. 17, 1978, [92 Stat. 1319](https://www.govinfo.gov/link/statute/92/1319); [Pub. L. 97–258, § 5(b)](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1068](https://www.govinfo.gov/link/statute/96/1068).)*

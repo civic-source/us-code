@@ -3,9 +3,10 @@ title: "Section 1808 - Operations"
 usc_title: 48
 usc_section: "1808"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1808"
-generated_at: "2026-03-30T02:56:14.593Z"
+generated_at: "2026-11-23T21:26:38.030Z"
+status: "active"
 ---
 
 # § 1808. Operations
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:14.593Z"
     - **(A)** the Immigration and Nationality Act ( 8 U.S.C. 1101 et seq.); and
     - **(B)** the transition program established under section 1806 of this title , as added by subsection (a).
   - **(2)** To the maximum extent practicable and consistent with the satisfactory performance of assigned duties under applicable law, the Attorney General, Secretary of Homeland Security, and the Secretary of Labor shall recruit and hire personnel from among qualified United States citizens and national applicants residing in the Commonwealth to serve as staff in carrying out operations described in paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 110–229, title VII, § 702(f)](https://www.govinfo.gov/link/plaw/110/public/229), May 8, 2008, [122 Stat. 863](https://www.govinfo.gov/link/statute/122/863).)*

@@ -3,9 +3,10 @@ title: "Section 1693i - Issuance of cards or other means of access"
 usc_title: 15
 usc_section: "1693i"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1693i"
-generated_at: "2026-03-30T02:54:08.156Z"
+generated_at: "2026-11-23T21:25:39.888Z"
+status: "active"
 ---
 
 # § 1693i. Issuance of cards or other means of access
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.156Z"
   - **(3)** such distribution is accompanied by a clear explanation, in accordance with regulations of the Bureau, that such card, code, or other means of access is not validated and how the consumer may dispose of such code, card, or other means of access if validation is not desired; and
   - **(4)** such card, code, or other means of access is validated only in response to a request or application from the consumer, upon verification of the consumer’s identity.
 - **(c)** For the purpose of subsection (b), a card, code, or other means of access is validated when it may be used to initiate an electronic fund transfer.
+
+## Source Credit
+
+*([Pub. L. 90–321, title IX, § 911](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 95–630, title XX, § 2001](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3736](https://www.govinfo.gov/link/statute/92/3736); amended [Pub. L. 111–203, title X, § 1084(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2081](https://www.govinfo.gov/link/statute/124/2081).)*

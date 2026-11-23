@@ -3,9 +3,10 @@ title: "Section 2859 - Repealed. Pub. L. 119–60, div. B, title XXVIII, § 2848
 usc_title: 10
 usc_section: "2859"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2859"
-generated_at: "2026-03-30T02:53:38.180Z"
+generated_at: "2026-11-23T21:25:32.692Z"
+status: "repealed"
 ---
 
 # [§ 2859. Repealed. Pub. L. 119–60, div. B, title XXVIII, § 2848(a) , Dec. 18, 2025 , 139 Stat. 1319 ]

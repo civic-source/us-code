@@ -3,9 +3,10 @@ title: "Section 3344 - Classification training program"
 usc_title: 50
 usc_section: "3344"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3344"
-generated_at: "2026-03-30T02:56:26.246Z"
+generated_at: "2026-11-23T21:26:39.039Z"
+status: "active"
 ---
 
 # § 3344. Classification training program
@@ -19,3 +20,15 @@ generated_at: "2026-03-30T02:56:26.246Z"
     - **(A)** obtaining original classification authority or derivatively classifying information; and
     - **(B)** maintaining such authority.
 - **(b)** The head of each Executive agency shall ensure that the training required by subsection (a) is conducted efficiently and in conjunction with any other required security, intelligence, or other training programs to reduce the costs and administrative burdens associated with carrying out the training required by subsection (a).
+
+“In this Act [see Short Title of 2010 Amendment note set out under section 101 of Title 6 , Domestic Security]:
+
+Derivative classification and original classification
+
+Executive agency
+
+Executive order no. 13526
+
+## Source Credit
+
+*([Pub. L. 111–258, § 7](https://www.govinfo.gov/link/plaw/111/public/258), Oct. 7, 2010, [124 Stat. 2652](https://www.govinfo.gov/link/statute/124/2652); [Pub. L. 119–60, div. F, title LXIV, § 6402(c)(2)(D)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1616](https://www.govinfo.gov/link/statute/139/1616).)*

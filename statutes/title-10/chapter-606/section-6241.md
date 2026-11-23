@@ -3,9 +3,10 @@ title: "Section 6241 - Authority for appointment of certain scientific, engineer
 usc_title: 10
 usc_section: "6241"
 chapter: 606
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6241"
-generated_at: "2026-03-30T02:53:38.224Z"
+generated_at: "2026-11-23T21:25:32.823Z"
+status: "active"
 ---
 
 # § 6241. Authority for appointment of certain scientific, engineering, and technical personnel
@@ -25,3 +26,13 @@ generated_at: "2026-03-30T02:53:38.224Z"
 - **(c)**
   - **(1)** The authority provided under subsection (a)(1) shall terminate on September 30, 2036 .
   - **(2)** An employee may not be separated from employment with the Department of Energy or receive a reduction in pay by reason of the termination of authority under paragraph (1).
+
+Authority
+
+OPM Review
+
+Termination
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI](https://www.govinfo.gov/link/plaw/119/public/60), §§ 3111(a), (d)(1)(F), (2)(B), 3115, Dec. 18, 2025, [139 Stat. 1412](https://www.govinfo.gov/link/statute/139/1412), 1462, 1464.)*

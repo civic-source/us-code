@@ -3,9 +3,10 @@ title: "Section 1373 - Regulations on taking of marine mammals"
 usc_title: 16
 usc_section: "1373"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1373"
-generated_at: "2026-03-30T02:54:22.958Z"
+generated_at: "2026-11-23T21:25:51.862Z"
+status: "active"
 ---
 
 # § 1373. Regulations on taking of marine mammals
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:22.958Z"
   - **(4)** any studies made by or for the Secretary or any recommendations made by or for the Secretary or the Marine Mammal Commission which relate to the establishment of such regulations.
 - **(e)** Any regulation prescribed pursuant to this section shall be periodically reviewed, and may be modified from time to time in such manner as the Secretary deems consistent with and necessary to carry out the purposes of this chapter.
 - **(f)** Within six months after the effective date of this chapter and every twelve months thereafter, the Secretary shall report to the public through publication in the Federal Register and to the Congress on the current status of all marine mammal species and population stocks subject to the provisions of this chapter. His report shall describe those actions taken and those measures believed necessary, including where appropriate, the issuance of permits pursuant to this subchapter to assure the well-being of such marine mammals.
+
+## Source Credit
+
+*([Pub. L. 92–522, title I, § 103](https://www.govinfo.gov/link/plaw/92/public/522), Oct. 21, 1972, [86 Stat. 1033](https://www.govinfo.gov/link/statute/86/1033).)*

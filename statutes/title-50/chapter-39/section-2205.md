@@ -3,9 +3,10 @@ title: "Section 2205 - Construction"
 usc_title: 50
 usc_section: "2205"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2205"
-generated_at: "2026-03-30T02:56:26.220Z"
+generated_at: "2026-11-23T21:26:38.962Z"
+status: "active"
 ---
 
 # § 2205. Construction
@@ -17,3 +18,7 @@ Nothing in this chapter shall apply to—
   - **(3)** the destruction of spoils of war by troops in the field;
   - **(4)** the return of spoils of war to previous owners from whom such property had been seized by enemy forces; or
   - **(5)** minor articles of personal property which have lawfully become the property of individual members of the armed forces as war trophies pursuant to public written authorization from the Department of Defense.
+
+## Source Credit
+
+*([Pub. L. 103–236, title V, § 556](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 483](https://www.govinfo.gov/link/statute/108/483).)*

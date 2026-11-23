@@ -3,9 +3,10 @@ title: "Section 5205 - Disaster grant closeout procedures"
 usc_title: 42
 usc_section: "5205"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5205"
-generated_at: "2026-03-30T02:56:11.228Z"
+generated_at: "2026-11-23T21:26:32.777Z"
+status: "active"
 ---
 
 # § 5205. Disaster grant closeout procedures
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.228Z"
 - **(d)**
   - **(1)** The Administrator of the Federal Emergency Management Agency may develop incentives and penalties that encourage State, local, or Indian tribal governments to close out expenditures and activities on a timely basis related to disaster or emergency assistance.
   - **(2)** The Federal Emergency Management Agency shall, consistent with applicable regulations and required procedures, meet its responsibilities to improve closeout practices and reduce the time to close disaster program awards.
+
+## Source Credit
+
+*([Pub. L. 93–288, title VII, § 705](https://www.govinfo.gov/link/plaw/93/public/288), as added [Pub. L. 106–390, title III, § 304](https://www.govinfo.gov/link/plaw/106/public/390), Oct. 30, 2000, [114 Stat. 1573](https://www.govinfo.gov/link/statute/114/1573); amended [Pub. L. 115–254, div. D](https://www.govinfo.gov/link/plaw/115/public/254), §§ 1216(c)(1), 1221(a), Oct. 5, 2018, [132 Stat. 3451](https://www.govinfo.gov/link/statute/132/3451), 3453.)*

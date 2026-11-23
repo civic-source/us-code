@@ -3,9 +3,10 @@ title: "Section 921 - Definitions"
 usc_title: 18
 usc_section: "921"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 921"
-generated_at: "2026-03-30T02:54:16.472Z"
+generated_at: "2026-11-23T21:25:44.003Z"
+status: "active"
 ---
 
 # § 921. Definitions
@@ -115,3 +116,47 @@ generated_at: "2026-03-30T02:54:16.472Z"
       - **(i)** the receipt of the communication; and
       - **(ii)** the electronic communication address to which the communication is sent.
 - **(b)** For the purposes of this chapter, a member of the Armed Forces on active duty is a resident of the State in which his permanent duty station is located.
+
+(aa) the case was tried by a jury, or
+
+(bb) the person knowingly and intelligently waived the right to have the case tried by a jury, by guilty plea or otherwise.
+
+In General
+
+Pending Actions, Petitions, and Appellate Proceedings
+
+Machinegun Prohibition
+
+“The Congress finds that—
+
+“Nothing in this title or the amendment made thereby [amending this chapter] shall be construed as modifying or affecting any provision of—
+
+“Nothing in this title or amendment made thereby [enacting this chapter and provisions set out as notes under this section] shall be construed as modifying or affecting any provision of—
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*(Added [Pub. L. 90–351, title IV, § 902](https://www.govinfo.gov/link/plaw/90/public/351), June 19, 1968, [82 Stat. 226](https://www.govinfo.gov/link/statute/82/226); amended [Pub. L. 90–618, title I, § 102](https://www.govinfo.gov/link/plaw/90/public/618), Oct. 22, 1968, [82 Stat. 1214](https://www.govinfo.gov/link/statute/82/1214); [Pub. L. 93–639, § 102](https://www.govinfo.gov/link/plaw/93/public/639), Jan. 4, 1975, [88 Stat. 2217](https://www.govinfo.gov/link/statute/88/2217); [Pub. L. 99–308, § 101](https://www.govinfo.gov/link/plaw/99/public/308), May 19, 1986, [100 Stat. 449](https://www.govinfo.gov/link/statute/100/449); [Pub. L. 99–360, § 1(b)](https://www.govinfo.gov/link/plaw/99/public/360), July 8, 1986, [100 Stat. 766](https://www.govinfo.gov/link/statute/100/766); [Pub. L. 99–408, § 1](https://www.govinfo.gov/link/plaw/99/public/408), Aug. 28, 1986, [100 Stat. 920](https://www.govinfo.gov/link/statute/100/920); [Pub. L. 101–647, title XVII, § 1702(b)(2)](https://www.govinfo.gov/link/plaw/101/public/647), title XXII, § 2204(a), Nov. 29, 1990, [104 Stat. 4845](https://www.govinfo.gov/link/statute/104/4845), 4857; [Pub. L. 103–159, title I, § 102(a)(2)](https://www.govinfo.gov/link/plaw/103/public/159), Nov. 30, 1993, [107 Stat. 1539](https://www.govinfo.gov/link/statute/107/1539); [Pub. L. 103–322, title XI](https://www.govinfo.gov/link/plaw/103/public/322), §§ 110102(b), 110103(b), 110105(2), 110401(a), 110519, title XXXIII, § 330021(1), Sept. 13, 1994, [108 Stat. 1997](https://www.govinfo.gov/link/statute/108/1997), 1999, 2000, 2014, 2020, 2150; [Pub. L. 104–88, title III, § 303(1)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 943](https://www.govinfo.gov/link/statute/109/943); [Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 658(a)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–314](https://www.govinfo.gov/link/statute/110/3009), 3009–371; [Pub. L. 105–277, div. A, § 101(b) [title I, § 119(a)]](https://www.govinfo.gov/link/plaw/105/public/277), (h) [title I, § 115], Oct. 21, 1998, [112 Stat. 2681–50](https://www.govinfo.gov/link/statute/112/2681), 2681–69, 2681–480, 2681–490; [Pub. L. 107–273, div. C, title I, § 11009(e)(1)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1821](https://www.govinfo.gov/link/statute/116/1821); [Pub. L. 107–296, title XI, § 1112(f)(1)](https://www.govinfo.gov/link/plaw/107/public/296) –(3), (6), Nov. 25, 2002, [116 Stat. 2276](https://www.govinfo.gov/link/statute/116/2276); [Pub. L. 109–162, title IX, § 908(a)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3083](https://www.govinfo.gov/link/statute/119/3083); [Pub. L. 115–232, div. A, title VIII, § 809(e)(2)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1842](https://www.govinfo.gov/link/statute/132/1842); [Pub. L. 117–103, div. W, title XI](https://www.govinfo.gov/link/plaw/117/public/103), §§ 1101(b), 1104(a), Mar. 15, 2022, [136 Stat. 919](https://www.govinfo.gov/link/statute/136/919), 921; [Pub. L. 117–159, div. A, title II](https://www.govinfo.gov/link/plaw/117/public/159), §§ 12002, 12005(a), (c), June 25, 2022, [136 Stat. 1324](https://www.govinfo.gov/link/statute/136/1324), 1332; [Pub. L. 118–159, div. E, title LII, § 5211(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2444](https://www.govinfo.gov/link/statute/138/2444).)*

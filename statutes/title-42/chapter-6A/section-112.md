@@ -3,9 +3,10 @@ title: "Section 112 - Ending surprise air ambulance bills"
 usc_title: 42
 usc_section: "112"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 112"
-generated_at: "2026-03-30T02:56:10.838Z"
+generated_at: "2026-11-23T21:26:30.915Z"
+status: "active"
 ---
 
 # § 300gg–112. Ending surprise air ambulance bills
@@ -81,3 +82,7 @@ generated_at: "2026-03-30T02:56:10.838Z"
   - **(1)** The term “air ambulance service” means medical transport by helicopter or airplane for patients.
   - **(2)** The term “qualifying payment amount” has the meaning given such term in section 300gg–111(a)(3) of this title .
   - **(3)** The term “nonparticipating provider” has the meaning given such term in section 300gg–111(a)(3) of this title .
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVII, § 2799A–2, as added [Pub. L. 116–260, div. BB, title I, § 105(a)(1)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2831](https://www.govinfo.gov/link/statute/134/2831).)*

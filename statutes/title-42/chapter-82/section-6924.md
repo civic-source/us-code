@@ -3,9 +3,10 @@ title: "Section 6924 - Standards applicable to owners and operators of hazardous
 usc_title: 42
 usc_section: "6924"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6924"
-generated_at: "2026-03-30T02:56:11.271Z"
+generated_at: "2026-11-23T21:26:32.998Z"
+status: "active"
 ---
 
 # § 6924. Standards applicable to owners and operators of hazardous waste treatment, storage, and disposal facilities
@@ -167,3 +168,7 @@ generated_at: "2026-03-30T02:56:11.271Z"
 - **(y)**
   - **(1)** Not later than 6 months after October 6, 1992 , the Administrator shall propose, after consulting with the Secretary of Defense and appropriate State officials, regulations identifying when military munitions become hazardous waste for purposes of this subchapter and providing for the safe transportation and storage of such waste. Not later than 24 months after October 6, 1992 , and after notice and opportunity for comment, the Administrator shall promulgate such regulations. Any such regulations shall assure protection of human health and the environment.
   - **(2)** For purposes of this subsection, the term “military munitions” includes chemical and conventional munitions.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 3004](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2807](https://www.govinfo.gov/link/statute/90/2807); amended [Pub. L. 96–482, § 9](https://www.govinfo.gov/link/plaw/96/public/482), Oct. 21, 1980, [94 Stat. 2338](https://www.govinfo.gov/link/statute/94/2338); [Pub. L. 98–616, title II](https://www.govinfo.gov/link/plaw/98/public/616), §§ 201(a), 202(a), 203, 204(b)(1), 205–209, Nov. 8, 1984, [98 Stat. 3226](https://www.govinfo.gov/link/statute/98/3226), 3233, 3234, 3236, 3238–3240; [Pub. L. 102–386, title I, § 107](https://www.govinfo.gov/link/plaw/102/public/386), Oct. 6, 1992, [106 Stat. 1513](https://www.govinfo.gov/link/statute/106/1513); [Pub. L. 104–119](https://www.govinfo.gov/link/plaw/104/public/119), §§ 2, 4(2)–(5), Mar. 26, 1996, [110 Stat. 830](https://www.govinfo.gov/link/statute/110/830), 833.)*

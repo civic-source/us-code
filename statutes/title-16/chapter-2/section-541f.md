@@ -3,12 +3,17 @@ title: "Section 541f - Withdrawal from location, entry and patent under mining l
 usc_title: 16
 usc_section: "541f"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 541f"
-generated_at: "2026-03-30T02:54:22.869Z"
+generated_at: "2026-11-23T21:25:51.665Z"
+status: "active"
 ---
 
 # § 541f. Withdrawal from location, entry and patent under mining laws; withdrawal from disposition under mineral leasing laws
 
 The lands within the Area, subject to valid existing rights, are hereby withdrawn from location, entry, and patent under the United States mining laws and from disposition under all laws pertaining to mineral leasing and all amendments thereto.
 
+
+## Source Credit
+
+*([Pub. L. 93–535, § 7](https://www.govinfo.gov/link/plaw/93/public/535), Dec. 22, 1974, [88 Stat. 1733](https://www.govinfo.gov/link/statute/88/1733).)*

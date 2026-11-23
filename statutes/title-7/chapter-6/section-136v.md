@@ -3,9 +3,10 @@ title: "Section 136v - Authority of States"
 usc_title: 7
 usc_section: "136v"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 136v"
-generated_at: "2026-03-30T02:53:42.263Z"
+generated_at: "2026-11-23T21:25:27.898Z"
+status: "active"
 ---
 
 # § 136v. Authority of States
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.263Z"
   - **(2)** A registration issued by a State under this subsection shall not be effective for more than ninety days if disapproved by the Administrator within that period. Prior to disapproval, the Administrator shall, except as provided in paragraph (3) of this subsection, advise the State of the Administrator’s intention to disapprove and the reasons therefor, and provide the State time to respond. The Administrator shall not prohibit or disapprove a registration issued by a State under this subsection (A) on the basis of lack of essentiality of a pesticide or (B) except as provided in paragraph (3) of this subsection, if its composition and use patterns are similar to those of a federally registered pesticide.
   - **(3)** In no instance may a State issue a registration for a food or feed use unless there exists a tolerance or exemption under the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 301 et seq.] that permits the residues of the pesticides on the food or feed. If the Administrator determines that a registration issued by a State is inconsistent with the Federal Food, Drug, and Cosmetic Act, or the use of, a pesticide under a registration issued by a State constitutes an imminent hazard, the Administrator may immediately disapprove the registration.
   - **(4)** If the Administrator finds, in accordance with standards set forth in regulations issued under section 136w of this title , that a State is not capable of exercising adequate controls to assure that State registration under this section will be in accord with the purposes of this subchapter or has failed to exercise adequate controls, the Administrator may suspend the authority of the State to register pesticides until such time as the Administrator is satisfied that the State can and will exercise adequate controls. Prior to any such suspension, the Administrator shall advise the State of the Administrator’s intention to suspend and the reasons therefor and provide the State time to respond.
+
+## Source Credit
+
+*(June 25, 1947, ch. 125, § 24, as added [Pub. L. 92–516, § 2](https://www.govinfo.gov/link/plaw/92/public/516), Oct. 21, 1972, [86 Stat. 997](https://www.govinfo.gov/link/statute/86/997); amended [Pub. L. 95–396, § 22](https://www.govinfo.gov/link/plaw/95/public/396), Sept. 30, 1978, [92 Stat. 835](https://www.govinfo.gov/link/statute/92/835); [Pub. L. 100–532, title VIII, § 801(m)](https://www.govinfo.gov/link/plaw/100/public/532), Oct. 25, 1988, [102 Stat. 2682](https://www.govinfo.gov/link/statute/102/2682).)*

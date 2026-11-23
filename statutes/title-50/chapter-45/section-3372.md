@@ -3,9 +3,10 @@ title: "Section 3372 - Monitoring mineral investments under Belt and Road Initia
 usc_title: 50
 usc_section: "3372"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3372"
-generated_at: "2026-03-30T02:56:26.251Z"
+generated_at: "2026-11-23T21:26:39.048Z"
+status: "active"
 ---
 
 # § 3372. Monitoring mineral investments under Belt and Road Initiative of People’s Republic of China
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:26.251Z"
 - **(f)** In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committee on Energy and Natural Resources, the Committee on Foreign Relations, the Committee on Armed Services, the Committee on Finance, the Committee on Homeland Security and Governmental Affairs, the Committee on Commerce, Science, and Transportation, and the Committee on Appropriations of the Senate; and
   - **(2)** the Committee on Energy and Commerce, the Committee on Foreign Affairs, the Committee on Armed Services, the Committee on Ways and Means, the Committee on Homeland Security, and the Committee on Appropriations of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. Z, title VII, § 7003](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2577](https://www.govinfo.gov/link/statute/134/2577).)*

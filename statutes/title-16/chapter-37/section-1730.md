@@ -3,9 +3,10 @@ title: "Section 1730 - Authorization of appropriations"
 usc_title: 16
 usc_section: "1730"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1730"
-generated_at: "2026-03-30T02:54:22.982Z"
+generated_at: "2026-11-23T21:25:51.912Z"
+status: "active"
 ---
 
 # § 1730. Authorization of appropriations
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:22.982Z"
 - **(a)** There is authorized to be appropriated to carry out this subchapter $12,000,000 for each fiscal year, of which $8,000,000 is authorized to carry out priority projects and $4,000,000 of which is authorized to carry out other appropriate conservation projects.
 - **(b)** Notwithstanding subsection (a), any amounts made available under that subsection shall be available for disaster prevention or relief projects.
 - **(c)** Notwithstanding any other provision of law, amounts appropriated for any fiscal year to carry out this subchapter shall remain available for obligation and expenditure until the end of the fiscal year following the fiscal year for which the amounts are appropriated.
+
+## Source Credit
+
+*([Pub. L. 91–378, title II, § 213](https://www.govinfo.gov/link/plaw/91/public/378), formerly § 211, as added [Pub. L. 109–154, § 2(f)(2)](https://www.govinfo.gov/link/plaw/109/public/154), Dec. 30, 2005, [119 Stat. 2892](https://www.govinfo.gov/link/statute/119/2892); renumbered § 213, [Pub. L. 116–9, title IX, § 9003(f)(1)](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 835](https://www.govinfo.gov/link/statute/133/835).)*

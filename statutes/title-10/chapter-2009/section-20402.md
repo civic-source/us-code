@@ -3,9 +3,10 @@ title: "Section 20402 - Enlisted members: standards and qualifications for reten
 usc_title: 10
 usc_section: "20402"
 chapter: 2009
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 20402"
-generated_at: "2026-03-30T02:53:38.282Z"
+generated_at: "2026-11-23T21:25:33.091Z"
+status: "active"
 ---
 
 # § 20402. Enlisted members: standards and qualifications for retention
@@ -17,3 +18,11 @@ generated_at: "2026-03-30T02:53:38.282Z"
   - **(1)** if qualified, be transferred to Space Force inactive status;
   - **(2)** if qualified, be retired in accordance with section 20603 of this title ; or
   - **(3)** have the member’s enlistment terminated.
+
+Standards and Qualifications for Retention
+
+Effect of Failure to Comply With Standards and Qualifications
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVII, § 1718(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 656](https://www.govinfo.gov/link/statute/137/656).)*

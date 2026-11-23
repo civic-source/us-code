@@ -3,9 +3,10 @@ title: "Section 138d - Application"
 usc_title: 7
 usc_section: "138d"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 138d"
-generated_at: "2026-03-30T02:53:42.275Z"
+generated_at: "2026-11-23T21:25:27.921Z"
+status: "active"
 ---
 
 # § 138d. Application
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.275Z"
   - **(4)** a brief history of the laboratory and its previous operations; and
   - **(5)** such other information as may be required by the Secretary.
 - **(b)** A laboratory that has been denied, or has lost, accreditation under this chapter shall not reapply for accreditation until the expiration of at least 6 months after such denial or loss of accreditation. Corrective actions taken by the laboratory to address deficiencies upon which the denial or loss of accreditation was based must accompany the reapplication.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIII, § 1325](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3564](https://www.govinfo.gov/link/statute/104/3564).)*

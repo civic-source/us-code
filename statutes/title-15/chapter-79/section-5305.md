@@ -3,9 +3,10 @@ title: "Section 5305 - Review"
 usc_title: 15
 usc_section: "5305"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 5305"
-generated_at: "2026-03-30T02:54:08.205Z"
+generated_at: "2026-11-23T21:25:40.010Z"
+status: "active"
 ---
 
 # § 5305. Review
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.205Z"
 - **(b)** Each selected applicant in the program shall provide an annual report to the Secretary that explains the progress made, compliance with the management plan, whether changes are needed and are being made to the management plan, and what new research is planned.
 - **(c)** In the event a selected applicant has substantially failed in the implementation of the management plan and research activities, the Secretary shall discontinue funding.
 - **(d)** Upon completion or discontinuance of any research activity authorized in section 5304 of this title , the Secretary shall, using available funds appropriated pursuant to this chapter, solicit new research proposals as set forth under the terms of this chapter.
+
+## Source Credit
+
+*([Pub. L. 101–425, § 6](https://www.govinfo.gov/link/plaw/101/public/425), Oct. 15, 1990, [104 Stat. 918](https://www.govinfo.gov/link/statute/104/918).)*

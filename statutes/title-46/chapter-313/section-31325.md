@@ -3,9 +3,10 @@ title: "Section 31325 - Preferred mortgage liens and enforcement"
 usc_title: 46
 usc_section: "31325"
 chapter: 313
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 31325"
-generated_at: "2026-03-30T02:56:15.563Z"
+generated_at: "2026-11-23T21:26:37.174Z"
+status: "active"
 ---
 
 # § 31325. Preferred mortgage liens and enforcement
@@ -34,3 +35,34 @@ generated_at: "2026-03-30T02:56:15.563Z"
   - **(1)** Before title to the documented vessel or vessel for which an application for documentation is filed under chapter 121 is transferred by an extrajudicial remedy, the person exercising the remedy shall give notice of the proposed transfer to the Secretary, to the mortgagee of any mortgage on the vessel filed in substantial compliance with section 31321 of this title before notice of the proposed transfer is given to the Secretary, and to any person that recorded an unexpired notice of a claim of an undischarged lien on the vessel under section 31343(a) or (d) of this title before notice of the proposed transfer is given to the Secretary.
   - **(2)** Failure to give notice as required by this subsection shall not affect the transfer of title to a vessel. However, the rights of any holder of a maritime lien or a preferred mortgage on the vessel shall not be affected by a transfer of title by an extrajudicial remedy exercised under this section, regardless of whether notice is required by this subsection or given.
   - **(3)** The Secretary shall prescribe regulations establishing the time and manner for providing notice under this subsection.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 31325(a) | 46:951 (1st sentence) |
+| 31325(b)(1) | 46:951 (2d sentence) |
+| 31325(b)(2) | 46:954(a) |
+| 31325(b)(3) | New |
+| 31325(c) | 46:951 (3d sentence) |
+| 31325(d) | 46:951 (4th to 6th sentences) |
+| 31325(e) | 46:952 (1st, 2d sentences) |
+
+
+Historical and Revision Notes
+
+31325(a)
+
+31325(b)(1)
+
+31325(b)(2)
+
+31325(b)(3)
+
+31325(c)
+
+31325(d)
+
+31325(e)
+
+## Source Credit
+
+*([Pub. L. 100–710, title I, § 102(c)](https://www.govinfo.gov/link/plaw/100/public/710), Nov. 23, 1988, [102 Stat. 4745](https://www.govinfo.gov/link/statute/102/4745); [Pub. L. 101–225, title III, § 303(4)](https://www.govinfo.gov/link/plaw/101/public/225), Dec. 12, 1989, [103 Stat. 1923](https://www.govinfo.gov/link/statute/103/1923); [Pub. L. 104–324, title XI, § 1124(a)](https://www.govinfo.gov/link/plaw/104/public/324), (b), Oct. 19, 1996, [110 Stat. 3980](https://www.govinfo.gov/link/statute/110/3980); [Pub. L. 105–383, title IV, § 401(c)(5)](https://www.govinfo.gov/link/plaw/105/public/383) –(7), Nov. 13, 1998, [112 Stat. 3425](https://www.govinfo.gov/link/statute/112/3425); [Pub. L. 107–295, title II, § 205(b)](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2096](https://www.govinfo.gov/link/statute/116/2096); [Pub. L. 109–304, § 15(30)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1704](https://www.govinfo.gov/link/statute/120/1704); [Pub. L. 110–181, div. C, title XXXV, § 3529(b)(1)(B)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 603](https://www.govinfo.gov/link/statute/122/603).)*

@@ -3,9 +3,10 @@ title: "Section 1172 - Annual notice and opportunity for public comment"
 usc_title: 38
 usc_section: "1172"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1172"
-generated_at: "2026-03-30T02:55:53.478Z"
+generated_at: "2026-11-23T21:26:16.591Z"
+status: "active"
 ---
 
 # § 1172. Annual notice and opportunity for public comment
@@ -41,3 +42,19 @@ generated_at: "2026-03-30T02:55:53.478Z"
   - **(1)** recommendations developed under subsection (d), if any; and
   - **(2)** recommendations for such legislative or administrative action as the Working Group considers necessary for the Working Group to be more effective in carrying out the requirements of this section.
 - **(f)** In response to each report submitted under subsection (e), the Secretary shall, not later than 30 days after receiving the report, initiate a formal evaluation pursuant to section 1173 of this title .
+
+Notice Required
+
+Working Group
+
+Assessments
+
+Development of Recommendations
+
+Reports by the Working Group
+
+Responses by Secretary
+
+## Source Credit
+
+*(Added [Pub. L. 117–168, title II, § 202(a)](https://www.govinfo.gov/link/plaw/117/public/168), Aug. 10, 2022, [136 Stat. 1768](https://www.govinfo.gov/link/statute/136/1768).)*

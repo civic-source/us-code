@@ -3,9 +3,10 @@ title: "Section 460jj - Establishment"
 usc_title: 16
 usc_section: "460jj"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 460jj"
-generated_at: "2026-03-30T02:54:22.827Z"
+generated_at: "2026-11-23T21:25:51.594Z"
+status: "active"
 ---
 
 # § 460jj. Establishment
@@ -17,3 +18,9 @@ generated_at: "2026-03-30T02:54:22.827Z"
   - **(3)** the management, utilization, and disposal of natural resources such as timber, grazing, and mineral resources so that their utilization will not substantially impair the purposes for which the recreation area is established; and
   - **(4)** the management of water quality in the recreation area consistent with the development of needed water supply and waste-water systems, including the control of aquatic vegetation in the streams, lakes, and reservoirs within the recreation area.
 - **(c)** The Secretary shall develop an overall management plan for the Arapaho National Recreation Area. This plan shall be developed in consultation with State and local political subdivisions and other interested persons.
+
+“The Congress finds that it is in the national interest—
+
+## Source Credit
+
+*([Pub. L. 95–450, § 4](https://www.govinfo.gov/link/plaw/95/public/450), Oct. 11, 1978, [92 Stat. 1095](https://www.govinfo.gov/link/statute/92/1095); [Pub. L. 111–11, title I, § 1955(b)](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1075](https://www.govinfo.gov/link/statute/123/1075).)*

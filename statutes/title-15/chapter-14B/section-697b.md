@@ -3,9 +3,10 @@ title: "Section 697b - Pooling of debentures"
 usc_title: 15
 usc_section: "697b"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 697b"
-generated_at: "2026-03-30T02:54:08.113Z"
+generated_at: "2026-11-23T21:25:39.730Z"
+status: "active"
 ---
 
 # § 697b. Pooling of debentures
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:08.113Z"
     - **(C)** prior to any sale, require the seller to disclose to a purchaser of a trust certificate issued pursuant to this section, information on the terms, conditions, and yield of such instrument; and
     - **(D)** have the authority to regulate brokers and dealers in trust certificates sold pursuant to this section.
   - **(2)** Nothing in this subsection shall prohibit the utilization of a book-entry or other electronic form of registration for trust certificates.
+
+## Source Credit
+
+*([Pub. L. 85–699, title V, § 505](https://www.govinfo.gov/link/plaw/85/public/699), as added [Pub. L. 99–272, title XVIII, § 18008(c)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 367](https://www.govinfo.gov/link/statute/100/367); amended [Pub. L. 100–590, title I, § 111(d)(1)](https://www.govinfo.gov/link/plaw/100/public/590), (2), Nov. 3, 1988, [102 Stat. 2995](https://www.govinfo.gov/link/statute/102/2995); [Pub. L. 104–208, div. D, title II, § 205(c)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–738](https://www.govinfo.gov/link/statute/110/3009).)*

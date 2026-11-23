@@ -3,9 +3,10 @@ title: "Section 2011 - Grants"
 usc_title: 38
 usc_section: "2011"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 2011"
-generated_at: "2026-03-30T02:55:53.493Z"
+generated_at: "2026-11-23T21:26:16.686Z"
+status: "active"
 ---
 
 # § 2011. Grants
@@ -63,3 +64,105 @@ generated_at: "2026-03-30T02:55:53.493Z"
   - **(1)** If a grant recipient under this section does not establish a program in accordance with this section or ceases to furnish services under such a program for which the grant was made, the United States shall be entitled to recover from such recipient the total of all unused grant amounts made under this section to such recipient in connection with such program.
   - **(2)** Any amount recovered by the United States under paragraph (1) may be obligated by the Secretary without fiscal year limitation to carry out provisions of this subchapter.
   - **(3)** An amount may not be recovered under paragraph (1) as an unused grant amount before the end of the three-year period beginning on the date on which the grant is made.
+
+Authority To Make Grants
+
+Criteria for Grants
+
+Funding Limitations
+
+Eligible Entities
+
+Application Requirement
+
+Program Requirements
+
+Service Center Requirements
+
+Recovery of Unused Grant Funds
+
+General Support.—
+
+Use of funds
+
+Homeless veterans on land of the department.—
+
+Collaboration
+
+Elements
+
+Grant and Per Diem Program.—
+
+Limits on rates for per diem payments
+
+Modification of funding limits for grants.—
+
+In general
+
+Sunset
+
+Use of per diem payments
+
+Additional transitional housing.—
+
+In general
+
+Notice; competition; period of performance
+
+Inspections and life safety code requirements.—
+
+In general
+
+Limitation
+
+Disposition of property relating to grants.—
+
+In general
+
+Sunset
+
+Inspection and Life Safety Code Requirements for Therapeutic Housing.—
+
+In general
+
+Limitation
+
+Access to Department of Veterans Affairs Telehealth Services
+
+Definitions
+
+Covered public health emergency
+
+Homeless veteran; veteran
+
+Telehealth.—
+
+In general
+
+Technologies
+
+Rule of Construction
+
+Grants and Per Diem Payments
+
+Participant Absence
+
+In General
+
+Assessment at National and Local Levels
+
+Consideration of Other Resources
+
+Use of Information
+
+Report
+
+Study and development of fiscal controls and payment method
+
+Consideration
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 107–95, § 5(a)(1)](https://www.govinfo.gov/link/plaw/107/public/95), Dec. 21, 2001, [115 Stat. 906](https://www.govinfo.gov/link/statute/115/906); amended [Pub. L. 109–444](https://www.govinfo.gov/link/plaw/109/public/444), §§ 2(b), 8(a)(4), Dec. 21, 2006, [120 Stat. 3304](https://www.govinfo.gov/link/statute/120/3304), 3313; [Pub. L. 109–461, title VII, § 703(a)](https://www.govinfo.gov/link/plaw/109/public/461), title X, §§ 1004(a)(4), 1006(b), Dec. 22, 2006, [120 Stat. 3440](https://www.govinfo.gov/link/statute/120/3440), 3465, 3468; [Pub. L. 112–154, title III, § 301(a)](https://www.govinfo.gov/link/plaw/112/public/154), Aug. 6, 2012, [126 Stat. 1182](https://www.govinfo.gov/link/statute/126/1182); [Pub. L. 117–328, div. U, title III, § 301(a)(1)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5466](https://www.govinfo.gov/link/statute/136/5466).)*

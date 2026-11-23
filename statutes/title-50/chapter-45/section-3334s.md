@@ -3,9 +3,10 @@ title: "Section 3334s - Programs for next-generation microelectronics in support
 usc_title: 50
 usc_section: "3334s"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3334s"
-generated_at: "2026-03-30T02:56:26.245Z"
+generated_at: "2026-11-23T21:26:39.037Z"
+status: "active"
 ---
 
 # § 3334s. Programs for next-generation microelectronics in support of artificial intelligence
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:26.245Z"
   - **(2)** consult with the Secretary of Commerce; and
   - **(3)** actively collaborate with relevant Government agencies and programs, including the programs established under subsection 2 2 So in original. Probably should be “subsections”. (c), (d), (e), and (f) of such section 4656 of title 15 , academic institutions, and private industry to leverage expertise and resources in conducting research.
 - **(d)** Amounts authorized to be appropriated for the National Intelligence Program of the Office of the Director of National Intelligence may be made available to carry out the program established under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 118–31, div. G, title V, § 7507](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1089](https://www.govinfo.gov/link/statute/137/1089); [Pub. L. 119–60, div. F, title LXVIII, § 6801(b)(1)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1653](https://www.govinfo.gov/link/statute/139/1653).)*

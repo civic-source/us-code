@@ -3,9 +3,10 @@ title: "Section 6043A - Returns relating to taxable mergers and acquisitions"
 usc_title: 26
 usc_section: "6043A"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6043A"
-generated_at: "2026-03-30T02:55:27.832Z"
+generated_at: "2026-11-23T21:26:06.771Z"
+status: "active"
 ---
 
 # § 6043A. Returns relating to taxable mergers and acquisitions
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:27.832Z"
   - **(1)** the name, address, and phone number of the information contact of the person required to make such return,
   - **(2)** the information required to be shown on such return with respect to such shareholder, and
   - **(3)** such other information as the Secretary may prescribe.
+
+## Source Credit
+
+*(Added [Pub. L. 108–357, title VIII, § 805(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1573](https://www.govinfo.gov/link/statute/118/1573).)*

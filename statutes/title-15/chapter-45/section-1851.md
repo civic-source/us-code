@@ -3,12 +3,17 @@ title: "Section 1851 - Reports to Congress; recommendations"
 usc_title: 15
 usc_section: "1851"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1851"
-generated_at: "2026-03-30T02:54:08.160Z"
+generated_at: "2026-11-23T21:25:39.899Z"
+status: "active"
 ---
 
 # § 1851. Reports to Congress; recommendations
 
 The Board shall submit to the Congress annually a full report of its operations under this chapter. In addition, the Board shall submit to the Congress a special report not later than June 30, 1973 , which shall include a full report of the Board’s operations together with its recommendations with respect to the need to continue the guarantee program beyond the termination date specified in section 1852 of this title . If the Board recommends that the program should be continued beyond such termination date, it shall state its recommendations with respect to the appropriate board, agency, or corporation which should administer the program.
 
+
+## Source Credit
+
+*([Pub. L. 92–70, § 12](https://www.govinfo.gov/link/plaw/92/public/70), Aug. 9, 1971, [85 Stat. 182](https://www.govinfo.gov/link/statute/85/182).)*

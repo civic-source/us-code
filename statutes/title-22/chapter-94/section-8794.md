@@ -3,9 +3,10 @@ title: "Section 8794 - Waiver"
 usc_title: 22
 usc_section: "8794"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8794"
-generated_at: "2026-03-30T02:55:05.457Z"
+generated_at: "2026-11-23T21:25:58.755Z"
+status: "active"
 ---
 
 # § 8794. Waiver
@@ -14,3 +15,7 @@ The President may waive the requirement to include a person on a list required b
 
   - **(1)** determines that such a waiver is in the national security interests of the United States; and
   - **(2)** submits to the appropriate congressional committees a report on the reasons for that determination.
+
+## Source Credit
+
+*([Pub. L. 112–158, title VII, § 705](https://www.govinfo.gov/link/plaw/112/public/158), Aug. 10, 2012, [126 Stat. 1268](https://www.govinfo.gov/link/statute/126/1268).)*

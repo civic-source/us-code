@@ -3,9 +3,10 @@ title: "Section 894c - Change of station"
 usc_title: 33
 usc_section: "894c"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 894c"
-generated_at: "2026-03-30T02:55:41.075Z"
+generated_at: "2026-11-23T21:26:11.347Z"
+status: "active"
 ---
 
 # § 894c. Change of station
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:41.075Z"
 - **(c)**
   - **(1)** The Secretary shall promulgate regulations to carry out this section.
   - **(2)** When practicable, the Secretary shall make regulations promulgated under this section consistent with similar regulations promulgated by the Secretary of Defense.
+
+## Source Credit
+
+*([Pub. L. 114–328, div. C, title XXXV, § 3544](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2803](https://www.govinfo.gov/link/statute/130/2803).)*

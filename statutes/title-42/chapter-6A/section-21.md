@@ -3,9 +3,10 @@ title: "Section 21 - Identification of WTC responders and provision of WTC-relat
 usc_title: 42
 usc_section: "21"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 21"
-generated_at: "2026-03-30T02:56:10.848Z"
+generated_at: "2026-11-23T21:26:30.960Z"
+status: "active"
 ---
 
 # § 300mm–21. Identification of WTC responders and provision of WTC-related monitoring services
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:56:10.848Z"
 - **(b)**
   - **(1)** In the case of an enrolled WTC responder (other than one described in subsection (a)(2)(A)(ii)), the WTC Program shall provide for monitoring benefits that include monitoring consistent with protocols approved by the WTC Program Administrator and including clinical examinations and long-term health monitoring and analysis. In the case of an enrolled WTC responder who is an active member of the Fire Department of New York City, the responder shall receive such benefits as part of the individual’s periodic company medical exams.
   - **(2)** The monitoring benefits under paragraph (1) shall be provided through the Clinical Center of Excellence for the type of individual involved or, in the case of an individual residing outside the New York metropolitan area, under an arrangement under section 300mm–23 of this title .
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXXIII, § 3311, as added [Pub. L. 111–347, title I, § 101](https://www.govinfo.gov/link/plaw/111/public/347), Jan. 2, 2011, [124 Stat. 3635](https://www.govinfo.gov/link/statute/124/3635); amended [Pub. L. 114–113, div. O, title III, § 302(d)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2999](https://www.govinfo.gov/link/statute/129/2999); [Pub. L. 116–59, div. B, title VI, § 1602(a)](https://www.govinfo.gov/link/plaw/116/public/59), Sept. 27, 2019, [133 Stat. 1107](https://www.govinfo.gov/link/statute/133/1107); [Pub. L. 117–328, div. FF, title VII, § 7701(b)(1)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5965](https://www.govinfo.gov/link/statute/136/5965); [Pub. L. 118–31, div. A, title XVIII, § 1851(a)(2)](https://www.govinfo.gov/link/plaw/118/public/31), (c)(1), Dec. 22, 2023, [137 Stat. 706](https://www.govinfo.gov/link/statute/137/706), 708.)*

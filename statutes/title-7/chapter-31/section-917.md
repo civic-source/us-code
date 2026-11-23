@@ -3,9 +3,10 @@ title: "Section 917 - Prohibition on restricting water and waste facility servic
 usc_title: 7
 usc_section: "917"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 917"
-generated_at: "2026-03-30T02:53:42.295Z"
+generated_at: "2026-11-23T21:25:27.999Z"
+status: "active"
 ---
 
 # § 917. Prohibition on restricting water and waste facility services to electric customers
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:42.295Z"
   - **(5)** Title V [ 7 U.S.C. 2661 et seq.] and section 603(c) [ 7 U.S.C. 2204a ] of the Rural Development Act of 1972.
   - **(6)** Sections 905 and 940a 1 of this title and subchapter IV of this chapter.
 - **(d)** Not later than 60 days after April 4, 1996 , the Secretary shall issue final regulations to ensure compliance with subsection (a).
+
+## Source Credit
+
+*(May 20, 1936, ch. 432, title I, § 17, as added [Pub. L. 104–127, title VII, § 778](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1150](https://www.govinfo.gov/link/statute/110/1150).)*

@@ -3,9 +3,10 @@ title: "Section 12573 - Types of national service positions eligible for approva
 usc_title: 42
 usc_section: "12573"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12573"
-generated_at: "2026-03-30T02:56:11.416Z"
+generated_at: "2026-11-23T21:26:33.490Z"
+status: "active"
 ---
 
 # § 12573. Types of national service positions eligible for approval for national service educational awards
@@ -22,3 +23,7 @@ The Corporation may approve of any of the following service positions as an appr
   - **(6)** A position involving service as a crew leader in a youth corps program or a similar position supporting a national service program that receives an approved national service position.
   - **(7)** A position involving service in the ServeAmerica Fellowship program carried out under section 12653b of this title .
   - **(8)** Such other national service positions as the Corporation considers to be appropriate.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 123](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 103–82, title I, § 101(b)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 794](https://www.govinfo.gov/link/statute/107/794); amended [Pub. L. 111–13, title I, § 1303](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1499](https://www.govinfo.gov/link/statute/123/1499).)*

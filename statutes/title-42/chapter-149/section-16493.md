@@ -3,9 +3,10 @@ title: "Section 16493 - National Priority Project Designation"
 usc_title: 42
 usc_section: "16493"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16493"
-generated_at: "2026-03-30T02:56:11.487Z"
+generated_at: "2026-11-23T21:26:33.744Z"
+status: "active"
 ---
 
 # § 16493. National Priority Project Designation
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:56:11.487Z"
     - **(B)** identify programs of the Department, including National Laboratories and Technology Centers, that will assist each project in meeting the criteria established under subsection (c); and
     - **(C)** ensure that knowledge and transfer of the most current technology between the applicable resources of the Federal Government (including the National Laboratories and Technology Centers, the Department, and the Environmental Protection Agency) and the certified projects is being facilitated to accelerate commercialization of work developed through those resources.
 - **(f)** There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2006 through 2010.
+
+## Source Credit
+
+*([Pub. L. 109–58, title XIV, § 1405](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1062](https://www.govinfo.gov/link/statute/119/1062).)*

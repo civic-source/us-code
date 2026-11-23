@@ -3,9 +3,10 @@ title: "Section 2462 - Establishment of grant program for foreign study by Ameri
 usc_title: 22
 usc_section: "2462"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2462"
-generated_at: "2026-03-30T02:55:05.369Z"
+generated_at: "2026-11-23T21:25:58.499Z"
+status: "active"
 ---
 
 # § 2462. Establishment of grant program for foreign study by American college students of limited financial means
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.369Z"
   - **(2)** In considering applications for grants under this section—
     - **(A)** consideration of financial need shall include the increased costs of study abroad; and
     - **(B)** priority consideration shall be given to applicants who are receiving Federal Pell Grants under title IV of the Higher Education Act of 1965 [ 20 U.S.C. 1070 et seq.].
+
+## Source Credit
+
+*([Pub. L. 106–309, title III, § 303](https://www.govinfo.gov/link/plaw/106/public/309), Oct. 17, 2000, [114 Stat. 1095](https://www.govinfo.gov/link/statute/114/1095).)*

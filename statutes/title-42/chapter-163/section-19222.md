@@ -3,9 +3,10 @@ title: "Section 19222 - National research and development strategy for distribut
 usc_title: 42
 usc_section: "19222"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19222"
-generated_at: "2026-03-30T02:56:11.543Z"
+generated_at: "2026-11-23T21:26:33.878Z"
+status: "active"
 ---
 
 # § 19222. National research and development strategy for distributed ledger technology
@@ -121,3 +122,7 @@ generated_at: "2026-03-30T02:56:11.543Z"
     - **(H)** ensure that cybersecurity best practices consistent with the Cybersecurity Frame work of the National Institute of Standards and Technology are demonstrated in the project.
   - **(3)** Not later than 1 year after December 23, 2022 , the Director of the National Institute of Standards and Technology shall offer a briefing to the relevant congressional committees on the progress and current findings from the project under this subsection.
   - **(4)** Not later than 12 months after the completion of the project under this subsection, the Director of the National Institute of Standards and Technology shall make public a report on the results and findings from the project.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. E, title LIX, § 5913](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3443](https://www.govinfo.gov/link/statute/136/3443).)*

@@ -3,9 +3,10 @@ title: "Section 159 - Representatives and elections"
 usc_title: 29
 usc_section: "159"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 159"
-generated_at: "2026-03-30T02:55:18.678Z"
+generated_at: "2026-11-23T21:26:02.168Z"
+status: "active"
 ---
 
 # § 159. Representatives and elections
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:18.678Z"
 - **(e)**
   - **(1)** Upon the filing with the Board, by 30 per centum or more of the employees in a bargaining unit covered by an agreement between their employer and a labor organization made pursuant to section 158(a)(3) of this title , of a petition alleging they desire that such authority be rescinded, the Board shall take a secret ballot of the employees in such unit and certify the results thereof to such labor organization and to the employer.
   - **(2)** No election shall be conducted pursuant to this subsection in any bargaining unit or any subdivision within which, in the preceding twelve-month period, a valid election shall have been held.
+
+## Source Credit
+
+*(July 5, 1935, ch. 372, § 9, [49 Stat. 453](https://www.govinfo.gov/link/statute/49/453); June 23, 1947, ch. 120, title I, § 101, [61 Stat. 143](https://www.govinfo.gov/link/statute/61/143); Oct. 22, 1951, ch. 534, § 1(c), (d), [65 Stat. 601](https://www.govinfo.gov/link/statute/65/601); [Pub. L. 86–257, title II, § 201(d)](https://www.govinfo.gov/link/plaw/86/public/257), title VII, § 702, Sept. 14, 1959, [73 Stat. 525](https://www.govinfo.gov/link/statute/73/525), 542.)*

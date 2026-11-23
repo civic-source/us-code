@@ -3,9 +3,10 @@ title: "Section 3916 - Information for members of the Armed Forces and their dep
 usc_title: 50
 usc_section: "3916"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3916"
-generated_at: "2026-03-30T02:56:26.263Z"
+generated_at: "2026-11-23T21:26:39.077Z"
+status: "active"
 ---
 
 # § 3916. Information for members of the Armed Forces and their dependents on rights and protections of the Servicemembers Civil Relief Act
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:26.263Z"
   - **(3)** At such other times as the Secretary concerned considers appropriate.
 - **(c)** The Secretary concerned may provide to the adult dependents of members under the jurisdiction of the Secretary pertinent information on the rights and protections available to members and their dependents under the Servicemembers Civil Relief Act [ 50 U.S.C. 3901 et seq.].
 - **(d)** In this section, the terms “dependent” and “Secretary concerned” have the meanings given such terms in section 101 of the Servicemembers Civil Relief Act [ 50 U.S.C. 3911 ].
+
+## Source Credit
+
+*([Pub. L. 109–163, div. A, title VI, § 690](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3337](https://www.govinfo.gov/link/statute/119/3337).)*

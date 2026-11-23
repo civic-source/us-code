@@ -3,9 +3,10 @@ title: "Section 9221c - Prohibition on transactions with certain sanctioned pers
 usc_title: 22
 usc_section: "9221c"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9221c"
-generated_at: "2026-03-30T02:55:05.462Z"
+generated_at: "2026-11-23T21:25:58.767Z"
+status: "active"
 ---
 
 # § 9221c. Prohibition on transactions with certain sanctioned persons by persons owned or controlled by United States financial institutions
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.462Z"
 - **(b)** A transaction described in this subsection is a transaction that would be prohibited by an order or regulation issued pursuant to the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.) if the transaction were engaged in in the United States or by a United States person.
 - **(c)** The civil penalty provided for in section 206(b) of the International Emergency Economic Powers Act ( 50 U.S.C. 1705(b) ) shall apply to a United States financial institution to the same extent that such penalty applies to a person that commits an unlawful act described in section 206(a) of that Act if an entity owned or controlled by the United States financial institution and established or maintained outside the United States violates, attempts to violate, conspires to violate, or causes a violation of any order or regulation issued to implement subsection (a).
 - **(d)** In this section, the term “United States financial institution” has the meaning given the term “U.S. financial institution” in section 510.328 of title 31, Code of Federal Regulations (or any corresponding similar regulation or ruling).
+
+## Source Credit
+
+*([Pub. L. 114–122, title II, § 201C](https://www.govinfo.gov/link/plaw/114/public/122), as added [Pub. L. 116–92, div. F, title LXXI, § 7121(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2246](https://www.govinfo.gov/link/statute/133/2246).)*

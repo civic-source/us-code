@@ -3,9 +3,10 @@ title: "Section 1231 - Property used in the trade or business and involuntary co
 usc_title: 26
 usc_section: "1231"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1231"
-generated_at: "2026-03-30T02:55:27.760Z"
+generated_at: "2026-11-23T21:26:06.470Z"
+status: "active"
 ---
 
 # § 1231. Property used in the trade or business and involuntary conversions
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:55:27.760Z"
     - **(A)** the section 1231 losses, over
     - **(B)** the section 1231 gains.
   - **(5)** For purposes of determining the amount of the net section 1231 gain or loss for any taxable year, the rules of paragraph (4) of subsection (a) shall apply.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 325; [Pub. L. 85–866, title I, § 49(a)](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1642](https://www.govinfo.gov/link/statute/72/1642); [Pub. L. 88–272, title II, § 227(a)(2)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 97](https://www.govinfo.gov/link/statute/78/97); [Pub. L. 91–172, title II, § 212(b)(1)](https://www.govinfo.gov/link/plaw/91/public/172), title V, §§ 514(b)(2), 516(b), Dec. 30, 1969, [83 Stat. 571](https://www.govinfo.gov/link/statute/83/571), 643, 646; [Pub. L. 94–455, title XIV, § 1402(b)(1)(R)](https://www.govinfo.gov/link/plaw/94/public/455), (2), Oct. 4, 1976, [90 Stat. 1732](https://www.govinfo.gov/link/statute/90/1732); [Pub. L. 95–600, title VII, § 701(ee)(1)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2924](https://www.govinfo.gov/link/statute/92/2924); [Pub. L. 97–34, title V, § 505(c)(1)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 332](https://www.govinfo.gov/link/statute/95/332); [Pub. L. 98–369, div. A, title I, § 176(a)](https://www.govinfo.gov/link/plaw/98/public/369), title VII, § 711(c)(2)(A)(iii), title X, § 1001(b)(15), (e), July 18, 1984, [98 Stat. 709](https://www.govinfo.gov/link/statute/98/709), 944, 1012; [Pub. L. 106–170, title V, § 532(c)(1)(G)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1930](https://www.govinfo.gov/link/statute/113/1930); [Pub. L. 113–295, div. A, title II, § 221(a)(81)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4049](https://www.govinfo.gov/link/statute/128/4049); [Pub. L. 115–97, title I, § 13314(b)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2133](https://www.govinfo.gov/link/statute/131/2133).)*

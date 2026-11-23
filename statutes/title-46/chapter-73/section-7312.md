@@ -3,9 +3,10 @@ title: "Section 7312 - Scale of employment"
 usc_title: 46
 usc_section: "7312"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 7312"
-generated_at: "2026-03-30T02:56:15.550Z"
+generated_at: "2026-11-23T21:26:37.081Z"
+status: "active"
 ---
 
 # § 7312. Scale of employment
@@ -20,3 +21,16 @@ generated_at: "2026-03-30T02:56:15.550Z"
 - **(f)** Individuals qualified as able seamen—fishing industry under section 7311a of this title may constitute—
   - **(1)** all of the able seamen required on a fish processing vessel entered into service before January 1, 1988 , and of more than 1,600 gross tons but not more than 5,000 gross tons as measured under section 14502 of this title , or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title ; and
   - **(2)** all of the able seamen required on a fish processing vessel entered into service after December 31, 1987 , and having more than 16 individuals on board primarily employed in the preparation of fish or fish products but of not more than 5,000 gross tons as measured under section 14502 of this title , or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title .
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 7312 | 46:672(f) |
+
+
+Historical and Revision Notes
+
+7312
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 543](https://www.govinfo.gov/link/statute/97/543); [Pub. L. 98–364, title IV, § 402(9)(E)](https://www.govinfo.gov/link/plaw/98/public/364), July 17, 1984, [98 Stat. 448](https://www.govinfo.gov/link/statute/98/448); [Pub. L. 99–307, § 1(11)](https://www.govinfo.gov/link/plaw/99/public/307), May 19, 1986, [100 Stat. 445](https://www.govinfo.gov/link/statute/100/445); [Pub. L. 104–324, title VII, § 723](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3938](https://www.govinfo.gov/link/statute/110/3938); [Pub. L. 111–281, title VI, § 617(b)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2973](https://www.govinfo.gov/link/statute/124/2973).)*

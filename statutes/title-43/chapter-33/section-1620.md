@@ -3,9 +3,10 @@ title: "Section 1620 - Taxation"
 usc_title: 43
 usc_section: "1620"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1620"
-generated_at: "2026-03-30T02:55:57.481Z"
+generated_at: "2026-11-23T21:26:19.858Z"
+status: "active"
 ---
 
 # § 1620. Taxation
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:57.481Z"
   - **(2)** All expenses heretofore or hereafter paid or incurred by a Native Corporation established pursuant to this chapter in connection with the selection or conveyance of lands pursuant to this chapter, or in assisting another Native Corporation within or for the same region in the selection or conveyance of lands under this chapter, shall be deemed to be or to have been ordinary and necessary expenses of such Corporation, paid or incurred in carrying on a trade or business for purposes of any form of Federal, State, or local taxation.
 - **(i)** No Corporation created pursuant to this chapter shall be considered to be a personal holding company within the meaning of section 542(a) of title 26 prior to January 1, 1992 .
 - **(j)** A real property interest distributed by a Native Corporation to a shareholder of such Corporation pursuant to a program to provide homesites to its shareholders, shall be deemed conveyed and received pursuant to this chapter: Provided , That alienability of the Settlement Common Stock of the Corporation has not been terminated pursuant to section 1629c of this title : Provided further , That the land received is restricted by covenant for a period not less than ten years to single-family (including traditional extended family customs) residential occupancy, and by such other covenants and retained interests as the Native Corporation deems appropriate: Provided further , That the land conveyed does not exceed one and one-half acres: Provided further , That if the shareholder receiving the homesite subdivides such homesite, he or she shall pay all Federal, State, and local taxes that would have been incurred but for this subsection together with simple interest at 6 per centum per annum calculated from the date of receipt of the homesite, including taxes or assessments for the provision of road access and water and sewage facilities by the conveying corporation or the shareholder.
+
+## Source Credit
+
+*([Pub. L. 92–203, § 21](https://www.govinfo.gov/link/plaw/92/public/203), Dec. 18, 1971, [85 Stat. 713](https://www.govinfo.gov/link/statute/85/713); [Pub. L. 94–204, § 13](https://www.govinfo.gov/link/plaw/94/public/204), Jan. 2, 1976, [89 Stat. 1154](https://www.govinfo.gov/link/statute/89/1154); [Pub. L. 95–600, title V, § 541](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2887](https://www.govinfo.gov/link/statute/92/2887); [Pub. L. 96–487, title IX, § 904](https://www.govinfo.gov/link/plaw/96/public/487), title XIV, §§ 1407–1409, Dec. 2, 1980, [94 Stat. 2434](https://www.govinfo.gov/link/statute/94/2434), 2495, 2496; [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 100–241, § 12(b)](https://www.govinfo.gov/link/plaw/100/public/241), Feb. 3, 1988, [101 Stat. 1810](https://www.govinfo.gov/link/statute/101/1810); [Pub. L. 102–415, § 5](https://www.govinfo.gov/link/plaw/102/public/415), Oct. 14, 1992, [106 Stat. 2113](https://www.govinfo.gov/link/statute/106/2113).)*

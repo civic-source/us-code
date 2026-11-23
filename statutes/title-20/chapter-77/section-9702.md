@@ -3,9 +3,10 @@ title: "Section 9702 - Establishment of Financial Literacy and Education Commiss
 usc_title: 20
 usc_section: "9702"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9702"
-generated_at: "2026-03-30T02:54:48.231Z"
+generated_at: "2026-11-23T21:25:47.675Z"
+status: "active"
 ---
 
 # § 9702. Establishment of Financial Literacy and Education Commission
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:48.231Z"
 - **(e)** The Commission shall hold, at the call of the Chairperson, at least 1 meeting every 4 months. All such meetings shall be open to the public. The Commission may hold, at the call of the Chairperson, such other meetings as the Chairperson sees fit to carry out this chapter.
 - **(f)** A majority of the members of the Commission shall constitute a quorum, but a lesser number of members may hold hearings.
 - **(g)** The Commission shall hold its first meeting not later than 60 days after December 4, 2003 .
+
+## Source Credit
+
+*([Pub. L. 108–159, title V, § 513](https://www.govinfo.gov/link/plaw/108/public/159), Dec. 4, 2003, [117 Stat. 2003](https://www.govinfo.gov/link/statute/117/2003); [Pub. L. 111–203, title X, § 1013(d)(5)](https://www.govinfo.gov/link/plaw/111/public/203), (6), July 21, 2010, [124 Stat. 1971](https://www.govinfo.gov/link/statute/124/1971).)*

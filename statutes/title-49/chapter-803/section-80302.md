@@ -3,9 +3,10 @@ title: "Section 80302 - Prohibitions"
 usc_title: 49
 usc_section: "80302"
 chapter: 803
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 80302"
-generated_at: "2026-03-30T02:56:19.418Z"
+generated_at: "2026-11-23T21:26:41.042Z"
+status: "active"
 ---
 
 # § 80302. Prohibitions
@@ -33,3 +34,105 @@ generated_at: "2026-03-30T02:56:19.418Z"
   - **(1)** transport contraband in an aircraft, vehicle, or vessel;
   - **(2)** conceal or possess contraband on an aircraft, vehicle, or vessel; or
   - **(3)** use an aircraft, vehicle, or vessel to facilitate the transportation, concealment, receipt, possession, purchase, sale, exchange, or giving away of contraband.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 80302(a)(1) | 49 App.:781(b)(1). | Aug. 9, 1939, ch. 618, § 1(b)(1) , 53 Stat. 1291 ; restated Aug. 9, 1950, ch. 655 , 64 Stat. 427 . |
+|  | 49 App.:787(d). | Aug. 9, 1939, ch. 618, § 7(d) , 53 Stat. 1293 ; restated Oct. 27, 1970 , Pub. L. 91–513, § 1102(r) , 84 Stat. 1294 . |
+| 80302(a)(2) | 49 App.:781(b)(2). | Aug. 9, 1939, ch. 618, § 1(b)(2) , (3), 53 Stat. 1291 ; Nov. 2, 1978 , Pub. L. 95–575, § 3(a)(1) , (2), 92 Stat. 2465 . |
+|  | 49 App.:787(e). | Aug. 9, 1939, ch. 618, § 7(e) , 53 Stat. 1293 ; Nov. 2, 1978 , Pub. L. 95–575, § 3(b)(1) , 92 Stat. 2465 . |
+| 80302(a)(3) | 49 App.:781(b)(3) (words before 1st semicolon). |  |
+|  | 49 App.:787(f). | Aug. 9, 1939, ch. 618, § 7(f) , 53 Stat. 1293 ; restated Oct. 31, 1951, ch. 655, § 55(b) , 65 Stat. 729 ; Nov. 2, 1978 , Pub. L. 95–575, § 3(b)(2) , 92 Stat. 2465 . |
+| 80302(a)(4) | 49 App.:781(b)(3) (words after 1st semicolon). |  |
+| 80302(a)(5) | 49 App.:781(b)(4). | Aug. 9, 1939, ch. 618 , 53 Stat. 1291 , §§ 1(b)(4), 7(g); added Nov. 2, 1978 , Pub. L. 95–575, § 3(a)(3) , (b)(3), 92 Stat. 2465 . |
+|  | 49 App.:787(g). |  |
+| 80302(b) | 49 App.:781(a). | Aug. 9, 1939, ch. 618, § 1(a) , 53 Stat. 1291 . |
+
+
+Definition
+
+Prohibitions
+
+Historical and Revision Notes
+
+80302(a)(1)
+
+Aug. 9, 1939, ch. 618, § 1(b)(1)
+
+53 Stat. 1291
+
+Aug. 9, 1950, ch. 655
+
+64 Stat. 427
+
+Aug. 9, 1939, ch. 618, § 7(d)
+
+53 Stat. 1293
+
+Oct. 27, 1970
+
+Pub. L. 91–513, § 1102(r)
+
+84 Stat. 1294
+
+80302(a)(2)
+
+Aug. 9, 1939, ch. 618, § 1(b)(2)
+
+53 Stat. 1291
+
+Nov. 2, 1978
+
+Pub. L. 95–575, § 3(a)(1)
+
+92 Stat. 2465
+
+Aug. 9, 1939, ch. 618, § 7(e)
+
+53 Stat. 1293
+
+Nov. 2, 1978
+
+Pub. L. 95–575, § 3(b)(1)
+
+92 Stat. 2465
+
+80302(a)(3)
+
+Aug. 9, 1939, ch. 618, § 7(f)
+
+53 Stat. 1293
+
+Oct. 31, 1951, ch. 655, § 55(b)
+
+65 Stat. 729
+
+Nov. 2, 1978
+
+Pub. L. 95–575, § 3(b)(2)
+
+92 Stat. 2465
+
+80302(a)(4)
+
+80302(a)(5)
+
+Aug. 9, 1939, ch. 618
+
+53 Stat. 1291
+
+Nov. 2, 1978
+
+Pub. L. 95–575, § 3(a)(3)
+
+92 Stat. 2465
+
+80302(b)
+
+Aug. 9, 1939, ch. 618, § 1(a)
+
+53 Stat. 1291
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1353](https://www.govinfo.gov/link/statute/108/1353); [Pub. L. 104–153, § 13](https://www.govinfo.gov/link/plaw/104/public/153), July 2, 1996, [110 Stat. 1389](https://www.govinfo.gov/link/statute/110/1389).)*

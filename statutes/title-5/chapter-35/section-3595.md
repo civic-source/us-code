@@ -3,9 +3,10 @@ title: "Section 3595 - Reduction in force in the Senior Executive Service"
 usc_title: 5
 usc_section: "3595"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3595"
-generated_at: "2026-03-30T02:52:56.007Z"
+generated_at: "2026-11-23T21:25:23.175Z"
+status: "active"
 ---
 
 # § 3595. Reduction in force in the Senior Executive Service
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:52:56.007Z"
 - **(c)** A career appointee is entitled to appeal to the Merit Systems Protection Board under section 7701 of this title whether the reduction in force complies with the competitive procedures required under subsection (a).
 - **(d)** For purposes of this section, “reduction in force” includes the elimination or modification of a position due to a reorganization, due to a lack of funds or curtailment of work, or due to any other factor.
 - **(e)** The Office shall prescribe regulations under which the rights accorded to a career appointee in the event of a transfer of function are comparable to the rights accorded to a competing employee under section 3503 of this title in the event of such a transfer.
+
+## Source Credit
+
+*(Added [Pub. L. 97–35, title XVII, § 1704(a)(1)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 756](https://www.govinfo.gov/link/statute/95/756); amended [Pub. L. 97–346, § 5(a)](https://www.govinfo.gov/link/plaw/97/public/346), (b), Oct. 15, 1982, [96 Stat. 1650](https://www.govinfo.gov/link/statute/96/1650); [Pub. L. 98–615, title III](https://www.govinfo.gov/link/plaw/98/public/615), §§ 303(c), (d), 304(b), Nov. 8, 1984, [98 Stat. 3218](https://www.govinfo.gov/link/statute/98/3218), 3219.)*

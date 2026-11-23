@@ -3,9 +3,10 @@ title: "Section 13456 - Improving efficiency in energy-intensive industries"
 usc_title: 42
 usc_section: "13456"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13456"
-generated_at: "2026-03-30T02:56:11.445Z"
+generated_at: "2026-11-23T21:26:33.608Z"
+status: "active"
 ---
 
 # § 13456. Improving efficiency in energy-intensive industries
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.445Z"
     - **(A)** whether the activities conducted under this section improve the quality and energy efficiency of industries or industrial processes;
     - **(B)** the regional distribution of the energy-intensive industries and industrial processes; and
     - **(C)** whether the proposed joint venture project would be located in the region which has the energy-intensive industry and industrial processes that would benefit from the project.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXI, § 2107](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3070](https://www.govinfo.gov/link/statute/106/3070).)*

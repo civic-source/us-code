@@ -3,9 +3,10 @@ title: "Section 2001 - Findings"
 usc_title: 43
 usc_section: "2001"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 2001"
-generated_at: "2026-03-30T02:55:57.494Z"
+generated_at: "2026-11-23T21:26:19.889Z"
+status: "active"
 ---
 
 # § 2001. Findings
@@ -19,3 +20,7 @@ The Congress finds and declares that—
   - **(5)** national security and regional supply requirements may be such that west-to-east crude delivery systems serving both the northern tier States and inland States, consistent with the requirements of section 410 of the Act approved November 16, 1973 ( 87 Stat. 594 ), commonly known as the Trans-Alaska Pipeline Authorization Act, are needed;
   - **(6)** expeditious Federal and State decisions for west-to-east crude oil delivery systems are of the utmost priority; and
   - **(7)** resolution of the west coast crude oil surplus and the need for crude oil in northern tier States and inland States require the assignment and coordination of overall responsibility within the executive branch to permit expedited action on all necessary environmental assessments and decisions on permit applications concerning delivery systems.
+
+## Source Credit
+
+*([Pub. L. 95–617, title V, § 501](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3157](https://www.govinfo.gov/link/statute/92/3157).)*

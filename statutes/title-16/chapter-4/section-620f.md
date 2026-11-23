@@ -3,9 +3,10 @@ title: "Section 620f - Regulations and review"
 usc_title: 16
 usc_section: "620f"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 620f"
-generated_at: "2026-03-30T02:54:22.887Z"
+generated_at: "2026-11-23T21:25:51.702Z"
+status: "active"
 ---
 
 # § 620f. Regulations and review
@@ -48,3 +49,9 @@ generated_at: "2026-03-30T02:54:22.887Z"
         - **(I)** shall, to the maximum extent practicable, be reviewed once a year; and
         - **(II)** shall remain effective until terminated by the Secretary.
 - **(b)** The Secretaries of Agriculture and Interior shall, in consultation, review the definition of unprocessed timber under section 620e(7) of this title for purposes of sections 620 to 620j of this title and, not later than 18 months after August 20, 1990 , submit to the Congress any recommendations they have with respect to such definition. Specifically, the Secretaries shall report on the effects of maintaining 2 size standards under section 620e(B)(ii) 1 1 So in original. Probably should be section “620e(7)(B)(ii)”. and (iii) of this title.
+
+In general
+
+## Source Credit
+
+*([Pub. L. 101–382, title IV, § 495](https://www.govinfo.gov/link/plaw/101/public/382), Aug. 20, 1990, [104 Stat. 725](https://www.govinfo.gov/link/statute/104/725); [Pub. L. 105–83, title VI, § 605](https://www.govinfo.gov/link/plaw/105/public/83), Nov. 14, 1997, [111 Stat. 1622](https://www.govinfo.gov/link/statute/111/1622).)*

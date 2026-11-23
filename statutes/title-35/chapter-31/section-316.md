@@ -3,9 +3,10 @@ title: "Section 316 - Conduct of inter partes review"
 usc_title: 35
 usc_section: "316"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "35 U.S.C. § 316"
-generated_at: "2026-03-30T02:55:34.240Z"
+generated_at: "2026-11-23T21:26:08.630Z"
+status: "active"
 ---
 
 # § 316. Conduct of inter partes review
@@ -35,3 +36,23 @@ generated_at: "2026-03-30T02:55:34.240Z"
   - **(2)** Additional motions to amend may be permitted upon the joint request of the petitioner and the patent owner to materially advance the settlement of a proceeding under section 317, or as permitted by regulations prescribed by the Director.
   - **(3)** An amendment under this subsection may not enlarge the scope of the claims of the patent or introduce new matter.
 - **(e)** In an inter partes review instituted under this chapter, the petitioner shall have the burden of proving a proposition of unpatentability by a preponderance of the evidence.
+
+Regulations
+
+Considerations
+
+Patent Trial and Appeal Board
+
+Amendment of the Patent.—
+
+In general
+
+Additional motions
+
+Scope of claims
+
+Evidentiary Standards
+
+## Source Credit
+
+*(Added [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4604(a)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–569; amended [Pub. L. 107–273, div. C, title III, § 13202(c)(1)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1902](https://www.govinfo.gov/link/statute/116/1902); [Pub. L. 112–29, § 6(a)](https://www.govinfo.gov/link/plaw/112/public/29), Sept. 16, 2011, [125 Stat. 302](https://www.govinfo.gov/link/statute/125/302).)*

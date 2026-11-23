@@ -3,9 +3,10 @@ title: "Section 4071d - Entitlement to annuity"
 usc_title: 22
 usc_section: "4071d"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4071d"
-generated_at: "2026-03-30T02:55:05.405Z"
+generated_at: "2026-11-23T21:25:58.622Z"
+status: "active"
 ---
 
 # § 4071d. Entitlement to annuity
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:05.405Z"
     - **(B)** Any calculation for a widow or widower of a participant or former participant under section 8442(f)(2)(A) shall be based on an “assumed FSRDS annuity” rather than an “assumed CSRS annuity” as stated in such section. For the purpose of this subparagraph, the term “assumed FSRDS annuity” means the amount of the survivor annuity to which the widow or widower would be entitled under part I based on the service of the deceased annuitant determined under section 8442(f)(5) of such title 5.
 - **(c)** A participant who is entitled to an immediate annuity under subsection (b) shall be entitled to receive an annuity supplement while the annuitant is under 62 years of age. The annuity supplement shall be based on the total creditable service of the annuitant and shall be computed in accordance with sections 8421(b) and 8421a of title 5 as if the participant were a law enforcement officer retired under section 8412(d) 1 of such title.
 - **(d)** Any participant who is separated for cause under section 4010 of this title shall not be entitled to an annuity under this System when the Secretary determines that the separation was based in whole or in part on disloyalty to the United States.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 855](https://www.govinfo.gov/link/plaw/96/public/465), as added [Pub. L. 99–335, title IV, § 415](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 617](https://www.govinfo.gov/link/statute/100/617); amended [Pub. L. 99–556, title IV, § 406](https://www.govinfo.gov/link/plaw/99/public/556), Oct. 27, 1986, [100 Stat. 3138](https://www.govinfo.gov/link/statute/100/3138); [Pub. L. 103–178, title II, § 204(b)(3)](https://www.govinfo.gov/link/plaw/103/public/178), Dec. 3, 1993, [107 Stat. 2033](https://www.govinfo.gov/link/statute/107/2033); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. B, title XXIII, § 2312(b), Oct. 21, 1998, [112 Stat. 2681–827](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 105–382, § 2(d)(3)(B)](https://www.govinfo.gov/link/plaw/105/public/382), Nov. 13, 1998, [112 Stat. 3408](https://www.govinfo.gov/link/statute/112/3408); [Pub. L. 107–228, div. A, title III, § 322(b)(1)](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1384](https://www.govinfo.gov/link/statute/116/1384); [Pub. L. 112–96, title V, § 5001(c)(2)(F)](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 200](https://www.govinfo.gov/link/statute/126/200).)*

@@ -3,9 +3,10 @@ title: "Section 321 - Acquisition Services Fund"
 usc_title: 40
 usc_section: "321"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 321"
-generated_at: "2026-03-30T02:55:43.372Z"
+generated_at: "2026-11-23T21:26:14.780Z"
+status: "active"
 ---
 
 # § 321. Acquisition Services Fund
@@ -62,3 +63,186 @@ generated_at: "2026-03-30T02:55:43.372Z"
 - **(i)** In this section:
   - **(1)** The term “Administrator” means the Administrator of General Services.
   - **(2)** The term “expenditure” means any obligation of funds from the Acquisition Services Fund for programs referenced in subsection (h).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 321(a) | 40:756(a) (1st sentence). | June 30, 1949, ch. 288 , title I, § 109(a)–(c), (e), (f), 63 Stat. 382 ; Sept. 5, 1950, ch. 849 , §§ 1, 2(a), (b), 3(a), 64 Stat. 578 , 579; July 12, 1952, ch. 703, § 1(c) –(e), 66 Stat. 593 ; Pub. L. 87–372 , Oct. 4, 1961 , 75 Stat. 802 ; Pub. L. 87–600, § 1(a) , (b), (d), Aug. 24, 1962 , 76 Stat. 401 ; Pub. L. 93–604, title VII, § 701 , Jan. 2, 1975 , 88 Stat. 1963 ; Pub. L. 94–273, § 2(19) , Apr. 21, 1976 , 90 Stat. 375 ; Pub. L. 100–202, § 101(m) [title VI, § 619(a), (b)] , Dec. 22, 1987 , 101 Stat. 1329–427 . |
+| 321(b)(1) | 40:756(a) (2d sentence). |  |
+| 321(b)(2) | 40:756(c). |  |
+| 321(b)(3) | 40:756(g) (last sentence). | June 30, 1949, ch. 288 , title I, § 109(g) (last sentence), as added Sept. 5, 1950, ch. 849, § 3(b) , 64 Stat. 579 ; Pub. L. 86–591 , July 5, 1960 , 74 Stat. 330 . |
+| 321(c)(1) | 40:756(a) (last sentence). |  |
+| 321(c)(2) | 40:756(f). |  |
+| 321(d) | 40:756(b). |  |
+| 321(e) | 40:756b. | Pub. L. 99–500, § 151 , Oct. 18, 1986 , 100 Stat. 1783–352 ; Pub. L. 99–591, § 151 , Oct. 30, 1986 , 100 Stat. 3341–355 ; Pub. L. 100–202, § 101(i) [title I, § 4] , Dec. 22, 1987 , 101 Stat. 1329–294 ; Pub. L. 104–186, title II, § 221(15) , Aug. 20, 1996 , 110 Stat. 1750 . |
+| 321(f)(1) | 40:756(e)(1). |  |
+| 321(f)(2) | 40:756a. | Pub. L. 97–12, title I , (proviso in par. under heading “General Supply Fund”), June 5, 1981 , 95 Stat. 75 . |
+| 321(g) | 40:756(e)(2). |  |
+
+
+Existence
+
+Composition.—
+
+In general
+
+Other credits
+
+Cost and capital requirements
+
+Deposit of fees
+
+Uses.—
+
+In general
+
+Other uses
+
+Payment for Property and Services.—
+
+In general
+
+Prices fixed by administrator
+
+Timing of payments.—
+
+Payment in advance
+
+Prompt reimbursement
+
+Failure to make prompt reimbursement
+
+Reimbursement for Equipment Purchased for Congress
+
+Transfer of Uncommitted Balances
+
+Audits
+
+Requirement for Annual Report to Congress
+
+Definitions
+
+Administrator
+
+Expenditure
+
+Historical and Revision Notes
+
+321(a)
+
+June 30, 1949, ch. 288
+
+63 Stat. 382
+
+Sept. 5, 1950, ch. 849
+
+64 Stat. 578
+
+July 12, 1952, ch. 703, § 1(c)
+
+66 Stat. 593
+
+Pub. L. 87–372
+
+Oct. 4, 1961
+
+75 Stat. 802
+
+Pub. L. 87–600, § 1(a)
+
+Aug. 24, 1962
+
+76 Stat. 401
+
+Pub. L. 93–604, title VII, § 701
+
+Jan. 2, 1975
+
+88 Stat. 1963
+
+Pub. L. 94–273, § 2(19)
+
+Apr. 21, 1976
+
+90 Stat. 375
+
+Pub. L. 100–202, § 101(m) [title VI, § 619(a), (b)]
+
+Dec. 22, 1987
+
+101 Stat. 1329–427
+
+321(b)(1)
+
+321(b)(2)
+
+321(b)(3)
+
+June 30, 1949, ch. 288
+
+Sept. 5, 1950, ch. 849, § 3(b)
+
+64 Stat. 579
+
+Pub. L. 86–591
+
+July 5, 1960
+
+74 Stat. 330
+
+321(c)(1)
+
+321(c)(2)
+
+321(d)
+
+321(e)
+
+Pub. L. 99–500, § 151
+
+Oct. 18, 1986
+
+100 Stat. 1783–352
+
+Pub. L. 99–591, § 151
+
+Oct. 30, 1986
+
+100 Stat. 3341–355
+
+Pub. L. 100–202, § 101(i) [title I, § 4]
+
+Dec. 22, 1987
+
+101 Stat. 1329–294
+
+Pub. L. 104–186, title II, § 221(15)
+
+Aug. 20, 1996
+
+110 Stat. 1750
+
+321(f)(1)
+
+321(f)(2)
+
+Pub. L. 97–12, title I
+
+June 5, 1981
+
+95 Stat. 75
+
+321(g)
+
+Surplus deposited in treasury
+
+Surplus retained
+
+Abolishment of General Supply Fund and Information Technology Fund
+
+Transfers
+
+Assumption of Obligations
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1074](https://www.govinfo.gov/link/statute/116/1074); [Pub. L. 109–313, § 3(d)](https://www.govinfo.gov/link/plaw/109/public/313) –(g), (h)(2), Oct. 6, 2006, [120 Stat. 1735](https://www.govinfo.gov/link/statute/120/1735), 1736; [Pub. L. 113–235, div. H, title I, § 1301(d)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537); [Pub. L. 118–182, § 2(b)](https://www.govinfo.gov/link/plaw/118/public/182), Dec. 23, 2024, [138 Stat. 2624](https://www.govinfo.gov/link/statute/138/2624).)*

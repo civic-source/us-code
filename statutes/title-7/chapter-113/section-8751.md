@@ -3,9 +3,10 @@ title: "Section 8751 - Definitions"
 usc_title: 7
 usc_section: "8751"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 8751"
-generated_at: "2026-03-30T02:53:42.480Z"
+generated_at: "2026-11-23T21:25:28.482Z"
+status: "active"
 ---
 
 # § 8751. Definitions
@@ -34,3 +35,7 @@ In this subchapter:
     - **(D)** any other territory or possession of the United States.
   - **(9)** The term “target price” means the price per ton of peanuts used to determine the payment rate for counter-cyclical payments.
   - **(10)** The term “United States”, when used in a geographical sense, means all of the States.
+
+## Source Credit
+
+*([Pub. L. 110–234, title I, § 1301](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 966](https://www.govinfo.gov/link/statute/122/966); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1301, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1695.)*

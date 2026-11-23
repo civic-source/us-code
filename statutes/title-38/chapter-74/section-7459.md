@@ -3,9 +3,10 @@ title: "Section 7459 - Nursing staff: special rules for overtime duty"
 usc_title: 38
 usc_section: "7459"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7459"
-generated_at: "2026-03-30T02:55:53.533Z"
+generated_at: "2026-11-23T21:26:16.880Z"
+status: "active"
 ---
 
 # § 7459. Nursing staff: special rules for overtime duty
@@ -30,3 +31,15 @@ generated_at: "2026-03-30T02:55:53.533Z"
   - **(2)** A licensed practical or vocational nurse.
   - **(3)** A nurse assistant appointed under this chapter or title 5.
   - **(4)** Any other nurse position designated by the Secretary for purposes of this section.
+
+Limitation
+
+Voluntary Overtime
+
+Overtime Under Emergency Circumstances
+
+Nursing Staff Defined
+
+## Source Credit
+
+*(Added [Pub. L. 111–163, title VI, § 602(a)(1)](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1172](https://www.govinfo.gov/link/statute/124/1172).)*

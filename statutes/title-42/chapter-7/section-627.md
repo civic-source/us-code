@@ -3,9 +3,10 @@ title: "Section 627 - Kinship navigators"
 usc_title: 42
 usc_section: "627"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 627"
-generated_at: "2026-03-30T02:56:10.876Z"
+generated_at: "2026-11-23T21:26:31.099Z"
+status: "active"
 ---
 
 # § 627. Kinship navigators
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:10.876Z"
 - **(e)** A grantee under this section may provide not more than 50 percent of the amount which the grantee is required to expend to carry out the activities for which a grant is awarded under this section in kind, fairly evaluated, including plant, equipment, or services.
 - **(f)** A grantee under this section shall use the grant in accordance with the approved application for the grant.
 - **(g)** The Secretary may reserve 2 percent of the funds made available under section 629g(b)(6) of this title for each fiscal year to provide technical assistance to recipients of grants under this section.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 427, as added [Pub. L. 110–351, title I, § 102(a)](https://www.govinfo.gov/link/plaw/110/public/351), Oct. 7, 2008, [122 Stat. 3953](https://www.govinfo.gov/link/statute/122/3953); amended [Pub. L. 113–183, title II, § 221(a)](https://www.govinfo.gov/link/plaw/113/public/183) –(d), Sept. 29, 2014, [128 Stat. 1942](https://www.govinfo.gov/link/statute/128/1942), 1943; [Pub. L. 118–258, title I, § 110(b)(1)](https://www.govinfo.gov/link/plaw/118/public/258), Jan. 4, 2025, [138 Stat. 2960](https://www.govinfo.gov/link/statute/138/2960).)*

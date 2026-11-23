@@ -3,9 +3,10 @@ title: "Section 1482 - Expenses incident to death"
 usc_title: 10
 usc_section: "1482"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1482"
-generated_at: "2026-03-30T02:53:38.125Z"
+generated_at: "2026-11-23T21:25:32.490Z"
+status: "active"
 ---
 
 # § 1482. Expenses incident to death
@@ -58,3 +59,68 @@ generated_at: "2026-03-30T02:53:38.125Z"
   - **(2)** In a case covered by paragraph (1), if the person designated under subsection (c) to direct disposition of the remains of a decedent does not direct disposition of the remains that were retained for the forensic pathology investigation, the Secretary may pay for the transportation of those remains to, and interment or inurnment of those remains in, an appropriate place selected by the Secretary, in lieu of the transportation authorized to be paid under paragraph (8) of subsection (a).
   - **(3)** In a case covered by paragraph (1), expenses that may be paid do not include expenses with respect to an escort under paragraph (8) of subsection (a), whether or not on a reimbursable basis.
   - **(4)** The Secretary concerned may pay any other expenses relating to the remains of such a decedent that are authorized to be paid under this section on a reimbursable basis. Amounts reimbursed to the Secretary concerned under this subsection shall be credited to appropriations available at the time of reimbursement for the payment of such expenses.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1482(a) 1482(b) 1482(c) | 5:2152 (less 1st 27 words, as applicable to armed forces). 5:2153 (1st 18 words, as applicable to armed forces). 5:2161 (as applicable to armed forces). 5:2162 (as applicable to armed forces). | July 15, 1954, ch. 507 , §§ 2 (less 1st 25 words, as applicable to armed forces), 3 (1st 16 words, as applicable to armed forces), 11 (as applicable to armed forces), 12 (as applicable to armed forces), 68 Stat. 478 , 480, 481. |
+
+
+Presentation of Flag of the United States
+
+Historical and Revision Notes
+
+1482(a)
+
+1482(b)
+
+1482(c)
+
+July 15, 1954, ch. 507
+
+68 Stat. 478
+
+Policy required
+
+Procedures
+
+Elements
+
+Transportation for Family
+
+Transportation of Deceased Military Member
+
+Required Transportation
+
+Escorted Remains Destination
+
+Air Transportation From Dover AFB.—
+
+Military transportation
+
+Alternative transportation by aircraft
+
+Primary mission
+
+Waiver
+
+Escort.—
+
+In general
+
+Other escort
+
+Honor Guard Detail.—
+
+Provision of detail
+
+Composition
+
+Duties
+
+Secretary Concerned Defined
+
+Effective Date
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 113; [Pub. L. 85–716](https://www.govinfo.gov/link/plaw/85/public/716), Aug. 21, 1958, [72 Stat. 708](https://www.govinfo.gov/link/statute/72/708); [Pub. L. 91–397](https://www.govinfo.gov/link/plaw/91/public/397), Sept. 1, 1970, [84 Stat. 837](https://www.govinfo.gov/link/statute/84/837); [Pub. L. 91–487](https://www.govinfo.gov/link/plaw/91/public/487), Oct. 22, 1970, [84 Stat. 1086](https://www.govinfo.gov/link/statute/84/1086); [Pub. L. 93–292](https://www.govinfo.gov/link/plaw/93/public/292), May 28, 1974, [88 Stat. 176](https://www.govinfo.gov/link/statute/88/176); [Pub. L. 93–649](https://www.govinfo.gov/link/plaw/93/public/649), Jan. 8, 1975, [88 Stat. 2361](https://www.govinfo.gov/link/statute/88/2361); [Pub. L. 101–189, div. A, title VI](https://www.govinfo.gov/link/plaw/101/public/189), §§ 652(a)(3), 653(a)(6), title XVI, § 1622(c)(4), Nov. 29, 1989, [103 Stat. 1461](https://www.govinfo.gov/link/statute/103/1461), 1462, 1604; [Pub. L. 103–337, div. A, title VI, § 652(a)(2)](https://www.govinfo.gov/link/plaw/103/public/337), title XVI, § 1671(c)(8), Oct. 5, 1994, [108 Stat. 2793](https://www.govinfo.gov/link/statute/108/2793), 3014; [Pub. L. 104–106, div. A, title XV, § 1501(c)(19)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 499](https://www.govinfo.gov/link/statute/110/499); [Pub. L. 107–107, div. A, title VI, § 638(b)(1)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1147](https://www.govinfo.gov/link/statute/115/1147); [Pub. L. 110–181, div. A, title V, § 591](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 138](https://www.govinfo.gov/link/statute/122/138); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title V, § 581, Oct. 14, 2008, [122 Stat. 4472](https://www.govinfo.gov/link/statute/122/4472); [Pub. L. 112–81, div. A, title V, § 528](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1402](https://www.govinfo.gov/link/statute/125/1402); [Pub. L. 113–66, div. A, title VI](https://www.govinfo.gov/link/plaw/113/public/66), §§ 621(e), 651(a)(2)–(c), Dec. 26, 2013, [127 Stat. 784](https://www.govinfo.gov/link/statute/127/784), 787, 788; [Pub. L. 115–91, div. A, title VI, § 632](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1431](https://www.govinfo.gov/link/statute/131/1431); [Pub. L. 116–92, div. A, title V, § 573(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1404](https://www.govinfo.gov/link/statute/133/1404); [Pub. L. 117–263, div. A, title VI, § 641](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2633](https://www.govinfo.gov/link/statute/136/2633).)*

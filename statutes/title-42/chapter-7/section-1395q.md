@@ -3,9 +3,10 @@ title: "Section 1395q - Coverage period"
 usc_title: 42
 usc_section: "1395q"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1395q"
-generated_at: "2026-03-30T02:56:10.955Z"
+generated_at: "2026-11-23T21:26:31.457Z"
+status: "active"
 ---
 
 # § 1395q. Coverage period
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:56:10.955Z"
   - **(4)** In addition to the reasons for termination under subsection (b), the coverage period of an individual described in paragraph (1) or (2) shall end when the individual becomes entitled to benefits under this subchapter under subsection (a) or (b) of section 426 of this title , or under section 426–1 of this title , or is no longer eligible for such coverage as a result of the application of section 1395 o (b)(2) of this title.
   - **(5)** The Secretary may conduct public education activities to raise awareness of the availability of more comprehensive, individual health insurance coverage (as defined in section 300gg–91 of this title ) for individuals eligible under section 1395 o (b) of this title to enroll or to be deemed enrolled in the medical insurance program established under this part for purposes of coverage of immunosuppressive drugs.
 - **(i)** Notwithstanding subsection (a), in the case of an individual who enrolls during the special enrollment period pursuant to section 1395p( o ) of this title, the coverage period shall begin on January 1, 2025 .
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1838, as added [Pub. L. 89–97, title I, § 102(a)](https://www.govinfo.gov/link/plaw/89/public/97), July 30, 1965, [79 Stat. 305](https://www.govinfo.gov/link/statute/79/305); amended [Pub. L. 90–248, title I, § 145(c)](https://www.govinfo.gov/link/plaw/90/public/248), Jan. 2, 1968, [81 Stat. 859](https://www.govinfo.gov/link/statute/81/859); [Pub. L. 92–603, title II](https://www.govinfo.gov/link/plaw/92/public/603), §§ 201(c)(3), 206(b), (c), 257(a), Oct. 30, 1972, [86 Stat. 1373](https://www.govinfo.gov/link/statute/86/1373), 1378, 1447; [Pub. L. 96–499, title IX](https://www.govinfo.gov/link/plaw/96/public/499), §§ 945(c)(1), 947(b), Dec. 5, 1980, [94 Stat. 2642](https://www.govinfo.gov/link/statute/94/2642), 2643; [Pub. L. 97–35, title XXI](https://www.govinfo.gov/link/plaw/97/public/35), §§ 2106(b)(2), 2151(a)(3), Aug. 13, 1981, [95 Stat. 792](https://www.govinfo.gov/link/statute/95/792), 802; [Pub. L. 98–369, div. B, title III, § 2338(c)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1092](https://www.govinfo.gov/link/statute/98/1092); [Pub. L. 99–272, title IX, § 9201(c)(2)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 171](https://www.govinfo.gov/link/statute/100/171); [Pub. L. 99–509, title IX, § 9344(b)(1)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 2042](https://www.govinfo.gov/link/statute/100/2042); [Pub. L. 103–432, title I, § 147(f)(1)(B)](https://www.govinfo.gov/link/plaw/103/public/432), Oct. 31, 1994, [108 Stat. 4430](https://www.govinfo.gov/link/statute/108/4430); [Pub. L. 105–33, title IV, § 4581(b)(2)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 465](https://www.govinfo.gov/link/statute/111/465); [Pub. L. 108–173, title VII, § 736(b)(6)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2356](https://www.govinfo.gov/link/statute/117/2356); [Pub. L. 109–171, title V, § 5115(a)(2)(B)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 46](https://www.govinfo.gov/link/statute/120/46); [Pub. L. 116–260, div. CC, title I, § 120(a)(1)](https://www.govinfo.gov/link/plaw/116/public/260), (2)(B), title IV, § 402(a)(2)(B)(i), (c), Dec. 27, 2020, [134 Stat. 2953](https://www.govinfo.gov/link/statute/134/2953), 2954, 2999, 3000; [Pub. L. 117–108, title I, § 101(b)(2)(B)](https://www.govinfo.gov/link/plaw/117/public/108), Apr. 6, 2022, [136 Stat. 1136](https://www.govinfo.gov/link/statute/136/1136).)*

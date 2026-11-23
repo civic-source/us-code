@@ -3,9 +3,10 @@ title: "Section 3007 - Penalty"
 usc_title: 25
 usc_section: "3007"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3007"
-generated_at: "2026-03-30T02:54:52.846Z"
+generated_at: "2026-11-23T21:25:54.681Z"
+status: "active"
 ---
 
 # § 3007. Penalty
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:52.846Z"
   - **(3)** the number of violations that have occurred.
 - **(c)** If any museum fails to pay an assessment of a civil penalty pursuant to a final order of the Secretary that has been issued under subsection (a) and not appealed or after a final judgment has been rendered on appeal of such order, the Attorney General may institute a civil action in an appropriate district court of the United States to collect the penalty. In such action, the validity and amount of such penalty shall not be subject to review.
 - **(d)** In hearings held pursuant to subsection (a), subpoenas may be issued for the attendance and testimony of witnesses and the production of relevant papers, books, and documents. Witnesses so summoned shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States.
+
+## Source Credit
+
+*([Pub. L. 101–601, § 9](https://www.govinfo.gov/link/plaw/101/public/601), Nov. 16, 1990, [104 Stat. 3057](https://www.govinfo.gov/link/statute/104/3057).)*

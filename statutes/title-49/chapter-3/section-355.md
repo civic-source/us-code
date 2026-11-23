@@ -3,9 +3,10 @@ title: "Section 355 - Motorcyclist Advisory Council"
 usc_title: 49
 usc_section: "355"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 355"
-generated_at: "2026-03-30T02:56:19.302Z"
+generated_at: "2026-11-23T21:26:40.594Z"
+status: "active"
 ---
 
 # § 355. Motorcyclist Advisory Council
@@ -62,3 +63,57 @@ generated_at: "2026-03-30T02:56:19.302Z"
         - **(II)** for each such recommendation, whether the recommendation—
   - **(3)** The Secretary shall provide to the Council such administrative support, staff, and technical assistance as the Secretary determines to be necessary to carry out the duties of the Council under this section.
 - **(e)** The Council shall terminate on the date that is 6 years after the date on which the Council is established under subsection (a).
+
+Establishment
+
+Membership.—
+
+In general
+
+Term.—
+
+In general
+
+Additional term
+
+Appointment of replacements
+
+Vacancies
+
+Compensation
+
+Duties.—
+
+Advising
+
+Biennial report
+
+Duties of Secretary.—
+
+Council recommendations.—
+
+In general
+
+Inclusion in review.—
+
+In general
+
+Exception
+
+Review.—
+
+In general
+
+Contents
+
+(aa) is accepted or rejected by the Secretary; or
+
+(bb) remains under consideration by the Secretary.
+
+Administrative and technical support
+
+Termination
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. B, title IV, § 24111(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 812](https://www.govinfo.gov/link/statute/135/812).)*

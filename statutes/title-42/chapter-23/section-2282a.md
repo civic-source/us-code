@@ -3,9 +3,10 @@ title: "Section 2282a - Civil monetary penalties for violation of Department of 
 usc_title: 42
 usc_section: "2282a"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2282a"
-generated_at: "2026-03-30T02:56:11.158Z"
+generated_at: "2026-11-23T21:26:32.389Z"
+status: "active"
 ---
 
 # § 2282a. Civil monetary penalties for violation of Department of Energy safety and whistleblower regulations
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.158Z"
 - **(d)**
   - **(1)** Notwithstanding subsection (a), in the case of any not-for-profit contractor, subcontractor, or supplier, the total amount of civil penalties paid under subsection (a) may not exceed the total amount of fees paid within any 1-year period (as determined by the Secretary) under the contract under which the violation occurs.
   - **(2)** For purposes of this section, the term “not-for-profit” means that no part of the net earnings of the contractor, subcontractor, or supplier inures to the benefit of any natural person or for-profit artificial person. e 1 1 So in original. Probably should be “(e)”. Nuclear safety whistleblower protections In this section, the term “nuclear safety whistleblower protections” means the protections for employees of contractors or subcontractors from reprisals pursuant to section 4712 of title 41 , section 5851 of this title , or other provisions of Federal law (including rules, regulations, or orders) affording such protections, with respect to disclosures or other activities covered by such protections that relate to nuclear safety.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 234A, as added [Pub. L. 100–408, § 17](https://www.govinfo.gov/link/plaw/100/public/408), Aug. 20, 1988, [102 Stat. 1081](https://www.govinfo.gov/link/statute/102/1081); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944); amended [Pub. L. 106–65, div. C, title XXXI, § 3147(c)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 938](https://www.govinfo.gov/link/statute/113/938); [Pub. L. 109–58, title VI, § 610(a)](https://www.govinfo.gov/link/plaw/109/public/58), (b), Aug. 8, 2005, [119 Stat. 781](https://www.govinfo.gov/link/statute/119/781); [Pub. L. 116–92, div. C, title XXXI, § 3131](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1958](https://www.govinfo.gov/link/statute/133/1958).)*

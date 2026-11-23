@@ -3,9 +3,10 @@ title: "Section 327 - Employment of professional persons"
 usc_title: 11
 usc_section: "327"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 327"
-generated_at: "2026-03-30T02:53:53.874Z"
+generated_at: "2026-11-23T21:25:34.893Z"
+status: "active"
 ---
 
 # § 327. Employment of professional persons
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:53.874Z"
 - **(d)** The court may authorize the trustee to act as attorney or accountant for the estate if such authorization is in the best interest of the estate.
 - **(e)** The trustee, with the court’s approval, may employ, for a specified special purpose, other than to represent the trustee in conducting the case, an attorney that has represented the debtor, if in the best interest of the estate, and if such attorney does not represent or hold any interest adverse to the debtor or to the estate with respect to the matter on which such attorney is to be employed.
 - **(f)** The trustee may not employ a person that has served as an examiner in the case.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2563](https://www.govinfo.gov/link/statute/92/2563); [Pub. L. 98–353, title III, § 430(c)](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 370](https://www.govinfo.gov/link/statute/98/370); [Pub. L. 99–554, title II](https://www.govinfo.gov/link/plaw/99/public/554), §§ 210, 257(e), Oct. 27, 1986, [100 Stat. 3099](https://www.govinfo.gov/link/statute/100/3099), 3114.)*

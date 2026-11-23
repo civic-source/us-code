@@ -3,9 +3,10 @@ title: "Section 44305 - Insuring United States Government property"
 usc_title: 49
 usc_section: "44305"
 chapter: 443
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44305"
-generated_at: "2026-03-30T02:56:19.380Z"
+generated_at: "2026-11-23T21:26:40.881Z"
+status: "active"
 ---
 
 # § 44305. Insuring United States Government property
@@ -16,3 +17,32 @@ generated_at: "2026-03-30T02:56:19.380Z"
     - **(A)** in carrying out a contract of the department, agency, or instrumentality; or
     - **(B)** to transport military forces or materiel on behalf of the United States under an agreement between the Government and the government of a foreign country.
 - **(b)** With the approval required under subsection (a) of this section, the Secretary of Transportation may provide the insurance without premium at the request of the Secretary of Defense or the head of a department, agency, or instrumentality designated by the President when the Secretary of Defense or the designated head agrees to indemnify the Secretary of Transportation against all losses covered by the insurance. The Secretary of Defense and any designated head may make indemnity agreements with the Secretary of Transportation under this section. If such an agreement is countersigned by the President or the President’s designee, the agreement shall constitute, for purposes of section 44302(c), a determination that continuation of the aircraft operations to which the agreement applies is necessary to carry out the foreign policy of the United States.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44305 | 49 App.:1534. | Aug. 23, 1958 , Pub. L. 85–726, § 1304 , 72 Stat. 802 ; Oct. 31, 1992 , Pub. L. 102–581, § 401(a) , 106 Stat. 4897 . |
+
+
+General
+
+Premium Waivers and Indemnification
+
+Historical and Revision Notes
+
+44305
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 1304
+
+72 Stat. 802
+
+Oct. 31, 1992
+
+Pub. L. 102–581, § 401(a)
+
+106 Stat. 4897
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1170](https://www.govinfo.gov/link/statute/108/1170); [Pub. L. 105–137, § 3](https://www.govinfo.gov/link/plaw/105/public/137), Dec. 2, 1997, [111 Stat. 2640](https://www.govinfo.gov/link/statute/111/2640); [Pub. L. 107–42, title II, § 201(e)](https://www.govinfo.gov/link/plaw/107/public/42), Sept. 22, 2001, [115 Stat. 236](https://www.govinfo.gov/link/statute/115/236); [Pub. L. 107–217, § 3(n)(6)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1303](https://www.govinfo.gov/link/statute/116/1303).)*

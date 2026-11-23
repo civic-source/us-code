@@ -3,9 +3,10 @@ title: "Section 4503b - Hawaii Experimental Tropical Forest"
 usc_title: 16
 usc_section: "4503b"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4503b"
-generated_at: "2026-03-30T02:54:23.044Z"
+generated_at: "2026-11-23T21:25:52.019Z"
+status: "active"
 ---
 
 # § 4503b. Hawaii Experimental Tropical Forest
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:23.044Z"
       - **(iii)** to preserve and protect the resources in the Forest.
   - **(2)** The authority in section 1643 of this title shall be available to the Secretary to carry out this section.
   - **(3)** Nothing in this section is intended to affect the jurisdiction of the State, both civil and criminal, over any person within the Forest by reason of the establishment of the Forest under this section, except in the case of a penalty for an offense against the United States.
+
+## Source Credit
+
+*([Pub. L. 101–513, title VI, § 606](https://www.govinfo.gov/link/plaw/101/public/513), as added [Pub. L. 102–574, § 2(a)(2)](https://www.govinfo.gov/link/plaw/102/public/574), Oct. 29, 1992, [106 Stat. 4594](https://www.govinfo.gov/link/statute/106/4594).)*

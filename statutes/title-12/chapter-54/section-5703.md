@@ -3,9 +3,10 @@ title: "Section 5703 - Approving States for participation"
 usc_title: 12
 usc_section: "5703"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5703"
-generated_at: "2026-03-30T02:53:53.550Z"
+generated_at: "2026-11-23T21:25:37.302Z"
+status: "active"
 ---
 
 # § 5703. Approving States for participation
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:53:53.550Z"
     - **(B)** If 3 or fewer municipalities, or combination of municipalities as provided in paragraph (3), of a State apply for approval by the Secretary to be participating municipalities under this subsection, and the applications meet the approval criteria in paragraph (4), the Secretary shall allocate Federal funds to each applicant municipality or combination of municipalities.
   - **(6)** If the Secretary approves municipalities to be participating municipalities under this subsection, the Secretary shall apportion the full amount of the Federal funds that are allocated to that State to municipalities that are approved under this subsection in amounts proportionate to the population of those municipalities, based on the most recent available decennial census.
   - **(7)** If the Secretary approves municipalities to be participating municipalities under this subsection, the Secretary shall take into account the additional considerations in section 5705(d) of this title in making the determination under section 5704 or 5705 of this title that the State program or programs to be implemented by the participating municipalities, including a State capital access program, is eligible for Federal contributions to, or for the account of, the State program.
+
+## Source Credit
+
+*([Pub. L. 111–240, title III, § 3004](https://www.govinfo.gov/link/plaw/111/public/240), Sept. 27, 2010, [124 Stat. 2573](https://www.govinfo.gov/link/statute/124/2573); [Pub. L. 117–2, title III, § 3301(a)(1)(B)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 69](https://www.govinfo.gov/link/statute/135/69).)*

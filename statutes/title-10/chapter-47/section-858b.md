@@ -3,9 +3,10 @@ title: "Section 858b - Art. 58b. Sentences: forfeiture of pay and allowances dur
 usc_title: 10
 usc_section: "858b"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 858b"
-generated_at: "2026-03-30T02:53:38.081Z"
+generated_at: "2026-11-23T21:25:32.340Z"
+status: "active"
 ---
 
 # § 858b. Art. 58b. Sentences: forfeiture of pay and allowances during confinement
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:38.081Z"
     - **(B)** confinement for six months or less and a dishonorable or bad-conduct discharge or dismissal.
 - **(b)** In a case involving an accused who has dependents, the convening authority or other person acting under section 860a or 860b of this title (article 60a or 60b) may waive any or all of the forfeitures of pay and allowances required by subsection (a) for a period not to exceed six months. Any amount of pay or allowances that, except for a waiver under this subsection, would be forfeited shall be paid, as the convening authority or other person taking action directs, to the dependents of the accused.
 - **(c)** If the sentence of a member who forfeits pay and allowances under subsection (a) is set aside or disapproved or, as finally approved, does not provide for a punishment referred to in subsection (a)(2), the member shall be paid the pay and allowances which the member would have been paid, except for the forfeiture, for the period during which the forfeiture was in effect.
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title XI, § 1122(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 463](https://www.govinfo.gov/link/statute/110/463); amended [Pub. L. 104–201, div. A, title X, § 1068(a)(1)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2655](https://www.govinfo.gov/link/statute/110/2655); [Pub. L. 105–85, div. A, title X, § 1073(a)(9)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1900](https://www.govinfo.gov/link/statute/111/1900); [Pub. L. 114–328, div. E, title LVIII, § 5302(b)(3)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2923](https://www.govinfo.gov/link/statute/130/2923); [Pub. L. 115–91, div. A, title V, § 531(g)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1385](https://www.govinfo.gov/link/statute/131/1385).)*

@@ -3,12 +3,17 @@ title: "Section 194 - Certification of failure to testify or produce; grand jury
 usc_title: 2
 usc_section: "194"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 194"
-generated_at: "2026-03-30T02:53:04.793Z"
+generated_at: "2026-11-23T21:25:21.150Z"
+status: "active"
 ---
 
 # § 194. Certification of failure to testify or produce; grand jury action
 
 Whenever a witness summoned as mentioned in section 192 of this title fails to appear to testify or fails to produce any books, papers, rec­ords, or documents, as required, or whenever any witness so summoned refuses to answer any question pertinent to the subject under inquiry before either House, or any joint committee established by a joint or concurrent resolution of the two Houses of Congress, or any committee or subcommittee of either House of Congress, and the fact of such failure or failures is reported to either House while Congress is in session or when Congress is not in session, a statement of fact constituting such failure is reported to and filed with the President of the Senate or the Speaker of the House, it shall be the duty of the said President of the Senate or Speaker of the House, as the case may be, to certify, and he shall so certify, the statement of facts aforesaid under the seal of the Senate or House, as the case may be, to the appropriate United States attorney, whose duty it shall be to bring the matter before the grand jury for its action.
 
+
+## Source Credit
+
+*(R.S. § 104; July 13, 1936, ch. 884, [49 Stat. 2041](https://www.govinfo.gov/link/statute/49/2041); June 22, 1938, ch. 594, [52 Stat. 942](https://www.govinfo.gov/link/statute/52/942).)*

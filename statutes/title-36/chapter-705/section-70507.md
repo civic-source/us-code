@@ -3,9 +3,10 @@ title: "Section 70507 - Restrictions"
 usc_title: 36
 usc_section: "70507"
 chapter: 705
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 70507"
-generated_at: "2026-03-30T02:55:44.699Z"
+generated_at: "2026-11-23T21:26:13.591Z"
+status: "active"
 ---
 
 # § 70507. Restrictions
@@ -26,3 +27,52 @@ generated_at: "2026-03-30T02:55:44.699Z"
 - **(f)** The corporation—
   - **(1)** may not claim congressional approval or the authority of the United States Government for any of its activities; and
   - **(2)** may acknowledge this charter.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 70507(a) | 36:582. | Aug. 24, 1954, ch. 911 , §§ 9, 10, 12, 68 Stat. 799 . |
+| 70507(b) | 36:580. |  |
+| 70507(c) | 36:579(a) (words before last comma). |  |
+| 70507(d) | 36:579(b). |  |
+| 70507(e) | 36:579(a) (words after last comma). |  |
+
+
+Stock and Dividends
+
+Political Activities.—
+
+In general
+
+No contribution, support, or participation
+
+Distribution of Income or Assets.—
+
+In general
+
+Rule of construction
+
+Loans
+
+Immunity From Liability
+
+Claim of Governmental Approval or Authority
+
+Historical and Revision Notes
+
+70507(a)
+
+Aug. 24, 1954, ch. 911
+
+68 Stat. 799
+
+70507(b)
+
+70507(c)
+
+70507(d)
+
+70507(e)
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1353](https://www.govinfo.gov/link/statute/112/1353); [Pub. L. 119–57, § 5](https://www.govinfo.gov/link/plaw/119/public/57), Dec. 12, 2025, [139 Stat. 711](https://www.govinfo.gov/link/statute/139/711).)*

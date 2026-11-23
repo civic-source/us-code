@@ -3,9 +3,10 @@ title: "Section 2891a - Requirements relating to management of housing units"
 usc_title: 10
 usc_section: "2891a"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2891a"
-generated_at: "2026-03-30T02:53:38.183Z"
+generated_at: "2026-11-23T21:25:32.700Z"
+status: "active"
 ---
 
 # § 2891a. Requirements relating to management of housing units
@@ -63,3 +64,25 @@ generated_at: "2026-03-30T02:53:38.183Z"
   - **(3)**
     - **(A)** Costs incurred to reasonably modify or upgrade a housing unit to comply with standards addressing discrimination against an individual with a disability established pursuant to the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12101 et seq.), or to meet the reasonable modification and accommodation requirements of section 804 of the Fair Housing Act ( 42 U.S.C. 3604 ) and in order to facilitate occupancy of a housing unit by an individual with a disability, may not be considered optional services under paragraph (2)(A)(i) or another exception to the prohibition in paragraph (1) against collection from tenants of housing units of amounts in addition to rent.
     - **(B)** In subparagraph (A), the term “disability” has the meaning given that term in section 3 of the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12102 ).
+
+In General
+
+Requirements for Installation Commanders
+
+Requirements for Housing Management Office
+
+Requirements for Landlords
+
+Requirements for Secretary Concerned
+
+Prohibition Against Collection of Amounts in Addition to Rent
+
+In general
+
+Submittal of list to congress
+
+Consideration of lack of agreement in future contracts
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. B, title XXX, § 3014(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1924](https://www.govinfo.gov/link/statute/133/1924); amended [Pub. L. 116–283, div. B, title XXVIII, § 2811(d)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4324](https://www.govinfo.gov/link/statute/134/4324); [Pub. L. 117–81, div. A, title X, § 1081(a)(31)](https://www.govinfo.gov/link/plaw/117/public/81), div. B, title XXVIII, § 2813(b)(1), Dec. 27, 2021, [135 Stat. 1921](https://www.govinfo.gov/link/statute/135/1921), 2192; [Pub. L. 117–263, div. B, title XXVIII, § 2824](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3001](https://www.govinfo.gov/link/statute/136/3001).)*

@@ -3,12 +3,17 @@ title: "Section 360 - Authority to manage certain mineral leases"
 usc_title: 30
 usc_section: "360"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 360"
-generated_at: "2026-03-30T02:55:29.383Z"
+generated_at: "2026-11-23T21:26:00.381Z"
+status: "active"
 ---
 
 # § 360. Authority to manage certain mineral leases
 
 Each department, agency and instrumentality of the United States which administers lands acquired by the United States with one or more existing mineral lease shall transfer to the Secretary of the Interior the authority to administer such lease and to collect all receipts due and payable to the United States under the lease. In the case of lands acquired on or before October 24, 1992 , the authority to administer the leases and collect receipts shall be transferred to the Secretary of the Interior as expeditiously as practicable after October 24, 1992 . In the case of lands acquired after October 24, 1992 , such authority shall be vested with the Secretary at the time of acquisition. The provisions of section 355 of this title shall apply to all receipts derived from such leases where such receipts are due and payable to the United States under the lease in the same manner as such provisions apply to receipts derived from leases issued under the authority of this chapter. For purposes of this section, the term “existing mineral lease” means any lease in existence at the time land is acquired by the United States. Nothing in this section shall be construed to affect the existing surface management authority of any Federal agency.
 
+
+## Source Credit
+
+*(Aug. 7, 1947, ch. 513, § 11, as added [Pub. L. 102–486, title XXV, § 2506(b)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3106](https://www.govinfo.gov/link/statute/106/3106).)*

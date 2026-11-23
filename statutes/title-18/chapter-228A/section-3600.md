@@ -3,9 +3,10 @@ title: "Section 3600 - DNA testing"
 usc_title: 18
 usc_section: "3600"
 chapter: 228
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3600"
-generated_at: "2026-03-30T02:54:16.521Z"
+generated_at: "2026-11-23T21:25:44.214Z"
+status: "active"
 ---
 
 # § 3600. DNA testing
@@ -93,3 +94,77 @@ generated_at: "2026-03-30T02:54:16.521Z"
   - **(1)** Nothing in this section shall affect the circumstances under which a person may obtain DNA testing or post-conviction relief under any other law.
   - **(2)** Nothing in this section shall provide a basis for relief in any Federal habeas corpus proceeding.
   - **(3)** A motion under this section shall not be considered to be a motion under section 2255 for purposes of determining whether the motion or any other motion is a second or successive motion under section 2255.
+
+In General
+
+Notice to the Government; Preservation Order; Appointment of Counsel.—
+
+Notice
+
+Preservation order
+
+Appointment of counsel
+
+Testing Procedures.—
+
+In general
+
+Exception
+
+Costs
+
+Time Limitation in Capital Cases
+
+Reporting of Test Results.—
+
+Results.—
+
+In general
+
+Results exclude applicant.—
+
+In general
+
+NDIS search
+
+Retention of dna sample.—
+
+Entry into ndis
+
+Match with other offense
+
+No match
+
+Post-Testing Procedures; Inconclusive and Inculpatory Results.—
+
+Inconclusive results
+
+Inculpatory results
+
+Sentence
+
+Post-Testing Procedures; Motion for New Trial or Resentencing.—
+
+In general
+
+Standard for granting motion for new trial or resentencing
+
+Other Laws Unaffected.—
+
+Post-conviction relief
+
+Habeas corpus
+
+Not a motion under section 2255
+
+Establishment
+
+Operation
+
+Report
+
+Additional information
+
+## Source Credit
+
+*(Added [Pub. L. 108–405, title IV, § 411(a)(1)](https://www.govinfo.gov/link/plaw/108/public/405), Oct. 30, 2004, [118 Stat. 2279](https://www.govinfo.gov/link/statute/118/2279); amended [Pub. L. 114–324, § 11(a)](https://www.govinfo.gov/link/plaw/114/public/324), Dec. 16, 2016, [130 Stat. 1956](https://www.govinfo.gov/link/statute/130/1956).)*

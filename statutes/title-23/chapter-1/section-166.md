@@ -3,9 +3,10 @@ title: "Section 166 - HOV facilities"
 usc_title: 23
 usc_section: "166"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 166"
-generated_at: "2026-03-30T02:55:12.562Z"
+generated_at: "2026-11-23T21:25:53.904Z"
+status: "active"
 ---
 
 # § 166. HOV facilities
@@ -100,3 +101,97 @@ generated_at: "2026-03-30T02:55:12.562Z"
       - **(ii)** is operated under a contract with a public entity; or
       - **(iii)** is operated pursuant to a license by the Secretary or a public authority to provide motorbus or school vehicle transportation services to the public.
 - **(g)** If a HOV facility charging tolls under paragraph (4) or (5) of subsection (b) is on the Interstate System and located in a metropolitan planning area established in accordance with section 134, the public authority shall consult with the metropolitan planning organization for the area concerning the placement and amount of tolls on the facility.
+
+In General.—
+
+Authority of public authorities
+
+Occupancy requirement
+
+Exceptions.—
+
+In general
+
+Motorcycles and bicycles.—
+
+In general
+
+Safety exception
+
+In general
+
+Acceptance of certification
+
+Public transportation vehicles
+
+High occupancy toll vehicles
+
+Low emission and energy-efficient vehicles.—
+
+Special rule
+
+Other low emission and energy-efficient vehicles
+
+Amount of tolls
+
+Blood transport vehicles
+
+Requirements Applicable to Tolls.—
+
+In general
+
+Toll revenue
+
+Facility Management, Operation, Monitoring, and Enforcement.—
+
+In general
+
+Maintenance of operating performance.—
+
+Submission of plan
+
+Notice of approval or disapproval
+
+Annual progress updates
+
+Compliance
+
+Waiver.—
+
+In general
+
+Condition
+
+Degraded facility.—
+
+Definition of minimum average operating speed
+
+Standard for determining degraded facility
+
+Management of low emission and energy-efficient vehicles
+
+Certification of Low Emission and Energy-Efficient Vehicles
+
+Definitions
+
+Alternative fuel vehicle
+
+facility
+
+Low emission and energy-efficient vehicle
+
+Over-the-road bus
+
+Public authority
+
+Public transportation vehicle
+
+Consultation of MPO
+
+In general
+
+Inclusion
+
+## Source Credit
+
+*(Added [Pub. L. 109–59, title I, § 1121(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1192](https://www.govinfo.gov/link/statute/119/1192); amended [Pub. L. 110–244, title I, § 101(p)](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1576](https://www.govinfo.gov/link/statute/122/1576); [Pub. L. 112–141, div. A, title I, § 1514](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 572](https://www.govinfo.gov/link/statute/126/572); [Pub. L. 114–94, div. A, title I, § 1411(b)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1413](https://www.govinfo.gov/link/statute/129/1413); [Pub. L. 117–58, div. A, title I](https://www.govinfo.gov/link/plaw/117/public/58), §§ 11525(k), 11527, Nov. 15, 2021, [135 Stat. 607](https://www.govinfo.gov/link/statute/135/607), 610.)*

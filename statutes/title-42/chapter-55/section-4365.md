@@ -3,9 +3,10 @@ title: "Section 4365 - Science Advisory Board"
 usc_title: 42
 usc_section: "4365"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4365"
-generated_at: "2026-03-30T02:56:11.202Z"
+generated_at: "2026-11-23T21:26:32.659Z"
+status: "active"
 ---
 
 # § 4365. Science Advisory Board
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:11.202Z"
 - **(g)** In carrying out the functions assigned by this section, the Board shall consult and coordinate its activities with the Scientific Advisory Panel established by the Administrator pursuant to section 136w(d) of title 7 .
 - **(h)** The Board shall make every effort, consistent with applicable law, including section 552 of title 5 (commonly known as the “Freedom of Information Act”) and section 552a of title 5 (commonly known as the “Privacy Act”), to maximize public participation and transparency, including making the scientific and technical advice of the Board and any committees or investigative panels of the Board publically available in electronic form on the website of the Environmental Protection Agency.
 - **(i)** The Administrator shall annually report to the Committees on Environment and Public Works and Agriculture of the Senate and the Committees on Transportation and Infrastructure, Energy and Commerce, and Agriculture of the House of Representatives regarding the membership and activities of the standing agriculture-related committee established pursuant to subsection (e)(2)(A)(i).
+
+## Source Credit
+
+*([Pub. L. 95–155, § 8](https://www.govinfo.gov/link/plaw/95/public/155), Nov. 8, 1977, [91 Stat. 1260](https://www.govinfo.gov/link/statute/91/1260); [Pub. L. 96–569, § 3](https://www.govinfo.gov/link/plaw/96/public/569), Dec. 22, 1980, [94 Stat. 3337](https://www.govinfo.gov/link/statute/94/3337); [Pub. L. 103–437, § 15](https://www.govinfo.gov/link/plaw/103/public/437) (o), Nov. 2, 1994, [108 Stat. 4593](https://www.govinfo.gov/link/statute/108/4593); [Pub. L. 104–66, title II, § 2021(k)(3)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 728](https://www.govinfo.gov/link/statute/109/728); [Pub. L. 113–79, title XII, § 12307](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 989](https://www.govinfo.gov/link/statute/128/989).)*

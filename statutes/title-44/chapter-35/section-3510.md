@@ -3,9 +3,10 @@ title: "Section 3510 - Cooperation of agencies in making information available"
 usc_title: 44
 usc_section: "3510"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 3510"
-generated_at: "2026-03-30T02:55:56.297Z"
+generated_at: "2026-11-23T21:26:18.431Z"
+status: "active"
 ---
 
 # § 3510. Cooperation of agencies in making information available
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:56.297Z"
 - **(b)**
   - **(1)** If information obtained by an agency is released by that agency to another agency, all the provisions of law (including penalties) that relate to the unlawful disclosure of information apply to the officers and employees of the agency to which information is released to the same extent and in the same manner as the provisions apply to the officers and employees of the agency which originally obtained the information.
   - **(2)** The officers and employees of the agency to which the information is released, in addition, shall be subject to the same provisions of law, including penalties, relating to the unlawful disclosure of information as if the information had been collected directly by that agency.
+
+## Source Credit
+
+*(Added [Pub. L. 104–13, § 2](https://www.govinfo.gov/link/plaw/104/public/13), May 22, 1995, [109 Stat. 180](https://www.govinfo.gov/link/statute/109/180).)*

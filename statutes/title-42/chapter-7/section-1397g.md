@@ -3,9 +3,10 @@ title: "Section 1397g - Demonstration projects to address health professions wor
 usc_title: 42
 usc_section: "1397g"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1397g"
-generated_at: "2026-03-30T02:56:11.066Z"
+generated_at: "2026-11-23T21:26:31.930Z"
+status: "active"
 ---
 
 # § 1397g. Demonstration projects to address health professions workforce needs
@@ -97,3 +98,7 @@ generated_at: "2026-03-30T02:56:11.066Z"
 - **(d)**
   - **(1)** Except as provided in paragraph (2), the preceding sections of this division shall not apply to grant 2 2 So in original. awarded under this section.
   - **(2)** Section 1397d(a) of this title (other than paragraph (6)) shall apply to a grant awarded under this section to the same extent and in the same manner as such section applies to payments to States under this division.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XX, § 2008, as added and amended [Pub. L. 111–148, title V, § 5507(a)](https://www.govinfo.gov/link/plaw/111/public/148), title VI, § 6703(d)(1)(B), Mar. 23, 2010, [124 Stat. 663](https://www.govinfo.gov/link/statute/124/663), 803; [Pub. L. 113–93, title II, § 208](https://www.govinfo.gov/link/plaw/113/public/93), Apr. 1, 2014, [128 Stat. 1046](https://www.govinfo.gov/link/statute/128/1046); [Pub. L. 113–128, title V, § 512(dd)(4)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1718](https://www.govinfo.gov/link/statute/128/1718); [Pub. L. 114–10, title II, § 217](https://www.govinfo.gov/link/plaw/114/public/10), Apr. 16, 2015, [129 Stat. 153](https://www.govinfo.gov/link/statute/129/153); [Pub. L. 115–123, div. E, title VI, § 50611](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 232](https://www.govinfo.gov/link/statute/132/232).)*

@@ -3,9 +3,10 @@ title: "Section 173 - Functions of Service"
 usc_title: 29
 usc_section: "173"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 173"
-generated_at: "2026-03-30T02:55:18.679Z"
+generated_at: "2026-11-23T21:26:02.169Z"
+status: "active"
 ---
 
 # § 173. Functions of Service
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:18.679Z"
 - **(d)** Final adjustment by a method agreed upon by the parties is declared to be the desirable method for settlement of grievance disputes arising over the application or interpretation of an existing collective-bargaining agreement. The Service is directed to make its conciliation and mediation services available in the settlement of such grievance disputes only as a last resort and in exceptional cases.
 - **(e)** The Service is authorized and directed to encourage and support the establishment and operation of joint labor management activities conducted by plant, area, and industrywide committees designed to improve labor management relationships, job security and organizational effectiveness, in accordance with the provisions of section 175a of this title .
 - **(f)** The Service may make its services available to Federal agencies to aid in the resolution of disputes under the provisions of subchapter IV of chapter 5 of title 5. Functions performed by the Service may include assisting parties to disputes related to administrative programs, training persons in skills and procedures employed in alternative means of dispute resolution, and furnishing officers and employees of the Service to act as neutrals. Only officers and employees who are qualified in accordance with section 573 of title 5 may be assigned to act as neutrals. The Service shall consult with the agency designated by, or the interagency committee designated or established by, the President under section 573 of title 5 in maintaining rosters of neutrals and arbitrators, and to adopt such procedures and rules as are necessary to carry out the services authorized in this subsection.
+
+## Source Credit
+
+*(June 23, 1947, ch. 120, title II, § 203, [61 Stat. 153](https://www.govinfo.gov/link/statute/61/153); [Pub. L. 95–524, § 6(c)(1)](https://www.govinfo.gov/link/plaw/95/public/524), Oct. 27, 1978, [92 Stat. 2020](https://www.govinfo.gov/link/statute/92/2020); [Pub. L. 101–552, § 7](https://www.govinfo.gov/link/plaw/101/public/552), Nov. 15, 1990, [104 Stat. 2746](https://www.govinfo.gov/link/statute/104/2746); [Pub. L. 102–354, § 5(b)(5)](https://www.govinfo.gov/link/plaw/102/public/354), Aug. 26, 1992, [106 Stat. 946](https://www.govinfo.gov/link/statute/106/946); [Pub. L. 104–320, § 4(c)](https://www.govinfo.gov/link/plaw/104/public/320), Oct. 19, 1996, [110 Stat. 3871](https://www.govinfo.gov/link/statute/110/3871).)*

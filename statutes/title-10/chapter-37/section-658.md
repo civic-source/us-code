@@ -3,9 +3,10 @@ title: "Section 658 - Medical accession standards for members of the armed force
 usc_title: 10
 usc_section: "658"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 658"
-generated_at: "2026-03-30T02:53:38.072Z"
+generated_at: "2026-11-23T21:25:32.308Z"
+status: "active"
 ---
 
 # § 658. Medical accession standards for members of the armed forces
@@ -22,3 +23,13 @@ generated_at: "2026-03-30T02:53:38.072Z"
     - **(B)** the number and type of approvals granted under subsection (b) during the preceding calendar year; and
     - **(C)** any revisions to the medical accession standards established under subsection (a) or the waiver process established under subsection (b) since the preceding report.
   - **(2)** In any fiscal year in which the accession of a person into the Coast Guard is approved under the process established under subsection (b), the Secretary of the department in which the Coast Guard is operating shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report identifying the information required under paragraph (1)(B) with respect to such member.
+
+Establishment of Standards
+
+Process for Review or Waiver of Medical Disqualifications
+
+Reports
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title V, § 533](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 870](https://www.govinfo.gov/link/statute/139/870).)*

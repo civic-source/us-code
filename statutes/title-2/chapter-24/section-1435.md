@@ -3,9 +3,10 @@ title: "Section 1435 - Savings provisions"
 usc_title: 2
 usc_section: "1435"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1435"
-generated_at: "2026-03-30T02:53:04.814Z"
+generated_at: "2026-11-23T21:25:21.232Z"
+status: "active"
 ---
 
 # § 1435. Savings provisions
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:04.814Z"
     - **(A)** to file a charge with the General Accounting Office Personnel Appeals Board 2 2 See Change of Name note below. pursuant to section 1831(e)(3) 1 of this title, and thereafter proceed exclusively under section 1831(e) 1 of this title, the provisions of which shall remain in effect until the completion of all proceedings in relation to the charge, or
     - **(B)** to commence a civil action under section 1408 of this title .
 - **(c)** With respect to matters other than employment under section 12209 1 of title 42, the rights, protections, remedies, and procedures of section 12209 1 of title 42 shall remain in effect until section 1331 of this title takes effect with respect to each of the entities covered by section 12209 1 of title 42.
+
+## Source Credit
+
+*([Pub. L. 104–1, title V, § 506](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 42](https://www.govinfo.gov/link/statute/109/42).)*

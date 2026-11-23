@@ -3,9 +3,10 @@ title: "Section 1275 - Columbia River Basin Restoration"
 usc_title: 33
 usc_section: "1275"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1275"
-generated_at: "2026-03-30T02:55:41.085Z"
+generated_at: "2026-11-23T21:26:11.366Z"
+status: "active"
 ---
 
 # § 1275. Columbia River Basin Restoration
@@ -87,3 +88,7 @@ generated_at: "2026-03-30T02:55:41.085Z"
   - **(1)** the amounts obligated for the preceding fiscal year for protection and restoration projects, programs, and studies relating to the Columbia River Basin;
   - **(2)** the estimated budget for the current fiscal year for protection and restoration projects, programs, and studies relating to the Columbia River Basin; and
   - **(3)** the proposed budget for protection and restoration projects, programs, and studies relating to the Columbia River Basin.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title I, § 123, as added [Pub. L. 114–322, title IV, § 5010](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1898](https://www.govinfo.gov/link/statute/130/1898); amended [Pub. L. 115–270, title IV, § 4105](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3875](https://www.govinfo.gov/link/statute/132/3875).)*

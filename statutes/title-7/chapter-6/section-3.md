@@ -3,9 +3,10 @@ title: "Section 3 - Identification of pests; cooperation with Department of Agri
 usc_title: 7
 usc_section: "3"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3"
-generated_at: "2026-03-30T02:53:42.263Z"
+generated_at: "2026-11-23T21:25:27.899Z"
+status: "active"
 ---
 
 # § 136w–3. Identification of pests; cooperation with Department of Agriculture’s program
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.263Z"
     - **(C)** describe in detail research and extension efforts designed to address the needs identified in subparagraph (B).
 - **(c)** The Administrator, in cooperation with the Secretary of Agriculture, shall develop approaches to the control of pests based on integrated pest management that respond to the needs of producers, with a special emphasis on minor pests.
 - **(d)** The Administrator, in coordination with the Secretary of Agriculture and the Secretary of Health and Human Services, shall identify pests of significant public health importance and, in coordination with the Public Health Service, develop and implement programs to improve and facilitate the safe and necessary use of chemical, biological, and other methods to combat and control such pests of public health importance.
+
+## Source Credit
+
+*(June 25, 1947, ch. 125, § 28, as added [Pub. L. 95–396, § 24(2)](https://www.govinfo.gov/link/plaw/95/public/396), Sept. 30, 1978, [92 Stat. 838](https://www.govinfo.gov/link/statute/92/838); amended [Pub. L. 101–624, title XIV, § 1495](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3629](https://www.govinfo.gov/link/statute/104/3629); [Pub. L. 104–127, title VIII, § 862(b)(1)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1174](https://www.govinfo.gov/link/statute/110/1174); [Pub. L. 104–170, title II, § 236](https://www.govinfo.gov/link/plaw/104/public/170), Aug. 3, 1996, [110 Stat. 1509](https://www.govinfo.gov/link/statute/110/1509).)*

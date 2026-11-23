@@ -3,9 +3,10 @@ title: "Section 3582 - Imposition of a sentence of imprisonment"
 usc_title: 18
 usc_section: "3582"
 chapter: 227
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3582"
-generated_at: "2026-03-30T02:54:16.520Z"
+generated_at: "2026-11-23T21:25:44.210Z"
+status: "active"
 ---
 
 # § 3582. Imposition of a sentence of imprisonment
@@ -51,3 +52,23 @@ generated_at: "2026-03-30T02:54:16.520Z"
     - **(J)** the number of visits to terminally ill prisoners that were denied by the Bureau of Prisons due to security or other concerns, and the reasons given for each denial; and
     - **(K)** the number of motions filed by defendants with the court after all administrative rights to appeal a denial of a sentence reduction had been exhausted, the outcome of each motion, and the time that had elapsed between the date the request was first received by the Bureau of Prisons and the date the defendant filed the motion with the court.
 - **(e)** The court, in imposing a sentence to a term of imprisonment upon a defendant convicted of a felony set forth in chapter 95 (racketeering) or 96 (racketeer influenced and corrupt organizations) of this title or in the Comprehensive Drug Abuse Prevention and Control Act of 1970 ( 21 U.S.C. 801 et seq.), or at any time thereafter upon motion by the Director of the Bureau of Prisons or a United States attorney, may include as a part of the sentence an order that requires that the defendant not associate or communicate with a specified person, other than his attorney, upon a showing of probable cause to believe that association or communication with such person is for the purpose of enabling the defendant to control, manage, direct, finance, or otherwise participate in an illegal enterprise.
+
+Factors To Be Considered in Imposing a Term of Imprisonment
+
+Effect of Finality of Judgment
+
+Modification of an Imposed Term of Imprisonment
+
+Notification Requirements.—
+
+Terminal illness defined
+
+Notification
+
+Annual report
+
+Inclusion of an Order To Limit Criminal Association of Organized Crime and Drug Offenders
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 212(a)(2)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 1998](https://www.govinfo.gov/link/statute/98/1998); amended [Pub. L. 100–690, title VII, § 7107](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4418](https://www.govinfo.gov/link/statute/102/4418); [Pub. L. 101–647, title XXXV, § 3588](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4930](https://www.govinfo.gov/link/statute/104/4930); [Pub. L. 103–322, title VII, § 70002](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1984](https://www.govinfo.gov/link/statute/108/1984); [Pub. L. 104–294, title VI, § 604(b)(3)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3506](https://www.govinfo.gov/link/statute/110/3506); [Pub. L. 107–273, div. B, title III, § 3006](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1806](https://www.govinfo.gov/link/statute/116/1806); [Pub. L. 115–391, title VI, § 603(b)](https://www.govinfo.gov/link/plaw/115/public/391), Dec. 21, 2018, [132 Stat. 5239](https://www.govinfo.gov/link/statute/132/5239).)*

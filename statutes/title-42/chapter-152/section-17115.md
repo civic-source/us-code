@@ -3,9 +3,10 @@ title: "Section 17115 - Technical assistance program to implement industrial emi
 usc_title: 42
 usc_section: "17115"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17115"
-generated_at: "2026-03-30T02:56:11.497Z"
+generated_at: "2026-11-23T21:26:33.767Z"
+status: "active"
 ---
 
 # § 17115. Technical assistance program to implement industrial emissions reduction
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:11.497Z"
     - **(B)** ensure that—
       - **(i)** there is geographic diversity among the eligible entities selected; and
       - **(ii)** the activities carried out with technical assistance under the program reflect a majority of the focus areas described in section 17113(c) of this title .
+
+## Source Credit
+
+*([Pub. L. 110–140, title IV, § 456](https://www.govinfo.gov/link/plaw/110/public/140), as added [Pub. L. 116–260, div. Z, title VI, § 6005(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2559](https://www.govinfo.gov/link/statute/134/2559).)*

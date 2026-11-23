@@ -3,9 +3,10 @@ title: "Section 653 - Office of Rural Affairs"
 usc_title: 15
 usc_section: "653"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 653"
-generated_at: "2026-03-30T02:54:08.104Z"
+generated_at: "2026-11-23T21:25:39.690Z"
+status: "active"
 ---
 
 # § 653. Office of Rural Affairs
@@ -18,3 +19,15 @@ generated_at: "2026-03-30T02:54:08.104Z"
   - **(3)** provide information to industries, organizations, and State and local governments concerning the assistance available to rural small business concerns through the Administration and through other Federal departments and agencies;
   - **(4)** provide information to industries, organizations, educational institutions, and State and local governments concerning programs administered by private organizations, educational institutions, and Federal, State, and local governments which improve the economic opportunities of rural citizens; and
   - **(5)** work with the United States Tourism and Travel Administration to assist small businesses in rural areas with tourism promotion and development.
+
+In General
+
+Preparations
+
+Purposes of the Conferences
+
+Report
+
+## Source Credit
+
+*([Pub. L. 85–536, § 2[26]](https://www.govinfo.gov/link/plaw/85/public/536), as added [Pub. L. 101–574, title III, § 302](https://www.govinfo.gov/link/plaw/101/public/574), Nov. 15, 1990, [104 Stat. 2827](https://www.govinfo.gov/link/statute/104/2827).)*

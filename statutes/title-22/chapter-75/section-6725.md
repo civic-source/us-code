@@ -3,9 +3,10 @@ title: "Section 6725 - Warrants"
 usc_title: 22
 usc_section: "6725"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6725"
-generated_at: "2026-03-30T02:55:05.432Z"
+generated_at: "2026-11-23T21:25:58.696Z"
+status: "active"
 ---
 
 # § 6725. Warrants
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:55:05.432Z"
       - **(vi)** samples that may be taken;
       - **(vii)** the earliest commencement and latest concluding dates and times of the inspection; and
       - **(viii)** the identities of the representatives of the Technical Secretariat on the inspection teams and the Federal Government employees accompanying the inspection team.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. I, title III, § 305](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–875](https://www.govinfo.gov/link/statute/112/2681).)*

@@ -3,9 +3,10 @@ title: "Section 342 - Chief Financial Officer"
 usc_title: 6
 usc_section: "342"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 342"
-generated_at: "2026-03-30T02:53:09.460Z"
+generated_at: "2026-11-23T21:25:25.783Z"
+status: "active"
 ---
 
 # § 342. Chief Financial Officer
@@ -30,3 +31,9 @@ generated_at: "2026-03-30T02:53:09.460Z"
     - **(A)** The Secretary may allocate or reallocate the functions of the Office, or discontinue the Office, in accordance with section 452(a) of this title .
     - **(B)** Section 452(b) of this title shall not apply to any action by the Secretary under this paragraph.
 - **(c)** In any case in which appropriations available to the Department or any officer of the Department are transferred or reprogrammed and notice of such transfer or reprogramming is submitted to the Congress (including any officer, office, or Committee of the Congress), the Chief Financial Officer of the Department shall simultaneously submit such notice to the Select Committee on Homeland Security (or any successor to the jurisdiction of that committee) and the Committee on Government Reform of the House of Representatives, and to the Committee on Governmental Affairs of the Senate.
+
+“The Congress finds the following:
+
+## Source Credit
+
+*([Pub. L. 107–296, title VII, § 702](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2219](https://www.govinfo.gov/link/statute/116/2219); [Pub. L. 108–330](https://www.govinfo.gov/link/plaw/108/public/330), §§ 3(d)(1)(B), 6, 7, Oct. 16, 2004, [118 Stat. 1276](https://www.govinfo.gov/link/statute/118/1276), 1278, 1279.)*

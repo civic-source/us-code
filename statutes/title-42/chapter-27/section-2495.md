@@ -3,9 +3,10 @@ title: "Section 2495 - National Advisory Committee on Education of the Deaf"
 usc_title: 42
 usc_section: "2495"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2495"
-generated_at: "2026-03-30T02:56:11.165Z"
+generated_at: "2026-11-23T21:26:32.425Z"
+status: "active"
 ---
 
 # § 2495. National Advisory Committee on Education of the Deaf
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.165Z"
 - **(c)** The Secretary may, at the request of the Advisory Committee appoint such special advisory professional or technical personnel as may be necessary to enable the Advisory Committee to carry out its duties.
 - **(d)** Members of the Advisory Committee, and advisory or technical personnel appointed pursuant to subsection (c), while attending meetings or conferences of the Advisory Committee or otherwise serving on business of the Advisory Committee, shall be entitled to receive compensation at rates fixed by the Secretary, but not exceeding $100 per day including travel time and while serving away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently.
 - **(e)** The Advisory Committee shall meet at the request of the Secretary, but at least semiannually.
+
+## Source Credit
+
+*([Pub. L. 85–905, § 5](https://www.govinfo.gov/link/plaw/85/public/905), as added [Pub. L. 89–258](https://www.govinfo.gov/link/plaw/89/public/258), Oct. 19, 1965, [79 Stat. 984](https://www.govinfo.gov/link/statute/79/984); amended [Pub. L. 96–88, title III, § 301](https://www.govinfo.gov/link/plaw/96/public/88), title V, § 507, Oct. 17, 1979, [93 Stat. 677](https://www.govinfo.gov/link/statute/93/677), 692.)*

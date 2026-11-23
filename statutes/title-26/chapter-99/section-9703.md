@@ -3,9 +3,10 @@ title: "Section 9703 - Plan benefits"
 usc_title: 26
 usc_section: "9703"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 9703"
-generated_at: "2026-03-30T02:55:27.893Z"
+generated_at: "2026-11-23T21:26:07.040Z"
+status: "active"
 ---
 
 # § 9703. Plan benefits
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:27.893Z"
 - **(f)** For purposes of this subchapter, the term “eligible beneficiary” means an individual who—
   - **(1)** is a coal industry retiree who, on July 20, 1992 , was eligible to receive, and receiving, benefits from the 1950 UMWA Benefit Plan or the 1974 UMWA Benefit Plan, or
   - **(2)** on such date was eligible to receive, and receiving, benefits in either such plan by reason of a relationship to such retiree.
+
+## Source Credit
+
+*(Added [Pub. L. 102–486, title XIX, § 19143(a)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3041](https://www.govinfo.gov/link/statute/106/3041).)*

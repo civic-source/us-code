@@ -3,9 +3,10 @@ title: "Section 3302 - State distribution of funds; matching requirement"
 usc_title: 29
 usc_section: "3302"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3302"
-generated_at: "2026-03-30T02:55:18.762Z"
+generated_at: "2026-11-23T21:26:02.353Z"
+status: "active"
 ---
 
 # § 3302. State distribution of funds; matching requirement
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:18.762Z"
     - **(A)** in the case of an eligible agency serving an outlying area, 12 percent of the total amount of funds expended for adult education and literacy activities in the outlying area, except that the Secretary may decrease the amount of funds required under this subparagraph for an eligible agency; and
     - **(B)** in the case of an eligible agency serving a State, 25 percent of the total amount of funds expended for adult education and literacy activities in the State.
   - **(2)** An eligible agency’s non-Federal contribution required under paragraph (1) may be provided in cash or in kind, fairly evaluated, and shall include only non-Federal funds that are used for adult education and literacy activities in a manner that is consistent with the purpose of this subchapter.
+
+## Source Credit
+
+*([Pub. L. 113–128, title II, § 222](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1614](https://www.govinfo.gov/link/statute/128/1614).)*

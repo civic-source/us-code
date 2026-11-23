@@ -3,9 +3,10 @@ title: "Section 951 - Studies and research"
 usc_title: 30
 usc_section: "951"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 951"
-generated_at: "2026-03-30T02:55:29.393Z"
+generated_at: "2026-11-23T21:26:00.408Z"
+status: "active"
 ---
 
 # § 951. Studies and research
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:29.393Z"
 - **(e)** There is authorized to be appropriated to the Secretary of the Interior such sums as may be necessary to carry out his responsibilities under this section and section 861(b) of this title at an annual rate of not to exceed $20,000,000 for the fiscal year ending June 30, 1970 , $25,000,000 for the fiscal year ending June 30, 1971 , and $60,000,000 for the fiscal year ending June 30, 1972 , and for each succeeding fiscal year thereafter. There is authorized to be appropriated annually to the Secretary of Health and Human Services such sums as may be necessary to carry out his responsibilities under this chapter. Such sums shall remain available until expended.
 - **(f)** The Secretary is authorized to grant on a mine-by-mine basis an exception to any mandatory health or safety standard under this chapter for the purpose of permitting, under such terms and conditions as he may prescribe, accredited educational institutions the opportunity for experimenting with new and improved techniques and equipment to improve the health and safety of miners. No such exception shall be granted unless the Secretary finds that the granting of the exception will not adversely affect the health and safety of miners and publishes his findings.
 - **(g)** The Secretary of Health and Human Services is authorized to make grants to any public or private agency, institution, or organization, and operators or individuals for research and experiments to develop effective respiratory equipment.
+
+## Source Credit
+
+*([Pub. L. 91–173, title V, § 501](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 798](https://www.govinfo.gov/link/statute/83/798); [Pub. L. 95–164, title III, § 303(a)](https://www.govinfo.gov/link/plaw/95/public/164), Nov. 9, 1977, [91 Stat. 1320](https://www.govinfo.gov/link/statute/91/1320); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695).)*

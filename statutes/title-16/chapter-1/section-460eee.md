@@ -3,9 +3,10 @@ title: "Section 460eee - Establishment"
 usc_title: 16
 usc_section: "460eee"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 460eee"
-generated_at: "2026-03-30T02:54:22.837Z"
+generated_at: "2026-11-23T21:25:51.613Z"
+status: "active"
 ---
 
 # § 460eee. Establishment
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:22.837Z"
 - **(c)**
   - **(1)** Except as provided in paragraph (2), the Federal lands, waters, and interests therein within the recreation area are hereby transferred to the National Park Service.
   - **(2)** Those lands depicted on the map referred to in subsection (b) that are necessary for the continued operation, maintenance, and replacement of the Canadian River Project facilities and its purposes of providing for municipal and industrial water supply and flood control shall remain under the jurisdiction of the Bureau of Reclamation.
+
+## Source Credit
+
+*([Pub. L. 101–628, title V, § 502](https://www.govinfo.gov/link/plaw/101/public/628), Nov. 28, 1990, [104 Stat. 4492](https://www.govinfo.gov/link/statute/104/4492).)*

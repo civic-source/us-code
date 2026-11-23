@@ -3,9 +3,10 @@ title: "Section 6501 - Purposes"
 usc_title: 16
 usc_section: "6501"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6501"
-generated_at: "2026-03-30T02:54:23.059Z"
+generated_at: "2026-11-23T21:25:52.041Z"
+status: "active"
 ---
 
 # § 6501. Purposes
@@ -21,3 +22,15 @@ The purposes of this chapter are—
     - **(A)** to promote the recovery of threatened and endangered species;
     - **(B)** to improve biological diversity; and
     - **(C)** to enhance productivity and carbon sequestration.
+
+Map Required
+
+Purposes of Map
+
+Consultation
+
+At-risk Community Defined
+
+## Source Credit
+
+*([Pub. L. 108–148, § 2](https://www.govinfo.gov/link/plaw/108/public/148), Dec. 3, 2003, [117 Stat. 1888](https://www.govinfo.gov/link/statute/117/1888).)*

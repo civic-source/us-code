@@ -3,9 +3,10 @@ title: "Section 247 - Damage to religious property; obstruction of persons in th
 usc_title: 18
 usc_section: "247"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 247"
-generated_at: "2026-03-30T02:54:16.461Z"
+generated_at: "2026-11-23T21:25:43.957Z"
+status: "active"
 ---
 
 # § 247. Damage to religious property; obstruction of persons in the free exercise of religious beliefs
@@ -24,3 +25,9 @@ generated_at: "2026-03-30T02:54:16.461Z"
 - **(e)** No prosecution of any offense described in this section shall be undertaken by the United States except upon the certification in writing of the Attorney General or his designee that in his judgment a prosecution by the United States is in the public interest and necessary to secure substantial justice.
 - **(f)** As used in this section, the term “religious real property” means any church, synagogue, mosque, religious cemetery, or other religious real property, including fixtures or religious objects contained within a place of religious worship, or real property owned or leased by a nonprofit, religiously affiliated organization.
 - **(g)** No person shall be prosecuted, tried, or punished for any noncapital offense under this section unless the indictment is found or the information is instituted not later than 7 years after the date on which the offense was committed.
+
+“The Congress finds the following:
+
+## Source Credit
+
+*(Added [Pub. L. 100–346, § 1](https://www.govinfo.gov/link/plaw/100/public/346), June 24, 1988, [102 Stat. 644](https://www.govinfo.gov/link/statute/102/644); amended [Pub. L. 103–322, title VI, § 60006(d)](https://www.govinfo.gov/link/plaw/103/public/322), title XXXII, § 320103(d), Sept. 13, 1994, [108 Stat. 1971](https://www.govinfo.gov/link/statute/108/1971), 2110; [Pub. L. 104–155, § 3](https://www.govinfo.gov/link/plaw/104/public/155), July 3, 1996, [110 Stat. 1392](https://www.govinfo.gov/link/statute/110/1392); [Pub. L. 104–294, title VI](https://www.govinfo.gov/link/plaw/104/public/294), §§ 601(c)(3), 605(r), Oct. 11, 1996, [110 Stat. 3499](https://www.govinfo.gov/link/statute/110/3499), 3511; [Pub. L. 107–273, div. B, title IV, § 4002(c)(1)](https://www.govinfo.gov/link/plaw/107/public/273), (e)(4), Nov. 2, 2002, [116 Stat. 1808](https://www.govinfo.gov/link/statute/116/1808), 1810; [Pub. L. 115–249, § 2](https://www.govinfo.gov/link/plaw/115/public/249), Sept. 28, 2018, [132 Stat. 3162](https://www.govinfo.gov/link/statute/132/3162).)*

@@ -3,9 +3,10 @@ title: "Section 1194 - Administration and enforcement"
 usc_title: 15
 usc_section: "1194"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1194"
-generated_at: "2026-03-30T02:54:08.129Z"
+generated_at: "2026-11-23T21:25:39.799Z"
+status: "active"
 ---
 
 # § 1194. Administration and enforcement
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:08.129Z"
       - **(ii)** The term “cost-of-living adjustment for the preceding five years” means the percentage by which—
         - **(I)** the Consumer Price Index for the month of June of the calendar year preceding the adjustment; exceeds
         - **(II)** the Consumer Price Index for the month of June preceding the date on which the maximum authorized penalty was last adjusted.
+
+## Source Credit
+
+*(June 30, 1953, ch. 164, § 5, [67 Stat. 112](https://www.govinfo.gov/link/statute/67/112); [Pub. L. 90–189, § 4](https://www.govinfo.gov/link/plaw/90/public/189), Dec. 14, 1967, [81 Stat. 570](https://www.govinfo.gov/link/statute/81/570); [Pub. L. 101–608, title I](https://www.govinfo.gov/link/plaw/101/public/608), §§ 115(c), 118(b), Nov. 16, 1990, [104 Stat. 3120](https://www.govinfo.gov/link/statute/104/3120), 3122; [Pub. L. 110–314, title II, § 217(a)(3)](https://www.govinfo.gov/link/plaw/110/public/314), (b)(1)(C), Aug. 14, 2008, [122 Stat. 3058](https://www.govinfo.gov/link/statute/122/3058), 3059.)*

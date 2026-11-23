@@ -3,9 +3,10 @@ title: "Section 50913 - Acquiring United States Government property and services
 usc_title: 51
 usc_section: "50913"
 chapter: 509
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 50913"
-generated_at: "2026-03-30T02:56:28.708Z"
+generated_at: "2026-11-23T21:26:42.552Z"
+status: "active"
 ---
 
 # § 50913. Acquiring United States Government property and services
@@ -26,3 +27,81 @@ generated_at: "2026-03-30T02:56:28.708Z"
   - **(3)** The Secretary shall ensure the establishment of uniform guidelines for, and consistent implementation of, this section by all Federal agencies.
 - **(c)** The Secretary may collect a payment under this section with the consent of the head of the executive agency establishing the price. Amounts collected under this subsection shall be deposited in the Treasury. Amounts (except for excess launch property) shall be credited to the appropriation from which the cost of providing the property or services was paid.
 - **(d)** The head of a department, agency, or instrumentality of the Government may collect a payment for an activity involved in producing a launch vehicle or reentry vehicle, or the payload of either, for launch or reentry if the activity was agreed to by the owner or manufacturer of the launch vehicle, reentry vehicle, or payload.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 70111(a) | 49 App.:2614(a). | Oct. 30, 1984 , Pub. L. 98–575, § 15(a) , 98 Stat. 3060 ; Nov. 15, 1988 , Pub. L. 100–657, § 4(a) , 102 Stat. 3900 ; Nov. 16, 1990 , Pub. L. 101–611, § 117(b) , 104 Stat. 3202 . |
+| 70111(b) | 49 App.:2614(b)(1). | Oct. 30, 1984 , Pub. L. 98–575, § 15(b)(1) , 98 Stat. 3061 ; Nov. 15, 1988 , Pub. L. 100–657, § 4(b) , 102 Stat. 3901 . |
+| 70111(c) | 49 App.:2614(b)(2), (3). | Oct. 30, 1984 , Pub. L. 98–575, § 15(b)(2) , (3), 98 Stat. 3061 . |
+| 70111(d) | 49 App.:2614(d). | Oct. 30, 1984 , Pub. L. 98–575 , 98 Stat. 3055 , § 15(d); added Nov. 15, 1988 , Pub. L. 100–657, § 4(c) , 102 Stat. 3901 . |
+
+
+General Requirements and Considerations
+
+Price
+
+Collection by Secretary
+
+Collection by Other Governmental Heads
+
+Historical and Revision Notes
+
+70111(a)
+
+Oct. 30, 1984
+
+Pub. L. 98–575, § 15(a)
+
+98 Stat. 3060
+
+Nov. 15, 1988
+
+Pub. L. 100–657, § 4(a)
+
+102 Stat. 3900
+
+Nov. 16, 1990
+
+Pub. L. 101–611, § 117(b)
+
+104 Stat. 3202
+
+70111(b)
+
+Oct. 30, 1984
+
+Pub. L. 98–575, § 15(b)(1)
+
+98 Stat. 3061
+
+Nov. 15, 1988
+
+Pub. L. 100–657, § 4(b)
+
+102 Stat. 3901
+
+70111(c)
+
+Oct. 30, 1984
+
+Pub. L. 98–575, § 15(b)(2)
+
+98 Stat. 3061
+
+70111(d)
+
+Oct. 30, 1984
+
+Pub. L. 98–575
+
+98 Stat. 3055
+
+Nov. 15, 1988
+
+Pub. L. 100–657, § 4(c)
+
+102 Stat. 3901
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1335](https://www.govinfo.gov/link/statute/108/1335), § 70111 of title 49; [Pub. L. 105–303, title I, § 102(a)(11)](https://www.govinfo.gov/link/plaw/105/public/303), Oct. 28, 1998, [112 Stat. 2849](https://www.govinfo.gov/link/statute/112/2849); renumbered § 70111 then § 50913 of title 51, [Pub. L. 111–314, § 4(d)(2)](https://www.govinfo.gov/link/plaw/111/public/314), (3)(M), Dec. 18, 2010, [124 Stat. 3440](https://www.govinfo.gov/link/statute/124/3440), 3441.)*

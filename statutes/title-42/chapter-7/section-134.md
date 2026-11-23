@@ -3,9 +3,10 @@ title: "Section 134 - Coordination requirements for plans providing prescription
 usc_title: 42
 usc_section: "134"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 134"
-generated_at: "2026-03-30T02:56:10.990Z"
+generated_at: "2026-11-23T21:26:31.592Z"
+status: "active"
 ---
 
 # § 1395w–134. Coordination requirements for plans providing prescription drug coverage
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:10.990Z"
 - **(c)**
   - **(1)** The requirements of this section shall not impair or prevent a PDP sponsor or MA organization from applying cost management tools (including differential payments) under all methods of operation.
   - **(2)** The requirements of this section shall not affect the application of the procedures established under section 1395w–102(b)(4)(D) of this title .
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1860D–24, as added [Pub. L. 108–173, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2130](https://www.govinfo.gov/link/statute/117/2130).)*

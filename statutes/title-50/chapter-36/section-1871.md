@@ -3,9 +3,10 @@ title: "Section 1871 - Semiannual report of the Attorney General"
 usc_title: 50
 usc_section: "1871"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1871"
-generated_at: "2026-03-30T02:56:26.210Z"
+generated_at: "2026-11-23T21:26:38.942Z"
+status: "active"
 ---
 
 # § 1871. Semiannual report of the Attorney General
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:26.210Z"
 - **(e)** In this section:
   - **(1)** The term “Foreign Intelligence Surveillance Court” means the court established under section 1803(a) of this title .
   - **(2)** The term “Foreign Intelligence Surveillance Court of Review” means the court established under section 1803(b) of this title .
+
+## Source Credit
+
+*([Pub. L. 95–511, title VI, § 601](https://www.govinfo.gov/link/plaw/95/public/511), as added [Pub. L. 108–458, title VI, § 6002(a)(2)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3743](https://www.govinfo.gov/link/statute/118/3743); amended [Pub. L. 110–261, title I](https://www.govinfo.gov/link/plaw/110/public/261), §§ 101(c)(2), 103, title IV, § 403(b)(2)(B), July 10, 2008, [122 Stat. 2459](https://www.govinfo.gov/link/statute/122/2459), 2460, 2474; [Pub. L. 114–23, title VI, § 604](https://www.govinfo.gov/link/plaw/114/public/23), June 2, 2015, [129 Stat. 297](https://www.govinfo.gov/link/statute/129/297); [Pub. L. 118–49, § 8(b)](https://www.govinfo.gov/link/plaw/118/public/49), Apr. 20, 2024, [138 Stat. 874](https://www.govinfo.gov/link/statute/138/874).)*

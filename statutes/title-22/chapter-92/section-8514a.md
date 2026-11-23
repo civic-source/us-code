@@ -3,9 +3,10 @@ title: "Section 8514a - Imposition of sanctions with respect to the transfer of 
 usc_title: 22
 usc_section: "8514a"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8514a"
-generated_at: "2026-03-30T02:55:05.452Z"
+generated_at: "2026-11-23T21:25:58.742Z"
+status: "active"
 ---
 
 # § 8514a. Imposition of sanctions with respect to the transfer of goods or technologies to Iran that are likely to be used to commit human rights abuses
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:55:05.452Z"
   - **(2)** In the case of a person on the list required by subsection (b) for transferring, or facilitating the transfer of, goods or technologies described in subsection (b)(2)(C) to Iran’s Revolutionary Guard Corps, or providing services with respect to such goods or technologies after such goods or technologies are transferred to Iran’s Revolutionary Guard Corps, the President shall—
     - **(A)** impose sanctions described in section 8514(c) of this title with respect to the person; and
     - **(B)** impose such other sanctions from among the sanctions described in section 6(a) of the Iran Sanctions Act of 1996 ( Public Law 104–172 ; 50 U.S.C. 1701 note) as the President determines appropriate.
+
+## Source Credit
+
+*([Pub. L. 111–195, title I, § 105A](https://www.govinfo.gov/link/plaw/111/public/195), as added [Pub. L. 112–158, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/112/public/158), Aug. 10, 2012, [126 Stat. 1252](https://www.govinfo.gov/link/statute/126/1252).)*

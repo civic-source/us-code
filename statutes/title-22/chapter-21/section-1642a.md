@@ -3,9 +3,10 @@ title: "Section 1642a - Financial provisions"
 usc_title: 22
 usc_section: "1642a"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1642a"
-generated_at: "2026-03-30T02:55:05.336Z"
+generated_at: "2026-11-23T21:25:58.408Z"
+status: "active"
 ---
 
 # § 1642a. Financial provisions
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.336Z"
 - **(d)** Upon the expiration of one year after August 8, 1958 if no settlement with Czechoslovakia of the type specified in subsection (c) of this section has occurred, all moneys held pursuant to subsection (a) of this section except amounts held in reserve pursuant to section 1642b of this title , shall be covered into the Czechoslovakian Claims Fund.
 - **(e)** The Secretary of the Treasury shall deduct from the Czechoslovakian Claims Fund 5 per centum thereof as reimbursement to the Government of the United States for the expenses incurred by the Commission and by the Treasury Department in the administration of this subchapter. The amount so deducted shall be covered into the Treasury to the credit of miscellaneous receipts.
 - **(f)** After the deduction for administrative expenses pursuant to subsection (e) of this section, and after payment of awards certified pursuant to section 1642i of this title , the balance remaining in the Fund, if any, shall be paid to Czechoslovakia in accordance with instructions to be provided by the Secretary of State.
+
+## Source Credit
+
+*(Mar. 10, 1950, ch. 54, title IV, § 402, as added [Pub. L. 85–604, § 1](https://www.govinfo.gov/link/plaw/85/public/604), Aug. 8, 1958, [72 Stat. 527](https://www.govinfo.gov/link/statute/72/527).)*

@@ -3,9 +3,10 @@ title: "Section 20151 - Railroad trespassing, vandalism, and highway-rail grade 
 usc_title: 49
 usc_section: "20151"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 20151"
-generated_at: "2026-03-30T02:56:19.335Z"
+generated_at: "2026-11-23T21:26:40.708Z"
+status: "active"
 ---
 
 # § 20151. Railroad trespassing, vandalism, and highway-rail grade crossing warning sign violation prevention strategy
@@ -22,3 +23,15 @@ generated_at: "2026-03-30T02:56:19.335Z"
   - **(2)** to drive through a flashing grade crossing signal;
   - **(3)** to drive through a grade crossing with passive warning signs without ensuring that the grade crossing could be safely crossed before any train arrived; and
   - **(4)** in the vicinity of a grade crossing, who creates a hazard of an accident involving injury or property damage at the grade crossing.
+
+Evaluation of Existing Laws
+
+Outreach Program for Trespassing and Vandalism Prevention
+
+Model Legislation
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 103–440, title II, § 219(a)](https://www.govinfo.gov/link/plaw/103/public/440), Nov. 2, 1994, [108 Stat. 4625](https://www.govinfo.gov/link/statute/108/4625); amended [Pub. L. 104–287, § 5(49)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3393](https://www.govinfo.gov/link/statute/110/3393); [Pub. L. 110–432, div. A, title II, § 208(a)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4875](https://www.govinfo.gov/link/statute/122/4875).)*

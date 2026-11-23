@@ -3,9 +3,10 @@ title: "Section 1639b - Establishment of national bioengineered food disclosure 
 usc_title: 7
 usc_section: "1639b"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1639b"
-generated_at: "2026-03-30T02:53:42.334Z"
+generated_at: "2026-11-23T21:25:28.146Z"
+status: "active"
 ---
 
 # § 1639b. Establishment of national bioengineered food disclosure standard
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:53:42.334Z"
     - **(B)** A person subject to an examination, audit, or similar activity under subparagraph (A) shall be provided notice and opportunity for a hearing on the results of any examination, audit, or similar activity.
     - **(C)** After the notice and opportunity for a hearing under subparagraph (B), the Secretary shall make public the summary of any examination, audit, or similar activity under subparagraph (A).
   - **(4)** The Secretary shall have no authority to recall any food subject to this subchapter on the basis of whether the food bears a disclosure that the food is bioengineered.
+
+## Source Credit
+
+*(Aug. 14, 1946, ch. 966, title II, § 293, as added [Pub. L. 114–216, § 1](https://www.govinfo.gov/link/plaw/114/public/216), July 29, 2016, [130 Stat. 835](https://www.govinfo.gov/link/statute/130/835).)*

@@ -3,9 +3,10 @@ title: "Section 3130 - Annual public debt report"
 usc_title: 31
 usc_section: "3130"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 3130"
-generated_at: "2026-03-30T02:55:34.054Z"
+generated_at: "2026-11-23T21:26:10.567Z"
+status: "active"
 ---
 
 # § 3130. Annual public debt report
@@ -36,3 +37,27 @@ generated_at: "2026-03-30T02:55:34.054Z"
   - **(3)** The term “net public debt” means the portion of the total public debt which is held by the public.
   - **(4)** The term “debt to GDP ratio” means the percentage obtained by dividing the level of the total public debt or net public debt, as the case may be, by the gross domestic product.
   - **(5)** The term “interest cost to outlay ratio” means, with respect to any fiscal year, the percentage obtained by dividing the interest cost for such fiscal year on the net public debt by the total amount of Federal outlays for such fiscal year.
+
+General Rule
+
+Required Information on Public Debt Activities
+
+Required Information on Federal Financing Bank
+
+Recommendations
+
+Definitions
+
+Current fiscal year
+
+Total public debt
+
+Net public debt
+
+Debt to gdp ratio
+
+Interest cost to outlay ratio
+
+## Source Credit
+
+*(Added [Pub. L. 103–202, title II, § 201(a)](https://www.govinfo.gov/link/plaw/103/public/202), Dec. 17, 1993, [107 Stat. 2355](https://www.govinfo.gov/link/statute/107/2355).)*

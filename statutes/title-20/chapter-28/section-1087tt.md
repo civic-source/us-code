@@ -3,9 +3,10 @@ title: "Section 1087tt - Discretion of student financial aid administrators"
 usc_title: 20
 usc_section: "1087tt"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1087tt"
-generated_at: "2026-03-30T02:54:48.130Z"
+generated_at: "2026-11-23T21:25:47.181Z"
+status: "active"
 ---
 
 # § 1087tt. Discretion of student financial aid administrators
@@ -92,3 +93,7 @@ generated_at: "2026-03-30T02:54:48.130Z"
     - **(A)** an event for which the President declared a major disaster or an emergency under section 5170 or 5191, respectively, of title 42;
     - **(B)** a national emergency related to the coronavirus declared by the President under section 1621 of title 50 ; or
     - **(C)** a period of recession or economic downturn as determined by the Secretary, in consultation with the Secretary of Labor.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 479A](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 100–50, § 14(26)](https://www.govinfo.gov/link/plaw/100/public/50), June 3, 1987, [101 Stat. 352](https://www.govinfo.gov/link/statute/101/352); amended [Pub. L. 101–239, title II, § 2009](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2122](https://www.govinfo.gov/link/statute/103/2122); [Pub. L. 102–325, title IV, § 471(a)](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 605](https://www.govinfo.gov/link/statute/106/605); [Pub. L. 103–208, § 2(g)(16)](https://www.govinfo.gov/link/plaw/103/public/208), Dec. 20, 1993, [107 Stat. 2473](https://www.govinfo.gov/link/statute/107/2473); [Pub. L. 105–244, title IV, § 478](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1731](https://www.govinfo.gov/link/statute/112/1731); [Pub. L. 110–84, title VI, § 603(a)](https://www.govinfo.gov/link/plaw/110/public/84), Sept. 27, 2007, [121 Stat. 805](https://www.govinfo.gov/link/statute/121/805); [Pub. L. 110–315, title IV, § 472(a)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3269](https://www.govinfo.gov/link/statute/122/3269); [Pub. L. 113–128, title V, § 512(n)(3)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1710](https://www.govinfo.gov/link/statute/128/1710); [Pub. L. 116–260, div. FF, title VII, § 702(i)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3155](https://www.govinfo.gov/link/statute/134/3155); [Pub. L. 119–21, title VIII, § 83001(a)(3)(A)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 350](https://www.govinfo.gov/link/statute/139/350).)*

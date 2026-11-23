@@ -3,9 +3,10 @@ title: "Section 1111 - General organization"
 usc_title: 49
 usc_section: "1111"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 1111"
-generated_at: "2026-03-30T02:56:19.303Z"
+generated_at: "2026-11-23T21:26:40.599Z"
+status: "active"
 ---
 
 # § 1111. General organization
@@ -49,3 +50,101 @@ generated_at: "2026-03-30T02:56:19.303Z"
     - **(F)** Nothing in this paragraph may be construed—
       - **(i)** to limit the applicability of section 552b of title 5 with respect to any information which is proposed to be withheld from the public under subparagraph (B)(ii); or
       - **(ii)** to authorize the Board to withhold from any individual any record that is accessible to that individual under section 552a of title 5 .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1111(a) | 49 App.:1902(a). | Jan. 3, 1975 , Pub. L. 93–633, § 303(a) , (b)(2)– (c), 88 Stat. 2167 , 2168. |
+| 1111(b) | 49 App.:1902(b)(1) (1st sentence words before comma, 2d–last sentences). | Jan. 3, 1975 , Pub. L. 93–633, § 303(b)(1) , 88 Stat. 2167 ; Oct. 14, 1982 , Pub. L. 97–309, § 1 (1st sentence), 96 Stat. 1453 . |
+| 1111(c) | 49 App.:1902(b)(2). |  |
+| 1111(d) | 49 App.:1902(b)(1) (1st sentence words after comma), (3) (1st, 2d, 4th sentences). |  |
+| 1111(e) | 49 App.:1902(b)(3) (3d, last sentences), (c)(3). |  |
+| 1111(f) | 49 App.:1902(b)(4). |  |
+| 1111(g) | 49 App.:1902(b)(5), (c)(1). |  |
+| 1111(h) | 49 App.:1902(c)(2). |  |
+
+
+Organization
+
+Appointment of Members
+
+Terms of Office and Removal
+
+Chairman and Vice Chairman
+
+Duties and Powers of Chairman
+
+Quorum
+
+Offices, Bureaus, and Divisions
+
+Chief Financial Officer
+
+Board Member Staff
+
+Seal
+
+Open Meetings.—
+
+In general
+
+Nonpublic collaborative discussions.—
+
+In general
+
+Disclosure of nonpublic collaborative discussions
+
+Summary
+
+Active investigations
+
+Preservation of open meetings requirements for agency action
+
+Statutory construction
+
+Historical and Revision Notes
+
+1111(a)
+
+Jan. 3, 1975
+
+Pub. L. 93–633, § 303(a)
+
+88 Stat. 2167
+
+1111(b)
+
+Jan. 3, 1975
+
+Pub. L. 93–633, § 303(b)(1)
+
+88 Stat. 2167
+
+Oct. 14, 1982
+
+Pub. L. 97–309, § 1
+
+96 Stat. 1453
+
+1111(c)
+
+1111(d)
+
+1111(e)
+
+1111(f)
+
+1111(g)
+
+1111(h)
+
+Plan
+
+Plan development considerations
+
+Report
+
+Implementation
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 746](https://www.govinfo.gov/link/statute/108/746); [Pub. L. 106–424, § 10](https://www.govinfo.gov/link/plaw/106/public/424), Nov. 1, 2000, [114 Stat. 1886](https://www.govinfo.gov/link/statute/114/1886); [Pub. L. 109–443, § 9(a)](https://www.govinfo.gov/link/plaw/109/public/443), (d), Dec. 21, 2006, [120 Stat. 3301](https://www.govinfo.gov/link/statute/120/3301); [Pub. L. 115–254, div. C, § 1112(a)](https://www.govinfo.gov/link/plaw/115/public/254), (b), Oct. 5, 2018, [132 Stat. 3436](https://www.govinfo.gov/link/statute/132/3436).)*

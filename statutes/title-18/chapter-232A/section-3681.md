@@ -3,9 +3,10 @@ title: "Section 3681 - Order of special forfeiture"
 usc_title: 18
 usc_section: "3681"
 chapter: 232
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3681"
-generated_at: "2026-03-30T02:54:16.525Z"
+generated_at: "2026-11-23T21:25:44.226Z"
+status: "active"
 ---
 
 # § 3681. Order of special forfeiture
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:16.525Z"
       - **(ii)** pay for legal representation of the defendant in matters arising from the offense for which such defendant has been convicted, but no more than 20 percent of the total proceeds may be so used.
   - **(2)** The court shall direct the disposition of all such proceeds in the possession of the Attorney General at the end of such five years and may require that all or any part of such proceeds be released from escrow and paid into the Crime Victims Fund in the Treasury.
 - **(d)** As used in this section, the term “interested party” includes the defendant and any transferee of proceeds due the defendant under the contract, the person with whom the defendant has contracted, and any person physically harmed as a result of the offense for which the defendant has been convicted.
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 1406(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2175](https://www.govinfo.gov/link/statute/98/2175), § 3671; amended [Pub. L. 99–399, title XIII, § 1306(c)](https://www.govinfo.gov/link/plaw/99/public/399), Aug. 27, 1986, [100 Stat. 899](https://www.govinfo.gov/link/statute/100/899); renumbered § 3681 and amended [Pub. L. 99–646](https://www.govinfo.gov/link/plaw/99/public/646), §§ 40, 41(a), Nov. 10, 1986, [100 Stat. 3600](https://www.govinfo.gov/link/statute/100/3600).)*

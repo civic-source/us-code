@@ -3,9 +3,10 @@ title: "Section 13252 - Replacement fuel supply and demand program"
 usc_title: 42
 usc_section: "13252"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13252"
-generated_at: "2026-03-30T02:56:11.439Z"
+generated_at: "2026-11-23T21:26:33.585Z"
+status: "active"
 ---
 
 # § 13252. Replacement fuel supply and demand program
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.439Z"
   - **(3)** determine the most suitable means and methods of developing and encouraging the production, distribution, and use of replacement fuels and alternative fueled vehicles in a manner that would meet the program goals described in subsection (a);
   - **(4)** identify ways to encourage the development of reliable replacement fuels and alternative fueled vehicle industries in the United States, and the technical, economic, and institutional barriers to such development; and
   - **(5)** determine the greenhouse gas emission implications of increasing the use of replacement fuels, including an estimate of the maximum feasible reduction in such emissions from the use of replacement fuels.
+
+## Source Credit
+
+*([Pub. L. 102–486, title V, § 502](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2888](https://www.govinfo.gov/link/statute/106/2888).)*

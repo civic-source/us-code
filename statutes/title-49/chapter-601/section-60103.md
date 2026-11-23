@@ -3,9 +3,10 @@ title: "Section 60103 - Standards for liquefied natural gas pipeline facilities"
 usc_title: 49
 usc_section: "60103"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 60103"
-generated_at: "2026-03-30T02:56:19.413Z"
+generated_at: "2026-11-23T21:26:41.016Z"
+status: "active"
 ---
 
 # § 60103. Standards for liquefied natural gas pipeline facilities
@@ -43,3 +44,119 @@ generated_at: "2026-03-30T02:56:19.413Z"
 - **(e)** A standard prescribed under this section is effective on the 30th day after the Secretary of Transportation prescribes the standard. However, the Secretary for good cause may prescribe a different effective date when required because of the time reasonably necessary to comply with the standard. The different date must be specified in the regulation prescribing the standard.
 - **(f)** A new liquefied natural gas pipeline facility may be operated only after the operator submits an adequate contingency plan that states the action to be taken if a liquefied natural gas accident occurs. The Secretary of Energy or appropriate State or local authority shall decide if the plan is adequate.
 - **(g)** This section does not preclude applying a standard prescribed under section 60102 of this title to a gas pipeline facility (except a liquefied natural gas pipeline facility) associated with a liquefied natural gas pipeline facility.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60103(a) | 49 App.:1674a(a) (1)(A), (d)(1), (e). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 6; added Nov. 30, 1979 , Pub. L. 96–129, § 152(a) , 93 Stat. 999 . |
+| 60103(b) | 49 App.:1674a(a) (1)(B), (2), (d)(2), (e). |  |
+| 60103(c)(1), (2) | 49 App.:1674a(c)(1). |  |
+| 60103(c)(3) | 49 App.:1674a(c)(3). |  |
+| 60103(d) | 49 App.:1674a(b), (d)(3), (e). |  |
+| 60103(e) | 49 App.:1674a(f). |  |
+| 60103(f) | 49 App.:1674a(a)(3). |  |
+| 60103(g) | 49 App.:1674a(c)(2). |  |
+
+
+Location Standards
+
+Design, Installation, Construction, Inspection, and Testing Standards
+
+Nonapplication
+
+Operation and Maintenance Standards
+
+Effective Dates
+
+Contingency Plans
+
+Effect on Other Standards
+
+Historical and Revision Notes
+
+60103(a)
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 152(a)
+
+93 Stat. 999
+
+60103(b)
+
+60103(c)(3)
+
+60103(d)
+
+60103(e)
+
+60103(f)
+
+60103(g)
+
+In General
+
+Scope
+
+Requirements
+
+Submission and Approval.—
+
+In general
+
+Requirement
+
+Inspection and Compliance Assurance.—
+
+Determination of inadequate programs
+
+Savings clause
+
+Emergencies and Compliance
+
+Civil Penalties
+
+Definitions
+
+Center
+
+LNG sector stakeholder
+
+Establishment
+
+Report
+
+In general
+
+Requirement
+
+Functions
+
+Location.—
+
+In general
+
+Considerations
+
+Coordination With TQ Training Center
+
+Joint Operation With Educational Institution
+
+Report of the secretary
+
+Rulemaking
+
+In General
+
+Requirements
+
+Evaluation and Promotion of Safety Management Systems
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1307](https://www.govinfo.gov/link/statute/108/1307); [Pub. L. 114–183, § 27(a)](https://www.govinfo.gov/link/plaw/114/public/183), June 22, 2016, [130 Stat. 531](https://www.govinfo.gov/link/statute/130/531).)*

@@ -3,9 +3,10 @@ title: "Section 1381 - Commercial fisheries gear development"
 usc_title: 16
 usc_section: "1381"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1381"
-generated_at: "2026-03-30T02:54:22.960Z"
+generated_at: "2026-11-23T21:25:51.864Z"
+status: "active"
 ---
 
 # § 1381. Commercial fisheries gear development
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:22.960Z"
 - **(b)** The Secretary, after consultation with the Marine Mammal Commission, is authorized and directed to issue, as soon as practicable, such regulations, covering the twenty-four-month period referred to in section 1371(a)(2) of this title , as he deems necessary or advisable, to reduce to the lowest practicable level the taking of marine mammals incidental to commercial fishing operations. Such regulations shall be adopted pursuant to section 553 of title 5 . In issuing such regulations, the Secretary shall take into account the results of any scientific research under subsection (a) of this section and, in each case, shall provide a reasonable time not exceeding four months for the persons affected to implement such regulations.
 - **(c)** Additionally, the Secretary and Secretary of State are directed to commence negotiations within the Inter-American Tropical Tuna Commission in order to effect essential compliance with the regulatory provisions of this chapter so as to reduce to the maximum extent feasible the incidental taking of marine mammals by vessels involved in the tuna fishery. The Secretary and Secretary of State are further directed to request the Director of Investigations of the Inter-American Tropical Tuna Commission to make recommendations to all member nations of the Commission as soon as is practicable as to the utilization of methods and gear devised under subsection (a) of this section.
 - **(d)** Furthermore, after timely notice and during the period of research provided in this section, duly authorized agents of the Secretary are hereby empowered to board and to accompany any commercial fishing vessel documented under the laws of the United States, there being space available, on a regular fishing trip for the purpose of conducting research or observing operations in regard to the development of improved fishing methods and gear as authorized by this section. Such research and observation shall be carried out in such manner as to minimize interference with fishing operations. The Secretary shall provide for the cost of quartering and maintaining such agents. No master, operator, or owner of such a vessel shall impair or in any way interfere with the research or observation being carried out by agents of the Secretary pursuant to this section.
+
+## Source Credit
+
+*([Pub. L. 92–522, title I, § 111](https://www.govinfo.gov/link/plaw/92/public/522), Oct. 21, 1972, [86 Stat. 1041](https://www.govinfo.gov/link/statute/86/1041).)*

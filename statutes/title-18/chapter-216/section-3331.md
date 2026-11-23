@@ -3,12 +3,17 @@ title: "Section 3331 - Summoning and term"
 usc_title: 18
 usc_section: "3331"
 chapter: 216
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3331"
-generated_at: "2026-03-30T02:54:16.516Z"
+generated_at: "2026-11-23T21:25:44.199Z"
+status: "active"
 ---
 
 # § 3331. Summoning and term
 
 - **(a)** In addition to such other grand juries as shall be called from time to time, each district court which is located in a judicial district containing more than four million inhabitants or in which the Attorney General, the Deputy Attorney General, the Associate Attorney General, or any designated Assistant Attorney General, certifies in writing to the chief judge of the district that in his judgment a special grand jury is necessary because of criminal activity in the district shall order a special grand jury to be summoned at least once in each period of eighteen months unless another special grand jury is then serving. The grand jury shall serve for a term of eighteen months unless an order for its discharge is entered earlier by the court upon a determination of the grand jury by majority vote that its business has been completed. If, at the end of such term or any extension thereof, the district court determines the business of the grand jury has not been completed, the court may enter an order extending such term for an additional period of six months. No special grand jury term so extended shall exceed thirty-six months, except as provided in subsection (e) of section 3333 of this chapter.
 - **(b)** If a district court within any judicial circuit fails to extend the term of a special grand jury or enters an order for the discharge of such grand jury before such grand jury determines that it has completed its business, the grand jury, upon the affirmative vote of a majority of its members, may apply to the chief judge of the circuit for an order for the continuance of the term of the grand jury. Upon the making of such an application by the grand jury, the term thereof shall continue until the entry upon such application by the chief judge of the circuit of an appropriate order. No special grand jury term so extended shall exceed thirty-six months, except as provided in subsection (e) of section 3333 of this chapter.
+
+## Source Credit
+
+*(Added [Pub. L. 91–452, title I, § 101(a)](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 923](https://www.govinfo.gov/link/statute/84/923); amended [Pub. L. 100–690, title VII, § 7020(d)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4396](https://www.govinfo.gov/link/statute/102/4396).)*

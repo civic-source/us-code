@@ -3,9 +3,10 @@ title: "Section 1429 - Audit and report"
 usc_title: 47
 usc_section: "1429"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1429"
-generated_at: "2026-03-30T02:56:24.534Z"
+generated_at: "2026-11-23T21:26:36.099Z"
+status: "active"
 ---
 
 # § 1429. Audit and report
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:24.534Z"
     - **(A)** such comments and information as the independent auditor determines necessary to inform Congress of the financial operations and condition of the First Responder Network Authority;
     - **(B)** any recommendations of the independent auditor relating to the financial operations and condition of the First Responder Network Authority; and
     - **(C)** a description of any program, expenditure, or other financial transaction or undertaking of the First Responder Network Authority that was observed during the course of the audit, which, in the opinion of the independent auditor, has been carried on or made without the authority of law.
+
+## Source Credit
+
+*([Pub. L. 112–96, title VI, § 6209](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 216](https://www.govinfo.gov/link/statute/126/216).)*

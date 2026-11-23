@@ -3,9 +3,10 @@ title: "Section 44 - State flexibility in individual market reforms"
 usc_title: 42
 usc_section: "44"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 44"
-generated_at: "2026-03-30T02:56:10.835Z"
+generated_at: "2026-11-23T21:26:30.905Z"
+status: "active"
 ---
 
 # § 300gg–44. State flexibility in individual market reforms
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:56:10.835Z"
   - **(3)** For purposes of subsection (a)(1)(D)(iii), a mechanism described in this paragraph—
     - **(A)** provides for risk adjustment, risk spreading, or a risk spreading mechanism (among issuers or policies of an issuer) or otherwise provides for some financial subsidization for eligible individuals, including through assistance to participating issuers; or
     - **(B)** is a mechanism under which each eligible individual is provided a choice of all individual health insurance coverage otherwise available.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVII, § 2744, as added [Pub. L. 104–191, title I, § 111(a)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 1984](https://www.govinfo.gov/link/statute/110/1984); amended [Pub. L. 104–204, title VI, § 605(b)(1)](https://www.govinfo.gov/link/plaw/104/public/204), Sept. 26, 1996, [110 Stat. 2942](https://www.govinfo.gov/link/statute/110/2942).)*

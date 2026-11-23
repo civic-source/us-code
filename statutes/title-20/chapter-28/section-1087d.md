@@ -3,9 +3,10 @@ title: "Section 1087d - Agreements with institutions"
 usc_title: 20
 usc_section: "1087d"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1087d"
-generated_at: "2026-03-30T02:54:48.123Z"
+generated_at: "2026-11-23T21:25:47.145Z"
+status: "active"
 ---
 
 # § 1087d. Agreements with institutions
@@ -56,3 +57,17 @@ generated_at: "2026-03-30T02:54:48.123Z"
     - **(B)** In this paragraph, the term “covered period” means the period of the 3 years immediately preceding the date of a determination made under paragraph (2).
   - **(7)** The Secretary shall establish a process by which an institution of higher education that has an educational program that has lost eligibility under this subsection may, after a period of not less than 2 years of such program’s ineligibility, apply to regain such eligibility, subject to the requirements established by the Secretary that further the purpose of this subsection.
 - **(d)** The Secretary shall establish procedures by which institutions or consortia may withdraw or be terminated from the program under this part.
+
+(aa) a working adult in the State in which the institution is located;
+
+(bb) a working adult in the same field of study (as determined by the Secretary, such as by using the 2-digit CIP code) in the State in which the institution is located; and
+
+(cc) a working adult in the same field of study (as so determined) in the entire United States; or
+
+(aa) a working adult in the entire United States; or
+
+(bb) a working adult in the same field of study (as so determined) in the entire United States.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 454](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 404](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1438](https://www.govinfo.gov/link/statute/100/1438); amended [Pub. L. 100–50, § 12](https://www.govinfo.gov/link/plaw/100/public/50), June 3, 1987, [101 Stat. 348](https://www.govinfo.gov/link/statute/101/348); [Pub. L. 102–325, title IV, § 451](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 571](https://www.govinfo.gov/link/statute/106/571); [Pub. L. 103–66, title IV, § 4021](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 345](https://www.govinfo.gov/link/statute/107/345); [Pub. L. 111–152, title II, § 2210(a)](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1078](https://www.govinfo.gov/link/statute/124/1078); [Pub. L. 116–260, div. FF, title VII, § 704(1)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3199](https://www.govinfo.gov/link/statute/134/3199); [Pub. L. 119–21, title VIII, § 84001](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 353](https://www.govinfo.gov/link/statute/139/353).)*

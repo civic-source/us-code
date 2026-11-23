@@ -3,12 +3,17 @@ title: "Section 620m - Compliance with law required in operation of facilities; 
 usc_title: 43
 usc_section: "620m"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 620m"
-generated_at: "2026-03-30T02:55:57.459Z"
+generated_at: "2026-11-23T21:26:19.803Z"
+status: "active"
 ---
 
 # § 620m. Compliance with law required in operation of facilities; enforcement of provisions
 
 In the operation and maintenance of all facilities, authorized by Federal law and under the jurisdiction and supervision of the Secretary of the Interior, in the basin of the Colorado River, the Secretary of the Interior is directed to comply with the applicable provisions of the Colorado River Compact, the Upper Colorado River Basin Compact, the Boulder Canyon Project Act [ 43 U.S.C. 617 et seq.], the Boulder Canyon Project Adjustment Act [ 43 U.S.C. 618 et seq.], and the Treaty with the United Mexican States, in the storage and release of water from reservoirs in the Colorado River Basin. In the event of the failure of the Secretary of the Interior to so comply, any State of the Colorado River Basin may maintain an action in the Supreme Court of the United States to enforce the provisions of this section, and consent is given to the joinder of the United States as a party in such suit or suites, as a defendant or otherwise.
 
+
+## Source Credit
+
+*(Apr. 11, 1956, ch. 203, § 14, [70 Stat. 110](https://www.govinfo.gov/link/statute/70/110).)*

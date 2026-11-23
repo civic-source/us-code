@@ -3,9 +3,10 @@ title: "Section 1790b - Credit union employee protection remedy"
 usc_title: 12
 usc_section: "1790b"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1790b"
-generated_at: "2026-03-30T02:53:53.442Z"
+generated_at: "2026-11-23T21:25:36.957Z"
+status: "active"
 ---
 
 # § 1790b. Credit union employee protection remedy
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:53.442Z"
 - **(d)** The protections of this section shall not apply to any employee who—
   - **(1)** deliberately causes or participates in the alleged violation of law or regulation, or
   - **(2)** knowingly or recklessly provides substantially false information to such an agency or the Attorney General.
+
+## Source Credit
+
+*(June 26, 1934, ch. 750, title II, § 213, as added [Pub. L. 101–73, title IX, § 932(b)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 494](https://www.govinfo.gov/link/statute/103/494); amended [Pub. L. 102–242, title II, § 251(b)(1)](https://www.govinfo.gov/link/plaw/102/public/242), (2), Dec. 19, 1991, [105 Stat. 2332](https://www.govinfo.gov/link/statute/105/2332), 2333; [Pub. L. 102–550, title XVI, § 1604(d)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4084](https://www.govinfo.gov/link/statute/106/4084).)*

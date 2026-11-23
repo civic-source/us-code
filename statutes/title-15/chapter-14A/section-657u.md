@@ -3,9 +3,10 @@ title: "Section 657u - Lender Oversight Committee"
 usc_title: 15
 usc_section: "657u"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 657u"
-generated_at: "2026-03-30T02:54:08.109Z"
+generated_at: "2026-11-23T21:25:39.707Z"
+status: "active"
 ---
 
 # § 657u. Lender Oversight Committee
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:08.109Z"
 - **(d)**
   - **(1)** The Committee shall meet as necessary, but not less frequently than on a quarterly basis.
   - **(2)** The Committee shall submit to the Administrator a report detailing each meeting of the Committee, including if the Committee does or does not vote to approve a formal enforcement action of the Director of the Office of Credit Risk Management with respect to a lender.
+
+## Source Credit
+
+*([Pub. L. 85–536, § 2[48]](https://www.govinfo.gov/link/plaw/85/public/536), as added [Pub. L. 115–189, § 3(a)(2)](https://www.govinfo.gov/link/plaw/115/public/189), June 21, 2018, [132 Stat. 1494](https://www.govinfo.gov/link/statute/132/1494).)*

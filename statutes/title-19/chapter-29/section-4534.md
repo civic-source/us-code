@@ -3,9 +3,10 @@ title: "Section 4534 - Drawback"
 usc_title: 19
 usc_section: "4534"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4534"
-generated_at: "2026-03-30T02:54:24.712Z"
+generated_at: "2026-11-23T21:25:42.892Z"
+status: "active"
 ---
 
 # § 4534. Drawback
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:54:24.712Z"
   - **(2)** A claim described in this paragraph is a claim for—
     - **(A)** a refund, waiver, or reduction of duty, under any applicable provision of law; or
     - **(B)** a credit against a bond under section 1312(d)(1) of this title .
+
+## Source Credit
+
+*([Pub. L. 116–113, title II, § 208](https://www.govinfo.gov/link/plaw/116/public/113), title V, § 501(a)–(d), Jan. 29, 2020, [134 Stat. 52](https://www.govinfo.gov/link/statute/134/52), 67, 68; [Pub. L. 116–260, div. O, title VI, § 601(c)(1)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2150](https://www.govinfo.gov/link/statute/134/2150).)*

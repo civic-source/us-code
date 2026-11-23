@@ -3,9 +3,10 @@ title: "Section 61101 - Bridging Immigration-related Deficits Experienced Nation
 usc_title: 34
 usc_section: "61101"
 chapter: 611
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 61101"
-generated_at: "2026-03-30T02:55:33.318Z"
+generated_at: "2026-11-23T21:26:09.866Z"
+status: "active"
 ---
 
 # § 61101. Bridging Immigration-related Deficits Experienced Nationwide Reimbursement Fund
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:33.318Z"
   - **(7)** Vehicle maintenance, logistics, transportation, and other support provided to law enforcement agencies by a State agency to enhance the ability to locate and apprehend aliens who have committed crimes under Federal, State, or local law, in addition to being unlawfully present in the United States.
 - **(c)** In addition to amounts otherwise available for the purposes described in subsection (b), there is appropriated to the Attorney General for fiscal year 2025, out of any money in the Treasury not otherwise appropriated, not to exceed $3,500,000,000, to remain available until September 30, 2028 , for the Fund for qualified and documented expenses that achieve any such purpose.
 - **(d)** The Attorney General may provide grants under this section to State agencies and units of local government for expenditures made by State agencies or units of local government for completed, ongoing, or new activities determined to be eligible for such grant funding that occurred on or after January 20, 2021 . Amounts made available under this section shall be distributed to more than 1 State.
+
+## Source Credit
+
+*([Pub. L. 119–21, title X, § 100055](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 392](https://www.govinfo.gov/link/statute/139/392).)*

@@ -3,9 +3,10 @@ title: "Section 14526 - Distressed, at-risk, and economically strong counties"
 usc_title: 40
 usc_section: "14526"
 chapter: 145
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 14526"
-generated_at: "2026-03-30T02:55:43.387Z"
+generated_at: "2026-11-23T21:26:14.968Z"
+status: "active"
 ---
 
 # § 14526. Distressed, at-risk, and economically strong counties
@@ -35,3 +36,46 @@ generated_at: "2026-03-30T02:55:43.387Z"
       - **(i)** a significant pocket of distress in the part of the county in which the project is carried out.
       - **(ii)** a significant potential benefit from the project in at least one area of the region outside the designated county.
     - **(B)** The Commission shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an annual report describing each waiver granted under subparagraph (A) during the period covered by the report.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 14526 | 40 App.:226. | Pub. L. 89–4, title II, § 226 , as added Pub. L. 105–393, title II, § 219 , Nov. 13, 1998 , 112 Stat. 3623 . |
+
+
+Designations.—
+
+In general
+
+Annual review of designations
+
+Distressed Counties
+
+Economically Strong Counties.—
+
+Competitive counties
+
+Attainment counties
+
+Exceptions
+
+Waiver.—
+
+In general
+
+Reports to congress
+
+Historical and Revision Notes
+
+14526
+
+Pub. L. 89–4, title II, § 226
+
+Pub. L. 105–393, title II, § 219
+
+Nov. 13, 1998
+
+112 Stat. 3623
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1277](https://www.govinfo.gov/link/statute/116/1277); [Pub. L. 110–371, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/371), Oct. 8, 2008, [122 Stat. 4041](https://www.govinfo.gov/link/statute/122/4041).)*

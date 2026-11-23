@@ -3,9 +3,10 @@ title: "Section 611 - Asset concessions and innovative finance assistance"
 usc_title: 23
 usc_section: "611"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 611"
-generated_at: "2026-03-30T02:55:12.576Z"
+generated_at: "2026-11-23T21:25:53.948Z"
+status: "active"
 ---
 
 # § 611. Asset concessions and innovative finance assistance
@@ -81,3 +82,65 @@ generated_at: "2026-03-30T02:55:12.576Z"
 - **(g)**
   - **(1)** On October 1, 2021 , and on each October 1 thereafter through October 1, 2025 , out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary to carry out this section $20,000,000, to remain available until expended.
   - **(2)** The Secretary shall be entitled to receive, shall accept, and shall use to carry out this section the funds transferred under paragraph (1), without further appropriation.
+
+Definitions
+
+Approved infrastructure asset
+
+Asset concession
+
+Asset concession payment
+
+Concessionaire
+
+Eligible entity.—
+
+In general
+
+Entities described
+
+Establishment
+
+Applications
+
+Eligible Activities.—
+
+Technical assistance grants
+
+Expert services
+
+Distribution.—
+
+Maximum amount.—
+
+Technical assistance grants
+
+Expert services
+
+Cost sharing.—
+
+In general
+
+Certain projects
+
+Statewide maximum
+
+Requirements.—
+
+In general
+
+Audit
+
+Treatment
+
+Applicability of federal laws
+
+Funding.—
+
+In general
+
+Receipt and acceptance
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. G, title X, § 71001(a)(1)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1316](https://www.govinfo.gov/link/statute/135/1316).)*

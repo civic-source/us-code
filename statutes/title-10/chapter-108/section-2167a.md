@@ -3,9 +3,10 @@ title: "Section 2167a - Defense Cyber Investigations Training Academy: admission
 usc_title: 10
 usc_section: "2167a"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2167a"
-generated_at: "2026-03-30T02:53:38.146Z"
+generated_at: "2026-11-23T21:25:32.565Z"
+status: "active"
 ---
 
 # § 2167a. Defense Cyber Investigations Training Academy: admission of private sector civilians to receive instruction
@@ -18,3 +19,19 @@ generated_at: "2026-03-30T02:53:38.146Z"
 - **(d)** The Secretary of Defense shall charge private sector employees enrolled under this section tuition at a rate that is at least equal to the rate charged for employees of the United States. In determining tuition rates, the Secretary shall include overhead costs of the Defense Cyber Investigations Training Academy.
 - **(e)** While receiving instruction at the Defense Cyber Investigations Training Academy, students enrolled under this section, to the extent practicable, are subject to the same regulations governing academic performance, attendance, norms of behavior, and enrollment as apply to Government civilian employees receiving instruction at the Academy.
 - **(f)** Amounts received by the Defense Cyber Investigations Training Academy for instruction of students enrolled under this section shall be retained by the Academy to defray the costs of such instruction. The source, and the disposition, of such funds shall be specifically identified in records of the Academy.
+
+Authority for Admission
+
+Eligible Private Sector Employees
+
+Program Requirements
+
+Tuition
+
+Standards of Conduct
+
+Use of Funds
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title IX, § 901(a)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2422](https://www.govinfo.gov/link/statute/123/2422).)*

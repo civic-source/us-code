@@ -3,9 +3,10 @@ title: "Section 2791 - General provisions"
 usc_title: 22
 usc_section: "2791"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2791"
-generated_at: "2026-03-30T02:55:05.387Z"
+generated_at: "2026-11-23T21:25:58.565Z"
+status: "active"
 ---
 
 # § 2791. General provisions
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:05.387Z"
     - **(B)** Nothing in this paragraph may be construed as limiting the regulatory authority of the President under this chapter.
   - **(3)** There are authorized to be appropriated from time to time such sums as may be necessary (A) to refund moneys received from purchasers under contracts of sale entered into under sections 2761, 2762, 2769 and 2770 of this title, or under contracts entered into under section 2767(d) of this title , that are canceled or suspended under this subsection to the extent such moneys have previously been disbursed to private contractors and United States Government agencies for work in progress, and (B) to pay such damages and costs that accrue from the corresponding cancellation or suspension of the existing procurement contracts or United States Government agency work orders involved.
 - **(f)** The President shall, to the maximum extent possible and consistent with the purposes of this chapter, use civilian contract personnel in any foreign country to perform defense services sold under this chapter.
+
+## Source Credit
+
+*([Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 4, § 42, Oct. 22, 1968, [82 Stat. 1326](https://www.govinfo.gov/link/statute/82/1326); [Pub. L. 92–226](https://www.govinfo.gov/link/plaw/92/public/226), pt. IV, § 401(e), (f), Feb. 7, 1972, [86 Stat. 33](https://www.govinfo.gov/link/statute/86/33); [Pub. L. 94–141, title I, § 150(b)](https://www.govinfo.gov/link/plaw/94/public/141), Nov. 29, 1975, [89 Stat. 760](https://www.govinfo.gov/link/statute/89/760); [Pub. L. 94–329, title II, § 213](https://www.govinfo.gov/link/plaw/94/public/329), title VI, § 605(b), June 30, 1976, [90 Stat. 745](https://www.govinfo.gov/link/statute/90/745), 768; [Pub. L. 96–533, title I, § 105(e)(3)](https://www.govinfo.gov/link/plaw/96/public/533), Dec. 16, 1980, [94 Stat. 3135](https://www.govinfo.gov/link/statute/94/3135); [Pub. L. 97–392, § 2](https://www.govinfo.gov/link/plaw/97/public/392), Dec. 29, 1982, [96 Stat. 1963](https://www.govinfo.gov/link/statute/96/1963); [Pub. L. 99–83, title I, § 115(b)(3)](https://www.govinfo.gov/link/plaw/99/public/83), Aug. 8, 1985, [99 Stat. 201](https://www.govinfo.gov/link/statute/99/201); [Pub. L. 99–145, title XI, § 1102(a)(4)](https://www.govinfo.gov/link/plaw/99/public/145), (5), Nov. 8, 1985, [99 Stat. 710](https://www.govinfo.gov/link/statute/99/710); [Pub. L. 99–661, div. A, title XIII, § 1342(e)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3991](https://www.govinfo.gov/link/statute/100/3991); [Pub. L. 103–236, title VII, § 714(a)(2)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 497](https://www.govinfo.gov/link/statute/108/497); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XII, § 1225(a)(3), Oct. 21, 1998, [112 Stat. 2681–773](https://www.govinfo.gov/link/statute/112/2681).)*

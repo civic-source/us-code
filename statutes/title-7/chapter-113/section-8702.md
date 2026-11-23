@@ -3,9 +3,10 @@ title: "Section 8702 - Definitions"
 usc_title: 7
 usc_section: "8702"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 8702"
-generated_at: "2026-03-30T02:53:42.478Z"
+generated_at: "2026-11-23T21:25:28.478Z"
+status: "active"
 ---
 
 # § 8702. Definitions
@@ -44,3 +45,7 @@ In this chapter (other than subchapter III):
   - **(16)** The term “target price” means the price per bushel, pound, or hundredweight (or other appropriate unit) of a covered commodity used to determine the payment rate for counter-cyclical payments.
   - **(17)** The term “United States”, when used in a geographical sense, means all of the States.
   - **(18)** The term “United States Premium Factor” means the percentage by which the difference in the United States loan schedule premiums for Strict Middling (SM) 1⅛-inch upland cotton and for Middling (M) 1 3 ⁄ 32 -inch upland cotton exceeds the difference in the applicable premiums for comparable international qualities.
+
+## Source Credit
+
+*([Pub. L. 110–234, title I, § 1001](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 936](https://www.govinfo.gov/link/statute/122/936); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1001, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664).)*

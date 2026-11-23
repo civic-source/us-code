@@ -3,9 +3,10 @@ title: "Section 117 - Other patient protections"
 usc_title: 42
 usc_section: "117"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 117"
-generated_at: "2026-03-30T02:56:10.839Z"
+generated_at: "2026-11-23T21:26:30.917Z"
+status: "active"
 ---
 
 # § 300gg–117. Other patient protections
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:10.839Z"
   - **(3)** Nothing in paragraph (1) shall be construed to—
     - **(A)** waive any exclusions of coverage under the terms and conditions of the plan or health insurance coverage with respect to coverage of obstetrical or gynecological care; or
     - **(B)** preclude the group health plan or health insurance issuer involved from requiring that the obstetrical or gynecological provider notify the primary care health care professional or the plan or issuer of treatment decisions.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVII, § 2799A–7, as added [Pub. L. 116–260, div. BB, title I, § 102(a)(2)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2770](https://www.govinfo.gov/link/statute/134/2770).)*

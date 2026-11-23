@@ -3,9 +3,10 @@ title: "Section 2206 - Descent and distribution"
 usc_title: 25
 usc_section: "2206"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2206"
-generated_at: "2026-03-30T02:54:52.837Z"
+generated_at: "2026-11-23T21:25:54.660Z"
+status: "active"
 ---
 
 # § 2206. Descent and distribution
@@ -287,3 +288,33 @@ generated_at: "2026-03-30T02:54:52.837Z"
     - **(B)** Proceeds described in subparagraph (A) shall be deposited and held in an account as trust personalty if the interest sold would otherwise pass to—
       - **(i)** the heir, by intestate succession under subsection (a); or
       - **(ii)** the devisee in trust or restricted status under subsection (b)(1).
+
+(aa) the heir of an interest under this subparagraph, unless the heir is a minor or incompetent person, may agree in writing entered into the record of the decedent’s probate proceeding to renounce such interest, in trust or restricted status, in favor of— (AA) any other eligible heir or Indian person related to the heir by blood, but in any case never in favor of more than 1 such heir or person; (BB) not more than 1 co-owner of another trust or restricted interest in such parcel of land; or (CC) the Indian tribe with jurisdiction over the interest, if any; and
+
+(bb) the Secretary shall give effect to such agreement in the distribution of the interest in the probate proceeding; and
+
+(aa) a copy of the tribal rule is delivered to the official designated by the Secretary to receive copies of tribal rules for the purposes of this clause;
+
+(bb) the tribal rule provides for the intestate inheritance of such interest by no more than 1 heir, so that the interest does not further fractionate;
+
+(cc) the tribal rule does not apply to any interest disposed of by a valid will;
+
+(dd) the decedent died on or after the date described in subsection (b) of section 8 of the American Indian Probate 2 2 So in original. Probably should be followed by “Reform”. Act of 2004, or on or after the date on which a copy of the tribal rule was delivered to the Secretary pursuant to item (aa), whichever is later; and
+
+(ee) the Secretary does not make a determination within 90 days after a copy of the tribal rule is delivered pursuant to item (aa) that the rule would be unreasonably difficult to administer or does not conform with the requirements in item (bb) or (cc).
+
+(aa) the spouse of a testator is a non-Indian; and
+
+(bb) the testator devised the interests in trust or restricted land of the testator to 1 or more Indians;
+
+(aa) the testator provided for the spouse by a transfer of funds or property outside the will; and
+
+(bb) an intent that the transfer be in lieu of a testamentary provision is demonstrated by statements of the testator or through a reasonable inference based on the amount of the transfer or other evidence.
+
+Testamentary disposition
+
+Small undivided interests in indian lands
+
+## Source Credit
+
+*([Pub. L. 97–459, title II, § 207](https://www.govinfo.gov/link/plaw/97/public/459), as added [Pub. L. 106–462, title I, § 103(4)](https://www.govinfo.gov/link/plaw/106/public/462), Nov. 7, 2000, [114 Stat. 1995](https://www.govinfo.gov/link/statute/114/1995); amended [Pub. L. 108–374](https://www.govinfo.gov/link/plaw/108/public/374), §§ 3, 6(a)(2), (4), (e), Oct. 27, 2004, [118 Stat. 1774](https://www.govinfo.gov/link/statute/118/1774), 1797, 1800, 1805; [Pub. L. 109–157, § 4](https://www.govinfo.gov/link/plaw/109/public/157), Dec. 30, 2005, [119 Stat. 2950](https://www.govinfo.gov/link/statute/119/2950); [Pub. L. 109–221, title V, § 501(a)](https://www.govinfo.gov/link/plaw/109/public/221), May 12, 2006, [120 Stat. 343](https://www.govinfo.gov/link/statute/120/343); [Pub. L. 110–453, title II, § 207(c)](https://www.govinfo.gov/link/plaw/110/public/453), Dec. 2, 2008, [122 Stat. 5030](https://www.govinfo.gov/link/statute/122/5030).)*

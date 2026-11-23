@@ -3,9 +3,10 @@ title: "Section 12576 - Other special assistance"
 usc_title: 42
 usc_section: "12576"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12576"
-generated_at: "2026-03-30T02:56:11.416Z"
+generated_at: "2026-11-23T21:26:33.491Z"
+status: "active"
 ---
 
 # § 12576. Other special assistance
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.416Z"
     - **(A)** are high-quality national service programs; and
     - **(B)** are carried out by entities with demonstrated experience in establishing and implementing projects that provide benefits to participants and communities.
   - **(3)** A challenge grant under this subsection may provide, for an initial 3-year grant period, not more than $1 of assistance under this subsection for each $1 in cash raised from private sources by the program supported under the national service laws in excess of amounts required to be provided by the program to satisfy matching funds requirements. After an initial 3-year grant period, a grant under this subsection may provide not more than $1 of assistance under this subsection for each $2 in cash raised from private sources by the program in excess of amounts required to be provided by the program to satisfy matching funds requirements. The Corporation may permit the use of local or State funds under this paragraph in lieu of cash raised from private sources if the Corporation determines that such use would be equitable due to a lack of available private funds at the local level. The Corporation shall establish a ceiling on the amount of assistance that may be provided to a national service program under this subsection.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 126](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 103–82, title I, § 101(b)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 795](https://www.govinfo.gov/link/statute/107/795); amended [Pub. L. 111–13, title I, § 1305](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1500](https://www.govinfo.gov/link/statute/123/1500).)*

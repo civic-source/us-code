@@ -3,9 +3,10 @@ title: "Section 1903 - Annual Board of Visitors"
 usc_title: 14
 usc_section: "1903"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 1903"
-generated_at: "2026-03-30T02:53:51.496Z"
+generated_at: "2026-11-23T21:25:35.404Z"
+status: "active"
 ---
 
 # § 1903. Annual Board of Visitors
@@ -80,3 +81,85 @@ generated_at: "2026-03-30T02:53:51.496Z"
     - **(C)** in cooperation with the Superintendent of the Academy, advise the Board of any institutional issues, consistent with applicable laws concerning the disclosure of information.
   - **(2)** Each member of the Board and each advisor consulted by the Board under subsection (e)(3) shall be reimbursed, to the extent permitted by law, by the Coast Guard for actual expenses incurred while engaged in duties as a member or advisor.
 - **(h)** Not later than 30 days after the date on which the first session of each Congress convenes, the Commandant shall provide to the chairperson and ranking member of the Committee on Commerce, Science, and Transportation of the Senate and the chairperson and ranking member of the Committee on Transportation and Infrastructure of the House of Representatives, and the President notification of the requirements of this section.
+
+In General
+
+Membership.—
+
+In general
+
+Timing of appointments of members.—
+
+Senators
+
+Members of the house of representatives
+
+Members of the committee on appropriations of the senate
+
+Members of the committee on appropriations of the house of representatives
+
+Chairperson.—
+
+In general
+
+Rotation
+
+Term
+
+Length of service.—
+
+Members of congress
+
+Individuals designated by the president
+
+Death or resignation of a member
+
+Academy Visits.—
+
+Annual visit
+
+Additional visits
+
+Access
+
+Scope of Review
+
+Administrative Matters.—
+
+Meetings.—
+
+In general
+
+Chairperson and charter
+
+Scheduling
+
+Notification
+
+Staff.—
+
+Designation
+
+Role
+
+Advisors
+
+Reports.—
+
+In general
+
+Publication
+
+Disclosure
+
+Coast Guard Support.—
+
+In general
+
+Reimbursement
+
+Notification
+
+## Source Credit
+
+*(Aug. 4, 1949, ch. 393, [63 Stat. 510](https://www.govinfo.gov/link/statute/63/510), § 194; [Pub. L. 101–595, title III, § 304](https://www.govinfo.gov/link/plaw/101/public/595), Nov. 16, 1990, [104 Stat. 2984](https://www.govinfo.gov/link/statute/104/2984); [Pub. L. 107–295, title IV, § 408(a)(1)](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2117](https://www.govinfo.gov/link/statute/116/2117); [Pub. L. 113–281, title II, § 211](https://www.govinfo.gov/link/plaw/113/public/281), Dec. 18, 2014, [128 Stat. 3027](https://www.govinfo.gov/link/statute/128/3027); renumbered § 1903, [Pub. L. 115–282, title I, § 110(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4212](https://www.govinfo.gov/link/statute/132/4212); [Pub. L. 116–283, div. G, title LVXXXII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXII], § 8277, Jan. 1, 2021, [134 Stat. 4687](https://www.govinfo.gov/link/statute/134/4687); [Pub. L. 117–81, div. A, title V, § 554(d)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1738](https://www.govinfo.gov/link/statute/135/1738); [Pub. L. 119–60, div. G, title LXXII, § 7242](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1723](https://www.govinfo.gov/link/statute/139/1723).)*

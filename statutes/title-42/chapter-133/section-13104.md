@@ -3,9 +3,10 @@ title: "Section 13104 - Grants to States for State technical assistance programs
 usc_title: 42
 usc_section: "13104"
 chapter: 133
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13104"
-generated_at: "2026-03-30T02:56:11.438Z"
+generated_at: "2026-11-23T21:26:33.578Z"
+status: "active"
 ---
 
 # § 13104. Grants to States for State technical assistance programs
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.438Z"
 - **(c)** Federal funds used in any State program under this section shall provide no more than 50 per centum of the funds made available to a State in each year of that State’s participation in the program.
 - **(d)** The Administrator shall establish appropriate means for measuring the effectiveness of the State grants made under this section in promoting the use of source reduction techniques by businesses.
 - **(e)** States receiving grants under this section shall make information generated under the grants available to the Administrator.
+
+## Source Credit
+
+*([Pub. L. 101–508, title VI, § 6605](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–323](https://www.govinfo.gov/link/statute/104/1388).)*

@@ -3,9 +3,10 @@ title: "Section 1140q - National technical assistance center; coordinating cente
 usc_title: 20
 usc_section: "1140q"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1140q"
-generated_at: "2026-03-30T02:54:48.149Z"
+generated_at: "2026-11-23T21:25:47.259Z"
+status: "active"
 ---
 
 # § 1140q. National technical assistance center; coordinating center
@@ -79,3 +80,7 @@ generated_at: "2026-03-30T02:54:48.149Z"
       - **(iv)** a representative from the National Advisory Committee on Institutional Quality and Integrity; and
       - **(v)** a representative of a regional or national accreditation agency or association.
   - **(6)** Not later than five years after the date of the establishment of the coordinating center under this subsection, the coordinating center shall report to the Secretary, the authorizing committees, and the National Advisory Committee on Institutional Quality and Integrity on the recommendations of the workgroup described in paragraph (5)(J).
+
+## Source Credit
+
+*([Pub. L. 89–329, title VII, § 777](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title VII, § 709(2)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3373](https://www.govinfo.gov/link/statute/122/3373).)*

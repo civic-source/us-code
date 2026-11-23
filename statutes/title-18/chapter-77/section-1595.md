@@ -3,9 +3,10 @@ title: "Section 1595 - Civil remedy"
 usc_title: 18
 usc_section: "1595"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1595"
-generated_at: "2026-03-30T02:54:16.488Z"
+generated_at: "2026-11-23T21:25:44.080Z"
+status: "active"
 ---
 
 # § 1595. Civil remedy
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:16.488Z"
   - **(1)** 10 years after the cause of action arose; or
   - **(2)** 10 years after the victim reaches 18 years of age, if the victim was a minor at the time of the alleged offense.
 - **(d)** In any case in which the attorney general of a State has reason to believe that an interest of the residents of that State has been or is threatened or adversely affected by any person who violates section 1591, the attorney general of the State, as parens patriae, may bring a civil action against such person on behalf of the residents of the State in an appropriate district court of the United States to obtain appropriate relief.
+
+## Source Credit
+
+*(Added [Pub. L. 108–193, § 4(a)(4)(A)](https://www.govinfo.gov/link/plaw/108/public/193), Dec. 19, 2003, [117 Stat. 2878](https://www.govinfo.gov/link/statute/117/2878); amended [Pub. L. 110–457, title II, § 221(2)](https://www.govinfo.gov/link/plaw/110/public/457), Dec. 23, 2008, [122 Stat. 5067](https://www.govinfo.gov/link/statute/122/5067); [Pub. L. 114–22, title I, § 120](https://www.govinfo.gov/link/plaw/114/public/22), May 29, 2015, [129 Stat. 247](https://www.govinfo.gov/link/statute/129/247); [Pub. L. 115–164, § 6](https://www.govinfo.gov/link/plaw/115/public/164), Apr. 11, 2018, [132 Stat. 1255](https://www.govinfo.gov/link/statute/132/1255); [Pub. L. 117–347, title I, § 102](https://www.govinfo.gov/link/plaw/117/public/347), Jan. 5, 2023, [136 Stat. 6200](https://www.govinfo.gov/link/statute/136/6200).)*

@@ -3,9 +3,10 @@ title: "Section 1522 - Advanced internal defenses"
 usc_title: 6
 usc_section: "1522"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1522"
-generated_at: "2026-03-30T02:53:09.510Z"
+generated_at: "2026-11-23T21:25:25.880Z"
+status: "active"
 ---
 
 # § 1522. Advanced internal defenses
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:09.510Z"
 - **(d)** The Director, in consultation with the Secretary, shall increase transparency to the public on agency cybersecurity posture, including by increasing the number of metrics available on Federal Government performance websites and, to the greatest extent practicable, displaying metrics for department components, small agencies, and micro-agencies.
 - **(e)**
 - **(f)** The requirements under this section shall not apply to the Department of Defense, a national security system, or an element of the intelligence community.
+
+## Source Credit
+
+*([Pub. L. 114–113, div. N, title II, § 224](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2967](https://www.govinfo.gov/link/statute/129/2967).)*

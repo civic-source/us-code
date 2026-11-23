@@ -3,9 +3,10 @@ title: "Section 1266 - Surface effects of underground coal mining operations"
 usc_title: 30
 usc_section: "1266"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1266"
-generated_at: "2026-03-30T02:55:29.401Z"
+generated_at: "2026-11-23T21:26:00.428Z"
+status: "active"
 ---
 
 # § 1266. Surface effects of underground coal mining operations
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:29.401Z"
   - **(12)** locate openings for all new drift mines working acid-producing or iron-producing coal seams in such a manner as to prevent a gravity discharge of water from the mine.
 - **(c)** In order to protect the stability of the land, the regulatory authority shall suspend underground coal mining under urbanized areas, cities, towns, and communities and adjacent to industrial or commercial buildings, major impoundments, or permanent streams if he finds imminent danger to inhabitants of the urbanized areas, cities, towns, and communities.
 - **(d)** The provisions of this subchapter relating to State and Federal programs, permits, bonds, inspections and enforcement, public review, and administrative and judicial review shall be applicable to surface operations and surface impacts incident to an underground coal mine with such modifications to the permit application requirements, permit approval or denial procedures, and bond requirements as are necessary to accommodate the distinct difference between surface and underground coal mining. The Secretary shall promulgate such modifications in accordance with the rulemaking procedure established in section 1251 of this title .
+
+## Source Credit
+
+*([Pub. L. 95–87, title V, § 516](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 495](https://www.govinfo.gov/link/statute/91/495).)*

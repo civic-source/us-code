@@ -3,9 +3,10 @@ title: "Section 41310 - Charge complaints"
 usc_title: 46
 usc_section: "41310"
 chapter: 413
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 41310"
-generated_at: "2026-03-30T02:56:15.565Z"
+generated_at: "2026-11-23T21:26:37.199Z"
+status: "active"
 ---
 
 # § 41310. Charge complaints
@@ -19,3 +20,17 @@ generated_at: "2026-03-30T02:56:15.565Z"
 - **(e)** If the common carrier assessing the charge is acting in the capacity of a non-vessel-operating common carrier, the Commission shall, while conducting an investigation under subsection (b), consider—
   - **(1)** whether the non-vessel-operating common carrier is responsible for the noncompliant assessment of the charge, in whole or in part; and
   - **(2)** whether another party is ultimately responsible in whole or in part and potentially subject to action under subsections (c) and (d).
+
+In General
+
+Investigation
+
+Refund
+
+Penalties
+
+Considerations
+
+## Source Credit
+
+*(Added [Pub. L. 117–146, § 10(a)](https://www.govinfo.gov/link/plaw/117/public/146), June 16, 2022, [136 Stat. 1278](https://www.govinfo.gov/link/statute/136/1278).)*

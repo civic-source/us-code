@@ -3,9 +3,10 @@ title: "Section 3201 - Funds appropriated or otherwise made available pursuant t
 usc_title: 7
 usc_section: "3201"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3201"
-generated_at: "2026-03-30T02:53:42.398Z"
+generated_at: "2026-11-23T21:25:28.323Z"
+status: "active"
 ---
 
 # § 3201. Funds appropriated or otherwise made available pursuant to other provisions of law
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:53:42.398Z"
 - **(c)** of section 3195 of this title to carry out subsection
 - **(a)** of such section or section 3196 of this title , as applicable, shall be in addition to, and not in substitution for, sums appropriated or otherwise made available to such States and institutions pursuant to other provisions of law.
 
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1439](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 1005](https://www.govinfo.gov/link/statute/91/1005); [Pub. L. 113–79, title VII, § 7111(b)(3)(F)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 874](https://www.govinfo.gov/link/statute/128/874).)*

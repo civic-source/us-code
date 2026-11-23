@@ -3,9 +3,10 @@ title: "Section 3330 - Reports to the intelligence community on penetrations of 
 usc_title: 50
 usc_section: "3330"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3330"
-generated_at: "2026-03-30T02:56:26.243Z"
+generated_at: "2026-11-23T21:26:39.032Z"
+status: "active"
 ---
 
 # § 3330. Reports to the intelligence community on penetrations of networks and information systems of certain contractors
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:26.243Z"
   - **(1)** The term “cleared intelligence contractor” means a private entity granted clearance by the Director of National Intelligence or the head of an element of the intelligence community to access, receive, or store classified information for the purpose of bidding for a contract or conducting activities in support of any program of an element of the intelligence community.
   - **(2)** The term “covered network” means a network or information system of a cleared intelligence contractor that contains or processes information created by or for an element of the intelligence community with respect to which such contractor is required to apply enhanced protection.
 - **(g)** Nothing in this section shall be construed to alter or limit any otherwise authorized access by government personnel to networks or information systems owned or operated by a contractor that processes or stores government data.
+
+## Source Credit
+
+*([Pub. L. 113–126, title III, § 325](https://www.govinfo.gov/link/plaw/113/public/126), July 7, 2014, [128 Stat. 1402](https://www.govinfo.gov/link/statute/128/1402).)*

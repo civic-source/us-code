@@ -3,9 +3,10 @@ title: "Section 1464a - Broadcasting Board of Governors satellite and television
 usc_title: 22
 usc_section: "1464a"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1464a"
-generated_at: "2026-03-30T02:55:05.332Z"
+generated_at: "2026-11-23T21:25:58.398Z"
+status: "active"
 ---
 
 # § 1464a. Broadcasting Board of Governors satellite and television
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.332Z"
   - **(1)** Of the funds authorized to be appropriated to the Broadcasting Board of Governors not more than $12,000,000 for the fiscal year 1990 and not more than $12,480,000 for the fiscal year 1991 may be obligated or expended for the United States International Television Service.
   - **(2)** The Broadcasting Board of Governors shall prepare and submit to the Congress quarterly reports which contain a detailed explanation of expenditures for the United States International Television Service during the fiscal years 1990 and 1991. Such reports shall contain specific justification and supporting information pertaining to all programs, particularly those described in subsection (c)(4), that were produced in-house by the United States International Television Service. Each such report shall include a statement by the Broadcasting Board of Governors that, according to the best information available to the Broadcasting Board of Governors, no comparable United States commercially-produced or public television program is available at a cost which is equal to or less than the cost of production by the United States International Television Service.
   - **(3)** Of the funds authorized to be appropriated to the Broadcasting Board of Governors, $1,500,000 for the fiscal year 1990 and $1,500,000 for the fiscal year 1991 shall be available only for the purchase or use of programs produced with grants from the Corporation for Public Broadcasting or produced by United States public broadcasters.
+
+## Source Credit
+
+*(Jan. 27, 1948, ch. 36, title V, § 505, as added [Pub. L. 101–246, title II, § 205(a)](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 50](https://www.govinfo.gov/link/statute/104/50); amended [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XIII, § 1335(a)(1), Oct. 21, 1998, [112 Stat. 2681–786](https://www.govinfo.gov/link/statute/112/2681).)*

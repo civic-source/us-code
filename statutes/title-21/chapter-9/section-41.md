@@ -3,9 +3,10 @@ title: "Section 41 - Definitions"
 usc_title: 21
 usc_section: "41"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 41"
-generated_at: "2026-03-30T02:54:54.271Z"
+generated_at: "2026-11-23T21:25:56.153Z"
+status: "active"
 ---
 
 # § 379j–41. Definitions
@@ -68,3 +69,7 @@ For purposes of this subpart:
     - **(C)** leasing, maintenance, renovation, and repair of facilities and acquisition, maintenance, and repair of fixtures, furniture, scientific equipment, and other necessary materials and supplies; and
     - **(D)** collecting fees under subsection (a) and accounting for resources allocated for the review of abbreviated new drug applications and supplements and inspection related to generic drugs.
   - **(13)** The term “Type II active pharmaceutical ingredient drug master file” means a submission of information to the Secretary by a person that intends to authorize the Food and Drug Administration to reference the information to support approval of a generic drug submission without the submitter having to disclose the information to the generic drug submission applicant.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 744A, as added [Pub. L. 112–144, title III, § 302](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 1008](https://www.govinfo.gov/link/statute/126/1008); amended [Pub. L. 115–52, title III, § 302](https://www.govinfo.gov/link/plaw/115/public/52), Aug. 18, 2017, [131 Stat. 1020](https://www.govinfo.gov/link/statute/131/1020).)*

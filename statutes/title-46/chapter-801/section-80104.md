@@ -3,9 +3,10 @@ title: "Section 80104 - Salvaging operations by foreign vessels"
 usc_title: 46
 usc_section: "80104"
 chapter: 801
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 80104"
-generated_at: "2026-03-30T02:56:15.588Z"
+generated_at: "2026-11-23T21:26:37.367Z"
+status: "active"
 ---
 
 # § 80104. Salvaging operations by foreign vessels
@@ -17,3 +18,32 @@ generated_at: "2026-03-30T02:56:15.588Z"
 - **(c)** This section does not prohibit or restrict assistance to vessels or salvaging operations authorized by treaty, including—
   - **(1)** article II of the Treaty between the United States and Great Britain concerning reciprocal rights for United States and Canada in the conveyance of prisoners and wrecking and salvage, signed at Washington, May 18, 1908 ( 35 Stat. 2036 ); or
   - **(2)** the Treaty between the United States of America and Mexico to facilitate assistance to and salvage of vessels in territorial waters, signed at Mexico City, June 13, 1935 ( 49 Stat. 3359 ).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 80104(a) | 46 App.:316(d) (words before proviso). | R.S. § 4370(d), (e); June 11, 1940, ch. 324 , 54 Stat. 305 . |
+| 80104(b) | 46 App.:316(d) (proviso). |  |
+| 80104(c) | 46 App.:316(e). |  |
+
+
+Prohibition
+
+When Suitable Vessel Not Available
+
+Operations Authorized by Treaty
+
+Historical and Revision Notes
+
+80104(a)
+
+June 11, 1940, ch. 324
+
+54 Stat. 305
+
+80104(b)
+
+80104(c)
+
+## Source Credit
+
+*([Pub. L. 109–304, § 11](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1691](https://www.govinfo.gov/link/statute/120/1691).)*

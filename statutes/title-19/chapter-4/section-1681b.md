@@ -3,12 +3,17 @@ title: "Section 1681b - Enforcement"
 usc_title: 19
 usc_section: "1681b"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1681b"
-generated_at: "2026-03-30T02:54:24.659Z"
+generated_at: "2026-11-23T21:25:42.759Z"
+status: "active"
 ---
 
 # § 1681b. Enforcement
 
 - **(a)** Any person who violates a provision of section 1681a of this title shall, in addition to the tax and any other penalty provided by law, be liable for a civil penalty for each violation equal to the greater of $1,000 or 5 times the amount of the tax imposed by chapter 52 of the Internal Revenue Code of 1986 on all cigarettes or smokeless tobacco products that are the subject of such violation.
 - **(b)** Any tobacco product, cigarette papers, or tube, or any smokeless tobacco product, that was imported into the United States or is sought to be imported into the United States in violation of, or without meeting the requirements of, section 1681a of this title shall be forfeited to the United States, or to any State in which such tobacco product, cigarette papers, or tube is found. Notwithstanding any other provision of law, any product forfeited to the United States, or to any State, pursuant to this subtitle shall be destroyed.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VIII, § 803, as added [Pub. L. 106–476, title IV, § 4004(a)](https://www.govinfo.gov/link/plaw/106/public/476), Nov. 9, 2000, [114 Stat. 2180](https://www.govinfo.gov/link/statute/114/2180); amended [Pub. L. 109–432, div. C, title IV, § 401(d)](https://www.govinfo.gov/link/plaw/109/public/432), (e)(1), (3), Dec. 20, 2006, [120 Stat. 3048](https://www.govinfo.gov/link/statute/120/3048), 3049.)*

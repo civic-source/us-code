@@ -3,9 +3,10 @@ title: "Section 2740 - Property loss: reimbursement of members and civilian empl
 usc_title: 10
 usc_section: "2740"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2740"
-generated_at: "2026-03-30T02:53:38.175Z"
+generated_at: "2026-11-23T21:25:32.668Z"
+status: "active"
 ---
 
 # § 2740. Property loss: reimbursement of members and civilian employees for full replacement value of household effects when contractor reimbursement not available
@@ -22,3 +23,7 @@ The Secretary of Defense and the Secretaries of the military departments, in pay
     - **(A)** the lost or damaged goods were transported or stored under a contract or solicitation that requires at least one of the transportation service providers or carriers that handled the shipment to settle claims on the basis of full replacement value pursuant to section 2636a of this title ;
     - **(B)** the lost or damaged goods have been in the custody of more than one independent contractor or transportation service provider; and
     - **(C)** a claim submitted to the delivering transportation service provider or carrier is denied in whole or in part because the loss or damage occurred while the lost or damaged goods were in the custody of a prior transportation service provider or carrier or government entity.
+
+## Source Credit
+
+*(Added [Pub. L. 111–383, div. A, title III, § 354(a)(1)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4194](https://www.govinfo.gov/link/statute/124/4194).)*

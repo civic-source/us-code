@@ -3,9 +3,10 @@ title: "Section 590c - Conditions under which benefits of law extended to nongov
 usc_title: 16
 usc_section: "590c"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 590c"
-generated_at: "2026-03-30T02:54:22.881Z"
+generated_at: "2026-11-23T21:25:51.687Z"
+status: "active"
 ---
 
 # § 590c. Conditions under which benefits of law extended to nongovernment controlled lands
@@ -27,3 +28,7 @@ As a condition to the extending of any benefits under this chapter to any lands 
       - **(iii)** to socially disadvantaged farmers or ranchers (as defined in section 2003(e) of title 7 );
       - **(iv)** to qualify for an exemption from ineligibility under section 3812 of this title ; or
       - **(v)** to comply with Federal, State, or local regulatory requirements.
+
+## Source Credit
+
+*(Apr. 27, 1935, ch. 85, § 3, [49 Stat. 163](https://www.govinfo.gov/link/statute/49/163); [Pub. L. 113–67, div. A, title VII, § 705(a)](https://www.govinfo.gov/link/plaw/113/public/67), Dec. 26, 2013, [127 Stat. 1192](https://www.govinfo.gov/link/statute/127/1192).)*

@@ -3,9 +3,10 @@ title: "Section 1095c - TRICARE program: facilitation of processing of claims"
 usc_title: 10
 usc_section: "1095c"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1095c"
-generated_at: "2026-03-30T02:53:38.107Z"
+generated_at: "2026-11-23T21:25:32.420Z"
+status: "active"
 ---
 
 # § 1095c. TRICARE program: facilitation of processing of claims
@@ -28,3 +29,25 @@ generated_at: "2026-03-30T02:53:38.107Z"
     - **(B)** 60 days have elapsed since the date of such notification.
 - **(c)** The Secretary of Defense shall require that new contracts for managed care support under the TRICARE program provide that the contractor be permitted to provide financial incentives to health care providers who file claims for payment electronically.
 - **(d)** The Secretary of Defense, in consultation with the other administering Secretaries, shall limit the information required in support of claims for payment for health care items and services provided under the TRICARE program to that information that is identical to the information that would be required for claims for reimbursement for those items and services under title XVIII of the Social Security Act ( 42 U.S.C. 1395 et seq.) except for that information, if any, that is uniquely required by the TRICARE program. The Secretary of Defense shall report to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives any information that is excepted under this provision, and the justification for that exception.
+
+Reduction of Processing Time
+
+Requirement to Provide Start-Up Time For Certain Contractors
+
+Incentives for Electronic Processing
+
+Correspondence to Medicare Claims Information Requirements
+
+In General
+
+Covered Matters
+
+Report on Collection of Amounts Owed
+
+Definitions
+
+“Beginning on the date of the enactment of this Act [ Oct. 30, 2000 ], the Secretary of Defense shall, to the maximum extent practicable, take all necessary actions to implement the following improvements with respect to processing of claims under the TRICARE program:
+
+## Source Credit
+
+*(Added [Pub. L. 106–65, div. A, title VII, § 713(a)(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 688](https://www.govinfo.gov/link/statute/113/688); amended [Pub. L. 107–107, div. A, title VII, § 708(b)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1164](https://www.govinfo.gov/link/statute/115/1164); [Pub. L. 107–314, div. A, title VII, § 711(a)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2588](https://www.govinfo.gov/link/statute/116/2588).)*

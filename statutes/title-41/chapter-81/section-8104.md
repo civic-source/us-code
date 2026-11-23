@@ -3,9 +3,10 @@ title: "Section 8104 - Employee sanctions and remedies"
 usc_title: 41
 usc_section: "8104"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 8104"
-generated_at: "2026-03-30T02:55:55.811Z"
+generated_at: "2026-11-23T21:26:18.836Z"
+status: "active"
 ---
 
 # § 8104. Employee sanctions and remedies
@@ -14,3 +15,22 @@ Within 30 days after receiving notice from an employee of a conviction pursuant 
 
   - **(1)** take appropriate personnel action against the employee, up to and including termination; or
   - **(2)** require the employee to satisfactorily participate in a drug abuse assistance or rehabilitation program approved for those purposes by a Federal, State, or local health, law enforcement, or other appropriate agency.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8104 | 41:703. | Pub. L. 100–690, title V, § 5154 , Nov. 18, 1988 , 102 Stat. 4307 . |
+
+
+Historical and Revision Notes
+
+8104
+
+Pub. L. 100–690, title V, § 5154
+
+Nov. 18, 1988
+
+102 Stat. 4307
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3830](https://www.govinfo.gov/link/statute/124/3830).)*

@@ -3,9 +3,10 @@ title: "Section 2019 - Early childhood development program"
 usc_title: 25
 usc_section: "2019"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2019"
-generated_at: "2026-03-30T02:54:52.834Z"
+generated_at: "2026-11-23T21:25:54.654Z"
+status: "active"
 ---
 
 # § 2019. Early childhood development program
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:54:52.834Z"
 - **(e)** Family literacy programs operated under this section and other family literacy programs operated by the Bureau of Indian Affairs shall be coordinated with family literacy programs for Indian children under subpart 2 of part B of title II of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6641 et seq.] in order to avoid duplication and to encourage the dissemination of information on quality family literacy programs serving Indians.
 - **(f)** The Secretary shall, out of funds appropriated under subsection (g), include in the grants provided under subsection (a) amounts for administrative costs incurred by the tribe, tribal organization, or consortium of tribes in establishing and maintaining the early childhood development program.
 - **(g)** There are authorized to be appropriated to carry out this section such sums as may be necessary.
+
+## Source Credit
+
+*([Pub. L. 95–561, title XI, § 1139](https://www.govinfo.gov/link/plaw/95/public/561), as added [Pub. L. 107–110, title X, § 1042](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2058](https://www.govinfo.gov/link/statute/115/2058); amended [Pub. L. 114–95, title IX, § 9215(cc)(1)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2173](https://www.govinfo.gov/link/statute/129/2173).)*

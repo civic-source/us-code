@@ -3,12 +3,17 @@ title: "Section 290c - Standards, criteria, and procedures for preparation and p
 usc_title: 15
 usc_section: "290c"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 290c"
-generated_at: "2026-03-30T02:54:08.081Z"
+generated_at: "2026-11-23T21:25:39.627Z"
+status: "active"
 ---
 
 # § 290c. Standards, criteria, and procedures for preparation and publication of standard reference data; publication in Federal Register
 
 To provide for more effective integration and coordination of standard reference data activities, the Secretary, in consultation with other interested Federal agencies, shall prescribe and publish in the Federal Register such standards, criteria, and procedures for the preparation and publication of standard reference data as may be necessary to carry out the provisions of this chapter.
 
+
+## Source Credit
+
+*([Pub. L. 90–396, § 4](https://www.govinfo.gov/link/plaw/90/public/396), July 11, 1968, [82 Stat. 340](https://www.govinfo.gov/link/statute/82/340).)*

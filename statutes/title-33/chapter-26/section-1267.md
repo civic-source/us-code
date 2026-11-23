@@ -3,9 +3,10 @@ title: "Section 1267 - Chesapeake Bay"
 usc_title: 33
 usc_section: "1267"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1267"
-generated_at: "2026-03-30T02:55:41.083Z"
+generated_at: "2026-11-23T21:26:11.362Z"
+status: "active"
 ---
 
 # § 1267. Chesapeake Bay
@@ -95,3 +96,153 @@ generated_at: "2026-03-30T02:55:41.083Z"
   - **(4)** for fiscal year 2024, $91,500,000;
   - **(5)** for fiscal year 2025, $92,000,000; and
   - **(6)** for each of fiscal years 2026 through 2030, $92,000,000.
+
+Definitions
+
+Chesapeake bay agreements
+
+Chesapeake bay program
+
+Chesapeake bay watershed
+
+Chesapeake executive council
+
+Chesapeake wild program
+
+Grant program
+
+Restoration and protection activity
+
+Secretary
+
+Program Establishment.—
+
+Establishment
+
+Purposes
+
+Duties
+
+Coordination
+
+Grants and Technical Assistance.—
+
+Chesapeake wild grant program
+
+Eligible entities
+
+Criteria
+
+Cost sharing.—
+
+Department of the interior share
+
+Non-department of the interior share.—
+
+In general
+
+Other federal funding
+
+Administration
+
+Reporting
+
+Authorization of Appropriations.—
+
+In general
+
+Supplement, not supplant
+
+Administrator
+
+Chesapeake bay state
+
+Chesapeake bay watershed
+
+Chesapeake executive council
+
+Chief executive
+
+Director
+
+Federal restoration activity.—
+
+In general
+
+Categorization
+
+State restoration activity.—
+
+In general
+
+Categorization
+
+In General
+
+Minimum Funding Levels
+
+Deadline
+
+Report
+
+Effective Date
+
+In General
+
+Appointment.—
+
+In general
+
+Nominations
+
+Requirements
+
+Reports
+
+Findings
+
+Purposes
+
+Study
+
+Report
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title I, § 117, as added [Pub. L. 100–4, title I, § 103](https://www.govinfo.gov/link/plaw/100/public/4), Feb. 4, 1987, [101 Stat. 10](https://www.govinfo.gov/link/statute/101/10); amended [Pub. L. 106–457, title II, § 203](https://www.govinfo.gov/link/plaw/106/public/457), Nov. 7, 2000, [114 Stat. 1967](https://www.govinfo.gov/link/statute/114/1967); [Pub. L. 114–322, title IV, § 5007](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1896](https://www.govinfo.gov/link/statute/130/1896); [Pub. L. 116–188, title I, § 109](https://www.govinfo.gov/link/plaw/116/public/188), Oct. 30, 2020, [134 Stat. 920](https://www.govinfo.gov/link/statute/134/920); [Pub. L. 118–198, title I, § 108](https://www.govinfo.gov/link/plaw/118/public/198), Dec. 23, 2024, [138 Stat. 2681](https://www.govinfo.gov/link/statute/138/2681).)*

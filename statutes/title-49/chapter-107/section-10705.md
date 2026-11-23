@@ -3,9 +3,10 @@ title: "Section 10705 - Authority: through routes, joint classifications, rates,
 usc_title: 49
 usc_section: "10705"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 10705"
-generated_at: "2026-03-30T02:56:19.323Z"
+generated_at: "2026-11-23T21:26:40.674Z"
+status: "active"
 ---
 
 # § 10705. Authority: through routes, joint classifications, rates, and divisions prescribed by Board
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:19.323Z"
     - **(C)** the Board decides that the proposed through route is needed to provide adequate, and more efficient or economic, transportation.
 - **(b)** The Board shall prescribe the division of joint rates to be received by a rail carrier providing transportation subject to its jurisdiction under this part when it decides that a division of joint rates established by the participating carriers under section 10703 of this title , or under a decision of the Board under subsection (a) of this section, does or will violate section 10701 of this title .
 - **(c)** If a division of a joint rate prescribed under a decision of the Board is later found to violate section 10701 of this title , the Board may decide what division would have been reasonable and order adjustment to be made retroactive to the date the complaint was filed, the date the order for an investigation was made, or a later date that the Board decides is justified. The Board may make a decision under this subsection effective as part of its original decision.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 811](https://www.govinfo.gov/link/statute/109/811).)*

@@ -3,12 +3,17 @@ title: "Section 81k - Agreements as to use of property"
 usc_title: 19
 usc_section: "81k"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 81k"
-generated_at: "2026-03-30T02:54:24.626Z"
+generated_at: "2026-11-23T21:25:42.686Z"
+status: "active"
 ---
 
 # § 81k. Agreements as to use of property
 
 If the title to or right of user of any of the property to be included in a zone is in the United States, an agreement to use such property for zone purposes may be entered into between the grantee and the department or officer of the United States having control of the same, under such conditions, approved by the Board and such department or officer, as may be agreed upon.
 
+
+## Source Credit
+
+*(June 18, 1934, ch. 590, § 11, [48 Stat. 1001](https://www.govinfo.gov/link/statute/48/1001).)*

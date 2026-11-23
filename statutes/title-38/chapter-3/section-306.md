@@ -3,9 +3,10 @@ title: "Section 306 - Under Secretary for Benefits"
 usc_title: 38
 usc_section: "306"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 306"
-generated_at: "2026-03-30T02:55:53.470Z"
+generated_at: "2026-11-23T21:26:16.551Z"
+status: "active"
 ---
 
 # § 306. Under Secretary for Benefits
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:53.470Z"
     - **(F)** One person who has held the position of Under Secretary for Benefits (including service as Chief Benefits Director of the Veterans’ Administration), if the Secretary determines that it is desirable for such person to be a member of the commission.
   - **(3)** A commission established under this subsection shall recommend at least three individuals for appointment to the position of Under Secretary for Benefits. The commission shall submit all recommendations to the Secretary. The Secretary shall forward the recommendations to the President with any comments the Secretary considers appropriate. Thereafter, the President may request the commission to recommend additional individuals for appointment.
   - **(4)** The Assistant Secretary or Deputy Assistant Secretary of Veterans Affairs who performs personnel management and labor relations functions shall serve as the executive secretary of a commission established under this subsection.
+
+## Source Credit
+
+*(Added and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 2(a), 4(a)(3), (4), Aug. 6, 1991, [105 Stat. 380](https://www.govinfo.gov/link/statute/105/380), 404; [Pub. L. 102–405, title III, § 302(c)(1)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1984](https://www.govinfo.gov/link/statute/106/1984); [Pub. L. 103–446, title XII, § 1201(c)(2)](https://www.govinfo.gov/link/plaw/103/public/446), (e)(2), Nov. 2, 1994, [108 Stat. 4683](https://www.govinfo.gov/link/statute/108/4683), 4685; [Pub. L. 109–461, title II, § 210(b)](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3418](https://www.govinfo.gov/link/statute/120/3418).)*

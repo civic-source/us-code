@@ -3,9 +3,10 @@ title: "Section 566 - Powers and duties"
 usc_title: 28
 usc_section: "566"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 566"
-generated_at: "2026-03-30T02:55:30.132Z"
+generated_at: "2026-11-23T21:26:01.058Z"
+status: "active"
 ---
 
 # § 566. Powers and duties
@@ -27,3 +28,21 @@ generated_at: "2026-03-30T02:55:30.132Z"
   - **(2)** a deputy marshal shall deliver to the marshal all process in the custody of the deputy marshal.
 - **(h)** The United States marshals shall pay such office expenses of United States Attorneys as may be directed by the Attorney General.
 - **(i)** The Director of the United States Marshals Service shall consult with the Judicial Conference of the United States on a continuing basis regarding the security requirements for the judicial branch of the United States Government, to ensure that the views of the Judicial Conference regarding the security requirements for the judicial branch of the Federal Government are taken into account when determining staffing levels, setting priorities for programs regarding judicial security, and allocating judicial security resources. In this paragraph, the term “judicial security” includes the security of buildings housing the judiciary, the personal security of judicial officers, the assessment of threats made to judicial officers, and the protection of all other judicial personnel. The United States Marshals Service retains final authority regarding security requirements for the judicial branch of the Federal Government.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*(Added [Pub. L. 100–690, title VII, § 7608(a)(1)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4514](https://www.govinfo.gov/link/statute/102/4514); amended [Pub. L. 110–177, title I](https://www.govinfo.gov/link/plaw/110/public/177), §§ 101(a), 102(a), Jan. 7, 2008, [121 Stat. 2534](https://www.govinfo.gov/link/statute/121/2534), 2535; [Pub. L. 112–206, § 4(b)](https://www.govinfo.gov/link/plaw/112/public/206), Dec. 7, 2012, [126 Stat. 1492](https://www.govinfo.gov/link/statute/126/1492); [Pub. L. 114–22, title VI, § 605](https://www.govinfo.gov/link/plaw/114/public/22), May 29, 2015, [129 Stat. 260](https://www.govinfo.gov/link/statute/129/260).)*

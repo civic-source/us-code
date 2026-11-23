@@ -3,12 +3,17 @@ title: "Section 5 - Record of deeds by Indians requiring approval"
 usc_title: 25
 usc_section: "5"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5"
-generated_at: "2026-03-30T02:54:52.796Z"
+generated_at: "2026-11-23T21:25:54.530Z"
+status: "active"
 ---
 
 # § 5. Record of deeds by Indians requiring approval
 
 The Commissioner of Indian Affairs is hereby empowered and directed to continue to make and keep a record of every deed executed by any Indian, his heirs, representatives, or assigns, which may require the approval of the President of the United States or of the Secretary of the Interior, whenever such approval shall have been given, and the deed so approved returned to said office.
 
+
+## Source Credit
+
+*(July 26, 1892, ch. 256, § 2, [27 Stat. 273](https://www.govinfo.gov/link/statute/27/273).)*

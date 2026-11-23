@@ -3,9 +3,10 @@ title: "Section 3 - Vending machine income"
 usc_title: 20
 usc_section: "3"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 3"
-generated_at: "2026-03-30T02:54:48.083Z"
+generated_at: "2026-11-23T21:25:46.951Z"
+status: "active"
 ---
 
 # § 107d–3. Vending machine income
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:48.083Z"
 - **(e)** The Secretary, through the Commissioner, shall prescribe regulations to establish a priority for the operation of cafeterias on Federal property by blind licensees when he determines, on an individual basis and after consultation with the head of the appropriate installation, that such operation can be provided at a reasonable cost with food of a high quality comparable to that currently provided to employees, whether by contract or otherwise.
 - **(f)** This section shall not operate to preclude preexisting or future arrangements, or regulations of departments, agencies, or instrumentalities of the United States, under which blind licensees (1) receive a greater percentage or amount of vending machine income than that specified in subsection (b)(1) of this section, or (2) receive vending machine income from individual locations, installations, or facilities on Federal property the total of which at such individual locations, installations, or facilities does not exceed $3,000 annually.
 - **(g)** The Secretary shall take such action and promulgate such regulations as he deems necessary to assure compliance with this section.
+
+## Source Credit
+
+*(June 20, 1936, ch. 638, § 7, as added [Pub. L. 93–516, title II, § 206](https://www.govinfo.gov/link/plaw/93/public/516), Dec. 7, 1974, [88 Stat. 1627](https://www.govinfo.gov/link/statute/88/1627); [Pub. L. 93–651, title II, § 206](https://www.govinfo.gov/link/plaw/93/public/651), Nov. 21, 1974, [89 Stat. 2–12](https://www.govinfo.gov/link/statute/89/2).)*

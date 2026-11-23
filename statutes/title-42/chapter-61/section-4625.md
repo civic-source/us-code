@@ -3,9 +3,10 @@ title: "Section 4625 - Relocation planning, assistance coordination, and advisor
 usc_title: 42
 usc_section: "4625"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4625"
-generated_at: "2026-03-30T02:56:11.207Z"
+generated_at: "2026-11-23T21:26:32.681Z"
+status: "active"
 ---
 
 # § 4625. Relocation planning, assistance coordination, and advisory services
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.207Z"
 - **(d)** The head of a displacing agency shall coordinate the relocation activities performed by such agency with other Federal, State, or local governmental actions in the community which could affect the efficient and effective delivery of relocation assistance and related services.
 - **(e)** Whenever two or more Federal agencies provide financial assistance to a displacing agency other than a Federal agency, to implement functionally or geographically related activities which will result in the displacement of a person, the heads of such Federal agencies may agree that the procedures of one of such agencies shall be utilized to implement this subchapter with respect to such activities. If such agreement cannot be reached, then the head of the lead agency shall designate one of such agencies as the agency whose procedures shall be utilized to implement this subchapter with respect to such activities. Such related activities shall constitute a single program or project for purposes of this chapter.
 - **(f)** Notwithstanding section 4601(1) of this title , in any case in which a displacing agency acquires property for a program or project, any person who occupies such property on a rental basis for a short term or a period subject to termination when the property is needed for the program or project shall be eligible for advisory services to the extent determined by the displacing agency.
+
+## Source Credit
+
+*([Pub. L. 91–646, title II, § 205](https://www.govinfo.gov/link/plaw/91/public/646), Jan. 2, 1971, [84 Stat. 1897](https://www.govinfo.gov/link/statute/84/1897); [Pub. L. 100–17, title IV, § 408](https://www.govinfo.gov/link/plaw/100/public/17), Apr. 2, 1987, [101 Stat. 252](https://www.govinfo.gov/link/statute/101/252).)*

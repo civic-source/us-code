@@ -3,9 +3,10 @@ title: "Section 9514 - Office of the Director"
 usc_title: 20
 usc_section: "9514"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9514"
-generated_at: "2026-03-30T02:54:48.226Z"
+generated_at: "2026-11-23T21:25:47.657Z"
+status: "active"
 ---
 
 # § 9514. Office of the Director
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:48.226Z"
   - **(12)** To carry out and support other activities consistent with the priorities and mission of the Institute.
 - **(g)** The Director may establish technical and scientific peer-review groups and scientific program advisory committees for research and evaluations that the Director determines are necessary to carry out the requirements of this subchapter. The Director shall appoint such personnel, except that officers and employees of the United States shall comprise no more than ¼ of the members of any such group or committee and shall not receive additional compensation for their service as members of such a group or committee. The Director shall ensure that reviewers are highly qualified and capable to appraise education research and development projects. Chapter 10 of title 5 shall not apply to a peer-review group or an advisory committee established under this subsection.
 - **(h)** The Director may, when requested by other officers of the Department, and shall, when directed by the Secretary, review the products and publications of other offices of the Department to certify that evidence-based claims about those products and publications are scientifically valid.
+
+## Source Credit
+
+*([Pub. L. 107–279, title I, § 114](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1946](https://www.govinfo.gov/link/statute/116/1946); [Pub. L. 117–286, § 4(a)(153)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4322](https://www.govinfo.gov/link/statute/136/4322).)*

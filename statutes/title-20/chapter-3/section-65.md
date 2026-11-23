@@ -3,9 +3,10 @@ title: "Section 65 - Repealed. Pub. L. 89–674, § 3 , Oct. 15, 1966 , 80 Stat.
 usc_title: 20
 usc_section: "65"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 65"
-generated_at: "2026-03-30T02:54:48.072Z"
+generated_at: "2026-11-23T21:25:46.915Z"
+status: "repealed"
 ---
 
 # § 65. Repealed. Pub. L. 89–674, § 3 , Oct. 15, 1966 , 80 Stat. 953

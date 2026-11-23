@@ -3,9 +3,10 @@ title: "Section 50111 - Commercialization of Space Station"
 usc_title: 51
 usc_section: "50111"
 chapter: 501
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 50111"
-generated_at: "2026-03-30T02:56:28.707Z"
+generated_at: "2026-11-23T21:26:42.545Z"
+status: "active"
 ---
 
 # § 50111. Commercialization of Space Station
@@ -47,3 +48,101 @@ generated_at: "2026-03-30T02:56:28.707Z"
   - **(3)** If additional Government crew, power, and transportation resources are available after meeting the Administration’s requirements for ISS activities defined in the human exploration roadmap and related research, demonstrations identified under paragraph (2) may—
     - **(A)** test the capabilities needed to meet future mission requirements, space exploration objectives, and other research objectives described in paragraph (2)(A); and
     - **(B)** demonstrate or test capabilities, including commercial modules or deep space habitats, Environmental Control and Life Support Systems, orbital satellite assembly, exploration space suits, a node that enables a wide variety of activity, including multiple commercial modules and airlocks, additional docking or berthing ports for commercial crew and cargo, opportunities for the commercial space sector to cost share for transportation and other services on the ISS, other commercial activities, or services obtained through alternate acquisition approaches.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 50111(a) | 42 U.S.C. 14711(a) . | Pub. L. 105–303, title I, § 101(a) , Oct. 28, 1998 , 112 Stat. 2845 . |
+| 50111(b) | 42 U.S.C. 17801 . | Pub. L. 110–422, title IX, § 902 , Oct. 15, 2008 , 122 Stat. 4805 . |
+
+
+Policy
+
+Use of United States Commercially Provided Services.—
+
+In general
+
+Congressional intent
+
+Additional technologies
+
+Crew transfer and crew rescue services contract
+
+ISS Transition Plan.—
+
+In general
+
+Reports
+
+Demonstrations
+
+Historical and Revision Notes
+
+50111(a)
+
+42 U.S.C. 14711(a)
+
+Pub. L. 105–303, title I, § 101(a)
+
+Oct. 28, 1998
+
+112 Stat. 2845
+
+50111(b)
+
+42 U.S.C. 17801
+
+Pub. L. 110–422, title IX, § 902
+
+Oct. 15, 2008
+
+122 Stat. 4805
+
+Sense of Congress
+
+Objectives
+
+Continuation of the ISS
+
+Findings
+
+Sense of Congress on Commercial Crew Program and Commercial Resupply Services Program
+
+Reaffirmation
+
+Use of Non-United States Human Space Flight Transportation Capabilities
+
+Commercial Crew Program.—
+
+Objective
+
+Primary consideration
+
+Safety.—
+
+In general
+
+Lessons learned
+
+Cost minimization
+
+Commercial Cargo Program
+
+Competition
+
+Transparency.—
+
+Sense of congress
+
+In general
+
+ISS Cargo Resupply Services Lessons Learned
+
+Findings
+
+Sense of Congress
+
+Reports
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3396](https://www.govinfo.gov/link/statute/124/3396); [Pub. L. 115–10, title III, § 303(c)](https://www.govinfo.gov/link/plaw/115/public/10), Mar. 21, 2017, [131 Stat. 27](https://www.govinfo.gov/link/statute/131/27); [Pub. L. 117–167, div. B, title VII, § 10815(e)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1738](https://www.govinfo.gov/link/statute/136/1738).)*

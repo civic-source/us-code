@@ -3,9 +3,10 @@ title: "Section 11411 - Use of unutilized and underutilized public buildings and
 usc_title: 42
 usc_section: "11411"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11411"
-generated_at: "2026-03-30T02:56:11.402Z"
+generated_at: "2026-11-23T21:26:33.425Z"
+status: "active"
 ---
 
 # § 11411. Use of unutilized and underutilized public buildings and real property to assist the homeless
@@ -85,3 +86,21 @@ generated_at: "2026-03-30T02:56:11.402Z"
   - **(3)** the term “landholding agency” means a Federal department or agency with statutory authority to control real property;
   - **(4)** the term “representative of the homeless” means a State or local government agency, or private nonprofit organization, which provides services to the homeless; and
   - **(5)** the term “Secretary” means the Secretary of Housing and Urban Development, except as otherwise provided.
+
+In General
+
+Consultation
+
+Reporting Requirement.—
+
+In general
+
+Form
+
+Appropriate committees of congress defined
+
+Sunset
+
+## Source Credit
+
+*([Pub. L. 100–77, title V, § 501](https://www.govinfo.gov/link/plaw/100/public/77), July 22, 1987, [101 Stat. 509](https://www.govinfo.gov/link/statute/101/509); [Pub. L. 100–628, title V, § 501](https://www.govinfo.gov/link/plaw/100/public/628), Nov. 7, 1988, [102 Stat. 3240](https://www.govinfo.gov/link/statute/102/3240); [Pub. L. 101–645, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/101/public/645), Nov. 29, 1990, [104 Stat. 4719](https://www.govinfo.gov/link/statute/104/4719); [Pub. L. 102–484, div. B, title XXVIII, § 2824](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2608](https://www.govinfo.gov/link/statute/106/2608); [Pub. L. 103–421, § 2(d)](https://www.govinfo.gov/link/plaw/103/public/421), Oct. 25, 1994, [108 Stat. 4352](https://www.govinfo.gov/link/statute/108/4352); [Pub. L. 108–199, div. G, title II, § 216(4)](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 394](https://www.govinfo.gov/link/statute/118/394); [Pub. L. 114–287, § 22](https://www.govinfo.gov/link/plaw/114/public/287), Dec. 16, 2016, [130 Stat. 1478](https://www.govinfo.gov/link/statute/130/1478).)*

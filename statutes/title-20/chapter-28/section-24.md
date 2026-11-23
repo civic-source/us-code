@@ -3,9 +3,10 @@ title: "Section 24 - Activities"
 usc_title: 20
 usc_section: "24"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 24"
-generated_at: "2026-03-30T02:54:48.106Z"
+generated_at: "2026-11-23T21:25:47.065Z"
+status: "active"
 ---
 
 # § 1070a–24. Activities
@@ -72,3 +73,7 @@ generated_at: "2026-03-30T02:54:48.106Z"
   - **(3)** eligible for assistance under subtitle B of title VII of the McKinney-Vento Homeless Assistance Act ( 42 U.S.C. 11431 et seq.); or
   - **(4)** otherwise considered by the eligible entity to be a disconnected student.
 - **(e)** In the case of eligible entities described in section 1070a–21(c)(1) of this title , the activities required by this section may be provided by service providers such as community-based organizations, schools, institutions of higher education, public and private agencies, nonprofit and philanthropic organizations, businesses, institutions and agencies sponsoring programs authorized under subpart 4, and other organizations the State determines appropriate.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 404D](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title IV, § 403](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1659](https://www.govinfo.gov/link/statute/112/1659); amended [Pub. L. 106–78, title VII, § 752(b)(8)](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1169](https://www.govinfo.gov/link/statute/113/1169); [Pub. L. 110–315, title IV, § 404(d)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3210](https://www.govinfo.gov/link/statute/122/3210).)*

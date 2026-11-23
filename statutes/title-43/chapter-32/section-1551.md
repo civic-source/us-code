@@ -3,9 +3,10 @@ title: "Section 1551 - Construction of Colorado River Basin Act"
 usc_title: 43
 usc_section: "1551"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1551"
-generated_at: "2026-03-30T02:55:57.476Z"
+generated_at: "2026-11-23T21:26:19.845Z"
+status: "active"
 ---
 
 # § 1551. Construction of Colorado River Basin Act
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:57.476Z"
   - **(1)** make reports as to the annual consumptive uses and losses of water from the Colorado River system after each successive five-year period, beginning with the five-year period starting on October 1, 1970 . Such reports shall include a detailed breakdown of the beneficial consumptive use of water on a State-by-State basis. Specific figures on quantities consumptively used from the major tributary streams flowing into the Colorado River shall also be included on a State-by-State basis. Such reports shall be prepared in consultation with the States of the lower basin individually and with the Upper Colorado River Commission, and shall be transmitted to the President, the Congress, and to the Governors of each State signatory to the Colorado River Compact; and
   - **(2)** condition all contracts for the delivery of water originating in the drainage basin of the Colorado River system upon the availability of water under the Colorado River Compact.
 - **(c)** All Federal officers and agencies are directed to comply with the applicable provisions of this chapter, and of the laws, treaty, compacts, and decree referred to in subsection (a) of this section, in the storage and release of water from all reservoirs and in the operation and maintenance of all facilities in the Colorado River system under the jurisdiction and supervision of the Secretary, and in the operation and maintenance of all works which may be authorized hereafter for the augmentation of the water supply of the Colorado River system. In the event of failure of any such officer or agency to so comply, any affected State may maintain an action to enforce the provisions of this section in the Supreme Court of the United States and consent is given to the joinder of the United States as a party in such suit or suits, as a defendant or otherwise.
+
+## Source Credit
+
+*([Pub. L. 90–537, title VI, § 601](https://www.govinfo.gov/link/plaw/90/public/537), Sept. 30, 1968, [82 Stat. 899](https://www.govinfo.gov/link/statute/82/899).)*

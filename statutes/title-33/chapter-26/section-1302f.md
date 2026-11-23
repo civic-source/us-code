@@ -3,9 +3,10 @@ title: "Section 1302f - Stormwater infrastructure technology"
 usc_title: 33
 usc_section: "1302f"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1302f"
-generated_at: "2026-03-30T02:55:41.091Z"
+generated_at: "2026-11-23T21:26:11.377Z"
+status: "active"
 ---
 
 # § 1302f. Stormwater infrastructure technology
@@ -88,3 +89,7 @@ generated_at: "2026-03-30T02:55:41.091Z"
 - **(e)**
   - **(1)** There is authorized to be appropriated to carry out this section (except for subsection (b)) $10,000,000 for each of fiscal years 2022 through 2026.
   - **(2)** Of the amounts made available for grants under paragraph (1), not more than 2 percent may be used to pay the administrative costs of the Administrator.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. E, title II, § 50217](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1175](https://www.govinfo.gov/link/statute/135/1175).)*

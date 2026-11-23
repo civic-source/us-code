@@ -3,9 +3,10 @@ title: "Section 698w - Special management requirements for Federal lands recentl
 usc_title: 16
 usc_section: "698w"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 698w"
-generated_at: "2026-03-30T02:54:22.900Z"
+generated_at: "2026-11-23T21:25:51.730Z"
+status: "active"
 ---
 
 # § 698w. Special management requirements for Federal lands recently added to Craters of the Moon National Monument, Idaho
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:22.900Z"
     - **(B)** the Act of June 8, 1906 , 1 1 So in original. The comma probably should not appear. (commonly referred to as the “Antiquities Act”; 34 Stat. 225 ; 16 U.S.C. 431 ); 2 2 See References in Text note below. and
     - **(C)** the laws generally applicable to units of the National Park System, including the Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 ( 16 U.S.C. 1 et seq.). 2
   - **(2)** The Secretary of the Interior shall permit hunting on lands within the Craters of the Moon National Preserve in accordance with the applicable laws of the United States and the State of Idaho. The Secretary, in consultation with the State of Idaho, may designate zones where, and establish periods when, no hunting may be permitted for reasons of public safety, protection of the area’s resources, administration, or public use and enjoyment. Except in emergencies, any regulations prescribing such restrictions relating to hunting shall be put into effect only after consultation with the State of Idaho.
+
+## Source Credit
+
+*([Pub. L. 107–213, § 1](https://www.govinfo.gov/link/plaw/107/public/213), Aug. 21, 2002, [116 Stat. 1052](https://www.govinfo.gov/link/statute/116/1052).)*

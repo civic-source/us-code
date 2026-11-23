@@ -3,9 +3,10 @@ title: "Section 2452 - Planning, programming, and budgeting process"
 usc_title: 50
 usc_section: "2452"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2452"
-generated_at: "2026-03-30T02:56:26.225Z"
+generated_at: "2026-11-23T21:26:38.977Z"
+status: "active"
 ---
 
 # § 2452. Planning, programming, and budgeting process
@@ -21,3 +22,9 @@ generated_at: "2026-03-30T02:56:26.225Z"
     - **(B)** if that assessment is that the goal was not met—
       - **(i)** the reasons why that goal was not met; and
       - **(ii)** the plan of the Administrator for meeting or, if necessary, adjusting that goal.
+
+“Not later than 180 days after the date of the enactment of this Act [ Dec. 22, 2023 ], the Administrator for Nuclear Security shall issue an updated financial integration policy, which shall include the following:
+
+## Source Credit
+
+*([Pub. L. 106–65, div. C, title XXXII, § 3252](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 966](https://www.govinfo.gov/link/statute/113/966); [Pub. L. 106–398, § 1 [div. C, title XXXI, § 3158(a)]](https://www.govinfo.gov/link/plaw/106/public/398), Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–469.)*

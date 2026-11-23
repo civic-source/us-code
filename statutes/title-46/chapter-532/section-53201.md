@@ -3,9 +3,10 @@ title: "Section 53201 - Definitions"
 usc_title: 46
 usc_section: "53201"
 chapter: 532
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 53201"
-generated_at: "2026-03-30T02:56:15.573Z"
+generated_at: "2026-11-23T21:26:37.252Z"
+status: "active"
 ---
 
 # § 53201. Definitions
@@ -33,3 +34,31 @@ In this chapter:
       - **(iii)** the application for documentation of the vessel under chapter 121 of this title includes the affidavit of each trustee stating that the trustee is not aware of any reason involving a beneficiary of the trust that is not a citizen of the United States, or involving any other person that is not a citizen of the United States, as a result of which the beneficiary or other person would hold more than 25 percent of the aggregate power to influence, or limit the exercise of the authority of, the trustee with respect to matters involving any ownership or operation of the vessel that may adversely affect the interests of the United States.
     - **(C)** If any person that is not a citizen of the United States has authority to direct, or participate in directing, the trustee for a trust in matters involving any ownership or operation of the vessel that may adversely affect the interests of the United States or in removing a trustee for a trust without cause, either directly or indirectly through the control of another person, the trust is not qualified under this paragraph unless the trust instrument provides that persons who are not citizens of the United States may not hold more than 25 percent of the aggregate authority to direct or remove a trustee.
     - **(D)** This paragraph shall not be considered to prohibit a person who is not a citizen of the United States from holding more than 25 percent of the beneficial interest in a trust.
+
+Cable services
+
+Cable vessel
+
+Cable fleet
+
+Contingency agreement
+
+Contractor
+
+Fiscal year
+
+Operating agency
+
+Operating agreement or agreement
+
+Person
+
+Secretary
+
+United states
+
+United states citizen trust
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. C, title XXXV, § 3521(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1988](https://www.govinfo.gov/link/statute/133/1988).)*

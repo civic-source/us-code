@@ -3,9 +3,10 @@ title: "Section 1455 - Fiscal provisions"
 usc_title: 8
 usc_section: "1455"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1455"
-generated_at: "2026-03-30T02:53:10.502Z"
+generated_at: "2026-11-23T21:25:25.198Z"
+status: "active"
 ---
 
 # § 1455. Fiscal provisions
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:10.502Z"
 - **(f)**
   - **(1)** The Attorney General shall pay over to courts administering oaths of allegiance to persons under this subchapter a specified percentage of all fees described in subsection (a)(1) collected by the Attorney General with respect to persons administered the oath of allegiance by the respective courts. The Attorney General, annually and in consultation with the courts, shall determine the specified percentage based on the proportion, of the total costs incurred by the Service and courts for essential services directly related to the naturalization process, which are incurred by courts.
   - **(2)** The Attorney General shall provide on an annual basis to the Committees on the Judiciary of the House of Representatives and of the Senate a detailed report on the use of the fees described in paragraph (1) and shall consult with such Committees before increasing such fees.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title III, ch. 2, § 344, [66 Stat. 264](https://www.govinfo.gov/link/statute/66/264); [Pub. L. 85–508, § 26](https://www.govinfo.gov/link/plaw/85/public/508), July 7, 1958, [72 Stat. 351](https://www.govinfo.gov/link/statute/72/351); [Pub. L. 90–609, § 3](https://www.govinfo.gov/link/plaw/90/public/609), Oct. 21, 1968, [82 Stat. 1200](https://www.govinfo.gov/link/statute/82/1200); [Pub. L. 97–116, § 16](https://www.govinfo.gov/link/plaw/97/public/116), Dec. 29, 1981, [95 Stat. 1619](https://www.govinfo.gov/link/statute/95/1619); [Pub. L. 100–459, title II, § 209(b)](https://www.govinfo.gov/link/plaw/100/public/459), Oct. 1, 1988, [102 Stat. 2203](https://www.govinfo.gov/link/statute/102/2203); [Pub. L. 100–525, § 9(ff)](https://www.govinfo.gov/link/plaw/100/public/525), Oct. 24, 1988, [102 Stat. 2621](https://www.govinfo.gov/link/statute/102/2621); [Pub. L. 101–649, title IV, § 407(c)(20)](https://www.govinfo.gov/link/plaw/101/public/649), (d)(19), Nov. 29, 1990, [104 Stat. 5041](https://www.govinfo.gov/link/statute/104/5041), 5046; [Pub. L. 102–232, title I, § 102(b)(3)](https://www.govinfo.gov/link/plaw/102/public/232), title III, §§ 305(l), 309(a)(1)(A)(ii), (b)(14), Dec. 12, 1991, [105 Stat. 1736](https://www.govinfo.gov/link/statute/105/1736), 1750, 1758, 1759; [Pub. L. 107–273, div. C, title I, § 11016(1)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1824](https://www.govinfo.gov/link/statute/116/1824).)*

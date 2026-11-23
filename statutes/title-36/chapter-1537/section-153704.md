@@ -3,9 +3,10 @@ title: "Section 153704 - Governing body"
 usc_title: 36
 usc_section: "153704"
 chapter: 1537
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 153704"
-generated_at: "2026-03-30T02:55:44.706Z"
+generated_at: "2026-11-23T21:26:13.696Z"
+status: "active"
 ---
 
 # § 153704. Governing body
@@ -19,3 +20,35 @@ generated_at: "2026-03-30T02:55:44.706Z"
 - **(c)**
   - **(1)** The officers of the corporation are a national president, senior vice national president, junior vice national president, secretary, treasurer, and other officers as provided in the constitution and bylaws. One individual may hold the offices of secretary and treasurer.
   - **(2)** The titles, manner of election, term of office, and duties of the officers are as provided in the constitution and bylaws.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 153704(a)(1)– (3) | 36:1006. | Sept. 7, 1962 , Pub. L. 87–650 , §§ 6–8, 76 Stat. 504 . |
+| 153704(a)(4) | 36:1007(a), (b). |  |
+| 153704(b) | 36:1007(c). |  |
+| 153704(c) | 36:1008. |  |
+
+
+National Convention
+
+Council of Administration
+
+Officers
+
+Historical and Revision Notes
+
+Sept. 7, 1962
+
+Pub. L. 87–650
+
+76 Stat. 504
+
+153704(a)(4)
+
+153704(b)
+
+153704(c)
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1428](https://www.govinfo.gov/link/statute/112/1428).)*

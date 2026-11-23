@@ -3,9 +3,10 @@ title: "Section 2266 - Limitation periods for determining applications and motio
 usc_title: 28
 usc_section: "2266"
 chapter: 154
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 2266"
-generated_at: "2026-03-30T02:55:30.148Z"
+generated_at: "2026-11-23T21:26:01.123Z"
+status: "active"
 ---
 
 # § 2266. Limitation periods for determining applications and motions
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:55:30.148Z"
     - **(A)** The failure of a court to meet or comply with a time limitation under this section shall not be a ground for granting relief from a judgment of conviction or sentence.
     - **(B)** The State may enforce a time limitation under this section by applying for a writ of mandamus to the Supreme Court.
   - **(5)** The Administrative Office of the United States Courts shall submit to Congress an annual report on the compliance by the courts of appeals with the time limitations under this section.
+
+## Source Credit
+
+*(Added [Pub. L. 104–132, title I, § 107(a)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1224](https://www.govinfo.gov/link/statute/110/1224); amended [Pub. L. 109–177, title V, § 507(e)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 251](https://www.govinfo.gov/link/statute/120/251).)*

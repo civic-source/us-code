@@ -3,9 +3,10 @@ title: "Section 40702 - Collection and use of DNA identification information fro
 usc_title: 34
 usc_section: "40702"
 chapter: 407
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 40702"
-generated_at: "2026-03-30T02:55:33.310Z"
+generated_at: "2026-11-23T21:26:09.836Z"
+status: "active"
 ---
 
 # § 40702. Collection and use of DNA identification information from certain Federal offenders
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:33.310Z"
   - **(1)** Except as provided in paragraph (2), this section shall be carried out under regulations prescribed by the Attorney General.
   - **(2)** The Director of the Administrative Office of the United States Courts shall make available model procedures for the activities of probation officers in carrying out this section.
 - **(f)** Collection of DNA samples under subsection (a) shall, subject to the availability of appropriations, commence not later than the date that is 180 days after December 19, 2000 .
+
+## Source Credit
+
+*([Pub. L. 106–546, § 3](https://www.govinfo.gov/link/plaw/106/public/546), Dec. 19, 2000, [114 Stat. 2728](https://www.govinfo.gov/link/statute/114/2728); [Pub. L. 107–56, title V, § 503](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 364](https://www.govinfo.gov/link/statute/115/364); [Pub. L. 108–405, title II, § 203(b)](https://www.govinfo.gov/link/plaw/108/public/405), Oct. 30, 2004, [118 Stat. 2270](https://www.govinfo.gov/link/statute/118/2270); [Pub. L. 109–162, title X, § 1004(a)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3085](https://www.govinfo.gov/link/statute/119/3085); [Pub. L. 109–248, title I, § 155](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 611](https://www.govinfo.gov/link/statute/120/611); [Pub. L. 115–50, § 3(a)](https://www.govinfo.gov/link/plaw/115/public/50), Aug. 18, 2017, [131 Stat. 1001](https://www.govinfo.gov/link/statute/131/1001).)*

@@ -3,12 +3,17 @@ title: "Section 1721 - Separability"
 usc_title: 20
 usc_section: "1721"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1721"
-generated_at: "2026-03-30T02:54:48.170Z"
+generated_at: "2026-11-23T21:25:47.362Z"
+status: "active"
 ---
 
 # § 1721. Separability
 
 If any provision of this subchapter or of any amendment made by this subchapter, or the application of any such provision to any person or circumstance, is held invalid, the remainder of the provisions of this subchapter and of the amendments made by this subchapter and the application of such provision to other persons or circumstances shall not be affected thereby.
 
+
+## Source Credit
+
+*([Pub. L. 93–380, title II, § 223](https://www.govinfo.gov/link/plaw/93/public/380), Aug. 21, 1974, [88 Stat. 519](https://www.govinfo.gov/link/statute/88/519).)*

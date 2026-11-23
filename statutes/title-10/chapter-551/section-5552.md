@@ -3,9 +3,10 @@ title: "Section 5552 - Biannual briefing on missile defense and related activiti
 usc_title: 10
 usc_section: "5552"
 chapter: 551
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 5552"
-generated_at: "2026-03-30T02:53:38.217Z"
+generated_at: "2026-11-23T21:25:32.808Z"
+status: "active"
 ---
 
 # § 5552. Biannual briefing on missile defense and related activities
@@ -18,3 +19,15 @@ generated_at: "2026-03-30T02:53:38.217Z"
   - **(4)** The Director for Strategy, Plans, and Policy of the Joint Staff.
 - **(c)** An official specified in subsection (b) may delegate the authority to provide a briefing required by subsection (a) to a member of the Senior Executive Service who reports to the official.
 - **(d)** The requirement to provide a briefing under subsection (a) shall terminate on January 1, 2028 .
+
+In General
+
+Officials Specified
+
+Delegation
+
+Termination
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title XVI, § 1649(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2198](https://www.govinfo.gov/link/statute/138/2198).)*

@@ -3,9 +3,10 @@ title: "Section 30 - Emerging communities"
 usc_title: 42
 usc_section: "30"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 30"
-generated_at: "2026-03-30T02:56:10.827Z"
+generated_at: "2026-11-23T21:26:30.869Z"
+status: "active"
 ---
 
 # § 300ff–30. Emerging communities
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:10.827Z"
 - **(f)** The amount of a grant under subsection (a) for a State for a fiscal year shall be an amount equal to the product of—
   - **(1)** the amount available under section 300ff–31b(b)(1) of this title for the fiscal year; and
   - **(2)** a percentage equal to the ratio constituted by the number of living cases of HIV/AIDS in emerging communities in the State to the sum of the respective numbers of such cases in such communities for all States.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVI, § 2621, formerly § 2620, as added [Pub. L. 106–345, title II, § 207(2)](https://www.govinfo.gov/link/plaw/106/public/345), Oct. 20, 2000, [114 Stat. 1337](https://www.govinfo.gov/link/statute/114/1337); renumbered § 2621 and amended [Pub. L. 109–415, title II](https://www.govinfo.gov/link/plaw/109/public/415), §§ 204(a), 205(1), 206, title VII, §§ 702(3), 703, Dec. 19, 2006, [120 Stat. 2796](https://www.govinfo.gov/link/statute/120/2796), 2797, 2799, 2820; [Pub. L. 111–87, § 2(a)(1)](https://www.govinfo.gov/link/plaw/111/public/87), (3)(A), Oct. 30, 2009, [123 Stat. 2885](https://www.govinfo.gov/link/statute/123/2885).)*

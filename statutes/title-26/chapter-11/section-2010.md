@@ -3,9 +3,10 @@ title: "Section 2010 - Unified credit against estate tax"
 usc_title: 26
 usc_section: "2010"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 2010"
-generated_at: "2026-03-30T02:55:27.778Z"
+generated_at: "2026-11-23T21:26:06.522Z"
+status: "active"
 ---
 
 # § 2010. Unified credit against estate tax
@@ -32,3 +33,23 @@ generated_at: "2026-03-30T02:55:27.778Z"
     - **(B)** Notwithstanding any period of limitation in section 6501, after the time has expired under section 6501 within which a tax may be assessed under chapter 11 or 12 with respect to a deceased spousal unused exclusion amount, the Secretary may examine a return of the deceased spouse to make determinations with respect to such amount for purposes of carrying out this subsection.
   - **(6)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out this subsection.
 - **(d)** The amount of the credit allowed by subsection (a) shall not exceed the amount of the tax imposed by section 2001.
+
+In general
+
+Inflation adjustment
+
+In general
+
+Conforming amendment relating to generation-skipping transfers
+
+In general
+
+Subsection
+
+Subsections
+
+and
+
+## Source Credit
+
+*(Added [Pub. L. 94–455, title XX, § 2001(a)(2)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1848](https://www.govinfo.gov/link/statute/90/1848); amended [Pub. L. 97–34, title IV, § 401(a)(1)](https://www.govinfo.gov/link/plaw/97/public/34), (2)(A), Aug. 13, 1981, [95 Stat. 299](https://www.govinfo.gov/link/statute/95/299); [Pub. L. 101–508, title XI, § 11801(a)(39)](https://www.govinfo.gov/link/plaw/101/public/508), (c)(19)(A), Nov. 5, 1990, [104 Stat. 1388–521](https://www.govinfo.gov/link/statute/104/1388), 1388–528; [Pub. L. 105–34, title V, § 501(a)(1)(A)](https://www.govinfo.gov/link/plaw/105/public/34), (B), Aug. 5, 1997, [111 Stat. 845](https://www.govinfo.gov/link/statute/111/845); [Pub. L. 107–16, title V, § 521(a)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 71](https://www.govinfo.gov/link/statute/115/71); [Pub. L. 111–312, title III](https://www.govinfo.gov/link/plaw/111/public/312), §§ 302(a)(1), 303(a), Dec. 17, 2010, [124 Stat. 3301](https://www.govinfo.gov/link/statute/124/3301), 3302; [Pub. L. 112–240, title I, § 101(c)(2)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2318](https://www.govinfo.gov/link/statute/126/2318); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 11002(d)(1)(CC), 11061(a), Dec. 22, 2017, [131 Stat. 2060](https://www.govinfo.gov/link/statute/131/2060), 2091; [Pub. L. 119–21, title VII, § 70106(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 162](https://www.govinfo.gov/link/statute/139/162).)*

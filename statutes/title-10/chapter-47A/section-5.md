@@ -3,9 +3,10 @@ title: "Section 5 - Notice by accused of intention to disclose classified inform
 usc_title: 10
 usc_section: "5"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 5"
-generated_at: "2026-03-30T02:53:38.090Z"
+generated_at: "2026-11-23T21:25:32.362Z"
+status: "active"
 ---
 
 # § 949p–5. Notice by accused of intention to disclose classified information
@@ -18,3 +19,15 @@ generated_at: "2026-03-30T02:53:38.090Z"
 - **(b)** If the accused fails to comply with the requirements of subsection (a), the military judge—
   - **(1)** may preclude disclosure of any classified information not made the subject of notification; and
   - **(2)** may prohibit the examination by the accused of any witness with respect to any such information.
+
+Notice by Accused.—
+
+Notification of trial counsel and military judge
+
+Limitation on disclosure by accused
+
+Failure To Comply
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title XVIII, § 1802](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2593](https://www.govinfo.gov/link/statute/123/2593).)*

@@ -3,9 +3,10 @@ title: "Section 51318 - Policy on sexual harassment, dating violence, domestic v
 usc_title: 46
 usc_section: "51318"
 chapter: 513
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 51318"
-generated_at: "2026-03-30T02:56:15.570Z"
+generated_at: "2026-11-23T21:26:37.233Z"
+status: "active"
 ---
 
 # § 51318. Policy on sexual harassment, dating violence, domestic violence, sexual assault, and stalking
@@ -103,3 +104,103 @@ generated_at: "2026-03-30T02:56:15.570Z"
 - **(f)** In this section and section 51319 of this title :
   - **(1)** The terms “dating violence”, “domestic violence”, and “stalking” have the meanings given those terms is 1 1 So in original. Probably should be “in”. section 40002(a) of the Violence Against Women Act of 1994 ( 42 U.S.C. 13925(a) ). 2 2 See References in Text note below.
   - **(2)** The term “sexual assault” means an offense classified as a forcible or nonforcible sex offense under the uniform crime reporting system of the Federal Bureau of Investigation.
+
+Required Policy.—
+
+In general
+
+Matters to be specified in policy
+
+Minimum training requirements for certain individuals regarding sexual harassment, dating violence, domestic violence, sexual assault, and stalking.—
+
+Requirement
+
+Consultation
+
+Elements
+
+Implementation.—
+
+Development and approval schedule
+
+Completion of training
+
+Availability of policy
+
+Consultation and assistance
+
+Consistency with the higher education act of 1965
+
+Development Program.—
+
+In general
+
+Minimum requirements to combat retaliation.—
+
+Requirement for plan
+
+Violation of code of conduct
+
+Retaliation definition
+
+Minimum resource requirements.—
+
+In general
+
+Communication
+
+Minimum training requirements
+
+Annual Assessment.—
+
+In general
+
+Biennial survey
+
+Focus groups for years when survey not required
+
+Annual Report.—
+
+In general
+
+Contents
+
+Survey and focus group results.—
+
+Survey results
+
+Focus group results
+
+Reporting requirement.—
+
+By the superintendent
+
+By the secretary
+
+Data for Aggregate Reporting.—
+
+In general
+
+Identity protection
+
+Definitions
+
+Dating violence; domestic violence; stalking
+
+Sexual assault
+
+Implementation of Recommendations
+
+Report
+
+Required Policy
+
+Matters To Be Specified in Policy
+
+Annual Assessment.—
+
+Annual Report.—
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. C, title XXXV, § 3510(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2782](https://www.govinfo.gov/link/statute/130/2782); amended [Pub. L. 115–91, div. C, title XXXV, § 3514(a)](https://www.govinfo.gov/link/plaw/115/public/91) –(d)(1), Dec. 12, 2017, [131 Stat. 1920–1923](https://www.govinfo.gov/link/statute/131/1920); [Pub. L. 115–232, div. C, title XXXV, § 3507(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2309](https://www.govinfo.gov/link/statute/132/2309).)*

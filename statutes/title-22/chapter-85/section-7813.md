@@ -3,9 +3,10 @@ title: "Section 7813 - Radio broadcasting to North Korea"
 usc_title: 22
 usc_section: "7813"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7813"
-generated_at: "2026-03-30T02:55:05.446Z"
+generated_at: "2026-11-23T21:25:58.728Z"
+status: "active"
 ---
 
 # § 7813. Radio broadcasting to North Korea
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.446Z"
 - **(b)** Not later than 120 days after October 18, 2004 , the Broadcasting Board of Governors shall submit to the appropriate congressional committees a report that—
   - **(1)** describes the status of current United States broadcasting to North Korea; and
   - **(2)** outlines a plan for increasing such broadcasts to 12 hours per day, including a detailed description of the technical and fiscal requirements necessary to implement the plan.
+
+## Source Credit
+
+*([Pub. L. 108–333, title I, § 103](https://www.govinfo.gov/link/plaw/108/public/333), Oct. 18, 2004, [118 Stat. 1291](https://www.govinfo.gov/link/statute/118/1291); [Pub. L. 115–198, § 4](https://www.govinfo.gov/link/plaw/115/public/198), July 20, 2018, [132 Stat. 1521](https://www.govinfo.gov/link/statute/132/1521).)*

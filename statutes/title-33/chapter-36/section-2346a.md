@@ -3,9 +3,10 @@ title: "Section 2346a - Real estate administrative fees"
 usc_title: 33
 usc_section: "2346a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2346a"
-generated_at: "2026-03-30T02:55:41.127Z"
+generated_at: "2026-11-23T21:26:11.453Z"
+status: "active"
 ---
 
 # § 2346a. Real estate administrative fees
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:41.127Z"
 - **(c)** The Secretary shall make publicly available on the website of each Corps of Engineers district—
   - **(1)** the guidance developed under this section; and
   - **(2)** any other relevant information on real estate administrative fees, including lists of real estate instruments requiring such fees, and methodologies used to set such fees.
+
+## Source Credit
+
+*([Pub. L. 118–272, div. A, title I, § 1120](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3014](https://www.govinfo.gov/link/statute/138/3014).)*

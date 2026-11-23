@@ -3,12 +3,17 @@ title: "Section 475 - Periodic district court assessment"
 usc_title: 28
 usc_section: "475"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 475"
-generated_at: "2026-03-30T02:55:30.130Z"
+generated_at: "2026-11-23T21:26:01.044Z"
+status: "active"
 ---
 
 # § 475. Periodic district court assessment
 
 After developing or selecting a civil justice expense and delay reduction plan, each United States district court shall assess annually the condition of the court’s civil and criminal dockets with a view to determining appropriate additional actions that may be taken by the court to reduce cost and delay in civil litigation and to improve the litigation management practices of the court. In performing such assessment, the court shall consult with an advisory group appointed in accordance with section 478 of this title .
 
+
+## Source Credit
+
+*(Added [Pub. L. 101–650, title I, § 103(a)](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5093](https://www.govinfo.gov/link/statute/104/5093).)*

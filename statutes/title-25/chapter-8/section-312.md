@@ -3,12 +3,17 @@ title: "Section 312 - Rights-of-way for railway, telegraph, and telephone lines;
 usc_title: 25
 usc_section: "312"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 312"
-generated_at: "2026-03-30T02:54:52.803Z"
+generated_at: "2026-11-23T21:25:54.558Z"
+status: "active"
 ---
 
 # § 312. Rights-of-way for railway, telegraph, and telephone lines; town-site stations
 
 A right of way for a railway, telegraph, and telephone line through any Indian reservation in any State or Territory, except Oklahoma, or through any lands reserved for an Indian agency or for other purposes in connection with the Indian service, or through any lands which have been allotted in severalty to any individual Indian under any law or treaty, but which have not been conveyed to the allottee with full power of alienation, is granted to any railroad company organized under the laws of the United States, or of any State or Territory, which shall comply with the provisions of sections 312 to 318 of this title and such rules and regulations as may be prescribed thereunder: Provided , That no right of way shall be granted under said sections until the Secretary of the Interior is satisfied that the company applying has made said application in good faith and with intent and ability to construct said road, and in case objection to the granting of such right of way shall be made, said Secretary shall afford the parties so objecting a full opportunity to be heard: Provided further , That where a railroad has heretofore been constructed, or is in actual course of construction, no parallel right of way within ten miles on either side shall be granted by the Secretary of the Interior unless, in his opinion, public interest will be promoted thereby: Provided, also , That as a condition precedent to each and every grant of a right of way under authority of said sections, each and every railway company applying for such grant shall stipulate that it will construct and permanently maintain suitable passenger and freight stations for the convenience of each and every town site established by the Government along said right of way.
 
+
+## Source Credit
+
+*(Mar. 2, 1899, ch. 374, § 1, [30 Stat. 990](https://www.govinfo.gov/link/statute/30/990); Feb. 28, 1902, ch. 134, § 23, [32 Stat. 50](https://www.govinfo.gov/link/statute/32/50); June 25, 1910, ch. 431, § 16, [36 Stat. 859](https://www.govinfo.gov/link/statute/36/859).)*

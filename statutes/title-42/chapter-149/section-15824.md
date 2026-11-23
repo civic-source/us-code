@@ -3,9 +3,10 @@ title: "Section 15824 - State Technologies Advancement Collaborative"
 usc_title: 42
 usc_section: "15824"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15824"
-generated_at: "2026-03-30T02:56:11.460Z"
+generated_at: "2026-11-23T21:26:33.676Z"
+status: "active"
 ---
 
 # § 15824. State Technologies Advancement Collaborative
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.460Z"
   - **(1)** amounts specifically appropriated for the Collaborative; or
   - **(2)** amounts that may be allocated from other appropriations without changing the purpose for which the amounts are appropriated.
 - **(e)** There are authorized to carry out this section such sums as are necessary for each of fiscal years 2006 through 2010.
+
+## Source Credit
+
+*([Pub. L. 109–58, title I, § 127](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 619](https://www.govinfo.gov/link/statute/119/619).)*

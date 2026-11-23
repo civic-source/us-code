@@ -3,9 +3,10 @@ title: "Section 7191 - Procedures for issuance of rules, regulations, or orders"
 usc_title: 42
 usc_section: "7191"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7191"
-generated_at: "2026-03-30T02:56:11.284Z"
+generated_at: "2026-11-23T21:26:33.054Z"
+status: "active"
 ---
 
 # § 7191. Procedures for issuance of rules, regulations, or orders
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.284Z"
     - **(B)** the term “geographic area within a State” means a special purpose district or other region recognized for governmental purposes within such State which is not a unit of local government.
   - **(3)** Nothing in this subsection shall be construed as requiring a hearing or an oral presentation of views where none is required by this section or other provision of law.
 - **(e)** Where authorized by any law vested, transferred, or delegated pursuant to this chapter, the Secretary may, by rule, prescribe procedures for State or local government agencies authorized by the Secretary to carry out such functions as may be permitted under applicable law. Such procedures shall apply to such agencies in lieu of this section, and shall require that prior to taking any action, such agencies shall take steps reasonably calculated to provide notice to persons who may be affected by the action, and shall afford an opportunity for presentation of views (including oral presentation of views where practicable) within a reasonable time before taking the action.
+
+## Source Credit
+
+*([Pub. L. 95–91, title V, § 501](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 587](https://www.govinfo.gov/link/statute/91/587); [Pub. L. 105–28, § 2(a)](https://www.govinfo.gov/link/plaw/105/public/28), July 18, 1997, [111 Stat. 245](https://www.govinfo.gov/link/statute/111/245).)*

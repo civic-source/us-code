@@ -3,9 +3,10 @@ title: "Section 1731b - Prohibition against transient housing"
 usc_title: 12
 usc_section: "1731b"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1731b"
-generated_at: "2026-03-30T02:53:53.428Z"
+generated_at: "2026-11-23T21:25:36.917Z"
+status: "active"
 ---
 
 # § 1731b. Prohibition against transient housing
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:53.428Z"
 - **(h)** Whenever he finds a violation of any provision of this section has occurred or is about to occur, the Attorney General shall petition the district court of the United States or the district court of any Territory or other place subject to United States jurisdiction within whose jurisdictional limits the person doing or committing the acts or practices constituting the alleged violation of this section shall be found, for an order enjoining such acts or practices, and upon a showing by the Attorney General that such acts or practices constituting such violation have been engaged in or are about to be engaged in, a permanent or temporary injunction, restraining order, or other order, with or without such injunction or restraining order, shall be granted without bond.
 - **(i)** Any person owning or operating a hotel within a radius of fifty miles of a place where a violation of any provision of this section has occurred or is about to occur, or any group or association of hotel owners or operators within said fifty-mile radius, at his or their sole charge or cost, may petition any district court of the United States or the district court or any Territory or other place subject to United States jurisdiction within whose jurisdictional limits the person doing or committing the acts or practices constituting the alleged violation of this section shall be found, for an order enjoining such acts or practices, and, upon a showing that such acts or practices constituting such violation have been engaged in or are about to be engaged in, a permanent or temporary injunction, restraining order, or other order, with or without such injunction or restraining order, shall be granted.
 - **(j)** The several district courts of the United States and the several district courts of the Territories of the United States or other place subject to United States jurisdiction, within whose jurisdictional limits the person doing or committing the acts or practices constituting the alleged violation shall be found, shall, wheresoever such acts or practices may have been done or committed, have full power and jurisdiction to hear, try, and determine such matter under subsections (h) and (i) of this section.
+
+## Source Credit
+
+*(June 27, 1934, ch. 847, title V, § 513, as added Aug. 2, 1954, ch. 649, title I, § 132, [68 Stat. 610](https://www.govinfo.gov/link/statute/68/610); amended [Pub. L. 90–19, § 1(a)(3)](https://www.govinfo.gov/link/plaw/90/public/19), May 25, 1967, [81 Stat. 17](https://www.govinfo.gov/link/statute/81/17); [Pub. L. 98–479, title II, § 204(a)(18)](https://www.govinfo.gov/link/plaw/98/public/479), Oct. 17, 1984, [98 Stat. 2232](https://www.govinfo.gov/link/statute/98/2232).)*

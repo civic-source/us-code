@@ -3,12 +3,17 @@ title: "Section 832h - Miscellaneous administrative provisions"
 usc_title: 16
 usc_section: "832h"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 832h"
-generated_at: "2026-03-30T02:54:22.926Z"
+generated_at: "2026-11-23T21:25:51.778Z"
+status: "active"
 ---
 
 # § 832h. Miscellaneous administrative provisions
 
 - **(a)** The administrator, subject to the requirements of the Federal Power Act [ 16 U.S.C. 791a et seq.], shall keep complete and accurate accounts of operations, including all funds expended and received in connection with transmission and sale of electric energy generated at the Bonneville project, and in the maintenance of such accounts, appropriate obligations shall be established for annual and sick leave of absence as earned. The Administrator shall, after the close of each fiscal year, obtain an independent commercial-type audit of such accounts. The forms, systems, and procedures prescribed by the Comptroller General for the Administrator’s appropriation and fund accounting shall be in accordance with the requirements of the Federal Power Act with respect to accounts of electric operations of public utilities and the regulations of the Federal Energy Regulatory Commission pursuant thereto.
 - **(b)** The administrator may make such expenditures for offices, vehicles, furnishings, equipment, supplies, and books; for attendance at meetings; and for such other facilities and services as he may find necessary for the proper administration of this chapter.
+
+## Source Credit
+
+*(Aug. 20, 1937, ch. 720, § 9, [50 Stat. 736](https://www.govinfo.gov/link/statute/50/736); Oct. 23, 1945, ch. 433, § 4, [59 Stat. 547](https://www.govinfo.gov/link/statute/59/547); [Pub. L. 89–448, § 2(a)](https://www.govinfo.gov/link/plaw/89/public/448), formerly § 2, June 14, 1966, [80 Stat. 200](https://www.govinfo.gov/link/statute/80/200), as renumbered [Pub. L. 89–561, § 6(1)](https://www.govinfo.gov/link/plaw/89/public/561), Sept. 7, 1966, [80 Stat. 714](https://www.govinfo.gov/link/statute/80/714); [Pub. L. 95–91, title IV, § 402(a)(1)(B)](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 583](https://www.govinfo.gov/link/statute/91/583).)*

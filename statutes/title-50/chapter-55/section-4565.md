@@ -3,9 +3,10 @@ title: "Section 4565 - Authority to review certain mergers, acquisitions, and ta
 usc_title: 50
 usc_section: "4565"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4565"
-generated_at: "2026-03-30T02:56:26.276Z"
+generated_at: "2026-11-23T21:26:39.107Z"
+status: "active"
 ---
 
 # § 4565. Authority to review certain mergers, acquisitions, and takeovers
@@ -410,3 +411,163 @@ generated_at: "2026-03-30T02:56:26.276Z"
   - **(1)** The chairperson, in consultation with the Committee, may centralize certain functions of the Committee within the Department of the Treasury for the purpose of enhancing interagency coordination and collaboration in carrying out the functions of the Committee under this section.
   - **(2)** Functions that may be centralized under paragraph (1) include identifying non-notified and non-declared transactions pursuant to subsection (b)(1)(H), and other functions as determined by the chairperson and the Committee.
   - **(3)** Nothing in this section shall be construed as limiting the authority of any department or agency represented on the Committee to represent its own interests before the Committee.
+
+(aa) is, is located within, or will function as part of, an air or maritime port; or
+
+(bb) (AA) is in close proximity to a United States military installation or another facility or property of the United States Government that is sensitive for reasons relating to national security; (BB) could reasonably provide the foreign person the ability to collect intelligence on activities being conducted at such an installation, facility, or property; or (CC) could otherwise expose national security activities at such an installation, facility, or property to the risk of foreign surveillance; and
+
+(aa) review the installations, facilities, and properties, if any, included by that member on the list developed under subclause (I); and
+
+(bb) submit to the chairperson a report on that review, after approval of the report by the Assistant Secretary or equivalent official designated for the agency under subsection (k)(4)(A)(i), which shall include— (AA) any recommended updates or revisions to the list regarding installations, facilities, and properties administered by the member of the Committee; (BB) any recommendations with respect to what distance, including close proximity or extended range, should apply for purposes of real estate described in subparagraph (B)(ii)(II)(bb); and (CC) a detailed justification and risk assessment underlying any recommendations made under subitem (BB).
+
+(aa) the use, development, acquisition, safekeeping, or release of sensitive personal data of United States citizens maintained or collected by the United States business;
+
+(bb) the use, development acquisition, or release of critical technologies; or
+
+(cc) the management, operation, manufacture, or supply of critical infrastructure.
+
+(aa) provides knowledge, know-how, or understanding, not available in the public domain, of the design, location, or operation of critical infrastructure; or
+
+(bb) is not available in the public domain, and is necessary to design, fabricate, develop, test, produce, or manufacture critical technologies, including processes, techniques, or methods.
+
+(aa) specify the critical infrastructure subject to that subparagraph based on criteria intended to limit application of that subparagraph to the subset of critical infrastructure that is likely to be of importance to the national security of the United States; and
+
+(bb) enumerate specific types and examples of such critical infrastructure.
+
+(aa) the fund is managed exclusively by a general partner, a managing member, or an equivalent;
+
+(bb) the general partner, managing member, or equivalent is not a foreign person;
+
+(cc) the advisory board or committee does not have the ability to approve, disapprove, or otherwise control— (AA) investment decisions of the fund; or (BB) decisions made by the general partner, managing member, or equivalent related to entities in which the fund is invested;
+
+(dd) the foreign person does not otherwise have the ability to control the fund, including the authority— (AA) to approve, disapprove, or otherwise control investment decisions of the fund; (BB) to approve, disapprove, or otherwise control decisions made by the general partner, managing member, or equivalent related to entities in which the fund is invested; or (CC) to unilaterally dismiss, prevent the dismissal of, select, or determine the compensation of the general partner, managing member, or equivalent;
+
+(ee) the foreign person does not have access to material nonpublic technical information as a result of its participation on the advisory board or committee; and
+
+(ff) the investment otherwise meets the requirements of this subparagraph.
+
+(aa) In general For the purposes of items (cc) and (dd) of subclause (I) and except as provided in item (bb), a waiver of a potential conflict of interest, a waiver of an allocation limitation, or a similar activity, applicable to a transaction pursuant to the terms of an agreement governing an investment fund shall not be considered to constitute control of investment decisions of the fund or decisions relating to entities in which the fund is invested.
+
+(bb) Exception The Committee may prescribe regulations providing for exceptions to item (aa) for extraordinary circumstances.
+
+(aa) In general Subject to item (cc), the Committee shall provide comments on a draft or formal written notice or accept a formal written notice submitted under subclause (I) with respect to a covered transaction not later than the date that is 10 business days after the date of submission of the draft or formal written notice.
+
+(bb) Completeness If the Committee determines that a draft or formal written notice described in item (aa) is not complete, the Committee shall notify the party or parties to the transaction in writing that the notice is not complete and provide an explanation of all material respects in which the notice is incomplete.
+
+(cc) Stipulations required The timing requirement under item (aa) shall apply only in a case in which the parties stipulate under clause (vi) that the transaction is a covered transaction.
+
+(aa) In general Upon receiving a declaration under this clause with respect to a covered transaction, the Committee may, at the discretion of the Committee— (AA) request that the parties to the transaction file a written notice under clause (i); (BB) inform the parties to the transaction that the Committee is not able to complete action under this section with respect to the transaction on the basis of the declaration and that the parties may file a written notice under clause (i) to seek written notification from the Committee that the Committee has completed all action under this section with respect to the transaction; (CC) initiate a unilateral review of the transaction under subparagraph (D); or (DD) notify the parties in writing that the Committee has completed all action under this section with respect to the transaction.
+
+(bb) Timing The Committee shall take action under item (aa) not later than 30 days after receiving a declaration under this clause.
+
+(cc) Rule of construction Nothing in this subclause (other than item (aa)(CC)) shall be construed to affect the authority of the President or the Committee to take any action authorized by this section with respect to a covered transaction.
+
+(aa) Regulations The Committee shall prescribe regulations specifying the types of covered transactions for which the Committee requires a declaration under this subclause.
+
+(bb) Certain covered transactions with foreign government interests (AA) In general Except as provided in subitem (BB), the parties to a covered transaction shall submit a declaration described in subclause (I) with respect to the transaction if the transaction involves an investment that results in the acquisition, directly or indirectly, of a substantial interest in a United States business described in subsection (a)(4)(B)(iii) by a foreign person in which a foreign government has, directly or indirectly, a substantial interest. (BB) Substantial interest defined In this item, the term “substantial interest” has the meaning given that term in regulations which the Committee shall prescribe. In developing those regulations, the Committee shall consider the means by which a foreign government could influence the actions of a foreign person, including through board membership, ownership interest, or shareholder rights. An interest that is excluded under subparagraph (D) of subsection (a)(4) from the term “other investment” as used in subparagraph (B)(iii) of that subsection or that is less than a 10 percent voting interest shall not be considered a substantial interest. (CC) Waiver The Committee may waive, with respect to a foreign person, the requirement under subitem (AA) for the submission of a declaration described in subclause (I) if the Committee determines that the foreign person demonstrates that the investments of the foreign person are not directed by a foreign government and the foreign person has a history of cooperation with the Committee.
+
+(cc) Other declarations required by Committee The Committee may require the submission of a declaration described in subclause (I) with respect to any covered transaction identified under regulations prescribed by the Committee for purposes of this item, at the discretion of the Committee, that involves a United States business described in subsection (a)(4)(B)(iii)(II).
+
+(dd) Exception The submission of a declaration described in subclause (I) shall not be required pursuant to this subclause with respect to an investment by an investment fund if— (AA) the fund is managed exclusively by a general partner, a managing member, or an equivalent; (BB) the general partner, managing member, or equivalent is not a foreign person; and (CC) the investment fund satisfies, with respect to any foreign person with membership as a limited partner on an advisory board or a committee of the fund, the criteria specified in items (cc) and (dd) of subsection (a)(4)(D)(iv).
+
+(ee) Submission of written notice as an alternative Parties to a covered transaction for which a declaration is required under this subclause may instead elect to submit a written notice under clause (i).
+
+(ff) Timing and refiling of submission (AA) In general In the regulations prescribed under item (aa), the Committee may not require a declaration to be submitted under this subclause with respect to a covered transaction more than 45 days before the completion of the transaction. (BB) Refiling of declaration The Committee may not request or recommend that a declaration submitted under this subclause be withdrawn and refiled, except to permit parties to a covered transaction to correct material errors or omissions in the declaration submitted with respect to that transaction.
+
+(gg) Penalties The Committee may impose a penalty pursuant to subsection (h)(3) with respect to a party that fails to comply with this subclause.
+
+(aa) stipulate that the transaction is a covered transaction; and
+
+(bb) if the party stipulates that the transaction is a covered transaction under item (aa), stipulate that the transaction is a foreign government-controlled transaction.
+
+(aa) In general Subject to item (bb), the chairperson, in consultation with the Committee, may determine the level of official to whom the signature requirement under subclause (I) for the chairperson and the head of the lead agency may be delegated. The level of official to whom the signature requirement may be delegated may differ based on any factor relating to a transaction that the chairperson, in consultation with the Committee, deems appropriate, including the type or value of the transaction.
+
+(bb) Limitation on delegation with respect to certain transactions The signature requirement under subclause (I) may be delegated not below the level of the Assistant Secretary of the Treasury or an equivalent official of the lead agency.
+
+(aa) an explanation of the causes of such delays, including whether such delays are caused by resource shortages, unusual fluctuations in the volume of notices, transaction characteristics, or other factors; and
+
+(bb) an explanation of the steps that the Committee anticipates taking to mitigate the causes of such delays and otherwise to improve the ability of the Committee to provide comments on, or to accept, notices within 10 business days;
+
+(aa) 1 percent of the value of the transaction; or
+
+(bb) $300,000, adjusted annually for inflation pursuant to regulations prescribed by the Committee; and
+
+(aa) the effect of the fee on small business concerns (as defined in section 632 of title 15 );
+
+(bb) the expenses of the Committee associated with conducting activities under this section;
+
+(cc) the effect of the fee on foreign investment; and
+
+(dd) such other matters as the Committee considers appropriate.
+
+Immediate Applicability of Certain Provisions
+
+Delayed Applicability of Certain Provisions.—
+
+In general
+
+Nondelegation of determination
+
+“Congress makes the following findings:
+
+“Not later than 90 days after the date of the enactment of this Act [ Aug. 13, 2018 ], the Committee on Foreign Investment in the United States shall—
+
+In General
+
+Annual Resource Needs of CFIUS Member Agencies
+
+Testimony
+
+Appropriate Congressional Committees Defined
+
+“The President shall—
+
+In general
+
+Publication in federal register
+
+Study required
+
+Report
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+Ronald Reagan.
+
+## Source Credit
+
+*(Sept. 8, 1950, ch. 932, title VII, § 721, as added [Pub. L. 100–418, title V, § 5021](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1425](https://www.govinfo.gov/link/statute/102/1425); amended [Pub. L. 102–484, div. A, title VIII, § 837(a)](https://www.govinfo.gov/link/plaw/102/public/484) –(c), (e), Oct. 23, 1992, [106 Stat. 2463–2465](https://www.govinfo.gov/link/statute/106/2463); [Pub. L. 102–558, title I, § 163](https://www.govinfo.gov/link/plaw/102/public/558), Oct. 28, 1992, [106 Stat. 4219](https://www.govinfo.gov/link/statute/106/4219); [Pub. L. 103–359, title VIII, § 809(d)](https://www.govinfo.gov/link/plaw/103/public/359), Oct. 14, 1994, [108 Stat. 3454](https://www.govinfo.gov/link/statute/108/3454); [Pub. L. 110–49](https://www.govinfo.gov/link/plaw/110/public/49), §§ 2–7(b), 8–10, July 26, 2007, [121 Stat. 246](https://www.govinfo.gov/link/statute/121/246), 252–257, 259; [Pub. L. 115–232, div. A, title XVII](https://www.govinfo.gov/link/plaw/115/public/232), §§ 1703–1717(a), 1718, 1719(a), 1720, 1721(c), 1723–1725, Aug. 13, 2018, [132 Stat. 2177–2193](https://www.govinfo.gov/link/statute/132/2177), 2197, 2202, 2204–2206; [Pub. L. 116–283, div. H, title XCVII, § 9721(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4839](https://www.govinfo.gov/link/statute/134/4839); [Pub. L. 119–60, div. H, title LXXXI, § 8102](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1837](https://www.govinfo.gov/link/statute/139/1837).)*

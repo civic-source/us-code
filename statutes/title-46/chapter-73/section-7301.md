@@ -3,9 +3,10 @@ title: "Section 7301 - General"
 usc_title: 46
 usc_section: "7301"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 7301"
-generated_at: "2026-03-30T02:56:15.550Z"
+generated_at: "2026-11-23T21:26:37.078Z"
+status: "active"
 ---
 
 # § 7301. General
@@ -15,3 +16,16 @@ generated_at: "2026-03-30T02:56:15.550Z"
   - **(2)** 360 days is equal to one year’s service; and
   - **(3)** a day is equal to 8 hours of labor or duty.
 - **(b)** The Secretary may prescribe regulations to carry out this chapter.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 7301 | 46:672(c) |
+
+
+Historical and Revision Notes
+
+7301
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 541](https://www.govinfo.gov/link/statute/97/541); [Pub. L. 98–364, title IV, § 402(9)(B)](https://www.govinfo.gov/link/plaw/98/public/364), July 17, 1984, [98 Stat. 448](https://www.govinfo.gov/link/statute/98/448).)*

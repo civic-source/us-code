@@ -3,9 +3,10 @@ title: "Section 4004 - Northern Gulf of Mexico hypoxia"
 usc_title: 33
 usc_section: "4004"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 4004"
-generated_at: "2026-03-30T02:55:41.146Z"
+generated_at: "2026-11-23T21:26:11.495Z"
+status: "active"
 ---
 
 # § 4004. Northern Gulf of Mexico hypoxia
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:41.146Z"
   - **(1)** assess the progress made toward nutrient load reductions, the response of the hypoxic zone and water quality throughout the Mississippi/Atchafalaya River Basin, and the economic and social effects;
   - **(2)** evaluate lessons learned; and
   - **(3)** recommend appropriate actions to continue to implement or, if necessary, revise the strategy set forth in the Gulf Hypoxia Action Plan 2008.
+
+## Source Credit
+
+*([Pub. L. 105–383, title VI, § 604](https://www.govinfo.gov/link/plaw/105/public/383), Nov. 13, 1998, [112 Stat. 3449](https://www.govinfo.gov/link/statute/112/3449); [Pub. L. 113–124, § 7](https://www.govinfo.gov/link/plaw/113/public/124), June 30, 2014, [128 Stat. 1384](https://www.govinfo.gov/link/statute/128/1384).)*

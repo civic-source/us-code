@@ -3,9 +3,10 @@ title: "Section 12584 - Ineligible service categories"
 usc_title: 42
 usc_section: "12584"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12584"
-generated_at: "2026-03-30T02:56:11.417Z"
+generated_at: "2026-11-23T21:26:33.494Z"
+status: "active"
 ---
 
 # § 12584. Ineligible service categories
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.417Z"
     - **(E)** to engage in any form of proselytization; or
   - **(5)** nonprofit organization that fails to comply with the restrictions contained in section 501(c) of title 26 , except that nothing in this section shall be construed to prevent participants from engaging in advocacy activities undertaken at their own initiative.
 - **(b)** The requirement of subsection (a) relating to an assurance regarding direct benefits to businesses organized for profit shall not apply with respect to a Regional Corporation, as defined in section 3(g) of the Alaska Native Claims Settlement Act ( 43 U.S.C. 1602(g) ), that is established in accordance with such Act [ 43 U.S.C. 1601 et seq.] as a for-profit corporation but that is engaging in nonprofit activities.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 132](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 103–82, title I, § 101(b)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 805](https://www.govinfo.gov/link/statute/107/805).)*

@@ -3,9 +3,10 @@ title: "Section 7911 - Definitions"
 usc_title: 16
 usc_section: "7911"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 7911"
-generated_at: "2026-03-30T02:54:23.079Z"
+generated_at: "2026-11-23T21:25:52.071Z"
+status: "active"
 ---
 
 # § 7911. Definitions
@@ -18,3 +19,7 @@ In this subchapter:
   - **(2)** The term “Secretary concerned” means—
     - **(A)** the Secretary of Agriculture, with respect to land described in paragraph (1)(A); and
     - **(B)** the Secretary, with respect to land described in paragraph (1)(B).
+
+## Source Credit
+
+*([Pub. L. 116–9, title IV, § 4101](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 757](https://www.govinfo.gov/link/statute/133/757).)*

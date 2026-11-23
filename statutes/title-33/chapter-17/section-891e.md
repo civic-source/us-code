@@ -3,9 +3,10 @@ title: "Section 891e - Restriction with respect to certain shipyard subsidies"
 usc_title: 33
 usc_section: "891e"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 891e"
-generated_at: "2026-03-30T02:55:41.074Z"
+generated_at: "2026-11-23T21:26:11.345Z"
+status: "active"
 ---
 
 # § 891e. Restriction with respect to certain shipyard subsidies
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:41.074Z"
   - **(6)** Any official regulation or practice that authorizes or encourages persons or firms engaged in shipbuilding or repair to enter into anticompetitive arrangements.
   - **(7)** Any indirect support directly related, in law or in fact, to shipbuilding and repair at national yards, including any public assistance favoring shipowners with an indirect effect on shipbuilding or repair activities, and any assistance provided to suppliers of significant inputs to shipbuilding, which results in benefits to domestic shipbuilders.
   - **(8)** Any export subsidy identified in the Illustrative List of Export Subsidies in the Annex to the Agreement on Subsidies and Countervailing Measures referred to in section 3511(d)(12) of title 19 , or any other export subsidy prohibited by that agreement.
+
+## Source Credit
+
+*([Pub. L. 102–567, title VI, § 607](https://www.govinfo.gov/link/plaw/102/public/567), Oct. 29, 1992, [106 Stat. 4302](https://www.govinfo.gov/link/statute/106/4302); [Pub. L. 106–36, title I, § 1002(f)](https://www.govinfo.gov/link/plaw/106/public/36), June 25, 1999, [113 Stat. 133](https://www.govinfo.gov/link/statute/113/133).)*

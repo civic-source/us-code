@@ -3,9 +3,10 @@ title: "Section 530 - Coverdell education savings accounts"
 usc_title: 26
 usc_section: "530"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 530"
-generated_at: "2026-03-30T02:55:27.716Z"
+generated_at: "2026-11-23T21:26:06.330Z"
+status: "active"
 ---
 
 # § 530. Coverdell education savings accounts
@@ -80,3 +81,7 @@ generated_at: "2026-03-30T02:55:27.716Z"
 - **(f)** This section shall be applied without regard to any community property laws.
 - **(g)** For purposes of this section, a custodial account shall be treated as a trust if the assets of such account are held by a bank (as defined in section 408(n)) or another person who demonstrates, to the satisfaction of the Secretary, that the manner in which he will administer the account will be consistent with the requirements of this section, and if the custodial account would, except for the fact that it is not a trust, constitute an account described in subsection (b)(1). For purposes of this title, in the case of a custodial account treated as a trust by reason of the preceding sentence, the custodian of such account shall be treated as the trustee thereof.
 - **(h)** The trustee of a Coverdell education savings account shall make such reports regarding such account to the Secretary and to the beneficiary of the account with respect to contributions, distributions, and such other matters as the Secretary may require. The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required.
+
+## Source Credit
+
+*(Added [Pub. L. 105–34, title II, § 213(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 813](https://www.govinfo.gov/link/statute/111/813); amended [Pub. L. 105–206, title VI, § 6004(d)(1)](https://www.govinfo.gov/link/plaw/105/public/206) –(3)(A), (5)–(8), July 22, 1998, [112 Stat. 793](https://www.govinfo.gov/link/statute/112/793), 794; [Pub. L. 106–554, § 1(a)(7) [title III, § 319(6)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–646; [Pub. L. 107–16, title IV](https://www.govinfo.gov/link/plaw/107/public/16), §§ 401(a)(1), (b)–(g)(1), (2)(C), 402(a)(4)(A), (C), June 7, 2001, [115 Stat. 57–61](https://www.govinfo.gov/link/statute/115/57); [Pub. L. 107–22, § 1(a)(1)](https://www.govinfo.gov/link/plaw/107/public/22) –(5), July 26, 2001, [115 Stat. 196](https://www.govinfo.gov/link/statute/115/196); [Pub. L. 107–147, title IV, § 411(f)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 46](https://www.govinfo.gov/link/statute/116/46); [Pub. L. 108–121, title I, § 107(a)](https://www.govinfo.gov/link/plaw/108/public/121), Nov. 11, 2003, [117 Stat. 1339](https://www.govinfo.gov/link/statute/117/1339); [Pub. L. 108–311, title IV](https://www.govinfo.gov/link/plaw/108/public/311), §§ 404(a), 406(b), Oct. 4, 2004, [118 Stat. 1188](https://www.govinfo.gov/link/statute/118/1188), 1189; [Pub. L. 109–135, title IV, § 412(ff)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2639](https://www.govinfo.gov/link/statute/119/2639); [Pub. L. 110–245, title I, § 109(c)](https://www.govinfo.gov/link/plaw/110/public/245), June 17, 2008, [122 Stat. 1632](https://www.govinfo.gov/link/statute/122/1632); [Pub. L. 115–141, div. U, title I, § 101](https://www.govinfo.gov/link/plaw/115/public/141) (l)(16), title IV, § 401(a)(131), (b)(23), Mar. 23, 2018, [132 Stat. 1165](https://www.govinfo.gov/link/statute/132/1165), 1190, 1203.)*

@@ -3,9 +3,10 @@ title: "Section 5165c - Public notice, comment, and consultation requirements"
 usc_title: 42
 usc_section: "5165c"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5165c"
-generated_at: "2026-03-30T02:56:11.223Z"
+generated_at: "2026-11-23T21:26:32.751Z"
+status: "active"
 ---
 
 # § 5165c. Public notice, comment, and consultation requirements
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.223Z"
     - **(B)** to change the terms of a written agreement to which the Federal Government is a party concerning the declaration of the major disaster or emergency.
   - **(2)** Nothing in this subsection confers a legal right of action on any party.
 - **(c)** The President shall promote public access to policies governing the implementation of the public assistance program.
+
+## Source Credit
+
+*([Pub. L. 93–288, title III, § 325](https://www.govinfo.gov/link/plaw/93/public/288), as added [Pub. L. 106–390, title II, § 203](https://www.govinfo.gov/link/plaw/106/public/390), Oct. 30, 2000, [114 Stat. 1560](https://www.govinfo.gov/link/statute/114/1560).)*

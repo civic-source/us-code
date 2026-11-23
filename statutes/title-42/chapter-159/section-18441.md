@@ -3,9 +3,10 @@ title: "Section 18441 - National and international orbital debris mitigation"
 usc_title: 42
 usc_section: "18441"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18441"
-generated_at: "2026-03-30T02:56:11.520Z"
+generated_at: "2026-11-23T21:26:33.824Z"
+status: "active"
 ---
 
 # § 18441. National and international orbital debris mitigation
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.520Z"
 - **(b)**
   - **(1)** The Administrator shall, in consultation with such other departments and agencies of the Federal Government as the Administrator considers appropriate, continue and strengthen discussions with the representatives of other space-faring countries, within the Inter-Agency Space Debris Coordination Committee and elsewhere, to deal with this orbital debris mitigation.
   - **(2)** For purposes of carrying out this subsection, the Director of OSTP, in coordination with the Director of the National Security Council and using the President’s Council of Advisors on Science and Technology coordinating mechanism, shall develop an overall strategy for review by the President, with recommendations for proposed international collaborative efforts to address this challenge.
+
+## Source Credit
+
+*([Pub. L. 111–267, title XII, § 1202](https://www.govinfo.gov/link/plaw/111/public/267), Oct. 11, 2010, [124 Stat. 2841](https://www.govinfo.gov/link/statute/124/2841).)*

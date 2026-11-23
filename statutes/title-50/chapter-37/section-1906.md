@@ -3,9 +3,10 @@ title: "Section 1906 - Annual report"
 usc_title: 50
 usc_section: "1906"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1906"
-generated_at: "2026-03-30T02:56:26.215Z"
+generated_at: "2026-11-23T21:26:38.950Z"
+status: "active"
 ---
 
 # § 1906. Annual report
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:26.215Z"
   - **(7)** any legislative changes recommended by the Secretary to facilitate the administration of the program or otherwise to enhance its objectives.
 - **(c)** The first report under this section shall be submitted at the time the budget for fiscal year 1994 is submitted to Congress.
 - **(d)** During the preparation of each report required by subsection (a), the Secretary shall consult with the members of the Board specified in paragraphs (1) through (7) of section 1903(b) 1 1 See References in Text note below. of this title. Each such member shall submit to the Secretary an assessment of their hiring needs in the areas of language and area studies and a projection of the deficiencies in such areas. The Secretary shall include all assessments in the report required by subsection (a).
+
+## Source Credit
+
+*([Pub. L. 102–183, title VIII, § 806](https://www.govinfo.gov/link/plaw/102/public/183), Dec. 4, 1991, [105 Stat. 1276](https://www.govinfo.gov/link/statute/105/1276); [Pub. L. 103–178, title III, § 311(b)(1)](https://www.govinfo.gov/link/plaw/103/public/178), Dec. 3, 1993, [107 Stat. 2037](https://www.govinfo.gov/link/statute/107/2037); [Pub. L. 104–201, div. A, title X, § 1078(f)(3)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2667](https://www.govinfo.gov/link/statute/110/2667); [Pub. L. 105–272, title III, § 305(a)(4)](https://www.govinfo.gov/link/plaw/105/public/272), Oct. 20, 1998, [112 Stat. 2401](https://www.govinfo.gov/link/statute/112/2401); [Pub. L. 107–306, title VIII, § 811(b)(7)(A)](https://www.govinfo.gov/link/plaw/107/public/306), Nov. 27, 2002, [116 Stat. 2425](https://www.govinfo.gov/link/statute/116/2425).)*

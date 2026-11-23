@@ -3,9 +3,10 @@ title: "Section 9056 - Foreclosure moratorium and consumer right to request forb
 usc_title: 15
 usc_section: "9056"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9056"
-generated_at: "2026-03-30T02:54:08.242Z"
+generated_at: "2026-11-23T21:25:40.126Z"
+status: "active"
 ---
 
 # § 9056. Foreclosure moratorium and consumer right to request forbearance
@@ -29,3 +30,17 @@ generated_at: "2026-03-30T02:54:08.242Z"
 - **(c)**
   - **(1)** Upon receiving a request for forbearance from a borrower under subsection (b), the servicer shall with no additional documentation required other than the borrower’s attestation to a financial hardship caused by the COVID–19 emergency and with no fees, penalties, or interest (beyond the amounts scheduled or calculated as if the borrower made all contractual payments on time and in full under the terms of the mortgage contract) charged to the borrower in connection with the forbearance, provide the forbearance for up to 180 days, which may be extended for an additional period of up to 180 days at the request of the borrower, provided that, the borrower’s request for an extension is made during the covered period, and, at the borrower’s request, either the initial or extended period of forbearance may be shortened.
   - **(2)** Except with respect to a vacant or abandoned property, a servicer of a Federally backed mortgage loan may not initiate any judicial or non-judicial foreclosure process, move for a foreclosure judgment or order of sale, or execute a foreclosure-related eviction or foreclosure sale for not less than the 60-day period beginning on March 18, 2020 .
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title IV, § 4022](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 490](https://www.govinfo.gov/link/statute/134/490).)*

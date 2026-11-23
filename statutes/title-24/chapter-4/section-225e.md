@@ -3,9 +3,10 @@ title: "Section 225e - Conditions of employment for former employees of Hospital
 usc_title: 24
 usc_section: "225e"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "24 U.S.C. § 225e"
-generated_at: "2026-03-30T02:54:50.790Z"
+generated_at: "2026-11-23T21:25:53.409Z"
+status: "active"
 ---
 
 # § 225e. Conditions of employment for former employees of Hospital
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:50.790Z"
 - **(d)** The District government may initiate or continue an action against an individual who accepts employment under section 225d(c) of this title for cause related to events that occur prior to the end of the service coordination period. Any such action shall be conducted in accordance with such Federal laws and regulations under which action would have been conducted had the assumption of function by the District not occurred.
 - **(e)** Commissioned public health service officers detailed to the District of Columbia mental health system shall not be considered employees for purposes of any full-time employee equivalency total of the Department of Health and Human Services.
 - **(f)** For purposes of this section, Hospital employees shall include former patient employees occupying career positions at the Hospital.
+
+## Source Credit
+
+*([Pub. L. 98–621, § 7](https://www.govinfo.gov/link/plaw/98/public/621), Nov. 8, 1984, [98 Stat. 3375](https://www.govinfo.gov/link/statute/98/3375).)*

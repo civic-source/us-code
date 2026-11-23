@@ -3,9 +3,10 @@ title: "Section 7443A - Special trial judges"
 usc_title: 26
 usc_section: "7443A"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7443A"
-generated_at: "2026-03-30T02:55:27.873Z"
+generated_at: "2026-11-23T21:26:06.962Z"
+status: "active"
 ---
 
 # § 7443A. Special trial judges
@@ -24,3 +25,13 @@ generated_at: "2026-03-30T02:55:27.873Z"
   - **(1)** at a rate equal to 90 percent of the rate for judges of the Tax Court, and
   - **(2)** in the same installments as such judges.
 - **(e)** Subsection (d) of section 7443 shall apply to special trial judges subject to such rules and regulations as may be promulgated by the Tax Court.
+
+In general
+
+Salary
+
+New appointments not required
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XV, § 1556(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2754](https://www.govinfo.gov/link/statute/100/2754); amended [Pub. L. 105–206, title III](https://www.govinfo.gov/link/plaw/105/public/206), §§ 3103(b)(1), 3401(c), July 22, 1998, [112 Stat. 731](https://www.govinfo.gov/link/statute/112/731), 749; [Pub. L. 105–277, div. J, title IV, § 4002(e)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–907](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 109–280, title VIII, § 857(a)](https://www.govinfo.gov/link/plaw/109/public/280), (b), Aug. 17, 2006, [120 Stat. 1020](https://www.govinfo.gov/link/statute/120/1020); [Pub. L. 109–432, div. A, title IV, § 406(a)(2)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2959](https://www.govinfo.gov/link/statute/120/2959).)*

@@ -3,9 +3,10 @@ title: "Section 4 - Clinical Centers of Excellence and Data Centers"
 usc_title: 42
 usc_section: "4"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-30T02:56:10.848Z"
+generated_at: "2026-11-23T21:26:30.958Z"
+status: "active"
 ---
 
 # § 300mm–4. Clinical Centers of Excellence and Data Centers
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:56:10.848Z"
   - **(1)** The WTC Program Administrator shall reimburse a Clinical Center of Excellence for the fixed infrastructure costs of such Center in carrying out the activities described in part B at a rate negotiated by the Administrator and such Centers. Such negotiated rate shall be fair and appropriate and take into account the number of enrolled WTC responders receiving services from such Center under this subchapter.
   - **(2)** For purposes of paragraph (1), the term “fixed infrastructure costs” means, with respect to a Clinical Center of Excellence, the costs incurred by such Center that are not otherwise reimbursable by the WTC Program Administrator under section 300mm–22(c) of this title for patient evaluation, monitoring, or treatment but which are needed to operate the WTC program such as the costs involved in outreach to participants or recruiting participants, data collection and analysis, social services for counseling patients on other available assistance outside the WTC program, and the development of treatment protocols. Such term does not include costs for new construction or other capital costs.
 - **(d)** Not later than July 1, 2011 , the Comptroller General shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate an analysis on whether Clinical Centers of Excellence with which the WTC Program Administrator enters into a contract under this section have financial systems that will allow for the timely submission of claims data for purposes of section 300mm–3 of this title and subsections (a)(1)(F) and (b)(1)(B)(iii).
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXXIII, § 3305, as added [Pub. L. 111–347, title I, § 101](https://www.govinfo.gov/link/plaw/111/public/347), Jan. 2, 2011, [124 Stat. 3630](https://www.govinfo.gov/link/statute/124/3630); amended [Pub. L. 114–113, div. O, title III, § 302(c)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2998](https://www.govinfo.gov/link/statute/129/2998).)*

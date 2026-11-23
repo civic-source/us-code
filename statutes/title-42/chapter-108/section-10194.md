@@ -3,9 +3,10 @@ title: "Section 10194 - Siting research and related activities"
 usc_title: 42
 usc_section: "10194"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10194"
-generated_at: "2026-03-30T02:56:11.383Z"
+generated_at: "2026-11-23T21:26:33.348Z"
+status: "active"
 ---
 
 # § 10194. Siting research and related activities
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.383Z"
   - **(2)** the Secretary shall ensure that any radioactive material used or placed on a site shall be fully retrievable; and
   - **(3)** upon termination of siting research activities at a site for any reason, the Secretary shall remove any radioactive material at or in the site as promptly as practicable.
 - **(d)** The Secretary may take title, in the name of the Federal Government, to the high-level radioactive waste, spent nuclear fuel, or other radioactive material emplaced in a test and evaluation facility. If the Secretary takes title to any such material, the Secretary shall enter into the appropriate financial arrangements described in subsection (a) or (b) of section 10222 of this title for the disposal of such material.
+
+## Source Credit
+
+*([Pub. L. 97–425, title II, § 214](https://www.govinfo.gov/link/plaw/97/public/425), Jan. 7, 1983, [96 Stat. 2247](https://www.govinfo.gov/link/statute/96/2247).)*

@@ -3,9 +3,10 @@ title: "Section 6802 - Recreation fee authority"
 usc_title: 16
 usc_section: "6802"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6802"
-generated_at: "2026-03-30T02:54:23.067Z"
+generated_at: "2026-11-23T21:25:52.051Z"
+status: "active"
 ---
 
 # § 6802. Recreation fee authority
@@ -157,3 +158,21 @@ generated_at: "2026-03-30T02:54:23.067Z"
     - **(C)** expanded amenity recreation fees under subsection (g); and
     - **(D)** special recreation permit fees.
   - **(2)** An online payment collected under paragraph (1) that is associated with a specific unit or area of a Federal land management agency shall be distributed in accordance with section 6804(c) of this title .
+
+(aa) be established after January 4, 2025 ; and
+
+(bb) be comparable to an amount described in subparagraph (D)(ii) or (E)(ii), as applicable; or
+
+(aa) the general amount paid by participants of the trip or event to the recreation service provider for the applicable trip or event (excluding amounts related to goods, souvenirs, merchandise, gear, and additional food provided or sold by the recreation service provider); and
+
+(bb) the quotient obtained by dividing— (AA) the number of days of the trip or event that occurred on Federal recreational lands and waters covered by the special recreation permit, rounded to the nearest whole day; by (BB) the total number of days of the trip or event; and
+
+(aa) the amount of any revenues from goods, souvenirs, merchandise, gear, and additional food provided or sold by the recreation service provider to the participants of the applicable trip or event;
+
+(bb) the amount of any costs or revenues from services and activities provided or sold by the recreation service provider to the participants of the trip or event that occurred in a location other than the Federal recreational lands and waters covered by the special recreation permit (including costs for travel and lodging outside the Federal recreational lands and waters covered by the special recreation permit); and
+
+(cc) the amount of any revenues from any service provided by a recreation service provider for an activity on Federal recreational lands and waters that is not covered by the special recreation permit.
+
+## Source Credit
+
+*([Pub. L. 108–447, div. J, title VIII, § 803](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3378](https://www.govinfo.gov/link/statute/118/3378); [Pub. L. 118–234, title III](https://www.govinfo.gov/link/plaw/118/public/234), §§ 311(b), 322(c), Jan. 4, 2025, [138 Stat. 2893](https://www.govinfo.gov/link/statute/138/2893), 2910.)*

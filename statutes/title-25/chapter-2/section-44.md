@@ -3,12 +3,17 @@ title: "Section 44 - Employment of Indians"
 usc_title: 25
 usc_section: "44"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 44"
-generated_at: "2026-03-30T02:54:52.797Z"
+generated_at: "2026-11-23T21:25:54.533Z"
+status: "active"
 ---
 
 # § 44. Employment of Indians
 
 In the Indian Service Indians shall be employed as herders, teamsters, and laborers, and where practicable in all other employments in connection with the agencies and the Indian Service. And it shall be the duty of the Secretary of the Interior and the Commissioner of Indian Affairs to enforce this provision.
 
+
+## Source Credit
+
+*(Aug. 15, 1894, ch. 290, § 10, [28 Stat. 313](https://www.govinfo.gov/link/statute/28/313).)*

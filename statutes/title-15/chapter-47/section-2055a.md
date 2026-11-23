@@ -3,9 +3,10 @@ title: "Section 2055a - Publicly available consumer product safety information d
 usc_title: 15
 usc_section: "2055a"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2055a"
-generated_at: "2026-03-30T02:54:08.161Z"
+generated_at: "2026-11-23T21:25:39.902Z"
+status: "active"
 ---
 
 # § 2055a. Publicly available consumer product safety information database
@@ -89,3 +90,7 @@ generated_at: "2026-03-30T02:54:08.161Z"
 - **(g)** In this section, the term “harm” means—
   - **(1)** injury, illness, or death; or
   - **(2)** risk of injury, illness, or death, as determined by the Commission.
+
+## Source Credit
+
+*([Pub. L. 92–573, § 6A](https://www.govinfo.gov/link/plaw/92/public/573), as added [Pub. L. 110–314, title II, § 212(a)](https://www.govinfo.gov/link/plaw/110/public/314), Aug. 14, 2008, [122 Stat. 3048](https://www.govinfo.gov/link/statute/122/3048); amended [Pub. L. 112–28, § 7](https://www.govinfo.gov/link/plaw/112/public/28), Aug. 12, 2011, [125 Stat. 281](https://www.govinfo.gov/link/statute/125/281).)*

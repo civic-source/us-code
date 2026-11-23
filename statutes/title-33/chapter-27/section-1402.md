@@ -3,9 +3,10 @@ title: "Section 1402 - Definitions"
 usc_title: 33
 usc_section: "1402"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1402"
-generated_at: "2026-03-30T02:55:41.104Z"
+generated_at: "2026-11-23T21:26:11.402Z"
+status: "active"
 ---
 
 # § 1402. Definitions
@@ -25,3 +26,7 @@ For the purposes of this Act the term—
 - **(k)** “Medical waste” means isolation wastes; infectious agents; human blood and blood products; pathological wastes; sharps; body parts; contaminated bedding; surgical wastes and potentially contaminated laboratory wastes; dialysis wastes; and such additional medical items as the Administrator shall prescribe by regulation.
 - **(l)** “Transport” or “transportation” refers to the carriage and related handling of any material by a vessel, or by any other vehicle, including aircraft.
 - **(m)** “Convention” means the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter.
+
+## Source Credit
+
+*([Pub. L. 92–532, § 3](https://www.govinfo.gov/link/plaw/92/public/532), Oct. 23, 1972, [86 Stat. 1052](https://www.govinfo.gov/link/statute/86/1052); [Pub. L. 93–254, § 1(2)](https://www.govinfo.gov/link/plaw/93/public/254), Mar. 22, 1974, [88 Stat. 50](https://www.govinfo.gov/link/statute/88/50); [Pub. L. 100–688, title III, § 3201(a)](https://www.govinfo.gov/link/plaw/100/public/688), Nov. 18, 1988, [102 Stat. 4153](https://www.govinfo.gov/link/statute/102/4153).)*

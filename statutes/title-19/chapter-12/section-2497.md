@@ -3,9 +3,10 @@ title: "Section 2497 - Supplemental agricultural disaster assistance"
 usc_title: 19
 usc_section: "2497"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2497"
-generated_at: "2026-03-30T02:54:24.677Z"
+generated_at: "2026-11-23T21:25:42.810Z"
+status: "active"
 ---
 
 # § 2497. Supplemental agricultural disaster assistance
@@ -277,3 +278,31 @@ generated_at: "2026-03-30T02:54:24.677Z"
   - **(5)** Sections 1001, 1001A, 1001B, and 1001D of the Food Security Act of 1985 [ 7 U.S.C. 1308 , 1308–1, 1308–2, 1308–3a] as in effect on September 30, 2007 , shall continue to apply with respect to 2008 crops.
 - **(i)** This section shall be effective only for losses that are incurred as the result of a disaster, adverse weather, or other environmental condition that occurs on or before September 30, 2011 , as determined by the Secretary.
 - **(j)** In implementing any other program which makes disaster assistance payments (except for indemnities made under the Federal Crop Insurance Act ( 7 U.S.C. 1501 et seq.)) 7 7 So in original. Second closing parenthesis probably should not appear. and section 7333 of title 7 ), the Secretary shall prevent duplicative payments with respect to the same loss for which a person receives a payment under subsections (b), (c), (d), (e), or (f).
+
+(aa) the adjusted actual production history yield; or
+
+(bb) the counter-cyclical program payment yield for each crop; and
+
+(aa) the adjusted noninsured crop assistance program yield; or
+
+(bb) the counter-cyclical program payment yield for each crop.
+
+(aa) the current production year; or
+
+(bb) subject to paragraph (3)(B)(ii), 1 or both of the 2 production years immediately preceding the current production year.
+
+(aa) the national average corn price per bushel for the 12-month period immediately preceding March 1 of the year for which the disaster assistance is calculated; or
+
+(bb) the national average corn price per bushel for the 24-month period immediately preceding that March 1; by
+
+(aa) in an amount equal to 2 monthly payments using the monthly payment rate determined under subparagraph (B); or
+
+(bb) if the county is rated as having a D3 (extreme drought) intensity in any area of the county for at least 4 weeks during the normal grazing period for the county, or is rated as having a D4 (exceptional drought) intensity in any area of the county at any time during the normal grazing period, in an amount equal to 3 monthly payments using the monthly payment rate determined under subparagraph (B).
+
+(aa) except as provided in item (bb), lack access to a policy or plan of insurance under subtitle A 3 ; or
+
+(bb) do not qualify for a written agreement because 1 or more farming practices, which the Secretary has determined are good farming practices, of the eligible producers on the farm differ significantly from the farming practices used by producers of the same crop in other regions of the United States; and
+
+## Source Credit
+
+*([Pub. L. 93–618, title IX, § 901](https://www.govinfo.gov/link/plaw/93/public/618), as added [Pub. L. 110–234, title XV, § 15101(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1484](https://www.govinfo.gov/link/statute/122/1484), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XV, § 15101(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2246; amended [Pub. L. 110–398, § 2(b)](https://www.govinfo.gov/link/plaw/110/public/398), Oct. 13, 2008, [122 Stat. 4218](https://www.govinfo.gov/link/statute/122/4218); [Pub. L. 111–5, div. A, title I, § 102(b)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 123](https://www.govinfo.gov/link/statute/123/123); [Pub. L. 111–80, title VII, § 745(b)](https://www.govinfo.gov/link/plaw/111/public/80), Oct. 21, 2009, [123 Stat. 2130](https://www.govinfo.gov/link/statute/123/2130); [Pub. L. 113–79, title XI, § 11028(d)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 978](https://www.govinfo.gov/link/statute/128/978).)*

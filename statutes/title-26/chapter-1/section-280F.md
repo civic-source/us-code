@@ -3,9 +3,10 @@ title: "Section 280F - Limitation on depreciation for luxury automobiles; limita
 usc_title: 26
 usc_section: "280F"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 280F"
-generated_at: "2026-03-30T02:55:27.662Z"
+generated_at: "2026-11-23T21:26:06.126Z"
+status: "active"
 ---
 
 # § 280F. Limitation on depreciation for luxury automobiles; limitation where certain property used for personal purposes
@@ -85,3 +86,11 @@ generated_at: "2026-03-30T02:55:27.662Z"
   - **(9)** All taxpayers holding interests in any passenger automobile shall be treated as 1 taxpayer for purposes of applying subsection (a) to such automobile, and the limitations of subsection (a) shall be allocated among such taxpayers in proportion to their interests in such automobile.
   - **(10)** For purposes of subsection (a)(1) any property acquired in a nonrecognition transaction shall be treated as a single property originally placed in service in the taxable year in which it was placed in service after being so acquired.
 - **(e)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations with respect to items properly included in, or excluded from, the adjusted basis of any listed property.
+
+In general.—
+
+Compliance provisions
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title I, § 179(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 713](https://www.govinfo.gov/link/statute/98/713); amended [Pub. L. 99–44, § 4](https://www.govinfo.gov/link/plaw/99/public/44), May 24, 1985, [99 Stat. 78](https://www.govinfo.gov/link/statute/99/78); [Pub. L. 99–514, title II, § 201(d)(4)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1812(e)(1)(A), (C), (2)–(5), Oct. 22, 1986, [100 Stat. 2139](https://www.govinfo.gov/link/statute/100/2139), 2836, 2837; [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1002(a)(10), (b)(2), 1018(u)(3), Nov. 10, 1988, [102 Stat. 3354](https://www.govinfo.gov/link/statute/102/3354), 3357, 3590; [Pub. L. 101–239, title VII, § 7643(a)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2381](https://www.govinfo.gov/link/statute/103/2381); [Pub. L. 101–508, title XI, § 11813(b)(13)(A)](https://www.govinfo.gov/link/plaw/101/public/508) –(E), Nov. 5, 1990, [104 Stat. 1388–554](https://www.govinfo.gov/link/statute/104/1388), 1388–555; [Pub. L. 104–188, title I, § 1702(h)(5)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1874](https://www.govinfo.gov/link/statute/110/1874); [Pub. L. 105–34, title IX, § 971(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 897](https://www.govinfo.gov/link/statute/111/897); [Pub. L. 105–206, title VI, § 6009(c)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 812](https://www.govinfo.gov/link/statute/112/812); [Pub. L. 107–147, title VI, § 602(b)(1)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 59](https://www.govinfo.gov/link/statute/116/59); [Pub. L. 111–240, title II, § 2043(a)](https://www.govinfo.gov/link/plaw/111/public/240), Sept. 27, 2010, [124 Stat. 2560](https://www.govinfo.gov/link/statute/124/2560); [Pub. L. 113–295, div. A, title II](https://www.govinfo.gov/link/plaw/113/public/295), §§ 220(j), 221(a)(34)(E), Dec. 19, 2014, [128 Stat. 4036](https://www.govinfo.gov/link/statute/128/4036), 4042; [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 11002(d)(8), 13202(a), (b), Dec. 22, 2017, [131 Stat. 2061](https://www.govinfo.gov/link/statute/131/2061), 2108, 2109.)*

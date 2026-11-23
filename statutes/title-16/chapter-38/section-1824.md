@@ -3,9 +3,10 @@ title: "Section 1824 - Permits for foreign fishing"
 usc_title: 16
 usc_section: "1824"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1824"
-generated_at: "2026-03-30T02:54:22.984Z"
+generated_at: "2026-11-23T21:25:51.916Z"
+status: "active"
 ---
 
 # § 1824. Permits for foreign fishing
@@ -97,3 +98,7 @@ generated_at: "2026-03-30T02:54:22.984Z"
     - **(B)** the Secretary of State for mutually agreed upon travel expenses for no more than 2 Federal representatives incurred as a direct result of complying with paragraph (1)(B); and
     - **(C)** the Western Pacific Council to meet conservation and management objectives in the State of Hawaii if monies remain in the Western Pacific Sustainable Fisheries Fund after the funding requirements of subparagraphs (A) and (B) have been satisfied.
   - **(8)** In the case of violations occurring within the exclusive economic zone off American Samoa, Guam, or the Northern Mariana Islands, amounts received by the Secretary which are attributable to fines or penalties imposed under this chapter, including such sums collected from the forfeiture and disposition or sale of property seized subject to its authority, after payment of direct costs of the enforcement action to all entities involved in such action, shall be deposited into the Treasury of the Pacific Insular Area adjacent to the exclusive economic zone in which the violation occurred, to be used for fisheries enforcement and for implementation of a marine conservation plan under paragraph (4). In the case of violations by foreign vessels occurring within the exclusive economic zones off Midway Atoll, Johnston Atoll, Kingman Reef, Palmyra Atoll, Jarvis, Howland, Baker, and Wake Islands, amounts received by the Secretary attributable to fines and penalties imposed under this chapter, shall be deposited into the Western Pacific Sustainable Fisheries Fund established under paragraph (7) of this subsection.
+
+## Source Credit
+
+*([Pub. L. 94–265, title II, § 204](https://www.govinfo.gov/link/plaw/94/public/265), Apr. 13, 1976, [90 Stat. 342](https://www.govinfo.gov/link/statute/90/342); [Pub. L. 95–354, § 4(5)](https://www.govinfo.gov/link/plaw/95/public/354) –(8), Aug. 28, 1978, [92 Stat. 520](https://www.govinfo.gov/link/statute/92/520), 521; [Pub. L. 96–470, title I, § 111(b)](https://www.govinfo.gov/link/plaw/96/public/470), title II, § 208, Oct. 19, 1980, [94 Stat. 2239](https://www.govinfo.gov/link/statute/94/2239), 2245; [Pub. L. 96–561, title II, § 232](https://www.govinfo.gov/link/plaw/96/public/561), Dec. 22, 1980, [94 Stat. 3298](https://www.govinfo.gov/link/statute/94/3298); [Pub. L. 97–453, § 3](https://www.govinfo.gov/link/plaw/97/public/453), Jan. 12, 1983, [96 Stat. 2483](https://www.govinfo.gov/link/statute/96/2483); [Pub. L. 99–272, title VI, § 6021](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 123](https://www.govinfo.gov/link/statute/100/123); [Pub. L. 99–659, title I](https://www.govinfo.gov/link/plaw/99/public/659), §§ 101(c)(2), 102, 103(b), Nov. 14, 1986, [100 Stat. 3707](https://www.govinfo.gov/link/statute/100/3707), 3709; [Pub. L. 101–627, title I](https://www.govinfo.gov/link/plaw/101/public/627), §§ 106, 120(b), Nov. 28, 1990, [104 Stat. 4440](https://www.govinfo.gov/link/statute/104/4440), 4459; [Pub. L. 102–251, title III, § 301(f)](https://www.govinfo.gov/link/plaw/102/public/251), Mar. 9, 1992, [106 Stat. 64](https://www.govinfo.gov/link/statute/106/64); [Pub. L. 104–297, title I, § 105(d)](https://www.govinfo.gov/link/plaw/104/public/297), Oct. 11, 1996, [110 Stat. 3564](https://www.govinfo.gov/link/statute/110/3564); [Pub. L. 109–479, § 6](https://www.govinfo.gov/link/plaw/109/public/479), title IV, § 404(b), Jan. 12, 2007, [120 Stat. 3579](https://www.govinfo.gov/link/statute/120/3579), 3632.)*

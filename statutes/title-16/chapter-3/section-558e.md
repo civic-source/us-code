@@ -3,9 +3,10 @@ title: "Section 558e - Consideration as Federal employee"
 usc_title: 16
 usc_section: "558e"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 558e"
-generated_at: "2026-03-30T02:54:22.876Z"
+generated_at: "2026-11-23T21:25:51.675Z"
+status: "active"
 ---
 
 # § 558e. Consideration as Federal employee
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:22.876Z"
     - **(E)** the training the volunteers are required to complete;
     - **(F)** the actions the volunteers are authorized to take; and
     - **(G)** any other terms and conditions that are determined to be necessary by the applicable Secretary.
+
+## Source Credit
+
+*([Pub. L. 92–300, § 6](https://www.govinfo.gov/link/plaw/92/public/300), as added [Pub. L. 118–234, title III, § 341](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2913](https://www.govinfo.gov/link/statute/138/2913).)*

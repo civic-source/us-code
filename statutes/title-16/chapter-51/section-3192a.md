@@ -3,12 +3,17 @@ title: "Section 3192a - Restrictions on use of appropriated funds"
 usc_title: 16
 usc_section: "3192a"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3192a"
-generated_at: "2026-03-30T02:54:23.012Z"
+generated_at: "2026-11-23T21:25:51.964Z"
+status: "active"
 ---
 
 # § 3192a. Restrictions on use of appropriated funds
 
 Notwithstanding any other provision of law, none of the funds provided in this Act or any other Act hereafter enacted may be used by the Secretary of the Interior, except with respect to land exchange costs and costs associated with the preparation of land acquisitions, in the acquisition of State, private, or other non-federal lands (or any interest therein) in the State of Alaska, unless, in the acquisition of any State, private, or other non-federal lands (or interest therein) in the State of Alaska, the Secretary seeks to exchange unreserved public lands before purchasing all or any portion of such lands (or interest therein) in the State of Alaska.
 
+
+## Source Credit
+
+*([Pub. L. 105–277, div. A, § 101(e) [title I, § 127]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–231](https://www.govinfo.gov/link/statute/112/2681), 2681–261.)*

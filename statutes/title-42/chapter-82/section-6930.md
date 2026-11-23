@@ -3,9 +3,10 @@ title: "Section 6930 - Effective date"
 usc_title: 42
 usc_section: "6930"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6930"
-generated_at: "2026-03-30T02:56:11.273Z"
+generated_at: "2026-11-23T21:26:33.004Z"
+status: "active"
 ---
 
 # § 6930. Effective date
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.273Z"
   - **(1)** a regulation with which the Administrator finds the regulated community does not need six months to come into compliance;
   - **(2)** a regulation which responds to an emergency situation; or
   - **(3)** other good cause found and published with the regulation.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 3010](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2812](https://www.govinfo.gov/link/statute/90/2812); amended [Pub. L. 96–482, § 15](https://www.govinfo.gov/link/plaw/96/public/482), Oct. 21, 1980, [94 Stat. 2342](https://www.govinfo.gov/link/statute/94/2342); [Pub. L. 98–616, title II](https://www.govinfo.gov/link/plaw/98/public/616), §§ 204(a), 234, Nov. 8, 1984, [98 Stat. 3235](https://www.govinfo.gov/link/statute/98/3235), 3258.)*

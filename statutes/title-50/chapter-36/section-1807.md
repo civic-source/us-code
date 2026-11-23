@@ -3,9 +3,10 @@ title: "Section 1807 - Report of electronic surveillance"
 usc_title: 50
 usc_section: "1807"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1807"
-generated_at: "2026-03-30T02:56:26.209Z"
+generated_at: "2026-11-23T21:26:38.937Z"
+status: "active"
 ---
 
 # § 1807. Report of electronic surveillance
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:26.209Z"
   - **(2)** the total number of such orders and extensions either granted, modified, or denied; and
   - **(3)** the total number of subjects targeted by electronic surveillance conducted under an order or emergency authorization under this subchapter, rounded to the nearest 500, including the number of such individuals who are United States persons, reported to the nearest band of 500, starting with 0–499.
 - **(b)** Each report under subsection (a) shall be submitted in unclassified form, to the extent consistent with national security. Not later than 7 days after the date on which the Attorney General submits each such report, the Attorney General shall make the report publicly available, or, if the Attorney General determines that the report cannot be made publicly available consistent with national security, the Attorney General may make publicly available an unclassified summary of the report or a redacted version of the report.
+
+## Source Credit
+
+*([Pub. L. 95–511, title I, § 107](https://www.govinfo.gov/link/plaw/95/public/511), Oct. 25, 1978, [92 Stat. 1795](https://www.govinfo.gov/link/statute/92/1795); [Pub. L. 115–118, title I, § 107(a)](https://www.govinfo.gov/link/plaw/115/public/118), Jan. 19, 2018, [132 Stat. 14](https://www.govinfo.gov/link/statute/132/14).)*

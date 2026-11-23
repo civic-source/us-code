@@ -3,9 +3,10 @@ title: "Section 2484 - Commissary stores: merchandise that may be sold; uniform 
 usc_title: 10
 usc_section: "2484"
 chapter: 147
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2484"
-generated_at: "2026-03-30T02:53:38.160Z"
+generated_at: "2026-11-23T21:25:32.618Z"
+status: "active"
 ---
 
 # § 2484. Commissary stores: merchandise that may be sold; uniform surcharges and pricing
@@ -87,3 +88,41 @@ generated_at: "2026-03-30T02:53:38.160Z"
 - **(l)** The Secretary of Defense shall prohibit the sale at any commissary store of fresh or chilled garlic—
   - **(1)** classified under subheading 0703.20.00 of the Harmonized Tariff Schedule of the United States; and
   - **(2)** that originated from, or was processed in, the People’s Republic of China.
+
+In General
+
+Authorized Commissary Merchandise Categories
+
+Inclusion of Other Merchandise Items
+
+Uniform Sales Price Surcharge
+
+Sales Price Establishment
+
+Procurement of Commercial Products Using Procedures Other Than Competitive Procedures
+
+Special Rules for Certain Merchandise
+
+Use of Surcharge for Construction, Repair, Improvement, and Maintenance
+
+Variable Pricing Program
+
+Conversion to Nonappropriated Fund Entity or Instrumentality
+
+Oversight Required To Ensure Continued Benefit to Patrons
+
+Prohibition on Sale of Garlic From People’s Republic of China
+
+“In the event that the defense commissary system is converted to a nonappropriated fund entity or instrumentality as authorized by section 2484(j)(1) of title 10 , United States Code, as added by subsection (c) of this section, the Secretary of Defense may—
+
+Prohibition on Banning Sale of Legal Consumer Tobacco Products
+
+Use of Prices Comparable to Local Prices
+
+Application to Overseas Defense Retail Systems
+
+Defense Retail Systems Defined
+
+## Source Credit
+
+*(Added [Pub. L. 99–661, div. A, title III, § 313(a)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3852](https://www.govinfo.gov/link/statute/100/3852), § 2486; amended [Pub. L. 100–180, div. A, title III, § 313(a)(1)](https://www.govinfo.gov/link/plaw/100/public/180), (2), Dec. 4, 1987, [101 Stat. 1073](https://www.govinfo.gov/link/statute/101/1073), 1074; [Pub. L. 104–201, div. A, title III, § 342(a)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2489](https://www.govinfo.gov/link/statute/110/2489); [Pub. L. 105–85, div. A, title III](https://www.govinfo.gov/link/plaw/105/public/85), §§ 372(a)–(e), 373, Nov. 18, 1997, [111 Stat. 1706](https://www.govinfo.gov/link/statute/111/1706), 1707; [Pub. L. 105–261, div. A, title III, § 364](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 1986](https://www.govinfo.gov/link/statute/112/1986); [Pub. L. 106–65, div. A, title X, § 1066(a)(21)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 771](https://www.govinfo.gov/link/statute/113/771); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title III, §§ 332(a), 334], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–59, 1654A–60; [Pub. L. 107–314, div. A, title X, § 1041(a)(14)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2645](https://www.govinfo.gov/link/statute/116/2645); renumbered § 2484 and amended [Pub. L. 108–375, div. A, title VI, § 651(a)(2)](https://www.govinfo.gov/link/plaw/108/public/375), (4), (5), Oct. 28, 2004, [118 Stat. 1964](https://www.govinfo.gov/link/statute/118/1964), 1966; [Pub. L. 109–364, div. A, title VI, § 661](https://www.govinfo.gov/link/plaw/109/public/364), title X, § 1071(g)(6), Oct. 17, 2006, [120 Stat. 2262](https://www.govinfo.gov/link/statute/120/2262), 2402; [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title VI, § 641, Oct. 14, 2008, [122 Stat. 4493](https://www.govinfo.gov/link/statute/122/4493); [Pub. L. 113–291, div. A, title VI, § 631](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3405](https://www.govinfo.gov/link/statute/128/3405); [Pub. L. 114–328, div. A, title VI, § 661(c)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2170](https://www.govinfo.gov/link/statute/130/2170); [Pub. L. 115–232, div. A, title VIII, § 836(e)(11)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1870](https://www.govinfo.gov/link/statute/132/1870); [Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4294](https://www.govinfo.gov/link/statute/134/4294); [Pub. L. 117–81, div. A, title VI, § 631](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1775](https://www.govinfo.gov/link/statute/135/1775); [Pub. L. 118–159, div. A, title VI, § 641(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1938](https://www.govinfo.gov/link/statute/138/1938).)*

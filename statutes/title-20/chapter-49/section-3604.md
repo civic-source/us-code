@@ -3,9 +3,10 @@ title: "Section 3604 - Asbestos hazards detection program"
 usc_title: 20
 usc_section: "3604"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 3604"
-generated_at: "2026-03-30T02:54:48.180Z"
+generated_at: "2026-11-23T21:25:47.419Z"
+status: "active"
 ---
 
 # § 3604. Asbestos hazards detection program
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:48.180Z"
     - **(C)** Appropriate tests to determine the level of asbestos content in suspected materials, and tests determined to be essential to detect the likelihood of imminent danger to persons within school buildings.
 - **(c)** Local and State educational agencies receiving grants under this section shall file a report with the Secretary, not later than 120 days after the award of such grant, describing the detection activities which were undertaken, the results of the asbestos detection program, and plans for mitigating any imminent hazards which were detected by the testing. The report shall include a detailed accounting of the funds used to carry out the detection program.
 - **(d)** During the period in which grants may be made under this section, not more than 20 percent of the funds appropriated to carry out this section may be made available by the Secretary to the Task Force to conduct education and technical assistance programs related to the detection of asbestos hazards in school buildings and the implementation of appropriate actions to mitigate such hazards.
+
+## Source Credit
+
+*([Pub. L. 96–270, § 5](https://www.govinfo.gov/link/plaw/96/public/270), June 14, 1980, [94 Stat. 491](https://www.govinfo.gov/link/statute/94/491).)*

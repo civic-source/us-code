@@ -3,9 +3,10 @@ title: "Section 3371 - Authorization of certain sales and transportation"
 usc_title: 15
 usc_section: "3371"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3371"
-generated_at: "2026-03-30T02:54:08.189Z"
+generated_at: "2026-11-23T21:25:39.968Z"
+status: "active"
 ---
 
 # § 3371. Authorization of certain sales and transportation
@@ -69,3 +70,7 @@ generated_at: "2026-03-30T02:54:08.189Z"
     - **(C)** such sale would violate any requirement of this subsection or any term or condition established, by rule or order, by the Commission and applicable to such sale; or
     - **(D)** such sale would circumvent or violate any provision of this chapter.
 - **(c)** Any authorization granted under this section shall be under such terms and conditions as the Commission may prescribe.
+
+## Source Credit
+
+*([Pub. L. 95–621, title III, § 311](https://www.govinfo.gov/link/plaw/95/public/621), Nov. 9, 1978, [92 Stat. 3388](https://www.govinfo.gov/link/statute/92/3388).)*

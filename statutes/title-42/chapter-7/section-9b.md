@@ -3,9 +3,10 @@ title: "Section 9b - Adult health quality measures"
 usc_title: 42
 usc_section: "9b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9b"
-generated_at: "2026-03-30T02:56:10.917Z"
+generated_at: "2026-11-23T21:26:31.281Z"
+status: "active"
 ---
 
 # § 1320b–9b. Adult health quality measures
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:10.917Z"
     - **(B)** State-specific information on the quality of health care furnished to Medicaid eligible adults under such plan, including information collected through external quality reviews of managed care organizations under section 1396u–2 of this title and benchmark plans under section 1396u–7 of this title .
   - **(2)** Not later than September 30, 2014 , and annually thereafter, the Secretary shall collect, analyze, and make publicly available the information reported by States under paragraph (1).
 - **(e)** Out of any funds in the Treasury not otherwise appropriated, there is appropriated for each of fiscal years 2010 through 2014, $60,000,000 for the purpose of carrying out this section. Funds appropriated under this subsection shall remain available until expended. Of the funds appropriated under this subsection, not less than $15,000,000 shall be used to carry out section 1320b–9a(b) of this title .
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XI, § 1139B, as added [Pub. L. 111–148, title II, § 2701](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 317](https://www.govinfo.gov/link/statute/124/317); amended [Pub. L. 113–93, title II, § 210](https://www.govinfo.gov/link/plaw/113/public/93), Apr. 1, 2014, [128 Stat. 1047](https://www.govinfo.gov/link/statute/128/1047); [Pub. L. 115–271, title V, § 5001](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 3961](https://www.govinfo.gov/link/statute/132/3961).)*

@@ -3,9 +3,10 @@ title: "Section 2814 - Special authority for development of Ford Island, Hawaii"
 usc_title: 10
 usc_section: "2814"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2814"
-generated_at: "2026-03-30T02:53:38.177Z"
+generated_at: "2026-11-23T21:25:32.679Z"
+status: "active"
 ---
 
 # § 2814. Special authority for development of Ford Island, Hawaii
@@ -65,3 +66,31 @@ generated_at: "2026-03-30T02:53:38.177Z"
 - **(l)** In this section, the term “property support service” means the following:
   - **(1)** Any utility service or other service listed in section 2686(a) of this title .
   - **(2)** Any other service determined by the Secretary to be a service that supports the operation and maintenance of real property, personal property, or facilities.
+
+In General
+
+Conveyance Authority
+
+Lease Authority
+
+Acquisition of Leasehold Interest by Secretary
+
+Requirement for Competition
+
+Consideration
+
+Notice and Wait Requirements
+
+Ford Island Improvement Account
+
+Use of Account
+
+Inapplicability of Certain Property Management Laws
+
+Scoring
+
+Property Support Service Defined
+
+## Source Credit
+
+*(Added [Pub. L. 106–65, div. B, title XXVIII, § 2802(a)(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 845](https://www.govinfo.gov/link/statute/113/845); amended [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1087(a)(16)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–291; [Pub. L. 107–107, div. A, title X, § 1048(d)(1)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1227](https://www.govinfo.gov/link/statute/115/1227); [Pub. L. 107–217, § 3(b)(18)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1296](https://www.govinfo.gov/link/statute/116/1296); [Pub. L. 111–383, div. B, title XXVIII, § 2803(c)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4459](https://www.govinfo.gov/link/statute/124/4459); [Pub. L. 115–91, div. B, title XXVIII, § 2801(a)(11)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1842](https://www.govinfo.gov/link/statute/131/1842).)*

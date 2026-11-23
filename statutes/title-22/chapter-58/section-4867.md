@@ -3,9 +3,10 @@ title: "Section 4867 - Security management training for officials assigned to a 
 usc_title: 22
 usc_section: "4867"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4867"
-generated_at: "2026-03-30T02:55:05.416Z"
+generated_at: "2026-11-23T21:25:58.654Z"
+status: "active"
 ---
 
 # § 4867. Security management training for officials assigned to a high risk, high threat post
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:05.416Z"
   - **(4)** Individuals holding a position in grades GS–14 or GS–15.
   - **(5)** Personal services contractors and other contractors serving in positions or capacities similar to the officials described in paragraphs (1) through (4).
 - **(d)** The requirements of this section shall take effect beginning on the date that is 1 year after December 16, 2016 .
+
+## Source Credit
+
+*([Pub. L. 99–399, title IV, § 417](https://www.govinfo.gov/link/plaw/99/public/399), as added [Pub. L. 114–323, title I, § 121(a)](https://www.govinfo.gov/link/plaw/114/public/323), Dec. 16, 2016, [130 Stat. 1913](https://www.govinfo.gov/link/statute/130/1913).)*

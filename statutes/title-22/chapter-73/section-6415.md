@@ -3,9 +3,10 @@ title: "Section 6415 - Programs and allocations of funds by United States missio
 usc_title: 22
 usc_section: "6415"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6415"
-generated_at: "2026-03-30T02:55:05.428Z"
+generated_at: "2026-11-23T21:25:58.686Z"
+status: "active"
 ---
 
 # § 6415. Programs and allocations of funds by United States missions abroad
@@ -14,3 +15,7 @@ It is the sense of the Congress that—
 
   - **(1)** United States diplomatic missions in countries the governments of which engage in or tolerate violations of the internationally recognized right to freedom of religion should develop, as part of annual program planning, a strategy to promote respect for the internationally recognized right to freedom of religion; and
   - **(2)** in allocating or recommending the allocation of funds or the recommendation of candidates for programs and grants funded by the United States Government, United States diplomatic missions should give particular consideration to those programs and candidates deemed to assist in the promotion of the right to religious freedom.
+
+## Source Credit
+
+*([Pub. L. 105–292, title I, § 106](https://www.govinfo.gov/link/plaw/105/public/292), Oct. 27, 1998, [112 Stat. 2796](https://www.govinfo.gov/link/statute/112/2796).)*

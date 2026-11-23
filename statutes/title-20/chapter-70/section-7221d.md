@@ -3,9 +3,10 @@ title: "Section 7221d - National activities"
 usc_title: 20
 usc_section: "7221d"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7221d"
-generated_at: "2026-03-30T02:54:48.207Z"
+generated_at: "2026-11-23T21:25:47.559Z"
+status: "active"
 ---
 
 # § 7221d. National activities
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:54:48.207Z"
       - **(ii)** to replicate high-quality charter schools to serve high school students; or
     - **(D)** propose to operate or manage high-quality charter schools that focus on dropout recovery and academic reentry.
 - **(c)** Except as otherwise provided, grants awarded under paragraphs (1) and (2) of subsection (a) shall have the same terms and conditions as grants awarded to State entities under section 7221b of this title .
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4305](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title IV, § 4301(1)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2009](https://www.govinfo.gov/link/statute/129/2009).)*

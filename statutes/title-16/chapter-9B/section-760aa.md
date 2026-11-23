@@ -3,9 +3,10 @@ title: "Section 760aa - Findings and purposes"
 usc_title: 16
 usc_section: "760aa"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 760aa"
-generated_at: "2026-03-30T02:54:22.906Z"
+generated_at: "2026-11-23T21:25:51.748Z"
+status: "active"
 ---
 
 # § 760aa. Findings and purposes
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:22.906Z"
   - **(1)** To encourage the use of volunteers to assist the United States Fish and Wildlife Service in the management of hatcheries within the System.
   - **(2)** To facilitate partnerships between the System and non-Federal entities to promote public awareness of the resources of the System and public participation in the conservation of those resources.
   - **(3)** To encourage donations and other contributions by individuals and organizations to the System.
+
+## Source Credit
+
+*([Pub. L. 109–360, § 2](https://www.govinfo.gov/link/plaw/109/public/360), Oct. 16, 2006, [120 Stat. 2058](https://www.govinfo.gov/link/statute/120/2058).)*

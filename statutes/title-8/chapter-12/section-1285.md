@@ -3,12 +3,17 @@ title: "Section 1285 - Employment on passenger vessels of aliens afflicted with 
 usc_title: 8
 usc_section: "1285"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1285"
-generated_at: "2026-03-30T02:53:10.492Z"
+generated_at: "2026-11-23T21:25:25.170Z"
+status: "active"
 ---
 
 # § 1285. Employment on passenger vessels of aliens afflicted with certain disabilities
 
 It shall be unlawful for any vessel or aircraft carrying passengers between a port of the United States and a port outside thereof to have employed on board upon arrival in the United States any alien afflicted with feeble-mindedness, insanity, epilepsy, tuberculosis in any form, leprosy, or any dangerous contagious disease. If it appears to the satisfaction of the Attorney General, from an examination made by a medical officer of the United States Public Health Service, and is so certified by such officer, that any such alien was so afflicted at the time he was shipped or engaged and taken on board such vessel or aircraft and that the existence of such affliction might have been detected by means of a competent medical examination at such time, the owner, commanding officer, agent, consignee, or master thereof shall pay for each alien so afflicted to the Commissioner the sum of $1,000. No vessel or aircraft shall be granted clearance pending the determination of the question of the liability to the payment of such sums, or while such sums remain unpaid, except that clearance may be granted prior to the determination of such question upon the deposit of an amount sufficient to cover such sums or of a bond approved by the Commissioner with sufficient surety to secure the payment thereof. Any such fine may, in the discretion of the Attorney General, be mitigated or remitted.
 
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 6, § 255, [66 Stat. 222](https://www.govinfo.gov/link/statute/66/222); [Pub. L. 101–649, title V, § 543(a)(5)](https://www.govinfo.gov/link/plaw/101/public/649), Nov. 29, 1990, [104 Stat. 5058](https://www.govinfo.gov/link/statute/104/5058).)*

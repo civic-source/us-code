@@ -3,9 +3,10 @@ title: "Section 2035 - Flexibility in authorities for management of programs and
 usc_title: 10
 usc_section: "2035"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2035"
-generated_at: "2026-03-30T02:53:38.140Z"
+generated_at: "2026-11-23T21:25:32.551Z"
+status: "active"
 ---
 
 # § 2035. Flexibility in authorities for management of programs and units
@@ -21,3 +22,19 @@ generated_at: "2026-03-30T02:53:38.140Z"
     - **(E)** Such other actions as the Secretaries of the military departments consider appropriate.
 - **(c)** The Secretaries of the military departments shall take appropriate actions to provide so-called regional directors of the Junior Reserve Officers’ Training Corps programs located at remote rural schools enhanced discretion in the allocation and use of funds for travel in connection with Junior Reserve Officers’ Training Corps activities.
 - **(d)** The Secretary of Defense shall take appropriate actions to standardize the data collected and maintained on the Junior Reserve Officers’ Training Corps programs in order to facilitate and enhance the collection and analysis of such data. Such actions shall include a requirement for the use of the National Center for Education Statistics (NCES) identification code for each school with a unit under a Junior Reserve Officers’ Training Corps program in order to facilitate identification of such schools and their units under the Junior Reserve Officers’ Training Corps programs.
+
+Authority To Convert Otherwise Closing Units to National Defense Cadet Corps Program Units
+
+Flexibility in Administration of Instructors.—
+
+In general
+
+Elements
+
+Flexibility in Allocation and Use of Travel Funding
+
+Standardization of Program Data
+
+## Source Credit
+
+*(Added [Pub. L. 115–232, div. A, title V, § 557(a)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1773](https://www.govinfo.gov/link/statute/132/1773).)*

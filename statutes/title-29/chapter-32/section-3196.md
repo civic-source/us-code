@@ -3,9 +3,10 @@ title: "Section 3196 - Enrollment"
 usc_title: 29
 usc_section: "3196"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3196"
-generated_at: "2026-03-30T02:55:18.755Z"
+generated_at: "2026-11-23T21:26:02.342Z"
+status: "active"
 ---
 
 # § 3196. Enrollment
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:18.755Z"
   - **(2)** in the case of an individual with a disability who would reasonably be expected to meet the standards for a Job Corps graduate, as defined under section 3192(5) of this title , if allowed to participate in the Job Corps for not more than 1 additional year;
   - **(3)** in the case of an individual who participates in national service, as authorized by a Civilian Conservation Center program, who would be granted an enrollment extension in the Job Corps for the amount of time equal to the period of national service; or
   - **(4)** as the Secretary may authorize in a special case.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 146](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1542](https://www.govinfo.gov/link/statute/128/1542).)*

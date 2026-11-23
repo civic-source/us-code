@@ -3,9 +3,10 @@ title: "Section 7631 - Assistance to combat HIV/AIDS"
 usc_title: 22
 usc_section: "7631"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7631"
-generated_at: "2026-03-30T02:55:05.443Z"
+generated_at: "2026-11-23T21:25:58.722Z"
+status: "active"
 ---
 
 # § 7631. Assistance to combat HIV/AIDS
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:55:05.443Z"
     - **(D)** Healthy and nutritious foods for individuals infected or living with HIV/AIDS are an important complement to HIV/AIDS medicines for such individuals.
     - **(E)** Individuals infected with HIV have higher nutritional requirements than individuals who are not infected with HIV, particularly with respect to the need for protein. Also, there is evidence to suggest that the full benefit of therapy to treat HIV/AIDS may not be achieved in individuals who are malnourished, particularly in pregnant and lactating women.
   - **(2)** It is therefore the sense of Congress that United States food assistance should be accepted by countries with large populations of individuals infected or living with HIV/AIDS, particularly African countries, in order to help feed such individuals.
+
+## Source Credit
+
+*([Pub. L. 108–25, title III, § 301](https://www.govinfo.gov/link/plaw/108/public/25), May 27, 2003, [117 Stat. 728](https://www.govinfo.gov/link/statute/117/728); [Pub. L. 108–199, div. D, title V, § 595(3)](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 209](https://www.govinfo.gov/link/statute/118/209); [Pub. L. 110–293, title III, § 301(f)](https://www.govinfo.gov/link/plaw/110/public/293) –(h), July 30, 2008, [122 Stat. 2956](https://www.govinfo.gov/link/statute/122/2956), 2957.)*

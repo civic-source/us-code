@@ -3,9 +3,10 @@ title: "Section 376 - Annuities for survivors of certain judicial officials of t
 usc_title: 28
 usc_section: "376"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 376"
-generated_at: "2026-03-30T02:55:30.128Z"
+generated_at: "2026-11-23T21:26:01.038Z"
+status: "active"
 ---
 
 # § 376. Annuities for survivors of certain judicial officials of the United States
@@ -132,3 +133,43 @@ generated_at: "2026-03-30T02:55:30.128Z"
   - **(1)** the widow or widower elects to receive this annuity instead of any other survivor annuity to which such widow or widower may be entitled, under this chapter or under another retirement system for Government employees, by reason of the remarriage; and
   - **(2)** any payment made to such widow or widower under subsection ( o ) or (p) on termination of the annuity is returned to the Judicial Survivors’ Annuities Fund.
 - **(x)** For each year of Federal judicial service completed, judicial officials who are enrolled in the Judicial Survivors’ Annuities System on the date of enactment of the Judicial Survivors Protection Act of 2009 may purchase, in 3-month increments, up to an additional year of service credit, under the terms set forth in this section. In the case of judicial officials who elect to enroll in the Judicial Survivors’ Annuities System during the statutory open enrollment period authorized under the Judicial Survivors Protection Act of 2009, for each year of Federal judicial service completed, such an official may purchase, in 3-month increments, up to an additional year of service credit for each year of Federal judicial service completed, under the terms set forth in section 4(a) of that Act.
+
+In general
+
+Limited retroactive effect.—
+
+In general
+
+Restoration
+
+Lump-sum payment
+
+Effective date
+
+Rules for retroactive application
+
+Definition
+
+Election of Judicial Survivors’ Annuities System Coverage
+
+Manner of Making Elections
+
+Effective Date for Elections
+
+Open Enrollment Period Defined
+
+Contribution Rate
+
+Contributions To Be Credited to Judicial Survivors’ Annuities Fund
+
+Lump Sum Deposit
+
+Deposits To Be Credited to Judicial Survivors’ Annuities Fund
+
+“Any judicial official as defined in section 376(a)(1) of title 28 , United States Code, who makes an election under section 376(b) of title 28 , United States Code, may make a redeposit, as required by section 7 of Public Law 94–554 [set out below] and section 2(c)(2) of Public Law 99–336 [set out below], to the credit of the Judicial Survivors’ Annuities Fund in installments, in such amounts and under such conditions as may be determined in each instance by the Director of the Administrative Office of the United States Courts. If a judicial official elects to make a redeposit in installments—
+
+“The benefits conferred by section 376 of title 28 , United States Code, by reason of the amendments made by this section shall apply only to individuals who become eligible for annuities under such section on or after the effective date of this section [ Oct. 1, 1986 ], except that—
+
+## Source Credit
+
+*(Added Aug. 3, 1956, ch. 944, § 2, [70 Stat. 1021](https://www.govinfo.gov/link/statute/70/1021); amended [Pub. L. 85–508, § 12(n)](https://www.govinfo.gov/link/plaw/85/public/508), July 7, 1958, [72 Stat. 348](https://www.govinfo.gov/link/statute/72/348); [Pub. L. 90–219, title II, § 202](https://www.govinfo.gov/link/plaw/90/public/219), Dec. 20, 1967, [81 Stat. 668](https://www.govinfo.gov/link/statute/81/668); [Pub. L. 90–466, § 1(a)](https://www.govinfo.gov/link/plaw/90/public/466), Aug. 8, 1968, [82 Stat. 662](https://www.govinfo.gov/link/statute/82/662); [Pub. L. 92–397](https://www.govinfo.gov/link/plaw/92/public/397), §§ 2, 3(c), Aug. 22, 1972, [86 Stat. 579](https://www.govinfo.gov/link/statute/86/579), 580; [Pub. L. 94–554, § 2](https://www.govinfo.gov/link/plaw/94/public/554), Oct. 19, 1976, [90 Stat. 2603](https://www.govinfo.gov/link/statute/90/2603); [Pub. L. 95–598, title II, § 211](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2661](https://www.govinfo.gov/link/statute/92/2661); [Pub. L. 99–336, § 2(a)](https://www.govinfo.gov/link/plaw/99/public/336), (d)(1)–(3), (e), June 19, 1986, [100 Stat. 633](https://www.govinfo.gov/link/statute/100/633), 635–637; [Pub. L. 99–396, § 21(b)](https://www.govinfo.gov/link/plaw/99/public/396), Aug. 27, 1986, [100 Stat. 846](https://www.govinfo.gov/link/statute/100/846); [Pub. L. 100–659, § 3(a)](https://www.govinfo.gov/link/plaw/100/public/659), Nov. 15, 1988, [102 Stat. 3917](https://www.govinfo.gov/link/statute/102/3917); [Pub. L. 100–702, title X, § 1017(a)](https://www.govinfo.gov/link/plaw/100/public/702), Nov. 19, 1988, [102 Stat. 4670](https://www.govinfo.gov/link/statute/102/4670); [Pub. L. 101–650, title III](https://www.govinfo.gov/link/plaw/101/public/650), §§ 306(b), 321, 322(a)–(f), (g)[(h)], Dec. 1, 1990, [104 Stat. 5109](https://www.govinfo.gov/link/statute/104/5109), 5117–5120; [Pub. L. 102–572, title II, § 201(a)](https://www.govinfo.gov/link/plaw/102/public/572) –(i), title IX, § 902(b), Oct. 29, 1992, [106 Stat. 4508–4510](https://www.govinfo.gov/link/statute/106/4508), 4516; [Pub. L. 104–317, title III](https://www.govinfo.gov/link/plaw/104/public/317), §§ 302, 308, Oct. 19, 1996, [110 Stat. 3851](https://www.govinfo.gov/link/statute/110/3851), 3853; [Pub. L. 106–518, title III, § 312(b)](https://www.govinfo.gov/link/plaw/106/public/518), Nov. 13, 2000, [114 Stat. 2421](https://www.govinfo.gov/link/statute/114/2421); [Pub. L. 110–402, § 1(b)(2)](https://www.govinfo.gov/link/plaw/110/public/402), Oct. 13, 2008, [122 Stat. 4254](https://www.govinfo.gov/link/statute/122/4254); [Pub. L. 110–428, § 3(a)](https://www.govinfo.gov/link/plaw/110/public/428), (b), Oct. 15, 2008, [122 Stat. 4840](https://www.govinfo.gov/link/statute/122/4840); [Pub. L. 111–49, § 6](https://www.govinfo.gov/link/plaw/111/public/49), Aug. 12, 2009, [123 Stat. 1977](https://www.govinfo.gov/link/statute/123/1977); [Pub. L. 112–234, § 2(b)](https://www.govinfo.gov/link/plaw/112/public/234), Dec. 28, 2012, [126 Stat. 1624](https://www.govinfo.gov/link/statute/126/1624).)*

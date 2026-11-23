@@ -3,9 +3,10 @@ title: "Section 1929 - Agricultural Credit Insurance Fund"
 usc_title: 7
 usc_section: "1929"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1929"
-generated_at: "2026-03-30T02:53:42.347Z"
+generated_at: "2026-11-23T21:25:28.197Z"
+status: "active"
 ---
 
 # § 1929. Agricultural Credit Insurance Fund
@@ -47,3 +48,19 @@ generated_at: "2026-03-30T02:53:42.347Z"
     - **(A)** carried out by, or under contract with, a State; and
     - **(B)** designed to assist persons in obtaining the financial assistance necessary to enter agriculture and establish viable farming or ranching operations.
 - **(j)** The Secretary may guarantee under this chapter a loan made under a State beginning farmer or rancher program, including a loan financed by the net proceeds of a qualified small issue agricultural bond for land or property described in section 144(a)(12)(B)(ii) of title 26 .
+
+Maximum guarantee of 90 percent
+
+Refinanced loans guaranteed at 95 percent
+
+Beginning farmer loans guaranteed up to 95 percent
+
+Amount of guarantee of loans for farm operations on tribal lands
+
+Establishment; purpose
+
+Membership
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 309](https://www.govinfo.gov/link/plaw/87/public/128), Aug. 8, 1961, [75 Stat. 309](https://www.govinfo.gov/link/statute/75/309); [Pub. L. 87–703, title IV, § 401(3)](https://www.govinfo.gov/link/plaw/87/public/703), Sept. 27, 1962, [76 Stat. 632](https://www.govinfo.gov/link/statute/76/632); [Pub. L. 89–240, § 2(b)](https://www.govinfo.gov/link/plaw/89/public/240), (c), Oct. 7, 1965, [79 Stat. 932](https://www.govinfo.gov/link/statute/79/932); [Pub. L. 89–633](https://www.govinfo.gov/link/plaw/89/public/633), Oct. 8, 1966, [80 Stat. 879](https://www.govinfo.gov/link/statute/80/879); [Pub. L. 90–488, § 7](https://www.govinfo.gov/link/plaw/90/public/488), Aug. 15, 1968, [82 Stat. 771](https://www.govinfo.gov/link/statute/82/771); [Pub. L. 92–419, title I, § 115](https://www.govinfo.gov/link/plaw/92/public/419), Aug. 30, 1972, [86 Stat. 660](https://www.govinfo.gov/link/statute/86/660); [Pub. L. 95–113, title XV, § 1510(a)](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 1022](https://www.govinfo.gov/link/statute/91/1022); [Pub. L. 95–334, title I, § 109(a)](https://www.govinfo.gov/link/plaw/95/public/334), Aug. 4, 1978, [92 Stat. 423](https://www.govinfo.gov/link/statute/92/423); [Pub. L. 101–624, title XXIII, § 2302(a)(2)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3980](https://www.govinfo.gov/link/statute/104/3980); [Pub. L. 102–554](https://www.govinfo.gov/link/plaw/102/public/554), §§ 4, 5(a), Oct. 28, 1992, [106 Stat. 4143](https://www.govinfo.gov/link/statute/106/4143); [Pub. L. 104–127, title VI](https://www.govinfo.gov/link/plaw/104/public/127), §§ 606, 661(b), title VII, §§ 744, 749(b)(1), Apr. 4, 1996, [110 Stat. 1086](https://www.govinfo.gov/link/statute/110/1086), 1106, 1125, 1129; [Pub. L. 107–171, title V](https://www.govinfo.gov/link/plaw/107/public/171), §§ 5003, 5004, May 13, 2002, [116 Stat. 342](https://www.govinfo.gov/link/statute/116/342).)*

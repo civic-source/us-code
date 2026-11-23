@@ -3,9 +3,10 @@ title: "Section 30701 - Competitiveness and international cooperation"
 usc_title: 51
 usc_section: "30701"
 chapter: 307
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 30701"
-generated_at: "2026-03-30T02:56:28.705Z"
+generated_at: "2026-11-23T21:26:42.536Z"
+status: "active"
 ---
 
 # § 30701. Competitiveness and international cooperation
@@ -36,3 +37,67 @@ generated_at: "2026-03-30T02:56:28.705Z"
     - **(B)** is undertaken in a manner that is sensitive to the desire of United States commercial providers to develop or explore space commercially;
     - **(C)** is consistent with the need for Federal agencies to use space to complete their missions; and
     - **(D)** is carried out in a manner consistent with United States export control laws.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30701(a) | 42 U.S.C. 2475a(a) . | Pub. L. 106–391, title I, § 126 , Oct. 30, 2000 , 114 Stat. 1585 . |
+| 30701(b)(1) | (no source) |  |
+| 30701(b)(2) | 42 U.S.C. 2475a(b) . |  |
+| 30701(b)(3) | (no source) |  |
+
+
+Limitation.—
+
+Solicitation of comment
+
+Agreements with people’s republic of china
+
+Annual audit
+
+National Interests.—
+
+Definition of united states commercial provider
+
+In general
+
+Description of national interests
+
+Historical and Revision Notes
+
+30701(a)
+
+42 U.S.C. 2475a(a)
+
+Pub. L. 106–391, title I, § 126
+
+Oct. 30, 2000
+
+114 Stat. 1585
+
+30701(b)(1)
+
+30701(b)(2)
+
+42 U.S.C. 2475a(b)
+
+30701(b)(3)
+
+Certification Required
+
+Briefings and Notifications Required.—
+
+Restatement of policy formulation under the arms control and disarmament act with respect to outer space
+
+Briefings.—
+
+Requirement
+
+Termination of requirement
+
+Notifications
+
+Definition
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3369](https://www.govinfo.gov/link/statute/124/3369).)*

@@ -3,9 +3,10 @@ title: "Section 103a - Commercial service"
 usc_title: 41
 usc_section: "103a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 103a"
-generated_at: "2026-03-30T02:55:55.798Z"
+generated_at: "2026-11-23T21:26:18.771Z"
+status: "active"
 ---
 
 # § 103a. Commercial service
@@ -20,3 +21,7 @@ In this subtitle, the term “commercial service” means any of the following:
     - **(B)** for specific tasks performed or specific outcomes to be achieved; and
     - **(C)** under standard commercial terms and conditions.
   - **(3)** A service described in paragraph (1) or (2), even though the service is transferred between or among separate divisions, subsidiaries, or affiliates of a contractor.
+
+## Source Credit
+
+*(Added [Pub. L. 115–232, div. A, title VIII, § 836(a)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1860](https://www.govinfo.gov/link/statute/132/1860).)*

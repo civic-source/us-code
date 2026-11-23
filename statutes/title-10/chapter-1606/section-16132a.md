@@ -3,9 +3,10 @@ title: "Section 16132a - Authority to transfer unused education benefits to fami
 usc_title: 10
 usc_section: "16132a"
 chapter: 1606
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 16132a"
-generated_at: "2026-03-30T02:53:38.277Z"
+generated_at: "2026-11-23T21:25:33.071Z"
+status: "active"
 ---
 
 # § 16132a. Authority to transfer unused education benefits to family members
@@ -62,3 +63,27 @@ generated_at: "2026-03-30T02:53:38.277Z"
   - **(2)** the eligibility criteria in accordance with subsection (b);
   - **(3)** the manner and effect of an election to modify or revoke a transfer of entitlement under subsection (f)(2); and
   - **(4)** the manner in which the provisions referred to in subsections (h)(4) and (5) shall be administered with respect to a dependent to whom entitlement is transferred under this section.
+
+In General
+
+Eligible Members
+
+Eligible Dependents
+
+Limitation on Months of Transfer
+
+Designation of Transferee
+
+Time for Transfer; Revocation and Modification
+
+Commencement of Use
+
+Additional Administrative Matters
+
+Overpayment
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 110–252, title V, § 5006(b)](https://www.govinfo.gov/link/plaw/110/public/252), June 30, 2008, [122 Stat. 2381](https://www.govinfo.gov/link/statute/122/2381); amended [Pub. L. 111–383, div. A, title X, § 1075(b)(55)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4372](https://www.govinfo.gov/link/statute/124/4372).)*

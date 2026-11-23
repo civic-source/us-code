@@ -3,9 +3,10 @@ title: "Section 50112 - National Maritime Enhancement Institutes"
 usc_title: 46
 usc_section: "50112"
 chapter: 501
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 50112"
-generated_at: "2026-03-30T02:56:15.568Z"
+generated_at: "2026-11-23T21:26:37.214Z"
+status: "active"
 ---
 
 # § 50112. National Maritime Enhancement Institutes
@@ -30,3 +31,58 @@ generated_at: "2026-03-30T02:56:15.568Z"
   - **(5)** The qualification of the applicant as a nonprofit institution of higher learning.
 - **(e)** The Secretary may make awards on an equal matching basis to an institute designated under subsection (a) from amounts appropriated. The aggregate annual amount of the Federal share of the awards by the Secretary may not exceed $500,000.
 - **(f)** The Secretary may make a grant under section 5505 of title 49 to an institute designated under subsection (a) for maritime and maritime intermodal research under that section as if the institute were a university transportation center. In making a grant, the Secretary, through the Office of the Assistant Secretary for Research and Technology of the Department of Transportation, shall advise the Maritime Administration on the availability of funds for the grants and consult with the Administration on making the grants.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 50112 | 46 App.:1121–2. | Pub. L. 101–115, § 8 , Oct. 13, 1989 , 103 Stat. 694 ; Pub. L. 101–595, title VII, § 702 , Nov. 16, 1990 , 104 Stat. 2994 ; Pub. L. 102–241, § 47 , Dec. 19, 1991 , 105 Stat. 2227 ; Pub. L. 106–398, § 1 [div. C, title XXXV, § 3504] , Oct. 30, 2000 , 114 Stat. 1654 , 1654A–493; Pub. L. 108–426 , Nov. 30, 2004 , § 2(c)(4), 118 Stat. 2424 . |
+
+
+Designation
+
+Activities
+
+Application for Designation
+
+Criteria for Designation
+
+Financial Awards
+
+University Transportation Research Funds
+
+Historical and Revision Notes
+
+50112
+
+Pub. L. 101–115, § 8
+
+Oct. 13, 1989
+
+103 Stat. 694
+
+Pub. L. 101–595, title VII, § 702
+
+Nov. 16, 1990
+
+104 Stat. 2994
+
+Pub. L. 102–241, § 47
+
+Dec. 19, 1991
+
+105 Stat. 2227
+
+Pub. L. 106–398, § 1 [div. C, title XXXV, § 3504]
+
+Oct. 30, 2000
+
+114 Stat. 1654
+
+Pub. L. 108–426
+
+Nov. 30, 2004
+
+118 Stat. 2424
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(b)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1561](https://www.govinfo.gov/link/statute/120/1561); [Pub. L. 113–76, div. L, title I](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 574](https://www.govinfo.gov/link/statute/128/574).)*

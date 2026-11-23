@@ -3,9 +3,10 @@ title: "Section 19017 - Research and dissemination to increase the participation
 usc_title: 42
 usc_section: "19017"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19017"
-generated_at: "2026-03-30T02:56:11.537Z"
+generated_at: "2026-11-23T21:26:33.863Z"
+status: "active"
 ---
 
 # § 19017. Research and dissemination to increase the participation of women and underrepresented minorities in STEM fields
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.537Z"
   - **(1)** collaboration with other Federal research agencies and professional associations to exchange best practices, harmonize work-life accommodation policies and practices, and overcoming common barriers to work-life accommodation; and
   - **(2)** collaboration with institutions of higher education in order to clarify and catalyze the adoption of a coherent and consistent set of work-life accommodation policies and practices.
 - **(d)** There are authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2023, 2024, 2025, 2026, and 2027.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10328](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1545](https://www.govinfo.gov/link/statute/136/1545).)*

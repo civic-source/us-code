@@ -3,9 +3,10 @@ title: "Section 90104 - Officers and employees"
 usc_title: 36
 usc_section: "90104"
 chapter: 901
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 90104"
-generated_at: "2026-03-30T02:55:44.700Z"
+generated_at: "2026-11-23T21:26:13.605Z"
+status: "active"
 ---
 
 # § 90104. Officers and employees
@@ -17,3 +18,15 @@ generated_at: "2026-03-30T02:55:44.700Z"
     - **(B)** shall be appointed and removed without regard to the provisions of title 5 governing appointments in the competitive service; and
     - **(C)** may be paid without regard to chapter 51 and subchapter III of chapter 53 of title 5.
   - **(2)** For purposes of any schedules of rates negotiated by the Administrator of General Services for the use of employees of the Federal Government who travel on official business, officers and employees of the foundation who travel while engaged in the performance of their duties under this chapter shall be deemed to be employees of the Federal Government.
+
+Appointment of Officers and Employees
+
+Status and Compensation of Employees.—
+
+In general
+
+Availability of federal employee rates for travel
+
+## Source Credit
+
+*(Added [Pub. L. 107–252, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1719](https://www.govinfo.gov/link/statute/116/1719), § 152604; renumbered § 90104, [Pub. L. 113–237, § 3(c)(6)(B)](https://www.govinfo.gov/link/plaw/113/public/237), Dec. 18, 2014, [128 Stat. 2840](https://www.govinfo.gov/link/statute/128/2840).)*

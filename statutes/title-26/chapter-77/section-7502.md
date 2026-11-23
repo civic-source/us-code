@@ -3,9 +3,10 @@ title: "Section 7502 - Timely mailing treated as timely filing and paying"
 usc_title: 26
 usc_section: "7502"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7502"
-generated_at: "2026-03-30T02:55:27.876Z"
+generated_at: "2026-11-23T21:26:06.976Z"
+status: "active"
 ---
 
 # § 7502. Timely mailing treated as timely filing and paying
@@ -41,3 +42,11 @@ generated_at: "2026-03-30T02:55:27.876Z"
     - **(C)** records electronically to its data base, kept in the regular course of its business, or marks on the cover in which any item referred to in this section is to be delivered, the date on which such item was given to such trade or business for delivery, and
     - **(D)** meets such other criteria as the Secretary may prescribe.
   - **(3)** The Secretary may provide a rule similar to the rule of paragraph (1) with respect to any service provided by a designated delivery service which is substantially equivalent to United States registered or certified mail.
+
+Registered mail
+
+Certified mail
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 895; [Pub. L. 85–866, title I, § 89(a)](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1665](https://www.govinfo.gov/link/statute/72/1665); [Pub. L. 89–713, § 5(a)](https://www.govinfo.gov/link/plaw/89/public/713), Nov. 2, 1966, [80 Stat. 1110](https://www.govinfo.gov/link/statute/80/1110); [Pub. L. 90–364, title I, § 106(a)](https://www.govinfo.gov/link/plaw/90/public/364), June 28, 1968, [82 Stat. 266](https://www.govinfo.gov/link/statute/82/266); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1906(a)(49), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1831](https://www.govinfo.gov/link/statute/90/1831), 1834; [Pub. L. 95–147, § 3(b)](https://www.govinfo.gov/link/plaw/95/public/147), Oct. 28, 1977, [91 Stat. 1228](https://www.govinfo.gov/link/statute/91/1228); [Pub. L. 98–369, div. A, title I, § 157(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 695](https://www.govinfo.gov/link/statute/98/695); [Pub. L. 99–514, title XVIII, § 1811(e)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2833](https://www.govinfo.gov/link/statute/100/2833); [Pub. L. 104–168, title XII, § 1210](https://www.govinfo.gov/link/plaw/104/public/168), July 30, 1996, [110 Stat. 1474](https://www.govinfo.gov/link/statute/110/1474); [Pub. L. 105–206, title II, § 2003(b)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 725](https://www.govinfo.gov/link/statute/112/725).)*

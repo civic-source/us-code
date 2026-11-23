@@ -3,9 +3,10 @@ title: "Section 2271 - Statement of policy"
 usc_title: 22
 usc_section: "2271"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2271"
-generated_at: "2026-03-30T02:55:05.352Z"
+generated_at: "2026-11-23T21:25:58.451Z"
+status: "active"
 ---
 
 # § 2271. Statement of policy
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:05.352Z"
     - **(B)** to provide a security shield against violence and intimidation.
   - **(3)** It is the purpose of this part to establish the statutory framework and to authorize the appropriations and financing necessary to carry out the policy described in this section.
 - **(c)** The Congress finds, therefore, that the people of the United States are willing to sustain and expand a program of economic and military assistance in Central America if the recipient countries can demonstrate progress toward and a commitment to these goals.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 461, as added [Pub. L. 99–83, title VII, § 701](https://www.govinfo.gov/link/plaw/99/public/83), Aug. 8, 1985, [99 Stat. 234](https://www.govinfo.gov/link/statute/99/234).)*

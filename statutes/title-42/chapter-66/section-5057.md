@@ -3,9 +3,10 @@ title: "Section 5057 - Nondiscrimination provisions"
 usc_title: 42
 usc_section: "5057"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5057"
-generated_at: "2026-03-30T02:56:11.215Z"
+generated_at: "2026-11-23T21:26:32.715Z"
+status: "active"
 ---
 
 # § 5057. Nondiscrimination provisions
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.215Z"
   - **(1)** Except as provided in paragraph (2), an individual with responsibility for the operation of a program that receives assistance under this chapter shall not discriminate on the basis of religion against a participant in such program or a member of the staff of such program who is paid with funds received under this chapter.
   - **(2)** Paragraph (1) shall not apply to the employment, with assistance provided under this chapter, of any member of the staff, of a program that receives assistance under this chapter, who was employed with the organization operating the program on the date the grant under this chapter was awarded.
 - **(d)** The Director shall promulgate rules and regulations to provide for the enforcement of this section that shall include provisions for summary suspension of assistance for not more than 30 days, on an emergency basis, until notice and an opportunity to be heard can be provided.
+
+## Source Credit
+
+*([Pub. L. 93–113, title IV, § 417](https://www.govinfo.gov/link/plaw/93/public/113), Oct. 1, 1973, [87 Stat. 413](https://www.govinfo.gov/link/statute/87/413); [Pub. L. 96–143, § 12](https://www.govinfo.gov/link/plaw/96/public/143), Dec. 13, 1979, [93 Stat. 1079](https://www.govinfo.gov/link/statute/93/1079); [Pub. L. 97–35, title VI, § 608(f)(3)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 488](https://www.govinfo.gov/link/statute/95/488); [Pub. L. 98–288, § 30(a)](https://www.govinfo.gov/link/plaw/98/public/288), May 21, 1984, [98 Stat. 197](https://www.govinfo.gov/link/statute/98/197); [Pub. L. 103–82, title III, § 367](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 908](https://www.govinfo.gov/link/statute/107/908).)*

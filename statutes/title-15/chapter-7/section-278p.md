@@ -3,9 +3,10 @@ title: "Section 278p - Notice to Congress"
 usc_title: 15
 usc_section: "278p"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 278p"
-generated_at: "2026-03-30T02:54:08.080Z"
+generated_at: "2026-11-23T21:25:39.624Z"
+status: "active"
 ---
 
 # § 278p. Notice to Congress
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.080Z"
 - **(b)**
   - **(1)** The Secretary shall provide notice to the Committees on Science and Appropriations of the House of Representatives, and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate, not later than 15 days before any major reorganization of any program, project, or activity of the Institute.
   - **(2)** For purposes of this subsection, the term “major reorganization” means any reorganization of the Institute that involves the reassignment of more than 25 percent of the employees of the Institute.
+
+## Source Credit
+
+*(Mar. 3, 1901, ch. 872, § 31, as added [Pub. L. 105–309, § 4(b)](https://www.govinfo.gov/link/plaw/105/public/309), Oct. 30, 1998, [112 Stat. 2935](https://www.govinfo.gov/link/statute/112/2935).)*

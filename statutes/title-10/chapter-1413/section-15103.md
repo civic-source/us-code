@@ -3,9 +3,10 @@ title: "Section 15103 - Eligibility for consideration for promotion"
 usc_title: 10
 usc_section: "15103"
 chapter: 1413
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 15103"
-generated_at: "2026-03-30T02:53:38.276Z"
+generated_at: "2026-11-23T21:25:33.069Z"
+status: "active"
 ---
 
 # § 15103. Eligibility for consideration for promotion
@@ -20,3 +21,15 @@ generated_at: "2026-03-30T02:53:38.276Z"
   - **(2)** An officer not included within the promotion zone.
   - **(3)** An officer who has failed of promotion to a higher grade the maximum number of times specified for opportunities for promotion for such grade within the competitive category concerned pursuant to section 15104 of this title .
   - **(4)** An officer recommended by a selection board to be removed from consideration for promotion in accordance with section 15102(c) of this title .
+
+In General
+
+Inapplicability of Certain Time-in-grade Requirements
+
+Inapplicability to Officers Above and Below Promotion Zone
+
+Ineligibility of Certain Officers
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title V, § 514(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 246](https://www.govinfo.gov/link/statute/137/246).)*

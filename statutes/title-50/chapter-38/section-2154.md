@@ -3,9 +3,10 @@ title: "Section 2154 - Special rules for former spouses"
 usc_title: 50
 usc_section: "2154"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2154"
-generated_at: "2026-03-30T02:56:26.219Z"
+generated_at: "2026-11-23T21:26:38.961Z"
+status: "active"
 ---
 
 # § 2154. Special rules for former spouses
@@ -92,3 +93,7 @@ generated_at: "2026-03-30T02:56:26.219Z"
     - **(A)** the retirement benefits shall be equal to the amount determined under subsection (c)(7)(A); and
     - **(B)** the survivor benefits shall be equal to 55 percent of the full amount of the employee’s annuity computed in accordance with section 302(a) of the Federal Employees’ Retirement System Act of 1986 or regulations prescribed under section 2157 of this title .
   - **(3)** Benefits provided pursuant to this subsection shall be payable from the Central Intelligence Agency Retirement and Disability Fund.
+
+## Source Credit
+
+*([Pub. L. 88–643, title III, § 304](https://www.govinfo.gov/link/plaw/88/public/643), as added [Pub. L. 102–496, title VIII, § 802](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3244](https://www.govinfo.gov/link/statute/106/3244); amended [Pub. L. 103–178, title II, § 202(a)(15)](https://www.govinfo.gov/link/plaw/103/public/178), Dec. 3, 1993, [107 Stat. 2027](https://www.govinfo.gov/link/statute/107/2027); [Pub. L. 118–31, div. G, title IX, § 7901(d)(4)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1106](https://www.govinfo.gov/link/statute/137/1106).)*

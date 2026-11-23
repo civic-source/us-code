@@ -3,9 +3,10 @@ title: "Section 3010 - Mailing of sexually oriented advertisements"
 usc_title: 39
 usc_section: "3010"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 3010"
-generated_at: "2026-03-30T02:55:43.692Z"
+generated_at: "2026-11-23T21:26:12.780Z"
+status: "active"
 ---
 
 # § 3010. Mailing of sexually oriented advertisements
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:43.692Z"
 - **(b)** Any person, on his own behalf or on the behalf of any of his children who has not attained the age of 19 years and who resides with him or is under his care, custody, or supervision, may file with the Postal Service a statement, in such form and manner as the Postal Service may prescribe, that he desires to receive no sexually oriented advertisements through the mails. The Postal Service shall maintain and keep current, insofar as practicable, a list of the names and addresses of such persons and shall make the list (including portions thereof or changes therein) available to any person, upon such reasonable terms and conditions as it may prescribe, including the payment of such service charge as it determines to be necessary to defray the cost of compiling and maintaining the list and making it available as provided in this sentence. No person shall mail or cause to be mailed any sexually oriented advertisement to any individual whose name and address has been on the list for more than 30 days.
 - **(c)** No person shall sell, lease, lend, exchange, or license the use of, or, except for the purpose expressly authorized by this section, use any mailing list compiled in whole or in part from the list maintained by the Postal Service pursuant to this section.
 - **(d)** “Sexually oriented advertisement” means any advertisement that depicts, in actual or simulated form, or explicitly describes, in a predominantly sexual context, human genitalia, any act of natural or unnatural sexual intercourse, any act of sadism or masochism, or any other erotic subject directly related to the foregoing. Material otherwise within the definition of this subsection shall be deemed not to constitute a sexually oriented advertisement if it constitutes only a small and insignificant part of the whole of a single catalog, book, periodical, or other work the remainder of which is not primarily devoted to sexual matters.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 749](https://www.govinfo.gov/link/statute/84/749).)*

@@ -3,9 +3,10 @@ title: "Section 1881f - Congressional oversight"
 usc_title: 50
 usc_section: "1881f"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1881f"
-generated_at: "2026-03-30T02:56:26.214Z"
+generated_at: "2026-11-23T21:26:38.947Z"
+status: "active"
 ---
 
 # § 1881f. Congressional oversight
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:26.214Z"
       - **(ii)** modified; and
       - **(iii)** denied; and
     - **(C)** the total number of emergency acquisitions authorized by the Attorney General under section 1881c(d) of this title and the total number of subsequent orders approving or denying such applications.
+
+## Source Credit
+
+*([Pub. L. 95–511, title VII, § 707](https://www.govinfo.gov/link/plaw/95/public/511), as added [Pub. L. 110–261, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/110/public/261), July 10, 2008, [122 Stat. 2457](https://www.govinfo.gov/link/statute/122/2457); amended [Pub. L. 115–118, title I, § 101(b)(2)](https://www.govinfo.gov/link/plaw/115/public/118), Jan. 19, 2018, [132 Stat. 8](https://www.govinfo.gov/link/statute/132/8).)*

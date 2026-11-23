@@ -3,9 +3,10 @@ title: "Section 497c - Ski area permit rental charge"
 usc_title: 16
 usc_section: "497c"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 497c"
-generated_at: "2026-03-30T02:54:22.859Z"
+generated_at: "2026-11-23T21:25:51.650Z"
+status: "active"
 ---
 
 # § 497c. Ski area permit rental charge
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:22.859Z"
 - **(h)** Where the new rental charge provided for in subsection (b)(1) results in an increase in permit rental charge greater than one-half of 1 percent of the permittee’s adjusted gross revenue as determined under subsection (b)(1), the new rental charge shall be phased in over a five-year period in a manner providing for increases of approximately equal increments.
 - **(i)** To reduce Federal costs in administering the provisions of this section, the reissuance of a ski area permit to provide activities similar in nature and amount to the activities provided under the previous permit shall not constitute a major Federal action for the purposes of the National Environmental Policy Act of 1969 ( 42 U.S.C. 4331 et seq.).
 - **(j)** Subject to valid existing rights, all lands located within the boundaries of ski area permits issued prior to, on or after November 12, 1996 , pursuant to authority of the Act of March 4, 1915 ( 38 Stat. 1101 , chapter 144; 16 U.S.C. 497 ), and the Act of June 4, 1897 , or the National Forest Ski Area Permit Act of 1986 ( 16 U.S.C. 497b ) are hereby and henceforth automatically withdrawn from all forms of appropriation under the mining laws and from disposition under all laws pertaining to mineral and geothermal leasing and all amendments thereto. Such withdrawal shall continue for the full term of the permit and any modification, reissuance, or renewal thereof. Unless the Secretary requests otherwise of the Secretary of the Interior, such withdrawal shall be canceled automatically upon expiration or other termination of the permit and the land automatically restored to all appropriation not otherwise restricted under the public land laws.
+
+## Source Credit
+
+*([Pub. L. 104–333, div. I, title VII, § 701](https://www.govinfo.gov/link/plaw/104/public/333), Nov. 12, 1996, [110 Stat. 4182](https://www.govinfo.gov/link/statute/110/4182); [Pub. L. 106–176, title I, § 117](https://www.govinfo.gov/link/plaw/106/public/176), Mar. 10, 2000, [114 Stat. 27](https://www.govinfo.gov/link/statute/114/27).)*

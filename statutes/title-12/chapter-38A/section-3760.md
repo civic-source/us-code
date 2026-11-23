@@ -3,9 +3,10 @@ title: "Section 3760 - Conduct of sale; adjournment"
 usc_title: 12
 usc_section: "3760"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3760"
-generated_at: "2026-03-30T02:53:53.497Z"
+generated_at: "2026-11-23T21:25:37.150Z"
+status: "active"
 ---
 
 # § 3760. Conduct of sale; adjournment
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:53.497Z"
   - **(2)** The foreclosure commissioner may adjourn a foreclosure sale to a later hour the same day by announcing or posting the new time and place of the foreclosure sale, or may adjourn the foreclosure sale for not less than 9 and not more than 31 days, in which case the commissioner shall serve a notice of default and foreclosure sale revised to recite the fact that the foreclosure sale has been adjourned to a specified date, as well as any other information the foreclosure commissioner deems appropriate. Such notice shall be served by publication and mailing in accordance with section 3758 of this title , except that publication may be made on any of 3 separate days before the revised date of foreclosure sale, and mailing may be made at any time not less than 7 days before the date to which the foreclosure sale has been adjourned.
 - **(d)** The foreclosure commissioner may require a bidder to make a cash deposit in an amount or percentage set by the foreclosure commissioner and stated in the notice of foreclosure sale before the bid is accepted. A successful bidder at the foreclosure sale who fails to comply with the terms of the sale may be required to forfeit the cash deposit or, at the election of the foreclosure commissioner after consultation with the Secretary, shall be liable to the Secretary for any costs incurred as a result of such failure.
 - **(e)** Any foreclosure sale held in accordance with this chapter shall be conclusively presumed to have been conducted in a legal, fair, and reasonable manner. The sale price shall be conclusively presumed to be reasonable and equal to the fair market value of the property.
+
+## Source Credit
+
+*([Pub. L. 103–327, title II](https://www.govinfo.gov/link/plaw/103/public/327), Sept. 28, 1994, [108 Stat. 2316](https://www.govinfo.gov/link/statute/108/2316).)*

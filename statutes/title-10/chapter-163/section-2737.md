@@ -3,9 +3,10 @@ title: "Section 2737 - Property loss; personal injury or death: incident to use 
 usc_title: 10
 usc_section: "2737"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2737"
-generated_at: "2026-03-30T02:53:38.174Z"
+generated_at: "2026-11-23T21:25:32.668Z"
+status: "active"
 ---
 
 # § 2737. Property loss; personal injury or death: incident to use of property of the United States and not cognizable under other law
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:38.174Z"
 - **(f)** A claim may not be paid under subsection (a) or (b) unless the amount tendered is accepted by the claimant in full satisfaction.
 - **(g)** No claim or any part thereof, the amount of which is legally recoverable by the claimant under an indemnifying law or indemnity contract, may be paid under this section. No subrogated claim may be paid under this section.
 - **(h)** So far as practicable, regulations prescribed under this section shall be uniform. Regulations prescribed under this section by the Secretaries of the military departments must be approved by the Secretary of Defense.
+
+## Source Credit
+
+*(Added [Pub. L. 87–769, § 1(1)(A)](https://www.govinfo.gov/link/plaw/87/public/769), Oct. 9, 1962, [76 Stat. 767](https://www.govinfo.gov/link/statute/76/767), § 2736; renumbered § 2737, [Pub. L. 89–718, § 21(a)](https://www.govinfo.gov/link/plaw/89/public/718), Nov. 2, 1966, [80 Stat. 1118](https://www.govinfo.gov/link/statute/80/1118).)*

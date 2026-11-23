@@ -3,9 +3,10 @@ title: "Section 4613 - Implementation of amendments made by Agricultural Researc
 usc_title: 7
 usc_section: "4613"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 4613"
-generated_at: "2026-03-30T02:53:42.410Z"
+generated_at: "2026-11-23T21:25:28.352Z"
+status: "active"
 ---
 
 # § 4613. Implementation of amendments made by Agricultural Research, Extension, and Education Reform Act of 1998
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:42.410Z"
   - **(1)** Subject to paragraph (2), if adoption of the amended order is not approved in the referendum required under subsection (d), the Secretary may issue an amended order that implements some or all of the amendments made to this chapter by section 605 of the Agricultural Research, Extension, and Education Reform Act of 1998, or makes other changes to an existing order, in accordance with the administrative procedures specified in sections 4604 and 4605 of this title.
   - **(2)** An amendment to an order that implements a provision that is subject to a referendum shall be approved in accordance with section 4611 of this title before becoming effective.
 - **(g)** If the amended order becomes effective, any referendum otherwise required to be conducted under section 4612(c) of this title shall not be held before the date that is 5 years after the date of the referendum conducted under this section.
+
+## Source Credit
+
+*([Pub. L. 98–590, § 14](https://www.govinfo.gov/link/plaw/98/public/590), as added [Pub. L. 105–185, title VI, § 605(m)](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 602](https://www.govinfo.gov/link/statute/112/602).)*

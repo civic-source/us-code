@@ -3,9 +3,10 @@ title: "Section 2451 - Authority of Executive Director"
 usc_title: 15
 usc_section: "2451"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2451"
-generated_at: "2026-03-30T02:54:08.172Z"
+generated_at: "2026-11-23T21:25:39.928Z"
+status: "active"
 ---
 
 # § 2451. Authority of Executive Director
@@ -21,3 +22,7 @@ The Executive Director is authorized to—
   - **(7)** utilize, on a reimbursable or nonreimbursable basis the services, equipment, personnel, and facilities of any other department or agency of the United States;
   - **(8)** establish one or more task forces to assist and advise the Center, composed of individuals who, by reason of experience, are qualified for such service. Each member of any such task force who is not an officer or employee of the Federal Government may receive an amount not to exceed the maximum daily rate prescribed for GS–18 under section 5332 of title 5 for each day such individual is engaged in the actual performance of duties (including traveltime) as a member of such a task force. Members may be reimbursed for travel, subsistence, and necessary expenses incurred in the performance of their duties; and
   - **(9)** make advances, progress, and other payments deemed necessary under this chapter without regard to the provisions of section 3324(a) and (b) of title 31.
+
+## Source Credit
+
+*([Pub. L. 94–136, title IV, § 401](https://www.govinfo.gov/link/plaw/94/public/136), Nov. 28, 1975, [89 Stat. 741](https://www.govinfo.gov/link/statute/89/741).)*

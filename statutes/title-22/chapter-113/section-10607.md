@@ -3,9 +3,10 @@ title: "Section 10607 - Prohibition of support for certain governments"
 usc_title: 22
 usc_section: "10607"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10607"
-generated_at: "2026-03-30T02:55:05.478Z"
+generated_at: "2026-11-23T21:25:58.801Z"
+status: "active"
 ---
 
 # § 10607. Prohibition of support for certain governments
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.478Z"
   - **(3)** has failed the “control of corruption” indicator, as determined by the Millennium Challenge Corporation, within any of the preceding 3 years of the intended grant.
 - **(b)** The Foundation may not engage in any dealing prohibited under United States sanctions laws or regulations, including dealings with persons on the list of specially designated persons and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury, except to the extent otherwise authorized by the Secretary or by the Secretary of the Treasury.
 - **(c)** The Foundation shall require any person receiving support to certify that such person, and any entity owned or controlled by such person, is in compliance with all United States sanctions laws and regulations.
+
+## Source Credit
+
+*([Pub. L. 118–159, div. E, title LI, § 5107](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2421](https://www.govinfo.gov/link/statute/138/2421).)*

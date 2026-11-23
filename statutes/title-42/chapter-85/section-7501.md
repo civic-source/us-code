@@ -3,9 +3,10 @@ title: "Section 7501 - Definitions"
 usc_title: 42
 usc_section: "7501"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7501"
-generated_at: "2026-03-30T02:56:11.304Z"
+generated_at: "2026-11-23T21:26:33.103Z"
+status: "active"
 ---
 
 # § 7501. Definitions
@@ -18,3 +19,11 @@ For the purpose of this part—
     - **(A)** the most stringent emission limitation which is contained in the implementation plan of any State for such class or category of source, unless the owner or operator of the proposed source demonstrates that such limitations are not achievable, or
     - **(B)** the most stringent emission limitation which is achieved in practice by such class or category of source, whichever is more stringent.
   - **(4)** The terms “modifications” and “modified” mean the same as the term “modification” as used in section 7411(a)(4) of this title .
+
+Reasonable further progress
+
+Nonattainment area
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 171, as added [Pub. L. 95–95, title I, § 129(b)](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 745](https://www.govinfo.gov/link/statute/91/745); amended [Pub. L. 101–549, title I, § 102(a)(2)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2412](https://www.govinfo.gov/link/statute/104/2412).)*

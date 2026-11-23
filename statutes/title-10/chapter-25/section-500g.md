@@ -3,9 +3,10 @@ title: "Section 500g - Integration of electronic warfare into Tier 1 and Tier 2 
 usc_title: 10
 usc_section: "500g"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 500g"
-generated_at: "2026-03-30T02:53:38.064Z"
+generated_at: "2026-11-23T21:25:32.277Z"
+status: "active"
 ---
 
 # § 500g. Integration of electronic warfare into Tier 1 and Tier 2 joint training exercises
@@ -30,3 +31,17 @@ generated_at: "2026-03-30T02:53:38.064Z"
   - **(1)** The term “electromagnetic order of battle” has the meaning given such term in Joint Publication 3–85 entitled “Joint Electromagnetic Spectrum Operations”, dated May 2020.
   - **(2)** The terms “high interest training issue”, “high interest training requirement”, “Tier 1”, and “Tier 2” have the meanings given such terms in the Joint Training Manual for the Armed Forces of the United States (Document No. CJCSM 3500.03E), dated April 20, 2015 .
   - **(3)** The term “joint fires” has the meaning given such term in the publication of the Joint Staff entitled “Insights and Best Practices Focus Paper on Integration and Synchronization of Joint Fires”, dated July 2018.
+
+Requirement
+
+Inclusion of Opposing Force
+
+Waiver
+
+Briefing
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title XVI, § 1682(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1203](https://www.govinfo.gov/link/statute/139/1203).)*

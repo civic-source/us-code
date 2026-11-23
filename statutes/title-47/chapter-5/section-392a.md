@@ -3,9 +3,10 @@ title: "Section 392a - Repealed. Pub. L. 95–567, title II, § 201 , Nov. 2, 19
 usc_title: 47
 usc_section: "392a"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 392a"
-generated_at: "2026-03-30T02:56:24.512Z"
+generated_at: "2026-11-23T21:26:36.015Z"
+status: "repealed"
 ---
 
 # § 392a. Repealed. Pub. L. 95–567, title II, § 201 , Nov. 2, 1978 , 92 Stat. 2409

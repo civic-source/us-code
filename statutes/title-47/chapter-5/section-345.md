@@ -3,9 +3,10 @@ title: "Section 345 - Protection of survivors of domestic violence, human traffi
 usc_title: 47
 usc_section: "345"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 345"
-generated_at: "2026-03-30T02:56:24.511Z"
+generated_at: "2026-11-23T21:26:36.007Z"
+status: "active"
 ---
 
 # § 345. Protection of survivors of domestic violence, human trafficking, and related crimes
@@ -81,3 +82,41 @@ generated_at: "2026-03-30T02:56:24.511Z"
 - **(g)**
   - **(1)** A covered provider and any officer, director, employee, vendor, or agent thereof shall not be subject to liability for any claims deriving from an action taken or omission made with respect to compliance with this section and the rules adopted to implement this section.
   - **(2)** Nothing in this subsection shall limit the authority of the Commission to enforce this section or any rules or regulations promulgated by the Commission pursuant to this section.
+
+“Congress finds the following:
+
+Definitions
+
+Rulemakings.—
+
+Line separations.—
+
+In general
+
+Considerations
+
+Emergency communications support for survivors.—
+
+In general
+
+Considerations
+
+Evaluation
+
+Rule of construction
+
+Notification
+
+Hotline calls.—
+
+In general
+
+Considerations
+
+No effect on law enforcement
+
+Compliance
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 345, as added [Pub. L. 117–223, § 4](https://www.govinfo.gov/link/plaw/117/public/223), Dec. 7, 2022, [136 Stat. 2280](https://www.govinfo.gov/link/statute/136/2280).)*

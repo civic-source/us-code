@@ -3,9 +3,10 @@ title: "Section 11386a - Selection criteria"
 usc_title: 42
 usc_section: "11386a"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11386a"
-generated_at: "2026-03-30T02:56:11.401Z"
+generated_at: "2026-11-23T21:26:33.421Z"
+status: "active"
 ---
 
 # § 11386a. Selection criteria
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:56:11.401Z"
 - **(c)** The Secretary may adjust the formula described in subsection (b)(2) as necessary—
   - **(1)** to ensure that each collaborative applicant has sufficient funding to renew all qualified projects for at least one year; and
   - **(2)** to ensure that collaborative applicants are not discouraged from replacing renewal projects with new projects that the collaborative applicant determines will better be able to meet the purposes of this chapter.
+
+## Source Credit
+
+*([Pub. L. 100–77, title IV, § 427](https://www.govinfo.gov/link/plaw/100/public/77), as added [Pub. L. 111–22, div. B, title III, § 1305(3)](https://www.govinfo.gov/link/plaw/111/public/22), May 20, 2009, [123 Stat. 1690](https://www.govinfo.gov/link/statute/123/1690).)*

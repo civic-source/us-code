@@ -3,9 +3,10 @@ title: "Section 7809 - Deposit of collections"
 usc_title: 26
 usc_section: "7809"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7809"
-generated_at: "2026-03-30T02:55:27.887Z"
+generated_at: "2026-11-23T21:26:07.022Z"
+status: "active"
 ---
 
 # § 7809. Deposit of collections
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:27.887Z"
 - **(d)**
   - **(1)** In the case of any amounts recovered as the result of information provided to the Internal Revenue Service by State and local law enforcement agencies which substantially contributed to such recovery, an amount equal to 10 percent of such amounts shall be deposited in a separate account which shall be used to make the reimbursements required under section 7624.
   - **(2)** If any amounts remain in such account after payment of any qualified costs incurred under section 7624, such amounts shall be withdrawn from such account and deposited in the Treasury of the United States as internal revenue collections.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 918; [Pub. L. 87–870, § 3(b)](https://www.govinfo.gov/link/plaw/87/public/870), Oct. 23, 1962, [76 Stat. 1161](https://www.govinfo.gov/link/statute/76/1161); [Pub. L. 89–719, title I, § 112(b)](https://www.govinfo.gov/link/plaw/89/public/719), Nov. 2, 1966, [80 Stat. 1146](https://www.govinfo.gov/link/statute/80/1146); [Pub. L. 94–455, title XII, § 1202(h)(5)](https://www.govinfo.gov/link/plaw/94/public/455), title XIX, §§ 1906(a)(59), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1688](https://www.govinfo.gov/link/statute/90/1688), 1833, 1834; [Pub. L. 94–528, § 2(d)](https://www.govinfo.gov/link/plaw/94/public/528), Oct. 17, 1976, [90 Stat. 2483](https://www.govinfo.gov/link/statute/90/2483); [Pub. L. 100–690, title VII, § 7602(b)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4507](https://www.govinfo.gov/link/statute/102/4507); [Pub. L. 108–357, title VIII, § 881(a)(2)(A)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1626](https://www.govinfo.gov/link/statute/118/1626); [Pub. L. 115–141, div. U, title IV, § 401(a)(334)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1200](https://www.govinfo.gov/link/statute/132/1200).)*

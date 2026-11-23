@@ -3,9 +3,10 @@ title: "Section 60302 - User fees for underground natural gas storage facilities
 usc_title: 49
 usc_section: "60302"
 chapter: 603
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 60302"
-generated_at: "2026-03-30T02:56:19.417Z"
+generated_at: "2026-11-23T21:26:41.036Z"
+status: "active"
 ---
 
 # § 60302. User fees for underground natural gas storage facilities
@@ -18,3 +19,19 @@ generated_at: "2026-03-30T02:56:19.417Z"
     - **(A)** shall be deposited in the Underground Natural Gas Storage Facility Safety Account; and
     - **(B)** if the fee is related to an underground natural gas storage facility subject to section 60141, the amount of the fee may be used only for an activity related to underground natural gas storage facility safety.
   - **(3)** No fee may be collected under this section, except to the extent that the expenditure of such fee to pay the costs of an activity related to underground natural gas storage facility safety for which such fee is imposed is provided in advance in an appropriations Act.
+
+In General
+
+Means of Collection
+
+Use of Fees.—
+
+Account
+
+Use of fees
+
+Limitation
+
+## Source Credit
+
+*(Added [Pub. L. 114–183, § 12(c)](https://www.govinfo.gov/link/plaw/114/public/183), June 22, 2016, [130 Stat. 523](https://www.govinfo.gov/link/statute/130/523).)*

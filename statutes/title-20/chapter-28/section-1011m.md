@@ -3,9 +3,10 @@ title: "Section 1011m - Certification regarding the use of certain Federal funds
 usc_title: 20
 usc_section: "1011m"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1011m"
-generated_at: "2026-03-30T02:54:48.093Z"
+generated_at: "2026-11-23T21:25:47.004Z"
+status: "active"
 ---
 
 # § 1011m. Certification regarding the use of certain Federal funds
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:48.093Z"
 - **(c)** No Federal student aid funding under the Higher Education Act of 1965 ( 20 U.S.C. 1001 et seq.) may be used to hire a registered lobbyist or pay any person or entity for securing an earmark.
 - **(d)** Each institution of higher education or other postsecondary educational institution receiving Federal funding under the Higher Education Act of 1965 ( 20 U.S.C. 1001 et seq.), as a condition for receiving such funding, shall annually certify to the Secretary of Education that the requirements of subsections (a) through (c) have been met.
 - **(e)** The Secretary of Education shall take such actions as are necessary to ensure that the provisions of this section are implemented and enforced.
+
+## Source Credit
+
+*([Pub. L. 110–315, title I, § 119](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3117](https://www.govinfo.gov/link/statute/122/3117).)*

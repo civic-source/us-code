@@ -3,9 +3,10 @@ title: "Section 6939e - Federally owned treatment works"
 usc_title: 42
 usc_section: "6939e"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6939e"
-generated_at: "2026-03-30T02:56:11.274Z"
+generated_at: "2026-11-23T21:26:33.009Z"
+status: "active"
 ---
 
 # § 6939e. Federally owned treatment works
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.274Z"
   - **(3)** Nothing in this subsection shall be construed to affect any other enforcement authorities available to the Administrator or a State under this subchapter.
 - **(d)** For purposes of this section, the term “federally owned treatment works” means a facility that is owned and operated by a department, agency, or instrumentality of the Federal Government treating wastewater, a majority of which is domestic sewage, prior to discharge in accordance with a permit issued under section 1342 of title 33 .
 - **(e)** Nothing in this section shall be construed as affecting any agreement, permit, or administrative or judicial order, or any condition or requirement contained in such an agreement, permit, or order, that is in existence on October 6, 1992 , and that requires corrective action or closure at a federally owned treatment works or solid waste management unit or facility related to such a treatment works.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 3023](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 102–386, title I, § 108(a)](https://www.govinfo.gov/link/plaw/102/public/386), Oct. 6, 1992, [106 Stat. 1514](https://www.govinfo.gov/link/statute/106/1514).)*

@@ -3,9 +3,10 @@ title: "Section 2036 - Grants to support science, technology, engineering, and m
 usc_title: 10
 usc_section: "2036"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2036"
-generated_at: "2026-03-30T02:53:38.140Z"
+generated_at: "2026-11-23T21:25:32.551Z"
+status: "active"
 ---
 
 # § 2036. Grants to support science, technology, engineering, and mathematics education
@@ -41,3 +42,21 @@ generated_at: "2026-03-30T02:53:38.140Z"
     - **(L)** robotics;
     - **(M)** health sciences; and
     - **(N)** other subjects determined by the Secretary of Defense to be related to science, technology, engineering, and mathematics.
+
+Authority
+
+Coordination
+
+Activities
+
+Preference
+
+Evaluations
+
+Authorities
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. A, title V, § 513(a)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3587](https://www.govinfo.gov/link/statute/134/3587); amended [Pub. L. 117–81, div. A, title V, § 511](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1682](https://www.govinfo.gov/link/statute/135/1682).)*

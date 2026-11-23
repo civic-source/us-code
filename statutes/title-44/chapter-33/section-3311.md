@@ -3,9 +3,10 @@ title: "Section 3311 - Destruction of records outside continental United States 
 usc_title: 44
 usc_section: "3311"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 3311"
-generated_at: "2026-03-30T02:55:56.295Z"
+generated_at: "2026-11-23T21:26:18.421Z"
+status: "active"
 ---
 
 # § 3311. Destruction of records outside continental United States in time of war or when hostile action seems imminent; written report to Archivist
@@ -14,3 +15,7 @@ During a state of war between the United States and another nation, or when host
 
   - **(1)** the retention of which would be prejudicial to the interests of the United States or
   - **(2)** which occupy space urgently needed for military purposes and are, in his opinion, without sufficient administrative, legal, research, or other value to warrant their continued preservation.
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1301](https://www.govinfo.gov/link/statute/82/1301); [Pub. L. 98–497, title I, § 107(b)(23)](https://www.govinfo.gov/link/plaw/98/public/497), (25)(C), Oct. 19, 1984, [98 Stat. 2290](https://www.govinfo.gov/link/statute/98/2290).)*

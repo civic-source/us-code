@@ -3,9 +3,10 @@ title: "Section 2229 - Firefighter assistance"
 usc_title: 15
 usc_section: "2229"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2229"
-generated_at: "2026-03-30T02:54:08.170Z"
+generated_at: "2026-11-23T21:25:39.922Z"
+status: "active"
 ---
 
 # § 2229. Firefighter assistance
@@ -219,3 +220,27 @@ generated_at: "2026-03-30T02:54:08.170Z"
   - **(2)** Of the amounts appropriated pursuant to paragraph (1) for a fiscal year, the Administrator of FEMA may use not more than 5 percent of such amounts for salaries and expenses and other administrative costs incurred by the Administrator of FEMA in the course of awarding grants and providing assistance under this section.
   - **(3)** Consistent with the requirements in subsections (c)(1) and (d)(1) that grants under those subsections be awarded on a competitive basis, none of the funds appropriated pursuant to this subsection may be used for any congressionally directed spending item (as defined under the rules of the Senate and the House of Representatives).
 - **(r)** The authority to award assistance and grants under this section shall expire on September 30, 2030 .
+
+In general
+
+Requirement for small community organizations
+
+Establishment
+
+Included duties
+
+Recipient selection criteria
+
+Grant-writing assistance
+
+In General
+
+Requirements
+
+Framework
+
+Elements
+
+## Source Credit
+
+*([Pub. L. 93–498, § 33](https://www.govinfo.gov/link/plaw/93/public/498), as added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title XVII, § 1701(a)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–360; amended [Pub. L. 107–107, div. A, title X, § 1061](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1231](https://www.govinfo.gov/link/statute/115/1231); [Pub. L. 108–7, div. K, title IV, § 421](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 526](https://www.govinfo.gov/link/statute/117/526); [Pub. L. 108–169, title II, § 205](https://www.govinfo.gov/link/plaw/108/public/169), Dec. 6, 2003, [117 Stat. 2040](https://www.govinfo.gov/link/statute/117/2040); [Pub. L. 108–375, div. C, title XXXVI, § 3602](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2195](https://www.govinfo.gov/link/statute/118/2195); [Pub. L. 112–239, div. A, title XVIII, § 1803](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2100](https://www.govinfo.gov/link/statute/126/2100); [Pub. L. 115–98, § 3](https://www.govinfo.gov/link/plaw/115/public/98), Jan. 3, 2018, [131 Stat. 2239](https://www.govinfo.gov/link/statute/131/2239); [Pub. L. 117–286, § 4(a)(68)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4313](https://www.govinfo.gov/link/statute/136/4313); [Pub. L. 118–67, div. A, § 3](https://www.govinfo.gov/link/plaw/118/public/67), July 9, 2024, [138 Stat. 1447](https://www.govinfo.gov/link/statute/138/1447).)*

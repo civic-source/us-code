@@ -3,9 +3,10 @@ title: "Section 15951 - Findings and definitions"
 usc_title: 42
 usc_section: "15951"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15951"
-generated_at: "2026-03-30T02:56:11.466Z"
+generated_at: "2026-11-23T21:26:33.688Z"
+status: "active"
 ---
 
 # § 15951. Findings and definitions
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.466Z"
     - **(A)** a State;
     - **(B)** the Commonwealth of Puerto Rico; and
     - **(C)** any other territory or possession of the United States.
+
+## Source Credit
+
+*([Pub. L. 109–58, title III, § 391](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 748](https://www.govinfo.gov/link/statute/119/748).)*

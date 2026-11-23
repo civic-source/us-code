@@ -3,9 +3,10 @@ title: "Section 1253 - State programs"
 usc_title: 30
 usc_section: "1253"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1253"
-generated_at: "2026-03-30T02:55:29.399Z"
+generated_at: "2026-11-23T21:26:00.425Z"
+status: "active"
 ---
 
 # § 1253. State programs
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:29.399Z"
   - **(4)** found that the State has the legal authority and qualified personnel necessary for the enforcement of the environmental protection standards.
 - **(c)** If the Secretary disapproves any proposed State program in whole or in part, he shall notify the State in writing of his decision and set forth in detail the reasons therefor. The State shall have sixty days in which to resubmit a revised State program or portion thereof. The Secretary shall approve or disapprove the resubmitted State program or portion thereof within sixty days from the date of resubmission.
 - **(d)** For the purposes of this section and section 1254 of this title , the inability of a State to take any action the purpose of which is to prepare, submit or enforce a State program, or any portion thereof, because the action is enjoined by the issuance of an injunction by any court of competent jurisdiction shall not result in a loss of eligibility for financial assistance under subchapters IV and VII of this chapter or in the imposition of a Federal program. Regulation of the surface coal mining and reclamation operations covered or to be covered by the State program subject to the injunction shall be conducted by the State pursuant to section 1252 of this title , until such time as the injunction terminates or for one year, whichever is shorter, at which time the requirements of this section and section 1254 of this title shall again be fully applicable.
+
+## Source Credit
+
+*([Pub. L. 95–87, title V, § 503](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 470](https://www.govinfo.gov/link/statute/91/470).)*

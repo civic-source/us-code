@@ -3,9 +3,10 @@ title: "Section 1477 - Death gratuity: eligible survivors"
 usc_title: 10
 usc_section: "1477"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1477"
-generated_at: "2026-03-30T02:53:38.125Z"
+generated_at: "2026-11-23T21:25:32.488Z"
+status: "active"
 ---
 
 # § 1477. Death gratuity: eligible survivors
@@ -31,3 +32,43 @@ generated_at: "2026-03-30T02:53:38.125Z"
     - **(C)** who have been otherwise proved, by evidence satisfactory to the Secretary of Veterans Affairs, to be children of the decedent; or
     - **(D)** to whose support the decedent had been judicially ordered to contribute.
 - **(e)** If a person entitled to all or a portion of a death gratuity under subsection (a) or (b) dies before the person receives the death gratuity, it shall be paid to the living survivor next in the order prescribed by subsection (b).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1477(a) 1477(b) | 38:1131(c) (less words in parentheses in clause (2)). 38:1134(d). 38:1101(7) (as applicable to children and as applicable to death gratuity). | Aug. 1, 1956, ch. 837 , §§ 102(7) (as applicable to death gratuity), 301(c), (d), 304(d), 70 Stat. 860 , 868, 869. |
+|  | 38:1131(c) (words in parentheses in clause (2)). |  |
+| 1477(c) | 38:1101(7) (less applicability to children, as applicable to death gratuity). |  |
+| 1477(d) | 38:1131(d). |  |
+
+
+Designation of Recipients
+
+Distribution of Remainder; Distribution in Absence of Designated Recipient
+
+Treatment of Parents
+
+Treatment of Children
+
+Effect of Death Before Receipt of Gratuity
+
+Historical and Revision Notes
+
+1477(a)
+
+1477(b)
+
+Aug. 1, 1956, ch. 837
+
+70 Stat. 860
+
+1477(c)
+
+1477(d)
+
+In general
+
+Elements
+
+## Source Credit
+
+*(Added [Pub. L. 85–861, § 1(32)(A)](https://www.govinfo.gov/link/plaw/85/public/861), Sept. 2, 1958, [72 Stat. 1453](https://www.govinfo.gov/link/statute/72/1453); amended [Pub. L. 101–189, div. A, title XVI, § 1621(a)(2)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1603](https://www.govinfo.gov/link/statute/103/1603); [Pub. L. 110–28, title III, § 3306](https://www.govinfo.gov/link/plaw/110/public/28), May 25, 2007, [121 Stat. 136](https://www.govinfo.gov/link/statute/121/136); [Pub. L. 110–181, div. A, title VI, § 645(a)](https://www.govinfo.gov/link/plaw/110/public/181), (b), Jan. 28, 2008, [122 Stat. 158](https://www.govinfo.gov/link/statute/122/158), 159; [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title X, § 1061(a)(4), Oct. 14, 2008, [122 Stat. 4612](https://www.govinfo.gov/link/statute/122/4612).)*

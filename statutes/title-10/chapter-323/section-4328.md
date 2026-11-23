@@ -3,9 +3,10 @@ title: "Section 4328 - Weapon system design: sustainment factors"
 usc_title: 10
 usc_section: "4328"
 chapter: 323
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4328"
-generated_at: "2026-03-30T02:53:38.206Z"
+generated_at: "2026-11-23T21:25:32.772Z"
+status: "active"
 ---
 
 # § 4328. Weapon system design: sustainment factors
@@ -24,3 +25,41 @@ generated_at: "2026-03-30T02:53:38.206Z"
 - **(e)** In this section, the term “covered contract”, with respect to a weapon system, means a contract—
   - **(1)** for the engineering and manufacturing development of a weapon system, including embedded software; or
   - **(2)** for the production of a weapon system, including embedded software.
+
+In General
+
+Requirements Process
+
+Solicitation and Award of Contracts.—
+
+Requirement
+
+Exception
+
+Source selection criteria
+
+Contract Performance.—
+
+In general
+
+Authority for incentive fees and penalties
+
+Measurement of reliability and maintainability
+
+Notification
+
+Covered Contract Defined
+
+Implementation Required
+
+Exceptions.—
+
+Delayed implementation
+
+Nonimplementation
+
+Implementation Plans
+
+## Source Credit
+
+*(Added [Pub. L. 115–91, div. A, title VIII, § 834(a)(1)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1469](https://www.govinfo.gov/link/statute/131/1469), § 2443; renumbered § 4328 and amended [Pub. L. 116–283, div. A, title XVIII, § 1848(e)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4259](https://www.govinfo.gov/link/statute/134/4259).)*

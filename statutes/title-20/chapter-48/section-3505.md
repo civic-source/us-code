@@ -3,9 +3,10 @@ title: "Section 3505 - Savings provisions"
 usc_title: 20
 usc_section: "3505"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 3505"
-generated_at: "2026-03-30T02:54:48.180Z"
+generated_at: "2026-11-23T21:25:47.417Z"
+status: "active"
 ---
 
 # § 3505. Savings provisions
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:48.180Z"
 - **(d)** No suit, action, or other proceeding commenced by or against any officer in the official capacity of such individual as an officer of any department or agency, functions of which are transferred by this chapter, shall abate by reason of the enactment of this chapter. No cause of action by or against any department or agency, functions of which are transferred by this chapter, or by or against any officer thereof in the official capacity of such officer shall abate by reason of the enactment of this chapter.
 - **(e)** If, before May 4, 1980 , any department or agency, or officer thereof in the official capacity of such officer, is a party to a suit, and under this chapter any function of such department, agency, or officer is transferred to the Secretary or any other official of the Department, then such suit shall be continued with the Secretary or other appropriate official of the Department substituted or added as a party.
 - **(f)** Orders and actions of the Secretary in the exercise of functions transferred under this chapter shall be subject to judicial review to the same extent and in the same manner as if such orders and actions had been by the agency or office, or part thereof, exercising such functions immediately preceding their transfer. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function transferred by this chapter shall apply to the exercise of such function by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 96–88, title V, § 505](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 691](https://www.govinfo.gov/link/statute/93/691).)*

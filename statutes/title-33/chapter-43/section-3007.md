@@ -3,9 +3,10 @@ title: "Section 3007 - Training and physical fitness"
 usc_title: 33
 usc_section: "3007"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3007"
-generated_at: "2026-03-30T02:55:41.136Z"
+generated_at: "2026-11-23T21:26:11.474Z"
+status: "active"
 ---
 
 # § 3007. Training and physical fitness
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:41.136Z"
   - **(2)** Providing officers and officer candidates with educational materials.
   - **(3)** Acquiring such equipment as may be necessary for training and instructional purposes.
 - **(b)** The Secretary shall ensure that officers maintain a high physical state of readiness by establishing standards of physical fitness for officers that are substantially equivalent to those prescribed for officers in the Coast Guard.
+
+## Source Credit
+
+*([Pub. L. 107–372, title II, § 217](https://www.govinfo.gov/link/plaw/107/public/372), as added [Pub. L. 116–259, title I, § 104(a)](https://www.govinfo.gov/link/plaw/116/public/259), Dec. 23, 2020, [134 Stat. 1156](https://www.govinfo.gov/link/statute/134/1156).)*

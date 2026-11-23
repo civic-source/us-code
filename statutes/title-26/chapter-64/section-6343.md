@@ -3,9 +3,10 @@ title: "Section 6343 - Authority to release levy and return property"
 usc_title: 26
 usc_section: "6343"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6343"
-generated_at: "2026-03-30T02:55:27.850Z"
+generated_at: "2026-11-23T21:26:06.855Z"
+status: "active"
 ---
 
 # § 6343. Authority to release levy and return property
@@ -48,3 +49,9 @@ generated_at: "2026-03-30T02:55:27.850Z"
     - **(B)** Subparagraph (A) shall not apply to a rollover contribution under this subsection which is made from an eligible retirement plan which is not a Roth IRA or a designated Roth account (within the meaning of section 402A) to a Roth IRA or a designated Roth account under an eligible retirement plan.
   - **(4)** Notwithstanding subsection (d), interest shall be allowed under subsection (c) in a case in which the Secretary makes a determination described in subsection (d)(2)(A) with respect to a levy upon an individual retirement plan.
   - **(5)** For purposes of paragraph (1)(A), section 408(d)(3)(C) shall be disregarded in determining whether an individual retirement plan is a plan to which a rollover contribution of a distribution from the plan levied upon is permitted.
+
+“The amendments made by this section [amending this section and section 6532 of this title ] shall apply to—
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 789; [Pub. L. 89–719, title I, § 104(i)](https://www.govinfo.gov/link/plaw/89/public/719), Nov. 2, 1966, [80 Stat. 1138](https://www.govinfo.gov/link/statute/80/1138); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 96–167, § 4(a)](https://www.govinfo.gov/link/plaw/96/public/167), Dec. 29, 1979, [93 Stat. 1275](https://www.govinfo.gov/link/statute/93/1275); [Pub. L. 99–514, title XV, § 1511(c)(10)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2745](https://www.govinfo.gov/link/statute/100/2745); [Pub. L. 100–647, title VI, § 6236(f)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3740](https://www.govinfo.gov/link/statute/102/3740); [Pub. L. 104–168, title V, § 501(b)](https://www.govinfo.gov/link/plaw/104/public/168), July 30, 1996, [110 Stat. 1460](https://www.govinfo.gov/link/statute/110/1460); [Pub. L. 105–206, title I, § 1102(d)(1)(B)](https://www.govinfo.gov/link/plaw/105/public/206), title III, § 3432(a), July 22, 1998, [112 Stat. 704](https://www.govinfo.gov/link/statute/112/704), 759; [Pub. L. 115–97, title I, § 11071(a)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2091](https://www.govinfo.gov/link/statute/131/2091); [Pub. L. 115–123, div. D, title II, § 41104(a)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 155](https://www.govinfo.gov/link/statute/132/155).)*

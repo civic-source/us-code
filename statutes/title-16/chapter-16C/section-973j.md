@@ -3,9 +3,10 @@ title: "Section 973j - Disclosure of information"
 usc_title: 16
 usc_section: "973j"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 973j"
-generated_at: "2026-03-30T02:54:22.938Z"
+generated_at: "2026-11-23T21:25:51.801Z"
+status: "active"
 ---
 
 # § 973j. Disclosure of information
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:22.938Z"
 - **(c)**
   - **(1)** Nothing in this section shall be construed to adversely affect the authority of Congress, including a Committee or Member thereof, to obtain any record or information.
   - **(2)** The absence of a provision similar to paragraph (1) in any other provision of law shall not be construed to limit the ability of the Senate or the House of Representatives, including a Committee or Member thereof, to obtain any record or information.
+
+## Source Credit
+
+*([Pub. L. 100–330, § 12](https://www.govinfo.gov/link/plaw/100/public/330), June 7, 1988, [102 Stat. 599](https://www.govinfo.gov/link/statute/102/599); [Pub. L. 119–60, div. H, title LXXXIV, § 8420](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1917](https://www.govinfo.gov/link/statute/139/1917).)*

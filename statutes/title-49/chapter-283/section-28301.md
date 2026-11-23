@@ -3,9 +3,10 @@ title: "Section 28301 - General"
 usc_title: 49
 usc_section: "28301"
 chapter: 283
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 28301"
-generated_at: "2026-03-30T02:56:19.350Z"
+generated_at: "2026-11-23T21:26:40.752Z"
+status: "active"
 ---
 
 # § 28301. General
@@ -23,3 +24,25 @@ generated_at: "2026-03-30T02:56:19.350Z"
   - **(2)** does apply to an independently owned and operated railroad less than one hundred miles in length—
     - **(A)** whose principal business is leasing or providing terminal or transfer facilities to other railroads; or
     - **(B)** engaged in transfers of freight between railroads or between railroads and industrial plants.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 28301 | 45:65. | Sept. 3, 5, 1916, ch. 436, § 1, 39 Stat. 721 . |
+|  | (uncodified). | Sept. 3, 5, 1916, ch. 436, §§ 2, 3, 39 Stat. 721 . |
+
+
+Eight Hour Day
+
+Application
+
+Historical and Revision Notes
+
+28301
+
+39 Stat. 721
+
+39 Stat. 721
+
+## Source Credit
+
+*(Added [Pub. L. 104–287, § 5(56)(A)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3394](https://www.govinfo.gov/link/statute/110/3394).)*

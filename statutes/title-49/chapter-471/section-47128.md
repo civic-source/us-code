@@ -3,9 +3,10 @@ title: "Section 47128 - State block grant program"
 usc_title: 49
 usc_section: "47128"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 47128"
-generated_at: "2026-03-30T02:56:19.404Z"
+generated_at: "2026-11-23T21:26:40.984Z"
+status: "active"
 ---
 
 # § 47128. State block grant program
@@ -39,3 +40,82 @@ generated_at: "2026-03-30T02:56:19.404Z"
     - **(F)** Instrument approach procedure evaluations and determinations.
     - **(G)** Environmental review for projects not funded by amounts available under this subchapter.
     - **(H)** Review and approval of land leases, land releases, changes in on-airport land-use designation, and through-the-fence agreements.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 47128(a) | 49 App.:2227(a) (1st sentence), (b) (1st sentence). | Sept. 3, 1982 , Pub. L. 97–248 , 96 Stat. 324 , § 534; added Dec. 30, 1987 , Pub. L. 100–223, § 116 , 101 Stat. 1507 ; Nov. 5, 1990 , Pub. L. 101–508, § 9114 , 104 Stat. 1388–364 ; Oct. 31, 1992 , Pub. L. 102–581, § 116 , 106 Stat. 4881 . |
+| 47128(b)(1) | 49 App.:2227(c) (1st, 2d sentences). |  |
+| 47128(b)(2) | 49 App.:2227(b) (last sentence). |  |
+| 47128(c) | 49 App.:2227(c) (last sentence). |  |
+| 47128(d) | 49 App.:2227(a) (last sentence), (d). |  |
+
+
+General Requirements
+
+Applications and Selection
+
+Safety and Security Needs and Needs of System
+
+Environmental Analysis and Coordination Requirements
+
+Training for Participating States.—
+
+In general
+
+Timing
+
+Roles and Responsibilities of Participating States.—
+
+Airports
+
+Program documentation.—
+
+In general
+
+Parity
+
+Responsibilities
+
+Historical and Revision Notes
+
+Pub. L
+
+47128(a)
+
+Sept. 3, 1982
+
+Pub. L. 97–248
+
+96 Stat. 324
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 116
+
+101 Stat. 1507
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 9114
+
+104 Stat. 1388–364
+
+Oct. 31, 1992
+
+Pub. L. 102–581, § 116
+
+106 Stat. 4881
+
+47128(b)(1)
+
+47128(b)(2)
+
+47128(c)
+
+47128(d)
+
+Ending Effective Date and Report
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1277](https://www.govinfo.gov/link/statute/108/1277); [Pub. L. 103–429, § 6(70)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4387](https://www.govinfo.gov/link/statute/108/4387); [Pub. L. 104–264, title I, § 147(a)](https://www.govinfo.gov/link/plaw/104/public/264) –(c)(1), Oct. 9, 1996, [110 Stat. 3223](https://www.govinfo.gov/link/statute/110/3223); [Pub. L. 104–287, § 5(84)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3397](https://www.govinfo.gov/link/statute/110/3397); [Pub. L. 105–102, § 3(d)(1)(E)](https://www.govinfo.gov/link/plaw/105/public/102), Nov. 20, 1997, [111 Stat. 2215](https://www.govinfo.gov/link/statute/111/2215); [Pub. L. 106–181, title I, § 138](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 85](https://www.govinfo.gov/link/statute/114/85); [Pub. L. 112–95, title V, § 502](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 103](https://www.govinfo.gov/link/statute/126/103); [Pub. L. 115–254, div. B, title I, § 139](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3210](https://www.govinfo.gov/link/statute/132/3210); [Pub. L. 118–63, title VII, § 720(a)](https://www.govinfo.gov/link/plaw/118/public/63), (b), May 16, 2024, [138 Stat. 1262](https://www.govinfo.gov/link/statute/138/1262).)*

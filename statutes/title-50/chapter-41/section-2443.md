@@ -3,9 +3,10 @@ title: "Section 2443 - Notification of employee practices affecting national sec
 usc_title: 50
 usc_section: "2443"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2443"
-generated_at: "2026-03-30T02:56:26.224Z"
+generated_at: "2026-11-23T21:26:38.977Z"
+status: "active"
 ---
 
 # § 2443. Notification of employee practices affecting national security
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:26.224Z"
   - **(2)** The term “covered employee” means—
     - **(A)** an employee of the Administration; or
     - **(B)** an employee of an element of the Department of Energy (other than the Administration) involved in nuclear security.
+
+## Source Credit
+
+*([Pub. L. 106–65, div. C, title XXXII, § 3245](https://www.govinfo.gov/link/plaw/106/public/65), as added [Pub. L. 114–92, div. C, title XXXI, § 3111(a)(1)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1186](https://www.govinfo.gov/link/statute/129/1186); amended [Pub. L. 117–81, div. C, title XXXI, § 3131(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2229](https://www.govinfo.gov/link/statute/135/2229).)*

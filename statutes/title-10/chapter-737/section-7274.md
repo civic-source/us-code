@@ -3,9 +3,10 @@ title: "Section 7274 - Medal of honor; distinguished-service cross; distinguishe
 usc_title: 10
 usc_section: "7274"
 chapter: 737
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 7274"
-generated_at: "2026-03-30T02:53:38.230Z"
+generated_at: "2026-11-23T21:25:32.845Z"
+status: "active"
 ---
 
 # § 7274. Medal of honor; distinguished-service cross; distinguished-service medal: limitations on award
@@ -18,3 +19,31 @@ generated_at: "2026-03-30T02:53:38.230Z"
 - **(c)** If the Secretary of the Army determines that—
   - **(1)** a statement setting forth the distinguished service and recommending official recognition of it was made and supported by sufficient evidence within three years after the distinguished service; and
   - **(2)** no award was made, because the statement was lost or through inadvertence the recommendation was not acted on;
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3744(a) 3744(b) 3744(c) | 10:1411. 10:1409 (words before 1st semicolon). 10:1409 (words after 2d semicolon). | July 9, 1918, ch. 143 (12th par., less words after 2d semicolon, under “Ordnance Department”); restated Jan. 24, 1920, ch. 55, § 1 (less last sentence), 41 Stat. 398 . |
+|  |  | July 9, 1918, ch. 143 (less words between 1st and 2d semicolons of 15th par. under “Ordnance Department”), 40 Stat. 871 . |
+
+
+Historical and Revision Notes
+
+3744(a)
+
+3744(b)
+
+3744(c)
+
+July 9, 1918, ch. 143
+
+Jan. 24, 1920, ch. 55, § 1
+
+41 Stat. 398
+
+July 9, 1918, ch. 143
+
+40 Stat. 871
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 216, § 3744; [Pub. L. 86–582, § 1(1)](https://www.govinfo.gov/link/plaw/86/public/582), July 5, 1960, [74 Stat. 320](https://www.govinfo.gov/link/statute/74/320); [Pub. L. 113–66, div. A, title V](https://www.govinfo.gov/link/plaw/113/public/66), §§ 561(a), 562(a), Dec. 26, 2013, [127 Stat. 766](https://www.govinfo.gov/link/statute/127/766); renumbered § 7274, [Pub. L. 115–232, div. A, title VIII, § 808(b)(11)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1838](https://www.govinfo.gov/link/statute/132/1838); [Pub. L. 116–92, div. A, title V, § 582(b)(1)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1412](https://www.govinfo.gov/link/statute/133/1412).)*

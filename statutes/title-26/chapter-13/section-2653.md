@@ -3,9 +3,10 @@ title: "Section 2653 - Taxation of multiple skips"
 usc_title: 26
 usc_section: "2653"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 2653"
-generated_at: "2026-03-30T02:55:27.786Z"
+generated_at: "2026-11-23T21:26:06.543Z"
+status: "active"
 ---
 
 # § 2653. Taxation of multiple skips
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:27.786Z"
   - **(2)**
     - **(A)** If the generation-skipping transfer referred to in subsection (a) involves the transfer of property from 1 trust to another trust (hereinafter in this paragraph referred to as the “pour-over trust”), the inclusion ratio for the pour-over trust shall be determined by treating the nontax portion of such distribution as if it were a part of a GST exemption allocated to such trust.
     - **(B)** For purposes of subparagraph (A), the nontax portion of any distribution is the amount of such distribution multiplied by the applicable fraction which applies to such distribution.
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XIV, § 1431(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2727](https://www.govinfo.gov/link/statute/100/2727).)*

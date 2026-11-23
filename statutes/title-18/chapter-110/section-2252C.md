@@ -3,9 +3,10 @@ title: "Section 2252C - Misleading words or digital images on the Internet"
 usc_title: 18
 usc_section: "2252C"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2252C"
-generated_at: "2026-03-30T02:54:16.498Z"
+generated_at: "2026-11-23T21:25:44.124Z"
+status: "active"
 ---
 
 # § 2252C. Misleading words or digital images on the Internet
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:54:16.498Z"
 - **(d)** As used in this section—
   - **(1)** the terms “material that is harmful to minors” and “sex” have the meaning given such terms in section 2252B; and
   - **(2)** the term “source code” means the combination of text and other characters comprising the content, both viewable and nonviewable, of a web page, including any website publishing language, programming language, protocol or functional content, as well as any successor languages or protocols.
+
+In General
+
+Minors
+
+Construction
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 109–248, title VII, § 703(a)](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 648](https://www.govinfo.gov/link/statute/120/648).)*

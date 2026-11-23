@@ -3,9 +3,10 @@ title: "Section 4503 - Institute of Tropical Forestry in Puerto Rico"
 usc_title: 16
 usc_section: "4503"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4503"
-generated_at: "2026-03-30T02:54:23.044Z"
+generated_at: "2026-11-23T21:25:52.018Z"
+status: "active"
 ---
 
 # § 4503. Institute of Tropical Forestry in Puerto Rico
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:23.044Z"
   - **(1)** the construction or acquisition of a major center for education, interpretation, and appreciation of the benefits and methods of the intelligent management of tropical forests;
   - **(2)** the acquisition or construction of facilities for housing and classroom instruction near the Caribbean National Forest/Luguillo Experimental Forest; and
   - **(3)** the acquisition or construction of facilities for the study and recovery of endangered tropical wildlife, fish and plant species.
+
+## Source Credit
+
+*([Pub. L. 101–513, title VI, § 604](https://www.govinfo.gov/link/plaw/101/public/513), Nov. 5, 1990, [104 Stat. 2071](https://www.govinfo.gov/link/statute/104/2071); [Pub. L. 102–574, § 2(b)(2)](https://www.govinfo.gov/link/plaw/102/public/574), Oct. 29, 1992, [106 Stat. 4596](https://www.govinfo.gov/link/statute/106/4596).)*

@@ -3,9 +3,10 @@ title: "Section 349 - Inter-American Air Forces Academy"
 usc_title: 10
 usc_section: "349"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 349"
-generated_at: "2026-03-30T02:53:38.054Z"
+generated_at: "2026-11-23T21:25:32.257Z"
+status: "active"
 ---
 
 # § 349. Inter-American Air Forces Academy
@@ -15,3 +16,17 @@ generated_at: "2026-03-30T02:53:38.054Z"
   - **(1)** Military personnel of a foreign country may be provided education and training under this section only with the concurrence of the Secretary of State.
   - **(2)** Education and training may not be provided under this section to the military personnel of any country that is otherwise prohibited from receiving such type of assistance under any other provision of law.
 - **(c)** The fixed costs of operating and maintaining the Inter-American Air Forces Academy may be paid from funds available for operation and maintenance of the Air Force.
+
+Operation
+
+Limitations.—
+
+Concurrence of secretary of state
+
+Assistance otherwise prohibited by law
+
+Costs
+
+## Source Credit
+
+*(Added [Pub. L. 101–510, div. A, title III, § 330(a)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1535](https://www.govinfo.gov/link/statute/104/1535), § 9415; renumbered § 349 and amended [Pub. L. 114–328, div. A, title XII, § 1241(j)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2508](https://www.govinfo.gov/link/statute/130/2508).)*

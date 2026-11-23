@@ -3,9 +3,10 @@ title: "Section 8793 - Imposition of sanctions with respect to persons who engag
 usc_title: 22
 usc_section: "8793"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8793"
-generated_at: "2026-03-30T02:55:05.457Z"
+generated_at: "2026-11-23T21:25:58.755Z"
+status: "active"
 ---
 
 # § 8793. Imposition of sanctions with respect to persons who engage in censorship or other forms of repression in Syria
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.457Z"
   - **(3)**
     - **(A)** The list required by paragraph (1) shall be submitted in unclassified form but may contain a classified annex.
     - **(B)** The unclassified portion of the list required by paragraph (1) shall be made available to the public and posted on the websites of the Department of the Treasury and the Department of State.
+
+## Source Credit
+
+*([Pub. L. 112–158, title VII, § 704](https://www.govinfo.gov/link/plaw/112/public/158), Aug. 10, 2012, [126 Stat. 1268](https://www.govinfo.gov/link/statute/126/1268).)*

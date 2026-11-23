@@ -3,9 +3,10 @@ title: "Section 41304 - Effective periods and amendments, modifications, suspens
 usc_title: 49
 usc_section: "41304"
 chapter: 413
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 41304"
-generated_at: "2026-03-30T02:56:19.373Z"
+generated_at: "2026-11-23T21:26:40.851Z"
+status: "active"
 ---
 
 # § 41304. Effective periods and amendments, modifications, suspensions, and revocations of permits
@@ -24,3 +25,85 @@ generated_at: "2026-03-30T02:56:19.373Z"
     - **(B)** does not adopt available measures to prevent the illegal importation of a controlled substance into the United States on its aircraft; and
   - **(2)** when appropriate, shall amend, modify, suspend, or revoke the permit of the carrier issued under this chapter.
 - **(d)** An interested person may file a response with the Secretary opposing or supporting the amendment, modification, suspension, or revocation of a permit under subsection (a) of this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 41304(a) | 49 App.:1372(e) (related to duration of permits). | Aug. 23, 1958 , Pub. L. 85–726, § 402(e) (related to duration of permits), 72 Stat. 758 . |
+|  | 49 App.:1372(f)(1) (1st sentence). | Aug. 23, 1958 , Pub. L. 85–726, § 402(f)(1) , 72 Stat. 758 ; Feb. 15, 1980 , Pub. L. 96–192, § 9 , 94 Stat. 38 . |
+|  | 49 App.:1551(b)(1)(E). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1601(b)(1)(E); added Oct. 4, 1984 , Pub. L. 98–443, § 3(e) , 98 Stat. 1704 . |
+| 41304(b) | 49 App.:1372(f)(2). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 402(f)(2); added Feb. 15, 1980 , Pub. L. 96–192, § 9 , 94 Stat. 38 . |
+|  | 49 App.:1551(b)(1)(E). |  |
+| 41304(c) | 49 App.:1371a (related to permit). | Aug. 15, 1985 , Pub. L. 99–88, § 100 (1st complete par. related to permit on p. 352), 99 Stat. 352 . |
+| 41304(d) | 49 App.:1372(f)(1) (last sentence). |  |
+|  | 49 App.:1551(b)(1)(E). |  |
+
+
+General
+
+Suspensions and Restrictions
+
+Illegal Importation of Controlled Substances
+
+Responses
+
+Historical and Revision Notes
+
+41304(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 402(e)
+
+72 Stat. 758
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 402(f)(1)
+
+72 Stat. 758
+
+Feb. 15, 1980
+
+Pub. L. 96–192, § 9
+
+94 Stat. 38
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 4, 1984
+
+Pub. L. 98–443, § 3(e)
+
+98 Stat. 1704
+
+41304(b)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Feb. 15, 1980
+
+Pub. L. 96–192, § 9
+
+94 Stat. 38
+
+41304(c)
+
+Aug. 15, 1985
+
+Pub. L. 99–88, § 100
+
+99 Stat. 352
+
+41304(d)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1127](https://www.govinfo.gov/link/statute/108/1127).)*

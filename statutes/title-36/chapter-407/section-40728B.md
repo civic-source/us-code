@@ -3,9 +3,10 @@ title: "Section 40728B - Recovery of excess rifles, ammunition, and parts grante
 usc_title: 36
 usc_section: "40728B"
 chapter: 407
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 40728B"
-generated_at: "2026-03-30T02:55:44.696Z"
+generated_at: "2026-11-23T21:26:13.573Z"
+status: "active"
 ---
 
 # § 40728B. Recovery of excess rifles, ammunition, and parts granted to foreign countries and transfer to certain persons
@@ -24,3 +25,25 @@ generated_at: "2026-03-30T02:55:44.696Z"
 - **(e)** Notwithstanding section 3201(e) of title 10 , the Secretary may enter into such contracts or cooperative agreements on a sole source basis pursuant to paragraphs (4) and (5) of section 3204(a) 1 1 So in original. Probably means section 3204(a) of title 10 . to carry out this section.
 - **(f)** Transfers authorized under this section may only be made in accordance with applicable provisions of the Arms Export Control Act ( 22 U.S.C. 2778 ).
 - **(g)** In this section, the term “rifle” has the meaning given such term in section 921 of title 18 .
+
+Authority to Recover
+
+Cost of Recovery
+
+Availability for Transfer
+
+Market Value
+
+Contracts
+
+AECA
+
+Rifle Defined
+
+Report required
+
+Prohibition on transfers pending submittal of report
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title X, § 1096(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2440](https://www.govinfo.gov/link/statute/130/2440); amended [Pub. L. 117–81, div. A, title XVII, § 1702](https://www.govinfo.gov/link/plaw/117/public/81) (l)(7), Dec. 27, 2021, [135 Stat. 2160](https://www.govinfo.gov/link/statute/135/2160).)*

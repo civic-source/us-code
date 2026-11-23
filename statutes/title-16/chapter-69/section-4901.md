@@ -3,9 +3,10 @@ title: "Section 4901 - Findings"
 usc_title: 16
 usc_section: "4901"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4901"
-generated_at: "2026-03-30T02:54:23.048Z"
+generated_at: "2026-11-23T21:25:52.023Z"
+status: "active"
 ---
 
 # § 4901. Findings
@@ -26,3 +27,7 @@ The Congress finds the following:
   - **(12)** Article XIV provides that the Convention in no way affects the right of any Party to the Convention to adopt stricter domestic measures for the regulation of trade in all species, whether or not listed in an Appendix to the Convention.
   - **(13)** The United States prohibits the export of all birds native to the United States that are caught in the wild.
   - **(14)** This chapter provides a series of nondiscriminatory measures that are necessary for the conservation of exotic birds, and furthers the obligations of the United States under the Convention.
+
+## Source Credit
+
+*([Pub. L. 102–440, title I, § 102](https://www.govinfo.gov/link/plaw/102/public/440), Oct. 23, 1992, [106 Stat. 2224](https://www.govinfo.gov/link/statute/106/2224).)*

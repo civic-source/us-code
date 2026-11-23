@@ -3,9 +3,10 @@ title: "Section 7001 - Conforming amendments relating to National Appeals Divisi
 usc_title: 7
 usc_section: "7001"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7001"
-generated_at: "2026-03-30T02:53:42.442Z"
+generated_at: "2026-11-23T21:25:28.410Z"
+status: "active"
 ---
 
 # § 7001. Conforming amendments relating to National Appeals Division
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.442Z"
   - **(3)** If the decision of the State, county, or area committee has become final under paragraph (2), no action may be taken by the Farm Service Agency, the Commodity Credit Corporation, or a State, county, or area committee to recover amounts found to have been disbursed as a result of a decision in error unless the participant had reason to believe that the decision was erroneous.
   - **(4)** For purposes of this subsection, a reference to the “Farm Service Agency” includes any other office, agency, or administrative unit of the Department assigned the functions authorized for the Farm Service Agency under section 6932 of this title .
 - **(b)**
+
+## Source Credit
+
+*([Pub. L. 103–354, title II, § 281](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3233](https://www.govinfo.gov/link/statute/108/3233); [Pub. L. 107–171, title I, § 1613(i)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 221](https://www.govinfo.gov/link/statute/116/221).)*

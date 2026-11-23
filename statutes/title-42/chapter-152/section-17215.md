@@ -3,9 +3,10 @@ title: "Section 17215 - National Marine Energy Centers"
 usc_title: 42
 usc_section: "17215"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17215"
-generated_at: "2026-03-30T02:56:11.501Z"
+generated_at: "2026-11-23T21:26:33.776Z"
+status: "active"
 ---
 
 # § 17215. National Marine Energy Centers
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.501Z"
   - **(3)** collect and disseminate information on best practices in all areas relating to developing and managing marine energy resources and energy systems.
 - **(d)** To the extent practicable, the Centers shall coordinate their activities with the Secretary of Commerce, acting through the Undersecretary of Commerce for Oceans and Atmosphere, and other relevant Federal agencies.
 - **(e)** To the extent otherwise authorized by law, the Secretary may terminate funding for a Center described in paragraph (a) if such Center is under-performing.
+
+## Source Credit
+
+*([Pub. L. 110–140, title VI, § 636](https://www.govinfo.gov/link/plaw/110/public/140), as added [Pub. L. 116–260, div. Z, title III, § 3001(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2484](https://www.govinfo.gov/link/statute/134/2484).)*

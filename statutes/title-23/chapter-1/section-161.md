@@ -3,9 +3,10 @@ title: "Section 161 - Operation of motor vehicles by intoxicated minors"
 usc_title: 23
 usc_section: "161"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 161"
-generated_at: "2026-03-30T02:55:12.561Z"
+generated_at: "2026-11-23T21:25:53.899Z"
+status: "active"
 ---
 
 # § 161. Operation of motor vehicles by intoxicated minors
@@ -21,3 +22,33 @@ generated_at: "2026-03-30T02:55:12.561Z"
   - **(2)** If, before the last day of the period for which funds withheld under subsection (a) from apportionment are to remain available for apportionment to a State under paragraph (1), the State meets the requirement of subsection (a)(3), the Secretary shall, on the first day on which the State meets the requirement, apportion to the State the funds withheld under subsection (a) that remain available for apportionment to the State.
   - **(3)** Any funds apportioned pursuant to paragraph (2) shall remain available for expenditure until the end of the third fiscal year following the fiscal year in which the funds are so apportioned. Sums not obligated at the end of that period shall lapse.
   - **(4)** If, at the end of the period for which funds withheld under subsection (a) from apportionment are available for apportionment to a State under paragraph (1), the State does not meet the requirement of subsection (a)(3), the funds shall lapse.
+
+Withholding of Apportionments for Noncompliance.—
+
+Prior to fiscal year 2012
+
+Fiscal year 2012 and thereafter
+
+Requirement
+
+Period of Availability; Effect of Compliance and Noncompliance.—
+
+Period of availability of withheld funds.—
+
+Funds withheld on or before september 30, 2000
+
+Funds withheld after september 30, 2000
+
+Apportionment of withheld funds after compliance
+
+Period of availability of subsequently apportioned funds
+
+Effect of noncompliance
+
+Prior to fiscal year 2012
+
+Thereafter
+
+## Source Credit
+
+*(Added [Pub. L. 104–59, title III, § 320(a)](https://www.govinfo.gov/link/plaw/104/public/59), Nov. 28, 1995, [109 Stat. 589](https://www.govinfo.gov/link/statute/109/589); amended [Pub. L. 105–178, title I, § 1103](https://www.govinfo.gov/link/plaw/105/public/178) (l)(3)(F), June 9, 1998, [112 Stat. 126](https://www.govinfo.gov/link/statute/112/126); [Pub. L. 112–141, div. A, title I, § 1404(h)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 559](https://www.govinfo.gov/link/statute/126/559).)*

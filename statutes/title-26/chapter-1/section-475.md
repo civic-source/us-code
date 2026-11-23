@@ -3,9 +3,10 @@ title: "Section 475 - Mark to market accounting method for dealers in securities
 usc_title: 26
 usc_section: "475"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 475"
-generated_at: "2026-03-30T02:55:27.707Z"
+generated_at: "2026-11-23T21:26:06.300Z"
+status: "active"
 ---
 
 # § 475. Mark to market accounting method for dealers in securities
@@ -89,3 +90,33 @@ generated_at: "2026-03-30T02:55:27.707Z"
   - **(1)** to prevent the use of year-end transfers, related parties, or other arrangements to avoid the provisions of this section,
   - **(2)** to provide for the application of this section to any security which is a hedge which cannot be identified with a specific security, position, right to income, or liability, and
   - **(3)** to prevent the use by taxpayers of subsection (c)(4) to avoid the application of this section to a receivable that is inventory in the hands of the taxpayer (or a person who bears a relationship to the taxpayer described in section 267(b) or 707(b)).
+
+In general
+
+Change in method of accounting
+
+In general
+
+Exception for sales of positions, etc. held before june 9, 1997
+
+Special rule
+
+Election of mark to market by securities traders and traders and dealers in commodities.—
+
+In general
+
+year spread of adjustments
+
+In general
+
+Change in method of accounting
+
+Special rule for floor specialists and market makers.—
+
+In general
+
+Qualified security
+
+## Source Credit
+
+*(Added [Pub. L. 103–66, title XIII, § 13223(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 481](https://www.govinfo.gov/link/statute/107/481); amended [Pub. L. 105–34, title X, § 1001(b)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 906](https://www.govinfo.gov/link/statute/111/906); [Pub. L. 105–206, title VI, § 6010(a)(3)](https://www.govinfo.gov/link/plaw/105/public/206), title VII, § 7003(a), (b), July 22, 1998, [112 Stat. 813](https://www.govinfo.gov/link/statute/112/813), 832; [Pub. L. 106–170, title V, § 532(b)(1)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1930](https://www.govinfo.gov/link/statute/113/1930); [Pub. L. 106–554, § 1(a)(7) [title III, § 319(4)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–646; [Pub. L. 107–147, title IV, § 417(10)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 56](https://www.govinfo.gov/link/statute/116/56).)*

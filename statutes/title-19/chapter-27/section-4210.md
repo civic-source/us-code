@@ -3,9 +3,10 @@ title: "Section 4210 - Definitions"
 usc_title: 19
 usc_section: "4210"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4210"
-generated_at: "2026-03-30T02:54:24.705Z"
+generated_at: "2026-11-23T21:25:42.878Z"
+status: "active"
 ---
 
 # § 4210. Definitions
@@ -55,3 +56,7 @@ In this chapter:
   - **(21)** The terms “World Trade Organization” and “WTO” mean the organization established pursuant to the WTO Agreement.
   - **(22)** The term “WTO Agreement” means the Agreement Establishing the World Trade Organization entered into on April 15, 1994 .
   - **(23)** The term “WTO member” has the meaning given that term in section 3501(10) of this title .
+
+## Source Credit
+
+*([Pub. L. 114–26, title I, § 111](https://www.govinfo.gov/link/plaw/114/public/26), June 29, 2015, [129 Stat. 358](https://www.govinfo.gov/link/statute/129/358).)*

@@ -3,9 +3,10 @@ title: "Section 3608 - Administration"
 usc_title: 42
 usc_section: "3608"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3608"
-generated_at: "2026-03-30T02:56:11.190Z"
+generated_at: "2026-11-23T21:26:32.584Z"
+status: "active"
 ---
 
 # § 3608. Administration
@@ -39,3 +40,37 @@ generated_at: "2026-03-30T02:56:11.190Z"
   - **(10)** section 1701u of title 12 ;
   - **(11)** Executive orders 11063, 11246, 11625, 12250, 12259, and 12432; and
   - **(12)** any other provision of law which the Secretary specifies by publication in the Federal Register for the purpose of this subsection.
+
+Establishment of Policy
+
+Prohibition of National Standard
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+William J. Clinton.
+
+Section
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*([Pub. L. 90–284, title VIII, § 808](https://www.govinfo.gov/link/plaw/90/public/284), Apr. 11, 1968, [82 Stat. 84](https://www.govinfo.gov/link/statute/82/84); [Pub. L. 95–251, § 3](https://www.govinfo.gov/link/plaw/95/public/251), Mar. 27, 1978, [92 Stat. 184](https://www.govinfo.gov/link/statute/92/184); [Pub. L. 95–454, title VIII, § 801(a)(3)(J)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1222](https://www.govinfo.gov/link/statute/92/1222); [Pub. L. 100–430, § 7](https://www.govinfo.gov/link/plaw/100/public/430), Sept. 13, 1988, [102 Stat. 1623](https://www.govinfo.gov/link/statute/102/1623).)*

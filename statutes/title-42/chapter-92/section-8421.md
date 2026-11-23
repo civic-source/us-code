@@ -3,9 +3,10 @@ title: "Section 8421 - Information"
 usc_title: 42
 usc_section: "8421"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8421"
-generated_at: "2026-03-30T02:56:11.342Z"
+generated_at: "2026-11-23T21:26:33.201Z"
+status: "active"
 ---
 
 # § 8421. Information
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.342Z"
     - **(A)** within 6 months after August 13, 1981 , the total quantities of natural gas used as a primary energy source by each electric utility during calendar year 1977, and
     - **(B)** on a semiannual basis, the total quantities of natural gas used as a primary energy source during the previous 6-month period by each electric utility.
   - **(2)** Repealed. Pub. L. 104–66, title I, § 1051(e) , Dec. 21, 1995 , 109 Stat. 716 .
+
+## Source Credit
+
+*([Pub. L. 95–620, title VII, § 711](https://www.govinfo.gov/link/plaw/95/public/620), Nov. 9, 1978, [92 Stat. 3332](https://www.govinfo.gov/link/statute/92/3332); [Pub. L. 97–35, title X, § 1021(b)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 615](https://www.govinfo.gov/link/statute/95/615); [Pub. L. 100–42, § 1(c)(17)](https://www.govinfo.gov/link/plaw/100/public/42), May 21, 1987, [101 Stat. 313](https://www.govinfo.gov/link/statute/101/313); [Pub. L. 104–66, title I, § 1051(e)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 716](https://www.govinfo.gov/link/statute/109/716).)*

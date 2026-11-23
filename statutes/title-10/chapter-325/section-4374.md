@@ -3,9 +3,10 @@ title: "Section 4374 - Unit cost reports: determinations by service acquisition 
 usc_title: 10
 usc_section: "4374"
 chapter: 325
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4374"
-generated_at: "2026-03-30T02:53:38.207Z"
+generated_at: "2026-11-23T21:25:32.774Z"
+status: "active"
 ---
 
 # § 4374. Unit cost reports: determinations by service acquisition executive and secretary concerned of breach of significant cost growth threshold or critical cost growth threshold; reports to Congress
@@ -16,3 +17,19 @@ generated_at: "2026-03-30T02:53:38.207Z"
   - **(1)** If, based upon the service acquisition executive’s determination, the Secretary concerned determines that the current program acquisition unit cost has increased by a percentage equal to or greater than the significant cost growth threshold or critical cost growth threshold or that the procurement unit cost has increased by a percentage equal to or greater than the significant cost growth threshold or critical cost growth threshold, the Secretary shall notify Congress in writing of such determination and of the increase with respect to the program or subprogram concerned.
   - **(2)** In the case of a determination based on a quarterly report submitted in accordance with section 4372 of this title , the Secretary shall submit the notification to Congress within 45 days after the end of the quarter. In the case of a determination based on a report submitted in accordance with section 4373 of this title , the Secretary shall submit the notification to Congress within 45 days after the date of that report.
   - **(3)** The Secretary shall include in the notification the date on which the determination was made.
+
+Determination of Breach by Service Acquisition Executive
+
+Additional Determination by Service Acquisition Executive When Program or Subprogram Is a Procurement Program
+
+Determination of Breach by Secretary Concerned; Notification to Congress.—
+
+In general
+
+Time for submission of notification to congress
+
+Inclusion of date of determination
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1850(a)](https://www.govinfo.gov/link/plaw/116/public/283), (g), Jan. 1, 2021, [134 Stat. 4265](https://www.govinfo.gov/link/statute/134/4265), 4267.)*

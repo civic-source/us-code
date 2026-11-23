@@ -3,9 +3,10 @@ title: "Section 1237 - Real property subdivided for sale"
 usc_title: 26
 usc_section: "1237"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1237"
-generated_at: "2026-03-30T02:55:27.761Z"
+generated_at: "2026-11-23T21:26:06.474Z"
+status: "active"
 ---
 
 # § 1237. Real property subdivided for sale
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:27.761Z"
     - **(B)** it is shown to the satisfaction of the Secretary that the lot or parcel, the value of which was substantially enhanced by such improvement, would not have been marketable at the prevailing local price for similar building sites without such improvement; and
     - **(C)** the taxpayer elects, in accordance with regulations prescribed by the Secretary, to make no adjustment to basis of the lot or parcel, or of any other property owned by the taxpayer, on account of the expenditures for such improvements. Such election shall not make any item deductible which would not otherwise be deductible.
 - **(c)** For purposes of this section, the term “tract of real property” means a single piece of real property, except that 2 or more pieces of real property shall be considered a tract if at any time they were contiguous in the hands of the taxpayer or if they would be contiguous except for the interposition of a road, street, railroad, stream, or similar property. If, following the sale or exchange of any lot or parcel from a tract of real property, no further sales or exchanges of any other lots or parcels from the remainder of such tract are made for a period of 5 years, such remainder shall be deemed a tract.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 330; Apr. 27, 1956, ch. 214, §§ 1, 2, [70 Stat. 118](https://www.govinfo.gov/link/statute/70/118); [Pub. L. 85–866, title I, § 55](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1645](https://www.govinfo.gov/link/statute/72/1645); [Pub. L. 91–686, § 2(a)](https://www.govinfo.gov/link/plaw/91/public/686), Jan. 12, 1971, [84 Stat. 2071](https://www.govinfo.gov/link/statute/84/2071); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(a)(138), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1787](https://www.govinfo.gov/link/statute/90/1787), 1834; [Pub. L. 104–188, title I, § 1314](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1785](https://www.govinfo.gov/link/statute/110/1785).)*

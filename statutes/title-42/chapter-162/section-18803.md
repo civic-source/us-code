@@ -3,9 +3,10 @@ title: "Section 18803 - Commercial building energy consumption information shari
 usc_title: 42
 usc_section: "18803"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18803"
-generated_at: "2026-03-30T02:56:11.531Z"
+generated_at: "2026-11-23T21:26:33.852Z"
+status: "active"
 ---
 
 # § 18803. Commercial building energy consumption information sharing
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:11.531Z"
   - **(1)** section 552(b)(4) of title 5 (commonly known as the “Freedom of Information Act”);
   - **(2)** subchapter III of chapter 35 of title 44; and
   - **(3)** any other applicable law (including regulations).
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title V, § 40514](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1061](https://www.govinfo.gov/link/statute/135/1061).)*

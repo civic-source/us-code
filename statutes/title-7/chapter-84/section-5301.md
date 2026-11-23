@@ -3,9 +3,10 @@ title: "Section 5301 - Congressional statement of purposes"
 usc_title: 7
 usc_section: "5301"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 5301"
-generated_at: "2026-03-30T02:53:42.413Z"
+generated_at: "2026-11-23T21:25:28.358Z"
+status: "active"
 ---
 
 # § 5301. Congressional statement of purposes
@@ -19,3 +20,7 @@ The purposes of this chapter are to—
   - **(5)** establish a central Federal focus for the coordination, management, and direction of Federal nutrition monitoring activities;
   - **(6)** establish mechanisms for addressing the nutrition monitoring needs of Federal, State, and local governments, the private sector, scientific and engineering communities, health care professionals, and the public in support of the foregoing purposes; and
   - **(7)** provide for the conduct of such scientific research and development as may be necessary or appropriate in support of such purposes.
+
+## Source Credit
+
+*([Pub. L. 101–445, § 2](https://www.govinfo.gov/link/plaw/101/public/445), Oct. 22, 1990, [104 Stat. 1034](https://www.govinfo.gov/link/statute/104/1034).)*

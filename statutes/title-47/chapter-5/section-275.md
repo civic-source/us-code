@@ -3,9 +3,10 @@ title: "Section 275 - Alarm monitoring services"
 usc_title: 47
 usc_section: "275"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 275"
-generated_at: "2026-03-30T02:56:24.503Z"
+generated_at: "2026-11-23T21:26:35.975Z"
+status: "active"
 ---
 
 # § 275. Alarm monitoring services
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:24.503Z"
 - **(e)** The term “alarm monitoring service” means a service that uses a device located at a residence, place of business, or other fixed premises—
   - **(1)** to receive signals from other devices located at or about such premises regarding a possible threat at such premises to life, safety, or property, from burglary, fire, vandalism, bodily injury, or other emergency, and
   - **(2)** to transmit a signal regarding such threat by means of transmission facilities of a local exchange carrier or one of its affiliates to a remote monitoring center to alert a person at such center of the need to inform the customer or another person or police, fire, rescue, security, or public safety personnel of such threat,
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title II, § 275, as added [Pub. L. 104–104, title I, § 151(a)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 105](https://www.govinfo.gov/link/statute/110/105).)*

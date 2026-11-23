@@ -3,9 +3,10 @@ title: "Section 9306 - Surety corporations acting outside area of incorporation 
 usc_title: 31
 usc_section: "9306"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 9306"
-generated_at: "2026-03-30T02:55:34.077Z"
+generated_at: "2026-11-23T21:26:10.658Z"
+status: "active"
 ---
 
 # § 9306. Surety corporations acting outside area of incorporation and place of principal office
@@ -20,3 +21,16 @@ generated_at: "2026-03-30T02:55:34.077Z"
     - **(A)** immediately shall mail a copy of the process to the corporation; and
     - **(B)** shall state in the official’s return that the official served the process on the clerk of the court.
   - **(3)** A judgment or order of a court entered or made after service of process under this section is as valid as if the corporation were served in the judicial district of the court.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 9306 | 6:7. |  |
+
+
+Historical and Revision Notes
+
+9306
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1048](https://www.govinfo.gov/link/statute/96/1048); [Pub. L. 106–113, div. B, § 1000(a)(9) [title V, § 5007]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–594.)*

@@ -3,9 +3,10 @@ title: "Section 47142 - Alternative project delivery"
 usc_title: 49
 usc_section: "47142"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 47142"
-generated_at: "2026-03-30T02:56:19.405Z"
+generated_at: "2026-11-23T21:26:40.988Z"
+status: "active"
 ---
 
 # § 47142. Alternative project delivery
@@ -41,3 +42,29 @@ generated_at: "2026-03-30T02:56:19.405Z"
     - **(A)** includes, at a minimum, the sponsor, builder, and architect-engineer as parties that are subject to the terms of the contract;
     - **(B)** aligns the interests of all the parties to the contract with respect to the project costs and project outcomes; and
     - **(C)** includes processes to ensure transparency and collaboration among all parties to the contract relating to project costs and project outcomes.
+
+In General
+
+Reimbursement of Costs
+
+Pilot Program.—
+
+Pilot program
+
+Application.—
+
+Eligibility
+
+Approval
+
+Reimbursement of costs.—
+
+In general
+
+Accounting
+
+Covered Project Delivery Contract Defined
+
+## Source Credit
+
+*(Added [Pub. L. 108–176, title I, § 181(a)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2515](https://www.govinfo.gov/link/statute/117/2515); amended [Pub. L. 118–63, title VII, § 723(a)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1265](https://www.govinfo.gov/link/statute/138/1265).)*

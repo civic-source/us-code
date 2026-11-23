@@ -3,9 +3,10 @@ title: "Section 1502 - Purpose; definitions; protection of information; relation
 usc_title: 7
 usc_section: "1502"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1502"
-generated_at: "2026-03-30T02:53:42.317Z"
+generated_at: "2026-11-23T21:25:28.091Z"
+status: "active"
 ---
 
 # § 1502. Purpose; definitions; protection of information; relation to other laws
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:53:42.317Z"
     - **(A)** be subject to the jurisdiction of the Commodity Futures Trading Commission or the Securities and Exchange Commission; or
     - **(B)** be considered to be accounts, agreements (including any transaction that is of the character of, or is commonly known to the trade as, an “option”, “privilege”, “indemnity”, “bid”, “offer”, “put”, “call”, “advance guaranty”, or “decline guaranty”), or transactions involving contracts of sale of a commodity for future delivery, traded or executed on a contract market for the purposes of the Commodity Exchange Act ( 7 U.S.C. 1 et seq.).
   - **(2)** Nothing in this subchapter affects the jurisdiction of the Commodity Futures Trading Commission or the applicability of the Commodity Exchange Act ( 7 U.S.C. 1 et seq.) to any transaction conducted on a contract market under that Act by an approved insurance provider to offset the approved insurance provider’s risk under a plan or policy of insurance under this subchapter.
+
+## Source Credit
+
+*(Feb. 16, 1938, ch. 30, title V, § 502, [52 Stat. 72](https://www.govinfo.gov/link/statute/52/72); June 21, 1941, ch. 214, § 1, [55 Stat. 255](https://www.govinfo.gov/link/statute/55/255); Aug. 1, 1947, ch. 440, § 4, [61 Stat. 719](https://www.govinfo.gov/link/statute/61/719); [Pub. L. 103–354, title I, § 102(a)](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3180](https://www.govinfo.gov/link/statute/108/3180); [Pub. L. 106–224, title I](https://www.govinfo.gov/link/plaw/106/public/224), §§ 122, 141, June 20, 2000, [114 Stat. 377](https://www.govinfo.gov/link/statute/114/377), 389; [Pub. L. 110–234, title XII](https://www.govinfo.gov/link/plaw/110/public/234), §§ 12001, 12033(c)(2)(B), May 22, 2008, [122 Stat. 1371](https://www.govinfo.gov/link/statute/122/1371), 1405; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XII, §§ 12001, 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2133, 2167; [Pub. L. 113–79, title XI](https://www.govinfo.gov/link/plaw/113/public/79), §§ 11001, 11016(a), 11027(a), Feb. 7, 2014, [128 Stat. 954](https://www.govinfo.gov/link/statute/128/954), 963, 977; [Pub. L. 115–334, title XI, § 11101](https://www.govinfo.gov/link/plaw/115/public/334), title XII, § 12306(b)(1), Dec. 20, 2018, [132 Stat. 4919](https://www.govinfo.gov/link/statute/132/4919), 4968; [Pub. L. 119–21, title I, § 10501(a)(1)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 103](https://www.govinfo.gov/link/statute/139/103).)*

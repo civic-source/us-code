@@ -3,9 +3,10 @@ title: "Section 543 - Turnover of property by a custodian"
 usc_title: 11
 usc_section: "543"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 543"
-generated_at: "2026-03-30T02:53:53.879Z"
+generated_at: "2026-11-23T21:25:34.925Z"
+status: "active"
 ---
 
 # § 543. Turnover of property by a custodian
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:53.879Z"
 - **(d)** After notice and hearing, the bankruptcy court—
   - **(1)** may excuse compliance with subsection (a), (b), or (c) of this section if the interests of creditors and, if the debtor is not insolvent, of equity security holders would be better served by permitting a custodian to continue in possession, custody, or control of such property, and
   - **(2)** shall excuse compliance with subsections (a) and (b)(1) of this section if the custodian is an assignee for the benefit of the debtor’s creditors that was appointed or took possession more than 120 days before the date of the filing of the petition, unless compliance with such subsections is necessary to prevent fraud or injustice.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2595](https://www.govinfo.gov/link/statute/92/2595); [Pub. L. 98–353, title III, § 458](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 376](https://www.govinfo.gov/link/statute/98/376); [Pub. L. 103–394, title V, § 501(d)(17)](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4146](https://www.govinfo.gov/link/statute/108/4146).)*

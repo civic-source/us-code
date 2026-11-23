@@ -3,9 +3,10 @@ title: "Section 8501 - Promotion of outdoor recreation for military servicemembe
 usc_title: 16
 usc_section: "8501"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8501"
-generated_at: "2026-03-30T02:54:23.087Z"
+generated_at: "2026-11-23T21:25:52.081Z"
+status: "active"
 ---
 
 # § 8501. Promotion of outdoor recreation for military servicemembers and veterans
@@ -20,3 +21,7 @@ Not later than 2 years after January 4, 2025 , the Secretary concerned, in coord
   - **(6)** the benefits of outdoor recreation for physical and mental health;
   - **(7)** resources to access guided outdoor trips and other outdoor programs connected to the Department of Defense, the Department of Veterans Affairs, the Department of the Interior, or the Department of Agriculture; and
   - **(8)** programs and jobs focused on continuing national service such as Public Land Corps, AmeriCorps, and conservation corps programs.
+
+## Source Credit
+
+*([Pub. L. 118–234, title II, § 221](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2886](https://www.govinfo.gov/link/statute/138/2886).)*

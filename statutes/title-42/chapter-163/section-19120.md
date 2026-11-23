@@ -3,9 +3,10 @@ title: "Section 19120 - Evaluation"
 usc_title: 42
 usc_section: "19120"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19120"
-generated_at: "2026-03-30T02:56:11.540Z"
+generated_at: "2026-11-23T21:26:33.873Z"
+status: "active"
 ---
 
 # § 19120. Evaluation
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.540Z"
   - **(4)** a description of lessons learned from operation of the Directorate; and
   - **(5)** recommended funding levels for the Directorate;
 - **(c)** On completion of the evaluation, the evaluation shall be made available to Congress and the public.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10399A](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1598](https://www.govinfo.gov/link/statute/136/1598).)*

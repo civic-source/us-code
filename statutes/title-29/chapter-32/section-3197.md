@@ -3,9 +3,10 @@ title: "Section 3197 - Job Corps centers"
 usc_title: 29
 usc_section: "3197"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3197"
-generated_at: "2026-03-30T02:55:18.755Z"
+generated_at: "2026-11-23T21:26:02.342Z"
+status: "active"
 ---
 
 # § 3197. Job Corps centers
@@ -77,3 +78,7 @@ generated_at: "2026-03-30T02:55:18.755Z"
     - **(B)** has adequate financial resources to perform the agreement;
     - **(C)** has the necessary organization, experience, accounting and operational controls, and technical skills; and
     - **(D)** is otherwise qualified and eligible under applicable laws and regulations, including that the contractor is not under suspension or debarred from eligibility for Federal contracts.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 147](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1542](https://www.govinfo.gov/link/statute/128/1542).)*

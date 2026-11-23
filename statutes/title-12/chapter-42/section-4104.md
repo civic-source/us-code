@@ -3,9 +3,10 @@ title: "Section 4104 - Annual authorized return and preservation rents"
 usc_title: 12
 usc_section: "4104"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4104"
-generated_at: "2026-03-30T02:53:53.500Z"
+generated_at: "2026-11-23T21:25:37.161Z"
+status: "active"
 ---
 
 # § 4104. Annual authorized return and preservation rents
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:53:53.500Z"
       - **(i)** 30 percent of the tenant’s income; or
       - **(ii)** the amount paid by the tenant for rent and utilities immediately before such refinancing; and
     - **(B)** this paragraph shall not apply to any tenant who does not provide the owner with proof of income.
+
+## Source Credit
+
+*([Pub. L. 100–242, title II, § 214](https://www.govinfo.gov/link/plaw/100/public/242), as added [Pub. L. 101–625, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4251](https://www.govinfo.gov/link/statute/104/4251); amended [Pub. L. 114–94, div. G, title LXXVII, § 77002](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1790](https://www.govinfo.gov/link/statute/129/1790).)*

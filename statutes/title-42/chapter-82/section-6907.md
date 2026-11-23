@@ -3,9 +3,10 @@ title: "Section 6907 - Solid waste management information and guidelines"
 usc_title: 42
 usc_section: "6907"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6907"
-generated_at: "2026-03-30T02:56:11.270Z"
+generated_at: "2026-11-23T21:26:32.993Z"
+status: "active"
 ---
 
 # § 6907. Solid waste management information and guidelines
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.270Z"
   - **(2)** not later than two years after October 21, 1976 , describe levels of performance, including appropriate methods and degrees of control, that provide at a minimum for (A) protection of public health and welfare; (B) protection of the quality of ground waters and surface waters from leachates; (C) protection of the quality of surface waters from runoff through compliance with effluent limitations under the Federal Water Pollution Control Act, as amended [ 33 U.S.C. 1251 et seq.]; (D) protection of ambient air quality through compliance with new source performance standards or requirements of air quality implementation plans under the Clean Air Act, as amended [ 42 U.S.C. 7401 et seq.]; (E) disease and vector control; (F) safety; and (G) esthetics; and
   - **(3)** provide minimum criteria to be used by the States to define those solid waste management practices which constitute the open dumping of solid waste or hazardous waste and are to be prohibited under subchapter IV of this chapter.
 - **(b)** The Administrator shall notify the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives a reasonable time before publishing any suggested guidelines or proposed regulations under this chapter of the content of such proposed suggested guidelines or proposed regulations under this chapter.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 1008](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2803](https://www.govinfo.gov/link/statute/90/2803); amended [Pub. L. 95–609, § 7(c)](https://www.govinfo.gov/link/plaw/95/public/609), (d), Nov. 8, 1978, [92 Stat. 3081](https://www.govinfo.gov/link/statute/92/3081); [Pub. L. 103–437, § 15(r)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4594](https://www.govinfo.gov/link/statute/108/4594).)*

@@ -3,9 +3,10 @@ title: "Section 9610 - Employee protection"
 usc_title: 42
 usc_section: "9610"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9610"
-generated_at: "2026-03-30T02:56:11.358Z"
+generated_at: "2026-11-23T21:26:33.254Z"
+status: "active"
 ---
 
 # § 9610. Employee protection
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.358Z"
 - **(c)** Whenever an order is issued under this section to abate such violation, at the request of the applicant a sum equal to the aggregate amount of all costs and expenses (including the attorney’s fees) determined by the Secretary of Labor to have been reasonably incurred by the applicant for, or in connection with, the institution and prosecution of such proceedings, shall be assessed against the person committing such violation.
 - **(d)** This section shall have no application to any employee who acting without discretion from his employer (or his agent) deliberately violates any requirement of this chapter.
 - **(e)** The President shall conduct continuing evaluations of potential loss of shifts of employment which may result from the administration or enforcement of the provisions of this chapter, including, where appropriate, investigating threatened plant closures or reductions in employment allegedly resulting from such administration or enforcement. Any employee who is discharged, or laid off, threatened with discharge or layoff, or otherwise discriminated against by any person because of the alleged results of such administration or enforcement, or any representative of such employee, may request the President to conduct a full investigation of the matter and, at the request of any party, shall hold public hearings, require the parties, including the employer involved, to present information relating to the actual or potential effect of such administration or enforcement on employment and any alleged discharge, layoff, or other discrimination, and the detailed reasons or justification therefore. 1 1 So in original. Any such hearing shall be of record and shall be subject to section 554 of title 5 . Upon receiving the report of such investigation, the President shall make findings of fact as to the effect of such administration or enforcement on employment and on the alleged discharge, layoff, or discrimination and shall make such recommendations as he deems appropriate. Such report, findings, and recommendations shall be available to the public. Nothing in this subsection shall be construed to require or authorize the President or any State to modify or withdraw any action, standard, limitation, or any other requirement of this chapter.
+
+## Source Credit
+
+*([Pub. L. 96–510, title I, § 110](https://www.govinfo.gov/link/plaw/96/public/510), Dec. 11, 1980, [94 Stat. 2787](https://www.govinfo.gov/link/statute/94/2787).)*

@@ -3,9 +3,10 @@ title: "Section 124m - Classified Information Advisory Officer"
 usc_title: 6
 usc_section: "124m"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 124m"
-generated_at: "2026-03-30T02:53:09.445Z"
+generated_at: "2026-11-23T21:25:25.752Z"
+status: "active"
 ---
 
 # § 124m. Classified Information Advisory Officer
@@ -20,3 +21,9 @@ generated_at: "2026-03-30T02:53:09.445Z"
 - **(c)** Not later than 90 days after October 7, 2010 , the Secretary shall—
   - **(1)** designate the initial Classified Information Advisory Officer; and
   - **(2)** submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a written notification of the designation.
+
+“Congress finds the following:
+
+## Source Credit
+
+*([Pub. L. 107–296, title II, § 210E](https://www.govinfo.gov/link/plaw/107/public/296), formerly § 210F, as added [Pub. L. 111–258, § 4(a)](https://www.govinfo.gov/link/plaw/111/public/258), Oct. 7, 2010, [124 Stat. 2649](https://www.govinfo.gov/link/statute/124/2649); renumbered § 210E, [Pub. L. 115–278, § 2(g)(2)(J)](https://www.govinfo.gov/link/plaw/115/public/278), Nov. 16, 2018, [132 Stat. 4178](https://www.govinfo.gov/link/statute/132/4178).)*

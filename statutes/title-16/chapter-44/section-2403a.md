@@ -3,9 +3,10 @@ title: "Section 2403a - Environmental impact assessment"
 usc_title: 16
 usc_section: "2403a"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2403a"
-generated_at: "2026-03-30T02:54:23.001Z"
+generated_at: "2026-11-23T21:25:51.947Z"
+status: "active"
 ---
 
 # § 2403a. Environmental impact assessment
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:23.001Z"
 - **(f)** Notwithstanding any other provision of law, the requirements of this section shall constitute the sole and exclusive statutory obligations of the Federal agencies with regard to assessing the environmental impacts of proposed Federal activities occurring in Antarctica.
 - **(g)** The provisions of this section requiring environmental impact assessments (including initial environmental evaluations and comprehensive environmental evaluations) shall not apply to Federal actions with respect to issuing permits under section 2404 of this title .
 - **(h)** Whenever the Secretary of State makes a determination under paragraph (2) of subsection (b) of this section, or receives a draft comprehensive environmental evaluation in accordance with Annex I, Article 3(3) to the Protocol, the Secretary of State shall cause timely notice thereof to be published in the Federal Register.
+
+## Source Credit
+
+*([Pub. L. 95–541, § 4A](https://www.govinfo.gov/link/plaw/95/public/541), as added [Pub. L. 104–227, title I, § 104](https://www.govinfo.gov/link/plaw/104/public/227), Oct. 2, 1996, [110 Stat. 3038](https://www.govinfo.gov/link/statute/110/3038).)*

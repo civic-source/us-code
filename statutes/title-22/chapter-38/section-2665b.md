@@ -3,9 +3,10 @@ title: "Section 2665b - Veterans Innovation Partnership Fellowship Program"
 usc_title: 22
 usc_section: "2665b"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2665b"
-generated_at: "2026-03-30T02:55:05.377Z"
+generated_at: "2026-11-23T21:25:58.523Z"
+status: "active"
 ---
 
 # § 2665b. Veterans Innovation Partnership Fellowship Program
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.377Z"
   - **(2)** leverage the skills, leadership, and expertise of veterans to enhance the work of the Department and other participating agencies; and
   - **(3)** support the transition of veterans into public service careers, particularly in foreign affairs.
 - **(d)** The program required by subsection (a) shall be administered by the Department, consistent with existing law and regulations, and in coordination with relevant Federal departments and agencies and veteran-serving organizations.
+
+## Source Credit
+
+*([Pub. L. 119–60, div. E, title I, § 5133](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1567](https://www.govinfo.gov/link/statute/139/1567).)*

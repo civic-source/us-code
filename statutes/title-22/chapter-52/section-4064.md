@@ -3,9 +3,10 @@ title: "Section 4064 - Reemployment"
 usc_title: 22
 usc_section: "4064"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4064"
-generated_at: "2026-03-30T02:55:05.404Z"
+generated_at: "2026-11-23T21:25:58.618Z"
+status: "active"
 ---
 
 # § 4064. Reemployment
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:55:05.404Z"
       - **(ii)** to provide assistance to meet the demand resulting from the passport and travel document requirements set forth in section 7209(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 ( Public Law 108–458 ; 8 U.S.C. 1185 note), including assistance related to the investigation of fraud in connection with an application for a passport.
   - **(2)** The Secretary should prescribe procedures for the exercise of any authority under paragraph (1)(B), including criteria for any exercise of authority and procedures for a delegation of authority.
 - **(h)** A reemployed annuitant as to whom a waiver under subsection (g) is in effect shall not be considered a participant for purposes of this part or part II, or an employee for purposes of chapter 83 or 84 of title 5.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 824](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2122](https://www.govinfo.gov/link/statute/94/2122); [Pub. L. 99–335, title IV](https://www.govinfo.gov/link/plaw/99/public/335), §§ 402(a)(2), 410, June 6, 1986, [100 Stat. 609](https://www.govinfo.gov/link/statute/100/609), 613; [Pub. L. 99–556, title IV, § 403](https://www.govinfo.gov/link/plaw/99/public/556), Oct. 27, 1986, [100 Stat. 3136](https://www.govinfo.gov/link/statute/100/3136); [Pub. L. 105–277, div. C, title I, § 103](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–585](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 109–234, title I, § 1602(a)](https://www.govinfo.gov/link/plaw/109/public/234), June 15, 2006, [120 Stat. 440](https://www.govinfo.gov/link/statute/120/440); [Pub. L. 109–289, div. B, title II, § 20941](https://www.govinfo.gov/link/plaw/109/public/289), as added [Pub. L. 110–5, § 2](https://www.govinfo.gov/link/plaw/110/public/5), Feb. 15, 2007, [121 Stat. 46](https://www.govinfo.gov/link/statute/121/46); [Pub. L. 110–50, § 2](https://www.govinfo.gov/link/plaw/110/public/50), July 30, 2007, [121 Stat. 261](https://www.govinfo.gov/link/statute/121/261); [Pub. L. 110–321, § 1](https://www.govinfo.gov/link/plaw/110/public/321), Sept. 19, 2008, [122 Stat. 3535](https://www.govinfo.gov/link/statute/122/3535); [Pub. L. 111–32, title XI, § 1115(c)(1)](https://www.govinfo.gov/link/plaw/111/public/32), June 24, 2009, [123 Stat. 1905](https://www.govinfo.gov/link/statute/123/1905); [Pub. L. 114–323, title IV, § 405(a)](https://www.govinfo.gov/link/plaw/114/public/323), Dec. 16, 2016, [130 Stat. 1929](https://www.govinfo.gov/link/statute/130/1929).)*

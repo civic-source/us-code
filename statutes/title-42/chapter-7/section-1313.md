@@ -3,9 +3,10 @@ title: "Section 1313 - Assistance for United States citizens returned from forei
 usc_title: 42
 usc_section: "1313"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1313"
-generated_at: "2026-03-30T02:56:10.904Z"
+generated_at: "2026-11-23T21:26:31.236Z"
+status: "active"
 ---
 
 # § 1313. Assistance for United States citizens returned from foreign countries
@@ -20,3 +21,9 @@ generated_at: "2026-03-30T02:56:10.904Z"
 - **(e)**
   - **(1)** The Secretary may accept on behalf of the United States gifts, in cash or in kind, for use in carrying out the program established under this section. Gifts in the form of cash shall be credited to the appropriation account from which this program is funded, in addition to amounts otherwise appropriated, and shall remain available until expended.
   - **(2)** Gifts accepted under paragraph (1) shall be available for obligation or other use by the United States only to the extent and in the amounts provided in appropriation Acts.
+
+“During the emergency period described in section 1135(g)(1)(B) of the Social Security Act ( 42 U.S.C. 1320b–5(g)(1)(B) ), in providing temporary assistance under section 1113 of such Act ( 42 U.S.C. 1313 ), no employee of the Administration for Children and Families of the Department of Health and Human Services shall have direct, in-person contact with an individual specified in section 1113(a)(1) of such Act ( 42 U.S.C. 1313(a)(1) ), except in the case of a uniformed member of the Regular Corps or the Ready Reserve Corps of the Commissioned Corps of the Public Health Service (as described in section 203 of the Public Health Service Act ( 42 U.S.C. 204 )) in an active duty status who, as determined by the Secretary of Health and Human Services, has—
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XI, § 1113, as added [Pub. L. 87–64, title III, § 302](https://www.govinfo.gov/link/plaw/87/public/64), June 30, 1961, [75 Stat. 142](https://www.govinfo.gov/link/statute/75/142); amended [Pub. L. 87–543, title I, § 133](https://www.govinfo.gov/link/plaw/87/public/543), July 25, 1962, [76 Stat. 196](https://www.govinfo.gov/link/statute/76/196); [Pub. L. 88–347](https://www.govinfo.gov/link/plaw/88/public/347), June 30, 1964, [78 Stat. 236](https://www.govinfo.gov/link/statute/78/236); [Pub. L. 90–36, § 2](https://www.govinfo.gov/link/plaw/90/public/36), June 29, 1967, [81 Stat. 94](https://www.govinfo.gov/link/statute/81/94); [Pub. L. 90–248, title V, § 503](https://www.govinfo.gov/link/plaw/90/public/248), Jan. 2, 1968, [81 Stat. 934](https://www.govinfo.gov/link/statute/81/934); [Pub. L. 91–41, § 4](https://www.govinfo.gov/link/plaw/91/public/41), July 9, 1969, [83 Stat. 45](https://www.govinfo.gov/link/statute/83/45); [Pub. L. 92–40](https://www.govinfo.gov/link/plaw/92/public/40), July 1, 1971, [85 Stat. 96](https://www.govinfo.gov/link/statute/85/96); [Pub. L. 94–44](https://www.govinfo.gov/link/plaw/94/public/44), §§ 1, 2, June 28, 1975, [89 Stat. 235](https://www.govinfo.gov/link/statute/89/235); [Pub. L. 101–382, title I, § 140](https://www.govinfo.gov/link/plaw/101/public/382), Aug. 20, 1990, [104 Stat. 654](https://www.govinfo.gov/link/statute/104/654); [Pub. L. 101–508, title V, § 5056(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–229](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 108–11, title I, § 1701](https://www.govinfo.gov/link/plaw/108/public/11), Apr. 16, 2003, [117 Stat. 585](https://www.govinfo.gov/link/statute/117/585); [Pub. L. 109–250, § 1(a)](https://www.govinfo.gov/link/plaw/109/public/250), July 27, 2006, [120 Stat. 652](https://www.govinfo.gov/link/statute/120/652); [Pub. L. 111–127, § 2](https://www.govinfo.gov/link/plaw/111/public/127), Jan. 27, 2010, [124 Stat. 4](https://www.govinfo.gov/link/statute/124/4); [Pub. L. 115–57, § 2(a)](https://www.govinfo.gov/link/plaw/115/public/57), Sept. 12, 2017, [131 Stat. 1148](https://www.govinfo.gov/link/statute/131/1148); [Pub. L. 116–148, § 2(a)](https://www.govinfo.gov/link/plaw/116/public/148), July 13, 2020, [134 Stat. 661](https://www.govinfo.gov/link/statute/134/661); [Pub. L. 117–39, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/39), Aug. 31, 2021, [135 Stat. 336](https://www.govinfo.gov/link/statute/135/336).)*

@@ -3,9 +3,10 @@ title: "Section 2193 - Resolutions relating to extension of waiver authority und
 usc_title: 19
 usc_section: "2193"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2193"
-generated_at: "2026-03-30T02:54:24.666Z"
+generated_at: "2026-11-23T21:25:42.777Z"
+status: "active"
 ---
 
 # § 2193. Resolutions relating to extension of waiver authority under section 402 of the Trade Act of 1974
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:24.666Z"
 - **(d)**
   - **(1)** Consideration in the Senate of the conference report on any joint resolution described in subsection (a), including consideration of all amendments in disagreement (and all amendments thereto), and consideration of all debatable motions and appeals in connection therewith, shall be limited to 10 hours, to be equally divided between, and controlled by, the majority leader and the minority leader or their designees. Debate on any debatable motion or appeal related to the conference report shall be limited to 1 hour, to be equally divided between, and controlled by, the mover and the manager of the conference report.
   - **(2)** In any case in which there are amendments in disagreement, time on each amendment shall be limited to 30 minutes, to be equally divided between, and controlled by, the manager of the conference report and the minority leader or his designee. No amendment to any amendment in disagreement shall be received unless it is a germane amendment.
+
+## Source Credit
+
+*([Pub. L. 93–618, title I, § 153](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 2006](https://www.govinfo.gov/link/statute/88/2006); [Pub. L. 101–382, title I, § 132(a)(3)](https://www.govinfo.gov/link/plaw/101/public/382) –(6), Aug. 20, 1990, [104 Stat. 644](https://www.govinfo.gov/link/statute/104/644), 645.)*

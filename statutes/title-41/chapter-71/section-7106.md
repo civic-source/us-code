@@ -3,9 +3,10 @@ title: "Section 7106 - Agency board procedures for accelerated and small claims"
 usc_title: 41
 usc_section: "7106"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 7106"
-generated_at: "2026-03-30T02:55:55.811Z"
+generated_at: "2026-11-23T21:26:18.834Z"
+status: "active"
 ---
 
 # § 7106. Agency board procedures for accelerated and small claims
@@ -18,3 +19,69 @@ generated_at: "2026-03-30T02:55:55.811Z"
   - **(4)** A decision against the Federal Government or against the contractor reached under the small claims procedure is final and conclusive and may not be set aside except in cases of fraud.
   - **(5)** Administrative determinations and final decisions under this subsection have no value as precedent for future cases under this chapter.
   - **(6)** The Administrator, from time to time, may review the dollar amounts specified in paragraph (1) and adjust the amounts in accordance with economic indexes selected by the Administrator.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 7106(a) | 41:607(f). | Pub. L. 95–563, § 8(f) , Nov. 1, 1978 , 92 Stat. 2386 ; Pub. L. 103–355, title II, § 2351(c) , Oct. 13, 1994 , 108 Stat. 3322 . |
+| 7106(b) | 41:608. | Pub. L. 95–563, § 9 , Nov. 1, 1978 , 92 Stat. 2387 ; Pub. L. 103–355, title II, § 2351(d) , Oct. 13, 1994 , 108 Stat 3322; Pub. L. 109–364, div. A, title VIII, § 857 , Oct. 17, 2006 , 120 Stat. 2349 . |
+
+
+Accelerated Procedure Where
+
+or Less in Dispute
+
+Small Claims Procedure.—
+
+In general
+
+Simplified rules of procedure
+
+Time of decision
+
+Finality of decision
+
+No precedent
+
+Review of requisite amounts in controversy
+
+Historical and Revision Notes
+
+7106(a)
+
+Pub. L. 95–563, § 8(f)
+
+Nov. 1, 1978
+
+92 Stat. 2386
+
+Pub. L. 103–355, title II, § 2351(c)
+
+Oct. 13, 1994
+
+108 Stat. 3322
+
+7106(b)
+
+Pub. L. 95–563, § 9
+
+Nov. 1, 1978
+
+92 Stat. 2387
+
+Pub. L. 103–355, title II, § 2351(d)
+
+Oct. 13, 1994
+
+Pub. L. 109–364, div. A, title VIII, § 857
+
+Oct. 17, 2006
+
+120 Stat. 2349
+
+amounts
+
+amount
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3823](https://www.govinfo.gov/link/statute/124/3823).)*

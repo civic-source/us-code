@@ -3,9 +3,10 @@ title: "Section 8743 - Identification of, and imposition of measures with respec
 usc_title: 22
 usc_section: "8743"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8743"
-generated_at: "2026-03-30T02:55:05.456Z"
+generated_at: "2026-11-23T21:25:58.752Z"
+status: "active"
 ---
 
 # § 8743. Identification of, and imposition of measures with respect to, foreign government agencies carrying out activities or transactions with certain Iran-affiliated persons
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:55:05.456Z"
 - **(f)** This section shall take effect on August 10, 2012 , and apply with respect to activities and transactions described in subsection (a) that are carried out on or after the later of—
   - **(1)** the date that is 45 days after August 10, 2012 ; or
   - **(2)** the date that is 45 days after a person is designated as described in subparagraph (A) or (B) of subsection (a)(2).
+
+## Source Credit
+
+*([Pub. L. 112–158, title III, § 303](https://www.govinfo.gov/link/plaw/112/public/158), Aug. 10, 2012, [126 Stat. 1245](https://www.govinfo.gov/link/statute/126/1245).)*

@@ -3,9 +3,10 @@ title: "Section 2266 - Definitions"
 usc_title: 18
 usc_section: "2266"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2266"
-generated_at: "2026-03-30T02:54:16.500Z"
+generated_at: "2026-11-23T21:25:44.131Z"
+status: "active"
 ---
 
 # § 2266. Definitions
@@ -38,3 +39,33 @@ In this chapter:
   - **(11)** The term “pet” means a domesticated animal, such as a dog, cat, bird, rodent, fish, turtle, or other animal that is kept for pleasure rather than for commercial purposes.
   - **(12)** The term “emotional support animal” means an animal that is covered by the exclusion specified in section 5.303 of title 24, Code of Federal Regulations (or a successor regulation), and that is not a service animal.
   - **(13)** The term “service animal” has the meaning given the term in section 36.104 of title 28, Code of Federal Regulations (or a successor regulation).
+
+Bodily injury
+
+Course of conduct
+
+Enter or leave indian country
+
+Indian country
+
+Protection order
+
+Serious bodily injury
+
+Spouse or intimate partner
+
+State
+
+Travel in interstate or foreign commerce
+
+Dating partner
+
+Pet
+
+Emotional support animal
+
+Service animal
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title IV, § 40221(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1931](https://www.govinfo.gov/link/statute/108/1931); amended [Pub. L. 106–386, div. B, title I, § 1107(d)](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1499](https://www.govinfo.gov/link/statute/114/1499); [Pub. L. 109–162, title I](https://www.govinfo.gov/link/plaw/109/public/162), §§ 106(d), 116(b), Jan. 5, 2006, [119 Stat. 2982](https://www.govinfo.gov/link/statute/119/2982), 2988; [Pub. L. 109–271, § 2(c)](https://www.govinfo.gov/link/plaw/109/public/271), (i), Aug. 12, 2006, [120 Stat. 752](https://www.govinfo.gov/link/statute/120/752); [Pub. L. 115–334, title XII, § 12502(a)(4)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4983](https://www.govinfo.gov/link/statute/132/4983).)*

@@ -3,9 +3,10 @@ title: "Section 1616a - Disposition of forfeited property"
 usc_title: 19
 usc_section: "1616a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1616a"
-generated_at: "2026-03-30T02:54:24.647Z"
+generated_at: "2026-11-23T21:25:42.734Z"
+status: "active"
 ---
 
 # § 1616a. Disposition of forfeited property
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:24.647Z"
     - **(C)** is made to a country which, if applicable, has been certified under section 2291j(b) of title 22 .
   - **(3)** Aircraft may be transferred to the Civil Air Patrol under paragraph (1)(B)(iii) in support of air search and rescue and other emergency services and, pursuant to a memorandum of understanding entered into with a Federal agency, illegal drug traffic surveillance. Jet-powered aircraft may not be transferred to the Civil Air Patrol under the authority of paragraph (1)(B)(iii).
 - **(d)** The United States shall not be liable in any action relating to property transferred under this section if such action is based on an act or omission occurring after the transfer.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 616, as added [Pub. L. 98–573, title II, § 213(a)(14)](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 2987](https://www.govinfo.gov/link/statute/98/2987); amended [Pub. L. 99–570, title I, § 1863(a)](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–54](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 100–690, title VII, § 7366(a)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4478](https://www.govinfo.gov/link/statute/102/4478); [Pub. L. 101–207, § 3(e)](https://www.govinfo.gov/link/plaw/101/public/207), Dec. 7, 1989, [103 Stat. 1834](https://www.govinfo.gov/link/statute/103/1834); [Pub. L. 103–447, title I, § 102(c)](https://www.govinfo.gov/link/plaw/103/public/447), Nov. 2, 1994, [108 Stat. 4693](https://www.govinfo.gov/link/statute/108/4693).)*

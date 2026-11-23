@@ -3,9 +3,10 @@ title: "Section 9007 - Examinations and audits; repayments"
 usc_title: 26
 usc_section: "9007"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 9007"
-generated_at: "2026-03-30T02:55:27.889Z"
+generated_at: "2026-11-23T21:26:07.028Z"
+status: "active"
 ---
 
 # § 9007. Examinations and audits; repayments
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:27.889Z"
   - **(5)** No payment shall be required from the eligible candidates of a political party under this subsection to the extent that such payment, when added to other payments required from such candidates under this subsection, exceeds the amount of payments received by such candidates under section 9006.
 - **(c)** No notification shall be made by the Commission under subsection (b) with respect to a presidential election more than 3 years after the day of such election.
 - **(d)** All payments received by the Secretary of the Treasury under subsection (b) shall be deposited by him in the general fund of the Treasury.
+
+## Source Credit
+
+*(Added [Pub. L. 92–178, title VIII, § 801](https://www.govinfo.gov/link/plaw/92/public/178), Dec. 10, 1971, [85 Stat. 568](https://www.govinfo.gov/link/statute/85/568); amended [Pub. L. 93–53, § 6(c)](https://www.govinfo.gov/link/plaw/93/public/53), July 1, 1973, [87 Stat. 139](https://www.govinfo.gov/link/statute/87/139); [Pub. L. 93–443, title IV, § 404(c)(9)](https://www.govinfo.gov/link/plaw/93/public/443) –(11), Oct. 15, 1974, [88 Stat. 1292](https://www.govinfo.gov/link/statute/88/1292); [Pub. L. 94–283, title III, § 307(e)](https://www.govinfo.gov/link/plaw/94/public/283), May 11, 1976, [90 Stat. 502](https://www.govinfo.gov/link/statute/90/502); [Pub. L. 94–455, title XIX, § 1906(b)(13)(B)](https://www.govinfo.gov/link/plaw/94/public/455), (C), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834).)*

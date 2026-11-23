@@ -3,12 +3,17 @@ title: "Section 1643m - Exclusivity of Foreign Claims Settlement Commission cert
 usc_title: 22
 usc_section: "1643m"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1643m"
-generated_at: "2026-03-30T02:55:05.337Z"
+generated_at: "2026-11-23T21:25:58.410Z"
+status: "active"
 ---
 
 # § 1643m. Exclusivity of Foreign Claims Settlement Commission certification procedure
 
 - **(a)** Subject to subsection (b), neither any national of the United States who was eligible to file a claim under section 1643b of this title but did not timely file such claim under that section, nor any person who was ineligible to file a claim under section 1643b of this title , nor any national of Cuba, including any agency, instrumentality, subdivision, or enterprise of the Government of Cuba or any local government of Cuba, nor any successor thereto, whether or not recognized by the United States, shall have a claim to, participate in, or otherwise have an interest in, the compensation proceeds or nonmonetary compensation paid or allocated to a national of the United States by virtue of a claim certified by the Commission under section 1643f of this title , nor shall any district court of the United States have jurisdiction to adjudicate any such claim.
 - **(b)** Nothing in subsection (a) shall be construed to detract from or otherwise affect any rights in the shares of capital stock of nationals of the United States owning claims certified by the Commission under section 1643f of this title .
+
+## Source Credit
+
+*(Mar. 10, 1950, ch. 54, title V, § 515, as added [Pub. L. 104–114, title III, § 304](https://www.govinfo.gov/link/plaw/104/public/114), Mar. 12, 1996, [110 Stat. 821](https://www.govinfo.gov/link/statute/110/821).)*

@@ -3,9 +3,10 @@ title: "Section 10198 - Research and development on spent nuclear fuel"
 usc_title: 42
 usc_section: "10198"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10198"
-generated_at: "2026-03-30T02:56:11.384Z"
+generated_at: "2026-11-23T21:26:33.350Z"
+status: "active"
 ---
 
 # § 10198. Research and development on spent nuclear fuel
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.384Z"
 - **(e)** The spent nuclear fuel storage program authorized in section 10155 of this title shall not be construed to authorize the use of research development or demonstration facilities owned by the Department unless—
   - **(1)** a period of 30 calendar days (not including any day in which either House of Congress is not in session because of adjournment of more than 3 calendar days to a day certain) has passed after the Secretary has transmitted to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a written report containing a full and complete statement concerning (A) the facility involved; (B) any necessary modifications; (C) the cost thereof; and (D) the impact on the authorized research and development program; or
   - **(2)** each such committee, before the expiration of such period, has transmitted to the Secretary a written notice to the effect that such committee has no objection to the proposed use of such facility.
+
+## Source Credit
+
+*([Pub. L. 97–425, title II, § 218](https://www.govinfo.gov/link/plaw/97/public/425), Jan. 7, 1983, [96 Stat. 2252](https://www.govinfo.gov/link/statute/96/2252); [Pub. L. 103–437, § 15(c)(10)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4592](https://www.govinfo.gov/link/statute/108/4592).)*

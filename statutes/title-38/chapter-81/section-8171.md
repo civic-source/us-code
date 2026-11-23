@@ -3,9 +3,10 @@ title: "Section 8171 - Definitions"
 usc_title: 38
 usc_section: "8171"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 8171"
-generated_at: "2026-03-30T02:55:53.540Z"
+generated_at: "2026-11-23T21:26:16.912Z"
+status: "active"
 ---
 
 # § 8171. Definitions
@@ -26,3 +27,7 @@ In this subchapter:
       - **(i)** $1,000,000,000 (as adjusted for inflation pursuant to section 1908 of title 41 ) for the total life cycle costs of the project; or
       - **(ii)** $200,000,000 (as adjusted for inflation pursuant to section 1908 of title 41 ) annually.
   - **(6)** The term “business owner” means, with respect to an information technology project, the program manager, project manager, or other supervisory official of the Department responsible for the project.
+
+## Source Credit
+
+*(Added [Pub. L. 117–328, div. U, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5486](https://www.govinfo.gov/link/statute/136/5486).)*

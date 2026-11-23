@@ -3,9 +3,10 @@ title: "Section 2014 - Eligible households"
 usc_title: 7
 usc_section: "2014"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2014"
-generated_at: "2026-03-30T02:53:42.362Z"
+generated_at: "2026-11-23T21:25:28.245Z"
+status: "active"
 ---
 
 # § 2014. Eligible households
@@ -213,7 +214,7 @@ generated_at: "2026-03-30T02:53:42.362Z"
     - **(G)** assistance provided to a third party on behalf of a household under a State or local general assistance program, or another local basic assistance program comparable to general assistance (as determined by the Secretary), if, under State law, no assistance under the program may be provided directly to the household in the form of a cash payment.
   - **(3)** For purposes of subsection (d)(1), educational loans on which payment is deferred, grants, scholarships, fellowships, veterans’ educational benefits, and the like that are provided to a third party on behalf of a household for living expenses shall be treated as money payable directly to the household.
   - **(4)**
-    - **(A)** For purposes of subsection (d)(1), a payment made under a State law (other than a law referred to in paragraph (2)(G) to provide energy assistance to a household without an elderly or disabled member shall be considered money payable directly to the household.
+    - **(A)** For purposes of subsection (d)(1), a payment made under a State law (other than a law referred to in paragraph (2)(G)) to provide energy assistance to a household without an elderly or disabled member shall be considered money payable directly to the household.
     - **(B)** For purposes of subsection (e)(6), an expense paid on behalf of a household with an elderly or disabled member under a State law to provide energy assistance shall be considered an out-of-pocket expense incurred and paid by the household.
 - **(l)** Notwithstanding section 181(a)(2) of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3241(a)(2) ], earnings to individuals participating in on-the-job training under title I of such Act [ 29 U.S.C. 3111 et seq.] shall be considered earned income for purposes of the supplemental nutrition assistance program, except for dependents less than 19 years of age.
 - **(m)**
@@ -221,3 +222,81 @@ generated_at: "2026-03-30T02:53:42.362Z"
   - **(2)** The method submitted by a State under paragraph (1) may allow a State to estimate income for all types of self-employment income or may be limited to 1 or more types of self-employment income.
   - **(3)** The method submitted by a State under paragraph (1) may differ for different types of self-employment income.
 - **(n)** Regardless of whether a State agency elects to provide a deduction under subsection (e)(4), the Secretary shall establish simplified procedures to allow State agencies, at the option of the State agencies, to determine the amount of any legally obligated child support payments made, including procedures to allow the State agency to rely on information from the agency responsible for implementing the program under part D of title IV of the Social Security Act ( 42 U.S.C. 651 et seq.) concerning payments made in prior months in lieu of obtaining current information from the households.
+
+(aa) the State agency has developed 1 or more standards that include the cost of heating and cooling and 1 or more standards that do not include the cost of heating and cooling; and
+
+(bb) the Secretary finds (without regard to subclause (III)) that the standards will not result in an increased cost to the Secretary.
+
+Simplified determination of deductions.—
+
+In general
+
+Changes that may not be disregarded
+
+Total amount.—
+
+In general
+
+Adjustment for inflation.—
+
+In general
+
+Requirement
+
+Included assets.—
+
+In general
+
+Additional included assets
+
+Excluded vehicles
+
+Alternative vehicle allowance
+
+Exclusion of types of financial resources not considered under certain other federal programs.—
+
+In general
+
+Limitations
+
+Exclusion of retirement accounts from allowable financial resources.—
+
+Mandatory exclusions
+
+Discretionary exclusions
+
+Exclusion of education accounts from allowable financial resources.—
+
+Mandatory exclusions
+
+Discretionary exclusions
+
+Third party energy assistance payments.—
+
+Energy assistance payments
+
+Energy assistance expenses
+
+In general
+
+Methods for determining amount
+
+In general
+
+State option to delay implementation for current recipients
+
+In general
+
+Limitation on application of section
+
+Effective Date
+
+Application of Amendment
+
+In general
+
+Payment error rates
+
+## Source Credit
+
+*([Pub. L. 88–525, § 5](https://www.govinfo.gov/link/plaw/88/public/525), Aug. 31, 1964, [78 Stat. 704](https://www.govinfo.gov/link/statute/78/704); [Pub. L. 91–671, § 4](https://www.govinfo.gov/link/plaw/91/public/671), Jan. 11, 1971, [84 Stat. 2049](https://www.govinfo.gov/link/statute/84/2049); [Pub. L. 93–86, § 3(d)](https://www.govinfo.gov/link/plaw/93/public/86), (e), (g), (h), Aug. 10, 1973, [87 Stat. 246](https://www.govinfo.gov/link/statute/87/246), 247; [Pub. L. 95–113, title XIII, § 1301](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 962](https://www.govinfo.gov/link/statute/91/962); [Pub. L. 96–58, § 2](https://www.govinfo.gov/link/plaw/96/public/58), Aug. 14, 1979, [93 Stat. 390](https://www.govinfo.gov/link/statute/93/390); [Pub. L. 96–223, title III, § 313(c)(2)](https://www.govinfo.gov/link/plaw/96/public/223), Apr. 2, 1980, [94 Stat. 299](https://www.govinfo.gov/link/statute/94/299); [Pub. L. 96–249, title I](https://www.govinfo.gov/link/plaw/96/public/249), §§ 102–108, 112, 136–138, May 26, 1980, [94 Stat. 357–359](https://www.govinfo.gov/link/statute/94/357), 361, 369, 370; [Pub. L. 97–35, title I](https://www.govinfo.gov/link/plaw/97/public/35), §§ 104(a), 105–107, 115, 116(a)(1), title XXVI, § 2611, Aug. 13, 1981, [95 Stat. 358–361](https://www.govinfo.gov/link/statute/95/358), 364, 902; [Pub. L. 97–98, title XIII](https://www.govinfo.gov/link/plaw/97/public/98), §§ 1305–1309, Dec. 22, 1981, [95 Stat. 1283](https://www.govinfo.gov/link/statute/95/1283), 1284; [Pub. L. 97–253, title I](https://www.govinfo.gov/link/plaw/97/public/253), §§ 143(b), 145(c), (d), 146–152(a), 153, 189(a), Sept. 8, 1982, [96 Stat. 773–776](https://www.govinfo.gov/link/statute/96/773), 787; [Pub. L. 98–204, § 4](https://www.govinfo.gov/link/plaw/98/public/204), Dec. 2, 1983, [97 Stat. 1385](https://www.govinfo.gov/link/statute/97/1385); [Pub. L. 99–198, title XV](https://www.govinfo.gov/link/plaw/99/public/198), §§ 1507(a)(1), 1508–1513(a), 1514, 1515, Dec. 23, 1985, [99 Stat. 1567–1572](https://www.govinfo.gov/link/statute/99/1567); [Pub. L. 99–500, § 101(a) [title VI, § 638(a)]](https://www.govinfo.gov/link/plaw/99/public/500), Oct. 18, 1986, [100 Stat. 1783](https://www.govinfo.gov/link/statute/100/1783), 1783–34, and [Pub. L. 99–591, § 101(a) [title VI, § 638(a)]](https://www.govinfo.gov/link/plaw/99/public/591), Oct. 30, 1986, [100 Stat. 3341](https://www.govinfo.gov/link/statute/100/3341), 3341–34; [Pub. L. 100–77, title VIII](https://www.govinfo.gov/link/plaw/100/public/77), §§ 803(a), 804(a), 805(a), 806(a), 807(a), July 22, 1987, [101 Stat. 534](https://www.govinfo.gov/link/statute/101/534), 535; [Pub. L. 100–232, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/232), Jan. 5, 1988, [101 Stat. 1566](https://www.govinfo.gov/link/statute/101/1566); [Pub. L. 100–387, title V, § 501(a)](https://www.govinfo.gov/link/plaw/100/public/387), Aug. 11, 1988, [102 Stat. 960](https://www.govinfo.gov/link/statute/102/960); [Pub. L. 100–435, title II](https://www.govinfo.gov/link/plaw/100/public/435), §§ 201, 202(a), title III, §§ 340–343, 351, title IV, §§ 402, 403, 404(f), Sept. 19, 1988, [102 Stat. 1655](https://www.govinfo.gov/link/statute/102/1655), 1656, 1663–1665, 1668; [Pub. L. 100–707, title I, § 109(d)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4708](https://www.govinfo.gov/link/statute/102/4708); [Pub. L. 101–624, title XVII](https://www.govinfo.gov/link/plaw/101/public/624), §§ 1714–1718(a), 1719–1722, 1726(b)(2), Nov. 28, 1990, [104 Stat. 3783–3787](https://www.govinfo.gov/link/statute/104/3783); [Pub. L. 102–40, title IV, § 402(d)(2)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 239](https://www.govinfo.gov/link/statute/105/239); [Pub. L. 102–237, title IX](https://www.govinfo.gov/link/plaw/102/public/237), §§ 902–906, 941(2), Dec. 13, 1991, [105 Stat. 1884](https://www.govinfo.gov/link/statute/105/1884), 1885, 1892; [Pub. L. 102–265, § 1(a)](https://www.govinfo.gov/link/plaw/102/public/265), Mar. 26, 1992, [106 Stat. 90](https://www.govinfo.gov/link/statute/106/90); [Pub. L. 102–367, title VII, § 702(b)](https://www.govinfo.gov/link/plaw/102/public/367), Sept. 7, 1992, [106 Stat. 1113](https://www.govinfo.gov/link/statute/106/1113); [Pub. L. 103–66, title XIII](https://www.govinfo.gov/link/plaw/103/public/66), §§ 13911–13915, 13921, 13922(a), 13923, 13924, Aug. 10, 1993, [107 Stat. 673–675](https://www.govinfo.gov/link/statute/107/673); [Pub. L. 103–225, title I, § 101(b)(2)](https://www.govinfo.gov/link/plaw/103/public/225), Mar. 25, 1994, [108 Stat. 107](https://www.govinfo.gov/link/statute/108/107); [Pub. L. 104–193, title I, § 109(a)](https://www.govinfo.gov/link/plaw/104/public/193), title VIII, §§ 806–809(a), 810–812, Aug. 22, 1996, [110 Stat. 2169](https://www.govinfo.gov/link/statute/110/2169), 2309, 2313, 2314; [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(2)(A), (f)(2)(A)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–418, 2681–429; [Pub. L. 106–387, § 1(a) [title VIII, §§ 846(a), 847(a)]](https://www.govinfo.gov/link/plaw/106/public/387), Oct. 28, 2000, [114 Stat. 1549](https://www.govinfo.gov/link/statute/114/1549), 1549A–65, 1549A–66; [Pub. L. 107–171, title IV](https://www.govinfo.gov/link/plaw/107/public/171), §§ 4101–4108(a), 4112(b)(2), 4401(b)(2)(C), May 13, 2002, [116 Stat. 305–309](https://www.govinfo.gov/link/statute/116/305), 313, 333; [Pub. L. 110–234, title IV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 4001(b), 4002(a)(2), 4101–4104, 4115(b)(3), May 22, 2008, [122 Stat. 1092](https://www.govinfo.gov/link/statute/122/1092), 1098–1100, 1106; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, §§ 4001(b), 4002(a)(2), 4101–4104, 4115(b)(3), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1853, 1859–1861, 1867; [Pub. L. 113–79, title IV](https://www.govinfo.gov/link/plaw/113/public/79), §§ 4005, 4006(a), 4008(b), 4022(b)(1), 4030(c), Feb. 7, 2014, [128 Stat. 786–788](https://www.govinfo.gov/link/statute/128/786), 808, 814; [Pub. L. 113–128, title V, § 512](https://www.govinfo.gov/link/plaw/113/public/128) (l)(1), July 22, 2014, [128 Stat. 1709](https://www.govinfo.gov/link/statute/128/1709); [Pub. L. 115–334, title IV](https://www.govinfo.gov/link/plaw/115/public/334), §§ 4004, 4022(2), Dec. 20, 2018, [132 Stat. 4627](https://www.govinfo.gov/link/statute/132/4627), 4653; [Pub. L. 119–21, title I](https://www.govinfo.gov/link/plaw/119/public/21), §§ 10103, 10104, July 4, 2025, [139 Stat. 83](https://www.govinfo.gov/link/statute/139/83).)*

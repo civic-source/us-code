@@ -3,9 +3,10 @@ title: "Section 390bb - Definitions"
 usc_title: 43
 usc_section: "390bb"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 390bb"
-generated_at: "2026-03-30T02:55:57.445Z"
+generated_at: "2026-11-23T21:26:19.767Z"
+status: "active"
 ---
 
 # § 390bb. Definitions
@@ -28,3 +29,7 @@ As used in this subchapter:
   - **(9)** The term “qualified recipient” means an individual who is a citizen of the United States or a resident alien thereof or any legal entity established under State or Federal law which benefits twenty-five natural persons or less.
   - **(10)** The term “recordable contract” means a contract between the Secretary and a landowner in writing capable of being recorded under State law providing for the sale or disposition of lands held in excess of the ownership limitations of Federal reclamation law including this subchapter.
   - **(11)** The term “Secretary” means the Secretary of the Interior.
+
+## Source Credit
+
+*([Pub. L. 97–293, title II, § 202](https://www.govinfo.gov/link/plaw/97/public/293), Oct. 12, 1982, [96 Stat. 1263](https://www.govinfo.gov/link/statute/96/1263); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095).)*

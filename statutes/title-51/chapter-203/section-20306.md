@@ -3,9 +3,10 @@ title: "Section 20306 - Special appropriations for Mars missions, Artemis missio
 usc_title: 51
 usc_section: "20306"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 20306"
-generated_at: "2026-03-30T02:56:28.704Z"
+generated_at: "2026-11-23T21:26:42.533Z"
+status: "active"
 ---
 
 # § 20306. Special appropriations for Mars missions, Artemis missions, and Moon to Mars program
@@ -46,3 +47,19 @@ generated_at: "2026-03-30T02:56:28.704Z"
   - **(1)** Not less than 50 percent of the total funds in subsection (a) shall be obligated not later than September 30, 2028 .
   - **(2)** 100 percent of funds shall be obligated not later than September 30, 2029 .
   - **(3)** All associated outlays shall occur not later than September 30, 2034 .
+
+In General
+
+Space Vehicle Transfer.—
+
+In general
+
+Space vehicle described
+
+Transfer
+
+Obligation of Funds
+
+## Source Credit
+
+*(Added [Pub. L. 119–21, title IV, § 40005(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 133](https://www.govinfo.gov/link/statute/139/133).)*

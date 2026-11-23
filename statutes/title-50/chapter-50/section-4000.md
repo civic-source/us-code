@@ -3,9 +3,10 @@ title: "Section 4000 - Income taxes"
 usc_title: 50
 usc_section: "4000"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4000"
-generated_at: "2026-03-30T02:56:26.265Z"
+generated_at: "2026-11-23T21:26:39.083Z"
+status: "active"
 ---
 
 # § 4000. Income taxes
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:26.265Z"
 - **(b)** No interest or penalty shall accrue for the period of deferment by reason of nonpayment on any amount of tax deferred under this section.
 - **(c)** The running of a statute of limitations against the collection of tax deferred under this section, by seizure or otherwise, shall be suspended for the period of military service of the servicemember and for an additional period of 270 days thereafter.
 - **(d)** This section shall not apply to the tax imposed on employees by section 3101 of title 26 .
+
+## Source Credit
+
+*(Oct. 17, 1940, ch. 888, title V, § 510, as added [Pub. L. 108–189, § 1](https://www.govinfo.gov/link/plaw/108/public/189), Dec. 19, 2003, [117 Stat. 2858](https://www.govinfo.gov/link/statute/117/2858).)*

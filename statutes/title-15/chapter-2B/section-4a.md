@@ -3,9 +3,10 @@ title: "Section 4a - Commission Office of Municipal Securities"
 usc_title: 15
 usc_section: "4a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4a"
-generated_at: "2026-03-30T02:54:08.050Z"
+generated_at: "2026-11-23T21:25:39.550Z"
+status: "active"
 ---
 
 # § 78o–4a. Commission Office of Municipal Securities
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.050Z"
 - **(c)**
   - **(1)** The Office of Municipal Securities shall be staffed sufficiently to carry out the requirements of this section.
   - **(2)** The staff of the Office of Municipal Securities shall include individuals with knowledge of and expertise in municipal finance.
+
+## Source Credit
+
+*([Pub. L. 111–203, title IX, § 979](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1926](https://www.govinfo.gov/link/statute/124/1926).)*

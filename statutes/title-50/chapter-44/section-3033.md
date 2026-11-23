@@ -3,9 +3,10 @@ title: "Section 3033 - Inspector General of the Intelligence Community"
 usc_title: 50
 usc_section: "3033"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3033"
-generated_at: "2026-03-30T02:56:26.228Z"
+generated_at: "2026-11-23T21:26:38.995Z"
+status: "active"
 ---
 
 # § 3033. Inspector General of the Intelligence Community
@@ -210,3 +211,29 @@ generated_at: "2026-03-30T02:56:26.228Z"
 - **(o)**
   - **(1)** The Director of National Intelligence shall establish and maintain on the homepage of the publicly accessible website of the Office of the Director of National Intelligence information relating to the Office of the Inspector General of the Intelligence Community including methods to contact the Inspector General.
   - **(2)** The information referred to in paragraph (1) shall be obvious and facilitate accessibility to the information related to the Office of the Inspector General of the Intelligence Community.
+
+(aa) the requirement under this subclause shall not apply if the officer is an Inspector General; and
+
+(bb) for the purposes of this clause, performing the functions and duties of an Inspector General temporarily in an acting capacity does not qualify as service in a position in an Office of an Inspector General;
+
+(aa) a matter of national security; and
+
+(bb) not a difference of opinion concerning public policy matters.
+
+System for Notification of Information Relating to Complaints by Whistleblowers Within the Intelligence Community
+
+Policies for Implementation.—
+
+In general
+
+Requirements
+
+“In this subtitle [subtitle C (§§ 5331—5335) of title LIII of div. E of Pub. L. 116–92 , enacting section 3236 of this title and provisions set out as a note above]:
+
+Whistleblower
+
+Whistleblower disclosure
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title I, § 103H, as added [Pub. L. 111–259, title IV, § 405(a)(1)](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2709](https://www.govinfo.gov/link/statute/124/2709); amended [Pub. L. 112–87, title IV, § 403](https://www.govinfo.gov/link/plaw/112/public/87), Jan. 3, 2012, [125 Stat. 1888](https://www.govinfo.gov/link/statute/125/1888); [Pub. L. 112–277, title III, § 309(a)](https://www.govinfo.gov/link/plaw/112/public/277), Jan. 14, 2013, [126 Stat. 2474](https://www.govinfo.gov/link/statute/126/2474); [Pub. L. 113–126, title III, § 304](https://www.govinfo.gov/link/plaw/113/public/126), title VI, § 603(c), July 7, 2014, [128 Stat. 1395](https://www.govinfo.gov/link/statute/128/1395), 1421; [Pub. L. 114–113, div. M, title III, § 303](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2913](https://www.govinfo.gov/link/statute/129/2913); [Pub. L. 116–92, div. E, title LXVI, § 6605(c)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2215](https://www.govinfo.gov/link/statute/133/2215); [Pub. L. 117–103, div. X, title V, § 502(a)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 985](https://www.govinfo.gov/link/statute/136/985); [Pub. L. 117–263, div. E, title LII](https://www.govinfo.gov/link/plaw/117/public/263), §§ 5202(a)(3), 5203(b), div. F, title LXVI, § 6609(a), Dec. 23, 2022, [136 Stat. 3225](https://www.govinfo.gov/link/statute/136/3225), 3229, 3559; [Pub. L. 117–286, § 4(b)(99)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4353](https://www.govinfo.gov/link/statute/136/4353); [Pub. L. 118–159, div. F, title LXVII](https://www.govinfo.gov/link/plaw/118/public/159), §§ 6701(a), 6702(a), title LXIX, § 6902(a)(2), Dec. 23, 2024, [138 Stat. 2511](https://www.govinfo.gov/link/statute/138/2511), 2513, 2517.)*

@@ -3,9 +3,10 @@ title: "Section 9025 - Pandemic emergency unemployment compensation"
 usc_title: 15
 usc_section: "9025"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9025"
-generated_at: "2026-03-30T02:54:08.240Z"
+generated_at: "2026-11-23T21:25:40.114Z"
+status: "active"
 ---
 
 # § 9025. Pandemic emergency unemployment compensation
@@ -88,3 +89,11 @@ generated_at: "2026-03-30T02:54:08.240Z"
 - **(g)** An agreement entered into under this section shall apply to weeks of unemployment—
   - **(1)** beginning after the date on which such agreement is entered into; and
   - **(2)** ending on or before September 6, 2021 .
+
+In general
+
+Coordination rules
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title II, § 2107](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 323](https://www.govinfo.gov/link/statute/134/323); [Pub. L. 116–260, div. N, title II](https://www.govinfo.gov/link/plaw/116/public/260), §§ 206(a)–(c), 261(b)(2), Dec. 27, 2020, [134 Stat. 1954](https://www.govinfo.gov/link/statute/134/1954), 1962; [Pub. L. 117–2, title IX, § 9016(a)](https://www.govinfo.gov/link/plaw/117/public/2) –(d), Mar. 11, 2021, [135 Stat. 119](https://www.govinfo.gov/link/statute/135/119), 120.)*

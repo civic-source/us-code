@@ -3,9 +3,10 @@ title: "Section 6568 - Banking and financial transactions of Secretary of Senate
 usc_title: 2
 usc_section: "6568"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 6568"
-generated_at: "2026-03-30T02:53:04.842Z"
+generated_at: "2026-11-23T21:25:21.361Z"
+status: "active"
 ---
 
 # § 6568. Banking and financial transactions of Secretary of Senate
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:53:04.842Z"
 - **(a)** The Secretary of the Senate is authorized to reimburse any bank which clears items for the United States Senate for the costs incurred therein. Such reimbursements shall be made from the contingent fund of the Senate.
 - **(b)** The Secretary of the Senate is authorized to prescribe such regulations as he deems necessary to govern the cashing of personal checks by the Disbursing Office of the Senate.
 - **(c)** Whenever an employee whose compensation is disbursed by the Secretary of the Senate becomes indebted to the Senate and such employee fails to pay such indebtedness, the Secretary of the Senate is authorized to withhold the amount of the indebtedness from any amount which is disbursed by him and which is due to, or on behalf of, such employee. Whenever an amount is withheld under this section, the appropriate account shall be credited in an amount equal to the amount so withheld.
+
+## Source Credit
+
+*([Pub. L. 94–440, title I, § 104](https://www.govinfo.gov/link/plaw/94/public/440), Oct. 1, 1976, [90 Stat. 1443](https://www.govinfo.gov/link/statute/90/1443).)*

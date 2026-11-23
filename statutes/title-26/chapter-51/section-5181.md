@@ -3,9 +3,10 @@ title: "Section 5181 - Distilled spirits for fuel use"
 usc_title: 26
 usc_section: "5181"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5181"
-generated_at: "2026-03-30T02:55:27.820Z"
+generated_at: "2026-11-23T21:26:06.705Z"
+status: "active"
 ---
 
 # § 5181. Distilled spirits for fuel use
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:27.820Z"
   - **(1)** Distilled spirits produced under this section shall not be withdrawn, used, sold, or disposed of for other than fuel use.
   - **(2)** For protection of the revenue and under such regulations as the Secretary may prescribe, distilled spirits produced under this section shall, before withdrawal from the bonded premises of a distilled spirits plant, be rendered unfit for beverage use by the addition of substances which will not impair the quality of the spirits for fuel use.
 - **(f)** For purposes of this section, the term “distilled spirits” does not include distilled spirits produced from petroleum, natural gas, or coal.
+
+## Source Credit
+
+*(Added [Pub. L. 96–223, title II, § 232(e)(1)](https://www.govinfo.gov/link/plaw/96/public/223), Apr. 2, 1980, [94 Stat. 278](https://www.govinfo.gov/link/statute/94/278).)*

@@ -3,9 +3,10 @@ title: "Section 1904 - National Security Education Trust Fund"
 usc_title: 50
 usc_section: "1904"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1904"
-generated_at: "2026-03-30T02:56:26.215Z"
+generated_at: "2026-11-23T21:26:38.950Z"
+status: "active"
 ---
 
 # § 1904. National Security Education Trust Fund
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:26.215Z"
   - **(1)** The interest on, and the proceeds from the sale or redemption of, any obligations held in the Fund shall be credited to and form a part of the Fund.
   - **(2)** Any amount paid to the United States under section 1902(b)(3) of this title shall be credited to and form a part of the Fund.
   - **(3)** Any gifts of money shall be credited to and form a part of the Fund.
+
+## Source Credit
+
+*([Pub. L. 102–183, title VIII, § 804](https://www.govinfo.gov/link/plaw/102/public/183), Dec. 4, 1991, [105 Stat. 1274](https://www.govinfo.gov/link/statute/105/1274); [Pub. L. 102–496, title IV, § 404(e)](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3186](https://www.govinfo.gov/link/statute/106/3186); [Pub. L. 103–160, div. A, title III, § 375](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1637](https://www.govinfo.gov/link/statute/107/1637).)*

@@ -3,9 +3,10 @@ title: "Section 2148 - Administration of educational outreach and services"
 usc_title: 2
 usc_section: "2148"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 2148"
-generated_at: "2026-03-30T02:53:04.825Z"
+generated_at: "2026-11-23T21:25:21.284Z"
+status: "active"
 ---
 
 # § 2148. Administration of educational outreach and services
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:04.825Z"
     - **(B)** any other organization described in section 501(c) of title 26 and exempt from tax under section 501(a) of such title that the Architect of the Capitol determines shares interests complementary to the educational mission of the United States Botanic Garden.
 - **(c)** Any authority under subsection (a) or (b) shall not apply to any agreement providing for the construction or improvement of real property.
 - **(d)** This section shall apply with respect to fiscal year 2015 and each succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 113–235, div. H, title I, § 1102](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2532](https://www.govinfo.gov/link/statute/128/2532).)*

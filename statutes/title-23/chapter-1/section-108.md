@@ -3,9 +3,10 @@ title: "Section 108 - Advance acquisition of real property"
 usc_title: 23
 usc_section: "108"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 108"
-generated_at: "2026-03-30T02:55:12.545Z"
+generated_at: "2026-11-23T21:25:53.859Z"
+status: "active"
 ---
 
 # § 108. Advance acquisition of real property
@@ -57,3 +58,63 @@ generated_at: "2026-03-30T02:55:12.545Z"
   - **(8)**
     - **(A)** The acquisition of a real property interest shall be carried out in compliance with all requirements applicable to the acquisition of real property interests for federally funded transportation projects.
     - **(B)** The Secretary may establish such other conditions or restrictions on acquisitions under this subsection as the Secretary determines to be appropriate.
+
+In General.—
+
+Availability of funds
+
+Construction
+
+State-funded Early Acquisition of Real Property Interests.—
+
+In general
+
+Eligibility for reimbursement
+
+Terms and conditions
+
+Federally Funded Early Acquisition of Real Property Interests.—
+
+Definition of acquisition of a real property interest
+
+Authorization
+
+State certification
+
+Environmental compliance.—
+
+In general
+
+Independent utility
+
+Programming.—
+
+In general
+
+Acquisition project
+
+Development
+
+Reimbursement
+
+Other requirements and conditions.—
+
+Applicable law
+
+Additional conditions
+
+State-funded Early Acquisition of Real Property Interests
+
+Early Acquisition of Rights-of-Way
+
+Eligibility for reimbursement
+
+General rule
+
+In general
+
+Credit to highway trust fund
+
+## Source Credit
+
+*([Pub. L. 85–767](https://www.govinfo.gov/link/plaw/85/public/767), Aug. 27, 1958, [72 Stat. 893](https://www.govinfo.gov/link/statute/72/893); [Pub. L. 86–35, § 1](https://www.govinfo.gov/link/plaw/86/public/35), May 29, 1959, [73 Stat. 62](https://www.govinfo.gov/link/statute/73/62); [Pub. L. 90–495, § 7(a)](https://www.govinfo.gov/link/plaw/90/public/495), (b), Aug. 23, 1968, [82 Stat. 818](https://www.govinfo.gov/link/statute/82/818); [Pub. L. 93–87, title I, § 113](https://www.govinfo.gov/link/plaw/93/public/87), Aug. 13, 1973, [87 Stat. 257](https://www.govinfo.gov/link/statute/87/257); [Pub. L. 94–280, title I, § 115](https://www.govinfo.gov/link/plaw/94/public/280), May 5, 1976, [90 Stat. 436](https://www.govinfo.gov/link/statute/90/436); [Pub. L. 102–240, title I, § 1017(a)](https://www.govinfo.gov/link/plaw/102/public/240), (b), Dec. 18, 1991, [105 Stat. 1947](https://www.govinfo.gov/link/statute/105/1947); [Pub. L. 102–388, title III, § 346](https://www.govinfo.gov/link/plaw/102/public/388), Oct. 6, 1992, [106 Stat. 1553](https://www.govinfo.gov/link/statute/106/1553); [Pub. L. 103–429, § 3(2)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4377](https://www.govinfo.gov/link/statute/108/4377); [Pub. L. 105–178, title I](https://www.govinfo.gov/link/plaw/105/public/178), §§ 1211(e)(1), 1301(a), June 9, 1998, [112 Stat. 188](https://www.govinfo.gov/link/statute/112/188), 225; [Pub. L. 112–141, div. A, title I, § 1302](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 528](https://www.govinfo.gov/link/statute/126/528); [Pub. L. 114–94, div. A, title I, § 1109(c)(5)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1343](https://www.govinfo.gov/link/statute/129/1343); [Pub. L. 117–58, div. A, title I, § 11525(c)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 607](https://www.govinfo.gov/link/statute/135/607).)*

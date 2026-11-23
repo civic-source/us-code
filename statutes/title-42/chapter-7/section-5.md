@@ -3,9 +3,10 @@ title: "Section 5 - Federal Interagency Council on Social Impact Partnerships"
 usc_title: 42
 usc_section: "5"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T02:56:11.068Z"
+generated_at: "2026-11-23T21:26:31.939Z"
+status: "active"
 ---
 
 # § 1397n–5. Federal Interagency Council on Social Impact Partnerships
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:11.068Z"
     - **(H)** The Department of Veterans Affairs.
     - **(I)** The Department of the Treasury.
     - **(J)** The Corporation for National and Community Service.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XX, § 2056, as added [Pub. L. 115–123, div. E, title VIII, § 50802(2)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 278](https://www.govinfo.gov/link/statute/132/278).)*

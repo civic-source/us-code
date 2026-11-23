@@ -3,9 +3,10 @@ title: "Section 3537a - Prohibition of advance disclosure of funding decisions"
 usc_title: 42
 usc_section: "3537a"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3537a"
-generated_at: "2026-03-30T02:56:11.189Z"
+generated_at: "2026-11-23T21:26:32.575Z"
+status: "active"
 ---
 
 # § 3537a. Prohibition of advance disclosure of funding decisions
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:56:11.189Z"
   - **(6)** The term “selection process” means the period with respect to a selection for assistance that begins with the development, preparation, and issuance of a solicitation or request for applications for the assistance and concludes with the selection of recipients of assistance, and includes the evaluation of applications.
 - **(f)** The Secretary shall issue such regulations as the Secretary deems appropriate to implement this section.
 - **(g)** This section shall apply only with respect to violations that occur on or after December, 15, 1989.
+
+## Source Credit
+
+*([Pub. L. 89–174, § 12](https://www.govinfo.gov/link/plaw/89/public/174), as added [Pub. L. 101–235, title I, § 103](https://www.govinfo.gov/link/plaw/101/public/235), Dec. 15, 1989, [103 Stat. 1995](https://www.govinfo.gov/link/statute/103/1995).)*

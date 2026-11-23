@@ -3,9 +3,10 @@ title: "Section 2571 - Interchange of supplies and services"
 usc_title: 10
 usc_section: "2571"
 chapter: 153
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2571"
-generated_at: "2026-03-30T02:53:38.163Z"
+generated_at: "2026-11-23T21:25:32.628Z"
+status: "active"
 ---
 
 # § 2571. Interchange of supplies and services
@@ -19,3 +20,33 @@ generated_at: "2026-03-30T02:53:38.163Z"
 - **(e)**
   - **(1)** An order placed by a department or organization on a reimbursable basis pursuant to subsection (b) shall be considered to be an obligation in the same manner as an order placed under section 6307 of title 41 .
   - **(2)** Amounts received as reimbursement shall be credited in accordance with section 2205 of this title to the appropriation of the supporting department or organization used in incurring the obligation in the year or years that support is provided.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 2571(a) [now (b)] | 5:171t (less clause (2)). | Oct. 29, 1949, ch. 787, § 621 , 63 Stat. 1020 . |
+| 2571(b) [now (c)] | 5:171t (clause 2)). |  |
+
+| 1958 Act | Col 2 | Col 3 |
+| --- | --- | --- |
+| 2571(a) | 14:640. | June 15, 1955, ch. 142 , 69 Stat. 134 . |
+
+
+Historical and Revision Notes
+
+Act
+
+Oct. 29, 1949, ch. 787, § 621
+
+63 Stat. 1020
+
+Act
+
+2571(a)
+
+June 15, 1955, ch. 142
+
+69 Stat. 134
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 143; [Pub. L. 85–861, § 1(49)](https://www.govinfo.gov/link/plaw/85/public/861), Sept. 2, 1958, [72 Stat. 1459](https://www.govinfo.gov/link/statute/72/1459); [Pub. L. 99–167, title VIII, § 821](https://www.govinfo.gov/link/plaw/99/public/167), Dec. 3, 1985, [99 Stat. 991](https://www.govinfo.gov/link/statute/99/991); [Pub. L. 109–364, div. B, title XXVIII, § 2825(c)(1)](https://www.govinfo.gov/link/plaw/109/public/364), (d)(1)(A), Oct. 17, 2006, [120 Stat. 2477](https://www.govinfo.gov/link/statute/120/2477); [Pub. L. 117–81, div. A, title XII, § 1202](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1958](https://www.govinfo.gov/link/statute/135/1958).)*

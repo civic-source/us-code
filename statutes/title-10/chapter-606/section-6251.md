@@ -3,9 +3,10 @@ title: "Section 6251 - Executive management training in Department of Energy"
 usc_title: 10
 usc_section: "6251"
 chapter: 606
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6251"
-generated_at: "2026-03-30T02:53:38.224Z"
+generated_at: "2026-11-23T21:25:32.824Z"
+status: "active"
 ---
 
 # § 6251. Executive management training in Department of Energy
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:53:38.224Z"
   - **(4)** The establishment of program milestones and methods to evaluate success in meeting such milestones.
   - **(5)** Methods for conducting long-range technical and budget planning.
   - **(6)** Procedures for reviewing and applying innovative technology to defense environmental cleanup.
+
+Establishment of Training Program
+
+Training Provisions
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1417](https://www.govinfo.gov/link/statute/139/1417).)*

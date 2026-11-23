@@ -3,9 +3,10 @@ title: "Section 2471 - Definitions"
 usc_title: 50
 usc_section: "2471"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2471"
-generated_at: "2026-03-30T02:56:26.225Z"
+generated_at: "2026-11-23T21:26:38.979Z"
+status: "active"
 ---
 
 # § 2471. Definitions
@@ -29,3 +30,7 @@ For purposes of this chapter:
     - **(A)** the Committee on Armed Services and the Committee on Appropriations of the Senate; and
     - **(B)** the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
   - **(6)** The term “nuclear security enterprise” means the physical facilities, technology, and human capital of the national security laboratories and the nuclear weapons production facilities.
+
+## Source Credit
+
+*([Pub. L. 106–65, div. C, title XXXII, § 3281](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 968](https://www.govinfo.gov/link/statute/113/968); [Pub. L. 112–239, div. C, title XXXI, § 3132(a)(3)](https://www.govinfo.gov/link/plaw/112/public/239), (d)(3), (4), Jan. 2, 2013, [126 Stat. 2185](https://www.govinfo.gov/link/statute/126/2185), 2187; [Pub. L. 113–66, div. C, title XXXI, § 3145(i)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 1072](https://www.govinfo.gov/link/statute/127/1072); [Pub. L. 116–92, div. C, title XXXI, § 3139(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1962](https://www.govinfo.gov/link/statute/133/1962).)*

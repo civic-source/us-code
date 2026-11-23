@@ -3,9 +3,10 @@ title: "Section 21115 - National Internet Crimes Against Children Data System"
 usc_title: 34
 usc_section: "21115"
 chapter: 211
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 21115"
-generated_at: "2026-03-30T02:55:33.302Z"
+generated_at: "2026-11-23T21:26:09.808Z"
+status: "active"
 ---
 
 # § 21115. National Internet Crimes Against Children Data System
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:55:33.302Z"
   - **(6)** 1 representative of the United States Postal Inspection Service; and
   - **(7)** 2 representatives of the Department of Justice.
 - **(h)** There are authorized to be appropriated for each of the fiscal years 2009 through 2016, $2,000,000 to carry out the provisions of this section.
+
+## Source Credit
+
+*([Pub. L. 110–401, title I, § 105](https://www.govinfo.gov/link/plaw/110/public/401), Oct. 13, 2008, [122 Stat. 4236](https://www.govinfo.gov/link/statute/122/4236); [Pub. L. 112–206, § 8](https://www.govinfo.gov/link/plaw/112/public/206), Dec. 7, 2012, [126 Stat. 1493](https://www.govinfo.gov/link/statute/126/1493); [Pub. L. 119–60, div. H, title LXXXII, § 8202(e)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1843](https://www.govinfo.gov/link/statute/139/1843).)*

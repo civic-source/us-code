@@ -3,9 +3,10 @@ title: "Section 1731 - Bureau of Land Management"
 usc_title: 43
 usc_section: "1731"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1731"
-generated_at: "2026-03-30T02:55:57.488Z"
+generated_at: "2026-11-23T21:26:19.875Z"
+status: "active"
 ---
 
 # § 1731. Bureau of Land Management
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:57.488Z"
 - **(b)** Subject to the discretion granted to him by Reorganization Plan Numbered 3 of 1950, the Secretary shall carry out through the Bureau all functions, powers, and duties vested in him and relating to the administration of laws which, on October 21, 1976 , were carried out by him through the Bureau of Land Management established by section 403 of Reorganization Plan Numbered 3 of 1946. The Bureau shall administer such laws according to the provisions thereof existing as of October 21, 1976 , as modified by the provisions of this Act or by subsequent law.
 - **(c)** In addition to the Director, there shall be an Associate Director of the Bureau and so many Assistant Directors, and other employees, as may be necessary, who shall be appointed by the Secretary subject to the provisions of title 5 governing appointments in the competitive service, and shall be paid in accordance with the provisions of chapter 51 and subchapter 3 1 1 So in original. Probably should be subchapter “III”. of chapter 53 of such title relating to classification and General Schedule pay rates.
 - **(d)** Nothing in this section shall affect any regulation of the Secretary with respect to the administration of laws administered by him through the Bureau on October 21, 1976 .
+
+## Source Credit
+
+*([Pub. L. 94–579, title III, § 301](https://www.govinfo.gov/link/plaw/94/public/579), Oct. 21, 1976, [90 Stat. 2762](https://www.govinfo.gov/link/statute/90/2762).)*

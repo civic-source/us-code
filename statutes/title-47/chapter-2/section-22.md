@@ -3,12 +3,17 @@ title: "Section 22 - Negligent injury to submarine cables; punishment"
 usc_title: 47
 usc_section: "22"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 22"
-generated_at: "2026-03-30T02:56:24.492Z"
+generated_at: "2026-11-23T21:26:35.924Z"
+status: "active"
 ---
 
 # § 22. Negligent injury to submarine cables; punishment
 
 Any person who by culpable negligence shall break or injure a submarine cable in such manner as to interrupt or embarrass, in whole or in part, telegraphic communication, shall be guilty of a misdemeanor, and, on conviction thereof, shall be liable to imprisonment for a term not exceeding three months, or to a fine not exceeding $500, or to both fine and imprisonment, at the discretion of the court.
 
+
+## Source Credit
+
+*(Feb. 29, 1888, ch. 17, § 2, [25 Stat. 41](https://www.govinfo.gov/link/statute/25/41).)*

@@ -3,9 +3,10 @@ title: "Section 6408 - Emergency assistance"
 usc_title: 16
 usc_section: "6408"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6408"
-generated_at: "2026-03-30T02:54:23.058Z"
+generated_at: "2026-11-23T21:25:52.039Z"
+status: "active"
 ---
 
 # § 6408. Emergency assistance
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:23.058Z"
     - **(A)** the location and a description of the exigent circumstances that prompted the emergency assistance, the entity that received the assistance, and the current and expected outcomes from the assistance;
     - **(B)** a description of activities of the National Oceanic and Atmospheric Administration that were curtailed as a result of providing the emergency assistance; and
     - **(C)** an assessment of whether further action is needed to restore the affected coral reef, recommendations for such restoration, and a cost estimate to implement such recommendations.
+
+## Source Credit
+
+*([Pub. L. 106–562, title II, § 209](https://www.govinfo.gov/link/plaw/106/public/562), as added [Pub. L. 117–263, div. J, title C, § 10001(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3940](https://www.govinfo.gov/link/statute/136/3940).)*

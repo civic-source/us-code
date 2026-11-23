@@ -3,9 +3,10 @@ title: "Section 101 - Definitions"
 usc_title: 17
 usc_section: "101"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 101"
-generated_at: "2026-03-30T02:54:15.343Z"
+generated_at: "2026-11-23T21:25:41.681Z"
+status: "active"
 ---
 
 # § 101. Definitions
@@ -41,3 +42,25 @@ generated_at: "2026-03-30T02:54:15.343Z"
   - **(2)** shall be interpreted as if both section 2(a)(1) of the Work Made For Hire and Copyright Corrections Act of 2000 and section 1011(d) of the Intellectual Property and Communications Omnibus Reform Act of 1999, as enacted by section 1000(a)(9) of Public Law 106–113 , were never enacted, and without regard to any inaction or awareness by the Congress at any time of any judicial determinations. The terms “WTO Agreement” and “WTO member country” have the meanings given those terms in paragraphs
   - **(9)** and (10), respectively, of section 2 of the Uruguay Round Agreements Act.
 
+
+In General
+
+Amendments Relating to Certain International Agreements
+
+“The amendments made by this title [enacting section 120 of this title and amending this section and sections 102, 106, and 301 of this title], apply to—
+
+Effective Date
+
+Effect on Pending Cases
+
+“The Congress makes the following declarations:
+
+Relationship With Domestic Law
+
+Certain Rights Not Affected
+
+“For purposes of this title [enacting section 1101 of this title and section 2319A of Title 18 , Crimes and Criminal Procedure, amending sections 104A and 109 of this title, sections 1052 and 1127 of Title 15, Commerce and Trade, and sections 41, 104, 111, 119, 154, 156, 172, 173, 252, 262, 271, 272, 287, 292, 295, 307, 365, and 373 of Title 35, Patents, enacting provisions set out as notes under section 1052 of Title 15 and sections 104 and 154 of Title 35, and amending provisions set out as a note under section 109 of this title ]—
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2541](https://www.govinfo.gov/link/statute/90/2541); [Pub. L. 96–517, § 10(a)](https://www.govinfo.gov/link/plaw/96/public/517), Dec. 12, 1980, [94 Stat. 3028](https://www.govinfo.gov/link/statute/94/3028); [Pub. L. 100–568, § 4(a)(1)](https://www.govinfo.gov/link/plaw/100/public/568), Oct. 31, 1988, [102 Stat. 2854](https://www.govinfo.gov/link/statute/102/2854); [Pub. L. 101–650, title VI, § 602](https://www.govinfo.gov/link/plaw/101/public/650), title VII, § 702, Dec. 1, 1990, [104 Stat. 5128](https://www.govinfo.gov/link/statute/104/5128), 5133; [Pub. L. 102–307, title I, § 102(b)(2)](https://www.govinfo.gov/link/plaw/102/public/307), June 26, 1992, [106 Stat. 266](https://www.govinfo.gov/link/statute/106/266); [Pub. L. 102–563, § 3(b)](https://www.govinfo.gov/link/plaw/102/public/563), Oct. 28, 1992, [106 Stat. 4248](https://www.govinfo.gov/link/statute/106/4248); [Pub. L. 104–39, § 5(a)](https://www.govinfo.gov/link/plaw/104/public/39), Nov. 1, 1995, [109 Stat. 348](https://www.govinfo.gov/link/statute/109/348); [Pub. L. 105–80, § 12(a)(3)](https://www.govinfo.gov/link/plaw/105/public/80), Nov. 13, 1997, [111 Stat. 1534](https://www.govinfo.gov/link/statute/111/1534); [Pub. L. 105–147, § 2(a)](https://www.govinfo.gov/link/plaw/105/public/147), Dec. 16, 1997, [111 Stat. 2678](https://www.govinfo.gov/link/statute/111/2678); [Pub. L. 105–298, title II, § 205](https://www.govinfo.gov/link/plaw/105/public/298), Oct. 27, 1998, [112 Stat. 2833](https://www.govinfo.gov/link/statute/112/2833); [Pub. L. 105–304, title I, § 102(a)](https://www.govinfo.gov/link/plaw/105/public/304), Oct. 28, 1998, [112 Stat. 2861](https://www.govinfo.gov/link/statute/112/2861); [Pub. L. 106–44, § 1(g)(1)](https://www.govinfo.gov/link/plaw/106/public/44), Aug. 5, 1999, [113 Stat. 222](https://www.govinfo.gov/link/statute/113/222); [Pub. L. 106–113, div. B, § 1000(a)(9) [title I, § 1011(d)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–544; [Pub. L. 106–379, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/379), Oct. 27, 2000, [114 Stat. 1444](https://www.govinfo.gov/link/statute/114/1444); [Pub. L. 107–273, div. C, title III, § 13210(5)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1909](https://www.govinfo.gov/link/statute/116/1909); [Pub. L. 108–419, § 4](https://www.govinfo.gov/link/plaw/108/public/419), Nov. 30, 2004, [118 Stat. 2361](https://www.govinfo.gov/link/statute/118/2361); [Pub. L. 109–9, title I, § 102(c)](https://www.govinfo.gov/link/plaw/109/public/9), Apr. 27, 2005, [119 Stat. 220](https://www.govinfo.gov/link/statute/119/220); [Pub. L. 111–295, § 6(a)](https://www.govinfo.gov/link/plaw/111/public/295), Dec. 9, 2010, [124 Stat. 3181](https://www.govinfo.gov/link/statute/124/3181).)*

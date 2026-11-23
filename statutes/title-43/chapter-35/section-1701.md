@@ -3,9 +3,10 @@ title: "Section 1701 - Congressional declaration of policy"
 usc_title: 43
 usc_section: "1701"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1701"
-generated_at: "2026-03-30T02:55:57.486Z"
+generated_at: "2026-11-23T21:26:19.869Z"
+status: "active"
 ---
 
 # § 1701. Congressional declaration of policy
@@ -25,3 +26,29 @@ generated_at: "2026-03-30T02:55:57.486Z"
   - **(12)** the public lands be managed in a manner which recognizes the Nation’s need for domestic sources of minerals, food, timber, and fiber from the public lands including implementation of the Mining and Minerals Policy Act of 1970 ( 84 Stat. 1876 , 30 U.S.C. 21a ) as it pertains to the public lands; and
   - **(13)** the Federal Government should, on a basis equitable to both the Federal and local taxpayer, provide for payments to compensate States and local governments for burdens created as a result of the immunity of Federal lands from State and local taxation.
 - **(b)** The policies of this Act shall become effective only as specific statutory authority for their implementation is enacted by this Act or by subsequent legislation and shall then be construed as supplemental to and not in derogation of the purposes for which public lands are administered under other provisions of law.
+
+Definitions
+
+Public lands
+
+Resource management plan
+
+Secretary
+
+Timber sales on public lands.—
+
+In general
+
+Limitation
+
+Long-term contracting for the bureau of land management.—
+
+Long-term contracting
+
+Contract length
+
+Receipts
+
+## Source Credit
+
+*([Pub. L. 94–579, title I, § 102](https://www.govinfo.gov/link/plaw/94/public/579), Oct. 21, 1976, [90 Stat. 2744](https://www.govinfo.gov/link/statute/90/2744).)*

@@ -3,9 +3,10 @@ title: "Section 1093a - Articulation agreements"
 usc_title: 20
 usc_section: "1093a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1093a"
-generated_at: "2026-03-30T02:54:48.137Z"
+generated_at: "2026-11-23T21:25:47.210Z"
+status: "active"
 ---
 
 # § 1093a. Articulation agreements
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:48.137Z"
     - **(D)** other strategies identified by the Secretary.
   - **(2)** The Secretary shall provide technical assistance to States and public institutions of higher education for the purposes of developing and implementing articulation agreements in accordance with this subsection.
   - **(3)** Nothing in this subsection shall be construed to authorize the Secretary to require particular policies, procedures, or practices by institutions of higher education with respect to articulation agreements.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 486A](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title IV, § 492](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3307](https://www.govinfo.gov/link/statute/122/3307).)*

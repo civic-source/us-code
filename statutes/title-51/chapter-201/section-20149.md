@@ -3,9 +3,10 @@ title: "Section 20149 - Medical monitoring and research relating to human space 
 usc_title: 51
 usc_section: "20149"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 20149"
-generated_at: "2026-03-30T02:56:28.704Z"
+generated_at: "2026-11-23T21:26:42.530Z"
+status: "active"
 ---
 
 # § 20149. Medical monitoring and research relating to human space flight
@@ -28,3 +29,35 @@ generated_at: "2026-03-30T02:56:28.704Z"
 - **(e)** The Administrator shall promulgate such regulations as are necessary to carry out this section.
 - **(f)** In this section, the term “United States government astronaut” has the meaning given the term “government astronaut” in section 50902, except it does not include an individual who is an international partner astronaut.
 - **(g)** The Administrator may use or disclose data acquired in the course of medical monitoring, diagnosis, or treatment of a former United States government astronaut or a former payload specialist under subsection (a), in accordance with subsection (d). Former United States government astronaut or former payload specialist participation in medical monitoring, diagnosis, or treatment under subsection (a) shall constitute consent for the Administrator to use or disclose such data.
+
+In General
+
+Requirements.—
+
+No cost sharing
+
+Access to local services
+
+Secondary payment
+
+Conditional payment
+
+Exclusions
+
+Privacy
+
+Regulations
+
+Definition of United States Government Astronaut
+
+Data Use and Disclosure
+
+In general
+
+Contents
+
+Submission to congress
+
+## Source Credit
+
+*(Added [Pub. L. 115–10, title IV, § 443(a)](https://www.govinfo.gov/link/plaw/115/public/10), Mar. 21, 2017, [131 Stat. 45](https://www.govinfo.gov/link/statute/131/45).)*

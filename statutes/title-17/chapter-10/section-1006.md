@@ -3,9 +3,10 @@ title: "Section 1006 - Entitlement to royalty payments"
 usc_title: 17
 usc_section: "1006"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 1006"
-generated_at: "2026-03-30T02:54:15.356Z"
+generated_at: "2026-11-23T21:25:41.733Z"
+status: "active"
 ---
 
 # § 1006. Entitlement to royalty payments
@@ -25,3 +26,17 @@ generated_at: "2026-03-30T02:54:15.356Z"
 - **(c)** If all interested copyright parties within a group specified in subsection (b) do not agree on a voluntary proposal for the distribution of the royalty payments within each group, the Copyright Royalty Judges shall, pursuant to the procedures specified under section 1007(c), allocate royalty payments under this section based on the extent to which, during the relevant period—
   - **(1)** for the Sound Recordings Fund, each sound recording was distributed in the form of digital musical recordings or analog musical recordings; and
   - **(2)** for the Musical Works Fund, each musical work was distributed in the form of digital musical recordings or analog musical recordings or disseminated to the public in transmissions.
+
+Interested Copyright Parties
+
+Allocation of Royalty Payments to Groups
+
+The sound recordings fund
+
+The musical works fund.—
+
+Allocation of Royalty Payments Within Groups
+
+## Source Credit
+
+*(Added [Pub. L. 102–563, § 2](https://www.govinfo.gov/link/plaw/102/public/563), Oct. 28, 1992, [106 Stat. 4242](https://www.govinfo.gov/link/statute/106/4242); amended [Pub. L. 103–198, § 6(b)(3)](https://www.govinfo.gov/link/plaw/103/public/198), Dec. 17, 1993, [107 Stat. 2312](https://www.govinfo.gov/link/statute/107/2312); [Pub. L. 105–80, § 12(a)(24)](https://www.govinfo.gov/link/plaw/105/public/80), Nov. 13, 1997, [111 Stat. 1535](https://www.govinfo.gov/link/statute/111/1535); [Pub. L. 108–419, § 5(i)(2)](https://www.govinfo.gov/link/plaw/108/public/419), Nov. 30, 2004, [118 Stat. 2368](https://www.govinfo.gov/link/statute/118/2368).)*

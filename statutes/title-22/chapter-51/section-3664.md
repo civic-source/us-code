@@ -3,9 +3,10 @@ title: "Section 3664 - Applicability of title 5"
 usc_title: 22
 usc_section: "3664"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3664"
-generated_at: "2026-03-30T02:55:05.396Z"
+generated_at: "2026-11-23T21:25:58.592Z"
+status: "active"
 ---
 
 # § 3664. Applicability of title 5
@@ -31,3 +32,7 @@ The following provisions of title 5 apply to the Panama Canal Commission:
   - **(17)** Chapter 85 (relating to unemployment compensation).
   - **(18)** Chapter 87 (relating to life insurance).
   - **(19)** Chapter 89 (relating to health insurance).
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1224](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 467](https://www.govinfo.gov/link/statute/93/467); [Pub. L. 104–201, div. C, title XXXV, § 3536](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2864](https://www.govinfo.gov/link/statute/110/2864); [Pub. L. 105–85, div. C, title XXXV, § 3524(a)(2)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 2065](https://www.govinfo.gov/link/statute/111/2065); [Pub. L. 105–261, div. C, title XXXV, § 3507(a)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2269](https://www.govinfo.gov/link/statute/112/2269).)*

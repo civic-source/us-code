@@ -3,9 +3,10 @@ title: "Section 8113 - Joint Strategic Plan"
 usc_title: 15
 usc_section: "8113"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8113"
-generated_at: "2026-03-30T02:54:08.227Z"
+generated_at: "2026-11-23T21:25:40.074Z"
+status: "active"
 ---
 
 # § 8113. Joint Strategic Plan
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:54:08.227Z"
   - **(3)** in identifying the priorities under paragraph (2), be guided by the list of countries identified by the United States Trade Representative under section 2242(a) of title 19 ; and
   - **(4)** develop metrics to measure the effectiveness of the Federal Government’s efforts to improve the laws and enforcement practices of foreign governments against counterfeiting and infringement.
 - **(g)** The joint strategic plan shall be posted for public access on the website of the White House, and shall be disseminated to the public through such other means as the IPEC may identify.
+
+## Source Credit
+
+*([Pub. L. 110–403, title III, § 303](https://www.govinfo.gov/link/plaw/110/public/403), Oct. 13, 2008, [122 Stat. 4266](https://www.govinfo.gov/link/statute/122/4266).)*

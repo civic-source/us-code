@@ -3,9 +3,10 @@ title: "Section 12593 - Federal Bureau of Investigation"
 usc_title: 34
 usc_section: "12593"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 12593"
-generated_at: "2026-03-30T02:55:33.291Z"
+generated_at: "2026-11-23T21:26:09.761Z"
+status: "active"
 ---
 
 # § 12593. Federal Bureau of Investigation
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:33.291Z"
     - **(A)** by virtue of employment or official position, has possession of, or access to, individually identifiable DNA information indexed in a database created or maintained by any Federal law enforcement agency; and
     - **(B)** knowingly discloses such information in any manner to any person or agency not authorized to receive it,
   - **(2)** A person who, without authorization, knowingly obtains DNA samples or individually identifiable DNA information indexed in a database created or maintained by any Federal law enforcement agency shall be fined not more than $250,000, or imprisoned for a period of not more than one year, or both.
+
+## Source Credit
+
+*([Pub. L. 103–322, title XXI, § 210305](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2070](https://www.govinfo.gov/link/statute/108/2070); [Pub. L. 106–546, § 8(c)](https://www.govinfo.gov/link/plaw/106/public/546), Dec. 19, 2000, [114 Stat. 2735](https://www.govinfo.gov/link/statute/114/2735); [Pub. L. 108–405, title II, § 203(e)(1)](https://www.govinfo.gov/link/plaw/108/public/405), Oct. 30, 2004, [118 Stat. 2270](https://www.govinfo.gov/link/statute/118/2270).)*

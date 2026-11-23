@@ -3,9 +3,10 @@ title: "Section 13506 - Definitions"
 usc_title: 42
 usc_section: "13506"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13506"
-generated_at: "2026-03-30T02:56:11.448Z"
+generated_at: "2026-11-23T21:26:33.615Z"
+status: "active"
 ---
 
 # § 13506. Definitions
@@ -20,3 +21,7 @@ For purposes of this subchapter—
     - **(B)** advanced composite materials such as metal matrix (including intermetallics), polymer matrix, ceramic matrix, continuous fiber ceramic composite, and carbon matrix composites; and
     - **(C)** advanced electronic, magnetic, and photonic materials, including superconducting, semiconductor, electrooptic, magnetooptic, thin-film, and special purpose coating materials used in technologies for energy efficiency, renewable energy, or electric power applications; and
   - **(3)** the term “United States” means the 50 States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, the Northern Mariana Islands, and any other territory or possession of the United States.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXII, § 2206](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3091](https://www.govinfo.gov/link/statute/106/3091).)*

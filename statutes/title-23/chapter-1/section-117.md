@@ -3,9 +3,10 @@ title: "Section 117 - Nationally significant multimodal freight and highway proj
 usc_title: 23
 usc_section: "117"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 117"
-generated_at: "2026-03-30T02:55:12.547Z"
+generated_at: "2026-11-23T21:25:53.864Z"
+status: "active"
 ---
 
 # § 117. Nationally significant multimodal freight and highway projects
@@ -187,3 +188,181 @@ generated_at: "2026-03-30T02:55:12.547Z"
   - **(3)** $1,200,000,000 for fiscal year 2024;
   - **(4)** $1,300,000,000 for fiscal year 2025; and
   - **(5)** $1,400,000,000 for fiscal year 2026.
+
+Establishment.—
+
+In general
+
+Goals
+
+Grant Authority.—
+
+In general
+
+Grant amount
+
+Grant administration
+
+Eligible Applicants.—
+
+In general
+
+Applications
+
+Eligible Projects.—
+
+In general
+
+(aa) a project to add lanes;
+
+(bb) a project to add technology; and
+
+(cc) other surface transportation improvements;
+
+Limitation.—
+
+In general
+
+Exclusions
+
+Small Projects.—
+
+In general
+
+Grant amount
+
+Project selection considerations
+
+Requirement
+
+Eligible Project Costs
+
+Project Requirements
+
+Additional Considerations
+
+Rural Areas.—
+
+In general
+
+Excess funding
+
+Rural area defined
+
+Federal Assistance.—
+
+Federal share.—
+
+In general
+
+Small projects
+
+Maximum federal involvement
+
+Federal land management agencies
+
+Efficient Use of Non-Federal Funds.—
+
+In general
+
+Requirements.—
+
+Application
+
+Approval
+
+Compliance with applicable requirements
+
+Effect
+
+Treatment of Freight Projects
+
+TIFIA Program
+
+Congressional Notification.—
+
+In general
+
+Congressional disapproval
+
+Applicant Notification.—
+
+In general
+
+Inclusion
+
+Response.—
+
+In general
+
+Debrief
+
+Reports.—
+
+Annual report.—
+
+In general
+
+Inclusions
+
+Availability
+
+Applicability
+
+Comptroller general.—
+
+Assessment
+
+Report
+
+Inspector general
+
+State Incentives Pilot Program.—
+
+Establishment
+
+Priority
+
+Federal share.—
+
+In general
+
+No federal involvement.—
+
+In general
+
+Exception
+
+Reservation.—
+
+In general
+
+Unutilized amounts
+
+Set-asides.—
+
+Small projects.—
+
+In general
+
+Requirement
+
+Rural projects.—
+
+In general
+
+Requirement
+
+Report to congress
+
+Multistate Corridor Organization Defined
+
+Additional Authorization of Appropriations
+
+In general
+
+Grant described
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title I, § 1105(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1332](https://www.govinfo.gov/link/statute/129/1332); amended [Pub. L. 116–159, div. B, title I, § 1102](https://www.govinfo.gov/link/plaw/116/public/159), Oct. 1, 2020, [134 Stat. 726](https://www.govinfo.gov/link/statute/134/726); [Pub. L. 117–58, div. A, title I, § 11110(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 468](https://www.govinfo.gov/link/statute/135/468).)*

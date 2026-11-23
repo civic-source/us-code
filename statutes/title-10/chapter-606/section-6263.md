@@ -3,9 +3,10 @@ title: "Section 6263 - Program to monitor department of energy workers exposed t
 usc_title: 10
 usc_section: "6263"
 chapter: 606
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6263"
-generated_at: "2026-03-30T02:53:38.225Z"
+generated_at: "2026-11-23T21:25:32.825Z"
+status: "active"
 ---
 
 # § 6263. Program to monitor department of energy workers exposed to hazardous and radioactive substances
@@ -34,3 +35,15 @@ generated_at: "2026-03-30T02:53:38.225Z"
 - **(d)** In this section:
   - **(1)** The term “Department of Energy defense nuclear facility” has the meaning given that term in section 6243(f).
   - **(2)** The term “Department of Energy employee” means any employee of the Department of Energy employed at a Department of Energy defense nuclear facility, including any employee of a contractor or subcontractor of the Department of Energy employed at such a facility.
+
+In General
+
+Implementation of Program
+
+Agreement With Secretary of Health and Human Services
+
+Definitions
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2)(B), Dec. 18, 2025, [139 Stat. 1421](https://www.govinfo.gov/link/statute/139/1421), 1462.)*

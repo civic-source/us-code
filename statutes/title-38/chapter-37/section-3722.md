@@ -3,9 +3,10 @@ title: "Section 3722 - Veterans Housing Benefit Program Fund"
 usc_title: 38
 usc_section: "3722"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3722"
-generated_at: "2026-03-30T02:55:53.513Z"
+generated_at: "2026-11-23T21:26:16.777Z"
+status: "active"
 ---
 
 # § 3722. Veterans Housing Benefit Program Fund
@@ -22,3 +23,9 @@ generated_at: "2026-03-30T02:55:53.513Z"
     - **(D)** penalties collected pursuant to section 3710(g)(4)(B) of this title .
 - **(d)** Amounts deposited into the Fund under paragraphs (2) and (3) of subsection (c) shall be deposited in the appropriate financing or liquidating account of the Fund.
 - **(e)** For purposes of this section, the term “housing loan” shall not include a loan made pursuant to subchapter V of this chapter.
+
+“All amounts in the following funds are hereby transferred to the Veterans Housing Benefit Program Fund:
+
+## Source Credit
+
+*(Added [Pub. L. 105–368, title VI, § 602(a)(2)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3345](https://www.govinfo.gov/link/statute/112/3345); amended [Pub. L. 107–14, § 8(a)(16)](https://www.govinfo.gov/link/plaw/107/public/14), June 5, 2001, [115 Stat. 35](https://www.govinfo.gov/link/statute/115/35).)*

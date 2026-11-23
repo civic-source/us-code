@@ -3,9 +3,10 @@ title: "Section 10217 - Non-dual status technicians"
 usc_title: 10
 usc_section: "10217"
 chapter: 1007
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 10217"
-generated_at: "2026-03-30T02:53:38.265Z"
+generated_at: "2026-11-23T21:25:33.024Z"
+status: "active"
 ---
 
 # § 10217. Non-dual status technicians
@@ -35,3 +36,21 @@ generated_at: "2026-03-30T02:53:38.265Z"
   - **(2)** By not later than October 1, 2017 , the Secretary of Defense shall convert all non-dual status technicians to positions filled by individuals who are employed under section 3101 of title 5 or section 1601 of this title and are not military technicians.
   - **(3)** In the case of a position converted under paragraph (2) for which there is an incumbent employee on October 1, 2017 , the Secretary shall fill that position, as converted, with the incumbent employee without regard to any requirement concerning competition or competitive hiring procedures.
   - **(4)** Any individual newly hired or employed, or rehired or employed, to a position required to be filled by reason of paragraph (1) shall be an individual employed in such position under section 3101 of title 5 or section 1601 of this title .
+
+Definition
+
+Employment Authorities
+
+Permanent Limitations on Number
+
+Exception for Temporary Employment
+
+Conversion of Positions
+
+Plan for Full Utilization of Military Technicians (Dual Status)
+
+Definitions for Categories of Military Technicians
+
+## Source Credit
+
+*(Added [Pub. L. 105–85, div. A, title V, § 523(a)(1)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1736](https://www.govinfo.gov/link/statute/111/1736); amended [Pub. L. 106–65, div. A, title V, § 523](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 598](https://www.govinfo.gov/link/statute/113/598); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title IV, § 414(c)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–94; [Pub. L. 107–314, div. A, title IV, § 414(d)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2527](https://www.govinfo.gov/link/statute/116/2527); [Pub. L. 108–136, div. A, title IV, § 415](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1453](https://www.govinfo.gov/link/statute/117/1453); [Pub. L. 111–383, div. A, title V, § 513](https://www.govinfo.gov/link/plaw/111/public/383), title X, § 1075(b)(53), Jan. 7, 2011, [124 Stat. 4210](https://www.govinfo.gov/link/statute/124/4210), 4372; [Pub. L. 112–239, div. A, title X, § 1076(e)(7)](https://www.govinfo.gov/link/plaw/112/public/239), (f)(45), Jan. 2, 2013, [126 Stat. 1951](https://www.govinfo.gov/link/statute/126/1951), 1955; [Pub. L. 114–92, div. A, title X, § 1053(b)(1)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 981](https://www.govinfo.gov/link/statute/129/981); [Pub. L. 114–328, div. A, title X, § 1084(b)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2421](https://www.govinfo.gov/link/statute/130/2421); [Pub. L. 116–92, div. A, title XVII, § 1731(a)(62)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1816](https://www.govinfo.gov/link/statute/133/1816).)*

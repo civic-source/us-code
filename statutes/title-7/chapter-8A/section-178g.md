@@ -3,9 +3,10 @@ title: "Section 178g - Powers of Secretary of Agriculture"
 usc_title: 7
 usc_section: "178g"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 178g"
-generated_at: "2026-03-30T02:53:42.276Z"
+generated_at: "2026-11-23T21:25:27.923Z"
+status: "active"
 ---
 
 # § 178g. Powers of Secretary of Agriculture
@@ -22,3 +23,7 @@ In carrying out the provisions of this subchapter, the Secretary of Agriculture 
 - **(h)** foster and participate in regional, national, and international conferences relating to native latex culture or the culture of other native agricultural crops which could supply critical agricultural materials;
 - **(i)** coordinate, correlate, and publish information with a view to advancing the development of native latex technology or the technology of other native agricultural crops which could supply critical agricultural materials; and
 - **(j)** cooperate with other Federal departments and agencies, with State and local departments, agencies, and instrumentalities, and with interested persons, firms, institutions, and organizations.
+
+## Source Credit
+
+*([Pub. L. 95–592, § 9](https://www.govinfo.gov/link/plaw/95/public/592), Nov. 4, 1978, [92 Stat. 2532](https://www.govinfo.gov/link/statute/92/2532); [Pub. L. 98–284, § 9](https://www.govinfo.gov/link/plaw/98/public/284), May 16, 1984, [98 Stat. 183](https://www.govinfo.gov/link/statute/98/183).)*

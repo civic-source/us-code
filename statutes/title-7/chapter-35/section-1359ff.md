@@ -3,9 +3,10 @@ title: "Section 1359ff - Provisions applicable to producers"
 usc_title: 7
 usc_section: "1359ff"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1359ff"
-generated_at: "2026-03-30T02:53:42.308Z"
+generated_at: "2026-11-23T21:25:28.048Z"
+status: "active"
 ---
 
 # § 1359ff. Provisions applicable to producers
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:53:42.308Z"
     - **(C)** Any producer on a farm who violates subparagraph (A) by knowingly harvesting, or allowing to be harvested, an acreage of sugarcane for sugar in excess of the farm’s proportionate share shall be liable to the Commodity Credit Corporation for a civil penalty equal to one and one-half times the United States market value of the quantity of sugar that is marketed by the processor of such sugarcane in excess of the allocation of such processor for the crop year. The Secretary shall prorate penalties imposed under this subparagraph in a fair and equitable manner among all the producers of sugarcane harvested from excess acreage that is acquired by such processor.
   - **(7)** Notwithstanding the preceding subparagraph, the Secretary may authorize the county and State committees established under section 590h(b) of title 16 to waive or modify deadlines and other proportionate share requirements in cases in which lateness or failure to meet the other requirements does not affect adversely the operation of proportionate shares.
   - **(8)** Whenever the Secretary determines that, because of a natural disaster or other condition beyond the control of producers that adversely affects a crop of sugarcane subject to proportionate shares, the amount of sugar from sugarcane produced by producers subject to the proportionate shares will not be sufficient to enable processors in the State to meet the State’s cane sugar allotment and provide a normal carryover inventory of sugar, the Secretary may uniformly allow producers to harvest an amount of sugarcane in excess of their proportionate share, or suspend proportionate shares entirely, as necessary to enable processors to meet the State allotment and provide a normal carryover inventory of sugar.
+
+## Source Credit
+
+*(Feb. 16, 1938, ch. 30, title III, § 359f, as added [Pub. L. 107–171, title I, § 1403](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 198](https://www.govinfo.gov/link/statute/116/198); amended [Pub. L. 110–234, title I, § 1403(f)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 986](https://www.govinfo.gov/link/statute/122/986); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1403(f), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1714; [Pub. L. 113–79, title I, § 1609(a)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 709](https://www.govinfo.gov/link/statute/128/709).)*

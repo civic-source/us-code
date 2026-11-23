@@ -3,9 +3,10 @@ title: "Section 3508 - Crime scene preservation training for passenger vessel cr
 usc_title: 46
 usc_section: "3508"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 3508"
-generated_at: "2026-03-30T02:56:15.544Z"
+generated_at: "2026-11-23T21:26:37.052Z"
+status: "active"
 ---
 
 # § 3508. Crime scene preservation training for passenger vessel crewmembers
@@ -20,3 +21,19 @@ generated_at: "2026-03-30T02:56:15.544Z"
 - **(e)** The Secretary may deny entry into the United States to a vessel to which this section applies if the owner of the vessel—
   - **(1)** commits an act or omission for which a penalty may be imposed under subsection (d); or
   - **(2)** fails to pay a penalty imposed on the owner under subsection (d).
+
+In General
+
+Minimum Standards
+
+Certification Requirement
+
+Civil Penalty
+
+Denial of Entry
+
+“Notwithstanding any other provision of law, requirements authorized under sections 3508 and 3509 of title 46, United States Code, shall not apply to any passenger vessel, as defined in section 2101 of such title—
+
+## Source Credit
+
+*(Added [Pub. L. 111–207, § 3(a)](https://www.govinfo.gov/link/plaw/111/public/207), July 27, 2010, [124 Stat. 2250](https://www.govinfo.gov/link/statute/124/2250); amended [Pub. L. 115–232, div. C, title XXXV, § 3543(b)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2324](https://www.govinfo.gov/link/statute/132/2324).)*

@@ -3,9 +3,10 @@ title: "Section 11201 - Eligibility for veterans’ burial and cemetery benefits
 usc_title: 46
 usc_section: "11201"
 chapter: 112
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 11201"
-generated_at: "2026-03-30T02:56:15.555Z"
+generated_at: "2026-11-23T21:26:37.123Z"
+status: "active"
 ---
 
 # § 11201. Eligibility for veterans’ burial and cemetery benefits
@@ -21,3 +22,21 @@ generated_at: "2026-03-30T02:56:15.555Z"
 - **(c)**
   - **(1)** Benefits may be provided under the provisions of law referred to in subsection (a)(1) by reason of this chapter only for deaths occurring after the date of the enactment of this chapter.
   - **(2)** Notwithstanding paragraph (1), in the case of an initial burial or columbarium placement after the date of the enactment of this chapter, benefits may be provided under chapter 24 of title 38 by reason of this chapter (regardless of the date of death), and in such a case benefits may be provided under section 2306 of such title.
+
+Eligibility.—
+
+In general
+
+Covered individuals
+
+Reimbursement for Benefits Provided
+
+Applicability.—
+
+General rule
+
+Burials, etc. in national cemeteries
+
+## Source Credit
+
+*(Added [Pub. L. 105–368, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3336](https://www.govinfo.gov/link/statute/112/3336); amended [Pub. L. 116–283, div. G, title LVXXXV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXV], § 8505(b)(11), Jan. 1, 2021, [134 Stat. 4751](https://www.govinfo.gov/link/statute/134/4751).)*

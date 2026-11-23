@@ -3,9 +3,10 @@ title: "Section 472 - Interstate shipment of poultry inspected by Federal and St
 usc_title: 21
 usc_section: "472"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 472"
-generated_at: "2026-03-30T02:54:54.286Z"
+generated_at: "2026-11-23T21:25:56.205Z"
+status: "active"
 ---
 
 # § 472. Interstate shipment of poultry inspected by Federal and State agencies for certain small establishments
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:54:54.286Z"
 - **(i)**
   - **(1)** This section takes effect on the date on which the Secretary, after providing a period of public comment (including through the conduct of public meetings or hearings), promulgates final regulations to carry out this section.
   - **(2)** Not later than 18 months after the date of the enactment of this section, the Secretary shall promulgate final regulations in accordance with paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 85–172, § 31](https://www.govinfo.gov/link/plaw/85/public/172), as added [Pub. L. 110–234, title XI, § 11015(b)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1365](https://www.govinfo.gov/link/statute/122/1365), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XI, § 11015(b), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2127.)*

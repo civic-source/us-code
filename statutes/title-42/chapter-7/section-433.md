@@ -3,9 +3,10 @@ title: "Section 433 - International agreements"
 usc_title: 42
 usc_section: "433"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 433"
-generated_at: "2026-03-30T02:56:10.867Z"
+generated_at: "2026-11-23T21:26:31.059Z"
+status: "active"
 ---
 
 # § 433. International agreements
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:10.867Z"
 - **(e)**
   - **(1)** Any agreement to establish a totalization arrangement entered into pursuant to this section shall be transmitted by the President to the Congress together with a report on the estimated number of individuals who will be affected by the agreement and the effect of the agreement on the estimated income and expenditures of the programs established by this chapter.
   - **(2)** Such an agreement shall become effective on any date, provided in the agreement, which occurs after the expiration of the period (following the date on which the agreement is transmitted in accordance with paragraph (1)) during which at least one House of the Congress has been in session on each of 60 days; except that such agreement shall not become effective if, during such period, either House of the Congress adopts a resolution of disapproval of the agreement.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title II, § 233, as added [Pub. L. 95–216, title III, § 317(a)](https://www.govinfo.gov/link/plaw/95/public/216), Dec. 20, 1977, [91 Stat. 1538](https://www.govinfo.gov/link/statute/91/1538); amended [Pub. L. 97–35, title XXII, § 2201(b)(12)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 831](https://www.govinfo.gov/link/statute/95/831); [Pub. L. 98–21, title III, § 326(a)](https://www.govinfo.gov/link/plaw/98/public/21), Apr. 20, 1983, [97 Stat. 126](https://www.govinfo.gov/link/statute/97/126); [Pub. L. 98–369, div. B, title VI, § 2663(j)(3)(A)(v)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1170](https://www.govinfo.gov/link/statute/98/1170); [Pub. L. 103–296, title I, § 107(a)(4)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1478](https://www.govinfo.gov/link/statute/108/1478).)*

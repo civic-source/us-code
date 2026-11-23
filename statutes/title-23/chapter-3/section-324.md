@@ -3,12 +3,17 @@ title: "Section 324 - Prohibition of discrimination on the basis of sex"
 usc_title: 23
 usc_section: "324"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 324"
-generated_at: "2026-03-30T02:55:12.567Z"
+generated_at: "2026-11-23T21:25:53.921Z"
+status: "active"
 ---
 
 # § 324. Prohibition of discrimination on the basis of sex
 
 No person shall on the ground of sex be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal assistance under this title or carried on under this title. This provision will be enforced through agency provisions and rules similar to those already established, with respect to racial and other discrimination, under title VI of the Civil Rights Act of 1964. However, this remedy is not exclusive and will not prejudice or cut off any other legal remedies available to a discrim­inatee.
 
+
+## Source Credit
+
+*(Added [Pub. L. 93–87, title I, § 162(a)](https://www.govinfo.gov/link/plaw/93/public/87), Aug. 13, 1973, [87 Stat. 280](https://www.govinfo.gov/link/statute/87/280).)*

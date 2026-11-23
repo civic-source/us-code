@@ -3,9 +3,10 @@ title: "Section 7404 - Research relating to fuels and vehicles"
 usc_title: 42
 usc_section: "7404"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7404"
-generated_at: "2026-03-30T02:56:11.294Z"
+generated_at: "2026-11-23T21:26:33.076Z"
+status: "active"
 ---
 
 # § 7404. Research relating to fuels and vehicles
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.294Z"
   - **(4)** acquire secret processes, technical data, inventions, patent applications, patents, licenses, and an interest in lands, plants, and facilities, and other property or rights by purchase, license, lease, or donation; and
   - **(5)** cause on-site inspections to be made of promising domestic and foreign projects, and cooperate and participate in their development in instances in which the purposes of the chapter will be served thereby.
 - **(c)** The Administrator shall conduct a research program to identify, characterize, and predict air emissions related to the production, distribution, storage, and use of clean alternative fuels to determine the risks and benefits to human health and the environment relative to those from using conventional gasoline and diesel fuels. The Administrator shall consult with other Federal agencies to ensure coordination and to avoid duplication of activities authorized under this subsection.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 104, as added [Pub. L. 90–148, § 2](https://www.govinfo.gov/link/plaw/90/public/148), Nov. 21, 1967, [81 Stat. 487](https://www.govinfo.gov/link/statute/81/487); amended [Pub. L. 91–137](https://www.govinfo.gov/link/plaw/91/public/137), Dec. 5, 1969, [83 Stat. 283](https://www.govinfo.gov/link/statute/83/283); [Pub. L. 91–604](https://www.govinfo.gov/link/plaw/91/public/604), §§ 2(b), (c), 13(a), 15(c)(2), Dec. 31, 1970, [84 Stat. 1676](https://www.govinfo.gov/link/statute/84/1676), 1677, 1709, 1713; [Pub. L. 93–15, § 1(a)](https://www.govinfo.gov/link/plaw/93/public/15), Apr. 9, 1973, [87 Stat. 11](https://www.govinfo.gov/link/statute/87/11); [Pub. L. 93–319, § 13(a)](https://www.govinfo.gov/link/plaw/93/public/319), June 22, 1974, [88 Stat. 265](https://www.govinfo.gov/link/statute/88/265); [Pub. L. 101–549, title IX, § 901(d)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2706](https://www.govinfo.gov/link/statute/104/2706).)*

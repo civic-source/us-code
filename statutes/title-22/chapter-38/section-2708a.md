@@ -3,9 +3,10 @@ title: "Section 2708a - Award of Thomas Jefferson Star for Foreign Service"
 usc_title: 22
 usc_section: "2708a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2708a"
-generated_at: "2026-03-30T02:55:05.380Z"
+generated_at: "2026-11-23T21:25:58.533Z"
+status: "active"
 ---
 
 # § 2708a. Award of Thomas Jefferson Star for Foreign Service
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.380Z"
 - **(c)** If a person selected for award of a Thomas Jefferson Star for Foreign Service dies before being presented the award, the award may be made and the star presented to the person’s family or to the person’s representative, as designated by the President.
 - **(d)** The Secretary shall prescribe the design of the Thomas Jefferson Star for Foreign Service. The award may not include a stipend or any other cash payment.
 - **(e)** Any expenses incurred in awarding a person a Thomas Jefferson Star for Foreign Service may be paid out of appropriations available at the time of the award for personnel of the department or agency of the United States Government in which the person was employed when the person incurred the wound, injury, or illness upon which the award is based.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title I, § 36A, as added [Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 321]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–436; amended [Pub. L. 107–228, div. A, title III, § 311](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1377](https://www.govinfo.gov/link/statute/116/1377).)*

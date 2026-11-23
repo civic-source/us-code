@@ -3,9 +3,10 @@ title: "Section 1113 - Administrative"
 usc_title: 49
 usc_section: "1113"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 1113"
-generated_at: "2026-03-30T02:56:19.303Z"
+generated_at: "2026-11-23T21:26:40.599Z"
+status: "active"
 ---
 
 # § 1113. Administrative
@@ -60,3 +61,143 @@ generated_at: "2026-03-30T02:56:19.303Z"
 - **(i)**
   - **(1)** The Board shall establish annual fiscal year budgets for non-accident-related travel expenditures for each Board member.
   - **(2)** The Board shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of any non-accident-related travel budget overrun for any Board member not later than 30 days of such overrun becoming known to the Board.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1113(a) | 49 App.:1903(b)(1), (3). | Jan. 3, 1975 , Pub. L. 93–633, § 304(a)(1)(A) , (b)(1), (3), (4), (7)–(9), 88 Stat. 2168 , 2169, 2170; July 19, 1988 , Pub. L. 100–372, § 4 , 102 Stat. 876 . |
+| 1113(b)(1)(A) | 49 App.:1441(b) (words before semicolon). | Aug. 23, 1958 , Pub. L. 85–726, § 701(b) , 72 Stat. 781 . |
+|  | 49 App.:1655(d) (1st sentence). | Oct. 15, 1966 , Pub. L. 89–670, § 6(d) (1st sentence), 80 Stat. 938 . |
+|  | 49 App.:1903(a)(1)(A), (b)(6)(C). |  |
+| 1113(b)(1)(B) | 49 App.:1903(b)(4). |  |
+| 1113(b)(1)(C) | 49 App.:1441(b) (words after semicolon). |  |
+|  | 49 App.:1655(d) (1st sentence). |  |
+|  | 49 App.:1903(a)(1)(A). |  |
+|  | 49 App.:1903(b)(6)(A). | Jan. 3, 1975 , Pub. L. 93–633, § 304(b)(6) , 88 Stat. 2170 ; July 19, 1988 , Pub. L. 100–372, § 5 , 102 Stat. 877 . |
+| 1113(b) (1)(D)–(I), (2) | 49 App.:1903(b)(6)(B), (D)–(H). |  |
+| 1113(c) | 49 App.:1903(b)(7). |  |
+| 1113(d) | 49 App.:1903(b)(8). |  |
+| 1113(e) | 49 App.:1903(b)(9). |  |
+| 1113(f) | 49 App.:1903(b)(12). | Jan. 3, 1975 , Pub. L. 93–633, § 304(b)(12) , 88 Stat. 2171 ; July 19, 1988 , Pub. L. 100–372, § 4 , 102 Stat. 876 ; Nov. 28, 1990 , Pub. L. 101–641, § 6 , 104 Stat. 4656 . |
+
+
+General Authority
+
+Additional Powers
+
+Submission of Certain Copies to Congress
+
+Liaison Committees
+
+Inquiries
+
+Regulations
+
+Overtime Pay.—
+
+In general
+
+Limitation on overtime pay to an employee
+
+Limitation on total amount of overtime pay
+
+Basic pay defined
+
+Strategic Workforce Plan.—
+
+In general
+
+Aligning the workforce to strategic goals
+
+Planning period
+
+Plan updates
+
+Relationship to strategic plan
+
+Availability
+
+Non-accident-related Travel Budget.—
+
+In general
+
+Notification
+
+Historical and Revision Notes
+
+1113(a)
+
+Jan. 3, 1975
+
+Pub. L. 93–633, § 304(a)(1)(A)
+
+88 Stat. 2168
+
+July 19, 1988
+
+Pub. L. 100–372, § 4
+
+102 Stat. 876
+
+1113(b)(1)(A)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 701(b)
+
+72 Stat. 781
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 6(d)
+
+80 Stat. 938
+
+1113(b)(1)(B)
+
+1113(b)(1)(C)
+
+Jan. 3, 1975
+
+Pub. L. 93–633, § 304(b)(6)
+
+88 Stat. 2170
+
+July 19, 1988
+
+Pub. L. 100–372, § 5
+
+102 Stat. 877
+
+1113(c)
+
+1113(d)
+
+1113(e)
+
+1113(f)
+
+Jan. 3, 1975
+
+Pub. L. 93–633, § 304(b)(12)
+
+88 Stat. 2171
+
+July 19, 1988
+
+Pub. L. 100–372, § 4
+
+102 Stat. 876
+
+Nov. 28, 1990
+
+Pub. L. 101–641, § 6
+
+104 Stat. 4656
+
+In General
+
+Report on Usage
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 747](https://www.govinfo.gov/link/statute/108/747); [Pub. L. 106–424](https://www.govinfo.gov/link/plaw/106/public/424), §§ 3(a), (b)(1), 4, Nov. 1, 2000, [114 Stat. 1883](https://www.govinfo.gov/link/statute/114/1883), 1884; [Pub. L. 109–443, § 9(e)](https://www.govinfo.gov/link/plaw/109/public/443) –(g), Dec. 21, 2006, [120 Stat. 3301](https://www.govinfo.gov/link/statute/120/3301); [Pub. L. 111–350, § 5](https://www.govinfo.gov/link/plaw/111/public/350) (o)(2), Jan. 4, 2011, [124 Stat. 3853](https://www.govinfo.gov/link/statute/124/3853); [Pub. L. 115–254, div. C, § 1112(c)](https://www.govinfo.gov/link/plaw/115/public/254) –(e), Oct. 5, 2018, [132 Stat. 3437](https://www.govinfo.gov/link/statute/132/3437), 3438; [Pub. L. 118–63, title XII](https://www.govinfo.gov/link/plaw/118/public/63), §§ 1204(a), 1205–1207(a), May 16, 2024, [138 Stat. 1422–1424](https://www.govinfo.gov/link/statute/138/1422).)*

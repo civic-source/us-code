@@ -3,9 +3,10 @@ title: "Section 44731 - Collection of data on helicopter air ambulance operation
 usc_title: 49
 usc_section: "44731"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44731"
-generated_at: "2026-03-30T02:56:19.386Z"
+generated_at: "2026-11-23T21:26:40.905Z"
+status: "active"
 ---
 
 # § 44731. Collection of data on helicopter air ambulance operations
@@ -25,3 +26,27 @@ generated_at: "2026-03-30T02:56:19.386Z"
   - **(2)** make publicly available, in part or in whole, on a website of the Federal Aviation Administration, the database developed pursuant to subsection (c); and
   - **(3)** analyze the data submitted under subsection (a) periodically and use such data to inform efforts to improve the safety of helicopter air ambulance operations.
 - **(e)** In this section, the terms “part 135” and “part 135 certificate holder” have the meanings given such terms in section 44730.
+
+In General
+
+Reporting Period
+
+Database
+
+Implementation
+
+Definitions
+
+In General
+
+Requirements
+
+Reports.—
+
+Assessment report
+
+Implementation report
+
+## Source Credit
+
+*(Added [Pub. L. 112–95, title III, § 306(a)](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 60](https://www.govinfo.gov/link/statute/126/60); amended [Pub. L. 115–254, div. B, title III, § 314(d)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3266](https://www.govinfo.gov/link/statute/132/3266); [Pub. L. 118–63, title III, § 301(c)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1066](https://www.govinfo.gov/link/statute/138/1066).)*

@@ -3,9 +3,10 @@ title: "Section 539s - Frank and Jeanne Moore Wild Steelhead Special Management 
 usc_title: 16
 usc_section: "539s"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 539s"
-generated_at: "2026-03-30T02:54:22.868Z"
+generated_at: "2026-11-23T21:25:51.664Z"
+status: "active"
 ---
 
 # § 539s. Frank and Jeanne Moore Wild Steelhead Special Management Area
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:54:22.868Z"
     - **(A)** entry, appropriation, or disposal under the public land laws;
     - **(B)** location, entry, and patent under the mining laws; and
     - **(C)** disposition under all laws relating to mineral and geothermal leasing or mineral materials.
+
+## Source Credit
+
+*([Pub. L. 116–9, title I, § 1103](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 605](https://www.govinfo.gov/link/statute/133/605).)*

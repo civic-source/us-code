@@ -3,9 +3,10 @@ title: "Section 1465 - Congressional findings and declaration of purposes"
 usc_title: 22
 usc_section: "1465"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1465"
-generated_at: "2026-03-30T02:55:05.332Z"
+generated_at: "2026-11-23T21:25:58.398Z"
+status: "active"
 ---
 
 # § 1465. Congressional findings and declaration of purposes
@@ -16,3 +17,7 @@ The Congress finds and declares—
   - **(2)** that, consonant with this policy, radio broadcasting to Cuba may be effective in furthering the open communication of accurate information and ideas to the people of Cuba, in particular information about Cuba;
   - **(3)** that such broadcasting to Cuba, operated in a manner not inconsistent with the broad foreign policy of the United States and in accordance with high professional standards, would be in the national interest; and
   - **(4)** that the Voice of America already broadcasts to Cuba information that represents America, not any single segment of American society, and includes a balanced and comprehensive projection of significant American thought and institutions but that there is a need for broadcasts to Cuba which provide news, commentary and other information about events in Cuba and elsewhere to promote the cause of freedom in Cuba.
+
+## Source Credit
+
+*([Pub. L. 98–111, § 2](https://www.govinfo.gov/link/plaw/98/public/111), Oct. 4, 1983, [97 Stat. 749](https://www.govinfo.gov/link/statute/97/749).)*

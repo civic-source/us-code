@@ -3,9 +3,10 @@ title: "Section 11324 - Consolidation, merger, and acquisition of control: condi
 usc_title: 49
 usc_section: "11324"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 11324"
-generated_at: "2026-03-30T02:56:19.325Z"
+generated_at: "2026-11-23T21:26:40.679Z"
+status: "active"
 ---
 
 # § 11324. Consolidation, merger, and acquisition of control: conditions of approval
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:19.325Z"
     - **(A)** Any member or employee of the Board who makes or receives a written ex parte communication concerning the merits of a proceeding described in paragraph (1) shall promptly place the communication in the public docket of the proceeding.
     - **(B)** Any member or employee of the Board who makes or receives an oral ex parte communication concerning the merits of a proceeding described in paragraph (1) shall promptly place a written summary of the oral communication in the public docket of the proceeding.
   - **(4)** Nothing in this subsection shall be construed to require the Board or any of its members or employees to engage in any ex parte communication with any person. Nothing in this subsection or any other law shall be construed to limit the authority of the members or employees of the Board, in their discretion, to note in the docket or otherwise publicly the occurrence and substance of an ex parte communication.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 839](https://www.govinfo.gov/link/statute/109/839).)*

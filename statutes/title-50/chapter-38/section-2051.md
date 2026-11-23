@@ -3,9 +3,10 @@ title: "Section 2051 - Retirement for disability or incapacity; medical examinat
 usc_title: 50
 usc_section: "2051"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2051"
-generated_at: "2026-03-30T02:56:26.217Z"
+generated_at: "2026-11-23T21:26:38.956Z"
+status: "active"
 ---
 
 # § 2051. Retirement for disability or incapacity; medical examination; recovery
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:56:26.217Z"
     - **(B)** authorize the deduction of the amount from the annuity.
   - **(2)** Deductions from the annuity may be made from accrued or accruing payments. The amounts deducted and withheld from the annuity shall be transmitted to the Secretary for reimbursement to the Employees’ Compensation Fund.
   - **(3)** If the Secretary finds that the financial circumstances of an individual entitled to an annuity under this subchapter warrant deferred refunding, deductions from the annuity may be prorated against and paid from accruing payments in such manner as the Secretary determines appropriate.
+
+## Source Credit
+
+*([Pub. L. 88–643, title II, § 231](https://www.govinfo.gov/link/plaw/88/public/643), as added [Pub. L. 102–496, title VIII, § 802](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3220](https://www.govinfo.gov/link/statute/106/3220); amended [Pub. L. 103–178, title II, § 202(a)(8)](https://www.govinfo.gov/link/plaw/103/public/178), Dec. 3, 1993, [107 Stat. 2026](https://www.govinfo.gov/link/statute/107/2026).)*

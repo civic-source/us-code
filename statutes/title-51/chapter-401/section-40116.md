@@ -3,9 +3,10 @@ title: "Section 40116 - University-based Centers for Research on Aviation Traini
 usc_title: 51
 usc_section: "40116"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 40116"
-generated_at: "2026-03-30T02:56:28.706Z"
+generated_at: "2026-11-23T21:26:42.541Z"
+status: "active"
 ---
 
 # § 40116. University-based Centers for Research on Aviation Training
@@ -16,3 +17,38 @@ generated_at: "2026-03-30T02:56:28.706Z"
 - **(d)** An award made by the Administrator under this section shall be for a period of 5 years and may be renewed on the basis of—
   - **(1)** satisfactory performance in meeting the goals of the research plan proposed in the application submitted under subsection (c); and
   - **(2)** other requirements as specified by the Administrator.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40116 | 42 U.S.C. 16727 . | Pub. L. 109–155, title IV, § 427 , Dec. 30, 2005 , 119 Stat. 2926 ; Pub. L. 110–422, title III, § 308 , Oct. 15, 2008 , 122 Stat. 4788 . |
+
+
+In General
+
+Purpose
+
+Application
+
+Award Duration
+
+Historical and Revision Notes
+
+40116
+
+42 U.S.C. 16727
+
+Pub. L. 109–155, title IV, § 427
+
+Dec. 30, 2005
+
+119 Stat. 2926
+
+Pub. L. 110–422, title III, § 308
+
+Oct. 15, 2008
+
+122 Stat. 4788
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3381](https://www.govinfo.gov/link/statute/124/3381).)*

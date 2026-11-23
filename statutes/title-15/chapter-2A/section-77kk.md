@@ -3,9 +3,10 @@ title: "Section 77kk - Representations by Corporation as acting for Department o
 usc_title: 15
 usc_section: "77kk"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 77kk"
-generated_at: "2026-03-30T02:54:08.036Z"
+generated_at: "2026-11-23T21:25:39.512Z"
+status: "active"
 ---
 
 # § 77kk. Representations by Corporation as acting for Department of State or United States forbidden; interference with foreign negotiations forbidden
@@ -15,3 +16,7 @@ Notwithstanding the foregoing provisions of this subchapter, it shall be unlawfu
 - **(a)** to claim or assert or pretend to be acting for or to represent the Department of State or the United States Government;
 - **(b)** to make any statements or representations of any kind to any foreign government or its officials or the officials of any political subdivision of any foreign government that said Corporation or any committee thereof or any individual or individuals connected therewith were speaking or acting for the said Department of State or the United States Government; or
 - **(c)** to do any act directly or indirectly which would interfere with or obstruct or hinder or which might be calculated to obstruct, hinder, or interfere with the policy or policies of the said Department of State or the Government of the United States or any pending or contemplated diplomatic negotiations, arrangements, business or exchanges between the Government of the United States or said Department of State and any foreign government or any political subdivision thereof.
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title II, § 210, [48 Stat. 95](https://www.govinfo.gov/link/statute/48/95).)*

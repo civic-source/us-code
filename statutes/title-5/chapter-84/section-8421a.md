@@ -3,9 +3,10 @@ title: "Section 8421a - Reductions on account of earnings from work performed wh
 usc_title: 5
 usc_section: "8421a"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8421a"
-generated_at: "2026-03-30T02:52:56.056Z"
+generated_at: "2026-11-23T21:25:23.415Z"
+status: "active"
 ---
 
 # § 8421a. Reductions on account of earnings from work performed while entitled to an annuity supplement
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:52:56.056Z"
   - **(1)** air traffic control instructor, or supervisor thereof, under contract with the Federal Aviation Administration, including an instructor or supervisor working at an on-site facility (such as an airport); or
   - **(2)** air traffic controller pursuant to a contract made with the Secretary of Transportation under section 47124 of title 49 .
 - **(d)** The Office shall prescribe regulations under which this section shall be applied in the case of a reemployed annuitant.
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 535](https://www.govinfo.gov/link/statute/100/535); amended [Pub. L. 99–556, title I, § 121](https://www.govinfo.gov/link/plaw/99/public/556), Oct. 27, 1986, [100 Stat. 3134](https://www.govinfo.gov/link/statute/100/3134); [Pub. L. 106–394, § 3(a)](https://www.govinfo.gov/link/plaw/106/public/394), Oct. 30, 2000, [114 Stat. 1630](https://www.govinfo.gov/link/statute/114/1630); [Pub. L. 114–251, § 1](https://www.govinfo.gov/link/plaw/114/public/251), Dec. 8, 2016, [130 Stat. 1002](https://www.govinfo.gov/link/statute/130/1002); [Pub. L. 116–92, div. A, title VI, § 608](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1425](https://www.govinfo.gov/link/statute/133/1425); [Pub. L. 117–225, § 3(b)(2)(A)(iv)](https://www.govinfo.gov/link/plaw/117/public/225), Dec. 9, 2022, [136 Stat. 2296](https://www.govinfo.gov/link/statute/136/2296); [Pub. L. 117–328, div. Y, § 102](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5523](https://www.govinfo.gov/link/statute/136/5523).)*

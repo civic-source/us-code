@@ -3,9 +3,10 @@ title: "Section 11a - Disposition of HUD-owned properties"
 usc_title: 12
 usc_section: "11a"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 11a"
-generated_at: "2026-03-30T02:53:53.421Z"
+generated_at: "2026-11-23T21:25:36.902Z"
+status: "active"
 ---
 
 # § 1715z–11a. Disposition of HUD-owned properties
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:53:53.421Z"
   - **(12)**
     - **(A)** Not later than 30 days after December 21, 2000 , the Secretary shall issue such interim regulations as are necessary to carry out this subsection.
     - **(B)** Not later than 60 days after December 21, 2000 , the Secretary shall issue such final regulations as are necessary to carry out this subsection.
+
+## Source Credit
+
+*([Pub. L. 104–204, title II, § 204](https://www.govinfo.gov/link/plaw/104/public/204), Sept. 26, 1996, [110 Stat. 2894](https://www.govinfo.gov/link/statute/110/2894); [Pub. L. 105–65, title II, § 213](https://www.govinfo.gov/link/plaw/105/public/65), Oct. 27, 1997, [111 Stat. 1366](https://www.govinfo.gov/link/statute/111/1366); [Pub. L. 105–276, title II, § 206](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2484](https://www.govinfo.gov/link/statute/112/2484); [Pub. L. 106–74, title V, § 537](https://www.govinfo.gov/link/plaw/106/public/74), Oct. 20, 1999, [113 Stat. 1122](https://www.govinfo.gov/link/statute/113/1122); [Pub. L. 106–377, § 1(a)(1) [title II, § 204]](https://www.govinfo.gov/link/plaw/106/public/377), Oct. 27, 2000, [114 Stat. 1441](https://www.govinfo.gov/link/statute/114/1441), 1441A–24; [Pub. L. 106–554, § 1(a)(7) [title I, § 141]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–614; [Pub. L. 109–171, title II, § 2003(a)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 9](https://www.govinfo.gov/link/statute/120/9).)*

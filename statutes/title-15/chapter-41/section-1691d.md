@@ -3,9 +3,10 @@ title: "Section 1691d - Applicability of other laws"
 usc_title: 15
 usc_section: "1691d"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1691d"
-generated_at: "2026-03-30T02:54:08.155Z"
+generated_at: "2026-11-23T21:25:39.883Z"
+status: "active"
 ---
 
 # § 1691d. Applicability of other laws
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.155Z"
 - **(e)** Where the same act or omission constitutes a violation of this subchapter and of applicable State law, a person aggrieved by such conduct may bring a legal action to recover monetary damages either under this subchapter or under such State law, but not both. This election of remedies shall not apply to court actions in which the relief sought does not include monetary damages or to administrative actions.
 - **(f)** This subchapter does not annul, alter, or affect, or exempt any person subject to the provisions of this subchapter from complying with, the laws of any State with respect to credit discrimination, except to the extent that those laws are inconsistent with any provision of this subchapter, and then only to the extent of the inconsistency. The Bureau is authorized to determine whether such inconsistencies exist. The Bureau may not determine that any State law is inconsistent with any provision of this subchapter if the Bureau determines that such law gives greater protection to the applicant.
 - **(g)** The Bureau shall by regulation exempt from the requirements of sections 1691 and 1691a of this title any class of credit transactions within any State if it determines that under the law of that State that class of transactions is subject to requirements substantially similar to those imposed under this subchapter or that such law gives greater protection to the applicant, and that there is adequate provision for enforcement. Failure to comply with any requirement of such State law in any transaction so exempted shall constitute a violation of this subchapter for the purposes of section 1691e of this title .
+
+## Source Credit
+
+*([Pub. L. 90–321, title VII, § 705](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 93–495, title V, § 503](https://www.govinfo.gov/link/plaw/93/public/495), Oct. 28, 1974, [88 Stat. 1523](https://www.govinfo.gov/link/statute/88/1523); amended [Pub. L. 94–239, § 5](https://www.govinfo.gov/link/plaw/94/public/239), Mar. 23, 1976, [90 Stat. 253](https://www.govinfo.gov/link/statute/90/253); [Pub. L. 111–203, title X, § 1085(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2083](https://www.govinfo.gov/link/statute/124/2083).)*

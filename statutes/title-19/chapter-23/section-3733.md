@@ -3,9 +3,10 @@ title: "Section 3733 - Overseas Private Investment Corporation initiatives"
 usc_title: 19
 usc_section: "3733"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 3733"
-generated_at: "2026-03-30T02:54:24.696Z"
+generated_at: "2026-11-23T21:25:42.851Z"
+status: "active"
 ---
 
 # § 3733. Overseas Private Investment Corporation initiatives
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:24.696Z"
 - **(c)**
   - **(1)**
   - **(2)** Within 6 months after May 18, 2000 , and annually for each of the 4 years thereafter, the Board of Directors of the Overseas Private Investment Corporation 1 shall submit to Congress a report on the steps that the Board has taken to implement section 2193(e) 2 2 See References in Text note below. of title 22 and any recommendations of the investment advisory council established pursuant to such section.
+
+## Source Credit
+
+*([Pub. L. 106–200, title I, § 123](https://www.govinfo.gov/link/plaw/106/public/200), May 18, 2000, [114 Stat. 269](https://www.govinfo.gov/link/statute/114/269).)*

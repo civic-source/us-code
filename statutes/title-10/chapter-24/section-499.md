@@ -3,9 +3,10 @@ title: "Section 499 - Annual assessment of cyber resiliency of nuclear command a
 usc_title: 10
 usc_section: "499"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 499"
-generated_at: "2026-03-30T02:53:38.063Z"
+generated_at: "2026-11-23T21:25:32.275Z"
+status: "active"
 ---
 
 # § 499. Annual assessment of cyber resiliency of nuclear command and control system
@@ -32,3 +33,47 @@ generated_at: "2026-03-30T02:53:38.063Z"
     - **(A)** The term “anomaly” means a malicious, suspicious or abnormal cyber incident that potentially threatens the national security or interests of the United States, or that is likely to result in demonstrable harm to the national security of the United States.
     - **(B)** The term “intrusion” means an unauthorized and malicious cyber incident that compromises a nuclear command, control, and communications system by breaking the security of such a system or causing it to enter into an insecure state.
 - **(e)** The requirements of this section shall terminate on December 31, 2032 .
+
+In General
+
+Elements
+
+Reports Required
+
+Quarterly Briefings
+
+Termination
+
+Establishment of Cross-functional Team.—
+
+Establishment
+
+Composition of cross-functional team.—
+
+In general
+
+Leadership
+
+Staff
+
+Duties
+
+Required Construct, Plan of Action, and Milestones
+
+Annual Briefings
+
+Termination.—
+
+In general
+
+Extension authority
+
+Appropriate Congressional Committees Defined
+
+Plan for Implementation of Findings and Recommendations From First Annual Assessment of Cyber Resiliency of Nuclear Command and Control System
+
+Concept of Operations and Oversight Mechanism for Cyber Defense of Nuclear Command and Control System
+
+## Source Credit
+
+*(Added [Pub. L. 115–91, div. A, title XVI, § 1651(a)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1756](https://www.govinfo.gov/link/statute/131/1756); amended [Pub. L. 117–81, div. A, title XV, § 1534](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2054](https://www.govinfo.gov/link/statute/135/2054); [Pub. L. 117–263, div. A, title XVI, § 1636(a)](https://www.govinfo.gov/link/plaw/117/public/263), (b), Dec. 23, 2022, [136 Stat. 2940](https://www.govinfo.gov/link/statute/136/2940).)*

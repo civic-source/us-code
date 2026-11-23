@@ -3,9 +3,10 @@ title: "Section 300g - Coverage"
 usc_title: 42
 usc_section: "300g"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 300g"
-generated_at: "2026-03-30T02:56:10.794Z"
+generated_at: "2026-11-23T21:26:30.720Z"
+status: "active"
 ---
 
 # § 300g. Coverage
@@ -16,3 +17,7 @@ Subject to sections 300g–4 and 300g–5 of this title, national primary drinki
   - **(2)** which obtains all of its water from, but is not owned or operated by, a public water system to which such regulations apply;
   - **(3)** which does not sell water to any person; and
   - **(4)** which is not a carrier which conveys passengers in interstate commerce.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XIV, § 1411, as added [Pub. L. 93–523, § 2(a)](https://www.govinfo.gov/link/plaw/93/public/523), Dec. 16, 1974, [88 Stat. 1662](https://www.govinfo.gov/link/statute/88/1662).)*

@@ -3,9 +3,10 @@ title: "Section 544 - Regulation of services, facilities, and equipment"
 usc_title: 47
 usc_section: "544"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 544"
-generated_at: "2026-03-30T02:56:24.519Z"
+generated_at: "2026-11-23T21:26:36.036Z"
+status: "active"
 ---
 
 # § 544. Regulation of services, facilities, and equipment
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:24.519Z"
   - **(1)** Provide 30 days’ advance written notice of any change in channel assignment or in the video programming service provided over any such channel.
   - **(2)** Inform subscribers, via written notice, that comments on programming and channel position changes are being recorded by a designated office of the franchising authority.
 - **(i)** Within 120 days after October 5, 1992 , the Commission shall prescribe rules concerning the disposition, after a subscriber to a cable system terminates service, of any cable installed by the cable operator within the premises of such subscriber.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VI, § 624, as added [Pub. L. 98–549, § 2](https://www.govinfo.gov/link/plaw/98/public/549), Oct. 30, 1984, [98 Stat. 2789](https://www.govinfo.gov/link/statute/98/2789); amended [Pub. L. 102–385](https://www.govinfo.gov/link/plaw/102/public/385), §§ 15, 16, Oct. 5, 1992, [106 Stat. 1490](https://www.govinfo.gov/link/statute/106/1490); [Pub. L. 103–414, title III](https://www.govinfo.gov/link/plaw/103/public/414), §§ 303(a)(23), 304(a)(12), Oct. 25, 1994, [108 Stat. 4295](https://www.govinfo.gov/link/statute/108/4295), 4297; [Pub. L. 104–104, title III, § 301(e)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 116](https://www.govinfo.gov/link/statute/110/116).)*

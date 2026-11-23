@@ -3,9 +3,10 @@ title: "Section 123 - Amounts received under insurance contracts for certain liv
 usc_title: 26
 usc_section: "123"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 123"
-generated_at: "2026-03-30T02:55:27.626Z"
+generated_at: "2026-11-23T21:26:06.007Z"
+status: "active"
 ---
 
 # § 123. Amounts received under insurance contracts for certain living expenses
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:27.626Z"
 - **(b)** Subsection (a) shall apply to amounts received by the taxpayer for living expenses incurred during any period only to the extent the amounts received do not exceed the amount by which—
   - **(1)** the actual living expenses incurred during such period for himself and members of his household resulting from the loss of use or occupancy of their residence, exceed
   - **(2)** the normal living expenses which would have been incurred for himself and members of his household during such period.
+
+## Source Credit
+
+*(Added [Pub. L. 91–172, title IX, § 901(a)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 709](https://www.govinfo.gov/link/statute/83/709).)*

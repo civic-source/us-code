@@ -3,9 +3,10 @@ title: "Section 884 - Branch profits tax"
 usc_title: 26
 usc_section: "884"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 884"
-generated_at: "2026-03-30T02:55:27.742Z"
+generated_at: "2026-11-23T21:26:06.419Z"
+status: "active"
 ---
 
 # § 884. Branch profits tax
@@ -79,3 +80,13 @@ generated_at: "2026-03-30T02:55:27.742Z"
       - **(i)** such treaty is an income tax treaty, and
       - **(ii)** such foreign corporation is a qualified resident of such foreign country.
 - **(g)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations providing for appropriate adjustments in the determination of the dividend equivalent amount in connection with the distribution to shareholders or transfer to a controlled corporation of the taxpayer’s U.S. assets and other adjustments in such determination as are necessary or appropriate to carry out the purposes of this section.
+
+Effectively connected taxable income
+
+In general
+
+Limitation on certain treaty benefits
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XII, § 1241(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2576](https://www.govinfo.gov/link/statute/100/2576); amended [Pub. L. 100–647, title I, § 1012(q)(1)(A)](https://www.govinfo.gov/link/plaw/100/public/647), (2)–(6), (14), title VI, § 6133(b), Nov. 10, 1988, [102 Stat. 3522–3525](https://www.govinfo.gov/link/statute/102/3522), 3721; [Pub. L. 104–188, title I, § 1704(f)(3)(A)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1879](https://www.govinfo.gov/link/statute/110/1879); [Pub. L. 110–172, § 11(g)(8)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2490](https://www.govinfo.gov/link/statute/121/2490).)*

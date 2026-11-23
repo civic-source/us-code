@@ -3,9 +3,10 @@ title: "Section 7526 - Low-income taxpayer clinics"
 usc_title: 26
 usc_section: "7526"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7526"
-generated_at: "2026-03-30T02:55:27.878Z"
+generated_at: "2026-11-23T21:26:06.984Z"
+status: "active"
 ---
 
 # § 7526. Low-income taxpayer clinics
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:55:27.878Z"
   - **(6)** Notwithstanding any other provision of law, officers and employees of the Department of the Treasury may—
     - **(A)** advise taxpayers of the availability of, and eligibility requirements for receiving, advice and assistance from one or more specific qualified low-income taxpayer clinics receiving funding under this section, and
     - **(B)** provide information regarding the location of, and contact information for, such clinics.
+
+## Source Credit
+
+*(Added [Pub. L. 105–206, title III, § 3601(a)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 774](https://www.govinfo.gov/link/statute/112/774); amended [Pub. L. 116–25, title I, § 1402(a)](https://www.govinfo.gov/link/plaw/116/public/25), July 1, 2019, [133 Stat. 997](https://www.govinfo.gov/link/statute/133/997).)*

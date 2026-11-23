@@ -3,9 +3,10 @@ title: "Section 303c - Television program improvement"
 usc_title: 47
 usc_section: "303c"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 303c"
-generated_at: "2026-03-30T02:56:24.506Z"
+generated_at: "2026-11-23T21:26:35.980Z"
+status: "active"
 ---
 
 # § 303c. Television program improvement
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:24.506Z"
 - **(d)**
   - **(1)** The exemption provided in subsection (c) shall not apply to any joint discussion, consideration, review, action, or agreement which results in a boycott of any person.
   - **(2)** The exemption provided in subsection (c) shall apply only to any joint discussion, consideration, review, action, or agreement engaged in only during the 3-year period beginning on December 1, 1990 .
+
+## Source Credit
+
+*([Pub. L. 101–650, title V, § 501](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5127](https://www.govinfo.gov/link/statute/104/5127).)*

@@ -3,9 +3,10 @@ title: "Section 8942 - Rifles and ammunition for target practice: educational in
 usc_title: 10
 usc_section: "8942"
 chapter: 895
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 8942"
-generated_at: "2026-03-30T02:53:38.253Z"
+generated_at: "2026-11-23T21:25:32.969Z"
+status: "active"
 ---
 
 # § 8942. Rifles and ammunition for target practice: educational institutions having corps of midshipmen
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:53:38.253Z"
   - **(2)** take proper care of the property; and
   - **(3)** return the property when required.
 - **(c)** The Secretary of the Navy shall prescribe regulations to carry out this section, containing such other requirements as he considers necessary to safeguard the interests of the United States.
+
+Authority To Lend
+
+Responsibilities of Institutions
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 110–181, div. A, title III, § 377(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 85](https://www.govinfo.gov/link/statute/122/85), § 7912; renumbered § 8942, [Pub. L. 115–232, div. A, title VIII, § 807(d)(15)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1837](https://www.govinfo.gov/link/statute/132/1837).)*

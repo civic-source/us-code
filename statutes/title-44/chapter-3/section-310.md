@@ -3,12 +3,17 @@ title: "Section 310 - Payments for printing, binding, blank paper, and supplies"
 usc_title: 44
 usc_section: "310"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 310"
-generated_at: "2026-03-30T02:55:56.288Z"
+generated_at: "2026-11-23T21:26:18.377Z"
+status: "active"
 ---
 
 # § 310. Payments for printing, binding, blank paper, and supplies
 
 An executive department or independent establishment of the Government ordering printing and binding or blank paper and supplies from the Government Publishing Office shall pay promptly by check to the Director of the Government Publishing Office upon the written request of the Director, either in advance or upon completion of the work, all or part of the estimated or actual cost, as the case may be, and bills rendered by the Director of the Government Publishing Office are not subject to audit or certification in advance of payment. Adjustments on the basis of the actual cost of delivered work paid for in advance shall be made monthly or quarterly and as may be agreed by the Director of the Government Publishing Office and the department or establishment concerned.
 
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1241](https://www.govinfo.gov/link/statute/82/1241); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), (c)(1), (i)(6), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537), 2539.)*

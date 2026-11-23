@@ -3,9 +3,10 @@ title: "Section 8062 - United States Navy: composition; functions"
 usc_title: 10
 usc_section: "8062"
 chapter: 807
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 8062"
-generated_at: "2026-03-30T02:53:38.238Z"
+generated_at: "2026-11-23T21:25:32.887Z"
+status: "active"
 ---
 
 # § 8062. United States Navy: composition; functions
@@ -39,3 +40,22 @@ generated_at: "2026-03-30T02:53:38.238Z"
       - **(iv)** to meet requirements for missions not otherwise specified in clauses (i) through (iii).
 - **(g)** A nuclear powered aircraft carrier may not be retired before its first refueling.
 - **(h)** In this section, the term “amphibious warfare ship” means a ship that is classified as an amphibious assault ship (general purpose) (LHA), an amphibious assault ship (multi-purpose) (LHD), an amphibious transport dock (LPD), or a dock landing ship (LSD).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5012 | 5 U.S.C. 411a(b) . | July 26, 1947, ch. 343, § 206(b) , 61 Stat. 501 . |
+
+
+Historical and Revision Notes
+
+5012
+
+5 U.S.C. 411a(b)
+
+July 26, 1947, ch. 343, § 206(b)
+
+61 Stat. 501
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 277, § 5012; renumbered § 5062 and amended [Pub. L. 99–433, title V, § 511(b)(3)](https://www.govinfo.gov/link/plaw/99/public/433), (4), Oct. 1, 1986, [100 Stat. 1043](https://www.govinfo.gov/link/statute/100/1043); [Pub. L. 109–163, div. A, title I, § 126(a)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3159](https://www.govinfo.gov/link/statute/119/3159); [Pub. L. 109–364, div. A, title X, § 1011(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2374](https://www.govinfo.gov/link/statute/120/2374); [Pub. L. 114–328, div. A, title X, § 1042(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2393](https://www.govinfo.gov/link/statute/130/2393); renumbered § 8062, [Pub. L. 115–232, div. A, title VIII, § 807(a)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1834](https://www.govinfo.gov/link/statute/132/1834); [Pub. L. 116–283, div. A, title X, § 1054](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3850](https://www.govinfo.gov/link/statute/134/3850); [Pub. L. 117–81, div. A, title X, § 1053](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1908](https://www.govinfo.gov/link/statute/135/1908); [Pub. L. 117–263, div. A, title I, § 121(a)](https://www.govinfo.gov/link/plaw/117/public/263), title IX, § 913, title X, § 1023, Dec. 23, 2022, [136 Stat. 2440](https://www.govinfo.gov/link/statute/136/2440), 2751, 2764; [Pub. L. 118–31, div. A, title I, § 121(a)(1)](https://www.govinfo.gov/link/plaw/118/public/31), title XVIII, § 1801(a)(38), Dec. 22, 2023, [137 Stat. 168](https://www.govinfo.gov/link/statute/137/168), 685; [Pub. L. 119–60, div. A, title X, § 1011](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1030](https://www.govinfo.gov/link/statute/139/1030).)*

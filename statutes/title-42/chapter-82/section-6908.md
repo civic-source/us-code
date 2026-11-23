@@ -3,9 +3,10 @@ title: "Section 6908 - Small town environmental planning"
 usc_title: 42
 usc_section: "6908"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6908"
-generated_at: "2026-03-30T02:56:11.270Z"
+generated_at: "2026-11-23T21:26:32.993Z"
+status: "active"
 ---
 
 # § 6908. Small town environmental planning
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:11.270Z"
   - **(2)** Within 3 years after October 6, 1992 , the Administrator shall report to Congress on the results of the evaluation performed in accordance with paragraph (1). Included in this report shall be a description of the activities conducted pursuant to subsections (a) through (d).
 - **(f)** For purposes of this section, the term “small town” means an incorporated or unincorporated community (as defined by the Administrator) with a population of less than 2,500 individuals.
 - **(g)** There is authorized to be appropriated the sum of $500,000 to implement this section.
+
+## Source Credit
+
+*([Pub. L. 102–386, title I, § 109](https://www.govinfo.gov/link/plaw/102/public/386), Oct. 6, 1992, [106 Stat. 1515](https://www.govinfo.gov/link/statute/106/1515).)*

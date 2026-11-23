@@ -3,9 +3,10 @@ title: "Section 5724a - Relocation expenses of employees transferred or reemploy
 usc_title: 5
 usc_section: "5724a"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5724a"
-generated_at: "2026-03-30T02:52:56.024Z"
+generated_at: "2026-11-23T21:25:23.296Z"
+status: "active"
 ---
 
 # § 5724a. Relocation expenses of employees transferred or reemployed
@@ -48,3 +49,40 @@ generated_at: "2026-03-30T02:52:56.024Z"
   - **(2)** Amounts paid under paragraph (1) may not exceed amounts determined at the maximum rate payable for a position at GS–13 of the General Schedule.
 - **(g)** A former employee separated by reason of reduction in force or transfer of function who within one year after the separation is reemployed by a nontemporary appointment at a different geographical location from that where the separation occurred, may be allowed and paid the expenses authorized by sections 5724, 5725, 5726(b), and 5727 of this title, and may receive the benefits authorized by subsections (a) through (f) of this section, in the same manner as though the employee had been transferred in the interest of the Government without a break in service to the location of reemployment from the location where separated.
 - **(h)** Payments for subsistence expenses, including amounts in lieu of per diem or actual subsistence expenses or a combination thereof, authorized under this section may not exceed the maximum payment allowed under regulations which implement section 5702 of this title .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5724a(a) | 5 App.: 73b–4a. | July 21, 1966 , Pub. L. 89–516, § 2 “Sec. 23”, 80 Stat. 323 . |
+| 5724a(b) | 5 App.: 73b–4b. | July 21, 1966 , Pub. L. 89–516, § 2 “Sec. 24”, 80 Stat. 324 . |
+| 5724a(c) | 5 App.: 73b–4e. | July 21, 1966 , Pub. L. 89–516, § 2 “Sec. 27”, 80 Stat. 325 . |
+
+
+Historical and Revision Notes
+
+5724a(a)
+
+July 21, 1966
+
+Pub. L. 89–516, § 2
+
+80 Stat. 323
+
+5724a(b)
+
+July 21, 1966
+
+Pub. L. 89–516, § 2
+
+80 Stat. 324
+
+5724a(c)
+
+July 21, 1966
+
+Pub. L. 89–516, § 2
+
+80 Stat. 325
+
+## Source Credit
+
+*(Added [Pub. L. 90–83, § 1(37)(A)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 204](https://www.govinfo.gov/link/statute/81/204); amended [Pub. L. 96–70, title I, § 1231(d)](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 470](https://www.govinfo.gov/link/statute/93/470); [Pub. L. 98–151, § 118(a)(5)](https://www.govinfo.gov/link/plaw/98/public/151), (6), Nov. 14, 1983, [97 Stat. 977](https://www.govinfo.gov/link/statute/97/977), 978; [Pub. L. 99–234, title I, § 105](https://www.govinfo.gov/link/plaw/99/public/234), Jan. 2, 1986, [99 Stat. 1758](https://www.govinfo.gov/link/statute/99/1758); [Pub. L. 100–202, § 101(m) [title VI, § 628(a)(1)]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–390](https://www.govinfo.gov/link/statute/101/1329), 1329–430; [Pub. L. 101–510, div. A, title XII, § 1206(c)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1661](https://www.govinfo.gov/link/statute/104/1661); [Pub. L. 104–201, div. A, title XVII](https://www.govinfo.gov/link/plaw/104/public/201), §§ 1711–1713(a), 1714, 1718, Sept. 23, 1996, [110 Stat. 2753–2755](https://www.govinfo.gov/link/statute/110/2753), 2757; [Pub. L. 105–85, div. C, title XXXV, § 3550(c)(2)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 2074](https://www.govinfo.gov/link/statute/111/2074); [Pub. L. 105–264](https://www.govinfo.gov/link/plaw/105/public/264), §§ 6(5), 7, Oct. 19, 1998, [112 Stat. 2356](https://www.govinfo.gov/link/statute/112/2356), 2357.)*

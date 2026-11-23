@@ -3,9 +3,10 @@ title: "Section 8701 - Merchant mariners’ documents required"
 usc_title: 46
 usc_section: "8701"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 8701"
-generated_at: "2026-03-30T02:56:15.552Z"
+generated_at: "2026-11-23T21:26:37.100Z"
+status: "active"
 ---
 
 # § 8701. Merchant mariners’ documents required
@@ -24,3 +25,20 @@ generated_at: "2026-03-30T02:56:15.552Z"
 - **(b)** A person may not engage or employ an individual, and an individual may not serve, on board a vessel to which this section applies if the individual does not have a merchant mariner’s document issued to the individual under section 7302 of this title . Except for an individual required to be licensed or registered under this part, the document must authorize service in the capacity for which the holder of the document is engaged or employed.
 - **(c)** On a vessel to which section 10306 or 10503 of this title does not apply, an individual required by this section to hold a merchant mariner’s document must exhibit it to the master of the vessel before the individual may be employed.
 - **(d)** A person (including an individual) violating this section is liable to the United States Government for a civil penalty of $500.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 8701 | 46:444 46:643 46:643a 46:672 |
+
+
+Historical and Revision Notes
+
+8701
+
+In General
+
+Sunset
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 554](https://www.govinfo.gov/link/statute/97/554); [Pub. L. 98–364, title IV, § 402(12)(A)](https://www.govinfo.gov/link/plaw/98/public/364), July 17, 1984, [98 Stat. 449](https://www.govinfo.gov/link/statute/98/449); [Pub. L. 99–640, § 11(c)](https://www.govinfo.gov/link/plaw/99/public/640), Nov. 10, 1986, [100 Stat. 3550](https://www.govinfo.gov/link/statute/100/3550); [Pub. L. 104–324, title VII, § 731](https://www.govinfo.gov/link/plaw/104/public/324), title XI, § 1104(e), Oct. 19, 1996, [110 Stat. 3940](https://www.govinfo.gov/link/statute/110/3940), 3967; [Pub. L. 107–295, title III, § 324(b)](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2104](https://www.govinfo.gov/link/statute/116/2104).)*

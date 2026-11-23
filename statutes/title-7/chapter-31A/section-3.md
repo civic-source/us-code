@@ -3,9 +3,10 @@ title: "Section 3 - Administration"
 usc_title: 7
 usc_section: "3"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3"
-generated_at: "2026-03-30T02:53:42.299Z"
+generated_at: "2026-11-23T21:25:28.017Z"
+status: "active"
 ---
 
 # § 950aaa–3. Administration
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.299Z"
 - **(d)** The Secretary shall encourage the development of consortia to provide telemedicine services or distance learning services through telecommunications in rural areas served by a telecommunications provider.
 - **(e)** The Secretary shall coordinate, to the extent practicable, with other Federal and State agencies with similar grant or loan programs to pool resources for funding meritorious proposals in rural areas.
 - **(f)** The Secretary shall establish and implement procedures to carry out informational efforts to advise potential end users located in rural areas of each State about the program authorized by this chapter.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XXIII, § 2334](https://www.govinfo.gov/link/plaw/101/public/624), as added [Pub. L. 104–127, title VII, § 704](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1111](https://www.govinfo.gov/link/statute/110/1111).)*

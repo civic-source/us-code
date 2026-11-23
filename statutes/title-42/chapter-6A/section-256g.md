@@ -3,9 +3,10 @@ title: "Section 256g - Grants for innovative programs"
 usc_title: 42
 usc_section: "256g"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 256g"
-generated_at: "2026-03-30T02:56:10.718Z"
+generated_at: "2026-11-23T21:26:30.371Z"
+status: "active"
 ---
 
 # § 256g. Grants for innovative programs
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:10.718Z"
 - **(d)** The Secretary may not make a grant to a State under this section unless that State agrees that, with respect to the costs to be incurred by the State in carrying out the activities for which the grant was awarded, the State will provide non-Federal contributions in an amount equal to not less than 40 percent of Federal funds provided under the grant. The State may provide the contributions in cash or in kind, fairly evaluated, including plant, equipment, and services and may provide the contributions from State, local, or private sources.
 - **(e)** Not later than 5 years after October 26, 2002 , the Secretary shall prepare and submit to the appropriate committees of Congress a report containing data relating to whether grants provided under this section have increased access to dental services in designated dental health professional shortage areas.
 - **(f)** There is authorized to be appropriated to carry out this section, $13,903,000 for each of fiscal years 2019 through 2023.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 340G, as added [Pub. L. 107–251, title IV, § 403](https://www.govinfo.gov/link/plaw/107/public/251), Oct. 26, 2002, [116 Stat. 1661](https://www.govinfo.gov/link/statute/116/1661); amended [Pub. L. 110–355, § 5](https://www.govinfo.gov/link/plaw/110/public/355), Oct. 8, 2008, [122 Stat. 3994](https://www.govinfo.gov/link/statute/122/3994); [Pub. L. 115–302, § 3](https://www.govinfo.gov/link/plaw/115/public/302), Dec. 11, 2018, [132 Stat. 4397](https://www.govinfo.gov/link/statute/132/4397).)*

@@ -3,9 +3,10 @@ title: "Section 7517 - Furnishing on request of statement explaining estate or g
 usc_title: 26
 usc_section: "7517"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7517"
-generated_at: "2026-03-30T02:55:27.877Z"
+generated_at: "2026-11-23T21:26:06.980Z"
+status: "active"
 ---
 
 # § 7517. Furnishing on request of statement explaining estate or gift valuation
@@ -16,3 +17,9 @@ generated_at: "2026-03-30T02:55:27.877Z"
   - **(2)** set forth any computation used in arriving at such value, and
   - **(3)** contain a copy of any expert appraisal made by or for the Secretary.
 - **(c)** Except to the extent otherwise provided by law, the value determined or proposed by the Secretary with respect to which a statement is furnished under this section, and the method used in arriving at such value, shall not be binding on the Secretary.
+
+“The amendments made by subsection (a) [enacting this section and amending sections 2031 and 2512 of this title]—
+
+## Source Credit
+
+*(Added [Pub. L. 94–455, title XX, § 2008(a)(1)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1891](https://www.govinfo.gov/link/statute/90/1891).)*

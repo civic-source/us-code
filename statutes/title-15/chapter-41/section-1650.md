@@ -3,9 +3,10 @@ title: "Section 1650 - Preventing unfair and deceptive private educational lendi
 usc_title: 15
 usc_section: "1650"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1650"
-generated_at: "2026-03-30T02:54:08.144Z"
+generated_at: "2026-11-23T21:25:39.861Z"
+status: "active"
 ---
 
 # § 1650. Preventing unfair and deceptive private educational lending practices and eliminating conflicts of interest
@@ -72,3 +73,7 @@ generated_at: "2026-03-30T02:54:08.144Z"
     - **(A)** The holder of a private education loan, when notified of the death of a student obligor, shall release within a reasonable timeframe any cosigner from the obligations of the cosigner under the private education loan.
     - **(B)** A holder or servicer of a private education loan, as applicable, shall within a reasonable time-frame notify any cosigners for the private education loan if a cosigner is released from the obligations of the cosigner for the private education loan under this paragraph.
     - **(C)** Any lender that extends a private education loan shall provide the student obligor an option to designate an individual to have the legal authority to act on behalf of the student obligor with respect to the private education loan in the event of the death of the student obligor.
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 140](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 110–315, title X, § 1011(a)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3479](https://www.govinfo.gov/link/statute/122/3479); amended [Pub. L. 111–24, title III, § 304](https://www.govinfo.gov/link/plaw/111/public/24), May 22, 2009, [123 Stat. 1749](https://www.govinfo.gov/link/statute/123/1749); [Pub. L. 111–203, title X, § 1100A(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2107](https://www.govinfo.gov/link/statute/124/2107); [Pub. L. 115–174, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1365](https://www.govinfo.gov/link/statute/132/1365).)*

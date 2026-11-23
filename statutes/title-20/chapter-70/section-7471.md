@@ -3,9 +3,10 @@ title: "Section 7471 - National Advisory Council on Indian Education"
 usc_title: 20
 usc_section: "7471"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7471"
-generated_at: "2026-03-30T02:54:48.213Z"
+generated_at: "2026-11-23T21:25:47.587Z"
+status: "active"
 ---
 
 # § 7471. National Advisory Council on Indian Education
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:48.213Z"
   - **(3)** submit to Congress, not later than June 30 of each year, a report on the activities of the Council, including—
     - **(A)** any recommendations that the Council considers appropriate for the improvement of Federal education programs that include Indian children or adults as participants, or that may benefit Indian children or adults; and
     - **(B)** recommendations concerning the funding of any program described in subparagraph (A).
+
+## Source Credit
+
+*([Pub. L. 89–10, title VI, § 6141](https://www.govinfo.gov/link/plaw/89/public/10), formerly title VII, § 7141, as added [Pub. L. 107–110, title VII, § 701](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1930](https://www.govinfo.gov/link/statute/115/1930); renumbered title VI, § 6141, and amended [Pub. L. 114–95, title VI](https://www.govinfo.gov/link/plaw/114/public/95), §§ 6001(a), (b)(1), 6002(r), Dec. 10, 2015, [129 Stat. 2046](https://www.govinfo.gov/link/statute/129/2046), 2062.)*

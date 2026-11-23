@@ -3,9 +3,10 @@ title: "Section 779 - Coordination with, and technical assistance to, State gove
 usc_title: 15
 usc_section: "779"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 779"
-generated_at: "2026-03-30T02:54:08.122Z"
+generated_at: "2026-11-23T21:25:39.763Z"
+status: "active"
 ---
 
 # § 779. Coordination with, and technical assistance to, State governments
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.122Z"
   - **(2)** convene conferences of State and Federal officials, and such other persons as the Administrator designates, to promote the purposes of this chapter, and the Administrator is authorized to pay reasonable expenses incurred in the participation of individuals in such conferences;
   - **(3)** draft and make available to State governments model legislation with respect to State energy programs and policies; and
   - **(4)** promote the promulgation of uniform criteria, procedures, and forms for grant or contract applications for energy proposals submitted by State governments.
+
+## Source Credit
+
+*([Pub. L. 93–275, § 20](https://www.govinfo.gov/link/plaw/93/public/275), May 7, 1974, [88 Stat. 111](https://www.govinfo.gov/link/statute/88/111).)*

@@ -3,9 +3,10 @@ title: "Section 1136a - Masters degree programs at historically Black colleges a
 usc_title: 20
 usc_section: "1136a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1136a"
-generated_at: "2026-03-30T02:54:48.147Z"
+generated_at: "2026-11-23T21:25:47.250Z"
+status: "active"
 ---
 
 # § 1136a. Masters degree programs at historically Black colleges and universities
@@ -71,3 +72,7 @@ generated_at: "2026-03-30T02:54:48.147Z"
 - **(g)** Notwithstanding paragraphs (2) and (3) of subsection (f), no eligible institution identified in subsection (b)(1) that receives a grant under this section for fiscal year 2009 and that is eligible to receive a grant for a subsequent fiscal year shall receive a grant amount for any such subsequent fiscal year that is less than the grant amount received for fiscal year 2009, unless—
   - **(1)** the amount appropriated is not sufficient to provide such grant amounts to all such institutions and programs that received grants under this section for such fiscal year and that are eligible to receive a grant in such subsequent fiscal year; or
   - **(2)** the institution cannot provide sufficient matching funds to meet the requirements of this section.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VII, § 723](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title VII, § 706(b)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3349](https://www.govinfo.gov/link/statute/122/3349); amended [Pub. L. 111–39, title VII, § 701(2)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1954](https://www.govinfo.gov/link/statute/123/1954).)*

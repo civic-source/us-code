@@ -3,9 +3,10 @@ title: "Section 1063 - Allotments to institutions"
 usc_title: 20
 usc_section: "1063"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1063"
-generated_at: "2026-03-30T02:54:48.101Z"
+generated_at: "2026-11-23T21:25:47.037Z"
+status: "active"
 ---
 
 # § 1063. Allotments to institutions
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:48.101Z"
     - **(A)** the number of Pell Grant recipients enrolled in the part B institution in the academic year preceding such fiscal year;
     - **(B)** the number of students who earned an associate or baccalaureate degree from the part B institution in the academic year preceding such fiscal year; and
     - **(C)** where appropriate, the percentage of students who, within 5 years of graduation from the part B institution, were admitted to and in attendance at a graduate or professional school in a degree program in disciplines in which Blacks are underrepresented in the academic year preceding such fiscal year.
+
+## Source Credit
+
+*([Pub. L. 89–329, title III, § 324](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title III, § 301(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1296](https://www.govinfo.gov/link/statute/100/1296); amended [Pub. L. 99–509, title VII, § 7007](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1950](https://www.govinfo.gov/link/statute/100/1950); [Pub. L. 102–325, title III, § 303(c)](https://www.govinfo.gov/link/plaw/102/public/325), (d), July 23, 1992, [106 Stat. 475](https://www.govinfo.gov/link/statute/106/475); [Pub. L. 105–33, title XI, § 11717(b)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 786](https://www.govinfo.gov/link/statute/111/786); [Pub. L. 110–315, title III, § 310](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3177](https://www.govinfo.gov/link/statute/122/3177); [Pub. L. 111–39, title III, § 301(4)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1937](https://www.govinfo.gov/link/statute/123/1937).)*

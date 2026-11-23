@@ -3,9 +3,10 @@ title: "Section 2903 - Conservation plans"
 usc_title: 16
 usc_section: "2903"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2903"
-generated_at: "2026-03-30T02:54:23.007Z"
+generated_at: "2026-11-23T21:25:51.956Z"
+status: "active"
 ---
 
 # § 2903. Conservation plans
@@ -24,3 +25,7 @@ The conservation plan for any State must—
   - **(8)** provide for plan review and revision, if appropriate, at intervals of not more than 3 years;
   - **(9)** ensure that the public be given opportunity to make its views known and considered during the development, revision, and implementation of the plan; and
   - **(10)** provide that the designated State agency consult, as appropriate, with Federal agencies, and other State agencies during the development, revision, and implementation of the plan, in order to minimize duplication of efforts and to ensure that the best information is available to all such agencies.
+
+## Source Credit
+
+*([Pub. L. 96–366, § 4](https://www.govinfo.gov/link/plaw/96/public/366), Sept. 29, 1980, [94 Stat. 1323](https://www.govinfo.gov/link/statute/94/1323).)*

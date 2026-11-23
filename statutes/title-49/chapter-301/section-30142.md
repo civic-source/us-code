@@ -3,9 +3,10 @@ title: "Section 30142 - Importing motor vehicles for personal use"
 usc_title: 49
 usc_section: "30142"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 30142"
-generated_at: "2026-03-30T02:56:19.352Z"
+generated_at: "2026-11-23T21:26:40.763Z"
+status: "active"
 ---
 
 # § 30142. Importing motor vehicles for personal use
@@ -24,3 +25,35 @@ generated_at: "2026-03-30T02:56:19.352Z"
       - **(i)** will be brought into compliance with those standards within a reasonable time (specified by the Secretary of Transportation) after the vehicle is imported; or
       - **(ii)** will be exported (at no cost to the United States Government) by the Secretary of the Treasury or abandoned to the Government.
   - **(2)** For good cause shown, the Secretary of Transportation may allow an individual additional time, but not more than 30 days after the day on which the motor vehicle is offered for import, to comply with paragraph (1)(A)(ii) of this subsection.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30142(a) | 15:1397(f)(1). | Sept. 9, 1966 , Pub. L. 89–563 , 80 Stat. 718 , § 108(f); added Oct. 31, 1988 , Pub. L. 100–562, § 2(b) , 102 Stat. 2822 . |
+| 30142(b) | 15:1397(f)(2). |  |
+
+
+General
+
+Exemptions
+
+Historical and Revision Notes
+
+30142(a)
+
+Sept. 9, 1966
+
+Pub. L. 89–563
+
+80 Stat. 718
+
+Oct. 31, 1988
+
+Pub. L. 100–562, § 2(b)
+
+102 Stat. 2822
+
+30142(b)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 962](https://www.govinfo.gov/link/statute/108/962).)*

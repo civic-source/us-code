@@ -3,9 +3,10 @@ title: "Section 8515 - Prohibition on procurement contracts with persons that ex
 usc_title: 22
 usc_section: "8515"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8515"
-generated_at: "2026-03-30T02:55:05.452Z"
+generated_at: "2026-11-23T21:25:58.743Z"
+status: "active"
 ---
 
 # § 8515. Prohibition on procurement contracts with persons that export sensitive technology to Iran
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.452Z"
     - **(B)** to disrupt, monitor, or otherwise restrict speech of the people of Iran.
   - **(2)** The term “sensitive technology” does not include information or informational materials the exportation of which the President does not have the authority to regulate or prohibit pursuant to section 1702(b)(3) of title 50 .
 - **(d)** Not later than 1 year after July 1, 2010 , the Comptroller General of the United States shall submit to the appropriate congressional committees, the Committee on Armed Services of the Senate, and the Committee on Armed Services of the House of Representatives, a report assessing the extent to which executive agencies would have entered into or renewed contracts for the procurement of goods or services with persons that export sensitive technology to Iran if the prohibition under subsection (a) were not in effect.
+
+## Source Credit
+
+*([Pub. L. 111–195, title I, § 106](https://www.govinfo.gov/link/plaw/111/public/195), July 1, 2010, [124 Stat. 1336](https://www.govinfo.gov/link/statute/124/1336).)*

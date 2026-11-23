@@ -3,9 +3,10 @@ title: "Section 202 - Tribal transportation program"
 usc_title: 23
 usc_section: "202"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 202"
-generated_at: "2026-03-30T02:55:12.565Z"
+generated_at: "2026-11-23T21:25:53.912Z"
+status: "active"
 ---
 
 # § 202. Tribal transportation program
@@ -135,3 +136,335 @@ generated_at: "2026-03-30T02:55:12.565Z"
   - **(1)** Before making any distribution under subsection (b), the Secretary shall set aside not more than 4 percent of the funds made available under the tribal transportation program for each fiscal year to be allocated based on an identification and analysis of highway safety issues and opportunities on tribal land, as determined by the Secretary, on application of the Indian tribal governments for eligible projects described in section 148(a)(4).
   - **(2)** An Indian tribal government, in cooperation with the Secretary of the Interior and, as appropriate, with a State, local government, or metropolitan planning organization, shall select projects from the transportation improvement program, subject to the approval of the Secretary and the Secretary of the Interior.
 - **(f)** Before approving as a project on a tribal transportation facility any project eligible for funds apportioned under section 104 in a State, the Secretary shall, for projects on tribal transportation facilities, determine that the obligation of funds for the project is supplementary to and not in lieu of the obligation of a fair and equitable share of funds apportioned to the State under section 104.
+
+Use of Funds.—
+
+In general
+
+Contract
+
+Indian labor
+
+Federal employment
+
+Funds for construction and improvement
+
+Administrative expenses
+
+Tribal technical assistance centers
+
+Maintenance.—
+
+Use of funds
+
+Responsibility of bureau of indian affairs and secretary of the interior.—
+
+Bureau of indian affairs
+
+Secretary of the interior
+
+Tribal-state road maintenance agreements.—
+
+In general
+
+Requirements
+
+Cooperation.—
+
+In general
+
+Funds received
+
+Competitive bidding.—
+
+Construction.—
+
+In general
+
+Exception
+
+Applicability
+
+Funds Distribution.—
+
+National tribal transportation facility inventory.—
+
+In general
+
+Transportation facilities included in the inventory
+
+Limitation on primary access routes
+
+Additional facilities
+
+Bridges
+
+Regulations
+
+Basis for funding formula.—
+
+Basis.—
+
+In general
+
+(aa) for each Indian tribe, 80 percent of the total relative need distribution factor and population adjustment factor for the fiscal year 2011 funding amount made available to that Indian tribe; and
+
+(bb) the remainder using tribal shares as described in subparagraphs (B) and (C).
+
+(aa) for each Indian tribe, 60 percent of the total relative need distribution factor and population adjustment factor for the fiscal year 2011 funding amount made available to that Indian tribe; and
+
+(bb) the remainder using tribal shares as described in subparagraphs (B) and (C).
+
+(aa) for each Indian tribe, 40 percent of the total relative need distribution factor and population adjustment factor for the fiscal year 2011 funding amount made available to that Indian tribe; and
+
+(bb) the remainder using tribal shares as described in subparagraphs (B) and (C).
+
+(aa) for each Indian tribe, 20 percent of the total relative need distribution factor and population adjustment factor for the fiscal year 2011 funding amount made available to that Indian tribe; and
+
+(bb) the remainder using tribal shares as described in subparagraphs (B) and (C).
+
+Tribal high priority projects
+
+Tribal shares
+
+Tribal supplemental funding.—
+
+Tribal supplemental funding amount
+
+(aa) $82,500,000; plus
+
+(bb) 12.5 percent of the amount made available for the tribal transportation program in excess of $275,000,000.
+
+Tribal supplemental allocation
+
+Distribution among regions
+
+Distribution within a region
+
+(aa) Tribal supplemental amounts .— The Secretary shall determine— (AA) which such Indian tribes would be entitled under subparagraph (A) to receive in a fiscal year less funding than they would receive in fiscal year 2011 pursuant to the relative need distribution factor and population adjustment factor, as described in subpart C of part 170 of title 25, Code of Federal Regulations (as in effect on the date of enactment of the MAP–21); and (BB) the combined amount that such Indian tribes would be entitled to receive in fiscal year 2011 pursuant to such relative need distribution factor and population adjustment factor in excess of the amount that they would be entitled to receive in the fiscal year under subparagraph (B).
+
+(bb) Combined amount .— Subject to subclause (III), the Secretary shall distribute to each Indian tribe that meets the criteria described in item (aa)(AA) a share of funding under this subparagraph in proportion to the share of the combined amount determined under item (aa)(BB) attributable to such Indian tribe.
+
+Ceiling
+
+Other amounts
+
+Transferred funds.—
+
+In general
+
+Use of funds
+
+Health and safety assurances
+
+Contracts and agreements with indian tribes.—
+
+In general
+
+Exclusion of agency participation
+
+Contracts and agreements with indian tribes.—
+
+In general
+
+Exclusion of agency participation
+
+Consortia
+
+Secretary as signatory
+
+Funding
+
+Eligibility.—
+
+In general
+
+Considerations
+
+Assumption of functions and duties
+
+Powers
+
+Dispute resolution
+
+Termination of contract or agreement
+
+Planning.—
+
+In general
+
+Requirement
+
+Selection and approval of projects
+
+Tribal Transportation Facility Bridges.—
+
+Nationwide priority program
+
+Use of funds
+
+Eligible bridges
+
+Approval requirement
+
+Safety.—
+
+Funding
+
+Project selection
+
+Federal-aid Eligible Projects
+
+Definition of Tribal Transportation Safety Project.—
+
+In general
+
+Project described
+
+Reviews of Tribal Transportation Safety Projects.—
+
+In general
+
+Review of applications
+
+Decisions under other federal laws
+
+Extensions
+
+Notification and explanation
+
+In General
+
+Inclusions
+
+Definitions
+
+Indian land
+
+Indian tribe
+
+Road
+
+Secretary
+
+Study
+
+Tribal Consultation and Input
+
+Report
+
+Status Report
+
+Definitions
+
+Alaska native
+
+Alaska native village
+
+Indian tribe
+
+Best Practices, Standardized Crash Report Form.—
+
+In general
+
+Purpose
+
+Report
+
+Use of IMARS
+
+Definitions
+
+Emergency or disaster
+
+List
+
+Program
+
+Project
+
+Program
+
+In general
+
+Eligible applicants
+
+Project Applications; Funding.—
+
+In general
+
+Limitation on applications
+
+Application ranking.—
+
+In general
+
+Ranking criteria
+
+Project scoring matrix
+
+Funding priority list.—
+
+In general
+
+Limitation
+
+Timeline
+
+Emergency or Disaster Project Applications.—
+
+In general
+
+Consideration as priority
+
+Funding.—
+
+In general
+
+Submission after issuance of list
+
+Effect on other projects
+
+Emergency or disaster project cost
+
+Limitation on Use of Funds
+
+Limitation on Project Amounts
+
+Cost Estimate Certification
+
+Funding.—
+
+Set-aside
+
+Authorization of appropriations
+
+Administration
+
+Availability to states
+
+Availability to eligible counties.—
+
+In general
+
+Roads
+
+Allocation among eligible counties.—
+
+In general
+
+Allocation among eligible counties
+
+Supplementary funding
+
+Use of unallocated funds
+
+Funding.—
+
+In general
+
+Contract authority
+
+## Source Credit
+
+*(Added [Pub. L. 112–141, div. A, title I, § 1119(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 476](https://www.govinfo.gov/link/statute/126/476); amended [Pub. L. 114–94, div. A, title I](https://www.govinfo.gov/link/plaw/114/public/94), §§ 1118, 1446(a)(12), Dec. 4, 2015, [129 Stat. 1358](https://www.govinfo.gov/link/statute/129/1358), 1438; [Pub. L. 117–58, div. A, title I](https://www.govinfo.gov/link/plaw/117/public/58), §§ 11524(c), 11525(m), title IV, §§ 14004, 14008(d), Nov. 15, 2021, [135 Stat. 606](https://www.govinfo.gov/link/statute/135/606), 608, 648, 651.)*

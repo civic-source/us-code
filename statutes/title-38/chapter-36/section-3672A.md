@@ -3,9 +3,10 @@ title: "Section 3672A - Uniform application"
 usc_title: 38
 usc_section: "3672A"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3672A"
-generated_at: "2026-03-30T02:55:53.507Z"
+generated_at: "2026-11-23T21:26:16.756Z"
+status: "active"
 ---
 
 # § 3672A. Uniform application
@@ -38,3 +39,17 @@ generated_at: "2026-03-30T02:55:53.507Z"
     - **(B)** a list of individuals who will serve as career services employees for students enrolled in the course and an attestation that such individuals are skilled at identifying professions in the relevant industry that are in need of new employees to hire, tailoring the course of education to meet market needs, and identifying the employers likely to hire graduates.
 - **(c)** During the approval process with respect to a uniform application submitted by an educational institution or training establishment, a State approving agency, or the Secretary when acting in the role of a State approving agency, shall contact the Secretary of Education to determine whether the course of education subject to such approval process has withdrawn, or been denied or suspended, from receiving for benefits under title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1070 et seq.).
 - **(d)** In this section, the appropriate executive of an educational institution or training establishment is a senior executive official, senior administrator, owner, or operator designated by the institution or establishment.
+
+In General
+
+Requirements
+
+Requirements for State Approving Agencies
+
+Appropriate Executive
+
+“The application required by section 3672A of title 38 , United States Code, as added by subsection (a), shall—
+
+## Source Credit
+
+*(Added [Pub. L. 117–333, § 11(a)](https://www.govinfo.gov/link/plaw/117/public/333), Jan. 5, 2023, [136 Stat. 6132](https://www.govinfo.gov/link/statute/136/6132).)*

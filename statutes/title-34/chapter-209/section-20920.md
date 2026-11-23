@@ -3,9 +3,10 @@ title: "Section 20920 - Public access to sex offender information through the In
 usc_title: 34
 usc_section: "20920"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20920"
-generated_at: "2026-03-30T02:55:33.300Z"
+generated_at: "2026-11-23T21:26:09.798Z"
+status: "active"
 ---
 
 # § 20920. Public access to sex offender information through the Internet
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:33.300Z"
 - **(d)** The site shall include, to the extent practicable, links to sex offender safety and education resources.
 - **(e)** The site shall include instructions on how to seek correction of information that an individual contends is erroneous.
 - **(f)** The site shall include a warning that information on the site should not be used to unlawfully injure, harass, or commit a crime against any individual named in the registry or residing or working at any reported address. The warning shall note that any such action could result in civil or criminal penalties.
+
+## Source Credit
+
+*([Pub. L. 109–248, title I, § 118](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 596](https://www.govinfo.gov/link/statute/120/596).)*

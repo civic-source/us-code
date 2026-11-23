@@ -3,12 +3,17 @@ title: "Section 460hh - Establishment; boundaries; publication in Federal Regist
 usc_title: 16
 usc_section: "460hh"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 460hh"
-generated_at: "2026-03-30T02:54:22.826Z"
+generated_at: "2026-11-23T21:25:51.590Z"
+status: "active"
 ---
 
 # § 460hh. Establishment; boundaries; publication in Federal Register
 
 In order to provide for public outdoor recreation use and enjoyment of Arbuckle Reservoir and land adjacent thereto, and to provide for more efficient administration of other adjacent area containing scenic, scientific, natural, and historic values contributing to public enjoyment of the area and to designate the area in such manner as will constitute a fitting memorialization of the Chickasaw Indian Nation, there is hereby established the Chickasaw National Recreation Area (hereinafter referred to as the “recreation area”) consisting of lands and interests in lands within the area as generally depicted on the drawing entitled “Boundary Map, Chickasaw National Recreation Area,” numbered 107–20004–A and dated February 1974, which shall be on file and available for inspection in the offices of the National Park Service, Department of the Interior. The Secretary of the Interior (hereinafter referred to as the “Secretary”) may from time to time revise the boundaries of the recreation area by publication of a map or other boundary description in the Federal Register, but the total acreage of the recreation area may not exceed ten thousand acres.
 
+
+## Source Credit
+
+*([Pub. L. 94–235, § 1](https://www.govinfo.gov/link/plaw/94/public/235), Mar. 17, 1976, [90 Stat. 235](https://www.govinfo.gov/link/statute/90/235).)*

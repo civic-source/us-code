@@ -3,9 +3,10 @@ title: "Section 242b - General authority respecting research, evaluations, and d
 usc_title: 42
 usc_section: "242b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 242b"
-generated_at: "2026-03-30T02:56:10.690Z"
+generated_at: "2026-11-23T21:26:30.247Z"
+status: "active"
 ---
 
 # § 242b. General authority respecting research, evaluations, and demonstrations in health statistics, health services, and health care technology
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:10.690Z"
 - **(c)**
   - **(1)** The Secretary shall coordinate all health services research, evaluations, and demonstrations, all health statistical and epidemiological activities, and all research, evaluations, and demonstrations respecting the assessment of health care technology undertaken and supported through units of the Department of Health and Human Services. To the maximum extent feasible such coordination shall be carried out through the Agency for Healthcare Research and Quality and the National Center for Health Statistics.
   - **(2)** The Secretary shall coordinate the health services research, evaluations, and demonstrations, the health statistical and (where appropriate) epidemiological activities, and the research, evaluations, and demonstrations respecting the assessment of health care technology authorized by this chapter through the Agency for Healthcare Research and Quality and the National Center for Health Statistics.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 304, as added July 28, 1955, ch. 417, § 3, [69 Stat. 382](https://www.govinfo.gov/link/statute/69/382); amended Aug. 2, 1956, ch. 871, title V, § 502, [70 Stat. 930](https://www.govinfo.gov/link/statute/70/930); [Pub. L. 90–174, § 3(a)](https://www.govinfo.gov/link/plaw/90/public/174), Dec. 5, 1967, [81 Stat. 534](https://www.govinfo.gov/link/statute/81/534); [Pub. L. 91–296, title IV, § 401(b)(1)(A)](https://www.govinfo.gov/link/plaw/91/public/296), June 30, 1970, [84 Stat. 352](https://www.govinfo.gov/link/statute/84/352); [Pub. L. 91–515, title II](https://www.govinfo.gov/link/plaw/91/public/515), §§ 201(a)–(c), 202, 203, Oct. 30, 1970, [84 Stat. 1301–1303](https://www.govinfo.gov/link/statute/84/1301); [Pub. L. 93–45, title I, § 102](https://www.govinfo.gov/link/plaw/93/public/45), June 18, 1973, [87 Stat. 91](https://www.govinfo.gov/link/statute/87/91); [Pub. L. 93–353, title I, § 103](https://www.govinfo.gov/link/plaw/93/public/353), July 23, 1974, [88 Stat. 362](https://www.govinfo.gov/link/statute/88/362); [Pub. L. 95–623](https://www.govinfo.gov/link/plaw/95/public/623), §§ 3, 7, Nov. 9, 1978, [92 Stat. 3443](https://www.govinfo.gov/link/statute/92/3443), 3451; [Pub. L. 96–32, § 5(a)](https://www.govinfo.gov/link/plaw/96/public/32) –(c), July 10, 1979, [93 Stat. 82](https://www.govinfo.gov/link/statute/93/82); [Pub. L. 97–35, title IX, § 918](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 565](https://www.govinfo.gov/link/statute/95/565); [Pub. L. 98–551, § 5(c)](https://www.govinfo.gov/link/plaw/98/public/551), Oct. 30, 1984, [98 Stat. 2819](https://www.govinfo.gov/link/statute/98/2819); [Pub. L. 101–239, title VI, § 6103(e)(1)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2205](https://www.govinfo.gov/link/statute/103/2205); [Pub. L. 103–183, title V, § 501(b)](https://www.govinfo.gov/link/plaw/103/public/183), Dec. 14, 1993, [107 Stat. 2237](https://www.govinfo.gov/link/statute/107/2237); [Pub. L. 106–129, § 2(b)(2)](https://www.govinfo.gov/link/plaw/106/public/129), Dec. 6, 1999, [113 Stat. 1670](https://www.govinfo.gov/link/statute/113/1670); [Pub. L. 107–206, title I, § 804(c)](https://www.govinfo.gov/link/plaw/107/public/206), Aug. 2, 2002, [116 Stat. 874](https://www.govinfo.gov/link/statute/116/874).)*

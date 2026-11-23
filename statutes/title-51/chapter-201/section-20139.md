@@ -3,9 +3,10 @@ title: "Section 20139 - Insurance for experimental aerospace vehicles"
 usc_title: 51
 usc_section: "20139"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 20139"
-generated_at: "2026-03-30T02:56:28.703Z"
+generated_at: "2026-11-23T21:26:42.528Z"
+status: "active"
 ---
 
 # § 20139. Insurance for experimental aerospace vehicles
@@ -44,3 +45,96 @@ generated_at: "2026-03-30T02:56:28.703Z"
 - **(f)**
   - **(1)** The provisions of this section shall terminate on December 31, 2010 .
   - **(2)** The termination of this section shall not terminate or otherwise affect any cross-waiver agreement, insurance agreement, indemnification agreement, or other agreement entered into under this section, except as may be provided in that agreement.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 20139 | 42 U.S.C. 2458c . | Pub. L. 85–568, title III, § 309 , formerly title III, as added Pub. L. 106–74, title IV, § 435(a) , Oct. 20, 1999 , 113 Stat. 1097 ; designated § 309 and amended Pub. L. 106–391, title III, § 324(a)(2) , (b), Oct. 30, 2000 , 114 Stat. 1599 , 1600; Pub. L. 109–155, title VII, § 702 , Dec. 30, 2005 , 119 Stat. 2936 . |
+
+
+Definitions
+
+Cooperating party
+
+Developer
+
+Experimental aerospace vehicle
+
+Related entity
+
+In General
+
+Terms and Conditions.—
+
+In general
+
+Insurance.—
+
+In general
+
+Maximum required
+
+Increase in dollar amounts
+
+Safety review required before administrator provides insurance
+
+No indemnification without cross-waiver
+
+Application of certain procedures
+
+Cross-Waivers.—
+
+Administrator authorized to waive
+
+Limitations.—
+
+Claims
+
+Liability for negligence
+
+Indemnification for damages
+
+Willful misconduct
+
+Effect on previous waivers
+
+Relationship to Other Laws.—
+
+Section 20138
+
+Section 50919
+
+Termination.—
+
+In general
+
+Effect of termination on agreement
+
+Historical and Revision Notes
+
+20139
+
+42 U.S.C. 2458c
+
+Pub. L. 85–568, title III, § 309
+
+Pub. L. 106–74, title IV, § 435(a)
+
+Oct. 20, 1999
+
+113 Stat. 1097
+
+Pub. L. 106–391, title III, § 324(a)(2)
+
+Oct. 30, 2000
+
+114 Stat. 1599
+
+Pub. L. 109–155, title VII, § 702
+
+Dec. 30, 2005
+
+119 Stat. 2936
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3345](https://www.govinfo.gov/link/statute/124/3345).)*

@@ -3,9 +3,10 @@ title: "Section 6991h - Study of underground storage tanks"
 usc_title: 42
 usc_section: "6991h"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6991h"
-generated_at: "2026-03-30T02:56:11.281Z"
+generated_at: "2026-11-23T21:26:33.039Z"
+status: "active"
 ---
 
 # § 6991h. Study of underground storage tanks
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.281Z"
   - **(2)** All claims for reimbursement shall be filed with the Administrator not later than ninety days after the closure or interruption which gives rise to the claim.
   - **(3)** Reimbursements made under this section shall be from funds appropriated by the Congress pursuant to the authorization contained in section 6916(g) 1 1 See References in Text note below. of this title.
   - **(4)** For purposes of judicial review, a determination by the Administrator under this subsection shall be considered final agency action.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 9009](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 98–616, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/98/public/616), Nov. 8, 1984, [98 Stat. 3287](https://www.govinfo.gov/link/statute/98/3287); amended [Pub. L. 109–58, title XV, § 1532(b)(3)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1105](https://www.govinfo.gov/link/statute/119/1105).)*

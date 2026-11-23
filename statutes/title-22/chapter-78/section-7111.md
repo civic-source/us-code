@@ -3,9 +3,10 @@ title: "Section 7111 - Report by Secretary of State"
 usc_title: 22
 usc_section: "7111"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7111"
-generated_at: "2026-03-30T02:55:05.438Z"
+generated_at: "2026-11-23T21:25:58.712Z"
+status: "active"
 ---
 
 # § 7111. Report by Secretary of State
@@ -14,3 +15,7 @@ At least 15 days prior to voting for a new or reauthorized peacekeeping mission 
 
     - **(A)** a description of measures taken by the organization to prevent the organization’s employees, contractor personnel, and peacekeeping forces serving in the peacekeeping mission from trafficking in persons, exploiting victims of trafficking, or committing acts of sexual exploitation or abuse, and the measures in place to hold accountable any such individuals who engage in any such acts while participating in the peacekeeping mission; and
     - **(B)** an analysis of the effectiveness of each of the measures referred to in subparagraph (A).
+
+## Source Credit
+
+*([Pub. L. 109–164, title I, § 104(e)(2)](https://www.govinfo.gov/link/plaw/109/public/164), Jan. 10, 2006, [119 Stat. 3566](https://www.govinfo.gov/link/statute/119/3566); [Pub. L. 110–457, title III, § 304(b)](https://www.govinfo.gov/link/plaw/110/public/457), Dec. 23, 2008, [122 Stat. 5087](https://www.govinfo.gov/link/statute/122/5087).)*

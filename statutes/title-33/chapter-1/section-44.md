@@ -3,12 +3,17 @@ title: "Section 44 - Sturgeon Bay, Illinois"
 usc_title: 33
 usc_section: "44"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 44"
-generated_at: "2026-03-30T02:55:41.050Z"
+generated_at: "2026-11-23T21:26:11.282Z"
+status: "active"
 ---
 
 # § 44. Sturgeon Bay, Illinois
 
 So much of the west fork of Sturgeon Bay within the county of Mercer and State of Illinois as lies west of the line between the east half and the west half of the east half of section 25, in township 14 north, range 6 west of the fourth principal meridian, and so much of the east fork of said Sturgeon Bay as lies north of the north line of section 30, in township 14 north, range 5 west of the fourth principal meridian, shall not be deemed navigable waters of the United States.
 
+
+## Source Credit
+
+*(Feb. 7, 1907, No. 13, [34 Stat. 1421](https://www.govinfo.gov/link/statute/34/1421).)*

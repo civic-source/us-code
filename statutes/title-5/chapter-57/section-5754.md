@@ -3,9 +3,10 @@ title: "Section 5754 - Retention bonuses"
 usc_title: 5
 usc_section: "5754"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5754"
-generated_at: "2026-03-30T02:52:56.026Z"
+generated_at: "2026-11-23T21:25:23.300Z"
+status: "active"
 ---
 
 # § 5754. Retention bonuses
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:52:56.026Z"
 - **(f)** Upon the request of the head of an agency, the Office may waive the limit established under subsection (e)(1) and permit the agency head to pay an otherwise eligible employee or category of employees retention bonuses of up to 50 percent of basic pay, based on a critical agency need.
 - **(g)** The Office shall require that, before paying any bonuses under this section, an agency shall establish a plan for the payment of any such bonuses, subject to regulations prescribed by the Office.
 - **(h)** The Office may prescribe regulations to carry out this section.
+
+## Source Credit
+
+*(Added [Pub. L. 108–411, title I, § 101(a)(1)](https://www.govinfo.gov/link/plaw/108/public/411), Oct. 30, 2004, [118 Stat. 2307](https://www.govinfo.gov/link/statute/118/2307); amended [Pub. L. 114–323, title IV, § 412(2)](https://www.govinfo.gov/link/plaw/114/public/323), Dec. 16, 2016, [130 Stat. 1932](https://www.govinfo.gov/link/statute/130/1932).)*

@@ -3,9 +3,10 @@ title: "Section 751 - Federal response capability inventory"
 usc_title: 6
 usc_section: "751"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 751"
-generated_at: "2026-03-30T02:53:09.499Z"
+generated_at: "2026-11-23T21:25:25.844Z"
+status: "active"
 ---
 
 # § 751. Federal response capability inventory
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:09.499Z"
     - **(E)** typed resources;
   - **(2)** easy identification and rapid deployment of capabilities, credentialed personnel, and typed resources during an incident; and
   - **(3)** the sharing of the inventory described in subsection (a) with other Federal agencies, as appropriate.
+
+## Source Credit
+
+*([Pub. L. 109–295, title VI, § 651](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1429](https://www.govinfo.gov/link/statute/120/1429); [Pub. L. 110–53, title IV, § 405](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 303](https://www.govinfo.gov/link/statute/121/303).)*

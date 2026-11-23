@@ -3,9 +3,10 @@ title: "Section 2279cc - Conservatorship; liquidation; receivership"
 usc_title: 12
 usc_section: "2279cc"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2279cc"
-generated_at: "2026-03-30T02:53:53.484Z"
+generated_at: "2026-11-23T21:25:37.097Z"
+status: "active"
 ---
 
 # § 2279cc. Conservatorship; liquidation; receivership
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:53:53.484Z"
 - **(i)**
   - **(1)** The charter of the Corporation shall be canceled, and the authority provided to the Corporation by this subchapter shall terminate, on such date as the Farm Credit Administration Board determines is appropriate following the placement of the Corporation in receivership, but not later than the conclusion of the receivership and discharge of the receiver.
   - **(2)** The Office of Secondary Market Oversight established under section 2279aa–11 of this title shall be abolished, and section 2279aa–11(a) of this title and part B shall have no force or effect, on such date as the Farm Credit Administration Board determines is appropriate following the placement of the Corporation in receivership, but not later than the conclusion of the receivership and discharge of the receiver.
+
+## Source Credit
+
+*([Pub. L. 92–181, title VIII, § 8](https://www.govinfo.gov/link/plaw/92/public/181).41, as added [Pub. L. 104–105, title I, § 118](https://www.govinfo.gov/link/plaw/104/public/105), Feb. 10, 1996, [110 Stat. 168](https://www.govinfo.gov/link/statute/110/168).)*

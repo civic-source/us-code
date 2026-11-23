@@ -3,9 +3,10 @@ title: "Section 1228 - Expedited removal of aliens convicted of committing aggra
 usc_title: 8
 usc_section: "1228"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1228"
-generated_at: "2026-03-30T02:53:10.486Z"
+generated_at: "2026-11-23T21:25:25.154Z"
+status: "active"
 ---
 
 # § 1228. Expedited removal of aliens convicted of committing aggravated felonies
@@ -53,3 +54,15 @@ generated_at: "2026-03-30T02:53:10.486Z"
     - **(B)** As soon as is practicable after entry of a judicial order of removal, the Commissioner shall provide the defendant with written notice of the order of removal, which shall designate the defendant’s country of choice for removal and any alternate country pursuant to section 1253(a) 2 of this title.
   - **(4)** Denial of a request for a judicial order of removal shall not preclude the Attorney General from initiating removal proceedings pursuant to section 1229a of this title upon the same ground of deportability or upon any other ground of deportability provided under section 1227(a) of this title .
   - **(5)** The United States Attorney, with the concurrence of the Commissioner, may, pursuant to Federal Rule of Criminal Procedure 11, enter into a plea agreement which calls for the alien, who is deportable under this chapter, to waive the right to notice and a hearing under this section, and stipulate to the entry of a judicial order of removal from the United States as a condition of the plea agreement or as a condition of probation or supervised release, or both. The United States district court, in both felony and misdemeanor cases, and a United States magistrate judge in misdemeanor cases, may accept such a stipulation and shall have jurisdiction to enter a judicial order of removal pursuant to the terms of such stipulation.
+
+In General
+
+Detention and Removal of Criminal Aliens
+
+Report
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 4, § 238, formerly ch. 5, § 242A, as added [Pub. L. 100–690, title VII, § 7347(a)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4471](https://www.govinfo.gov/link/statute/102/4471); amended [Pub. L. 101–649, title V, § 506(a)](https://www.govinfo.gov/link/plaw/101/public/649), Nov. 29, 1990, [104 Stat. 5050](https://www.govinfo.gov/link/statute/104/5050); [Pub. L. 102–232, title III, § 309(b)(10)](https://www.govinfo.gov/link/plaw/102/public/232), Dec. 12, 1991, [105 Stat. 1759](https://www.govinfo.gov/link/statute/105/1759); [Pub. L. 103–322, title XIII, § 130004(a)](https://www.govinfo.gov/link/plaw/103/public/322), (c), Sept. 13, 1994, [108 Stat. 2026](https://www.govinfo.gov/link/statute/108/2026), 2027; [Pub. L. 103–416, title II](https://www.govinfo.gov/link/plaw/103/public/416), §§ 223(a), 224(a), Oct. 25, 1994, [108 Stat. 4322](https://www.govinfo.gov/link/statute/108/4322); [Pub. L. 104–132, title IV](https://www.govinfo.gov/link/plaw/104/public/132), §§ 440(g), 442(a), (c), Apr. 24, 1996, [110 Stat. 1278–1280](https://www.govinfo.gov/link/statute/110/1278); renumbered ch. 4, § 238, and amended [Pub. L. 104–208, div. C, title III](https://www.govinfo.gov/link/plaw/104/public/208), §§ 304(c)(1), 306(d), 308(b)(5), (c)(1), (4)(A), (e)(1)(F), (2)(D), (10), (g)(1), (2)(A), (C), (5)(A)(ii), (C), (D), (10)(H), 374(a), title VI, § 671(b)(13), (c)(5), (6), Sept. 30, 1996, [110 Stat. 3009–597](https://www.govinfo.gov/link/statute/110/3009), 3009–612, 3009–615, 3009–616, 3009–619, 3009–620, 3009–622, 3009–623, 3009–625, 3009–647, 3009–722, 3009–723.)*

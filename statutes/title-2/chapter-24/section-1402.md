@@ -3,9 +3,10 @@ title: "Section 1402 - Initiation of procedures"
 usc_title: 2
 usc_section: "1402"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1402"
-generated_at: "2026-03-30T02:53:04.813Z"
+generated_at: "2026-11-23T21:25:21.227Z"
+status: "active"
 ---
 
 # § 1402. Initiation of procedures
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:04.813Z"
   - **(2)** The system shall be accessible to all parties to such actions or proceedings, but only until the completion of such actions or proceedings.
   - **(3)** The Office shall use the information contained in the system to make regular assessments of the effectiveness of the procedures under this subchapter in providing for the timely resolution of claims, and shall submit semi-annual reports on such assessments each year to the Committee on House Administration of the House of Representatives and the Committee on Rules and Administration of the Senate.
 - **(d)** A covered employee may not file a claim under this section with respect to an allegation of a violation of law after the expiration of the 180-day period which begins on the date of the alleged violation.
+
+## Source Credit
+
+*([Pub. L. 104–1, title IV, § 402](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 32](https://www.govinfo.gov/link/statute/109/32); [Pub. L. 115–397, title I, § 102(a)](https://www.govinfo.gov/link/plaw/115/public/397), Dec. 21, 2018, [132 Stat. 5301](https://www.govinfo.gov/link/statute/132/5301).)*

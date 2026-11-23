@@ -3,9 +3,10 @@ title: "Section 70022 - Prohibition on entry and operation"
 usc_title: 46
 usc_section: "70022"
 chapter: 700
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 70022"
-generated_at: "2026-03-30T02:56:15.585Z"
+generated_at: "2026-11-23T21:26:37.343Z"
+status: "active"
 ---
 
 # § 70022. Prohibition on entry and operation
@@ -37,3 +38,63 @@ generated_at: "2026-03-30T02:56:15.585Z"
   - **(2)** the Secretary of the department in which the Coast Guard is operating allows provisional entry of the vessel, or transfer of cargo from the vessel, under subsection (f).
 - **(f)** Notwithstanding any other provision of this section, the Secretary of the department in which the Coast Guard is operating may allow provisional entry of, or transfer of cargo from, a vessel, if such entry or transfer is necessary for the safety of the vessel or persons aboard.
 - **(g)** This section shall not be construed as authority to restrict the right of innocent passage or the right of transit passage as recognized under international law.
+
+Prohibition.—
+
+In general
+
+Limitations on application.—
+
+In general
+
+Notice
+
+Publication
+
+Vessels Described
+
+Information and Publication
+
+Notification of Governments.—
+
+In general
+
+Additional notification
+
+Notification of Vessels
+
+Provisional Entry or Cargo Transfer
+
+Right of Innocent Passage and Right of Transit Passage
+
+Prohibition.—
+
+In general
+
+Limitations on application.—
+
+In general
+
+Notice
+
+Publication
+
+Savings clause
+
+Vessels Described
+
+Information and Publication
+
+Notification of Governments.—
+
+In general
+
+Additional notification
+
+Notification of Vessels
+
+Provisional Entry or Cargo Transfer
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. G, title LVXXXV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXV], § 8508(1), Jan. 1, 2021, [134 Stat. 4755](https://www.govinfo.gov/link/statute/134/4755); [Pub. L. 119–60, div. G, title LXXVII, § 7701(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1835](https://www.govinfo.gov/link/statute/139/1835).)*

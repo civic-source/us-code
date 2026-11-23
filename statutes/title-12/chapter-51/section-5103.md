@@ -3,9 +3,10 @@ title: "Section 5103 - License or registration required"
 usc_title: 12
 usc_section: "5103"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5103"
-generated_at: "2026-03-30T02:53:53.523Z"
+generated_at: "2026-11-23T21:25:37.228Z"
+status: "active"
 ---
 
 # § 5103. License or registration required
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.523Z"
 - **(b)**
   - **(1)** A loan processor or underwriter who does not represent to the public, through advertising or other means of communicating or providing information (including the use of business cards, stationery, brochures, signs, rate lists, or other promotional items), that such individual can or will perform any of the activities of a loan originator shall not be required to be a State-licensed loan originator.
   - **(2)** An independent contractor may not engage in residential mortgage loan origination activities as a loan processor or underwriter unless such independent contractor is a State-licensed loan originator.
+
+## Source Credit
+
+*([Pub. L. 110–289, div. A, title V, § 1504](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2814](https://www.govinfo.gov/link/statute/122/2814).)*

@@ -3,9 +3,10 @@ title: "Section 532 - Authority to advertise in national media; VetStar Award Pr
 usc_title: 38
 usc_section: "532"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 532"
-generated_at: "2026-03-30T02:55:53.472Z"
+generated_at: "2026-11-23T21:26:16.558Z"
+status: "active"
 ---
 
 # § 532. Authority to advertise in national media; VetStar Award Program
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:55:53.472Z"
   - **(2)** The Secretary shall establish a process for the administration of the award program, including criteria for—
     - **(A)** categories and sectors of businesses eligible for recognition each year; and
     - **(B)** objective measures to be used in selecting businesses to receive the award.
+
+Advertising in National Media
+
+VetStar Award Program
+
+## Source Credit
+
+*(Added [Pub. L. 110–389, title VIII, § 809(a)](https://www.govinfo.gov/link/plaw/110/public/389), Oct. 10, 2008, [122 Stat. 4189](https://www.govinfo.gov/link/statute/122/4189); amended [Pub. L. 112–154, title VII, § 709(a)](https://www.govinfo.gov/link/plaw/112/public/154), (b)(1), Aug. 6, 2012, [126 Stat. 1207](https://www.govinfo.gov/link/statute/126/1207).)*

@@ -3,9 +3,10 @@ title: "Section 4322 - Investments by Custodian in participating certificates is
 usc_title: 50
 usc_section: "4322"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4322"
-generated_at: "2026-03-30T02:56:26.273Z"
+generated_at: "2026-11-23T21:26:39.097Z"
+status: "active"
 ---
 
 # § 4322. Investments by Custodian in participating certificates issued by Secretary of the Treasury; transfers to and payments from German, Austrian or Hungarian special deposit accounts; allocation of payments
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:26.273Z"
   - **(2)** Such certificates shall not be transferable, except that the Alien Property Custodian may transfer any such participating certificate evidencing the interest of a substantial number of the owners of the money invested, to a trustee duly appointed by such owners.
 - **(f)** Any amount of principal or interest paid to the Alien Property Custodian in accordance with the provisions of subsection (c) of section 4 of the Settlement of War Claims Act of 1928 shall be allocated pro rata among the persons filing written consents under subsection (m) of section 4309 of this title , and the amounts so allocated shall be paid to such persons. If any person to whom any amount is payable under this subsection has died (or if, in the case of a partnership, association, or other unincorporated body of individuals, or a corporation, its existence has terminated), payment shall be made to the persons determined by the Alien Property Custodian to be entitled thereto.
 - **(g)** The Alien Property Custodian is authorized and directed (after the payment of debts under section 4309 of this title ) to transfer to the Secretary of the Treasury, for deposit in the special deposit account (Austrian or Hungarian, as the case may be), created by section 7 of the Settlement of War Claims Act of 1928, all money and the proceeds of all property, including all income, dividends, interest, annuities, and earnings accumulated in respect thereof, owned by the Austrian Government or any corporation all the stock of which was owned by or on behalf of the Austrian Government (including the property of the Imperial Royal Tobacco Monopoly, also known under the name of K. K. Oesterreichische Tabak Regie), or owned by the Hungarian Government or by any corporation all the stock of which was owned by or on behalf of the Hungarian Government.
+
+## Source Credit
+
+*(Oct. 6, 1917, ch. 106, § 25, as added Mar. 10, 1928, ch. 167, § 10, [45 Stat. 268](https://www.govinfo.gov/link/statute/45/268); amended Feb. 21, 1929, ch. 291, [45 Stat. 1255](https://www.govinfo.gov/link/statute/45/1255); Mar. 10, 1930, ch. 75, § 2, [46 Stat. 84](https://www.govinfo.gov/link/statute/46/84).)*

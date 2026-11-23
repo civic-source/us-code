@@ -3,9 +3,10 @@ title: "Section 11271 - Research program and plan"
 usc_title: 42
 usc_section: "11271"
 chapter: 118
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11271"
-generated_at: "2026-03-30T02:56:11.396Z"
+generated_at: "2026-11-23T21:26:33.404Z"
+status: "active"
 ---
 
 # § 11271. Research program and plan
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.396Z"
     - **(D)** provide for a determination of the costs to the Medicare and Medicaid programs and to private health insurers (if available) of providing covered benefits to individuals with Alzheimer’s disease and related dementias and their families.
   - **(2)** Within one year after transmitting the plan required under paragraph (1), and annually thereafter, the Administrator of the Centers for Medicare & Medicaid Services shall prepare and transmit to the Chairman of the Council such revisions of such plan as the Administrator considers appropriate.
 - **(c)** In preparing and revising the plan required by subsection (b), the Administrator of the Centers for Medicare & Medicaid Services shall consult with the Chairman of the Council and the heads of agencies within the Department.
+
+## Source Credit
+
+*([Pub. L. 99–660, title IX, § 937](https://www.govinfo.gov/link/plaw/99/public/660), formerly § 949A, Nov. 14, 1986, [100 Stat. 3812](https://www.govinfo.gov/link/statute/100/3812); renumbered § 937, [Pub. L. 100–607, title I, § 142(c)(2)(B)](https://www.govinfo.gov/link/plaw/100/public/607), Nov. 4, 1988, [102 Stat. 3057](https://www.govinfo.gov/link/statute/102/3057); amended [Pub. L. 108–173, title IX, § 900(e)(5)(B)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2373](https://www.govinfo.gov/link/statute/117/2373).)*

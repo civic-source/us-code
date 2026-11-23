@@ -3,9 +3,10 @@ title: "Section 5325 - Identification required to purchase certain monetary inst
 usc_title: 31
 usc_section: "5325"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 5325"
-generated_at: "2026-03-30T02:55:34.069Z"
+generated_at: "2026-11-23T21:26:10.626Z"
+status: "active"
 ---
 
 # § 5325. Identification required to purchase certain monetary instruments
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:55:34.069Z"
   - **(2)** the individual furnishes the financial institution with such forms of identification as the Secretary of the Treasury may require in regulations which the Secretary shall prescribe and the financial institution verifies and records such information in accordance with regulations which such Secretary shall prescribe.
 - **(b)** Any information required to be recorded by any financial institution under paragraph (1) or (2) of subsection (a) shall be reported by such institution to the Secretary of the Treasury at the request of such Secretary.
 - **(c)** For purposes of this section, the term “transaction account” has the meaning given to such term in section 19(b)(1)(C) of the Federal Reserve Act.
+
+In General
+
+Report to Secretary Upon Request
+
+Transaction Account Defined
+
+## Source Credit
+
+*(Added [Pub. L. 100–690, title VI, § 6185(b)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4355](https://www.govinfo.gov/link/statute/102/4355).)*

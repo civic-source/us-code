@@ -3,9 +3,10 @@ title: "Section 318 - Judge Advocate General; Deputy Judge Advocate General: app
 usc_title: 14
 usc_section: "318"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 318"
-generated_at: "2026-03-30T02:53:51.488Z"
+generated_at: "2026-11-23T21:25:35.358Z"
+status: "active"
 ---
 
 # § 318. Judge Advocate General; Deputy Judge Advocate General: appointment; duties
@@ -24,3 +25,25 @@ generated_at: "2026-03-30T02:53:51.488Z"
 - **(e)** No officer or employee of the Department of Homeland Security may interfere with—
   - **(1)** the ability of the Judge Advocate General to give independent legal advice to the Commandant or Vice Commandant; or
   - **(2)** the ability of judge advocates of the Coast Guard assigned or attached to, or performing duty with, military units to give independent legal advice to commanders.
+
+In General
+
+Appointment
+
+Duties
+
+Deputy Judge Advocate General.—
+
+In general
+
+Vacancy of judge advocate general
+
+Acting deputy judge advocate general
+
+Compliance with act
+
+Limitation
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. G, title LXXII, § 7201(e)(6)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1680](https://www.govinfo.gov/link/statute/139/1680).)*

@@ -3,9 +3,10 @@ title: "Section 6372b - Preliminary energy audits and energy audits"
 usc_title: 42
 usc_section: "6372b"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6372b"
-generated_at: "2026-03-30T02:56:11.259Z"
+generated_at: "2026-11-23T21:26:32.948Z"
+status: "active"
 ---
 
 # § 6372b. Preliminary energy audits and energy audits
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.259Z"
 - **(d)** Upon application under subsection (c) the Secretary may make grants to States, units of local government, and public care institutions for purposes of conducting energy audits of facilities under this part in accordance with the guidelines prescribed under section 6372a(a)(2) of this title .
 - **(e)** If a State, unit of local government, or public care institution, without the use of financial assistance under this section, conducts preliminary energy audits or energy audits which comply with the guidelines prescribed by the Secretary or which are approved by the Secretary, the funds allocated for purposes of this section shall be added to the funds available for technical assistance programs for such State, and shall be in addition to amounts otherwise available for such purpose.
 - **(f)** Amounts made available under this section (together with any other amounts made available from other Federal sources) may not be used to pay more than 50 percent of the costs of any preliminary energy audit or energy audit.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 400C](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 95–619, title III, § 311(a)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3250](https://www.govinfo.gov/link/statute/92/3250).)*

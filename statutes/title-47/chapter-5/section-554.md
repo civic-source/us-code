@@ -3,9 +3,10 @@ title: "Section 554 - Equal employment opportunity"
 usc_title: 47
 usc_section: "554"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 554"
-generated_at: "2026-03-30T02:56:24.520Z"
+generated_at: "2026-11-23T21:26:36.041Z"
+status: "active"
 ---
 
 # § 554. Equal employment opportunity
@@ -66,3 +67,9 @@ generated_at: "2026-03-30T02:56:24.520Z"
     - **(C)** to enforce any requirement of a franchise in effect on the effective date of this subchapter.
   - **(2)** The remedies and enforcement provisions of this section are in addition to, and not in lieu of, those available under this or any other law.
   - **(3)** The provisions of this section shall apply to any cable operator, whether operating pursuant to a franchise granted before, on, or after October 30, 1984 .
+
+“The Congress finds and declares that—
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VI, § 634, as added [Pub. L. 98–549, § 2](https://www.govinfo.gov/link/plaw/98/public/549), Oct. 30, 1984, [98 Stat. 2797](https://www.govinfo.gov/link/statute/98/2797); amended [Pub. L. 102–385, § 22(b)](https://www.govinfo.gov/link/plaw/102/public/385) –(e), Oct. 5, 1992, [106 Stat. 1498](https://www.govinfo.gov/link/statute/106/1498), 1499; [Pub. L. 103–414, title III, § 303(a)(24)](https://www.govinfo.gov/link/plaw/103/public/414), Oct. 25, 1994, [108 Stat. 4295](https://www.govinfo.gov/link/statute/108/4295).)*

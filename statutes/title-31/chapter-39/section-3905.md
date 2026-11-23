@@ -3,9 +3,10 @@ title: "Section 3905 - Payment provisions relating to construction contracts"
 usc_title: 31
 usc_section: "3905"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 3905"
-generated_at: "2026-03-30T02:55:34.063Z"
+generated_at: "2026-11-23T21:26:10.602Z"
+status: "active"
 ---
 
 # § 3905. Payment provisions relating to construction contracts
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:55:34.063Z"
 - **(i)** A dispute between a contractor and subcontractor relating to the amount or entitlement of a subcontractor to a payment or a late payment interest penalty under a clause included in the subcontract pursuant to subsection (b) or (c) of this section does not constitute a dispute to which the United States is a party. The United States may not be interpleaded in any judicial or administrative proceeding involving such a dispute.
 - **(j)** Except as provided in subsection (i) of this section, this section shall not limit or impair any contractual, administrative, or judicial remedies otherwise available to a contractor or a subcontractor in the event of a dispute involving late payment or nonpayment by a prime contractor or deficient subcontract performance or nonperformance by a subcontractor.
 - **(k)** A contractor’s obligation to pay an interest penalty to a subcontractor pursuant to the clauses included in a subcontract under subsection (b) or (c) of this section may not be construed to be an obligation of the United States for such interest penalty. A contract modification may not be made for the purpose of providing reimbursement of such interest penalty. A cost reimbursement claim may not include any amount for reimbursement of such interest penalty.
+
+## Source Credit
+
+*(Added [Pub. L. 100–496, § 9(a)(2)](https://www.govinfo.gov/link/plaw/100/public/496), Oct. 17, 1988, [102 Stat. 2460](https://www.govinfo.gov/link/statute/102/2460); amended [Pub. L. 107–217, § 3(h)(7)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1300](https://www.govinfo.gov/link/statute/116/1300).)*

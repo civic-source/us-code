@@ -3,9 +3,10 @@ title: "Section 3358 - Interagency working group for Governmentwide payment inte
 usc_title: 31
 usc_section: "3358"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 3358"
-generated_at: "2026-03-30T02:55:34.056Z"
+generated_at: "2026-11-23T21:26:10.575Z"
+status: "active"
 ---
 
 # § 3358. Interagency working group for Governmentwide payment integrity improvement
@@ -26,3 +27,19 @@ generated_at: "2026-03-30T02:55:34.056Z"
 - **(d)** Not later than 240 days after the date of enactment of this section, the working group established under subsection (a)(1) shall submit to Congress a report that includes—
   - **(1)** a plan containing tangible solutions to prevent and reduce improper payments; and
   - **(2)** a plan for State agencies to work with Federal agencies to regularly review lists of beneficiaries of State-managed Federal programs for duplicate enrollment between States, including how the Do Not Pay Business Center and the data analytics initiative of the Department of the Treasury could aid in the detection of duplicate enrollment.
+
+Working Group.—
+
+Establishment
+
+Composition
+
+Consultation
+
+Meetings
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 116–117, § 2(a)](https://www.govinfo.gov/link/plaw/116/public/117), Mar. 2, 2020, [134 Stat. 132](https://www.govinfo.gov/link/statute/134/132).)*

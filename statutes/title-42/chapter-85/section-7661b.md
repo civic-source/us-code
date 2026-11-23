@@ -3,9 +3,10 @@ title: "Section 7661b - Permit applications"
 usc_title: 42
 usc_section: "7661b"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7661b"
-generated_at: "2026-03-30T02:56:11.325Z"
+generated_at: "2026-11-23T21:26:33.159Z"
+status: "active"
 ---
 
 # § 7661b. Permit applications
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.325Z"
 - **(c)** Any person required to have a permit shall, not later than 12 months after the date on which the source becomes subject to a permit program approved or promulgated under this subchapter, or such earlier date as the permitting authority may establish, submit to the permitting authority a compliance plan and an application for a permit signed by a responsible official, who shall certify the accuracy of the information submitted. The permitting authority shall approve or disapprove a completed application (consistent with the procedures established under this subchapter for consideration of such applications), and shall issue or deny the permit, within 18 months after the date of receipt thereof, except that the permitting authority shall establish a phased schedule for acting on permit applications submitted within the first full year after the effective date of a permit program (or a partial or interim program). Any such schedule shall assure that at least one-third of such permits will be acted on by such authority annually over a period of not to exceed 3 years after such effective date. Such authority shall establish reasonable procedures to prioritize such approval or disapproval actions in the case of applications for construction or modification under the applicable requirements of this chapter.
 - **(d)** Except for sources required to have a permit before construction or modification under the applicable requirements of this chapter, if an applicant has submitted a timely and complete application for a permit required by this subchapter (including renewals), but final action has not been taken on such application, the source’s failure to have a permit shall not be a violation of this chapter, unless the delay in final action was due to the failure of the applicant timely to submit information required or requested to process the application. No source required to have a permit under this subchapter shall be in violation of section 7661a(a) of this title before the date on which the source is required to submit an application under subsection (c).
 - **(e)** A copy of each permit application, compliance plan (including the schedule of compliance), emissions or compliance monitoring report, certification, and each permit issued under this subchapter, shall be available to the public. If an applicant or permittee is required to submit information entitled to protection from disclosure under section 7414(c) of this title , the applicant or permittee may submit such information separately. The requirements of section 7414(c) of this title shall apply to such information. The contents of a permit shall not be entitled to protection under section 7414(c) of this title .
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title V, § 503, as added [Pub. L. 101–549, title V, § 501](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2641](https://www.govinfo.gov/link/statute/104/2641).)*

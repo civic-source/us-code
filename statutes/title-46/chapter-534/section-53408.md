@@ -3,9 +3,10 @@ title: "Section 53408 - Regulatory relief"
 usc_title: 46
 usc_section: "53408"
 chapter: 534
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 53408"
-generated_at: "2026-03-30T02:56:15.575Z"
+generated_at: "2026-11-23T21:26:37.261Z"
+status: "active"
 ---
 
 # § 53408. Regulatory relief
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:56:15.575Z"
   - **(1)** such equipment complies with all applicable international agreements and associated guidelines as determined by the country in which the vessel was documented immediately before becoming documented under the laws of the United States;
   - **(2)** that country has not been identified by the Secretary as inadequately enforcing international regulations as to that vessel; and
   - **(3)** at the end of its useful life, such equipment shall be replaced with equipment that meets Federal Communications Commission equipment approval standards.
+
+Operation in Foreign Commerce
+
+Other Restrictions
+
+Telecommunications Equipment
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. C, title XXXV, § 3511(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4417](https://www.govinfo.gov/link/statute/134/4417).)*

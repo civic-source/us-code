@@ -3,9 +3,10 @@ title: "Section 57531 - Construction and charter of vessels for unsuccessful rou
 usc_title: 46
 usc_section: "57531"
 chapter: 575
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 57531"
-generated_at: "2026-03-30T02:56:15.582Z"
+generated_at: "2026-11-23T21:26:37.330Z"
+status: "active"
 ---
 
 # § 57531. Construction and charter of vessels for unsuccessful routes
@@ -36,3 +37,68 @@ generated_at: "2026-03-30T02:56:15.582Z"
     - **(D)** on a round voyage from the Atlantic coast of the United States to the Orient that includes an intercoastal port of the United States; or
     - **(E)** on a voyage in foreign trade on which the vessel may stop at Hawaii or an island territory or possession of the United States.
   - **(2)** The charter shall provide if the vessel is operated in domestic trade on any of the services specified in paragraph (1), the charterer will pay annually to the Secretary of Transportation that proportion of 1 ⁄ 25 of the difference between the domestic and foreign cost of the vessel as the gross revenue derived from the domestic trade bears to the gross revenue derived from the entire voyages completed during the preceding year.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 57531 | 46 App.:1204. | June 29, 1936, ch. 858 , title VII, § 714, 49 Stat. 2011 ; June 23, 1938, ch. 600, § 32 , 52 Stat. 962 ; Aug. 4, 1939, ch. 417, § 12 , 53 Stat. 1186 ; Pub. L. 86–3, § 18(b)(3) , Mar. 18, 1959 , 73 Stat. 12 ; Pub. L. 86–518, § 5 , June 12, 1960 , 74 Stat. 216 ; Pub. L. 91–469, § 22 , Oct. 21, 1970 , 84 Stat. 1032 ; Pub. L. 97–31, § 12(116) , Aug. 6, 1981 , 95 Stat. 164 . |
+
+
+In General
+
+Amount of Charter Hire
+
+In general
+
+Depreciation
+
+Option To Purchase
+
+Operation of Vessel
+
+Permissible voyages
+
+Domestic trade
+
+Historical and Revision Notes
+
+57531
+
+June 29, 1936, ch. 858
+
+49 Stat. 2011
+
+June 23, 1938, ch. 600, § 32
+
+52 Stat. 962
+
+Aug. 4, 1939, ch. 417, § 12
+
+53 Stat. 1186
+
+Pub. L. 86–3, § 18(b)(3)
+
+Mar. 18, 1959
+
+73 Stat. 12
+
+Pub. L. 86–518, § 5
+
+June 12, 1960
+
+74 Stat. 216
+
+Pub. L. 91–469, § 22
+
+Oct. 21, 1970
+
+84 Stat. 1032
+
+Pub. L. 97–31, § 12(116)
+
+Aug. 6, 1981
+
+95 Stat. 164
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1668](https://www.govinfo.gov/link/statute/120/1668); [Pub. L. 114–120, title III, § 313(b)(2)](https://www.govinfo.gov/link/plaw/114/public/120), Feb. 8, 2016, [130 Stat. 58](https://www.govinfo.gov/link/statute/130/58).)*

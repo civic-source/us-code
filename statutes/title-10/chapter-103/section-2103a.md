@@ -3,9 +3,10 @@ title: "Section 2103a - Students not eligible for advanced training: commitment 
 usc_title: 10
 usc_section: "2103a"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2103a"
-generated_at: "2026-03-30T02:53:38.141Z"
+generated_at: "2026-11-23T21:25:32.552Z"
+status: "active"
 ---
 
 # § 2103a. Students not eligible for advanced training: commitment to military service
@@ -18,3 +19,13 @@ generated_at: "2026-03-30T02:53:38.141Z"
   - **(2)** enlists in an armed force under the jurisdiction of the Secretary of the military department concerned for the period prescribed by the Secretary; and
   - **(3)** executes a certificate of loyalty in such form as the Secretary of Defense prescribes or take a loyalty oath as prescribed by the Secretary.
 - **(c)** A member of the program who is a minor may enter into a contract under subsection (a)(1) only with the consent of the member’s parent or guardian.
+
+Authority
+
+Eligibility Requirements
+
+Parental Consent for Minors
+
+## Source Credit
+
+*(Added [Pub. L. 108–136, div. A, title V, § 523(b)(1)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1464](https://www.govinfo.gov/link/statute/117/1464); amended [Pub. L. 108–375, div. A, title V, § 525](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1889](https://www.govinfo.gov/link/statute/118/1889); [Pub. L. 109–364, div. A, title X, § 1071(a)(10)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2398](https://www.govinfo.gov/link/statute/120/2398); [Pub. L. 116–283, div. A, title IX, § 924(b)(3)(CC)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3822](https://www.govinfo.gov/link/statute/134/3822).)*

@@ -3,9 +3,10 @@ title: "Section 6 - Procedure for cases involving classified information"
 usc_title: 10
 usc_section: "6"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6"
-generated_at: "2026-03-30T02:53:38.090Z"
+generated_at: "2026-11-23T21:25:32.362Z"
+status: "active"
 ---
 
 # § 949p–6. Procedure for cases involving classified information
@@ -48,3 +49,55 @@ generated_at: "2026-03-30T02:53:38.090Z"
   - **(2)** If the United States fails to comply with its obligation under this subsection, the military judge—
     - **(A)** may exclude any evidence not made the subject of a required disclosure; and
     - **(B)** may prohibit the examination by the United States of any witness with respect to such information.
+
+Motion for Hearing.—
+
+Request for hearing
+
+Conduct of hearing
+
+In camera hearing upon declaration to court by appropriate official of risk of disclosure of classified information
+
+Military judge to make determinations in writing
+
+Notice and Use of Classified Information by the Government.—
+
+Notice to accused
+
+Order by military judge upon request of accused
+
+Substitutions.—
+
+In camera pretrial hearing
+
+Protection of sources, methods, and activities by which evidence acquired
+
+Alternative Procedure for Disclosure of Classified Information.—
+
+Motion by the united states
+
+Action on motion
+
+Hearing on motion
+
+Submission of statement of damage to national security if disclosure ordered
+
+Sealing of Records of in Camera Hearings
+
+Prohibition on Disclosure of Classified Information by the Accused; Relief for Accused When the United States Opposes Disclosure.—
+
+Order to prevent disclosure by accused
+
+Result of order under paragraph (1)
+
+Time for the united states to seek interlocutory appeal
+
+Reciprocity.—
+
+Disclosure of rebuttal information
+
+Sanction for failure to comply
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title XVIII, § 1802](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2593](https://www.govinfo.gov/link/statute/123/2593).)*

@@ -3,9 +3,10 @@ title: "Section 6159 - Defense nuclear nonproliferation management plan"
 usc_title: 10
 usc_section: "6159"
 chapter: 603
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6159"
-generated_at: "2026-03-30T02:53:38.221Z"
+generated_at: "2026-11-23T21:25:32.818Z"
+status: "active"
 ---
 
 # § 6159. Defense nuclear nonproliferation management plan
@@ -46,3 +47,13 @@ generated_at: "2026-03-30T02:53:38.221Z"
   - **(15)** A summary of the technologies and capabilities documented under section 6160(a).
   - **(16)** A summary of the assessments conducted under section 6160(b)(1).
   - **(17)** Such other matters as the Administrator considers appropriate.
+
+Plan Required
+
+Submission to Congress
+
+Elements
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2)(B), Dec. 18, 2025, [139 Stat. 1382](https://www.govinfo.gov/link/statute/139/1382), 1462.)*

@@ -3,9 +3,10 @@ title: "Section 1103 - Amounts transferred to State accounts"
 usc_title: 42
 usc_section: "1103"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1103"
-generated_at: "2026-03-30T02:56:10.901Z"
+generated_at: "2026-11-23T21:26:31.216Z"
+status: "active"
 ---
 
 # § 1103. Amounts transferred to State accounts
@@ -157,3 +158,11 @@ generated_at: "2026-03-30T02:56:10.901Z"
   - **(2)**
     - **(A)** Notwithstanding any other provision of law, the Secretary of the Treasury shall transfer from the general fund of the Treasury (from funds not otherwise appropriated) to the Federal unemployment account such sums as the Secretary of Labor estimates to be necessary for purposes of making the transfers described in paragraph (1).
     - **(B)** There are appropriated from the general fund of the Treasury, without fiscal year limitation, the sums referred to in subparagraph (A) and such sums shall not be required to be repaid.
+
+In general
+
+Application to weeks prior to enactment
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IX, § 903, as added Aug. 5, 1954, ch. 657, § 2, [68 Stat. 670](https://www.govinfo.gov/link/statute/68/670); amended [Pub. L. 86–778, title V, § 521](https://www.govinfo.gov/link/plaw/86/public/778), Sept. 13, 1960, [74 Stat. 974](https://www.govinfo.gov/link/statute/74/974); [Pub. L. 88–31, § 3](https://www.govinfo.gov/link/plaw/88/public/31), May 29, 1963, [77 Stat. 51](https://www.govinfo.gov/link/statute/77/51); [Pub. L. 90–430](https://www.govinfo.gov/link/plaw/90/public/430), July 26, 1968, [82 Stat. 447](https://www.govinfo.gov/link/statute/82/447); [Pub. L. 91–373, title III, § 305(b)](https://www.govinfo.gov/link/plaw/91/public/373), Aug. 10, 1970, [84 Stat. 717](https://www.govinfo.gov/link/statute/84/717); [Pub. L. 92–224, § 1](https://www.govinfo.gov/link/plaw/92/public/224), title II, § 204(c), Dec. 29, 1971, [85 Stat. 810](https://www.govinfo.gov/link/statute/85/810), 814; [Pub. L. 92–329, § 2(d)](https://www.govinfo.gov/link/plaw/92/public/329), June 30, 1972, [86 Stat. 398](https://www.govinfo.gov/link/statute/86/398); [Pub. L. 93–368, § 4(b)](https://www.govinfo.gov/link/plaw/93/public/368), Aug. 7, 1974, [88 Stat. 420](https://www.govinfo.gov/link/statute/88/420); [Pub. L. 94–273](https://www.govinfo.gov/link/plaw/94/public/273), §§ 2(20), 3(23), 23, 41, Apr. 21, 1976, [90 Stat. 375](https://www.govinfo.gov/link/statute/90/375), 377, 379, 381; [Pub. L. 97–248, title I, § 192](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 408](https://www.govinfo.gov/link/statute/96/408); [Pub. L. 100–203, title IX, § 9155(c)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–327](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 101–508, title V, § 5021(a)](https://www.govinfo.gov/link/plaw/101/public/508), (b), Nov. 5, 1990, [104 Stat. 1388–223](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 105–33, title V, § 5403](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 603](https://www.govinfo.gov/link/statute/111/603); [Pub. L. 107–147, title II, § 209(a)(1)](https://www.govinfo.gov/link/plaw/107/public/147), (b), Mar. 9, 2002, [116 Stat. 31](https://www.govinfo.gov/link/statute/116/31); [Pub. L. 109–91, title II, § 201](https://www.govinfo.gov/link/plaw/109/public/91), Oct. 20, 2005, [119 Stat. 2093](https://www.govinfo.gov/link/statute/119/2093); [Pub. L. 111–5, div. B, title II, § 2003(a)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 439](https://www.govinfo.gov/link/statute/123/439); [Pub. L. 111–92, § 7(a)](https://www.govinfo.gov/link/plaw/111/public/92), Nov. 6, 2009, [123 Stat. 2987](https://www.govinfo.gov/link/statute/123/2987); [Pub. L. 116–127, div. D, § 4102(a)](https://www.govinfo.gov/link/plaw/116/public/127), Mar. 18, 2020, [134 Stat. 192](https://www.govinfo.gov/link/statute/134/192); [Pub. L. 116–136, div. A, title II, § 2103(b)](https://www.govinfo.gov/link/plaw/116/public/136), title III, § 3603, Mar. 27, 2020, [134 Stat. 317](https://www.govinfo.gov/link/statute/134/317), 410; [Pub. L. 116–151, § 2(a)](https://www.govinfo.gov/link/plaw/116/public/151), Aug. 3, 2020, [134 Stat. 680](https://www.govinfo.gov/link/statute/134/680); [Pub. L. 116–260, div. N, title II](https://www.govinfo.gov/link/plaw/116/public/260), §§ 202, 264(a), Dec. 27, 2020, [134 Stat. 1952](https://www.govinfo.gov/link/statute/134/1952), 1964; [Pub. L. 117–2, title IX, § 9012](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 118](https://www.govinfo.gov/link/statute/135/118).)*

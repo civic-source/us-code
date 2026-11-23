@@ -3,9 +3,10 @@ title: "Section 21051 - Pilot program"
 usc_title: 52
 usc_section: "21051"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 21051"
-generated_at: "2026-03-30T02:56:30.167Z"
+generated_at: "2026-11-23T21:26:42.335Z"
+status: "active"
 ---
 
 # § 21051. Pilot program
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:30.167Z"
     - **(A)** In the case of a grant for which the Commission submits the application to the Director under paragraph (2) or requests that the Director monitor the grant under paragraph (3), the Director shall prepare and submit to the Commission an evaluation of the grant and the activities carried out under the grant.
     - **(B)** The Commission shall include the evaluations submitted under subparagraph (A) for a year in the report submitted for the year under section 20927 of this title .
 - **(d)** The Commission may provide to the Technical Guidelines Development Committee under subpart 3 of part A of this subchapter such information regarding the activities funded under this subpart as the Commission deems necessary to assist the Committee in carrying out its duties.
+
+## Source Credit
+
+*([Pub. L. 107–252, title II, § 281](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1701](https://www.govinfo.gov/link/statute/116/1701).)*

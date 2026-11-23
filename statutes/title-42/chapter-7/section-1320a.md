@@ -3,9 +3,10 @@ title: "Section 1320a - Uniform reporting systems for health services facilities
 usc_title: 42
 usc_section: "1320a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1320a"
-generated_at: "2026-03-30T02:56:10.908Z"
+generated_at: "2026-11-23T21:26:31.245Z"
+status: "active"
 ---
 
 # § 1320a. Uniform reporting systems for health services facilities and organizations
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:10.908Z"
   - **(2)** assist with and support demonstrations and evaluations of the effectiveness and cost of the operation of such systems and encourage State adoption of such systems; and
   - **(3)** periodically revise such systems to improve their effectiveness and diminish their cost.
 - **(c)** The Secretary shall provide information obtained through use of the uniform reporting systems described in subsection (a) in a useful manner and format to appropriate agencies and organizations, including health systems agencies (designated under section 300 l –4 1 1 See References in Text note below. of this title) and State health planning and development agencies (designated under section 300m 1 of this title), as may be necessary to carry out such agencies’ and organizations’ functions.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XI, § 1121, as added [Pub. L. 95–142, § 19(a)](https://www.govinfo.gov/link/plaw/95/public/142), Oct. 25, 1977, [91 Stat. 1203](https://www.govinfo.gov/link/statute/91/1203).)*

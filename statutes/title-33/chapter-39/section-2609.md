@@ -3,9 +3,10 @@ title: "Section 2609 - Penalties"
 usc_title: 33
 usc_section: "2609"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2609"
-generated_at: "2026-03-30T02:55:41.129Z"
+generated_at: "2026-11-23T21:26:11.460Z"
+status: "active"
 ---
 
 # § 2609. Penalties
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:41.129Z"
 - **(b)** A person violating section 2602 of this title is liable to the United States Government for a civil penalty of not more than $10,000. Each day of a continuing violation is a separate violation. A vessel involved in the violation also is liable in rem for the penalty.
 - **(c)** Any person that knowingly violates, or that knowingly aids, abets, authorizes, or instigates a violation of this chapter, shall be fined under title 18, imprisoned for not more than 3 years, or both.
 - **(d)** The court, the Secretary of Transportation, or the Administrator, as the case may be, may pay up to one-half of a fine or penalty to any person giving information leading to the assessment of the fine or penalty.
+
+## Source Credit
+
+*([Pub. L. 100–688, title IV, § 4109](https://www.govinfo.gov/link/plaw/100/public/688), Nov. 18, 1988, [102 Stat. 4158](https://www.govinfo.gov/link/statute/102/4158).)*

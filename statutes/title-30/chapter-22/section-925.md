@@ -3,9 +3,10 @@ title: "Section 925 - Procedure for the determination of claims during transitio
 usc_title: 30
 usc_section: "925"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 925"
-generated_at: "2026-03-30T02:55:29.392Z"
+generated_at: "2026-11-23T21:26:00.406Z"
+status: "active"
 ---
 
 # § 925. Procedure for the determination of claims during transition period
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:29.392Z"
   - **(3)** In determining such claims, the Secretary of Labor shall, to the extent appropriate, follow the procedures described in subsections (b), (c), and (d) of section 919 of title 33 .
   - **(4)** Any operator who has been notified of the pendency of a claim under paragraph (2) of this subsection shall be bound by the determination of the Secretary of Labor on such claim as if the claim had been filed pursuant to part C of this subchapter and section 932 of this title had been applicable to such operator. Nothing in this paragraph shall require any operator to pay any benefits for any month prior to January 1, 1974 .
 - **(b)** The Secretary of Labor may issue such regulations as are necessary or appropriate to carry out the purpose of this section.
+
+## Source Credit
+
+*([Pub. L. 91–173, title IV, § 415](https://www.govinfo.gov/link/plaw/91/public/173), as added [Pub. L. 92–303, § 7](https://www.govinfo.gov/link/plaw/92/public/303), May 19, 1972, [86 Stat. 156](https://www.govinfo.gov/link/statute/86/156); amended [Pub. L. 97–119, title I, § 104(b)(2)](https://www.govinfo.gov/link/plaw/97/public/119), Dec. 29, 1981, [95 Stat. 1639](https://www.govinfo.gov/link/statute/95/1639); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 103–296, title I, § 108(i)(2)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1488](https://www.govinfo.gov/link/statute/108/1488); [Pub. L. 107–275, § 2(b)(3)](https://www.govinfo.gov/link/plaw/107/public/275), Nov. 2, 2002, [116 Stat. 1925](https://www.govinfo.gov/link/statute/116/1925).)*

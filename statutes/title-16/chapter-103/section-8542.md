@@ -3,9 +3,10 @@ title: "Section 8542 - Permit flexibility"
 usc_title: 16
 usc_section: "8542"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8542"
-generated_at: "2026-03-30T02:54:23.088Z"
+generated_at: "2026-11-23T21:25:52.082Z"
+status: "active"
 ---
 
 # § 8542. Permit flexibility
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:23.088Z"
     - **(B)** surrender to the Secretary concerned the unused visitor-use days for the applicable year for temporary reassignment under section 8547(b) of this title .
   - **(2)** To ensure a recreation service provider described in paragraph (1) is able to make an informed decision before surrendering any unused visitor-use day under paragraph (1)(B), the Secretary concerned shall, on the request of the applicable recreation service provider, determine and notify the recreation service provider whether the unused visitor-use day meets the requirement described in section 8546(b)(3)(B) of this title before the recreation service provider surrenders the unused visitor-use day.
 - **(d)** Nothing in this section affects any authority of, regulation issued by, or decision of the Secretary concerned relating to the use of electric bicycles on Federal recreational lands and waters under any other Federal law.
+
+## Source Credit
+
+*([Pub. L. 118–234, title III, § 313](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2901](https://www.govinfo.gov/link/statute/138/2901).)*

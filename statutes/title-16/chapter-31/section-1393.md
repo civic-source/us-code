@@ -3,9 +3,10 @@ title: "Section 1393 - Conservation and mitigation assistance"
 usc_title: 16
 usc_section: "1393"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1393"
-generated_at: "2026-03-30T02:54:22.963Z"
+generated_at: "2026-11-23T21:25:51.870Z"
+status: "active"
 ---
 
 # § 1393. Conservation and mitigation assistance
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:54:22.963Z"
 - **(f)**
   - **(1)** Each individual or entity that receives assistance under this section for a project shall submit to the Under Secretary periodic reports (at such intervals as the Under Secretary may require) that include all information that the Under Secretary, after consultation with other government officials, determines is necessary to evaluate the progress and success of the project for the purposes of ensuring positive results, assessing problems, and fostering improvements.
   - **(2)** Reports under paragraph (1) shall be made available to the public in a timely manner.
+
+## Source Credit
+
+*([Pub. L. 117–328, div. JJ, title II, § 201](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 6090](https://www.govinfo.gov/link/statute/136/6090).)*

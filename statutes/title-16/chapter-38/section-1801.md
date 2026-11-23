@@ -3,9 +3,10 @@ title: "Section 1801 - Findings, purposes and policy"
 usc_title: 16
 usc_section: "1801"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1801"
-generated_at: "2026-03-30T02:54:22.982Z"
+generated_at: "2026-11-23T21:25:51.912Z"
+status: "active"
 ---
 
 # § 1801. Findings, purposes and policy
@@ -40,3 +41,71 @@ generated_at: "2026-03-30T02:54:22.982Z"
   - **(5)** to support and encourage active United States efforts to obtain internationally acceptable agreements which provide for effective conservation and management of fishery resources, and to secure agreements to regulate fishing by vessels or persons beyond the exclusive economic zones of any nation;
   - **(6)** to foster and maintain the diversity of fisheries in the United States; and
   - **(7)** to ensure that the fishery resources adjacent to a Pacific Insular Area, including resident or migratory stocks within the exclusive economic zone adjacent to such areas, be explored, developed, conserved, and managed for the benefit of the people of such area and of the United States.
+
+In general
+
+FACA
+
+Effective date
+
+Appropriate committees of congress
+
+Council
+
+Limited access privilege program
+
+Mixed-use fishery
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 94–265, § 2](https://www.govinfo.gov/link/plaw/94/public/265), Apr. 13, 1976, [90 Stat. 331](https://www.govinfo.gov/link/statute/90/331); [Pub. L. 95–354, § 2](https://www.govinfo.gov/link/plaw/95/public/354), Aug. 28, 1978, [92 Stat. 519](https://www.govinfo.gov/link/statute/92/519); [Pub. L. 96–561, title II, § 233](https://www.govinfo.gov/link/plaw/96/public/561), Dec. 22, 1980, [94 Stat. 3299](https://www.govinfo.gov/link/statute/94/3299); [Pub. L. 99–659, title I, § 101(c)(1)](https://www.govinfo.gov/link/plaw/99/public/659), Nov. 14, 1986, [100 Stat. 3707](https://www.govinfo.gov/link/statute/100/3707); [Pub. L. 101–627, title I, § 101](https://www.govinfo.gov/link/plaw/101/public/627), Nov. 28, 1990, [104 Stat. 4437](https://www.govinfo.gov/link/statute/104/4437); [Pub. L. 102–251, title III, § 301(a)](https://www.govinfo.gov/link/plaw/102/public/251), Mar. 9, 1992, [106 Stat. 62](https://www.govinfo.gov/link/statute/106/62); [Pub. L. 104–297, title I, § 101](https://www.govinfo.gov/link/plaw/104/public/297), Oct. 11, 1996, [110 Stat. 3560](https://www.govinfo.gov/link/statute/110/3560); [Pub. L. 109–479, § 3(a)](https://www.govinfo.gov/link/plaw/109/public/479), title IV, § 402, Jan. 12, 2007, [120 Stat. 3577](https://www.govinfo.gov/link/statute/120/3577), 3626; [Pub. L. 115–405, § 2](https://www.govinfo.gov/link/plaw/115/public/405), Dec. 31, 2018, [132 Stat. 5355](https://www.govinfo.gov/link/statute/132/5355).)*

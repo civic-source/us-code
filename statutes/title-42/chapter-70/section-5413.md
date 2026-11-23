@@ -3,9 +3,10 @@ title: "Section 5413 - Inspections and investigations for promulgation or enforc
 usc_title: 42
 usc_section: "5413"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5413"
-generated_at: "2026-03-30T02:56:11.235Z"
+generated_at: "2026-11-23T21:26:32.808Z"
+status: "active"
 ---
 
 # § 5413. Inspections and investigations for promulgation or enforcement of standards or execution of other duties
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:11.235Z"
   - **(1)** each prospective purchaser of a manufactured home before its first sale for purposes other than resale, at each location where any such manufacturer’s manufactured homes are offered for sale by a person with whom such manufacturer has a contractual, proprietary, or other legal relationship and in a manner determined by the Secretary to be appropriate, which may include, but is not limited to, printed matter (A) available for retention by such prospective purchaser, and (B) sent by mail to such prospective purchaser upon his request; and
   - **(2)** the first person who purchases a manufactured home for purposes other than resale, at the time of such purchase or in printed matter placed in the manufactured home.
 - **(h)** All information reported to or otherwise obtained by the Secretary or his representative pursuant to subsection (b), (c), (f), or (g) which contains or relates to a trade secret, or which, if disclosed, would put the person furnishing such information at a substantial competitive disadvantage, shall be considered confidential, except that such information may be disclosed to other officers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter. Nothing in this section shall authorize the withholding of information by the Secretary or any officer or employee under his control from the duly authorized committees of the Congress.
+
+## Source Credit
+
+*([Pub. L. 93–383, title VI, § 614](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 707](https://www.govinfo.gov/link/statute/88/707); [Pub. L. 96–399, title III, § 308(c)(4)](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1641](https://www.govinfo.gov/link/statute/94/1641); [Pub. L. 97–35, title III, § 339B(c)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 417](https://www.govinfo.gov/link/statute/95/417); [Pub. L. 106–569, title VI, § 603(b)(2)](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 2999](https://www.govinfo.gov/link/statute/114/2999).)*

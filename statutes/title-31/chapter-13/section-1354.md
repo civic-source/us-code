@@ -3,9 +3,10 @@ title: "Section 1354 - Limitation on use of appropriated funds for contracts wit
 usc_title: 31
 usc_section: "1354"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 1354"
-generated_at: "2026-03-30T02:55:34.052Z"
+generated_at: "2026-11-23T21:26:10.555Z"
+status: "active"
 ---
 
 # § 1354. Limitation on use of appropriated funds for contracts with entities not meeting veterans’ employment reporting requirements
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:34.052Z"
   - **(1)** Subject to paragraph (2), no agency may obligate or expend funds appropriated for the agency for a fiscal year to enter into a contract described in section 4212(a) of title 38 with a contractor from which a report was required under section 4212(d) of that title with respect to the preceding fiscal year if such contractor did not submit such report.
   - **(2)** Paragraph (1) shall cease to apply with respect to a contractor otherwise covered by that paragraph on the date on which the contractor submits the report required by such section 4212(d) for the fiscal year concerned.
 - **(b)** The Secretary of Labor shall make available in a database a list of the contractors that have complied with the provisions of such section 4212(d).
+
+## Source Credit
+
+*(Added [Pub. L. 105–339, § 7(b)(1)](https://www.govinfo.gov/link/plaw/105/public/339), Oct. 31, 1998, [112 Stat. 3189](https://www.govinfo.gov/link/statute/112/3189).)*

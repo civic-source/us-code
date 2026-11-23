@@ -3,9 +3,10 @@ title: "Section 7117 - Activities to support well-rounded educational opportunit
 usc_title: 20
 usc_section: "7117"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7117"
-generated_at: "2026-03-30T02:54:48.205Z"
+generated_at: "2026-11-23T21:25:47.549Z"
+status: "active"
 ---
 
 # § 7117. Activities to support well-rounded educational opportunities
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:48.205Z"
     - **(I)** programs and activities that support educational programs that integrate multiple disciplines, such as programs that combine arts and mathematics; or
     - **(J)** other activities and programs to support student access to, and success in, a variety of well-rounded education experiences.
 - **(b)** A local educational agency, or consortium of such agencies, that receives a subgrant under this subpart for fiscal year 2017 may use such funds to cover part or all of the fees for accelerated learning examinations taken by low-income students during the 2016-2017 school year, in accordance with subsection (a)(3)(D).
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4107](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title IV, § 4101](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1977](https://www.govinfo.gov/link/statute/129/1977).)*

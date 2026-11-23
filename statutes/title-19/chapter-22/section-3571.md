@@ -3,9 +3,10 @@ title: "Section 3571 - Subsidies enforcement"
 usc_title: 19
 usc_section: "3571"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 3571"
-generated_at: "2026-03-30T02:54:24.693Z"
+generated_at: "2026-11-23T21:25:42.846Z"
+status: "active"
 ---
 
 # § 3571. Subsidies enforcement
@@ -61,3 +62,7 @@ generated_at: "2026-03-30T02:54:24.693Z"
   - **(11)** The term “Trade Representative” means the United States Trade Representative.
   - **(12)** The term “violation of Article 8” means the failure of a notified subsidy program or an individual subsidy granted pursuant to a notified subsidy program to meet the applicable conditions and criteria described in Article 8.2 of the Subsidies Agreement.
 - **(i)** Notwithstanding any other provision of law, the administering authority may provide the Trade Representative with a copy of proprietary information submitted to, or obtained by, the administering authority that the Trade Representative considers relevant in carrying out its responsibilities under this subchapter. The Trade Representative shall protect from public disclosure proprietary information obtained from the administering authority under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 103–465, title II, § 281](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4922](https://www.govinfo.gov/link/statute/108/4922); [Pub. L. 104–295, § 20(b)(13)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3527](https://www.govinfo.gov/link/statute/110/3527).)*

@@ -3,9 +3,10 @@ title: "Section 718o - Definitions"
 usc_title: 16
 usc_section: "718o"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 718o"
-generated_at: "2026-03-30T02:54:22.902Z"
+generated_at: "2026-11-23T21:25:51.737Z"
+status: "active"
 ---
 
 # § 718o. Definitions
@@ -24,3 +25,7 @@ In this subchapter:
     - **(E)** is described in the State application approved by the Secretary under section 718q(b) of this title ; and
     - **(F)** may contain an image of the actual stamp.
   - **(4)** The term “Secretary” means the Secretary of the Interior.
+
+## Source Credit
+
+*([Pub. L. 113–239, § 2](https://www.govinfo.gov/link/plaw/113/public/239), Dec. 18, 2014, [128 Stat. 2847](https://www.govinfo.gov/link/statute/128/2847); [Pub. L. 118–25, § 2(b)](https://www.govinfo.gov/link/plaw/118/public/25), Dec. 19, 2023, [137 Stat. 129](https://www.govinfo.gov/link/statute/137/129).)*

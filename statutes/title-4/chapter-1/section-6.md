@@ -3,9 +3,10 @@ title: "Section 6 - Time and occasions for display"
 usc_title: 4
 usc_section: "6"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "4 U.S.C. § 6"
-generated_at: "2026-03-30T02:52:51.497Z"
+generated_at: "2026-11-23T21:25:19.969Z"
+status: "active"
 ---
 
 # § 6. Time and occasions for display
@@ -17,3 +18,30 @@ generated_at: "2026-03-30T02:52:51.497Z"
 - **(e)** The flag should be displayed daily on or near the main administration building of every public institution.
 - **(f)** The flag should be displayed in or near every polling place on election days.
 - **(g)** The flag should be displayed during school days in or near every schoolhouse.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 6 | 36:174. | June 22, 1942, ch. 435, § 2 , 56 Stat. 378 ; Dec. 22, 1942, ch. 806, § 2 , 56 Stat. 1074 ; July 7, 1976 , Pub. L. 94–344 , (2)–(5), 90 Stat. 810 . |
+
+
+Historical and Revision Notes
+
+6
+
+June 22, 1942, ch. 435, § 2
+
+56 Stat. 378
+
+Dec. 22, 1942, ch. 806, § 2
+
+56 Stat. 1074
+
+July 7, 1976
+
+Pub. L. 94–344
+
+90 Stat. 810
+
+## Source Credit
+
+*(Added [Pub. L. 105–225, § 2(a)](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1494](https://www.govinfo.gov/link/statute/112/1494); amended [Pub. L. 106–80, § 1](https://www.govinfo.gov/link/plaw/106/public/80), Oct. 25, 1999, [113 Stat. 1285](https://www.govinfo.gov/link/statute/113/1285); [Pub. L. 110–239, § 1](https://www.govinfo.gov/link/plaw/110/public/239), June 3, 2008, [122 Stat. 1559](https://www.govinfo.gov/link/statute/122/1559); [Pub. L. 111–41, § 2](https://www.govinfo.gov/link/plaw/111/public/41), July 27, 2009, [123 Stat. 1962](https://www.govinfo.gov/link/statute/123/1962); [Pub. L. 115–15, § 2](https://www.govinfo.gov/link/plaw/115/public/15), Mar. 28, 2017, [131 Stat. 79](https://www.govinfo.gov/link/statute/131/79).)*

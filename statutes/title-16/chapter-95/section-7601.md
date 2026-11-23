@@ -3,9 +3,10 @@ title: "Section 7601 - Definitions"
 usc_title: 16
 usc_section: "7601"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 7601"
-generated_at: "2026-03-30T02:54:23.076Z"
+generated_at: "2026-11-23T21:25:52.067Z"
+status: "active"
 ---
 
 # § 7601. Definitions
@@ -30,3 +31,7 @@ In this chapter:
   - **(10)** The term “security force” means a military, law enforcement, gendarmerie, park ranger, or any other security force with a responsibility for protecting wildlife and natural habitats.
   - **(11)** The term “Task Force” means the Presidential Task Force on Wildlife Trafficking, as established by Executive Order 13648 (78 Fed. Reg. 40621) and modified by section 7631 of this title .
   - **(12)** The term “wildlife trafficking” refers to the poaching or other illegal taking of protected or managed species and the illegal trade in wildlife and their related parts and products.
+
+## Source Credit
+
+*([Pub. L. 114–231, § 2](https://www.govinfo.gov/link/plaw/114/public/231), Oct. 7, 2016, [130 Stat. 949](https://www.govinfo.gov/link/statute/130/949); [Pub. L. 117–263, div. E, title LIX, § 5943(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3470](https://www.govinfo.gov/link/statute/136/3470).)*

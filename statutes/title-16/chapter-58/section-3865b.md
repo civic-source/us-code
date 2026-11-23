@@ -3,9 +3,10 @@ title: "Section 3865b - Agricultural land easements"
 usc_title: 16
 usc_section: "3865b"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3865b"
-generated_at: "2026-03-30T02:54:23.036Z"
+generated_at: "2026-11-23T21:25:52.002Z"
+status: "active"
 ---
 
 # § 3865b. Agricultural land easements
@@ -89,3 +90,31 @@ generated_at: "2026-03-30T02:54:23.036Z"
   - **(1)** permanent easements; or
   - **(2)** easements for the maximum duration allowed under applicable State laws.
 - **(d)** The Secretary may provide technical assistance, if requested, to assist in compliance with the terms and conditions of easements.
+
+(aa) (AA) the holder of the easement fails to provide monitoring reports in a timely manner; or (BB) the Secretary has a reasonable and articulable belief that the terms and conditions of the easement have been violated; and
+
+(bb) prior to the inspection, the Secretary notifies the eligible entity and the landowner of the inspection and provides a reasonable opportunity for the eligible entity and the landowner to participate in the inspection;
+
+(aa) has a limited and localized impact;
+
+(bb) does not harm the agricultural use and conservation values of the land subject to the easement;
+
+(cc) does not materially alter or affect the existing topography;
+
+(dd) shall comply with a subsurface mineral development plan that— (AA) includes a plan for the remediation of impacts to the agricultural use and conservation values of the land subject to the easement; and (BB) is approved by the Secretary prior to the initiation of mineral development activity;
+
+(ee) is not accomplished by any surface mining method;
+
+(ff) is within the impervious surface limits of the easement under subparagraph (C)(v); and
+
+(gg) uses practices and technologies that minimize the duration and intensity of impacts to the agricultural use and conservation values of the land subject to the easement; and
+
+(aa) the long-term integrity of agricultural land easements on eligible land;
+
+(bb) timely completion of acquisitions of such easements; and
+
+(cc) timely and complete evaluation and reporting to the Secretary on the use of funds provided under the program;
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1265B](https://www.govinfo.gov/link/plaw/99/public/198), as added [Pub. L. 113–79, title II, § 2301(a)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 734](https://www.govinfo.gov/link/statute/128/734); amended [Pub. L. 115–334, title II, § 2603](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4586](https://www.govinfo.gov/link/statute/132/4586).)*

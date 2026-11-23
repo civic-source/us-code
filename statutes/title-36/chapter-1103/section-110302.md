@@ -3,9 +3,10 @@ title: "Section 110302 - Purposes"
 usc_title: 36
 usc_section: "110302"
 chapter: 1103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 110302"
-generated_at: "2026-03-30T02:55:44.700Z"
+generated_at: "2026-11-23T21:26:13.612Z"
+status: "active"
 ---
 
 # § 110302. Purposes
@@ -15,3 +16,22 @@ The purposes of the corporation are—
   - **(1)** to maintain and conduct a national memorial and museum dedicated to and commemorating the service and sacrifice by Americans of the Jewish faith in the Armed Forces of the United States during the period of war;
   - **(2)** to gather, collate, edit, publish, and exhibit memorabilia, information, records, military awards, decorations, citations, and similar items, to preserve the memories and records of patriotic service performed by men and women of the Jewish faith while in the Armed Forces of the United States in time of war; and
   - **(3)** to stimulate patriotism in the minds of all Americans by encouraging the study of the military and naval history of the United States.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 110302 | 36:913. | Sept. 2, 1958 , Pub. L. 85–903, § 3 , 72 Stat. 1738 . |
+
+
+Historical and Revision Notes
+
+110302
+
+Sept. 2, 1958
+
+Pub. L. 85–903, § 3
+
+72 Stat. 1738
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1369](https://www.govinfo.gov/link/statute/112/1369).)*

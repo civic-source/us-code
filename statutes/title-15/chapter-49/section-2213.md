@@ -3,12 +3,17 @@ title: "Section 2213 - Annual conference"
 usc_title: 15
 usc_section: "2213"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2213"
-generated_at: "2026-03-30T02:54:08.168Z"
+generated_at: "2026-11-23T21:25:39.918Z"
+status: "active"
 ---
 
 # § 2213. Annual conference
 
 The Administrator is authorized to organize, or to participate in organizing, an annual conference on fire prevention and control. He may pay, in whole or in part, the cost of such conference and the expenses of some or all of the participants. All of the Nation’s fire services shall be eligible to send representatives to each such conference to discuss, exchange ideas on, and participate in educational programs on new techniques in fire prevention and control. Such conferences shall be open to the public.
 
+
+## Source Credit
+
+*([Pub. L. 93–498, § 14](https://www.govinfo.gov/link/plaw/93/public/498), Oct. 29, 1974, [88 Stat. 1544](https://www.govinfo.gov/link/statute/88/1544).)*

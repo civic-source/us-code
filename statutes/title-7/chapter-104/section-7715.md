@@ -3,9 +3,10 @@ title: "Section 7715 - Declaration of extraordinary emergency and resulting auth
 usc_title: 7
 usc_section: "7715"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7715"
-generated_at: "2026-03-30T02:53:42.461Z"
+generated_at: "2026-11-23T21:25:28.445Z"
+status: "active"
 ---
 
 # § 7715. Declaration of extraordinary emergency and resulting authorities
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:42.461Z"
   - **(2)** If it is not possible to file for publication in the Federal Register prior to taking action, the filing shall be made within a reasonable time, not to exceed 10 business days, after commencement of the action.
 - **(d)** No plant, biological control organism, plant product, plant pest, noxious weed, article, or means of conveyance shall be destroyed, exported, or returned to the shipping point of origin, or ordered to be destroyed, exported, or returned to the shipping point of origin under this section unless, in the opinion of the Secretary, there is no less drastic action that is feasible and that would be adequate to prevent the dissemination of any plant pest or noxious weed new to or not known to be widely prevalent or distributed within and throughout the United States.
 - **(e)** The Secretary may pay compensation to any person for economic losses incurred by the person as a result of action taken by the Secretary under this section. The determination by the Secretary of the amount of any compensation to be paid under this subsection shall be final and shall not be subject to judicial review or a review by any officer or employee of the Federal Government other than the Secretary or the designee of the Secretary.
+
+## Source Credit
+
+*([Pub. L. 106–224, title IV, § 415](https://www.govinfo.gov/link/plaw/106/public/224), June 20, 2000, [114 Stat. 445](https://www.govinfo.gov/link/statute/114/445); [Pub. L. 107–171, title VII, § 7504(a)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 465](https://www.govinfo.gov/link/statute/116/465); [Pub. L. 110–234, title X, § 10203(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1342](https://www.govinfo.gov/link/statute/122/1342); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title X, § 10203(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2104.)*

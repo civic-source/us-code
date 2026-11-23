@@ -3,9 +3,10 @@ title: "Section 669b - Authorization of appropriations"
 usc_title: 16
 usc_section: "669b"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 669b"
-generated_at: "2026-03-30T02:54:22.891Z"
+generated_at: "2026-11-23T21:25:51.715Z"
+status: "active"
 ---
 
 # § 669b. Authorization of appropriations
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:22.891Z"
   - **(2)** Funds may be used by a State or an Indian tribe for the planning and implementation of its wildlife conservation and restoration program and wildlife conservation strategy, as provided in sections 669c(d) and (e) of this title, including wildlife conservation, wildlife conservation education, and wildlife-associated recreation projects. Such funds may be used for new programs and projects as well as to enhance existing programs and projects.
   - **(3)** Priority for funding from the Wildlife Conservation and Restoration Account shall be for those species with the greatest conservation need as defined by the State wildlife conservation and restoration program.
 - **(d)** Notwithstanding subsections (a) and (b) of this section, with respect to amounts transferred to the Wildlife Conservation and Restoration Account, so much of such amounts apportioned to any State for any fiscal year as remains unexpended at the close thereof shall remain available for obligation in that State until the close of the second succeeding fiscal year.
+
+## Source Credit
+
+*(Sept. 2, 1937, ch. 899, § 3, [50 Stat. 917](https://www.govinfo.gov/link/statute/50/917); 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433](https://www.govinfo.gov/link/statute/53/1433); [Pub. L. 91–503, title I, § 101](https://www.govinfo.gov/link/plaw/91/public/503), Oct. 23, 1970, [84 Stat. 1097](https://www.govinfo.gov/link/statute/84/1097); [Pub. L. 92–558, title I, § 101(a)](https://www.govinfo.gov/link/plaw/92/public/558), Oct. 25, 1972, [86 Stat. 1172](https://www.govinfo.gov/link/statute/86/1172); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 101–233, § 7(a)(1)](https://www.govinfo.gov/link/plaw/101/public/233), Dec. 13, 1989, [103 Stat. 1974](https://www.govinfo.gov/link/statute/103/1974); [Pub. L. 106–553, § 1(a)(2) [title IX, § 902(d)]](https://www.govinfo.gov/link/plaw/106/public/553), Dec. 21, 2000, [114 Stat. 2762](https://www.govinfo.gov/link/statute/114/2762), 2762A–120; [Pub. L. 109–75, § 1](https://www.govinfo.gov/link/plaw/109/public/75), Sept. 29, 2005, [119 Stat. 2034](https://www.govinfo.gov/link/statute/119/2034); [Pub. L. 114–113, div. G, title I, § 120](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2552](https://www.govinfo.gov/link/statute/129/2552); [Pub. L. 119–40, § 2](https://www.govinfo.gov/link/plaw/119/public/40), Nov. 25, 2025, [139 Stat. 662](https://www.govinfo.gov/link/statute/139/662).)*

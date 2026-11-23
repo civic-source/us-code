@@ -3,9 +3,10 @@ title: "Section 215 - Labeling requirement"
 usc_title: 27
 usc_section: "215"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "27 U.S.C. § 215"
-generated_at: "2026-03-30T02:55:15.105Z"
+generated_at: "2026-11-23T21:26:00.008Z"
+status: "active"
 ---
 
 # § 215. Labeling requirement
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:15.105Z"
     - **(A)** ensure the enforcement of the provisions of this subchapter, and
     - **(B)** issue regulations to carry out this subchapter, and
   - **(2)** consult and coordinate the health awareness efforts of the labeling requirements of this subchapter with the Surgeon General of the United States.
+
+## Source Credit
+
+*(Aug. 29, 1935, ch. 814, title II, § 204, as added [Pub. L. 100–690, title VIII, § 8001(a)(3)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4519](https://www.govinfo.gov/link/statute/102/4519).)*

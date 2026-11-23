@@ -3,9 +3,10 @@ title: "Section 4012 - Relationship of the Agreement to United States and State 
 usc_title: 19
 usc_section: "4012"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4012"
-generated_at: "2026-03-30T02:54:24.699Z"
+generated_at: "2026-11-23T21:25:42.869Z"
+status: "active"
 ---
 
 # § 4012. Relationship of the Agreement to United States and State law
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:24.699Z"
 - **(c)** No person other than the United States—
   - **(1)** shall have any cause of action or defense under the Agreement or by virtue of congressional approval thereof; or
   - **(2)** may challenge, in any action brought under any provision of law, any action or inaction by any department, agency, or other instrumentality of the United States, any State, or any political subdivision of a State, on the ground that such action or inaction is inconsistent with the Agreement.
+
+## Source Credit
+
+*([Pub. L. 109–53, title I, § 102](https://www.govinfo.gov/link/plaw/109/public/53), Aug. 2, 2005, [119 Stat. 464](https://www.govinfo.gov/link/statute/119/464).)*

@@ -3,9 +3,10 @@ title: "Section 1221 - Capital asset defined"
 usc_title: 26
 usc_section: "1221"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1221"
-generated_at: "2026-03-30T02:55:27.760Z"
+generated_at: "2026-11-23T21:26:06.468Z"
+status: "active"
 ---
 
 # § 1221. Capital asset defined
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:55:27.760Z"
       - **(ii)** which was so identified but is not a hedging transaction.
   - **(3)** At the election of the taxpayer, paragraphs (1) and (3) of subsection (a) shall not apply to musical compositions or copyrights in musical works sold or exchanged by a taxpayer described in subsection (a)(3).
   - **(4)** The Secretary shall prescribe such regulations as are appropriate to carry out the purposes of paragraph (6) and (7) of subsection (a) in the case of transactions involving related parties.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 321; [Pub. L. 91–172, title V, § 514(a)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 643](https://www.govinfo.gov/link/statute/83/643); [Pub. L. 94–455, title XIX, § 1901(c)(9)](https://www.govinfo.gov/link/plaw/94/public/455), title XXI, § 2132(a), Oct. 4, 1976, [90 Stat. 1803](https://www.govinfo.gov/link/statute/90/1803), 1925; [Pub. L. 97–34, title V, § 505(a)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 331](https://www.govinfo.gov/link/statute/95/331); [Pub. L. 106–170, title V, § 532(a)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1928](https://www.govinfo.gov/link/statute/113/1928); [Pub. L. 107–16, title V, § 542(e)(2)(A)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 85](https://www.govinfo.gov/link/statute/115/85); [Pub. L. 107–147, title IV, § 417(20)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 57](https://www.govinfo.gov/link/statute/116/57); [Pub. L. 109–222, title II, § 204(a)](https://www.govinfo.gov/link/plaw/109/public/222), May 17, 2006, [120 Stat. 350](https://www.govinfo.gov/link/statute/120/350); [Pub. L. 109–432, div. A, title IV, § 412(a)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2963](https://www.govinfo.gov/link/statute/120/2963); [Pub. L. 111–312, title III, § 301(a)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3300](https://www.govinfo.gov/link/statute/124/3300); [Pub. L. 115–97, title I, § 13314(a)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2133](https://www.govinfo.gov/link/statute/131/2133).)*

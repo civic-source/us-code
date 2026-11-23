@@ -3,9 +3,10 @@ title: "Section 13 - Laws of States adopted for areas within Federal jurisdictio
 usc_title: 18
 usc_section: "13"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 13"
-generated_at: "2026-03-30T02:54:16.456Z"
+generated_at: "2026-11-23T21:25:43.933Z"
+status: "active"
 ---
 
 # § 13. Laws of States adopted for areas within Federal jurisdiction
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:16.456Z"
       - **(ii)** the law of the State, territory, possession, or district in which the offense occurred does not provide an additional term of imprisonment under the circumstances described in clause (i).
     - **(B)** For the purposes of subparagraph (A), the term “minor” means a person less than 18 years of age.
 - **(c)** Whenever any waters of the territorial sea of the United States lie outside the territory of any State, Commonwealth, territory, possession, or district, such waters (including the airspace above and the seabed and subsoil below, and artificial islands and fixed structures erected thereon) shall be deemed, for purposes of subsection (a), to lie within the area of the State, Commonwealth, territory, possession, or district that it would lie within if the boundaries of such State, Commonwealth, territory, possession, or district were extended seaward to the outer limit of the territorial sea of the United States.
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 686](https://www.govinfo.gov/link/statute/62/686); [Pub. L. 100–690, title VI, § 6477(a)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4381](https://www.govinfo.gov/link/statute/102/4381); [Pub. L. 103–322, title X, § 100002](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1996](https://www.govinfo.gov/link/statute/108/1996); [Pub. L. 104–132, title IX, § 901(b)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1317](https://www.govinfo.gov/link/statute/110/1317); [Pub. L. 104–294, title VI, § 604(b)(32)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3508](https://www.govinfo.gov/link/statute/110/3508).)*

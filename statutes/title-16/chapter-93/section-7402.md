@@ -3,9 +3,10 @@ title: "Section 7402 - Definitions"
 usc_title: 16
 usc_section: "7402"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 7402"
-generated_at: "2026-03-30T02:54:23.075Z"
+generated_at: "2026-11-23T21:25:52.066Z"
+status: "active"
 ---
 
 # § 7402. Definitions
@@ -28,3 +29,7 @@ As used in this chapter:
       - **(iii)** any other activity which can reasonably be expected to result in the catching, taking, or harvesting of fish; or
       - **(iv)** any operations at sea in support of, or in preparation for, any activity described in clauses (i) through (iii); and
     - **(B)** does not include any scientific research activity that is conducted by a scientific research vessel.
+
+## Source Credit
+
+*([Pub. L. 114–81, title III, § 303](https://www.govinfo.gov/link/plaw/114/public/81), Nov. 5, 2015, [129 Stat. 664](https://www.govinfo.gov/link/statute/129/664).)*

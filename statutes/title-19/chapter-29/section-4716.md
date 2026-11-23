@@ -3,9 +3,10 @@ title: "Section 4716 - Report to Congress"
 usc_title: 19
 usc_section: "4716"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4716"
-generated_at: "2026-03-30T02:54:24.715Z"
+generated_at: "2026-11-23T21:25:42.898Z"
+status: "active"
 ---
 
 # § 4716. Report to Congress
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:24.715Z"
   - **(1)** The updated assessment required by section 4712(d) of this title .
   - **(2)** A comprehensive determination regarding USMCA countries’ implementation of their environmental obligations.
   - **(3)** An explanation of how compliance with environmental obligations will be taken into consideration during the “joint review” conducted pursuant to article 34.7.2 of the USMCA on the sixth anniversary of the entry into force of the USMCA.
+
+## Source Credit
+
+*([Pub. L. 116–113, title VIII, § 816](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 95](https://www.govinfo.gov/link/statute/134/95).)*

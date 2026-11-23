@@ -3,9 +3,10 @@ title: "Section 3804 - Permits to operate garbage treatment facility"
 usc_title: 7
 usc_section: "3804"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3804"
-generated_at: "2026-03-30T02:53:42.404Z"
+generated_at: "2026-11-23T21:25:28.339Z"
+status: "active"
 ---
 
 # § 3804. Permits to operate garbage treatment facility
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:42.404Z"
   - **(2)** is so constructed that swine are unable to have access to untreated garbage of such facility or material coming in contact with such untreated garbage.
 - **(b)** Whenever the Secretary finds, after notice and opportunity for a hearing on the record in accordance with sections 554 and 556 of title 5, that any person holding a permit to operate a facility to treat garbage in any State is violating or has violated this chapter or any regulation of the Secretary issued hereunder, the Secretary may issue an order requiring such person to cease and desist from continuing such violations or an order suspending or revoking such permit, or both. Any person aggrieved by an order of the Secretary issued pursuant to this subsection may, within sixty days after entry of such order, seek review of such order in the appropriate United States court of appeals in accordance with the provisions of sections 2341, 2343 through 2350 of title 28, and such court shall have jurisdiction to enjoin, set aside, suspend (in whole or in part), or to determine the validity of the Secretary’s order. Judicial review of any such order shall be upon the record upon which the determination and order are based.
 - **(c)** The permit of any person to operate a facility to treat garbage in any State shall be automatically revoked, without action of the Secretary, upon the final effective date of the second conviction of such person pursuant to section 3806 of this title .
+
+## Source Credit
+
+*([Pub. L. 96–468, § 5](https://www.govinfo.gov/link/plaw/96/public/468), Oct. 17, 1980, [94 Stat. 2230](https://www.govinfo.gov/link/statute/94/2230).)*

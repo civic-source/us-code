@@ -3,9 +3,10 @@ title: "Section 3673 - Transition separation incentive payments"
 usc_title: 22
 usc_section: "3673"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3673"
-generated_at: "2026-03-30T02:55:05.396Z"
+generated_at: "2026-11-23T21:25:58.593Z"
+status: "active"
 ---
 
 # § 3673. Transition separation incentive payments
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:05.396Z"
     - **(B)** may be made (notwithstanding the limitation specified in subsection (c)(2)(D) of section 663) in the case of such an employee who voluntarily separates (whether by retirement or resignation) during the 90-day period beginning on November 18, 1997 ; and
   - **(6)** the provisions of subsection (f) of section 663 shall not apply.
 - **(b)** A decision by the Commission to exercise or to not exercise the authority to pay a transition separation incentive under this section shall not be subject to review under any statutory procedure or any agency or negotiated grievance procedure except under any of the laws referred to in section 2302(d) of title 5 .
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1233](https://www.govinfo.gov/link/plaw/96/public/70), as added [Pub. L. 105–85, div. C, title XXXV, § 3526](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 2067](https://www.govinfo.gov/link/statute/111/2067); amended [Pub. L. 115–73, title I, § 107(a)(2)(E)](https://www.govinfo.gov/link/plaw/115/public/73), Oct. 26, 2017, [131 Stat. 1239](https://www.govinfo.gov/link/statute/131/1239); [Pub. L. 115–91, div. A, title X, § 1097(b)(3)(E)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1618](https://www.govinfo.gov/link/statute/131/1618).)*

@@ -3,9 +3,10 @@ title: "Section 134 - Metropolitan transportation planning"
 usc_title: 23
 usc_section: "134"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 134"
-generated_at: "2026-03-30T02:55:12.554Z"
+generated_at: "2026-11-23T21:25:53.879Z"
+status: "active"
 ---
 
 # § 134. Metropolitan transportation planning
@@ -271,3 +272,481 @@ generated_at: "2026-03-30T02:55:12.554Z"
       - **(ii)** decrease the amount under section 133(d)(1)(A)(iii) by the population specified in paragraph (2) of this subsection for the Bi-State MPO Region in that State; and
       - **(iii)** increase the amount under section 133(d)(1)(A)(i) by the population specified in paragraph (2) of this subsection for the Bi-State MPO Region in that State.
     - **(B)** In determining the amounts under paragraph (2) of section 133(h) that shall be obligated for a fiscal year in the States of California and Nevada, the Secretary shall, for the purpose of that subsection, calculate the populations for each of those States in a manner consistent with subparagraph (A).
+
+Policy
+
+Definitions
+
+Metropolitan planning area
+
+Metropolitan planning organization
+
+Nonmetropolitan area
+
+Nonmetropolitan local official
+
+Regional transportation planning organization
+
+TIP
+
+Urbanized area
+
+General Requirements.—
+
+Development of long-range plans and tips
+
+Contents
+
+Process of development
+
+Designation of Metropolitan Planning Organizations.—
+
+In general
+
+Structure
+
+Representation.—
+
+In general
+
+Public transportation representative
+
+Powers of certain officials
+
+Considerations
+
+Limitation on statutory construction
+
+Continuing designation
+
+Redesignation procedures.—
+
+In general
+
+Restructuring
+
+Designation of more than 1 metropolitan planning organization
+
+Metropolitan Planning Area Boundaries.—
+
+In general
+
+Included area
+
+Identification of new urbanized areas within existing planning area boundaries
+
+Existing metropolitan planning areas in nonattainment.—
+
+In general
+
+Exception
+
+New metropolitan planning areas in nonattainment
+
+Coordination in Multistate Areas.—
+
+In general
+
+Interstate compacts
+
+Reservation of rights
+
+MPO Consultation in Plan and TIP Coordination.—
+
+Nonattainment areas
+
+Transportation improvements located in multiple mpos
+
+Relationship with other planning officials.—
+
+In general
+
+Requirements
+
+Coordination between MPOs
+
+Savings clause
+
+Scope of Planning Process.—
+
+In general
+
+Performance-based approach.—
+
+In general
+
+Performance targets.—
+
+Surface transportation performance targets.—
+
+In general
+
+Coordination
+
+Public transportation performance targets
+
+Timing
+
+Integration of other performance-based plans
+
+Failure to consider factors
+
+Development of Transportation Plan.—
+
+Requirements.—
+
+In general
+
+Frequency.—
+
+In general
+
+Other areas
+
+Transportation plan
+
+Identification of transportation facilities.—
+
+In general
+
+Factors
+
+Performance measures and targets
+
+System performance report
+
+Mitigation activities.—
+
+In general
+
+Consultation
+
+Financial plan.—
+
+In general
+
+Inclusions
+
+Cooperative development
+
+Operational and management strategies
+
+Capital investment and other strategies
+
+Transportation and transit enhancement activities
+
+Coordination with clean air act agencies
+
+Optional scenario development.—
+
+In general
+
+Recommended components
+
+Metrics
+
+Consultation.—
+
+In general
+
+Issues
+
+Participation by interested parties.—
+
+In general
+
+Contents of participation plan
+
+Methods
+
+Use of technology
+
+Publication
+
+Selection of projects from illustrative list
+
+Metropolitan TIP.—
+
+Development.—
+
+In general
+
+Opportunity for comment
+
+Funding estimates
+
+Updating and approval
+
+Contents.—
+
+Priority list
+
+Financial plan
+
+Descriptions
+
+Performance target achievement
+
+Included projects.—
+
+Projects under this title and chapter 53 of title 49
+
+Projects under chapter 2.—
+
+Regionally significant projects
+
+Other projects
+
+Consistency with long-range transportation plan
+
+Requirement of anticipated full funding
+
+Notice and comment
+
+Selection of projects.—
+
+In general
+
+Modifications to project priority
+
+Selection of projects from illustrative list.—
+
+No required selection
+
+Required action by the secretary
+
+Publication.—
+
+Publication of tips
+
+Publication of annual listings of projects.—
+
+In general
+
+Requirement
+
+Transportation Management Areas.—
+
+Identification and designation.—
+
+Required identification
+
+Designations on request
+
+Transportation plans
+
+Congestion management process.—
+
+In general
+
+Schedule
+
+Congestion management plan
+
+Participation
+
+Housing coordination process.—
+
+In general
+
+Coordination in integrated planning process
+
+Housing coordination plan.—
+
+In general
+
+Contents
+
+(aa) better connect housing and employment while mitigating commuting times;
+
+(bb) align transportation improvements with housing needs, such as housing supply shortages, and proposed housing development;
+
+(cc) align planning for housing and transportation to address needs in relationship to household incomes within the metropolitan planning area;
+
+(dd) expand housing and economic development within the catchment areas of existing transportation facilities and public transportation services when appropriate, including higher-density development, as locally determined;
+
+(ee) manage effects of growth of vehicle miles traveled experienced in the metropolitan planning area related to housing development and economic development;
+
+(ff) increase share of households with sufficient and affordable access to the transportation networks of the metropolitan planning area;
+
+Selection of projects.—
+
+In general
+
+National highway system projects
+
+Certification.—
+
+In general
+
+Requirements for certification
+
+Effect of failure to certify.—
+
+Withholding of project funds
+
+Restoration of withheld funds
+
+Review of certification
+
+Report on Performance-based Planning Processes.—
+
+In general
+
+Report
+
+Publication
+
+Abbreviated Plans for Certain Areas.—
+
+In general
+
+Nonattainment areas
+
+Additional Requirements for Certain Nonattainment Areas.—
+
+In general
+
+Applicability
+
+Limitation on Statutory Construction
+
+Funding
+
+Continuation of Current Review Practice
+
+Bi-State Metropolitan Planning Organization.—
+
+Definition of bi-state mpo region
+
+Treatment
+
+Suballocated funding.—
+
+Planning
+
+STBGP set aside
+
+In general
+
+Membership of certain mpo’s
+
+In general
+
+Compacts
+
+Definitions
+
+Eligible entity
+
+Metropolitan planning organization
+
+Prioritization process pilot program
+
+Establishment.—
+
+In general
+
+Purpose
+
+Pilot Program Administration.—
+
+In general
+
+Requirements
+
+Metropolitan transportation planning
+
+“(aa) factors described in section 134(h) of title 23 , United States Code, and section 5303(h) of title 49 , United States Code;
+
+“(bb) targets for national performance measures under section 150(b) of title 23 , United States Code;
+
+“(cc) applicable transportation goals in the metropolitan planning area or State set by the applicable transportation agency; and
+
+“(dd) priority objectives developed under paragraph (1)(A);
+
+Statewide transportation planning
+
+“(aa) factors described in section 135(d) of title 23 , United States Code, and section 5304(d) of title 49 , United States Code;
+
+“(bb) national transportation goals under section 150(b) of title 23 , United States Code;
+
+“(cc) applicable transportation goals in the State; and
+
+“(dd) the priority objectives developed under paragraph (1)(A);
+
+Additional transportation planning
+
+Exceptions to priority ranking
+
+Maximum amount
+
+Applications
+
+Definition of Metropolitan Planning Organization
+
+Study.—
+
+In general
+
+Secretarial support
+
+Evaluation tool
+
+Definition of Complete Streets Standards or Policies
+
+Funding Requirement
+
+Activities Described
+
+Federal Share
+
+State Flexibility
+
+Definitions
+
+Metropolitan planning organization
+
+State
+
+Surface transportation modes
+
+Pilot program
+
+Regional transportation planning organization
+
+Establishment
+
+Purpose
+
+Eligible Entities
+
+Application
+
+Selection.—
+
+In general
+
+Inclusions
+
+Duties
+
+Methodology
+
+Availability
+
+Report
+
+Transportation System Access.—
+
+In general
+
+Savings provision
+
+Funding
+
+Sunset
+
+## Source Credit
+
+*(Added [Pub. L. 87–866, § 9(a)](https://www.govinfo.gov/link/plaw/87/public/866), Oct. 23, 1962, [76 Stat. 1148](https://www.govinfo.gov/link/statute/76/1148); amended [Pub. L. 91–605, title I, § 143](https://www.govinfo.gov/link/plaw/91/public/605), Dec. 31, 1970, [84 Stat. 1737](https://www.govinfo.gov/link/statute/84/1737); [Pub. L. 95–599, title I, § 169](https://www.govinfo.gov/link/plaw/95/public/599), Nov. 6, 1978, [92 Stat. 2723](https://www.govinfo.gov/link/statute/92/2723); [Pub. L. 102–240, title I, § 1024(a)](https://www.govinfo.gov/link/plaw/102/public/240), Dec. 18, 1991, [105 Stat. 1955](https://www.govinfo.gov/link/statute/105/1955); [Pub. L. 102–388, title V, § 502(b)](https://www.govinfo.gov/link/plaw/102/public/388), Oct. 6, 1992, [106 Stat. 1566](https://www.govinfo.gov/link/statute/106/1566); [Pub. L. 103–429, § 3(5)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4377](https://www.govinfo.gov/link/statute/108/4377); [Pub. L. 104–59, title III, § 317](https://www.govinfo.gov/link/plaw/104/public/59), Nov. 28, 1995, [109 Stat. 588](https://www.govinfo.gov/link/statute/109/588); [Pub. L. 105–178, title I, § 1203(a)](https://www.govinfo.gov/link/plaw/105/public/178) –(m), (o), June 9, 1998, [112 Stat. 170–179](https://www.govinfo.gov/link/statute/112/170); [Pub. L. 105–206, title IX, § 9003(c)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 839](https://www.govinfo.gov/link/statute/112/839); [Pub. L. 109–59, title VI, § 6001(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1839](https://www.govinfo.gov/link/statute/119/1839); [Pub. L. 110–244, title I, § 101(n)](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1576](https://www.govinfo.gov/link/statute/122/1576); [Pub. L. 112–141, div. A, title I, § 1201(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 500](https://www.govinfo.gov/link/statute/126/500); [Pub. L. 114–94, div. A, title I, § 1201](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1371](https://www.govinfo.gov/link/statute/129/1371); [Pub. L. 117–58, div. A, title I, § 11201(a)](https://www.govinfo.gov/link/plaw/117/public/58), (d), Nov. 15, 2021, [135 Stat. 516](https://www.govinfo.gov/link/statute/135/516), 517.)*

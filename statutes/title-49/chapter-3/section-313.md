@@ -3,9 +3,10 @@ title: "Section 313 - Nontraditional and Emerging Transportation Technology Coun
 usc_title: 49
 usc_section: "313"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 313"
-generated_at: "2026-03-30T02:56:19.299Z"
+generated_at: "2026-11-23T21:26:40.590Z"
+status: "active"
 ---
 
 # § 313. Nontraditional and Emerging Transportation Technology Council
@@ -49,3 +50,31 @@ generated_at: "2026-03-30T02:56:19.299Z"
   - **(1)** designate a lead modal administration of the Department of Transportation for review of the technology, mode, or project; and
   - **(2)** arrange for the detailing of staff between modal administrations or offices of the Department of Transportation as needed to maximize the sharing of experience and expertise.
 - **(h)** Not later than 1 year after the date of establishment of the Council, and not less frequently than annually thereafter until December 31, 2026 , the Council shall post on a publicly accessible website a report describing the activities of the Council during the preceding calendar year.
+
+Establishment
+
+Membership.—
+
+In general
+
+Chair and vice chair.—
+
+Chair
+
+Vice chair
+
+Duties
+
+Best Practices
+
+Support
+
+Meetings
+
+Lead Modal Administration
+
+Transparency
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. B, title V, § 25008(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 850](https://www.govinfo.gov/link/statute/135/850).)*

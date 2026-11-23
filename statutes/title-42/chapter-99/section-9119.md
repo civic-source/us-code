@@ -3,9 +3,10 @@ title: "Section 9119 - Prevention of interference with other uses of high seas"
 usc_title: 42
 usc_section: "9119"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9119"
-generated_at: "2026-03-30T02:56:11.350Z"
+generated_at: "2026-11-23T21:26:33.229Z"
+status: "active"
 ---
 
 # § 9119. Prevention of interference with other uses of high seas
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.350Z"
   - **(1)** to impinge on so as to degrade the thermal gradient used by another ocean thermal energy conversion facility or plantship, or
   - **(2)** to impinge on so as to adversely affect the territorial sea or area of national resource jurisdiction, as recognized by the United States, of any other nation.
 - **(c)** The Secretary of the department in which the Coast Guard is operating shall promulgate, after consultation with the Administrator, and shall enforce, regulations governing the movement and navigation of ocean thermal energy conversion plantships licensed under this chapter to ensure that the thermal plume of such an ocean thermal energy conversion plantship does not unreasonably impinge on so as to degrade the thermal gradient used by the operation of any other ocean thermal energy conversion plantship or facility except in case of force majeure or with the consent of owner of the other such plantship or facility, and to ensure that the thermal plume of such an ocean thermal energy conversion plantship does not impinge on so as to adversely affect the territorial sea or area of national resource jurisdiction, as recognized by the United States, of any other nation unless the Secretary of State has approved such impingement after consultation with such nation.
+
+## Source Credit
+
+*([Pub. L. 96–320, title I, § 109](https://www.govinfo.gov/link/plaw/96/public/320), Aug. 3, 1980, [94 Stat. 987](https://www.govinfo.gov/link/statute/94/987); [Pub. L. 98–623, title VI, § 602(e)(2)](https://www.govinfo.gov/link/plaw/98/public/623), (15), (16), Nov. 8, 1984, [98 Stat. 3412](https://www.govinfo.gov/link/statute/98/3412).)*

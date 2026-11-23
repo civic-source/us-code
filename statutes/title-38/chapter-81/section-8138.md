@@ -3,9 +3,10 @@ title: "Section 8138 - Treatment of certain health facilities as State homes"
 usc_title: 38
 usc_section: "8138"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 8138"
-generated_at: "2026-03-30T02:55:53.539Z"
+generated_at: "2026-11-23T21:26:16.909Z"
+status: "active"
 ---
 
 # § 8138. Treatment of certain health facilities as State homes
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:53.539Z"
     - **(B)** the number of veterans actually in beds in State homes (other than facilities or certain beds treated as State homes under subsection (a)) in such State under regulations prescribed under such section.
 - **(d)** The number of beds in a health facility in a State that has been treated as a State home under subsection (a) shall be taken into account in determining the unmet need for beds for State homes for the State under section 8134(d)(1) of this title .
 - **(e)** The Secretary may not treat any new health facilities (or any new certain beds in a health facility) as a State home under subsection (a) after September 30, 2009 .
+
+## Source Credit
+
+*(Added [Pub. L. 109–461, title II, § 211(c)(1)](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3420](https://www.govinfo.gov/link/statute/120/3420).)*

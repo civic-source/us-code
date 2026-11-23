@@ -3,9 +3,10 @@ title: "Section 5011 - Consumer awareness"
 usc_title: 12
 usc_section: "5011"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5011"
-generated_at: "2026-03-30T02:53:53.522Z"
+generated_at: "2026-11-23T21:25:37.226Z"
+status: "active"
 ---
 
 # § 5011. Consumer awareness
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:53.522Z"
     - **(A)** A bank shall be treated as being in compliance with the requirements of subsection (a) if the bank’s substitute check notice uses a model form or clause published by the Board and such model form or clause accurately describes the bank’s policies and practices.
     - **(B)** A bank may delete any information in the model form or clause that is not required by this chapter or rearrange the format.
   - **(3)** This section shall not be construed as requiring any bank to use a model form or clause that the Board prepares under this subsection.
+
+## Source Credit
+
+*([Pub. L. 108–100, § 12](https://www.govinfo.gov/link/plaw/108/public/100), Oct. 28, 2003, [117 Stat. 1189](https://www.govinfo.gov/link/statute/117/1189).)*

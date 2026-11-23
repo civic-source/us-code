@@ -3,9 +3,10 @@ title: "Section 2202d - Protection of borrowers who meet all loan obligations"
 usc_title: 12
 usc_section: "2202d"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2202d"
-generated_at: "2026-03-30T02:53:53.475Z"
+generated_at: "2026-11-23T21:25:37.060Z"
+status: "active"
 ---
 
 # § 2202d. Protection of borrowers who meet all loan obligations
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:53.475Z"
   - **(1)** If a qualified lender places any loan in nonaccrual status, the lender shall document such change of status and promptly notify the borrower thereof in writing of such action and the reasons therefor.
   - **(2)** If the borrower was not delinquent in any principal or interest payment under the loan at the time of such action and the borrower’s request to have the loan placed back into accrual status is denied, the borrower may obtain a review of such denial before the appropriate credit review committee under section 2202 of this title .
   - **(3)** This subsection shall only apply if a loan being placed in nonaccrual status results in an adverse action being taken against the borrower.
+
+## Source Credit
+
+*([Pub. L. 92–181, title IV, § 4](https://www.govinfo.gov/link/plaw/92/public/181).14D, as added [Pub. L. 100–233, title I, § 107](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1581](https://www.govinfo.gov/link/statute/101/1581).)*

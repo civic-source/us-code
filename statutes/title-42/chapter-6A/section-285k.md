@@ -3,9 +3,10 @@ title: "Section 285k - National Institute of General Medical Sciences"
 usc_title: 42
 usc_section: "285k"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 285k"
-generated_at: "2026-03-30T02:56:10.747Z"
+generated_at: "2026-11-23T21:26:30.506Z"
+status: "active"
 ---
 
 # § 285k. National Institute of General Medical Sciences
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:10.747Z"
       - **(ii)** assist the entities in developing a plan for biomedical or behavioral research proposals; and
       - **(iii)** assist the entities in implementing such plan.
   - **(2)** The Director of NIH shall establish a program of supporting projects of biomedical or behavioral research whose principal researchers are individuals who have not previously served as the principal researchers of such projects supported by the Director.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 461, as added [Pub. L. 99–158, § 2](https://www.govinfo.gov/link/plaw/99/public/158), Nov. 20, 1985, [99 Stat. 857](https://www.govinfo.gov/link/statute/99/857); amended [Pub. L. 112–74, div. F, title II, § 221(b)(5)](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 1088](https://www.govinfo.gov/link/statute/125/1088).)*

@@ -3,12 +3,17 @@ title: "Section 4 - Defective record of deeds and papers legalized"
 usc_title: 25
 usc_section: "4"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4"
-generated_at: "2026-03-30T02:54:52.796Z"
+generated_at: "2026-11-23T21:25:54.530Z"
+status: "active"
 ---
 
 # § 4. Defective record of deeds and papers legalized
 
 The recording of all deeds and papers prior to July 26, 1892 , in the office of the Commissioner of Indian Affairs is confirmed, approved, and legalized; and said record theretofore made shall be deemed, taken, and held to be good and valid and shall have all the force and effect and be entitled to the same credit as if it had been made in pursuance of and in conformity to law. But shall have no effect whatever upon the validity or invalidity of the deed or paper so recorded, and shall be no evidence of constructive notice to any persons not actually knowing the contents.
 
+
+## Source Credit
+
+*(July 26, 1892, ch. 256, § 1, [27 Stat. 272](https://www.govinfo.gov/link/statute/27/272).)*

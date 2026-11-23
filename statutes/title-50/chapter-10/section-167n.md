@@ -3,9 +3,10 @@ title: "Section 167n - Helium gas resource assessment"
 usc_title: 50
 usc_section: "167n"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 167n"
-generated_at: "2026-03-30T02:56:26.199Z"
+generated_at: "2026-11-23T21:26:38.899Z"
+status: "active"
 ---
 
 # § 167n. Helium gas resource assessment
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:26.199Z"
     - **(C)** an inventory of medical, scientific, industrial, commercial, and other uses of helium in the United States, including Federal uses, that identifies the nature of the helium use, the amounts required, the technical and commercial viability of helium recapture and recycling in that use, and the availability of material substitutes wherever possible; and
   - **(4)** submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report describing the results of the assessments required under this paragraph.
 - **(b)** There is authorized to be appropriated to carry out this section $1,000,000.
+
+## Source Credit
+
+*(Mar. 3, 1925, ch. 426, § 16, as added [Pub. L. 113–40, § 6(3)](https://www.govinfo.gov/link/plaw/113/public/40), Oct. 2, 2013, [127 Stat. 542](https://www.govinfo.gov/link/statute/127/542).)*

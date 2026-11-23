@@ -3,9 +3,10 @@ title: "Section 2894 - Landlord-tenant dispute resolution process and treatment 
 usc_title: 10
 usc_section: "2894"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2894"
-generated_at: "2026-03-30T02:53:38.183Z"
+generated_at: "2026-11-23T21:25:32.701Z"
+status: "active"
 ---
 
 # § 2894. Landlord-tenant dispute resolution process and treatment of certain payments during process
@@ -52,3 +53,27 @@ generated_at: "2026-03-30T02:53:38.183Z"
   - **(1)** Each housing management office of the Department of Defense shall disclose in writing to each new tenant of a housing unit, upon the signing of the lease for the housing unit, the tenant’s rights under this section and the procedures under this section for submitting a request for resolution of a landlord-tenant dispute through the dispute resolution process, including the ability to submit a request to withhold payments during the resolution process.
   - **(2)** The Secretary of Defense shall ensure that each lease entered into with a tenant for a housing unit clearly expresses, in a separate addendum, the dispute resolution procedures.
 - **(g)** Nothing in this section or any other provision of law shall be construed to prohibit a tenant of a housing unit from pursuing a claim against a landlord in any adjudicative body with jurisdiction over the housing unit or the claim.
+
+Process Required; Purpose
+
+Process Elements
+
+Resolution Process
+
+Effect of Failure to Comply With Decision
+
+Request to Withhold Payments During Resolution Process
+
+Disclosure of Rights
+
+Rule of Construction on Use of Other Adjudicative Bodies
+
+In general
+
+Submittal of list to congress
+
+Consideration of lack of agreement in future contracts
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. B, title XXX, § 3022(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1932](https://www.govinfo.gov/link/statute/133/1932); amended [Pub. L. 116–283, div. B, title XXVIII, § 2811(g)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4324](https://www.govinfo.gov/link/statute/134/4324).)*

@@ -3,9 +3,10 @@ title: "Section 1932 - Grants for off-reservation programs for additional servic
 usc_title: 25
 usc_section: "1932"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1932"
-generated_at: "2026-03-30T02:54:52.831Z"
+generated_at: "2026-11-23T21:25:54.647Z"
+status: "active"
 ---
 
 # § 1932. Grants for off-reservation programs for additional services
@@ -16,3 +17,7 @@ The Secretary is also authorized to make grants to Indian organizations to estab
   - **(2)** the operation and maintenance of facilities and services for counseling and treatment of Indian families and Indian foster and adoptive children;
   - **(3)** family assistance, including homemaker and home counselors, day care, afterschool care, and employment, recreational activities, and respite care; and
   - **(4)** guidance, legal representation, and advice to Indian families involved in child custody proceedings.
+
+## Source Credit
+
+*([Pub. L. 95–608, title II, § 202](https://www.govinfo.gov/link/plaw/95/public/608), Nov. 8, 1978, [92 Stat. 3076](https://www.govinfo.gov/link/statute/92/3076).)*

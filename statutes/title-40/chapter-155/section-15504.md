@@ -3,9 +3,10 @@ title: "Section 15504 - Program development criteria"
 usc_title: 40
 usc_section: "15504"
 chapter: 155
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 15504"
-generated_at: "2026-03-30T02:55:43.388Z"
+generated_at: "2026-11-23T21:26:14.974Z"
+status: "active"
 ---
 
 # § 15504. Program development criteria
@@ -18,3 +19,7 @@ In considering programs and projects to be provided assistance by a Commission u
   - **(4)** the importance of the project or class of projects in relation to the other projects or classes of projects that may be in competition for the same funds;
   - **(5)** the prospects that the project for which assistance is sought will improve, on a continuing rather than a temporary basis, the opportunities for employment, the average level of income, or the economic development of the area to be served by the project; and
   - **(6)** the extent to which the project design provides for detailed outcome measurements by which grant expenditures and the results of the expenditures may be evaluated.
+
+## Source Credit
+
+*(Added [Pub. L. 110–234, title XIV, § 14217(a)(2)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1476](https://www.govinfo.gov/link/statute/122/1476), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14217(a)(2), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2238.)*

@@ -3,9 +3,10 @@ title: "Section 7261a - Protection of sensitive technical information"
 usc_title: 42
 usc_section: "7261a"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7261a"
-generated_at: "2026-03-30T02:56:11.286Z"
+generated_at: "2026-11-23T21:26:33.057Z"
+status: "active"
 ---
 
 # § 7261a. Protection of sensitive technical information
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.286Z"
   - **(2)** whether sensitive technical information (whether classified or unclassified) under the Naval Nuclear Propulsion Program or the nuclear weapons programs or other atomic energy defense activities of the Department of Energy for which dissemination is controlled under Federal statutes and regulations will be released to unauthorized persons;
   - **(3)** whether an organizational conflict of interest contemplated by Federal statutes and regulations will result; and
   - **(4)** whether failure to assert such a claim will adversely affect the operation of the Naval Nuclear Propulsion Program or the nuclear weapons programs or other atomic energy defense activities of the Department of Energy.
+
+## Source Credit
+
+*([Pub. L. 99–661, div. C, title I, § 3131](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 4062](https://www.govinfo.gov/link/statute/100/4062); [Pub. L. 100–180, div. C, title I, § 3135(a)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1240](https://www.govinfo.gov/link/statute/101/1240).)*

@@ -3,9 +3,10 @@ title: "Section 1010 - Determination of certain disputes"
 usc_title: 17
 usc_section: "1010"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 1010"
-generated_at: "2026-03-30T02:54:15.356Z"
+generated_at: "2026-11-23T21:25:41.734Z"
+status: "active"
 ---
 
 # § 1010. Determination of certain disputes
@@ -15,3 +16,17 @@ generated_at: "2026-03-30T02:54:15.356Z"
 - **(c)** Any civil action brought under section 1009 against a party to a proceeding under this section shall, on application of one of the parties to the proceeding, be stayed until completion of the proceeding.
 - **(d)** The Copyright Royalty Judges shall conduct a proceeding with respect to the matter concerned, in accordance with such procedures as the Copyright Royalty Judges may adopt. The Copyright Royalty Judges shall act on the basis of a fully documented written record. Any party to the proceeding may submit relevant information and proposals to the Copyright Royalty Judges. The parties to the proceeding shall each bear their respective costs of participation.
 - **(e)** Any determination of the Copyright Royalty Judges under subsection (d) may be appealed, by a party to the proceeding, in accordance with section 803(d) of this title . The pendency of an appeal under this subsection shall not stay the determination of the Copyright Royalty Judges. If the court modifies the determination of the Copyright Royalty Judges, the court shall have jurisdiction to enter its own decision in accordance with its final judgment. The court may further vacate the determination of the Copyright Royalty Judges and remand the case for proceedings as provided in this section.
+
+Scope of Determination
+
+Initiation of Proceedings
+
+Stay of Judicial Proceedings
+
+Proceeding
+
+Judicial Review
+
+## Source Credit
+
+*(Added [Pub. L. 102–563, § 2](https://www.govinfo.gov/link/plaw/102/public/563), Oct. 28, 1992, [106 Stat. 4246](https://www.govinfo.gov/link/statute/106/4246); amended [Pub. L. 103–198, § 6(b)(5)](https://www.govinfo.gov/link/plaw/103/public/198), Dec. 17, 1993, [107 Stat. 2312](https://www.govinfo.gov/link/statute/107/2312); [Pub. L. 108–419, § 5(i)(4)(A)](https://www.govinfo.gov/link/plaw/108/public/419), Nov. 30, 2004, [118 Stat. 2368](https://www.govinfo.gov/link/statute/118/2368).)*

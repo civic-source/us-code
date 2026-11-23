@@ -3,9 +3,10 @@ title: "Section 9008 - Payments for presidential nominating conventions"
 usc_title: 26
 usc_section: "9008"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 9008"
-generated_at: "2026-03-30T02:55:27.889Z"
+generated_at: "2026-11-23T21:26:07.028Z"
+status: "active"
 ---
 
 # § 9008. Payments for presidential nominating conventions
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:27.889Z"
 - **(i)** Effective on the date of the enactment of the Gabriella Miller Kids First Research Act—
   - **(1)** the entitlement of any major party or minor party to a payment under this section shall terminate; and
   - **(2)** all amounts in each account maintained for the national committee of a major party or minor party under this section shall be transferred to a fund in the Treasury to be known as the “10-Year Pediatric Research Initiative Fund”, which shall be available only for the purpose provided in section 402A(a)(2) of the Public Health Service Act, and only to the extent and in such amounts as are provided in advance in appropriation Acts.
+
+## Source Credit
+
+*(Added [Pub. L. 92–178, title VIII, § 801](https://www.govinfo.gov/link/plaw/92/public/178), Dec. 10, 1971, [85 Stat. 569](https://www.govinfo.gov/link/statute/85/569); amended [Pub. L. 93–443, title IV, § 406(a)](https://www.govinfo.gov/link/plaw/93/public/443), Oct. 15, 1974, [88 Stat. 1294](https://www.govinfo.gov/link/statute/88/1294); [Pub. L. 94–283, title III](https://www.govinfo.gov/link/plaw/94/public/283), §§ 303, 307(a), May 11, 1976, [90 Stat. 498](https://www.govinfo.gov/link/statute/90/498), 501; [Pub. L. 96–187, title II, § 202](https://www.govinfo.gov/link/plaw/96/public/187), Jan. 8, 1980, [93 Stat. 1368](https://www.govinfo.gov/link/statute/93/1368); [Pub. L. 98–355, § 1(a)](https://www.govinfo.gov/link/plaw/98/public/355), (b), July 11, 1984, [98 Stat. 394](https://www.govinfo.gov/link/statute/98/394); [Pub. L. 113–94, § 2(a)](https://www.govinfo.gov/link/plaw/113/public/94), Apr. 3, 2014, [128 Stat. 1085](https://www.govinfo.gov/link/statute/128/1085).)*

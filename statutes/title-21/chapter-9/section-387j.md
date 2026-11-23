@@ -3,9 +3,10 @@ title: "Section 387j - Application for review of certain tobacco products"
 usc_title: 21
 usc_section: "387j"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 387j"
-generated_at: "2026-03-30T02:54:54.281Z"
+generated_at: "2026-11-23T21:25:56.186Z"
+status: "active"
 ---
 
 # § 387j. Application for review of certain tobacco products
@@ -82,3 +83,19 @@ generated_at: "2026-03-30T02:54:54.281Z"
   - **(1)** In the case of any tobacco product for which an order issued pursuant to subsection (c)(1)(A)(i) for an application filed under subsection (b) is in effect, the applicant shall establish and maintain such records, and make such reports to the Secretary, as the Secretary may by regulation, or by order with respect to such application, prescribe on the basis of a finding that such records and reports are necessary in order to enable the Secretary to determine, or facilitate a determination of, whether there is or may be grounds for withdrawing or temporarily suspending such order.
   - **(2)** Each person required under this section to maintain records, and each person in charge of custody thereof, shall, upon request of an officer or employee designated by the Secretary, permit such officer or employee at all reasonable times to have access to and copy and verify such records.
 - **(g)** The Secretary may exempt tobacco products intended for investigational use from the provisions of this subchapter under such conditions as the Secretary may by regulation prescribe.
+
+Transition period for all products
+
+Submission of applications.—
+
+In general
+
+Transition period
+
+Exception
+
+End of transition period
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 910, as added [Pub. L. 111–31, div. A, title I, § 101(b)(3)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1807](https://www.govinfo.gov/link/statute/123/1807).)*

@@ -3,9 +3,10 @@ title: "Section 9513 - Delegation"
 usc_title: 20
 usc_section: "9513"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9513"
-generated_at: "2026-03-30T02:54:48.226Z"
+generated_at: "2026-11-23T21:25:47.657Z"
+status: "active"
 ---
 
 # § 9513. Delegation
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:48.226Z"
 - **(b)** The Secretary may assign the Institute responsibility for administering other activities, if those activities are consistent with—
   - **(1)** the Institute’s priorities, as approved by the National Board for Education Sciences under section 9516 of this title , and the Institute’s mission, as described in section 9511(b) of this title ; or
   - **(2)** the Institute’s mission, but only if those activities do not divert the Institute from its priorities.
+
+## Source Credit
+
+*([Pub. L. 107–279, title I, § 113](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1945](https://www.govinfo.gov/link/statute/116/1945).)*

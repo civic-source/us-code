@@ -3,9 +3,10 @@ title: "Section 1097c - TRICARE program: relationship with employer-sponsored gr
 usc_title: 10
 usc_section: "1097c"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1097c"
-generated_at: "2026-03-30T02:53:38.108Z"
+generated_at: "2026-11-23T21:25:32.422Z"
+status: "active"
 ---
 
 # § 1097c. TRICARE program: relationship with employer-sponsored group health plans
@@ -27,3 +28,21 @@ generated_at: "2026-03-30T02:53:38.108Z"
   - **(2)** The term “group health plan” means a group health plan (as that term is defined in section 5000(b)(1) of the Internal Revenue Code of 1986 without regard to section 5000(d) of the Internal Revenue Code of 1986).
   - **(3)** The term “TRICARE-eligible employee” means a covered beneficiary under section 1086 of this title entitled to health care benefits under the TRICARE program.
 - **(g)** This section shall take effect on January 1, 2008 .
+
+Prohibition on Financial Incentives Not to Enroll in a Group Health Plan
+
+Election of TRICARE-Eligible Employees to Participate in Group Health Plan
+
+Inapplicability to Certain Employers
+
+Retention of Eligibility for Coverage Under TRICARE
+
+Outreach
+
+Definitions
+
+Effective Date
+
+## Source Credit
+
+*(Added [Pub. L. 109–364, div. A, title VII, § 707(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2283](https://www.govinfo.gov/link/statute/120/2283).)*

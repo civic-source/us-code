@@ -3,12 +3,17 @@ title: "Section 323 - Racial discrimination by colleges restricted"
 usc_title: 7
 usc_section: "323"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 323"
-generated_at: "2026-03-30T02:53:42.280Z"
+generated_at: "2026-11-23T21:25:27.944Z"
+status: "active"
 ---
 
 # § 323. Racial discrimination by colleges restricted
 
 No money shall be paid out under this subchapter to any State or Territory for the support or maintenance of a college where a distinction of race or color is made in the admission of students, but the establishment and maintenance of such colleges separately for white and colored students shall be held to be a compliance with the provisions of said sections if the funds received in such State or Territory be equitably divided as hereinafter set forth: Provided , That in any State in which there has been one college established in pursuance of subchapter I of this chapter, and also in which an educational institution of like character has been established, or may be hereafter established, and is on August 30, 1890 , aided by such State from its own revenue, for the education of colored students in agriculture and the mechanic arts, however named or styled, or whether or not it has received money prior to August 30, 1890 , under said subchapter I, the legislature of such State may propose and report to the Secretary of Agriculture a just and equitable division of the fund to be received under this subchapter between one college for white students and one institution for colored students established as aforesaid, which shall be divided into two parts and paid accordingly, and thereupon such institution for colored students shall be entitled to the benefits of said sections and subject to their provisions, as much as it would have been if it had been included under subchapter I of this chapter, and the fulfillment of the foregoing provisions shall be taken as a compliance with the provision in reference to separate colleges for white and colored students.
 
+
+## Source Credit
+
+*(Aug. 30, 1890, ch. 841, § 1, [26 Stat. 417](https://www.govinfo.gov/link/statute/26/417); 1939 Reorg. Plan No. 1, §§ 201, 204, eff. July 1, 1939, 4 F.R. 2728, [53 Stat. 1424](https://www.govinfo.gov/link/statute/53/1424); 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631](https://www.govinfo.gov/link/statute/67/631); [Pub. L. 96–88, title III, § 301(a)(2)(E)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 677](https://www.govinfo.gov/link/statute/93/677); [Pub. L. 97–98, title XIV, § 1419](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1306](https://www.govinfo.gov/link/statute/95/1306).)*

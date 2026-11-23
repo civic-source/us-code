@@ -3,9 +3,10 @@ title: "Section 3052 - Limitation on establishment or operation of diplomatic in
 usc_title: 50
 usc_section: "3052"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3052"
-generated_at: "2026-03-30T02:56:26.232Z"
+generated_at: "2026-11-23T21:26:39.003Z"
+status: "active"
 ---
 
 # § 3052. Limitation on establishment or operation of diplomatic intelligence support centers
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:26.232Z"
     - **(B)** is not intelligence support traditionally provided to a chief of mission by the Director of National Intelligence.
   - **(2)** The term “chief of mission” has the meaning given that term by section 3902(3) of title 22 , and includes ambassadors at large and ministers of diplomatic missions of the United States, or persons appointed to lead United States offices abroad designated by the Secretary of State as diplomatic in nature.
 - **(d)** This section shall cease to be effective on October 1, 2000 .
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title I, § 115, as added [Pub. L. 106–120, title III, § 303(a)](https://www.govinfo.gov/link/plaw/106/public/120), Dec. 3, 1999, [113 Stat. 1610](https://www.govinfo.gov/link/statute/113/1610); amended [Pub. L. 108–458, title I, § 1071(a)(1)(P)](https://www.govinfo.gov/link/plaw/108/public/458) –(R), Dec. 17, 2004, [118 Stat. 3689](https://www.govinfo.gov/link/statute/118/3689).)*

@@ -3,9 +3,10 @@ title: "Section 21021 - Payments to States and units of local government to assu
 usc_title: 52
 usc_section: "21021"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 21021"
-generated_at: "2026-03-30T02:56:30.167Z"
+generated_at: "2026-11-23T21:26:42.335Z"
+status: "active"
 ---
 
 # § 21021. Payments to States and units of local government to assure access for individuals with disabilities
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:30.167Z"
   - **(1)** making polling places, including the path of travel, entrances, exits, and voting areas of each polling facility, accessible to individuals with disabilities, including the blind and visually impaired, in a manner that provides the same opportunity for access and participation (including privacy and independence) as for other voters; and
   - **(2)** providing individuals with disabilities and the other individuals described in paragraph (1) with information about the accessibility of polling places, including outreach programs to inform the individuals about the availability of accessible polling places and training election officials, poll workers, and election volunteers on how best to promote the access and participation of individuals with disabilities in elections for Federal office.
 - **(c)** As soon as practicable after October 29, 2002 (but in no event later than 6 months thereafter), and not less frequently than once each calendar year thereafter, the Secretary shall make payments under this subpart.
+
+## Source Credit
+
+*([Pub. L. 107–252, title II, § 261](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1698](https://www.govinfo.gov/link/statute/116/1698).)*

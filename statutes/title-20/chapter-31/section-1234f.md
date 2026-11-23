@@ -3,9 +3,10 @@ title: "Section 1234f - Compliance agreements"
 usc_title: 20
 usc_section: "1234f"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1234f"
-generated_at: "2026-03-30T02:54:48.158Z"
+generated_at: "2026-11-23T21:25:47.309Z"
+status: "active"
 ---
 
 # § 1234f. Compliance agreements
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:48.158Z"
   - **(1)** an expiration date not later than 3 years from the date of the written findings under subsection (b)(2), by which the recipient shall be in full compliance with the applicable requirements of law, and
   - **(2)** those terms and conditions with which the recipient must comply until it is in full compliance.
 - **(d)** If a recipient fails to comply with the terms and conditions of a compliance agreement under this section, the Secretary may consider that compliance agreement to be no longer in effect, and the Secretary may take any action authorized by law with respect to the recipient.
+
+## Source Credit
+
+*([Pub. L. 90–247, title IV, § 457](https://www.govinfo.gov/link/plaw/90/public/247), as added [Pub. L. 100–297, title III, § 3501(a)](https://www.govinfo.gov/link/plaw/100/public/297), Apr. 28, 1988, [102 Stat. 355](https://www.govinfo.gov/link/statute/102/355).)*

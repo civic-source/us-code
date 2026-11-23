@@ -3,9 +3,10 @@ title: "Section 10708 - Supporting cybersecurity and cyber resilience in the Wes
 usc_title: 22
 usc_section: "10708"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10708"
-generated_at: "2026-03-30T02:55:05.480Z"
+generated_at: "2026-11-23T21:25:58.803Z"
+status: "active"
 ---
 
 # § 10708. Supporting cybersecurity and cyber resilience in the Western Balkans
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:05.480Z"
     - **(A)** options for the United States to better support cybersecurity and cyber resilience in Western Balkans countries through changes to current assistance authorities; and
     - **(B)** the advantages or limitations, such as funding or office space, of posting cyber professionals from other Federal departments and agencies to United States diplomatic posts in Western Balkans countries and providing relevant training to Foreign Service Officers; and
   - **(6)** any additional support needed from the United States for the cybersecurity and cyber resilience of the following NATO Allies: Albania, Montenegro, and North Macedonia.
+
+## Source Credit
+
+*([Pub. L. 119–60, div. H, title LXXXIII, § 8339](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1876](https://www.govinfo.gov/link/statute/139/1876).)*

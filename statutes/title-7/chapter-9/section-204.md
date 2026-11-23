@@ -3,12 +3,17 @@ title: "Section 204 - Bond and suspension of registrants"
 usc_title: 7
 usc_section: "204"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 204"
-generated_at: "2026-03-30T02:53:42.277Z"
+generated_at: "2026-11-23T21:25:27.930Z"
+status: "active"
 ---
 
 # § 204. Bond and suspension of registrants
 
 On and after July 12, 1943 , the Secretary may require reasonable bonds from every market agency (as defined in this subchapter), every packer (as defined in subchapter II of this chapter) in connection with its livestock purchasing operations (except that those packers whose average annual purchases do not exceed $500,000 will be exempt from the provisions of this paragraph), and every other person operating as a dealer (as defined in this subchapter) under such rules and regulations as he may prescribe, to secure the performance of their obligations, and whenever, after due notice and hearing, the Secretary finds any registrant is insolvent or has violated any provisions of this chapter he may issue an order suspending such registrant for a reasonable specified period. Such order of suspension shall take effect within not less than five days, unless suspended or modified or set aside by the Secretary or a court of competent jurisdiction. If the Secretary finds any packer is insolvent, he may after notice and hearing issue an order under the provisions of section 193 of this title requiring such packer to cease and desist from purchasing livestock while insolvent, or while insolvent purchasing livestock except under such conditions as the Secretary may prescribe to effectuate the purposes of this chapter.
 
+
+## Source Credit
+
+*(July 12, 1943, ch. 215, [57 Stat. 422](https://www.govinfo.gov/link/statute/57/422); [Pub. L. 94–410](https://www.govinfo.gov/link/plaw/94/public/410), §§ 1, 4, Sept. 13, 1976, [90 Stat. 1249](https://www.govinfo.gov/link/statute/90/1249).)*

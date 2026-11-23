@@ -3,9 +3,10 @@ title: "Section 3994 - Eligible programs"
 usc_title: 20
 usc_section: "3994"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 3994"
-generated_at: "2026-03-30T02:54:48.181Z"
+generated_at: "2026-11-23T21:25:47.428Z"
+status: "active"
 ---
 
 # § 3994. Eligible programs
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:48.181Z"
     - **(B)** A local educational agency that receives funds from a grant under this part for an advanced placement program described in subparagraph (A) shall allocate to such program a percentage of funds received from the State on a per student basis according to—
       - **(i)** the number of students participating in the program; and
       - **(ii)** the instruction time such students receive under the program.
+
+## Source Credit
+
+*([Pub. L. 98–377, title III, § 324](https://www.govinfo.gov/link/plaw/98/public/377), as added [Pub. L. 100–418, title VI, § 6031(a)(2)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1480](https://www.govinfo.gov/link/statute/102/1480).)*

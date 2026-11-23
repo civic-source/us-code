@@ -3,9 +3,10 @@ title: "Section 53104 - Effectiveness of operating agreements"
 usc_title: 46
 usc_section: "53104"
 chapter: 531
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 53104"
-generated_at: "2026-03-30T02:56:15.572Z"
+generated_at: "2026-11-23T21:26:37.249Z"
+status: "active"
 ---
 
 # § 53104. Effectiveness of operating agreements
@@ -23,3 +24,21 @@ generated_at: "2026-03-30T02:56:15.572Z"
   - **(1)** each vessel covered by the operating agreement is thereby released from any further obligation under the operating agreement;
   - **(2)** the owner or operator of the vessel may transfer and register such vessel under a foreign registry that is acceptable to the Secretary of Transportation and the Secretary of Defense, notwithstanding section 56101 of this title ; and
   - **(3)** if chapter 563 of this title is applicable to such vessel after registration of the vessel under such a registry, then the vessel is available to be requisitioned by the Secretary of Transportation pursuant to chapter 563.
+
+Effectiveness, Generally
+
+Vessels Under Charter to United States
+
+Termination
+
+Termination by secretary
+
+Early termination by contractor, generally
+
+Nonrenewal for Lack of Funds
+
+Release of Vessels From Obligations
+
+## Source Credit
+
+*(Added [Pub. L. 108–136, div. C, title XXXV, § 3531(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1810](https://www.govinfo.gov/link/statute/117/1810); amended [Pub. L. 109–304, § 13(a)(3)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1701](https://www.govinfo.gov/link/statute/120/1701); [Pub. L. 111–383, div. C, title XXXV, § 3502(1)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4518](https://www.govinfo.gov/link/statute/124/4518); [Pub. L. 112–239, div. C, title XXXV, § 3508(d)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2224](https://www.govinfo.gov/link/statute/126/2224); [Pub. L. 116–92, div. C, title XXXV, § 3502(b)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1969](https://www.govinfo.gov/link/statute/133/1969); [Pub. L. 118–159, div. C, title XXXV, § 3502(b)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2304](https://www.govinfo.gov/link/statute/138/2304).)*

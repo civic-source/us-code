@@ -3,9 +3,10 @@ title: "Section 78iii - Functions of self-regulatory organizations"
 usc_title: 15
 usc_section: "78iii"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 78iii"
-generated_at: "2026-03-30T02:54:08.063Z"
+generated_at: "2026-11-23T21:25:39.579Z"
+status: "active"
 ---
 
 # § 78iii. Functions of self-regulatory organizations
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.063Z"
   - **(2)** that, as nearly as may be practicable, examinations to ascertain whether members of SIPC are in compliance with applicable financial responsibility rules will be conducted by the self-regulatory organizations under appropriate standards (both as to method and scope) and reports of such examinations will, where appropriate, be standard in form; and
   - **(3)** that, as frequently as may be practicable under the circumstances, each member of SIPC will file financial information with, and be examined by, the self-regulatory organization which is the examining authority for such member.
 - **(f)** The Commission may, by such rules as it determines necessary or appropriate in the public interest and to carry out the purposes of this chapter, require any self-regulatory organization to furnish SIPC with reports and records (or copies thereof) relating to the financial condition of members of or participants in such self-regulatory organization.
+
+## Source Credit
+
+*([Pub. L. 91–598, § 13](https://www.govinfo.gov/link/plaw/91/public/598), formerly § 9, Dec. 30, 1970, [84 Stat. 1654](https://www.govinfo.gov/link/statute/84/1654); amended [Pub. L. 94–29, § 26](https://www.govinfo.gov/link/plaw/94/public/29), June 4, 1975, [89 Stat. 163](https://www.govinfo.gov/link/statute/89/163); renumbered § 13 and amended [Pub. L. 95–283](https://www.govinfo.gov/link/plaw/95/public/283), §§ 9, 12, May 21, 1978, [92 Stat. 260](https://www.govinfo.gov/link/statute/92/260), 269.)*

@@ -3,9 +3,10 @@ title: "Section 2081 - Authorization of appropriations"
 usc_title: 15
 usc_section: "2081"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2081"
-generated_at: "2026-03-30T02:54:08.166Z"
+generated_at: "2026-11-23T21:25:39.912Z"
+status: "active"
 ---
 
 # § 2081. Authorization of appropriations
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.166Z"
     - **(A)** seeking official action from, doing business with, or conducting activities regulated by, the Commission; or
     - **(B)** whose interests may be substantially affected by the performance or nonperformance of the Commissioner’s or employee’s official duties.
 - **(b)** No funds appropriated under subsection (a) may be used to pay any claim described in section 2053(i) of this title whether pursuant to a judgment of a court or under any award, compromise, or settlement of such claim made under section 2672 of title 28 , or under any other provision of law.
+
+## Source Credit
+
+*([Pub. L. 92–573, § 32](https://www.govinfo.gov/link/plaw/92/public/573), Oct. 27, 1972, [86 Stat. 1233](https://www.govinfo.gov/link/statute/86/1233); [Pub. L. 94–284](https://www.govinfo.gov/link/plaw/94/public/284), §§ 2, 5(b), May 11, 1976, [90 Stat. 503](https://www.govinfo.gov/link/statute/90/503), 505; [Pub. L. 95–631, § 1](https://www.govinfo.gov/link/plaw/95/public/631), Nov. 10, 1978, [92 Stat. 3742](https://www.govinfo.gov/link/statute/92/3742); [Pub. L. 97–35, title XII, § 1214](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 724](https://www.govinfo.gov/link/statute/95/724); [Pub. L. 101–608, title I, § 117](https://www.govinfo.gov/link/plaw/101/public/608), Nov. 16, 1990, [104 Stat. 3121](https://www.govinfo.gov/link/statute/104/3121); [Pub. L. 103–437, § 5(c)(1)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4582](https://www.govinfo.gov/link/statute/108/4582); [Pub. L. 110–314, title II](https://www.govinfo.gov/link/plaw/110/public/314), §§ 201(a), (c), 235(c)(4), Aug. 14, 2008, [122 Stat. 3038](https://www.govinfo.gov/link/statute/122/3038), 3039, 3075.)*

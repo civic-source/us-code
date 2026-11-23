@@ -3,9 +3,10 @@ title: "Section 6644 - Subgrants to eligible entities in support of kindergarten
 usc_title: 20
 usc_section: "6644"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6644"
-generated_at: "2026-03-30T02:54:48.202Z"
+generated_at: "2026-11-23T21:25:47.529Z"
+status: "active"
 ---
 
 # § 6644. Subgrants to eligible entities in support of kindergarten through grade 12 literacy
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:54:48.202Z"
   - **(4)** Providing for a multi-tier system of supports for literacy services.
   - **(5)** Forming a school literacy leadership team to help implement, assess, and identify necessary changes to the literacy initiatives in 1 or more schools to ensure success.
   - **(6)** Providing time for teachers (and other literacy staff, as appropriate, such as school librarians or specialized instructional support personnel) to meet to plan comprehensive literacy instruction.
+
+## Source Credit
+
+*([Pub. L. 89–10, title II, § 2224](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title II, § 2002](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1941](https://www.govinfo.gov/link/statute/129/1941).)*

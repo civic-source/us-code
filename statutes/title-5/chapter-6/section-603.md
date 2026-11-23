@@ -3,9 +3,10 @@ title: "Section 603 - Initial regulatory flexibility analysis"
 usc_title: 5
 usc_section: "603"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 603"
-generated_at: "2026-03-30T02:52:55.990Z"
+generated_at: "2026-11-23T21:25:23.081Z"
+status: "active"
 ---
 
 # § 603. Initial regulatory flexibility analysis
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:52:55.990Z"
   - **(2)** A covered agency, as defined in section 609(d)(2), shall, for purposes of complying with paragraph (1)(C)—
     - **(A)** identify representatives of small entities in consultation with the Chief Counsel for Advocacy of the Small Business Administration; and
     - **(B)** collect advice and recommendations from the representatives identified under subparagraph (A) relating to issues described in subparagraphs (A) and (B) of paragraph (1) and subsection (b).
+
+## Source Credit
+
+*(Added [Pub. L. 96–354, § 3(a)](https://www.govinfo.gov/link/plaw/96/public/354), Sept. 19, 1980, [94 Stat. 1166](https://www.govinfo.gov/link/statute/94/1166); amended [Pub. L. 104–121, title II, § 241(a)(1)](https://www.govinfo.gov/link/plaw/104/public/121), Mar. 29, 1996, [110 Stat. 864](https://www.govinfo.gov/link/statute/110/864); [Pub. L. 111–203, title X, § 1100G(b)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2112](https://www.govinfo.gov/link/statute/124/2112).)*

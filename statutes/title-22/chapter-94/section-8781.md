@@ -3,9 +3,10 @@ title: "Section 8781 - Implementation; penalties"
 usc_title: 22
 usc_section: "8781"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8781"
-generated_at: "2026-03-30T02:55:05.457Z"
+generated_at: "2026-11-23T21:25:58.754Z"
+status: "active"
 ---
 
 # § 8781. Implementation; penalties
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.457Z"
   - **(2)** The provisions specified in this paragraph are the following:
     - **(A)** Sections 8721, 8722, 8723, and 8726 of this title, subchapter III, and subchapter VII.
     - **(B)** Sections 8514a and 8514b of this title, as added by subtitle A of title IV.
+
+## Source Credit
+
+*([Pub. L. 112–158, title VI, § 601](https://www.govinfo.gov/link/plaw/112/public/158), Aug. 10, 2012, [126 Stat. 1263](https://www.govinfo.gov/link/statute/126/1263).)*

@@ -3,9 +3,10 @@ title: "Section 1831aa - Enforcement of agreements"
 usc_title: 12
 usc_section: "1831aa"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1831aa"
-generated_at: "2026-03-30T02:53:53.463Z"
+generated_at: "2026-11-23T21:25:37.033Z"
+status: "active"
 ---
 
 # § 1831aa. Enforcement of agreements
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:53.463Z"
   - **(1)** any condition imposed in writing by the agency on the depository institution or an institution-affiliated party in connection with any action on any application, notice, or other request concerning the depository institution; or
   - **(2)** any written agreement entered into between the agency and the depository institution or an institution-affiliated party.
 - **(b)** After the appointment of the Corporation as the receiver or conservator for a depository institution, the Corporation may enforce any condition or agreement described in paragraph (1) or (2) of subsection (a) imposed on or entered into with such institution or institution-affiliated party through an action brought in an appropriate United States district court.
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [50], as added [Pub. L. 109–351, title VII, § 702(a)](https://www.govinfo.gov/link/plaw/109/public/351), Oct. 13, 2006, [120 Stat. 1985](https://www.govinfo.gov/link/statute/120/1985).)*

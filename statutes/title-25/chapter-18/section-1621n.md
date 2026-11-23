@@ -3,9 +3,10 @@ title: "Section 1621n - Comprehensive school health education programs"
 usc_title: 25
 usc_section: "1621n"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1621n"
-generated_at: "2026-03-30T02:54:52.821Z"
+generated_at: "2026-11-23T21:25:54.620Z"
+status: "active"
 ---
 
 # § 1621n. Comprehensive school health education programs
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:54:52.821Z"
     - **(B)** ensure the integration and coordination of school-based programs with existing services and health programs available in the community; and
     - **(C)** encourage healthy, tobacco-free school environments.
 - **(g)** There are authorized to be appropriated to carry out this section $15,000,000 for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
+
+## Source Credit
+
+*([Pub. L. 94–437, title II, § 215](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 102–573, title II, § 211](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4553](https://www.govinfo.gov/link/statute/106/4553).)*

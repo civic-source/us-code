@@ -3,9 +3,10 @@ title: "Section 1301 - Establishment of Board"
 usc_title: 49
 usc_section: "1301"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 1301"
-generated_at: "2026-03-30T02:56:19.305Z"
+generated_at: "2026-11-23T21:26:40.612Z"
+status: "active"
 ---
 
 # § 1301. Establishment of Board
@@ -28,3 +29,41 @@ generated_at: "2026-03-30T02:56:19.305Z"
     - **(C)** distribute Board business among officers and employees and offices of the Board;
     - **(D)** prepare requests for appropriations for the Board and submit those requests to the President and Congress with the prior approval of the Board; and
     - **(E)** supervise the expenditure of funds allocated by the Board for major programs and purposes.
+
+Establishment
+
+Membership
+
+Chairman
+
+Legal Documents
+
+Proceedings
+
+Suits
+
+Continuance of Actions Against Officers
+
+Exercise of Authorities
+
+To Board
+
+To Secretary
+
+Separated Employees
+
+“The Surface Transportation Board shall—
+
+In General
+
+Implementation.—
+
+In general
+
+Report
+
+Plan implementation
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title II, § 201(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 932](https://www.govinfo.gov/link/statute/109/932), § 701; amended [Pub. L. 104–287, § 5(5)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3389](https://www.govinfo.gov/link/statute/110/3389); renumbered § 1301 and amended [Pub. L. 114–110](https://www.govinfo.gov/link/plaw/114/public/110), §§ 3(a)(3), (b), 4, Dec. 18, 2015, [129 Stat. 2228](https://www.govinfo.gov/link/statute/129/2228), 2229.)*

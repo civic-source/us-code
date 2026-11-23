@@ -3,9 +3,10 @@ title: "Section 3202 - Enforcement of judgments"
 usc_title: 28
 usc_section: "3202"
 chapter: 176
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 3202"
-generated_at: "2026-03-30T02:55:30.153Z"
+generated_at: "2026-11-23T21:26:01.143Z"
+status: "active"
 ---
 
 # § 3202. Enforcement of judgments
@@ -23,3 +24,19 @@ generated_at: "2026-03-30T02:55:30.153Z"
     - **(B)** the existence of good cause for setting aside such judgment. This subparagraph shall not be construed to afford the judgment debtor the right to more than one such hearing except to the extent that the Constitution or another law of the United States provides a right to more than one such hearing.
 - **(e)** Sale of Property .—The property of a judgment debtor which is subject to sale to satisfy the judgment may be sold by judicial sale, pursuant to sections 2001, 2002, and 2004 or by execution sale pursuant to section 3203(g). If a hearing is requested pursuant to subsection (d), property with respect to which the request relates shall not be sold before such hearing.
 
+
+Enforcement Remedies
+
+Notice
+
+“Notice
+
+Service
+
+Hearing
+
+Sale of Property
+
+## Source Credit
+
+*(Added [Pub. L. 101–647, title XXXVI, § 3611](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4949](https://www.govinfo.gov/link/statute/104/4949).)*

@@ -3,9 +3,10 @@ title: "Section 1440 - Naturalization through active-duty service in the Armed F
 usc_title: 8
 usc_section: "1440"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1440"
-generated_at: "2026-03-30T02:53:10.501Z"
+generated_at: "2026-11-23T21:25:25.194Z"
+status: "active"
 ---
 
 # § 1440. Naturalization through active-duty service in the Armed Forces during World War I, World War II, Korean hostilities, Vietnam hostilities, or other periods of military hostilities
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:53:10.501Z"
   - **(3)** service in the military, air or naval forces of the United States shall be proved by a duly authenticated certification from the executive department under which the applicant served or is serving, which shall state whether the applicant served honorably in an active-duty status during either World War I or during a period beginning September 1, 1939 , and ending December 31, 1946 , or during a period beginning June 25, 1950 , and ending July 1, 1955 , or during a period beginning February 28, 1961 , and ending on a date designated by the President by Executive order as the date of termination of the Vietnam hostilities, or thereafter during any other period which the President by Executive order shall designate as a period in which Armed Forces of the United States are or were engaged in military operations involving armed conflict with a hostile foreign force, and was separated from such service under honorable conditions; and
   - **(4)** notwithstanding any other provision of law, no fee shall be charged or collected from the applicant for filing a petition for naturalization or for the issuance of a certificate of naturalization upon citizenship being granted to the applicant, and no clerk of any State court shall charge or collect any fee for such services unless the laws of the State require such charge to be made, in which case nothing more than the portion of the fee required to be paid to the State shall be charged or collected.
 - **(c)** Citizenship granted pursuant to this section may be revoked in accordance with section 1451 of this title if the person is separated from the Armed Forces under other than honorable conditions before the person has served honorably for a period or periods aggregating five years. Such ground for revocation shall be in addition to any other provided by law, including the grounds described in section 1451 of this title . The fact that the naturalized person was separated from the service under other than honorable conditions shall be proved by a duly authenticated certification from the executive department under which the person was serving at the time of separation. Any period or periods of service shall be proved by duly authenticated copies of the records of the executive departments having custody of the records of such service.
+
+Jimmy Carter.
+
+William J. Clinton.
+
+George W. Bush.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title III, ch. 2, § 329, [66 Stat. 250](https://www.govinfo.gov/link/statute/66/250); [Pub. L. 87–301, § 8](https://www.govinfo.gov/link/plaw/87/public/301), Sept. 26, 1961, [75 Stat. 654](https://www.govinfo.gov/link/statute/75/654); [Pub. L. 90–633](https://www.govinfo.gov/link/plaw/90/public/633), §§ 1, 2, 6, Oct. 24, 1968, [82 Stat. 1343](https://www.govinfo.gov/link/statute/82/1343), 1344; [Pub. L. 97–116, § 15(a)](https://www.govinfo.gov/link/plaw/97/public/116), Dec. 29, 1981, [95 Stat. 1619](https://www.govinfo.gov/link/statute/95/1619); [Pub. L. 100–525, § 9(y)](https://www.govinfo.gov/link/plaw/100/public/525), Oct. 24, 1988, [102 Stat. 2621](https://www.govinfo.gov/link/statute/102/2621); [Pub. L. 101–649, title IV, § 407(b)(5)](https://www.govinfo.gov/link/plaw/101/public/649), (c)(11), Nov. 29, 1990, [104 Stat. 5040](https://www.govinfo.gov/link/statute/104/5040), 5041; [Pub. L. 102–232, title III, § 305(b)](https://www.govinfo.gov/link/plaw/102/public/232), Dec. 12, 1991, [105 Stat. 1749](https://www.govinfo.gov/link/statute/105/1749); [Pub. L. 105–85, div. A, title X, § 1080(a)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1916](https://www.govinfo.gov/link/statute/111/1916); [Pub. L. 108–136, div. A, title XVII](https://www.govinfo.gov/link/plaw/108/public/136), §§ 1701(b)(2), (c)(1)(B), 1702, Nov. 24, 2003, [117 Stat. 1691–1693](https://www.govinfo.gov/link/statute/117/1691).)*

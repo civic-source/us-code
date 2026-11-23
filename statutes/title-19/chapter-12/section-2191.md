@@ -3,9 +3,10 @@ title: "Section 2191 - Bills implementing trade agreements on nontariff barriers
 usc_title: 19
 usc_section: "2191"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2191"
-generated_at: "2026-03-30T02:54:24.666Z"
+generated_at: "2026-11-23T21:25:42.776Z"
+status: "active"
 ---
 
 # § 2191. Bills implementing trade agreements on nontariff barriers and resolutions approving commercial agreements with Communist countries
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:24.666Z"
   - **(2)** Debate in the Senate on an implementing bill or approval resolution, and all debatable motions and appeals in connection therewith, shall be limited to not more than 20 hours. The time shall be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
   - **(3)** Debate in the Senate on any debatable motion or appeal in connection with an implementing bill or approval resolution shall be limited to not more than 1 hour, to be equally divided between, and controlled by, the mover and the manager of the bill or resolution, except that in the event the manager of the bill or resolution is in favor of any such motion or appeal, the time in opposition thereto, shall be controlled by the minority leader or his designee. Such leaders, or either of them, may, from time under their control on the passage of an implementing bill or approval resolution, allot additional time to any Senator during the consideration of any debatable motion or appeal.
   - **(4)** A motion in the Senate to further limit debate is not debatable. A motion to recommit an implementing bill or approval resolution is not in order.
+
+## Source Credit
+
+*([Pub. L. 93–618, title I, § 151](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 2001](https://www.govinfo.gov/link/statute/88/2001); [Pub. L. 100–418, title I, § 1107(b)(1)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1135](https://www.govinfo.gov/link/statute/102/1135); [Pub. L. 101–382, title I, § 132(b)(2)](https://www.govinfo.gov/link/plaw/101/public/382), Aug. 20, 1990, [104 Stat. 645](https://www.govinfo.gov/link/statute/104/645); [Pub. L. 103–465, title II, § 282(c)(4)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4929](https://www.govinfo.gov/link/statute/108/4929); [Pub. L. 107–210, div. B, title XXI, § 2110(a)(1)](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 1019](https://www.govinfo.gov/link/statute/116/1019); [Pub. L. 114–26, title I, § 110(a)(6)](https://www.govinfo.gov/link/plaw/114/public/26), June 29, 2015, [129 Stat. 358](https://www.govinfo.gov/link/statute/129/358).)*

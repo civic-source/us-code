@@ -3,9 +3,10 @@ title: "Section 4022 - Voluntary withdrawal from trust funds program"
 usc_title: 25
 usc_section: "4022"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4022"
-generated_at: "2026-03-30T02:54:52.857Z"
+generated_at: "2026-11-23T21:25:54.701Z"
+status: "active"
 ---
 
 # § 4022. Voluntary withdrawal from trust funds program
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:52.857Z"
     - **(A)** The capability and experience of the individuals or institutions that will be managing the trust funds.
     - **(B)** The protection against substantial loss of principal.
 - **(c)** Beginning on the date funds are withdrawn pursuant to this section, any trust responsibility or liability of the United States with respect to such funds shall cease except as provided for in section 4027 of this title .
+
+## Source Credit
+
+*([Pub. L. 103–412, title II, § 202](https://www.govinfo.gov/link/plaw/103/public/412), Oct. 25, 1994, [108 Stat. 4242](https://www.govinfo.gov/link/statute/108/4242).)*

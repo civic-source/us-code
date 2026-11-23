@@ -3,9 +3,10 @@ title: "Section 9624 - Methane recovery"
 usc_title: 42
 usc_section: "9624"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9624"
-generated_at: "2026-03-30T02:56:11.361Z"
+generated_at: "2026-11-23T21:26:33.265Z"
+status: "active"
 ---
 
 # § 9624. Methane recovery
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.361Z"
 - **(b)** Subsection (a) does not apply with respect to a release or threatened release of a hazardous substance from a facility described in subsection (a) if either of the following circumstances exist:
   - **(1)** The release or threatened release was primarily caused by activities of the owner or operator of the equipment described in subsection (a).
   - **(2)** The owner or operator of such equipment would be covered by paragraph (1), (2), (3), or (4) of subsection (a) of section 9607 of this title with respect to such release or threatened release if he were not the owner or operator of such equipment.
+
+## Source Credit
+
+*([Pub. L. 96–510, title I, § 124](https://www.govinfo.gov/link/plaw/96/public/510), as added [Pub. L. 99–499, title I, § 124(a)](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1688](https://www.govinfo.gov/link/statute/100/1688).)*

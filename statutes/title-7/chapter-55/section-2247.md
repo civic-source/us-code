@@ -3,12 +3,17 @@ title: "Section 2247 - Sale of samples of pure sugars"
 usc_title: 7
 usc_section: "2247"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2247"
-generated_at: "2026-03-30T02:53:42.382Z"
+generated_at: "2026-11-23T21:25:28.287Z"
+status: "active"
 ---
 
 # § 2247. Sale of samples of pure sugars
 
 The Secretary of Agriculture may furnish, upon application, samples of pure sugars, naval stores, microscopical specimens, and other products to State and municipal officers, educational institutions, and other parties and charge for the same a price to cover the cost thereof, such price to be determined and established by the Secretary, and the money received from sales to be deposited in the Treasury of the United States as miscellaneous receipts.
 
+
+## Source Credit
+
+*(Mar. 4, 1915, ch. 144, [38 Stat. 1101](https://www.govinfo.gov/link/statute/38/1101).)*

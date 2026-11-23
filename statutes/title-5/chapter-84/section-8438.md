@@ -3,9 +3,10 @@ title: "Section 8438 - Investment of Thrift Savings Fund"
 usc_title: 5
 usc_section: "8438"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8438"
-generated_at: "2026-03-30T02:52:56.058Z"
+generated_at: "2026-11-23T21:25:23.425Z"
+status: "active"
 ---
 
 # § 8438. Investment of Thrift Savings Fund
@@ -88,3 +89,9 @@ generated_at: "2026-03-30T02:52:56.058Z"
 - **(h)**
   - **(1)** The Secretary of the Treasury shall report to Congress on the operation and status of the Thrift Savings Fund during each debt issuance suspension period for which the Secretary is required to take action under paragraph (3) or (4) of subsection (g) of this section. The report shall be submitted as soon as possible after the expiration of such period, but not later than 30 days after the first business day after the expiration of such period. The Secretary shall concurrently transmit a copy of such report to the Executive Director.
   - **(2)** Whenever the Secretary of the Treasury determines that, by reason of the public debt limit, the Secretary will be unable to fully comply with the requirements of subsection (e) of this section, the Secretary shall immediately notify Congress and the Executive Director of the determination. The notification shall be made in writing.
+
+“The amendments made by subsections (a) and (b) [amending this section and section 8439 of this title ] shall—
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 551](https://www.govinfo.gov/link/statute/100/551); amended [Pub. L. 100–43, § 2](https://www.govinfo.gov/link/plaw/100/public/43), May 22, 1987, [101 Stat. 315](https://www.govinfo.gov/link/statute/101/315); [Pub. L. 100–366, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/366), July 13, 1988, [102 Stat. 826](https://www.govinfo.gov/link/statute/102/826); [Pub. L. 101–335, § 3(a)](https://www.govinfo.gov/link/plaw/101/public/335), July 17, 1990, [104 Stat. 320](https://www.govinfo.gov/link/statute/104/320); [Pub. L. 102–378, § 2(68)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1355](https://www.govinfo.gov/link/statute/106/1355); [Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title I, § 102]](https://www.govinfo.gov/link/plaw/104/public/208) ], Sept. 30, 1996, [110 Stat. 3009–314](https://www.govinfo.gov/link/statute/110/3009), 3009–372; [Pub. L. 104–316, title I, § 103(i)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3829](https://www.govinfo.gov/link/statute/110/3829); [Pub. L. 111–31, div. B, title I, § 104](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1854](https://www.govinfo.gov/link/statute/123/1854); [Pub. L. 113–255, § 2(a)](https://www.govinfo.gov/link/plaw/113/public/255), Dec. 18, 2014, [128 Stat. 2920](https://www.govinfo.gov/link/statute/128/2920); [Pub. L. 114–92, div. A, title VI, § 632(d)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 847](https://www.govinfo.gov/link/statute/129/847).)*

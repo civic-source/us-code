@@ -3,12 +3,17 @@ title: "Section 3609 - Void lease or contract provisions"
 usc_title: 15
 usc_section: "3609"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3609"
-generated_at: "2026-03-30T02:54:08.191Z"
+generated_at: "2026-11-23T21:25:39.972Z"
+status: "active"
 ---
 
 # § 3609. Void lease or contract provisions
 
 Any provision in any lease or contract requiring unit owners or the owners’ association, in any conversion project involving a contract meeting the requirements of section 3607 of this title of in any project involving a lease meeting the requirements of section 3608 of this title , to reimburse, regardless of outcome, the developer, his successor, or affiliate of the developer for attorneys’ fees or money judgments, in a suit between unit owners or the owners’ association and the developer arising under the lease or agreement, is against public policy and void.
 
+
+## Source Credit
+
+*([Pub. L. 96–399, title VI, § 610](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1678](https://www.govinfo.gov/link/statute/94/1678).)*

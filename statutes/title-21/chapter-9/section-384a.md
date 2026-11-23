@@ -3,9 +3,10 @@ title: "Section 384a - Foreign supplier verification program"
 usc_title: 21
 usc_section: "384a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 384a"
-generated_at: "2026-03-30T02:54:54.278Z"
+generated_at: "2026-11-23T21:25:56.174Z"
+status: "active"
 ---
 
 # § 384a. Foreign supplier verification program
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:54.278Z"
   - **(3)** The Thermally Processed Low-Acid Foods Packaged in Hermetically Sealed Containers standards of the Food and Drug Administration (or any successor standards).
 - **(f)** The Secretary, by notice published in the Federal Register, shall establish an exemption from the requirements of this section for articles of food imported in small quantities for research and evaluation purposes or for personal consumption, provided that such foods are not intended for retail sale and are not sold or distributed to the public.
 - **(g)** The Secretary shall publish and maintain on the Internet Web site of the Food and Drug Administration a current list that includes the name of, location of, and other information deemed necessary by the Secretary about, importers participating under this section.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 805, as added [Pub. L. 111–353, title III, § 301(a)](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3953](https://www.govinfo.gov/link/statute/124/3953).)*

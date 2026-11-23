@@ -3,9 +3,10 @@ title: "Section 256 - Determination of commencement of future actions"
 usc_title: 29
 usc_section: "256"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 256"
-generated_at: "2026-03-30T02:55:18.683Z"
+generated_at: "2026-11-23T21:26:02.179Z"
+status: "active"
 ---
 
 # § 256. Determination of commencement of future actions
@@ -14,3 +15,7 @@ In determining when an action is commenced for the purposes of section 255 of th
 
 - **(a)** on the date when the complaint is filed, if he is specifically named as a party plaintiff in the complaint and his written consent to become a party plaintiff is filed on such date in the court in which the action is brought; or
 - **(b)** if such written consent was not so filed or if his name did not so appear—on the subsequent date on which such written consent is filed in the court in which the action was commenced.
+
+## Source Credit
+
+*(May 14, 1947, ch. 52, § 7, [61 Stat. 88](https://www.govinfo.gov/link/statute/61/88).)*

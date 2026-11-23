@@ -3,9 +3,10 @@ title: "Section 955b - National Medal of Arts"
 usc_title: 20
 usc_section: "955b"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 955b"
-generated_at: "2026-03-30T02:54:48.088Z"
+generated_at: "2026-11-23T21:25:46.980Z"
+status: "active"
 ---
 
 # § 955b. National Medal of Arts
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:48.088Z"
   - **(4)** A group may be awarded the National Medal of Arts only if such group is organized or incorporated in the United States.
   - **(5)** The presentation of the National Medal of Arts shall be made by the President with such ceremonies as the President may deem proper, including attendance by appropriate Members of Congress.
 - **(c)** Funds made available to the National Endowment for the Arts shall be used to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 98–306, § 13](https://www.govinfo.gov/link/plaw/98/public/306), May 31, 1984, [98 Stat. 225](https://www.govinfo.gov/link/statute/98/225).)*

@@ -3,9 +3,10 @@ title: "Section 617r - Consent given States to negotiate supplemental compacts f
 usc_title: 43
 usc_section: "617r"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 617r"
-generated_at: "2026-03-30T02:55:57.457Z"
+generated_at: "2026-11-23T21:26:19.796Z"
+status: "active"
 ---
 
 # § 617r. Consent given States to negotiate supplemental compacts for development of Colorado River
@@ -14,3 +15,7 @@ The consent of Congress is given to the States of Arizona, California, Colorado,
 
 - **(a)** Such consent is given upon condition that a representative of the United States, to be appointed by the President, shall participate in the negotiations and shall make report to Congress of the proceedings and of any compact or agreement entered into.
 - **(b)** No such compact or agreement shall be binding or obligatory upon any of such States unless and until it has been approved by the legislature of each of such States and by the Congress of the United States.
+
+## Source Credit
+
+*(Dec. 21, 1928, ch. 42, § 19, [45 Stat. 1065](https://www.govinfo.gov/link/statute/45/1065).)*

@@ -3,9 +3,10 @@ title: "Section 2371 - Community College and Career Training Grant Program"
 usc_title: 19
 usc_section: "2371"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2371"
-generated_at: "2026-03-30T02:54:24.671Z"
+generated_at: "2026-11-23T21:25:42.796Z"
+status: "active"
 ---
 
 # § 2371. Community College and Career Training Grant Program
@@ -56,3 +57,9 @@ generated_at: "2026-03-30T02:54:24.671Z"
     - **(D)** The percentage of workers receiving benefits under part 2 that are served by programs developed, offered, or improved using grants awarded under this section.
     - **(E)** The percentage and number of workers receiving benefits under part 2 who obtained a degree through such programs and the average duration of the participation of such workers in training under section 2296 of this title .
     - **(F)** The number of workers receiving benefits under part 2 served by such programs who did not complete a degree and the average duration of the participation of such workers in training under section 2296 of this title .
+
+“The amendments made by paragraph (1) [amending this section] shall—
+
+## Source Credit
+
+*([Pub. L. 93–618, title II, § 271](https://www.govinfo.gov/link/plaw/93/public/618), formerly § 278, as added [Pub. L. 111–5, div. B, title I, § 1872(a)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 406](https://www.govinfo.gov/link/statute/123/406); amended [Pub. L. 111–344, title I, § 101(c)(8)](https://www.govinfo.gov/link/plaw/111/public/344), Dec. 29, 2010, [124 Stat. 3614](https://www.govinfo.gov/link/statute/124/3614); as added, renumbered § 271, and amended [Pub. L. 112–40, title II](https://www.govinfo.gov/link/plaw/112/public/40), §§ 201(b), (c), 222(a)(3), (b)(1), (c)(1), Oct. 21, 2011, [125 Stat. 403](https://www.govinfo.gov/link/statute/125/403), 411.)*

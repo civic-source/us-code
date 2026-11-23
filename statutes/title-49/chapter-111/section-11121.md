@@ -3,9 +3,10 @@ title: "Section 11121 - Criteria"
 usc_title: 49
 usc_section: "11121"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 11121"
-generated_at: "2026-03-30T02:56:19.325Z"
+generated_at: "2026-11-23T21:26:40.677Z"
+status: "active"
 ---
 
 # § 11121. Criteria
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:19.325Z"
   - **(2)** The Board may require a rail carrier to file its car service rules with the Board.
 - **(b)** The Board may designate and appoint agents and agencies to make and carry out its directions related to car service and matters under sections 11123 and 11124(a)(1) of this title.
 - **(c)** The Board shall consult, as it considers necessary, with the National Grain Car Council on matters within the charter of that body.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 832](https://www.govinfo.gov/link/statute/109/832).)*

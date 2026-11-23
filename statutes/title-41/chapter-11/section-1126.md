@@ -3,9 +3,10 @@ title: "Section 1126 - Policy regarding consideration of contractor past perform
 usc_title: 41
 usc_section: "1126"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 1126"
-generated_at: "2026-03-30T02:55:55.799Z"
+generated_at: "2026-11-23T21:26:18.777Z"
+status: "active"
 ---
 
 # § 1126. Policy regarding consideration of contractor past performance
@@ -18,3 +19,49 @@ generated_at: "2026-03-30T02:55:55.799Z"
     - **(B)** the information submitted by offerors is considered; and
   - **(4)** the period for which information on past performance of offerors may be maintained and considered.
 - **(b)** If there is no information on past contract performance of an offeror or the information on past contract performance is not available, the offeror may not be evaluated favorably or unfavorably on the factor of past contract performance.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1126(a) | 41:405(j)(1). | Pub. L. 93–400, § 6(j) , as added Pub. L. 103–355, title I, § 1091(b)(2) , Oct. 13, 1994 , 108 Stat. 3272 . |
+| 1126(b) | 41:405(j)(2). |  |
+
+
+Guidance
+
+Information Not Available
+
+Historical and Revision Notes
+
+1126(a)
+
+Pub. L. 93–400, § 6(j)
+
+Pub. L. 103–355, title I, § 1091(b)(2)
+
+Oct. 13, 1994
+
+108 Stat. 3272
+
+1126(b)
+
+Strategy Required
+
+In general
+
+Consultation with usdatl
+
+Elements
+
+Contractor Comments
+
+Construction
+
+Comptroller General Report
+
+Definitions
+
+“Congress makes the following findings:
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3689](https://www.govinfo.gov/link/statute/124/3689).)*

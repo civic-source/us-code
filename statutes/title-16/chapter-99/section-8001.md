@@ -3,9 +3,10 @@ title: "Section 8001 - Definitions"
 usc_title: 16
 usc_section: "8001"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8001"
-generated_at: "2026-03-30T02:54:23.079Z"
+generated_at: "2026-11-23T21:25:52.072Z"
+status: "active"
 ---
 
 # § 8001. Definitions
@@ -45,3 +46,7 @@ In this chapter:
     - **(A)** collect catch from multiple fishing boats;
     - **(B)** carry the accumulated catches back to port; and
     - **(C)** deliver supplies to fishing boats, which allows fishing vessels to remain at sea for extended periods without coming into port.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. C, title XXXV, § 3532](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1997](https://www.govinfo.gov/link/statute/133/1997).)*

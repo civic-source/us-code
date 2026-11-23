@@ -3,9 +3,10 @@ title: "Section 5202 - Civil penalties"
 usc_title: 16
 usc_section: "5202"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 5202"
-generated_at: "2026-03-30T02:54:23.051Z"
+generated_at: "2026-11-23T21:25:52.029Z"
+status: "active"
 ---
 
 # § 5202. Civil penalties
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:23.051Z"
     - **(B)** a similar program that the Secretary determines will enhance wildlife management—
       - **(i)** on Federal lands; or
       - **(ii)** on private or State-owned lands when the efforts will also provide a benefit to wildlife management objectives on Federal lands.
+
+## Source Credit
+
+*([Pub. L. 103–322, title XXXII, § 320803](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2121](https://www.govinfo.gov/link/statute/108/2121).)*

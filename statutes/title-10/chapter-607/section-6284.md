@@ -3,9 +3,10 @@ title: "Section 6284 - Notification of cost overruns for certain Department of E
 usc_title: 10
 usc_section: "6284"
 chapter: 607
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6284"
-generated_at: "2026-03-30T02:53:38.225Z"
+generated_at: "2026-11-23T21:25:32.826Z"
+status: "active"
 ---
 
 # § 6284. Notification of cost overruns for certain Department of Energy projects
@@ -52,3 +53,37 @@ generated_at: "2026-03-30T02:53:38.225Z"
 - **(d)** A revised cost and schedule baseline established under subsection (c) shall—
   - **(1)** be submitted to the congressional defense committees with the certification submitted under subsection (c)(2) and the results of the review conducted by the Director of Cost Estimating and Program Evaluation under subsection (c)(2)(B); and
   - **(2)** be subject to the notification requirements of subsections (b) and (c) in the same manner and to the same extent as a cost and schedule baseline established under subsection (a).
+
+Establishment of Cost and Schedule Baselines
+
+Notification of Costs Exceeding Baseline
+
+Notification of Determination With Respect to Termination or Continuation of Projects and Root Cause Analyses
+
+Applicability of Requirements to Revised Cost and Schedule Baselines
+
+Establishment of Cost and Schedule Baselines
+
+In general
+
+Per unit cost
+
+Notification to congressional defense committees
+
+Major alteration projects
+
+In general
+
+Per unit cost
+
+Notification to congressional defense committees
+
+Major alteration project defined
+
+In general
+
+Notification to congressional defense committees
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI](https://www.govinfo.gov/link/plaw/119/public/60), §§ 3111(a), (d)(1)(G), (2), 3116, Dec. 18, 2025, [139 Stat. 1431](https://www.govinfo.gov/link/statute/139/1431), 1462, 1464.)*

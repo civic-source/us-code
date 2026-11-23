@@ -3,9 +3,10 @@ title: "Section 9a - Better diabetes care"
 usc_title: 42
 usc_section: "9a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9a"
-generated_at: "2026-03-30T02:56:10.697Z"
+generated_at: "2026-11-23T21:26:30.269Z"
+status: "active"
 ---
 
 # § 247b–9a. Better diabetes care
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:10.697Z"
   - **(1)** The Secretary shall, in collaboration with the Institute of Medicine and appropriate associations and councils, conduct a study of the impact of diabetes on the practice of medicine in the United States and the appropriateness of the level of diabetes medical education that should be required prior to licensure, board certification, and board recertification.
   - **(2)** Not later than 2 years after March 23, 2010 , the Secretary shall submit a report on the study under paragraph (1) to the Committees on Ways and Means and Energy and Commerce of the House of Representatives and the Committees on Finance and Health, Education, Labor, and Pensions of the Senate.
 - **(e)** There are authorized to be appropriated to carry out this section such sums as may be necessary.
+
+## Source Credit
+
+*([Pub. L. 111–148, title X, § 10407](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 976](https://www.govinfo.gov/link/statute/124/976).)*

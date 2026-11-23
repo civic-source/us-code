@@ -3,9 +3,10 @@ title: "Section 1980 - Compensation for loss or destruction of commercial fishin
 usc_title: 22
 usc_section: "1980"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1980"
-generated_at: "2026-03-30T02:55:05.340Z"
+generated_at: "2026-11-23T21:25:58.420Z"
+status: "active"
 ---
 
 # § 1980. Compensation for loss or destruction of commercial fishing vessel or gear
@@ -49,3 +50,11 @@ generated_at: "2026-03-30T02:55:05.340Z"
     - **(E)** any revenue acquired through the issuance of obligations under paragraph (3).
   - **(3)** Whenever the amount in the fund is not sufficient to pay compensation under this section, the Secretary may issue, in an amount not to exceed $5,000,000, notes or other obligations to the Secretary of the Treasury, in such forms and denominations, bearing such maturities, and subject to such terms and conditions as the Secretary of the Treasury may prescribe. Such notices 2 2 So in original. Probably should be “notes”. or other obligations shall bear interest at a rate to be determined by the Secretary of the Treasury on the basis of the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of such notices 2 or other obligations. Moneys obtained by the Secretary under this paragraph shall be deposited in the fund and redemptions of any such notices 2 or other obligations shall be made from the fund. The Secretary of the Treasury shall purchase any such notes or other obligations, and for such purpose he may use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31. The Secretary of the Treasury may sell any such notices 2 or other obligations at such times and prices and upon such terms and conditions as he shall determine. All purchases, redemptions, and sales of such notes or other obligations by the Secretary of the Treasury shall be treated as public debt transactions of the United States. All borrowing authority contained herein shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
 - **(g)** Any person who willfully makes any false or misleading statement or representation for the purpose of obtaining compensation under this section is guilty of a criminal offense and, upon conviction thereof, shall be punished by a fine of not more than $25,000, or by imprisonment for not more than one year, or both.
+
+In General
+
+Special Provisions
+
+## Source Credit
+
+*(Aug. 27, 1954, ch. 1018, § 10, as added [Pub. L. 95–194, § 2](https://www.govinfo.gov/link/plaw/95/public/194), Nov. 18, 1977, [91 Stat. 1413](https://www.govinfo.gov/link/statute/91/1413); amended [Pub. L. 95–376, § 3(a)](https://www.govinfo.gov/link/plaw/95/public/376), Sept. 18, 1978, [92 Stat. 715](https://www.govinfo.gov/link/statute/92/715); [Pub. L. 96–289, § 4(b)](https://www.govinfo.gov/link/plaw/96/public/289), June 28, 1980, [94 Stat. 606](https://www.govinfo.gov/link/statute/94/606); [Pub. L. 96–561, title II](https://www.govinfo.gov/link/plaw/96/public/561), §§ 238(b), 241, Dec. 22, 1980, [94 Stat. 3300](https://www.govinfo.gov/link/statute/94/3300), 3301; [Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009](https://www.govinfo.gov/link/statute/110/3009), 3009–41.)*

@@ -3,9 +3,10 @@ title: "Section 4046 - Computation of annuities"
 usc_title: 22
 usc_section: "4046"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4046"
-generated_at: "2026-03-30T02:55:05.402Z"
+generated_at: "2026-11-23T21:25:58.614Z"
+status: "active"
 ---
 
 # § 4046. Computation of annuities
@@ -94,3 +95,57 @@ generated_at: "2026-03-30T02:55:05.402Z"
   - **(3)** An election by a participant under this subsection voids prospectively any election previously made in the case of such participant under subsection (b).
   - **(4)** An annuity which is reduced in connection with an election under this subsection shall be reduced by the same percentage reductions as were in effect at the time of the retirement of the participant whose annuity is so reduced.
   - **(5)** Rights and obligations resulting from the election of a reduced annuity under this subsection shall be the same as the rights and obligations which would have resulted had the participant involved elected such annuity at the time of retiring.
+
+(aa) if voluntary, is at least 50 years of age and has completed at least 20 years of service as a special agent; or
+
+(bb) if involuntary or disability, has completed at least 20 years of service as a special agent; or
+
+(aa) is performing service as a special agent;
+
+(bb) while on duty as a special agent, becomes ill or is injured as a direct result of the performance of such duties before the date on which the individual becomes entitled to an annuity under section 4051 of this title ;
+
+(cc) because of the illness or injury described in item (bb), is permanently unable to render useful and efficient service in the employee’s covered position, as determined by the Secretary; and
+
+(dd) is appointed to a position in the Foreign Service that is not a covered position; and
+
+(aa) a law enforcement officer described in section 8331(20) or 8401(17) of title 5;
+
+(bb) a customs and border protection officer described in section 8331(31) or 8401(36) of title 5;
+
+(cc) a firefighter described in section 8331(21) or 8401(14) of title 5;
+
+(dd) an air traffic controller described in section 8331(30) or 8401(35) of title 5;
+
+(ee) a nuclear materials courier described in section 8331(27) or 8401(33) of title 5;
+
+(ff) a member of the United States Capitol Police;
+
+(gg) a member of the Supreme Court Police;
+
+(hh) an employee of the Agency designated under section 2152(a) of title 50 ; or
+
+(ii) a special agent.
+
+Regulations
+
+Month Period to Elect Survivor Annuity
+
+Election
+
+Election Described.—
+
+Offset
+
+Notice
+
+Proof of Attempted Election
+
+Deposit
+
+Limitation
+
+Definitions
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 806](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2106](https://www.govinfo.gov/link/statute/94/2106); [Pub. L. 99–335, title IV](https://www.govinfo.gov/link/plaw/99/public/335), §§ 402(a)(2), (3), 406, 407, June 6, 1986, [100 Stat. 609–611](https://www.govinfo.gov/link/statute/100/609); [Pub. L. 99–556, title IV, § 402](https://www.govinfo.gov/link/plaw/99/public/556), Oct. 27, 1986, [100 Stat. 3136](https://www.govinfo.gov/link/statute/100/3136); [Pub. L. 100–238, title II](https://www.govinfo.gov/link/plaw/100/public/238), §§ 213, 214(a), 217(c)(1), Jan. 8, 1988, [101 Stat. 1774](https://www.govinfo.gov/link/statute/101/1774), 1775; [Pub. L. 101–513, title V, § 587(a)](https://www.govinfo.gov/link/plaw/101/public/513), Nov. 5, 1990, [104 Stat. 2055](https://www.govinfo.gov/link/statute/104/2055); [Pub. L. 102–499, § 4(d)](https://www.govinfo.gov/link/plaw/102/public/499), Oct. 24, 1992, [106 Stat. 3266](https://www.govinfo.gov/link/statute/106/3266); [Pub. L. 105–382, § 2(d)(1)](https://www.govinfo.gov/link/plaw/105/public/382) –(3)(A), Nov. 13, 1998, [112 Stat. 3407](https://www.govinfo.gov/link/statute/112/3407), 3408; [Pub. L. 107–228, div. A, title III, § 322(a)(1)](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1383](https://www.govinfo.gov/link/statute/116/1383); [Pub. L. 112–96, title V, § 5001(c)(2)(E)](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 200](https://www.govinfo.gov/link/statute/126/200); [Pub. L. 117–225, § 3(d)](https://www.govinfo.gov/link/plaw/117/public/225), Dec. 9, 2022, [136 Stat. 2297](https://www.govinfo.gov/link/statute/136/2297).)*

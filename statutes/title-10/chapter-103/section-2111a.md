@@ -3,9 +3,10 @@ title: "Section 2111a - Support for senior military colleges"
 usc_title: 10
 usc_section: "2111a"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2111a"
-generated_at: "2026-03-30T02:53:38.141Z"
+generated_at: "2026-11-23T21:25:32.554Z"
+status: "active"
 ---
 
 # § 2111a. Support for senior military colleges
@@ -27,3 +28,25 @@ generated_at: "2026-03-30T02:53:38.141Z"
   - **(4)** The Citadel.
   - **(5)** Virginia Polytechnic Institute and State University.
   - **(6)** The University of North Georgia.
+
+Detail of Officers To Serve as Commandant or Assistant Commandant of Cadets
+
+Designation of Officers as Tactical Officers
+
+Detail of Officers
+
+Termination or Reduction of Program Prohibited
+
+Assignment to Active Duty
+
+Senior Military Colleges
+
+Definition of Senior Military Colleges
+
+Findings
+
+Sense of Congress
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title V, § 545(a)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 317](https://www.govinfo.gov/link/statute/110/317); amended [Pub. L. 105–85, div. A, title V, § 544(d)](https://www.govinfo.gov/link/plaw/105/public/85) –(f)(1), Nov. 18, 1997, [111 Stat. 1745](https://www.govinfo.gov/link/statute/111/1745), 1746; [Pub. L. 106–65, div. A, title V, § 541(c)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 607](https://www.govinfo.gov/link/statute/113/607); [Pub. L. 113–66, div. A, title V, § 583](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 776](https://www.govinfo.gov/link/statute/127/776).)*

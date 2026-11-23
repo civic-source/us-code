@@ -3,9 +3,10 @@ title: "Section 602 - Duties and functions"
 usc_title: 2
 usc_section: "602"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 602"
-generated_at: "2026-03-30T02:53:04.798Z"
+generated_at: "2026-11-23T21:25:21.166Z"
+status: "active"
 ---
 
 # § 602. Duties and functions
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:53:04.798Z"
       - **(i)** future costs of Federal private sector mandates to the extent that such mandates differ significantly from or extend beyond the 5-year time period referred to in subparagraph (B)(iii)(I);
       - **(ii)** any disproportionate financial effects of Federal private sector mandates and of any Federal financial assistance in the bill or joint resolution upon any particular industries or sectors of the economy, States, regions, and urban or rural or other types of communities; and
       - **(iii)** the effect of Federal private sector mandates in the bill or joint resolution on the national economy, including the effect on productivity, economic growth, full employment, creation of productive jobs, and international competitiveness of United States goods and services.
+
+## Source Credit
+
+*([Pub. L. 93–344, title II, § 202](https://www.govinfo.gov/link/plaw/93/public/344), July 12, 1974, [88 Stat. 304](https://www.govinfo.gov/link/statute/88/304); [Pub. L. 99–177, title II, § 221](https://www.govinfo.gov/link/plaw/99/public/177), Dec. 12, 1985, [99 Stat. 1060](https://www.govinfo.gov/link/statute/99/1060); [Pub. L. 101–508, title XIII, § 13112(a)(3)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–608](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 104–4, title I, § 102(1)](https://www.govinfo.gov/link/plaw/104/public/4), Mar. 22, 1995, [109 Stat. 60](https://www.govinfo.gov/link/statute/109/60); [Pub. L. 104–186, title II, § 213](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1745](https://www.govinfo.gov/link/statute/110/1745); [Pub. L. 105–33, title X, § 10103](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 678](https://www.govinfo.gov/link/statute/111/678).)*

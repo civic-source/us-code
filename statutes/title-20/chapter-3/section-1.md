@@ -3,9 +3,10 @@ title: "Section 1 - Establishment of Museum"
 usc_title: 20
 usc_section: "1"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1"
-generated_at: "2026-03-30T02:54:48.080Z"
+generated_at: "2026-11-23T21:25:46.941Z"
+status: "active"
 ---
 
 # § 80t–1. Establishment of Museum
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:48.080Z"
   - **(1)** the collection and study of, and the establishment of programs relating to, women’s contributions to various fields and throughout different periods of history that have influenced the direction of the United States;
   - **(2)** collaboration with other Smithsonian Institution museums and facilities, outside museums, and educational institutions; and
   - **(3)** the creation of exhibitions and programs that recognize diverse perspectives on women’s history and contributions.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. T, title I, § 103](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2273](https://www.govinfo.gov/link/statute/134/2273).)*

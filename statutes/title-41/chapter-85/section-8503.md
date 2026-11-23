@@ -3,9 +3,10 @@ title: "Section 8503 - Duties and powers of the Committee"
 usc_title: 41
 usc_section: "8503"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 8503"
-generated_at: "2026-03-30T02:55:55.812Z"
+generated_at: "2026-11-23T21:26:18.843Z"
+status: "active"
 ---
 
 # § 8503. Duties and powers of the Committee
@@ -23,3 +24,52 @@ generated_at: "2026-03-30T02:55:55.812Z"
 - **(e)** The Committee shall make a continuing study and evaluation of its activities under this chapter to ensure effective and efficient administration of this chapter. The Committee on its own or in cooperation with other public or nonprofit private agencies may study—
   - **(1)** problems related to the employment of the blind and other severely disabled individuals; and
   - **(2)** the development and adaptation of production methods that would enable a greater utilization of the blind and other severely disabled individuals.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8503(a) | 41:47(a). | June 25, 1938, ch. 697, § 2 , 52 Stat. 1196 ; Pub. L. 92–28, § 1 , June 23, 1971 , 85 Stat. 79 . |
+| 8503(b) | 41:47(b). |  |
+| 8503(c) | 41:47(c). |  |
+| 8503(d) | 41:47(d). |  |
+| 8503(e) | 41:47(e). |  |
+
+
+Procurement List.—
+
+Maintenance of list
+
+Changes to list
+
+Fair Market Price
+
+Central Nonprofit Agency or Agencies
+
+Regulations
+
+Study and Evaluation of Activities
+
+Historical and Revision Notes
+
+8503(a)
+
+June 25, 1938, ch. 697, § 2
+
+52 Stat. 1196
+
+Pub. L. 92–28, § 1
+
+June 23, 1971
+
+85 Stat. 79
+
+8503(b)
+
+8503(c)
+
+8503(d)
+
+8503(e)
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3836](https://www.govinfo.gov/link/statute/124/3836).)*

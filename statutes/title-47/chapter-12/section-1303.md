@@ -3,9 +3,10 @@ title: "Section 1303 - Improving Federal data on broadband"
 usc_title: 47
 usc_section: "1303"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1303"
-generated_at: "2026-03-30T02:56:24.530Z"
+generated_at: "2026-11-23T21:26:36.090Z"
+status: "active"
 ---
 
 # § 1303. Improving Federal data on broadband
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:24.530Z"
   - **(2)** The Commission shall make publicly available the results of surveys conducted under this subsection at least once per year.
 - **(d)** The Secretary of Commerce, in consultation with the Federal Communications Commission, shall expand the American Community Survey conducted by the Bureau of the Census to elicit information for residential households, including those located on native lands, to determine whether persons at such households own or use a computer at that address, whether persons at that address subscribe to Internet service and, if so, whether such persons subscribe to dial-up or broadband Internet service at that address.
 - **(e)** Nothing in this chapter shall reduce or remove any obligation the Commission has to protect proprietary information, nor shall this chapter be construed to compel the Commission to make publicly available any proprietary information.
+
+## Source Credit
+
+*([Pub. L. 110–385, title I, § 103](https://www.govinfo.gov/link/plaw/110/public/385), Oct. 10, 2008, [122 Stat. 4096](https://www.govinfo.gov/link/statute/122/4096); [Pub. L. 115–141, div. P, title IV, § 402(c)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1089](https://www.govinfo.gov/link/statute/132/1089).)*

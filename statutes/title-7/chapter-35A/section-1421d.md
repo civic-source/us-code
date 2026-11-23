@@ -3,9 +3,10 @@ title: "Section 1421d - Commodity reports"
 usc_title: 7
 usc_section: "1421d"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1421d"
-generated_at: "2026-03-30T02:53:42.310Z"
+generated_at: "2026-11-23T21:25:28.061Z"
+status: "active"
 ---
 
 # § 1421d. Commodity reports
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:42.310Z"
 - **(c)** The Secretary shall survey producers for information for reports regarding fruit and nut tree inventories. Such surveys and reports shall be conducted, printed, and distributed on a regular basis every 3 to 5 years as determined by the Secretary. Reports shall be submitted to and officially approved by the Secretary before being issued or published.
 - **(d)**
 - **(e)** There are authorized to be appropriated such sums as may be necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XXV, § 2514](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 4074](https://www.govinfo.gov/link/statute/104/4074).)*

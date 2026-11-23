@@ -3,9 +3,10 @@ title: "Section 101918 - Transfer or conveyance of concession contracts or lease
 usc_title: 54
 usc_section: "101918"
 chapter: 1019
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "54 U.S.C. § 101918"
-generated_at: "2026-03-30T02:56:28.415Z"
+generated_at: "2026-11-23T21:26:42.770Z"
+status: "active"
 ---
 
 # § 101918. Transfer or conveyance of concession contracts or leasehold surrender interests
@@ -21,3 +22,30 @@ generated_at: "2026-03-30T02:56:28.415Z"
     - **(B)** adversely affect the quality of facilities and services provided by the concessioner; or
     - **(C)** result in a need for increased rates and charges to the public to maintain the quality of the facilities and services.
 - **(c)** The terms and conditions of any concession contract under this section shall not be subject to modification or open to renegotiation by the Secretary because of a transfer or conveyance described in subsection (a) unless the transfer or conveyance would have an adverse impact as described in subsection (b)(2).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 101918 | 16 U.S.C. 5957 . | Pub. L. 105–391, title IV, § 408 , Nov. 13, 1998 , 112 Stat. 3512 . |
+
+
+Approval of Secretary
+
+Conditions
+
+Modification or Renegotiation of Terms
+
+Historical and Revision Notes
+
+101918
+
+16 U.S.C. 5957
+
+Pub. L. 105–391, title IV, § 408
+
+Nov. 13, 1998
+
+112 Stat. 3512
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3147](https://www.govinfo.gov/link/statute/128/3147).)*

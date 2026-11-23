@@ -3,9 +3,10 @@ title: "Section 3304 - Qualification for grants to tribes"
 usc_title: 25
 usc_section: "3304"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3304"
-generated_at: "2026-03-30T02:54:52.850Z"
+generated_at: "2026-11-23T21:25:54.689Z"
+status: "active"
 ---
 
 # § 3304. Qualification for grants to tribes
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:52.850Z"
     - **(A)** after notice in writing to the tribe of the cause and opportunity to the tribe to correct;
     - **(B)** providing technical assistance to the tribe in making such corrections; and
     - **(C)** after hearing and appeals conducted under the same rules and regulations that apply to similar termination actions under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5301 et seq.].
+
+## Source Credit
+
+*([Pub. L. 102–325, title XIII, § 1314](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 799](https://www.govinfo.gov/link/statute/106/799).)*

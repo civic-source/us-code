@@ -3,9 +3,10 @@ title: "Section 1379c - Marketing certificates"
 usc_title: 7
 usc_section: "1379c"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1379c"
-generated_at: "2026-03-30T02:53:42.309Z"
+generated_at: "2026-11-23T21:25:28.055Z"
+status: "active"
 ---
 
 # § 1379c. Marketing certificates
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:42.309Z"
 - **(c)** The Secretary shall determine and proclaim for each marketing year the face value per bushel of wheat marketing certificates. The face value per bushel of domestic certificates shall be the amount by which the level of price support for wheat accompanied by domestic certificates exceeds the level of price support for wheat not accompanied by certificates (noncertificate wheat).
 - **(d)** Marketing certificates and transfers thereof shall be represented by such documents, marketing cards, records, accounts, certifications, or other statements or forms as the Secretary may prescribe.
 - **(e)** In any case in which the failure of a producer to comply fully with the term and conditions of the programs formulated under this chapter preclude the issuance of marketing certificates, the Secretary may, nevertheless, issue such certificates in such amounts as he determines to be equitable in relation to the seriousness of the default.
+
+## Source Credit
+
+*(Feb. 16, 1938, ch. 30, title III, § 379c, as added [Pub. L. 87–703, title III, § 324(2)](https://www.govinfo.gov/link/plaw/87/public/703), Sept. 27, 1962, [76 Stat. 627](https://www.govinfo.gov/link/statute/76/627); amended [Pub. L. 88–297, title II, § 202(12)](https://www.govinfo.gov/link/plaw/88/public/297) –(14), Apr. 11, 1964, [78 Stat. 180](https://www.govinfo.gov/link/statute/78/180), 181; [Pub. L. 89–112, § 3](https://www.govinfo.gov/link/plaw/89/public/112), Aug. 6, 1965, [79 Stat. 447](https://www.govinfo.gov/link/statute/79/447); [Pub. L. 89–321, title V](https://www.govinfo.gov/link/plaw/89/public/321), §§ 508, 510(a), 513(b), (c), 515, 517, Nov. 3, 1965, [79 Stat. 1204–1206](https://www.govinfo.gov/link/statute/79/1204); [Pub. L. 89–451, § 3](https://www.govinfo.gov/link/plaw/89/public/451), June 17, 1966, [80 Stat. 202](https://www.govinfo.gov/link/statute/80/202); [Pub. L. 91–524, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/91/public/524), (b)(D), Nov. 30, 1970, [84 Stat. 1364](https://www.govinfo.gov/link/statute/84/1364), as renumbered and amended [Pub. L. 93–86, § 1(9)](https://www.govinfo.gov/link/plaw/93/public/86), Aug. 10, 1973, [87 Stat. 225](https://www.govinfo.gov/link/statute/87/225).)*

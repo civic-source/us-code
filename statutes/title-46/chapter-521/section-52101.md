@@ -3,9 +3,10 @@ title: "Section 52101 - Reemployment rights for certain merchant seamen"
 usc_title: 46
 usc_section: "52101"
 chapter: 521
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 52101"
-generated_at: "2026-03-30T02:56:15.572Z"
+generated_at: "2026-11-23T21:26:37.246Z"
+status: "active"
 ---
 
 # § 52101. Reemployment rights for certain merchant seamen
@@ -21,3 +22,32 @@ generated_at: "2026-03-30T02:56:15.572Z"
     - **(B)** during the period of that employment, possessed a valid license, certificate of registry, or merchant mariner’s document issued under chapter 71 or 73 of this title; and
   - **(2)** if the Secretary makes affirmative determinations under subparagraphs (A) and (B) of paragraph (1), certify that individual under this subsection.
 - **(d)** For purposes of reemployment rights and benefits provided by this section, a certification under subsection (c) shall be considered to be the equivalent of a certificate described in section 9(a) of the Military Selective Service Act ( 50 U.S.C. 3808(a) ).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 52101 | 46 App.:1132. | June 29, 1936, ch. 858 , title III, § 302, as added Pub. L. 104–239, § 10(a) , Oct. 8, 1996 , 110 Stat. 3133 . |
+
+
+In General
+
+Time for Application
+
+Certification Determination
+
+Equivalence to Military Selective Service Act Certificate
+
+Historical and Revision Notes
+
+52101
+
+June 29, 1936, ch. 858
+
+Pub. L. 104–239, § 10(a)
+
+Oct. 8, 1996
+
+110 Stat. 3133
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(b)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1585](https://www.govinfo.gov/link/statute/120/1585); [Pub. L. 115–91, div. C, title XXXV, § 3502(b)(4)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1910](https://www.govinfo.gov/link/statute/131/1910); [Pub. L. 115–232, div. C, title XXXV, § 3546(m)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2327](https://www.govinfo.gov/link/statute/132/2327).)*

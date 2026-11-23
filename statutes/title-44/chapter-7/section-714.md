@@ -3,12 +3,17 @@ title: "Section 714 - Printing documents for Congress in two or more editions; p
 usc_title: 44
 usc_section: "714"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 714"
-generated_at: "2026-03-30T02:55:56.288Z"
+generated_at: "2026-11-23T21:26:18.381Z"
+status: "active"
 ---
 
 # § 714. Printing documents for Congress in two or more editions; printing of full number and allotment of full quota
 
 The Joint Committee on Printing shall establish rules to be observed by the Director of the Government Publishing Office, by which public documents and reports printed for Congress, or either House, may be printed in two or more editions, to meet the public requirements. The aggregate of the editions may not exceed the number of copies otherwise authorized. This section does not prevent the printing of the full number of a document or report, or the allotment of the full quota to Senators and Representatives, as otherwise authorized, when a legitimate demand for the full complement is known to exist.
 
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1250](https://www.govinfo.gov/link/statute/82/1250); [Pub. L. 113–235, div. H, title I, § 1301(c)(1)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537).)*

@@ -3,9 +3,10 @@ title: "Section 5321 - Benefits helpline"
 usc_title: 38
 usc_section: "5321"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 5321"
-generated_at: "2026-03-30T02:55:53.521Z"
+generated_at: "2026-11-23T21:26:16.821Z"
+status: "active"
 ---
 
 # § 5321. Benefits helpline
@@ -21,3 +22,15 @@ generated_at: "2026-03-30T02:55:53.521Z"
     - **(B)** an individual acting on behalf of a veteran; or
     - **(C)** an individual other than a veteran who is eligible to receive a benefit or service under a law administered by the Secretary.
   - **(2)** The term “veteran” has the meaning given such term in section 2002(b) of this title .
+
+Establishment
+
+Contract for Direction of Calls Authorized
+
+Live Individual Required
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. E, title L, § 5002(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2408](https://www.govinfo.gov/link/statute/138/2408).)*

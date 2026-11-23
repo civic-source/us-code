@@ -3,9 +3,10 @@ title: "Section 205l - Implementation in acquisition of construction services an
 usc_title: 15
 usc_section: "205l"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 205l"
-generated_at: "2026-03-30T02:54:08.075Z"
+generated_at: "2026-11-23T21:25:39.611Z"
+status: "active"
 ---
 
 # § 205l. Implementation in acquisition of construction services and materials for Federal facilities
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:08.075Z"
     - **(C)** the total installed price to the Federal Government.
   - **(4)** After the head of the agency has rendered a decision regarding a recommendation of the ombudsman, the ombudsman shall be responsible for communicating the decision to all appropriate policy, design, planning, procurement, and notifying personnel in the agency. The ombudsman shall conduct appropriate monitoring as required to ensure the decision is implemented, and may submit further recommendations, as needed. The head of the agency’s decision on the ombudsman’s recommendations, and any supporting documentation, shall be provided to affected parties and made available to the public in a timely manner.
   - **(5)** Nothing in this section shall be construed to supersede the bid protest process established under subchapter V of chapter 35 of title 31.
+
+## Source Credit
+
+*([Pub. L. 94–168, § 14](https://www.govinfo.gov/link/plaw/94/public/168), as added and amended [Pub. L. 104–289](https://www.govinfo.gov/link/plaw/104/public/289), §§ 4(a), 5, Oct. 11, 1996, [110 Stat. 3412](https://www.govinfo.gov/link/statute/110/3412), 3414; [Pub. L. 108–423, § 6](https://www.govinfo.gov/link/plaw/108/public/423), Nov. 30, 2004, [118 Stat. 2402](https://www.govinfo.gov/link/statute/118/2402); [Pub. L. 117–81, div. A, title XVII, § 1702(e)(1)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2156](https://www.govinfo.gov/link/statute/135/2156).)*

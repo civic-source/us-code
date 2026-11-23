@@ -3,9 +3,10 @@ title: "Section 6755 - Bylaws, standards, and disciplinary actions"
 usc_title: 15
 usc_section: "6755"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6755"
-generated_at: "2026-03-30T02:54:08.215Z"
+generated_at: "2026-11-23T21:25:40.032Z"
+status: "active"
 ---
 
 # § 6755. Bylaws, standards, and disciplinary actions
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:08.215Z"
   - **(3)** Board members appointed pursuant to section 6754(c)(3) of this title may not—
     - **(A)** participate in any disciplinary action or be counted toward establishing a quorum during a disciplinary action; and
     - **(B)** have access to confidential information concerning any disciplinary action.
+
+## Source Credit
+
+*([Pub. L. 106–102, title III, § 325](https://www.govinfo.gov/link/plaw/106/public/102), as added [Pub. L. 114–1, title II, § 202(a)](https://www.govinfo.gov/link/plaw/114/public/1), Jan. 12, 2015, [129 Stat. 23](https://www.govinfo.gov/link/statute/129/23).)*

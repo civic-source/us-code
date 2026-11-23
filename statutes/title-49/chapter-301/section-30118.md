@@ -3,9 +3,10 @@ title: "Section 30118 - Notification of defects and noncompliance"
 usc_title: 49
 usc_section: "30118"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 30118"
-generated_at: "2026-03-30T02:56:19.351Z"
+generated_at: "2026-11-23T21:26:40.758Z"
+status: "active"
 ---
 
 # § 30118. Notification of defects and noncompliance
@@ -26,3 +27,94 @@ generated_at: "2026-03-30T02:56:19.351Z"
     - **(A)** by the applicable date described in section 573.7(d) of title 49, Code of Federal Regulations (or a successor regulation), a quarterly report describing the campaign for each of 8 consecutive quarters, beginning with the quarter in which the campaign was initiated; and
     - **(B)** an annual report for each of the 3 years beginning after the date of completion of the last quarter for which a quarterly report is submitted under subparagraph (A).
   - **(2)** Except as otherwise provided in this subsection, each report under this subsection shall comply with the requirements of section 573.7 of title 49, Code of Federal Regulations (or a successor regulation).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30118(a) | 15:1397(a)(1)(D) (related to 15:1412(a) (1st–3d sentences)). | Sept. 9, 1966 , Pub. L. 89–563, § 108(a)(1)(D) (related to §§ 151, 152, 153(c) (1st sentence cl. (6)), 156, 157), 80 Stat. 722 ; restated Oct. 27, 1974 , Pub. L. 93–492, § 103(a)(1)(A) , (3), 88 Stat. 1477 , 1478. |
+|  | 15:1412(a) (1st–3d sentences). | Sept. 9, 1966 , Pub. L. 89–563 , 80 Stat. 718 , §§ 151, 152, 156 (related to notice), 157 (related to notice); added Oct. 27, 1974 , Pub. L. 93–492, § 102(a) , 88 Stat. 1470 , 1475. |
+| 30118(b) | 15:1397(a)(1)(D) (related to 15:1412(a) (last sentence), (b)). |  |
+|  | 15:1412(a) (last sentence), (b). |  |
+| 30118(c) | 15:1397(a)(1)(D) (related to 15:1411, 1413(c) (1st sentence cl. (6))). |  |
+|  | 15:1411. |  |
+|  | 15:1413(c) (1st sentence cl. (6)). | Sept. 9, 1966 , Pub. L. 89–563 , 80 Stat. 718 , § 153(c) (1st sentence cl. (6)); added Oct. 27, 1974 , Pub. L. 93–492, § 102(a) , 88 Stat. 1472 ; Oct. 15, 1982 , Pub. L. 97–331, § 4(b)(2) , 96 Stat. 1620 . |
+| 30118(d) | 15:1397(a)(1)(D) (related to 15:1417). |  |
+|  | 15:1417 (related to notice). |  |
+| 30118(e) | 15:1397(a)(1)(D) (related to 15:1416). |  |
+|  | 15:1416 (related to notice). |  |
+
+
+Notification by Secretary
+
+Defect and Noncompliance Proceedings and Orders
+
+Notification by Manufacturer
+
+Exemptions
+
+Hearings About Meeting Notification Requirements
+
+Reports on Notification Campaigns.—
+
+In general
+
+Requirements
+
+Historical and Revision Notes
+
+30118(a)
+
+Sept. 9, 1966
+
+Pub. L. 89–563, § 108(a)(1)(D)
+
+80 Stat. 722
+
+Oct. 27, 1974
+
+Pub. L. 93–492, § 103(a)(1)(A)
+
+88 Stat. 1477
+
+Sept. 9, 1966
+
+Pub. L. 89–563
+
+80 Stat. 718
+
+Oct. 27, 1974
+
+Pub. L. 93–492, § 102(a)
+
+88 Stat. 1470
+
+30118(b)
+
+30118(c)
+
+Sept. 9, 1966
+
+Pub. L. 89–563
+
+80 Stat. 718
+
+Oct. 27, 1974
+
+Pub. L. 93–492, § 102(a)
+
+88 Stat. 1472
+
+Oct. 15, 1982
+
+Pub. L. 97–331, § 4(b)(2)
+
+96 Stat. 1620
+
+30118(d)
+
+30118(e)
+
+In general
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 950](https://www.govinfo.gov/link/statute/108/950); [Pub. L. 106–346, § 101(a) [title III, § 364]](https://www.govinfo.gov/link/plaw/106/public/346), Oct. 23, 2000, [114 Stat. 1356](https://www.govinfo.gov/link/statute/114/1356), 1356A–37; [Pub. L. 106–414, § 2](https://www.govinfo.gov/link/plaw/106/public/414), Nov. 1, 2000, [114 Stat. 1800](https://www.govinfo.gov/link/statute/114/1800); [Pub. L. 114–94, div. B, title XXIV, § 24104(b)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1703](https://www.govinfo.gov/link/statute/129/1703); [Pub. L. 117–58, div. B, title IV, § 24202(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 819](https://www.govinfo.gov/link/statute/135/819).)*

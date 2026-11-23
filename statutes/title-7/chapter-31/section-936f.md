@@ -3,9 +3,10 @@ title: "Section 936f - Substantially underserved trust areas"
 usc_title: 7
 usc_section: "936f"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 936f"
-generated_at: "2026-03-30T02:53:42.297Z"
+generated_at: "2026-11-23T21:25:28.006Z"
+status: "active"
 ---
 
 # § 936f. Substantially underserved trust areas
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:42.297Z"
 - **(d)** Not later than 1 year after the date of enactment of this section and annually thereafter, the Secretary shall submit to Congress a report that describes—
   - **(1)** the progress of the initiative implemented under subsection (b); and
   - **(2)** recommendations for any regulatory or legislative changes that would be appropriate to improve services to substantially underserved trust areas.
+
+## Source Credit
+
+*(May 20, 1936, ch. 432, title III, § 306F, as added [Pub. L. 110–234, title VI, § 6105](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1196](https://www.govinfo.gov/link/statute/122/1196), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VI, § 6105, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1957.)*

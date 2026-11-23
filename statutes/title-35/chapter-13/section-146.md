@@ -3,12 +3,17 @@ title: "Section 146 - Civil action in case of derivation proceeding"
 usc_title: 35
 usc_section: "146"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "35 U.S.C. § 146"
-generated_at: "2026-03-30T02:55:34.237Z"
+generated_at: "2026-11-23T21:26:08.610Z"
+status: "active"
 ---
 
 # § 146. Civil action in case of derivation proceeding
 
 Any party to a derivation proceeding dissatisfied with the decision of the Patent Trial and Appeal Board on the derivation proceeding, may have remedy by civil action, if commenced within such time after such decision, not less than sixty days, as the Director appoints or as provided in section 141, unless he has appealed to the United States Court of Appeals for the Federal Circuit, and such appeal is pending or has been decided. In such suits the record in the Patent and Trademark Office shall be admitted on motion of either party upon the terms and conditions as to costs, expenses, and the further cross-examination of the witnesses as the court imposes, without prejudice to the right of the parties to take further testimony. The testimony and exhibits of the record in the Patent and Trademark Office when admitted shall have the same effect as if originally taken and produced in the suit. Such suit may be instituted against the party in interest as shown by the records of the Patent and Trademark Office at the time of the decision complained of, but any party in interest may become a party to the action. If there be adverse parties residing in a plurality of districts not embraced within the same state, or an adverse party residing in a foreign country, the United States District Court for the Eastern District of Virginia shall have jurisdiction and may issue summons against the adverse parties directed to the marshal of any district in which any adverse party resides. Summons against adverse parties residing in foreign countries may be served by publication or otherwise as the court directs. The Director shall not be a necessary party but he shall be notified of the filing of the suit by the clerk of the court in which it is filed and shall have the right to intervene. Judgment of the court in favor of the right of an applicant to a patent shall authorize the Director to issue such patent on the filing in the Patent and Trademark Office of a certified copy of the judgment and on compliance with the requirements of law.
 
+
+## Source Credit
+
+*(July 19, 1952, ch. 950, [66 Stat. 803](https://www.govinfo.gov/link/statute/66/803); [Pub. L. 93–596, § 1](https://www.govinfo.gov/link/plaw/93/public/596), Jan. 2, 1975, [88 Stat. 1949](https://www.govinfo.gov/link/statute/88/1949); [Pub. L. 97–164, title I, § 163(a)(7)](https://www.govinfo.gov/link/plaw/97/public/164), Apr. 2, 1982, [96 Stat. 49](https://www.govinfo.gov/link/statute/96/49); [Pub. L. 98–622, title II, § 203(c)](https://www.govinfo.gov/link/plaw/98/public/622), Nov. 8, 1984, [98 Stat. 3387](https://www.govinfo.gov/link/statute/98/3387); [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–582; [Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1906](https://www.govinfo.gov/link/statute/116/1906); [Pub. L. 112–29](https://www.govinfo.gov/link/plaw/112/public/29), §§ 3(j)(1), (2)(A), (4), 9(a), 20(j), Sept. 16, 2011, [125 Stat. 290](https://www.govinfo.gov/link/statute/125/290), 316, 335.)*

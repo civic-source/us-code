@@ -3,9 +3,10 @@ title: "Section 182 - Center for Excellence in Disaster Management and Humanitar
 usc_title: 10
 usc_section: "182"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 182"
-generated_at: "2026-03-30T02:53:38.044Z"
+generated_at: "2026-11-23T21:25:32.233Z"
+status: "active"
 ---
 
 # § 182. Center for Excellence in Disaster Management and Humanitarian Assistance
@@ -30,3 +31,15 @@ generated_at: "2026-03-30T02:53:38.044Z"
     - **(B)** the integrity of any program of the Department of Defense or of any person involved in such a program.
   - **(3)** The Secretary shall prescribe written guidance setting forth the criteria to be used in determining whether or not the acceptance of a foreign donation would have a result described in paragraph (2).
   - **(4)** Funds accepted by the Secretary under paragraph (1) as a donation on behalf of the Center shall be credited to appropriations available to the Department of Defense for the Center. Funds so credited shall be merged with the appropriations to which credited and shall be available for the Center for the same purposes and the same period as the appropriations with which merged.
+
+Establishment
+
+Missions
+
+Joint Operation With Educational Institution Authorized
+
+Acceptance of Donations
+
+## Source Credit
+
+*(Added [Pub. L. 105–85, div. A, title III, § 382(a)(1)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1709](https://www.govinfo.gov/link/statute/111/1709).)*

@@ -3,9 +3,10 @@ title: "Section 7503 - Advisory Panel"
 usc_title: 15
 usc_section: "7503"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7503"
-generated_at: "2026-03-30T02:54:08.224Z"
+generated_at: "2026-11-23T21:25:40.062Z"
+status: "active"
 ---
 
 # § 7503. Advisory Panel
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:08.224Z"
 - **(d)** Not later than 4 years after the date of the most recent assessment under subsection (c), and quadrennially thereafter, the Advisory Panel shall submit to the President, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Science, Space, and Technology of the House of Representatives a report its 1 1 So in original. assessments under subsection (c) and its recommendations for ways to improve the Program.
 - **(e)** Non-Federal members of the Advisory Panel, while attending meetings of the Advisory Panel or while otherwise serving at the request of the head of the Advisory Panel away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for individuals in the government serving without pay. Nothing in this subsection shall be construed to prohibit members of the Advisory Panel who are officers or employees of the United States from being allowed travel expenses, including per diem in lieu of subsistence, in accordance with existing law.
 - **(f)** Section 1013 of title 5 shall not apply to the Advisory Panel.
+
+## Source Credit
+
+*([Pub. L. 108–153, § 4](https://www.govinfo.gov/link/plaw/108/public/153), Dec. 3, 2003, [117 Stat. 1927](https://www.govinfo.gov/link/statute/117/1927); [Pub. L. 114–329, title II, § 204(b)(2)](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 2999](https://www.govinfo.gov/link/statute/130/2999); [Pub. L. 117–286, § 4(a)(78)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4314](https://www.govinfo.gov/link/statute/136/4314).)*

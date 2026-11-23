@@ -3,9 +3,10 @@ title: "Section 1693b - Regulations"
 usc_title: 15
 usc_section: "1693b"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1693b"
-generated_at: "2026-03-30T02:54:08.156Z"
+generated_at: "2026-11-23T21:25:39.887Z"
+status: "active"
 ---
 
 # § 1693b. Regulations
@@ -49,3 +50,21 @@ generated_at: "2026-03-30T02:54:08.156Z"
 - **(e)** No provision of this subchapter may be construed as altering, limiting, or otherwise affecting the deference that a court affords to—
   - **(1)** the Bureau in making determinations regarding the meaning or interpretation of any provision of this subchapter for which the Bureau has authority to prescribe regulations; or
   - **(2)** the Board in making determinations regarding the meaning or interpretation of section 1693 o –2 of this title.
+
+On the machine
+
+On the screen
+
+State and local government electronic benefit transfer programs.—
+
+Exemption generally
+
+Exception for direct deposit into recipient’s account
+
+Rule of construction
+
+Electronic benefit transfer program defined
+
+## Source Credit
+
+*([Pub. L. 90–321, title IX, § 904](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 95–630, title XX, § 2001](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3730](https://www.govinfo.gov/link/statute/92/3730); amended [Pub. L. 104–193, title VIII, § 891](https://www.govinfo.gov/link/plaw/104/public/193), title IX, § 907, Aug. 22, 1996, [110 Stat. 2346](https://www.govinfo.gov/link/statute/110/2346), 2350; [Pub. L. 106–102, title VII, § 702](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1463](https://www.govinfo.gov/link/statute/113/1463); [Pub. L. 111–203, title X](https://www.govinfo.gov/link/plaw/111/public/203), §§ 1073(a)(2), 1084(1), (3), July 21, 2010, [124 Stat. 2060](https://www.govinfo.gov/link/statute/124/2060), 2081; [Pub. L. 112–216, § 1](https://www.govinfo.gov/link/plaw/112/public/216), Dec. 20, 2012, [126 Stat. 1590](https://www.govinfo.gov/link/statute/126/1590).)*

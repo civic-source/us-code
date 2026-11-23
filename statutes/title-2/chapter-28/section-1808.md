@@ -3,9 +3,10 @@ title: "Section 1808 - Inspector General of the Architect of the Capitol"
 usc_title: 2
 usc_section: "1808"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1808"
-generated_at: "2026-03-30T02:53:04.817Z"
+generated_at: "2026-11-23T21:25:21.242Z"
+status: "active"
 ---
 
 # § 1808. Inspector General of the Architect of the Capitol
@@ -69,3 +70,17 @@ generated_at: "2026-03-30T02:53:04.817Z"
 - **(h)**
   - **(1)** Except as provided under paragraph (2), this section shall take effect 180 days after December 26, 2007 , and apply with respect to fiscal year 2008 and each fiscal year thereafter.
   - **(2)** Subsection (g) shall take effect on December 26, 2007 , and the Architect of the Capitol shall take such actions as necessary after December 26, 2007 , to carry out that subsection.
+
+(aa) is a citizen of the United States;
+
+(bb) has successfully completed a basic law enforcement training program or military or other equivalent; and
+
+(cc) is not prohibited from receiving a firearm under Federal law, including under section 922(g)(9) of title 18 , because of a conviction of a misdemeanor crime of domestic violence.
+
+(aa) determine whether an individual meets the requirements under this paragraph; and
+
+(bb) revoke any authority granted to an individual under subparagraph (A) if the individual is not in compliance with the requirements of this paragraph.
+
+## Source Credit
+
+*([Pub. L. 110–161, div. H, title I, § 1301](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2240](https://www.govinfo.gov/link/statute/121/2240); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537); [Pub. L. 116–94, div. P, title XVI](https://www.govinfo.gov/link/plaw/116/public/94), §§ 1602(b), 1603(b), 1604(b), 1605(b), Dec. 20, 2019, [133 Stat. 3210](https://www.govinfo.gov/link/statute/133/3210), 3214, 3218, 3219; [Pub. L. 117–286, § 4(b)(3)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4342](https://www.govinfo.gov/link/statute/136/4342).)*

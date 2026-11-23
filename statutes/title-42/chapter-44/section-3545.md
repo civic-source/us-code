@@ -3,9 +3,10 @@ title: "Section 3545 - HUD accountability"
 usc_title: 42
 usc_section: "3545"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3545"
-generated_at: "2026-03-30T02:56:11.189Z"
+generated_at: "2026-11-23T21:26:32.578Z"
+status: "active"
 ---
 
 # § 3545. HUD accountability
@@ -71,3 +72,15 @@ generated_at: "2026-03-30T02:56:11.189Z"
   - **(4)** The term “assistance within the jurisdiction of the Department” includes any contract, grant, loan, cooperative agreement, or other form of assistance, including the insurance or guarantee of a loan, mortgage, or pool of mortgages.
   - **(5)** The term “knowingly” means having actual knowledge of or acting with deliberate ignorance of or reckless disregard for the prohibitions under this section.
 - **(n)** This section shall take effect on the date specified in regulations implementing this section that are issued by the Secretary after notice and public comment.
+
+Certification of Subsidy Layering Compliance
+
+In Particular
+
+Revocation by Secretary
+
+Applicability
+
+## Source Credit
+
+*([Pub. L. 101–235, title I, § 102](https://www.govinfo.gov/link/plaw/101/public/235), Dec. 15, 1989, [103 Stat. 1990](https://www.govinfo.gov/link/statute/103/1990); [Pub. L. 110–289, div. B, title VIII, § 2834(a)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2869](https://www.govinfo.gov/link/statute/122/2869).)*

@@ -3,9 +3,10 @@ title: "Section 715 - Audit of accounts and operations of the District of Columb
 usc_title: 31
 usc_section: "715"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 715"
-generated_at: "2026-03-30T02:55:34.046Z"
+generated_at: "2026-11-23T21:26:10.527Z"
+status: "active"
 ---
 
 # § 715. Audit of accounts and operations of the District of Columbia government
@@ -17,3 +18,34 @@ generated_at: "2026-03-30T02:55:34.046Z"
   - **(2)** After the Council receives the statement of the Mayor, the Council may make available for public inspection the report of the Comptroller General and other material the Council considers pertinent.
 - **(d)** To carry out this section, records and property of or used by the District of Columbia government necessary to make an audit easier shall be made available to the Comptroller General. The Mayor shall provide facilities to carry out an audit.
 - **(e)** Not later than March 1 of each year, the Comptroller General shall submit to the Committee on the District of Columbia of the House of Representatives and the Subcommittee on General Services, Federalism, and the District of Columbia of the Committee on Governmental Affairs of the Senate a review of the report of the breakdown of the independently audited revenues of the District of Columbia for the preceding fiscal year by revenues derived from the Federal Government and revenues derived from sources other than the Federal Government that is included in the independent annual audit of the funds of the District of Columbia conducted for such fiscal year.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 715(a) | 31:61(a)(1st, 2d sentences). | Dec. 24, 1973 , Pub. L. 93–198, § 736 , 87 Stat. 823 . |
+| 715(b) | 31:61(b)(1). |  |
+| 715(c)(1) | 31:61(b)(3). |  |
+| 715(c)(2) | 31:61(b)(2). |  |
+| 715(d) | 31:61(a)(last sentence). |  |
+
+
+Historical and Revision Notes
+
+715(a)
+
+Dec. 24, 1973
+
+Pub. L. 93–198, § 736
+
+87 Stat. 823
+
+715(b)
+
+715(c)(1)
+
+715(c)(2)
+
+715(d)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 891](https://www.govinfo.gov/link/statute/96/891); [Pub. L. 102–102, § 2(c)(2)](https://www.govinfo.gov/link/plaw/102/public/102), Aug. 17, 1991, [105 Stat. 496](https://www.govinfo.gov/link/statute/105/496); [Pub. L. 105–33, title XI](https://www.govinfo.gov/link/plaw/105/public/33), §§ 11244(b), 11717(b), Aug. 5, 1997, [111 Stat. 754](https://www.govinfo.gov/link/statute/111/754), 786.)*

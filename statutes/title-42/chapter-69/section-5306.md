@@ -3,9 +3,10 @@ title: "Section 5306 - Allocation and distribution of funds"
 usc_title: 42
 usc_section: "5306"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5306"
-generated_at: "2026-03-30T02:56:11.229Z"
+generated_at: "2026-11-23T21:26:32.787Z"
+status: "active"
 ---
 
 # § 5306. Allocation and distribution of funds
@@ -56,13 +57,13 @@ generated_at: "2026-03-30T02:56:11.229Z"
   - **(2)** Notwithstanding any other provision of this chapter, the Secretary shall make grants from amounts authorized for use under subsection (b) by the Department of Housing and Urban Development—Independent Agencies Appropriation Act, 1981, in accordance with the provisions of this chapter which governed grants with respect to such amounts, as such provisions existed prior to October 1, 1981 , except that any such amounts which are not obligated before January 1, 1982 , shall be reallocated in accordance with paragraph (1).
   - **(3)** Notwithstanding the provisions of paragraph (1), the Secretary may upon request transfer responsibility to any metropolitan city for the administration of any amounts received, but not obligated, by the urban county in which such city is located if (A) such city was an included unit of general local government in such county prior to the qualification of such city as a metropolitan city; (B) such amounts were designated and received by such county for use in such city prior to the qualification of such city as a metropolitan city; and (C) such city and county agree to such transfer of responsibility for the administration of such amounts.
   - **(4)**
-    - **(A)** Notwithstanding paragraph (1), in the event of a major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act [ 42 U.S.C. 5121 et seq.], the Secretary shall make available, to metropolitan cities and urban counties located or partially located in the areas affected by the disaster, any amounts that become available as a result of actions under section 5304(e) or 5311 of this title.
+    - **(A)** Notwithstanding paragraph (1), in the event of a major disaster, the Secretary shall make available, to States for use in nonentitlement areas and to metropolitan cities and urban counties located or partially located in the areas affected by the major disaster, any amounts that become available as a result of actions under section 5304(e) or 5311 of this title.
     - **(B)** In using any amounts that become available as a result of actions under section 5304(e) or 5311 of this title, the Secretary shall give priority to providing emergency assistance under this paragraph.
-    - **(C)** The Secretary may provide assistance to any metropolitan city or urban county under this paragraph only to the extent necessary to meet emergency community development needs, as the Secretary shall determine (subject to subparagraph (D)), of the city or county resulting from the disaster that are not met with amounts otherwise provided under this chapter, the Robert T. Stafford Disaster Relief and Emergency Assistance Act [ 42 U.S.C. 5121 et seq.], and other sources of assistance.
-    - **(D)** Amounts provided to metropolitan cities and urban counties under this paragraph may be used only for eligible activities under section 5305 of this title , and in implementing this section, the Secretary shall evaluate the natural hazards to which any permanent replacement housing is exposed and shall take appropriate action to mitigate such hazards.
+    - **(C)** The Secretary may provide assistance to any State, metropolitan city, or urban county under this paragraph only to the extent necessary to meet emergency community development needs, as the Secretary shall determine (subject to subparagraph (D)), of the State, city, or county resulting from the major disaster that are not met with amounts otherwise provided under this chapter, the Robert T. Stafford Disaster Relief and Emergency Assistance Act [ 42 U.S.C. 5121 et seq.], and other sources of assistance.
+    - **(D)** Amounts provided to States, metropolitan cities, and urban counties under this paragraph may be used only for eligible activities under section 5305 of this title , and in implementing this section, the Secretary shall evaluate the natural hazards to which any permanent replacement housing is exposed and shall take appropriate action to mitigate such hazards.
     - **(E)** The Secretary shall provide for applications (or amended applications and statements under section 5304 of this title ) for assistance under this paragraph.
-    - **(F)** A metropolitan city or urban county eligible for assistance under this paragraph may receive such assistance only in each of the fiscal years ending during the 3-year period beginning on the date of the declaration of the disaster by the President.
-    - **(G)** This paragraph may not be construed to require the Secretary to reserve any amounts that become available as a result of actions under section 5304(e) or 5311 of this title for assistance under this paragraph if, when such amounts are to be reallocated under paragraph (1), no metropolitan city or urban county qualifies for assistance under this paragraph.
+    - **(F)** A State, metropolitan city, or urban county eligible for assistance under this paragraph may receive such assistance only in each of the fiscal years ending during the 3-year period beginning on the date of the declaration of the major disaster by the President.
+    - **(G)** This paragraph may not be construed to require the Secretary to reserve any amounts that become available as a result of actions under section 5304(e) or 5311 of this title for assistance under this paragraph if, when such amounts are to be reallocated under paragraph (1), no State, metropolitan city, or urban county qualifies for assistance under this paragraph.
 - **(d)**
   - **(1)** Of the amount approved in an appropriation Act under section 5303 of this title that remains after allocations pursuant to paragraphs (1), (2), and (3) of subsection (a), 30 per centum shall be allocated among the States for use in nonentitlement areas. The allocation for each State shall be the greater of an amount that bears the same ratio to the allocation for such areas of all States available under this subparagraph as either—
     - **(A)** the average of the ratios between—
@@ -102,3 +103,41 @@ generated_at: "2026-03-30T02:56:11.229Z"
   - **(8)** Any activities conducted with amounts received by a unit of general local government under this subsection shall be subject to the applicable provisions of this chapter and other Federal law in the same manner and to the same extent as activities conducted with amounts received by a unit of general local government under subsection (a).
 - **(e)** The Secretary may fix such qualification or submission dates as he determines are necessary to permit the computations and determinations required by this section to be made in a timely manner, and all such computations and determinations shall be final and conclusive.
 - **(f)** If the total amount available for distribution in any fiscal year to metropolitan cities and urban counties under this section is insufficient to provide the amounts to which metropolitan cities and urban counties would be entitled under subsection (b), and funds are not otherwise appropriated to meet the deficiency, the Secretary shall meet the deficiency through a pro rata reduction of all amounts determined under subsection (b). If the total amount available for distribution in any fiscal year to metropolitan cities and urban counties under this section exceeds the amounts to which metropolitan cities and urban counties would be entitled under subsection (b), the Secretary shall distribute the excess through a pro rata increase of all amounts determined under subsection (b).
+
+In general
+
+Grants in fiscal year 1990
+
+‘community development grants’
+
+Set-Aside for Colonias
+
+First fiscal year
+
+Succeeding fiscal years
+
+Eligible Activities
+
+Planning
+
+Assessments for public improvements
+
+Other improvements
+
+Distribution of Assistance
+
+Applicable Law
+
+Definitions
+
+Colonia
+
+Nonprofit organization
+
+Persons of low and moderate income
+
+United states-mexico border region
+
+## Source Credit
+
+*([Pub. L. 93–383, title I, § 106](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 642](https://www.govinfo.gov/link/statute/88/642); [Pub. L. 95–128, title I, § 106](https://www.govinfo.gov/link/plaw/95/public/128), Oct. 12, 1977, [91 Stat. 1117](https://www.govinfo.gov/link/statute/91/1117); [Pub. L. 96–153, title I, § 103(d)](https://www.govinfo.gov/link/plaw/96/public/153), (e), Dec. 21, 1979, [93 Stat. 1102](https://www.govinfo.gov/link/statute/93/1102); [Pub. L. 96–399, title I](https://www.govinfo.gov/link/plaw/96/public/399), §§ 102, 103, 111(d)–(g), 112, Oct. 8, 1980, [94 Stat. 1615](https://www.govinfo.gov/link/statute/94/1615), 1621, 1622; [Pub. L. 97–35, title III](https://www.govinfo.gov/link/plaw/97/public/35), §§ 304, 309(h), Aug. 13, 1981, [95 Stat. 388](https://www.govinfo.gov/link/statute/95/388), 396; [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title I, § 106], Nov. 30, 1983, [97 Stat. 1164](https://www.govinfo.gov/link/statute/97/1164); [Pub. L. 98–479, title I, § 101(a)(10)](https://www.govinfo.gov/link/plaw/98/public/479) –(12), Oct. 17, 1984, [98 Stat. 2219](https://www.govinfo.gov/link/statute/98/2219), 2220; [Pub. L. 100–242, title V](https://www.govinfo.gov/link/plaw/100/public/242), §§ 512, 513, 517(b)(1), Feb. 5, 1988, [101 Stat. 1930](https://www.govinfo.gov/link/statute/101/1930), 1936; [Pub. L. 100–628, title X, § 1082(b)](https://www.govinfo.gov/link/plaw/100/public/628), (c), Nov. 7, 1988, [102 Stat. 3277](https://www.govinfo.gov/link/statute/102/3277); [Pub. L. 101–235, title VII, § 702(b)](https://www.govinfo.gov/link/plaw/101/public/235), Dec. 15, 1989, [103 Stat. 2056](https://www.govinfo.gov/link/statute/103/2056); [Pub. L. 101–625, title IX](https://www.govinfo.gov/link/plaw/101/public/625), §§ 913(b), 933, Nov. 28, 1990, [104 Stat. 4392](https://www.govinfo.gov/link/statute/104/4392), 4403; [Pub. L. 102–550, title VIII](https://www.govinfo.gov/link/plaw/102/public/550), §§ 802(b), 808, 811, title XII, § 1204(i), Oct. 28, 1992, [106 Stat. 3845](https://www.govinfo.gov/link/statute/106/3845), 3850, 3940; [Pub. L. 108–186, title V, § 501(d)](https://www.govinfo.gov/link/plaw/108/public/186), (e), Dec. 16, 2003, [117 Stat. 2697](https://www.govinfo.gov/link/statute/117/2697); [Pub. L. 108–199, div. G, title IV, § 423](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 416](https://www.govinfo.gov/link/statute/118/416); [Pub. L. 119–101, title V, § 504(d)(2)](https://www.govinfo.gov/link/plaw/119/public/101) (, July 11, 2026, [140 Stat. 932](https://www.govinfo.gov/link/statute/140/932).)*

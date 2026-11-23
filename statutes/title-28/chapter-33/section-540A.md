@@ -3,9 +3,10 @@ title: "Section 540A - Investigation of violent crimes against travelers"
 usc_title: 28
 usc_section: "540A"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 540A"
-generated_at: "2026-03-30T02:55:30.132Z"
+generated_at: "2026-11-23T21:26:01.055Z"
+status: "active"
 ---
 
 # § 540A. Investigation of violent crimes against travelers
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:55:30.132Z"
   - **(1)** “felony crime of violence” means an offense punishable by more than one year in prison that has as an element the use, attempted use, or threatened use of physical force against the person of another.
   - **(2)** “State” means a State, the District of Columbia, and any commonwealth, territory, or possession of the United States.
   - **(3)** “traveler” means a victim of a crime of violence who is not a resident of the State in which the crime of violence occurred.
+
+In General
+
+Foreign Travelers
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title XXXII, § 320916(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2129](https://www.govinfo.gov/link/statute/108/2129); amended [Pub. L. 104–294, title VI, § 604(b)(21)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3507](https://www.govinfo.gov/link/statute/110/3507).)*

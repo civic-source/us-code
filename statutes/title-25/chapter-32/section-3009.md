@@ -3,9 +3,10 @@ title: "Section 3009 - Savings provision"
 usc_title: 25
 usc_section: "3009"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3009"
-generated_at: "2026-03-30T02:54:52.846Z"
+generated_at: "2026-11-23T21:25:54.681Z"
+status: "active"
 ---
 
 # § 3009. Savings provision
@@ -19,3 +20,7 @@ Nothing in this chapter shall be construed to—
   - **(3)** deny or otherwise affect access to any court;
   - **(4)** limit any procedural or substantive right which may otherwise be secured to individuals or Indian tribes or Native Hawaiian organizations; or
   - **(5)** limit the application of any State or Federal law pertaining to theft or stolen property.
+
+## Source Credit
+
+*([Pub. L. 101–601, § 11](https://www.govinfo.gov/link/plaw/101/public/601), Nov. 16, 1990, [104 Stat. 3057](https://www.govinfo.gov/link/statute/104/3057).)*

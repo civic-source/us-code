@@ -3,9 +3,10 @@ title: "Section 8513 - Mandatory sanctions with respect to financial institution
 usc_title: 22
 usc_section: "8513"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8513"
-generated_at: "2026-03-30T02:55:05.451Z"
+generated_at: "2026-11-23T21:25:58.740Z"
+status: "active"
 ---
 
 # § 8513. Mandatory sanctions with respect to financial institutions that engage in certain transactions
@@ -81,3 +82,11 @@ generated_at: "2026-03-30T02:55:05.451Z"
     - **(D)** The terms “foreign financial institution” and “domestic financial institution” shall have the meanings of those terms as determined by the Secretary of the Treasury.
     - **(E)** The term “money laundering” means the movement of illicit cash or cash equivalent proceeds into, out of, or through a country, or into, out of, or through a financial institution.
   - **(2)** The Secretary of the Treasury may further define the terms used in this section in the regulations prescribed under this section.
+
+In general
+
+Transaction described
+
+## Source Credit
+
+*([Pub. L. 111–195, title I, § 104](https://www.govinfo.gov/link/plaw/111/public/195), July 1, 2010, [124 Stat. 1331](https://www.govinfo.gov/link/statute/124/1331); [Pub. L. 112–158, title II](https://www.govinfo.gov/link/plaw/112/public/158), §§ 214(a), 215(a), title III, § 312(b), (c), Aug. 10, 2012, [126 Stat. 1231](https://www.govinfo.gov/link/statute/126/1231), 1249; [Pub. L. 116–283, div. F, title LXI, § 6110(e)(1)(A)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4563](https://www.govinfo.gov/link/statute/134/4563).)*

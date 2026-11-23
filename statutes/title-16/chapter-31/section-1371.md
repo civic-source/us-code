@@ -3,9 +3,10 @@ title: "Section 1371 - Moratorium on taking and importing marine mammals and mar
 usc_title: 16
 usc_section: "1371"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1371"
-generated_at: "2026-03-30T02:54:22.957Z"
+generated_at: "2026-11-23T21:25:51.860Z"
+status: "active"
 ---
 
 # § 1371. Moratorium on taking and importing marine mammals and marine mammal products
@@ -93,10 +94,30 @@ generated_at: "2026-03-30T02:54:22.957Z"
     - **(B)** For the purposes of this paragraph, the term—
       - **(i)** “Native inhabitant of Russia, Canada, or Greenland” means a person residing in Russia, Canada, or Greenland who is related by blood, is a member of the same clan or ethnological grouping, or shares a common heritage with an Indian, Aleut, or Eskimo residing in Alaska; and
       - **(ii)** “cultural exchange” means the sharing or exchange of ideas, information, gifts, clothing, or handicrafts between an Indian, Aleut, or Eskimo residing in Alaska and a Native inhabitant of Russia, Canada, or Greenland, including rendering of raw marine mammal parts as part of such exchange into clothing or handicrafts through carving, painting, sewing, or decorating.
-- **(b)** Except as provided in section 1379 of this title , the provisions of this chapter shall not apply with respect to the taking of any marine mammal by any Indian, Aleut, or Eskimo who resides in Alaska and who dwells on the coast of the North Pacific Ocean or the Arctic Ocean if such taking—
-  - **(1)** is for subsistence purposes; or
-  - **(2)** is done for purposes of creating and selling authentic native articles of handicrafts and clothing: Provided , That only authentic native articles of handicrafts and clothing may be sold in interstate commerce: And provided further , That any edible portion of marine mammals may be sold in native villages and towns in Alaska or for native consumption. For the purposes of this subsection, the term “authentic native articles of handicrafts and clothing” means items composed wholly or in some significant respect of natural materials, and which are produced, decorated, or fashioned in the exercise of traditional native handicrafts without the use of pantographs, multiple carvers, or other mass copying devices. Traditional native handicrafts include, but are not limited to weaving, carving, stitching, sewing, lacing, beading, drawing and painting; and
-  - **(3)** in each case, is not accomplished in a wasteful manner.
+- **(b)**
+  - **(1)** In this subsection:
+    - **(A)** The term “authentic Alaska Native article of handicrafts and clothing” means an item composed wholly, or in some significant respect, of natural materials and that is produced, decorated, or fashioned in the exercise of traditional Alaska Native handicrafts by an Alaska Native who resides in Alaska and who dwells on the coast of the North Pacific Ocean or the Arctic Ocean without the use of a pantograph, multiple carvers, or any other mass copying device.
+    - **(B)** The term “marine mammal ivory” includes a tooth or tusk from a walrus (Odobenus rosmarus) or a species of cetacean.
+    - **(C)** The term “traditional Alaska Native handicrafts” includes weaving, carving, stitching, sewing, lacing, beading, drawing, and painting.
+  - **(2)**
+    - **(A)** Except as provided in section 1379 of this title , the provisions of this chapter shall not apply with respect to the taking of any marine mammal by any Alaska Native who resides in Alaska and who dwells on the coast of the North Pacific Ocean or the Arctic Ocean if such taking—
+      - **(i)**
+        - **(I)** is for subsistence purposes; or
+        - **(II)** is done for purposes of creating and selling authentic Alaska Native articles of handicrafts and clothing; and
+      - **(ii)** in each case, is not accomplished in a wasteful manner.
+    - **(B)**
+      - **(i)** An item presented as an authentic Alaska Native article of handicrafts and clothing may be sold in interstate commerce only if it comports with the definition provided in paragraph (1)(A).
+      - **(ii)** Any edible portion of a marine mammal taken for the purpose of creating and selling authentic Alaska Native articles of handicrafts and clothing may be sold for native consumption or in a native village or town in Alaska.
+  - **(3)**
+    - **(A)** Notwithstanding paragraph (2), if, under this chapter, the Secretary determines any species or stock of marine mammal subject to taking by Alaska Natives to be depleted, the Secretary may prescribe regulations upon the taking of such marine mammals by any Alaska Native described in this subsection.
+    - **(B)** The regulations described in subparagraph (A) may be established with reference to species or stocks, geographical area, the season for taking, or any other factors related to the reason for establishing such regulations and consistent with the purposes of this chapter.
+    - **(C)** The regulations described in subparagraph (A) shall be prescribed after notice and hearing required by section 1373 of this subchapter and shall be removed as soon as the Secretary determines that the need for their imposition has disappeared.
+    - **(D)** In promulgating any regulation or making any assessment pursuant to a hearing or proceeding under this subsection or section 1386(b)(2) of this title , or in making any determination of depletion under this subsection or finding regarding unmitigable adverse impacts under subsection (a)(5) that affects stocks or persons to which this subsection applies, the Secretary shall demonstrate in writing (and make such writing publicly available on the website of the Secretary) that, in consideration of the whole record, including Indigenous knowledge, such regulation, assessment, determination, or finding is supported by substantial evidence.
+    - **(E)** The requirement under subparagraph (D) shall only be applicable in an action brought by one or more Alaska Native organizations representing persons to which this subsection applies.
+  - **(4)** No State shall prohibit the interstate commerce, importation, sale, offer for sale, transfer, trade, barter, possession, or possession with the intent to sell, transfer, trade, or barter of marine mammal ivory or marine mammal bone or baleen incorporated under this subchapter by an Alaska Native, into an authentic Alaska Native article of handicrafts and clothing.
+  - **(5)** Nothing in this subsection shall be construed to—
+    - **(A)** impact the rights of any Indian Tribe (as defined in section 5304 of title 25 ) in effect on June 12, 2026 ; or
+    - **(B)** undermine any government-to-government consultation or engagement.
 - **(c)** It shall not be a violation of this chapter to take a marine mammal if such taking is imminently necessary in self-defense or to save the life of a person in immediate danger, and such taking is reported to the Secretary within 48 hours. The Secretary may seize and dispose of any carcass.
 - **(d)** It shall not be a violation of this chapter to take a marine mammal if—
   - **(1)** such taking is imminently necessary to avoid serious injury, additional injury, or death to a marine mammal entangled in fishing gear or debris;
@@ -115,3 +136,11 @@ generated_at: "2026-03-30T02:54:22.957Z"
       - **(ii)** making a new determination that the additional exemption is necessary for national defense.
     - **(B)** Each additional exemption under this paragraph shall be effective for a period specified by the Secretary of Defense, of not more than 2 years.
   - **(4)** Not later than 30 days after issuing an exemption under paragraph (1) or an additional exemption under paragraph (3), the Secretary of Defense shall submit to the Committee on Armed Services of the House of Representatives and the Committee on Armed Services of the Senate notice describing the exemption and the reasons therefor. The notice may be provided in classified form if the Secretary of Defense determines that use of the classified form is necessary for reasons of national security.
+
+(aa) permissible methods of taking pursuant to such activity, and other means of effecting the least practicable adverse impact on such species or stock and its habitat, paying particular attention to rookeries, mating grounds, and areas of similar significance, and on the availability of such species or stock for subsistence uses; and
+
+(bb) requirements pertaining to the monitoring and reporting of such taking.
+
+## Source Credit
+
+*([Pub. L. 92–522, title I, § 101](https://www.govinfo.gov/link/plaw/92/public/522), Oct. 21, 1972, [86 Stat. 1029](https://www.govinfo.gov/link/statute/86/1029); [Pub. L. 93–205, § 13(e)(2)](https://www.govinfo.gov/link/plaw/93/public/205), Dec. 28, 1973, [87 Stat. 903](https://www.govinfo.gov/link/statute/87/903); [Pub. L. 97–58, § 2](https://www.govinfo.gov/link/plaw/97/public/58), Oct. 9, 1981, [95 Stat. 979](https://www.govinfo.gov/link/statute/95/979); [Pub. L. 98–364, title I, § 101](https://www.govinfo.gov/link/plaw/98/public/364), July 17, 1984, [98 Stat. 440](https://www.govinfo.gov/link/statute/98/440); [Pub. L. 99–659, title IV, § 411(a)](https://www.govinfo.gov/link/plaw/99/public/659), Nov. 14, 1986, [100 Stat. 3741](https://www.govinfo.gov/link/statute/100/3741); [Pub. L. 100–711](https://www.govinfo.gov/link/plaw/100/public/711), §§ 4(a), 5(c), (e)(1), Nov. 23, 1988, [102 Stat. 4765](https://www.govinfo.gov/link/statute/102/4765), 4769, 4771; [Pub. L. 101–627, title IX, § 901(g)](https://www.govinfo.gov/link/plaw/101/public/627), Nov. 28, 1990, [104 Stat. 4467](https://www.govinfo.gov/link/statute/104/4467); [Pub. L. 102–582, title I, § 103](https://www.govinfo.gov/link/plaw/102/public/582), title IV, § 401(b), Nov. 2, 1992, [106 Stat. 4903](https://www.govinfo.gov/link/statute/106/4903), 4909; [Pub. L. 103–238, § 4](https://www.govinfo.gov/link/plaw/103/public/238), Apr. 30, 1994, [108 Stat. 532](https://www.govinfo.gov/link/statute/108/532); [Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009](https://www.govinfo.gov/link/statute/110/3009), 3009–41; [Pub. L. 105–18, title II, § 2003](https://www.govinfo.gov/link/plaw/105/public/18), June 12, 1997, [111 Stat. 174](https://www.govinfo.gov/link/statute/111/174); [Pub. L. 105–42, § 4(a)](https://www.govinfo.gov/link/plaw/105/public/42) –(c), Aug. 15, 1997, [111 Stat. 1123](https://www.govinfo.gov/link/statute/111/1123), 1124; [Pub. L. 108–136, div. A, title III, § 319(b)](https://www.govinfo.gov/link/plaw/108/public/136), (c), Nov. 24, 2003, [117 Stat. 1434](https://www.govinfo.gov/link/statute/117/1434); [Pub. L. 115–232, div. A, title III, § 316](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1714](https://www.govinfo.gov/link/statute/132/1714); [Pub. L. 119–99, § 2](https://www.govinfo.gov/link/plaw/119/public/99), June 12, 2026, [140 Stat. 842](https://www.govinfo.gov/link/statute/140/842).)*

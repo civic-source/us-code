@@ -3,9 +3,10 @@ title: "Section 9594 - Department of the Air Force Military History Institute: f
 usc_title: 10
 usc_section: "9594"
 chapter: 967
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 9594"
-generated_at: "2026-03-30T02:53:38.261Z"
+generated_at: "2026-11-23T21:25:33.009Z"
+status: "active"
 ---
 
 # § 9594. Department of the Air Force Military History Institute: fee for providing historical information to the public
@@ -19,3 +20,17 @@ generated_at: "2026-03-30T02:53:38.261Z"
 - **(e)** In this section:
   - **(1)** The term “United States Department of the Air Force Military History Institute” means the archive for historical records and materials of the Air Force and the Space Force that the Secretary of the Air Force designates as the primary archive for such records and materials.
   - **(2)** The terms “officer of the United States” and “employee of the United States” have the meanings given the terms “officer” and “employee”, respectively, in sections 2104 and 2105, respectively, of title 5.
+
+Authority
+
+Exceptions
+
+Limitation on Amount
+
+Retention of Fees
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1085(c)(1)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–289; amended [Pub. L. 116–283, div. A, title IX, § 923(e)(8)(A)](https://www.govinfo.gov/link/plaw/116/public/283), (B), Jan. 1, 2021, [134 Stat. 3816](https://www.govinfo.gov/link/statute/134/3816).)*

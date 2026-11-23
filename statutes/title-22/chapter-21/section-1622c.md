@@ -3,9 +3,10 @@ title: "Section 1622c - Membership of Foreign Claims Settlement Commission of th
 usc_title: 22
 usc_section: "1622c"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1622c"
-generated_at: "2026-03-30T02:55:05.334Z"
+generated_at: "2026-11-23T21:25:58.404Z"
+status: "active"
 ---
 
 # § 1622c. Membership of Foreign Claims Settlement Commission of the United States
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.334Z"
 - **(b)** The other members of the Commission shall be appointed by the President, by and with the advice and consent of the Senate, and serve on a part-time basis, and be compensated on a per diem basis at a rate of compensation equivalent to the daily rate for level V of the Executive Schedule under section 5316 of title 5 for each day that such member is employed in the actual performance of official business of the Commission as may be directed by the Chairman. Each member shall be reimbursed for travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in Government service employed intermittently.
 - **(c)** The terms of Office of the Chairman and members of the Commission shall be for three years, except the Chairman and members first appointed after the enactment of this subsection shall be appointed to terms ending respectively September 30, 1982 , September 30, 1981 , and September 30, 1980 . The incumbent of any such office may continue to serve until a successor takes office.
 - **(d)** Notwithstanding the provisions of subsections (a), (b), and (c) of this section, members of the Foreign Claims Settlement Commission who are serving on March 14, 1980 , shall continue to serve in their same capacities until the expiration of the terms to which they were appointed.
+
+## Source Credit
+
+*([Pub. L. 96–209, title I, § 103](https://www.govinfo.gov/link/plaw/96/public/209), Mar. 14, 1980, [94 Stat. 96](https://www.govinfo.gov/link/statute/94/96).)*

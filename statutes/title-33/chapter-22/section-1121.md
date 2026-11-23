@@ -3,9 +3,10 @@ title: "Section 1121 - Congressional declaration of policy"
 usc_title: 33
 usc_section: "1121"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1121"
-generated_at: "2026-03-30T02:55:41.080Z"
+generated_at: "2026-11-23T21:26:11.355Z"
+status: "active"
 ---
 
 # § 1121. Congressional declaration of policy
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:41.080Z"
   - **(6)** The National Oceanic and Atmospheric Administration, through the national sea grant college program, offers the most suitable locus and means for such commitment and engagement through the promotion of activities that will result in greater such understanding, assessment, development, management, management, 1 1 So in original. utilization, and conservation of ocean, coastal, and Great Lakes resources. The most cost-effective way to promote such activities is through continued and increased Federal support of the establishment, development, management, and operation of programs and projects by sea grant colleges, sea grant institutes, and other institutions, including strong collaborations between Administration scientists and research and outreach personnel at academic institutions.
 - **(b)** The objective of this subchapter is to increase the understanding, assessment, development, management, utilization, and conservation of the Nation’s ocean, coastal, and Great Lakes resources by providing assistance to promote a strong educational base, responsive research and training activities, broad and prompt dissemination of knowledge and techniques, and multidisciplinary approaches to environmental problems.
 - **(c)** It is the purpose of the Congress to achieve the objective of this subchapter by extending and strengthening the national sea grant program, initially established in 1966, to promote integrated research, education, training, and extension services and activities in fields related to ocean, coastal, and Great Lakes resources.
+
+## Source Credit
+
+*([Pub. L. 89–454, title II, § 202](https://www.govinfo.gov/link/plaw/89/public/454), as added [Pub. L. 89–688, § 1](https://www.govinfo.gov/link/plaw/89/public/688), Oct. 15, 1966, [80 Stat. 998](https://www.govinfo.gov/link/statute/80/998); amended [Pub. L. 94–461, § 2](https://www.govinfo.gov/link/plaw/94/public/461), Oct. 8, 1976, [90 Stat. 1961](https://www.govinfo.gov/link/statute/90/1961); [Pub. L. 95–428, § 2(b)](https://www.govinfo.gov/link/plaw/95/public/428), Oct. 7, 1978, [92 Stat. 999](https://www.govinfo.gov/link/statute/92/999); [Pub. L. 100–220, title III](https://www.govinfo.gov/link/plaw/100/public/220), §§ 3103, 3104(b)(1)(A), (B), Dec. 29, 1987, [101 Stat. 1469](https://www.govinfo.gov/link/statute/101/1469), 1470; [Pub. L. 105–160, § 3](https://www.govinfo.gov/link/plaw/105/public/160), Mar. 6, 1998, [112 Stat. 21](https://www.govinfo.gov/link/statute/112/21); [Pub. L. 107–299, § 2](https://www.govinfo.gov/link/plaw/107/public/299), Nov. 26, 2002, [116 Stat. 2345](https://www.govinfo.gov/link/statute/116/2345); [Pub. L. 110–394, § 3](https://www.govinfo.gov/link/plaw/110/public/394), Oct. 13, 2008, [122 Stat. 4205](https://www.govinfo.gov/link/statute/122/4205).)*

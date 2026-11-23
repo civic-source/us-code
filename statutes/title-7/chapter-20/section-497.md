@@ -3,12 +3,17 @@ title: "Section 497 - Separability"
 usc_title: 7
 usc_section: "497"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 497"
-generated_at: "2026-03-30T02:53:42.285Z"
+generated_at: "2026-11-23T21:25:27.962Z"
+status: "active"
 ---
 
 # § 497. Separability
 
 If any provision of this chapter is declared unconstitutional or the applicability thereof to any person or circumstance is held invalid, the validity of the remainder of the chapter and the applicability of such provisions to other persons and circumstances shall not be affected thereby.
 
+
+## Source Credit
+
+*(Mar. 3, 1927, ch. 309, § 4, [44 Stat. 1356](https://www.govinfo.gov/link/statute/44/1356).)*

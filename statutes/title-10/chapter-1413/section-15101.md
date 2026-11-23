@@ -3,9 +3,10 @@ title: "Section 15101 - Officers in designated competitive categories"
 usc_title: 10
 usc_section: "15101"
 chapter: 1413
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 15101"
-generated_at: "2026-03-30T02:53:38.276Z"
+generated_at: "2026-11-23T21:25:33.069Z"
+status: "active"
 ---
 
 # § 15101. Officers in designated competitive categories
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:53:38.276Z"
   - **(2)** An explanation of the number of opportunities for consideration for promotion to each particular grade, and an estimate of promotion timing, within the competitive category.
   - **(3)** An estimate of the size of the promotion zone for each grade within the competitive category.
   - **(4)** A description of any other matters the Secretary considered in determining to designate the competitive category for purposes of this chapter.
+
+Authority to Designate Competitive Categories of Officers
+
+Limitation on Exercise of Authority
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title V, § 514(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 245](https://www.govinfo.gov/link/statute/137/245).)*

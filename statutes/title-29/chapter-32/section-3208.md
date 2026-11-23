@@ -3,9 +3,10 @@ title: "Section 3208 - Special provisions"
 usc_title: 29
 usc_section: "3208"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3208"
-generated_at: "2026-03-30T02:55:18.756Z"
+generated_at: "2026-11-23T21:26:02.343Z"
+status: "active"
 ---
 
 # § 3208. Special provisions
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:18.756Z"
 - **(e)** The Secretary shall provide each operator and (in an appropriate case, as determined by the Secretary) service provider with an equitable and negotiated management fee of not less than 1 percent of the amount of the funding provided under the appropriate agreement specified in section 3197 of this title .
 - **(f)** The Secretary may accept on behalf of the Job Corps or individual Job Corps centers charitable donations of cash or other assistance, including equipment and materials, if such donations are available for appropriate use for the purposes set forth in this part.
 - **(g)** Notwithstanding any other provision of law, if the Administrator of General Services sells a Job Corps center facility, the Administrator shall transfer the proceeds from the sale to the Secretary, who shall use the proceeds to carry out the Job Corps program.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 158](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1553](https://www.govinfo.gov/link/statute/128/1553).)*

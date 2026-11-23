@@ -3,9 +3,10 @@ title: "Section 4421 - Transfer of functions"
 usc_title: 20
 usc_section: "4421"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 4421"
-generated_at: "2026-03-30T02:54:48.184Z"
+generated_at: "2026-11-23T21:25:47.447Z"
+status: "active"
 ---
 
 # § 4421. Transfer of functions
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:48.184Z"
     - **(A)** the Institute shall be responsible for all obligations of the Institute incurred after June 2, 1988 , and
     - **(B)** the Secretary shall be responsible for all obligations of the Institute incurred on or before June 2, 1988 , including those which accrued by reason of any statutory, contractual, or other reason prior to June 2, 1988 , which became payable within two years of June 2, 1988 .
   - **(2)** With respect to all programs of the Federal Government, in whatever form or from whatever source derived, the Institute shall only be held responsible for actions and requirements, either administrative, regulatory, or statutory in nature, for events which occurred after July 1, 1988 , including the submission of reports, audits, and other required information. The United States may not seek any monetary damages or repayment for the commission of events, or omission to comply with either administrative or regulatory requirements, for any action which occurred prior to June 2, 1988 .
+
+## Source Credit
+
+*([Pub. L. 99–498, title XV, § 1514](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1608](https://www.govinfo.gov/link/statute/100/1608); [Pub. L. 100–153, § 8](https://www.govinfo.gov/link/plaw/100/public/153), Nov. 5, 1987, [101 Stat. 887](https://www.govinfo.gov/link/statute/101/887); [Pub. L. 100–297, title V, § 5406(d)](https://www.govinfo.gov/link/plaw/100/public/297), Apr. 28, 1988, [102 Stat. 418](https://www.govinfo.gov/link/statute/102/418); [Pub. L. 101–644, title V, § 503](https://www.govinfo.gov/link/plaw/101/public/644), Nov. 29, 1990, [104 Stat. 4669](https://www.govinfo.gov/link/statute/104/4669); [Pub. L. 102–325, title XIII, § 1331(f)](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 807](https://www.govinfo.gov/link/statute/106/807).)*

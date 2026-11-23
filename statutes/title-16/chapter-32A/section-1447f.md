@@ -3,9 +3,10 @@ title: "Section 1447f - Authorization of appropriations"
 usc_title: 16
 usc_section: "1447f"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1447f"
-generated_at: "2026-03-30T02:54:22.970Z"
+generated_at: "2026-11-23T21:25:51.884Z"
+status: "active"
 ---
 
 # § 1447f. Authorization of appropriations
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:22.970Z"
   - **(2)** Funds appropriated in a fiscal year which are available after allocation pursuant to paragraph (1), shall be used to support the administrative costs of Boards established pursuant to section 1447b(a) of this title , provided that such funding does not exceed $300,000 for each research Board in each fiscal year.
   - **(3)** Seventy-five percent of funds appropriated in a fiscal year available after allocation pursuant to paragraphs (1) and (2), shall be allocated equally among Boards located in regions submitting research project grant applications pursuant to section 1447d(b) of this title .
   - **(4)** Twenty-five percent of funds appropriated in a fiscal year available after allocation pursuant to paragraphs (1) and (2), shall be allocated among Boards located in regions submitting research project grant applications pursuant to section 1447d(b) of this title which, in the judgment of the Administrator of the National Oceanic and Atmospheric Administration, in consultation with the Administrator of the Environmental Protection Agency, propose the most needed and highest quality research.
+
+## Source Credit
+
+*([Pub. L. 92–532, title IV, § 407](https://www.govinfo.gov/link/plaw/92/public/532), as added [Pub. L. 101–593, title III, § 301](https://www.govinfo.gov/link/plaw/101/public/593), Nov. 16, 1990, [104 Stat. 2969](https://www.govinfo.gov/link/statute/104/2969).)*

@@ -3,9 +3,10 @@ title: "Section 2258E - Definitions"
 usc_title: 18
 usc_section: "2258E"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2258E"
-generated_at: "2026-03-30T02:54:16.499Z"
+generated_at: "2026-11-23T21:25:44.129Z"
+status: "active"
 ---
 
 # § 2258E. Definitions
@@ -20,3 +21,7 @@ In sections 2258A through 2258E—
   - **(6)** the term “provider” means an electronic communication service provider or remote computing service;
   - **(7)** the term “NCMEC” means the National Center for Missing & Exploited Children; and
   - **(8)** the term “website” means any collection of material placed in a computer server-based file archive so that it is publicly accessible, over the Internet, using hypertext transfer protocol or any successor protocol.
+
+## Source Credit
+
+*(Added [Pub. L. 110–401, title V, § 501(a)](https://www.govinfo.gov/link/plaw/110/public/401), Oct. 13, 2008, [122 Stat. 4250](https://www.govinfo.gov/link/statute/122/4250); amended [Pub. L. 115–395, § 6](https://www.govinfo.gov/link/plaw/115/public/395), Dec. 21, 2018, [132 Stat. 5294](https://www.govinfo.gov/link/statute/132/5294).)*

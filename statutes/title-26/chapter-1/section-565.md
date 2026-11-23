@@ -3,9 +3,10 @@ title: "Section 565 - Consent dividends"
 usc_title: 26
 usc_section: "565"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 565"
-generated_at: "2026-03-30T02:55:27.719Z"
+generated_at: "2026-11-23T21:26:06.340Z"
+status: "active"
 ---
 
 # § 565. Consent dividends
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:27.719Z"
 - **(f)**
   - **(1)** Consent stock, for purposes of this section, means the class or classes of stock entitled, after the payment of preferred dividends, to a share in the distribution (other than in complete or partial liquidation) within the taxable year of all the remaining earnings and profits, which share constitutes the same proportion of such distribution regardless of the amount of such distribution.
   - **(2)** Preferred dividends, for purposes of this section, means a distribution (other than in complete or partial liquidation), limited in amount, which must be made on any class of stock before a further distribution (other than in complete or partial liquidation) of earnings and profits may be made within the taxable year.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 200; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834).)*

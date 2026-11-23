@@ -3,9 +3,10 @@ title: "Section 11211 - Authority to make grants"
 usc_title: 34
 usc_section: "11211"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 11211"
-generated_at: "2026-03-30T02:55:33.278Z"
+generated_at: "2026-11-23T21:26:09.704Z"
+status: "active"
 ---
 
 # § 11211. Authority to make grants
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:33.278Z"
     - **(B)** For fiscal years 2009 and 2010, the amount allotted under paragraph (1) with respect to a State for a fiscal year shall be not less than the amount allotted under paragraph (1) with respect to such State for fiscal year 2008.
     - **(C)** Whenever the Secretary determines that any part of the amount allotted under paragraph (1) to a State for a fiscal year will not be obligated before the end of the fiscal year, the Secretary shall reallot such part to the remaining States for obligation for the fiscal year.
   - **(3)** In selecting among applicants for grants under subsection (a), the Secretary shall give priority to private entities that have experience in providing the services described in such subsection.
+
+## Source Credit
+
+*([Pub. L. 93–415, title III, § 311](https://www.govinfo.gov/link/plaw/93/public/415), Sept. 7, 1974, [88 Stat. 1130](https://www.govinfo.gov/link/statute/88/1130); [Pub. L. 95–115, § 7(a)(1)](https://www.govinfo.gov/link/plaw/95/public/115), Oct. 3, 1977, [91 Stat. 1058](https://www.govinfo.gov/link/statute/91/1058); [Pub. L. 96–509, § 18(c)](https://www.govinfo.gov/link/plaw/96/public/509), Dec. 8, 1980, [94 Stat. 2762](https://www.govinfo.gov/link/statute/94/2762); [Pub. L. 98–473, title II, § 651](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2123](https://www.govinfo.gov/link/statute/98/2123); [Pub. L. 100–690, title VII, § 7271(a)](https://www.govinfo.gov/link/plaw/100/public/690), (b), Nov. 18, 1988, [102 Stat. 4452](https://www.govinfo.gov/link/statute/102/4452); [Pub. L. 102–586, § 3(b)](https://www.govinfo.gov/link/plaw/102/public/586), Nov. 4, 1992, [106 Stat. 5018](https://www.govinfo.gov/link/statute/106/5018); [Pub. L. 106–71, § 3(b)](https://www.govinfo.gov/link/plaw/106/public/71), Oct. 12, 1999, [113 Stat. 1035](https://www.govinfo.gov/link/statute/113/1035); [Pub. L. 108–96, title I](https://www.govinfo.gov/link/plaw/108/public/96), §§ 103, 104, Oct. 10, 2003, [117 Stat. 1168](https://www.govinfo.gov/link/statute/117/1168); [Pub. L. 110–378, § 3(a)](https://www.govinfo.gov/link/plaw/110/public/378), Oct. 8, 2008, [122 Stat. 4068](https://www.govinfo.gov/link/statute/122/4068).)*

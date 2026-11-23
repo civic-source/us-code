@@ -3,9 +3,10 @@ title: "Section 5321 - Employees of Members of House of Representatives"
 usc_title: 2
 usc_section: "5321"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 5321"
-generated_at: "2026-03-30T02:53:04.836Z"
+generated_at: "2026-11-23T21:25:21.326Z"
+status: "active"
 ---
 
 # § 5321. Employees of Members of House of Representatives
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:04.836Z"
   - **(4)** the term “temporary employee” means, with respect to a Member of the House of Representatives, an individual who is employed for a specific purpose or task and who is employed for not more than 90 days in a 12-month period, except that the term of such employment may be extended with the written approval of the Committee on House Oversight; and
   - **(5)** the term “shared employee” means an employee who is paid by more than one employing authority of the House of Representatives.
 - **(d)** The Committee on House Oversight shall have authority to prescribe regulations to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 104–186, title I, § 104](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1720](https://www.govinfo.gov/link/statute/110/1720); [Pub. L. 105–55, title I, § 104(a)](https://www.govinfo.gov/link/plaw/105/public/55), Oct. 7, 1997, [111 Stat. 1183](https://www.govinfo.gov/link/statute/111/1183); [Pub. L. 106–57, title I, § 103(b)](https://www.govinfo.gov/link/plaw/106/public/57), Sept. 29, 1999, [113 Stat. 416](https://www.govinfo.gov/link/statute/113/416).)*

@@ -3,9 +3,10 @@ title: "Section 1313 - Examination of application and issue or refusal of regist
 usc_title: 17
 usc_section: "1313"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 1313"
-generated_at: "2026-03-30T02:54:15.357Z"
+generated_at: "2026-11-23T21:25:41.740Z"
+status: "active"
 ---
 
 # § 1313. Examination of application and issue or refusal of registration
@@ -13,3 +14,13 @@ generated_at: "2026-03-30T02:54:15.357Z"
 - **(a)** Upon the filing of an application for registration in proper form under section 1310, and upon payment of the fee prescribed under section 1316, the Administrator shall determine whether or not the application relates to a design which on its face appears to be subject to protection under this chapter, and, if so, the Register shall register the design. Registration under this subsection shall be announced by publication. The date of registration shall be the date of publication.
 - **(b)** If, in the judgment of the Administrator, the application for registration relates to a design which on its face is not subject to protection under this chapter, the Administrator shall send to the applicant a notice of refusal to register and the grounds for the refusal. Within 3 months after the date on which the notice of refusal is sent, the applicant may, by written request, seek reconsideration of the application. After consideration of such a request, the Administrator shall either register the design or send to the applicant a notice of final refusal to register.
 - **(c)** Any person who believes he or she is or will be damaged by a registration under this chapter may, upon payment of the prescribed fee, apply to the Administrator at any time to cancel the registration on the ground that the design is not subject to protection under this chapter, stating the reasons for the request. Upon receipt of an application for cancellation, the Administrator shall send to the owner of the design, as shown in the records of the Office of the Administrator, a notice of the application, and the owner shall have a period of 3 months after the date on which such notice is mailed in which to present arguments to the Administrator for support of the validity of the registration. The Administrator shall also have the authority to establish, by regulation, conditions under which the opposing parties may appear and be heard in support of their arguments. If, after the periods provided for the presentation of arguments have expired, the Administrator determines that the applicant for cancellation has established that the design is not subject to protection under this chapter, the Administrator shall order the registration stricken from the record. Cancellation under this subsection shall be announced by publication, and notice of the Administrator’s final determination with respect to any application for cancellation shall be sent to the applicant and to the owner of record. Costs of the cancellation procedure under this subsection shall be borne by the nonprevailing party or parties, and the Administrator shall have the authority to assess and collect such costs.
+
+Determination of Registrability of Design; Registration
+
+Refusal To Register; Reconsideration
+
+Application To Cancel Registration
+
+## Source Credit
+
+*(Added [Pub. L. 105–304, title V, § 502](https://www.govinfo.gov/link/plaw/105/public/304), Oct. 28, 1998, [112 Stat. 2911](https://www.govinfo.gov/link/statute/112/2911); amended [Pub. L. 106–113, div. B, § 1000(a)(9) [title V, § 5005(a)(4)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–594.)*

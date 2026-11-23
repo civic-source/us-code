@@ -3,9 +3,10 @@ title: "Section 959 - Exclusion from gross income of previously taxed earnings a
 usc_title: 26
 usc_section: "959"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 959"
-generated_at: "2026-03-30T02:55:27.750Z"
+generated_at: "2026-11-23T21:26:06.443Z"
+status: "active"
 ---
 
 # § 959. Exclusion from gross income of previously taxed earnings and profits
@@ -25,3 +26,17 @@ generated_at: "2026-03-30T02:55:27.750Z"
 - **(f)**
   - **(1)** For purposes of this section, amounts that would be included under subparagraph (B) of section 951(a)(1) (determined without regard to this section) shall be treated as attributable first to earnings described in subsection (c)(2), and then to earnings described in subsection (c)(3).
   - **(2)** In applying this section, actual distributions shall be taken into account before amounts that would be included under section 951(a)(1)(B) (determined without regard to this section).
+
+Subsections
+
+and
+
+Election of earlier date for certain transactions.—
+
+In general
+
+Election.—
+
+## Source Credit
+
+*(Added [Pub. L. 87–834, § 12(a)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 1019](https://www.govinfo.gov/link/statute/76/1019); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 98–369, div. A, title I, § 133(b)(1)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 668](https://www.govinfo.gov/link/statute/98/668); [Pub. L. 99–514, title XII, § 1226(b)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2560](https://www.govinfo.gov/link/statute/100/2560); [Pub. L. 100–647, title I, § 1012(bb)(7)(A)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3536](https://www.govinfo.gov/link/statute/102/3536); [Pub. L. 103–66, title XIII, § 13231(c)(1)](https://www.govinfo.gov/link/plaw/103/public/66), (2), (4)(A), (B), Aug. 10, 1993, [107 Stat. 497](https://www.govinfo.gov/link/statute/107/497), 498; [Pub. L. 104–188, title I, § 1501(b)(4)](https://www.govinfo.gov/link/plaw/104/public/188) –(8), Aug. 20, 1996, [110 Stat. 1826](https://www.govinfo.gov/link/statute/110/1826); [Pub. L. 115–97, title I, § 14301(c)(32)](https://www.govinfo.gov/link/plaw/115/public/97), (33), Dec. 22, 2017, [131 Stat. 2224](https://www.govinfo.gov/link/statute/131/2224).)*

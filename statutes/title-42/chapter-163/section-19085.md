@@ -3,9 +3,10 @@ title: "Section 19085 - National secure data service"
 usc_title: 42
 usc_section: "19085"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19085"
-generated_at: "2026-03-30T02:56:11.539Z"
+generated_at: "2026-11-23T21:26:33.868Z"
+status: "active"
 ---
 
 # § 19085. National secure data service
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.539Z"
   - **(3)** an assessment of the effectiveness of the demonstration project for mitigating risks and removing barriers to a sustained implementation of the National Secure Data Service as recommended by the Commission on Evidence-Based Policymaking; and
   - **(4)** if deemed effective by the Director, a plan for scaling up the demonstration project to facilitate data access for evidence building while ensuring transparency and privacy.
 - **(i)** There are authorized to be appropriated to the Director to carry out this subsection $9,000,000 for each of fiscal years 2023 through 2027.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10375](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1574](https://www.govinfo.gov/link/statute/136/1574).)*

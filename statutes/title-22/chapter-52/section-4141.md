@@ -3,12 +3,17 @@ title: "Section 4141 - Statement of policy; objectives"
 usc_title: 22
 usc_section: "4141"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4141"
-generated_at: "2026-03-30T02:55:05.408Z"
+generated_at: "2026-11-23T21:25:58.632Z"
+status: "active"
 ---
 
 # § 4141. Statement of policy; objectives
 
 - **(a)** Consistent with the findings of section 3901 of this title , the Foreign Service of the United States should be representative of the American people. In order to facilitate and encourage the entry into the Foreign Service of individuals who meet the rigorous requirements of the Service, while ensuring a Foreign Service system which reflects the cultural and ethnic diversity of the United States, intensive recruitment efforts are mandated. This is particularly true for Native Americans, African Americans, and Hispanic Americans, where other affirmative action and equal opportunity efforts have not been successful in attracting the ablest applicants for entry into the Foreign Service. The United States remains committed to equal opportunity and to a Foreign Service system operated on the basis of merit principles.
 - **(b)** The objective of this subchapter is to strengthen and improve the Foreign Service of the United States through the establishment of a Foreign Service Internship Program. The program shall promote the Foreign Service as a viable and rewarding career opportunity for qualified individuals who reflect the cultural and ethnic diversity of the United States through a highly selective internship program for students enrolled in institutions of higher education.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 1201](https://www.govinfo.gov/link/plaw/96/public/465), as added [Pub. L. 101–246, title I, § 149(b)](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 39](https://www.govinfo.gov/link/statute/104/39).)*

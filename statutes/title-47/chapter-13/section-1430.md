@@ -3,9 +3,10 @@ title: "Section 1430 - Annual report to Congress"
 usc_title: 47
 usc_section: "1430"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1430"
-generated_at: "2026-03-30T02:56:24.534Z"
+generated_at: "2026-11-23T21:26:36.100Z"
+status: "active"
 ---
 
 # § 1430. Annual report to Congress
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:24.534Z"
   - **(1)** the report required under subsection (a);
   - **(2)** the report of any audit conducted under section 1429 1 1 See References in Text note below. of this title; or
   - **(3)** any other matter which such committees may determine appropriate.
+
+## Source Credit
+
+*([Pub. L. 112–96, title VI, § 6210](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 217](https://www.govinfo.gov/link/statute/126/217).)*

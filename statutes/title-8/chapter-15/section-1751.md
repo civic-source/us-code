@@ -3,9 +3,10 @@ title: "Section 1751 - Study of the feasibility of a North American National Sec
 usc_title: 8
 usc_section: "1751"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1751"
-generated_at: "2026-03-30T02:53:10.508Z"
+generated_at: "2026-11-23T21:25:25.217Z"
+status: "active"
 ---
 
 # § 1751. Study of the feasibility of a North American National Security Program
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:10.508Z"
   - **(3)** A determination of the measures necessary to ensure that the conditions required by section 1225a(a)(5) of this title are satisfied, including consultation with experts recognized for their expertise regarding the conditions required by that section.
 - **(c)** Not later than 1 year after May 14, 2002 , the President shall submit to the appropriate committees of Congress a report setting forth the findings of the study conducted under subsection (a).
 - **(d)** There are authorized to be appropriated such sums as may be necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 107–173, title IV, § 401](https://www.govinfo.gov/link/plaw/107/public/173), May 14, 2002, [116 Stat. 557](https://www.govinfo.gov/link/statute/116/557).)*

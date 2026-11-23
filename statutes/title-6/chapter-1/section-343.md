@@ -3,9 +3,10 @@ title: "Section 343 - Chief Information Officer"
 usc_title: 6
 usc_section: "343"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 343"
-generated_at: "2026-03-30T02:53:09.461Z"
+generated_at: "2026-11-23T21:25:25.784Z"
+status: "active"
 ---
 
 # § 343. Chief Information Officer
@@ -41,3 +42,9 @@ generated_at: "2026-03-30T02:53:09.461Z"
         - **(I)** fund the creation of geospatial data; and
         - **(II)** execute information sharing agreements regarding geospatial data with State, local, and tribal governments.
   - **(3)** There are authorized to be appropriated such sums as may be necessary to carry out this subsection for each fiscal year.
+
+“Congress makes the following findings:
+
+## Source Credit
+
+*([Pub. L. 107–296, title VII, § 703](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2219](https://www.govinfo.gov/link/statute/116/2219); [Pub. L. 108–458, title VIII, § 8201(b)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3865](https://www.govinfo.gov/link/statute/118/3865).)*

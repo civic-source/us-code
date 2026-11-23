@@ -3,9 +3,10 @@ title: "Section 10102 - Authorization of imposition of sanctions"
 usc_title: 22
 usc_section: "10102"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10102"
-generated_at: "2026-03-30T02:55:05.475Z"
+generated_at: "2026-11-23T21:25:58.793Z"
+status: "active"
 ---
 
 # § 10102. Authorization of imposition of sanctions
@@ -53,3 +54,9 @@ generated_at: "2026-03-30T02:55:05.475Z"
 - **(j)** In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate; and
   - **(2)** the Committee on Financial Services and the Committee on Foreign Affairs of the House of Representatives.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 114–328, div. A, title XII, § 1263](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2534](https://www.govinfo.gov/link/statute/130/2534).)*

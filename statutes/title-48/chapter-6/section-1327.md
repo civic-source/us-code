@@ -3,9 +3,10 @@ title: "Section 1327 - Omitted"
 usc_title: 48
 usc_section: "1327"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1327"
-generated_at: "2026-03-30T02:56:14.583Z"
+generated_at: "2026-11-23T21:26:37.980Z"
+status: "omitted"
 ---
 
 # §§ 1325a to 1327. Omitted

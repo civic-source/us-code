@@ -3,9 +3,10 @@ title: "Section 7706 - Authorization of appropriations"
 usc_title: 42
 usc_section: "7706"
 chapter: 86
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7706"
-generated_at: "2026-03-30T02:56:11.330Z"
+generated_at: "2026-11-23T21:26:33.171Z"
+status: "active"
 ---
 
 # § 7706. Authorization of appropriations
@@ -80,3 +81,7 @@ generated_at: "2026-03-30T02:56:11.330Z"
     - **(H)** $5,900,000 for fiscal year 2021,
     - **(I)** $5,900,000 for fiscal year 2022, and
     - **(J)** $5,900,000 for fiscal year 2023. 4 4 So in original. The period probably should be a comma.
+
+## Source Credit
+
+*([Pub. L. 95–124, § 12](https://www.govinfo.gov/link/plaw/95/public/124), formerly § 7, Oct. 7, 1977, [91 Stat. 1102](https://www.govinfo.gov/link/statute/91/1102); [Pub. L. 96–472, title I, § 103](https://www.govinfo.gov/link/plaw/96/public/472), Oct. 19, 1980, [94 Stat. 2259](https://www.govinfo.gov/link/statute/94/2259); [Pub. L. 97–80, title I, § 101](https://www.govinfo.gov/link/plaw/97/public/80), Nov. 20, 1981, [95 Stat. 1081](https://www.govinfo.gov/link/statute/95/1081); [Pub. L. 97–464, title I, § 101](https://www.govinfo.gov/link/plaw/97/public/464), Jan. 12, 1983, [96 Stat. 2533](https://www.govinfo.gov/link/statute/96/2533); [Pub. L. 98–241, title I, § 101](https://www.govinfo.gov/link/plaw/98/public/241), Mar. 22, 1984, [98 Stat. 95](https://www.govinfo.gov/link/statute/98/95); [Pub. L. 99–105](https://www.govinfo.gov/link/plaw/99/public/105), §§ 1–4, Sept. 30, 1985, [99 Stat. 475](https://www.govinfo.gov/link/statute/99/475); [Pub. L. 100–252, § 1](https://www.govinfo.gov/link/plaw/100/public/252), Feb. 29, 1988, [102 Stat. 18](https://www.govinfo.gov/link/statute/102/18); [Pub. L. 100–418, title V, § 5115(c)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1433](https://www.govinfo.gov/link/statute/102/1433); renumbered § 12 and amended [Pub. L. 101–614](https://www.govinfo.gov/link/plaw/101/public/614), §§ 7(1), 12, Nov. 16, 1990, [104 Stat. 3236](https://www.govinfo.gov/link/statute/104/3236), 3240; [Pub. L. 103–374, § 1](https://www.govinfo.gov/link/plaw/103/public/374), Oct. 19, 1994, [108 Stat. 3492](https://www.govinfo.gov/link/statute/108/3492); [Pub. L. 105–47, § 1](https://www.govinfo.gov/link/plaw/105/public/47), Oct. 1, 1997, [111 Stat. 1159](https://www.govinfo.gov/link/statute/111/1159); [Pub. L. 106–503, title II](https://www.govinfo.gov/link/plaw/106/public/503), §§ 202(a), (b), (d), (e), 203, Nov. 13, 2000, [114 Stat. 2304](https://www.govinfo.gov/link/statute/114/2304), 2305; [Pub. L. 108–360, title I, § 104(a)](https://www.govinfo.gov/link/plaw/108/public/360), Oct. 25, 2004, [118 Stat. 1674](https://www.govinfo.gov/link/statute/118/1674); [Pub. L. 109–295, title VI, § 612(c)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1410](https://www.govinfo.gov/link/statute/120/1410); [Pub. L. 115–307](https://www.govinfo.gov/link/plaw/115/public/307), §§ 2(c)(1)(B), 7, 8(b)(2), Dec. 11, 2018, [132 Stat. 4409](https://www.govinfo.gov/link/statute/132/4409), 4416, 4417.)*

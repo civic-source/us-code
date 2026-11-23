@@ -3,9 +3,10 @@ title: "Section 1098 - Advisory Committee on Student Financial Assistance"
 usc_title: 20
 usc_section: "1098"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1098"
-generated_at: "2026-03-30T02:54:48.138Z"
+generated_at: "2026-11-23T21:25:47.217Z"
+status: "active"
 ---
 
 # § 1098. Advisory Committee on Student Financial Assistance
@@ -107,3 +108,7 @@ generated_at: "2026-03-30T02:54:48.138Z"
   - **(5)**
     - **(A)** The Advisory Committee shall prepare and submit to the authorizing committees and the Secretary an interim report, not later than one year after August 14, 2008 , describing the progress made in conducting the study required by this subsection and any preliminary findings on the topics identified under paragraph (2).
     - **(B)** The Advisory Committee shall, not later than three years after August 14, 2008 , prepare and submit to the authorizing committees and the Secretary a final report on the study, including recommendations for legislative, regulatory, and administrative changes based on findings related to the topics identified under paragraph (2).
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 491](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 407(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1492](https://www.govinfo.gov/link/statute/100/1492); amended [Pub. L. 100–50, § 15(16)](https://www.govinfo.gov/link/plaw/100/public/50) –(18), June 3, 1987, [101 Stat. 357](https://www.govinfo.gov/link/statute/101/357); [Pub. L. 102–325, title IV, § 496](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 631](https://www.govinfo.gov/link/statute/106/631); [Pub. L. 103–208, § 2(h)(45)](https://www.govinfo.gov/link/plaw/103/public/208), (46), Dec. 20, 1993, [107 Stat. 2478](https://www.govinfo.gov/link/statute/107/2478); [Pub. L. 105–244, title IV, § 490C](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1754](https://www.govinfo.gov/link/statute/112/1754); [Pub. L. 110–315, title IV, § 494C](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3319](https://www.govinfo.gov/link/statute/122/3319); [Pub. L. 111–39, title IV, § 407(b)(11)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1953](https://www.govinfo.gov/link/statute/123/1953); [Pub. L. 113–174, § 2](https://www.govinfo.gov/link/plaw/113/public/174), Sept. 26, 2014, [128 Stat. 1900](https://www.govinfo.gov/link/statute/128/1900); [Pub. L. 117–286, § 4(a)(147)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4322](https://www.govinfo.gov/link/statute/136/4322).)*

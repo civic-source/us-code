@@ -3,9 +3,10 @@ title: "Section 413 - Collectively bargained plans, etc."
 usc_title: 26
 usc_section: "413"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 413"
-generated_at: "2026-03-30T02:55:27.684Z"
+generated_at: "2026-11-23T21:26:06.216Z"
+status: "active"
 ---
 
 # § 413. Collectively bargained plans, etc.
@@ -75,3 +76,13 @@ generated_at: "2026-03-30T02:55:27.684Z"
       - **(iii)** identifying appropriate cases to which the rules of paragraph (2)(A) will apply to employers in the plan failing to take the actions described in paragraph (1).
     - **(B)** An employer or pooled plan provider shall not be treated as failing to meet a requirement of guidance issued by the Secretary under this paragraph if, before the issuance of such guidance, the employer or pooled plan provider complies in good faith with a reasonable interpretation of the provisions of this subsection to which such guidance relates.
   - **(5)** The Secretary shall publish model plan language which meets the requirements of this subsection and of paragraphs (43) and (44) of section 3 of the Employee Retirement Income Security Act of 1974 and which may be adopted in order for a plan to be treated as a plan described in paragraph (1)(B).
+
+Plan notifications
+
+Model plans for multiple employer 403(b) plans
+
+Educational outreach to employers exempt from tax
+
+## Source Credit
+
+*(Added [Pub. L. 93–406, title II, § 1014](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 924](https://www.govinfo.gov/link/statute/88/924); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 96–364, title II, § 208(d)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1290](https://www.govinfo.gov/link/statute/94/1290); [Pub. L. 100–647, title I, § 1011(h)(10)](https://www.govinfo.gov/link/plaw/100/public/647), title VI, § 6058(a)–(c), Nov. 10, 1988, [102 Stat. 3466](https://www.govinfo.gov/link/statute/102/3466), 3698, 3699; [Pub. L. 101–508, title XI, § 11704(a)(4)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–518](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 113–97, title II, § 202(b)](https://www.govinfo.gov/link/plaw/113/public/97), Apr. 7, 2014, [128 Stat. 1134](https://www.govinfo.gov/link/statute/128/1134); [Pub. L. 115–141, div. U, title IV, § 401(a)(86)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1188](https://www.govinfo.gov/link/statute/132/1188); [Pub. L. 116–94, div. O, title I, § 101(a)(1)](https://www.govinfo.gov/link/plaw/116/public/94), (2), Dec. 20, 2019, [133 Stat. 3138](https://www.govinfo.gov/link/statute/133/3138), 3141.)*

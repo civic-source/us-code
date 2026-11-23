@@ -3,9 +3,10 @@ title: "Section 8772 - Dairy forward pricing program"
 usc_title: 7
 usc_section: "8772"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 8772"
-generated_at: "2026-03-30T02:53:42.480Z"
+generated_at: "2026-11-23T21:25:28.483Z"
+status: "active"
 ---
 
 # § 8772. Dairy forward pricing program
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:42.480Z"
 - **(e)**
   - **(1)** No forward price contract may be entered into under the program established under this section after September 30, 2023 .
   - **(2)** No forward contract entered into under the program may extend beyond September 30, 2029 .
+
+## Source Credit
+
+*([Pub. L. 110–234, title I, § 1502](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 991](https://www.govinfo.gov/link/statute/122/991); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1502, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1720; [Pub. L. 113–79, title I, § 1424](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 695](https://www.govinfo.gov/link/statute/128/695); [Pub. L. 115–334, title I, § 1402(a)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4518](https://www.govinfo.gov/link/statute/132/4518); [Pub. L. 118–22, div. B, title I, § 102(c)(2)(C)](https://www.govinfo.gov/link/plaw/118/public/22), Nov. 17, 2023, [137 Stat. 116](https://www.govinfo.gov/link/statute/137/116); [Pub. L. 118–158, div. D, § 4101(c)(4)(B)](https://www.govinfo.gov/link/plaw/118/public/158), Dec. 21, 2024, [138 Stat. 1769](https://www.govinfo.gov/link/statute/138/1769); [Pub. L. 119–37, div. E, § 5002(c)(1)](https://www.govinfo.gov/link/plaw/119/public/37), Nov. 12, 2025, [139 Stat. 627](https://www.govinfo.gov/link/statute/139/627).)*

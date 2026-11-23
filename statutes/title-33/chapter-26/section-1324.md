@@ -3,9 +3,10 @@ title: "Section 1324 - Clean lakes"
 usc_title: 33
 usc_section: "1324"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1324"
-generated_at: "2026-03-30T02:55:41.099Z"
+generated_at: "2026-11-23T21:26:11.393Z"
+status: "active"
 ---
 
 # § 1324. Clean lakes
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:55:41.099Z"
       - **(i)** There is authorized to be appropriated to carry out subsection (b) with respect to subsection (a)(1)(D) not to exceed $25,000,000 for fiscal years beginning after September 30, 1986 , to remain available until expended.
       - **(ii)** The Administrator shall provide for an equitable distribution of sums appropriated pursuant to this subparagraph among States carrying out approved methods and procedures. Such distribution shall be based on the relative needs of each such State for the mitigation of the harmful effects on lakes and other surface waters of high acidity that may reasonably be due to acid deposition or acid mine drainage.
       - **(iii)** The amount of any grant to a State under this subparagraph shall be in addition to, and not in lieu of, any other Federal financial assistance.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title III, § 314, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 875](https://www.govinfo.gov/link/statute/86/875); amended [Pub. L. 95–217](https://www.govinfo.gov/link/plaw/95/public/217), §§ 4(f), 62(a), Dec. 27, 1977, [91 Stat. 1567](https://www.govinfo.gov/link/statute/91/1567), 1598; [Pub. L. 96–483, § 1(f)](https://www.govinfo.gov/link/plaw/96/public/483), Oct. 21, 1980, [94 Stat. 2360](https://www.govinfo.gov/link/statute/94/2360); [Pub. L. 100–4, title I, § 101(g)](https://www.govinfo.gov/link/plaw/100/public/4), title III, § 315(a), (b), (d), Feb. 4, 1987, [101 Stat. 9](https://www.govinfo.gov/link/statute/101/9), 49, 50, 52; [Pub. L. 101–596, title III, § 302](https://www.govinfo.gov/link/plaw/101/public/596), Nov. 16, 1990, [104 Stat. 3006](https://www.govinfo.gov/link/statute/104/3006); [Pub. L. 104–66, title II, § 2021(c)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 727](https://www.govinfo.gov/link/statute/109/727); [Pub. L. 105–362, title V, § 501(b)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3283](https://www.govinfo.gov/link/statute/112/3283); [Pub. L. 106–457, title VII](https://www.govinfo.gov/link/plaw/106/public/457), §§ 701, 702, Nov. 7, 2000, [114 Stat. 1976](https://www.govinfo.gov/link/statute/114/1976); [Pub. L. 107–303, title III, § 302(b)(1)](https://www.govinfo.gov/link/plaw/107/public/303), Nov. 27, 2002, [116 Stat. 2361](https://www.govinfo.gov/link/statute/116/2361).)*

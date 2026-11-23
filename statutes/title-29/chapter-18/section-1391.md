@@ -3,9 +3,10 @@ title: "Section 1391 - Methods for computing withdrawal liability"
 usc_title: 29
 usc_section: "1391"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1391"
-generated_at: "2026-03-30T02:55:18.735Z"
+generated_at: "2026-11-23T21:26:02.299Z"
+status: "active"
 ---
 
 # § 1391. Methods for computing withdrawal liability
@@ -112,3 +113,9 @@ generated_at: "2026-03-30T02:55:18.735Z"
   - **(2)** Sections 1384, 1389, 1399(c)(1)(B), and 1405 of this title shall not apply with respect to the withdrawal of an employer from a plan described in paragraph (1) unless the plan is amended to provide that any of such sections apply.
 - **(e)** In the case of a transfer of liabilities to another plan incident to an employer’s withdrawal or partial withdrawal, the withdrawn employer’s liability under this part shall be reduced in an amount equal to the value, as of the end of the last plan year ending on or before the date of the withdrawal, of the transferred unfunded vested benefits.
 - **(f)** In the case of a withdrawal following a merger of multiemployer plans, subsection (b), (c), or (d) shall be applied in accordance with regulations prescribed by the corporation; except that, if a withdrawal occurs in the first plan year beginning after a merger of multiemployer plans, the determination under this section shall be made as if each of the multiemployer plans had remained separate plans.
+
+Fresh start option
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4211](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 96–364, title I, § 104(2)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1226](https://www.govinfo.gov/link/statute/94/1226); amended [Pub. L. 98–369, div. A, title V, § 558(b)(1)(A)](https://www.govinfo.gov/link/plaw/98/public/369), (B), July 18, 1984, [98 Stat. 899](https://www.govinfo.gov/link/statute/98/899); [Pub. L. 101–239, title VII, § 7891(a)(1)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2445](https://www.govinfo.gov/link/statute/103/2445); [Pub. L. 109–280, title II, § 204(c)(2)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 887](https://www.govinfo.gov/link/statute/120/887).)*

@@ -3,9 +3,10 @@ title: "Section 8411 - Authorization of assistance"
 usc_title: 22
 usc_section: "8411"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8411"
-generated_at: "2026-03-30T02:55:05.450Z"
+generated_at: "2026-11-23T21:25:58.737Z"
+status: "active"
 ---
 
 # § 8411. Authorization of assistance
@@ -57,3 +58,27 @@ generated_at: "2026-03-30T02:55:05.450Z"
     - **(B)** the Administrator of the United States Agency for International Development should support the development objectives of the Refugee Affected and Host Areas (RAHA) Initiative in Pakistan to address livelihoods, health, education, infrastructure development, and environmental restoration in identified parts of the country where Afghan refugees have lived; and
     - **(C)** the United States should have a coordinated, strategic communications strategy to engage the people of Pakistan and to help ensure the success of the measures authorized by this subchapter.
 - **(d)** For fiscal years 2010 through 2014, the President shall notify the appropriate congressional committees not later than 15 days before obligating any assistance under this section as budgetary support to the Government of Pakistan or any element of the Government of Pakistan and shall include in such notification a description of the purpose and conditions attached to any such budgetary support.
+
+In General
+
+Continued Support for Educational Initiatives in Pakistan
+
+In General
+
+Limitations.—
+
+Criteria
+
+Academic disciplines
+
+Other scholarships
+
+Leveraging Investment
+
+In General
+
+Contents
+
+## Source Credit
+
+*([Pub. L. 111–73, title I, § 101](https://www.govinfo.gov/link/plaw/111/public/73), Oct. 15, 2009, [123 Stat. 2064](https://www.govinfo.gov/link/statute/123/2064).)*

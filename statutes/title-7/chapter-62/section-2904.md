@@ -3,9 +3,10 @@ title: "Section 2904 - Required terms in orders"
 usc_title: 7
 usc_section: "2904"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2904"
-generated_at: "2026-03-30T02:53:42.392Z"
+generated_at: "2026-11-23T21:25:28.308Z"
+status: "active"
 ---
 
 # § 2904. Required terms in orders
@@ -47,3 +48,7 @@ An order issued under section 2903(b) of this title shall contain the following 
     - **(A)** the issuance of general statements, based on the reports, of the number of persons subject to the order or statistical data collected therefrom, which statements do not identify the information furnished by any person; or
     - **(B)** the publication, by direction of the Secretary, of the name of any person violating the order, together with a statement of the particular provisions of the order violated by the person.
   - **(12)** The order shall contain terms and conditions, not inconsistent with the provisions of this chapter, as necessary to effectuate the provisions of the order.
+
+## Source Credit
+
+*([Pub. L. 94–294, § 5](https://www.govinfo.gov/link/plaw/94/public/294), May 28, 1976, [90 Stat. 530](https://www.govinfo.gov/link/statute/90/530); [Pub. L. 99–198, title XVI, § 1601(b)](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1599](https://www.govinfo.gov/link/statute/99/1599).)*

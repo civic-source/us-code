@@ -3,9 +3,10 @@ title: "Section 4321 - Development of major defense acquisition programs: sustai
 usc_title: 10
 usc_section: "4321"
 chapter: 323
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4321"
-generated_at: "2026-03-30T02:53:38.206Z"
+generated_at: "2026-11-23T21:25:32.770Z"
+status: "active"
 ---
 
 # § 4321. Development of major defense acquisition programs: sustainment of system to be replaced
@@ -28,3 +29,15 @@ generated_at: "2026-03-30T02:53:38.206Z"
   - **(3)** the mission has been consolidated with another mission in such a manner that another existing system can adequately meet the mission requirements; or
   - **(4)** the duration of time until the new system assumes the majority of responsibility for the existing system’s mission is sufficiently short so that mission availability, capability, interoperability, and force protection requirements are maintained.
 - **(d)** The Secretary of Defense may waive the applicability of subsection (a) to a major defense acquisition program if the Secretary determines that, but for such a waiver, the Department would be unable to meet national security objectives. Whenever the Secretary makes such a determination and authorizes such a waiver, the Secretary shall submit notice of such waiver and of the Secretary’s determination and the reasons therefor in writing to the congressional defense committees.
+
+Requirement for Sustaining Existing Forces
+
+Sustainment Plan
+
+Exceptions
+
+Waiver
+
+## Source Credit
+
+*(Added [Pub. L. 108–375, div. A, title VIII, § 805(a)(1)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2008](https://www.govinfo.gov/link/statute/118/2008), § 2437; renumbered § 4321, [Pub. L. 116–283, div. A, title XVIII, § 1848(b)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4258](https://www.govinfo.gov/link/statute/134/4258).)*

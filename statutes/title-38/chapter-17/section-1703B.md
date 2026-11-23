@@ -3,9 +3,10 @@ title: "Section 1703B - Access standards"
 usc_title: 38
 usc_section: "1703B"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1703B"
-generated_at: "2026-03-30T02:55:53.481Z"
+generated_at: "2026-11-23T21:26:16.617Z"
+status: "active"
 ---
 
 # § 1703B. Access standards
@@ -58,3 +59,13 @@ generated_at: "2026-03-30T02:55:53.481Z"
   - **(2)** The term “covered veterans” means veterans described in section 1703(b) of this title .
   - **(3)** The term “inability to contract”, with respect to a Third Party Administrator, means the inability of the Third Party Administrator to successfully negotiate and establish a community care network contract with a provider or facility.
   - **(4)** The term “Third Party Administrator” means an entity that manages a provider network and performs administrative services related to such network within the Veterans Community Care Program under section 1703 of this title .
+
+In General
+
+Periodic Review
+
+Clean Claims Defined
+
+## Source Credit
+
+*(Added [Pub. L. 115–182, title I, § 104(a)](https://www.govinfo.gov/link/plaw/115/public/182), June 6, 2018, [132 Stat. 1409](https://www.govinfo.gov/link/statute/132/1409); amended [Pub. L. 115–251, title II, § 211(a)(3)](https://www.govinfo.gov/link/plaw/115/public/251), Sept. 29, 2018, [132 Stat. 3174](https://www.govinfo.gov/link/statute/132/3174); [Pub. L. 117–328, div. U, title I, § 125(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5416](https://www.govinfo.gov/link/statute/136/5416).)*

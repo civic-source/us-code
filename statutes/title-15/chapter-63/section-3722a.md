@@ -3,9 +3,10 @@ title: "Section 3722a - Regional Technology and Innovation Hub Program"
 usc_title: 15
 usc_section: "3722a"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3722a"
-generated_at: "2026-03-30T02:54:08.194Z"
+generated_at: "2026-11-23T21:25:39.981Z"
+status: "active"
 ---
 
 # § 3722a. Regional Technology and Innovation Hub Program
@@ -192,3 +193,27 @@ generated_at: "2026-03-30T02:54:08.194Z"
   - **(2)** $2,950,000,000 to award grants and cooperative agreements under subsection (f) for the period of fiscal years 2023 and 2024; and
   - **(3)** $7,000,000,000 to award grants and cooperative agreements under subsection (f) for the period of fiscal years 2025 through 2027.
 - **(l)** The Secretary may use funds made available to carry out this section for administrative costs under this section.
+
+(aa) the resiliency and sustainability of a supply chain;
+
+(bb) research, development, and deployment of a critical technology;
+
+(cc) workforce training and development;
+
+(dd) domestic job creation;
+
+(ee) entrepreneurship and company formation;
+
+(ff) commercialization;
+
+(gg) access to private capital; or
+
+(hh) participation of individuals or communities historically underrepresented in STEM.
+
+Competition required
+
+Designation and award
+
+## Source Credit
+
+*([Pub. L. 96–480, § 28](https://www.govinfo.gov/link/plaw/96/public/480), as added [Pub. L. 117–167, div. B, title VI, § 10621(a)(2)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1642](https://www.govinfo.gov/link/statute/136/1642).)*

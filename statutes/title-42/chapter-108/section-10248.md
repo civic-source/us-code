@@ -3,9 +3,10 @@ title: "Section 10248 - Administrative powers of Negotiator"
 usc_title: 42
 usc_section: "10248"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10248"
-generated_at: "2026-03-30T02:56:11.385Z"
+generated_at: "2026-11-23T21:26:33.354Z"
+status: "active"
 ---
 
 # § 10248. Administrative powers of Negotiator
@@ -22,3 +23,7 @@ In carrying out his functions under this subchapter, the Negotiator may—
   - **(8)** use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States;
   - **(9)** hold such hearings as are necessary to determine the views of interested parties and the general public; and
   - **(10)** appoint advisory committees under chapter 10 of title 5.
+
+## Source Credit
+
+*([Pub. L. 97–425, title IV, § 408](https://www.govinfo.gov/link/plaw/97/public/425), as added [Pub. L. 100–202, § 101(d) [title III]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–104](https://www.govinfo.gov/link/statute/101/1329), 1329–121; [Pub. L. 100–203, title V, § 5041](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–247](https://www.govinfo.gov/link/statute/101/1330); amended [Pub. L. 117–286, § 4(a)(273)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4336](https://www.govinfo.gov/link/statute/136/4336).)*

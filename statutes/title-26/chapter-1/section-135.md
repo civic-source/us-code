@@ -3,9 +3,10 @@ title: "Section 135 - Income from United States savings bonds used to pay higher
 usc_title: 26
 usc_section: "135"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 135"
-generated_at: "2026-03-30T02:55:27.628Z"
+generated_at: "2026-11-23T21:26:06.013Z"
+status: "active"
 ---
 
 # § 135. Income from United States savings bonds used to pay higher education tuition and fees
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:55:27.628Z"
     - **(B)** the amount of such expenses which are taken into account in determining the exclusions under sections 529(c)(3)(B) and 530(d)(2).
   - **(3)** If the taxpayer is a married individual (within the meaning of section 7703), this section shall apply only if the taxpayer and his spouse file a joint return for the taxable year.
   - **(4)** The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations requiring record keeping and information reporting.
+
+## Source Credit
+
+*(Added [Pub. L. 100–647, title VI, § 6009(a)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3688](https://www.govinfo.gov/link/statute/102/3688); amended [Pub. L. 101–239, title VII, § 7816(c)(2)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2420](https://www.govinfo.gov/link/statute/103/2420); [Pub. L. 101–508, title XI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 11101(d)(1)(E), 11702(h), Nov. 5, 1990, [104 Stat. 1388–405](https://www.govinfo.gov/link/statute/104/1388), 1388–516; [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1703(d), 1806(b)(1), 1807(c)(2), Aug. 20, 1996, [110 Stat. 1875](https://www.govinfo.gov/link/statute/110/1875), 1898, 1902; [Pub. L. 105–34, title II](https://www.govinfo.gov/link/plaw/105/public/34), §§ 201(d), 211(c), 213(e)(2), Aug. 5, 1997, [111 Stat. 805](https://www.govinfo.gov/link/statute/111/805), 811, 817; [Pub. L. 105–206, title VI, § 6004(c)(1)](https://www.govinfo.gov/link/plaw/105/public/206), (d)(4), (9), July 22, 1998, [112 Stat. 793–795](https://www.govinfo.gov/link/statute/112/793); [Pub. L. 105–277, div. J, title IV, § 4003(a)(2)(B)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–908](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 107–16, title IV](https://www.govinfo.gov/link/plaw/107/public/16), §§ 401(g)(2)(B), 402(a)(4)(A), (B), (b)(2)(A), 431(c)(1), June 7, 2001, [115 Stat. 59–62](https://www.govinfo.gov/link/statute/115/59), 68; [Pub. L. 107–22, § 1(b)(1)(B)](https://www.govinfo.gov/link/plaw/107/public/22), (3)(B), July 26, 2001, [115 Stat. 197](https://www.govinfo.gov/link/statute/115/197); [Pub. L. 108–357, title I, § 102(d)(1)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1428](https://www.govinfo.gov/link/statute/118/1428); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 11002(d)(1)(M), 13305(b)(1), Dec. 22, 2017, [131 Stat. 2060](https://www.govinfo.gov/link/statute/131/2060), 2126; [Pub. L. 116–260, div. EE, title I, § 104(b)(2)(D)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3041](https://www.govinfo.gov/link/statute/134/3041); [Pub. L. 117–2, title IX, § 9042(b)(3)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 122](https://www.govinfo.gov/link/statute/135/122).)*

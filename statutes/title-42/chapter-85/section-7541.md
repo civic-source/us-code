@@ -3,9 +3,10 @@ title: "Section 7541 - Compliance by vehicles and engines in actual use"
 usc_title: 42
 usc_section: "7541"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7541"
-generated_at: "2026-03-30T02:56:11.311Z"
+generated_at: "2026-11-23T21:26:33.116Z"
+status: "active"
 ---
 
 # § 7541. Compliance by vehicles and engines in actual use
@@ -30,7 +31,14 @@ generated_at: "2026-03-30T02:56:11.311Z"
       - **(ii)** the Administrator finds that such a waiver is in the public interest.
     - **(C)** In addition, the manufacturer shall indicate by means of a label or tag permanently affixed to such vehicle or engine that such vehicle or engine is covered by a certificate of conformity issued for the purpose of assuring achievement of emissions standards prescribed under section 7521 of this title . Such label or tag shall contain such other information relating to control of motor vehicle emissions as the Administrator shall prescribe by regulation.
   - **(4)**
-    - **(A)** For light-duty trucks of up to 6,000 lbs. gross vehicle weight rating (GVWR) and light-duty vehicles which are subject to standards under table G of section 7521(g)(1) of this title in model years 1994 and 1995 (40 percent of the manufacturer’s sales volume in model year 1994 and 80 percent in model year 1995), the standards applicable to NMHC, CO, and NO x for purposes of this subsection shall be those set forth in table A below in lieu of the standards for such air pollutants otherwise applicable under this subchapter. table a—intermediate in-use standards ldts up to 6,000 lbs. gvwr and light-duty vehicles Vehicle type NMHC CO NO x *Not applicable to diesel-fueled vehicles. Light-duty vehicles 0.32 3.4 0.4 * LDT’s (0–3,750 LVW) 0.32 5.2 0.4 * LDT’s (3,751–5,750 LVW) 0.41 6.7 0.7 *
+    - **(A)** For light-duty trucks of up to 6,000 lbs. gross vehicle weight rating (GVWR) and light-duty vehicles which are subject to standards under table G of section 7521(g)(1) of this title in model years 1994 and 1995 (40 percent of the manufacturer’s sales volume in model year 1994 and 80 percent in model year 1995), the standards applicable to NMHC, CO, and NO x for purposes of this subsection shall be those set forth in table A below in lieu of the standards for such air pollutants otherwise applicable under this subchapter.
+
+| table a—intermediate in-use standards ldts up to 6,000 lbs. gvwr and light-duty vehicles | Col 2 | Col 3 | Col 4 |
+| --- | --- | --- | --- |
+| Light-duty vehicles | 0.32 | 3.4 | 0.4 * |
+| LDT’s (0–3,750 LVW) | 0.32 | 5.2 | 0.4 * |
+| LDT’s (3,751–5,750 LVW) | 0.41 | 6.7 | 0.7 * |
+
     - **(B)**
       - **(i)** In the model years 1996 and 1997, light-duty trucks (LDTs) up to 6,000 lbs. gross vehicle weight rating (GVWR) and light-duty vehicles which are not subject to final in-use standards under paragraph (5) (60 percent of the manufacturer’s sales volume in model year 1996 and 20 percent in model year 1997) shall be subject to the standards set forth in table A of subparagraph (A) for NMHC, CO, and NO x for purposes of this subsection in lieu of those set forth in paragraph (5).
       - **(ii)** For LDTs of more than 6,000 lbs. GVWR—
@@ -39,8 +47,21 @@ generated_at: "2026-03-30T02:56:11.311Z"
         - **(III)** in model year 1998 which are not subject to final in-use standards under paragraph (5) (50%);
     - **(C)** In the case of the in-use standards applicable under this paragraph, for purposes of applying this subsection, the applicable useful life shall be 5 years or 50,000 miles or the equivalent (whichever first occurs).
   - **(5)**
-    - **(A)** After the model year 1995, for purposes of applying this subsection, in the case of the percentage specified in the implementation schedule below of each manufacturer’s sales volume of light-duty trucks of up to 6,000 lbs. gross vehicle weight rating (GVWR) and light duty 2 2 So in original. Probably should be “light-duty”. vehicles, the standards for NMHC, CO, and NO x shall be as provided in Table G in section 7521(g) of this title , except that in applying the standards set forth in Table G for purposes of determining compliance with this subsection, the applicable useful life shall be (i) 5 years or 50,000 miles (or the equivalent) whichever first occurs in the case of standards applicable for purposes of certification at 50,000 miles; and (ii) 10 years or 100,000 miles (or the equivalent), whichever first occurs in the case of standards applicable for purposes of certification at 100,000 miles, except that no testing shall be done beyond 7 years or 75,000 miles, or the equivalent whichever first occurs. LDTs up to 6,000 Lbs. GVWR and Light-Duty Vehicle Schedule for Implementation of Final In-Use Standards Model year Percent 1996 40 1997 80 1998 100
-    - **(B)** After the model year 1997, for purposes of applying this subsection, in the case of the percentage specified in the implementation schedule below of each manufacturer’s sales volume of light-duty trucks of more than 6,000 lbs. gross vehicle weight rating (GVWR), the standards for NMHC, CO, and NO x shall be as provided in Table H in section 7521(h) of this title , except that in applying the standards set forth in Table H for purposes of determining compliance with this subsection, the applicable useful life shall be (i) 5 years or 50,000 miles (or the equivalent) whichever first occurs in the case of standards applicable for purposes of certification at 50,000 miles; and (ii) 11 years or 120,000 miles (or the equivalent), whichever first occurs in the case of standards applicable for purposes of certification at 120,000 miles, except that no testing shall be done beyond 7 years or 90,000 miles (or the equivalent) whichever first occurs. LDTs of More Than 6,000 Lbs. GVWR Implementation Schedule for Implementation of Final In-Use Standards Model year Percent 1998 50 1999 100
+    - **(A)** After the model year 1995, for purposes of applying this subsection, in the case of the percentage specified in the implementation schedule below of each manufacturer’s sales volume of light-duty trucks of up to 6,000 lbs. gross vehicle weight rating (GVWR) and light duty 2 2 So in original. Probably should be “light-duty”. vehicles, the standards for NMHC, CO, and NO x shall be as provided in Table G in section 7521(g) of this title , except that in applying the standards set forth in Table G for purposes of determining compliance with this subsection, the applicable useful life shall be (i) 5 years or 50,000 miles (or the equivalent) whichever first occurs in the case of standards applicable for purposes of certification at 50,000 miles; and (ii) 10 years or 100,000 miles (or the equivalent), whichever first occurs in the case of standards applicable for purposes of certification at 100,000 miles, except that no testing shall be done beyond 7 years or 75,000 miles, or the equivalent whichever first occurs.
+
+| LDTs up to 6,000 Lbs. GVWR and Light-Duty Vehicle Schedule for Implementation of Final In-Use Standards | Col 2 |
+| --- | --- |
+| 1996 | 40 |
+| 1997 | 80 |
+| 1998 | 100 |
+
+    - **(B)** After the model year 1997, for purposes of applying this subsection, in the case of the percentage specified in the implementation schedule below of each manufacturer’s sales volume of light-duty trucks of more than 6,000 lbs. gross vehicle weight rating (GVWR), the standards for NMHC, CO, and NO x shall be as provided in Table H in section 7521(h) of this title , except that in applying the standards set forth in Table H for purposes of determining compliance with this subsection, the applicable useful life shall be (i) 5 years or 50,000 miles (or the equivalent) whichever first occurs in the case of standards applicable for purposes of certification at 50,000 miles; and (ii) 11 years or 120,000 miles (or the equivalent), whichever first occurs in the case of standards applicable for purposes of certification at 120,000 miles, except that no testing shall be done beyond 7 years or 90,000 miles (or the equivalent) whichever first occurs.
+
+| LDTs of More Than 6,000 Lbs. GVWR Implementation Schedule for Implementation of Final In-Use Standards | Col 2 |
+| --- | --- |
+| 1998 | 50 |
+| 1999 | 100 |
+
   - **(6)**
     - **(A)** In the case of diesel-fueled light-duty trucks up to 6,000 lbs. GVWR and light-duty vehicles, the useful life for purposes of determining in-use compliance with the standards under section 7521(g) of this title for NO x shall be a period of 10 years or 100,000 miles (or the equivalent), whichever first occurs, in the case of standards applicable for purposes of certification at 100,000 miles, except that testing shall not be done for a period beyond 7 years or 75,000 miles (or the equivalent) whichever first occurs.
     - **(B)** In the case of diesel-fueled light-duty trucks of 6,000 lbs. GVWR or more, the useful life for purposes of determining in-use compliance with the standards under section 7521(h) of this title for NO x shall be a period of 11 years or 120,000 miles (or the equivalent), whichever first occurs, in the case of standards applicable for purposes of certification at 120,000 miles, except that testing shall not be done for a period beyond 7 years or 90,000 miles (or the equivalent) whichever first occurs.
@@ -57,3 +78,73 @@ generated_at: "2026-03-30T02:56:11.311Z"
     - **(A)** the device or component was not in general use on vehicles and engines manufactured prior to the model year 1990; and
     - **(B)** the Administrator determines that the retail cost (exclusive of installation costs) of such device or component exceeds $200 (in 1989 dollars), adjusted for inflation or deflation as calculated by the Administrator at the time of such determination.
   - **(3)** Subparagraph (A) of subsection (b)(2) shall apply only where the Administrator has made a determination that the instructions concerned conform to the requirements of subsection (c)(3).
+
+| Table B—Intermediate In-Use Standards LDTs More Than 6,000 Lbs. GVWR | Col 2 | Col 3 | Col 4 |
+| --- | --- | --- | --- |
+| LDTs (3,751–5,750 lbs. TW) | 0.40 | 5.5 | 0.88 * |
+| LDTs (over 5,750 lbs. TW) | 0.49 | 6.2 | 1.38 * |
+
+
+Intermediate in-use standards.—
+
+Model years 1994 and 1995
+
+table a—intermediate in-use standards ldts up to 6,000 lbs. gvwr and light-duty vehicles
+
+*Not applicable to diesel-fueled vehicles.
+
+Light-duty vehicles
+
+*
+
+LDT’s (0–3,750 LVW)
+
+*
+
+LDT’s (3,751–5,750 LVW)
+
+*
+
+Model years 1996 and thereafter
+
+Table B—Intermediate In-Use Standards LDTs More Than
+
+Lbs. GVWR
+
+*Not applicable to diesel-fueled vehicles.
+
+LDTs (3,751–5,750 lbs. TW)
+
+*
+
+LDTs (over 5,750 lbs. TW)
+
+*
+
+Useful life
+
+Final in-use standards
+
+LDTs up to
+
+Lbs. GVWR and Light-Duty Vehicle Schedule for Implementation of Final In-Use Standards
+
+1996
+
+1997
+
+1998
+
+LDTs of More Than
+
+Lbs. GVWR Implementation Schedule for Implementation of Final In-Use Standards
+
+1998
+
+1999
+
+Diesel vehicles; in-use useful life and testing
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title II, § 207, as added [Pub. L. 91–604, § 8(a)](https://www.govinfo.gov/link/plaw/91/public/604), Dec. 31, 1970, [84 Stat. 1696](https://www.govinfo.gov/link/statute/84/1696); amended [Pub. L. 95–95, title II](https://www.govinfo.gov/link/plaw/95/public/95), §§ 205, 208–210, 212, Aug. 7, 1977, [91 Stat. 754–756](https://www.govinfo.gov/link/statute/91/754), 758; [Pub. L. 95–190, § 14(a)(70)](https://www.govinfo.gov/link/plaw/95/public/190) –(72), Nov. 16, 1977, [91 Stat. 1403](https://www.govinfo.gov/link/statute/91/1403); [Pub. L. 101–549, title II](https://www.govinfo.gov/link/plaw/101/public/549), §§ 209, 210, 230(9), Nov. 15, 1990, [104 Stat. 2484](https://www.govinfo.gov/link/statute/104/2484), 2485, 2529; [Pub. L. 113–109, § 1](https://www.govinfo.gov/link/plaw/113/public/109), June 9, 2014, [128 Stat. 1170](https://www.govinfo.gov/link/statute/128/1170).)*

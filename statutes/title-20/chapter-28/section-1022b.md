@@ -3,9 +3,10 @@ title: "Section 1022b - Administrative provisions"
 usc_title: 20
 usc_section: "1022b"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1022b"
-generated_at: "2026-03-30T02:54:48.097Z"
+generated_at: "2026-11-23T21:25:47.021Z"
+status: "active"
 ---
 
 # § 1022b. Administrative provisions
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:48.097Z"
   - **(1)** Each eligible partnership receiving a grant under this part shall provide, from non-Federal sources, an amount equal to 100 percent of the amount of the grant, which may be provided in cash or in-kind, to carry out the activities supported by the grant.
   - **(2)** The Secretary may waive all or part of the matching requirement described in paragraph (1) for any fiscal year for an eligible partnership if the Secretary determines that applying the matching requirement to the eligible partnership would result in serious hardship or an inability to carry out the authorized activities described in this part.
 - **(d)** An eligible partnership that receives a grant under this part may use not more than two percent of the funds provided to administer the grant.
+
+## Source Credit
+
+*([Pub. L. 89–329, title II, § 203](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title II, § 201(2)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3145](https://www.govinfo.gov/link/statute/122/3145).)*

@@ -3,9 +3,10 @@ title: "Section 5852 - General transfer and making tax exemption"
 usc_title: 26
 usc_section: "5852"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5852"
-generated_at: "2026-03-30T02:55:27.828Z"
+generated_at: "2026-11-23T21:26:06.748Z"
+status: "active"
 ---
 
 # § 5852. General transfer and making tax exemption
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:27.828Z"
 - **(d)** A firearm registered to a person qualified under this chapter to engage in business as an importer, manufacturer, or dealer may be transferred by that person without payment of the transfer tax imposed by section 5811 to any other person qualified under this chapter to manufacture, import, or deal in that type of firearm.
 - **(e)** An unserviceable firearm may be transferred as a curio or ornament without payment of the transfer tax imposed by section 5811, under such requirements as the Secretary may by regulations prescribe.
 - **(f)** No firearm may be transferred or made exempt from tax under the provisions of this section unless the transfer or making is performed pursuant to an application in such form and manner as the Secretary may by regulations prescribe.
+
+## Source Credit
+
+*(Added [Pub. L. 90–618, title II, § 201](https://www.govinfo.gov/link/plaw/90/public/618), Oct. 22, 1968, [82 Stat. 1233](https://www.govinfo.gov/link/statute/82/1233); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834).)*

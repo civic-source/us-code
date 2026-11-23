@@ -3,9 +3,10 @@ title: "Section 3732 - Postgraduation recruitment, education and training progra
 usc_title: 25
 usc_section: "3732"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3732"
-generated_at: "2026-03-30T02:54:52.856Z"
+generated_at: "2026-11-23T21:25:54.698Z"
+status: "active"
 ---
 
 # § 3732. Postgraduation recruitment, education and training programs
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:52.856Z"
   - **(1)** orientation training for Bureau agricultural resource personnel in tribal-Federal relations and responsibilities;
   - **(2)** continuing technical agricultural resource education for Bureau and Indian agricultural resource personnel; and
   - **(3)** development training of Indian agricultural resource personnel in agricultural resource based enterprises and marketing.
+
+## Source Credit
+
+*([Pub. L. 103–177, title II, § 202](https://www.govinfo.gov/link/plaw/103/public/177), Dec. 3, 1993, [107 Stat. 2020](https://www.govinfo.gov/link/statute/107/2020).)*

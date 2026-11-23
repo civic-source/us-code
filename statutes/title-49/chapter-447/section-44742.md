@@ -3,9 +3,10 @@ title: "Section 44742 - Interference with the duties of organization designation
 usc_title: 49
 usc_section: "44742"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44742"
-generated_at: "2026-03-30T02:56:19.387Z"
+generated_at: "2026-11-23T21:26:40.908Z"
+status: "active"
 ---
 
 # § 44742. Interference with the duties of organization designation authorization unit members
@@ -26,3 +27,35 @@ generated_at: "2026-03-30T02:56:19.387Z"
   - **(2)** In this section, the term “interference” means—
     - **(A)** blatant or egregious statements or behavior, such as harassment, beratement, or threats, that a reasonable person would conclude was intended to improperly influence or prejudice an ODA unit member’s performance of his or her duties; or
     - **(B)** the presence of non-ODA unit duties or activities that conflict with the performance of authorized functions by ODA unit members.
+
+In General
+
+Prohibition.—
+
+In general
+
+Civil penalty.—
+
+Individuals
+
+Savings clause
+
+Reporting.—
+
+Reports to oda holder
+
+Reports to the faa.—
+
+In general
+
+Contents
+
+Definitions.—
+
+General applicability
+
+Interference
+
+## Source Credit
+
+*(Added [Pub. L. 116–260, div. V, title I, § 107(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2323](https://www.govinfo.gov/link/statute/134/2323).)*

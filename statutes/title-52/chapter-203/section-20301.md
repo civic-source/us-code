@@ -3,9 +3,10 @@ title: "Section 20301 - Federal responsibilities"
 usc_title: 52
 usc_section: "20301"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 20301"
-generated_at: "2026-03-30T02:56:30.161Z"
+generated_at: "2026-11-23T21:26:42.324Z"
+status: "active"
 ---
 
 # § 20301. Federal responsibilities
@@ -31,3 +32,17 @@ generated_at: "2026-03-30T02:56:30.161Z"
   - **(1)** The head of each Government department, agency, or other entity shall, upon request of the Presidential designee, distribute balloting materials and otherwise cooperate in carrying out this chapter.
   - **(2)** As directed by the Presidential designee, the Administrator of General Services shall furnish official post card forms (prescribed under subsection (b)) and Federal write-in absentee ballots (prescribed under section 20303 of this title ).
 - **(d)** There are authorized to be appropriated to the Presidential designee such sums as are necessary for purposes of carrying out subsection (b)(10).
+
+Sense of Congress
+
+Uniformed Services Voter Defined
+
+Section
+
+Sec
+
+Ronald Reagan.
+
+## Source Credit
+
+*([Pub. L. 99–410, title I, § 101](https://www.govinfo.gov/link/plaw/99/public/410), Aug. 28, 1986, [100 Stat. 924](https://www.govinfo.gov/link/statute/100/924); [Pub. L. 105–277, div. G, title XXII, § 2219(c)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–817](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 107–107, div. A, title XVI, § 1606(a)(2)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1279](https://www.govinfo.gov/link/statute/115/1279); [Pub. L. 107–252, title VII, § 705(a)](https://www.govinfo.gov/link/plaw/107/public/252), (b)(1), (c), Oct. 29, 2002, [116 Stat. 1724](https://www.govinfo.gov/link/statute/116/1724), 1725; [Pub. L. 108–375, div. A, title V, § 566(a)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1919](https://www.govinfo.gov/link/statute/118/1919); [Pub. L. 111–84, div. A, title V](https://www.govinfo.gov/link/plaw/111/public/84), §§ 580(b), (e), 583(a)(2), 584(a), 585(b)(1), Oct. 28, 2009, [123 Stat. 2325](https://www.govinfo.gov/link/statute/123/2325), 2328, 2330, 2331; [Pub. L. 111–383, div. A, title X, § 1075(d)(4)](https://www.govinfo.gov/link/plaw/111/public/383), (5), Jan. 7, 2011, [124 Stat. 4372](https://www.govinfo.gov/link/statute/124/4372).)*

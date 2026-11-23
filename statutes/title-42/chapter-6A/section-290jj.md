@@ -3,9 +3,10 @@ title: "Section 290jj - Requirement relating to the rights of residents of certa
 usc_title: 42
 usc_section: "290jj"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 290jj"
-generated_at: "2026-03-30T02:56:10.770Z"
+generated_at: "2026-11-23T21:26:30.603Z"
+status: "active"
 ---
 
 # § 290jj. Requirement relating to the rights of residents of certain non-medical, community-based facilities for children and youth
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:10.770Z"
   - **(3)** The term “physical restraint” means a personal restriction that immobilizes or reduces the ability of an individual to move his or her arms, legs, or head freely. Such term does not include a physical escort.
   - **(4)** The term “seclusion” means a behavior control technique involving locked isolation. Such term does not include a time out.
   - **(5)** The term “time out” means a behavior management technique that is part of an approved treatment program and may involve the separation of the resident from the group, in a non-locked setting, for the purpose of calming. Time out is not seclusion.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title V, § 595, as added [Pub. L. 106–310, div. B, title XXXII, § 3208](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1197](https://www.govinfo.gov/link/statute/114/1197).)*

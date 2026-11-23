@@ -3,9 +3,10 @@ title: "Section 7653 - Office of Pest Management Policy"
 usc_title: 7
 usc_section: "7653"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7653"
-generated_at: "2026-03-30T02:53:42.460Z"
+generated_at: "2026-11-23T21:25:28.442Z"
+status: "active"
 ---
 
 # § 7653. Office of Pest Management Policy
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.460Z"
 - **(f)** There are authorized to be appropriated to carry out this section—
   - **(1)** such sums as are necessary for each of fiscal years 1999 through 2013; and
   - **(2)** $3,000,000 for each of fiscal years 2014 through 2023.
+
+## Source Credit
+
+*([Pub. L. 105–185, title VI, § 614](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 605](https://www.govinfo.gov/link/statute/112/605); [Pub. L. 107–171, title VII, § 7132](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 435](https://www.govinfo.gov/link/statute/116/435); [Pub. L. 110–234, title VII, § 7313](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1245](https://www.govinfo.gov/link/statute/122/1245); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7313, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2006; [Pub. L. 113–79, title VII, § 7309](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 891](https://www.govinfo.gov/link/statute/128/891); [Pub. L. 115–334, title VII, § 7307](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4816](https://www.govinfo.gov/link/statute/132/4816).)*

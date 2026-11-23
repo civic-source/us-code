@@ -3,9 +3,10 @@ title: "Section 1533 - Information collection and dissemination with respect to 
 usc_title: 21
 usc_section: "1533"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 1533"
-generated_at: "2026-03-30T02:54:54.303Z"
+generated_at: "2026-11-23T21:25:56.279Z"
+status: "active"
 ---
 
 # § 1533. Information collection and dissemination with respect to grant recipients
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:54.303Z"
       - **(ii)** the general public.
   - **(3)** The Administrator shall carry out activities under this subsection in consultation with the Advisory Commission and the National Community Antidrug Coalition Institute.
   - **(4)** Amounts for activities under paragraph (2)(B) may not be derived from amounts under section 1524(a) of this title except for amounts that are available under section 1524(b) of this title for administrative costs.
+
+## Source Credit
+
+*([Pub. L. 100–690, title I, § 1033](https://www.govinfo.gov/link/plaw/100/public/690), as added [Pub. L. 105–20, § 2(a)(2)](https://www.govinfo.gov/link/plaw/105/public/20), June 27, 1997, [111 Stat. 230](https://www.govinfo.gov/link/statute/111/230); amended [Pub. L. 107–82, § 1(e)](https://www.govinfo.gov/link/plaw/107/public/82), (f), Dec. 14, 2001, [115 Stat. 818](https://www.govinfo.gov/link/statute/115/818); [Pub. L. 115–271, title VIII, § 8203(b)(4)(A)](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 4111](https://www.govinfo.gov/link/statute/132/4111); [Pub. L. 116–74, § 2(c)(1)(A)(ii)(II)](https://www.govinfo.gov/link/plaw/116/public/74), Nov. 27, 2019, [133 Stat. 1157](https://www.govinfo.gov/link/statute/133/1157).)*

@@ -3,9 +3,10 @@ title: "Section 313 - Federal Insurance Office"
 usc_title: 31
 usc_section: "313"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 313"
-generated_at: "2026-03-30T02:55:34.045Z"
+generated_at: "2026-11-23T21:26:10.518Z"
+status: "active"
 ---
 
 # § 313. Federal Insurance Office
@@ -127,3 +128,157 @@ generated_at: "2026-03-30T02:55:34.045Z"
     - **(A)** an insurer that is organized under the laws of a State; or
     - **(B)** a United States branch of a non-United States insurer.
 - **(s)** There are authorized to be appropriated for the Office for each fiscal year such sums as may be necessary.
+
+Establishment
+
+Leadership
+
+Functions.—
+
+Authority pursuant to direction of secretary
+
+Advisory functions
+
+Advisory capacity on council
+
+Scope
+
+Gathering of Information.—
+
+In general
+
+Collection of information from insurers and affiliates.—
+
+In general
+
+Rule of construction
+
+Exception for small insurers
+
+Advance coordination
+
+Confidentiality.—
+
+Retention of privilege
+
+Continued application of prior confidentiality agreements
+
+Information-sharing agreement
+
+Agency disclosure requirements
+
+Subpoenas and enforcement
+
+Preemption of State Insurance Measures.—
+
+Standard
+
+Determination.—
+
+Notice of potential inconsistency
+
+Scope of review
+
+Notice of determination of inconsistency
+
+Notice of effectiveness
+
+Limitation
+
+Applicability of Administrative Procedures Act
+
+Regulations, Policies, and Procedures
+
+Consultation
+
+Savings Provisions
+
+Retention of Existing State Regulatory Authority
+
+Retention of Authority of Federal Financial Regulatory Agencies
+
+Retention of Authority of United States Trade Representative
+
+Annual Reports to Congress.—
+
+Section 313(
+
+) reports
+
+Insurance industry
+
+Reports on U.S. and Global Reinsurance Market
+
+Study and Report on Regulation of Insurance.—
+
+In general
+
+Considerations
+
+Additional factors
+
+Required recommendations
+
+Consultation
+
+Use of Existing Resources
+
+Definitions
+
+Affiliate
+
+Covered agreement
+
+Insurer
+
+Federal financial regulatory agency
+
+Non-united states insurer
+
+Office
+
+State insurance measure
+
+State insurance regulator
+
+Substantially equivalent to the level of protection achieved
+
+United states insurer
+
+Authorization of Appropriations
+
+Findings
+
+Insurance Policy Advisory Committee.—
+
+Establishment
+
+Membership
+
+Reports.—
+
+Reports and testimony by secretary of the treasury and chairman of the federal reserve.—
+
+In general
+
+Termination
+
+Reports and testimony by national association of insurance commissioners
+
+Joint report by the chairman of the federal reserve and the director of the federal insurance office.—
+
+In general
+
+Notice and comment.—
+
+Notice
+
+Opportunity for comment
+
+Review by comptroller general
+
+Report on increase in transparency
+
+## Source Credit
+
+*(Added [Pub. L. 111–203, title V, § 502(a)(3)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1580](https://www.govinfo.gov/link/statute/124/1580).)*

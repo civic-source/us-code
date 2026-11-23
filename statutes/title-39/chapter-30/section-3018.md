@@ -3,9 +3,10 @@ title: "Section 3018 - Hazardous material"
 usc_title: 39
 usc_section: "3018"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 3018"
-generated_at: "2026-03-30T02:55:43.692Z"
+generated_at: "2026-11-23T21:26:12.782Z"
+status: "active"
 ---
 
 # § 3018. Hazardous material
@@ -44,3 +45,47 @@ generated_at: "2026-03-30T02:55:43.692Z"
 - **(h)**
   - **(1)** Except as provided under paragraph (2), amounts collected under subsection (c)(1)(B) and (C) shall be deposited into the Postal Service Fund under section 2003.
   - **(2)** Amounts collected under subsection (c)(1)(A) and any punitive damages collected under subsection (c)(1)(C) shall be deposited into the Treasury of the United States.
+
+In General
+
+Prohibitions
+
+Civil Penalty; Clean-Up Costs and Damages.—
+
+In general
+
+Knowing action
+
+Separate violations.—
+
+Violations over time
+
+Separate items
+
+Hearings
+
+Penalty Considerations
+
+Civil Actions to Collect.—
+
+In general
+
+Compromise
+
+Civil Judicial Penalties.—
+
+In general
+
+Relief
+
+Construction
+
+Deposit of Amounts Collected.—
+
+Postal service fund
+
+Treasury
+
+## Source Credit
+
+*(Added [Pub. L. 109–435, title X, § 1008(b)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3259](https://www.govinfo.gov/link/statute/120/3259).)*

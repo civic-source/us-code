@@ -3,9 +3,10 @@ title: "Section 360n - Priority review to encourage treatments for tropical dise
 usc_title: 21
 usc_section: "360n"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 360n"
-generated_at: "2026-03-30T02:54:54.252Z"
+generated_at: "2026-11-23T21:25:56.088Z"
+status: "active"
 ---
 
 # § 360n. Priority review to encourage treatments for tropical diseases
@@ -61,3 +62,7 @@ generated_at: "2026-03-30T02:54:54.252Z"
   - **(5)** Fees collected pursuant to this subsection for any fiscal year—
     - **(A)** shall be deposited and credited as offsetting collections to the account providing appropriations to the Food and Drug Administration; and
     - **(B)** shall not be collected for any fiscal year except to the extent provided in advance in appropriation Acts.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 524, as added [Pub. L. 110–85, title XI, § 1102](https://www.govinfo.gov/link/plaw/110/public/85), Sept. 27, 2007, [121 Stat. 972](https://www.govinfo.gov/link/statute/121/972); amended [Pub. L. 113–233, § 2](https://www.govinfo.gov/link/plaw/113/public/233), Dec. 16, 2014, [128 Stat. 2127](https://www.govinfo.gov/link/statute/128/2127); [Pub. L. 114–146, § 2](https://www.govinfo.gov/link/plaw/114/public/146), Apr. 19, 2016, [130 Stat. 357](https://www.govinfo.gov/link/statute/130/357); [Pub. L. 114–255, div. A, title III, § 3101(a)(2)(M)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1154](https://www.govinfo.gov/link/statute/130/1154); [Pub. L. 115–52, title VI, § 611(a)](https://www.govinfo.gov/link/plaw/115/public/52), Aug. 18, 2017, [131 Stat. 1054](https://www.govinfo.gov/link/statute/131/1054); [Pub. L. 117–9, § 1(a)(3)](https://www.govinfo.gov/link/plaw/117/public/9), Apr. 23, 2021, [135 Stat. 257](https://www.govinfo.gov/link/statute/135/257).)*

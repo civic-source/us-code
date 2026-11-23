@@ -3,9 +3,10 @@ title: "Section 12514 - Pilot program on restorative practices"
 usc_title: 34
 usc_section: "12514"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 12514"
-generated_at: "2026-03-30T02:55:33.290Z"
+generated_at: "2026-11-23T21:26:09.755Z"
+status: "active"
 ---
 
 # § 12514. Pilot program on restorative practices
@@ -77,3 +78,7 @@ generated_at: "2026-03-30T02:55:33.290Z"
     - **(F)** any other qualitative or quantitative information determined by the Director.
   - **(2)** Not later than 2 years after March 15, 2022 , and biennially thereafter, the Director shall submit to Congress a report that summarizes the reports received by the Director under paragraph (1).
 - **(i)** There are authorized to be appropriated to the Director such sums as may be necessary for each of fiscal years 2023 through 2027 to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 103–322, title IV, § 41801](https://www.govinfo.gov/link/plaw/103/public/322), as added [Pub. L. 117–103, div. W, title I, § 109(a)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 852](https://www.govinfo.gov/link/statute/136/852).)*

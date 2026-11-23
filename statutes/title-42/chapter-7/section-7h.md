@@ -3,9 +3,10 @@ title: "Section 7h - Transparency reports and reporting of physician ownership o
 usc_title: 42
 usc_section: "7h"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7h"
-generated_at: "2026-03-30T02:56:10.911Z"
+generated_at: "2026-11-23T21:26:31.262Z"
+status: "active"
 ---
 
 # § 1320a–7h. Transparency reports and reporting of physician ownership or investment interests
@@ -124,3 +125,11 @@ generated_at: "2026-03-30T02:56:10.911Z"
       - **(xi)** In the case of a covered recipient who is a licensed non-medical professional, a transfer of anything of value to the covered recipient if the transfer is payment solely for the non-medical professional services of such licensed non-medical professional.
       - **(xii)** In the case of a covered recipient who is a physician, a transfer of anything of value to the covered recipient if the transfer is payment solely for the services of the covered recipient with respect to a civil or criminal action or an administrative proceeding.
   - **(11)** The term “physician” has the meaning given that term in section 1395x(r) of this title .
+
+In general
+
+No preemption of additional requirements
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XI, § 1128G, as added [Pub. L. 111–148, title VI, § 6002](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 689](https://www.govinfo.gov/link/statute/124/689); amended [Pub. L. 115–271, title VI, § 6111(a)(1)](https://www.govinfo.gov/link/plaw/115/public/271), (b), Oct. 24, 2018, [132 Stat. 4006](https://www.govinfo.gov/link/statute/132/4006), 4007.)*

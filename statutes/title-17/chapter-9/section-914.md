@@ -3,9 +3,10 @@ title: "Section 914 - International transitional provisions"
 usc_title: 17
 usc_section: "914"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 914"
-generated_at: "2026-03-30T02:54:15.355Z"
+generated_at: "2026-11-23T21:25:41.731Z"
+status: "active"
 ---
 
 # § 914. International transitional provisions
@@ -27,3 +28,15 @@ generated_at: "2026-03-30T02:54:15.355Z"
 - **(f)**
   - **(1)** The Secretary of Commerce shall promptly notify the Register of Copyrights and the Committees on the Judiciary of the Senate and the House of Representatives of the issuance or termination of any order under this section, together with a statement of the reasons for such action. The Secretary shall also publish such notification and statement of reasons in the Federal Register.
   - **(2)** Two years after the date of the enactment of this chapter, the Secretary of Commerce, in consultation with the Register of Copyrights, shall transmit to the Committees on the Judiciary of the Senate and the House of Representatives a report on the actions taken under this section and on the current status of international recognition of mask work protection. The report shall include such recommendations for modifications of the protection accorded under this chapter to mask works owned by nationals, domiciliaries, or sovereign authorities of foreign nations as the Secretary, in consultation with the Register of Copyrights, considers would promote the purposes of this chapter and international comity with respect to mask work protection. Not later than July 1, 1994 , the Secretary of Commerce, in consultation with the Register of Copyrights, shall transmit to the Committees on the Judiciary of the Senate and the House of Representatives a report updating the matters contained in the report transmitted under the preceding sentence.
+
+Findings
+
+Purposes
+
+Findings
+
+Purposes
+
+## Source Credit
+
+*(Added [Pub. L. 98–620, title III, § 302](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3355](https://www.govinfo.gov/link/statute/98/3355); amended [Pub. L. 100–159](https://www.govinfo.gov/link/plaw/100/public/159), §§ 2, 4, Nov. 9, 1987, [101 Stat. 899](https://www.govinfo.gov/link/statute/101/899), 900; [Pub. L. 102–64](https://www.govinfo.gov/link/plaw/102/public/64), §§ 3, 4, June 28, 1991, [105 Stat. 320](https://www.govinfo.gov/link/statute/105/320), 321.)*

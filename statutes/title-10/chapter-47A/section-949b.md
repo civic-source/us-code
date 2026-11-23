@@ -3,9 +3,10 @@ title: "Section 949b - Unlawfully influencing action of military commission and 
 usc_title: 10
 usc_section: "949b"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 949b"
-generated_at: "2026-03-30T02:53:38.089Z"
+generated_at: "2026-11-23T21:25:32.360Z"
+status: "active"
 ---
 
 # § 949b. Unlawfully influencing action of military commission and United States Court of Military Commission Review
@@ -35,3 +36,13 @@ generated_at: "2026-03-30T02:53:38.089Z"
 - **(c)** In the preparation of an effectiveness, fitness, or efficiency report or any other report or document used in whole or in part for the purpose of determining whether a commissioned officer of the armed forces is qualified to be advanced in grade, or in determining the assignment or transfer of any such officer or whether any such officer should be retained on active duty, no person may—
   - **(1)** consider or evaluate the performance of duty of any member of a military commission under this chapter; or
   - **(2)** give a less favorable rating or evaluation to any commissioned officer because of the zeal with which such officer, in acting as counsel, represented any accused before a military commission under this chapter.
+
+Military Commissions
+
+United States Court of Military Commission Review
+
+Prohibition on Consideration of Actions on Commission in Evaluation of Fitness
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title XVIII, § 1802](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2583](https://www.govinfo.gov/link/statute/123/2583); amended [Pub. L. 112–81, div. A, title X, § 1034(b)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1573](https://www.govinfo.gov/link/statute/125/1573).)*

@@ -3,9 +3,10 @@ title: "Section 20927 - Annual report"
 usc_title: 52
 usc_section: "20927"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 20927"
-generated_at: "2026-03-30T02:56:30.166Z"
+generated_at: "2026-11-23T21:26:42.331Z"
+status: "active"
 ---
 
 # § 20927. Annual report
@@ -17,3 +18,7 @@ Not later than January 31 of each year (beginning with 2004), the Commission sha
   - **(3)** Information on the voluntary voting system guidelines adopted or modified by the Commission under subpart 3 of this part and information on the voluntary guidance adopted under part B of subchapter III.
   - **(4)** All votes taken by the Commission.
   - **(5)** Such other information and recommendations as the Commission considers appropriate.
+
+## Source Credit
+
+*([Pub. L. 107–252, title II, § 207](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1677](https://www.govinfo.gov/link/statute/116/1677).)*

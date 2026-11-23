@@ -3,9 +3,10 @@ title: "Section 2105 - Penalties and administrative actions"
 usc_title: 41
 usc_section: "2105"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 2105"
-generated_at: "2026-03-30T02:55:55.804Z"
+generated_at: "2026-11-23T21:26:18.797Z"
+status: "active"
 ---
 
 # § 2105. Penalties and administrative actions
@@ -24,3 +25,72 @@ generated_at: "2026-03-30T02:55:55.804Z"
     - **(D)** Initiating an adverse personnel action, pursuant to the procedures in chapter 75 of title 5 or other applicable law or regulation.
   - **(2)** When a Federal agency rescinds a contract pursuant to paragraph (1)(B), the Federal Government is entitled to recover, in addition to any penalty prescribed by law, the amount expended under the contract.
   - **(3)** For purposes of a suspension or debarment proceeding initiated pursuant to paragraph (1)(C), engaging in conduct constituting an offense under section 2102, 2103, or 2104 of this title affects the present responsibility of a Federal Government contractor or subcontractor.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 2105(a) | 41:423(e)(1). | Pub. L. 93–400, § 27(e) , as added Pub. L. 100–679, § 6(a) , Nov. 17, 1988 , 102 Stat. 4063 ; Pub. L. 101–189, title VIII, § 814(a) –(d)(1), Nov. 29, 1989 , 103 Stat. 1495 ; Pub. L. 101–510, title XIV, § 1484 ( l )(6), Nov. 5, 1990 , 104 Stat. 1720 ; Pub. L. 102–25, title VII, § 705(i) , Apr. 6, 1991 , 105 Stat. 121 ; Pub. L. 103–355, title VIII, § 8301(e) , Oct. 13, 1994 , 108 Stat. 3397 ; Pub. L. 104–106, title XLIII, § 4304(a) , Feb. 10, 1996 , 110 Stat. 661 . |
+| 2105(b) | 41:423(e)(2). |  |
+| 2105(c) | 41:423(e)(3). |  |
+
+
+Criminal Penalties
+
+Civil Penalties
+
+Administrative Actions.—
+
+Types of action that federal agency may take
+
+Amount government entitled to recover
+
+Present responsibility affected by conduct
+
+Historical and Revision Notes
+
+2105(a)
+
+Pub. L. 93–400, § 27(e)
+
+Pub. L. 100–679, § 6(a)
+
+Nov. 17, 1988
+
+102 Stat. 4063
+
+Pub. L. 101–189, title VIII, § 814(a)
+
+Nov. 29, 1989
+
+103 Stat. 1495
+
+Pub. L. 101–510, title XIV, § 1484
+
+Nov. 5, 1990
+
+104 Stat. 1720
+
+Pub. L. 102–25, title VII, § 705(i)
+
+Apr. 6, 1991
+
+105 Stat. 121
+
+Pub. L. 103–355, title VIII, § 8301(e)
+
+Oct. 13, 1994
+
+108 Stat. 3397
+
+Pub. L. 104–106, title XLIII, § 4304(a)
+
+Feb. 10, 1996
+
+110 Stat. 661
+
+2105(b)
+
+2105(c)
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3730](https://www.govinfo.gov/link/statute/124/3730).)*

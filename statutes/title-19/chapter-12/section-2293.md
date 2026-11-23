@@ -3,9 +3,10 @@ title: "Section 2293 - Limitations on trade readjustment allowances"
 usc_title: 19
 usc_section: "2293"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2293"
-generated_at: "2026-03-30T02:54:24.669Z"
+generated_at: "2026-11-23T21:25:42.786Z"
+status: "active"
 ---
 
 # § 2293. Limitations on trade readjustment allowances
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:24.669Z"
   - **(1)** the worker was participating in a training program approved under section 2296(a) of this title before the beginning of such break in training, and
   - **(2)** the break is provided under such training program.
 - **(g)** Notwithstanding any other provision of this section, in order to assist an adversely affected worker to complete training approved for the worker under section 2296 of this title which includes a program of remedial education (as described in section 2296(a)(5)(D) of this title ), and in accordance with regulations prescribed by the Secretary, payments may be made as trade readjustment allowances for up to 26 additional weeks in the 26-week period that follows the last week of entitlement to trade readjustment allowances otherwise payable under this part.
+
+## Source Credit
+
+*([Pub. L. 93–618, title II, § 233](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 2022](https://www.govinfo.gov/link/statute/88/2022); [Pub. L. 97–35, title XXV, § 2505(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 883](https://www.govinfo.gov/link/statute/95/883); [Pub. L. 98–369, div. B, title VI, § 2671](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1172](https://www.govinfo.gov/link/statute/98/1172); [Pub. L. 99–272, title XIII, § 13003(d)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 301](https://www.govinfo.gov/link/statute/100/301); [Pub. L. 100–418, title I](https://www.govinfo.gov/link/plaw/100/public/418), §§ 1423(c), 1425(a), Aug. 23, 1988, [102 Stat. 1246](https://www.govinfo.gov/link/statute/102/1246), 1250; [Pub. L. 106–36, title I, § 1001(a)(1)](https://www.govinfo.gov/link/plaw/106/public/36), June 25, 1999, [113 Stat. 130](https://www.govinfo.gov/link/statute/113/130); [Pub. L. 107–210, div. A, title I, § 116](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 941](https://www.govinfo.gov/link/statute/116/941); [Pub. L. 111–5, div. B, title I](https://www.govinfo.gov/link/plaw/111/public/5), §§ 1821(c)(2), 1823, 1824, 1829(b), Feb. 17, 2009, [123 Stat. 377](https://www.govinfo.gov/link/statute/123/377), 378, 383; [Pub. L. 112–40, title II](https://www.govinfo.gov/link/plaw/112/public/40), §§ 201(b), (c), 213, Oct. 21, 2011, [125 Stat. 403](https://www.govinfo.gov/link/statute/125/403), 404; [Pub. L. 114–27, title IV, § 402(b)](https://www.govinfo.gov/link/plaw/114/public/27), (c), June 29, 2015, [129 Stat. 374](https://www.govinfo.gov/link/statute/129/374); [Pub. L. 118–31, div. A, title XVII, § 1742(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 681](https://www.govinfo.gov/link/statute/137/681).)*

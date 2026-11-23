@@ -3,9 +3,10 @@ title: "Section 364 - Definitions"
 usc_title: 21
 usc_section: "364"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 364"
-generated_at: "2026-03-30T02:54:54.262Z"
+generated_at: "2026-11-23T21:25:56.123Z"
+status: "active"
 ---
 
 # § 364. Definitions
@@ -43,3 +44,15 @@ In this subchapter:
       - **(vi)** an infection; or
       - **(vii)** significant disfigurement (including serious and persistent rashes, second- or third-degree burns, significant hair loss, or persistent or significant alteration of appearance), other than as intended, under conditions of use that are customary or usual; or
     - **(B)** requires, based on reasonable medical judgment, a medical or surgical intervention to prevent an outcome described in subparagraph (A).
+
+In general
+
+Clarification
+
+In general
+
+Clarification
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 604, as added [Pub. L. 117–328, div. FF, title III, § 3502](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5847](https://www.govinfo.gov/link/statute/136/5847).)*

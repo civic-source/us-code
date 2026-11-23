@@ -3,9 +3,10 @@ title: "Section 5189e - Essential service providers"
 usc_title: 42
 usc_section: "5189e"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5189e"
-generated_at: "2026-03-30T02:56:11.226Z"
+generated_at: "2026-11-23T21:26:32.765Z"
+status: "active"
 ---
 
 # § 5189e. Essential service providers
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.226Z"
   - **(1)** deny or impede access to the disaster site to an essential service provider whose access is necessary to restore and repair an essential service; or
   - **(2)** impede the restoration or repair of the services described in subsection (a)(1).
 - **(c)** In implementing this section, the head of a Federal agency shall follow all applicable Federal laws, regulations, and policies.
+
+## Source Credit
+
+*([Pub. L. 93–288, title IV, § 427](https://www.govinfo.gov/link/plaw/93/public/288), formerly § 425, as added [Pub. L. 109–347, title VI, § 607](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1941](https://www.govinfo.gov/link/statute/120/1941); renumbered § 427, [Pub. L. 113–2, div. B, § 1102(1)](https://www.govinfo.gov/link/plaw/113/public/2), Jan. 29, 2013, [127 Stat. 39](https://www.govinfo.gov/link/statute/127/39); amended [Pub. L. 115–141, div. P, title III, § 302](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1087](https://www.govinfo.gov/link/statute/132/1087).)*

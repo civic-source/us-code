@@ -3,9 +3,10 @@ title: "Section 5705 - Approving collateral support and other innovative credit 
 usc_title: 12
 usc_section: "5705"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5705"
-generated_at: "2026-03-30T02:53:53.550Z"
+generated_at: "2026-11-23T21:25:37.303Z"
+status: "active"
 ---
 
 # § 5705. Approving collateral support and other innovative credit access and guarantee initiatives for small businesses and manufacturers
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:53.550Z"
 - **(f)**
   - **(1)** The Secretary shall, by regulation or other guidance, prescribe Program requirements for approved State other credit support programs.
   - **(2)** In prescribing minimum Program requirements for approved State other credit support programs, the Secretary shall take into consideration, to the extent the Secretary determines applicable and appropriate, the minimum Program requirements for approved State capital access programs in section 5704(e) of this title .
+
+## Source Credit
+
+*([Pub. L. 111–240, title III, § 3006](https://www.govinfo.gov/link/plaw/111/public/240), Sept. 27, 2010, [124 Stat. 2577](https://www.govinfo.gov/link/statute/124/2577); [Pub. L. 117–2, title III, § 3301(a)(1)(D)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 69](https://www.govinfo.gov/link/statute/135/69).)*

@@ -3,9 +3,10 @@ title: "Section 53105 - Obligations and rights under operating agreements"
 usc_title: 46
 usc_section: "53105"
 chapter: 531
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 53105"
-generated_at: "2026-03-30T02:56:15.572Z"
+generated_at: "2026-11-23T21:26:37.250Z"
+status: "active"
 ---
 
 # § 53105. Obligations and rights under operating agreements
@@ -25,3 +26,27 @@ generated_at: "2026-03-30T02:56:15.572Z"
   - **(2)** All terms and conditions of an Emergency Preparedness Agreement entered into under section 53107 shall remain in effect until the date the operating agreement would terminate according to its terms, except that the terms of such Emergency Preparedness Agreement may be modified by the mutual consent of the contractor, the Secretary of Transportation, and the Secretary of Defense.
 - **(e)** A contractor under an operating agreement may transfer the agreement (including all rights and obligations under the operating agreement) to any person that is eligible to enter into the operating agreement under this chapter if the Secretary and the Secretary of Defense determine that the transfer is in the best interests of the United States. A transaction shall not be considered a transfer of an operating agreement if the same legal entity with the same vessels remains the contracting party under the operating agreement.
 - **(f)** A contractor may replace a vessel under an operating agreement with another vessel that is eligible to be included in the Fleet under section 53102(b), if the Secretary, in conjunction with the Secretary of Defense, approves the replacement of the vessel.
+
+Operation of Vessel
+
+Annual Payments by Secretary
+
+In general
+
+Operating agreement is obligation of united states government
+
+Documentation Requirement
+
+National Security Requirements
+
+In general
+
+Emergency preparedness agreement
+
+Transfer of Operating Agreements
+
+Replacement Vessels
+
+## Source Credit
+
+*(Added [Pub. L. 108–136, div. C, title XXXV, § 3531(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1812](https://www.govinfo.gov/link/statute/117/1812); amended [Pub. L. 109–304, § 13(a)(4)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1701](https://www.govinfo.gov/link/statute/120/1701); [Pub. L. 109–364, div. C, title XXXV, § 3502(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2514](https://www.govinfo.gov/link/statute/120/2514); [Pub. L. 110–181, div. C, title XXXV, § 3526(f)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 602](https://www.govinfo.gov/link/statute/122/602); [Pub. L. 112–239, div. C, title XXXV, § 3508(e)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2225](https://www.govinfo.gov/link/statute/126/2225); [Pub. L. 115–91, div. C, title XXXV, § 3503(a)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1911](https://www.govinfo.gov/link/statute/131/1911).)*

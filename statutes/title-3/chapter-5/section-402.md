@@ -3,9 +3,10 @@ title: "Section 402 - Application of laws"
 usc_title: 3
 usc_section: "402"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "3 U.S.C. § 402"
-generated_at: "2026-03-30T02:52:49.879Z"
+generated_at: "2026-11-23T21:25:20.109Z"
+status: "active"
 ---
 
 # § 402. Application of laws
@@ -23,3 +24,7 @@ The following laws shall apply, as prescribed by this chapter, to all employing 
   - **(9)** The Worker Adjustment and Retraining Notification Act.
   - **(10)** The Rehabilitation Act of 1973.
   - **(11)** Chapter 43 (relating to veterans’ employment and reemployment) of title 38.
+
+## Source Credit
+
+*(Added [Pub. L. 104–331, § 2(a)](https://www.govinfo.gov/link/plaw/104/public/331), Oct. 26, 1996, [110 Stat. 4054](https://www.govinfo.gov/link/statute/110/4054).)*

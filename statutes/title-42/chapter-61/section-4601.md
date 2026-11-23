@@ -3,9 +3,10 @@ title: "Section 4601 - Definitions"
 usc_title: 42
 usc_section: "4601"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4601"
-generated_at: "2026-03-30T02:56:11.206Z"
+generated_at: "2026-11-23T21:26:32.678Z"
+status: "active"
 ---
 
 # § 4601. Definitions
@@ -39,3 +40,11 @@ As used in this chapter—
   - **(11)** The term “displacing agency” means any Federal agency carrying out a program or project, and any State, State agency, or person carrying out a program or project with Federal financial assistance, which causes a person to be a displaced person.
   - **(12)** The term “lead agency” means the Department of Transportation.
   - **(13)** The term “appraisal” means a written statement independently and impartially prepared by a qualified appraiser setting forth an opinion of defined value of an adequately described property as of a specific date, supported by the presentation and analysis of relevant market information.
+
+Inapplicability of URA
+
+Definition of ‘Qualified Buyout Program’
+
+## Source Credit
+
+*([Pub. L. 91–646, title I, § 101](https://www.govinfo.gov/link/plaw/91/public/646), Jan. 2, 1971, [84 Stat. 1894](https://www.govinfo.gov/link/statute/84/1894); [Pub. L. 100–17, title IV, § 402](https://www.govinfo.gov/link/plaw/100/public/17), Apr. 2, 1987, [101 Stat. 246](https://www.govinfo.gov/link/statute/101/246).)*

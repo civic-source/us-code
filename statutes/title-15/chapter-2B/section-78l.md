@@ -3,9 +3,10 @@ title: "Section 78l - Registration requirements for securities"
 usc_title: 15
 usc_section: "78l"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 78l"
-generated_at: "2026-03-30T02:54:08.044Z"
+generated_at: "2026-11-23T21:25:39.532Z"
+status: "active"
 ---
 
 # § 78l. Registration requirements for securities
@@ -115,3 +116,13 @@ generated_at: "2026-03-30T02:54:08.044Z"
       - **(i)** the functioning of securities markets, investment companies, or any other significant portion or segment of the securities markets; or
       - **(ii)** the transmission or processing of securities transactions.
 - **(l)** It shall be unlawful for an issuer, any class of whose securities is registered pursuant to this section or would be required to be so registered except for the exemption from registration provided by subsection (g)(2)(B) or (g)(2)(G) of this section, by the use of any means or instrumentality of interstate commerce, or of the mails, to issue, either originally or upon transfer, any of such securities in a form or with a format which contravenes such rules and regulations as the Commission may prescribe as necessary or appropriate for the prompt and accurate clearance and settlement of transactions in securities. The provisions of this subsection shall not apply to variable annuity contracts or variable life policies issued by an insurance company or its separate accounts.
+
+Exclusion for persons holding certain securities
+
+In general
+
+Total compensation
+
+## Source Credit
+
+*(June 6, 1934, ch. 404, title I, § 12, [48 Stat. 892](https://www.govinfo.gov/link/statute/48/892); May 27, 1936, ch. 462, § 1, [49 Stat. 1375](https://www.govinfo.gov/link/statute/49/1375); Aug. 10, 1954, ch. 667, title II, § 202, [68 Stat. 686](https://www.govinfo.gov/link/statute/68/686); [Pub. L. 88–467, § 3](https://www.govinfo.gov/link/plaw/88/public/467), Aug. 20, 1964, [78 Stat. 565](https://www.govinfo.gov/link/statute/78/565); [Pub. L. 90–439, § 1](https://www.govinfo.gov/link/plaw/90/public/439), July 29, 1968, [82 Stat. 454](https://www.govinfo.gov/link/statute/82/454); [Pub. L. 91–547, § 28(c)](https://www.govinfo.gov/link/plaw/91/public/547), Dec. 14, 1970, [84 Stat. 1435](https://www.govinfo.gov/link/statute/84/1435); [Pub. L. 93–495, title I, § 105(b)](https://www.govinfo.gov/link/plaw/93/public/495), Oct. 28, 1974, [88 Stat. 1503](https://www.govinfo.gov/link/statute/88/1503); [Pub. L. 94–29](https://www.govinfo.gov/link/plaw/94/public/29), §§ 8, 9, June 4, 1975, [89 Stat. 117](https://www.govinfo.gov/link/statute/89/117), 118; [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 100–181, title III, § 314](https://www.govinfo.gov/link/plaw/100/public/181), Dec. 4, 1987, [101 Stat. 1256](https://www.govinfo.gov/link/statute/101/1256); [Pub. L. 101–73, title VII, § 744(u)(2)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 441](https://www.govinfo.gov/link/statute/103/441); [Pub. L. 101–432, § 2](https://www.govinfo.gov/link/plaw/101/public/432), Oct. 16, 1990, [104 Stat. 963](https://www.govinfo.gov/link/statute/104/963); [Pub. L. 103–389, § 2](https://www.govinfo.gov/link/plaw/103/public/389), Oct. 22, 1994, [108 Stat. 4081](https://www.govinfo.gov/link/statute/108/4081); [Pub. L. 104–62, § 4(d)](https://www.govinfo.gov/link/plaw/104/public/62), Dec. 8, 1995, [109 Stat. 685](https://www.govinfo.gov/link/statute/109/685); [Pub. L. 106–554, § 1(a)(5) [title II, §§ 206(e), 208(b)(1), (2)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–431, 2763A–435; [Pub. L. 107–204, § 3(b)(4)](https://www.govinfo.gov/link/plaw/107/public/204), title II, § 205(c)(1), July 30, 2002, [116 Stat. 749](https://www.govinfo.gov/link/statute/116/749), 774; [Pub. L. 108–359, § 1(c)(2)](https://www.govinfo.gov/link/plaw/108/public/359), Oct. 25, 2004, [118 Stat. 1666](https://www.govinfo.gov/link/statute/118/1666); [Pub. L. 108–386, § 8(f)(4)](https://www.govinfo.gov/link/plaw/108/public/386), Oct. 30, 2004, [118 Stat. 2232](https://www.govinfo.gov/link/statute/118/2232); [Pub. L. 108–458, title VII, § 7803(b)](https://www.govinfo.gov/link/plaw/108/public/458), (c), Dec. 17, 2004, [118 Stat. 3861](https://www.govinfo.gov/link/statute/118/3861), 3862; [Pub. L. 111–203, title III, § 376(2)](https://www.govinfo.gov/link/plaw/111/public/203), title IX, § 986(a)(2), July 21, 2010, [124 Stat. 1569](https://www.govinfo.gov/link/statute/124/1569), 1935; [Pub. L. 112–106, title III, § 303(a)](https://www.govinfo.gov/link/plaw/112/public/106), title V, §§ 501, 502, title VI, § 601(a), Apr. 5, 2012, [126 Stat. 321](https://www.govinfo.gov/link/statute/126/321), 325, 326; [Pub. L. 114–94, div. G, title LXXXV, § 85001(1)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1797](https://www.govinfo.gov/link/statute/129/1797).)*

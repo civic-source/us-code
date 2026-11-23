@@ -3,9 +3,10 @@ title: "Section 6128 - Plutonium pit production capacity"
 usc_title: 10
 usc_section: "6128"
 chapter: 602
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6128"
-generated_at: "2026-03-30T02:53:38.219Z"
+generated_at: "2026-11-23T21:25:32.813Z"
+status: "active"
 ---
 
 # § 6128. Plutonium pit production capacity
@@ -46,3 +47,39 @@ generated_at: "2026-03-30T02:53:38.219Z"
 - **(i)** In this section, the term “covered project” means—
   - **(1)** the Savannah River Plutonium Processing Facility, Savannah River Site, Aiken, South Carolina (Project 21–D–511); or
   - **(2)** the Plutonium Pit Production Project, Los Alamos National Laboratory, Los Alamos, New Mexico (Project 21–D–512).
+
+Requirement
+
+Annual Certification
+
+Plan
+
+Certifications on Plutonium Enterprise
+
+Reports
+
+Capacity
+
+Prohibition on ARIES Expansion Before Achievement of 30 Pit-per-year Base Capability
+
+Management of Plutonium Modernization Program
+
+Covered Project Defined
+
+Requirement
+
+Failure to certify
+
+Requirement
+
+Elements
+
+In general
+
+Exceptions
+
+Definitions
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI](https://www.govinfo.gov/link/plaw/119/public/60), §§ 3111(a), (d)(1)(B), (2), 3112, Dec. 18, 2025, [139 Stat. 1363](https://www.govinfo.gov/link/statute/139/1363), 1461, 1462.)*

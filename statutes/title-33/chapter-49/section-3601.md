@@ -3,9 +3,10 @@ title: "Section 3601 - Purposes"
 usc_title: 33
 usc_section: "3601"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3601"
-generated_at: "2026-03-30T02:55:41.142Z"
+generated_at: "2026-11-23T21:26:11.485Z"
+status: "active"
 ---
 
 # § 3601. Purposes
@@ -24,3 +25,7 @@ The purposes of this chapter are—
   - **(4)** to authorize activities—
     - **(A)** to promote basic and applied research to develop, test, and deploy innovations and improvements in coastal and ocean observation technologies, including advanced observing technologies such as unmanned maritime systems needed to address critical data gaps, modeling systems, other scientific and technological capabilities to improve the understanding of weather and climate, ocean-atmosphere dynamics, global climate change, and the physical, chemical, and biological dynamics of the ocean, coastal, and Great Lakes environments; and
     - **(B)** to conserve healthy and restore degraded coastal ecosystems.
+
+## Source Credit
+
+*([Pub. L. 111–11, title XII, § 12302](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1427](https://www.govinfo.gov/link/statute/123/1427); [Pub. L. 116–271, title I, § 101](https://www.govinfo.gov/link/plaw/116/public/271), Dec. 31, 2020, [134 Stat. 3331](https://www.govinfo.gov/link/statute/134/3331).)*

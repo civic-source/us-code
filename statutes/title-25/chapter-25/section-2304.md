@@ -3,9 +3,10 @@ title: "Section 2304 - Identification of right to payment and expedited claim pa
 usc_title: 25
 usc_section: "2304"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2304"
-generated_at: "2026-03-30T02:54:52.840Z"
+generated_at: "2026-11-23T21:25:54.667Z"
+status: "active"
 ---
 
 # § 2304. Identification of right to payment and expedited claim payment
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:52.840Z"
   - **(2)** notification of the next of kin of such individual;
   - **(3)** notification of the chairman or chief executive officer of the tribe of which such individual is a member or of which the deceased Indian was a member; and
   - **(4)** publication of notice in newspapers of general circulation in the appropriate area.
+
+## Source Credit
+
+*([Pub. L. 98–500, § 5](https://www.govinfo.gov/link/plaw/98/public/500), Oct. 19, 1984, [98 Stat. 2318](https://www.govinfo.gov/link/statute/98/2318).)*

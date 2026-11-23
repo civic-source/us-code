@@ -3,9 +3,10 @@ title: "Section 3684A - Procedures relating to computer matching program"
 usc_title: 38
 usc_section: "3684A"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3684A"
-generated_at: "2026-03-30T02:55:53.509Z"
+generated_at: "2026-11-23T21:26:16.763Z"
+status: "active"
 ---
 
 # § 3684A. Procedures relating to computer matching program
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:53.509Z"
   - **(3)** In computing the 10-day period referred to in paragraph (2) of this subsection, Saturdays, Sundays, and Federal holidays shall be excluded.
 - **(b)** For the purposes of subsection (q) of section 552a of title 5 , compliance with the provisions of subsection (a) of this section shall be considered compliance with the provisions of subsection (p) of such section 552a.
 - **(c)** For purposes of this section, the term “matching program” has the same meaning provided in section 552a(a)(8) of title 5 .
+
+## Source Credit
+
+*(Added [Pub. L. 101–366, title II, § 206(a)](https://www.govinfo.gov/link/plaw/101/public/366), Aug. 15, 1990, [104 Stat. 441](https://www.govinfo.gov/link/statute/104/441), § 1784A; renumbered § 3684A, [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406).)*

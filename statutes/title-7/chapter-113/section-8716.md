@@ -3,9 +3,10 @@ title: "Section 8716 - Producer agreement required as condition of provision of 
 usc_title: 7
 usc_section: "8716"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 8716"
-generated_at: "2026-03-30T02:53:42.478Z"
+generated_at: "2026-11-23T21:25:28.479Z"
+status: "active"
 ---
 
 # § 8716. Producer agreement required as condition of provision of payments
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:42.478Z"
     - **(A)** November 14, 2008 ; or
     - **(B)** the end of the 45-day period beginning on October 13, 2008 .
   - **(2)** The Secretary shall ensure that no penalty with respect to benefits under this subchapter or subchapter II is assessed against producers on a farm described in paragraph (1) for failure to submit reports under this section or timely comply with other program requirements as a result of compliance with the extended signup deadline under that paragraph.
+
+## Source Credit
+
+*([Pub. L. 110–234, title I, § 1106](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 949](https://www.govinfo.gov/link/statute/122/949); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1106, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1677; [Pub. L. 110–398, § 1(b)(1)](https://www.govinfo.gov/link/plaw/110/public/398), Oct. 13, 2008, [122 Stat. 4213](https://www.govinfo.gov/link/statute/122/4213).)*

@@ -3,12 +3,17 @@ title: "Section 1718 - Documents of conveyance; terms, covenants, etc."
 usc_title: 43
 usc_section: "1718"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1718"
-generated_at: "2026-03-30T02:55:57.487Z"
+generated_at: "2026-11-23T21:26:19.874Z"
+status: "active"
 ---
 
 # § 1718. Documents of conveyance; terms, covenants, etc.
 
 The Secretary shall issue all patents or other documents of conveyance after any disposal authorized by this Act. The Secretary shall insert in any such patent or other document of conveyance he issues, except in the case of land exchanges, for which the provisions of sub section 1716(b) of this title shall apply, such terms, covenants, conditions, and reservations as he deems necessary to insure proper land use and protection of the public interest: Provided , That a conveyance of lands by the Secretary, subject to such terms, covenants, conditions, and reservations, shall not exempt the grantee from compliance with applicable Federal or State law or State land use plans: Provided further , That the Secretary shall not make conveyances of public lands containing terms and conditions which would, at the time of the conveyance, constitute a violation of any law or regulation pursuant to State and local land use plans, or programs.
 
+
+## Source Credit
+
+*([Pub. L. 94–579, title II, § 208](https://www.govinfo.gov/link/plaw/94/public/579), Oct. 21, 1976, [90 Stat. 2757](https://www.govinfo.gov/link/statute/90/2757).)*

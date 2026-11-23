@@ -3,9 +3,10 @@ title: "Section 3013 - Special assessment on convicted persons"
 usc_title: 18
 usc_section: "3013"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3013"
-generated_at: "2026-03-30T02:54:16.510Z"
+generated_at: "2026-11-23T21:25:44.172Z"
+status: "active"
 ---
 
 # § 3013. Special assessment on convicted persons
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:16.510Z"
 - **(b)** Such amount so assessed shall be collected in the manner that fines are collected in criminal cases.
 - **(c)** The obligation to pay an assessment ceases five years after the date of the judgment. This subsection shall apply to all assessments irrespective of the date of imposition.
 - **(d)** For the purposes of this section, an offense under section 13 of this title is an offense against the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 1405(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2174](https://www.govinfo.gov/link/statute/98/2174); amended [Pub. L. 100–185, § 3](https://www.govinfo.gov/link/plaw/100/public/185), Dec. 11, 1987, [101 Stat. 1279](https://www.govinfo.gov/link/statute/101/1279); [Pub. L. 100–690, title VII](https://www.govinfo.gov/link/plaw/100/public/690), §§ 7082(b), 7085, Nov. 18, 1988, [102 Stat. 4407](https://www.govinfo.gov/link/statute/102/4407), 4408; [Pub. L. 101–647, title XXXV, § 3569](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4928](https://www.govinfo.gov/link/statute/104/4928); [Pub. L. 104–132, title II, § 210](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1240](https://www.govinfo.gov/link/statute/110/1240); [Pub. L. 104–294, title VI, § 601(r)(4)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3502](https://www.govinfo.gov/link/statute/110/3502).)*

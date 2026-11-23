@@ -3,9 +3,10 @@ title: "Section 7781 - Cyber Center for Education and Innovation-Home of the Nat
 usc_title: 10
 usc_section: "7781"
 chapter: 779
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 7781"
-generated_at: "2026-03-30T02:53:38.236Z"
+generated_at: "2026-11-23T21:25:32.879Z"
+status: "active"
 ---
 
 # § 7781. Cyber Center for Education and Innovation-Home of the National Cryptologic Museum
@@ -25,3 +26,33 @@ generated_at: "2026-03-30T02:53:38.236Z"
     - **(B)** Any other amounts received by the Secretary which are attributable to the operation of the Center.
   - **(3)** Amounts in the Fund shall be available to the Secretary for the benefit and operation of the Center, including the costs of operation and the acquisition of books, manuscripts, works of art, historical artifacts, drawings, plans, models, and condemned or obsolete combat materiel.
   - **(4)** Amounts in the Fund shall be available without fiscal year limitation.
+
+Establishment
+
+Design, Construction, and Operation
+
+Acceptance Authority.—
+
+Acceptance of facility
+
+Acceptance of services
+
+Fees and User Charges.—
+
+Authority to assess fees and user charges
+
+Use of funds
+
+Fund.—
+
+Establishment
+
+Contents
+
+Use of fund
+
+Continuing availability of amounts
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. B, title XXVIII, § 2831(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2738](https://www.govinfo.gov/link/statute/130/2738), § 4781; renumbered § 7781, [Pub. L. 115–232, div. A, title VIII, § 808(d)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1839](https://www.govinfo.gov/link/statute/132/1839).)*

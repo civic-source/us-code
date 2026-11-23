@@ -3,12 +3,17 @@ title: "Section 1221 - Congressional declaration of policy"
 usc_title: 16
 usc_section: "1221"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1221"
-generated_at: "2026-03-30T02:54:22.944Z"
+generated_at: "2026-11-23T21:25:51.838Z"
+status: "active"
 ---
 
 # § 1221. Congressional declaration of policy
 
 Congress finds and declares that many estuaries in the United States are rich in a variety of natural, commercial, and other resources, including environmental natural beauty, and are of immediate and potential value to the present and future generations of Americans. It is therefore the purpose of this chapter to provide a means for considering the need to protect, conserve, and restore these estuaries in a manner that adequately and reasonably maintains a balance between the national need for such protection in the interest of conserving the natural resources and natural beauty of the Nation and the need to develop these estuaries to further the growth and development of the Nation. In connection with the exercise of jurisdiction over the estuaries of the Nation and in consequence of the benefits resulting to the public, it is declared to be the policy of Congress to recognize, preserve, and protect the responsibilities of the States in protecting, conserving, and restoring the estuaries in the United States.
 
+
+## Source Credit
+
+*([Pub. L. 90–454, § 1](https://www.govinfo.gov/link/plaw/90/public/454), Aug. 3, 1968, [82 Stat. 625](https://www.govinfo.gov/link/statute/82/625).)*

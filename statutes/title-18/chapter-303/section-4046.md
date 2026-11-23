@@ -3,9 +3,10 @@ title: "Section 4046 - Shock incarceration program"
 usc_title: 18
 usc_section: "4046"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 4046"
-generated_at: "2026-03-30T02:54:16.527Z"
+generated_at: "2026-11-23T21:25:44.235Z"
+status: "active"
 ---
 
 # § 4046. Shock incarceration program
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:16.527Z"
   - **(1)** adhere to a highly regimented schedule that provides the strict discipline, physical training, hard labor, drill, and ceremony characteristic of military basic training; and
   - **(2)** participate in appropriate job training and educational programs (including literacy programs) and drug, alcohol, and other counseling programs.
 - **(c)** An inmate who in the judgment of the Director of the Bureau of Prisons has successfully completed the required period of shock incarceration shall remain in the custody of the Bureau for such period (not to exceed the remainder of the prison term otherwise required by law to be served by that inmate), and under such conditions, as the Bureau deems appropriate.
+
+## Source Credit
+
+*(Added [Pub. L. 101–647, title XXX, § 3001(a)](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4915](https://www.govinfo.gov/link/statute/104/4915).)*

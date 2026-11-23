@@ -3,9 +3,10 @@ title: "Section 1443 - Administration"
 usc_title: 8
 usc_section: "1443"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1443"
-generated_at: "2026-03-30T02:53:10.502Z"
+generated_at: "2026-11-23T21:25:25.196Z"
+status: "active"
 ---
 
 # § 1443. Administration
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:10.502Z"
 - **(f)** Certifications and certified copies of all papers, documents, certificates, and records required or authorized to be issued, used, filed, recorded, or kept under any and all provisions of this chapter shall be admitted in evidence equally with the originals in any and all cases and proceedings under this chapter and in all cases and proceedings in which the originals thereof might be admissible as evidence.
 - **(g)** The officers in charge of property owned or leased by the Government are authorized, upon the recommendation of the Attorney General, to provide quarters, without payment of rent, in any building occupied by the Service, for a photographic studio, operated by welfare organizations without profit and solely for the benefit of persons seeking to comply with requirements under the immigration and nationality laws. Such studio shall be under the supervision of the Attorney General.
 - **(h)** In order to promote the opportunities and responsibilities of United States citizenship, the Attorney General shall broadly distribute information concerning the benefits which persons may receive under this subchapter and the requirements to obtain such benefits. In carrying out this subsection, the Attorney General shall seek the assistance of appropriate community groups, private voluntary agencies, and other relevant organizations. There are authorized to be appropriated (for each fiscal year beginning with fiscal year 1991) such sums as may be necessary to carry out this subsection.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title III, ch. 2, § 332, [66 Stat. 252](https://www.govinfo.gov/link/statute/66/252); [Pub. L. 101–649, title IV](https://www.govinfo.gov/link/plaw/101/public/649), §§ 406, 407(d)(10), Nov. 29, 1990, [104 Stat. 5040](https://www.govinfo.gov/link/statute/104/5040), 5042; [Pub. L. 102–232, title III, § 305(m)(6)](https://www.govinfo.gov/link/plaw/102/public/232), Dec. 12, 1991, [105 Stat. 1750](https://www.govinfo.gov/link/statute/105/1750).)*

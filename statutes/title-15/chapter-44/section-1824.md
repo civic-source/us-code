@@ -3,9 +3,10 @@ title: "Section 1824 - Unlawful acts"
 usc_title: 15
 usc_section: "1824"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1824"
-generated_at: "2026-03-30T02:54:08.160Z"
+generated_at: "2026-11-23T21:25:39.895Z"
+status: "active"
 ---
 
 # § 1824. Unlawful acts
@@ -23,3 +24,7 @@ The following conduct is prohibited:
   - **(9)** The failure or refusal to permit access to or copying of records, or the failure or refusal to permit entry or inspection, as required by section 1823 of this title .
   - **(10)** The removal of any marking required by the Secretary to identify a horse as being detained.
   - **(11)** The failure or refusal to provide the Secretary with adequate space or facilities, as the Secretary may by regulation under section 1828 of this title prescribe, in which to conduct inspections or any other activity authorized to be performed by the Secretary under this chapter.
+
+## Source Credit
+
+*([Pub. L. 91–540, § 5](https://www.govinfo.gov/link/plaw/91/public/540), Dec. 9, 1970, [84 Stat. 1405](https://www.govinfo.gov/link/statute/84/1405); [Pub. L. 94–360, § 6](https://www.govinfo.gov/link/plaw/94/public/360), July 13, 1976, [90 Stat. 916](https://www.govinfo.gov/link/statute/90/916).)*

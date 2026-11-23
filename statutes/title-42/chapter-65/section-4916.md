@@ -3,9 +3,10 @@ title: "Section 4916 - Railroad noise emission standards"
 usc_title: 42
 usc_section: "4916"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4916"
-generated_at: "2026-03-30T02:56:11.211Z"
+generated_at: "2026-11-23T21:26:32.701Z"
+status: "active"
 ---
 
 # § 4916. Railroad noise emission standards
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.211Z"
   - **(1)** Subject to paragraph (2) but notwithstanding any other provision of this chapter, after the effective date of a regulation under this section applicable to noise emissions resulting from the operation of any equipment or facility of a surface carrier engaged in interstate commerce by railroad, no State or political subdivision thereof may adopt or enforce any standard applicable to noise emissions resulting from the operation of the same equipment or facility of such carrier unless such standard is identical to a standard applicable to noise emissions resulting from such operation prescribed by any regulation under this section.
   - **(2)** Nothing in this section shall diminish or enhance the rights of any State or political subdivision thereof to establish and enforce standards or controls on levels of environmental noise, or to control, license, regulate, or restrict the use, operation, or movement of any product if the Administrator, after consultation with the Secretary of Transportation, determines that such standard, control, license, regulation, or restriction is necessitated by special local conditions and is not in conflict with regulations promulgated under this section.
 - **(e)** The terms “carrier” and “railroad” as used in this section shall have the same meaning as the term “railroad carrier” has in section 20102 of title 49 .
+
+## Source Credit
+
+*([Pub. L. 92–574, § 17](https://www.govinfo.gov/link/plaw/92/public/574), Oct. 27, 1972, [86 Stat. 1248](https://www.govinfo.gov/link/statute/86/1248); [Pub. L. 104–287, § 6(i)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3399](https://www.govinfo.gov/link/statute/110/3399); [Pub. L. 117–58, div. B, title II, § 22423](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 752](https://www.govinfo.gov/link/statute/135/752).)*

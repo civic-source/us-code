@@ -3,9 +3,10 @@ title: "Section 6250a - Authority"
 usc_title: 42
 usc_section: "6250a"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6250a"
-generated_at: "2026-03-30T02:56:11.244Z"
+generated_at: "2026-11-23T21:26:32.858Z"
+status: "active"
 ---
 
 # § 6250a. Authority
@@ -17,3 +18,7 @@ To the extent necessary or appropriate to carry out this part, the Secretary may
   - **(3)** acquire by purchase, exchange (including exchange of petroleum products from the Strategic Petroleum Reserve or received as royalty from Federal lands), lease, or otherwise, petroleum distillate for storage in the Northeast Home Heating Oil Reserve;
   - **(4)** store petroleum distillate in facilities not owned by the United States; and
   - **(5)** sell, exchange, or otherwise dispose of petroleum distillate from the Reserve established under this part, including to maintain the quality or quantity of the petroleum distillate in the Reserve or to maintain the operational capability of the Reserve.
+
+## Source Credit
+
+*([Pub. L. 94–163, title I, § 182](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 106–469, title II, § 201(a)(3)](https://www.govinfo.gov/link/plaw/106/public/469), Nov. 9, 2000, [114 Stat. 2034](https://www.govinfo.gov/link/statute/114/2034).)*

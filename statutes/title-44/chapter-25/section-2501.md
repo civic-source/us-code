@@ -3,9 +3,10 @@ title: "Section 2501 - Creation; composition; appointment and tenure; meetings"
 usc_title: 44
 usc_section: "2501"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 2501"
-generated_at: "2026-03-30T02:55:56.294Z"
+generated_at: "2026-11-23T21:26:18.413Z"
+status: "active"
 ---
 
 # § 2501. Creation; composition; appointment and tenure; meetings
@@ -34,3 +35,11 @@ generated_at: "2026-03-30T02:55:56.294Z"
   - **(2)** A member may continue to serve after the expiration of a term until a successor has been appointed, but not to exceed one year.
 - **(c)** The Commission shall meet at least annually and at call of the Chairman.
 - **(d)** Members of the Commission shall recuse themselves from voting on any matter that poses, or could potentially pose, a conflict of interest, including a matter that could benefit them or an entity they represent.
+
+Recusal
+
+“The amendment made by this section [amending this section] shall be effective on January 1, 1989 , and shall apply to the appointment of any member on the expiration of a predecessor’s term as follows:
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1293](https://www.govinfo.gov/link/statute/82/1293); [Pub. L. 92–546, § 1(a)](https://www.govinfo.gov/link/plaw/92/public/546), Oct. 25, 1972, [86 Stat. 1155](https://www.govinfo.gov/link/statute/86/1155); [Pub. L. 93–536, § 1(b)](https://www.govinfo.gov/link/plaw/93/public/536), Dec. 22, 1974, [88 Stat. 1735](https://www.govinfo.gov/link/statute/88/1735); [Pub. L. 96–98, § 2(b)](https://www.govinfo.gov/link/plaw/96/public/98), Nov. 1, 1979, [93 Stat. 731](https://www.govinfo.gov/link/statute/93/731); [Pub. L. 98–497, title I, § 107(b)(9)](https://www.govinfo.gov/link/plaw/98/public/497), Oct. 19, 1984, [98 Stat. 2287](https://www.govinfo.gov/link/statute/98/2287); [Pub. L. 100–365, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/365), July 13, 1988, [102 Stat. 823](https://www.govinfo.gov/link/statute/102/823); [Pub. L. 110–404, § 3(a)(1)](https://www.govinfo.gov/link/plaw/110/public/404), (b)(1), Oct. 13, 2008, [122 Stat. 4282](https://www.govinfo.gov/link/statute/122/4282).)*

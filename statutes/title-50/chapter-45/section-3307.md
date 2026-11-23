@@ -3,9 +3,10 @@ title: "Section 3307 - Communications with the Committees on Armed Services of t
 usc_title: 50
 usc_section: "3307"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3307"
-generated_at: "2026-03-30T02:56:26.242Z"
+generated_at: "2026-11-23T21:26:39.029Z"
+status: "active"
 ---
 
 # § 3307. Communications with the Committees on Armed Services of the Senate and the House of Representatives
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:26.242Z"
   - **(1)** The term “intelligence community” has the meaning given the term in section 3003(4) of this title .
   - **(2)** The term “intelligence assessment” means an intelligence-related analytical study of a subject of policy significance and does not include building-block papers, research projects, and reference aids.
   - **(3)** The term “intelligence estimate” means an appraisal of available intelligence relating to a specific situation or condition with a view to determining the courses of action open to an enemy or potential enemy and the probable order of adoption of such courses of action.
+
+## Source Credit
+
+*([Pub. L. 110–181, div. A, title X, § 1079](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 334](https://www.govinfo.gov/link/statute/122/334).)*

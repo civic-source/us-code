@@ -3,9 +3,10 @@ title: "Section 2709 - Reports to Congress by Secretary of Energy"
 usc_title: 15
 usc_section: "2709"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2709"
-generated_at: "2026-03-30T02:54:08.183Z"
+generated_at: "2026-11-23T21:25:39.954Z"
+status: "active"
 ---
 
 # § 2709. Reports to Congress by Secretary of Energy
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.183Z"
   - **(4)** an analysis of the progress made in developing advanced automobile propulsion system technology; and
   - **(5)** suggestions for improvements in advanced automobile propulsion system research and development, including recommendations for legislation.
 - **(b)** The Secretary of Energy shall conduct a survey of developers, lending institutions, and other appropriate persons or institutions and shall otherwise make a study for the purpose of determining whether, and under what conditions, research, development, demonstration, and commercial availability of advanced automobile propulsion system technology may be aided by the guarantee of financial obligations by the Federal Government. The Secretary of Energy shall report the results of such survey and study to the Congress within 1 year after February 25, 1978 . Such report shall include an examination of those stages of advanced automobile propulsion system technology research, development, demonstration, and commercialization for which financial obligation guarantees may be useful or appropriate and shall contain such legislative recommendations as may be necessary.
+
+## Source Credit
+
+*([Pub. L. 95–238, title III, § 310](https://www.govinfo.gov/link/plaw/95/public/238), Feb. 25, 1978, [92 Stat. 83](https://www.govinfo.gov/link/statute/92/83).)*

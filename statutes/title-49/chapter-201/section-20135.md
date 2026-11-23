@@ -3,9 +3,10 @@ title: "Section 20135 - Licensing or certification of locomotive operators"
 usc_title: 49
 usc_section: "20135"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 20135"
-generated_at: "2026-03-30T02:56:19.335Z"
+generated_at: "2026-11-23T21:26:40.706Z"
+status: "active"
 ---
 
 # § 20135. Licensing or certification of locomotive operators
@@ -29,3 +30,59 @@ generated_at: "2026-03-30T02:56:19.335Z"
     - **(B)** the cancellation, revocation, or suspension of the individual’s motor vehicle operator’s license for operating a motor vehicle when under the influence of, or impaired by, alcohol or a controlled substance.
 - **(d)** An individual denied a license or certification or whose license or certification is conditioned on requirements prescribed under subsection (b)(4) of this section shall be entitled to a hearing under section 20103(e) of this title to decide whether the license has been properly denied or conditioned.
 - **(e)** The Secretary, employer, or prospective employer, as appropriate, shall make information obtained under subsection (b)(6) of this section available to the individual. The individual shall be given an opportunity to comment in writing about the information. Any comment shall be included in any record or file maintained by the Secretary, employer, or prospective employer that contains information to which the comment is related.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 20135(a) | 45:431(i)(1). | Oct. 16, 1970 , Pub. L. 91–458 , 84 Stat. 971 , § 202(i); added June 22, 1988 , Pub. L. 100–342 , §§ 4(a), 7(b), 102 Stat. 625 , 628; Sept. 3, 1992 , Pub. L. 102–365, § 2(1) , 106 Stat. 972 . |
+| 20135(b) | 45:431(i)(2). |  |
+| 20135(c)(1) | 45:431(i)(4). |  |
+| 20135(c)(2) | 45:431(i)(6). |  |
+| 20135(d) | 45:431(i)(5). |  |
+| 20135(e) | 45:431(i)(3). |  |
+
+
+General
+
+Program Requirements
+
+Waivers
+
+Opportunity for Hearing
+
+Opportunity to Examine and Comment on Information
+
+Historical and Revision Notes
+
+20135(a)
+
+Oct. 16, 1970
+
+Pub. L. 91–458
+
+84 Stat. 971
+
+June 22, 1988
+
+Pub. L. 100–342
+
+102 Stat. 625
+
+Sept. 3, 1992
+
+Pub. L. 102–365, § 2(1)
+
+106 Stat. 972
+
+20135(b)
+
+20135(c)(1)
+
+20135(c)(2)
+
+20135(d)
+
+20135(e)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 874](https://www.govinfo.gov/link/statute/108/874).)*

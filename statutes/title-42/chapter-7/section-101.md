@@ -3,9 +3,10 @@ title: "Section 101 - Eligibility, enrollment, and information"
 usc_title: 42
 usc_section: "101"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 101"
-generated_at: "2026-03-30T02:56:10.981Z"
+generated_at: "2026-11-23T21:26:31.554Z"
+status: "active"
 ---
 
 # § 1395w–101. Eligibility, enrollment, and information
@@ -73,3 +74,77 @@ generated_at: "2026-03-30T02:56:10.981Z"
       - **(i)** for the first plan year in which it is offered; and
       - **(ii)** for the next plan year if it is impracticable or the information is otherwise unavailable.
   - **(4)** The information disseminated under paragraph (1) shall include information concerning the methodology for determining the late enrollment penalty under section 1395w–113(b) of this title .
+
+Stakeholder meetings prior to effective date.—
+
+In general
+
+Topics described
+
+Rulemaking
+
+Study and Annual Report on Part D Formularies’ Inclusion of Drugs Commonly Used by Dual Eligibles.—
+
+Study
+
+Annual reports
+
+Study and Report on Prescription Drug Prices Under Medicare Part D and Medicaid.—
+
+Study.—
+
+In general
+
+Price
+
+Authority to collect any necessary information
+
+Report.—
+
+In general
+
+Limitation on information contained in report
+
+Definitions
+
+Covered part d drug
+
+Covered outpatient drug
+
+plan
+
+Medicare advantage organization
+
+sponsor
+
+Prescription drug plan
+
+Establishment.—
+
+In general
+
+Definitions
+
+State pharmaceutical assistance program defined
+
+Program participant
+
+Composition
+
+Development of Proposal
+
+Report
+
+Support
+
+Termination
+
+Study
+
+Report
+
+Exemption From Paperwork Reduction Act
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1860D–1, as added [Pub. L. 108–173, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2071](https://www.govinfo.gov/link/statute/117/2071); amended [Pub. L. 109–432, div. B, title II, § 206(b)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2990](https://www.govinfo.gov/link/statute/120/2990); [Pub. L. 111–148, title III, § 3303(b)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 469](https://www.govinfo.gov/link/statute/124/469); [Pub. L. 114–10, title II, § 209(b)(2)(B)(ii)](https://www.govinfo.gov/link/plaw/114/public/10), Apr. 16, 2015, [129 Stat. 149](https://www.govinfo.gov/link/statute/129/149); [Pub. L. 114–198, title VII, § 704(a)(3)](https://www.govinfo.gov/link/plaw/114/public/198), July 22, 2016, [130 Stat. 748](https://www.govinfo.gov/link/statute/130/748); [Pub. L. 116–260, div. CC, title IV, § 402(g)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3002](https://www.govinfo.gov/link/statute/134/3002).)*

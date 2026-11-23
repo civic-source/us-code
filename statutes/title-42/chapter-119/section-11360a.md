@@ -3,9 +3,10 @@ title: "Section 11360a - Collaborative applicants"
 usc_title: 42
 usc_section: "11360a"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11360a"
-generated_at: "2026-03-30T02:56:11.398Z"
+generated_at: "2026-11-23T21:26:33.413Z"
+status: "active"
 ---
 
 # § 11360a. Collaborative applicants
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:56:11.398Z"
     - **(A)** require each project sponsor who is funded by a grant received under part C to establish such fiscal control and fund accounting procedures as may be necessary to assure the proper disbursal of, and accounting for, Federal funds awarded to the project sponsor under part C in order to ensure that all financial transactions carried out under part C are conducted, and records maintained, in accordance with generally accepted accounting principles; and
     - **(B)** arrange for an annual survey, audit, or evaluation of the financial records of each project carried out by a project sponsor funded by a grant received under part C.
 - **(h)** No board member of a collaborative applicant may participate in decisions of the collaborative applicant concerning the award of a grant, or provision of other financial benefits, to such member or the organization that such member represents.
+
+## Source Credit
+
+*([Pub. L. 100–77, title IV, § 402](https://www.govinfo.gov/link/plaw/100/public/77), as added [Pub. L. 111–22, div. B, title I, § 1102](https://www.govinfo.gov/link/plaw/111/public/22), May 20, 2009, [123 Stat. 1674](https://www.govinfo.gov/link/statute/123/1674).)*

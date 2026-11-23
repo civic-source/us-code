@@ -3,9 +3,10 @@ title: "Section 7384r - Separate treatment of chronic silicosis"
 usc_title: 42
 usc_section: "7384r"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7384r"
-generated_at: "2026-03-30T02:56:11.292Z"
+generated_at: "2026-11-23T21:26:33.070Z"
+status: "active"
 ---
 
 # § 7384r. Separate treatment of chronic silicosis
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.292Z"
     - **(A)** a chest radiograph, interpreted by an individual certified by the National Institute for Occupational Safety and Health as a B reader, classifying the existence of pneumoconioses of category 1/0 or higher;
     - **(B)** results from a computer assisted tomograph or other imaging technique that are consistent with silicosis; or
     - **(C)** lung biopsy findings consistent with silicosis.
+
+## Source Credit
+
+*([Pub. L. 106–398, § 1 [div. C, title XXXVI, § 3627]](https://www.govinfo.gov/link/plaw/106/public/398), Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–505; [Pub. L. 107–107, div. C, title XXXI, § 3151(a)(3)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1372](https://www.govinfo.gov/link/statute/115/1372).)*

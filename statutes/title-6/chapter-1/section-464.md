@@ -3,9 +3,10 @@ title: "Section 464 - Federal Law Enforcement Training Centers"
 usc_title: 6
 usc_section: "464"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 464"
-generated_at: "2026-03-30T02:53:09.464Z"
+generated_at: "2026-11-23T21:25:25.795Z"
+status: "active"
 ---
 
 # § 464. Federal Law Enforcement Training Centers
@@ -98,3 +99,7 @@ generated_at: "2026-03-30T02:53:09.464Z"
   - **(10)** The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any possession of the United States.
   - **(11)** The term “student intern” means any eligible baccalaureate or graduate degree student participating in FLETC’s College Intern Program.
 - **(h)** No funds are authorized to carry out this section. This section shall be carried out using amounts otherwise appropriated or made available for such purpose.
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 884](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2247](https://www.govinfo.gov/link/statute/116/2247); [Pub. L. 111–245, § 2(a)(3)](https://www.govinfo.gov/link/plaw/111/public/245), Sept. 30, 2010, [124 Stat. 2621](https://www.govinfo.gov/link/statute/124/2621); [Pub. L. 114–285, § 2(a)](https://www.govinfo.gov/link/plaw/114/public/285), Dec. 16, 2016, [130 Stat. 1453](https://www.govinfo.gov/link/statute/130/1453); [Pub. L. 115–278, § 2(g)(5)(A)](https://www.govinfo.gov/link/plaw/115/public/278), Nov. 16, 2018, [132 Stat. 4178](https://www.govinfo.gov/link/statute/132/4178); [Pub. L. 117–263, div. G, title LXXI, § 7143(c)(2)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3662](https://www.govinfo.gov/link/statute/136/3662).)*

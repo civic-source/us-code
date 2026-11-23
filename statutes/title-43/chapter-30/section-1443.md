@@ -3,12 +3,17 @@ title: "Section 1443 - Cancellation of leases of public lands used as airports m
 usc_title: 43
 usc_section: "1443"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1443"
-generated_at: "2026-03-30T02:55:57.473Z"
+generated_at: "2026-11-23T21:26:19.837Z"
+status: "active"
 ---
 
 # § 1443. Cancellation of leases of public lands used as airports made under law in force May 24, 1928
 
 With the consent of the lessee, the Secretary of the Interior is authorized to cancel any lease of public lands for use as public aviation fields or airports, made under law in force May 24, 1928 , and to lease such lands to the lessee upon the conditions prescribed by section 1442 of this title .
 
+
+## Source Credit
+
+*(May 24, 1928, ch. 728, § 3, [45 Stat. 729](https://www.govinfo.gov/link/statute/45/729).)*

@@ -3,9 +3,10 @@ title: "Section 2116 - Marine safety strategy, goals, and performance assessment
 usc_title: 46
 usc_section: "2116"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 2116"
-generated_at: "2026-03-30T02:56:15.541Z"
+generated_at: "2026-11-23T21:26:37.033Z"
+status: "active"
 ---
 
 # § 2116. Marine safety strategy, goals, and performance assessments
@@ -33,3 +34,27 @@ generated_at: "2026-03-30T02:56:15.541Z"
       - **(i)** the number of civilian and military Coast Guard personnel assigned to marine safety positions; and
       - **(ii)** an identification of marine safety positions that are understaffed to meet the workload required to accomplish each activity included in the strategy and plan under subsection (a); and
     - **(C)** recommendations on how to improve performance of the program.
+
+Long-Term Strategy and Goals
+
+-Year Strategy and Plan.—
+
+Measurable goals
+
+Resource needs
+
+Submission With the President’s Budget
+
+Achievement of Goals.—
+
+Progress assessment
+
+Periodic briefings
+
+In General
+
+Content
+
+## Source Credit
+
+*(Added [Pub. L. 111–281, title V, § 522(a)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2956](https://www.govinfo.gov/link/statute/124/2956); amended [Pub. L. 113–281, title II, § 221(b)(1)(A)](https://www.govinfo.gov/link/plaw/113/public/281), title III, § 307(a), Dec. 18, 2014, [128 Stat. 3037](https://www.govinfo.gov/link/statute/128/3037), 3045; [Pub. L. 115–232, div. C, title XXXV](https://www.govinfo.gov/link/plaw/115/public/232), §§ 3541(b)(7), 3546(b), Aug. 13, 2018, [132 Stat. 2323](https://www.govinfo.gov/link/statute/132/2323), 2326; [Pub. L. 115–265, title II, § 214](https://www.govinfo.gov/link/plaw/115/public/265), Oct. 11, 2018, [132 Stat. 3751](https://www.govinfo.gov/link/statute/132/3751); [Pub. L. 116–283, div. G, title LVXXXII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXII], § 8240(c), Jan. 1, 2021, [134 Stat. 4666](https://www.govinfo.gov/link/statute/134/4666); [Pub. L. 119–60, div. G, title LXXVII, § 7701(f)(2)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1835](https://www.govinfo.gov/link/statute/139/1835).)*

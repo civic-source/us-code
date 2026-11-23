@@ -3,9 +3,10 @@ title: "Section 20162 - Minimum training standards and plans"
 usc_title: 49
 usc_section: "20162"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 20162"
-generated_at: "2026-03-30T02:56:19.338Z"
+generated_at: "2026-11-23T21:26:40.710Z"
+status: "active"
 ---
 
 # § 20162. Minimum training standards and plans
@@ -16,3 +17,31 @@ generated_at: "2026-03-30T02:56:19.338Z"
   - **(3)** a minimum training curriculum, and ongoing training criteria, testing, and skills evaluation measures to ensure that safety-related railroad employees, and contractor and subcontractor employees, charged with the inspection of track or railroad equipment are qualified to assess railroad carrier compliance with Federal standards to identify defective conditions and initiate immediate remedial action to correct critical safety defects that are known to contribute to derailments, accidents, incidents, or injuries, and, in implementing the requirements of this paragraph, take into consideration existing training programs of railroad carriers.
 - **(b)** The Secretary shall review and approve the plans required under subsection (a)(2) utilizing an approval process required for programs to certify the qualification of locomotive engineers pursuant to part 240 of title 49, Code of Federal Regulations.
 - **(c)** The Secretary may exempt railroad carriers and railroad carrier contractors and subcontractors from submitting training plans for which the Secretary has issued training regulations before the date of enactment of the Rail Safety Improvement Act of 2008.
+
+In General
+
+Approval
+
+Exemption
+
+Audits
+
+Audit Scheduling
+
+Updates to Qualification and Certification Program
+
+Consultation and Cooperation.—
+
+Consultation
+
+Cooperation
+
+Failure to cooperate
+
+Review of Regulations
+
+Annual Report
+
+## Source Credit
+
+*(Added [Pub. L. 110–432, div. A, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4883](https://www.govinfo.gov/link/statute/122/4883); amended [Pub. L. 114–94, div. A, title XI, § 11316(h)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1677](https://www.govinfo.gov/link/statute/129/1677).)*

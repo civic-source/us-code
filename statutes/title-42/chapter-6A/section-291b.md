@@ -3,9 +3,10 @@ title: "Section 291b - State allotments"
 usc_title: 42
 usc_section: "291b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 291b"
-generated_at: "2026-03-30T02:56:10.771Z"
+generated_at: "2026-11-23T21:26:30.606Z"
+status: "active"
 ---
 
 # § 291b. State allotments
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:10.771Z"
   - **(3)** In addition to the transfer of portions of allotments under paragraph (1) or (2), upon the request of any State that a specified portion of an allotment of such State under paragraph (2) of subsection (a) be added to an allotment of such State under paragraph (1) of such subsection for grants for the construction of public or other nonprofit hospitals and public health centers, and upon simultaneous certification by the State agency in such State to the effect that the need for new public or other nonprofit hospitals and public health centers is substantially greater than the need for modernization of facilities referred to in paragraph (a) or (b) of section 291a of this title , the Secretary shall promptly (but after application of subsection (b) of this section) adjust the allotments of such State in accordance with such request and shall notify the State agency.
   - **(4)** After adjustment of allotments of any State, as provided in paragraph (1), (2), or (3) of this subsection, the allotments as so adjusted shall be deemed to be the State’s allotments under this section.
 - **(f)** In accordance with regulations, any State may file with the Surgeon General a request that a specified portion of an allotment to it under this part for grants for construction of any type of facility, or for modernization of facilities, be added to the corresponding allotment of another State for the purpose of meeting a portion of the Federal share of the cost of a project for the construction of a facility of that type in such other State, or for modernization of a facility in such other State, as the case may be. If it is found by the Surgeon General (or, in the case of a rehabilitation facility, by the Surgeon General and the Secretary) that construction or modernization of the facility with respect to which the request is made would meet needs of the State making the request and that use of the specified portion of such State’s allotment, as requested by it, would assist in carrying out the purposes of this subchapter, such portion of such State’s allotment shall be added to the corresponding allotment of the other State, to be used for the purpose referred to above.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VI, § 602, as added [Pub. L. 88–443, § 3(a)](https://www.govinfo.gov/link/plaw/88/public/443), Aug. 18, 1964, [78 Stat. 448](https://www.govinfo.gov/link/statute/78/448); amended [Pub. L. 90–574, title IV, § 402(b)](https://www.govinfo.gov/link/plaw/90/public/574), Oct. 15, 1968, [82 Stat. 1011](https://www.govinfo.gov/link/statute/82/1011); [Pub. L. 91–296, title I](https://www.govinfo.gov/link/plaw/91/public/296), §§ 103(a), (b), 104, 116(a), 119(a)–(c), 122, June 30, 1970, [84 Stat. 338](https://www.govinfo.gov/link/statute/84/338), 341, 343, 344.)*

@@ -3,9 +3,10 @@ title: "Section 9708 - Interagency Committee on Water Management and Infrastruct
 usc_title: 15
 usc_section: "9708"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9708"
-generated_at: "2026-03-30T02:54:08.250Z"
+generated_at: "2026-11-23T21:25:40.154Z"
+status: "active"
 ---
 
 # § 9708. Interagency Committee on Water Management and Infrastructure
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:08.250Z"
   - **(5)** promote integrated planning for Federal investments in water-related infrastructure to enhance coordination and protect taxpayer investment; and
   - **(6)** support workforce development and efforts to recruit, train, and retain professionals to operate and maintain essential drinking water, wastewater, flood control, hydropower, water delivery, and water storage facilities in the United States.
 - **(f)** Not later than 1 year after December 27, 2022 , the Water Policy Committee shall develop and submit to Congress a list of research needs that includes needs for cross-agency research and coordination.
+
+## Source Credit
+
+*([Pub. L. 117–316, § 13](https://www.govinfo.gov/link/plaw/117/public/316), Dec. 27, 2022, [136 Stat. 4414](https://www.govinfo.gov/link/statute/136/4414).)*

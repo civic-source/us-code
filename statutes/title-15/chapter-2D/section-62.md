@@ -3,9 +3,10 @@ title: "Section 62 - Distribution and repurchase of securities"
 usc_title: 15
 usc_section: "62"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 62"
-generated_at: "2026-03-30T02:54:08.071Z"
+generated_at: "2026-11-23T21:25:39.598Z"
+status: "active"
 ---
 
 # § 80a–62. Distribution and repurchase of securities
@@ -18,3 +19,7 @@ Notwithstanding the exemption set forth in section 80a–6(f) of this title , se
     - **(B)** a required majority (as defined in section 80a–56( o ) of this title) of the directors of or general partners in such business development company have determined that any such sale would be in the best interests of such company and its shareholders or partners; and
     - **(C)** a required majority (as defined in section 80a–56( o ) of this title) of the directors of or general partners in such business development company, in consultation with the underwriter or underwriters of the offering if it is to be underwritten, have determined in good faith, and as of a time immediately prior to the first solicitation by or on behalf of such company of firm commitments to purchase such securities or immediately prior to the issuance of such securities, that the price at which such securities are to be sold is not less than a price which closely approximates the market value of those securities, less any distributing commission or discount.
   - **(3)** A business development company may sell any common stock of which it is the issuer at a price below the current net asset value of such stock upon the exercise of any warrant, option, or right issued in accordance with section 80a–60(a)(4) of this title .
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title I, § 63, as added [Pub. L. 96–477, title I, § 105](https://www.govinfo.gov/link/plaw/96/public/477), Oct. 21, 1980, [94 Stat. 2288](https://www.govinfo.gov/link/statute/94/2288); amended [Pub. L. 115–141, div. S, title VIII, § 802(b)(2)(B)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1140](https://www.govinfo.gov/link/statute/132/1140).)*

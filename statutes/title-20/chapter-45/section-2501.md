@@ -3,9 +3,10 @@ title: "Section 2501 - Statement of purpose"
 usc_title: 20
 usc_section: "2501"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 2501"
-generated_at: "2026-03-30T02:54:48.176Z"
+generated_at: "2026-11-23T21:25:47.391Z"
+status: "active"
 ---
 
 # § 2501. Statement of purpose
@@ -18,3 +19,7 @@ It is the purpose of this subchapter to provide Federal assistance to States to 
   - **(4)** planning for the demonstration of the best of the current career education and career development programs and practices by planning to develop and test exemplary programs and practices using various theories, concepts, and approaches with respect to career education and through planning for a nationwide system of regional career education centers;
   - **(5)** planning for the training and retraining of persons for conducting career education and career development programs; and
   - **(6)** developing State and local plans for implementing programs designed to ensure that every person has the opportunity to gain the knowledge and skills necessary for gainful or maximum employment and for full participation in our society according to his or her ability.
+
+## Source Credit
+
+*([Pub. L. 94–482, title III, § 331](https://www.govinfo.gov/link/plaw/94/public/482), Oct. 12, 1976, [90 Stat. 2221](https://www.govinfo.gov/link/statute/90/2221).)*

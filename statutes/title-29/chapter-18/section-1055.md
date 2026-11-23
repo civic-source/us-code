@@ -3,9 +3,10 @@ title: "Section 1055 - Requirement of joint and survivor annuity and preretireme
 usc_title: 29
 usc_section: "1055"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1055"
-generated_at: "2026-03-30T02:55:18.707Z"
+generated_at: "2026-11-23T21:26:02.236Z"
+status: "active"
 ---
 
 # § 1055. Requirement of joint and survivor annuity and preretirement survivor annuity
@@ -124,3 +125,7 @@ generated_at: "2026-03-30T02:55:18.707Z"
 - **(j)** If the use of any participant’s accrued benefit (or any portion thereof) as security for a loan meets the requirements of subsection (c)(4), nothing in this section shall prevent any distribution required by reason of a failure to comply with the terms of such loan.
 - **(k)** No consent of a spouse shall be effective for purposes of subsection (g)(1) or (g)(2) (as the case may be) unless requirements comparable to the requirements for spousal consent to an election under subsection (c)(1)(A) are met.
 - **(l)** In prescribing regulations under this section, the Secretary of the Treasury shall consult with the Secretary of Labor.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 205](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 862](https://www.govinfo.gov/link/statute/88/862); [Pub. L. 98–397, title I, § 103(a)](https://www.govinfo.gov/link/plaw/98/public/397), Aug. 23, 1984, [98 Stat. 1429](https://www.govinfo.gov/link/statute/98/1429); [Pub. L. 99–514, title XI](https://www.govinfo.gov/link/plaw/99/public/514), §§ 1139(c)(2), 1145(b), title XVIII, § 1898(b)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (7)(B), (8)(B), (9)(B), (10)(B), (11)(B), (12)(B), (13)(B), (14)(B), Oct. 22, 1986, [100 Stat. 2488](https://www.govinfo.gov/link/statute/100/2488), 2491, 2945–2951; [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7861(d)(2), 7862(d)(1)(B), (3), (6)–(9), 7891(a)(1), (b)(3), (c), (e), 7894(c)(7)(A), Dec. 19, 1989, [103 Stat. 2431](https://www.govinfo.gov/link/statute/103/2431), 2434, 2445, 2447, 2449; [Pub. L. 103–465, title VII, § 767(c)(2)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 5039](https://www.govinfo.gov/link/statute/108/5039); [Pub. L. 104–188, title I, § 1451(b)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1815](https://www.govinfo.gov/link/statute/110/1815); [Pub. L. 105–34, title X, § 1071(b)(2)](https://www.govinfo.gov/link/plaw/105/public/34), title XVI, § 1601(d)(5), Aug. 5, 1997, [111 Stat. 948](https://www.govinfo.gov/link/statute/111/948), 1089; [Pub. L. 107–147, title IV, § 411(r)(2)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 51](https://www.govinfo.gov/link/statute/116/51); [Pub. L. 109–280, title III, § 302(a)](https://www.govinfo.gov/link/plaw/109/public/280), title X, § 1004(b), title XI, § 1102(a)(2)(A), Aug. 17, 2006, [120 Stat. 920](https://www.govinfo.gov/link/statute/120/920), 1054, 1056; [Pub. L. 110–458, title I, § 103(b)(1)](https://www.govinfo.gov/link/plaw/110/public/458), Dec. 23, 2008, [122 Stat. 5103](https://www.govinfo.gov/link/statute/122/5103); [Pub. L. 112–141, div. D, title II, § 40211(b)(3)(B)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 849](https://www.govinfo.gov/link/statute/126/849); [Pub. L. 113–295, div. A, title II, § 221(a)(57)(B)(ii)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4046](https://www.govinfo.gov/link/statute/128/4046).)*

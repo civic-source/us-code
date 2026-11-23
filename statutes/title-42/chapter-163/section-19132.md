@@ -3,9 +3,10 @@ title: "Section 19132 - National Engineering Biology Research and Development In
 usc_title: 42
 usc_section: "19132"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19132"
-generated_at: "2026-03-30T02:56:11.540Z"
+generated_at: "2026-11-23T21:26:33.873Z"
+status: "active"
 ---
 
 # § 19132. National Engineering Biology Research and Development Initiative
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:56:11.540Z"
   - **(3)** Ensuring that input from Federal and non-Federal experts on the ethical, legal, environmental, safety, security, and other appropriate societal issues related to engineering biology is integrated into the Initiative.
   - **(4)** Ensuring, through the agencies and departments that participate in the Initiative, that public input and outreach are integrated into the Initiative by the convening of regular and ongoing public discussions through mechanisms such as workshops, consensus conferences, and educational events, as appropriate.
   - **(5)** Complying with all applicable provisions of Federal law.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title IV, § 10402](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1599](https://www.govinfo.gov/link/statute/136/1599).)*

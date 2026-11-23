@@ -3,9 +3,10 @@ title: "Section 1411 - Prohibited acts"
 usc_title: 33
 usc_section: "1411"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1411"
-generated_at: "2026-03-30T02:55:41.105Z"
+generated_at: "2026-11-23T21:26:11.402Z"
+status: "active"
 ---
 
 # § 1411. Prohibited acts
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:41.105Z"
   - **(1)** no person shall transport from the United States, and
   - **(2)** in the case of a vessel or aircraft registered in the United States or flying the United States flag or in the case of a United States department, agency, or instrumentality, no person shall transport from any location
 - **(b)** Except as may be authorized by a permit issued pursuant to section 1412 of this title , and subject to regulations issued pursuant to section 1418 of this title , no person shall dump any material transported from a location outside the United States (1) into the territorial sea of the United States, or (2) into a zone contiguous to the territorial sea of the United States, extending to a line twelve nautical miles seaward from the base line from which the breadth of the territorial sea is measured, to the extent that it may affect the territorial sea or the territory of the United States.
+
+## Source Credit
+
+*([Pub. L. 92–532, title I, § 101](https://www.govinfo.gov/link/plaw/92/public/532), Oct. 23, 1972, [86 Stat. 1053](https://www.govinfo.gov/link/statute/86/1053); [Pub. L. 93–254, § 1(3)](https://www.govinfo.gov/link/plaw/93/public/254), Mar. 22, 1974, [88 Stat. 51](https://www.govinfo.gov/link/statute/88/51).)*

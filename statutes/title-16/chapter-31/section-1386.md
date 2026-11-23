@@ -3,9 +3,10 @@ title: "Section 1386 - Stock assessments"
 usc_title: 16
 usc_section: "1386"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1386"
-generated_at: "2026-03-30T02:54:22.961Z"
+generated_at: "2026-11-23T21:25:51.867Z"
+status: "active"
 ---
 
 # § 1386. Stock assessments
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:54:22.961Z"
   - **(3)** Members of the scientific review groups shall serve without compensation, but may be reimbursed by the Secretary, upon request, for reasonable travel costs and expenses incurred in performing their obligations.
   - **(4)** The Secretary may appoint or reappoint individuals to the regional scientific review groups under paragraph (1) as needed.
 - **(e)** This section shall not affect or otherwise modify the provisions of section 1371(b) of this title .
+
+## Source Credit
+
+*([Pub. L. 92–522, title I, § 117](https://www.govinfo.gov/link/plaw/92/public/522), as added [Pub. L. 103–238, § 10](https://www.govinfo.gov/link/plaw/103/public/238), Apr. 30, 1994, [108 Stat. 543](https://www.govinfo.gov/link/statute/108/543); amended [Pub. L. 117–286, § 4(a)(108)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4317](https://www.govinfo.gov/link/statute/136/4317).)*

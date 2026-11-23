@@ -3,9 +3,10 @@ title: "Section 1610 - Reductions and other adjustments in force"
 usc_title: 10
 usc_section: "1610"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1610"
-generated_at: "2026-03-30T02:53:38.133Z"
+generated_at: "2026-11-23T21:25:32.526Z"
+status: "active"
 ---
 
 # § 1610. Reductions and other adjustments in force
@@ -22,3 +23,17 @@ generated_at: "2026-03-30T02:53:38.133Z"
   - **(1)** The regulations shall provide a right of appeal regarding a personnel action under the regulations. The appeal shall be determined within the Department of Defense. An appeal determined at the highest level provided in the regulations shall be final and not subject to review outside the Department of Defense. A personnel action covered by the regulations is not subject to any other provision of law that provides appellate rights or procedures.
   - **(2)** Notwithstanding paragraph (1), a preference eligible referred to in section 7511(a)(1)(B) of title 5 may elect to have an appeal of a personnel action taken against the preference eligible under the regulation determined by the Merit Systems Protection Board instead of having the appeal determined within the Department of Defense. Section 7701 of title 5 shall apply to any such appeal to the Merit Systems Protection Board.
 - **(e)** Regulations under this section shall be prescribed in consultation with the Director of the Office of Personnel Management.
+
+In General
+
+Matters To Be Given Effect
+
+Regulations Relating to Defense Intelligence SES
+
+Right of Appeal
+
+Consultation With OPM
+
+## Source Credit
+
+*(Added [Pub. L. 104–201, div. A, title XVI, § 1632(b)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2749](https://www.govinfo.gov/link/statute/110/2749).)*

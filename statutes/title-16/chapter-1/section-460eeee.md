@@ -3,9 +3,10 @@ title: "Section 460eeee - Vinagre Wash Special Management Area"
 usc_title: 16
 usc_section: "460eeee"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 460eeee"
-generated_at: "2026-03-30T02:54:22.851Z"
+generated_at: "2026-11-23T21:25:51.634Z"
+status: "active"
 ---
 
 # § 460eeee. Vinagre Wash Special Management Area
@@ -71,3 +72,7 @@ generated_at: "2026-03-30T02:54:22.851Z"
     - **(A)** prepare and complete a Tribal cultural resources survey of the Management Area; and
     - **(B)** consult with the Quechan Indian Nation and other Indian Tribes demonstrating ancestral, cultural, or other ties to the resources within the Management Area on the development and implementation of the Tribal cultural resources survey under subparagraph (A).
   - **(9)** The Secretary may authorize use of the non-wilderness portion of the Management Area by the Secretary of the Navy for Naval Special Warfare Tactical Training, including long-range small unit training and navigation, vehicle concealment, and vehicle sustainment training, consistent with this section and other applicable laws.
+
+## Source Credit
+
+*([Pub. L. 103–433, title I, § 109](https://www.govinfo.gov/link/plaw/103/public/433), as added [Pub. L. 116–9, title I, § 1421](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 696](https://www.govinfo.gov/link/statute/133/696).)*

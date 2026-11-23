@@ -3,9 +3,10 @@ title: "Section 12702 - Objective of national housing policy"
 usc_title: 42
 usc_section: "12702"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12702"
-generated_at: "2026-03-30T02:56:11.429Z"
+generated_at: "2026-11-23T21:26:33.537Z"
+status: "active"
 ---
 
 # § 12702. Objective of national housing policy
@@ -19,3 +20,7 @@ The objective of national housing policy shall be to reaffirm the long-establish
   - **(5)** to expand opportunities for homeownership;
   - **(6)** to provide every American community with a reliable, readily available supply of mortgage finance at the lowest possible interest rates; and
   - **(7)** to encourage tenant empowerment and reduce generational poverty in federally assisted and public housing by improving the means by which self-sufficiency may be achieved.
+
+## Source Credit
+
+*([Pub. L. 101–625, title I, § 102](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4085](https://www.govinfo.gov/link/statute/104/4085).)*

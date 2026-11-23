@@ -3,9 +3,10 @@ title: "Section 19291 - Definitions"
 usc_title: 42
 usc_section: "19291"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19291"
-generated_at: "2026-03-30T02:56:11.546Z"
+generated_at: "2026-11-23T21:26:33.884Z"
+status: "active"
 ---
 
 # § 19291. Definitions
@@ -20,3 +21,7 @@ In this part:
   - **(6)** The term “institution of higher education” has the meaning given such term in section 1001 of title 20 .
   - **(7)** The term “National Laboratory” has the meaning given that term in section 15801 of this title .
   - **(8)** The term “Secretary” means the Secretary of Energy.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title VI, § 10701](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1701](https://www.govinfo.gov/link/statute/136/1701).)*

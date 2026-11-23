@@ -3,9 +3,10 @@ title: "Section 515 - Administrative settlement of tort claims"
 usc_title: 38
 usc_section: "515"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 515"
-generated_at: "2026-03-30T02:55:53.471Z"
+generated_at: "2026-11-23T21:26:16.555Z"
+status: "active"
 ---
 
 # § 515. Administrative settlement of tort claims
@@ -14,3 +15,9 @@ generated_at: "2026-03-30T02:55:53.471Z"
   - **(1)** Notwithstanding the limitations contained in section 2672 of title 28 , the Secretary may settle a claim for money damages against the United States cognizable under section 1346(b) or 2672 of title 28 or section 7316 of this title to the extent the authority to do so is delegated to the Secretary by the Attorney General. Such delegation may not exceed the authority delegated by the Attorney General to United States attorneys to settle claims for money damages against the United States.
   - **(2)** For purposes of this subsection, the term “settle”, with respect to a claim, means consider, ascertain, adjust, determine, and dispose of the claim, whether by full or partial allowance or by disallowance.
 - **(b)** The Secretary may pay tort claims, in the manner authorized in the first paragraph of section 2672 of title 28 , when such claims arise in foreign countries in connection with Department operations abroad. A claim may not be allowed under this subsection unless it is presented in writing to the Secretary within two years after the claim accrues.
+
+“Not later than 90 days after the date on which a person submits to the Secretary of Veterans Affairs a claim for damage, injury, or death on Standard Form 95, or any successor form, the Secretary shall provide to such person notice of each of the following:
+
+## Source Credit
+
+*(Added [Pub. L. 102–83, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 389](https://www.govinfo.gov/link/statute/105/389).)*

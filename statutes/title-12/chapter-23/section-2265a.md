@@ -3,9 +3,10 @@ title: "Section 2265a - Removal and prohibition authority; industry-wide prohibi
 usc_title: 12
 usc_section: "2265a"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2265a"
-generated_at: "2026-03-30T02:53:53.477Z"
+generated_at: "2026-11-23T21:25:37.071Z"
+status: "active"
 ---
 
 # § 2265a. Removal and prohibition authority; industry-wide prohibition
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:53.477Z"
     - **(B)** publicly disclose the action.
   - **(3)** The agencies described in clauses (i) and (ii) of paragraph (1)(B) shall consult with each other before providing any written consent under that paragraph.
 - **(d)** A violation of subsection (b) by any person who is subject to an order described in that subsection shall be treated as violation 2 2 So in original. Probably should be preceded by “a”. of that order.
+
+## Source Credit
+
+*([Pub. L. 92–181, title V, § 5](https://www.govinfo.gov/link/plaw/92/public/181).29A, as added [Pub. L. 115–334, title V, § 5406](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4676](https://www.govinfo.gov/link/statute/132/4676).)*

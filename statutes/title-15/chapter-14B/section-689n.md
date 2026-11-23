@@ -3,9 +3,10 @@ title: "Section 689n - Unlawful acts and omissions; breach of fiduciary duty"
 usc_title: 15
 usc_section: "689n"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 689n"
-generated_at: "2026-03-30T02:54:08.112Z"
+generated_at: "2026-11-23T21:25:39.720Z"
+status: "active"
 ---
 
 # § 689n. Unlawful acts and omissions; breach of fiduciary duty
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.112Z"
   - **(2)** for any person 1 1 So in original. Probably should be followed by “to”. continue to serve in any of the capacities described in paragraph (1), if—
     - **(A)** the person is convicted of a felony, or any other criminal offense involving dishonesty or breach of trust; or
     - **(B)** the person is found civilly liable in damages, or is permanently or temporarily enjoined by an order, judgment, or decree of a court of competent jurisdiction, by reason of any act or practice involving fraud or breach of trust.
+
+## Source Credit
+
+*([Pub. L. 85–699, title III, § 365](https://www.govinfo.gov/link/plaw/85/public/699), as added [Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–663.)*

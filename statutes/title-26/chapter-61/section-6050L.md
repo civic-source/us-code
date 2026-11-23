@@ -3,9 +3,10 @@ title: "Section 6050L - Returns relating to certain donated property"
 usc_title: 26
 usc_section: "6050L"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6050L"
-generated_at: "2026-03-30T02:55:27.834Z"
+generated_at: "2026-11-23T21:26:06.781Z"
+status: "active"
 ---
 
 # § 6050L. Returns relating to certain donated property
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:27.834Z"
     - **(A)** Terms used in this subsection which are also used in section 170(m) have the respective meanings given such terms in such section.
     - **(B)** The term “specified taxable year” means, with respect to any qualified intellectual property contribution, any taxable year of the donee any portion of which is part of the 10-year period beginning on the date of such contribution.
 - **(c)** Every person making a return under subsection (a) or (b) shall furnish a copy of such return to the donor at such time and in such manner as the Secretary may by regulations prescribe.
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title I, § 155(b)(1)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 692](https://www.govinfo.gov/link/statute/98/692); amended [Pub. L. 108–357, title VIII, § 882(c)(1)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1629](https://www.govinfo.gov/link/statute/118/1629); [Pub. L. 109–280, title XII, § 1215(b)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1078](https://www.govinfo.gov/link/statute/120/1078).)*

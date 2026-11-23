@@ -3,12 +3,17 @@ title: "Section 2211 - Review of fire prevention codes"
 usc_title: 15
 usc_section: "2211"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2211"
-generated_at: "2026-03-30T02:54:08.168Z"
+generated_at: "2026-11-23T21:25:39.918Z"
+status: "active"
 ---
 
 # § 2211. Review of fire prevention codes
 
 The Administrator is authorized to review, evaluate, and suggest improvements in State and local fire prevention codes, building codes, and any relevant Federal or private codes and regulations. In evaluating any such code or codes, the Administrator shall consider the human impact of all code requirements, standards, or provisions in terms of comfort and habitability for residents or employees, as well as the fire prevention and control value or potential of each such requirement, standard, or provision.
 
+
+## Source Credit
+
+*([Pub. L. 93–498, § 12](https://www.govinfo.gov/link/plaw/93/public/498), Oct. 29, 1974, [88 Stat. 1543](https://www.govinfo.gov/link/statute/88/1543).)*

@@ -3,9 +3,10 @@ title: "Section 111 - Application to division C (except sections 3302, 3501(b), 
 usc_title: 40
 usc_section: "111"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 111"
-generated_at: "2026-03-30T02:55:43.371Z"
+generated_at: "2026-11-23T21:26:14.773Z"
+status: "active"
 ---
 
 # § 111. Application to division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41
@@ -38,3 +39,16 @@ In the following provisions, the words “this subtitle” are deemed to refer a
   - **(24)** Section 571(b) of this title .
   - **(25)** Section 572(a)(2)(A) of this title .
   - **(26)** Section 572(b)(4) of this title .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 111 | (no source). |  |
+
+
+Historical and Revision Notes
+
+111
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1065](https://www.govinfo.gov/link/statute/116/1065); [Pub. L. 111–350, § 5](https://www.govinfo.gov/link/plaw/111/public/350) (l)(3), Jan. 4, 2011, [124 Stat. 3850](https://www.govinfo.gov/link/statute/124/3850).)*

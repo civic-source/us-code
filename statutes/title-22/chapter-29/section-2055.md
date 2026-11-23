@@ -3,9 +3,10 @@ title: "Section 2055 - Duties of Secretary of State; establishment and operation
 usc_title: 22
 usc_section: "2055"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2055"
-generated_at: "2026-03-30T02:55:05.341Z"
+generated_at: "2026-11-23T21:25:58.421Z"
+status: "active"
 ---
 
 # § 2055. Duties of Secretary of State; establishment and operation of educational institution; grants, fellowships, and scholarships; availability of facilities
@@ -16,3 +17,7 @@ In order to carry out the purpose of this subchapter the Secretary of State (her
   - **(2)** grants, fellowships, and other payments to outstanding scholars and authorities from the nations of the East and West as may be necessary to attract such scholars and authorities to the Center;
   - **(3)** grants, scholarships, and other payments to qualified students from the nations of the East and West as may be necessary to enable such students to engage in study or training at the Center; and
   - **(4)** making the facilities of the Center available for study or training to other qualified persons.
+
+## Source Credit
+
+*([Pub. L. 86–472](https://www.govinfo.gov/link/plaw/86/public/472), ch. VII, § 703, May 14, 1960, [74 Stat. 141](https://www.govinfo.gov/link/statute/74/141).)*

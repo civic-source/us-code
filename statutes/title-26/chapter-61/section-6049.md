@@ -3,9 +3,10 @@ title: "Section 6049 - Returns regarding payments of interest"
 usc_title: 26
 usc_section: "6049"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6049"
-generated_at: "2026-03-30T02:55:27.833Z"
+generated_at: "2026-11-23T21:26:06.776Z"
+status: "active"
 ---
 
 # § 6049. Returns regarding payments of interest
@@ -36,7 +37,7 @@ generated_at: "2026-03-30T02:55:27.833Z"
       - **(iv)** a foreign corporation, the interest payments of which would be exempt from withholding under subchapter A of chapter 3 if paid to a person who is not a United States person, or
       - **(v)** a partnership not engaged in a trade or business in the United States and composed in whole of nonresident alien individuals and persons described in clause (i), (ii), or (iii).
   - **(3)** If, within the United States, a United States person—
-    - **(A)** collects interest (or otherwise acts as a middleman between the payor and payee) from a foreign person described in paragraph (2)(D) or collects interest from a United States person which is income from sources outside the United States for a second person who is a United States person, or
+    - **(A)** collects interest (or otherwise acts as a middleman between the payor and payee) from a foreign person described in paragraph (2)(D) 1 1 See References in Text note below. or collects interest from a United States person which is income from sources outside the United States for a second person who is a United States person, or
     - **(B)** makes payments of such interest to such second United States person,
   - **(4)** A person is described in this paragraph if such person is—
     - **(A)** a corporation,
@@ -91,10 +92,22 @@ generated_at: "2026-03-30T02:55:27.833Z"
     - **(C)** Except as otherwise provided in regulations, any return or statement required to be filed or furnished under this section with respect to interest income described in subparagraph (A) and interest on any other debt instrument to which section 1272(a)(6) applies shall also provide information setting forth the adjusted issue price of the interest to which the return or statement relates at the beginning of each accrual period with respect to which interest income is required to be reported on such return or statement and information necessary to compute accrual of market discount.
     - **(D)** The Secretary may prescribe such regulations as are necessary or appropriate to carry out the purposes of this paragraph, including regulations which require more frequent or more detailed reporting.
   - **(8)**
-    - **(A)** For purposes of subsection (a), the term “interest” includes amounts includible in gross income under section 54(g) 1 1 See References in Text note below. and such amounts shall be treated as paid on the credit allowance date (as defined in section 54(b)(4)). 1
+    - **(A)** For purposes of subsection (a), the term “interest” includes amounts includible in gross income under section 54(g) 1 and such amounts shall be treated as paid on the credit allowance date (as defined in section 54(b)(4)). 1
     - **(B)** Except as otherwise provided in regulations, in the case of any interest described in subparagraph (A), subsection (b)(4) shall be applied without regard to subparagraphs (A), (H), (I), (J), (K), and (L)(i) of such subsection.
     - **(C)** The Secretary may prescribe such regulations as are necessary or appropriate to carry out the purposes of this paragraph, including regulations which require more frequent or more detailed reporting.
   - **(9)**
     - **(A)** For purposes of subsection (a), the term “interest” includes amounts includible in gross income under section 54A 1 and such amounts shall be treated as paid on the credit allowance date (as defined in section 54A(e)(1)). 1
     - **(B)** Except as otherwise provided in regulations, in the case of any interest described in subparagraph (A) of this paragraph, subsection (b)(4) of this section shall be applied without regard to subparagraphs (A), (H), (I), (J), (K), and (L)(i).
     - **(C)** The Secretary may prescribe such regulations as are necessary or appropriate to carry out the purposes of this paragraph, including regulations which require more frequent or more detailed reporting.
+
+In general
+
+Carrybacks
+
+In general
+
+Subsection (c)
+
+## Source Credit
+
+*(Added [Pub. L. 87–834, § 19(c)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 1055](https://www.govinfo.gov/link/statute/76/1055); amended [Pub. L. 91–172, title IV, § 413(c)](https://www.govinfo.gov/link/plaw/91/public/172), (d), Dec. 30, 1969, [83 Stat. 611](https://www.govinfo.gov/link/statute/83/611), 612; [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(b)(6)(A), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1793](https://www.govinfo.gov/link/statute/90/1793), 1834; [Pub. L. 97–248, title III](https://www.govinfo.gov/link/plaw/97/public/248), §§ 303(b), 308(a), 309(a), Sept. 3, 1982, [96 Stat. 587](https://www.govinfo.gov/link/statute/96/587), 591; [Pub. L. 97–424, title V, § 547(b)(4)](https://www.govinfo.gov/link/plaw/97/public/424), Jan. 6, 1983, [96 Stat. 2200](https://www.govinfo.gov/link/statute/96/2200); [Pub. L. 98–67, title I](https://www.govinfo.gov/link/plaw/98/public/67), §§ 102(a), (e), 108(a), Aug. 5, 1983, [97 Stat. 369](https://www.govinfo.gov/link/statute/97/369), 370, 383; [Pub. L. 98–369, div. A, title I, § 42(a)(14)](https://www.govinfo.gov/link/plaw/98/public/369), title IV, § 474(r)(29)(J), July 18, 1984, [98 Stat. 557](https://www.govinfo.gov/link/statute/98/557), 845; [Pub. L. 99–514, title VI, § 674](https://www.govinfo.gov/link/plaw/99/public/514), title XII, § 1214(c)(4), title XV, § 1501(c)(5), title XVIII, § 1803(a)(14)(C), Oct. 22, 1986, [100 Stat. 2319](https://www.govinfo.gov/link/statute/100/2319), 2543, 2737, 2797; [Pub. L. 100–647, title I, § 1006(t)(24)](https://www.govinfo.gov/link/plaw/100/public/647), (v), Nov. 10, 1988, [102 Stat. 3426](https://www.govinfo.gov/link/statute/102/3426), 3427; [Pub. L. 104–168, title XII, § 1201(a)(6)](https://www.govinfo.gov/link/plaw/104/public/168), July 30, 1996, [110 Stat. 1469](https://www.govinfo.gov/link/statute/110/1469); [Pub. L. 109–58, title XIII, § 1303(b)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 996](https://www.govinfo.gov/link/statute/119/996); [Pub. L. 109–135, title I, § 101(b)(2)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2593](https://www.govinfo.gov/link/statute/119/2593); [Pub. L. 109–222, title V, § 502(a)](https://www.govinfo.gov/link/plaw/109/public/222), (b), May 17, 2006, [120 Stat. 354](https://www.govinfo.gov/link/statute/120/354); [Pub. L. 110–234, title XV, § 15316(b)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1511](https://www.govinfo.gov/link/statute/122/1511); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XV, § 15316(b), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2273; [Pub. L. 115–141, div. U, title IV, § 401(d)(6)(B)(vi)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1211](https://www.govinfo.gov/link/statute/132/1211).)*

@@ -3,9 +3,10 @@ title: "Section 1621i - Managed care feasibility study"
 usc_title: 25
 usc_section: "1621i"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1621i"
-generated_at: "2026-03-30T02:54:52.821Z"
+generated_at: "2026-11-23T21:25:54.619Z"
+status: "active"
 ---
 
 # § 1621i. Managed care feasibility study
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:52.821Z"
 - **(b)** Not later than the date which is 12 months after October 29, 1992 , the Secretary shall transmit to the Congress a report containing—
   - **(1)** a detailed description of the study conducted pursuant to this section; and
   - **(2)** a discussion of the findings and conclusions of such study.
+
+## Source Credit
+
+*([Pub. L. 94–437, title II, § 210](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 102–573, title II, § 206(b)](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4549](https://www.govinfo.gov/link/statute/106/4549).)*

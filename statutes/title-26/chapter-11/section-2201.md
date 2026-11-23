@@ -3,9 +3,10 @@ title: "Section 2201 - Combat zone-related deaths of members of the Armed Forces
 usc_title: 26
 usc_section: "2201"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 2201"
-generated_at: "2026-03-30T02:55:27.783Z"
+generated_at: "2026-11-23T21:26:06.534Z"
+status: "active"
 ---
 
 # § 2201. Combat zone-related deaths of members of the Armed Forces, deaths of astronauts, and deaths of victims of certain terrorist attacks
@@ -17,5 +18,37 @@ generated_at: "2026-03-30T02:55:27.783Z"
     - **(B)** died as a result of wounds, disease, or injury suffered while serving in a combat zone (as determined under section 112(c)), and while in the line of duty, by reason of a hazard to which such decedent was subjected as an incident of such service,
   - **(2)** any specified terrorist victim (as defined in section 692(d)(4)), and
   - **(3)** any astronaut whose death occurs in the line of duty.
-- **(c)** If the amount with respect to which the tentative tax to be computed is: The tentative tax is: Not over $150,000 1 percent of the amount by which such amount exceeds $100,000. Over $150,000 but not over $200,000 $500 plus 2 percent of the excess over $150,000. Over $200,000 but not over $300,000 $1,500 plus 3 percent of the excess over $200,000. Over $300,000 but not over $500,000 $4,500 plus 4 percent of the excess over $300,000. Over $500,000 but not over $700,000 $12,500 plus 5 percent of the excess over $500,000. Over $700,000 but not over $900,000 $22,500 plus 6 percent of the excess over $700,000. Over $900,000 but not over $1,100,000 $34,500 plus 7 percent of the excess over $900,000. Over $1,100,000 but not over $1,600,000 $48,500 plus 8 percent of the excess over $1,100,000. Over $1,600,000 but not over $2,100,000 $88,500 plus 9 percent of the excess over $1,600,000. Over $2,100,000 but not over $2,600,000 $133,500 plus 10 percent of the excess over $2,100,000. Over $2,600,000 but not over $3,100,000 $183,500 plus 11 percent of the excess over $2,600,000. Over $3,100,000 but not over $3,600,000 $238,500 plus 12 percent of the excess over $3,100,000. Over $3,600,000 but not over $4,100,000 $298,500 plus 13 percent of the excess over $3,600,000. Over $4,100,000 but not over $5,100,000 $363,500 plus 14 percent of the excess over $4,100,000. Over $5,100,000 but not over $6,100,000 $503,500 plus 15 percent of the excess over $5,100,000. Over $6,100,000 but not over $7,100,000 $653,500 plus 16 percent of the excess over $6,100,000. Over $7,100,000 but not over $8,100,000 $813,500 plus 17 percent of the excess over $7,100,000. Over $8,100,000 but not over $9,100,000 $983,500 plus 18 percent of the excess over $8,100,000. Over $9,100,000 but not over $10,100,000 $1,163,500 plus 19 percent of the excess over $9,100,000. Over $10,100,000 $1,353,500 plus 20 percent of the excess over $10,100,000.
+- **(c)**
+
+| If the amount with respect to which the tentative tax to be computed is: | The tentative tax is: |
+| --- | --- |
+| Not over $150,000 | 1 percent of the amount by which such amount exceeds $100,000. |
+| Over $150,000 but not over $200,000 | $500 plus 2 percent of the excess over $150,000. |
+| Over $200,000 but not over $300,000 | $1,500 plus 3 percent of the excess over $200,000. |
+| Over $300,000 but not over $500,000 | $4,500 plus 4 percent of the excess over $300,000. |
+| Over $500,000 but not over $700,000 | $12,500 plus 5 percent of the excess over $500,000. |
+| Over $700,000 but not over $900,000 | $22,500 plus 6 percent of the excess over $700,000. |
+| Over $900,000 but not over $1,100,000 | $34,500 plus 7 percent of the excess over $900,000. |
+| Over $1,100,000 but not over $1,600,000 | $48,500 plus 8 percent of the excess over $1,100,000. |
+| Over $1,600,000 but not over $2,100,000 | $88,500 plus 9 percent of the excess over $1,600,000. |
+| Over $2,100,000 but not over $2,600,000 | $133,500 plus 10 percent of the excess over $2,100,000. |
+| Over $2,600,000 but not over $3,100,000 | $183,500 plus 11 percent of the excess over $2,600,000. |
+| Over $3,100,000 but not over $3,600,000 | $238,500 plus 12 percent of the excess over $3,100,000. |
+| Over $3,600,000 but not over $4,100,000 | $298,500 plus 13 percent of the excess over $3,600,000. |
+| Over $4,100,000 but not over $5,100,000 | $363,500 plus 14 percent of the excess over $4,100,000. |
+| Over $5,100,000 but not over $6,100,000 | $503,500 plus 15 percent of the excess over $5,100,000. |
+| Over $6,100,000 but not over $7,100,000 | $653,500 plus 16 percent of the excess over $6,100,000. |
+| Over $7,100,000 but not over $8,100,000 | $813,500 plus 17 percent of the excess over $7,100,000. |
+| Over $8,100,000 but not over $9,100,000 | $983,500 plus 18 percent of the excess over $8,100,000. |
+| Over $9,100,000 but not over $10,100,000 | $1,163,500 plus 19 percent of the excess over $9,100,000. |
+| Over $10,100,000 | $1,353,500 plus 20 percent of the excess over $10,100,000. |
+
 - **(d)** In the case of an estate to which this section applies, subsection (a) shall not apply in determining the credit under section 2010.
+
+Not over $150,000
+
+Over $10,100,000
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 401; [Pub. L. 93–597, § 6(b)(1)](https://www.govinfo.gov/link/plaw/93/public/597), (2), Jan. 2, 1975, [88 Stat. 1953](https://www.govinfo.gov/link/statute/88/1953); [Pub. L. 94–455, title XIX, § 1902(a)(7)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1805](https://www.govinfo.gov/link/statute/90/1805); [Pub. L. 107–16, title V, § 532(c)(9)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 75](https://www.govinfo.gov/link/statute/115/75); [Pub. L. 107–134, title I, § 103(a)](https://www.govinfo.gov/link/plaw/107/public/134), (b)(3), Jan. 23, 2002, [115 Stat. 2430](https://www.govinfo.gov/link/statute/115/2430), 2431; [Pub. L. 108–121, title I, § 110(c)(1)](https://www.govinfo.gov/link/plaw/108/public/121), (2)(A), Nov. 11, 2003, [117 Stat. 1342](https://www.govinfo.gov/link/statute/117/1342).)*

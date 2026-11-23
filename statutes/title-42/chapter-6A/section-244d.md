@@ -3,9 +3,10 @@ title: "Section 244d - Promoting student access to AEDs and CPR"
 usc_title: 42
 usc_section: "244d"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 244d"
-generated_at: "2026-03-30T02:56:10.692Z"
+generated_at: "2026-11-23T21:26:30.257Z"
+status: "active"
 ---
 
 # § 244d. Promoting student access to AEDs and CPR
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:10.692Z"
       - **(ii)** an organization that is described in section 501(c) of title 26 and exempt from taxation under section 501(a) of such title;
     - **(B)** demonstrates an ability to develop, train, and implement a comprehensive program to promote student access to defibrillation in public elementary and secondary schools; and
     - **(C)** is qualified in providing technical assistance in AED and CPR training.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 312D, as added [Pub. L. 118–176, § 2(a)](https://www.govinfo.gov/link/plaw/118/public/176), Dec. 23, 2024, [138 Stat. 2608](https://www.govinfo.gov/link/statute/138/2608).)*

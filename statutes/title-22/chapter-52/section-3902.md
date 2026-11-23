@@ -3,9 +3,10 @@ title: "Section 3902 - Definitions"
 usc_title: 22
 usc_section: "3902"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3902"
-generated_at: "2026-03-30T02:55:05.398Z"
+generated_at: "2026-11-23T21:25:58.599Z"
+status: "active"
 ---
 
 # § 3902. Definitions
@@ -24,3 +25,7 @@ As used in this chapter, the term—
   - **(10)** “Secretary” means the Secretary of State, except that (subject to section 3921 of this title ) with reference to the exercise of functions under this Act with respect to any agency authorized by law to utilize the Foreign Service personnel system, such term means the head of that agency;
   - **(11)** “Service” or “Foreign Service” means the Foreign Service of the United States; and
   - **(12)** “United States”, when used in a geographic sense, means the several States and the District of Columbia.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 102](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2075](https://www.govinfo.gov/link/statute/94/2075); [Pub. L. 98–164, title I, § 130(a)](https://www.govinfo.gov/link/plaw/98/public/164), Nov. 22, 1983, [97 Stat. 1027](https://www.govinfo.gov/link/statute/97/1027).)*

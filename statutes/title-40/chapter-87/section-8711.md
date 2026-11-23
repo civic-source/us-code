@@ -3,9 +3,10 @@ title: "Section 8711 - National Capital Planning Commission"
 usc_title: 40
 usc_section: "8711"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 8711"
-generated_at: "2026-03-30T02:55:43.384Z"
+generated_at: "2026-11-23T21:26:14.918Z"
+status: "active"
 ---
 
 # § 8711. National Capital Planning Commission
@@ -26,3 +27,102 @@ generated_at: "2026-03-30T02:55:43.384Z"
 - **(f)** The National Capital Planning Commission shall carry out all other functions, powers, and duties of the National Capital Park and Planning Commission, including those formerly vested in the Highway Commission established by the Act of March 2, 1893 (ch. 197, 27 Stat. 532 ), and those formerly vested in the National Capital Park Commission by the Act of June 6, 1924 (ch. 270, 43 Stat. 463 ).
 - **(g)** The National Capital Planning Commission shall submit to the Office of Management and Budget before December 16 of each year its estimate of the total amount to be appropriated for expenditure under this chapter (except sections 8732–8736) during the next fiscal year.
 - **(h)** The National Capital Planning Commission may charge fees to cover the full cost of Geographic Information System products and services the Commission supplies. The fees shall be credited to the applicable appropriation account as an offsetting collection and remain available until expended.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8711(a) | 40:71a(a)(1). | June 6, 1924, ch. 270, § 2(a)(1) , (b), (c), (e), as added July 19, 1952, ch. 949, § 1 , 66 Stat. 782 ; Sept. 25, 1962 , Pub. L. 87–683 , 76 Stat. 575 ; Dec. 24, 1973 , Pub. L. 93–198, title II, § 203(a) , (b), 87 Stat. 779 , 782. |
+| 8711(b) | 40:71a(b). |  |
+| 8711(c), (d) | 40:71a(c). |  |
+| 8711(e) | 40:71a(e). |  |
+| 8711(f) | 40:71h. | June 6, 1924, ch. 270, § 9 , as added July 19, 1952, ch. 949, § 1 , 66 Stat. 790 . |
+| 8711(g) | 40:74. | June 6, 1924, ch. 270, § 13 , formerly § 4, 43 Stat. 464 ; renumbered § 13, July 19, 1952, ch. 949, § 2 (1st sentence), 66 Stat. 791 ; Pub. L. 94–273, § 21 , Apr. 21, 1976 , 90 Stat. 379 . |
+| 8711(h) | 40:71a note. | Pub. L. 105–83 , (last proviso in par. under heading “National Capital Planning Commission”), Nov. 14, 1997 , 111 Stat. 1589 . |
+
+
+Establishment and Purpose
+
+Composition.—
+
+Membership
+
+Residency requirement
+
+Terms
+
+Pay and expenses
+
+Chairman and Officers
+
+Personnel
+
+Principal Duties
+
+Transfer of Other Functions, Powers, and Duties
+
+Estimate
+
+Fees
+
+Historical and Revision Notes
+
+8711(a)
+
+June 6, 1924, ch. 270, § 2(a)(1)
+
+July 19, 1952, ch. 949, § 1
+
+66 Stat. 782
+
+Sept. 25, 1962
+
+Pub. L. 87–683
+
+76 Stat. 575
+
+Dec. 24, 1973
+
+Pub. L. 93–198, title II, § 203(a)
+
+87 Stat. 779
+
+8711(b)
+
+8711(c), (d)
+
+8711(e)
+
+8711(f)
+
+June 6, 1924, ch. 270, § 9
+
+July 19, 1952, ch. 949, § 1
+
+66 Stat. 790
+
+8711(g)
+
+June 6, 1924, ch. 270, § 13
+
+43 Stat. 464
+
+July 19, 1952, ch. 949, § 2
+
+66 Stat. 791
+
+Pub. L. 94–273, § 21
+
+Apr. 21, 1976
+
+90 Stat. 379
+
+8711(h)
+
+Pub. L. 105–83
+
+Nov. 14, 1997
+
+111 Stat. 1589
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1217](https://www.govinfo.gov/link/statute/116/1217); [Pub. L. 109–284, § 6(27)](https://www.govinfo.gov/link/plaw/109/public/284), Sept. 27, 2006, [120 Stat. 1213](https://www.govinfo.gov/link/statute/120/1213); [Pub. L. 111–350, § 5](https://www.govinfo.gov/link/plaw/111/public/350) (l)(23), Jan. 4, 2011, [124 Stat. 3852](https://www.govinfo.gov/link/statute/124/3852).)*

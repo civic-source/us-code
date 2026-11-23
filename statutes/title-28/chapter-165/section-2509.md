@@ -3,9 +3,10 @@ title: "Section 2509 - Congressional reference cases"
 usc_title: 28
 usc_section: "2509"
 chapter: 165
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 2509"
-generated_at: "2026-03-30T02:55:30.150Z"
+generated_at: "2026-11-23T21:26:01.135Z"
+status: "active"
 ---
 
 # § 2509. Congressional reference cases
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:30.150Z"
 - **(e)** The panel shall submit its report to the chief judge for transmission to the appropriate House of Congress.
 - **(f)** Any act or failure to act or other conduct by a party, a witness, or an attorney which would call for the imposition of sanctions under the rules of practice of the Court of Federal Claims shall be noted by the panel or the hearing officer at the time of occurrence thereof and upon failure of the delinquent or offending party, witness, or attorney to make prompt compliance with the order of the panel or the hearing officer a full statement of the circumstances shall be incorporated in the report of the panel.
 - **(g)** The Court of Federal Claims is hereby authorized and directed, under such regulations as it may prescribe, to provide the facilities and services of the office of the clerk of the court for the filing, processing, hearing, and dispatch of congressional reference cases and to include within its annual appropriations the costs thereof and other costs of administration, including (but without limitation to the items herein listed) the salaries and traveling expenses of the judges serving as hearing officers and panel members, mailing and service of process, necessary physical facilities, equipment, and supplies, and personnel (including secretaries and law clerks).
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 977](https://www.govinfo.gov/link/statute/62/977); [Pub. L. 89–681, § 2](https://www.govinfo.gov/link/plaw/89/public/681), Oct. 15, 1966, [80 Stat. 958](https://www.govinfo.gov/link/statute/80/958); [Pub. L. 97–164, title I, § 139(h)](https://www.govinfo.gov/link/plaw/97/public/164), Apr. 2, 1982, [96 Stat. 42](https://www.govinfo.gov/link/statute/96/42); [Pub. L. 102–572, title IX, § 902(a)](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4516](https://www.govinfo.gov/link/statute/106/4516).)*

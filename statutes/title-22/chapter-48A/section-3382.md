@@ -3,9 +3,10 @@ title: "Section 3382 - Purposes"
 usc_title: 22
 usc_section: "3382"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3382"
-generated_at: "2026-03-30T02:55:05.393Z"
+generated_at: "2026-11-23T21:25:58.585Z"
+status: "active"
 ---
 
 # § 3382. Purposes
@@ -17,3 +18,7 @@ The purposes of this subchapter are—
     - **(A)** to learn or strengthen Mandarin Chinese language skills; and
     - **(B)** to expand their understanding of the political economy of Taiwan and the Indo-Pacific region; and
   - **(3)** to better position the United States to advance its economic, security, and human rights interests and values in the Indo-Pacific region.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. E, title LV, § 5528](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3325](https://www.govinfo.gov/link/statute/136/3325).)*

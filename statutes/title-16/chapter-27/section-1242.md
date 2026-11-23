@@ -3,9 +3,10 @@ title: "Section 1242 - National trails system"
 usc_title: 16
 usc_section: "1242"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1242"
-generated_at: "2026-03-30T02:54:22.944Z"
+generated_at: "2026-11-23T21:25:51.839Z"
+status: "active"
 ---
 
 # § 1242. National trails system
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:22.944Z"
   - **(3)** National historic trails, established as provided in section 1244 of this title , which will be extended trails which follow as closely as possible and practicable the original trails or routes of travel of national historical significance. Designation of such trails or routes shall be continuous, but the established or developed trail, and the acquisition thereof, need not be continuous onsite. National historic trails shall have as their purpose the identification and protection of the historic route and its historic remnants and artifacts for public use and enjoyment. Only those selected land and water based components of an historic trail which are on federally owned lands and which meet the national historic trail criteria established in this chapter are included as Federal protection components of a national historic trail. The appropriate Secretary may certify other lands as protected segments of an historic trail upon application from State or local governmental agencies or private interests involved if such segments meet the national historic trail criteria established in this chapter and such criteria supplementary thereto as the appropriate Secretary may prescribe, and are administered by such agencies or interests without expense to the United States.
   - **(4)** Connecting or side trails, established as provided in section 1245 of this title , which will provide additional points of public access to national recreation, national scenic or national historic trails or which will provide connections between such trails.
 - **(b)** For purposes of this section, the term “extended trails” means trails or trail segments which total at least one hundred miles in length, except that historic trails of less than one hundred miles may be designated as extended trails. While it is desirable that extended trails be continuous, studies of such trails may conclude that it is feasible to propose one or more trail segments which, in the aggregate, constitute at least one hundred miles in length.
+
+## Source Credit
+
+*([Pub. L. 90–543, § 3](https://www.govinfo.gov/link/plaw/90/public/543), Oct. 2, 1968, [82 Stat. 919](https://www.govinfo.gov/link/statute/82/919); [Pub. L. 95–625, title V, § 551(4)](https://www.govinfo.gov/link/plaw/95/public/625), (5), Nov. 10, 1978, [92 Stat. 3511](https://www.govinfo.gov/link/statute/92/3511), 3512; [Pub. L. 98–11, title II, § 203](https://www.govinfo.gov/link/plaw/98/public/11), Mar. 28, 1983, [97 Stat. 42](https://www.govinfo.gov/link/statute/97/42); [Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(E)](https://www.govinfo.gov/link/plaw/104/public/333), Nov. 12, 1996, [110 Stat. 4196](https://www.govinfo.gov/link/statute/110/4196).)*

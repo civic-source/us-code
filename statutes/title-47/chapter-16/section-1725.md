@@ -3,9 +3,10 @@ title: "Section 1725 - Policy research, data collection, analysis and modeling, 
 usc_title: 47
 usc_section: "1725"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1725"
-generated_at: "2026-03-30T02:56:24.542Z"
+generated_at: "2026-11-23T21:26:36.128Z"
+status: "active"
 ---
 
 # § 1725. Policy research, data collection, analysis and modeling, evaluation, and dissemination
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:56:24.542Z"
   - **(17)** other agencies, organizations (including international organizations), entities (including entities with expertise in the fields of data collection, analysis and modeling, and evaluation), and community stakeholders, as determined appropriate by the Assistant Secretary.
 - **(d)** The Assistant Secretary shall provide technical support and assistance, assistance to entities to prepare the applications of those entities with respect to grants awarded under the covered programs, and other resources, to the extent practicable, to ensure consistency in data reporting and to meet the objectives of this section.
 - **(e)** There are authorized to be appropriated such sums as may be necessary to carry out this section, which shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. F, title III, § 60306](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1228](https://www.govinfo.gov/link/statute/135/1228).)*

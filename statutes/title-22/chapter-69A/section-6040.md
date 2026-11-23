@@ -3,9 +3,10 @@ title: "Section 6040 - Importation safeguard against certain Cuban products"
 usc_title: 22
 usc_section: "6040"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6040"
-generated_at: "2026-03-30T02:55:05.422Z"
+generated_at: "2026-11-23T21:25:58.676Z"
+status: "active"
 ---
 
 # § 6040. Importation safeguard against certain Cuban products
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.422Z"
   - **(2)** “Article 309(3) [of the NAFTA] permits the United States to ensure that Cuban products or goods made from Cuban materials are not imported into the United States from Mexico or Canada and that United States products are not exported to Cuba through those countries.”.
 - **(c)** The Congress notes that section 902(c) of the Food Security Act of 1985 ( Public Law 99–198 ) requires the President not to allocate any of the sugar import quota to a country that is a net importer of sugar unless appropriate officials of that country verify to the President that the country does not import for reexport to the United States any sugar produced in Cuba.
 - **(d)** Protection of essential security interests of the United States requires assurances that sugar products that are entered, or withdrawn from warehouse for consumption, into the customs territory of the United States are not products of Cuba.
+
+## Source Credit
+
+*([Pub. L. 104–114, title I, § 110](https://www.govinfo.gov/link/plaw/104/public/114), Mar. 12, 1996, [110 Stat. 800](https://www.govinfo.gov/link/statute/110/800).)*

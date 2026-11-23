@@ -3,9 +3,10 @@ title: "Section 162 - National scenic byways program"
 usc_title: 23
 usc_section: "162"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 162"
-generated_at: "2026-03-30T02:55:12.561Z"
+generated_at: "2026-11-23T21:25:53.899Z"
+status: "active"
 ---
 
 # § 162. National scenic byways program
@@ -53,3 +54,41 @@ generated_at: "2026-03-30T02:55:12.561Z"
 - **(d)** The Secretary shall not make a grant under this section for any project that would not protect the scenic, historical, recreational, cultural, natural, and archaeological integrity of a highway and adjacent areas.
 - **(e)** The Secretary shall not withhold any grant or impose any requirement on a State or Indian tribe as a condition of providing a grant or technical assistance for any scenic byway unless the requirement is consistent with the authority provided in this chapter.
 - **(f)** The Federal share of the cost of carrying out a project under this section shall be 80 percent, except that, in the case of any scenic byway project along a public road that provides access to or within Federal or Indian land, a Federal land management agency may use funds authorized for use by the agency as the non-Federal share.
+
+Designation of Roads.—
+
+In general
+
+Criteria
+
+Nomination.—
+
+In general
+
+Nomination by indian tribes
+
+Safety
+
+Reciprocal notification
+
+Grants and Technical Assistance.—
+
+In general
+
+Priorities
+
+Eligible Projects
+
+Limitation
+
+Savings Clause
+
+Federal Share
+
+Request for Nominations
+
+Designation Determinations
+
+## Source Credit
+
+*(Added [Pub. L. 105–178, title I, § 1219(a)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 219](https://www.govinfo.gov/link/statute/112/219); amended [Pub. L. 109–59, title I, § 1802](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1456](https://www.govinfo.gov/link/statute/119/1456); [Pub. L. 110–244, title I, § 101](https://www.govinfo.gov/link/plaw/110/public/244) (o), June 6, 2008, [122 Stat. 1576](https://www.govinfo.gov/link/statute/122/1576).)*

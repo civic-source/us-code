@@ -3,9 +3,10 @@ title: "Section 732 - Client assistance program"
 usc_title: 29
 usc_section: "732"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 732"
-generated_at: "2026-03-30T02:55:18.693Z"
+generated_at: "2026-11-23T21:26:02.204Z"
+status: "active"
 ---
 
 # § 732. Client assistance program
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:55:18.693Z"
   - **(4)** $13,488,000 for fiscal year 2018;
   - **(5)** $13,805,000 for fiscal year 2019; and
   - **(6)** $14,098,000 for fiscal year 2020.
+
+## Source Credit
+
+*([Pub. L. 93–112, title I, § 112](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 105–220, title IV, § 404](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1163](https://www.govinfo.gov/link/statute/112/1163); amended [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(b)(9)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–413; [Pub. L. 113–128, title IV, § 421](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1656](https://www.govinfo.gov/link/statute/128/1656).)*

@@ -3,9 +3,10 @@ title: "Section 8235f - Application of other laws"
 usc_title: 42
 usc_section: "8235f"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8235f"
-generated_at: "2026-03-30T02:56:11.337Z"
+generated_at: "2026-11-23T21:26:33.185Z"
+status: "active"
 ---
 
 # § 8235f. Application of other laws
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.337Z"
   - **(3)** the Federal Trade Commission Act ( 15 U.S.C. 41 et seq.);
   - **(4)** sections 73 and 74 of the Wilson Tariff Act ( 15 U.S.C. 8 and 9); and
   - **(5)** sections 2, 3, and 4 of the Act entitled “An Act to amend section 2 of the Act entitled ‘An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes’, approved October 15, 1914 , as amended (U.S.C., title 15, sec. 13), and for other purposes” approved June 19, 1936 ( 15 U.S.C. 21a , 13a, and 13b, commonly known as the Robinson-Patman Antidiscrimination Act).
+
+## Source Credit
+
+*([Pub. L. 95–619, title II, § 267](https://www.govinfo.gov/link/plaw/95/public/619), as added [Pub. L. 96–294, title V, § 562](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 749](https://www.govinfo.gov/link/statute/94/749).)*

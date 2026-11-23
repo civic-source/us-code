@@ -3,9 +3,10 @@ title: "Section 20702 - Inspections, repairs, and inspection and repair reports"
 usc_title: 49
 usc_section: "20702"
 chapter: 207
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 20702"
-generated_at: "2026-03-30T02:56:19.339Z"
+generated_at: "2026-11-23T21:26:40.714Z"
+status: "active"
 ---
 
 # § 20702. Inspections, repairs, and inspection and repair reports
@@ -24,3 +25,105 @@ generated_at: "2026-03-30T02:56:19.339Z"
   - **(1)** inspection made under regulations prescribed by the Secretary; and
   - **(2)** repair made of a defect disclosed by such an inspection.
 - **(d)** A railroad carrier may change a rule or instruction of the carrier governing the inspection by the carrier of the locomotives and tenders and locomotive and tender parts and appurtenances of the carrier when the Secretary approves a request filed by the carrier to make the change.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 20702(a) | 45:29 (1st–3d sentences). | Feb. 17, 1911, ch. 103, § 6 , 36 Stat. 915 ; Apr. 22, 1940, ch. 124, § 1(1) –(3) (related to § 6 of Act of Feb. 17, 1911 ), 54 Stat. 148 ; Reorg. Plan No. 3 of 1965, eff. July 27, 1965 , 79 Stat. 1320 ; Oct. 10, 1980 , Pub. L. 96–423, § 13 , 94 Stat. 1816 ; June 22, 1988 , Pub. L. 100–342, § 14(5) , 102 Stat. 633 . |
+|  | 45:30 (1st sentence related to 45:29, last sentence). | Mar. 4, 1915, ch. 169, § 2 (1st sentence related to §§ 5, 6 of Act of Feb. 17, 1911 , last sentence), 38 Stat. 1192 ; Apr. 22, 1940, ch. 124, § 2 , 54 Stat. 148 ; Reorg. Plan No. 3 of 1965, eff. July 27, 1965 , 79 Stat. 1320 . |
+|  | 49 App.:1655(e) (1)(E)–(G). | Oct. 15, 1966 , Pub. L. 89–670, § 6(e)(1)(E) –(G), 80 Stat. 939 . |
+| 20702(b) | 45:29 (6th, last sentences). |  |
+|  | 45:30 (1st sentence related to 45:29) |  |
+|  | 49 App.:1655(e) (1)(E)–(G). |  |
+| 20702(c) | 45:29 (4th, 5th sentences). |  |
+| 20702(d) | 45:28. | Feb. 17, 1911, ch. 103, § 5 , 36 Stat. 914 ; Apr. 22, 1940, ch. 124, § 1(1) –(3) (related to § 5 of Act of Feb. 17, 1911 ), 54 Stat. 148 ; Reorg. Plan No. 3 of 1965, eff. July 27, 1965 , 79 Stat. 1320 ; June 22, 1988 , Pub. L. 100–342, § 14(4) , 102 Stat. 633 . |
+|  | 45:30 (1st sentence related to 45:28). |  |
+|  | 49 App.:1655(e) (1)(E)–(G). |  |
+
+
+General
+
+Noncomplying Locomotives, Tenders, and Parts
+
+Reports
+
+Changes in Inspection Procedures
+
+Historical and Revision Notes
+
+20702(a)
+
+Feb. 17, 1911, ch. 103, § 6
+
+36 Stat. 915
+
+Apr. 22, 1940, ch. 124, § 1(1)
+
+Feb. 17, 1911
+
+54 Stat. 148
+
+July 27, 1965
+
+79 Stat. 1320
+
+Oct. 10, 1980
+
+Pub. L. 96–423, § 13
+
+94 Stat. 1816
+
+June 22, 1988
+
+Pub. L. 100–342, § 14(5)
+
+102 Stat. 633
+
+Mar. 4, 1915, ch. 169, § 2
+
+Feb. 17, 1911
+
+38 Stat. 1192
+
+Apr. 22, 1940, ch. 124, § 2
+
+54 Stat. 148
+
+July 27, 1965
+
+79 Stat. 1320
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 6(e)(1)(E)
+
+80 Stat. 939
+
+20702(b)
+
+20702(c)
+
+20702(d)
+
+Feb. 17, 1911, ch. 103, § 5
+
+36 Stat. 914
+
+Apr. 22, 1940, ch. 124, § 1(1)
+
+Feb. 17, 1911
+
+54 Stat. 148
+
+July 27, 1965
+
+79 Stat. 1320
+
+June 22, 1988
+
+Pub. L. 100–342, § 14(4)
+
+102 Stat. 633
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 885](https://www.govinfo.gov/link/statute/108/885).)*

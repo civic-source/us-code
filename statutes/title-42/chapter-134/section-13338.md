@@ -3,12 +3,17 @@ title: "Section 13338 - Utilization of coal wastes"
 usc_title: 42
 usc_section: "13338"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13338"
-generated_at: "2026-03-30T02:56:11.442Z"
+generated_at: "2026-11-23T21:26:33.594Z"
+status: "active"
 ---
 
 # § 13338. Utilization of coal wastes
 
 - **(a)** The Secretary, in consultation with the Secretary of the Interior, shall establish a research, development, demonstration, and commercial application program on coal waste utilization for the purpose of developing techniques that will lead to the greater and more efficient utilization of coal wastes from mining and processing, other than coal ash.
 - **(b)** The program referred to in subsection (a) shall include projects to facilitate the use of coal wastes from mining and processing as a boiler fuel for the purpose of generating steam to produce electricity.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XIII, § 1308](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2975](https://www.govinfo.gov/link/statute/106/2975).)*

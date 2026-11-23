@@ -3,9 +3,10 @@ title: "Section 3310 - Judicial review"
 usc_title: 26
 usc_section: "3310"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 3310"
-generated_at: "2026-03-30T02:55:27.794Z"
+generated_at: "2026-11-23T21:26:06.580Z"
+status: "active"
 ---
 
 # § 3310. Judicial review
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:27.794Z"
 - **(d)**
   - **(1)** The Secretary of Labor shall not withhold any certification under section 3303(b) or section 3304(c) until the expiration of 60 days after the Governor of the State has been notified of the action referred to in subsection (a) or until the State has filed a petition for review of such action, whichever is earlier.
   - **(2)** The commencement of judicial proceedings under this section shall stay the Secretary of Labor’s action for a period of 30 days, and the court may thereafter grant interim relief if warranted, including a further stay of the Secretary of Labor’s action and including such other relief as may be necessary to preserve status or rights.
+
+## Source Credit
+
+*(Added [Pub. L. 91–373, title I, § 131(b)(1)](https://www.govinfo.gov/link/plaw/91/public/373), Aug. 10, 1970, [84 Stat. 703](https://www.govinfo.gov/link/statute/84/703); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(F)](https://www.govinfo.gov/link/plaw/94/public/455), (H), Oct. 4, 1976, [90 Stat. 1835](https://www.govinfo.gov/link/statute/90/1835); [Pub. L. 98–620, title IV, § 402(28)(A)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3359](https://www.govinfo.gov/link/statute/98/3359).)*

@@ -3,9 +3,10 @@ title: "Section 3302 - Findings"
 usc_title: 25
 usc_section: "3302"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3302"
-generated_at: "2026-03-30T02:54:52.850Z"
+generated_at: "2026-11-23T21:25:54.689Z"
+status: "active"
 ---
 
 # § 3302. Findings
@@ -19,3 +20,7 @@ The Congress finds that—
   - **(5)** however, inherent limitations in the contracting philosophy and mechanism, coupled with cumbersome administrative procedures developed by the Bureau of Indian Affairs have effectively limited the efficiency and effectiveness of these programs;
   - **(6)** the provision of these services in the most effective and efficient form possible is necessary for tribes, the country, and the individuals to be served; and
   - **(7)** these services are part of the Federal Government’s continuing trust responsibility to provide education services to American Indian and Alaska Natives.
+
+## Source Credit
+
+*([Pub. L. 102–325, title XIII, § 1312](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 798](https://www.govinfo.gov/link/statute/106/798).)*

@@ -3,9 +3,10 @@ title: "Section 698q - Little River Canyon National Preserve; establishment"
 usc_title: 16
 usc_section: "698q"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 698q"
-generated_at: "2026-03-30T02:54:22.898Z"
+generated_at: "2026-11-23T21:25:51.728Z"
+status: "active"
 ---
 
 # § 698q. Little River Canyon National Preserve; establishment
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:22.898Z"
   - **(1)** be on file and available for public inspection in the offices of the National Park Service of the Department of the Interior in Washington, District of Columbia; and
   - **(2)** be filed with the appropriate offices of DeKalb and Cherokee Counties in the State of Alabama.
 - **(d)** Not later than 6 months after October 21, 1992 , the Secretary of the Interior (referred to in sections 698q to 698t of this title as the “Secretary”) shall publish in the Federal Register a detailed description of the boundaries of the Preserve.
+
+## Source Credit
+
+*([Pub. L. 102–427, § 2](https://www.govinfo.gov/link/plaw/102/public/427), Oct. 21, 1992, [106 Stat. 2179](https://www.govinfo.gov/link/statute/106/2179); [Pub. L. 111–11, title VII, § 7103](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1190](https://www.govinfo.gov/link/statute/123/1190).)*

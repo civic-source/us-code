@@ -3,9 +3,10 @@ title: "Section 7508 - Authorization and appropriations"
 usc_title: 7
 usc_section: "7508"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7508"
-generated_at: "2026-03-30T02:53:42.455Z"
+generated_at: "2026-11-23T21:25:28.434Z"
+status: "active"
 ---
 
 # § 7508. Authorization and appropriations
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:42.455Z"
     - **(C)** Funds allocated to a State under this section may, upon State request, be allocated before States satisfy the matching requirement specified in subparagraph (A), based on the estimated contribution required. The Secretary shall periodically reconcile estimated and actual contributions and adjust allocations to the State to correct for overpayments and underpayments.
   - **(5)** States may not charge for commodities made available to emergency feeding organizations, and may not pass on to such organizations the cost of any matching requirements, under this chapter.
 - **(b)** The value of the commodities made available under this chapter and the funds of the Corporation used to pay the costs of initial processing, packaging (including forms suitable for home use), and delivering commodities to the States shall not be charged against appropriations made or authorized under this section.
+
+## Source Credit
+
+*([Pub. L. 98–8, title II, § 204](https://www.govinfo.gov/link/plaw/98/public/8), Mar. 24, 1983, [97 Stat. 35](https://www.govinfo.gov/link/statute/97/35); [Pub. L. 98–92, § 2(6)](https://www.govinfo.gov/link/plaw/98/public/92), Sept. 2, 1983, [97 Stat. 610](https://www.govinfo.gov/link/statute/97/610); [Pub. L. 99–198, title XV, § 1569](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1592](https://www.govinfo.gov/link/statute/99/1592); [Pub. L. 100–77, title VIII, § 813](https://www.govinfo.gov/link/plaw/100/public/77), July 22, 1987, [101 Stat. 537](https://www.govinfo.gov/link/statute/101/537); [Pub. L. 100–435, title I](https://www.govinfo.gov/link/plaw/100/public/435), §§ 103(a)–(c), 105(a), Sept. 19, 1988, [102 Stat. 1647](https://www.govinfo.gov/link/statute/102/1647), 1650; [Pub. L. 101–624, title XVII, § 1772(c)](https://www.govinfo.gov/link/plaw/101/public/624), (d), Nov. 28, 1990, [104 Stat. 3808](https://www.govinfo.gov/link/statute/104/3808), 3809; [Pub. L. 104–127, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1029](https://www.govinfo.gov/link/statute/110/1029); [Pub. L. 104–193, title VIII, § 871(c)](https://www.govinfo.gov/link/plaw/104/public/193), (e)(2), Aug. 22, 1996, [110 Stat. 2345](https://www.govinfo.gov/link/statute/110/2345); [Pub. L. 107–171, title IV, § 4204](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 330](https://www.govinfo.gov/link/statute/116/330); [Pub. L. 110–234, title IV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 4201(c), 4406(b)(1), May 22, 2008, [122 Stat. 1121](https://www.govinfo.gov/link/statute/122/1121), 1141; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, §§ 4201(c), 4406(b)(1), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1882, 1902.)*

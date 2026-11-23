@@ -3,9 +3,10 @@ title: "Section 12852 - Assistance for first-time homebuyers"
 usc_title: 42
 usc_section: "12852"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12852"
-generated_at: "2026-03-30T02:56:11.433Z"
+generated_at: "2026-11-23T21:26:33.562Z"
+status: "active"
 ---
 
 # § 12852. Assistance for first-time homebuyers
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:56:11.433Z"
       - **(iv)** in the fourth year of the mortgage, 0.5 percent of the total principal obligation of the mortgage.
     - **(B)** Assistance payments to provide amounts for downpayments on mortgages by the homebuyers, in an amount not exceeding 2.5 percent of the principal obligation of the mortgage.
   - **(3)** The Trust may make assistance payments under subparagraphs (A) and (B) of paragraph (3) with respect to a single mortgage of a homebuyer.
+
+## Source Credit
+
+*([Pub. L. 101–625, title III, § 303](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4130](https://www.govinfo.gov/link/statute/104/4130); [Pub. L. 102–550, title I, § 182(c)](https://www.govinfo.gov/link/plaw/102/public/550) –(e), Oct. 28, 1992, [106 Stat. 3737](https://www.govinfo.gov/link/statute/106/3737), 3738.)*

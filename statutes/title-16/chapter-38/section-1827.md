@@ -3,9 +3,10 @@ title: "Section 1827 - Observer program regarding certain foreign fishing"
 usc_title: 16
 usc_section: "1827"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1827"
-generated_at: "2026-03-30T02:54:22.986Z"
+generated_at: "2026-11-23T21:25:51.919Z"
+status: "active"
 ---
 
 # § 1827. Observer program regarding certain foreign fishing
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:22.986Z"
     - **(C)** to refuse to permit an individual who is authorized to act as an observer under this section with respect to that vessel to board the vessel for purposes of carrying out observer functions.
   - **(2)** Section 308 of the Act of 1976 [ 16 U.S.C. 1858 ] (relating to civil penalties) applies to any act that is unlawful under paragraph (1), and for purposes of such application the commission of any such act shall be treated as an act the commission of which is unlawful under section 307 of the Act of 1976 [ 16 U.S.C. 1857 ].
 - **(g)** The Secretary shall issue such regulations as are necessary or appropriate to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 96–339, § 2](https://www.govinfo.gov/link/plaw/96/public/339), Sept. 4, 1980, [94 Stat. 1069](https://www.govinfo.gov/link/statute/94/1069); [Pub. L. 96–561, title II, § 238(b)](https://www.govinfo.gov/link/plaw/96/public/561), Dec. 22, 1980, [94 Stat. 3300](https://www.govinfo.gov/link/statute/94/3300); [Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009](https://www.govinfo.gov/link/statute/110/3009), 3009–41.)*

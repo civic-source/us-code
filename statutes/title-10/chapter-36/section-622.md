@@ -3,9 +3,10 @@ title: "Section 622 - Numbers to be recommended for promotion"
 usc_title: 10
 usc_section: "622"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 622"
-generated_at: "2026-03-30T02:53:38.069Z"
+generated_at: "2026-11-23T21:25:32.301Z"
+status: "active"
 ---
 
 # § 622. Numbers to be recommended for promotion
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:38.069Z"
   - **(2)** the estimated number of officers needed to fill vacancies in such positions during the period in which it is anticipated that officers selected for promotion will be promoted, and
   - **(3)** the number of officers authorized by the Secretary of the military department concerned to serve on active duty in the grade and competitive category under consideration. Based on such determinations, the Secretary of the military department concerned shall determine the maximum number of officers in such competitive category which the selection board may recommend for promotion.
 
+
+## Source Credit
+
+*(Added [Pub. L. 96–513, title I, § 105](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2856](https://www.govinfo.gov/link/statute/94/2856).)*

@@ -3,9 +3,10 @@ title: "Section 607 - Mandatory work requirements"
 usc_title: 42
 usc_section: "607"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 607"
-generated_at: "2026-03-30T02:56:10.872Z"
+generated_at: "2026-11-23T21:26:31.079Z"
+status: "active"
 ---
 
 # § 607. Mandatory work requirements
@@ -89,3 +90,56 @@ generated_at: "2026-03-30T02:56:10.872Z"
       - **(ii)** The regulations referred to in clause (i) may be effective and final immediately on an interim basis as of the date of publication of the regulations. If the Secretary provides for an interim final regulation, the Secretary shall provide for a period of public comment on the regulation after the date of publication. The Secretary may change or revise the regulation after the public comment period.
     - **(B)** The Secretary shall review the State procedures established in accordance with paragraph (2) to ensure that such procedures are consistent with the regulations promulgated under subparagraph (A) and are adequate to ensure an accurate measurement of work participation under the State programs funded under this part and any other State programs funded with qualified State expenditures (as so defined).
   - **(2)** Not later than September 30, 2006 , a State to which a grant is made under section 603 of this title shall establish procedures for determining, with respect to recipients of assistance under the State program funded under this part or under any State programs funded with qualified State expenditures (as so defined), whether activities may be counted as work activities, how to count and verify reported hours of work, and who is a work-eligible individual, in accordance with the regulations promulgated pursuant to paragraph (1)(A)(i) and shall establish internal controls to ensure compliance with the procedures.
+
+| If the fiscal year is: | The minimum participation rate is: |
+| --- | --- |
+| 1997 | 25 |
+| 1998 | 30 |
+| 1999 | 35 |
+| 2000 | 40 |
+| 2001 | 45 |
+| 2002 or thereafter | 50. |
+
+| If the fiscal year is: | The minimum participation rate is: |
+| --- | --- |
+| 1997 | 75 |
+| 1998 | 75 |
+| 1999 or thereafter | 90. |
+
+| If the month is in fiscal year: | The minimum average number of hours per week is: |
+| --- | --- |
+| 1997 | 20 |
+| 1998 | 20 |
+| 1999 | 25 |
+| 2000 or thereafter | 30. |
+
+
+1997
+
+1998
+
+1999
+
+2000
+
+2001
+
+2002 or thereafter
+
+1997
+
+1998
+
+1999 or thereafter
+
+1997
+
+1998
+
+1999
+
+2000 or thereafter
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 407, as added [Pub. L. 104–193, title I, § 103(a)(1)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2129](https://www.govinfo.gov/link/statute/110/2129); amended [Pub. L. 105–33, title V](https://www.govinfo.gov/link/plaw/105/public/33), §§ 5003(a), 5504, 5514(c), Aug. 5, 1997, [111 Stat. 594](https://www.govinfo.gov/link/statute/111/594), 609, 620; [Pub. L. 109–171, title VII, § 7102(a)](https://www.govinfo.gov/link/plaw/109/public/171), (b)(1), (c)(1), Feb. 8, 2006, [120 Stat. 136](https://www.govinfo.gov/link/statute/120/136); [Pub. L. 111–5, div. B, title II, § 2101(b)](https://www.govinfo.gov/link/plaw/111/public/5), (d)(2), Feb. 17, 2009, [123 Stat. 448](https://www.govinfo.gov/link/statute/123/448), 449; [Pub. L. 112–96, title IV, § 4005(b)](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 198](https://www.govinfo.gov/link/statute/126/198); [Pub. L. 118–5, div. C, title I](https://www.govinfo.gov/link/plaw/118/public/5), §§ 301, 303, June 3, 2023, [137 Stat. 34](https://www.govinfo.gov/link/statute/137/34), 35.)*

@@ -3,9 +3,10 @@ title: "Section 7448 - Annuities to surviving spouses and dependent children of 
 usc_title: 26
 usc_section: "7448"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7448"
-generated_at: "2026-03-30T02:55:27.874Z"
+generated_at: "2026-11-23T21:26:06.965Z"
+status: "active"
 ---
 
 # § 7448. Annuities to surviving spouses and dependent children of judges and special trial judges
@@ -98,3 +99,27 @@ generated_at: "2026-03-30T02:55:27.874Z"
 - **(s)** Each time that an increase is made under section 8340(b) of title 5 , United States Code, in annuities payable under subchapter III of chapter 83 of that title, each annuity payable from the survivors annuity fund under this section shall be increased at the same time by the same percentage by which annuities are increased under such section 8340(b).
 - **(t)** Funds necessary to carry out the provisions of this section may be appropriated out of any money in the Treasury not otherwise appropriated.
 - **(u)** In the case of a judge or special trial judge who is assassinated, an annuity shall be paid under this section notwithstanding a survivor’s eligibility for or receipt of benefits under chapter 81 of title 5, United States Code, except that the annuity for which a surviving spouse is eligible under this section shall be reduced to the extent that the total benefits paid under this section and chapter 81 of that title for any year would exceed the current salary for that year of the office of the judge or special trial judge.
+
+Salary deductions.—
+
+Appropriations
+
+Computation of annuities
+
+Opportunity to revoke survivor annuity election.—
+
+In general
+
+Effect of revocation
+
+Period revocation permitted
+
+Opportunity to elect survivor annuity where prior revocation
+
+Subsection
+
+Subsection
+
+## Source Credit
+
+*(Added [Pub. L. 87–370, § 1](https://www.govinfo.gov/link/plaw/87/public/370), Oct. 4, 1961, [75 Stat. 796](https://www.govinfo.gov/link/statute/75/796); amended [Pub. L. 91–172, title IX](https://www.govinfo.gov/link/plaw/91/public/172), §§ 955, 960(c), (e), Dec. 30, 1969, [83 Stat. 732](https://www.govinfo.gov/link/statute/83/732), 734; [Pub. L. 92–41, § 4(b)](https://www.govinfo.gov/link/plaw/92/public/41), July 1, 1971, [85 Stat. 99](https://www.govinfo.gov/link/statute/85/99); [Pub. L. 94–455, title XIX, § 1906(a)(46)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1830](https://www.govinfo.gov/link/statute/90/1830); [Pub. L. 97–362, title I, § 105(a)](https://www.govinfo.gov/link/plaw/97/public/362), (b), Oct. 25, 1982, [96 Stat. 1729](https://www.govinfo.gov/link/statute/96/1729); [Pub. L. 98–216, § 3(c)(1)](https://www.govinfo.gov/link/plaw/98/public/216), Feb. 14, 1984, [98 Stat. 6](https://www.govinfo.gov/link/statute/98/6); [Pub. L. 98–369, div. A, title IV, § 462(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 824](https://www.govinfo.gov/link/statute/98/824); [Pub. L. 99–514, title XV](https://www.govinfo.gov/link/plaw/99/public/514), §§ 1557(c), 1559(a)–(c), Oct. 22, 1986, [100 Stat. 2757–2760](https://www.govinfo.gov/link/statute/100/2757); [Pub. L. 109–280, title VIII](https://www.govinfo.gov/link/plaw/109/public/280), §§ 851(a), 854(a)–(c)(1), (3)–(7), Aug. 17, 2006, [120 Stat. 1016–1018](https://www.govinfo.gov/link/statute/120/1016); [Pub. L. 113–295, div. A, title II, § 221(a)(116)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4054](https://www.govinfo.gov/link/statute/128/4054); [Pub. L. 115–141, div. U, title IV, § 401(a)(327)](https://www.govinfo.gov/link/plaw/115/public/141), (328), (b)(51)–(53), Mar. 23, 2018, [132 Stat. 1200](https://www.govinfo.gov/link/statute/132/1200), 1205; [Pub. L. 117–328, div. T, title VII](https://www.govinfo.gov/link/plaw/117/public/328), §§ 701(b), (c)(2), 702(b)(2), Dec. 29, 2022, [136 Stat. 5398](https://www.govinfo.gov/link/statute/136/5398), 5401, 5404.)*

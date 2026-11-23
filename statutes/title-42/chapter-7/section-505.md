@@ -3,9 +3,10 @@ title: "Section 505 - Demonstration projects"
 usc_title: 42
 usc_section: "505"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 505"
-generated_at: "2026-03-30T02:56:10.869Z"
+generated_at: "2026-11-23T21:26:31.064Z"
+status: "active"
 ---
 
 # § 505. Demonstration projects
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:10.869Z"
   - **(2)** provide public notice of the decision within 10 days after providing notification to the State in accordance with paragraph (1).
 - **(g)** The Secretary of Labor may terminate a demonstration project under this section if the Secretary determines that the State has violated the substantive terms or conditions of the project.
 - **(h)** Funding certified under section 502(a) of this title may be used for an approved demonstration project.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title III, § 305, as added [Pub. L. 112–96, title II, § 2102](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 159](https://www.govinfo.gov/link/statute/126/159).)*

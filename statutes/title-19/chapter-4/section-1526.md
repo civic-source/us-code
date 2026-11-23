@@ -3,9 +3,10 @@ title: "Section 1526 - Merchandise bearing American trade-mark"
 usc_title: 19
 usc_section: "1526"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1526"
-generated_at: "2026-03-30T02:54:24.641Z"
+generated_at: "2026-11-23T21:25:42.724Z"
+status: "active"
 ---
 
 # § 1526. Merchandise bearing American trade-mark
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:24.641Z"
   - **(2)** For the first such seizure, the fine shall be not more than the value that the merchandise would have had if it were genuine, according to the manufacturer’s suggested retail price, determined under regulations promulgated by the Secretary.
   - **(3)** For the second seizure and thereafter, the fine shall be not more than twice the value that the merchandise would have had if it were genuine, as determined under regulations promulgated by the Secretary.
   - **(4)** The imposition of a fine under this subsection shall be within the discretion of the Customs Service, and shall be in addition to any other civil or criminal penalty or other remedy authorized by law.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 526, [46 Stat. 741](https://www.govinfo.gov/link/statute/46/741); [Pub. L. 93–596, § 3](https://www.govinfo.gov/link/plaw/93/public/596), Jan. 2, 1975, [88 Stat. 1949](https://www.govinfo.gov/link/statute/88/1949); [Pub. L. 95–410, title II, § 211(a)](https://www.govinfo.gov/link/plaw/95/public/410), (c), Oct. 3, 1978, [92 Stat. 903](https://www.govinfo.gov/link/statute/92/903); [Pub. L. 103–182, title VI, § 663](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2214](https://www.govinfo.gov/link/statute/107/2214); [Pub. L. 104–153](https://www.govinfo.gov/link/plaw/104/public/153), §§ 9, 10, July 2, 1996, [110 Stat. 1388](https://www.govinfo.gov/link/statute/110/1388).)*

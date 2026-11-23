@@ -3,9 +3,10 @@ title: "Section 1816 - Construction contracts"
 usc_title: 2
 usc_section: "1816"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1816"
-generated_at: "2026-03-30T02:53:04.817Z"
+generated_at: "2026-11-23T21:25:21.244Z"
+status: "active"
 ---
 
 # § 1816. Construction contracts
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:04.817Z"
     - **(C)** the sum of $200 plus $50 for each $100,000 increment by which the value of the contract exceeds $500,000, in the case of a contract with a value greater than $500,000.
   - **(2)** Notwithstanding paragraph (1), the daily liquidated damage payment rate may be adjusted by the contracting officer involved to a rate greater or lesser than the rate described in such paragraph if the contracting officer makes a written determination that the rate described does not accurately reflect the anticipated damages which will be suffered by the United States as a result of the delay in the completion of the contract.
 - **(d)** This section shall apply with respect to contracts entered into during fiscal year 2002 or any succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 107–68, title I, § 130](https://www.govinfo.gov/link/plaw/107/public/68), Nov. 12, 2001, [115 Stat. 580](https://www.govinfo.gov/link/statute/115/580).)*

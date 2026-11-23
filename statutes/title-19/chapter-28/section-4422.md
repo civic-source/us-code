@@ -3,9 +3,10 @@ title: "Section 4422 - Advisory Committee on International Exchange Rate Policy"
 usc_title: 19
 usc_section: "4422"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4422"
-generated_at: "2026-03-30T02:54:24.708Z"
+generated_at: "2026-11-23T21:25:42.884Z"
+status: "active"
 ---
 
 # § 4422. Advisory Committee on International Exchange Rate Policy
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:24.708Z"
       - **(i)** lead to significant financial speculation in currencies, securities, or commodities; or
       - **(ii)** significantly endanger the stability of any financial institution.
 - **(h)** There are authorized to be appropriated to the Secretary of the Treasury for each fiscal year in which the Committee is in effect $1,000,000 to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 114–125, title VII, § 702](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 198](https://www.govinfo.gov/link/statute/130/198); [Pub. L. 117–286, § 4(a)(144)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4321](https://www.govinfo.gov/link/statute/136/4321).)*

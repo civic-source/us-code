@@ -3,12 +3,17 @@ title: "Section 1453a - Administrative priority for applications relating to act
 usc_title: 42
 usc_section: "1453a"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1453a"
-generated_at: "2026-03-30T02:56:11.093Z"
+generated_at: "2026-11-23T21:26:32.046Z"
+status: "active"
 ---
 
 # § 1453a. Administrative priority for applications relating to activities in areas affected by base closings
 
 The Secretary of Housing and Urban Development, in processing applications for assistance under section 103 of the Housing Act of 1949 [ 42 U.S.C. 1453 ], section 111 of the Demonstration Cities and Metropolitan Development Act of 1966 [ 42 U.S.C. 3311 ], section 708(a)(1) and (2) of the Housing and Urban Development Act of 1965 [ 42 U.S.C. 3108(a)(1) , (2)] (for grants authorized under sections 702 and 703 of such Act) [ 42 U.S.C. 3102 , 3103], section 312 of the Housing Act of 1964 [ 42 U.S.C. 1452b ], section 701(b) of the Housing Act of 1954, 1 1 See References in Text note below. and section 708 of the Housing Act of 1961 [ 42 U.S.C. 1500d ], shall give a priority to any State or unit of local government or agency thereof which is severely and adversely affected by a reduction in the level of expenditure or employment at any Department of Defense installation located in or near such State or unit of local government.
 
+
+## Source Credit
+
+*([Pub. L. 93–117, § 14](https://www.govinfo.gov/link/plaw/93/public/117), Oct. 2, 1973, [87 Stat. 423](https://www.govinfo.gov/link/statute/87/423).)*

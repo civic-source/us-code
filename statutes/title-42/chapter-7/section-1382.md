@@ -3,9 +3,10 @@ title: "Section 1382 - Eligibility for benefits"
 usc_title: 42
 usc_section: "1382"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1382"
-generated_at: "2026-03-30T02:56:10.928Z"
+generated_at: "2026-11-23T21:26:31.328Z"
+status: "active"
 ---
 
 # § 1382. Eligibility for benefits
@@ -114,3 +115,31 @@ generated_at: "2026-03-30T02:56:10.928Z"
   - **(3)** has, since December 31, 1973 , continuously resided in the State under the plan of which he or they received such aid or assistance for December 1973, and
   - **(4)** has, since December 31, 1973 , continuously been (except for periods not in excess of six consecutive months) an eligible individual or an eligible spouse with respect to whom supplemental security income benefits are payable,
 - **(i)** For application and review requirements affecting the eligibility of certain individuals, see section 1383(j) of this title .
+
+In general
+
+Benefits under title xvi
+
+Sunset of 36-month rule
+
+Effective date.—
+
+In general
+
+Referral and monitoring agencies
+
+Termination after 36 months
+
+“In any case in which an individual is eligible for supplemental security income benefits under title XVI of the Social Security Act [ 42 U.S.C. 1381 et seq.] by reason of disability, the determination of disability was made by the Secretary of Health and Human Services during or before the 180-day period following the date of the enactment of this Act [ Aug. 15, 1994 ], and alcoholism or drug addiction is a contributing factor material to the Secretary’s determination that the individual is disabled, for purposes of section 1611(e)(3)(A)(v) of the Social Security Act [ 42 U.S.C. 1382(e)(3)(A)(v) ] (added by the amendment made by subparagraph (A) of this paragraph)—
+
+Temporary Annual Minimum Number of Reviews
+
+Report to the Congress
+
+“(aa) the applicable rate in the preceding fiscal year, increased by the percentage, if any, by which the Consumer Price Index for the month of June of the calendar year of the increase exceeds the Consumer Price Index for the month of June of the calendar year preceding the calendar year of the increase, and rounded to the nearest whole cent; or
+
+“(bb) such different rate as the Commissioner determines is appropriate for the State.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVI, § 1611, as added [Pub. L. 92–603, title III, § 301](https://www.govinfo.gov/link/plaw/92/public/603), Oct. 30, 1972, [86 Stat. 1466](https://www.govinfo.gov/link/statute/86/1466); amended [Pub. L. 93–66, title II, § 210(a)](https://www.govinfo.gov/link/plaw/93/public/66), (b), July 9, 1973, [87 Stat. 154](https://www.govinfo.gov/link/statute/87/154); [Pub. L. 93–233](https://www.govinfo.gov/link/plaw/93/public/233), §§ 4(b)(1), (2), 18(d), (e), Dec. 31, 1973, [87 Stat. 953](https://www.govinfo.gov/link/statute/87/953), 968; [Pub. L. 93–368, § 6(a)](https://www.govinfo.gov/link/plaw/93/public/368), Aug. 7, 1974, [88 Stat. 421](https://www.govinfo.gov/link/statute/88/421); [Pub. L. 94–566, title V](https://www.govinfo.gov/link/plaw/94/public/566), §§ 502, 505(a), Oct. 20, 1976, [90 Stat. 2685](https://www.govinfo.gov/link/statute/90/2685), 2686; [Pub. L. 96–265, title III, § 303(c)(2)](https://www.govinfo.gov/link/plaw/96/public/265), June 9, 1980, [94 Stat. 453](https://www.govinfo.gov/link/statute/94/453); [Pub. L. 97–35, title XXIII, § 2341(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 865](https://www.govinfo.gov/link/statute/95/865); [Pub. L. 97–248, title I](https://www.govinfo.gov/link/plaw/97/public/248), §§ 181(a), 183(a), Sept. 3, 1982, [96 Stat. 404](https://www.govinfo.gov/link/statute/96/404), 405; [Pub. L. 98–21, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/98/public/21), Apr. 20, 1983, [97 Stat. 140](https://www.govinfo.gov/link/statute/97/140); [Pub. L. 98–369, div. B, title VI](https://www.govinfo.gov/link/plaw/98/public/369), §§ 2611(a)–(c), 2663(g)(1), (2), July 18, 1984, [98 Stat. 1130](https://www.govinfo.gov/link/statute/98/1130), 1168; [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 99–643](https://www.govinfo.gov/link/plaw/99/public/643), §§ 3(a), 4(c)(3), (d)(1), 9(a), Nov. 10, 1986, [100 Stat. 3574](https://www.govinfo.gov/link/statute/100/3574), 3577, 3579; [Pub. L. 100–203, title IX](https://www.govinfo.gov/link/plaw/100/public/203), §§ 9106(a), 9107, 9113(a), 9115(a), 9119(a), Dec. 22, 1987, [101 Stat. 1330–301](https://www.govinfo.gov/link/statute/101/1330), 1330–302, 1330–304, 1330–308; [Pub. L. 100–360, title III, § 303(c)(2)](https://www.govinfo.gov/link/plaw/100/public/360), July 1, 1988, [102 Stat. 762](https://www.govinfo.gov/link/statute/102/762); [Pub. L. 101–239, title VIII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 8009(a), 8010(b), Dec. 19, 1989, [103 Stat. 2463](https://www.govinfo.gov/link/statute/103/2463), 2464; [Pub. L. 103–66, title XIII, § 13735(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 662](https://www.govinfo.gov/link/statute/107/662); [Pub. L. 103–296, title I, § 107(a)(4)](https://www.govinfo.gov/link/plaw/103/public/296), title II, §§ 201(b)(3)(A), (B)(i), 204(a), Aug. 15, 1994, [108 Stat. 1478](https://www.govinfo.gov/link/statute/108/1478), 1502, 1504, 1508; [Pub. L. 104–121, title I, § 105(b)(4)(A)](https://www.govinfo.gov/link/plaw/104/public/121), Mar. 29, 1996, [110 Stat. 854](https://www.govinfo.gov/link/statute/110/854); [Pub. L. 104–193, title I, § 108(j)](https://www.govinfo.gov/link/plaw/104/public/193), title II, §§ 201(a), 202(a), (b), 203(a)(1), 204(a), 214(a), Aug. 22, 1996, [110 Stat. 2169](https://www.govinfo.gov/link/statute/110/2169), 2185–2187, 2195; [Pub. L. 105–33, title V](https://www.govinfo.gov/link/plaw/105/public/33), §§ 5521, 5522(c), Aug. 5, 1997, [111 Stat. 621](https://www.govinfo.gov/link/statute/111/621), 623; [Pub. L. 106–169, title II](https://www.govinfo.gov/link/plaw/106/public/169), §§ 204, 207(c), 212, Dec. 14, 1999, [113 Stat. 1833](https://www.govinfo.gov/link/statute/113/1833), 1838, 1843; [Pub. L. 106–170, title IV, § 402(a)(3)](https://www.govinfo.gov/link/plaw/106/public/170), (c)(1)–(3), Dec. 17, 1999, [113 Stat. 1908](https://www.govinfo.gov/link/statute/113/1908), 1909; [Pub. L. 108–203, title II, § 203(b)](https://www.govinfo.gov/link/plaw/108/public/203), title IV, §§ 433(a), (b), 436(a), Mar. 2, 2004, [118 Stat. 510](https://www.govinfo.gov/link/statute/118/510), 539–541; [Pub. L. 113–67, div. A, title II, § 204(a)(2)](https://www.govinfo.gov/link/plaw/113/public/67), (b)(2), Dec. 26, 2013, [127 Stat. 1179](https://www.govinfo.gov/link/statute/127/1179), 1180; [Pub. L. 115–123, div. E, title XII, § 53118(a)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 307](https://www.govinfo.gov/link/statute/132/307).)*

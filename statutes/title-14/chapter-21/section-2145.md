@@ -3,9 +3,10 @@ title: "Section 2145 - Regular lieutenant commanders and commanders; retirement 
 usc_title: 14
 usc_section: "2145"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 2145"
-generated_at: "2026-03-30T02:53:51.498Z"
+generated_at: "2026-11-23T21:25:35.419Z"
+status: "active"
 ---
 
 # § 2145. Regular lieutenant commanders and commanders; retirement for failure of selection for promotion
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:51.498Z"
 - **(c)**
   - **(1)** An officer who holds the grade of lieutenant commander of the Regular Coast Guard may not be continued on active duty under subsection (b) for a period that extends beyond 24 years of active commissioned service unless promoted to the grade of commander of the Regular Coast Guard. An officer who holds the grade of commander of the Regular Coast Guard may not be continued on active duty under subsection (b) for a period that extends beyond 26 years of active commissioned service unless promoted to the grade of captain of the Regular Coast Guard.
   - **(2)** Unless retired or discharged under another provision of law, each officer who is continued on active duty under subsection (b) but is not subsequently promoted or continued on active duty, and is not on a list of officers recommended for continuation or for promotion to the next higher grade, shall, if eligible for retirement under any provision of law, be retired under that law on the first day of the first month following the month in which the period of continued service is completed.
+
+## Source Credit
+
+*(Added [Pub. L. 88–130, § 1(10)(C)](https://www.govinfo.gov/link/plaw/88/public/130), Sept. 24, 1963, [77 Stat. 185](https://www.govinfo.gov/link/statute/77/185), § 285; amended [Pub. L. 93–283, § 1(7)](https://www.govinfo.gov/link/plaw/93/public/283), May 14, 1974, [88 Stat. 140](https://www.govinfo.gov/link/statute/88/140); [Pub. L. 94–546, § 1(24)](https://www.govinfo.gov/link/plaw/94/public/546), Oct. 18, 1976, [90 Stat. 2521](https://www.govinfo.gov/link/statute/90/2521); [Pub. L. 107–295, title IV, § 412](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2118](https://www.govinfo.gov/link/statute/116/2118); renumbered § 2145 and amended [Pub. L. 115–282, title I](https://www.govinfo.gov/link/plaw/115/public/282), §§ 112(b), 123(b)(2), Dec. 4, 2018, [132 Stat. 4216](https://www.govinfo.gov/link/statute/132/4216), 4240.)*

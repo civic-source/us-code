@@ -3,9 +3,10 @@ title: "Section 5201 - Findings and purposes"
 usc_title: 15
 usc_section: "5201"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 5201"
-generated_at: "2026-03-30T02:54:08.205Z"
+generated_at: "2026-11-23T21:25:40.009Z"
+status: "active"
 ---
 
 # § 5201. Findings and purposes
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:08.205Z"
 - **(b)** The purposes of this chapter are—
   - **(1)** to establish a 5-year national action plan to research and develop new high-temperature superconducting materials with appropriate goals and priorities; 1 1 So in original. Probably should be followed by “and”.
   - **(2)** to designate the appropriate roles, mechanisms, and responsibilities of various Federal departments and agencies in implementing such a national research and development action plan.
+
+## Source Credit
+
+*([Pub. L. 100–697, § 2](https://www.govinfo.gov/link/plaw/100/public/697), Nov. 19, 1988, [102 Stat. 4613](https://www.govinfo.gov/link/statute/102/4613).)*

@@ -3,9 +3,10 @@ title: "Section 3553 - Review of protests; effect on contracts pending decision"
 usc_title: 31
 usc_section: "3553"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 3553"
-generated_at: "2026-03-30T02:55:34.058Z"
+generated_at: "2026-11-23T21:26:10.582Z"
+status: "active"
 ---
 
 # § 3553. Review of protests; effect on contracts pending decision
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:55:34.058Z"
     - **(B)** Information referred to in subparagraph (A) is procurement sensitive information, trade secrets, or other proprietary or confidential research, development, or commercial information.
     - **(C)** A protective order under this paragraph shall not be considered to authorize the withholding of any document or information from Congress or an executive agency.
 - **(g)** If an interested party files a protest in connection with a public-private competition described in section 3551(2)(B) of this title , a person representing a majority of the employees of the Federal agency who are engaged in the performance of the activity or function subject to the public-private competition may intervene in protest.
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. B, title VII, § 2741(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1200](https://www.govinfo.gov/link/statute/98/1200); amended [Pub. L. 103–355, title I](https://www.govinfo.gov/link/plaw/103/public/355), §§ 1402, 1403(c), Oct. 13, 1994, [108 Stat. 3287](https://www.govinfo.gov/link/statute/108/3287), 3290; [Pub. L. 104–106, div. D, title XLIII, § 4321(d)(2)](https://www.govinfo.gov/link/plaw/104/public/106), div. E, title LV, § 5501(1), Feb. 10, 1996, [110 Stat. 674](https://www.govinfo.gov/link/statute/110/674), 698; [Pub. L. 108–375, div. A, title III, § 326(c)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1848](https://www.govinfo.gov/link/statute/118/1848); [Pub. L. 115–91, div. A, title VIII, § 818(c)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1464](https://www.govinfo.gov/link/statute/131/1464); [Pub. L. 117–81, div. A, title XVII, § 1702](https://www.govinfo.gov/link/plaw/117/public/81) (l)(5), Dec. 27, 2021, [135 Stat. 2160](https://www.govinfo.gov/link/statute/135/2160).)*

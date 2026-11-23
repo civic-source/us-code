@@ -3,9 +3,10 @@ title: "Section 2314b - Advanced modeling technologies"
 usc_title: 33
 usc_section: "2314b"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2314b"
-generated_at: "2026-03-30T02:55:41.122Z"
+generated_at: "2026-11-23T21:26:11.442Z"
+status: "active"
 ---
 
 # § 2314b. Advanced modeling technologies
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:41.122Z"
   - **(1)** compile information related to advanced modeling technologies, including industry best practices with respect to the use of the technologies;
   - **(2)** disseminate to non-Federal interests the information described in paragraph (1); and
   - **(3)** promote the use of advanced modeling technologies.
+
+## Source Credit
+
+*([Pub. L. 113–121, title I, § 1034](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1234](https://www.govinfo.gov/link/statute/128/1234).)*

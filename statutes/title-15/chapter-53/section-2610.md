@@ -3,9 +3,10 @@ title: "Section 2610 - Inspections and subpoenas"
 usc_title: 15
 usc_section: "2610"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2610"
-generated_at: "2026-03-30T02:54:08.176Z"
+generated_at: "2026-11-23T21:25:39.936Z"
+status: "active"
 ---
 
 # § 2610. Inspections and subpoenas
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:08.176Z"
     - **(D)** personnel information, or
     - **(E)** research information (other than information required by this chapter or under a rule promulgated, order issued, or consent agreement entered into thereunder),
 - **(c)** In carrying out this chapter, the Administrator may by subpoena require the attendance and testimony of witnesses and the production of reports, papers, documents, answers to questions, and other information that the Administrator deems necessary. Witnesses shall be paid the same fees and mileage that are paid witnesses in the courts of the United States. In the event of contumacy, failure, or refusal of any person to obey any such subpoena, any district court of the United States in which venue is proper shall have jurisdiction to order any such person to comply with such subpoena. Any failure to obey such an order of the court is punishable by the court as a contempt thereof.
+
+## Source Credit
+
+*([Pub. L. 94–469, title I, § 11](https://www.govinfo.gov/link/plaw/94/public/469), Oct. 11, 1976, [90 Stat. 2032](https://www.govinfo.gov/link/statute/90/2032); renumbered title I, [Pub. L. 99–519, § 3(c)(1)](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2989](https://www.govinfo.gov/link/statute/100/2989); amended [Pub. L. 102–550, title X, § 1021(b)(2)](https://www.govinfo.gov/link/plaw/102/public/550), (3), Oct. 28, 1992, [106 Stat. 3923](https://www.govinfo.gov/link/statute/106/3923); [Pub. L. 114–182, title I, § 19(j)](https://www.govinfo.gov/link/plaw/114/public/182), June 22, 2016, [130 Stat. 507](https://www.govinfo.gov/link/statute/130/507).)*

@@ -3,9 +3,10 @@ title: "Section 9304 - Comprehensive Global Food Security Strategy"
 usc_title: 22
 usc_section: "9304"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9304"
-generated_at: "2026-03-30T02:55:05.465Z"
+generated_at: "2026-11-23T21:25:58.770Z"
+status: "active"
 ---
 
 # § 9304. Comprehensive Global Food Security Strategy
@@ -43,3 +44,9 @@ generated_at: "2026-03-30T02:55:05.465Z"
     - **(A)** the anticipated contributions of the department or agency, including technical, financial, and in-kind contributions, to implement the Global Food Security Strategy; and
     - **(B)** the efforts of the department or agency to ensure that the activities and programs carried out pursuant to the strategy are designed to achieve maximum impact and long-term sustainability.
 - **(d)** Not less frequently than quinquennially through fiscal year 2030, the President, in consultation with the head of each relevant Federal department and agency, shall submit to the appropriate congressional committees updates to the Global Food Security Strategy required under subsection (a) and the agency-specific plans described in subsection (c)(2).
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 114–195, § 5](https://www.govinfo.gov/link/plaw/114/public/195), July 20, 2016, [130 Stat. 678](https://www.govinfo.gov/link/statute/130/678); [Pub. L. 117–263, div. E, title LV, § 5588(d)](https://www.govinfo.gov/link/plaw/117/public/263), (e), Dec. 23, 2022, [136 Stat. 3377](https://www.govinfo.gov/link/statute/136/3377), 3378.)*

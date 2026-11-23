@@ -3,9 +3,10 @@ title: "Section 1864 - Disclosure of financial interests by officers and employe
 usc_title: 43
 usc_section: "1864"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1864"
-generated_at: "2026-03-30T02:55:57.494Z"
+generated_at: "2026-11-23T21:26:19.888Z"
+status: "active"
 ---
 
 # § 1864. Disclosure of financial interests by officers and employees of Department of the Interior
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:57.494Z"
   - **(2)** report to the Congress on June 1 of each calendar year with respect to such disclosures and the actions taken in regard thereto during the preceding calendar year.
 - **(c)** In the rules prescribed in subsection (b) of this section, the Secretary may identify specific positions within the Department of the Interior which are of a nonregulatory or nonpolicymaking nature and provide that officers or employees occupying such positions shall be exempt from the requirements of this section.
 - **(d)** Any officer or employee who is subject to, and knowingly violates, this section shall be fined not more than $2,500 or imprisoned not more than one year, or both.
+
+## Source Credit
+
+*([Pub. L. 95–372, title VI, § 605](https://www.govinfo.gov/link/plaw/95/public/372), Sept. 18, 1978, [92 Stat. 695](https://www.govinfo.gov/link/statute/92/695).)*

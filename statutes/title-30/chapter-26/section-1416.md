@@ -3,9 +3,10 @@ title: "Section 1416 - Denial of certification of applications and of issuance, 
 usc_title: 30
 usc_section: "1416"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1416"
-generated_at: "2026-03-30T02:55:29.405Z"
+generated_at: "2026-11-23T21:26:00.436Z"
+status: "active"
 ---
 
 # § 1416. Denial of certification of applications and of issuance, transfer, suspension, and revocation of licenses and permits; suspension and modification of activities
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:29.405Z"
 - **(b)** Any applicant, licensee, or permittee, as the case may be, who makes a timely request under subsection (a) for review of a denial of issuance or transfer, or a suspension or revocation, of a license for exploration or permit for commercial recovery, or a suspension or modification of particular activities under such a license or permit, is entitled to an adjudication on the record after an opportunity for an agency hearing with respect to such denial or suspension, revocation, or modification.
 - **(c)** The issuance of any notice of proposed suspension or revocation of a license for exploration or permit for commercial recovery or proposed suspension or modification of particular activities under such a license or permit shall not affect the continuation of exploration or commercial recovery activities by the licensee or permittee. The provisions of paragraphs (3) and (4) of subsection (a) and the first sentence of this subsection shall not apply when the President determines by Executive order that an immediate suspension of a license for exploration or permit for commercial recovery, or immediate suspension or modification of particular activities under such a license or permit, is necessary for the reasons set forth in subsection (a)(2)(B), or the Administrator determines that an immediate suspension of such a license or permit, or immediate suspension or modification of particular activities under such a license or permit, is necessary to prevent a significant adverse effect on the environment or to preserve the safety of life and property at sea, and the Administrator issues an emergency order requiring such immediate suspension.
 - **(d)** Any determination of the Administrator, after any appropriate administrative review under subsection (b), to certify or deny certification of an application for the issuance or transfer of, or to issue, deny issuance of, transfer, deny the transfer of, modify, renew, suspend, or revoke any license for exploration or permit for commercial recovery, or suspend or modify particular activities under such a license or permit, or any immediate suspension of such a license or permit, or immediate suspension or modification of particular activities under such a license or permit, pursuant to subsection (c), is subject to judicial review as provided in chapter 7 of title 5.
+
+## Source Credit
+
+*([Pub. L. 96–283, title I, § 106](https://www.govinfo.gov/link/plaw/96/public/283), June 28, 1980, [94 Stat. 565](https://www.govinfo.gov/link/statute/94/565).)*

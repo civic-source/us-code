@@ -3,9 +3,10 @@ title: "Section 6625 - Coordination of international science and technology part
 usc_title: 42
 usc_section: "6625"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6625"
-generated_at: "2026-03-30T02:56:11.264Z"
+generated_at: "2026-11-23T21:26:32.969Z"
+status: "active"
 ---
 
 # § 6625. Coordination of international science and technology partnerships
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.264Z"
 - **(f)** The Director shall make each report available to the public on the Office of Science and Technology Policy website.
 - **(g)** The body established under subsection (b) shall terminate on the date that is 10 years after January 6, 2017 .
 - **(h)** The Director of the Office of Science and Technology Policy shall submit, not later than 60 days after January 6, 2017 , and annually thereafter, to the Committee on Commerce, Science, and Transportation and the Committee on Foreign Relations of the Senate and the Committee on Science, Space, and Technology and the Committee on Foreign Affairs of the House of Representatives a report that lists and describes the details of all foreign travel by Office of Science and Technology Policy staff and detailees.
+
+## Source Credit
+
+*([Pub. L. 114–329, title II, § 208](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 3002](https://www.govinfo.gov/link/statute/130/3002).)*

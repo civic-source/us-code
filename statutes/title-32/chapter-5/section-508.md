@@ -3,9 +3,10 @@ title: "Section 508 - Assistance for certain youth and charitable organizations"
 usc_title: 32
 usc_section: "508"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "32 U.S.C. § 508"
-generated_at: "2026-03-30T02:55:31.866Z"
+generated_at: "2026-11-23T21:26:08.295Z"
+status: "active"
 ---
 
 # § 508. Assistance for certain youth and charitable organizations
@@ -38,3 +39,15 @@ generated_at: "2026-03-30T02:55:31.866Z"
   - **(12)** The 4–H Club.
   - **(13)** The Police Athletic League.
   - **(14)** Any other youth or charitable organization designated by the Secretary of Defense.
+
+Authority To Provide Services
+
+Authorized Services
+
+Other Authorized Assistance
+
+Eligible Organizations
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title III, § 385(a)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2741](https://www.govinfo.gov/link/statute/108/2741).)*

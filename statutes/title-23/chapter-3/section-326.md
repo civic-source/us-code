@@ -3,9 +3,10 @@ title: "Section 326 - State assumption of responsibility for categorical exclusi
 usc_title: 23
 usc_section: "326"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 326"
-generated_at: "2026-03-30T02:55:12.567Z"
+generated_at: "2026-11-23T21:25:53.922Z"
+status: "active"
 ---
 
 # § 326. State assumption of responsibility for categorical exclusions
@@ -43,3 +44,45 @@ generated_at: "2026-03-30T02:55:12.567Z"
   - **(2)** The State may terminate the participation of the State in the program at any time by providing to the Secretary a notice not later than the date that is 90 days before the date of termination, and subject to such terms and conditions as the Secretary may provide.
 - **(e)** A State agency that is assigned a responsibility under a memorandum of understanding shall be deemed to be a Federal agency for the purposes of the Federal law under which the responsibility is exercised.
 - **(f)** A State assuming the responsibilities of the Secretary under this section for a specific project may use funds apportioned to the State under section 104(b)(2) for attorney’s fees directly attributable to eligible activities associated with the project.
+
+Categorical Exclusion Determinations.—
+
+In general
+
+Scope of authority
+
+Criteria
+
+Preservation of flexibility
+
+Other Applicable Federal Laws.—
+
+In general
+
+Sole responsibility
+
+Memoranda of Understanding.—
+
+In general
+
+Assistance to states
+
+Term
+
+Acceptance of jurisdiction
+
+Monitoring
+
+Termination
+
+Termination by secretary
+
+Termination by the state
+
+State Agency Deemed to Be Federal Agency
+
+Legal Fees
+
+## Source Credit
+
+*(Added [Pub. L. 109–59, title VI, § 6004(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1867](https://www.govinfo.gov/link/statute/119/1867); amended [Pub. L. 112–141, div. A, title I, § 1312](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 545](https://www.govinfo.gov/link/statute/126/545); [Pub. L. 114–94, div. A, title I, § 1307](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1390](https://www.govinfo.gov/link/statute/129/1390); [Pub. L. 117–58, div. A, title I, § 11314](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 540](https://www.govinfo.gov/link/statute/135/540).)*

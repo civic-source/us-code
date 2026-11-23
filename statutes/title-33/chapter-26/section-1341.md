@@ -3,9 +3,10 @@ title: "Section 1341 - Certification"
 usc_title: 33
 usc_section: "1341"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1341"
-generated_at: "2026-03-30T02:55:41.100Z"
+generated_at: "2026-11-23T21:26:11.395Z"
+status: "active"
 ---
 
 # § 1341. Certification
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:41.100Z"
 - **(b)** Nothing in this section shall be construed to limit the authority of any department or agency pursuant to any other provision of law to require compliance with any applicable water quality requirements. The Administrator shall, upon the request of any Federal department or agency, or State or interstate agency, or applicant, provide, for the purpose of this section, any relevant information on applicable effluent limitations, or other limitations, standards, regulations, or requirements, or water quality criteria, and shall, when requested by any such department or agency or State or interstate agency, or applicant, comment on any methods to comply with such limitations, standards, regulations, requirements, or criteria.
 - **(c)** In order to implement the provisions of this section, the Secretary of the Army, acting through the Chief of Engineers, is authorized, if he deems it to be in the public interest, to permit the use of spoil disposal areas under his jurisdiction by Federal licensees or permittees, and to make an appropriate charge for such use. Moneys received from such licensees or permittees shall be deposited in the Treasury as miscellaneous receipts.
 - **(d)** Any certification provided under this section shall set forth any effluent limitations and other limitations, and monitoring requirements necessary to assure that any applicant for a Federal license or permit will comply with any applicable effluent limitations and other limitations, under section 1311 or 1312 of this title, standard of performance under section 1316 of this title , or prohibition, effluent standard, or pretreatment standard under section 1317 of this title , and with any other appropriate requirement of State law set forth in such certification, and shall become a condition on any Federal license or permit subject to the provisions of this section.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title IV, § 401, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 877](https://www.govinfo.gov/link/statute/86/877); amended [Pub. L. 95–217](https://www.govinfo.gov/link/plaw/95/public/217), §§ 61(b), 64, Dec. 27, 1977, [91 Stat. 1598](https://www.govinfo.gov/link/statute/91/1598), 1599.)*

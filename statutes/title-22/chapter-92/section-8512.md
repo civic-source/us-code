@@ -3,9 +3,10 @@ title: "Section 8512 - Economic sanctions relating to Iran"
 usc_title: 22
 usc_section: "8512"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8512"
-generated_at: "2026-03-30T02:55:05.451Z"
+generated_at: "2026-11-23T21:25:58.740Z"
+status: "active"
 ---
 
 # § 8512. Economic sanctions relating to Iran
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:55:05.451Z"
     - **(B)** submits to the appropriate congressional committees—
       - **(i)** a certification in writing that the exception is in the national interest of the United States; and
       - **(ii)** a report describing the reasons for the exception.
+
+## Source Credit
+
+*([Pub. L. 111–195, title I, § 103](https://www.govinfo.gov/link/plaw/111/public/195), July 1, 2010, [124 Stat. 1328](https://www.govinfo.gov/link/statute/124/1328).)*

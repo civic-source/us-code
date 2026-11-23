@@ -3,9 +3,10 @@ title: "Section 1638a - Reset of hybrid adjustable rate mortgages"
 usc_title: 15
 usc_section: "1638a"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1638a"
-generated_at: "2026-03-30T02:54:08.141Z"
+generated_at: "2026-11-23T21:25:39.850Z"
+status: "active"
 ---
 
 # § 1638a. Reset of hybrid adjustable rate mortgages
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:08.141Z"
   - **(5)** The names, addresses, telephone numbers, and Internet addresses of counseling agencies or programs reasonably available to the consumer that have been certified or approved and made publicly available by the Secretary of Housing and Urban Development or a State housing finance authority (as defined in section 1441a–1 of title 12 ).
   - **(6)** The address, telephone number, and Internet address for the State housing finance authority (as so defined) for the State in which the consumer resides.
 - **(c)** The Board may require the notice in paragraph (b) or other notice consistent with this chapter for adjustable rate mortgage loans that are not hybrid adjustable rate mortgage loans.
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 128A](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 111–203, title XIV, § 1418(a)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2153](https://www.govinfo.gov/link/statute/124/2153).)*

@@ -3,9 +3,10 @@ title: "Section 1255 - Adjustment of status of nonimmigrant to that of person ad
 usc_title: 8
 usc_section: "1255"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1255"
-generated_at: "2026-03-30T02:53:10.491Z"
+generated_at: "2026-11-23T21:25:25.164Z"
+status: "active"
 ---
 
 # § 1255. Adjustment of status of nonimmigrant to that of person admitted for permanent residence
@@ -91,3 +92,229 @@ generated_at: "2026-03-30T02:53:10.491Z"
     - **(A)** The Secretary of Homeland Security shall consult with the Attorney General, as appropriate, in making a determination under paragraph (1) whether affirmative evidence demonstrates that the alien unreasonably refused to provide assistance to a Federal law enforcement official, Federal prosecutor, Federal judge, or other Federal authority investigating or prosecuting criminal activity described in section 1101(a)(15)(U)(iii) of this title .
     - **(B)** Nothing in paragraph (1)(B) may be construed to prevent the Secretary from consulting with the Attorney General in making a determination whether affirmative evidence demonstrates that the alien unreasonably refused to provide assistance to a State or local law enforcement official, State or local prosecutor, State or local judge, or other State or local authority investigating or prosecuting criminal activity described in section 1101(a)(15)(U)(iii) of this title .
 - **(n)** If the approval of a petition for classification under section 1153(b)(5) of this title would make a visa immediately available to the alien beneficiary, the alien beneficiary’s application for adjustment of status under this section shall be considered to be properly filed whether the application is submitted concurrently with, or subsequent to, the visa petition.
+
+Definitions
+
+In general
+
+Immigration laws
+
+Secretary
+
+Adjustment of Status.—
+
+In general
+
+Applicability of grounds of inadmissibility
+
+Exceptions
+
+Relationship of application to certain orders.—
+
+In general
+
+Separate motion not required
+
+Effect of decision by secretary.—
+
+Grant
+
+Denial
+
+Aliens Eligible for Adjustment of Status.—
+
+In general
+
+Determination of continuous physical presence
+
+Stay of Removal.—
+
+In general
+
+During certain proceedings.—
+
+In general
+
+Exception
+
+Work authorization.—
+
+In general
+
+Pending applications
+
+Record of Permanent Residence
+
+Availability of Administrative Review
+
+Limitation on Judicial Review.—
+
+In general
+
+Rule of construction
+
+No Offset in Number of Visas Available
+
+Application of Immigration and Nationality Act Provisions.—
+
+Savings provision
+
+Effect of eligibility for adjustment of status
+
+In General
+
+Numerical Limitation
+
+Grounds of Inadmissibility
+
+Visa Availability
+
+Aliens Deemed To Meet Definition of Child
+
+No Immigration Benefits for Birth Parents
+
+Adjustment of Status.—
+
+In general.—
+
+Inapplicability of certain provisions
+
+Relationship of application to certain orders.—
+
+Aliens Eligible for Adjustment of Status.—
+
+Stay of Removal.—
+
+In general.—
+
+During certain proceedings
+
+Work authorization
+
+Adjustment of Status for Spouses and Children.—
+
+In general
+
+Proof of continuous presence
+
+Availability of Administrative Review
+
+Limitation on Judicial Review
+
+No Offset in Number of Visas Available
+
+Application of Immigration and Nationality Act Provisions.—
+
+Adjustment of Status Has No Effect On Eligibility For Welfare and Public Benefits
+
+Period of Applicability.—
+
+Adjustment of Status.—
+
+In general
+
+Rules in applying certain provisions
+
+Relationship of application to certain orders
+
+Aliens Eligible for Adjustment of Status.—
+
+In general
+
+Proof of commencement of continuous presence
+
+Stay of Removal; Work Authorization.—
+
+In general
+
+During certain proceedings
+
+Work authorization
+
+Adjustment of Status for Spouses and Children.—
+
+In general
+
+Proof of continuous presence
+
+Procedure
+
+Availability of Administrative Review
+
+Limitation on Judicial Review
+
+No Offset in Number of Visas Available
+
+Application of Immigration and Nationality Act Provisions
+
+In General
+
+Aliens Eligible for Adjustment of Status
+
+Waiver of Certain Grounds for Inadmissibility
+
+Date of Approval
+
+No Offset in Number of Visas Available
+
+In General
+
+Aliens Covered
+
+Condition; Dissemination of Information.—
+
+Not applicable if safe return permitted
+
+Dissemination of information
+
+Offset in Per Country Numerical Level.—
+
+In general
+
+Allotment if section 202
+
+applies
+
+Applicable fiscal year.—
+
+In general
+
+Number counted each year
+
+Application Period Defined
+
+In General
+
+Transition
+
+Application of Immigration and Nationality Act Provisions
+
+Application Period
+
+Waiver of Certain Grounds for Inadmissibility
+
+Date of Approval
+
+No Offset in Number of Visas Available
+
+Adjudication of Applications
+
+In General
+
+Aliens Eligible for Adjustment of Status
+
+Waiver of Certain Grounds for Inadmissibility
+
+Date of Approval
+
+No Offset in Number of Visas Available
+
+In General
+
+Limitation
+
+“That, notwithstanding the provisions of section 245(c) of the Immigration and Nationality Act [subsec. (c) of this section], the status of any alien who is a native or citizen of Cuba and who has been inspected and admitted or paroled into the United States subsequent to January 1, 1959 and has been physically present in the United States for at least one year, may be adjusted by the Attorney General, in his discretion and under such regulations as he may prescribe, to that of an alien lawfully admitted for permanent residence if the alien makes an application for such adjustment, and the alien is eligible to receive an immigrant visa and is admissible to the United States for permanent residence. Upon approval of such an application for adjustment of status, the Attorney General shall create a record of the alien’s admission for permanent residence as of a date thirty months prior to the filing of such an application or the date of his last arrival into the United States, whichever date is later. The provisions of this Act shall be applicable to the spouse and child of any alien described in this subsection, regardless of their citizenship and place of birth, who are residing with such alien in the United States, except that such spouse or child who has been battered or subjected to extreme cruelty may adjust to permanent resident status under this Act without demonstrating that he or she is residing with the Cuban spouse or parent in the United States. In acting on applications under this section with respect to spouses or children who have been battered or subjected to extreme cruelty, the Attorney General shall apply the provisions of section 204(a)(1)(J) [probably means section 204(a)(1)(J) of the Immigration and Nationality Act, which is classified to section 1154(a)(1)(J) of this title ]. An alien who was the spouse of any Cuban alien described in this section and has resided with such spouse shall continue to be treated as such a spouse for 2 years after the date on which the Cuban alien dies (or, if later, 2 years after the date of enactment of Violence Against Women and Department of Justice Reauthorization Act of 2005) [ Jan. 5, 2006 ], or for 2 years after the date of termination of the marriage (or, if later, 2 years after the date of enactment of Violence Against Women and Department of Justice Reauthorization Act of 2005) if there is demonstrated a connection between the termination of the marriage and the battering or extreme cruelty by the Cuban alien.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 5, § 245, [66 Stat. 217](https://www.govinfo.gov/link/statute/66/217); [Pub. L. 85–700, § 1](https://www.govinfo.gov/link/plaw/85/public/700), Aug. 21, 1958, [72 Stat. 699](https://www.govinfo.gov/link/statute/72/699); [Pub. L. 86–648, § 10](https://www.govinfo.gov/link/plaw/86/public/648), July 14, 1960, [74 Stat. 505](https://www.govinfo.gov/link/statute/74/505); [Pub. L. 89–236, § 13](https://www.govinfo.gov/link/plaw/89/public/236), Oct. 3, 1965, [79 Stat. 918](https://www.govinfo.gov/link/statute/79/918); [Pub. L. 94–571, § 6](https://www.govinfo.gov/link/plaw/94/public/571), Oct. 20, 1976, [90 Stat. 2705](https://www.govinfo.gov/link/statute/90/2705); [Pub. L. 97–116, § 5(d)(2)](https://www.govinfo.gov/link/plaw/97/public/116), Dec. 29, 1981, [95 Stat. 1614](https://www.govinfo.gov/link/statute/95/1614); [Pub. L. 99–603, title I, § 117](https://www.govinfo.gov/link/plaw/99/public/603), title III, § 313(c), Nov. 6, 1986, [100 Stat. 3384](https://www.govinfo.gov/link/statute/100/3384), 3438; [Pub. L. 99–639](https://www.govinfo.gov/link/plaw/99/public/639), §§ 2(e), 3(b), 5(a), Nov. 10, 1986, [100 Stat. 3542](https://www.govinfo.gov/link/statute/100/3542), 3543; [Pub. L. 100–525](https://www.govinfo.gov/link/plaw/100/public/525), §§ 2(f)(1), (p)(3), 7(b), Oct. 24, 1988, [102 Stat. 2611](https://www.govinfo.gov/link/statute/102/2611), 2613, 2616; [Pub. L. 101–649, title I](https://www.govinfo.gov/link/plaw/101/public/649), §§ 121(b)(4), 162(e)(3), title VII, § 702(a), Nov. 29, 1990, [104 Stat. 5011](https://www.govinfo.gov/link/statute/104/5011), 5086; [Pub. L. 102–110, § 2(c)](https://www.govinfo.gov/link/plaw/102/public/110), Oct. 1, 1991, [105 Stat. 556](https://www.govinfo.gov/link/statute/105/556); [Pub. L. 102–232, title III](https://www.govinfo.gov/link/plaw/102/public/232), §§ 302(d)(2), (e)(7), 308(a), Dec. 12, 1991, [105 Stat. 1744](https://www.govinfo.gov/link/statute/105/1744), 1746, 1757; [Pub. L. 103–317, title V, § 506(b)](https://www.govinfo.gov/link/plaw/103/public/317), Aug. 26, 1994, [108 Stat. 1765](https://www.govinfo.gov/link/statute/108/1765); [Pub. L. 103–322, title XIII, § 130003(c)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2025](https://www.govinfo.gov/link/statute/108/2025); [Pub. L. 103–416, title II, § 219(k)](https://www.govinfo.gov/link/plaw/103/public/416), Oct. 25, 1994, [108 Stat. 4317](https://www.govinfo.gov/link/statute/108/4317); [Pub. L. 104–132, title IV, § 413(d)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1269](https://www.govinfo.gov/link/statute/110/1269); [Pub. L. 104–208, div. C, title III](https://www.govinfo.gov/link/plaw/104/public/208), §§ 308(f)(1)(O), (2)(C), (g)(10)(B), 375, 376(a), title VI, § 671(a)(4)(A), (5), Sept. 30, 1996, [110 Stat. 3009–621](https://www.govinfo.gov/link/statute/110/3009), 3009–625, 3009–648, 3009–721; [Pub. L. 105–119, title I](https://www.govinfo.gov/link/plaw/105/public/119), §§ 110(3), 111(a), (c), Nov. 26, 1997, [111 Stat. 2458](https://www.govinfo.gov/link/statute/111/2458); [Pub. L. 106–386, div. A, § 107(f)](https://www.govinfo.gov/link/plaw/106/public/386), div. B, title V, §§ 1506(a)(1), 1513(f), Oct. 28, 2000, [114 Stat. 1479](https://www.govinfo.gov/link/statute/114/1479), 1527, 1536; [Pub. L. 106–553, § 1(a)(2) [title XI, §§ 1102(c), (d)(2), 1103(c)(3)]](https://www.govinfo.gov/link/plaw/106/public/553), Dec. 21, 2000, [114 Stat. 2762](https://www.govinfo.gov/link/statute/114/2762), 2762A–143 to 2762A–145; [Pub. L. 106–554, § 1(a)(4) [div. B, title XV, § 1502]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–324; [Pub. L. 108–193](https://www.govinfo.gov/link/plaw/108/public/193), §§ 4(b)(3), 8(a)(4), Dec. 19, 2003, [117 Stat. 2879](https://www.govinfo.gov/link/statute/117/2879), 2886; [Pub. L. 109–162, title VIII, § 803](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3054](https://www.govinfo.gov/link/statute/119/3054); [Pub. L. 109–271, § 6(f)](https://www.govinfo.gov/link/plaw/109/public/271), Aug. 12, 2006, [120 Stat. 763](https://www.govinfo.gov/link/statute/120/763); [Pub. L. 110–457, title II](https://www.govinfo.gov/link/plaw/110/public/457), §§ 201(d), (e), 235(d)(3), Dec. 23, 2008, [122 Stat. 5053](https://www.govinfo.gov/link/statute/122/5053), 5054, 5080; [Pub. L. 117–103, div. BB, § 102(d)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 1075](https://www.govinfo.gov/link/statute/136/1075).)*

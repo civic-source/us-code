@@ -3,12 +3,17 @@ title: "Section 1448 - Effect of partial invalidity of chapter"
 usc_title: 12
 usc_section: "1448"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1448"
-generated_at: "2026-03-30T02:53:53.394Z"
+generated_at: "2026-11-23T21:25:36.831Z"
+status: "active"
 ---
 
 # § 1448. Effect of partial invalidity of chapter
 
 If any provision of this chapter, or the application thereof to any person or circumstances, is held invalid, the remainder of the chapter, and the application of such provision to other persons or circumstances, shall not be affected thereby.
 
+
+## Source Credit
+
+*(July 22, 1932, ch. 522, § 28, [47 Stat. 740](https://www.govinfo.gov/link/statute/47/740).)*

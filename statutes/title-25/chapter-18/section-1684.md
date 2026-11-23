@@ -3,9 +3,10 @@ title: "Section 1684 - Emergency plan for Indian safety and health"
 usc_title: 25
 usc_section: "1684"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1684"
-generated_at: "2026-03-30T02:54:52.828Z"
+generated_at: "2026-11-23T21:25:54.638Z"
+status: "active"
 ---
 
 # § 1684. Emergency plan for Indian safety and health
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:52.828Z"
     - **(A)** contract health services;
     - **(B)** construction, rehabilitation, and replacement of Indian health facilities; and
     - **(C)** domestic and community sanitation facilities serving members of Indian tribes (as defined in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450b )) 1 pursuant to section 2004a of title 42 .
+
+## Source Credit
+
+*([Pub. L. 110–293, title VI, § 601](https://www.govinfo.gov/link/plaw/110/public/293), July 30, 2008, [122 Stat. 2968](https://www.govinfo.gov/link/statute/122/2968); [Pub. L. 111–291, title VIII, § 831](https://www.govinfo.gov/link/plaw/111/public/291), Dec. 8, 2010, [124 Stat. 3163](https://www.govinfo.gov/link/statute/124/3163).)*

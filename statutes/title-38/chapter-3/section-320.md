@@ -3,9 +3,10 @@ title: "Section 320 - Department of Veterans Affairs-Department of Defense Joint
 usc_title: 38
 usc_section: "320"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 320"
-generated_at: "2026-03-30T02:55:53.471Z"
+generated_at: "2026-11-23T21:26:16.553Z"
+status: "active"
 ---
 
 # § 320. Department of Veterans Affairs-Department of Defense Joint Executive Committee
@@ -34,3 +35,21 @@ generated_at: "2026-03-30T02:55:53.471Z"
 - **(e)** The Transition Executive Committee described in subsection (b)(2) shall, in addition to such other activities as may assigned 1 1 So in original. Probably should be preceded by “be”. to the committee under subsection (d)(6)—
   - **(1)** review existing policies, procedures, and practices of the Departments (including the military departments) with respect to job training and post-service placement programs; and
   - **(2)** identify changes to such policies, procedures, and practices to improve job training, transition from life in the Armed Forces to civilian life, and post-service placement.
+
+Joint Executive Committee
+
+Administrative Matters
+
+Recommendations
+
+Functions
+
+Transition Executive Committee
+
+Program
+
+Source of DOD Funds
+
+## Source Credit
+
+*(Added [Pub. L. 108–136, div. A, title V, § 583(a)(1)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1490](https://www.govinfo.gov/link/statute/117/1490); amended [Pub. L. 114–92, div. A, title V, § 561](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 828](https://www.govinfo.gov/link/statute/129/828); [Pub. L. 118–31, div. A, title XVIII, § 1805](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 687](https://www.govinfo.gov/link/statute/137/687).)*

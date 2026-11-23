@@ -3,9 +3,10 @@ title: "Section 230f - Delta Region Preservation Commission"
 usc_title: 16
 usc_section: "230f"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 230f"
-generated_at: "2026-03-30T02:54:22.744Z"
+generated_at: "2026-11-23T21:25:51.396Z"
+status: "active"
 ---
 
 # § 230f. Delta Region Preservation Commission
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:22.744Z"
 - **(c)** The function of the Commission shall be to advise the Secretary in the selection of sites for inclusion in the park, in the development and implementation of a general management plan, and in the development and implementation of a comprehensive interpretive program of the natural, historic, and cultural resources of the region. The Commission shall inform interested members of the public, the State of Louisiana and its political subdivisions, and interested Federal agencies with respect to existing and proposed actions and programs having a material effect on the perpetuation of a high-quality natural and cultural environment in the delta region.
 - **(d)** The Commission shall act and advise by affirmative vote of a majority of its members: Provided , That any recommendation of the Commission that affects the use or development, or lack thereof, of property located solely within a single parish or municipality shall have the concurrence of a majority of the members appointed from recommendations submitted by such parish or municipality.
 - **(e)** The Directors of the Heritage Conservation and Recreation Service and the National Park Service shall serve as ex officio members of the Commission and provide such staff support and technical services as may be necessary to carry out the functions of the Commission. The Commission shall terminate twenty years from November 10, 1978 .
+
+## Source Credit
+
+*([Pub. L. 95–625, title IX, § 907](https://www.govinfo.gov/link/plaw/95/public/625), Nov. 10, 1978, [92 Stat. 3537](https://www.govinfo.gov/link/statute/92/3537); [Pub. L. 96–87, title IV, § 401(q)(3)](https://www.govinfo.gov/link/plaw/96/public/87), (4), Oct. 12, 1979, [93 Stat. 666](https://www.govinfo.gov/link/statute/93/666); [Pub. L. 100–250, § 1(c)](https://www.govinfo.gov/link/plaw/100/public/250), Feb. 16, 1988, [102 Stat. 16](https://www.govinfo.gov/link/statute/102/16); [Pub. L. 100–355, § 2](https://www.govinfo.gov/link/plaw/100/public/355), June 28, 1988, [102 Stat. 667](https://www.govinfo.gov/link/statute/102/667).)*

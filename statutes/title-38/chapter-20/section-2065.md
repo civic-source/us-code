@@ -3,9 +3,10 @@ title: "Section 2065 - Annual report on assistance to homeless veterans"
 usc_title: 38
 usc_section: "2065"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 2065"
-generated_at: "2026-03-30T02:55:53.494Z"
+generated_at: "2026-11-23T21:26:16.693Z"
+status: "active"
 ---
 
 # § 2065. Annual report on assistance to homeless veterans
@@ -42,3 +43,15 @@ generated_at: "2026-03-30T02:55:53.494Z"
   - **(2)** Information on the filing of claims for benefits by homeless veterans.
   - **(3)** Information on efforts undertaken to expedite the processing of claims for benefits of homeless veterans.
   - **(4)** Other information that the Secretary considers relevant in assessing the programs and activities.
+
+Annual Report
+
+General Contents of Report
+
+Health Care Contents of Report
+
+Benefits Content of Report
+
+## Source Credit
+
+*(Added [Pub. L. 107–95, § 5(a)(1)](https://www.govinfo.gov/link/plaw/107/public/95), Dec. 21, 2001, [115 Stat. 914](https://www.govinfo.gov/link/statute/115/914); amended [Pub. L. 108–170, title IV, § 405(b)](https://www.govinfo.gov/link/plaw/108/public/170), Dec. 6, 2003, [117 Stat. 2063](https://www.govinfo.gov/link/statute/117/2063); [Pub. L. 109–461, title VII, § 708](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3440](https://www.govinfo.gov/link/statute/120/3440); [Pub. L. 110–387, title IX, § 901(a)(2)](https://www.govinfo.gov/link/plaw/110/public/387), Oct. 10, 2008, [122 Stat. 4142](https://www.govinfo.gov/link/statute/122/4142).)*

@@ -3,9 +3,10 @@ title: "Section 8833 - Guaranteed construction loans"
 usc_title: 42
 usc_section: "8833"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8833"
-generated_at: "2026-03-30T02:56:11.348Z"
+generated_at: "2026-11-23T21:26:33.219Z"
+status: "active"
 ---
 
 # § 8833. Guaranteed construction loans
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.348Z"
 - **(h)**
   - **(1)** A fee or fees may be charged and collected by the Secretary of Energy for any loan guarantee under this section.
   - **(2)** The amount of such fee shall be based on the estimated administrative costs and risk of loss, except that such fee may not exceed 1 per centum of the maximum of the guarantee.
+
+## Source Credit
+
+*([Pub. L. 96–294, title II, § 233](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 698](https://www.govinfo.gov/link/statute/94/698); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095).)*

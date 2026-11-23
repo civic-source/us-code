@@ -3,9 +3,10 @@ title: "Section 225d - Transition provisions for employees of Hospital"
 usc_title: 24
 usc_section: "225d"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "24 U.S.C. § 225d"
-generated_at: "2026-03-30T02:54:50.790Z"
+generated_at: "2026-11-23T21:25:53.409Z"
+status: "active"
 ---
 
 # § 225d. Transition provisions for employees of Hospital
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:50.790Z"
   - **(4)** The Mayor shall create and maintain, in consultation with the Secretary, a District agency reemployment priority list of those employees of the Hospital on the retention registers who are not offered employment under subsection (c). Individuals who refuse an offer of employment under subsection (c) shall be ineligible for inclusion on the District agency reemployment priority list. Such reemployment priority list shall be administered in accordance with procedures established pursuant to the District of Columbia Government Comprehensive Merit Personnel Act of 1978 (D.C. Law 2–139).
   - **(5)** Acceptance of nontemporary employment as a result of referral from any retention list or agency reemployment priority list shall automatically terminate an individual’s severance pay as of the effective date of such employment.
 - **(e)** Any contract entered into by the District of Columbia for the provision of mental health services formerly provided by or at the Hospital shall require the contractor or provider, in filling new positions created to perform under the contract, to give preference to qualified candidates on the District agency reemployment priority list created pursuant to subsection (d) of this section. An individual who is offered nontemporary employment with a contractor shall have his or her name remain on the District agency reemployment priority list under subsection (d) for not more than 24 months from the date of acceptance of such employment.
+
+## Source Credit
+
+*([Pub. L. 98–621, § 6](https://www.govinfo.gov/link/plaw/98/public/621), Nov. 8, 1984, [98 Stat. 3374](https://www.govinfo.gov/link/statute/98/3374).)*

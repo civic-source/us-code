@@ -3,9 +3,10 @@ title: "Section 539n - Crystal Springs Watershed Special Resources Management Un
 usc_title: 16
 usc_section: "539n"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 539n"
-generated_at: "2026-03-30T02:54:22.866Z"
+generated_at: "2026-11-23T21:25:51.661Z"
+status: "active"
 ---
 
 # § 539n. Crystal Springs Watershed Special Resources Management Unit
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:54:22.866Z"
   - **(8)**
     - **(A)** The Secretary may acquire from willing landowners any land located within the area identified on the map as the “Crystal Springs Zone of Contribution”.
     - **(B)** On the date of acquisition, any land acquired under subparagraph (A) shall be incorporated in, and be managed as part of, the Management Unit.
+
+## Source Credit
+
+*([Pub. L. 111–11, title I, § 1205(a)](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1014](https://www.govinfo.gov/link/statute/123/1014).)*

@@ -3,9 +3,10 @@ title: "Section 3011 - Creation and charter; principal office; venue; purposes"
 usc_title: 12
 usc_section: "3011"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3011"
-generated_at: "2026-03-30T02:53:53.489Z"
+generated_at: "2026-11-23T21:25:37.115Z"
+status: "active"
 ---
 
 # § 3011. Creation and charter; principal office; venue; purposes
@@ -17,3 +18,7 @@ The Congress of the United States hereby creates and charters a body corporate t
   - **(3)** encourage broad-based ownership, control, and active participation by members in eligible cooperatives;
   - **(4)** assist in improving the quality and availability of goods and services to consumers; and
   - **(5)** encourage ownership of its equity securities by cooperatives and others as provided in section 3014 of this title , so that the date when all of the Bank’s class A stock owned by the United States has been fully redeemed (the “Final Government Equity Redemption Date”) occurs as early as practicable.
+
+## Source Credit
+
+*([Pub. L. 95–351, title I, § 101](https://www.govinfo.gov/link/plaw/95/public/351), Aug. 20, 1978, [92 Stat. 499](https://www.govinfo.gov/link/statute/92/499); [Pub. L. 97–35, title III, § 396(b)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 439](https://www.govinfo.gov/link/statute/95/439).)*

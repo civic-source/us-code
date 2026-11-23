@@ -3,9 +3,10 @@ title: "Section 113 - Personnel report"
 usc_title: 3
 usc_section: "113"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "3 U.S.C. § 113"
-generated_at: "2026-03-30T02:52:49.879Z"
+generated_at: "2026-11-23T21:25:20.107Z"
+status: "active"
 ---
 
 # § 113. Personnel report
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:52:49.879Z"
   - **(3)** the number of employees employed in such offices who are paid at a rate of basic pay which is less than the minimum rate then currently paid for GS–16 of the General Schedule of section 5332 of title V 1 , and the aggregate amount paid to such employees;
   - **(4)** the number of individuals detailed under section 112 of this title for more than 30 days to each such office, the number of days in excess of 30 each individual was detailed, and the aggregate amount of reimbursement made as provided by the provisions of section 112 of this title ; and
   - **(5)** the number of individuals whose services as experts or consultants are procured under this chapter for service in any such office, the total number of days employed, and the aggregate amount paid to procure such services.
+
+Submission of Report
+
+Contents
+
+Exclusion From Report
+
+## Source Credit
+
+*(Added [Pub. L. 95–570, § 3(a)](https://www.govinfo.gov/link/plaw/95/public/570), Nov. 2, 1978, [92 Stat. 2449](https://www.govinfo.gov/link/statute/92/2449).)*

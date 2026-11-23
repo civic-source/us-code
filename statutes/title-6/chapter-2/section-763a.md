@@ -3,9 +3,10 @@ title: "Section 763a - Training for Federal Government, foreign governments, or 
 usc_title: 6
 usc_section: "763a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 763a"
-generated_at: "2026-03-30T02:53:09.499Z"
+generated_at: "2026-11-23T21:25:25.846Z"
+status: "active"
 ---
 
 # § 763a. Training for Federal Government, foreign governments, or private entities
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:09.499Z"
 - **(c)** subject to (b), nothing in
 - **(a)** prohibits the Center for Domestic Preparedness from providing training to employees of the Federal Emergency Management Agency in existing chemical, biological, radiological, nuclear, explosives, mass casualty, and medical surge courses pursuant to 5 U.S.C. 4103 without reimbursement for the cost of such training.
 
+
+## Source Credit
+
+*([Pub. L. 113–6, div. D, title III](https://www.govinfo.gov/link/plaw/113/public/6), Mar. 26, 2013, [127 Stat. 359](https://www.govinfo.gov/link/statute/127/359).)*

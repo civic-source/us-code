@@ -3,9 +3,10 @@ title: "Section 17388 - Advisory committee"
 usc_title: 42
 usc_section: "17388"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17388"
-generated_at: "2026-03-30T02:56:11.507Z"
+generated_at: "2026-11-23T21:26:33.794Z"
+status: "active"
 ---
 
 # § 17388. Advisory committee
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.507Z"
   - **(1)** comments to identify grid modernization technology needs;
   - **(2)** an assessment of the progress of the research activities on grid modernization; and
   - **(3)** assistance in annually updating grid modernization technology roadmaps.
+
+## Source Credit
+
+*([Pub. L. 110–140, title XIII, § 1311](https://www.govinfo.gov/link/plaw/110/public/140), as added [Pub. L. 116–260, div. Z, title VIII, § 8005](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2585](https://www.govinfo.gov/link/statute/134/2585).)*

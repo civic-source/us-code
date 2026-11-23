@@ -3,9 +3,10 @@ title: "Section 1762 - Review of institutions and other entities authorized to e
 usc_title: 8
 usc_section: "1762"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1762"
-generated_at: "2026-03-30T02:53:10.508Z"
+generated_at: "2026-11-23T21:25:25.217Z"
+status: "active"
 ---
 
 # § 1762. Review of institutions and other entities authorized to enroll or sponsor certain nonimmigrants
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:10.508Z"
     - **(A)** recordkeeping and reporting requirements to receive nonimmigrant exchange visitor program participants under section 1101(a)(15)(J) of this title ; and
     - **(B)** recordkeeping and reporting requirements under section 1372 of this title .
 - **(c)** Material failure of an institution or other entity to comply with the recordkeeping and reporting requirements to receive nonimmigrant students or exchange visitor program participants under section 1101(a)(15)(F), (M), or (J) of this title, or section 1372 of this title , shall result in the suspension for at least one year or termination, at the election of the Commissioner of Immigration and Naturalization, of the institution’s approval to receive such students, or result in the suspension for at least one year or termination, at the election of the Secretary of State, of the other entity’s designation to sponsor exchange visitor program participants, as the case may be.
+
+## Source Credit
+
+*([Pub. L. 107–173, title V, § 502](https://www.govinfo.gov/link/plaw/107/public/173), May 14, 2002, [116 Stat. 563](https://www.govinfo.gov/link/statute/116/563).)*

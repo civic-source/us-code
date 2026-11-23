@@ -3,9 +3,10 @@ title: "Section 2452c - Program to provide grants to American-sponsored schools 
 usc_title: 22
 usc_section: "2452c"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2452c"
-generated_at: "2026-03-30T02:55:05.368Z"
+generated_at: "2026-11-23T21:25:58.497Z"
+status: "active"
 ---
 
 # § 2452c. Program to provide grants to American-sponsored schools in predominantly Muslim countries to provide scholarships
@@ -24,3 +25,9 @@ generated_at: "2026-03-30T02:55:05.368Z"
 - **(f)** Nothing in this section shall be construed to require participation in the program by a United States-sponsored elementary or secondary school in a predominantly Muslim country.
 - **(g)** Not later than April 15, 2006 , and April 15, 2008 , the Secretary of State shall submit to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate a report on the program. The report shall assess the success of the program, examine any obstacles encountered in its implementation, and address whether it should be continued, and if so, provide recommendations to increase its effectiveness.
 - **(h)** There are authorized to be appropriated to the Secretary of State for each of the fiscal years 2007 and 2008, unless otherwise authorized by Congress, such sums as necessary to implement the program under this section.
+
+“Congress finds the following:
+
+## Source Credit
+
+*([Pub. L. 108–458, title VII, § 7113](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3797](https://www.govinfo.gov/link/statute/118/3797); [Pub. L. 110–53, title XX, § 2014(b)(1)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 512](https://www.govinfo.gov/link/statute/121/512).)*

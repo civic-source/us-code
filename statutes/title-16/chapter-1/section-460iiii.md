@@ -3,9 +3,10 @@ title: "Section 460iiii - Pistone-Black Mountain National Conservation Area"
 usc_title: 16
 usc_section: "460iiii"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 460iiii"
-generated_at: "2026-03-30T02:54:22.852Z"
+generated_at: "2026-11-23T21:25:51.636Z"
+status: "active"
 ---
 
 # § 460iiii. Pistone-Black Mountain National Conservation Area
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:54:22.852Z"
     - **(B)** flight testing and evaluation; or
     - **(C)** the designation or creation of new units of special use airspace, or the establishment of military flight training routes, over the Conservation Area.
   - **(10)** Nothing in this section constitutes an express or implied reservation of any water rights with respect to the Conservation Area.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. B, title XXIX, § 2903(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3037](https://www.govinfo.gov/link/statute/136/3037).)*

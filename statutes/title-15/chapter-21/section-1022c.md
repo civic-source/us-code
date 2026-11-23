@@ -3,9 +3,10 @@ title: "Section 1022c - Inclusion of priority policies and programs in President
 usc_title: 15
 usc_section: "1022c"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1022c"
-generated_at: "2026-03-30T02:54:08.124Z"
+generated_at: "2026-11-23T21:25:39.774Z"
+status: "active"
 ---
 
 # § 1022c. Inclusion of priority policies and programs in President’s Budget
@@ -28,3 +29,7 @@ To contribute to the achievement of the goals under the Full Employment and Bala
     - **(J)** proper attention to the dislocation of jobs caused by Federal laws, regulations, and policies;
     - **(K)** policies and programs designed to increase exports and improve the international competitive position of agriculture, business, and industry, including measures to promote a free and fair international trading system, a sound and stable international monetary system and innovation in agriculture, business, and industry;
     - **(L)** such other priority policies and programs as the President deems appropriate.
+
+## Source Credit
+
+*(Feb. 20, 1946, ch. 33, § 6, as added [Pub. L. 95–523, title I, § 106](https://www.govinfo.gov/link/plaw/95/public/523), Oct. 27, 1978, [92 Stat. 1895](https://www.govinfo.gov/link/statute/92/1895).)*

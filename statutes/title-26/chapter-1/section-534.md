@@ -3,9 +3,10 @@ title: "Section 534 - Burden of proof"
 usc_title: 26
 usc_section: "534"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 534"
-generated_at: "2026-03-30T02:55:27.716Z"
+generated_at: "2026-11-23T21:26:06.333Z"
+status: "active"
 ---
 
 # § 534. Burden of proof
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:27.716Z"
 - **(b)** Before mailing the notice of deficiency referred to in subsection (a), the Secretary may send by certified mail or registered mail a notification informing the taxpayer that the proposed notice of deficiency includes an amount with respect to the accumulated earnings tax imposed by section 531.
 - **(c)** Within such time (but not less than 30 days) after the mailing of the notification described in subsection (b) as the Secretary may prescribe by regulations, the taxpayer may submit a statement of the grounds (together with facts sufficient to show the basis thereof) on which the taxpayer relies to establish that all or any part of the earnings and profits have not been permitted to accumulate beyond the reasonable needs of the business.
 - **(d)** If pursuant to section 6861(a) a jeopardy assessment is made before the mailing of the notice of deficiency referred to in subsection (a), for purposes of this section such notice of deficiency shall, to the extent that it informs the taxpayer that such deficiency includes the accumulated earnings tax imposed by section 531, constitute the notification described in subsection (b), and in that event the statement described in subsection (c) may be included in the taxpayer’s petition to the Tax Court.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 180; Aug. 11, 1955, ch. 805, §§ 4, 5, [69 Stat. 690](https://www.govinfo.gov/link/statute/69/690), 691; [Pub. L. 85–866, title I, § 89(b)](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1665](https://www.govinfo.gov/link/statute/72/1665); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(a)(73), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1776](https://www.govinfo.gov/link/statute/90/1776), 1834.)*

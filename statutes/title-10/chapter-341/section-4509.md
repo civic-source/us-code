@@ -3,9 +3,10 @@ title: "Section 4509 - Contracts for advisory and assistance services: cost comp
 usc_title: 10
 usc_section: "4509"
 chapter: 341
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4509"
-generated_at: "2026-03-30T02:53:38.208Z"
+generated_at: "2026-11-23T21:25:32.779Z"
+status: "active"
 ---
 
 # § 4509. Contracts for advisory and assistance services: cost comparison studies
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:53:38.208Z"
     - **(B)** Subparagraph (A) applies to any contract of the Department of Defense for advisory and assistance services that is expected to have a value in excess of $100,000.
   - **(2)** If the Secretary determines that Department of Defense personnel have the capability to perform the services to be covered by the contract, the Secretary shall conduct a study comparing the cost of performing the services with Department of Defense personnel and the cost of performing the services with contractor personnel.
 - **(b)** The Secretary of Defense may, pursuant to guidelines prescribed by the Secretary, waive the requirement to perform a cost comparison study under subsection (a)(2) based on factors that are not related to cost.
+
+Requirement
+
+Waiver
+
+“The Secretary of Defense shall prescribe the following procedures:
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title III, § 363(a)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2733](https://www.govinfo.gov/link/statute/108/2733), § 2410 l; renumbered § 4509, [Pub. L. 116–283, div. A, title XVIII, § 1856(g)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4275](https://www.govinfo.gov/link/statute/134/4275).)*

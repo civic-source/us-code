@@ -3,9 +3,10 @@ title: "Section 4451 - Authorization of appropriations"
 usc_title: 20
 usc_section: "4451"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 4451"
-generated_at: "2026-03-30T02:54:48.185Z"
+generated_at: "2026-11-23T21:25:47.452Z"
+status: "active"
 ---
 
 # § 4451. Authorization of appropriations
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:48.185Z"
 - **(b)** There are authorized to be appropriated for the purpose of carrying out the provisions of subchapter II of this chapter—
   - **(1)** for fiscal year 1987, $1,000,000, and
   - **(2)** for each succeeding fiscal year, such sums as may be necessary to carry out such provisions.
+
+## Source Credit
+
+*([Pub. L. 99–498, title XV, § 1531](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1612](https://www.govinfo.gov/link/statute/100/1612); [Pub. L. 100–297, title V, § 5406(c)](https://www.govinfo.gov/link/plaw/100/public/297), Apr. 28, 1988, [102 Stat. 418](https://www.govinfo.gov/link/statute/102/418); [Pub. L. 101–644, title V, § 506](https://www.govinfo.gov/link/plaw/101/public/644), Nov. 29, 1990, [104 Stat. 4672](https://www.govinfo.gov/link/statute/104/4672).)*

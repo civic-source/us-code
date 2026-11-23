@@ -3,9 +3,10 @@ title: "Section 13411 - Enhanced oil recovery"
 usc_title: 42
 usc_section: "13411"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13411"
-generated_at: "2026-03-30T02:56:11.444Z"
+generated_at: "2026-11-23T21:26:33.603Z"
+status: "active"
 ---
 
 # § 13411. Enhanced oil recovery
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:11.444Z"
 - **(d)** Within 1 year after October 24, 1992 , the Secretary shall solicit proposals for conducting activities under this section.
 - **(e)** In carrying out the provisions of this section, the Secretary shall consult representatives of the oil and gas industry with respect to innovative research and development proposals to improve oil and gas recovery and shall consider relevant technical data from industry and other research and information centers and institutes.
 - **(f)** There are authorized to be appropriated to the Secretary for carrying out this section, including advanced extraction and process technology, $57,250,000 for fiscal year 1993 and $70,000,000 for fiscal year 1994.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XX, § 2011](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3057](https://www.govinfo.gov/link/statute/106/3057).)*

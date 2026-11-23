@@ -3,12 +3,17 @@ title: "Section 1756 - Remedies with respect to school district lines"
 usc_title: 20
 usc_section: "1756"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1756"
-generated_at: "2026-03-30T02:54:48.171Z"
+generated_at: "2026-11-23T21:25:47.363Z"
+status: "active"
 ---
 
 # § 1756. Remedies with respect to school district lines
 
 In the formulation of remedies under this chapter the lines drawn by a State subdividing its territory into separate school districts, shall not be ignored or altered except where it is established that the lines were drawn, or maintained or crossed for the purpose, and had the effect of segregating children among public schools on the basis of race, color, sex, or national origin, or where it is established that, as a result of discriminatory actions within the school districts, the lines have had the effect of segregating children among public schools on the basis of race, color, sex, or national origin.
 
+
+## Source Credit
+
+*([Pub. L. 93–380, title II, § 257](https://www.govinfo.gov/link/plaw/93/public/380), Aug. 21, 1974, [88 Stat. 520](https://www.govinfo.gov/link/statute/88/520).)*

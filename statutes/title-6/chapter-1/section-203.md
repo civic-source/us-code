@@ -3,9 +3,10 @@ title: "Section 203 - Functions transferred"
 usc_title: 6
 usc_section: "203"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 203"
-generated_at: "2026-03-30T02:53:09.450Z"
+generated_at: "2026-11-23T21:25:25.763Z"
+status: "active"
 ---
 
 # § 203. Functions transferred
@@ -17,3 +18,7 @@ In accordance with subchapter XII (relating to transition provisions), there sha
   - **(3)** the Federal Protective Service of the General Services Administration, including the functions of the Administrator of General Services relating thereto;
   - **(4)** the Federal Law Enforcement Training Center of the Department of the Treasury; and
   - **(5)** the Office for Domestic Preparedness of the Office of Justice Programs, including the functions of the Attorney General relating thereto.
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 403](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2178](https://www.govinfo.gov/link/statute/116/2178).)*

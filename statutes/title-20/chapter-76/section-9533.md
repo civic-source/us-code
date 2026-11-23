@@ -3,9 +3,10 @@ title: "Section 9533 - Duties"
 usc_title: 20
 usc_section: "9533"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9533"
-generated_at: "2026-03-30T02:54:48.227Z"
+generated_at: "2026-11-23T21:25:47.660Z"
+status: "active"
 ---
 
 # § 9533. Duties
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:54:48.227Z"
   - **(5)** No national research and development center may be supported under this subsection for a period of more than 10 years without submitting to a competitive process for the award of the support.
   - **(6)** The Director shall continue awards made to the national research and development centers that are in effect on the day before November 5, 2002 , in accordance with the terms of those awards and may renew them in accordance with paragraphs (4) and (5).
   - **(7)** To the extent feasible, research conducted under this subsection shall be disaggregated by age, race, gender, and socioeconomic background.
+
+## Source Credit
+
+*([Pub. L. 107–279, title I, § 133](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1954](https://www.govinfo.gov/link/statute/116/1954).)*

@@ -3,9 +3,10 @@ title: "Section 1143 - Research, studies, and reports"
 usc_title: 29
 usc_section: "1143"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1143"
-generated_at: "2026-03-30T02:55:18.719Z"
+generated_at: "2026-11-23T21:26:02.264Z"
+status: "active"
 ---
 
 # § 1143. Research, studies, and reports
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:18.719Z"
   - **(4)** The research, surveys, studies, and publications referred to in this subsection may be conducted directly, or indirectly through grant or contract arrangements.
 - **(b)**
 - **(c)** The Secretary is authorized and directed to cooperate with the Congress and its appropriate committees, subcommittees, and staff in supplying data and any other information, and personnel and services, required by the Congress in any study, examination, or report by the Congress relating to pension benefit plans established or maintained by States or their political subdivisions.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 513](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 896](https://www.govinfo.gov/link/statute/88/896).)*

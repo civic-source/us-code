@@ -3,9 +3,10 @@ title: "Section 9837a - Head Start transition and alignment with K–12 educatio
 usc_title: 42
 usc_section: "9837a"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9837a"
-generated_at: "2026-03-30T02:56:11.368Z"
+generated_at: "2026-11-23T21:26:33.291Z"
+status: "active"
 ---
 
 # § 9837a. Head Start transition and alignment with K–12 education
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:11.368Z"
 - **(c)** The Secretary, in consultation with the Secretary of Education, shall—
   - **(1)** disseminate to Head Start agencies information on effective policies and activities relating to the transition of children from Head Start programs to public schools; and
   - **(2)** provide technical assistance to such agencies to promote and assist such agencies to adopt and implement such effective policies and activities.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 642A](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 105–285, title I, § 110](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2717](https://www.govinfo.gov/link/statute/112/2717); amended [Pub. L. 110–134, § 10](https://www.govinfo.gov/link/plaw/110/public/134), Dec. 12, 2007, [121 Stat. 1407](https://www.govinfo.gov/link/statute/121/1407); [Pub. L. 114–95, title IX, § 9215(nn)(4)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2177](https://www.govinfo.gov/link/statute/129/2177).)*

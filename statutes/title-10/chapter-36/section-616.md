@@ -3,9 +3,10 @@ title: "Section 616 - Recommendations for promotion by selection boards"
 usc_title: 10
 usc_section: "616"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 616"
-generated_at: "2026-03-30T02:53:38.068Z"
+generated_at: "2026-11-23T21:25:32.299Z"
+status: "active"
 ---
 
 # § 616. Recommendations for promotion by selection boards
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:38.068Z"
   - **(1)** In selecting the officers to be recommended for promotion, a selection board shall, when authorized by the Secretary of the military department concerned, recommend officers of particular merit, pursuant to guidelines and procedures prescribed by the Secretary, from among those officers selected for promotion, to be placed higher on the promotion list established by the Secretary under section 624(a)(1) of this title .
   - **(2)** An officer may be recommended to be placed higher on a promotion list under paragraph (1) only if the officer receives the recommendation of at least a majority of the members of the board, unless the Secretary concerned establishes an alternative requirement. Any such alternative requirement shall be furnished to the board as part of the guidelines furnished to the board under section 615 of this title .
   - **(3)** For the officers recommended to be placed higher on a promotion list under paragraph (1), the board shall recommend, pursuant to guidelines and procedures prescribed by the Secretary concerned, the order in which those officers should be placed on the list.
+
+## Source Credit
+
+*(Added [Pub. L. 96–513, title I, § 105](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2852](https://www.govinfo.gov/link/statute/94/2852); amended [Pub. L. 100–456, div. A, title V, § 501(b)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 1966](https://www.govinfo.gov/link/statute/102/1966); [Pub. L. 102–190, div. A, title V, § 504(b)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1357](https://www.govinfo.gov/link/statute/105/1357); [Pub. L. 102–484, div. A, title X, § 1052(8)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2499](https://www.govinfo.gov/link/statute/106/2499); [Pub. L. 109–364, div. A, title V, § 512(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2184](https://www.govinfo.gov/link/statute/120/2184); [Pub. L. 115–232, div. A, title V, § 504(a)](https://www.govinfo.gov/link/plaw/115/public/232), title VIII, § 809(a), Aug. 13, 2018, [132 Stat. 1742](https://www.govinfo.gov/link/statute/132/1742), 1840; [Pub. L. 116–92, div. A, title V, § 503(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1344](https://www.govinfo.gov/link/statute/133/1344); [Pub. L. 116–283, div. A, title V, § 504(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3565](https://www.govinfo.gov/link/statute/134/3565); [Pub. L. 118–31, div. A, title V, § 506](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 242](https://www.govinfo.gov/link/statute/137/242); [Pub. L. 118–159, div. A, title V, § 504](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1869](https://www.govinfo.gov/link/statute/138/1869).)*

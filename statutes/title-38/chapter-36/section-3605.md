@@ -3,9 +3,10 @@ title: "Section 3605 - Payment of educational assistance in cases of withdrawal"
 usc_title: 38
 usc_section: "3605"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3605"
-generated_at: "2026-03-30T02:55:53.506Z"
+generated_at: "2026-11-23T21:26:16.753Z"
+status: "active"
 ---
 
 # § 3605. Payment of educational assistance in cases of withdrawal
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:55:53.506Z"
   - **(5)** change of location or residence due to the emergency situation or associated school closures;
   - **(6)** employment changes or financial hardship; and
   - **(7)** issues associated with changes in format or medium of instruction.
+
+In General
+
+Covered Reason
+
+## Source Credit
+
+*(Added [Pub. L. 117–333, § 2(a)(2)](https://www.govinfo.gov/link/plaw/117/public/333), Jan. 5, 2023, [136 Stat. 6125](https://www.govinfo.gov/link/statute/136/6125).)*

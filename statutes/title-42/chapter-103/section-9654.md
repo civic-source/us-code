@@ -3,9 +3,10 @@ title: "Section 9654 - Applicability of Federal water pollution control funding,
 usc_title: 42
 usc_section: "9654"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9654"
-generated_at: "2026-03-30T02:56:11.363Z"
+generated_at: "2026-11-23T21:26:33.270Z"
+status: "active"
 ---
 
 # § 9654. Applicability of Federal water pollution control funding, etc., provisions
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:11.363Z"
 - **(a)** Omitted
 - **(b)** One-half of the unobligated balance remaining before December 11, 1980 , under subsection (k) 1 1 See References in Text note below. of section 1321 of title 33 and all sums appropriated under section 1364(b) 1 of title 33 shall be transferred to the Fund established under subchapter II 1 of this chapter.
 - **(c)** In any case in which any provision of section 1321 of title 33 is determined to be in conflict with any provisions of this chapter, the provisions of this chapter shall apply.
+
+## Source Credit
+
+*([Pub. L. 96–510, title III, § 304](https://www.govinfo.gov/link/plaw/96/public/510), Dec. 11, 1980, [94 Stat. 2809](https://www.govinfo.gov/link/statute/94/2809).)*

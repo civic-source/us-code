@@ -3,9 +3,10 @@ title: "Section 2104 - Preparation of guidelines"
 usc_title: 43
 usc_section: "2104"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 2104"
-generated_at: "2026-03-30T02:55:57.495Z"
+generated_at: "2026-11-23T21:26:19.890Z"
+status: "active"
 ---
 
 # § 2104. Preparation of guidelines
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:57.495Z"
   - **(4)** recognize the interests of individuals and groups engaged in shipwreck discovery and salvage.
 - **(b)** Such guidelines shall be developed after consultation with appropriate public and private sector interests (including the Secretary of Commerce, the Advisory Council on Historic Preservation, sport divers, State Historic Preservation Officers, professional dive operators, salvors, archeologists, historic preservationists, and fishermen).
 - **(c)** Such guidelines shall be available to assist States and the appropriate Federal agencies in developing legislation and regulations to carry out their responsibilities under this chapter.
+
+## Source Credit
+
+*([Pub. L. 100–298, § 5](https://www.govinfo.gov/link/plaw/100/public/298), Apr. 28, 1988, [102 Stat. 433](https://www.govinfo.gov/link/statute/102/433).)*

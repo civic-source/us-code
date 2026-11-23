@@ -3,9 +3,10 @@ title: "Section 665 - Duties and authorities relating to .gov internet domain"
 usc_title: 6
 usc_section: "665"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 665"
-generated_at: "2026-03-30T02:53:09.477Z"
+generated_at: "2026-11-23T21:25:25.823Z"
+status: "active"
 ---
 
 # § 665. Duties and authorities relating to .gov internet domain
@@ -55,3 +56,15 @@ generated_at: "2026-03-30T02:53:09.477Z"
       - **(iii)** impede national defense activities or military operations; or
       - **(iv)** hamper security remediation actions.
   - **(4)** Not later than 180 days after December 27, 2020 , the Director shall develop and submit to the Committee on Homeland Security and Governmental Affairs and the Committee on Rules and Administration of the Senate and the Committee on Homeland Security, the Committee on Oversight and Reform, and the Committee on House Administration of the House of Representatives a strategy to utilize the information collected under this subsection for countering malicious cyber activity.
+
+“Congress finds that—
+
+“The purpose of the .gov internet domain program is to—
+
+“Not later than 1 year after the date of enactment of this Act [ Dec. 27, 2020 ], the Director, in consultation with the Administrator and entities representing State, local, Tribal, or territorial governments, shall develop and publish on a publicly available website a reference guide for migrating online services to the .gov internet domain, which shall include—
+
+“In this Act [probably means “this title”, see Short Title of 2020 Amendment note set out under section 101 of this title ]—
+
+## Source Credit
+
+*([Pub. L. 107–296, title XXII, § 2215](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 116–260, div. U, title IX, § 904(b)(1)(B)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2298](https://www.govinfo.gov/link/statute/134/2298); [Pub. L. 117–81, div. A, title XV, § 1547(b)(1)(A)(ii)](https://www.govinfo.gov/link/plaw/117/public/81), (B), Dec. 27, 2021, [135 Stat. 2060](https://www.govinfo.gov/link/statute/135/2060), 2061; [Pub. L. 117–263, div. G, title LXXI, § 7143(a)(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3654](https://www.govinfo.gov/link/statute/136/3654).)*

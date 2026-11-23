@@ -3,9 +3,10 @@ title: "Section 2541 - Infringement of plant variety protection"
 usc_title: 7
 usc_section: "2541"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2541"
-generated_at: "2026-03-30T02:53:42.388Z"
+generated_at: "2026-11-23T21:25:28.300Z"
+status: "active"
 ---
 
 # § 2541. Infringement of plant variety protection
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:53:42.388Z"
 - **(d)** It shall not be an infringement of the rights of the owner of a variety to perform any act concerning propagating material of any kind, or harvested material, including entire plants and parts of plants, of a protected variety that is sold or otherwise marketed with the consent of the owner in the United States, unless the act involves further propagation of the variety or involves an export of material of the variety, that enables the propagation of the variety, into a country that does not protect varieties of the plant genus or species to which the variety belongs, unless the exported material is for final consumption purposes.
 - **(e)** It shall not be an infringement of the rights of the owner of a variety to perform any act done privately and for noncommercial purposes.
 - **(f)** As used in this section, the term “perform without authority” includes performance without authority by any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in the official capacity of the officer or employee. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
+
+## Source Credit
+
+*([Pub. L. 91–577, title III, § 111](https://www.govinfo.gov/link/plaw/91/public/577), Dec. 24, 1970, [84 Stat. 1554](https://www.govinfo.gov/link/statute/84/1554); [Pub. L. 96–574, § 19(a)](https://www.govinfo.gov/link/plaw/96/public/574), Dec. 22, 1980, [94 Stat. 3351](https://www.govinfo.gov/link/statute/94/3351); [Pub. L. 102–560, § 3(a)](https://www.govinfo.gov/link/plaw/102/public/560), Oct. 28, 1992, [106 Stat. 4231](https://www.govinfo.gov/link/statute/106/4231); [Pub. L. 103–349](https://www.govinfo.gov/link/plaw/103/public/349), §§ 9, 13(q), Oct. 6, 1994, [108 Stat. 3141](https://www.govinfo.gov/link/statute/108/3141), 3144; [Pub. L. 115–334, title X, § 10108(c)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4906](https://www.govinfo.gov/link/statute/132/4906).)*

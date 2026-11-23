@@ -3,9 +3,10 @@ title: "Section 3401 - Definitions"
 usc_title: 12
 usc_section: "3401"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3401"
-generated_at: "2026-03-30T02:53:53.494Z"
+generated_at: "2026-11-23T21:25:37.136Z"
+status: "active"
 ---
 
 # § 3401. Definitions
@@ -31,3 +32,7 @@ For the purpose of this chapter, the term—
     - **(H)** the Secretary of the Treasury, with respect to the Bank Secrecy Act ( Public Law 91–508, title I ) [ 12 U.S.C. 1951 et seq.] and subchapter II of chapter 53 of title 31; or
     - **(I)** any State banking or securities department or agency; and
   - **(8)** “law enforcement inquiry” means a lawful investigation or official proceeding inquiring into a violation of, or failure to comply with, any criminal or civil statute or any regulation, rule, or order issued pursuant thereto.
+
+## Source Credit
+
+*([Pub. L. 95–630, title XI, § 1101](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3697](https://www.govinfo.gov/link/statute/92/3697); [Pub. L. 101–73, title VII, § 744(b)](https://www.govinfo.gov/link/plaw/101/public/73), title IX, § 941, Aug. 9, 1989, [103 Stat. 438](https://www.govinfo.gov/link/statute/103/438), 496; [Pub. L. 101–647, title XXV, § 2596(c)](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4908](https://www.govinfo.gov/link/statute/104/4908); [Pub. L. 106–102, title VII, § 727(b)(1)](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1475](https://www.govinfo.gov/link/statute/113/1475); [Pub. L. 108–177, title III, § 374(b)](https://www.govinfo.gov/link/plaw/108/public/177), Dec. 13, 2003, [117 Stat. 2628](https://www.govinfo.gov/link/statute/117/2628); [Pub. L. 111–203, title X, § 1099(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2105](https://www.govinfo.gov/link/statute/124/2105).)*

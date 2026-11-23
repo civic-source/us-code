@@ -3,9 +3,10 @@ title: "Section 2303 - Prohibited practices"
 usc_title: 7
 usc_section: "2303"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2303"
-generated_at: "2026-03-30T02:53:42.385Z"
+generated_at: "2026-11-23T21:25:28.296Z"
+status: "active"
 ---
 
 # § 2303. Prohibited practices
@@ -18,3 +19,7 @@ It shall be unlawful for any handler knowingly to engage or permit any employee 
 - **(d)** To pay or loan money, give any thing of value, or offer any other inducement or reward to a producer for refusing to or ceasing to belong to an association of producers; or
 - **(e)** To make false reports about the finances, management, or activities of associations of producers or handlers; or
 - **(f)** To conspire, combine, agree, or arrange with any other person to do, or aid or abet the doing of, any act made unlawful by this chapter.
+
+## Source Credit
+
+*([Pub. L. 90–288, § 4](https://www.govinfo.gov/link/plaw/90/public/288), Apr. 16, 1968, [82 Stat. 94](https://www.govinfo.gov/link/statute/82/94).)*

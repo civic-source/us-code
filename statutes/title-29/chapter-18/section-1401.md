@@ -3,9 +3,10 @@ title: "Section 1401 - Resolution of disputes"
 usc_title: 29
 usc_section: "1401"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1401"
-generated_at: "2026-03-30T02:55:18.735Z"
+generated_at: "2026-11-23T21:26:02.301Z"
+status: "active"
 ---
 
 # § 1401. Resolution of disputes
@@ -54,3 +55,19 @@ generated_at: "2026-03-30T02:55:18.735Z"
     - **(B)** Any group treated as a single employer under subsection (b)(1) of section 1301 of this title , without regard to any transaction that was a basis for the plan’s finding under section 1392 of this title , shall be treated as a single employer for purposes of this subparagraph.
   - **(4)** If a withdrawal liability dispute to which this subsection applies is not concluded by 12 months after the electing person posts the bond or escrow described in paragraph (2), the electing person shall, at the start of each succeeding 12-month period, provide an additional bond or amount held in escrow equal to the sum of the withdrawal liability payments that would otherwise be payable to the plan during that period.
   - **(5)** The liability of the party furnishing a bond or escrow under this subsection shall be reduced, upon the payment of the bond or escrow to the plan, by the amount thereof.
+
+In general
+
+Special rule
+
+Definition of small employer
+
+In general
+
+Controlled group
+
+Additional security pending resolution of dispute
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4221](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 96–364, title I, § 104(2)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1239](https://www.govinfo.gov/link/statute/94/1239); amended [Pub. L. 108–218, title II, § 202(a)](https://www.govinfo.gov/link/plaw/108/public/218), Apr. 10, 2004, [118 Stat. 608](https://www.govinfo.gov/link/statute/118/608); [Pub. L. 109–280, title II, § 204(d)(1)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 887](https://www.govinfo.gov/link/statute/120/887); [Pub. L. 110–458, title I, § 105(b)(2)](https://www.govinfo.gov/link/plaw/110/public/458), Dec. 23, 2008, [122 Stat. 5105](https://www.govinfo.gov/link/statute/122/5105).)*

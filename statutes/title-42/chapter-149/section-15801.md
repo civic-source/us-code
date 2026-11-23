@@ -3,9 +3,10 @@ title: "Section 15801 - Definitions"
 usc_title: 42
 usc_section: "15801"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15801"
-generated_at: "2026-03-30T02:56:11.460Z"
+generated_at: "2026-11-23T21:26:33.674Z"
+status: "active"
 ---
 
 # § 15801. Definitions
@@ -38,3 +39,7 @@ Except as otherwise provided, in this Act:
     - **(Q)** Thomas Jefferson National Accelerator Facility.
   - **(4)** The term “Secretary” means the Secretary of Energy.
   - **(5)** The term “small business concern” has the meaning given the term in section 632 of title 15 .
+
+## Source Credit
+
+*([Pub. L. 109–58, § 2](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 604](https://www.govinfo.gov/link/statute/119/604).)*

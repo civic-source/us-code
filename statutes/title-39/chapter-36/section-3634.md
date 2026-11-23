@@ -3,9 +3,10 @@ title: "Section 3634 - Assumed Federal income tax on competitive products income
 usc_title: 39
 usc_section: "3634"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 3634"
-generated_at: "2026-03-30T02:55:43.694Z"
+generated_at: "2026-11-23T21:26:12.788Z"
+status: "active"
 ---
 
 # § 3634. Assumed Federal income tax on competitive products income
@@ -19,3 +20,13 @@ generated_at: "2026-03-30T02:55:43.694Z"
   - **(1)** compute its assumed Federal income tax on competitive products income for such year; and
   - **(2)** transfer from the Competitive Products Fund to the Postal Service Fund the amount of that assumed tax.
 - **(c)** Any transfer required to be made under this section for a year shall be due on or before the January 15th next occurring after the close of such year.
+
+Definitions
+
+Computation and Transfer Requirements
+
+Deadline for Transfers
+
+## Source Credit
+
+*(Added [Pub. L. 109–435, title IV, § 402](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3226](https://www.govinfo.gov/link/statute/120/3226).)*

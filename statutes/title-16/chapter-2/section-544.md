@@ -3,9 +3,10 @@ title: "Section 544 - Columbia River Gorge National Scenic Area; definitions"
 usc_title: 16
 usc_section: "544"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 544"
-generated_at: "2026-03-30T02:54:22.870Z"
+generated_at: "2026-11-23T21:25:51.666Z"
+status: "active"
 ---
 
 # § 544. Columbia River Gorge National Scenic Area; definitions
@@ -48,3 +49,15 @@ As used in sections 544 to 544p of this title, the term—
 - **(q)** “special management areas” means areas within the scenic area established pursuant to section 544b of this title ;
 - **(r)** “States” means the States of Oregon and Washington; and
 - **(s)** “urban areas” means those areas within the scenic area identified as urban areas on the map referred to in section 544b(e) of this title or within the boundaries of an urban area as revised pursuant to section 544b(f) of this title .
+
+Redesignation
+
+References
+
+Redesignation
+
+References
+
+## Source Credit
+
+*([Pub. L. 99–663, § 2](https://www.govinfo.gov/link/plaw/99/public/663), Nov. 17, 1986, [100 Stat. 4274](https://www.govinfo.gov/link/statute/100/4274).)*

@@ -3,9 +3,10 @@ title: "Section 9424 - Definitions"
 usc_title: 22
 usc_section: "9424"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9424"
-generated_at: "2026-03-30T02:55:05.466Z"
+generated_at: "2026-11-23T21:25:58.773Z"
+status: "active"
 ---
 
 # § 9424. Definitions
@@ -36,3 +37,7 @@ In this chapter:
   - **(8)** The term “knowingly” has the meaning given that term in section 14 of the Iran Sanctions Act of 1996 ( 50 U.S.C. 1701 note).
   - **(9)** The term “Missile Technology Control Regime” means the policy statement, between the United States, the United Kingdom, the Federal Republic of Germany, France, Italy, Canada, and Japan, announced on April 16, 1987 , to restrict sensitive missile-relevant transfers based on the Missile Technology Control Regime Annex, and any amendments thereto or expansions thereof, as in effect on the day before April 24, 2024 .
   - **(10)** The term “Missile Technology Control Regime Annex” means the Guidelines and Equipment and Technology Annex of the Missile Technology Control Regime, and any amendments thereto or updates thereof, as in effect on the day before April 24, 2024 .
+
+## Source Credit
+
+*([Pub. L. 118–50, div. K, § 7](https://www.govinfo.gov/link/plaw/118/public/50), Apr. 24, 2024, [138 Stat. 975](https://www.govinfo.gov/link/statute/138/975).)*

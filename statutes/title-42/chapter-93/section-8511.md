@@ -3,9 +3,10 @@ title: "Section 8511 - National and State emergency conservation targets"
 usc_title: 42
 usc_section: "8511"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8511"
-generated_at: "2026-03-30T02:56:11.343Z"
+generated_at: "2026-11-23T21:26:33.204Z"
+status: "active"
 ---
 
 # § 8511. National and State emergency conservation targets
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:11.343Z"
     - **(B)** If the President determines such an energy supply interruption does not exist or is not imminent or such actions are not required, the conservation targets established under this section with respect to such energy source shall cease to be effective.
 - **(e)** Each month the Secretary shall determine and publish in the Federal Register (1) the level of consumption for the most recent month for which the President determines accurate data is available, nationally and for each State, of any energy source for which a target under subsection (a) is in effect, and (2) whether the targets under subsection (a) have been substantially met or are likely to be met.
 - **(f)** Notwithstanding any other provision of law, the authority vested in the President under this section may not be delegated.
+
+## Source Credit
+
+*([Pub. L. 96–102, title II, § 211](https://www.govinfo.gov/link/plaw/96/public/102), Nov. 5, 1979, [93 Stat. 758](https://www.govinfo.gov/link/statute/93/758).)*

@@ -3,9 +3,10 @@ title: "Section 4421 - Definitions"
 usc_title: 26
 usc_section: "4421"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4421"
-generated_at: "2026-03-30T02:55:27.803Z"
+generated_at: "2026-11-23T21:26:06.622Z"
+status: "active"
 ---
 
 # § 4421. Definitions
@@ -22,3 +23,7 @@ For purposes of this chapter—
       - **(ii)** the winners are determined, and
       - **(iii)** the distribution of prizes or other property is made, in the presence of all persons placing wagers in such game, and
     - **(B)** any drawing conducted by an organization exempt from tax under sections 501 and 521, if no part of the net proceeds derived from such drawing inures to the benefit of any private shareholder or individual.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 528.)*

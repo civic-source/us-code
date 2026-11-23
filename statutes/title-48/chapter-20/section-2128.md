@@ -3,9 +3,10 @@ title: "Section 2128 - Autonomy of Oversight Board"
 usc_title: 48
 usc_section: "2128"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 2128"
-generated_at: "2026-03-30T02:56:14.603Z"
+generated_at: "2026-11-23T21:26:38.138Z"
+status: "active"
 ---
 
 # § 2128. Autonomy of Oversight Board
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:14.603Z"
   - **(1)** exercise any control, supervision, oversight, or review over the Oversight Board or its activities; or
   - **(2)** enact, implement, or enforce any statute, resolution, policy, or rule that would impair or defeat the purposes of this chapter, as determined by the Oversight Board.
 - **(b)** In any action brought by, on behalf of, or against the Oversight Board, the Oversight Board shall be represented by such counsel as it may hire or retain so long as the representation complies with the applicable professional rules of conduct governing conflicts of interests.
+
+## Source Credit
+
+*([Pub. L. 114–187, title I, § 108](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 563](https://www.govinfo.gov/link/statute/130/563).)*

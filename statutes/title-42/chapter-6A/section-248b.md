@@ -3,9 +3,10 @@ title: "Section 248b - Transfer or financial self-sufficiency of public health s
 usc_title: 42
 usc_section: "248b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 248b"
-generated_at: "2026-03-30T02:56:10.708Z"
+generated_at: "2026-11-23T21:26:30.325Z"
+status: "active"
 ---
 
 # § 248b. Transfer or financial self-sufficiency of public health service hospitals and clinics
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:10.708Z"
     - **(C)** to provide for such other legal, administrative, personnel, and financial arrangements (including allowing payments made with respect to services provided by the hospital or station to be made directly to that hospital or station) as may be necessary to effect a timely and orderly transfer of such hospital or station (including the land, building, and equipment thereof) from the Service, or for the financial self-sufficiency of the hospital or station, not later than September 30, 1982 .
 - **(e)** There is established, within the Office of the Assistant Secretary for Health of the Department of Health and Human Services, an identifiable administrative unit which shall have direct responsibility and authority for overseeing the activities under this section.
 - **(f)** For purposes of this section, a hospital or station cannot be found to be financially self-sufficient if the hospital or station is relying, in whole or in part, on direct appropriated funds for its continued operations.
+
+## Source Credit
+
+*([Pub. L. 97–35, title IX, § 987](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 603](https://www.govinfo.gov/link/statute/95/603).)*

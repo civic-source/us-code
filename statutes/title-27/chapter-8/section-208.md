@@ -3,9 +3,10 @@ title: "Section 208 - Interlocking directorates"
 usc_title: 27
 usc_section: "208"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "27 U.S.C. § 208"
-generated_at: "2026-03-30T02:55:15.105Z"
+generated_at: "2026-11-23T21:26:00.006Z"
+status: "active"
 ---
 
 # § 208. Interlocking directorates
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:15.105Z"
   - **(4)** One or more of such companies has been organized under the law of a State to comply with a requirement thereof under which, as a condition of doing business in such State, such company must be organized under the law of such State, and not more than one of such companies is a company which has not been so organized and which has been organized after August 29, 1935 .
 - **(c)** As used in this section, the term “company” means a corporation, joint stock company, business trust, or association, but does not include any agency of a State or political subdivision thereof or any officer or employee of any such agency.
 - **(d)** Any individual taking office in violation of this section shall be punished by a fine of not exceeding $1,000.
+
+## Source Credit
+
+*(Aug. 29, 1935, ch. 814, title I, § 108, formerly § 8, [49 Stat. 986](https://www.govinfo.gov/link/statute/49/986); June 25, 1936, ch. 804, [49 Stat. 1921](https://www.govinfo.gov/link/statute/49/1921); 1940 Reorg. Plan No. III, § 2, eff. June 30, 1940, 5 F.R. 2108, [54 Stat. 1232](https://www.govinfo.gov/link/statute/54/1232); June 25, 1948, ch. 646, § 32(b), [62 Stat. 991](https://www.govinfo.gov/link/statute/62/991); May 24, 1949, ch. 139, § 127, [63 Stat. 107](https://www.govinfo.gov/link/statute/63/107); renumbered title I, § 108, and amended [Pub. L. 100–690, title VIII, § 8001(a)(1)](https://www.govinfo.gov/link/plaw/100/public/690), (2), (b)(2), Nov. 18, 1988, [102 Stat. 4517](https://www.govinfo.gov/link/statute/102/4517), 4521.)*

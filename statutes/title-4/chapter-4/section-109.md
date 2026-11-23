@@ -3,12 +3,17 @@ title: "Section 109 - Same; exception of Indians"
 usc_title: 4
 usc_section: "109"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "4 U.S.C. § 109"
-generated_at: "2026-03-30T02:52:51.498Z"
+generated_at: "2026-11-23T21:25:19.973Z"
+status: "active"
 ---
 
 # § 109. Same; exception of Indians
 
 Nothing in sections 105 and 106 of this title shall be deemed to authorize the levy or collection of any tax on or from any Indian not otherwise taxed.
 
+
+## Source Credit
+
+*(July 30, 1947, ch. 389, [61 Stat. 645](https://www.govinfo.gov/link/statute/61/645).)*

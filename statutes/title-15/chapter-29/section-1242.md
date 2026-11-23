@@ -3,12 +3,17 @@ title: "Section 1242 - Introduction, manufacture for introduction, transportatio
 usc_title: 15
 usc_section: "1242"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1242"
-generated_at: "2026-03-30T02:54:08.130Z"
+generated_at: "2026-11-23T21:25:39.804Z"
+status: "active"
 ---
 
 # § 1242. Introduction, manufacture for introduction, transportation or distribution in interstate commerce; penalty
 
 Whoever knowingly introduces, or manufactures for introduction, into interstate commerce, or transports or distributes in interstate commerce, any switchblade knife, shall be fined not more than $2,000 or imprisoned not more than five years, or both.
 
+
+## Source Credit
+
+*([Pub. L. 85–623, § 2](https://www.govinfo.gov/link/plaw/85/public/623), Aug. 12, 1958, [72 Stat. 562](https://www.govinfo.gov/link/statute/72/562).)*

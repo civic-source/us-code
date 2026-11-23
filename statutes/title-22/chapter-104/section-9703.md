@@ -3,9 +3,10 @@ title: "Section 9703 - Advancing a negotiated solution to Venezuela’s crisis"
 usc_title: 22
 usc_section: "9703"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9703"
-generated_at: "2026-03-30T02:55:05.472Z"
+generated_at: "2026-11-23T21:25:58.786Z"
+status: "active"
 ---
 
 # § 9703. Advancing a negotiated solution to Venezuela’s crisis
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:05.472Z"
   - **(2)** dialogue between the Maduro regime and representatives of the political opposition that commenced in October 2017, and were supported by the Governments of Mexico, of Chile, of Bolivia, and of Nicaragua, did not result in an agreement because the Maduro regime failed to credibly participate in the process; and
   - **(3)** negotiations between the Maduro regime and representatives of the political opposition that commenced in October 2016, and were supported by the Vatican, did not result in an agreement because the Maduro regime failed to credibly participate in the process.
 - **(b)** It is the policy of the United States to support diplomatic engagement in order to advance a negotiated and peaceful solution to Venezuela’s political, economic, and humanitarian crisis that is described in subsection (a)(1).
+
+## Source Credit
+
+*([Pub. L. 116–94, div. J, title I, § 113](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3031](https://www.govinfo.gov/link/statute/133/3031).)*

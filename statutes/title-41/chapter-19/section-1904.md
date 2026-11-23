@@ -3,9 +3,10 @@ title: "Section 1904 - Certain transactions for defense against attack"
 usc_title: 41
 usc_section: "1904"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 1904"
-generated_at: "2026-03-30T02:55:55.803Z"
+generated_at: "2026-11-23T21:26:18.794Z"
+status: "active"
 ---
 
 # § 1904. Certain transactions for defense against attack
@@ -22,3 +23,42 @@ generated_at: "2026-03-30T02:55:55.803Z"
 - **(b)** The Director of the Office of Management and Budget shall prescribe regulations to carry out this section. No transaction may be conducted under the authority of this section before the regulations take effect.
 - **(c)** The annual report of the head of an executive agency that is required under section 2371(h) 1 of title 10, as applied to the head of the executive agency by subsection (a), shall be submitted to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives.
 - **(d)** The authority to carry out transactions under subsection (a) terminates on September 30, 2008 .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1904 | 41:428a note. | Pub. L. 108–136, title XIV, § 1441 , Nov. 24, 2003 , 117 Stat. 1673 . |
+
+
+Authority.—
+
+In general
+
+Prototype projects
+
+Application of requirements and conditions
+
+Applicability to selected executive agencies.—
+
+Office of management and budget
+
+Department of homeland security
+
+Regulations
+
+Annual Report
+
+Termination of Authority
+
+Historical and Revision Notes
+
+1904
+
+Pub. L. 108–136, title XIV, § 1441
+
+Nov. 24, 2003
+
+117 Stat. 1673
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3721](https://www.govinfo.gov/link/statute/124/3721).)*

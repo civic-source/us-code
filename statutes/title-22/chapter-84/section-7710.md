@@ -3,9 +3,10 @@ title: "Section 7710 - Suspension and termination of assistance"
 usc_title: 22
 usc_section: "7710"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7710"
-generated_at: "2026-03-30T02:55:05.445Z"
+generated_at: "2026-11-23T21:25:58.727Z"
+status: "active"
 ---
 
 # § 7710. Suspension and termination of assistance
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.445Z"
 - **(b)** The Chief Executive Officer may reinstate assistance for a country or entity under section 7704 of this title only if the Chief Executive Officer determines that the country or entity has demonstrated a commitment to correcting each condition for which assistance was suspended or terminated under subsection (a).
 - **(c)** Not later than 3 days after the date on which the Chief Executive Officer suspends or terminates assistance under subsection (a) for a country or entity, or reinstates assistance under subsection (b) for a country or entity, the Chief Executive Officer shall submit to the appropriate congressional committees a report that contains the determination of the Chief Executive Officer under subsection (a) or subsection (b), as the case may be.
 - **(d)** The authority to suspend or terminate assistance under this section includes the authority to suspend or terminate obligations and sub-obligations.
+
+## Source Credit
+
+*([Pub. L. 108–199, div. D, title VI, § 611](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 220](https://www.govinfo.gov/link/statute/118/220).)*

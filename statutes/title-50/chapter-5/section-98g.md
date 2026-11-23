@@ -3,9 +3,10 @@ title: "Section 98g - Materials development and research"
 usc_title: 50
 usc_section: "98g"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 98g"
-generated_at: "2026-03-30T02:56:26.197Z"
+generated_at: "2026-11-23T21:26:38.894Z"
+status: "active"
 ---
 
 # § 98g. Materials development and research
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:26.197Z"
 - **(d)** The President shall encourage the conservation of domestic sources of any material determined pursuant to section 98b(a) of this title to be a strategic and critical material by making grants or awarding contracts for research regarding the development of—
   - **(1)** substitutes for such material; or
   - **(2)** more efficient methods of production or use of such material.
+
+## Source Credit
+
+*(June 7, 1939, ch. 190, § 8, as added [Pub. L. 96–41, § 2(a)](https://www.govinfo.gov/link/plaw/96/public/41), July 30, 1979, [93 Stat. 322](https://www.govinfo.gov/link/statute/93/322); amended [Pub. L. 101–189, div. C, title XXXIII, § 3311](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1686](https://www.govinfo.gov/link/statute/103/1686); [Pub. L. 118–31, div. A, title XIV, § 1411(e)(2)(B)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 527](https://www.govinfo.gov/link/statute/137/527).)*

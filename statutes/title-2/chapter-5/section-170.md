@@ -3,9 +3,10 @@ title: "Section 170 - American Television and Radio Archives"
 usc_title: 2
 usc_section: "170"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 170"
-generated_at: "2026-03-30T02:53:04.790Z"
+generated_at: "2026-11-23T21:25:21.143Z"
+status: "active"
 ---
 
 # § 170. American Television and Radio Archives
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:04.790Z"
     - **(B)** for deposit in a library or archives which meets the requirements of section 108(a) of title 17 ,
 - **(c)** The Librarian or any employee of the Library who is acting under the authority of this section shall not be liable in any action for copyright infringement committed by any other person unless the Librarian or such employee knowingly participated in the act of infringement committed by such person. Nothing in this section shall be construed to excuse or limit liability under title 17 for any act not authorized by that title or this section, or for any act performed by a person not authorized to act under that title or this section.
 - **(d)** This section may be cited as the “American Television and Radio Archives Act”.
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 113](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2601](https://www.govinfo.gov/link/statute/90/2601).)*

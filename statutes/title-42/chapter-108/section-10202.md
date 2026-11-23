@@ -3,12 +3,17 @@ title: "Section 10202 - Research on alternatives for permanent disposal of high-
 usc_title: 42
 usc_section: "10202"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10202"
-generated_at: "2026-03-30T02:56:11.384Z"
+generated_at: "2026-11-23T21:26:33.350Z"
+status: "active"
 ---
 
 # § 10202. Research on alternatives for permanent disposal of high-level radioactive waste
 
 The Secretary shall continue and accelerate a program of research, development, and investigation of alternative means and technologies for the permanent disposal of high-level radioactive waste from civilian nuclear activities and Federal research and development activities except that funding shall be made from amounts appropriated to the Secretary for purposes of carrying out this section. Such program shall include examination of various waste disposal options.
 
+
+## Source Credit
+
+*([Pub. L. 97–425, title II, § 222](https://www.govinfo.gov/link/plaw/97/public/425), Jan. 7, 1983, [96 Stat. 2254](https://www.govinfo.gov/link/statute/96/2254).)*

@@ -3,9 +3,10 @@ title: "Section 1795k - State and local tax exemption"
 usc_title: 12
 usc_section: "1795k"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1795k"
-generated_at: "2026-03-30T02:53:53.444Z"
+generated_at: "2026-11-23T21:25:36.963Z"
+status: "active"
 ---
 
 # § 1795k. State and local tax exemption
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:53.444Z"
 - **(c)** For purposes of this section—
   - **(1)** the term “State” includes the District of Columbia; and
   - **(2)** taxes imposed by counties or municipalities, or any territory, dependency, or possession of the United States shall be treated as local taxes.
+
+## Source Credit
+
+*(June 26, 1934, ch. 750, title III, § 312, as added [Pub. L. 98–369, div. B, title VIII, § 2813(a)(2)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1206](https://www.govinfo.gov/link/statute/98/1206).)*

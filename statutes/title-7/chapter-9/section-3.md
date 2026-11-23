@@ -3,9 +3,10 @@ title: "Section 3 - Judicial review of order regarding live poultry dealer"
 usc_title: 7
 usc_section: "3"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3"
-generated_at: "2026-03-30T02:53:42.279Z"
+generated_at: "2026-11-23T21:25:27.936Z"
+status: "active"
 ---
 
 # § 228b–3. Judicial review of order regarding live poultry dealer
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.279Z"
 - **(f)** If the court determines that the just and proper disposition of the case requires the taking of additional evidence, the court shall order the hearing to be reopened for the taking of such evidence, in such manner and upon such terms and conditions as the court may deem proper. The Secretary may modify his findings as to the facts, or make new findings, by reason of the additional evidence so taken, and he shall file such modified or new findings and his recommendations, if any, for the modification or setting aside of his order, with the return of such additional evidence.
 - **(g)** If the court of appeals affirms or modifies the order of the Secretary, its decree shall operate as an injunction to restrain the live poultry dealer, and his officers, directors, agents, and employees from violating the provisions of such order or such order as modified.
 - **(h)** The court of appeals shall have jurisdiction which upon the filing of the record with it shall be exclusive, to review, and to affirm, set aside, or modify, such orders of the Secretary, and the decree of such court shall be final except that it shall be subject to review by the Supreme Court of the United States upon certiorari, as provided in section 1254 of title 28 , if such writ is duly applied for within 60 days after entry of the decree. The issue of such writ shall not operate as a stay of the decree of the court of appeals, insofar as such decree operates as an injunction, unless so ordered by the Supreme Court.
+
+## Source Credit
+
+*(Aug. 15, 1921, ch. 64, title IV, § 412, as added [Pub. L. 100–173, § 9(2)](https://www.govinfo.gov/link/plaw/100/public/173), Nov. 23, 1987, [101 Stat. 921](https://www.govinfo.gov/link/statute/101/921).)*

@@ -3,9 +3,10 @@ title: "Section 24710 - Long-distance routes"
 usc_title: 49
 usc_section: "24710"
 chapter: 247
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 24710"
-generated_at: "2026-03-30T02:56:19.347Z"
+generated_at: "2026-11-23T21:26:40.743Z"
+status: "active"
 ---
 
 # § 24710. Long-distance routes
@@ -31,3 +32,15 @@ generated_at: "2026-03-30T02:56:19.347Z"
   - **(1)** shall notify Amtrak, the Inspector General of the Department of Transportation, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate of its determination under this subsection;
   - **(2)** shall provide Amtrak with an opportunity for a hearing with respect to that determination; and
   - **(3)** may withhold appropriated funds otherwise available to Amtrak for the operation of a route or routes from among the worst performing third of routes currently served by Amtrak on which Amtrak is not making reasonable progress, other than funds made available for passenger safety or security measures.
+
+Annual Evaluation
+
+Performance Improvement Plan
+
+Implementation
+
+Enforcement
+
+## Source Credit
+
+*(Added [Pub. L. 110–432, div. B, title II, § 210(a)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4918](https://www.govinfo.gov/link/statute/122/4918).)*

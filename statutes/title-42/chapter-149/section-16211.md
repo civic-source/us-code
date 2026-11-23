@@ -3,9 +3,10 @@ title: "Section 16211 - Distributed energy and electric energy systems"
 usc_title: 42
 usc_section: "16211"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16211"
-generated_at: "2026-03-30T02:56:11.473Z"
+generated_at: "2026-11-23T21:26:33.706Z"
+status: "active"
 ---
 
 # § 16211. Distributed energy and electric energy systems
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.473Z"
   - **(2)** There are authorized to be appropriated to the Secretary to carry out the Power Delivery Research Initiative under subsection 1 1 So in original. Probably should be “section”. 16215(e) of this title such sums as may be necessary for each of fiscal years 2007 through 2009.
 - **(c)** From amounts authorized under subsection (b), $20,000,000 for each of fiscal years 2007 and 2008 shall be available to carry out activities under section 16213 of this title .
 - **(d)** From amounts authorized under subsection (b), $2,000,000 for fiscal year 2007 shall be available to carry out activities under section 16215(g) of this title .
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 921](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 864](https://www.govinfo.gov/link/statute/119/864).)*

@@ -3,9 +3,10 @@ title: "Section 1320e - Comparative clinical effectiveness research"
 usc_title: 42
 usc_section: "1320e"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1320e"
-generated_at: "2026-03-30T02:56:10.923Z"
+generated_at: "2026-11-23T21:26:31.312Z"
+status: "active"
 ---
 
 # § 1320e. Comparative clinical effectiveness research
@@ -146,3 +147,11 @@ generated_at: "2026-03-30T02:56:10.923Z"
   - **(1)** Nothing in this section shall be construed—
     - **(A)** to permit the Institute to mandate coverage, reimbursement, or other policies for any public or private payer; or
     - **(B)** as preventing the Secretary from covering the routine costs of clinical care received by an individual entitled to, or enrolled for, benefits under subchapter XVIII, XIX, or XXI in the case where such individual is participating in a clinical trial and such costs would otherwise be covered under such subchapter with respect to the beneficiary.
+
+(aa) Appropriate agencies and instrumentalities of the Federal Government.
+
+(bb) Appropriate academic research, private sector research, or study-conducting entities.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XI, § 1181, as added and amended [Pub. L. 111–148, title VI, § 6301(a)](https://www.govinfo.gov/link/plaw/111/public/148), title X, § 10602, Mar. 23, 2010, [124 Stat. 727](https://www.govinfo.gov/link/statute/124/727), 1005; [Pub. L. 116–94, div. N, title I, § 104(d)](https://www.govinfo.gov/link/plaw/116/public/94) –(h), Dec. 20, 2019, [133 Stat. 3098](https://www.govinfo.gov/link/statute/133/3098), 3099.)*

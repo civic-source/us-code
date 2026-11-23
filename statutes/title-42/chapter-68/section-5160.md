@@ -3,12 +3,17 @@ title: "Section 5160 - Recovery of assistance"
 usc_title: 42
 usc_section: "5160"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5160"
-generated_at: "2026-03-30T02:56:11.221Z"
+generated_at: "2026-11-23T21:26:32.750Z"
+status: "active"
 ---
 
 # § 5160. Recovery of assistance
 
 - **(a)** Any person who intentionally causes a condition for which Federal assistance is provided under this chapter or under any other Federal law as a result of a declaration of a major disaster or emergency under this chapter shall be liable to the United States for the reasonable costs incurred by the United States in responding to such disaster or emergency to the extent that such costs are attributable to the intentional act or omission of such person which caused such condition. Such action for reasonable costs shall be brought in an appropriate United States district court.
 - **(b)** A person shall not be liable under this section for costs incurred by the United States as a result of actions taken or omitted by such person in the course of rendering care or assistance in response to a major disaster or emergency.
+
+## Source Credit
+
+*([Pub. L. 93–288, title III, § 317](https://www.govinfo.gov/link/plaw/93/public/288), as added [Pub. L. 100–707, title I, § 105(m)(1)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4695](https://www.govinfo.gov/link/statute/102/4695).)*

@@ -3,9 +3,10 @@ title: "Section 1580 - Emergency essential employees: designation"
 usc_title: 10
 usc_section: "1580"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1580"
-generated_at: "2026-03-30T02:53:38.130Z"
+generated_at: "2026-11-23T21:25:32.514Z"
+status: "active"
 ---
 
 # § 1580. Emergency essential employees: designation
@@ -18,3 +19,13 @@ generated_at: "2026-03-30T02:53:38.130Z"
 - **(c)** In this section:
   - **(1)** The term “combat zone” has the meaning given that term in section 112(c)(2) of the Internal Revenue Code of 1986.
   - **(2)** The term “nonappropriated fund instrumentality employee” has the meaning given that term in section 1587(a)(1) of this title .
+
+Criteria for Designation
+
+Eligibility of Employees of Nonappropriated Fund Instrumentalities
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 106–65, div. A, title XI, § 1103(b)(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 776](https://www.govinfo.gov/link/statute/113/776).)*

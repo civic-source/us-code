@@ -3,9 +3,10 @@ title: "Section 2081 - Undercover investigative operations of Customs Service"
 usc_title: 19
 usc_section: "2081"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2081"
-generated_at: "2026-03-30T02:54:24.662Z"
+generated_at: "2026-11-23T21:25:42.767Z"
+status: "active"
 ---
 
 # § 2081. Undercover investigative operations of Customs Service
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:24.662Z"
       - **(i)** the gross receipts (excluding interest earned) exceed $50,000, or
       - **(ii)** expenditures (other than expenditures for salaries of employees) exceed $150,000; and
     - **(B)** which is exempt from section 3302 or 9102 of title 31;
+
+## Source Credit
+
+*([Pub. L. 99–570, title III, § 3131](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–90](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 104–201, div. A, title X, § 1074(d)(3)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2661](https://www.govinfo.gov/link/statute/110/2661); [Pub. L. 104–316, title I, § 110(b)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3832](https://www.govinfo.gov/link/statute/110/3832); [Pub. L. 114–125, title VIII, § 802(d)(2)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 210](https://www.govinfo.gov/link/statute/130/210).)*

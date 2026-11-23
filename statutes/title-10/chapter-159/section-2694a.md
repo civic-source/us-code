@@ -3,9 +3,10 @@ title: "Section 2694a - Conveyance of surplus real property for natural resource
 usc_title: 10
 usc_section: "2694a"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2694a"
-generated_at: "2026-03-30T02:53:38.171Z"
+generated_at: "2026-11-23T21:25:32.657Z"
+status: "active"
 ---
 
 # § 2694a. Conveyance of surplus real property for natural resource conservation
@@ -35,3 +36,25 @@ generated_at: "2026-03-30T02:53:38.171Z"
   - **(1)** The term “appropriate committees of Congress” has the meaning given such term in section 2801 of this title .
   - **(2)** The term “Secretary concerned” means the Secretary of a military department.
   - **(3)** The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Marianas, Guam, the Virgin Islands, and American Samoa.
+
+Authority to Convey
+
+Eligible Entities
+
+Reversionary Interest and Other Deed Requirements
+
+Release of Covenants
+
+Notice and Wait Requirements
+
+Limitations
+
+Consideration
+
+Relation to Other Conveyance Authorities
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 107–314, div. B, title XXVIII, § 2812(a)(1)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2707](https://www.govinfo.gov/link/statute/116/2707); amended [Pub. L. 109–163, div. A, title X, § 1056(a)(1)](https://www.govinfo.gov/link/plaw/109/public/163), (b), Jan. 6, 2006, [119 Stat. 3438](https://www.govinfo.gov/link/statute/119/3438), 3439; [Pub. L. 109–364, div. A, title X, § 1071(a)(22)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2399](https://www.govinfo.gov/link/statute/120/2399); [Pub. L. 111–383, div. B, title XXVIII, § 2803(a)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4458](https://www.govinfo.gov/link/statute/124/4458); [Pub. L. 115–91, div. B, title XXVIII, § 2811(h)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1849](https://www.govinfo.gov/link/statute/131/1849).)*

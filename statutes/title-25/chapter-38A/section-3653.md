@@ -3,9 +3,10 @@ title: "Section 3653 - Definitions"
 usc_title: 25
 usc_section: "3653"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3653"
-generated_at: "2026-03-30T02:54:52.855Z"
+generated_at: "2026-11-23T21:25:54.696Z"
+status: "active"
 ---
 
 # § 3653. Definitions
@@ -20,3 +21,7 @@ For purposes of this chapter:
   - **(6)** The term “non-profit entity” or “non-profit entities” has the meaning given that term in section 501(c)(3) of title 26 .
   - **(7)** The term “Office of Tribal Justice” means the Office of Tribal Justice in the United States Department of Justice.
   - **(8)** The term “tribal court”, “tribal court system”, or “tribal justice system” means the entire judicial branch, and employees thereof, of an Indian tribe, including, but not limited to, traditional methods and fora for dispute resolution, trial courts, appellate courts, including inter-tribal appellate courts, alternative dispute resolution systems, and circuit rider systems, established by inherent tribunal authority whether or not they constitute a court of record.
+
+## Source Credit
+
+*([Pub. L. 106–559, § 4](https://www.govinfo.gov/link/plaw/106/public/559), Dec. 21, 2000, [114 Stat. 2779](https://www.govinfo.gov/link/statute/114/2779); [Pub. L. 111–211, title II, § 214(a)(1)](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2270](https://www.govinfo.gov/link/statute/124/2270).)*

@@ -3,9 +3,10 @@ title: "Section 45H - Credit for production of low sulfur diesel fuel"
 usc_title: 26
 usc_section: "45H"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 45H"
-generated_at: "2026-03-30T02:55:27.602Z"
+generated_at: "2026-11-23T21:26:05.934Z"
+status: "active"
 ---
 
 # § 45H. Credit for production of low sulfur diesel fuel
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:27.602Z"
     - **(A)** such amount shall not increase the tax imposed on such patron, and
     - **(B)** the tax imposed by this chapter on such organization shall be increased by such amount.
 - **(g)** No credit shall be determined under subsection (a) for the taxable year if the taxpayer elects not to have subsection (a) apply to such taxable year.
+
+## Source Credit
+
+*(Added [Pub. L. 108–357, title III, § 339(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1481](https://www.govinfo.gov/link/statute/118/1481); amended [Pub. L. 110–172, § 7(a)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/172), (2)(A), (3)(A), (B), Dec. 29, 2007, [121 Stat. 2481](https://www.govinfo.gov/link/statute/121/2481), 2482; [Pub. L. 115–141, div. U, title IV, § 401(a)(19)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1185](https://www.govinfo.gov/link/statute/132/1185).)*

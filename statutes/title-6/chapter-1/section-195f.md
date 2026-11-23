@@ -3,9 +3,10 @@ title: "Section 195f - EMP and GMD mitigation research and development and threa
 usc_title: 6
 usc_section: "195f"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 195f"
-generated_at: "2026-03-30T02:53:09.450Z"
+generated_at: "2026-11-23T21:25:25.762Z"
+status: "active"
 ---
 
 # § 195f. EMP and GMD mitigation research and development and threat assessment, response, and recovery
@@ -68,3 +69,27 @@ generated_at: "2026-03-30T02:53:09.450Z"
 - **(e)** Nothing in this section may be construe— 1 1 So in original. Probably should be “construed—”.
   - **(1)** to affect in any manner the authority of the executive branch to implement Executive Order 13865, dated March 26, 2019 , and entitled “Coordinating National Resilience to Electromagnetic Pulses”, or any other authority existing on the day before December 20, 2019 , of any other component of the Department or any other Federal department or agency, including the authority provided to the Sector Risk Management Agency specified in section 61003(c) of division F of the Fixing America’s Surface Transportation Act ( 6 U.S.C. 121 note), including the authority under section 824 o of title 16, and including the authority of independent agencies to be independent; or
   - **(2)** as diminishing or transferring any authorities vested in the Administrator of the Federal Emergency Management Agency or in the Agency prior to December 20, 2019 .
+
+Benchmarks
+
+Definitions
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 107–296, title III, § 320](https://www.govinfo.gov/link/plaw/107/public/296), formerly § 319, as added [Pub. L. 114–328, div. A, title XIX, § 1913(a)(3)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2685](https://www.govinfo.gov/link/statute/130/2685); renumbered § 320 and amended [Pub. L. 115–278, § 2(g)(3)(B)](https://www.govinfo.gov/link/plaw/115/public/278), (C), Nov. 16, 2018, [132 Stat. 4178](https://www.govinfo.gov/link/statute/132/4178); [Pub. L. 116–92, div. A, title XVII, § 1740(a)(1)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1821](https://www.govinfo.gov/link/statute/133/1821); [Pub. L. 116–283, div. H, title XC, § 9002(c)(2)(A)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4772](https://www.govinfo.gov/link/statute/134/4772); [Pub. L. 117–263, div. G, title LXXI, § 7143(b)(2)(A)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3659](https://www.govinfo.gov/link/statute/136/3659).)*

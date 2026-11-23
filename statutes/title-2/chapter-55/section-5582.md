@@ -3,9 +3,10 @@ title: "Section 5582 - Office of Interparliamentary Affairs"
 usc_title: 2
 usc_section: "5582"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 5582"
-generated_at: "2026-03-30T02:53:04.838Z"
+generated_at: "2026-11-23T21:25:21.338Z"
+status: "active"
 ---
 
 # § 5582. Office of Interparliamentary Affairs
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:04.838Z"
 - **(e)**
 - **(f)** There are authorized to be appropriated for fiscal year 2003 and each succeeding fiscal year such sums as may be necessary to carry out this section.
 - **(g)** This section shall take effect on September 30, 2003 .
+
+## Source Credit
+
+*([Pub. L. 108–83, title I, § 103](https://www.govinfo.gov/link/plaw/108/public/83), Sept. 30, 2003, [117 Stat. 1016](https://www.govinfo.gov/link/statute/117/1016).)*

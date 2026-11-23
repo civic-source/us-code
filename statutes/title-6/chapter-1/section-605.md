@@ -3,9 +3,10 @@ title: "Section 605 - State Homeland Security Grant Program"
 usc_title: 6
 usc_section: "605"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 605"
-generated_at: "2026-03-30T02:53:09.472Z"
+generated_at: "2026-11-23T21:25:25.811Z"
+status: "active"
 ---
 
 # § 605. State Homeland Security Grant Program
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:53:09.472Z"
 - **(f)** There are authorized to be appropriated for grants under this section—
   - **(1)** $950,000,000 for each of fiscal years 2008 through 2012; and
   - **(2)** such sums as are necessary for fiscal year 2013, and each fiscal year thereafter.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XX, § 2004](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 110–53, title I, § 101](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 277](https://www.govinfo.gov/link/statute/121/277).)*

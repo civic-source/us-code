@@ -3,9 +3,10 @@ title: "Section 5422 - Administrative services and support"
 usc_title: 25
 usc_section: "5422"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5422"
-generated_at: "2026-03-30T02:54:52.872Z"
+generated_at: "2026-11-23T21:25:54.735Z"
+status: "active"
 ---
 
 # § 5422. Administrative services and support
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:52.872Z"
     - **(B)** funds provided under paragraph (2).
 - **(b)** Reimbursements accepted under subsection (a)(3) of this section shall be deposited in the Treasury to the credit of the appropriations then current and chargeable for the cost of providing services described in subsection (a)(1) of this section and the travel expenses described in subsection (a)(2) of this section.
 - **(c)** Notwithstanding any other provision of this section, the Secretary may continue to provide facilities and necessary support services to the Foundation after the termination of the 5-year period specified in subsection (a) of this section, on a space available, reimbursable cost basis.
+
+## Source Credit
+
+*([Pub. L. 93–638, title VIII, § 802](https://www.govinfo.gov/link/plaw/93/public/638), formerly title V, § 502, as added [Pub. L. 106–568, title XIII, § 1302](https://www.govinfo.gov/link/plaw/106/public/568), Dec. 27, 2000, [114 Stat. 2938](https://www.govinfo.gov/link/statute/114/2938); renumbered title VIII, § 802, and amended [Pub. L. 111–211, title II, § 231(d)](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2278](https://www.govinfo.gov/link/statute/124/2278).)*

@@ -3,9 +3,10 @@ title: "Section 163 - Role of Chairman of Joint Chiefs of Staff"
 usc_title: 10
 usc_section: "163"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 163"
-generated_at: "2026-03-30T02:53:38.042Z"
+generated_at: "2026-11-23T21:25:32.227Z"
+status: "active"
 ---
 
 # § 163. Role of Chairman of Joint Chiefs of Staff
@@ -20,3 +21,11 @@ generated_at: "2026-03-30T02:53:38.042Z"
     - **(B)** evaluate and integrate such information;
     - **(C)** advise and make recommendations to the Secretary of Defense with respect to the requirements of the combatant commands, individually and collectively; and
     - **(D)** communicate, as appropriate, the requirements of the combatant commands to other elements of the Department of Defense.
+
+Communications Through Chairman of JCS; Assignment of Duties
+
+Oversight by Chairman of Joint Chiefs of Staff
+
+## Source Credit
+
+*(Added [Pub. L. 99–433, title II, § 211(a)](https://www.govinfo.gov/link/plaw/99/public/433), Oct. 1, 1986, [100 Stat. 1013](https://www.govinfo.gov/link/statute/100/1013).)*

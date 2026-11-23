@@ -3,9 +3,10 @@ title: "Section 183a - Military Aviation and Installation Assurance Clearinghous
 usc_title: 10
 usc_section: "183a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 183a"
-generated_at: "2026-03-30T02:53:38.045Z"
+generated_at: "2026-11-23T21:25:32.234Z"
+status: "active"
 ---
 
 # § 183a. Military Aviation and Installation Assurance Clearinghouse for review of mission obstructions
@@ -84,3 +85,23 @@ generated_at: "2026-03-30T02:53:38.045Z"
     - **(A)** endanger safety in air commerce directly related to the activities of the Department of Defense;
     - **(B)** interfere with the efficient use of the navigable airspace directly related to the activities of the Department of Defense; or
     - **(C)** significantly impair or degrade the capability of the Department of Defense to conduct training, research, development, testing, and evaluation, and operations or to maintain military readiness.
+
+Establishment
+
+Functions
+
+Review of Proposed Actions
+
+Comprehensive Review
+
+Department of Defense Finding of Unacceptable Risk
+
+Authority to Accept Contributions of Funds
+
+Effect of Department of Defense Hazard Assessment
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 115–91, div. A, title III, § 311(a)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1343](https://www.govinfo.gov/link/statute/131/1343); amended [Pub. L. 116–92, div. A, title III](https://www.govinfo.gov/link/plaw/116/public/92), §§ 311, 312, 371, Dec. 20, 2019, [133 Stat. 1303](https://www.govinfo.gov/link/statute/133/1303), 1329; [Pub. L. 116–283, div. A, title III, § 311](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3513](https://www.govinfo.gov/link/statute/134/3513); [Pub. L. 117–81, div. A, title III, § 371(b)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1663](https://www.govinfo.gov/link/statute/135/1663); [Pub. L. 118–31, div. A, title III](https://www.govinfo.gov/link/plaw/118/public/31), §§ 361, 362, Dec. 22, 2023, [137 Stat. 231](https://www.govinfo.gov/link/statute/137/231); [Pub. L. 118–159, div. A, title III, § 311](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1851](https://www.govinfo.gov/link/statute/138/1851); [Pub. L. 119–60, div. A, title XVII, § 1701(a)(5)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1208](https://www.govinfo.gov/link/statute/139/1208).)*

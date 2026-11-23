@@ -3,9 +3,10 @@ title: "Section 2907 - Contract and grant authority; records and audits"
 usc_title: 15
 usc_section: "2907"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2907"
-generated_at: "2026-03-30T02:54:08.184Z"
+generated_at: "2026-11-23T21:25:39.957Z"
+status: "active"
 ---
 
 # § 2907. Contract and grant authority; records and audits
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.184Z"
 - **(b)**
   - **(1)** Each person or entity to which Federal funds are made available under a contract or grant arrangement as authorized by this chapter shall keep such records as the Director of the Office shall prescribe, including records which fully disclose the amount and disposition by such person or entity of such funds, the total cost of the activities for which such funds were so made available, the amount of that portion of such cost supplied from other sources, and such other records as will facilitate an effective audit.
   - **(2)** The Director of the Office and the Comptroller General of the United States, or any of their duly authorized representatives, shall, until the expiration of 3 years after the completion of the activities (referred to in paragraph (1)) of any person or entity pursuant to any contract or grant arrangement referred to in subsection (a), have access for the purpose of audit and examination to any books, documents, papers, and records of such person or entity which, in the judgment of the Director or the Comptroller General, may be related or pertinent to such contract or grant arrangement.
+
+## Source Credit
+
+*([Pub. L. 95–367, § 8](https://www.govinfo.gov/link/plaw/95/public/367), Sept. 17, 1978, [92 Stat. 604](https://www.govinfo.gov/link/statute/92/604).)*

@@ -3,9 +3,10 @@ title: "Section 504 - Administration"
 usc_title: 39
 usc_section: "504"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 504"
-generated_at: "2026-03-30T02:55:43.689Z"
+generated_at: "2026-11-23T21:26:12.771Z"
+status: "active"
 ---
 
 # § 504. Administration
@@ -35,3 +36,17 @@ generated_at: "2026-03-30T02:55:43.689Z"
   - **(3)**
     - **(A)** Paragraph (2) shall not prohibit the Commission from publicly disclosing relevant information in furtherance of its duties under this title, provided that the Commission has adopted regulations under section 553 of title 5 , that establish a procedure for according appropriate confidentiality to information identified by the Postal Service under paragraph (1). In determining the appropriate degree of confidentiality to be accorded information identified by the Postal Service under paragraph (1), the Commission shall balance the nature and extent of the likely commercial injury to the Postal Service against the public interest in maintaining the financial transparency of a government establishment competing in commercial markets.
     - **(B)** Paragraph (2) shall not prevent the Commission from requiring production of information in the course of any discovery procedure established in connection with a proceeding under this title. The Commission shall, by regulations based on rule 26(c) of the Federal Rules of Civil Procedure, establish procedures for ensuring appropriate confidentiality for information furnished to any party.
+
+In general
+
+Savings provision
+
+Section
+
+Sec
+
+Sec
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 759](https://www.govinfo.gov/link/statute/84/759), § 3604; [Pub. L. 94–421, § 4](https://www.govinfo.gov/link/plaw/94/public/421), Sept. 24, 1976, [90 Stat. 1305](https://www.govinfo.gov/link/statute/90/1305); renumbered § 504 and amended [Pub. L. 109–435, title VI](https://www.govinfo.gov/link/plaw/109/public/435), §§ 601(a)(3), 602, 603(a), 604(a), 605(b), Dec. 20, 2006, [120 Stat. 3239–3242](https://www.govinfo.gov/link/statute/120/3239); [Pub. L. 117–108, title II](https://www.govinfo.gov/link/plaw/117/public/108), §§ 205(a), 209(d), Apr. 6, 2022, [136 Stat. 1147](https://www.govinfo.gov/link/statute/136/1147), 1152; [Pub. L. 117–286, § 4(b)(64)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4350](https://www.govinfo.gov/link/statute/136/4350).)*

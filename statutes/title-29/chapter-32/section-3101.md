@@ -3,9 +3,10 @@ title: "Section 3101 - Purposes"
 usc_title: 29
 usc_section: "3101"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3101"
-generated_at: "2026-03-30T02:55:18.748Z"
+generated_at: "2026-11-23T21:26:02.322Z"
+status: "active"
 ---
 
 # § 3101. Purposes
@@ -18,3 +19,41 @@ The purposes of this Act are the following:
   - **(4)** To promote improvement in the structure of and delivery of services through the United States workforce development system to better address the employment and skill needs of workers, jobseekers, and employers.
   - **(5)** To increase the prosperity of workers and employers in the United States, the economic growth of communities, regions, and States, and the global competitiveness of the United States.
   - **(6)** For purposes of parts A and B of subchapter I, to provide workforce investment activities, through statewide and local workforce development systems, that increase the employment, retention, and earnings of participants, and increase attainment of recognized postsecondary credentials by participants, and as a result, improve the quality of the workforce, reduce welfare dependency, increase economic self-sufficiency, meet the skill requirements of employers, and enhance the productivity and competitiveness of the Nation.
+
+In General
+
+Application Date for Workforce Development Performance Accountability System.—
+
+In general
+
+Special provisions
+
+Application Date for State and Local Plan Provisions.—
+
+Implementation
+
+Special provisions
+
+Submission
+
+Disability Provisions
+
+“In recognition of the training needs of low-income adults and youth, the Congress declares it to be the policy of the United States to—
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 113–128, § 2](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1428](https://www.govinfo.gov/link/statute/128/1428).)*

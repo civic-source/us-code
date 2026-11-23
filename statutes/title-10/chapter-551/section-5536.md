@@ -3,9 +3,10 @@ title: "Section 5536 - Testing and assessment of missile defense systems prior t
 usc_title: 10
 usc_section: "5536"
 chapter: 551
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 5536"
-generated_at: "2026-03-30T02:53:38.217Z"
+generated_at: "2026-11-23T21:25:32.808Z"
+status: "active"
 ---
 
 # § 5536. Testing and assessment of missile defense systems prior to production and deployment
@@ -22,3 +23,15 @@ generated_at: "2026-03-30T02:53:38.217Z"
   - **(2)** submit to the congressional defense committees a written summary of such assessment.
 - **(c)** Nothing in this section shall be construed to alter, modify, or otherwise affect a determination of the Secretary with respect to the participation of the Missile Defense Agency in the Joint Capabilities Integration Development System or the acquisition reporting process under the Department of Defense Directive 5000 series, or to diminish the authority of the Secretary of Defense to deploy a missile defense system at the date on which the Secretary determines appropriate.
 - **(d)** In this section, the term “covered system” means a new or substantially upgraded interceptor or weapon system of the ballistic missile defense system.
+
+Successful Testing Required Prior to Final Production or Operational Deployment
+
+Assessment by Director of Operational Test and Evaluation
+
+Rule of Construction
+
+Covered System
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title XVI, § 1649(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2197](https://www.govinfo.gov/link/statute/138/2197).)*

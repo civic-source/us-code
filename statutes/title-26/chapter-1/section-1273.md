@@ -3,9 +3,10 @@ title: "Section 1273 - Determination of amount of original issue discount"
 usc_title: 26
 usc_section: "1273"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1273"
-generated_at: "2026-03-30T02:55:27.765Z"
+generated_at: "2026-11-23T21:26:06.483Z"
+status: "active"
 ---
 
 # § 1273. Determination of amount of original issue discount
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:27.765Z"
     - **(A)** the issue price for such unit shall be determined in accordance with the rules of this subsection and subsection (b) as if it were a debt instrument,
     - **(B)** the issue price determined for such unit shall be allocated to each element of such unit on the basis of the relationship of the fair market value of such element to the fair market value of all elements in such unit, and
     - **(C)** the issue price of any debt instrument included in such unit shall be the portion of the issue price of the unit allocated to the debt instrument under subparagraph (B).
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title I, § 41(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 536](https://www.govinfo.gov/link/statute/98/536); amended [Pub. L. 99–514, title XVIII, § 1803(a)(10)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2794](https://www.govinfo.gov/link/statute/100/2794).)*

@@ -3,9 +3,10 @@ title: "Section 852 - Taxation of regulated investment companies and their share
 usc_title: 26
 usc_section: "852"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 852"
-generated_at: "2026-03-30T02:55:27.733Z"
+generated_at: "2026-11-23T21:26:06.394Z"
+status: "active"
 ---
 
 # § 852. Taxation of regulated investment companies and their shareholders
@@ -168,3 +169,21 @@ generated_at: "2026-03-30T02:55:27.733Z"
     - **(A)** such fund shall be qualified to pay exempt-interest dividends to its shareholders without regard to whether such fund satisfies the requirements of the first sentence of subsection (b)(5), and
     - **(B)** such fund may elect the application of section 853 (relating to foreign tax credit allowed to shareholders) without regard to the requirement of subsection (a)(1) thereof.
   - **(2)** For purposes of this subsection, the term “qualified fund of funds” means a regulated investment company if (at the close of each quarter of the taxable year) at least 50 percent of the value of its total assets is represented by interests in other regulated investment companies.
+
+Interest on certain loans used to acquire employer securities
+
+In general
+
+Savings provision
+
+In general
+
+Investment companies which were regulated investment companies for years ending before november 8, 1983
+
+Investment companies beginning business in 1983
+
+Investment companies registering before november 8, 1983
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 271; July 11, 1956, ch. 573, § 2(a), [70 Stat. 530](https://www.govinfo.gov/link/statute/70/530); [Pub. L. 85–866, title I](https://www.govinfo.gov/link/plaw/85/public/866), §§ 39(a), 101(a), (b), Sept. 2, 1958, [72 Stat. 1638](https://www.govinfo.gov/link/statute/72/1638), 1674; [Pub. L. 86–779, § 10(b)(2)](https://www.govinfo.gov/link/plaw/86/public/779), (3), Sept. 14, 1960, [74 Stat. 1009](https://www.govinfo.gov/link/statute/74/1009); [Pub. L. 88–272, title II, § 229(a)(1)](https://www.govinfo.gov/link/plaw/88/public/272), (2), (b), Feb. 26, 1964, [78 Stat. 99](https://www.govinfo.gov/link/statute/78/99); [Pub. L. 91–172, title V, § 511(c)(2)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 637](https://www.govinfo.gov/link/statute/83/637); [Pub. L. 94–455, title XIV, § 1402(b)(1)(N)](https://www.govinfo.gov/link/plaw/94/public/455), (2), title XIX, §§ 1901(a)(110)(A), (B)(i), (C), (b)(1)(V), (6)(B), (33)(I), (J), (N), 1906(b)(13)(A), title XXI, § 2137(a)–(c), Oct. 4, 1976, [90 Stat. 1732](https://www.govinfo.gov/link/statute/90/1732), 1783, 1792, 1794, 1801, 1802, 1834, 1930, 1931; [Pub. L. 95–600, title III](https://www.govinfo.gov/link/plaw/95/public/600), §§ 301(b)(11), 362(c), title VII, § 701(s)(2), Nov. 6, 1978, [92 Stat. 2822](https://www.govinfo.gov/link/statute/92/2822), 2851, 2911; [Pub. L. 96–222, title I, § 104(a)(3)(B)](https://www.govinfo.gov/link/plaw/96/public/222), Apr. 1, 1980, [94 Stat. 215](https://www.govinfo.gov/link/statute/94/215); [Pub. L. 97–424, title V, § 547(b)(2)](https://www.govinfo.gov/link/plaw/97/public/424), Jan. 6, 1983, [96 Stat. 2199](https://www.govinfo.gov/link/statute/96/2199); [Pub. L. 98–369, div. A, title I, § 55(a)](https://www.govinfo.gov/link/plaw/98/public/369), title X, §§ 1001(b)(11), (e), 1071(a)(2)–(4), (b)(1), July 18, 1984, [98 Stat. 571](https://www.govinfo.gov/link/statute/98/571), 1011, 1012, 1049, 1050, 1052; [Pub. L. 99–514, title III, § 311(b)(1)](https://www.govinfo.gov/link/plaw/99/public/514), title VI, §§ 631(e)(11), 651(b)(1)(A), (2), (3), 655(a)(1), (2), title XI, § 1173(b)(1)(B), title XV, § 1511(c)(6), title XVIII, §§ 1804(c)(1)–(5), 1878(j), Oct. 22, 1986, [100 Stat. 2219](https://www.govinfo.gov/link/statute/100/2219), 2274, 2296, 2298, 2299, 2515, 2745, 2799, 2800, 2905; [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1006(l)(1)(A), (3), (4), (7)–(10), 1011B(h)(4), 1018(p), Nov. 10, 1988, [102 Stat. 3413–3415](https://www.govinfo.gov/link/statute/102/3413), 3491, 3585; [Pub. L. 101–239, title VII, § 7204(b)(1)](https://www.govinfo.gov/link/plaw/101/public/239), (c)(1), Dec. 19, 1989, [103 Stat. 2334](https://www.govinfo.gov/link/statute/103/2334), 2335; [Pub. L. 103–66, title XIII, § 13221(c)(1)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 477](https://www.govinfo.gov/link/statute/107/477); [Pub. L. 104–188, title I, § 1602(b)(3)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1833](https://www.govinfo.gov/link/statute/110/1833); [Pub. L. 105–34, title XI, § 1122(c)(2)](https://www.govinfo.gov/link/plaw/105/public/34), (3), title XII, § 1254(b)(2), Aug. 5, 1997, [111 Stat. 977](https://www.govinfo.gov/link/statute/111/977), 1033; [Pub. L. 106–170, title V, § 566(a)(1)](https://www.govinfo.gov/link/plaw/106/public/170), (c), Dec. 17, 1999, [113 Stat. 1950](https://www.govinfo.gov/link/statute/113/1950); [Pub. L. 109–222, title V, § 505(c)(1)](https://www.govinfo.gov/link/plaw/109/public/222), May 17, 2006, [120 Stat. 356](https://www.govinfo.gov/link/statute/120/356); [Pub. L. 110–172, § 11(a)(17)(A)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2486](https://www.govinfo.gov/link/statute/121/2486); [Pub. L. 111–325, title II, § 201(c)](https://www.govinfo.gov/link/plaw/111/public/325), title III, §§ 301(a)(1), (b), 302(a), (b)(1), 303(a), 308(a)–(b)(2), 309(a), (b), title V, § 502(a), Dec. 22, 2010, [124 Stat. 3541](https://www.govinfo.gov/link/statute/124/3541), 3542, 3547, 3548, 3550–3552, 3554; [Pub. L. 113–295, div. A, title II, § 205(a)(2)](https://www.govinfo.gov/link/plaw/113/public/295), (c), Dec. 19, 2014, [128 Stat. 4025](https://www.govinfo.gov/link/statute/128/4025), 4026; [Pub. L. 115–97, title I, § 13001(b)(2)(J)](https://www.govinfo.gov/link/plaw/115/public/97), (4), Dec. 22, 2017, [131 Stat. 2096](https://www.govinfo.gov/link/statute/131/2096), 2098; [Pub. L. 115–141, div. U, title IV, § 401(a)(144)](https://www.govinfo.gov/link/plaw/115/public/141), (145), Mar. 23, 2018, [132 Stat. 1191](https://www.govinfo.gov/link/statute/132/1191).)*

@@ -3,9 +3,10 @@ title: "Section 1881b - Observers"
 usc_title: 16
 usc_section: "1881b"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1881b"
-generated_at: "2026-03-30T02:54:22.995Z"
+generated_at: "2026-11-23T21:25:51.935Z"
+status: "active"
 ---
 
 # § 1881b. Observers
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:22.995Z"
   - **(4)** ensure that each observer has received training to identify indicators of forced labor and human trafficking (as such terms are defined in section 11329 of the Don Young Coast Guard Authorization Act of 2022) and refer this information to appropriate authorities; and
   - **(5)** make use of university and any appropriate private nonprofit organization training facilities and resources, where possible, in carrying out this subsection.
 - **(c)** An observer on a vessel and under contract to carry out responsibilities under this chapter or the Marine Mammal Protection Act of 1972 ( 16 U.S.C. 1361 et seq.) shall be deemed to be a Federal employee for the purpose of compensation under the Federal Employee Compensation Act ( 5 U.S.C. 8101 et seq.).
+
+## Source Credit
+
+*([Pub. L. 94–265, title IV, § 403](https://www.govinfo.gov/link/plaw/94/public/265), as added [Pub. L. 104–297, title II, § 204](https://www.govinfo.gov/link/plaw/104/public/297), Oct. 11, 1996, [110 Stat. 3609](https://www.govinfo.gov/link/statute/110/3609); amended [Pub. L. 117–263, div. K, title CXIII, § 11340](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4105](https://www.govinfo.gov/link/statute/136/4105).)*

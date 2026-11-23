@@ -3,12 +3,17 @@ title: "Section 1134c - Fellowship conditions"
 usc_title: 20
 usc_section: "1134c"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1134c"
-generated_at: "2026-03-30T02:54:48.146Z"
+generated_at: "2026-11-23T21:25:47.246Z"
+status: "active"
 ---
 
 # § 1134c. Fellowship conditions
 
 - **(a)** An individual awarded a fellowship under the provisions of this subpart shall continue to receive payments provided in section 1134b of this title only during such periods as the Secretary finds that such individual is maintaining satisfactory proficiency in, and devoting essentially full time to, study or research in the field in which such fellowship was awarded, in an institution of higher education, and is not engaging in gainful employment other than part-time employment by such institution in teaching, research, or similar activities, approved by the Secretary.
 - **(b)** The Secretary is authorized to require reports containing such information in such form and filed at such times as the Secretary determines necessary from any person awarded a fellowship under the provisions of this subpart. The reports shall be accompanied by a certificate from an appropriate official at the institution of higher education, library, archive, or other research center approved by the Secretary, stating that such individual is making satisfactory progress in, and is devoting essentially full time to the program for which the fellowship was awarded.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VII, § 704](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title VII, § 701](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1789](https://www.govinfo.gov/link/statute/112/1789).)*

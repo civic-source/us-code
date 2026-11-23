@@ -3,9 +3,10 @@ title: "Section 6428B - 2021 recovery rebates to individuals"
 usc_title: 26
 usc_section: "6428B"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6428B"
-generated_at: "2026-03-30T02:55:27.856Z"
+generated_at: "2026-11-23T21:26:06.882Z"
+status: "active"
 ---
 
 # § 6428B. 2021 recovery rebates to individuals
@@ -72,3 +73,21 @@ generated_at: "2026-03-30T02:55:27.856Z"
   - **(1)** regulations or other guidance providing taxpayers the opportunity to provide the Secretary information sufficient to allow the Secretary to make payments to such taxpayers under subsection (g) (including the determination of the amount of such payment) if such information is not otherwise available to the Secretary, and
   - **(2)** regulations or other guidance to ensure to the maximum extent administratively practicable that, in determining the amount of any credit under subsection (a) and any credit or refund under subsection (g), an individual is not taken into account more than once, including by different taxpayers and including by reason of a change in joint return status or dependent status between the taxable year for which an advance refund amount is determined and the taxable year for which a credit under subsection (a) is determined.
 - **(i)** The Secretary shall carry out a robust and comprehensive outreach program to ensure that all taxpayers described in subsection (h)(1) learn of their eligibility for the advance refunds and credits under subsection (g); are advised of the opportunity to receive such advance refunds and credits as provided under subsection (h)(1); and are provided assistance in applying for such advance refunds and credits.
+
+Payments to possessions with mirror code tax systems
+
+Payments to other possessions
+
+Inclusion of administrative expenses
+
+Coordination with credit allowed against united states income taxes
+
+Mirror code tax system
+
+Treatment of payments
+
+“Any refund payable by reason of section 6428B(g) of the Internal Revenue Code of 1986 (as added by this section), or any such refund payable by reason of subsection (b) of this section [set out above], shall not be—
+
+## Source Credit
+
+*(Added [Pub. L. 117–2, title IX, § 9601(a)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 138](https://www.govinfo.gov/link/statute/135/138).)*

@@ -3,9 +3,10 @@ title: "Section 3120 - Program of independent living services and assistance"
 usc_title: 38
 usc_section: "3120"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3120"
-generated_at: "2026-03-30T02:55:53.501Z"
+generated_at: "2026-11-23T21:26:16.730Z"
+status: "active"
 ---
 
 # § 3120. Program of independent living services and assistance
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:53.501Z"
   - **(1)** Programs of independent living services and assistance shall be initiated for no more than 2,700 veterans in each fiscal year, and the first priority in the provision of such programs shall be afforded to veterans for whom the reasonable feasibility of achieving a vocational goal is precluded solely as a result of a service-connected disability.
   - **(2)** The limitation in paragraph (1) shall not apply in any case in which the Secretary determines that a veteran described in subsection (b) has been displaced as the result of, or has otherwise been adversely affected in the areas covered by, a natural or other disaster, as determined by the Secretary.
 - **(f)** Entities described in this subsection are (1) public or nonprofit agencies or organizations, and (2) for-profit entities in cases in which the Secretary determines that services comparable in effectiveness to services available from such an entity are not available, or cannot be obtained cost-effectively from, public or nonprofit agencies or through facilities of the Veterans Health Administration.
+
+## Source Credit
+
+*(Added [Pub. L. 96–466, title I, § 101(a)](https://www.govinfo.gov/link/plaw/96/public/466), Oct. 17, 1980, [94 Stat. 2185](https://www.govinfo.gov/link/statute/94/2185), § 1520; amended [Pub. L. 99–576, title III, § 333(a)](https://www.govinfo.gov/link/plaw/99/public/576), (b)(6), (c), Oct. 28, 1986, [100 Stat. 3279](https://www.govinfo.gov/link/statute/100/3279); [Pub. L. 100–689, title II, § 202(b)](https://www.govinfo.gov/link/plaw/100/public/689), Nov. 18, 1988, [102 Stat. 4176](https://www.govinfo.gov/link/statute/102/4176); [Pub. L. 101–237, title IV](https://www.govinfo.gov/link/plaw/101/public/237), §§ 404, 423(b)(1), Dec. 18, 1989, [103 Stat. 2080](https://www.govinfo.gov/link/statute/103/2080), 2092; renumbered § 3120 and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 103–446, title XII, § 1201(b)(1)](https://www.govinfo.gov/link/plaw/103/public/446), (d)(11), Nov. 2, 1994, [108 Stat. 4682](https://www.govinfo.gov/link/statute/108/4682), 4684; [Pub. L. 104–275, title I, § 101(f)(2)(D)](https://www.govinfo.gov/link/plaw/104/public/275), (i), Oct. 9, 1996, [110 Stat. 3325](https://www.govinfo.gov/link/statute/110/3325); [Pub. L. 107–103, title V, § 508(a)](https://www.govinfo.gov/link/plaw/107/public/103), Dec. 27, 2001, [115 Stat. 997](https://www.govinfo.gov/link/statute/115/997); [Pub. L. 110–389, title III, § 332](https://www.govinfo.gov/link/plaw/110/public/389), Oct. 10, 2008, [122 Stat. 4170](https://www.govinfo.gov/link/statute/122/4170); [Pub. L. 111–275, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/111/public/275), Oct. 13, 2010, [124 Stat. 2888](https://www.govinfo.gov/link/statute/124/2888); [Pub. L. 112–154, title VII, § 701(c)](https://www.govinfo.gov/link/plaw/112/public/154), Aug. 6, 2012, [126 Stat. 1203](https://www.govinfo.gov/link/statute/126/1203).)*

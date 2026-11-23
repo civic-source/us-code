@@ -3,9 +3,10 @@ title: "Section 501 - Payments for unused accrued leave"
 usc_title: 37
 usc_section: "501"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 501"
-generated_at: "2026-03-30T02:55:44.059Z"
+generated_at: "2026-11-23T21:26:14.247Z"
+status: "active"
 ---
 
 # § 501. Payments for unused accrued leave
@@ -40,3 +41,77 @@ generated_at: "2026-03-30T02:55:44.059Z"
   - **(2)** who is retired for age in time of war and is continued on, or recalled to, active duty without a break in active service; or
   - **(3)** who is transferred to another department or agency of the United States under circumstances in which, by any other law, his leave may be transferred.
 - **(h)** Payment shall be made for all leave accumulated under section 701(f) of title 10 as soon as possible after the name of the person concerned is removed from a missing status, as defined in section 551(2) of this title .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 501(a) | 37:32(b), (d), (e), and (h). | Aug. 9, 1946, ch. 931, § 2(b) , (d), (e), (g), and (h), 60 Stat. 963 ; June 19, 1948, ch. 541, § 1(a) , 62 Stat. 506 . |
+| 501(b) | 37:33(c) (less 3d and last sentences). 37:32(g). | Aug. 9, 1946, ch. 931, § 4(c) , (d), 60 Stat. 964 ; restated Aug. 4, 1947, ch. 475, § 1 (less 1st 2 pars.), 61 Stat. 748 ; July 24, 1956, ch. 682, § 1 , 70 Stat. 625 . |
+|  | 37:39 (less last proviso). | Aug. 17, 1949, ch. 452, § 1 (less last proviso), 63 Stat. 611 . |
+| 501(c) | 37:33(c) (3d sentence). |  |
+| 501(d) | 37:33(c) (last sentence). |  |
+| 501(e) | 37:33(d). |  |
+| 501(f) | 37:31a(b) (proviso). | Aug. 9, 1946, ch. 931, § 3(b) (proviso); added Sept. 23, 1950, ch. 998, § 1 (proviso), 64 Stat. 979 . |
+| 501(g) | 42:210–1(c) (last sentence). 42:210–1(d) (as applicable to 42:210–1(c) (last sentence)). | July 1, 1944, ch. 373, § 219(c) (last sentence), (d) (as applicable to (c) (last sentence)); added Aug. 9, 1950, ch. 654, § 2 (last sentence of 3d par., and 4th par., as applicable to last sentence of 3d par.), 64 Stat. 426 . |
+
+
+Historical and Revision Notes
+
+501(a)
+
+Aug. 9, 1946, ch. 931, § 2(b)
+
+60 Stat. 963
+
+June 19, 1948, ch. 541, § 1(a)
+
+62 Stat. 506
+
+501(b)
+
+Aug. 9, 1946, ch. 931, § 4(c)
+
+60 Stat. 964
+
+Aug. 4, 1947, ch. 475, § 1
+
+61 Stat. 748
+
+July 24, 1956, ch. 682, § 1
+
+70 Stat. 625
+
+Aug. 17, 1949, ch. 452, § 1
+
+63 Stat. 611
+
+501(c)
+
+501(d)
+
+501(e)
+
+501(f)
+
+Aug. 9, 1946, ch. 931, § 3(b)
+
+Sept. 23, 1950, ch. 998, § 1
+
+64 Stat. 979
+
+501(g)
+
+July 1, 1944, ch. 373, § 219(c)
+
+Aug. 9, 1950, ch. 654, § 2
+
+64 Stat. 426
+
+Inapplicability of Eligibility Limitation
+
+Saving Provision for Certain Accrued Leave
+
+Regulations
+
+## Source Credit
+
+*([Pub. L. 87–649](https://www.govinfo.gov/link/plaw/87/public/649), Sept. 7, 1962, [76 Stat. 480](https://www.govinfo.gov/link/statute/76/480); [Pub. L. 89–151](https://www.govinfo.gov/link/plaw/89/public/151), §§ 1, 2, Aug. 28, 1965, [79 Stat. 586](https://www.govinfo.gov/link/statute/79/586); [Pub. L. 89–718](https://www.govinfo.gov/link/plaw/89/public/718), §§ 49(a)(1), 65, Nov. 2, 1966, [80 Stat. 1121](https://www.govinfo.gov/link/statute/80/1121), 1123; [Pub. L. 92–596, § 2](https://www.govinfo.gov/link/plaw/92/public/596), Oct. 27, 1972, [86 Stat. 1318](https://www.govinfo.gov/link/statute/86/1318); [Pub. L. 94–361, title III, § 304(a)](https://www.govinfo.gov/link/plaw/94/public/361) –(g), July 14, 1976, [90 Stat. 925](https://www.govinfo.gov/link/statute/90/925), 926; [Pub. L. 96–513, title V, § 516(14)](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2938](https://www.govinfo.gov/link/statute/94/2938); [Pub. L. 98–525, title VI, § 606(a)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2537](https://www.govinfo.gov/link/statute/98/2537); [Pub. L. 99–145, title VI, § 682](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 665](https://www.govinfo.gov/link/statute/99/665); [Pub. L. 100–26, § 8(e)(6)](https://www.govinfo.gov/link/plaw/100/public/26), (9), Apr. 21, 1987, [101 Stat. 286](https://www.govinfo.gov/link/statute/101/286), 287; [Pub. L. 102–25, title VII, § 702(b)(1)](https://www.govinfo.gov/link/plaw/102/public/25), (c), Apr. 6, 1991, [105 Stat. 117](https://www.govinfo.gov/link/statute/105/117); [Pub. L. 102–190, div. A, title VI, § 637](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1383](https://www.govinfo.gov/link/statute/105/1383); [Pub. L. 104–106, div. A, title VI, § 641](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 368](https://www.govinfo.gov/link/statute/110/368); [Pub. L. 106–65, div. A, title VI, § 671](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 674](https://www.govinfo.gov/link/statute/113/674); [Pub. L. 107–107, div. A, title VI, § 651(a)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1152](https://www.govinfo.gov/link/statute/115/1152); [Pub. L. 110–181, div. A, title V, § 551(d)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 117](https://www.govinfo.gov/link/statute/122/117); [Pub. L. 111–383, div. A, title V, § 516(b)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4213](https://www.govinfo.gov/link/statute/124/4213); [Pub. L. 112–239, div. A, title X, § 1076(h)(3)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1955](https://www.govinfo.gov/link/statute/126/1955); [Pub. L. 116–283, div. A, title IX, § 925(g)(1)(A)](https://www.govinfo.gov/link/plaw/116/public/283), (2), (3)(A), Jan. 1, 2021, [134 Stat. 3827](https://www.govinfo.gov/link/statute/134/3827), 3828; [Pub. L. 117–263, div. A, title VI, § 631(c)(2)(A)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2631](https://www.govinfo.gov/link/statute/136/2631); [Pub. L. 119–60, div. A, title VI, § 601(f)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 904](https://www.govinfo.gov/link/statute/139/904).)*

@@ -3,9 +3,10 @@ title: "Section 3328 - Selective Service registration"
 usc_title: 5
 usc_section: "3328"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3328"
-generated_at: "2026-03-30T02:52:56.002Z"
+generated_at: "2026-11-23T21:25:23.153Z"
+status: "active"
 ---
 
 # § 3328. Selective Service registration
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:52:56.002Z"
   - **(3)** for whom the requirement to register under section 3 of the Military Selective Service Act ( 50 U.S.C. 3802 ) has terminated or is now inapplicable due to age.
 - **(c)** The Office of Personnel Management, in consultation with the Director of the Selective Service System, shall prescribe regulations to carry out this section. Such regulations shall include provisions prescribing procedures for the adjudication of determinations of whether a failure to register was knowing and willful. Such procedures shall require that such a determination may not be made if the individual concerned shows by a preponderance of the evidence that the failure to register was neither knowing nor willful. Such procedures may provide that determinations of eligibility under the requirements of this section shall be adjudicated by the Executive agency making the appointment for which the eligibility is determined.
 - **(d)** In this section, the terms “active duty” and “veteran” have the meaning given those terms in section 101 of title 38 .
+
+## Source Credit
+
+*(Added [Pub. L. 99–145, title XVI, § 1622(a)(1)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 777](https://www.govinfo.gov/link/statute/99/777); amended [Pub. L. 100–180, div. A, title XII, § 1249](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1167](https://www.govinfo.gov/link/statute/101/1167); [Pub. L. 118–159, div. A, title XI, § 1108](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2089](https://www.govinfo.gov/link/statute/138/2089).)*

@@ -3,9 +3,10 @@ title: "Section 901 - Definitions"
 usc_title: 6
 usc_section: "901"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 901"
-generated_at: "2026-03-30T02:53:09.501Z"
+generated_at: "2026-11-23T21:25:25.852Z"
+status: "active"
 ---
 
 # § 901. Definitions
@@ -38,3 +39,7 @@ In this Act:
   - **(15)** The term “Secretary” means the Secretary of Homeland Security.
   - **(16)** The term “transportation disruption” means any significant delay, interruption, or stoppage in the flow of trade caused by a natural disaster, heightened threat level, an act of terrorism, or any transportation security incident (as defined in section 70101(6) 1 of title 46).
   - **(17)** The term “transportation security incident” has the meaning given the term in section 70101(6) 1 of title 46.
+
+## Source Credit
+
+*([Pub. L. 109–347, § 2](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1886](https://www.govinfo.gov/link/statute/120/1886).)*

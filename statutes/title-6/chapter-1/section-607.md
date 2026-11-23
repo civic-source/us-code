@@ -3,9 +3,10 @@ title: "Section 607 - Terrorism prevention"
 usc_title: 6
 usc_section: "607"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 607"
-generated_at: "2026-03-30T02:53:09.472Z"
+generated_at: "2026-11-23T21:25:25.811Z"
+status: "active"
 ---
 
 # § 607. Terrorism prevention
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:09.472Z"
     - **(E)** coordinate with the Science and Technology Directorate, the Federal Emergency Management Agency, the Department of Justice, the National Institute of Justice, law enforcement organizations, and other appropriate entities to support the development, promulgation, and updating, as necessary, of national voluntary consensus standards for training and personal protective equipment to be used in a tactical environment by law enforcement officers; and
     - **(F)** conduct, jointly with the Administrator, a study to determine the efficacy and feasibility of establishing specialized law enforcement deployment teams to assist State, local, and tribal governments in responding to natural disasters, acts of terrorism, or other man-made disasters and report on the results of that study to the appropriate committees of Congress.
   - **(5)** Nothing in this subsection shall be construed to diminish, supercede, or replace the responsibilities, authorities, or role of the Administrator.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XX, § 2006](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 110–53, title I, § 101](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 280](https://www.govinfo.gov/link/statute/121/280); amended [Pub. L. 114–190, title III, § 3602](https://www.govinfo.gov/link/plaw/114/public/190), July 15, 2016, [130 Stat. 665](https://www.govinfo.gov/link/statute/130/665).)*

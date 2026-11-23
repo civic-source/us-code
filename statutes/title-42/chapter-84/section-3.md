@@ -3,9 +3,10 @@ title: "Section 3 - Compensation schedule for survivors"
 usc_title: 42
 usc_section: "3"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T02:56:11.293Z"
+generated_at: "2026-11-23T21:26:33.072Z"
+status: "active"
 ---
 
 # § 7385s–3. Compensation schedule for survivors
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.293Z"
     - **(B)** had not attained the age of 23 years and was a full-time student who had been continuously enrolled as a full-time student in one or more educational institutions since attaining the age of 18 years; or
     - **(C)** had been incapable of self-support.
   - **(3)** The term “child” includes a recognized natural child, a stepchild who lived with an individual in a regular parent-child relationship, and an adopted child.
+
+## Source Credit
+
+*([Pub. L. 106–398, § 1 [div. C, title XXXVI, § 3674]](https://www.govinfo.gov/link/plaw/106/public/398), as added [Pub. L. 108–375, div. C, title XXXI, § 3161](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2180](https://www.govinfo.gov/link/statute/118/2180).)*

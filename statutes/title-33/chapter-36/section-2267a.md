@@ -3,9 +3,10 @@ title: "Section 2267a - Watershed and river basin assessments"
 usc_title: 33
 usc_section: "2267a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2267a"
-generated_at: "2026-03-30T02:55:41.117Z"
+generated_at: "2026-11-23T21:26:11.431Z"
+status: "active"
 ---
 
 # § 2267a. Watershed and river basin assessments
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:55:41.117Z"
   - **(2)** In carrying out this subsection, the Secretary shall give priority to—
     - **(A)** the watersheds of the island of Maui, Hawaii, including the Wahikuli, Honoko̅wai, Kahana, Honokahua, and Honolua watersheds, including the coral reef habitat north of Lahaina off the northwestern coast of the island of Maui; and
     - **(B)** the watersheds of the Northern Mariana Islands, American Samoa, and Guam.
+
+## Source Credit
+
+*([Pub. L. 99–662, title VII, § 729](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4164](https://www.govinfo.gov/link/statute/100/4164); [Pub. L. 106–541, title II, § 202](https://www.govinfo.gov/link/plaw/106/public/541), Dec. 11, 2000, [114 Stat. 2587](https://www.govinfo.gov/link/statute/114/2587); [Pub. L. 110–114, title II, § 2010](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1074](https://www.govinfo.gov/link/statute/121/1074); [Pub. L. 117–263, div. H, title LXXXI, § 8302](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3776](https://www.govinfo.gov/link/statute/136/3776); [Pub. L. 118–272, div. A, title I, § 1143](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3034](https://www.govinfo.gov/link/statute/138/3034).)*

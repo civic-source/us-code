@@ -3,9 +3,10 @@ title: "Section 20405 - Force shaping authority"
 usc_title: 10
 usc_section: "20405"
 chapter: 2009
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 20405"
-generated_at: "2026-03-30T02:53:38.282Z"
+generated_at: "2026-11-23T21:25:33.091Z"
+status: "active"
 ---
 
 # § 20405. Force shaping authority
@@ -19,3 +20,13 @@ generated_at: "2026-03-30T02:53:38.282Z"
     - **(B)** has completed more than six years of service as a commissioned officer in the armed forces, but has not completed the minimum service obligation applicable to that officer.
   - **(2)** In this subsection, the term “minimum service obligation”, with respect to a member of the Space Force, means the initial period of required active duty service applicable to the member, together with any additional period of required active duty service incurred by that member during the member’s initial period of required active duty service.
 - **(c)** The Secretary of the Air Force shall prescribe regulations for the exercise of the Secretary’s authority under this section.
+
+Authority
+
+Covered Officers.—
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVII, § 1718(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 658](https://www.govinfo.gov/link/statute/137/658).)*

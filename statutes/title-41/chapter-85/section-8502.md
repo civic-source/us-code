@@ -3,9 +3,10 @@ title: "Section 8502 - Committee for Purchase From People Who Are Blind or Sever
 usc_title: 41
 usc_section: "8502"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 8502"
-generated_at: "2026-03-30T02:55:55.812Z"
+generated_at: "2026-11-23T21:26:18.842Z"
+status: "active"
 ---
 
 # § 8502. Committee for Purchase From People Who Are Blind or Severely Disabled
@@ -42,3 +43,115 @@ generated_at: "2026-03-30T02:55:55.812Z"
 - **(h)** The Committee may secure directly from an entity of the Federal Government information necessary to enable it to carry out this chapter. On request of the Chairman, the head of the entity shall furnish the information to the Committee.
 - **(i)** The Administrator of General Services shall provide to the Committee, on a reimbursable basis, administrative support services the Committee requests.
 - **(j)** Not later than December 31 of each year, the Committee shall transmit to the President a report that includes the names of the Committee members serving in the prior fiscal year, the dates of Committee meetings in that year, a description of the activities of the Committee under this chapter in that year, and any recommendations for changes in this chapter which the Committee determines are necessary.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8502(a), (b) | 41:46(a) (less words in parentheses before par. (1)). | June 25, 1938, ch. 697, § 1 (less (a) (words in parentheses before par. (1))), 52 Stat. 1196 ; Pub. L. 92–28, § 1 , June 23, 1971 , 85 Stat. 77 ; Pub. L. 93–358, § 1(1) , (2), July 25, 1974 , 88 Stat. 392 ; Pub. L. 94–273, § 8(2) , Apr. 21, 1976 , 90 Stat. 378 ; Pub. L. 102–54, § 13(p) , June 13, 1991 , 105 Stat. 278 ; Pub. L. 102–569, title IX, § 911(a) , Oct. 29, 1992 , 106 Stat. 4486 ; Pub. L. 103–73, title III, § 301 , Aug. 11, 1993 , 107 Stat. 736 . |
+| 8502(c) | 41:46(d)(1), (2), (4). |  |
+| 8502(d) | 41:46(c). |  |
+| 8502(e)(1) | 41:46(b). |  |
+| 8502(e)(2) | 41:46(d)(3). |  |
+| 8502(f) | 41:46(e). |  |
+| 8502(g) | 41:46(f). |  |
+| 8502(h) | 41:46(g). |  |
+| 8502(i) | 41:46(h). |  |
+| 8502(j) | 41:46(i). |  |
+
+
+Establishment
+
+Composition
+
+Terms of Office
+
+Chairman
+
+Vacancy.—
+
+Manner in which filled
+
+Unfulfilled term
+
+Pay and Travel Expenses.—
+
+Amount to which members are entitled
+
+Officers or employees of the federal government
+
+Staff.—
+
+Appointment and compensation
+
+Personnel from other entities
+
+Obtaining Official Information
+
+Administrative Support Services
+
+Annual Report
+
+Historical and Revision Notes
+
+8502(a), (b)
+
+June 25, 1938, ch. 697, § 1
+
+52 Stat. 1196
+
+Pub. L. 92–28, § 1
+
+June 23, 1971
+
+85 Stat. 77
+
+Pub. L. 93–358, § 1(1)
+
+July 25, 1974
+
+88 Stat. 392
+
+Pub. L. 94–273, § 8(2)
+
+Apr. 21, 1976
+
+90 Stat. 378
+
+Pub. L. 102–54, § 13(p)
+
+June 13, 1991
+
+105 Stat. 278
+
+Pub. L. 102–569, title IX, § 911(a)
+
+Oct. 29, 1992
+
+106 Stat. 4486
+
+Pub. L. 103–73, title III, § 301
+
+Aug. 11, 1993
+
+107 Stat. 736
+
+8502(c)
+
+8502(d)
+
+8502(e)(1)
+
+8502(e)(2)
+
+8502(f)
+
+8502(g)
+
+8502(h)
+
+8502(i)
+
+8502(j)
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3835](https://www.govinfo.gov/link/statute/124/3835).)*

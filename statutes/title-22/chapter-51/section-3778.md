@@ -3,9 +3,10 @@ title: "Section 3778 - Board of local inspectors"
 usc_title: 22
 usc_section: "3778"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3778"
-generated_at: "2026-03-30T02:55:05.397Z"
+generated_at: "2026-11-23T21:25:58.597Z"
+status: "active"
 ---
 
 # § 3778. Board of local inspectors
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.397Z"
   - **(1)** the investigations required by section 3777 of this title ; and
   - **(2)** such other duties with respect to marine matters as may be assigned by the President.
 - **(b)** In conducting any investigation pursuant to subsection (a) of this section, the Board of Local Inspectors established pursuant to such subsection may summon witnesses, administer oaths, and require the production of books and papers necessary for such investigation.
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1418](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 487](https://www.govinfo.gov/link/statute/93/487).)*

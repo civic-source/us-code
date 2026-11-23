@@ -3,9 +3,10 @@ title: "Section 13451 - General improved energy efficiency"
 usc_title: 42
 usc_section: "13451"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13451"
-generated_at: "2026-03-30T02:56:11.445Z"
+generated_at: "2026-11-23T21:26:33.607Z"
+status: "active"
 ---
 
 # § 13451. General improved energy efficiency
@@ -26,3 +27,17 @@ generated_at: "2026-03-30T02:56:11.445Z"
 - **(c)** Within 180 days after October 24, 1992 , the Secretary shall prepare and submit to the Congress a 5-year program plan to guide activities under this part. In preparing the program plan, the Secretary shall consult with appropriate representatives of industry, utilities, institutions of higher education, Federal agencies, including national laboratories, and professional and technical societies.
 - **(d)** Within 1 year after October 24, 1992 , the Secretary shall solicit proposals for conducting activities under this section.
 - **(e)** There are authorized to be appropriated to the Secretary for carrying out this part, including all building, industry, and utility sectors energy conservation research and development, and inventions and innovation under energy conservation technical and financial assistance, $178,250,000 for fiscal year 1993 and $275,000,000 for fiscal year 1994.
+
+In General
+
+Report
+
+In General
+
+Procedure
+
+Demonstration
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXI, § 2101](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3067](https://www.govinfo.gov/link/statute/106/3067).)*

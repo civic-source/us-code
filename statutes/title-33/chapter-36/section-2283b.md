@@ -3,9 +3,10 @@ title: "Section 2283b - Clarification of mitigation authority"
 usc_title: 33
 usc_section: "2283b"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2283b"
-generated_at: "2026-03-30T02:55:41.120Z"
+generated_at: "2026-11-23T21:26:11.438Z"
+status: "active"
 ---
 
 # § 2283b. Clarification of mitigation authority
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:41.120Z"
 - **(b)**
   - **(1)** Subject to paragraph (2), the non-Federal interest shall contribute 35 percent of the total cost of carrying out activities under this section, including the costs relating to the provision or acquisition of required land, easements, rights-of-way, dredged material disposal areas, and relocations.
   - **(2)** The non-Federal interest shall contribute 100 percent of the costs of operation, maintenance, replacement, repair, and rehabilitation of the measures carried out under this section.
+
+## Source Credit
+
+*([Pub. L. 113–121, title I, § 1028](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1230](https://www.govinfo.gov/link/statute/128/1230).)*

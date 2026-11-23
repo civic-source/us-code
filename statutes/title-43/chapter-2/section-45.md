@@ -3,12 +3,17 @@ title: "Section 45 - Production and sale of copies of photographs and records; d
 usc_title: 43
 usc_section: "45"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 45"
-generated_at: "2026-03-30T02:55:57.434Z"
+generated_at: "2026-11-23T21:26:19.742Z"
+status: "active"
 ---
 
 # § 45. Production and sale of copies of photographs and records; disposition of receipts
 
 The Director of the United States Geological Survey on and after March 4, 1909 may produce and sell on a reimbursable basis to interested persons, concerns, and institutions, copies of aerial or other photographs and mosaics that have been obtained in connection with the authorized work of the United States Geological Survey and photographic or photostatic reproductions of records in the official custody of the Director at such prices (not less than the estimated cost of furnishing such copies or reproductions) as the Director, with the approval of the Secretary of the Interior, may determine, the money received from such sales to be deposited in the Treasury to the credit of the appropriation then current and chargeable for the cost of furnishing copies or reproductions as herein authorized.
 
+
+## Source Credit
+
+*(Mar. 4, 1909, ch. 299, [35 Stat. 989](https://www.govinfo.gov/link/statute/35/989); July 21, 1947, ch. 273, [61 Stat. 398](https://www.govinfo.gov/link/statute/61/398).)*

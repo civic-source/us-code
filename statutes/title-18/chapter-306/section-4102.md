@@ -3,9 +3,10 @@ title: "Section 4102 - Authority of the Attorney General"
 usc_title: 18
 usc_section: "4102"
 chapter: 306
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 4102"
-generated_at: "2026-03-30T02:54:16.527Z"
+generated_at: "2026-11-23T21:25:44.238Z"
+status: "active"
 ---
 
 # § 4102. Authority of the Attorney General
@@ -23,3 +24,7 @@ The Attorney General is authorized—
   - **(9)** in concert with the Secretary of Health, Education, and Welfare, to make arrangements with the appropriate authorities of a foreign country and to issue regulations for the transfer and treatment of individuals who are accused of an offense but who have been determined to be mentally ill; the expenses of which shall be paid by the country of which such person is a citizen or national;
   - **(10)** to designate agents to receive, on behalf of the United States, the delivery by a foreign government of any citizen or national of the United States being transferred to the United States for the purpose of serving a sentence imposed by the courts of the foreign country, and to convey him to the place designated by the Attorney General. Such agent shall have all the powers of a marshal of the United States in the several districts through which it may be necessary for him to pass with the offender, so far as such power is requisite for the offender’s transfer and safekeeping; within the territory of a foreign country such agent shall have such powers as the authorities of the foreign country may accord him;
   - **(11)** to delegate the authority conferred by this chapter to officers of the Department of Justice.
+
+## Source Credit
+
+*(Added [Pub. L. 95–144, § 1](https://www.govinfo.gov/link/plaw/95/public/144), Oct. 28, 1977, [91 Stat. 1214](https://www.govinfo.gov/link/statute/91/1214).)*

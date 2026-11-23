@@ -3,9 +3,10 @@ title: "Section 3114 - Appointment of candidates to certain positions in the com
 usc_title: 5
 usc_section: "3114"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3114"
-generated_at: "2026-03-30T02:52:55.999Z"
+generated_at: "2026-11-23T21:25:23.136Z"
+status: "active"
 ---
 
 # § 3114. Appointment of candidates to certain positions in the competitive service by the Securities and Exchange Commission
@@ -24,3 +25,19 @@ generated_at: "2026-03-30T02:52:55.999Z"
   - **(5)** the effect of the exercise of the authority on the hiring of veterans and other demographic groups; and
   - **(6)** the way in which managers were trained in the administration of the streamlined hiring system.
 - **(d)** For purposes of this section, the term “Commission” means the Securities and Exchange Commission.
+
+Applicability
+
+Appointment Authority.—
+
+In general
+
+Rule of construction
+
+Reports
+
+Commission Defined
+
+## Source Credit
+
+*(Added [Pub. L. 108–44, § 2(a)](https://www.govinfo.gov/link/plaw/108/public/44), July 3, 2003, [117 Stat. 842](https://www.govinfo.gov/link/statute/117/842); amended [Pub. L. 111–203, title IX, § 929G(a)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1855](https://www.govinfo.gov/link/statute/124/1855).)*

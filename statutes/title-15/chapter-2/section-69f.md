@@ -3,9 +3,10 @@ title: "Section 69f - Enforcement of subchapter"
 usc_title: 15
 usc_section: "69f"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 69f"
-generated_at: "2026-03-30T02:54:08.029Z"
+generated_at: "2026-11-23T21:25:39.493Z"
+status: "active"
 ---
 
 # § 69f. Enforcement of subchapter
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:08.029Z"
 - **(d)**
   - **(1)** Every manufacturer or dealer in fur products or furs shall maintain proper records showing the information required by this subchapter with respect to all fur products or furs handled by him, and shall preserve such rec­ords for at least three years.
   - **(2)** The neglect or refusal to maintain and preserve such records is unlawful, and any such manufacturer or dealer who neglects or refuses to maintain and preserve such records shall forfeit to the United States the sum of $100 for each day of such failure which shall accrue to the United States and be recoverable by a civil action.
+
+## Source Credit
+
+*(Aug. 8, 1951, ch. 298, § 8, [65 Stat. 179](https://www.govinfo.gov/link/statute/65/179).)*

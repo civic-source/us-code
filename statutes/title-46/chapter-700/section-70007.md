@@ -3,9 +3,10 @@ title: "Section 70007 - Anchorage grounds"
 usc_title: 46
 usc_section: "70007"
 chapter: 700
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 70007"
-generated_at: "2026-03-30T02:56:15.585Z"
+generated_at: "2026-11-23T21:26:37.342Z"
+status: "active"
 ---
 
 # § 70007. Anchorage grounds
@@ -22,3 +23,19 @@ generated_at: "2026-03-30T02:56:15.585Z"
   - **(2)** anchor in near proximity, within distances determined by the Coast Guard, to an undersea pipeline or cable, unless authorized or directed to by the Captain of the Port; and
   - **(3)** anchor or remain anchored in an anchorage ground during any period in which the Captain of the Port orders closure of the anchorage ground due to inclement weather, navigational hazard, a threat to the environment, or other safety or security concern.
 - **(d)** Nothing in this section shall be construed to prevent a vessel from taking actions necessary to maintain the safety of the vessel or to prevent the loss of life or property.
+
+Anchorage Grounds.—
+
+Establishment
+
+Relevant factors for establishment
+
+Vessel Requirements
+
+Prohibitions
+
+Safety Exception
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. K, title CXIII, § 11318(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4090](https://www.govinfo.gov/link/statute/136/4090).)*

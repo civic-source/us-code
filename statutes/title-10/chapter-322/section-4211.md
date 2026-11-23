@@ -3,9 +3,10 @@ title: "Section 4211 - Acquisition strategy"
 usc_title: 10
 usc_section: "4211"
 chapter: 322
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4211"
-generated_at: "2026-03-30T02:53:38.205Z"
+generated_at: "2026-11-23T21:25:32.764Z"
+status: "active"
 ---
 
 # § 4211. Acquisition strategy
@@ -31,3 +32,17 @@ generated_at: "2026-03-30T02:53:38.205Z"
     - **(H)** A process of testing and experimentation with the test community and end users to ensure continuous user feedback, acceptance, and development of concepts of operations.
 - **(d)** The decision authority shall review and approve, as appropriate, the acquisition strategy for a major defense acquisition program or major system prior to the acquisition decision memorandum and ensure that the strategy is updated at regular intervals to incorporate significant changes to program requirements, resourcing, or acquisition decisions.
 - **(e)** In this section, the term “decision authority”, with respect to a major defense acquisition program or major system, means the official within the Department of Defense designated with the overall responsibility and authority for acquisition decisions for the program or system, including authority to approve entry of the program or system into the next phase of the acquisition process.
+
+Acquisition Strategy Required
+
+Responsible Official
+
+Considerations
+
+Review
+
+Decision Authority Defined
+
+## Source Credit
+
+*(Added [Pub. L. 114–92, div. A, title VIII, § 821(a)(1)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 897](https://www.govinfo.gov/link/statute/129/897), § 2431a; amended [Pub. L. 114–328, div. A, title VIII, § 848](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2292](https://www.govinfo.gov/link/statute/130/2292); [Pub. L. 115–91, div. A, title X, § 1081(a)(39)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1596](https://www.govinfo.gov/link/statute/131/1596); [Pub. L. 116–92, div. A, title IX, § 902(70)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1551](https://www.govinfo.gov/link/statute/133/1551); renumbered § 4211 and amended [Pub. L. 116–283, div. A, title XVIII, § 1847(b)(1)](https://www.govinfo.gov/link/plaw/116/public/283), (2), Jan. 1, 2021, [134 Stat. 4253](https://www.govinfo.gov/link/statute/134/4253); [Pub. L. 117–81, div. A, title XVII, § 1701(s)(1)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2149](https://www.govinfo.gov/link/statute/135/2149); [Pub. L. 118–159, div. A, title XVII, § 1701(a)(39)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2205](https://www.govinfo.gov/link/statute/138/2205); [Pub. L. 119–60, div. A, title XVIII, § 1805(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1235](https://www.govinfo.gov/link/statute/139/1235).)*

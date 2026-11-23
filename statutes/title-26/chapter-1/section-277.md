@@ -3,9 +3,10 @@ title: "Section 277 - Deductions incurred by certain membership organizations in
 usc_title: 26
 usc_section: "277"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 277"
-generated_at: "2026-03-30T02:55:27.660Z"
+generated_at: "2026-11-23T21:26:06.122Z"
+status: "active"
 ---
 
 # § 277. Deductions incurred by certain membership organizations in transactions with members
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:27.660Z"
   - **(2)** which has made an election before October 9, 1969 , under section 456(c) or which is affiliated with such an organization,
   - **(3)** which for each day of any taxable year is a national securities exchange subject to regulation under the Securities Exchange Act of 1934 or a contract market subject to regulation under the Commodity Exchange Act, or
   - **(4)** which is engaged primarily in the gathering and distribution of news to its members for publication.
+
+## Source Credit
+
+*(Added [Pub. L. 91–172, title I, § 121(b)(3)(A)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 540](https://www.govinfo.gov/link/statute/83/540); amended [Pub. L. 94–568, § 1(c)](https://www.govinfo.gov/link/plaw/94/public/568), Oct. 20, 1976, [90 Stat. 2697](https://www.govinfo.gov/link/statute/90/2697); [Pub. L. 99–514, title XVI, § 1604(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2769](https://www.govinfo.gov/link/statute/100/2769); [Pub. L. 113–295, div. A, title II, § 221(a)(41)(G)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4044](https://www.govinfo.gov/link/statute/128/4044).)*

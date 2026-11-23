@@ -3,9 +3,10 @@ title: "Section 940 - Deputy commissioners"
 usc_title: 33
 usc_section: "940"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 940"
-generated_at: "2026-03-30T02:55:41.079Z"
+generated_at: "2026-11-23T21:26:11.353Z"
+status: "active"
 ---
 
 # § 940. Deputy commissioners
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:41.079Z"
 - **(d)** Each deputy commissioner shall maintain and keep open during reasonable business hours an office, at a place designated by the Secretary, for the transaction of business under this chapter, at which office he shall keep his official records and papers. Such office shall be furnished and equipped by the Secretary, who shall also furnish the deputy commissioner with all necessary clerical and other assistants, records, books, blanks, and supplies. Wherever practicable such office shall be located in a building owned or leased by the United States; otherwise the Secretary shall rent suitable quarters.
 - **(e)** If any deputy commissioner is removed from office, or for any reason ceases to act as such deputy commissioner, all of his official records and papers and office equipment shall be transferred to his successor in office or, if there be no successor, then to the Secretary or to a deputy commissioner designated by the Secretary.
 - **(f)** Neither a deputy commissioner or Board member nor any business associate of a deputy commissioner or Board member shall appear as attorney in any proceeding under this chapter, and no deputy commissioner or Board member shall act in any such case in which he is interested, or when he is employed by any party in interest or related to any party in interest by consanguinity or affinity within the third degree, as determined by the common law.
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 509, § 40, [44 Stat. 1443](https://www.govinfo.gov/link/statute/44/1443); Oct. 28, 1949, ch. 782, title XI, § 1106(a), [63 Stat. 972](https://www.govinfo.gov/link/statute/63/972); [Pub. L. 92–576, § 15(j)](https://www.govinfo.gov/link/plaw/92/public/576), Oct. 27, 1972, [86 Stat. 1262](https://www.govinfo.gov/link/statute/86/1262); [Pub. L. 98–426, § 27(a)(2)](https://www.govinfo.gov/link/plaw/98/public/426), Sept. 28, 1984, [98 Stat. 1654](https://www.govinfo.gov/link/statute/98/1654).)*

@@ -3,9 +3,10 @@ title: "Section 1592 - Authorization to construct, operate, and maintain salinit
 usc_title: 43
 usc_section: "1592"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1592"
-generated_at: "2026-03-30T02:55:57.477Z"
+generated_at: "2026-11-23T21:26:19.847Z"
+status: "active"
 ---
 
 # § 1592. Authorization to construct, operate, and maintain salinity control units and salinity control programs
@@ -35,3 +36,21 @@ generated_at: "2026-03-30T02:55:57.477Z"
   - **(5)** The Secretary may, under authority of this subchapter and limited to the purposes of this chapter, fund through a grant or contract, for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts, a non-Federal entity to operate and maintain measures to replace incidental fish and wildlife values foregone.
   - **(6)** In implementing the units authorized to be constructed pursuant to subsection (a), the Secretary shall implement measures to replace incidental fish and wildlife values foregone concurrently with the implementation of a unit’s, or a portion of a unit’s, related features.
 - **(c)** The Secretary of Agriculture shall carry out salinity control measures (including watershed enhancement and cost-share measures with livestock and crop producers) in the Colorado River Basin as part of the environmental quality incentives program established under subchapter A of chapter 4 of subtitle D of title XII of the Food Security Act of 1985 [ 16 U.S.C. 3839aa et seq.].
+
+Basin states program.—
+
+In general
+
+Assistance
+
+Activities
+
+Report.—
+
+In general
+
+Implementation
+
+## Source Credit
+
+*([Pub. L. 93–320, title II, § 202](https://www.govinfo.gov/link/plaw/93/public/320), June 24, 1974, [88 Stat. 271](https://www.govinfo.gov/link/statute/88/271); [Pub. L. 98–569, § 2](https://www.govinfo.gov/link/plaw/98/public/569), Oct. 30, 1984, [98 Stat. 2933](https://www.govinfo.gov/link/statute/98/2933); [Pub. L. 104–20, § 1(1)](https://www.govinfo.gov/link/plaw/104/public/20), (4), July 28, 1995, [109 Stat. 255](https://www.govinfo.gov/link/statute/109/255), 256; [Pub. L. 104–127, title III, § 336(c)(1)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1006](https://www.govinfo.gov/link/statute/110/1006); [Pub. L. 110–234, title II, § 2806(a)](https://www.govinfo.gov/link/plaw/110/public/234), (b)(1), May 22, 2008, [122 Stat. 1089](https://www.govinfo.gov/link/statute/122/1089); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title II, § 2806(a), (b)(1), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1817; [Pub. L. 115–334, title II, § 2301(d)(2)(G)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4555](https://www.govinfo.gov/link/statute/132/4555).)*

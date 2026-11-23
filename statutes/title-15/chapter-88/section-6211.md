@@ -3,9 +3,10 @@ title: "Section 6211 - Definitions"
 usc_title: 15
 usc_section: "6211"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6211"
-generated_at: "2026-03-30T02:54:08.209Z"
+generated_at: "2026-11-23T21:25:40.020Z"
+status: "active"
 ---
 
 # § 6211. Definitions
@@ -40,3 +41,7 @@ For purposes of this chapter:
   - **(9)** The term “regional economic integration organization” means an organization that is constituted by, and composed of, foreign states, and on which such foreign states have conferred sovereign authority to make decisions that are binding on such foreign states, and that are directly applicable to and binding on persons within such foreign states, including the decisions with respect to—
     - **(A)** administering or enforcing the foreign antitrust laws of such organization, and
     - **(B)** prohibiting and regulating disclosure of information that is obtained by such organization in the course of administering or enforcing such laws.
+
+## Source Credit
+
+*([Pub. L. 103–438, § 12](https://www.govinfo.gov/link/plaw/103/public/438), Nov. 2, 1994, [108 Stat. 4603](https://www.govinfo.gov/link/statute/108/4603).)*

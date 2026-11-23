@@ -3,9 +3,10 @@ title: "Section 2069 - Civil penalties"
 usc_title: 15
 usc_section: "2069"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2069"
-generated_at: "2026-03-30T02:54:08.165Z"
+generated_at: "2026-11-23T21:25:39.909Z"
+status: "active"
 ---
 
 # § 2069. Civil penalties
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:08.165Z"
 - **(b)** In determining the amount of any penalty to be sought upon commencing an action seeking to assess a penalty for a violation of section 2068(a) of this title , the Commission shall consider the nature, circumstances, extent, and gravity of the violation, including the nature of the product defect, the severity of the risk of injury, the occurrence or absence of injury, the number of defective products distributed, the appropriateness of such penalty in relation to the size of the business of the person charged, including how to mitigate undue adverse economic impacts on small businesses, and such other factors as appropriate.
 - **(c)** Any civil penalty under this section may be compromised by the Commission. In determining the amount of such penalty or whether it should be remitted or mitigated and in what amount, the Commission shall consider the appropriateness of such penalty to the size of the business of the person charged, including how to mitigate undue adverse economic impacts on small businesses, the nature, circumstances, extent, and gravity of the violation, including, 1 1 So in original. The comma probably should not appear. the nature of the product defect, the severity of the risk of injury, the occurrence or absence of injury, and the number of defective products distributed, and such other factors as appropriate. The amount of such penalty when finally determined, or the amount agreed on compromise, may be deducted from any sums owing by the United States to the person charged.
 - **(d)** As used in the first sentence of subsection (a)(1) of this section, the term “knowingly” means (1) the having of actual knowledge, or (2) the presumed having of knowledge deemed to be possessed by a reasonable man who acts in the circumstances, including knowledge obtainable upon the exercise of due care to ascertain the truth of representations.
+
+## Source Credit
+
+*([Pub. L. 92–573, § 20](https://www.govinfo.gov/link/plaw/92/public/573), Oct. 27, 1972, [86 Stat. 1225](https://www.govinfo.gov/link/statute/86/1225); [Pub. L. 94–284, § 13(b)](https://www.govinfo.gov/link/plaw/94/public/284), May 11, 1976, [90 Stat. 509](https://www.govinfo.gov/link/statute/90/509); [Pub. L. 95–631, § 6(c)](https://www.govinfo.gov/link/plaw/95/public/631), Nov. 10, 1978, [92 Stat. 3745](https://www.govinfo.gov/link/statute/92/3745); [Pub. L. 97–35, title XII, § 1211(c)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 721](https://www.govinfo.gov/link/statute/95/721); [Pub. L. 101–608, title I](https://www.govinfo.gov/link/plaw/101/public/608), §§ 112(e), 115(a), Nov. 16, 1990, [104 Stat. 3117](https://www.govinfo.gov/link/statute/104/3117), 3118; [Pub. L. 110–314, title II, § 217(a)(1)](https://www.govinfo.gov/link/plaw/110/public/314), (b)(1)(A), Aug. 14, 2008, [122 Stat. 3058](https://www.govinfo.gov/link/statute/122/3058).)*

@@ -3,9 +3,10 @@ title: "Section 1784 - Employment opportunities for military spouses"
 usc_title: 10
 usc_section: "1784"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1784"
-generated_at: "2026-03-30T02:53:38.137Z"
+generated_at: "2026-11-23T21:25:32.540Z"
+status: "active"
 ---
 
 # § 1784. Employment opportunities for military spouses
@@ -38,3 +39,123 @@ generated_at: "2026-03-30T02:53:38.137Z"
     - **(B)** Determine the appropriate capacity for the program based on the availability of appropriations for such purpose.
     - **(C)** Establish criteria to evaluate the effectiveness and cost-effectiveness of the program in supporting the employment of such spouses.
   - **(2)** The authority to carry out the program under this subsection shall terminate on January 1, 2031 .
+
+Authority
+
+Regulations
+
+Status of Preference Eligibles
+
+Space-Available Use of Facilities for Spouse Training Purposes
+
+Employment by Other Federal Agencies
+
+Private-Sector Employment
+
+Employment With DOD Contractors
+
+Improvement of Occupational License Portability Through Interstate Compacts.—
+
+In general
+
+Limitation on assistance per compact
+
+Limitation on total amount of assistance
+
+Annual report
+
+Employment Fellowship Opportunities
+
+Establishment
+
+Limitation on Total Amount of Assistance
+
+Reports
+
+Final Report
+
+Termination
+
+Plan Required
+
+Implementation; Deadline
+
+In General
+
+Authority
+
+Position Described
+
+Term of Appointment.—
+
+In general
+
+Renewal
+
+Termination
+
+Payment of Travel and Transportation Allowances
+
+Relationship to Other Law
+
+Reports Required.—
+
+In general
+
+Final report
+
+Termination
+
+Definitions
+
+Appropriate committees of congress
+
+Secretary concerned
+
+Uniformed services
+
+United states
+
+Evaluation; Updates
+
+New Partnerships
+
+Review; Report
+
+In General
+
+Number of Installations
+
+Duration
+
+Elements
+
+Funding
+
+Data Collection Efforts
+
+Report Required
+
+Military Spouse Employment Programs Defined
+
+Cost-reimbursement Agreements With Federal Agencies
+
+Eligible Military Spouses.—
+
+Eligibility
+
+Exclusions
+
+Funding Source
+
+Definitions
+
+Termination of Agreement Authority
+
+Reporting Requirement
+
+Ronald Reagan.
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title V, § 568(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 330](https://www.govinfo.gov/link/statute/110/330); amended [Pub. L. 107–107, div. A, title V, § 571(c)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1121](https://www.govinfo.gov/link/statute/115/1121); [Pub. L. 116–92, div. A, title V, § 575](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1405](https://www.govinfo.gov/link/statute/133/1405); [Pub. L. 116–283, div. A, title X, § 1081(a)(33)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3872](https://www.govinfo.gov/link/statute/134/3872); [Pub. L. 118–159, div. A, title V](https://www.govinfo.gov/link/plaw/118/public/159), §§ 581(a), 582(a), Dec. 23, 2024, [138 Stat. 1910](https://www.govinfo.gov/link/statute/138/1910).)*

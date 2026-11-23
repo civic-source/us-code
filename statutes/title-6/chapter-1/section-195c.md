@@ -3,9 +3,10 @@ title: "Section 195c - Promoting antiterrorism through international cooperation
 usc_title: 6
 usc_section: "195c"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 195c"
-generated_at: "2026-03-30T02:53:09.448Z"
+generated_at: "2026-11-23T21:25:25.761Z"
+status: "active"
 ---
 
 # § 195c. Promoting antiterrorism through international cooperation program
@@ -56,3 +57,9 @@ generated_at: "2026-03-30T02:53:09.448Z"
   - **(4)** Sections 2752 and 2767 of title 22.
   - **(5)** Section 2382(c) of title 22 .
 - **(i)** There are authorized to be appropriated to carry out this section such sums as are necessary.
+
+“Congress finds the following:
+
+## Source Credit
+
+*([Pub. L. 107–296, title III, § 317](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 110–53, title XIX, § 1901(b)(1)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 505](https://www.govinfo.gov/link/statute/121/505); amended [Pub. L. 114–304, § 2(a)](https://www.govinfo.gov/link/plaw/114/public/304), Dec. 16, 2016, [130 Stat. 1519](https://www.govinfo.gov/link/statute/130/1519); [Pub. L. 115–387, § 2(f)(3)](https://www.govinfo.gov/link/plaw/115/public/387), Dec. 21, 2018, [132 Stat. 5168](https://www.govinfo.gov/link/statute/132/5168); [Pub. L. 117–263, div. E, title LIX, § 5947(a)(3)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3481](https://www.govinfo.gov/link/statute/136/3481).)*

@@ -3,9 +3,10 @@ title: "Section 8434 - Annuities: methods of payment; election; purchase"
 usc_title: 5
 usc_section: "8434"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8434"
-generated_at: "2026-03-30T02:52:56.058Z"
+generated_at: "2026-11-23T21:25:23.424Z"
+status: "active"
 ---
 
 # § 8434. Annuities: methods of payment; election; purchase
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:52:56.058Z"
 - **(e)**
   - **(1)** No tax, fee, or other monetary payment may be imposed or collected by any State, the District of Columbia, or the Commonwealth of Puerto Rico, or by any political subdivision or other governmental authority thereof, on, or with respect to, any amount paid to purchase an annuity contract under this section.
   - **(2)** Paragraph (1) shall not be construed to exempt any company or other entity issuing an annuity contract under this section from the imposition, payment, or collection of a tax, fee, or other monetary payment on the net income or profit accruing to or realized by that entity from the sale of an annuity contract under this section if that tax, fee, or payment is applicable to a broad range of business activity.
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 546](https://www.govinfo.gov/link/statute/100/546); amended [Pub. L. 100–238, title I, § 129](https://www.govinfo.gov/link/plaw/100/public/238), Jan. 8, 1988, [101 Stat. 1759](https://www.govinfo.gov/link/statute/101/1759); [Pub. L. 101–335](https://www.govinfo.gov/link/plaw/101/public/335), §§ 4(a), 5(b), July 17, 1990, [104 Stat. 321](https://www.govinfo.gov/link/statute/104/321); [Pub. L. 103–226, § 9(c)](https://www.govinfo.gov/link/plaw/103/public/226), (i)(8), Mar. 30, 1994, [108 Stat. 120](https://www.govinfo.gov/link/statute/108/120), 122.)*

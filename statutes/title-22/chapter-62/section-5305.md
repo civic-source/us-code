@@ -3,9 +3,10 @@ title: "Section 5305 - Reporting requirements"
 usc_title: 22
 usc_section: "5305"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5305"
-generated_at: "2026-03-30T02:55:05.416Z"
+generated_at: "2026-11-23T21:25:58.656Z"
+status: "active"
 ---
 
 # § 5305. Reporting requirements
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:05.416Z"
   - **(6)** the results of negotiations conducted pursuant to section 5304 of this title ;
   - **(7)** key issues in United States policies arising from the most recent consultation requested by the International Monetary Fund under article IV of the Fund’s Articles of Agreement; and
   - **(8)** a report on the size and composition of international capital flows, and the factors contributing to such flows, including, where possible, an assessment of the impact of such flows on exchange rates and trade flows.
+
+## Source Credit
+
+*([Pub. L. 100–418, title III, § 3005(a)](https://www.govinfo.gov/link/plaw/100/public/418), (b), Aug. 23, 1988, [102 Stat. 1374](https://www.govinfo.gov/link/statute/102/1374).)*

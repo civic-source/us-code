@@ -3,9 +3,10 @@ title: "Section 2013 - Computerized management information system"
 usc_title: 25
 usc_section: "2013"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2013"
-generated_at: "2026-03-30T02:54:52.834Z"
+generated_at: "2026-11-23T21:25:54.654Z"
+status: "active"
 ---
 
 # § 2013. Computerized management information system
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:52.834Z"
   - **(10)** finance and payroll; and
   - **(11)** such other items as the Secretary determines to be appropriate.
 - **(b)** Not later than July 1, 2003 , the Secretary shall complete the implementation of the updated computerized management information system at each Bureau field office and Bureau-funded school.
+
+## Source Credit
+
+*([Pub. L. 95–561, title XI, § 1133](https://www.govinfo.gov/link/plaw/95/public/561), as added [Pub. L. 107–110, title X, § 1042](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2055](https://www.govinfo.gov/link/statute/115/2055).)*

@@ -3,12 +3,17 @@ title: "Section 7713a - School facilities for children of Government employees a
 usc_title: 20
 usc_section: "7713a"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7713a"
-generated_at: "2026-03-30T02:54:48.217Z"
+generated_at: "2026-11-23T21:25:47.609Z"
+status: "active"
 ---
 
 # § 7713a. School facilities for children of Government employees and other residents in Indian reservations, national parks, and national monuments
 
 In order to facilitate the providing of educational opportunities for children of Government employees and other residents in Indian reservations, the national parks and national monuments the Secretary of the Interior is hereby authorized in his discretion to make available for elementary school purposes therein, without charge, space in Government-owned buildings, when such space may be available for such purposes without detriment to the official business of such Indian reservations, national parks and national monuments.
 
+
+## Source Credit
+
+*(July 16, 1940, ch. 629, [54 Stat. 761](https://www.govinfo.gov/link/statute/54/761).)*

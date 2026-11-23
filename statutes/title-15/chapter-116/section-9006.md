@@ -3,9 +3,10 @@ title: "Section 9006 - Direct appropriations"
 usc_title: 15
 usc_section: "9006"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9006"
-generated_at: "2026-03-30T02:54:08.236Z"
+generated_at: "2026-11-23T21:25:40.104Z"
+status: "active"
 ---
 
 # § 9006. Direct appropriations
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:08.236Z"
   - **(8)** $25,000,000 under the heading “Department of the Treasury—Departmental Offices—Salaries and Expenses” shall be for carrying out section 9008 of this title .
 - **(b)** During the period beginning on March 27, 2020 , and ending on September 30, 2021 , guarantees of trust certificates authorized by section 634(g) of this title with respect to loans under any paragraph of section 636(a) of this title shall not exceed a principal amount of $100,000,000,000.
 - **(c)** Not later than 180 days after March 27, 2020 , the Administrator shall submit to the Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives a detailed expenditure plan for using the amounts appropriated to the Administration under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title I, § 1107](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 301](https://www.govinfo.gov/link/statute/134/301); [Pub. L. 116–139, div. A, § 101(a)(2)](https://www.govinfo.gov/link/plaw/116/public/139), Apr. 24, 2020, [134 Stat. 620](https://www.govinfo.gov/link/statute/134/620); [Pub. L. 116–260, div. N, title III, § 323(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2019](https://www.govinfo.gov/link/statute/134/2019).)*

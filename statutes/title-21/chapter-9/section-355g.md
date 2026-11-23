@@ -3,9 +3,10 @@ title: "Section 355g - Utilizing real world evidence"
 usc_title: 21
 usc_section: "355g"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 355g"
-generated_at: "2026-03-30T02:54:54.240Z"
+generated_at: "2026-11-23T21:25:56.050Z"
+status: "active"
 ---
 
 # § 355g. Utilizing real world evidence
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:54.240Z"
       - **(i)** subsection (c) or (d) of section 355 of this title , including the substantial evidence standard in such subsection (d); or
       - **(ii)** section 262(a) of title 42 ; or
     - **(B)** the Secretary’s authority to require postapproval studies or clinical trials, or the standards of evidence under which studies or trials are evaluated.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 505F, as added [Pub. L. 114–255, div. A, title III, § 3022](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1096](https://www.govinfo.gov/link/statute/130/1096); amended [Pub. L. 115–52, title IX, § 901(c)](https://www.govinfo.gov/link/plaw/115/public/52), (d), Aug. 18, 2017, [131 Stat. 1076](https://www.govinfo.gov/link/statute/131/1076).)*

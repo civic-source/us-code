@@ -3,9 +3,10 @@ title: "Section 159 - Regulatory fees"
 usc_title: 47
 usc_section: "159"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 159"
-generated_at: "2026-03-30T02:56:24.494Z"
+generated_at: "2026-11-23T21:26:35.935Z"
+status: "active"
 ---
 
 # § 159. Regulatory fees
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:24.494Z"
 - **(f)**
   - **(1)** Amounts received from fees authorized by this section shall be deposited as an offsetting collection in, and credited to, the account through which funds are made available to carry out the activities described in section 156(a) of this title .
   - **(2)** Any regulatory fees collected in excess of the total amount of fees provided for in Appropriations Acts for a fiscal year shall be deposited in the general fund of the Treasury of the United States for the sole purpose of deficit reduction.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title I, § 9, as added [Pub. L. 103–66, title VI, § 6003(a)(1)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 397](https://www.govinfo.gov/link/statute/107/397); amended [Pub. L. 103–121, title I](https://www.govinfo.gov/link/plaw/103/public/121), Oct. 27, 1993, [107 Stat. 1167](https://www.govinfo.gov/link/statute/107/1167); [Pub. L. 103–414, title III, § 303(a)(5)](https://www.govinfo.gov/link/plaw/103/public/414), (6), Oct. 25, 1994, [108 Stat. 4294](https://www.govinfo.gov/link/statute/108/4294); [Pub. L. 115–141, div. P, title I, § 102(b)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1083](https://www.govinfo.gov/link/statute/132/1083).)*

@@ -3,9 +3,10 @@ title: "Section 1788a - Support programs: special operations forces personnel; i
 usc_title: 10
 usc_section: "1788a"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1788a"
-generated_at: "2026-03-30T02:53:38.138Z"
+generated_at: "2026-11-23T21:25:32.542Z"
+status: "active"
 ---
 
 # § 1788a. Support programs: special operations forces personnel; immediate family members
@@ -30,3 +31,15 @@ generated_at: "2026-03-30T02:53:38.138Z"
       - **(ii)** while engaged in hazardous service;
       - **(iii)** in the performance of duty under conditions simulating war; or
       - **(iv)** through an instrumentality of war.
+
+Programs Authorized
+
+Selection of Programs
+
+Additional Authority
+
+Definitions
+
+## Source Credit
+
+*(Added and amended [Pub. L. 115–91, div. A, title V, § 555(a)](https://www.govinfo.gov/link/plaw/115/public/91) –(d), Dec. 12, 2017, [131 Stat. 1402](https://www.govinfo.gov/link/statute/131/1402), 1403; [Pub. L. 115–232, div. A, title V, § 572](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1778](https://www.govinfo.gov/link/statute/132/1778); [Pub. L. 116–92, div. A, title XVII](https://www.govinfo.gov/link/plaw/116/public/92), §§ 1702(c)(1), 1731(a)(28), Dec. 20, 2019, [133 Stat. 1796](https://www.govinfo.gov/link/statute/133/1796), 1813; [Pub. L. 116–283, div. A, title V, § 583(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3653](https://www.govinfo.gov/link/statute/134/3653); [Pub. L. 117–81, div. A, title V, § 561](https://www.govinfo.gov/link/plaw/117/public/81), title X, § 1081(a)(24), Dec. 27, 2021, [135 Stat. 1746](https://www.govinfo.gov/link/statute/135/1746), 1920.)*

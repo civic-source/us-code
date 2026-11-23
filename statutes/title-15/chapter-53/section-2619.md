@@ -3,9 +3,10 @@ title: "Section 2619 - Citizens’ civil actions"
 usc_title: 15
 usc_section: "2619"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2619"
-generated_at: "2026-03-30T02:54:08.177Z"
+generated_at: "2026-11-23T21:25:39.940Z"
+status: "active"
 ---
 
 # § 2619. Citizens’ civil actions
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:08.177Z"
   - **(1)** any district which is selected by such defendant and in which one of such actions is pending,
   - **(2)** a district which is agreed upon by stipulation between all the parties to such actions and in which one of such actions is pending, or
   - **(3)** a district which is selected by the court and in which one of such actions is pending.
+
+## Source Credit
+
+*([Pub. L. 94–469, title I, § 20](https://www.govinfo.gov/link/plaw/94/public/469), Oct. 11, 1976, [90 Stat. 2041](https://www.govinfo.gov/link/statute/90/2041); renumbered title I and amended [Pub. L. 99–519, § 3(b)(3)](https://www.govinfo.gov/link/plaw/99/public/519), (c)(1), Oct. 22, 1986, [100 Stat. 2989](https://www.govinfo.gov/link/statute/100/2989); [Pub. L. 102–550, title X, § 1021(b)(9)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3923](https://www.govinfo.gov/link/statute/106/3923); [Pub. L. 114–182, title I](https://www.govinfo.gov/link/plaw/114/public/182), §§ 15, 19(n), June 22, 2016, [130 Stat. 498](https://www.govinfo.gov/link/statute/130/498), 509.)*

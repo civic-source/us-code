@@ -3,9 +3,10 @@ title: "Section 209 - Appointment of personnel"
 usc_title: 42
 usc_section: "209"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 209"
-generated_at: "2026-03-30T02:56:10.684Z"
+generated_at: "2026-11-23T21:26:30.201Z"
+status: "active"
 ---
 
 # § 209. Appointment of personnel
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:10.684Z"
 - **(g)** In accordance with regulations, individual scientists, other than commissioned officers of the Service, may be designated by the Surgeon General to receive fellowships, appointed for duty with the Service without regard to the civil-service laws, may hold their fellowships under conditions prescribed therein, and may be assigned for studies or investigations either in this country or abroad during the terms of their fellowships.
 - **(h)** Persons who are not citizens may be employed as consultants pursuant to subsection (f) and may be appointed to fellowships pursuant to subsection (g). Unless otherwise specifically provided, any prohibition in any other Act against the employment of aliens, or against the payment of compensation to them, shall not be applicable in the case of persons employed or appointed pursuant to such subsections.
 - **(i)** The appointment of any officer or employee of the Service made in accordance with the civil-service laws shall be made by the Secretary, and may be made effective as of the date on which such officer or employee enters upon duty.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title II, § 207, formerly § 208, [58 Stat. 685](https://www.govinfo.gov/link/statute/58/685); July 3, 1946, ch. 538, § 4, [60 Stat. 421](https://www.govinfo.gov/link/statute/60/421); Aug. 13, 1946, ch. 958, § 3, [60 Stat. 1049](https://www.govinfo.gov/link/statute/60/1049); renumbered § 207 and amended Feb. 28, 1948, ch. 83, § 5(a) –(d), [62 Stat. 40](https://www.govinfo.gov/link/statute/62/40); Oct. 12, 1949, ch. 681, title V, § 521(a), [63 Stat. 834](https://www.govinfo.gov/link/statute/63/834); 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631](https://www.govinfo.gov/link/statute/67/631); Apr. 27, 1956, ch. 211, § 3(a) –(c)(1), [70 Stat. 116](https://www.govinfo.gov/link/statute/70/116); [Pub. L. 86–415](https://www.govinfo.gov/link/plaw/86/public/415), §§ 2, 3, Apr. 8, 1960, [74 Stat. 32](https://www.govinfo.gov/link/statute/74/32); [Pub. L. 96–76, title III, § 305](https://www.govinfo.gov/link/plaw/96/public/76), Sept. 29, 1979, [93 Stat. 585](https://www.govinfo.gov/link/statute/93/585); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695); [Pub. L. 97–35, title XXVII, § 2765(c)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 933](https://www.govinfo.gov/link/statute/95/933); [Pub. L. 97–414, § 8(a)](https://www.govinfo.gov/link/plaw/97/public/414), Jan. 4, 1983, [96 Stat. 2060](https://www.govinfo.gov/link/statute/96/2060); [Pub. L. 116–136, div. A, title III, § 3214(e)(1)](https://www.govinfo.gov/link/plaw/116/public/136), (3), Mar. 27, 2020, [134 Stat. 373](https://www.govinfo.gov/link/statute/134/373).)*

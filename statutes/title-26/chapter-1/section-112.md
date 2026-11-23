@@ -3,9 +3,10 @@ title: "Section 112 - Certain combat zone compensation of members of the Armed F
 usc_title: 26
 usc_section: "112"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 112"
-generated_at: "2026-03-30T02:55:27.625Z"
+generated_at: "2026-11-23T21:26:06.003Z"
+status: "active"
 ---
 
 # § 112. Certain combat zone compensation of members of the Armed Forces
@@ -28,3 +29,53 @@ generated_at: "2026-03-30T02:55:27.625Z"
   - **(1)** Gross income does not include compensation received for active service as a member of the Armed Forces of the United States for any month during any part of which such member is in a missing status (as defined in section 551(2) of title 37 , United States Code) during the Vietnam conflict as a result of such conflict, other than a period with respect to which it is officially determined under section 552(c) of such title 37 that he is officially absent from his post of duty without authority.
   - **(2)** Gross income does not include compensation received for active service as an employee for any month during any part of which such employee is in a missing status during the Vietnam conflict as a result of such conflict. For purposes of this paragraph, the terms “active service”, “employee”, and “missing status” have the respective meanings given to such terms by section 5561 of title 5 of the United States Code.
   - **(3)** For purposes of this subsection, the Vietnam conflict began February 28, 1961 , and ends on the date designated by the President by Executive order as the date of the termination of combatant activities in Vietnam. For purposes of this subsection, an individual is in a missing status as a result of the Vietnam conflict if immediately before such status began he was performing service in Vietnam or was performing service in Southeast Asia in direct support of military operations in Vietnam.
+
+In General
+
+Qualified Hazardous Duty Area
+
+General Rule
+
+Qualified Hazardous Duty Area
+
+Special Rule for Section
+
+Effective Dates.—
+
+In general
+
+Withholding
+
+General Rule
+
+Qualified Hazardous Duty Area
+
+Exclusion of Combat Pay From Withholding Limited to Amount Excludable From Gross Income
+
+Increase in Combat Pay Exclusion for Officers to Highest Amount Applicable to Enlisted Personnel.—
+
+In general
+
+Maximum enlisted amount
+
+Effective Date.—
+
+In general
+
+Withholding
+
+Dwight D. Eisenhower.
+
+Lyndon B. Johnson.
+
+George Bush.
+
+William J. Clinton.
+
+William J. Clinton.
+
+George W. Bush.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 34; [Pub. L. 89–739, § 1](https://www.govinfo.gov/link/plaw/89/public/739), Nov. 2, 1966, [80 Stat. 1165](https://www.govinfo.gov/link/statute/80/1165); [Pub. L. 92–279, § 1](https://www.govinfo.gov/link/plaw/92/public/279), Apr. 26, 1972, [86 Stat. 124](https://www.govinfo.gov/link/statute/86/124); [Pub. L. 93–597, § 2(a)](https://www.govinfo.gov/link/plaw/93/public/597), (b), Jan. 2, 1975, [88 Stat. 1950](https://www.govinfo.gov/link/statute/88/1950); [Pub. L. 94–569, § 3(b)](https://www.govinfo.gov/link/plaw/94/public/569), Oct. 20, 1976, [90 Stat. 2699](https://www.govinfo.gov/link/statute/90/2699); [Pub. L. 104–117, § 1(d)](https://www.govinfo.gov/link/plaw/104/public/117), Mar. 20, 1996, [110 Stat. 828](https://www.govinfo.gov/link/statute/110/828); [Pub. L. 104–188, title I, § 1704(t)(4)(A)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1887](https://www.govinfo.gov/link/statute/110/1887); [Pub. L. 113–295, div. A, title II, § 221(a)(18)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4039](https://www.govinfo.gov/link/statute/128/4039); [Pub. L. 114–328, div. A, title VI, § 618(k)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2161](https://www.govinfo.gov/link/statute/130/2161).)*

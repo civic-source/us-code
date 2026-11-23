@@ -3,9 +3,10 @@ title: "Section 1738p - Sale, reduction, or cancellation of qualified debt to fa
 usc_title: 7
 usc_section: "1738p"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1738p"
-generated_at: "2026-03-30T02:53:42.341Z"
+generated_at: "2026-11-23T21:25:28.179Z"
+status: "active"
 ---
 
 # § 1738p. Sale, reduction, or cancellation of qualified debt to facilitate certain debt swaps
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:42.341Z"
 - **(g)** The authorities provided by this section may be exercised only in such amounts and to such extent as is provided in advance in appropriations Acts.
 - **(h)** The proceeds from the sale, reduction, or cancellation of qualified debt pursuant to this section shall be deposited in the United States Government account or accounts established for the repayment of such debt.
 - **(i)** As used in this section, the term “eligible debt swap” means a debt-for-development swap or debt-for-nature swap.
+
+## Source Credit
+
+*(July 10, 1954, ch. 469, title VI, § 617, as added [Pub. L. 102–532, § 2](https://www.govinfo.gov/link/plaw/102/public/532), Oct. 27, 1992, [106 Stat. 3510](https://www.govinfo.gov/link/statute/106/3510).)*

@@ -3,9 +3,10 @@ title: "Section 16102 - Diesel fueled vehicles"
 usc_title: 42
 usc_section: "16102"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16102"
-generated_at: "2026-03-30T02:56:11.468Z"
+generated_at: "2026-11-23T21:26:33.696Z"
+status: "active"
 ---
 
 # § 16102. Diesel fueled vehicles
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.468Z"
     - **(A)** Tier 2 emission standards.
     - **(B)** The heavy-duty emissions standards of 2007 that are applicable to heavy-duty vehicles under regulations issued by the Administrator of the Environmental Protection Agency as of August 8, 2005 .
   - **(2)** Developing the next generation of low-emission, high efficiency diesel engine technologies, including homogeneous charge compression ignition technology.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VII, § 754](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 828](https://www.govinfo.gov/link/statute/119/828).)*

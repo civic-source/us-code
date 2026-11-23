@@ -3,9 +3,10 @@ title: "Section 9593 - Recordkeeping"
 usc_title: 15
 usc_section: "9593"
 chapter: 120
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9593"
-generated_at: "2026-03-30T02:54:08.249Z"
+generated_at: "2026-11-23T21:25:40.152Z"
+status: "active"
 ---
 
 # § 9593. Recordkeeping
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:08.249Z"
   - **(5)** the return on investment, as defined by the Under Secretary; and
   - **(6)** any other record that will facilitate an effective audit with respect to the assistance.
 - **(b)** The Under Secretary, the Inspector General of the Department of Commerce, and the Comptroller General of the United States, or any duly authorized representative of any such individual, shall have access, for the purpose of audit, investigation, and examination, to any book, document, paper, record, or other material of the Agency or an MBDA Business Center.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. K, title VII, § 100703](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1466](https://www.govinfo.gov/link/statute/135/1466).)*

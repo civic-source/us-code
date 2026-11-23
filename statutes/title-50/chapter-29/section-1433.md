@@ -3,9 +3,10 @@ title: "Section 1433 - Public record; examination of records by Comptroller Gene
 usc_title: 50
 usc_section: "1433"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1433"
-generated_at: "2026-03-30T02:56:26.202Z"
+generated_at: "2026-11-23T21:26:38.911Z"
+status: "active"
 ---
 
 # § 1433. Public record; examination of records by Comptroller General; exemptions: exceptional conditions; reports to Congress
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:26.202Z"
 - **(b)** All contracts entered into, amended, or modified pursuant to authority contained in this chapter shall include a clause to the effect that the Comptroller General of the United States or any of his duly authorized representatives shall, until the expiration of three years after final payment, have access to and the right to examine any directly pertinent books, documents, papers, and records of the contractor or any of his subcontractors engaged in the performance of and involving transactions related to such contracts or subcontracts. Under regulations to be prescribed by the President, however, such clause may be omitted from contracts with foreign contractors or foreign subcontractors if the agency head determines, with the concurrence of the Comptroller General of the United States or his designee, that the omission will serve the best interests of the United States. However, the concurrence of the Comptroller General of the United States or his designee is not required for the omission of such clause—
   - **(1)** where the contractor or subcontractor is a foreign government or agency thereof or is precluded by the laws of the country involved from making its books, documents, papers, or records available for examination; and
   - **(2)** where the agency head determines, after taking into account the price and availability of the property or services from United States sources, that the public interest would be best served by the omission of the clause.
+
+## Source Credit
+
+*([Pub. L. 85–804, § 3](https://www.govinfo.gov/link/plaw/85/public/804), Aug. 28, 1958, [72 Stat. 972](https://www.govinfo.gov/link/statute/72/972); [Pub. L. 89–607, § 3](https://www.govinfo.gov/link/plaw/89/public/607), Sept. 27, 1966, [80 Stat. 851](https://www.govinfo.gov/link/statute/80/851).)*

@@ -3,9 +3,10 @@ title: "Section 7449 - Investigations and power to subpoena"
 usc_title: 7
 usc_section: "7449"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7449"
-generated_at: "2026-03-30T02:53:42.453Z"
+generated_at: "2026-11-23T21:25:28.429Z"
+status: "active"
 ---
 
 # § 7449. Investigations and power to subpoena
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:42.453Z"
 - **(d)** A failure to obey an order of the court under this section may be punished by the court as contempt of the court.
 - **(e)** Process may be served on a person in the judicial district in which the person resides or carries on business or wherever the person may be found.
 - **(f)** The site of a hearing held under section 7447 or 7448 of this title shall be in the judicial district where the person affected by the hearing resides or has a principal place of business.
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 540](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1062](https://www.govinfo.gov/link/statute/110/1062).)*

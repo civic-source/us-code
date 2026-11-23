@@ -3,12 +3,17 @@ title: "Section 35 - Mississippi River, West Channel, opposite La Crosse, Wiscon
 usc_title: 33
 usc_section: "35"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 35"
-generated_at: "2026-03-30T02:55:41.050Z"
+generated_at: "2026-11-23T21:26:11.281Z"
+status: "active"
 ---
 
 # § 35. Mississippi River, West Channel, opposite La Crosse, Wisconsin
 
 The branch of the Mississippi River flowing between Grand Island and the mainland opposite the city of La Crosse, State of Wisconsin, and known as the West Channel, is declared unnavigable, and the said city of La Crosse is relieved of the necessity of maintaining a draw or pontoon bridge over said West Channel.
 
+
+## Source Credit
+
+*(Feb. 23, 1901, ch. 470, [31 Stat. 804](https://www.govinfo.gov/link/statute/31/804).)*

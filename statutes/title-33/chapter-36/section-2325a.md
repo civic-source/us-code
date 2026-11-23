@@ -3,9 +3,10 @@ title: "Section 2325a - Authority to accept and use materials and services"
 usc_title: 33
 usc_section: "2325a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2325a"
-generated_at: "2026-03-30T02:55:41.123Z"
+generated_at: "2026-11-23T21:26:11.445Z"
+status: "active"
 ---
 
 # § 2325a. Authority to accept and use materials and services
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:41.123Z"
 - **(d)** Not later than February 1 of each year after the first fiscal year in which materials, services, or funds are accepted under this section, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an annual report that includes—
   - **(1)** a description of the activities undertaken, including the costs associated with the activities; and
   - **(2)** a comprehensive description of how the activities are necessary for maintaining a safe and reliable water resources project.
+
+## Source Credit
+
+*([Pub. L. 113–121, title I, § 1024](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1229](https://www.govinfo.gov/link/statute/128/1229); [Pub. L. 114–322, title I, § 1153](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1663](https://www.govinfo.gov/link/statute/130/1663).)*

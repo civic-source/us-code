@@ -3,9 +3,10 @@ title: "Section 614 - Telecommunications Development Fund"
 usc_title: 47
 usc_section: "614"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 614"
-generated_at: "2026-03-30T02:56:24.522Z"
+generated_at: "2026-11-23T21:26:36.050Z"
+status: "active"
 ---
 
 # § 614. Telecommunications Development Fund
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:56:24.522Z"
   - **(1)** The term “eligible small business” means business enterprises engaged in the telecommunications industry that have $50,000,000 or less in annual revenues, on average over the past 3 years prior to submitting the application under this section.
   - **(2)** The term “Fund” means the Telecommunications Development Fund established pursuant to this section.
   - **(3)** The term “telecommunications industry” means communications businesses using regulated or unregulated facilities or services and includes broadcasting, telecommunications, cable, computer, data transmission, software, programming, advanced messaging, and electronics businesses.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VII, § 714, as added [Pub. L. 104–104, title VII, § 707(b)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 154](https://www.govinfo.gov/link/statute/110/154); amended [Pub. L. 108–494, title II, § 205](https://www.govinfo.gov/link/plaw/108/public/494), Dec. 23, 2004, [118 Stat. 3996](https://www.govinfo.gov/link/statute/118/3996); [Pub. L. 112–96, title VI, § 6602](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 245](https://www.govinfo.gov/link/statute/126/245).)*

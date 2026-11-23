@@ -3,9 +3,10 @@ title: "Section 2720 - Differentiation among fats, oils, and greases"
 usc_title: 33
 usc_section: "2720"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2720"
-generated_at: "2026-03-30T02:55:41.133Z"
+generated_at: "2026-11-23T21:26:11.465Z"
+status: "active"
 ---
 
 # § 2720. Differentiation among fats, oils, and greases
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:41.133Z"
   - **(2)** apply standards to different classes of fats and oils based on considerations in subsection (b).
 - **(b)** In differentiating between the class of fats, oils, and greases described in subsection (a)(1)(A) and the class of oils and greases described in subsection (a)(1)(B), the head of the Federal agency shall consider differences in the physical, chemical, biological, and other properties, and in the environmental effects, of the classes.
 - **(c)** The requirements of this Act shall not apply to the Food and Drug Administration and the Food Safety and Inspection Service.
+
+## Source Credit
+
+*([Pub. L. 104–55, § 2](https://www.govinfo.gov/link/plaw/104/public/55), Nov. 20, 1995, [109 Stat. 546](https://www.govinfo.gov/link/statute/109/546).)*

@@ -3,9 +3,10 @@ title: "Section 4102 - Definitions"
 usc_title: 16
 usc_section: "4102"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4102"
-generated_at: "2026-03-30T02:54:23.041Z"
+generated_at: "2026-11-23T21:25:52.010Z"
+status: "active"
 ---
 
 # § 4102. Definitions
@@ -25,3 +26,7 @@ For the purposes of this chapter:
   - **(8)** The term “Secretary” means the Secretary of Commerce.
   - **(9)** The term “State” means any of the several States of the United States, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, Guam, or the Northern Mariana Islands.
   - **(10)** The term “State agency” means any department, agency, commission, or official of a State authorized under the laws of the State to regulate commercial fisheries or enforce laws relating to commercial fisheries.
+
+## Source Credit
+
+*([Pub. L. 99–659, title III, § 303](https://www.govinfo.gov/link/plaw/99/public/659), Nov. 14, 1986, [100 Stat. 3732](https://www.govinfo.gov/link/statute/100/3732); [Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009](https://www.govinfo.gov/link/statute/110/3009), 3009–41.)*

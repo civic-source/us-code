@@ -3,9 +3,10 @@ title: "Section 1045 - Rollover of gain from qualified small business stock to a
 usc_title: 26
 usc_section: "1045"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1045"
-generated_at: "2026-03-30T02:55:27.757Z"
+generated_at: "2026-11-23T21:26:06.461Z"
+status: "active"
 ---
 
 # § 1045. Rollover of gain from qualified small business stock to another qualified small business stock
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:27.757Z"
     - **(A)** the taxpayer’s holding period for such stock and the stock referred to in subsection (a)(1) shall be determined without regard to section 1223, and
     - **(B)** only the first 6 months of the taxpayer’s holding period for the stock referred to in subsection (a)(1) shall be taken into account for purposes of applying section 1202(c)(2).
   - **(5)** Rules similar to the rules of subsections (f), (g), (h), (i), (j), and (k) of section 1202 shall apply.
+
+## Source Credit
+
+*(Added [Pub. L. 105–34, title III, § 313(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 841](https://www.govinfo.gov/link/statute/111/841); amended [Pub. L. 105–206, title VI, § 6005(f)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 806](https://www.govinfo.gov/link/statute/112/806).)*

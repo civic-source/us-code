@@ -3,9 +3,10 @@ title: "Section 1175a - Voluntary separation pay and benefits"
 usc_title: 10
 usc_section: "1175a"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1175a"
-generated_at: "2026-03-30T02:53:38.113Z"
+generated_at: "2026-11-23T21:25:32.443Z"
+status: "active"
 ---
 
 # § 1175a. Voluntary separation pay and benefits
@@ -63,3 +64,29 @@ generated_at: "2026-03-30T02:53:38.113Z"
 - **(k)**
   - **(1)** The authority to separate a member of the armed forces from active duty under subsection (c) shall terminate on December 31, 2030 .
   - **(2)** A member who separates by the date specified in paragraph (1) may continue to be provided voluntary separation pay and benefits under this section until the member has received the entire amount of pay and benefits to which the member is entitled under this section.
+
+In General
+
+Eligible Members
+
+Separation
+
+Additional Service in Ready Reserve
+
+Separation Pay and Benefits
+
+Computation of Voluntary Separation Pay
+
+Payment of Voluntary Separation Pay
+
+Coordination With Retired or Retainer Pay and Disability Compensation
+
+Retirement Defined
+
+Repayment for Members Who Return to Active Duty
+
+Termination of Authority
+
+## Source Credit
+
+*(Added [Pub. L. 109–163, div. A, title VI, § 643(a)(1)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3306](https://www.govinfo.gov/link/statute/119/3306); amended [Pub. L. 109–364, div. A, title VI, § 623(a)(1)](https://www.govinfo.gov/link/plaw/109/public/364), (2), Oct. 17, 2006, [120 Stat. 2256](https://www.govinfo.gov/link/statute/120/2256); [Pub. L. 111–84, div. A, title X, § 1073(a)(14)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2473](https://www.govinfo.gov/link/statute/123/2473); [Pub. L. 111–383, div. A, title X, § 1075(b)(18)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4370](https://www.govinfo.gov/link/statute/124/4370); [Pub. L. 112–81, div. A, title V, § 526](https://www.govinfo.gov/link/plaw/112/public/81), title VI, § 631(f)(4)(A), Dec. 31, 2011, [125 Stat. 1401](https://www.govinfo.gov/link/statute/125/1401), 1465; [Pub. L. 112–239, div. A, title X, § 1076(a)(9)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1948](https://www.govinfo.gov/link/statute/126/1948); [Pub. L. 114–328, div. A, title V](https://www.govinfo.gov/link/plaw/114/public/328), §§ 508(c), 526, Dec. 23, 2016, [130 Stat. 2109](https://www.govinfo.gov/link/statute/130/2109), 2117; [Pub. L. 116–92, div. A, title VI, § 603](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1423](https://www.govinfo.gov/link/statute/133/1423); [Pub. L. 117–263, div. A, title VI, § 626(c)(4)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2628](https://www.govinfo.gov/link/statute/136/2628); [Pub. L. 119–60, div. A, title VI, § 612](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 907](https://www.govinfo.gov/link/statute/139/907).)*

@@ -3,9 +3,10 @@ title: "Section 7651f - Nitrogen oxides emission reduction program"
 usc_title: 42
 usc_section: "7651f"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7651f"
-generated_at: "2026-03-30T02:56:11.323Z"
+generated_at: "2026-11-23T21:26:33.152Z"
+status: "active"
 ---
 
 # § 7651f. Nitrogen oxides emission reduction program
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.323Z"
       - **(i)** that permits the unit during the demonstration period referred to in subparagraph (2) above, to emit at a rate in excess of the applicable emission rate;
       - **(ii)** at the conclusion of the demonstration period to revise the operating permit to reflect the alternative emission rate demonstrated in paragraphs (2) and (3) above.
 - **(e)** In lieu of complying with the applicable emission limitations under subsection (b)(1), (2), or (d), the owner or operator of two or more units subject to one or more of the applicable emission limitations set pursuant to these sections, 4 4 So in original. Probably should be “subsections,”. may petition the permitting authority for alternative contemporaneous annual emission limitations for such units that ensure that (1) the actual annual emission rate in pounds of nitrogen oxides per million Btu averaged over the units in question is a rate that is less than or equal to (2) the Btu-weighted average annual emission rate for the same units if they had been operated, during the same period of time, in compliance with limitations set in accordance with the applicable emission rates set pursuant to subsections (b)(1) and (2). If the permitting authority determines, in accordance with regulations issued by the Administrator not later than eighteen months after November 15, 1990 ; 5 5 So in original. The semicolon probably should be a comma. that the conditions in the paragraph above can be met, the permitting authority shall issue operating permits for such units, in accordance with section 7651g of this title and part B 3 of title III, that allow alternative contemporaneous annual emission limitations. Such emission limitations shall only remain in effect while both units continue operation under the conditions specified in their respective operating permits.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title IV, § 407, as added [Pub. L. 101–549, title IV, § 401](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2613](https://www.govinfo.gov/link/statute/104/2613).)*

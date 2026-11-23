@@ -3,14 +3,15 @@ title: "Section 1191a - Special rules relating to group health plans"
 usc_title: 29
 usc_section: "1191a"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1191a"
-generated_at: "2026-03-30T02:55:18.726Z"
+generated_at: "2026-11-23T21:26:02.278Z"
+status: "active"
 ---
 
 # § 1191a. Special rules relating to group health plans
 
-- **(a)** The requirements of this part (other than section 1185 of this title ) shall not apply to any group health plan (and group health insurance coverage offered in connection with a group health plan) for any plan year if, on the first day of such plan year, such plan has less than 2 participants who are current employees.
+- **(a)** The requirements of this part (other than sections 1185 and 1185 o of this title) shall not apply to any group health plan (and group health insurance coverage offered in connection with a group health plan) for any plan year if, on the first day of such plan year, such plan has less than 2 participants who are current employees.
 - **(b)** The requirements of this part shall not apply to any group health plan (and group health insurance coverage) in relation to its provision of excepted benefits described in section 1191b(c)(1) of this title .
 - **(c)**
   - **(1)** The requirements of this part shall not apply to any group health plan (and group health insurance coverage offered in connection with a group health plan) in relation to its provision of excepted benefits described in section 1191b(c)(2) of this title if the benefits—
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:18.726Z"
   - **(3)** In the case of a group health plan, the term “participant” also includes—
     - **(A)** in connection with a group health plan maintained by a partnership, an individual who is a partner in relation to the partnership, or
     - **(B)** in connection with a group health plan maintained by a self-employed individual (under which one or more employees are participants), the self-employed individual,
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 732](https://www.govinfo.gov/link/plaw/93/public/406), formerly § 705, as added [Pub. L. 104–191, title I, § 101(a)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 1948](https://www.govinfo.gov/link/statute/110/1948); renumbered § 732 and amended [Pub. L. 104–204, title VI, § 603(a)(3)](https://www.govinfo.gov/link/plaw/104/public/204), (b)(2), (3)(I)–(L), Sept. 26, 1996, [110 Stat. 2935](https://www.govinfo.gov/link/statute/110/2935), 2937, 2938; [Pub. L. 119–75, div. J, title VII, § 6701(b)(1)(C)](https://www.govinfo.gov/link/plaw/119/public/75), Feb. 3, 2026, [140 Stat. 723](https://www.govinfo.gov/link/statute/140/723).)*

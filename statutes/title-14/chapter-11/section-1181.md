@@ -3,9 +3,10 @@ title: "Section 1181 - Special appropriations"
 usc_title: 14
 usc_section: "1181"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 1181"
-generated_at: "2026-03-30T02:53:51.493Z"
+generated_at: "2026-11-23T21:25:35.402Z"
+status: "active"
 ---
 
 # § 1181. Special appropriations
@@ -33,3 +34,7 @@ In addition to amounts otherwise available, there is appropriated to the Coast G
   - **(11)** $2,200,000,000 is provided for aviation, cutter, and shore facility depot maintenance and maintenance of command, control, communication, computer, and cyber assets;
   - **(12)** $170,000,000 is provided for improving maritime domain awareness on the maritime border, at United States ports, at land-based facilities and in the cyber domain; and
   - **(13)** $75,000,000 is provided to contract the services of, acquire, or procure autonomous maritime systems.
+
+## Source Credit
+
+*(Added [Pub. L. 119–21, title IV, § 40001(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 127](https://www.govinfo.gov/link/statute/139/127).)*

@@ -3,9 +3,10 @@ title: "Section 5101 - Qualifying States"
 usc_title: 7
 usc_section: "5101"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 5101"
-generated_at: "2026-03-30T02:53:42.413Z"
+generated_at: "2026-11-23T21:25:28.356Z"
+status: "active"
 ---
 
 # § 5101. Qualifying States
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:53:42.413Z"
   - **(2)** the provision of background and selected information regarding the mediation process;
   - **(3)** financial advisory and counseling services (as appropriate) performed by a person other than a State mediation program mediator; and
   - **(4)** the mediation session.
+
+## Source Credit
+
+*([Pub. L. 100–233, title V, § 501](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1662](https://www.govinfo.gov/link/statute/101/1662); [Pub. L. 100–399, title V, § 501](https://www.govinfo.gov/link/plaw/100/public/399), Aug. 17, 1988, [102 Stat. 1005](https://www.govinfo.gov/link/statute/102/1005); [Pub. L. 103–354, title II, § 282(a)](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3233](https://www.govinfo.gov/link/statute/108/3233); [Pub. L. 106–472, title III, § 306(a)](https://www.govinfo.gov/link/plaw/106/public/472), Nov. 9, 2000, [114 Stat. 2072](https://www.govinfo.gov/link/statute/114/2072); [Pub. L. 115–334, title V, § 5402(a)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4674](https://www.govinfo.gov/link/statute/132/4674).)*

@@ -3,9 +3,10 @@ title: "Section 4589 - Definitions"
 usc_title: 50
 usc_section: "4589"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4589"
-generated_at: "2026-03-30T02:56:26.281Z"
+generated_at: "2026-11-23T21:26:39.114Z"
+status: "active"
 ---
 
 # § 4589. Definitions
@@ -93,9 +94,17 @@ In this subchapter:
       - **(v)** Hypersonic systems.
     - **(B)** The Secretary, in consultation with the appropriate congressional committees and subject to notice and comment in accordance with subchapter II of chapter 5 and chapter 7 of title 5, and not subject to the requirements of section 4559 of this title , may prescribe regulations in accordance with this subchapter to—
       - **(i)** define the technical parameters of technologies described in subparagraph (A), as reasonably needed for national security purposes; or
-      - **(ii)** to add and define categories to the list in subparagraph (A) that enable the military, intelligence, surveillance, or cyber-enabled capabilities of a country of concern.
+      - **(ii)** to 1 1 So in original. The word “to” probably should not appear. add and define categories to the list in subparagraph (A) that enable the military, intelligence, surveillance, or cyber-enabled capabilities of a country of concern.
   - **(11)** Except as otherwise provided, the term “Secretary” means the Secretary of the Treasury.
   - **(12)** The term “United States person” means—
     - **(A)** any United States citizen or an alien lawfully admitted for permanent residence to the United States;
     - **(B)** an entity organized under the laws of the United States or of any jurisdiction within the United States (including any foreign branch of such an entity); or
     - **(C)** any person in the United States.
+
+(aa) the limited partner or equivalent’s committed capital is not more than a de minimis amount, as determined by the Secretary, aggregated across any investment and co-investment vehicles of the fund; or
+
+(bb) the limited partner or equivalent has secured a binding contractual assurance that its capital in the fund will not be used to engage in a transaction that would be a covered national security transaction if engaged in by a United States person; or
+
+## Source Credit
+
+*(Sept. 8, 1950, ch. 932, title VIII, § 809, as added [Pub. L. 119–60, div. H, title LXXXV, § 8521](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1931](https://www.govinfo.gov/link/statute/139/1931).)*

@@ -3,9 +3,10 @@ title: "Section 1905 - Authorities"
 usc_title: 21
 usc_section: "1905"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 1905"
-generated_at: "2026-03-30T02:54:54.307Z"
+generated_at: "2026-11-23T21:25:56.294Z"
+status: "active"
 ---
 
 # § 1905. Authorities
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:54.307Z"
   - **(1)** Full and actual compliance with any regulation, order, license, instruction, or direction issued under this chapter shall be a defense in any proceeding alleging a violation of any of the provisions of this chapter.
   - **(2)** No person shall be held liable in any court for or with respect to anything done or omitted in good faith in connection with the administration of, or pursuant to, and in reliance on this chapter, or any regulation, instruction, or direction issued under this chapter.
 - **(d)** The Secretary of the Treasury may issue such other regulations or orders, including regulations prescribing recordkeeping, reporting, and production of documents, definitions, licenses, instructions, or directions, as may be necessary for the exercise of the authorities granted by this chapter.
+
+## Source Credit
+
+*([Pub. L. 106–120, title VIII, § 806](https://www.govinfo.gov/link/plaw/106/public/120), Dec. 3, 1999, [113 Stat. 1631](https://www.govinfo.gov/link/statute/113/1631).)*

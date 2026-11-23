@@ -3,9 +3,10 @@ title: "Section 2762 - Submerged oil program"
 usc_title: 33
 usc_section: "2762"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2762"
-generated_at: "2026-03-30T02:55:41.134Z"
+generated_at: "2026-11-23T21:26:11.471Z"
+status: "active"
 ---
 
 # § 2762. Submerged oil program
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:41.134Z"
 - **(b)**
   - **(1)** The Commandant of the Coast Guard, in conjunction with the Under Secretary of Commerce for Oceans and Atmosphere, shall conduct a demonstration project for the purpose of developing and demonstrating technologies and management practices to remove submerged oil from the Delaware River and other navigable waters.
   - **(2)** There is authorized to be appropriated to the Commandant of the Coast Guard $2,000,000 for each of fiscal years 2006 through 2010 to carry out this subsection.
+
+## Source Credit
+
+*([Pub. L. 101–380, title VII, § 7002](https://www.govinfo.gov/link/plaw/101/public/380), as added [Pub. L. 109–241, title VI, § 605(a)(2)](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 555](https://www.govinfo.gov/link/statute/120/555).)*

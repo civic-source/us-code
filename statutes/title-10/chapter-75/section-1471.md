@@ -3,9 +3,10 @@ title: "Section 1471 - Forensic pathology investigations"
 usc_title: 10
 usc_section: "1471"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1471"
-generated_at: "2026-03-30T02:53:38.125Z"
+generated_at: "2026-11-23T21:25:32.487Z"
+status: "active"
 ---
 
 # § 1471. Forensic pathology investigations
@@ -44,3 +45,19 @@ generated_at: "2026-03-30T02:53:38.125Z"
   - **(4)** as soon as practicable after the completion of the investigation, authorize release of the decedent’s remains to the family, if known; and
   - **(5)** promptly report the results of the forensic pathology investigation to the official responsible for the overall investigation of the death.
 - **(f)** In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and Guam.
+
+Authority
+
+Basis for Investigation
+
+Determination of Justification
+
+Limitation in Concurrent Jurisdiction Cases
+
+Procedures
+
+Definition of State
+
+## Source Credit
+
+*(Added [Pub. L. 106–65, div. A, title VII, § 721(a)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 692](https://www.govinfo.gov/link/statute/113/692).)*

@@ -3,9 +3,10 @@ title: "Section 1475g - Overseas public diplomacy posts and personnel overseas"
 usc_title: 22
 usc_section: "1475g"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1475g"
-generated_at: "2026-03-30T02:55:05.333Z"
+generated_at: "2026-11-23T21:25:58.401Z"
+status: "active"
 ---
 
 # § 1475g. Overseas public diplomacy posts and personnel overseas
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:55:05.333Z"
 - **(c)** This section shall not apply to any overseas public diplomacy post closed—
   - **(1)** because of a break or downgrading of diplomatic relations between the United States and the country in which the post is located; or
   - **(2)** where there is a real and present threat to United States diplomats in the city where the post is located and where a travel advisory warning against travel by United States citizens to the city has been issued by the Department of State.
+
+In General
+
+Requirements
+
+Report
+
+## Source Credit
+
+*(Jan. 27, 1948, ch. 36, title VIII, § 812, as added [Pub. L. 102–138, title II, § 206(a)](https://www.govinfo.gov/link/plaw/102/public/138), Oct. 28, 1991, [105 Stat. 693](https://www.govinfo.gov/link/statute/105/693); amended [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XIII, § 1335(a)(5), Oct. 21, 1998, [112 Stat. 2681–787](https://www.govinfo.gov/link/statute/112/2681).)*

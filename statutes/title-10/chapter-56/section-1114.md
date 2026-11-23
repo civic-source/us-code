@@ -3,9 +3,10 @@ title: "Section 1114 - Board of Actuaries"
 usc_title: 10
 usc_section: "1114"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1114"
-generated_at: "2026-03-30T02:53:38.109Z"
+generated_at: "2026-11-23T21:25:32.427Z"
+status: "active"
 ---
 
 # § 1114. Board of Actuaries
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:38.109Z"
   - **(3)** A member of the Board who is not otherwise an employee of the United States is entitled to receive pay at the daily equivalent of the annual rate of basic pay of the highest rate of basic pay under the General Schedule of subchapter III of chapter 53 of title 5, for each day the member is engaged in the performance of duties vested in the Board, and is entitled to travel expenses, including a per diem allowance, in accordance with section 5703 of title 5 .
 - **(b)** The Board shall report to the Secretary of Defense annually on the actuarial status of the Fund and shall furnish its advice and opinion on matters referred to it by the Secretary.
 - **(c)** The Board shall review valuations of the Fund under section 1115(c) of this title and shall report periodically, not less than once every four years, to the President and Congress on the status of the Fund. The Board shall include in such reports recommendations for such changes as in the Board’s judgment are necessary to protect the public interest and maintain the Fund on a sound actuarial basis.
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title VII, § 713(a)(1)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–180; amended [Pub. L. 107–107, div. A, title X, § 1048(a)(12)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1223](https://www.govinfo.gov/link/statute/115/1223).)*

@@ -3,9 +3,10 @@ title: "Section 6106 - Definitions"
 usc_title: 22
 usc_section: "6106"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6106"
-generated_at: "2026-03-30T02:55:05.425Z"
+generated_at: "2026-11-23T21:25:58.679Z"
+status: "active"
 ---
 
 # § 6106. Definitions
@@ -20,3 +21,7 @@ For purposes of this chapter—
     - **(D)** in the case of the House of Representatives, the Speaker of the House, in consultation with the Majority Leader and Minority Leader of the House;
   - **(3)** the term “Center” means the Mansfield Center for Pacific Affairs; and
   - **(4)** the term “detailee” means an employee of an agency of the United States Government on assignment or loan to the Mansfield Center for Pacific Affairs without a change of position from the agency by which he or she is employed.
+
+## Source Credit
+
+*([Pub. L. 103–236, title II, § 257](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 432](https://www.govinfo.gov/link/statute/108/432).)*

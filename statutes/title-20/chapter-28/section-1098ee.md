@@ -3,9 +3,10 @@ title: "Section 1098ee - Definitions"
 usc_title: 20
 usc_section: "1098ee"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1098ee"
-generated_at: "2026-03-30T02:54:48.139Z"
+generated_at: "2026-11-23T21:25:47.223Z"
+status: "active"
 ---
 
 # § 1098ee. Definitions
@@ -24,3 +25,7 @@ In this part:
     - **(A)** a Reserve of an Armed Force ordered to active duty under section 12301(a), 12301(g), 12302, 12304, or 12306 of title 10 or any retired member of an Armed Force ordered to active duty under section 688 of such title, for service in connection with a war or other military operation or national emergency, regardless of the location at which such active duty service is performed; and
     - **(B)** any other member of an Armed Force on active duty in connection with such war, operation, or emergency or subsequent actions or conditions who has been assigned to a duty station at a location other than the location at which such member is normally assigned.
   - **(6)** The term “qualifying National Guard duty during a war or other military operation or national emergency” means service as a member of the National Guard on full-time National Guard duty (as defined in section 101(d)(5) of title 10 ) under a call to active service authorized by the President or the Secretary of Defense for a period of more than 30 consecutive days under section 502(f) of title 32 , in connection with a war, another military operation, or a national emergency declared by the President and supported by Federal funds.
+
+## Source Credit
+
+*([Pub. L. 108–76, § 5](https://www.govinfo.gov/link/plaw/108/public/76), Aug. 18, 2003, [117 Stat. 906](https://www.govinfo.gov/link/statute/117/906).)*

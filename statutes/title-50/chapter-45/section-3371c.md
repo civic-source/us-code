@@ -3,9 +3,10 @@ title: "Section 3371c - Notification of significant foreign cyber intrusions and
 usc_title: 50
 usc_section: "3371c"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3371c"
-generated_at: "2026-03-30T02:56:26.251Z"
+generated_at: "2026-11-23T21:26:39.048Z"
+status: "active"
 ---
 
 # § 3371c. Notification of significant foreign cyber intrusions and active measures campaigns directed at elections for Federal offices
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:26.251Z"
     - **(D)** Any other information such Directors and the Secretary jointly determine appropriate.
   - **(2)** With respect to a significant foreign cyber intrusion covered by a determination under subsection (b), the Secretary of Homeland Security, in consultation with the Director of National Intelligence and the Director of the Federal Bureau of Investigation, shall offer to the owner or operator of any electronic election infrastructure directly affected by such intrusion, a briefing on such intrusion, including steps that may be taken to mitigate such intrusion. Such briefing may be classified and made available only to individuals with appropriate security clearances.
   - **(3)** This subsection shall be carried out in a manner that is consistent with the protection of sources and methods.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. E, title LXV, § 6507](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2207](https://www.govinfo.gov/link/statute/133/2207).)*

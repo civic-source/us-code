@@ -3,9 +3,10 @@ title: "Section 1302 - Trustee"
 usc_title: 11
 usc_section: "1302"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1302"
-generated_at: "2026-03-30T02:53:53.887Z"
+generated_at: "2026-11-23T21:25:34.970Z"
+status: "active"
 ---
 
 # § 1302. Trustee
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:53:53.887Z"
   - **(2)**
     - **(A)** The holder of a claim described in subsection (b)(6) or the State child support enforcement agency of the State in which such holder resides may request from a creditor described in paragraph (1)(C)(iv) the last known address of the debtor.
     - **(B)** Notwithstanding any other provision of law, a creditor that makes a disclosure of a last known address of a debtor in connection with a request made under subparagraph (A) shall not be liable by reason of making that disclosure.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2645](https://www.govinfo.gov/link/statute/92/2645); [Pub. L. 98–353, title III](https://www.govinfo.gov/link/plaw/98/public/353), §§ 314, 525, July 10, 1984, [98 Stat. 356](https://www.govinfo.gov/link/statute/98/356), 388; [Pub. L. 99–554, title II](https://www.govinfo.gov/link/plaw/99/public/554), §§ 228, 283(w), Oct. 27, 1986, [100 Stat. 3103](https://www.govinfo.gov/link/statute/100/3103), 3118; [Pub. L. 103–394, title V, § 501(d)(37)](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4147](https://www.govinfo.gov/link/statute/108/4147); [Pub. L. 109–8, title II, § 219(d)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 58](https://www.govinfo.gov/link/statute/119/58); [Pub. L. 111–327, § 2(a)(39)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3561](https://www.govinfo.gov/link/statute/124/3561).)*

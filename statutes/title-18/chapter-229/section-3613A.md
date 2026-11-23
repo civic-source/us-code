@@ -3,9 +3,10 @@ title: "Section 3613A - Effect of default"
 usc_title: 18
 usc_section: "3613A"
 chapter: 229
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3613A"
-generated_at: "2026-03-30T02:54:16.522Z"
+generated_at: "2026-11-23T21:25:44.217Z"
+status: "active"
 ---
 
 # § 3613A. Effect of default
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:16.522Z"
 - **(b)**
   - **(1)** Any hearing held pursuant to this section may be conducted by a magistrate judge, subject to de novo review by the court.
   - **(2)** To the extent practicable, in a hearing held pursuant to this section involving a defendant who is confined in any jail, prison, or other correctional facility, proceedings in which the prisoner’s participation is required or permitted shall be conducted by telephone, video conference, or other communications technology without removing the prisoner from the facility in which the prisoner is confined.
+
+## Source Credit
+
+*(Added [Pub. L. 104–132, title II, § 207(c)(4)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1239](https://www.govinfo.gov/link/statute/110/1239).)*

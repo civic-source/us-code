@@ -3,9 +3,10 @@ title: "Section 55301 - Report on administration of programs by other Federal de
 usc_title: 46
 usc_section: "55301"
 chapter: 553
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 55301"
-generated_at: "2026-03-30T02:56:15.579Z"
+generated_at: "2026-11-23T21:26:37.306Z"
+status: "active"
 ---
 
 # § 55301. Report on administration of programs by other Federal departments and agencies
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:56:15.579Z"
   - **(1)** the gross tonnage of cargo (equipment, materials, or agricultural products), expressed by type of cargo, transported on United States flag vessels as compared to on foreign vessels; and
   - **(2)** the total number of United States flag vessels and total number of foreign vessels contracted by each department or agency.
 - **(c)** Not later than January 31 of each year, the head of each Federal department or agency that administers a program covered by a report required under subsection (a) shall submit to the Administrator of the Maritime Administration the information described in subsection (b) for that department or agency.
+
+In General
+
+Contents
+
+Agency Reporting Requirements
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. C, title XXXV, § 3521(a)(1)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 819](https://www.govinfo.gov/link/statute/137/819).)*

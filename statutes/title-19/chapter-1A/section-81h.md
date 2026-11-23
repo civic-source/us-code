@@ -3,12 +3,17 @@ title: "Section 81h - Rules and regulations"
 usc_title: 19
 usc_section: "81h"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 81h"
-generated_at: "2026-03-30T02:54:24.625Z"
+generated_at: "2026-11-23T21:25:42.686Z"
+status: "active"
 ---
 
 # § 81h. Rules and regulations
 
 The Board shall prescribe such rules and regulations not inconsistent with the provisions of this chapter or the rules and regulations of the Secretary of the Treasury made hereunder and as may be necessary to carry out this chapter.
 
+
+## Source Credit
+
+*(June 18, 1934, ch. 590, § 8, [48 Stat. 1000](https://www.govinfo.gov/link/statute/48/1000).)*

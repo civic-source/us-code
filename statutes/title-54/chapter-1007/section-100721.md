@@ -3,9 +3,10 @@ title: "Section 100721 - Definitions"
 usc_title: 54
 usc_section: "100721"
 chapter: 1007
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "54 U.S.C. § 100721"
-generated_at: "2026-03-30T02:56:28.412Z"
+generated_at: "2026-11-23T21:26:42.757Z"
+status: "active"
 ---
 
 # § 100721. Definitions
@@ -26,3 +27,40 @@ In this subchapter:
   - **(3)**
     - **(A)** The term “System unit resource” means any living or non-living resource that is located within the boundaries of a System unit.
     - **(B)** The term “System unit resource” does not include a resource owned by a non-Federal entity.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 100721 | 16 U.S.C. 19jj . | Pub. L. 101–337, § 1 , July 27, 1990 , 104 Stat. 379 ; Pub. L. 104–333, div. I, title VIII, § 814(h)(1) , (2), Nov. 12, 1996 , 110 Stat. 4199 . |
+
+
+Damages
+
+Response costs
+
+System unit resource.—
+
+In general
+
+Exclusion
+
+Historical and Revision Notes
+
+100721
+
+16 U.S.C. 19jj
+
+Pub. L. 101–337, § 1
+
+July 27, 1990
+
+104 Stat. 379
+
+Pub. L. 104–333, div. I, title VIII, § 814(h)(1)
+
+Nov. 12, 1996
+
+110 Stat. 4199
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3106](https://www.govinfo.gov/link/statute/128/3106).)*

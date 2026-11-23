@@ -3,9 +3,10 @@ title: "Section 242s - Centers for Disease Control and Prevention Office of Wome
 usc_title: 42
 usc_section: "242s"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 242s"
-generated_at: "2026-03-30T02:56:10.692Z"
+generated_at: "2026-11-23T21:26:30.254Z"
+status: "active"
 ---
 
 # § 242s. Centers for Disease Control and Prevention Office of Women’s Health
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:10.692Z"
   - **(1)** unique to, significantly more serious for, or significantly more prevalent in women; and
   - **(2)** for which the factors of medical risk or type of medical intervention are different for women, or for which there is reasonable evidence that indicates that such factors or types may be different for women.
 - **(d)** For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2010 through 2014.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 310A, as added [Pub. L. 111–148, title III, § 3509(b)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 533](https://www.govinfo.gov/link/statute/124/533); amended [Pub. L. 117–103, div. P, title I, § 141(b)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 797](https://www.govinfo.gov/link/statute/136/797).)*

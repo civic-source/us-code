@@ -3,12 +3,17 @@ title: "Section 8838 - Jurisdiction of Department of Energy and Environmental Pr
 usc_title: 42
 usc_section: "8838"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8838"
-generated_at: "2026-03-30T02:56:11.348Z"
+generated_at: "2026-11-23T21:26:33.221Z"
+status: "active"
 ---
 
 # § 8838. Jurisdiction of Department of Energy and Environmental Protection Agency
 
 The provisions of section 5920(c) 1 1 See References in Text note below. of this title, relating to the responsibilities of the Environmental Protection Agency and the Department of Energy, shall apply with respect to actions under this subchapter to the same extent and in the same manner as such provisions apply to actions under section 5920 1 of this title.
 
+
+## Source Credit
+
+*([Pub. L. 96–294, title II, § 238](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 704](https://www.govinfo.gov/link/statute/94/704).)*

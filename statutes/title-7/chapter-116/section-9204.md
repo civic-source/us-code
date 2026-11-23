@@ -3,9 +3,10 @@ title: "Section 9204 - Availability of data and congressional briefings"
 usc_title: 7
 usc_section: "9204"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 9204"
-generated_at: "2026-03-30T02:53:42.489Z"
+generated_at: "2026-11-23T21:25:28.499Z"
+status: "active"
 ---
 
 # § 9204. Availability of data and congressional briefings
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.489Z"
     - **(C)** any similar joint agreement or understanding between the Department of Agriculture and the Department of Homeland Security, or other relevant agencies, that documents the biodefense mission of the National Bio and Agro-Defense Facility; and
     - **(D)** research, including a description of the users of the National Bio and Agro-Defense Facility.
 - **(b)** The reporting and briefing requirements under subsection (a) shall terminate on the date that is 5 years after the date on which the National Bio and Agro-Defense Facility attains full operating capability.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. P, § 5](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2160](https://www.govinfo.gov/link/statute/134/2160).)*

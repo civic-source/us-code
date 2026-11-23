@@ -3,9 +3,10 @@ title: "Section 6411 - Tentative carryback and refund adjustments"
 usc_title: 26
 usc_section: "6411"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6411"
-generated_at: "2026-03-30T02:55:27.851Z"
+generated_at: "2026-11-23T21:26:06.860Z"
+status: "active"
 ---
 
 # § 6411. Tentative carryback and refund adjustments
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:27.851Z"
     - **(B)** determine the amount of the overpayment, and
     - **(C)** apply, credit, or refund such overpayment,
   - **(3)** The provisions of subsection (c) shall apply to an adjustment under this subsection to the same extent and manner as the Secretary may by regulations provide.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 794; [Pub. L. 89–721, § 2(a)](https://www.govinfo.gov/link/plaw/89/public/721) –(e), Nov. 2, 1966, [80 Stat. 1150](https://www.govinfo.gov/link/statute/80/1150); [Pub. L. 90–225, § 2(b)](https://www.govinfo.gov/link/plaw/90/public/225), Dec. 27, 1967, [81 Stat. 731](https://www.govinfo.gov/link/statute/81/731); [Pub. L. 91–172, title V, § 512(d)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 639](https://www.govinfo.gov/link/statute/83/639); [Pub. L. 92–178, title VI, § 601(e)(1)](https://www.govinfo.gov/link/plaw/92/public/178), Dec. 10, 1971, [85 Stat. 560](https://www.govinfo.gov/link/statute/85/560); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), title XXI, § 2107(g)(1), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834), 1904; [Pub. L. 95–30, title II, § 202(d)(5)(A)](https://www.govinfo.gov/link/plaw/95/public/30), May 23, 1977, [91 Stat. 150](https://www.govinfo.gov/link/statute/91/150); [Pub. L. 95–600, title V, § 504(a)](https://www.govinfo.gov/link/plaw/95/public/600), (b)(1)(A), Nov. 6, 1978, [92 Stat. 2880](https://www.govinfo.gov/link/statute/92/2880), 2881; [Pub. L. 96–222, title I](https://www.govinfo.gov/link/plaw/96/public/222), §§ 103(a)(6)(G)(xiii), 105(a)(2), Apr. 1, 1980, [94 Stat. 211](https://www.govinfo.gov/link/statute/94/211), 218; [Pub. L. 97–34, title II, § 221(b)(2)(B)](https://www.govinfo.gov/link/plaw/97/public/34), title III, § 331(d)(2)(B), Aug. 13, 1981, [95 Stat. 247](https://www.govinfo.gov/link/statute/95/247), 295; [Pub. L. 98–369, div. A, title IV, § 474(r)(37)](https://www.govinfo.gov/link/plaw/98/public/369), title VII, § 714(n)(2)(B), July 18, 1984, [98 Stat. 846](https://www.govinfo.gov/link/statute/98/846), 964; [Pub. L. 99–514, title II, § 231(d)(3)(H)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1847(b)(10), Oct. 22, 1986, [100 Stat. 2180](https://www.govinfo.gov/link/statute/100/2180), 2857; [Pub. L. 100–647, title I, § 1002(h)(2)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3370](https://www.govinfo.gov/link/statute/102/3370); [Pub. L. 106–554, § 1(a)(7) [title III, § 318(d)(1)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–645; [Pub. L. 109–135, title IV, § 409(a)(1)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2635](https://www.govinfo.gov/link/statute/119/2635).)*

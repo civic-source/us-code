@@ -3,9 +3,10 @@ title: "Section 1322b - Aggregate limit on benefits guaranteed; criteria applica
 usc_title: 29
 usc_section: "1322b"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1322b"
-generated_at: "2026-03-30T02:55:18.731Z"
+generated_at: "2026-11-23T21:26:02.287Z"
+status: "active"
 ---
 
 # § 1322b. Aggregate limit on benefits guaranteed; criteria applicable
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:18.731Z"
 - **(b)** For purposes of this section—
   - **(1)** the receipt of benefits under a multiemployer plan receiving financial assistance from the corporation shall be considered the receipt of amounts from the corporation pursuant to a guarantee by the corporation of basic benefits except to the extent provided in regulations prescribed by the corporation, and
   - **(2)** the date on which a multiemployer plan, whether or not terminated, begins receiving financial assistance from the corporation shall be considered a date of plan termination.
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4022B](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 96–364, title I, § 102](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1215](https://www.govinfo.gov/link/statute/94/1215).)*

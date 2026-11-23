@@ -3,9 +3,10 @@ title: "Section 451 - Definitions"
 usc_title: 37
 usc_section: "451"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 451"
-generated_at: "2026-03-30T02:55:44.058Z"
+generated_at: "2026-11-23T21:26:14.242Z"
+status: "active"
 ---
 
 # § 451. Definitions
@@ -60,3 +61,21 @@ generated_at: "2026-03-30T02:55:44.058Z"
       - **(i)** the official station of a member of the uniformed services; or
       - **(ii)** the residence of a dependent of a member of the uniformed services.
     - **(B)** As used in subparagraph (A)(ii), the residence of a dependent who is a student not living with the member while at school is the permanent duty assignment location of the dependent student.
+
+Definitions Relating to Persons
+
+Definitions Relating to Travel and Transportation Allowances
+
+Implementation Plan
+
+Authority for Modifications to Old-Law Authorities During Transition Period
+
+Coordination
+
+Program of Compliance
+
+Transition Period
+
+## Source Credit
+
+*(Added [Pub. L. 112–81, div. A, title VI, § 631(b)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1453](https://www.govinfo.gov/link/statute/125/1453); amended [Pub. L. 113–66, div. A, title VI, § 621(a)(1)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 783](https://www.govinfo.gov/link/statute/127/783); [Pub. L. 117–81, div. A, title VI, § 603(b)](https://www.govinfo.gov/link/plaw/117/public/81), (c)(2), (d)(2), Dec. 27, 2021, [135 Stat. 1766](https://www.govinfo.gov/link/statute/135/1766), 1767; [Pub. L. 117–263, div. A, title VI, § 626(h)(6)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2629](https://www.govinfo.gov/link/statute/136/2629).)*

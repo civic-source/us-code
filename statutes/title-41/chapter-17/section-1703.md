@@ -3,9 +3,10 @@ title: "Section 1703 - Acquisition workforce"
 usc_title: 41
 usc_section: "1703"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 1703"
-generated_at: "2026-03-30T02:55:55.802Z"
+generated_at: "2026-11-23T21:26:18.783Z"
+status: "active"
 ---
 
 # § 1703. Acquisition workforce
@@ -78,3 +79,270 @@ generated_at: "2026-03-30T02:55:55.802Z"
   - **(4)** The Administrator shall submit annually to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the use of the authority under this subsection, including the number of employees reemployed under authority of this subsection.
   - **(5)** The authority under this subsection expires on December 31, 2011 .
 - **(l)** All Federal civilian agency acquisition internship or acquisition training programs shall follow guidelines provided by the Office of Federal Procurement Policy to ensure consistent training standards necessary to develop uniform core competencies throughout the Federal Government.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1703(a) | 41:433(e) (last sentence). | Pub. L. 93–400, § 37(b) –(h)(2), as added Pub. L. 104–106, title XLIII, § 4307(a)(1) , Feb. 10, 1996 , 110 Stat. 666 . |
+| 1703(b)(1) | 41:433(a). | Pub. L. 93–400, § 37(a) , as added Pub. L. 104–106, title XLIII, § 4307(a)(1) , Feb. 10, 1996 , 110 Stat. 666 ; Pub. L. 109–163, div. A, title VIII, § 821(b)(1) , Jan. 6, 2006 , 119 Stat. 3386 . |
+| 1703(b)(2) | 41:433(e) (1st sentence). |  |
+| 1703(c) | 41:433(b). |  |
+| 1703(d) | 41:433(c). |  |
+| 1703(e) | 41:433(d). |  |
+| 1703(f) | 41:433(f). |  |
+| 1703(g) | 41:433(g). |  |
+| 1703(h)(1) | 41:433(h)(1)(A). |  |
+| 1703(h)(2) | 41:433(h)(2). |  |
+| 1703(h)(3) | 41:433(h)(1)(B). |  |
+| 1703(i)(1) | 41:433 note. | Pub. L. 108–136, div. A, title XIV, § 1412(a) , Nov. 24, 2003 , 117 Stat. 1664 . |
+| 1703(i)(2)–(8) | 41:433(h)(3). | Pub. L. 93–400, § 37(h)(3) , as added Pub. L. 108–136, div. A, title XIV, § 1412(b) , Nov. 24, 2003 , 117 Stat. 1664 ; Pub. L. 109–163, div. A, title VIII, § 821(a) , Jan. 6, 2006 , 119 Stat. 3386 ; Pub. L. 110–181, div. A, title VIII, § 854 , Jan. 28, 2008 , 122 Stat. 251 . |
+| 1703(j) | 41:433 note. | Pub. L. 108–136, div. A, title XIV, § 1413 , Nov. 24, 2003 , 117 Stat. 1665 ; Pub. L. 110–181, div. A, title VIII, § 853 , title X, § 1063(g)(2), Jan. 28, 2008 , 122 Stat. 250 , 323. |
+| 1703(k) | 41:433(i). | Pub. L. 93–400, § 37(i) , as added Pub. L. 109–313, § 4 , Oct. 6, 2006 , 120 Stat. 1737 . |
+
+
+Description
+
+Applicability.—
+
+Nonapplicability to certain executive agencies
+
+Applicability of programs
+
+Management Policies.—
+
+Duties of head of executive agency.—
+
+Establish policies and procedures
+
+Ensure uniform implementation
+
+Duties of administrator.—
+
+In general
+
+Government-wide training standards and certification
+
+Authority and Responsibility of Senior Procurement Executive
+
+Collecting and Maintaining Information
+
+Career Development.—
+
+Career paths.—
+
+Identification
+
+Critical duties and tasks
+
+Mandatory training and education
+
+Performance incentives
+
+Qualification Requirements.—
+
+In general
+
+Relationship to requirements applicable to defense acquisition workforce
+
+Approval of requirements
+
+Education and Training.—
+
+Funding levels
+
+Tuition assistance
+
+Restricted obligation
+
+Training Fund.—
+
+Purposes
+
+Establishment and management of fund
+
+Credits to fund
+
+Remittance by head of executive agency
+
+Transfer and use of fees collected from department of defense
+
+Amounts not to be used for other purposes
+
+Amounts are in addition to other amounts for education and training
+
+Availability of amounts
+
+Recruitment Program.—
+
+Shortage category positions
+
+Termination of authority
+
+Reemployment Without Loss of Annuity.—
+
+Establishment of policies and procedures
+
+Criteria for continuation of annuity
+
+Service not subject to csrs or fers
+
+Reporting requirement
+
+Sunset provision
+
+Acquisition Internship and Training Programs
+
+Historical and Revision Notes
+
+1703(a)
+
+Pub. L. 93–400, § 37(b)
+
+Pub. L. 104–106, title XLIII, § 4307(a)(1)
+
+Feb. 10, 1996
+
+110 Stat. 666
+
+1703(b)(1)
+
+Pub. L. 93–400, § 37(a)
+
+Pub. L. 104–106, title XLIII, § 4307(a)(1)
+
+Feb. 10, 1996
+
+110 Stat. 666
+
+Pub. L. 109–163, div. A, title VIII, § 821(b)(1)
+
+Jan. 6, 2006
+
+119 Stat. 3386
+
+1703(b)(2)
+
+1703(c)
+
+1703(d)
+
+1703(e)
+
+1703(f)
+
+1703(g)
+
+1703(h)(1)
+
+1703(h)(2)
+
+1703(h)(3)
+
+1703(i)(1)
+
+Pub. L. 108–136, div. A, title XIV, § 1412(a)
+
+Nov. 24, 2003
+
+117 Stat. 1664
+
+1703(i)(2)–(8)
+
+Pub. L. 93–400, § 37(h)(3)
+
+Pub. L. 108–136, div. A, title XIV, § 1412(b)
+
+Nov. 24, 2003
+
+117 Stat. 1664
+
+Pub. L. 109–163, div. A, title VIII, § 821(a)
+
+Jan. 6, 2006
+
+119 Stat. 3386
+
+Pub. L. 110–181, div. A, title VIII, § 854
+
+Jan. 28, 2008
+
+122 Stat. 251
+
+1703(j)
+
+Pub. L. 108–136, div. A, title XIV, § 1413
+
+Nov. 24, 2003
+
+117 Stat. 1665
+
+Pub. L. 110–181, div. A, title VIII, § 853
+
+Jan. 28, 2008
+
+122 Stat. 250
+
+1703(k)
+
+Pub. L. 93–400, § 37(i)
+
+Pub. L. 109–313, § 4
+
+Oct. 6, 2006
+
+120 Stat. 1737
+
+Definitions
+
+AI
+
+AI training program
+
+Covered workforce
+
+Director
+
+Executive agency
+
+Requirement.—
+
+In general
+
+Purpose
+
+Topics
+
+Updates
+
+Format
+
+Metrics
+
+Sunset
+
+In General
+
+Content
+
+Coordination and Consultation
+
+Guidance.—
+
+In general
+
+Availability
+
+Appropriate congressional committees and leadership
+
+Information and communications technology
+
+Executive agency
+
+Federal agency
+
+Training program
+
+“Within one year after the date of the enactment of this Act [ Oct. 13, 1994 ], the Deputy Director for Management of the Office of Management and Budget, in consultation with appropriate officials in other departments and agencies of the Federal Government, shall, to the maximum extent consistent with applicable law—
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3702](https://www.govinfo.gov/link/statute/124/3702); [Pub. L. 112–74, div. C, title V, § 526](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 914](https://www.govinfo.gov/link/statute/125/914); [Pub. L. 112–81, div. A, title VIII, § 864(c)](https://www.govinfo.gov/link/plaw/112/public/81), (d), Dec. 31, 2011, [125 Stat. 1525](https://www.govinfo.gov/link/statute/125/1525); [Pub. L. 112–239, div. A, title X, § 1076(a)(15)](https://www.govinfo.gov/link/plaw/112/public/239), title XI, § 1103, Jan. 2, 2013, [126 Stat. 1948](https://www.govinfo.gov/link/statute/126/1948), 1973.)*

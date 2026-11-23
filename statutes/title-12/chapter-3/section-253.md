@@ -3,9 +3,10 @@ title: "Section 253 - Open data publication by the Board of Governors"
 usc_title: 12
 usc_section: "253"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 253"
-generated_at: "2026-03-30T02:53:53.377Z"
+generated_at: "2026-11-23T21:25:36.780Z"
+status: "active"
 ---
 
 # § 253. Open data publication by the Board of Governors
@@ -16,3 +17,11 @@ All public data assets published by the Board of Governors under this chapter, t
   - **(2)** freely available for download;
   - **(3)** rendered in a human-readable format; and
   - **(4)** accessible via application programming interface where appropriate.
+
+In General
+
+Scaling of Regulatory Requirements; Minimizing Disruption
+
+## Source Credit
+
+*(Dec. 23, 1913, ch. 6, § 32, as added [Pub. L. 117–263, div. E, title LVIII, § 5862](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3435](https://www.govinfo.gov/link/statute/136/3435).)*

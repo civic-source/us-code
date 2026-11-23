@@ -3,9 +3,10 @@ title: "Section 4722 - Mandatory Senate ethics training for Members and staff"
 usc_title: 2
 usc_section: "4722"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 4722"
-generated_at: "2026-03-30T02:53:04.834Z"
+generated_at: "2026-11-23T21:25:21.319Z"
+status: "active"
 ---
 
 # § 4722. Mandatory Senate ethics training for Members and staff
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:04.834Z"
 - **(b)** The ethics training program conducted by the Select Committee on Ethics shall be completed by—
   - **(1)** new Senators or staff not later than 60 days after commencing service or employment; and
   - **(2)** Senators and Senate staff serving or employed on September 14, 2007 , not later than 165 days after September 14, 2007 .
+
+## Source Credit
+
+*([Pub. L. 110–81, title V, § 553](https://www.govinfo.gov/link/plaw/110/public/81), Sept. 14, 2007, [121 Stat. 773](https://www.govinfo.gov/link/statute/121/773).)*

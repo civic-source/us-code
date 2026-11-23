@@ -3,9 +3,10 @@ title: "Section 1015 - Definitions"
 usc_title: 16
 usc_section: "1015"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1015"
-generated_at: "2026-03-30T02:54:22.939Z"
+generated_at: "2026-11-23T21:25:51.804Z"
+status: "active"
 ---
 
 # § 1015. Definitions
@@ -50,3 +51,7 @@ In this chapter:
     - **(C)** improves ecological resiliency of a river or stream, including benefits to fisheries, wildlife, or habitat;
     - **(D)** reduces the potential for water conflicts; or
     - **(E)** advances any other goals associated with water quality or quantity that the Secretary determines to be appropriate.
+
+## Source Credit
+
+*([Pub. L. 111–11, title VI, § 6001](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1165](https://www.govinfo.gov/link/statute/123/1165); [Pub. L. 116–260, div. FF, title XI, § 1107(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3243](https://www.govinfo.gov/link/statute/134/3243).)*

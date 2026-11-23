@@ -3,9 +3,10 @@ title: "Section 350g - Hazard analysis and risk-based preventive controls"
 usc_title: 21
 usc_section: "350g"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 350g"
-generated_at: "2026-03-30T02:54:54.227Z"
+generated_at: "2026-11-23T21:25:56.005Z"
+status: "active"
 ---
 
 # § 350g. Hazard analysis and risk-based preventive controls
@@ -113,3 +114,15 @@ generated_at: "2026-03-30T02:54:54.227Z"
     - **(E)** A recall plan.
     - **(F)** Current Good Manufacturing Practices (cGMPs) under part 110 of title 21, Code of Federal Regulations (or any successor regulations).
     - **(G)** Supplier verification activities that relate to the safety of food.
+
+(aa) in the same State as the qualified facility that sold the food to such restaurant or establishment; or
+
+(bb) not more than 275 miles from such facility; and
+
+General rule
+
+Flexibility for small businesses
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 418, as added [Pub. L. 111–353, title I, § 103(a)](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3889](https://www.govinfo.gov/link/statute/124/3889).)*

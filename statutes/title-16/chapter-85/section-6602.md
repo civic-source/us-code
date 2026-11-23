@@ -3,9 +3,10 @@ title: "Section 6602 - Definitions"
 usc_title: 16
 usc_section: "6602"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6602"
-generated_at: "2026-03-30T02:54:23.065Z"
+generated_at: "2026-11-23T21:25:52.049Z"
+status: "active"
 ---
 
 # § 6602. Definitions
@@ -52,3 +53,9 @@ In this chapter:
     - **(B)** The term “tortoise” includes—
       - **(i)** any part, product, egg, or offspring of a tortoise described in subparagraph (A); and
       - **(ii)** a carcass of such a tortoise.
+
+multinational species conservation fund
+
+## Source Credit
+
+*([Pub. L. 108–266, § 3](https://www.govinfo.gov/link/plaw/108/public/266), July 2, 2004, [118 Stat. 792](https://www.govinfo.gov/link/statute/118/792); [Pub. L. 116–9, title VII, § 7001(c)(3)(B)](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 786](https://www.govinfo.gov/link/statute/133/786).)*

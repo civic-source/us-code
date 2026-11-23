@@ -3,9 +3,10 @@ title: "Section 576 - Revolving fund; establishment; availability; reimbursement
 usc_title: 33
 usc_section: "576"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 576"
-generated_at: "2026-03-30T02:55:41.062Z"
+generated_at: "2026-11-23T21:26:11.317Z"
+status: "active"
 ---
 
 # § 576. Revolving fund; establishment; availability; reimbursement; transfer of funds; limitation
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:41.062Z"
   - **(1)** If requested by resolution by the Committee on Environment and Public Works of the Senate or the Committee on Transportation and Infrastructure of the House of Representatives, the Secretary shall create a building project survey for the construction or major renovation of a building described in subsection (b).
   - **(2)** Within a reasonable time after creating a building project survey under paragraph (1), the Secretary shall submit to Congress a report on the survey that includes the information required to be included in a prospectus under subsection (c).
 - **(e)** In this section, the term “major renovation” means a renovation or alteration of a building for use by the Corps of Engineers with a total expenditure of more than $20,000,000.
+
+## Source Credit
+
+*(July 27, 1953, ch. 245, § 101, [67 Stat. 199](https://www.govinfo.gov/link/statute/67/199); [Pub. L. 114–322, title I, § 1160](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1667](https://www.govinfo.gov/link/statute/130/1667).)*

@@ -3,9 +3,10 @@ title: "Section 2419 - Administration"
 usc_title: 19
 usc_section: "2419"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2419"
-generated_at: "2026-03-30T02:54:24.674Z"
+generated_at: "2026-11-23T21:25:42.803Z"
+status: "active"
 ---
 
 # § 2419. Administration
@@ -19,3 +20,7 @@ The Trade Representative shall—
     - **(B)** developments in, and the current status of, each investigation or proceeding under this subchapter,
     - **(C)** the actions taken, or the reasons for no action, by the Trade Representative under section 2411 of this title with respect to investigations conducted under this subchapter, and
     - **(D)** the commercial effects of actions taken under section 2411 of this title .
+
+## Source Credit
+
+*([Pub. L. 93–618, title III, § 309](https://www.govinfo.gov/link/plaw/93/public/618), as added [Pub. L. 100–418, title I, § 1301(a)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1175](https://www.govinfo.gov/link/statute/102/1175).)*

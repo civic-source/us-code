@@ -3,9 +3,10 @@ title: "Section 1365 - Annual report of plan administrator"
 usc_title: 29
 usc_section: "1365"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1365"
-generated_at: "2026-03-30T02:55:18.734Z"
+generated_at: "2026-11-23T21:26:02.295Z"
+status: "active"
 ---
 
 # § 1365. Annual report of plan administrator
@@ -20,3 +21,7 @@ For each plan year for which section 1321 of this title applies to a plan, the p
       - **(ii)** the value of the plan’s assets as of the end of the plan year;
     - **(B)** a statement certified by the plan sponsor of each claim for outstanding withdrawal liability (within the meaning of section 1301(a)(12) of this title ) and its value as of the end of that plan year and as of the end of the preceding plan year; and
     - **(C)** the number of employers having an obligation to contribute to the plan and the number of employers required to make withdrawal liability payments.
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4065](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 1032](https://www.govinfo.gov/link/statute/88/1032); [Pub. L. 96–364, title I, § 106](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1266](https://www.govinfo.gov/link/statute/94/1266).)*

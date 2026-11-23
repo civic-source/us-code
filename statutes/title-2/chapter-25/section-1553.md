@@ -3,9 +3,10 @@ title: "Section 1553 - Special authorities of Advisory Commission"
 usc_title: 2
 usc_section: "1553"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1553"
-generated_at: "2026-03-30T02:53:04.815Z"
+generated_at: "2026-11-23T21:25:21.234Z"
+status: "active"
 ---
 
 # § 1553. Special authorities of Advisory Commission
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:04.815Z"
 - **(b)** Upon request of the Executive Director of the Advisory Commission, the head of any Federal department or agency may detail, on a reimbursable basis, any of the personnel of that department or agency to the Advisory Commission to assist it in carrying out this subchapter.
 - **(c)** Upon the request of the Advisory Commission, the Administrator of General Services shall provide to the Advisory Commission, on a reimbursable basis, the administrative support services necessary for the Advisory Commission to carry out its duties under this subchapter.
 - **(d)** The Advisory Commission may, subject to appropriations, contract with and compensate government and private persons (including agencies) for property and services used to carry out its duties under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 104–4, title III, § 303](https://www.govinfo.gov/link/plaw/104/public/4), Mar. 22, 1995, [109 Stat. 69](https://www.govinfo.gov/link/statute/109/69).)*

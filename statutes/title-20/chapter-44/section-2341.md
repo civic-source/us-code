@@ -3,9 +3,10 @@ title: "Section 2341 - State administration"
 usc_title: 20
 usc_section: "2341"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 2341"
-generated_at: "2026-03-30T02:54:48.174Z"
+generated_at: "2026-11-23T21:25:47.382Z"
+status: "active"
 ---
 
 # § 2341. State administration
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:48.174Z"
     - **(A)** implement State level coordination with the activities undertaken by the State boards under section 3111 of title 29 ; and
     - **(B)** make available to the one-stop delivery system under section 3151 of title 29 within the State a listing of all school dropout, postsecondary education, and adult programs assisted under this subchapter.
 - **(b)** Except with respect to the responsibilities set forth in subsection (a), the eligible agency may delegate any of the other responsibilities of the eligible agency that involve the administration, operation, or supervision of activities assisted under this subchapter, in whole or in part, to 1 or more appropriate State agencies.
+
+## Source Credit
+
+*([Pub. L. 88–210, title I, § 121](https://www.govinfo.gov/link/plaw/88/public/210), as added [Pub. L. 109–270, § 1(b)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 715](https://www.govinfo.gov/link/statute/120/715); amended [Pub. L. 113–128, title V, § 512(e)(2)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1706](https://www.govinfo.gov/link/statute/128/1706); [Pub. L. 115–224, title I, § 121](https://www.govinfo.gov/link/plaw/115/public/224), July 31, 2018, [132 Stat. 1599](https://www.govinfo.gov/link/statute/132/1599).)*

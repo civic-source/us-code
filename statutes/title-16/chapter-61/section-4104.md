@@ -3,9 +3,10 @@ title: "Section 4104 - State projects"
 usc_title: 16
 usc_section: "4104"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4104"
-generated_at: "2026-03-30T02:54:23.041Z"
+generated_at: "2026-11-23T21:25:52.010Z"
+status: "active"
 ---
 
 # § 4104. State projects
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:23.041Z"
     - **(B)** For the purposes of this chapter, funds apportioned under this section to any State shall be treated as having been obligated with respect to a project during the fiscal year in which the written notification of approval required under subparagraph (A) for the project proposal is made.
 - **(b)** The expenditure of funds under this chapter shall be applied only to projects for which a proposal has been approved under subsection (a), except that up to $25,000 each fiscal year may be obligated for a State to carry out an agreement with the Secretary or the Secretary of the Interior under which the personnel, services and equipment of the State and the Federal agency concerned will be made mutually available for the enforcement of Federal and State laws pertaining to the protection of fishery resources. If otherwise applied, such funds shall be replaced by the State before the State may receive any additional funds under this chapter.
 - **(c)** When the Secretary determines that a project carried out under a proposal approved by the Secretary has been completed, or where the Secretary otherwise deems it appropriate, the Secretary shall cause to be paid to the proper authority of the State, or to the official or depository designated by the interstate commission if the State agency specifies that payment is to be made to the interstate commission, the Federal share of the project. Any payment made to an interstate commission shall be charged against the apportionment of the State concerned.
+
+## Source Credit
+
+*([Pub. L. 99–659, title III, § 305](https://www.govinfo.gov/link/plaw/99/public/659), Nov. 14, 1986, [100 Stat. 3734](https://www.govinfo.gov/link/statute/100/3734).)*

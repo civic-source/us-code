@@ -3,9 +3,10 @@ title: "Section 262d - Human rights and United States assistance policies with i
 usc_title: 22
 usc_section: "262d"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 262d"
-generated_at: "2026-03-30T02:55:05.303Z"
+generated_at: "2026-11-23T21:25:58.319Z"
+status: "active"
 ---
 
 # § 262d. Human rights and United States assistance policies with international financial institutions
@@ -28,3 +29,11 @@ generated_at: "2026-03-30T02:55:05.303Z"
 - **(g)** In determining whether the government of a country engages in a pattern of gross violations of internationally recognized human rights, as described in subsection (a), the President shall give particular consideration to whether a foreign government—
   - **(1)** has engaged in or tolerated particularly severe violations of religious freedom, as defined in section 6402 of this title ; or
   - **(2)** has failed to undertake serious and sustained efforts to combat particularly severe violations of religious freedom when such efforts could have been reasonably undertaken.
+
+Requirements
+
+Briefings
+
+## Source Credit
+
+*([Pub. L. 95–118, title VII, § 701](https://www.govinfo.gov/link/plaw/95/public/118), Oct. 3, 1977, [91 Stat. 1069](https://www.govinfo.gov/link/statute/91/1069); [Pub. L. 96–259, title V, § 501(a)](https://www.govinfo.gov/link/plaw/96/public/259), (b), June 3, 1980, [94 Stat. 431](https://www.govinfo.gov/link/statute/94/431), 432; [Pub. L. 97–35, title XIII, § 1342(b)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 743](https://www.govinfo.gov/link/statute/95/743); [Pub. L. 97–375, title II, § 211](https://www.govinfo.gov/link/plaw/97/public/375), Dec. 21, 1982, [96 Stat. 1826](https://www.govinfo.gov/link/statute/96/1826); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title X, § 1004], Nov. 30, 1983, [97 Stat. 1286](https://www.govinfo.gov/link/statute/97/1286); [Pub. L. 101–240, title V, § 541(c)](https://www.govinfo.gov/link/plaw/101/public/240), (d)(4), (e)(8), Dec. 19, 1989, [103 Stat. 2517–2519](https://www.govinfo.gov/link/statute/103/2517); [Pub. L. 101–513, title V, § 562(b)(2)](https://www.govinfo.gov/link/plaw/101/public/513), Nov. 5, 1990, [104 Stat. 2034](https://www.govinfo.gov/link/statute/104/2034); [Pub. L. 102–511, title X, § 1008](https://www.govinfo.gov/link/plaw/102/public/511), Oct. 24, 1992, [106 Stat. 3361](https://www.govinfo.gov/link/statute/106/3361); [Pub. L. 103–236, title VIII, § 823(b)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 512](https://www.govinfo.gov/link/statute/108/512); [Pub. L. 105–292, title IV, § 422](https://www.govinfo.gov/link/plaw/105/public/292), Oct. 27, 1998, [112 Stat. 2810](https://www.govinfo.gov/link/statute/112/2810); [Pub. L. 106–569, title XI, § 1103(g)](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 3031](https://www.govinfo.gov/link/statute/114/3031); [Pub. L. 113–188, title XVI, § 1601(b)](https://www.govinfo.gov/link/plaw/113/public/188), Nov. 26, 2014, [128 Stat. 2025](https://www.govinfo.gov/link/statute/128/2025).)*

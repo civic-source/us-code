@@ -3,9 +3,10 @@ title: "Section 3761 - Foreclosure costs"
 usc_title: 12
 usc_section: "3761"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3761"
-generated_at: "2026-03-30T02:53:53.497Z"
+generated_at: "2026-11-23T21:25:37.150Z"
+status: "active"
 ---
 
 # § 3761. Foreclosure costs
@@ -17,3 +18,7 @@ The following foreclosure costs shall be paid from the sale proceeds before sati
   - **(3)** Reasonable and necessary costs incurred in connection with any search of title and lien records.
   - **(4)** Costs incurred to record documents.
   - **(5)** A commission for the foreclosure commissioner (if the foreclosure commissioner is not an employee of the United States) for the conduct of the foreclosure, to the extent such a commission is authorized by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 103–327, title II](https://www.govinfo.gov/link/plaw/103/public/327), Sept. 28, 1994, [108 Stat. 2316](https://www.govinfo.gov/link/statute/108/2316).)*

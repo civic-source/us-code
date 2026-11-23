@@ -3,9 +3,10 @@ title: "Section 3208 - Indian Child Abuse Treatment Grant Program"
 usc_title: 25
 usc_section: "3208"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3208"
-generated_at: "2026-03-30T02:54:52.850Z"
+generated_at: "2026-11-23T21:25:54.688Z"
+status: "active"
 ---
 
 # § 3208. Indian Child Abuse Treatment Grant Program
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:52.850Z"
   - **(1)** a description of treatment and services for which grantees have used funds awarded under this section; and
   - **(2)** any other information that the Service requires.
 - **(f)** there 1 1 So in original. Probably should be capitalized. is hereby authorized to be appropriated to carry out the provisions of this section $10,000,000 for each of the fiscal years 1992, 1993, 1994, 1995, 1996, and 1997.
+
+## Source Credit
+
+*([Pub. L. 101–630, title IV, § 409](https://www.govinfo.gov/link/plaw/101/public/630), Nov. 28, 1990, [104 Stat. 4551](https://www.govinfo.gov/link/statute/104/4551); [Pub. L. 104–16, § 1](https://www.govinfo.gov/link/plaw/104/public/16), June 21, 1995, [109 Stat. 190](https://www.govinfo.gov/link/statute/109/190); [Pub. L. 118–160, § 2(2)](https://www.govinfo.gov/link/plaw/118/public/160), Dec. 23, 2024, [138 Stat. 2567](https://www.govinfo.gov/link/statute/138/2567).)*

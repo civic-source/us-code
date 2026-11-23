@@ -3,9 +3,10 @@ title: "Section 673 - Adoption and guardianship assistance program"
 usc_title: 42
 usc_section: "673"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 673"
-generated_at: "2026-03-30T02:56:10.889Z"
+generated_at: "2026-11-23T21:26:31.158Z"
+status: "active"
 ---
 
 # § 673. Adoption and guardianship assistance program
@@ -118,3 +119,63 @@ generated_at: "2026-03-30T02:56:10.889Z"
     - **(A)** is a sibling of a child who is an applicable child for the fiscal year under paragraph (1) or (2) of this subsection;
     - **(B)** is to be placed in the same adoption placement as an applicable child for the fiscal year who is their sibling; and
     - **(C)** meets the requirements of subsection (a)(2)(A)(ii).
+
+| In the case of fiscal year: | The applicable age is: |
+| --- | --- |
+| 2010 | 16 |
+| 2011 | 14 |
+| 2012 | 12 |
+| 2013 | 10 |
+| 2014 | 8 |
+| 2015 | 6 |
+| 2016 | 4 |
+| 2017 through 2023 | 2 |
+| 2024 | 2 (or, in the case of a child for whom an adoption assistance agreement is entered into under this section on or after July 1, 2024 , any age) |
+| 2025 or thereafter | any age. |
+
+
+(aa) (AA) was removed from the home of a relative specified in section 606(a) of this title (as in effect on July 16, 1996 ) and placed in foster care in accordance with a voluntary placement agreement with respect to which Federal payments are provided under section 674 of this title (or section 603 of this title , as such section was in effect on July 16, 1996 ), or in accordance with a judicial determination to the effect that continuation in the home would be contrary to the welfare of the child; and (BB) met the requirements of section 672(a)(3) of this title with respect to the home referred to in subitem (AA) of this item;
+
+(bb) meets all of the requirements of subchapter XVI with respect to eligibility for supplemental security income benefits; or
+
+(cc) is a child whose costs in a foster family home or child-care institution are covered by the foster care maintenance payments being made with respect to the minor parent of the child as provided in section 675(4)(B) of this title ; and
+
+(aa) at the time of initiation of adoption proceedings was in the care of a public or licensed private child placement agency or Indian tribal organization pursuant to— (AA) an involuntary removal of the child from the home in accordance with a judicial determination to the effect that continuation in the home would be contrary to the welfare of the child; or (BB) a voluntary placement agreement or voluntary relinquishment;
+
+(bb) meets all medical or disability requirements of subchapter XVI with respect to eligibility for supplemental security income benefits; or
+
+(cc) was residing in a foster family home or child care institution with the child’s minor parent, and the child’s minor parent was in such foster family home or child care institution pursuant to— (AA) an involuntary removal of the child from the home in accordance with a judicial determination to the effect that continuation in the home would be contrary to the welfare of the child; or (BB) a voluntary placement agreement or voluntary relinquishment; and
+
+(aa) the prior adoption has been dissolved, and the parental rights of the adoptive parents have been terminated; or
+
+(bb) the child’s adoptive parents have died; and
+
+(aa) the child were treated as if the child were in the same financial and other circumstances the child was in the last time the child was determined eligible for adoption assistance payments under this part; and
+
+(bb) the prior adoption were treated as never having occurred; or
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017 through 2023
+
+2024
+
+July 1, 2024
+
+2025 or thereafter
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 473, as added and amended [Pub. L. 96–272, title I](https://www.govinfo.gov/link/plaw/96/public/272), §§ 101(a)(1), 102(a)(3), June 17, 1980, [94 Stat. 504](https://www.govinfo.gov/link/statute/94/504), 514; [Pub. L. 99–272, title XII, § 12305(a)](https://www.govinfo.gov/link/plaw/99/public/272), (b)(1), Apr. 7, 1986, [100 Stat. 293](https://www.govinfo.gov/link/statute/100/293); [Pub. L. 99–514, title XVII, § 1711(a)](https://www.govinfo.gov/link/plaw/99/public/514), (b), (c)(3)–(5), Oct. 22, 1986, [100 Stat. 2783](https://www.govinfo.gov/link/statute/100/2783), 2784; [Pub. L. 99–603, title II, § 201(b)(2)(B)](https://www.govinfo.gov/link/plaw/99/public/603), Nov. 6, 1986, [100 Stat. 3403](https://www.govinfo.gov/link/statute/100/3403); [Pub. L. 100–203, title IX](https://www.govinfo.gov/link/plaw/100/public/203), §§ 9133(b)(3), (4), 9139(b), Dec. 22, 1987, [101 Stat. 1330–314](https://www.govinfo.gov/link/statute/101/1330), 1330–321; [Pub. L. 103–432, title II](https://www.govinfo.gov/link/plaw/103/public/432), §§ 265(b), 266(a), Oct. 31, 1994, [108 Stat. 4469](https://www.govinfo.gov/link/statute/108/4469); [Pub. L. 104–193, title I, § 108(d)(5)](https://www.govinfo.gov/link/plaw/104/public/193), (6), Aug. 22, 1996, [110 Stat. 2167](https://www.govinfo.gov/link/statute/110/2167); [Pub. L. 105–33, title V, § 5513(b)(3)](https://www.govinfo.gov/link/plaw/105/public/33), (4), Aug. 5, 1997, [111 Stat. 620](https://www.govinfo.gov/link/statute/111/620); [Pub. L. 105–89, title III, § 307(a)](https://www.govinfo.gov/link/plaw/105/public/89), Nov. 19, 1997, [111 Stat. 2133](https://www.govinfo.gov/link/statute/111/2133); [Pub. L. 109–171, title VII, § 7404(b)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 153](https://www.govinfo.gov/link/statute/120/153); [Pub. L. 110–351, title I, § 101(b)](https://www.govinfo.gov/link/plaw/110/public/351), (c)(1), (5), (f), title II, § 201(c), title IV, § 402, Oct. 7, 2008, [122 Stat. 3950](https://www.govinfo.gov/link/statute/122/3950), 3951, 3953, 3958, 3975; [Pub. L. 111–148, title VI, § 6703(d)(2)(B)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 803](https://www.govinfo.gov/link/statute/124/803); [Pub. L. 112–34, title I, § 106(c)](https://www.govinfo.gov/link/plaw/112/public/34), Sept. 30, 2011, [125 Stat. 377](https://www.govinfo.gov/link/statute/125/377); [Pub. L. 113–183, title II](https://www.govinfo.gov/link/plaw/113/public/183), §§ 206, 207, Sept. 29, 2014, [128 Stat. 1939](https://www.govinfo.gov/link/statute/128/1939), 1940; [Pub. L. 115–123, div. E, title VII, § 50781(a)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 268](https://www.govinfo.gov/link/statute/132/268).)*

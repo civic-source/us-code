@@ -3,9 +3,10 @@ title: "Section 3192 - Land acquisition authority"
 usc_title: 16
 usc_section: "3192"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3192"
-generated_at: "2026-03-30T02:54:23.012Z"
+generated_at: "2026-11-23T21:25:51.963Z"
+status: "active"
 ---
 
 # § 3192. Land acquisition authority
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:23.012Z"
 - **(i)**
   - **(1)** The Secretary is authorized to acquire by donation or exchange, lands (A) which are contiguous to any conservation system unit established or expanded by this Act, and (B) which are owned or validly selected by the State of Alaska.
   - **(2)** Any such lands so acquired shall become a part of such conservation system unit.
+
+## Source Credit
+
+*([Pub. L. 96–487, title XIII, § 1302](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2474](https://www.govinfo.gov/link/statute/94/2474); [Pub. L. 100–395, title II, § 201](https://www.govinfo.gov/link/plaw/100/public/395), Aug. 16, 1988, [102 Stat. 981](https://www.govinfo.gov/link/statute/102/981).)*

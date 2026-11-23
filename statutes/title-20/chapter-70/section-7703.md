@@ -3,9 +3,10 @@ title: "Section 7703 - Payments for eligible federally connected children"
 usc_title: 20
 usc_section: "7703"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7703"
-generated_at: "2026-03-30T02:54:48.215Z"
+generated_at: "2026-11-23T21:25:47.596Z"
+status: "active"
 ---
 
 # § 7703. Payments for eligible federally connected children
@@ -184,3 +185,79 @@ generated_at: "2026-03-30T02:54:48.215Z"
     - **(A)** If the sums made available under this subchapter for any fiscal year are insufficient to pay the full amounts that all local educational agencies in all States are eligible to receive under paragraph (1) for such year, then the Secretary shall ratably reduce the payments to all such agencies for such year.
     - **(B)** If additional funds become available for making payments under paragraph (1) for such fiscal year, payments that were reduced under subparagraph (A) shall be increased on the same basis as such payments were reduced.
 - **(f)** Notwithstanding any other provision of law, a local educational agency receiving funds under this section may also receive funds under section 386 of the National Defense Authorization Act for Fiscal Year 1993 or such section’s successor authority.
+
+(aa) whose boundaries are the same as a Federal military installation; or
+
+(bb) (AA) whose boundaries are the same as an island property designated by the Secretary of the Interior to be property that is held in trust by the Federal Government; and (BB) that has no taxing authority;
+
+(aa) has an enrollment of children described in subsection (a)(1) that constitutes a percentage of the total student enrollment of the agency that is not less than 45 percent;
+
+(bb) has a per-pupil expenditure that is less than— (AA) for an agency that has a total student enrollment of 500 or more students, 125 percent of the average per-pupil expenditure of the State in which the agency is located; or (BB) for any agency that has a total student enrollment of less than 500 students, 150 percent of the average per-pupil expenditure of the State in which the agency is located or the average per-pupil expenditure of 3 or more comparable local educational agencies in the State in which the agency is located; and
+
+(cc) is an agency that has a tax rate for general fund purposes that is not less than 95 percent of the average tax rate for general fund purposes of comparable local educational agencies in the State;
+
+(aa) has a tax rate for general fund purposes which is not less than 125 percent of the average tax rate for general fund purposes for comparable local educational agencies in the State;
+
+(bb) (AA) has an enrollment of children described in subsection (a)(1) that constitutes a percentage of the total student enrollment of the agency that is not less than 30 percent; or (BB) has an enrollment of children described in subsection (a)(1) that constitutes a percentage of the total student enrollment of the agency that is not less than 20 percent, and for the 3 fiscal years preceding the fiscal year for which the determination is made, the average enrollment of children who are not described in subsection (a)(1) and who are eligible for a free or reduced price lunch under the Richard B. Russell National School Lunch Act [ 42 U.S.C. 1751 et seq.] constitutes a percentage of the total student enrollment of the agency that is not less than 65 percent and received assistance for fiscal year 2017 pursuant to subparagraph (G); and
+
+(cc) received assistance under subparagraph (A) of section 7703(b)(2) of this title , 1 1 See References in Text note below. as such section was in effect on the day before December 10, 2015 , for a fiscal year prior to fiscal year 2017;
+
+(aa) not less than 35 percent are children described in subsection (a)(1); and
+
+(bb) (AA) not less than 3,500 of such children are children described in subparagraphs (A) and (B) of subsection (a)(1); or (BB) not less than 7,000 of such children are children described in subparagraph (D) of subsection (a)(1);
+
+(aa) has an enrollment of children described in subsection (a)(1) including, for purposes of determining eligibility, those children described in subparagraphs (F) and (G) of such subsection, that is not less than 35 percent of the total student enrollment of the agency;
+
+(bb) has a per-pupil expenditure described in subclause (II)(bb) (except that a local educational agency with a total student enrollment of less than 350 students shall be deemed to have satisfied such per-pupil expenditure requirement) and has a tax rate for general fund purposes which is not less than 95 percent of the average tax rate for general fund purposes for comparable local educational agencies in the State; and
+
+(cc) was eligible to receive assistance under subparagraph (A) for fiscal year 2001.
+
+(aa) Percentage enrollment For a local educational agency in which 35 percent or more of the total student enrollment of the schools of the agency are children described in subparagraph (D) or (E) (or a combination thereof) of subsection (a)(1), and that has an enrollment of children described in subparagraph (A), (B), or (C) of such subsection equal to at least 10 percent of the agency’s total enrollment, the Secretary shall calculate the weighted student units of those children described in subparagraph (D) or (E) of such subsection by multiplying the number of such children by a factor of 0.55.
+
+(bb) Exception Notwithstanding item (aa), a local educational agency that received a payment under this paragraph for fiscal year 2013 shall not be required to have an enrollment of children described in subparagraph (A), (B), or (C) of subsection (a)(1) equal to at least 10 percent of the agency’s total enrollment and shall be eligible for the student weight as provided for in item (aa).
+
+(aa) not less than 3,500 of such children are children described in subparagraphs (A) and (B) of subsection (a)(1); or
+
+(bb) not less than 7,000 of such children are children described in subparagraph (D) of subsection (a)(1).
+
+(aa) .30 with respect to each of the first 7,000 children; and
+
+(bb) .25 with respect to the number of children that exceeds 7,000.
+
+(aa) shall provide for a review and certification of such amount by an appropriate local tax authority; and
+
+(bb) shall submit to the Secretary a report containing the amount certified under item (aa).
+
+(aa) subparagraph (A), (B), (C), or (D) of subsection (a)(1); or
+
+(bb) subparagraphs (F) and (G) of subsection (a)(1), but only to the extent that such children are civilian dependents of employees of the Department of Defense or the Department of the Interior; or
+
+Eligibility
+
+Amount of payment
+
+Certification
+
+Briefings.—
+
+Initial
+
+Annual
+
+Definitions
+
+Military ‘Build to Lease’ Program Housing
+
+References
+
+In general
+
+Applicability for fiscal year 2016
+
+Loss of eligibility
+
+Payment amounts
+
+## Source Credit
+
+*([Pub. L. 89–10, title VII, § 7003](https://www.govinfo.gov/link/plaw/89/public/10), formerly title VIII, § 8003, as added [Pub. L. 103–382, title I, § 101](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 3752](https://www.govinfo.gov/link/statute/108/3752); amended [Pub. L. 104–106, div. A, title X, § 1074(f)](https://www.govinfo.gov/link/plaw/104/public/106), (g), Feb. 10, 1996, [110 Stat. 448](https://www.govinfo.gov/link/statute/110/448), 449; [Pub. L. 104–195](https://www.govinfo.gov/link/plaw/104/public/195), §§ 3(a), 4(a), 5(a), (b), Sept. 16, 1996, [110 Stat. 2380–2382](https://www.govinfo.gov/link/statute/110/2380); [Pub. L. 104–201, div. A, title III, § 376](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2503](https://www.govinfo.gov/link/statute/110/2503); [Pub. L. 104–208, div. A, title I, § 101(e) [title III, § 307(a)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–233](https://www.govinfo.gov/link/statute/110/3009), 3009–262; [Pub. L. 105–18, title VI, § 60005(a)](https://www.govinfo.gov/link/plaw/105/public/18), June 12, 1997, [111 Stat. 214](https://www.govinfo.gov/link/statute/111/214); [Pub. L. 105–78, title III](https://www.govinfo.gov/link/plaw/105/public/78), Nov. 13, 1997, [111 Stat. 1497](https://www.govinfo.gov/link/statute/111/1497); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title XVIII, §§ 1804(a), (b)(1), (c), 1805–1808(b)(1)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–372, 1654A–374 to 1654A–382; [Pub. L. 106–554, § 1(a)(1) [title III, § 323]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–61; [Pub. L. 107–20, title II, § 2703(a)](https://www.govinfo.gov/link/plaw/107/public/20), July 24, 2001, [115 Stat. 182](https://www.govinfo.gov/link/statute/115/182); [Pub. L. 107–110, title VIII, § 802(a)(1)](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1949](https://www.govinfo.gov/link/statute/115/1949); [Pub. L. 107–206, title I](https://www.govinfo.gov/link/plaw/107/public/206), §§ 801, 802, Aug. 2, 2002, [116 Stat. 874](https://www.govinfo.gov/link/statute/116/874); [Pub. L. 107–279, title IV, § 406(a)](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1986](https://www.govinfo.gov/link/statute/116/1986); [Pub. L. 107–314, div. A, title III, § 344](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2515](https://www.govinfo.gov/link/statute/116/2515); [Pub. L. 108–136, div. A, title V, § 537(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1475](https://www.govinfo.gov/link/statute/117/1475); [Pub. L. 111–84, div. A, title V, § 536](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2293](https://www.govinfo.gov/link/statute/123/2293); [Pub. L. 112–239, div. A, title V, § 563(b)(2)](https://www.govinfo.gov/link/plaw/112/public/239), (c)(4), Jan. 2, 2013, [126 Stat. 1746](https://www.govinfo.gov/link/statute/126/1746), 1748; renumbered title VII, § 7003, and amended [Pub. L. 114–95, title VII](https://www.govinfo.gov/link/plaw/114/public/95), §§ 7001(a)(1), (c)(1), (d)(10), 7004, Dec. 10, 2015, [129 Stat. 2074](https://www.govinfo.gov/link/statute/129/2074), 2075, 2077; [Pub. L. 114–328, div. A, title V, § 579(b)(1)](https://www.govinfo.gov/link/plaw/114/public/328), (d)(1), Dec. 23, 2016, [130 Stat. 2145](https://www.govinfo.gov/link/statute/130/2145), 2146; [Pub. L. 115–141, div. H, title III, § 311(d)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 750](https://www.govinfo.gov/link/statute/132/750).)*

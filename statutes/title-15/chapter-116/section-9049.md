@@ -3,9 +3,10 @@ title: "Section 9049 - Temporary hiring flexibility"
 usc_title: 15
 usc_section: "9049"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9049"
-generated_at: "2026-03-30T02:54:08.241Z"
+generated_at: "2026-11-23T21:25:40.123Z"
+status: "active"
 ---
 
 # § 9049. Temporary hiring flexibility
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.241Z"
   - **(1)** the termination date of the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared by the President on March 13, 2020 under the National Emergencies Act ( 50 U.S.C. 1601 et seq.); or
   - **(2)** December 31, 2020 .
 - **(b)** During the covered period, the Secretary of Housing and Urban Development, the Securities and Exchange Commission, and the Commodity Futures Trading Commission may, without regard to sections 3309 through 3318 of title 5, recruit and appoint candidates to fill temporary and term appointments within their respective agencies upon a determination that those expedited procedures are necessary and appropriate to enable the respective agencies to prevent, prepare for, or respond to COVID–19.
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title IV, § 4010](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 478](https://www.govinfo.gov/link/statute/134/478).)*

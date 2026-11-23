@@ -3,9 +3,10 @@ title: "Section 7221c - Facilities financing assistance"
 usc_title: 20
 usc_section: "7221c"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7221c"
-generated_at: "2026-03-30T02:54:48.207Z"
+generated_at: "2026-11-23T21:25:47.558Z"
+status: "active"
 ---
 
 # § 7221c. Facilities financing assistance
@@ -87,3 +88,7 @@ generated_at: "2026-03-30T02:54:48.207Z"
         - **(II)** provides annual financing, on a per-pupil basis, for charter school facilities.
       - **(ii)** A State that is required under State law to provide its charter schools with access to adequate facility space, but that does not have a per-pupil facilities aid program for charter schools specified in State law, is eligible to receive a grant under this subsection if the State agrees to use the funds to develop a per-pupil facilities aid program consistent with the requirements of this subsection.
   - **(5)** To be eligible to receive a grant under this subsection, a State shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4304](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title IV, § 4301(1)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2004](https://www.govinfo.gov/link/statute/129/2004).)*

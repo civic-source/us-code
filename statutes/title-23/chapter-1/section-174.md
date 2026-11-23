@@ -3,9 +3,10 @@ title: "Section 174 - State human capital plans"
 usc_title: 23
 usc_section: "174"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 174"
-generated_at: "2026-03-30T02:55:12.563Z"
+generated_at: "2026-11-23T21:25:53.908Z"
+status: "active"
 ---
 
 # § 174. State human capital plans
@@ -34,3 +35,27 @@ generated_at: "2026-03-30T02:55:12.563Z"
 - **(f)** Nothing in this section prevents a State from carrying out transportation workforce planning—
   - **(1)** not described in this section; or
   - **(2)** not in accordance with this section.
+
+In General
+
+Plan Contents.—
+
+In general
+
+Planning period
+
+Plan Updates
+
+Relationship to Long-range Plan.—
+
+In general
+
+Effect of section
+
+Public Availability
+
+Savings Provision
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. A, title I, § 11203(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 519](https://www.govinfo.gov/link/statute/135/519).)*

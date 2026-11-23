@@ -3,9 +3,10 @@ title: "Section 9823 - Air ambulance report requirements"
 usc_title: 26
 usc_section: "9823"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 9823"
-generated_at: "2026-03-30T02:55:27.898Z"
+generated_at: "2026-11-23T21:26:07.050Z"
+status: "active"
 ---
 
 # § 9823. Air ambulance report requirements
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:27.898Z"
     - **(D)** The type of aircraft (such as rotor transport or fixed wing transport) used to furnish such services.
     - **(E)** Whether the provider of such services has a contract with the plan or issuer, as applicable, to furnish such services under the plan or coverage, respectively.
   - **(2)** Such other information regarding providers of air ambulance services as the Secretary may specify.
+
+## Source Credit
+
+*(Added [Pub. L. 116–260, div. BB, title I, § 106(b)(3)(A)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2854](https://www.govinfo.gov/link/statute/134/2854).)*

@@ -3,9 +3,10 @@ title: "Section 3414 - Enforcement"
 usc_title: 15
 usc_section: "3414"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3414"
-generated_at: "2026-03-30T02:54:08.189Z"
+generated_at: "2026-11-23T21:25:39.969Z"
+status: "active"
 ---
 
 # § 3414. Enforcement
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:08.189Z"
   - **(5)** For purposes of this subsection, the term “knowingly”, when used with respect to any act or omission by any person, means such person—
     - **(A)** had actual knowledge; or
     - **(B)** had constructive knowledge deemed to be possessed by a reasonable individual who acts under similar circumstances.
+
+## Source Credit
+
+*([Pub. L. 95–621, title V, § 504](https://www.govinfo.gov/link/plaw/95/public/621), Nov. 9, 1978, [92 Stat. 3401](https://www.govinfo.gov/link/statute/92/3401); [Pub. L. 101–60, § 3(a)(4)](https://www.govinfo.gov/link/plaw/101/public/60), (b)(6), July 26, 1989, [103 Stat. 158](https://www.govinfo.gov/link/statute/103/158), 159; [Pub. L. 109–58, title III, § 314(a)(2)](https://www.govinfo.gov/link/plaw/109/public/58), (b)(2), Aug. 8, 2005, [119 Stat. 690](https://www.govinfo.gov/link/statute/119/690), 691.)*

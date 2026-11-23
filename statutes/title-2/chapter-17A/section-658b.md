@@ -3,9 +3,10 @@ title: "Section 658b - Duties of Congressional committees"
 usc_title: 2
 usc_section: "658b"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 658b"
-generated_at: "2026-03-30T02:53:04.801Z"
+generated_at: "2026-11-23T21:25:21.176Z"
+status: "active"
 ---
 
 # § 658b. Duties of Congressional committees
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:04.801Z"
 - **(f)**
   - **(1)** Upon receiving a statement from the Director under section 658c of this title , a committee of the Senate or the House of Representatives shall publish the statement in the committee report accompanying the bill or joint resolution to which the statement relates if the statement is available at the time the report is printed.
   - **(2)** If the statement is not published in the report, or if the bill or joint resolution to which the statement relates is expected to be considered by the Senate or the House of Representatives before the report is published, the committee shall cause the statement, or a summary thereof, to be published in the Congressional Record in advance of floor consideration of the bill or joint resolution.
+
+## Source Credit
+
+*([Pub. L. 93–344, title IV, § 423](https://www.govinfo.gov/link/plaw/93/public/344), as added [Pub. L. 104–4, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/104/public/4), Mar. 22, 1995, [109 Stat. 53](https://www.govinfo.gov/link/statute/109/53); amended [Pub. L. 106–141, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/141), Dec. 7, 1999, [113 Stat. 1699](https://www.govinfo.gov/link/statute/113/1699).)*

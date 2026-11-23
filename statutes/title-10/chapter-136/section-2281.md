@@ -3,9 +3,10 @@ title: "Section 2281 - Global Positioning System"
 usc_title: 10
 usc_section: "2281"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2281"
-generated_at: "2026-03-30T02:53:38.153Z"
+generated_at: "2026-11-23T21:25:32.594Z"
+status: "active"
 ---
 
 # § 2281. Global Positioning System
@@ -26,3 +27,125 @@ generated_at: "2026-03-30T02:53:38.153Z"
     - **(B)** The navigation payloads that produce the Global Positioning System signals.
     - **(C)** The ground stations, data links, and associated command and control facilities.
   - **(2)** The term “GPS Standard Positioning Service” means the civil and commercial service provided by the basic Global Positioning System as defined in the 1996 Federal Radionavigation Plan (published jointly by the Secretary of Defense and the Secretary of Transportation in July 1997).
+
+Sustainment and Operation for Military Purposes
+
+Sustainment and Operation for Civilian Purposes
+
+Federal Radionavigation Plan
+
+Definitions
+
+In General
+
+Plan.—
+
+In general
+
+Reprogramming and budget proposals
+
+Coordination
+
+Prohibition
+
+Actions Not Prohibited
+
+Limitation, Estimate, and Certification
+
+Covered Costs
+
+Range of Eligible Reimbursable Costs
+
+Distribution of Estimate
+
+Authority of Secretary of Defense to Seek Recovery of Costs
+
+Reimbursement.—
+
+In general
+
+Use of funds
+
+Report
+
+Prototype Multi-GNSS Program
+
+Elements
+
+Briefing
+
+Report
+
+Limitation
+
+Waiver Authority for Trusted Signals Capabilities
+
+Definitions
+
+Capability for Trusted Signals.—
+
+Requirement
+
+Waiver
+
+Limitation on delegation
+
+Capability for Other Signals
+
+Engagement
+
+Designation
+
+Roles and Responsibilities
+
+Support
+
+Reports
+
+Definitions
+
+Reports Required
+
+Elements
+
+Comptroller General Review and Assessment; Briefing.—
+
+Requirements
+
+Timing
+
+Termination
+
+In General
+
+Exception
+
+Waiver
+
+Limitation on Delegation of Waiver Authority
+
+“The use of multi-agency funding and other forms of support is hereby authorized for the functions and activities of the following organizations established pursuant to the United States Space-Based Position, Navigation, and Timing Policy issued December 8, 2004 (and any successor organization, to the extent the successor organization performs the functions of the specified organization):
+
+Policy on Priority for Development of Enhanced GPS System
+
+Development Required
+
+Sense of Congress Regarding Funding
+
+Plan for Development of Enhanced Global Positioning System
+
+Delayed Effective Date for Limitation on Procurement of Systems Not GPS-Equipped
+
+Funding From Authorized Appropriations for Fiscal Year
+
+Findings
+
+International Cooperation
+
+Conditional Prohibition on Use of Selective Availability Feature
+
+Plan
+
+## Source Credit
+
+*(Added [Pub. L. 105–85, div. A, title X, § 1074(d)(1)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1909](https://www.govinfo.gov/link/statute/111/1909); amended [Pub. L. 106–65, div. A, title X, § 1067(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774); [Pub. L. 108–136, div. A, title IX, § 914](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1567](https://www.govinfo.gov/link/statute/117/1567); [Pub. L. 111–84, div. A, title X, § 1032](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2448](https://www.govinfo.gov/link/statute/123/2448); [Pub. L. 112–239, div. A, title X, § 1064](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1941](https://www.govinfo.gov/link/statute/126/1941).)*

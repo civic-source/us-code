@@ -3,9 +3,10 @@ title: "Section 2125 - Wartime temporary service promotions"
 usc_title: 14
 usc_section: "2125"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 2125"
-generated_at: "2026-03-30T02:53:51.497Z"
+generated_at: "2026-11-23T21:25:35.417Z"
+status: "active"
 ---
 
 # § 2125. Wartime temporary service promotions
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:51.497Z"
 - **(g)** An appointment under this section, unless expressly declined, is regarded as accepted on the date specified by the Secretary as the date of the appointment, and the officer so promoted is entitled to pay and allowances of the grade to which appointed from that date.
 - **(h)** An appointment under this section does not terminate any appointments held by an officer concerned under any other provisions of this title. The President may terminate temporary appointments made under this section at any time. An appointment under this section is effective for such period as the President determines. However, an appointment may not be effective later than six months after the end of the war or national emergency. When his temporary appointment under this section is terminated or expires, the officer shall revert to his former grade.
 - **(i)** Not later than six months after the end of the war or national emergency the President shall, under such regulations as he may prescribe, reestablish the active duty promotion list with adjustments and additions appropriate to the conditions of original appointment and wartime service of all officers to be included thereon. The President may, by and with the advice and consent of the Senate, appoint officers on the reestablished active duty promotion list to fill vacancies in the authorized active duty strength of each grade. Such appointments shall be considered to have been made under section 2121 of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 88–130, § 1(10)(C)](https://www.govinfo.gov/link/plaw/88/public/130), Sept. 24, 1963, [77 Stat. 182](https://www.govinfo.gov/link/statute/77/182), § 275; amended [Pub. L. 92–129, title VI, § 605](https://www.govinfo.gov/link/plaw/92/public/129), Sept. 28, 1971, [85 Stat. 362](https://www.govinfo.gov/link/statute/85/362); [Pub. L. 97–417, § 2(6)](https://www.govinfo.gov/link/plaw/97/public/417), Jan. 4, 1983, [96 Stat. 2085](https://www.govinfo.gov/link/statute/96/2085); [Pub. L. 109–241, title II, § 217(b)](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 526](https://www.govinfo.gov/link/statute/120/526); renumbered § 2125 and amended [Pub. L. 115–282, title I](https://www.govinfo.gov/link/plaw/115/public/282), §§ 112(b), 123(b)(2), Dec. 4, 2018, [132 Stat. 4216](https://www.govinfo.gov/link/statute/132/4216), 4240.)*

@@ -3,9 +3,10 @@ title: "Section 10302 - International cyberspace and digital policy strategy"
 usc_title: 22
 usc_section: "10302"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10302"
-generated_at: "2026-03-30T02:55:05.476Z"
+generated_at: "2026-11-23T21:25:58.796Z"
+status: "active"
 ---
 
 # § 10302. International cyberspace and digital policy strategy
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:55:05.476Z"
 - **(e)** The strategy required under subsection (a) shall be updated—
   - **(1)** not later than 90 days after any material change to United States policy described in such strategy; and
   - **(2)** not later than 1 year after the inauguration of each new President.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. I, title XCV, § 9503](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3902](https://www.govinfo.gov/link/statute/136/3902).)*

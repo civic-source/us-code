@@ -3,9 +3,10 @@ title: "Section 3705 - Cooperative Research Centers"
 usc_title: 15
 usc_section: "3705"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3705"
-generated_at: "2026-03-30T02:54:08.192Z"
+generated_at: "2026-11-23T21:25:39.974Z"
+status: "active"
 ---
 
 # § 3705. Cooperative Research Centers
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:08.192Z"
   - **(5)** consideration has been given to any effects upon competition of the activities proposed under the Center.
 - **(d)** The Secretary is authorized to make available nonrenewable planning grants to universities or nonprofit institutions for the purpose of developing a plan required under subsection (c)(3).
 - **(e)** In the promotion of technology from research and development efforts by Centers under this section, chapter 18 of title 35 shall apply to the extent not inconsistent with this section.
+
+## Source Credit
+
+*([Pub. L. 96–480, § 7](https://www.govinfo.gov/link/plaw/96/public/480), formerly § 6, Oct. 21, 1980, [94 Stat. 2313](https://www.govinfo.gov/link/statute/94/2313); [Pub. L. 99–502, § 9(b)(6)](https://www.govinfo.gov/link/plaw/99/public/502) –(10), Oct. 20, 1986, [100 Stat. 1796](https://www.govinfo.gov/link/statute/100/1796); renumbered § 7, [Pub. L. 100–418, title V, § 5122(a)(1)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1438](https://www.govinfo.gov/link/statute/102/1438).)*

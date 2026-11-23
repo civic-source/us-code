@@ -3,9 +3,10 @@ title: "Section 1103 - Powers and duties of the Secretary, the Under Secretary, 
 usc_title: 8
 usc_section: "1103"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1103"
-generated_at: "2026-03-30T02:53:10.472Z"
+generated_at: "2026-11-23T21:25:25.110Z"
+status: "active"
 ---
 
 # § 1103. Powers and duties of the Secretary, the Under Secretary, and the Attorney General
@@ -41,3 +42,199 @@ generated_at: "2026-03-30T02:53:10.472Z"
 - **(g)**
   - **(1)** The Attorney General shall have such authorities and functions under this chapter and all other laws relating to the immigration and naturalization of aliens as were exercised by the Executive Office for Immigration Review, or by the Attorney General with respect to the Executive Office for Immigration Review, on the day before the effective date of the Immigration Reform, Accountability and Security Enhancement Act of 2002.
   - **(2)** The Attorney General shall establish such regulations, prescribe such forms of bond, reports, entries, and other papers, issue such instructions, review such administrative determinations in immigration proceedings, delegate such authority, and perform such other acts as the Attorney General determines to be necessary for carrying out this section.
+
+|  | Col 2 |
+| --- | --- |
+| IJ–1 | 70% of the next to highest rate of basic pay for the Senior Executive Service |
+| IJ–2 | 80% of the next to highest rate of basic pay for the Senior Executive Service |
+| IJ–3 | 90% of the next to highest rate of basic pay for the Senior Executive Service |
+| IJ–4 | 92% of the next to highest rate of basic pay for the Senior Executive Service. |
+
+
+In General
+
+Semi-annual Briefings
+
+Appropriate Committees Defined
+
+In General
+
+Construction of Fencing and Road Improvements Along the Border.—
+
+Additional fencing along southwest border.—
+
+Reinforced fencing
+
+Priority areas
+
+Consultation.—
+
+In general
+
+Savings provision
+
+Limitation on requirements
+
+Prompt acquisition of necessary easements
+
+Safety features
+
+Authorization of appropriations
+
+Waiver.—
+
+In general
+
+Federal court review.—
+
+In general
+
+Time for filing of complaint
+
+Ability to seek appellate review
+
+Review of Hiring Standards
+
+Certification
+
+Evaluation of Strategy
+
+Cooperation
+
+Report
+
+In general
+
+Rates of pay.—
+
+IJ–1
+
+IJ–2
+
+IJ–3
+
+IJ–4
+
+Appointment.—
+
+Transition
+
+Pilot Program Regarding the Identification of Certain Aliens.—
+
+Hiring of Investigative Agents.—
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+George W. Bush.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title I, § 103, [66 Stat. 173](https://www.govinfo.gov/link/statute/66/173); [Pub. L. 100–525, § 9(c)](https://www.govinfo.gov/link/plaw/100/public/525), Oct. 24, 1988, [102 Stat. 2619](https://www.govinfo.gov/link/statute/102/2619); [Pub. L. 101–649, title I, § 142](https://www.govinfo.gov/link/plaw/101/public/649), Nov. 29, 1990, [104 Stat. 5004](https://www.govinfo.gov/link/statute/104/5004); [Pub. L. 104–208, div. C, title I](https://www.govinfo.gov/link/plaw/104/public/208), §§ 102(d), 125, 134(a), title III, §§ 308(d)(4)(C), (e)(4), 372, 373, Sept. 30, 1996, [110 Stat. 3009–555](https://www.govinfo.gov/link/statute/110/3009), 3009–562, 3009–564, 3009–618, 3009–620, 3009–646, 3009–647; [Pub. L. 107–296, title XI, § 1102](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2273](https://www.govinfo.gov/link/statute/116/2273); [Pub. L. 108–7, div. L, § 105(a)(1)](https://www.govinfo.gov/link/plaw/108/public/7), (2), Feb. 20, 2003, [117 Stat. 531](https://www.govinfo.gov/link/statute/117/531); [Pub. L. 108–458, title V, § 5505(a)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3741](https://www.govinfo.gov/link/statute/118/3741); [Pub. L. 111–122, § 2(a)](https://www.govinfo.gov/link/plaw/111/public/122), Dec. 22, 2009, [123 Stat. 3480](https://www.govinfo.gov/link/statute/123/3480).)*

@@ -3,9 +3,10 @@ title: "Section 10101 - Definitions"
 usc_title: 42
 usc_section: "10101"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10101"
-generated_at: "2026-03-30T02:56:11.378Z"
+generated_at: "2026-11-23T21:26:33.333Z"
+status: "active"
 ---
 
 # § 10101. Definitions
@@ -63,3 +64,13 @@ For purposes of this chapter:
   - **(32)** The term “Negotiator” means the Nuclear Waste Negotiator.
   - **(33)** As used in subchapter IV, the term “Office” means the Office of the Nuclear Waste Negotiator established under subchapter IV of this chapter.
   - **(34)** The term “monitored retrievable storage facility” means the storage facility described in section 10161(b)(1) of this title .
+
+Preparation and Submission of Report
+
+Opportunity for Public Comment
+
+Authorization of Appropriations
+
+## Source Credit
+
+*([Pub. L. 97–425, § 2](https://www.govinfo.gov/link/plaw/97/public/425), Jan. 7, 1983, [96 Stat. 2202](https://www.govinfo.gov/link/statute/96/2202); [Pub. L. 100–202, § 101(d) [title III, § 300]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–104](https://www.govinfo.gov/link/statute/101/1329), 1329–121; [Pub. L. 100–203, title V, § 5002](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–227](https://www.govinfo.gov/link/statute/101/1330).)*

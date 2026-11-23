@@ -3,9 +3,10 @@ title: "Section 1122 - Functions"
 usc_title: 41
 usc_section: "1122"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 1122"
-generated_at: "2026-03-30T02:55:55.799Z"
+generated_at: "2026-11-23T21:26:18.775Z"
+status: "active"
 ---
 
 # § 1122. Functions
@@ -35,3 +36,180 @@ generated_at: "2026-03-30T02:55:55.799Z"
   - **(2)**
     - **(A)** The Administrator may make and authorize delegations within the Office of Federal Procurement Policy that the Administrator determines to be necessary to carry out this division.
     - **(B)** The Administrator may delegate, and authorize successive redelegations of, an authority, function, or power of the Administrator under this division (other than the authority to provide overall direction of Federal procurement policy and to prescribe policies and regulations to carry out the policy) to another executive agency with the consent of the head of the executive agency or at the direction of the President.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1122(a) | 41:405(d). | Pub. L. 93–400, § 6(d) , Aug. 30, 1974 , 88 Stat. 797 ; Pub. L. 96–83, § 4 , Oct. 10, 1979 , 93 Stat. 649 ; Pub. L. 98–191, § 5 , Dec. 1, 1983 , 97 Stat. 1327 ; Pub. L. 100–679, § 3(a)(3) , Nov. 17, 1988 , 102 Stat. 4055 ; Pub. L. 103–355, title V, § 5091 , title VII, § 7108, Oct. 13, 1994 , 108 Stat. 3361 , 3378; Pub. L. 104–106, title XLIII , §§ 4307(b), 4321(h)(1), (2), Feb. 10, 1996 , 110 Stat. 668 , 675; Pub. L. 105–85, title X, § 1073(g)(2)(B) , Nov. 18, 1997 , 111 Stat. 1906 ; Pub. L. 105–135, title VI, § 604(f)(1) , Dec. 2, 1997 , 111 Stat. 2634 . |
+| 1122(b) | 41:405(e). | Pub. L. 93–400, § 6(e) , Aug. 30, 1974 , 88 Stat. 797 ; Pub. L. 96–83, § 4 , Oct. 10, 1979 , 93 Stat. 649 ; Pub. L. 98–191, § 5 , Dec. 1, 1983 , 97 Stat. 1328 ; Pub. L. 98–369, title VII, § 2732(b)(1) , July 18, 1984 , 98 Stat. 1199 . |
+| 1122(c)(1) | 41:405(g). | Pub. L. 93–400, § 6(g) , Aug. 30, 1974 , 88 Stat. 797 ; Pub. L. 96–83, § 4 , Oct. 10, 1979 , 93 Stat. 649 ; Pub. L. 98–191, § 5 , Dec. 1, 1983 , 97 Stat. 1328 . |
+| 1122(c)(2)(A) | 41:411(b). | Pub. L. 93–400, § 12 , Aug. 30, 1974 , 88 Stat. 799 ; Pub. L. 96–83, § 8 , Oct. 10, 1979 , 93 Stat. 652 ; Pub. L. 98–191, § 8(c) , Dec. 1, 1983 , 97 Stat. 1331 . |
+| 1122(c)(2)(B) | 41:411(a). |  |
+
+
+In General
+
+Consultation and Assistance
+
+Assignment, Delegation, or Transfer.—
+
+To administrator
+
+By administrator.—
+
+Within office
+
+To another executive agency
+
+Historical and Revision Notes
+
+1122(a)
+
+Pub. L. 93–400, § 6(d)
+
+Aug. 30, 1974
+
+88 Stat. 797
+
+Pub. L. 96–83, § 4
+
+Oct. 10, 1979
+
+93 Stat. 649
+
+Pub. L. 98–191, § 5
+
+Dec. 1, 1983
+
+97 Stat. 1327
+
+Pub. L. 100–679, § 3(a)(3)
+
+Nov. 17, 1988
+
+102 Stat. 4055
+
+Pub. L. 103–355, title V, § 5091
+
+Oct. 13, 1994
+
+108 Stat. 3361
+
+Pub. L. 104–106, title XLIII
+
+Feb. 10, 1996
+
+110 Stat. 668
+
+Pub. L. 105–85, title X, § 1073(g)(2)(B)
+
+Nov. 18, 1997
+
+111 Stat. 1906
+
+Pub. L. 105–135, title VI, § 604(f)(1)
+
+Dec. 2, 1997
+
+111 Stat. 2634
+
+1122(b)
+
+Pub. L. 93–400, § 6(e)
+
+Aug. 30, 1974
+
+88 Stat. 797
+
+Pub. L. 96–83, § 4
+
+Oct. 10, 1979
+
+93 Stat. 649
+
+Pub. L. 98–191, § 5
+
+Dec. 1, 1983
+
+97 Stat. 1328
+
+Pub. L. 98–369, title VII, § 2732(b)(1)
+
+July 18, 1984
+
+98 Stat. 1199
+
+1122(c)(1)
+
+Pub. L. 93–400, § 6(g)
+
+Aug. 30, 1974
+
+88 Stat. 797
+
+Pub. L. 96–83, § 4
+
+Oct. 10, 1979
+
+93 Stat. 649
+
+Pub. L. 98–191, § 5
+
+Dec. 1, 1983
+
+97 Stat. 1328
+
+1122(c)(2)(A)
+
+Pub. L. 93–400, § 12
+
+Aug. 30, 1974
+
+88 Stat. 799
+
+Pub. L. 96–83, § 8
+
+Oct. 10, 1979
+
+93 Stat. 652
+
+Pub. L. 98–191, § 8(c)
+
+Dec. 1, 1983
+
+97 Stat. 1331
+
+1122(c)(2)(B)
+
+Definitions
+
+Federal agency; phase ii; phase iii; sbir; sttr
+
+Small business concern
+
+Requirement to update
+
+“Not later than 180 days after the date of the enactment of this Act [ Dec. 20, 2019 ], the Administrator of General Services, in coordination with the Administrator for Federal Procurement Policy, shall direct appropriate revisions to the Federal procurement data system established pursuant to section 1122(a)(4) of title 41 , United States Code (or any successor system), to facilitate the collection of complete, timely, and reliable data on the source selection processes used by Federal agencies for the contract actions being reported in the system. The Administrator of General Services shall ensure that data are collected—
+
+In General
+
+Requirement for Definition
+
+Coordination
+
+Use of Existing Procurement Data System
+
+Data Collection Required
+
+Definitions
+
+Development of Process Required
+
+Inapplicability of Process to Department of Defense
+
+Data Collection Required
+
+Definition
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3685](https://www.govinfo.gov/link/statute/124/3685); [Pub. L. 112–81, div. A, title VIII, § 864(b)(3)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1524](https://www.govinfo.gov/link/statute/125/1524); [Pub. L. 115–91, div. A, title XVII, § 1701(a)(4)(F)(i)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1796](https://www.govinfo.gov/link/statute/131/1796).)*

@@ -3,9 +3,10 @@ title: "Section 6006 - Permissive terms in plans"
 usc_title: 7
 usc_section: "6006"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6006"
-generated_at: "2026-03-30T02:53:42.423Z"
+generated_at: "2026-11-23T21:25:28.379Z"
+status: "active"
 ---
 
 # § 6006. Permissive terms in plans
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.423Z"
 - **(e)** The plan may provide for establishing and carrying on research, consumer information, and industry information projects and studies to the end that the marketing and utilization of pecans may be encouraged, expanded, improved, or made more efficient, and for the disbursement of necessary funds for such purposes.
 - **(f)** The plan may provide authority to accumulate reserve funds from assessments collected pursuant to this chapter, to permit an effective and continuous coordinated program of research, consumer information, industry information and promotion in years when the production and assessment income may be reduced, except that the total reserve fund may not exceed the amount budgeted for the operation of the plan for 2 years.
 - **(g)** The plan may provide authority to use funds collected under this chapter, with the approval of the Secretary, for the development and expansion of pecan sales in foreign markets.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1911](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3847](https://www.govinfo.gov/link/statute/104/3847).)*

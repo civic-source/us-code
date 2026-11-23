@@ -3,9 +3,10 @@ title: "Section 8818 - Reports"
 usc_title: 42
 usc_section: "8818"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8818"
-generated_at: "2026-03-30T02:56:11.348Z"
+generated_at: "2026-11-23T21:26:33.218Z"
+status: "active"
 ---
 
 # § 8818. Reports
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.348Z"
     - **(B)** Each annual report shall describe progress made toward meeting the goals of this subchapter and contain specific recommendations on what actions the Congress could take in order to facilitate the work of the Office in achieving such goals.
     - **(C)** Each annual report under this subsection shall contain financial statements prepared by the Office.
   - **(2)** On or before September 30, 1990 , the Office shall submit to the Congress and the President a report evaluating the overall impact made by the Office and describing the status of each biomass energy project which has received financial assistance under this subchapter from the Office. Such report shall contain a plan for the termination of the work of the Office.
+
+## Source Credit
+
+*([Pub. L. 96–294, title II, § 218](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 695](https://www.govinfo.gov/link/statute/94/695); [Pub. L. 99–386, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/386), Aug. 22, 1986, [100 Stat. 821](https://www.govinfo.gov/link/statute/100/821).)*

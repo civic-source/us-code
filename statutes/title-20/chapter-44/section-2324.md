@@ -3,9 +3,10 @@ title: "Section 2324 - National activities"
 usc_title: 20
 usc_section: "2324"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 2324"
-generated_at: "2026-03-30T02:54:48.173Z"
+generated_at: "2026-11-23T21:25:47.377Z"
+status: "active"
 ---
 
 # § 2324. National activities
@@ -157,3 +158,7 @@ generated_at: "2026-03-30T02:54:48.173Z"
   - **(4)** $7,976,915 for fiscal year 2022;
   - **(5)** $8,088,592 for fiscal year 2023; and
   - **(6)** $8,201,832 for fiscal year 2024.
+
+## Source Credit
+
+*([Pub. L. 88–210, title I, § 114](https://www.govinfo.gov/link/plaw/88/public/210), as added [Pub. L. 109–270, § 1(b)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 702](https://www.govinfo.gov/link/statute/120/702); amended [Pub. L. 113–76, div. H, title III, § 307(d)](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 399](https://www.govinfo.gov/link/statute/128/399); [Pub. L. 114–95, title IX, § 9215(n)(4)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2169](https://www.govinfo.gov/link/statute/129/2169); [Pub. L. 115–224, title I, § 113](https://www.govinfo.gov/link/plaw/115/public/224), July 31, 2018, [132 Stat. 1588](https://www.govinfo.gov/link/statute/132/1588); [Pub. L. 117–286, § 4(a)(149)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4322](https://www.govinfo.gov/link/statute/136/4322).)*

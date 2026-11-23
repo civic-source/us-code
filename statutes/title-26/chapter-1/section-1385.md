@@ -3,9 +3,10 @@ title: "Section 1385 - Amounts includible in patron’s gross income"
 usc_title: 26
 usc_section: "1385"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1385"
-generated_at: "2026-03-30T02:55:27.771Z"
+generated_at: "2026-11-23T21:26:06.501Z"
+status: "active"
 ---
 
 # § 1385. Amounts includible in patron’s gross income
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:27.771Z"
     - **(A)** the basis of such written notice of allocation or per-unit retain certificate in the hands of the patron to whom such written notice of allocation or per-unit retain certificate was paid shall be zero,
     - **(B)** the basis of such written notice of allocation or per-unit retain certificate which was acquired from a decedent shall be its basis in the hands of the decedent, and
     - **(C)** gain on the redemption, sale, or other disposition of such written notice of allocation or per-unit retain certificate by any person shall, to the extent that the stated dollar amount of such written notice of allocation or per-unit retain certificate exceeds its basis, be considered as ordinary income.
+
+## Source Credit
+
+*(Added [Pub. L. 87–834, § 17(a)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 1048](https://www.govinfo.gov/link/statute/76/1048); amended [Pub. L. 89–809, title II, § 211(b)(1)](https://www.govinfo.gov/link/plaw/89/public/809) –(4), Nov. 13, 1966, [80 Stat. 1582](https://www.govinfo.gov/link/statute/80/1582); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(b)(3)(I), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1793](https://www.govinfo.gov/link/statute/90/1793), 1834.)*

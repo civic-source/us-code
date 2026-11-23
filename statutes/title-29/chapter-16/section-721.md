@@ -3,9 +3,10 @@ title: "Section 721 - State plans"
 usc_title: 29
 usc_section: "721"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 721"
-generated_at: "2026-03-30T02:55:18.690Z"
+generated_at: "2026-11-23T21:26:02.195Z"
+status: "active"
 ---
 
 # § 721. State plans
@@ -252,3 +253,29 @@ generated_at: "2026-03-30T02:55:18.690Z"
   - **(1)** subsection (c) of section 102 of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3112 ], in a case in which that plan is a portion of the unified State plan described in that section 102; and
   - **(2)** subsection (b), and paragraphs (1), (2), and (3) of subsection (c), of section 103 of such Act [ 29 U.S.C. 3113 ] in a case in which that State plan for vocational rehabilitation services is a portion of the combined State plan described in that section 103.
 - **(c)** Nothing in this part shall be construed to reduce the obligation under the Individuals with Disabilities Education Act ( 20 U.S.C. 1400 et seq.) of a local educational agency or any other agency to provide or pay for any transition services that are also considered special education or related services and that are necessary for ensuring a free appropriate public education to children with disabilities within the State involved.
+
+(aa) attainment of a baccalaureate degree in a field of study reasonably related to vocational rehabilitation, to indicate a level of competency and skill demonstrating basic preparation in a field of study such as vocational rehabilitation counseling, social work, psychology, disability studies, business administration, human resources, special education, supported employment, customized employment, economics, or another field that reasonably prepares individuals to work with consumers and employers; and
+
+(bb) demonstrated paid or unpaid experience, for not less than 1 year, consisting of— (AA) direct work with individuals with disabilities in a setting such as an independent living center; (BB) direct service or advocacy activities that provide such individual with experience and skills in working with individuals with disabilities; or (CC) direct experience as an employer, as a small business owner or operator, or in self-employment, or other experience in human resources, recruitment, or experience in supervising employees, training, or other activities that provide experience in competitive integrated employment environments; or
+
+(aa) the number who earned the minimum wage rate specified in section 6(a)(1) of the Fair Labor Standards Act of 1938 ( 29 U.S.C. 206(a)(1) ) or another wage level set by the Commissioner, during such employment; and
+
+(bb) the number who received employment benefits from an employer during such employment; and
+
+(aa) the number who earned the minimum wage rate specified in section 6(a)(1) of the Fair Labor Standards Act of 1938 ( 29 U.S.C. 206(a)(1) ) or another wage level set by the Commissioner, during such employment; and
+
+(bb) the number who received employment benefits from an employer during such employment.
+
+(aa) are individuals with physical or mental impairments that substantially limit major life activities; and
+
+(bb) represent individuals with a broad range of disabilities, unless the designated State unit under the direction of the commission is the State agency for individuals who are blind;
+
+(aa) all plans, reports, and other information required under this subchapter to be submitted to the Secretary;
+
+(bb) all policies, and information on all practices and procedures, of general applicability provided to or used by rehabilitation personnel in carrying out this subchapter; and
+
+(cc) copies of due process hearing decisions issued under this subchapter, which shall be transmitted in such a manner as to ensure that the identity of the participants in the hearings is kept confidential.
+
+## Source Credit
+
+*([Pub. L. 93–112, title I, § 101](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 105–220, title IV, § 404](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1119](https://www.govinfo.gov/link/statute/112/1119); amended [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(c)(4)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–415; [Pub. L. 108–446, title III, § 305(h)(1)](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2805](https://www.govinfo.gov/link/statute/118/2805); [Pub. L. 113–128, title IV, § 412](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1641](https://www.govinfo.gov/link/statute/128/1641).)*

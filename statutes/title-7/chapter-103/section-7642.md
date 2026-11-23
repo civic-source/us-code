@@ -3,9 +3,10 @@ title: "Section 7642 - Food Animal Residue Avoidance Database program"
 usc_title: 7
 usc_section: "7642"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7642"
-generated_at: "2026-03-30T02:53:42.459Z"
+generated_at: "2026-11-23T21:25:28.442Z"
+status: "active"
 ---
 
 # § 7642. Food Animal Residue Avoidance Database program
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:42.459Z"
 - **(c)** The Secretary shall offer to enter into a contract, grant, or cooperative agreement with 1 or more appropriate colleges and universities to operate the FARAD program. The term of the contract, grant, or cooperative agreement shall be 3 years, with options to extend the term of the contract triennially.
 - **(d)** Federal funds provided by the Secretary under a contract, grant, or cooperative agreement under this section shall be subject to reduction for indirect costs of the recipient of the funds in an amount not to exceed 19 percent of the total Federal funds provided under the contract, grant, or cooperative agreement.
 - **(e)** In addition to any other funds available to carry out subsection (c), there is authorized to be appropriated to carry out this section $2,500,000 for each of fiscal years 2008 through 2023.
+
+## Source Credit
+
+*([Pub. L. 105–185, title VI, § 604](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 586](https://www.govinfo.gov/link/statute/112/586); [Pub. L. 110–234, title VII, § 7312](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1245](https://www.govinfo.gov/link/statute/122/1245); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7312, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2006; [Pub. L. 113–79, title VII, § 7307](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 891](https://www.govinfo.gov/link/statute/128/891); [Pub. L. 115–334, title VII, § 7306](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4816](https://www.govinfo.gov/link/statute/132/4816).)*

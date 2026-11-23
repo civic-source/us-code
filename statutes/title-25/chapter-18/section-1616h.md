@@ -3,9 +3,10 @@ title: "Section 1616h - Health training programs of community colleges"
 usc_title: 25
 usc_section: "1616h"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1616h"
-generated_at: "2026-03-30T02:54:52.819Z"
+generated_at: "2026-11-23T21:25:54.615Z"
+status: "active"
 ---
 
 # § 1616h. Health training programs of community colleges
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:52.819Z"
     - **(B)** a junior or community college.
   - **(2)** The term “tribally controlled college or university” has the meaning given to such term by section 1801(a)(4) of this title .
   - **(3)** The term “junior or community college” has the meaning given to such term by section 1058(e) 1 1 See References in Text note below. of title 20.
+
+## Source Credit
+
+*([Pub. L. 94–437, title I, § 115](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 100–713, title I, § 109](https://www.govinfo.gov/link/plaw/100/public/713), Nov. 23, 1988, [102 Stat. 4797](https://www.govinfo.gov/link/statute/102/4797); amended [Pub. L. 102–573, title I, § 117(b)(7)](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4544](https://www.govinfo.gov/link/statute/106/4544); [Pub. L. 105–244, title IX, § 901(d)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1828](https://www.govinfo.gov/link/statute/112/1828); [Pub. L. 110–315, title IX, § 941(k)(2)(I)(ii)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3467](https://www.govinfo.gov/link/statute/122/3467).)*

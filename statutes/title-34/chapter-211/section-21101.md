@@ -3,9 +3,10 @@ title: "Section 21101 - Definitions"
 usc_title: 34
 usc_section: "21101"
 chapter: 211
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 21101"
-generated_at: "2026-03-30T02:55:33.302Z"
+generated_at: "2026-11-23T21:26:09.807Z"
+status: "active"
 ---
 
 # § 21101. Definitions
@@ -16,3 +17,7 @@ In this chapter, the following definitions shall apply:
   - **(2)** The term “child obscenity” means any visual depiction proscribed by section 1466A of title 18 .
   - **(3)** The term “minor” means any person under the age of 18 years.
   - **(4)** The term “sexually explicit conduct” has the meaning given such term in section 2256 of title 18 .
+
+## Source Credit
+
+*([Pub. L. 110–401, § 2](https://www.govinfo.gov/link/plaw/110/public/401), Oct. 13, 2008, [122 Stat. 4229](https://www.govinfo.gov/link/statute/122/4229).)*

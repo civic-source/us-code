@@ -3,9 +3,10 @@ title: "Section 1843 - Obsolete references"
 usc_title: 2
 usc_section: "1843"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1843"
-generated_at: "2026-03-30T02:53:04.818Z"
+generated_at: "2026-11-23T21:25:21.247Z"
+status: "active"
 ---
 
 # § 1843. Obsolete references
@@ -17,3 +18,7 @@ In any case in which—
     - **(B)** the position of such employee, or
     - **(C)** any class or group of such employees or positions,
   - **(2)** the rate so referred to or provided is a basic rate with respect to which additional pay is provided by law;
+
+## Source Credit
+
+*([Pub. L. 91–510, title IV, § 483](https://www.govinfo.gov/link/plaw/91/public/510), Oct. 26, 1970, [84 Stat. 1196](https://www.govinfo.gov/link/statute/84/1196).)*

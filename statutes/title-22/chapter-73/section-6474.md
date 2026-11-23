@@ -3,9 +3,10 @@ title: "Section 6474 - Studies on effect of expedited removal provisions on asyl
 usc_title: 22
 usc_section: "6474"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6474"
-generated_at: "2026-03-30T02:55:05.430Z"
+generated_at: "2026-11-23T21:25:58.690Z"
+status: "active"
 ---
 
 # § 6474. Studies on effect of expedited removal provisions on asylum claims
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:05.430Z"
 - **(c)**
   - **(1)** Except as provided in paragraph (2), to facilitate the studies and reports, the Attorney General shall permit the Comptroller General of the United States and, in the case of a Commission request under subsection (a), the experts designated under subsection (a) to have unrestricted access to all stages of all proceedings conducted under section 1225(b) of title 8 .
   - **(2)** Paragraph (1) shall not apply in cases in which the alien objects to such access, or the Attorney General determines that the security of a particular proceeding would be threatened by such access, so long as any restrictions on the access of experts designated by the Commission under subsection (a) do not contravene international law.
+
+## Source Credit
+
+*([Pub. L. 105–292, title VI, § 606](https://www.govinfo.gov/link/plaw/105/public/292), formerly § 605, Oct. 27, 1998, [112 Stat. 2814](https://www.govinfo.gov/link/statute/112/2814); renumbered § 606, [Pub. L. 114–281, title V, § 501(1)](https://www.govinfo.gov/link/plaw/114/public/281), Dec. 16, 2016, [130 Stat. 1437](https://www.govinfo.gov/link/statute/130/1437).)*

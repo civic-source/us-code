@@ -3,9 +3,10 @@ title: "Section 3714 - Assumptions; release from liability"
 usc_title: 38
 usc_section: "3714"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3714"
-generated_at: "2026-03-30T02:55:53.513Z"
+generated_at: "2026-11-23T21:26:16.776Z"
+status: "active"
 ---
 
 # § 3714. Assumptions; release from liability
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:55:53.513Z"
     - **(A)** in the case of loans other than loans to finance the purchase of real property described in section 3733(a)(1) of this title , only to loans for which commitments are made on or after March 1, 1988 ; and
     - **(B)** in the case of loans to finance the purchase of such property, only to loans which are closed after January 1, 1989 .
   - **(2)** This section shall not apply to a loan which the Secretary has sold without recourse.
+
+## Source Credit
+
+*(Added [Pub. L. 100–198, § 10(a)(1)](https://www.govinfo.gov/link/plaw/100/public/198), Dec. 21, 1987, [101 Stat. 1321](https://www.govinfo.gov/link/statute/101/1321), § 1817A; renumbered § 1814, [Pub. L. 100–322, title IV, § 415(b)(2)(B)](https://www.govinfo.gov/link/plaw/100/public/322), May 20, 1988, [102 Stat. 551](https://www.govinfo.gov/link/statute/102/551); amended [Pub. L. 100–689, title III, § 302](https://www.govinfo.gov/link/plaw/100/public/689), Nov. 18, 1988, [102 Stat. 4176](https://www.govinfo.gov/link/statute/102/4176); [Pub. L. 101–237, title III, § 313(b)(1)](https://www.govinfo.gov/link/plaw/101/public/237), Dec. 18, 1989, [103 Stat. 2077](https://www.govinfo.gov/link/statute/103/2077); renumbered § 3714 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(a)(2)(B)(iv), (3), (4), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 403](https://www.govinfo.gov/link/statute/105/403), 404, 406; [Pub. L. 105–368, title X, § 1005(b)(10)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3365](https://www.govinfo.gov/link/statute/112/3365); [Pub. L. 107–103, title IV, § 403](https://www.govinfo.gov/link/plaw/107/public/103), Dec. 27, 2001, [115 Stat. 993](https://www.govinfo.gov/link/statute/115/993).)*

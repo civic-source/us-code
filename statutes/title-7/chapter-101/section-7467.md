@@ -3,9 +3,10 @@ title: "Section 7467 - Petition and review"
 usc_title: 7
 usc_section: "7467"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7467"
-generated_at: "2026-03-30T02:53:42.454Z"
+generated_at: "2026-11-23T21:25:28.430Z"
+status: "active"
 ---
 
 # § 7467. Petition and review
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:42.454Z"
     - **(A)** to make such ruling as the court shall determine to be in accordance with law; or
     - **(B)** to take such further action as, in the opinion of the court, the law requires.
   - **(4)** The pendency of a proceeding instituted pursuant to subsection (a) shall not impede, hinder, or delay the Attorney General or the Secretary from obtaining relief pursuant to section 7468 of this title .
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 558](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1070](https://www.govinfo.gov/link/statute/110/1070).)*

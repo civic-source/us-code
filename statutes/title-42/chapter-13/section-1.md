@@ -3,9 +3,10 @@ title: "Section 1 - Training, technical assistance, and food service management 
 usc_title: 42
 usc_section: "1"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T02:56:11.117Z"
+generated_at: "2026-11-23T21:26:32.161Z"
+status: "active"
 ---
 
 # § 1769b–1. Training, technical assistance, and food service management institute
@@ -74,3 +75,7 @@ generated_at: "2026-03-30T02:56:11.117Z"
   - **(2)** The Secretary may use funds provided under this subsection—
     - **(A)** to provide training and technical assistance and material related to improving program integrity and administrative accuracy in school meals programs; and
     - **(B)** to assist State educational agencies in reviewing the administrative practices of local educational agencies, to the extent determined by the Secretary.
+
+## Source Credit
+
+*(June 4, 1946, ch. 281, § 21, as added [Pub. L. 101–147, title I, § 109](https://www.govinfo.gov/link/plaw/101/public/147), Nov. 10, 1989, [103 Stat. 887](https://www.govinfo.gov/link/statute/103/887); amended [Pub. L. 102–337, § 1](https://www.govinfo.gov/link/plaw/102/public/337), Aug. 7, 1992, [106 Stat. 865](https://www.govinfo.gov/link/statute/106/865); [Pub. L. 103–448, title I, § 120](https://www.govinfo.gov/link/plaw/103/public/448), Nov. 2, 1994, [108 Stat. 4726](https://www.govinfo.gov/link/statute/108/4726); [Pub. L. 105–336, title I](https://www.govinfo.gov/link/plaw/105/public/336), §§ 103(c)(2), 110, Oct. 31, 1998, [112 Stat. 3147](https://www.govinfo.gov/link/statute/112/3147), 3157; [Pub. L. 108–265, title I](https://www.govinfo.gov/link/plaw/108/public/265), §§ 125, 126(a), title II, § 205(b), June 30, 2004, [118 Stat. 761](https://www.govinfo.gov/link/statute/118/761), 763, 787; [Pub. L. 108–447, div. A, title VII, § 788(c)](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 2851](https://www.govinfo.gov/link/statute/118/2851); [Pub. L. 111–80, title VII, § 749(e)](https://www.govinfo.gov/link/plaw/111/public/80), Oct. 21, 2009, [123 Stat. 2132](https://www.govinfo.gov/link/statute/123/2132); [Pub. L. 111–296, title IV](https://www.govinfo.gov/link/plaw/111/public/296), §§ 406, 407, Dec. 13, 2010, [124 Stat. 3259](https://www.govinfo.gov/link/statute/124/3259), 3260.)*

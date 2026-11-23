@@ -3,9 +3,10 @@ title: "Section 8 - Conservation innovation grants and payments"
 usc_title: 16
 usc_section: "8"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8"
-generated_at: "2026-03-30T02:54:23.030Z"
+generated_at: "2026-11-23T21:25:51.994Z"
+status: "active"
 ---
 
 # § 3839aa–8. Conservation innovation grants and payments
@@ -83,3 +84,7 @@ generated_at: "2026-03-30T02:54:23.030Z"
       - **(i)** a compilation and analysis of effective conservation practices for soil health, nutrient management, and source water protection in varying soil compositions, cropping systems, slopes, and landscapes; and
       - **(ii)** a list of recommended new and effective conservation practices.
     - **(B)** Information provided under subparagraph (A) shall be transformed into a statistical or aggregate form so as to not include any identifiable or personal information of individual producers.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1240H](https://www.govinfo.gov/link/plaw/99/public/198), as added [Pub. L. 107–171, title II, § 2301](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 257](https://www.govinfo.gov/link/statute/116/257); amended [Pub. L. 110–234, title II, § 2509](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1064](https://www.govinfo.gov/link/statute/122/1064); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title II, § 2509, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1792; [Pub. L. 113–79, title II, § 2207](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 731](https://www.govinfo.gov/link/statute/128/731); [Pub. L. 115–334, title II](https://www.govinfo.gov/link/plaw/115/public/334), §§ 2301(d)(1)(J), 2307, Dec. 20, 2018, [132 Stat. 4554](https://www.govinfo.gov/link/statute/132/4554), 4561; [Pub. L. 117–169, title II, § 21001(c)(2)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2017](https://www.govinfo.gov/link/statute/136/2017).)*

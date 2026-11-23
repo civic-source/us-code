@@ -3,9 +3,10 @@ title: "Section 7515 - Allotment and delivery of commodities"
 usc_title: 7
 usc_section: "7515"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7515"
-generated_at: "2026-03-30T02:53:42.456Z"
+generated_at: "2026-11-23T21:25:28.435Z"
+status: "active"
 ---
 
 # § 7515. Allotment and delivery of commodities
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.456Z"
   - **(1)** Commodities made available for each fiscal year under this section shall be delivered at reasonable intervals to States based on the grants calculated under subsection (a), or reallocated under subsection (b), before December 31 of the following fiscal year.
   - **(2)** Each State shall be entitled to receive the value of additional commodities determined under subsection (a).
 - **(d)** If a State uses its own funds to provide commodities or services to organizations receiving funds or services under this section, such State shall not diminish the level of support it provides to such organizations.
+
+## Source Credit
+
+*([Pub. L. 98–8, title II, § 214](https://www.govinfo.gov/link/plaw/98/public/8), as added [Pub. L. 100–435, title I, § 104](https://www.govinfo.gov/link/plaw/100/public/435), Sept. 19, 1988, [102 Stat. 1648](https://www.govinfo.gov/link/statute/102/1648); amended [Pub. L. 101–624, title XVII, § 1772(g)](https://www.govinfo.gov/link/plaw/101/public/624), (h)(1), Nov. 28, 1990, [104 Stat. 3809](https://www.govinfo.gov/link/statute/104/3809); [Pub. L. 104–127, title IV, § 403(c)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1029](https://www.govinfo.gov/link/statute/110/1029); [Pub. L. 104–193, title VIII, § 871(d)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2345](https://www.govinfo.gov/link/statute/110/2345).)*

@@ -3,9 +3,10 @@ title: "Section 9024 - Temporary full Federal funding of the first week of compe
 usc_title: 15
 usc_section: "9024"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9024"
-generated_at: "2026-03-30T02:54:08.239Z"
+generated_at: "2026-11-23T21:25:40.114Z"
+status: "active"
 ---
 
 # § 9024. Temporary full Federal funding of the first week of compensable regular unemployment for States with no waiting week
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:08.239Z"
   - **(2)** ending on or before September 6, 2021 .
 - **(f)** The provisions of section 9025(e) of this title shall apply with respect to compensation paid under an agreement under this section to the same extent and in the same manner as in the case of pandemic emergency unemployment compensation under such section.
 - **(g)** For purposes of this section, the terms “regular compensation”, “State”, “State agency”, “State law”, and “week” have the respective meanings given such terms under section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 ( 26 U.S.C. 3304 note).
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title II, § 2105](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 321](https://www.govinfo.gov/link/statute/134/321); [Pub. L. 116–260, div. N, title II, § 204](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 1953](https://www.govinfo.gov/link/statute/134/1953); [Pub. L. 117–2, title IX, § 9014](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 119](https://www.govinfo.gov/link/statute/135/119).)*

@@ -3,9 +3,10 @@ title: "Section 6803 - Disclosure of institution privacy policy"
 usc_title: 15
 usc_section: "6803"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6803"
-generated_at: "2026-03-30T02:54:08.216Z"
+generated_at: "2026-11-23T21:25:40.034Z"
+status: "active"
 ---
 
 # § 6803. Disclosure of institution privacy policy
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:08.216Z"
 - **(f)** A financial institution that—
   - **(1)** provides nonpublic personal information only in accordance with the provisions of subsection (b)(2) or (e) of section 6802 of this title or regulations prescribed under section 6804(b) of this title , and
   - **(2)** has not changed its policies and practices with regard to disclosing nonpublic personal information from the policies and practices that were disclosed in the most recent disclosure sent to consumers in accordance with this section,
+
+## Source Credit
+
+*([Pub. L. 106–102, title V, § 503](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1439](https://www.govinfo.gov/link/statute/113/1439); [Pub. L. 109–351, title VI, § 609](https://www.govinfo.gov/link/plaw/109/public/351), title VII, § 728, Oct. 13, 2006, [120 Stat. 1983](https://www.govinfo.gov/link/statute/120/1983), 2003; [Pub. L. 114–94, div. G, title LXXV, § 75001](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1787](https://www.govinfo.gov/link/statute/129/1787).)*

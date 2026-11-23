@@ -3,9 +3,10 @@ title: "Section 1843 - Duties and powers of Secretary"
 usc_title: 43
 usc_section: "1843"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1843"
-generated_at: "2026-03-30T02:55:57.494Z"
+generated_at: "2026-11-23T21:26:19.887Z"
+status: "active"
 ---
 
 # § 1843. Duties and powers of Secretary
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:57.494Z"
     - **(B)** if the damage set forth in the claim was sustained prior to September 18, 1978 ;
     - **(C)** in the case of a claim for damage to, or loss of, fishing gear, in an amount in excess of the replacement value of the fishing gear with respect to which the claim is filed; and
     - **(D)** for any portion of the damages claimed with respect to which the claimant has received, or will receive, compensation from insurance.
+
+## Source Credit
+
+*([Pub. L. 95–372, title IV, § 403](https://www.govinfo.gov/link/plaw/95/public/372), Sept. 18, 1978, [92 Stat. 687](https://www.govinfo.gov/link/statute/92/687); [Pub. L. 96–561, title II, § 240(b)(2)](https://www.govinfo.gov/link/plaw/96/public/561), Dec. 22, 1980, [94 Stat. 3301](https://www.govinfo.gov/link/statute/94/3301); [Pub. L. 97–212](https://www.govinfo.gov/link/plaw/97/public/212), §§ 3, 7, June 30, 1982, [96 Stat. 144](https://www.govinfo.gov/link/statute/96/144), 147; [Pub. L. 98–498, title IV, § 420(1)](https://www.govinfo.gov/link/plaw/98/public/498), (2), Oct. 19, 1984, [98 Stat. 2309](https://www.govinfo.gov/link/statute/98/2309).)*

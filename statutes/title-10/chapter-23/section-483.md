@@ -3,9 +3,10 @@ title: "Section 483 - Notifications related to basing decision-making process"
 usc_title: 10
 usc_section: "483"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 483"
-generated_at: "2026-03-30T02:53:38.060Z"
+generated_at: "2026-11-23T21:25:32.271Z"
+status: "active"
 ---
 
 # § 483. Notifications related to basing decision-making process
@@ -42,3 +43,23 @@ generated_at: "2026-03-30T02:53:38.060Z"
   - **(5)** The term “Secretary concerned” means—
     - **(A)** the Secretary of the military department concerned; and
     - **(B)** the Secretary of Defense with respect to matters concerning the Defense Agencies and the Joint Staff.
+
+Notification Required
+
+Deadlines for Submission of Notice
+
+Required Elements of Notification
+
+Notice and Wait Requirements
+
+Annual Reporting Requirement.—
+
+Report required
+
+Elements of report
+
+Definitions
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2)](https://www.govinfo.gov/link/plaw/116/public/283), div. B, title XXVIII, § 2871(b), Jan. 1, 2021, [134 Stat. 4294](https://www.govinfo.gov/link/statute/134/4294), 4363; [Pub. L. 117–81, div. A, title X, § 1081(a)(10)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1920](https://www.govinfo.gov/link/statute/135/1920); [Pub. L. 117–263, div. B, title XXVIII, § 2861](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3010](https://www.govinfo.gov/link/statute/136/3010); [Pub. L. 118–159, div. B, title XXVIII, § 2801](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2247](https://www.govinfo.gov/link/statute/138/2247).)*

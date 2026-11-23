@@ -3,9 +3,10 @@ title: "Section 2607 - Acceptance of gifts for the Defense Intelligence College"
 usc_title: 10
 usc_section: "2607"
 chapter: 155
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2607"
-generated_at: "2026-03-30T02:53:38.166Z"
+generated_at: "2026-11-23T21:25:32.635Z"
+status: "active"
 ---
 
 # § 2607. Acceptance of gifts for the Defense Intelligence College
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:38.166Z"
 - **(b)** Money, and proceeds from the sale of property, received as a gift under subsection (a) shall be deposited in the Treasury and shall be available for disbursement upon the order of the Secretary of Defense to the extent provided in annual appropriation Acts.
 - **(c)** Subsection (c) of section 2601 of this title applies to property that is accepted under subsection (a) in the same manner that such subsection applies to property that is accepted under subsection (a) of that section.
 - **(d)** In this section, the term “gift” includes a bequest of personal property or a devise of real property.
+
+## Source Credit
+
+*(Added [Pub. L. 101–193, title V, § 502(a)](https://www.govinfo.gov/link/plaw/101/public/193), Nov. 30, 1989, [103 Stat. 1708](https://www.govinfo.gov/link/statute/103/1708).)*

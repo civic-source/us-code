@@ -3,9 +3,10 @@ title: "Section 324 - Members of the armed forces"
 usc_title: 49
 usc_section: "324"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 324"
-generated_at: "2026-03-30T02:56:19.299Z"
+generated_at: "2026-11-23T21:26:40.591Z"
+status: "active"
 ---
 
 # § 324. Members of the armed forces
@@ -16,3 +17,54 @@ generated_at: "2026-03-30T02:56:19.299Z"
 - **(b)** A member of the Coast Guard on active duty may be appointed, detailed, or assigned to a position in the Department of Transportation, except the position of Secretary, Deputy Secretary, or Assistant Secretary for Administration. A retired member of the Coast Guard may be appointed, detailed, or assigned to a position in the Department.
 - **(c)** The Secretary of Transportation and the Secretary of a military department may make cooperative agreements, including agreements on reimbursement as may be considered appropriate by the Secretaries, under which a member of the armed forces may be appointed, detailed, or assigned to the Department of Transportation under this section. The Secretary of Transportation shall send a report each year to the appropriate committees of Congress on agreements made to carry out subsection (a)(2) of this section, including the number, rank, and position of each member appointed, detailed, or assigned under those agreements.
 - **(d)** The Secretary of a military department does not control the duties and powers of a member of the armed forces appointed, detailed, or assigned under this section when those duties and powers pertain to the Department of Transportation. A member of the armed forces appointed, detailed, or assigned under subsection (a)(2) of this section may not be charged against a statutory limitation on grades or strengths of the armed forces. The appointment, detail, or assignment and service of a member under this section to a position in the Department of Transportation does not affect the status, office, rank, or grade held by that member, or a right or benefit arising from that status, office, rank, or grade.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 324(a)(1) | 49:1343(a)(1) (1st sentence). | Aug. 23, 1958 , Pub. L. 85–726, § 302(c)(1) , (2) (related to cooperative agreements), 72 Stat. 745 . |
+| 324(a)(2) | 49:1657(c) (1st sentence). | Oct. 15, 1966 , Pub. L. 89–670, § 9(c) , (d), 80 Stat. 944 . |
+| 324(b) | 49:1657(p). | Oct. 15, 1966 , Pub. L. 89–670, § 9(p) , 80 Stat. 947 ; Oct. 28, 1974 , Pub. L. 93–496, § 16(b) , 88 Stat. 1533 . |
+| 324(c) | 49:1343(a)(1) (less 1st sentence). |  |
+|  | 49:1657(c) (less 1st sentence), (d)(2). |  |
+| 324(d) | 49:1343(a)(2) (related to cooperative agreements). |  |
+|  | 49:1657(d)(1). |  |
+
+
+Historical and Revision Notes
+
+324(a)(1)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 302(c)(1)
+
+72 Stat. 745
+
+324(a)(2)
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 9(c)
+
+80 Stat. 944
+
+324(b)
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 9(p)
+
+80 Stat. 947
+
+Oct. 28, 1974
+
+Pub. L. 93–496, § 16(b)
+
+88 Stat. 1533
+
+324(c)
+
+324(d)
+
+## Source Credit
+
+*([Pub. L. 97–449, § 1(b)](https://www.govinfo.gov/link/plaw/97/public/449), Jan. 12, 1983, [96 Stat. 2423](https://www.govinfo.gov/link/statute/96/2423).)*

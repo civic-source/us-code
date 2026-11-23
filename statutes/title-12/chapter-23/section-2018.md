@@ -3,9 +3,10 @@ title: "Section 2018 - Security; terms"
 usc_title: 12
 usc_section: "2018"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2018"
-generated_at: "2026-03-30T02:53:53.471Z"
+generated_at: "2026-11-23T21:25:37.051Z"
+status: "active"
 ---
 
 # § 2018. Security; terms
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:53.471Z"
   - **(3)** To adequately secure the loan, the value of security shall be determined by appraisal under standards prescribed by the bank in accordance with regulations of the Farm Credit Administration.
   - **(4)** Additional security for any loan may be required by the bank to supplement real estate security. Credit factors, other than the ratio between the amount of the loan and the security value, shall be given due consideration.
 - **(b)** Loans, other than real estate loans, and discounts made under the provisions of this subchapter shall be repayable in not more than 7 years (15 years if made to producers or harvesters of aquatic products) from the time that such are made or discounted by the Farm Credit Bank, except that the Board of Directors, under regulations of the Farm Credit Administration, may approve policies permitting loans, advances, or discounts (other than those made to producers or harvesters of aquatic products) to be repayable in not more than 10 years from the time that such are made or discounted by such bank.
+
+## Source Credit
+
+*([Pub. L. 92–181, title I, § 1](https://www.govinfo.gov/link/plaw/92/public/181).10, as added [Pub. L. 100–233, title IV, § 401](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1627](https://www.govinfo.gov/link/statute/101/1627); amended [Pub. L. 100–399, title IV, § 401(h)](https://www.govinfo.gov/link/plaw/100/public/399), (i), Aug. 17, 1988, [102 Stat. 996](https://www.govinfo.gov/link/statute/102/996); [Pub. L. 104–105, title II](https://www.govinfo.gov/link/plaw/104/public/105), §§ 202, 203, Feb. 10, 1996, [110 Stat. 172](https://www.govinfo.gov/link/statute/110/172).)*

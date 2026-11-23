@@ -3,9 +3,10 @@ title: "Section 7701 - Taxpayer identifying number"
 usc_title: 31
 usc_section: "7701"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 7701"
-generated_at: "2026-03-30T02:55:34.076Z"
+generated_at: "2026-11-23T21:26:10.655Z"
+status: "active"
 ---
 
 # § 7701. Taxpayer identifying number
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:34.076Z"
   - **(3)** Each agency shall disclose to a person required to furnish a taxpayer identifying number under this subsection its intent to use such number for purposes of collecting and reporting on any delinquent amounts arising out of such person’s relationship with the Government.
   - **(4)** For purposes of this subsection, a person shall not be treated as doing business with a Federal agency solely by reason of being a debtor under third party claims of the United States. The preceding sentence shall not apply to a debtor owing claims resulting from petroleum pricing violations or owing claims resulting from Federal loan or loan guarantee/insurance programs.
 - **(d)** Notwithstanding section 552a(b) of title 5 , United States Code, creditor agencies to which a delinquent claim is owed, and their agents, may match their debtor records with Department of Health and Human Services, and Department of Labor records to obtain names (including names of employees), name controls, names of employers, taxpayer identifying numbers, addresses (including addresses of employers), and dates of birth. The preceding sentence shall apply to the disclosure of taxpayer identifying numbers only if such disclosure is not otherwise prohibited by section 6103 of the Internal Revenue Code of 1986. The Department of Health and Human Services, and the Department of Labor shall release that information to creditor agencies and may charge reasonable fees sufficient to pay the costs associated with that release.
+
+## Source Credit
+
+*(Added [Pub. L. 103–272, § 4(f)(1)(Y)(i)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1363](https://www.govinfo.gov/link/statute/108/1363); amended [Pub. L. 104–134, title III, § 31001(i)(1)](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–364](https://www.govinfo.gov/link/statute/110/1321).)*

@@ -3,9 +3,10 @@ title: "Section 2603 - Testing of chemical substances and mixtures"
 usc_title: 15
 usc_section: "2603"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2603"
-generated_at: "2026-03-30T02:54:08.173Z"
+generated_at: "2026-11-23T21:25:39.931Z"
+status: "active"
 ---
 
 # § 2603. Testing of chemical substances and mixtures
@@ -136,3 +137,13 @@ generated_at: "2026-03-30T02:54:08.173Z"
     - **(B)** Nothing in this paragraph shall, under any circumstance, limit or restrict the submission of any existing information to the Administrator.
     - **(C)** A violation of this paragraph shall not be a prohibited act under section 2614 of this title .
     - **(D)** This paragraph authorizes, but does not require, the Administrator to review the means by which a person conducted testing described in subparagraph (A).
+
+Additional testing authority
+
+Statement of need
+
+Tiered testing
+
+## Source Credit
+
+*([Pub. L. 94–469, title I, § 4](https://www.govinfo.gov/link/plaw/94/public/469), Oct. 11, 1976, [90 Stat. 2006](https://www.govinfo.gov/link/statute/90/2006); renumbered title I, [Pub. L. 99–519, § 3(c)(1)](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2989](https://www.govinfo.gov/link/statute/100/2989); amended [Pub. L. 114–182, title I](https://www.govinfo.gov/link/plaw/114/public/182), §§ 4, 19(d), June 22, 2016, [130 Stat. 449](https://www.govinfo.gov/link/statute/130/449), 505.)*

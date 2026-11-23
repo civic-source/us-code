@@ -3,9 +3,10 @@ title: "Section 9858i - Reports and audits"
 usc_title: 42
 usc_section: "9858i"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9858i"
-generated_at: "2026-03-30T02:56:11.374Z"
+generated_at: "2026-11-23T21:26:33.315Z"
+status: "active"
 ---
 
 # § 9858i. Reports and audits
@@ -47,3 +48,11 @@ generated_at: "2026-03-30T02:56:11.374Z"
   - **(2)** Audits under this subsection shall be conducted by an entity that is independent of the State that receives assistance under this subchapter and be in accordance with generally accepted auditing principles.
   - **(3)** Not later than 30 days after the completion of an audit under this subsection, the State shall submit a copy of the audit to the legislature of the State and to the Secretary.
   - **(4)** Each State shall repay to the United States any amounts determined through an audit under this subsection not to have been expended in accordance with this subchapter, or the Secretary may offset such amounts against any other amount to which the State is or may be entitled under this subchapter.
+
+(aa) the temporary assistance for needy families program under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.); and
+
+(bb) a State program for which State spending is counted toward the maintenance of effort requirement under section 409(a)(7) of the Social Security Act ( 42 U.S.C. 609(a)(7) );
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 658K](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 101–508, title V, § 5082(2)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–243](https://www.govinfo.gov/link/statute/104/1388); amended [Pub. L. 102–401, § 3(a)](https://www.govinfo.gov/link/plaw/102/public/401), Oct. 7, 1992, [106 Stat. 1959](https://www.govinfo.gov/link/statute/106/1959); [Pub. L. 102–586, § 8(c)(1)](https://www.govinfo.gov/link/plaw/102/public/586), Nov. 4, 1992, [106 Stat. 5036](https://www.govinfo.gov/link/statute/106/5036); [Pub. L. 104–193, title VI, § 611](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2284](https://www.govinfo.gov/link/statute/110/2284); [Pub. L. 105–33, title V, § 5602(2)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 646](https://www.govinfo.gov/link/statute/111/646); [Pub. L. 110–234, title IV, § 4002(b)(1)(B)](https://www.govinfo.gov/link/plaw/110/public/234), (2)(FF), May 22, 2008, [122 Stat. 1096](https://www.govinfo.gov/link/statute/122/1096), 1098; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4002(b)(1)(B), (2)(FF), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1859; [Pub. L. 113–186, § 8(c)](https://www.govinfo.gov/link/plaw/113/public/186), (e), Nov. 19, 2014, [128 Stat. 1996](https://www.govinfo.gov/link/statute/128/1996), 1998.)*

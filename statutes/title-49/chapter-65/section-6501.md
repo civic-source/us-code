@@ -3,9 +3,10 @@ title: "Section 6501 - Annual modal research plans"
 usc_title: 49
 usc_section: "6501"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 6501"
-generated_at: "2026-03-30T02:56:19.322Z"
+generated_at: "2026-11-23T21:26:40.670Z"
+status: "active"
 ---
 
 # § 6501. Annual modal research plans
@@ -65,3 +66,37 @@ generated_at: "2026-03-30T02:56:19.322Z"
   - **(2)** If the Secretary, after submitting a certification under paragraph (1), identifies duplication of research within the Department of Transportation, the Secretary shall—
     - **(A)** notify Congress of the duplicative research; and
     - **(B)** submit to Congress a corrective action plan to eliminate the duplicative research.
+
+Modal Plans Required.—
+
+In general
+
+Requirements
+
+Relationship to strategic plan
+
+Review.—
+
+In general
+
+Criteria
+
+Publications
+
+Rejection of duplicative research efforts
+
+Savings clause
+
+Funding Limitations
+
+Certification.—
+
+In general
+
+Corrective action plan
+
+“Congress finds that—
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title VI, § 6019(b)(1)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1578](https://www.govinfo.gov/link/statute/129/1578); amended [Pub. L. 117–58, div. B, title V, § 25015(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 870](https://www.govinfo.gov/link/statute/135/870).)*

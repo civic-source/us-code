@@ -3,9 +3,10 @@ title: "Section 118 - Contributions to the capital of a corporation"
 usc_title: 26
 usc_section: "118"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 118"
-generated_at: "2026-03-30T02:55:27.625Z"
+generated_at: "2026-11-23T21:26:06.005Z"
+status: "active"
 ---
 
 # § 118. Contributions to the capital of a corporation
@@ -41,3 +42,19 @@ generated_at: "2026-03-30T02:55:27.625Z"
 - **(e)**
   - **(1)** For basis of property acquired by a corporation through a contribution to its capital, see section 362.
   - **(2)** For special rules in the case of contributions of indebtedness, see section 108(e)(6).
+
+In general
+
+Exception
+
+In general
+
+Treatment of certain water supply projects
+
+Treatment of certain contributions by transportation authority
+
+Treatment of certain partnerships
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 39; [Pub. L. 94–455, title XXI, § 2120(a)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1912](https://www.govinfo.gov/link/statute/90/1912); [Pub. L. 95–600, title III, § 364(a)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2854](https://www.govinfo.gov/link/statute/92/2854); [Pub. L. 96–589, § 2(e)(2)](https://www.govinfo.gov/link/plaw/96/public/589), Dec. 24, 1980, [94 Stat. 3396](https://www.govinfo.gov/link/statute/94/3396); [Pub. L. 98–369, div. A, title I, § 163(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 697](https://www.govinfo.gov/link/statute/98/697); [Pub. L. 99–514, title VIII, § 824(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2374](https://www.govinfo.gov/link/statute/100/2374); [Pub. L. 104–188, title I, § 1613(a)(1)](https://www.govinfo.gov/link/plaw/104/public/188), (2), Aug. 20, 1996, [110 Stat. 1848–1850](https://www.govinfo.gov/link/statute/110/1848); [Pub. L. 115–97, title I, § 13312(a)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2132](https://www.govinfo.gov/link/statute/131/2132); [Pub. L. 117–58, div. H, title VI, § 80601(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1337](https://www.govinfo.gov/link/statute/135/1337).)*

@@ -3,9 +3,10 @@ title: "Section 5854 - State agricultural weather information systems"
 usc_title: 7
 usc_section: "5854"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 5854"
-generated_at: "2026-03-30T02:53:42.419Z"
+generated_at: "2026-11-23T21:25:28.371Z"
+status: "active"
 ---
 
 # § 5854. State agricultural weather information systems
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:42.419Z"
     - **(B)** develop methods for packaging information received from the national system for use by agricultural producers (with State Cooperative Extension Services and the private sector to serve as the primary conduit of agricultural weather forecasts and climatic information to producers); and
     - **(C)** develop programs to educate agricultural producers on how to best use weather and climate information to improve management decisions; and
   - **(2)** such other assurances and information as the Secretary may require by rule.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XVI, § 1640](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3749](https://www.govinfo.gov/link/statute/104/3749); [Pub. L. 107–171, title VII, § 7304(b)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 455](https://www.govinfo.gov/link/statute/116/455); [Pub. L. 110–234, title VII, § 7511(c)(19)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1269](https://www.govinfo.gov/link/statute/122/1269); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7511(c)(19), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2030.)*

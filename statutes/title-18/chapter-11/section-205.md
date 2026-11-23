@@ -3,9 +3,10 @@ title: "Section 205 - Activities of officers and employees in claims against and
 usc_title: 18
 usc_section: "205"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 205"
-generated_at: "2026-03-30T02:54:16.459Z"
+generated_at: "2026-11-23T21:25:43.948Z"
+status: "active"
 ---
 
 # § 205. Activities of officers and employees in claims against and other matters affecting the Government
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:16.459Z"
   - **(3)** section 3 of the Tennessee Valley Authority Act of 1933 ( 16 U.S.C. 831b );
   - **(4)** chapter 10 of title I of the Foreign Service Act of 1980 ( 22 U.S.C. 4104 et seq.); or
   - **(5)** any provision of any other Federal or District of Columbia law that authorizes labor-management relations between an agency or instrumentality of the United States or the District of Columbia and any labor organization that represents its employees.
+
+## Source Credit
+
+*(Added [Pub. L. 87–849, § 1(a)](https://www.govinfo.gov/link/plaw/87/public/849), Oct. 23, 1962, [76 Stat. 1122](https://www.govinfo.gov/link/statute/76/1122); amended [Pub. L. 101–194, title IV, § 404](https://www.govinfo.gov/link/plaw/101/public/194), Nov. 30, 1989, [103 Stat. 1750](https://www.govinfo.gov/link/statute/103/1750); [Pub. L. 101–280, § 5(c)](https://www.govinfo.gov/link/plaw/101/public/280), May 4, 1990, [104 Stat. 159](https://www.govinfo.gov/link/statute/104/159); [Pub. L. 104–177, § 2](https://www.govinfo.gov/link/plaw/104/public/177), Aug. 6, 1996, [110 Stat. 1563](https://www.govinfo.gov/link/statute/110/1563); [Pub. L. 107–273, div. B, title IV, § 4002(a)(9)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1807](https://www.govinfo.gov/link/statute/116/1807).)*

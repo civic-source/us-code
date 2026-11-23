@@ -3,9 +3,10 @@ title: "Section 3515e - Transfer of functions regarding independent living to De
 usc_title: 42
 usc_section: "3515e"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3515e"
-generated_at: "2026-03-30T02:56:11.188Z"
+generated_at: "2026-11-23T21:26:32.568Z"
+status: "active"
 ---
 
 # § 3515e. Transfer of functions regarding independent living to Department of Health and Human Services, and savings provisions
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:56:11.188Z"
     - **(B)** For purposes of applying those subsections under subparagraph (A), those subsections—
       - **(i)** shall apply to the NIDRR and the Director of the NIDRR in the same manner and to the same extent as those subsections apply to the Rehabilitation Services Administration and the Commissioner of that Administration; and
       - **(ii)** shall apply to the NIDILRR and the Director of the NIDILRR in the same manner and to the same extent as those subsections apply to the Administration for Community Living and the Administrator of that Administration.
+
+## Source Credit
+
+*([Pub. L. 113–128, title IV, § 491](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1695](https://www.govinfo.gov/link/statute/128/1695).)*

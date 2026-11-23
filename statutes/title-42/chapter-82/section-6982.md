@@ -3,9 +3,10 @@ title: "Section 6982 - Special studies; plans for research, development, and dem
 usc_title: 42
 usc_section: "6982"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6982"
-generated_at: "2026-03-30T02:56:11.279Z"
+generated_at: "2026-11-23T21:26:33.026Z"
+status: "active"
 ---
 
 # § 6982. Special studies; plans for research, development, and demonstrations
@@ -100,3 +101,7 @@ generated_at: "2026-03-30T02:56:11.279Z"
   - **(5)** innovative uses of closed landfill sites, including use for energy production such as solar or wind energy and use for metals recovery;
   - **(6)** potential for use of sewage treatment sludge in reclaiming landfilled areas; and
   - **(7)** methods to coordinate use of a landfill owned by one municipality by nearby municipalities, and to establish equitable rates for such use, taking into account the need to provide future landfill capacity to replace that so used.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 8002](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2831](https://www.govinfo.gov/link/statute/90/2831); amended [Pub. L. 95–609, § 7(t)](https://www.govinfo.gov/link/plaw/95/public/609), Nov. 8, 1978, [92 Stat. 3083](https://www.govinfo.gov/link/statute/92/3083); H. Res. 549, Mar. 25, 1980; [Pub. L. 96–482, § 29](https://www.govinfo.gov/link/plaw/96/public/482), Oct. 21, 1980, [94 Stat. 2349](https://www.govinfo.gov/link/statute/94/2349); [Pub. L. 98–616, title II, § 224(c)](https://www.govinfo.gov/link/plaw/98/public/616), title VII, § 702, Nov. 8, 1984, [98 Stat. 3253](https://www.govinfo.gov/link/statute/98/3253), 3289.)*

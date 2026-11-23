@@ -3,9 +3,10 @@ title: "Section 202 - Definitions"
 usc_title: 18
 usc_section: "202"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 202"
-generated_at: "2026-03-30T02:54:16.458Z"
+generated_at: "2026-11-23T21:25:43.947Z"
+status: "active"
 ---
 
 # § 202. Definitions
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:16.458Z"
   - **(3)** “legislative branch” means—
     - **(A)** the Congress; and
     - **(B)** the Office of the Architect of the Capitol, the United States Botanic Garden, the Government Accountability Office, the Government Publishing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, the United States Capitol Police, and any other agency, entity, office, or commission established in the legislative branch.
+
+## Source Credit
+
+*(Added [Pub. L. 87–849, § 1(a)](https://www.govinfo.gov/link/plaw/87/public/849), Oct. 23, 1962, [76 Stat. 1121](https://www.govinfo.gov/link/statute/76/1121); amended [Pub. L. 90–578, title III, § 301(b)](https://www.govinfo.gov/link/plaw/90/public/578), Oct. 17, 1968, [82 Stat. 1115](https://www.govinfo.gov/link/statute/82/1115); [Pub. L. 100–191, § 3(a)](https://www.govinfo.gov/link/plaw/100/public/191), Dec. 15, 1987, [101 Stat. 1306](https://www.govinfo.gov/link/statute/101/1306); [Pub. L. 101–194, title IV, § 401](https://www.govinfo.gov/link/plaw/101/public/194), Nov. 30, 1989, [103 Stat. 1747](https://www.govinfo.gov/link/statute/103/1747); [Pub. L. 101–280, § 5(a)](https://www.govinfo.gov/link/plaw/101/public/280), May 4, 1990, [104 Stat. 158](https://www.govinfo.gov/link/statute/104/158); [Pub. L. 101–650, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117); [Pub. L. 102–572, title IX, § 902(b)(1)](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4516](https://www.govinfo.gov/link/statute/106/4516); [Pub. L. 103–337, div. A, title IX, § 924(d)(1)(B)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2832](https://www.govinfo.gov/link/statute/108/2832); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537); [Pub. L. 118–159, div. A, title V, § 568(a)](https://www.govinfo.gov/link/plaw/118/public/159), (c), Dec. 23, 2024, [138 Stat. 1905](https://www.govinfo.gov/link/statute/138/1905), 1906.)*

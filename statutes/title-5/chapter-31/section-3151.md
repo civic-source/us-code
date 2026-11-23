@@ -3,9 +3,10 @@ title: "Section 3151 - The Federal Bureau of Investigation and Drug Enforcement 
 usc_title: 5
 usc_section: "3151"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3151"
-generated_at: "2026-03-30T02:52:56.000Z"
+generated_at: "2026-11-23T21:25:23.140Z"
+status: "active"
 ---
 
 # § 3151. The Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:52:56.000Z"
     - **(A)** for less than fully successful performance;
     - **(B)** due to a reduction in force; or
     - **(C)** for any other reason.
+
+## Source Credit
+
+*(Added [Pub. L. 100–325, § 1(a)](https://www.govinfo.gov/link/plaw/100/public/325), May 30, 1988, [102 Stat. 579](https://www.govinfo.gov/link/statute/102/579); amended [Pub. L. 101–194, title V, § 506(b)(1)](https://www.govinfo.gov/link/plaw/101/public/194), Nov. 30, 1989, [103 Stat. 1758](https://www.govinfo.gov/link/statute/103/1758); [Pub. L. 109–108, title I, § 111](https://www.govinfo.gov/link/plaw/109/public/108), Nov. 22, 2005, [119 Stat. 2305](https://www.govinfo.gov/link/statute/119/2305).)*

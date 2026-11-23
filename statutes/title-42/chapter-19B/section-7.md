@@ -3,9 +3,10 @@ title: "Section 7 - Delmarva Peninsula hydrologic study; duties of Secretary of 
 usc_title: 42
 usc_section: "7"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-30T02:56:11.135Z"
+generated_at: "2026-11-23T21:26:32.260Z"
+status: "active"
 ---
 
 # § 1962d–7. Delmarva Peninsula hydrologic study; duties of Secretary of the Interior
@@ -21,3 +22,7 @@ The Secretary of the Interior (hereinafter referred to as the “Secretary”) i
   - **(7)** compile and make available to appropriate State and local officials any results of this study and investigation that would be appropriate for their use in long-range planning, development, and management of water supplies;
   - **(8)** cooperate with State and local agencies for the purpose of using any information and data available to carry out the purposes of this study; and
   - **(9)** consider such other matters as the Secretary may deem appropriate to the study and investigation herein authorized.
+
+## Source Credit
+
+*([Pub. L. 89–618, § 1](https://www.govinfo.gov/link/plaw/89/public/618), Oct. 4, 1966, [80 Stat. 870](https://www.govinfo.gov/link/statute/80/870).)*

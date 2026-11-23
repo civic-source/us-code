@@ -3,9 +3,10 @@ title: "Section 32506 - Prohibited acts"
 usc_title: 49
 usc_section: "32506"
 chapter: 325
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 32506"
-generated_at: "2026-03-30T02:56:19.363Z"
+generated_at: "2026-11-23T21:26:40.803Z"
+status: "active"
 ---
 
 # § 32506. Prohibited acts
@@ -27,3 +28,39 @@ generated_at: "2026-03-30T02:56:19.363Z"
     - **(C)** be abandoned to the United States Government.
   - **(2)** The Secretaries may prescribe joint regulations that allow a passenger motor vehicle or passenger motor vehicle equipment to be imported into the United States after the first purchase in good faith other than for resale.
 - **(d)** Compliance with a standard under this chapter does not exempt a person from liability provided by law.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 32506(a) | 15:1916(a). | Oct. 20, 1972 , Pub. L. 92–513, § 106 , 86 Stat. 952 . |
+| 32506(b) | 15:1916(b)(1), (2). |  |
+| 32506(c) | 15:1916(b)(3), (4). |  |
+| 32506(d) | 15:1916(c). |  |
+
+
+General
+
+Nonapplication
+
+Importing Noncomplying Vehicles and Equipment
+
+Liability Under Other Law
+
+Historical and Revision Notes
+
+32506(a)
+
+Oct. 20, 1972
+
+Pub. L. 92–513, § 106
+
+86 Stat. 952
+
+32506(b)
+
+32506(c)
+
+32506(d)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1045](https://www.govinfo.gov/link/statute/108/1045); [Pub. L. 105–277, div. A, § 101(g) [title III, § 351(b)(2)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–439](https://www.govinfo.gov/link/statute/112/2681), 2681–476.)*

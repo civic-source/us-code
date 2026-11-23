@@ -3,9 +3,10 @@ title: "Section 2668 - Requisitions for advances to pay lawful obligations"
 usc_title: 22
 usc_section: "2668"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2668"
-generated_at: "2026-03-30T02:55:05.377Z"
+generated_at: "2026-11-23T21:25:58.523Z"
+status: "active"
 ---
 
 # § 2668. Requisitions for advances to pay lawful obligations
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.377Z"
     - **(A)** outstanding in the account of advances for 2 complete fiscal years; and
     - **(B)** certified by the Secretary of State to the Comptroller General as uncollectable.
 - **(c)** Subsection (b) of this section does not affect the financial liability of a disbursing official or agent.
+
+## Source Credit
+
+*(Apr. 25, 1940, ch. 154, [54 Stat. 163](https://www.govinfo.gov/link/statute/54/163); 1940 Reorg. Plan No. III, § 1(a)(1), eff. June 30, 1940, 5 F.R. 2107, [54 Stat. 1231](https://www.govinfo.gov/link/statute/54/1231); [Pub. L. 97–258, § 2(e)](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1059](https://www.govinfo.gov/link/statute/96/1059); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

@@ -3,9 +3,10 @@ title: "Section 7804 - Actions by States"
 usc_title: 15
 usc_section: "7804"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7804"
-generated_at: "2026-03-30T02:54:08.226Z"
+generated_at: "2026-11-23T21:25:40.070Z"
+status: "active"
 ---
 
 # § 7804. Actions by States
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:08.226Z"
 - **(f)** In an action brought under subsection (a), process may be served in any district in which the defendant—
   - **(1)** is an inhabitant; or
   - **(2)** may be found.
+
+## Source Credit
+
+*([Pub. L. 108–304, § 5](https://www.govinfo.gov/link/plaw/108/public/304), Sept. 24, 2004, [118 Stat. 1127](https://www.govinfo.gov/link/statute/118/1127).)*

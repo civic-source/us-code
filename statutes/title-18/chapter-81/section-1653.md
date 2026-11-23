@@ -3,12 +3,17 @@ title: "Section 1653 - Aliens as pirates"
 usc_title: 18
 usc_section: "1653"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1653"
-generated_at: "2026-03-30T02:54:16.489Z"
+generated_at: "2026-11-23T21:25:44.082Z"
+status: "active"
 ---
 
 # § 1653. Aliens as pirates
 
 Whoever, being a citizen or subject of any foreign state, is found and taken on the sea making war upon the United States, or cruising against the vessels and property thereof, or of the citizens of the same, contrary to the provisions of any treaty existing between the United States and the state of which the offender is a citizen or subject, when by such treaty such acts are declared to be piracy, is a pirate, and shall be imprisoned for life.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 774](https://www.govinfo.gov/link/statute/62/774).)*

@@ -3,9 +3,10 @@ title: "Section 3334b - Collection, analysis, and dissemination of workforce dat
 usc_title: 50
 usc_section: "3334b"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3334b"
-generated_at: "2026-03-30T02:56:26.244Z"
+generated_at: "2026-11-23T21:26:39.033Z"
+status: "active"
 ---
 
 # § 3334b. Collection, analysis, and dissemination of workforce data
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:56:26.244Z"
     - **(A)** the Committee on Foreign Relations, the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, the Select Committee on Intelligence, and the Committee on Appropriations of the Senate; and
     - **(B)** the Committee on Foreign Affairs, the Committee on Armed Services, the Committee on Homeland Security, the Permanent Select Committee on Intelligence, and the Committee on Appropriations of the House of Representatives.
   - **(3)** The term “diversity” means diversity of persons based on gender, race, ethnicity, disability status, veteran status, sexual orientation, gender identity, national origin, and other demographic categories.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. E, title LVII, § 5704](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2162](https://www.govinfo.gov/link/statute/133/2162); [Pub. L. 117–103, div. X, title VIII, § 802](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 1011](https://www.govinfo.gov/link/statute/136/1011); [Pub. L. 117–263, div. F, title LXVIII, § 6824(b)(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3615](https://www.govinfo.gov/link/statute/136/3615).)*

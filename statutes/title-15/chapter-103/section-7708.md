@@ -3,9 +3,10 @@ title: "Section 7708 - Do-Not-E-Mail registry"
 usc_title: 15
 usc_section: "7708"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7708"
-generated_at: "2026-03-30T02:54:08.226Z"
+generated_at: "2026-11-23T21:25:40.068Z"
+status: "active"
 ---
 
 # § 7708. Do-Not-E-Mail registry
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.226Z"
   - **(2)** includes an explanation of any practical, technical, security, privacy, enforceability, or other concerns that the Commission has regarding such a registry; and
   - **(3)** includes an explanation of how the registry would be applied with respect to children with e-mail accounts.
 - **(b)** The Commission may establish and implement the plan, but not earlier than 9 months after December 16, 2003 .
+
+## Source Credit
+
+*([Pub. L. 108–187, § 9](https://www.govinfo.gov/link/plaw/108/public/187), Dec. 16, 2003, [117 Stat. 2716](https://www.govinfo.gov/link/statute/117/2716).)*

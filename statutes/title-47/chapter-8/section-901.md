@@ -3,9 +3,10 @@ title: "Section 901 - Definitions; findings; policy"
 usc_title: 47
 usc_section: "901"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 901"
-generated_at: "2026-03-30T02:56:24.526Z"
+generated_at: "2026-11-23T21:26:36.070Z"
+status: "active"
 ---
 
 # § 901. Definitions; findings; policy
@@ -29,3 +30,127 @@ generated_at: "2026-03-30T02:56:24.526Z"
   - **(3)** Facilitating and contributing to the full development of competition, efficiency, and the free flow of commerce in domestic and international telecommunications markets.
   - **(4)** Fostering full and efficient use of telecommunications resources, including effective use of the radio spectrum by the Federal Government, in a manner which encourages the most beneficial uses thereof in the public interest.
   - **(5)** Furthering scientific knowledge about telecommunications and information.
+
+Definitions
+
+Commission
+
+Secretary
+
+Steering committee
+
+Working group
+
+Federal Working Group.—
+
+In general
+
+Duties
+
+Agency representatives
+
+Nongovernmental stakeholders
+
+Steering committee.—
+
+Establishment
+
+Duties
+
+Membership
+
+Report
+
+Independent advice.—
+
+In general
+
+Suggestions
+
+Report
+
+No compensation for members
+
+Termination
+
+Report to congress.—
+
+In general
+
+Copy of report
+
+Assessing Spectrum Needs.—
+
+In general
+
+Requirements
+
+Report
+
+Strategy Required
+
+Designation
+
+Elements
+
+Public Consultation
+
+Limitations.—
+
+In general
+
+Federal agency authority
+
+Public Comment
+
+Briefing.—
+
+In general
+
+Unclassified setting
+
+Implementation.—
+
+In general
+
+Rule of construction
+
+Form
+
+Section
+
+Sec
+
+Sec.
+
+Administration
+
+Sec
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*([Pub. L. 102–538, title I, § 102](https://www.govinfo.gov/link/plaw/102/public/538), Oct. 27, 1992, [106 Stat. 3533](https://www.govinfo.gov/link/statute/106/3533).)*

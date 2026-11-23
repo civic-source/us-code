@@ -3,9 +3,10 @@ title: "Section 3456 - Commercial product and commercial service determinations 
 usc_title: 10
 usc_section: "3456"
 chapter: 247
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3456"
-generated_at: "2026-03-30T02:53:38.192Z"
+generated_at: "2026-11-23T21:25:32.729Z"
+status: "active"
 ---
 
 # § 3456. Commercial product and commercial service determinations by Department of Defense
@@ -27,3 +28,21 @@ generated_at: "2026-03-30T02:53:38.192Z"
     - **(B)** The limitation under subparagraph (A) does not apply to the procurement of a product or service that was previously acquired using commercial acquisition procedures under part 12 of the Federal Acquisition Regulation following—
       - **(i)** a written determination by the head of contracting activity pursuant to section 3703(d)(2) of this title that the use of such procedures was improper; or
       - **(ii)** a written determination by the senior procurement executive of the military department or the Department of Defense as designated for purposes of section 1702(c) of title 41 that it is no longer appropriate to acquire the product or service using such procedures.
+
+In General
+
+Determinations Regarding the Commercial Nature of Products or Services.—
+
+In general
+
+Memorandum
+
+Items Previously Acquired Using Commercial Acquisition Procedures.—
+
+Determinations
+
+Limitation
+
+## Source Credit
+
+*(Added [Pub. L. 114–92, div. A, title VIII, § 851(a)(1)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 916](https://www.govinfo.gov/link/statute/129/916), § 2380; amended [Pub. L. 114–328, div. A, title VIII, § 873](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2307](https://www.govinfo.gov/link/statute/130/2307); [Pub. L. 115–91, div. A, title VIII, § 848](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1487](https://www.govinfo.gov/link/statute/131/1487); [Pub. L. 115–232, div. A, title VIII, § 836(d)(5)](https://www.govinfo.gov/link/plaw/115/public/232), (8)(E), Aug. 13, 2018, [132 Stat. 1868](https://www.govinfo.gov/link/statute/132/1868), 1869; renumbered § 3456 and amended [Pub. L. 116–283, div. A, title VIII, § 816](https://www.govinfo.gov/link/plaw/116/public/283), title XVIII, §§ 1821(a)(2), (b)(5), 1831(j)(5), Jan. 1, 2021, [134 Stat. 3750](https://www.govinfo.gov/link/statute/134/3750), 4195, 4217; [Pub. L. 117–81, div. A, title XVII, § 1701(b)(9)](https://www.govinfo.gov/link/plaw/117/public/81), (10)(I)(ii), Dec. 27, 2021, [135 Stat. 2133](https://www.govinfo.gov/link/statute/135/2133), 2134; [Pub. L. 118–31, div. A, title VIII, § 801](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 312](https://www.govinfo.gov/link/statute/137/312); [Pub. L. 118–159, div. A, title VIII, § 814](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1980](https://www.govinfo.gov/link/statute/138/1980); [Pub. L. 119–60, div. A, title XVIII, § 1822(b)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1247](https://www.govinfo.gov/link/statute/139/1247).)*

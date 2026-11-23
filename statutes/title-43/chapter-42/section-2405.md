@@ -3,9 +3,10 @@ title: "Section 2405 - Feasibility studies"
 usc_title: 43
 usc_section: "2405"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 2405"
-generated_at: "2026-03-30T02:55:57.497Z"
+generated_at: "2026-11-23T21:26:19.895Z"
+status: "active"
 ---
 
 # § 2405. Feasibility studies
@@ -83,3 +84,11 @@ generated_at: "2026-03-30T02:55:57.497Z"
   - **(3)** The Secretary may increase the Federal share of the costs of a feasibility study if the Secretary determines, based on a demonstration of financial hardship, that the non-Federal participant is unable to contribute at least 50 percent of the costs of the study.
   - **(4)** In conducting a feasibility study of a rural water supply system that includes a community with a population in excess of 50,000 inhabitants, the Secretary may require the non-Federal project entity to pay more than 50 percent of the costs of the study.
 - **(h)** In addition to the non-Federal project entity, the Secretary shall consult and cooperate with appropriate Federal, State, tribal, regional, and local authorities during the conduct of each feasibility assessment and development of the feasibility report conducted under this subchapter.
+
+(aa) at least 25 percent of the total construction costs; and
+
+(bb) determined based on an analysis of the capability-to-pay information considered under subsections (c)(9) and (f); and
+
+## Source Credit
+
+*([Pub. L. 109–451, title I, § 106](https://www.govinfo.gov/link/plaw/109/public/451), Dec. 22, 2006, [120 Stat. 3351](https://www.govinfo.gov/link/statute/120/3351).)*

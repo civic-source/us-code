@@ -3,9 +3,10 @@ title: "Section 8502 - Federal pilots required"
 usc_title: 46
 usc_section: "8502"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 8502"
-generated_at: "2026-03-30T02:56:15.552Z"
+generated_at: "2026-11-23T21:26:37.099Z"
+status: "active"
 ---
 
 # § 8502. Federal pilots required
@@ -29,3 +30,16 @@ generated_at: "2026-03-30T02:56:15.552Z"
 - **(i)**
   - **(1)** Except as provided in paragraph (2), a dredge to which this section would otherwise apply is exempt from the requirements of this section.
   - **(2)** If the Secretary determines, after notice and comment, that the exemption under paragraph (1) creates a hazard to navigational safety in a specified area, the Secretary may require that a dredge exempted by paragraph (1) which is operating in that area shall comply with this section.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 8502 | 46:215 46:364 46:391a 46:497 |
+
+
+Historical and Revision Notes
+
+8502
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 553](https://www.govinfo.gov/link/statute/97/553); [Pub. L. 98–557, § 29(f)(1)](https://www.govinfo.gov/link/plaw/98/public/557), (2), Oct. 30, 1984, [98 Stat. 2874](https://www.govinfo.gov/link/statute/98/2874); [Pub. L. 99–307, § 1(13)](https://www.govinfo.gov/link/plaw/99/public/307), May 19, 1986, [100 Stat. 446](https://www.govinfo.gov/link/statute/100/446); [Pub. L. 101–380, title IV](https://www.govinfo.gov/link/plaw/101/public/380), §§ 4116(a), (b), 4302(g), Aug. 18, 1990, [104 Stat. 522](https://www.govinfo.gov/link/statute/104/522), 539; [Pub. L. 101–595, title III, § 307](https://www.govinfo.gov/link/plaw/101/public/595), Nov. 16, 1990, [104 Stat. 2985](https://www.govinfo.gov/link/statute/104/2985); [Pub. L. 105–383, title III, § 301(b)(7)](https://www.govinfo.gov/link/plaw/105/public/383), Nov. 13, 1998, [112 Stat. 3417](https://www.govinfo.gov/link/statute/112/3417).)*

@@ -3,9 +3,10 @@ title: "Section 2643 - EPA regulations"
 usc_title: 15
 usc_section: "2643"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2643"
-generated_at: "2026-03-30T02:54:08.178Z"
+generated_at: "2026-11-23T21:25:39.943Z"
+status: "active"
 ---
 
 # § 2643. EPA regulations
@@ -74,3 +75,7 @@ generated_at: "2026-03-30T02:54:08.178Z"
   - **(1)** In the administration of this subchapter, any function, duty, or other responsibility imposed on a Governor of a State shall be carried out by the Secretary of Defense with respect to any school operated under the defense dependents’ education system provided for under the Defense Dependents’ Education Act of 1978 ( 20 U.S.C. 921 et seq.).
   - **(2)** The Secretary of Defense, in cooperation with the Administrator, shall, to the extent feasible and consistent with the national security, take such action as may be necessary to provide for the identification, inspection, and management (including abatement) of asbestos in any building used by the Department of Defense as an overseas school for dependents of members of the Armed Forces. Such identification, inspection, and management (including abatement) shall, subject to the preceding sentence, be carried out in a manner comparable to the manner in which a local educational agency is required to carry out such activities with respect to a school building under this subchapter.
 - **(m)** The Administrator, upon request by a Governor and after notice and comment and opportunity for a public hearing in the affected State, may waive some or all of the requirements of this section and section 2644 of this title with respect to such State if it has established and is implementing a program of asbestos inspection and management that contains requirements that are at least as stringent as the requirements of this section and section 2644 of this title .
+
+## Source Credit
+
+*([Pub. L. 94–469, title II, § 203](https://www.govinfo.gov/link/plaw/94/public/469), as added [Pub. L. 99–519, § 2](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2972](https://www.govinfo.gov/link/statute/100/2972); amended [Pub. L. 101–637, § 13](https://www.govinfo.gov/link/plaw/101/public/637), Nov. 28, 1990, [104 Stat. 4593](https://www.govinfo.gov/link/statute/104/4593).)*

@@ -3,9 +3,10 @@ title: "Section 1 - Nursing school clinics"
 usc_title: 25
 usc_section: "1"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1"
-generated_at: "2026-03-30T02:54:52.818Z"
+generated_at: "2026-11-23T21:25:54.615Z"
+status: "active"
 ---
 
 # § 1616e–1. Nursing school clinics
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:52.818Z"
 - **(d)** The clinics established under this section shall be designed to provide nursing students with a structured clinical experience that is similar in nature to that provided by residency training programs for physicians.
 - **(e)** The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section.
 - **(f)** Out of amounts appropriated to carry out this subchapter for each of the fiscal years 1993 through 2000 not more than $5,000,000 may be used to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 94–437, title I, § 112A](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 102–573, title I, § 104(f)](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4534](https://www.govinfo.gov/link/statute/106/4534).)*

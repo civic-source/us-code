@@ -3,9 +3,10 @@ title: "Section 30124 - Fraudulent misrepresentation of campaign authority"
 usc_title: 52
 usc_section: "30124"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 30124"
-generated_at: "2026-03-30T02:56:30.174Z"
+generated_at: "2026-11-23T21:26:42.349Z"
+status: "active"
 ---
 
 # § 30124. Fraudulent misrepresentation of campaign authority
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:30.174Z"
 - **(b)** No person shall—
   - **(1)** fraudulently misrepresent the person as speaking, writing, or otherwise acting for or on behalf of any candidate or political party or employee or agent thereof for the purpose of soliciting contributions or donations; or
   - **(2)** willfully and knowingly participate in or conspire to participate in any plan, scheme, or design to violate paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 92–225, title III, § 322](https://www.govinfo.gov/link/plaw/92/public/225), formerly § 327, as added [Pub. L. 94–283, title I, § 112(2)](https://www.govinfo.gov/link/plaw/94/public/283), May 11, 1976, [90 Stat. 494](https://www.govinfo.gov/link/statute/90/494); renumbered § 322, [Pub. L. 96–187, title I, § 105(5)](https://www.govinfo.gov/link/plaw/96/public/187), Jan. 8, 1980, [93 Stat. 1354](https://www.govinfo.gov/link/statute/93/1354); amended [Pub. L. 107–155, title III, § 309](https://www.govinfo.gov/link/plaw/107/public/155), Mar. 27, 2002, [116 Stat. 104](https://www.govinfo.gov/link/statute/116/104).)*

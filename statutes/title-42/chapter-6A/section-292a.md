@@ -3,9 +3,10 @@ title: "Section 292a - Scope and duration of loan insurance program"
 usc_title: 42
 usc_section: "292a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 292a"
-generated_at: "2026-03-30T02:56:10.772Z"
+generated_at: "2026-11-23T21:26:30.614Z"
+status: "active"
 ---
 
 # § 292a. Scope and duration of loan insurance program
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:10.772Z"
 - **(c)**
   - **(1)** Subject to paragraph (2), the Student Loan Marketing Association, established under part B of title IV of the Higher Education Act of 1965 [ 20 U.S.C. 1071 et seq.], is authorized to make advances on the security of, purchase, service, sell, consolidate, or otherwise deal in loans which are insured by the Secretary under this subpart, except that if any loan made under this subpart is included in a consolidated loan pursuant to the authority of the Association under part B of title IV of the Higher Education Act of 1965, the interest rate on such consolidated loan shall be set at the weighted average interest rate of all such loans offered for consolidation and the resultant per centum shall be rounded downward to the nearest one-eighth of 1 per centum, except that the interest rate shall be no less than the applicable interest rate of the guaranteed student loan program established under part B of title IV of the Higher Education Act of 1965. In the case of such a consolidated loan, the borrower shall be responsible for any interest which accrues prior to the beginning of the repayment period of the loan, or which accrues during a period in which principal need not be paid (whether or not such principal is in fact paid) by reason of any provision of the Higher Education Act of 1965 [ 20 U.S.C. 1001 et seq.].
   - **(2)** With respect to Federal regulations for lenders, this subpart may not be construed to preclude the applicability of such regulations to the Student Loan Marketing Association or to any other entity in the business of purchasing student loans, including such regulations with respect to applications, contracts, and due diligence.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 702, as added [Pub. L. 102–408, title I, § 102](https://www.govinfo.gov/link/plaw/102/public/408), Oct. 13, 1992, [106 Stat. 1994](https://www.govinfo.gov/link/statute/106/1994).)*

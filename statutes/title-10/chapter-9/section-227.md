@@ -3,9 +3,10 @@ title: "Section 227 - Budget justification for covered military unaccompanied ho
 usc_title: 10
 usc_section: "227"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 227"
-generated_at: "2026-03-30T02:53:38.047Z"
+generated_at: "2026-11-23T21:25:32.243Z"
+status: "active"
 ---
 
 # § 227. Budget justification for covered military unaccompanied housing Facilities Sustainment, Restoration, and Modernization projects
@@ -21,3 +22,11 @@ generated_at: "2026-03-30T02:53:38.047Z"
   - **(1)** The term “covered military unaccompanied housing” has the meaning given in section 2856 of this title .
   - **(2)** The terms “facility” and “military installation” have the meanings given, respectively, in section 2801 of this title .
   - **(3)** The term “repair project” has the meaning given in section 2811 of this title .
+
+In General
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. B, title XXVIII, § 2821](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2253](https://www.govinfo.gov/link/statute/138/2253).)*

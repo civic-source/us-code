@@ -3,9 +3,10 @@ title: "Section 5737a - Employees temporarily deployed in contingency operations
 usc_title: 5
 usc_section: "5737a"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5737a"
-generated_at: "2026-03-30T02:52:56.025Z"
+generated_at: "2026-11-23T21:25:23.299Z"
+status: "active"
 ---
 
 # § 5737a. Employees temporarily deployed in contingency operations
@@ -23,3 +24,15 @@ generated_at: "2026-03-30T02:52:56.025Z"
   - **(1)** with respect to storage during the period of the employee’s temporary assignment (as described in subsection (a)(1)(B)); and
   - **(2)** in the case of a covered employee, with respect to not more than one motor vehicle as of any given time.
 - **(d)** Any benefits under this section shall be in addition to (and not in lieu of) any other benefits for which the covered employee is otherwise eligible.
+
+Definitions
+
+Quarters and Rations
+
+Storage of Motor Vehicle
+
+Relationship to Other Benefits
+
+## Source Credit
+
+*(Added [Pub. L. 110–181, div. A, title XI, § 1104(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 346](https://www.govinfo.gov/link/statute/122/346).)*

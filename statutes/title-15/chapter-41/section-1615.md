@@ -3,9 +3,10 @@ title: "Section 1615 - Prohibition on use of “Rule of 78’s” in connection 
 usc_title: 15
 usc_section: "1615"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1615"
-generated_at: "2026-03-30T02:54:08.138Z"
+generated_at: "2026-11-23T21:25:39.839Z"
+status: "active"
 ---
 
 # § 1615. Prohibition on use of “Rule of 78’s” in connection with mortgage refinancings and other consumer loans
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:08.138Z"
   - **(3)** The term “creditor”—
     - **(A)** has the meaning given to such term in section 1602 of this title ; and
     - **(B)** includes any assignee of any creditor with respect to credit extended in connection with any consumer credit transaction and any subsequent assignee with respect to such credit.
+
+## Source Credit
+
+*([Pub. L. 102–550, title IX, § 933](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3891](https://www.govinfo.gov/link/statute/106/3891).)*

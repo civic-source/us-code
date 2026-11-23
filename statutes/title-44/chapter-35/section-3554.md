@@ -3,9 +3,10 @@ title: "Section 3554 - Federal agency responsibilities"
 usc_title: 44
 usc_section: "3554"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 3554"
-generated_at: "2026-03-30T02:55:56.297Z"
+generated_at: "2026-11-23T21:26:18.436Z"
+status: "active"
 ---
 
 # § 3554. Federal agency responsibilities
@@ -97,3 +98,35 @@ generated_at: "2026-03-30T02:55:56.297Z"
     - **(B)** the resources, including budget, staffing, and training,
   - **(2)** The description under paragraph (1) shall be based on the risk assessments required under subsection (b)(1).
 - **(e)** Each agency shall provide the public with timely notice and opportunities for comment on proposed information security policies and procedures to the extent that such policies and procedures affect communication with the public.
+
+In General
+
+Agency Program
+
+(aa) not later than 7 days after the date on which there is a reasonable basis to conclude that the major incident has occurred; and
+
+(bb) after the initial notification under item (aa), within a reasonable period of time after additional information relating to the incident is discovered, including the summary required under subsection (c)(1)(A)(i); and
+
+Agency Reporting.—
+
+Annual report.—
+
+In general
+
+Unclassified report.—
+
+In general
+
+Access to information
+
+Other plans and reports
+
+Performance Plan
+
+Public Notice and Comment
+
+“The Director of the Office of Management and Budget shall—
+
+## Source Credit
+
+*(Added [Pub. L. 113–283, § 2(a)](https://www.govinfo.gov/link/plaw/113/public/283), Dec. 18, 2014, [128 Stat. 3078](https://www.govinfo.gov/link/statute/128/3078); amended [Pub. L. 114–113, div. N, title II, § 229(b)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2974](https://www.govinfo.gov/link/statute/129/2974); [Pub. L. 115–390, title II, § 204(a)(2)](https://www.govinfo.gov/link/plaw/115/public/390), Dec. 21, 2018, [132 Stat. 5193](https://www.govinfo.gov/link/statute/132/5193).)*

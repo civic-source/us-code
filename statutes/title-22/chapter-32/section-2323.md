@@ -3,9 +3,10 @@ title: "Section 2323 - Transfer of defense articles or services"
 usc_title: 22
 usc_section: "2323"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2323"
-generated_at: "2026-03-30T02:55:05.357Z"
+generated_at: "2026-11-23T21:25:58.468Z"
+status: "active"
 ---
 
 # § 2323. Transfer of defense articles or services
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.357Z"
   - **(3)** In the case of a proposed transfer of equipment or supplies—
     - **(A)** a statement of whether the inventory requirements of all elements of the Armed Forces (including the reserve components) for the type of equipment or supplies to be transferred have been met; and
     - **(B)** a statement of whether the items proposed to be transferred will have to be replaced and, if so, how the President proposes to provide funds for such replacement.
+
+## Source Credit
+
+*([Pub. L. 113–235, div. C, title VIII, § 8050](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2264](https://www.govinfo.gov/link/statute/128/2264).)*

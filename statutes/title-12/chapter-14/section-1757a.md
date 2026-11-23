@@ -3,9 +3,10 @@ title: "Section 1757a - Limitation on member business loans"
 usc_title: 12
 usc_section: "1757a"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1757a"
-generated_at: "2026-03-30T02:53:53.435Z"
+generated_at: "2026-11-23T21:25:36.935Z"
+status: "active"
 ---
 
 # § 1757a. Limitation on member business loans
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:53.435Z"
   - **(3)** the term “associated member” means any member having a shared ownership, investment, or other pecuniary interest in a business or commercial endeavor with the borrower.
 - **(d)** An insured credit union that has, on August 7, 1998 , a total amount of outstanding member business loans that exceeds the amount permitted under subsection (a) shall, not later than 3 years after August 7, 1998 , reduce the total amount of outstanding member business loans to an amount that is not greater than the amount permitted under subsection (a).
 - **(e)** In implementing this section, the Board shall consult and seek to work cooperatively with State officials having jurisdiction over State-chartered insured credit unions.
+
+## Source Credit
+
+*(June 26, 1934, ch. 750, title I, § 107A, as added [Pub. L. 105–219, title II, § 203(a)](https://www.govinfo.gov/link/plaw/105/public/219), Aug. 7, 1998, [112 Stat. 920](https://www.govinfo.gov/link/statute/112/920); amended [Pub. L. 115–174, title I, § 105(a)](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1301](https://www.govinfo.gov/link/statute/132/1301).)*

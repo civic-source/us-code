@@ -3,9 +3,10 @@ title: "Section 3802 - False claims and statements; liability"
 usc_title: 31
 usc_section: "3802"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 3802"
-generated_at: "2026-03-30T02:55:34.061Z"
+generated_at: "2026-11-23T21:26:10.598Z"
+status: "active"
 ---
 
 # § 3802. False claims and statements; liability
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:34.061Z"
     - **(B)** a determination under section 3803 of this title that a person is liable under subsection (a) of this section,
   - **(2)** A determination referred to in paragraph (1) of this subsection may be used by the authority, but shall not require such authority, to commence any administrative or contractual action which is authorized by law.
   - **(3)** In the case of an administrative or contractual action to suspend or debar any person who is eligible to enter into contracts with the Federal Government, a determination referred to in paragraph (1) of this subsection shall not be considered as a conclusive determination of such person’s responsibility pursuant to Federal procurement laws and regulations.
+
+## Source Credit
+
+*(Added [Pub. L. 99–509, title VI, § 6103(a)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1937](https://www.govinfo.gov/link/statute/100/1937); amended [Pub. L. 118–159, div. E, title LII, § 5203(b)(2)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2440](https://www.govinfo.gov/link/statute/138/2440).)*

@@ -3,9 +3,10 @@ title: "Section 7215 - Investigations and disciplinary proceedings"
 usc_title: 15
 usc_section: "7215"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7215"
-generated_at: "2026-03-30T02:54:08.219Z"
+generated_at: "2026-11-23T21:25:40.044Z"
+status: "active"
 ---
 
 # § 7215. Investigations and disciplinary proceedings
@@ -97,3 +98,7 @@ generated_at: "2026-03-30T02:54:08.219Z"
 - **(e)**
   - **(1)** Application to the Commission for review, or the institution by the Commission of review, of any disciplinary action of the Board shall operate as a stay of any such disciplinary action, unless and until the Commission orders (summarily or after notice and opportunity for hearing on the question of a stay, which hearing may consist solely of the submission of affidavits or presentation of oral arguments) that no such stay shall continue to operate.
   - **(2)** The Commission shall establish for appropriate cases an expedited procedure for consideration and determination of the question of the duration of a stay pending review of any disciplinary action of the Board under this subsection.
+
+## Source Credit
+
+*([Pub. L. 107–204, title I, § 105](https://www.govinfo.gov/link/plaw/107/public/204), July 30, 2002, [116 Stat. 759](https://www.govinfo.gov/link/statute/116/759); [Pub. L. 110–289, div. A, title I, § 1161(h)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2781](https://www.govinfo.gov/link/statute/122/2781); [Pub. L. 111–203, title IX](https://www.govinfo.gov/link/plaw/111/public/203), §§ 929F(h), 981(b), (c), 982(f), (i), (j), July 21, 2010, [124 Stat. 1855](https://www.govinfo.gov/link/statute/124/1855), 1926, 1927, 1929–1931.)*

@@ -3,9 +3,10 @@ title: "Section 1141 - Reporting requirements"
 usc_title: 6
 usc_section: "1141"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1141"
-generated_at: "2026-03-30T02:53:09.505Z"
+generated_at: "2026-11-23T21:25:25.868Z"
+status: "active"
 ---
 
 # § 1141. Reporting requirements
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:09.505Z"
   - **(2)** The report submitted under paragraph (1) shall specify—
     - **(A)** the amount of grant funds distributed to each such public transportation agency; and
     - **(B)** the use of such grant funds.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XIV, § 1412](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 413](https://www.govinfo.gov/link/statute/121/413).)*

@@ -3,9 +3,10 @@ title: "Section 1393 - Applications; single State agency designation; essential 
 usc_title: 42
 usc_section: "1393"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1393"
-generated_at: "2026-03-30T02:56:10.933Z"
+generated_at: "2026-11-23T21:26:31.355Z"
+status: "active"
 ---
 
 # § 1393. Applications; single State agency designation; essential planning services; plans for expenditure; final activities report and other necessary reports; records; accounting
@@ -17,3 +18,7 @@ In order to be eligible for a grant under section 1392 of this title , a State m
   - **(3)** sets forth its plans for expenditure of such grant, which plans provide reasonable assurance of carrying out the purposes of this subchapter;
   - **(4)** provides for submission of a final report of the activities of the State agency in carrying out the purposes of this subchapter, and for submission of such other reports, in such form and containing such information, as the Secretary may from time to time find necessary for carrying out the purposes of this subchapter and for keeping such records and affording such access thereto as he may find necessary to assure the correctness and verification of such reports; and
   - **(5)** provides for such fiscal control and fund accounting procedures as may be necessary to assure proper disbursement of and accounting for funds paid to the State under this subchapter.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVII, § 1703, as added [Pub. L. 88–156, § 5](https://www.govinfo.gov/link/plaw/88/public/156), Oct. 24, 1963, [77 Stat. 275](https://www.govinfo.gov/link/statute/77/275).)*

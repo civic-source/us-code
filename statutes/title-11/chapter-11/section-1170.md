@@ -3,9 +3,10 @@ title: "Section 1170 - Abandonment of railroad line"
 usc_title: 11
 usc_section: "1170"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1170"
-generated_at: "2026-03-30T02:53:53.885Z"
+generated_at: "2026-11-23T21:25:34.958Z"
+status: "active"
 ---
 
 # § 1170. Abandonment of railroad line
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:53.885Z"
 - **(e)**
   - **(1)** In authorizing any abandonment of a railroad line under this section, the court shall require the rail carrier to provide a fair arrangement at least as protective of the interests of employees as that established under section 11326(a) of title 49 .
   - **(2)** Nothing in this subsection shall be deemed to affect the priorities or timing of payment of employee protection which might have existed in the absence of this subsection.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2643](https://www.govinfo.gov/link/statute/92/2643); [Pub. L. 96–448, title II, § 227(a)](https://www.govinfo.gov/link/plaw/96/public/448), Oct. 14, 1980, [94 Stat. 1931](https://www.govinfo.gov/link/statute/94/1931); [Pub. L. 98–353, title III, § 521](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 388](https://www.govinfo.gov/link/statute/98/388); [Pub. L. 104–88, title III, § 302(2)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 943](https://www.govinfo.gov/link/statute/109/943); [Pub. L. 109–8, title XII, § 1217](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 195](https://www.govinfo.gov/link/statute/119/195).)*

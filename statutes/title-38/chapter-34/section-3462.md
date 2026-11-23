@@ -3,9 +3,10 @@ title: "Section 3462 - Time limitations for completing a program of education"
 usc_title: 38
 usc_section: "3462"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3462"
-generated_at: "2026-03-30T02:55:53.504Z"
+generated_at: "2026-11-23T21:26:16.741Z"
+status: "active"
 ---
 
 # § 3462. Time limitations for completing a program of education
@@ -19,3 +20,17 @@ generated_at: "2026-03-30T02:55:53.504Z"
 - **(c)** In the case of any eligible veteran who was discharged or released from active duty before June 1, 1966 , the 10-year delimiting period shall run from such date, if it is later than the date which otherwise would be applicable. In the case of any eligible veteran who was discharged or released from active duty before August 31, 1967 , and who pursues a course of farm cooperative training, apprenticeship or other training on the job, the 10-year delimiting period shall run from August 31, 1967 , if it is later than the date which would otherwise be applicable.
 - **(d)** In the case of any veteran (1) who served on or after January 31, 1955 , (2) who became eligible for educational assistance under the provisions of this chapter or chapter 36 of this title, and (3) who, subsequent to the veteran’s last discharge or release from active duty, was captured and held as a prisoner of war by a foreign government or power, there shall be excluded, in computing the veteran’s 10-year period of eligibility for educational assistance, any period during which the veteran was so detained and any period immediately following the veteran’s release from such detention during which the veteran was hospitalized at a military, civilian, or Department of Veterans Affairs medical facility.
 - **(e)** No educational assistance shall be afforded any eligible veteran under this chapter or chapter 36 of this title after December 31, 1989 .
+
+Delimiting Period for Completion
+
+Correction of Discharge
+
+Savings Clause
+
+Prisoners of War
+
+Termination of Assistance
+
+## Source Credit
+
+*(Added [Pub. L. 89–358, § 2](https://www.govinfo.gov/link/plaw/89/public/358), Mar. 3, 1966, [80 Stat. 14](https://www.govinfo.gov/link/statute/80/14), § 1662; amended [Pub. L. 90–77, title III, § 305](https://www.govinfo.gov/link/plaw/90/public/77), Aug. 31, 1967, [81 Stat. 188](https://www.govinfo.gov/link/statute/81/188); [Pub. L. 93–337, § 1](https://www.govinfo.gov/link/plaw/93/public/337), July 10, 1974, [88 Stat. 292](https://www.govinfo.gov/link/statute/88/292); [Pub. L. 94–502, title II, § 211(3)](https://www.govinfo.gov/link/plaw/94/public/502), title IV, § 403(b), Oct. 15, 1976, [90 Stat. 2388](https://www.govinfo.gov/link/statute/90/2388), 2393; [Pub. L. 95–202, title II, § 203(a)(1)](https://www.govinfo.gov/link/plaw/95/public/202), (b)(1), Nov. 23, 1977, [91 Stat. 1439](https://www.govinfo.gov/link/statute/91/1439); [Pub. L. 96–466, title III, § 301](https://www.govinfo.gov/link/plaw/96/public/466), Oct. 17, 1980, [94 Stat. 2191](https://www.govinfo.gov/link/statute/94/2191); [Pub. L. 97–35, title XX, § 2003(b)(1)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 782](https://www.govinfo.gov/link/statute/95/782); [Pub. L. 97–72, title II, § 201(a)](https://www.govinfo.gov/link/plaw/97/public/72), Nov. 3, 1981, [95 Stat. 1054](https://www.govinfo.gov/link/statute/95/1054); [Pub. L. 97–295, § 4(39)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1307](https://www.govinfo.gov/link/statute/96/1307); [Pub. L. 97–306, title II, § 206(a)](https://www.govinfo.gov/link/plaw/97/public/306), Oct. 14, 1982, [96 Stat. 1435](https://www.govinfo.gov/link/statute/96/1435); [Pub. L. 98–160, title VII, § 702(10)](https://www.govinfo.gov/link/plaw/98/public/160), Nov. 21, 1983, [97 Stat. 1009](https://www.govinfo.gov/link/statute/97/1009); [Pub. L. 101–237, title IV](https://www.govinfo.gov/link/plaw/101/public/237), §§ 420(a)(3), 423(b)(1), Dec. 18, 1989, [103 Stat. 2087](https://www.govinfo.gov/link/statute/103/2087), 2092; renumbered § 3462 and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 107–14, § 8(a)(5)](https://www.govinfo.gov/link/plaw/107/public/14), June 5, 2001, [115 Stat. 34](https://www.govinfo.gov/link/statute/115/34); [Pub. L. 108–183, title III, § 306(d)](https://www.govinfo.gov/link/plaw/108/public/183), Dec. 16, 2003, [117 Stat. 2661](https://www.govinfo.gov/link/statute/117/2661); [Pub. L. 109–233, title V, § 503(8)(A)](https://www.govinfo.gov/link/plaw/109/public/233), (C), June 15, 2006, [120 Stat. 416](https://www.govinfo.gov/link/statute/120/416).)*

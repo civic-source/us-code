@@ -3,12 +3,17 @@ title: "Section 286xx - Quota increase"
 usc_title: 22
 usc_section: "286xx"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 286xx"
-generated_at: "2026-03-30T02:55:05.320Z"
+generated_at: "2026-11-23T21:25:58.367Z"
+status: "active"
 ---
 
 # § 286xx. Quota increase
 
 - **(a)** The United States Governor of the Fund may consent to an increase in the quota of the United States in the Fund equivalent to 40,871,800,000 Special Drawing Rights.
 - **(b)** The authority provided by subsection (a) shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
+
+## Source Credit
+
+*(July 31, 1945, ch. 339, § 72, as added [Pub. L. 114–113, div. K, title IX, § 9002](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2830](https://www.govinfo.gov/link/statute/129/2830).)*

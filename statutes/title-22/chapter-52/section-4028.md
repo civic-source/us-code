@@ -3,9 +3,10 @@ title: "Section 4028 - Training for Foreign Service officers"
 usc_title: 22
 usc_section: "4028"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4028"
-generated_at: "2026-03-30T02:55:05.402Z"
+generated_at: "2026-11-23T21:25:58.612Z"
+status: "active"
 ---
 
 # § 4028. Training for Foreign Service officers
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:05.402Z"
     - **(A)** the conduct of diplomacy at international organizations and other multilateral institutions; and
     - **(B)** broad-based multilateral negotiations of international instruments.
   - **(2)** Members of the Service, including appropriate chiefs of mission and other officers who are assigned to United States missions representing the United States to international organizations and other multilateral institutions or who are assigned in other positions that have as their primary responsibility formulation of policy related to such organizations and institutions, or participation in negotiations of international instruments, shall receive specialized training in the areas described in paragraph (1) prior to the beginning of service for such assignment or, if receiving such training at that time is not practical, within the first year of beginning such assignment.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 708](https://www.govinfo.gov/link/plaw/96/public/465), as added and amended [Pub. L. 105–292, title I, § 104](https://www.govinfo.gov/link/plaw/105/public/292), title VI, § 602(b), Oct. 27, 1998, [112 Stat. 2795](https://www.govinfo.gov/link/statute/112/2795), 2812; [Pub. L. 107–132, § 2(b)](https://www.govinfo.gov/link/plaw/107/public/132), Jan. 16, 2002, [115 Stat. 2412](https://www.govinfo.gov/link/statute/115/2412); [Pub. L. 109–164, title I, § 104(d)](https://www.govinfo.gov/link/plaw/109/public/164), Jan. 10, 2006, [119 Stat. 3565](https://www.govinfo.gov/link/statute/119/3565); [Pub. L. 110–457, title IV, § 406](https://www.govinfo.gov/link/plaw/110/public/457), Dec. 23, 2008, [122 Stat. 5091](https://www.govinfo.gov/link/statute/122/5091); [Pub. L. 114–281, title I, § 103(a)](https://www.govinfo.gov/link/plaw/114/public/281), Dec. 16, 2016, [130 Stat. 1430](https://www.govinfo.gov/link/statute/130/1430); [Pub. L. 115–441, § 4](https://www.govinfo.gov/link/plaw/115/public/441), Jan. 14, 2019, [132 Stat. 5587](https://www.govinfo.gov/link/statute/132/5587); [Pub. L. 116–94, div. J, title VII, § 705](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3071](https://www.govinfo.gov/link/statute/133/3071); [Pub. L. 118–31, div. F, title LXVII, § 6702(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1015](https://www.govinfo.gov/link/statute/137/1015).)*

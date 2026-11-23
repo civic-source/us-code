@@ -3,9 +3,10 @@ title: "Section 2357c - Purposes and authority"
 usc_title: 50
 usc_section: "2357c"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2357c"
-generated_at: "2026-03-30T02:56:26.221Z"
+generated_at: "2026-11-23T21:26:38.965Z"
+status: "active"
 ---
 
 # § 2357c. Purposes and authority
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:26.221Z"
   - **(5)** encourage companies and nongovernmental organizations involved in nonproliferation efforts of the independent states of the former Soviet Union or other countries of concern to voluntarily report these efforts to it;
   - **(6)** direct the preparation of analyses on issues and problems relating to the coordination between the United States and other countries with respect to nonproliferation efforts, and particularly such efforts in the independent states of the former Soviet Union; and
   - **(7)** consider, and make recommendations to the President with respect to, proposals for such new legislation or regulations relating to United States nonproliferation efforts as may be necessary.
+
+## Source Credit
+
+*([Pub. L. 107–228, div. B, title XIII, § 1335](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1450](https://www.govinfo.gov/link/statute/116/1450).)*

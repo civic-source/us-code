@@ -3,9 +3,10 @@ title: "Section 866 - Trailing cables"
 usc_title: 30
 usc_section: "866"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 866"
-generated_at: "2026-03-30T02:55:29.390Z"
+generated_at: "2026-11-23T21:26:00.397Z"
+status: "active"
 ---
 
 # § 866. Trailing cables
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:29.390Z"
   - **(3)** vulcanized or otherwise treated with suitable materials to provide flame-resistant qualities and good bonding to the outer jacket.
 - **(f)** Trailing cables shall be clamped to machines in a manner to protect the cables from damage and to prevent strain on the electrical connections. Trailing cables shall be adequately protected to prevent damage by mobile equipment.
 - **(g)** Trailing cable and power cable connections to junction boxes shall not be made or broken under load.
+
+## Source Credit
+
+*([Pub. L. 91–173, title III, § 306](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 779](https://www.govinfo.gov/link/statute/83/779).)*

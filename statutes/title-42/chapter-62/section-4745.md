@@ -3,9 +3,10 @@ title: "Section 4745 - Government Service Fellowships"
 usc_title: 42
 usc_section: "4745"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4745"
-generated_at: "2026-03-30T02:56:11.208Z"
+generated_at: "2026-11-23T21:26:32.688Z"
+status: "active"
 ---
 
 # § 4745. Government Service Fellowships
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.208Z"
   - **(1)** select the individual recipients of the fellowships;
   - **(2)** during the period of the fellowship, continue the full salary of the recipient and normal employment benefits such as credit for seniority, leave accrual, retirement, and insurance; and
   - **(3)** make appropriate plans for the utilization and continuation in public service of employees completing fellowships and outline such plans in the application for the grant.
+
+## Source Credit
+
+*([Pub. L. 91–648, title III, § 305](https://www.govinfo.gov/link/plaw/91/public/648), Jan. 5, 1971, [84 Stat. 1919](https://www.govinfo.gov/link/statute/84/1919); 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783](https://www.govinfo.gov/link/statute/92/3783).)*

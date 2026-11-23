@@ -3,9 +3,10 @@ title: "Section 7905 - Equal access to public school facilities"
 usc_title: 20
 usc_section: "7905"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7905"
-generated_at: "2026-03-30T02:54:48.221Z"
+generated_at: "2026-11-23T21:25:47.621Z"
+status: "active"
 ---
 
 # § 7905. Equal access to public school facilities
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:48.221Z"
 - **(d)**
   - **(1)** In this section, the term “youth group” means any group or organization intended to serve young people under the age of 21.
   - **(2)** For the purpose of this section, an elementary school or secondary school has a limited public forum whenever the school involved grants an offering to, or opportunity for, one or more outside youth or community groups to meet on school premises or in school facilities before or after the hours during which attendance at the school is compulsory.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VIII, § 8525](https://www.govinfo.gov/link/plaw/89/public/10), formerly title IX, § 9525, as added [Pub. L. 107–110, title IX, § 901](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1981](https://www.govinfo.gov/link/statute/115/1981); renumbered title VIII, § 8525, [Pub. L. 114–95, title VIII, § 8001(a)(6)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2088](https://www.govinfo.gov/link/statute/129/2088), 2089.)*

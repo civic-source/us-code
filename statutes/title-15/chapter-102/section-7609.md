@@ -3,9 +3,10 @@ title: "Section 7609 - Study and report"
 usc_title: 15
 usc_section: "7609"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7609"
-generated_at: "2026-03-30T02:54:08.225Z"
+generated_at: "2026-11-23T21:25:40.065Z"
+status: "active"
 ---
 
 # § 7609. Study and report
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.225Z"
   - **(4)** The impact of the Federal Trade Commission eyeglasses rule (16 CFR 456 et seq.) on competition, the nature of the enforcement of the rule, and how such enforcement has impacted competition.
   - **(5)** Any other issue that has an impact on competition in the sale of prescription contact lenses.
 - **(b)** Not later than 12 months after the effective date of this chapter, the Chairman of the Federal Trade Commission shall submit to the Congress a report of the study required by subsection (a).
+
+## Source Credit
+
+*([Pub. L. 108–164, § 10](https://www.govinfo.gov/link/plaw/108/public/164), Dec. 6, 2003, [117 Stat. 2026](https://www.govinfo.gov/link/statute/117/2026).)*

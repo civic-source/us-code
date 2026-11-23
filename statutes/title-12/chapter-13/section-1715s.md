@@ -3,9 +3,10 @@ title: "Section 1715s - Treatment of mortgages covering tax credit projects"
 usc_title: 12
 usc_section: "1715s"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1715s"
-generated_at: "2026-03-30T02:53:53.416Z"
+generated_at: "2026-11-23T21:25:36.888Z"
+status: "active"
 ---
 
 # § 1715s. Treatment of mortgages covering tax credit projects
@@ -19,3 +20,21 @@ generated_at: "2026-03-30T02:53:53.416Z"
     - **(A)** the Secretary to appoint designated underwriters, who shall be responsible for reviewing such mortgage insurance applications and making determinations regarding the eligibility of such applications for such mortgage insurance in lieu of the processing functions regarding such applications that are otherwise performed by other employees of the Department of Housing and Urban Development;
     - **(B)** submission of applications for such mortgage insurance by mortgagees who have previously been expressly approved by the Secretary; and
     - **(C)** determinations regarding the eligibility of such applications for such mortgage insurance to be made by the chief underwriter pursuant to requirements prescribed by the Secretary, which shall include requiring submission of reports regarding applications of proposed mortgagees by third-party entities expressly approved by the chief underwriter.
+
+Administrative and Procedural Changes.—
+
+In general
+
+Projects
+
+Changes
+
+Consultation
+
+Recommendations
+
+Report
+
+## Source Credit
+
+*(June 27, 1934, ch. 847, title II, § 228, as added [Pub. L. 110–289, div. B, title VIII, § 2834(c)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2870](https://www.govinfo.gov/link/statute/122/2870).)*

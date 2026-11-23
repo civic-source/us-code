@@ -3,12 +3,17 @@ title: "Section 395 - Leases of allotted lands where allottee is in­capacitated
 usc_title: 25
 usc_section: "395"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 395"
-generated_at: "2026-03-30T02:54:52.806Z"
+generated_at: "2026-11-23T21:25:54.571Z"
+status: "active"
 ---
 
 # § 395. Leases of allotted lands where allottee is in­capacitated
 
 Whenever it shall be made to appear to the Secretary of the Interior that, by reason of age, disability, or inability, any allottee of Indian lands cannot personally, and with benefit to himself, occupy or improve his allotment or any part thereof, the same may be leased upon such terms, regulations, and conditions as shall be prescribed by the Secretary for a term not exceeding five years, for farming purposes only.
 
+
+## Source Credit
+
+*(May 31, 1900, ch. 598, [31 Stat. 229](https://www.govinfo.gov/link/statute/31/229).)*

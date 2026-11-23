@@ -3,9 +3,10 @@ title: "Section 9509 - Oil Spill Liability Trust Fund"
 usc_title: 26
 usc_section: "9509"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 9509"
-generated_at: "2026-03-30T02:55:27.892Z"
+generated_at: "2026-11-23T21:26:07.038Z"
+status: "active"
 ---
 
 # § 9509. Oil Spill Liability Trust Fund
@@ -47,3 +48,9 @@ generated_at: "2026-03-30T02:55:27.892Z"
   - **(2)** Nothing in the Oil Pollution Act of 1990 (or in any amendment made by such Act) shall authorize the payment by the United States Government of any amount with respect to any such claim out of any source other than the Oil Spill Liability Trust Fund.
   - **(3)** If at any time the Oil Spill Liability Trust Fund has insufficient funds (or is unable by reason of subsection (c)(2)) to pay all of the claims out of such Trust Fund at such time, such claims shall, to the extent permitted under paragraph (1) and such subsection, be paid in full in the order in which they were finally determined.
 - **(f)** Any reference in this section to the Oil Pollution Act of 1990 or any other Act referred to in a subparagraph of subsection (c)(1) shall be treated as a reference to such Act as in effect on the date of the enactment of this subsection.
+
+“If the Superfund Amendments and Reauthorization Act of 1986 [ Pub. L. 99–499 , see Short Title of 1986 Amendment note set out under section 9601 of Title 42 , The Public Health and Welfare] is enacted—
+
+## Source Credit
+
+*(Added [Pub. L. 99–509, title VIII, § 8033(a)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1959](https://www.govinfo.gov/link/statute/100/1959), § 9507; renumbered § 9509, [Pub. L. 99–509, title VIII, § 8033(c)(2)(B)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1962](https://www.govinfo.gov/link/statute/100/1962); amended [Pub. L. 100–647, title I, § 1018(u)(20)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3591](https://www.govinfo.gov/link/statute/102/3591); [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7505(d)(2), 7811(m)(3), Dec. 19, 1989, [103 Stat. 2364](https://www.govinfo.gov/link/statute/103/2364), 2412; [Pub. L. 101–380, title IX, § 9001](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 573](https://www.govinfo.gov/link/statute/104/573); [Pub. L. 117–263, div. K, title CXIII, § 11312](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4086](https://www.govinfo.gov/link/statute/136/4086).)*

@@ -3,9 +3,10 @@ title: "Section 13388 - Global Climate Change Response Fund"
 usc_title: 42
 usc_section: "13388"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13388"
-generated_at: "2026-03-30T02:56:11.444Z"
+generated_at: "2026-11-23T21:26:33.602Z"
+status: "active"
 ---
 
 # § 13388. Global Climate Change Response Fund
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.444Z"
 - **(b)** No deposits shall be made to the Global Climate Change Response Fund until the United States has ratified the United Nations Framework Convention on Climate Change.
 - **(c)** Moneys deposited into the Fund shall be used by the President, to the extent authorized and appropriated under section 2222 of title 22 , solely for contributions to a financial mechanism negotiated pursuant to the United Nations Framework Convention on Climate Change, including all protocols or agreements related thereto.
 - **(d)** There are authorized to be appropriated for deposit in the Fund to carry out the purposes of this section, $50,000,000 for fiscal year 1994 and such sums as may be necessary for fiscal years 1995 and 1996.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XVI, § 1609](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3007](https://www.govinfo.gov/link/statute/106/3007).)*

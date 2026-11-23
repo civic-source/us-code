@@ -3,9 +3,10 @@ title: "Section 1627a - Unlawful importation or exportation of certain vehicles;
 usc_title: 19
 usc_section: "1627a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1627a"
-generated_at: "2026-03-30T02:54:24.648Z"
+generated_at: "2026-11-23T21:25:42.736Z"
+status: "active"
 ---
 
 # § 1627a. Unlawful importation or exportation of certain vehicles; inspections
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:24.648Z"
   - **(3)** the term “used” refers to any self-propelled vehicle the equitable or legal title to which has been transferred by a manufacturer, distributor, or dealer to an ultimate purchaser; and
   - **(4)** the term “ultimate purchaser” means the first person, other than a dealer purchasing in his capacity as a dealer, who in good faith purchases a self-propelled vehicle for purposes other than resale.
 - **(d)** Customs officers may cooperate and exchange information concerning motor vehicles, off-highway mobile equipment, vessels, or aircraft, either before exportation or after exportation or importation, with such Federal, State, local, and foreign law enforcement or governmental authorities, and with such organizations engaged in theft prevention activities, as may be designated by the Secretary.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 627, as added [Pub. L. 98–573, title II, § 205](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 2974](https://www.govinfo.gov/link/statute/98/2974).)*

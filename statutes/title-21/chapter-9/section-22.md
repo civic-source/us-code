@@ -3,9 +3,10 @@ title: "Section 22 - Reauthorization; reporting requirements"
 usc_title: 21
 usc_section: "22"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 22"
-generated_at: "2026-03-30T02:54:54.271Z"
+generated_at: "2026-11-23T21:25:56.152Z"
+status: "active"
 ---
 
 # § 379j–22. Reauthorization; reporting requirements
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:54.271Z"
   - **(6)**
     - **(A)** Before presenting the recommendations developed under paragraphs (1) through (5) to Congress, the Secretary shall make publicly available, on the Internet Web site of the Food and Drug Administration, minutes of all negotiation meetings conducted under this subsection between the Food and Drug Administration and the regulated industry.
     - **(B)** The minutes described under subparagraph (A) shall summarize any substantive proposal made by any party to the negotiations as well as significant controversies or differences of opinion during the negotiations and their resolution.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 742, as added [Pub. L. 110–316, title II, § 203](https://www.govinfo.gov/link/plaw/110/public/316), Aug. 14, 2008, [122 Stat. 3522](https://www.govinfo.gov/link/statute/122/3522); amended [Pub. L. 113–14, title II, § 203](https://www.govinfo.gov/link/plaw/113/public/14), June 13, 2013, [127 Stat. 472](https://www.govinfo.gov/link/statute/127/472); [Pub. L. 115–234, title II, § 203](https://www.govinfo.gov/link/plaw/115/public/234), Aug. 14, 2018, [132 Stat. 2435](https://www.govinfo.gov/link/statute/132/2435); [Pub. L. 118–15, div. B, title III, § 2313](https://www.govinfo.gov/link/plaw/118/public/15), Sept. 30, 2023, [137 Stat. 93](https://www.govinfo.gov/link/statute/137/93).)*

@@ -3,9 +3,10 @@ title: "Section 8561 - Study on precipitation estimation"
 usc_title: 15
 usc_section: "8561"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8561"
-generated_at: "2026-03-30T02:54:08.232Z"
+generated_at: "2026-11-23T21:25:40.090Z"
+status: "active"
 ---
 
 # § 8561. Study on precipitation estimation
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:08.232Z"
   - **(9)** Recommendations for how data and services from the entire enterprise can be best leveraged by the Federal Government.
   - **(10)** A description of non-Federal precipitation data, its accessibility by the Federal Government, and ways for National Oceanic and Atmospheric Administration to improve or expand such datasets.
 - **(c)** There is authorized $1,500,000 to the National Oceanic and Atmospheric Administration to carry out this study.
+
+## Source Credit
+
+*([Pub. L. 115–25, title VI, § 601](https://www.govinfo.gov/link/plaw/115/public/25), as added [Pub. L. 117–229, div. D, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/229), Dec. 16, 2022, [136 Stat. 2313](https://www.govinfo.gov/link/statute/136/2313).)*

@@ -3,9 +3,10 @@ title: "Section 1725a - Direct hire authority"
 usc_title: 16
 usc_section: "1725a"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1725a"
-generated_at: "2026-03-30T02:54:22.982Z"
+generated_at: "2026-11-23T21:25:51.911Z"
+status: "active"
 ---
 
 # § 1725a. Direct hire authority
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:22.982Z"
     - **(B)** successfully fulfilled the requirements of the internship program; and
     - **(C)** subsequently earned an undergraduate or graduate degree from an accredited institution of higher education.
   - **(3)** The direct hire authority under this section may not be exercised with respect to a specific qualified candidate after the end of the two-year period beginning on the date on which the candidate completed the undergraduate or graduate degree, as the case may be.
+
+## Source Credit
+
+*([Pub. L. 112–74, div. E, title I, § 121(a)](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 1012](https://www.govinfo.gov/link/statute/125/1012); [Pub. L. 116–9, title IX, § 9003(d)(2)](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 834](https://www.govinfo.gov/link/statute/133/834).)*

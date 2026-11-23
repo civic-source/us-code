@@ -3,9 +3,10 @@ title: "Section 30102 - Organization of political committees"
 usc_title: 52
 usc_section: "30102"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 30102"
-generated_at: "2026-03-30T02:56:30.169Z"
+generated_at: "2026-11-23T21:26:42.341Z"
+status: "active"
 ---
 
 # § 30102. Organization of political committees
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:56:30.169Z"
   - **(1)** Each political committee shall designate one or more State banks, federally chartered depository institutions, or depository institutions the deposits or accounts of which are insured by the Federal Deposit Insurance Corporation, the Federal Savings and Loan Insurance Corporation, or the National Credit Union Administration, as its campaign depository or depositories. Each political committee shall maintain at least one checking account and such other accounts as the committee determines at a depository designated by such committee. All receipts received by such committee shall be deposited in such accounts. No disbursements may be made (other than petty cash disbursements under paragraph (2)) by such committee except by check drawn on such accounts in accordance with this section.
   - **(2)** A political committee may maintain a petty cash fund for disbursements not in excess of $100 to any person in connection with a single purchase or transaction. A record of all petty cash disbursements shall be maintained in accordance with subsection (c)(5).
 - **(i)** When the treasurer of a political committee shows that best efforts have been used to obtain, maintain, and submit the information required by this Act for the political committee, any report or any records of such committee shall be considered in compliance with this Act or chapter 95 or chapter 96 of title 26.
+
+## Source Credit
+
+*([Pub. L. 92–225, title III, § 302](https://www.govinfo.gov/link/plaw/92/public/225), Feb. 7, 1972, [86 Stat. 12](https://www.govinfo.gov/link/statute/86/12); [Pub. L. 93–443, title II](https://www.govinfo.gov/link/plaw/93/public/443), §§ 202, 208(c)(2), Oct. 15, 1974, [88 Stat. 1275](https://www.govinfo.gov/link/statute/88/1275), 1286; [Pub. L. 94–283, title I, § 103](https://www.govinfo.gov/link/plaw/94/public/283), May 11, 1976, [90 Stat. 480](https://www.govinfo.gov/link/statute/90/480); [Pub. L. 96–187, title I, § 102](https://www.govinfo.gov/link/plaw/96/public/187), Jan. 8, 1980, [93 Stat. 1345](https://www.govinfo.gov/link/statute/93/1345); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 104–79](https://www.govinfo.gov/link/plaw/104/public/79), §§ 1(b), 3(a), Dec. 28, 1995, [109 Stat. 791](https://www.govinfo.gov/link/statute/109/791), 792; [Pub. L. 105–61, title VI, § 637](https://www.govinfo.gov/link/plaw/105/public/61), Oct. 10, 1997, [111 Stat. 1316](https://www.govinfo.gov/link/statute/111/1316); [Pub. L. 108–447, div. H, title V, § 525](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3271](https://www.govinfo.gov/link/statute/118/3271); [Pub. L. 115–244, div. B, title I, § 102](https://www.govinfo.gov/link/plaw/115/public/244), Sept. 21, 2018, [132 Stat. 2926](https://www.govinfo.gov/link/statute/132/2926).)*

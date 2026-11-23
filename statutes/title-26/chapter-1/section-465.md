@@ -3,9 +3,10 @@ title: "Section 465 - Deductions limited to amount at risk"
 usc_title: 26
 usc_section: "465"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 465"
-generated_at: "2026-03-30T02:55:27.705Z"
+generated_at: "2026-11-23T21:26:06.286Z"
+status: "active"
 ---
 
 # § 465. Deductions limited to amount at risk
@@ -149,3 +150,37 @@ generated_at: "2026-03-30T02:55:27.705Z"
   - **(2)** The excess referred to in paragraph (1) shall not exceed—
     - **(A)** the aggregate amount of the reductions required by subsection (b)(5) with respect to the activity by reason of losses for all prior taxable years beginning after December 31, 1978 , reduced by
     - **(B)** the amounts previously included in gross income with respect to such activity under this subsection.
+
+In general
+
+Special rule for losses of s corporation, partnership, or pass-thru entity
+
+Special rule for athletic stadium
+
+In general
+
+Special transitional rules for movies and video tapes.—
+
+In general
+
+Exception for certain agreements where principal photography begin before 1976
+
+Special transitional rules for leasing activities.—
+
+Rule for leases other than operating leases
+
+Holding of interests for purposes of subparagraph (a)
+
+Special rule for operating leases
+
+Recapture provisions
+
+Special transitional rules for leasing activities.—
+
+Rule for leases
+
+Holding of interests for purposes of subparagraph (a)
+
+## Source Credit
+
+*(Added [Pub. L. 94–455, title II, § 204(a)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1531](https://www.govinfo.gov/link/statute/90/1531); amended [Pub. L. 95–600, title II](https://www.govinfo.gov/link/plaw/95/public/600), §§ 201(a), (c)(1), 202, 203, title VII, § 701(k)(2), Nov. 6, 1978, [92 Stat. 2814](https://www.govinfo.gov/link/statute/92/2814), 2816, 2906; [Pub. L. 95–618, title IV, § 402(d)](https://www.govinfo.gov/link/plaw/95/public/618), Nov. 9, 1978, [92 Stat. 3202](https://www.govinfo.gov/link/statute/92/3202); [Pub. L. 96–222, title I, § 102(a)(1)(A)](https://www.govinfo.gov/link/plaw/96/public/222) –(D), Apr. 1, 1980, [94 Stat. 206](https://www.govinfo.gov/link/statute/94/206); [Pub. L. 97–354, § 5(a)(31)](https://www.govinfo.gov/link/plaw/97/public/354), Oct. 19, 1982, [96 Stat. 1695](https://www.govinfo.gov/link/statute/96/1695); [Pub. L. 98–369, div. A, title IV, § 432(a)](https://www.govinfo.gov/link/plaw/98/public/369) –(c), title VII, § 721(x)(2), July 18, 1984, [98 Stat. 811–814](https://www.govinfo.gov/link/statute/98/811), 971; [Pub. L. 99–514, title II, § 201(d)(7)(A)](https://www.govinfo.gov/link/plaw/99/public/514), title V, § 503(a), (b), title X, § 1011(b)(1), Oct. 22, 1986, [100 Stat. 2141](https://www.govinfo.gov/link/statute/100/2141), 2243, 2389; [Pub. L. 101–508, title XI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 11813(b)(15), 11815(b)(3), Nov. 5, 1990, [104 Stat. 1388–555](https://www.govinfo.gov/link/statute/104/1388), 1388–558; [Pub. L. 108–357, title IV, § 413(c)(7)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1507](https://www.govinfo.gov/link/statute/118/1507); [Pub. L. 113–295, div. A, title II, § 221(a)(59)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4047](https://www.govinfo.gov/link/statute/128/4047); [Pub. L. 115–97, title I, § 13512(b)(2)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2143](https://www.govinfo.gov/link/statute/131/2143).)*

@@ -3,9 +3,10 @@ title: "Section 3159 - Land-grant designation"
 usc_title: 7
 usc_section: "3159"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3159"
-generated_at: "2026-03-30T02:53:42.397Z"
+generated_at: "2026-11-23T21:25:28.320Z"
+status: "active"
 ---
 
 # § 3159. Land-grant designation
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:42.397Z"
   - **(3)** Sections 3221, 3222, and 3222b of this title.
   - **(4)** Public Law 87–788 (commonly known as the McIntire-Stennis Cooperative Forestry Act; 16 U.S.C. 582a et seq.).
 - **(d)** Nothing in this section shall be construed as limiting eligibility for a capacity and infrastructure program specified in section 6971(f)(1)(C) of this title that is not a covered program.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1419D](https://www.govinfo.gov/link/plaw/95/public/113), as added [Pub. L. 115–334, title VII, § 7111](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4784](https://www.govinfo.gov/link/statute/132/4784).)*

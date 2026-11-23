@@ -3,9 +3,10 @@ title: "Section 4302 - Definitions"
 usc_title: 7
 usc_section: "4302"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 4302"
-generated_at: "2026-03-30T02:53:42.406Z"
+generated_at: "2026-11-23T21:25:28.344Z"
+status: "active"
 ---
 
 # § 4302. Definitions
@@ -29,3 +30,7 @@ As used in this chapter—
   - **(15)** The term “importer” means any person who imports cut flowers, potted flowering plants, or foliage plants from outside of the United States or who acts as an agent, broker, or consignee of any person or nation that produces flowers and plants outside of the United States for sale in the United States.
   - **(16)** The term “commodity group” means that portion of the flower and plant industry devoted to the production and importation of any one of the following: (A) cut flowers; (B) potted flowering plants; or (C) foliage plants.
   - **(17)** The term “cost of plant material” means the actual price paid by a producer for any propagational material or any other flowers and plants used in the production of flowers and plants. This term does not include the cost of seeds.
+
+## Source Credit
+
+*([Pub. L. 97–98, title XVII, § 1703](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1349](https://www.govinfo.gov/link/statute/95/1349).)*

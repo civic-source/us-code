@@ -3,9 +3,10 @@ title: "Section 154 - Federal Communications Commission"
 usc_title: 47
 usc_section: "154"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 154"
-generated_at: "2026-03-30T02:56:24.493Z"
+generated_at: "2026-11-23T21:26:35.931Z"
+status: "active"
 ---
 
 # § 154. Federal Communications Commission
@@ -90,3 +91,35 @@ generated_at: "2026-03-30T02:56:24.493Z"
 - **(l)** The Commission shall provide for the publication of its reports and decisions in such form and manner as may be best adapted for public information and use, and such authorized publications shall be competent evidence of the reports and decisions of the Commission therein contained in all courts of the United States and of the several States without any further proof or authentication thereof.
 - **(m)** Rates of compensation of persons appointed under this section shall be subject to the reduction applicable to officers and employees of the Federal Government generally.
 - **(n)** For the purpose of obtaining maximum effectiveness from the use of radio and wire communications in connection with safety of life and property, the Commission shall investigate and study all phases of the problem and the best methods of obtaining the cooperation and coordination of these systems.
+
+“The amendment made by subsection (a) of this section [amending this section] shall take effect on the date of enactment of this Act [ June 6, 1986 , except that—
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title I, § 4, [48 Stat. 1066](https://www.govinfo.gov/link/statute/48/1066); Jan. 22, 1936, ch. 25, [49 Stat. 1098](https://www.govinfo.gov/link/statute/49/1098); May 20, 1937, ch. 229, §§ 3, 4, [50 Stat. 190](https://www.govinfo.gov/link/statute/50/190); Mar. 23, 1941, ch. 24, [55 Stat. 46](https://www.govinfo.gov/link/statute/55/46); July 16, 1952, ch. 879, § 3, [66 Stat. 711](https://www.govinfo.gov/link/statute/66/711); Aug. 13, 1954, ch. 735, § 2, [68 Stat. 729](https://www.govinfo.gov/link/statute/68/729); [Pub. L. 86–533, § 1(24)](https://www.govinfo.gov/link/plaw/86/public/533), June 29, 1960, [74 Stat. 249](https://www.govinfo.gov/link/statute/74/249); [Pub. L. 86–619, § 2](https://www.govinfo.gov/link/plaw/86/public/619), July 12, 1960, [74 Stat. 407](https://www.govinfo.gov/link/statute/74/407); [Pub. L. 86–752, § 2](https://www.govinfo.gov/link/plaw/86/public/752), Sept. 13, 1960, [74 Stat. 889](https://www.govinfo.gov/link/statute/74/889); [Pub. L. 97–35, title XII, § 1251(b)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 738](https://www.govinfo.gov/link/statute/95/738); [Pub. L. 97–253, title V, § 501(b)(1)](https://www.govinfo.gov/link/plaw/97/public/253) –(3), Sept. 8, 1982, [96 Stat. 805](https://www.govinfo.gov/link/statute/96/805), 806; [Pub. L. 97–259, title I](https://www.govinfo.gov/link/plaw/97/public/259), §§ 102–104, Sept. 13, 1982, [96 Stat. 1087–1089](https://www.govinfo.gov/link/statute/96/1087); [Pub. L. 98–214](https://www.govinfo.gov/link/plaw/98/public/214), §§ 10, 11, Dec. 8, 1983, [97 Stat. 1471](https://www.govinfo.gov/link/statute/97/1471); [Pub. L. 99–272, title V, § 5002(b)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 118](https://www.govinfo.gov/link/statute/100/118); [Pub. L. 99–334, § 1(a)](https://www.govinfo.gov/link/plaw/99/public/334), June 6, 1986, [100 Stat. 513](https://www.govinfo.gov/link/statute/100/513); [Pub. L. 100–594, § 3](https://www.govinfo.gov/link/plaw/100/public/594), Nov. 3, 1988, [102 Stat. 3021](https://www.govinfo.gov/link/statute/102/3021); [Pub. L. 101–396](https://www.govinfo.gov/link/plaw/101/public/396), §§ 3, 4, Sept. 28, 1990, [104 Stat. 848](https://www.govinfo.gov/link/statute/104/848), 849; [Pub. L. 102–538, title II](https://www.govinfo.gov/link/plaw/102/public/538), §§ 201, 208, Oct. 27, 1992, [106 Stat. 3542](https://www.govinfo.gov/link/statute/106/3542), 3543; [Pub. L. 103–414, title III, § 303(a)(1)](https://www.govinfo.gov/link/plaw/103/public/414), Oct. 25, 1994, [108 Stat. 4294](https://www.govinfo.gov/link/statute/108/4294); [Pub. L. 104–66, title II, § 2051(b)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 729](https://www.govinfo.gov/link/statute/109/729); [Pub. L. 104–104, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/104/public/104), (b), Feb. 8, 1996, [110 Stat. 130](https://www.govinfo.gov/link/statute/110/130); [Pub. L. 115–141, div. P, title IV, § 402(h)(1)](https://www.govinfo.gov/link/plaw/115/public/141), (i)(1), title V, § 509, Mar. 23, 2018, [132 Stat. 1089](https://www.govinfo.gov/link/statute/132/1089), 1096.)*

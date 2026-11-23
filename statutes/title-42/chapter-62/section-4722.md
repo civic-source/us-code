@@ -3,9 +3,10 @@ title: "Section 4722 - State government and statewide programs and grants"
 usc_title: 42
 usc_section: "4722"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4722"
-generated_at: "2026-03-30T02:56:11.207Z"
+generated_at: "2026-11-23T21:26:32.685Z"
+status: "active"
 ---
 
 # § 4722. State government and statewide programs and grants
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.207Z"
     - **(G)** training programs related directly to upgrading within the agency for nonprofessional employees who show promise of developing a capacity for assuming professional responsibility;
     - **(H)** achieving the most effective use of scarce professional, administrative, and technical manpower; and
     - **(I)** increasing intergovernmental cooperation in personnel administration, with respect to such matters as recruiting, examining, pay studies, training, education, personnel interchange, manpower utilization, and fringe benefits.
+
+## Source Credit
+
+*([Pub. L. 91–648, title II, § 202](https://www.govinfo.gov/link/plaw/91/public/648), Jan. 5, 1971, [84 Stat. 1911](https://www.govinfo.gov/link/statute/84/1911); 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783](https://www.govinfo.gov/link/statute/92/3783).)*

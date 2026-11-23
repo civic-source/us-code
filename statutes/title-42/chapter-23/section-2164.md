@@ -3,9 +3,10 @@ title: "Section 2164 - International cooperation"
 usc_title: 42
 usc_section: "2164"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2164"
-generated_at: "2026-03-30T02:56:11.153Z"
+generated_at: "2026-11-23T21:26:32.359Z"
+status: "active"
 ---
 
 # § 2164. International cooperation
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:11.153Z"
     - **(B)** will not constitute an unreasonable risk to such common defense and security interests.
   - **(3)** Cooperation under this subsection shall be undertaken pursuant to an agreement for cooperation entered into in accordance with section 2153 of this title .
 - **(e)** The President may authorize any agency of the United States to communicate in accordance with the terms and conditions of an agreement for cooperation arranged pursuant to subsection (a), (b), (c), or (d), such Restricted Data as is determined to be transmissible under the agreement for cooperation involved.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 144, as added Aug. 30, 1954, ch. 1073, § 1, [68 Stat. 942](https://www.govinfo.gov/link/statute/68/942); amended [Pub. L. 85–479](https://www.govinfo.gov/link/plaw/85/public/479), §§ 5–7, July 2, 1958, [72 Stat. 278](https://www.govinfo.gov/link/statute/72/278); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944); [Pub. L. 103–337, div. C, title XXXI, § 3155(a)](https://www.govinfo.gov/link/plaw/103/public/337), (c)(4), Oct. 5, 1994, [108 Stat. 3091](https://www.govinfo.gov/link/statute/108/3091), 3092.)*

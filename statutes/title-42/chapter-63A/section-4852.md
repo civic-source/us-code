@@ -3,9 +3,10 @@ title: "Section 4852 - Grants for lead-based paint hazard reduction in target ho
 usc_title: 42
 usc_section: "4852"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4852"
-generated_at: "2026-03-30T02:56:11.209Z"
+generated_at: "2026-11-23T21:26:32.694Z"
+status: "active"
 ---
 
 # § 4852. Grants for lead-based paint hazard reduction in target housing
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:56:11.209Z"
     - **(A)** grants awarded under this section; and
     - **(B)** grants awarded to States and units of general local government for the abatement of significant lead-based paint and lead dust hazards in low- and moderate-income owner-occupied units and low-income privately owned rental units pursuant to title II of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1992 ( Public Law 102–139 , 105 Stat. 736 ).
 - **(p)** For the purposes of carrying out this chapter, there are authorized to be appropriated $125,000,000 for fiscal year 1993 and $250,000,000 for fiscal year 1994.
+
+## Source Credit
+
+*([Pub. L. 102–550, title X, § 1011](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3901](https://www.govinfo.gov/link/statute/106/3901); [Pub. L. 103–233, title III, § 305(a)](https://www.govinfo.gov/link/plaw/103/public/233), Apr. 11, 1994, [108 Stat. 370](https://www.govinfo.gov/link/statute/108/370); [Pub. L. 104–134, title I, § 101(e) [title II, § 217]](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–257](https://www.govinfo.gov/link/statute/110/1321), 1321–290; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327).)*

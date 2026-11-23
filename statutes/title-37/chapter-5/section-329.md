@@ -3,9 +3,10 @@ title: "Section 329 - Incentive bonus: retired members and reserve component mem
 usc_title: 37
 usc_section: "329"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 329"
-generated_at: "2026-03-30T02:55:44.053Z"
+generated_at: "2026-11-23T21:26:14.211Z"
+status: "active"
 ---
 
 # § 329. Incentive bonus: retired members and reserve component members volunteering for high-demand, low-density assignments
@@ -26,3 +27,27 @@ generated_at: "2026-03-30T02:55:44.053Z"
 - **(h)** In this section, the term “high-demand, low-density military capability” means a combat, combat support or service support capability, unit, system, or occupational specialty that the Secretary of Defense determines has funding, equipment, or personnel levels that are substantially below the levels required to fully meet or sustain actual or expected operational requirements set by regional commanders.
 - **(i)** The Secretary of Defense may prescribe such regulations as the Secretary considers necessary to carry out this section.
 - **(j)** No agreement under subsection (a) or (d) may be entered into after December 31, 2010 .
+
+Incentive Bonus Authorized
+
+Maximum Amount of Bonus
+
+Methods of Payment
+
+Development of Additional Incentives
+
+Relationship to Other Pay and Allowances
+
+Prohibition on Promotions
+
+Repayment
+
+High-Demand, Low-Density Military Capability
+
+Regulations
+
+Termination of Authority
+
+## Source Credit
+
+*(Added [Pub. L. 109–364, div. A, title VI, § 621(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2253](https://www.govinfo.gov/link/statute/120/2253).)*

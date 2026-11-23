@@ -3,9 +3,10 @@ title: "Section 8401 - Definitions"
 usc_title: 22
 usc_section: "8401"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8401"
-generated_at: "2026-03-30T02:55:05.450Z"
+generated_at: "2026-11-23T21:25:58.737Z"
+status: "active"
 ---
 
 # § 8401. Definitions
@@ -29,3 +30,7 @@ In this chapter:
     - **(B)** does not include—
       - **(i)** assistance authorized to be appropriated or otherwise made available under any provision of law that is funded from accounts within budget function 050 (National Defense); and
       - **(ii)** amounts appropriated or otherwise available to the Pakistan Counterinsurgency Capability Fund established under the Supplemental Appropriations Act, 2009 ( Public Law 111–32 ).
+
+## Source Credit
+
+*([Pub. L. 111–73, § 2](https://www.govinfo.gov/link/plaw/111/public/73), Oct. 15, 2009, [123 Stat. 2060](https://www.govinfo.gov/link/statute/123/2060).)*

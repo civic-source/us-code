@@ -3,9 +3,10 @@ title: "Section 9304 - Pilotage pools"
 usc_title: 46
 usc_section: "9304"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 9304"
-generated_at: "2026-03-30T02:56:15.552Z"
+generated_at: "2026-11-23T21:26:37.104Z"
+status: "active"
 ---
 
 # § 9304. Pilotage pools
@@ -17,3 +18,16 @@ generated_at: "2026-03-30T02:56:15.552Z"
   - **(3)** prescribe a uniform system of accounts;
   - **(4)** perform audits and inspections; and
   - **(5)** require coordination on a reciprocal basis with similar pool arrangements authorized by the appropriate agency of Canada.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 9304 | 46:216b(e) |
+
+
+Historical and Revision Notes
+
+9304
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 559](https://www.govinfo.gov/link/statute/97/559).)*

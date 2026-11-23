@@ -3,9 +3,10 @@ title: "Section 3124a - Federal-State partnership and coordination"
 usc_title: 7
 usc_section: "3124a"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3124a"
-generated_at: "2026-03-30T02:53:42.394Z"
+generated_at: "2026-11-23T21:25:28.313Z"
+status: "active"
 ---
 
 # § 3124a. Federal-State partnership and coordination
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:53:42.394Z"
       - **(ii)** one or more individuals who are employed by, or are officials of—
         - **(I)** a State cooperative institution or State cooperative agency; or
         - **(II)** a public college or university or other postsecondary institution.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1409A](https://www.govinfo.gov/link/plaw/95/public/113), as added [Pub. L. 97–98, title XIV, § 1410(a)](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1301](https://www.govinfo.gov/link/statute/95/1301); amended [Pub. L. 99–198, title XIV, § 1407](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1545](https://www.govinfo.gov/link/statute/99/1545); [Pub. L. 101–624, title XVI, § 1601(f)(1)(B)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3704](https://www.govinfo.gov/link/statute/104/3704); [Pub. L. 104–127, title VIII, § 803](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1159](https://www.govinfo.gov/link/statute/110/1159); [Pub. L. 117–286, § 4(a)(33)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4308](https://www.govinfo.gov/link/statute/136/4308).)*

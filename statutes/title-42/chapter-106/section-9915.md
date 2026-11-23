@@ -3,9 +3,10 @@ title: "Section 9915 - Corrective action; termination and reduction of funding"
 usc_title: 42
 usc_section: "9915"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9915"
-generated_at: "2026-03-30T02:56:11.377Z"
+generated_at: "2026-11-23T21:26:33.327Z"
+status: "active"
 ---
 
 # § 9915. Corrective action; termination and reduction of funding
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.377Z"
   - **(5)** after providing adequate notice and an opportunity for a hearing, initiate proceedings to terminate the designation of or reduce the funding under this chapter of the eligible entity unless the entity corrects the deficiency.
 - **(b)** A determination to terminate the designation or reduce the funding of an eligible entity is reviewable by the Secretary. The Secretary shall, upon request, review such a determination. The review shall be completed not later than 90 days after the Secretary receives from the State all necessary documentation relating to the determination to terminate the designation or reduce the funding. If the review is not completed within 90 days, the determination of the State shall become final at the end of the 90th day.
 - **(c)** Whenever a State violates the assurances contained in section 9908(b)(8) of this title and terminates or reduces the funding of an eligible entity prior to the completion of the State hearing described in that section and the Secretary’s review as required in subsection (b), the Secretary is authorized to provide financial assistance under this chapter to the eligible entity affected until the violation is corrected. In such a case, the grant or allotment for the State under section 9905 or 9906 of this title for the earliest appropriate fiscal year shall be reduced by an amount equal to the funds provided under this subsection to such eligible entity.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 678C](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 105–285, title II, § 201](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2743](https://www.govinfo.gov/link/statute/112/2743).)*

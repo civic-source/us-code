@@ -3,9 +3,10 @@ title: "Section 459 - Office of International Affairs"
 usc_title: 6
 usc_section: "459"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 459"
-generated_at: "2026-03-30T02:53:09.464Z"
+generated_at: "2026-11-23T21:25:25.795Z"
+status: "active"
 ---
 
 # § 459. Office of International Affairs
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:09.464Z"
   - **(2)** To identify areas for homeland security information and training exchange where the United States has a demonstrated weakness and another friendly nation or nations have a demonstrated expertise.
   - **(3)** To plan and undertake international conferences, exchange programs, and training activities.
   - **(4)** To manage international activities within the Department in coordination with other Federal officials with responsibility for counter-terrorism matters.
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 879](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2245](https://www.govinfo.gov/link/statute/116/2245).)*

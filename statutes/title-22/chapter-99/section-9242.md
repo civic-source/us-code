@@ -3,9 +3,10 @@ title: "Section 9242 - Report on North Korean prison camps"
 usc_title: 22
 usc_section: "9242"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9242"
-generated_at: "2026-03-30T02:55:05.464Z"
+generated_at: "2026-11-23T21:25:58.768Z"
+status: "active"
 ---
 
 # § 9242. Report on North Korean prison camps
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.464Z"
   - **(6)** the conditions under which prisoners are confined, with respect to the adequacy of food, shelter, medical care, working conditions, and reports of ill-treatment of prisoners; and
   - **(7)** imagery, to include satellite imagery of the camp, in a format that, if published, would not compromise the sources and methods used by the United States intelligence community to capture geospatial imagery.
 - **(b)** The report required under subsection (a) may be included in the first human rights report required to be submitted to Congress after February 18, 2016 , under sections 2151n(d) and 2304(b) of this title.
+
+## Source Credit
+
+*([Pub. L. 114–122, title III, § 303](https://www.govinfo.gov/link/plaw/114/public/122), Feb. 18, 2016, [130 Stat. 113](https://www.govinfo.gov/link/statute/130/113).)*

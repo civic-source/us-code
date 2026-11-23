@@ -3,9 +3,10 @@ title: "Section 948 - Contracts for medical care for retirees, dependents, and s
 usc_title: 14
 usc_section: "948"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 948"
-generated_at: "2026-03-30T02:53:51.492Z"
+generated_at: "2026-11-23T21:25:35.392Z"
+status: "active"
 ---
 
 # § 948. Contracts for medical care for retirees, dependents, and survivors: alternative delivery of health care
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:51.492Z"
   - **(2)** total health care services for selected covered beneficiaries; or
   - **(3)** total health care services for all covered beneficiaries who reside in a geographic area designated by the Secretary.
 - **(c)** The Secretary may prescribe a premium, deductible, copayment, or other change for health care provided under this section.
+
+## Source Credit
+
+*(Added [Pub. L. 101–595, title III, § 319(a)](https://www.govinfo.gov/link/plaw/101/public/595), Nov. 16, 1990, [104 Stat. 2989](https://www.govinfo.gov/link/statute/104/2989), § 668; renumbered § 948, [Pub. L. 115–282, title I, § 107(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4205](https://www.govinfo.gov/link/statute/132/4205).)*

@@ -3,9 +3,10 @@ title: "Section 283b - Establishment; notice in Federal Register; property right
 usc_title: 16
 usc_section: "283b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 283b"
-generated_at: "2026-03-30T02:54:22.748Z"
+generated_at: "2026-11-23T21:25:51.406Z"
+status: "active"
 ---
 
 # § 283b. Establishment; notice in Federal Register; property rights
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:22.748Z"
 - **(c)** Such rights and interests in minerals, including all minerals of whatever nature, in and underlying the lands within the boundaries of the park and which are acquired by the United States under the provisions of this subchapter are hereby withdrawn from leasing and are hereby excluded from the application of the present or future provisions of the Mineral Leasing Act for Acquired Lands [ 30 U.S.C. 351 et seq.] or other Act in lieu thereof having the same purpose, and the same are hereby also excluded from the provisions of all present and future laws affecting the sale of surplus property or of said mineral interests acquired pursuant to this subchapter by the United States or any department or agency thereof, except that, if such person having such preferential right to a reconveyance fails or refuses to exercise such preferential right to a reconveyance as provided in subsection (b) of this section then this subsection (c) shall not be applicable to the rights and interests in such minerals in the identical lands of such person so failing or refusing to exercise such preferential right to a reconveyance from and after the one hundred and eighty-day period referred to in subsection (b) of this section.
 - **(d)** If at any time in the future an Act of Congress provides that the national welfare or an emergency requires the development and production of the minerals underlying the lands within the boundaries of the national park, or any portion thereof, and such Act of Congress, notwithstanding the provisions of subsection (c) of this section or any other Act, authorizes the Secretary to lease said land for the purpose of drilling, mining, developing, and producing said minerals, the Secretary shall give the persons (including the State of Texas) who donated such minerals to the United States notice of their preferential right to lease, without consideration, all or any part of the respective rights and interests in minerals which they donated to the United States, subject to such terms and conditions as the Secretary may prescribe. Such preferential right shall inure to the benefit of the successors or assigns, and of the heirs or devisees of such persons having such preferential right in the premises. The persons entitled to a preferential right under this subsection shall be given the same notice thereof as persons entitled to preferential rights under subsection (b) of this section. If such person having such preferential right fails or refuses to exercise such right within the time specified in the above notice, the Secretary may thereafter lease the minerals involved to any other person under such terms and conditions as he may prescribe.
 - **(e)** If at any time oil, gas, or other minerals should be discovered and produced in commercial quantities from lands outside of the boundaries of the park, thereby causing drainage of oil, gas, or other minerals from lands within the boundaries of the park, and if the Secretary participates in a communitization agreement or takes other action to protect the rights of the United States, the proceeds, if any, derived from such agreement or action shall inure to the benefit of the donors of the oil, gas, or other minerals, or their successors, heirs, devisees, or assigns.
+
+## Source Credit
+
+*([Pub. L. 89–667, § 3](https://www.govinfo.gov/link/plaw/89/public/667), Oct. 15, 1966, [80 Stat. 920](https://www.govinfo.gov/link/statute/80/920).)*

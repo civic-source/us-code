@@ -3,12 +3,17 @@ title: "Section 373b - Restricted estate or homestead on the public domain"
 usc_title: 25
 usc_section: "373b"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 373b"
-generated_at: "2026-03-30T02:54:52.805Z"
+generated_at: "2026-11-23T21:25:54.567Z"
+status: "active"
 ---
 
 # § 373b. Restricted estate or homestead on the public domain
 
 If an Indian found to have died intestate without heirs was the holder of a restricted allotment or homestead or interest therein on the public domain, the land or interest therein and all accumulated rents, issues, and profits therefrom shall escheat to the United States, subject to all valid existing agricultural, surface, and mineral leases and the rights of any person thereunder, and the land shall become part of the public domain subject to the payment of such creditors’ claims as the Secretary of the Interior may find proper to be paid from the cash on hand or income accruing to said estate: Provided , That if the Secretary determines that the land involved lies within or adjacent to an Indian community and may be advantageously used for Indian purposes, the land or interest therein shall escheat to the United States to be held in trust for such needy Indians as the Secretary of the Interior may designate, where the value of the estate does not exceed $50,000, and in case of estates exceeding said sum, such estates shall be held in trust by the United States for such Indians as the Congress may on and after November 24, 1942 designate, subject to all valid existing agricultural, surface, and mineral leases and the rights of any person thereunder 1 1 So in original. Probably should be followed by a colon. Provided further , That interests in all Burns public domain allotments located in Harney County, Oregon, belonging to Indians who die intestate without heirs shall be held in trust by the United States for the Burns Paiute Indian Colony of Oregon and shall be part of the Burns Paiute Indian Reservation.
 
+
+## Source Credit
+
+*(Nov. 24, 1942, ch. 640, § 2, [56 Stat. 1022](https://www.govinfo.gov/link/statute/56/1022); [Pub. L. 98–25](https://www.govinfo.gov/link/plaw/98/public/25), §§ 2, 3, May 2, 1983, [97 Stat. 185](https://www.govinfo.gov/link/statute/97/185).)*

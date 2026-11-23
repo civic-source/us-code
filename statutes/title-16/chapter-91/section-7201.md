@@ -3,9 +3,10 @@ title: "Section 7201 - Definitions"
 usc_title: 16
 usc_section: "7201"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 7201"
-generated_at: "2026-03-30T02:54:23.074Z"
+generated_at: "2026-11-23T21:25:52.065Z"
+status: "active"
 ---
 
 # § 7201. Definitions
@@ -14,3 +15,7 @@ In this chapter:
 
   - **(1)** The term “Secretary” means the Secretary of the Interior.
   - **(2)** The term “system” means the National Landscape Conservation System established by section 7202(a) of this title .
+
+## Source Credit
+
+*([Pub. L. 111–11, title II, § 2001](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1094](https://www.govinfo.gov/link/statute/123/1094).)*

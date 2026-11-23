@@ -3,9 +3,10 @@ title: "Section 1451 - Amount of annuity"
 usc_title: 10
 usc_section: "1451"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1451"
-generated_at: "2026-03-30T02:53:38.122Z"
+generated_at: "2026-11-23T21:25:32.483Z"
+status: "active"
 ---
 
 # § 1451. Amount of annuity
@@ -96,3 +97,135 @@ generated_at: "2026-03-30T02:53:38.122Z"
   - **(2)** When the retired pay of a person who first became a member of a uniformed service on or after August 1, 1986 , and who is a participant in the Plan is recomputed under section 1410 of this title upon the person’s becoming 62 years of age, the base amount applicable to that person shall be recomputed (effective on the effective date of the recomputation of such retired pay under section 1410 of this title ) so as to be the amount equal to the amount of the base amount that would be in effect on that date if increases in such base amount under paragraph (1) had been computed as provided in paragraph (2) of section 1401a(b) of this title (rather than under paragraph (3) of that section).
   - **(3)** Computation of a member’s retired pay for purposes of this section shall be made without regard to any reduction under section 1409(b)(2) of this title .
 - **(i)** In the case of an annuity under the Plan which is computed on the basis of the retired pay of a person who would have been entitled to have that retired pay recomputed under section 1410 of this title upon attaining 62 years of age, but who dies before attaining that age, the annuity shall be recomputed, effective on the first day of the first month beginning after the date on which the member or former member would have attained 62 years of age, so as to be the amount equal to the amount of the annuity that would be in effect on that date if increases under subsection (h)(1) in the base amount applicable to that annuity to the time of the death of the member or former member, and increases in such annuity under subsection (g)(1), had been computed as provided in paragraph (2) of section 1401a(b) of this title (rather than under paragraph (3) of that section).
+
+Computation of Annuity for a Spouse, Former Spouse, or Child.—
+
+Standard annuity
+
+Beneficiary under 62 years of age
+
+Beneficiary 62 years of age or older.—
+
+General rule
+
+Rule if beneficiary eligible for social security offset computation
+
+Reserve-component annuity
+
+Beneficiary under 62 years of age
+
+Beneficiary 62 years of age or older.—
+
+General rule
+
+Rule if beneficiary eligible for social security offset computation
+
+Insurable Interest Beneficiary.—
+
+Standard annuity
+
+Reserve-component annuity
+
+Computation of reserve-component annuity when participant dies before age 60
+
+Annuities for Survivors of Certain Persons Dying During a Period of Special Eligibility for SBP.—
+
+In general
+
+Beneficiary under 62 years of age
+
+Beneficiary 62 years of age or older.—
+
+General rule
+
+Rule if beneficiary eligible for social security offset computation
+
+DIC offset
+
+Servicemembers not yet granted retired pay
+
+Rate of pay to be used in computing annuity
+
+Reduction of Annuities at Age
+
+Reduction required
+
+Amount of annuity as reduced.—
+
+Computation of annuity
+
+Savings provision for beneficiaries eligible for social security offset computation
+
+Savings Provision for Certain Beneficiaries.—
+
+Persons covered
+
+Amount of annuity
+
+Standard annuity
+
+Reserve-component annuity
+
+Beneficiaries of persons dying during a period of special eligibility for sbp
+
+Social security offset
+
+Social security computation
+
+Maximum amount of reduction
+
+Special rules for social security offset computation.—
+
+Treatment of deductions made on account of work
+
+Treatment of certain periods for which social security refunds are made
+
+Determination of Percentages Applicable to Computation of Reserve-Component Annuities
+
+Adjustments to Annuities.—
+
+Periodic adjustments for cost-of-living.—
+
+Increases in annuities when retired pay increased
+
+Percentage of increase
+
+Certain reductions to be disregarded
+
+Rounding down
+
+Adjustments to Base Amount.—
+
+Periodic adjustments for cost-of-living.—
+
+Increases in base amount when retired pay increased
+
+Percentage of increase
+
+Recomputation at age 62
+
+Disregarding of retired pay reductions for retirement of certain members before 30 years of service
+
+Recomputation of Annuity for Certain Beneficiaries
+
+of certain members
+
+retirement
+
+annuity
+
+annuity
+
+Adjustment of Annuities Already in Effect.—
+
+Recomputation
+
+Amount of recomputed annuities
+
+Persons Eligible for Recomputation
+
+Effective Date
+
+## Source Credit
+
+*(Added [Pub. L. 92–425, § 1(3)](https://www.govinfo.gov/link/plaw/92/public/425), Sept. 21, 1972, [86 Stat. 709](https://www.govinfo.gov/link/statute/86/709); amended [Pub. L. 94–496, § 1(4)](https://www.govinfo.gov/link/plaw/94/public/496), Oct. 14, 1976, [90 Stat. 2375](https://www.govinfo.gov/link/statute/90/2375); [Pub. L. 95–397, title II, § 204](https://www.govinfo.gov/link/plaw/95/public/397), Sept. 30, 1978, [92 Stat. 846](https://www.govinfo.gov/link/statute/92/846); [Pub. L. 96–402, § 3](https://www.govinfo.gov/link/plaw/96/public/402), Oct. 9, 1980, [94 Stat. 1705](https://www.govinfo.gov/link/statute/94/1705); [Pub. L. 97–22, § 11(a)(4)](https://www.govinfo.gov/link/plaw/97/public/22), July 10, 1981, [95 Stat. 137](https://www.govinfo.gov/link/statute/95/137); [Pub. L. 98–94, title IX, § 922(a)(14)(B)](https://www.govinfo.gov/link/plaw/98/public/94), Sept. 24, 1983, [97 Stat. 642](https://www.govinfo.gov/link/statute/97/642); [Pub. L. 98–525, title VI, § 641(a)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2545](https://www.govinfo.gov/link/statute/98/2545); [Pub. L. 99–145, title VII, § 711(a)](https://www.govinfo.gov/link/plaw/99/public/145), (b), Nov. 8, 1985, [99 Stat. 666](https://www.govinfo.gov/link/statute/99/666), 670; [Pub. L. 99–348, title III, § 301(a)(2)](https://www.govinfo.gov/link/plaw/99/public/348), (b), (c), July 1, 1986, [100 Stat. 702](https://www.govinfo.gov/link/statute/100/702); [Pub. L. 99–661, div. A, title VI, § 642(b)](https://www.govinfo.gov/link/plaw/99/public/661), title XIII, § 1343(a)(8)(D), Nov. 14, 1986, [100 Stat. 3886](https://www.govinfo.gov/link/statute/100/3886), 3992; [Pub. L. 100–26, § 7(h)(1)](https://www.govinfo.gov/link/plaw/100/public/26), Apr. 21, 1987, [101 Stat. 282](https://www.govinfo.gov/link/statute/101/282); [Pub. L. 100–224, § 3(a)](https://www.govinfo.gov/link/plaw/100/public/224), (c), Dec. 30, 1987, [101 Stat. 1537](https://www.govinfo.gov/link/statute/101/1537); [Pub. L. 100–456, div. A, title VI, § 652(a)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 1991](https://www.govinfo.gov/link/statute/102/1991); [Pub. L. 101–189, div. A, title XIV](https://www.govinfo.gov/link/plaw/101/public/189), §§ 1403(a), 1407(a)(5)–(8), (b)(1), Nov. 29, 1989, [103 Stat. 1579](https://www.govinfo.gov/link/statute/103/1579), 1588, 1589; [Pub. L. 103–337, div. A, title X, § 1070(e)(4)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2859](https://www.govinfo.gov/link/statute/108/2859); [Pub. L. 104–201, div. A, title VI, § 634](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2566](https://www.govinfo.gov/link/statute/110/2566); [Pub. L. 105–85, div. A, title X, § 1073(a)(28)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1901](https://www.govinfo.gov/link/statute/111/1901); [Pub. L. 106–65, div. A, title VI, § 643(a)(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 663](https://www.govinfo.gov/link/statute/113/663); [Pub. L. 107–107, div. A, title VI, § 642(b)](https://www.govinfo.gov/link/plaw/107/public/107), (c)(2), Dec. 28, 2001, [115 Stat. 1152](https://www.govinfo.gov/link/statute/115/1152); [Pub. L. 107–314, div. A, title X, § 1062(a)(6)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2650](https://www.govinfo.gov/link/statute/116/2650); [Pub. L. 108–375, div. A, title VI, § 644(a)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1960](https://www.govinfo.gov/link/statute/118/1960); [Pub. L. 114–328, div. A, title VI, § 642(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2164](https://www.govinfo.gov/link/statute/130/2164); [Pub. L. 115–91, div. A, title X, § 1081(a)(25)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1595](https://www.govinfo.gov/link/statute/131/1595); [Pub. L. 116–92, div. A, title VI, § 622(a)(2)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1427](https://www.govinfo.gov/link/statute/133/1427).)*

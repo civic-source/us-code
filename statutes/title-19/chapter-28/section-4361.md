@@ -3,9 +3,10 @@ title: "Section 4361 - Definitions"
 usc_title: 19
 usc_section: "4361"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4361"
-generated_at: "2026-03-30T02:54:24.707Z"
+generated_at: "2026-11-23T21:25:42.882Z"
+status: "active"
 ---
 
 # § 4361. Definitions
@@ -25,3 +26,7 @@ In this subchapter:
   - **(5)** The terms “evade” and “evasion” refer to entering covered merchandise into the customs territory of the United States by means of any document or electronically transmitted data or information, written or oral statement, or act that is material and false, or any omission that is material, and that results in any cash deposit or other security or any amount of applicable antidumping or countervailing duties being reduced or not being applied with respect to the merchandise.
   - **(6)** The term “Secretary” means the Secretary of the Treasury.
   - **(7)** The term “trade remedy laws” means title VII of the Tariff Act of 1930 ( 19 U.S.C. 1671 et seq.).
+
+## Source Credit
+
+*([Pub. L. 114–125, title IV, § 402](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 155](https://www.govinfo.gov/link/statute/130/155).)*

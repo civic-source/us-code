@@ -3,9 +3,10 @@ title: "Section 2303 - Ethics safeguards related to contractor conflicts of inte
 usc_title: 41
 usc_section: "2303"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 2303"
-generated_at: "2026-03-30T02:55:55.804Z"
+generated_at: "2026-11-23T21:26:18.798Z"
+status: "active"
 ---
 
 # § 2303. Ethics safeguards related to contractor conflicts of interest
@@ -33,3 +34,57 @@ generated_at: "2026-03-30T02:55:55.804Z"
     - **(A)** This subsection shall apply to any contract for an amount in excess of the simplified acquisition threshold (as defined in section 134 of this title ) if the contract is for the performance of relevant acquisition functions.
     - **(B)** If only a portion of a contract described in subparagraph (A) is for the performance of relevant acquisition functions, then this subsection applies only to that portion of the contract.
 - **(c)** The Administrator shall, in consultation with the Director of the Office of Government Ethics, develop and maintain a repository of best practices relating to the prevention and mitigation of organizational and personal conflicts of interest in Federal contracting.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 2303(a) | no source. |  |
+| 2303(b), (c) | 41:405c(a), (c). | Pub. L. 110–417 , [div. A], title VIII, § 841(a), (c), Oct. 14, 2008 , 122 Stat. 4537 , 4539. |
+
+
+Definition
+
+Policy on Personal Conflicts of Interest by Contractor Employees.—
+
+Development and issuance of policy
+
+Elements of policy
+
+Contract clause.—
+
+Contents
+
+Effective date
+
+Applicability.—
+
+Contracts in excess of the simplified acquisition threshold
+
+Partial applicability
+
+Best Practices
+
+Historical and Revision Notes
+
+2303(a)
+
+2303(b), (c)
+
+Pub. L. 110–417
+
+Oct. 14, 2008
+
+122 Stat. 4537
+
+In General
+
+Executive Agency Defined
+
+Review
+
+Regulatory revisions
+
+Report
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3735](https://www.govinfo.gov/link/statute/124/3735).)*

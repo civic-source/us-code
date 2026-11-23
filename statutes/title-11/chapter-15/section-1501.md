@@ -3,9 +3,10 @@ title: "Section 1501 - Purpose and scope of application"
 usc_title: 11
 usc_section: "1501"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1501"
-generated_at: "2026-03-30T02:53:53.887Z"
+generated_at: "2026-11-23T21:25:34.975Z"
+status: "active"
 ---
 
 # § 1501. Purpose and scope of application
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:53.887Z"
   - **(2)** an individual, or to an individual and such individual’s spouse, who have debts within the limits specified in section 109(e) and who are citizens of the United States or aliens lawfully admitted for permanent residence in the United States; or
   - **(3)** an entity subject to a proceeding under the Securities Investor Protection Act of 1970, a stockbroker subject to subchapter III of chapter 7 of this title, or a commodity broker subject to subchapter IV of chapter 7 of this title.
 - **(d)** The court may not grant relief under this chapter with respect to any deposit, escrow, trust fund, or other security required or permitted under any applicable State insurance law or regulation for the benefit of claim holders in the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 109–8, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 135](https://www.govinfo.gov/link/statute/119/135).)*

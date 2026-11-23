@@ -3,9 +3,10 @@ title: "Section 2503 - Composition of grants"
 usc_title: 25
 usc_section: "2503"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2503"
-generated_at: "2026-03-30T02:54:52.841Z"
+generated_at: "2026-11-23T21:25:54.671Z"
+status: "active"
 ---
 
 # § 2503. Composition of grants
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:54:52.841Z"
       - **(i)** be deemed to have approved such request; and
       - **(ii)** immediately upon the expiration of such 180-day period amend the grant accordingly.
     - **(B)** A tribe or organization described in subparagraph (A) may enforce its rights under subsection (a)(2) and this paragraph, including rights relating to any denial or failure to act on such tribe’s or organization’s request, pursuant to the dispute authority described in section 2508(e) 5 of this title.
+
+## Source Credit
+
+*([Pub. L. 100–297, title V, § 5204](https://www.govinfo.gov/link/plaw/100/public/297), as added [Pub. L. 107–110, title X, § 1043](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2066](https://www.govinfo.gov/link/statute/115/2066).)*

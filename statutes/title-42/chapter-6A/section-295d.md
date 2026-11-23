@@ -3,9 +3,10 @@ title: "Section 295d - Health administration traineeships and special projects"
 usc_title: 42
 usc_section: "295d"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 295d"
-generated_at: "2026-03-30T02:56:10.780Z"
+generated_at: "2026-11-23T21:26:30.650Z"
+status: "active"
 ---
 
 # § 295d. Health administration traineeships and special projects
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:10.780Z"
 - **(d)**
   - **(1)** Traineeships awarded under grants made under subsection (a) shall provide for tuition and fees and such stipends and allowances (including travel and subsistence expenses and dependency allowances) for the trainees as the Secretary may deem necessary.
   - **(2)** Each entity applying for a grant under subsection (a) for traineeships shall assure to the satisfaction of the Secretary that the entity will give priority to awarding the traineeships to students who demonstrate a commitment to employment with public or nonprofit private entities in the fields with respect to which the traineeships are awarded.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 769, as added [Pub. L. 105–392, title I, § 105](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3556](https://www.govinfo.gov/link/statute/112/3556).)*

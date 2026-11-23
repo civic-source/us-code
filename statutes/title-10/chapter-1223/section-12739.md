@@ -3,9 +3,10 @@ title: "Section 12739 - Computation of retired pay"
 usc_title: 10
 usc_section: "12739"
 chapter: 1223
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 12739"
-generated_at: "2026-03-30T02:53:38.272Z"
+generated_at: "2026-11-23T21:25:33.055Z"
+status: "active"
 ---
 
 # § 12739. Computation of retired pay
@@ -41,3 +42,27 @@ generated_at: "2026-03-30T02:53:38.272Z"
       - **(iii)** A person returning to reserve component service after a break in reserve component service in which falls the election period specified in clause (i) shall make the election described in subparagraph (A) within 30 days after the date of the reentry into service of the person.
     - **(C)** Thrift Savings Plan contributions may not be made for a person making an election pursuant to subparagraph (A) for any pay period beginning before the date of the person’s election under that subparagraph by reason of the person’s election.
   - **(3)** The Secretary concerned shall prescribe regulations to implement this subsection.
+
+Modernized Retirement System.—
+
+Reduced multiplier for full tsp members
+
+Election to participate in modernized retirement system.—
+
+In general
+
+Election period.—
+
+In general
+
+Hardship extension
+
+Persons experiencing break in service
+
+No retroactive contributions pursuant to election
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1662(j)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 3004](https://www.govinfo.gov/link/statute/108/3004); amended [Pub. L. 107–314, div. A, title VI, § 632(a)](https://www.govinfo.gov/link/plaw/107/public/314), (b), Dec. 2, 2002, [116 Stat. 2572](https://www.govinfo.gov/link/statute/116/2572); [Pub. L. 109–364, div. A, title VI, § 642(b)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2259](https://www.govinfo.gov/link/statute/120/2259); [Pub. L. 111–84, div. A, title VI, § 642(a)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2365](https://www.govinfo.gov/link/statute/123/2365); [Pub. L. 114–92, div. A, title VI, § 631(b)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 843](https://www.govinfo.gov/link/statute/129/843); [Pub. L. 115–91, div. A, title VI, § 623(a)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1428](https://www.govinfo.gov/link/statute/131/1428).)*

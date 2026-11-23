@@ -3,12 +3,17 @@ title: "Section 481 - Plates, stones, or analog, digital, or electronic images f
 usc_title: 18
 usc_section: "481"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 481"
-generated_at: "2026-03-30T02:54:16.463Z"
+generated_at: "2026-11-23T21:25:43.965Z"
+status: "active"
 ---
 
 # § 481. Plates, stones, or analog, digital, or electronic images for counterfeiting foreign obligations or securities
 
 Whoever, within the United States except by lawful authority, controls, holds, or possesses any plate, stone, or other thing, or any part thereof, from which has been printed or may be printed any counterfeit note, bond, obligation, or other security, in whole or in part, of any foreign government, bank, or corporation, or uses such plate, stone, or other thing, or knowingly permits or suffers the same to be used in counterfeiting such foreign obligations, or any part thereof; or Whoever, except by lawful authority, makes or engraves any plate, stone, or other thing in the likeness or similitude of any plate, stone, or other thing designated for the printing of the genuine issues of the obligations of any foreign government, bank, or corporation; or Whoever, with intent to defraud, makes, executes, acquires, scans, captures, records, receives, transmits, reproduces, sells, or has in such person’s control, custody, or possession, an analog, digital, or electronic image of any bond, certificate, obligation, or other security of any foreign government, or of any treasury note, bill, or promise to pay, lawfully issued by such foreign government and intended to circulate as money; or Whoever, except by lawful authority, prints, photographs, or makes, executes, or sells any engraving, photograph, print, or impression in the likeness of any genuine note, bond, obligation, or other security, or any part thereof, of any foreign government, bank, or corporation; or Whoever brings into the United States any counterfeit plate, stone, or other thing, engraving, photograph, print, or other impressions of the notes, bonds, obligations, or other securities of any foreign government, bank, or corporation— Shall be fined under this title or imprisoned not more than 25 years, or both.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 708](https://www.govinfo.gov/link/statute/62/708); [Pub. L. 103–322, title XXXIII, § 330016(1)(K)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2147](https://www.govinfo.gov/link/statute/108/2147); [Pub. L. 107–56, title III, § 375(d)(1)](https://www.govinfo.gov/link/plaw/107/public/56) –(3), Oct. 26, 2001, [115 Stat. 341](https://www.govinfo.gov/link/statute/115/341).)*

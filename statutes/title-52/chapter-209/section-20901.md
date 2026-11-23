@@ -3,9 +3,10 @@ title: "Section 20901 - Payments to States for activities to improve administrat
 usc_title: 52
 usc_section: "20901"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 20901"
-generated_at: "2026-03-30T02:56:30.165Z"
+generated_at: "2026-11-23T21:26:42.329Z"
+status: "active"
 ---
 
 # § 20901. Payments to States for activities to improve administration of elections
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:30.165Z"
   - **(4)** The term “voting age population proportion” means, with respect to a State, the amount equal to the quotient of—
     - **(A)** the voting age population of the State (as reported in the most recent decennial census); and
     - **(B)** the total voting age population of all States (as reported in the most recent decennial census).
+
+## Source Credit
+
+*([Pub. L. 107–252, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1668](https://www.govinfo.gov/link/statute/116/1668).)*

@@ -3,9 +3,10 @@ title: "Section 707a - Payment upon disapproval of certain board of inquiry reco
 usc_title: 10
 usc_section: "707a"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 707a"
-generated_at: "2026-03-30T02:53:38.074Z"
+generated_at: "2026-11-23T21:25:32.314Z"
+status: "active"
 ---
 
 # § 707a. Payment upon disapproval of certain board of inquiry recommendations for excess leave required to be taken
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:38.074Z"
   - **(2)** The officer shall be paid the amount of pay and allowances that is deemed to have accrued to the officer under paragraph (1), reduced by the total amount of his income from wages, salaries, tips, other personal service income, unemployment compensation, and public assistance benefits from any Government agency during the period the officer is deemed to have accrued pay and allowances. Except as provided in paragraph (3), such payment shall be made within 60 days after the date on which the Secretary concerned decides not to remove the officer from active duty.
   - **(3)** If an officer is entitled to be paid under this section, but fails to provide sufficient information in a timely manner regarding the officer’s income when such information is requested under regulations prescribed under subsection (c), the period of time prescribed in paragraph (2) shall be extended until 30 days after the date on which the member provides the information requested.
 - **(c)** This section shall be administered under uniform regulations prescribed by the Secretaries concerned. The regulations may provide for the method of determining an officer’s income during any period the officer is deemed to have accrued pay and allowances, including a requirement that the officer provide income tax returns and other documentation to verify the amount of the officer’s income.
+
+## Source Credit
+
+*(Added [Pub. L. 107–314, div. A, title V, § 506(b)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2535](https://www.govinfo.gov/link/statute/116/2535); amended [Pub. L. 118–31, div. A, title XVII, § 1722(d)(2)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 670](https://www.govinfo.gov/link/statute/137/670).)*

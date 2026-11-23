@@ -3,9 +3,10 @@ title: "Section 8306 - Seizure, quarantine, and disposal"
 usc_title: 7
 usc_section: "8306"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 8306"
-generated_at: "2026-03-30T02:53:42.474Z"
+generated_at: "2026-11-23T21:25:28.471Z"
+status: "active"
 ---
 
 # § 8306. Seizure, quarantine, and disposal
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:53:42.474Z"
     - **(B)** any progeny of any animal or article, which animal or article has been moved or handled by the owner of the animal or article in violation of this chapter;
     - **(C)** any animal, article, or means of conveyance that is refused entry under this chapter; or
     - **(D)** any animal, article, facility, or means of conveyance that becomes or has become affected with or exposed to any pest or disease of livestock because of a violation of an agreement for the control and eradication of diseases or pests or a violation of this chapter by the owner.
+
+## Source Credit
+
+*([Pub. L. 107–171, title X, § 10407](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 498](https://www.govinfo.gov/link/statute/116/498); [Pub. L. 110–234, title XI, § 11011(1)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1360](https://www.govinfo.gov/link/statute/122/1360); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XI, § 11011(1), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2121.)*

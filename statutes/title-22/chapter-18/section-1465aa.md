@@ -3,9 +3,10 @@ title: "Section 1465aa - Findings and purposes"
 usc_title: 22
 usc_section: "1465aa"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1465aa"
-generated_at: "2026-03-30T02:55:05.332Z"
+generated_at: "2026-11-23T21:25:58.399Z"
+status: "active"
 ---
 
 # § 1465aa. Findings and purposes
@@ -17,3 +18,7 @@ The Congress finds and declares that—
   - **(3)** television broadcasting to Cuba, operated in a manner not inconsistent with the broad foreign policy of the United States and in accordance with high professional standards, would be in the national interest;
   - **(4)** facilities broadcasting television programming to Cuba must be operated in a manner consistent with applicable regulations of the Federal Communications Commission, and must not affect the quality of domestic broadcast transmission or reception; and
   - **(5)** that 1 1 So in original. The word “that” probably should not appear. the Voice of America already broadcasts to Cuba information that represents America, not any single segment of American society, and includes a balanced and comprehensive projection of significant American thought and institutions, but that there is a need for television broadcasts to Cuba which provide news, commentary, and other information about events in Cuba and elsewhere to promote the cause of freedom in Cuba.
+
+## Source Credit
+
+*([Pub. L. 101–246, title II, § 242](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 58](https://www.govinfo.gov/link/statute/104/58).)*

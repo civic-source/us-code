@@ -3,9 +3,10 @@ title: "Section 20231 - Eligibility for consideration for promotion: general rul
 usc_title: 10
 usc_section: "20231"
 chapter: 2005
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 20231"
-generated_at: "2026-03-30T02:53:38.280Z"
+generated_at: "2026-11-23T21:25:33.086Z"
+status: "active"
 ---
 
 # § 20231. Eligibility for consideration for promotion: general rules
@@ -44,3 +45,31 @@ generated_at: "2026-03-30T02:53:38.280Z"
   - **(1)** is pursuing a program of graduate level education in an educational delay status approved by the Secretary concerned; and
   - **(2)** is receiving from the Secretary financial assistance in connection with the pursuit of that program of education while in that status.
 - **(f)** The Secretary of the Air Force may provide that an officer who is in a space force active status, but is in a duty status in which the only points the officer accrues under section 12732(a)(2) of this title are pursuant to subparagraph (C)(i) of that section, shall not be considered for selection for promotion until completion of two years of service in such duty status. Any such officer may remain on the Space Force officer list.
+
+In General.—
+
+Requirement to be on space force officer list
+
+Authority to preclude from consideration certain officers based on time of entry on or departure from sustained duty
+
+Certain Officers Not to Be Considered
+
+Certain Colonels.—
+
+Authority to preclude from consideration
+
+Regulations
+
+Brigadier Generals.—
+
+Officers not on space force officer list
+
+Officers not meeting minimum participation threshold
+
+Officers on Educational Delay
+
+Certain Officers Not to Be Considered for Selection for Promotion
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVII, § 1716(c)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 638](https://www.govinfo.gov/link/statute/137/638); amended [Pub. L. 118–159, div. A, title V, § 521(q)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1882](https://www.govinfo.gov/link/statute/138/1882).)*

@@ -3,9 +3,10 @@ title: "Section 3707 - Adjustable rate mortgages"
 usc_title: 38
 usc_section: "3707"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3707"
-generated_at: "2026-03-30T02:55:53.512Z"
+generated_at: "2026-11-23T21:26:16.773Z"
+status: "active"
 ---
 
 # § 3707. Adjustable rate mortgages
@@ -22,3 +23,9 @@ generated_at: "2026-03-30T02:55:53.512Z"
   - **(3)** the underwriting standards applicable to adjustable rate mortgages insured under title II of the National Housing Act; and
   - **(4)** such other factors as the Secretary finds appropriate.
 - **(d)** The Secretary shall require that the mortgagee make available to the mortgagor, at the time of loan application, a written explanation of the features of the adjustable rate mortgage, including a hypothetical payment schedule that displays the maximum potential increases in monthly payments to the mortgagor over the first five years of the mortgage term.
+
+“Not less frequently than once each year, the Secretary of Veterans Affairs shall issue a publicly available report that—
+
+## Source Credit
+
+*(Added [Pub. L. 102–547, § 3(a)(1)](https://www.govinfo.gov/link/plaw/102/public/547), Oct. 28, 1992, [106 Stat. 3634](https://www.govinfo.gov/link/statute/106/3634); amended [Pub. L. 103–78, § 7](https://www.govinfo.gov/link/plaw/103/public/78), Aug. 13, 1993, [107 Stat. 769](https://www.govinfo.gov/link/statute/107/769); [Pub. L. 108–454, title IV, § 404](https://www.govinfo.gov/link/plaw/108/public/454), Dec. 10, 2004, [118 Stat. 3616](https://www.govinfo.gov/link/statute/118/3616); [Pub. L. 110–389, title V, § 505(a)](https://www.govinfo.gov/link/plaw/110/public/389), Oct. 10, 2008, [122 Stat. 4176](https://www.govinfo.gov/link/statute/122/4176); [Pub. L. 112–154, title II, § 208](https://www.govinfo.gov/link/plaw/112/public/154), Aug. 6, 2012, [126 Stat. 1179](https://www.govinfo.gov/link/statute/126/1179).)*

@@ -3,9 +3,10 @@ title: "Section 1354 - Five-year plan; annual technical services program"
 usc_title: 15
 usc_section: "1354"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1354"
-generated_at: "2026-03-30T02:54:08.134Z"
+generated_at: "2026-11-23T21:25:39.818Z"
+status: "active"
 ---
 
 # § 1354. Five-year plan; annual technical services program
@@ -14,3 +15,7 @@ The designated agency shall prepare and submit to the Secretary in accordance wi
 
 - **(a)** A five-year plan which may be revised annually and which shall: (1) outline the technological and economic conditions of the State, taking into account its region, business, commerce, and its industrial potential and identify the major regional and industrial problems; (2) identify the general approaches and methods to be used in the solution of these problems and outline the means for measuring the impact of such assistance on the State or regional economy; and (3) explain the methods to be used in administering and coordinating the technical services program.
 - **(b)** An annual technical services program which shall (1) identify specific methods, which may include contracts, for accomplishing particular goals and outline the likely impact of these methods in terms of the five-year plan; (2) contain a detailed budget, together with procedures for adequate fiscal control, fund accounting, and auditing, to assure proper disbursement for funds paid to the State under this chapter; and (3) indicate the specific responsibilities assigned to each participating institution in the State.
+
+## Source Credit
+
+*([Pub. L. 89–182, § 4](https://www.govinfo.gov/link/plaw/89/public/182), Sept. 14, 1965, [79 Stat. 680](https://www.govinfo.gov/link/statute/79/680).)*

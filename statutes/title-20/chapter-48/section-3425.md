@@ -3,9 +3,10 @@ title: "Section 3425 - Office of Educational Technology"
 usc_title: 20
 usc_section: "3425"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 3425"
-generated_at: "2026-03-30T02:54:48.178Z"
+generated_at: "2026-11-23T21:25:47.408Z"
+status: "active"
 ---
 
 # § 3425. Office of Educational Technology
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:48.178Z"
   - **(4)** perform such additional functions as the Secretary may require.
 - **(c)** The Director is authorized to select, appoint, and employ such officers and employees as may be necessary to carry out the functions of the Office, subject to the provisions of title 5 (governing appointments in the competitive service), and the provisions of chapter 51 and subchapter III of chapter 53 of such title (relating to classification and General Schedule pay rates).
 - **(d)** The Secretary may obtain the services of experts and consultants in accordance with section 3109 of title 5 .
+
+## Source Credit
+
+*([Pub. L. 96–88, title II, § 218](https://www.govinfo.gov/link/plaw/96/public/88), formerly § 216, as added [Pub. L. 103–227, title II, § 233(a)](https://www.govinfo.gov/link/plaw/103/public/227), Mar. 31, 1994, [108 Stat. 154](https://www.govinfo.gov/link/statute/108/154); renumbered § 218, [Pub. L. 107–110, title X, § 1072(e)(3)](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2090](https://www.govinfo.gov/link/statute/115/2090).)*

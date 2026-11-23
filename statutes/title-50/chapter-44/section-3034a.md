@@ -3,9 +3,10 @@ title: "Section 3034a - Functional Managers for the intelligence community"
 usc_title: 50
 usc_section: "3034a"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3034a"
-generated_at: "2026-03-30T02:56:26.229Z"
+generated_at: "2026-11-23T21:26:38.998Z"
+status: "active"
 ---
 
 # § 3034a. Functional Managers for the intelligence community
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:26.229Z"
 - **(c)** Each manager of an intelligence function established under subsection (a) shall have the duties as follows:
   - **(1)** To act as principal advisor to the Director on the intelligence function.
   - **(2)** To carry out such other responsibilities with respect to the intelligence function as the Director may specify for purposes of this section.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title I, § 103J, as added [Pub. L. 113–126, title III, § 305(a)](https://www.govinfo.gov/link/plaw/113/public/126), July 7, 2014, [128 Stat. 1395](https://www.govinfo.gov/link/statute/128/1395).)*

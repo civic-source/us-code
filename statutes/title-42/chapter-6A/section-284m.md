@@ -3,9 +3,10 @@ title: "Section 284m - Program for pediatric studies of drugs"
 usc_title: 42
 usc_section: "284m"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 284m"
-generated_at: "2026-03-30T02:56:10.742Z"
+generated_at: "2026-11-23T21:26:30.473Z"
+status: "active"
 ---
 
 # § 284m. Program for pediatric studies of drugs
@@ -53,5 +54,13 @@ generated_at: "2026-03-30T02:56:10.742Z"
   - **(10)** If a holder of an approved application for a drug, within 30 days after receiving a request to make a labeling change under paragraph (9), does not agree to make a requested labeling change, the Commissioner of Food and Drugs may deem the drug to be misbranded under the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 301 et seq.].
   - **(11)** Nothing in this subsection limits the authority of the United States to bring an enforcement action under the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 301 et seq.] when a drug lacks appropriate pediatric labeling. Neither course of action (the Pediatric Advisory Committee process or an enforcement action referred to in the preceding sentence) shall preclude, delay, or serve as the basis to stay the other course of action.
 - **(d)**
-  - **(1)** There are authorized to be appropriated to carry out this section, $5,753,425 for the period beginning on October 1, 2022 and ending on December 23, 2022 . 1 1 See 2022 Amendment notes below.
+  - **(1)** There are authorized to be appropriated to carry out this section, $25,000,000 for each of fiscal years 2026 through 2028.
   - **(2)** Any amount appropriated under paragraph (1) shall remain available to carry out this section until expended.
+
+(aa) human research participants, including with respect to privacy, security, informed consent, and protected health information; and
+
+(bb) proprietary interests, confidential commercial information, and intellectual property rights; and
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 409I, as added [Pub. L. 107–109, § 3(3)](https://www.govinfo.gov/link/plaw/107/public/109), Jan. 4, 2002, [115 Stat. 1408](https://www.govinfo.gov/link/statute/115/1408); amended [Pub. L. 108–155, § 3(b)(6)](https://www.govinfo.gov/link/plaw/108/public/155), Dec. 3, 2003, [117 Stat. 1942](https://www.govinfo.gov/link/statute/117/1942); [Pub. L. 109–482, title I, § 103(b)(14)](https://www.govinfo.gov/link/plaw/109/public/482), Jan. 15, 2007, [120 Stat. 3687](https://www.govinfo.gov/link/statute/120/3687); [Pub. L. 110–85, title V, § 502(b)](https://www.govinfo.gov/link/plaw/110/public/85), Sept. 27, 2007, [121 Stat. 886](https://www.govinfo.gov/link/statute/121/886); [Pub. L. 111–148, title VII, § 7002(g)(2)(A)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 820](https://www.govinfo.gov/link/statute/124/820); [Pub. L. 112–144, title V](https://www.govinfo.gov/link/plaw/112/public/144), §§ 507(d), 509(d), July 9, 2012, [126 Stat. 1045](https://www.govinfo.gov/link/statute/126/1045), 1049; [Pub. L. 113–5, title III, § 307(b)](https://www.govinfo.gov/link/plaw/113/public/5), Mar. 13, 2013, [127 Stat. 192](https://www.govinfo.gov/link/statute/127/192); [Pub. L. 115–52, title V, § 501](https://www.govinfo.gov/link/plaw/115/public/52), Aug. 18, 2017, [131 Stat. 1036](https://www.govinfo.gov/link/statute/131/1036); [Pub. L. 117–180, div. F, title V, § 5001](https://www.govinfo.gov/link/plaw/117/public/180), Sept. 30, 2022, [136 Stat. 2167](https://www.govinfo.gov/link/statute/136/2167); [Pub. L. 117–229, div. C, title III, § 302](https://www.govinfo.gov/link/plaw/117/public/229), Dec. 16, 2022, [136 Stat. 2312](https://www.govinfo.gov/link/statute/136/2312); [Pub. L. 117–328, div. FF, title III, § 3102](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5807](https://www.govinfo.gov/link/statute/136/5807); [Pub. L. 119–75, div. J, title V, § 6504](https://www.govinfo.gov/link/plaw/119/public/75), Feb. 3, 2026, [140 Stat. 692](https://www.govinfo.gov/link/statute/140/692).)*

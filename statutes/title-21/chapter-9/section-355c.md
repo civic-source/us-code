@@ -3,9 +3,10 @@ title: "Section 355c - Research into pediatric uses for drugs and biological pro
 usc_title: 21
 usc_section: "355c"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 355c"
-generated_at: "2026-03-30T02:54:54.238Z"
+generated_at: "2026-11-23T21:25:56.045Z"
+status: "active"
 ---
 
 # § 355c. Research into pediatric uses for drugs and biological products
@@ -18,6 +19,7 @@ generated_at: "2026-03-30T02:54:54.238Z"
     - **(B)** A person that submits, on or after the date that is 3 years after August 18, 2017 , an original application for a new active ingredient under section 355 of this title or section 262 of title 42 , shall submit with the application reports on the investigation described in paragraph (3) if the drug or biological product that is the subject of the application is—
       - **(i)** intended for the treatment of an adult cancer; and
       - **(ii)** directed at a molecular target that the Secretary determines to be substantially relevant to the growth or progression of a pediatric cancer.
+    - **(C)** No application that is subject to the requirements of subparagraph (B) shall be subject to the requirements of subparagraph (A), and no application (or supplement to an application) that is subject to the requirements of subparagraph (A) shall be subject to the requirements of subparagraph (B).
   - **(2)**
     - **(A)** The assessments referred to in paragraph (1)(A) shall contain data, gathered using appropriate formulations for each age group for which the assessment is required, that are adequate—
       - **(i)** to assess the safety and effectiveness of the drug or the biological product for the claimed indications in all relevant pediatric subpopulations; and
@@ -27,9 +29,20 @@ generated_at: "2026-03-30T02:54:54.238Z"
       - **(ii)** A study may not be needed in each pediatric age group if data from one age group can be extrapolated to another age group.
       - **(iii)** A brief documentation of the scientific data supporting the conclusion under clauses (i) and (ii) shall be included in any pertinent reviews for the application under section 355 of this title or section 262 of title 42 .
   - **(3)**
-    - **(A)** With respect to a drug or biological product described in paragraph (1)(B), the investigation described in this paragraph is a molecularly targeted pediatric cancer investigation, which shall be designed to yield clinically meaningful pediatric study data, gathered using appropriate formulations for each age group for which the study is required, regarding dosing, safety, and preliminary efficacy to inform potential pediatric labeling.
-    - **(B)** Paragraph (2)(B) shall apply to investigations described in this paragraph to the same extent and in the same manner as paragraph (2)(B) applies with respect to the assessments required under paragraph (1)(A).
-    - **(C)** Deferrals and waivers under paragraphs (4) and (5) shall apply to investigations described in this paragraph to the same extent and in the same manner as such deferrals and waivers apply with respect to the assessments under paragraph (2)(B).
+    - **(A)** For purposes of paragraph (1)(B), the investigation described in this paragraph is a molecularly targeted pediatric cancer investigation of—
+      - **(i)** the drug or biological product for which the application referred to in such paragraph is submitted; or
+      - **(ii)** such drug or biological product used in combination with—
+        - **(I)** an active ingredient of a drug or biological product—
+        - **(II)** an active ingredient of a drug or biological product—
+    - **(B)**
+      - **(i)** A molecularly targeted pediatric cancer investigation referred to in subparagraph (A) shall be designed to yield clinically meaningful pediatric study data that is gathered using appropriate formulations for each age group for which the study is required, regarding dosing, safety, and preliminary efficacy to inform potential pediatric labeling.
+      - **(ii)** An investigation described in subparagraph (A)(ii) may be required only if the drug or biological product for which the application referred to in paragraph (1)(B) contains either—
+        - **(I)** a single new active ingredient; or
+        - **(II)** more than one active ingredient, if an application for the combination of active ingredients has not previously been approved but each active ingredient is in a drug product that has been previously approved to treat an adult cancer.
+      - **(iii)** With respect to an investigation required pursuant to paragraph (1)(B), the Secretary may require the results of any completed preclinical studies relevant to the initial pediatric study plan be submitted to the Secretary at the same time that the initial pediatric study plan required under subsection (e)(1) is submitted.
+      - **(iv)** With respect to a combination of active ingredients referred to in subparagraph (A)(ii), such subparagraph shall not be construed as addressing the use of inactive ingredients with such combination.
+    - **(C)** Paragraph (2)(B) shall apply to investigations referred to in subparagraph (A) to the same extent and in the same manner as paragraph (2)(B) applies with respect to the assessments required under paragraph (1)(A).
+    - **(D)** Deferrals and waivers under paragraphs (4) and (5) shall apply to investigations described in this paragraph to the same extent and in the same manner as such deferrals and waivers apply with respect to the assessments required under paragraph (1)(A).
   - **(4)**
     - **(A)** On the initiative of the Secretary or at the request of the applicant, the Secretary may defer submission of some or all assessments required under paragraph (1)(A) or reports on the investigation required under paragraph (1)(B) until a specified date after approval of the drug or issuance of the license for a biological product if—
       - **(i)** the Secretary finds that—
@@ -99,11 +112,16 @@ generated_at: "2026-03-30T02:54:54.238Z"
   - **(2)** the drug or biological product is in a class of products or for an indication for which there is a need for additional options.
 - **(d)** If a person fails to submit a required assessment described in subsection (a)(2) or the investigation described in subsection (a)(3), fails to meet the applicable requirements in subsection (a)(4), or fails to submit a request for approval of a pediatric formulation described in subsection (a) or (b), in accordance with applicable provisions of subsections (a) and (b), the following shall apply:
   - **(1)** Beginning 270 days after July 9, 2012 , the Secretary shall issue a non-compliance letter to such person informing them of such failure to submit or meet the requirements of the applicable subsection. Such letter shall require the person to respond in writing within 45 calendar days of issuance of such letter. Such response may include the person’s request for a deferral extension if applicable. Such letter and the person’s written response to such letter shall be made publicly available on the Internet Web site of the Food and Drug Administration 60 calendar days after issuance, with redactions for any trade secrets and confidential commercial information. If the Secretary determines that the letter was issued in error, the requirements of this paragraph shall not apply. The Secretary shall inform the Pediatric Advisory Committee of letters issued under this paragraph and responses to such letters.
-  - **(2)** The drug or biological product that is the subject of an assessment described in subsection (a)(2) or the investigation described in subsection (a)(3), applicable requirements in subsection (a)(4), or request for approval of a pediatric formulation, may be considered misbranded solely because of that failure and subject to relevant enforcement action (except that the drug or biological product shall not be subject to action under section 333 of this title ), but such failure shall not be the basis for a proceeding—
+  - **(2)** The drug or biological product that is the subject of an assessment described in subsection (a)(2) or the investigation described in subsection (a)(3), applicable requirements in subsection (a)(4), or request for approval of a pediatric formulation, may be considered misbranded solely because of that failure and subject to relevant enforcement action (except that the drug or biological product shall be subject to action under section 333 of this title only if such person demonstrated a lack of due diligence in satisfying the applicable requirement), but such failure shall not be the basis for a proceeding—
     - **(A)** to withdraw approval for a drug under section 355(e) of this title ; or
     - **(B)** to revoke the license for a biological product under section 262 of title 42 .
+  - **(3)** The Secretary shall not issue enforcement actions under section 333 of this title for failures under this subsection in the case of a drug or biological product that is no longer marketed.
+  - **(4)** Before the Secretary may conclude that a person failed to submit or otherwise meet a requirement as described in the matter preceding paragraph (1), the Secretary shall—
+    - **(A)** issue a noncompliance letter pursuant to paragraph (1);
+    - **(B)** provide such person with a 45-day period beginning on the date of receipt of such noncompliance letter to respond in writing as set forth in such paragraph; and
+    - **(C)** after reviewing such written response, determine whether the person demonstrated a lack of due diligence in satisfying such requirement.
 - **(e)**
-  - **(1)** An applicant subject to subsection (a) shall submit to the Secretary an initial pediatric study plan prior to the submission of the assessments described under subsection (a)(2) or the investigation described in subsection (a)(3).
+  - **(1)** An applicant subject to subsection (a) shall submit to the Secretary an initial pediatric study plan prior to the submission of the assessments described under subsection (a)(2) or the investigation described in subsection (a)(3). The Secretary shall determine whether subparagraph (A) or (B) of subsection (a)(1) applies with respect to an application before the date on which the applicant is required to submit the initial pediatric study plan under paragraph (2)(A). 1
   - **(2)**
     - **(A)** An applicant shall submit the initial pediatric study plan under paragraph (1)—
       - **(i)** before the date on which the applicant submits the assessments under subsection (a)(2) or the investigation described in subsection (a)(3); and
@@ -171,7 +189,7 @@ generated_at: "2026-03-30T02:54:54.238Z"
 - **(j)** Nothing in this section provides to the Secretary any authority to require a pediatric assessment of any drug or biological product, or any assessment regarding other populations or uses of a drug or biological product, other than the pediatric assessments described in this section.
 - **(k)**
   - **(1)** Unless the Secretary requires otherwise by regulation and except as provided in paragraph (2), this section does not apply to any drug or biological product for an indication for which orphan designation has been granted under section 360bb of this title .
-  - **(2)** This section shall apply with respect to a drug or biological product for which an indication has been granted orphan designation under 360bb 1 1 So in original. Probably should be preceded by “section”. of this title if the investigation described in subsection (a)(3) applies to the drug or biological product as described in subsection (a)(1)(B).
+  - **(2)** This section shall apply with respect to a drug or biological product for which an indication has been granted orphan designation under 360bb 3 3 So in original. Probably should be preceded by “section”. of this title if the investigation described in subsection (a)(3) applies to the drug or biological product as described in subsection (a)(1)(B).
 - **(l)**
   - **(1)** A biological product that is biosimilar to a reference product under section 262 of title 42 , and that the Secretary has not determined to meet the standards described in subsection (k)(4) of such section for interchangeability with the reference product, shall be considered to have a new active ingredient under this section.
   - **(2)** A biological product that is interchangeable with a reference product under section 262 of title 42 shall not be considered to have a new active ingredient under this section.
@@ -183,3 +201,47 @@ generated_at: "2026-03-30T02:54:54.238Z"
   - **(3)** Nothing in paragraph (1) shall be construed—
     - **(A)** to require the inclusion of a molecular target on the list published under such paragraph as a condition for triggering the requirements under subsection (a)(1)(B) with respect to a drug or biological product directed at such molecular target; or
     - **(B)** to authorize the disclosure of confidential commercial information, as prohibited under section 331(j) of this title or section 1905 of title 18 .
+
+(aa) for which an approved application under section 355(j) under 2 2 So in original. Probably should be “of”. this title or under section 262(k) of title 42 is in effect; and
+
+(bb) that is determined by the Secretary, after consultation with the applicant, to be part of the standard of care for treating a pediatric cancer; or
+
+(aa) for which an approved application under section 355(b) of this title or section 262(a) of title 42 to treat an adult cancer is in effect and is held by the same person submitting the application under paragraph (1)(B); and
+
+(bb) that is directed at a molecular target that the Secretary determines to be substantially relevant to the growth or progression of a pediatric cancer.
+
+(aa) does not represent a meaningful therapeutic benefit over existing therapies for pediatric patients in that age group; and
+
+(bb) is not likely to be used in a substantial number of pediatric patients in that age group; and
+
+In general
+
+Rule of construction
+
+In general
+
+Certain assessments and waiver requests
+
+In General
+
+Applicability to New Drugs and Biological Products.—
+
+In general
+
+Waivers and deferrals.—
+
+Waiver or deferral granted
+
+Waiver and deferral not granted
+
+No Limitation of Authority
+
+“The Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, shall—
+
+Meeting
+
+Guidance
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 505B, as added [Pub. L. 108–155, § 2(a)](https://www.govinfo.gov/link/plaw/108/public/155), Dec. 3, 2003, [117 Stat. 1936](https://www.govinfo.gov/link/statute/117/1936); amended [Pub. L. 110–85, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/110/public/85), Sept. 27, 2007, [121 Stat. 866](https://www.govinfo.gov/link/statute/121/866); [Pub. L. 111–148, title VII, § 7002(d)(2)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 816](https://www.govinfo.gov/link/statute/124/816); [Pub. L. 112–144, title V](https://www.govinfo.gov/link/plaw/112/public/144), §§ 501(b), 505–506(b), 509(b), July 9, 2012, [126 Stat. 1040–1044](https://www.govinfo.gov/link/statute/126/1040), 1048; [Pub. L. 114–255, div. A, title III](https://www.govinfo.gov/link/plaw/114/public/255), §§ 3101(a)(2)(D), 3102(3), Dec. 13, 2016, [130 Stat. 1153](https://www.govinfo.gov/link/statute/130/1153), 1156; [Pub. L. 115–52, title V](https://www.govinfo.gov/link/plaw/115/public/52), §§ 503–504(b), 505(e), Aug. 18, 2017, [131 Stat. 1038–1041](https://www.govinfo.gov/link/statute/131/1038), 1047; [Pub. L. 117–328, div. FF, title II, § 2515(c)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5806](https://www.govinfo.gov/link/statute/136/5806); [Pub. L. 119–75, div. J, title VI](https://www.govinfo.gov/link/plaw/119/public/75), §§ 6601(a), 6602(a), (b), Feb. 3, 2026, [140 Stat. 695](https://www.govinfo.gov/link/statute/140/695), 698.)*

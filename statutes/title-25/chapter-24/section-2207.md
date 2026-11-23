@@ -3,9 +3,10 @@ title: "Section 2207 - Full faith and credit to tribal actions under tribal ordi
 usc_title: 25
 usc_section: "2207"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2207"
-generated_at: "2026-03-30T02:54:52.839Z"
+generated_at: "2026-11-23T21:25:54.664Z"
+status: "active"
 ---
 
 # § 2207. Full faith and credit to tribal actions under tribal ordinances limiting descent and distribution of trust or restricted or controlled lands
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:52.839Z"
 - **(a)** and
 - **(b)** of section 2205 of this title , which provision shall apply only to estates of decedent’s whose deaths occur on or after the effective date of tribal ordinances adopted pursuant to this chapter.
 
+
+## Source Credit
+
+*([Pub. L. 97–459, title II, § 208](https://www.govinfo.gov/link/plaw/97/public/459), Jan. 12, 1983, [96 Stat. 2519](https://www.govinfo.gov/link/statute/96/2519); [Pub. L. 106–462, title I, § 103(5)](https://www.govinfo.gov/link/plaw/106/public/462), Nov. 7, 2000, [114 Stat. 1999](https://www.govinfo.gov/link/statute/114/1999).)*

@@ -3,9 +3,10 @@ title: "Section 245A - Deduction for foreign source-portion of dividends receive
 usc_title: 26
 usc_section: "245A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 245A"
-generated_at: "2026-03-30T02:55:27.656Z"
+generated_at: "2026-11-23T21:26:06.105Z"
+status: "active"
 ---
 
 # § 245A. Deduction for foreign source-portion of dividends received by domestic corporations from specified 10-percent owned foreign corporations
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:27.656Z"
     - **(B)** for which the controlled foreign corporation received a deduction (or other tax benefit) with respect to any income, war profits, or excess profits taxes imposed by any foreign country or possession of the United States.
 - **(f)** Any amount which is treated as a dividend under section 1291(d)(2)(B) shall not be treated as a dividend for purposes of this section.
 - **(g)** The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the provisions of this section, including regulations for the treatment of United States shareholders owning stock of a specified 10 percent 1 1 So in original. Probably should be “10-percent”. owned foreign corporation through a partnership.
+
+## Source Credit
+
+*(Added [Pub. L. 115–97, title I, § 14101(a)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2189](https://www.govinfo.gov/link/statute/131/2189).)*

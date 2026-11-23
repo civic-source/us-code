@@ -3,9 +3,10 @@ title: "Section 704 - Retention and disposition of articles deposited in Copyrig
 usc_title: 17
 usc_section: "704"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 704"
-generated_at: "2026-03-30T02:54:15.354Z"
+generated_at: "2026-11-23T21:25:41.724Z"
+status: "active"
 ---
 
 # § 704. Retention and disposition of articles deposited in Copyright Office
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:15.354Z"
 - **(c)** The Register of Copyrights is authorized, for specific or general categories of works, to make a facsimile reproduction of all or any part of the material deposited under section 408, and to make such reproduction a part of the Copyright Office records of the registration, before transferring such material to the Library of Congress as provided by subsection (b), or before destroying or otherwise disposing of such material as provided by subsection (d).
 - **(d)** Deposits not selected by the Library under subsection (b), or identifying portions or reproductions of them, shall be retained under the control of the Copyright Office, including retention in Government storage facilities, for the longest period considered practicable and desirable by the Register of Copyrights and the Librarian of Congress. After that period it is within the joint discretion of the Register and the Librarian to order their destruction or other disposition; but, in the case of unpublished works, no deposit shall be knowingly or intentionally destroyed or otherwise disposed of during its term of copyright unless a facsimile reproduction of the entire deposit has been made a part of the Copyright Office records as provided by subsection (c).
 - **(e)** The depositor of copies, phonorecords, or identifying material under section 408, or the copyright owner of record, may request retention, under the control of the Copyright Office, of one or more of such articles for the full term of copyright in the work. The Register of Copyrights shall prescribe, by regulation, the conditions under which such requests are to be made and granted, and shall fix the fee to be charged under section 708(a) if the request is granted.
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2591](https://www.govinfo.gov/link/statute/90/2591); [Pub. L. 101–318, § 2(c)](https://www.govinfo.gov/link/plaw/101/public/318), July 3, 1990, [104 Stat. 288](https://www.govinfo.gov/link/statute/104/288); [Pub. L. 111–295, § 6(e)](https://www.govinfo.gov/link/plaw/111/public/295), Dec. 9, 2010, [124 Stat. 3181](https://www.govinfo.gov/link/statute/124/3181).)*

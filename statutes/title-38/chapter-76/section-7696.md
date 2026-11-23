@@ -3,9 +3,10 @@ title: "Section 7696 - Term of obligated service"
 usc_title: 38
 usc_section: "7696"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7696"
-generated_at: "2026-03-30T02:55:53.535Z"
+generated_at: "2026-11-23T21:26:16.891Z"
+status: "active"
 ---
 
 # § 7696. Term of obligated service
@@ -23,3 +24,13 @@ generated_at: "2026-03-30T02:55:53.535Z"
     - **(B)** “ B ” is the sum of all payments to or for the participant under the Specialty Education Loan Repayment Program.
     - **(C)** “ T ” is the number of months in the period of obligated service of the employee.
     - **(D)** “ S ” is the number of whole months of such period of obligated service served by the employee.
+
+In General
+
+Fellowship
+
+Penalty
+
+## Source Credit
+
+*(Added [Pub. L. 115–182, title III, § 303(a)](https://www.govinfo.gov/link/plaw/115/public/182), June 6, 2018, [132 Stat. 1465](https://www.govinfo.gov/link/statute/132/1465); amended [Pub. L. 116–61, § 6(8)](https://www.govinfo.gov/link/plaw/116/public/61), Sept. 30, 2019, [133 Stat. 1117](https://www.govinfo.gov/link/statute/133/1117).)*

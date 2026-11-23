@@ -3,9 +3,10 @@ title: "Section 2810 - Assistant United States Attorney tribal liaisons"
 usc_title: 25
 usc_section: "2810"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2810"
-generated_at: "2026-03-30T02:54:52.845Z"
+generated_at: "2026-11-23T21:25:54.678Z"
+status: "active"
 ---
 
 # § 2810. Assistant United States Attorney tribal liaisons
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:52.845Z"
     - **(C)** to provide to appointed Special Assistant United States Attorneys appropriate training, supervision, and staff support; and
     - **(D)** to provide technical and other assistance to tribal governments and tribal court systems to ensure that the goals of this subsection are achieved.
   - **(2)** It is the sense of Congress that, in appointing Special Assistant United States Attorneys under this subsection, a United States Attorney should consult with tribal justice officials of each Indian tribe that would be affected by the appointment.
+
+## Source Credit
+
+*([Pub. L. 101–379, § 13](https://www.govinfo.gov/link/plaw/101/public/379), as added [Pub. L. 111–211, title II, § 213(b)(1)](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2268](https://www.govinfo.gov/link/statute/124/2268).)*

@@ -3,9 +3,10 @@ title: "Section 794a - Remedies and attorney fees"
 usc_title: 29
 usc_section: "794a"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 794a"
-generated_at: "2026-03-30T02:55:18.698Z"
+generated_at: "2026-11-23T21:26:02.213Z"
+status: "active"
 ---
 
 # § 794a. Remedies and attorney fees
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:18.698Z"
   - **(1)** The remedies, procedures, and rights set forth in section 717 of the Civil Rights Act of 1964 ( 42 U.S.C. 2000e–16 ), including the application of sections 706(f) through 706(k) ( 42 U.S.C. 2000e–5(f) through (k)) (and the application of section 706(e)(3) ( 42 U.S.C. 2000e–5(e)(3) ) to claims of discrimination in compensation), shall be available, with respect to any complaint under section 791 of this title , to any employee or applicant for employment aggrieved by the final disposition of such complaint, or by the failure to take final action on such complaint. In fashioning an equitable or affirmative action remedy under such section, a court may take into account the reasonableness of the cost of any necessary work place accommodation, and the availability of alternatives therefor or other appropriate relief in order to achieve an equitable and appropriate remedy.
   - **(2)** The remedies, procedures, and rights set forth in title VI of the Civil Rights Act of 1964 ( 42 U.S.C. 2000d et seq.) (and in subsection (e)(3) of section 706 of such Act ( 42 U.S.C. 2000e–5 ), applied to claims of discrimination in compensation) shall be available to any person aggrieved by any act or failure to act by any recipient of Federal assistance or Federal provider of such assistance under section 794 of this title .
 - **(b)** In any action or proceeding to enforce or charge a violation of a provision of this subchapter, the court, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney’s fee as part of the costs.
+
+## Source Credit
+
+*([Pub. L. 93–112, title V, § 505](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 95–602, title I, § 120(a)](https://www.govinfo.gov/link/plaw/95/public/602), Nov. 6, 1978, [92 Stat. 2982](https://www.govinfo.gov/link/statute/92/2982); amended [Pub. L. 111–2, § 5(c)(1)](https://www.govinfo.gov/link/plaw/111/public/2), Jan. 29, 2009, [123 Stat. 6](https://www.govinfo.gov/link/statute/123/6).)*

@@ -3,9 +3,10 @@ title: "Section 5001 - Findings; purposes"
 usc_title: 12
 usc_section: "5001"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5001"
-generated_at: "2026-03-30T02:53:53.520Z"
+generated_at: "2026-11-23T21:25:37.224Z"
+status: "active"
 ---
 
 # § 5001. Findings; purposes
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:53.520Z"
   - **(1)** To facilitate check truncation by authorizing substitute checks.
   - **(2)** To foster innovation in the check collection system without mandating receipt of checks in electronic form.
   - **(3)** To improve the overall efficiency of the Nation’s payments system.
+
+## Source Credit
+
+*([Pub. L. 108–100, § 2](https://www.govinfo.gov/link/plaw/108/public/100), Oct. 28, 2003, [117 Stat. 1177](https://www.govinfo.gov/link/statute/117/1177).)*

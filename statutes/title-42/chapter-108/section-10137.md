@@ -3,9 +3,10 @@ title: "Section 10137 - Consultation with States and affected Indian tribes"
 usc_title: 42
 usc_section: "10137"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10137"
-generated_at: "2026-03-30T02:56:11.380Z"
+generated_at: "2026-11-23T21:26:33.339Z"
+status: "active"
 ---
 
 # § 10137. Consultation with States and affected Indian tribes
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.380Z"
   - **(10)** for public notification of the procedures specified under the preceding paragraphs; and
   - **(11)** for resolving objections of a State and affected Indian tribes at any stage of the planning, siting, development, construction, operation, or closure of such a facility within such State through negotiation, arbitration, or other appropriate mechanisms.
 - **(d)** The Secretary shall offer to any State, Indian tribe or unit of local government within whose jurisdiction a site for a repository or monitored retrievable storage facility is located under this subchapter an opportunity to designate a representative to conduct on-site oversight activities at such site. Reasonable expenses of such representatives shall be paid out of the Waste Fund.
+
+## Source Credit
+
+*([Pub. L. 97–425, title I, § 117](https://www.govinfo.gov/link/plaw/97/public/425), Jan. 7, 1983, [96 Stat. 2222](https://www.govinfo.gov/link/statute/96/2222); [Pub. L. 100–202, § 101(d) [title III, § 300]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–104](https://www.govinfo.gov/link/statute/101/1329), 1329–121; [Pub. L. 100–203, title V, § 5011(m)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–231](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 104–66, title I, § 1051(i)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 716](https://www.govinfo.gov/link/statute/109/716).)*

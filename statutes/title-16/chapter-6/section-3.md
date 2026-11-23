@@ -3,9 +3,10 @@ title: "Section 3 - Administration of National Preserve"
 usc_title: 16
 usc_section: "3"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T02:54:22.899Z"
+generated_at: "2026-11-23T21:25:51.729Z"
+status: "active"
 ---
 
 # § 698u–3. Administration of National Preserve
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:22.899Z"
     - **(H)** Provisions requiring the Secretary to offer to enter into an agreement with each individual who, as of November 12, 1996 , holds rights for cattle grazing within the boundaries of the Preserve (as described in section 698u–2(b) of this title ).
   - **(4)** The Secretary may allow hunting and fishing on Federal lands within the Preserve.
   - **(5)** As part of the development of the general management plan, the Secretary shall prepare a financial analysis indicating how the management of the Preserve may be fully supported through fees, private donations, and other forms of non-Federal funding.
+
+## Source Credit
+
+*([Pub. L. 104–333, div. I, title X, § 1005](https://www.govinfo.gov/link/plaw/104/public/333), Nov. 12, 1996, [110 Stat. 4205](https://www.govinfo.gov/link/statute/110/4205); [Pub. L. 106–176, title I, § 122(3)](https://www.govinfo.gov/link/plaw/106/public/176), Mar. 10, 2000, [114 Stat. 29](https://www.govinfo.gov/link/statute/114/29).)*

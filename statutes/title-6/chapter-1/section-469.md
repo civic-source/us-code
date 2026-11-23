@@ -3,9 +3,10 @@ title: "Section 469 - Fees for credentialing and background investigations in tr
 usc_title: 6
 usc_section: "469"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 469"
-generated_at: "2026-03-30T02:53:09.465Z"
+generated_at: "2026-11-23T21:25:25.796Z"
+status: "active"
 ---
 
 # § 469. Fees for credentialing and background investigations in transportation
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:09.465Z"
   - **(1)** Notwithstanding section 44939(e) of title 49 , the Secretary shall establish a process to ensure that an alien (as defined in section 101(a)(3) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(3) ) applying for recurrent training in the operation of any aircraft is properly identified and has not, since the time of any prior threat assessment conducted pursuant to section 44939(a) of such title, become a risk to aviation or national security.
   - **(2)** If the Secretary determines, in carrying out the process established under paragraph (1), that an alien is a present risk to aviation or national security, the Secretary shall immediately notify the person providing the training of the determination and that person shall not provide the training or if such training has commenced that person shall immediately terminate the training.
   - **(3)** The Secretary may charge reasonable fees under subsection (a) for providing credentialing and background investigations for aliens in connection with the process for recurrent training established under paragraph (1). Such fees shall be promulgated by notice in the Federal Register.
+
+## Source Credit
+
+*([Pub. L. 108–90, title V, § 520](https://www.govinfo.gov/link/plaw/108/public/90), Oct. 1, 2003, [117 Stat. 1156](https://www.govinfo.gov/link/statute/117/1156); [Pub. L. 110–329, div. D, title V, § 543](https://www.govinfo.gov/link/plaw/110/public/329), Sept. 30, 2008, [122 Stat. 3689](https://www.govinfo.gov/link/statute/122/3689).)*

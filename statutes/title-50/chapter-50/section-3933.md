@@ -3,9 +3,10 @@ title: "Section 3933 - Fines and penalties under contracts"
 usc_title: 50
 usc_section: "3933"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3933"
-generated_at: "2026-03-30T02:56:26.263Z"
+generated_at: "2026-11-23T21:26:39.078Z"
+status: "active"
 ---
 
 # § 3933. Fines and penalties under contracts
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:26.263Z"
 - **(b)** If a servicemember fails to perform an obligation arising under a contract and a penalty is incurred arising from that nonperformance, a court may reduce or waive the fine or penalty if—
   - **(1)** the servicemember was in military service at the time the fine or penalty was incurred; and
   - **(2)** the ability of the servicemember to perform the obligation was materially affected by such military service.
+
+## Source Credit
+
+*(Oct. 17, 1940, ch. 888, title II, § 203, as added [Pub. L. 108–189, § 1](https://www.govinfo.gov/link/plaw/108/public/189), Dec. 19, 2003, [117 Stat. 2843](https://www.govinfo.gov/link/statute/117/2843).)*

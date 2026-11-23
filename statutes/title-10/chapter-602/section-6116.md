@@ -3,9 +3,10 @@ title: "Section 6116 - Stockpile management program"
 usc_title: 10
 usc_section: "6116"
 chapter: 602
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6116"
-generated_at: "2026-03-30T02:53:38.218Z"
+generated_at: "2026-11-23T21:25:32.811Z"
+status: "active"
 ---
 
 # § 6116. Stockpile management program
@@ -25,3 +26,13 @@ generated_at: "2026-03-30T02:53:38.218Z"
     - **(B)** use the design, certification, and production expertise resident in the nuclear security enterprise to fulfill current mission requirements of the existing stockpile; and
     - **(C)** develop future generations of design, certification, and production expertise in the nuclear security enterprise to support the fulfillment of mission requirements of the future stockpile.
 - **(c)** In accordance with the requirements under section 6120, for each budget submitted by the President to Congress under section 1105 of title 31 , the amounts requested for the program under this section shall be clearly identified in the budget justification materials submitted to Congress in support of that budget.
+
+Program Required
+
+Program Limitations
+
+Program Budget
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1352](https://www.govinfo.gov/link/statute/139/1352).)*

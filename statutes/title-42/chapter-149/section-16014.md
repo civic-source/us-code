@@ -3,9 +3,10 @@ title: "Section 16014 - Standby support for certain nuclear plant delays"
 usc_title: 42
 usc_section: "16014"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16014"
-generated_at: "2026-03-30T02:56:11.466Z"
+generated_at: "2026-11-23T21:26:33.690Z"
+status: "active"
 ---
 
 # § 16014. Standby support for certain nuclear plant delays
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:56:11.466Z"
   - **(2)** Not later than 270 days after August 8, 2005 , the Secretary shall issue for public comment an interim final rule regulating contracts authorized by this section.
   - **(3)** Not later than 1 year after August 8, 2005 , the Secretary shall issue a notice of final rulemaking regulating the contracts.
 - **(h)** There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VI, § 638](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 791](https://www.govinfo.gov/link/statute/119/791).)*

@@ -3,9 +3,10 @@ title: "Section 2394 - Reports and information; definitions"
 usc_title: 22
 usc_section: "2394"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2394"
-generated_at: "2026-03-30T02:55:05.363Z"
+generated_at: "2026-11-23T21:25:58.485Z"
+status: "active"
 ---
 
 # § 2394. Reports and information; definitions
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:05.363Z"
 - **(b)** For purposes of this section—
   - **(1)** “foreign assistance” means any tangible or intangible item provided by the United States Government to a foreign country or international organization under this chapter or any other Act, including but not limited to any training, service, or technical advice, any item of real, personal, or mixed property, any agricultural commodity, United States dollars, and any currencies of any foreign country which are owned by the United States Government; and
   - **(2)** “provided by the United States Government” includes, but is not limited to, foreign assistance provided by means of gift, loan, sale, credit, or guaranty.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 634, Sept. 4, 1961, [75 Stat. 455](https://www.govinfo.gov/link/statute/75/455); [Pub. L. 87–565](https://www.govinfo.gov/link/plaw/87/public/565), pt. III, § 302(e), (f), Aug. 1, 1962, [76 Stat. 262](https://www.govinfo.gov/link/statute/76/262); [Pub. L. 89–583](https://www.govinfo.gov/link/plaw/89/public/583), pt. III, § 302(c), Sept. 19, 1966, [80 Stat. 807](https://www.govinfo.gov/link/statute/80/807); [Pub. L. 90–137](https://www.govinfo.gov/link/plaw/90/public/137), pt. III, § 302(h), Nov. 14, 1967, [81 Stat. 460](https://www.govinfo.gov/link/statute/81/460); [Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 4, § 45(a), (b)(4), Oct. 22, 1968, [82 Stat. 1327](https://www.govinfo.gov/link/statute/82/1327); [Pub. L. 91–175](https://www.govinfo.gov/link/plaw/91/public/175), pt. III, § 305, Dec. 30, 1969, [83 Stat. 821](https://www.govinfo.gov/link/statute/83/821); [Pub. L. 92–226](https://www.govinfo.gov/link/plaw/92/public/226), pt. III, § 304(a)(3), (c)(2), Feb. 7, 1972, [86 Stat. 28](https://www.govinfo.gov/link/statute/86/28), 32; [Pub. L. 93–189, § 17](https://www.govinfo.gov/link/plaw/93/public/189), Dec. 17, 1973, [87 Stat. 724](https://www.govinfo.gov/link/statute/87/724); [Pub. L. 93–559, § 14](https://www.govinfo.gov/link/plaw/93/public/559), Dec. 30, 1974, [88 Stat. 1799](https://www.govinfo.gov/link/statute/88/1799); [Pub. L. 94–273, § 6(1)](https://www.govinfo.gov/link/plaw/94/public/273), Apr. 21, 1976, [90 Stat. 377](https://www.govinfo.gov/link/statute/90/377); [Pub. L. 94–329, title II, § 209(b)](https://www.govinfo.gov/link/plaw/94/public/329), June 30, 1976, [90 Stat. 739](https://www.govinfo.gov/link/statute/90/739); [Pub. L. 95–424, title V, § 502(a)(1)](https://www.govinfo.gov/link/plaw/95/public/424), (2), Oct. 6, 1978, [92 Stat. 957](https://www.govinfo.gov/link/statute/92/957); [Pub. L. 96–533, title VII, § 707](https://www.govinfo.gov/link/plaw/96/public/533), Dec. 16, 1980, [94 Stat. 3159](https://www.govinfo.gov/link/statute/94/3159); [Pub. L. 97–113, title VII, § 733](https://www.govinfo.gov/link/plaw/97/public/113), Dec. 29, 1981, [95 Stat. 1559](https://www.govinfo.gov/link/statute/95/1559); [Pub. L. 99–83, title III, § 312(b)](https://www.govinfo.gov/link/plaw/99/public/83), Aug. 8, 1985, [99 Stat. 216](https://www.govinfo.gov/link/statute/99/216); [Pub. L. 110–246, title III, § 3001(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/246), (2)(Q), June 18, 2008, [122 Stat. 1820](https://www.govinfo.gov/link/statute/122/1820).)*

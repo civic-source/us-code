@@ -3,12 +3,17 @@ title: "Section 511g - Placing of grade on warehouse tickets, etc.; form"
 usc_title: 7
 usc_section: "511g"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 511g"
-generated_at: "2026-03-30T02:53:42.287Z"
+generated_at: "2026-11-23T21:25:27.970Z"
+status: "active"
 ---
 
 # § 511g. Placing of grade on warehouse tickets, etc.; form
 
 Warehousemen shall provide space on warehouse tickets or other tags or labels used by them for showing the grade of the lot covered thereby as determined by an authorized tobacco inspector under this chapter. The Secretary may prescribe, by regulation, the form in which such certification of grade shall be shown, and may require that a copy of such warehouse ticket, tag, or label shall be furnished to the Secretary.
 
+
+## Source Credit
+
+*(Aug. 23, 1935, ch. 623, § 8, [49 Stat. 733](https://www.govinfo.gov/link/statute/49/733).)*

@@ -3,9 +3,10 @@ title: "Section 18062 - Establishment of risk corridors for plans in individual 
 usc_title: 42
 usc_section: "18062"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18062"
-generated_at: "2026-03-30T02:56:11.515Z"
+generated_at: "2026-11-23T21:26:33.813Z"
+status: "active"
 ---
 
 # § 18062. Establishment of risk corridors for plans in individual and small group markets
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.515Z"
     - **(A)** The amount of allowable costs of a plan for any year is an amount equal to the total costs (other than administrative costs) of the plan in providing benefits covered by the plan.
     - **(B)** Allowable costs shall 1 1 So in original. Probably should be followed by “be”. reduced by any risk adjustment and reinsurance payments received under section 2 2 So in original. Probably should be “sections”. 18061 and 18063 of this title.
   - **(2)** The target amount of a plan for any year is an amount equal to the total premiums (including any premium subsidies under any governmental program), reduced by the administrative costs of the plan.
+
+## Source Credit
+
+*([Pub. L. 111–148, title I, § 1342](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 211](https://www.govinfo.gov/link/statute/124/211).)*

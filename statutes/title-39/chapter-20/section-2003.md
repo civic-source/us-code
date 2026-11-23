@@ -3,9 +3,10 @@ title: "Section 2003 - The Postal Service Fund"
 usc_title: 39
 usc_section: "2003"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 2003"
-generated_at: "2026-03-30T02:55:43.690Z"
+generated_at: "2026-11-23T21:26:12.774Z"
+status: "active"
 ---
 
 # § 2003. The Postal Service Fund
@@ -29,3 +30,29 @@ generated_at: "2026-03-30T02:55:43.690Z"
 - **(f)** Notwithstanding any other provision of this section, any amounts appropriated to the Postal Service under subsection (d) of section 2401 of this title and deposited into the Fund shall be expended by the Postal Service only for the purposes provided in such subsection.
 - **(g)** Notwithstanding any provision of section 8147 of title 5 , whenever the Secretary of Labor furnishes a statement to the Postal Service indicating an amount due from the Postal Service under subsection (b) of that section, the Postal Service shall make the deposit required pursuant to that statement (and any additional payment under subsection (c) of that section, to the extent that it relates to the period covered by such statement) not later than 30 days after the date on which such statement is so furnished. Any deposit (and any additional payment) which is subject to the preceding sentence shall, once made, remain available without fiscal year limitation.
 - **(h)** Liabilities of the former Post Office Department to the Employees’ Compensation Fund (appropriations for which were authorized by former section 2004, as in effect before the effective date of this subsection) shall be liabilities of the Postal Service payable out of the Fund.
+
+In general
+
+Provisions relating to payments for fiscal year 1998.—
+
+Amounts not yet paid
+
+Amounts paid
+
+Establishment of Postal Service Escrow Fund
+
+Deposit of Certain Savings in Certain Funds.—
+
+Fiscal year 1988
+
+Fiscal year 1989
+
+Capital Limitations for Fiscal Years
+
+and
+
+Capital investment programs
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 739](https://www.govinfo.gov/link/statute/84/739); [Pub. L. 94–421, § 2(c)](https://www.govinfo.gov/link/plaw/94/public/421), Sept. 24, 1976, [90 Stat. 1304](https://www.govinfo.gov/link/statute/90/1304); [Pub. L. 97–35, title XVII, § 1725](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 760](https://www.govinfo.gov/link/statute/95/760); [Pub. L. 97–258, § 3](https://www.govinfo.gov/link/plaw/97/public/258) (l)(1), Sept. 13, 1982, [96 Stat. 1066](https://www.govinfo.gov/link/statute/96/1066); [Pub. L. 99–500, § 101(m) [title II, § 201(b)]](https://www.govinfo.gov/link/plaw/99/public/500), Oct. 18, 1986, [100 Stat. 1783–308](https://www.govinfo.gov/link/statute/100/1783), 1783–314, and [Pub. L. 99–591, § 101(m) [title II, § 201(b)]](https://www.govinfo.gov/link/plaw/99/public/591), Oct. 30, 1986, [100 Stat. 3341–308](https://www.govinfo.gov/link/statute/100/3341), 3341–314; [Pub. L. 100–690, title VI, § 6252](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4362](https://www.govinfo.gov/link/statute/102/4362); [Pub. L. 101–239, title IV, § 4004(a)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2135](https://www.govinfo.gov/link/statute/103/2135); [Pub. L. 102–393, title VI, § 638(g)](https://www.govinfo.gov/link/plaw/102/public/393), Oct. 6, 1992, [106 Stat. 1790](https://www.govinfo.gov/link/statute/106/1790); [Pub. L. 105–33, title VII, § 7003(a)(2)(B)](https://www.govinfo.gov/link/plaw/105/public/33), (b), Aug. 5, 1997, [111 Stat. 663](https://www.govinfo.gov/link/statute/111/663); [Pub. L. 109–435, title IV, § 401(b)(3)](https://www.govinfo.gov/link/plaw/109/public/435), title VI, § 603(c)(2), title X, § 1008(c)(1), Dec. 20, 2006, [120 Stat. 3225](https://www.govinfo.gov/link/statute/120/3225), 3241, 3260; [Pub. L. 114–22, title I, § 105(c)(2)(A)(iii)](https://www.govinfo.gov/link/plaw/114/public/22), May 29, 2015, [129 Stat. 237](https://www.govinfo.gov/link/statute/129/237); [Pub. L. 117–108, title II, § 205(b)(1)](https://www.govinfo.gov/link/plaw/117/public/108), Apr. 6, 2022, [136 Stat. 1148](https://www.govinfo.gov/link/statute/136/1148); [Pub. L. 117–286, § 4(b)(66)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4350](https://www.govinfo.gov/link/statute/136/4350); [Pub. L. 119–60, div. G, title LXXII, § 7207(d)(3)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1693](https://www.govinfo.gov/link/statute/139/1693).)*

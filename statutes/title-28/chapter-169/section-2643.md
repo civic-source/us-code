@@ -3,9 +3,10 @@ title: "Section 2643 - Relief"
 usc_title: 28
 usc_section: "2643"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 2643"
-generated_at: "2026-03-30T02:55:30.150Z"
+generated_at: "2026-11-23T21:26:01.138Z"
+status: "active"
 ---
 
 # § 2643. Relief
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:30.150Z"
   - **(5)** In any civil action involving an antidumping or countervailing duty proceeding regarding a class or kind of merchandise of a free trade area country (as defined in section 516A(f)(9) of the Tariff Act of 1930), as determined by the administering authority, the Court of International Trade may not order declaratory relief.
 - **(d)** If a surety commences a civil action in the Court of International Trade, such surety shall recover only the amount of the liquidated duties, charges, or exactions paid on the entries included in such action. The excess amount of any recovery shall be paid to the importer of record.
 - **(e)** In any proceeding involving assessment or collection of a monetary penalty under section 641(b)(6) or 641(d)(2)(A) of the Tariff Act of 1930, the court may not render judgment in an amount greater than that sought in the initial pleading of the United States, and may render judgment in such lesser amount as shall seem proper and just to the court.
+
+## Source Credit
+
+*(Added [Pub. L. 96–417, title III, § 301](https://www.govinfo.gov/link/plaw/96/public/417), Oct. 10, 1980, [94 Stat. 1737](https://www.govinfo.gov/link/statute/94/1737); amended [Pub. L. 98–573, title II, § 212(b)(6)](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 2984](https://www.govinfo.gov/link/statute/98/2984); [Pub. L. 100–449, title IV, § 402(b)](https://www.govinfo.gov/link/plaw/100/public/449), Sept. 28, 1988, [102 Stat. 1884](https://www.govinfo.gov/link/statute/102/1884); [Pub. L. 103–182, title IV, § 414(b)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2147](https://www.govinfo.gov/link/statute/107/2147); [Pub. L. 116–113, title IV, § 423(b)](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 66](https://www.govinfo.gov/link/statute/134/66).)*

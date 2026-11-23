@@ -3,9 +3,10 @@ title: "Section 1168 - Railroad security research and development"
 usc_title: 6
 usc_section: "1168"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1168"
-generated_at: "2026-03-30T02:53:09.507Z"
+generated_at: "2026-11-23T21:25:25.873Z"
+status: "active"
 ---
 
 # § 1168. Railroad security research and development
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:53:09.507Z"
     - **(C)** $33,000,000 for fiscal year 2010; and
     - **(D)** $33,000,000 for fiscal year 2011.
   - **(2)** Such sums shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XV, § 1518](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 441](https://www.govinfo.gov/link/statute/121/441).)*

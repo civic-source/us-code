@@ -3,9 +3,10 @@ title: "Section 3017 - Nonmailable skill contests or sweepstakes matter; notific
 usc_title: 39
 usc_section: "3017"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 3017"
-generated_at: "2026-03-30T02:55:43.692Z"
+generated_at: "2026-11-23T21:26:12.781Z"
+status: "active"
 ---
 
 # § 3017. Nonmailable skill contests or sweepstakes matter; notification to prohibit mailings
@@ -60,3 +61,53 @@ generated_at: "2026-03-30T02:55:43.692Z"
     - **(A)** who recklessly mails nonmailable matter in violation of subsection (b) shall be liable to the United States in an amount of $10,000 per violation for each mailing to an individual of nonmailable matter; or
     - **(B)** who fails to comply with the requirements of subsection (c)(2) shall be liable to the United States.
   - **(2)** The Postal Service shall, in accordance with the same procedures as set forth in section 3012(b), provide for the assessment of civil penalties under this section.
+
+Definitions
+
+Nonmailable Matter.—
+
+In general
+
+Nonmailable matter described
+
+Requirements of Promoters.—
+
+Notice to individuals
+
+Notification system
+
+Election To Be Excluded From Lists.—
+
+In general
+
+Response after submitting removal request to the notification system
+
+Effectiveness of election
+
+Private Right of Action.—
+
+In general
+
+Action allowable based on other sufficient notice
+
+Promoter Nonliability
+
+Prohibition on Commercial Use of Lists.—
+
+In general.—
+
+Prohibition
+
+Lists
+
+Civil penalty
+
+Civil Penalties.—
+
+In general
+
+Enforcement
+
+## Source Credit
+
+*(Added [Pub. L. 106–168, title I, § 108(a)](https://www.govinfo.gov/link/plaw/106/public/168), Dec. 12, 1999, [113 Stat. 1814](https://www.govinfo.gov/link/statute/113/1814).)*

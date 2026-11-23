@@ -3,9 +3,10 @@ title: "Section 1295 - Grants to States"
 usc_title: 30
 usc_section: "1295"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1295"
-generated_at: "2026-03-30T02:55:29.403Z"
+generated_at: "2026-11-23T21:26:00.432Z"
+status: "active"
 ---
 
 # § 1295. Grants to States
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:29.403Z"
   - **(1)** technical assistance and training including provision of necessary curricular and instruction materials, in the development, administration, and enforcement of the State programs; and
   - **(2)** assistance in preparing and maintaining a continuing inventory of information on surface coal mining and reclamation operations for each State for the purposes of evaluating the effectiveness of the State programs. Such assistance shall include all Federal departments and agencies making available data relevant to surface coal mining and reclamation operations and to the development, administration, and enforcement of State programs concerning such operations.
 - **(c)** If, in accordance with section 1273(d) of this title , a State elects to regulate surface coal mining and reclamation operations on Federal lands, the Secretary may increase the amount of the annual grants under subsection (a) of this section by an amount which he determines is approximately equal to the amount the Federal Government would have expended for such regulation if the State had not made such election.
+
+## Source Credit
+
+*([Pub. L. 95–87, title VII, § 705](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 520](https://www.govinfo.gov/link/statute/91/520).)*

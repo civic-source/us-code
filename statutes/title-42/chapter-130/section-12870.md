@@ -3,9 +3,10 @@ title: "Section 12870 - Authorization of appropriations"
 usc_title: 42
 usc_section: "12870"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12870"
-generated_at: "2026-03-30T02:56:11.433Z"
+generated_at: "2026-11-23T21:26:33.564Z"
+status: "active"
 ---
 
 # § 12870. Authorization of appropriations
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.433Z"
   - **(2)** $294,547,000 shall be available for activities authorized under part A, up to $3,250,000 of which may be made available for technical assistance to potential applicants, applicants and recipients of assistance under this 2 part; and
   - **(3)** $294,547,000 shall be available for activities under part B, up to $2,250,000 of which may be made available for technical assistance to potential applicants, applicants and recipients of assistance under this 2 part.
 - **(c)** Technical assistance made available under title III of the United States Housing Act of 1937 [ 42 U.S.C. 1437aaa et seq.] or part A or part B of this subchapter may include, but shall not be limited to, training, clearinghouse services, the collection, processing and dissemination of program information useful for local and national program management, and provision of seed money. Such technical assistance may be made available directly, or indirectly under contracts and grants, as appropriate. In any fiscal year, no single applicant, potential applicant, or recipient under title III of the United States Housing Act of 1937, or part A or part B of this subchapter may receive technical assistance in an amount exceeding 20 percent of the total amount made available for technical assistance under such title or part for the fiscal year.
+
+## Source Credit
+
+*([Pub. L. 101–625, title IV, § 402](https://www.govinfo.gov/link/plaw/101/public/625), as added [Pub. L. 102–550, title I, § 181(a)(1)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3734](https://www.govinfo.gov/link/statute/106/3734); amended [Pub. L. 109–281, § 2(d)(3)](https://www.govinfo.gov/link/plaw/109/public/281), Sept. 22, 2006, [120 Stat. 1181](https://www.govinfo.gov/link/statute/120/1181).)*

@@ -3,12 +3,17 @@ title: "Section 1 - Number of justices; quorum"
 usc_title: 28
 usc_section: "1"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1"
-generated_at: "2026-03-30T02:55:30.121Z"
+generated_at: "2026-11-23T21:26:01.003Z"
+status: "active"
 ---
 
 # § 1. Number of justices; quorum
 
 The Supreme Court of the United States shall consist of a Chief Justice of the United States and eight associate justices, any six of whom shall constitute a quorum.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 869](https://www.govinfo.gov/link/statute/62/869).)*

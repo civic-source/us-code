@@ -3,9 +3,10 @@ title: "Section 5801 - Findings and purpose"
 usc_title: 12
 usc_section: "5801"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5801"
-generated_at: "2026-03-30T02:53:53.550Z"
+generated_at: "2026-11-23T21:25:37.304Z"
+status: "active"
 ---
 
 # § 5801. Findings and purpose
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:53.550Z"
   - **(2)** to preclude litigation related to existing contracts the terms of which do not provide for the use of a clearly defined or practicable replacement benchmark rate;
   - **(3)** to allow existing contracts that reference LIBOR but provide for the use of a clearly defined and practicable replacement rate, to operate according to their terms; and
   - **(4)** to address LIBOR references in Federal law.
+
+## Source Credit
+
+*([Pub. L. 117–103, div. U, § 102](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 825](https://www.govinfo.gov/link/statute/136/825).)*

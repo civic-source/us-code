@@ -3,9 +3,10 @@ title: "Section 4808 - Revising regulatory requirements for transfers of all typ
 usc_title: 12
 usc_section: "4808"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4808"
-generated_at: "2026-03-30T02:53:53.519Z"
+generated_at: "2026-11-23T21:25:37.222Z"
+status: "active"
 ---
 
 # § 4808. Revising regulatory requirements for transfers of all types of assets with recourse
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:53.519Z"
   - **(2)** The appropriate Federal banking agency may require any insured depository institution to maintain risk-based capital in an amount greater than the amount determined under paragraph (1), if the agency determines, by regulation or order, that such higher amount is necessary for safety and soundness reasons.
 - **(c)** This section shall not be construed as superseding the applicability of section 1835(b) of this title .
 - **(d)** For purposes of this section, the terms “appropriate Federal banking agency”, “Federal banking agency”, and “insured depository institution” have the same meanings as in section 1813 of this title .
+
+## Source Credit
+
+*([Pub. L. 103–325, title III, § 350](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2242](https://www.govinfo.gov/link/statute/108/2242).)*

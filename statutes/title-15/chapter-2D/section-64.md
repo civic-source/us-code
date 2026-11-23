@@ -3,12 +3,17 @@ title: "Section 64 - Preventing compliance with subchapter; liability of control
 usc_title: 15
 usc_section: "64"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 64"
-generated_at: "2026-03-30T02:54:08.071Z"
+generated_at: "2026-11-23T21:25:39.599Z"
+status: "active"
 ---
 
 # § 80a–64. Preventing compliance with subchapter; liability of controlling persons
 
 Notwithstanding the exemption set forth in section 80a–6(f) of this title , section 80a–47 of this title shall apply to a business development company to the same extent as if it were a registered closed-end investment company, except that the provisions of section 80a–47(a) of this title shall not be construed to require any company which is not an investment company within the meaning of section 80a–3(a) of this title to comply with the provisions of this subchapter which are applicable to a business development company solely because such company is a wholly-owned subsidiary of, or directly or indirectly controlled by, a business development company.
 
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title I, § 65, as added [Pub. L. 96–477, title I, § 105](https://www.govinfo.gov/link/plaw/96/public/477), Oct. 21, 1980, [94 Stat. 2289](https://www.govinfo.gov/link/statute/94/2289).)*

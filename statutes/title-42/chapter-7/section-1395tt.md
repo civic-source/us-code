@@ -3,9 +3,10 @@ title: "Section 1395tt - Hospital providers of extended care services"
 usc_title: 42
 usc_section: "1395tt"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1395tt"
-generated_at: "2026-03-30T02:56:11.013Z"
+generated_at: "2026-11-23T21:26:31.691Z"
+status: "active"
 ---
 
 # § 1395tt. Hospital providers of extended care services
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.013Z"
 - **(e)** During a period for which a hospital has in effect an agreement under this section, in order to allocate routine costs between hospital and long-term care services for purposes of determining payment for inpatient hospital services, the total reimbursement due for routine services from all classes of long-term care patients (including this subchapter, subchapter XIX, and private pay patients) shall be subtracted from the hospital’s total routine costs before calculations are made to determine this subchapter reimbursement for routine hospital services.
 - **(f)** A hospital which enters into an agreement with the Secretary under this section shall be required to meet those conditions applicable to skilled nursing facilities relating to discharge planning and the social services function (and staffing requirements to satisfy it) which are promulgated by the Secretary under section 1395i–3 of this title . Services furnished by such a hospital which would otherwise constitute post-hospital extended care services if furnished by a skilled nursing facility shall be subject to the same requirements applicable to such services when furnished by a skilled nursing facility except for those requirements the Secretary determines are inappropriate in the case of these services being furnished by a hospital under this section.
 - **(g)** The Secretary may enter into an agreement under this section on a demonstration basis with any hospital which does not meet the requirement of subsection (b)(1), if the hospital otherwise meets the requirements of this section.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1883, as added [Pub. L. 96–499, title IX, § 904(a)(1)](https://www.govinfo.gov/link/plaw/96/public/499), Dec. 5, 1980, [94 Stat. 2615](https://www.govinfo.gov/link/statute/94/2615); amended [Pub. L. 100–203, title IV](https://www.govinfo.gov/link/plaw/100/public/203), §§ 4005(b)(1), (2), 4201(d)(3), Dec. 22, 1987, [101 Stat. 1330–48](https://www.govinfo.gov/link/statute/101/1330), as amended [Pub. L. 100–360, title IV, § 411](https://www.govinfo.gov/link/plaw/100/public/360) (l)(1)(C), July 1, 1988, as added [Pub. L. 100–485, title VI, § 608(d)(27)(B)](https://www.govinfo.gov/link/plaw/100/public/485), Oct. 13, 1988, [102 Stat. 2422](https://www.govinfo.gov/link/statute/102/2422); [Pub. L. 100–360, title I, § 104(d)(6)](https://www.govinfo.gov/link/plaw/100/public/360), title IV, § 411(b)(4)(D), July 1, 1988, [102 Stat. 689](https://www.govinfo.gov/link/statute/102/689), 770; [Pub. L. 101–234, title I, § 101(a)](https://www.govinfo.gov/link/plaw/101/public/234), Dec. 13, 1989, [103 Stat. 1979](https://www.govinfo.gov/link/statute/103/1979); [Pub. L. 101–508, title IV, § 4008(j)(1)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–51](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 105–33, title IV, § 4432(b)(5)(G)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 422](https://www.govinfo.gov/link/statute/111/422); [Pub. L. 106–113, div. B, § 1000(a)(6) [title IV, §§ 403(f), 408(a), (b)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–371, 1501A–375; [Pub. L. 106–554, § 1(a)(6) [title II, § 203(b)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–482; [Pub. L. 108–173, title IV, § 405(a)(1)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2266](https://www.govinfo.gov/link/statute/117/2266).)*

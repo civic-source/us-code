@@ -3,9 +3,10 @@ title: "Section 3352b - Improving the process for security clearances"
 usc_title: 50
 usc_section: "3352b"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3352b"
-generated_at: "2026-03-30T02:56:26.247Z"
+generated_at: "2026-11-23T21:26:39.041Z"
+status: "active"
 ---
 
 # § 3352b. Improving the process for security clearances
@@ -42,3 +43,11 @@ generated_at: "2026-03-30T02:56:26.247Z"
   - **(4)** A policy and implementation plan for agencies and departments of the United States, as a part of the security clearance process, to accept automated records checks generated pursuant to a security clearance applicant’s employment with a prior employer.
   - **(5)** A policy for the use of certain background information on individuals collected by the private sector for background investigation purposes.
   - **(6)** Uniform standards for agency continuous vetting programs to ensure quality and reciprocity in accepting enrollment in a continuous vetting program as a substitute for a periodic investigation for continued access to classified information.
+
+Definition of Security Executive Agent
+
+Policy Required
+
+## Source Credit
+
+*([Pub. L. 116–92, div. E, title LXVI, § 6603](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2211](https://www.govinfo.gov/link/statute/133/2211).)*

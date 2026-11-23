@@ -3,9 +3,10 @@ title: "Section 4337 - Transfer of funds by Chairman of Senate Committee on Appr
 usc_title: 2
 usc_section: "4337"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 4337"
-generated_at: "2026-03-30T02:53:04.830Z"
+generated_at: "2026-11-23T21:25:21.300Z"
+status: "active"
 ---
 
 # § 4337. Transfer of funds by Chairman of Senate Committee on Appropriations
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:04.830Z"
   - **(1)** available for expenditure by such committee in like manner and for the same purposes as are other moneys which are available for expenditure by such committee from the account to which the funds were transferred; and
   - **(2)** made at such time or times as the Chairman shall specify in writing to the Senate Disbursing Office.
 - **(c)** This section shall take effect on October 1, 1998 , and shall be effective with respect to fiscal years beginning on or after that date.
+
+## Source Credit
+
+*([Pub. L. 105–275, title I, § 11](https://www.govinfo.gov/link/plaw/105/public/275), Oct. 21, 1998, [112 Stat. 2435](https://www.govinfo.gov/link/statute/112/2435).)*

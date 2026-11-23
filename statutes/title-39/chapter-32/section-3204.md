@@ -3,9 +3,10 @@ title: "Section 3204 - Restrictions on use of penalty mail"
 usc_title: 39
 usc_section: "3204"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 3204"
-generated_at: "2026-03-30T02:55:43.692Z"
+generated_at: "2026-11-23T21:26:12.783Z"
+status: "active"
 ---
 
 # § 3204. Restrictions on use of penalty mail
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:43.692Z"
   - **(6)** lists of public documents offered for sale by the Superintendent of Documents;
   - **(7)** announcements of the publication of maps, atlases, and statistical and other reports offered for sale by the Federal Power Commission as authorized by section 825k of title 16 ; or
   - **(8)** articles or documents to educational institutions or public libraries, or to Federal, State, or other public authorities.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 752](https://www.govinfo.gov/link/statute/84/752); [Pub. L. 99–87, § 1(c)(1)](https://www.govinfo.gov/link/plaw/99/public/87), Aug. 9, 1985, [99 Stat. 291](https://www.govinfo.gov/link/statute/99/291).)*

@@ -3,9 +3,10 @@ title: "Section 2605 - Cultural Property Advisory Committee"
 usc_title: 19
 usc_section: "2605"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2605"
-generated_at: "2026-03-30T02:54:24.681Z"
+generated_at: "2026-11-23T21:25:42.820Z"
+status: "active"
 ---
 
 # § 2605. Cultural Property Advisory Committee
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:54:24.681Z"
     - **(C)** the Committee established under this chapter.
   - **(2)** Information submitted in confidence by officers or employees of the United States to the Committee shall not be disclosed other than in accordance with rules issued by the Director of the United States Information Agency, after consultation with the Committee. Such rules shall define the categories of information which require restricted or confidential handling by such Committee considering the extent to which public disclosure of such information can reasonably be expected to prejudice the interests of the United States. Such rules shall, to the maximum extent feasible, permit meaningful consultations by Committee members with persons affected by proposed agreements authorized by this chapter.
 - **(j)** Nothing contained in this section shall be construed to authorize or to permit any individual (not otherwise authorized or permitted) to participate directly in any negotiation of any agreement authorized by this chapter.
+
+## Source Credit
+
+*([Pub. L. 97–446, title III, § 306](https://www.govinfo.gov/link/plaw/97/public/446), Jan. 12, 1983, [96 Stat. 2356](https://www.govinfo.gov/link/statute/96/2356); [Pub. L. 100–204, title III, § 307(a)](https://www.govinfo.gov/link/plaw/100/public/204), (b), Dec. 22, 1987, [101 Stat. 1380](https://www.govinfo.gov/link/statute/101/1380); [Pub. L. 117–286, § 4(a)(140)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4321](https://www.govinfo.gov/link/statute/136/4321).)*

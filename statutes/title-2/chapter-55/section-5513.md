@@ -3,9 +3,10 @@ title: "Section 5513 - House of Representatives Modernization Initiatives Accoun
 usc_title: 2
 usc_section: "5513"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 5513"
-generated_at: "2026-03-30T02:53:04.837Z"
+generated_at: "2026-11-23T21:25:21.332Z"
+status: "active"
 ---
 
 # § 5513. House of Representatives Modernization Initiatives Account
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.837Z"
 - **(c)** Funds in the Account are available without fiscal year limitation.
 - **(d)**
 - **(e)** This section and the amendments made by this section shall apply with respect to fiscal year 2021 and each succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. I, title I, § 115](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 1637](https://www.govinfo.gov/link/statute/134/1637).)*

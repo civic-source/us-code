@@ -3,12 +3,17 @@ title: "Section 102 - Military departments"
 usc_title: 5
 usc_section: "102"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 102"
-generated_at: "2026-03-30T02:52:55.978Z"
+generated_at: "2026-11-23T21:25:23.018Z"
+status: "active"
 ---
 
 # § 102. Military departments
 
 The military departments are: The Department of the Army. The Department of the Navy. The Department of the Air Force.
 
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 378](https://www.govinfo.gov/link/statute/80/378).)*

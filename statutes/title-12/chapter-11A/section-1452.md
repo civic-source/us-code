@@ -3,9 +3,10 @@ title: "Section 1452 - Federal Home Loan Mortgage Corporation"
 usc_title: 12
 usc_section: "1452"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1452"
-generated_at: "2026-03-30T02:53:53.394Z"
+generated_at: "2026-11-23T21:25:36.831Z"
+status: "active"
 ---
 
 # § 1452. Federal Home Loan Mortgage Corporation
@@ -30,3 +31,17 @@ generated_at: "2026-03-30T02:53:53.394Z"
   - **(2)** Notwithstanding the first sentence of subsection (c), after October 28, 1992 , the Corporation may not enter into any agreement or contract to provide any payment of money or other thing of current or potential value in connection with the termination of employment of any executive officer of the Corporation, unless such agreement or contract is approved in advance by the Director of the Federal Housing Finance Agency. The Director may not approve any such agreement or contract unless the Director determines that the benefits provided under the agreement or contract are comparable to benefits under such agreements for officers of other public and private entities involved in financial services and housing interests who have comparable duties and responsibilities. For purposes of this paragraph, any renegotiation, amendment, or change after October 28, 1992 , to any such agreement or contract entered into on or before October 28, 1992 , shall be considered entering into an agreement or contract.
   - **(3)** For purposes of this subsection, the term “executive officer” has the meaning given the term in section 4502 of this title .
   - **(4)** Notwithstanding any other provision of this section, the Corporation shall not transfer, disburse, or pay compensation to any executive officer, or enter into an agreement with such executive officer, without the approval of the Director, for matters being reviewed under section 4518 of this title .
+
+Interim board.—
+
+Establishment
+
+Members
+
+Quorum
+
+Election of permanent directors
+
+## Source Credit
+
+*([Pub. L. 91–351, title III, § 303](https://www.govinfo.gov/link/plaw/91/public/351), July 24, 1970, [84 Stat. 452](https://www.govinfo.gov/link/statute/84/452); [Pub. L. 96–153, title III, § 316(b)](https://www.govinfo.gov/link/plaw/96/public/153), Dec. 21, 1979, [93 Stat. 1118](https://www.govinfo.gov/link/statute/93/1118); [Pub. L. 98–369, div. A, title I, § 177(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 709](https://www.govinfo.gov/link/statute/98/709); [Pub. L. 101–73, title VII, § 731(b)(1)](https://www.govinfo.gov/link/plaw/101/public/73), (c), Aug. 9, 1989, [103 Stat. 429](https://www.govinfo.gov/link/statute/103/429), 431; [Pub. L. 102–550, title XIII, § 1382(c)(1)](https://www.govinfo.gov/link/plaw/102/public/550), (d)–(h), Oct. 28, 1992, [106 Stat. 4002–4004](https://www.govinfo.gov/link/statute/106/4002); [Pub. L. 110–289, div. A, title I](https://www.govinfo.gov/link/plaw/110/public/289), §§ 1113(b)(2), 1153(b)(3), 1161(c)(1), 1162(b)(1), July 30, 2008, [122 Stat. 2678](https://www.govinfo.gov/link/statute/122/2678), 2775, 2780, 2781.)*

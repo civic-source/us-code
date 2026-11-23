@@ -3,9 +3,10 @@ title: "Section 401 - Definitions"
 usc_title: 9
 usc_section: "401"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "9 U.S.C. § 401"
-generated_at: "2026-03-30T02:53:06.639Z"
+generated_at: "2026-11-23T21:25:24.639Z"
+status: "active"
 ---
 
 # § 401. Definitions
@@ -16,3 +17,15 @@ In this chapter:
   - **(2)** The term “predispute joint-action waiver” means an agreement, whether or not part of a predispute arbitration agreement, that would prohibit, or waive the right of, one of the parties to the agreement to participate in a joint, class, or collective action in a judicial, arbitral, administrative, or other forum, concerning a dispute that has not yet arisen at the time of the making of the agreement.
   - **(3)** The term “sexual assault dispute” means a dispute involving a nonconsensual sexual act or sexual contact, as such terms are defined in section 2246 of title 18 or similar applicable Tribal or State law, including when the victim lacks capacity to consent.
   - **(4)** The term “sexual harassment dispute” means a dispute relating to conduct that is alleged to constitute sexual harassment under applicable Federal, Tribal, or State law.
+
+Predispute arbitration agreement
+
+Predispute joint-action waiver
+
+Sexual assault dispute
+
+Sexual harassment dispute
+
+## Source Credit
+
+*(Added [Pub. L. 117–90, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/90), Mar. 3, 2022, [136 Stat. 26](https://www.govinfo.gov/link/statute/136/26).)*

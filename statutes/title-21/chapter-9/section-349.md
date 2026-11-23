@@ -3,9 +3,10 @@ title: "Section 349 - Bottled drinking water standards; publication in Federal R
 usc_title: 21
 usc_section: "349"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 349"
-generated_at: "2026-03-30T02:54:54.225Z"
+generated_at: "2026-11-23T21:25:55.997Z"
+status: "active"
 ---
 
 # § 349. Bottled drinking water standards; publication in Federal Register
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:54.225Z"
     - **(B)** In the case of a national primary drinking water regulation that pursuant to subparagraph (A) is considered to be a standard of quality regulation, the Secretary shall, not later than the applicable date referred to in such subparagraph, publish in the Federal Register a notice—
       - **(i)** specifying the contents of such regulation, including monitoring requirements; and
       - **(ii)** providing that for purposes of this paragraph the effective date for such regulation is the same as the effective date for the regulation for purposes of the Safe Drinking Water Act [ 42 U.S.C. 300f et seq.] (or, if the exception under paragraph (1) applies to the regulation, that the effective date for the regulation is not later than 2 years and 180 days after August 6, 1996 ).
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 410, as added [Pub. L. 93–523, § 4](https://www.govinfo.gov/link/plaw/93/public/523), Dec. 16, 1974, [88 Stat. 1694](https://www.govinfo.gov/link/statute/88/1694); amended [Pub. L. 104–182, title III, § 305](https://www.govinfo.gov/link/plaw/104/public/182), Aug. 6, 1996, [110 Stat. 1684](https://www.govinfo.gov/link/statute/110/1684).)*

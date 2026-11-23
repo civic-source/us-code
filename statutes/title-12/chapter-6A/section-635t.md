@@ -3,9 +3,10 @@ title: "Section 635t - Definitions"
 usc_title: 12
 usc_section: "635t"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 635t"
-generated_at: "2026-03-30T02:53:53.389Z"
+generated_at: "2026-11-23T21:25:36.816Z"
+status: "active"
 ---
 
 # § 635t. Definitions
@@ -22,3 +23,7 @@ For purposes of this subchapter—
   - **(4)** the term “blending of financings” means the use of various combinations of official development assistance, official export credit, and private commercial credit, integrated into a single package with a single set of financial terms, to finance exports;
   - **(5)** the term “parallel financing” means the related use of various combinations of separate lines of official development assistance, official export credits, and private commercial credit, not combined into a single package with a single set of financial terms, to finance exports; and
   - **(6)** the term “Bank” means the Export-Import Bank of the United States.
+
+## Source Credit
+
+*([Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title VI, § 647], Nov. 30, 1983, [97 Stat. 1265](https://www.govinfo.gov/link/statute/97/1265).)*

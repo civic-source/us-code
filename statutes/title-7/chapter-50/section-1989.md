@@ -3,9 +3,10 @@ title: "Section 1989 - Rules and regulations"
 usc_title: 7
 usc_section: "1989"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1989"
-generated_at: "2026-03-30T02:53:42.352Z"
+generated_at: "2026-11-23T21:25:28.218Z"
+status: "active"
 ---
 
 # § 1989. Rules and regulations
@@ -38,3 +39,11 @@ generated_at: "2026-03-30T02:53:42.352Z"
     - **(B)** permit certified lending institutions to make all decisions, with respect to loans to be guaranteed by the Secretary under this subsection relating to credit worthiness, the closing, monitoring, collection and liquidation of loans, and to accept appropriate certifications, as provided by regulations issued by the Secretary, that the borrower is in compliance with all requirements of law or regulations promulgated by the Secretary; and
     - **(C)** be deemed to have guaranteed 80 percent of a loan made by a preferred certified lending institution as described in paragraph (1), if the Secretary fails to approve or reject the application of such institution within 14 calendar days after the date that the lending institution presented the application to the Secretary. If the Secretary rejects the application within the 14-day period, the Secretary shall state, in writing, the reasons the application was rejected.
 - **(e)** The Secretary may administer the loan guarantee programs under subsections (c) and (d) through central offices established in States or in multi-State areas.
+
+Interim Regulations
+
+Final Regulations
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 339](https://www.govinfo.gov/link/plaw/87/public/128), Aug. 8, 1961, [75 Stat. 318](https://www.govinfo.gov/link/statute/75/318); [Pub. L. 102–554, § 18](https://www.govinfo.gov/link/plaw/102/public/554), Oct. 28, 1992, [106 Stat. 4155](https://www.govinfo.gov/link/statute/106/4155); [Pub. L. 106–31, title III, § 3019(a)](https://www.govinfo.gov/link/plaw/106/public/31), May 21, 1999, [113 Stat. 99](https://www.govinfo.gov/link/statute/113/99); [Pub. L. 107–171, title V, § 5309](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 346](https://www.govinfo.gov/link/statute/116/346); [Pub. L. 115–334, title V, § 5401(d)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4674](https://www.govinfo.gov/link/statute/132/4674).)*

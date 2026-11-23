@@ -3,9 +3,10 @@ title: "Section 2267b - Post-disaster watershed assessments"
 usc_title: 33
 usc_section: "2267b"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2267b"
-generated_at: "2026-03-30T02:55:41.117Z"
+generated_at: "2026-11-23T21:26:11.432Z"
+status: "active"
 ---
 
 # § 2267b. Post-disaster watershed assessments
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:41.117Z"
 - **(e)**
   - **(1)** For any major disaster declared in a territory of the United States before October 23, 2018 , all activities in the territory carried out or undertaken pursuant to the authorities described in this section shall be conducted at full Federal expense unless the President determines that the territory has the ability to pay the cost share for an assessment under this section without the use of loans.
   - **(2)** In this subsection, the term “territory of the United States” means an insular area specified in section 2310(a)(1) of this title .
+
+## Source Credit
+
+*([Pub. L. 113–121, title III, § 3025](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1303](https://www.govinfo.gov/link/statute/128/1303); [Pub. L. 115–270, title I, § 1139](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3784](https://www.govinfo.gov/link/statute/132/3784).)*

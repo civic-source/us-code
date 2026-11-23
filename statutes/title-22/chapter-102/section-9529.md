@@ -3,9 +3,10 @@ title: "Section 9529 - Sanctions described"
 usc_title: 22
 usc_section: "9529"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9529"
-generated_at: "2026-03-30T02:55:05.467Z"
+generated_at: "2026-11-23T21:25:58.777Z"
+status: "active"
 ---
 
 # § 9529. Sanctions described
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:05.467Z"
   - **(11)** The President may direct the Secretary of State to deny a visa to, and the Secretary of Homeland Security to exclude from the United States, any alien that the President determines is a corporate officer or principal of, or a shareholder with a controlling interest in, the sanctioned person.
   - **(12)** The President may impose on the principal executive officer or officers of the sanctioned person, or on persons performing similar functions and with similar authorities as such officer or officers, any of the sanctions under this subsection.
 - **(b)** In this section, the term “sanctioned person” means a person subject to sanctions under section 9524(a)(2), 9525(b), 9526(a), or 9527(a) of this title.
+
+## Source Credit
+
+*([Pub. L. 115–44, title II, § 235](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 919](https://www.govinfo.gov/link/statute/131/919).)*

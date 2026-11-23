@@ -3,9 +3,10 @@ title: "Section 60101 - Definitions"
 usc_title: 51
 usc_section: "60101"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 60101"
-generated_at: "2026-03-30T02:56:28.711Z"
+generated_at: "2026-11-23T21:26:42.556Z"
+status: "active"
 ---
 
 # § 60101. Definitions
@@ -40,3 +41,52 @@ In this chapter:
     - **(A)** United States Government agencies;
     - **(B)** researchers involved with the United States Global Change Research Program and its international counterpart programs; and
     - **(C)** other researchers and international entities that have signed with the United States Government a cooperative agreement involving the use of Landsat data for noncommercial purposes.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60101 | 15 U.S.C. 5602 . | Pub. L. 102–555, § 3 , Oct. 28, 1992 , 106 Stat. 4164 . |
+
+
+Cost of fulfilling user requests
+
+Data continuity
+
+Data preprocessing
+
+Land remote sensing
+
+Landsat program management
+
+Landsat system
+
+Landsat 6 contractor
+
+Landsat 7
+
+National satellite land remote sensing data archive
+
+Noncommercial purposes
+
+Secretary
+
+Unenhanced data
+
+United states government and its affiliated users
+
+Historical and Revision Notes
+
+60101
+
+15 U.S.C. 5602
+
+Pub. L. 102–555, § 3
+
+Oct. 28, 1992
+
+106 Stat. 4164
+
+“The Congress finds and declares the following:
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3409](https://www.govinfo.gov/link/statute/124/3409).)*

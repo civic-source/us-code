@@ -3,9 +3,10 @@ title: "Section 1466 - Equipment and repairs of vessels"
 usc_title: 19
 usc_section: "1466"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1466"
-generated_at: "2026-03-30T02:54:24.636Z"
+generated_at: "2026-11-23T21:25:42.710Z"
+status: "active"
 ---
 
 # § 1466. Equipment and repairs of vessels
@@ -37,3 +38,344 @@ generated_at: "2026-03-30T02:54:24.636Z"
   - **(2)** the cost of spare repair parts or materials (other than nets or nettings) which the owner or master of the vessel certifies are intended for use aboard a cargo vessel, documented under the laws of the United States and engaged in the foreign or coasting trade, for installation or use on such vessel, as needed, in the United States, at sea, or in a foreign country, but only if duty is paid under appropriate commodity classifications of the Harmonized Tariff Schedule of the United States upon first entry into the United States of each such spare part purchased in, or imported from, a foreign country;
   - **(3)** the cost of spare parts necessarily installed before the first entry into the United States, but only if duty is paid under appropriate commodity classifications of the Harmonized Tariff Schedule of the United States upon first entry into the United States of each such spare part purchased in, or imported from, a foreign country; or
   - **(4)** the cost of equipment, repair parts, and materials that are installed on a vessel documented under the laws of the United States and engaged in the foreign or coasting trade, if the installation is done by members of the regular crew of such vessel while the vessel is on the high seas, in foreign waters, or in a foreign port, and does not involve foreign shipyard repairs by foreign labor.
+
+| Entry Number | Date of Entry |
+| --- | --- |
+| C14–0025455–8 | August 18, 1993 |
+| C14–0025456–6 | August 18, 1993 |
+| C14–0025457–4 | August 18, 1993 |
+| C14–0025473–1 | August 27, 1993 |
+| C14–0025478–0 | September 13, 1993 |
+| C14–0025479–8 | September 13, 1993 |
+| C14–0025480–6 | September 13, 1993 |
+| C14–0025481–4 | September 13, 1993 |
+| C14–0025511–8 | April 16, 1993 |
+| C14–0025533–2 | April 30, 1993 |
+| C14–0025545–6 | May 21, 1993 |
+| C14–0025546–4 | May 21, 1993 |
+| C14–0025547–2 | May 21, 1993 |
+| C14–0025558–9 | June 15, 1993 |
+| C14–0025560–5 | June 15, 1993 |
+| C14–0025574–6 | July 21, 1993 |
+| C14–0025575–3 | July 21, 1993 |
+| C14–0025603–3 | July 23, 1993 |
+| C14–0025604–1 | July 23, 1993 |
+| C14–0025605–8 | July 23, 1993 |
+| C14–0025623–1 | October 25, 1993 |
+| C14–0025624–9 | October 25, 1993 |
+| C14–0025625–6 | October 25, 1993 |
+| C14–0025635–5 | November 8, 1993 |
+| C14–0025636–3 | November 8, 1993 |
+| C14–0025637–1 | November 8, 1993 |
+| C14–0025653–8 | November 30, 1993 |
+| C14–0025654–6 | November 30, 1993 |
+| C14–0025655–3 | November 30, 1993 |
+| C14–0025657–9 | November 30, 1993 |
+| C14–0025679–3 | January 3, 1994 |
+| C14–0025680–1 | January 3, 1994 |
+| C14–0025688–4 | February 14, 1994 |
+| C14–0025689–2 | February 14, 1994 |
+| C14–0025690–0 | February 14, 1994 |
+| C14–0025691–8 | February 14, 1994 |
+| C14–0025692–6 | February 14, 1994 |
+| C14–0026803–8 | January 24, 1994 |
+| C14–0026804–6 | January 24, 1994 |
+| C14–0026805–3 | January 24, 1994 |
+| C14–0026807–9 | January 24, 1994 |
+| C14–0026808–7 | January 24, 1994 |
+| C14–0026809–5 | January 24, 1994 |
+| C14–0026810–3 | January 24, 1994 |
+| C14–0026811–1 | January 24, 1994 |
+| C14–0026826–9 | March 10, 1994 |
+| C14–0026827–7 | March 10, 1994 |
+| C14–0026828–5 | March 10, 1994 |
+| C14–0026829–3 | March 10, 1994 |
+| C14–0026830–1 | March 10, 1994 |
+| C14–0026831–9 | March 10, 1994 |
+| C14–0026832–7 | March 10, 1994 |
+| C14–0026833–5 | March 10, 1994 |
+| C14–0026841–8 | March 31, 1994 |
+| C14–0026843–4 | March 31, 1994 |
+| C14–0026852–5 | May 5, 1994 |
+| C14–0026853–3 | May 5, 1994 |
+| C14–0026854–1 | May 5, 1994 |
+| C14–0026867–3 | May 18, 1994 |
+| C14–0026869–9 | May 18, 1994 |
+| C14–0026874–9 | June 8, 1994 |
+| C14–0026875–6 | June 8, 1994 |
+| C14–0026898–8 | August 2, 1994 |
+| C14–0026899–6 | August 2, 1994 |
+| C14–0040625–7 | October 5, 1994 . |
+
+
+Effective Date
+
+Entries
+
+Numbered entries.—
+
+C14–0025455–8
+
+August 18, 1993
+
+C14–0025456–6
+
+August 18, 1993
+
+C14–0025457–4
+
+August 18, 1993
+
+C14–0025473–1
+
+August 27, 1993
+
+C14–0025478–0
+
+September 13, 1993
+
+C14–0025479–8
+
+September 13, 1993
+
+C14–0025480–6
+
+September 13, 1993
+
+C14–0025481–4
+
+September 13, 1993
+
+C14–0025511–8
+
+April 16, 1993
+
+C14–0025533–2
+
+April 30, 1993
+
+C14–0025545–6
+
+May 21, 1993
+
+C14–0025546–4
+
+May 21, 1993
+
+C14–0025547–2
+
+May 21, 1993
+
+C14–0025558–9
+
+June 15, 1993
+
+C14–0025560–5
+
+June 15, 1993
+
+C14–0025574–6
+
+July 21, 1993
+
+C14–0025575–3
+
+July 21, 1993
+
+C14–0025603–3
+
+July 23, 1993
+
+C14–0025604–1
+
+July 23, 1993
+
+C14–0025605–8
+
+July 23, 1993
+
+C14–0025623–1
+
+October 25, 1993
+
+C14–0025624–9
+
+October 25, 1993
+
+C14–0025625–6
+
+October 25, 1993
+
+C14–0025635–5
+
+November 8, 1993
+
+C14–0025636–3
+
+November 8, 1993
+
+C14–0025637–1
+
+November 8, 1993
+
+C14–0025653–8
+
+November 30, 1993
+
+C14–0025654–6
+
+November 30, 1993
+
+C14–0025655–3
+
+November 30, 1993
+
+C14–0025657–9
+
+November 30, 1993
+
+C14–0025679–3
+
+January 3, 1994
+
+C14–0025680–1
+
+January 3, 1994
+
+C14–0025688–4
+
+February 14, 1994
+
+C14–0025689–2
+
+February 14, 1994
+
+C14–0025690–0
+
+February 14, 1994
+
+C14–0025691–8
+
+February 14, 1994
+
+C14–0025692–6
+
+February 14, 1994
+
+C14–0026803–8
+
+January 24, 1994
+
+C14–0026804–6
+
+January 24, 1994
+
+C14–0026805–3
+
+January 24, 1994
+
+C14–0026807–9
+
+January 24, 1994
+
+C14–0026808–7
+
+January 24, 1994
+
+C14–0026809–5
+
+January 24, 1994
+
+C14–0026810–3
+
+January 24, 1994
+
+C14–0026811–1
+
+January 24, 1994
+
+C14–0026826–9
+
+March 10, 1994
+
+C14–0026827–7
+
+March 10, 1994
+
+C14–0026828–5
+
+March 10, 1994
+
+C14–0026829–3
+
+March 10, 1994
+
+C14–0026830–1
+
+March 10, 1994
+
+C14–0026831–9
+
+March 10, 1994
+
+C14–0026832–7
+
+March 10, 1994
+
+C14–0026833–5
+
+March 10, 1994
+
+C14–0026841–8
+
+March 31, 1994
+
+C14–0026843–4
+
+March 31, 1994
+
+C14–0026852–5
+
+May 5, 1994
+
+C14–0026853–3
+
+May 5, 1994
+
+C14–0026854–1
+
+May 5, 1994
+
+C14–0026867–3
+
+May 18, 1994
+
+C14–0026869–9
+
+May 18, 1994
+
+C14–0026874–9
+
+June 8, 1994
+
+C14–0026875–6
+
+June 8, 1994
+
+C14–0026898–8
+
+August 2, 1994
+
+C14–0026899–6
+
+August 2, 1994
+
+C14–0040625–7
+
+October 5, 1994
+
+Additional entry
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 466, [46 Stat. 719](https://www.govinfo.gov/link/statute/46/719); [Pub. L. 91–654, § 1](https://www.govinfo.gov/link/plaw/91/public/654), Jan. 5, 1971, [84 Stat. 1944](https://www.govinfo.gov/link/statute/84/1944); [Pub. L. 95–410, title II, § 206](https://www.govinfo.gov/link/plaw/95/public/410), Oct. 3, 1978, [92 Stat. 900](https://www.govinfo.gov/link/statute/92/900); [Pub. L. 96–39, title VI, § 601(a)(3)](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 268](https://www.govinfo.gov/link/statute/93/268); [Pub. L. 96–467, § 14(a)(3)(B)](https://www.govinfo.gov/link/plaw/96/public/467), Oct. 17, 1980, [94 Stat. 2225](https://www.govinfo.gov/link/statute/94/2225); [Pub. L. 96–609, title I, § 115(a)](https://www.govinfo.gov/link/plaw/96/public/609), Dec. 28, 1980, [94 Stat. 3558](https://www.govinfo.gov/link/statute/94/3558); [Pub. L. 98–573, title II, § 208](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 2976](https://www.govinfo.gov/link/statute/98/2976); [Pub. L. 100–418, title I, § 1214(h)(4)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1157](https://www.govinfo.gov/link/statute/102/1157); [Pub. L. 101–382, title III, § 484E(a)](https://www.govinfo.gov/link/plaw/101/public/382), Aug. 20, 1990, [104 Stat. 709](https://www.govinfo.gov/link/statute/104/709); [Pub. L. 103–465, title I, § 112(b)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4825](https://www.govinfo.gov/link/statute/108/4825); [Pub. L. 108–429, title I, § 1554(a)](https://www.govinfo.gov/link/plaw/108/public/429), Dec. 3, 2004, [118 Stat. 2578](https://www.govinfo.gov/link/statute/118/2578); [Pub. L. 109–280, title XIV, § 1631(a)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1164](https://www.govinfo.gov/link/statute/120/1164).)*

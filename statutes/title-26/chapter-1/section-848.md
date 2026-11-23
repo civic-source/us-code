@@ -3,9 +3,10 @@ title: "Section 848 - Capitalization of certain policy acquisition expenses"
 usc_title: 26
 usc_section: "848"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 848"
-generated_at: "2026-03-30T02:55:27.732Z"
+generated_at: "2026-11-23T21:26:06.393Z"
+status: "active"
 ---
 
 # § 848. Capitalization of certain policy acquisition expenses
@@ -65,3 +66,11 @@ generated_at: "2026-03-30T02:55:27.732Z"
 - **(h)**
   - **(1)** Except as provided in paragraph (2), the Secretary may provide that a type of insurance contract will be treated as a separate category for purposes of this section (and prescribe a percentage applicable to such category) if the Secretary determines that the deferral of acquisition expenses for such type of contract which would otherwise result under this section is substantially greater than the deferral of acquisition expenses which would have resulted if actual acquisition expenses (including indirect expenses) and the actual useful life for such type of contract had been used.
   - **(2)** If the Secretary exercises his authority with respect to any type of contract under paragraph (1), the Secretary shall adjust the percentage which would otherwise have applied under subsection (c)(1) to the category which includes such type of contract so that the exercise of such authority does not result in a decrease in the amount of revenue received under this chapter by reason of this section for any fiscal year.
+
+In general
+
+Transition rule
+
+## Source Credit
+
+*(Added [Pub. L. 101–508, title XI, § 11301(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–445](https://www.govinfo.gov/link/statute/104/1388); amended [Pub. L. 103–66, title XIII, § 13261(d)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 539](https://www.govinfo.gov/link/statute/107/539); [Pub. L. 104–191, title III, § 301(h)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 2052](https://www.govinfo.gov/link/statute/110/2052); [Pub. L. 106–554, § 1(a)(7) [title II, § 202(a)(5), (b)(10)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–628, 2763A–629; [Pub. L. 108–173, title XII, § 1201(h)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2479](https://www.govinfo.gov/link/statute/117/2479); [Pub. L. 109–280, title VIII, § 844(e)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1013](https://www.govinfo.gov/link/statute/120/1013); [Pub. L. 113–295, div. A, title II, § 221(a)(70)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4048](https://www.govinfo.gov/link/statute/128/4048); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 12001(b)(8)(C), 13517(b)(4), 13519(a), (b), Dec. 22, 2017, [131 Stat. 2093](https://www.govinfo.gov/link/statute/131/2093), 2147, 2148.)*

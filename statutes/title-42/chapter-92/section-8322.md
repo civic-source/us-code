@@ -3,9 +3,10 @@ title: "Section 8322 - Permanent exemptions"
 usc_title: 42
 usc_section: "8322"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8322"
-generated_at: "2026-03-30T02:56:11.341Z"
+generated_at: "2026-11-23T21:26:33.198Z"
+status: "active"
 ---
 
 # § 8322. Permanent exemptions
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.341Z"
 - **(f)** After consideration of a petition (and comments thereon) for an exemption for a powerplant from one or more of the prohibitions of part A, the Secretary may, by order, grant a permanent exemption under this subsection with respect to natural gas or petroleum if he finds that the petitioner has demonstrated that—
   - **(1)** such exemption is necessary to prevent impairment of reliability of service, and
   - **(2)** the petitioner, despite diligent good faith efforts, is not able to make the demonstration necessary to obtain an exemption under subsection (a) or (b) in the time required to prevent such impairment of service.
+
+## Source Credit
+
+*([Pub. L. 95–620, title II, § 212](https://www.govinfo.gov/link/plaw/95/public/620), Nov. 9, 1978, [92 Stat. 3300](https://www.govinfo.gov/link/statute/92/3300); [Pub. L. 100–42, § 1(c)(6)](https://www.govinfo.gov/link/plaw/100/public/42), May 21, 1987, [101 Stat. 312](https://www.govinfo.gov/link/statute/101/312).)*

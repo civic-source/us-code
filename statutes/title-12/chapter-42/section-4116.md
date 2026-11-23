@@ -3,9 +3,10 @@ title: "Section 4116 - Resident homeownership program"
 usc_title: 12
 usc_section: "4116"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4116"
-generated_at: "2026-03-30T02:53:53.501Z"
+generated_at: "2026-11-23T21:25:37.165Z"
+status: "active"
 ---
 
 # § 4116. Resident homeownership program
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:53:53.501Z"
     - **(B)** The Secretary shall have access for the purpose of audit and examination to any books, documents, papers, and records of the resident council that are pertinent to assistance received under this subchapter.
     - **(C)** The Comptroller General of the United States, or any of the duly authorized representatives of the Comptroller General, shall also have access for the purpose of audit and examination to any books, documents, papers, and records of the resident council that are pertinent to assistance received under this subchapter.
   - **(10)** Any entity that assumes a mortgage covering low-income housing in connection with the acquisition of the housing from an owner under this section must comply with any low-income affordability restrictions for the remaining useful life of the housing as determined under section 4112(c) of this title .
+
+## Source Credit
+
+*([Pub. L. 100–242, title II, § 226](https://www.govinfo.gov/link/plaw/100/public/242), as added [Pub. L. 101–625, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4267](https://www.govinfo.gov/link/statute/104/4267); amended [Pub. L. 102–550, title III, § 309](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3765](https://www.govinfo.gov/link/statute/106/3765); [Pub. L. 105–276, title V, § 514(b)(2)(A)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2548](https://www.govinfo.gov/link/statute/112/2548).)*

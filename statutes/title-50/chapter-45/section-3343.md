@@ -3,9 +3,10 @@ title: "Section 3343 - Security clearances; limitations"
 usc_title: 50
 usc_section: "3343"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3343"
-generated_at: "2026-03-30T02:56:26.246Z"
+generated_at: "2026-11-23T21:26:39.039Z"
+status: "active"
 ---
 
 # § 3343. Security clearances; limitations
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:56:26.246Z"
   - **(2)** The guidelines required by paragraph (1) shall—
     - **(A)** include procedures and standards under which a covered person is determined to be mentally incompetent and provide a means to appeal such a determination; and
     - **(B)** require that no negative inference concerning the standards in the guidelines may be raised solely on the basis of seeking mental health counseling.
+
+## Source Credit
+
+*([Pub. L. 108–458, title III, § 3002](https://www.govinfo.gov/link/plaw/108/public/458), as added [Pub. L. 110–181, div. A, title X, § 1072(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 328](https://www.govinfo.gov/link/statute/122/328).)*

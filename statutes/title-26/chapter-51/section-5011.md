@@ -3,9 +3,10 @@ title: "Section 5011 - Income tax credit for average cost of carrying excise tax
 usc_title: 26
 usc_section: "5011"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5011"
-generated_at: "2026-03-30T02:55:27.817Z"
+generated_at: "2026-11-23T21:26:06.690Z"
+status: "active"
 ---
 
 # § 5011. Income tax credit for average cost of carrying excise tax
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:27.817Z"
 - **(d)** For purposes of this section—
   - **(1)** The term “case” means 12 80-proof 750-milliliter bottles.
   - **(2)** The number of cases in any lot of distilled spirits shall be determined by dividing the number of liters in such lot by 9.
+
+## Source Credit
+
+*(Added [Pub. L. 109–59, title XI, § 11126(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1957](https://www.govinfo.gov/link/statute/119/1957).)*

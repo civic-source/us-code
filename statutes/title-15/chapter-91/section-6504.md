@@ -3,9 +3,10 @@ title: "Section 6504 - Actions by States"
 usc_title: 15
 usc_section: "6504"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6504"
-generated_at: "2026-03-30T02:54:08.211Z"
+generated_at: "2026-11-23T21:25:40.024Z"
+status: "active"
 ---
 
 # § 6504. Actions by States
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:08.211Z"
   - **(2)** In an action brought under subsection (a), process may be served in any district in which the defendant—
     - **(A)** is an inhabitant; or
     - **(B)** may be found.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. C, title XIII, § 1305](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–733](https://www.govinfo.gov/link/statute/112/2681).)*

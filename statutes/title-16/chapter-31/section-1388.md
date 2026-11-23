@@ -3,9 +3,10 @@ title: "Section 1388 - Marine mammal cooperative agreements in Alaska"
 usc_title: 16
 usc_section: "1388"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1388"
-generated_at: "2026-03-30T02:54:22.962Z"
+generated_at: "2026-11-23T21:25:51.868Z"
+status: "active"
 ---
 
 # § 1388. Marine mammal cooperative agreements in Alaska
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:22.962Z"
 - **(d)** There are authorized to be appropriated for the purposes of carrying out this section—
   - **(1)** $1,500,000 to the Secretary of Commerce for each of the fiscal years 1994, 1995, 1996, 1997, 1998, and 1999; and
   - **(2)** $1,000,000 to the Secretary of the Interior for each of the fiscal years 1994, 1995, 1996, 1997, 1998, and 1999.
+
+## Source Credit
+
+*([Pub. L. 92–522, title I, § 119](https://www.govinfo.gov/link/plaw/92/public/522), as added [Pub. L. 103–238, § 19](https://www.govinfo.gov/link/plaw/103/public/238), Apr. 30, 1994, [108 Stat. 559](https://www.govinfo.gov/link/statute/108/559).)*

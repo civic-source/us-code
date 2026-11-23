@@ -3,9 +3,10 @@ title: "Section 15883 - Maintaining and enhancing hydroelectricity incentives"
 usc_title: 42
 usc_section: "15883"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15883"
-generated_at: "2026-03-30T02:56:11.461Z"
+generated_at: "2026-11-23T21:26:33.679Z"
+status: "active"
 ---
 
 # § 15883. Maintaining and enhancing hydroelectricity incentives
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:11.461Z"
   - **(1)** Incentive payments under this section shall not exceed 30 percent of the costs of the applicable capital improvement.
   - **(2)** Not more than 1 incentive payment may be made under this section with respect to capital improvements at a single qualified hydroelectric facility in any 1 fiscal year, the amount of which shall not exceed $5,000,000.
 - **(d)** There is authorized to be appropriated to the Secretary to carry out this section $553,600,000 for fiscal year 2022, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 109–58, title II, § 247](https://www.govinfo.gov/link/plaw/109/public/58), as added [Pub. L. 117–58, div. D, title III, § 40333(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1023](https://www.govinfo.gov/link/statute/135/1023).)*

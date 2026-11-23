@@ -3,9 +3,10 @@ title: "Section 2714a - Revocation or denial of passport in case of certain unpa
 usc_title: 22
 usc_section: "2714a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2714a"
-generated_at: "2026-03-30T02:55:05.380Z"
+generated_at: "2026-11-23T21:25:58.535Z"
+status: "active"
 ---
 
 # § 2714a. Revocation or denial of passport in case of certain unpaid taxes
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:55:05.380Z"
 - **(g)** If pursuant to subsection (c) or (e) of section 7345 of title 26 the Secretary of State receives from the Secretary of the Treasury a notice that an individual ceases to have a seriously delinquent tax debt, the Secretary of State shall remove from the individual’s record the certification with respect to such debt.
 - **(h)**
 - **(i)** The provisions of, and amendments made by, this section shall take effect on December 4, 2015 .
+
+## Source Credit
+
+*([Pub. L. 114–94, div. C, title XXXII, § 32101](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1729](https://www.govinfo.gov/link/statute/129/1729).)*

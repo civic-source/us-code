@@ -3,9 +3,10 @@ title: "Section 6382 - Leave requirement"
 usc_title: 5
 usc_section: "6382"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 6382"
-generated_at: "2026-03-30T02:52:56.033Z"
+generated_at: "2026-11-23T21:25:23.330Z"
+status: "active"
 ---
 
 # § 6382. Leave requirement
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:52:56.033Z"
     - **(A)** shall make a reasonable effort to schedule the treatment so as not to disrupt unduly the operations of the employing agency, subject to the approval of the health care provider of the employee or the health care provider of the son, daughter, spouse, parent, or covered servicemember of the employee, as appropriate; and
     - **(B)** shall provide the employing agency with not less than 30 days’ notice, before the date the leave is to begin, of the employee’s intention to take leave under such subparagraph, except that if the date of the treatment requires leave to begin in less than 30 days, the employee shall provide such notice as is practicable.
   - **(3)** In any case in which the necessity for leave under subsection (a)(1)(E) is foreseeable, whether because the spouse, or a son, daughter, or parent, of the employee is on covered active duty, or because of notification of an impending call or order to covered active duty, the employee shall provide such notice to the employer as is reasonable and practicable.
+
+## Source Credit
+
+*(Added [Pub. L. 103–3, title II, § 201(a)(1)](https://www.govinfo.gov/link/plaw/103/public/3), Feb. 5, 1993, [107 Stat. 20](https://www.govinfo.gov/link/statute/107/20); amended [Pub. L. 110–181, div. A, title V, § 585(b)(2)](https://www.govinfo.gov/link/plaw/110/public/181) –(3)(C), Jan. 28, 2008, [122 Stat. 132](https://www.govinfo.gov/link/statute/122/132); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title X, § 1061(b)(2), Oct. 14, 2008, [122 Stat. 4612](https://www.govinfo.gov/link/statute/122/4612); [Pub. L. 111–84, div. A, title V, § 565(b)(1)(B)](https://www.govinfo.gov/link/plaw/111/public/84), (4), Oct. 28, 2009, [123 Stat. 2311](https://www.govinfo.gov/link/statute/123/2311), 2312; [Pub. L. 116–92, div. F, title LXXVI, § 7602(a)](https://www.govinfo.gov/link/plaw/116/public/92), (b), Dec. 20, 2019, [133 Stat. 2304](https://www.govinfo.gov/link/statute/133/2304), 2305; [Pub. L. 116–283, div. A, title XI, § 1103(f)(3)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3889](https://www.govinfo.gov/link/statute/134/3889).)*

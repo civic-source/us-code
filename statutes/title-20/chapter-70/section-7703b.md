@@ -3,9 +3,10 @@ title: "Section 7703b - Assistance to local educational agencies that benefit de
 usc_title: 20
 usc_section: "7703b"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7703b"
-generated_at: "2026-03-30T02:54:48.216Z"
+generated_at: "2026-11-23T21:25:47.601Z"
+status: "active"
 ---
 
 # § 7703b. Assistance to local educational agencies that benefit dependents of members of the Armed Forces and Department of Defense civilian employees
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:54:48.216Z"
     - **(A)** elementary and secondary school students who are dependents of members of the Armed Forces; and
     - **(B)** elementary and secondary school students who are dependents of civilian employees of the Department of Defense.
   - **(4)** The term “State” means each of the 50 States and the District of Columbia.
+
+## Source Credit
+
+*([Pub. L. 109–163, div. A, title V, § 572](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3271](https://www.govinfo.gov/link/statute/119/3271); [Pub. L. 111–84, div. A, title V, § 533](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2292](https://www.govinfo.gov/link/statute/123/2292); [Pub. L. 112–239, div. A, title V, § 561(b)(1)](https://www.govinfo.gov/link/plaw/112/public/239), (c), Jan. 2, 2013, [126 Stat. 1743](https://www.govinfo.gov/link/statute/126/1743), 1744; [Pub. L. 114–95, title IX, § 9215(ccc)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2185](https://www.govinfo.gov/link/statute/129/2185).)*

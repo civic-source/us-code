@@ -3,9 +3,10 @@ title: "Section 10402 - Definitions"
 usc_title: 42
 usc_section: "10402"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10402"
-generated_at: "2026-03-30T02:56:11.387Z"
+generated_at: "2026-11-23T21:26:33.368Z"
+status: "active"
 ---
 
 # § 10402. Definitions
@@ -37,3 +38,7 @@ In this chapter:
     - **(B)** provide counseling, advocacy, or assistance for victims of family violence, domestic violence, or dating violence, and their dependents.
   - **(13)** The term “tribally designated official” means an individual designated by an Indian tribe, tribal organization, or nonprofit private organization authorized by an Indian tribe, to administer a grant under section 10409 of this title .
   - **(14)** The term “underserved populations” has the meaning given the term in section 12291(a) of this title . For the purposes of this chapter, the Secretary has the same authority to determine whether a population is an underserved population as the Attorney General has under that section 12291(a) 1 1 So in original. of this title.
+
+## Source Credit
+
+*([Pub. L. 98–457, title III, § 302](https://www.govinfo.gov/link/plaw/98/public/457), as added [Pub. L. 111–320, title II, § 201](https://www.govinfo.gov/link/plaw/111/public/320), Dec. 20, 2010, [124 Stat. 3484](https://www.govinfo.gov/link/statute/124/3484); amended [Pub. L. 114–95, title IX, § 9215(ii)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2175](https://www.govinfo.gov/link/statute/129/2175).)*

@@ -3,9 +3,10 @@ title: "Section 2198 - Management training program in Japanese language and cult
 usc_title: 10
 usc_section: "2198"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2198"
-generated_at: "2026-03-30T02:53:38.147Z"
+generated_at: "2026-11-23T21:25:32.568Z"
+status: "active"
 ---
 
 # § 2198. Management training program in Japanese language and culture
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:38.147Z"
     - **(B)** to provide opportunities for the encouragement of technology transfer from Japan to the United States.
   - **(3)** Whether an appropriate share of the costs of such activities will be paid out of funds derived from non-Federal Government sources.
 - **(c)** In this section, the term “defense critical technology” means a technology that is identified under section 4816 of this title as critical for attaining the national security objectives set forth in section 4811(a) of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 102–190, div. A, title VIII, § 828(a)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1444](https://www.govinfo.gov/link/statute/105/1444); amended [Pub. L. 103–35, title II, § 201(c)(3)](https://www.govinfo.gov/link/plaw/103/public/35), May 31, 1993, [107 Stat. 98](https://www.govinfo.gov/link/statute/107/98); [Pub. L. 105–85, div. A, title X, § 1073(a)(39)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1902](https://www.govinfo.gov/link/statute/111/1902); [Pub. L. 116–283, div. A, title XVIII, § 1867(e)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4282](https://www.govinfo.gov/link/statute/134/4282).)*

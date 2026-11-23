@@ -3,9 +3,10 @@ title: "Section 102 - Prescription drug benefits"
 usc_title: 42
 usc_section: "102"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 102"
-generated_at: "2026-03-30T02:56:10.981Z"
+generated_at: "2026-11-23T21:26:31.556Z"
+status: "active"
 ---
 
 # § 1395w–102. Prescription drug benefits
@@ -149,7 +150,7 @@ generated_at: "2026-03-30T02:56:10.981Z"
   - **(1)** Except as provided in this subsection, for purposes of this part, the term “covered part D drug” means—
     - **(A)** a drug that may be dispensed only upon a prescription and that is described in subparagraph (A)(i), (A)(ii), or (A)(iii) of section 1396r–8(k)(2) of this title ;
     - **(B)** a biological product described in clauses (i) through (iii) of subparagraph (B) of such section or insulin described in subparagraph (C) of such section and medical supplies associated with the injection of insulin (as defined in regulations of the Secretary); or
-    - **(C)** for the period beginning on December 29, 2022 , and ending on January 30, 2026 , an oral antiviral drug that may be dispensed only upon a prescription and is authorized under section 360bbb–3 of title 21 , on the basis of the declaration published in the Federal Register by the Secretary of Health and Human Services on April 1, 2020 (85 Fed. Reg. 18250 et seq.),
+    - **(C)** for the period beginning on December 29, 2022 , and ending on December 31, 2026 , an oral antiviral drug that may be dispensed only upon a prescription and is authorized under section 360bbb–3 of title 21 , on the basis of the declaration published in the Federal Register by the Secretary of Health and Human Services on April 1, 2020 (85 Fed. Reg. 18250 et seq.),
   - **(2)**
     - **(A)** Such term does not include drugs or classes of drugs, or their medical uses, which may be excluded from coverage or otherwise restricted under section 1396r–8(d)(2) of this title , other than subparagraph (E) of such section (relating to smoking cessation agents), other than subparagraph (I) of such section (relating to barbiturates) if the barbiturate is used in the treatment of epilepsy, cancer, or a chronic mental health disorder, and other than subparagraph (J) of such section (relating to benzodiazepines), or under section 1396r–8(d)(3) of this title , as such sections were in effect on December 8, 2003 . Such term also does not include a drug when used for the treatment of sexual or erectile dysfunction, unless such drug were used to treat a condition, other than sexual or erectile dysfunction, for which the drug has been approved by the Food and Drug Administration.
     - **(B)** A drug prescribed for a part D eligible individual that would otherwise be a covered part D drug under this part shall not be so considered if payment for such drug as so prescribed and dispensed or administered with respect to that individual is available (or would be available but for the application of a deductible) under part A or B for that individual.
@@ -164,3 +165,65 @@ generated_at: "2026-03-30T02:56:10.981Z"
       - **(ii)** in the case of any other covered part D drug, in section 1396r–8(k)(6) of this title .
     - **(B)** On and after January 1, 2010 , subparagraph (A)(i)(II) shall not apply unless the compendia described in section 1396r–8(g)(1)(B)(i)(III) of this title meets 3 3 So in original. Probably should be “meet”. the requirement in the third sentence of section 1395x(t)(2)(B) of this title .
     - **(C)** For purposes of applying subparagraph (A)(ii), the Secretary shall revise the list of compendia described in section 1396r–8(g)(1)(B)(i) of this title as is appropriate for identifying medically accepted indications for drugs. Any such revision shall be done in a manner consistent with the process for revising compendia under section 1395x(t)(2)(B) of this title .
+
+(aa) the applicable gap percentage (specified in clause (ii) for the year); and
+
+(bb) the discount percentage specified in section 1395w–114a(g)(4)(A) of this title for such applicable drugs (or, in the case of each of years 2019 through 2024, 50 percent); or
+
+(aa) the annual out-of-pocket threshold specified in paragraph (4)(B) minus the incurred costs of the enrollee as described in paragraph (4)(C); divided by
+
+(bb) the number of months remaining in the plan year; and
+
+(aa) the sum of any remaining out-of-pocket costs owed by the enrollee from a previous month that have not yet been billed to the enrollee and any additional out-of-pocket costs incurred by the enrollee; divided by
+
+(bb) the number of months remaining in the plan year.
+
+(aa) prior to the beginning of the plan year; or
+
+(bb) in any month during the plan year.
+
+(aa) may not limit the option for an enrollee to make such an election to certain covered part D drugs;
+
+(bb) shall, prior to the plan year, notify prospective enrollees of the option to make such an election in promotional materials;
+
+(cc) shall include information on such option in enrollee educational materials;
+
+(dd) shall have in place a mechanism to notify a pharmacy during the plan year when an enrollee incurs out-of-pocket costs with respect to covered part D drugs that make it likely the enrollee may benefit from making such an election;
+
+(ee) shall provide that a pharmacy, after receiving a notification described in item (dd) with respect to an enrollee, informs the enrollee of such notification;
+
+(ff) shall ensure that such an election by an enrollee has no effect on the amount paid to pharmacies (or the timing of such payments) with respect to covered part D drugs dispensed to the enrollee; and
+
+(gg) shall have in place a financial reconciliation process to correct inaccuracies in payments made by an enrollee under this subparagraph with respect to covered part D drugs during the plan year.
+
+(aa) the election of the enrollee pursuant to clause (i) shall be terminated and the enrollee shall pay the cost-sharing otherwise applicable for any covered part D drugs subsequently dispensed to the enrollee up to the annual out-of-pocket threshold specified in paragraph (4)(B); and
+
+(bb) the PDP sponsor or MA organization may preclude the enrollee from making an election pursuant to clause (i) in a subsequent plan year.
+
+(aa) a copayment of $2 for a generic drug or a preferred drug that is a multiple source drug (as defined in section 1396r–8(k)(7)(A)(i) of this title ) and $5 for any other drug; or
+
+(bb) coinsurance that is equal to 5 percent; and
+
+(aa) the annual percentage increase described in paragraph (7) for the year involved, plus 2 percentage points; or
+
+(bb) the annual percentage increase described in paragraph (6) for the year;
+
+(aa) under section 1395w–114 of this title ;
+
+(bb) under a State Pharmaceutical Assistance Program;
+
+(cc) by the Indian Health Service, an Indian tribe or tribal organization, or an urban Indian organization (as defined in section 1603 of title 25 );
+
+(dd) 2 2 So in original. There are two items (dd). under an AIDS Drug Assistance Program under part B of title XXVI of the Public Health Service Act [ 42 U.S.C. 300ff–21 et seq.]; or
+
+(dd) 2 under section 1395w–115(h) of this title ; or
+
+In general
+
+Application
+
+No effect on subsequent years
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1860D–2, as added [Pub. L. 108–173, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2075](https://www.govinfo.gov/link/statute/117/2075); amended [Pub. L. 109–91, title I, § 103(a)](https://www.govinfo.gov/link/plaw/109/public/91), Oct. 20, 2005, [119 Stat. 2092](https://www.govinfo.gov/link/statute/119/2092); [Pub. L. 109–432, div. B, title II, § 202(b)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2986](https://www.govinfo.gov/link/statute/120/2986); [Pub. L. 110–275, title I](https://www.govinfo.gov/link/plaw/110/public/275), §§ 175(a), 182(a)(1), July 15, 2008, [122 Stat. 2581](https://www.govinfo.gov/link/statute/122/2581), 2583; [Pub. L. 111–148, title III](https://www.govinfo.gov/link/plaw/111/public/148), §§ 3301(c)(1), 3314(a), 3315, Mar. 23, 2010, [124 Stat. 467](https://www.govinfo.gov/link/statute/124/467), 478, 479; [Pub. L. 111–152, title I, § 1101(a)(2)](https://www.govinfo.gov/link/plaw/111/public/152), (b)(3), (d), Mar. 30, 2010, [124 Stat. 1037–1039](https://www.govinfo.gov/link/statute/124/1037); [Pub. L. 115–123, div. E, title XII, § 53116(a)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 306](https://www.govinfo.gov/link/statute/132/306); [Pub. L. 117–169, title I](https://www.govinfo.gov/link/plaw/117/public/169), §§ 11001(b)(1)(D), 11201(a), (e)(1), 11202(a), (b), 11401(a), (c)(2), 11406(a), Aug. 16, 2022, [136 Stat. 1852](https://www.govinfo.gov/link/statute/136/1852), 1877, 1891, 1893, 1895, 1896, 1898, 1902; [Pub. L. 117–328, div. FF, title IV, § 4131](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5918](https://www.govinfo.gov/link/statute/136/5918); [Pub. L. 118–158, div. C, title II, § 3209](https://www.govinfo.gov/link/plaw/118/public/158), Dec. 21, 2024, [138 Stat. 1766](https://www.govinfo.gov/link/statute/138/1766); [Pub. L. 119–4, div. B, title II, § 2209](https://www.govinfo.gov/link/plaw/119/public/4), Mar. 15, 2025, [139 Stat. 44](https://www.govinfo.gov/link/statute/139/44); [Pub. L. 119–37, div. F, title II, § 6211](https://www.govinfo.gov/link/plaw/119/public/37), Nov. 12, 2025, [139 Stat. 634](https://www.govinfo.gov/link/statute/139/634); [Pub. L. 119–75, div. J, title II, § 6217](https://www.govinfo.gov/link/plaw/119/public/75), Feb. 3, 2026, [140 Stat. 655](https://www.govinfo.gov/link/statute/140/655).)*

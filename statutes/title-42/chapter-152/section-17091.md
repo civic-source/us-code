@@ -3,9 +3,10 @@ title: "Section 17091 - Leasing"
 usc_title: 42
 usc_section: "17091"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17091"
-generated_at: "2026-03-30T02:56:11.495Z"
+generated_at: "2026-11-23T21:26:33.762Z"
+status: "active"
 ---
 
 # § 17091. Leasing
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.495Z"
 - **(c)**
   - **(1)** Not later than 3 years after December 19, 2007 , the Federal Acquisition Regulation described in section 1121(b) and (c)(1) of title 41 shall be revised to require Federal officers and employees to comply with this section in leasing buildings.
   - **(2)** The members of the Federal Acquisition Regulatory Council established under section 1302(a) of title 41 shall consult with the Federal Director and the Commercial Director before promulgating regulations to carry out this subsection.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IV, § 435](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1615](https://www.govinfo.gov/link/statute/121/1615); [Pub. L. 114–11, title III, § 301(a)](https://www.govinfo.gov/link/plaw/114/public/11), Apr. 30, 2015, [129 Stat. 189](https://www.govinfo.gov/link/statute/129/189).)*

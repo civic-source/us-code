@@ -3,9 +3,10 @@ title: "Section 8485 - Accessible recreation opportunities"
 usc_title: 16
 usc_section: "8485"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8485"
-generated_at: "2026-03-30T02:54:23.087Z"
+generated_at: "2026-11-23T21:25:52.081Z"
+status: "active"
 ---
 
 # § 8485. Accessible recreation opportunities
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:54:23.087Z"
 - **(g)**
   - **(1)** Not later than 3 years after January 4, 2025 , the Secretary concerned, in coordination with stakeholders and other interested organizations, shall prepare and publish an interim report that lists the accessible recreation opportunities developed under this section during the previous 3 years.
   - **(2)** Not later than 7 years after January 4, 2025 , the Secretary concerned, in coordination with stakeholders and other interested organizations, shall prepare and publish a final report that lists the accessible recreation opportunities developed under this section.
+
+## Source Credit
+
+*([Pub. L. 118–234, title II, § 215](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2884](https://www.govinfo.gov/link/statute/138/2884).)*

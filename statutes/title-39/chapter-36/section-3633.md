@@ -3,9 +3,10 @@ title: "Section 3633 - Provisions applicable to rates for competitive products"
 usc_title: 39
 usc_section: "3633"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 3633"
-generated_at: "2026-03-30T02:55:43.694Z"
+generated_at: "2026-11-23T21:26:12.788Z"
+status: "active"
 ---
 
 # § 3633. Provisions applicable to rates for competitive products
@@ -15,3 +16,11 @@ generated_at: "2026-03-30T02:55:43.694Z"
   - **(2)** ensure that each competitive product covers its costs attributable; and
   - **(3)** ensure that all competitive products collectively cover what the Commission determines to be an appropriate share of the institutional costs of the Postal Service.
 - **(b)** Five years after the date of enactment of this section, and every 5 years thereafter, the Postal Regulatory Commission shall conduct a review to determine whether the institutional costs contribution requirement under subsection (a)(3) should be retained in its current form, modified, or eliminated. In making its determination, the Commission shall consider all relevant circumstances, including the prevailing competitive conditions in the market, and the degree to which any costs are uniquely or disproportionately associated with any competitive products.
+
+In General
+
+Review of Minimum Contribution
+
+## Source Credit
+
+*(Added [Pub. L. 109–435, title II, § 202](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3206](https://www.govinfo.gov/link/statute/120/3206).)*

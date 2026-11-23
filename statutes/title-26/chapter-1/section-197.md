@@ -3,9 +3,10 @@ title: "Section 197 - Amortization of goodwill and certain other intangibles"
 usc_title: 26
 usc_section: "197"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 197"
-generated_at: "2026-03-30T02:55:27.650Z"
+generated_at: "2026-11-23T21:26:06.085Z"
+status: "active"
 ---
 
 # § 197. Amortization of goodwill and certain other intangibles
@@ -106,3 +107,25 @@ generated_at: "2026-03-30T02:55:27.650Z"
     - **(F)** The term “amortizable section 197 intangible” does not include any section 197 intangible acquired in a transaction, one of the principal purposes of which is to avoid the requirement of subsection (c)(1) that the intangible be acquired after the date of the enactment of this section or to avoid the provisions of subparagraph (A).
   - **(10)** In the case of any section 197 intangible which would be tax-exempt use property as defined in subsection (h) of section 168 if such section applied to such intangible, the amortization period under this section shall not be less than 125 percent of the lease term (within the meaning of section 168(i)(3)).
 - **(g)** The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including such regulations as may be appropriate to prevent avoidance of the purposes of this section through related persons or otherwise.
+
+In general
+
+Section 1245
+
+In general
+
+Election to have amendments apply to property acquired after july 25, 1991 .—
+
+In general
+
+Election
+
+Elective binding contract exception.—
+
+In general
+
+Election
+
+## Source Credit
+
+*(Added [Pub. L. 103–66, title XIII, § 13261(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 532](https://www.govinfo.gov/link/statute/107/532); amended [Pub. L. 108–357, title VIII](https://www.govinfo.gov/link/plaw/108/public/357), §§ 847(b)(3), 886(a), Oct. 22, 2004, [118 Stat. 1602](https://www.govinfo.gov/link/statute/118/1602), 1641.)*

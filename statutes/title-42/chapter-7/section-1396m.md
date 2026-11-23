@@ -3,9 +3,10 @@ title: "Section 1396m - Withholding of Federal share of payments for certain med
 usc_title: 42
 usc_section: "1396m"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1396m"
-generated_at: "2026-03-30T02:56:11.043Z"
+generated_at: "2026-11-23T21:26:31.835Z"
+status: "active"
 ---
 
 # § 1396m. Withholding of Federal share of payments for certain medicare providers
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.043Z"
 - **(d)** The Secretary shall by regulation provide procedures for implementation of this section, which procedures shall (1) determine the amount of the Federal payment to which the institution or person would otherwise be entitled under this section which shall be treated as a setoff against overpayments under subchapter XVIII, and (2) assure the restoration to the institution or person of amounts withheld under this section which are ultimately determined to be in excess of overpayments under subchapter XVIII and to which the institution or person would otherwise be entitled under this subchapter.
 - **(e)** The Secretary shall restore to the trust funds established under sections 1395i and 1395t of this title, as appropriate, amounts recovered under this section as setoffs against overpayments under subchapter XVIII.
 - **(f)** Notwithstanding any other provision of this subchapter, an institution or person shall not be entitled to recover from any State any amount in payment for medical care and services under this subchapter which is withheld by the State agency pursuant to an order by the Secretary under subsection (b).
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XIX, § 1914, as added [Pub. L. 96–499, title IX, § 905(d)](https://www.govinfo.gov/link/plaw/96/public/499), Dec. 5, 1980, [94 Stat. 2618](https://www.govinfo.gov/link/statute/94/2618).)*

@@ -3,9 +3,10 @@ title: "Section 3994 - Mining claims"
 usc_title: 50
 usc_section: "3994"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3994"
-generated_at: "2026-03-30T02:56:26.264Z"
+generated_at: "2026-11-23T21:26:39.082Z"
+status: "active"
 ---
 
 # § 3994. Mining claims
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:26.264Z"
 - **(b)** The provisions in section 28 of title 30 that shall not apply under subsection (a) are those which require that on each mining claim located after May 10, 1872 , and until a patent has been issued for such claim, not less than $100 worth of labor shall be performed or improvements made during each year.
 - **(c)** A mining claim or an interest in a claim owned by a servicemember that has been regularly located and recorded shall not be subject to forfeiture for nonperformance of annual assessments during the period of military service and for 180 days thereafter, or for any period of hospitalization or rehabilitation described in subsection (a).
 - **(d)** In order to obtain the protections of this section, the claimant of a mining location shall, before the end of the assessment year in which military service is begun or within 60 days after the end of such assessment year, cause to be filed in the office where the location notice or certificate is recorded a notice communicating the fact of military service and the desire to hold the mining claim under this section.
+
+## Source Credit
+
+*(Oct. 17, 1940, ch. 888, title V, § 504, as added [Pub. L. 108–189, § 1](https://www.govinfo.gov/link/plaw/108/public/189), Dec. 19, 2003, [117 Stat. 2856](https://www.govinfo.gov/link/statute/117/2856).)*

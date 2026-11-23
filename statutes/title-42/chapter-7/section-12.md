@@ -3,9 +3,10 @@ title: "Section 12 - Definitions"
 usc_title: 42
 usc_section: "12"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12"
-generated_at: "2026-03-30T02:56:11.068Z"
+generated_at: "2026-11-23T21:26:31.941Z"
+status: "active"
 ---
 
 # § 1397n–12. Definitions
@@ -23,3 +24,7 @@ In this division:
       - **(ii)** a service provider to deliver the intervention to the target population; and
       - **(iii)** investors to fund the delivery of the intervention.
   - **(6)** The term “State” means each State of the United States, the District of Columbia, each commonwealth, territory or possession of the United States, and each federally recognized Indian tribe.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XX, § 2063, as added [Pub. L. 115–123, div. E, title VIII, § 50802(2)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 282](https://www.govinfo.gov/link/statute/132/282).)*

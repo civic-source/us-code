@@ -3,12 +3,17 @@ title: "Section 4136 - Deductions in making awards"
 usc_title: 50
 usc_section: "4136"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4136"
-generated_at: "2026-03-30T02:56:26.267Z"
+generated_at: "2026-11-23T21:26:39.089Z"
+status: "active"
 ---
 
 # § 4136. Deductions in making awards
 
 - **(a)** In determining the amount of any award there shall be deducted all amounts the claimant has received on account of the same loss or losses with respect to which an award is made under this subchapter.
 - **(b)** Each claim in excess of $10,000 filed under this subchapter by a corporation shall include a statement under oath disclosing the aggregate amount of Federal tax benefits derived by such corporation in any prior taxable year or years resulting from any deduction or deductions claimed for the loss or losses with respect to which such claim is filed. In determining the amount of any award where the allowable loss exceeds $10,000 there shall be deducted an amount equal to the aggregate amount of Federal tax benefits so derived by the claimant. For the purposes of this subsection, such Federal tax benefits shall be the aggregate of the amounts by which the claimant’s taxes for such year or years under chapters 1, 2A, 2B, 2D, and 2E of the Internal Revenue Code of 1939, or subtitle A of the Internal Revenue Code of 1986 [ 26 U.S.C. 1 et seq.] were decreased with respect to such loss or losses. Any payments made on an award reduced by reason of this subsection shall be exempt from Federal income taxes.
+
+## Source Credit
+
+*(July 3, 1948, ch. 826, title II, § 206, as added [Pub. L. 87–846, title I, § 103](https://www.govinfo.gov/link/plaw/87/public/846), Oct. 22, 1962, [76 Stat. 1110](https://www.govinfo.gov/link/statute/76/1110); amended [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095).)*

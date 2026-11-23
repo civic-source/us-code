@@ -3,9 +3,10 @@ title: "Section 55 - Flexible use of funds"
 usc_title: 20
 usc_section: "55"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 55"
-generated_at: "2026-03-30T02:54:48.123Z"
+generated_at: "2026-11-23T21:25:47.142Z"
+status: "active"
 ---
 
 # § 1087–55. Flexible use of funds
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:48.123Z"
       - **(iii)** was prevented from fulfilling the student’s work-study obligation for all or part of such academic year due to such major disaster; and
       - **(iv)** was unable to be reassigned to another work-study job.
     - **(B)** The term “major disaster” has the meaning given such term in section 5122(2) of title 42 .
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 445](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1435](https://www.govinfo.gov/link/statute/100/1435); amended [Pub. L. 102–325, title IV, § 444](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 566](https://www.govinfo.gov/link/statute/106/566); [Pub. L. 105–244, title IV, § 444](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1714](https://www.govinfo.gov/link/statute/112/1714); [Pub. L. 110–315, title IV, § 444](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3259](https://www.govinfo.gov/link/statute/122/3259).)*

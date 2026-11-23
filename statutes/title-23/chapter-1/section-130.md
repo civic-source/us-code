@@ -3,9 +3,10 @@ title: "Section 130 - Railway-highway crossings"
 usc_title: 23
 usc_section: "130"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 130"
-generated_at: "2026-03-30T02:55:12.552Z"
+generated_at: "2026-11-23T21:25:53.875Z"
+status: "active"
 ---
 
 # § 130. Railway-highway crossings
@@ -45,3 +46,79 @@ generated_at: "2026-03-30T02:55:12.552Z"
 - **(l)**
   - **(1)** Not later than 1 year after the date of enactment of the Rail Safety Improvement Act of 2008 or within 6 months of a new crossing becoming operational, whichever occurs later, each State shall report to the Secretary of Transportation current information, including information about warning devices and signage, as specified by the Secretary, concerning each previously unreported public crossing located within its borders.
   - **(2)** On a periodic basis beginning not later than 2 years after the date of enactment of the Rail Safety Improvement Act of 2008 and on or before September 30 of every year thereafter, or as otherwise specified by the Secretary, each State shall report to the Secretary current information, including information about warning devices and signage, as specified by the Secretary, concerning each public crossing located within its borders.
+
+Survey and Schedule of Projects
+
+Funds for Railway-Highway Grade Crossings.—
+
+In general.—
+
+Set aside
+
+Reducing trespassing fatalities and injuries
+
+Obligation availability
+
+Special rule
+
+Apportionment.—
+
+Formula
+
+Minimum apportionment
+
+Federal share
+
+Annual Report.—
+
+In general
+
+Contents
+
+Coordination
+
+Use of Funds for Matching
+
+Incentive Payments for At-Grade Crossing Closures.—
+
+In general
+
+Incentive payments by railroads
+
+Amount of state payment
+
+Use of state payments
+
+Bicycle Safety
+
+Expenditure of Funds
+
+National Crossing Inventory.—
+
+Initial reporting of crossing information
+
+Periodic updating of crossing information
+
+In general
+
+Safety Enforcement.—
+
+Cooperation between federal and state agencies
+
+Report
+
+Federal-State Partnership.—
+
+Statement of policy.—
+
+Hazards to safety
+
+Effective programs
+
+Highway planning
+
+Partnership and oversight
+
+## Source Credit
+
+*([Pub. L. 85–767](https://www.govinfo.gov/link/plaw/85/public/767), Aug. 27, 1958, [72 Stat. 903](https://www.govinfo.gov/link/statute/72/903); [Pub. L. 100–17, title I, § 121(a)](https://www.govinfo.gov/link/plaw/100/public/17), Apr. 2, 1987, [101 Stat. 159](https://www.govinfo.gov/link/statute/101/159); [Pub. L. 104–59, title III, § 325(a)](https://www.govinfo.gov/link/plaw/104/public/59), Nov. 28, 1995, [109 Stat. 591](https://www.govinfo.gov/link/statute/109/591); [Pub. L. 104–205, title III, § 353(b)](https://www.govinfo.gov/link/plaw/104/public/205), Sept. 30, 1996, [110 Stat. 2980](https://www.govinfo.gov/link/statute/110/2980); [Pub. L. 105–178, title I](https://www.govinfo.gov/link/plaw/105/public/178), §§ 1111(d), 1202(d), 1212(a)(2)(A)(i), June 9, 1998, [112 Stat. 146](https://www.govinfo.gov/link/statute/112/146), 170, 193; [Pub. L. 109–59, title I, § 1401(c)](https://www.govinfo.gov/link/plaw/109/public/59), formerly § 1401(d), Aug. 10, 2005, [119 Stat. 1226](https://www.govinfo.gov/link/statute/119/1226), renumbered § 1401(c), [Pub. L. 110–244, title I, § 101(s)(1)](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1577](https://www.govinfo.gov/link/statute/122/1577); [Pub. L. 110–244, title I, § 101](https://www.govinfo.gov/link/plaw/110/public/244) (l), June 6, 2008, [122 Stat. 1575](https://www.govinfo.gov/link/statute/122/1575); [Pub. L. 110–432, div. A, title II, § 204(c)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4871](https://www.govinfo.gov/link/statute/122/4871); [Pub. L. 112–141, div. A, title I, § 1519(c)(5)](https://www.govinfo.gov/link/plaw/112/public/141), formerly § 1519(c)(6), July 6, 2012, [126 Stat. 575](https://www.govinfo.gov/link/statute/126/575), renumbered § 1519(c)(5), [Pub. L. 114–94, div. A, title I, § 1446(d)(5)(B)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1438](https://www.govinfo.gov/link/statute/129/1438); [Pub. L. 114–94, div. A, title I](https://www.govinfo.gov/link/plaw/114/public/94), §§ 1108, 1412, Dec. 4, 2015, [129 Stat. 1338](https://www.govinfo.gov/link/statute/129/1338), 1416; [Pub. L. 117–58, div. A, title I](https://www.govinfo.gov/link/plaw/117/public/58), §§ 11108(a)–(d), 11525(f), div. B, title II, § 22403(c), Nov. 15, 2021, [135 Stat. 461](https://www.govinfo.gov/link/statute/135/461), 607, 736.)*

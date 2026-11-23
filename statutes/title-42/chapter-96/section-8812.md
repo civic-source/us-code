@@ -3,9 +3,10 @@ title: "Section 8812 - Program responsibility and administration and effect on o
 usc_title: 42
 usc_section: "8812"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8812"
-generated_at: "2026-03-30T02:56:11.347Z"
+generated_at: "2026-11-23T21:26:33.216Z"
+status: "active"
 ---
 
 # § 8812. Program responsibility and administration and effect on other programs
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:56:11.347Z"
   - **(3)** The entities or entity designated under paragraph (1) shall coordinate the administration of functions assigned to it under this subsection with any other biomass energy programs within the Department of Agriculture established under other provisions of law.
 - **(f)** The functions under this subchapter which are assigned to the Secretary of Energy and which relate to alcohol production shall be carried out by the Office of Alcohol Fuels.
 - **(g)** For purposes of this subchapter, the quantity of any biomass energy which is the energy equivalent to 15,000,000 gallons of ethanol shall be prescribed jointly by the Secretary of Agriculture and the Secretary of Energy within 30 days after June 30, 1980 .
+
+## Source Credit
+
+*([Pub. L. 96–294, title II, § 212](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 687](https://www.govinfo.gov/link/statute/94/687).)*

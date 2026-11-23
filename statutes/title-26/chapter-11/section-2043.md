@@ -3,9 +3,10 @@ title: "Section 2043 - Transfers for insufficient consideration"
 usc_title: 26
 usc_section: "2043"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 2043"
-generated_at: "2026-03-30T02:55:27.780Z"
+generated_at: "2026-11-23T21:26:06.528Z"
+status: "active"
 ---
 
 # § 2043. Transfers for insufficient consideration
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:27.780Z"
 - **(b)**
   - **(1)** For purposes of this chapter, a relinquishment or promised relinquishment of dower or curtesy, or of a statutory estate created in lieu of dower or curtesy, or of other marital rights in the decedent’s property or estate, shall not be considered to any extent a consideration “in money or money’s worth”.
   - **(2)** For purposes of section 2053 (relating to expenses, indebtedness, and taxes), a transfer of property which satisfies the requirements of paragraph (1) of section 2516 (relating to certain property settlements) shall be considered to be made for an adequate and full consideration in money or money’s worth.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 388; [Pub. L. 98–369, div. A, title IV, § 425(a)(1)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 803](https://www.govinfo.gov/link/statute/98/803).)*

@@ -3,9 +3,10 @@ title: "Section 3002a - Nonmailability of locksmithing devices"
 usc_title: 39
 usc_section: "3002a"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 3002a"
-generated_at: "2026-03-30T02:55:43.691Z"
+generated_at: "2026-11-23T21:26:12.779Z"
+status: "active"
 ---
 
 # § 3002a. Nonmailability of locksmithing devices
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:43.691Z"
   - **(1)** a device or tool (other than a key) designed to manipulate the tumblers in a lock into the unlocked position through the keyway of such lock;
   - **(2)** a device or tool (other than a key or a device or tool under paragraph (1)) designed for the unauthorized opening or bypassing of a lock or similar security device; and
   - **(3)** a device or tool designed for making an impression of a key or similar security device to duplicate such key or device.
+
+## Source Credit
+
+*(Added [Pub. L. 100–690, title VII, § 7090(a)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4409](https://www.govinfo.gov/link/statute/102/4409).)*

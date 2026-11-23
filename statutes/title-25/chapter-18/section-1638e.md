@@ -3,9 +3,10 @@ title: "Section 1638e - Other funding, equipment, and supplies for facilities"
 usc_title: 25
 usc_section: "1638e"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1638e"
-generated_at: "2026-03-30T02:54:52.823Z"
+generated_at: "2026-11-23T21:25:54.624Z"
+status: "active"
 ---
 
 # § 1638e. Other funding, equipment, and supplies for facilities
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:52.823Z"
   - **(1)** The Secretary, acting through the Service, shall establish, by regulation, standards for the planning, design, construction, and operation of health care or sanitation facilities serving Indians under this chapter.
   - **(2)** Notwithstanding any other provision of law, any other applicable regulations of the Department shall apply in carrying out projects using funds transferred under this section.
 - **(d)** In this section, the term “sanitation facility” means a safe and adequate water supply system, sanitary sewage disposal system, or sanitary solid waste system (including all related equipment and support infrastructure).
+
+## Source Credit
+
+*([Pub. L. 94–437, title III, § 311](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

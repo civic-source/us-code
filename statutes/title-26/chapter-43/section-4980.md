@@ -3,9 +3,10 @@ title: "Section 4980 - Tax on reversion of qualified plan assets to employer"
 usc_title: 26
 usc_section: "4980"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4980"
-generated_at: "2026-03-30T02:55:27.813Z"
+generated_at: "2026-11-23T21:26:06.669Z"
+status: "active"
 ---
 
 # § 4980. Tax on reversion of qualified plan assets to employer
@@ -94,3 +95,33 @@ generated_at: "2026-03-30T02:55:27.813Z"
       - **(ii)** a plan of a successor employer may be taken into account.
     - **(E)** For purposes of paragraph (2)(A), all employers treated as 1 employer under section 414(b), (c), (m), or ( o ) shall be treated as 1 employer.
   - **(6)** This subsection shall not apply to an employer who, as of the termination date of the qualified plan, is in bankruptcy liquidation under chapter 7 of title 11 of the United States Code or in similar proceedings under State law.
+
+In General
+
+Exception
+
+In general
+
+Exception
+
+In general
+
+Exception where termination date occurred before january 1, 1986 .—
+
+In general
+
+Election to have amendments apply
+
+Termination date
+
+Transition rule for certain terminations.—
+
+In general
+
+Taxpayers to whom paragraph applies
+
+Special rule for employee stock ownership plans
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XI, § 1132(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2478](https://www.govinfo.gov/link/statute/100/2478); amended [Pub. L. 100–647, title I, § 1011A(f)(1)](https://www.govinfo.gov/link/plaw/100/public/647) –(3), (6), (7), title V, § 5072(a), title VI, § 6069(a), Nov. 10, 1988, [102 Stat. 3478](https://www.govinfo.gov/link/statute/102/3478), 3479, 3681, 3704; [Pub. L. 101–508, title XII](https://www.govinfo.gov/link/plaw/101/public/508), §§ 12001, 12002(a), Nov. 5, 1990, [104 Stat. 1388–562](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 104–188, title I, § 1704(a)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1878](https://www.govinfo.gov/link/statute/110/1878); [Pub. L. 109–280, title IX, § 901(a)(2)(C)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1029](https://www.govinfo.gov/link/statute/120/1029); [Pub. L. 110–458, title I, § 108(i)(3)](https://www.govinfo.gov/link/plaw/110/public/458), Dec. 23, 2008, [122 Stat. 5110](https://www.govinfo.gov/link/statute/122/5110).)*

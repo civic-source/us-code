@@ -3,12 +3,17 @@ title: "Section 6902 - Provisions of special application to transferees"
 usc_title: 26
 usc_section: "6902"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6902"
-generated_at: "2026-03-30T02:55:27.868Z"
+generated_at: "2026-11-23T21:26:06.939Z"
+status: "active"
 ---
 
 # § 6902. Provisions of special application to transferees
 
 - **(a)** In proceedings before the Tax Court the burden of proof shall be upon the Secretary to show that a petitioner is liable as a transferee of property of a taxpayer, but not to show that the taxpayer was liable for the tax.
 - **(b)** Upon application to the Tax Court, a transferee of property of a taxpayer shall be entitled, under rules prescribed by the Tax Court, to a preliminary examination of books, papers, documents, correspondence, and other evidence of the taxpayer or a preceding transferee of the taxpayer’s property, if the transferee making the application is a petitioner before the Tax Court for the redetermination of his liability in respect of the tax (including interest, additional amounts, and additions to the tax provided by law) imposed upon the taxpayer. Upon such application, the Tax Court may require by subpoena, ordered by the Tax Court or any division thereof and signed by a judge, the production of all such books, papers, documents, correspondence, and other evidence within the United States the production of which, in the opinion of the Tax Court or division thereof, is necessary to enable the transferee to ascertain the liability of the taxpayer or preceding transferee and will not result in undue hardship to the taxpayer or preceding transferee. Such examination shall be had at such time and place as may be designated in the subpoena.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 843; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834).)*

@@ -3,9 +3,10 @@ title: "Section 5106 - System of registration administration by Federal agencies
 usc_title: 12
 usc_section: "5106"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5106"
-generated_at: "2026-03-30T02:53:53.523Z"
+generated_at: "2026-11-23T21:25:37.228Z"
+status: "active"
 ---
 
 # § 5106. System of registration administration by Federal agencies
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:53.523Z"
   - **(1)** The Bureau, 1 1 So in original. The comma probably should not appear. and the Bureau of Consumer Financial Protection shall coordinate with the Nationwide Mortgage Licensing System and Registry to establish protocols for assigning a unique identifier to each registered loan originator that will facilitate electronic tracking and uniform identification of, and public access to, the employment history of and publicly adjudicated disciplinary and enforcement actions against loan originators.
   - **(2)** To facilitate the transfer of information required by subsection (a)(2), the Nationwide Mortgage Licensing System and Registry shall coordinate with the Bureau, 1 and the Bureau of Consumer Financial Protection concerning the development and operation, by such System and Registry, of the registration functionality and data requirements for loan originators.
 - **(c)** In establishing the registration procedures under subsection (a) and the protocols for assigning a unique identifier to a registered loan originator, the Bureau shall make such de minimis exceptions as may be appropriate to paragraphs (1)(A) and (2) of section 5103(a) of this title , shall make reasonable efforts to utilize existing information to minimize the burden of registering loan originators, and shall consider methods for automating the process to the greatest extent practicable consistent with the purposes of this chapter.
+
+## Source Credit
+
+*([Pub. L. 110–289, div. A, title V, § 1507](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2817](https://www.govinfo.gov/link/statute/122/2817); [Pub. L. 111–203, title X, § 1100(2)](https://www.govinfo.gov/link/plaw/111/public/203), (5), July 21, 2010, [124 Stat. 2106](https://www.govinfo.gov/link/statute/124/2106).)*

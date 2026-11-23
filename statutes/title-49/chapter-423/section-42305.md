@@ -3,9 +3,10 @@ title: "Section 42305 - Refunds for cancelled or significantly delayed or change
 usc_title: 49
 usc_section: "42305"
 chapter: 423
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 42305"
-generated_at: "2026-03-30T02:56:19.379Z"
+generated_at: "2026-11-23T21:26:40.875Z"
+status: "active"
 ---
 
 # § 42305. Refunds for cancelled or significantly delayed or changed flights
@@ -39,3 +40,27 @@ generated_at: "2026-03-30T02:56:19.379Z"
     - **(A)** a significantly delayed or changed flight or an alternative flight and the flight departs without the passenger; or
     - **(B)** a voucher, credit, or other form of compensation by the date on which the cancelled flight was scheduled to depart or the date that the significantly delayed or changed flight departs.
 - **(g)** An air carrier and a foreign air carrier shall update their passenger notification systems to ensure passengers owed a refund under this section are notified of their right to receive a refund.
+
+In General
+
+Timing of Refund
+
+Alternative to Refund
+
+Significantly Delayed or Changed Flight Defined
+
+Application to Ticket Agents.—
+
+In general
+
+Transfer of funds
+
+Timing and alternatives
+
+Refund
+
+Refund Notification
+
+## Source Credit
+
+*(Added [Pub. L. 118–63, title V, § 503(a)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1188](https://www.govinfo.gov/link/statute/138/1188).)*

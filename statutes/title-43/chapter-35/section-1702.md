@@ -3,9 +3,10 @@ title: "Section 1702 - Definitions"
 usc_title: 43
 usc_section: "1702"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1702"
-generated_at: "2026-03-30T02:55:57.486Z"
+generated_at: "2026-11-23T21:26:19.869Z"
+status: "active"
 ---
 
 # § 1702. Definitions
@@ -33,3 +34,7 @@ Without altering in any way the meaning of the following terms as used in any ot
 - **(n)** The term “Bureau 2 2 So in original. Probably should be followed by closing quotation marks. means the Bureau of Land Management.
 - **(o)** The term “eleven contiguous Western States” means the States of Arizona, California, Colorado, Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington, and Wyoming.
 - **(p)** The term “grazing permit and lease” means any document authorizing use of public lands or lands in National Forests in the eleven contiguous western States for the purpose of grazing domestic livestock.
+
+## Source Credit
+
+*([Pub. L. 94–579, title I, § 103](https://www.govinfo.gov/link/plaw/94/public/579), Oct. 21, 1976, [90 Stat. 2745](https://www.govinfo.gov/link/statute/90/2745).)*

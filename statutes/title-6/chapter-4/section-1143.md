@@ -3,9 +3,10 @@ title: "Section 1143 - Security background checks of covered individuals for pub
 usc_title: 6
 usc_section: "1143"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1143"
-generated_at: "2026-03-30T02:53:09.506Z"
+generated_at: "2026-11-23T21:25:25.869Z"
+status: "active"
 ---
 
 # § 1143. Security background checks of covered individuals for public transportation
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:09.506Z"
 - **(f)** Nothing in this section shall be construed to abridge a public transportation agency’s or a contractor or subcontractor of a public transportation agency’s rights or responsibilities to make adverse employment decisions permitted by other Federal, State, or local laws. Nothing in the 2 2 So in original. Probably should be “this”. section shall be construed to abridge rights and responsibilities of covered individuals, a public transportation agency, or a contractor or subcontractor of a public transportation agency under any other Federal, State, or local laws or collective bargaining agreement.
 - **(g)** Nothing in this section shall be construed to preempt a Federal, State, or local law that requires criminal history background checks, immigration status checks, or other background checks of covered individuals.
 - **(h)** Nothing in this section shall be construed to affect the process for review established under section 70105(c) of title 46 , including regulations issued pursuant to such section.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XIV, § 1414](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 419](https://www.govinfo.gov/link/statute/121/419).)*

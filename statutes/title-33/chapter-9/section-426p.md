@@ -3,9 +3,10 @@ title: "Section 426p - Corps of Engineers"
 usc_title: 33
 usc_section: "426p"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 426p"
-generated_at: "2026-03-30T02:55:41.056Z"
+generated_at: "2026-11-23T21:26:11.303Z"
+status: "active"
 ---
 
 # § 426p. Corps of Engineers
@@ -24,3 +25,27 @@ generated_at: "2026-03-30T02:55:41.056Z"
   - **(2)**
     - **(A)** In issuing permits under sections 403 and 1344 of this title for a project involving dredging of any portion of the Great Lakes, the Secretary of the Army shall, if feasible, encourage for bank stabilization purposes the disposal of nonhazardous compatible sand from such project on shorelines affected by erosion.
     - **(B)** In carrying out subparagraph (A), the Secretary of the Army shall consult affected State and local governments.
+
+In General
+
+Grants
+
+Technical Assistance
+
+State Matching
+
+Authorization
+
+“For purposes of this title [see Short Title note above]—
+
+Director
+
+High water levels
+
+Local government
+
+Great lakes state
+
+## Source Credit
+
+*([Pub. L. 100–707, title II, § 203](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4712](https://www.govinfo.gov/link/statute/102/4712).)*

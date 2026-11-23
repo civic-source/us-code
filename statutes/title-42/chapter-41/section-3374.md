@@ -3,9 +3,10 @@ title: "Section 3374 - Acquisition of property at or near military bases which h
 usc_title: 42
 usc_section: "3374"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3374"
-generated_at: "2026-03-30T02:56:11.186Z"
+generated_at: "2026-11-23T21:26:32.559Z"
+status: "active"
 ---
 
 # § 3374. Acquisition of property at or near military bases which have been ordered to be closed and certain property owned by members of the Armed Forces, Department of Defense and United States Coast Guard civilian employees, and surviving spouses
@@ -110,3 +111,7 @@ generated_at: "2026-03-30T02:56:11.186Z"
   - **(4)** the term “nonappropriated fund instrumentality employee” means a civilian employee who—
     - **(A)** is a citizen of the United States; and
     - **(B)** is paid from nonappropriated funds of Army and Air Force Exchange Service, Navy Resale and Services Support Office, Marine Corps exchanges, or any other instrumentality of the United States under the jurisdiction of the Armed Forces which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the Armed Forces.
+
+## Source Credit
+
+*([Pub. L. 89–754, title X, § 1013](https://www.govinfo.gov/link/plaw/89/public/754), Nov. 3, 1966, [80 Stat. 1290](https://www.govinfo.gov/link/statute/80/1290); [Pub. L. 91–142, title VI, § 602](https://www.govinfo.gov/link/plaw/91/public/142), Dec. 5, 1969, [83 Stat. 313](https://www.govinfo.gov/link/statute/83/313); [Pub. L. 91–511, title VI, § 612](https://www.govinfo.gov/link/plaw/91/public/511), Oct. 26, 1970, [84 Stat. 1225](https://www.govinfo.gov/link/statute/84/1225); [Pub. L. 92–545, title VI, § 601](https://www.govinfo.gov/link/plaw/92/public/545), Oct. 25, 1972, [86 Stat. 1150](https://www.govinfo.gov/link/statute/86/1150); [Pub. L. 93–166, title V, § 513(b)](https://www.govinfo.gov/link/plaw/93/public/166), Nov. 29, 1973, [87 Stat. 679](https://www.govinfo.gov/link/statute/87/679); [Pub. L. 100–448, § 11](https://www.govinfo.gov/link/plaw/100/public/448), Sept. 28, 1988, [102 Stat. 1842](https://www.govinfo.gov/link/statute/102/1842); [Pub. L. 101–510, div. A, title III, § 331](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1535](https://www.govinfo.gov/link/statute/104/1535); [Pub. L. 102–190, div. B, title XXVIII, § 2823](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1547](https://www.govinfo.gov/link/statute/105/1547); [Pub. L. 102–484, div. A, title X, § 1054(i)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2503](https://www.govinfo.gov/link/statute/106/2503); [Pub. L. 103–337, div. B, title XXVIII, § 2805](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 3053](https://www.govinfo.gov/link/statute/108/3053); [Pub. L. 111–5, div. A, title X, § 1001(a)](https://www.govinfo.gov/link/plaw/111/public/5), (b), Feb. 17, 2009, [123 Stat. 194](https://www.govinfo.gov/link/statute/123/194), 198.)*

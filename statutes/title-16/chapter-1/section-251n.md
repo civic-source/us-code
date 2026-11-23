@@ -3,9 +3,10 @@ title: "Section 251n - Additional boundary revision"
 usc_title: 16
 usc_section: "251n"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 251n"
-generated_at: "2026-03-30T02:54:22.745Z"
+generated_at: "2026-11-23T21:25:51.400Z"
+status: "active"
 ---
 
 # § 251n. Additional boundary revision
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:22.745Z"
   - **(3)** those lands between mean high tide and the lowest low tide beginning in section 22, township 24 north, range 13 west Willamette meridian, at the common boundary between the Olympic National Park and the Quinault Indian Reservation, to section 18, township 32 north, range 15 west Willamette meridian, at the common boundary between the Olympic National Park and the Makah Indian Reservation, except those lands directly adjacent to and west of the Hoh, Ozette, and Quillayute Indian Reservations: Provided , That such lands as are identified in this paragraph shall continue to be open to fishing and to the taking of shellfish in conformity with the laws and regulations of the State of Washington; and
   - **(4)** approximately nine thousand six hundred and thirty-eight acres, and to exclude from the park approximately three thousand three hundred and fifty-two acres, as generally depicted on the maps entitled “Boundary Modifications, Olympic National Forest and Olympic National Park”, numbered 149/60,030A, sheets 1 through 9, and dated September 1986, which shall be on file and available for public inspection in the office of the National Park Service, United States Department of the Interior.
 - **(b)** The boundary of Olympic National Forest, Washington, is hereby revised to include in the national forest approximately three thousand three hundred and fifty-two acres and to exclude from the national forest approximately nine thousand three hundred and twenty-four acres, as generally depicted on the maps entitled “Boundary Modifications, Olympic National Forest and Olympic National Park”, numbered 149/60,030A, sheets 1 through 9, and dated September 1986, which shall be on file and available for public inspection in the office of the Forest Service, United States Department of Agriculture.
+
+## Source Credit
+
+*([Pub. L. 99–635, § 1(a)](https://www.govinfo.gov/link/plaw/99/public/635), (b), Nov. 7, 1986, [100 Stat. 3527](https://www.govinfo.gov/link/statute/100/3527); [Pub. L. 100–668, title I, § 104(c)(1)](https://www.govinfo.gov/link/plaw/100/public/668) –(3), Nov. 16, 1988, [102 Stat. 3962](https://www.govinfo.gov/link/statute/102/3962).)*

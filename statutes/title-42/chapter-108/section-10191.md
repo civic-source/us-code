@@ -3,9 +3,10 @@ title: "Section 10191 - Purpose"
 usc_title: 42
 usc_section: "10191"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10191"
-generated_at: "2026-03-30T02:56:11.383Z"
+generated_at: "2026-11-23T21:26:33.348Z"
+status: "active"
 ---
 
 # § 10191. Purpose
@@ -17,3 +18,7 @@ It is the purpose of this subchapter—
     - **(A)** to provide for the construction, operation, and maintenance of a deep geologic test and evaluation facility; and
     - **(B)** to provide for a focused and integrated high-level radioactive waste and spent nuclear fuel research and development program, including the development of a test and evaluation facility to carry out research and provide an integrated demonstration of the technology for deep geologic disposal of high-level radioactive waste, and the development of the facilities to demonstrate dry storage of spent nuclear fuel; and
   - **(3)** to provide for an improved cooperative role between the Federal Government and States, affected Indian tribes, and units of general local government in the siting of a test and evaluation facility.
+
+## Source Credit
+
+*([Pub. L. 97–425, title II, § 211](https://www.govinfo.gov/link/plaw/97/public/425), Jan. 7, 1983, [96 Stat. 2245](https://www.govinfo.gov/link/statute/96/2245).)*

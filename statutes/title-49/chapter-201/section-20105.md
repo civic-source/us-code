@@ -3,9 +3,10 @@ title: "Section 20105 - State participation"
 usc_title: 49
 usc_section: "20105"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 20105"
-generated_at: "2026-03-30T02:56:19.334Z"
+generated_at: "2026-11-23T21:26:40.700Z"
+status: "active"
 ---
 
 # § 20105. State participation
@@ -35,3 +36,92 @@ generated_at: "2026-03-30T02:56:19.334Z"
   - **(2)** the term “Secretary concerned” means—
     - **(A)** the Secretary of Transportation, with respect to railroad safety matters concerning such Secretary under laws administered by that Secretary; and
     - **(B)** the Secretary of Homeland Security, with respect to railroad safety matters concerning such Secretary under laws administered by that Secretary.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 20105(a) | 45:435(a) (1st sentence related to authority for State participation). | Oct. 16, 1970 , Pub. L. 91–458, § 206(a) (1st sentence), (b), (f), 84 Stat. 972 , 973, 974; Nov. 16, 1990 , Pub. L. 101–615, § 28(a)(1) –(3), (b), (c), 104 Stat. 3276 , 3277. |
+| 20105(b) (1)(A) | 45:435(a) (1st sentence related to contents of certification). |  |
+| 20105(b) (1)(B) | 45:435(b) (1st sentence). |  |
+| 20105(b)(2) | 45:435(f). |  |
+| 20105(b)(3) | 45:435(b) (2d–last sentences). |  |
+| 20105(c) | 45:435(c). | Oct. 16, 1970 , Pub. L. 91–458, § 206(c) , (e), 84 Stat. 973 , 974. |
+| 20105(d) | 45:435(g). | Oct. 16, 1970 , Pub. L. 91–458 , 84 Stat. 971 , § 206(g); added Oct. 10, 1980 , Pub. L. 96–423, § 4(a) , 94 Stat. 1812 . |
+| 20105(e) | 45:435(d). | Oct. 16, 1970 , Pub. L. 91–458, § 206(d) , 84 Stat. 974 ; Oct. 10, 1980 , Pub. L. 96–423, § 4(b) , 94 Stat. 1812 . |
+| 20105(f) | 45:435(e). |  |
+
+
+Investigative and Surveillance Activities
+
+Annual Certification
+
+Agreement When Certification Not Received
+
+Agreement for Investigative and Surveillance Activities
+
+Payment
+
+Monitoring
+
+Definitions
+
+Historical and Revision Notes
+
+20105(a)
+
+Oct. 16, 1970
+
+Pub. L. 91–458, § 206(a)
+
+84 Stat. 972
+
+Nov. 16, 1990
+
+Pub. L. 101–615, § 28(a)(1)
+
+104 Stat. 3276
+
+20105(b)(2)
+
+20105(b)(3)
+
+20105(c)
+
+Oct. 16, 1970
+
+Pub. L. 91–458, § 206(c)
+
+84 Stat. 973
+
+20105(d)
+
+Oct. 16, 1970
+
+Pub. L. 91–458
+
+84 Stat. 971
+
+Oct. 10, 1980
+
+Pub. L. 96–423, § 4(a)
+
+94 Stat. 1812
+
+20105(e)
+
+Oct. 16, 1970
+
+Pub. L. 91–458, § 206(d)
+
+84 Stat. 974
+
+Oct. 10, 1980
+
+Pub. L. 96–423, § 4(b)
+
+94 Stat. 1812
+
+20105(f)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 864](https://www.govinfo.gov/link/statute/108/864); [Pub. L. 107–296, title XVII, § 1710(a)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2319](https://www.govinfo.gov/link/statute/116/2319).)*

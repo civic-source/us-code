@@ -3,9 +3,10 @@ title: "Section 4909 - Enforcement"
 usc_title: 12
 usc_section: "4909"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4909"
-generated_at: "2026-03-30T02:53:53.520Z"
+generated_at: "2026-11-23T21:25:37.224Z"
+status: "active"
 ---
 
 # § 4909. Enforcement
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:53.520Z"
   - **(1)** notify the mortgagee or servicer of any failure of the mortgagee or servicer to comply with 1 or more provisions of this chapter;
   - **(2)** with respect to each such failure to comply, require the mortgagee or servicer, as applicable, to correct the account of the mortgagor to reflect the date on which the mortgage insurance should have been canceled or terminated under this chapter; and
   - **(3)** require the mortgagee or servicer, as applicable, to reimburse the mortgagor in an amount equal to the total unearned premiums paid by the mortgagor after the date on which the obligation to pay those premiums ceased under this chapter.
+
+## Source Credit
+
+*([Pub. L. 105–216, § 10](https://www.govinfo.gov/link/plaw/105/public/216), July 29, 1998, [112 Stat. 907](https://www.govinfo.gov/link/statute/112/907); [Pub. L. 111–203, title X, § 1095](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2101](https://www.govinfo.gov/link/statute/124/2101).)*

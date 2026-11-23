@@ -3,9 +3,10 @@ title: "Section 3243 - Periodic reports on technology strategy of intelligence c
 usc_title: 50
 usc_section: "3243"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3243"
-generated_at: "2026-03-30T02:56:26.242Z"
+generated_at: "2026-11-23T21:26:39.028Z"
+status: "active"
 ---
 
 # § 3243. Periodic reports on technology strategy of intelligence community
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:26.242Z"
   - **(8)** A technology annex to establish an approach for the identification, prioritization, development, and fielding of emerging technologies critical to the mission of the intelligence community.
   - **(9)** Such other information as the Director determines may be necessary to inform Congress on matters relating to the technology strategy of the intelligence community and related implications for the national security of the United States.
 - **(c)** Each annex submitted under subsection (b)(8) may be submitted in classified form.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title XI, § 1113, as added [Pub. L. 117–103, div. X, title VIII, § 823(a)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 1021](https://www.govinfo.gov/link/statute/136/1021).)*

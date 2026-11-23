@@ -3,9 +3,10 @@ title: "Section 19084 - Advanced computing"
 usc_title: 42
 usc_section: "19084"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19084"
-generated_at: "2026-03-30T02:56:11.538Z"
+generated_at: "2026-11-23T21:26:33.868Z"
+status: "active"
 ---
 
 # § 19084. Advanced computing
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:56:11.538Z"
         - **(II)** recommendations related to the value of expanding the network of secure computing enclaves; and
         - **(III)** recommendations on the efficacy of the use of secure computing enclaves by other Federal agencies in a broader effort to expand security of Federal research.
     - **(H)** There is authorized to be appropriated to the Director, $38,000,000 for fiscal years 2023 through 2025, to carry out the activities outlined in this paragraph.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10374](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1571](https://www.govinfo.gov/link/statute/136/1571).)*

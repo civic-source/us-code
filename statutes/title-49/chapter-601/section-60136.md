@@ -3,9 +3,10 @@ title: "Section 60136 - Petroleum product transportation capacity study"
 usc_title: 49
 usc_section: "60136"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 60136"
-generated_at: "2026-03-30T02:56:19.416Z"
+generated_at: "2026-11-23T21:26:41.034Z"
+status: "active"
 ---
 
 # § 60136. Petroleum product transportation capacity study
@@ -15,3 +16,17 @@ generated_at: "2026-03-30T02:56:19.416Z"
 - **(c)** Not later than June 1, 2008 , the Secretaries shall submit to the Committee on Energy and Commerce and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Energy and Natural Resources of the Senate a report setting forth their recommendations to reduce the likelihood of the shortages and price disruptions referred to in subsection (a).
 - **(d)** The Secretaries shall submit additional reports to the congressional committees referred to in subsection (c) containing the results of any subsequent analyses performed under subsection (a) and any additional recommendations, as appropriate.
 - **(e)** In this section, the term “petroleum product” means oil of any kind or in any form, gasoline, diesel fuel, aviation fuel, fuel oil, kerosene, any product obtained from refining or processing of crude oil, liquefied petroleum gases, natural gas liquids, petrochemical feedstocks, condensate, waste or refuse mixtures containing any of such oil products, and any other liquid hydrocarbon compounds.
+
+In General
+
+Consultation
+
+Report to Congress
+
+Additional Reports
+
+Petroleum Product Defined
+
+## Source Credit
+
+*(Added [Pub. L. 109–468, § 8(a)](https://www.govinfo.gov/link/plaw/109/public/468), Dec. 29, 2006, [120 Stat. 3492](https://www.govinfo.gov/link/statute/120/3492).)*

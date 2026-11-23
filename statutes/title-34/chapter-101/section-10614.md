@@ -3,9 +3,10 @@ title: "Section 10614 - Administration"
 usc_title: 34
 usc_section: "10614"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10614"
-generated_at: "2026-03-30T02:55:33.272Z"
+generated_at: "2026-11-23T21:26:09.678Z"
+status: "active"
 ---
 
 # § 10614. Administration
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:33.272Z"
   - **(6)** certify that participating offenders will be supervised by 1 or more designated judges with responsibility for the drug court program;
   - **(7)** specify plans for obtaining necessary support and continuing the proposed program following the conclusion of Federal support; and
   - **(8)** describe the methodology that will be used in evaluating the program.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2954](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 107–273, div. B, title II, § 2301(a)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1796](https://www.govinfo.gov/link/statute/116/1796).)*

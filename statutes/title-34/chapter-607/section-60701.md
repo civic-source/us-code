@@ -3,9 +3,10 @@ title: "Section 60701 - Definitions"
 usc_title: 34
 usc_section: "60701"
 chapter: 607
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 60701"
-generated_at: "2026-03-30T02:55:33.318Z"
+generated_at: "2026-11-23T21:26:09.864Z"
+status: "active"
 ---
 
 # § 60701. Definitions
@@ -15,3 +16,7 @@ For the purposes of this chapter—
   - **(1)** the term “firearms offenses” means an offense under section 922 or 924 of title 18;
   - **(2)** the term “Program” means the Project Safe Neighborhoods Block Grant Program established under section 60702 of this title ; and
   - **(3)** the term “transnational organized crime group” has the meaning given such term in section 2708(k)(6) of title 22 .
+
+## Source Credit
+
+*([Pub. L. 115–185, § 2](https://www.govinfo.gov/link/plaw/115/public/185), June 18, 2018, [132 Stat. 1485](https://www.govinfo.gov/link/statute/132/1485).)*

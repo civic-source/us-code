@@ -3,9 +3,10 @@ title: "Section 4514 - Consultation and layover provisions for, and effective da
 usc_title: 19
 usc_section: "4514"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4514"
-generated_at: "2026-03-30T02:54:24.710Z"
+generated_at: "2026-11-23T21:25:42.889Z"
+status: "active"
 ---
 
 # § 4514. Consultation and layover provisions for, and effective date of, proclaimed actions
@@ -20,3 +21,7 @@ If a provision of this Act provides that the implementation of an action by the 
     - **(B)** the advice obtained under paragraph (1);
   - **(3)** a period of 60 calendar days, beginning on the first day on which the requirements set forth in paragraphs (1) and (2) have been met, has expired; and
   - **(4)** the President has consulted with the committees referred to in paragraph (2) regarding the proposed action during the period referred to in paragraph (3).
+
+## Source Credit
+
+*([Pub. L. 116–113, title I, § 104](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 17](https://www.govinfo.gov/link/statute/134/17).)*

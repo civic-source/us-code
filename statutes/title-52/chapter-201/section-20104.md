@@ -3,9 +3,10 @@ title: "Section 20104 - Registration and voting aids"
 usc_title: 52
 usc_section: "20104"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 20104"
-generated_at: "2026-03-30T02:56:30.161Z"
+generated_at: "2026-11-23T21:26:42.323Z"
+status: "active"
 ---
 
 # § 20104. Registration and voting aids
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:30.161Z"
   - **(1)** to automatically receive an application or a ballot on a continuing basis; or
   - **(2)** to apply for an absentee ballot after the deadline has passed.
 - **(c)** The chief election officer of each State shall provide public notice, calculated to reach elderly and handicapped voters, of the availability of aids under this section, assistance under section 10508 of this title , and the procedures for voting by absentee ballot, not later than general public notice of registration and voting is provided.
+
+## Source Credit
+
+*([Pub. L. 98–435, § 5](https://www.govinfo.gov/link/plaw/98/public/435), Sept. 28, 1984, [98 Stat. 1679](https://www.govinfo.gov/link/statute/98/1679).)*

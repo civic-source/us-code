@@ -3,9 +3,10 @@ title: "Section 13 - Violations generally; punishment; costs of prosecution"
 usc_title: 7
 usc_section: "13"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 13"
-generated_at: "2026-03-30T02:53:42.245Z"
+generated_at: "2026-11-23T21:25:27.860Z"
+status: "active"
 ---
 
 # § 13. Violations generally; punishment; costs of prosecution
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:42.245Z"
 - **(e)** It shall be a felony for any person—
   - **(1)** who is an employee, member of the governing board, or member of any committee of a board of trade, registered entity, swap data repository, or registered futures association, in violation of a regulation issued by the Commission, willfully and knowingly to trade for such person’s own account, or for or on behalf of any other account, in contracts for future delivery or options thereon, or swaps, on the basis of, or willfully and knowingly to disclose for any purpose inconsistent with the performance of such person’s official duties as an employee or member, any material nonpublic information obtained through special access related to the performance of such duties; or
   - **(2)** willfully and knowingly to trade for such person’s own account, or for or on behalf of any other account, in contracts for future delivery or options thereon on the basis of any material nonpublic information that such person knows was obtained in violation of paragraph (1) from an employee, member of the governing board, or member of any committee of a board of trade, registered entity, or registered futures association.
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 9, [42 Stat. 1003](https://www.govinfo.gov/link/statute/42/1003); June 15, 1936, ch. 545, §§ 2, 11, [49 Stat. 1491](https://www.govinfo.gov/link/statute/49/1491), 1501; [Pub. L. 90–258, § 25](https://www.govinfo.gov/link/plaw/90/public/258), Feb. 19, 1968, [82 Stat. 33](https://www.govinfo.gov/link/statute/82/33); [Pub. L. 93–463, title II, § 212(d)](https://www.govinfo.gov/link/plaw/93/public/463), title IV, §§ 401, 409, Oct. 23, 1974, [88 Stat. 1404](https://www.govinfo.gov/link/statute/88/1404), 1412, 1414; [Pub. L. 95–405, § 19](https://www.govinfo.gov/link/plaw/95/public/405), Sept. 30, 1978, [92 Stat. 875](https://www.govinfo.gov/link/statute/92/875); [Pub. L. 97–444, title II, § 227](https://www.govinfo.gov/link/plaw/97/public/444), Jan. 11, 1983, [96 Stat. 2316](https://www.govinfo.gov/link/statute/96/2316); [Pub. L. 99–641, title I](https://www.govinfo.gov/link/plaw/99/public/641), §§ 105, 110(3), (4), Nov. 10, 1986, [100 Stat. 3558](https://www.govinfo.gov/link/statute/100/3558), 3561; [Pub. L. 102–546, title II](https://www.govinfo.gov/link/plaw/102/public/546), §§ 212(a), 214(a), Oct. 28, 1992, [106 Stat. 3608](https://www.govinfo.gov/link/statute/106/3608), 3610; [Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(22)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–410; [Pub. L. 110–234, title XIII](https://www.govinfo.gov/link/plaw/110/public/234), §§ 13103(d), 13105(h), May 22, 2008, [122 Stat. 1434](https://www.govinfo.gov/link/statute/122/1434), 1435; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIII, §§ 13103(d), 13105(h), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2196, 2197; [Pub. L. 111–203, title VII, § 741(b)(6)](https://www.govinfo.gov/link/plaw/111/public/203), (7), July 21, 2010, [124 Stat. 1731](https://www.govinfo.gov/link/statute/124/1731).)*

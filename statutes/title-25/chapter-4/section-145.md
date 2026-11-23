@@ -3,12 +3,17 @@ title: "Section 145 - Accounts between United States and tribes under reimbursab
 usc_title: 25
 usc_section: "145"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 145"
-generated_at: "2026-03-30T02:54:52.798Z"
+generated_at: "2026-11-23T21:25:54.538Z"
+status: "active"
 ---
 
 # § 145. Accounts between United States and tribes under reimbursable appropriations
 
 The Secretary of the Interior shall cause to be stated annual accounts between the United States and each tribe of Indians arising under appropriations made, which by law are required to be reimbursed to the United States, crediting in said accounts the sums so reimbursed, if any; and the Secretary of the Interior shall pay, out of any fund or funds belonging to such tribe or tribes of Indians applicable thereto and held by the United States in trust or otherwise, all balances of accounts due to the United States and not already reimbursed to the Treasury, and deposit such sums in the Treasury as miscellaneous receipts; and such accounts shall be received and examined by the Government Accountability Office and the balances arising thereon certified to the Secretary of the Treasury.
 
+
+## Source Credit
+
+*(Apr. 4, 1910, ch. 140, § 1, [36 Stat. 270](https://www.govinfo.gov/link/statute/36/270); June 10, 1921, ch. 18, title III, § 304, [42 Stat. 24](https://www.govinfo.gov/link/statute/42/24); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

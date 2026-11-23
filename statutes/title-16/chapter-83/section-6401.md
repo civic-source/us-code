@@ -3,9 +3,10 @@ title: "Section 6401 - Purposes"
 usc_title: 16
 usc_section: "6401"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6401"
-generated_at: "2026-03-30T02:54:23.056Z"
+generated_at: "2026-11-23T21:25:52.037Z"
+status: "active"
 ---
 
 # § 6401. Purposes
@@ -25,3 +26,57 @@ The purposes of this chapter are—
     - **(D)** natural disasters; and
     - **(E)** industrial or mechanical disasters, including vessel groundings, hazardous spills, and coastal construction accidents; and
   - **(8)** to serve as a model for advancing similar international efforts to monitor, conserve, and restore coral reef ecosystems.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+Sec
+
+Sec
+
+[Secs
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 106–562, title II, § 202](https://www.govinfo.gov/link/plaw/106/public/562), as added [Pub. L. 117–263, div. J, title C, § 10001(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3931](https://www.govinfo.gov/link/statute/136/3931).)*

@@ -3,9 +3,10 @@ title: "Section 6045 - Returns of brokers"
 usc_title: 26
 usc_section: "6045"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6045"
-generated_at: "2026-03-30T02:55:27.832Z"
+generated_at: "2026-11-23T21:26:06.772Z"
+status: "active"
 ---
 
 # § 6045. Returns of brokers
@@ -86,3 +87,11 @@ generated_at: "2026-03-30T02:55:27.832Z"
   - **(2)** In the case of the lapse (or closing transaction (as defined in section 1234(b)(2)(A))) of an option on a specified security or the exercise of a cash-settled option on a specified security, reporting under subsections (a) and (g) with respect to such option shall be made for the calendar year which includes the date of such lapse, closing transaction, or exercise.
   - **(3)** Paragraphs (1) and (2) shall not apply to any option which is granted or acquired before January 1, 2013 .
   - **(4)** For purposes of this subsection, the terms “covered security” and “specified security” shall have the meanings given such terms in subsection (g)(3).
+
+“The amendments made by subsection (a) [amending this section and section 6678 of this title ] shall take effect on the date of the enactment of this Act [ Sept. 3, 1982 ], except that—
+
+“Nothing in this section [amending this section and sections 6045A, 6050I, and 6724 of this title and enacting provisions set out as a note under this section] or the amendments made by this section shall be construed to create any inference, for any period prior to the effective date of such amendments [see section 80603(c) of Pub. L. 117–58 , set out as an Effective Date of 2021 Amendment note above], with respect to—
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 747; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 97–248, title III, § 311(a)(1)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 600](https://www.govinfo.gov/link/statute/96/600); [Pub. L. 98–369, div. A, title I, § 150(a)](https://www.govinfo.gov/link/plaw/98/public/369), title VII, § 714(e)(1), July 18, 1984, [98 Stat. 690](https://www.govinfo.gov/link/statute/98/690), 961; [Pub. L. 99–514, title XV](https://www.govinfo.gov/link/plaw/99/public/514), §§ 1501(c)(4), 1521(a), Oct. 22, 1986, [100 Stat. 2737](https://www.govinfo.gov/link/statute/100/2737), 2746; [Pub. L. 100–647, title I, § 1015(e)(1)(A)](https://www.govinfo.gov/link/plaw/100/public/647), (2)(A), (3), title IV, § 4005(g)(3), Nov. 10, 1988, [102 Stat. 3569](https://www.govinfo.gov/link/statute/102/3569), 3570, 3650; [Pub. L. 101–239, title VII, § 7814(c)(1)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2413](https://www.govinfo.gov/link/statute/103/2413); [Pub. L. 101–508, title XI, § 11704(a)(25)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–519](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–486, title XIX, § 1939(a)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3034](https://www.govinfo.gov/link/statute/106/3034); [Pub. L. 104–168, title XII, § 1201(a)(5)](https://www.govinfo.gov/link/plaw/104/public/168), July 30, 1996, [110 Stat. 1469](https://www.govinfo.gov/link/statute/110/1469); [Pub. L. 104–188, title I, § 1704](https://www.govinfo.gov/link/plaw/104/public/188) (o)(1), Aug. 20, 1996, [110 Stat. 1886](https://www.govinfo.gov/link/statute/110/1886); [Pub. L. 105–34, title III, § 312(c)](https://www.govinfo.gov/link/plaw/105/public/34), title X, § 1021(a), Aug. 5, 1997, [111 Stat. 839](https://www.govinfo.gov/link/statute/111/839), 922; [Pub. L. 109–135, title IV, § 412(xx)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2640](https://www.govinfo.gov/link/statute/119/2640); [Pub. L. 110–343, div. B, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3854](https://www.govinfo.gov/link/statute/122/3854); [Pub. L. 113–295, div. A, title II, § 210(f)(4)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4032](https://www.govinfo.gov/link/statute/128/4032); [Pub. L. 114–113, div. Q, title II, § 202(c)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3077](https://www.govinfo.gov/link/statute/129/3077); [Pub. L. 117–58, div. H, title VI, § 80603(a)](https://www.govinfo.gov/link/plaw/117/public/58), (b)(1), Nov. 15, 2021, [135 Stat. 1339](https://www.govinfo.gov/link/statute/135/1339), 1340.)*

@@ -3,9 +3,10 @@ title: "Section 14 - Process for adoption of endorsed recommendations; adoption 
 usc_title: 42
 usc_section: "14"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 14"
-generated_at: "2026-03-30T02:56:10.845Z"
+generated_at: "2026-11-23T21:26:30.944Z"
+status: "active"
 ---
 
 # § 300jj–14. Process for adoption of endorsed recommendations; adoption of initial set of standards, implementation specifications, and certification criteria
@@ -21,3 +22,21 @@ generated_at: "2026-03-30T02:56:10.845Z"
   - **(2)** The standards, implementation specifications, and certification criteria adopted before February 17, 2009 , through the process existing through the Office of the National Coordinator for Health Information Technology may be applied towards meeting the requirement of paragraph (1).
   - **(3)** The Secretary shall adopt additional standards, implementation specifications, and certification criteria as necessary and consistent with the schedule published under section 300jj–12(b)(4) of this title .
 - **(c)** In adopting and implementing standards under this section, the Secretary shall give deference to standards published by standards development organizations and voluntary consensus-based standards bodies.
+
+Requirement Relating to Registries.—
+
+In general
+
+Rule of construction
+
+Definition
+
+Treatment of Health Information Technology Developers With Respect to Patient Safety Organizations.—
+
+In general
+
+Report
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXX, § 3004, as added [Pub. L. 111–5, div. A, title XIII, § 13101](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 240](https://www.govinfo.gov/link/statute/123/240); amended [Pub. L. 114–255, div. A, title IV, § 4003(d)](https://www.govinfo.gov/link/plaw/114/public/255), (e)(2)(A)(i), (D), Dec. 13, 2016, [130 Stat. 1168](https://www.govinfo.gov/link/statute/130/1168), 1174, 1175.)*

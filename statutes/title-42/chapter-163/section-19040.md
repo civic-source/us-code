@@ -3,9 +3,10 @@ title: "Section 19040 - Foreign financial support"
 usc_title: 42
 usc_section: "19040"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19040"
-generated_at: "2026-03-30T02:56:11.538Z"
+generated_at: "2026-11-23T21:26:33.864Z"
+status: "active"
 ---
 
 # § 19040. Foreign financial support
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.538Z"
 - **(d)** The Director, acting through the Office of Research Security and Policy in coordination with the Foundation’s Office of Inspector General and in consultation with the recipient institution, may reduce the award funding amount or suspend or terminate the award if the Director determines—
   - **(1)** such institution fails to comply with the records retention requirement in subsection (b) or fails to provide information requested under this section; or
   - **(2)** the Chief of Research Security determines the disclosures under this section indicate a threat to research security.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10339B](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1556](https://www.govinfo.gov/link/statute/136/1556).)*

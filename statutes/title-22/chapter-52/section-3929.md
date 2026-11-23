@@ -3,9 +3,10 @@ title: "Section 3929 - Inspector General"
 usc_title: 22
 usc_section: "3929"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3929"
-generated_at: "2026-03-30T02:55:05.398Z"
+generated_at: "2026-11-23T21:25:58.601Z"
+status: "active"
 ---
 
 # § 3929. Inspector General
@@ -61,3 +62,27 @@ generated_at: "2026-03-30T02:55:05.398Z"
   - **(1)** The Inspector General may receive and investigate complaints or information from a member of the Service or employee of the Department concerning the possible existence of an activity constituting a violation of laws or regulations, constituting mismanagement, gross waste of funds, or abuse of authority, or constituting a substantial and specific danger to public health or safety.
   - **(2)** The Inspector General shall not, after receipt of a complaint or information from a member of the Service or employee of the Department, disclose the identity of such individual without the consent of such individual, unless the Inspector General determines such disclosure is unavoidable during the course of the investigation.
 - **(g)** Under the general supervision of the Secretary of State, the Inspector General may review activities and operations performed under the direction, coordination, and supervision of chiefs of mission for the purpose of ascertaining their consonance with the foreign policy of the United States and their consistency with the responsibilities of the Secretary of State and the chief of mission.
+
+Investigations.—
+
+Conduct of investigations
+
+Final reports of investigations
+
+Required reporting of allegations and investigations and inspector general authority.—
+
+In general
+
+Deadline
+
+“Nothing in the amendments made by this section [amending this section] may be construed to modify—
+
+In General
+
+Disposition
+
+Notification Requirement in Case of Serious Management Concerns
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 209](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2080](https://www.govinfo.gov/link/statute/94/2080); [Pub. L. 99–399, title IV, § 413(a)(6)](https://www.govinfo.gov/link/plaw/99/public/399), Aug. 27, 1986, [100 Stat. 868](https://www.govinfo.gov/link/statute/100/868); [Pub. L. 99–529, title IV, § 405](https://www.govinfo.gov/link/plaw/99/public/529), Oct. 24, 1986, [100 Stat. 3020](https://www.govinfo.gov/link/statute/100/3020); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. B, title XXII, § 2208(a), (b), Oct. 21, 1998, [112 Stat. 2681–810](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 339(a), (b)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–443; [Pub. L. 114–323, title II, § 203](https://www.govinfo.gov/link/plaw/114/public/323), Dec. 16, 2016, [130 Stat. 1916](https://www.govinfo.gov/link/statute/130/1916); [Pub. L. 117–286, § 4(b)(42)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4348](https://www.govinfo.gov/link/statute/136/4348).)*

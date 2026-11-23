@@ -3,9 +3,10 @@ title: "Section 31313 - Commercial driver’s license program implementation fin
 usc_title: 49
 usc_section: "31313"
 chapter: 313
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 31313"
-generated_at: "2026-03-30T02:56:19.362Z"
+generated_at: "2026-11-23T21:26:40.794Z"
+status: "active"
 ---
 
 # § 31313. Commercial driver’s license program implementation financial assistance program
@@ -30,3 +31,23 @@ generated_at: "2026-03-30T02:56:19.362Z"
 - **(c)** The Secretary shall issue an annual report on the activities carried out under this section.
 - **(d)** All amounts made available to carry out this section for a fiscal year shall be apportioned to a recipient described in subsection (a)(3) according to criteria prescribed by the Secretary.
 - **(e)** For fiscal years beginning after September 30, 2016 , this section shall be funded under section 31104.
+
+Financial Assistance Program.—
+
+In general
+
+State commercial driver’s license program implementation grants
+
+Priority activities
+
+Prohibitions
+
+Report
+
+Apportionment
+
+Funding
+
+## Source Credit
+
+*(Added [Pub. L. 109–59, title IV, § 4124(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1736](https://www.govinfo.gov/link/statute/119/1736); amended [Pub. L. 112–141, div. C, title II, § 32604(a)](https://www.govinfo.gov/link/plaw/112/public/141), (b)(1), July 6, 2012, [126 Stat. 808](https://www.govinfo.gov/link/statute/126/808), 809; [Pub. L. 114–94, div. A, title V, § 5104(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1527](https://www.govinfo.gov/link/statute/129/1527); [Pub. L. 115–99, § 4](https://www.govinfo.gov/link/plaw/115/public/99), Jan. 3, 2018, [131 Stat. 2242](https://www.govinfo.gov/link/statute/131/2242).)*

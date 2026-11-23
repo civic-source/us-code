@@ -3,9 +3,10 @@ title: "Section 1011e - Financial responsibility of foreign students"
 usc_title: 20
 usc_section: "1011e"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1011e"
-generated_at: "2026-03-30T02:54:48.092Z"
+generated_at: "2026-11-23T21:25:47.001Z"
+status: "active"
 ---
 
 # § 1011e. Financial responsibility of foreign students
@@ -15,3 +16,7 @@ Nothing in this chapter or any other Federal law shall be construed to prohibit 
   - **(1)** making advance payment of such tuition and fees;
   - **(2)** making deposits in an escrow account administered by such institution for such payments; or
   - **(3)** obtaining a bond or other insurance that such payments will be made.
+
+## Source Credit
+
+*([Pub. L. 89–329, title I, § 116](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title I, § 101(a)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1593](https://www.govinfo.gov/link/statute/112/1593).)*

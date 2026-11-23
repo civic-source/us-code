@@ -3,12 +3,17 @@ title: "Section 894d - Applicability of policies to crews of vessels secured by 
 usc_title: 33
 usc_section: "894d"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 894d"
-generated_at: "2026-03-30T02:55:41.075Z"
+generated_at: "2026-11-23T21:26:11.347Z"
+status: "active"
 ---
 
 # § 894d. Applicability of policies to crews of vessels secured by National Oceanic and Atmospheric Administration under contract
 
 The Under Secretary for Oceans and Atmosphere shall ensure that each contract into which the Under Secretary enters for the use of a vessel by the National Oceanic and Atmospheric Administration that covers the crew of the vessel, if any, shall include as a condition of the contract a provision that subjects such crew to the policy developed under section 894(a) of this title and the comprehensive policy developed under section 894a(a) of this title .
 
+
+## Source Credit
+
+*([Pub. L. 114–328, div. C, title XXXV, § 3545](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2804](https://www.govinfo.gov/link/statute/130/2804).)*

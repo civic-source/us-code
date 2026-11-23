@@ -3,9 +3,10 @@ title: "Section 12116 - Limited endorsements for Guam, American Samoa, and North
 usc_title: 46
 usc_section: "12116"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 12116"
-generated_at: "2026-03-30T02:56:15.558Z"
+generated_at: "2026-11-23T21:26:37.133Z"
+status: "active"
 ---
 
 # § 12116. Limited endorsements for Guam, American Samoa, and Northern Mariana Islands
@@ -18,3 +19,21 @@ generated_at: "2026-03-30T02:56:15.558Z"
   - **(2)** was not built in the United States, except that for an endorsement under subsection (a)(2), the vessel must not have been built or rebuilt in the United States;
   - **(3)** is less than 200 gross tons as measured under section 14502 of this title , or an alternate tonnage as measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title ; and
   - **(4)** otherwise qualifies under the laws of the United States to engage in the coastwise trade or the fisheries, as the case may be.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 12116 | 46:12106(c). |  |
+|  | 46:12108(c). |  |
+
+
+Endorsements
+
+Requirements
+
+Historical and Revision Notes
+
+12116
+
+## Source Credit
+
+*([Pub. L. 109–304, § 5](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1499](https://www.govinfo.gov/link/statute/120/1499).)*

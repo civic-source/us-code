@@ -3,9 +3,10 @@ title: "Section 112 - Secretary; functions"
 usc_title: 6
 usc_section: "112"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 112"
-generated_at: "2026-03-30T02:53:09.443Z"
+generated_at: "2026-11-23T21:25:25.739Z"
+status: "active"
 ---
 
 # § 112. Secretary; functions
@@ -43,3 +44,41 @@ generated_at: "2026-03-30T02:53:09.443Z"
   - **(11)** consulting with the Office of State and Local Government Coordination and Preparedness on all matters of concern to the private sector, including the tourism industry.
 - **(g)** All standards activities of the Department shall be conducted in accordance with section 12(d) of the National Technology Transfer Advancement Act of 1995 ( 15 U.S.C. 272 note) and Office of Management and Budget Circular A–119.
 - **(h)** The Secretary shall ensure the head of each office and component of the Department takes into account the needs of children, including children within under-served communities, in mission planning and mission execution. In furtherance of this subsection, the Secretary shall require each such head to seek, to the extent practicable, advice and feedback from organizations representing the needs of children. The Federal Advisory Committee Act (5 U.S.C. App.) 2 2 See References in Text note below. shall not apply whenever such advice or feedback is sought in accordance with this subsection.
+
+Daily Contract Reporting Requirements.—
+
+Report.—
+
+In general
+
+Contents
+
+Update
+
+Effective date
+
+Undefinitized Contract Action or Definitized Amount
+
+Exemption
+
+Definitions
+
+Covered contract award
+
+Definitized amount
+
+Department
+
+Secretary
+
+Small business
+
+Total contract value
+
+Undefinitized contract action
+
+Sunset
+
+## Source Credit
+
+*([Pub. L. 107–296, title I, § 102](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2142](https://www.govinfo.gov/link/statute/116/2142); [Pub. L. 108–458, title VII, § 7402](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3850](https://www.govinfo.gov/link/statute/118/3850); [Pub. L. 110–53, title IX, § 902](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 371](https://www.govinfo.gov/link/statute/121/371); [Pub. L. 114–125, title VIII, § 802(g)(1)(A)(i)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 210](https://www.govinfo.gov/link/statute/130/210); [Pub. L. 117–130, § 2](https://www.govinfo.gov/link/plaw/117/public/130), June 6, 2022, [136 Stat. 1229](https://www.govinfo.gov/link/statute/136/1229).)*

@@ -3,9 +3,10 @@ title: "Section 6396 - Comprehensive needs assessment and service-delivery plan;
 usc_title: 20
 usc_section: "6396"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6396"
-generated_at: "2026-03-30T02:54:48.198Z"
+generated_at: "2026-11-23T21:25:47.512Z"
+status: "active"
 ---
 
 # § 6396. Comprehensive needs assessment and service-delivery plan; authorized activities
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:48.198Z"
   - **(2)** Funds provided under this part shall be used to address the needs of migratory children that are not addressed by services available from other Federal or non-Federal programs, except that migratory children who are eligible to receive services under part A may receive those services through funds provided under that part, or through funds under this part that remain after the agency addresses the needs described in paragraph (1).
   - **(3)** Nothing in this part shall be construed to prohibit a local educational agency from serving migratory children simultaneously with students with similar educational needs in the same educational settings, where appropriate.
   - **(4)** Notwithstanding section 6314 of this title , a school that receives funds under this part shall continue to address the identified needs described in paragraph (1), and shall meet the unique educational needs of migratory children before using funds under this part for schoolwide programs under section 6314 of this title .
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1306](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1576](https://www.govinfo.gov/link/statute/115/1576); amended [Pub. L. 114–95, title I, § 1301(e)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1897](https://www.govinfo.gov/link/statute/129/1897).)*

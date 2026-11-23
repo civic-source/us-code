@@ -3,9 +3,10 @@ title: "Section 629e - Evaluations; research; technical assistance"
 usc_title: 42
 usc_section: "629e"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 629e"
-generated_at: "2026-03-30T02:56:10.878Z"
+generated_at: "2026-11-23T21:26:31.105Z"
+status: "active"
 ---
 
 # § 629e. Evaluations; research; technical assistance
@@ -130,3 +131,7 @@ generated_at: "2026-03-30T02:56:10.878Z"
     - **(C)** The term “service or program”—
       - **(i)** means a service or program described in section 671(e) of this title ; and
       - **(ii)** includes a kinship navigator program described in section 674(a)(7) of this title .
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 435, as added [Pub. L. 103–66, title XIII, § 13711(a)(2)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 654](https://www.govinfo.gov/link/statute/107/654); amended [Pub. L. 107–133, title I, § 105](https://www.govinfo.gov/link/plaw/107/public/133), Jan. 17, 2002, [115 Stat. 2415](https://www.govinfo.gov/link/statute/115/2415); [Pub. L. 109–288](https://www.govinfo.gov/link/plaw/109/public/288), §§ 4(c), 5(b)(3)(C), Sept. 28, 2006, [120 Stat. 1242](https://www.govinfo.gov/link/statute/120/1242), 1243; [Pub. L. 115–271, title VIII, § 8082(a)](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 4098](https://www.govinfo.gov/link/statute/132/4098); [Pub. L. 118–258, title I](https://www.govinfo.gov/link/plaw/118/public/258), §§ 105(e), 106(g), 108(a), 115(a), Jan. 4, 2025, [138 Stat. 2950](https://www.govinfo.gov/link/statute/138/2950), 2953, 2956, 2968.)*

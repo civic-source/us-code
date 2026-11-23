@@ -3,9 +3,10 @@ title: "Section 7004 - United States representation on joint technical committee
 usc_title: 16
 usc_section: "7004"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 7004"
-generated_at: "2026-03-30T02:54:23.072Z"
+generated_at: "2026-11-23T21:25:52.060Z"
+status: "active"
 ---
 
 # § 7004. United States representation on joint technical committee
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:23.072Z"
   - **(1)** The Secretary, in consultation with the Secretary of State, shall appoint no more than 2 individuals to serve as scientific experts on the joint technical committee, at least 1 of whom shall be an official of the National Oceanic and Atmospheric Administration.
   - **(2)** An individual appointed under paragraph (1) shall be appointed for a term of not to exceed 4 years, but shall be eligible for reappointment. An individual appointed to fill a vacancy occurring prior to the expiration of the term of office of that individual’s predecessor shall be appointed for the remainder of that term.
 - **(b)** In addition to individuals appointed under subsection (a), the Secretary, jointly with the Government of Canada, shall appoint 1 independent member to the joint technical committee selected from a list of names provided by the advisory panel.
+
+## Source Credit
+
+*([Pub. L. 109–479, title VI, § 605](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3646](https://www.govinfo.gov/link/statute/120/3646); [Pub. L. 111–348, title III, § 302(a)](https://www.govinfo.gov/link/plaw/111/public/348), Jan. 4, 2011, [124 Stat. 3672](https://www.govinfo.gov/link/statute/124/3672).)*

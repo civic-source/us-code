@@ -3,9 +3,10 @@ title: "Section 8405 - Enforcement by State attorneys general"
 usc_title: 15
 usc_section: "8405"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8405"
-generated_at: "2026-03-30T02:54:08.229Z"
+generated_at: "2026-11-23T21:25:40.083Z"
+status: "active"
 ---
 
 # § 8405. Enforcement by State attorneys general
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.229Z"
   - **(1)** to prevent the attorney general of a State, or other authorized State officer, from exercising the powers conferred on the attorney general, or other authorized State officer, by the laws of such State; or
   - **(2)** to prohibit the attorney general of a State, or other authorized State officer, from proceeding in State or Federal court on the basis of an alleged violation of any civil or criminal statute of that State.
 - **(e)** No separate suit shall be brought under this section if, at the time the suit is brought, the same alleged violation is the subject of a pending action by the Federal Trade Commission or the United States under this chapter.
+
+## Source Credit
+
+*([Pub. L. 111–345, § 6](https://www.govinfo.gov/link/plaw/111/public/345), Dec. 29, 2010, [124 Stat. 3621](https://www.govinfo.gov/link/statute/124/3621).)*

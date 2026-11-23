@@ -3,9 +3,10 @@ title: "Section 4017 - Recovery of costs"
 usc_title: 20
 usc_section: "4017"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 4017"
-generated_at: "2026-03-30T02:54:48.182Z"
+generated_at: "2026-11-23T21:25:47.432Z"
+status: "active"
 ---
 
 # § 4017. Recovery of costs
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:48.182Z"
     - **(A)** the amount (i) outstanding on any loan and (ii) of any grant made to the recipient; and
     - **(B)** an amount equal to the interest which would have been charged on such loan were the loan made by a commercial lender at prevailing interest rates (as determined by the Administrator).
 - **(b)** The Attorney General shall, where appropriate, proceed in an expeditious manner to recover the amounts expended by the United States to carry out this subchapter from the persons identified by the Attorney General as being liable for such costs.
+
+## Source Credit
+
+*([Pub. L. 98–377, title V, § 508](https://www.govinfo.gov/link/plaw/98/public/377), Aug. 11, 1984, [98 Stat. 1293](https://www.govinfo.gov/link/statute/98/1293); [Pub. L. 101–637](https://www.govinfo.gov/link/plaw/101/public/637), §§ 9, 14(a)(8), (b)(10), (11), (c)(5), Nov. 28, 1990, [104 Stat. 4592](https://www.govinfo.gov/link/statute/104/4592), 4594–4596.)*

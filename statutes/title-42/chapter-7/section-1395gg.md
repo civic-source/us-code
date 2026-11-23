@@ -3,9 +3,10 @@ title: "Section 1395gg - Overpayment on behalf of individuals and settlement of 
 usc_title: 42
 usc_section: "1395gg"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1395gg"
-generated_at: "2026-03-30T02:56:11.004Z"
+generated_at: "2026-11-23T21:26:31.651Z"
+status: "active"
 ---
 
 # § 1395gg. Overpayment on behalf of individuals and settlement of claims for benefits on behalf of deceased individuals
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.004Z"
   - **(2)** if the person or persons who furnished the services do not agree to the terms of assignment specified in section 1395u(b)(3)(B)(ii) of this title with respect to the services, payment for such services shall be made on the basis of an itemized bill to the person who has agreed to assume the legal obligation to make payment for such services and files a request for payment (with such accompanying evidence of such legal obligation as may be required in regulations),
 - **(g)** If an individual, who is enrolled under section 1395i–2(c) of this title or under section 1395p of this title , dies, and premiums with respect to such enrollment have been received with respect to such individual for any month after the month of his death, such premiums shall be refunded to the person or persons determined by the Secretary under regulations to have paid such premiums or if payment for such premiums was made by the deceased individual before his death, to the legal representative of the estate of such deceased individual, if any. If there is no person who meets the requirements of the preceding sentence such premiums shall be refunded to the person or persons in the priorities specified in paragraphs (2) through (7) of subsection (e).
 - **(h)** Notwithstanding subsection (f) or any other provision of law, the Secretary shall permit a provider of services or supplier to appeal any determination of the Secretary under this subchapter relating to services rendered under this subchapter to an individual who subsequently dies if there is no other party available to appeal such determination.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1870, as added [Pub. L. 89–97, title I, § 102(a)](https://www.govinfo.gov/link/plaw/89/public/97), July 30, 1965, [79 Stat. 331](https://www.govinfo.gov/link/statute/79/331); amended [Pub. L. 90–248, title I, § 154(b)](https://www.govinfo.gov/link/plaw/90/public/248), (c), Jan. 2, 1968, [81 Stat. 862](https://www.govinfo.gov/link/statute/81/862); [Pub. L. 92–603, title II](https://www.govinfo.gov/link/plaw/92/public/603), §§ 261(a), 266, 281(a), (b), Oct. 30, 1972, [86 Stat. 1448](https://www.govinfo.gov/link/statute/86/1448), 1450, 1454, 1455; [Pub. L. 93–445, title III, § 309](https://www.govinfo.gov/link/plaw/93/public/445), Oct. 16, 1974, [88 Stat. 1358](https://www.govinfo.gov/link/statute/88/1358); [Pub. L. 96–499, title IX, § 954(a)](https://www.govinfo.gov/link/plaw/96/public/499), Dec. 5, 1980, [94 Stat. 2647](https://www.govinfo.gov/link/statute/94/2647); [Pub. L. 97–248, title I, § 128(d)(1)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 367](https://www.govinfo.gov/link/statute/96/367); [Pub. L. 100–203, title IV](https://www.govinfo.gov/link/plaw/100/public/203), §§ 4039(h)(7), 4096(a)(2), Dec, 22, 1987, [101 Stat. 1330–139](https://www.govinfo.gov/link/statute/101/1330), as amended [Pub. L. 100–360, title IV, § 411(e)(3)](https://www.govinfo.gov/link/plaw/100/public/360), July 1, 1988, [102 Stat. 776](https://www.govinfo.gov/link/statute/102/776); [Pub. L. 100–360, title IV, § 411(j)(4)(B)](https://www.govinfo.gov/link/plaw/100/public/360), July 1, 1988, [102 Stat. 791](https://www.govinfo.gov/link/statute/102/791); [Pub. L. 108–173, title IX, § 939(a)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2416](https://www.govinfo.gov/link/statute/117/2416); [Pub. L. 112–240, title VI, § 638(a)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2357](https://www.govinfo.gov/link/statute/126/2357).)*

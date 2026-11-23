@@ -3,9 +3,10 @@ title: "Section 60703 - Purpose"
 usc_title: 34
 usc_section: "60703"
 chapter: 607
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 60703"
-generated_at: "2026-03-30T02:55:33.318Z"
+generated_at: "2026-11-23T21:26:09.864Z"
+status: "active"
 ---
 
 # § 60703. Purpose
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:33.318Z"
   - **(2)** the Edward Byrne criminal justice innovation program; 1 1 So in original. Probably should be “Edward Byrne Criminal Justice Innovation Program;”.
   - **(3)** community-based violence prevention initiatives; or
   - **(4)** gang and youth violence education, prevention and intervention, and related activities.
+
+## Source Credit
+
+*([Pub. L. 115–185, § 4](https://www.govinfo.gov/link/plaw/115/public/185), June 18, 2018, [132 Stat. 1485](https://www.govinfo.gov/link/statute/132/1485).)*

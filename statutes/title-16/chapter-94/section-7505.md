@@ -3,9 +3,10 @@ title: "Section 7505 - Grants"
 usc_title: 16
 usc_section: "7505"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 7505"
-generated_at: "2026-03-30T02:54:23.076Z"
+generated_at: "2026-11-23T21:25:52.067Z"
+status: "active"
 ---
 
 # § 7505. Grants
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:54:23.076Z"
       - **(i)** ocean and coastal dependent industries;
       - **(ii)** geographic regions as defined by the Foundation; and
       - **(iii)** academic institutions.
+
+## Source Credit
+
+*([Pub. L. 114–113, div. O, title IX, § 906](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3032](https://www.govinfo.gov/link/statute/129/3032).)*

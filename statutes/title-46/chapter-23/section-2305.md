@@ -3,9 +3,10 @@ title: "Section 2305 - Injunctions"
 usc_title: 46
 usc_section: "2305"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 2305"
-generated_at: "2026-03-30T02:56:15.542Z"
+generated_at: "2026-11-23T21:26:37.036Z"
+status: "active"
 ---
 
 # § 2305. Injunctions
@@ -15,3 +16,16 @@ generated_at: "2026-03-30T02:56:15.542Z"
   - **(1)** give notice to any person against whom an action for injunctive relief is considered under this section an opportunity to present that person’s views; and
   - **(2)** except for a knowing and willful violation, give the person a reasonable opportunity to achieve compliance.
 - **(c)** The failure to give notice and opportunity to present views under subsection (b) of this section does not preclude the court from granting appropriate relief.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 2305 | 46:1485 |
+
+
+Historical and Revision Notes
+
+2305
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 509](https://www.govinfo.gov/link/statute/97/509).)*

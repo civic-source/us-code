@@ -3,9 +3,10 @@ title: "Section 555a - Petroleum product information"
 usc_title: 33
 usc_section: "555a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 555a"
-generated_at: "2026-03-30T02:55:41.062Z"
+generated_at: "2026-11-23T21:26:11.315Z"
+status: "active"
 ---
 
 # § 555a. Petroleum product information
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:41.062Z"
   - **(1)** “petroleum product information” means information relating to petroleum products transported by vessel which is received by the Secretary (A) under section 555 of this title , or (B) under any other legal authority; and
   - **(2)** “State taxing agency” means any State agency, body, or commission, or its legal representative, which is charged under the laws of such State with responsibility for the administration of State tax laws.
 - **(f)**
+
+## Source Credit
+
+*([Pub. L. 99–662, title IX, § 919](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4192](https://www.govinfo.gov/link/statute/100/4192).)*

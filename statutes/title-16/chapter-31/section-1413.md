@@ -3,9 +3,10 @@ title: "Section 1413 - Regulatory authority of Secretary"
 usc_title: 16
 usc_section: "1413"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1413"
-generated_at: "2026-03-30T02:54:22.964Z"
+generated_at: "2026-11-23T21:25:51.871Z"
+status: "active"
 ---
 
 # § 1413. Regulatory authority of Secretary
@@ -43,3 +44,9 @@ generated_at: "2026-03-30T02:54:22.964Z"
     - **(A)** include a description of the actions taken by the harvesting nations or under the International Dolphin Conservation Program to reduce the incidental mortality and serious injury and measures to mitigate the adverse impact on the marine mammal species or stock;
     - **(B)** indicate whether, in their judgment, the actions taken address the problem adequately; and
     - **(C)** if they indicate that the actions taken do not address the problem adequately, include recommendations of such additional action to be taken as may be necessary.
+
+Adjustments to requirements
+
+## Source Credit
+
+*([Pub. L. 92–522, title III, § 303](https://www.govinfo.gov/link/plaw/92/public/522), as added [Pub. L. 105–42, § 6(c)](https://www.govinfo.gov/link/plaw/105/public/42), Aug. 15, 1997, [111 Stat. 1131](https://www.govinfo.gov/link/statute/111/1131).)*

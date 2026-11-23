@@ -3,9 +3,10 @@ title: "Section 4712 - Inventory of abandoned vessels"
 usc_title: 46
 usc_section: "4712"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 4712"
-generated_at: "2026-03-30T02:56:15.548Z"
+generated_at: "2026-11-23T21:26:37.069Z"
+status: "active"
 ---
 
 # § 4712. Inventory of abandoned vessels
@@ -17,3 +18,17 @@ generated_at: "2026-03-30T02:56:15.548Z"
   - **(1)** a State, Indian Tribe, Native Hawaiian organization, or person may report a covered vessel that may be abandoned to the Commandant for potential inclusion in the inventory established under subsection (a);
   - **(2)** the Commandant shall review any such report and add such vessel to the inventory if the Commandant determines that the reported vessel is abandoned pursuant to section 4711.
 - **(e)** Except in a response action carried out under section 311(j) of the Federal Water Pollution Control Act ( 33 U.S.C. 1321 ) or in the case of imminent threat to life and safety, the Commandant shall not be responsible for removing any covered vessels listed on the inventory established and maintained under subsection (a).
+
+In General
+
+Contents
+
+Publication
+
+Reporting of Potentially Abandoned Vessels
+
+Clarification
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. G, title LXXIII, § 7347(a)(3)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1780](https://www.govinfo.gov/link/statute/139/1780).)*

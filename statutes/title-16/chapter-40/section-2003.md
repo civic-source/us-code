@@ -3,9 +3,10 @@ title: "Section 2003 - Congressional policy and declaration of purpose"
 usc_title: 16
 usc_section: "2003"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2003"
-generated_at: "2026-03-30T02:54:22.996Z"
+generated_at: "2026-11-23T21:25:51.938Z"
+status: "active"
 ---
 
 # § 2003. Congressional policy and declaration of purpose
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:22.996Z"
   - **(1)** appraising on a continuing basis the soil, water, and related resources of the Nation;
   - **(2)** developing and updating periodically a program for furthering the conservation, protection, and enhancement of the soil, water, and related resources of the Nation consistent with the roles and program responsibilities of other Federal agencies and State, tribal, and local governments; and
   - **(3)** providing to Congress and the public, through reports, the information developed pursuant to paragraphs (1) and (2) of this subsection, and by providing Congress with an annual evaluation report as provided in section 2006 of this title .
+
+## Source Credit
+
+*([Pub. L. 95–192, § 4](https://www.govinfo.gov/link/plaw/95/public/192), Nov. 18, 1977, [91 Stat. 1407](https://www.govinfo.gov/link/statute/91/1407); [Pub. L. 113–79, title II, § 2508(a)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 756](https://www.govinfo.gov/link/statute/128/756).)*

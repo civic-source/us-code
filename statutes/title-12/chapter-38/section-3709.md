@@ -3,9 +3,10 @@ title: "Section 3709 - Presale reinstatement"
 usc_title: 12
 usc_section: "3709"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3709"
-generated_at: "2026-03-30T02:53:53.496Z"
+generated_at: "2026-11-23T21:25:37.147Z"
+status: "active"
 ---
 
 # § 3709. Presale reinstatement
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.496Z"
 - **(b)** Prior to withdrawing the security property from foreclosure in the circumstances described in subsection (a)(2) or (a)(3), the foreclosure commissioner shall afford the Secretary a reasonable opportunity to demonstrate why the security property should not be so withdrawn.
 - **(c)** In any case in which a foreclosure commenced under this chapter is canceled, the mortgage shall continue in effect as though acceleration had not occurred.
 - **(d)** If the foreclosure commissioner cancels a foreclosure sale under this chapter a new foreclosure may be subsequently commenced as provided in this chapter.
+
+## Source Credit
+
+*([Pub. L. 97–35, title III, § 369A](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 427](https://www.govinfo.gov/link/statute/95/427).)*

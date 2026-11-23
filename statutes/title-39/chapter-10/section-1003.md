@@ -3,9 +3,10 @@ title: "Section 1003 - Employment policy"
 usc_title: 39
 usc_section: "1003"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 1003"
-generated_at: "2026-03-30T02:55:43.689Z"
+generated_at: "2026-11-23T21:26:12.772Z"
+status: "active"
 ---
 
 # § 1003. Employment policy
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:43.689Z"
 - **(b)** Compensation and benefits for all officers and employees serving in or under the Office of Inspector General of the United States Postal Service shall be maintained on a standard of comparability to the compensation and benefits paid for comparable levels of work in the respective Offices of Inspector General of the various establishments named in section 401(1) of title 5 .
 - **(c)** Compensation and benefits for all Postal Inspectors shall be maintained on a standard of comparability to the compensation and benefits paid for comparable levels of work in the executive branch of the Government outside of the Postal Service. As used in this subsection, the term “Postal Inspector” included 1 1 So in original. Probably should be “includes”. any agent to whom any investigative powers are granted under section 3061 of title 18 .
 - **(d)** The Postal Service shall follow an employment policy designed, without compromising the policy of section 101(a) of this title , to extend opportunity to the disadvantaged and the handicapped.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 730](https://www.govinfo.gov/link/statute/84/730); [Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 662(c)(2)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–314](https://www.govinfo.gov/link/statute/110/3009), 3009–380; [Pub. L. 117–286, § 4(b)(65)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4350](https://www.govinfo.gov/link/statute/136/4350).)*

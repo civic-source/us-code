@@ -3,9 +3,10 @@ title: "Section 1395rr - End stage renal disease program"
 usc_title: 42
 usc_section: "1395rr"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1395rr"
-generated_at: "2026-03-30T02:56:11.010Z"
+generated_at: "2026-11-23T21:26:31.672Z"
+status: "active"
 ---
 
 # § 1395rr. End stage renal disease program
@@ -243,3 +244,133 @@ generated_at: "2026-03-30T02:56:11.010Z"
       - **(i)** The Secretary shall provide certificates to providers of services and renal dialysis facilities who furnish renal dialysis services under this section to display in patient areas. The certificate shall indicate the total performance score achieved by the provider or facility under paragraph (3).
       - **(ii)** Each facility or provider receiving a certificate under clause (i) shall prominently display the certificate at the provider or facility.
     - **(D)** The Secretary shall establish a list of providers of services and renal dialysis facilities who furnish renal dialysis services under this section that indicates the total performance score and the performance score for individual measures achieved by the provider and facility under paragraph (3). Such information shall be posted on the Internet website of the Centers for Medicare & Medicaid Services in an easily understandable format.
+
+“As part of the promulgation of annual rule for the Medicare end stage renal disease prospective payment system under section 1881(b)(14) of the Social Security Act ( 42 U.S.C. 1395rr(b)(14) ) for calendar year 2016, the Secretary of Health and Human Services (in this subsection referred to as the ‘Secretary’) shall establish a process for—
+
+In general
+
+Funding
+
+Delay
+
+Monitoring
+
+“By not later than January 1, 2016 , the Secretary of Health and Human Services shall—
+
+In general
+
+Studies on esrd drugs.—
+
+Existing drugs
+
+New drugs
+
+Matters studied
+
+Reports.—
+
+Existing esrd drugs
+
+New esrd drugs
+
+Report.—
+
+In general
+
+Recommendations
+
+Elements and features of a bundled prospective payment system
+
+Bundle of items and services
+
+Case mix
+
+Wage index
+
+Rural areas
+
+Other adjustments
+
+Update framework
+
+Additional recommendations
+
+In general
+
+Deadline for new applications
+
+Protection of approved exception rates
+
+Inapplicability to pediatric facilities
+
+Development
+
+Report
+
+Development
+
+Report
+
+“Notwithstanding the amendment made by subsection (a)(1) [amending this section], for purposes of making payments under section 1881(b) of the Social Security Act ( 42 U.S.C. 1395rr(b) ) for dialysis services furnished during 2001, the composite rate payment under paragraph (7) of such section—
+
+Auditing of Cost Reports
+
+Implementation of Quality Standards
+
+In general.—
+
+Study
+
+Recommendations
+
+Report
+
+Annual report
+
+Establishment.—
+
+In general
+
+Number of participants
+
+Payments to Participating Providers and Facilities.—
+
+Services for which payment may be made.—
+
+In general
+
+Services described
+
+Amount of payment.—
+
+In general
+
+Determination of payment amount
+
+Payment as add-on to composite rate
+
+Individuals Eligible to Receive Services Under Project.—
+
+In general
+
+Coverage of individuals currently receiving services
+
+Continuation of coverage upon termination of project
+
+Qualifications for Home Hemodialysis Staff Assistants
+
+Reports.—
+
+Interim status report
+
+Final report
+
+Authorization of Appropriations
+
+Deadline for establishing new areas
+
+Transition
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1881, as added [Pub. L. 95–292, § 2](https://www.govinfo.gov/link/plaw/95/public/292), June 13, 1978, [92 Stat. 308](https://www.govinfo.gov/link/statute/92/308); amended [Pub. L. 96–499, title IX, § 957](https://www.govinfo.gov/link/plaw/96/public/499), Dec. 5, 1980, [94 Stat. 2648](https://www.govinfo.gov/link/statute/94/2648); [Pub. L. 97–35, title XXI, § 2145(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 799](https://www.govinfo.gov/link/statute/95/799); [Pub. L. 98–21, title VI, § 602(i)](https://www.govinfo.gov/link/plaw/98/public/21), Apr. 20, 1983, [97 Stat. 165](https://www.govinfo.gov/link/statute/97/165); [Pub. L. 98–369, div. B, title III](https://www.govinfo.gov/link/plaw/98/public/369), §§ 2323(c), 2352(a), 2354(b)(41), July 18, 1984, [98 Stat. 1086](https://www.govinfo.gov/link/statute/98/1086), 1099, 1102; [Pub. L. 98–617, § 3(b)(8)](https://www.govinfo.gov/link/plaw/98/public/617), Nov. 8, 1984, [98 Stat. 3296](https://www.govinfo.gov/link/statute/98/3296); [Pub. L. 99–509, title IX, § 9335(a)(2)](https://www.govinfo.gov/link/plaw/99/public/509), (d)(1), (e)–(i)(1), (j)(1), (k)(1), Oct. 21, 1986, [100 Stat. 2029–2033](https://www.govinfo.gov/link/statute/100/2029); [Pub. L. 100–93, § 12](https://www.govinfo.gov/link/plaw/100/public/93), Aug. 18, 1987, [101 Stat. 697](https://www.govinfo.gov/link/statute/101/697); [Pub. L. 100–203, title IV](https://www.govinfo.gov/link/plaw/100/public/203), §§ 4036(b), (c)(2), (d)(5), 4065(b), Dec. 22, 1987, [101 Stat. 1330–79](https://www.govinfo.gov/link/statute/101/1330), 1330–80, 1330–112; [Pub. L. 101–239, title VI](https://www.govinfo.gov/link/plaw/101/public/239), §§ 6102(e)(8), 6203(b)(1), (2), 6219(a), (b), Dec. 19, 1989, [103 Stat. 2188](https://www.govinfo.gov/link/statute/103/2188), 2235, 2254; [Pub. L. 101–508, title IV, § 4201(c)(1)](https://www.govinfo.gov/link/plaw/101/public/508), (d)(2), formerly (d)(2), (3), Nov. 5, 1990, [104 Stat. 1388–103](https://www.govinfo.gov/link/statute/104/1388), 1388–104, renumbered [Pub. L. 103–432, title I, § 160(d)(3)](https://www.govinfo.gov/link/plaw/103/public/432), Oct. 31, 1994, [108 Stat. 4444](https://www.govinfo.gov/link/statute/108/4444); [Pub. L. 103–66, title XIII, § 13566(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 607](https://www.govinfo.gov/link/statute/107/607); [Pub. L. 103–296, title I, § 108(c)(5)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1485](https://www.govinfo.gov/link/statute/108/1485); [Pub. L. 106–113, div. B, § 1000(a)(6) [title II, § 222(a)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–352; [Pub. L. 106–554, § 1(a)(6) [title IV, § 422(a)(1)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–516; [Pub. L. 108–173, title VI, § 623(a)](https://www.govinfo.gov/link/plaw/108/public/173), (b)(2), (d), Dec. 8, 2003, [117 Stat. 2312](https://www.govinfo.gov/link/statute/117/2312), 2313; [Pub. L. 109–171, title V, § 5106](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 42](https://www.govinfo.gov/link/statute/120/42); [Pub. L. 109–432, div. B, title I, § 103(a)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2981](https://www.govinfo.gov/link/statute/120/2981); [Pub. L. 110–275, title I, § 153(a)](https://www.govinfo.gov/link/plaw/110/public/275), (b)(1), (3)(A), (c), July 15, 2008, [122 Stat. 2553](https://www.govinfo.gov/link/statute/122/2553), 2556; [Pub. L. 111–148, title III, § 3401(h)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 485](https://www.govinfo.gov/link/statute/124/485); [Pub. L. 112–240, title VI, § 632(a)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2354](https://www.govinfo.gov/link/statute/126/2354); [Pub. L. 113–93, title II, § 217(b)](https://www.govinfo.gov/link/plaw/113/public/93), (d), Apr. 1, 2014, [128 Stat. 1061](https://www.govinfo.gov/link/statute/128/1061), 1062; [Pub. L. 115–123, div. E, title III, § 50302(a)](https://www.govinfo.gov/link/plaw/115/public/123), (d), title IV, § 50403(b), Feb. 9, 2018, [132 Stat. 190](https://www.govinfo.gov/link/statute/132/190), 192, 218; [Pub. L. 116–136, div. A, title III, § 3705](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 418](https://www.govinfo.gov/link/statute/134/418).)*

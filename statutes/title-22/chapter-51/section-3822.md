@@ -3,12 +3,17 @@ title: "Section 3822 - Foreign vessels"
 usc_title: 22
 usc_section: "3822"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3822"
-generated_at: "2026-03-30T02:55:05.398Z"
+generated_at: "2026-11-23T21:25:58.598Z"
+status: "active"
 ---
 
 # § 3822. Foreign vessels
 
 With respect to a foreign vessel of a country which has inspection laws approximating those of the United States, any such vessel having an unexpired certificate of inspection duly issued by the authorities of such country shall not be subject to an inspection other than that necessary to determine whether the vessel, its boilers, and its lifesaving equipment are as stated in the certificate of inspection. A certificate of inspection may not be accepted as evidence of lawful inspection under this section unless similar privileges are granted to vessels of the United States under the laws of the country to which the vessel belongs.
 
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1812](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 493](https://www.govinfo.gov/link/statute/93/493).)*

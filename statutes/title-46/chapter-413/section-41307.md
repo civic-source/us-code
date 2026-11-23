@@ -3,9 +3,10 @@ title: "Section 41307 - Injunctive relief sought by the Commission"
 usc_title: 46
 usc_section: "41307"
 chapter: 413
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 41307"
-generated_at: "2026-03-30T02:56:15.565Z"
+generated_at: "2026-11-23T21:26:37.198Z"
+status: "active"
 ---
 
 # § 41307. Injunctive relief sought by the Commission
@@ -25,3 +26,60 @@ generated_at: "2026-03-30T02:56:15.565Z"
 - **(d)** The Commission may represent itself in a proceeding under this section in—
   - **(1)** a district court of the United States, on notice to the Attorney General; and
   - **(2)** a court of appeals of the United States, with the approval of the Attorney General.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 41307(a) | 46 App.:1710(h)(1). | Pub. L. 98–237, § 11(c) (last sentence), (h)(1), Mar. 20, 1984 , 98 Stat. 80 , 81. |
+| 41307(b)(1) | 46 App.:1705(g), (h) (1st sentence). | Pub. L. 98–237, § 6(g) –(i), (k), Mar. 20, 1984 , 98 Stat. 72 , 73. |
+|  | 46 App.:1710(c) (last sentence). |  |
+| 41307(b)(2) | 46 App.:1705(h) (2d sentence). |  |
+| 41307(b)(3) | 46 App.:1705(h) (3d, last sentences). |  |
+| 41307(c) | 46 App.:1705(i). |  |
+| 41307(d) | 46 App.:1705(k). |  |
+
+
+General Violations
+
+Reduction in Competition
+
+Action by commission
+
+Remedies by court
+
+Burden of proof and third parties
+
+Competition factors
+
+Failure To Provide Information
+
+Representation
+
+Historical and Revision Notes
+
+41307(a)
+
+Pub. L. 98–237, § 11(c)
+
+Mar. 20, 1984
+
+98 Stat. 80
+
+41307(b)(1)
+
+Pub. L. 98–237, § 6(g)
+
+Mar. 20, 1984
+
+98 Stat. 72
+
+41307(b)(2)
+
+41307(b)(3)
+
+41307(c)
+
+41307(d)
+
+## Source Credit
+
+*([Pub. L. 109–304, § 7](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1547](https://www.govinfo.gov/link/statute/120/1547); [Pub. L. 115–282, title VII, § 710(a)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4297](https://www.govinfo.gov/link/statute/132/4297).)*

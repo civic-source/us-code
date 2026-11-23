@@ -3,9 +3,10 @@ title: "Section 2692 - Storage, treatment, and disposal of nondefense toxic and 
 usc_title: 10
 usc_section: "2692"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2692"
-generated_at: "2026-03-30T02:53:38.171Z"
+generated_at: "2026-11-23T21:25:32.657Z"
+status: "active"
 ---
 
 # § 2692. Storage, treatment, and disposal of nondefense toxic and hazardous materials
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:38.171Z"
 - **(d)**
   - **(1)** The Secretary may assess a charge for any storage or disposal provided under this section. Any such charge shall be on a reimbursable cost basis.
   - **(2)** In the case of storage under this section authorized because of an imminent danger, the storage provided shall be temporary and shall cease once the imminent danger no longer exists. In all other cases of storage or disposal authorized under this section, the storage or disposal authorized shall be terminated as determined by the Secretary.
+
+## Source Credit
+
+*(Added [Pub. L. 98–407, title VIII, § 805(a)](https://www.govinfo.gov/link/plaw/98/public/407), Aug. 28, 1984, [98 Stat. 1520](https://www.govinfo.gov/link/statute/98/1520); amended [Pub. L. 102–484, div. B, title XXVIII, § 2852](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2625](https://www.govinfo.gov/link/statute/106/2625); [Pub. L. 103–337, div. A, title III, § 325](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2711](https://www.govinfo.gov/link/statute/108/2711); [Pub. L. 105–85, div. A, title III, § 343(a)](https://www.govinfo.gov/link/plaw/105/public/85) –(g)(2), Nov. 18, 1997, [111 Stat. 1686](https://www.govinfo.gov/link/statute/111/1686), 1687; [Pub. L. 106–65, div. A, title X, § 1066(a)(25)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 772](https://www.govinfo.gov/link/statute/113/772); [Pub. L. 109–364, div. A, title X, § 1071(a)(21)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2399](https://www.govinfo.gov/link/statute/120/2399).)*

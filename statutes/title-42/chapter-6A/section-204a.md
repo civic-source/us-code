@@ -3,9 +3,10 @@ title: "Section 204a - Deployment readiness"
 usc_title: 42
 usc_section: "204a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 204a"
-generated_at: "2026-03-30T02:56:10.683Z"
+generated_at: "2026-11-23T21:26:30.199Z"
+status: "active"
 ---
 
 # § 204a. Deployment readiness
@@ -35,3 +36,9 @@ generated_at: "2026-03-30T02:56:10.683Z"
     - **(A)** any deployment exemptions that may be granted by the Secretary based on the unique requirements of an agency and an individual’s functional role in such agency; and
     - **(B)** the nature of the urgent or emergency public health care need.
 - **(c)** For purposes of pay, allowances, and benefits of a Commissioned Corps officer who is detailed or assigned to a Federal entity, the deployment of such officer by the Secretary in response to an urgent or emergency public health care need shall be deemed to be an authorized activity of the Federal entity to which the officer is detailed or assigned.
+
+“It is the purpose of this section [enacting this section and amending sections 215 and 254d of this title] to improve the force management and readiness of the Commissioned Corps to accomplish the following objectives:
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title II, § 203A, as added [Pub. L. 109–417, title II, § 206(b)](https://www.govinfo.gov/link/plaw/109/public/417), Dec. 19, 2006, [120 Stat. 2851](https://www.govinfo.gov/link/statute/120/2851); amended [Pub. L. 116–136, div. A, title III, § 3214(b)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 373](https://www.govinfo.gov/link/statute/134/373).)*

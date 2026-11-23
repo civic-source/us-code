@@ -3,9 +3,10 @@ title: "Section 3639 - Advisory committee"
 usc_title: 16
 usc_section: "3639"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3639"
-generated_at: "2026-03-30T02:54:23.019Z"
+generated_at: "2026-11-23T21:25:51.979Z"
+status: "active"
 ---
 
 # § 3639. Advisory committee
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:23.019Z"
 - **(b)** Members of the advisory committee may attend all public meetings of the Commission and Panels and all nonexecutive sessions of the United States Section and United States Panel sections. At nonexecutive meetings of the United States Section and United States Panel sections, members of the advisory committee shall be given the opportunity to examine and to be heard on any nonadministrative matter under consideration.
 - **(c)** The members of the advisory committee shall receive no compensation for their services as such members.
 - **(d)** The Chairman of the United States Section shall call a meeting of the advisory committee at least one time each year.
+
+## Source Credit
+
+*([Pub. L. 99–5, § 10](https://www.govinfo.gov/link/plaw/99/public/5), Mar. 15, 1985, [99 Stat. 13](https://www.govinfo.gov/link/statute/99/13).)*

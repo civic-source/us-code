@@ -3,9 +3,10 @@ title: "Section 4061 - Commencing of action for relief"
 usc_title: 19
 usc_section: "4061"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4061"
-generated_at: "2026-03-30T02:54:24.700Z"
+generated_at: "2026-11-23T21:25:42.873Z"
+status: "active"
 ---
 
 # § 4061. Commencing of action for relief
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:24.700Z"
   - **(2)** Subsection (c).
   - **(3)** Subsection (i).
 - **(d)** No investigation may be initiated under this section with respect to any CAFTA–DR article if, after the date that the Agreement enters into force, import relief has been provided with respect to that CAFTA–DR article under this part.
+
+## Source Credit
+
+*([Pub. L. 109–53, title III, § 311](https://www.govinfo.gov/link/plaw/109/public/53), Aug. 2, 2005, [119 Stat. 488](https://www.govinfo.gov/link/statute/119/488).)*

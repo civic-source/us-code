@@ -3,9 +3,10 @@ title: "Section 870 - Trolley wires and trolley feeder wires"
 usc_title: 30
 usc_section: "870"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 870"
-generated_at: "2026-03-30T02:55:29.390Z"
+generated_at: "2026-11-23T21:26:00.397Z"
+status: "active"
 ---
 
 # § 870. Trolley wires and trolley feeder wires
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:29.390Z"
 - **(b)** Trolley wires and trolley feeder wires shall be provided with overcurrent protection.
 - **(c)** Trolley wires and trolley feeder wires, high-voltage cables and transformers shall not be located inby the last open crosscut and shall be kept at least 150 feet from pillar workings.
 - **(d)** Trolley wires, trolley feeder wires, and bare signal wires shall be insulated adequately where they pass through doors and stoppings, and where they cross other power wires and cables. Trolley wires and trolley feeder wires shall be guarded adequately (1) at all points where men are required to work or pass regularly under the wires; (2) on both sides of all doors and stoppings; and (3) at man-trip stations. The Secretary or his authorized representatives shall specify other conditions where trolley wires and trolley feeder wires shall be adequately protected to prevent contact by any person, or shall require the use of improved methods to prevent such contact. Temporary guards shall be provided where trackmen and other persons work in proximity to trolley wires and trolley feeder wires.
+
+## Source Credit
+
+*([Pub. L. 91–173, title III, § 310](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 783](https://www.govinfo.gov/link/statute/83/783).)*

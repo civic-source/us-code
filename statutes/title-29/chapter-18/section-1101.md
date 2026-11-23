@@ -3,9 +3,10 @@ title: "Section 1101 - Coverage"
 usc_title: 29
 usc_section: "1101"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1101"
-generated_at: "2026-03-30T02:55:18.716Z"
+generated_at: "2026-11-23T21:26:02.255Z"
+status: "active"
 ---
 
 # § 1101. Coverage
@@ -42,3 +43,11 @@ generated_at: "2026-03-30T02:55:18.716Z"
       - **(ii)** as provided in an action brought by the Secretary pursuant to paragraph (2) or (5) of section 1132(a) of this title for a breach of fiduciary responsibilities which would also constitute a violation of Federal or State criminal law.
   - **(6)** Nothing in this subsection shall preclude the application of any Federal criminal law.
   - **(7)** For purposes of this subsection, the term “policy” includes a contract.
+
+In general
+
+Civil actions
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 401](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 874](https://www.govinfo.gov/link/statute/88/874); [Pub. L. 101–239, title VII, § 7891(a)(1)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2445](https://www.govinfo.gov/link/statute/103/2445); [Pub. L. 104–188, title I, § 1460(a)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1820](https://www.govinfo.gov/link/statute/110/1820).)*

@@ -3,9 +3,10 @@ title: "Section 10701 - Standards for rates, classifications, through routes, ru
 usc_title: 49
 usc_section: "10701"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 10701"
-generated_at: "2026-03-30T02:56:19.323Z"
+generated_at: "2026-11-23T21:26:40.673Z"
+status: "active"
 ---
 
 # § 10701. Standards for rates, classifications, through routes, rules, and practices
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:19.323Z"
     - **(B)** the amount of traffic which contributes only marginally to fixed costs and the extent to which, if any, rates on such traffic can be changed to maximize the revenues from such traffic; and
     - **(C)** the carrier’s mix of rail traffic to determine whether one commodity is paying an unreasonable share of the carrier’s overall revenues,
   - **(3)** The Board shall maintain 1 or more simplified and expedited methods for determining the reasonableness of challenged rates in those cases in which a full stand-alone cost presentation is too costly, given the value of the case.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 809](https://www.govinfo.gov/link/statute/109/809); amended [Pub. L. 104–287, § 5(22)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3390](https://www.govinfo.gov/link/statute/110/3390); [Pub. L. 114–110, § 11(a)](https://www.govinfo.gov/link/plaw/114/public/110), Dec. 18, 2015, [129 Stat. 2233](https://www.govinfo.gov/link/statute/129/2233).)*

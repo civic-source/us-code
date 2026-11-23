@@ -3,9 +3,10 @@ title: "Section 12528 - Reserve Mobilization Income Insurance Fund"
 usc_title: 10
 usc_section: "12528"
 chapter: 1214
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 12528"
-generated_at: "2026-03-30T02:53:38.270Z"
+generated_at: "2026-11-23T21:25:33.047Z"
+status: "active"
 ---
 
 # § 12528. Reserve Mobilization Income Insurance Fund
@@ -21,3 +22,17 @@ generated_at: "2026-03-30T02:53:38.270Z"
   - **(1)** The projected amount of the premiums to be collected, investment earnings to be received, and any transfers or appropriations to be made for the Fund for that fiscal year.
   - **(2)** The amount for that fiscal year of any cumulative unfunded liability (including any negative amount or any gain to the Fund) resulting from payments of benefits.
   - **(3)** The amount for that fiscal year (including any negative amount) of any cumulative actuarial gain or loss to the Fund.
+
+Establishment
+
+Assets of Fund
+
+Availability
+
+Investment of Assets of Fund
+
+Annual Accounting
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title V, § 512(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 302](https://www.govinfo.gov/link/statute/110/302).)*

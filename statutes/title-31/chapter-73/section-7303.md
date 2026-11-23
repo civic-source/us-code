@@ -3,9 +3,10 @@ title: "Section 7303 - Reports and public hearings on proposed uses of amounts"
 usc_title: 31
 usc_section: "7303"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 7303"
-generated_at: "2026-03-30T02:55:34.076Z"
+generated_at: "2026-11-23T21:26:10.653Z"
+status: "active"
 ---
 
 # § 7303. Reports and public hearings on proposed uses of amounts
@@ -18,3 +19,22 @@ generated_at: "2026-03-30T02:55:34.076Z"
   - **(2)** Beginning with the fiscal year ending September 30, 1983 , each report shall describe how the State met the goals, objectives, and needs in using the amounts described in the report for the prior fiscal year.
 - **(b)** A State may not receive block grant amounts for a fiscal year until the State conducts a public hearing, after adequate public notice, on the proposed use and distribution of the amounts set out in the report prepared under subsection (a) of this section for the fiscal year.
 - **(c)** Each report prepared under subsection (a) of this section and changes to the report shall be made public in the State on a timely basis and in a way that encourages comments from interested local government and persons.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 7303 | 31:1243(note). | Aug. 13, 1981 , Pub. L. 97–35, § 1742 , 95 Stat. 763 . |
+
+
+Historical and Revision Notes
+
+7303
+
+Aug. 13, 1981
+
+Pub. L. 97–35, § 1742
+
+95 Stat. 763
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1040](https://www.govinfo.gov/link/statute/96/1040).)*

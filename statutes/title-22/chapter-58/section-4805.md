@@ -3,9 +3,10 @@ title: "Section 4805 - Cooperation of other Federal agencies"
 usc_title: 22
 usc_section: "4805"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4805"
-generated_at: "2026-03-30T02:55:05.414Z"
+generated_at: "2026-11-23T21:25:58.650Z"
+status: "active"
 ---
 
 # § 4805. Cooperation of other Federal agencies
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:05.414Z"
 - **(a)** In order to facilitate fulfillment of the responsibilities described in section 4802(a) of this title , other Federal agencies shall cooperate (through agreements) to the maximum extent possible with the Secretary of State. Such agencies may, with or without reimbursement, provide assistance to the Secretary, perform security inspections, provide logistical support relating to the differing missions and facilities of other Federal agencies, and perform other overseas security functions as may be authorized by the Secretary. Specifically, the Secretary may agree to delegate operational control of overseas security functions of other Federal agencies to the heads of such agencies, subject to the Secretary’s authority as set forth in section 4802(a) of this title . The agency head receiving such delegated authority shall be responsible to the Secretary in the exercise of the delegated operational control.
 - **(b)** Nothing contained in this chapter shall be construed to limit or impair the authority or responsibility of any other Federal, State, or local agency with respect to law enforcement, domestic security operations, or intelligence activities as defined in Executive Order 12333.
 - **(c)** The Administrator of General Services is authorized to lease (to such extent or in such amounts as are provided in appropriation Acts) such amount of space in the United States as may be necessary for the Department of State to accommodate the personnel required to carry out this subchapter. The Department of State shall pay for such space at the rate established by the Administrator of General Services for space and related services.
+
+## Source Credit
+
+*([Pub. L. 99–399, title I, § 106](https://www.govinfo.gov/link/plaw/99/public/399), Aug. 27, 1986, [100 Stat. 857](https://www.govinfo.gov/link/statute/100/857).)*

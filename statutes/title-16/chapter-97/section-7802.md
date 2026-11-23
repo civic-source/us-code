@@ -3,9 +3,10 @@ title: "Section 7802 - Appointment or designation of United States Commissioners
 usc_title: 16
 usc_section: "7802"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 7802"
-generated_at: "2026-03-30T02:54:23.078Z"
+generated_at: "2026-11-23T21:25:52.070Z"
+status: "active"
 ---
 
 # § 7802. Appointment or designation of United States Commissioners
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:54:23.078Z"
     - **(B)** An individual appointed to serve as a member of the Advisory Committee—
       - **(i)** shall serve without pay; and
       - **(ii)** shall not be considered a Federal employee, except for the purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28.
+
+## Source Credit
+
+*([Pub. L. 114–327, title II, § 202](https://www.govinfo.gov/link/plaw/114/public/327), Dec. 16, 2016, [130 Stat. 1987](https://www.govinfo.gov/link/statute/130/1987).)*

@@ -3,9 +3,10 @@ title: "Section 3304a - Competitive service; career appointment after 3 years’
 usc_title: 5
 usc_section: "3304a"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3304a"
-generated_at: "2026-03-30T02:52:56.001Z"
+generated_at: "2026-11-23T21:25:23.146Z"
+status: "active"
 ---
 
 # § 3304a. Competitive service; career appointment after 3 years’ temporary service
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:52:56.001Z"
 - **(b)** The employing agency shall terminate the appointment of an individual serving in a position in the competitive service under an indefinite or temporary appointment described in subsection (a) of this section, not later than 90 days after he has completed the 3-year period referred to in subsection (a)(1) of this section, if, prior to the close of such 90-day period, such individual has not met the requirements and conditions of subparagraphs (2) to (4), inclusive, of subsection (a) of this section.
 - **(c)** In computing years of service under subsection (a)(1) of this section for an individual who leaves a position in the competitive service to enter the armed forces and is reemployed in such a position within 120 days after separation under honorable conditions, the period from the date he leaves his position to the date he is reemployed is included.
 - **(d)** The Office of Personnel Management may prescribe regulations necessary for the administration of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 90–105, § 1(a)](https://www.govinfo.gov/link/plaw/90/public/105), Oct. 11, 1967, [81 Stat. 273](https://www.govinfo.gov/link/statute/81/273); amended [Pub. L. 91–375, § 6(c)(6)](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 776](https://www.govinfo.gov/link/statute/84/776); [Pub. L. 95–454, title IX, § 906(a)(2)](https://www.govinfo.gov/link/plaw/95/public/454), (3), Oct. 13, 1978, [92 Stat. 1224](https://www.govinfo.gov/link/statute/92/1224); [Pub. L. 101–509, title V, § 529 [title I, § 101(b)(9)(B)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1441.)*

@@ -3,9 +3,10 @@ title: "Section 2890 - Rights and responsibilities of tenants of housing units"
 usc_title: 10
 usc_section: "2890"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2890"
-generated_at: "2026-03-30T02:53:38.182Z"
+generated_at: "2026-11-23T21:25:32.699Z"
+status: "active"
 ---
 
 # § 2890. Rights and responsibilities of tenants of housing units
@@ -67,3 +68,47 @@ generated_at: "2026-03-30T02:53:38.182Z"
     - **(A)** as part of the settlement of litigation; or
     - **(B)** to avoid litigation if the tenant has retained legal counsel or has sought military legal assistance under section 1044 of this title .
   - **(3)** A party presenting a proposed nondisclosure agreement to a tenant shall notify such tenant that such tenant may, not later than 10 business days after such presentation, seek legal counsel with respect to the terms of and implications of entering into such agreement. A tenant may not be required to sign such agreement before the end of such 10-day period.
+
+Development of Tenant Bill of Rights and Tenant Responsibilities Documents
+
+Elements of Tenant Bill of Rights
+
+Elements of Tenant Responsibilities
+
+Submission to Congress and Public Availability
+
+Investigation of Reports of Reprisals
+
+Prohibition on Use of Nondisclosure Agreements
+
+In General
+
+Non-implementation Reporting Requirement
+
+Move-in and Move-out Checklist.—
+
+Checklist required
+
+Required move-in element
+
+Required move-out element
+
+Maintenance Checklist
+
+Consultation
+
+Deadline
+
+Development Required.—
+
+In general
+
+Initial guidance
+
+Consultation
+
+Military Department Plans
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–92, div. B, title XXX](https://www.govinfo.gov/link/plaw/116/public/92), §§ 3011(b), 3023, 3024(a), Dec. 20, 2019, [133 Stat. 1917](https://www.govinfo.gov/link/statute/133/1917), 1935; [Pub. L. 116–283, div. B, title XXVIII, § 2811(b)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4323](https://www.govinfo.gov/link/statute/134/4323); [Pub. L. 118–31, div. B, title XXVIII](https://www.govinfo.gov/link/plaw/118/public/31), §§ 2822(b), 2823, 2839(e), Dec. 22, 2023, [137 Stat. 751](https://www.govinfo.gov/link/statute/137/751), 752, 761.)*

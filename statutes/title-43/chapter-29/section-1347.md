@@ -3,9 +3,10 @@ title: "Section 1347 - Safety and health regulations"
 usc_title: 43
 usc_section: "1347"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1347"
-generated_at: "2026-03-30T02:55:57.471Z"
+generated_at: "2026-11-23T21:26:19.832Z"
+status: "active"
 ---
 
 # § 1347. Safety and health regulations
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:57.471Z"
 - **(f)**
   - **(1)** In administering the provisions of this section, the Secretary shall consult and coordinate with the heads of other appropriate Federal departments and agencies for purposes of assuring that, to the maximum extent practicable, inconsistent or duplicative requirements are not imposed.
   - **(2)** The Secretary shall make available to any interested person a compilation of all safety and other regulations which are prepared and promulgated by any Federal department or agency and applicable to activities on the outer Continental Shelf. Such compilation shall be revised and updated annually.
+
+## Source Credit
+
+*(Aug. 7, 1953, ch. 345, § 21, as added [Pub. L. 95–372, title II, § 208](https://www.govinfo.gov/link/plaw/95/public/372), Sept. 18, 1978, [92 Stat. 654](https://www.govinfo.gov/link/statute/92/654).)*

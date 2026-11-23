@@ -3,9 +3,10 @@ title: "Section 302 - State old-age plans"
 usc_title: 42
 usc_section: "302"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 302"
-generated_at: "2026-03-30T02:56:10.852Z"
+generated_at: "2026-11-23T21:26:30.969Z"
+status: "active"
 ---
 
 # § 302. State old-age plans
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:10.852Z"
   - **(2)** any residence requirement which (A) in the case of applicants for old-age assistance, excludes any resident of the State who has resided therein five years during the nine years immediately preceding the application for old-age assistance and has resided therein continuously for one year immediately preceding the application, and (B) in the case of applicants for medical assistance for the aged, excludes any individual who resides in the State; or
   - **(3)** any citizenship requirement which excludes any citizen of the United States.
 - **(c)** Nothing in this subchapter shall be construed to permit a State to have in effect with respect to any period more than one State plan approved under this subchapter.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title I, § 2, [49 Stat. 620](https://www.govinfo.gov/link/statute/49/620); Aug. 10, 1939, ch. 666, title I, § 101, [53 Stat. 1360](https://www.govinfo.gov/link/statute/53/1360); Aug. 28, 1950, ch. 809, title III, pt. 1, § 301(a), (b), pt. 6, § 361(c), (d), [64 Stat. 548](https://www.govinfo.gov/link/statute/64/548), 558; Aug. 1, 1956, ch. 836, title III, § 311(b), [70 Stat. 848](https://www.govinfo.gov/link/statute/70/848); [Pub. L. 85–840, title V, § 510](https://www.govinfo.gov/link/plaw/85/public/840), Aug. 28, 1958, [72 Stat. 1051](https://www.govinfo.gov/link/statute/72/1051); [Pub. L. 86–778, title VI, § 601(b)](https://www.govinfo.gov/link/plaw/86/public/778), Sept. 13, 1960, [74 Stat. 987](https://www.govinfo.gov/link/statute/74/987); [Pub. L. 87–543, title I](https://www.govinfo.gov/link/plaw/87/public/543), §§ 106(a)(1), 157, July 25, 1962, [76 Stat. 188](https://www.govinfo.gov/link/statute/76/188), 207; [Pub. L. 89–97, title II, § 221(a)(3)](https://www.govinfo.gov/link/plaw/89/public/97), title IV, § 403(a), July 30, 1965, [79 Stat. 357](https://www.govinfo.gov/link/statute/79/357), 418; [Pub. L. 90–248, title II](https://www.govinfo.gov/link/plaw/90/public/248), §§ 210(a)(1), 213(a)(1), Jan. 2, 1968, [81 Stat. 895](https://www.govinfo.gov/link/statute/81/895), 898; [Pub. L. 92–603, title IV](https://www.govinfo.gov/link/plaw/92/public/603), §§ 405(a), 406(a), 407(a), 410(a), 413(a), Oct. 30, 1972, [86 Stat. 1488](https://www.govinfo.gov/link/statute/86/1488), 1489, 1491, 1492; [Pub. L. 97–35, title XXI, § 2184(a)(3)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 816](https://www.govinfo.gov/link/statute/95/816); [Pub. L. 98–369, div. B, title VI, § 2651(e)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1149](https://www.govinfo.gov/link/statute/98/1149).)*

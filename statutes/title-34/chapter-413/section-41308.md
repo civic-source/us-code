@@ -3,9 +3,10 @@ title: "Section 41308 - State requirements for reporting missing children"
 usc_title: 34
 usc_section: "41308"
 chapter: 413
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 41308"
-generated_at: "2026-03-30T02:55:33.313Z"
+generated_at: "2026-11-23T21:26:09.847Z"
+status: "active"
 ---
 
 # § 41308. State requirements for reporting missing children
@@ -25,3 +26,7 @@ Each State reporting under the provisions of this section and section 41307 of t
     - **(C)** notify the National Center for Missing and Exploited Children of each report received relating to a child reported missing from a foster care family home or childcare institution;
     - **(D)** maintain close liaison with State and local child welfare systems and the National Center for Missing and Exploited Children for the exchange of information and technical assistance in the missing children cases; and
     - **(E)** grant permission to the National Crime Information Center Terminal Contractor for the State to update the missing person record in the National Crime Information Center computer networks with additional information learned during the investigation relating to the missing person.
+
+## Source Credit
+
+*([Pub. L. 101–647, title XXXVII, § 3702](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4967](https://www.govinfo.gov/link/statute/104/4967); [Pub. L. 109–248, title I, § 154(a)](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 611](https://www.govinfo.gov/link/statute/120/611); [Pub. L. 114–22, title I, § 116(b)](https://www.govinfo.gov/link/plaw/114/public/22), May 29, 2015, [129 Stat. 244](https://www.govinfo.gov/link/statute/129/244); [Pub. L. 117–327, § 2(c)(2)](https://www.govinfo.gov/link/plaw/117/public/327), Dec. 27, 2022, [136 Stat. 4455](https://www.govinfo.gov/link/statute/136/4455).)*

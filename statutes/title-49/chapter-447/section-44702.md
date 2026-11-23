@@ -3,9 +3,10 @@ title: "Section 44702 - Issuance of certificates"
 usc_title: 49
 usc_section: "44702"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44702"
-generated_at: "2026-03-30T02:56:19.382Z"
+generated_at: "2026-11-23T21:26:40.892Z"
+status: "active"
 ---
 
 # § 44702. Issuance of certificates
@@ -29,3 +30,79 @@ generated_at: "2026-03-30T02:56:19.382Z"
     - **(A)** With respect to a critical system design feature of a transport category airplane, the Administrator may not delegate any finding of compliance with applicable airworthiness standards or review of any system safety assessment required for the issuance of a certificate, including a type certificate, or amended or supplemental type certificate, under section 44704, until the Administrator has reviewed and validated any underlying assumptions related to human factors.
     - **(B)** The requirement under subparagraph (A) shall not apply if the Administrator determines the matter involved is a routine task.
     - **(C)** For purposes of subparagraph (A), the term critical system design feature includes any feature (including a novel or unusual design feature) for which the failure of such feature, either independently or in combination with other failures, could result in catastrophic or hazardous failure conditions, as those terms are defined by the Administrator.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44702(a) | 49 App.:1422(a) (1st–10th words). | Aug. 23, 1958 , Pub. L. 85–726 , §§ 314 (less (a) (last sentence related to fees)), 601(b) (1st sentence related to issuing certificates, 2d sentence), 602(a) (1st–8th words), 603(a)(1), (b), (c) (as § 603(a)(1), (b), (c) relate to issuing certificates), 604(a) (related to issuing certificates), 606 (last sentence), 607 (last sentence), 608, 72 Stat. 754 , 775, 776, 777, 778, 779. |
+|  | 49 App.:1423(a)(1), (b), (c) (as 49 App.:1423(a)(1), (b), (c) relate to issuing certificates). |  |
+|  | 49 App.:1424(a) (related to issuing certificates). |  |
+|  | 49 App.:1426 (last sentence). |  |
+|  | 49 App.:1427 (last sentence). |  |
+|  | 49 App.:1428. |  |
+|  | 49 App.:1432(a) (related to issuing certificates). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 612(a) (related to issuing certificates); added May 21, 1970 , Pub. L. 91–258, § 51(b)(1) , 84 Stat. 234 ; restated Sept. 3, 1982 , Pub. L. 97–248, § 525(a) , 96 Stat. 697 . |
+|  | 49 App.:1655(c)(1). | Oct. 15, 1966 , Pub. L. 89–670, § 6(c)(1) , 80 Stat. 938 ; Jan. 12, 1983 , Pub. L. 97–449, § 7(b) , 96 Stat. 2444 . |
+| 44702(b) | 49 App.:1421(b) (1st sentence related to issuing certificates). |  |
+|  | 49 App.:1655(c)(1). |  |
+| 44702(c) | 49 App.:1421(b) (2d sentence). |  |
+|  | 49 App.:1655(c)(1). |  |
+| 44702(d) | 49 App.:1355 (less (a) (last sentence related to fees)). |  |
+|  | 49 App.:1655(c)(1). |  |
+
+
+General Authority and Applications
+
+Considerations
+
+Prior Certification
+
+Delegation
+
+Historical and Revision Notes
+
+44702(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 754
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+May 21, 1970
+
+Pub. L. 91–258, § 51(b)(1)
+
+84 Stat. 234
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 525(a)
+
+96 Stat. 697
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 6(c)(1)
+
+80 Stat. 938
+
+Jan. 12, 1983
+
+Pub. L. 97–449, § 7(b)
+
+96 Stat. 2444
+
+44702(b)
+
+44702(c)
+
+44702(d)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1186](https://www.govinfo.gov/link/statute/108/1186); [Pub. L. 108–176, title II, § 227(a)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2531](https://www.govinfo.gov/link/statute/117/2531); [Pub. L. 116–260, div. V, title I, § 106](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2320](https://www.govinfo.gov/link/statute/134/2320).)*

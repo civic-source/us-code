@@ -3,9 +3,10 @@ title: "Section 1942 - Plans of insurance"
 usc_title: 38
 usc_section: "1942"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1942"
-generated_at: "2026-03-30T02:55:53.490Z"
+generated_at: "2026-11-23T21:26:16.676Z"
+status: "active"
 ---
 
 # § 1942. Plans of insurance
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:53.490Z"
   - **(4)** all cash, loan, paid-up, and extended term insurance values shall be as prescribed by the Secretary; and
   - **(5)** the insurance shall be subject to such other changes in terms and conditions as the Secretary determines to be reasonable and practicable.
 - **(c)** The Secretary shall, upon application made by the insured at the same time as the insured exchanges the term policy for an endowment policy issued under the provisions of subsection (b) of this section, and upon payment of such extra premium as the Secretary shall prescribe, include in such endowment policy a provision for waiver of premiums on the policy and on the provision during the total permanent disability of the insured, if such disability began after the date of such application and while the policy and the provision are in force by payment of premiums. The Secretary shall not grant waiver of any premium becoming due more than one year before receipt by the Secretary of claim for the same, except as provided in this subsection. Any premiums paid for months during which waiver is effective shall be refunded. The Secretary shall provide by regulations for examination or reexamination of an insured claiming waiver of premiums under this subsection, and may deny waiver for failure to cooperate. If it is found that an insured is no longer totally and permanently disabled, the waiver of premiums shall cease as of the date of such finding and the policy and provision may be continued by payment of premiums as provided therein. In any case in which the Secretary finds that the insured’s failure to make timely claim for waiver of premiums, or to submit satisfactory evidence of the existence or continuance of total permanent disability was due to circumstances beyond the insured’s control, the Secretary may grant waiver or continuance of waiver of premiums. If the insured dies without filing claim for waiver, the beneficiary, within one year after the death of the insured, or, if the beneficiary is insane or a minor, within one year after removal of such legal disability, may file claim for waiver with evidence of the insured’s right to waiver under this subsection. Policies containing a provision for waiver of premiums issued under this subsection may be separately classified for the purpose of dividend distribution from otherwise similar policies not containing such provision.
+
+## Source Credit
+
+*([Pub. L. 85–857](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1158](https://www.govinfo.gov/link/statute/72/1158), § 742; [Pub. L. 87–549](https://www.govinfo.gov/link/plaw/87/public/549), July 25, 1962, [76 Stat. 219](https://www.govinfo.gov/link/statute/76/219); [Pub. L. 99–576, title VII, § 701(29)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3292](https://www.govinfo.gov/link/statute/100/3292); renumbered § 1942 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(a)(2)(C)(iii), (b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406](https://www.govinfo.gov/link/statute/105/404).)*

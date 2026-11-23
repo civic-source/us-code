@@ -3,9 +3,10 @@ title: "Section 6998 - Director review of determinations of hearing officers"
 usc_title: 7
 usc_section: "6998"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6998"
-generated_at: "2026-03-30T02:53:42.442Z"
+generated_at: "2026-11-23T21:25:28.410Z"
+status: "active"
 ---
 
 # § 6998. Director review of determinations of hearing officers
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.442Z"
 - **(c)** The determination of the hearing officer and the Director shall be based on information from the case record, laws applicable to the matter at issue, and applicable regulations published in the Federal Register and in effect on the date of the adverse decision or the date on which the acts that gave rise to the adverse decision occurred, whichever date is appropriate.
 - **(d)** Subject to regulations issued by the Secretary, the Director shall have the authority to grant equitable relief under this section in the same manner and to the same extent as such authority is provided to the Secretary under section 7996 of this title and other laws. Notwithstanding the administrative finality of a final determination of an appeal by the Division, the Secretary shall have the authority to grant equitable or other types of relief to the appellant after an administratively final determination is issued by the Division.
 - **(e)** A final determination issued by the Director shall be effective as of the date of filing of an application, the date of the transaction or event in question, or the date of the original adverse decision, whichever is applicable.
+
+## Source Credit
+
+*([Pub. L. 103–354, title II, § 278](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3232](https://www.govinfo.gov/link/statute/108/3232); [Pub. L. 107–171, title I, § 1613(j)(2)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 221](https://www.govinfo.gov/link/statute/116/221).)*

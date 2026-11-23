@@ -3,9 +3,10 @@ title: "Section 6233 - Interest and penalties"
 usc_title: 26
 usc_section: "6233"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6233"
-generated_at: "2026-03-30T02:55:27.847Z"
+generated_at: "2026-11-23T21:26:06.838Z"
+status: "active"
 ---
 
 # § 6233. Interest and penalties
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:27.847Z"
     - **(A)** by applying section 6651(a)(2) to such failure to pay, and
     - **(B)** by treating the imputed underpayment as an underpayment of tax for purposes of part II of subchapter A of chapter 68.
 - **(c)** For rules allowing deposits to suspend running of interest on potential underpayments, see section 6603.
+
+## Source Credit
+
+*(Added [Pub. L. 114–74, title XI, § 1101(c)(1)](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 633](https://www.govinfo.gov/link/statute/129/633); amended [Pub. L. 115–141, div. U, title II, § 206(i)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1180](https://www.govinfo.gov/link/statute/132/1180).)*

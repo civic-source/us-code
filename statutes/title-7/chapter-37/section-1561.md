@@ -3,9 +3,10 @@ title: "Section 1561 - Definition of terms"
 usc_title: 7
 usc_section: "1561"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1561"
-generated_at: "2026-03-30T02:53:42.327Z"
+generated_at: "2026-11-23T21:25:28.120Z"
+status: "active"
 ---
 
 # § 1561. Definition of terms
@@ -49,3 +50,15 @@ generated_at: "2026-03-30T02:53:42.327Z"
   - **(22)** The term “in bulk” refers to seed when loose either in vehicles of transportation or in storage, and not to seed in bags or other containers.
   - **(23)** The term “treated” means given an application of a substance or subjected to a process designed to reduce, control, or repel disease organisms, insects or other pests which attack seeds or seedlings growing therefrom.
   - **(24)** The term “seed certifying agency” means (A) an agency authorized under the laws of a State, Territory, or possession, to officially certify seed and which has standards and procedures approved by the Secretary (after due notice, hearings, and full consideration of the views of farmer users of certified seed and other interested parties) to assure the genetic purity and identity of the seed certified, or (B) an agency of a foreign country determined by the Secretary of Agriculture to adhere to procedures and standards for seed certification comparable to those adhered to generally by seed certifying agencies under (A).
+
+(a) The term “district court of the United States” means any court exercising the powers of a district court of the United States.
+
+(b) Omitted
+
+c
+
+c
+
+## Source Credit
+
+*(Aug. 9, 1939, ch. 615, title I, § 101, [53 Stat. 1275](https://www.govinfo.gov/link/statute/53/1275); June 25, 1948, ch. 646, § 1, [62 Stat. 870](https://www.govinfo.gov/link/statute/62/870); Aug. 1, 1956, ch. 852, § 1, [70 Stat. 908](https://www.govinfo.gov/link/statute/70/908); [Pub. L. 85–581](https://www.govinfo.gov/link/plaw/85/public/581), §§ 1–3, Aug. 1, 1958, [72 Stat. 476](https://www.govinfo.gov/link/statute/72/476); [Pub. L. 89–686](https://www.govinfo.gov/link/plaw/89/public/686), §§ 1–3, 19, Oct. 15, 1966, [80 Stat. 975](https://www.govinfo.gov/link/statute/80/975), 979; [Pub. L. 91–89, § 1](https://www.govinfo.gov/link/plaw/91/public/89), Oct. 17, 1969, [83 Stat. 134](https://www.govinfo.gov/link/statute/83/134); [Pub. L. 97–439, § 5(a)](https://www.govinfo.gov/link/plaw/97/public/439), Jan. 8, 1983, [96 Stat. 2288](https://www.govinfo.gov/link/statute/96/2288).)*

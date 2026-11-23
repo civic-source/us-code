@@ -3,12 +3,17 @@ title: "Section 31 - Summary trials"
 usc_title: 47
 usc_section: "31"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 31"
-generated_at: "2026-03-30T02:56:24.492Z"
+generated_at: "2026-11-23T21:26:35.925Z"
+status: "active"
 ---
 
 # § 31. Summary trials
 
 The provisions of sections 391–396 of title 33 shall extend to the trial of offenses against the provisions of sections 24 and 25 of this title.
 
+
+## Source Credit
+
+*(Feb. 29, 1888, ch. 17, § 11, [25 Stat. 42](https://www.govinfo.gov/link/statute/25/42).)*

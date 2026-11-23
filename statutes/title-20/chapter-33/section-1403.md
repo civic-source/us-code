@@ -3,9 +3,10 @@ title: "Section 1403 - Abrogation of State sovereign immunity"
 usc_title: 20
 usc_section: "1403"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1403"
-generated_at: "2026-03-30T02:54:48.159Z"
+generated_at: "2026-11-23T21:25:47.313Z"
+status: "active"
 ---
 
 # § 1403. Abrogation of State sovereign immunity
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:48.159Z"
 - **(a)** A State shall not be immune under the 11th amendment to the Constitution of the United States from suit in Federal court for a violation of this chapter.
 - **(b)** In a suit against a State for a violation of this chapter, remedies (including remedies both at law and in equity) are available for such a violation to the same extent as those remedies are available for such a violation in the suit against any public entity other than a State.
 - **(c)** Subsections (a) and (b) apply with respect to violations that occur in whole or part after October 30, 1990 .
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 604](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2659](https://www.govinfo.gov/link/statute/118/2659).)*

@@ -3,9 +3,10 @@ title: "Section 9546 - Ukranian energy security"
 usc_title: 22
 usc_section: "9546"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9546"
-generated_at: "2026-03-30T02:55:05.468Z"
+generated_at: "2026-11-23T21:25:58.778Z"
+status: "active"
 ---
 
 # § 9546. Ukranian energy security
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:55:05.468Z"
   - **(3)** Amounts in the Countering Russian Influence Fund pursuant to section 9543 of this title shall be used to provide technical advice to countries described in subsection (b)(1) of such section designed to enhance energy security and lessen dependence on energy from Russian Federation sources.
 - **(d)** There is authorized to be appropriated for the Department of State a total of $30,000,000 for fiscal years 2018 and 2019 to carry out the strategies set forth in subsection (b)(2) and other activities under this section related to the promotion of energy security in Ukraine.
 - **(e)** Nothing in this section shall be construed as affecting the responsibilities required and authorities provided under section 7 of the Ukraine Freedom Support Act of 2014 ( 22 U.S.C. 8926 ).
+
+## Source Credit
+
+*([Pub. L. 115–44, title II, § 257](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 931](https://www.govinfo.gov/link/statute/131/931); [Pub. L. 115–254, div. F, title VI, § 1470(t)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3519](https://www.govinfo.gov/link/statute/132/3519).)*

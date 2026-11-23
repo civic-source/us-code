@@ -3,9 +3,10 @@ title: "Section 6307e - Required disclosures for promoters"
 usc_title: 15
 usc_section: "6307e"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6307e"
-generated_at: "2026-03-30T02:54:08.210Z"
+generated_at: "2026-11-23T21:25:40.021Z"
+status: "active"
 ---
 
 # § 6307e. Required disclosures for promoters
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:08.210Z"
   - **(2)** all fees, charges, and expenses that will be assessed by or through the promoter on the boxer pertaining to the event, including any portion of the boxer’s purse that the promoter will receive, and training expenses; and
   - **(3)** any reduction in a boxer’s purse contrary to a previous agreement between the promoter and the boxer or a purse bid held for the event.
 - **(c)** A promoter shall make information required to be disclosed under this section available to the chief law enforcement officer of the State in which the match is to be held upon request of such officer.
+
+## Source Credit
+
+*([Pub. L. 104–272, § 13](https://www.govinfo.gov/link/plaw/104/public/272), as added [Pub. L. 106–210, § 4(2)](https://www.govinfo.gov/link/plaw/106/public/210), May 26, 2000, [114 Stat. 324](https://www.govinfo.gov/link/statute/114/324).)*

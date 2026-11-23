@@ -3,9 +3,10 @@ title: "Section 2506 - Payment of grants; investment of funds"
 usc_title: 25
 usc_section: "2506"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2506"
-generated_at: "2026-03-30T02:54:52.842Z"
+generated_at: "2026-11-23T21:25:54.672Z"
+status: "active"
 ---
 
 # § 2506. Payment of grants; investment of funds
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:52.842Z"
     - **(A)** invested by the Indian tribe or tribal organization only in obligations of the United States, or in obligations or securities that are guaranteed or insured by the United States, or mutual (or other) funds registered with the Securities and Exchange Commission and which only invest in obligations of the United States, or securities that are guaranteed or insured by the United States; or
     - **(B)** deposited only into accounts that are insure by and 1 1 So in original. Probably should be “insured by an”. agency or instrumentality of the United States, or are fully collateralized to ensure protection of the funds, even in the event of a bank failure.
 - **(c)** For the purposes of underrecovery and overrecovery determinations by any Federal agency for any other funds, from whatever source derived, funds received under this chapter shall not be taken into consideration.
+
+## Source Credit
+
+*([Pub. L. 100–297, title V, § 5207](https://www.govinfo.gov/link/plaw/100/public/297), as added [Pub. L. 107–110, title X, § 1043](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2074](https://www.govinfo.gov/link/statute/115/2074).)*

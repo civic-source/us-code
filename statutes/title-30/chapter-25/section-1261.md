@@ -3,9 +3,10 @@ title: "Section 1261 - Revision of permits"
 usc_title: 30
 usc_section: "1261"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1261"
-generated_at: "2026-03-30T02:55:29.400Z"
+generated_at: "2026-11-23T21:26:00.427Z"
+status: "active"
 ---
 
 # § 1261. Revision of permits
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:29.400Z"
   - **(3)** Any extensions to the area covered by the permit except incidental boundary revisions must be made by application for another permit.
 - **(b)** No transfer, assignment, or sale of the rights granted under any permit issued pursuant to this chapter shall be made without the written approval of the regulatory authority.
 - **(c)** The regulatory authority shall within a time limit prescribed in regulations promulgated by the regulatory authority, review outstanding permits and may require reasonable revision or modification of the permit provisions during the term of such permit: Provided , That such revision or modification shall be based upon a written finding and subject to notice and hearing requirements established by the State or Federal program.
+
+## Source Credit
+
+*([Pub. L. 95–87, title V, § 511](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 483](https://www.govinfo.gov/link/statute/91/483).)*

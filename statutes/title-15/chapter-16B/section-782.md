@@ -3,9 +3,10 @@ title: "Section 782 - Petrochemical report to Congress"
 usc_title: 15
 usc_section: "782"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 782"
-generated_at: "2026-03-30T02:54:08.122Z"
+generated_at: "2026-11-23T21:25:39.763Z"
+status: "active"
 ---
 
 # § 782. Petrochemical report to Congress
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.122Z"
   - **(4)** anticipated economic effects of current and expected 1975 levels of domestic supplies of petrochemicals upon domestic producers, converters, and fabricators of petrochemical raw materials and products; and
   - **(5)** exact nature, extent, and sources of data and other information available to the Federal Government regarding the matters set forth in paragraphs (1) through (4) of this subsection, including the exact nature, extent, and sources of such data and information utilized in connection with the report required by this subsection.
 - **(b)** As used in this section, the term “petrochemical” includes organic chemicals, cyclic intermediates, plastics and resins, synthetic fibers, elastomers, organic dyes, organic pigments, detergents, surface active agents, carbon black and ammonia.
+
+## Source Credit
+
+*([Pub. L. 93–275, § 23](https://www.govinfo.gov/link/plaw/93/public/275), May 7, 1974, [88 Stat. 113](https://www.govinfo.gov/link/statute/88/113); [Pub. L. 93–618, title I, § 171(b)](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 2009](https://www.govinfo.gov/link/statute/88/2009).)*

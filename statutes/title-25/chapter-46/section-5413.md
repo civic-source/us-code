@@ -3,9 +3,10 @@ title: "Section 5413 - Administrative services and support"
 usc_title: 25
 usc_section: "5413"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5413"
-generated_at: "2026-03-30T02:54:52.872Z"
+generated_at: "2026-11-23T21:25:54.735Z"
+status: "active"
 ---
 
 # § 5413. Administrative services and support
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:52.872Z"
 - **(c)** The Secretary may continue to provide facilities and necessary support services to the Foundation after the termination of the 5-year period specified in subsection (a) if the facilities and services are—
   - **(1)** available; and
   - **(2)** provided on reimbursable cost basis.
+
+## Source Credit
+
+*([Pub. L. 93–638, title VII, § 703](https://www.govinfo.gov/link/plaw/93/public/638), as added [Pub. L. 111–211, title II, § 231(c)](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2277](https://www.govinfo.gov/link/statute/124/2277).)*

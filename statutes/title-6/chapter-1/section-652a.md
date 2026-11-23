@@ -3,9 +3,10 @@ title: "Section 652a - Sector Risk Management Agencies"
 usc_title: 6
 usc_section: "652a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 652a"
-generated_at: "2026-03-30T02:53:09.474Z"
+generated_at: "2026-11-23T21:25:25.817Z"
+status: "active"
 ---
 
 # § 652a. Sector Risk Management Agencies
@@ -50,3 +51,21 @@ generated_at: "2026-03-30T02:53:09.474Z"
     - **(B)** have the meaning given such term in section 650 of this title .
   - **(4)**
 - **(d)** Not later than two years after January 1, 2021 and every four years thereafter for 12 years, the Comptroller General of the United States shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the effectiveness of Sector Risk Management Agencies in carrying out their responsibilities under section 665d of this title .
+
+(aa) evaluate the current framework for securing critical infrastructure referred to in subparagraph (A); and
+
+(bb) develop recommendations to— (AA) revise the current list of critical infrastructure sectors designated pursuant to Presidential Policy Directive 21, any successor or related document, or policy; or (BB) identify and designate any subsectors of such sectors;
+
+(aa) the current framework for securing critical infrastructure referred to in subparagraph (A);
+
+(bb) the current list of critical infrastructure sectors designated pursuant to Presidential Policy Directive 21, any successor or related document, or policy; or
+
+(cc) the identification and designation of any subsectors of such sectors; and
+
+(aa) recommendations to revise— (AA) the list of critical infrastructure sectors designated pursuant to Presidential Policy Directive 21, any successor or related document, or policy; or (BB) the designation of any subsectors of such sectors; and
+
+(bb) the recommendations of the Secretary.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. H, title XC, § 9002](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4768](https://www.govinfo.gov/link/statute/134/4768); [Pub. L. 117–263, div. G, title LXXI, § 7143(d)(5)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3663](https://www.govinfo.gov/link/statute/136/3663).)*

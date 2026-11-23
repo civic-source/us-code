@@ -3,9 +3,10 @@ title: "Section 1309 - Normally planted acreage and target prices"
 usc_title: 7
 usc_section: "1309"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1309"
-generated_at: "2026-03-30T02:53:42.302Z"
+generated_at: "2026-11-23T21:25:28.031Z"
+status: "active"
 ---
 
 # § 1309. Normally planted acreage and target prices
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.302Z"
 - **(c)** Notwithstanding any other provision of law, whenever marketing quotas are in effect for any of the 1987 through 1995 crops of wheat, the Secretary of Agriculture may require, as a condition of eligibility for loans, purchases, and payments on any commodity under the Agricultural Act of 1949 ( 7 U.S.C. 1421 et seq.), that the acreage normally planted to crops designated by the Secretary, adjusted as considered necessary by the Secretary to be fair and equitable among producers, shall be reduced by a quantity equal to—
   - **(1)** the acreage that the Secretary determines would normally be planted to wheat on a farm; minus
   - **(2)** the individual farm program acreage for the farm under section 107B(d)(3)(A) 1 1 See References in Text note below. of such Act.
+
+## Source Credit
+
+*([Pub. L. 95–113, title X, § 1001](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 950](https://www.govinfo.gov/link/statute/91/950); [Pub. L. 95–279, title I, § 101](https://www.govinfo.gov/link/plaw/95/public/279), May 15, 1978, [92 Stat. 240](https://www.govinfo.gov/link/statute/92/240); [Pub. L. 95–334, title V, § 501(a)](https://www.govinfo.gov/link/plaw/95/public/334), Aug. 4, 1978, [92 Stat. 434](https://www.govinfo.gov/link/statute/92/434); [Pub. L. 96–213, § 6](https://www.govinfo.gov/link/plaw/96/public/213), Mar. 18, 1980, [94 Stat. 120](https://www.govinfo.gov/link/statute/94/120); [Pub. L. 97–98, title XI, § 1106](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1265](https://www.govinfo.gov/link/statute/95/1265); [Pub. L. 99–198, title X, § 1014](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1456](https://www.govinfo.gov/link/statute/99/1456); [Pub. L. 101–624, title XI, § 1141](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3515](https://www.govinfo.gov/link/statute/104/3515).)*

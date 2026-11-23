@@ -3,9 +3,10 @@ title: "Section 119 - Increasing transparency by removing gag clauses on price a
 usc_title: 42
 usc_section: "119"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 119"
-generated_at: "2026-03-30T02:56:10.839Z"
+generated_at: "2026-11-23T21:26:30.918Z"
+status: "active"
 ---
 
 # § 300gg–119. Increasing transparency by removing gag clauses on price and quality information
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:10.839Z"
   - **(3)** Nothing in paragraph (1)(A) or (2)(A) prevents a health care provider, network or association of providers, or other service provider from placing reasonable restrictions on the public disclosure of the information described in such paragraphs (1) and (2).
   - **(4)** A group health plan or a health insurance issuer offering group or individual health insurance coverage shall annually submit to the Secretary an attestation that such plan or issuer of such coverage is in compliance with the requirements of this subsection.
   - **(5)** Nothing in this section shall be construed to modify or eliminate existing privacy protections and standards under State and Federal law. Nothing in this subsection shall be construed to otherwise limit access by a group health plan, plan sponsor, or health insurance issuer to data as permitted under the privacy regulations promulgated pursuant to section 264(c) of the Health Insurance Portability and Accountability Act of 1996, the amendments made by the Genetic Information Nondiscrimination Act of 2008, and the Americans with Disabilities Act of 1990 [ 42 U.S.C. 12101 et seq.].
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVII, § 2799A–9, as added [Pub. L. 116–260, div. BB, title II, § 201(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2890](https://www.govinfo.gov/link/statute/134/2890).)*

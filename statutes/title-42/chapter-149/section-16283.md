@@ -3,9 +3,10 @@ title: "Section 16283 - International nuclear energy"
 usc_title: 42
 usc_section: "16283"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16283"
-generated_at: "2026-03-30T02:56:11.478Z"
+generated_at: "2026-11-23T21:26:33.721Z"
+status: "active"
 ---
 
 # § 16283. International nuclear energy
@@ -115,7 +116,7 @@ generated_at: "2026-03-30T02:56:11.478Z"
 - **(f)**
   - **(1)** Not later than 2 years after December 18, 2025 , the Secretary of State, in coordination with the Secretary and the Secretary of Commerce, shall conduct bilateral and multilateral meetings with not fewer than 5 ally or partner nations, with the aim of enhancing nuclear energy cooperation among those ally or partner nations and the United States, for the purpose of developing collaborative relationships with respect to research, development, licensing, and deployment of advanced nuclear reactor technologies for civil nuclear energy.
   - **(2)** The meetings described in paragraph (1) shall include—
-    - **(A)** a focus on cooperation to demonstrate and deploy advanced nuclear reactors, with an emphasis on United States nuclear energy companies, during the 10-year period beginning on December 18, 2025 to provide options for addressing energy security and environmental impacts; and
+    - **(A)** a focus on cooperation to demonstrate and deploy advanced nuclear reactors, with an emphasis on United States nuclear energy companies, during the 10-year period beginning on December 18, 2025 , to provide options for addressing energy security and environmental impacts; and
     - **(B)** a focus on developing a memorandum of understanding or any other appropriate agreement between the United States and ally or partner nations with respect to—
       - **(i)** the demonstration and deployment of advanced nuclear reactors; and
       - **(ii)** the development of cooperative research facilities.
@@ -244,7 +245,7 @@ generated_at: "2026-03-30T02:56:11.478Z"
   - **(2)**
     - **(A)** Not later than 1 year after December 18, 2025 , the Secretary of State shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report that describes United States diplomatic engagement and negotiations for section 123 agreements.
     - **(B)** The report required by paragraph (1) 1 1 So in original. Probably should be “subparagraph (A)”. shall include—
-      - **(i)** an updated list of all countries the Secretary of State with which is pursuing or has pursued section 123 agreements during the 1-year period ending on the date of submission of the report; and
+      - **(i)** an updated list of all countries the Secretary of State with which 2 2 So in original. The words“with which” probably should precede “the Secretary of State”. is pursuing or has pursued section 123 agreements during the 1-year period ending on the date of submission of the report; and
       - **(ii)** an analysis of current trends of global competition in the civil nuclear sphere with the Russian Federation and the People’s Republic of China up and down the supply chain, including—
         - **(I)** the participation of those countries in global nuclear fuel markets; and
         - **(II)** trends in the participation of the People’s Republic of China in those markets.
@@ -270,3 +271,21 @@ generated_at: "2026-03-30T02:56:11.478Z"
   - **(1)** Except as expressly stated in this section, nothing in this section alters or otherwise affects the interpretation or implementation of section 123 of the Atomic Energy Act of 1954 ( 42 U.S.C. 2153 ) or any other provision of law, including the requirement that agreements pursuant to that section be submitted to Congress for consideration.
   - **(2)** Nothing in this section affects the authorities of the Nuclear Regulatory Commission.
 - **(q)** This section and the amendments made by this section shall cease to have effect on the date that is 20 years after December 18, 2025 .
+
+(aa) section 2371(a) of title 22 ;
+
+(bb) section 2780(d) of title 22 ;
+
+(cc) section 4813(c)(1)(A)(i) of title 50 ; or
+
+(dd) any other relevant provision of law.
+
+(aa) nuclear safety, security, safeguards, and sustainability;
+
+(bb) environmental safeguards; and
+
+(cc) local community engagement in areas in reasonable proximity to nuclear sites;
+
+## Source Credit
+
+*([Pub. L. 119–60, div. H, title LXXXIII, § 8366](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1889](https://www.govinfo.gov/link/statute/139/1889).)*

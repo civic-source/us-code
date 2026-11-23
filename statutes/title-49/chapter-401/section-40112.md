@@ -3,9 +3,10 @@ title: "Section 40112 - Multiyear procurement contracts for property"
 usc_title: 49
 usc_section: "40112"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 40112"
-generated_at: "2026-03-30T02:56:19.370Z"
+generated_at: "2026-11-23T21:26:40.837Z"
+status: "active"
 ---
 
 # § 40112. Multiyear procurement contracts for property
@@ -37,3 +38,87 @@ generated_at: "2026-03-30T02:56:19.370Z"
   - **(1)** an appropriation originally available for carrying out the contract;
   - **(2)** an appropriation currently available for procuring the type of property concerned and not otherwise obligated; or
   - **(3)** amounts appropriated for payments to end the contract.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40112(a) | 49 App.:1344(f)(1) (words before 4th comma), (6), (7) (1st sentence). | Aug. 23, 1958 , Pub. L. 85–726, § 303(f) , 72 Stat. 747 ; May 21, 1970 , Pub. L. 91–258, § 51(a)(1) , 84 Stat. 234 ; July 12, 1976 , Pub. L. 94–353, § 16 , 90 Stat. 882 ; Oct. 19, 1980 , Pub. L. 96–470, § 112(e) , 94 Stat. 2240 ; Jan. 12, 1983 , Pub. L. 97–449, § 7(b) , 96 Stat. 2444 ; restated Nov. 5, 1990 , Pub. L. 101–508, § 9118(a) , 104 Stat. 1388–367 . |
+| 40112(b) | 49 App.:1344(f)(1) (words after 4th comma). |  |
+| 40112(c) | 49 App.:1344(f)(2). |  |
+| 40112(d) (1)(A) | 49 App.:1344(f)(4) (words before 3d comma). |  |
+| 40112(d) (1)(B) | 49 App.:1344(f)(7) (last sentence words before “and (if”). |  |
+| 40112(d) (1)(C) | 49 App.:1344(f)(8). |  |
+| 40112(d)(2) | 49 App.:1344(f)(4) (words after 3d comma). |  |
+| 40112(e)(1) | 49 App.:1344(f)(7) (last sentence words after “of funds”). |  |
+| 40112(e)(2) | 49 App.:1344(f)(3). |  |
+| 40112(f) | 49 App.:1344(f)(5). |  |
+
+
+General Authority
+
+Required Findings
+
+Regulations
+
+Contract Provisions
+
+Cancellation Payment and Notice of Cancellation Ceiling
+
+Ending Contracts
+
+Historical and Revision Notes
+
+40112(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 303(f)
+
+72 Stat. 747
+
+May 21, 1970
+
+Pub. L. 91–258, § 51(a)(1)
+
+84 Stat. 234
+
+July 12, 1976
+
+Pub. L. 94–353, § 16
+
+90 Stat. 882
+
+Oct. 19, 1980
+
+Pub. L. 96–470, § 112(e)
+
+94 Stat. 2240
+
+Jan. 12, 1983
+
+Pub. L. 97–449, § 7(b)
+
+96 Stat. 2444
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 9118(a)
+
+104 Stat. 1388–367
+
+40112(b)
+
+40112(c)
+
+40112(d) (1)(C)
+
+40112(d)(2)
+
+40112(e)(1)
+
+40112(e)(2)
+
+40112(f)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1108](https://www.govinfo.gov/link/statute/108/1108); [Pub. L. 104–106, div. E, title LVI, § 5606](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 700](https://www.govinfo.gov/link/statute/110/700); [Pub. L. 104–287, § 5(9)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3389](https://www.govinfo.gov/link/statute/110/3389).)*

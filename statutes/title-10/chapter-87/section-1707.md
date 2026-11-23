@@ -3,9 +3,10 @@ title: "Section 1707 - Cadre of intellectual property experts"
 usc_title: 10
 usc_section: "1707"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1707"
-generated_at: "2026-03-30T02:53:38.135Z"
+generated_at: "2026-11-23T21:25:32.529Z"
+status: "active"
 ---
 
 # § 1707. Cadre of intellectual property experts
@@ -28,3 +29,21 @@ generated_at: "2026-03-30T02:53:38.135Z"
   - **(4)** The Under Secretary may enter into a contract with a private-sector entity for specialized expertise to support the cadre. Such entity may be considered a covered Government support contractor, as defined in section 3775(a) of this title .
   - **(5)** In establishing the cadre, the Under Secretary shall give preference to civilian employees of the Department of Defense, rather than members of the armed forces, to maintain continuity in the cadre.
   - **(6)** The Under Secretary is authorized to use amounts in the Defense Acquisition Workforce Development Fund for the purpose of recruitment, training, and retention of the cadre, including paying salaries of newly hired members of the cadre for up to three years.
+
+Cadre
+
+Leadership Structure
+
+Duties
+
+Administration.—
+
+Pilot Program
+
+Activities
+
+Report
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1877](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4291](https://www.govinfo.gov/link/statute/134/4291); [Pub. L. 119–60, div. A, title XVIII, § 1802(b)(1)(A)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1227](https://www.govinfo.gov/link/statute/139/1227).)*

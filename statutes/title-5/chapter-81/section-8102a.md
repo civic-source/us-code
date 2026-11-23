@@ -3,9 +3,10 @@ title: "Section 8102a - Death gratuity for injuries incurred in connection with 
 usc_title: 5
 usc_section: "8102a"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8102a"
-generated_at: "2026-03-30T02:52:56.040Z"
+generated_at: "2026-11-23T21:25:23.347Z"
+status: "active"
 ---
 
 # § 8102a. Death gratuity for injuries incurred in connection with employee’s service with an Armed Force
@@ -40,3 +41,17 @@ generated_at: "2026-03-30T02:52:56.040Z"
 - **(e)**
   - **(1)** The term “contingency operation” has the meaning given to that term in section 1482a(c) of title 10 , United States Code.
   - **(2)** The term “employee” has the meaning provided in section 8101 of this title , but also includes a nonappropriated fund instrumentality employee, as defined in section 1587(a)(1) of title 10 .
+
+Death Gratuity Authorized
+
+Retroactive Payment in Certain Cases
+
+Relationship to Other Benefits
+
+Eligible Survivors.—
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 110–181, div. A, title XI, § 1105(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 347](https://www.govinfo.gov/link/statute/122/347); amended [Pub. L. 112–81, div. A, title XI, § 1121(a)(1)](https://www.govinfo.gov/link/plaw/112/public/81), (b), Dec. 31, 2011, [125 Stat. 1616](https://www.govinfo.gov/link/statute/125/1616).)*

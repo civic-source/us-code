@@ -3,9 +3,10 @@ title: "Section 3759 - Presale reinstatement"
 usc_title: 12
 usc_section: "3759"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3759"
-generated_at: "2026-03-30T02:53:53.497Z"
+generated_at: "2026-11-23T21:25:37.150Z"
+status: "active"
 ---
 
 # § 3759. Presale reinstatement
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:53.497Z"
   - **(1)** In any case in which a foreclosure commenced under this chapter is canceled, the mortgage shall continue in effect as though acceleration had not occurred.
   - **(2)** Cancellation of a foreclosure sale under this chapter shall have no effect on the commencement of a subsequent foreclosure proceeding under this chapter.
 - **(d)** The foreclosure commissioner shall file a notice of cancellation in the same place and manner provided for filing the notice of default and foreclosure sale in section 3758 of this title .
+
+## Source Credit
+
+*([Pub. L. 103–327, title II](https://www.govinfo.gov/link/plaw/103/public/327), Sept. 28, 1994, [108 Stat. 2316](https://www.govinfo.gov/link/statute/108/2316).)*

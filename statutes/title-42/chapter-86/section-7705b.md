@@ -3,12 +3,17 @@ title: "Section 7705b - Seismic standards"
 usc_title: 42
 usc_section: "7705b"
 chapter: 86
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7705b"
-generated_at: "2026-03-30T02:56:11.330Z"
+generated_at: "2026-11-23T21:26:33.170Z"
+status: "active"
 ---
 
 # § 7705b. Seismic standards
 
 - **(a)** Not later than December 1, 2019 , the Director of the National Institute of Standards and Technology and the Administrator of the Federal Emergency Management Agency shall jointly convene a committee of experts from Federal agencies, nongovernmental organizations, private sector entities, disaster management professional associations, engineering professional associations, and professional construction and homebuilding industry associations, to assess and recommend options for improving the built environment and critical infrastructure to reflect performance goals stated in terms of post-earthquake reoccupancy and functional recovery time.
 - **(b)** Not later than June 30, 2020 , the committee convened under paragraph (1) shall submit to the Committee on Commerce, Science, and Transportation, the Committee on Energy and Natural Resources, and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Science, Space, and Technology, the Committee on Natural Resources, and the Committee on Homeland Security of the House of Representatives a report on recommended options for improving the built environment and critical infrastructure to reflect performance goals stated in terms of post-earthquake reoccupancy and functional recovery time.
+
+## Source Credit
+
+*([Pub. L. 95–124, § 8](https://www.govinfo.gov/link/plaw/95/public/124), as added [Pub. L. 101–614, § 8(a)](https://www.govinfo.gov/link/plaw/101/public/614), Nov. 16, 1990, [104 Stat. 3237](https://www.govinfo.gov/link/statute/104/3237); amended [Pub. L. 115–307, § 5](https://www.govinfo.gov/link/plaw/115/public/307), Dec. 11, 2018, [132 Stat. 4415](https://www.govinfo.gov/link/statute/132/4415).)*

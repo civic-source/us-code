@@ -3,9 +3,10 @@ title: "Section 3142 - Report by Secretary of Commerce"
 usc_title: 22
 usc_section: "3142"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3142"
-generated_at: "2026-03-30T02:55:05.390Z"
+generated_at: "2026-11-23T21:25:58.577Z"
+status: "active"
 ---
 
 # § 3142. Report by Secretary of Commerce
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.390Z"
 - **(c)**
   - **(1)** The analysis in each report prepared under subsection (a) shall, to the extent of available data, compare business enterprises controlled by foreign persons with other business enterprises in the United States with respect to employment, market share, value added, productivity, research and development, exports, imports, profitability, taxes paid, and investment incentives and services provided by State and local governments (including quasi-governmental entities).
   - **(2)** Each such analysis shall be done by significant industry sectors and geographical regions, except that information shall not be presented in a way in which any person, including any business enterprise or establishment, can be identified. The restriction contained in the preceding sentence on presentation of information does not apply to information that is obtained from foreign governments or agencies thereof and that has been published pursuant to the lawful disclosure of the information. To the extent that data are available, each such analysis shall include an analysis, together with current levels and trends, of the number and market share of business enterprises at least 10 percent of the voting securities or other evidences of ownership of which are owned or controlled by a foreign person, and of the number and market share of the establishments of such business enterprises, that are engaged substantially in the production or coproduction of any critical technologies identified in the most recent assessment prepared under section 4816 of title 10 or included in the most recent report submitted to the President under section 6683 1 of title 42.
+
+## Source Credit
+
+*([Pub. L. 101–533, § 3](https://www.govinfo.gov/link/plaw/101/public/533), Nov. 7, 1990, [104 Stat. 2344](https://www.govinfo.gov/link/statute/104/2344); [Pub. L. 102–484, div. A, title X, § 1054(f)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2503](https://www.govinfo.gov/link/statute/106/2503); [Pub. L. 103–160, div. A, title XI, § 1182(d)(2)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1773](https://www.govinfo.gov/link/statute/107/1773); [Pub. L. 105–261, div. A, title X, § 1069(d)(2)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2136](https://www.govinfo.gov/link/statute/112/2136); [Pub. L. 117–81, div. A, title XVII, § 1702](https://www.govinfo.gov/link/plaw/117/public/81) (l)(4), Dec. 27, 2021, [135 Stat. 2160](https://www.govinfo.gov/link/statute/135/2160).)*

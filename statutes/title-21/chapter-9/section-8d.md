@@ -3,9 +3,10 @@ title: "Section 8d - Notification, nondistribution, and recall of controlled sub
 usc_title: 21
 usc_section: "8d"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 8d"
-generated_at: "2026-03-30T02:54:54.257Z"
+generated_at: "2026-11-23T21:25:56.106Z"
+status: "active"
 ---
 
 # § 360bbb–8d. Notification, nondistribution, and recall of controlled substances
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:54.257Z"
 - **(d)** Nothing contained in this section shall be construed as limiting—
   - **(1)** the authority of the Secretary to issue an order to cease distribution of, or to recall, any drug under any other provision of this chapter or the Public Health Service Act [ 42 U.S.C. 201 et seq.]; or
   - **(2)** the ability of the Secretary to request any person to perform a voluntary activity related to any drug subject to this chapter or the Public Health Service Act.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 569D, as added [Pub. L. 115–271, title III, § 3012(b)](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 3935](https://www.govinfo.gov/link/statute/132/3935).)*

@@ -3,9 +3,10 @@ title: "Section 231u - Benefit preservation"
 usc_title: 45
 usc_section: "231u"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 231u"
-generated_at: "2026-03-30T02:55:56.548Z"
+generated_at: "2026-11-23T21:26:19.202Z"
+status: "active"
 ---
 
 # § 231u. Benefit preservation
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:56.548Z"
 - **(c)** Not later than 180 days after the submission of a written report under subsection (a) of this section which states the first fiscal year during which benefits under this subchapter must be reduced because insufficient funds would preclude payment of full benefits for every month of that year, the Board shall issue and publish in the Federal Register such regulations as may be necessary which shall be designed to—
   - **(1)** provide a constant level of benefits at the maximum level possible for every month of that fiscal year; and
   - **(2)** provide that no individual shall receive less during that fiscal year than the amount otherwise payable if the employee’s service as an employee after December 31, 1936 , had been covered under the Social Security Act [ 42 U.S.C. 301 et seq.], minus the amount of any reduction required under section 231b(m) or 231c(i) of this title.
+
+## Source Credit
+
+*(Aug. 29, 1935, ch. 812, § 22, as added [Pub. L. 97–35, title XI, § 1126(b)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 639](https://www.govinfo.gov/link/statute/95/639); amended [Pub. L. 98–76, title I, § 105](https://www.govinfo.gov/link/plaw/98/public/76), Aug. 12, 1983, [97 Stat. 416](https://www.govinfo.gov/link/statute/97/416); [Pub. L. 104–66, title II, § 2221(b)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 733](https://www.govinfo.gov/link/statute/109/733); [Pub. L. 107–90, title I, § 108(a)](https://www.govinfo.gov/link/plaw/107/public/90), Dec. 21, 2001, [115 Stat. 890](https://www.govinfo.gov/link/statute/115/890).)*

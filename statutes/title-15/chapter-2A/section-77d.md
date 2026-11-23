@@ -3,9 +3,10 @@ title: "Section 77d - Exempted transactions"
 usc_title: 15
 usc_section: "77d"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 77d"
-generated_at: "2026-03-30T02:54:08.031Z"
+generated_at: "2026-11-23T21:25:39.502Z"
+status: "active"
 ---
 
 # § 77d. Exempted transactions
@@ -72,3 +73,39 @@ generated_at: "2026-03-30T02:54:08.031Z"
     - **(B)** Such transaction shall be deemed not to be a distribution for purposes of section 77b(a)(11) of this title .
     - **(C)** Securities involved in such transaction shall be deemed to be restricted securities within the meaning of Rule 144 (17 CFR 230.144).
   - **(2)** The exemption provided by subsection (a)(7) shall not be the exclusive means for establishing an exemption from the registration requirements of section 77e of this title .
+
+Accredited investor requirement
+
+Prohibition on general solicitation or advertising
+
+Information requirement
+
+Issuers disqualified
+
+Bad actor prohibition
+
+Business requirement
+
+Underwriter prohibition
+
+Outstanding class requirement
+
+In general
+
+Rule of construction
+
+In general
+
+Inclusions
+
+“(aa) association with an entity regulated by such commission, authority, agency, or officer;
+
+“(bb) engaging in the business of securities, insurance, or banking; or
+
+“(cc) engaging in savings association or credit union activities; or
+
+“Not later than 1 year after the date of enactment of this Act [ July 21, 2010 ], the Commission shall issue rules for the disqualification of offerings and sales of securities made under section 230.506 of title 17, Code of Federal Regulations, that—
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title I, § 4, [48 Stat. 77](https://www.govinfo.gov/link/statute/48/77); June 6, 1934, ch. 404, title II, § 203, [48 Stat. 906](https://www.govinfo.gov/link/statute/48/906); Aug. 10, 1954, ch. 667, title I, § 6, [68 Stat. 684](https://www.govinfo.gov/link/statute/68/684); [Pub. L. 88–467, § 12](https://www.govinfo.gov/link/plaw/88/public/467), Aug. 20, 1964, [78 Stat. 580](https://www.govinfo.gov/link/statute/78/580); [Pub. L. 94–29, § 30](https://www.govinfo.gov/link/plaw/94/public/29), June 4, 1975, [89 Stat. 169](https://www.govinfo.gov/link/statute/89/169); [Pub. L. 96–477, title VI, § 602](https://www.govinfo.gov/link/plaw/96/public/477), Oct. 21, 1980, [94 Stat. 2294](https://www.govinfo.gov/link/statute/94/2294); [Pub. L. 111–203, title IX, § 944(a)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1897](https://www.govinfo.gov/link/statute/124/1897); [Pub. L. 112–106, title II, § 201(b)](https://www.govinfo.gov/link/plaw/112/public/106), (c), title III, § 302(a), title IV, § 401(c), Apr. 5, 2012, [126 Stat. 314](https://www.govinfo.gov/link/statute/126/314), 315, 325; [Pub. L. 114–94, div. G, title LXXVI, § 76001(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1787](https://www.govinfo.gov/link/statute/129/1787).)*

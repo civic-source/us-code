@@ -3,12 +3,17 @@ title: "Section 947 - Map; damages to settlers"
 usc_title: 43
 usc_section: "947"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 947"
-generated_at: "2026-03-30T02:55:57.466Z"
+generated_at: "2026-11-23T21:26:19.817Z"
+status: "active"
 ---
 
 # § 947. Map; damages to settlers
 
 Any canal or ditch company desiring to secure the benefits of sections 946 to 949 of this title shall, within twelve months after the location of ten miles of its canal, if the same be upon surveyed lands, and if upon unsurveyed lands, within twelve months after the survey thereof by the United States, file with the officer, as the Secretary of the Interior may designate, of the land office for the district where such land is located a map of its canal or ditch and reservoir; and upon the approval thereof by the Secretary of the Interior the same shall be noted upon the plats in said office, and thereafter all such lands over which such rights of way shall pass shall be disposed of subject to such right of way. Whenever any person or corporation, in the construction of any canal, ditch, or reservoir, injures or damages the possession of any settler on the public domain, the party committing such injury or damage shall be liable to the party injured for such injury or damage.
 
+
+## Source Credit
+
+*(Mar. 3, 1891, ch. 561, § 19, [26 Stat. 1102](https://www.govinfo.gov/link/statute/26/1102); 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, [60 Stat. 1100](https://www.govinfo.gov/link/statute/60/1100).)*

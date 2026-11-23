@@ -3,12 +3,17 @@ title: "Section 613 - Termination date; investigations and reports"
 usc_title: 7
 usc_section: "613"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 613"
-generated_at: "2026-03-30T02:53:42.292Z"
+generated_at: "2026-11-23T21:25:27.990Z"
+status: "active"
 ---
 
 # § 613. Termination date; investigations and reports
 
 This chapter shall cease to be in effect whenever the President finds and proclaims that the national economic emergency in relation to agriculture has been ended; and pending such time the President shall by proclamation terminate with respect to any basic agricultural commodity such provisions of this chapter as he finds are not requisite to carrying out the declared policy with respect to such commodity. In the case of sugar beets and sugarcane, the taxes provided by this chapter shall cease to be in effect, and the powers vested in the President or in the Secretary of Agriculture shall terminate on December 31, 1937 unless this chapter ceases to be in effect at an earlier date, as hereinabove provided. The Secretary of Agriculture shall make such investigations and reports thereon to the President as may be necessary to aid him in executing this section.
 
+
+## Source Credit
+
+*(May 12, 1933, ch. 25, title I, § 13, [48 Stat. 39](https://www.govinfo.gov/link/statute/48/39); May 9, 1934, ch. 263, § 15, [48 Stat. 677](https://www.govinfo.gov/link/statute/48/677); Aug. 24, 1935, ch. 641, § 20(a), [49 Stat. 768](https://www.govinfo.gov/link/statute/49/768).)*

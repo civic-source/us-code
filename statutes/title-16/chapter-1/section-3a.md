@@ -3,12 +3,17 @@ title: "Section 3a - Contracts to provide visitor reservation services"
 usc_title: 16
 usc_section: "3a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3a"
-generated_at: "2026-03-30T02:54:22.811Z"
+generated_at: "2026-11-23T21:25:51.559Z"
+status: "active"
 ---
 
 # § 460d–3a. Contracts to provide visitor reservation services
 
 The Secretary of the Army may, under such terms and conditions as the Secretary deems appropriate, contract with any public or private entity to provide visitor reservation services. Any such contract in effect on or after October 1, 2004 , may provide that the contractor shall be permitted to deduct a commission to be fixed by the Secretary from the amount charged the public for providing such services and to remit the net proceeds therefrom to the contracting agency.
 
+
+## Source Credit
+
+*([Pub. L. 110–161, div. C, title I, § 121](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 1946](https://www.govinfo.gov/link/statute/121/1946).)*

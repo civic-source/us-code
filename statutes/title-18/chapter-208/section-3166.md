@@ -3,9 +3,10 @@ title: "Section 3166 - District plans—contents"
 usc_title: 18
 usc_section: "3166"
 chapter: 208
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3166"
-generated_at: "2026-03-30T02:54:16.513Z"
+generated_at: "2026-11-23T21:25:44.184Z"
+status: "active"
 ---
 
 # § 3166. District plans—contents
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:16.513Z"
 - **(d)** Each plan shall further specify the rule changes, statutory amendments, and appropriations needed to effectuate further improvements in the administration of justice in the district which cannot be accomplished without such amendments or funds.
 - **(e)** Each plan shall include recommendations to the Administrative Office of the United States Courts for reporting forms, procedures, and time requirements. The Director of the Administrative Office of the United States Courts, with the approval of the Judicial Conference of the United States, shall prescribe such forms and procedures and time requirements consistent with section 3170 after consideration of the recommendations contained in the district plan and the need to reflect both unique local conditions and uniform national reporting standards.
 - **(f)** Each plan may be accompanied by guidelines promulgated by the judicial council of the circuit for use by all district courts within that circuit to implement and secure compliance with this chapter.
+
+## Source Credit
+
+*(Added [Pub. L. 93–619, title I, § 101](https://www.govinfo.gov/link/plaw/93/public/619), Jan. 3, 1975, [88 Stat. 2082](https://www.govinfo.gov/link/statute/88/2082); amended [Pub. L. 96–43, § 9(a)](https://www.govinfo.gov/link/plaw/96/public/43) –(c), Aug. 2, 1979, [93 Stat. 329](https://www.govinfo.gov/link/statute/93/329); [Pub. L. 101–647, title XXXV, § 3578](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4929](https://www.govinfo.gov/link/statute/104/4929).)*

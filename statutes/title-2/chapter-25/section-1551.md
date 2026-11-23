@@ -3,9 +3,10 @@ title: "Section 1551 - Baseline study of costs and benefits"
 usc_title: 2
 usc_section: "1551"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1551"
-generated_at: "2026-03-30T02:53:04.815Z"
+generated_at: "2026-11-23T21:25:21.234Z"
+status: "active"
 ---
 
 # § 1551. Baseline study of costs and benefits
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:04.815Z"
 - **(b)** The study required by this section shall consider—
   - **(1)** the feasibility of measuring indirect costs and benefits as well as direct costs and benefits of the Federal, State, local, and tribal relationship; and
   - **(2)** how to measure both the direct and indirect benefits of Federal financial assistance and tax benefits to State, local, and tribal governments.
+
+## Source Credit
+
+*([Pub. L. 104–4, title III, § 301](https://www.govinfo.gov/link/plaw/104/public/4), Mar. 22, 1995, [109 Stat. 67](https://www.govinfo.gov/link/statute/109/67).)*

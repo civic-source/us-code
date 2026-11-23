@@ -3,9 +3,10 @@ title: "Section 1384 - Sale of assets"
 usc_title: 29
 usc_section: "1384"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1384"
-generated_at: "2026-03-30T02:55:18.734Z"
+generated_at: "2026-11-23T21:26:02.298Z"
+status: "active"
 ---
 
 # § 1384. Sale of assets
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:18.734Z"
   - **(2)** shall require that adequate notice be given to interested persons, and
   - **(3)** shall afford interested persons an opportunity to present their views.
 - **(d)** For purposes of this section, the term “unrelated party” means a purchaser or seller who does not bear a relationship to the seller or purchaser, as the case may be, that is described in section 267(b) of title 26 , or that is described in regulations prescribed by the corporation applying principles similar to the principles of such section.
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4204](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 96–364, title I, § 104(2)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1220](https://www.govinfo.gov/link/statute/94/1220); amended [Pub. L. 101–239, title VII, § 7891(a)(1)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2445](https://www.govinfo.gov/link/statute/103/2445).)*

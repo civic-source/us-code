@@ -3,9 +3,10 @@ title: "Section 2467 - Enforcement of foreign judgment"
 usc_title: 28
 usc_section: "2467"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 2467"
-generated_at: "2026-03-30T02:55:30.149Z"
+generated_at: "2026-11-23T21:26:01.133Z"
+status: "active"
 ---
 
 # § 2467. Enforcement of foreign judgment
@@ -48,3 +49,51 @@ generated_at: "2026-03-30T02:55:30.149Z"
     - **(C)** No person may object to a restraining order under subparagraph (A) on any ground that is the subject of parallel litigation involving the same property that is pending in a foreign court.
 - **(e)** In entering orders to enforce the judgment, the court shall be bound by the findings of fact to the extent that they are stated in the foreign forfeiture or confiscation judgment.
 - **(f)** The rate of exchange in effect at the time the suit to enforce is filed by the foreign nation shall be used in calculating the amount stated in any forfeiture or confiscation judgment requiring the payment of a sum of money submitted for registration.
+
+Definitions
+
+Review by Attorney General.—
+
+In general
+
+Certification of request
+
+Jurisdiction and Venue.—
+
+In general
+
+Proceedings
+
+Entry and Enforcement of Judgment.—
+
+In general
+
+Process
+
+Preservation of property.—
+
+Restraining orders.—
+
+In general
+
+Procedures.—
+
+In general
+
+Application
+
+(aa) references in such section 983(j) to civil forfeiture or the filing of a complaint shall be deemed to refer to the applicable foreign criminal or forfeiture proceedings; and
+
+(bb) the reference in paragraph (1)(B)(i) of such section 983(j) to the United States shall be deemed to refer to the foreign nation.
+
+Evidence
+
+Limit on grounds for objection
+
+Finality of Foreign Findings
+
+Currency Conversion
+
+## Source Credit
+
+*(Added [Pub. L. 106–185, § 15(a)](https://www.govinfo.gov/link/plaw/106/public/185), Apr. 25, 2000, [114 Stat. 219](https://www.govinfo.gov/link/statute/114/219); amended [Pub. L. 107–56, title III, § 323](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 315](https://www.govinfo.gov/link/statute/115/315); [Pub. L. 111–342, § 2](https://www.govinfo.gov/link/plaw/111/public/342), Dec. 22, 2010, [124 Stat. 3607](https://www.govinfo.gov/link/statute/124/3607).)*

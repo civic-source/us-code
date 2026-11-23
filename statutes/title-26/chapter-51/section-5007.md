@@ -3,9 +3,10 @@ title: "Section 5007 - Collection of tax on distilled spirits"
 usc_title: 26
 usc_section: "5007"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5007"
-generated_at: "2026-03-30T02:55:27.817Z"
+generated_at: "2026-11-23T21:26:06.688Z"
+status: "active"
 ---
 
 # § 5007. Collection of tax on distilled spirits
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:27.817Z"
   - **(1)** For authority of the Secretary to make determinations and assessments of internal revenue taxes and penalties, see section 6201(a).
   - **(2)** For authority to assess tax on distilled spirits not bonded, see section 5006(c).
   - **(3)** For provisions relating to payment of tax, under certain conditions, on distilled spirits withdrawn free of tax, denatured distilled spirits, articles, and volatile fruit-flavor concentrates, see section 5001(a)(4), (5), and (6).
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1322](https://www.govinfo.gov/link/statute/72/1322); amended [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1905(b)(2)(A), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1822](https://www.govinfo.gov/link/statute/90/1822), 1834; [Pub. L. 96–39, title VIII, § 807(a)(5)](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 280](https://www.govinfo.gov/link/statute/93/280); [Pub. L. 103–465, title I, § 136(c)(3)](https://www.govinfo.gov/link/plaw/103/public/465), (4), Dec. 8, 1994, [108 Stat. 4841](https://www.govinfo.gov/link/statute/108/4841), 4842.)*

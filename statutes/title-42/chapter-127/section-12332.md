@@ -3,9 +3,10 @@ title: "Section 12332 - Definitions"
 usc_title: 42
 usc_section: "12332"
 chapter: 127
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12332"
-generated_at: "2026-03-30T02:56:11.412Z"
+generated_at: "2026-11-23T21:26:33.465Z"
+status: "active"
 ---
 
 # § 12332. Definitions
@@ -32,3 +33,7 @@ As used in this part:
     - **(G)** referral for substance abuse counseling and treatment referral; and
     - **(H)** referral for primary health and mental health services.
   - **(7)** The term “outreach services” means services provided to ensure (through home visits or other methods) that parents are aware of and able to participate in family resource and support program activities.
+
+## Source Credit
+
+*([Pub. L. 101–501, title IX, § 926](https://www.govinfo.gov/link/plaw/101/public/501), Nov. 3, 1990, [104 Stat. 1268](https://www.govinfo.gov/link/statute/104/1268).)*

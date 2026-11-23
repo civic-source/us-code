@@ -3,12 +3,17 @@ title: "Section 1966 - Emergency Credit Revolving Fund utilization"
 usc_title: 7
 usc_section: "1966"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1966"
-generated_at: "2026-03-30T02:53:42.350Z"
+generated_at: "2026-11-23T21:25:28.209Z"
+status: "active"
 ---
 
 # § 1966. Emergency Credit Revolving Fund utilization
 
 The Secretary is authorized to utilize the revolving fund created by section 1148a 1 1 See References in Text note below. of title 12 (hereinafter in this subchapter referred to as the “Emergency Credit Revolving Fund”) for carrying out the purposes of this subchapter.
 
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 326](https://www.govinfo.gov/link/plaw/87/public/128), Aug. 8, 1961, [75 Stat. 312](https://www.govinfo.gov/link/statute/75/312).)*

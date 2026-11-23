@@ -3,12 +3,17 @@ title: "Section 123c - Advancement of tribal funds to Indian tribes; miscellaneo
 usc_title: 25
 usc_section: "123c"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 123c"
-generated_at: "2026-03-30T02:54:52.798Z"
+generated_at: "2026-11-23T21:25:54.537Z"
+status: "active"
 ---
 
 # § 123c. Advancement of tribal funds to Indian tribes; miscellaneous authorized purposes
 
 On and after October 12, 1984 , tribal funds may be advanced to Indian tribes during each fiscal year for such purposes as may be designated by the governing body of the particular tribe involved and approved by the Secretary including: expenditures for the benefit of Indians and Indian tribes; care, tuition, and other assistance to Indian children attending public and private schools (which may be paid in advance or from date of admission); purchase of land and improvements on land, title to which shall be taken in the name of the United States in trust for the tribe for which purchased; lease of lands and water rights; compensation and expenses of attorneys and other persons employed by Indian tribes under approved contracts; pay, travel, and other expenses of tribal officers, councils, committees, and employees thereof, or other tribal organizations, including mileage for use of privately owned automobiles and per diem in lieu of subsistence at rates established administratively but not to exceed those applicable to civilian employees of the Government; and relief of Indians, including cash grants.
 
+
+## Source Credit
+
+*([Pub. L. 98–473, title I, § 101(c) [title I, § 100]](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 1837](https://www.govinfo.gov/link/statute/98/1837), 1849.)*

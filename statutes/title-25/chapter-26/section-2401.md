@@ -3,9 +3,10 @@ title: "Section 2401 - Congressional findings"
 usc_title: 25
 usc_section: "2401"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2401"
-generated_at: "2026-03-30T02:54:52.840Z"
+generated_at: "2026-11-23T21:25:54.667Z"
+status: "active"
 ---
 
 # § 2401. Congressional findings
@@ -24,3 +25,7 @@ The Congress finds and declares that—
   - **(10)** the Bureau of Indian Affairs, which has responsibility for programs in education, social services, law enforcement, and other areas, has assumed little responsibility for coordinating its various efforts to focus on the epidemic of alcohol and substance abuse among Indian people,
   - **(11)** this lack of emphasis and priority continues despite the fact that Bureau of Indian Affairs and Indian Health Service officials publicly acknowledge that alcohol and substance abuse among Indians is the most serious health and social problem facing the Indian people, and
   - **(12)** the Indian tribes have the primary responsibility for protecting and ensuring the well-being of their members and the resources made available under this chapter will assist Indian tribes in meeting that responsibility.
+
+## Source Credit
+
+*([Pub. L. 99–570, title IV, § 4202](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–137](https://www.govinfo.gov/link/statute/100/3207).)*

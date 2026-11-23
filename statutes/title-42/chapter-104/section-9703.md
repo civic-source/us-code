@@ -3,9 +3,10 @@ title: "Section 9703 - Research, development, and demonstration program; establi
 usc_title: 42
 usc_section: "9703"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9703"
-generated_at: "2026-03-30T02:56:11.365Z"
+generated_at: "2026-11-23T21:26:33.275Z"
+status: "active"
 ---
 
 # § 9703. Research, development, and demonstration program; establishment; purposes; implementation
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.365Z"
   - **(2)** shall, to the extent practical, coordinate his activities with such other Government agencies, foreign governments, and industry as he deems appropriate to utilize their expertise, to minimize duplication of effort, and to ensure that information useful for improved concepts applicable to nuclear powerplant safety can be applied in a timely manner. The Secretary may enter into agreements and memoranda of understanding to accomplish these ends, but no such agreement shall have the effect of delaying the development and implementation of programs authorized under this chapter;
   - **(3)** shall utilize, to the extent feasible, underutilized federally owned research reactors and facilities, along with the associated personnel, to maintain existing capabilities and to ensure that the research is generic in nature; and
   - **(4)** shall make such recommendations as are practical to minimize the complexity of nuclear powerplant systems, including secondary systems, and operations.
+
+## Source Credit
+
+*([Pub. L. 96–567, § 4](https://www.govinfo.gov/link/plaw/96/public/567), Dec. 22, 1980, [94 Stat. 3330](https://www.govinfo.gov/link/statute/94/3330).)*

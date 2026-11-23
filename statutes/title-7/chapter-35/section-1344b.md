@@ -3,9 +3,10 @@ title: "Section 1344b - Sale, lease, or transfer of cotton acreage allotments"
 usc_title: 7
 usc_section: "1344b"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1344b"
-generated_at: "2026-03-30T02:53:42.306Z"
+generated_at: "2026-11-23T21:25:28.042Z"
+status: "active"
 ---
 
 # § 1344b. Sale, lease, or transfer of cotton acreage allotments
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.306Z"
 - **(g)** If the sale or lease occurs during a period in which the farm is covered by a conservation reserve contract, cropland conversion agreement, cropland adjustment agreement, or other similar land utilization agreement, the rates of payment provided for in the contract or agreement of the farm from which the transfer is made shall be subject to an appropriate adjustment, but no adjustment shall be made in the contract or agreement of the farm to which the allotment is transferred.
 - **(h)** The Secretary shall by regulations authorize the exchange between farms in the same county, or between farms in adjoining counties within a State, of cotton acreage allotment for rice acreage allotment. Any such exchange shall be made on the basis of application filed with the county committee by the owners and operators of the farms, and the transfer of allotment between the farms shall include transfer of the related acreage history for the commodity. The exchange shall be acre for acre or on such other basis as the Secretary determines is fair and reasonable, taking into consideration the comparative productivity of the soil for the farms involved and other relevant factors. No farm from which the entire cotton or rice allotment has been transferred shall be eligible for an allotment of cotton or rice as a new farm within a period of five crop years after the date of such exchange.
 - **(i)** The provisions of this section relating to cotton shall apply only to upland cotton.
+
+## Source Credit
+
+*(Feb. 16, 1938, ch. 30, title III, § 344a, as added [Pub. L. 89–321, title IV, § 405](https://www.govinfo.gov/link/plaw/89/public/321), Nov. 3, 1965, [79 Stat. 1197](https://www.govinfo.gov/link/statute/79/1197); amended [Pub. L. 90–559, § 1(2)](https://www.govinfo.gov/link/plaw/90/public/559), Oct. 11, 1968, [82 Stat. 996](https://www.govinfo.gov/link/statute/82/996); [Pub. L. 91–524, title VI, § 601(3)(1)](https://www.govinfo.gov/link/plaw/91/public/524), Nov. 30, 1970, [84 Stat. 1372](https://www.govinfo.gov/link/statute/84/1372); [Pub. L. 93–86, § 1(19)(C)](https://www.govinfo.gov/link/plaw/93/public/86), (D), Aug. 10, 1973, [87 Stat. 233](https://www.govinfo.gov/link/statute/87/233).)*

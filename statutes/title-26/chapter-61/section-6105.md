@@ -3,9 +3,10 @@ title: "Section 6105 - Confidentiality of information arising under treaty oblig
 usc_title: 26
 usc_section: "6105"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6105"
-generated_at: "2026-03-30T02:55:27.841Z"
+generated_at: "2026-11-23T21:26:06.815Z"
+status: "active"
 ---
 
 # § 6105. Confidentiality of information arising under treaty obligations
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:27.841Z"
     - **(A)** any income tax or gift and estate tax convention, or
     - **(B)** any other convention or bilateral agreement (including multilateral conventions and agreements and any agreement with a possession of the United States) providing for the avoidance of double taxation, the prevention of fiscal evasion, nondiscrimination with respect to taxes, the exchange of tax relevant information with the United States, or mutual assistance in tax matters.
 - **(d)** For penalties for the unauthorized disclosure of tax convention information which is return or return information, see sections 7213, 7213A, and 7431.
+
+## Source Credit
+
+*(Added [Pub. L. 106–554, § 1(a)(7) [title III, § 304(b)(1)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–633; amended [Pub. L. 107–134, title II, § 201(c)(9)](https://www.govinfo.gov/link/plaw/107/public/134), Jan. 23, 2002, [115 Stat. 2444](https://www.govinfo.gov/link/statute/115/2444); [Pub. L. 107–147, title IV, § 417(18)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 56](https://www.govinfo.gov/link/statute/116/56).)*

@@ -3,9 +3,10 @@ title: "Section 10421 - Priority for Australia and the United Kingdom in foreign
 usc_title: 22
 usc_section: "10421"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10421"
-generated_at: "2026-03-30T02:55:05.477Z"
+generated_at: "2026-11-23T21:25:58.798Z"
+status: "active"
 ---
 
 # § 10421. Priority for Australia and the United Kingdom in foreign military sales and direct commercial sales
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.477Z"
     - **(B)** Pillar Two-related technologies, including hypersonic missiles, cyber capabilities, artificial intelligence, quantum technologies, undersea capabilities, and other advanced technologies.
   - **(3)** Review of a transfer under the policy established under paragraph (1) shall be subject to an expedited decision-making process.
 - **(c)** The Secretary of State and the Secretary of Defense shall jointly review and update interagency policies and implementation guidance related to requests for Foreign Military Sales and Direct Commercial Sales, including by incorporating the anticipatory release provisions of this section.
+
+## Source Credit
+
+*([Pub. L. 118–31, div. A, title XIII, § 1341](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 509](https://www.govinfo.gov/link/statute/137/509).)*

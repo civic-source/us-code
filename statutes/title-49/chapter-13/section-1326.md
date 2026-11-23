@@ -3,9 +3,10 @@ title: "Section 1326 - Authority of the Inspector General"
 usc_title: 49
 usc_section: "1326"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 1326"
-generated_at: "2026-03-30T02:56:19.305Z"
+generated_at: "2026-11-23T21:26:40.613Z"
+status: "active"
 ---
 
 # § 1326. Authority of the Inspector General
@@ -19,3 +20,19 @@ generated_at: "2026-03-30T02:56:19.305Z"
 - **(d)**
   - **(1)** There are authorized to be appropriated to the Secretary of Transportation for use by the Inspector General of the Department of Transportation such sums as may be necessary to cover expenses associated with activities pursuant to the authority exercised under this section.
   - **(2)** In the absence of an appropriation under this subsection for an expense referred to in paragraph (1), the Inspector General and the Board shall have a reimbursement agreement to cover such expense.
+
+In General
+
+Duties
+
+Access to Information
+
+Authorization of Appropriations.—
+
+Funding
+
+Reimbursable agreement
+
+## Source Credit
+
+*(Added [Pub. L. 114–110, § 9](https://www.govinfo.gov/link/plaw/114/public/110), Dec. 18, 2015, [129 Stat. 2232](https://www.govinfo.gov/link/statute/129/2232); amended [Pub. L. 117–286, § 4(b)(97)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4353](https://www.govinfo.gov/link/statute/136/4353).)*

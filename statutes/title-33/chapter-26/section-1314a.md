@@ -3,9 +3,10 @@ title: "Section 1314a - Wastewater technology clearinghouse"
 usc_title: 33
 usc_section: "1314a"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1314a"
-generated_at: "2026-03-30T02:55:41.092Z"
+generated_at: "2026-11-23T21:26:11.380Z"
+status: "active"
 ---
 
 # § 1314a. Wastewater technology clearinghouse
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:41.092Z"
   - **(1)** the type and amount of information provided under subsection (a) to units of local government and nonprofit organizations regarding alternative wastewater treatment and recycling technologies;
   - **(2)** the States and regions that have made greatest use of alternative wastewater treatment and recycling technologies; and
   - **(3)** the actions taken by the Administrator to assist States in the deployment of alternative wastewater treatment and recycling technologies, including onsite and decentralized systems.
+
+## Source Credit
+
+*([Pub. L. 115–270, title IV, § 4102](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3871](https://www.govinfo.gov/link/statute/132/3871).)*

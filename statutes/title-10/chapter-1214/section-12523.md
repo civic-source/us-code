@@ -3,9 +3,10 @@ title: "Section 12523 - Risk insured"
 usc_title: 10
 usc_section: "12523"
 chapter: 1214
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 12523"
-generated_at: "2026-03-30T02:53:38.270Z"
+generated_at: "2026-11-23T21:25:33.047Z"
+status: "active"
 ---
 
 # § 12523. Risk insured
@@ -14,3 +15,11 @@ generated_at: "2026-03-30T02:53:38.270Z"
 - **(b)**
   - **(1)** An insured member ordered into covered service shall be entitled to payment of a benefit for each month (and fraction thereof) of covered service that exceeds 30 days of covered service, except that no member may be paid under the insurance program for more than 12 months of covered service served during any period of 18 consecutive months.
   - **(2)** Payment shall be based solely on the insured status of a member and on the period of covered service served by the member. Proof of loss of income or of expenses incurred as a result of covered service may not be required.
+
+In General
+
+Entitlement to Benefits
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title V, § 512(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 300](https://www.govinfo.gov/link/statute/110/300).)*

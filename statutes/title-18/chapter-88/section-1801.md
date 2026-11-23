@@ -3,9 +3,10 @@ title: "Section 1801 - Video voyeurism"
 usc_title: 18
 usc_section: "1801"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1801"
-generated_at: "2026-03-30T02:54:16.491Z"
+generated_at: "2026-11-23T21:25:44.095Z"
+status: "active"
 ---
 
 # § 1801. Video voyeurism
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:16.491Z"
     - **(A)** circumstances in which a reasonable person would believe that he or she could disrobe in privacy, without being concerned that an image of a private area of the individual was being captured; or
     - **(B)** circumstances in which a reasonable person would believe that a private area of the individual would not be visible to the public, regardless of whether that person is in a public or private place.
 - **(c)** This section does not prohibit any lawful law enforcement, correctional, or intelligence activity.
+
+## Source Credit
+
+*(Added [Pub. L. 108–495, § 2(a)](https://www.govinfo.gov/link/plaw/108/public/495), Dec. 23, 2004, [118 Stat. 3999](https://www.govinfo.gov/link/statute/118/3999).)*

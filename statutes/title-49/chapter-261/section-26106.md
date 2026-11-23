@@ -3,9 +3,10 @@ title: "Section 26106 - High-speed rail corridor development"
 usc_title: 49
 usc_section: "26106"
 chapter: 261
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 26106"
-generated_at: "2026-03-30T02:56:19.350Z"
+generated_at: "2026-11-23T21:26:40.751Z"
+status: "active"
 ---
 
 # § 26106. High-speed rail corridor development
@@ -69,3 +70,95 @@ generated_at: "2026-03-30T02:56:19.350Z"
   - **(3)** $350,000,000 for fiscal year 2011;
   - **(4)** $350,000,000 for fiscal year 2012; and
   - **(5)** $350,000,000 for fiscal year 2013.
+
+In General
+
+Definitions
+
+Applicant
+
+Corridor
+
+Capital project
+
+High-speed rail
+
+Intercity passenger rail service
+
+State
+
+General Authority
+
+Applications
+
+Competitive Grant Selection and Criteria for Grants.—
+
+In general
+
+Grant criteria
+
+Grant conditions
+
+State rail plans
+
+Federal Share
+
+Issuance of Regulations
+
+Authorization of Appropriations
+
+Solicitation of Proposals.—
+
+In general
+
+Submission
+
+Performance standard
+
+Contents
+
+Determination and Establishment of Commissions
+
+Commissions.—
+
+Members
+
+Appointment and selection
+
+Chairperson and vice-chairperson selection
+
+Quorum and vacancy.—
+
+Quorum
+
+Vacancy
+
+Application of law
+
+Commission Consideration.—
+
+In general
+
+Verbal presentation
+
+Authorization of appropriations
+
+Selection by Secretary.—
+
+Preliminary Engineering
+
+No Actions Without Additional Authority
+
+Definitions
+
+Intercity passenger rail
+
+State
+
+Northeast corridor
+
+High-speed rail corridor
+
+## Source Credit
+
+*(Added [Pub. L. 110–432, div. B, title V, § 501(d)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4960](https://www.govinfo.gov/link/statute/122/4960); amended [Pub. L. 115–420, § 7(b)(3)(A)(ii)](https://www.govinfo.gov/link/plaw/115/public/420), Jan. 3, 2019, [132 Stat. 5447](https://www.govinfo.gov/link/statute/132/5447).)*

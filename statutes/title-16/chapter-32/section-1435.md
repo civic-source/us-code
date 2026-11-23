@@ -3,9 +3,10 @@ title: "Section 1435 - Application of regulations; international negotiations an
 usc_title: 16
 usc_section: "1435"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1435"
-generated_at: "2026-03-30T02:54:22.968Z"
+generated_at: "2026-11-23T21:25:51.881Z"
+status: "active"
 ---
 
 # § 1435. Application of regulations; international negotiations and cooperation
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:22.968Z"
   - **(3)** an agreement between the United States and the flag state of a foreign vessel, if the person is a crewmember of the vessel.
 - **(b)** The Secretary of State, in consultation with the Secretary, shall take appropriate action to enter into negotiations with other governments to make necessary arrangements for the protection of any national marine sanctuary and to promote the purposes for which the sanctuary is established.
 - **(c)** The Secretary, in consultation with the Secretary of State and other appropriate Federal agencies, shall cooperate with other governments and international organizations in furtherance of the purposes and policies of this chapter and consistent with applicable regional and mutilateral 1 1 So in original. Probably should be “multilateral”. arrangements for the protection and management of special marine areas.
+
+## Source Credit
+
+*([Pub. L. 92–532, title III, § 305](https://www.govinfo.gov/link/plaw/92/public/532), as added [Pub. L. 98–498, title I, § 102](https://www.govinfo.gov/link/plaw/98/public/498), Oct. 19, 1984, [98 Stat. 2302](https://www.govinfo.gov/link/statute/98/2302); amended [Pub. L. 102–587, title II, § 2105](https://www.govinfo.gov/link/plaw/102/public/587), Nov. 4, 1992, [106 Stat. 5043](https://www.govinfo.gov/link/statute/106/5043).)*

@@ -3,9 +3,10 @@ title: "Section 6322 - Coordination requirements"
 usc_title: 20
 usc_section: "6322"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6322"
-generated_at: "2026-03-30T02:54:48.196Z"
+generated_at: "2026-11-23T21:25:47.501Z"
+status: "active"
 ---
 
 # § 6322. Coordination requirements
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:48.196Z"
   - **(4)** organizing and participating in joint transition-related training of school staff, Head Start program staff, and, where appropriate, other early childhood education program staff; and
   - **(5)** linking the educational services provided by such local educational agency with the services provided by local Head Start agencies.
 - **(c)** The Secretary shall work with the Secretary of Health and Human Services to coordinate regulations promulgated under this part with regulations promulgated under the Head Start Act [ 42 U.S.C. 9831 et seq.].
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1119](https://www.govinfo.gov/link/plaw/89/public/10), formerly § 1120B, as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1512](https://www.govinfo.gov/link/statute/115/1512); renumbered § 1119 and amended [Pub. L. 114–95, title I](https://www.govinfo.gov/link/plaw/114/public/95), §§ 1000(5), 1013, Dec. 10, 2015, [129 Stat. 1814](https://www.govinfo.gov/link/statute/129/1814), 1875.)*

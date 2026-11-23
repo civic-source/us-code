@@ -3,9 +3,10 @@ title: "Section 7204 - Termination of sanctions"
 usc_title: 22
 usc_section: "7204"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7204"
-generated_at: "2026-03-30T02:55:05.439Z"
+generated_at: "2026-11-23T21:25:58.713Z"
+status: "active"
 ---
 
 # § 7204. Termination of sanctions
@@ -16,3 +17,7 @@ Any unilateral agricultural sanction or unilateral medical sanction that is impo
     - **(A)** the recommendation of the President for the continuation of the sanction for an additional period of not to exceed 2 years; and
     - **(B)** the request of the President for approval by Congress of the recommendation; and
   - **(2)** there is enacted into law a joint resolution stating the approval of Congress for the report submitted under paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 106–387, § 1(a) [title IX, § 905]](https://www.govinfo.gov/link/plaw/106/public/387), Oct. 28, 2000, [114 Stat. 1549](https://www.govinfo.gov/link/statute/114/1549), 1549A–69.)*

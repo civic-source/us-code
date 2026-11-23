@@ -3,9 +3,10 @@ title: "Section 16238 - Solar energy research and development"
 usc_title: 42
 usc_section: "16238"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16238"
-generated_at: "2026-03-30T02:56:11.475Z"
+generated_at: "2026-11-23T21:26:33.710Z"
+status: "active"
 ---
 
 # § 16238. Solar energy research and development
@@ -162,3 +163,19 @@ generated_at: "2026-03-30T02:56:11.475Z"
       - **(ii)** studies conducted by the National Laboratories; and
       - **(iii)** the multiyear program planning required under section 16358 of this title .
   - **(7)** There is authorized to be appropriated to the Secretary to carry out the program $300,000,000 for each of fiscal years 2021 through 2025.
+
+(aa) other generation sources;
+
+(bb) demand response technologies; and
+
+(cc) energy storage technologies; and
+
+(aa) new and advanced materials, such as cells made with new, high efficiency materials;
+
+(bb) solar module equipment and enabling technologies, including smart inverters, sensors, and tracking equipment; and
+
+(cc) innovative solar module designs and applications, including those that can directly integrate with new and existing buildings and other infrastructure; and
+
+## Source Credit
+
+*([Pub. L. 116–260, div. Z, title III, § 3004](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2504](https://www.govinfo.gov/link/statute/134/2504); [Pub. L. 117–58, div. D, title III, § 40341](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1030](https://www.govinfo.gov/link/statute/135/1030).)*

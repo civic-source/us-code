@@ -3,9 +3,10 @@ title: "Section 1448 - Application of Plan"
 usc_title: 10
 usc_section: "1448"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1448"
-generated_at: "2026-03-30T02:53:38.121Z"
+generated_at: "2026-11-23T21:25:32.480Z"
+status: "active"
 ---
 
 # § 1448. Application of Plan
@@ -152,3 +153,337 @@ generated_at: "2026-03-30T02:53:38.121Z"
     - **(B)** the amount of such person’s retired pay actually withheld.
   - **(4)** An election under paragraph (1) shall be made in such manner as the Secretary shall prescribe and shall become effective upon receipt of the payment required by paragraph (2).
   - **(5)** A payment received under this subsection by the Secretary of Defense shall be deposited into the Department of Defense Military Retirement Fund. Any other payment received under this subsection shall be deposited in the Treasury as miscellaneous receipts.
+
+General Rules for Participation in the Plan.—
+
+Name of plan; eligible participants
+
+Participants in the plan
+
+Standard annuity participants
+
+Reserve-component annuity participants
+
+Elections.—
+
+Spousal consent for certain elections respecting standard annuity
+
+Spousal consent for certain elections respecting reserve-component annuity
+
+Exception when spouse unavailable
+
+Construction with former spouse election provisions
+
+Notice to spouse of election to provide former spouse annuity
+
+Irrevocability of elections.—
+
+Standard annuity
+
+Reserve-component annuity
+
+Participation by person marrying after retirement, etc.—
+
+Election to participate in plan
+
+Manner and time of election
+
+Limitation on revocation of election
+
+Effective date of election
+
+Designation if rcsbp election
+
+Election out of plan by person with spouse coverage who remarries.—
+
+General rule
+
+Effect of election on retired pay
+
+Terms and conditions of election
+
+Notice to spouse
+
+Construction with former spouse election provisions
+
+Insurable Interest and Former Spouse Coverage.—
+
+Coverage for person with insurable interest.—
+
+General rule
+
+Termination of coverage
+
+Form for discontinuation
+
+Withdrawal of request for discontinuation
+
+Consequences of discontinuation
+
+Vitiation of election by disability retiree who dies of disability-related cause
+
+Election of new beneficiary upon death of previous beneficiary.—
+
+Authority for election
+
+Procedures
+
+Vitiation of election by participant who dies within two years of election
+
+Former spouse coverage upon becoming a participant in the plan.—
+
+General rule
+
+Effect of former spouse election on spouse or dependent child
+
+Designation if more than one former spouse
+
+Designation if rcsbp election
+
+Former spouse coverage by persons already participating in plan.—
+
+Election of coverage.—
+
+Authority for election
+
+Termination of previous coverage
+
+Manner and time of election
+
+Limitation on election
+
+Irrevocability, etc
+
+Notice to spouse
+
+Effective date of election
+
+Former spouse and child coverage
+
+Disclosure of whether election of former spouse coverage is required
+
+Special needs trusts for sole benefit of certain dependent children
+
+Effect of death of former spouse beneficiary.—
+
+Termination of participation in plan
+
+Authority for election of new spouse beneficiary
+
+Married on the date of death of former spouse
+
+Marriage after death of former spouse beneficiary
+
+Effective date of election
+
+Level of coverage
+
+Procedures
+
+Irrevocability
+
+Persons on Temporary Disability Retired List
+
+Coverage for Survivors of Members Who Die on Active Duty.—
+
+Surviving spouse annuity
+
+Dependent children
+
+Mandatory former spouse annuity
+
+Priority
+
+Computation
+
+Deemed election.—
+
+Annuity for dependent
+
+Computation of annuity
+
+Designation for Commencement of Reserve-Component Annuity
+
+Coverage of Survivors of Persons Dying When or Before Eligible To Elect Reserve-Component Annuity.—
+
+Surviving spouse annuity
+
+Dependent children annuity.—
+
+Annuity when no eligible surviving spouse
+
+Optional annuity when there is an eligible surviving spouse
+
+Mandatory former spouse annuity
+
+Computation
+
+Deemed election to provide an annuity for dependent
+
+Election To Increase Coverage Upon Remarriage.—
+
+Election
+
+Payment required
+
+Amount to be paid
+
+Manner of making election
+
+Disposition of payments
+
+Optional annuity when there is an eligible surviving spouse
+
+Surviving spouse annuity
+
+effective date
+
+Irrevocability
+
+Payment
+
+Elections
+
+Elections by Persons Not Currently Participating in Survivor Benefit Plan.—
+
+Election of SBP coverage
+
+Eligible retired or former members
+
+Status under SBP of persons making elections.—
+
+Standard annuity
+
+Reserve-component annuity
+
+Premiums for open season.—
+
+Premiums to be charged
+
+Amount of premiums
+
+Premiums to be credited to retirement fund
+
+Elections by Persons Currently Participating in Survivor Benefit Plan.—
+
+Election of to discontinue SBP participation
+
+Consent of beneficiaries.—
+
+In general
+
+Exception when beneficiary unavailable
+
+Treatment of premiums.—
+
+Discontinuation of reductions in pay
+
+Treatment of previous reductions
+
+Manner of Making Elections.—
+
+In general
+
+Conditions
+
+Election must be voluntary
+
+Designation with respect to reserve-component annuity
+
+Effective Date for Elections
+
+Open Season Described
+
+Applicability of Certain Provisions of Law
+
+Definitions
+
+In general
+
+Effective date of election if married at least a year at death former spouse
+
+Other effective date
+
+Responsibility for premiums
+
+Transition period
+
+Covered insurable-interest elections
+
+Survivor benefit plan
+
+Persons Not Currently Participating in Survivor Benefit Plan.—
+
+Election of sbp coverage
+
+Election of supplemental annuity coverage
+
+Eligible retired or former member
+
+Status under sbp of persons making elections.—
+
+Standard annuity
+
+Reserve-component annuity
+
+Election To Increase Coverage Under
+
+Election for Current SBP Participants To Participate in Supplemental SBP.—
+
+Election
+
+Persons eligible
+
+Limitation on eligibility for certain sbp participants not affected by two-tier annuity computation
+
+Manner of Making Elections
+
+Effective Date for Elections
+
+Open Enrollment Period
+
+Effect of Death of Person Making Election Within Two Years of Making Election
+
+Applicability of Certain Provisions of Law
+
+Premium for Open Enrollment Election.—
+
+Premiums to be charged
+
+Premiums to be credited to retirement fund
+
+Definitions
+
+Survivor Annuity
+
+Amount of Annuity
+
+Application Required
+
+Definitions
+
+Prospective Applicability
+
+“For the purpose of this title [see Short Title of 1989 Amendment note set out under section 1447 of this title ]:
+
+Annuity
+
+Amount of Annuity
+
+Cost-of-Living Increases
+
+Relationship to Other Programs
+
+Definitions
+
+Effective Date
+
+Authority To Withdraw
+
+Applicable Provisions
+
+Treatment of Prior Contributions
+
+## Source Credit
+
+*(Added [Pub. L. 92–425, § 1(3)](https://www.govinfo.gov/link/plaw/92/public/425), Sept. 21, 1972, [86 Stat. 707](https://www.govinfo.gov/link/statute/86/707); amended [Pub. L. 94–496, § 1(2)](https://www.govinfo.gov/link/plaw/94/public/496), Oct. 14, 1976, [90 Stat. 2375](https://www.govinfo.gov/link/statute/90/2375); [Pub. L. 95–397, title II, § 202](https://www.govinfo.gov/link/plaw/95/public/397), Sept. 30, 1978, [92 Stat. 844](https://www.govinfo.gov/link/statute/92/844); [Pub. L. 97–252, title X, § 1003(b)](https://www.govinfo.gov/link/plaw/97/public/252), Sept. 8, 1982, [96 Stat. 735](https://www.govinfo.gov/link/statute/96/735); [Pub. L. 97–295, § 1(18)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1290](https://www.govinfo.gov/link/statute/96/1290); [Pub. L. 98–94, title IX, § 941(a)(1)](https://www.govinfo.gov/link/plaw/98/public/94), (2), (c)(2), Sept. 24, 1983, [97 Stat. 652](https://www.govinfo.gov/link/statute/97/652), 653; [Pub. L. 99–145, title V, § 513(b)](https://www.govinfo.gov/link/plaw/99/public/145), title VII, §§ 712(a), 713(a), 715, 716(a), 719(3), (8)(A), 721(a), Nov. 8, 1985, [99 Stat. 628](https://www.govinfo.gov/link/statute/99/628), 670, 671, 673–676; [Pub. L. 99–661, div. A, title VI](https://www.govinfo.gov/link/plaw/99/public/661), §§ 641(b)(1), 642(a), title XIII, § 1343(a)(8)(B), Nov. 14, 1986, [100 Stat. 3885](https://www.govinfo.gov/link/statute/100/3885), 3886, 3992; [Pub. L. 101–189, div. A, title XIV, § 1407(a)(2)](https://www.govinfo.gov/link/plaw/101/public/189), (3), Nov. 29, 1989, [103 Stat. 1588](https://www.govinfo.gov/link/statute/103/1588); [Pub. L. 103–337, div. A, title VI, § 638](https://www.govinfo.gov/link/plaw/103/public/337), title XVI, § 1671(d)(2), Oct. 5, 1994, [108 Stat. 2791](https://www.govinfo.gov/link/statute/108/2791), 3015; [Pub. L. 104–201, div. A, title VI, § 634](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2553](https://www.govinfo.gov/link/statute/110/2553); [Pub. L. 105–85, div. A, title X, § 1073(a)(27)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1901](https://www.govinfo.gov/link/statute/111/1901); [Pub. L. 105–261, div. A, title VI, § 643(a)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2047](https://www.govinfo.gov/link/statute/112/2047); [Pub. L. 106–65, div. A, title X, § 1066(a)(12)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 771](https://www.govinfo.gov/link/statute/113/771); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title VI, § 655(a)–(c)(3), title X, § 1087(a)(10)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–165, 1654A–166, 1654A–290; [Pub. L. 107–107, div. A, title VI, § 642(a)](https://www.govinfo.gov/link/plaw/107/public/107), (c)(1), Dec. 28, 2001, [115 Stat. 1151](https://www.govinfo.gov/link/statute/115/1151), 1152; [Pub. L. 108–136, div. A, title VI](https://www.govinfo.gov/link/plaw/108/public/136), §§ 644(a), (b), 645(a), (b)(1), (c), Nov. 24, 2003, [117 Stat. 1517–1519](https://www.govinfo.gov/link/statute/117/1517); [Pub. L. 108–375, div. A, title X, § 1084(d)(10)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2061](https://www.govinfo.gov/link/statute/118/2061); [Pub. L. 109–364, div. A, title VI](https://www.govinfo.gov/link/plaw/109/public/364), §§ 643(a), 644(a), title X, § 1071(a)(8), Oct. 17, 2006, [120 Stat. 2260](https://www.govinfo.gov/link/statute/120/2260), 2261, 2398; [Pub. L. 113–291, div. A, title VI, § 624(a)(2)(B)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3403](https://www.govinfo.gov/link/statute/128/3403); [Pub. L. 114–92, div. A, title VI, § 641(a)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 852](https://www.govinfo.gov/link/statute/129/852); [Pub. L. 114–328, div. A, title VI, § 642(b)](https://www.govinfo.gov/link/plaw/114/public/328), (c), Dec. 23, 2016, [130 Stat. 2165](https://www.govinfo.gov/link/statute/130/2165); [Pub. L. 116–92, div. A, title VI, § 622(d)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1427](https://www.govinfo.gov/link/statute/133/1427); [Pub. L. 118–159, div. A, title XVII, § 1701(a)(22)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2204](https://www.govinfo.gov/link/statute/138/2204).)*

@@ -3,9 +3,10 @@ title: "Section 1665c - Interest rate reduction on open end consumer credit plan
 usc_title: 15
 usc_section: "1665c"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1665c"
-generated_at: "2026-03-30T02:54:08.145Z"
+generated_at: "2026-11-23T21:25:39.863Z"
+status: "active"
 ---
 
 # § 1665c. Interest rate reduction on open end consumer credit plans
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:08.145Z"
   - **(4)** in the event of an increase in the annual percentage rate, provide in the written notice required under section 1637(i) of this title a statement of the reasons for the increase.
 - **(c)** This section shall not be construed to require a reduction in any specific amount.
 - **(d)** The Bureau 1 1 So in original. Probably should be “Board”. shall issue final rules not later than 9 months after May 22, 2009 , to implement the requirements of and evaluate compliance with this section, and subsections (a), (b), and (c) shall become effective 15 months after May 22, 2009 .
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 148](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 111–24, title I, § 101(c)](https://www.govinfo.gov/link/plaw/111/public/24), May 22, 2009, [123 Stat. 1737](https://www.govinfo.gov/link/statute/123/1737); amended [Pub. L. 111–203, title X, § 1100A(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2107](https://www.govinfo.gov/link/statute/124/2107).)*

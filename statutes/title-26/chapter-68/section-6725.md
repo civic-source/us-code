@@ -3,9 +3,10 @@ title: "Section 6725 - Failure to report information under section 4101"
 usc_title: 26
 usc_section: "6725"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6725"
-generated_at: "2026-03-30T02:55:27.867Z"
+generated_at: "2026-11-23T21:26:06.932Z"
+status: "active"
 ---
 
 # § 6725. Failure to report information under section 4101
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:27.867Z"
   - **(1)** any failure to make a report under section 4101(d) on or before the date prescribed therefor, and
   - **(2)** any failure to include all of the information required to be shown on such report or the inclusion of incorrect information.
 - **(c)** No penalty shall be imposed under this section with respect to any failure if it is shown that such failure is due to reasonable cause.
+
+## Source Credit
+
+*(Added [Pub. L. 108–357, title VIII, § 863(d)(1)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1620](https://www.govinfo.gov/link/statute/118/1620).)*

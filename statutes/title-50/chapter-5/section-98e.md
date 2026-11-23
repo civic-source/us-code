@@ -3,9 +3,10 @@ title: "Section 98e - Stockpile management"
 usc_title: 50
 usc_section: "98e"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 98e"
-generated_at: "2026-03-30T02:56:26.197Z"
+generated_at: "2026-11-23T21:26:38.894Z"
+status: "active"
 ---
 
 # § 98e. Stockpile management
@@ -51,3 +52,13 @@ generated_at: "2026-03-30T02:56:26.197Z"
       - **(iv)** any savings achieved or lessons learned as a result of the use of such practices.
   - **(3)** The pilot program established under paragraph (1) shall terminate effective on the date that is 5 years after December 22, 2023 .
 - **(h)** Except to the extent necessary for the national defense, the National Defense Stockpile Manager shall ensure that each program for the recovery of strategic and critical materials implemented under subsection (a)(5) operates in a manner designed to achieve positive cash flow.
+
+In General
+
+Briefing on Expansion
+
+Strategic and Critical Materials Defined
+
+## Source Credit
+
+*(June 7, 1939, ch. 190, § 6, as added [Pub. L. 96–41, § 2(a)](https://www.govinfo.gov/link/plaw/96/public/41), July 30, 1979, [93 Stat. 321](https://www.govinfo.gov/link/statute/93/321); amended [Pub. L. 97–35, title II, § 203(c)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 382](https://www.govinfo.gov/link/statute/95/382); [Pub. L. 99–661, div. C, title II, § 3207(b)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 4069](https://www.govinfo.gov/link/statute/100/4069); [Pub. L. 101–189, div. C, title XXXIII, § 3314](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1688](https://www.govinfo.gov/link/statute/103/1688); [Pub. L. 101–510, div. C, title XXXIII, § 3301(a)](https://www.govinfo.gov/link/plaw/101/public/510), (b), Nov. 5, 1990, [104 Stat. 1844](https://www.govinfo.gov/link/statute/104/1844); [Pub. L. 102–190, div. C, title XXXIII, § 3312](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1584](https://www.govinfo.gov/link/statute/105/1584); [Pub. L. 103–337, div. C, title XXXIII, § 3302](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 3098](https://www.govinfo.gov/link/statute/108/3098); [Pub. L. 104–106, div. A, title XV, § 1502(e)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 509](https://www.govinfo.gov/link/statute/110/509); [Pub. L. 104–201, div. C, title XXXIII, § 3312(b)](https://www.govinfo.gov/link/plaw/104/public/201), (c), Sept. 23, 1996, [110 Stat. 2857](https://www.govinfo.gov/link/statute/110/2857); [Pub. L. 105–85, div. C, title XXXIII, § 3306](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 2058](https://www.govinfo.gov/link/statute/111/2058); [Pub. L. 106–65, div. A, title X, § 1067(13)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 775](https://www.govinfo.gov/link/statute/113/775); [Pub. L. 113–66, div. A, title XIV, § 1411(a)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 934](https://www.govinfo.gov/link/statute/127/934); [Pub. L. 117–81, div. A, title XIV](https://www.govinfo.gov/link/plaw/117/public/81), §§ 1411(1), 1412, Dec. 27, 2021, [135 Stat. 2018](https://www.govinfo.gov/link/statute/135/2018); [Pub. L. 118–31, div. A, title XIV, § 1411(b)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 523](https://www.govinfo.gov/link/statute/137/523); [Pub. L. 119–60, div. A, title XIV, § 1411(b)(2)](https://www.govinfo.gov/link/plaw/119/public/60), (c), Dec. 18, 2025, [139 Stat. 1135](https://www.govinfo.gov/link/statute/139/1135).)*

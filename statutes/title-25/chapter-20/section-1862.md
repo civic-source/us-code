@@ -3,9 +3,10 @@ title: "Section 1862 - Tribally controlled postsecondary career and technical in
 usc_title: 25
 usc_section: "1862"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1862"
-generated_at: "2026-03-30T02:54:52.830Z"
+generated_at: "2026-11-23T21:25:54.645Z"
+status: "active"
 ---
 
 # § 1862. Tribally controlled postsecondary career and technical institutions program
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:52.830Z"
   - **(2)** If, for any fiscal year, the amount made available pursuant to section 1864 of this title exceeds the sum of the amounts required to be distributed under paragraph (1) to the tribally controlled postsecondary career and technical institutions selected for the fiscal year under subsection (a)(1), the Secretary shall distribute to each tribally controlled postsecondary career and technical institution selected for that fiscal year a portion of the excess amount, to be determined by—
     - **(A)** dividing the excess amount by the aggregate Indian student count (as defined in section 2327(h) of title 20 ) of such institutions for the prior academic year; and
     - **(B)** multiplying the quotient described in subparagraph (A) by the Indian student count of each such institution for the prior academic year.
+
+## Source Credit
+
+*([Pub. L. 95–471, title V, § 502](https://www.govinfo.gov/link/plaw/95/public/471), as added [Pub. L. 110–315, title IX, § 941(j)(1)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3463](https://www.govinfo.gov/link/statute/122/3463).)*

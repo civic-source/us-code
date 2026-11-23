@@ -3,9 +3,10 @@ title: "Section 1631 - Protection for purchasers of farm products"
 usc_title: 7
 usc_section: "1631"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1631"
-generated_at: "2026-03-30T02:53:42.330Z"
+generated_at: "2026-11-23T21:25:28.134Z"
+status: "active"
 ---
 
 # § 1631. Protection for purchasers of farm products
@@ -111,3 +112,11 @@ generated_at: "2026-03-30T02:53:42.330Z"
   - **(3)** A person violating paragraph (2) shall be fined $5,000 or 15 per centum of the value or benefit received for such farm product described in the security agreement, whichever is greater.
 - **(i)** The Secretary of Agriculture shall prescribe regulations not later than 90 days after December 23, 1985 , to aid States in the implementation and management of a central filing system.
 - **(j)** This section shall become effective 12 months after December 23, 1985 .
+
+(aa) the recorded list of debtor names; and
+
+(bb) an encryption program that enables the buyer, commission merchant, and selling agent to enter a social security number for matching against the recorded list of encrypted social security or taxpayer identification numbers; and
+
+## Source Credit
+
+*([Pub. L. 99–198, title XIII, § 1324](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1535](https://www.govinfo.gov/link/statute/99/1535); [Pub. L. 104–127, title VI, § 662](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1107](https://www.govinfo.gov/link/statute/110/1107); [Pub. L. 107–171, title X, § 10604](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 512](https://www.govinfo.gov/link/statute/116/512); [Pub. L. 108–447, div. A, title VII, § 776](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 2849](https://www.govinfo.gov/link/statute/118/2849); [Pub. L. 110–234, title XIV, § 14215](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1466](https://www.govinfo.gov/link/statute/122/1466); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14215, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2228.)*

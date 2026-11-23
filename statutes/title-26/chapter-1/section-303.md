@@ -3,9 +3,10 @@ title: "Section 303 - Distributions in redemption of stock to pay death taxes"
 usc_title: 26
 usc_section: "303"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 303"
-generated_at: "2026-03-30T02:55:27.664Z"
+generated_at: "2026-11-23T21:26:06.132Z"
+status: "active"
 ---
 
 # § 303. Distributions in redemption of stock to pay death taxes
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:27.664Z"
   - **(2)** taxes of the kind referred to in subsection (a)(1) which are imposed because of the generation-skipping transfer shall be treated as imposed because of such individual’s death (and for this purpose the tax imposed by section 2601 shall be treated as an estate tax);
   - **(3)** the period of distribution shall be measured from the date of the generation-skipping transfer; and
   - **(4)** the relationship of stock to the decedent’s estate shall be measured with reference solely to the amount of the generation-skipping transfer.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 88; [Pub. L. 94–455, title XX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 2004(e), 2006(b)(4), Oct. 4, 1976, [90 Stat. 1871](https://www.govinfo.gov/link/statute/90/1871), 1889; [Pub. L. 97–34, title IV, § 422(b)](https://www.govinfo.gov/link/plaw/97/public/34), (e)(1), Aug. 13, 1981, [95 Stat. 314](https://www.govinfo.gov/link/statute/95/314), 316; [Pub. L. 99–514, title XIV, § 1432(b)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2730](https://www.govinfo.gov/link/statute/100/2730).)*

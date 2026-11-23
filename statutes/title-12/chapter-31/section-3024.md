@@ -3,9 +3,10 @@ title: "Section 3024 - Conflict of interest rules; adoption and publication; req
 usc_title: 12
 usc_section: "3024"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3024"
-generated_at: "2026-03-30T02:53:53.489Z"
+generated_at: "2026-11-23T21:25:37.118Z"
+status: "active"
 ---
 
 # § 3024. Conflict of interest rules; adoption and publication; requirements
@@ -14,3 +15,7 @@ The Board of Directors shall adopt and publish its own conflict of interest rule
 
   - **(1)** each nominee for elected membership on the Board established under this chapter to make public and file with the election official before the date of election a statement of his financial interest and position, if any, in such organizations; and
   - **(2)** each senior executive officer and appointed member of the Board to file with the appointing officer, before entering that office a statement of his financial interest and position, if any, in such organizations, which shall be available for inspection upon request.
+
+## Source Credit
+
+*([Pub. L. 95–351, title I, § 114](https://www.govinfo.gov/link/plaw/95/public/351), Aug. 20, 1978, [92 Stat. 510](https://www.govinfo.gov/link/statute/92/510); [Pub. L. 97–35, title III, § 396(f)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 440](https://www.govinfo.gov/link/statute/95/440).)*

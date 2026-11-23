@@ -3,9 +3,10 @@ title: "Section 11143 - Depreciation charges"
 usc_title: 49
 usc_section: "11143"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 11143"
-generated_at: "2026-03-30T02:56:19.325Z"
+generated_at: "2026-11-23T21:26:40.678Z"
+status: "active"
 ---
 
 # § 11143. Depreciation charges
@@ -15,3 +16,7 @@ The Board shall, for a class of rail carriers providing transportation subject t
   - **(1)** charge to operating expenses a depreciation charge on a class of property other than that prescribed by the Board;
   - **(2)** charge another rate of depreciation; or
   - **(3)** include other depreciation charges in operating expenses.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 834](https://www.govinfo.gov/link/statute/109/834).)*

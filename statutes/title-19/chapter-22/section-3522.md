@@ -3,9 +3,10 @@ title: "Section 3522 - Liquidation or reliquidation and refund of duty paid on c
 usc_title: 19
 usc_section: "3522"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 3522"
-generated_at: "2026-03-30T02:54:24.692Z"
+generated_at: "2026-11-23T21:25:42.844Z"
+status: "active"
 ---
 
 # § 3522. Liquidation or reliquidation and refund of duty paid on certain entries
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:24.692Z"
   - **(2)**
     - **(A)** Any entry, or withdrawal from warehouse for consumption, of goods described in heading 9902.29.95 of the HTS (relating to clomiphene citrate) which was made after December 31, 1988 , and before January 1, 1993 , and with respect to which there would have been no duty if the reference to subheading “2922.19.15” in such heading were a reference to subheading “2922.19.15 or any subheading of chapter 30” at the time of such entry or withdrawal, shall be liquidated or reliquidated as free of duty.
     - **(B)** The Secretary of the Treasury shall refund any duties paid with respect to entries described in subparagraph (A).
+
+## Source Credit
+
+*([Pub. L. 103–465, title I, § 113](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4826](https://www.govinfo.gov/link/statute/108/4826).)*

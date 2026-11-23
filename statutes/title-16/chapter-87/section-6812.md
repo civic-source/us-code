@@ -3,9 +3,10 @@ title: "Section 6812 - Repeal of superseded admission and use fee authorities"
 usc_title: 16
 usc_section: "6812"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6812"
-generated_at: "2026-03-30T02:54:23.069Z"
+generated_at: "2026-11-23T21:25:52.054Z"
+status: "active"
 ---
 
 # § 6812. Repeal of superseded admission and use fee authorities
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:23.069Z"
   - **(3)** Any funds collected in accordance with section 315 1 of the Department of the Interior and Related Agencies Appropriations Act, 1996 (as contained in section 101(c) of Public Law 104–134 ), that are unobligated on the day before December 8, 2004 , shall be transferred to the appropriate special account and shall be available to the Secretary in accordance with this chapter.
   - **(4)** Any funds collected in accordance with section 3911 of this title that are available as provided in subsection (c)(A) of such section and are unobligated on the day before December 8, 2004 , shall be transferred to the special account of the United States Fish and Wildlife Service for use in accordance with this chapter.
 - **(f)** A regulation or policy issued under a provision of law repealed by this section shall remain in effect to the extent such a regulation or policy is consistent with the provisions of this chapter until the Secretary issues a regulation, guideline, or policy under this chapter that supersedes the earlier regulation.
+
+## Source Credit
+
+*([Pub. L. 108–447, div. J, title VIII, § 813](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3390](https://www.govinfo.gov/link/statute/118/3390); [Pub. L. 109–54, title I, § 132(a)](https://www.govinfo.gov/link/plaw/109/public/54), Aug. 2, 2005, [119 Stat. 526](https://www.govinfo.gov/link/statute/119/526); [Pub. L. 113–287, § 5(d)(37)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3268](https://www.govinfo.gov/link/statute/128/3268).)*

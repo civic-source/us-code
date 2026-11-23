@@ -3,9 +3,10 @@ title: "Section 1086a - Certain former spouses: extension of period of eligibili
 usc_title: 10
 usc_section: "1086a"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1086a"
-generated_at: "2026-03-30T02:53:38.106Z"
+generated_at: "2026-11-23T21:25:32.413Z"
+status: "active"
 ---
 
 # § 1086a. Certain former spouses: extension of period of eligibility for health benefits
@@ -25,3 +26,17 @@ generated_at: "2026-03-30T02:53:38.106Z"
   - **(2)** The amount paid by a person who purchases a conversion health policy from the Secretary of Defense under paragraph (1) may not exceed the payment required under section 8905a(d)(1)(A) of title 5 for comparable coverage.
   - **(3)** In order to reduce premiums required under paragraph (1), the Secretary of Defense may offer a program of coverage that, with respect to mental health services, offers reduced coverage and increased cost-sharing by the purchaser.
 - **(d)** In this section, the term “conversion health policy” means a health insurance policy with a private insurer, developed through negotiations between the Secretary of Defense and the private insurer, that is available for purchase by or for the use of a person who is a dependent for a one-year period under section 1072(2)(H) of this title .
+
+Availability of Conversion Health Policies
+
+Effect of Purchase
+
+Effect of Unavailability of Policies
+
+Conversion Health Policy Defined
+
+“In the case of conversion health policies provided under section 1145(b) or 1086a(a) of title 10, United States Code, and in effect on the date of the enactment of this Act [ Oct. 23, 1992 ], the Secretary of Defense shall—
+
+## Source Credit
+
+*(Added [Pub. L. 101–189, div. A, title VII, § 731(b)(1)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1482](https://www.govinfo.gov/link/statute/103/1482); amended [Pub. L. 102–484, div. D, title XLIV, § 4407(b)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2707](https://www.govinfo.gov/link/statute/106/2707); [Pub. L. 103–35, title II, § 202(a)(16)](https://www.govinfo.gov/link/plaw/103/public/35), May 31, 1993, [107 Stat. 102](https://www.govinfo.gov/link/statute/107/102).)*

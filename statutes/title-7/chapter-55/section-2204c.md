@@ -3,9 +3,10 @@ title: "Section 2204c - Water management for rural areas"
 usc_title: 7
 usc_section: "2204c"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2204c"
-generated_at: "2026-03-30T02:53:42.379Z"
+generated_at: "2026-11-23T21:25:28.282Z"
+status: "active"
 ---
 
 # § 2204c. Water management for rural areas
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:53:42.379Z"
   - **(1)** There are authorized to be appropriated each fiscal year such sums as are necessary to carry out this section.
   - **(2)** The Secretary is authorized to accept funds from non-Federal sources to carry out the activities authorized by this section.
 - **(g)** Nothing in this section shall authorize the waiver of a cost-share requirement under a program established under any other provision of law.
+
+## Source Credit
+
+*([Pub. L. 100–387, title IV, § 401](https://www.govinfo.gov/link/plaw/100/public/387), Aug. 11, 1988, [102 Stat. 956](https://www.govinfo.gov/link/statute/102/956).)*

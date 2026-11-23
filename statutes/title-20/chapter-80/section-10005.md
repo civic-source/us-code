@@ -3,9 +3,10 @@ title: "Section 10005 - State applications"
 usc_title: 20
 usc_section: "10005"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 10005"
-generated_at: "2026-03-30T02:54:48.233Z"
+generated_at: "2026-11-23T21:25:47.685Z"
+status: "active"
 ---
 
 # § 10005. State applications
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:48.233Z"
     - **(A)** increase the number and percentage of low-income and disadvantaged children in each age group of infants, toddlers, and pre-schoolers who are enrolled in high-quality early learning programs;
     - **(B)** design and implement an integrated system of high-quality early learning programs and services; and
     - **(C)** ensure that any use of assessments conforms with the recommendations of the National Research Council’s reports on early childhood.
+
+## Source Credit
+
+*([Pub. L. 111–5, div. A, title XIV, § 14005](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 282](https://www.govinfo.gov/link/statute/123/282); [Pub. L. 111–8, div. F, title V, § 523(d)](https://www.govinfo.gov/link/plaw/111/public/8) –(f), Mar. 11, 2009, [123 Stat. 806](https://www.govinfo.gov/link/statute/123/806); [Pub. L. 112–10, div. B, title VIII, § 1832(b)(1)](https://www.govinfo.gov/link/plaw/112/public/10), Apr. 15, 2011, [125 Stat. 164](https://www.govinfo.gov/link/statute/125/164).)*

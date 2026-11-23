@@ -3,9 +3,10 @@ title: "Section 8323 - General requirements for exemptions"
 usc_title: 42
 usc_section: "8323"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8323"
-generated_at: "2026-03-30T02:56:11.341Z"
+generated_at: "2026-11-23T21:26:33.198Z"
+status: "active"
 ---
 
 # § 8323. General requirements for exemptions
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.341Z"
 - **(c)**
   - **(1)** Except in the case of an exemption under section 8322(c) of this title , the Secretary may not grant an exemption for a new powerplant unless he finds that the petitioner has demonstrated that there is no alternative supply of electric power which is available within a reasonable distance at a reasonable cost without impairing short-run or long-run reliability of service and which can be obtained by the petitioner, despite reasonable good faith efforts.
   - **(2)** The Secretary shall forward a copy of any such petition to the Federal Energy Regulatory Commission promptly after it is filed with the Secretary and shall consult with such Commission before making any finding on such petition under paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 95–620, title II, § 213](https://www.govinfo.gov/link/plaw/95/public/620), Nov. 9, 1978, [92 Stat. 3304](https://www.govinfo.gov/link/statute/92/3304); [Pub. L. 100–42, § 1(c)(7)](https://www.govinfo.gov/link/plaw/100/public/42), May 21, 1987, [101 Stat. 312](https://www.govinfo.gov/link/statute/101/312).)*

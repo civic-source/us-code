@@ -3,9 +3,10 @@ title: "Section 1396 - Empowerment zone employment credit"
 usc_title: 26
 usc_section: "1396"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1396"
-generated_at: "2026-03-30T02:55:27.773Z"
+generated_at: "2026-11-23T21:26:06.504Z"
+status: "active"
 ---
 
 # § 1396. Empowerment zone employment credit
@@ -37,3 +38,9 @@ generated_at: "2026-03-30T02:55:27.773Z"
     - **(B)** For purposes of paragraph (2)(C), the employment relationship between the taxpayer and an employee shall not be treated as terminated—
       - **(i)** by a transaction to which section 381(a) applies if the employee continues to be employed by the acquiring corporation, or
       - **(ii)** by reason of a mere change in the form of conducting the trade or business of the taxpayer if the employee continues to be employed in such trade or business and the taxpayer retains a substantial interest in such trade or business.
+
+In general
+
+## Source Credit
+
+*(Added [Pub. L. 103–66, title XIII, § 13301(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 549](https://www.govinfo.gov/link/statute/107/549); amended [Pub. L. 104–188, title I, § 1201(e)(4)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1772](https://www.govinfo.gov/link/statute/110/1772); [Pub. L. 105–34, title IX](https://www.govinfo.gov/link/plaw/105/public/34), §§ 951(b), 952(b), Aug. 5, 1997, [111 Stat. 885](https://www.govinfo.gov/link/statute/111/885), 887; [Pub. L. 106–554, § 1(a)(7) [title I, § 113(a), (b)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–601.)*

@@ -3,9 +3,10 @@ title: "Section 239 - Office of Cargo Security Policy"
 usc_title: 6
 usc_section: "239"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 239"
-generated_at: "2026-03-30T02:53:09.453Z"
+generated_at: "2026-11-23T21:25:25.769Z"
+status: "active"
 ---
 
 # § 239. Office of Cargo Security Policy
@@ -22,3 +23,9 @@ generated_at: "2026-03-30T02:53:09.453Z"
     - **(A)** advise the Assistant Secretary for Policy in the development of Department-wide policies regarding cargo security;
     - **(B)** coordinate all policies relating to cargo security among the agencies and offices within the Department relating to cargo security; and
     - **(C)** coordinate the cargo security policies of the Department with the policies of other executive agencies.
+
+“Nothing in this section [enacting this section and section 1001 of this title ] shall be construed to affect—
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 431](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 109–347, title III, § 301(a)](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1920](https://www.govinfo.gov/link/statute/120/1920).)*

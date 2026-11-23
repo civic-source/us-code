@@ -3,9 +3,10 @@ title: "Section 2738 - North Pacific Marine Research Institute"
 usc_title: 33
 usc_section: "2738"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2738"
-generated_at: "2026-03-30T02:55:41.134Z"
+generated_at: "2026-11-23T21:26:11.468Z"
+status: "active"
 ---
 
 # § 2738. North Pacific Marine Research Institute
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:41.134Z"
 - **(d)** Employees of the Institute shall not, by reason of such employment, be considered to be employees of the Federal Government for any purpose.
 - **(e)** No funds made available to carry out this section may be used to initiate litigation, or for the acquisition of real property (other than facilities leased at the Alaska SeaLife Center). No more than 10 percent of the funds made available to carry out subsection (b)(1) may be used to administer the Institute. The administrative funds of the Institute and the administrative funds of the North Pacific Research Board created under Public Law 105–83 may be used to jointly administer such programs at the discretion of the North Pacific Research Board.
 - **(f)** The Institute shall publish and make available to any person on request the results of all research, educational, and demonstration projects conducted by the Institute. The Institute shall provide a copy of all research, educational, and demonstration projects conducted by the Institute to the National Park Service, the United States Fish and Wildlife Service, and the National Oceanic and Atmospheric Administration.
+
+## Source Credit
+
+*([Pub. L. 101–380, title V, § 5008](https://www.govinfo.gov/link/plaw/101/public/380), as added [Pub. L. 106–246, div. B, title II, § 2204(1)](https://www.govinfo.gov/link/plaw/106/public/246), July 13, 2000, [114 Stat. 546](https://www.govinfo.gov/link/statute/114/546); amended [Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(c)(1)(A), (B)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–238, 2763A–239; [Pub. L. 117–286, § 4(a)(205)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4328](https://www.govinfo.gov/link/statute/136/4328).)*

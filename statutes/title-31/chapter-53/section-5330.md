@@ -3,9 +3,10 @@ title: "Section 5330 - Registration of money transmitting businesses"
 usc_title: 31
 usc_section: "5330"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 5330"
-generated_at: "2026-03-30T02:55:34.070Z"
+generated_at: "2026-11-23T21:26:10.626Z"
+status: "active"
 ---
 
 # § 5330. Registration of money transmitting businesses
@@ -41,3 +42,43 @@ generated_at: "2026-03-30T02:55:34.070Z"
   - **(1)** Any person who fails to comply with any requirement of this section or any regulation prescribed under this section shall be liable to the United States for a civil penalty of $5,000 for each such violation.
   - **(2)** Each day a violation described in paragraph (1) continues shall constitute a separate violation for purposes of such paragraph.
   - **(3)** Any penalty imposed under this subsection shall be assessed and collected by the Secretary of the Treasury in the manner provided in section 5321 and any such assessment shall be subject to the provisions of such section.
+
+Registration With Secretary of the Treasury Required.—
+
+In general
+
+Form and manner of registration
+
+Businesses remain subject to state law
+
+False and incomplete information
+
+Contents of Registration
+
+Agents of Money Transmitting Businesses.—
+
+Maintenance of lists of agents of money transmitting businesses
+
+Treatment of agent as money transmitting business
+
+Definitions
+
+Money transmitting business
+
+Money transmitting service
+
+Civil Penalty for Failure To Comply With Registration Requirements.—
+
+In general
+
+Continuing violation
+
+Assessments
+
+Findings
+
+Purpose
+
+## Source Credit
+
+*(Added [Pub. L. 103–325, title IV, § 408(b)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2250](https://www.govinfo.gov/link/statute/108/2250); amended [Pub. L. 107–56, title III, § 359(b)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 328](https://www.govinfo.gov/link/statute/115/328); [Pub. L. 116–283, div. F, title LXI, § 6102(d)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4553](https://www.govinfo.gov/link/statute/134/4553).)*

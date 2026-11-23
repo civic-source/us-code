@@ -3,9 +3,10 @@ title: "Section 3034d - National Intelligence Management Council"
 usc_title: 50
 usc_section: "3034d"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3034d"
-generated_at: "2026-03-30T02:56:26.229Z"
+generated_at: "2026-11-23T21:26:38.998Z"
+status: "active"
 ---
 
 # § 3034d. National Intelligence Management Council
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:26.229Z"
   - **(1)** The Director of National Intelligence shall make available to the National Intelligence Management Council such staff as may be necessary to assist the National Intelligence Management Council in carrying out the responsibilities described in this section.
   - **(2)** Under the direction of the Director of National Intelligence, the National Intelligence Management Council shall make reasonable efforts to advise and consult with officers and employees of other departments or agencies, or components thereof, of the United States Government not otherwise associated with the intelligence community.
 - **(f)** The heads of the elements of the intelligence community shall provide appropriate support to the National Intelligence Management Council, including with respect to intelligence activities, as required by the Director of National Intelligence.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title I, § 103M, as added [Pub. L. 118–159, div. F, title LXIII, § 6307(a)(1)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2475](https://www.govinfo.gov/link/statute/138/2475).)*

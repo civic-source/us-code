@@ -3,9 +3,10 @@ title: "Section 3723 - STEM apprenticeship programs"
 usc_title: 15
 usc_section: "3723"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3723"
-generated_at: "2026-03-30T02:54:08.195Z"
+generated_at: "2026-11-23T21:25:39.983Z"
+status: "active"
 ---
 
 # § 3723. STEM apprenticeship programs
@@ -24,3 +25,15 @@ generated_at: "2026-03-30T02:54:08.195Z"
   - **(2)** the potential of STEM apprenticeships to address the unmet need described in paragraph (1); and
   - **(3)** any barriers to addressing the unmet need described in paragraph (1).
 - **(d)** The Secretary of Commerce may provide a grant to an eligible recipient that has conducted a needs assessment as described in subsection (c)(1) to develop infrastructure to expand STEM apprenticeship programs.
+
+Findings
+
+Development of Apprenticeship Information
+
+Dissemination of Apprenticeship Information
+
+New Apprenticeship Program Study
+
+## Source Credit
+
+*([Pub. L. 96–480, § 30](https://www.govinfo.gov/link/plaw/96/public/480), formerly § 28, as added [Pub. L. 114–329, title III, § 312(e)](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 3014](https://www.govinfo.gov/link/statute/130/3014); renumbered § 30, [Pub. L. 117–167, div. B, title VI, § 10621(a)(1)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1642](https://www.govinfo.gov/link/statute/136/1642).)*

@@ -3,9 +3,10 @@ title: "Section 1 - Scientific Resolution Panel"
 usc_title: 42
 usc_section: "1"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T02:56:11.199Z"
+generated_at: "2026-11-23T21:26:32.634Z"
+status: "active"
 ---
 
 # § 4104–1. Scientific Resolution Panel
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:56:11.199Z"
 - **(d)** With respect to any community that has a dispute that is being considered by the Scientific Resolution Panel formed pursuant to this subsection, the Federal Emergency Management Agency shall ensure that for each such community that—
   - **(1)** the Flood Insurance Rate Map described in the most recently issued Letter of Final Determination shall be in force and effect with respect to such community; and
   - **(2)** flood insurance shall continue to be made available to the property owners and residents of the participating community.
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIII, § 1363A](https://www.govinfo.gov/link/plaw/90/public/448), as added [Pub. L. 112–141, div. F, title II, § 100218(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 930](https://www.govinfo.gov/link/statute/126/930).)*

@@ -3,9 +3,10 @@ title: "Section 139L - Interest on loans secured by rural or agricultural real p
 usc_title: 26
 usc_section: "139L"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 139L"
-generated_at: "2026-03-30T02:55:27.629Z"
+generated_at: "2026-11-23T21:26:06.016Z"
+status: "active"
 ---
 
 # § 139L. Interest on loans secured by rural or agricultural real property
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:27.629Z"
   - **(2)** by substituting “25 percent of the interest on indebtedness” for “Interest on indebtedness” in such subsection (a)(2),
   - **(3)** by treating 25 percent of the adjusted basis of any qualified real estate loan as adjusted basis of a tax-exempt obligation described in subsection (b)(4)(B) thereof, and
   - **(4)** by substituting “25 percent of the amount of such indebtedness” for “the amount of such indebtedness” in subsection (b)(6)(A)(a)(ii) 1 1 So in original. Probably should be “(b)(6)(A)(ii)”. thereof.
+
+## Source Credit
+
+*(Added [Pub. L. 119–21, title VII, § 70435(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 246](https://www.govinfo.gov/link/statute/139/246).)*

@@ -3,9 +3,10 @@ title: "Section 1149 - Prohibition on false statements and representations"
 usc_title: 29
 usc_section: "1149"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1149"
-generated_at: "2026-03-30T02:55:18.721Z"
+generated_at: "2026-11-23T21:26:02.266Z"
+status: "active"
 ---
 
 # § 1149. Prohibition on false statements and representations
@@ -16,3 +17,7 @@ No person, in connection with a plan or other arrangement that is 1 1 So in orig
   - **(2)** the benefits provided by such plan or arrangement;
   - **(3)** the regulatory status of such plan or other arrangement under any Federal or State law governing collective bargaining, labor management relations, or intern union affairs; or
   - **(4)** the regulatory status of such plan or other arrangement regarding exemption from state 2 2 So in original. Probably should be capitalized. regulatory authority under this chapter.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 519](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 111–148, title VI, § 6601(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 779](https://www.govinfo.gov/link/statute/124/779).)*

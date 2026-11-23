@@ -3,9 +3,10 @@ title: "Section 882 - Tax on income of foreign corporations connected with Unite
 usc_title: 26
 usc_section: "882"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 882"
-generated_at: "2026-03-30T02:55:27.742Z"
+generated_at: "2026-11-23T21:26:06.419Z"
+status: "active"
 ---
 
 # § 882. Tax on income of foreign corporations connected with United States business
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:27.742Z"
   - **(1)** for purposes of this subpart, be treated as income which is effectively connected with the conduct of a trade or business within the United States, and
   - **(2)** shall be taxable as provided in subsection (a)(1) whether or not such corporation is engaged in trade or business within the United States during the taxable year.
 - **(f)** If any foreign corporation has no office or place of business in the United States but has an agent in the United States, the return required under section 6012 shall be made by the agent.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 282; [Pub. L. 89–809, title I, § 104(b)(1)](https://www.govinfo.gov/link/plaw/89/public/809), Nov. 13, 1966, [80 Stat. 1555](https://www.govinfo.gov/link/statute/80/1555); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 95–600, title III, § 301(b)(13)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2822](https://www.govinfo.gov/link/statute/92/2822); [Pub. L. 96–499, title XI, § 1122(c)(2)](https://www.govinfo.gov/link/plaw/96/public/499), Dec. 5, 1980, [94 Stat. 2687](https://www.govinfo.gov/link/statute/94/2687); [Pub. L. 97–424, title V, § 515(b)(6)(F)](https://www.govinfo.gov/link/plaw/97/public/424), Jan. 6, 1983, [96 Stat. 2182](https://www.govinfo.gov/link/statute/96/2182); [Pub. L. 98–369, div. A, title IV, § 474(r)(19)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 843](https://www.govinfo.gov/link/statute/98/843); [Pub. L. 99–514, title VII, § 701(e)(4)(F)](https://www.govinfo.gov/link/plaw/99/public/514), title XII, § 1236(a), Oct. 22, 1986, [100 Stat. 2343](https://www.govinfo.gov/link/statute/100/2343), 2576; [Pub. L. 100–647, title I, § 1012(s)(2)(B)](https://www.govinfo.gov/link/plaw/100/public/647), title II, § 2001(c)(2), title VI, § 6133(a), Nov. 10, 1988, [102 Stat. 3527](https://www.govinfo.gov/link/statute/102/3527), 3594, 3721; [Pub. L. 113–295, div. A, title II, § 221(a)(12)(F)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4038](https://www.govinfo.gov/link/statute/128/4038); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 12001(b)(14), 13001(b)(2)(L), 14401(d)(2), Dec. 22, 2017, [131 Stat. 2094](https://www.govinfo.gov/link/statute/131/2094), 2097, 2233; [Pub. L. 117–169, title I, § 10101(a)(4)(E)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1822](https://www.govinfo.gov/link/statute/136/1822).)*

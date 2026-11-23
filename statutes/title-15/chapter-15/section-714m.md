@@ -3,9 +3,10 @@ title: "Section 714m - Crimes and offenses"
 usc_title: 15
 usc_section: "714m"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 714m"
-generated_at: "2026-03-30T02:54:08.117Z"
+generated_at: "2026-11-23T21:25:39.742Z"
+status: "active"
 ---
 
 # § 714m. Crimes and offenses
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.117Z"
 - **(d)** Whoever conspires with another to accomplish any of the acts made unlawful by the preceding provisions of this section shall, upon conviction thereof, be subject to the same fine or imprisonment, or both, as is applicable in the case of conviction for doing such unlawful acts.
 - **(e)** All the general penal statutes relating to crimes and offenses against the United States shall apply with respect to the Corporation, its property, money, contracts and agreements, employees, and operations: Provided , That such general penal statutes shall not apply to the extent that they relate to crimes and offenses punishable under subsections (a), (b), (c), and (d) of this section: Provided further , That sections 431 and 432 of title 18 shall not apply to contracts or agreements of a kind which the Corporation may enter into with farmers participating in a program of the Corporation.
 - **(f)** No individual, association, partnership, or corporation shall use the words “Commodity Credit Corporation” or any combination of the same, as the name or a part thereof under which he or it shall do or purport to do business. Every individual, partnership, association, or corporation violating this prohibition shall be guilty of a misdemeanor and shall be punished by a fine of not more than $1,000 or by imprisonment for not more than one year, or both.
+
+## Source Credit
+
+*(June 29, 1948, ch. 704, § 15, [62 Stat. 1074](https://www.govinfo.gov/link/statute/62/1074); June 7, 1949, ch. 175, § 6, [63 Stat. 157](https://www.govinfo.gov/link/statute/63/157); Aug. 1, 1956, ch. 815, § 2, [70 Stat. 783](https://www.govinfo.gov/link/statute/70/783).)*

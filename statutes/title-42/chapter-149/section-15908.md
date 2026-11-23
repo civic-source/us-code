@@ -3,9 +3,10 @@ title: "Section 15908 - Preservation of geological and geophysical data"
 usc_title: 42
 usc_section: "15908"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15908"
-generated_at: "2026-03-30T02:56:11.463Z"
+generated_at: "2026-11-23T21:26:33.683Z"
+status: "active"
 ---
 
 # § 15908. Preservation of geological and geophysical data
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:56:11.463Z"
   - **(3)** The term “Secretary” means the Secretary of the Interior, acting through the Director of the United States Geological Survey.
   - **(4)** The term “Survey” means the United States Geological Survey.
 - **(k)** There are authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2021 through 2029, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 109–58, title III, § 351](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 711](https://www.govinfo.gov/link/statute/119/711); [Pub. L. 116–260, div. Z, title VII, § 7002](https://www.govinfo.gov/link/plaw/116/public/260) (l), Dec. 27, 2020, [134 Stat. 2575](https://www.govinfo.gov/link/statute/134/2575); [Pub. L. 117–58, div. D, title II, § 40203](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 959](https://www.govinfo.gov/link/statute/135/959).)*

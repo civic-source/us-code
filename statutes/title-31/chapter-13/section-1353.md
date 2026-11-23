@@ -3,9 +3,10 @@ title: "Section 1353 - Acceptance of travel and related expenses from non-Federa
 usc_title: 31
 usc_section: "1353"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 1353"
-generated_at: "2026-03-30T02:55:34.052Z"
+generated_at: "2026-11-23T21:26:10.555Z"
+status: "active"
 ---
 
 # § 1353. Acceptance of travel and related expenses from non-Federal sources
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:34.052Z"
     - **(A)** specify the amount and method of payment, the name of the person making the payment, the name of the employee, the nature of the meeting or similar function, the time and place of travel, the nature of the expenses, and such other information as the Administrator of General Services may prescribe by regulation under subsection (a);
     - **(B)** be submitted not later than May 31 of each year with respect to payments in the preceding period beginning on October 1 and ending on March 31; and
     - **(C)** be submitted not later than November 30 of each year with respect to payments in the preceding period beginning on April 1 and ending on September 30.
+
+## Source Credit
+
+*(Added [Pub. L. 101–194, title III, § 302(a)](https://www.govinfo.gov/link/plaw/101/public/194), Nov. 30, 1989, [103 Stat. 1745](https://www.govinfo.gov/link/statute/103/1745), § 1352; renumbered § 1353 and amended [Pub. L. 101–280, § 4(b)(1)](https://www.govinfo.gov/link/plaw/101/public/280), (c), May 4, 1990, [104 Stat. 157](https://www.govinfo.gov/link/statute/104/157), 158.)*

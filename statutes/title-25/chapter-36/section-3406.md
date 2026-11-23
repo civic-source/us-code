@@ -3,9 +3,10 @@ title: "Section 3406 - Plan review"
 usc_title: 25
 usc_section: "3406"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3406"
-generated_at: "2026-03-30T02:54:52.851Z"
+generated_at: "2026-11-23T21:25:54.691Z"
+status: "active"
 ---
 
 # § 3406. Plan review
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:52.851Z"
 - **(i)** Not later than 10 days after the date on which the dispute is resolved under this section, the Secretary shall provide the requesting Indian tribe with—
   - **(1)** the final decision on the waiver request; and
   - **(2)** notice of the right to file an appeal in accordance with the applicable provisions described in section 3407(d) of this title .
+
+## Source Credit
+
+*([Pub. L. 102–477, § 7](https://www.govinfo.gov/link/plaw/102/public/477), Oct. 23, 1992, [106 Stat. 2303](https://www.govinfo.gov/link/statute/106/2303); [Pub. L. 106–568, title XI, § 1103(c)](https://www.govinfo.gov/link/plaw/106/public/568), Dec. 27, 2000, [114 Stat. 2932](https://www.govinfo.gov/link/statute/114/2932); [Pub. L. 115–93, § 8](https://www.govinfo.gov/link/plaw/115/public/93), Dec. 18, 2017, [131 Stat. 2029](https://www.govinfo.gov/link/statute/131/2029).)*

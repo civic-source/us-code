@@ -3,9 +3,10 @@ title: "Section 2415 - Powers of the Center"
 usc_title: 15
 usc_section: "2415"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2415"
-generated_at: "2026-03-30T02:54:08.172Z"
+generated_at: "2026-11-23T21:25:39.927Z"
+status: "active"
 ---
 
 # § 2415. Powers of the Center
@@ -17,3 +18,7 @@ In carrying out its functions, the Center is authorized—
   - **(3)** to make such studies and recommendations to the President and to Congress as may be necessary to carry out the functions of the Center;
   - **(4)** to implement a program and secure necessary facilities for the collection, collation, analysis, and interpretation of data and information as required in order to carry out the public information functions under this chapter; and
   - **(5)** to undertake such other studies, reviews, activities, and to make such recommendations and reports as may be required to carry out the functions of the Center.
+
+## Source Credit
+
+*([Pub. L. 94–136, title II, § 205](https://www.govinfo.gov/link/plaw/94/public/136), Nov. 28, 1975, [89 Stat. 739](https://www.govinfo.gov/link/statute/89/739).)*

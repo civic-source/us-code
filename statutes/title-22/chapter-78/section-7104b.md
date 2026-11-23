@@ -3,9 +3,10 @@ title: "Section 7104b - Monitoring and investigation of trafficking in persons"
 usc_title: 22
 usc_section: "7104b"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7104b"
-generated_at: "2026-03-30T02:55:05.436Z"
+generated_at: "2026-11-23T21:25:58.708Z"
+status: "active"
 ---
 
 # § 7104b. Monitoring and investigation of trafficking in persons
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:05.436Z"
 - **(d)**
   - **(1)** The head of an executive agency shall ensure that any substantiated allegation in the report under subsection (b) is included in the Federal Awardee Performance and Integrity Information System (FAPIIS) and that the contractor has an opportunity to respond to any such report in accordance with applicable statutes and regulations.
   - **(2)**
+
+## Source Credit
+
+*([Pub. L. 112–239, div. A, title XVII, § 1704](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2094](https://www.govinfo.gov/link/statute/126/2094); [Pub. L. 117–211, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/211), Oct. 17, 2022, [136 Stat. 2248](https://www.govinfo.gov/link/statute/136/2248).)*

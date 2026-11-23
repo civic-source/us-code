@@ -3,9 +3,10 @@ title: "Section 3222 - Program on recruitment and training"
 usc_title: 50
 usc_section: "3222"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3222"
-generated_at: "2026-03-30T02:56:26.238Z"
+generated_at: "2026-11-23T21:26:39.021Z"
+status: "active"
 ---
 
 # § 3222. Program on recruitment and training
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:26.238Z"
   - **(4)** to pay for books and materials that the participant requires or required to complete such course of study;
   - **(5)** to pay the expenses of the participant for travel requested by an element of the intelligence community in relation to such program; or
   - **(6)** for such other purposes the Director considers reasonably appropriate to carry out such program.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title X, § 1022, as added [Pub. L. 111–259, title III, § 311(a)](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2662](https://www.govinfo.gov/link/statute/124/2662); amended [Pub. L. 117–263, div. F, title LXIII, § 6317](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3513](https://www.govinfo.gov/link/statute/136/3513).)*

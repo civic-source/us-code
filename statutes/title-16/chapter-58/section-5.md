@@ -3,9 +3,10 @@ title: "Section 5 - Voluntary public access and habitat incentive program"
 usc_title: 16
 usc_section: "5"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-30T02:54:23.032Z"
+generated_at: "2026-11-23T21:25:51.997Z"
+status: "active"
 ---
 
 # § 3839bb–5. Voluntary public access and habitat incentive program
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:23.032Z"
   - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section, to the maximum extent practicable, $50,000,000 for the period of fiscal years 2009 through 2012, $40,000,000 for the period of fiscal years 2014 through 2018, $50,000,000 for the period of fiscal years 2019 through 2023, $10,000,000 for fiscal year 2024, and $70,000,000 for the period of fiscal years 2025 through 2031.
   - **(2)** To the maximum extent practicable, of the funds made available under paragraph (1), the Secretary shall use $3,000,000 for the period of fiscal years 2019 through 2023 to encourage public access to land covered by wetland reserve easements under section 3865c of this title through agreements with States and tribal governments under this section.
   - **(3)** There is authorized to be appropriated to carry out this section $10,000,000 for fiscal year 2013.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1240R](https://www.govinfo.gov/link/plaw/99/public/198), as added [Pub. L. 110–234, title II, § 2606](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1070](https://www.govinfo.gov/link/statute/122/1070), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title II, § 2606, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1798; amended [Pub. L. 112–240, title VII, § 701(c)(2)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2363](https://www.govinfo.gov/link/statute/126/2363); [Pub. L. 113–79, title II, § 2503(a)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 751](https://www.govinfo.gov/link/statute/128/751); [Pub. L. 115–334, title II](https://www.govinfo.gov/link/plaw/115/public/334), §§ 2202(b)(1), 2406, Dec. 20, 2018, [132 Stat. 4537](https://www.govinfo.gov/link/statute/132/4537), 4573; [Pub. L. 118–22, div. B, title I, § 102(d)(1)(B)](https://www.govinfo.gov/link/plaw/118/public/22), Nov. 17, 2023, [137 Stat. 116](https://www.govinfo.gov/link/statute/137/116); [Pub. L. 119–21, title I, § 10601(d)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 108](https://www.govinfo.gov/link/statute/139/108).)*

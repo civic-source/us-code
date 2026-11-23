@@ -3,9 +3,10 @@ title: "Section 1326 - Payments"
 usc_title: 11
 usc_section: "1326"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1326"
-generated_at: "2026-03-30T02:53:53.887Z"
+generated_at: "2026-11-23T21:25:34.974Z"
+status: "active"
 ---
 
 # § 1326. Payments
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:53.887Z"
 - **(d)** Notwithstanding any other provision of this title—
   - **(1)** compensation referred to in subsection (b)(3) is payable and may be collected by the trustee under that paragraph, even if such amount has been discharged in a prior case under this title; and
   - **(2)** such compensation is payable in a case under this chapter only to the extent permitted by subsection (b)(3).
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2650](https://www.govinfo.gov/link/statute/92/2650); [Pub. L. 98–353, title III](https://www.govinfo.gov/link/plaw/98/public/353), §§ 318(a), 531, July 10, 1984, [98 Stat. 357](https://www.govinfo.gov/link/statute/98/357), 389; [Pub. L. 99–554, title II](https://www.govinfo.gov/link/plaw/99/public/554), §§ 230, 283(z), Oct. 27, 1986, [100 Stat. 3103](https://www.govinfo.gov/link/statute/100/3103), 3118; [Pub. L. 103–394, title III, § 307](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4135](https://www.govinfo.gov/link/statute/108/4135); [Pub. L. 109–8, title III, § 309(c)(2)](https://www.govinfo.gov/link/plaw/109/public/8), title XII, § 1224, title XV, § 1502(a)(10), Apr. 20, 2005, [119 Stat. 83](https://www.govinfo.gov/link/statute/119/83), 199, 217.)*

@@ -3,9 +3,10 @@ title: "Section 3705 - Application to Office of the Chief Technology Officer of 
 usc_title: 5
 usc_section: "3705"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3705"
-generated_at: "2026-03-30T02:52:56.008Z"
+generated_at: "2026-11-23T21:25:23.177Z"
+status: "active"
 ---
 
 # § 3705. Application to Office of the Chief Technology Officer of the District of Columbia
@@ -13,3 +14,13 @@ generated_at: "2026-03-30T02:52:56.008Z"
 - **(a)** The Chief Technology Officer of the District of Columbia may arrange for the assignment of an employee of the Office of the Chief Technology Officer to a private sector organization, or an employee of a private sector organization to such Office, in the same manner as the head of an agency under this chapter.
 - **(b)** An assignment made pursuant to subsection (a) shall be subject to the same terms and conditions as an assignment made by the head of an agency under this chapter, except that in applying such terms and conditions to an assignment made pursuant to subsection (a), any reference in this chapter to a provision of law or regulation of the United States shall be deemed to be a reference to the applicable provision of law or regulation of the District of Columbia, including the applicable provisions of the District of Columbia Government Comprehensive Merit Personnel Act of 1978 (sec. 1–601.01 et seq., D.C. Official Code) and section 601 of the District of Columbia Campaign Finance Reform and Conflict of Interest Act (sec. 1–1106.01, D.C. Official Code).
 - **(c)** For purposes of this section, the term “Office of the Chief Technology Officer” means the office established in the executive branch of the government of the District of Columbia under the Office of the Chief Technology Officer Establishment Act of 1998 (sec. 1–1401 et seq., D.C. Official Code).
+
+In General
+
+Terms and Conditions
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 107–347, title II, § 209(c)(1)](https://www.govinfo.gov/link/plaw/107/public/347), Dec. 17, 2002, [116 Stat. 2929](https://www.govinfo.gov/link/statute/116/2929).)*

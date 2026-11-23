@@ -3,9 +3,10 @@ title: "Section 2779a - Prohibition on incentive payments"
 usc_title: 22
 usc_section: "2779a"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2779a"
-generated_at: "2026-03-30T02:55:05.387Z"
+generated_at: "2026-11-23T21:25:58.563Z"
+status: "active"
 ---
 
 # § 2779a. Prohibition on incentive payments
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.387Z"
     - **(B)** any corporation, business association, partnership, trust, or other juridical entity—
       - **(i)** organized under the laws of the United States or any State, the District of Columbia, or any territory or possession of the United States; or
       - **(ii)** owned or controlled in fact by individuals described in subparagraph (A) or by an entity described in clause (i).
+
+## Source Credit
+
+*([Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 3, § 39A, as added [Pub. L. 103–236, title VII, § 733](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 504](https://www.govinfo.gov/link/statute/108/504); amended [Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XII, § 1246, title XIII, § 1303]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–502, 1501A–511; [Pub. L. 111–266, title I, § 103(d)](https://www.govinfo.gov/link/plaw/111/public/266), Oct. 8, 2010, [124 Stat. 2799](https://www.govinfo.gov/link/statute/124/2799).)*

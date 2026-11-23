@@ -3,9 +3,10 @@ title: "Section 8858 - Duties of prize master"
 usc_title: 10
 usc_section: "8858"
 chapter: 883
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 8858"
-generated_at: "2026-03-30T02:53:38.252Z"
+generated_at: "2026-11-23T21:25:32.960Z"
+status: "active"
 ---
 
 # § 8858. Duties of prize master
@@ -17,3 +18,18 @@ The prize master shall take the captured vessel to the selected port. On arrival
   - **(3)** report all information respecting the prize and her capture to the United States attorney;
   - **(4)** deliver the persons sent as witnesses to the custody of the United States marshal; and
   - **(5)** retain the prize in his custody until it is taken therefrom by process from the prize court.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 7658 | 34 U.S.C. 1134 . | R.S. 4617. |
+
+
+Historical and Revision Notes
+
+7658
+
+34 U.S.C. 1134
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 476, § 7658; renumbered § 8858, [Pub. L. 115–232, div. A, title VIII, § 807(d)(9)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1837](https://www.govinfo.gov/link/statute/132/1837).)*

@@ -3,9 +3,10 @@ title: "Section 1291 - Definitions"
 usc_title: 30
 usc_section: "1291"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1291"
-generated_at: "2026-03-30T02:55:29.403Z"
+generated_at: "2026-11-23T21:26:00.431Z"
+status: "active"
 ---
 
 # § 1291. Definitions
@@ -48,3 +49,7 @@ For the purposes of this chapter—
   - **(32)** the term “institution of higher education” as used in subchapters VIII and IX, means any such institution as defined by section 1001 3 3 See References in Text note below. of title 20;
   - **(33)** the term “unanticipated event or condition” as used in section 1260(e) of this title means an event or condition encountered in a remining operation that was not contemplated by the applicable surface coal mining and reclamation permit; and
   - **(34)** the term “lands eligible for remining” means those lands that would otherwise be eligible for expenditures under section 1234 of this title or under section 1232(g)(4) of this title .
+
+## Source Credit
+
+*([Pub. L. 95–87, title VII, § 701](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 516](https://www.govinfo.gov/link/statute/91/516); [Pub. L. 102–486, title XXV, § 2503(c)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3103](https://www.govinfo.gov/link/statute/106/3103); [Pub. L. 105–244, title I, § 102(a)(10)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1620](https://www.govinfo.gov/link/statute/112/1620).)*

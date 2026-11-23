@@ -3,9 +3,10 @@ title: "Section 123 - Civil remedies for fraud"
 usc_title: 40
 usc_section: "123"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 123"
-generated_at: "2026-03-30T02:55:43.371Z"
+generated_at: "2026-11-23T21:26:14.777Z"
+status: "active"
 ---
 
 # § 123. Civil remedies for fraud
@@ -23,3 +24,43 @@ generated_at: "2026-03-30T02:55:43.371Z"
   - **(1)** In this subsection, the term “district court” means a district court of the United States or a district court of a territory or possession of the United States.
   - **(2)** A district court has original jurisdiction of an action arising under this section, and venue is proper, if at least one defendant resides or may be found in the court’s judicial district. Jurisdiction and venue are determined without regard to the place where acts were committed.
   - **(3)** A defendant that does not reside and may not be found in the court’s judicial district may be brought in by order of the court, to be served personally, by publication, or in another reasonable manner directed by the court.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 123(a) | 40:489(b). | June 30, 1949, ch. 288 , title II, § 209, 63 Stat. 392 . |
+| 123(b) | 40:489(d). |  |
+| 123(c) | 40:489(a). |  |
+| 123(d) | 40:489(c). |  |
+
+
+In General
+
+Additional Remedies and Criminal Penalties
+
+Immunity of Government Officials
+
+Jurisdiction and Venue.—
+
+Definition
+
+In general
+
+Additional defendant outside judicial district
+
+Historical and Revision Notes
+
+123(a)
+
+June 30, 1949, ch. 288
+
+63 Stat. 392
+
+123(b)
+
+123(c)
+
+123(d)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1070](https://www.govinfo.gov/link/statute/116/1070).)*

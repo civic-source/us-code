@@ -3,9 +3,10 @@ title: "Section 1357 - Powers of immigration officers and employees"
 usc_title: 8
 usc_section: "1357"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1357"
-generated_at: "2026-03-30T02:53:10.496Z"
+generated_at: "2026-11-23T21:25:25.180Z"
+status: "active"
 ---
 
 # § 1357. Powers of immigration officers and employees
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:53:10.496Z"
     - **(A)** to communicate with the Attorney General regarding the immigration status of any individual, including reporting knowledge that a particular alien is not lawfully present in the United States; or
     - **(B)** otherwise to cooperate with the Attorney General in the identification, apprehension, detention, or removal of aliens not lawfully present in the United States.
 - **(h)** An alien described in section 1101(a)(27)(J) of this title who has been battered, abused, neglected, or abandoned, shall not be compelled to contact the alleged abuser (or family member of the alleged abuser) at any stage of applying for special immigrant juvenile status, including after a request for the consent of the Secretary of Homeland Security under section 1101(a)(27)(J)(iii)(I) of this title .
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 9, § 287, [66 Stat. 233](https://www.govinfo.gov/link/statute/66/233); [Pub. L. 94–550, § 7](https://www.govinfo.gov/link/plaw/94/public/550), Oct. 18, 1976, [90 Stat. 2535](https://www.govinfo.gov/link/statute/90/2535); [Pub. L. 99–570, title I, § 1751(d)](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–47](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 99–603, title I, § 116](https://www.govinfo.gov/link/plaw/99/public/603), Nov. 6, 1986, [100 Stat. 3384](https://www.govinfo.gov/link/statute/100/3384); [Pub. L. 100–525](https://www.govinfo.gov/link/plaw/100/public/525), §§ 2(e), 5, Oct. 24, 1988, [102 Stat. 2610](https://www.govinfo.gov/link/statute/102/2610), 2615; [Pub. L. 101–649, title V, § 503(a)](https://www.govinfo.gov/link/plaw/101/public/649), (b)(1), Nov. 29, 1990, [104 Stat. 5048](https://www.govinfo.gov/link/statute/104/5048), 5049; [Pub. L. 102–232, title III, § 306(a)(3)](https://www.govinfo.gov/link/plaw/102/public/232), Dec. 12, 1991, [105 Stat. 1751](https://www.govinfo.gov/link/statute/105/1751); [Pub. L. 104–208, div. C, title I, § 133](https://www.govinfo.gov/link/plaw/104/public/208), title III, § 308(d)(4)(L), (e)(1)(M), (g)(5)(A)(i), Sept. 30, 1996, [110 Stat. 3009–563](https://www.govinfo.gov/link/statute/110/3009), 3009–618, 3009–619, 3009–623; [Pub. L. 109–162, title VIII, § 826](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3065](https://www.govinfo.gov/link/statute/119/3065); [Pub. L. 109–271, § 6(g)](https://www.govinfo.gov/link/plaw/109/public/271), Aug. 12, 2006, [120 Stat. 763](https://www.govinfo.gov/link/statute/120/763).)*

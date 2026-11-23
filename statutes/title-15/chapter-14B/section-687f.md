@@ -3,9 +3,10 @@ title: "Section 687f - Unlawful acts and omissions by officers, directors, emplo
 usc_title: 15
 usc_section: "687f"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 687f"
-generated_at: "2026-03-30T02:54:08.111Z"
+generated_at: "2026-11-23T21:25:39.716Z"
+status: "active"
 ---
 
 # § 687f. Unlawful acts and omissions by officers, directors, employees, or agents
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.111Z"
   - **(2)** for any person to continue to serve in any of the above-described capacities, if—
     - **(A)** he is hereafter convicted of a felony, or any other criminal offense involving dishonesty or breach of trust, or
     - **(B)** he is hereafter found civilly liable in damages, or is permanently or temporarily enjoined by an order, judgment, or decree of a court of competent jurisdiction, by reason of any act or practice involving fraud or breach of trust.
+
+## Source Credit
+
+*([Pub. L. 85–699, title III, § 314](https://www.govinfo.gov/link/plaw/85/public/699), as added [Pub. L. 89–779, § 7](https://www.govinfo.gov/link/plaw/89/public/779), Nov. 6, 1966, [80 Stat. 1363](https://www.govinfo.gov/link/statute/80/1363).)*

@@ -3,9 +3,10 @@ title: "Section 2509 - Prohibition of certain involuntary administrative separat
 usc_title: 14
 usc_section: "2509"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 2509"
-generated_at: "2026-03-30T02:53:51.499Z"
+generated_at: "2026-11-23T21:25:35.431Z"
+status: "active"
 ---
 
 # § 2509. Prohibition of certain involuntary administrative separations
@@ -15,3 +16,17 @@ generated_at: "2026-03-30T02:53:51.499Z"
   - **(1)** The Secretary may require a Physical Evaluation Board to reevaluate any covered individual if the Secretary determines there is reason to believe that a medical condition of the covered individual considered by a Physical Evaluation Board during an evaluation of the covered individual renders the covered individual unsuitable for continued duty.
   - **(2)** A covered individual who is determined, based on a reevaluation under paragraph (1), to be unfit to perform the duties of the covered individual’s office, grade, rank, or rating may be retired or separated for physical disability under chapter 61 of title 10.
 - **(c)** In this section, the term “covered individual” means any member of the Coast Guard who has been determined by a Physical Evaluation Board, pursuant to a physical evaluation by that board, to be fit for duty.
+
+In General
+
+Reevaluation.—
+
+In general
+
+Retirements and separations
+
+Covered Individual Defined
+
+## Source Credit
+
+*(Added [Pub. L. 112–213, title II, § 209(a)](https://www.govinfo.gov/link/plaw/112/public/213), Dec. 20, 2012, [126 Stat. 1549](https://www.govinfo.gov/link/statute/126/1549), § 427; amended [Pub. L. 114–120, title II, § 209(6)](https://www.govinfo.gov/link/plaw/114/public/120), Feb. 8, 2016, [130 Stat. 41](https://www.govinfo.gov/link/statute/130/41); renumbered § 2509, [Pub. L. 115–282, title I, § 114(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4223](https://www.govinfo.gov/link/statute/132/4223).)*

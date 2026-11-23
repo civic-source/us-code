@@ -3,9 +3,10 @@ title: "Section 1735g - Mortgage relief for homeowners who are unemployed as res
 usc_title: 12
 usc_section: "1735g"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1735g"
-generated_at: "2026-03-30T02:53:53.430Z"
+generated_at: "2026-11-23T21:25:36.922Z"
+status: "active"
 ---
 
 # § 1735g. Mortgage relief for homeowners who are unemployed as result of closing of Federal installation
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:53.430Z"
   - **(4)** Each Federal mortgage agency shall give prompt notice in writing to the interested mortgagor and mortgagee of the expiration of any certificate of moratorium issued by it under this section.
 - **(d)** The Federal mortgage agencies are authorized to issue such individual and joint regulations as may be necessary to carry out this section and to insure the uniform administration thereof.
 - **(e)** There shall be in the Treasury (1) a fund which shall be available to the Secretary of Housing and Urban Development for the purpose of extending financial assistance in behalf of distressed mortgagors as provided in subsection (c) and for paying administrative expenses incurred in connection with such assistance, and (2) a fund which shall be available to the Secretary of Veterans Affairs for the same purpose, except administrative expenses. The capital of each such fund shall consist of such sums as may, from time to time, be appropriated thereto, and any sums so appropriated shall remain available until expended. Receipts arising from the programs of assistance under subsection (c) shall be credited to the funds from which such assistance was extended. Moneys in either of such funds not needed for current operations, as determined by the Secretary of Housing and Urban Development, or the Secretary of Veterans Affairs, as the case may be, shall be invested in bonds or other obligations of the United States, or paid into the Treasury as miscellaneous receipts.
+
+## Source Credit
+
+*([Pub. L. 89–117, title I, § 107(a)](https://www.govinfo.gov/link/plaw/89/public/117) –(e), Aug. 10, 1965, [79 Stat. 458](https://www.govinfo.gov/link/statute/79/458), 459; [Pub. L. 89–754, title X, § 1012](https://www.govinfo.gov/link/plaw/89/public/754), Nov. 3, 1966, [80 Stat. 1288](https://www.govinfo.gov/link/statute/80/1288); [Pub. L. 102–54, § 13(d)(3)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 275](https://www.govinfo.gov/link/statute/105/275).)*

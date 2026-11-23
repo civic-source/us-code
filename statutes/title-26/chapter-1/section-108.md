@@ -3,9 +3,10 @@ title: "Section 108 - Income from discharge of indebtedness"
 usc_title: 26
 usc_section: "108"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 108"
-generated_at: "2026-03-30T02:55:27.623Z"
+generated_at: "2026-11-23T21:26:06.000Z"
+status: "active"
 ---
 
 # § 108. Income from discharge of indebtedness
@@ -199,3 +200,113 @@ generated_at: "2026-03-30T02:55:27.623Z"
     - **(A)** extending the application of the rules of paragraph (5)(D) to other circumstances where appropriate,
     - **(B)** requiring reporting of the election (and such other information as the Secretary may require) on returns of tax for subsequent taxable years, and
     - **(C)** rules for the application of this subsection to partnerships, S corporations, and other pass-thru entities, including for the allocation of deferred deductions.
+
+In general
+
+Qualified farm indebtedness
+
+Qualified person
+
+Extension
+
+Modification
+
+In general
+
+Exception
+
+In general
+
+Exception for title 11 cases
+
+In general
+
+Exceptions
+
+In general
+
+Transitional rule
+
+Certain transfers to controlling shareholder
+
+Certain transfers pursuant to debt restructure agreement
+
+For Section
+
+(Relating to Tax Treatment of Discharge of Indebtedness).—
+
+In general.—
+
+Transitional rule.—
+
+For Section
+
+(Relating to Rules Relating to Title
+
+Cases for Individuals).—
+
+For Section
+
+(Relating to Corporate Reorganization Provisions).—
+
+In general.—
+
+Exchanges of property for accrued interest.—
+
+For Section
+
+(Relating to Miscellaneous Corporate Amendments).—
+
+For subsection
+
+(relating to exemption from personal holding company tax).—
+
+For subsection
+
+(relating to repeal of special treatment for certain railroad redemptions).—
+
+For subsection
+
+(relating to application of 12-month liquidation rule).—
+
+For subsection
+
+(relating to permitting bankruptcy estate to be subchapter s shareholder).—
+
+For subsection
+
+(relating to certain transfers to controlled corporations).—
+
+For subsection
+
+(relating to effect of debt discharge on earnings and profits).—
+
+For Section
+
+(Relating to Changes in Tax Procedures).—
+
+Election To Substitute September
+
+for December
+
+In general.—
+
+Effect of election.—
+
+Revocation only with consent.—
+
+Time and manner of election.—
+
+Definitions.—
+
+Bankruptcy case.—
+
+Similar judicial proceeding.—
+
+In General
+
+Effective Date
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 32; June 29, 1956, ch. 463, § 5, [70 Stat. 403](https://www.govinfo.gov/link/statute/70/403); [Pub. L. 88–496, § 1(a)](https://www.govinfo.gov/link/plaw/88/public/496), June 8, 1960, [74 Stat. 164](https://www.govinfo.gov/link/statute/74/164); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1906(b)(13)(A), 1951(b)(2)(A), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834), 1836; [Pub. L. 96–589, § 2(a)](https://www.govinfo.gov/link/plaw/96/public/589), Dec. 24, 1980, [94 Stat. 3389](https://www.govinfo.gov/link/statute/94/3389); [Pub. L. 97–354, § 3(e)](https://www.govinfo.gov/link/plaw/97/public/354), Oct. 19, 1982, [96 Stat. 1689](https://www.govinfo.gov/link/statute/96/1689); [Pub. L. 97–448, title I, § 102(h)(1)](https://www.govinfo.gov/link/plaw/97/public/448), title III, § 304(d), Jan. 12, 1983, [96 Stat. 2372](https://www.govinfo.gov/link/statute/96/2372), 2398; [Pub. L. 98–369, div. A, title I, § 59(a)](https://www.govinfo.gov/link/plaw/98/public/369), (b)(1), title IV, § 474(r)(5), title VII, § 721(b)(2), title X, § 1076(a), July 18, 1984, [98 Stat. 576](https://www.govinfo.gov/link/statute/98/576), 839, 966, 1053; [Pub. L. 99–514, title I, § 104(b)(2)](https://www.govinfo.gov/link/plaw/99/public/514), title II, § 231(d)(3)(D), title IV, § 405(a), title VI, § 621(e)(1), title VIII, §§ 805(c)(2)–(4), 822(a), (b)(1)–(3), title XI, § 1171(b)(4), title XVIII, § 1847(b)(7), Oct. 22, 1986, [100 Stat. 2105](https://www.govinfo.gov/link/statute/100/2105), 2179, 2224, 2266, 2362, 2373, 2513, 2856; [Pub. L. 100–647, title I, § 1004(a)(1)](https://www.govinfo.gov/link/plaw/100/public/647) –(4), (6), Nov. 10, 1988, [102 Stat. 3385](https://www.govinfo.gov/link/statute/102/3385), 3387; [Pub. L. 101–508, title XI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 11325(a)(1), (b), 11813(b)(6), Nov. 5, 1990, [104 Stat. 1388–466](https://www.govinfo.gov/link/statute/104/1388), 1388–551; [Pub. L. 103–66, title XIII](https://www.govinfo.gov/link/plaw/103/public/66), §§ 13150(a)–(c)(5), 13226(a)(1), (2)(B), (b)(1)–(3), Aug. 10, 1993, [107 Stat. 446–448](https://www.govinfo.gov/link/statute/107/446), 487, 488; [Pub. L. 104–188, title I, § 1703(n)(2)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1877](https://www.govinfo.gov/link/statute/110/1877); [Pub. L. 105–34, title II, § 225(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 820](https://www.govinfo.gov/link/statute/111/820); [Pub. L. 105–206, title VI, § 6004(f)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 795](https://www.govinfo.gov/link/statute/112/795); [Pub. L. 107–147, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 40](https://www.govinfo.gov/link/statute/116/40); [Pub. L. 108–357, title III, § 320(a)](https://www.govinfo.gov/link/plaw/108/public/357), title VIII, § 896(a), Oct. 22, 2004, [118 Stat. 1473](https://www.govinfo.gov/link/statute/118/1473), 1648; [Pub. L. 110–142, § 2(a)](https://www.govinfo.gov/link/plaw/110/public/142) –(c), Dec. 20, 2007, [121 Stat. 1803](https://www.govinfo.gov/link/statute/121/1803), 1804; [Pub. L. 110–343, div. A, title III, § 303(a)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3807](https://www.govinfo.gov/link/statute/122/3807); [Pub. L. 111–5, div. B, title I, § 1231(a)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 338](https://www.govinfo.gov/link/statute/123/338); [Pub. L. 111–148, title X, § 10908(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 1021](https://www.govinfo.gov/link/statute/124/1021); [Pub. L. 112–240, title II, § 202(a)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2323](https://www.govinfo.gov/link/statute/126/2323); [Pub. L. 113–295, div. A, title I, § 102(a)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4013](https://www.govinfo.gov/link/statute/128/4013); [Pub. L. 114–113, div. Q, title I, § 151(a)](https://www.govinfo.gov/link/plaw/114/public/113), (b), Dec. 18, 2015, [129 Stat. 3065](https://www.govinfo.gov/link/statute/129/3065); [Pub. L. 115–97, title I, § 11031(a)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2081](https://www.govinfo.gov/link/statute/131/2081); [Pub. L. 115–123, div. D, title I, § 40201(a)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 145](https://www.govinfo.gov/link/statute/132/145); [Pub. L. 116–94, div. Q, title I, § 101(a)](https://www.govinfo.gov/link/plaw/116/public/94), (b), Dec. 20, 2019, [133 Stat. 3227](https://www.govinfo.gov/link/statute/133/3227); [Pub. L. 116–260, div. EE, title I, § 114(a)](https://www.govinfo.gov/link/plaw/116/public/260), (b), Dec. 27, 2020, [134 Stat. 3050](https://www.govinfo.gov/link/statute/134/3050); [Pub. L. 117–2, title IX, § 9675(a)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 185](https://www.govinfo.gov/link/statute/135/185); [Pub. L. 119–21, title VII, § 70119(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 168](https://www.govinfo.gov/link/statute/139/168).)*

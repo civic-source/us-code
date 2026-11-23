@@ -3,9 +3,10 @@ title: "Section 17 - Same; limit of debate in each House"
 usc_title: 3
 usc_section: "17"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "3 U.S.C. § 17"
-generated_at: "2026-03-30T02:52:49.877Z"
+generated_at: "2026-11-23T21:25:20.079Z"
+status: "active"
 ---
 
 # § 17. Same; limit of debate in each House
@@ -16,3 +17,7 @@ When the two Houses separate to decide upon an objection pursuant to section 15(
   - **(2)** each Senator and Representative may speak to such objections or questions for up to five minutes, and not more than once;
   - **(3)** the total time for debate for all such objections and questions with respect to such State shall not exceed two hours in each House, equally divided and controlled by the Majority Leader and Minority Leader, or their respective designees; and
   - **(4)** at the close of such debate, it shall be the duty of the presiding officer of each House to put each of the objections and questions to a vote without further debate.
+
+## Source Credit
+
+*(June 25, 1948, ch. 644, [62 Stat. 676](https://www.govinfo.gov/link/statute/62/676); [Pub. L. 117–328, div. P, title I, § 110(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5240](https://www.govinfo.gov/link/statute/136/5240).)*

@@ -3,9 +3,10 @@ title: "Section 9413 - Coordination by Interagency Committee"
 usc_title: 15
 usc_section: "9413"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9413"
-generated_at: "2026-03-30T02:54:08.246Z"
+generated_at: "2026-11-23T21:25:40.142Z"
+status: "active"
 ---
 
 # § 9413. Coordination by Interagency Committee
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.246Z"
   - **(3)** as part of the President’s annual budget request to Congress, propose an annually coordinated interagency budget for the Initiative to the Office of Management and Budget that is intended to ensure that the balance of funding across the Initiative is sufficient to meet the goals and priorities established for the Initiative; and
   - **(4)** in carrying out this section, take into consideration the recommendations of the Advisory Committee, existing reports on related topics, and the views of academic, State, industry, and other appropriate groups.
 - **(e)** For each fiscal year beginning with fiscal year 2022, not later than 90 days after submission of the President’s annual budget request for such fiscal year, the Interagency Committee shall prepare and submit to the Committee on Science, Space, and Technology, the Committee on Energy and Commerce, the Committee on Transportation and Infrastructure, the Committee on Armed Services, the House Permanent Select Committee on Intelligence, the Committee on the Judiciary, and the Committee on Appropriations of the House of Representatives and the Committee on Commerce, Science, and Transportation, the Committee on Health, Education, Labor, and Pensions, the Committee on Energy and Natural Resources, the Committee on Homeland Security and Governmental Affairs, the Committee on Armed Services, the Senate Select Committee on Intelligence, the Committee on the Judiciary, and the Committee on Appropriations of the Senate a report that includes a summarized budget in support of the Initiative for such fiscal year and the preceding fiscal year, including a disaggregation of spending and a description of any Institutes established under section 9431 of this title for the Department of Commerce, the Department of Defense, the Department of Energy, the Department of Agriculture, the Department of Health and Human Services, and the National Science Foundation.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. E, title LI, § 5103](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4526](https://www.govinfo.gov/link/statute/134/4526).)*

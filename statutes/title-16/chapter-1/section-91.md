@@ -3,9 +3,10 @@ title: "Section 91 - Wildlands Juniper Management Area"
 usc_title: 16
 usc_section: "91"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 91"
-generated_at: "2026-03-30T02:54:22.844Z"
+generated_at: "2026-11-23T21:25:51.625Z"
+status: "active"
 ---
 
 # § 460nnn–91. Wildlands Juniper Management Area
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:22.844Z"
 - **(a)** To further the purposes of section 460nnn–23(c) of this title , the Secretary shall establish a special management area consisting of certain Federal lands in the Cooperative Management and Protection Area, as depicted on the map referred to in section 460nnn–11(a) of this title , which shall be known as the Wildlands Juniper Management Area.
 - **(b)** Special management practices shall be adopted for the Wildlands Juniper Management Area for the purposes of experimentation, education, interpretation, and demonstration of active and passive management intended to restore the historic fire regime and native vegetation communities on Steens Mountain.
 - **(c)** In addition to the authorization of appropriations in section 460nnn–121 of this title , there is authorized to be appropriated $5,000,000 to carry out this part and section 460nnn–23(c) of this title regarding juniper management in the Cooperative Management and Protection Area.
+
+## Source Credit
+
+*([Pub. L. 106–399, title V, § 501](https://www.govinfo.gov/link/plaw/106/public/399), Oct. 30, 2000, [114 Stat. 1670](https://www.govinfo.gov/link/statute/114/1670).)*

@@ -3,9 +3,10 @@ title: "Section 5925 - High-priority research and extension initiatives"
 usc_title: 7
 usc_section: "5925"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 5925"
-generated_at: "2026-03-30T02:53:42.420Z"
+generated_at: "2026-11-23T21:25:28.372Z"
+status: "active"
 ---
 
 # § 5925. High-priority research and extension initiatives
@@ -186,3 +187,29 @@ generated_at: "2026-03-30T02:53:42.420Z"
     - **(B)** assessing Federal efforts to mitigate pollinator losses and threats to the United States commercial beekeeping industry; and
     - **(C)** providing recommendations to Congress regarding how to better coordinate Federal agency efforts to address the decline of managed honey bees and native pollinators.
 - **(h)** There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2023.
+
+(aa) involves a minor commodity; and
+
+(bb) deals with scientifically important research; and
+
+Research required
+
+Preference
+
+Priority
+
+Authorization of Appropriations
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XVI, § 1672](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3770](https://www.govinfo.gov/link/statute/104/3770); [Pub. L. 102–237, title IV](https://www.govinfo.gov/link/plaw/102/public/237), §§ 406, 407(11), Dec. 13, 1991, [105 Stat. 1864](https://www.govinfo.gov/link/statute/105/1864), 1865; [Pub. L. 104–127, title VIII](https://www.govinfo.gov/link/plaw/104/public/127), §§ 836, 863, 888, Apr. 4, 1996, [110 Stat. 1169](https://www.govinfo.gov/link/statute/110/1169), 1174, 1180; [Pub. L. 105–185, title II, § 242](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 549](https://www.govinfo.gov/link/statute/112/549); [Pub. L. 107–171, title VII](https://www.govinfo.gov/link/plaw/107/public/171), §§ 7119, 7208(b), May 13, 2002, [116 Stat. 434](https://www.govinfo.gov/link/statute/116/434), 442; [Pub. L. 108–465, title III, § 302](https://www.govinfo.gov/link/plaw/108/public/465), Dec. 21, 2004, [118 Stat. 3885](https://www.govinfo.gov/link/statute/118/3885); [Pub. L. 110–234, title VII](https://www.govinfo.gov/link/plaw/110/public/234), §§ 7203, 7204, May 22, 2008, [122 Stat. 1233](https://www.govinfo.gov/link/statute/122/1233); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, §§ 7203, 7204, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1994; [Pub. L. 113–79, title VII](https://www.govinfo.gov/link/plaw/113/public/79), §§ 7128(b)(2)(C), 7209, Feb. 7, 2014, [128 Stat. 879](https://www.govinfo.gov/link/statute/128/879), 881; [Pub. L. 115–334, title VII](https://www.govinfo.gov/link/plaw/115/public/334), §§ 7209, 7614(b)(2)(C), Dec. 20, 2018, [132 Stat. 4806](https://www.govinfo.gov/link/statute/132/4806), 4834.)*

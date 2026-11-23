@@ -3,12 +3,17 @@ title: "Section 1706 - Importation in vessels under thirty tons and aircraft; li
 usc_title: 19
 usc_section: "1706"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1706"
-generated_at: "2026-03-30T02:54:24.660Z"
+generated_at: "2026-11-23T21:25:42.761Z"
+status: "active"
 ---
 
 # § 1706. Importation in vessels under thirty tons and aircraft; licenses; labels as prima facie evidence of foreign origin of merchandise
 
 Except into the districts adjoining to the Dominion of Canada, or into the districts adjacent to Mexico, no merchandise of foreign growth or manufacture subject to the payment of duties shall be brought into the United States from any foreign port or place, or from any hovering vessel, in any vessel of less than thirty net tons burden without special license granted by the Secretary of the Treasury under such conditions as he may prescribe, nor in any other manner than by sea, except by aircraft duly licensed in accordance with law, or landed or unladen at any other port than is directed by law, under the penalty of seizure and forfeiture of all such unlicensed vessels or aircraft and of the merchandise imported therein, landed or unladen in any manner. Marks, labels, brands, or stamps, indicative of foreign origin, upon or accompanying merchandise or containers of merchandise found upon any such vessel or aircraft, shall be prima facie evidence of the foreign origin of such merchandise.
 
+
+## Source Credit
+
+*(Aug. 5, 1935, ch. 438, title I, § 6, [49 Stat. 519](https://www.govinfo.gov/link/statute/49/519).)*

@@ -3,9 +3,10 @@ title: "Section 10909 - Solid waste rail transfer facility land-use exemption"
 usc_title: 49
 usc_section: "10909"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 10909"
-generated_at: "2026-03-30T02:56:19.324Z"
+generated_at: "2026-11-23T21:26:40.677Z"
+status: "active"
 ---
 
 # § 10909. Solid waste rail transfer facility land-use exemption
@@ -36,3 +37,25 @@ generated_at: "2026-03-30T02:56:19.324Z"
 - **(g)** Nothing in this section precludes a person from seeking an injunction to enjoin a solid waste rail transfer facility from being constructed or operated by or on behalf of a rail carrier if that facility has materially violated, or will materially violate, its land-use exemption or if it failed to receive a valid land-use exemption under this section.
 - **(h)** The Board may charge permit applicants reasonable fees to implement this section, including the costs of third-party consultants.
 - **(i)** In this section the terms “solid waste”, “solid waste rail transfer facility”, and “State requirements” have the meaning given such terms in section 10908(e).
+
+Authority
+
+Land-Use Exemption Procedures
+
+Standard for Review.—
+
+Considerations
+
+Existing Facilities
+
+Effect of Land-Use Exemption
+
+Injunctive Relief
+
+Fees
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 110–432, div. A, title VI, § 604(a)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4903](https://www.govinfo.gov/link/statute/122/4903); amended [Pub. L. 114–94, div. A, title XI, § 11316(b)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1676](https://www.govinfo.gov/link/statute/129/1676).)*

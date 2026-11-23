@@ -3,9 +3,10 @@ title: "Section 9121 - Response to international child abductions"
 usc_title: 22
 usc_section: "9121"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9121"
-generated_at: "2026-03-30T02:55:05.461Z"
+generated_at: "2026-11-23T21:25:58.763Z"
+status: "active"
 ---
 
 # § 9121. Response to international child abductions
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:05.461Z"
     - **(B)** the humanitarian activities of United States and nongovernmental organizations in the country; and
     - **(C)** the national security interests of the United States.
 - **(d)** When an individual who is an abducted child attains 16 years of age, a consular officer from a United States diplomatic mission in the country in which such individual resides shall, until either the left-behind parent seeking assistance or the individual (after attaining 18 years of age) requests the officer to cease, annually attempt to contact such individual, through welfare and whereabout visits and by engaging other agencies and foreign counterparts as necessary, to provide information, as relevant, on rights and privileges as a United States citizen, such as passports, and any eligible benefits from left-behind parent, such as G.I. educational and health benefits and to obtain a verified location of such individual.
+
+## Source Credit
+
+*([Pub. L. 113–150, title II, § 201](https://www.govinfo.gov/link/plaw/113/public/150), Aug. 8, 2014, [128 Stat. 1817](https://www.govinfo.gov/link/statute/128/1817); [Pub. L. 118–159, div. G, title LXXV, § 7509(b)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2551](https://www.govinfo.gov/link/statute/138/2551).)*

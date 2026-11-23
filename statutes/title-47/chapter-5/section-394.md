@@ -3,9 +3,10 @@ title: "Section 394 - Establishment of National Endowment"
 usc_title: 47
 usc_section: "394"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 394"
-generated_at: "2026-03-30T02:56:24.512Z"
+generated_at: "2026-11-23T21:26:36.015Z"
+status: "active"
 ---
 
 # § 394. Establishment of National Endowment
@@ -41,3 +42,9 @@ generated_at: "2026-03-30T02:56:24.512Z"
 - **(i)** For purposes of this section—
   - **(1)** the term “educational television programming for children” means any television program which is directed to an audience of children who are 16 years of age or younger and which is designed for the intellectual development of those children, except that such term does not include any television program which is directed to a general audience but which might also be viewed by a significant number of children; and
   - **(2)** the term “person” means an individual, partnership, association, joint stock company, trust, corporation, or State or local governmental entity.
+
+“The Congress finds that—
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 394, as added [Pub. L. 101–437, title II, § 203(a)(3)](https://www.govinfo.gov/link/plaw/101/public/437), Oct. 17, 1990, [104 Stat. 998](https://www.govinfo.gov/link/statute/104/998); amended [Pub. L. 102–538, title I, § 152](https://www.govinfo.gov/link/plaw/102/public/538), formerly § 132, Oct. 27, 1992, [106 Stat. 3540](https://www.govinfo.gov/link/statute/106/3540), renumbered § 152, [Pub. L. 103–66, title VI, § 6001(a)(2)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 379](https://www.govinfo.gov/link/statute/107/379).)*

@@ -3,9 +3,10 @@ title: "Section 552 - Public information; agency rules, opinions, orders, record
 usc_title: 5
 usc_section: "552"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 552"
-generated_at: "2026-03-30T02:52:55.985Z"
+generated_at: "2026-11-23T21:25:23.056Z"
+status: "active"
 ---
 
 # § 552. Public information; agency rules, opinions, orders, records, and proceedings
@@ -264,3 +265,222 @@ generated_at: "2026-03-30T02:52:55.985Z"
 - **(m)**
   - **(1)** The Director of the Office of Management and Budget, in consultation with the Attorney General, shall ensure the operation of a consolidated online request portal that allows a member of the public to submit a request for records under subsection (a) to any agency from a single website. The portal may include any additional tools the Director of the Office of Management and Budget finds will improve the implementation of this section.
   - **(2)** This subsection shall not be construed to alter the power of any other agency to create or maintain an independent online portal for the submission of a request for records under this section. The Director of the Office of Management and Budget shall establish standards for interoperability between the portal required under paragraph (1) and other request processing software used by agencies subject to this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 1002 . | June 11, 1946, ch. 324, § 3 , 60 Stat. 238 . |
+
+
+(aa) If an agency has determined that unusual circumstances apply (as the term is defined in paragraph (6)(B)) and the agency provided a timely written notice to the requester in accordance with paragraph (6)(B), a failure described in subclause (I) is excused for an additional 10 days. If the agency fails to comply with the extended time limit, the agency may not assess any search fees (or in the case of a requester described under clause (ii)(II) of this subparagraph, duplication fees).
+
+(bb) If an agency has determined that unusual circumstances apply and more than 5,000 pages are necessary to respond to the request, an agency may charge search fees (or in the case of a requester described under clause (ii)(II) of this subparagraph, duplication fees) if the agency has provided a timely written notice to the requester in accordance with paragraph (6)(B) and the agency has discussed with the requester via written mail, electronic mail, or telephone (or made not less than 3 good-faith attempts to do so) how the requester could effectively limit the scope of the request in accordance with paragraph (6)(B)(ii).
+
+(cc) If a court has determined that exceptional circumstances exist (as that term is defined in paragraph (6)(C)), a failure described in subclause (I) shall be excused for the length of time provided by the court order.
+
+(aa) the right of such person to appeal to the head of the agency, within a period determined by the head of the agency that is not less than 90 days after the date of such adverse determination; and
+
+(bb) the right of such person to seek dispute resolution services from the FOIA Public Liaison of the agency or the Office of Government Information Services; and
+
+Historical and Revision Notes
+
+Act
+
+5 U.S.C. 1002
+
+June 11, 1946, ch. 324, § 3
+
+60 Stat. 238
+
+Act
+
+In General
+
+Provisions Effective on Enactment
+
+In General
+
+Requirements
+
+Treatment Under FOIA
+
+Preservation of Restricted Report
+
+Short Title
+
+Definitions
+
+Protected document
+
+Photograph
+
+Certification.—
+
+In general
+
+Certification expiration
+
+Certification renewal
+
+Notice to congress
+
+Rule of Construction
+
+Effective Date
+
+“Congress finds that—
+
+Mandatory Disclosure Requirements Inapplicable
+
+Land Remote Sensing Information Defined
+
+State or Local Government Disclosures
+
+Safeguarding Information
+
+Additional Definition
+
+Disclosure to Congress
+
+Definitions
+
+Agency
+
+Interagency group
+
+Japanese imperial government records
+
+Record
+
+Establishment of Interagency Group.—
+
+In general
+
+Membership
+
+Functions
+
+Funding
+
+Release of Records
+
+Exemptions
+
+Applications of Exemptions.—
+
+In general
+
+Application of title 5
+
+Records Related to Investigations or Prosecutions
+
+Definitions
+
+Establishment of Interagency Group.—
+
+In general
+
+Membership
+
+Initial meeting
+
+Functions
+
+Funding
+
+Nazi War Criminal Records
+
+Release of Records.—
+
+In general
+
+Exception for privacy, etc
+
+Application of exemptions.—
+
+In general
+
+Application of title 5
+
+Limitation on application
+
+Inapplicability of National Security Act of
+
+Exemption
+
+Expedited Processing
+
+Requester
+
+Findings
+
+Purposes
+
+In General
+
+Statutory Construction
+
+Definitions
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Ronald Reagan.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+George W. Bush.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 383](https://www.govinfo.gov/link/statute/80/383); [Pub. L. 90–23, § 1](https://www.govinfo.gov/link/plaw/90/public/23), June 5, 1967, [81 Stat. 54](https://www.govinfo.gov/link/statute/81/54); [Pub. L. 93–502](https://www.govinfo.gov/link/plaw/93/public/502), §§ 1–3, Nov. 21, 1974, [88 Stat. 1561–1564](https://www.govinfo.gov/link/statute/88/1561); [Pub. L. 94–409, § 5(b)](https://www.govinfo.gov/link/plaw/94/public/409), Sept. 13, 1976, [90 Stat. 1247](https://www.govinfo.gov/link/statute/90/1247); [Pub. L. 95–454, title IX, § 906(a)(10)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1225](https://www.govinfo.gov/link/statute/92/1225); [Pub. L. 98–620, title IV, § 402(2)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3357](https://www.govinfo.gov/link/statute/98/3357); [Pub. L. 99–570, title I](https://www.govinfo.gov/link/plaw/99/public/570), §§ 1802, 1803, Oct. 27, 1986, [100 Stat. 3207–48](https://www.govinfo.gov/link/statute/100/3207), 3207–49; [Pub. L. 104–231](https://www.govinfo.gov/link/plaw/104/public/231), §§ 3–11, Oct. 2, 1996, [110 Stat. 3049–3054](https://www.govinfo.gov/link/statute/110/3049); [Pub. L. 107–306, title III, § 312](https://www.govinfo.gov/link/plaw/107/public/306), Nov. 27, 2002, [116 Stat. 2390](https://www.govinfo.gov/link/statute/116/2390); [Pub. L. 110–175](https://www.govinfo.gov/link/plaw/110/public/175), §§ 3, 4(a), 5, 6(a)(1), (b)(1), 7(a), 8–10(a), 12, Dec. 31, 2007, [121 Stat. 2525–2530](https://www.govinfo.gov/link/statute/121/2525); [Pub. L. 111–83, title V, § 564(b)](https://www.govinfo.gov/link/plaw/111/public/83), Oct. 28, 2009, [123 Stat. 2184](https://www.govinfo.gov/link/statute/123/2184); [Pub. L. 114–185, § 2](https://www.govinfo.gov/link/plaw/114/public/185), June 30, 2016, [130 Stat. 538](https://www.govinfo.gov/link/statute/130/538).)*

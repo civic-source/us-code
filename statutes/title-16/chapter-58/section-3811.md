@@ -3,9 +3,10 @@ title: "Section 3811 - Program ineligibility"
 usc_title: 16
 usc_section: "3811"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3811"
-generated_at: "2026-03-30T02:54:23.022Z"
+generated_at: "2026-11-23T21:25:51.984Z"
+status: "active"
 ---
 
 # § 3811. Program ineligibility
@@ -26,3 +27,13 @@ generated_at: "2026-03-30T02:54:23.022Z"
     - **(C)** a payment under section 2201 or 2202 of this title; or
     - **(D)** a payment, loan, or other assistance under section 1003 or 1006a of this title.
 - **(b)** The Secretary shall have, and shall not delegate to any private person or entity, authority to determine whether a person has complied with this subchapter.
+
+In General
+
+Selection of Counties and Producers
+
+Errors in Delineation
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1211](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1506](https://www.govinfo.gov/link/statute/99/1506); [Pub. L. 101–624, title XIV, § 1411](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3569](https://www.govinfo.gov/link/statute/104/3569); [Pub. L. 102–237, title II, § 204(1)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1854](https://www.govinfo.gov/link/statute/105/1854); [Pub. L. 104–127, title III, § 311](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 982](https://www.govinfo.gov/link/statute/110/982); [Pub. L. 107–171, title II, § 2002(a)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 233](https://www.govinfo.gov/link/statute/116/233); [Pub. L. 113–79, title II](https://www.govinfo.gov/link/plaw/113/public/79), §§ 2611(a)(1), 2713(b), Feb. 7, 2014, [128 Stat. 762](https://www.govinfo.gov/link/statute/128/762), 772; [Pub. L. 115–334, title II, § 2301(d)(1)(A)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4553](https://www.govinfo.gov/link/statute/132/4553).)*

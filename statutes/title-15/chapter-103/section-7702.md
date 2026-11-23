@@ -3,9 +3,10 @@ title: "Section 7702 - Definitions"
 usc_title: 15
 usc_section: "7702"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7702"
-generated_at: "2026-03-30T02:54:08.225Z"
+generated_at: "2026-11-23T21:25:40.065Z"
+status: "active"
 ---
 
 # § 7702. Definitions
@@ -47,3 +48,7 @@ In this chapter:
       - **(iv)** to provide information directly related to an employment relationship or related benefit plan in which the recipient is currently involved, participating, or enrolled; or
       - **(v)** to deliver goods or services, including product updates or upgrades, that the recipient is entitled to receive under the terms of a transaction that the recipient has previously agreed to enter into with the sender.
     - **(B)** The Commission by regulation pursuant to section 7711 of this title may modify the definition in subparagraph (A) to expand or contract the categories of messages that are treated as transactional or relationship messages for purposes of this chapter to the extent that such modification is necessary to accommodate changes in electronic mail technology or practices and accomplish the purposes of this chapter.
+
+## Source Credit
+
+*([Pub. L. 108–187, § 3](https://www.govinfo.gov/link/plaw/108/public/187), Dec. 16, 2003, [117 Stat. 2700](https://www.govinfo.gov/link/statute/117/2700).)*

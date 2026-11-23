@@ -3,12 +3,17 @@ title: "Section 211 - Copies to Members of Congress"
 usc_title: 1
 usc_section: "211"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "1 U.S.C. § 211"
-generated_at: "2026-03-30T02:52:49.392Z"
+generated_at: "2026-11-23T21:25:19.921Z"
+status: "active"
 ---
 
 # § 211. Copies to Members of Congress
 
 In addition to quotas provided for by section 210 of this title there shall be printed, published, and distributed of the Code of Laws relating to the District of Columbia with tables, index, and other ancillaries, suitably bound and with thumb inserts and other convenient devices to distinguish the parts, and of the supplements to both codes as provided for by sections 202, 203 of this title, ten copies of each for each Member of the Senate and House of Representatives of the Congress in which the original authorized publication is made, for his use and distribution, and in addition for the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a number of bound copies of each equal to ten times the number of members of such committees, and one bound copy of each for the use of each committee of the Senate and House of Representatives.
 
+
+## Source Credit
+
+*(July 30, 1947, ch. 388, [61 Stat. 640](https://www.govinfo.gov/link/statute/61/640).)*

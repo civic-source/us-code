@@ -3,9 +3,10 @@ title: "Section 1431f - Assistance to foreign countries to mitigate effects of H
 usc_title: 7
 usc_section: "1431f"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1431f"
-generated_at: "2026-03-30T02:53:42.312Z"
+generated_at: "2026-11-23T21:25:28.068Z"
+status: "active"
 ---
 
 # § 1431f. Assistance to foreign countries to mitigate effects of HIV and AIDS
@@ -16,3 +17,7 @@ On and after November 10, 2005 , of any shipments of commodities made pursuant t
     - **(A)** individuals with Human Immunodeficiency Virus or Acquired Immune Deficiency Syndrome in the communities; and
     - **(B)** households in the communities, particularly individuals caring for orphaned children; and
   - **(2)** agricultural commodities monetized to provide other assistance (including assistance under microcredit and microenterprise programs) to create or restore sustainable livelihoods among individuals in the communities, particularly individuals caring for orphaned children.
+
+## Source Credit
+
+*([Pub. L. 109–97, title VII, § 725](https://www.govinfo.gov/link/plaw/109/public/97), Nov. 10, 2005, [119 Stat. 2153](https://www.govinfo.gov/link/statute/119/2153).)*

@@ -3,9 +3,10 @@ title: "Section 9013 - Community Navigator pilot program"
 usc_title: 15
 usc_section: "9013"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9013"
-generated_at: "2026-03-30T02:54:08.238Z"
+generated_at: "2026-11-23T21:25:40.111Z"
+status: "active"
 ---
 
 # § 9013. Community Navigator pilot program
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:08.238Z"
     - **(C)** implement an education campaign by advertising in media targeted to current or prospective owners of eligible businesses.
   - **(4)** In addition to amounts otherwise available, there is appropriated to the Administrator for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $75,000,000, to remain available until September 30, 2022 , for carrying out this subsection.
 - **(d)** The authority of the Administrator to make grants under this section shall terminate on December 31, 2025 .
+
+## Source Credit
+
+*([Pub. L. 117–2, title V, § 5004](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 90](https://www.govinfo.gov/link/statute/135/90).)*

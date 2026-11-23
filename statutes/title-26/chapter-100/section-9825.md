@@ -3,9 +3,10 @@ title: "Section 9825 - Reporting on pharmacy benefits and drug costs"
 usc_title: 26
 usc_section: "9825"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 9825"
-generated_at: "2026-03-30T02:55:27.898Z"
+generated_at: "2026-11-23T21:26:07.050Z"
+status: "active"
 ---
 
 # § 9825. Reporting on pharmacy benefits and drug costs
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:55:27.898Z"
   - **(10)** Any reduction in premiums and out-of-pocket costs associated with rebates, fees, or other remuneration described in paragraph (9).
 - **(b)** Not later than 18 months after the date on which the first report is required under subsection (a) and biannually thereafter, the Secretary, acting in coordination with the Inspector General of the Department of the Treasury, shall make available on the internet website of the Department of the Treasury a report on prescription drug reimbursements under group health plans, prescription drug pricing trends, and the role of prescription drug costs in contributing to premium increases or decreases under such plans, aggregated in such a way as no drug or plan specific information will be made public.
 - **(c)** No confidential or trade secret information submitted to the Secretary under subsection (a) shall be included in the report under subsection (b).
+
+## Source Credit
+
+*(Added [Pub. L. 116–260, div. BB, title II, § 204(c)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2920](https://www.govinfo.gov/link/statute/134/2920).)*

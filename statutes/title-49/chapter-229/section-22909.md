@@ -3,9 +3,10 @@ title: "Section 22909 - Railroad Crossing Elimination Program"
 usc_title: 49
 usc_section: "22909"
 chapter: 229
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 22909"
-generated_at: "2026-03-30T02:56:19.343Z"
+generated_at: "2026-11-23T21:26:40.727Z"
+status: "active"
 ---
 
 # § 22909. Railroad Crossing Elimination Program
@@ -81,3 +82,61 @@ generated_at: "2026-03-30T02:56:19.343Z"
       - **(i)** shall be bound by the employee protective arrangements required under subparagraph (A); and
       - **(ii)** shall be responsible for the implementation of such arrangements and for the obligations under such arrangements, but may arrange for another entity to take initial responsibility for compliance with the conditions of such arrangement.
 - **(k)** In this section, the term “rural area” means any area that is not within an area designated as an urbanized area by the Bureau of the Census.
+
+In General
+
+Goals
+
+Eligible Recipients
+
+Eligible Projects
+
+Application Process.—
+
+In general
+
+Railroad approvals.—
+
+In general
+
+Exception
+
+Project Selection Criteria.—
+
+In general
+
+Additional considerations
+
+Award distribution
+
+Grant funds
+
+Planning grants
+
+State limitation
+
+Minimum size
+
+Cost Share
+
+Congressional Notification
+
+Annual Report
+
+Commuter Rail Eligibility and Grant Conditions.—
+
+In general
+
+Administration of funds
+
+Protective arrangements.—
+
+In general
+
+Implementation
+
+Defined Term
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. B, title II, § 22305(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 720](https://www.govinfo.gov/link/statute/135/720).)*

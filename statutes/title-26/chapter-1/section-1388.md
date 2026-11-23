@@ -3,9 +3,10 @@ title: "Section 1388 - Definitions; special rules"
 usc_title: 26
 usc_section: "1388"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1388"
-generated_at: "2026-03-30T02:55:27.771Z"
+generated_at: "2026-11-23T21:26:06.501Z"
+status: "active"
 ---
 
 # § 1388. Definitions; special rules
@@ -72,3 +73,13 @@ generated_at: "2026-03-30T02:55:27.771Z"
       - **(ii)** such organization shall, upon receipt of such notification, provide to its patrons a revised notice meeting the requirements of this paragraph.
   - **(4)** For purposes of this subsection, the terms “patronage earnings” and “patronage losses” means 1 1 So in original. Probably should be “mean”. earnings and losses, respectively, which are derived from business done with or for patrons of the organization.
 - **(k)** For purposes of section 521 and this subchapter, the marketing of the products of members or other producers shall include the feeding of such products to cattle, hogs, fish, chickens, or other animals and the sale of the resulting animals or animal products.
+
+In general
+
+Notification requirement
+
+No inference
+
+## Source Credit
+
+*(Added [Pub. L. 87–834, § 17(a)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 1049](https://www.govinfo.gov/link/statute/76/1049); amended [Pub. L. 89–809, title II, § 211(c)](https://www.govinfo.gov/link/plaw/89/public/809), Nov. 13, 1966, [80 Stat. 1582](https://www.govinfo.gov/link/statute/80/1582); [Pub. L. 91–172, title IX, § 911(b)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 722](https://www.govinfo.gov/link/statute/83/722); [Pub. L. 94–455, title XIX, § 1901(a)(153)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1789](https://www.govinfo.gov/link/statute/90/1789); [Pub. L. 95–600, title III, § 316(b)(3)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2830](https://www.govinfo.gov/link/statute/92/2830); [Pub. L. 99–272, title XIII, § 13210(a)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 323](https://www.govinfo.gov/link/statute/100/323); [Pub. L. 101–508, title XI, § 11813(b)(24)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–555](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 108–357, title III](https://www.govinfo.gov/link/plaw/108/public/357), §§ 312(a), 316(a), Oct. 22, 2004, [118 Stat. 1467](https://www.govinfo.gov/link/statute/118/1467), 1469.)*

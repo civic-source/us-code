@@ -3,9 +3,10 @@ title: "Section 12473 - Definitions"
 usc_title: 34
 usc_section: "12473"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 12473"
-generated_at: "2026-03-30T02:55:33.288Z"
+generated_at: "2026-11-23T21:26:09.748Z"
+status: "active"
 ---
 
 # § 12473. Definitions
@@ -39,3 +40,7 @@ For purposes of this subpart—
   - **(7)** the term “homeless service provider” means a nonprofit, nongovernmental homeless service provider, such as a homeless shelter, a homeless service or advocacy program, a tribal organization serving homeless individuals, or coalition or other nonprofit, nongovernmental organization carrying out a community-based homeless or housing program that has a documented history of effective work concerning homelessness;
   - **(8)** the term “tribally designated housing” means housing assistance described in the Native American Housing Assistance and Self-Determination Act of 1996 ( 25 U.S.C. 4101 et seq.); and
   - **(9)** the term “tribally designated housing entity” means a housing entity described in the Native American Housing Assistance and Self-Determination Act of 1996 ( 25 U.S.C. 4103(21) ); 3 3 So in original. The semicolon probably should be a period.
+
+## Source Credit
+
+*([Pub. L. 103–322, title IV, § 41403](https://www.govinfo.gov/link/plaw/103/public/322), as added [Pub. L. 109–162, title VI, § 601](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3031](https://www.govinfo.gov/link/statute/119/3031); amended [Pub. L. 113–4, title VI, § 601(a)(3)](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 102](https://www.govinfo.gov/link/statute/127/102).)*

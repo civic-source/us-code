@@ -3,9 +3,10 @@ title: "Section 2241 - Inspection by the Secretary of Commerce"
 usc_title: 21
 usc_section: "2241"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 2241"
-generated_at: "2026-03-30T02:54:54.310Z"
+generated_at: "2026-11-23T21:25:56.303Z"
+status: "active"
 ---
 
 # § 2241. Inspection by the Secretary of Commerce
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:54.310Z"
       - **(ii)** provide the report to the country or exporter that is the subject of the report; and
       - **(iii)** provide a 30-day period during which the country or exporter may provide a rebuttal or other comments on the findings of the report to the Secretary of Health and Human Services.
     - **(B)** The Secretary of Health and Human Services shall consider the inspection reports described in subparagraph (A) in distributing inspection resources under section 350j of this title .
+
+## Source Credit
+
+*([Pub. L. 111–353, title III, § 306(b)](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3959](https://www.govinfo.gov/link/statute/124/3959).)*

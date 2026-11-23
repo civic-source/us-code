@@ -3,9 +3,10 @@ title: "Section 14311 - Delay of promotion: involuntary"
 usc_title: 10
 usc_section: "14311"
 chapter: 1405
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 14311"
-generated_at: "2026-03-30T02:53:38.274Z"
+generated_at: "2026-11-23T21:25:33.061Z"
+status: "active"
 ---
 
 # § 14311. Delay of promotion: involuntary
@@ -31,3 +32,17 @@ generated_at: "2026-03-30T02:53:38.274Z"
   - **(2)** The promotion of an officer described in paragraph (1) shall also be delayed while the officer is on duty described in that paragraph unless the Secretary of the military department concerned, under regulations prescribed by the Secretary of Defense, determines that the duty assignment of the officer requires a higher grade than the grade currently held by the officer.
   - **(3)** The date of rank and position on the reserve active-status list of a reserve officer whose promotion to or Federal recognition in the next higher grade was delayed under paragraph (1) or (2) solely as the result of the limitations imposed under the regulations prescribed by the Secretary of Defense or contained in section 12011 of this title shall be the date on which the officer would have been promoted to or recognized in the higher grade had such limitations not existed.
   - **(4)** If an officer whose promotion is delayed under paragraph (1) or (2) completes the period of active duty or full-time National Guard duty that the officer is required by law or regulation to perform as a member of a reserve component, the officer may request release from active duty or full-time National Guard duty. If the request is granted, the officer’s promotion shall be effective upon the officer’s release from such duty. The date of rank and position on the reserve active-status list of the officer shall be the date the officer would have been promoted to or recognized in the higher grade had the limitations imposed under regulations prescribed by the Secretary of Defense contained in section 12011 of this title not existed. If an officer whose promotion is delayed under paragraph (1) or (2) has not completed the period of active duty or full-time National Guard duty that the officer is required by law or regulation to perform as a member of a reserve component, the officer may be retained on active duty or on full-time National Guard duty in the grade in which the officer was serving before the officer’s being found qualified for Federal recognition or the officer’s selection for the promotion until the officer completes that required period of duty.
+
+Delay During Investigations and Proceedings
+
+Delay for Lack of Qualifications
+
+Notice to Officer
+
+Maximum Length of Delay in Promotion
+
+Delay Because of Limitations on Officer Strength in Grade or Duties to Which Assigned
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1611](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2939](https://www.govinfo.gov/link/statute/108/2939); amended [Pub. L. 107–107, div. A, title V, § 505(c)(2)(B)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1088](https://www.govinfo.gov/link/statute/115/1088); [Pub. L. 109–364, div. A, title V, § 511(b)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2182](https://www.govinfo.gov/link/statute/120/2182); [Pub. L. 111–383, div. A, title X, § 1075(g)(4)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4377](https://www.govinfo.gov/link/statute/124/4377); [Pub. L. 115–232, div. A, title VIII, § 809(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1840](https://www.govinfo.gov/link/statute/132/1840); [Pub. L. 116–283, div. A, title V, § 505(b)(3)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3572](https://www.govinfo.gov/link/statute/134/3572).)*

@@ -3,9 +3,10 @@ title: "Section 12 - Seventh capital increase"
 usc_title: 22
 usc_section: "12"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 12"
-generated_at: "2026-03-30T02:55:05.325Z"
+generated_at: "2026-11-23T21:25:58.376Z"
+status: "active"
 ---
 
 # § 290i–12. Seventh capital increase
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.325Z"
   - **(2)** Of the amount authorized to be appropriated under paragraph (1)—
     - **(A)** $437,190,016 shall be for paid in shares of the Bank; and
     - **(B)** $6,849,396,992 shall be for callable shares of the Bank.
+
+## Source Credit
+
+*([Pub. L. 97–35, title XIII, § 1345](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 116–136, div. B, title XI, § 21012(b)(3)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 594](https://www.govinfo.gov/link/statute/134/594).)*

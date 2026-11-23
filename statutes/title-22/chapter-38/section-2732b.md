@@ -3,9 +3,10 @@ title: "Section 2732b - Improving research and evaluation of public diplomacy"
 usc_title: 22
 usc_section: "2732b"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2732b"
-generated_at: "2026-03-30T02:55:05.381Z"
+generated_at: "2026-11-23T21:25:58.539Z"
+status: "active"
 ---
 
 # § 2732b. Improving research and evaluation of public diplomacy
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:55:05.381Z"
 - **(f)**
   - **(1)** The United States Advisory Commission on Public Diplomacy shall establish a Subcommittee on Research and Evaluation to monitor and advise regarding audience research, digital analytics, and impact evaluations carried out by the Department and the United States Agency for Global Media.
   - **(2)** The Subcommittee on Research and Evaluation established pursuant to paragraph (1) shall submit to the appropriate congressional committees an annual report, in conjunction with the United States Advisory Commission on Public Diplomacy’s Comprehensive Annual Report on the performance of the Department and the United States Agency for Global Media, describing all actions taken by the Subcommittee pursuant to paragraph (1) and any findings made as a result of such actions.
+
+## Source Credit
+
+*([Pub. L. 117–81, div. E, title LVI, § 5603](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2377](https://www.govinfo.gov/link/statute/135/2377).)*

@@ -3,9 +3,10 @@ title: "Section 321 - The National Infrastructure Simulation and Analysis Center
 usc_title: 6
 usc_section: "321"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 321"
-generated_at: "2026-03-30T02:53:09.458Z"
+generated_at: "2026-11-23T21:25:25.779Z"
+status: "active"
 ---
 
 # § 321. The National Infrastructure Simulation and Analysis Center
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:09.458Z"
     - **(C)**
       - **(i)** The purpose of the relationship under subparagraph (B) shall be to permit each Federal agency and department described in subparagraph (B) to take full advantage of the capabilities of the National Infrastructure Simulation and Analysis Center (particularly vulnerability and consequence analysis), consistent with its work load capacity and priorities, for real-time response to reported and projected natural disasters, acts of terrorism, and other man-made disasters.
       - **(ii)** Modeling, simulation, and analysis provided under this subsection shall be provided to relevant Federal agencies and departments, including Federal agencies and departments with critical infrastructure responsibilities under Homeland Security Presidential Directive 7, or any successor to such directive.
+
+## Source Credit
+
+*([Pub. L. 107–296, title V, § 511](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 109–295, title VI, § 611(13)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1406](https://www.govinfo.gov/link/statute/120/1406).)*

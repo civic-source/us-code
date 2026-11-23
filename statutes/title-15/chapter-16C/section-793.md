@@ -3,9 +3,10 @@ title: "Section 793 - Protection of public health and environment"
 usc_title: 15
 usc_section: "793"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 793"
-generated_at: "2026-03-30T02:54:08.123Z"
+generated_at: "2026-11-23T21:25:39.767Z"
+status: "active"
 ---
 
 # § 793. Protection of public health and environment
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.123Z"
   - **(1)** No action taken under the Clean Air Act [ 42 U.S.C. 7401 et seq.] shall be deemed a major Federal action significantly affecting the quality of the human environment within the meaning of the National Environmental Policy Act of 1969 [ 42 U.S.C. 4321 et seq.].
   - **(2)** No action under section 792 of this title for a period of one year after initiation of such action shall be deemed a major Federal action significantly affecting the quality of the human environment within the meaning of the National Environmental Policy Act of 1969 [ 42 U.S.C. 4321 et seq.]. However, before any action under section 792 of this title that has a significant impact on the environment is taken, if practicable, or in any event within sixty days after such action is taken, an environmental evaluation with analysis equivalent to that required under section 102(2)(C) of the National Environmental Policy Act [ 42 U.S.C. 4332(2)(C) ], to the greatest extent practicable within this time constraint, shall be prepared and circulated to appropriate Federal, State, and local government agencies and to the public for a thirty-day comment period after which a public hearing shall be held upon request to review outstanding environmental issues. Such an evaluation shall not be required where the action in question has been preceded by compliance with the National Environmental Policy Act by the appropriate Federal agency. Any action taken under section 792 of this title which will be in effect for more than a one-year period or any action to extend an action taken under section 792 of this title to a total period of more than one year shall be subject to the full provisions of the National Environmental Policy Act, notwithstanding any other provision of this chapter.
 - **(d)** In order to expedite the prompt construction of facilities for the importation of hydroelectric energy thereby helping to reduce the shortage of petroleum products in the United States, the Federal Power Commission is hereby authorized and directed to issue a Presidential permit pursuant to Executive Order 10485 of September 3, 1953 , for the construction, operation, maintenance, and connection of facilities for the transmission of electric energy at the borders of the United States without preparing an environmental impact statement pursuant to section 102 of the National Environmental Policy Act of 1969 [ 42 U.S.C. 4332 ] for facilities for the transmission of electric energy between Canada and the United States in the vicinity of Fort Covington, New York.
+
+## Source Credit
+
+*([Pub. L. 93–319, § 7](https://www.govinfo.gov/link/plaw/93/public/319), June 22, 1974, [88 Stat. 259](https://www.govinfo.gov/link/statute/88/259); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695).)*

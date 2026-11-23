@@ -3,9 +3,10 @@ title: "Section 3613 - Blue Economy valuation"
 usc_title: 33
 usc_section: "3613"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3613"
-generated_at: "2026-03-30T02:55:41.143Z"
+generated_at: "2026-11-23T21:26:11.488Z"
+status: "active"
 ---
 
 # § 3613. Blue Economy valuation
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:55:41.143Z"
   - **(4)** In this section:
     - **(A)** The term “Historically Black Colleges and Universities” has the meaning given the term “part B institution” in section 1061 of title 20 .
     - **(B)** The term “Tribal College or University” has the meaning given the term in section 1059c of title 20 .
+
+## Source Credit
+
+*([Pub. L. 117–263, div. J, title CI, § 10105](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3959](https://www.govinfo.gov/link/statute/136/3959).)*

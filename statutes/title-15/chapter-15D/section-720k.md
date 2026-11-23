@@ -3,9 +3,10 @@ title: "Section 720k - Alaska pipeline construction training program"
 usc_title: 15
 usc_section: "720k"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 720k"
-generated_at: "2026-03-30T02:54:08.121Z"
+generated_at: "2026-11-23T21:25:39.758Z"
+status: "active"
 ---
 
 # § 720k. Alaska pipeline construction training program
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:08.121Z"
     - **(B)** the availability of financing for the Alaska natural gas pipeline project; and
     - **(C)** other relevant factors.
 - **(c)** There are authorized to be appropriated to the Secretary to carry out this section $20,000,000. Not more than 15 percent of the funds may be used for the facility described in subsection (a)(1)(B).
+
+## Source Credit
+
+*([Pub. L. 108–324, div. C, § 113](https://www.govinfo.gov/link/plaw/108/public/324), Oct. 13, 2004, [118 Stat. 1264](https://www.govinfo.gov/link/statute/118/1264); [Pub. L. 113–128, title V, § 512(c)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1706](https://www.govinfo.gov/link/statute/128/1706).)*

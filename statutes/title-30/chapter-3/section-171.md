@@ -3,12 +3,17 @@ title: "Section 171 - Disposal as agricultural lands"
 usc_title: 30
 usc_section: "171"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 171"
-generated_at: "2026-03-30T02:55:29.377Z"
+generated_at: "2026-11-23T21:26:00.366Z"
+status: "active"
 ---
 
 # § 171. Disposal as agricultural lands
 
 Except as otherwise provided in chapter 3A of this title, all public lands within the State of Alabama, whether mineral or otherwise, shall be subject to disposal only as agricultural lands. All lands which had been reported to the General Land Office prior to March 3, 1883 , as containing coal and iron shall first be offered at public sale.
 
+
+## Source Credit
+
+*(Mar. 3, 1883, ch. 118, [22 Stat. 487](https://www.govinfo.gov/link/statute/22/487); Feb. 25, 1920, ch. 85, § 1, [41 Stat. 437](https://www.govinfo.gov/link/statute/41/437).)*

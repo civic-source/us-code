@@ -3,9 +3,10 @@ title: "Section 5905 - Supervision and enforcement with respect to Federal quali
 usc_title: 12
 usc_section: "5905"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5905"
-generated_at: "2026-03-30T02:53:53.552Z"
+generated_at: "2026-11-23T21:25:37.308Z"
+status: "active"
 ---
 
 # § 5905. Supervision and enforcement with respect to Federal qualified payment stablecoin issuers and subsidiaries of insured depository institutions
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:53:53.552Z"
     - **(E)** The resignation, termination of employment or participation, or separation of an institution-affiliated party (including a separation caused by the closing of a permitted payment stablecoin issuer) shall not affect the jurisdiction and authority of a primary Federal payment stablecoin regulator to issue any notice or order and proceed under this subsection against any such party, if such notice or order is served before the end of the 6-year period beginning on the date on which such party ceased to be an institution-affiliated party with respect to such permitted payment stablecoin issuer.
   - **(6)** Notwithstanding anything in this subsection to the contrary, this subsection shall not apply to a State qualified payment stablecoin issuer.
 - **(c)** Nothing in this chapter may be construed to modify or otherwise affect any right or remedy under any Federal consumer financial law, including 12 U.S.C. 5515 and 15 U.S.C. 41 et seq.
+
+## Source Credit
+
+*([Pub. L. 119–27, § 6](https://www.govinfo.gov/link/plaw/119/public/27), July 18, 2025, [139 Stat. 443](https://www.govinfo.gov/link/statute/139/443).)*

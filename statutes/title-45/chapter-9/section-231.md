@@ -3,9 +3,10 @@ title: "Section 231 - Definitions"
 usc_title: 45
 usc_section: "231"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 231"
-generated_at: "2026-03-30T02:55:56.544Z"
+generated_at: "2026-11-23T21:26:19.189Z"
+status: "active"
 ---
 
 # § 231. Definitions
@@ -81,3 +82,13 @@ For the purposes of this subchapter—
 - **(p)** The term “annuity” means a monthly sum which is payable on the first day of each calendar month for the accrual during the preceding calendar month.
 - **(q)** The terms “quarter” and “calendar quarter” shall mean a period of three calendar months ending on March 31, June 30, September 30, or December 31.
 - **(r)** For purposes of this subchapter, a person shall be considered to be permanently insured under the Social Security Act [ 42 U.S.C. 301 et seq.] on December 31, 1974 , if he or she would be fully insured within the meaning of section 214(a) of that Act [ 42 U.S.C. 414(a) ] when he or she attains age 62 solely on the basis of his or her quarters of coverage under that Act acquired prior to January 1, 1975 .
+
+(A) he is subject to the continuing authority of the employer to supervise and direct the manner of rendition of his service, or (B) he is rendering professional or technical services and is integrated into the staff of the employer, or (C) he is rendering, on the property used in the employer’s operations, personal services the rendition of which is integrated into the employer’s operations; and
+
+Sec
+
+Sec
+
+## Source Credit
+
+*(Aug. 29, 1935, ch. 812, § 1, as restated June 24, 1937, ch. 382, pt. I, [50 Stat. 307](https://www.govinfo.gov/link/statute/50/307), as restated [Pub. L. 93–445, title I, § 101](https://www.govinfo.gov/link/plaw/93/public/445), Oct. 16, 1974, [88 Stat. 1305](https://www.govinfo.gov/link/statute/88/1305); amended [Pub. L. 94–547, § 4(a)](https://www.govinfo.gov/link/plaw/94/public/547), Oct. 18, 1976, [90 Stat. 2526](https://www.govinfo.gov/link/statute/90/2526); [Pub. L. 97–35, title XI, § 1116](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 628](https://www.govinfo.gov/link/statute/95/628); [Pub. L. 97–468, title VI, § 615(b)(6)](https://www.govinfo.gov/link/plaw/97/public/468), Jan. 14, 1983, [96 Stat. 2578](https://www.govinfo.gov/link/statute/96/2578); [Pub. L. 98–76, title IV](https://www.govinfo.gov/link/plaw/98/public/76), §§ 402(a), 403(a), 410(a), Aug. 12, 1983, [97 Stat. 434](https://www.govinfo.gov/link/statute/97/434), 435; [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 100–647, title VII, § 7304(a)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3778](https://www.govinfo.gov/link/statute/102/3778); [Pub. L. 101–239, title X, § 10208(d)(2)(B)(ii)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2481](https://www.govinfo.gov/link/statute/103/2481); [Pub. L. 104–88, title III, § 323](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 950](https://www.govinfo.gov/link/statute/109/950).)*

@@ -3,9 +3,10 @@ title: "Section 14501 - Appalachian development highway system"
 usc_title: 40
 usc_section: "14501"
 chapter: 145
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 14501"
-generated_at: "2026-03-30T02:55:43.386Z"
+generated_at: "2026-11-23T21:26:14.959Z"
+status: "active"
 ---
 
 # § 14501. Appalachian development highway system
@@ -29,3 +30,144 @@ generated_at: "2026-03-30T02:55:43.386Z"
 - **(g)**
   - **(1)** Sections 106(a) and 118 of title 23 apply to the development highway system and the local access roads.
   - **(2)** States are required to maintain each development highway and local access road as provided for Federal-aid highways in title 23. All other provisions of title 23 that are applicable to the construction and maintenance of Federal-aid primary and secondary highways and which the Secretary decides are not inconsistent with this subtitle shall apply to the system and roads, respectively.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 14501(a) | 40 App.:201(a) (1st, 3d, last sentences). | Pub. L. 89–4, title II, § 201 , Mar. 9, 1965 , 79 Stat. 10 ; Pub. L. 89–670, § 8(b) , Oct. 15, 1966 , 80 Stat. 942 ; Pub. L. 90–103, title I, § 106 , Oct. 11, 1967 , 81 Stat. 258 ; Pub. L. 91–123, title I, § 103 , Nov. 25, 1969 , 83 Stat. 214 ; Pub. L. 92–65, title II, § 204 , Aug. 5, 1971 , 85 Stat. 168 ; Pub. L. 94–188, title I, § 110 , Dec. 31, 1975 , 89 Stat. 1081 ; Pub. L. 95–599, title I, § 138(a) , (b), Nov. 6, 1978 , 92 Stat. 2710 ; Pub. L. 96–506, § 3(3) , Dec. 8, 1980 , 94 Stat. 2746 ; Pub. L. 97–35, title XVIII, § 1822(a)(2) , Aug. 13, 1981 , 95 Stat. 767 ; Pub. L. 105–178, title I, § 1117(c) , title II, § 1212(a)(2)(B)(iii), June 9, 1998 , 112 Stat. 160 , 193. |
+| 14501(b) | 40 App.:201(b). |  |
+| 14501(c) | 40 App.:201(c) (1st sentence, last sentence words before “and each”). |  |
+| 14501(d)(1) | 40 App.:201(d). |  |
+| 14501(d)(2) | 40 App.:201(e). |  |
+| 14501(e) | 40 App.:201(f), (g). |  |
+| 14501(f) | 40 App.:201(h). |  |
+| 14501(g)(1) | 40 App.:201(a) (2d sentence words before 6th comma). |  |
+| 14501(g)(2) | 40 App.:201(a) (2d sentence words after 6th comma), (c) (last sentence words after “to such system”). |  |
+
+
+Purpose
+
+Commission Designations.—
+
+What is to be designated
+
+State transportation department recommendation required
+
+Addition to Federal-aid Primary System
+
+Use of Specific Materials and Products.—
+
+Indigenous materials and products
+
+Coal derivatives
+
+Federal Share
+
+Construction Without Federal Amounts.—
+
+Payment of federal share
+
+No commitment or obligation
+
+Application of Title
+
+Sections 106
+
+and 118
+
+Construction and maintenance
+
+Historical and Revision Notes
+
+14501(a)
+
+Pub. L. 89–4, title II, § 201
+
+Mar. 9, 1965
+
+79 Stat. 10
+
+Pub. L. 89–670, § 8(b)
+
+Oct. 15, 1966
+
+80 Stat. 942
+
+Pub. L. 90–103, title I, § 106
+
+Oct. 11, 1967
+
+81 Stat. 258
+
+Pub. L. 91–123, title I, § 103
+
+Nov. 25, 1969
+
+83 Stat. 214
+
+Pub. L. 92–65, title II, § 204
+
+Aug. 5, 1971
+
+85 Stat. 168
+
+Pub. L. 94–188, title I, § 110
+
+Dec. 31, 1975
+
+89 Stat. 1081
+
+Pub. L. 95–599, title I, § 138(a)
+
+Nov. 6, 1978
+
+92 Stat. 2710
+
+Pub. L. 96–506, § 3(3)
+
+Dec. 8, 1980
+
+94 Stat. 2746
+
+Pub. L. 97–35, title XVIII, § 1822(a)(2)
+
+Aug. 13, 1981
+
+95 Stat. 767
+
+Pub. L. 105–178, title I, § 1117(c)
+
+June 9, 1998
+
+112 Stat. 160
+
+14501(b)
+
+14501(c)
+
+14501(d)(1)
+
+14501(d)(2)
+
+14501(e)
+
+14501(f)
+
+14501(g)(1)
+
+14501(g)(2)
+
+Sense of the Senate
+
+Modified Federal Share for Projects on ADHS
+
+Federal Share for Other Funds Used on ADHS
+
+Completion Plan
+
+In general
+
+Significant uncompleted miles
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1265](https://www.govinfo.gov/link/statute/116/1265); [Pub. L. 108–199, div. F, title I, § 123(a)](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 296](https://www.govinfo.gov/link/statute/118/296).)*

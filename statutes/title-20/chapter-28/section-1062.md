@@ -3,9 +3,10 @@ title: "Section 1062 - Grants to institutions"
 usc_title: 20
 usc_section: "1062"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1062"
-generated_at: "2026-03-30T02:54:48.101Z"
+generated_at: "2026-11-23T21:25:47.037Z"
+status: "active"
 ---
 
 # § 1062. Grants to institutions
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:48.101Z"
 - **(c)**
   - **(1)** No grant may be made under this chapter for any educational program, activity, or service related to sectarian instruction or religious worship, or provided by a school or department of divinity. For the purpose of this subsection, the term “school or department of divinity” means an institution whose program is specifically for the education of students to prepare them to become ministers of religion or to enter upon some other religious vocation, or to prepare them to teach theological subjects.
   - **(2)** Not more than 50 percent of the allotment of any institution may be available for the purpose of constructing or maintaining a classroom, library, laboratory, or other instructional facility.
+
+## Source Credit
+
+*([Pub. L. 89–329, title III, § 323](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title III, § 301(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1295](https://www.govinfo.gov/link/statute/100/1295); amended [Pub. L. 100–50, § 2(a)(7)](https://www.govinfo.gov/link/plaw/100/public/50), June 3, 1987, [101 Stat. 335](https://www.govinfo.gov/link/statute/101/335); [Pub. L. 100–369, § 10(b)](https://www.govinfo.gov/link/plaw/100/public/369), July 18, 1988, [102 Stat. 838](https://www.govinfo.gov/link/statute/102/838); [Pub. L. 102–325, title III, § 303(a)](https://www.govinfo.gov/link/plaw/102/public/325), (b), July 23, 1992, [106 Stat. 474](https://www.govinfo.gov/link/statute/106/474), 475; [Pub. L. 103–208, § 2(a)(8)](https://www.govinfo.gov/link/plaw/103/public/208), Dec. 20, 1993, [107 Stat. 2457](https://www.govinfo.gov/link/statute/107/2457); [Pub. L. 105–244, title III, § 304(a)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1642](https://www.govinfo.gov/link/statute/112/1642); [Pub. L. 110–315, title III, § 309](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3177](https://www.govinfo.gov/link/statute/122/3177); [Pub. L. 111–39, title III, § 301(3)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1937](https://www.govinfo.gov/link/statute/123/1937).)*

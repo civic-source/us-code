@@ -3,12 +3,17 @@ title: "Section 283s - Illegal drug traffic; loan restrictions"
 usc_title: 22
 usc_section: "283s"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 283s"
-generated_at: "2026-03-30T02:55:05.315Z"
+generated_at: "2026-11-23T21:25:58.354Z"
+status: "active"
 ---
 
 # § 283s. Illegal drug traffic; loan restrictions
 
 The Secretary of the Treasury shall instruct the United States Executive Director of the Bank to vote against any loan or other utilization of the funds of the Bank for the benefit of any country with respect to which the President has made a determination, and so notified the Secretary of the Treasury, that the government of such country has failed to take adequate steps to prevent narcotic drugs and other controlled substances (as defined by the Comprehensive Drug Abuse Prevention and Control Act of 1970 [ 21 U.S.C. 801 et seq.]) produced or processed, in whole or in part, in such country, or transported through such country, from being sold illegally within the jurisdiction of such country to United States Government personnel or their dependents, or from entering the United States unlawfully. Such instruction shall continue in effect until the President determines, and so notifies the Secretary of the Treasury, that the government of such country has taken adequate steps to prevent such sale or entry of narcotic drugs and other controlled substances.
 
+
+## Source Credit
+
+*([Pub. L. 86–147, § 22](https://www.govinfo.gov/link/plaw/86/public/147), as added [Pub. L. 92–246, § 2](https://www.govinfo.gov/link/plaw/92/public/246), Mar. 10, 1972, [86 Stat. 60](https://www.govinfo.gov/link/statute/86/60).)*

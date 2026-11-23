@@ -3,9 +3,10 @@ title: "Section 3607 - Support for activities and personnel outside the United S
 usc_title: 50
 usc_section: "3607"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3607"
-generated_at: "2026-03-30T02:56:26.257Z"
+generated_at: "2026-11-23T21:26:39.063Z"
+status: "active"
 ---
 
 # § 3607. Support for activities and personnel outside the United States
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:26.257Z"
 - **(c)** The authority of the Director of the National Security Agency, on behalf of the Secretary of Defense, to make payments under subsections (a) and (b), and under contracts for leases entered into under subsection (a), is effective for any fiscal year only to the extent that appropriated funds are available for such purpose.
 - **(d)** Members of the Armed Forces may not receive benefits under both subsection (b)(1) and title 37 for the same purpose. The Secretary of Defense shall prescribe such regulations as may be necessary to carry out this subsection.
 - **(e)** Regulations issued pursuant to subsection (b)(1) shall be submitted to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate before such regulations take effect.
+
+## Source Credit
+
+*([Pub. L. 86–36, § 9](https://www.govinfo.gov/link/plaw/86/public/36), as added [Pub. L. 96–450, title IV, § 402(a)(1)](https://www.govinfo.gov/link/plaw/96/public/450), Oct. 14, 1980, [94 Stat. 1977](https://www.govinfo.gov/link/statute/94/1977); amended [Pub. L. 97–89, title VI, § 601](https://www.govinfo.gov/link/plaw/97/public/89), Dec. 4, 1981, [95 Stat. 1154](https://www.govinfo.gov/link/statute/95/1154); [Pub. L. 99–335, title V, § 507(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 628](https://www.govinfo.gov/link/statute/100/628); [Pub. L. 101–193, title V, § 505(b)](https://www.govinfo.gov/link/plaw/101/public/193), Nov. 30, 1989, [103 Stat. 1709](https://www.govinfo.gov/link/statute/103/1709); [Pub. L. 102–496, title VIII, § 803(b)](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3253](https://www.govinfo.gov/link/statute/106/3253).)*

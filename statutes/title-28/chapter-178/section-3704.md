@@ -3,9 +3,10 @@ title: "Section 3704 - Applicability"
 usc_title: 28
 usc_section: "3704"
 chapter: 178
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 3704"
-generated_at: "2026-03-30T02:55:30.154Z"
+generated_at: "2026-11-23T21:26:01.146Z"
+status: "active"
 ---
 
 # § 3704. Applicability
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:30.154Z"
     - **(B)** any commercial casino gaming scheme was in operation in such municipality throughout the 10-year period ending on such effective date pursuant to a comprehensive system of State regulation authorized by that State’s constitution and applicable solely to such municipality; or
   - **(4)** parimutuel animal racing or jai-alai games.
 - **(b)** Except as provided in subsection (a), section 3702 shall apply on lands described in section 4(4) of the Indian Gaming Regulatory Act ( 25 U.S.C. 2703(4) ).
+
+## Source Credit
+
+*(Added [Pub. L. 102–559, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/559), Oct. 28, 1992, [106 Stat. 4228](https://www.govinfo.gov/link/statute/106/4228).)*

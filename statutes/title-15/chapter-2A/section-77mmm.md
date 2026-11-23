@@ -3,9 +3,10 @@ title: "Section 77mmm - Reports by indenture trustee"
 usc_title: 15
 usc_section: "77mmm"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 77mmm"
-generated_at: "2026-03-30T02:54:08.037Z"
+generated_at: "2026-11-23T21:25:39.515Z"
+status: "active"
 ---
 
 # § 77mmm. Reports by indenture trustee
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:08.037Z"
   - **(2)** to such holders of indenture securities as have, within the two years preceding such transmission, filed their names and addresses with the indenture trustee for that purpose; and
   - **(3)** except in the case of reports pursuant to subsection (b) of this section, to all holders of indenture securities whose names and addresses have been furnished to or received by the indenture trustee pursuant to section 77 lll of this title.
 - **(d)** A copy of each such report shall, at the time of such transmission to indenture security holders, be filed with each stock exchange upon which the indenture securities are listed, and also with the Commission.
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title III, § 313, as added Aug. 3, 1939, ch. 411, [53 Stat. 1165](https://www.govinfo.gov/link/statute/53/1165); amended [Pub. L. 101–550, title IV](https://www.govinfo.gov/link/plaw/101/public/550), §§ 411, 412, Nov. 15, 1990, [104 Stat. 2729](https://www.govinfo.gov/link/statute/104/2729); [Pub. L. 105–353, title III, § 301(e)(3)](https://www.govinfo.gov/link/plaw/105/public/353), Nov. 3, 1998, [112 Stat. 3237](https://www.govinfo.gov/link/statute/112/3237).)*

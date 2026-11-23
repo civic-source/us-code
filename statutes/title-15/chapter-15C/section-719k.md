@@ -3,12 +3,17 @@ title: "Section 719k - Equal access to facilities"
 usc_title: 15
 usc_section: "719k"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 719k"
-generated_at: "2026-03-30T02:54:08.120Z"
+generated_at: "2026-11-23T21:25:39.755Z"
+status: "active"
 ---
 
 # § 719k. Equal access to facilities
 
 - **(a)** There shall be included in the terms of any certificate, permit, right-of-way, lease, or other authorization issued or granted pursuant to the directions contained in section 719g of this title , a provision that no person seeking to transport natural gas in the Alaska natural gas transportation system shall be prevented from doing so or be discriminated against in the terms and conditions of service on the basis of degree of ownership, or lack thereof, of the Alaska natural gas transportation system.
 - **(b)** The State of Alaska is authorized to ship its royalty gas on the approved transportation system for use within Alaska and, to the extent its contracts for the sale of royalty gas so provide, to withdraw such gas from the interstate market for use within Alaska; the Federal Power Commission shall issue all authorizations necessary to effectuate such shipment and withdrawal subject to review by the Commission only of the justness and reasonableness of the rate charged for such transportation.
+
+## Source Credit
+
+*([Pub. L. 94–586, § 13](https://www.govinfo.gov/link/plaw/94/public/586), Oct. 22, 1976, [90 Stat. 2915](https://www.govinfo.gov/link/statute/90/2915).)*

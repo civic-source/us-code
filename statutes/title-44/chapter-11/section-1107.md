@@ -3,9 +3,10 @@ title: "Section 1107 - Appropriations chargeable for printing and binding of doc
 usc_title: 44
 usc_section: "1107"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 1107"
-generated_at: "2026-03-30T02:55:56.290Z"
+generated_at: "2026-11-23T21:26:18.385Z"
+status: "active"
 ---
 
 # § 1107. Appropriations chargeable for printing and binding of documents or reports
@@ -15,3 +16,7 @@ The cost of printing and binding of documents or reports emanating from executiv
   - **(1)** the cost of illustrations, composition, stereotyping, and other work involved in the actual preparation for printing, apart from the creation of the manuscript, to the appropriation for printing and binding of the agency in which the document or report originates.
   - **(2)** the balance of cost, to congressional printing and binding appropriations or to appropriations for printing and binding of the executive departments, independent agencies or establishments in proportion to the number of copies delivered to each.
   - **(3)** the cost of copies distributed other than through Congress or executive agencies or independent offices, as otherwise provided.
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1261](https://www.govinfo.gov/link/statute/82/1261).)*

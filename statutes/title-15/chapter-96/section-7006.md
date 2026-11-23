@@ -3,9 +3,10 @@ title: "Section 7006 - Definitions"
 usc_title: 15
 usc_section: "7006"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7006"
-generated_at: "2026-03-30T02:54:08.218Z"
+generated_at: "2026-11-23T21:25:40.038Z"
+status: "active"
 ---
 
 # § 7006. Definitions
@@ -27,3 +28,7 @@ For purposes of this subchapter:
   - **(13)** The term “transaction” means an action or set of actions relating to the conduct of business, consumer, or commercial affairs between two or more persons, including any of the following types of conduct—
     - **(A)** the sale, lease, exchange, licensing, or other disposition of (i) personal property, including goods and intangibles, (ii) services, and (iii) any combination thereof; and
     - **(B)** the sale, lease, exchange, or other disposition of any interest in real property, or any combination thereof.
+
+## Source Credit
+
+*([Pub. L. 106–229, title I, § 106](https://www.govinfo.gov/link/plaw/106/public/229), June 30, 2000, [114 Stat. 472](https://www.govinfo.gov/link/statute/114/472).)*

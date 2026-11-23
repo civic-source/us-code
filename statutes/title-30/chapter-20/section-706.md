@@ -3,12 +3,17 @@ title: "Section 706 - Liabilities of occupants; trespass; limitations"
 usc_title: 30
 usc_section: "706"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 706"
-generated_at: "2026-03-30T02:55:29.387Z"
+generated_at: "2026-11-23T21:26:00.388Z"
+status: "active"
 ---
 
 # § 706. Liabilities of occupants; trespass; limitations
 
 - **(a)** The execution of a conveyance as authorized by section 701 of this title shall not relieve any occupant of the land conveyed of any liability, existing on the date of said conveyance, to the United States for unauthorized use of the land in and to which an interest is conveyed.
 - **(b)** Except where a mining claim embracing land applied for under this chapter by a qualified applicant was located at a time when the land included therein was withdrawn or otherwise not subject to such location, no trespass charges shall be sought or collected by the United States from any qualified applicant who has filed an application for land in the mining claim pursuant to this chapter, based upon occupancy of such claim, whether residential or otherwise, for any period preceding the final administrative determination of the invalidity of the mining claim by the Secretary of the Interior or the voluntary relinquishment of the mining claim, whichever occurs earlier. Nothing contained in this chapter shall be construed as creating any liability for trespass to the United States which would not exist in the absence of this chapter. Relief under this section shall be limited to persons who file applications for conveyances pursuant to section 701 of this title within the period ending June 30, 1971 .
+
+## Source Credit
+
+*([Pub. L. 87–851, § 6](https://www.govinfo.gov/link/plaw/87/public/851), Oct. 23, 1962, [76 Stat. 1128](https://www.govinfo.gov/link/statute/76/1128); [Pub. L. 90–111, § 2](https://www.govinfo.gov/link/plaw/90/public/111), Oct. 23, 1967, [81 Stat. 311](https://www.govinfo.gov/link/statute/81/311).)*

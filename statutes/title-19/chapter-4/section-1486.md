@@ -3,9 +3,10 @@ title: "Section 1486 - Administration of oaths; verification of documents"
 usc_title: 19
 usc_section: "1486"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1486"
-generated_at: "2026-03-30T02:54:24.637Z"
+generated_at: "2026-11-23T21:25:42.713Z"
+status: "active"
 ---
 
 # § 1486. Administration of oaths; verification of documents
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:24.637Z"
 - **(b)** The postmaster or assistant postmaster of the United States at any post office where customs officers are not stationed, is authorized to administer any oaths required to be made to statements in customs documents by importers of merchandise, not exceeding $100 in value, through the mails.
 - **(c)** No compensation or fee shall be demanded or accepted for administering any oath under the provisions of this section.
 - **(d)** The Secretary of the Treasury may by regulation prescribe that any document required by any law administered by the Customs Service to be under oath may be verified by a written declaration in such form as he shall prescribe, such declaration to be in lieu of the oath otherwise required.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 486, [46 Stat. 725](https://www.govinfo.gov/link/statute/46/725); Aug. 8, 1953, ch. 397, § 17, [67 Stat. 517](https://www.govinfo.gov/link/statute/67/517).)*

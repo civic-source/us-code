@@ -3,9 +3,10 @@ title: "Section 293k - Primary care training and enhancement"
 usc_title: 42
 usc_section: "293k"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 293k"
-generated_at: "2026-03-30T02:56:10.775Z"
+generated_at: "2026-11-23T21:26:30.632Z"
+status: "active"
 ---
 
 # § 293k. Primary care training and enhancement
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:56:10.775Z"
   - **(1)** For purposes of carrying out this section (other than subsection (b)(1)(B)), there are authorized to be appropriated $48,924,000 for each of fiscal years 2021 through 2025.
   - **(2)** Fifteen percent of the amount appropriated pursuant to paragraph (1) in each such fiscal year shall be allocated to the physician assistant training programs described in subsection (a)(1)(F), which prepare students for practice in primary care.
   - **(3)** For purposes of carrying out subsection (b)(1)(B), there are authorized to be appropriated $750,000 for each of fiscal years 2010 through 2014.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 747, as added [Pub. L. 111–148, title V, § 5301](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 615](https://www.govinfo.gov/link/statute/124/615); amended [Pub. L. 116–136, div. A, title III, § 3401(3)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 386](https://www.govinfo.gov/link/statute/134/386).)*

@@ -3,9 +3,10 @@ title: "Section 7713 - Definitions"
 usc_title: 20
 usc_section: "7713"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7713"
-generated_at: "2026-03-30T02:54:48.217Z"
+generated_at: "2026-11-23T21:25:47.608Z"
+status: "active"
 ---
 
 # § 7713. Definitions
@@ -78,3 +79,11 @@ For purposes of this subchapter:
   - **(13)** The term “school facilities” includes—
     - **(A)** classrooms and related facilities; and
     - **(B)** equipment, machinery, and utilities necessary or appropriate for school purposes.
+
+(aa) that is not taxed is, for the purposes of this paragraph, considered tax-exempt due to Federal law; and
+
+(bb) is considered Federal property for the purpose of this paragraph if the property is located within a Regional Educational Attendance Area that has no taxing power;
+
+## Source Credit
+
+*([Pub. L. 89–10, title VII, § 7013](https://www.govinfo.gov/link/plaw/89/public/10), formerly title VIII, § 8013, as added [Pub. L. 103–382, title I, § 101](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 3769](https://www.govinfo.gov/link/statute/108/3769); amended [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title XVIII, § 1816], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–387; renumbered title VII, § 7013, and amended [Pub. L. 114–95, title VII](https://www.govinfo.gov/link/plaw/114/public/95), §§ 7001(c)(2), 7012, Dec. 10, 2015, [129 Stat. 2074](https://www.govinfo.gov/link/statute/129/2074), 2087.)*

@@ -3,9 +3,10 @@ title: "Section 7545 - Regulation of fuels"
 usc_title: 42
 usc_section: "7545"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7545"
-generated_at: "2026-03-30T02:56:11.312Z"
+generated_at: "2026-11-23T21:26:33.118Z"
+status: "active"
 ---
 
 # § 7545. Regulation of fuels
@@ -421,3 +422,268 @@ generated_at: "2026-03-30T02:56:11.312Z"
   - **(2)** Not later than 3 years after December 19, 2007 , the Administrator shall—
     - **(A)** promulgate fuel regulations to implement appropriate measures to mitigate, to the greatest extent achievable, considering the results of the study under paragraph (1), any adverse impacts on air quality, as the result of the renewable volumes required by this section; or
     - **(B)** make a determination that no such measures are necessary.
+
+| BASELINE GASOLINE FUEL PROPERTIES |  |
+| --- | --- |
+| API Gravity | 57.4 |
+| Sulfur, ppm | 339 |
+| Benzene, % | 1.53 |
+| RVP, psi | 8.7 |
+| Octane, R+M/2 | 87.3 |
+| IBP, F | 91 |
+| 10%, F | 128 |
+| 50%, F | 218 |
+| 90%, F | 330 |
+| End Point, F | 415 |
+| Aromatics, % | 32.0 |
+| Olefins, % | 9.2 |
+| Saturates, % | 58.8 |
+
+| Calendar year: | Applicable volume of renewable fuel (in billions of gallons): |
+| --- | --- |
+| 2006 | 4.0 |
+| 2007 | 4.7 |
+| 2008 | 9.0 |
+| 2009 | 11.1 |
+| 2010 | 12.95 |
+| 2011 | 13.95 |
+| 2012 | 15.2 |
+| 2013 | 16.55 |
+| 2014 | 18.15 |
+| 2015 | 20.5 |
+| 2016 | 22.25 |
+| 2017 | 24.0 |
+| 2018 | 26.0 |
+| 2019 | 28.0 |
+| 2020 | 30.0 |
+| 2021 | 33.0 |
+| 2022 | 36.0 |
+
+| Calendar year: | Applicable volume of advanced biofuel (in billions of gallons): |
+| --- | --- |
+| 2009 | 0.6 |
+| 2010 | 0.95 |
+| 2011 | 1.35 |
+| 2012 | 2.0 |
+| 2013 | 2.75 |
+| 2014 | 3.75 |
+| 2015 | 5.5 |
+| 2016 | 7.25 |
+| 2017 | 9.0 |
+| 2018 | 11.0 |
+| 2019 | 13.0 |
+| 2020 | 15.0 |
+| 2021 | 18.0 |
+| 2022 | 21.0 |
+
+| Calendar year: | Applicable volume of cellulosic biofuel (in billions of gallons): |
+| --- | --- |
+| 2010 | 0.1 |
+| 2011 | 0.25 |
+| 2012 | 0.5 |
+| 2013 | 1.0 |
+| 2014 | 1.75 |
+| 2015 | 3.0 |
+| 2016 | 4.25 |
+| 2017 | 5.5 |
+| 2018 | 7.0 |
+| 2019 | 8.5 |
+| 2020 | 10.5 |
+| 2021 | 13.5 |
+| 2022 | 16.0 |
+
+| Calendar year: | Applicable volume of biomass-based diesel (in billions of gallons): |
+| --- | --- |
+| 2009 | 0.5 |
+| 2010 | 0.65 |
+| 2011 | 0.80 |
+| 2012 | 1.0 |
+
+
+Study on certain fuel additives and blendstocks.—
+
+In general
+
+Contracts for study
+
+(aa) completely replaces a fuel on the list published under subclause (II); or
+
+(bb) does not increase the total number of fuels on the list published under subclause (II) as of September 1, 2004 .
+
+(aa) shall extend the effective date of the regulations under clause (i) with respect to the area for not more than 1 year; and
+
+(bb) may renew the extension under item (aa) for two additional periods, each of which shall not exceed 1 year.
+
+(aa) the quantity of reformulated gasoline produced that is in excess of the average annual quantity of reformulated gasoline produced in 2001 and 2002; and
+
+(bb) the reduction of the average annual aggregate emissions of toxic air pollutants in each PADD, based on retail survey data or data from other appropriate sources.
+
+(aa) identify, to the maximum extent practicable, the reasons for the failure, including the sources, volumes, and characteristics of reformulated gasoline that contributed to the failure; and
+
+(bb) promulgate revisions to the regulations promulgated under clause (ii), to take effect not earlier than 180 days but not later than 270 days after the date of promulgation, to provide that, notwithstanding clause (iii)(II), all reformulated gasoline produced or distributed at each refiner or importer shall meet the standards applicable under clause (iii)(I) beginning not later than April 1 of the calendar year following publication of the report under subclause (I) and in each calendar year thereafter.
+
+(aa) shall extend the commencement date with respect to the State under clause (ii)(I) for not more than 1 year; and
+
+(bb) may renew the extension under item (aa) for 2 additional periods, each of which shall not exceed 1 year.
+
+API Gravity
+
+Sulfur, ppm
+
+Benzene, %
+
+RVP, psi
+
+Octane, R+M/2
+
+IBP, F
+
+10%, F
+
+50%, F
+
+90%, F
+
+End Point, F
+
+Aromatics, %
+
+Olefins, %
+
+Saturates, %
+
+(aa) issue or revise regulations under this paragraph;
+
+(bb) establish applicable percentages under paragraph (3);
+
+(cc) provide for the generation of credits under paragraph (5); and
+
+(dd) take such other actions as are necessary to allow for the application of the renewable fuels program in a noncontiguous State or territory.
+
+(aa) restrict geographic areas in which renewable fuel may be used; or
+
+(bb) impose any per-gallon obligation for the use of renewable fuel.
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2009
+
+2010
+
+2011
+
+2012
+
+“The amendments made by paragraph (1) [amending this section] apply—
+
+In general
+
+Adjustment of standards.—
+
+Applicability
+
+In General
+
+Effect on Air Quality and Other Environmental Requirements
+
+Survey and report
+
+Recordkeeping and reporting requirements
+
+Applicable law
+
+“Congress finds that—
+
+Findings
+
+Sense of Congress
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title II, § 211, formerly § 210, as added [Pub. L. 90–148, § 2](https://www.govinfo.gov/link/plaw/90/public/148), Nov. 21, 1967, [81 Stat. 502](https://www.govinfo.gov/link/statute/81/502); renumbered and amended [Pub. L. 91–604](https://www.govinfo.gov/link/plaw/91/public/604), §§ 8(a), 9(a), Dec. 31, 1970, [84 Stat. 1694](https://www.govinfo.gov/link/statute/84/1694), 1698; [Pub. L. 92–157, title III, § 302(d)](https://www.govinfo.gov/link/plaw/92/public/157), (e), Nov. 18, 1971, [85 Stat. 464](https://www.govinfo.gov/link/statute/85/464); [Pub. L. 95–95, title II](https://www.govinfo.gov/link/plaw/95/public/95), §§ 222, 223, title IV, § 401(e), Aug. 7, 1977, [91 Stat. 762](https://www.govinfo.gov/link/statute/91/762), 764, 791; [Pub. L. 95–190, § 14(a)(73)](https://www.govinfo.gov/link/plaw/95/public/190), (74), Nov. 16, 1977, [91 Stat. 1403](https://www.govinfo.gov/link/statute/91/1403), 1404; [Pub. L. 101–549, title II](https://www.govinfo.gov/link/plaw/101/public/549), §§ 212–221, 228(d), Nov. 15, 1990, [104 Stat. 2488–2500](https://www.govinfo.gov/link/statute/104/2488), 2510; [Pub. L. 109–58, title XV](https://www.govinfo.gov/link/plaw/109/public/58), §§ 1501(a)–(c), 1504(a)(1), (b), 1505–1507, 1512, 1513, 1541(a), (b), Aug. 8, 2005, [119 Stat. 1067–1074](https://www.govinfo.gov/link/statute/119/1067), 1076, 1077, 1080, 1081, 1088, 1089, 1106, 1107; [Pub. L. 110–140, title II](https://www.govinfo.gov/link/plaw/110/public/140), §§ 201, 202, 203(f), 208, 209, 210(b), 247, 251, Dec. 19, 2007, [121 Stat. 1519](https://www.govinfo.gov/link/statute/121/1519), 1521, 1529, 1531, 1532, 1547, 1548.)*

@@ -3,9 +3,10 @@ title: "Section 5581 - Transfer of consumer financial protection functions"
 usc_title: 12
 usc_section: "5581"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5581"
-generated_at: "2026-03-30T02:53:53.547Z"
+generated_at: "2026-11-23T21:25:37.292Z"
+status: "active"
 ---
 
 # § 5581. Transfer of consumer financial protection functions
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:53:53.547Z"
       - **(ii)** section 1818 of this title , by the appropriate Federal banking agency, as defined in section 1813(q) of this title , with respect to a covered person or service provider that is a person described in section 1813(q) of this title and who is subject to the jurisdiction of that agency, as set forth in sections 1813(q) and 1818 of this title; or
       - **(iii)** the Bank Service Company Act ( 12 U.S.C. 1861 et seq.).
 - **(d)** Subsections (b) and (c) shall become effective on the designated transfer date.
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1061](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2035](https://www.govinfo.gov/link/statute/124/2035).)*

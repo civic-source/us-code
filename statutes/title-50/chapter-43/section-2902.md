@@ -3,9 +3,10 @@ title: "Section 2902 - Definitions"
 usc_title: 50
 usc_section: "2902"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2902"
-generated_at: "2026-03-30T02:56:26.226Z"
+generated_at: "2026-11-23T21:26:38.983Z"
+status: "active"
 ---
 
 # § 2902. Definitions
@@ -24,3 +25,7 @@ In this chapter:
       - **(ii)** the Annex of the Guidelines for Transfers of Nuclear-Related Dual-Use Equipment, Materials, Software, and Related Technology of the Nuclear Suppliers Group; or
       - **(iii)** any of the Common Control Lists of the Australia Group; and
     - **(B)** any other sensitive items.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XVIII, § 1802](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 491](https://www.govinfo.gov/link/statute/121/491).)*

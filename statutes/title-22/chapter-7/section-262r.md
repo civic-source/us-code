@@ -3,9 +3,10 @@ title: "Section 262r - Annual report by Chairman of National Advisory Council on
 usc_title: 22
 usc_section: "262r"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 262r"
-generated_at: "2026-03-30T02:55:05.308Z"
+generated_at: "2026-11-23T21:25:58.329Z"
+status: "active"
 ---
 
 # § 262r. Annual report by Chairman of National Advisory Council on International Monetary and Financial Policies
@@ -37,3 +38,45 @@ generated_at: "2026-03-30T02:55:05.308Z"
 - **(e)**
   - **(1)** The Secretary of the Treasury should establish an International Monetary Fund Advisory Committee (in this subsection referred to as the “Advisory Committee”).
   - **(2)** The Advisory Committee should consist of members appointed by the Secretary of the Treasury, after appropriate consultations with the relevant organizations. Such members should include representatives from industry, representatives from agriculture, representatives from organized labor, representatives from banking and financial services, and representatives from nongovernmental environmental and human rights organizations.
+
+“During the 7-year period that begins with the date of enactment of this Act [ Feb. 3, 2026 ], the Chairman of the National Advisory Council on International Monetary and Financial Policies shall include in the annual report required by section 1701 of the International Financial Institutions Act [ 22 U.S.C. 262r ] a description of any progress made—
+
+In General
+
+Membership.—
+
+In general
+
+Timing of appointments
+
+Chairman
+
+Qualifications.—
+
+Expertise
+
+Former affiliation
+
+Period of Appointment; Vacancies
+
+Duties of the Commission
+
+Powers and Procedures of the Commission.—
+
+Hearings
+
+Information
+
+Meetings
+
+Report
+
+Termination
+
+Reports by the Executive Branch.—
+
+“Not later than July 15, 1999 , and July 15, 2000 , the Secretary of the Treasury shall report to the Chairmen and Ranking Members of the appropriate committees on the progress of efforts to reform the architecture of the international monetary system. The reports shall include a discussion of the substance of the United States position in consultations with other governments and the degree of progress in achieving international acceptance and implementation of such position with respect to the following issues:
+
+## Source Credit
+
+*([Pub. L. 95–118, title XVII, § 1701](https://www.govinfo.gov/link/plaw/95/public/118), as added [Pub. L. 101–240, title V, § 541(a)](https://www.govinfo.gov/link/plaw/101/public/240), Dec. 19, 1989, [103 Stat. 2514](https://www.govinfo.gov/link/statute/103/2514); amended [Pub. L. 101–513, title V, § 562(c)(10)(A)](https://www.govinfo.gov/link/plaw/101/public/513), Nov. 5, 1990, [104 Stat. 2036](https://www.govinfo.gov/link/statute/104/2036); [Pub. L. 104–208, div. A, title I, § 101(c) [title VII, § 710(a)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–121](https://www.govinfo.gov/link/statute/110/3009), 3009–181; [Pub. L. 105–277, div. A, § 101(d) [title VI, § 610(b)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–150](https://www.govinfo.gov/link/statute/112/2681), 2681–228.)*

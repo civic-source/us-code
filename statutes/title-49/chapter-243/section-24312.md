@@ -3,9 +3,10 @@ title: "Section 24312 - Labor standards"
 usc_title: 49
 usc_section: "24312"
 chapter: 243
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 24312"
-generated_at: "2026-03-30T02:56:19.344Z"
+generated_at: "2026-11-23T21:26:40.738Z"
+status: "active"
 ---
 
 # § 24312. Labor standards
@@ -18,3 +19,63 @@ generated_at: "2026-03-30T02:56:19.344Z"
     - **(B)** where at least 1 Amtrak ticket agent was employed on or after October 1, 2017 ; and
     - **(C)** for which an average of 40 passengers boarded or deboarded an Amtrak train per day during all of the days in fiscal year 2017 when the station was serviced by Amtrak, regardless of the number of Amtrak trains servicing the station per day.
   - **(2)** Paragraph (1) shall not apply to any station building in which a commuter rail ticket agent has the authority to sell Amtrak tickets.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 24312(a) | 45:565(d). | Oct. 30, 1970 , Pub. L. 91–518, § 405(d) , 84 Stat. 1337 . |
+| 24312(b) | 45:565(e). | Oct. 30, 1970 , Pub. L. 91–518, § 405(e) , 84 Stat. 1337 ; Aug. 13, 1981 , Pub. L. 97–35, § 1177(b) , 95 Stat. 692 . |
+
+
+Prevailing Wages and Health and Safety Standards
+
+Wage Rates
+
+Availability of Station Agents.—
+
+In general
+
+Exception
+
+Historical and Revision Notes
+
+24312(a)
+
+Oct. 30, 1970
+
+Pub. L. 91–518, § 405(d)
+
+84 Stat. 1337
+
+24312(b)
+
+Oct. 30, 1970
+
+Pub. L. 91–518, § 405(e)
+
+84 Stat. 1337
+
+Aug. 13, 1981
+
+Pub. L. 97–35, § 1177(b)
+
+95 Stat. 692
+
+Contracting Out
+
+Amendment of Existing Collective Bargaining Agreement.—
+
+Contracting out
+
+Enforceability of amendment
+
+Contracting-out Issues To Be Included in Negotiations
+
+Furloughed Work
+
+Agreement Prohibitions on Contracting Out
+
+No Inference
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 916](https://www.govinfo.gov/link/statute/108/916); [Pub. L. 105–134, title I](https://www.govinfo.gov/link/plaw/105/public/134), §§ 101(f), 105(c), 121(a), Dec. 2, 1997, [111 Stat. 2572–2574](https://www.govinfo.gov/link/statute/111/2572); [Pub. L. 107–217, § 3(n)(4)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1302](https://www.govinfo.gov/link/statute/116/1302); [Pub. L. 117–58, div. B, title II, § 22203](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 698](https://www.govinfo.gov/link/statute/135/698).)*

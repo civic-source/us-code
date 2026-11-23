@@ -3,12 +3,17 @@ title: "Section 2221 - Identification of opportunities for water supply conserva
 usc_title: 43
 usc_section: "2221"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 2221"
-generated_at: "2026-03-30T02:55:57.496Z"
+generated_at: "2026-11-23T21:26:19.892Z"
+status: "active"
 ---
 
 # § 2221. Identification of opportunities for water supply conservation, augmentation and use
 
 The Secretary is authorized to conduct studies to identify opportunities to conserve, augment, and make more efficient use of water supplies available to Federal Reclamation projects and Indian water resource developments in order to be prepared for and better respond to drought conditions. The Secretary is authorized to provide technical assistance to States and to local and tribal government entities to assist in the development, construction, and operation of water desalinization projects, including technical assistance for purposes of assessing the technical and economic feasibility of such projects.
 
+
+## Source Credit
+
+*([Pub. L. 102–250, title II, § 201](https://www.govinfo.gov/link/plaw/102/public/250), Mar. 5, 1992, [106 Stat. 56](https://www.govinfo.gov/link/statute/106/56).)*

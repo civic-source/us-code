@@ -3,9 +3,10 @@ title: "Section 153 - National Labor Relations Board"
 usc_title: 29
 usc_section: "153"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 153"
-generated_at: "2026-03-30T02:55:18.677Z"
+generated_at: "2026-11-23T21:26:02.166Z"
+status: "active"
 ---
 
 # § 153. National Labor Relations Board
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:18.677Z"
 - **(b)** The Board is authorized to delegate to any group of three or more members any or all of the powers which it may itself exercise. The Board is also authorized to delegate to its regional directors its powers under section 159 of this title to determine the unit appropriate for the purpose of collective bargaining, to investigate and provide for hearings, and determine whether a question of representation exists, and to direct an election or take a secret ballot under subsection (c) or (e) of section 159 of this title and certify the results thereof, except that upon the filing of a request therefor with the Board by any interested person, the Board may review any action of a regional director delegated to him under this paragraph, but such a review shall not, unless specifically ordered by the Board, operate as a stay of any action taken by the regional director. A vacancy in the Board shall not impair the right of the remaining members to exercise all of the powers of the Board, and three members of the Board shall, at all times, constitute a quorum of the Board, except that two members shall constitute a quorum of any group designated pursuant to the first sentence hereof. The Board shall have an official seal which shall be judicially noticed.
 - **(c)** The Board shall at the close of each fiscal year make a report in writing to Congress and to the President summarizing significant case activities and operations for that fiscal year.
 - **(d)** There shall be a General Counsel of the Board who shall be appointed by the President, by and with the advice and consent of the Senate, for a term of four years. The General Counsel of the Board shall exercise general supervision over all attorneys employed by the Board (other than administrative law judges and legal assistants to Board members) and over the officers and employees in the regional offices. He shall have final authority, on behalf of the Board, in respect of the investigation of charges and issuance of complaints under section 160 of this title , and in respect of the prosecution of such complaints before the Board, and shall have such other duties as the Board may prescribe or as may be provided by law. In case of a vacancy in the office of the General Counsel the President is authorized to designate the officer or employee who shall act as General Counsel during such vacancy, but no person or persons so designated shall so act (1) for more than forty days when the Congress is in session unless a nomination to fill such vacancy shall have been submitted to the Senate, or (2) after the adjournment sine die of the session of the Senate in which such nomination was submitted.
+
+## Source Credit
+
+*(July 5, 1935, ch. 372, § 3, [49 Stat. 451](https://www.govinfo.gov/link/statute/49/451); June 23, 1947, ch. 120, title I, § 101, [61 Stat. 139](https://www.govinfo.gov/link/statute/61/139); [Pub. L. 86–257, title VII](https://www.govinfo.gov/link/plaw/86/public/257), §§ 701(b), 703, Sept. 14, 1959, [73 Stat. 542](https://www.govinfo.gov/link/statute/73/542); [Pub. L. 93–608, § 3(3)](https://www.govinfo.gov/link/plaw/93/public/608), Jan. 2, 1975, [88 Stat. 1972](https://www.govinfo.gov/link/statute/88/1972); [Pub. L. 95–251, § 3](https://www.govinfo.gov/link/plaw/95/public/251), Mar. 27, 1978, [92 Stat. 184](https://www.govinfo.gov/link/statute/92/184); [Pub. L. 97–375, title II, § 213](https://www.govinfo.gov/link/plaw/97/public/375), Dec. 21, 1982, [96 Stat. 1826](https://www.govinfo.gov/link/statute/96/1826).)*

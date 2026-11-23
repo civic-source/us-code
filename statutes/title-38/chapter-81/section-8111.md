@@ -3,9 +3,10 @@ title: "Section 8111 - Sharing of Department of Veterans Affairs and Department 
 usc_title: 38
 usc_section: "8111"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 8111"
-generated_at: "2026-03-30T02:55:53.537Z"
+generated_at: "2026-11-23T21:26:16.901Z"
+status: "active"
 ---
 
 # § 8111. Sharing of Department of Veterans Affairs and Department of Defense health care resources
@@ -20,7 +21,7 @@ generated_at: "2026-03-30T02:55:53.537Z"
 - **(d)**
   - **(1)** Pursuant to subsection (b)(4), the two Secretaries shall carry out a program to identify, provide incentives to, implement, fund, and evaluate creative coordination and sharing initiatives at the facility, intraregional, and nationwide levels. The program shall be administered by the Department of Veterans Affairs-Department of Defense Joint Executive Committee, under procedures jointly prescribed by the two Secretaries.
   - **(2)** To facilitate the incentive program, there is established in the Treasury a fund to be known as the “DOD–VA Health Care Sharing Incentive Fund”. Each Secretary shall annually contribute to the fund a minimum of $15,000,000 from the funds appropriated to that Secretary’s Department. Such funds shall remain available until expended and shall be available for any purpose authorized by this section.
-  - **(3)** The program under this subsection shall terminate on September 30, 2026 .
+  - **(3)** The program under this subsection shall terminate on December 11, 2026 .
 - **(e)**
   - **(1)** To implement the recommendations made by the Department of Veterans Affairs-Department of Defense Joint Executive Committee with respect to health care resources, as well as to carry out other health care contracts and agreements for coordination and sharing initiatives as they consider appropriate, the two Secretaries shall jointly issue guidelines and policy directives. Such guidelines and policies shall provide for coordination and sharing that—
     - **(A)** is consistent with the health care responsibilities of the Department of Veterans Affairs under this title and with the health care responsibilities of the Department of Defense under chapter 55 of title 10;
@@ -63,3 +64,119 @@ generated_at: "2026-03-30T02:55:53.537Z"
   - **(5)** The term “primary beneficiary” (A) with respect to the Department means a person who is eligible under this title (other than under section 1782, 1783, or 1784 or subsection (d) of this section) or any other provision of law for care or services in Department medical facilities, and (B) with respect to the Department of Defense, means a member or former member of the Armed Forces who is eligible for care under section 1074 of title 10 .
   - **(6)** The term “providing Department” means the Department of Veterans Affairs, in the case of care or services furnished by a facility of the Department of Veterans Affairs, and the Department of Defense, in the case of care or services furnished by a facility of the Department of Defense.
   - **(7)** The term “service region” means a geographic service area of the Veterans Health Administration, in the case of the Department of Veterans Affairs, and a service region, in the case of the Department of Defense.
+
+Required Coordination and Sharing of Health Care Resources
+
+Joint Requirements for Secretaries of Veterans Affairs and Defense
+
+Joint Incentives Program
+
+Guidelines and Policies for Implementation of Coordination and Sharing Recommendations, Contracts, and Agreements
+
+Annual Joint Report
+
+Definitions
+
+Action Plans.—
+
+In general
+
+Matters to be included
+
+Approval of Action Plans
+
+Requirements Relating to Sharing Agreements.—
+
+Lead coordinator
+
+List of agreements
+
+Patient Safety, Complaints, and Accountability.—
+
+Secure complaint process.—
+
+In general
+
+Elements of mechanism
+
+Documentation and review.—
+
+Documentation
+
+Review
+
+Notification and investigation
+
+Interim protective measures
+
+Submission to Congress
+
+Annual Joint Briefings on Action Plans
+
+Rule of Construction
+
+Sunset
+
+Definitions
+
+In general
+
+Elements
+
+“Before a facility may be designated a combined Federal medical facility of the Department of Defense and the Department of Veterans Affairs, the Secretary of Defense and the Secretary of Veterans Affairs shall execute a signed agreement that specifies, at a minimum, a binding operational agreement on the following areas:
+
+Department of Defense Consideration of Joint Construction
+
+Department of Veterans Affairs Consideration of Joint Construction
+
+Establishment
+
+Site Identification
+
+Conduct of Project
+
+Authority To Waive Certain Administrative Policies
+
+Use by DOD of Certain Title
+
+Personnel Authorities
+
+Funding
+
+Definitions
+
+Termination
+
+Interagency Agreement
+
+Depositing of Reimbursements
+
+Copayment Requirement
+
+Phased Implementation
+
+Eligible Military Retirees
+
+Primacy of Sharing Agreements
+
+Modification or Termination
+
+Authority
+
+Use of Funds
+
+In General
+
+Additional Matters for Fiscal Year
+
+Report
+
+Right To Recover
+
+Enforcement
+
+“The Congress makes the following findings:
+
+## Source Credit
+
+*(Added [Pub. L. 96–22, title III, § 301(a)](https://www.govinfo.gov/link/plaw/96/public/22), June 13, 1979, [93 Stat. 60](https://www.govinfo.gov/link/statute/93/60), § 5011; amended [Pub. L. 97–174, § 3(a)](https://www.govinfo.gov/link/plaw/97/public/174), (b)(1), May 4, 1982, [96 Stat. 70](https://www.govinfo.gov/link/statute/96/70), 73; [Pub. L. 97–452, § 2(e)(4)](https://www.govinfo.gov/link/plaw/97/public/452), Jan. 12, 1983, [96 Stat. 2479](https://www.govinfo.gov/link/statute/96/2479); renumbered § 8111 and amended [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), (d)(1), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238), 239; [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, [105 Stat. 404–406](https://www.govinfo.gov/link/statute/105/404); [Pub. L. 102–405, title III, § 302(c)(1)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1984](https://www.govinfo.gov/link/statute/106/1984); [Pub. L. 103–446, title XII, § 1201(g)(8)](https://www.govinfo.gov/link/plaw/103/public/446), (i)(10), Nov. 2, 1994, [108 Stat. 4687](https://www.govinfo.gov/link/statute/108/4687), 4688; [Pub. L. 107–135, title II, § 208(e)(6)](https://www.govinfo.gov/link/plaw/107/public/135), Jan. 23, 2002, [115 Stat. 2464](https://www.govinfo.gov/link/statute/115/2464); [Pub. L. 107–314, div. A, title VII, § 721(a)(1)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2589](https://www.govinfo.gov/link/statute/116/2589); [Pub. L. 108–136, div. A, title V, § 583(b)](https://www.govinfo.gov/link/plaw/108/public/136), (c), Nov. 24, 2003, [117 Stat. 1491](https://www.govinfo.gov/link/statute/117/1491), 1492; [Pub. L. 108–422, title VI, § 605](https://www.govinfo.gov/link/plaw/108/public/422), Nov. 30, 2004, [118 Stat. 2399](https://www.govinfo.gov/link/statute/118/2399); [Pub. L. 109–163, div. A, title VII, § 747(a)](https://www.govinfo.gov/link/plaw/109/public/163), title X, § 1056(g), Jan. 6, 2006, [119 Stat. 3363](https://www.govinfo.gov/link/statute/119/3363), 3440; [Pub. L. 109–364, div. A, title VII, § 743](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2308](https://www.govinfo.gov/link/statute/120/2308); [Pub. L. 109–444, § 8(a)(6)](https://www.govinfo.gov/link/plaw/109/public/444), (7), Dec. 21, 2006, [120 Stat. 3313](https://www.govinfo.gov/link/statute/120/3313); [Pub. L. 109–461, title X](https://www.govinfo.gov/link/plaw/109/public/461), §§ 1004(a)(6), (7), 1006(b), Dec. 22, 2006, [120 Stat. 3465](https://www.govinfo.gov/link/statute/120/3465), 3468; [Pub. L. 111–84, div. A, title XVII, § 1706](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2574](https://www.govinfo.gov/link/statute/123/2574); [Pub. L. 114–58, title I, § 107](https://www.govinfo.gov/link/plaw/114/public/58), Sept. 30, 2015, [129 Stat. 532](https://www.govinfo.gov/link/statute/129/532); [Pub. L. 114–92, div. A, title VII, § 722](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 869](https://www.govinfo.gov/link/statute/129/869); [Pub. L. 116–92, div. A, title VII, § 736](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1463](https://www.govinfo.gov/link/statute/133/1463); [Pub. L. 117–180, div. E, title I, § 103](https://www.govinfo.gov/link/plaw/117/public/180), Sept. 30, 2022, [136 Stat. 2137](https://www.govinfo.gov/link/statute/136/2137); [Pub. L. 119–103, div. D, title I, § 4107](https://www.govinfo.gov/link/plaw/119/public/103), Sept. 2, 2026, [140 Stat. 1007](https://www.govinfo.gov/link/statute/140/1007).)*

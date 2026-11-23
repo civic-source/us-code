@@ -3,9 +3,10 @@ title: "Section 2351 - Encouragement of free enterprise and private participatio
 usc_title: 22
 usc_section: "2351"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2351"
-generated_at: "2026-03-30T02:55:05.359Z"
+generated_at: "2026-11-23T21:25:58.474Z"
+status: "active"
 ---
 
 # § 2351. Encouragement of free enterprise and private participation
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:05.359Z"
 - **(e)**
   - **(1)** The Congress finds that significantly greater effort must be made in carrying out programs under subchapter I of this chapter to award contracts on the basis of competitive selection procedures. All such contracts should be let on the basis of competitive selection procedures except in those limited cases in which the procurement regulations governing the agency primarily responsible for administering subchapter I of this chapter allow noncompetitive procedures to be used.
   - **(2)** Repealed. Pub. L. 97–113, title VII, § 734(a)(1) , Dec. 29, 1981 , 95 Stat. 1560 .
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 601, Sept. 4, 1961, [75 Stat. 438](https://www.govinfo.gov/link/statute/75/438); [Pub. L. 88–205](https://www.govinfo.gov/link/plaw/88/public/205), pt. III, § 301(a), (b), Dec. 16, 1963, [77 Stat. 385](https://www.govinfo.gov/link/statute/77/385); [Pub. L. 88–633](https://www.govinfo.gov/link/plaw/88/public/633), pt. III, § 301(a), (b), Oct. 7, 1964, [78 Stat. 1012](https://www.govinfo.gov/link/statute/78/1012); [Pub. L. 89–583](https://www.govinfo.gov/link/plaw/89/public/583), pt. III, § 301(a), Sept. 19, 1966, [80 Stat. 803](https://www.govinfo.gov/link/statute/80/803); [Pub. L. 90–137](https://www.govinfo.gov/link/plaw/90/public/137), pt. III, § 301(a), Nov. 14, 1967, [81 Stat. 458](https://www.govinfo.gov/link/statute/81/458); [Pub. L. 95–424, title I, § 102(g)(2)(B)](https://www.govinfo.gov/link/plaw/95/public/424), title V, § 501, Oct. 6, 1978, [92 Stat. 942](https://www.govinfo.gov/link/statute/92/942), 956; [Pub. L. 97–113, title VII, § 734(a)(1)](https://www.govinfo.gov/link/plaw/97/public/113), Dec. 29, 1981, [95 Stat. 1560](https://www.govinfo.gov/link/statute/95/1560).)*

@@ -3,9 +3,10 @@ title: "Section 231c - Computation of spouse and survivor annuities"
 usc_title: 45
 usc_section: "231c"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 231c"
-generated_at: "2026-03-30T02:55:56.545Z"
+generated_at: "2026-11-23T21:26:19.193Z"
+status: "active"
 ---
 
 # § 231c. Computation of spouse and survivor annuities
@@ -59,3 +60,19 @@ generated_at: "2026-03-30T02:55:56.545Z"
   - **(1)** The annuity of any spouse or divorced wife under subsection (a) of this section for any month shall, after a reduction pursuant to section 231a(c)(2) of this title be reduced, but not below zero, by the amount of any insurance benefit (before any deduction on account of work) payable to such spouse or divorced wife for that month under title II of the Social Security Act [ 42 U.S.C. 401 et seq.].
   - **(2)** If a spouse or divorced wife entitled to an annuity under section 231a(c) of this title or a survivor entitled to an annuity under section 231a(d) of this title for any month is also entitled to an annuity under section 231a(a)(1) of this title for such month, the annuity amount of such spouse or divorced wife determined under subsection (a) of this section or of such survivor under subsection (f) of this section shall, after any reduction pursuant to subdivision (1) of this subsection, be reduced by the amount of the annuity of such spouse or divorced wife or such survivor determined under section 231b(a) of this title .
   - **(3)** The annuity of any survivor under subsection (f) of this section shall be reduced, but not below zero, by the amount of any insurance benefit (before any deduction on account of work) payable to such survivor under title II of the Social Security Act [ 42 U.S.C. 401 et seq.], unless in computing the amount under subsection (f) a reduction was made for such insurance benefit pursuant to section 202(k) of the Social Security Act [ 42 U.S.C. 402(k) ].
+
+(A) in subsection (g)(1)(i) “100 per centum” shall be substituted for “50 per centum”; and
+
+(B) in subsection (g)(2)(ii) “130 per centum” shall be substituted for “80 per centum” both places it appears.
+
+In general
+
+Special rule for annuities awarded before the effective date
+
+Generally
+
+Exception
+
+## Source Credit
+
+*(Aug. 29, 1935, ch. 812, § 4, as restated June 24, 1937, ch. 382, pt. I; [50 Stat. 307](https://www.govinfo.gov/link/statute/50/307), as restated [Pub. L. 93–445, title I, § 101](https://www.govinfo.gov/link/plaw/93/public/445), Oct. 16, 1974, [88 Stat. 1327](https://www.govinfo.gov/link/statute/88/1327); amended [Pub. L. 94–547, § 2(a)](https://www.govinfo.gov/link/plaw/94/public/547), (b), Oct. 18, 1976, [90 Stat. 2524](https://www.govinfo.gov/link/statute/90/2524); [Pub. L. 97–35, title XI](https://www.govinfo.gov/link/plaw/97/public/35), § 1119, Aug. 13, 1981, [95 Stat. 632](https://www.govinfo.gov/link/statute/95/632); [Pub. L. 98–76, title I](https://www.govinfo.gov/link/plaw/98/public/76), §§ 101(b), 102(b), (c), 106(h), title IV, §§ 406(a), 407(a), Aug. 12, 1983, [97 Stat. 411](https://www.govinfo.gov/link/statute/97/411), 413, 414, 418, 435; [Pub. L. 107–90, title I](https://www.govinfo.gov/link/plaw/107/public/90), §§ 101(a), 102(b), (c), 103(e), 104(b), Dec. 21, 2001, [115 Stat. 878](https://www.govinfo.gov/link/statute/115/878), 879, 881, 882.)*

@@ -3,9 +3,10 @@ title: "Section 150705 - Board of directors"
 usc_title: 36
 usc_section: "150705"
 chapter: 1507
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 150705"
-generated_at: "2026-03-30T02:55:44.702Z"
+generated_at: "2026-11-23T21:26:13.653Z"
+status: "active"
 ---
 
 # § 150705. Board of directors
@@ -15,3 +16,30 @@ generated_at: "2026-03-30T02:55:44.702Z"
 - **(c)** The board shall hold an annual meeting at a time and place as may be provided in the bylaws. The annual report of the board shall be presented at the annual meeting. Special meetings of the board may be called as provided in the bylaws.
 - **(d)** The board shall designate 3 of its own members, who together with the president and the 3 vice presidents constitute the executive committee. When the board is not in session, the executive committee has the powers of the board subject to the board’s direction and may authorize the seal of the corporation to be affixed to all papers that require it.
 - **(e)** The executive committee shall select an executive director for the corporation, who shall have the qualifications and terms of employment decided by the committee. The executive director shall nominate other professional staff members, who must be approved by the executive committee.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 150705 | 36:438. | Aug. 13, 1953, ch. 427, § 8 , 67 Stat. 564 . |
+
+
+General
+
+Number and Election
+
+Meetings
+
+Executive Committee
+
+Executive Director and Professional Staff
+
+Historical and Revision Notes
+
+150705
+
+Aug. 13, 1953, ch. 427, § 8
+
+67 Stat. 564
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1392](https://www.govinfo.gov/link/statute/112/1392).)*

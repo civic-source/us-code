@@ -3,9 +3,10 @@ title: "Section 9018 - Producer agreements"
 usc_title: 7
 usc_section: "9018"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 9018"
-generated_at: "2026-03-30T02:53:42.484Z"
+generated_at: "2026-11-23T21:25:28.490Z"
+status: "active"
 ---
 
 # § 9018. Producer agreements
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:42.484Z"
 - **(e)** No penalty with respect to benefits under this subchapter or subchapter II shall be assessed against a producer on a farm for an inaccurate acreage or production report unless the Secretary determines that the producer on the farm knowingly and willfully falsified the acreage or production report.
 - **(f)** In carrying out this subchapter, the Secretary shall provide adequate safeguards to protect the interests of tenants and sharecroppers.
 - **(g)** The Secretary shall provide for the sharing of payments made under this subchapter among the producers on a farm on a fair and equitable basis.
+
+## Source Credit
+
+*([Pub. L. 113–79, title I, § 1118](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 672](https://www.govinfo.gov/link/statute/128/672).)*

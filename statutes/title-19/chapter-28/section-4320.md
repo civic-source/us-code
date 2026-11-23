@@ -3,9 +3,10 @@ title: "Section 4320 - Importer of record program"
 usc_title: 19
 usc_section: "4320"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4320"
-generated_at: "2026-03-30T02:54:24.706Z"
+generated_at: "2026-11-23T21:25:42.880Z"
+status: "active"
 ---
 
 # § 4320. Importer of record program
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:24.706Z"
   - **(5)** takes measures to ensure that duplicate importer of record numbers are not issued.
 - **(c)** Not later than one year after February 24, 2016 , the Secretary shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report on the importer of record program established under subsection (a).
 - **(d)** In this section, the term “number”, with respect to an importer of record, means a filing identification number described in section 24.5 of title 19, Code of Federal Regulations (or any corresponding similar regulation) that fully supports the requirements of subsection (b) with respect to the collection and maintenance of information.
+
+## Source Credit
+
+*([Pub. L. 114–125, title I, § 114](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 142](https://www.govinfo.gov/link/statute/130/142).)*

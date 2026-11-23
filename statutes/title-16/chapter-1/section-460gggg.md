@@ -3,9 +3,10 @@ title: "Section 460gggg - Numu Newe Special Management Area"
 usc_title: 16
 usc_section: "460gggg"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 460gggg"
-generated_at: "2026-03-30T02:54:22.852Z"
+generated_at: "2026-11-23T21:25:51.635Z"
+status: "active"
 ---
 
 # § 460gggg. Numu Newe Special Management Area
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:22.852Z"
   - **(1)** low-level overflights of military aircraft over the Special Management Area, including military overflights that can be seen or heard within the Special Management Area;
   - **(2)** flight testing and evaluation; or
   - **(3)** the designation or creation of new units of special use airspace, or the establishment of military flight training routes, over the Special Management Area.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. B, title XXIX, § 2902](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3033](https://www.govinfo.gov/link/statute/136/3033); [Pub. L. 118–31, div. B, title XXVIII, § 2883(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 782](https://www.govinfo.gov/link/statute/137/782).)*

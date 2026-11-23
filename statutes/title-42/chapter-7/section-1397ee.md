@@ -3,9 +3,10 @@ title: "Section 1397ee - Payments to States"
 usc_title: 42
 usc_section: "1397ee"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1397ee"
-generated_at: "2026-03-30T02:56:11.071Z"
+generated_at: "2026-11-23T21:26:31.951Z"
+status: "active"
 ---
 
 # § 1397ee. Payments to States
@@ -257,3 +258,33 @@ generated_at: "2026-03-30T02:56:11.071Z"
   - **(7)** Paragraphs (2), (3), (5), (6), (8), (10), (11), and (12) of subsection (c) do not apply to payments under this subsection.
   - **(8)** There shall be no administrative or judicial review under section 1316 of this title or otherwise of amounts allotted or redistributed to States under this subsection, payments to States withheld or reduced under this subsection, or previous payments recovered from States under this subsection.
   - **(9)** For purposes of this subsection, the term “health care provider” means a provider of services or supplier who is enrolled under this subchapter, subchapter XVIII, or subchapter XIX.
+
+(aa) Fiscal years 2009 through 2012 As of December 31 of fiscal year 2009, and as of December 31 of each succeeding fiscal year through fiscal year 2012, the portion, if any, of the amount appropriated under subsection (a) for such fiscal year that is unobligated for allotment to a State under subsection (m) 1 1 So in original. This section does not contain a subsec. (m). for such fiscal year or set aside under subsection (a)(3) or (b)(2) of section 1397kk of this title for such fiscal year.
+
+(bb) First half of fiscal year 2013 As of December 31 of fiscal year 2013, the portion, if any, of the sum of the amounts appropriated under subsection (a)(16)(A) 2 2 So in original. Subsec. (a) of this section does not contain a par. (16). and under section 108 of the Children’s Health Insurance Reauthorization Act of 2009 for the period beginning on October 1, 2012 , and ending on March 31, 2013 , that is unobligated for allotment to a State under subsection (m) 1 for such fiscal year or set aside under subsection (b)(2) of section 1397kk of this title for such fiscal year.
+
+(cc) Second half of fiscal year 2013 As of June 30 of fiscal year 2013, the portion, if any, of the amount appropriated under subsection (a)(16)(B) 2 for the period beginning on April 1, 2013 , and ending on September 30, 2013 , that is unobligated for allotment to a State under subsection (m) 1 for such fiscal year or set aside under subsection (b)(2) of section 1397kk of this title for such fiscal year.
+
+“Nothing in the amendments made by this section [amending this section] shall be construed as—
+
+Final Rule Required To Be in Effect for All States
+
+Requirements for New Final Rule
+
+Option for Application of Data for States in First Application Cycle Under the Interim Final Rule
+
+Harmonization of MEQC and PERM.—
+
+Reduction of redundancies
+
+State option to apply perm data
+
+State option to apply meqc data
+
+Identification of Improved State-Specific Sample Sizes
+
+Time for Promulgation of Final Rule
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XXI, § 2105, as added [Pub. L. 105–33, title IV, § 4901(a)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 560](https://www.govinfo.gov/link/statute/111/560); amended [Pub. L. 105–100, title I, § 162(5)](https://www.govinfo.gov/link/plaw/105/public/100), (7), Nov. 19, 1997, [111 Stat. 2189](https://www.govinfo.gov/link/statute/111/2189), 2190; [Pub. L. 106–113, div. B, § 1000(a)(6) [title VII, § 705(b)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–402; [Pub. L. 106–554, § 1(a)(6) [title VIII, § 802(a), (d)(4), (e)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–580 to 2763A–582; [Pub. L. 108–74, § 1(b)](https://www.govinfo.gov/link/plaw/108/public/74), Aug. 15, 2003, [117 Stat. 895](https://www.govinfo.gov/link/statute/117/895); [Pub. L. 108–127, § 1](https://www.govinfo.gov/link/plaw/108/public/127), Nov. 17, 2003, [117 Stat. 1354](https://www.govinfo.gov/link/statute/117/1354); [Pub. L. 109–171, title VI](https://www.govinfo.gov/link/plaw/109/public/171), §§ 6102(b), 6103(a), Feb. 8, 2006, [120 Stat. 131](https://www.govinfo.gov/link/statute/120/131), 132; [Pub. L. 109–482, title II, § 201(b)](https://www.govinfo.gov/link/plaw/109/public/482), Jan. 15, 2007, [120 Stat. 3701](https://www.govinfo.gov/link/statute/120/3701); [Pub. L. 110–92, § 136(d)](https://www.govinfo.gov/link/plaw/110/public/92), Sept. 29, 2007, [121 Stat. 995](https://www.govinfo.gov/link/statute/121/995); [Pub. L. 110–173, title II, § 201(b)(1)](https://www.govinfo.gov/link/plaw/110/public/173), Dec. 29, 2007, [121 Stat. 2509](https://www.govinfo.gov/link/statute/121/2509); [Pub. L. 111–3, title I](https://www.govinfo.gov/link/plaw/111/public/3), §§ 104, 107(a), 113(a), 114(a), title II, §§ 201(b)(1), 202(b), 211(c), title III, §§ 301(a)(1), (2)(A), 302(b), title VI, § 601(a), Feb. 4, 2009, [123 Stat. 17](https://www.govinfo.gov/link/statute/123/17), 24, 34, 39, 40, 54, 57, 61, 63, 96; [Pub. L. 111–148, title II](https://www.govinfo.gov/link/plaw/111/public/148), §§ 2101(a)–(c), 2102(a)(3)–(5), title X, §§ 10201(g), 10203(b)(3), (4), (c), (d)(2)(C), Mar. 23, 2010, [124 Stat. 286–288](https://www.govinfo.gov/link/statute/124/286), 922, 927, 928, 930; [Pub. L. 114–10, title III, § 301(c)](https://www.govinfo.gov/link/plaw/114/public/10), Apr. 16, 2015, [129 Stat. 158](https://www.govinfo.gov/link/statute/129/158); [Pub. L. 115–120, div. C](https://www.govinfo.gov/link/plaw/115/public/120), §§ 3002(d)(1), (f)(1), 3005, Jan. 22, 2018, [132 Stat. 34](https://www.govinfo.gov/link/statute/132/34), 37; [Pub. L. 115–123, div. E, title I, § 50101(d)](https://www.govinfo.gov/link/plaw/115/public/123), (f)(1), Feb. 9, 2018, [132 Stat. 174](https://www.govinfo.gov/link/statute/132/174); [Pub. L. 116–117, § 3(b)(3)](https://www.govinfo.gov/link/plaw/116/public/117), Mar. 2, 2020, [134 Stat. 134](https://www.govinfo.gov/link/statute/134/134); [Pub. L. 117–2, title IX, § 9821(b)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 219](https://www.govinfo.gov/link/statute/135/219); [Pub. L. 117–328, div. FF, title V, § 5111(c)(2)](https://www.govinfo.gov/link/plaw/117/public/328), (3), Dec. 29, 2022, [136 Stat. 5939](https://www.govinfo.gov/link/statute/136/5939); [Pub. L. 119–21, title VII, § 71401(a)](https://www.govinfo.gov/link/plaw/119/public/21), (b)(2), July 4, 2025, [139 Stat. 327](https://www.govinfo.gov/link/statute/139/327), 332.)*

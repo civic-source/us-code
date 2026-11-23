@@ -3,9 +3,10 @@ title: "Section 2114a - Eligibility of members of foreign militaries to enroll i
 usc_title: 10
 usc_section: "2114a"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2114a"
-generated_at: "2026-03-30T02:53:38.142Z"
+generated_at: "2026-11-23T21:25:32.556Z"
+status: "active"
 ---
 
 # § 2114a. Eligibility of members of foreign militaries to enroll in the University
@@ -44,3 +45,15 @@ generated_at: "2026-03-30T02:53:38.142Z"
   - **(2)** The Secretary may prescribe regulations regarding access to classified information by an individual enrolled under this section that differ from the regulations that apply to a member of the uniformed services enrolled in the University.
   - **(3)** An individual enrolled under this section shall not be entitled to an appointment in a uniformed service by reason of completing of a program of the University.
   - **(4)** Section 2114 of this title shall not apply to an individual enrolled under this section.
+
+Authority
+
+Qualifications; Selection
+
+Reimbursement
+
+Applicability of Regulations and Policies
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title V, § 553](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1894](https://www.govinfo.gov/link/statute/138/1894).)*

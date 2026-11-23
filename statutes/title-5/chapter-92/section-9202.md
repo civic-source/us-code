@@ -3,9 +3,10 @@ title: "Section 9202 - Limitations on requests for criminal history record infor
 usc_title: 5
 usc_section: "9202"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 9202"
-generated_at: "2026-03-30T02:52:56.072Z"
+generated_at: "2026-11-23T21:25:23.460Z"
+status: "active"
 ---
 
 # § 9202. Limitations on requests for criminal history record information
@@ -22,3 +23,21 @@ generated_at: "2026-03-30T02:52:56.072Z"
     - **(B)** The regulations issued under subparagraph (A) shall—
       - **(i)** be consistent with, and in no way supersede, restrict, or limit the application of title VII of the Civil Rights Act of 1964 ( 42 U.S.C. 2000e et seq.) or other relevant Federal civil rights laws; and
       - **(ii)** ensure that all hiring activities conducted pursuant to the regulations are conducted in a manner consistent with relevant Federal civil rights laws.
+
+Inquiries Prior to Conditional Offer
+
+Otherwise Required by Law
+
+Exception for Certain Positions.—
+
+In general
+
+Regulations.—
+
+Issuance
+
+Compliance with civil rights laws
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. A, title XI, § 1122(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1606](https://www.govinfo.gov/link/statute/133/1606).)*

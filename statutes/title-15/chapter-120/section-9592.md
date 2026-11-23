@@ -3,9 +3,10 @@ title: "Section 9592 - Federal assistance"
 usc_title: 15
 usc_section: "9592"
 chapter: 120
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9592"
-generated_at: "2026-03-30T02:54:08.249Z"
+generated_at: "2026-11-23T21:25:40.151Z"
+status: "active"
 ---
 
 # § 9592. Federal assistance
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.249Z"
     - **(D)** the methodology used by the Under Secretary to make allocations under subparagraph (C).
   - **(3)** The Under Secretary shall consult with public sector entities and private sector entities, as applicable, in deciding the amounts and types of Federal assistance to make available under paragraph (1).
 - **(b)** In carrying out this section, the Under Secretary shall broadly publicize all opportunities for Federal assistance available under this section, including through the means required under section ___116. 1
+
+## Source Credit
+
+*([Pub. L. 117–58, div. K, title VII, § 100702](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1465](https://www.govinfo.gov/link/statute/135/1465).)*

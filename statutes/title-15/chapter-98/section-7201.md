@@ -3,9 +3,10 @@ title: "Section 7201 - Definitions"
 usc_title: 15
 usc_section: "7201"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7201"
-generated_at: "2026-03-30T02:54:08.218Z"
+generated_at: "2026-11-23T21:25:40.040Z"
+status: "active"
 ---
 
 # § 7201. Definitions
@@ -52,3 +53,7 @@ Except as otherwise specifically provided in this Act, in this Act, the followin
   - **(15)** The term “securities laws” means the provisions of law referred to in section 78c(a)(47) of this title and includes the rules, regulations, and orders issued by the Commission thereunder.
   - **(16)** The term “State” means any State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, or any other territory or possession of the United States.
   - **(17)** The term “foreign auditor oversight authority” means any governmental body or other entity empowered by a foreign government to conduct inspections of public accounting firms or otherwise to administer or enforce laws related to the regulation of public accounting firms.
+
+## Source Credit
+
+*([Pub. L. 107–204, § 2(a)](https://www.govinfo.gov/link/plaw/107/public/204), July 30, 2002, [116 Stat. 746](https://www.govinfo.gov/link/statute/116/746); [Pub. L. 111–203, title IX](https://www.govinfo.gov/link/plaw/111/public/203), §§ 929F(g)(1), 981(a), 982(a)(2), July 21, 2010, [124 Stat. 1854](https://www.govinfo.gov/link/statute/124/1854), 1926, 1928.)*

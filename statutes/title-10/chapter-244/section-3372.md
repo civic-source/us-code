@@ -3,9 +3,10 @@ title: "Section 3372 - Undefinitized contractual actions: requirements and limit
 usc_title: 10
 usc_section: "3372"
 chapter: 244
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3372"
-generated_at: "2026-03-30T02:53:38.192Z"
+generated_at: "2026-11-23T21:25:32.724Z"
+status: "active"
 ---
 
 # § 3372. Undefinitized contractual actions: requirements and limitations relating to definitization of contractual terms, specifications, and price
@@ -30,3 +31,33 @@ generated_at: "2026-03-30T02:53:38.192Z"
 - **(c)**
   - **(1)** Except as provided in paragraph (2), a contracting officer of the Department of Defense may not enter into an undefinitized contractual action for a foreign military sale unless the contractual action provides for agreement upon contractual terms, specifications, and price by the end of the 180-day period described in subsection (a)(1)(A).
   - **(2)** The requirement under paragraph (1) may be waived in accordance with subsection (a)(3).
+
+Contractual Action to Provide Time for Definitization of Contractual Terms, Specifications, and Price; Limitations on Obligation of Funds.—
+
+Terms for time for definitization to be included in contractual action
+
+Limitation on obligation of funds before definitization.—
+
+50 percent limitation
+
+75 percent limitation when contractor submits qualifying proposal
+
+Waiver authority
+
+Inapplicability with respect to purchase of initial spares
+
+Limitation on Unilateral Definitization by Contracting Officer.—
+
+In general
+
+Treatment of unilateral definitization of a contract as a final decision
+
+Foreign Military Contracts.—
+
+-day requirement
+
+Waiver authority
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1819(a)](https://www.govinfo.gov/link/plaw/116/public/283), (c), Jan. 1, 2021, [134 Stat. 4189](https://www.govinfo.gov/link/statute/134/4189); [Pub. L. 118–159, div. A, title VIII, § 803](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1965](https://www.govinfo.gov/link/statute/138/1965).)*

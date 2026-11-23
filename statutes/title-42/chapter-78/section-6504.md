@@ -3,9 +3,10 @@ title: "Section 6504 - Administration of reserve"
 usc_title: 42
 usc_section: "6504"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6504"
-generated_at: "2026-03-30T02:56:11.262Z"
+generated_at: "2026-11-23T21:26:32.958Z"
+status: "active"
 ---
 
 # § 6504. Administration of reserve
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.262Z"
   - **(1)** is authorized to enter into contracts for the exploration of the reserve, except that no such contract may be entered into until at least thirty days after the Secretary of the Interior has provided the Attorney General with a copy of the proposed contract and such other information as may be appropriate to determine legal sufficiency and possible violations under, or inconsistencies with, the antitrust laws. If, within such thirty day period, the Attorney General advises the Secretary of the Interior that any such contract would unduly restrict competition or be inconsistent with the antitrust laws, then the Secretary of the Interior may not execute that contract;
   - **(2)** shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives any new plans or substantial amendments to ongoing plans for the exploration of the reserve. All such plans or amendments submitted to such committees pursuant to this section shall contain a report by the Attorney General of the United States with respect to the anticipated effects of such plans or amendments on competition. Such plans or amendments shall not be implemented until sixty days after they have been submitted to such committees; and
   - **(3)** shall report annually to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives on the progress of, and future plans for, exploration of the reserve.
+
+## Source Credit
+
+*([Pub. L. 94–258, title I, § 104](https://www.govinfo.gov/link/plaw/94/public/258), Apr. 5, 1976, [90 Stat. 304](https://www.govinfo.gov/link/statute/90/304); [Pub. L. 98–366, § 4(b)](https://www.govinfo.gov/link/plaw/98/public/366), July 17, 1984, [98 Stat. 470](https://www.govinfo.gov/link/statute/98/470); [Pub. L. 103–437, § 15(q)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4594](https://www.govinfo.gov/link/statute/108/4594); [Pub. L. 109–58, title III, § 347(c)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 708](https://www.govinfo.gov/link/statute/119/708).)*

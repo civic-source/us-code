@@ -3,9 +3,10 @@ title: "Section 665m - President’s Cup Cybersecurity Competition"
 usc_title: 6
 usc_section: "665m"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 665m"
-generated_at: "2026-03-30T02:53:09.480Z"
+generated_at: "2026-11-23T21:25:25.832Z"
+status: "active"
 ---
 
 # § 665m. President’s Cup Cybersecurity Competition
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:09.480Z"
   - **(2)** A description of authorized expenditures.
   - **(3)** Information relating to participation.
   - **(4)** Information relating to lessons learned, and how such lessons may be applied to improve cybersecurity operations and recruitment of the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. G, title LXXI, § 7121](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3638](https://www.govinfo.gov/link/statute/136/3638).)*

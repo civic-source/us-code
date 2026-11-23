@@ -3,9 +3,10 @@ title: "Section 3205 - Garnishment"
 usc_title: 28
 usc_section: "3205"
 chapter: 176
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 3205"
-generated_at: "2026-03-30T02:55:30.153Z"
+generated_at: "2026-11-23T21:26:01.144Z"
+status: "active"
 ---
 
 # § 3205. Garnishment
@@ -50,3 +51,37 @@ generated_at: "2026-03-30T02:55:30.153Z"
     - **(A)** a court order quashing the writ of garnishment;
     - **(B)** exhaustion of property in the possesion, 1 1 So in original. Probably should be “possession,”. custody, or control of the garnishee in which the debtor has a substantial nonexempt interest (including nonexempt disposable earnings), unless the garnishee reinstates or reemploys the judgment debtor within 90 days after the judgment debtor’s dismissal or resignation; or
     - **(C)** satisfaction of the debt with respect to which the writ is issued.
+
+In General
+
+Writ.—
+
+General requirements
+
+Proper garnishee for particular property.—
+
+Procedures Applicable to Writ.—
+
+Court determination
+
+Form of writ
+
+Service of writ
+
+Answer of the garnishee
+
+Objections to answer
+
+Garnishee’s failure to answer or pay
+
+Disposition order
+
+Priorities
+
+Accounting
+
+Termination of garnishment
+
+## Source Credit
+
+*(Added [Pub. L. 101–647, title XXXVI, § 3611](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4956](https://www.govinfo.gov/link/statute/104/4956).)*

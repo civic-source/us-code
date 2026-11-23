@@ -3,9 +3,10 @@ title: "Section 20942 - Project Safe Childhood"
 usc_title: 34
 usc_section: "20942"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20942"
-generated_at: "2026-03-30T02:55:33.301Z"
+generated_at: "2026-11-23T21:26:09.800Z"
+status: "active"
 ---
 
 # § 20942. Project Safe Childhood
@@ -131,3 +132,7 @@ generated_at: "2026-03-30T02:55:33.301Z"
     - **(B)** for the activities described under subsection (d)(4), $4,000,000 for each of fiscal years 2023 through 2028; and
     - **(C)** for the activities described under subsection (e), $29,100,000 for each of fiscal years 2023 through 2028.
   - **(2)** Amounts made available to State and local agencies, programs, and services under this section shall supplement, and not supplant, other Federal, State, or local funds made available for those agencies, programs, and services.
+
+## Source Credit
+
+*([Pub. L. 109–248, title I, § 143](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 604](https://www.govinfo.gov/link/statute/120/604); [Pub. L. 118–159, div. E, title LII, § 5202](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2433](https://www.govinfo.gov/link/statute/138/2433).)*

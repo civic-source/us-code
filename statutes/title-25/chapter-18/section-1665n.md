@@ -3,9 +3,10 @@ title: "Section 1665n - Behavioral health research"
 usc_title: 25
 usc_section: "1665n"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1665n"
-generated_at: "2026-03-30T02:54:52.826Z"
+generated_at: "2026-11-23T21:25:54.631Z"
+status: "active"
 ---
 
 # § 1665n. Behavioral health research
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:52.826Z"
   - **(2)** the interrelationship and interdependence of behavioral health problems with alcoholism and other substance abuse, suicide, homicides, other injuries, and the incidence of family violence; and
   - **(3)** the development of models of prevention techniques.
 - **(b)** The effect of the interrelationships and interdependencies referred to in subsection (a)(2) on children, and the development of prevention techniques under subsection (a)(3) applicable to children, shall be emphasized.
+
+## Source Credit
+
+*([Pub. L. 94–437, title VII, § 715](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

@@ -3,12 +3,17 @@ title: "Section 4315 - Overtime pay for FBI employees detailed to House Committe
 usc_title: 2
 usc_section: "4315"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 4315"
-generated_at: "2026-03-30T02:53:04.829Z"
+generated_at: "2026-11-23T21:25:21.299Z"
+status: "active"
 ---
 
 # § 4315. Overtime pay for FBI employees detailed to House Committee on Appropriations
 
 The Federal Bureau of Investigation, notwithstanding any other provision of law, may in any fiscal year pay all administrative uncontrollable overtime accrued by its employees while on detail to the Committee on Appropriations.
 
+
+## Source Credit
+
+*([Pub. L. 103–283, title I](https://www.govinfo.gov/link/plaw/103/public/283), July 22, 1994, [108 Stat. 1430](https://www.govinfo.gov/link/statute/108/1430).)*

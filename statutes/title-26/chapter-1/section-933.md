@@ -3,9 +3,10 @@ title: "Section 933 - Income from sources within Puerto Rico"
 usc_title: 26
 usc_section: "933"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 933"
-generated_at: "2026-03-30T02:55:27.747Z"
+generated_at: "2026-11-23T21:26:06.436Z"
+status: "active"
 ---
 
 # § 933. Income from sources within Puerto Rico
@@ -14,3 +15,7 @@ The following items shall not be included in gross income and shall be exempt fr
 
   - **(1)** In the case of an individual who is a bona fide resident of Puerto Rico during the entire taxable year, income derived from sources within Puerto Rico (except amounts received for services performed as an employee of the United States or any agency thereof); but such individual shall not be allowed as a deduction from his gross income any deductions (other than the deduction under section 151, relating to personal exemptions), or any credit, properly allocable to or chargeable against amounts excluded from gross income under this paragraph.
   - **(2)** In the case of an individual citizen of the United States who has been a bona fide resident of Puerto Rico for a period of at least 2 years before the date on which he changes his residence from Puerto Rico, income derived from sources therein (except amounts received for services performed as an employee of the United States or any agency thereof) which is attributable to that part of such period of Puerto Rican residence before such date; but such individual shall not be allowed as a deduction from his gross income any deductions (other than the deduction for personal exemptions under section 151), or any credit, properly allocable to or chargeable against amounts excluded from gross income under this paragraph.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 293; [Pub. L. 99–514, title XII, § 1272(d)(3)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2594](https://www.govinfo.gov/link/statute/100/2594).)*

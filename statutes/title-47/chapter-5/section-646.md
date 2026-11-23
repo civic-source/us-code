@@ -3,9 +3,10 @@ title: "Section 646 - Other provisions"
 usc_title: 47
 usc_section: "646"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 646"
-generated_at: "2026-03-30T02:56:24.526Z"
+generated_at: "2026-11-23T21:26:36.064Z"
+status: "active"
 ---
 
 # § 646. Other provisions
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:24.526Z"
   - **(2)** may not delegate any of the responsibilities assigned to the Commission under this subchapter to any third party, including the Universal Service Administrative Company.
 - **(d)** Each fiscal year, the Commission shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that summarizes the implementation of this subchapter and associated enforcement activities conducted during the previous fiscal year.
 - **(e)** If the Commission, before March 23, 2020 , has taken an action that, in whole or in part, implements this subchapter, the Commission shall not be required to revisit such action to the extent that such action is consistent with this subchapter.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VIII, § 806, as added [Pub. L. 116–130, § 2](https://www.govinfo.gov/link/plaw/116/public/130), Mar. 23, 2020, [134 Stat. 238](https://www.govinfo.gov/link/statute/134/238); amended [Pub. L. 117–58, div. F, title I, § 60102(h)(2)(E)(ii)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1198](https://www.govinfo.gov/link/statute/135/1198).)*

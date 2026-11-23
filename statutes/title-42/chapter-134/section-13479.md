@@ -3,9 +3,10 @@ title: "Section 13479 - Spark M. Matsunaga Renewable Energy and Ocean Technology
 usc_title: 42
 usc_section: "13479"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13479"
-generated_at: "2026-03-30T02:56:11.447Z"
+generated_at: "2026-11-23T21:26:33.610Z"
+status: "active"
 ---
 
 # § 13479. Spark M. Matsunaga Renewable Energy and Ocean Technology Center
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.447Z"
   - **(5)** such other matters as the Secretary may direct.
 - **(f)** To be eligible for Federal funds under this section, the Center must provide funding in cash or in kind from non-Federal sources for each amount provided by the Secretary.
 - **(g)** There is authorized to be appropriated to the Secretary for carrying out this section such sums as may be necessary, to be derived from sums authorized under section 13471(c) of this title .
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXI, § 2119](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3080](https://www.govinfo.gov/link/statute/106/3080).)*

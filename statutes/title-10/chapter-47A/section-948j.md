@@ -3,9 +3,10 @@ title: "Section 948j - Military judge of a military commission"
 usc_title: 10
 usc_section: "948j"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 948j"
-generated_at: "2026-03-30T02:53:38.088Z"
+generated_at: "2026-11-23T21:25:32.359Z"
+status: "active"
 ---
 
 # § 948j. Military judge of a military commission
@@ -16,3 +17,19 @@ generated_at: "2026-03-30T02:53:38.088Z"
 - **(d)** A military judge detailed to a military commission under this chapter may not consult with the members except in the presence of the accused (except as otherwise provided in section 949d of this title ), trial counsel, and defense counsel, nor may such military judge vote with the members.
 - **(e)** A commissioned officer who is certified to be qualified for duty as a military judge of a military commission under this chapter may perform such other duties as are assigned to such officer by or with the approval of the Judge Advocate General of the armed force of which such officer is a member or the designee of such Judge Advocate General.
 - **(f)** The convening authority of a military commission under this chapter may not prepare or review any report concerning the effectiveness, fitness, or efficiency of a military judge detailed to the military commission which relates to such judge’s performance of duty as a military judge on the military commission.
+
+Detail of Military Judge
+
+Eligibility
+
+Ineligibility of Certain Individuals
+
+Consultation With Members; Ineligibility to Vote
+
+Other Duties
+
+Prohibition on Evaluation of Fitness by Convening Authority
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title XVIII, § 1802](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2577](https://www.govinfo.gov/link/statute/123/2577).)*

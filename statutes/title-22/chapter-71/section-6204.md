@@ -3,9 +3,10 @@ title: "Section 6204 - Authorities of Chief Executive Officer"
 usc_title: 22
 usc_section: "6204"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6204"
-generated_at: "2026-03-30T02:55:05.425Z"
+generated_at: "2026-11-23T21:25:58.680Z"
+status: "active"
 ---
 
 # § 6204. Authorities of Chief Executive Officer
@@ -47,3 +48,33 @@ generated_at: "2026-03-30T02:55:05.425Z"
     - **(A)** The Chief Executive Officer may not serve on any of the corporate boards of any grantee under subsection (a).
     - **(B)** A full-time employee of a Federal agency may not serve on a corporate board of any grantee under subsection (a).
   - **(3)** Individuals appointed under subsection (a) to the Board of Directors of any of the Agency Grantee Networks shall have requisite expertise in journalism, technology, broadcasting, or diplomacy, or appropriate language or cultural understanding relevant to the grantee’s mission.
+
+International Broadcasting Operations Fund
+
+Broadcasting Capital Improvements Fund
+
+Use of Amounts
+
+Establishment
+
+Administration
+
+Objective
+
+Use of Amounts
+
+Transfers
+
+Authorization of Appropriations
+
+Transcription of Persian and Arabic Language Broadcasts
+
+Random Sampling; Public Availability
+
+Report
+
+Authorization of Appropriations
+
+## Source Credit
+
+*([Pub. L. 103–236, title III, § 305](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 435](https://www.govinfo.gov/link/statute/108/435); [Pub. L. 103–415, § 1(s)(1)](https://www.govinfo.gov/link/plaw/103/public/415), Oct. 25, 1994, [108 Stat. 4302](https://www.govinfo.gov/link/statute/108/4302); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XIII, § 1323(e)–(i), Oct. 21, 1998, [112 Stat. 2681–778](https://www.govinfo.gov/link/statute/112/2681), 2681–779; [Pub. L. 107–228, div. A, title V, § 507(1)](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1394](https://www.govinfo.gov/link/statute/116/1394); [Pub. L. 109–140, § 8](https://www.govinfo.gov/link/plaw/109/public/140), Dec. 22, 2005, [119 Stat. 2652](https://www.govinfo.gov/link/statute/119/2652); [Pub. L. 114–328, div. A, title XII, § 1288(2)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2549](https://www.govinfo.gov/link/statute/130/2549); [Pub. L. 116–283, div. A, title XII](https://www.govinfo.gov/link/plaw/116/public/283), §§ 1299P(c)(2), 1299Q(c), (e)(2), Jan. 1, 2021, [134 Stat. 4020](https://www.govinfo.gov/link/statute/134/4020), 4021, 4025; [Pub. L. 117–263, div. I, title XCVII, § 9706](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3915](https://www.govinfo.gov/link/statute/136/3915).)*

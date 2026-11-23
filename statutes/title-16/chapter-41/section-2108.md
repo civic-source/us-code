@@ -3,9 +3,10 @@ title: "Section 2108 - Consolidation of payments"
 usc_title: 16
 usc_section: "2108"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2108"
-generated_at: "2026-03-30T02:54:22.999Z"
+generated_at: "2026-11-23T21:25:51.943Z"
+status: "active"
 ---
 
 # § 2108. Consolidation of payments
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:22.999Z"
 - **(d)** The Secretary may make consolidated payments on the certificate of the State forester or equivalent State official that the conditions for Federal payment have been met.
 - **(e)** The Secretary shall administer this section to ensure that the use of consolidated payments does not adversely affect or eliminate any program authorized under this chapter.
 - **(f)** Subject to applicable appropriation Acts, the total annual amount of financial assistance to any participating State after July 1, 1978 , shall not be less than the base amount of financial assistance provided to that State under all the provisions of law specified in section 2111 of this title during the fiscal year in which this chapter is enacted. However, financial assistance for special projects of two years or less duration shall not be included in determining the base amount for any participating State.
+
+## Source Credit
+
+*([Pub. L. 95–313, § 12](https://www.govinfo.gov/link/plaw/95/public/313), formerly § 9, July 1, 1978, [92 Stat. 372](https://www.govinfo.gov/link/statute/92/372); renumbered § 12 and amended [Pub. L. 101–624, title XII](https://www.govinfo.gov/link/plaw/101/public/624), §§ 1215(1), 1224(2), Nov. 28, 1990, [104 Stat. 3525](https://www.govinfo.gov/link/statute/104/3525), 3542.)*

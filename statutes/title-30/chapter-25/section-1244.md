@@ -3,9 +3,10 @@ title: "Section 1244 - Remining incentives"
 usc_title: 30
 usc_section: "1244"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1244"
-generated_at: "2026-03-30T02:55:29.399Z"
+generated_at: "2026-11-23T21:26:00.423Z"
+status: "active"
 ---
 
 # § 1244. Remining incentives
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:29.399Z"
       - **(i)** remove or reprocess abandoned coal mine waste; or
       - **(ii)** conduct remining activities that meet the priorities specified in paragraph (1) or (2) of section 1233(a) of this title .
     - **(B)** The amount of a rebate or waiver provided as an incentive under paragraph (1)(A) to remine or reclaim eligible land shall not exceed the estimated cost of reclaiming the eligible land under this section.
+
+## Source Credit
+
+*([Pub. L. 95–87, title IV, § 415](https://www.govinfo.gov/link/plaw/95/public/87), as added [Pub. L. 109–432, div. C, title II, § 207](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 3018](https://www.govinfo.gov/link/statute/120/3018).)*

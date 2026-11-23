@@ -3,9 +3,10 @@ title: "Section 8561 - Extension of seasonal recreation opportunities"
 usc_title: 16
 usc_section: "8561"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8561"
-generated_at: "2026-03-30T02:54:23.088Z"
+generated_at: "2026-11-23T21:25:52.083Z"
+status: "active"
 ---
 
 # § 8561. Extension of seasonal recreation opportunities
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:23.088Z"
   - **(6)**
     - **(A)** The Secretary concerned may enter into agreements with businesses, local governments, or other entities to share the cost of additional expenses necessary to extend the period of time during which an area of, or infrastructure on, a unit of Federal recreational lands and waters is made open to the public.
     - **(B)** The Secretary concerned may accept in-kind contributions of goods and services provided by businesses, local governments, or other entities for purposes of paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 118–234, title III, § 331](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2911](https://www.govinfo.gov/link/statute/138/2911).)*

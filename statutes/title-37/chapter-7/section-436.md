@@ -3,9 +3,10 @@ title: "Section 436 - High-deployment allowance: lengthy or numerous deployments
 usc_title: 37
 usc_section: "436"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 436"
-generated_at: "2026-03-30T02:55:44.058Z"
+generated_at: "2026-11-23T21:26:14.241Z"
+status: "active"
 ---
 
 # § 436. High-deployment allowance: lengthy or numerous deployments; frequent mobilizations
@@ -25,3 +26,23 @@ generated_at: "2026-03-30T02:55:44.058Z"
 - **(f)** No allowance may be paid under this section to a member for any month during which the applicability of section 991 of title 10 to the member is suspended under subsection (d) of that section.
 - **(g)** The Secretary concerned may exclude members serving in specified duty assignments from eligibility for the high-deployment allowance while serving in those assignments. Any such specification of duty assignments may only be made with the approval of the Secretary of Defense, acting through the Under Secretary of Defense for Personnel and Readiness. Specification of a particular duty assignment for purposes of this subsection may not be implemented so as to apply to the member serving in that position at the time of such specification.
 - **(h)** The monthly allowance payable to a member under this section shall be paid from appropriations available for operation and maintenance for the armed force in which the member serves.
+
+Monthly Allowance
+
+Definition of Deployed
+
+Rate
+
+Payment of Claims
+
+Relationship to Other Allowances
+
+National Security Waiver
+
+Authority to Exclude Certain Duty Assignments
+
+Payment From Operation and Maintenance Funds
+
+## Source Credit
+
+*(Added [Pub. L. 106–65, div. A, title V, § 586(b)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 638](https://www.govinfo.gov/link/statute/113/638), § 435; renumbered § 436 and amended [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title V, § 574(c), title X, § 1087(b)(4)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–137, 1654A–292; [Pub. L. 107–107, div. A, title V, § 592(a)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1125](https://www.govinfo.gov/link/statute/115/1125); [Pub. L. 108–136, div. A, title V, § 541(b)(1)](https://www.govinfo.gov/link/plaw/108/public/136) –(5)(A), Nov. 24, 2003, [117 Stat. 1476](https://www.govinfo.gov/link/statute/117/1476), 1477; [Pub. L. 112–81, div. A, title V, § 530(a)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1403](https://www.govinfo.gov/link/statute/125/1403); [Pub. L. 115–232, div. A, title VI, § 602](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1794](https://www.govinfo.gov/link/statute/132/1794).)*

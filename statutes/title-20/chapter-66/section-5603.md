@@ -3,9 +3,10 @@ title: "Section 5603 - Establishment of Morris K. Udall and Stewart L. Udall Fou
 usc_title: 20
 usc_section: "5603"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 5603"
-generated_at: "2026-03-30T02:54:48.188Z"
+generated_at: "2026-11-23T21:25:47.468Z"
+status: "active"
 ---
 
 # § 5603. Establishment of Morris K. Udall and Stewart L. Udall Foundation
@@ -34,3 +35,9 @@ generated_at: "2026-03-30T02:54:48.188Z"
 - **(f)**
   - **(1)** There shall be an Executive Director of the Foundation who shall be appointed by the Board. The Executive Director shall be the chief executive officer of the Foundation and shall carry out the functions of the Foundation subject to the supervision and direction of the Board. The Executive Director shall carry out such other functions consistent with the provisions of this chapter as the Board shall prescribe.
   - **(2)** The Executive Director of the Foundation shall be compensated at a rate determined by the Board in accordance with section 5383 of title 5 .
+
+In general
+
+## Source Credit
+
+*([Pub. L. 102–259, § 5](https://www.govinfo.gov/link/plaw/102/public/259), Mar. 19, 1992, [106 Stat. 79](https://www.govinfo.gov/link/statute/106/79); [Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 655]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–314](https://www.govinfo.gov/link/statute/110/3009), 3009–369; [Pub. L. 105–156, § 3](https://www.govinfo.gov/link/plaw/105/public/156), Feb. 11, 1998, [112 Stat. 8](https://www.govinfo.gov/link/statute/112/8); [Pub. L. 111–90, § 5](https://www.govinfo.gov/link/plaw/111/public/90), Nov. 3, 2009, [123 Stat. 2977](https://www.govinfo.gov/link/statute/123/2977); [Pub. L. 116–94, div. P, title III, § 303](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3187](https://www.govinfo.gov/link/statute/133/3187).)*

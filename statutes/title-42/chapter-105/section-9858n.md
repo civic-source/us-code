@@ -3,9 +3,10 @@ title: "Section 9858n - Definitions"
 usc_title: 42
 usc_section: "9858n"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9858n"
-generated_at: "2026-03-30T02:56:11.375Z"
+generated_at: "2026-11-23T21:26:33.317Z"
+status: "active"
 ---
 
 # § 9858n. Definitions
@@ -42,3 +43,7 @@ As used in this subchapter:
   - **(15)**
     - **(A)** The term “tribal organization” has the meaning given it in section 5304( l ) of title 25.
     - **(B)** Such term includes a Native Hawaiian Organization, as defined in section 4909(4) 1 1 See References in Text note below. of title 20 and a private nonprofit organization established for the purpose of serving youth who are Indians or Native Hawaiians.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 658P](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 101–508, title V, § 5082(2)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–248](https://www.govinfo.gov/link/statute/104/1388); amended [Pub. L. 102–401, § 3](https://www.govinfo.gov/link/plaw/102/public/401), Oct. 7, 1992, [106 Stat. 1959](https://www.govinfo.gov/link/statute/106/1959); [Pub. L. 102–586, § 8(c)](https://www.govinfo.gov/link/plaw/102/public/586), Nov. 4, 1992, [106 Stat. 5036](https://www.govinfo.gov/link/statute/106/5036); [Pub. L. 103–171, § 8](https://www.govinfo.gov/link/plaw/103/public/171), Dec. 2, 1993, [107 Stat. 1994](https://www.govinfo.gov/link/statute/107/1994); [Pub. L. 104–193, title VI, § 614](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2287](https://www.govinfo.gov/link/statute/110/2287); [Pub. L. 105–33, title V, § 5602(5)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 646](https://www.govinfo.gov/link/statute/111/646); [Pub. L. 113–186, § 10](https://www.govinfo.gov/link/plaw/113/public/186), Nov. 19, 2014, [128 Stat. 2000](https://www.govinfo.gov/link/statute/128/2000); [Pub. L. 114–95, title IX, § 9215(p)(2)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2170](https://www.govinfo.gov/link/statute/129/2170).)*

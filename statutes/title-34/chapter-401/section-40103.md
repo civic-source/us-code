@@ -3,9 +3,10 @@ title: "Section 40103 - Funding for improvement of child abuse crime information
 usc_title: 34
 usc_section: "40103"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 40103"
-generated_at: "2026-03-30T02:55:33.308Z"
+generated_at: "2026-11-23T21:26:09.829Z"
+status: "active"
 ---
 
 # § 40103. Funding for improvement of child abuse crime information
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:33.308Z"
     - **(E)** to assist the State in paying all or part of the cost to the State of conducting background checks on persons who are employed by or volunteer with a public, not-for-profit, or voluntary qualified entity to reduce the amount of fees charged for such background checks.
   - **(2)** There are authorized to be appropriated for grants under paragraph (1) a total of $20,000,000 for fiscal years 1999, 2000, 2001, and 2002.
 - **(c)** Effective 1 year after December 20, 1993 , the Attorney General may reduce, by up to 10 percent, the allocation to a State for a fiscal year under title I of the Omnibus Crime Control and Safe Streets Act of 1968 [ 34 U.S.C. 10101 et seq.] that is not in compliance with the requirements of this chapter.
+
+## Source Credit
+
+*([Pub. L. 103–209, § 4](https://www.govinfo.gov/link/plaw/103/public/209), Dec. 20, 1993, [107 Stat. 2493](https://www.govinfo.gov/link/statute/107/2493); [Pub. L. 103–322, title XXXII, § 320928(d)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2132](https://www.govinfo.gov/link/statute/108/2132); [Pub. L. 105–251, title II, § 222(c)](https://www.govinfo.gov/link/plaw/105/public/251), Oct. 9, 1998, [112 Stat. 1885](https://www.govinfo.gov/link/statute/112/1885).)*

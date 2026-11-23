@@ -3,9 +3,10 @@ title: "Section 6701 - Global Climate Change Program"
 usc_title: 7
 usc_section: "6701"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6701"
-generated_at: "2026-03-30T02:53:42.433Z"
+generated_at: "2026-11-23T21:25:28.396Z"
+status: "active"
 ---
 
 # § 6701. Global Climate Change Program
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:42.433Z"
   - **(5)** represent the Department to the Office of Science and Technology Policy and coordinate the activities of the Department in response to requirements of this chapter;
   - **(6)** represent the Department on the Intergovernmental Panel on Climate Change; and
   - **(7)** review all Department budget items relating to climate change issues, including specifically the research budget to be submitted by the Secretary to the Office of Science and Technology Policy and the Office of Management and Budget.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XXIV, § 2402](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 4058](https://www.govinfo.gov/link/statute/104/4058).)*

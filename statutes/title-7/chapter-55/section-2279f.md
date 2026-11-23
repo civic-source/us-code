@@ -3,9 +3,10 @@ title: "Section 2279f - Subpoena authority"
 usc_title: 7
 usc_section: "2279f"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2279f"
-generated_at: "2026-03-30T02:53:42.384Z"
+generated_at: "2026-11-23T21:25:28.294Z"
+status: "active"
 ---
 
 # § 2279f. Subpoena authority
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.384Z"
 - **(d)** Witnesses summoned by the Secretary concerned shall be paid the same fees and mileage that are paid to witnesses in courts of the United States, and witnesses whose depositions are taken, and the persons taking the depositions shall be entitled to the same fees that are paid for similar services in the courts of the United States.
 - **(e)** The Secretary concerned shall publish procedures for the issuance of subpoenas under this section. Such procedures shall include a requirement that subpoenas be reviewed for legal sufficiency and signed by the Secretary concerned. If the authority to sign a subpoena is delegated, the agency receiving the delegation shall seek review for legal sufficiency outside that agency.
 - **(f)** Subpoenas for witnesses to attend court in any judicial district or testify or produce evidence at an administrative hearing in any judicial district in any action or proceeding arising under section 2279e of this title may run to any other judicial district.
+
+## Source Credit
+
+*([Pub. L. 106–224, title V, § 502](https://www.govinfo.gov/link/plaw/106/public/224), June 20, 2000, [114 Stat. 455](https://www.govinfo.gov/link/statute/114/455); [Pub. L. 107–296, title IV, § 421(h)(2)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2184](https://www.govinfo.gov/link/statute/116/2184).)*

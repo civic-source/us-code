@@ -3,9 +3,10 @@ title: "Section 4633 - Duties of lead agency"
 usc_title: 42
 usc_section: "4633"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4633"
-generated_at: "2026-03-30T02:56:11.207Z"
+generated_at: "2026-11-23T21:26:32.682Z"
+status: "active"
 ---
 
 # § 4633. Duties of lead agency
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.207Z"
   - **(4)** that each Federal agency that has programs or projects requiring the acquisition of real property or causing a displacement from real property subject to the provisions of this chapter shall provide to the lead agency an annual summary report the 1 1 So in original. Probably should be “that”. describes the activities conducted by the Federal agency.
 - **(c)** The regulations and procedures issued pursuant to this section shall apply to the Tennessee Valley Authority and the Rural Electrification Administration only with respect to relocation assistance under this subchapter and subchapter I.
 - **(d)** The head of the lead agency may adjust, by regulation, the amounts of relocation payments provided under sections 4622(a)(4), 4622(c), 4623(a), and 4624(a) of this title if the head of the lead agency determines that cost of living, inflation, or other factors indicate that the payments should be adjusted to meet the policy objectives of this chapter.
+
+## Source Credit
+
+*([Pub. L. 91–646, title II, § 213](https://www.govinfo.gov/link/plaw/91/public/646), Jan. 2, 1971, [84 Stat. 1900](https://www.govinfo.gov/link/statute/84/1900); [Pub. L. 100–17, title IV, § 412](https://www.govinfo.gov/link/plaw/100/public/17), Apr. 2, 1987, [101 Stat. 254](https://www.govinfo.gov/link/statute/101/254); [Pub. L. 102–240, title I, § 1055](https://www.govinfo.gov/link/plaw/102/public/240), Dec. 18, 1991, [105 Stat. 2002](https://www.govinfo.gov/link/statute/105/2002); [Pub. L. 105–117, § 2](https://www.govinfo.gov/link/plaw/105/public/117), Nov. 21, 1997, [111 Stat. 2385](https://www.govinfo.gov/link/statute/111/2385); [Pub. L. 112–141, div. A, title I, § 1521(d)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 578](https://www.govinfo.gov/link/statute/126/578).)*

@@ -3,9 +3,10 @@ title: "Section 8 - Vacancies"
 usc_title: 2
 usc_section: "8"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 8"
-generated_at: "2026-03-30T02:53:04.783Z"
+generated_at: "2026-11-23T21:25:21.107Z"
+status: "active"
 ---
 
 # § 8. Vacancies
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:53:04.783Z"
     - **(E)** The Americans With Disabilities Act of 1990 ( 42 U.S.C. 12101 et seq.), as amended.
     - **(F)** The Rehabilitation Act of 1973 ( 29 U.S.C. 701 et seq.), as amended.
     - **(G)** The Help America Vote Act of 2002 ( 42 U.S.C. 15301 et seq.) [now 52 U.S.C. 20901 et seq.], as amended.
+
+## Source Credit
+
+*(R.S. § 26; [Pub. L. 109–55, title III, § 301](https://www.govinfo.gov/link/plaw/109/public/55), Aug. 2, 2005, [119 Stat. 588](https://www.govinfo.gov/link/statute/119/588).)*

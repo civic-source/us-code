@@ -3,9 +3,10 @@ title: "Section 2063 - Product certification and labeling"
 usc_title: 15
 usc_section: "2063"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2063"
-generated_at: "2026-03-30T02:54:08.163Z"
+generated_at: "2026-11-23T21:25:39.906Z"
+status: "active"
 ---
 
 # § 2063. Product certification and labeling
@@ -122,3 +123,39 @@ generated_at: "2026-03-30T02:54:08.163Z"
   - **(4)** In consultation with the Commissioner of U.S. Customs and Border Protection, the Commission may, by rule, provide for the electronic filing of certificates under this section up to 24 hours before arrival of an imported product. Upon request, the manufacturer or private labeler issuing the certificate shall furnish a copy to the Commission and to the Commissioner of U.S. Customs and Border Protection.
 - **(h)** Compliance of any children’s product with third party testing and certification or general conformity certification requirements under this section shall not be construed to exempt such children’s product from any requirement that such product actually be in conformity with all applicable rules, regulation, standards, or ban under any Act enforced by the Commission.
 - **(i)** No advertisement for a consumer product or label or packaging of such product may contain a reference to a consumer product safety rule or a voluntary consumer product safety standard unless such product conforms with the applicable safety requirements of such rule or standard.
+
+General conformity certification
+
+Third party testing requirement
+
+Schedule for implementation of third party testing.—
+
+General application
+
+Time line for accreditation.—
+
+Lead paint
+
+Full-size cribs; non full-size cribs; pacifiers
+
+Small parts
+
+Children’s metal jewelry
+
+Baby bouncers, walkers, and jumpers
+
+All other children’s product safety rules
+
+Accreditation
+
+Periodic review
+
+Publication of accredited entities
+
+Extension
+
+Rulemaking
+
+## Source Credit
+
+*([Pub. L. 92–573, § 14](https://www.govinfo.gov/link/plaw/92/public/573), Oct. 27, 1972, [86 Stat. 1220](https://www.govinfo.gov/link/statute/86/1220); [Pub. L. 110–314, title I](https://www.govinfo.gov/link/plaw/110/public/314), §§ 102(a)(1)(A), (2), (3), (b), (d), 103, Aug. 14, 2008, [122 Stat. 3022](https://www.govinfo.gov/link/statute/122/3022), 3024, 3027, 3028; [Pub. L. 112–28](https://www.govinfo.gov/link/plaw/112/public/28), §§ 2(a), 6, 10(a), Aug. 12, 2011, [125 Stat. 276](https://www.govinfo.gov/link/statute/125/276), 281, 283; [Pub. L. 114–125, title VIII, § 802(d)(2)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 210](https://www.govinfo.gov/link/statute/130/210).)*

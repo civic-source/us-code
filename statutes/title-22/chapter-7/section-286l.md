@@ -3,12 +3,21 @@ title: "Section 286l - British loan; authorization to Secretary of the Treasury 
 usc_title: 22
 usc_section: "286l"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 286l"
-generated_at: "2026-03-30T02:55:05.319Z"
+generated_at: "2026-11-23T21:25:58.363Z"
+status: "active"
 ---
 
 # § 286l. British loan; authorization to Secretary of the Treasury to carry out agreement
 
 The Secretary of the Treasury, in consultation with the National Advisory Council on International Monetary and Financial Problems, is authorized to carry out the agreement dated December 6, 1945 , between the United States and the United Kingdom which was transmitted by the President to the Congress on January 30, 1946 , and the action of the Secretary of the Treasury in signing the agreement dated March 6, 1957 , amending said agreement is approved.
 
+
+Fred M. Vinson,
+
+Halifax.
+
+## Source Credit
+
+*(July 15, 1946, ch. 577, § 1, [60 Stat. 535](https://www.govinfo.gov/link/statute/60/535); [Pub. L. 85–21](https://www.govinfo.gov/link/plaw/85/public/21), Apr. 20, 1957, [71 Stat. 17](https://www.govinfo.gov/link/statute/71/17).)*

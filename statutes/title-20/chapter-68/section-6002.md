@@ -3,9 +3,10 @@ title: "Section 6002 - Findings"
 usc_title: 20
 usc_section: "6002"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6002"
-generated_at: "2026-03-30T02:54:48.190Z"
+generated_at: "2026-11-23T21:25:47.479Z"
+status: "active"
 ---
 
 # § 6002. Findings
@@ -27,3 +28,7 @@ The Congress finds as follows with respect to improving education in the United 
   - **(9)** Greater use should be made of existing technologies in efforts to improve the educational system of the United States, including efforts to disseminate research findings.
   - **(10)** Minority educational researchers are inadequately represented throughout the Department of Education, but particularly in the Office. The Office therefore should assume a leadership position in the recruitment, retention, and promotion of qualified minority educational researchers.
   - **(11)** The coordination of the mission of the Office with that of other components of the Department of Education is critical. The Office should improve the coordination of the educational research, development, and dissemination function with those of other Federal agencies.
+
+## Source Credit
+
+*([Pub. L. 103–227, title IX, § 902](https://www.govinfo.gov/link/plaw/103/public/227), Mar. 31, 1994, [108 Stat. 212](https://www.govinfo.gov/link/statute/108/212).)*

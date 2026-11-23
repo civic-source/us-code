@@ -3,12 +3,17 @@ title: "Section 401 - Amounts collected from defaulting contractors and their su
 usc_title: 43
 usc_section: "401"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 401"
-generated_at: "2026-03-30T02:55:57.446Z"
+generated_at: "2026-11-23T21:26:19.775Z"
+status: "active"
 ---
 
 # § 401. Amounts collected from defaulting contractors and their sureties
 
 Any amounts collected from defaulting contractors or their sureties, including collections heretofore made, in connection with contracts entered into under the reclamation law, either collected in cash or by deduction from amounts otherwise due such contractors, shall be covered into the reclamation fund and shall be credited to the project or operation for or on account of which such contract was made.
 
+
+## Source Credit
+
+*(June 6, 1930, ch. 410, [46 Stat. 522](https://www.govinfo.gov/link/statute/46/522).)*

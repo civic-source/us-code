@@ -3,9 +3,10 @@ title: "Section 7291 - Awards for academic enrichment"
 usc_title: 20
 usc_section: "7291"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7291"
-generated_at: "2026-03-30T02:54:48.209Z"
+generated_at: "2026-11-23T21:25:47.571Z"
+status: "active"
 ---
 
 # § 7291. Awards for academic enrichment
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:48.209Z"
   - **(2)** school readiness through the development and dissemination of accessible instructional programming for preschool and elementary school children and their families, as described in section 7293 of this title ; and
   - **(3)** support for high-ability learners and high-ability learning, as described in section 7294 of this title .
 - **(b)** The Secretary shall annually make awards to fulfill each of the purposes described in paragraphs (1) through (3) of subsection (a).
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4641](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title IV, § 4601](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2033](https://www.govinfo.gov/link/statute/129/2033).)*

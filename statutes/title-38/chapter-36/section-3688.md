@@ -3,9 +3,10 @@ title: "Section 3688 - Measurement of courses"
 usc_title: 38
 usc_section: "3688"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3688"
-generated_at: "2026-03-30T02:55:53.509Z"
+generated_at: "2026-11-23T21:26:16.764Z"
+status: "active"
 ---
 
 # § 3688. Measurement of courses
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:53.509Z"
   - **(6)** an institutional course offered as part of a program of education, not leading to a standard college degree, under section 3034(a)(3), 3241(a)(2), or 3533(a) of this title shall be considered a full-time course on the basis of measurement criteria provided in clause (2), (3), or (4) of this subsection as determined by the educational institution; and
   - **(7)** an institutional course not leading to a standard college degree offered by an educational institution on a standard quarter- or semester-hour basis shall be measured as full time on the same basis as provided in paragraph (4) of this subsection, but if the educational institution offering the course is not an institution of higher learning, then in no event shall such course be considered full time when it requires less than the minimum weekly hours of attendance required for full time by paragraph (1) or (2) of this subsection, as appropriate.
 - **(b)** The Secretary shall define part-time training in the case of the types of courses referred to in subsection (a), and shall define full-time and part-time training in the case of all other types of courses pursued under this chapter, chapter 30, 32, 33, or 35 of this title, or chapter 106 of title 10.
+
+## Source Credit
+
+*(Added [Pub. L. 92–540, title III, § 316(2)](https://www.govinfo.gov/link/plaw/92/public/540), Oct. 24, 1972, [86 Stat. 1086](https://www.govinfo.gov/link/statute/86/1086), § 1788; amended [Pub. L. 93–508, title II, § 211](https://www.govinfo.gov/link/plaw/93/public/508), Dec. 3, 1974, [88 Stat. 1585](https://www.govinfo.gov/link/statute/88/1585); [Pub. L. 94–502, title V, § 509(a)](https://www.govinfo.gov/link/plaw/94/public/502), Oct. 15, 1976, [90 Stat. 2400](https://www.govinfo.gov/link/statute/90/2400); [Pub. L. 95–202, title III, § 304(a)(3)](https://www.govinfo.gov/link/plaw/95/public/202), Nov. 23, 1977, [91 Stat. 1442](https://www.govinfo.gov/link/statute/91/1442); [Pub. L. 96–466, title III, § 345](https://www.govinfo.gov/link/plaw/96/public/466), title VI, § 601(f), Oct. 17, 1980, [94 Stat. 2199](https://www.govinfo.gov/link/statute/94/2199), 2208; [Pub. L. 97–295, § 4(58)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1309](https://www.govinfo.gov/link/statute/96/1309); [Pub. L. 99–576, title III, § 315(a)(2)](https://www.govinfo.gov/link/plaw/99/public/576), (b), Oct. 28, 1986, [100 Stat. 3274](https://www.govinfo.gov/link/statute/100/3274); [Pub. L. 100–322, title III, § 321(a)](https://www.govinfo.gov/link/plaw/100/public/322), May 20, 1988, [102 Stat. 535](https://www.govinfo.gov/link/statute/102/535); [Pub. L. 101–237, title IV](https://www.govinfo.gov/link/plaw/101/public/237), §§ 413(a), 417, 423(b)(1)(A), Dec. 18, 1989, [103 Stat. 2085](https://www.govinfo.gov/link/statute/103/2085), 2086, 2092; renumbered § 3688 and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 102–568, title III, § 316(a)](https://www.govinfo.gov/link/plaw/102/public/568), Oct. 29, 1992, [106 Stat. 4333](https://www.govinfo.gov/link/statute/106/4333); [Pub. L. 103–446, title VI, § 607](https://www.govinfo.gov/link/plaw/103/public/446), title XII, § 1201(e)(12), Nov. 2, 1994, [108 Stat. 4672](https://www.govinfo.gov/link/statute/108/4672), 4685; [Pub. L. 110–252, title V, § 5003(b)(2)(A)(ii)](https://www.govinfo.gov/link/plaw/110/public/252), June 30, 2008, [122 Stat. 2375](https://www.govinfo.gov/link/statute/122/2375).)*

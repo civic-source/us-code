@@ -3,9 +3,10 @@ title: "Section 473 - Qualified liquidations of LIFO inventories"
 usc_title: 26
 usc_section: "473"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 473"
-generated_at: "2026-03-30T02:55:27.707Z"
+generated_at: "2026-11-23T21:26:06.300Z"
+status: "active"
 ---
 
 # § 473. Qualified liquidations of LIFO inventories
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:55:27.707Z"
     - **(B)** the assessment of a deficiency, or the allowance of a credit or refund of an overpayment of tax attributable to such adjustment, for any taxable year, is otherwise prevented by the operation of any law or rule of law (other than section 7122, relating to compromises),
   - **(2)** Solely for purposes of determining interest on any overpayment or underpayment attributable to an adjustment made under this section, such overpayment or underpayment shall be treated as an overpayment or underpayment (as the case may be) for the replacement year.
 - **(g)** The Secretary shall prescribe such regulations as may be necessary to coordinate the provisions of this section with the provisions of section 472.
+
+## Source Credit
+
+*(Added [Pub. L. 96–223, title IV, § 403(a)(1)](https://www.govinfo.gov/link/plaw/96/public/223), Apr. 2, 1980, [94 Stat. 302](https://www.govinfo.gov/link/statute/94/302).)*

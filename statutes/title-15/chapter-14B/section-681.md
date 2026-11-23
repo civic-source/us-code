@@ -3,9 +3,10 @@ title: "Section 681 - Organization"
 usc_title: 15
 usc_section: "681"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 681"
-generated_at: "2026-03-30T02:54:08.109Z"
+generated_at: "2026-11-23T21:25:39.709Z"
+status: "active"
 ---
 
 # § 681. Organization
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:54:08.109Z"
   - **(2)** Fees collected under this subsection—
     - **(A)** shall be deposited in the account for salaries and expenses of the Administration; and
     - **(B)** are authorized to be appropriated solely to cover the costs of licensing examinations.
+
+## Source Credit
+
+*([Pub. L. 85–699, title III, § 301](https://www.govinfo.gov/link/plaw/85/public/699), Aug. 21, 1958, [72 Stat. 691](https://www.govinfo.gov/link/statute/72/691); [Pub. L. 86–502, § 4](https://www.govinfo.gov/link/plaw/86/public/502), June 11, 1960, [74 Stat. 196](https://www.govinfo.gov/link/statute/74/196); [Pub. L. 87–341, § 11(a)](https://www.govinfo.gov/link/plaw/87/public/341), (b), Oct. 3, 1961, [75 Stat. 756](https://www.govinfo.gov/link/statute/75/756); [Pub. L. 90–104, title II, § 202](https://www.govinfo.gov/link/plaw/90/public/104), Oct. 11, 1967, [81 Stat. 269](https://www.govinfo.gov/link/statute/81/269); [Pub. L. 92–595, § 2(b)](https://www.govinfo.gov/link/plaw/92/public/595), Oct. 27, 1972, [86 Stat. 1314](https://www.govinfo.gov/link/statute/86/1314); [Pub. L. 94–305, title I, § 106(b)](https://www.govinfo.gov/link/plaw/94/public/305) –(d), June 4, 1976, [90 Stat. 666](https://www.govinfo.gov/link/statute/90/666); [Pub. L. 95–507, title I, § 104](https://www.govinfo.gov/link/plaw/95/public/507), Oct. 24, 1978, [92 Stat. 1758](https://www.govinfo.gov/link/statute/92/1758); [Pub. L. 100–590, title I, § 105](https://www.govinfo.gov/link/plaw/100/public/590), Nov. 3, 1988, [102 Stat. 2993](https://www.govinfo.gov/link/statute/102/2993); [Pub. L. 104–208, div. D, title II, § 208(b)(1)](https://www.govinfo.gov/link/plaw/104/public/208) –(3)(A), Sept. 30, 1996, [110 Stat. 3009–741](https://www.govinfo.gov/link/statute/110/3009), 3009–742; [Pub. L. 105–135, title II](https://www.govinfo.gov/link/plaw/105/public/135), §§ 212, 214, Dec. 2, 1997, [111 Stat. 2601](https://www.govinfo.gov/link/statute/111/2601); [Pub. L. 115–333, § 2(2)](https://www.govinfo.gov/link/plaw/115/public/333), Dec. 19, 2018, [132 Stat. 4488](https://www.govinfo.gov/link/statute/132/4488).)*

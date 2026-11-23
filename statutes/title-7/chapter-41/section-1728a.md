@@ -3,9 +3,10 @@ title: "Section 1728a - President’s Emergency Food Assistance Fund"
 usc_title: 7
 usc_section: "1728a"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1728a"
-generated_at: "2026-03-30T02:53:42.338Z"
+generated_at: "2026-11-23T21:25:28.163Z"
+status: "active"
 ---
 
 # § 1728a. President’s Emergency Food Assistance Fund
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:42.338Z"
 - **(b)** Because the effects of severe food shortages will vary with the country or region, assistance to alleviate human suffering may include the provision of food assistance or such activities as the provision of seed, animal fodder, animal vaccines, and transportation (including inland transportation) and distribution services.
 - **(c)** There are authorized to be appropriated to the President $50,000,000 each for fiscal year 1985 and fiscal year 1986 to carry out the purposes of this subchapter, to remain available until expanded. 1 1 So in original. Probably should be “expended.”
 - **(d)** The President may make loans, advances, and grants to, make and perform agreements and contracts with, or enter into transactions with, any individual, corporation, or other body of persons, government or government agency, whether within or without the United States, and international and intergovernmental organizations in furtherance of the purposes and within the limitations of this subchapter.
+
+## Source Credit
+
+*([Pub. L. 98–473, title III, § 303](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2194](https://www.govinfo.gov/link/statute/98/2194).)*

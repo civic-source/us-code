@@ -3,9 +3,10 @@ title: "Section 182c - Revolving fund for FEDLINK program and Federal Research p
 usc_title: 2
 usc_section: "182c"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 182c"
-generated_at: "2026-03-30T02:53:04.792Z"
+generated_at: "2026-11-23T21:25:21.147Z"
+status: "active"
 ---
 
 # § 182c. Revolving fund for FEDLINK program and Federal Research program
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:04.792Z"
     - **(B)** Related accounting services.
     - **(C)** Related education, information, and support services.
   - **(2)** In this section, the “Federal Research program” is the program of the Library of Congress under which the Librarian provides research reports, translations, and analytical studies for entities of the Federal Government and the District of Columbia (other than any program of the Congressional Research Service).
+
+## Source Credit
+
+*([Pub. L. 106–481, title I, § 103](https://www.govinfo.gov/link/plaw/106/public/481), Nov. 9, 2000, [114 Stat. 2189](https://www.govinfo.gov/link/statute/114/2189); [Pub. L. 115–141, div. I, title I, § 151(2)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 784](https://www.govinfo.gov/link/statute/132/784).)*

@@ -3,9 +3,10 @@ title: "Section 1755a - Whole grain products"
 usc_title: 42
 usc_section: "1755a"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1755a"
-generated_at: "2026-03-30T02:56:11.108Z"
+generated_at: "2026-11-23T21:26:32.116Z"
+status: "active"
 ---
 
 # § 1755a. Whole grain products
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.108Z"
   - **(3)** any recommendations of the Secretary regarding the integration of whole grain products in the school lunch and breakfast programs; and
   - **(4)** an evaluation of any other outcomes determined to be appropriate by the Secretary.
 - **(e)** As soon as practicable after the completion of the evaluation under subsection (d), the Secretary shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Education and Labor of the House of Representative 1 1 So in original. Probably should be “Representatives”. a report describing the results of the evaluation.
+
+## Source Credit
+
+*([Pub. L. 110–234, title IV, § 4305](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1131](https://www.govinfo.gov/link/statute/122/1131); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4305, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1892.)*

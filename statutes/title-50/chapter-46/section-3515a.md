@@ -3,9 +3,10 @@ title: "Section 3515a - Authority regarding unmanned aircraft systems"
 usc_title: 50
 usc_section: "3515a"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3515a"
-generated_at: "2026-03-30T02:56:26.254Z"
+generated_at: "2026-11-23T21:26:39.055Z"
+status: "active"
 ---
 
 # § 3515a. Authority regarding unmanned aircraft systems
@@ -129,3 +130,7 @@ generated_at: "2026-03-30T02:56:26.254Z"
   - **(4)** The terms “electronic communication”, “intercept”, “oral communication”, and “wire communication” have the meanings given those terms in section 2510 of title 18 .
   - **(5)** The term “United States” has the meaning given that term in section 5 of title 18 .
   - **(6)** The term “unmanned aircraft system” has the meaning given the term in section 44801 of title 49 .
+
+## Source Credit
+
+*(June 20, 1949, ch. 227, § 15A, as added [Pub. L. 119–60, div. F, title LXV, § 6502(b)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1620](https://www.govinfo.gov/link/statute/139/1620).)*

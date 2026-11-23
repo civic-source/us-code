@@ -3,9 +3,10 @@ title: "Section 973 - Definitions"
 usc_title: 16
 usc_section: "973"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 973"
-generated_at: "2026-03-30T02:54:22.937Z"
+generated_at: "2026-11-23T21:25:51.799Z"
+status: "active"
 ---
 
 # § 973. Definitions
@@ -34,3 +35,7 @@ As used in this chapter—
   - **(14)** The term “Secretary” means the Secretary of Commerce, or the designee of the Secretary of Commerce.
   - **(15)** The term “State” means each of the several States, the District of Columbia, the Commonwealths of Puerto Rico and the Northern Mariana Islands, American Samoa, the Virgin Islands, Guam, and any other Commonwealth, territory, or possession of the United States.
   - **(16)** The term “Treaty” means the Treaty on Fisheries Between the Governments of Certain Pacific Island States and the Government of the United States of America, signed in Port Moresby, Papua New Guinea, April 2, 1987 , and its Annexes, Schedules, and implementing agreements.
+
+## Source Credit
+
+*([Pub. L. 100–330, § 2](https://www.govinfo.gov/link/plaw/100/public/330), June 7, 1988, [102 Stat. 591](https://www.govinfo.gov/link/statute/102/591); [Pub. L. 119–60, div. H, title LXXXIV, § 8412](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1914](https://www.govinfo.gov/link/statute/139/1914).)*

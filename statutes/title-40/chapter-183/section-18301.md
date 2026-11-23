@@ -3,9 +3,10 @@ title: "Section 18301 - Findings and purposes"
 usc_title: 40
 usc_section: "18301"
 chapter: 183
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 18301"
-generated_at: "2026-03-30T02:55:43.390Z"
+generated_at: "2026-11-23T21:26:14.990Z"
+status: "active"
 ---
 
 # § 18301. Findings and purposes
@@ -19,3 +20,26 @@ generated_at: "2026-03-30T02:55:43.390Z"
   - **(6)** imposition of mandatory standards applicable to arbitrators resolving arbitration disputes involving interstate compact agencies operating in the national capital area will ensure that wage increases are justified and do not exceed the ability of transit patrons and taxpayers to fund the increase; and
   - **(7)** federal legislation is necessary under section 8 of Article I of the United States Constitution to balance the need to moderate and lower labor costs while maintaining industrial peace.
 - **(b)** The purpose of this chapter is to adopt standards governing arbitration that must be applied by arbitrators resolving disputes involving interstate compact agencies operating in the national capital area in order to lower operating costs for public transportation in the Washington metropolitan area.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 18301 | 40:1301. | Pub. L. 104–50, title IV, § 402 , Nov. 15, 1995 , 109 Stat. 463 . |
+
+
+Findings
+
+Purpose
+
+Historical and Revision Notes
+
+18301
+
+Pub. L. 104–50, title IV, § 402
+
+Nov. 15, 1995
+
+109 Stat. 463
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1291](https://www.govinfo.gov/link/statute/116/1291).)*

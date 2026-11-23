@@ -3,9 +3,10 @@ title: "Section 2064 - Substantial product hazards"
 usc_title: 15
 usc_section: "2064"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2064"
-generated_at: "2026-03-30T02:54:08.164Z"
+generated_at: "2026-11-23T21:25:39.907Z"
+status: "active"
 ---
 
 # § 2064. Substantial product hazards
@@ -75,3 +76,17 @@ generated_at: "2026-03-30T02:54:08.164Z"
     - **(A)** such characteristics are readily observable and have been addressed by voluntary standards; and
     - **(B)** such standards have been effective in reducing the risk of injury from consumer products and that there is substantial compliance with such standards.
   - **(2)** Not later than 60 days after promulgation of a rule under paragraph (1), any person adversely affected by such rule may file a petition for review under the procedures set forth in section 2060 of this title .
+
+Reports to Consumer Product Safety Commission.—
+
+Requirement to report
+
+Treatment under cpsa
+
+Effect on liability
+
+Confidentiality Protections
+
+## Source Credit
+
+*([Pub. L. 92–573, § 15](https://www.govinfo.gov/link/plaw/92/public/573), Oct. 27, 1972, [86 Stat. 1221](https://www.govinfo.gov/link/statute/86/1221); [Pub. L. 94–284, § 12(a)](https://www.govinfo.gov/link/plaw/94/public/284), May 11, 1976, [90 Stat. 508](https://www.govinfo.gov/link/statute/90/508); [Pub. L. 97–35, title XII, § 1211(h)(4)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 723](https://www.govinfo.gov/link/statute/95/723); [Pub. L. 97–414, § 9(j)(3)](https://www.govinfo.gov/link/plaw/97/public/414), (m), Jan. 4, 1983, [96 Stat. 2064](https://www.govinfo.gov/link/statute/96/2064), 2065; [Pub. L. 100–418, title I, § 1214(d)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1156](https://www.govinfo.gov/link/statute/102/1156); [Pub. L. 101–608, title I](https://www.govinfo.gov/link/plaw/101/public/608), §§ 111(a)(2), 112(a), 113, Nov. 16, 1990, [104 Stat. 3114](https://www.govinfo.gov/link/statute/104/3114), 3115, 3117; [Pub. L. 110–314, title II](https://www.govinfo.gov/link/plaw/110/public/314), §§ 214, 223(a), Aug. 14, 2008, [122 Stat. 3052](https://www.govinfo.gov/link/statute/122/3052), 3068.)*

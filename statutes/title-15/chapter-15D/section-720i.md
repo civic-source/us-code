@@ -3,9 +3,10 @@ title: "Section 720i - Sense of Congress concerning use of steel manufactured in
 usc_title: 15
 usc_section: "720i"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 720i"
-generated_at: "2026-03-30T02:54:08.121Z"
+generated_at: "2026-11-23T21:25:39.758Z"
+status: "active"
 ---
 
 # § 720i. Sense of Congress concerning use of steel manufactured in North America and negotiation of a project labor agreement
@@ -16,3 +17,7 @@ It is the sense of Congress that—
   - **(2)** to maximize those benefits, the sponsors of the Alaska natural gas transportation project should make every effort to—
     - **(A)** use steel that is manufactured in North America; and
     - **(B)** negotiate a project labor agreement to expedite construction of the pipeline.
+
+## Source Credit
+
+*([Pub. L. 108–324, div. C, § 111](https://www.govinfo.gov/link/plaw/108/public/324), Oct. 13, 2004, [118 Stat. 1263](https://www.govinfo.gov/link/statute/118/1263).)*

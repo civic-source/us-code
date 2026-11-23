@@ -3,9 +3,10 @@ title: "Section 1 - Powers and duties of a trustee"
 usc_title: 15
 usc_section: "1"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-30T02:54:08.062Z"
+generated_at: "2026-11-23T21:25:39.578Z"
+status: "active"
 ---
 
 # § 78fff–1. Powers and duties of a trustee
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:08.062Z"
   - **(2)** examine, by deposition or otherwise, the directors and officers of the debtor and any other witnesses concerning any of the matters referred to in paragraph (1);
   - **(3)** report to the court any facts ascertained by the trustee with respect to fraud, misconduct, mismanagement, and irregularities, and to any causes of action available to the estate; and
   - **(4)** as soon as practicable, prepare and submit, to SIPC and such other persons as the court designates and in such form and manner as the court directs, a statement of his investigation of matters referred to in paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 91–598, § 7](https://www.govinfo.gov/link/plaw/91/public/598), as added [Pub. L. 95–283, § 9](https://www.govinfo.gov/link/plaw/95/public/283), May 21, 1978, [92 Stat. 260](https://www.govinfo.gov/link/statute/92/260); amended [Pub. L. 95–598, title III, § 308(i)](https://www.govinfo.gov/link/plaw/95/public/598) –(k), Nov. 6, 1978, [92 Stat. 2675](https://www.govinfo.gov/link/statute/92/2675).)*

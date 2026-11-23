@@ -3,9 +3,10 @@ title: "Section 6934b - Agricultural Youth Organization Coordinator"
 usc_title: 7
 usc_section: "6934b"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6934b"
-generated_at: "2026-03-30T02:53:42.440Z"
+generated_at: "2026-11-23T21:25:28.406Z"
+status: "active"
 ---
 
 # § 6934b. Agricultural Youth Organization Coordinator
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:42.440Z"
   - **(3)** the conduct of workshops, courses, and certified vocational training;
   - **(4)** the conduct of mentoring activities; or
   - **(5)** the provision of internship opportunities.
+
+## Source Credit
+
+*([Pub. L. 107–171, title VII, § 7405](https://www.govinfo.gov/link/plaw/107/public/171), as added [Pub. L. 115–334, title XII, § 12305](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4967](https://www.govinfo.gov/link/statute/132/4967).)*

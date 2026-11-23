@@ -3,9 +3,10 @@ title: "Section 1 - Offenses in relation to sampling of cotton for classificatio
 usc_title: 7
 usc_section: "1"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-30T02:53:42.285Z"
+generated_at: "2026-11-23T21:25:27.961Z"
+status: "active"
 ---
 
 # § 473c–1. Offenses in relation to sampling of cotton for classification
@@ -19,3 +20,7 @@ It shall be unlawful—
 - **(e)** for any person knowingly to submit more than one sample from the same bale of cotton for classification under this chapter, except a second sample submitted for review classification;
 - **(f)** for any person knowingly to operate or adjust a mechanical cotton sampler in such a manner that a representative sample is not drawn from each bale; and
 - **(g)** for any person knowingly to violate any regulation of the Secretary of Agriculture relating to the sampling of cotton made pursuant to section 473c of this title .
+
+## Source Credit
+
+*(Mar. 3, 1927, ch. 337, § 3c–1, as added [Pub. L. 86–588](https://www.govinfo.gov/link/plaw/86/public/588), July 5, 1960, [74 Stat. 328](https://www.govinfo.gov/link/statute/74/328).)*

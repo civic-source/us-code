@@ -3,9 +3,10 @@ title: "Section 244c - Cardiomyopathy research"
 usc_title: 42
 usc_section: "244c"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 244c"
-generated_at: "2026-03-30T02:56:10.692Z"
+generated_at: "2026-11-23T21:26:30.257Z"
+status: "active"
 ---
 
 # § 244c. Cardiomyopathy research
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:10.692Z"
     - **(B)** plans for researching cardiomyopathy affecting the pediatric population; and
     - **(C)** the areas of greatest need for such research.
 - **(d)** In this section, the term “cardiomyopathy” has the meaning given to such term in section 244a of this title .
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 312C, as added [Pub. L. 118–176, § 2(a)](https://www.govinfo.gov/link/plaw/118/public/176), Dec. 23, 2024, [138 Stat. 2608](https://www.govinfo.gov/link/statute/138/2608).)*

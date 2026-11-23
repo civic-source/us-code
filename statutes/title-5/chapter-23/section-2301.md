@@ -3,9 +3,10 @@ title: "Section 2301 - Merit system principles"
 usc_title: 5
 usc_section: "2301"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 2301"
-generated_at: "2026-03-30T02:52:55.997Z"
+generated_at: "2026-11-23T21:25:23.123Z"
+status: "active"
 ---
 
 # § 2301. Merit system principles
@@ -30,3 +31,101 @@ generated_at: "2026-03-30T02:52:55.997Z"
 - **(c)** In administering the provisions of this chapter—
   - **(1)** with respect to any agency (as defined in section 2302(a)(2)(C) of this title ), the President shall, pursuant to the authority otherwise available under this title, take any action, including the issuance of rules, regulations, or directives; and
   - **(2)** with respect to any entity in the executive branch which is not such an agency or part of such an agency, the head of such entity shall, pursuant to authority otherwise available, take any action, including the issuance of rules, regulations, or directives;
+
+“In consultation with the Special Counsel and the Inspector General of the agency (or senior ethics official of the agency for an agency without an Inspector General), the head of each agency shall provide training regarding how to respond to complaints alleging a violation of whistleblower protections (as defined in [former] section 2307 of title 5 , United States Code, as added by section 107) available to employees of the agency—
+
+Short Title
+
+Table of Contents
+
+Applicability
+
+Requirement
+
+Scope
+
+In General
+
+Posting on the Internet
+
+Employee Training
+
+Notification of Final Agency Action.—
+
+In general
+
+Events described
+
+Contents
+
+Annual Report
+
+First Report
+
+Disciplinary Action Report
+
+Issuance of Rules and Guidelines
+
+Agency Notification Regarding Implementation of Guidelines
+
+Study on Exhaustion of Administrative Remedies.—
+
+Study.—
+
+In general
+
+Contents
+
+Report
+
+Study on Ascertainment of Certain Costs of the Department of Justice in Defending Discrimination and Whistleblower Cases.—
+
+Study
+
+Report
+
+Studies on Statutory Effects on Agency Operations.—
+
+In general
+
+Contents
+
+Reports
+
+Study on Administrative and Personnel Costs Incurred by the Department of the Treasury.—
+
+In general
+
+Report
+
+In General
+
+Content Requirements
+
+Timing and Other Requirements.—
+
+Current year data
+
+Data for prior years
+
+In General
+
+Specific Requirements
+
+Coordination
+
+EEOC Findings of Discrimination.—
+
+In general
+
+Notifications
+
+Referrals to Special Counsel
+
+Notification
+
+Special Counsel Approval
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title I, § 101(a)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1113](https://www.govinfo.gov/link/statute/92/1113); amended [Pub. L. 101–474, § 5(c)](https://www.govinfo.gov/link/plaw/101/public/474), Oct. 30, 1990, [104 Stat. 1099](https://www.govinfo.gov/link/statute/104/1099); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537).)*

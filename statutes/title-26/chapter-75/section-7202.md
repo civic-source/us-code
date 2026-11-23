@@ -3,12 +3,17 @@ title: "Section 7202 - Willful failure to collect or pay over tax"
 usc_title: 26
 usc_section: "7202"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7202"
-generated_at: "2026-03-30T02:55:27.868Z"
+generated_at: "2026-11-23T21:26:06.942Z"
+status: "active"
 ---
 
 # § 7202. Willful failure to collect or pay over tax
 
 Any person required under this title to collect, account for, and pay over any tax imposed by this title who willfully fails to collect or truthfully account for and pay over such tax shall, in addition to other penalties provided by law, be guilty of a felony and, upon conviction thereof, shall be fined not more than $10,000, or imprisoned not more than 5 years, or both, together with the costs of prosecution.
 
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 851.)*

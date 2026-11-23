@@ -3,9 +3,10 @@ title: "Section 916d - Licenses"
 usc_title: 16
 usc_section: "916d"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 916d"
-generated_at: "2026-03-30T02:54:22.934Z"
+generated_at: "2026-11-23T21:25:51.792Z"
+status: "active"
 ---
 
 # § 916d. Licenses
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:22.934Z"
 - **(c)** All moneys derived from the issuance of whaling licenses shall be covered into the Treasury of the United States, and no license fee shall be refunded by reason of the failure of any person to whom a license has been issued to utilize the facility in whaling for which such license was issued.
 - **(d)** Any person, in making application for a license to operate a whale catcher, must furnish evidence or affidavit satisfactory to the Secretary of Commerce that, in addition to conforming to other applicable laws and regulations, (1) the whale catcher is adequately equipped and competently manned to engage in whaling in accordance with the provisions of the convention, the regulations of the Commission, and the regulations of the Secretary of Commerce; (2) gunners and crews will be compensated on some basis that does not depend primarily on the number of whales taken; and (3) no bonus or other partial remuneration with relation to the number of whales taken shall be paid to gunners and crews in respect of the taking of any whales, the taking of which is prohibited.
 - **(e)** Any person, in making application for a license to operate a land station or a factory ship must furnish evidence or affidavits to the satisfaction of the Secretary of Commerce that, in addition to conforming to other applicable laws and regulations, such land station or factory ship is adequately equipped to comply with provisions of the convention, of the regulations of the Commission, and of the regulations of the Secretary of Commerce with respect to the processing of whales or the manufacture of whale products.
+
+## Source Credit
+
+*(Aug. 9, 1950, ch. 653, § 6, [64 Stat. 422](https://www.govinfo.gov/link/statute/64/422); 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090](https://www.govinfo.gov/link/statute/84/2090).)*

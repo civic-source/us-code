@@ -3,9 +3,10 @@ title: "Section 6726 - Failure to comply with information reporting requirements
 usc_title: 26
 usc_section: "6726"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6726"
-generated_at: "2026-03-30T02:55:27.867Z"
+generated_at: "2026-11-23T21:26:06.932Z"
+status: "active"
 ---
 
 # § 6726. Failure to comply with information reporting requirements relating to qualified opportunity funds and qualified rural opportunity funds
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:27.867Z"
     - **(A)** If the $500 dollar amount in subsection (a) and (c)(1) or the $2,500 amount in subsection (c)(1), after being increased under paragraph (1), is not a multiple of $10, such dollar amount shall be rounded to the next lowest multiple of $10.
     - **(B)** If the $10,000,000 dollar amount in subsection (b)(2), after being increased under paragraph (1), is not a multiple of $10,000, such dollar amount shall be rounded to the next lowest multiple of $10,000.
     - **(C)** If any dollar amount in subsection (b) or (c) (other than any amount to which subparagraph (A) or (B) applies), after being increased under paragraph (1), is not a multiple of $1,000, such dollar amount shall be rounded to the next lowest multiple of $1,000.
+
+## Source Credit
+
+*(Added [Pub. L. 119–21, title VII, § 70421(d)(2)(A)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 230](https://www.govinfo.gov/link/statute/139/230).)*

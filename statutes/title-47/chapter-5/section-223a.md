@@ -3,9 +3,10 @@ title: "Section 223a - Notice and removal of nonconsensual intimate visual depic
 usc_title: 47
 usc_section: "223a"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 223a"
-generated_at: "2026-03-30T02:56:24.498Z"
+generated_at: "2026-11-23T21:26:35.945Z"
+status: "active"
 ---
 
 # § 223a. Notice and removal of nonconsensual intimate visual depictions
@@ -36,3 +37,19 @@ generated_at: "2026-03-30T02:56:24.498Z"
     - **(B)** Any person who violates this section shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act ( 15 U.S.C. 41 et seq.).
     - **(C)** Nothing in this Act shall be construed to limit the authority of the Federal Trade Commission under any other provision of law.
     - **(D)** Notwithstanding sections 4, 5(a)(2), or 6 of the Federal Trade Commission Act ( 15 U.S.C. 44 , 45(a)(2), 46), or any jurisdictional limitation of the Commission, the Commission shall also enforce this section in the same manner provided in subparagraph (A), with respect to organizations that are not organized to carry on business for their own profit or that of their members.
+
+“In this Act [see Short Title of 2025 Amendment note set out under section 609 of this title ]:
+
+Commission
+
+Consent; digital forgery; identifiable individual; intimate visual depiction
+
+Covered platform.—
+
+In general
+
+Exclusions
+
+## Source Credit
+
+*([Pub. L. 119–12, § 3](https://www.govinfo.gov/link/plaw/119/public/12), May 19, 2025, [139 Stat. 59](https://www.govinfo.gov/link/statute/139/59).)*

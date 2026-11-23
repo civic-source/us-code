@@ -3,9 +3,10 @@ title: "Section 2611 - Certain material and articles exempt from this chapter"
 usc_title: 19
 usc_section: "2611"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2611"
-generated_at: "2026-03-30T02:54:24.682Z"
+generated_at: "2026-11-23T21:25:42.820Z"
+status: "active"
 ---
 
 # § 2611. Certain material and articles exempt from this chapter
@@ -21,3 +22,7 @@ The provisions of this chapter shall not apply to—
     - **(B)** if subparagraph (A) does not apply, has been within the United States for a period of not less than ten consecutive years and has been exhibited for not less than five years during such period in a recognized museum or religious or secular monument or similar institution in the Unites 1 1 So in original. Probably should be “United”. States open to the public; or
     - **(C)** if subparagraphs (A) and (B) do not apply, has been within the United States for a period of not less than ten consecutive years and the State Party concerned has received or should have received during such period fair notice (through such adequate and accessible publication, or other means, as the Secretary shall by regulation prescribe) of its location within the United States; and
     - **(D)** if none of the preceding subparagraphs apply, has been within the United States for a period of not less than twenty consecutive years and the claimant establishes that it purchased the material or article for value without knowledge or reason to believe that it was imported in violation of law.
+
+## Source Credit
+
+*([Pub. L. 97–446, title III, § 312](https://www.govinfo.gov/link/plaw/97/public/446), Jan. 12, 1983, [96 Stat. 2362](https://www.govinfo.gov/link/statute/96/2362).)*

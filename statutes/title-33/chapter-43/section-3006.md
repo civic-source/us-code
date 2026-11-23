@@ -3,9 +3,10 @@ title: "Section 3006 - Obligated service requirement"
 usc_title: 33
 usc_section: "3006"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3006"
-generated_at: "2026-03-30T02:55:41.136Z"
+generated_at: "2026-11-23T21:26:11.474Z"
+status: "active"
 ---
 
 # § 3006. Obligated service requirement
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:41.136Z"
   - **(2)** is—
     - **(A)** not physically qualified for appointment; and
     - **(B)** determined to be unqualified for service in the commissioned officer corps of the Administration because of a physical or medical condition that was not the result of the officer’s own willful misconduct.
+
+## Source Credit
+
+*([Pub. L. 107–372, title II, § 216](https://www.govinfo.gov/link/plaw/107/public/372), as added [Pub. L. 116–259, title I, § 103(a)](https://www.govinfo.gov/link/plaw/116/public/259), Dec. 23, 2020, [134 Stat. 1155](https://www.govinfo.gov/link/statute/134/1155); [Pub. L. 119–60, div. H, title LXXXIV, § 8405](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1913](https://www.govinfo.gov/link/statute/139/1913).)*

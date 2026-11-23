@@ -3,9 +3,10 @@ title: "Section 973f - Civil penalties"
 usc_title: 16
 usc_section: "973f"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 973f"
-generated_at: "2026-03-30T02:54:22.937Z"
+generated_at: "2026-11-23T21:25:51.800Z"
+status: "active"
 ---
 
 # § 973f. Civil penalties
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:22.937Z"
 - **(g)** If a vessel used in a violation of paragraph (1), (2), (3), (4), (5), (6), (7), (11), (12), or (13) of section 973c(a) or section 973c(b) of this title for which a civil penalty has been assessed—
   - **(1)** had a valid license under the Treaty at the time of the violation, and
   - **(2)** within 60 days after the penalty assessment has become final, leaves and remains outside of the Licensing Area and all Closed Areas until the final penalty has been paid,
+
+## Source Credit
+
+*([Pub. L. 100–330, § 8](https://www.govinfo.gov/link/plaw/100/public/330), June 7, 1988, [102 Stat. 594](https://www.govinfo.gov/link/statute/102/594); [Pub. L. 100–350, § 4(1)](https://www.govinfo.gov/link/plaw/100/public/350), (2), June 27, 1988, [102 Stat. 660](https://www.govinfo.gov/link/statute/102/660); [Pub. L. 119–60, div. H, title LXXXIV, § 8416](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1915](https://www.govinfo.gov/link/statute/139/1915).)*

@@ -3,9 +3,10 @@ title: "Section 2672 - Participation in international activities; restriction; e
 usc_title: 22
 usc_section: "2672"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2672"
-generated_at: "2026-03-30T02:55:05.377Z"
+generated_at: "2026-11-23T21:25:58.524Z"
+status: "active"
 ---
 
 # § 2672. Participation in international activities; restriction; expenses
@@ -18,3 +19,7 @@ The Secretary of State is authorized to—
   - **(2)** Travel expenses without regard to the Standardized Government Travel Regulations and to the rates of per diem allowances in lieu of subsistence expenses under subchapter I of chapter 57 of title 5;
   - **(3)** Travel expenses of persons serving without compensation in an advisory capacity while away from their homes or regular places of business not in excess of those authorized for regular officers and employees traveling in connection with said international activities; and
   - **(4)** Rental of quarters by contract or otherwise.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title I, § 5, [70 Stat. 891](https://www.govinfo.gov/link/statute/70/891); renumbered title I, [Pub. L. 97–241, title II, § 202(a)](https://www.govinfo.gov/link/plaw/97/public/241), Aug. 24, 1982, [96 Stat. 282](https://www.govinfo.gov/link/statute/96/282).)*

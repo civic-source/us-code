@@ -3,9 +3,10 @@ title: "Section 215a - Merger of national banks or State banks into national ban
 usc_title: 12
 usc_section: "215a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 215a"
-generated_at: "2026-03-30T02:53:53.375Z"
+generated_at: "2026-11-23T21:25:36.775Z"
+status: "active"
 ---
 
 # § 215a. Merger of national banks or State banks into national banks
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:53.375Z"
 - **(e)** The corporate existence of each of the merging banks or banking associations participating in such merger shall be merged into and continued in the receiving association and such receiving association shall be deemed to be the same corporation as each bank or banking association participating in the merger. All rights, franchises, and interests of the individual merging banks or banking associations in and to every type of property (real, personal, and mixed) and choses in action shall be transferred to and vested in the receiving association by virtue of such merger without any deed or other transfer. The receiving association, upon the merger and without any order or other action on the part of any court or otherwise, shall hold and enjoy all rights of property, franchises, and interests, including appointments, designations, and nominations, and all other rights and interests as trustee, executor, administrator, registrar of stocks and bonds, guardian of estates, assignee, and receiver, and in every other fiduciary capacity, in the same manner and to the same extent as such rights, franchises, and interests were held or enjoyed by any one of the merging banks or banking associations at the time of the merger, subject to the conditions hereinafter provided.
 - **(f)** Where any merging bank or banking association, at the time of the merger, was acting under appointment of any court as trustee, executor, administrator, registrar of stocks and bonds, guardian of estates, assignee, or receiver, or in any other fiduciary capacity, the receiving association shall be subject to removal by a court of competent jurisdiction in the same manner and to the same extent as was such merging bank or banking association prior to the merger. Nothing contained in this section shall be considered to impair in any manner the right of any court to remove the receiving association and to appoint in lieu thereof a substitute trustee, executor, or other fiduciary, except that such right shall not be exercised in such a manner as to discriminate against national banking associations, nor shall any receiving association be removed solely because of the fact that it is a national banking association.
 - **(g)** Stock of the receiving association may be issued as provided by the terms of the merger agreement, free from any preemptive rights of the shareholders of the respective merging banks.
+
+## Source Credit
+
+*(Nov. 7, 1918, ch. 209, § 3, formerly § 2, as added [Pub. L. 86–230, § 20](https://www.govinfo.gov/link/plaw/86/public/230), Sept. 8, 1959, [73 Stat. 463](https://www.govinfo.gov/link/statute/73/463); renumbered § 3, [Pub. L. 103–328, title I, § 102(b)(4)(A)](https://www.govinfo.gov/link/plaw/103/public/328), Sept. 29, 1994, [108 Stat. 2351](https://www.govinfo.gov/link/statute/108/2351); amended [Pub. L. 112–231, § 2(b)(2)(B)](https://www.govinfo.gov/link/plaw/112/public/231), Dec. 28, 2012, [126 Stat. 1619](https://www.govinfo.gov/link/statute/126/1619).)*

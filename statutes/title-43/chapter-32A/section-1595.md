@@ -3,9 +3,10 @@ title: "Section 1595 - Salinity control units; authority and functions of the Se
 usc_title: 43
 usc_section: "1595"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1595"
-generated_at: "2026-03-30T02:55:57.477Z"
+generated_at: "2026-11-23T21:26:19.848Z"
+status: "active"
 ---
 
 # § 1595. Salinity control units; authority and functions of the Secretary of the Interior
@@ -47,3 +48,31 @@ generated_at: "2026-03-30T02:55:57.477Z"
   - **(1)** Effective beginning on the date of enactment of this paragraph, subject to paragraph (3), the cost share obligations required by this section shall be met through an up-front cost share from the Basin Funds, in the same proportions as the cost allocations required under subsection (a), as provided in paragraph (2).
   - **(2)** The Secretary shall expend the required cost share funds described in paragraph (1) through the Basin States Program for salinity control activities established under section 1592(a)(7) of this title .
   - **(3)** The cost share contribution required by this section shall continue to be met through repayment in a manner consistent with this section for all salinity control activities for which repayment was commenced prior to the date of enactment of this paragraph.
+
+Nonreimbursable costs; reimbursable costs.—
+
+Nonreimbursable costs.—
+
+In general
+
+(aa) the costs of operation and maintenance of each unit or separable feature of a unit authorized by that section; and
+
+(bb) the total costs of construction, operation, and maintenance of the associated measures to replace incidental fish and wildlife values foregone.
+
+(aa) the costs of operation and maintenance of each unit or separable feature of a unit authorized by that section; and
+
+(bb) the total costs of construction, operation, and maintenance of the associated measures to replace incidental fish and wildlife values foregone.
+
+(aa) the costs of operation and maintenance of each unit or separable feature of a unit authorized by that section; and
+
+(bb) the total costs of construction, operation, and maintenance of the associated measures to replace incidental fish and wildlife values foregone.
+
+Special rule for nonreimbursable costs for fiscal years 2024 and 2025
+
+Reimbursable costs
+
+In general
+
+## Source Credit
+
+*([Pub. L. 93–320, title II, § 205](https://www.govinfo.gov/link/plaw/93/public/320), June 24, 1974, [88 Stat. 272](https://www.govinfo.gov/link/statute/88/272); [Pub. L. 98–569, § 4(a)](https://www.govinfo.gov/link/plaw/98/public/569) –(f)(1), (g), (i), Oct. 30, 1984, [98 Stat. 2937–2939](https://www.govinfo.gov/link/statute/98/2937); [Pub. L. 104–20, § 1(2)](https://www.govinfo.gov/link/plaw/104/public/20), July 28, 1995, [109 Stat. 255](https://www.govinfo.gov/link/statute/109/255); [Pub. L. 104–127, title III, § 336(c)(2)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1006](https://www.govinfo.gov/link/statute/110/1006); [Pub. L. 110–234, title II, § 2806(b)(2)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1090](https://www.govinfo.gov/link/statute/122/1090); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title II, § 2806(b)(2), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1818; [Pub. L. 118–183, § 2](https://www.govinfo.gov/link/plaw/118/public/183), Dec. 23, 2024, [138 Stat. 2625](https://www.govinfo.gov/link/statute/138/2625).)*

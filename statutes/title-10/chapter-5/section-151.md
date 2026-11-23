@@ -3,9 +3,10 @@ title: "Section 151 - Joint Chiefs of Staff: composition; functions"
 usc_title: 10
 usc_section: "151"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 151"
-generated_at: "2026-03-30T02:53:38.041Z"
+generated_at: "2026-11-23T21:25:32.225Z"
+status: "active"
 ---
 
 # § 151. Joint Chiefs of Staff: composition; functions
@@ -43,3 +44,21 @@ generated_at: "2026-03-30T02:53:38.041Z"
 - **(h)**
   - **(1)** If the President removes a member of the Joint Chiefs of Staff from office or transfers a member of the Joint Chiefs of Staff to another position or location before the end of the term of the member as specified in statute, the President shall, not later than five days after the removal or transfer takes effect, submit to Congress, including the congressional defense committees, notice that the member is being removed or transferred and a statement of the reason for the removal or transfer.
   - **(2)** Nothing in this subsection prohibits a personnel action authorized by another provision of law.
+
+Composition
+
+Function as Military Advisers
+
+Consultation by Chairman
+
+Advice and Opinions of Members Other Than Chairman
+
+Recommendations to Congress
+
+Meetings of JCS
+
+Removal of Members of Joint Chiefs of Staff
+
+## Source Credit
+
+*(Added [Pub. L. 99–433, title II, § 201](https://www.govinfo.gov/link/plaw/99/public/433), Oct. 1, 1986, [100 Stat. 1005](https://www.govinfo.gov/link/statute/100/1005); amended [Pub. L. 102–484, div. A, title IX, § 911(a)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2473](https://www.govinfo.gov/link/statute/106/2473); [Pub. L. 109–163, div. A, title IX, § 908(a)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3403](https://www.govinfo.gov/link/statute/119/3403); [Pub. L. 112–81, div. A, title V, § 512(a)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1393](https://www.govinfo.gov/link/statute/125/1393); [Pub. L. 114–328, div. A, title IX, § 921(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2351](https://www.govinfo.gov/link/statute/130/2351); [Pub. L. 116–92, div. A, title IX, § 953(c)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1564](https://www.govinfo.gov/link/statute/133/1564); [Pub. L. 119–60, div. A, title IX, § 911(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1015](https://www.govinfo.gov/link/statute/139/1015).)*

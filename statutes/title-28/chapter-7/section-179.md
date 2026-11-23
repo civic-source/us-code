@@ -3,9 +3,10 @@ title: "Section 179 - Personnel application and insurance programs"
 usc_title: 28
 usc_section: "179"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 179"
-generated_at: "2026-03-30T02:55:30.126Z"
+generated_at: "2026-11-23T21:26:01.032Z"
+status: "active"
 ---
 
 # § 179. Personnel application and insurance programs
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:30.126Z"
     - **(B)** the provisions of paragraph (1) shall cease to apply.
   - **(3)** For purposes of this subsection, the term “open enrollment period” refers to a period described in section 8905(g)(1) of title 5 .
 - **(c)** For purposes of construing and applying chapter 87 of title 5, including any adjustment of insurance rates by regulation or otherwise, a judge of the United States Court of Federal Claims in regular active service or who is retired under section 178 of this title shall be deemed to be a judge of the United States described under section 8701(a)(5) of title 5 .
+
+## Source Credit
+
+*(Added [Pub. L. 106–518, title III, § 309(a)](https://www.govinfo.gov/link/plaw/106/public/518), Nov. 13, 2000, [114 Stat. 2419](https://www.govinfo.gov/link/statute/114/2419).)*

@@ -3,9 +3,10 @@ title: "Section 5010 - Credit for wine content and for flavors content"
 usc_title: 26
 usc_section: "5010"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5010"
-generated_at: "2026-03-30T02:55:27.817Z"
+generated_at: "2026-11-23T21:26:06.689Z"
+status: "active"
 ---
 
 # § 5010. Credit for wine content and for flavors content
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:27.817Z"
       - **(i)** alcohol derived from flavors made at a distilled spirits plant,
       - **(ii)** alcohol derived from flavors distilled at a distilled spirits plant, and
       - **(iii)** in the case of any distilled spirits product, alcohol derived from flavors to the extent such alcohol exceeds (on a proof gallon basis) 2½ percent of the finished product.
+
+## Source Credit
+
+*(Added [Pub. L. 96–598, § 6(a)](https://www.govinfo.gov/link/plaw/96/public/598), Dec. 24, 1980, [94 Stat. 3488](https://www.govinfo.gov/link/statute/94/3488); amended [Pub. L. 98–369, div. A, title I, § 27(a)(2)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 507](https://www.govinfo.gov/link/statute/98/507); [Pub. L. 100–647, title V, § 5063(a)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3681](https://www.govinfo.gov/link/statute/102/3681); [Pub. L. 101–508, title XI, § 11201(a)(2)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–415](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 109–59, title XI, § 11125(b)(14)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1956](https://www.govinfo.gov/link/statute/119/1956).)*

@@ -3,9 +3,10 @@ title: "Section 70036 - Enforcement"
 usc_title: 46
 usc_section: "70036"
 chapter: 700
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 70036"
-generated_at: "2026-03-30T02:56:15.585Z"
+generated_at: "2026-11-23T21:26:37.345Z"
+status: "active"
 ---
 
 # § 70036. Enforcement
@@ -25,3 +26,33 @@ generated_at: "2026-03-30T02:56:15.585Z"
 - **(f)**
   - **(1)** If any owner, operator, or individual in charge of a vessel is liable for a penalty or fine under this section, or if reasonable cause exists to believe that the owner, operator, or individual in charge may be subject to a penalty or fine under this section, the Secretary of the Treasury, upon the request of the Secretary, shall with respect to such vessel refuse or revoke any clearance required by section 60105 of title 46 .
   - **(2)** Clearance refused or revoked under this subsection may be granted upon filing of a bond or other surety satisfactory to the Secretary.
+
+Civil Penalty.—
+
+In general
+
+Compromise, modification, or remission
+
+Failure to pay penalty
+
+Criminal Penalty.—
+
+Class d felony
+
+Class c felony
+
+In Rem Liability
+
+Injunction
+
+Denial of Entry
+
+Withholding of Clearance.—
+
+In general
+
+Granting clearance refused or revoked
+
+## Source Credit
+
+*(Added [Pub. L. 115–282, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4262](https://www.govinfo.gov/link/statute/132/4262); amended [Pub. L. 116–283, div. G, title LVXXXV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXV], §§ 8507(a)(9), 8508(2)(B), Jan. 1, 2021, [134 Stat. 4753](https://www.govinfo.gov/link/statute/134/4753), 4755.)*

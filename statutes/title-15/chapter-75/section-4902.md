@@ -3,9 +3,10 @@ title: "Section 4902 - Interagency Trade Data Advisory Committee"
 usc_title: 15
 usc_section: "4902"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4902"
-generated_at: "2026-03-30T02:54:08.204Z"
+generated_at: "2026-11-23T21:25:40.007Z"
+status: "active"
 ---
 
 # § 4902. Interagency Trade Data Advisory Committee
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:08.204Z"
   - **(14)** such other members as may be appointed by the President from full-time officers or employees of the Federal Government.
 - **(c)** The Secretary of Commerce shall be Chairman of the Committee.
 - **(d)** Any member of the Committee may appoint a designee to serve in place of such member on the Committee.
+
+## Source Credit
+
+*([Pub. L. 100–418, title V, § 5402](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1463](https://www.govinfo.gov/link/statute/102/1463); [Pub. L. 115–254, div. F, title VI, § 1470(f)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3516](https://www.govinfo.gov/link/statute/132/3516).)*

@@ -3,9 +3,10 @@ title: "Section 762 - National Institute on Disability, Independent Living, and 
 usc_title: 29
 usc_section: "762"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 762"
-generated_at: "2026-03-30T02:55:18.694Z"
+generated_at: "2026-11-23T21:26:02.205Z"
+status: "active"
 ---
 
 # § 762. National Institute on Disability, Independent Living, and Rehabilitation Research
@@ -102,3 +103,7 @@ generated_at: "2026-03-30T02:55:18.694Z"
 - **(m)**
   - **(1)** If the Director determines that an entity that receives funding under this subchapter fails to comply with the applicable requirements of this chapter, or to make progress toward achieving the measurable goals described in section 764(d)(2) of this title , with respect to the covered activities involved, the Director shall utilize available monitoring and enforcement measures.
   - **(2)** As part of the annual report required under subsection ( l ), the Secretary shall describe each action taken by the Secretary under paragraph (1) and the outcomes of such action.
+
+## Source Credit
+
+*([Pub. L. 93–112, title II, § 202](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 105–220, title IV, § 405](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1168](https://www.govinfo.gov/link/statute/112/1168); amended [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 401(16)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–412; [Pub. L. 106–402, title IV, § 401(b)(3)(B)](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1737](https://www.govinfo.gov/link/statute/114/1737); [Pub. L. 107–110, title X, § 1076(u)(1)](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2092](https://www.govinfo.gov/link/statute/115/2092); [Pub. L. 108–173, title IX, § 900(e)(6)(A)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2373](https://www.govinfo.gov/link/statute/117/2373); [Pub. L. 113–128, title IV, § 433](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1661](https://www.govinfo.gov/link/statute/128/1661); [Pub. L. 114–95, title IX, § 9215(mmm)(1)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2188](https://www.govinfo.gov/link/statute/129/2188).)*

@@ -1,17 +1,18 @@
 ---
-title: "Section 10602 - United States Foundation for International Conservation"
+title: "Section 10602 - United States Foundation for Natural Security and Counterterrorism"
 usc_title: 22
 usc_section: "10602"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10602"
-generated_at: "2026-03-30T02:55:05.478Z"
+generated_at: "2026-11-23T21:25:58.800Z"
+status: "active"
 ---
 
-# § 10602. United States Foundation for International Conservation
+# § 10602. United States Foundation for Natural Security and Counterterrorism
 
 - **(a)**
-  - **(1)** Not later than 180 days after December 23, 2024 , the Secretary shall establish the United States Foundation for International Conservation, which shall be operated as a charitable, nonprofit corporation.
+  - **(1)** Not later than 180 days after December 23, 2024 , the Secretary shall establish the United States Foundation for Natural Security and Counterterrorism, which shall be operated as a charitable, nonprofit corporation.
   - **(2)** The Foundation is not an agency or instrumentality of the United States Government.
   - **(3)** The Board shall take all necessary and appropriate steps to ensure that the Foundation is an organization described in subsection (c) of section 501 of title 26 , which exempt the organization from taxation under subsection (a) of such section.
   - **(4)** The Foundation shall terminate operations on the date that is 10 years after the date on which the Foundation becomes operational, in accordance with—
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:55:05.478Z"
     - **(D)** a plan to maximize commitments from private sector entities to fund the Foundation.
   - **(2)** The Executive Director shall submit the initial Plan of Action to the appropriate congressional committees not later than 5 days after the Plan of Action is approved by the Board.
   - **(3)** The Executive Director shall annually update the Plan of Action and submit each such updated plan to the appropriate congressional committees not later that 5 days after the update plan is approved by the Board.
+
+## Source Credit
+
+*([Pub. L. 118–159, div. E, title LI, § 5102](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2410](https://www.govinfo.gov/link/statute/138/2410); [Pub. L. 119–75, div. F, title VII, § 7034(k)(2)](https://www.govinfo.gov/link/plaw/119/public/75), Feb. 3, 2026, [140 Stat. 571](https://www.govinfo.gov/link/statute/140/571).)*

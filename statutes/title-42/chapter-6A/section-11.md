@@ -3,9 +3,10 @@ title: "Section 11 - Office of the National Coordinator for Health Information T
 usc_title: 42
 usc_section: "11"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T02:56:10.844Z"
+generated_at: "2026-11-23T21:26:30.940Z"
+status: "active"
 ---
 
 # § 300jj–11. Office of the National Coordinator for Health Information Technology
@@ -113,3 +114,19 @@ generated_at: "2026-03-30T02:56:10.844Z"
     - **(B)** be in addition to any other staff of the Department employed by the National Coordinator.
   - **(3)** Notwithstanding any other provision of law, the Office may accept detailed personnel from other Federal agencies without regard to whether the agency described under paragraph (1) is reimbursed.
 - **(e)** Not later than 12 months after February 17, 2009 , the Secretary shall appoint a Chief Privacy Officer of the Office of the National Coordinator, whose duty it shall be to advise the National Coordinator on privacy, security, and data stewardship of electronic health information and to coordinate with other Federal agencies (and similar privacy officers in such agencies), with State and regional efforts, and with foreign countries with regard to the privacy, security, and data stewardship of electronic individually identifiable health information.
+
+In general
+
+Use of existing index
+
+Contact information
+
+Rule of construction.—
+
+In general
+
+Limitation
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXX, § 3001, as added [Pub. L. 111–5, div. A, title XIII, § 13101](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 230](https://www.govinfo.gov/link/statute/123/230); amended [Pub. L. 114–255, div. A, title IV](https://www.govinfo.gov/link/plaw/114/public/255), §§ 4001(b), 4002(a), 4003(b), (e)(2)(A)(i), (ii), (C), Dec. 13, 2016, [130 Stat. 1158](https://www.govinfo.gov/link/statute/130/1158), 1159, 1165, 1174.)*

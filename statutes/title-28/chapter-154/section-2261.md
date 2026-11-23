@@ -3,9 +3,10 @@ title: "Section 2261 - Prisoners in State custody subject to capital sentence; a
 usc_title: 28
 usc_section: "2261"
 chapter: 154
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 2261"
-generated_at: "2026-03-30T02:55:30.147Z"
+generated_at: "2026-11-23T21:26:01.123Z"
+status: "active"
 ---
 
 # § 2261. Prisoners in State custody subject to capital sentence; appointment of counsel; requirement of rule of court or statute; procedures for appointment
@@ -20,3 +21,9 @@ generated_at: "2026-03-30T02:55:30.147Z"
   - **(3)** denying the appointment of counsel upon a finding that the prisoner is not indigent.
 - **(d)** No counsel appointed pursuant to subsections (b) and (c) to represent a State prisoner under capital sentence shall have previously represented the prisoner at trial in the case for which the appointment is made unless the prisoner and counsel expressly request continued representation.
 - **(e)** The ineffectiveness or incompetence of counsel during State or Federal post-conviction proceedings in a capital case shall not be a ground for relief in a proceeding arising under section 2254. This limitation shall not preclude the appointment of different counsel, on the court’s own motion or at the request of the prisoner, at any phase of State or Federal post-conviction proceedings on the basis of the ineffectiveness or incompetence of counsel in such proceedings.
+
+Counsel
+
+## Source Credit
+
+*(Added [Pub. L. 104–132, title I, § 107(a)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1221](https://www.govinfo.gov/link/statute/110/1221); amended [Pub. L. 109–177, title V, § 507(a)](https://www.govinfo.gov/link/plaw/109/public/177), (b), Mar. 9, 2006, [120 Stat. 250](https://www.govinfo.gov/link/statute/120/250).)*

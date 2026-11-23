@@ -3,9 +3,10 @@ title: "Section 2203 - Adoption of land consolidation plan with approval of Secr
 usc_title: 25
 usc_section: "2203"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2203"
-generated_at: "2026-03-30T02:54:52.836Z"
+generated_at: "2026-11-23T21:25:54.659Z"
+status: "active"
 ---
 
 # § 2203. Adoption of land consolidation plan with approval of Secretary
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:52.836Z"
   - **(5)** any tribe may retain the mineral rights to such sold or exchanged lands and the Secretary shall assist such tribe in determining the value of such mineral rights and shall take such value into consideration in determining the fair market value of such lands.
 - **(b)** The Secretary must execute such instrument of conveyance needed to effectuate a sale or exchange of tribal lands made pursuant to an approved tribal land consolidation plan unless he makes a specific finding that such sale or exchange is not in the best interest of the tribe or is not in compliance with the tribal land consolidation plan.
 - **(c)** The Secretary may execute instruments of conveyance for less than fair market value to effectuate the transfer of lands used as homesites held, on December 17, 1991 , by the United States in trust for the Cherokee Nation of Oklahoma. Only the lands used as homesites, and described in the land consolidation plan of the Cherokee Nation of Oklahoma approved by the Secretary on February 6, 1987 , shall be subject to this subsection.
+
+## Source Credit
+
+*([Pub. L. 97–459, title II, § 204](https://www.govinfo.gov/link/plaw/97/public/459), Jan. 12, 1983, [96 Stat. 2517](https://www.govinfo.gov/link/statute/96/2517); [Pub. L. 98–608, § 1(1)](https://www.govinfo.gov/link/plaw/98/public/608), Oct. 30, 1984, [98 Stat. 3171](https://www.govinfo.gov/link/statute/98/3171); [Pub. L. 102–238, § 3](https://www.govinfo.gov/link/plaw/102/public/238), Dec. 17, 1991, [105 Stat. 1908](https://www.govinfo.gov/link/statute/105/1908).)*

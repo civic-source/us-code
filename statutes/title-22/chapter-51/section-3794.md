@@ -3,9 +3,10 @@ title: "Section 3794 - Procedures"
 usc_title: 22
 usc_section: "3794"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3794"
-generated_at: "2026-03-30T02:55:05.397Z"
+generated_at: "2026-11-23T21:25:58.598Z"
+status: "active"
 ---
 
 # § 3794. Procedures
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.397Z"
 - **(b)** After consideration of the relevant matter presented, the Commission may revise the proposed rules of measurement or rates of tolls, as the case may be, except that, in the case of rates of tolls, if such revision proposes rates greater than those originally proposed, a new analysis of the proposed rates shall be made available to the public, and a new notice of the revised proposal shall be published in the Federal Register apprising interested persons of the opportunity to participate further in the proceedings through submission of written data, views, or arguments, and participation in a public hearing to be held not less than 30 days after the date of publication of the new notice. The procedure set forth in this subsection shall be followed for any subsequent revision of the proposed rates of tolls by the Commission which proposes rates higher than those in the preceding proposal.
 - **(c)** After the proceedings have been conducted pursuant to subsections (a) and (b), the Commission may change the rules of measurement or rates of tolls, as the case may be. The Commission shall publish notice of any such change in the Federal Register not less than 30 days before the effective date of the change.
 - **(d)** Action to change the rules of measurement for the Panama Canal or the rates of tolls for the use of the Canal pursuant to this part shall be subject to judicial review in accordance with chapter 7 of title 5.
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1604](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 490](https://www.govinfo.gov/link/statute/93/490); [Pub. L. 104–106, div. C, title XXXV, § 3528](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 641](https://www.govinfo.gov/link/statute/110/641).)*

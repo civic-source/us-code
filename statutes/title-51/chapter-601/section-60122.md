@@ -3,9 +3,10 @@ title: "Section 60122 - Conditions for operation"
 usc_title: 51
 usc_section: "60122"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 60122"
-generated_at: "2026-03-30T02:56:28.712Z"
+generated_at: "2026-11-23T21:26:42.557Z"
+status: "active"
 ---
 
 # § 60122. Conditions for operation
@@ -21,3 +22,38 @@ generated_at: "2026-03-30T02:56:28.712Z"
 - **(c)** In addition to the requirements of subsection (b), any license issued pursuant to this subchapter to the Landsat 6 contractor shall specify that the Landsat 6 contractor shall—
   - **(1)** notify the Secretary of any value added activities (as defined by the Secretary by regulation) that will be conducted by the Landsat 6 contractor or by a subsidiary or affiliate; and
   - **(2)** if such activities are to be conducted, provide the Secretary with a plan for compliance with section 60141 of this title .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60122 | 15 U.S.C. 5622 . | Pub. L. 102–555, title II, § 202 , Oct. 28, 1992 , 106 Stat. 4172 ; Pub. L. 105–303, title I, § 107(f)(2) , Oct. 28, 1998 , 112 Stat. 2854 . |
+
+
+License Required for Operation
+
+Licensing Requirements
+
+Additional Licensing Requirements for Landsat
+
+Contractor
+
+Historical and Revision Notes
+
+60122
+
+15 U.S.C. 5622
+
+Pub. L. 102–555, title II, § 202
+
+Oct. 28, 1992
+
+106 Stat. 4172
+
+Pub. L. 105–303, title I, § 107(f)(2)
+
+Oct. 28, 1998
+
+112 Stat. 2854
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3415](https://www.govinfo.gov/link/statute/124/3415).)*

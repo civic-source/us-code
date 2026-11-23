@@ -3,9 +3,10 @@ title: "Section 2821 - Definitions"
 usc_title: 15
 usc_section: "2821"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2821"
-generated_at: "2026-03-30T02:54:08.184Z"
+generated_at: "2026-11-23T21:25:39.956Z"
+status: "active"
 ---
 
 # § 2821. Definitions
@@ -39,3 +40,7 @@ As used in this subchapter:
     - **(B)** The term “cetane index” and the term “cetane number” have the meanings determined in accordance with the test methods set forth in the American Society for Testing and Materials standard test methods—
       - **(i)** designated D976 or D4737 in the case of cetane index; and
       - **(ii)** designated D613 in the case of cetane number, (as in effect on October 24, 1992 ) and shall apply to any grade or type of diesel fuel oils defined in the specification of the American Society for Testing and Materials entitled “Standard Specification for Diesel Fuel Oils” designated D975 (as in effect on October 24, 1992 ).
+
+## Source Credit
+
+*([Pub. L. 95–297, title II, § 201](https://www.govinfo.gov/link/plaw/95/public/297), June 19, 1978, [92 Stat. 333](https://www.govinfo.gov/link/statute/92/333); [Pub. L. 102–486, title XV, § 1501(a)](https://www.govinfo.gov/link/plaw/102/public/486) –(c)(1), Oct. 24, 1992, [106 Stat. 2996](https://www.govinfo.gov/link/statute/106/2996).)*

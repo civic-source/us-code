@@ -3,9 +3,10 @@ title: "Section 2481 - Functions transferred"
 usc_title: 50
 usc_section: "2481"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2481"
-generated_at: "2026-03-30T02:56:26.225Z"
+generated_at: "2026-11-23T21:26:38.979Z"
+status: "active"
 ---
 
 # § 2481. Functions transferred
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:26.225Z"
 - **(e)**
   - **(1)** With respect to any function, power, or duty or activity of the Department of Energy that is transferred to the Administration, those employees of the element of the Department of Energy from which the transfer is made that the Secretary of Energy determines are needed to perform that function, power, or duty, or for that activity, as the case may be, shall be transferred to the Administration.
   - **(2)** The authorized strength in civilian employees of any element of the Department of Energy from which employees are transferred under this section is reduced by the number of employees so transferred.
+
+## Source Credit
+
+*([Pub. L. 106–65, div. C, title XXXII, § 3291](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 968](https://www.govinfo.gov/link/statute/113/968); [Pub. L. 112–239, div. C, title XXXI, § 3132(b)(1)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2185](https://www.govinfo.gov/link/statute/126/2185); [Pub. L. 113–66, div. C, title XXXI, § 3145(j)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 1072](https://www.govinfo.gov/link/statute/127/1072).)*

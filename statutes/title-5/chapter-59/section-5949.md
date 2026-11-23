@@ -3,9 +3,10 @@ title: "Section 5949 - Hostile fire pay"
 usc_title: 5
 usc_section: "5949"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5949"
-generated_at: "2026-03-30T02:52:56.028Z"
+generated_at: "2026-11-23T21:25:23.307Z"
+status: "active"
 ---
 
 # § 5949. Hostile fire pay
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:52:56.028Z"
   - **(3)** killed, injured, or wounded by hostile fire, explosion of a hostile mine, or any other hostile action.
 - **(b)** An employee covered by subsection (a)(3) who is hospitalized for the treatment of his or her injury or wound may be paid hostile fire pay under this section for not more than three additional months during which the employee is so hospitalized.
 - **(c)** An employee may be paid hostile fire pay under this section in addition to other pay and allowances to which entitled, except that an employee may not be paid hostile fire pay under this section for periods of time during which the employee receives payment under section 5925 of this title because of exposure to political violence or payment under section 5928 of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 107–107, div. A, title XI, § 1111(a)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1238](https://www.govinfo.gov/link/statute/115/1238).)*

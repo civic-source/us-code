@@ -3,9 +3,10 @@ title: "Section 19119 - Reports and roadmaps"
 usc_title: 42
 usc_section: "19119"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19119"
-generated_at: "2026-03-30T02:56:11.540Z"
+generated_at: "2026-11-23T21:26:33.873Z"
+status: "active"
 ---
 
 # § 19119. Reports and roadmaps
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.540Z"
   - **(1)** a strategic vision for the next 5 years for the Directorate, including a description of how the Foundation will increase funding for research and education for populations underrepresented in STEM and geographic areas; and
   - **(2)** a description of the planned activities of the Directorate to secure federally funded science and technology pursuant to section 1746 of the National Defense Authorization Act for Fiscal Year 2020 ( Public Law 116–92 ; 42 U.S.C. 6601 note) and section 6605 of this title and the requirements under part D of this subchapter and subtitle E of title VI.
 - **(d)** Not later than 24 months after the establishment of the Directorate, the Director shall prepare and submit a report to Congress regarding the use of alternative methods for the selection of award recipients and the distribution of funding to recipients, as compared to the traditional peer review process.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10399](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1598](https://www.govinfo.gov/link/statute/136/1598).)*

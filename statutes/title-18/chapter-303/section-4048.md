@@ -3,9 +3,10 @@ title: "Section 4048 - Fees for health care services for prisoners"
 usc_title: 18
 usc_section: "4048"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 4048"
-generated_at: "2026-03-30T02:54:16.527Z"
+generated_at: "2026-11-23T21:25:44.236Z"
+status: "active"
 ---
 
 # § 4048. Fees for health care services for prisoners
@@ -52,3 +53,39 @@ generated_at: "2026-03-30T02:54:16.527Z"
   - **(4)** a description of current inmate health status indicators as compared to the year prior to enactment; and
   - **(5)** a description of the quality of health care services provided to inmates during the preceding 12-month period, as compared with the quality of those services provided during the 12-month period ending on the date of the enactment of such Act.
 - **(l)** The Bureau of Prisons shall provide comprehensive coverage for services relating to human immunodeficiency virus (HIV) and acquired immune deficiency syndrome (AIDS) to each Federal prisoner in the custody of the Bureau of Prisons when medically appropriate. The Bureau of Prisons may not assess or collect a fee under this section for providing such coverage.
+
+Definitions
+
+Fees for Health Care Services.—
+
+In general
+
+Exclusion
+
+Persons Subject to Fee
+
+Amount of Fee
+
+No Consent Required
+
+No Refusal of Treatment For Financial Reasons
+
+Use of Amounts.—
+
+Restitution of specific victims
+
+Allocation of other amounts
+
+Notice to Prisoners of Law
+
+Notice to Prisoners of Regulations
+
+Notice Before Public Comment Period
+
+Reports to Congress
+
+Comprehensive HIV/AIDS Services Required
+
+## Source Credit
+
+*(Added [Pub. L. 106–294, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/294), Oct. 12, 2000, [114 Stat. 1038](https://www.govinfo.gov/link/statute/114/1038).)*

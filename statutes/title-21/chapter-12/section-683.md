@@ -3,9 +3,10 @@ title: "Section 683 - Interstate shipment of meat inspected by Federal and State
 usc_title: 21
 usc_section: "683"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 683"
-generated_at: "2026-03-30T02:54:54.289Z"
+generated_at: "2026-11-23T21:25:56.217Z"
+status: "active"
 ---
 
 # § 683. Interstate shipment of meat inspected by Federal and State agencies for certain small establishments
@@ -73,3 +74,7 @@ generated_at: "2026-03-30T02:54:54.289Z"
 - **(j)**
   - **(1)** This section takes effect on the date on which the Secretary, after providing a period of public comment (including through the conduct of public meetings or hearings), promulgates final regulations to carry out this section.
   - **(2)** Not later than 18 months after the date of the enactment of this section, the Secretary shall promulgate final regulations in accordance with paragraph (1).
+
+## Source Credit
+
+*(Mar. 4, 1907, ch. 2907, title V, § 501, as added [Pub. L. 110–234, title XI, § 11015(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1362](https://www.govinfo.gov/link/statute/122/1362), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XI, § 11015(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2124.)*

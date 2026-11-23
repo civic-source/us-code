@@ -3,9 +3,10 @@ title: "Section 163 - Interest"
 usc_title: 26
 usc_section: "163"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 163"
-generated_at: "2026-03-30T02:55:27.638Z"
+generated_at: "2026-11-23T21:26:06.041Z"
+status: "active"
 ---
 
 # § 163. Interest
@@ -315,3 +316,61 @@ generated_at: "2026-03-30T02:55:27.638Z"
   - **(3)** For disallowance of deduction for carrying charges chargeable to capital account, see section 266.
   - **(4)** For disallowance of interest with respect to transactions between related taxpayers, see section 267.
   - **(5)** For treatment of redeemable ground rents and real property held subject to liabilities under redeemable ground rents, see section 1055.
+
+(aa) 50 percent of such excess business interest shall be treated as business interest which, notwithstanding paragraph (4)(B)(ii), is paid or accrued by the partner in the partner’s first taxable year beginning in 2020 and which is not subject to the limits of paragraph (1), and
+
+(bb) 50 percent of such excess business interest shall be subject to the limitations of paragraph (4)(B)(ii) in the same manner as any other excess business interest so allocated.
+
+In general
+
+Exception for certain existing indebtedness
+
+In general
+
+Limitation on amount of interest
+
+Cost not less than balance of indebtedness incurred on or before august 16, 1986 .—
+
+In general
+
+Limitation on period of refinancing
+
+Time for determination
+
+In general
+
+Special rule for short taxable years
+
+Suspension
+
+Interest rate authority
+
+In general
+
+Election
+
+In general
+
+Transition rule
+
+In general
+
+Exceptions.—
+
+In general
+
+Special rule for demand loans, etc
+
+In general
+
+Indebtedness incurred before september 11, 1975
+
+In General
+
+Qualified Income
+
+Election
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 46; [Pub. L. 88–9, § 1(a)](https://www.govinfo.gov/link/plaw/88/public/9), (c), Apr. 10, 1963, [77 Stat. 6](https://www.govinfo.gov/link/statute/77/6), 7; [Pub. L. 88–272, title II, § 224(c)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 79](https://www.govinfo.gov/link/statute/78/79); [Pub. L. 91–172, title II, § 221(a)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 574](https://www.govinfo.gov/link/statute/83/574); [Pub. L. 92–178, title III, § 304(a)(2)](https://www.govinfo.gov/link/plaw/92/public/178), (b)(2), (d), Dec. 10, 1971, [85 Stat. 523](https://www.govinfo.gov/link/statute/85/523), 524; [Pub. L. 94–455, title II](https://www.govinfo.gov/link/plaw/94/public/455), §§ 205(c)(3), 209(a), title XIX, §§ 1901(b)(3)(K), (8)(C), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1535](https://www.govinfo.gov/link/statute/90/1535), 1542, 1793, 1794, 1834; [Pub. L. 97–248, title II, § 231(b)](https://www.govinfo.gov/link/plaw/97/public/248), title III, § 310(b)(2), Sept. 3, 1982, [96 Stat. 498](https://www.govinfo.gov/link/statute/96/498), 596; [Pub. L. 97–354, § 5(a)(18)](https://www.govinfo.gov/link/plaw/97/public/354), Oct. 19, 1982, [96 Stat. 1693](https://www.govinfo.gov/link/statute/96/1693); [Pub. L. 98–369, div. A, title I](https://www.govinfo.gov/link/plaw/98/public/369), §§ 42(a)(3), 56(b), 127(f), 128(c), title VI, § 612(c), July 18, 1984, [98 Stat. 556](https://www.govinfo.gov/link/statute/98/556), 574, 652, 654, 911; [Pub. L. 99–514, title V, § 511(a)](https://www.govinfo.gov/link/plaw/99/public/514), (b), title IX, § 902(e)(1), title XIII, § 1301(j)(3), title XVIII, §§ 1803(a)(4), 1810(e)(1), Oct. 22, 1986, [100 Stat. 2244](https://www.govinfo.gov/link/statute/100/2244), 2246, 2382, 2657, 2793, 2825; [Pub. L. 100–203, title X](https://www.govinfo.gov/link/plaw/100/public/203), §§ 10102(a), (b), 10212(b), Dec. 22, 1987, [101 Stat. 1330–384](https://www.govinfo.gov/link/statute/101/1330), 1330–386, 1330–406; [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1005(c)(1)–(9), (12), 1006(u)(1), 1009(b)(6), title II, § 2004(b)(1), Nov. 10, 1988, [102 Stat. 3390–3392](https://www.govinfo.gov/link/statute/102/3390), 3427, 3449, 3598; [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7202(a), (b), 7210(a), Dec. 19, 1989, [103 Stat. 2330](https://www.govinfo.gov/link/statute/103/2330), 2331, 2339; [Pub. L. 101–508, title XI, § 11701(b)](https://www.govinfo.gov/link/plaw/101/public/508), (c), Nov. 5, 1990, [104 Stat. 1388–507](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–66, title XIII](https://www.govinfo.gov/link/plaw/103/public/66), §§ 13206(d)(1), 13228(a)–(c), Aug. 10, 1993, [107 Stat. 467](https://www.govinfo.gov/link/statute/107/467), 494, 495; [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1703(n)(4), 1704(f)(2)(A), (B), Aug. 20, 1996, [110 Stat. 1877](https://www.govinfo.gov/link/statute/110/1877), 1879; [Pub. L. 105–34, title III, § 312(d)(1)](https://www.govinfo.gov/link/plaw/105/public/34), title V, § 503(b)(2), title X, § 1005(a), title XVI, § 1604(g)(1), Aug. 5, 1997, [111 Stat. 839](https://www.govinfo.gov/link/statute/111/839), 853, 911, 1099; [Pub. L. 105–277, div. J, title IV, § 4003(a)(1)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–908](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–170, title V, § 544](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1944](https://www.govinfo.gov/link/statute/113/1944); [Pub. L. 108–27, title III, § 302(b)](https://www.govinfo.gov/link/plaw/108/public/27), May 28, 2003, [117 Stat. 762](https://www.govinfo.gov/link/statute/117/762); [Pub. L. 108–357, title VIII](https://www.govinfo.gov/link/plaw/108/public/357), §§ 838(a), 841(a), 845(a)–(d), Oct. 22, 2004, [118 Stat. 1596](https://www.govinfo.gov/link/statute/118/1596), 1597, 1600, 1601; [Pub. L. 109–135, title IV, § 403(a)(15)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2619](https://www.govinfo.gov/link/statute/119/2619); [Pub. L. 109–222, title V, § 501(a)](https://www.govinfo.gov/link/plaw/109/public/222), (b), May 17, 2006, [120 Stat. 354](https://www.govinfo.gov/link/statute/120/354); [Pub. L. 109–432, div. A, title IV, § 419(a)](https://www.govinfo.gov/link/plaw/109/public/432), (b), Dec. 20, 2006, [120 Stat. 2967](https://www.govinfo.gov/link/statute/120/2967); [Pub. L. 110–142, § 3(a)](https://www.govinfo.gov/link/plaw/110/public/142), Dec. 20, 2007, [121 Stat. 1804](https://www.govinfo.gov/link/statute/121/1804); [Pub. L. 111–5, div. B, title I, § 1232(a)](https://www.govinfo.gov/link/plaw/111/public/5), (b), Feb. 17, 2009, [123 Stat. 341](https://www.govinfo.gov/link/statute/123/341); [Pub. L. 111–147, title V, § 502(a)(1)](https://www.govinfo.gov/link/plaw/111/public/147), (2)(B), (C), (c), Mar. 18, 2010, [124 Stat. 107](https://www.govinfo.gov/link/statute/124/107), 108; [Pub. L. 111–312, title VII, § 759(a)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3323](https://www.govinfo.gov/link/statute/124/3323); [Pub. L. 112–240, title II, § 204(a)](https://www.govinfo.gov/link/plaw/112/public/240), (b), Jan. 2, 2013, [126 Stat. 2323](https://www.govinfo.gov/link/statute/126/2323); [Pub. L. 113–295, div. A, title I, § 104(a)](https://www.govinfo.gov/link/plaw/113/public/295), title II, §§ 220(h), 221(a)(25)(A), Dec. 19, 2014, [128 Stat. 4013](https://www.govinfo.gov/link/statute/128/4013), 4036, 4040; [Pub. L. 114–113, div. Q, title I, § 152(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3066](https://www.govinfo.gov/link/statute/129/3066); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 11043(a), 13301(a), Dec. 22, 2017, [131 Stat. 2086](https://www.govinfo.gov/link/statute/131/2086), 2117; [Pub. L. 115–123, div. D, title I, § 40202(a)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 145](https://www.govinfo.gov/link/statute/132/145); [Pub. L. 115–141, div. U, title IV, § 401(a)(48)](https://www.govinfo.gov/link/plaw/115/public/141), (b)(12), (c)(1)(C), (3)(B), Mar. 23, 2018, [132 Stat. 1186](https://www.govinfo.gov/link/statute/132/1186), 1202, 1205, 1206; [Pub. L. 116–94, div. Q, title I, § 102(a)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3228](https://www.govinfo.gov/link/statute/133/3228); [Pub. L. 116–136, div. A, title II, § 2306(a)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 358](https://www.govinfo.gov/link/statute/134/358); [Pub. L. 116–260, div. EE, title I, § 133(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3053](https://www.govinfo.gov/link/statute/134/3053); [Pub. L. 119–21, title VII](https://www.govinfo.gov/link/plaw/119/public/21), §§ 70108(a), 70203(a), 70303(a), (b), 70341(a)–(c), 70342(a), July 4, 2025, [139 Stat. 163](https://www.govinfo.gov/link/statute/139/163), 176, 195, 207, 208.)*

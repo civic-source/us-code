@@ -3,9 +3,10 @@ title: "Section 1549 - Report on and notice of changes made to the legal and pol
 usc_title: 50
 usc_section: "1549"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1549"
-generated_at: "2026-03-30T02:56:26.206Z"
+generated_at: "2026-11-23T21:26:38.917Z"
+status: "active"
 ---
 
 # § 1549. Report on and notice of changes made to the legal and policy frameworks for the United States’ use of military force and related national security operations
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:26.206Z"
 - **(d)** In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committee on Armed Services, the Committee on Appropriations, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate; and
   - **(2)** the Committee on Armed Services, the Committee on Appropriations, the Committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 115–91, div. A, title XII, § 1264](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1689](https://www.govinfo.gov/link/statute/131/1689); [Pub. L. 116–92, div. A, title XII, § 1261](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1689](https://www.govinfo.gov/link/statute/133/1689).)*

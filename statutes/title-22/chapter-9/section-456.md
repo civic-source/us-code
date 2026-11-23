@@ -3,9 +3,10 @@ title: "Section 456 - Definitions"
 usc_title: 22
 usc_section: "456"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 456"
-generated_at: "2026-03-30T02:55:05.328Z"
+generated_at: "2026-11-23T21:25:58.387Z"
+status: "active"
 ---
 
 # § 456. Definitions
@@ -18,3 +19,7 @@ For the purposes of this subchapter—
 - **(d)** The term “American vessel” means any vessel documented, and any aircraft registered or licensed, under the laws of the United States.
 - **(e)** The term “state” shall include nation, government, and country.
 - **(f)** The term “citizen” shall include any individual owing allegiance to the United States, a partnership, company, or association composed in whole or in part of citizens of the United States, and any corporation organized and existing under the laws of the United States as defined in subsection (a) of this section.
+
+## Source Credit
+
+*(Nov. 4, 1939, ch. 2, § 16, [54 Stat. 12](https://www.govinfo.gov/link/statute/54/12); Proc. No. 2695, July 4, 1946, 11 F.R. 7517, [60 Stat. 1352](https://www.govinfo.gov/link/statute/60/1352).)*

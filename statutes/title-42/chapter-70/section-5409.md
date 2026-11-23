@@ -3,9 +3,10 @@ title: "Section 5409 - Prohibited acts; exemptions"
 usc_title: 42
 usc_section: "5409"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5409"
-generated_at: "2026-03-30T02:56:11.235Z"
+generated_at: "2026-11-23T21:26:32.807Z"
+status: "active"
 ---
 
 # § 5409. Prohibited acts; exemptions
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.235Z"
   - **(4)** The Secretary of the Treasury and the Secretary may, by joint regulations, permit the importation of any manufactured home after the first purchase of it in good faith for purposes other than resale.
   - **(5)** Paragraph (1) of subsection (a) shall not apply in the case of a manufactured home intended solely for export, and so labeled or tagged on the manufactured home itself and on the outside of the container, if any, in which it is to be exported.
 - **(c)** Compliance with any Federal manufactured home construction or safety standard issued under this chapter does not exempt any person from any liability under common law.
+
+## Source Credit
+
+*([Pub. L. 93–383, title VI, § 610](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 704](https://www.govinfo.gov/link/statute/88/704); [Pub. L. 95–128, title IX, § 902(b)](https://www.govinfo.gov/link/plaw/95/public/128), Oct. 12, 1977, [91 Stat. 1149](https://www.govinfo.gov/link/statute/91/1149); [Pub. L. 96–399, title III, § 308(c)(4)](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1641](https://www.govinfo.gov/link/statute/94/1641); [Pub. L. 106–569, title VI, § 608](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 3009](https://www.govinfo.gov/link/statute/114/3009).)*

@@ -3,9 +3,10 @@ title: "Section 4001 - Assumption of contractual obligations related to transfer
 usc_title: 28
 usc_section: "4001"
 chapter: 180
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 4001"
-generated_at: "2026-03-30T02:55:30.154Z"
+generated_at: "2026-11-23T21:26:01.147Z"
+status: "active"
 ---
 
 # § 4001. Assumption of contractual obligations related to transfers of rights in motion pictures
@@ -31,3 +32,27 @@ generated_at: "2026-03-30T02:55:30.154Z"
 - **(f)** If the transferor under subsection (a) fails to notify the transferee under subsection (a) of applicable collective bargaining obligations before the execution of the transfer instrument, and subsection (a) is made applicable to the transferee solely by virtue of subsection (a)(1)(B), the transferor shall be liable to the transferee for any damages suffered by the transferee as a result of the failure to notify.
 - **(g)** Any dispute concerning the application of subsections (a) through (f) shall be determined by an action in United States district court, and the court in its discretion may allow the recovery of full costs by or against any party and may also award a reasonable attorney’s fee to the prevailing party as part of the costs.
 - **(h)** The Comptroller General, in consultation with the Register of Copyrights, shall conduct a study of the conditions in the motion picture industry that gave rise to this section, and the impact of this section on the motion picture industry. The Comptroller General shall report the findings of the study to the Congress within 2 years after the effective date of this chapter.
+
+Assumption of Obligations
+
+(aa) within 18 months before the filing of an application for copyright registration for the motion picture under section 408 of title 17 , or
+
+(bb) if no such application is filed, within 18 months before the first publication of the motion picture in the United States.
+
+Scope of Exclusion of Transfers of Public Performance Rights
+
+Exclusion for Grants of Security Interests
+
+Deferral Pending Resolution of Bona Fide Dispute
+
+Scope of Obligations Determined by Private Agreement
+
+Failure To Notify
+
+Determination of Disputes and Claims
+
+Study
+
+## Source Credit
+
+*(Added [Pub. L. 105–304, title IV, § 406(a)](https://www.govinfo.gov/link/plaw/105/public/304), Oct. 28, 1998, [112 Stat. 2903](https://www.govinfo.gov/link/statute/112/2903).)*

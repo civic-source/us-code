@@ -3,9 +3,10 @@ title: "Section 1702 - Office of National Drug Control Policy"
 usc_title: 21
 usc_section: "1702"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 1702"
-generated_at: "2026-03-30T02:54:54.304Z"
+generated_at: "2026-11-23T21:25:56.283Z"
+status: "active"
 ---
 
 # § 1702. Office of National Drug Control Policy
@@ -33,3 +34,13 @@ generated_at: "2026-03-30T02:54:54.304Z"
     - **(A)** the source and amount of each gift or donation accepted by the Office; and
     - **(B)** the source and amount of each gift or donation accepted by a contractor to be used in its performance of a contract for the Office.
   - **(6)** The Director shall include in the annual assessment under section 1705(g) of this title a copy of the registry maintained under paragraph (5).
+
+Section
+
+Sec
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. C, title VII](https://www.govinfo.gov/link/plaw/105/public/277), §§ 703, 715, Oct. 21, 1998, [112 Stat. 2681–672](https://www.govinfo.gov/link/statute/112/2681), 2681–693; [Pub. L. 109–469, title I, § 102](https://www.govinfo.gov/link/plaw/109/public/469), title VI, § 602, title XI, § 1120, Dec. 29, 2006, [120 Stat. 3505](https://www.govinfo.gov/link/statute/120/3505), 3533, 3548; [Pub. L. 115–271, title VIII](https://www.govinfo.gov/link/plaw/115/public/271), §§ 8202(a), (b)(2), 8217(a), (b), 8222(1), Oct. 24, 2018, [132 Stat. 4110](https://www.govinfo.gov/link/statute/132/4110), 4119, 4142; [Pub. L. 116–74, § 2(a)(2)](https://www.govinfo.gov/link/plaw/116/public/74), (4), Nov. 27, 2019, [133 Stat. 1155](https://www.govinfo.gov/link/statute/133/1155).)*

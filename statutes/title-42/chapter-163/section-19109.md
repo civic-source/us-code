@@ -3,9 +3,10 @@ title: "Section 19109 - Translation Accelerator"
 usc_title: 42
 usc_section: "19109"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19109"
-generated_at: "2026-03-30T02:56:11.539Z"
+generated_at: "2026-11-23T21:26:33.870Z"
+status: "active"
 ---
 
 # § 19109. Translation Accelerator
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.539Z"
   - **(3)** Not less than 25 percent of the funding for an institute shall be provided by non-Federal entities.
   - **(4)** The Director shall endeavor to establish a balance in the number of Regional Innovation Engines and Translation Accelerators.
 - **(c)** From within funds authorized for the Directorate for Technology, Innovation, and Partnerships, there are authorized to carry out the activities under this section and section 19108 of this title $6,500,000,000 for fiscal years 2023 through 2027.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10389](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1584](https://www.govinfo.gov/link/statute/136/1584).)*

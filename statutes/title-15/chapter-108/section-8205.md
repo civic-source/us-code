@@ -3,9 +3,10 @@ title: "Section 8205 - Streamlined application for commercial purchasers"
 usc_title: 15
 usc_section: "8205"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8205"
-generated_at: "2026-03-30T02:54:08.228Z"
+generated_at: "2026-11-23T21:25:40.076Z"
+status: "active"
 ---
 
 # § 8205. Streamlined application for commercial purchasers
@@ -14,3 +15,7 @@ A surplus lines broker seeking to procure or place nonadmitted insurance in a St
 
   - **(1)** the broker procuring or placing the surplus lines insurance has disclosed to the exempt commercial purchaser that such insurance may or may not be available from the admitted market that may provide greater protection with more regulatory oversight; and
   - **(2)** the exempt commercial purchaser has subsequently requested in writing the broker to procure or place such insurance from a nonadmitted insurer.
+
+## Source Credit
+
+*([Pub. L. 111–203, title V, § 525](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1591](https://www.govinfo.gov/link/statute/124/1591).)*

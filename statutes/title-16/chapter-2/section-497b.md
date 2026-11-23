@@ -3,9 +3,10 @@ title: "Section 497b - Ski area permits"
 usc_title: 16
 usc_section: "497b"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 497b"
-generated_at: "2026-03-30T02:54:22.859Z"
+generated_at: "2026-11-23T21:25:51.650Z"
+status: "active"
 ---
 
 # § 497b. Ski area permits
@@ -47,3 +48,11 @@ generated_at: "2026-03-30T02:54:22.859Z"
   - **(7)** Nothing in this subsection affects any activity or facility authorized by a ski area permit in effect on November 7, 2011 , during the term of the permit.
 - **(d)** Not later than 2 years after November 7, 2011 , the Secretary shall promulgate regulations to implement this section.
 - **(e)** Nothing in this section shall be deemed to amend, modify or otherwise affect the Secretary’s duties under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) and the Forest and Rangeland Renewable Resources Planning Act of 1974 ( 16 U.S.C. 1600 et seq.), including his duties to involve the public in his decisionmaking and planning for the national forests.
+
+“The purpose of this Act [see Short Title of 2011 Amendment note above] is to amend the National Forest Ski Area Permit Act of 1986 ( 16 U.S.C. 497b )—
+
+“The purposes of this Act [see Short Title note above] are to—
+
+## Source Credit
+
+*([Pub. L. 99–522, § 3](https://www.govinfo.gov/link/plaw/99/public/522), Oct. 22, 1986, [100 Stat. 3000](https://www.govinfo.gov/link/statute/100/3000); [Pub. L. 112–46, § 3](https://www.govinfo.gov/link/plaw/112/public/46), Nov. 7, 2011, [125 Stat. 538](https://www.govinfo.gov/link/statute/125/538).)*

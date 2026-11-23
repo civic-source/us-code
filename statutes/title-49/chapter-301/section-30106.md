@@ -3,9 +3,10 @@ title: "Section 30106 - Rented or leased motor vehicle safety and responsibility
 usc_title: 49
 usc_section: "30106"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 30106"
-generated_at: "2026-03-30T02:56:19.350Z"
+generated_at: "2026-11-23T21:26:40.754Z"
+status: "active"
 ---
 
 # § 30106. Rented or leased motor vehicle safety and responsibility
@@ -24,3 +25,21 @@ generated_at: "2026-03-30T02:56:19.350Z"
     - **(B)** entitled to the use and possession of a motor vehicle subject to a security interest in another person; or
     - **(C)** a lessor, lessee, or a bailee of a motor vehicle, in the trade or business of renting or leasing motor vehicles, having the use or possession thereof, under a lease, bailment, or otherwise.
   - **(3)** The term “person” means any individual, corporation, company, limited liability company, trust, association, firm, partnership, society, joint stock company, or any other entity.
+
+In General
+
+Financial Responsibility Laws
+
+Applicability and Effective Date
+
+Definitions
+
+Affiliate
+
+Owner
+
+Person
+
+## Source Credit
+
+*(Added [Pub. L. 109–59, title X, § 10208(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1935](https://www.govinfo.gov/link/statute/119/1935).)*

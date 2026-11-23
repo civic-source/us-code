@@ -3,9 +3,10 @@ title: "Section 457 - Labeling and container standards"
 usc_title: 21
 usc_section: "457"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 457"
-generated_at: "2026-03-30T02:54:54.285Z"
+generated_at: "2026-11-23T21:25:56.201Z"
+status: "active"
 ---
 
 # § 457. Labeling and container standards
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:54.285Z"
 - **(b)** The Secretary, whenever he determines such action is necessary for the protection of the public, may prescribe: (1) the styles and sizes of type to be used with respect to material required to be incorporated in labeling to avoid false or misleading labeling in marking and labeling any articles or poultry subject to this chapter; (2) definitions and standards of identity or composition or articles subject to this chapter and standards of fill of container for such articles not inconsistent with any such standards established under the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 301 et seq.], and there shall be consultation between the Secretary and the Secretary of Health and Human Services prior to the issuance of such standards under either Act relating to articles subject to this chapter to avoid inconsistency in such standards and possible impairment of the coordinated effective administration of this chapter and the Federal Food, Drug, and Cosmetic Act. There shall also be consultation between the Secretary and an appropriate advisory committee provided for in section 454 of this title , prior to the issuance of such standards under this chapter, to avoid, insofar as feasible, inconsistency between Federal and State standards.
 - **(c)** No article subject to this chapter shall be sold or offered for sale by any person in commerce, under any name or other marking or labeling which is false or misleading, or in any container of a misleading form or size, but established trade names and other marking and labeling and containers which are not false or misleading and which are approved by the Secretary are permitted.
 - **(d)** If the Secretary has reason to believe that any marking or labeling or the size or form of any container in use or proposed for use with respect to any article subject to this chapter is false or misleading in any particular, he may direct that such use be withheld unless the marking, labeling, or container is modified in such manner as he may prescribe so that it will not be false or misleading. If the person using or proposing to use the marking, labeling, or container does not accept the determination of the Secretary, such person may request a hearing, but the use of the marking, labeling, or container shall, if the Secretary so directs, be withheld pending hearing and final determination by the Secretary. Any such determination by the Secretary shall be conclusive unless, within thirty days after receipt of notice of such final determination, the person adversely affected thereby appeals to the United States Court of Appeals for the circuit in which such person has its principal place of business or to the United States Court of Appeals for the District of Columbia Circuit. The provisions of section 194 of title 7 shall be applicable to appeals taken under this section.
+
+## Source Credit
+
+*([Pub. L. 85–172, § 8](https://www.govinfo.gov/link/plaw/85/public/172), Aug. 28, 1957, [71 Stat. 444](https://www.govinfo.gov/link/statute/71/444); [Pub. L. 90–492, § 8](https://www.govinfo.gov/link/plaw/90/public/492), Aug. 18, 1968, [82 Stat. 799](https://www.govinfo.gov/link/statute/82/799); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695).)*

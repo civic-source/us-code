@@ -3,9 +3,10 @@ title: "Section 4107 - Administrative controls; annual report"
 usc_title: 38
 usc_section: "4107"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 4107"
-generated_at: "2026-03-30T02:55:53.516Z"
+generated_at: "2026-11-23T21:26:16.792Z"
+status: "active"
 ---
 
 # § 4107. Administrative controls; annual report
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:53.516Z"
     - **(C)** the median earnings of participants described in subparagraph (A) during the period described in such subparagraph;
     - **(D)** the median earnings of participants described in subparagraph (B) during the period described in such subparagraph; and
     - **(E)** the percentage of participants in programs under this chapter who obtain a certificate, degree, diploma, licensure, or industry-recognized credential relating to the program in which they participated under this chapter during the third 90-day period following their completion of the program.
+
+## Source Credit
+
+*(Added [Pub. L. 92–540, title V, § 502(a)](https://www.govinfo.gov/link/plaw/92/public/540), Oct. 24, 1972, [86 Stat. 1096](https://www.govinfo.gov/link/statute/86/1096), § 2007; amended [Pub. L. 93–508, title IV, § 401(f)](https://www.govinfo.gov/link/plaw/93/public/508), Dec. 3, 1974, [88 Stat. 1592](https://www.govinfo.gov/link/statute/88/1592); [Pub. L. 94–502, title VI, § 604](https://www.govinfo.gov/link/plaw/94/public/502), Oct. 15, 1976, [90 Stat. 2404](https://www.govinfo.gov/link/statute/90/2404); [Pub. L. 95–202, title III, § 309(b)](https://www.govinfo.gov/link/plaw/95/public/202), Nov. 23, 1977, [91 Stat. 1446](https://www.govinfo.gov/link/statute/91/1446); [Pub. L. 96–466, title V, § 507](https://www.govinfo.gov/link/plaw/96/public/466), Oct. 17, 1980, [94 Stat. 2205](https://www.govinfo.gov/link/statute/94/2205); [Pub. L. 97–306, title III, § 307](https://www.govinfo.gov/link/plaw/97/public/306), Oct. 14, 1982, [96 Stat. 1440](https://www.govinfo.gov/link/statute/96/1440); [Pub. L. 100–323](https://www.govinfo.gov/link/plaw/100/public/323), §§ 2(d), 15(a)(2), May 20, 1988, [102 Stat. 558](https://www.govinfo.gov/link/statute/102/558), 574; renumbered § 4107 and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 107–288](https://www.govinfo.gov/link/plaw/107/public/288), §§ 4(a)(3)(B), (e)(1), 5(a)(1)(D), (E), (d)(1), Nov. 7, 2002, [116 Stat. 2042](https://www.govinfo.gov/link/statute/116/2042), 2044, 2045; [Pub. L. 112–56, title II, § 238](https://www.govinfo.gov/link/plaw/112/public/56), Nov. 21, 2011, [125 Stat. 726](https://www.govinfo.gov/link/statute/125/726).)*

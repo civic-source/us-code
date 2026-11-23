@@ -3,9 +3,10 @@ title: "Section 467 - Definitions"
 usc_title: 33
 usc_section: "467"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 467"
-generated_at: "2026-03-30T02:55:41.057Z"
+generated_at: "2026-11-23T21:26:11.305Z"
+status: "active"
 ---
 
 # § 467. Definitions
@@ -52,3 +53,7 @@ In this subchapter, the following definitions apply:
   - **(15)** The term “State dam safety program” means a State dam safety program approved and assisted under section 467f(e) of this title .
   - **(16)** The term “underserved community” means a community with a population of less than 50,000 that has a median household income of less than 80 percent of the statewide median household income.
   - **(17)** The term “United States”, when used in a geographical sense, means all of the States.
+
+## Source Credit
+
+*([Pub. L. 92–367, § 2](https://www.govinfo.gov/link/plaw/92/public/367), as added [Pub. L. 104–303, title II, § 215(c)(4)](https://www.govinfo.gov/link/plaw/104/public/303), Oct. 12, 1996, [110 Stat. 3685](https://www.govinfo.gov/link/statute/110/3685); amended [Pub. L. 107–310, § 3(e)(2)](https://www.govinfo.gov/link/plaw/107/public/310), Dec. 2, 2002, [116 Stat. 2451](https://www.govinfo.gov/link/statute/116/2451); [Pub. L. 113–121, title III, § 3001(a)](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1282](https://www.govinfo.gov/link/statute/128/1282); [Pub. L. 114–322, title IV, § 5006(a)](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1892](https://www.govinfo.gov/link/statute/130/1892); [Pub. L. 116–260, div. AA, title I, § 132(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2645](https://www.govinfo.gov/link/statute/134/2645); [Pub. L. 118–272, div. A, title I, § 1132(a)](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3021](https://www.govinfo.gov/link/statute/138/3021).)*

@@ -3,9 +3,10 @@ title: "Section 566 - Conduct of committee activity"
 usc_title: 5
 usc_section: "566"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 566"
-generated_at: "2026-03-30T02:52:55.989Z"
+generated_at: "2026-11-23T21:25:23.071Z"
+status: "active"
 ---
 
 # § 566. Conduct of committee activity
@@ -20,3 +21,21 @@ generated_at: "2026-03-30T02:52:55.989Z"
 - **(e)** A negotiated rulemaking committee established under this subchapter may adopt procedures for the operation of the committee. No provision of section 553 of this title shall apply to the procedures of a negotiated rulemaking committee.
 - **(f)** If a committee reaches a consensus on a proposed rule, at the conclusion of negotiations the committee shall transmit to the agency that established the committee a report containing the proposed rule. If the committee does not reach a consensus on a proposed rule, the committee may transmit to the agency a report specifying any areas in which the committee reached a consensus. The committee may include in a report any other information, recommendations, or materials that the committee considers appropriate. Any committee member may include as an addendum to the report additional information, recommendations, or materials.
 - **(g)** In addition to the report required by subsection (f), a committee shall submit to the agency the records required under section 1009(b) and (c) of this title.
+
+Duties of Committee
+
+Representatives of Agency on Committee
+
+Selecting Facilitator
+
+Duties of Facilitator
+
+Committee Procedures
+
+Report of Committee
+
+Records of Committee
+
+## Source Credit
+
+*(Added [Pub. L. 101–648, § 3(a)](https://www.govinfo.gov/link/plaw/101/public/648), Nov. 29, 1990, [104 Stat. 4973](https://www.govinfo.gov/link/statute/104/4973), § 586; renumbered § 566, [Pub. L. 102–354, § 3(a)(2)](https://www.govinfo.gov/link/plaw/102/public/354), Aug. 26, 1992, [106 Stat. 944](https://www.govinfo.gov/link/statute/106/944); amended [Pub. L. 117–286, § 4(a)(8)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4305](https://www.govinfo.gov/link/statute/136/4305).)*

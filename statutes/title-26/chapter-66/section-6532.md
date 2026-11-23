@@ -3,9 +3,10 @@ title: "Section 6532 - Periods of limitation on suits"
 usc_title: 26
 usc_section: "6532"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6532"
-generated_at: "2026-03-30T02:55:27.859Z"
+generated_at: "2026-11-23T21:26:06.894Z"
+status: "active"
 ---
 
 # § 6532. Periods of limitation on suits
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:27.859Z"
 - **(c)**
   - **(1)** Except as provided by paragraph (2), no suit or proceeding under section 7426 shall be begun after the expiration of 2 years from the date of the levy or agreement giving rise to such action.
   - **(2)** If a request is made for the return of property described in section 6343(b), the 2-year period prescribed in paragraph (1) shall be extended for a period of 12 months from the date of filing of such request or for a period of 6 months from the date of mailing by registered or certified mail by the Secretary to the person making such request of a notice of disallowance of the part of the request to which the action relates, whichever is shorter.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 816; [Pub. L. 85–866, title I, § 89(b)](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1665](https://www.govinfo.gov/link/statute/72/1665); [Pub. L. 89–719, title I, § 110(b)](https://www.govinfo.gov/link/plaw/89/public/719), Nov. 2, 1966, [80 Stat. 1144](https://www.govinfo.gov/link/statute/80/1144); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 96–589, § 6(d)(4)](https://www.govinfo.gov/link/plaw/96/public/589), Dec. 24, 1980, [94 Stat. 3408](https://www.govinfo.gov/link/statute/94/3408); [Pub. L. 115–97, title I, § 11071(b)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2091](https://www.govinfo.gov/link/statute/131/2091).)*

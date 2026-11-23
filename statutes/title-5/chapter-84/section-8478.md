@@ -3,9 +3,10 @@ title: "Section 8478 - Bonding"
 usc_title: 5
 usc_section: "8478"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8478"
-generated_at: "2026-03-30T02:52:56.064Z"
+generated_at: "2026-11-23T21:25:23.437Z"
+status: "active"
 ---
 
 # § 8478. Bonding
@@ -34,3 +35,11 @@ generated_at: "2026-03-30T02:52:56.064Z"
   - **(2)** It shall be unlawful for any fiduciary, or any other person having authority to direct the performance of functions described in paragraph (1), to permit any such function to be performed by any person to whom subsection (a) applies unless such person has met the requirements of such subsection.
 - **(e)** Notwithstanding any other provision of law, any person who is required to be bonded as provided in subsection (a) shall be exempt from any other provision of law which would, but for this subsection, require such person to be bonded for the handling of the funds or other property of the Thrift Savings Fund.
 - **(f)** The Secretary of Labor shall prescribe such regulations as may be necessary to carry out the provisions of this section, including exempting a person or class of persons from the requirements of this section.
+
+In General
+
+Termination of Interim Authority
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 586](https://www.govinfo.gov/link/statute/100/586); amended [Pub. L. 99–556, title I](https://www.govinfo.gov/link/plaw/99/public/556), §§ 108, 115, Oct. 27, 1986, [100 Stat. 3132](https://www.govinfo.gov/link/statute/100/3132), 3134; [Pub. L. 102–378, § 2(72)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1355](https://www.govinfo.gov/link/statute/106/1355).)*

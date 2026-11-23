@@ -3,9 +3,10 @@ title: "Section 1063b - Professional or graduate institutions"
 usc_title: 20
 usc_section: "1063b"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1063b"
-generated_at: "2026-03-30T02:54:48.101Z"
+generated_at: "2026-11-23T21:25:47.038Z"
+status: "active"
 ---
 
 # § 1063b. Professional or graduate institutions
@@ -75,3 +76,9 @@ generated_at: "2026-03-30T02:54:48.101Z"
     - **(E)** The contribution, on a percent basis, of the programs for which the institution is eligible to receive funds under this section to the total number of African Americans receiving graduate or professional degrees in the professions or disciplines related to the programs for the previous year.
 - **(g)** Notwithstanding paragraphs (2) and (3) of subsection (f), no institution or qualified program identified in subsection (e)(1) that received a grant for fiscal year 2008 and that is eligible to receive a grant in a subsequent fiscal year shall receive a grant amount in any such subsequent fiscal year that is less than the grant amount received for fiscal year 2008, unless the amount appropriated is not sufficient to provide such grant amounts to all such institutions and programs, or the institution cannot provide sufficient matching funds to meet the requirements of this section.
 - **(h)** No institution that is eligible for and receives an award under section 1102a, 1136a, or 1136b of this title for a fiscal year shall be eligible to apply for a grant, or receive grant funds, under this section for the same fiscal year.
+
+“The Congress finds the following:
+
+## Source Credit
+
+*([Pub. L. 89–329, title III, § 326](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title III, § 301(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1297](https://www.govinfo.gov/link/statute/100/1297); amended [Pub. L. 100–50, § 2(a)(9)](https://www.govinfo.gov/link/plaw/100/public/50), (10), June 3, 1987, [101 Stat. 335](https://www.govinfo.gov/link/statute/101/335); [Pub. L. 102–325, title III, § 303(f)(1)](https://www.govinfo.gov/link/plaw/102/public/325), (g), July 23, 1992, [106 Stat. 475](https://www.govinfo.gov/link/statute/106/475), 476; [Pub. L. 103–208, § 2(a)(9)](https://www.govinfo.gov/link/plaw/103/public/208), Dec. 20, 1993, [107 Stat. 2457](https://www.govinfo.gov/link/statute/107/2457); [Pub. L. 104–141, § 2](https://www.govinfo.gov/link/plaw/104/public/141), May 6, 1996, [110 Stat. 1328](https://www.govinfo.gov/link/statute/110/1328); [Pub. L. 105–244, title III, § 304(b)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1643](https://www.govinfo.gov/link/statute/112/1643); [Pub. L. 110–315, title III, § 311](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3178](https://www.govinfo.gov/link/statute/122/3178).)*

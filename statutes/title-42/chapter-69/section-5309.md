@@ -3,9 +3,10 @@ title: "Section 5309 - Nondiscrimination in programs and activities"
 usc_title: 42
 usc_section: "5309"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5309"
-generated_at: "2026-03-30T02:56:11.230Z"
+generated_at: "2026-11-23T21:26:32.791Z"
+status: "active"
 ---
 
 # § 5309. Nondiscrimination in programs and activities
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.230Z"
 - **(e)**
   - **(1)** In this subsection, the term “youth organization” means an organization described under part B of subtitle II of title 36 that is intended to serve individuals under the age of 21 years.
   - **(2)** No State or unit of general local government that has a designated open forum, limited public forum, or nonpublic forum and that is a recipient of assistance under this chapter shall deny equal access or a fair opportunity to meet to, or discriminate against, any youth organization, including the Boy Scouts of America or any group officially affiliated with the Boy Scouts of America, that wishes to conduct a meeting or otherwise participate in that designated open forum, limited public forum, or nonpublic forum.
+
+## Source Credit
+
+*([Pub. L. 93–383, title I, § 109](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 649](https://www.govinfo.gov/link/statute/88/649); [Pub. L. 97–35, title III, § 306](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 392](https://www.govinfo.gov/link/statute/95/392); [Pub. L. 101–625, title IX](https://www.govinfo.gov/link/plaw/101/public/625), §§ 911, 912(a), Nov. 28, 1990, [104 Stat. 4392](https://www.govinfo.gov/link/statute/104/4392); [Pub. L. 109–148, div. A, title VIII, § 8126(d)](https://www.govinfo.gov/link/plaw/109/public/148), Dec. 30, 2005, [119 Stat. 2730](https://www.govinfo.gov/link/statute/119/2730); [Pub. L. 109–163, div. A, title X, § 1058(d)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3443](https://www.govinfo.gov/link/statute/119/3443).)*

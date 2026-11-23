@@ -3,9 +3,10 @@ title: "Section 999 - Reports by taxpayers; determinations"
 usc_title: 26
 usc_section: "999"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 999"
-generated_at: "2026-03-30T02:55:27.753Z"
+generated_at: "2026-11-23T21:26:06.452Z"
+status: "active"
 ---
 
 # § 999. Reports by taxpayers; determinations
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:55:27.753Z"
   - **(1)** participation in or cooperation with an international boycott by such corporation shall be presumed to be such participation or cooperation by such person, and
   - **(2)** participation in or cooperation with such a boycott by such person shall be presumed to be such participation or cooperation by such corporation.
 - **(f)** Any person (within the meaning of section 6671(b)) required to report under this section who willfully fails to make such report shall, in addition to other penalties provided by law, be fined not more than $25,000, imprisoned for not more than one year, or both.
+
+## Source Credit
+
+*(Added [Pub. L. 94–455, title X, § 1064(a)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1650](https://www.govinfo.gov/link/statute/90/1650); amended [Pub. L. 95–600, title VII, § 703(h)(2)](https://www.govinfo.gov/link/plaw/95/public/600), (3), Nov. 6, 1978, [92 Stat. 2940](https://www.govinfo.gov/link/statute/92/2940); [Pub. L. 98–369, div. A, title VIII, § 802(c)(3)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 999](https://www.govinfo.gov/link/statute/98/999); [Pub. L. 99–514, title XVIII, § 1876(p)(3)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2902](https://www.govinfo.gov/link/statute/100/2902); [Pub. L. 106–519, § 4(5)](https://www.govinfo.gov/link/plaw/106/public/519), Nov. 15, 2000, [114 Stat. 2433](https://www.govinfo.gov/link/statute/114/2433); [Pub. L. 108–357, title I, § 101(b)(8)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1423](https://www.govinfo.gov/link/statute/118/1423).)*

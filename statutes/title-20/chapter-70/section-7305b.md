@@ -3,9 +3,10 @@ title: "Section 7305b - Transferability of funds"
 usc_title: 20
 usc_section: "7305b"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7305b"
-generated_at: "2026-03-30T02:54:48.210Z"
+generated_at: "2026-11-23T21:25:47.573Z"
+status: "active"
 ---
 
 # § 7305b. Transferability of funds
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:54:48.210Z"
 - **(e)**
   - **(1)** Except as otherwise provided in this part, funds transferred under this section are subject to each of the rules and requirements applicable to the funds under the provision to which the transferred funds are transferred.
   - **(2)** Each State educational agency or local educational agency that transfers funds under this section shall conduct consultations in accordance with section 7881 of this title , if such transfer transfers funds from a program that provides for the participation of students, teachers, or other educational personnel, from private schools.
+
+## Source Credit
+
+*([Pub. L. 89–10, title V, § 5103](https://www.govinfo.gov/link/plaw/89/public/10), formerly title VI, § 6123, as added [Pub. L. 107–110, title VI, § 601](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1876](https://www.govinfo.gov/link/statute/115/1876); renumbered title V, § 5103, and amended [Pub. L. 114–95, title V](https://www.govinfo.gov/link/plaw/114/public/95), §§ 5001(a)(1), 5002(3), (5), Dec. 10, 2015, [129 Stat. 2039](https://www.govinfo.gov/link/statute/129/2039), 2040.)*

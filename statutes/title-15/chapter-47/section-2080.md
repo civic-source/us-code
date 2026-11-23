@@ -3,9 +3,10 @@ title: "Section 2080 - Limitations on jurisdiction of Consumer Product Safety Co
 usc_title: 15
 usc_section: "2080"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2080"
-generated_at: "2026-03-30T02:54:08.166Z"
+generated_at: "2026-11-23T21:25:39.912Z"
+status: "active"
 ---
 
 # § 2080. Limitations on jurisdiction of Consumer Product Safety Commission
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:08.166Z"
     - **(C)** A Panel appointed under section 2077 of this title shall terminate when it has submitted its report unless the Commission extends the existence of the Panel.
     - **(D)** Chapter 10 of title 5 shall not apply with respect to any Panel established under this section.
 - **(c)** Each Panel’s report shall contain a complete statement of the basis for the Panel’s determination. The Commission shall consider the report of the Panel and incorporate such report into the advance notice of proposed rulemaking and final rule.
+
+## Source Credit
+
+*([Pub. L. 92–573, § 31](https://www.govinfo.gov/link/plaw/92/public/573), Oct. 27, 1972, [86 Stat. 1232](https://www.govinfo.gov/link/statute/86/1232); [Pub. L. 97–35, title XII, § 1206(b)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 717](https://www.govinfo.gov/link/statute/95/717); [Pub. L. 97–414, § 9(j)(5)](https://www.govinfo.gov/link/plaw/97/public/414), Jan. 4, 1983, [96 Stat. 2064](https://www.govinfo.gov/link/statute/96/2064); [Pub. L. 117–286, § 4(a)(67)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4313](https://www.govinfo.gov/link/statute/136/4313).)*

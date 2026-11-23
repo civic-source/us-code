@@ -3,9 +3,10 @@ title: "Section 4912 - Records, reports, and information"
 usc_title: 42
 usc_section: "4912"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4912"
-generated_at: "2026-03-30T02:56:11.210Z"
+generated_at: "2026-11-23T21:26:32.700Z"
+status: "active"
 ---
 
 # § 4912. Records, reports, and information
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.210Z"
   - **(1)** All information obtained by the Administrator or his representatives pursuant to subsection (a) of this section, which information contains or relates to a trade secret or other matter referred to in section 1905 of title 18 , shall be considered confidential for the purpose of that section, except that such information may be disclosed to other Federal officers or employees, in whose possession it shall remain confidential, or when relevant to the matter in controversy in any proceeding under this chapter.
   - **(2)** Nothing in this subsection shall authorize the withholding of information by the Administrator, or by any officers or employees under his control, from the duly authorized committees of the Congress.
 - **(c)** Any person who knowingly makes any false statement, representation, or certification in any application, record, report, plan, or other document filed or required to be maintained under this chapter or who falsifies, tampers with, or knowingly renders inaccurate any monitoring device or method required to be maintained under this chapter, shall upon conviction be punished by a fine of not more than $10,000, or by imprisonment for not more than six months, or by both.
+
+## Source Credit
+
+*([Pub. L. 92–574, § 13](https://www.govinfo.gov/link/plaw/92/public/574), Oct. 27, 1972, [86 Stat. 1244](https://www.govinfo.gov/link/statute/86/1244).)*

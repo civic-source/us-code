@@ -3,9 +3,10 @@ title: "Section 1318 - Emergencies"
 usc_title: 19
 usc_section: "1318"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1318"
-generated_at: "2026-03-30T02:54:24.629Z"
+generated_at: "2026-11-23T21:25:42.693Z"
+status: "active"
 ---
 
 # § 1318. Emergencies
@@ -18,3 +19,15 @@ generated_at: "2026-03-30T02:54:24.629Z"
     - **(C)** Take any other action that may be necessary to respond directly to the national emergency or specific threat.
   - **(2)** Notwithstanding any other provision of law, the Commissioner of U.S. Customs and Border Protection, when necessary to respond to a specific threat to human life or national interests, is authorized to close temporarily any Customs office or port of entry or take any other lesser action that may be necessary to respond to the specific threat.
   - **(3)** The Secretary of the Treasury or the Commissioner of U.S. Customs and Border Protection, as the case may be, shall notify the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not later than 72 hours after taking any action under paragraph (1) or (2).
+
+Harry S Truman.
+
+Section
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title III, § 318, [46 Stat. 696](https://www.govinfo.gov/link/statute/46/696); [Pub. L. 107–210, div. A, title III, § 342](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 981](https://www.govinfo.gov/link/statute/116/981); [Pub. L. 114–125, title VIII, § 802(d)(2)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 210](https://www.govinfo.gov/link/statute/130/210).)*

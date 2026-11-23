@@ -3,9 +3,10 @@ title: "Section 10741 - Prohibitions against discrimination by rail carriers"
 usc_title: 49
 usc_section: "10741"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 10741"
-generated_at: "2026-03-30T02:56:19.324Z"
+generated_at: "2026-11-23T21:26:40.675Z"
+status: "active"
 ---
 
 # § 10741. Prohibitions against discrimination by rail carriers
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:19.324Z"
   - **(2)** rail rates applicable to different routes; or
   - **(3)** discrimination against the traffic of another carrier providing transportation by any mode.
 - **(c)** Differences between rates, classifications, rules, and practices of rail carriers do not constitute a violation of this section if such differences result from different services provided by rail carriers.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 819](https://www.govinfo.gov/link/statute/109/819).)*

@@ -3,9 +3,10 @@ title: "Section 3962 - Salaries of Senior Foreign Service members"
 usc_title: 22
 usc_section: "3962"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3962"
-generated_at: "2026-03-30T02:55:05.400Z"
+generated_at: "2026-11-23T21:25:58.603Z"
+status: "active"
 ---
 
 # § 3962. Salaries of Senior Foreign Service members
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.400Z"
 - **(b)**
   - **(1)** An individual who is a career appointee in the Senior Executive Service receiving basic pay at one of the rates payable under section 5382 of title 5 and who accepts a limited appointment in the Senior Foreign Service in a salary class for which the basic salary rate is less than such basic rate of pay, shall be paid a salary at his or her former basic rate of pay (with adjustments as provided in paragraph (2)) until the salary for his or her salary class in the Senior Foreign Service equals or exceeds the salary payable to such individual under this subsection.
   - **(2)** The salary paid to an individual under this subsection shall be adjusted by 50 percent of each adjustment, which takes effect after the appointment of such individual to the Senior Foreign Service, in the basic rate of pay at which that individual was paid under section 5382 of title 5 immediately prior to such appointment.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 402](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2087](https://www.govinfo.gov/link/statute/94/2087); [Pub. L. 97–241, title I, § 124](https://www.govinfo.gov/link/plaw/97/public/241), Aug. 24, 1982, [96 Stat. 281](https://www.govinfo.gov/link/statute/96/281); [Pub. L. 108–447, div. B, title IV, § 412(a)](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 2905](https://www.govinfo.gov/link/statute/118/2905).)*

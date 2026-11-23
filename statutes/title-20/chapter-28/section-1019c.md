@@ -3,9 +3,10 @@ title: "Section 1019c - Loan information to be disclosed and model disclosure fo
 usc_title: 20
 usc_section: "1019c"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1019c"
-generated_at: "2026-03-30T02:54:48.096Z"
+generated_at: "2026-11-23T21:25:47.016Z"
+status: "active"
 ---
 
 # § 1019c. Loan information to be disclosed and model disclosure form for institutions participating in the William D. Ford Federal Direct Loan Program
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:48.096Z"
     - **(A)** make the information the Secretary provides to the institution under subsection (a) available to students attending or planning to attend the institution, or the families of such students, as applicable; and
     - **(B)** if the institution provides information regarding a private education loan to a prospective borrower, concurrently provide such borrower with the information the Secretary provides to the institution under subsection (a).
   - **(2)** In providing the information required under paragraph (1), an institution of higher education may use a comparable form designed by the institution instead of the model disclosure form developed under section 1019b(a)(2)(B) of this title .
+
+## Source Credit
+
+*([Pub. L. 89–329, title I, § 154](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title I, § 120](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3125](https://www.govinfo.gov/link/statute/122/3125).)*

@@ -3,9 +3,10 @@ title: "Section 2894a - Complaint database"
 usc_title: 10
 usc_section: "2894a"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2894a"
-generated_at: "2026-03-30T02:53:38.185Z"
+generated_at: "2026-11-23T21:25:32.702Z"
+status: "active"
 ---
 
 # § 2894a. Complaint database
@@ -31,3 +32,19 @@ generated_at: "2026-03-30T02:53:38.185Z"
   - **(3)** The term “tenant” means any of the following:
     - **(A)** A member of a covered armed force who resides in a covered dwelling unit.
     - **(B)** A dependent of a member described in subparagraph (A) who resides in a covered dwelling unit.
+
+Database Required
+
+Public Availability
+
+Inclusion of Tenant Complaints
+
+Inclusion of Certain Information
+
+Response by Landlords
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. B, title XXX, § 3016(b)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1929](https://www.govinfo.gov/link/statute/133/1929); amended [Pub. L. 118–159, div. B, title XXVIII, § 2825(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2256](https://www.govinfo.gov/link/statute/138/2256).)*

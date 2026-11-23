@@ -3,9 +3,10 @@ title: "Section 182 - Cooperative Acquisitions Program Revolving Fund"
 usc_title: 2
 usc_section: "182"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 182"
-generated_at: "2026-03-30T02:53:04.791Z"
+generated_at: "2026-11-23T21:25:21.146Z"
+status: "active"
 ---
 
 # § 182. Cooperative Acquisitions Program Revolving Fund
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:04.791Z"
 - **(c)** The revolving fund shall be credited with all advances and amounts received as payment for purchases under the program and services and supplies furnished to program participants, at rates estimated by the Librarian to be adequate to recover the full direct and indirect costs of the program to the Library over a reasonable period of time.
 - **(d)** Any unobligated and unexpended balances in the revolving fund that the Librarian determines to be in excess of amounts needed for activities financed by the revolving fund, shall be deposited in the Treasury of the United States as miscellaneous receipts. Amounts needed for activities financed by the revolving fund means the direct and indirect costs of the program, including the costs of purchasing, shipping, binding of books and other library materials; supplies, materials, equipment and services needed in support of the program; salaries and benefits; general overhead; and travel.
 - **(e)** The revolving fund shall be subject to audit by the Comptroller General at the Comptroller General’s discretion.
+
+## Source Credit
+
+*([Pub. L. 105–55, title II, § 207](https://www.govinfo.gov/link/plaw/105/public/55), Oct. 7, 1997, [111 Stat. 1193](https://www.govinfo.gov/link/statute/111/1193); [Pub. L. 110–161, div. H, title I, § 1403](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2247](https://www.govinfo.gov/link/statute/121/2247).)*

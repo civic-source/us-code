@@ -3,12 +3,17 @@ title: "Section 2524 - Extent of deductions"
 usc_title: 26
 usc_section: "2524"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 2524"
-generated_at: "2026-03-30T02:55:27.785Z"
+generated_at: "2026-11-23T21:26:06.540Z"
+status: "active"
 ---
 
 # § 2524. Extent of deductions
 
 The deductions provided in sections 2522 and 2523 shall be allowed only to the extent that the gifts therein specified are included in the amount of gifts against which such deductions are applied.
 
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 414.)*

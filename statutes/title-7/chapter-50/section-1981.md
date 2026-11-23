@@ -3,9 +3,10 @@ title: "Section 1981 - Farmers Home Administration"
 usc_title: 7
 usc_section: "1981"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1981"
-generated_at: "2026-03-30T02:53:42.350Z"
+generated_at: "2026-11-23T21:25:28.209Z"
+status: "active"
 ---
 
 # § 1981. Farmers Home Administration
@@ -34,3 +35,17 @@ generated_at: "2026-03-30T02:53:42.350Z"
   - **(2)** Paragraph (1) of this subsection shall not apply to a recipient who is seeking to provide retail broadband service in any area where retail broadband service is available at the minimum broadband speeds, as defined under section 601(e) of the Rural Electrification Act of 1936 [ 7 U.S.C. 950bb(e) ].
   - **(3)** The Secretary shall not provide funding under paragraph (1) if the funding would result in competitive harm to any grant, loan, or loan guarantee provided under the Rural Electrification Act of 1936.
 - **(f)** The Secretary and the designees of the Secretary are hereby granted the same access to information and subject to the same requirements applicable to the Secretary of Housing and Urban Development as provided in section 653 of title 42 and section 6103( l )(7)(D)(ix) of title 26 to verify income for individuals participating in sections 502, 504, 521, and 542 of the Housing Act of 1949 ( 42 U.S.C. 1472 , 1474, 1490a, and 1490r), notwithstanding section 653( l ) of title 42.
+
+Staffing and Information Technology Upgrades
+
+Technical Improvements.—
+
+Authorization of appropriations
+
+Availability
+
+Timeline
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 331](https://www.govinfo.gov/link/plaw/87/public/128), Aug. 8, 1961, [75 Stat. 312](https://www.govinfo.gov/link/statute/75/312); [Pub. L. 90–488, § 11](https://www.govinfo.gov/link/plaw/90/public/488), Aug. 15, 1968, [82 Stat. 771](https://www.govinfo.gov/link/statute/82/771); [Pub. L. 92–419, title I, § 124](https://www.govinfo.gov/link/plaw/92/public/419), Aug. 30, 1972, [86 Stat. 665](https://www.govinfo.gov/link/statute/86/665); [Pub. L. 95–334, title I, § 121](https://www.govinfo.gov/link/plaw/95/public/334), Aug. 4, 1978, [92 Stat. 427](https://www.govinfo.gov/link/statute/92/427); [Pub. L. 97–98, title XVI, § 1603](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1346](https://www.govinfo.gov/link/statute/95/1346); [Pub. L. 99–198, title XIII, § 1309](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1523](https://www.govinfo.gov/link/statute/99/1523); [Pub. L. 100–233, title VI, § 615(c)](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1682](https://www.govinfo.gov/link/statute/101/1682); [Pub. L. 101–624, title XVIII](https://www.govinfo.gov/link/plaw/101/public/624), §§ 1805, 1806, title XXIII, §§ 2303(a), 2388(d)(1), Nov. 28, 1990, [104 Stat. 3819](https://www.govinfo.gov/link/statute/104/3819), 3981, 4052; [Pub. L. 102–237, title V, § 501(c)](https://www.govinfo.gov/link/plaw/102/public/237), title VII, § 701(h)(1)(E), Dec. 13, 1991, [105 Stat. 1866](https://www.govinfo.gov/link/statute/105/1866), 1880; [Pub. L. 103–248, § 2](https://www.govinfo.gov/link/plaw/103/public/248), May 11, 1994, [108 Stat. 619](https://www.govinfo.gov/link/statute/108/619); [Pub. L. 103–354, title II, § 226(h)](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3216](https://www.govinfo.gov/link/statute/108/3216); [Pub. L. 104–127, title VI](https://www.govinfo.gov/link/plaw/104/public/127), §§ 631, 632, title VII, § 748, Apr. 4, 1996, [110 Stat. 1092](https://www.govinfo.gov/link/statute/110/1092), 1128; [Pub. L. 107–171, title V](https://www.govinfo.gov/link/plaw/107/public/171), §§ 5303, 5304(a), May 13, 2002, [116 Stat. 345](https://www.govinfo.gov/link/statute/116/345); [Pub. L. 113–79, title VI, § 6018](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 846](https://www.govinfo.gov/link/statute/128/846); [Pub. L. 115–334, title VI](https://www.govinfo.gov/link/plaw/115/public/334), §§ 6210(a), 6417, Dec. 20, 2018, [132 Stat. 4743](https://www.govinfo.gov/link/statute/132/4743), 4763.)*

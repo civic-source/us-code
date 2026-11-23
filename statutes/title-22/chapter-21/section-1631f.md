@@ -3,9 +3,10 @@ title: "Section 1631f - Claims to vested property"
 usc_title: 22
 usc_section: "1631f"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1631f"
-generated_at: "2026-03-30T02:55:05.335Z"
+generated_at: "2026-11-23T21:25:58.405Z"
+status: "active"
 ---
 
 # § 1631f. Claims to vested property
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.335Z"
   - **(2)** that the claimant was the owner of such property immediately prior to its vesting, or is the successor in interest of such owner by inheritance, devise, or bequest.
 - **(c)** The sole relief and remedy of any person having any claim to any property vested pursuant to section 1631a(a) of this title , except a person claiming under section 1631 o of this title, shall be that provided by the terms of subsection (a) or (b) of this section, and in the event of the liquidation by sale or otherwise of such property, shall be limited to and enforced against the net proceeds received therefrom and held by the designee of the President. The claim of any person based on his ownership of shares of stock or other proprietary interest in a corporation which was the owner of property at the date of vesting thereof under section 1631a(a) of this title shall be allowable under subsection (a) or (b) of this section if 25 per centum or more of the outstanding capital stock or other proprietary interest in the corporation was owned at such date by nationals of countries other than Bulgaria, Hungary, Rumania, Germany, or Japan. But no such claim of a national of a foreign country shall be satisfied except after certification by the Department of State that the country of the national accords protection to nationals of the United States in similar types of cases.
 - **(d)** The designee of the President may retain or recover from any property, or the net proceeds thereof, returned pursuant to subsection (a) or (b) of this section an amount not exceeding that expended or incurred by him for the conservation, preservation, or maintenance of such property or proceeds.
+
+## Source Credit
+
+*(Mar. 10, 1950, ch. 54, title II, § 207, as added Aug. 9, 1955, ch. 645, § 3, [69 Stat. 564](https://www.govinfo.gov/link/statute/69/564); amended [Pub. L. 85–791, § 33](https://www.govinfo.gov/link/plaw/85/public/791), Aug. 28, 1958, [72 Stat. 951](https://www.govinfo.gov/link/statute/72/951); [Pub. L. 90–421, § 1(6)](https://www.govinfo.gov/link/plaw/90/public/421), July 24, 1968, [82 Stat. 421](https://www.govinfo.gov/link/statute/82/421).)*

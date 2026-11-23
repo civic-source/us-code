@@ -3,9 +3,10 @@ title: "Section 45b - Consumer review protection"
 usc_title: 15
 usc_section: "45b"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 45b"
-generated_at: "2026-03-30T02:54:08.025Z"
+generated_at: "2026-11-23T21:25:39.479Z"
+status: "active"
 ---
 
 # § 45b. Consumer review protection
@@ -74,3 +75,7 @@ generated_at: "2026-03-30T02:54:08.025Z"
 - **(i)** This section shall take effect on December 14, 2016 , except that—
   - **(1)** subsections (b) and (c) shall apply with respect to contracts in effect on or after the date that is 90 days after December 14, 2016 ; and
   - **(2)** subsections (d) and (e) shall apply with respect to contracts in effect on or after the date that is 1 year after December 14, 2016 .
+
+## Source Credit
+
+*([Pub. L. 114–258, § 2](https://www.govinfo.gov/link/plaw/114/public/258), Dec. 14, 2016, [130 Stat. 1355](https://www.govinfo.gov/link/statute/130/1355).)*

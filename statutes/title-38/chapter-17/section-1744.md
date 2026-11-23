@@ -3,9 +3,10 @@ title: "Section 1744 - Hiring and retention of nurses: payments to assist States
 usc_title: 38
 usc_section: "1744"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1744"
-generated_at: "2026-03-30T02:55:53.487Z"
+generated_at: "2026-11-23T21:26:16.665Z"
+status: "active"
 ---
 
 # § 1744. Hiring and retention of nurses: payments to assist States
@@ -24,3 +25,27 @@ generated_at: "2026-03-30T02:55:53.487Z"
 - **(h)** The Secretary shall require as a condition of any payment under this section that, in any case in which the State home receives a refund payment made by an employee in breach of the terms of an agreement for employee assistance that used funds provided under this section, the payment shall be returned to the State home’s incentive program account and credited as a non-Federal funding source.
 - **(i)** Any State home receiving a payment under this section for any fiscal year, shall, as a condition of the payment, be required to agree to provide to the Secretary a report setting forth in detail the use of funds received through the payment, including a descriptive analysis of how effective the incentive program has been on nurse staffing in the State home during that fiscal year. The report for any fiscal year shall be provided to the Secretary within 60 days of the close of the fiscal year and shall be subject to audit by the Secretary. Eligibility for a payment under this section for any later fiscal year is contingent upon the receipt by the Secretary of the annual report under this subsection for the previous fiscal year in accordance with this subsection.
 - **(j)** The Secretary shall prescribe regulations to carry out this section. The regulations shall include the establishment of criteria for the award of payments under this section.
+
+Payment Program
+
+Eligible Recipients
+
+Use of Funds Received
+
+Limitations on Amount of Payment
+
+Applications
+
+Source of Funds
+
+Disbursement
+
+Use of Certain Receipts
+
+Annual Report From Payment Recipients
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 108–422, title II, § 201(a)(1)](https://www.govinfo.gov/link/plaw/108/public/422), Nov. 30, 2004, [118 Stat. 2380](https://www.govinfo.gov/link/statute/118/2380).)*

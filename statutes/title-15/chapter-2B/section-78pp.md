@@ -3,9 +3,10 @@ title: "Section 78pp - Investor Advisory Committee"
 usc_title: 15
 usc_section: "78pp"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 78pp"
-generated_at: "2026-03-30T02:54:08.061Z"
+generated_at: "2026-11-23T21:25:39.574Z"
+status: "active"
 ---
 
 # § 78pp. Investor Advisory Committee
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:54:08.061Z"
 - **(h)** Nothing in this section shall require the Commission to agree to or act upon any finding or recommendation of the Committee.
 - **(i)** Chapter 10 of title 5 shall not apply with respect to the Committee and its activities.
 - **(j)** There is authorized to be appropriated to the Commission such sums as are necessary to carry out this section.
+
+## Source Credit
+
+*(June 6, 1934, ch. 404, title I, § 39, as added [Pub. L. 111–203, title IX, § 911](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1822](https://www.govinfo.gov/link/statute/124/1822); amended [Pub. L. 117–286, § 4(a)(64)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4312](https://www.govinfo.gov/link/statute/136/4312).)*

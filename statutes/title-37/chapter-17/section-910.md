@@ -3,9 +3,10 @@ title: "Section 910 - Replacement of lost income: involuntarily mobilized reserv
 usc_title: 37
 usc_section: "910"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 910"
-generated_at: "2026-03-30T02:55:44.060Z"
+generated_at: "2026-11-23T21:26:14.265Z"
+status: "active"
 ---
 
 # § 910. Replacement of lost income: involuntarily mobilized reserve component members and members of the Space Force subject to extended and frequent active duty service
@@ -35,3 +36,21 @@ generated_at: "2026-03-30T02:55:44.060Z"
     - **(B)** any amount of special pay or incentive pay and any allowance (other than an allowance included in regular military compensation) that is paid to the member on a monthly basis.
 - **(f)** This section shall be administered under regulations to be prescribed by the Secretary of Defense.
 - **(g)** No payment shall be made to a member under this section for months beginning after December 31, 2026 , unless the entitlement of the member to payments under this section commenced on or before that date.
+
+Payment Required
+
+Eligibility
+
+Minimum and Maximum Payment Amounts
+
+Monthly Active-Duty Income Differential
+
+Definitions
+
+Regulations
+
+Termination
+
+## Source Credit
+
+*(Added [Pub. L. 109–163, div. A, title VI, § 614(a)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3292](https://www.govinfo.gov/link/statute/119/3292); amended [Pub. L. 110–181, div. A, title VI, § 604](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 145](https://www.govinfo.gov/link/statute/122/145); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title VI, § 605, Oct. 14, 2008, [122 Stat. 4483](https://www.govinfo.gov/link/statute/122/4483); [Pub. L. 111–84, div. A, title VI, § 611(7)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2352](https://www.govinfo.gov/link/statute/123/2352); [Pub. L. 111–383, div. A, title VI](https://www.govinfo.gov/link/plaw/111/public/383), §§ 601(a), 611(7), Jan. 7, 2011, [124 Stat. 4235](https://www.govinfo.gov/link/statute/124/4235), 4236; [Pub. L. 112–81, div. A, title VI, § 611(7)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1449](https://www.govinfo.gov/link/statute/125/1449); [Pub. L. 112–239, div. A, title VI, § 611(8)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1776](https://www.govinfo.gov/link/statute/126/1776); [Pub. L. 113–66, div. A, title VI, § 611(8)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 780](https://www.govinfo.gov/link/statute/127/780); [Pub. L. 113–291, div. A, title VI, § 611(8)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3399](https://www.govinfo.gov/link/statute/128/3399); [Pub. L. 114–92, div. A, title VI, § 611(8)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 838](https://www.govinfo.gov/link/statute/129/838); [Pub. L. 114–328, div. A, title VI](https://www.govinfo.gov/link/plaw/114/public/328), §§ 611(8), 618(h)(5), Dec. 23, 2016, [130 Stat. 2157](https://www.govinfo.gov/link/statute/130/2157), 2161; [Pub. L. 115–91, div. A, title VI, § 611(8)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1421](https://www.govinfo.gov/link/statute/131/1421); [Pub. L. 115–232, div. A, title VI, § 611(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1796](https://www.govinfo.gov/link/statute/132/1796); [Pub. L. 116–92, div. A, title VI, § 611(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1425](https://www.govinfo.gov/link/statute/133/1425); [Pub. L. 116–283, div. A, title VI, § 611(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3673](https://www.govinfo.gov/link/statute/134/3673); [Pub. L. 117–81, div. A, title VI, § 611(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1769](https://www.govinfo.gov/link/statute/135/1769); [Pub. L. 117–263, div. A, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2619](https://www.govinfo.gov/link/statute/136/2619); [Pub. L. 118–31, div. A, title VI, § 613(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 291](https://www.govinfo.gov/link/statute/137/291); [Pub. L. 118–159, div. A, title VI, § 611(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1932](https://www.govinfo.gov/link/statute/138/1932); [Pub. L. 119–60, div. A, title VI](https://www.govinfo.gov/link/plaw/119/public/60), §§ 601(g)(2), 611(a), Dec. 18, 2025, [139 Stat. 905](https://www.govinfo.gov/link/statute/139/905), 906.)*

@@ -3,9 +3,10 @@ title: "Section 2621 - Consideration and determination respecting certain ratema
 usc_title: 16
 usc_section: "2621"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2621"
-generated_at: "2026-03-30T02:54:23.004Z"
+generated_at: "2026-11-23T21:25:51.951Z"
+status: "active"
 ---
 
 # § 2621. Consideration and determination respecting certain ratemaking standards
@@ -107,3 +108,7 @@ generated_at: "2026-03-30T02:54:23.004Z"
     - **(B)** improve the customer experience associated with electric vehicle charging, including by reducing charging times for light-, medium-, and heavy-duty vehicles;
     - **(C)** accelerate third-party investment in electric vehicle charging for light-, medium-, and heavy-duty vehicles; and
     - **(D)** appropriately recover the marginal costs of delivering electricity to electric vehicles and electric vehicle charging infrastructure.
+
+## Source Credit
+
+*([Pub. L. 95–617, title I, § 111](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3121](https://www.govinfo.gov/link/statute/92/3121); [Pub. L. 102–486, title I, § 111(a)](https://www.govinfo.gov/link/plaw/102/public/486), (b), title VII, § 712, Oct. 24, 1992, [106 Stat. 2795](https://www.govinfo.gov/link/statute/106/2795), 2910; [Pub. L. 109–58, title XII](https://www.govinfo.gov/link/plaw/109/public/58), §§ 1251(a), 1252(a), 1254(a), Aug. 8, 2005, [119 Stat. 962](https://www.govinfo.gov/link/statute/119/962), 963, 970; [Pub. L. 110–140, title V, § 532(a)](https://www.govinfo.gov/link/plaw/110/public/140), title XIII, § 1307(a), Dec. 19, 2007, [121 Stat. 1665](https://www.govinfo.gov/link/statute/121/1665), 1791; [Pub. L. 111–5, div. A, title IV, § 408(a)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 146](https://www.govinfo.gov/link/statute/123/146); [Pub. L. 117–58, div. D, title I, § 40104(a)(1)](https://www.govinfo.gov/link/plaw/117/public/58), title IV, § 40431(a), Nov. 15, 2021, [135 Stat. 930](https://www.govinfo.gov/link/statute/135/930), 1047.)*

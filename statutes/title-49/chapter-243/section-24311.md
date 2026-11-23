@@ -3,9 +3,10 @@ title: "Section 24311 - Acquiring interests in property by eminent domain"
 usc_title: 49
 usc_section: "24311"
 chapter: 243
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 24311"
-generated_at: "2026-03-30T02:56:19.344Z"
+generated_at: "2026-11-23T21:26:40.738Z"
+status: "active"
 ---
 
 # § 24311. Acquiring interests in property by eminent domain
@@ -35,3 +36,117 @@ generated_at: "2026-03-30T02:56:19.344Z"
     - **(B)** the obligations of Amtrak to provide modern, efficient, and economical rail passenger transportation can be met adequately by acquiring an interest in other property, either by sale or by exercising its right of eminent domain under subsection (a) of this section.
   - **(2)** If the amount of compensation is not determined by the date of the Board’s order, the order shall require, as part of the compensation, interest at 6 percent a year from the date prescribed for the conveyance until the compensation is paid.
   - **(3)** Amtrak subsequently may reconvey to a third party an interest conveyed to Amtrak under this subsection or prior comparable provision of law if the Board decides that the reconveyance will carry out the purposes of this part, regardless of when the proceeding was brought (including a proceeding pending before a United States court on November 28, 1990 ).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 24311(a) | 45:545(d)(1) (less words between 11th comma and proviso). | Oct. 30, 1970 , Pub. L. 91–518 , 84 Stat. 1327 , § 305(d)(1); added Nov. 3, 1973 , Pub. L. 93–146, § 6 , 87 Stat. 550 ; restated Oct. 28, 1974 , Pub. L. 93–496, § 6 , 88 Stat. 1528 ; Feb. 5, 1976 , Pub. L. 94–210, § 706(g) , 90 Stat. 125 ; May 30, 1980 , Pub. L. 96–254, § 206(a) , 94 Stat. 412 . |
+| 24311(b)(1) | 45:545(d)(1) (words between 11th comma and proviso). |  |
+|  | 45:545(d)(2), (3) (1st sentence). | Oct. 30, 1970 , Pub. L. 91–518 , 84 Stat. 1327 , § 305(d)(2)–(5); added Nov. 3, 1973 , Pub. L. 93–146, § 6 , 87 Stat. 550 . |
+| 24311(b)(2) | 45:545(d)(3) (2d sentence), (5). |  |
+| 24311(b)(3) | 45:545(d)(3) (3d, last sentences). |  |
+| 24311(b)(4) | 45:545(d)(4). |  |
+| 24311(c) | 45:562(d). | Oct. 30, 1970 , Pub. L. 91–518 , 84 Stat. 1327 , § 402(d); added Nov. 3, 1973 , Pub. L. 93–146, § 10(2) , 87 Stat. 552 ; Feb. 5, 1976 , Pub. L. 94–210, § 706(h) , 90 Stat. 125 ; May 30, 1980 , Pub. L. 96–254, § 206(a) , 94 Stat. 412 ; Nov. 28, 1990 , Pub. L. 101–641, § 9(a) , 104 Stat. 4658 . |
+|  | 45:562 (note). | Nov. 28, 1990 , Pub. L. 101–641, § 9(b) , 104 Stat. 4658 . |
+
+
+General Authority
+
+Civil Actions
+
+Authority To Condemn Rail Carrier Property Interests
+
+Historical and Revision Notes
+
+24311(a)
+
+Oct. 30, 1970
+
+Pub. L. 91–518
+
+84 Stat. 1327
+
+Nov. 3, 1973
+
+Pub. L. 93–146, § 6
+
+87 Stat. 550
+
+Oct. 28, 1974
+
+Pub. L. 93–496, § 6
+
+88 Stat. 1528
+
+Feb. 5, 1976
+
+Pub. L. 94–210, § 706(g)
+
+90 Stat. 125
+
+May 30, 1980
+
+Pub. L. 96–254, § 206(a)
+
+94 Stat. 412
+
+24311(b)(1)
+
+Oct. 30, 1970
+
+Pub. L. 91–518
+
+84 Stat. 1327
+
+Nov. 3, 1973
+
+Pub. L. 93–146, § 6
+
+87 Stat. 550
+
+24311(b)(2)
+
+24311(b)(3)
+
+24311(b)(4)
+
+24311(c)
+
+Oct. 30, 1970
+
+Pub. L. 91–518
+
+84 Stat. 1327
+
+Nov. 3, 1973
+
+Pub. L. 93–146, § 10(2)
+
+87 Stat. 552
+
+Feb. 5, 1976
+
+Pub. L. 94–210, § 706(h)
+
+90 Stat. 125
+
+May 30, 1980
+
+Pub. L. 96–254, § 206(a)
+
+94 Stat. 412
+
+Nov. 28, 1990
+
+Pub. L. 101–641, § 9(a)
+
+104 Stat. 4658
+
+Nov. 28, 1990
+
+Pub. L. 101–641, § 9(b)
+
+104 Stat. 4658
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 915](https://www.govinfo.gov/link/statute/108/915); [Pub. L. 112–141, div. C, title II, § 32932(c)(2)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 829](https://www.govinfo.gov/link/statute/126/829).)*

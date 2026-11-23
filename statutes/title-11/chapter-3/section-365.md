@@ -3,9 +3,10 @@ title: "Section 365 - Executory contracts and unexpired leases"
 usc_title: 11
 usc_section: "365"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 365"
-generated_at: "2026-03-30T02:53:53.875Z"
+generated_at: "2026-11-23T21:25:34.904Z"
+status: "active"
 ---
 
 # § 365. Executory contracts and unexpired leases
@@ -118,3 +119,9 @@ generated_at: "2026-03-30T02:53:53.875Z"
     - **(B)** If, not later than 30 days after notice is provided under subparagraph (A), the debtor notifies the lessor in writing that the lease is assumed, the liability under the lease will be assumed by the debtor and not by the estate.
     - **(C)** The stay under section 362 and the injunction under section 524(a)(2) shall not be violated by notification of the debtor and negotiation of cure under this subsection.
   - **(3)** In a case under chapter 11 in which the debtor is an individual and in a case under chapter 13, if the debtor is the lessee with respect to personal property and the lease is not assumed in the plan confirmed by the court, the lease is deemed rejected as of the conclusion of the hearing on confirmation. If the lease is rejected, the stay under section 362 and any stay under section 1301 is automatically terminated with respect to the property subject to the lease.
+
+“Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2574](https://www.govinfo.gov/link/statute/92/2574); [Pub. L. 98–353, title III](https://www.govinfo.gov/link/plaw/98/public/353), §§ 362, 402–404, July 10, 1984, [98 Stat. 361](https://www.govinfo.gov/link/statute/98/361), 367; [Pub. L. 99–554, title II](https://www.govinfo.gov/link/plaw/99/public/554), §§ 257(j), (m), 283(e), Oct. 27, 1986, [100 Stat. 3115](https://www.govinfo.gov/link/statute/100/3115), 3117; [Pub. L. 100–506, § 1(b)](https://www.govinfo.gov/link/plaw/100/public/506), Oct. 18, 1988, [102 Stat. 2538](https://www.govinfo.gov/link/statute/102/2538); [Pub. L. 101–647, title XXV, § 2522(c)](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4866](https://www.govinfo.gov/link/statute/104/4866); [Pub. L. 102–365, § 19(b)](https://www.govinfo.gov/link/plaw/102/public/365) –(e), Sept. 3, 1992, [106 Stat. 982–984](https://www.govinfo.gov/link/statute/106/982); [Pub. L. 103–394, title II](https://www.govinfo.gov/link/plaw/103/public/394), §§ 205(a), 219(a), (b), title V, § 501(d)(10), Oct. 22, 1994, [108 Stat. 4122](https://www.govinfo.gov/link/statute/108/4122), 4128, 4145; [Pub. L. 103–429, § 1](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4377](https://www.govinfo.gov/link/statute/108/4377); [Pub. L. 109–8, title III](https://www.govinfo.gov/link/plaw/109/public/8), §§ 309(b), 328(a), title IV, § 404, Apr. 20, 2005, [119 Stat. 82](https://www.govinfo.gov/link/statute/119/82), 100, 104; [Pub. L. 116–260, div. FF, title X, § 1001(f)(1)](https://www.govinfo.gov/link/plaw/116/public/260), (2)(A), Dec. 27, 2020, [134 Stat. 3219](https://www.govinfo.gov/link/statute/134/3219).)*

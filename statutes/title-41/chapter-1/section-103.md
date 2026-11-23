@@ -3,9 +3,10 @@ title: "Section 103 - Commercial product"
 usc_title: 41
 usc_section: "103"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 103"
-generated_at: "2026-03-30T02:55:55.798Z"
+generated_at: "2026-11-23T21:26:18.771Z"
+status: "active"
 ---
 
 # § 103. Commercial product
@@ -26,3 +27,7 @@ In this subtitle, the term “commercial product” means any of the following:
   - **(6)** A nondevelopmental item if the procuring agency determines, in accordance with conditions in the Federal Acquisition Regulation, that—
     - **(A)** the product was developed exclusively at private expense; and
     - **(B)** has been sold in substantial quantities, on a competitive basis, to multiple State and local governments or to multiple foreign governments.
+
+## Source Credit
+
+*(Added [Pub. L. 115–232, div. A, title VIII, § 836(a)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1859](https://www.govinfo.gov/link/statute/132/1859).)*

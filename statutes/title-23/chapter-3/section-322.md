@@ -3,9 +3,10 @@ title: "Section 322 - Magnetic levitation transportation technology deployment p
 usc_title: 23
 usc_section: "322"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 322"
-generated_at: "2026-03-30T02:55:12.567Z"
+generated_at: "2026-11-23T21:25:53.921Z"
+status: "active"
 ---
 
 # § 322. Magnetic levitation transportation technology deployment program
@@ -69,3 +70,97 @@ generated_at: "2026-03-30T02:55:12.567Z"
     - **(B)** Notwithstanding section 118(a), funds made available under subparagraph (A)—
       - **(i)** shall not be available in advance of an annual appropriation; and
       - **(ii)** shall remain available until expended.
+
+Definitions
+
+Eligible project costs
+
+Full project costs
+
+Partnership potential
+
+Financial Assistance.—
+
+In general
+
+Federal share
+
+Use of assistance
+
+Solicitation of Applications for Assistance
+
+Project Eligibility
+
+Project Selection Criteria
+
+Project Selection.—
+
+Preconstruction planning activities
+
+Final design, engineering, and construction activities
+
+Joint Ventures
+
+Funding.—
+
+In general.—
+
+Contract authority; authorization of appropriations.—
+
+In general
+
+Contract authority
+
+Noncontract authority authorization of appropriations.—
+
+In general
+
+Availability
+
+Availability of funds
+
+Other federal funds
+
+Other assistance
+
+Low-Speed Project.—
+
+In general
+
+Noncontract authority authorization of appropriations.—
+
+In general
+
+Availability
+
+Definitions
+
+Eligible project costs
+
+Full project costs
+
+State
+
+In General.—
+
+Assistance for eligible projects
+
+Use of assistance
+
+Applicability of other laws
+
+Project Eligibility
+
+Allocation
+
+Contract Authority
+
+In general
+
+Funding
+
+Federal share
+
+## Source Credit
+
+*(Added and amended [Pub. L. 105–178, title I, § 1218(a)](https://www.govinfo.gov/link/plaw/105/public/178), (c), June 9, 1998, [112 Stat. 216](https://www.govinfo.gov/link/statute/112/216); [Pub. L. 105–206, title IX, § 9003(i)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 841](https://www.govinfo.gov/link/statute/112/841); [Pub. L. 114–94, div. A, title I, § 1109(c)(3)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1343](https://www.govinfo.gov/link/statute/129/1343).)*

@@ -3,9 +3,10 @@ title: "Section 293b - Loan repayments and fellowships regarding faculty positio
 usc_title: 42
 usc_section: "293b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 293b"
-generated_at: "2026-03-30T02:56:10.775Z"
+generated_at: "2026-11-23T21:26:30.627Z"
+status: "active"
 ---
 
 # § 293b. Loan repayments and fellowships regarding faculty positions
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:56:10.775Z"
     - **(C)** provide an assurance that the individual that will receive the fellowship will be a member of the faculty of the applicant school; and
     - **(D)** provide an assurance that the individual that will receive the fellowship will have, at a minimum, appropriate advanced preparation (such as a master’s or doctoral degree) and special skills necessary to enable such individual to teach and practice.
   - **(5)** For purposes of this subsection, the term “underrepresented minority individuals” means individuals who are members of racial or ethnic minority groups that are underrepresented in the health professions including nursing.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 738, as added [Pub. L. 105–392, title I, § 101(a)](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3532](https://www.govinfo.gov/link/statute/112/3532); amended [Pub. L. 111–148, title V, § 5402(a)](https://www.govinfo.gov/link/plaw/111/public/148), title X, § 10501(d), Mar. 23, 2010, [124 Stat. 644](https://www.govinfo.gov/link/statute/124/644), 995.)*

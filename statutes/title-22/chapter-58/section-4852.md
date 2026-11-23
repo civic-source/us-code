@@ -3,9 +3,10 @@ title: "Section 4852 - Diplomatic construction program"
 usc_title: 22
 usc_section: "4852"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4852"
-generated_at: "2026-03-30T02:55:05.414Z"
+generated_at: "2026-11-23T21:25:58.652Z"
+status: "active"
 ---
 
 # § 4852. Diplomatic construction program
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:05.414Z"
 - **(d)** Not less than 10 percent of the amount appropriated pursuant to section 4851(a) of this title for diplomatic construction or design projects each fiscal year shall be allocated to the extent practicable for contracts with American minority contractors.
 - **(e)** Not less than 10 percent of the amount appropriated pursuant to section 4851(a) of this title for diplomatic construction or design projects each fiscal year shall be allocated to the extent practicable for contracts with American small business contractors.
 - **(f)** With respect to a diplomatic construction project, a prime contractor may not subcontract more than 50 percent of the total value of its contract for that project.
+
+## Source Credit
+
+*([Pub. L. 99–399, title IV, § 402](https://www.govinfo.gov/link/plaw/99/public/399), Aug. 27, 1986, [100 Stat. 864](https://www.govinfo.gov/link/statute/100/864); [Pub. L. 101–246, title I, § 132](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 32](https://www.govinfo.gov/link/statute/104/32); [Pub. L. 102–138, title I, § 131](https://www.govinfo.gov/link/plaw/102/public/138), Oct. 28, 1991, [105 Stat. 662](https://www.govinfo.gov/link/statute/105/662); [Pub. L. 103–236, title I, § 162(g)(10)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 407](https://www.govinfo.gov/link/statute/108/407); [Pub. L. 107–228, div. A, title II, § 206(b)](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1364](https://www.govinfo.gov/link/statute/116/1364); [Pub. L. 117–81, div. E, title LII, § 5208](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2357](https://www.govinfo.gov/link/statute/135/2357); [Pub. L. 118–159, div. G, title LXXII, § 7214](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2536](https://www.govinfo.gov/link/statute/138/2536).)*

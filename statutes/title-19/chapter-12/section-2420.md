@@ -3,9 +3,10 @@ title: "Section 2420 - Trade enforcement priorities"
 usc_title: 19
 usc_section: "2420"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2420"
-generated_at: "2026-03-30T02:54:24.674Z"
+generated_at: "2026-11-23T21:25:42.803Z"
+status: "active"
 ---
 
 # § 2420. Trade enforcement priorities
@@ -57,3 +58,41 @@ generated_at: "2026-03-30T02:54:24.674Z"
   - **(1)** The term “WTO” means the World Trade Organization.
   - **(2)** The term “WTO Agreement” has the meaning given that term in section 3501(9) of this title .
   - **(3)** The term “WTO Agreements” means the WTO Agreement and agreements annexed to that Agreement.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+Section
+
+Sec
+
+Sec
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Section
+
+Sec
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 93–618, title III, § 310](https://www.govinfo.gov/link/plaw/93/public/618), as added [Pub. L. 100–418, title I, § 1302(a)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1176](https://www.govinfo.gov/link/statute/102/1176); amended [Pub. L. 103–465, title III, § 314(f)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4941](https://www.govinfo.gov/link/statute/108/4941); [Pub. L. 114–125, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 180](https://www.govinfo.gov/link/statute/130/180).)*

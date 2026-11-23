@@ -3,9 +3,10 @@ title: "Section 3173 - Working capital fund for General Services Administration"
 usc_title: 40
 usc_section: "3173"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 3173"
-generated_at: "2026-03-30T02:55:43.378Z"
+generated_at: "2026-11-23T21:26:14.858Z"
+status: "active"
 ---
 
 # § 3173. Working capital fund for General Services Administration
@@ -21,3 +22,45 @@ generated_at: "2026-03-30T02:55:43.378Z"
     - **(A)** Transfer of an amount under this section must be done no later than the end of the fifth fiscal year after the fiscal year for which the amount is appropriated or otherwise made available.
     - **(B)** An amount transferred under this section may be used only with the advance approval of the Committees on Appropriations of the House of Representatives and the Senate.
     - **(C)** An amount transferred under this section remains available until expended.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3173(a), (b) | 40:293 (words before proviso). | May 3, 1945, ch. 106 , title I, 101 (2d complete par. on p. 115), 59 Stat. 115 . |
+| 3173(c) | 40:293 (proviso). |  |
+
+
+Establishment and Purpose
+
+Composition.—
+
+In general
+
+Cost and capital requirements
+
+Deposit of Excess Amounts in the Treasury
+
+Transfer and Use of Amounts for Major Equipment Acquisitions.—
+
+In general
+
+Requirements and Availability.—
+
+Time for transfer
+
+Approval for use
+
+Availability
+
+Historical and Revision Notes
+
+3173(a), (b)
+
+May 3, 1945, ch. 106
+
+59 Stat. 115
+
+3173(c)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1155](https://www.govinfo.gov/link/statute/116/1155); [Pub. L. 111–8, div. D, title V, § 518(a)](https://www.govinfo.gov/link/plaw/111/public/8), (b), (c)(2), Mar. 11, 2009, [123 Stat. 664](https://www.govinfo.gov/link/statute/123/664), 665; [Pub. L. 117–103, div. E, title V](https://www.govinfo.gov/link/plaw/117/public/103), §§ 528, 529, Mar. 15, 2022, [136 Stat. 276](https://www.govinfo.gov/link/statute/136/276).)*

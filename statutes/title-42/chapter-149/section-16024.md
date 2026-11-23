@@ -3,9 +3,10 @@ title: "Section 16024 - Nuclear Regulatory Commission"
 usc_title: 42
 usc_section: "16024"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16024"
-generated_at: "2026-03-30T02:56:11.467Z"
+generated_at: "2026-11-23T21:26:33.691Z"
+status: "active"
 ---
 
 # § 16024. Nuclear Regulatory Commission
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.467Z"
   - **(1)** avoid design decisions that will compromise adequate safety margins in the design of the reactor or impair the accessibility of nuclear safety-related components of the prototype reactor for inspection and maintenance;
   - **(2)** develop tools to facilitate inspection and maintenance needed for safety purposes; and
   - **(3)** develop risk-based criteria for any future commercial development of a similar reactor architectures.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VI, § 644](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 797](https://www.govinfo.gov/link/statute/119/797).)*

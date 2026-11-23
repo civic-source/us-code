@@ -3,9 +3,10 @@ title: "Section 31110 - Authorization of appropriations"
 usc_title: 49
 usc_section: "31110"
 chapter: 311
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 31110"
-generated_at: "2026-03-30T02:56:19.357Z"
+generated_at: "2026-11-23T21:26:40.776Z"
+status: "active"
 ---
 
 # § 31110. Authorization of appropriations
@@ -33,3 +34,25 @@ generated_at: "2026-03-30T02:56:19.357Z"
 - **(d)** Amounts authorized from the Highway Trust Fund (other than the Mass Transit Account) by this section shall be available for obligation on the date of their apportionment or allocation or on October 1 of the fiscal year for which they are authorized, whichever occurs first.
 - **(e)** Amounts made available under this section shall remain available until expended.
 - **(f)** The approval of funds by the Secretary under this section is a contractual obligation of the Federal Government for payment of the Federal Government’s share of costs.
+
+Administrative Expenses
+
+Use of Funds
+
+Outreach and Education Program.—
+
+In general
+
+Federal share
+
+Funding
+
+Contract Authority; Initial Date of Availability
+
+Funding Availability
+
+Contractual Obligation
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title V, § 5103(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1526](https://www.govinfo.gov/link/statute/129/1526); amended [Pub. L. 115–99, § 3](https://www.govinfo.gov/link/plaw/115/public/99), Jan. 3, 2018, [131 Stat. 2242](https://www.govinfo.gov/link/statute/131/2242); [Pub. L. 117–58, div. B, title III, § 23001(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 756](https://www.govinfo.gov/link/statute/135/756).)*

@@ -3,9 +3,10 @@ title: "Section 8131 - Cyberpiracy protections for individuals"
 usc_title: 15
 usc_section: "8131"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8131"
-generated_at: "2026-03-30T02:54:08.227Z"
+generated_at: "2026-11-23T21:25:40.075Z"
+status: "active"
 ---
 
 # § 8131. Cyberpiracy protections for individuals
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.227Z"
   - **(2)** In any civil action brought under paragraph (1), a court may award injunctive relief, including the forfeiture or cancellation of the domain name or the transfer of the domain name to the plaintiff. The court may also, in its discretion, award costs and attorneys fees to the prevailing party.
   - **(3)** In this section, the term “domain name” has the meaning given that term in section 45 of the Trademark Act of 1946 ( 15 U.S.C. 1127 ).
   - **(4)** This section shall apply to domain names registered on or after November 29, 1999 .
+
+## Source Credit
+
+*([Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3002(b)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–548.)*

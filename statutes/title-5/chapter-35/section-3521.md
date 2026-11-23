@@ -3,9 +3,10 @@ title: "Section 3521 - Definitions"
 usc_title: 5
 usc_section: "3521"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3521"
-generated_at: "2026-03-30T02:52:56.006Z"
+generated_at: "2026-11-23T21:25:23.171Z"
+status: "active"
 ---
 
 # § 3521. Definitions
@@ -27,3 +28,7 @@ In this subchapter, the term—
         - **(I)** during the 36-month period preceding the date of separation of that employee, performed service for which a student loan repayment benefit was or is to be paid under section 5379;
         - **(II)** during the 24-month period preceding the date of separation of that employee, performed service for which a recruitment or relocation bonus was or is to be paid under section 5753; or
         - **(III)** during the 12-month period preceding the date of separation of that employee, performed service for which a retention bonus was or is to be paid under section 5754.
+
+## Source Credit
+
+*(Added [Pub. L. 107–296, title XIII, § 1313(a)(1)(A)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2291](https://www.govinfo.gov/link/statute/116/2291); amended [Pub. L. 112–74, div. G, title I, § 1401(b)](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 1134](https://www.govinfo.gov/link/statute/125/1134).)*

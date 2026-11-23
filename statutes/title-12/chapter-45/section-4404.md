@@ -3,9 +3,10 @@ title: "Section 4404 - Clearing organization netting"
 usc_title: 12
 usc_section: "4404"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4404"
-generated_at: "2026-03-30T02:53:53.505Z"
+generated_at: "2026-11-23T21:25:37.177Z"
+status: "active"
 ---
 
 # § 4404. Clearing organization netting
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.505Z"
 - **(f)** A failed member of a clearing organization shall have no recognizable claim against any member of a clearing organization for any amount based on such covered contractual payment entitlements other than its net entitlement.
 - **(g)** This section shall be given effect notwithstanding that a member is a failed member.
 - **(h)** The provisions of any security agreement or arrangement or other credit enhancement related to one or more netting contracts between any 2 members of a clearing organization shall be enforceable in accordance with their terms (except as provided in section 561(b)(2) of title 11 ), and shall not be stayed, avoided, or otherwise limited by any State or Federal law (other than section 1821(e) of this title , section 1787(c) of this title , and section 78eee(b)(2) of title 15 ).
+
+## Source Credit
+
+*([Pub. L. 102–242, title IV, § 404](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2374](https://www.govinfo.gov/link/statute/105/2374); [Pub. L. 109–8, title IX, § 906(c)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 168](https://www.govinfo.gov/link/statute/119/168); [Pub. L. 109–390, § 4(b)](https://www.govinfo.gov/link/plaw/109/public/390), Dec. 12, 2006, [120 Stat. 2695](https://www.govinfo.gov/link/statute/120/2695).)*

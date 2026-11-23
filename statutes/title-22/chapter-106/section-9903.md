@@ -3,9 +3,10 @@ title: "Section 9903 - Consolidated report on unified investment climate stateme
 usc_title: 22
 usc_section: "9903"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9903"
-generated_at: "2026-03-30T02:55:05.474Z"
+generated_at: "2026-11-23T21:25:58.791Z"
+status: "active"
 ---
 
 # § 9903. Consolidated report on unified investment climate statement and country commercial guide
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:05.474Z"
   - **(10)** Any significant trade or commercial agreement that exists between the United States and each country or region.
   - **(11)** A point of contact at the diplomatic or consular mission of the United States in each country or region for United States businesses.
 - **(c)** Nothing in this section may be construed to require the duplication of existing reports.
+
+## Source Credit
+
+*([Pub. L. 116–94, div. J, title VII, § 707](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3071](https://www.govinfo.gov/link/statute/133/3071).)*

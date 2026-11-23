@@ -3,12 +3,17 @@ title: "Section 660 - Carrier’s funds derived from commerce; State prosecution
 usc_title: 18
 usc_section: "660"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 660"
-generated_at: "2026-03-30T02:54:16.467Z"
+generated_at: "2026-11-23T21:25:43.985Z"
+status: "active"
 ---
 
 # § 660. Carrier’s funds derived from commerce; State prosecutions
 
 Whoever, being a president, director, officer, or manager of any firm, association, or corporation engaged in commerce as a common carrier, or whoever, being an employee of such common carrier riding in or upon any railroad car, motortruck, steamboat, vessel, aircraft or other vehicle of such carrier moving in interstate commerce, embezzles, steals, abstracts, or willfully misapplies, or willfully permits to be misapplied, any of the moneys, funds, credits, securities, property, or assets of such firm, association, or corporation arising or accruing from, or used in, such commerce, in whole or in part, or willfully or knowingly converts the same to his own use or to the use of another, shall be fined under this title or imprisoned not more than ten years, or both. The offense shall be deemed to have been committed not only in the district where the violation first occurred but also in any district in which the defendant may have taken or had possession of such moneys, funds, credits, securities, property or assets. A judgment of conviction or acquittal on the merits under the laws of any State shall be a bar to any prosecution hereunder for the same act or acts.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 730](https://www.govinfo.gov/link/statute/62/730); [Pub. L. 103–322, title XXXIII, § 330016(1)(K)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2147](https://www.govinfo.gov/link/statute/108/2147).)*

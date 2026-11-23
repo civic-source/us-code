@@ -3,9 +3,10 @@ title: "Section 182 - Responsibilities and authorities of the Under Secretary fo
 usc_title: 6
 usc_section: "182"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 182"
-generated_at: "2026-03-30T02:53:09.447Z"
+generated_at: "2026-11-23T21:25:25.758Z"
+status: "active"
 ---
 
 # § 182. Responsibilities and authorities of the Under Secretary for Science and Technology
@@ -32,3 +33,9 @@ The Secretary, acting through the Under Secretary for Science and Technology, sh
     - **(A)** portable equipment that can detect and identify drugs with minimal or no handling of the sample;
     - **(B)** equipment that can separate complex mixtures containing low concentrations of drugs and high concentrations of cutting agents into their component parts to enable signature extraction for field identification and detection; and
     - **(C)** technologies that use machine learning or artificial intelligence (as defined in section 9401 of title 15 ) and other techniques to predict whether the substances in a sample are controlled substance analogues or other new psychoactive substances not yet included in available reference libraries.
+
+“In carrying out section 302(15) of the Homeland Security Act of 2002 [ 6 U.S.C. 182(15) ], as added by section 2, the Under Secretary for Science and Technology shall—
+
+## Source Credit
+
+*([Pub. L. 107–296, title III, § 302](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2163](https://www.govinfo.gov/link/statute/116/2163); [Pub. L. 109–347, title V, § 501(b)(2)](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1935](https://www.govinfo.gov/link/statute/120/1935); [Pub. L. 110–53, title V, § 531(b)(1)(C)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 334](https://www.govinfo.gov/link/statute/121/334); [Pub. L. 115–278, § 2(g)(3)(A)](https://www.govinfo.gov/link/plaw/115/public/278), Nov. 16, 2018, [132 Stat. 4178](https://www.govinfo.gov/link/statute/132/4178); [Pub. L. 118–186, § 2](https://www.govinfo.gov/link/plaw/118/public/186), Dec. 23, 2024, [138 Stat. 2636](https://www.govinfo.gov/link/statute/138/2636).)*

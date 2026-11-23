@@ -3,9 +3,10 @@ title: "Section 7301 - Purpose"
 usc_title: 16
 usc_section: "7301"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 7301"
-generated_at: "2026-03-30T02:54:23.074Z"
+generated_at: "2026-11-23T21:25:52.065Z"
+status: "active"
 ---
 
 # § 7301. Purpose
@@ -20,3 +21,7 @@ The purpose of this chapter is to encourage the collaborative, science-based eco
       - **(i)** achieve ecological and watershed health objectives; and
       - **(ii)** affect wildfire activity and management costs; and
     - **(B)** the use of forest restoration byproducts can offset treatment costs while benefitting local rural economies and improving forest health.
+
+## Source Credit
+
+*([Pub. L. 111–11, title IV, § 4001](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1141](https://www.govinfo.gov/link/statute/123/1141).)*

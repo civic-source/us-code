@@ -3,9 +3,10 @@ title: "Section 7102 - Congressional notification of significant Army force stru
 usc_title: 10
 usc_section: "7102"
 chapter: 711
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 7102"
-generated_at: "2026-03-30T02:53:38.229Z"
+generated_at: "2026-11-23T21:25:32.840Z"
+status: "active"
 ---
 
 # § 7102. Congressional notification of significant Army force structure changes
@@ -21,3 +22,15 @@ generated_at: "2026-03-30T02:53:38.229Z"
   - **(1)** a change in the number, type, or component of brigade-level organizations or higher-echelon headquarters;
   - **(2)** a change in the number or component of theater-level capabilities, such as a multi-domain task force, Terminal High Altitude Area Defense, long range fires unit, or headquarters; or
   - **(3)** a permanent or temporary activation or inactivation of an experimental unit or brigade-size or higher task force.
+
+Notification Required
+
+Contents
+
+Exception
+
+Definition of Significant Change to Army Force Structure
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. A, title X, § 1044(a)(1)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1904](https://www.govinfo.gov/link/statute/135/1904).)*

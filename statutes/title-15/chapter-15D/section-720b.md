@@ -3,9 +3,10 @@ title: "Section 720b - Environmental reviews"
 usc_title: 15
 usc_section: "720b"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 720b"
-generated_at: "2026-03-30T02:54:08.120Z"
+generated_at: "2026-11-23T21:25:39.756Z"
+status: "active"
 ---
 
 # § 720b. Environmental reviews
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:08.120Z"
 - **(d)** The Commission shall—
   - **(1)** not later than 1 year after the Commission determines that the application under section 720a of this title with respect to an Alaska natural gas transportation project is complete, issue a draft environmental impact statement under this section; and
   - **(2)** not later than 180 days after the date of issuance of the draft environmental impact statement, issue a final environmental impact statement, unless the Commission for good cause determines that additional time is needed.
+
+## Source Credit
+
+*([Pub. L. 108–324, div. C, § 104](https://www.govinfo.gov/link/plaw/108/public/324), Oct. 13, 2004, [118 Stat. 1257](https://www.govinfo.gov/link/statute/118/1257).)*

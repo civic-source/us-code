@@ -3,9 +3,10 @@ title: "Section 12741 - Retirement for service in an active status performed in 
 usc_title: 10
 usc_section: "12741"
 chapter: 1223
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 12741"
-generated_at: "2026-03-30T02:53:38.272Z"
+generated_at: "2026-11-23T21:25:33.055Z"
+status: "active"
 ---
 
 # § 12741. Retirement for service in an active status performed in the Selected Reserve of the Ready Reserve after eligibility for regular retirement
@@ -27,3 +28,17 @@ generated_at: "2026-03-30T02:53:38.272Z"
   - **(2)** on the first day of the first month that begins after the date on which the Secretary concerned receives the election in accordance with this section, if—
     - **(A)** the date of the receipt of the election is more than 180 days after the date on which the person attains the eligibility age applicable to the person under such section; or
     - **(B)** the person retires from service in an active status within that 180-day period.
+
+Authority to Elect to Receive Reserve Retired Pay
+
+Actions To Effectuate Election
+
+Time and Form of Election
+
+Effective Date of Election
+
+Election of Reserve Retired Pay
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title VI, § 653(a)(1)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–164; amended [Pub. L. 107–107, div. A, title X, § 1048(a)(31)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1225](https://www.govinfo.gov/link/statute/115/1225); [Pub. L. 109–364, div. A, title X, § 1071(a)(41)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2400](https://www.govinfo.gov/link/statute/120/2400); [Pub. L. 111–84, div. A, title VI, § 643(a)](https://www.govinfo.gov/link/plaw/111/public/84) –(c), (e)(1), Oct. 28, 2009, [123 Stat. 2366](https://www.govinfo.gov/link/statute/123/2366), 2367; [Pub. L. 115–232, div. A, title VIII, § 809(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1840](https://www.govinfo.gov/link/statute/132/1840).)*

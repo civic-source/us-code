@@ -3,9 +3,10 @@ title: "Section 2910 - Preservation of Freedmen’s Bureau records"
 usc_title: 44
 usc_section: "2910"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 2910"
-generated_at: "2026-03-30T02:55:56.295Z"
+generated_at: "2026-11-23T21:26:18.418Z"
+status: "active"
 ---
 
 # § 2910. Preservation of Freedmen’s Bureau records
@@ -14,3 +15,7 @@ The Archivist shall preserve the records of the Bureau of Refugees, Freedmen, an
 
   - **(1)** microfilm technology for preservation of the documents comprising these records so that they can be maintained for future generations; and
   - **(2)** the results of the pilot project with the University of Florida to create future partnerships with Howard University and other institutions for the purposes of indexing these records and making them more easily accessible to the public, including historians, genealogists, and students, and for any other purposes determined by the Archivist.
+
+## Source Credit
+
+*(Added [Pub. L. 106–444, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/444), Nov. 6, 2000, [114 Stat. 1929](https://www.govinfo.gov/link/statute/114/1929).)*

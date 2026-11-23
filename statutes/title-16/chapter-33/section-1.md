@@ -3,9 +3,10 @@ title: "Section 1 - Authorization of the Coastal and Estuarine Land Conservation
 usc_title: 16
 usc_section: "1"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T02:54:22.971Z"
+generated_at: "2026-11-23T21:25:51.887Z"
+status: "active"
 ---
 
 # § 1456–1. Authorization of the Coastal and Estuarine Land Conservation Program
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:54:22.971Z"
   - **(1)** The term “conservation easement” includes an easement or restriction, recorded deed, or a reserve interest deed where the grantee acquires all rights, title, and interest in a property, that do not conflict with the goals of this section except those rights, title, and interests that may run with the land that are expressly reserved by a grantor and are agreed to at the time of purchase.
   - **(2)** The term “interest in property” includes a conservation easement.
 - **(l)** There are authorized to be appropriated to the Secretary to carry out this section $60,000,000 for each of fiscal years 2009 through 2013.
+
+## Source Credit
+
+*([Pub. L. 89–454, title III, § 307A](https://www.govinfo.gov/link/plaw/89/public/454), as added [Pub. L. 111–11, title XII, § 12502](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1442](https://www.govinfo.gov/link/statute/123/1442).)*

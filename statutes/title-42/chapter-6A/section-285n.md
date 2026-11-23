@@ -3,9 +3,10 @@ title: "Section 285n - Purpose of Institute"
 usc_title: 42
 usc_section: "285n"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 285n"
-generated_at: "2026-03-30T02:56:10.748Z"
+generated_at: "2026-11-23T21:26:30.510Z"
+status: "active"
 ---
 
 # § 285n. Purpose of Institute
@@ -33,3 +34,11 @@ generated_at: "2026-03-30T02:56:10.748Z"
   - **(9)** enter into contracts under this subchapter without regard to section 3324(a) and (b) of title 31 and section 6101 of title 41 ; and
   - **(10)** adopt, upon recommendation of the National Advisory Council on Alcohol Abuse and Alcoholism, such additional means as he deems necessary or appropriate to carry out the purposes of this section.
 - **(c)** The Director of the Institute shall collaborate with the Administrator of the Substance Abuse and Mental Health Services Administration in focusing the services research activities of the Institute and in disseminating the results of such research to health professionals and the general public.
+
+Research Program
+
+“The amendments made by—
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 464H, as added and amended [Pub. L. 102–321, title I, § 122(a)](https://www.govinfo.gov/link/plaw/102/public/321), (b), July 10, 1992, [106 Stat. 358](https://www.govinfo.gov/link/statute/106/358), 359; [Pub. L. 102–352, § 2(a)(1)](https://www.govinfo.gov/link/plaw/102/public/352), Aug. 26, 1992, [106 Stat. 938](https://www.govinfo.gov/link/statute/106/938); [Pub. L. 109–482, title I, § 103(b)(32)](https://www.govinfo.gov/link/plaw/109/public/482), Jan. 15, 2007, [120 Stat. 3688](https://www.govinfo.gov/link/statute/120/3688).)*

@@ -3,9 +3,10 @@ title: "Section 7702 - Actions involving discrimination"
 usc_title: 5
 usc_section: "7702"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 7702"
-generated_at: "2026-03-30T02:52:56.039Z"
+generated_at: "2026-11-23T21:25:23.344Z"
+status: "active"
 ---
 
 # § 7702. Actions involving discrimination
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:52:56.039Z"
   - **(2)** If, at any time after the 120th day following the filing of any matter described in subsection (a)(2) of this section with an agency, there is no judicially reviewable action, the employee may appeal the matter to the Board under subsection (a)(1) of this section.
   - **(3)** Nothing in this section shall be construed to affect the right to trial de novo under any provision of law described in subsection (a)(1) of this section after a judicially reviewable action, including the decision of an agency under subsection (a)(2) of this section.
 - **(f)** In any case in which an employee is required to file any action, appeal, or petition under this section and the employee timely files the action, appeal, or petition with an agency other than the agency with which the action, appeal, or petition is to be filed, the employee shall be treated as having timely filed the action, appeal, or petition as of the date it is filed with the proper agency.
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title II, § 205](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1140](https://www.govinfo.gov/link/statute/92/1140); amended [Pub. L. 96–54, § 2(a)(46)](https://www.govinfo.gov/link/plaw/96/public/54), Aug. 14, 1979, [93 Stat. 384](https://www.govinfo.gov/link/statute/93/384).)*

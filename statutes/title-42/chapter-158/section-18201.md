@@ -3,9 +3,10 @@ title: "Section 18201 - Definitions"
 usc_title: 42
 usc_section: "18201"
 chapter: 158
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18201"
-generated_at: "2026-03-30T02:56:11.518Z"
+generated_at: "2026-11-23T21:26:33.817Z"
+status: "active"
 ---
 
 # § 18201. Definitions
@@ -21,3 +22,7 @@ In this chapter:
   - **(7)** The term “State” includes the District of Columbia, any commonwealth, possession, or other territory of the United States, and any Indian tribe or reservation.
   - **(8)** The term “supportive social services” means transitional and permanent housing, vocational counseling, and individual and group counseling aimed at preventing domestic violence, sexual violence, sexual assault, or stalking.
   - **(9)** The term “violence” means actual violence and the risk or threat of violence.
+
+## Source Credit
+
+*([Pub. L. 111–148, title X, § 10211](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 931](https://www.govinfo.gov/link/statute/124/931).)*

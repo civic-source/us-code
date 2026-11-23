@@ -3,9 +3,10 @@ title: "Section 1 - Critical shortages; recommendations by President; public hea
 usc_title: 15
 usc_section: "1"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-30T02:54:08.115Z"
+generated_at: "2026-11-23T21:25:39.739Z"
+status: "active"
 ---
 
 # § 713d–1. Critical shortages; recommendations by President; public hearings
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.115Z"
   - **(3)** The proposed degree of curtailment in current and prospective use of each such raw material, commodity, or product by each processor and/or user thereof, including the specific formulae proposed for such curtailment with respect to each class or classes of processors or users and the criteria used in the establishment of such formulae.
   - **(4)** A complete record of the factual evidence upon which his recommendations are based, including all information provided by any agency of the Federal Government which may have been made available to him in the course of his consideration of the matter.
 - **(b)** Within fifteen days after the submission of such proposed conservation measures, the Joint Economic Committee shall conduct public hearings thereon and shall make such recommendations to the Congress for legislative action as in its judgment the recommendations of the President and any additional information disclosed at the public hearings may require.
+
+## Source Credit
+
+*(Dec. 30, 1947, ch. 526, § 6, [61 Stat. 947](https://www.govinfo.gov/link/statute/61/947); June 18, 1956, ch. 399, § 2, [70 Stat. 290](https://www.govinfo.gov/link/statute/70/290).)*

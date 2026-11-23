@@ -3,9 +3,10 @@ title: "Section 3346 - Compilation and organization of previously declassified r
 usc_title: 50
 usc_section: "3346"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3346"
-generated_at: "2026-03-30T02:56:26.246Z"
+generated_at: "2026-11-23T21:26:39.039Z"
+status: "active"
 ---
 
 # § 3346. Compilation and organization of previously declassified records
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:26.246Z"
   - **(1)** A statutory requirement to conduct a declassification review on a specified set of agency records.
   - **(2)** An Executive order to conduct a declassification review on a specified set of agency records.
   - **(3)** An order from the President or an official with delegated authority from the President to conduct a declassification review on a specified set of agency records.
+
+## Source Credit
+
+*([Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1075], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–280.)*

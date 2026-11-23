@@ -3,9 +3,10 @@ title: "Section 4008 - Regulations and reports by Board"
 usc_title: 12
 usc_section: "4008"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4008"
-generated_at: "2026-03-30T02:53:53.499Z"
+generated_at: "2026-11-23T21:25:37.158Z"
+status: "active"
 ---
 
 # § 4008. Regulations and reports by Board
@@ -52,3 +53,15 @@ generated_at: "2026-03-30T02:53:53.499Z"
     - **(A)** consult with appropriate experts in telecommunications technology; and
     - **(B)** consider all practical and legal impediments to the development of an electronic clearinghouse process.
   - **(3)** The Board shall report its conclusions to the Congress within 9 months of August 10, 1987 .
+
+Truth in Lending Act
+
+Expedited Funds Availability Act
+
+Time Limit on Exceptions
+
+Publication Required
+
+## Source Credit
+
+*([Pub. L. 100–86, title VI, § 609](https://www.govinfo.gov/link/plaw/100/public/86), Aug. 10, 1987, [101 Stat. 647](https://www.govinfo.gov/link/statute/101/647); [Pub. L. 111–203, title X, § 1086(d)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2086](https://www.govinfo.gov/link/statute/124/2086).)*

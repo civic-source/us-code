@@ -3,9 +3,10 @@ title: "Section 2805 - Coordination of national activities regarding aquaculture
 usc_title: 16
 usc_section: "2805"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2805"
-generated_at: "2026-03-30T02:54:23.006Z"
+generated_at: "2026-11-23T21:25:51.956Z"
+status: "active"
 ---
 
 # § 2805. Coordination of national activities regarding aquaculture
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:23.006Z"
 - **(c)** The coordinating group shall regularly report to the Chairman of the Federal Council on the coordinating group’s activities and on recommendations concerning Federal policies and programs related to aquaculture.
 - **(d)** Each Federal department and agency that has functions or responsibilities with respect to aquaculture or has jurisdiction over any activity that affects, or that may affect, the achievement of the purpose and policy of this chapter, shall, in consultation with the coordinating group and to the maximum extent practicable, perform such function, responsibility, or activity in a manner that is consistent with the purpose and policy of this chapter.
 - **(e)** If at any time after September 26, 1980 , the functions of the Federal Council are by executive action terminated or transferred to an agency other than the Office of Science and Technology Policy, the coordinating group shall carry out its purpose under the direction of the Director. In that event, the recommendations of the coordinating group referred to in subsection (b)(6) and the reports required under subsection (c) shall be made to the Director.
+
+## Source Credit
+
+*([Pub. L. 96–362, § 6](https://www.govinfo.gov/link/plaw/96/public/362), Sept. 26, 1980, [94 Stat. 1203](https://www.govinfo.gov/link/statute/94/1203); [Pub. L. 99–198, title XVII, § 1736](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1643](https://www.govinfo.gov/link/statute/99/1643).)*

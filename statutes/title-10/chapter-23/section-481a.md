@@ -3,9 +3,10 @@ title: "Section 481a - Workplace and gender relations issues: surveys of Departm
 usc_title: 10
 usc_section: "481a"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 481a"
-generated_at: "2026-03-30T02:53:38.060Z"
+generated_at: "2026-11-23T21:25:32.271Z"
+status: "active"
 ---
 
 # § 481a. Workplace and gender relations issues: surveys of Department of Defense civilian employees
@@ -24,3 +25,15 @@ generated_at: "2026-03-30T02:53:38.060Z"
   - **(1)** The Secretary of Defense may postpone the conduct of a survey under this section if the Secretary determines that conducting such survey is not practicable due to a war or national emergency declared by the President or Congress.
   - **(2)** The Secretary shall ensure that a survey postponed under paragraph (1) is conducted as soon as practicable after the end of the period of war or national emergency concerned, or earlier if the Secretary determines appropriate.
   - **(3)** The Secretary shall notify Congress of a determination under paragraph (1) not later than 30 days after the date on which the Secretary makes such determination.
+
+In General
+
+Elements
+
+Report to Congress
+
+Postponement
+
+## Source Credit
+
+*(Added [Pub. L. 113–291, div. A, title X, § 1073(a)(1)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3517](https://www.govinfo.gov/link/statute/128/3517); amended [Pub. L. 116–92, div. A, title V, § 591(b)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1414](https://www.govinfo.gov/link/statute/133/1414); [Pub. L. 116–283, div. A, title V, § 552(c)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3632](https://www.govinfo.gov/link/statute/134/3632).)*

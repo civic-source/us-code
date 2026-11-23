@@ -3,9 +3,10 @@ title: "Section 10824 - Reports by Secretary"
 usc_title: 42
 usc_section: "10824"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10824"
-generated_at: "2026-03-30T02:56:11.392Z"
+generated_at: "2026-11-23T21:26:33.388Z"
+status: "active"
 ---
 
 # § 10824. Reports by Secretary
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.392Z"
   - **(4)** recommendations for activities and services to improve the protection and advocacy of the rights of individuals with mental illness and a description of needs for such activities and services which have not been met by systems established under this subchapter; and
   - **(5)** using data from the existing required annual program progress reports submitted by each system funded under this subchapter, a detailed accounting for each such system of how funds are spent, disaggregated according to whether the funds were received from the Federal Government, the State government, a local government, or a private entity.
 - **(b)** In preparing each statement required by subsection (a), the Secretary shall use and include information submitted to the Secretary in the reports required under section 10805(a)(7) of this title .
+
+## Source Credit
+
+*([Pub. L. 99–319, title I, § 114](https://www.govinfo.gov/link/plaw/99/public/319), May 23, 1986, [100 Stat. 484](https://www.govinfo.gov/link/statute/100/484); [Pub. L. 102–173, § 10(2)](https://www.govinfo.gov/link/plaw/102/public/173), Nov. 27, 1991, [105 Stat. 1219](https://www.govinfo.gov/link/statute/105/1219); [Pub. L. 106–402, title IV, § 401(b)(13)(B)](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1739](https://www.govinfo.gov/link/statute/114/1739); [Pub. L. 114–255, div. B, title VI, § 6022(b)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1216](https://www.govinfo.gov/link/statute/130/1216).)*

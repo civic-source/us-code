@@ -3,9 +3,10 @@ title: "Section 1001 - Definitions"
 usc_title: 5
 usc_section: "1001"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 1001"
-generated_at: "2026-03-30T02:52:55.992Z"
+generated_at: "2026-11-23T21:25:23.092Z"
+status: "active"
 ---
 
 # § 1001. Definitions
@@ -23,3 +24,40 @@ In this chapter:
       - **(ii)** a committee that is created by the National Academy of Sciences or the National Academy of Public Administration.
   - **(3)** The term “agency” has the meaning given the term in section 551 of this title .
   - **(4)** The term “Presidential advisory committee” means an advisory committee that advises the President.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1001 | 5 U.S.C. App. (FACA § 3) | Pub. L. 92–463, § 3 , Oct. 6, 1972 , 86 Stat. 770 ; Pub. L. 105–153, § 2(a) , Dec. 17, 1997 , 111 Stat. 2689 . |
+
+
+Administrator
+
+Advisory committee.—
+
+In general
+
+Exclusions
+
+Agency
+
+Presidential advisory committee
+
+Historical and Revision Notes
+
+1001
+
+Pub. L. 92–463, § 3
+
+Oct. 6, 1972
+
+86 Stat. 770
+
+Pub. L. 105–153, § 2(a)
+
+Dec. 17, 1997
+
+111 Stat. 2689
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(a)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4197](https://www.govinfo.gov/link/statute/136/4197).)*

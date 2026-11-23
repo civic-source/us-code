@@ -3,9 +3,10 @@ title: "Section 107 - Public access to papers"
 usc_title: 11
 usc_section: "107"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 107"
-generated_at: "2026-03-30T02:53:53.871Z"
+generated_at: "2026-11-23T21:25:34.887Z"
+status: "active"
 ---
 
 # § 107. Public access to papers
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:53.871Z"
   - **(3)** The United States trustee, bankruptcy administrator, trustee, and any auditor serving under section 586(f) of title 28 —
     - **(A)** shall have full access to all information contained in any paper filed or submitted in a case under this title; and
     - **(B)** shall not disclose information specifically protected by the court under this title.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2556](https://www.govinfo.gov/link/statute/92/2556); [Pub. L. 109–8, title II](https://www.govinfo.gov/link/plaw/109/public/8), §§ 233(c), 234(a), (c), Apr. 20, 2005, [119 Stat. 74](https://www.govinfo.gov/link/statute/119/74), 75; [Pub. L. 111–327, § 2(a)(5)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3557](https://www.govinfo.gov/link/statute/124/3557).)*

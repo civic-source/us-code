@@ -3,9 +3,10 @@ title: "Section 5564 - Interim preservation of certain rail passenger terminals"
 usc_title: 49
 usc_section: "5564"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 5564"
-generated_at: "2026-03-30T02:56:19.320Z"
+generated_at: "2026-11-23T21:26:40.665Z"
+status: "active"
 ---
 
 # § 5564. Interim preservation of certain rail passenger terminals
@@ -20,3 +21,46 @@ generated_at: "2026-03-30T02:56:19.320Z"
     - **(B)** listed in the National Register of Historic Places maintained by the Secretary of the Interior; or
     - **(C)** recommended (on the basis of architectural integrity and quality) by the Advisory Council on Historic Preservation or the Chairman of the National Endowment for the Arts.
   - **(2)** The Secretary of Transportation may not make a grant under this section for more than 80 percent of the total cost of maintaining the terminal for an interim period of not more than 5 years.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5564(a) | 49 App.:1653(i)(3) (1st sentence words before proviso). | Oct. 15, 1966 , Pub. L. 89–670 , 80 Stat. 931 , § 4(i)(3); added Oct. 28, 1974 , Pub. L. 93–496 , §§ 6, 15, 88 Stat. 1529 , 1533; Oct. 5, 1978 , Pub. L. 95–421, § 14 , 92 Stat. 929 . |
+| 5564(b) | 49 App.:1653(i)(3) (1st sentence proviso). |  |
+| 5564(c) | 49 App.:1653(i)(3) (2d, last sentences). |  |
+
+
+General Grant Authority
+
+Grant Requirements
+
+Maximizing Preservation of Terminals
+
+Historical and Revision Notes
+
+5564(a)
+
+Oct. 15, 1966
+
+Pub. L. 89–670
+
+80 Stat. 931
+
+Oct. 28, 1974
+
+Pub. L. 93–496
+
+88 Stat. 1529
+
+Oct. 5, 1978
+
+Pub. L. 95–421, § 14
+
+92 Stat. 929
+
+5564(b)
+
+5564(c)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 852](https://www.govinfo.gov/link/statute/108/852).)*

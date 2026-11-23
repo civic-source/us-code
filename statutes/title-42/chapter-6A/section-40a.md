@@ -3,9 +3,10 @@ title: "Section 40a - Microbicide research"
 usc_title: 42
 usc_section: "40a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 40a"
-generated_at: "2026-03-30T02:56:10.820Z"
+generated_at: "2026-11-23T21:26:30.838Z"
+status: "active"
 ---
 
 # § 300cc–40a. Microbicide research
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:10.820Z"
   - **(1)** representatives of other Federal agencies involved in microbicide research, including the Coordinator of United States Government Activities to Combat HIV/AIDS Globally, the Director of the Centers for Disease Control and Prevention, and the Administrator of the United States Agency for International Development;
   - **(2)** the microbicide research and development community; and
   - **(3)** health advocates.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXIII, § 2351A, as added [Pub. L. 110–293, title II, § 203(b)](https://www.govinfo.gov/link/plaw/110/public/293), July 30, 2008, [122 Stat. 2940](https://www.govinfo.gov/link/statute/122/2940).)*

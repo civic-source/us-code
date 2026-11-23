@@ -3,9 +3,10 @@ title: "Section 2643 - Gathering information on costs of service"
 usc_title: 16
 usc_section: "2643"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2643"
-generated_at: "2026-03-30T02:54:23.006Z"
+generated_at: "2026-11-23T21:25:51.954Z"
+status: "active"
 ---
 
 # § 2643. Gathering information on costs of service
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:23.006Z"
   - **(1)** the Commission, and
   - **(2)** any State regulatory authority which has ratemaking authority for such utility,
 - **(d)** For purposes of enforcement, any violation of a requirement of this section shall be treated as a violation of a provision of the Energy Supply and Environmental Coordination Act of 1974 [ 15 U.S.C. 791 et seq.] enforceable under section 12 of such Act [ 15 U.S.C. 797 ] (notwithstanding any expiration date in such Act) except that in applying the provisions of such section 12 any reference to the Federal Energy Administrator shall be treated as a reference to the Commission.
+
+## Source Credit
+
+*([Pub. L. 95–617, title I, § 133](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3132](https://www.govinfo.gov/link/statute/92/3132).)*

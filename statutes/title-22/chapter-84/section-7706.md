@@ -3,9 +3,10 @@ title: "Section 7706 - Eligible countries"
 usc_title: 22
 usc_section: "7706"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7706"
-generated_at: "2026-03-30T02:55:05.445Z"
+generated_at: "2026-11-23T21:25:58.726Z"
+status: "active"
 ---
 
 # § 7706. Eligible countries
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:55:05.445Z"
   - **(5)** laws regulating the usage of the Internet, particularly by foreign civil society organizations.
 - **(e)** The criteria and methodology submitted by the Board to Congress and published in the Federal Register under section 7707(b)(2) of this title with respect to a fiscal year shall remain fixed for purposes of eligibility determinations for such year.
 - **(f)** As appropriate, the Board, acting through the Chief Executive Officer, shall review the eligibility criteria and methodology and modify such criteria and methodology in subsequent years consistent with section 7707(b) of this title .
+
+## Source Credit
+
+*([Pub. L. 108–199, div. D, title VI, § 607](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 216](https://www.govinfo.gov/link/statute/118/216); [Pub. L. 110–161, div. J, title VI, § 699I(a)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2372](https://www.govinfo.gov/link/statute/121/2372); [Pub. L. 115–167, title II, § 203](https://www.govinfo.gov/link/plaw/115/public/167), Apr. 23, 2018, [132 Stat. 1279](https://www.govinfo.gov/link/statute/132/1279); [Pub. L. 118–159, div. E, title LI, § 5122(d)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2431](https://www.govinfo.gov/link/statute/138/2431).)*

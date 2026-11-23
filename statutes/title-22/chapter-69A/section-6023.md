@@ -3,9 +3,10 @@ title: "Section 6023 - Definitions"
 usc_title: 22
 usc_section: "6023"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6023"
-generated_at: "2026-03-30T02:55:05.422Z"
+generated_at: "2026-11-23T21:25:58.675Z"
+status: "active"
 ---
 
 # § 6023. Definitions
@@ -55,3 +56,7 @@ As used in this chapter, the following terms have the following meanings:
   - **(15)** The term “United States national” means—
     - **(A)** any United States citizen; or
     - **(B)** any other legal entity which is organized under the laws of the United States, or of any State, the District of Columbia, or any commonwealth, territory, or possession of the United States, and which has its principal place of business in the United States.
+
+## Source Credit
+
+*([Pub. L. 104–114, § 4](https://www.govinfo.gov/link/plaw/104/public/114), Mar. 12, 1996, [110 Stat. 789](https://www.govinfo.gov/link/statute/110/789).)*

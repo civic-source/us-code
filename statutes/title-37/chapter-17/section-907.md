@@ -3,9 +3,10 @@ title: "Section 907 - Enlisted members and warrant officers appointed as officer
 usc_title: 37
 usc_section: "907"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 907"
-generated_at: "2026-03-30T02:55:44.060Z"
+generated_at: "2026-11-23T21:26:14.264Z"
+status: "active"
 ---
 
 # § 907. Enlisted members and warrant officers appointed as officers: pay and allowances stabilized
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:55:44.060Z"
     - **(C)** Enlistment bonus under section 331 of this title .
     - **(D)** Career enlisted flyer incentive pay under section 320 or 353 of this title.
 - **(e)** The clothing allowance under section 418 of this title may not be considered in determining the amount of the pay and allowances of a grade formerly held by an officer if the officer is entitled to a uniform allowance under section 415 of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 91–484, § 1(1)](https://www.govinfo.gov/link/plaw/91/public/484), Oct. 21, 1970, [84 Stat. 1083](https://www.govinfo.gov/link/statute/84/1083); amended [Pub. L. 96–343, § 6(a)(1)](https://www.govinfo.gov/link/plaw/96/public/343), Sept. 8, 1980, [94 Stat. 1126](https://www.govinfo.gov/link/statute/94/1126); [Pub. L. 102–25, title VII, § 702(b)(1)](https://www.govinfo.gov/link/plaw/102/public/25), (c), Apr. 6, 1991, [105 Stat. 117](https://www.govinfo.gov/link/statute/105/117); [Pub. L. 105–85, div. A, title VI, § 619(d)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1790](https://www.govinfo.gov/link/statute/111/1790); [Pub. L. 105–261, div. A, title VI, § 617(b)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2041](https://www.govinfo.gov/link/statute/112/2041); [Pub. L. 109–163, div. A, title VI, § 686(a)](https://www.govinfo.gov/link/plaw/109/public/163), (b), Jan. 6, 2006, [119 Stat. 3325](https://www.govinfo.gov/link/statute/119/3325), 3326; [Pub. L. 114–328, div. A, title VI, § 618(h)(4)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2161](https://www.govinfo.gov/link/statute/130/2161); [Pub. L. 115–91, div. A, title VI, § 618(h)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1427](https://www.govinfo.gov/link/statute/131/1427).)*

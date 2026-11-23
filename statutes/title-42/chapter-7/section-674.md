@@ -3,9 +3,10 @@ title: "Section 674 - Payments to States"
 usc_title: 42
 usc_section: "674"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 674"
-generated_at: "2026-03-30T02:56:10.890Z"
+generated_at: "2026-11-23T21:26:31.163Z"
+status: "active"
 ---
 
 # § 674. Payments to States
@@ -71,3 +72,21 @@ generated_at: "2026-03-30T02:56:10.890Z"
     - **(A)** ⅙ of 1 percent of the total amount expended by the State for administration of foster care activities under the State plan approved under this part in the quarter so ending, in the case of the 1st 6-month period during which the failure continues; or
     - **(B)** ¼ of 1 percent of the total amount so expended, in the case of the 2nd or any subsequent such 6-month period.
 - **(g)** For purposes of this part, after the termination of a demonstration project relating to guardianship conducted by a State under section 1320a–9 of this title , the expenditures of the State for the provision, to children who, as of September 30, 2008 , were receiving assistance or services under the project, of the same assistance and services under the same terms and conditions that applied during the conduct of the project, are deemed to be expenditures under the State plan approved under this part.
+
+Inapplicability of Matching Funds Requirements
+
+Waiver of Evidence Standard
+
+Other Allowable Uses of Funds
+
+Territory Cap Exemption
+
+Temporary suspension of requirement that at least 50 percent of a state’s reimbursement for prevention and family services and programs be for programs and services that meet the well-supported practice requirement
+
+Supported practices temporarily treated as well-supported practices
+
+“With respect to an expenditure described in section 474(a)(3)(B) of the Social Security Act [ 42 U.S.C. 674(a)(3)(B) ] by reason of an amendment made by subsection (a) of this section [amending this section], in lieu of the percentage set forth in such section 474(a)(3)(B), the percentage that shall apply is—
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 474, as added [Pub. L. 96–272, title I, § 101(a)(1)](https://www.govinfo.gov/link/plaw/96/public/272), June 17, 1980, [94 Stat. 506](https://www.govinfo.gov/link/statute/94/506); amended [Pub. L. 96–611, § 3](https://www.govinfo.gov/link/plaw/96/public/611), Dec. 28, 1980, [94 Stat. 3567](https://www.govinfo.gov/link/statute/94/3567); [Pub. L. 98–369, div. B, title VI, § 2663(c)(18)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1167](https://www.govinfo.gov/link/statute/98/1167); [Pub. L. 98–617, § 4(a)](https://www.govinfo.gov/link/plaw/98/public/617), (b), Nov. 8, 1984, [98 Stat. 3296](https://www.govinfo.gov/link/statute/98/3296), 3297; [Pub. L. 99–272, title XII](https://www.govinfo.gov/link/plaw/99/public/272), §§ 12306(a), (b), 12307(c), Apr. 7, 1986, [100 Stat. 294](https://www.govinfo.gov/link/statute/100/294), 296; [Pub. L. 99–514, title XVIII, § 1883(b)(9)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2917](https://www.govinfo.gov/link/statute/100/2917); [Pub. L. 100–203, title IX, § 9132(a)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–313](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 101–239, title VIII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 8001(a), 8002(c), 8006(a), title X, §§ 10401(a), 10402(a), 10403(c)(1), Dec. 19, 1989, [103 Stat. 2452](https://www.govinfo.gov/link/statute/103/2452), 2453, 2461, 2487, 2488; [Pub. L. 101–508, title V, § 5071(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–233](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–66, title XIII, § 13713(a)(1)](https://www.govinfo.gov/link/plaw/103/public/66), (2), (b)(1), Aug. 10, 1993, [107 Stat. 656](https://www.govinfo.gov/link/statute/107/656), 657; [Pub. L. 103–432, title II](https://www.govinfo.gov/link/plaw/103/public/432), §§ 207(a), (b), 210(a), Oct. 31, 1994, [108 Stat. 4457](https://www.govinfo.gov/link/statute/108/4457), 4460; [Pub. L. 104–188, title I, § 1808(b)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1903](https://www.govinfo.gov/link/statute/110/1903); [Pub. L. 105–89, title II, § 202(b)](https://www.govinfo.gov/link/plaw/105/public/89), Nov. 19, 1997, [111 Stat. 2125](https://www.govinfo.gov/link/statute/111/2125); [Pub. L. 105–200, title III, § 301(b)](https://www.govinfo.gov/link/plaw/105/public/200), (c), title IV, § 410(g), July 16, 1998, [112 Stat. 658](https://www.govinfo.gov/link/statute/112/658), 674; [Pub. L. 106–169, title I, § 101(c)](https://www.govinfo.gov/link/plaw/106/public/169), Dec. 14, 1999, [113 Stat. 1828](https://www.govinfo.gov/link/statute/113/1828); [Pub. L. 107–133, title II, § 201(f)](https://www.govinfo.gov/link/plaw/107/public/133), Jan. 17, 2002, [115 Stat. 2424](https://www.govinfo.gov/link/statute/115/2424); [Pub. L. 108–145, § 4](https://www.govinfo.gov/link/plaw/108/public/145), Dec. 2, 2003, [117 Stat. 1881](https://www.govinfo.gov/link/statute/117/1881); [Pub. L. 109–171, title VII, § 7403(b)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 151](https://www.govinfo.gov/link/statute/120/151); [Pub. L. 110–275, title III, § 302(a)](https://www.govinfo.gov/link/plaw/110/public/275), July 15, 2008, [122 Stat. 2594](https://www.govinfo.gov/link/statute/122/2594); [Pub. L. 110–351, title I, § 101(c)(3)](https://www.govinfo.gov/link/plaw/110/public/351), (d), title II, § 203(a), title III, § 301(c)(2), Oct. 7, 2008, [122 Stat. 3952](https://www.govinfo.gov/link/statute/122/3952), 3953, 3959, 3970; [Pub. L. 115–123, div. E, title VII](https://www.govinfo.gov/link/plaw/115/public/123), §§ 50711(c), 50712(b), 50713, 50741(a)(2), Feb. 9, 2018, [132 Stat. 240](https://www.govinfo.gov/link/statute/132/240), 245, 255; [Pub. L. 118–258, title I, § 110(b)(3)](https://www.govinfo.gov/link/plaw/118/public/258), Jan. 4, 2025, [138 Stat. 2961](https://www.govinfo.gov/link/statute/138/2961).)*

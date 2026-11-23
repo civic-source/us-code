@@ -3,9 +3,10 @@ title: "Section 2343 - Recordkeeping, reporting, and inspection"
 usc_title: 18
 usc_section: "2343"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2343"
-generated_at: "2026-03-30T02:54:16.505Z"
+generated_at: "2026-11-23T21:25:44.152Z"
+status: "active"
 ---
 
 # § 2343. Recordkeeping, reporting, and inspection
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:16.505Z"
   - **(1)** the consumer submits the order for such sale by means of a telephone or other method of voice transmission, the mails, or the Internet or other online service, or by any other means where the consumer is not in the same physical location as the seller when the purchase or offer of sale is made; or
   - **(2)** the cigarettes or smokeless tobacco are delivered by use of the mails, common carrier, private delivery service, or any other means where the consumer is not in the same physical location as the seller when the consumer obtains physical possession of the cigarettes or smokeless tobacco.
 - **(f)** In this section, the term “interstate commerce” means commerce between a State and any place outside the State, or commerce between points in the same State but through any place outside the State.
+
+## Source Credit
+
+*(Added [Pub. L. 95–575, § 1](https://www.govinfo.gov/link/plaw/95/public/575), Nov. 2, 1978, [92 Stat. 2464](https://www.govinfo.gov/link/statute/92/2464); amended [Pub. L. 107–296, title XI, § 1112(i)(2)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2277](https://www.govinfo.gov/link/statute/116/2277); [Pub. L. 109–177, title I, § 121(a)(3)](https://www.govinfo.gov/link/plaw/109/public/177), (b)(3), (c), (g)(1), Mar. 9, 2006, [120 Stat. 221](https://www.govinfo.gov/link/statute/120/221), 222, 224; [Pub. L. 111–154, § 4](https://www.govinfo.gov/link/plaw/111/public/154), Mar. 31, 2010, [124 Stat. 1109](https://www.govinfo.gov/link/statute/124/1109).)*

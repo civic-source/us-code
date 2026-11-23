@@ -3,9 +3,10 @@ title: "Section 1521 - Relief that may be granted upon recognition"
 usc_title: 11
 usc_section: "1521"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1521"
-generated_at: "2026-03-30T02:53:53.888Z"
+generated_at: "2026-11-23T21:25:34.978Z"
+status: "active"
 ---
 
 # § 1521. Relief that may be granted upon recognition
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:53.888Z"
 - **(d)** The court may not enjoin a police or regulatory act of a governmental unit, including a criminal action or proceeding, under this section.
 - **(e)** The standards, procedures, and limitations applicable to an injunction shall apply to relief under paragraphs (1), (2), (3), and (6) of subsection (a).
 - **(f)** The exercise of rights not subject to the stay arising under section 362(a) pursuant to paragraph (6), (7), (17), or (27) of section 362(b) or pursuant to section 362( o ) shall not be stayed by any order of a court or administrative agency in any proceeding under this chapter.
+
+## Source Credit
+
+*(Added [Pub. L. 109–8, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 141](https://www.govinfo.gov/link/statute/119/141); amended [Pub. L. 111–327, § 2(a)(47)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3562](https://www.govinfo.gov/link/statute/124/3562).)*

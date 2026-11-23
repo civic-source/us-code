@@ -3,12 +3,21 @@ title: "Section 410zzz - Acquisition of lands"
 usc_title: 16
 usc_section: "410zzz"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410zzz"
-generated_at: "2026-03-30T02:54:22.785Z"
+generated_at: "2026-11-23T21:25:51.490Z"
+status: "active"
 ---
 
 # § 410zzz. Acquisition of lands
 
 In order to preserve in public ownership historically significant properties associated with the life and cultural achievements of Augustus Saint-Gaudens, the Secretary of the Interior may acquire, by donation from the Saint-Gaudens Memorial, a corporation, the sites and structures comprising the Saint-Gaudens Memorial situated at Cornish, New Hampshire, and by donation or purchase with donated funds not to exceed three acres of adjacent lands which the Secretary of the Interior deems necessary for the purposes of this subchapter, together with any works of art, furnishings, reproductions, and other properties within the structures and on the memorial grounds.
 
+
+In General
+
+References
+
+## Source Credit
+
+*([Pub. L. 88–543, § 1](https://www.govinfo.gov/link/plaw/88/public/543), Aug. 31, 1964, [78 Stat. 749](https://www.govinfo.gov/link/statute/78/749).)*

@@ -3,9 +3,10 @@ title: "Section 5507 - Civil penalties and permit sanctions"
 usc_title: 16
 usc_section: "5507"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 5507"
-generated_at: "2026-03-30T02:54:23.052Z"
+generated_at: "2026-11-23T21:25:52.031Z"
+status: "active"
 ---
 
 # § 5507. Civil penalties and permit sanctions
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:23.052Z"
 - **(e)**
   - **(1)** If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, or after the appropriate court has entered final judgment in favor of the Secretary, the matter shall be referred to the Attorney General, who shall recover the amount assessed in any appropriate district court of the United States. In such action the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
   - **(2)** A high seas fishing vessel (including its fishing gear, furniture, appurtenances, stores, and cargo) used in the commission of an act prohibited by section 5505 of this title shall be liable in rem for any civil penalty assessed for such violation under subsection (a) and may be proceeded against in any district court of the United States having jurisdiction thereof. Such penalty shall constitute a maritime lien on such vessel that may be recovered in an action in rem in the district court of the United States having jurisdiction over the vessel.
+
+## Source Credit
+
+*([Pub. L. 104–43, title I, § 108](https://www.govinfo.gov/link/plaw/104/public/43), Nov. 3, 1995, [109 Stat. 373](https://www.govinfo.gov/link/statute/109/373).)*

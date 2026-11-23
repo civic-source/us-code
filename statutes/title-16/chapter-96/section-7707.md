@@ -3,9 +3,10 @@ title: "Section 7707 - Cooperation in carrying out Convention"
 usc_title: 16
 usc_section: "7707"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 7707"
-generated_at: "2026-03-30T02:54:23.078Z"
+generated_at: "2026-11-23T21:25:52.069Z"
+status: "active"
 ---
 
 # § 7707. Cooperation in carrying out Convention
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:23.078Z"
   - **(1)** conducting or authorizing the conduct of fishing operations and biological experiments at any time for purposes of scientific investigation; or
   - **(2)** discharging any other duties prescribed by the North Pacific Fisheries Convention.
 - **(d)** Nothing in this chapter shall be construed to diminish or to increase the jurisdiction of any State in the territorial sea of the United States.
+
+## Source Credit
+
+*([Pub. L. 114–327, title I, § 107](https://www.govinfo.gov/link/plaw/114/public/327), Dec. 16, 2016, [130 Stat. 1983](https://www.govinfo.gov/link/statute/130/1983).)*

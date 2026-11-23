@@ -3,9 +3,10 @@ title: "Section 313 - Buy America"
 usc_title: 23
 usc_section: "313"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 313"
-generated_at: "2026-03-30T02:55:12.567Z"
+generated_at: "2026-11-23T21:25:53.919Z"
+status: "active"
 ---
 
 # § 313. Buy America
@@ -30,3 +31,27 @@ generated_at: "2026-03-30T02:55:12.567Z"
     - **(C)** the reasons for the proposed waiver.
   - **(2)** Not less frequently than annually, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the waivers provided under this section.
 - **(h)** The requirements under this section shall apply to all contracts eligible for assistance under this chapter for a project carried out within the scope of the applicable finding, determination, or decision under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.), regardless of the funding source of such contracts, if at least 1 contract for the project is funded with amounts made available to carry out this title.
+
+Intentional Violations
+
+Limitation on Applicability of Waivers to Products Produced in Certain Foreign Countries
+
+Waivers.—
+
+In general
+
+Report
+
+Application to Highway Programs
+
+Waiver Notification.—
+
+In general
+
+Limitation on statutory construction
+
+Annual Reports
+
+## Source Credit
+
+*(Added and amended [Pub. L. 109–59, title I, § 1903(a)](https://www.govinfo.gov/link/plaw/109/public/59), (c), Aug. 10, 2005, [119 Stat. 1464](https://www.govinfo.gov/link/statute/119/1464), 1465; [Pub. L. 112–141, div. A, title I, § 1518](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 574](https://www.govinfo.gov/link/statute/126/574); [Pub. L. 117–58, div. A, title I, § 11513](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 595](https://www.govinfo.gov/link/statute/135/595).)*

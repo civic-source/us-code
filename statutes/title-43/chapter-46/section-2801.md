@@ -3,9 +3,10 @@ title: "Section 2801 - Definitions"
 usc_title: 43
 usc_section: "2801"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 2801"
-generated_at: "2026-03-30T02:55:57.498Z"
+generated_at: "2026-11-23T21:26:19.899Z"
+status: "active"
 ---
 
 # § 2801. Definitions
@@ -41,3 +42,9 @@ In this chapter—
   - **(12)** the term “National Geospatial Data Asset data theme” means the National Geospatial Data Asset core geospatial datasets (including electronic records and coordinates) relating to a topic or subject designated under section 2805 of this title ;
   - **(13)** the term “National Spatial Data Infrastructure” means the technology, policies, criteria, standards, and employees necessary to promote geospatial data sharing throughout the Federal Government, State, tribal, and local governments, and the private sector (including nonprofit organizations and institutions of higher education); and
   - **(14)** the term “proven practices” means methods and activities that advance the use of geospatial data for the benefit of society.
+
+“Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 115–254, div. B, title VII, § 752](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3414](https://www.govinfo.gov/link/statute/132/3414).)*

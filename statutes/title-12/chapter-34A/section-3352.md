@@ -3,9 +3,10 @@ title: "Section 3352 - Emergency exceptions for disaster areas"
 usc_title: 12
 usc_section: "3352"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3352"
-generated_at: "2026-03-30T02:53:53.493Z"
+generated_at: "2026-11-23T21:25:37.135Z"
+status: "active"
 ---
 
 # § 3352. Emergency exceptions for disaster areas
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:53.493Z"
     - **(A)** would facilitate recovery from the major disaster; and
     - **(B)** is consistent with safety and soundness.
 - **(d)** For purposes of this section, the term “disaster area” means an area in which the President, pursuant to section 5170 of title 42 , has determined that a major disaster exists.
+
+## Source Credit
+
+*([Pub. L. 101–73, title XI, § 1123](https://www.govinfo.gov/link/plaw/101/public/73), as added [Pub. L. 102–485, § 2](https://www.govinfo.gov/link/plaw/102/public/485), Oct. 23, 1992, [106 Stat. 2771](https://www.govinfo.gov/link/statute/106/2771).)*

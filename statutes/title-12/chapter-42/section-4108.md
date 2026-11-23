@@ -3,9 +3,10 @@ title: "Section 4108 - Prepayment and voluntary termination"
 usc_title: 12
 usc_section: "4108"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4108"
-generated_at: "2026-03-30T02:53:53.500Z"
+generated_at: "2026-11-23T21:25:37.162Z"
+status: "active"
 ---
 
 # § 4108. Prepayment and voluntary termination
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:53.500Z"
   - **(1)** A written finding under subsection (a) shall be based on an analysis of the evidence considered by the Secretary in reaching such finding and shall contain documentation of such evidence.
   - **(2)** The Secretary shall, by regulation, develop (A) a procedure for determining whether the conditions under paragraphs (1) and (2) of subsection (a) exist, (B) requirements for evidence on which such determinations are based, and (C) criteria on which such determinations are based.
 - **(c)** If the Secretary determines a plan of action to prepay a mortgage or terminate an insurance contract fails to meet the requirements of subsection (a), the Secretary shall disapprove the plan, the notice of intent filed under section 4102 of this title by such owner shall not be effective for purposes of this subchapter, and the owner may, in order to receive incentives under this subchapter, file a new notice of intent under such section.
+
+## Source Credit
+
+*([Pub. L. 100–242, title II, § 218](https://www.govinfo.gov/link/plaw/100/public/242), as added [Pub. L. 101–625, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4256](https://www.govinfo.gov/link/statute/104/4256); amended [Pub. L. 102–550, title III, § 305](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3763](https://www.govinfo.gov/link/statute/106/3763).)*

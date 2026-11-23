@@ -3,9 +3,10 @@ title: "Section 644 - Improving data accuracy"
 usc_title: 47
 usc_section: "644"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 644"
-generated_at: "2026-03-30T02:56:24.525Z"
+generated_at: "2026-11-23T21:26:36.063Z"
+status: "active"
 ---
 
 # § 644. Improving data accuracy
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:24.525Z"
     - **(B)** State- and county-level digitized parcel data; and
     - **(C)** property tax attribute recording.
   - **(3)** Not later than 1 year after March 23, 2020 , the Comptroller General of the United States shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that contains the recommendations developed under paragraph (1).
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VIII, § 804, as added [Pub. L. 116–130, § 2](https://www.govinfo.gov/link/plaw/116/public/130), Mar. 23, 2020, [134 Stat. 237](https://www.govinfo.gov/link/statute/134/237); amended [Pub. L. 117–58, div. F, title V, § 60503](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1244](https://www.govinfo.gov/link/statute/135/1244).)*

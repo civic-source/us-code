@@ -3,9 +3,10 @@ title: "Section 430d - Cyber intelligence capability"
 usc_title: 10
 usc_section: "430d"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 430d"
-generated_at: "2026-03-30T02:53:38.058Z"
+generated_at: "2026-11-23T21:25:32.267Z"
+status: "active"
 ---
 
 # § 430d. Cyber intelligence capability
@@ -17,3 +18,15 @@ generated_at: "2026-03-30T02:53:38.058Z"
   - **(2)** The Secretary shall carry out subsection (a) using funds made available for the United States Cyber Command under the Military Intelligence Program.
   - **(3)** The National Security Agency may not provide information technology services for the dedicated cyber intelligence capability under subsection (a) unless such services are provided under the Military Intelligence Program or the Information Systems Security Program.
 - **(d)** In this section, the term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
+
+Requirement
+
+Nonduplication
+
+Resources
+
+Defense Budget Materials Defined
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title XVI, § 1612(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2167](https://www.govinfo.gov/link/statute/138/2167).)*

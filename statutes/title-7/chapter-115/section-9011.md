@@ -3,9 +3,10 @@ title: "Section 9011 - Definitions"
 usc_title: 7
 usc_section: "9011"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 9011"
-generated_at: "2026-03-30T02:53:42.482Z"
+generated_at: "2026-11-23T21:25:28.487Z"
+status: "active"
 ---
 
 # § 9011. Definitions
@@ -79,3 +80,7 @@ In this subchapter and subchapter II:
   - **(24)** The term “transitional yield” has the meaning given the term in section 1502(b) of this title .
   - **(25)** The term “United States”, when used in a geographical sense, means all of the States.
   - **(26)** The term “United States Premium Factor” means the percentage by which the difference in the United States loan schedule premiums for Strict Middling (SM) 1⅛-inch upland cotton and for Middling (M) 1 3 ⁄ 32 -inch upland cotton exceeds the difference in the applicable premiums for comparable international qualities.
+
+## Source Credit
+
+*([Pub. L. 113–79, title I, § 1111](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 659](https://www.govinfo.gov/link/statute/128/659); [Pub. L. 115–123, div. F, § 60101(a)(1)](https://www.govinfo.gov/link/plaw/115/public/123) –(3), Feb. 9, 2018, [132 Stat. 308](https://www.govinfo.gov/link/statute/132/308); [Pub. L. 115–334, title I, § 1101](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4500](https://www.govinfo.gov/link/statute/132/4500); [Pub. L. 119–21, title I, § 10301](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 86](https://www.govinfo.gov/link/statute/139/86).)*

@@ -3,9 +3,10 @@ title: "Section 392 - Record"
 usc_title: 2
 usc_section: "392"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 392"
-generated_at: "2026-03-30T02:53:04.796Z"
+generated_at: "2026-11-23T21:25:21.161Z"
+status: "active"
 ---
 
 # § 392. Record
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:04.796Z"
 - **(e)** Within thirty days of service of contestant’s brief and appendix, contestee shall serve on contestant his printed brief of the facts and authorities relied on to establish his case together with his appendix.
 - **(f)** Within ten days after service of contestee’s brief and appendix, contestant may serve on contestee a printed reply brief.
 - **(g)** The form and length of the briefs, the form of the appendixes, and the number of copies to be served and filed shall be in accordance with such rules as the committee may prescribe.
+
+## Source Credit
+
+*([Pub. L. 91–138, § 13](https://www.govinfo.gov/link/plaw/91/public/138), Dec. 5, 1969, [83 Stat. 289](https://www.govinfo.gov/link/statute/83/289).)*

@@ -3,9 +3,10 @@ title: "Section 5706 - Reports"
 usc_title: 12
 usc_section: "5706"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5706"
-generated_at: "2026-03-30T02:53:53.550Z"
+generated_at: "2026-11-23T21:25:37.303Z"
+status: "active"
 ---
 
 # § 5706. Reports
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:53.550Z"
   - **(5)** Such other data as the Secretary, in the Secretary’s sole discretion, may require to carry out the purposes of the Program.
 - **(c)** The reports and data filed under subsections (a) and (b) shall be in such form as the Secretary, in the Secretary’s sole discretion, may require.
 - **(d)** The requirement to submit reports under subsections (a) and (b) shall terminate for a participating State with the submission of the completed reports due on the first March 31 to occur after 5 complete 12-month periods after the State is approved by the Secretary to be a participating State.
+
+## Source Credit
+
+*([Pub. L. 111–240, title III, § 3007](https://www.govinfo.gov/link/plaw/111/public/240), Sept. 27, 2010, [124 Stat. 2579](https://www.govinfo.gov/link/statute/124/2579); [Pub. L. 117–2, title III, § 3301(a)(1)(E)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 69](https://www.govinfo.gov/link/statute/135/69).)*

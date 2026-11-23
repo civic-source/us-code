@@ -3,12 +3,17 @@ title: "Section 2265 - Columbia River/Arkansas River Basin transfers"
 usc_title: 33
 usc_section: "2265"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2265"
-generated_at: "2026-03-30T02:55:41.117Z"
+generated_at: "2026-11-23T21:26:11.431Z"
+status: "active"
 ---
 
 # § 2265. Columbia River/Arkansas River Basin transfers
 
 - **(a)** No Federal agency shall study or participate in the study of any regional or river basin plan or any plan for any Federal water and related land resource project which has as its objective the transfer of water from the Columbia River Basin to any other region or any other major river basin of the United States, unless such study is approved by the Governors of all affected States.
 - **(b)** For a period of 5 years after November 17, 1986 , no Federal agency shall study or participate in the study of any regional or river basin plan or any plan for any Federal water and related land resource project which has as its objective the transfer of water from the Arkansas River Basin to any other region or any other major river basin of the United States, unless such study is approved by the Governors of all affected States.
+
+## Source Credit
+
+*([Pub. L. 99–662, title VII, § 715](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4161](https://www.govinfo.gov/link/statute/100/4161).)*

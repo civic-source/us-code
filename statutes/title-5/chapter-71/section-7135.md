@@ -3,9 +3,10 @@ title: "Section 7135 - Continuation of existing laws, recognitions, agreements, 
 usc_title: 5
 usc_section: "7135"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 7135"
-generated_at: "2026-03-30T02:52:56.036Z"
+generated_at: "2026-11-23T21:25:23.336Z"
+status: "active"
 ---
 
 # § 7135. Continuation of existing laws, recognitions, agreements, and procedures
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:52:56.036Z"
   - **(1)** the renewal or continuation of an exclusive recognition, certification of an exclusive representative, or a lawful agreement between an agency and an exclusive representative of its employees, which is entered into before the effective date of this chapter; or
   - **(2)** the renewal, continuation, or initial according of recognition for units of management officials or supervisors represented by labor organizations which historically or traditionally represent management officials or supervisors in private industry and which hold exclusive recognition for units of such officials or supervisors in any agency on the effective date of this chapter.
 - **(b)** Policies, regulations, and procedures established under and decisions issued under Executive Orders 11491, 11616, 11636, 11787, and 11838, or under any other Executive order, as in effect on the effective date of this chapter, shall remain in full force and effect until revised or revoked by the President, or unless superseded by specific provisions of this chapter or by regulations or decisions issued pursuant to this chapter.
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title VII, § 701](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1215](https://www.govinfo.gov/link/statute/92/1215).)*

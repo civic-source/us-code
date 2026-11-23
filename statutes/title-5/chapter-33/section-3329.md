@@ -3,9 +3,10 @@ title: "Section 3329 - Appointments of military reserve technicians to positions
 usc_title: 5
 usc_section: "3329"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3329"
-generated_at: "2026-03-30T02:52:56.002Z"
+generated_at: "2026-11-23T21:25:23.154Z"
+status: "active"
 ---
 
 # § 3329. Appointments of military reserve technicians to positions in the competitive service
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:52:56.002Z"
   - **(1)** an involuntary separation for cause on charges of misconduct or delinquency; or
   - **(2)** a technician who, as of the date of application under this section, is eligible for immediate (including for disability) or early retirement under subchapter III of chapter 83 or under chapter 84.
 - **(e)** The Secretary of Defense shall, in consultation with the Director of the Office of Personnel Management, prescribe such regulations as may be necessary to carry out this section.
+
+## Source Credit
+
+*(Added [Pub. L. 102–484, div. A, title V, § 544(a)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2415](https://www.govinfo.gov/link/statute/106/2415); amended [Pub. L. 104–106, div. A, title X, § 1037(a)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 431](https://www.govinfo.gov/link/statute/110/431); [Pub. L. 105–85, div. A, title XI, § 1103](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1923](https://www.govinfo.gov/link/statute/111/1923); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1087(f)(1)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–293.)*

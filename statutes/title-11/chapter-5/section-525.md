@@ -3,9 +3,10 @@ title: "Section 525 - Protection against discriminatory treatment"
 usc_title: 11
 usc_section: "525"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 525"
-generated_at: "2026-03-30T02:53:53.878Z"
+generated_at: "2026-11-23T21:25:34.922Z"
+status: "active"
 ---
 
 # § 525. Protection against discriminatory treatment
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.878Z"
 - **(c)**
   - **(1)** A governmental unit that operates a student grant or loan program and a person engaged in a business that includes the making of loans guaranteed or insured under a student loan program may not deny a student grant, loan, loan guarantee, or loan insurance to a person that is or has been a debtor under this title or a bankrupt or debtor under the Bankruptcy Act, or another person with whom the debtor or bankrupt has been associated, because the debtor or bankrupt is or has been a debtor under this title or a bankrupt or debtor under the Bankruptcy Act, has been insolvent before the commencement of a case under this title or during the pendency of the case but before the debtor is granted or denied a discharge, or has not paid a debt that is dischargeable in the case under this title or that was discharged under the Bankruptcy Act.
   - **(2)** In this section, “student loan program” means any program operated under title IV of the Higher Education Act of 1965 or a similar program operated under State or local law.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2593](https://www.govinfo.gov/link/statute/92/2593); [Pub. L. 98–353, title III, § 309](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 354](https://www.govinfo.gov/link/statute/98/354); [Pub. L. 103–394, title III, § 313](https://www.govinfo.gov/link/plaw/103/public/394), title V, § 501(d)(15), Oct. 22, 1994, [108 Stat. 4140](https://www.govinfo.gov/link/statute/108/4140), 4145; [Pub. L. 109–8, title XII, § 1211](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 194](https://www.govinfo.gov/link/statute/119/194); [Pub. L. 116–260, div. FF, title X, § 1001(c)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3217](https://www.govinfo.gov/link/statute/134/3217).)*

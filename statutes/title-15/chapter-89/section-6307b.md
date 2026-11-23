@@ -3,9 +3,10 @@ title: "Section 6307b - Protection from coercive contracts"
 usc_title: 15
 usc_section: "6307b"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6307b"
-generated_at: "2026-03-30T02:54:08.210Z"
+generated_at: "2026-11-23T21:25:40.021Z"
+status: "active"
 ---
 
 # § 6307b. Protection from coercive contracts
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:08.210Z"
   - **(3)** No subsequent contract provision extending any rights or compensation covered in paragraph (1) shall be enforceable against a boxer if the effective date of the contract containing such provision is earlier than 3 months before the expiration of the relevant time period set forth in paragraph (1).
 - **(b)** No boxing service provider may require a boxer to grant any future promotional rights as a requirement of competing in a professional boxing match that is a mandatory bout under the rules of a sanctioning organization.
 - **(c)** Subsection (a) of this section applies to any contract between a commercial broadcaster and a boxer, or granting any rights with respect to that boxer, involving a broadcast in or affecting interstate commerce, regardless of the broadcast medium. For the purpose of this subsection, any reference in subsection (a)(1)(B) to “promoter” shall be considered a reference to “commercial broadcaster”.
+
+## Source Credit
+
+*([Pub. L. 104–272, § 10](https://www.govinfo.gov/link/plaw/104/public/272), as added [Pub. L. 106–210, § 4(2)](https://www.govinfo.gov/link/plaw/106/public/210), May 26, 2000, [114 Stat. 322](https://www.govinfo.gov/link/statute/114/322).)*

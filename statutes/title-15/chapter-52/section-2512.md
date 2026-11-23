@@ -3,9 +3,10 @@ title: "Section 2512 - Studies"
 usc_title: 15
 usc_section: "2512"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2512"
-generated_at: "2026-03-30T02:54:08.173Z"
+generated_at: "2026-11-23T21:25:39.930Z"
+status: "active"
 ---
 
 # § 2512. Studies
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:08.173Z"
   - **(3)** assess the net energy impacts and cost effectiveness of such devices;
   - **(4)** examine present patents and patent policy regarding such devices; and
   - **(5)** determine whether regenerative braking should be used on some of the advanced electric or hybrid vehicles to be purchased or leased pursuant to section 2506(c)(2) of this title .
+
+## Source Credit
+
+*([Pub. L. 94–413, § 13](https://www.govinfo.gov/link/plaw/94/public/413), Sept. 17, 1976, [90 Stat. 1269](https://www.govinfo.gov/link/statute/90/1269); [Pub. L. 95–91, title III, § 301(a)](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 577](https://www.govinfo.gov/link/statute/91/577); [Pub. L. 96–185, § 18](https://www.govinfo.gov/link/plaw/96/public/185), Jan. 7, 1980, [93 Stat. 1336](https://www.govinfo.gov/link/statute/93/1336).)*

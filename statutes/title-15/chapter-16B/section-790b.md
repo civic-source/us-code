@@ -3,9 +3,10 @@ title: "Section 790b - Administrative provisions"
 usc_title: 15
 usc_section: "790b"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 790b"
-generated_at: "2026-03-30T02:54:08.122Z"
+generated_at: "2026-11-23T21:25:39.765Z"
+status: "active"
 ---
 
 # § 790b. Administrative provisions
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.122Z"
 - **(d)**
   - **(1)** The Director shall be available to the Congress to provide testimony on such subjects under his authority and responsibility as the Congress may request, including but not limited to energy information and analyses thereof.
   - **(2)** Any request for appropriations for the Federal Energy Administration submitted to the Congress shall identify the portion of such request intended for the support of the Office, and a statement of the differences, if any, between the amounts requested and the Director’s assessment of the budgetary needs of the Office.
+
+## Source Credit
+
+*([Pub. L. 93–275, § 53](https://www.govinfo.gov/link/plaw/93/public/275), as added [Pub. L. 94–385, title I, § 142](https://www.govinfo.gov/link/plaw/94/public/385), Aug. 14, 1976, [90 Stat. 1136](https://www.govinfo.gov/link/statute/90/1136).)*

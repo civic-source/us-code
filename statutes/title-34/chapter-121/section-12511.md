@@ -3,9 +3,10 @@ title: "Section 12511 - Sexual assault services program"
 usc_title: 34
 usc_section: "12511"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 12511"
-generated_at: "2026-03-30T02:55:33.289Z"
+generated_at: "2026-11-23T21:26:09.753Z"
+status: "active"
 ---
 
 # § 12511. Sexual assault services program
@@ -84,3 +85,7 @@ generated_at: "2026-03-30T02:55:33.289Z"
     - **(D)** not less than 10 percent shall be used for making grants to State, territorial, and tribal sexual assault coalitions under subsection (d);
     - **(E)** not less than 10 percent shall be used for grants to tribes under subsection (e); and
     - **(F)** not less than 10 percent shall be used for grants for culturally specific programs addressing sexual assault under subsection (c).
+
+## Source Credit
+
+*([Pub. L. 103–322, title IV, § 41601](https://www.govinfo.gov/link/plaw/103/public/322), as added [Pub. L. 109–271, § 3(b)](https://www.govinfo.gov/link/plaw/109/public/271), Aug. 12, 2006, [120 Stat. 754](https://www.govinfo.gov/link/statute/120/754); amended [Pub. L. 113–4, title II, § 201](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 80](https://www.govinfo.gov/link/statute/127/80); [Pub. L. 117–103, div. W, title II, § 201](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 856](https://www.govinfo.gov/link/statute/136/856).)*

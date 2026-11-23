@@ -3,9 +3,10 @@ title: "Section 247c - Sexually transmitted diseases; prevention and control pro
 usc_title: 42
 usc_section: "247c"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 247c"
-generated_at: "2026-03-30T02:56:10.699Z"
+generated_at: "2026-11-23T21:26:30.278Z"
+status: "active"
 ---
 
 # § 247c. Sexually transmitted diseases; prevention and control projects and programs
@@ -31,3 +32,11 @@ generated_at: "2026-03-30T02:56:10.699Z"
     - **(A)** in summary, statistical, or other form; or
     - **(B)** for clinical or research purposes;
 - **(f)** Nothing in this section shall be construed to require any State or any political subdivision of a State to have a sexually transmitted diseases program which would require any person, who objects to any treatment provided under such a program, to be treated under such a program.
+
+“The Congress finds and declares that—
+
+“The Congress finds and declares that—
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 318, as added [Pub. L. 92–449, title II, § 203](https://www.govinfo.gov/link/plaw/92/public/449), Sept. 30, 1972, [86 Stat. 751](https://www.govinfo.gov/link/statute/86/751); amended [Pub. L. 94–317, title II, § 203(b)](https://www.govinfo.gov/link/plaw/94/public/317) –(i), June 23, 1976, [90 Stat. 704](https://www.govinfo.gov/link/statute/90/704), 705; [Pub. L. 94–484, title IX, § 905(b)(2)](https://www.govinfo.gov/link/plaw/94/public/484), Oct. 12, 1976, [90 Stat. 2325](https://www.govinfo.gov/link/statute/90/2325); [Pub. L. 95–626, title II, § 204(b)(1)](https://www.govinfo.gov/link/plaw/95/public/626), (c), (d), Nov. 10, 1978, [92 Stat. 3583](https://www.govinfo.gov/link/statute/92/3583); [Pub. L. 96–32, § 6(j)](https://www.govinfo.gov/link/plaw/96/public/32), July 10, 1979, [93 Stat. 84](https://www.govinfo.gov/link/statute/93/84); [Pub. L. 97–35, title IX, § 929](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 569](https://www.govinfo.gov/link/statute/95/569); [Pub. L. 98–555, § 3](https://www.govinfo.gov/link/plaw/98/public/555), Oct. 30, 1984, [98 Stat. 2854](https://www.govinfo.gov/link/statute/98/2854); [Pub. L. 100–607, title III, § 311](https://www.govinfo.gov/link/plaw/100/public/607), Nov. 4, 1988, [102 Stat. 3112](https://www.govinfo.gov/link/statute/102/3112); [Pub. L. 103–183, title IV, § 401](https://www.govinfo.gov/link/plaw/103/public/183), Dec. 14, 1993, [107 Stat. 2236](https://www.govinfo.gov/link/statute/107/2236); [Pub. L. 105–392, title IV, § 401(b)(2)](https://www.govinfo.gov/link/plaw/105/public/392), (c), Nov. 13, 1998, [112 Stat. 3587](https://www.govinfo.gov/link/statute/112/3587).)*

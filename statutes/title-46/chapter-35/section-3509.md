@@ -3,9 +3,10 @@ title: "Section 3509 - Medical standards"
 usc_title: 46
 usc_section: "3509"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 3509"
-generated_at: "2026-03-30T02:56:15.544Z"
+generated_at: "2026-11-23T21:26:37.052Z"
+status: "active"
 ---
 
 # § 3509. Medical standards
@@ -17,3 +18,7 @@ The owner of a vessel to which section 3507 applies shall ensure that—
   - **(3)** the initial safety briefing given to the passengers on board the vessel includes—
     - **(A)** the location of the vessel’s medical facilities; and
     - **(B)** the appropriate steps passengers should follow during a medical emergency.
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. G, title LVXXXIII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXIII], § 8322(a), Jan. 1, 2021, [134 Stat. 4702](https://www.govinfo.gov/link/statute/134/4702).)*

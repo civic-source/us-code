@@ -3,9 +3,10 @@ title: "Section 2102 - Establishment"
 usc_title: 10
 usc_section: "2102"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2102"
-generated_at: "2026-03-30T02:53:38.141Z"
+generated_at: "2026-11-23T21:25:32.551Z"
+status: "active"
 ---
 
 # § 2102. Establishment
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:38.141Z"
   - **(1)** a unit is requested by an educational institution in the State;
   - **(2)** such request is approved by the Governor of the State in which the institution requesting the unit is located; and
   - **(3)** the Secretary of the military department concerned determines that there will be not less than 40 students enrolled in such unit and that the provisions of this section are otherwise satisfied.
+
+## Source Credit
+
+*(Added [Pub. L. 88–647, title II, § 201(1)](https://www.govinfo.gov/link/plaw/88/public/647), Oct. 13, 1964, [78 Stat. 1065](https://www.govinfo.gov/link/statute/78/1065); amended [Pub. L. 95–79, title VI, § 602](https://www.govinfo.gov/link/plaw/95/public/79), July 30, 1977, [91 Stat. 332](https://www.govinfo.gov/link/statute/91/332); [Pub. L. 116–283, div. A, title IX, § 924(b)(3)(BB)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3822](https://www.govinfo.gov/link/statute/134/3822).)*

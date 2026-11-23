@@ -3,9 +3,10 @@ title: "Section 4093 - Science, Mathematics, and Research for Transformation (SM
 usc_title: 10
 usc_section: "4093"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4093"
-generated_at: "2026-03-30T02:53:38.201Z"
+generated_at: "2026-11-23T21:25:32.755Z"
+status: "active"
 ---
 
 # § 4093. Science, Mathematics, and Research for Transformation (SMART) Defense Education Program
@@ -54,3 +55,29 @@ generated_at: "2026-03-30T02:53:38.201Z"
     - **(B)** is not a citizen of the United States; and
     - **(C)** is a citizen of a country the government of which is a party to The Technical Cooperation Program (TTCP) memorandum of understanding of October 24, 1995 .
 - **(h)** In this section, the term “institution of higher education” has the meaning given such term in section 101 of the Higher Education Act of 1965 ( 20 U.S.C. 1001 ).
+
+Requirement for Program
+
+Financial Assistance
+
+Service Agreement for Recipients of Financial Assistance
+
+Employment of Program Participants
+
+Refund for Period of Unserved Obligated Service
+
+Relationship to Other Programs
+
+Limitation on Participation
+
+Institution of Higher Education Defined
+
+In General
+
+Activities
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 109–163, div. A, title XI, § 1104(d)(1)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3449](https://www.govinfo.gov/link/statute/119/3449), § 2192a; amended [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title X, § 1061(a)(5), Oct. 14, 2008, [122 Stat. 4612](https://www.govinfo.gov/link/statute/122/4612); [Pub. L. 111–84, div. A, title XI, § 1102(a)](https://www.govinfo.gov/link/plaw/111/public/84) –(d)(1), Oct. 28, 2009, [123 Stat. 2484](https://www.govinfo.gov/link/statute/123/2484), 2485; [Pub. L. 113–66, div. A, title XI, § 1105(a)(1)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 886](https://www.govinfo.gov/link/statute/127/886); [Pub. L. 113–291, div. A, title II, § 215](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3327](https://www.govinfo.gov/link/statute/128/3327); [Pub. L. 114–92, div. A, title II, § 212](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 767](https://www.govinfo.gov/link/statute/129/767); [Pub. L. 116–283, div. A, title II, § 242](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3488](https://www.govinfo.gov/link/statute/134/3488); renumbered § 4093, [Pub. L. 116–283, div. A, title XVIII, § 1843(a)](https://www.govinfo.gov/link/plaw/116/public/283), as added [Pub. L. 117–81, div. A, title XVII, § 1701(u)(4)(A)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2153](https://www.govinfo.gov/link/statute/135/2153); [Pub. L. 117–263, div. A, title X, § 1083](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2800](https://www.govinfo.gov/link/statute/136/2800).)*

@@ -3,12 +3,17 @@ title: "Section 2261 - Territories development study"
 usc_title: 33
 usc_section: "2261"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2261"
-generated_at: "2026-03-30T02:55:41.117Z"
+generated_at: "2026-11-23T21:26:11.430Z"
+status: "active"
 ---
 
 # § 2261. Territories development study
 
 The Secretary is hereby authorized and directed to make studies in cooperation with the Secretary of the Interior and the governments of the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands for the purposes of providing plans for the development, utilization, and conservation of water and related land resources of such jurisdiction, at a total cost of $2,000,000 for each of the five studies. Such studies shall include appropriate consideration of the needs for flood protection, wise use of flood plain lands, navigation facilities, hydroelectric power generation, regional water supply and waste water management facilities systems, general recreation facilities, enhancement and control of water quality, enhancement and conservation of fish and wildlife, and other measures for environmental enhancement, economic and human resources development. Such studies shall be compatible with comprehensive development plans formulated by local planning agencies and other interested Federal agencies. Any funds made available under this section for a study for any such jurisdiction which is not needed for such study shall be available to the Secretary to construct authorized water resources projects in such jurisdiction and to implement the findings of such study with appropriate cost sharing as provided in this Act.
 
+
+## Source Credit
+
+*([Pub. L. 99–662, title VII, § 702](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4156](https://www.govinfo.gov/link/statute/100/4156).)*

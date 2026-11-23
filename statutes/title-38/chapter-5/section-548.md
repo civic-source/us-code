@@ -3,9 +3,10 @@ title: "Section 548 - Advisory Committee on United States Outlying Areas and Fre
 usc_title: 38
 usc_section: "548"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 548"
-generated_at: "2026-03-30T02:55:53.474Z"
+generated_at: "2026-11-23T21:26:16.560Z"
+status: "active"
 ---
 
 # § 548. Advisory Committee on United States Outlying Areas and Freely Associated States
@@ -79,3 +80,37 @@ generated_at: "2026-03-30T02:55:53.474Z"
     - **(A)** serves the interests of covered veterans;
     - **(B)** has covered veterans in substantive and policymaking positions within the organization; and
     - **(C)** has demonstrated experience working with covered veterans.
+
+Establishment
+
+Duties
+
+Membership
+
+Terms; Vacancies
+
+Meeting Format and Frequency
+
+Additional Representation
+
+Subcommittees
+
+Reports
+
+Committee Personnel Matters
+
+Consultation
+
+Termination
+
+Definitions
+
+Deadline for Establishment
+
+Deadline for Initial Appointments
+
+Initial Meeting
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. E, title LI, § 5102(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3205](https://www.govinfo.gov/link/statute/136/3205).)*

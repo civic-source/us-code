@@ -3,9 +3,10 @@ title: "Section 5609 - Definitions"
 usc_title: 16
 usc_section: "5609"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 5609"
-generated_at: "2026-03-30T02:54:23.053Z"
+generated_at: "2026-11-23T21:25:52.032Z"
+status: "active"
 ---
 
 # § 5609. Definitions
@@ -41,3 +42,7 @@ In this chapter:
   - **(15)** The term “Secretary” means the Secretary of Commerce.
   - **(16)** The term “State” means each of the several States of the United States, the District of Columbia, and any other commonwealth, territory, or possession of the United States.
   - **(17)** The term “transshipment” means the unloading of all or any of the fishery resources on board a fishing vessel to another fishing vessel either at sea or in port.
+
+## Source Credit
+
+*([Pub. L. 104–43, title II, § 210](https://www.govinfo.gov/link/plaw/104/public/43), Nov. 3, 1995, [109 Stat. 381](https://www.govinfo.gov/link/statute/109/381); [Pub. L. 105–384, title II, § 201(b)(3)](https://www.govinfo.gov/link/plaw/105/public/384), Nov. 13, 1998, [112 Stat. 3451](https://www.govinfo.gov/link/statute/112/3451); [Pub. L. 114–327, title V, § 508](https://www.govinfo.gov/link/plaw/114/public/327), Dec. 16, 2016, [130 Stat. 1996](https://www.govinfo.gov/link/statute/130/1996).)*

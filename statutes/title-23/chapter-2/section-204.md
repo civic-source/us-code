@@ -3,9 +3,10 @@ title: "Section 204 - Federal lands access program"
 usc_title: 23
 usc_section: "204"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 204"
-generated_at: "2026-03-30T02:55:12.565Z"
+generated_at: "2026-11-23T21:25:53.914Z"
+status: "active"
 ---
 
 # § 204. Federal lands access program
@@ -78,3 +79,43 @@ generated_at: "2026-03-30T02:55:12.565Z"
     - **(C)** a representative of any appropriate political subdivision of the State.
   - **(2)** The committee described in paragraph (1) shall cooperate with each applicable Federal agency in each State before any joint discussion or final programming decision.
   - **(3)** In making a programming decision under paragraph (1), the committee shall give preference to projects that provide access to, are adjacent to, or are located within high-use Federal recreation sites or Federal economic generators, as identified by the Secretaries of the appropriate Federal land management agencies.
+
+Use of Funds.—
+
+In general
+
+Contract
+
+Administration
+
+Cooperation.—
+
+In general
+
+Funds received
+
+Competitive bidding.—
+
+In general
+
+Exception
+
+Native plant materials
+
+Program Distributions.—
+
+In general
+
+Data source
+
+Programming Decisions Committee.—
+
+In general
+
+Consultation requirement
+
+Project preference
+
+## Source Credit
+
+*(Added [Pub. L. 112–141, div. A, title I, § 1119(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 489](https://www.govinfo.gov/link/statute/126/489); amended [Pub. L. 117–58, div. A, title I, § 11113(b)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 479](https://www.govinfo.gov/link/statute/135/479).)*

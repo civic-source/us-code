@@ -3,9 +3,10 @@ title: "Section 8732 - Loan rates for nonrecourse marketing assistance loans"
 usc_title: 7
 usc_section: "8732"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 8732"
-generated_at: "2026-03-30T02:53:42.479Z"
+generated_at: "2026-11-23T21:25:28.480Z"
+status: "active"
 ---
 
 # § 8732. Loan rates for nonrecourse marketing assistance loans
@@ -97,3 +98,7 @@ generated_at: "2026-03-30T02:53:42.479Z"
   - **(18)** In the case of mohair, $4.20 per pound.
   - **(19)** In the case of honey, $0.69 per pound.
 - **(d)** The Secretary shall establish a single loan rate in each county for each kind of other oilseeds described in subsections (a)(11), (b)(11), and (c)(11).
+
+## Source Credit
+
+*([Pub. L. 110–234, title I, § 1202](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 954](https://www.govinfo.gov/link/statute/122/954); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1202, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1682.)*

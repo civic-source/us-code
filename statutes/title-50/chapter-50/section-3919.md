@@ -3,9 +3,10 @@ title: "Section 3919 - Exercise of rights under chapter not to affect certain fu
 usc_title: 50
 usc_section: "3919"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3919"
-generated_at: "2026-03-30T02:56:26.263Z"
+generated_at: "2026-11-23T21:26:39.077Z"
+status: "active"
 ---
 
 # § 3919. Exercise of rights under chapter not to affect certain future financial transactions
@@ -21,3 +22,7 @@ Application by a servicemember for, or receipt by a servicemember of, a stay, po
   - **(4)** A refusal by an insurer to insure the servicemember.
   - **(5)** An annotation in a servicemember’s record by a creditor or a person engaged in the practice of assembling or evaluating consumer credit information, identifying the servicemember as a member of the National Guard or a reserve component or as a member of the Space Force.
   - **(6)** A change in the terms offered or conditions required for the issuance of insurance.
+
+## Source Credit
+
+*(Oct. 17, 1940, ch. 888, title I, § 108, as added [Pub. L. 108–189, § 1](https://www.govinfo.gov/link/plaw/108/public/189), Dec. 19, 2003, [117 Stat. 2840](https://www.govinfo.gov/link/statute/117/2840); amended [Pub. L. 118–31, div. A, title XVII, § 1742(c)(3)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 681](https://www.govinfo.gov/link/statute/137/681).)*

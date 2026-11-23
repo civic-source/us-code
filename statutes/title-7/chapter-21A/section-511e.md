@@ -3,12 +3,17 @@ title: "Section 511e - Sampling and weighing; cost; disposition of moneys receiv
 usc_title: 7
 usc_section: "511e"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 511e"
-generated_at: "2026-03-30T02:53:42.287Z"
+generated_at: "2026-11-23T21:25:27.970Z"
+status: "active"
 ---
 
 # § 511e. Sampling and weighing; cost; disposition of moneys received; expenses; purpose
 
 The Secretary, independently or in cooperation with other branches of the Government, State agencies, or persons whether operating in one or more jurisdictions, is authorized to employ and/or license competent persons as samplers to take official samples of tobacco, or as weighers to weigh and certify the weight of tobacco, or as inspectors of tobacco to determine and certify, upon the request of the owner or other financially interested person, the type, grade, weight, condition, and/or such other facts as the Secretary may deem necessary. The Secretary shall fix and collect such fees or charges in the administration of this section as will cover, as nearly as practicable, the costs of the services provided, including administrative and supervisory costs. Such fees and charges shall be credited to the account referred to in section 511d of this title . Fees or charges collected under an agreement with a State, municipality, or person, or by an individual licensed to inspect or weigh or sample tobacco under this chapter, may be disposed of in accordance with the terms of such agreement or license. Charges for expenses for travel and subsistence incurred by inspectors or weighers or samplers employed by the Secretary when required to be paid by the applicant for service, may be credited to the appropriation, or any other funds authorized in this chapter from which they were paid. This section is intended merely to provide for the furnishing of services upon request of the owner or other person financially interested in tobacco to be sampled, inspected, or weighed and shall not be construed otherwise.
 
+
+## Source Credit
+
+*(Aug. 23, 1935, ch. 623, § 6, [49 Stat. 732](https://www.govinfo.gov/link/statute/49/732); [Pub. L. 97–35, title I, § 157(a)(2)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 375](https://www.govinfo.gov/link/statute/95/375).)*

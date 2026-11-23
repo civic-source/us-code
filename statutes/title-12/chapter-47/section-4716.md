@@ -3,9 +3,10 @@ title: "Section 4716 - Studies and reports; examination and audit"
 usc_title: 12
 usc_section: "4716"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4716"
-generated_at: "2026-03-30T02:53:53.517Z"
+generated_at: "2026-11-23T21:25:37.215Z"
+status: "active"
 ---
 
 # § 4716. Studies and reports; examination and audit
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:53.517Z"
 - **(d)** Thirty months after the appointment and qualification of the Administrator, the Comptroller General of the United States shall submit to the President and the Congress a study evaluating the structure, governance, and performance of the Fund.
 - **(e)** In the conduct of the studies required under this section, the Fund shall consult, as appropriate, with the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the Board of Governors of the Federal Reserve System, the Federal Housing Finance Agency, the Farm Credit Administration, the Director of the Office of Thrift Supervision, the National Credit Union Administration Board, Indian tribal governments, community reinvestment organizations, civil rights organizations, consumer organizations, financial organizations, and such representatives of agencies or other persons, at the discretion of the Fund.
 - **(f)** The financial statements of the Fund shall be audited in accordance with section 9105 of title 31 , except that audits required by section 9105(a) of such title shall be performed annually.
+
+## Source Credit
+
+*([Pub. L. 103–325, title I, § 117](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2187](https://www.govinfo.gov/link/statute/108/2187); [Pub. L. 110–289, div. A, title II, § 1216(b)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2792](https://www.govinfo.gov/link/statute/122/2792).)*

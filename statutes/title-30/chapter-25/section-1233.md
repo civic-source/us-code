@@ -3,9 +3,10 @@ title: "Section 1233 - Objectives of fund"
 usc_title: 30
 usc_section: "1233"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1233"
-generated_at: "2026-03-30T02:55:29.398Z"
+generated_at: "2026-11-23T21:26:00.420Z"
+status: "active"
 ---
 
 # § 1233. Objectives of fund
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:29.398Z"
   - **(1)** Any State or Indian tribe not certified under section 1240a(a) of this title may expend funds allocated to such State or Indian tribe in any year through the grants made available under paragraphs (1) and (5) of section 1232(g) of this title for the purpose of protecting, repairing, replacing, constructing, or enhancing facilities relating to water supply, including water distribution facilities and treatment plants, to replace water supplies adversely affected by coal mining practices.
   - **(2)** If the adverse effect on water supplies referred to in this subsection occurred both prior to and after August 3, 1977 , or as the case may be, the dates (and under the criteria) set forth under section 1232(g)(4)(B) of this title , section 1234 of this title shall not be construed to prohibit a State or Indian tribe referred to in paragraph (1) from using funds referred to in such paragraph for the purposes of this subsection if the State or Indian tribe determines that such adverse effects occurred predominantly prior to August 3, 1977 , or as the case may be, the dates (and under the criteria) set forth under section 1232(g)(4)(B) of this title .
 - **(c)** For the purposes of assisting in the planning and evaluation of reclamation projects pursuant to section 1235 of this title , and assisting in making the certification referred to in section 1240a(a) of this title , the Secretary shall maintain an inventory of eligible lands and waters pursuant to section 1234 of this title which meet the priorities stated in paragraphs (1) and (2) of subsection (a). Under standardized procedures established by the Secretary, States and Indian tribes with approved abandoned mine reclamation programs pursuant to section 1235 of this title may offer amendments, subject to the approval of the Secretary, to update the inventory as it applies to eligible lands and waters under the jurisdiction of such States or tribes. The Secretary shall provide such States and tribes with the financial and technical assistance necessary for the purpose of making inventory amendments. The Secretary shall compile and maintain an inventory for States and Indian lands in the case when a State or Indian tribe does not have an approved abandoned mine reclamation program pursuant to section 1235 of this title . On a regular basis, but not less than annually, the projects completed under this subchapter shall be so noted on the inventory under standardized procedures established by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 95–87, title IV, § 403](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 458](https://www.govinfo.gov/link/statute/91/458); [Pub. L. 101–508, title VI, § 6005](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–294](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–486, title XXV, § 2504(c)(2)](https://www.govinfo.gov/link/plaw/102/public/486), (e), Oct. 24, 1992, [106 Stat. 3105](https://www.govinfo.gov/link/statute/106/3105), 3106; [Pub. L. 109–432, div. C, title II, § 203](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 3015](https://www.govinfo.gov/link/statute/120/3015).)*

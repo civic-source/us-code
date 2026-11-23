@@ -3,9 +3,10 @@ title: "Section 348 - Aviation Leadership Program"
 usc_title: 10
 usc_section: "348"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 348"
-generated_at: "2026-03-30T02:53:38.054Z"
+generated_at: "2026-11-23T21:25:32.257Z"
+status: "active"
 ---
 
 # § 348. Aviation Leadership Program
@@ -19,3 +20,15 @@ generated_at: "2026-03-30T02:53:38.054Z"
     - **(D)** billeting, food, and health services.
   - **(2)** The Secretary may authorize such expenditures from the appropriations of the Air Force as the Secretary considers necessary for the efficient and effective maintenance of the Program in accordance with this section.
 - **(c)** The Secretary of the Air Force may pay to a person receiving training under this section a living allowance at a rate to be prescribed by the Secretary, taking into account the amount of living allowances authorized for a member of the armed forces under similar circumstances.
+
+In General
+
+Supplies and Clothing
+
+Allowances
+
+“The Congress finds the following:
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title XII, § 1241(i)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2507](https://www.govinfo.gov/link/statute/130/2507).)*

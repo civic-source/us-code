@@ -3,9 +3,10 @@ title: "Section 1202 - Integrity of copyright management information"
 usc_title: 17
 usc_section: "1202"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 1202"
-generated_at: "2026-03-30T02:54:15.356Z"
+generated_at: "2026-11-23T21:25:41.736Z"
+status: "active"
 ---
 
 # § 1202. Integrity of copyright management information
@@ -44,3 +45,23 @@ generated_at: "2026-03-30T02:54:15.356Z"
   - **(3)** As used in this subsection—
     - **(A)** the term “broadcast station” has the meaning given that term in section 3 of the Communications Act of 1934 ( 47 U.S.C. 153 ); and
     - **(B)** the term “cable system” has the meaning given that term in section 602 of the Communications Act of 1934 ( 47 U.S.C. 522 ).
+
+False Copyright Management Information
+
+Removal or Alteration of Copyright Management Information
+
+Definition
+
+Law Enforcement, Intelligence, and Other Government Activities
+
+Limitations on Liability.—
+
+Analog transmissions
+
+Digital transmissions.—
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 105–304, title I, § 103(a)](https://www.govinfo.gov/link/plaw/105/public/304), Oct. 28, 1998, [112 Stat. 2872](https://www.govinfo.gov/link/statute/112/2872); amended [Pub. L. 106–44, § 1(e)](https://www.govinfo.gov/link/plaw/106/public/44), Aug. 5, 1999, [113 Stat. 222](https://www.govinfo.gov/link/statute/113/222).)*

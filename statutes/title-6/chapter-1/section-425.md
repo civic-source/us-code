@@ -3,9 +3,10 @@ title: "Section 425 - Application of certain commercial items authorities to cer
 usc_title: 6
 usc_section: "425"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 425"
-generated_at: "2026-03-30T02:53:09.463Z"
+generated_at: "2026-11-23T21:25:25.790Z"
+status: "active"
 ---
 
 # § 425. Application of certain commercial items authorities to certain procurements
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:09.463Z"
   - **(1)** The $5,000,000 limitation provided in section 1901(a)(2) of title 41 , section 3205(a)(2) of title 10 , and section 3305(a)(2) of title 41 shall not apply to purchases of property or services to which any of the provisions of law referred to in subsection (a) are applied under the authority of this section.
   - **(2)** The Director of the Office of Management and Budget shall issue guidance and procedures for the use of simplified acquisition procedures for a purchase of property or services in excess of $5,000,000 under the authority of this section.
 - **(c)** Authority under a provision of law referred to in subsection (a)(2) that expires under section 4202(e) of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106 ; 10 U.S.C. 2304 note) shall, notwithstanding such section, continue to apply for use by the head of an executive agency as provided in subsections (a) and (b).
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 855](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2236](https://www.govinfo.gov/link/statute/116/2236); [Pub. L. 117–81, div. A, title XVII, § 1702(c)(3)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2155](https://www.govinfo.gov/link/statute/135/2155).)*

@@ -3,9 +3,10 @@ title: "Section 1592a - Special provisions regarding certain violations"
 usc_title: 19
 usc_section: "1592a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1592a"
-generated_at: "2026-03-30T02:54:24.646Z"
+generated_at: "2026-11-23T21:25:42.730Z"
+status: "active"
 ---
 
 # § 1592a. Special provisions regarding certain violations
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:24.646Z"
     - **(A)** The Secretary of the Treasury shall require any importer of record entering, introducing, or attempting to introduce into the commerce of the United States textile or apparel products indicated, on the documentation, packaging, or labelling accompanying such products, to be from any country on the list published under paragraph (1) to show, to the satisfaction of the Secretary, that such importer, consignee, or purchaser has exercised reasonable care to ascertain the true country of origin of the textile or apparel products.
     - **(B)** If the Customs Service determines that merchandise is not from the country claimed on the documentation accompanying the merchandise, the failure to exercise reasonable care described in subparagraph (A) shall be considered when the Customs Service determines whether the importer of record is in violation of section 1484(a) of this title .
   - **(3)** For purposes of this subsection, the term “country” means a foreign country or territory, including any overseas dependent territory or possession of a foreign country.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 592A, as added [Pub. L. 103–465, title III, § 333](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4947](https://www.govinfo.gov/link/statute/108/4947); amended [Pub. L. 104–295, § 20(c)(3)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3528](https://www.govinfo.gov/link/statute/110/3528).)*

@@ -3,9 +3,10 @@ title: "Section 414 - Rights and protections under the Employee Polygraph Protec
 usc_title: 3
 usc_section: "414"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "3 U.S.C. § 414"
-generated_at: "2026-03-30T02:52:49.879Z"
+generated_at: "2026-11-23T21:25:20.110Z"
+status: "active"
 ---
 
 # § 414. Rights and protections under the Employee Polygraph Protection Act of 1988
@@ -18,3 +19,19 @@ generated_at: "2026-03-30T02:52:49.879Z"
 - **(d)** Subsections (a) and (b) shall take effect on the earlier of—
   - **(1)** the effective date of regulations issued under subsection (c); or
   - **(2)** October 1, 1998 .
+
+Polygraph Practices Prohibited
+
+Remedy
+
+Regulations To Implement Section.—
+
+In general
+
+Agency regulations
+
+Effective Date
+
+## Source Credit
+
+*(Added [Pub. L. 104–331, § 2(a)](https://www.govinfo.gov/link/plaw/104/public/331), Oct. 26, 1996, [110 Stat. 4058](https://www.govinfo.gov/link/statute/110/4058).)*

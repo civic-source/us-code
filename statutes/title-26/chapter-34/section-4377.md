@@ -3,9 +3,10 @@ title: "Section 4377 - Definitions and special rules"
 usc_title: 26
 usc_section: "4377"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4377"
-generated_at: "2026-03-30T02:55:27.802Z"
+generated_at: "2026-11-23T21:26:06.621Z"
+status: "active"
 ---
 
 # § 4377. Definitions and special rules
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:27.802Z"
     - **(D)** any program established by Federal law for providing medical care (other than through insurance policies) to members of Indian tribes (as defined in section 4(d) of the Indian Health Care Improvement Act).
 - **(c)** For purposes of subtitle F, the fees imposed by this subchapter shall be treated as if they were taxes.
 - **(d)** Notwithstanding any other provision of law, no amount collected under this subchapter shall be covered over to any possession of the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 111–148, title VI, § 6301(e)(2)(A)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 746](https://www.govinfo.gov/link/statute/124/746).)*

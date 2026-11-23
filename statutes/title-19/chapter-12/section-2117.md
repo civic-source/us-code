@@ -3,9 +3,10 @@ title: "Section 2117 - International safeguard procedures"
 usc_title: 19
 usc_section: "2117"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2117"
-generated_at: "2026-03-30T02:54:24.664Z"
+generated_at: "2026-11-23T21:25:42.772Z"
+status: "active"
 ---
 
 # § 2117. International safeguard procedures
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:24.664Z"
   - **(5)** international mediation.
     - **(A)** exclude, under specified conditions, the parties thereto from compensation obligations and retaliation, and
     - **(B)** permit domestic public procedures through which interested parties have the right to participate.
+
+## Source Credit
+
+*([Pub. L. 93–618, title I, § 107](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 1985](https://www.govinfo.gov/link/statute/88/1985).)*

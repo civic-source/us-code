@@ -3,9 +3,10 @@ title: "Section 7139 - Office of Science; establishment; appointment of Director
 usc_title: 42
 usc_section: "7139"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7139"
-generated_at: "2026-03-30T02:56:11.283Z"
+generated_at: "2026-11-23T21:26:33.047Z"
+status: "active"
 ---
 
 # § 7139. Office of Science; establishment; appointment of Director; compensation; duties
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:11.283Z"
   - **(2)** The Director—
     - **(A)** shall ensure the coordination of programs and activities carried out by the Office of Science; and
     - **(B)** shall direct all programs which have not recently completed a future planning roadmap consistent with the funding of such programs authorized under the Research and Development, Competition, and Innovation Act to complete such a roadmap.
+
+## Source Credit
+
+*([Pub. L. 95–91, title II, § 209](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 577](https://www.govinfo.gov/link/statute/91/577); [Pub. L. 105–245, title III, § 309(a)](https://www.govinfo.gov/link/plaw/105/public/245), Oct. 7, 1998, [112 Stat. 1853](https://www.govinfo.gov/link/statute/112/1853); [Pub. L. 109–58, title X, § 1006(c)(4)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 932](https://www.govinfo.gov/link/statute/119/932); [Pub. L. 115–246, title III, § 302](https://www.govinfo.gov/link/plaw/115/public/246), Sept. 28, 2018, [132 Stat. 3140](https://www.govinfo.gov/link/statute/132/3140); [Pub. L. 117–167, div. B, title I, § 10101](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1408](https://www.govinfo.gov/link/statute/136/1408).)*

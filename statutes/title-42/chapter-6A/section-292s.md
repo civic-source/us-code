@@ -3,9 +3,10 @@ title: "Section 292s - Medical schools and primary health care"
 usc_title: 42
 usc_section: "292s"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 292s"
-generated_at: "2026-03-30T02:56:10.774Z"
+generated_at: "2026-11-23T21:26:30.622Z"
+status: "active"
 ---
 
 # § 292s. Medical schools and primary health care
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:56:10.774Z"
   - **(4)** The term “income”, with respect to a student fund under section 292q of this title , means payments of principal and interest on any loan made from the fund, and any other earnings of the fund.
   - **(5)** The term “primary health care” means family medicine, general internal medicine, general pediatrics, preventive medicine, or osteopathic general practice.
 - **(d)** It is the sense of Congress that funds repaid under the loan program under this section should not be transferred to the Treasury of the United States or otherwise used for any other purpose other than to carry out this section.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 723, as added [Pub. L. 102–408, title I, § 102](https://www.govinfo.gov/link/plaw/102/public/408), Oct. 13, 1992, [106 Stat. 2015](https://www.govinfo.gov/link/statute/106/2015); amended [Pub. L. 103–43, title XX, § 2014(c)](https://www.govinfo.gov/link/plaw/103/public/43), June 10, 1993, [107 Stat. 216](https://www.govinfo.gov/link/statute/107/216); [Pub. L. 105–392, title I, § 131](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3574](https://www.govinfo.gov/link/statute/112/3574); [Pub. L. 111–148, title V, § 5201(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 606](https://www.govinfo.gov/link/statute/124/606).)*

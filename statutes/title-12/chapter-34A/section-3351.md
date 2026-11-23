@@ -3,9 +3,10 @@ title: "Section 3351 - Miscellaneous provisions"
 usc_title: 12
 usc_section: "3351"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3351"
-generated_at: "2026-03-30T02:53:53.493Z"
+generated_at: "2026-11-23T21:25:37.134Z"
+status: "active"
 ---
 
 # § 3351. Miscellaneous provisions
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:53:53.493Z"
 - **(g)** The Appraisal Subcommittee shall monitor each State appraiser certifying and licensing agency for the purpose of determining whether such agency’s policies, practices, and procedures are consistent with the purposes of maintaining appraiser independence and whether such State has adopted and maintains effective laws, regulations, and policies aimed at maintaining appraiser independence.
 - **(h)** The Appraisal Subcommittee shall encourage the States to accept courses approved by the Appraiser Qualification Board’s Course Approval Program.
 - **(i)** If, 6 months after July 21, 2010 , the Appraisal Subcommittee determines that no national hotline exists to receive complaints of non-compliance with appraisal independence standards and Uniform Standards of Professional Appraisal Practice, including complaints from appraisers, individuals, or other entities concerning the improper influencing or attempted improper influencing of appraisers or the appraisal process, the Appraisal Subcommittee shall establish and operate such a national hotline, which shall include a toll-free telephone number and an email address. If the Appraisal Subcommittee operates such a national hotline, the Appraisal Subcommittee shall refer complaints for further action to appropriate governmental bodies, including a State appraiser certifying and licensing agency, a financial institution regulator, or other appropriate legal authorities. For complaints referred to State appraiser certifying and licensing agencies or to Federal regulators, the Appraisal Subcommittee shall have the authority to follow up such complaint referrals in order to determine the status of the resolution of the complaint.
+
+## Source Credit
+
+*([Pub. L. 101–73, title XI, § 1122](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 518](https://www.govinfo.gov/link/statute/103/518); [Pub. L. 103–325, title III, § 315](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2222](https://www.govinfo.gov/link/statute/108/2222); [Pub. L. 111–203, title XIV, § 1473](https://www.govinfo.gov/link/plaw/111/public/203) (l)–(p), (t)(4), July 21, 2010, [124 Stat. 2196](https://www.govinfo.gov/link/statute/124/2196), 2197, 2199.)*

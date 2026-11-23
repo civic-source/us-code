@@ -3,12 +3,38 @@ title: "Section 411 - Special provisions concerning the Federal Deposit Insuranc
 usc_title: 5
 usc_section: "411"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 411"
-generated_at: "2026-03-30T02:52:55.981Z"
+generated_at: "2026-11-23T21:25:23.036Z"
+status: "active"
 ---
 
 # § 411. Special provisions concerning the Federal Deposit Insurance Corporation
 
 - **(a)** The Chairperson of the Federal Deposit Insurance Corporation may delegate the authority specified in the 2d sentence of section 403(a) of this title to the Vice Chairperson of the Board of Directors of the Federal Deposit Insurance Corporation, but may not delegate such authority to any other officer or employee of the Corporation.
 - **(b)** Notwithstanding paragraphs (7) and (8) of section 406(a) of this title , the Inspector General of the Federal Deposit Insurance Corporation may select, appoint, and employ such officers and employees as may be necessary for carrying out the functions, powers, and duties of the Office of Inspector General and may obtain the temporary or intermittent services of experts or consultants or an organization of experts or consultants, subject to the applicable laws and regulations that govern such selections, appointments, and employment, and the obtaining of such services, within the Federal Deposit Insurance Corporation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 411 | 5 U.S.C. App. (IGA § 8C) | Pub. L. 95–452, § 8C , as added Pub. L. 103–204, § 23(a)(2) , Dec. 17, 1993 , 107 Stat. 2407 . |
+
+
+Delegation
+
+Personnel
+
+Historical and Revision Notes
+
+411
+
+Pub. L. 95–452, § 8C
+
+Pub. L. 103–204, § 23(a)(2)
+
+Dec. 17, 1993
+
+107 Stat. 2407
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(b)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4228](https://www.govinfo.gov/link/statute/136/4228).)*

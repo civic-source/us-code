@@ -3,9 +3,10 @@ title: "Section 16c - Coverage of previously exempt State employees"
 usc_title: 42
 usc_section: "16c"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16c"
-generated_at: "2026-03-30T02:56:11.140Z"
+generated_at: "2026-11-23T21:26:32.293Z"
+status: "active"
 ---
 
 # § 2000e–16c. Coverage of previously exempt State employees
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.140Z"
   - **(2)** not made consistent with required procedures; or
   - **(3)** unsupported by substantial evidence.
 - **(e)** If the individual referred to in subsection (a) is the prevailing party in a proceeding under this subsection, 1 1 So in original. attorney’s fees may be allowed by the court in accordance with the standards prescribed under section 2000e–5(k) of this title .
+
+## Source Credit
+
+*([Pub. L. 102–166, title III, § 304](https://www.govinfo.gov/link/plaw/102/public/166), formerly § 321, Nov. 21, 1991, [105 Stat. 1097](https://www.govinfo.gov/link/statute/105/1097); renumbered § 304 and amended [Pub. L. 104–1, title V, § 504(a)(3)](https://www.govinfo.gov/link/plaw/104/public/1), (4), Jan. 23, 1995, [109 Stat. 41](https://www.govinfo.gov/link/statute/109/41).)*

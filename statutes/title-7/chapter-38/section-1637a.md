@@ -3,9 +3,10 @@ title: "Section 1637a - Definitions"
 usc_title: 7
 usc_section: "1637a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1637a"
-generated_at: "2026-03-30T02:53:42.333Z"
+generated_at: "2026-11-23T21:25:28.143Z"
+status: "active"
 ---
 
 # § 1637a. Definitions
@@ -17,3 +18,7 @@ In this subchapter:
     - **(B)** substantially identical products designated by the Secretary.
   - **(2)** The term “manufacturer” means any person engaged in the business of buying milk in commerce for the purpose of manufacturing dairy products.
   - **(3)** The term “Secretary” means the Secretary of Agriculture.
+
+## Source Credit
+
+*(Aug. 14, 1946, ch. 966, title II, § 272, as added [Pub. L. 106–532, § 2](https://www.govinfo.gov/link/plaw/106/public/532), Nov. 22, 2000, [114 Stat. 2541](https://www.govinfo.gov/link/statute/114/2541); amended [Pub. L. 107–171, title I, § 1504](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 207](https://www.govinfo.gov/link/statute/116/207).)*

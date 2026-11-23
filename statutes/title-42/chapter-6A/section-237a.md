@@ -3,9 +3,10 @@ title: "Section 237a - Health and Human Services Office on Women’s Health"
 usc_title: 42
 usc_section: "237a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 237a"
-generated_at: "2026-03-30T02:56:10.688Z"
+generated_at: "2026-11-23T21:26:30.233Z"
+status: "active"
 ---
 
 # § 237a. Health and Human Services Office on Women’s Health
@@ -28,3 +29,41 @@ generated_at: "2026-03-30T02:56:10.688Z"
   - **(2)** The Secretary shall directly or through contracts with public and private entities, agencies, and organizations, provide for evaluations of projects carried out with financial assistance provided under paragraph (1) and for the dissemination of information developed as a result of such projects.
 - **(d)** Not later than 1 year after March 23, 2010 , and every second year thereafter, the Secretary shall prepare and submit to the appropriate committees of Congress a report describing the activities carried out under this section during the period for which the report is being prepared.
 - **(e)** For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2010 through 2014.
+
+Information
+
+Awareness
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title II, § 229, as added [Pub. L. 111–148, title III, § 3509(a)(1)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 531](https://www.govinfo.gov/link/statute/124/531).)*

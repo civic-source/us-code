@@ -3,9 +3,10 @@ title: "Section 901 - Establishment of agency Chief Financial Officers"
 usc_title: 31
 usc_section: "901"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 901"
-generated_at: "2026-03-30T02:55:34.048Z"
+generated_at: "2026-11-23T21:26:10.535Z"
+status: "active"
 ---
 
 # § 901. Establishment of agency Chief Financial Officers
@@ -51,3 +52,31 @@ generated_at: "2026-03-30T02:55:34.048Z"
   - **(2)** The Chief Financial Officer designated or appointed under this subsection shall, to the extent that the President determines appropriate and in the interest of the United States, have the same authority and perform the same functions as apply in the case of a Chief Financial Officer of an agency described in subsection (b).
   - **(3)** The President shall submit to Congress notification with respect to any provision of section 902 that the President determines shall not apply to a Chief Financial Officer designated or appointed under this subsection.
   - **(4)** The President may designate an employee of the Executive Office of the President (other than the Chief Financial Officer), who shall be deemed “the head of the agency” for purposes of carrying out section 902, with respect to the Executive Office of the President.
+
+Appointment or Designation of
+
+Continued Service of Current Official
+
+Plan for Implementation
+
+Deadline for Appointment
+
+Pay
+
+Transfer of Functions
+
+Agency Reviews of Financial Management Activities
+
+Reorganization Proposal
+
+Review and Approval of Proposal
+
+Implementation of Proposal
+
+Establishment
+
+Functions
+
+## Source Credit
+
+*(Added [Pub. L. 101–576, title II, § 205(a)](https://www.govinfo.gov/link/plaw/101/public/576), Nov. 15, 1990, [104 Stat. 2842](https://www.govinfo.gov/link/statute/104/2842); amended [Pub. L. 103–296, title I, § 108(j)(1)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1488](https://www.govinfo.gov/link/statute/108/1488); [Pub. L. 106–58, title VI, § 638(a)](https://www.govinfo.gov/link/plaw/106/public/58), Sept. 29, 1999, [113 Stat. 475](https://www.govinfo.gov/link/statute/113/475); [Pub. L. 108–330, § 3(a)](https://www.govinfo.gov/link/plaw/108/public/330), (d)(2), Oct. 16, 2004, [118 Stat. 1276](https://www.govinfo.gov/link/statute/118/1276), 1277.)*

@@ -3,9 +3,10 @@ title: "Section 503 - Functions of Deputy Director for Management"
 usc_title: 31
 usc_section: "503"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 503"
-generated_at: "2026-03-30T02:55:34.046Z"
+generated_at: "2026-11-23T21:26:10.524Z"
+status: "active"
 ---
 
 # § 503. Functions of Deputy Director for Management
@@ -59,3 +60,17 @@ generated_at: "2026-03-30T02:55:34.046Z"
   - **(2)** Paragraph (1) shall not apply to the Department of Defense to the extent that the provisions of that paragraph are substantially similar to or duplicative of—
     - **(A)** the provisions of chapter 87 of title 10; or
     - **(B)** policy, guidance, or instruction of the Department related to program management.
+
+Program and Project Management.—
+
+Requirement
+
+Application to department of defense
+
+Deadline for standards, policies, and guidelines
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 101–576, title II, § 202(b)](https://www.govinfo.gov/link/plaw/101/public/576), Nov. 15, 1990, [104 Stat. 2839](https://www.govinfo.gov/link/statute/104/2839); amended [Pub. L. 103–272, § 4(f)(1)(B)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1361](https://www.govinfo.gov/link/statute/108/1361); [Pub. L. 106–58, title VI, § 638(g)](https://www.govinfo.gov/link/plaw/106/public/58), Sept. 29, 1999, [113 Stat. 476](https://www.govinfo.gov/link/statute/113/476); [Pub. L. 107–347, title I, § 102(b)](https://www.govinfo.gov/link/plaw/107/public/347), Dec. 17, 2002, [116 Stat. 2910](https://www.govinfo.gov/link/statute/116/2910); [Pub. L. 114–264, § 2(a)(1)](https://www.govinfo.gov/link/plaw/114/public/264), Dec. 14, 2016, [130 Stat. 1371](https://www.govinfo.gov/link/statute/130/1371); [Pub. L. 114–328, div. A, title VIII, § 861(a)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2298](https://www.govinfo.gov/link/statute/130/2298); [Pub. L. 115–91, div. A, title VIII, § 810(a)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1458](https://www.govinfo.gov/link/statute/131/1458).)*

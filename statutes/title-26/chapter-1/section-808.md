@@ -3,9 +3,10 @@ title: "Section 808 - Policyholder dividends deduction"
 usc_title: 26
 usc_section: "808"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 808"
-generated_at: "2026-03-30T02:55:27.729Z"
+generated_at: "2026-11-23T21:26:06.383Z"
+status: "active"
 ---
 
 # § 808. Policyholder dividends deduction
@@ -27,7 +28,7 @@ generated_at: "2026-03-30T02:55:27.729Z"
   - **(1)** increases the cash surrender value of the contract or other benefits payable under the contract, or
   - **(2)** reduces the premium otherwise required to be paid,
 - **(f)**
-  - **(1)** The amount determined under paragraph (1) of subsection (c) for the year of change shall (before any reduction under paragraph (2) of subsection (c)) be reduced by so much of the accelerated policyholder dividends deduction for such year as does not exceed the 1984 fresh-start adjustment for policyholder dividends (to the extent such adjustment was not previously taken into account under this subsection).
+  - **(1)** The amount determined under paragraph (1) of subsection (c) 1 1 See References in Text note below. for the year of change shall (before any reduction under paragraph (2) of subsection (c)) 1 be reduced by so much of the accelerated policyholder dividends deduction for such year as does not exceed the 1984 fresh-start adjustment for policyholder dividends (to the extent such adjustment was not previously taken into account under this subsection).
   - **(2)** For purposes of this subsection, the term “year of change” means the taxable year in which the change in business practices which results in the accelerated policyholder dividends deduction takes effect.
   - **(3)** For purposes of this subsection, the term “accelerated policyholder dividends deduction” means the amount which (but for this subsection) would be determined for the taxable year under paragraph (1) of subsection (c) but which would have been determined (under such paragraph) for a later taxable year under the business practices of the taxpayer as in effect at the close of the preceding taxable year.
   - **(4)** For purposes of this subsection, the term “1984 fresh-start adjustment for policyholder dividends” means the amounts held as of December 31, 1983 , by the taxpayer as reserves for dividends to policyholders under section 811(b) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1984) other than for dividends which accrued before January 1, 1984 . Such amounts shall be properly reduced to reflect the amount of previously nondeductible policyholder dividends (as determined under section 809(f) as in effect on the day before the date of the enactment of the Tax Reform Act of 1984).
@@ -40,3 +41,11 @@ generated_at: "2026-03-30T02:55:27.729Z"
 - **(g)** For purposes of this subchapter—
   - **(1)** The term “prevailing State assumed interest rate” means, with respect to any contract, the highest assumed interest rate permitted to be used in computing life insurance reserves for insurance contracts or annuity contracts (as the case may be) under the insurance laws of at least 26 States. For purposes of the preceding sentence, the effect of nonforfeiture laws of a State on interest rates for reserves shall not be taken into account.
   - **(2)** The prevailing State assumed interest rate with respect to any contract shall be determined as of the beginning of the calendar year in which the contract was issued.
+
+In general
+
+Reduction in case of mutual companies
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title II, § 211(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 732](https://www.govinfo.gov/link/statute/98/732); amended [Pub. L. 99–514, title XVIII, § 1821(b)](https://www.govinfo.gov/link/plaw/99/public/514), (c), Oct. 22, 1986, [100 Stat. 2838](https://www.govinfo.gov/link/statute/100/2838); [Pub. L. 108–218, title II, § 205(b)(3)](https://www.govinfo.gov/link/plaw/108/public/218), Apr. 10, 2004, [118 Stat. 610](https://www.govinfo.gov/link/statute/118/610); [Pub. L. 115–97, title I, § 13517(b)(1)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2147](https://www.govinfo.gov/link/statute/131/2147).)*

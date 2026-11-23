@@ -3,9 +3,10 @@ title: "Section 7503 - Permit requirements"
 usc_title: 42
 usc_section: "7503"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7503"
-generated_at: "2026-03-30T02:56:11.305Z"
+generated_at: "2026-11-23T21:26:33.103Z"
+status: "active"
 ---
 
 # § 7503. Permit requirements
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.305Z"
   - **(2)** The source demonstrates to the satisfaction of the permitting authority of the State that it has used all reasonable means to obtain and utilize offsets, as determined on an annual basis, for the emissions increases beyond allowable levels, that all available offsets are being used, and that sufficient offsets are not available to the source.
   - **(3)** The source has obtained a written finding from the Department of Defense, Department of Transportation, National Aeronautics and Space Administration or other appropriate Federal agency, that the testing of rocket motors or engines at the facility is required for a program essential to the national security.
   - **(4)** The source will comply with an alternative measure, imposed by the permitting authority, designed to offset any emission increases beyond permitted levels not directly offset by the source. In lieu of imposing any alternative offset measures, the permitting authority may impose an emissions fee to be paid to such authority of a State which shall be an amount no greater than 1.5 times the average cost of stationary source control measures adopted in that area during the previous 3 years. The permitting authority shall utilize the fees in a manner that maximizes the emissions reductions in that area.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 173, as added [Pub. L. 95–95, title I, § 129(b)](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 748](https://www.govinfo.gov/link/statute/91/748); amended [Pub. L. 95–190, § 14(a)(57)](https://www.govinfo.gov/link/plaw/95/public/190), (58), Nov. 16, 1977, [91 Stat. 1403](https://www.govinfo.gov/link/statute/91/1403); [Pub. L. 101–549, title I, § 102(c)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2415](https://www.govinfo.gov/link/statute/104/2415).)*

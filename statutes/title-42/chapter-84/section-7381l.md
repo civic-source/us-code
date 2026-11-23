@@ -3,9 +3,10 @@ title: "Section 7381l - National Laboratories Centers of Excellence in Science, 
 usc_title: 42
 usc_section: "7381l"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7381l"
-generated_at: "2026-03-30T02:56:11.290Z"
+generated_at: "2026-11-23T21:26:33.065Z"
+status: "active"
 ---
 
 # § 7381l. National Laboratories Centers of Excellence in Science, Technology, Engineering, and Mathematics education
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:11.290Z"
   - **(1)** develop an evaluation and accountability plan for the activities funded under this section that objectively measures the impact of the activities; and
   - **(2)** disseminate information obtained from those measurements.
 - **(j)** Nothing in this section displaces or otherwise affects any similar program being carried out as of August 9, 2007 , at any National Laboratory under any other provision of law.
+
+## Source Credit
+
+*([Pub. L. 101–510, div. C, title XXXI, § 3181](https://www.govinfo.gov/link/plaw/101/public/510), as added [Pub. L. 110–69, title V, § 5003(d)(3)](https://www.govinfo.gov/link/plaw/110/public/69), Aug. 9, 2007, [121 Stat. 607](https://www.govinfo.gov/link/statute/121/607); amended [Pub. L. 114–95, title IX, § 9215(w)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2171](https://www.govinfo.gov/link/statute/129/2171).)*

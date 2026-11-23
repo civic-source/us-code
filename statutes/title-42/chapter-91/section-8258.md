@@ -3,9 +3,10 @@ title: "Section 8258 - Reports"
 usc_title: 42
 usc_section: "8258"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8258"
-generated_at: "2026-03-30T02:56:11.338Z"
+generated_at: "2026-11-23T21:26:33.190Z"
+status: "active"
 ---
 
 # § 8258. Reports
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.338Z"
 - **(c)** The Secretary, in consultation with the Administrator of General Services, shall—
   - **(1)** conduct a study and evaluate legal, institutional, and other constraints to connecting buildings owned or leased by the Federal Government to district heating and district cooling systems; and
   - **(2)** not later than 18 months after October 24, 1992 , transmit to the Congress a report containing the findings and conclusions of such study, including recommendations for the development of streamlined processes for the consideration of connecting buildings owned or leased by the Federal Government to district heating and cooling systems.
+
+## Source Credit
+
+*([Pub. L. 95–619, title V, § 548](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3279](https://www.govinfo.gov/link/statute/92/3279); [Pub. L. 100–615, § 2(a)](https://www.govinfo.gov/link/plaw/100/public/615), Nov. 5, 1988, [102 Stat. 3187](https://www.govinfo.gov/link/statute/102/3187); [Pub. L. 102–486, title I, § 152(g)](https://www.govinfo.gov/link/plaw/102/public/486), (i)(1), Oct. 24, 1992, [106 Stat. 2848](https://www.govinfo.gov/link/statute/106/2848), 2851; [Pub. L. 104–66, title I, § 1052(d)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 718](https://www.govinfo.gov/link/statute/109/718); [Pub. L. 109–58, title I, § 102(g)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 608](https://www.govinfo.gov/link/statute/119/608); [Pub. L. 110–140, title V, § 511(b)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1658](https://www.govinfo.gov/link/statute/121/1658); [Pub. L. 116–260, div. Z, title I, § 1002(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2422](https://www.govinfo.gov/link/statute/134/2422).)*

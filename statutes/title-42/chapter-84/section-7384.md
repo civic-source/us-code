@@ -3,9 +3,10 @@ title: "Section 7384 - Findings; sense of Congress"
 usc_title: 42
 usc_section: "7384"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7384"
-generated_at: "2026-03-30T02:56:11.291Z"
+generated_at: "2026-11-23T21:26:33.068Z"
+status: "active"
 ---
 
 # § 7384. Findings; sense of Congress
@@ -30,3 +31,27 @@ generated_at: "2026-03-30T02:56:11.291Z"
     - **(C)** the submittal by the President of a legislative proposal for compensation of such employees that includes the estimated annual budget resources for that compensation; and
     - **(D)** consideration by the Congress of the legislative proposal submitted by the President; and
   - **(4)** payments from that fund should commence not later than fiscal year 2002.
+
+Update of Report
+
+Elements
+
+Publication
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 106–398, § 1 [div. C, title XXXVI, § 3602]](https://www.govinfo.gov/link/plaw/106/public/398), Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–495.)*

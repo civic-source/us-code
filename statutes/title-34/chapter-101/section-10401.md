@@ -3,9 +3,10 @@ title: "Section 10401 - Program authorized"
 usc_title: 34
 usc_section: "10401"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10401"
-generated_at: "2026-03-30T02:55:33.267Z"
+generated_at: "2026-11-23T21:26:09.654Z"
+status: "active"
 ---
 
 # § 10401. Program authorized
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:33.267Z"
   - **(16)** hiring detention and corrections personnel, and establishing and maintaining training programs for such personnel to improve facility practices and programming; or
   - **(17)** establishing, improving, and coordinating pre-release and post-release systems and programs to facilitate the successful reentry of juvenile offenders from State or local custody in the community.
 - **(c)** In this section the term “restorative justice program” means a program that emphasizes the moral accountability of an offender toward the victim and the affected community and may include community reparations boards, restitution (in the form of monetary payment or service to the victim or, where no victim can be identified, service to the affected community), and mediation between victim and offender.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 1801](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 107–273, div. C, title II, § 12102(a)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1859](https://www.govinfo.gov/link/statute/116/1859); amended [Pub. L. 109–162, title XI](https://www.govinfo.gov/link/plaw/109/public/162), §§ 1165, 1186, Jan. 5, 2006, [119 Stat. 3121](https://www.govinfo.gov/link/statute/119/3121), 3127.)*

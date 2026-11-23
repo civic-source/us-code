@@ -3,9 +3,10 @@ title: "Section 2292 - Imparting or conveying false information"
 usc_title: 18
 usc_section: "2292"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2292"
-generated_at: "2026-03-30T02:54:16.501Z"
+generated_at: "2026-11-23T21:25:44.135Z"
+status: "active"
 ---
 
 # § 2292. Imparting or conveying false information
@@ -15,3 +16,17 @@ generated_at: "2026-03-30T02:54:16.501Z"
 - **(c)**
   - **(1)** Except as provided under paragraph (2), section 2290(a) shall not apply to any offense under this section.
   - **(2)** Jurisdiction over an offense under this section shall be determined in accordance with the provisions applicable to the crime prohibited by this chapter, or by chapter 111 of this title, to which the imparted or conveyed false information relates, as applicable.
+
+In General
+
+Malicious Conduct
+
+Jurisdiction.—
+
+In general
+
+Jurisdiction
+
+## Source Credit
+
+*(Added [Pub. L. 109–177, title III, § 306(a)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 239](https://www.govinfo.gov/link/statute/120/239).)*

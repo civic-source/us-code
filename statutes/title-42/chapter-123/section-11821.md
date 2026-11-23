@@ -3,9 +3,10 @@ title: "Section 11821 - Establishment of program"
 usc_title: 42
 usc_section: "11821"
 chapter: 123
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11821"
-generated_at: "2026-03-30T02:56:11.405Z"
+generated_at: "2026-11-23T21:26:33.441Z"
+status: "active"
 ---
 
 # § 11821. Establishment of program
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.405Z"
   - **(7)** to improve the availability and coordination of local services related to drug abuse, for runaway and homeless youth.
 - **(b)** In selecting among applicants for grants under subsection (a), the Secretary shall give priority to agencies and organizations that have experience in providing services to runaway and homeless youth.
 - **(c)** Grants under this section may be made for a period not to exceed 3 years.
+
+## Source Credit
+
+*([Pub. L. 100–690, title III, § 3511](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4255](https://www.govinfo.gov/link/statute/102/4255).)*

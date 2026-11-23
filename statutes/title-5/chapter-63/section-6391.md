@@ -3,9 +3,10 @@ title: "Section 6391 - Authority for leave transfer program in disasters and eme
 usc_title: 5
 usc_section: "6391"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 6391"
-generated_at: "2026-03-30T02:52:56.033Z"
+generated_at: "2026-11-23T21:25:23.331Z"
+status: "active"
 ---
 
 # § 6391. Authority for leave transfer program in disasters and emergencies
@@ -19,3 +20,13 @@ generated_at: "2026-03-30T02:52:56.033Z"
 - **(e)** Except to the extent that the Office may prescribe by regulation, nothing in section 7351 shall apply to any solicitation, donation, or acceptance of leave under this section.
 - **(f)** After consultation with the Administrative Office of the United States Courts, the Office of Personnel Management shall provide for the participation of employees in the judicial branch in any emergency leave transfer program under this section.
 - **(g)** The Office shall prescribe regulations necessary for the administration of this section.
+
+Section
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*(Added [Pub. L. 105–18, title II, § 9004(a)](https://www.govinfo.gov/link/plaw/105/public/18), June 12, 1997, [111 Stat. 196](https://www.govinfo.gov/link/statute/111/196); amended [Pub. L. 109–229, § 1](https://www.govinfo.gov/link/plaw/109/public/229), May 31, 2006, [120 Stat. 390](https://www.govinfo.gov/link/statute/120/390).)*

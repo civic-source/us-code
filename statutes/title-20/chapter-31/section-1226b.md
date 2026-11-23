@@ -3,9 +3,10 @@ title: "Section 1226b - Responsibility of States to furnish information"
 usc_title: 20
 usc_section: "1226b"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1226b"
-generated_at: "2026-03-30T02:54:48.156Z"
+generated_at: "2026-11-23T21:25:47.295Z"
+status: "active"
 ---
 
 # § 1226b. Responsibility of States to furnish information
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:48.156Z"
   - **(3)** information obtained by the Secretary with respect to—
     - **(A)** direct grants made to local educational agencies by the Federal Government; and
     - **(B)** contracts entered into between such agencies and the Federal Government.
+
+## Source Credit
+
+*([Pub. L. 90–247, title IV, § 424](https://www.govinfo.gov/link/plaw/90/public/247), as added [Pub. L. 103–382, title II, § 234](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 3915](https://www.govinfo.gov/link/statute/108/3915).)*

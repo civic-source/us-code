@@ -3,9 +3,10 @@ title: "Section 2641b - Space-available travel on Department of Defense aircraft
 usc_title: 10
 usc_section: "2641b"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2641b"
-generated_at: "2026-03-30T02:53:38.167Z"
+generated_at: "2026-11-23T21:25:32.639Z"
+status: "active"
 ---
 
 # § 2641b. Space-available travel on Department of Defense aircraft: program authorized and eligible recipients
@@ -48,3 +49,31 @@ generated_at: "2026-03-30T02:53:38.167Z"
   - **(2)** The authority in subsection (c)(4) may not be construed as affecting or in any way imposing on the Department of Defense, any armed force, or any commercial company with which they contract an obligation or expectation that they will retrofit or alter, in any way, military aircraft or commercial aircraft, or related equipment or facilities, used or leased by the Department or such armed force to accommodate passengers provided travel under such authority on account of disability.
   - **(3)** The authority in subsection (c)(4) may not be construed as preempting the authority of a flight commander to determine who boards the aircraft and any other matters in connection with safe operation of the aircraft.
 - **(g)** The authority to provide transportation under the travel program is in addition to any other authority under law to provide transportation on Department of Defense aircraft on a space-available basis.
+
+Authority to Establish Program
+
+Conditions on Establishment and Operation
+
+Eligible Individuals
+
+Priorities and Restrictions
+
+Special Priority for Retired Members Residing in Commonwealths and Possessions of the United States Who Need Certain Health Care Services
+
+Veterans With Service-connected Disabilities Rated as Total
+
+Construction
+
+Study Required
+
+Report Required
+
+Elements
+
+Additional Responsibilities
+
+Disability Rated as Total Defined
+
+## Source Credit
+
+*(Added [Pub. L. 110–181, div. A, title III, § 374(a)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 82](https://www.govinfo.gov/link/statute/122/82); amended [Pub. L. 112–239, div. A, title VI, § 622(a)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1779](https://www.govinfo.gov/link/statute/126/1779); [Pub. L. 115–232, div. A, title VI, § 624](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1801](https://www.govinfo.gov/link/statute/132/1801); [Pub. L. 116–283, div. A, title X, § 1081(a)(43)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3873](https://www.govinfo.gov/link/statute/134/3873).)*

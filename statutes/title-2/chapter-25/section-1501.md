@@ -3,9 +3,10 @@ title: "Section 1501 - Purposes"
 usc_title: 2
 usc_section: "1501"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1501"
-generated_at: "2026-03-30T02:53:04.814Z"
+generated_at: "2026-11-23T21:25:21.232Z"
+status: "active"
 ---
 
 # § 1501. Purposes
@@ -24,3 +25,7 @@ The purposes of this chapter are—
     - **(A)** requiring that Federal agencies develop a process to enable the elected and other officials of State, local, and tribal governments to provide input when Federal agencies are developing regulations; and
     - **(B)** requiring that Federal agencies prepare and consider estimates of the budgetary impact of regulations containing Federal mandates upon State, local, and tribal governments and the private sector before adopting such regulations, and ensuring that small governments are given special consideration in that process; and
   - **(8)** to begin consideration of the effect of previously imposed Federal mandates, including the impact on State, local, and tribal governments of Federal court interpretations of Federal statutes and regulations that impose Federal intergovernmental mandates.
+
+## Source Credit
+
+*([Pub. L. 104–4, § 2](https://www.govinfo.gov/link/plaw/104/public/4), Mar. 22, 1995, [109 Stat. 48](https://www.govinfo.gov/link/statute/109/48).)*

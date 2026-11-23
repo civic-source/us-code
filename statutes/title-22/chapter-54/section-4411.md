@@ -3,9 +3,10 @@ title: "Section 4411 - Findings; statement of purposes"
 usc_title: 22
 usc_section: "4411"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4411"
-generated_at: "2026-03-30T02:55:05.411Z"
+generated_at: "2026-11-23T21:25:58.645Z"
+status: "active"
 ---
 
 # § 4411. Findings; statement of purposes
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.411Z"
   - **(4)** to strengthen democratic electoral processes abroad through timely measures in cooperation with indigenous democratic forces;
   - **(5)** to support the participation of the two major American political parties, labor, business, and other United States private sector groups in fostering cooperation with those abroad dedicated to the cultural values, institutions, and organizations of democratic pluralism; and
   - **(6)** to encourage the establishment and growth of democratic development in a manner consistent both with the broad concerns of United States national interests and with the specific requirements of the democratic groups in other countries which are aided by programs funded by the Endowment.
+
+## Source Credit
+
+*([Pub. L. 98–164, title V, § 502](https://www.govinfo.gov/link/plaw/98/public/164), Nov. 22, 1983, [97 Stat. 1039](https://www.govinfo.gov/link/statute/97/1039).)*

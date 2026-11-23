@@ -3,9 +3,10 @@ title: "Section 36 - Information technology professionals in health care"
 usc_title: 42
 usc_section: "36"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 36"
-generated_at: "2026-03-30T02:56:10.847Z"
+generated_at: "2026-11-23T21:26:30.953Z"
+status: "active"
 ---
 
 # § 300jj–36. Information technology professionals in health care
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:10.847Z"
 - **(c)** In providing assistance under subsection (a), the Secretary shall give preference to the following:
   - **(1)** Existing education and training programs.
   - **(2)** Programs designed to be completed in less than six months.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXX, § 3016, as added [Pub. L. 111–5, div. A, title XIII, § 13301](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 257](https://www.govinfo.gov/link/statute/123/257).)*

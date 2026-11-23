@@ -3,9 +3,10 @@ title: "Section 2278 - Notification of foreign interference of national security
 usc_title: 10
 usc_section: "2278"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2278"
-generated_at: "2026-03-30T02:53:38.152Z"
+generated_at: "2026-11-23T21:25:32.593Z"
+status: "active"
 ---
 
 # § 2278. Notification of foreign interference of national security space
@@ -26,3 +27,13 @@ generated_at: "2026-03-30T02:53:38.152Z"
     - **(A)** The congressional defense committees.
     - **(B)** With respect to a notice or notification relating to an attempt by a foreign actor to disrupt, degrade, or destroy a capability that is intelligence-related, the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
   - **(2)** The term “United States critical national security space capability” means a national security space capability of the United States provided by an asset on the critical asset list established by the Commander of the United States Space Command pursuant to Department of Defense Directive 3020.40, Department of Defense Instruction 3020.45, Joint Publication 3-01 of the Joint Chiefs of Staff, or such other relevant requirements of the Department of Defense.
+
+Notice Required
+
+Notification Description
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 113–66, div. A, title IX, § 911(a)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 823](https://www.govinfo.gov/link/statute/127/823); amended [Pub. L. 116–283, div. A, title XVI, § 1604(d)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4044](https://www.govinfo.gov/link/statute/134/4044); [Pub. L. 118–159, div. A, title XVI, § 1604](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2160](https://www.govinfo.gov/link/statute/138/2160).)*

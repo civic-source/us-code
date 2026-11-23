@@ -3,9 +3,10 @@ title: "Section 2163 - Reservation of territorial power to control territory and
 usc_title: 48
 usc_section: "2163"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 2163"
-generated_at: "2026-03-30T02:56:14.604Z"
+generated_at: "2026-11-23T21:26:38.141Z"
+status: "active"
 ---
 
 # § 2163. Reservation of territorial power to control territory and territorial instrumentalities
@@ -15,3 +16,7 @@ Subject to the limitations set forth in subchapters I and II of this chapter, th
   - **(1)** a territory law prescribing a method of composition of indebtedness or a moratorium law, but solely to the extent that it prohibits the payment of principal or interest by an entity not described in section 109(b)(2) of title 11 , may not bind any creditor of a covered territory or any covered territorial instrumentality thereof that does not consent to the composition or moratorium;
   - **(2)** a judgment entered under a law described in paragraph (1) may not bind a creditor that does not consent to the composition; and
   - **(3)** unlawful executive orders that alter, amend, or modify rights of holders of any debt of the territory or territorial instrumentality, or that divert funds from one territorial instrumentality to another or to the territory, shall be preempted by this chapter.
+
+## Source Credit
+
+*([Pub. L. 114–187, title III, § 303](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 579](https://www.govinfo.gov/link/statute/130/579).)*

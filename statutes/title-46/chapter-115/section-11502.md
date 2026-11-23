@@ -3,9 +3,10 @@ title: "Section 11502 - Entry of offenses in logbook"
 usc_title: 46
 usc_section: "11502"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 11502"
-generated_at: "2026-03-30T02:56:15.557Z"
+generated_at: "2026-11-23T21:26:37.126Z"
+status: "active"
 ---
 
 # § 11502. Entry of offenses in logbook
@@ -25,3 +26,16 @@ generated_at: "2026-03-30T02:56:15.557Z"
   - **(3)** signed by the master; and
   - **(4)** signed by the chief mate or another seaman.
 - **(d)** In a subsequent legal proceeding, if the entries required by this section are not produced or proved, the court may refuse to receive evidence of the offense.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 11502 | 46:702 |
+
+
+Historical and Revision Notes
+
+11502
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 583](https://www.govinfo.gov/link/statute/97/583).)*

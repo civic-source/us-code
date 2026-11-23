@@ -3,9 +3,10 @@ title: "Section 8120 - Quarterly report on super construction projects"
 usc_title: 38
 usc_section: "8120"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 8120"
-generated_at: "2026-03-30T02:55:53.537Z"
+generated_at: "2026-11-23T21:26:16.904Z"
+status: "active"
 ---
 
 # § 8120. Quarterly report on super construction projects
@@ -14,3 +15,11 @@ generated_at: "2026-03-30T02:55:53.537Z"
   - **(1)** the budgetary and scheduling status of the project, as of the last day of the quarter covered by the report; and
   - **(2)** the actual cost and schedule variances of the project, as of such day, compared to the planned cost and schedules for the project.
 - **(b)** In this section, the term “super construction project” has the meaning given such term in section 8103(e)(3) of this title .
+
+Quarterly Reports Required
+
+Super Construction Project Defined
+
+## Source Credit
+
+*(Added [Pub. L. 114–315, title VIII, § 801(d)(1)](https://www.govinfo.gov/link/plaw/114/public/315), Dec. 16, 2016, [130 Stat. 1591](https://www.govinfo.gov/link/statute/130/1591).)*

@@ -3,9 +3,10 @@ title: "Section 1974 - Capitol Police special officers"
 usc_title: 2
 usc_section: "1974"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1974"
-generated_at: "2026-03-30T02:53:04.822Z"
+generated_at: "2026-11-23T21:25:21.266Z"
+status: "active"
 ---
 
 # § 1974. Capitol Police special officers
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:04.822Z"
 - **(c)** Nothing in this section shall prohibit the Capitol Police from entering into an agreement for the reimbursement of services provided under this section with any Federal, State, or local agency.
 - **(d)** Subject to approval by the Speaker of the House of Representatives (in consultation with the Minority Leader of the House of Representatives) and the Majority Leader of the Senate (in consultation with the Minority Leader of the Senate), acting jointly, the Capitol Police Board may prescribe regulations to carry out this section.
 - **(e)** This section shall take effect on February 20, 2003 , and shall apply to fiscal year 2003 and each fiscal year thereafter.
+
+## Source Credit
+
+*([Pub. L. 108–7, div. H, title I, § 1017](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 365](https://www.govinfo.gov/link/statute/117/365); [Pub. L. 117–77, § 2(b)](https://www.govinfo.gov/link/plaw/117/public/77), Dec. 22, 2021, [135 Stat. 1523](https://www.govinfo.gov/link/statute/135/1523).)*

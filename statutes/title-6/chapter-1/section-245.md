@@ -3,9 +3,10 @@ title: "Section 245 - Operational data sharing capability"
 usc_title: 6
 usc_section: "245"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 245"
-generated_at: "2026-03-30T02:53:09.454Z"
+generated_at: "2026-11-23T21:25:25.771Z"
+status: "active"
 ---
 
 # § 245. Operational data sharing capability
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:53:09.454Z"
   - **(3)** establish a cost-sharing agreement for the long-term operation and maintenance of the capability and the assets that provide data to the capability.
 - **(e)** Not later than 2 years after December 23, 2022 , the Secretary shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure and the Committee on Homeland Security of the House of Representatives a report on the establishment of the capability under this section.
 - **(f)** Nothing in this section may be construed to authorize the Coast Guard, Customs and Border Protection, or any other partner agency to acquire, share, or transfer personal information relating to an individual in violation of any Federal or State law or regulation.
+
+In General
+
+Tribal Government Defined
+
+## Source Credit
+
+*([Pub. L. 117–263, div. K, title CXII, § 11264](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4062](https://www.govinfo.gov/link/statute/136/4062).)*

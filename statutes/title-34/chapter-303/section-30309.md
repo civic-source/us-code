@@ -3,9 +3,10 @@ title: "Section 30309 - Definitions"
 usc_title: 34
 usc_section: "30309"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 30309"
-generated_at: "2026-03-30T02:55:33.307Z"
+generated_at: "2026-11-23T21:26:09.824Z"
+status: "active"
 ---
 
 # § 30309. Definitions
@@ -37,3 +38,7 @@ In this chapter, the following definitions shall apply:
     - **(A)** custodial or medical personnel gathering physical evidence, or engaged in other legitimate medical treatment, in the course of investigating prison rape;
     - **(B)** the use of a health care provider’s hands or fingers or the use of medical devices in the course of appropriate medical treatment unrelated to prison rape; or
     - **(C)** the use of a health care provider’s hands or fingers and the use of instruments to perform body cavity searches in order to maintain security and safety within the prison or detention facility, provided that the search is conducted in a manner consistent with constitutional requirements.
+
+## Source Credit
+
+*([Pub. L. 108–79, § 10](https://www.govinfo.gov/link/plaw/108/public/79), Sept. 4, 2003, [117 Stat. 987](https://www.govinfo.gov/link/statute/117/987).)*

@@ -3,9 +3,10 @@ title: "Section 86 - Refusal of inspection and weighing services; civil penaltie
 usc_title: 7
 usc_section: "86"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 86"
-generated_at: "2026-03-30T02:53:42.254Z"
+generated_at: "2026-11-23T21:25:27.879Z"
+status: "active"
 ---
 
 # § 86. Refusal of inspection and weighing services; civil penalties
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:42.254Z"
 - **(c)** In addition to, or in lieu of, penalties provided under section 87c of this title , or in addition to, or in lieu of, refusal of official inspection or services related to weighing in accordance with this section, the Secretary may assess against any person who has knowingly committed any violation of section 87b of this title or has been convicted of any violation of other Federal law with respect to the handling, weighing, or official inspection of grain a civil penalty not to exceed $75,000 for each such violation as the Secretary determines is appropriate to effectuate the objectives stated in section 74 of this title .
 - **(d)** Before official inspection or services related to weighing is refused to any person or a civil penalty is assessed against any person under this section, such person shall be afforded opportunity for a hearing in accordance with sections 554, 556, and 557 of title 5: Provided , That the Secretary may, without first affording the person a hearing, refuse official inspection or services related to weighing temporarily pending final determination whenever the Secretary has reason to believe there is cause for refusal of inspection or services related to weighing and considered such action to be in the best interest of the official inspection system under this chapter. The Secretary shall afford such person an opportunity for a hearing within seven days after temporarily refusing official inspection or services related to weighing; and such hearing and ancillary procedures related thereto shall be conducted in an expedited manner.
 - **(e)** Moneys received in payment of such civil penalties shall be deposited in the general fund of the United States Treasury. Upon any failure to pay the penalties assessed under this section, the Secretary may request the Attorney General of the United States to institute a civil action to collect the penalties in the appropriate court identified in subsection (h) of section 87f of this title for the jurisdiction in which the respondent is found or resides or transacts business, and such court shall have jurisdiction to hear and decide any such action.
+
+## Source Credit
+
+*(Aug. 11, 1916, ch. 313, pt. B, § 10, [39 Stat. 485](https://www.govinfo.gov/link/statute/39/485); [Pub. L. 90–487, § 1](https://www.govinfo.gov/link/plaw/90/public/487), Aug. 15, 1968, [82 Stat. 765](https://www.govinfo.gov/link/statute/82/765); [Pub. L. 94–582, § 12](https://www.govinfo.gov/link/plaw/94/public/582), Oct. 21, 1976, [90 Stat. 2879](https://www.govinfo.gov/link/statute/90/2879); [Pub. L. 103–156, § 12(i)](https://www.govinfo.gov/link/plaw/103/public/156), Nov. 24, 1993, [107 Stat. 1528](https://www.govinfo.gov/link/statute/107/1528); [Pub. L. 103–354, title II, § 293(a)(7)](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3237](https://www.govinfo.gov/link/statute/108/3237).)*

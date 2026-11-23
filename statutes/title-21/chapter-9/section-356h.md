@@ -3,9 +3,10 @@ title: "Section 356h - Competitive generic therapies"
 usc_title: 21
 usc_section: "356h"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 356h"
-generated_at: "2026-03-30T02:54:54.243Z"
+generated_at: "2026-11-23T21:25:56.061Z"
+status: "active"
 ---
 
 # § 356h. Competitive generic therapies
@@ -32,3 +33,15 @@ generated_at: "2026-03-30T02:54:54.243Z"
     - **(A)** the reference listed drug; or
     - **(B)** a generic drug with the same reference listed drug as the drug for which designation as a competitive generic therapy is sought.
   - **(3)** The term “reference listed drug” means the listed drug (as such term is used in section 355(j) of this title ) for the drug involved.
+
+In general.—
+
+Issuance
+
+Contents
+
+Amended regulations
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 506H, as added [Pub. L. 115–52, title VIII, § 803(a)](https://www.govinfo.gov/link/plaw/115/public/52), Aug. 18, 2017, [131 Stat. 1070](https://www.govinfo.gov/link/statute/131/1070).)*

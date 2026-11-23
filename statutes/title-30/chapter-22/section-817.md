@@ -3,9 +3,10 @@ title: "Section 817 - Procedures to counteract dangerous conditions"
 usc_title: 30
 usc_section: "817"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 817"
-generated_at: "2026-03-30T02:55:29.388Z"
+generated_at: "2026-11-23T21:26:00.392Z"
+status: "active"
 ---
 
 # § 817. Procedures to counteract dangerous conditions
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:29.388Z"
 - **(e)**
   - **(1)** Any operator notified of an order under this section or any representative of miners notified of the issuance, modification, or termination of such an order may apply to the Commission within 30 days of such notification for reinstatement, modification or vacation of such order. The Commission shall forthwith afford an opportunity for a hearing (in accordance with section 554 of title 5 but without regard to subsection (a)(3) of such section) and thereafter shall issue an order, based upon findings of fact, vacating, affirming, modifying, or terminating the Secretary’s order. The Commission and the courts may not grant temporary relief from the issuance of any order under subsection (a).
   - **(2)** The Commission shall take whatever action is necessary to expedite proceedings under this subsection.
+
+## Source Credit
+
+*([Pub. L. 91–173, title I, § 107](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 755](https://www.govinfo.gov/link/statute/83/755); [Pub. L. 95–164, title II, § 201](https://www.govinfo.gov/link/plaw/95/public/164), Nov. 9, 1977, [91 Stat. 1307](https://www.govinfo.gov/link/statute/91/1307).)*

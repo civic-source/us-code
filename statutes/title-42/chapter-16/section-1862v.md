@@ -3,9 +3,10 @@ title: "Section 1862v - National Science Foundation research"
 usc_title: 42
 usc_section: "1862v"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1862v"
-generated_at: "2026-03-30T02:56:11.129Z"
+generated_at: "2026-11-23T21:26:32.227Z"
+status: "active"
 ---
 
 # § 1862v. National Science Foundation research
@@ -17,3 +18,9 @@ generated_at: "2026-03-30T02:56:11.129Z"
   - **(4)** basic understanding of perceptual, motor, and cognitive processes, and their interaction, in typical human behavior; and
   - **(5)** basic understanding of the relevance of drug and alcohol abuse.
 - **(b)** To promote the development of early career researchers, in awarding funds under subsection (a), the Director of the National Science Foundation shall encourage applications submitted by early career researchers, including doctoral students or postdoctoral researchers.
+
+“Congress finds the following:
+
+## Source Credit
+
+*([Pub. L. 116–339, § 3](https://www.govinfo.gov/link/plaw/116/public/339), Jan. 13, 2021, [134 Stat. 5126](https://www.govinfo.gov/link/statute/134/5126).)*

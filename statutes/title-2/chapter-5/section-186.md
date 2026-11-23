@@ -3,9 +3,10 @@ title: "Section 186 - Library of Congress orders under task and delivery order c
 usc_title: 2
 usc_section: "186"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 186"
-generated_at: "2026-03-30T02:53:04.792Z"
+generated_at: "2026-11-23T21:25:21.149Z"
+status: "active"
 ---
 
 # § 186. Library of Congress orders under task and delivery order contracts
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:04.792Z"
     - **(B)** concerns an order valued in excess of $10,000,000.
   - **(2)** Notwithstanding section 3556 of title 31 , the Comptroller General shall have exclusive jurisdiction of a protest authorized under paragraph (1)(B).
 - **(d)** This section and the amendment made by this section shall apply with respect to fiscal year 2022 and each succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 117–103, div. I, title I, § 142](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 519](https://www.govinfo.gov/link/statute/136/519).)*

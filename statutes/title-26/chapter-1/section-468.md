@@ -3,9 +3,10 @@ title: "Section 468 - Special rules for mining and solid waste reclamation and c
 usc_title: 26
 usc_section: "468"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 468"
-generated_at: "2026-03-30T02:55:27.705Z"
+generated_at: "2026-11-23T21:26:06.290Z"
+status: "active"
 ---
 
 # § 468. Special rules for mining and solid waste reclamation and closing costs
@@ -64,3 +65,7 @@ generated_at: "2026-03-30T02:55:27.705Z"
       - **(ii)** Clause (i) shall not apply to that portion of any property which is disturbed after the property is listed in the national contingency plan established under section 105 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980.
   - **(3)** The term “property” has the meaning given such term by section 614.
   - **(4)** The term “reserve property” means any property with respect to which a reserve is established under subsection (a)(1).
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title I, § 91(b)(1)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 601](https://www.govinfo.gov/link/statute/98/601); amended [Pub. L. 99–514, title XVIII](https://www.govinfo.gov/link/plaw/99/public/514), §§ 1807(a)(3)(A), (C), 1899A(14), Oct. 22, 1986, [100 Stat. 2811](https://www.govinfo.gov/link/statute/100/2811), 2959; [Pub. L. 101–508, title XI, § 11802(c)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–529](https://www.govinfo.gov/link/statute/104/1388).)*

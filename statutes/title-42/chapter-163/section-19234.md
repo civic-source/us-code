@@ -3,9 +3,10 @@ title: "Section 19234 - Research security training requirement for Federal resea
 usc_title: 42
 usc_section: "19234"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19234"
-generated_at: "2026-03-30T02:56:11.543Z"
+generated_at: "2026-11-23T21:26:33.880Z"
+status: "active"
 ---
 
 # § 19234. Research security training requirement for Federal research award personnel
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.543Z"
   - **(3)** The Director of the Office of Science and Technology Policy shall ensure that the entity referred to in paragraph (1)—
     - **(A)** develops security training modules that can be adapted and utilized across Federal research agencies; and
     - **(B)** develops and implements a plan for regularly updating such modules as needed.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title VI, § 10634](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1667](https://www.govinfo.gov/link/statute/136/1667).)*

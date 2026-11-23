@@ -3,9 +3,10 @@ title: "Section 12461 - Findings"
 usc_title: 34
 usc_section: "12461"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 12461"
-generated_at: "2026-03-30T02:55:33.288Z"
+generated_at: "2026-11-23T21:26:09.746Z"
+status: "active"
 ---
 
 # § 12461. Findings
@@ -20,3 +21,7 @@ Congress finds that—
   - **(6)** children exposed to domestic violence are more likely to believe that using violence is an effective means of getting one’s needs met and managing conflict in close relationships;
   - **(7)** children exposed to abusive parenting, harsh or erratic discipline, or domestic violence are at increased risk for juvenile crime; and
   - **(8)** in a national survey of more than 6,000 American families, 50 percent of men who frequently assaulted their wives also frequently abused their children.
+
+## Source Credit
+
+*([Pub. L. 103–322, title IV, § 41301](https://www.govinfo.gov/link/plaw/103/public/322), as added [Pub. L. 109–162, title IV, § 401](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3017](https://www.govinfo.gov/link/statute/119/3017).)*

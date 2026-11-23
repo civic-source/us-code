@@ -3,9 +3,10 @@ title: "Section 6042 - Returns regarding payments of dividends and corporate ear
 usc_title: 26
 usc_section: "6042"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6042"
-generated_at: "2026-03-30T02:55:27.832Z"
+generated_at: "2026-11-23T21:26:06.770Z"
+status: "active"
 ---
 
 # § 6042. Returns regarding payments of dividends and corporate earnings and profits
@@ -32,3 +33,11 @@ generated_at: "2026-03-30T02:55:27.832Z"
   - **(1)** furnish to the Secretary a statement stating the name and address of each shareholder, and the number of shares owned by each shareholder;
   - **(2)** furnish to the Secretary a statement of such facts as will enable him to determine the portion of the earnings and profits of the corporation (including gains, profits, and income not taxed) accumulated during such periods as the Secretary may specify, which have been distributed or ordered to be distributed, respectively, to its shareholders during such taxable years as the Secretary may specify; and
   - **(3)** furnish to the Secretary a statement of its accumulated earnings and profits and the names and addresses of the individuals or shareholders who would be entitled to such accumulated earnings and profits if divided or distributed, and of the amounts that would be payable to each.
+
+Dividends and interest
+
+Patronage dividends
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 746; [Pub. L. 87–834, § 19(a)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 1053](https://www.govinfo.gov/link/statute/76/1053); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 97–248, title III](https://www.govinfo.gov/link/plaw/97/public/248), §§ 303(a), 308(a), Sept. 3, 1982, [96 Stat. 587](https://www.govinfo.gov/link/statute/96/587), 591; [Pub. L. 97–354, § 5(a)(40)](https://www.govinfo.gov/link/plaw/97/public/354), Oct. 19, 1982, [96 Stat. 1696](https://www.govinfo.gov/link/statute/96/1696); [Pub. L. 98–67, title I](https://www.govinfo.gov/link/plaw/98/public/67), §§ 102(a), 108(b), Aug. 5, 1983, [97 Stat. 369](https://www.govinfo.gov/link/statute/97/369), 383; [Pub. L. 98–369, div. A, title VII, § 714(d)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 961](https://www.govinfo.gov/link/statute/98/961); [Pub. L. 99–514, title XV, § 1501(c)(2)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2736](https://www.govinfo.gov/link/statute/100/2736); [Pub. L. 104–168, title XII, § 1201(a)(3)](https://www.govinfo.gov/link/plaw/104/public/168), July 30, 1996, [110 Stat. 1469](https://www.govinfo.gov/link/statute/110/1469).)*

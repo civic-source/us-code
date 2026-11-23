@@ -3,9 +3,10 @@ title: "Section 231a - Annuity eligibility requirements"
 usc_title: 45
 usc_section: "231a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 231a"
-generated_at: "2026-03-30T02:55:56.544Z"
+generated_at: "2026-11-23T21:26:19.191Z"
+status: "active"
 ---
 
 # § 231a. Annuity eligibility requirements
@@ -72,3 +73,7 @@ generated_at: "2026-03-30T02:55:56.544Z"
   - **(3)** If a spouse or divorced wife entitled to an annuity under subsection (c) or a survivor entitled to an annuity under subsection (d) for any month is also entitled to annuity under subsection (a)(1) for such month, the annuity under subsection (c) or (d) shall be reduced, but not below zero, by an amount equal to the annuity under subsection (a)(1): Provided, however , That the provisions of this subdivision shall not apply if either the spouse or survivor or the individual upon whose earnings record the spouse’s or survivor’s annuity under subsection (c) or (d) is based rendered service as an employee to an employer, or as an employee representative, prior to January 1, 1975 .
   - **(4)** If an annuitant is entitled to more than one annuity under subsections (c) and (d) for a month, such annuitant shall be entitled to only the larger of such annuities for such month, except that, if such annuitant so elects, he shall instead be entitled to only the smaller of such annuities for such month.
 - **(i)** An individual entitled to an annuity under this section who has completed five years of service, all of which accrues after 1995, but who has not completed ten years of service, and the spouse, divorced spouse, and survivors of such individual, shall not be entitled to an annuity amount provided under section 231b(a), section 231c(a), or section 231c(f) of this title unless the individual, or the individual’s spouse, divorced spouse, or survivors, would be entitled to a benefit under title II of the Social Security Act [ 42 U.S.C. 401 et seq.] on the basis of the individual’s employment record under both this subchapter and title II of the Social Security Act.
+
+## Source Credit
+
+*(Aug. 29, 1935, ch. 812, § 2, as restated June 24, 1937, ch. 382, pt. I, [50 Stat. 307](https://www.govinfo.gov/link/statute/50/307), as restated [Pub. L. 93–445, title I, § 101](https://www.govinfo.gov/link/plaw/93/public/445), Oct. 16, 1974, [88 Stat. 1312](https://www.govinfo.gov/link/statute/88/1312); amended [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695); [Pub. L. 97–35, title XI, § 1117](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 628](https://www.govinfo.gov/link/statute/95/628); [Pub. L. 98–76, title I](https://www.govinfo.gov/link/plaw/98/public/76), §§ 104(a), (b), 106(a)–(g), title IV, §§ 409(a), 413(a), 414(a), 415, Aug. 12, 1983, [97 Stat. 416–418](https://www.govinfo.gov/link/statute/97/416), 435, 436; [Pub. L. 100–647, title VII](https://www.govinfo.gov/link/plaw/100/public/647), §§ 7302(a), (b), 7303(a), Nov. 10, 1988, [102 Stat. 3777](https://www.govinfo.gov/link/statute/102/3777), 3778; [Pub. L. 107–90, title I, § 103(a)](https://www.govinfo.gov/link/plaw/107/public/90), (c), (d), Dec. 21, 2001, [115 Stat. 880](https://www.govinfo.gov/link/statute/115/880); [Pub. L. 109–280, title X, § 1002(a)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1053](https://www.govinfo.gov/link/statute/120/1053); [Pub. L. 109–478, § 2(a)](https://www.govinfo.gov/link/plaw/109/public/478), Jan. 12, 2007, [120 Stat. 3573](https://www.govinfo.gov/link/statute/120/3573).)*

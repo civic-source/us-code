@@ -3,9 +3,10 @@ title: "Section 8456 - Military reserve technicians"
 usc_title: 5
 usc_section: "8456"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8456"
-generated_at: "2026-03-30T02:52:56.061Z"
+generated_at: "2026-11-23T21:25:23.431Z"
+status: "active"
 ---
 
 # § 8456. Military reserve technicians
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:52:56.061Z"
   - **(1)** the position is located within the commuting area of the individual’s former position;
   - **(2)** the individual is qualified to serve in such position, as determined by the head of the agency; and
   - **(3)** the position is at the same grade or equivalent level as the position from which the individual was separated.
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 570](https://www.govinfo.gov/link/statute/100/570), § 8457; amended [Pub. L. 99–556, title I, § 118](https://www.govinfo.gov/link/plaw/99/public/556), Oct. 27, 1986, [100 Stat. 3134](https://www.govinfo.gov/link/statute/100/3134); renumbered § 8456, [Pub. L. 100–238, title I, § 124(b)(1)(B)](https://www.govinfo.gov/link/plaw/100/public/238), Jan. 8, 1988, [101 Stat. 1756](https://www.govinfo.gov/link/statute/101/1756); [Pub. L. 103–337, div. A, title XVI, § 1677(a)(4)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 3019](https://www.govinfo.gov/link/statute/108/3019).)*

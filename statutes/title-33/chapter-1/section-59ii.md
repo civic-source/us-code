@@ -3,9 +3,10 @@ title: "Section 59ii - Declaration of nonnavigability of a portion of the canal 
 usc_title: 33
 usc_section: "59ii"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 59ii"
-generated_at: "2026-03-30T02:55:41.052Z"
+generated_at: "2026-11-23T21:26:11.288Z"
+status: "active"
 ---
 
 # § 59ii. Declaration of nonnavigability of a portion of the canal known as the James River and Kanawha Canal in Richmond, Virginia
@@ -17,3 +18,9 @@ generated_at: "2026-03-30T02:55:41.052Z"
   - **(2)** Before making a determination under this subsection, the Secretary of Transportation shall—
     - **(A)** consult with appropriate State and local government officials regarding whether such a determination is necessary to protect public safety and will serve the public interest; and
     - **(B)** provide to persons who might be adversely affected by the determination the opportunity for comment and a hearing on whether such action is necessary to protect public safety and will serve the public interest.
+
+“The Congress finds the following:
+
+## Source Credit
+
+*([Pub. L. 106–32, § 2](https://www.govinfo.gov/link/plaw/106/public/32), June 1, 1999, [113 Stat. 115](https://www.govinfo.gov/link/statute/113/115).)*

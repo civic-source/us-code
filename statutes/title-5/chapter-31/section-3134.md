@@ -3,9 +3,10 @@ title: "Section 3134 - Limitations on noncareer and limited appointments"
 usc_title: 5
 usc_section: "3134"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3134"
-generated_at: "2026-03-30T02:52:56.000Z"
+generated_at: "2026-11-23T21:25:23.139Z"
+status: "active"
 ---
 
 # § 3134. Limitations on noncareer and limited appointments
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:52:56.000Z"
     - **(A)** noncareer executive assignments under subpart F of part 305 of title 5, Code of Federal Regulations, as in effect on such date, or
     - **(B)** appointments to level IV or V of the Executive Schedule which were not required on such date to be made by and with the advice and consent of the Senate.
 - **(e)** The total number of limited emergency appointees and limited term appointees in all agencies may not exceed 5 percent of the total number of Senior Executive Service positions in all agencies.
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1159](https://www.govinfo.gov/link/statute/92/1159).)*

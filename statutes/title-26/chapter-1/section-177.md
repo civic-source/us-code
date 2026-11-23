@@ -3,10 +3,15 @@ title: "Section 177 - Repealed. Pub. L. 99–514, title II, § 241(a) , Oct. 22,
 usc_title: 26
 usc_section: "177"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 177"
-generated_at: "2026-03-30T02:55:27.648Z"
+generated_at: "2026-11-23T21:26:06.074Z"
+status: "repealed"
 ---
 
 # [§ 177. Repealed. Pub. L. 99–514, title II, § 241(a) , Oct. 22, 1986 , 100 Stat. 2181 ]
 
+
+In general
+
+Transitional rule

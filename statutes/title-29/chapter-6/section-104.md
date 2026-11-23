@@ -3,9 +3,10 @@ title: "Section 104 - Enumeration of specific acts not subject to restraining or
 usc_title: 29
 usc_section: "104"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 104"
-generated_at: "2026-03-30T02:55:18.677Z"
+generated_at: "2026-11-23T21:26:02.165Z"
+status: "active"
 ---
 
 # § 104. Enumeration of specific acts not subject to restraining orders or injunctions
@@ -21,3 +22,7 @@ No court of the United States shall have jurisdiction to issue any restraining o
 - **(g)** Advising or notifying any person of an intention to do any of the acts heretofore specified;
 - **(h)** Agreeing with other persons to do or not to do any of the acts heretofore specified; and
 - **(i)** Advising, urging, or otherwise causing or inducing without fraud or violence the acts heretofore specified, regardless of any such undertaking or promise as is described in section 103 of this title .
+
+## Source Credit
+
+*(Mar. 23, 1932, ch. 90, § 4, [47 Stat. 70](https://www.govinfo.gov/link/statute/47/70).)*

@@ -3,9 +3,10 @@ title: "Section 2384 - Transfer to governmental entity or private nonprofit orga
 usc_title: 42
 usc_section: "2384"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2384"
-generated_at: "2026-03-30T02:56:11.165Z"
+generated_at: "2026-11-23T21:26:32.419Z"
+status: "active"
 ---
 
 # § 2384. Transfer to governmental entity or private nonprofit organization; determination of transferee
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.165Z"
   - **(2)** the results of a vote in which the eligible voters have directly expressed themselves on the proposed transfer in a referendum or other officially recognized procedure;
   - **(3)** there being only one entity which is legally authorized to receive the municipal installation; or
   - **(4)** in the absence of the other alternatives, the Commission has conducted a vote of the eligible voters of the community on the proposed transfer under such procedures as it may establish.
+
+## Source Credit
+
+*(Aug. 4, 1955, ch. 543, ch. 8, § 84, [69 Stat. 481](https://www.govinfo.gov/link/statute/69/481).)*

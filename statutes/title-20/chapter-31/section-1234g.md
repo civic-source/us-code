@@ -3,9 +3,10 @@ title: "Section 1234g - Judicial review"
 usc_title: 20
 usc_section: "1234g"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1234g"
-generated_at: "2026-03-30T02:54:48.158Z"
+generated_at: "2026-11-23T21:25:47.309Z"
+status: "active"
 ---
 
 # § 1234g. Judicial review
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:48.158Z"
 - **(b)** A recipient that desires judicial review of an action described in subsection (a) shall, within 60 days of that action, file with the United States Court of Appeals for the circuit in which that recipient is located, a petition for review of such action. A copy of the petition shall be transmitted by the clerk of the court to the Secretary. The Secretary shall file in the court the record of the proceedings on which the action was based, as provided in section 2112 of title 28 .
 - **(c)** The findings of fact by the Office, if supported by substantial evidence, shall be conclusive; but the court, for good cause shown, may remand the case to the Office to take further evidence, and the Office may make new or modified findings of fact and may modify its previous action, and shall certify to the court the record of the further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
 - **(d)** The court shall have jurisdiction to affirm the action of the Office or the Secretary or to set it aside, in whole or in part. The judgment of the court shall be subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28 .
+
+## Source Credit
+
+*([Pub. L. 90–247, title IV, § 458](https://www.govinfo.gov/link/plaw/90/public/247), as added [Pub. L. 100–297, title III, § 3501(a)](https://www.govinfo.gov/link/plaw/100/public/297), Apr. 28, 1988, [102 Stat. 356](https://www.govinfo.gov/link/statute/102/356); amended [Pub. L. 103–382, title II, § 212(b)(3)(D)](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 3913](https://www.govinfo.gov/link/statute/108/3913).)*

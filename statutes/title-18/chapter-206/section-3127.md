@@ -3,9 +3,10 @@ title: "Section 3127 - Definitions for chapter"
 usc_title: 18
 usc_section: "3127"
 chapter: 206
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3127"
-generated_at: "2026-03-30T02:54:16.512Z"
+generated_at: "2026-11-23T21:25:44.180Z"
+status: "active"
 ---
 
 # § 3127. Definitions for chapter
@@ -24,3 +25,7 @@ As used in this chapter—
   - **(4)** the term “trap and trace device” means a device or process which captures the incoming electronic or other impulses which identify the originating number or other dialing, routing, addressing, and signaling information reasonably likely to identify the source of a wire or electronic communication, provided, however, that such information shall not include the contents of any communication;
   - **(5)** the term “attorney for the Government” has the meaning given such term for the purposes of the Federal Rules of Criminal Procedure; and
   - **(6)** the term “State” means a State, the District of Columbia, Puerto Rico, and any other possession or territory of the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 99–508, title III, § 301(a)](https://www.govinfo.gov/link/plaw/99/public/508), Oct. 21, 1986, [100 Stat. 1871](https://www.govinfo.gov/link/statute/100/1871), § 3126; renumbered § 3127, [Pub. L. 100–690, title VII, § 7092(a)(1)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4410](https://www.govinfo.gov/link/statute/102/4410); amended [Pub. L. 107–56, title II, § 216(c)(1)](https://www.govinfo.gov/link/plaw/107/public/56) –(4), Oct. 26, 2001, [115 Stat. 290](https://www.govinfo.gov/link/statute/115/290); [Pub. L. 111–79, § 2(3)](https://www.govinfo.gov/link/plaw/111/public/79), Oct. 19, 2009, [123 Stat. 2087](https://www.govinfo.gov/link/statute/123/2087).)*

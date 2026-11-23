@@ -3,9 +3,10 @@ title: "Section 10012 - United States strategy for support to a civilian-led gov
 usc_title: 22
 usc_section: "10012"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10012"
-generated_at: "2026-03-30T02:55:05.475Z"
+generated_at: "2026-11-23T21:25:58.793Z"
+status: "active"
 ---
 
 # § 10012. United States strategy for support to a civilian-led government in Sudan
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:05.475Z"
 - **(b)** Not later than 1 year after January 1, 2021 , the Secretary of State, in coordination with the Administrator of the United States Agency for International Development and the Secretary of the Treasury, shall submit a report to the appropriate congressional committees that includes—
   - **(1)** a detailed description of the efforts taken to implement this chapter; and
   - **(2)** recommendations for legislative or administrative measures to facilitate the implementation of this chapter.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. A, title XII, § 1270C](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3977](https://www.govinfo.gov/link/statute/134/3977).)*

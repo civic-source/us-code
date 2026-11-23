@@ -3,9 +3,10 @@ title: "Section 10701 - Application"
 usc_title: 46
 usc_section: "10701"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 10701"
-generated_at: "2026-03-30T02:56:15.554Z"
+generated_at: "2026-11-23T21:26:37.116Z"
+status: "active"
 ---
 
 # § 10701. Application
@@ -15,3 +16,16 @@ generated_at: "2026-03-30T02:56:15.554Z"
   - **(2)** a port of the United States on the Atlantic Ocean and a port of the United States on the Pacific Ocean.
 - **(b)** This chapter does not apply to a vessel on which a seaman by custom or agreement is entitled to share in the profit or result of a voyage.
 - **(c)** This chapter does not apply to a foreign vessel.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 10701 | 46:621 |
+
+
+Historical and Revision Notes
+
+10701
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 572](https://www.govinfo.gov/link/statute/97/572).)*

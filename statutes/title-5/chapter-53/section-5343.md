@@ -3,9 +3,10 @@ title: "Section 5343 - Prevailing rate determinations; wage schedules; night dif
 usc_title: 5
 usc_section: "5343"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5343"
-generated_at: "2026-03-30T02:52:56.014Z"
+generated_at: "2026-11-23T21:25:23.246Z"
+status: "active"
 ---
 
 # § 5343. Prevailing rate determinations; wage schedules; night differentials
@@ -58,3 +59,17 @@ generated_at: "2026-03-30T02:52:56.014Z"
   - **(1)** For a prevailing rate employee described in section 5342(a)(2)(A) who is a wildland firefighter, as defined in section 5332a(a), the Secretary of Agriculture or the Secretary of the Interior (as applicable) shall increase the wage rates of that employee by an amount (determined at the sole and exclusive discretion of the applicable Secretary after consultation with the other Secretary) that is generally consistent with the percentage increases given to wildland firefighters in the General Schedule under section 5332a.
   - **(2)** An increased wage rate under paragraph (1) shall be basic pay for the same purposes as the wage rate otherwise established under this section.
   - **(3)** An increase under this subsection may not cause the wage rate of an employee to increase to a rate that would produce an annualized rate in excess of the annual rate for level IV of the Executive Schedule.
+
+Wage Determinations
+
+Covered Individuals
+
+Effective Date
+
+“The amendments made by this Act [enacting this subchapter and section 5550 of this title , amending sections 2105(c)(1), 5337, 5541(2)(xi), 5544(a), 5548, 6101(a)(1), 7154(b), and 8704(d)(2) of this title, repealing section 6102 of this title , and enacting provisions set out as notes under sections 5341 and 5343 of this title and section 60a of Title 2 , The Congress] shall not be construed to—
+
+“That this Act [enacting this note and amending sections 4531 and 4571 of Title 2, The Congress] may be cited as the ‘Prevailing Rate Equalization Adjustment Act of 1972’.
+
+## Source Credit
+
+*(Added [Pub. L. 92–392, § 1(a)](https://www.govinfo.gov/link/plaw/92/public/392), Aug. 19, 1972, [86 Stat. 566](https://www.govinfo.gov/link/statute/86/566); amended [Pub. L. 95–454, title IX, § 906(a)(2)](https://www.govinfo.gov/link/plaw/95/public/454), (3), Oct. 13, 1978, [92 Stat. 1224](https://www.govinfo.gov/link/statute/92/1224); [Pub. L. 96–70, title III, § 3302(e)(10)](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 499](https://www.govinfo.gov/link/statute/93/499); [Pub. L. 99–145, title XII, § 1242(a)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 735](https://www.govinfo.gov/link/statute/99/735); [Pub. L. 104–201, div. C, title XXXV, § 3548(a)(3)(B)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2868](https://www.govinfo.gov/link/statute/110/2868); [Pub. L. 107–107, div. A, title XI, § 1113(a)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1239](https://www.govinfo.gov/link/statute/115/1239); [Pub. L. 108–136, div. A, title XI, § 1122(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1636](https://www.govinfo.gov/link/statute/117/1636); [Pub. L. 119–4, div. A, title VIII, § 1807](https://www.govinfo.gov/link/plaw/119/public/4), Mar. 15, 2025, [139 Stat. 30](https://www.govinfo.gov/link/statute/139/30).)*

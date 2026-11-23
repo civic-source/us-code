@@ -3,9 +3,10 @@ title: "Section 9301 - National coordinating entity for sustainable chemistry"
 usc_title: 15
 usc_section: "9301"
 chapter: 118
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9301"
-generated_at: "2026-03-30T02:54:08.246Z"
+generated_at: "2026-11-23T21:25:40.140Z"
+status: "active"
 ---
 
 # § 9301. National coordinating entity for sustainable chemistry
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.246Z"
 - **(c)** The Entity shall be co-chaired by the Director of the Office of Science and Technology Policy and a representative from the Environmental Protection Agency, the National Institute of Standards and Technology, the National Science Foundation, or the Department of Energy, as selected by the Director of the Office of Science and Technology Policy.
 - **(d)** The Entity shall include representatives, including subject matter experts, from the Environmental Protection Agency, the National Institute of Standards and Technology, the National Science Foundation, the Department of Energy, the Department of Agriculture, the Department of Defense, the National Institutes of Health, the Centers for Disease Control and Prevention, the Food and Drug Administration, and other related Federal agencies, as appropriate.
 - **(e)** The Entity shall terminate on the date that is 10 years after January 1, 2021 .
+
+## Source Credit
+
+*([Pub. L. 116–283, div. A, title II, § 261](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3497](https://www.govinfo.gov/link/statute/134/3497).)*

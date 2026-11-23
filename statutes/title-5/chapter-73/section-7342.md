@@ -3,9 +3,10 @@ title: "Section 7342 - Receipt and disposition of foreign gifts and decorations"
 usc_title: 5
 usc_section: "7342"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 7342"
-generated_at: "2026-03-30T02:52:56.037Z"
+generated_at: "2026-11-23T21:25:23.339Z"
+status: "active"
 ---
 
 # § 7342. Receipt and disposition of foreign gifts and decorations
@@ -77,3 +78,58 @@ generated_at: "2026-03-30T02:52:56.037Z"
 - **(i)** The President shall direct all Chiefs of a United States Diplomatic Mission to inform their host governments that it is a general policy of the United States Government to prohibit United States Government employees from receiving gifts or decorations of more than minimal value.
 - **(j)** Nothing in this section shall be construed to derogate any regulation prescribed by any employing agency which provides for more stringent limitations on the receipt of gifts and decorations by its employees.
 - **(k)** The provisions of this section do not apply to grants and other forms of assistance to which section 108A of the Mutual Educational and Cultural Exchange Act of 1961 applies.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 7342(a) | 22:2621. | Oct. 15, 1966 , Pub. L. 89–673, § 2 , 80 Stat. 952 . |
+| 7342(b) | 22:2622. | Oct. 15, 1966 , Pub. L. 89–673, § 3 , 80 Stat. 952 . |
+| 7342(c) | 22:2623. | Oct. 15, 1966 , Pub. L. 89–673, § 4 , 80 Stat. 952 . |
+| 7342(d) | 22:2624. | Oct. 15, 1966 , Pub. L. 89–673, § 5 , 80 Stat. 952 . |
+| 7342(e) | 22:2626. | Oct. 15, 1966 , Pub. L. 89–673, § 7 , 80 Stat. 952 . |
+
+
+Historical and Revision Notes
+
+7342(a)
+
+Oct. 15, 1966
+
+Pub. L. 89–673, § 2
+
+80 Stat. 952
+
+7342(b)
+
+Oct. 15, 1966
+
+Pub. L. 89–673, § 3
+
+80 Stat. 952
+
+7342(c)
+
+Oct. 15, 1966
+
+Pub. L. 89–673, § 4
+
+80 Stat. 952
+
+7342(d)
+
+Oct. 15, 1966
+
+Pub. L. 89–673, § 5
+
+80 Stat. 952
+
+7342(e)
+
+Oct. 15, 1966
+
+Pub. L. 89–673, § 7
+
+80 Stat. 952
+
+## Source Credit
+
+*(Added [Pub. L. 90–83, § 1(45)(C)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 208](https://www.govinfo.gov/link/statute/81/208); amended [Pub. L. 95–105, title V, § 515(a)(1)](https://www.govinfo.gov/link/plaw/95/public/105), Aug. 17, 1977, [91 Stat. 862](https://www.govinfo.gov/link/statute/91/862); [Pub. L. 95–426, title VII, § 712(a)](https://www.govinfo.gov/link/plaw/95/public/426) –(c), Oct. 7, 1978, [92 Stat. 994](https://www.govinfo.gov/link/statute/92/994); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 107–217, § 3(a)(1)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1295](https://www.govinfo.gov/link/statute/116/1295); [Pub. L. 108–458, title I, § 1079(b)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3696](https://www.govinfo.gov/link/statute/118/3696); [Pub. L. 109–435, title VI, § 604(b)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3241](https://www.govinfo.gov/link/statute/120/3241); [Pub. L. 111–259, title III, § 361](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2701](https://www.govinfo.gov/link/statute/124/2701); [Pub. L. 111–350, § 5(a)(10)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3841](https://www.govinfo.gov/link/statute/124/3841).)*

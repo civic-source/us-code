@@ -3,9 +3,10 @@ title: "Section 677 - John H. Chafee Foster Care Program for Successful Transiti
 usc_title: 42
 usc_section: "677"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 677"
-generated_at: "2026-03-30T02:56:10.891Z"
+generated_at: "2026-11-23T21:26:31.169Z"
+status: "active"
 ---
 
 # § 677. John H. Chafee Foster Care Program for Successful Transition to Adulthood
@@ -115,3 +116,55 @@ generated_at: "2026-03-30T02:56:10.891Z"
     - **(B)** the sum of—
       - **(i)** the total number of children in foster care under the responsibility of the State within which the Indian tribe, tribal organization, or tribal consortium is located; and
       - **(ii)** the total number of children in foster care under the responsibility of all Indian tribes, tribal organizations, or tribal consortia in the State (either directly or under supervision of the State) that have a plan approved under this subsection.
+
+Funding Increases.—
+
+Increase in support for chafee programs
+
+Education and training vouchers
+
+Applicability of technical assistance to additional funds.—
+
+In general
+
+Reservation of funds.—
+
+In general
+
+Provider qualifications
+
+Inapplicability of state matching requirement to additional funds
+
+Maximum award amount
+
+Inapplicability of nytd penalty to additional funds
+
+Maximum Age Limitation on Eligibility for Assistance
+
+Special Rule
+
+Programmatic Flexibilities
+
+Suspension of certain requirements under the education and training voucher program
+
+Authority to use vouchers to maintain training and postsecondary education
+
+Authority to waive limitations on percentage of funds used for housing assistance and eligibility for such assistance
+
+Authority to provide driving and transportation assistance.—
+
+Use of funds
+
+Maximum allowance
+
+Report to the congress
+
+“The Congress finds the following:
+
+Study
+
+Report
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 477, as added [Pub. L. 99–272, title XII, § 12307(a)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 294](https://www.govinfo.gov/link/statute/100/294); amended [Pub. L. 100–647, title VIII, § 8104(a)](https://www.govinfo.gov/link/plaw/100/public/647) –(d), (f), Nov. 10, 1988, [102 Stat. 3796](https://www.govinfo.gov/link/statute/102/3796), 3797; [Pub. L. 101–239, title VIII, § 8002(a)](https://www.govinfo.gov/link/plaw/101/public/239), (b), Dec. 19, 1989, [103 Stat. 2452](https://www.govinfo.gov/link/statute/103/2452); [Pub. L. 101–508, title V, § 5073(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–233](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–66, title XIII, § 13714(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 657](https://www.govinfo.gov/link/statute/107/657); [Pub. L. 105–89, title III, § 304](https://www.govinfo.gov/link/plaw/105/public/89), Nov. 19, 1997, [111 Stat. 2130](https://www.govinfo.gov/link/statute/111/2130); [Pub. L. 106–169, title I, § 101(b)](https://www.govinfo.gov/link/plaw/106/public/169), Dec. 14, 1999, [113 Stat. 1824](https://www.govinfo.gov/link/statute/113/1824); [Pub. L. 107–133, title II](https://www.govinfo.gov/link/plaw/107/public/133), §§ 201(a)–(e), 202(a), Jan. 17, 2002, [115 Stat. 2422](https://www.govinfo.gov/link/statute/115/2422), 2423, 2425; [Pub. L. 110–351, title I, § 101(e)](https://www.govinfo.gov/link/plaw/110/public/351), title III, § 301(b), (c)(1)(B), Oct. 7, 2008, [122 Stat. 3953](https://www.govinfo.gov/link/statute/122/3953), 3967, 3969; [Pub. L. 111–148, title II, § 2955(b)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 352](https://www.govinfo.gov/link/statute/124/352); [Pub. L. 113–183, title I, § 111(c)](https://www.govinfo.gov/link/plaw/113/public/183), Sept. 29, 2014, [128 Stat. 1925](https://www.govinfo.gov/link/statute/128/1925); [Pub. L. 115–123, div. E, title VII, § 50753(a)](https://www.govinfo.gov/link/plaw/115/public/123) –(d), Feb. 9, 2018, [132 Stat. 263–265](https://www.govinfo.gov/link/statute/132/263).)*

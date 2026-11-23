@@ -3,9 +3,10 @@ title: "Section 8710 - Reinsurance"
 usc_title: 5
 usc_section: "8710"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8710"
-generated_at: "2026-03-30T02:52:56.065Z"
+generated_at: "2026-11-23T21:25:23.444Z"
+status: "active"
 ---
 
 # § 8710. Reinsurance
@@ -22,3 +23,24 @@ generated_at: "2026-03-30T02:52:56.065Z"
   - **(2)** engaged in issuing insurance certificates on the lives of employees of the United States exclusively;
 - **(e)** An issuing company or reinsurer is entitled, as a minimum, to be allocated an amount of insurance under the policy equal to any reduction from December 31, 1953 , to the determination date, in the amount of the company’s group life insurance under policies issued to associations of employees of the United States. However, any increase under this subsection in the amount allocated is reduced by the amount in force on the determination date of any policy covering life insurance agreements assumed by the Office.
 - **(f)** The Office may modify the computations under this section as necessary to carry out the intent of this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 2096(c) –(e). | Aug. 17, 1954, ch. 752, § 7(c) –(e), 68 Stat. 739 . Aug. 11, 1955, ch. 794, § 3 , 69 Stat. 677 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 2096(c)
+
+Aug. 17, 1954, ch. 752, § 7(c)
+
+68 Stat. 739
+
+Aug. 11, 1955, ch. 794, § 3
+
+69 Stat. 677
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 596](https://www.govinfo.gov/link/statute/80/596); [Pub. L. 95–454, title IX, § 906(a)(2)](https://www.govinfo.gov/link/plaw/95/public/454), (3), Oct. 13, 1978, [92 Stat. 1224](https://www.govinfo.gov/link/statute/92/1224).)*

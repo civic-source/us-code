@@ -3,9 +3,10 @@ title: "Section 2371 - Prohibition on assistance to governments supporting inter
 usc_title: 22
 usc_section: "2371"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2371"
-generated_at: "2026-03-30T02:55:05.361Z"
+generated_at: "2026-11-23T21:25:58.480Z"
+status: "active"
 ---
 
 # § 2371. Prohibition on assistance to governments supporting international terrorism
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:05.361Z"
     - **(B)** a description of the national security interests or humanitarian reasons which require the waiver;
     - **(C)** the type and amount of and the justification for the assistance to be provided pursuant to the waiver; and
     - **(D)** the period of time during which such waiver will be effective.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 620A, as added [Pub. L. 94–329, title III, § 303](https://www.govinfo.gov/link/plaw/94/public/329), June 30, 1976, [90 Stat. 753](https://www.govinfo.gov/link/statute/90/753); amended [Pub. L. 99–83, title V, § 503(a)](https://www.govinfo.gov/link/plaw/99/public/83), Aug. 8, 1985, [99 Stat. 220](https://www.govinfo.gov/link/statute/99/220); [Pub. L. 99–190, § 101(i) [title V, § 521]](https://www.govinfo.gov/link/plaw/99/public/190), Dec. 19, 1985, [99 Stat. 1291](https://www.govinfo.gov/link/statute/99/1291), 1305; [Pub. L. 101–222, § 5](https://www.govinfo.gov/link/plaw/101/public/222), Dec. 12, 1989, [103 Stat. 1897](https://www.govinfo.gov/link/statute/103/1897); [Pub. L. 110–246, title III, § 3001(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/246), (2)(Q), June 18, 2008, [122 Stat. 1820](https://www.govinfo.gov/link/statute/122/1820).)*

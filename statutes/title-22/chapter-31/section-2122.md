@@ -3,9 +3,10 @@ title: "Section 2122 - Powers and duties of Secretary of Commerce"
 usc_title: 22
 usc_section: "2122"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2122"
-generated_at: "2026-03-30T02:55:05.342Z"
+generated_at: "2026-11-23T21:25:58.423Z"
+status: "active"
 ---
 
 # § 2122. Powers and duties of Secretary of Commerce
@@ -19,3 +20,7 @@ In order to carry out the national tourism policy established in section 2121(b)
     - **(A)** coordinating the Federal implementation of a national travel and tourism policy;
     - **(B)** representing the United States’ international travel and tourism interests to foreign governments; and
     - **(C)** maintaining United States participation in international travel and tourism trade shows and fairs until such activities can be transferred to such Organization and other private sector entities.
+
+## Source Credit
+
+*([Pub. L. 87–63, title II, § 201](https://www.govinfo.gov/link/plaw/87/public/63), formerly § 2, June 29, 1961, [75 Stat. 129](https://www.govinfo.gov/link/statute/75/129); [Pub. L. 93–623, § 6](https://www.govinfo.gov/link/plaw/93/public/623), Jan. 3, 1975, [88 Stat. 2105](https://www.govinfo.gov/link/statute/88/2105); renumbered and amended [Pub. L. 97–63, § 3(b)](https://www.govinfo.gov/link/plaw/97/public/63), (e)(1), Oct. 16, 1981, [95 Stat. 1012](https://www.govinfo.gov/link/statute/95/1012), 1013; [Pub. L. 102–372, § 6(a)](https://www.govinfo.gov/link/plaw/102/public/372), Sept. 30, 1992, [106 Stat. 1175](https://www.govinfo.gov/link/statute/106/1175); [Pub. L. 104–288, § 10](https://www.govinfo.gov/link/plaw/104/public/288), Oct. 11, 1996, [110 Stat. 3407](https://www.govinfo.gov/link/statute/110/3407).)*

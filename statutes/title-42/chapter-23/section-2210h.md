@@ -3,9 +3,10 @@ title: "Section 2210h - Radiation source protection"
 usc_title: 42
 usc_section: "2210h"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2210h"
-generated_at: "2026-03-30T02:56:11.156Z"
+generated_at: "2026-11-23T21:26:32.377Z"
+status: "active"
 ---
 
 # § 2210h. Radiation source protection
@@ -89,3 +90,11 @@ generated_at: "2026-03-30T02:56:11.156Z"
 - **(g)** Not later than 60 days after the date of receipt by Congress and the President of a report under subsection (f)(3)(B), the Commission, in accordance with the recommendations of the task force, shall—
   - **(1)** take any action the Commission determines to be appropriate, including revising the system of the Commission for licensing radiation sources; and
   - **(2)** ensure that States that have entered into agreements with the Commission under section 2021(b) of this title take similar action in a timely manner.
+
+(aa) with alternative technologies in order to reduce the number of radiation sources in the United States; or
+
+(bb) with radiation sources that would pose a lower risk to public health and safety in the event of an accident or attack involving the radiation source; and
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 170H, as added [Pub. L. 109–58, title VI, § 651(d)(1)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 802](https://www.govinfo.gov/link/statute/119/802); amended [Pub. L. 109–295, title VI, § 612(c)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1410](https://www.govinfo.gov/link/statute/120/1410).)*

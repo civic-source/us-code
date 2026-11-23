@@ -3,9 +3,10 @@ title: "Section 1244 - Exceptions"
 usc_title: 15
 usc_section: "1244"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1244"
-generated_at: "2026-03-30T02:54:08.130Z"
+generated_at: "2026-11-23T21:25:39.804Z"
+status: "active"
 ---
 
 # § 1244. Exceptions
@@ -17,3 +18,7 @@ Sections 1242 and 1243 of this title shall not apply to—
   - **(3)** the Armed Forces or any member or employee thereof acting in the performance of his duty;
   - **(4)** the possession, and transportation upon his person, of any switchblade knife with a blade three inches or less in length by any individual who has only one arm; or
   - **(5)** a knife that contains a spring, detent, or other mechanism designed to create a bias toward closure of the blade and that requires exertion applied to the blade by hand, wrist, or arm to overcome the bias toward closure to assist in opening the knife.
+
+## Source Credit
+
+*([Pub. L. 85–623, § 4](https://www.govinfo.gov/link/plaw/85/public/623), Aug. 12, 1958, [72 Stat. 562](https://www.govinfo.gov/link/statute/72/562); [Pub. L. 111–83, title V, § 562](https://www.govinfo.gov/link/plaw/111/public/83), Oct. 28, 2009, [123 Stat. 2183](https://www.govinfo.gov/link/statute/123/2183).)*

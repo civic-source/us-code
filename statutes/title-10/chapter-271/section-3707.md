@@ -3,9 +3,10 @@ title: "Section 3707 - Interest and penalties for certain overpayments"
 usc_title: 10
 usc_section: "3707"
 chapter: 271
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3707"
-generated_at: "2026-03-30T02:53:38.196Z"
+generated_at: "2026-11-23T21:25:32.736Z"
+status: "active"
 ---
 
 # § 3707. Interest and penalties for certain overpayments
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:53:38.196Z"
     - **(B)** at the current rate prescribed by the Secretary of the Treasury under section 6621 of the Internal Revenue Code of 1986; and
   - **(2)** if the submission of such defective data was a knowing submission, for an additional amount equal to the amount of the overpayment.
 - **(b)** Any liability under this section of a contractor that submits cost or pricing data but refuses to submit the certification required by section 3702(b) of this title with respect to the cost or pricing data shall not be affected by the refusal to submit such certification.
+
+In General
+
+Liability Not Affected by Refusal to Submit Certification
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1831(a)](https://www.govinfo.gov/link/plaw/116/public/283), (h), Jan. 1, 2021, [134 Stat. 4209](https://www.govinfo.gov/link/statute/134/4209), 4216; [Pub. L. 117–81, div. A, title XVII, § 1701(b)(10)(H)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2134](https://www.govinfo.gov/link/statute/135/2134).)*

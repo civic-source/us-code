@@ -3,9 +3,10 @@ title: "Section 2632 - Duties"
 usc_title: 29
 usc_section: "2632"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 2632"
-generated_at: "2026-03-30T02:55:18.745Z"
+generated_at: "2026-11-23T21:26:02.317Z"
+status: "active"
 ---
 
 # § 2632. Duties
@@ -22,3 +23,7 @@ The Commission shall—
     - **(G)** the ability of the employers to recover, under section 2614(c)(2) of this title , the premiums described in such section; and
     - **(H)** the impact on employers and employees of policies that provide temporary wage replacement during periods of family and medical leave.
   - **(2)** not later than 2 years after the date on which the Commission first meets, prepare and submit, to the appropriate Committees of Congress, a report concerning the subjects listed in paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 103–3, title III, § 302](https://www.govinfo.gov/link/plaw/103/public/3), Feb. 5, 1993, [107 Stat. 23](https://www.govinfo.gov/link/statute/107/23).)*

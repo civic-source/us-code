@@ -3,9 +3,10 @@ title: "Section 5904 - Approval of subsidiaries of insured depository institutio
 usc_title: 12
 usc_section: "5904"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5904"
-generated_at: "2026-03-30T02:53:53.552Z"
+generated_at: "2026-11-23T21:25:37.308Z"
+status: "active"
 ---
 
 # § 5904. Approval of subsidiaries of insured depository institutions and Federal qualified payment stablecoin issuers
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:53:53.552Z"
     - **(B)**
       - **(i)** Any person that knowingly submits a certification pursuant to paragraph (1) that is false shall be subject to the criminal penalties set forth under section 1001 of title 18 .
       - **(ii)** If a Federal payment stablecoin regulator or State payment stablecoin regulator has reason to believe that any person has knowingly violated paragraph (1), the applicable regulator may refer the matter to the Attorney General or to the attorney general of the payment stablecoin issuer’s host State.
+
+## Source Credit
+
+*([Pub. L. 119–27, § 5](https://www.govinfo.gov/link/plaw/119/public/27), July 18, 2025, [139 Stat. 439](https://www.govinfo.gov/link/statute/139/439).)*

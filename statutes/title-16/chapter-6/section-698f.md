@@ -3,9 +3,10 @@ title: "Section 698f - Big Cypress National Preserve; Big Cypress National Prese
 usc_title: 16
 usc_section: "698f"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 698f"
-generated_at: "2026-03-30T02:54:22.897Z"
+generated_at: "2026-11-23T21:25:51.726Z"
+status: "active"
 ---
 
 # § 698f. Big Cypress National Preserve; Big Cypress National Preserve Addition
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:54:22.897Z"
   - **(2)** Except as provided in paragraph (3), if the State of Florida transfers to the Secretary lands within the Addition, the Secretary shall pay to or reimburse the State of Florida (out of funds appropriated for such purpose) an amount equal to 80 percent of the total costs to the State of Florida of acquiring such lands.
   - **(3)** The amount described in paragraph (2) shall be reduced by an amount equal to 20 percent of the amount of the total cost incurred by the Secretary in acquiring lands in the Addition other than from the State of Florida.
   - **(4)** For purposes of this subsection, the term “total cost” means that amount of the total acquisition costs (including the value of exchanged or donated lands) less the amount of the costs incurred by the Federal Highway Administration and the Florida Department of Transportation, including severance damages paid to private property owners as a result of the construction of Interstate 75.
+
+Findings
+
+Purpose
+
+## Source Credit
+
+*([Pub. L. 93–440, § 1](https://www.govinfo.gov/link/plaw/93/public/440), Oct. 11, 1974, [88 Stat. 1258](https://www.govinfo.gov/link/statute/88/1258); [Pub. L. 100–301, § 4(a)](https://www.govinfo.gov/link/plaw/100/public/301) –(e), Apr. 29, 1988, [102 Stat. 444](https://www.govinfo.gov/link/statute/102/444), 445; [Pub. L. 108–483, § 2](https://www.govinfo.gov/link/plaw/108/public/483), Dec. 23, 2004, [118 Stat. 3920](https://www.govinfo.gov/link/statute/118/3920).)*

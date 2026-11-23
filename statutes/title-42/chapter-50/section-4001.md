@@ -3,9 +3,10 @@ title: "Section 4001 - Congressional findings and declaration of purpose"
 usc_title: 42
 usc_section: "4001"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4001"
-generated_at: "2026-03-30T02:56:11.193Z"
+generated_at: "2026-11-23T21:26:32.607Z"
+status: "active"
 ---
 
 # § 4001. Congressional findings and declaration of purpose
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.193Z"
 - **(d)** It is therefore the purpose of this chapter to (1) authorize a flood insurance program by means of which flood insurance, over a period of time, can be made available on a nationwide basis through the cooperative efforts of the Federal Government and the private insurance industry, and (2) provide flexibility in the program so that such flood insurance may be based on workable methods of pooling risks, minimizing costs, and distributing burdens equitably among those who will be protected by flood insurance and the general public.
 - **(e)** It is the further purpose of this chapter to (1) encourage State and local governments to make appropriate land use adjustments to constrict the development of land which is exposed to flood damage and minimize damage caused by flood losses, (2) guide the development of proposed future construction, where practicable, away from locations which are threatened by flood hazards, (3) encourage lending and credit institutions, as a matter of national policy, to assist in furthering the objectives of the flood insurance program, (4) assure that any Federal assistance provided under the program will be related closely to all flood-related programs and activities of the Federal Government, and (5) authorize continuing studies of flood hazards in order to provide for a constant reappraisal of the flood insurance program and its effect on land use requirements.
 - **(f)** The Congress also finds that (1) the damage and loss which results from mudslides is related in cause and similar in effect to that which results directly from storms, deluges, overflowing waters, and other forms of flooding, and (2) the problems involved in providing protection against this damage and loss, and the possibilities for making such protection available through a Federal or federally sponsored program, are similar to those which exist in connection with efforts to provide protection against damage and loss caused by such other forms of flooding. It is therefore the further purpose of this chapter to make available, by means of the methods, procedures, and instrumentalities which are otherwise established or available under this chapter for purposes of the flood insurance program, protection against damage and loss resulting from mudslides that are caused by accumulations of water on or under the ground.
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIII, § 1302](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 572](https://www.govinfo.gov/link/statute/82/572); [Pub. L. 91–152, title IV, § 409(a)](https://www.govinfo.gov/link/plaw/91/public/152), Dec. 24, 1969, [83 Stat. 397](https://www.govinfo.gov/link/statute/83/397); [Pub. L. 93–234, title I, § 108(a)](https://www.govinfo.gov/link/plaw/93/public/234), Dec. 31, 1973, [87 Stat. 979](https://www.govinfo.gov/link/statute/87/979); [Pub. L. 103–325, title V, § 552(d)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2269](https://www.govinfo.gov/link/statute/108/2269).)*

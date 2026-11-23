@@ -3,12 +3,17 @@ title: "Section 20912 - Registry requirements for jurisdictions"
 usc_title: 34
 usc_section: "20912"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20912"
-generated_at: "2026-03-30T02:55:33.300Z"
+generated_at: "2026-11-23T21:26:09.796Z"
+status: "active"
 ---
 
 # § 20912. Registry requirements for jurisdictions
 
 - **(a)** Each jurisdiction shall maintain a jurisdiction-wide sex offender registry conforming to the requirements of this subchapter.
 - **(b)** The Attorney General shall issue guidelines and regulations to interpret and implement this subchapter.
+
+## Source Credit
+
+*([Pub. L. 109–248, title I, § 112](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 593](https://www.govinfo.gov/link/statute/120/593).)*

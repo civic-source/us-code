@@ -3,9 +3,10 @@ title: "Section 7702 - Payments relating to Federal acquisition of real property
 usc_title: 20
 usc_section: "7702"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7702"
-generated_at: "2026-03-30T02:54:48.214Z"
+generated_at: "2026-11-23T21:25:47.594Z"
+status: "active"
 ---
 
 # § 7702. Payments relating to Federal acquisition of real property
@@ -95,3 +96,11 @@ generated_at: "2026-03-30T02:54:48.214Z"
   - **(2)** A local educational agency described in this paragraph is an agency that—
     - **(A)** was eligible for, and received, a payment under this section for fiscal year 2002; and
     - **(B)** beginning in fiscal year 2003 or a subsequent fiscal year, is no longer eligible for payments under this section as provided for in subsection (a)(1)(C) as a result of the transfer of the Federal property involved to a non-Federal entity.
+
+Effective date
+
+Implementation
+
+## Source Credit
+
+*([Pub. L. 89–10, title VII, § 7002](https://www.govinfo.gov/link/plaw/89/public/10), formerly title VIII, § 8002, as added [Pub. L. 103–382, title I, § 101](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 3749](https://www.govinfo.gov/link/statute/108/3749); amended [Pub. L. 104–195](https://www.govinfo.gov/link/plaw/104/public/195), §§ 1, 6, Sept. 16, 1996, [110 Stat. 2379](https://www.govinfo.gov/link/statute/110/2379), 2382; [Pub. L. 105–18, title VI](https://www.govinfo.gov/link/plaw/105/public/18), §§ 60004, 60006, June 12, 1997, [111 Stat. 214](https://www.govinfo.gov/link/statute/111/214), 215; [Pub. L. 105–78, title III](https://www.govinfo.gov/link/plaw/105/public/78), Nov. 13, 1997, [111 Stat. 1498](https://www.govinfo.gov/link/statute/111/1498); [Pub. L. 105–277, div. A, § 101(f) [title III]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–365; [Pub. L. 106–113, div. B, § 1000(a)(4) [title III]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1535](https://www.govinfo.gov/link/statute/113/1535), 1501A–247; [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title XVIII, § 1803], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–369; [Pub. L. 107–110, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/107/public/110) –(e), Jan. 8, 2002, [115 Stat. 1947](https://www.govinfo.gov/link/statute/115/1947), 1948; [Pub. L. 108–447, div. F, title III, § 305](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3151](https://www.govinfo.gov/link/statute/118/3151); [Pub. L. 112–239, div. A, title V, § 563(b)(1)](https://www.govinfo.gov/link/plaw/112/public/239), (c)(4), Jan. 2, 2013, [126 Stat. 1744](https://www.govinfo.gov/link/statute/126/1744), 1748; renumbered title VII, § 7002, and amended [Pub. L. 114–95, title VII](https://www.govinfo.gov/link/plaw/114/public/95), §§ 7001(a)(1), (c)(1), (d)(6), (9), 7003, Dec. 10, 2015, [129 Stat. 2074](https://www.govinfo.gov/link/statute/129/2074), 2075.)*

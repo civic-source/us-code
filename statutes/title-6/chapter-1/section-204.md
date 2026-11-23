@@ -3,9 +3,10 @@ title: "Section 204 - Surface Transportation Security Advisory Committee"
 usc_title: 6
 usc_section: "204"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 204"
-generated_at: "2026-03-30T02:53:09.450Z"
+generated_at: "2026-11-23T21:25:25.763Z"
+status: "active"
 ---
 
 # § 204. Surface Transportation Security Advisory Committee
@@ -78,3 +79,11 @@ generated_at: "2026-03-30T02:53:09.450Z"
     - **(A)** lists the members of the Advisory Committee; and
     - **(B)** provides the contact information for the Advisory Committee.
 - **(f)** The Federal Advisory Committee Act (5 U.S.C. App.) 1 1 See References in Text note below. shall not apply to the Advisory Committee or any subcommittee established under this section.
+
+Voting members
+
+Nonvoting members
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 404](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 115–254, div. K, title I, § 1969(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3609](https://www.govinfo.gov/link/statute/132/3609).)*

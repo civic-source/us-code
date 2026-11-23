@@ -3,9 +3,10 @@ title: "Section 8443 - Rights of a child"
 usc_title: 5
 usc_section: "8443"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8443"
-generated_at: "2026-03-30T02:52:56.061Z"
+generated_at: "2026-11-23T21:25:23.430Z"
+status: "active"
 ---
 
 # § 8443. Rights of a child
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:52:56.061Z"
     - **(C)** becomes 22 years of age if then such a student and capable of self-support;
     - **(D)** ceases to be such a student after becoming 18 years of age unless then incapable of self-support; or
     - **(E)** dies or marries;
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 563](https://www.govinfo.gov/link/statute/100/563); amended [Pub. L. 99–556, title I, § 117(a)](https://www.govinfo.gov/link/plaw/99/public/556), Oct. 27, 1986, [100 Stat. 3134](https://www.govinfo.gov/link/statute/100/3134); [Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 633(a)(2)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–314](https://www.govinfo.gov/link/statute/110/3009), 3009–363.)*

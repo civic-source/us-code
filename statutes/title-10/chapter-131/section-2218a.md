@@ -3,9 +3,10 @@ title: "Section 2218a - National Sea-Based Deterrence Fund"
 usc_title: 10
 usc_section: "2218a"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2218a"
-generated_at: "2026-03-30T02:53:38.149Z"
+generated_at: "2026-11-23T21:25:32.575Z"
+status: "active"
 ---
 
 # § 2218a. National Sea-Based Deterrence Fund
@@ -63,3 +64,31 @@ generated_at: "2026-03-30T02:53:38.149Z"
     - **(X)** Decks and superstructure.
     - **(Y)** Castings, forgings, and tank structure.
     - **(Z)** Hatches and hull penetrators.
+
+Establishment
+
+Administration of Fund
+
+Fund Purposes
+
+Deposits
+
+Expiration of Funds After
+
+Years
+
+Authority to Enter Into Economic Order Quantity Contracts
+
+Authority to Begin Manufacturing and Fabrication Efforts Prior to Ship Authorization
+
+Authority to Use Incremental Funding to Enter Into Contracts for Certain Items
+
+Authority for Multiyear Procurement of Critical Components to Support Continuous Production
+
+Budget Requests
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 113–291, div. A, title X, § 1022(a)(1)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3486](https://www.govinfo.gov/link/statute/128/3486); amended [Pub. L. 114–92, div. A, title X, § 1022(a)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 965](https://www.govinfo.gov/link/statute/129/965); [Pub. L. 114–328, div. A, title X, § 1023](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2388](https://www.govinfo.gov/link/statute/130/2388); [Pub. L. 115–91, div. A, title X, § 1022](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1548](https://www.govinfo.gov/link/statute/131/1548); [Pub. L. 116–283, div. A, title X, § 1023(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3840](https://www.govinfo.gov/link/statute/134/3840); [Pub. L. 118–31, div. A, title X, § 1016](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 382](https://www.govinfo.gov/link/statute/137/382).)*

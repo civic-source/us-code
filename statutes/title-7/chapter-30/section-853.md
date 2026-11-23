@@ -3,9 +3,10 @@ title: "Section 853 - Terms and conditions of marketing agreements"
 usc_title: 7
 usc_section: "853"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 853"
-generated_at: "2026-03-30T02:53:42.294Z"
+generated_at: "2026-11-23T21:25:27.995Z"
+status: "active"
 ---
 
 # § 853. Terms and conditions of marketing agreements
@@ -14,3 +15,7 @@ Marketing agreements entered into pursuant to section 852 of this title shall co
 
 - **(a)** One or more of the terms and conditions specified in subsection (7) of section 608c of this title .
 - **(b)** Terms and conditions requiring each manufacturer to have in inventory in his own possession on April 1 of each year a reserve supply of completed serum equivalent to not less than 40 per centum of his previous year’s sales of all serum, except that any marketing agreement may provide that upon written application by a manufacturer filed before September 1 of the preceding year, the Secretary may fix another date between January 1 and May 1 on which such manufacturer shall have such inventory if the Secretary finds that such actions will tend to effectuate the purposes of section 851 of this title . The Secretary may impose such terms and conditions upon granting any such application as he finds necessary to effectuate the purposes of section 851 of this title . Serum used in computing the required reserve supply of any manufacturer shall not again be used in computing the required reserve supply of any other manufacturer.
+
+## Source Credit
+
+*(Aug. 24, 1935, ch. 641, § 58, [49 Stat. 781](https://www.govinfo.gov/link/statute/49/781); [Pub. L. 85–574](https://www.govinfo.gov/link/plaw/85/public/574), July 31, 1958, [72 Stat. 454](https://www.govinfo.gov/link/statute/72/454).)*

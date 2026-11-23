@@ -3,9 +3,10 @@ title: "Section 14404 - Restriction on use of Federal funds by advocacy programs
 usc_title: 42
 usc_section: "14404"
 chapter: 138
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 14404"
-generated_at: "2026-03-30T02:56:11.452Z"
+generated_at: "2026-11-23T21:26:33.639Z"
+status: "active"
 ---
 
 # § 14404. Restriction on use of Federal funds by advocacy programs
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.452Z"
     - **(D)** Ombudsman programs under the Older Americans Act of 1965 [ 42 U.S.C. 3001 et seq.].
     - **(E)** Legal assistance programs under the Legal Services Corporation Act [ 42 U.S.C. 2996 et seq.].
   - **(2)** Nothing in this subsection shall be construed as limiting the application of subsection (a) to the programs specified in paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 105–12, § 5](https://www.govinfo.gov/link/plaw/105/public/12), Apr. 30, 1997, [111 Stat. 25](https://www.govinfo.gov/link/statute/111/25); [Pub. L. 106–402, title IV, § 401(b)(15)(B)](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1740](https://www.govinfo.gov/link/statute/114/1740).)*

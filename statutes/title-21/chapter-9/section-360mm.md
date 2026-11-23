@@ -3,9 +3,10 @@ title: "Section 360mm - Imports"
 usc_title: 21
 usc_section: "360mm"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 360mm"
-generated_at: "2026-03-30T02:54:54.254Z"
+generated_at: "2026-11-23T21:25:56.095Z"
+status: "active"
 ---
 
 # § 360mm. Imports
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:54.254Z"
 - **(b)** If it appears to the Secretary of Health and Human Services that any electronic product refused admission pursuant to subsection (a) of this section can be brought into compliance with applicable standards prescribed pursuant to section 360kk of this title , final determination as to admission of such electronic product may be deferred upon filing of timely written application by the owner or consignee and the execution by him of a good and sufficient bond providing for the payment of such liquidated damages in the event of default as the Secretary of Health and Human Services may by regulation prescribe. If such application is filed and such bond is executed the Secretary of Health and Human Services may, in accordance with rules prescribed by him, permit the applicant to perform such operations with respect to such electronic product as may be specified in the notice of permission.
 - **(c)** All expenses (including travel, per diem or subsistence, and salaries of officers or employees of the United States) in connection with the destruction provided for in subsection (a) of this section and the supervision of operations provided for in subsection (b) of this section, and all expenses in connection with the storage, cartage, or labor with respect to any electronic product refused admission pursuant to subsection (a) of this section, shall be paid by the owner or consignee, and, in event of default, shall constitute a lien against any future importations made by such owner or consignee.
 - **(d)** It shall be the duty of every manufacturer offering an electronic product for importation into the United States to designate in writing an agent upon whom service of all administrative and judicial processes, notices, orders, decisions, and requirements may be made for and on behalf of said manufacturer, and to file such designation with the Secretary, which designation may from time to time be changed by like writing, similarly filed. Service of all administrative and judicial processes, notices, orders, decisions, and requirements may be made upon said manufacturer by service upon such designated agent at his office or usual place of residence with like effect as if made personally upon said manufacturer, and in default of such designation of such agent, service of process, notice, order, requirement, or decision in any proceeding before the Secretary or in any judicial proceeding for enforcement of this part or any standards prescribed pursuant to this part may be made by posting such process, notice, order, requirement, or decision in the Office of the Secretary or in a place designated by him by regulation.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 536, formerly act July 1, 1944, ch. 373, title III, § 536, formerly § 360, as added [Pub. L. 90–602, § 2(3)](https://www.govinfo.gov/link/plaw/90/public/602), Oct. 18, 1968, [82 Stat. 1181](https://www.govinfo.gov/link/statute/82/1181); renumbered § 536 and amended [Pub. L. 101–629, § 19(a)(1)(B)](https://www.govinfo.gov/link/plaw/101/public/629), (2)(D), (3), (4), Nov. 28, 1990, [104 Stat. 4529](https://www.govinfo.gov/link/statute/104/4529), 4530; [Pub. L. 102–300, § 6(b)(1)](https://www.govinfo.gov/link/plaw/102/public/300), June 16, 1992, [106 Stat. 240](https://www.govinfo.gov/link/statute/106/240); [Pub. L. 103–80, § 4(a)(2)](https://www.govinfo.gov/link/plaw/103/public/80), Aug. 13, 1993, [107 Stat. 779](https://www.govinfo.gov/link/statute/107/779).)*

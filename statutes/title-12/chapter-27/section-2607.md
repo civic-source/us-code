@@ -3,9 +3,10 @@ title: "Section 2607 - Prohibition against kickbacks and unearned fees"
 usc_title: 12
 usc_section: "2607"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2607"
-generated_at: "2026-03-30T02:53:53.487Z"
+generated_at: "2026-11-23T21:25:37.105Z"
+status: "active"
 ---
 
 # § 2607. Prohibition against kickbacks and unearned fees
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:53.487Z"
   - **(4)** The Bureau, the Secretary, or the attorney general or the insurance commissioner of any State may bring an action to enjoin violations of this section. Except, to the extent that a person is subject to the jurisdiction of the Bureau, the Secretary, or the attorney general or the insurance commissioner of any State, the Bureau shall have primary authority to enforce or administer this section, subject to subtitle B of the Consumer Financial Protection Act of 2010 [ 12 U.S.C. 5511 et seq.].
   - **(5)** In any private action brought pursuant to this subsection, the court may award to the prevailing party the court costs of the action together with reasonable attorneys fees.
   - **(6)** No provision of State law or regulation that imposes more stringent limitations on affiliated business arrangements shall be construed as being inconsistent with this section.
+
+## Source Credit
+
+*([Pub. L. 93–533, § 8](https://www.govinfo.gov/link/plaw/93/public/533), Dec. 22, 1974, [88 Stat. 1727](https://www.govinfo.gov/link/statute/88/1727); [Pub. L. 94–205, § 7](https://www.govinfo.gov/link/plaw/94/public/205), Jan. 2, 1976, [89 Stat. 1158](https://www.govinfo.gov/link/statute/89/1158); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title IV, § 461(b), (c)], Nov. 30, 1983, [97 Stat. 1231](https://www.govinfo.gov/link/statute/97/1231); [Pub. L. 100–242, title V, § 570(g)](https://www.govinfo.gov/link/plaw/100/public/242), Feb. 5, 1988, [101 Stat. 1950](https://www.govinfo.gov/link/statute/101/1950); [Pub. L. 102–54, § 13(d)(4)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 275](https://www.govinfo.gov/link/statute/105/275); [Pub. L. 104–208, div. A, title II, § 2103(c)(2)](https://www.govinfo.gov/link/plaw/104/public/208), (d), Sept. 30, 1996, [110 Stat. 3009–400](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 111–203, title X, § 1098(6)](https://www.govinfo.gov/link/plaw/111/public/203), (7), July 21, 2010, [124 Stat. 2104](https://www.govinfo.gov/link/statute/124/2104).)*

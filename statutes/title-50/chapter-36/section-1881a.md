@@ -3,9 +3,10 @@ title: "Section 1881a - Procedures for targeting certain persons outside the Uni
 usc_title: 50
 usc_section: "1881a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1881a"
-generated_at: "2026-03-30T02:56:26.211Z"
+generated_at: "2026-11-23T21:26:38.944Z"
+status: "active"
 ---
 
 # § 1881a. Procedures for targeting certain persons outside the United States other than United States persons
@@ -228,3 +229,27 @@ generated_at: "2026-03-30T02:56:26.211Z"
   - **(1)** The Federal Bureau of Investigation may not ingest unminimized information acquired under this section into its analytic repositories unless the targeted person is relevant to an existing, open, predicated full national security investigation by the Federal Bureau of Investigation.
   - **(2)** Paragraph (1) does not apply if the Director of the Federal Bureau of Investigation decides it is necessary due to exigent circumstances and provides notification within three business days to the congressional intelligence committees, the Speaker and minority leader of the House of Representatives, and the majority and minority leaders of the Senate.
   - **(3)** Paragraph (1) does not apply where the Federal Bureau of Investigation has agreed to provide technical, analytical, or linguistic assistance at the request of another Federal agency.
+
+Audits required
+
+Applicability
+
+Sunset
+
+Appropriate congressional committees defined
+
+Sense of Congress on the Targeted Collection of United States Person Information
+
+Annual Audit of Targeting Decisions Under Section 702.—
+
+Mandatory review
+
+Inspector general audit
+
+Certification
+
+Application
+
+## Source Credit
+
+*([Pub. L. 95–511, title VII, § 702](https://www.govinfo.gov/link/plaw/95/public/511), as added [Pub. L. 110–261, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/110/public/261), July 10, 2008, [122 Stat. 2438](https://www.govinfo.gov/link/statute/122/2438); amended [Pub. L. 114–23, title III, § 301](https://www.govinfo.gov/link/plaw/114/public/23), June 2, 2015, [129 Stat. 278](https://www.govinfo.gov/link/statute/129/278); [Pub. L. 115–118, title I](https://www.govinfo.gov/link/plaw/115/public/118), §§ 101(a)(1), (b)(1), 103, formerly 103(a), (b)(5), 104, title II, § 205(a)(6), Jan. 19, 2018, [132 Stat. 4](https://www.govinfo.gov/link/statute/132/4), 6, 10, 12, 13, 21, renumbered § 103, [Pub. L. 118–49, § 22(b)(2)(B)](https://www.govinfo.gov/link/plaw/118/public/49), Apr. 20, 2024, [138 Stat. 892](https://www.govinfo.gov/link/statute/138/892); [Pub. L. 118–49](https://www.govinfo.gov/link/plaw/118/public/49), §§ 2(a), (b), (d)–3, 16(a)(1), 22(a), (b)(1), 24, Apr. 20, 2024, [138 Stat. 862](https://www.govinfo.gov/link/statute/138/862), 863–866, 883, 892, 893.)*

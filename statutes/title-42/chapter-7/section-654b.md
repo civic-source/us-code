@@ -3,9 +3,10 @@ title: "Section 654b - Collection and disbursement of support payments"
 usc_title: 42
 usc_section: "654b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 654b"
-generated_at: "2026-03-30T02:56:10.883Z"
+generated_at: "2026-11-23T21:26:31.129Z"
+status: "active"
 ---
 
 # § 654b. Collection and disbursement of support payments
@@ -27,3 +28,11 @@ generated_at: "2026-03-30T02:56:10.883Z"
   - **(1)** Except as provided in paragraph (2), the State disbursement unit shall distribute all amounts payable under section 657(a) of this title within 2 business days after receipt from the employer or other source of periodic income, if sufficient information identifying the payee is provided. The date of collection for amounts collected and distributed under this part is the date of receipt by the State disbursement unit, except that if current support is withheld by an employer in the month when due and is received by the State disbursement unit in a month other than the month when due, the date of withholding may be deemed to be the date of collection.
   - **(2)** The State disbursement unit may delay the distribution of collections toward arrearages until the resolution of any timely appeal with respect to such arrearages.
 - **(d)** As used in this section, the term “business day” means a day on which State offices are open for regular business.
+
+In general
+
+Limited exception to unit handling payments
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 454B, as added [Pub. L. 104–193, title III, § 312(b)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2207](https://www.govinfo.gov/link/statute/110/2207); amended [Pub. L. 105–33, title V, § 5549](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 633](https://www.govinfo.gov/link/statute/111/633).)*

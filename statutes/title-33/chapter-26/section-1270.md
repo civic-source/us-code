@@ -3,9 +3,10 @@ title: "Section 1270 - Patrick Leahy Lake Champlain Basin Program"
 usc_title: 33
 usc_section: "1270"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1270"
-generated_at: "2026-03-30T02:55:41.085Z"
+generated_at: "2026-11-23T21:26:11.365Z"
+status: "active"
 ---
 
 # § 1270. Patrick Leahy Lake Champlain Basin Program
@@ -55,3 +56,25 @@ generated_at: "2026-03-30T02:55:41.085Z"
   - **(2)** provides new regulatory authority for the Environmental Protection Agency; or
   - **(3)** affects section 304 of the Great Lakes Critical Programs Act of 1990 ( Public Law 101–596 ; 33 U.S.C. 1270 note).
 - **(i)** There is authorized to be appropriated to the Administrator to carry out this section $35,000,000 for each of fiscal years 2023 through 2027, to remain available until expended.
+
+Designation of Lake Champlain as a Priority Area Under the Environmental Quality Incentives Program.—
+
+In general
+
+Technical assistance reimbursement
+
+Comprehensive agricultural monitoring
+
+Allocation of funds
+
+Cooperation of the United States Geological Survey of the Department of the Interior
+
+Cooperation of the United States Fish and Wildlife Service of the Department of the Interior.—
+
+Resource conservation program
+
+Authorizations
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title I, § 120, as added [Pub. L. 101–596, title III, § 303](https://www.govinfo.gov/link/plaw/101/public/596), Nov. 16, 1990, [104 Stat. 3006](https://www.govinfo.gov/link/statute/104/3006); amended [Pub. L. 107–303, title II, § 202](https://www.govinfo.gov/link/plaw/107/public/303), Nov. 27, 2002, [116 Stat. 2358](https://www.govinfo.gov/link/statute/116/2358); [Pub. L. 117–328, div. O, title IV, § 404(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5228](https://www.govinfo.gov/link/statute/136/5228).)*

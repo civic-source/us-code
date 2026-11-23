@@ -3,9 +3,10 @@ title: "Section 2021c - Responsibilities for disposal of low-level radioactive w
 usc_title: 42
 usc_section: "2021c"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2021c"
-generated_at: "2026-03-30T02:56:11.146Z"
+generated_at: "2026-11-23T21:26:32.318Z"
+status: "active"
 ---
 
 # § 2021c. Responsibilities for disposal of low-level radioactive waste
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:11.146Z"
     - **(E)** an identification of the options for ensuring that the beneficiaries of the activities resulting in the generation of such radioactive wastes bear all reasonable costs of disposing of such wastes; and
     - **(F)** an identification of any statutory authority required for disposal of such waste.
   - **(4)** The Secretary may not dispose of any radioactive waste designated a Federal responsibility pursuant to paragraph (b)(1)(D) that becomes a Federal responsibility for the first time pursuant to such paragraph until ninety days after the report prepared pursuant to paragraph (3) has been submitted to the Congress.
+
+## Source Credit
+
+*([Pub. L. 96–573, § 3](https://www.govinfo.gov/link/plaw/96/public/573), as added [Pub. L. 99–240, title I, § 102](https://www.govinfo.gov/link/plaw/99/public/240), Jan. 15, 1986, [99 Stat. 1843](https://www.govinfo.gov/link/statute/99/1843).)*

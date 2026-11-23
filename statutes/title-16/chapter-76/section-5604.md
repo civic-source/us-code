@@ -3,9 +3,10 @@ title: "Section 5604 - Interagency cooperation"
 usc_title: 16
 usc_section: "5604"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 5604"
-generated_at: "2026-03-30T02:54:23.053Z"
+generated_at: "2026-11-23T21:25:52.032Z"
+status: "active"
 ---
 
 # § 5604. Interagency cooperation
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:23.053Z"
 - **(b)** The head of any Federal agency may—
   - **(1)** cooperate in the conduct of scientific and other programs, and furnish facilities and personnel, for the purposes of assisting the Organization in carrying out its duties under the Convention; and
   - **(2)** accept reimbursement from the Organization for providing such services, facilities, and personnel.
+
+## Source Credit
+
+*([Pub. L. 104–43, title II, § 205](https://www.govinfo.gov/link/plaw/104/public/43), Nov. 3, 1995, [109 Stat. 379](https://www.govinfo.gov/link/statute/109/379); [Pub. L. 114–327, title V, § 505](https://www.govinfo.gov/link/plaw/114/public/327), Dec. 16, 2016, [130 Stat. 1996](https://www.govinfo.gov/link/statute/130/1996).)*

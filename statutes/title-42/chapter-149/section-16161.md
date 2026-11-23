@@ -3,9 +3,10 @@ title: "Section 16161 - Solar and wind technologies"
 usc_title: 42
 usc_section: "16161"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16161"
-generated_at: "2026-03-30T02:56:11.470Z"
+generated_at: "2026-11-23T21:26:33.702Z"
+status: "active"
 ---
 
 # § 16161. Solar and wind technologies
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:56:11.470Z"
   - **(3)** the term “part B institution” has the meaning given to that term in section 1061 of title 20 ; and
   - **(4)** the term “photovoltaic devices” means devices that convert light directly into electricity through a solid-state, semiconductor process.
 - **(g)** There is authorized to be appropriated such sums as are necessary for carrying out the activities under this section for each of fiscal years 2006 through 2020.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VIII, § 812](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 853](https://www.govinfo.gov/link/statute/119/853).)*

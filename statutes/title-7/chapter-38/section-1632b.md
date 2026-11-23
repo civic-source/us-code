@@ -3,9 +3,10 @@ title: "Section 1632b - Agriculture Innovation Center Demonstration Program"
 usc_title: 7
 usc_section: "1632b"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1632b"
-generated_at: "2026-03-30T02:53:42.331Z"
+generated_at: "2026-11-23T21:25:28.135Z"
+status: "active"
 ---
 
 # § 1632b. Agriculture Innovation Center Demonstration Program
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:53:42.331Z"
   - **(5)** Legal services.
   - **(6)** Any other related cost, as determined by the Secretary.
 - **(g)** There are authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2019 through 2023.
+
+## Source Credit
+
+*([Pub. L. 107–171, title VI, § 6402](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 426](https://www.govinfo.gov/link/statute/116/426); [Pub. L. 110–234, title VI, § 6203](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1207](https://www.govinfo.gov/link/statute/122/1207); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VI, § 6203, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1969; [Pub. L. 113–79, title VI, § 6204](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 857](https://www.govinfo.gov/link/statute/128/857); [Pub. L. 115–334, title VII, § 7608](https://www.govinfo.gov/link/plaw/115/public/334), title X, § 10102(c)(2), Dec. 20, 2018, [132 Stat. 4829](https://www.govinfo.gov/link/statute/132/4829), 4898; [Pub. L. 117–103, div. A, title VII, § 777](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 99](https://www.govinfo.gov/link/statute/136/99).)*

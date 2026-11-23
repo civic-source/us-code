@@ -3,9 +3,10 @@ title: "Section 1828a - Prudential safeguards"
 usc_title: 12
 usc_section: "1828a"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1828a"
-generated_at: "2026-03-30T02:53:53.456Z"
+generated_at: "2026-11-23T21:25:37.009Z"
+status: "active"
 ---
 
 # § 1828a. Prudential safeguards
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:53:53.456Z"
   - **(2)** The Federal Deposit Insurance Corporation shall regularly—
     - **(A)** review all restrictions or requirements established pursuant to paragraph (1) to determine whether there is a continuing need for any such restriction or requirement to carry out the purposes of the Act, including the avoidance of any adverse effect referred to in paragraph (1)(B); and
     - **(B)** modify or eliminate any such restriction or requirement the Corporation finds is no longer required for such purposes.
+
+## Source Credit
+
+*([Pub. L. 106–102, title I, § 114](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1369](https://www.govinfo.gov/link/statute/113/1369); [Pub. L. 109–173, § 9(i)](https://www.govinfo.gov/link/plaw/109/public/173), Feb. 15, 2006, [119 Stat. 3618](https://www.govinfo.gov/link/statute/119/3618).)*

@@ -3,9 +3,10 @@ title: "Section 9858l - Nondiscrimination"
 usc_title: 42
 usc_section: "9858l"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9858l"
-generated_at: "2026-03-30T02:56:11.375Z"
+generated_at: "2026-11-23T21:26:33.316Z"
+status: "active"
 ---
 
 # § 9858l. Nondiscrimination
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.375Z"
     - **(C)** This paragraph shall not apply to employees of child care providers receiving assistance under this subchapter if such employees are employed with the provider on November 5, 1990 .
   - **(4)** Notwithstanding paragraphs (1)(B), (2), and (3), if assistance provided under this subchapter, and any other Federal or State program, amounts to 80 percent or more of the operating budget of a child care provider that receives such assistance, the Secretary shall not permit such provider to receive any further assistance under this subchapter unless the grant or contract relating to the financial assistance, or the employment and admissions policies of the provider, specifically provides that no person with responsibilities in the operation of the child care program, project, or activity of the provider will discriminate against any individual in employment, if such employee’s primary responsibility is or will be working directly with children in the provision of child care, or admissions because of the religion of such individual.
 - **(b)** Nothing in this subchapter shall be construed to supersede or modify any provision of a State constitution or State law that prohibits the expenditure of public funds in or by sectarian institutions, except that no provision of a State constitution or State law shall be construed to prohibit the expenditure in or by sectarian institutions of any Federal funds provided under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 658N](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 101–508, title V, § 5082(2)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–245](https://www.govinfo.gov/link/statute/104/1388); amended [Pub. L. 102–401, § 3(a)](https://www.govinfo.gov/link/plaw/102/public/401), Oct. 7, 1992, [106 Stat. 1959](https://www.govinfo.gov/link/statute/106/1959); [Pub. L. 102–586, § 8(c)(1)](https://www.govinfo.gov/link/plaw/102/public/586), Nov. 4, 1992, [106 Stat. 5036](https://www.govinfo.gov/link/statute/106/5036).)*

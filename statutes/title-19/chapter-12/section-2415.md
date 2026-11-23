@@ -3,9 +3,10 @@ title: "Section 2415 - Implementation of actions"
 usc_title: 19
 usc_section: "2415"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2415"
-generated_at: "2026-03-30T02:54:24.673Z"
+generated_at: "2026-11-23T21:25:42.802Z"
+status: "active"
 ---
 
 # § 2415. Implementation of actions
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:24.673Z"
       - **(i)** earn their livelihood in the private sector of the economy, including individuals who represent management and labor in the domestic industry affected by the export targeting that is the subject of the affirmative determination made under section 2414(a)(1)(A) of this title , and
       - **(ii)** by education or experience, are qualified to serve on the advisory panel.
     - **(B)** By no later than the date that is 6 months after the date on which an advisory panel is established under paragraph (1)(A), the advisory panel shall submit to the Trade Representative and to the Congress a report on measures that the advisory panel recommends be taken by the United States to promote the competitiveness of the domestic industry affected by the export targeting that is the subject of the affirmative determination made under section 2414(a)(1)(A) of this title .
+
+## Source Credit
+
+*([Pub. L. 93–618, title III, § 305](https://www.govinfo.gov/link/plaw/93/public/618), as added [Pub. L. 96–39, title IX, § 901](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 299](https://www.govinfo.gov/link/statute/93/299); amended [Pub. L. 98–573, title III, § 304(g)](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 3006](https://www.govinfo.gov/link/statute/98/3006); [Pub. L. 100–418, title I, § 1301(a)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1172](https://www.govinfo.gov/link/statute/102/1172); [Pub. L. 108–429, title II, § 2201(c)](https://www.govinfo.gov/link/plaw/108/public/429), Dec. 3, 2004, [118 Stat. 2599](https://www.govinfo.gov/link/statute/118/2599).)*

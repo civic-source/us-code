@@ -3,9 +3,10 @@ title: "Section 3903 - Regulations"
 usc_title: 31
 usc_section: "3903"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 3903"
-generated_at: "2026-03-30T02:55:34.062Z"
+generated_at: "2026-11-23T21:26:10.601Z"
+status: "active"
 ---
 
 # § 3903. Regulations
@@ -51,3 +52,22 @@ generated_at: "2026-03-30T02:55:34.062Z"
     - **(A)** compute the interest which a contractor shall be obligated to pay under sections 3905(a)(2) and 3905(e)(6) of this title on the basis of the average bond equivalent rates of 91-day Treasury bills auctioned at the most recent auction of such bills prior to the date the contractor received the unearned amount; and
     - **(B)** deduct the interest amount determined under subparagraph (A) of this paragraph from the next available payment to the contractor.
   - **(2)** Amounts deducted from payments to contractors under paragraph (1)(B) shall revert to the Treasury.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3903 | 31 App.:1801(a)(2). | May 21, 1982 , Pub. L. 97–177, § 2(a)(2) , 96 Stat. 85 . |
+
+
+Historical and Revision Notes
+
+3903
+
+May 21, 1982
+
+Pub. L. 97–177, § 2(a)(2)
+
+96 Stat. 85
+
+## Source Credit
+
+*(Added [Pub. L. 97–452, § 1(18)(A)](https://www.govinfo.gov/link/plaw/97/public/452), Jan. 12, 1983, [96 Stat. 2476](https://www.govinfo.gov/link/statute/96/2476); amended [Pub. L. 100–496](https://www.govinfo.gov/link/plaw/100/public/496), §§ 4–7, 13(a), Oct. 17, 1988, [102 Stat. 2457–2459](https://www.govinfo.gov/link/statute/102/2457), 2465; [Pub. L. 102–190, div. A, title VIII, § 842](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1449](https://www.govinfo.gov/link/statute/105/1449); [Pub. L. 106–65, div. A, title X, § 1009](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 738](https://www.govinfo.gov/link/statute/113/738); [Pub. L. 116–92, div. A, title VIII, § 873](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1527](https://www.govinfo.gov/link/statute/133/1527).)*

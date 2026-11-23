@@ -3,9 +3,10 @@ title: "Section 931 - Penalty for misrepresentation"
 usc_title: 33
 usc_section: "931"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 931"
-generated_at: "2026-03-30T02:55:41.077Z"
+generated_at: "2026-11-23T21:26:11.352Z"
+status: "active"
 ---
 
 # § 931. Penalty for misrepresentation
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:41.077Z"
   - **(3)** No employee shall be liable to pay a representation fee to any representative whose fee has been disallowed by reason of the operation of this paragraph.
   - **(4)** The Secretary shall issue such rules and regulations as are necessary to carry out this section.
 - **(c)** A person including, but not limited to, an employer, his duly authorized agent, or an employee of an insurance carrier who knowingly and willfully makes a false statement or representation for the purpose of reducing, denying, or terminating benefits to an injured employee, or his dependents pursuant to section 909 of this title if the injury results in death, shall be punished by a fine not to exceed $10,000, by imprisonment not to exceed five years, or by both.
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 509, § 31, [44 Stat. 1439](https://www.govinfo.gov/link/statute/44/1439); [Pub. L. 98–426, § 19](https://www.govinfo.gov/link/plaw/98/public/426), Sept. 28, 1984, [98 Stat. 1650](https://www.govinfo.gov/link/statute/98/1650).)*

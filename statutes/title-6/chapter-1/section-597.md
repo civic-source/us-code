@@ -3,9 +3,10 @@ title: "Section 597 - Chief Medical Officer"
 usc_title: 6
 usc_section: "597"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 597"
-generated_at: "2026-03-30T02:53:09.471Z"
+generated_at: "2026-11-23T21:25:25.810Z"
+status: "active"
 ---
 
 # § 597. Chief Medical Officer
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:09.471Z"
   - **(3)** as appropriate, providing medical liaisons to the components of the Department, on a reimbursable basis, to provide subject matter expertise on operational medical issues;
   - **(4)** coordinating with Federal, State, local, and Tribal governments, the medical community, and others within and outside the Department, including the Centers for Disease Control and Prevention and the Office of the Assistant Secretary for Preparedness and Response of the Department of Health and Human Services, with respect to medical and public health matters; and
   - **(5)** performing such other duties relating to such responsibilities as the Secretary may require.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XIX, § 1931](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 115–387, § 2(c)(2)](https://www.govinfo.gov/link/plaw/115/public/387), Dec. 21, 2018, [132 Stat. 5166](https://www.govinfo.gov/link/statute/132/5166).)*

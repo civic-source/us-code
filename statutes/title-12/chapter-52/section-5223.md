@@ -3,9 +3,10 @@ title: "Section 5223 - Minimization of long-term costs and maximization of benef
 usc_title: 12
 usc_section: "5223"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5223"
-generated_at: "2026-03-30T02:53:53.525Z"
+generated_at: "2026-11-23T21:25:37.233Z"
+status: "active"
 ---
 
 # § 5223. Minimization of long-term costs and maximization of benefits for taxpayers
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:53.525Z"
   - **(3)**
     - **(A)** The Secretary shall establish de minimis exceptions to the requirements of this subsection, based on the size of the cumulative transactions of troubled assets purchased from any one financial institution for the duration of the program, at not more than $100,000,000.
     - **(B)** The Secretary shall establish an exception to the requirements of this subsection and appropriate alternative requirements for any participating financial institution that is legally prohibited from issuing securities and debt instruments, so as not to allow circumvention of the requirements of this section.
+
+## Source Credit
+
+*([Pub. L. 110–343, div. A, title I, § 113](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3777](https://www.govinfo.gov/link/statute/122/3777).)*

@@ -3,9 +3,10 @@ title: "Section 30125 - Schoolbuses and schoolbus equipment"
 usc_title: 49
 usc_section: "30125"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 30125"
-generated_at: "2026-03-30T02:56:19.352Z"
+generated_at: "2026-11-23T21:26:40.761Z"
+status: "active"
 ---
 
 # § 30125. Schoolbuses and schoolbus equipment
@@ -23,3 +24,71 @@ generated_at: "2026-03-30T02:56:19.352Z"
   - **(7)** windows and windshields; and
   - **(8)** fuel systems.
 - **(c)** The Secretary may require by regulation a schoolbus to be test-driven by a manufacturer before introduction in commerce.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30125(a) | 15:1391(14), (15). | Sept. 9, 1966 , Pub. L. 89–563 , 80 Stat. 718 , § 102(14), (15); added Oct. 27, 1974 , Pub. L. 93–492, § 201 , 88 Stat. 1484 . |
+| 30125(b) | 15:1392(i)(1). | Sept. 9, 1966 , Pub. L. 89–563 , 80 Stat. 718 , § 103(i)(1), (2); added Oct. 27, 1974 , Pub. L. 93–492, § 202 , 88 Stat. 1484 ; July 8, 1976 , Pub. L. 94–346, § 2 , 90 Stat. 815 . |
+| 30125(c) | 15:1392(i)(2). |  |
+|  | 15:1397(a)(1)(F). | Sept. 9, 1966 , Pub. L. 89–563 , 80 Stat. 718 , § 108(a)(1)(F); added Oct. 27, 1974 , Pub. L. 93–492, § 203 , 88 Stat. 1485 . |
+
+
+Definitions
+
+Standards
+
+Test Driving by Manufacturers
+
+Historical and Revision Notes
+
+30125(a)
+
+Sept. 9, 1966
+
+Pub. L. 89–563
+
+80 Stat. 718
+
+Oct. 27, 1974
+
+Pub. L. 93–492, § 201
+
+88 Stat. 1484
+
+30125(b)
+
+Sept. 9, 1966
+
+Pub. L. 89–563
+
+80 Stat. 718
+
+Oct. 27, 1974
+
+Pub. L. 93–492, § 202
+
+88 Stat. 1484
+
+July 8, 1976
+
+Pub. L. 94–346, § 2
+
+90 Stat. 815
+
+30125(c)
+
+Sept. 9, 1966
+
+Pub. L. 89–563
+
+80 Stat. 718
+
+Oct. 27, 1974
+
+Pub. L. 93–492, § 203
+
+88 Stat. 1485
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 957](https://www.govinfo.gov/link/statute/108/957).)*

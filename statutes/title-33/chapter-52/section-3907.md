@@ -3,9 +3,10 @@ title: "Section 3907 - Determination of eligibility and project selection"
 usc_title: 33
 usc_section: "3907"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3907"
-generated_at: "2026-03-30T02:55:41.145Z"
+generated_at: "2026-11-23T21:26:11.492Z"
+status: "active"
 ---
 
 # § 3907. Determination of eligibility and project selection
@@ -67,3 +68,7 @@ generated_at: "2026-03-30T02:55:41.145Z"
     - **(K)** The extent to which assistance under this chapter reduces the contribution of Federal assistance to the project.
   - **(3)** For a project described in section 3905(9) of this title , the Administrator shall only consider the criteria described in subparagraphs (B) through (K) of paragraph (2).
 - **(c)** Nothing in this section supersedes the applicability of other requirements of Federal law (including regulations).
+
+## Source Credit
+
+*([Pub. L. 113–121, title V, § 5028](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1335](https://www.govinfo.gov/link/statute/128/1335); [Pub. L. 114–94, div. A, title I, § 1445](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1437](https://www.govinfo.gov/link/statute/129/1437); [Pub. L. 114–322, title IV, § 5008(b)(2)(D)](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1897](https://www.govinfo.gov/link/statute/130/1897); [Pub. L. 115–270, title IV, § 4201(a)(2)](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3877](https://www.govinfo.gov/link/statute/132/3877); [Pub. L. 117–58, div. E, title II, § 50214](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1173](https://www.govinfo.gov/link/statute/135/1173).)*

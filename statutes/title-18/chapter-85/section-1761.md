@@ -3,9 +3,10 @@ title: "Section 1761 - Transportation or importation"
 usc_title: 18
 usc_section: "1761"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1761"
-generated_at: "2026-03-30T02:54:16.491Z"
+generated_at: "2026-11-23T21:25:44.093Z"
+status: "active"
 ---
 
 # § 1761. Transportation or importation
@@ -23,3 +24,9 @@ generated_at: "2026-03-30T02:54:16.491Z"
   - **(4)** have participated in such employment voluntarily and have agreed in advance to the specific deductions made from gross wages pursuant to this section, and all other financial arrangements as a result of participation in such employment.
 - **(d)** This section shall not apply to goods, wares, or merchandise manufactured, produced, mined or assembled by convicts or prisoners who are participating in any pilot project approved by the FPI Board of Directors, which are currently, or would otherwise be, manufactured, produced, mined, or assembled outside the United States.
 - **(e)** For the purposes of this section, the term “State” means a State of the United States and any commonwealth, territory, or possession of the United States.
+
+“The provisions of section 1761 of title 18 , United States Code, and of the first section of the Act of June 30, 1936 ( 49 Stat. 2036 ; [former] 41 U.S.C. 35 [see 41 U.S.C. 6502 ]), commonly known as the Walsh-Healey Act, creating exemptions to Federal restrictions on marketability of prison-made goods, as amended from time to time, shall not apply unless—
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 785](https://www.govinfo.gov/link/statute/62/785); [Pub. L. 90–351, title I, § 819(a)](https://www.govinfo.gov/link/plaw/90/public/351), formerly § 827(a), as added [Pub. L. 96–157, § 2](https://www.govinfo.gov/link/plaw/96/public/157), Dec. 27, 1979, [93 Stat. 1215](https://www.govinfo.gov/link/statute/93/1215), and renumbered [Pub. L. 98–473, title II, § 609B(f)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2093](https://www.govinfo.gov/link/statute/98/2093); [Pub. L. 98–473, title II](https://www.govinfo.gov/link/plaw/98/public/473), §§ 223(c), 609K, Oct. 12, 1984, [98 Stat. 2028](https://www.govinfo.gov/link/statute/98/2028), 2102; [Pub. L. 100–17, title I, § 112(b)(3)](https://www.govinfo.gov/link/plaw/100/public/17), Apr. 2, 1987, [101 Stat. 149](https://www.govinfo.gov/link/statute/101/149); [Pub. L. 101–647, title XXIX, § 2906](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4914](https://www.govinfo.gov/link/statute/104/4914); [Pub. L. 102–393, title V, § 535(a)](https://www.govinfo.gov/link/plaw/102/public/393), Oct. 6, 1992, [106 Stat. 1764](https://www.govinfo.gov/link/statute/106/1764); [Pub. L. 103–322, title XXXIII](https://www.govinfo.gov/link/plaw/103/public/322), §§ 330010(11), 330016(1)(H), Sept. 13, 1994, [108 Stat. 2144](https://www.govinfo.gov/link/statute/108/2144), 2147; [Pub. L. 104–134, title I, § 101(b) [title I, § 136]](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–77](https://www.govinfo.gov/link/statute/110/1321), 1321–93; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327); [Pub. L. 104–294, title VI](https://www.govinfo.gov/link/plaw/104/public/294), §§ 601(a)(7), 607(h), Oct. 11, 1996, [110 Stat. 3498](https://www.govinfo.gov/link/statute/110/3498), 3512; [Pub. L. 112–55, div. B, title II, § 221](https://www.govinfo.gov/link/plaw/112/public/55), Nov. 18, 2011, [125 Stat. 621](https://www.govinfo.gov/link/statute/125/621).)*

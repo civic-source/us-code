@@ -3,9 +3,10 @@ title: "Section 833a - Administration of project"
 usc_title: 16
 usc_section: "833a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 833a"
-generated_at: "2026-03-30T02:54:22.926Z"
+generated_at: "2026-11-23T21:25:51.779Z"
+status: "active"
 ---
 
 # § 833a. Administration of project
@@ -16,3 +17,9 @@ generated_at: "2026-03-30T02:54:22.926Z"
 - **(d)** The Secretary of the Interior shall have power to acquire any property or property rights, including patent rights, which in his opinion are necessary to carry out the purposes of this chapter, by purchase, lease, donation, or by the exercise of the right of eminent domain and to institute condemnation proceedings therefor in the same manner as is provided by law for the condemnation of real estate.
 - **(e)** The Secretary of the Interior is authorized, in the name of the United States, to sell, lease, or otherwise dispose of such personal property as in his judgment is not required for the purposes of this chapter and such real property and interests in land acquired in connection with construction or operation of electric transmission lines or substations as in his judgment are not required for the purposes of this chapter.
 - **(f)** Subject to the provisions of this chapter, the Bureau is authorized, in the name of the United States, to negotiate and enter into such contracts, agreements, and arrangements as it shall find necessary or appropriate to carry out the purposes of this chapter.
+
+“That, in aid of the administration of the Fort Peck project, there is hereby granted to the United States, for use by the Bureau of Reclamation, Department of the Interior (hereinafter referred to as the ‘Bureau’), in the discharge of its duties pursuant to the Act of May 18, 1938 ( 52 Stat. 403 ) [this chapter], the electric-transmission lines, substations, rights-of-way, and other property described in section 7 of that certain permit and memorandum of understanding, dated November 2, 1945 , between the Bureau and the Office of Indian Affairs, Department of the Interior (hereinafter referred to as the ‘Indian Office’): Provided, however , That the Bureau shall continue to furnish electric service for the uses and purposes of the Indian Office on the Fort Peck Indian Reservation, pursuant to the terms and conditions of said permit and memorandum of understanding, except as the same may be modified by the Secretary of the Interior.
+
+## Source Credit
+
+*(May 18, 1938, ch. 250, § 2, [52 Stat. 404](https://www.govinfo.gov/link/statute/52/404); July 26, 1947, ch. 343, title II, § 205(a), [61 Stat. 501](https://www.govinfo.gov/link/statute/61/501).)*

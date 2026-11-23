@@ -3,9 +3,10 @@ title: "Section 837d - Exchange contracts"
 usc_title: 16
 usc_section: "837d"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 837d"
-generated_at: "2026-03-30T02:54:22.928Z"
+generated_at: "2026-11-23T21:25:51.784Z"
+status: "active"
 ---
 
 # § 837d. Exchange contracts
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:22.928Z"
   - **(4)** hydroelectric peaking capacity, or
   - **(5)** surplus peaking capacity for energy. All benefits from such exchanges, including resulting increases of firm power, shall be shared equitably by the areas involved, having regard to the secondary energy and other contributions made by each.
 
+
+## Source Credit
+
+*([Pub. L. 88–552, § 5](https://www.govinfo.gov/link/plaw/88/public/552), Aug. 31, 1964, [78 Stat. 758](https://www.govinfo.gov/link/statute/78/758).)*

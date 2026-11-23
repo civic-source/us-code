@@ -3,9 +3,10 @@ title: "Section 1089 - Master calendar"
 usc_title: 20
 usc_section: "1089"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1089"
-generated_at: "2026-03-30T02:54:48.131Z"
+generated_at: "2026-11-23T21:25:47.188Z"
+status: "active"
 ---
 
 # § 1089. Master calendar
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:54:48.131Z"
   - **(4)** a description of the content of each report or disclosure sufficient to allow the institution to identify the appropriate individuals to be assigned the responsibility for such report or disclosure;
   - **(5)** references to the statutory authority, applicable regulations, and current guidance issued by the Secretary regarding each report or disclosure; and
   - **(6)** any other information which is pertinent to the content or distribution of the report or disclosure.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 482](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 407(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1477](https://www.govinfo.gov/link/statute/100/1477); amended [Pub. L. 100–50, § 15(2)](https://www.govinfo.gov/link/plaw/100/public/50), June 3, 1987, [101 Stat. 355](https://www.govinfo.gov/link/statute/101/355); [Pub. L. 102–325, title IV, § 482](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 612](https://www.govinfo.gov/link/statute/106/612); [Pub. L. 103–208, § 2(h)(7)](https://www.govinfo.gov/link/plaw/103/public/208), Dec. 20, 1993, [107 Stat. 2476](https://www.govinfo.gov/link/statute/107/2476); [Pub. L. 104–66, title I, § 1042(b)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 715](https://www.govinfo.gov/link/statute/109/715); [Pub. L. 105–244, title IV, § 481](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1732](https://www.govinfo.gov/link/statute/112/1732); [Pub. L. 110–315, title I, § 103(b)(9)](https://www.govinfo.gov/link/plaw/110/public/315), title IV, § 482(a), Aug. 14, 2008, [122 Stat. 3089](https://www.govinfo.gov/link/statute/122/3089), 3271; [Pub. L. 111–39, title IV, § 407(b)(2)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1950](https://www.govinfo.gov/link/statute/123/1950).)*

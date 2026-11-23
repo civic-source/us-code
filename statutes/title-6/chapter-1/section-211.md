@@ -3,9 +3,10 @@ title: "Section 211 - Establishment of U.S. Customs and Border Protection; Commi
 usc_title: 6
 usc_section: "211"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 211"
-generated_at: "2026-03-30T02:53:09.451Z"
+generated_at: "2026-11-23T21:25:25.764Z"
+status: "active"
 ---
 
 # § 211. Establishment of U.S. Customs and Border Protection; Commissioner, Deputy Commissioner, and operational offices
@@ -179,3 +180,99 @@ generated_at: "2026-03-30T02:53:09.451Z"
 - **(p)** The Commissioner shall, on and after February 24, 2016 , continue to submit to the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate any report required, on the day before February 24, 2016 , to be submitted under any provision of law.
 - **(q)** Nothing in this section may be construed as affecting in any manner the authority, existing on the day before February 24, 2016 , of any other Federal agency or component of the Department.
 - **(r)** In this section, the terms “commercial operations”, “customs and trade laws of the United States”, “trade enforcement”, and “trade facilitation” have the meanings given such terms in section 4301 of title 19 .
+
+Treatment
+
+Rules of construction.—
+
+Rules and regulations
+
+Other actions
+
+Definitions
+
+Large-scale non-intrusive inspection system
+
+Scanning
+
+In General
+
+Baseline Information
+
+Elements
+
+Annual Report
+
+Appropriate congressional committees
+
+CBP
+
+CBP Agriculture Specialists
+
+Mission and Operational Support Staff.—
+
+In general
+
+CBP agriculture technicians
+
+CBP Agriculture Canine Teams
+
+Traffic Forecasts
+
+Authorization of Appropriations.—
+
+CBP agriculture specialists
+
+CBP agriculture technicians
+
+CBP agriculture canine teams
+
+Training
+
+Study
+
+Briefing
+
+Report
+
+In General.—
+
+Requirement
+
+Contents
+
+Analysis requirements
+
+Ports of Entry Strategy and Implementation Plan.—
+
+In general
+
+Contents
+
+Ports of Entry Described
+
+Chemical screening device
+
+Commissioner
+
+Express consignment operator or carrier
+
+Chemical Screening Devices
+
+Personnel to Interpret Data
+
+Commissioner
+
+Other positions
+
+In General
+
+Elements
+
+In General
+
+Content
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 411](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2178](https://www.govinfo.gov/link/statute/116/2178); [Pub. L. 114–125, title VIII, § 802(a)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 199](https://www.govinfo.gov/link/statute/130/199); [Pub. L. 115–79, § 4(a)](https://www.govinfo.gov/link/plaw/115/public/79), Nov. 2, 2017, [131 Stat. 1260](https://www.govinfo.gov/link/statute/131/1260); [Pub. L. 116–277, § 3](https://www.govinfo.gov/link/plaw/116/public/277), Dec. 31, 2020, [134 Stat. 3370](https://www.govinfo.gov/link/statute/134/3370); [Pub. L. 117–103, div. F, title II, § 212](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 322](https://www.govinfo.gov/link/statute/136/322).)*

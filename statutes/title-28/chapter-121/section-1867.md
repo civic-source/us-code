@@ -3,9 +3,10 @@ title: "Section 1867 - Challenging compliance with selection procedures"
 usc_title: 28
 usc_section: "1867"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1867"
-generated_at: "2026-03-30T02:55:30.145Z"
+generated_at: "2026-11-23T21:26:01.109Z"
+status: "active"
 ---
 
 # § 1867. Challenging compliance with selection procedures
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:30.145Z"
 - **(d)** Upon motion filed under subsection (a), (b), or (c) of this section, containing a sworn statement of facts which, if true, would constitute a substantial failure to comply with the provisions of this title, the moving party shall be entitled to present in support of such motion the testimony of the jury commission or clerk, if available, any relevant records and papers not public or otherwise available used by the jury commissioner or clerk, and any other relevant evidence. If the court determines that there has been a substantial failure to comply with the provisions of this title in selecting the grand jury, the court shall stay the proceedings pending the selection of a grand jury in conformity with this title or dismiss the indictment, whichever is appropriate. If the court determines that there has been a substantial failure to comply with the provisions of this title in selecting the petit jury, the court shall stay the proceedings pending the selection of a petit jury in conformity with this title.
 - **(e)** The procedures prescribed by this section shall be the exclusive means by which a person accused of a Federal crime, the Attorney General of the United States or a party in a civil case may challenge any jury on the ground that such jury was not selected in conformity with the provisions of this title. Nothing in this section shall preclude any person or the United States from pursuing any other remedy, civil or criminal, which may be available for the vindication or enforcement of any law prohibiting discrimination on account of race, color, religion, sex, national origin or economic status in the selection of persons for service on grand or petit juries.
 - **(f)** The contents of records or papers used by the jury commission or clerk in connection with the jury selection process shall not be disclosed, except pursuant to the district court plan or as may be necessary in the preparation or presentation of a motion under subsection (a), (b), or (c) of this section, until after the master jury wheel has been emptied and refilled pursuant to section 1863(b)(4) of this title and all persons selected to serve as jurors before the master wheel was emptied have completed such service. The parties in a case shall be allowed to inspect, reproduce, and copy such records or papers at all reasonable times during the preparation and pendency of such a motion. Any person who discloses the contents of any record or paper in violation of this subsection may be fined not more than $1,000 or imprisoned not more than one year, or both.
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 953](https://www.govinfo.gov/link/statute/62/953); [Pub. L. 85–259](https://www.govinfo.gov/link/plaw/85/public/259), Sept. 2, 1957, [71 Stat. 583](https://www.govinfo.gov/link/statute/71/583); [Pub. L. 90–274, § 101](https://www.govinfo.gov/link/plaw/90/public/274), Mar. 27, 1968, [82 Stat. 59](https://www.govinfo.gov/link/statute/82/59).)*

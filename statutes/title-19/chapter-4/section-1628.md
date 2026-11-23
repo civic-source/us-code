@@ -3,9 +3,10 @@ title: "Section 1628 - Exchange of information"
 usc_title: 19
 usc_section: "1628"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1628"
-generated_at: "2026-03-30T02:54:24.648Z"
+generated_at: "2026-11-23T21:25:42.736Z"
+status: "active"
 ---
 
 # § 1628. Exchange of information
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:24.648Z"
     - **(A)** reasonably believes the exchange of information is necessary to implement chapter 2, 4, 5, 6, or 7 of the USMCA; and
     - **(B)** obtains assurances from such agency that the information will be held in confidence and used only for governmental purposes.
   - **(2)** In this subsection, the terms “USMCA” and “USMCA country” have the meanings given those terms in section 4502 of this title .
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 628, as added [Pub. L. 99–570, title III, § 3127](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–89](https://www.govinfo.gov/link/statute/100/3207); amended [Pub. L. 103–182, title II, § 209](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2098](https://www.govinfo.gov/link/statute/107/2098); [Pub. L. 116–113, title II, § 209(c)](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 52](https://www.govinfo.gov/link/statute/134/52).)*

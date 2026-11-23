@@ -3,12 +3,17 @@ title: "Section 25 - Restraining violations; procedure"
 usc_title: 15
 usc_section: "25"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 25"
-generated_at: "2026-03-30T02:54:08.022Z"
+generated_at: "2026-11-23T21:25:39.473Z"
+status: "active"
 ---
 
 # § 25. Restraining violations; procedure
 
 The several district courts of the United States are invested with jurisdiction to prevent and restrain violations of this Act, and it shall be the duty of the several United States attorneys, in their respective districts, under the direction of the Attorney General, to institute proceedings in equity to prevent and restrain such violations. Such proceedings may be by way of petition setting forth the case and praying that such violation shall be enjoined or otherwise prohibited. When the parties complained of shall have been duly notified of such petition, the court shall proceed, as soon as may be, to the hearing and determination of the case; and pending such petition, and before final decree, the court may at any time make such temporary restraining order or prohibition as shall be deemed just in the premises. Whenever it shall appear to the court before which any such proceeding may be pending that the ends of justice require that other parties should be brought before the court, the court may cause them to be summoned whether they reside in the district in which the court is held or not, and subpoenas to that end may be served in any district by the marshal thereof.
 
+
+## Source Credit
+
+*(Oct. 15, 1914, ch. 323, § 15, [38 Stat. 736](https://www.govinfo.gov/link/statute/38/736); June 25, 1948, ch. 646, § 1, [62 Stat. 909](https://www.govinfo.gov/link/statute/62/909).)*

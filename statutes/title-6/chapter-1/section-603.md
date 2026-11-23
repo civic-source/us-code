@@ -3,9 +3,10 @@ title: "Section 603 - Homeland security grant programs"
 usc_title: 6
 usc_section: "603"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 603"
-generated_at: "2026-03-30T02:53:09.471Z"
+generated_at: "2026-11-23T21:25:25.810Z"
+status: "active"
 ---
 
 # § 603. Homeland security grant programs
@@ -22,3 +23,19 @@ generated_at: "2026-03-30T02:53:09.471Z"
 - **(c)**
   - **(1)** The grant programs authorized under sections 604 and 605 of this title shall supercede all grant programs authorized under section 1014 of the USA PATRIOT Act ( 42 U.S.C. 3714 ). 2 2 See References in Text note below.
   - **(2)** The allocation of grants authorized under section 604 or 605 of this title shall be governed by the terms of this part and not by any other provision of law.
+
+In general
+
+Use of grant amounts
+
+Authorization of appropriations
+
+In general
+
+Limitations
+
+Minimum amount
+
+## Source Credit
+
+*([Pub. L. 107–296, title XX, § 2002](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 110–53, title I, § 101](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 273](https://www.govinfo.gov/link/statute/121/273); amended [Pub. L. 116–108, § 2(b)](https://www.govinfo.gov/link/plaw/116/public/108), Jan. 24, 2020, [133 Stat. 3295](https://www.govinfo.gov/link/statute/133/3295).)*

@@ -3,9 +3,10 @@ title: "Section 14904 - Rights and procedures"
 usc_title: 10
 usc_section: "14904"
 chapter: 1411
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 14904"
-generated_at: "2026-03-30T02:53:38.276Z"
+generated_at: "2026-11-23T21:25:33.069Z"
+status: "active"
 ---
 
 # § 14904. Rights and procedures
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:53:38.276Z"
   - **(4)** shall be allowed full access to, and shall be furnished copies of, records relevant to the case, except that the board of inquiry shall withhold any record that the Secretary concerned determines should be withheld in the interest of national security.
 - **(b)** When a record is withheld under subsection (a)(4), the officer whose case is under consideration shall, to the extent that the interest of national security permits, be furnished a summary of the record so withheld.
 - **(c)** The Secretary concerned may determine that, in exceptional circumstances, the appearance of an officer before the proceedings of a board of inquiry may be via means other than in person.
+
+Procedural Rights
+
+Summary of Records Withheld
+
+Remote Appearance
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1611](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2959](https://www.govinfo.gov/link/statute/108/2959); amended [Pub. L. 118–159, div. A, title V, § 509(b)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1872](https://www.govinfo.gov/link/statute/138/1872).)*

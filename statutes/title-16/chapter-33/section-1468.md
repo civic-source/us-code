@@ -3,9 +3,10 @@ title: "Section 1468 - Regional Ocean Partnerships"
 usc_title: 16
 usc_section: "1468"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1468"
-generated_at: "2026-03-30T02:54:22.973Z"
+generated_at: "2026-11-23T21:25:51.891Z"
+status: "active"
 ---
 
 # § 1468. Regional Ocean Partnerships
@@ -88,3 +89,11 @@ generated_at: "2026-03-30T02:54:22.973Z"
     - **(E)** $10,520,404 for fiscal year 2027.
   - **(2)** Amounts made available under this subsection shall be divided evenly among the Regional Ocean Partnerships.
   - **(3)** There is authorized to be appropriated to the Administrator $1,000,000 for each of fiscal years 2023 through 2027 to be distributed to Indian Tribes for purposes of participation in or engagement with the Regional Ocean Partnerships.
+
+Findings
+
+Purposes
+
+## Source Credit
+
+*([Pub. L. 117–263, div. J, title CII, § 10202](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3962](https://www.govinfo.gov/link/statute/136/3962).)*

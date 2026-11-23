@@ -3,12 +3,17 @@ title: "Section 82a - Contracts for payment of money permitted certain tribes; p
 usc_title: 25
 usc_section: "82a"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 82a"
-generated_at: "2026-03-30T02:54:52.797Z"
+generated_at: "2026-11-23T21:25:54.535Z"
+status: "active"
 ---
 
 # § 82a. Contracts for payment of money permitted certain tribes; payment for legal services
 
 Contracts involving the payment or expenditure of any money or affecting any property belonging to the Choctaw, Chickasaw, Cherokee, Creek, or Seminole Tribes of Indians, including contracts for professional legal services, may be made by said tribes, with the approval of the Secretary of the Interior, or his authorized representative, under such rules and regulations as the Secretary of the Interior may prescribe: Provided , That the provisions of this section shall not apply to contracts for professional legal services involving the prosecution of claims against the United States.
 
+
+## Source Credit
+
+*(July 3, 1952, ch. 549, § 1, [66 Stat. 323](https://www.govinfo.gov/link/statute/66/323).)*

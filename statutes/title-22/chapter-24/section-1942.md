@@ -3,9 +3,10 @@ title: "Section 1942 - Development assistance in Latin America; Congressional de
 usc_title: 22
 usc_section: "1942"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1942"
-generated_at: "2026-03-30T02:55:05.340Z"
+generated_at: "2026-11-23T21:25:58.418Z"
+status: "active"
 ---
 
 # § 1942. Development assistance in Latin America; Congressional declaration of policy
@@ -26,3 +27,9 @@ generated_at: "2026-03-30T02:55:05.340Z"
   - **(5)** favors the progressive development of common standards with respect to the rights and the responsibilities of private investment which flows across national boundaries within the Western Hemisphere;
   - **(6)** supports the consolidation of the public institutions and agencies of inter-American cooperation, insofar as feasible, within the structure of the Organization of American States and the strengthening of the personnel resources and authority of the Organization in order that it may play a role of increasing importance in all aspects of hemispheric cooperation; and
   - **(7)** declares that it is prepared to give careful and sympathetic consideration to programs which the President may develop for the purpose of promoting these policies.
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 86–735, § 1](https://www.govinfo.gov/link/plaw/86/public/735), Sept. 8, 1960, [74 Stat. 869](https://www.govinfo.gov/link/statute/74/869).)*

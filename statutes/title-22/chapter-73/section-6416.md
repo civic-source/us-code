@@ -3,9 +3,10 @@ title: "Section 6416 - Equal access to United States missions abroad for conduct
 usc_title: 22
 usc_section: "6416"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6416"
-generated_at: "2026-03-30T02:55:05.428Z"
+generated_at: "2026-11-23T21:25:58.686Z"
+status: "active"
 ---
 
 # § 6416. Equal access to United States missions abroad for conducting religious activities
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.428Z"
   - **(4)** availability of space and resources; and
   - **(5)** necessary security precautions.
 - **(c)** The Secretary of State may permit access to the premises of a United States diplomatic mission or consular post to foreign nationals for the purpose of attending or participating in religious activities conducted pursuant to this section.
+
+## Source Credit
+
+*([Pub. L. 105–292, title I, § 107](https://www.govinfo.gov/link/plaw/105/public/292), Oct. 27, 1998, [112 Stat. 2796](https://www.govinfo.gov/link/statute/112/2796).)*

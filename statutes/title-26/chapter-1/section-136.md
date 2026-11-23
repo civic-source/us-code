@@ -3,9 +3,10 @@ title: "Section 136 - Energy conservation subsidies provided by public utilities
 usc_title: 26
 usc_section: "136"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 136"
-generated_at: "2026-03-30T02:55:27.628Z"
+generated_at: "2026-11-23T21:26:06.013Z"
+status: "active"
 ---
 
 # § 136. Energy conservation subsidies provided by public utilities
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:27.628Z"
     - **(A)** The term “dwelling unit” has the meaning given such term by section 280A(f)(1).
     - **(B)** The term “public utility” means a person engaged in the sale of electricity or natural gas to residential, commercial, or industrial customers for use by such customers. For purposes of the preceding sentence, the term “person” includes the Federal Government, a State or local government or any political subdivision thereof, or any instrumentality of any of the foregoing.
 - **(d)** This section shall not apply to any payment to or from a qualified cogeneration facility or qualifying small power production facility pursuant to section 210 of the Public Utility Regulatory Policy Act of 1978.
+
+## Source Credit
+
+*(Added [Pub. L. 102–486, title XIX, § 1912(a)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3014](https://www.govinfo.gov/link/statute/106/3014); amended [Pub. L. 104–188, title I, § 1617(a)](https://www.govinfo.gov/link/plaw/104/public/188), (b), Aug. 20, 1996, [110 Stat. 1858](https://www.govinfo.gov/link/statute/110/1858).)*

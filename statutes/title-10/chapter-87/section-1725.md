@@ -3,9 +3,10 @@ title: "Section 1725 - Senior Military Acquisition Advisors"
 usc_title: 10
 usc_section: "1725"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1725"
-generated_at: "2026-03-30T02:53:38.135Z"
+generated_at: "2026-11-23T21:25:32.533Z"
+status: "active"
 ---
 
 # § 1725. Senior Military Acquisition Advisors
@@ -31,3 +32,35 @@ generated_at: "2026-03-30T02:53:38.135Z"
     - **(C)** not more than five may be officers of the Air Force and Space Force.
   - **(2)** Subject to paragraph (1), the number of Senior Military Acquisition Advisors for each military department shall be as required and identified by the service acquisition executive of such military department and approved by the Under Secretary of Defense for Acquisition and Sustainment.
 - **(f)** An officer who is a Senior Military Acquisition Advisor shall have as the officer’s primary duty providing strategic, technical, and programmatic advice to the service acquisition executive of the officer’s military department on matters pertaining to the Defense Acquisition System, including matters pertaining to procurement, research and development, advanced technology, test and evaluation, production, program management, systems engineering, and lifecycle logistics.
+
+Position.—
+
+In general
+
+Appointment
+
+Scope of position
+
+Continuation on Active Duty
+
+Retired Grade
+
+Selection and Tenure.—
+
+In general
+
+Officers eligible
+
+Term
+
+Limitation.—
+
+Limitation on number and distribution
+
+Number in each military department
+
+Advice to Service Acquisition Executive
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title VIII, § 866(a)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2305](https://www.govinfo.gov/link/statute/130/2305); amended [Pub. L. 116–92, div. A, title VIII, § 861(j)(9)](https://www.govinfo.gov/link/plaw/116/public/92), title IX, § 902(19), Dec. 20, 2019, [133 Stat. 1520](https://www.govinfo.gov/link/statute/133/1520), 1545; [Pub. L. 116–283, div. A, title IX, § 924(b)(28)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3825](https://www.govinfo.gov/link/statute/134/3825).)*

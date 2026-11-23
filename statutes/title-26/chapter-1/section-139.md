@@ -3,9 +3,10 @@ title: "Section 139 - Disaster relief payments"
 usc_title: 26
 usc_section: "139"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 139"
-generated_at: "2026-03-30T02:55:27.628Z"
+generated_at: "2026-11-23T21:26:06.014Z"
+status: "active"
 ---
 
 # § 139. Disaster relief payments
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:27.628Z"
   - **(2)** For purposes of this section, the term “qualified disaster mitigation payment” means any amount which is paid pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act (as in effect on the date of the enactment of this subsection) or the National Flood Insurance Act (as in effect on such date) to or for the benefit of the owner of any property for hazard mitigation with respect to such property. Such term shall not include any amount received for the sale or disposition of any property.
   - **(3)** Notwithstanding any other provision of this subtitle, no increase in the basis or adjusted basis of any property shall result from any amount excluded under this subsection with respect to such property.
 - **(h)** Notwithstanding any other provision of this subtitle, no deduction or credit shall be allowed (to the person for whose benefit a qualified disaster relief payment or qualified disaster mitigation payment is made) for, or by reason of, any expenditure to the extent of the amount excluded under this section with respect to such expenditure.
+
+## Source Credit
+
+*(Added [Pub. L. 107–134, title I, § 111(a)](https://www.govinfo.gov/link/plaw/107/public/134), Jan. 23, 2002, [115 Stat. 2432](https://www.govinfo.gov/link/statute/115/2432); amended [Pub. L. 109–7, § 1(a)](https://www.govinfo.gov/link/plaw/109/public/7), Apr. 15, 2005, [119 Stat. 21](https://www.govinfo.gov/link/statute/119/21); [Pub. L. 110–343, div. C, title VII, § 706(a)(2)(D)(iv)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3922](https://www.govinfo.gov/link/statute/122/3922); [Pub. L. 115–141, div. U, title IV, § 401(a)(41)](https://www.govinfo.gov/link/plaw/115/public/141), (b)(10)(A), Mar. 23, 2018, [132 Stat. 1186](https://www.govinfo.gov/link/statute/132/1186), 1202.)*

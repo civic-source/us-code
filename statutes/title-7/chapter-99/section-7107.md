@@ -3,9 +3,10 @@ title: "Section 7107 - Enforcement"
 usc_title: 7
 usc_section: "7107"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7107"
-generated_at: "2026-03-30T02:53:42.444Z"
+generated_at: "2026-11-23T21:25:28.416Z"
+status: "active"
 ---
 
 # § 7107. Enforcement
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:42.444Z"
 - **(e)** A person who fails to obey a valid cease-and-desist order issued by the Secretary under this section, after an opportunity for a hearing, shall be subject to a civil penalty assessed by the Secretary of not more than $500 for each offense. Each day during which the failure continues shall be considered to be a separate violation of the order.
 - **(f)** If a person fails to pay a valid civil penalty imposed under this section by the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in the district court of the United States for any district in which the person resides or carries on business. In the action, the validity and appropriateness of the order imposing the civil penalty shall not be subject to review.
 - **(g)** The remedies provided in this section shall be in addition to, and not exclusive of, other remedies that may be available.
+
+## Source Credit
+
+*([Pub. L. 103–407, § 8](https://www.govinfo.gov/link/plaw/103/public/407), Oct. 22, 1994, [108 Stat. 4224](https://www.govinfo.gov/link/statute/108/4224).)*

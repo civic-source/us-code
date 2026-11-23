@@ -3,9 +3,10 @@ title: "Section 49101 - Findings"
 usc_title: 49
 usc_section: "49101"
 chapter: 491
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 49101"
-generated_at: "2026-03-30T02:56:19.409Z"
+generated_at: "2026-11-23T21:26:41.003Z"
+status: "active"
 ---
 
 # § 49101. Findings
@@ -22,3 +23,29 @@ Congress finds that—
   - **(8)** an operating authority with representation from local jurisdictions, similar to authorities at all major airports in the United States, will improve communications with local officials and concerned residents regarding noise at the Metropolitan Washington Airports;
   - **(9)** a commission of congressional, State, and local officials and aviation representatives has recommended to the Secretary that transfer of the federally owned airports be as a unit to an independent authority to be created by Virginia and the District of Columbia; and
   - **(10)** the Federal interest in these airports can be provided through a lease mechanism which provides for local control and operation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 49101 | (uncodified). | Oct. 18, 1986 , Pub. L. 99–500, title VI, § 6002 , 100 Stat. 1783–373 . |
+|  |  | Oct. 30, 1986 , Pub. L. 99–591, title VI, § 6002 , 100 Stat. 3341–376 . |
+
+
+Historical and Revision Notes
+
+49101
+
+Oct. 18, 1986
+
+Pub. L. 99–500, title VI, § 6002
+
+100 Stat. 1783–373
+
+Oct. 30, 1986
+
+Pub. L. 99–591, title VI, § 6002
+
+100 Stat. 3341–376
+
+## Source Credit
+
+*(Added [Pub. L. 105–102, § 2(26)](https://www.govinfo.gov/link/plaw/105/public/102), Nov. 20, 1997, [111 Stat. 2206](https://www.govinfo.gov/link/statute/111/2206).)*

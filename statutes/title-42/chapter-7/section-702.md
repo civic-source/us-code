@@ -3,9 +3,10 @@ title: "Section 702 - Allotment to States and Federal set-aside"
 usc_title: 42
 usc_section: "702"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 702"
-generated_at: "2026-03-30T02:56:10.893Z"
+generated_at: "2026-11-23T21:26:31.177Z"
+status: "active"
 ---
 
 # § 702. Allotment to States and Federal set-aside
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:10.893Z"
 - **(d)**
   - **(1)** To the extent that all the funds appropriated under this subchapter for a fiscal year are not otherwise allotted to States either because all the States have not qualified for such allotments under section 705(a) of this title for the fiscal year or because some States have indicated in their descriptions of activities under section 705(a) of this title that they do not intend to use the full amount of such allotments, such excess shall be allotted among the remaining States in proportion to the amount otherwise allotted to such States for the fiscal year without regard to this paragraph.
   - **(2)** To the extent that all the funds appropriated under this subchapter for a fiscal year are not otherwise allotted to States because some State allotments are offset under section 706(b)(2) of this title , such excess shall be allotted among the remaining States in proportion to the amount otherwise allotted to such States for the fiscal year without regard to this paragraph.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title V, § 502, as added [Pub. L. 97–35, title XXI, § 2192(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 819](https://www.govinfo.gov/link/statute/95/819); amended [Pub. L. 99–272, title IX, § 9527(d)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 219](https://www.govinfo.gov/link/statute/100/219); [Pub. L. 99–509, title IX, § 9441(b)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 2071](https://www.govinfo.gov/link/statute/100/2071); [Pub. L. 101–239, title VI](https://www.govinfo.gov/link/plaw/101/public/239), §§ 6502(a), 6503(c)(1), (4), Dec. 19, 1989, [103 Stat. 2275](https://www.govinfo.gov/link/statute/103/2275), 2278.)*

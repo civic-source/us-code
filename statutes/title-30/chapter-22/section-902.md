@@ -3,9 +3,10 @@ title: "Section 902 - Definitions"
 usc_title: 30
 usc_section: "902"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 902"
-generated_at: "2026-03-30T02:55:29.391Z"
+generated_at: "2026-11-23T21:26:00.404Z"
+status: "active"
 ---
 
 # § 902. Definitions
@@ -41,3 +42,7 @@ For purposes of this subchapter—
 - **(i)** For the purposes of subsections (c) and (j) of section 932 of this title , and for the purposes of paragraph (7) of subsection (d) of section 9501 of title 26 , the term “claim denied” means a claim—
   - **(1)** for benefits under part B of this subchapter that was denied by the official responsible for administration of such part; or
   - **(2)** in which (A) the claimant was notified by the Department of Labor of an administrative or informal denial more than 1 year prior to March 1, 1978 , and did not, within 1 year from the date of notification of such denial, request a hearing, present additional evidence or indicate an intention to present additional evidence, or (B) the claim was denied under the law in effect prior to March 1, 1978 , following a formal hearing or administrative or judicial review proceeding.
+
+## Source Credit
+
+*([Pub. L. 91–173, title IV, § 402](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 792](https://www.govinfo.gov/link/statute/83/792); [Pub. L. 92–303](https://www.govinfo.gov/link/plaw/92/public/303), §§ 1(c)(2)–(4), 3(b), 4(a), May 19, 1972, [86 Stat. 151–153](https://www.govinfo.gov/link/statute/86/151); [Pub. L. 95–239, § 2](https://www.govinfo.gov/link/plaw/95/public/239), Mar. 1, 1978, [92 Stat. 95](https://www.govinfo.gov/link/statute/92/95); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695); [Pub. L. 97–119, title I, § 104(b)(1)](https://www.govinfo.gov/link/plaw/97/public/119), title II, § 205(b), Dec. 29, 1981, [95 Stat. 1639](https://www.govinfo.gov/link/statute/95/1639), 1645; [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 103–296, title I, § 108(i)(1)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1488](https://www.govinfo.gov/link/statute/108/1488); [Pub. L. 107–275, § 2(b)(1)](https://www.govinfo.gov/link/plaw/107/public/275), Nov. 2, 2002, [116 Stat. 1925](https://www.govinfo.gov/link/statute/116/1925).)*

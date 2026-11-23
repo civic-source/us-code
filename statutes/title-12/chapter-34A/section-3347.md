@@ -3,9 +3,10 @@ title: "Section 3347 - Monitoring of State appraiser certifying and licensing ag
 usc_title: 12
 usc_section: "3347"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3347"
-generated_at: "2026-03-30T02:53:53.493Z"
+generated_at: "2026-11-23T21:25:37.133Z"
+status: "active"
 ---
 
 # § 3347. Monitoring of State appraiser certifying and licensing agencies
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:53.493Z"
   - **(1)** Before refusing to recognize a State’s appraiser certifications or licenses, the Appraisal Subcommittee shall provide that State’s certifying and licensing agency a written notice of its intention not to recognize the State’s certified or licensed appraisers and ample opportunity to provide rebuttal information or to correct the conditions causing the refusal.
   - **(2)** The Appraisal Subcommittee shall adopt written procedures for taking actions described in this section.
   - **(3)** A decision of the subcommittee under this section shall be subject to judicial review.
+
+## Source Credit
+
+*([Pub. L. 101–73, title XI, § 1118](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 515](https://www.govinfo.gov/link/statute/103/515); [Pub. L. 111–203, title XIV, § 1473(k)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2196](https://www.govinfo.gov/link/statute/124/2196).)*

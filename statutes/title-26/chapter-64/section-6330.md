@@ -3,9 +3,10 @@ title: "Section 6330 - Notice and opportunity for hearing before levy"
 usc_title: 26
 usc_section: "6330"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6330"
-generated_at: "2026-03-30T02:55:27.849Z"
+generated_at: "2026-11-23T21:26:06.849Z"
+status: "active"
 ---
 
 # § 6330. Notice and opportunity for hearing before levy
@@ -65,3 +66,7 @@ generated_at: "2026-03-30T02:55:27.849Z"
 - **(h)** For purposes of subsection (f)—
   - **(1)** A disqualified employment tax levy is any levy in connection with the collection of employment taxes for any taxable period if the person subject to the levy (or any predecessor thereof) requested a hearing under this section with respect to unpaid employment taxes arising in the most recent 2-year period before the beginning of the taxable period with respect to which the levy is served. For purposes of the preceding sentence, the term “employment taxes” means any taxes under chapter 21, 22, 23, or 24.
   - **(2)** A Federal contractor levy is any levy if the person whose property is subject to the levy (or any predecessor thereof) is a Federal contractor.
+
+## Source Credit
+
+*(Added [Pub. L. 105–206, title III, § 3401(b)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 747](https://www.govinfo.gov/link/statute/112/747); amended [Pub. L. 106–554, § 1(a)(7) [title III, § 313(b)(2)(A), (d)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–642, 2763A–643; [Pub. L. 109–280, title VIII, § 855(a)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1019](https://www.govinfo.gov/link/statute/120/1019); [Pub. L. 109–432, div. A, title IV, § 407(b)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2961](https://www.govinfo.gov/link/statute/120/2961); [Pub. L. 110–28, title VIII, § 8243(a)](https://www.govinfo.gov/link/plaw/110/public/28), (b), May 25, 2007, [121 Stat. 200](https://www.govinfo.gov/link/statute/121/200); [Pub. L. 111–240, title II, § 2104(a)](https://www.govinfo.gov/link/plaw/111/public/240) –(c), Sept. 27, 2010, [124 Stat. 2565](https://www.govinfo.gov/link/statute/124/2565); [Pub. L. 114–74, title XI, § 1101(d)](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 637](https://www.govinfo.gov/link/statute/129/637); [Pub. L. 114–113, div. Q, title IV, § 424(b)(1)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3124](https://www.govinfo.gov/link/statute/129/3124); [Pub. L. 115–141, div. U, title IV, § 401(a)(281)](https://www.govinfo.gov/link/plaw/115/public/141), (282), Mar. 23, 2018, [132 Stat. 1197](https://www.govinfo.gov/link/statute/132/1197); [Pub. L. 116–25, title I, § 1001(b)(1)(C)](https://www.govinfo.gov/link/plaw/116/public/25), (3), July 1, 2019, [133 Stat. 985](https://www.govinfo.gov/link/statute/133/985).)*

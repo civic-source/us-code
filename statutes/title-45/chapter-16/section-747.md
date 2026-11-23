@@ -3,9 +3,10 @@ title: "Section 747 - Protection of Federal funds"
 usc_title: 45
 usc_section: "747"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 747"
-generated_at: "2026-03-30T02:55:56.556Z"
+generated_at: "2026-11-23T21:26:19.229Z"
+status: "active"
 ---
 
 # § 747. Protection of Federal funds
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:56.556Z"
   - **(2)** Within 90 days after November 1, 1978 , the Association shall (A) subdivide each such policy area into constituent parts or groups of parts which are specific and significant, (B) identify the most appropriate indicia to reflect accurately such parts or groups of parts, and (C)(i) determine any and all deficiencies in data used to compute the values of such indicia including consistency and clarity of definitions, timeliness of data entry, editing and validation of input data, and processing, and (ii) outline the efforts of the Association and Corporation to correct the deficiencies and the results of such efforts. On or before the end of such 90-day period, the Association shall submit to the Congress such methodological information and additional information which the Association deems necessary or appropriate to further the purpose of this subchapter.
   - **(3)** Using such indicia, the Association shall report on (A) the relationship of each constituent part or groups of parts to the Corporation’s revenue and capital and operating expenses, (B) the extent to which such parts or group of parts contributes to profits or losses, (C) the efforts of management to contain or reduce the contribution of such part or group of parts to losses, (D) the results of such efforts, and (E) such other information as the Association deems necessary or appropriate.
   - **(4)** The Association shall (A) transmit to the Congress the first such monitoring report pursuant to paragraph (3) at the end of the first calendar quarter which begins after the end of the 90-day period for preparation and submission of the methodological information pursuant to paragraph (2), (B) report such monitoring information to the Congress at the end of the first quarter of each calendar year thereafter, (C) update methodological and monitoring information periodically as the Association deems necessary or appropriate, but in no case less frequently than once a year, and (D) where the results of such updating are statistically significant or relevant to Congressional policymaking, report them and the reasons for their significance at the end of the calendar quarter in which the updating occurred.
+
+## Source Credit
+
+*([Pub. L. 93–236, title III, § 307](https://www.govinfo.gov/link/plaw/93/public/236), as added [Pub. L. 94–210, title VI, § 609](https://www.govinfo.gov/link/plaw/94/public/210), Feb. 5, 1976, [90 Stat. 99](https://www.govinfo.gov/link/statute/90/99); amended [Pub. L. 95–565, § 7](https://www.govinfo.gov/link/plaw/95/public/565), Nov. 1, 1978, [92 Stat. 2400](https://www.govinfo.gov/link/statute/92/2400).)*

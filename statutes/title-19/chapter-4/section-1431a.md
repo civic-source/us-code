@@ -3,9 +3,10 @@ title: "Section 1431a - Documentation of waterborne cargo"
 usc_title: 19
 usc_section: "1431a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1431a"
-generated_at: "2026-03-30T02:54:24.635Z"
+generated_at: "2026-11-23T21:25:42.703Z"
+status: "active"
 ---
 
 # § 1431a. Documentation of waterborne cargo
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:24.635Z"
   - **(1)** Any cargo that is not properly documented pursuant to this section and has remained in the marine terminal for more than 48 hours after being delivered to the marine terminal operator shall be subject to search, seizure, and forfeiture.
   - **(2)** The shipper of any such cargo is liable to the marine terminal operator and to the ocean carrier for demurrage and other applicable charges for any undocumented cargo which has been notified to or searched or seized by the Customs Service for the entire period the cargo remains under the order and direction of the Customs Service. Unless the cargo is seized by the Customs Service and forfeited, the marine terminal operator and the ocean carrier shall have a lien on the cargo for the amount of the demurrage and other charges.
 - **(g)** Nothing in this section shall be construed, interpreted, or applied to relieve or excuse any party from compliance with any obligation or requirement arising under any other law, regulation, or order with regard to the documentation or carriage of cargo.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 431A, as added [Pub. L. 107–210, div. A, title III, § 343(b)](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 983](https://www.govinfo.gov/link/statute/116/983); amended [Pub. L. 107–295, title I, § 108(a)](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2088](https://www.govinfo.gov/link/statute/116/2088).)*

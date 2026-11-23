@@ -3,9 +3,10 @@ title: "Section 9112 - Procedure"
 usc_title: 42
 usc_section: "9112"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9112"
-generated_at: "2026-03-30T02:56:11.350Z"
+generated_at: "2026-11-23T21:26:33.227Z"
+status: "active"
 ---
 
 # § 9112. Procedure
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.350Z"
     - **(C)** the degree to which the proposed ocean thermal energy conversion facilities will affect the environment;
     - **(D)** any significant differences between anticipated dates and commencement of operation of the proposed ocean thermal energy conversion facilities; and
     - **(E)** any differences in costs of construction and operation of the proposed ocean thermal energy conversion facilities, to the extent that such differentials may significantly affect the ultimate cost of energy or products to the consumer.
+
+## Source Credit
+
+*([Pub. L. 96–320, title I, § 102](https://www.govinfo.gov/link/plaw/96/public/320), Aug. 3, 1980, [94 Stat. 979](https://www.govinfo.gov/link/statute/94/979); [Pub. L. 98–623, title VI, § 602(f)](https://www.govinfo.gov/link/plaw/98/public/623), Nov. 8, 1984, [98 Stat. 3412](https://www.govinfo.gov/link/statute/98/3412).)*

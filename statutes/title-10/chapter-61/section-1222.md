@@ -3,9 +3,10 @@ title: "Section 1222 - Physical evaluation boards"
 usc_title: 10
 usc_section: "1222"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1222"
-generated_at: "2026-03-30T02:53:38.116Z"
+generated_at: "2026-11-23T21:25:32.455Z"
+status: "active"
 ---
 
 # § 1222. Physical evaluation boards
@@ -22,3 +23,17 @@ generated_at: "2026-03-30T02:53:38.116Z"
     - **(B)** operating procedures; and
     - **(C)** timeliness of board decisions.
   - **(2)** The Secretary shall ensure compliance with standards and guidelines prescribed under paragraph (1) by each physical evaluation board at least once every three years.
+
+Response to Applications and Appeals
+
+Liaison Officer (PEBLO) Requirements and Training
+
+Standardized Staff Training and Operations
+
+In General
+
+Objectives
+
+## Source Credit
+
+*(Added [Pub. L. 109–364, div. A, title V, § 597(a)(1)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2236](https://www.govinfo.gov/link/statute/120/2236).)*

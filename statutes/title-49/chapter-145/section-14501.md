@@ -3,9 +3,10 @@ title: "Section 14501 - Federal authority over intrastate transportation"
 usc_title: 49
 usc_section: "14501"
 chapter: 145
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 14501"
-generated_at: "2026-03-30T02:56:19.331Z"
+generated_at: "2026-11-23T21:26:40.689Z"
+status: "active"
 ---
 
 # § 14501. Federal authority over intrastate transportation
@@ -50,3 +51,45 @@ generated_at: "2026-03-30T02:56:19.331Z"
     - **(A)** as subjecting taxicab service to regulation under chapter 135 or section 31138;
     - **(B)** as prohibiting or restricting an airport, train, or bus terminal operator from contracting to provide preferential access or facilities to one or more providers of pre-arranged ground transportation service; and
     - **(C)** as restricting the right of any State or political subdivision of a State to require, in a nondiscriminatory manner, that any individual operating a vehicle providing prearranged ground transportation service originating in the State or political subdivision have submitted to pre-licensing drug testing or a criminal background investigation of the records of the State in which the operator is domiciled, by the State or political subdivision by which the operator is licensed to provide such service, or by the motor carrier providing such service, as a condition of providing such service.
+
+Motor Carriers of Passengers.—
+
+Limitation on state law
+
+Matters not covered
+
+Freight Forwarders and Brokers.—
+
+General rule
+
+Continuation of hawaii’s authority
+
+Motor Carriers of Property.—
+
+General rule
+
+Matters not covered
+
+State standard transportation practices.—
+
+Continuation
+
+Requirements
+
+Election
+
+Nonapplicability to hawaii
+
+Limitation on statutory construction
+
+Pre-Arranged Ground Transportation.—
+
+In general
+
+Intermediate stop defined
+
+Matters not covered
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 899](https://www.govinfo.gov/link/statute/109/899); amended [Pub. L. 105–178, title IV, § 4016](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 412](https://www.govinfo.gov/link/statute/112/412); [Pub. L. 105–277, div. C, title I, § 106](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–586](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 107–298, § 2](https://www.govinfo.gov/link/plaw/107/public/298), Nov. 26, 2002, [116 Stat. 2342](https://www.govinfo.gov/link/statute/116/2342); [Pub. L. 109–59, title IV](https://www.govinfo.gov/link/plaw/109/public/59), §§ 4105(a), 4206(a), Aug. 10, 2005, [119 Stat. 1717](https://www.govinfo.gov/link/statute/119/1717), 1754; [Pub. L. 114–94, div. A, title V, § 5514](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1557](https://www.govinfo.gov/link/statute/129/1557).)*

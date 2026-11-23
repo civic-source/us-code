@@ -3,9 +3,10 @@ title: "Section 16092 - Diesel truck retrofit and fleet modernization program"
 usc_title: 42
 usc_section: "16092"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16092"
-generated_at: "2026-03-30T02:56:11.468Z"
+generated_at: "2026-11-23T21:26:33.695Z"
+status: "active"
 ---
 
 # § 16092. Diesel truck retrofit and fleet modernization program
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:11.468Z"
   - **(2)** $35,000,000 for fiscal year 2007.
   - **(3)** $45,000,000 for fiscal year 2008.
   - **(4)** Such sums as are necessary for each of fiscal years 2009 and 2010.
+
+## Source Credit
+
+*([Pub. L. 109–58, title VII, § 742](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 824](https://www.govinfo.gov/link/statute/119/824).)*

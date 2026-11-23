@@ -3,9 +3,10 @@ title: "Section 1467a - Regulation of holding companies"
 usc_title: 12
 usc_section: "1467a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1467a"
-generated_at: "2026-03-30T02:53:53.398Z"
+generated_at: "2026-11-23T21:25:36.841Z"
+status: "active"
 ---
 
 # § 1467a. Regulation of holding companies
@@ -432,3 +433,43 @@ generated_at: "2026-03-30T02:53:53.398Z"
 - **(u)**
   - **(1)** The Board shall adopt data standards for all information that, through a collection of information, is regularly filed with or submitted to the Board by any savings and loan holding company, or subsidiary of a savings and loan holding company, other than a depository institution, under this section.
   - **(2)** The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of this title , including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
+| For the following period: | The applicable percentage is: |
+| --- | --- |
+| July 1, 1991 – September 30, 1992 | 25 percent |
+| October 1, 1992 – March 31, 1994 | 50 percent |
+| April 1, 1994 – September 30, 1995 | 75 percent |
+| Thereafter | 100 percent |
+
+
+(aa) the safety and soundness of the savings and loan holding company or of any depository institution subsidiary of the savings and loan holding company; or
+
+(bb) the stability of the financial system of the United States; and
+
+(aa) would be permissible for a national bank;
+
+(bb) are necessary to meet obligations of a company that controls such savings association; and
+
+(cc) are specifically approved by the Comptroller of the Currency and the Board after a written request submitted to the Comptroller of the Currency and the Board by the savings association not later than 30 days before the date of the proposed payment.
+
+July 1, 1991 – September 30, 1992
+
+October 1, 1992 – March 31, 1994
+
+April 1, 1994 – September 30, 1995
+
+Thereafter
+
+Activities
+
+Advances
+
+“Notwithstanding the amendment made by this title to section 10 of the Home Owners’ Loan Act [ 12 U.S.C. 1467a ] and the repeal of section 416 of the National Housing Act [ 12 U.S.C. 1730i ]—
+
+In general
+
+Definitions
+
+## Source Credit
+
+*(June 13, 1933, ch. 64, § 10, as added [Pub. L. 100–86, title IV, § 404(a)](https://www.govinfo.gov/link/plaw/100/public/86), Aug. 10, 1987, [101 Stat. 609](https://www.govinfo.gov/link/statute/101/609); amended [Pub. L. 101–73, title III](https://www.govinfo.gov/link/plaw/101/public/73), §§ 301, 303(a), title IX, §§ 905(j), 907(k), Aug. 9, 1989, [103 Stat. 318](https://www.govinfo.gov/link/statute/103/318), 343, 462, 475; [Pub. L. 102–242, title II, § 211](https://www.govinfo.gov/link/plaw/102/public/242), title IV, §§ 437–440, title V, § 502(a), Dec. 19, 1991, [105 Stat. 2298](https://www.govinfo.gov/link/statute/105/2298), 2381, 2392; [Pub. L. 102–550, title XVI](https://www.govinfo.gov/link/plaw/102/public/550), §§ 1606(f)(4), 1607(b), Oct. 28, 1992, [106 Stat. 4088](https://www.govinfo.gov/link/statute/106/4088), 4089; [Pub. L. 104–201, div. A, title X, § 1077](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2664](https://www.govinfo.gov/link/statute/110/2664); [Pub. L. 104–208, div. A, title II](https://www.govinfo.gov/link/plaw/104/public/208), §§ 2201(b)(2), 2203(a)–(c), 2303(e), (g), 2704(d)(12)(B), Sept. 30, 1996, [110 Stat. 3009–403](https://www.govinfo.gov/link/statute/110/3009), 3009–404, 3009–424, 3009–425, 3009–490; [Pub. L. 106–102, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/106/public/102), (b), title VI, § 604(d), Nov. 12, 1999, [113 Stat. 1434](https://www.govinfo.gov/link/statute/113/1434), 1436, 1452; [Pub. L. 106–569, title XII](https://www.govinfo.gov/link/plaw/106/public/569), §§ 1201(b)(2), 1202, Dec. 27, 2000, [114 Stat. 3032](https://www.govinfo.gov/link/statute/114/3032); [Pub. L. 109–171, title II, § 2102(b)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 9](https://www.govinfo.gov/link/statute/120/9); [Pub. L. 109–173, § 9(e)(2)](https://www.govinfo.gov/link/plaw/109/public/173), Feb. 15, 2006, [119 Stat. 3617](https://www.govinfo.gov/link/statute/119/3617); [Pub. L. 111–203, title III, § 369(8)](https://www.govinfo.gov/link/plaw/111/public/203), title VI, §§ 604(g), (h)(2), (i), 606(b), 616(b), 623(c)–625(a), July 21, 2010, [124 Stat. 1564](https://www.govinfo.gov/link/statute/124/1564), 1602–1604, 1607, 1615, 1635, 1636; [Pub. L. 117–263, div. E, title LVIII, § 5861(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3434](https://www.govinfo.gov/link/statute/136/3434).)*

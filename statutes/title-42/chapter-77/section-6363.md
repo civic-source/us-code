@@ -3,9 +3,10 @@ title: "Section 6363 - Federal actions with respect to recycled oil"
 usc_title: 42
 usc_section: "6363"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6363"
-generated_at: "2026-03-30T02:56:11.257Z"
+generated_at: "2026-11-23T21:26:32.937Z"
+status: "active"
 ---
 
 # § 6363. Federal actions with respect to recycled oil
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:11.257Z"
 - **(f)** After the effective date of the rules required to be prescribed under subsection (d)(1)(A), all Federal officials shall act within their authority to carry out the purposes of this section, including—
   - **(1)** revising procurement policies to encourage procurement of recycled oil for military and nonmilitary Federal uses whenever such recycled oil is available at prices competitive with new oil procured for the same end use; and
   - **(2)** educating persons employed by Federal and State governments and private sectors of the economy of the merits of recycled oil, the need for its use in order to reduce the drain on the Nation’s oil reserves, and proper disposal of used oil to avoid waste of such oil and to minimize environmental hazards associated with improper disposal.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 383](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 940](https://www.govinfo.gov/link/statute/89/940); [Pub. L. 100–418, title V, § 5115(c)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1433](https://www.govinfo.gov/link/statute/102/1433).)*

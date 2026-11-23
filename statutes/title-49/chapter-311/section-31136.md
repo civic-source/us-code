@@ -3,9 +3,10 @@ title: "Section 31136 - United States Government regulations"
 usc_title: 49
 usc_section: "31136"
 chapter: 311
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 31136"
-generated_at: "2026-03-30T02:56:19.358Z"
+generated_at: "2026-11-23T21:26:40.782Z"
+status: "active"
 ---
 
 # § 31136. United States Government regulations
@@ -42,3 +43,293 @@ generated_at: "2026-03-30T02:56:19.358Z"
     - **(D)** request public comment on available alternatives to regulation.
   - **(3)** This subsection does not apply to a proposed rule if the Secretary, for good cause, finds (and incorporates the finding and a brief statement of reasons for such finding in the proposed or final rule) that an advance notice of proposed rulemaking is impracticable, unnecessary, or contrary to the public interest.
 - **(h)** Nothing in subsection (f) or (g) may be construed to limit the contents of an advance notice of proposed rulemaking.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 31136(a) | 49 App.:2505(a), (g). | Oct. 30, 1984 , Pub. L. 98–554, § 206(a) –(g), 98 Stat. 2834 . |
+| 31136(b) | 49 App.:2505(b). |  |
+| 31136(c) | 49 App.:2505(c). |  |
+| 31136(d) | 49 App.:2505(d), (e). |  |
+| 31136(e) | 49 App.:2505(f). |  |
+| 31136(f) | 49 App.:2505(h). | Oct. 30, 1984 , Pub. L. 98–554, § 206(h) , 98 Stat. 2835 ; restated Nov. 18, 1988 , Pub. L. 100–690, § 9102(a) , 102 Stat. 4528 . |
+
+
+Minimum Safety Standards
+
+Eliminating and Amending Existing Regulations
+
+Procedures and Considerations
+
+Effect of Existing Regulations
+
+Exemptions
+
+Regulatory Impact Analysis.—
+
+In general
+
+Scope
+
+Public Participation.—
+
+In general
+
+Requirements
+
+Waiver
+
+Rule of Construction
+
+Historical and Revision Notes
+
+31136(a)
+
+Oct. 30, 1984
+
+Pub. L. 98–554, § 206(a)
+
+98 Stat. 2834
+
+31136(b)
+
+31136(c)
+
+31136(d)
+
+31136(e)
+
+31136(f)
+
+Oct. 30, 1984
+
+Pub. L. 98–554, § 206(h)
+
+98 Stat. 2835
+
+Nov. 18, 1988
+
+Pub. L. 100–690, § 9102(a)
+
+102 Stat. 4528
+
+Definitions
+
+Automatic emergency braking system
+
+Commercial motor vehicle
+
+Federal Motor Vehicle Safety Standard.—
+
+In general
+
+Considerations
+
+Federal Motor Carrier Safety Regulation
+
+Report on Automatic Emergency Braking in Other Commercial Motor Vehicles.—
+
+Study
+
+Independent research
+
+Public comment
+
+Report to congress
+
+Rulemaking
+
+In General
+
+Vehicle Safety Technology Defined
+
+Rule of Construction
+
+In General
+
+Hi-Rail Vehicle Defined
+
+Covered Motor Vehicle Defined
+
+Federal Requirements
+
+Defined Term
+
+Authorization
+
+Rulemaking
+
+Savings Provision
+
+Advanced glazing
+
+Bus
+
+Commercial motor vehicle
+
+Direct tire pressure monitoring system
+
+Motor carrier
+
+Motorcoach
+
+Motorcoach services
+
+Multifunction school activity bus
+
+Portal
+
+Provider of motorcoach services
+
+Public transportation
+
+Safety belt
+
+Secretary
+
+Regulations Required Within
+
+Year
+
+Regulations Required Within
+
+Years
+
+Roof strength and crush resistance
+
+Anti-ejection safety countermeasures
+
+Rollover crash avoidance
+
+Commercial Motor Vehicle Tire Pressure Monitoring Systems
+
+In general
+
+Performance requirements
+
+Tire Performance Standard
+
+Application of Regulations.—
+
+New motorcoaches
+
+Retrofit assessment for existing motorcoaches.—
+
+In general
+
+Report
+
+Research and Testing
+
+Standards
+
+Safety Research Initiatives
+
+Interior impact protection
+
+Compartmentalization safety countermeasures
+
+Collision avoidance systems
+
+Rulemaking
+
+Requirements
+
+Authority to Combine Rulemakings
+
+Considerations
+
+Safety Reviews
+
+Disclosure of Safety Performance Ratings of Motorcoach Services and Operations.—
+
+Definitions
+
+Motorcoach.—
+
+In general
+
+Exclusions
+
+Motorcoach services and operations
+
+Requirements for the disclosure of safety performance ratings of motorcoach services and operations.—
+
+In general
+
+Display
+
+In General
+
+Report
+
+Federal Requirements
+
+State Requirements.—
+
+In general
+
+Exception
+
+Covered Farm Vehicle Defined.—
+
+In general
+
+Inclusion
+
+Safety Study
+
+Construction
+
+Exemptions.—
+
+Transportation of agricultural commodities and farm supplies
+
+Transportation and operation of ground water well drilling rigs
+
+Transportation of construction materials and equipment
+
+Operators of utility service vehicles.—
+
+Inapplicability of federal regulations
+
+Prohibition on state regulations
+
+Snow and ice removal
+
+Preemption
+
+Review by the Secretary
+
+Report
+
+Definitions
+
+or 8 consecutive days
+
+hour period
+
+Ground water well drilling rig
+
+Transportation of construction materials and equipment
+
+Eligible unit of local government
+
+Utility service vehicle
+
+Agricultural commodity
+
+Farm supplies for agricultural purposes
+
+Emergency Condition Requiring Immediate Response.—
+
+Propane or pipeline emergency
+
+Definition
+
+Advance Notice
+
+Rulemaking
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1003](https://www.govinfo.gov/link/statute/108/1003); [Pub. L. 104–59, title III, § 344](https://www.govinfo.gov/link/plaw/104/public/59), Nov. 28, 1995, [109 Stat. 610](https://www.govinfo.gov/link/statute/109/610); [Pub. L. 104–287, § 5(60)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3394](https://www.govinfo.gov/link/statute/110/3394); [Pub. L. 105–178, title IV, § 4007(c)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 403](https://www.govinfo.gov/link/statute/112/403); [Pub. L. 109–59, title IV, § 4116(b)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1728](https://www.govinfo.gov/link/statute/119/1728); [Pub. L. 112–141, div. C, title II, § 32911](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 818](https://www.govinfo.gov/link/statute/126/818); [Pub. L. 114–94, div. A, title V, § 5202](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1534](https://www.govinfo.gov/link/statute/129/1534).)*

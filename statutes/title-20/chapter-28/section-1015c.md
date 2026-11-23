@@ -3,9 +3,10 @@ title: "Section 1015c - Database of student information prohibited"
 usc_title: 20
 usc_section: "1015c"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1015c"
-generated_at: "2026-03-30T02:54:48.094Z"
+generated_at: "2026-11-23T21:25:47.009Z"
+status: "active"
 ---
 
 # § 1015c. Database of student information prohibited
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:48.094Z"
   - **(1)** is necessary for the operation of programs authorized by subchapter II, IV, or VII; and
   - **(2)** was in use by the Secretary, directly or through a contractor, as of the day before August 14, 2008 .
 - **(c)** Nothing in this chapter shall prohibit a State or a consortium of States from developing, implementing, or maintaining State-developed databases that track individuals over time, including student unit record systems that contain information related to enrollment, attendance, graduation and retention rates, student financial assistance, and graduate employment outcomes.
+
+## Source Credit
+
+*([Pub. L. 89–329, title I, § 134](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title I, § 113](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3110](https://www.govinfo.gov/link/statute/122/3110).)*

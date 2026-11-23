@@ -3,9 +3,10 @@ title: "Section 25B - Elective deferrals and IRA contributions by certain indivi
 usc_title: 26
 usc_section: "25B"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 25B"
-generated_at: "2026-03-30T02:55:27.588Z"
+generated_at: "2026-11-23T21:26:05.888Z"
+status: "active"
 ---
 
 # § 25B. Elective deferrals and IRA contributions by certain individuals
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:55:27.588Z"
     - **(D)** For purposes of determining distributions received by an individual under subparagraph (A) for any taxable year, any distribution received by the spouse of such individual shall be treated as received by such individual if such individual and spouse file a joint return for such taxable year and for the taxable year during which the spouse receives the distribution.
 - **(e)** For purposes of this section, adjusted gross income shall be determined without regard to sections 911, 931, and 933.
 - **(f)** Notwithstanding any other provision of law, a qualified retirement savings contribution shall not fail to be included in determining the investment in the contract for purposes of section 72 by reason of the credit under this section.
+
+## Source Credit
+
+*(Added and amended [Pub. L. 107–16, title VI, § 618(a)](https://www.govinfo.gov/link/plaw/107/public/16), (b)(1), June 7, 2001, [115 Stat. 106](https://www.govinfo.gov/link/statute/115/106), 108; [Pub. L. 107–147, title IV](https://www.govinfo.gov/link/plaw/107/public/147), §§ 411(m), 417(1), Mar. 9, 2002, [116 Stat. 48](https://www.govinfo.gov/link/statute/116/48), 56; [Pub. L. 108–311, title II, § 207(4)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1177](https://www.govinfo.gov/link/statute/118/1177); [Pub. L. 109–135, title IV, § 402(i)(3)(D)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2614](https://www.govinfo.gov/link/statute/119/2614); [Pub. L. 109–280, title VIII](https://www.govinfo.gov/link/plaw/109/public/280), §§ 812, 833(a), Aug. 17, 2006, [120 Stat. 997](https://www.govinfo.gov/link/statute/120/997), 1003; [Pub. L. 110–343, div. B, title I, § 106(e)(2)(C)](https://www.govinfo.gov/link/plaw/110/public/343), title II, § 205(d)(1)(C), Oct. 3, 2008, [122 Stat. 3817](https://www.govinfo.gov/link/statute/122/3817), 3838; [Pub. L. 111–5, div. B, title I](https://www.govinfo.gov/link/plaw/111/public/5), §§ 1004(b)(4), 1142(b)(1)(C), 1144(b)(1)(C), Feb. 17, 2009, [123 Stat. 314](https://www.govinfo.gov/link/statute/123/314), 330, 332; [Pub. L. 111–148, title X, § 10909(b)(2)(D)](https://www.govinfo.gov/link/plaw/111/public/148), (c), Mar. 23, 2010, [124 Stat. 1023](https://www.govinfo.gov/link/statute/124/1023); [Pub. L. 111–312, title I, § 101(b)(1)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3298](https://www.govinfo.gov/link/statute/124/3298); [Pub. L. 112–240, title I, § 104(c)(2)(E)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2322](https://www.govinfo.gov/link/statute/126/2322); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 11002(d)(1)(C), 11024(b), Dec. 22, 2017, [131 Stat. 2060](https://www.govinfo.gov/link/statute/131/2060), 2076; [Pub. L. 117–328, div. T, title I, § 103(e)(1)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5286](https://www.govinfo.gov/link/statute/136/5286); [Pub. L. 119–21, title VII, § 70116(a)(1)](https://www.govinfo.gov/link/plaw/119/public/21), (2), (b)(1), July 4, 2025, [139 Stat. 166](https://www.govinfo.gov/link/statute/139/166), 167.)*

@@ -3,9 +3,10 @@ title: "Section 6372f - Authorization of appropriations"
 usc_title: 42
 usc_section: "6372f"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6372f"
-generated_at: "2026-03-30T02:56:11.259Z"
+generated_at: "2026-11-23T21:26:32.949Z"
+status: "active"
 ---
 
 # § 6372f. Authorization of appropriations
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:11.259Z"
 - **(a)** For the purpose of making grants to States to conduct preliminary energy audits and energy audits under this part there is authorized to be appropriated not to exceed $7,500,000 for the fiscal year ending September 30, 1978 , and $7,500,000 for the fiscal year ending September 30, 1979 , such funds to remain available until expended.
 - **(b)** For the purpose of making technical assistance grants under this part to States and to units of local government and public care institutions, there is hereby authorized to be appropriated not to exceed $17,500,000 for the fiscal year ending September 30, 1978 , and $32,500,000 for the fiscal year ending September 30, 1979 , such funds to remain available until expended.
 - **(c)** For the expenses of the Secretary in administering the provisions of this part, there are hereby authorized to be appropriated such sums as may be necessary for each fiscal year in the two consecutive fiscal year periods ending September 30, 1979 , such funds to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 400G](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 95–619, title III, § 311(a)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3253](https://www.govinfo.gov/link/statute/92/3253).)*

@@ -3,9 +3,10 @@ title: "Section 665n - Industrial Control Systems Cybersecurity Training Initiat
 usc_title: 6
 usc_section: "665n"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 665n"
-generated_at: "2026-03-30T02:53:09.481Z"
+generated_at: "2026-11-23T21:25:25.833Z"
+status: "active"
 ---
 
 # § 665n. Industrial Control Systems Cybersecurity Training Initiative
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:53:09.481Z"
     - **(E)** Information on the participation in such courses of workers from each critical infrastructure sector.
     - **(F)** Plans for expanding access to industrial control systems education and training, including expanding access to women and underrepresented populations, and expanding access to different regions of the United States.
     - **(G)** Recommendations regarding how to strengthen the state of industrial control systems cybersecurity education and training.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XXII, § 2220E](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 117–263, div. G, title LXXI, § 7122(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3640](https://www.govinfo.gov/link/statute/136/3640).)*

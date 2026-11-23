@@ -3,9 +3,10 @@ title: "Section 1324d - Civil penalties for failure to depart"
 usc_title: 8
 usc_section: "1324d"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1324d"
-generated_at: "2026-03-30T02:53:10.495Z"
+generated_at: "2026-11-23T21:25:25.175Z"
+status: "active"
 ---
 
 # § 1324d. Civil penalties for failure to depart
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:10.495Z"
     - **(C)** present for removal at the time and place required by the Attorney General; or
   - **(2)** conspires to or takes any action designed to prevent or hamper the alien’s departure pursuant to the order,
 - **(b)** Nothing in this section shall be construed to diminish or qualify any penalties to which an alien may be subject for activities proscribed by section 1253(a) of this title or any other section of this chapter.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 8, § 274D, as added [Pub. L. 104–208, div. C, title III, § 380(a)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–650](https://www.govinfo.gov/link/statute/110/3009).)*

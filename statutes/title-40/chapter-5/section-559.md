@@ -3,9 +3,10 @@ title: "Section 559 - Advice of Attorney General with respect to antitrust law"
 usc_title: 40
 usc_section: "559"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 559"
-generated_at: "2026-03-30T02:55:43.375Z"
+generated_at: "2026-11-23T21:26:14.817Z"
+status: "active"
 ---
 
 # § 559. Advice of Attorney General with respect to antitrust law
@@ -28,3 +29,52 @@ generated_at: "2026-03-30T02:55:43.375Z"
   - **(1)** give advice required by this section; or
   - **(2)** determine whether any other disposition or proposed disposition of surplus property violates antitrust law.
 - **(f)** This subtitle does not impair, amend, or modify antitrust law or limit or prevent application of antitrust law to a person acquiring property under this subtitle.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 559 | 40:488. | June 30, 1949, ch. 288 , title II, § 207, 63 Stat. 391 ; Pub. L. 85–680 , Aug. 19, 1958 , 72 Stat. 631 ; Pub. L. 100–612, § 7 , Nov. 5, 1988 , 102 Stat. 3182 . |
+
+
+Definition
+
+Advice Required.—
+
+In general
+
+Exception
+
+Notice to Attorney General.—
+
+In general
+
+Copy
+
+Advice From Attorney General
+
+Request for Information
+
+No Effect on Antitrust Law
+
+Historical and Revision Notes
+
+559
+
+June 30, 1949, ch. 288
+
+63 Stat. 391
+
+Pub. L. 85–680
+
+Aug. 19, 1958
+
+72 Stat. 631
+
+Pub. L. 100–612, § 7
+
+Nov. 5, 1988
+
+102 Stat. 3182
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1103](https://www.govinfo.gov/link/statute/116/1103).)*

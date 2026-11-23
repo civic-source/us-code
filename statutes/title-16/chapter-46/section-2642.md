@@ -3,9 +3,10 @@ title: "Section 2642 - Responsibilities of Secretary"
 usc_title: 16
 usc_section: "2642"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2642"
-generated_at: "2026-03-30T02:54:23.005Z"
+generated_at: "2026-11-23T21:25:51.954Z"
+status: "active"
 ---
 
 # § 2642. Responsibilities of Secretary
@@ -22,3 +23,17 @@ generated_at: "2026-03-30T02:54:23.005Z"
   - **(1)** educating consumers on the availability, advantages, and benefits of advanced metering and communications technologies, including the funding of demonstration or pilot projects;
   - **(2)** working with States, utilities, other energy providers and advanced metering and communications experts to identify and address barriers to the adoption of demand response programs; and
   - **(3)** not later than 180 days after August 8, 2005 , providing Congress with a report that identifies and quantifies the national benefits of demand response and makes a recommendation on achieving specific levels of such benefits by January 1, 2007 .
+
+Demand Response and Regional Coordination.—
+
+In general
+
+Technical assistance
+
+Report
+
+Federal Encouragement of Demand Response Devices
+
+## Source Credit
+
+*([Pub. L. 95–617, title I, § 132](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3131](https://www.govinfo.gov/link/statute/92/3131); [Pub. L. 109–58, title XII, § 1252(c)](https://www.govinfo.gov/link/plaw/109/public/58), (d), Aug. 8, 2005, [119 Stat. 965](https://www.govinfo.gov/link/statute/119/965).)*

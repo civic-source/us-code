@@ -3,9 +3,10 @@ title: "Section 8101 - Findings"
 usc_title: 22
 usc_section: "8101"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8101"
-generated_at: "2026-03-30T02:55:05.448Z"
+generated_at: "2026-11-23T21:25:58.733Z"
+status: "active"
 ---
 
 # § 8101. Findings
@@ -22,3 +23,19 @@ Congress makes the following findings:
   - **(8)** Implementation of the Additional Protocol by the United States is not required and is completely voluntary given its status as a nuclear-weapon State Party, but the United States has acceded to the Additional Protocol to demonstrate its commitment to the nuclear nonproliferation regime and to make United States civil nuclear activities available to the same IAEA inspections as are applied in the case of non-nuclear-weapon State Parties.
   - **(9)** In accordance with the national security exclusion contained in Article 1.b of its Additional Protocol, the United States will not allow any inspection activities, nor make any declaration of any information with respect to, locations, information, and activities of direct national security significance to the United States.
   - **(10)** Implementation of the Additional Protocol will conform to the principles set forth in the letter of April 30, 2002 , from the United States Permanent Representative to the International Atomic Energy Agency and the Vienna Office of the United Nations to the Director General of the International Atomic Energy Agency.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 109–401, title II, § 202](https://www.govinfo.gov/link/plaw/109/public/401), Dec. 18, 2006, [120 Stat. 2741](https://www.govinfo.gov/link/statute/120/2741).)*

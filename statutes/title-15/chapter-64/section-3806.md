@@ -3,9 +3,10 @@ title: "Section 3806 - Demonstrations"
 usc_title: 15
 usc_section: "3806"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3806"
-generated_at: "2026-03-30T02:54:08.196Z"
+generated_at: "2026-11-23T21:25:39.984Z"
+status: "active"
 ---
 
 # § 3806. Demonstrations
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:08.196Z"
   - **(4)** industrial, commercial, and agricultural uses,
   - **(5)** varying vehicular structures, and
   - **(6)** average trip lengths:
+
+## Source Credit
+
+*([Pub. L. 96–512, § 7](https://www.govinfo.gov/link/plaw/96/public/512), Dec. 12, 1980, [94 Stat. 2830](https://www.govinfo.gov/link/statute/94/2830).)*

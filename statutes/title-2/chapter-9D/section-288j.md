@@ -3,9 +3,10 @@ title: "Section 288j - Consideration of resolutions to direct counsel"
 usc_title: 2
 usc_section: "288j"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 288j"
-generated_at: "2026-03-30T02:53:04.795Z"
+generated_at: "2026-11-23T21:25:21.155Z"
+status: "active"
 ---
 
 # § 288j. Consideration of resolutions to direct counsel
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:04.795Z"
 - **(c)** The provisions of this section are enacted—
   - **(1)** as an exercise of the rulemaking power of the Senate, and, as such, they shall be considered as part of the rules of the Senate, and such rules shall supersede any other rule of the Senate only to the extent that rule is inconsistent therewith; and
   - **(2)** with full recognition of the constitutional right of the Senate to change such rules at any time, in the same manner, and to the same extent as in the case of any other rule of the Senate.
+
+## Source Credit
+
+*([Pub. L. 95–521, title VII, § 711](https://www.govinfo.gov/link/plaw/95/public/521), Oct. 26, 1978, [92 Stat. 1882](https://www.govinfo.gov/link/statute/92/1882).)*

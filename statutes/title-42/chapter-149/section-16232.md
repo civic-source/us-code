@@ -3,9 +3,10 @@ title: "Section 16232 - Bioenergy program"
 usc_title: 42
 usc_section: "16232"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16232"
-generated_at: "2026-03-30T02:56:11.474Z"
+generated_at: "2026-11-23T21:26:33.708Z"
+status: "active"
 ---
 
 # § 16232. Bioenergy program
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:56:11.474Z"
   - **(5)** other criteria, as determined by the Secretary.
 - **(g)** The Secretary shall establish a program of research, development, demonstration, and commercial application for increasing energy efficiency and reducing energy consumption in the operation of biorefinery facilities.
 - **(h)** The Secretary shall establish a program of research, development, demonstration, and commercial application on technologies and processes to enable biorefineries that exclusively use corn grain or corn starch as a feedstock to produce ethanol to be retrofitted to accept a range of biomass, including lignocellulosic feedstocks.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 932](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 870](https://www.govinfo.gov/link/statute/119/870); [Pub. L. 110–140, title II, § 224](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1533](https://www.govinfo.gov/link/statute/121/1533).)*

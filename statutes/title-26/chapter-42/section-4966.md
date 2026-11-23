@@ -3,9 +3,10 @@ title: "Section 4966 - Taxes on taxable distributions"
 usc_title: 26
 usc_section: "4966"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4966"
-generated_at: "2026-03-30T02:55:27.810Z"
+generated_at: "2026-11-23T21:26:06.655Z"
+status: "active"
 ---
 
 # § 4966. Taxes on taxable distributions
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:55:27.810Z"
       - **(i)** operated, supervised, or controlled by one or more organizations described in paragraph (1) or (2) of section 509(a), or
       - **(ii)** supervised or controlled in connection with one or more such organizations.
     - **(C)** An organization is described in this subparagraph if the organization is a functionally integrated type III supporting organization (as defined under section 4943(f)(5)(B)).
+
+## Source Credit
+
+*(Added [Pub. L. 109–280, title XII, § 1231(a)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1095](https://www.govinfo.gov/link/statute/120/1095).)*

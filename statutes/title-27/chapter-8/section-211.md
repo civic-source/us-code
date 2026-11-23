@@ -3,9 +3,10 @@ title: "Section 211 - Miscellaneous provisions"
 usc_title: 27
 usc_section: "211"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "27 U.S.C. § 211"
-generated_at: "2026-03-30T02:55:15.105Z"
+generated_at: "2026-11-23T21:26:00.007Z"
+status: "active"
 ---
 
 # § 211. Miscellaneous provisions
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:15.105Z"
   - **(8)** The term “bottle” means any container, irrespective of the material from which made, for use for the sale of distilled spirits, wine, or malt beverages at retail.
 - **(b)** The right to amend or repeal the provisions of this subchapter is expressly reserved.
 - **(c)** If any provision of this subchapter, or the application of such provision to any person or circumstance, is held invalid, the remainder of the chapter and the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.
+
+## Source Credit
+
+*(Aug. 29, 1935, ch. 814, title I, § 117, formerly § 17, [49 Stat. 989](https://www.govinfo.gov/link/statute/49/989); 1940 Reorg. Plan No. III, § 2, eff. June 30, 1940, 5 F.R. 2108, [54 Stat. 1232](https://www.govinfo.gov/link/statute/54/1232); renumbered title I, § 117, and amended [Pub. L. 100–690, title VIII, § 8001(a)(1)](https://www.govinfo.gov/link/plaw/100/public/690), (2), (b)(2), Nov. 18, 1988, [102 Stat. 4517](https://www.govinfo.gov/link/statute/102/4517), 4521.)*

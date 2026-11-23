@@ -3,9 +3,10 @@ title: "Section 7302 - Issuing merchant mariners’ documents and continuous dis
 usc_title: 46
 usc_section: "7302"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 7302"
-generated_at: "2026-03-30T02:56:15.550Z"
+generated_at: "2026-11-23T21:26:37.078Z"
+status: "active"
 ---
 
 # § 7302. Issuing merchant mariners’ documents and continuous discharge books
@@ -23,3 +24,64 @@ generated_at: "2026-03-30T02:56:15.550Z"
     - **(A)** an individual to be employed as gaming personnel, entertainment personnel, wait staff, or other service personnel on board a passenger vessel not engaged in foreign service, with no duties, including emergency duties, related to the navigation of the vessel or the safety of the vessel, its crew, cargo or passengers; or
     - **(B)** an individual seeking renewal of, or qualifying for a supplemental endorsement to, a valid merchant mariner’s document issued under this section.
   - **(2)** No more than one interim document may be issued to an individual under paragraph (1)(A) of this subsection.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 7302 | 46:239a(c) 46:643(a) 46:643(c) 46:672(i) |
+
+
+Periods of Validity and Renewal of Merchant Mariners’ Documents.—
+
+In general
+
+Advance renewals
+
+Historical and Revision Notes
+
+7302
+
+Short Title
+
+Modification of Sea Service Requirements for Merchant Mariner Credentials for Veterans and Members of the Uniformed Services.—
+
+Review and regulations
+
+Consultation
+
+Report
+
+Assessment of Skillbridge for Employment as a Merchant Mariner
+
+Credentialing Support
+
+Review of Applicable Service
+
+Fees and Services
+
+Advancing Military to Mariner Within the Employer Agencies
+
+In general
+
+Appointments of retired members of the armed forces
+
+Separated Member of the Uniformed Services
+
+In General
+
+Requirements
+
+Exception
+
+Maximizing creditability
+
+Notification
+
+Credentialed mariner
+
+Merchant mariner credential
+
+Uniformed services
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 542](https://www.govinfo.gov/link/statute/97/542); [Pub. L. 101–380, title IV](https://www.govinfo.gov/link/plaw/101/public/380), §§ 4101(b), 4102(c), Aug. 18, 1990, [104 Stat. 509](https://www.govinfo.gov/link/statute/104/509); [Pub. L. 107–295, title III, § 324(a)](https://www.govinfo.gov/link/plaw/107/public/295), Nov. 25, 2002, [116 Stat. 2104](https://www.govinfo.gov/link/statute/116/2104); [Pub. L. 108–293, title VI, § 609(1)](https://www.govinfo.gov/link/plaw/108/public/293), Aug. 9, 2004, [118 Stat. 1058](https://www.govinfo.gov/link/statute/118/1058); [Pub. L. 109–241, title IX, § 901(h)(1)](https://www.govinfo.gov/link/plaw/109/public/241), (2), July 11, 2006, [120 Stat. 564](https://www.govinfo.gov/link/statute/120/564); [Pub. L. 111–281, title VI, § 614(a)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2970](https://www.govinfo.gov/link/statute/124/2970).)*

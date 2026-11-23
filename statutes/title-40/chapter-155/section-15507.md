@@ -3,9 +3,10 @@ title: "Section 15507 - Payment of non-Federal share for certain Federal grant p
 usc_title: 40
 usc_section: "15507"
 chapter: 155
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 15507"
-generated_at: "2026-03-30T02:55:43.388Z"
+generated_at: "2026-11-23T21:26:14.975Z"
+status: "active"
 ---
 
 # § 15507. Payment of non-Federal share for certain Federal grant programs
@@ -14,3 +15,7 @@ Amounts made available to carry out this subtitle shall be available for the pay
 
   - **(1)** for which a Commission is not the sole or primary funding source; and
   - **(2)** that is consistent with the authorities of the applicable Commission.
+
+## Source Credit
+
+*(Added [Pub. L. 118–272, div. B, title II, § 2244(a)](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3204](https://www.govinfo.gov/link/statute/138/3204).)*

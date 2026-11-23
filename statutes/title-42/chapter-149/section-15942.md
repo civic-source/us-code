@@ -3,9 +3,10 @@ title: "Section 15942 - NEPA review"
 usc_title: 42
 usc_section: "15942"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15942"
-generated_at: "2026-03-30T02:56:11.465Z"
+generated_at: "2026-11-23T21:26:33.687Z"
+status: "active"
 ---
 
 # § 15942. NEPA review
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.465Z"
   - **(3)** Drilling an oil or gas well within a developed field for which an approved land use plan or any environmental document prepared pursuant to NEPA analyzed such drilling as a reasonably foreseeable activity, so long as such plan or document was approved within 5 years prior to the date of spudding the well.
   - **(4)** Placement of a pipeline in an approved right-of-way corridor, so long as the corridor was approved within 5 years prior to the date of placement of the pipeline.
   - **(5)** Maintenance of a minor activity, other than any construction or major renovation or a building or facility.
+
+## Source Credit
+
+*([Pub. L. 109–58, title III, § 390](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 747](https://www.govinfo.gov/link/statute/119/747).)*

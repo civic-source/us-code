@@ -3,9 +3,10 @@ title: "Section 1141d - Request for extension of protection subsequent to intern
 usc_title: 15
 usc_section: "1141d"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1141d"
-generated_at: "2026-03-30T02:54:08.128Z"
+generated_at: "2026-11-23T21:25:39.794Z"
+status: "active"
 ---
 
 # § 1141d. Request for extension of protection subsequent to international registration
@@ -14,3 +15,7 @@ The holder of an international registration that is based upon a basic applicati
 
   - **(1)** directly with the International Bureau; or
   - **(2)** with the United States Patent and Trademark Office for transmittal to the International Bureau, if the request is in such form, and contains such transmittal fee, as may be prescribed by the Director.
+
+## Source Credit
+
+*(July 5, 1946, ch. 540, title XII, § 64, as added [Pub. L. 107–273, div. C, title III, § 13402](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1916](https://www.govinfo.gov/link/statute/116/1916).)*

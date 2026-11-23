@@ -3,9 +3,10 @@ title: "Section 136j - Unlawful acts"
 usc_title: 7
 usc_section: "136j"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 136j"
-generated_at: "2026-03-30T02:53:42.262Z"
+generated_at: "2026-11-23T21:25:27.895Z"
+status: "active"
 ---
 
 # § 136j. Unlawful acts
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:53:42.262Z"
   - **(3)** any public official while engaged in the performance of the official duties of the public official;
   - **(4)** any person using or possessing any pesticide as provided by an experimental use permit in effect with respect to such pesticide and such use or possession; or
   - **(5)** any person who ships a substance or mixture of substances being put through tests in which the purpose is only to determine its value for pesticide purposes or to determine its toxicity or other properties and from which the user does not expect to receive any benefit in pest control from its use.
+
+## Source Credit
+
+*(June 25, 1947, ch. 125, § 12, as added [Pub. L. 92–516, § 2](https://www.govinfo.gov/link/plaw/92/public/516), Oct. 21, 1972, [86 Stat. 989](https://www.govinfo.gov/link/statute/86/989); amended [Pub. L. 95–396, § 16](https://www.govinfo.gov/link/plaw/95/public/396), Sept. 30, 1978, [92 Stat. 832](https://www.govinfo.gov/link/statute/92/832); [Pub. L. 100–532, title VI](https://www.govinfo.gov/link/plaw/100/public/532), §§ 601(b)(2), 603, title VIII, § 801(g), (q)(2)(B), Oct. 25, 1988, [102 Stat. 2677](https://www.govinfo.gov/link/statute/102/2677), 2678, 2682, 2683; [Pub. L. 102–237, title X, § 1006(a)(7)](https://www.govinfo.gov/link/plaw/102/public/237), (b)(3)(L)–(O), Dec. 13, 1991, [105 Stat. 1895](https://www.govinfo.gov/link/statute/105/1895), 1896.)*

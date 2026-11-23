@@ -3,9 +3,10 @@ title: "Section 398a - Pilot program for sharing cyber capabilities and related 
 usc_title: 10
 usc_section: "398a"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 398a"
-generated_at: "2026-03-30T02:53:38.057Z"
+generated_at: "2026-11-23T21:25:32.263Z"
+status: "active"
 ---
 
 # § 398a. Pilot program for sharing cyber capabilities and related information with foreign operational partners
@@ -38,3 +39,23 @@ generated_at: "2026-03-30T02:53:38.057Z"
     - **(C)** Committee on Foreign Affairs of the House of Representatives.
   - **(2)** The term “cyber capability” means a device or computer program, including any combination of software, firmware, or hardware, designed to create an effect in or through cyberspace.
 - **(h)** Nothing in this section shall be construed as amending, diminishing, or otherwise impacting reporting or other obligations under the War Powers Resolution.
+
+Authority to Establish Pilot Program to Share Cyber Capabilities
+
+List of Foreign Countries
+
+Procedures
+
+Notification Required
+
+Termination
+
+Performance Metrics
+
+Definitions
+
+Rule of Construction
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. A, title XV, § 1551(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2918](https://www.govinfo.gov/link/statute/136/2918), § 398; renumbered § 398a and amended [Pub. L. 118–31, div. A, title XV, § 1501](https://www.govinfo.gov/link/plaw/118/public/31), title XVIII, § 1801(a)(6), (7), Dec. 22, 2023, [137 Stat. 533](https://www.govinfo.gov/link/statute/137/533), 683.)*

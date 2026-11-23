@@ -3,12 +3,17 @@ title: "Section 158 - False or fraudulent statements prohibited; penalties"
 usc_title: 15
 usc_section: "158"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 158"
-generated_at: "2026-03-30T02:54:08.075Z"
+generated_at: "2026-11-23T21:25:39.608Z"
+status: "active"
 ---
 
 # § 158. False or fraudulent statements prohibited; penalties
 
 No stockholder, director, officer, employee, or agent of a China Trade Act corporation shall make, issue, or publish any statement, written or oral, or advertisement in any form, as to the value or as to the facts affecting the value of stocks, bonds, or other evidences of debt, or as to the financial condition or transactions, or facts affecting such condition or transactions, of such corporation if it has issued or is to issue stocks, bonds, or other evidences of debt, whenever he knows or has reason to believe that any material representation in such statement or advertisement is false. No stockholder, director, officer, employee, or agent of a China Trade Act corporation shall, if all the authorized capital stock thereof has not been paid in, make, issue, or publish any written statement or advertisement, in any form, stating the amount of the authorized capital stock without also stating as the amount actually paid in, a sum not greater than the amount paid in. Any person violating any provisions of this section shall, upon conviction thereof, be fined not more than $5,000 or imprisoned not more than ten years, or both.
 
+
+## Source Credit
+
+*(Sept. 19, 1922, ch. 346, § 18, [42 Stat. 855](https://www.govinfo.gov/link/statute/42/855).)*

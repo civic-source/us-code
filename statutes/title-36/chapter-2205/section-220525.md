@@ -3,9 +3,10 @@ title: "Section 220525 - Granting sanctions for amateur athletic competitions"
 usc_title: 36
 usc_section: "220525"
 chapter: 2205
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 220525"
-generated_at: "2026-03-30T02:55:44.710Z"
+generated_at: "2026-11-23T21:26:13.751Z"
+status: "active"
 ---
 
 # § 220525. Granting sanctions for amateur athletic competitions
@@ -31,3 +32,41 @@ generated_at: "2026-03-30T02:55:44.710Z"
     - **(E)** proper medical supervision will be provided for athletes who will participate in the competition;
     - **(F)** proper safety precautions have been taken to protect the personal welfare of the athletes and spectators at the competition; and
     - **(G)** the amateur sports organization or person requesting sanction from a national governing body will implement and abide by the policies and procedures to prevent the abuse, including emotional, physical, and child abuse, of amateur athletes participating in amateur athletic activities applicable to such national governing body.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 220525(a)(1) | 36:392(a)(4). | Sept. 21, 1950, ch. 975 , title II, § 202(a)(4), (b), as added Nov. 8, 1978 , Pub. L. 95–606, § 2 , 92 Stat. 3052 , 3053. |
+| 220525(a) (2)(A) | 36:392(b) (words before cl. (1)). |  |
+| 220525(a) (2)(B) | (no source). |  |
+| 220525(b) (words before par. (1)) | 36:392(b)(1) (words before subcl. (A)), (2) (words before subcl. (A)). |  |
+| 220525(b)(1) | 36:392(b)(1)(A), (2)(A). |  |
+| 220525(b) (2)(A) | 36:392(b)(1)(C). |  |
+| 220525(b) (2)(B) | 36:392(b)(1)(B) (words before subcl. (i)). |  |
+| 220525(b) (3)(A) | 36:392(b)(2)(C). |  |
+| 220525(b) (3)(B) | 36:392(b)(2)(B) (words before subcl. (i)). |  |
+| 220525(b)(4) | 36:392(b)(1)(B)(i)– (vi), (2)(B)(i)–(vi). |  |
+
+
+Prompt Review and Decision
+
+Requirements
+
+Historical and Revision Notes
+
+220525(a)(1)
+
+Sept. 21, 1950, ch. 975
+
+Nov. 8, 1978
+
+Pub. L. 95–606, § 2
+
+92 Stat. 3052
+
+220525(b)(1)
+
+220525(b)(4)
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1474](https://www.govinfo.gov/link/statute/112/1474); [Pub. L. 115–126, title II, § 203](https://www.govinfo.gov/link/plaw/115/public/126), Feb. 14, 2018, [132 Stat. 323](https://www.govinfo.gov/link/statute/132/323).)*

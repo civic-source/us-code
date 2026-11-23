@@ -3,9 +3,10 @@ title: "Section 5334 - Data standards"
 usc_title: 12
 usc_section: "5334"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5334"
-generated_at: "2026-03-30T02:53:53.529Z"
+generated_at: "2026-11-23T21:25:37.240Z"
+status: "active"
 ---
 
 # § 5334. Data standards
@@ -42,3 +43,19 @@ generated_at: "2026-03-30T02:53:53.529Z"
     - **(A)** consult with other Federal departments and agencies and multi-agency initiatives responsible for Federal data standards; and
     - **(B)** seek to promote interoperability of financial regulatory data across members of the Council.
 - **(d)** The data standards established in the final rules promulgated under subsection (b)(2) shall take effect not later than 2 years after the date on which those final rules are promulgated under that subsection.
+
+No Effect on Intellectual Property
+
+No Effect on Monetary Policy
+
+Preservation of Agency Authority To Tailor Requirements
+
+In General
+
+Existing Agency Regulations
+
+Data Privacy and Personally Identifiable Information
+
+## Source Credit
+
+*([Pub. L. 111–203, title I, § 124](https://www.govinfo.gov/link/plaw/111/public/203), as added [Pub. L. 117–263, div. E, title LVIII, § 5811(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3422](https://www.govinfo.gov/link/statute/136/3422).)*

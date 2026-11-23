@@ -3,9 +3,10 @@ title: "Section 9541 - Annual diverse business forum on capital formation"
 usc_title: 15
 usc_section: "9541"
 chapter: 120
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9541"
-generated_at: "2026-03-30T02:54:08.249Z"
+generated_at: "2026-11-23T21:25:40.149Z"
+status: "active"
 ---
 
 # § 9541. Annual diverse business forum on capital formation
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:08.249Z"
       - **(i)** assessing the finding or recommendation; and
       - **(ii)** disclosing the action, if any, the Federal agency intends to take with respect to the finding or recommendation.
   - **(2)** If a finding or recommendation described in subsection (d)(1) relates to more than 1 Federal agency, the applicable Federal agencies may, for the purposes of the public statement required under paragraph (1)(B), issue a joint statement.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. K, title II, § 100201](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1455](https://www.govinfo.gov/link/statute/135/1455).)*

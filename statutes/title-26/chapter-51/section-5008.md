@@ -3,9 +3,10 @@ title: "Section 5008 - Abatement, remission, refund, and allowance for loss or d
 usc_title: 26
 usc_section: "5008"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5008"
-generated_at: "2026-03-30T02:55:27.817Z"
+generated_at: "2026-11-23T21:26:06.688Z"
+status: "active"
 ---
 
 # § 5008. Abatement, remission, refund, and allowance for loss or destruction of distilled spirits
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:27.817Z"
   - **(5)** the customs bonded warehouse in the case of withdrawal under sections 5066 and 5214(a)(9).
 - **(e)** All provisions of law, including penalties, applicable in respect of the internal revenue tax on distilled spirits, shall, insofar as applicable and not inconsistent with subsection (c), be applicable to the credits or refunds provided for under such subsection to the same extent as if such credits or refunds constituted credits or refunds of such tax.
 - **(f)** For provisions relating to allowance for loss in case of wine spirits withdrawn for use in wine production, see section 5373(b)(3).
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1323](https://www.govinfo.gov/link/statute/72/1323); amended [Pub. L. 89–44, title VIII, § 805(a)](https://www.govinfo.gov/link/plaw/89/public/44), June 21, 1965, [79 Stat. 160](https://www.govinfo.gov/link/statute/79/160); [Pub. L. 90–630, § 1](https://www.govinfo.gov/link/plaw/90/public/630), Oct. 22, 1968, [82 Stat. 1328](https://www.govinfo.gov/link/statute/82/1328); [Pub. L. 91–659](https://www.govinfo.gov/link/plaw/91/public/659), §§ 1, 2(a), (b), Jan. 8, 1971, [84 Stat. 1964](https://www.govinfo.gov/link/statute/84/1964); [Pub. L. 94–273, § 47](https://www.govinfo.gov/link/plaw/94/public/273), Apr. 21, 1976, [90 Stat. 382](https://www.govinfo.gov/link/statute/90/382); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1905(a)(2), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1818](https://www.govinfo.gov/link/statute/90/1818), 1834; [Pub. L. 95–176](https://www.govinfo.gov/link/plaw/95/public/176), §§ 2(f), 4(e), Nov. 14, 1977, [91 Stat. 1364](https://www.govinfo.gov/link/statute/91/1364), 1366; [Pub. L. 96–39, title VIII, § 807(a)(6)](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 281](https://www.govinfo.gov/link/statute/93/281); [Pub. L. 105–34, title XIV, § 1411(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1046](https://www.govinfo.gov/link/statute/111/1046).)*

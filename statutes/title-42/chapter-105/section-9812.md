@@ -3,9 +3,10 @@ title: "Section 9812 - Development loan fund"
 usc_title: 42
 usc_section: "9812"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9812"
-generated_at: "2026-03-30T02:56:11.365Z"
+generated_at: "2026-11-23T21:26:33.278Z"
+status: "active"
 ---
 
 # § 9812. Development loan fund
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.365Z"
   - **(1)** To carry out the lending and guaranty functions authorized under this part, there shall be established a Development Loan Fund consisting of two separate accounts, one of which shall be a revolving fund called the Rural Development Loan Fund and the other of which shall be a revolving fund called the Community Development Loan Fund. The capital of each such revolving fund shall remain available until expended.
   - **(2)** The Rural Development Loan Fund shall consist of the remaining funds provided for in part A of title III of the Economic Opportunity Act of 1964 [ 42 U.S.C. 2841 et seq.], as in effect on September 19, 1972 , and such amounts as may be deposited in such fund by the Secretary out of funds made available from appropriations for purposes of carrying out this part. The Secretary shall utilize the services of the Farmers Home Administration, 1 1 So in original. The comma probably should not appear. or the Rural Development Administration in administering such fund.
   - **(3)** The Community Development Loan Fund shall consist of such amounts as may be deposited in such fund by the Secretary out of funds made available from appropriations for purposes of carrying out this subchapter. The Secretary may make deposits in the Community Development Loan Fund in any fiscal year in which the Secretary has made available for grants to community development corporations under this subchapter not less than $60,000,000 out of funds made available from appropriations for purposes of carrying out this subchapter.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 623](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 494](https://www.govinfo.gov/link/statute/95/494); [Pub. L. 101–624, title XXIII, § 2303(f)(1)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3981](https://www.govinfo.gov/link/statute/104/3981).)*

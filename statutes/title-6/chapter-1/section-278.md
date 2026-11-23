@@ -3,9 +3,10 @@ title: "Section 278 - Application of Internet-based technologies"
 usc_title: 6
 usc_section: "278"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 278"
-generated_at: "2026-03-30T02:53:09.455Z"
+generated_at: "2026-11-23T21:25:25.774Z"
+status: "active"
 ---
 
 # § 278. Application of Internet-based technologies
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:09.455Z"
     - **(A)** establishing the tracking system under subsection (a); and
     - **(B)** conducting the study under subsection (b).
   - **(2)** The Technology Advisory Committee shall be composed of representatives from high technology companies capable of establishing and implementing the system in an expeditious manner, and representatives of persons who may use the tracking system described in subsection (a) and the online filing system described in subsection (b)(1).
+
+## Source Credit
+
+*([Pub. L. 107–296, title IV, § 461](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2202](https://www.govinfo.gov/link/statute/116/2202).)*

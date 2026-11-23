@@ -3,9 +3,10 @@ title: "Section 274l - Stem cell therapeutic outcomes database"
 usc_title: 42
 usc_section: "274l"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 274l"
-generated_at: "2026-03-30T02:56:10.726Z"
+generated_at: "2026-11-23T21:26:30.405Z"
+status: "active"
 ---
 
 # § 274l. Stem cell therapeutic outcomes database
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:10.726Z"
 - **(b)** The outcomes database shall include information in a standardized electronic format with respect to patients described in subsection (a), diagnosis, transplant procedures, results, long-term follow-up, and such other information as the Secretary determines to be appropriate, to conduct an ongoing evaluation of the scientific and clinical status of transplantation involving recipients of a stem cell therapeutics product from a donor.
 - **(c)** The Secretary shall require the entity awarded a contract under this section to submit to the Secretary an annual report concerning patient outcomes with respect to each transplant center, based on data collected and maintained by the entity pursuant to this section.
 - **(d)** The outcomes database shall make relevant scientific information not containing individually identifiable information available to the public in the form of summaries and data sets to encourage medical research and to provide information to transplant programs, physicians, patients, entities awarded a contract under section 274k of this title 1 1 So in original. Probably should be followed by a comma. donor registries, and cord blood banks.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 379A, as added [Pub. L. 105–196, § 3](https://www.govinfo.gov/link/plaw/105/public/196), July 16, 1998, [112 Stat. 635](https://www.govinfo.gov/link/statute/112/635); amended [Pub. L. 109–129, § 3(b)](https://www.govinfo.gov/link/plaw/109/public/129), Dec. 20, 2005, [119 Stat. 2561](https://www.govinfo.gov/link/statute/119/2561).)*

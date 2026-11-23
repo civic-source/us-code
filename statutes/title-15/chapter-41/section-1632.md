@@ -3,9 +3,10 @@ title: "Section 1632 - Form of disclosure; additional information"
 usc_title: 15
 usc_section: "1632"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1632"
-generated_at: "2026-03-30T02:54:08.139Z"
+generated_at: "2026-11-23T21:25:39.840Z"
+status: "active"
 ---
 
 # § 1632. Form of disclosure; additional information
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:08.139Z"
   - **(3)** The Bureau shall establish and maintain on its publicly available Internet site a central repository of the consumer credit card agreements received from creditors pursuant to this subsection, and such agreements shall be easily accessible and retrievable by the public.
   - **(4)** This subsection shall not apply to individually negotiated changes to contractual terms, such as individually modified workouts or renegotiations of amounts owed by a consumer under an open end consumer credit plan.
   - **(5)** The Bureau, in consultation with the other Federal banking agencies (as that term is defined in section 1681a of this title ) and the Bureau, 1 1 So in original. may promulgate regulations to implement this subsection, including specifying the format for posting the agreements on the Internet sites of creditors and establishing exceptions to paragraphs (1) and (2), in any case in which the administrative burden outweighs the benefit of increased transparency, such as where a credit card plan has a de minimis number of consumer account holders.
+
+## Source Credit
+
+*([Pub. L. 90–321, title I, § 122](https://www.govinfo.gov/link/plaw/90/public/321), May 29, 1968, [82 Stat. 152](https://www.govinfo.gov/link/statute/82/152); [Pub. L. 93–495, title III, § 307(e)](https://www.govinfo.gov/link/plaw/93/public/495), (f), Oct. 28, 1974, [88 Stat. 1516](https://www.govinfo.gov/link/statute/88/1516), 1517; [Pub. L. 96–221, title VI, § 611](https://www.govinfo.gov/link/plaw/96/public/221), Mar. 31, 1980, [94 Stat. 175](https://www.govinfo.gov/link/statute/94/175); [Pub. L. 100–583, § 2(b)](https://www.govinfo.gov/link/plaw/100/public/583), Nov. 3, 1988, [102 Stat. 2966](https://www.govinfo.gov/link/statute/102/2966); [Pub. L. 100–709, § 2(d)](https://www.govinfo.gov/link/plaw/100/public/709), Nov. 23, 1988, [102 Stat. 4731](https://www.govinfo.gov/link/statute/102/4731); [Pub. L. 111–24, title II, § 204](https://www.govinfo.gov/link/plaw/111/public/24), May 22, 2009, [123 Stat. 1746](https://www.govinfo.gov/link/statute/123/1746); [Pub. L. 111–203, title X, § 1100A(2)](https://www.govinfo.gov/link/plaw/111/public/203), (3), July 21, 2010, [124 Stat. 2107](https://www.govinfo.gov/link/statute/124/2107).)*

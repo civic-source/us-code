@@ -3,9 +3,10 @@ title: "Section 3315 - Auditing, reporting, bookkeeping, and administrative requ
 usc_title: 7
 usc_section: "3315"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3315"
-generated_at: "2026-03-30T02:53:42.401Z"
+generated_at: "2026-11-23T21:25:28.331Z"
+status: "active"
 ---
 
 # § 3315. Auditing, reporting, bookkeeping, and administrative requirements
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.401Z"
 - **(c)** The Secretary may retain, for the administration of community food projects under section 2034 of this title , 4 percent of amounts available for the projects, notwithstanding the availability of any appropriation for administrative expenses of the projects.
 - **(d)** Notwithstanding any other provision of law regarding a competitive research, education, or extension grant program of the Department of Agriculture, the Secretary may use grant program funds, as necessary, to supplement funds otherwise available for program administration, to pay for the costs associated with peer review of grant proposals under the program.
 - **(e)** In any law relating to agricultural research, education, or extension activities administered by the Secretary, the term “in-kind support”, with regard to a requirement that the recipient of funds provided by the Secretary match all or part of the amount of the funds, means contributions such as office space, equipment, and staff support.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1469](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 1019](https://www.govinfo.gov/link/statute/91/1019); [Pub. L. 105–185, title II, § 230(b)](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 547](https://www.govinfo.gov/link/statute/112/547); [Pub. L. 110–234, title IV, § 4002(b)(1)(B)](https://www.govinfo.gov/link/plaw/110/public/234), (2)(H), title VII, § 7132(b), May 22, 2008, [122 Stat. 1096](https://www.govinfo.gov/link/statute/122/1096), 1097, 1228; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4002(b)(1)(B), (2)(H), title VII, § 7132(b), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1858, 1989; [Pub. L. 113–79, title VII, § 7121](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 876](https://www.govinfo.gov/link/statute/128/876).)*

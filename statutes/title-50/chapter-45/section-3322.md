@@ -3,9 +3,10 @@ title: "Section 3322 - Additional education and training requirements"
 usc_title: 50
 usc_section: "3322"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3322"
-generated_at: "2026-03-30T02:56:26.243Z"
+generated_at: "2026-11-23T21:26:39.031Z"
+status: "active"
 ---
 
 # § 3322. Additional education and training requirements
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:26.243Z"
 - **(c)** The Director of National Intelligence shall require the head of each element and component within the Office of the Director of National Intelligence who has responsibility for professional intelligence training to periodically review and revise the curriculum for the professional intelligence training of the senior and intermediate level personnel of such element or component in order to—
   - **(1)** strengthen the focus of such curriculum on the integration of intelligence collection and analysis throughout the Office; and
   - **(2)** prepare such personnel for duty with other departments, agencies, and elements of the intelligence community.
+
+## Source Credit
+
+*([Pub. L. 108–458, title I, § 1041](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3678](https://www.govinfo.gov/link/statute/118/3678); [Pub. L. 112–87, title III, § 311(a)](https://www.govinfo.gov/link/plaw/112/public/87), Jan. 3, 2012, [125 Stat. 1886](https://www.govinfo.gov/link/statute/125/1886).)*

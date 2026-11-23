@@ -3,9 +3,10 @@ title: "Section 17373 - Convention on Supplementary Compensation for Nuclear Dam
 usc_title: 42
 usc_section: "17373"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17373"
-generated_at: "2026-03-30T02:56:11.505Z"
+generated_at: "2026-11-23T21:26:33.790Z"
+status: "active"
 ---
 
 # § 17373. Convention on Supplementary Compensation for Nuclear Damage contingent cost allocation
@@ -130,3 +131,15 @@ generated_at: "2026-03-30T02:56:11.505Z"
   - **(3)** Section 553 of title 5 shall apply with respect to the promulgation of regulations under this subsection.
   - **(4)** The authority provided under this subsection is in addition to, and does not impair or otherwise affect, any other authority of the Secretary or the Commission to prescribe regulations.
 - **(m)** This section shall take effect on December 19, 2007 .
+
+(aa) goods and services with negligible risk;
+
+(bb) classes of goods and services not intended specifically for use in a nuclear installation;
+
+(cc) a nuclear supplier with a de minimis share of the contingent cost; and
+
+(dd) a nuclear supplier no longer in existence for which there is no identifiable successor; and
+
+## Source Credit
+
+*([Pub. L. 110–140, title IX, § 934](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1741](https://www.govinfo.gov/link/statute/121/1741); [Pub. L. 119–60, div. F, title LXIV, § 6402(c)(2)(J)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1616](https://www.govinfo.gov/link/statute/139/1616).)*

@@ -3,9 +3,10 @@ title: "Section 4336f - Project sponsor opt-in fees for environmental reviews"
 usc_title: 42
 usc_section: "4336f"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4336f"
-generated_at: "2026-03-30T02:56:11.201Z"
+generated_at: "2026-11-23T21:26:32.656Z"
+status: "active"
 ---
 
 # § 4336f. Project sponsor opt-in fees for environmental reviews
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.201Z"
 - **(b)** The amount of a fee under this section shall be—
   - **(1)** 125 percent of the anticipated costs to prepare the environmental assessment or environmental impact statement; and
   - **(2)** in the case of an environmental assessment or environmental impact statement to be prepared in whole or in part by a project sponsor under section 4336a(f) of this title , 125 percent of the anticipated costs to supervise preparation of, and, as applicable, prepare, the environmental assessment or environmental impact statement.
+
+## Source Credit
+
+*([Pub. L. 91–190, title I, § 112](https://www.govinfo.gov/link/plaw/91/public/190), as added [Pub. L. 119–21, title VI, § 60026](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 157](https://www.govinfo.gov/link/statute/139/157).)*

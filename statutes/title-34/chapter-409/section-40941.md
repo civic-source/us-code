@@ -3,9 +3,10 @@ title: "Section 40941 - Disposition records automation and transmittal improveme
 usc_title: 34
 usc_section: "40941"
 chapter: 409
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 40941"
-generated_at: "2026-03-30T02:55:33.313Z"
+generated_at: "2026-11-23T21:26:09.844Z"
+status: "active"
 ---
 
 # § 40941. Disposition records automation and transmittal improvement grants
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:33.313Z"
   - **(2)** to implement policies, systems, and procedures for the automation and transmission of arrest and conviction records, court orders, and mental health adjudications or commitments to Federal and State record repositories.
 - **(d)** To be eligible to receive a grant under this section, a State shall certify, to the satisfaction of the Attorney General, that the State has implemented a relief from disabilities program in accordance with section 40915 of this title .
 - **(e)** There are authorized to be appropriated to the Attorney General to carry out this section $62,500,000 for fiscal year 2009, $125,000,000 for fiscal year 2010, $125,000,000 for fiscal year 2011, $62,500,000 for fiscal year 2012, and $62,500,000 for fiscal year 2013.
+
+## Source Credit
+
+*([Pub. L. 110–180, title III, § 301](https://www.govinfo.gov/link/plaw/110/public/180), Jan. 8, 2008, [121 Stat. 2571](https://www.govinfo.gov/link/statute/121/2571).)*

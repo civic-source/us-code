@@ -3,9 +3,10 @@ title: "Section 3 - Demonstration and innovation projects; training and resource
 usc_title: 20
 usc_section: "3"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 3"
-generated_at: "2026-03-30T02:54:48.153Z"
+generated_at: "2026-11-23T21:25:47.282Z"
+status: "active"
 ---
 
 # § 1161n–3. Demonstration and innovation projects; training and resource centers; and research
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:48.153Z"
     - **(A)** The Secretary may use not more than three percent of the amount appropriated to carry out this section in each fiscal year to enter into contracts described in paragraph (1)(A).
     - **(B)** The Secretary may use not more than three percent of the amount appropriated to carry out this section in each fiscal year to enter into contracts described in paragraph (1)(B).
 - **(c)** A recipient of a grant or contract under this section may use the funds provided only to supplement funds made available from non-Federal sources to carry out the activities supported by such grant or contract, and in no case to supplant such funds from non-Federal sources.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VIII, § 834](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title VIII, § 801](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3419](https://www.govinfo.gov/link/statute/122/3419).)*

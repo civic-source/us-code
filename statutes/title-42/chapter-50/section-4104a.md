@@ -3,9 +3,10 @@ title: "Section 4104a - Notice requirements"
 usc_title: 42
 usc_section: "4104a"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4104a"
-generated_at: "2026-03-30T02:56:11.199Z"
+generated_at: "2026-11-23T21:26:32.635Z"
+status: "active"
 ---
 
 # § 4104a. Notice requirements
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.199Z"
   - **(1)** Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require regulated lending institutions, in connection with the making, increasing, extending, renewing, selling, or transferring any loan described in subsection (a)(1), to notify the Administrator (or the designee of the Administrator) in writing during the term of the loan of the servicer of the loan. Such institutions shall also notify the Administrator (or such designee) of any change in the servicer of the loan, not later than 60 days after the effective date of such change. The regulations under this subsection shall provide that upon any change in the servicing of a loan, the duty to provide notification under this subsection shall transfer to the transferee servicer of the loan.
   - **(2)** Each Federal agency lender shall by regulation provide for notification in the manner provided under paragraph (1) with respect to any loan described in subsection (a)(1) that is made by the Federal agency lender. Any regulations issued under this paragraph shall be consistent with and substantially identical to the regulations issued under paragraph (1) of this subsection.
 - **(c)** The Administrator (or the designee of the Administrator) shall, not less than 45 days before the expiration of any contract for flood insurance under this chapter, issue notice of such expiration by first class mail to the owner of the property covered by the contract, the servicer of any loan secured by the property covered by the contract, and (if known to the Administrator) the owner of the loan.
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIII, § 1364](https://www.govinfo.gov/link/plaw/90/public/448), as added [Pub. L. 93–383, title VIII, § 816(a)](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 739](https://www.govinfo.gov/link/statute/88/739); amended [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title IV, § 451(d)(1)], Nov. 30, 1983, [97 Stat. 1229](https://www.govinfo.gov/link/statute/97/1229); [Pub. L. 103–325, title V, § 527](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2263](https://www.govinfo.gov/link/statute/108/2263); [Pub. L. 112–141, div. F, title II](https://www.govinfo.gov/link/plaw/112/public/141), §§ 100238(b)(1), 100239(b), July 6, 2012, [126 Stat. 958](https://www.govinfo.gov/link/statute/126/958), 960.)*

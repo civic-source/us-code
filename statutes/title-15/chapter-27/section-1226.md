@@ -3,9 +3,10 @@ title: "Section 1226 - Motor vehicle franchise contract dispute resolution proce
 usc_title: 15
 usc_section: "1226"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1226"
-generated_at: "2026-03-30T02:54:08.130Z"
+generated_at: "2026-11-23T21:25:39.803Z"
+status: "active"
 ---
 
 # § 1226. Motor vehicle franchise contract dispute resolution process
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.130Z"
   - **(2)** Notwithstanding any other provision of law, whenever a motor vehicle franchise contract provides for the use of arbitration to resolve a controversy arising out of or relating to such contract, arbitration may be used to settle such controversy only if after such controversy arises all parties to such controversy consent in writing to use arbitration to settle such controversy.
   - **(3)** Notwithstanding any other provision of law, whenever arbitration is elected to settle a dispute under a motor vehicle franchise contract, the arbitrator shall provide the parties to such contract with a written explanation of the factual and legal basis for the award.
 - **(b)** Subsection (a) shall apply to contracts entered into, amended, altered, modified, renewed, or extended after November 2, 2002 .
+
+## Source Credit
+
+*([Pub. L. 107–273, div. C, title I, § 11028](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1835](https://www.govinfo.gov/link/statute/116/1835).)*

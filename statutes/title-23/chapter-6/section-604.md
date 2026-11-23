@@ -3,9 +3,10 @@ title: "Section 604 - Lines of credit"
 usc_title: 23
 usc_section: "604"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 604"
-generated_at: "2026-03-30T02:55:12.575Z"
+generated_at: "2026-11-23T21:25:53.943Z"
+status: "active"
 ---
 
 # § 604. Lines of credit
@@ -56,3 +57,61 @@ generated_at: "2026-03-30T02:55:12.575Z"
   - **(2)** All repayments of principal or interest on a direct loan under this section shall be scheduled—
     - **(A)** to commence not later than 5 years after the end of the period of availability specified in subsection (b)(6); and
     - **(B)** to conclude, with full repayment of principal and interest, by the date that is 25 years after the end of the period of availability specified in subsection (b)(6).
+
+In General
+
+Agreements
+
+Use of proceeds
+
+Risk assessment
+
+Investment-grade rating requirement
+
+Terms and Limitations
+
+In general
+
+Maximum amounts
+
+Draws
+
+Interest rate
+
+Security
+
+Period of availability
+
+Rights of third-party creditors
+
+Against federal government
+
+Assignment
+
+Nonsubordination
+
+In general
+
+Pre-existing indenture
+
+In general
+
+Limitation
+
+Fees
+
+Relationship to other credit instruments
+
+Repayment
+
+Terms and conditions
+
+Timing
+
+Total amount
+
+year draws
+
+## Source Credit
+
+*(Added [Pub. L. 105–178, title I, § 1503(a)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 247](https://www.govinfo.gov/link/statute/112/247), § 184; renumbered § 604 and amended [Pub. L. 109–59, title I](https://www.govinfo.gov/link/plaw/109/public/59), §§ 1601(e), 1602(b)(4), (d), Aug. 10, 2005, [119 Stat. 1241](https://www.govinfo.gov/link/statute/119/1241), 1247; [Pub. L. 112–141, div. A, title II, § 2002](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 617](https://www.govinfo.gov/link/statute/126/617).)*

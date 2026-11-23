@@ -3,9 +3,10 @@ title: "Section 30111 - Administrative provisions"
 usc_title: 52
 usc_section: "30111"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 30111"
-generated_at: "2026-03-30T02:56:30.171Z"
+generated_at: "2026-11-23T21:26:42.345Z"
+status: "active"
 ---
 
 # § 30111. Administrative provisions
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:30.171Z"
     - **(B)** Whenever a committee of the House of Representatives reports any resolution relating to any such form, rule or regulation, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and is not in order to move to reconsider the vote by which the motion is agreed to or disagreed with.
 - **(e)** Notwithstanding any other provision of law, any person who relies upon any rule or regulation prescribed by the Commission in accordance with the provisions of this section and who acts in good faith in accordance with such rule or regulation shall not, as a result of such act, be subject to any sanction provided by this Act or by chapter 95 or chapter 96 of title 26.
 - **(f)** In prescribing such rules, regulations, and forms under this section, the Commission and the Internal Revenue Service shall consult and work together to promulgate rules, regulations, and forms which are mutually consistent. The Commission shall report to the Congress annually on the steps it has taken to comply with this subsection.
+
+## Source Credit
+
+*([Pub. L. 92–225, title III, § 311](https://www.govinfo.gov/link/plaw/92/public/225), formerly § 308, Feb. 7, 1972, [86 Stat. 16](https://www.govinfo.gov/link/statute/86/16); renumbered § 316 and amended [Pub. L. 93–443, title II](https://www.govinfo.gov/link/plaw/93/public/443), §§ 208(a), (c)(7)–(10), 209(a)(1), (b), Oct. 15, 1974, [88 Stat. 1279](https://www.govinfo.gov/link/statute/88/1279), 1286, 1287; renumbered § 315 and amended [Pub. L. 94–283, title I](https://www.govinfo.gov/link/plaw/94/public/283), §§ 105, 110, May 11, 1976, [90 Stat. 481](https://www.govinfo.gov/link/statute/90/481), 486; renumbered § 311 and amended [Pub. L. 96–187, title I](https://www.govinfo.gov/link/plaw/96/public/187), §§ 105(4), 109, Jan. 8, 1980, [93 Stat. 1354](https://www.govinfo.gov/link/statute/93/1354), 1362; [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 104–79, § 3(c)](https://www.govinfo.gov/link/plaw/104/public/79), Dec. 28, 1995, [109 Stat. 792](https://www.govinfo.gov/link/statute/109/792); [Pub. L. 107–252, title VIII, § 801(b)](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1726](https://www.govinfo.gov/link/statute/116/1726).)*

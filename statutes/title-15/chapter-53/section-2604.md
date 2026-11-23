@@ -3,9 +3,10 @@ title: "Section 2604 - Manufacturing and processing notices"
 usc_title: 15
 usc_section: "2604"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2604"
-generated_at: "2026-03-30T02:54:08.173Z"
+generated_at: "2026-11-23T21:25:39.932Z"
+status: "active"
 ---
 
 # § 2604. Manufacturing and processing notices
@@ -75,11 +76,11 @@ generated_at: "2026-03-30T02:54:08.173Z"
   - **(3)** At the beginning of each month the Administrator shall publish a list in the Federal Register of (A) each chemical substance for which notice has been received under subsection (a) and for which the applicable review period has not expired, and (B) each chemical substance for which such period has expired since the last publication in the Federal Register of such list.
 - **(e)**
   - **(1)** 1 1 So in original. There is no par. (2). (A) If the Administrator determines that—
-    - **(B)** An order may not be issued under subparagraph (A) respecting a chemical substance (i) later than 45 days before the expiration of the applicable review period, and (ii) unless the Administrator has, on or before the issuance of the order, notified, in writing, each manufacturer or processor, as the case may be, of such substance of the determination which underlies such order.
       - **(i)** the information available to the Administrator is insufficient to permit a reasoned evaluation of the health and environmental effects of a chemical substance with respect to which notice is required by subsection (a); or
       - **(ii)**
         - **(I)** in the absence of sufficient information to permit the Administrator to make such an evaluation, the manufacture, processing, distribution in commerce, use, or disposal of such substance, or any combination of such activities, may present an unreasonable risk of injury to health or the environment, without consideration of costs or other nonrisk factors, including an unreasonable risk to a potentially exposed subpopulation identified as relevant by the Administrator under the conditions of use; or
         - **(II)** such substance is or will be produced in substantial quantities, and such substance either enters or may reasonably be anticipated to enter the environment in substantial quantities or there is or may be significant or substantial human exposure to the substance,
+    - **(B)** An order may not be issued under subparagraph (A) respecting a chemical substance (i) later than 45 days before the expiration of the applicable review period, and (ii) unless the Administrator has, on or before the issuance of the order, notified, in writing, each manufacturer or processor, as the case may be, of such substance of the determination which underlies such order.
 - **(f)**
   - **(1)** If the Administrator determines that a chemical substance or significant new use with respect to which notice is required by subsection (a) presents an unreasonable risk of injury to health or environment, without consideration of costs or other nonrisk factors, including an unreasonable risk to a potentially exposed subpopulation identified as relevant by the Administrator under the conditions of use, the Administrator shall, before the expiration of the applicable review period, take the action authorized by paragraph (2) or (3) to the extent necessary to protect against such risk.
   - **(2)** The Administrator may issue a proposed rule under section 2605(a) of this title to apply to a chemical substance with respect to which a finding was made under paragraph (1)—
@@ -118,3 +119,21 @@ generated_at: "2026-03-30T02:54:08.173Z"
   - **(1)** For purposes of this section, the terms “manufacture” and “process” mean manufacturing or processing for commercial purposes.
   - **(2)** For purposes of this chapter, the term “requirement” as used in this section shall not displace any statutory or common law.
   - **(3)** For purposes of this section, the term “applicable review period” means the period starting on the date the Administrator receives a notice under subsection (a)(1) and ending 90 days after that date, or on such date as is provided for in subsection (b)(1) or (c).
+
+Review and determination
+
+Failure to render determination.—
+
+Failure to render determination
+
+Limitations
+
+Article consideration
+
+Treatment of nonconforming uses
+
+Workplace exposures
+
+## Source Credit
+
+*([Pub. L. 94–469, title I, § 5](https://www.govinfo.gov/link/plaw/94/public/469), Oct. 11, 1976, [90 Stat. 2012](https://www.govinfo.gov/link/statute/90/2012); renumbered title I, [Pub. L. 99–519, § 3(c)(1)](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2989](https://www.govinfo.gov/link/statute/100/2989); amended [Pub. L. 114–182, title I](https://www.govinfo.gov/link/plaw/114/public/182), §§ 5, 19(e), June 22, 2016, [130 Stat. 454](https://www.govinfo.gov/link/statute/130/454), 506.)*

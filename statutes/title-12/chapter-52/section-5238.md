@@ -3,9 +3,10 @@ title: "Section 5238 - Study on mark-to-market accounting"
 usc_title: 12
 usc_section: "5238"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5238"
-generated_at: "2026-03-30T02:53:53.527Z"
+generated_at: "2026-11-23T21:25:37.236Z"
+status: "active"
 ---
 
 # § 5238. Study on mark-to-market accounting
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.527Z"
   - **(5)** the advisability and feasibility of modifications to such standards; and
   - **(6)** alternative accounting standards to those provided in such Statement Number 157.
 - **(b)** The Securities and Exchange Commission shall submit to Congress a report of such study before the end of the 90-day period beginning on October 3, 2008 , containing the findings and determinations of the Commission, including such administrative and legislative recommendations as the Commission determines appropriate.
+
+## Source Credit
+
+*([Pub. L. 110–343, div. A, title I, § 133](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3798](https://www.govinfo.gov/link/statute/122/3798).)*

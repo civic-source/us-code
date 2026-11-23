@@ -3,12 +3,21 @@ title: "Section 402 - No validity or enforceability"
 usc_title: 9
 usc_section: "402"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "9 U.S.C. § 402"
-generated_at: "2026-03-30T02:53:06.639Z"
+generated_at: "2026-11-23T21:25:24.639Z"
+status: "active"
 ---
 
 # § 402. No validity or enforceability
 
 - **(a)** Notwithstanding any other provision of this title, at the election of the person alleging conduct constituting a sexual harassment dispute or sexual assault dispute, or the named representative of a class or in a collective action alleging such conduct, no predispute arbitration agreement or predispute joint-action waiver shall be valid or enforceable with respect to a case which is filed under Federal, Tribal, or State law and relates to the sexual assault dispute or the sexual harassment dispute.
 - **(b)** An issue as to whether this chapter applies with respect to a dispute shall be determined under Federal law. The applicability of this chapter to an agreement to arbitrate and the validity and enforceability of an agreement to which this chapter applies shall be determined by a court, rather than an arbitrator, irrespective of whether the party resisting arbitration challenges the arbitration agreement specifically or in conjunction with other terms of the contract containing such agreement, and irrespective of whether the agreement purports to delegate such determinations to an arbitrator.
+
+In General
+
+Determination of Applicability
+
+## Source Credit
+
+*(Added [Pub. L. 117–90, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/90), Mar. 3, 2022, [136 Stat. 27](https://www.govinfo.gov/link/statute/136/27).)*

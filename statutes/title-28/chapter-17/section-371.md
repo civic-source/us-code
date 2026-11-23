@@ -3,9 +3,10 @@ title: "Section 371 - Retirement on salary; retirement in senior status"
 usc_title: 28
 usc_section: "371"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 371"
-generated_at: "2026-03-30T02:55:30.128Z"
+generated_at: "2026-11-23T21:26:01.037Z"
+status: "active"
 ---
 
 # § 371. Retirement on salary; retirement in senior status
@@ -14,7 +15,17 @@ generated_at: "2026-03-30T02:55:30.128Z"
 - **(b)**
   - **(1)** Any justice or judge of the United States appointed to hold office during good behavior may retain the office but retire from regular active service after attaining the age and meeting the service requirements, whether continuous or otherwise, of subsection (c) of this section and shall, during the remainder of his or her lifetime, continue to receive the salary of the office if he or she meets the requirements of subsection (e).
   - **(2)** In a case in which a justice or judge who retires under paragraph (1) does not meet the requirements of subsection (e), the justice or judge shall continue to receive the salary that he or she was receiving when he or she was last in active service or, if a certification under subsection (e) was made for such justice or judge, when such a certification was last in effect. The salary of such justice or judge shall be adjusted under section 461 of this title .
-- **(c)** The age and service requirements for retirement under this section are as follows: Attained age: Years of service: 65 15 66 14 67 13 68 12 69 11 70 10
+- **(c)** The age and service requirements for retirement under this section are as follows:
+
+| Attained age: | Years of service: |
+| --- | --- |
+| 65 | 15 |
+| 66 | 14 |
+| 67 | 13 |
+| 68 | 12 |
+| 69 | 11 |
+| 70 | 10 |
+
 - **(d)** The President shall appoint, by and with the advice and consent of the Senate, a successor to a justice or judge who retires under this section.
 - **(e)**
   - **(1)** In order to continue receiving the salary of the office under subsection (b), a justice must be certified in each calendar year by the Chief Justice, and a judge must be certified by the chief judge of the circuit in which the judge sits, as having met the requirements set forth in at least one of the following subparagraphs:
@@ -26,3 +37,23 @@ generated_at: "2026-03-30T02:55:30.128Z"
   - **(2)** Determinations of work performed under subparagraphs (A), (B), (C), and (D) of paragraph (1) shall be made pursuant to rules promulgated by the Judicial Conference of the United States. In promulgating such criteria, the Judicial Conference shall take into account existing standards promulgated by the Conference for allocation of space and staff for senior judges.
   - **(3)** If in any year a justice or judge who retires under subsection (b) does not receive a certification under this subsection (except as provided in paragraph (1)(E)), he or she may thereafter receive a certification for that year by satisfying the requirements of subparagraph (A), (B), (C), or (D) of paragraph (1) of this subsection in a subsequent year and attributing a sufficient part of the work performed in such subsequent year to the earlier year so that the work so attributed, when added to the work performed during such earlier year, satisfies the requirements for certification for that year. However, a justice or judge may not receive credit for the same work for purposes of certification for more than 1 year.
   - **(4)** In the case of any justice or judge who retires under subsection (b) during a calendar year, there shall be included in the determination under this subsection of work performed during that calendar year all work performed by that justice or judge (as described in subparagraphs (A), (B), (C), and (D) of paragraph (1)) during that calendar year before such retirement.
+
+65
+
+66
+
+67
+
+68
+
+69
+
+70
+
+In general
+
+Calendar year 1990
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 903](https://www.govinfo.gov/link/statute/62/903); Oct. 31, 1951, ch. 655, § 39, [65 Stat. 724](https://www.govinfo.gov/link/statute/65/724); Feb. 10, 1954, ch. 6, § 4(a), [68 Stat. 12](https://www.govinfo.gov/link/statute/68/12); [Pub. L. 98–353, title II, § 204(a)](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 350](https://www.govinfo.gov/link/statute/98/350); [Pub. L. 100–702, title X, § 1005(a)](https://www.govinfo.gov/link/plaw/100/public/702), Nov. 19, 1988, [102 Stat. 4666](https://www.govinfo.gov/link/statute/102/4666); [Pub. L. 101–194, title VII, § 705(a)](https://www.govinfo.gov/link/plaw/101/public/194), Nov. 30, 1989, [103 Stat. 1770](https://www.govinfo.gov/link/statute/103/1770); [Pub. L. 104–317, title III, § 301](https://www.govinfo.gov/link/plaw/104/public/317), Oct. 19, 1996, [110 Stat. 3851](https://www.govinfo.gov/link/statute/110/3851); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title VI, § 654(a)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–165; [Pub. L. 106–518, title III, § 303](https://www.govinfo.gov/link/plaw/106/public/518), Nov. 13, 2000, [114 Stat. 2417](https://www.govinfo.gov/link/statute/114/2417).)*

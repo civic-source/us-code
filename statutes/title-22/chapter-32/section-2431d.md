@@ -3,9 +3,10 @@ title: "Section 2431d - Reduction of debt owed to United States as result of con
 usc_title: 22
 usc_section: "2431d"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2431d"
-generated_at: "2026-03-30T02:55:05.367Z"
+generated_at: "2026-11-23T21:25:58.495Z"
+status: "active"
 ---
 
 # § 2431d. Reduction of debt owed to United States as result of concessional loans under this chapter
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:55:05.367Z"
   - **(12)** $20,000,000 for fiscal year 2026.
   - **(13)** $20,000,000 for fiscal year 2027.
 - **(e)** Of the amounts made available to carry out this subchapter for a fiscal year, $300,000 is authorized to be made available to carry out audits, evaluations, monitoring, and administration of programs under this subchapter, including personnel costs associated with such audits, evaluations, monitoring and administration.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. V, § 806, as added [Pub. L. 105–214, § 1](https://www.govinfo.gov/link/plaw/105/public/214), July 29, 1998, [112 Stat. 887](https://www.govinfo.gov/link/statute/112/887); amended [Pub. L. 107–26, § 2(a)](https://www.govinfo.gov/link/plaw/107/public/26), Aug. 17, 2001, [115 Stat. 206](https://www.govinfo.gov/link/statute/115/206); [Pub. L. 108–323](https://www.govinfo.gov/link/plaw/108/public/323), §§ 1–3(a), Oct. 6, 2004, [118 Stat. 1218](https://www.govinfo.gov/link/statute/118/1218); [Pub. L. 115–440](https://www.govinfo.gov/link/plaw/115/public/440), §§ 9(b)(2), 11, Jan. 14, 2019, [132 Stat. 5584](https://www.govinfo.gov/link/statute/132/5584); [Pub. L. 117–263, div. E, title LV, § 5587](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3375](https://www.govinfo.gov/link/statute/136/3375).)*

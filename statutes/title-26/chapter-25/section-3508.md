@@ -3,9 +3,10 @@ title: "Section 3508 - Treatment of real estate agents and direct­ sellers"
 usc_title: 26
 usc_section: "3508"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 3508"
-generated_at: "2026-03-30T02:55:27.797Z"
+generated_at: "2026-11-23T21:26:06.587Z"
+status: "active"
 ---
 
 # § 3508. Treatment of real estate agents and direct­ sellers
@@ -26,3 +27,11 @@ generated_at: "2026-03-30T02:55:27.797Z"
     - **(B)** substantially all the remuneration (whether or not paid in cash) for the performance of the services described in subparagraph (A) is directly related to sales or other output (including the performance of services) rather than to the number of hours worked, and
     - **(C)** the services performed by the person are performed pursuant to a written contract between such person and the person for whom the services are performed and such contract provides that the person will not be treated as an employee with respect to such services for Federal tax purposes.
   - **(3)** This section shall not apply for purposes of subtitle A to the extent that the individual is treated as an employee under section 401(c)(1) (relating to self-employed individuals).
+
+In general
+
+Subsection
+
+## Source Credit
+
+*(Added [Pub. L. 97–248, title II, § 269(a)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 551](https://www.govinfo.gov/link/statute/96/551); amended [Pub. L. 104–188, title I, § 1118(a)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1764](https://www.govinfo.gov/link/statute/110/1764).)*

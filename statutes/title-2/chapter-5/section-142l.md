@@ -3,9 +3,10 @@ title: "Section 142l - Disbursing Officer of Library of Congress; disbursements 
 usc_title: 2
 usc_section: "142l"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 142l"
-generated_at: "2026-03-30T02:53:04.789Z"
+generated_at: "2026-11-23T21:25:21.136Z"
+status: "active"
 ---
 
 # § 142l. Disbursing Officer of Library of Congress; disbursements for Office of Congressional Workplace Rights; voucher certifications, accountability and relief by Comptroller General
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:04.789Z"
   - **(1)** that the certification was based on official records and that such certifying officer or employee did not know, and by reasonable diligence and inquiry could not have ascertained the actual facts, or
   - **(2)** that the obligation was incurred in good faith, that the payment was not contrary to any statutory provision specifically prohibiting payments of the character involved, and the United States has received value for such payment: Provided further , That the Comptroller General shall relieve such certifying officer or employee of liability for an overpayment for transportation services made to any common carrier covered by section 3726 of title 31 , whenever he finds that the overpayment occurred solely because the administrative examination made prior to payment of the transportation bill did not include a verification of transportation rates, freight classifications, or land grant deductions. The Disbursing Officer of the Library of Congress shall not be held accountable or responsible for any illegal, improper, or incorrect payment resulting from any false, inaccurate, or misleading certificate, the responsibility for which is imposed upon a certifying officer or employee of the Office of Compliance. 1
 
+
+## Source Credit
+
+*([Pub. L. 104–197, title II, § 208](https://www.govinfo.gov/link/plaw/104/public/197), Sept. 16, 1996, [110 Stat. 2409](https://www.govinfo.gov/link/statute/110/2409).)*

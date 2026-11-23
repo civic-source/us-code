@@ -3,9 +3,10 @@ title: "Section 7818 - National registry of Korean American divided families"
 usc_title: 22
 usc_section: "7818"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7818"
-generated_at: "2026-03-30T02:55:05.446Z"
+generated_at: "2026-11-23T21:25:58.729Z"
+status: "active"
 ---
 
 # § 7818. National registry of Korean American divided families
@@ -34,3 +35,15 @@ generated_at: "2026-03-30T02:55:05.446Z"
       - **(iii)** a summary of responses by North Korea to requests by the United States Government to hold reunions of divided families; and
       - **(iv)** a description of actions taken by North Korea that prevent the emigration of family members of Korean American families.
 - **(c)** In this section, the term ‘appropriate congressional committees’ means the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
+
+Consultations.—
+
+Consultations with south korea
+
+Consultations with korean americans
+
+Report
+
+## Source Credit
+
+*([Pub. L. 119–60, div. H, title LXXXIII, § 8361](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1884](https://www.govinfo.gov/link/statute/139/1884).)*

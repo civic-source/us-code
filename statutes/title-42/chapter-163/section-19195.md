@@ -3,9 +3,10 @@ title: "Section 19195 - Interagency working group"
 usc_title: 42
 usc_section: "19195"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19195"
-generated_at: "2026-03-30T02:56:11.542Z"
+generated_at: "2026-11-23T21:26:33.877Z"
+status: "active"
 ---
 
 # § 19195. Interagency working group
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:11.542Z"
 - **(d)** Not later than 270 days after receiving the guidelines under paragraph (a)(2), each Federal research agency shall—
   - **(1)** develop or maintain and implement policies with respect to sex-based and sexual harassment that are consistent with policy guidelines under subsection (a)(2) and that protect the privacy of all parties involved in any report and investigation of sex-based or sexual harassment, to the maximum extent practicable; and
   - **(2)** broadly disseminate such policies to current and potential recipients of research and development awards made by such agency.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title V, § 10536](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1629](https://www.govinfo.gov/link/statute/136/1629).)*

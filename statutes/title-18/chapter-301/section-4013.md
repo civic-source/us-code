@@ -3,9 +3,10 @@ title: "Section 4013 - Support of United States prisoners in non-Federal institu
 usc_title: 18
 usc_section: "4013"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 4013"
-generated_at: "2026-03-30T02:54:16.526Z"
+generated_at: "2026-11-23T21:25:44.233Z"
+status: "active"
 ---
 
 # § 4013. Support of United States prisoners in non-Federal institutions
@@ -48,3 +49,21 @@ generated_at: "2026-03-30T02:54:16.526Z"
   - **(4)** The implementation of this subsection by the State or local government, and any amendment to that implementation, shall not take effect until the expiration of the 30-day period beginning on the date on which each prisoner in the prison system is provided with written and oral notices of the provisions of that implementation (or amendment, as the case may be). A fee under this subsection may not be assessed against, or collected from, a prisoner pursuant to such implementation (or amendments, as the case may be) for services provided before the expiration of such period.
   - **(5)** Before the beginning of any period a proposed implementation under this subsection is open to public comment, written and oral notice of the provisions of that proposed implementation shall be provided to groups that advocate on behalf of Federal prisoners and to each prisoner subject to such proposed implementation.
   - **(6)** Any State or local government assessing or collecting a fee under this subsection shall provide comprehensive coverage for services relating to human immunodeficiency virus (HIV) and acquired immune deficiency syndrome (AIDS) to each Federal prisoner in the custody of such State or local government when medically appropriate. The State or local government may not assess or collect a fee under this subsection for providing such coverage.
+
+Health Care Fees For Federal Prisoners in Non-Federal Institutions.—
+
+In general
+
+No refusal of treatment for financial reasons
+
+Notice to prisoners of law
+
+Notice to prisoners of state or local implementation
+
+Notice before public comment period
+
+Comprehensive hiv/aids services required
+
+## Source Credit
+
+*(Added [Pub. L. 100–690, title VII, § 7608(d)(1)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4516](https://www.govinfo.gov/link/statute/102/4516); amended [Pub. L. 101–647, title XVII, § 1701](https://www.govinfo.gov/link/plaw/101/public/647), title XXXV, § 3599, Nov. 29, 1990, [104 Stat. 4843](https://www.govinfo.gov/link/statute/104/4843), 4931; [Pub. L. 103–322, title XXXIII, § 330011](https://www.govinfo.gov/link/plaw/103/public/322) (o), Sept. 13, 1994, [108 Stat. 2145](https://www.govinfo.gov/link/statute/108/2145); [Pub. L. 106–294, § 3](https://www.govinfo.gov/link/plaw/106/public/294), Oct. 12, 2000, [114 Stat. 1040](https://www.govinfo.gov/link/statute/114/1040); [Pub. L. 107–273, div. A, title III, § 302(2)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1781](https://www.govinfo.gov/link/statute/116/1781).)*

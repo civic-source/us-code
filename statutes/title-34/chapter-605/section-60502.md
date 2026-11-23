@@ -3,9 +3,10 @@ title: "Section 60502 - Definitions"
 usc_title: 34
 usc_section: "60502"
 chapter: 605
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 60502"
-generated_at: "2026-03-30T02:55:33.317Z"
+generated_at: "2026-11-23T21:26:09.860Z"
+status: "active"
 ---
 
 # § 60502. Definitions
@@ -25,3 +26,7 @@ In this Act—
     - **(D)** combines time-limited employment with activities that promote skill development, remove barriers to employment, and lead to unsubsidized employment such as a thorough orientation and individual assessment, job readiness and life skills training, case management and supportive services, adult education and training, child support-related services, job retention support and incentives, and other similar activities;
     - **(E)** places participants into unsubsidized employment; and
     - **(F)** provides job retention, re-employment services, and continuing and vocational education to ensure continuing participation in unsubsidized employment and identification of opportunities for advancement.
+
+## Source Credit
+
+*([Pub. L. 110–199, § 4](https://www.govinfo.gov/link/plaw/110/public/199), Apr. 9, 2008, [122 Stat. 660](https://www.govinfo.gov/link/statute/122/660); [Pub. L. 115–391, title V, § 502(g)(1)](https://www.govinfo.gov/link/plaw/115/public/391), Dec. 21, 2018, [132 Stat. 5231](https://www.govinfo.gov/link/statute/132/5231).)*

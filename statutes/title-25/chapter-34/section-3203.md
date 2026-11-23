@@ -3,9 +3,10 @@ title: "Section 3203 - Reporting procedures"
 usc_title: 25
 usc_section: "3203"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3203"
-generated_at: "2026-03-30T02:54:52.849Z"
+generated_at: "2026-11-23T21:25:54.687Z"
+status: "active"
 ---
 
 # § 3203. Reporting procedures
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:52.849Z"
     - **(A)** Any local law enforcement agency or local child protective services agency that receives a report alleging abuse described in section 3202(3) 1 1 See References in Text note below. of this title shall immediately initiate an investigation of such allegation and shall take immediate, appropriate steps to secure the safety and well-being of the child or children involved.
     - **(B)** Upon completion of the investigation of any report of alleged abuse that is made to a local law enforcement agency or local child protective services agency, such agency shall prepare a final written report on such allegation.
 - **(d)** The identity of any person making a report described in subsection (b)(1) shall not be disclosed, without the consent of the individual, to any person other than a court of competent jurisdiction or an employee of an Indian tribe, a State or the Federal Government who needs to know the information in the performance of such employee’s duties.
+
+## Source Credit
+
+*([Pub. L. 101–630, title IV, § 404](https://www.govinfo.gov/link/plaw/101/public/630), Nov. 28, 1990, [104 Stat. 4547](https://www.govinfo.gov/link/statute/104/4547).)*

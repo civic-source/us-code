@@ -3,9 +3,10 @@ title: "Section 2822 - Automotive fuel rating testing and disclosure requirement
 usc_title: 15
 usc_section: "2822"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2822"
-generated_at: "2026-03-30T02:54:08.184Z"
+generated_at: "2026-11-23T21:25:39.956Z"
+status: "active"
 ---
 
 # § 2822. Automotive fuel rating testing and disclosure requirements
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:08.184Z"
 - **(h)** Any display or representation, with respect to the automotive fuel requirement of any motor vehicle, required to be made under any rule prescribed under subsection (d) shall not create an express or implied warranty under State or Federal law that any automotive fuel the automotive fuel rating of which equals or exceeds such automotive fuel requirement—
   - **(1)** may be used as a fuel in all motor vehicles of the same class as that motor vehicle without knocking; or
   - **(2)** may be used as a fuel in such motor vehicle under all operating conditions without knocking.
+
+## Source Credit
+
+*([Pub. L. 95–297, title II, § 202](https://www.govinfo.gov/link/plaw/95/public/297), June 19, 1978, [92 Stat. 334](https://www.govinfo.gov/link/statute/92/334); [Pub. L. 102–486, title XV, § 1501(c)(2)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2997](https://www.govinfo.gov/link/statute/106/2997).)*

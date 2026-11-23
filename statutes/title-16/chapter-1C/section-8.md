@@ -3,9 +3,10 @@ title: "Section 8 - Confidentiality"
 usc_title: 16
 usc_section: "8"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8"
-generated_at: "2026-03-30T02:54:22.855Z"
+generated_at: "2026-11-23T21:25:51.641Z"
+status: "active"
 ---
 
 # § 470aaa–8. Confidentiality
@@ -15,3 +16,7 @@ Information concerning the nature and specific location of a paleontological res
   - **(1)** further the purposes of this chapter;
   - **(2)** not create risk of harm to or theft or destruction of the resource or the site containing the resource; and
   - **(3)** be in accordance with other applicable laws.
+
+## Source Credit
+
+*([Pub. L. 111–11, title VI, § 6309](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1176](https://www.govinfo.gov/link/statute/123/1176).)*

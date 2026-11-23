@@ -3,9 +3,10 @@ title: "Section 2182 - Multirater assessment of certain personnel"
 usc_title: 14
 usc_section: "2182"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 2182"
-generated_at: "2026-03-30T02:53:51.499Z"
+generated_at: "2026-11-23T21:25:35.424Z"
+status: "active"
 ---
 
 # § 2182. Multirater assessment of certain personnel
@@ -29,3 +30,25 @@ generated_at: "2026-03-30T02:53:51.499Z"
     - **(A)** Following an assessment of an individual pursuant to paragraphs (1) through (3), the individual shall be provided appropriate post-assessment counseling and leadership coaching.
     - **(B)** The supervisor of the individual assessed shall be provided with the results of the multirater assessment.
 - **(b)** In this section, the term “multirater assessment” means a review that seeks opinion from members senior to the reviewee and the peers and subordinates of the reviewee.
+
+Multirater Assessment of Certain Personnel.—
+
+In general
+
+Officers
+
+Enlisted members
+
+Selection
+
+Post-assessment elements.—
+
+In general
+
+Availability of results
+
+Multirater Assessment Defined
+
+## Source Credit
+
+*(Added [Pub. L. 114–120, title II, § 214(a)(1)](https://www.govinfo.gov/link/plaw/114/public/120), Feb. 8, 2016, [130 Stat. 43](https://www.govinfo.gov/link/statute/130/43), § 429; amended [Pub. L. 114–328, div. C, title XXXV, § 3503(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2775](https://www.govinfo.gov/link/statute/130/2775); [Pub. L. 115–232, div. C, title XXXV, § 3531(c)(12)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2320](https://www.govinfo.gov/link/statute/132/2320); renumbered § 2182, [Pub. L. 115–282, title I, § 112(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4216](https://www.govinfo.gov/link/statute/132/4216); [Pub. L. 117–263, div. K, title CXII, § 11244(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4042](https://www.govinfo.gov/link/statute/136/4042).)*

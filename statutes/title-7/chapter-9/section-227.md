@@ -3,9 +3,10 @@ title: "Section 227 - Powers of Federal Trade Commission and Secretary of Agricu
 usc_title: 7
 usc_section: "227"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 227"
-generated_at: "2026-03-30T02:53:42.278Z"
+generated_at: "2026-11-23T21:25:27.934Z"
+status: "active"
 ---
 
 # § 227. Powers of Federal Trade Commission and Secretary of Agriculture
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:53:42.278Z"
 - **(d)** The Secretary of Agriculture shall exercise power or jurisdiction over oleomargarine or retail sales of meat, meat food products, or livestock products in unmanufactured form only when he determines, in any investigation of, or any proceeding for the prevention of, an alleged violation of this chapter, that such action is necessary to avoid impairment of his power or jurisdiction over acts or transactions involving livestock, meat, meat food products, livestock products in unmanufactured form, or poultry other than retail sales thereof. In order to avoid unnecessary duplication of effort by the Government and burdens upon the industry, the Secretary shall notify the Federal Trade Commission of such determination, the reasons therefor, and the acts or transactions involved, and shall not exercise power or jurisdiction with respect to acts or transactions involving oleomargarine or retail sales of meat, meat food products, or livestock products in unmanufactured form if the Commission within 10 days from the date of receipt of such notice notifies the Secretary that there is pending in the Commission an investigation of, or proceeding for the prevention of, an alleged violation of any Act administered by the Commission involving the same subject matter.
 - **(e)** The Secretary of Agriculture shall exercise jurisdiction over poultry products only in a proceeding brought under section 197 of this title or section 228b–1 of this title when such action is necessary to avoid impairment of his jurisdiction.
 - **(f)** The Secretary of Agriculture and the Federal Trade Commission shall include in their respective annual reports information with respect to the administration of subsections (b), (d), and (e) of this section.
+
+General Rule
+
+Secretary’s Authority
+
+## Source Credit
+
+*(Aug. 15, 1921, ch. 64, title IV, § 406, [42 Stat. 169](https://www.govinfo.gov/link/statute/42/169); [Pub. L. 85–909, § 1(2)](https://www.govinfo.gov/link/plaw/85/public/909), Sept. 2, 1958, [72 Stat. 1749](https://www.govinfo.gov/link/statute/72/1749); [Pub. L. 100–173, § 7](https://www.govinfo.gov/link/plaw/100/public/173), Nov. 23, 1987, [101 Stat. 919](https://www.govinfo.gov/link/statute/101/919); [Pub. L. 102–237, title X, § 1008(2)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1898](https://www.govinfo.gov/link/statute/105/1898).)*

@@ -3,9 +3,10 @@ title: "Section 2302 - Prohibited personnel practices"
 usc_title: 5
 usc_section: "2302"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 2302"
-generated_at: "2026-03-30T02:52:55.998Z"
+generated_at: "2026-11-23T21:25:23.124Z"
+status: "active"
 ---
 
 # § 2302. Prohibited personnel practices
@@ -128,3 +129,59 @@ generated_at: "2026-03-30T02:52:55.998Z"
     - **(F)** the disclosure was made before the date on which the individual was appointed or applied for appointment to a position; or
     - **(G)** of the amount of time which has passed since the occurrence of the events described in the disclosure.
   - **(2)** If a disclosure is made during the normal course of duties of an employee, the principal job function of whom is to regularly investigate and disclose wrongdoing (referred to in this paragraph as the “disclosing employee”), the disclosure shall not be excluded from subsection (b)(8) if the disclosing employee demonstrates that an employee who has the authority to take, direct other individuals to take, recommend, or approve any personnel action with respect to the disclosing employee took, failed to take, or threatened to take or fail to take a personnel action with respect to the disclosing employee in reprisal for the disclosure made by the disclosing employee.
+
+“With respect to a nondisclosure policy, form, or agreement that was in effect before the effective date of this Act [see Effective Date of 2012 Amendment note above], but that does not contain the statement required under section 2302(b)(13) of title 5 , United States Code (as added by this Act) for implementation or enforcement—
+
+Definitions
+
+Protected Disclosure.—
+
+In general
+
+Disclosures not excluded
+
+Rule of construction
+
+In General.—
+
+Requirement
+
+Agency websites
+
+Enforceability.—
+
+In general
+
+Nondisclosure policy, form, or agreement in effect before the effective date
+
+Persons Other Than Government Employees
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title I, § 101(a)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1114](https://www.govinfo.gov/link/statute/92/1114); amended [Pub. L. 101–12, § 4](https://www.govinfo.gov/link/plaw/101/public/12), Apr. 10, 1989, [103 Stat. 32](https://www.govinfo.gov/link/statute/103/32); [Pub. L. 101–474, § 5(d)](https://www.govinfo.gov/link/plaw/101/public/474), Oct. 30, 1990, [104 Stat. 1099](https://www.govinfo.gov/link/statute/104/1099); [Pub. L. 102–378, § 2(5)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1346](https://www.govinfo.gov/link/statute/106/1346); [Pub. L. 103–94, § 8(c)](https://www.govinfo.gov/link/plaw/103/public/94), Oct. 6, 1993, [107 Stat. 1007](https://www.govinfo.gov/link/statute/107/1007); [Pub. L. 103–359, title V, § 501(c)](https://www.govinfo.gov/link/plaw/103/public/359), Oct. 14, 1994, [108 Stat. 3429](https://www.govinfo.gov/link/statute/108/3429); [Pub. L. 103–424, § 5](https://www.govinfo.gov/link/plaw/103/public/424), Oct. 29, 1994, [108 Stat. 4363](https://www.govinfo.gov/link/statute/108/4363); [Pub. L. 104–197, title III, § 315(b)(2)](https://www.govinfo.gov/link/plaw/104/public/197), Sept. 16, 1996, [110 Stat. 2416](https://www.govinfo.gov/link/statute/110/2416), [Pub. L. 104–201, div. A, title XI, § 1122(a)(1)](https://www.govinfo.gov/link/plaw/104/public/201), title XVI, § 1615(b), Sept. 23, 1996, [110 Stat. 2687](https://www.govinfo.gov/link/statute/110/2687), 2741; [Pub. L. 105–339, § 6(a)](https://www.govinfo.gov/link/plaw/105/public/339), (b), (c)(2), Oct. 31, 1998, [112 Stat. 3187](https://www.govinfo.gov/link/statute/112/3187), 3188; [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title IX, § 931(a)(1), Oct. 14, 2008, [122 Stat. 4575](https://www.govinfo.gov/link/statute/122/4575); [Pub. L. 112–199, title I](https://www.govinfo.gov/link/plaw/112/public/199), §§ 101(a), (b)(1)(B), (2)(B), (C), 102–104(b)(1), 105, 112, Nov. 27, 2012, [126 Stat. 1465–1468](https://www.govinfo.gov/link/statute/126/1465), 1472; [Pub. L. 112–277, title V, § 505(a)](https://www.govinfo.gov/link/plaw/112/public/277), Jan. 14, 2013, [126 Stat. 2478](https://www.govinfo.gov/link/statute/126/2478); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537); [Pub. L. 114–113, div. J, title II, § 238](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2700](https://www.govinfo.gov/link/statute/129/2700); [Pub. L. 115–40, § 2](https://www.govinfo.gov/link/plaw/115/public/40), June 14, 2017, [131 Stat. 861](https://www.govinfo.gov/link/statute/131/861); [Pub. L. 115–73, title I](https://www.govinfo.gov/link/plaw/115/public/73), §§ 103, 107(a)(1), Oct. 26, 2017, [131 Stat. 1236](https://www.govinfo.gov/link/statute/131/1236), 1238; [Pub. L. 115–91, div. A, title X, § 1097(b)(1)(B)](https://www.govinfo.gov/link/plaw/115/public/91), (c)(1), Dec. 12, 2017, [131 Stat. 1616](https://www.govinfo.gov/link/statute/131/1616), 1618; [Pub. L. 116–92, div. E, title LVII, § 5721](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2175](https://www.govinfo.gov/link/statute/133/2175); [Pub. L. 116–283, div. A, title XI, § 1138](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3905](https://www.govinfo.gov/link/statute/134/3905).)*

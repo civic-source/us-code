@@ -3,9 +3,10 @@ title: "Section 3143 - Release or detention of a defendant pending sentence or a
 usc_title: 18
 usc_section: "3143"
 chapter: 207
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3143"
-generated_at: "2026-03-30T02:54:16.512Z"
+generated_at: "2026-11-23T21:25:44.181Z"
+status: "active"
 ---
 
 # § 3143. Release or detention of a defendant pending sentence or appeal
@@ -29,3 +30,13 @@ generated_at: "2026-03-30T02:54:16.512Z"
 - **(c)** The judicial officer shall treat a defendant in a case in which an appeal has been taken by the United States under section 3731 of this title , in accordance with section 3142 of this title , unless the defendant is otherwise subject to a release or detention order. Except as provided in subsection (b) of this section, the judicial officer, in a case in which an appeal has been taken by the United States under section 3742, shall—
   - **(1)** if the person has been sentenced to a term of imprisonment, order that person detained; and
   - **(2)** in any other circumstance, release or detain the person under section 3142.
+
+Release or Detention Pending Sentence
+
+Release or Detention Pending Appeal by the Defendant
+
+Release or Detention Pending Appeal by the Government
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 203(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 1981](https://www.govinfo.gov/link/statute/98/1981); amended [Pub. L. 98–473, title II, § 223(f)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2028](https://www.govinfo.gov/link/statute/98/2028); [Pub. L. 99–646](https://www.govinfo.gov/link/plaw/99/public/646), §§ 51(a), (b), 55(a), (d), Nov. 10, 1986, [100 Stat. 3605–3607](https://www.govinfo.gov/link/statute/100/3605), 3609; [Pub. L. 100–690, title VII, § 7091](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4410](https://www.govinfo.gov/link/statute/102/4410); [Pub. L. 101–647, title IX, § 902(a)](https://www.govinfo.gov/link/plaw/101/public/647), (b), title X, § 1001(a), Nov. 29, 1990, [104 Stat. 4826](https://www.govinfo.gov/link/statute/104/4826), 4827; [Pub. L. 102–572, title VII, § 703](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4515](https://www.govinfo.gov/link/statute/106/4515).)*

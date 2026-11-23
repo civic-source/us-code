@@ -3,9 +3,10 @@ title: "Section 2021 - Civil penalties and disqualification of retail food store
 usc_title: 7
 usc_section: "2021"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2021"
-generated_at: "2026-03-30T02:53:42.369Z"
+generated_at: "2026-11-23T21:25:28.258Z"
+status: "active"
 ---
 
 # § 2021. Civil penalties and disqualification of retail food stores and wholesale food concerns
@@ -78,3 +79,7 @@ generated_at: "2026-03-30T02:53:42.369Z"
     - **(A)** an evaluation of the impact of the pilot project on fraud described in paragraph (1)(A); and
     - **(B)** the costs associated with the pilot project.
   - **(5)** Any costs incurred by a State to operate pilot projects under this subsection that are in excess of the amount expended under this chapter to identify, investigate, and reduce fraud described in paragraph (1)(A) in the respective State in the previous fiscal year shall not be eligible for Federal reimbursement under this chapter.
+
+## Source Credit
+
+*([Pub. L. 88–525, § 12](https://www.govinfo.gov/link/plaw/88/public/525), Aug. 31, 1964, [78 Stat. 707](https://www.govinfo.gov/link/statute/78/707); [Pub. L. 95–113, title XIII, § 1301](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 974](https://www.govinfo.gov/link/statute/91/974); [Pub. L. 97–253, title I](https://www.govinfo.gov/link/plaw/97/public/253), §§ 175, 176(a), Sept. 8, 1982, [96 Stat. 781](https://www.govinfo.gov/link/statute/96/781); [Pub. L. 99–198, title XV, § 1532(a)](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1582](https://www.govinfo.gov/link/statute/99/1582); [Pub. L. 100–435, title III, § 344](https://www.govinfo.gov/link/plaw/100/public/435), Sept. 19, 1988, [102 Stat. 1664](https://www.govinfo.gov/link/statute/102/1664); [Pub. L. 101–624, title XVII](https://www.govinfo.gov/link/plaw/101/public/624), §§ 1743–1745, Nov. 28, 1990, [104 Stat. 3795](https://www.govinfo.gov/link/statute/104/3795), 3796; [Pub. L. 103–66, title XIII](https://www.govinfo.gov/link/plaw/103/public/66), §§ 13943, 13944, Aug. 10, 1993, [107 Stat. 677](https://www.govinfo.gov/link/statute/107/677); [Pub. L. 104–127, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1026](https://www.govinfo.gov/link/statute/110/1026); [Pub. L. 104–193, title VIII](https://www.govinfo.gov/link/plaw/104/public/193), §§ 841–843, Aug. 22, 1996, [110 Stat. 2331](https://www.govinfo.gov/link/statute/110/2331), 2332; [Pub. L. 110–234, title IV, § 4132](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1114](https://www.govinfo.gov/link/statute/122/1114); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4132, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1875; [Pub. L. 113–79, title IV](https://www.govinfo.gov/link/plaw/113/public/79), §§ 4017, 4030(g), Feb. 7, 2014, [128 Stat. 796](https://www.govinfo.gov/link/statute/128/796), 814.)*

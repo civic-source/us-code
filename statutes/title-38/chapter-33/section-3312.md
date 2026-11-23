@@ -3,9 +3,10 @@ title: "Section 3312 - Educational assistance: duration"
 usc_title: 38
 usc_section: "3312"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3312"
-generated_at: "2026-03-30T02:55:53.502Z"
+generated_at: "2026-11-23T21:26:16.735Z"
+status: "active"
 ---
 
 # § 3312. Educational assistance: duration
@@ -22,3 +23,19 @@ generated_at: "2026-03-30T02:55:53.502Z"
       - **(ii)** in the case of an individual serving on active duty, had to discontinue such course pursuit as a result of being ordered to a new duty location or assignment or to perform an increased amount of work; and
     - **(B)** failed to receive credit or lost training time toward completion of the individual’s approved education, professional, or vocational objective as a result of having to discontinue, as described in subparagraph (A), the individual’s course pursuit.
   - **(3)** The period for which, by reason of this subsection, educational assistance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall not exceed the portion of the period of enrollment in the course or courses from which the individual failed to receive credit or with respect to which the individual lost training time, as determined under paragraph (2)(B).
+
+In General
+
+Continuing Receipt
+
+Discontinuation of Education for Active Duty.—
+
+In general
+
+Description of payment of educational assistance
+
+Period for which payment not charged
+
+## Source Credit
+
+*(Added [Pub. L. 110–252, title V, § 5003(a)(1)](https://www.govinfo.gov/link/plaw/110/public/252), June 30, 2008, [122 Stat. 2362](https://www.govinfo.gov/link/statute/122/2362).)*

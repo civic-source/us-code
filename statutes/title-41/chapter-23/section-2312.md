@@ -3,9 +3,10 @@ title: "Section 2312 - Contingency Contracting Corps"
 usc_title: 41
 usc_section: "2312"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 2312"
-generated_at: "2026-03-30T02:55:55.804Z"
+generated_at: "2026-11-23T21:26:18.799Z"
+status: "active"
 ---
 
 # § 2312. Contingency Contracting Corps
@@ -27,3 +28,51 @@ generated_at: "2026-03-30T02:55:55.804Z"
 - **(i)**
   - **(1)** The Administrator of General Services shall provide to the Committee on Homeland Security and Governmental Affairs and the Committee on Armed Services of the Senate and the Committee on Oversight and Government Reform and the Committee on Armed Services of the House of Representatives an annual report on the status of the Corps as of September 30 of each fiscal year.
   - **(2)** Each report under paragraph (1) shall include the number of members of the Corps, the total cost of operating the program, the number of deployments of members of the program, and the performance of members of the program in deployment.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 2312 (except subsection (a)) | 41:440. | Pub. L. 93–400, § 44 , as added Pub. L. 110–417 , [div. A], title VIII, § 870(a), Oct. 14, 2008 , 122 Stat. 4554 . |
+| 2312(a) | no source. |  |
+
+
+Definition
+
+Establishment
+
+Function
+
+Applicability
+
+Membership
+
+Education and Training
+
+Salary
+
+Authority to Deploy the Corps.—
+
+Director of the Office of Management and Budget
+
+Secretary of Defense
+
+Annual Report.—
+
+In general
+
+Content
+
+Historical and Revision Notes
+
+Pub. L. 93–400, § 44
+
+Pub. L. 110–417
+
+Oct. 14, 2008
+
+122 Stat. 4554
+
+2312(a)
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3739](https://www.govinfo.gov/link/statute/124/3739).)*

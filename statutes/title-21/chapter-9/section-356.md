@@ -3,9 +3,10 @@ title: "Section 356 - Expedited approval of drugs for serious or life-threatenin
 usc_title: 21
 usc_section: "356"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 356"
-generated_at: "2026-03-30T02:54:54.242Z"
+generated_at: "2026-11-23T21:25:56.054Z"
+status: "active"
 ---
 
 # § 356. Expedited approval of drugs for serious or life-threatening diseases or conditions
@@ -102,3 +103,49 @@ generated_at: "2026-03-30T02:54:54.242Z"
   - **(9)**
     - **(A)** The Secretary shall report to Congress not less often than once every 2 years on the number of requests for approval, and the number of approvals, of an antibacterial or antifungal drug under this subsection.
     - **(B)** Not later than December 2021, the Comptroller General of the United States shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate a report on the coordination of activities required under section 319E of the Public Health Service Act [ 42 U.S.C. 247d–5 ]. Such report shall include a review of such activities, and the extent to which the use of the pathway established under this subsection has streamlined premarket approval for antibacterial or antifungal drugs for limited populations, if such pathway has functioned as intended, if such pathway has helped provide for safe and effective treatment for patients, if such premarket approval would be appropriate for other categories of drugs, and if the authorities under this subsection have affected antibacterial or antifungal resistance.
+
+(aa) the Commissioner; or
+
+(bb) a designee of the Commissioner who has not participated in the proposed withdrawal of approval (other than a meeting pursuant to subclause (III)) and is not subordinate of an individual (other than the Commissioner) who participated in such proposed withdrawal;
+
+“Nothing in this section [amending this section] and the amendments made by this section shall be construed to alter the authority of the Secretary of Health and Human Services—
+
+In general
+
+Final guidance
+
+Report to Congress
+
+Regenerative Advanced Therapy
+
+Findings
+
+Sense of congress
+
+Draft guidance
+
+Final guidance
+
+Consideration
+
+Conforming changes
+
+No effect of inaction on requests
+
+In general.—
+
+Guidance
+
+Amended regulations.—
+
+In general
+
+Procedure
+
+Restrictions
+
+Requirements
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 506, as added [Pub. L. 105–115, title I, § 112(a)](https://www.govinfo.gov/link/plaw/105/public/115), Nov. 21, 1997, [111 Stat. 2309](https://www.govinfo.gov/link/statute/111/2309); amended [Pub. L. 112–144, title VIII, § 803](https://www.govinfo.gov/link/plaw/112/public/144), title IX, §§ 901(b), 902(a), July 9, 2012, [126 Stat. 1079](https://www.govinfo.gov/link/statute/126/1079), 1083, 1086; [Pub. L. 114–255, div. A, title III](https://www.govinfo.gov/link/plaw/114/public/255), §§ 3033(a), (c), 3042, Dec. 13, 2016, [130 Stat. 1101](https://www.govinfo.gov/link/statute/130/1101), 1103, 1112; [Pub. L. 117–328, div. FF, title III, § 3210(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5822](https://www.govinfo.gov/link/statute/136/5822).)*

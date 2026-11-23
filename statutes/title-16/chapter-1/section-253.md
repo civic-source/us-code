@@ -3,12 +3,17 @@ title: "Section 253 - Apportionment of income among counties"
 usc_title: 16
 usc_section: "253"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 253"
-generated_at: "2026-03-30T02:54:22.745Z"
+generated_at: "2026-11-23T21:25:51.401Z"
+status: "active"
 ---
 
 # § 253. Apportionment of income among counties
 
 The income of each county receiving moneys from the Olympic National Forest, under section 500 of this title , shall be proportional to the total area of each county in the Olympic National Forest and the Olympic National Park combined.
 
+
+## Source Credit
+
+*(June 29, 1938, ch. 812, § 3, [52 Stat. 1242](https://www.govinfo.gov/link/statute/52/1242).)*

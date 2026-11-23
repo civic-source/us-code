@@ -3,9 +3,10 @@ title: "Section 1322 - Federal Acquisition Security Council establishment and me
 usc_title: 41
 usc_section: "1322"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 1322"
-generated_at: "2026-03-30T02:55:55.799Z"
+generated_at: "2026-11-23T21:26:18.780Z"
+status: "active"
 ---
 
 # § 1322. Federal Acquisition Security Council establishment and membership
@@ -34,3 +35,31 @@ generated_at: "2026-03-30T02:55:55.799Z"
     - **(C)** in consultation with the lead representative of each agency represented on the Council, developing a charter for the Council; and
     - **(D)** not later than 7 days after completion of the charter, submitting the charter to the appropriate congressional committees and leadership.
 - **(d)** The Council shall meet not later than 60 days after the date of the enactment of the Federal Acquisition Supply Chain Security Act of 2018 and not less frequently than quarterly thereafter.
+
+Establishment
+
+Membership.—
+
+In general
+
+Lead representatives.—
+
+Designation.—
+
+In general
+
+Requirements
+
+Functions
+
+Chairperson.—
+
+Designation
+
+Functions
+
+Meetings
+
+## Source Credit
+
+*(Added [Pub. L. 115–390, title II, § 202(a)](https://www.govinfo.gov/link/plaw/115/public/390), Dec. 21, 2018, [132 Stat. 5178](https://www.govinfo.gov/link/statute/132/5178).)*

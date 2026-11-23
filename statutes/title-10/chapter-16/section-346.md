@@ -3,9 +3,10 @@ title: "Section 346 - Distribution to certain foreign personnel of education and
 usc_title: 10
 usc_section: "346"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 346"
-generated_at: "2026-03-30T02:53:38.054Z"
+generated_at: "2026-11-23T21:25:32.256Z"
+status: "active"
 ---
 
 # § 346. Distribution to certain foreign personnel of education and training materials and information technology to enhance military interoperability with the armed forces
@@ -21,3 +22,41 @@ generated_at: "2026-03-30T02:53:38.054Z"
 - **(e)**
   - **(1)** The Secretary of Defense shall develop and issue guidance on the procedures for the use of the authority in this section.
   - **(2)** If the Secretary modifies the guidance issued under paragraph (1), the Secretary shall submit to the appropriate committees of Congress a report setting forth the modified guidance not later than 30 days after the date of such modification.
+
+Distribution Authorized
+
+Authorized Recipients
+
+Education and Training
+
+Applicability of Export Control Regimes
+
+Guidance on Utilization of Authority.—
+
+Guidance required
+
+Modification
+
+Authority for Training and Distribution
+
+Scope of Mission Training
+
+Guidance on Use of Authority
+
+Report.—
+
+In general
+
+Elements
+
+Appropriate committees of congress defined
+
+Sunset
+
+Submittal to congress
+
+Utilization of similar guidance
+
+## Source Credit
+
+*(Added [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title XII, § 1205(a)(1), Oct. 14, 2008, [122 Stat. 4623](https://www.govinfo.gov/link/statute/122/4623), § 2249d; renumbered § 346 and amended [Pub. L. 114–328, div. A, title XII, § 1241(h)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2507](https://www.govinfo.gov/link/statute/130/2507).)*

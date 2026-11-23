@@ -3,9 +3,10 @@ title: "Section 10006 - Compliance"
 usc_title: 42
 usc_section: "10006"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10006"
-generated_at: "2026-03-30T02:56:11.378Z"
+generated_at: "2026-11-23T21:26:33.332Z"
+status: "active"
 ---
 
 # § 10006. Compliance
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.378Z"
 - **(c)** Absent compliance by the States with the provisions of this chapter within three years after August 13, 1981 , the Secretary shall report to the Congress recommendations for legislative changes considered necessary to assure the States’ compliance with this chapter.
 - **(d)**
 - **(e)** Notwithstanding any other provision of this section, in the case of a State which has, prior to the effective date of standards and guidelines promulgated pursuant to this chapter, established standards for the accreditation of educational programs and certification of radiologic technologists, such State shall be deemed to be in compliance with the conditions of this section unless the Secretary determines, after notice and hearing, that such State standards do not meet the minimum standards prescribed by the Secretary or are inconsistent with the purposes of this chapter.
+
+## Source Credit
+
+*([Pub. L. 97–35, title IX, § 981](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 600](https://www.govinfo.gov/link/statute/95/600); [Pub. L. 104–66, title I, § 1061(b)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 719](https://www.govinfo.gov/link/statute/109/719).)*

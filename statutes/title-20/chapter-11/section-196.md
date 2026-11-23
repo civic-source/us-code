@@ -3,9 +3,10 @@ title: "Section 196 - Concessions, fees, and voluntary services"
 usc_title: 20
 usc_section: "196"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 196"
-generated_at: "2026-03-30T02:54:48.084Z"
+generated_at: "2026-11-23T21:25:46.956Z"
+status: "active"
 ---
 
 # § 196. Concessions, fees, and voluntary services
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:48.084Z"
 - **(b)** Any funds received or collected by the Secretary of Agriculture as a result of activities described in subsection (a) shall be retained in a special fund in the Treasury. Amounts in the special fund shall be available to the Secretary of Agriculture, without further appropriation, for the use and benefit of the National Arboretum as the Secretary of Agriculture considers appropriate.
 - **(c)** The Secretary of Agriculture may accept the voluntary services of organizations described in subsection (a)(1), and the voluntary services of individuals (including employees of the National Arboretum), for the benefit of the National Arboretum.
 - **(d)** A nonprofit organization that entered into a concession or agreement under subsection (a)(1) may recognize donors if that recognition is approved in advance by the Secretary of Agriculture. In considering whether to approve such recognition, the Secretary shall broadly exercise the discretion of the Secretary to the fullest extent allowed under Federal law.
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 505, § 6, as added [Pub. L. 104–127, title VIII, § 890(b)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1181](https://www.govinfo.gov/link/statute/110/1181); amended [Pub. L. 105–185, title VI, § 601(b)](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 585](https://www.govinfo.gov/link/statute/112/585); [Pub. L. 113–79, title VII, § 7602](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 911](https://www.govinfo.gov/link/statute/128/911).)*

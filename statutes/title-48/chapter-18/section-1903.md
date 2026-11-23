@@ -3,9 +3,10 @@ title: "Section 1903 - Agreements with and other provisions related to Marshall 
 usc_title: 48
 usc_section: "1903"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1903"
-generated_at: "2026-03-30T02:56:14.594Z"
+generated_at: "2026-11-23T21:26:38.055Z"
+status: "active"
 ---
 
 # § 1903. Agreements with and other provisions related to Marshall Islands
@@ -85,3 +86,11 @@ generated_at: "2026-03-30T02:56:14.594Z"
     - **(A)** whether the Government of the Marshall Islands has met the requirements set forth in the Compact, or any related agreement entered into under the Compact, regarding the purposes for which such grants and other assistance are to be used; and
     - **(B)** the propriety of the financial transactions of the Government of the Marshall Islands pursuant to such grants or assistance.
   - **(6)** The Government of the Marshall Islands will cooperate fully with the Comptroller General of the United States in the conduct of such audits as the Comptroller General determines necessary to enable the Comptroller General to fully discharge his responsibilities under this joint resolution.
+
+In General
+
+Effective Date
+
+## Source Credit
+
+*([Pub. L. 99–239, title I, § 103](https://www.govinfo.gov/link/plaw/99/public/239), Jan. 14, 1986, [99 Stat. 1778](https://www.govinfo.gov/link/statute/99/1778); [Pub. L. 100–446, title I, § 115](https://www.govinfo.gov/link/plaw/100/public/446), Sept. 27, 1988, [102 Stat. 1802](https://www.govinfo.gov/link/statute/102/1802); [Pub. L. 102–247, title III, § 304](https://www.govinfo.gov/link/plaw/102/public/247), Feb. 24, 1992, [106 Stat. 39](https://www.govinfo.gov/link/statute/106/39); [Pub. L. 105–209, § 2](https://www.govinfo.gov/link/plaw/105/public/209), July 29, 1998, [112 Stat. 880](https://www.govinfo.gov/link/statute/112/880).)*

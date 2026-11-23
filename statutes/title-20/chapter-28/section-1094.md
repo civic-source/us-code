@@ -3,9 +3,10 @@ title: "Section 1094 - Program participation agreements"
 usc_title: 20
 usc_section: "1094"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1094"
-generated_at: "2026-03-30T02:54:48.137Z"
+generated_at: "2026-11-23T21:25:47.211Z"
+status: "active"
 ---
 
 # § 1094. Program participation agreements
@@ -228,3 +229,13 @@ generated_at: "2026-03-30T02:54:48.137Z"
   - **(5)** The term “officer” has the meaning given the term in section 1019 of this title .
   - **(6)** The term “preferred lender arrangement” has the meaning given the term in section 1019 of this title .
 - **(j)** Nothing in the amendments made by the Higher Education Amendments of 1992 shall be construed to prohibit an institution from recording, at the cost of the institution, a hearing referred to in subsection (b)(2), subsection (c)(1)(D), or subparagraph (A) or (B)(i) of subsection (c)(2), of this section to create a record of the hearing, except the unavailability of a recording shall not serve to delay the completion of the proceeding. The Secretary shall allow the institution to use any reasonable means, including stenographers, of recording the hearing.
+
+(aa) the institution’s staff are in control of the counseling, (whether in person or via electronic capabilities); and
+
+(bb) such counseling does not promote the products or services of any specific lender.
+
+“The amendments made under this section [amending this section] shall—
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 487](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 407(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1488](https://www.govinfo.gov/link/statute/100/1488); amended [Pub. L. 101–239, title II](https://www.govinfo.gov/link/plaw/101/public/239), §§ 2003(c)(2), 2006(c), Dec. 19, 1989, [103 Stat. 2114](https://www.govinfo.gov/link/statute/103/2114), 2118; [Pub. L. 101–542, title II, § 205](https://www.govinfo.gov/link/plaw/101/public/542), Nov. 8, 1990, [104 Stat. 2387](https://www.govinfo.gov/link/statute/104/2387); [Pub. L. 102–26, § 2(c)(3)](https://www.govinfo.gov/link/plaw/102/public/26), Apr. 9, 1991, [105 Stat. 124](https://www.govinfo.gov/link/statute/105/124); [Pub. L. 102–325, title IV, § 490](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 625](https://www.govinfo.gov/link/statute/106/625); [Pub. L. 103–208, § 2(h)(42)](https://www.govinfo.gov/link/plaw/103/public/208), (43), Dec. 20, 1993, [107 Stat. 2478](https://www.govinfo.gov/link/statute/107/2478); [Pub. L. 105–244, title I, § 102(b)(4)](https://www.govinfo.gov/link/plaw/105/public/244), title IV, § 489(a), (b)(1), (c), Oct. 7, 1998, [112 Stat. 1622](https://www.govinfo.gov/link/statute/112/1622), 1750, 1751; [Pub. L. 106–113, div. B, § 1000(a)(4) [title III, § 314]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1535](https://www.govinfo.gov/link/statute/113/1535), 1501A–266; [Pub. L. 110–315, title IV, § 493(a)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/315), (b)–(d), Aug. 14, 2008, [122 Stat. 3308](https://www.govinfo.gov/link/statute/122/3308), 3309–3317; [Pub. L. 111–39, title IV, § 407(b)(8)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1952](https://www.govinfo.gov/link/statute/123/1952); [Pub. L. 117–2, title II, § 2013(a)](https://www.govinfo.gov/link/plaw/117/public/2), (b), Mar. 11, 2021, [135 Stat. 28](https://www.govinfo.gov/link/statute/135/28).)*

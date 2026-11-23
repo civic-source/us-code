@@ -3,9 +3,10 @@ title: "Section 11295 - Criteria for grants"
 usc_title: 34
 usc_section: "11295"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 11295"
-generated_at: "2026-03-30T02:55:33.281Z"
+generated_at: "2026-11-23T21:26:09.713Z"
+status: "active"
 ---
 
 # § 11295. Criteria for grants
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:33.281Z"
   - **(2)** criteria based on merit for making such grants and contracts.
 - **(b)** No grant or contract exceeding $50,000 shall be made under this subchapter unless the grantee or contractor has been selected by a competitive process which includes public announcement of the availability of funds for such grant or contract, general criteria for the selection of recipients or contractors, and a description of the application process and application review process.
 - **(c)** Multiple grants or contracts to the same grantee or contractor within any 1 year to support activities having the same general purpose shall be deemed to be a single grant for the purpose of this subsection, but multiple grants or contracts to the same grantee or contractor to support clearly distinct activities shall be considered separate grants or contractors. 1 1 So in original. Probably should be “contracts.”
+
+## Source Credit
+
+*([Pub. L. 93–415, title IV, § 406](https://www.govinfo.gov/link/plaw/93/public/415), formerly § 407, as added [Pub. L. 98–473, title II, § 660](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2129](https://www.govinfo.gov/link/statute/98/2129); renumbered § 406 and amended [Pub. L. 100–690, title VII](https://www.govinfo.gov/link/plaw/100/public/690), §§ 7288, 7290, Nov. 18, 1988, [102 Stat. 4461](https://www.govinfo.gov/link/statute/102/4461).)*

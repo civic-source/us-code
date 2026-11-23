@@ -3,9 +3,10 @@ title: "Section 904 - Reports and orders"
 usc_title: 2
 usc_section: "904"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 904"
-generated_at: "2026-03-30T02:53:04.805Z"
+generated_at: "2026-11-23T21:25:21.198Z"
+status: "active"
 ---
 
 # § 904. Reports and orders
@@ -46,3 +47,47 @@ generated_at: "2026-03-30T02:53:04.805Z"
   - **(1)** during the period consisting of the quarter during which such notification is given, the quarter preceding such notification, and the 4 quarters following such notification, CBO or OMB has determined that real economic growth is projected or estimated to be less than zero with respect to each of any 2 consecutive quarters within such period; or
   - **(2)** the most recent of the Department of Commerce’s advance preliminary or final reports of actual real economic growth indicate that the rate of real economic growth for each of the most recently reported quarter and the immediately preceding quarter is less than one percent.
 - **(j)** In all reports required by this section, OMB shall use the same economic and technical assumptions as used in the most recent budget submitted by the President under section 1105(a) of title 31 .
+
+| Date: | Action to be completed: |
+| --- | --- |
+| January 21 | Notification regarding optional adjustment of maximum deficit amount. |
+| 5 days before the President’s budget submission | CBO sequestration preview report. |
+| The President’s budget submission | OMB sequestration preview report. |
+| August 10 | Notification regarding military personnel. |
+| August 15 | CBO sequestration update report. |
+| August 20 | OMB sequestration update report. |
+| 10 days after end of session | CBO final sequestration report. |
+| 15 days after end of session | OMB final sequestration report; Presidential order. |
+
+
+January 21
+
+August 10
+
+August 15
+
+August 20
+
+Order Rescinded
+
+Amounts Restored
+
+Furloughed Employees
+
+George Bush.
+
+George Bush.
+
+Order Rescinded
+
+Adjusted Reduction.—
+
+Compliance Report by Comptroller General
+
+No Double Reduction in Medicare
+
+George Bush.
+
+## Source Credit
+
+*([Pub. L. 99–177, title II, § 254](https://www.govinfo.gov/link/plaw/99/public/177), Dec. 12, 1985, [99 Stat. 1078](https://www.govinfo.gov/link/statute/99/1078); [Pub. L. 100–119, title I](https://www.govinfo.gov/link/plaw/100/public/119), §§ 102(b)(1), 106(e)(2), Sept. 29, 1987, [101 Stat. 773](https://www.govinfo.gov/link/statute/101/773), 781; [Pub. L. 101–508, title XIII, § 13101(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–586](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–66, title XIV](https://www.govinfo.gov/link/plaw/103/public/66), §§ 14002(c)(2), 14003(b), Aug. 10, 1993, [107 Stat. 684](https://www.govinfo.gov/link/statute/107/684), 685; [Pub. L. 103–322, title XXXI, § 310001(g)(2)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2105](https://www.govinfo.gov/link/statute/108/2105); [Pub. L. 104–316, title I, § 102(d)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3828](https://www.govinfo.gov/link/statute/110/3828); [Pub. L. 105–33, title X, § 10206](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 704](https://www.govinfo.gov/link/statute/111/704); [Pub. L. 112–25, title I, § 103](https://www.govinfo.gov/link/plaw/112/public/25), Aug. 2, 2011, [125 Stat. 246](https://www.govinfo.gov/link/statute/125/246); [Pub. L. 113–67, div. A, title I, § 121(3)](https://www.govinfo.gov/link/plaw/113/public/67), (4), Dec. 26, 2013, [127 Stat. 1175](https://www.govinfo.gov/link/statute/127/1175); [Pub. L. 118–5, div. A, title I, § 101(c)](https://www.govinfo.gov/link/plaw/118/public/5), June 3, 2023, [137 Stat. 13](https://www.govinfo.gov/link/statute/137/13).)*

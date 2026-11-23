@@ -3,9 +3,10 @@ title: "Section 299a - General authorities"
 usc_title: 42
 usc_section: "299a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 299a"
-generated_at: "2026-03-30T02:56:10.784Z"
+generated_at: "2026-11-23T21:26:30.673Z"
+status: "active"
 ---
 
 # § 299a. General authorities
@@ -27,3 +28,9 @@ generated_at: "2026-03-30T02:56:10.784Z"
 - **(d)** Activities authorized in this section shall be appropriately coordinated with experiments, demonstration projects, and other related activities authorized by the Social Security Act [ 42 U.S.C. 301 et seq.] and the Social Security Amendments of 1967. Activities under subsection (a)(2) of this section that affect the programs under titles XVIII, XIX and XXI of the Social Security Act [ 42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.] shall be carried out consistent with section 1142 of such Act [ 42 U.S.C. 1320b–12 ].
 - **(e)** The Agency shall not mandate national standards of clinical practice or quality health care standards. Recommendations resulting from projects funded and published by the Agency shall include a corresponding disclaimer.
 - **(f)** Nothing in this section shall be construed to imply that the Agency’s role is to mandate a national standard or specific approach to quality measurement and reporting. In research and quality improvement activities, the Agency shall consider a wide range of choices, providers, health care delivery systems, and individual preferences.
+
+Barack Obama.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IX, § 902, as added [Pub. L. 106–129, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/129), Dec. 6, 1999, [113 Stat. 1654](https://www.govinfo.gov/link/statute/113/1654); amended [Pub. L. 106–525, title II, § 201(a)(1)](https://www.govinfo.gov/link/plaw/106/public/525), Nov. 22, 2000, [114 Stat. 2505](https://www.govinfo.gov/link/statute/114/2505).)*

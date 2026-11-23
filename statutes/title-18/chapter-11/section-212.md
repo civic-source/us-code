@@ -3,9 +3,10 @@ title: "Section 212 - Offer of loan or gratuity to financial institution examine
 usc_title: 18
 usc_section: "212"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 212"
-generated_at: "2026-03-30T02:54:16.460Z"
+generated_at: "2026-11-23T21:25:43.952Z"
+status: "active"
 ---
 
 # § 212. Offer of loan or gratuity to financial institution examiner
@@ -31,3 +32,21 @@ generated_at: "2026-03-30T02:54:16.460Z"
     - **(A)** the applicant satisfies any financial requirements for the credit card account or residential real property loan that are generally applicable to all applicants for the same type of credit card account or residential real property loan;
     - **(B)** the terms and conditions applicable with respect to such account or residential real property loan, and any credit extended to the examiner under such account or residential real property loan, are no more favorable generally to the examiner than the terms and conditions that are generally applicable to credit card accounts or residential real property loans offered by the same financial institution to other borrowers cardholders 1 1 So in original. in comparable circumstances under open end consumer credit plans or for residential real property loans; and
     - **(C)** with respect to residential real property loans, the loan is with respect to the primary residence of the applicant.
+
+In General
+
+Regulations
+
+Definitions
+
+Examiner
+
+Federal financial institution regulatory agency
+
+Financial institution
+
+Loan
+
+## Source Credit
+
+*(Added [Pub. L. 108–198, § 2(a)](https://www.govinfo.gov/link/plaw/108/public/198), Dec. 19, 2003, [117 Stat. 2899](https://www.govinfo.gov/link/statute/117/2899); amended [Pub. L. 110–289, div. A, title II, § 1216(c)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2792](https://www.govinfo.gov/link/statute/122/2792); [Pub. L. 111–203, title III, § 377(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1569](https://www.govinfo.gov/link/statute/124/1569).)*

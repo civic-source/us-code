@@ -3,9 +3,10 @@ title: "Section 293m - Rural physician training grants"
 usc_title: 42
 usc_section: "293m"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 293m"
-generated_at: "2026-03-30T02:56:10.776Z"
+generated_at: "2026-11-23T21:26:30.634Z"
+status: "active"
 ---
 
 # § 293m. Rural physician training grants
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:10.776Z"
 - **(g)** Any eligible entity receiving funds under this section shall use such funds to supplement, not supplant, any other Federal, State, and local funds that would otherwise be expended by such entity to carry out the activities described in this section.
 - **(h)** With respect to activities for which funds awarded under this section are to be expended, the entity shall agree to maintain expenditures of non-Federal amounts for such activities at a level that is not less than the level of such expenditures maintained by the entity for the fiscal year preceding the fiscal year for which the entity receives a grant under this section.
 - **(i)** There are authorized to be appropriated $4,000,000 for each of the fiscal years 2010 through 2013.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 749B, as added [Pub. L. 111–148, title X, § 10501](https://www.govinfo.gov/link/plaw/111/public/148) (l)(2), Mar. 23, 2010, [124 Stat. 1000](https://www.govinfo.gov/link/statute/124/1000).)*

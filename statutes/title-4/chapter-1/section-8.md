@@ -3,9 +3,10 @@ title: "Section 8 - Respect for flag"
 usc_title: 4
 usc_section: "8"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "4 U.S.C. § 8"
-generated_at: "2026-03-30T02:52:51.498Z"
+generated_at: "2026-11-23T21:25:19.970Z"
+status: "active"
 ---
 
 # § 8. Respect for flag
@@ -23,3 +24,32 @@ No disrespect should be shown to the flag of the United States of America; the f
 - **(i)** The flag should never be used for advertising purposes in any manner whatsoever. It should not be embroidered on such articles as cushions or handkerchiefs and the like, printed or otherwise impressed on paper napkins or boxes or anything that is designed for temporary use and discard. Advertising signs should not be fastened to a staff or halyard from which the flag is flown.
 - **(j)** No part of the flag should ever be used as a costume or athletic uniform. However, a flag patch may be affixed to the uniform of military personnel, firemen, policemen, and members of patriotic organizations. The flag represents a living country and is itself considered a living thing. Therefore, the lapel flag pin being a replica, should be worn on the left lapel near the heart.
 - **(k)** The flag, when it is in such condition that it is no longer a fitting emblem for display, should be destroyed in a dignified way, preferably by burning.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8 | 36:176. | June 22, 1942, ch. 435, § 4 , 56 Stat. 379 ; Dec. 22, 1942, ch. 806, § 4 , 56 Stat. 1076 ; July 7, 1976 , Pub. L. 94–344 , (12)–(16), 90 Stat. 812 . |
+
+
+Historical and Revision Notes
+
+8
+
+June 22, 1942, ch. 435, § 4
+
+56 Stat. 379
+
+Dec. 22, 1942, ch. 806, § 4
+
+56 Stat. 1076
+
+July 7, 1976
+
+Pub. L. 94–344
+
+90 Stat. 812
+
+“The Secretary of Defense shall—
+
+## Source Credit
+
+*(Added [Pub. L. 105–225, § 2(a)](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1497](https://www.govinfo.gov/link/statute/112/1497); amended [Pub. L. 118–159, div. A, title XVII, § 1703(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2208](https://www.govinfo.gov/link/statute/138/2208).)*

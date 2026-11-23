@@ -3,9 +3,10 @@ title: "Section 410ggg - Rosie the Riveter/World War II Home Front National Hist
 usc_title: 16
 usc_section: "410ggg"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410ggg"
-generated_at: "2026-03-30T02:54:22.778Z"
+generated_at: "2026-11-23T21:25:51.475Z"
+status: "active"
 ---
 
 # § 410ggg. Rosie the Riveter/World War II Home Front National Historical Park
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:22.778Z"
       - **(ii)** have a direct connection to World War II home front themes in Richmond, California; and
       - **(iii)** relate to the purpose, significance, and interpretive themes of the park.
   - **(2)** The maps referred to in paragraph (1) shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+
+## Source Credit
+
+*([Pub. L. 106–352, § 2](https://www.govinfo.gov/link/plaw/106/public/352), Oct. 24, 2000, [114 Stat. 1370](https://www.govinfo.gov/link/statute/114/1370); [Pub. L. 108–352, § 6(1)](https://www.govinfo.gov/link/plaw/108/public/352), Oct. 21, 2004, [118 Stat. 1396](https://www.govinfo.gov/link/statute/118/1396); [Pub. L. 117–328, div. DD, title VI, § 612(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5603](https://www.govinfo.gov/link/statute/136/5603).)*

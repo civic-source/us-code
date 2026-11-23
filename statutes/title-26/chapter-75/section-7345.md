@@ -3,9 +3,10 @@ title: "Section 7345 - Revocation or denial of passport in case of certain tax d
 usc_title: 26
 usc_section: "7345"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7345"
-generated_at: "2026-03-30T02:55:27.870Z"
+generated_at: "2026-11-23T21:26:06.951Z"
+status: "active"
 ---
 
 # § 7345. Revocation or denial of passport in case of certain tax delinquencies
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:27.870Z"
   - **(1)** such dollar amount, multiplied by
   - **(2)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2015” for “calendar year 2016” in subparagraph (A)(ii) thereof.
 - **(g)** A certification under subsection (a) or reversal of certification under subsection (c) may only be delegated by the Commissioner of Internal Revenue to the Deputy Commissioner for Services and Enforcement, or the Commissioner of an operating division, of the Internal Revenue Service.
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. C, title XXXII, § 32101(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1729](https://www.govinfo.gov/link/statute/129/1729); amended [Pub. L. 115–97, title I, § 11002(d)(1)(RR)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2061](https://www.govinfo.gov/link/statute/131/2061); [Pub. L. 115–141, div. U, title I, § 103(a)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1169](https://www.govinfo.gov/link/statute/132/1169).)*

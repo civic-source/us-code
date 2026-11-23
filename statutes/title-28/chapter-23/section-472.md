@@ -3,9 +3,10 @@ title: "Section 472 - Development and implementation of a civil justice expense 
 usc_title: 28
 usc_section: "472"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 472"
-generated_at: "2026-03-30T02:55:30.130Z"
+generated_at: "2026-11-23T21:26:01.043Z"
+status: "active"
 ---
 
 # § 472. Development and implementation of a civil justice expense and delay reduction plan
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:30.130Z"
   - **(1)** the Director of the Administrative Office of the United States Courts;
   - **(2)** the judicial council of the circuit in which the district court is located; and
   - **(3)** the chief judge of each of the other United States district courts located in such circuit.
+
+## Source Credit
+
+*(Added [Pub. L. 101–650, title I, § 103(a)](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5090](https://www.govinfo.gov/link/statute/104/5090).)*

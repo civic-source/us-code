@@ -3,9 +3,10 @@ title: "Section 3369b - Oversight of foreign influence in academia"
 usc_title: 50
 usc_section: "3369b"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3369b"
-generated_at: "2026-03-30T02:56:26.249Z"
+generated_at: "2026-11-23T21:26:39.046Z"
+status: "active"
 ---
 
 # § 3369b. Oversight of foreign influence in academia
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:26.249Z"
   - **(3)** A list of any known or suspected attempts by foreign entities to exert pressure on covered institutions of higher education, including attempts to limit freedom of speech, propagate misinformation or disinformation, or to influence professors, researchers, or students.
   - **(4)** Recommendations for collaboration between covered institutions of higher education and the intelligence community to mitigate threats to sensitive research subjects associated with foreign influence in academia, including any necessary legislative or administrative action.
 - **(d)** Not later than 30 days after the date on which the Director identifies a change to either list described in paragraph (1) or (2) of subsection (c), the Director shall notify the congressional intelligence committees of the change.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. E, title LVII, § 5713](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2172](https://www.govinfo.gov/link/statute/133/2172); [Pub. L. 118–159, div. F, title LXIX, § 6901(c)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2516](https://www.govinfo.gov/link/statute/138/2516).)*

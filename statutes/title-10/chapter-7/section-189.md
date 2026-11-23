@@ -3,9 +3,10 @@ title: "Section 189 - Communications Security Review and Advisory Board"
 usc_title: 10
 usc_section: "189"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 189"
-generated_at: "2026-03-30T02:53:38.045Z"
+generated_at: "2026-11-23T21:25:32.235Z"
+status: "active"
 ---
 
 # § 189. Communications Security Review and Advisory Board
@@ -25,3 +26,15 @@ generated_at: "2026-03-30T02:53:38.045Z"
   - **(4)** develop a long-term roadmap for communications security to identify potential issues and ensure synchronization with major planning documents; and
   - **(5)** advise the Secretary on the cryptographic posture of the Department, including budgetary recommendations.
 - **(d)** The Board shall not include the consideration of programs funded under the National Intelligence Program (as defined in section 3(6) of the National Security Act of 1947 ( 50 U.S.C. 3003(6) )) in carrying out this section.
+
+Establishment
+
+Members
+
+Responsibilities
+
+Exclusion of Certain Programs
+
+## Source Credit
+
+*(Added [Pub. L. 113–66, div. A, title II, § 261(a)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 724](https://www.govinfo.gov/link/statute/127/724); amended [Pub. L. 113–291, div. A, title X, § 1071(f)(4)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3510](https://www.govinfo.gov/link/statute/128/3510); [Pub. L. 116–283, div. A, title XVIII, § 1846(i)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4252](https://www.govinfo.gov/link/statute/134/4252).)*

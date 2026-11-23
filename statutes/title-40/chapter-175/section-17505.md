@@ -3,9 +3,10 @@ title: "Section 17505 - Presidential report"
 usc_title: 40
 usc_section: "17505"
 chapter: 175
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 17505"
-generated_at: "2026-03-30T02:55:43.390Z"
+generated_at: "2026-11-23T21:26:14.984Z"
+status: "active"
 ---
 
 # § 17505. Presidential report
@@ -15,3 +16,26 @@ generated_at: "2026-03-30T02:55:43.390Z"
   - **(1)** the use of a qualified private fleet management firm or another private contractor;
   - **(2)** increased reliance by executive agencies on the Interagency Fleet Management System the Administrator of General Services operates; or
   - **(3)** other existing motor vehicle management systems.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 17505 | 40:904. | Pub. L. 99–272, title XV, § 15304 , Apr. 7, 1986 , 100 Stat. 336 . |
+
+
+Summary and Analysis of Agency Statements
+
+Contents of Summary and Analysis
+
+Historical and Revision Notes
+
+17505
+
+Pub. L. 99–272, title XV, § 15304
+
+Apr. 7, 1986
+
+100 Stat. 336
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1284](https://www.govinfo.gov/link/statute/116/1284).)*

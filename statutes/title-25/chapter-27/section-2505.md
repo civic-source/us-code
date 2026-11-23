@@ -3,9 +3,10 @@ title: "Section 2505 - Duration of eligibility determination"
 usc_title: 25
 usc_section: "2505"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2505"
-generated_at: "2026-03-30T02:54:52.841Z"
+generated_at: "2026-11-23T21:25:54.672Z"
+status: "active"
 ---
 
 # § 2505. Duration of eligibility determination
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:54:52.841Z"
 - **(d)** With respect to a tribally controlled school that receives assistance under this chapter pursuant to an election made under section 2507(b) of this title —
   - **(1)** subsection (b) of this section shall apply; and
   - **(2)** the Secretary may not revoke eligibility for assistance under this chapter except in conformance with subsection (c) of this section.
+
+## Source Credit
+
+*([Pub. L. 100–297, title V, § 5206](https://www.govinfo.gov/link/plaw/100/public/297), as added [Pub. L. 107–110, title X, § 1043](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2072](https://www.govinfo.gov/link/statute/115/2072).)*

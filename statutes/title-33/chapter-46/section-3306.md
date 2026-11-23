@@ -3,9 +3,10 @@ title: "Section 3306 - Certain levee improvements"
 usc_title: 33
 usc_section: "3306"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3306"
-generated_at: "2026-03-30T02:55:41.140Z"
+generated_at: "2026-11-23T21:26:11.483Z"
+status: "active"
 ---
 
 # § 3306. Certain levee improvements
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:41.140Z"
 - **(c)** Nothing in this section—
   - **(1)** affects the responsibilities of a local government to operate and maintain its flood control infrastructure; or
   - **(2)** obligates the Secretary to expend additional Federal resources on levees owned and operated by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 115–270, title I, § 1123](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3779](https://www.govinfo.gov/link/statute/132/3779).)*

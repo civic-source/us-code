@@ -3,9 +3,10 @@ title: "Section 12107 - Army National Guard of United States; Air National Guard
 usc_title: 10
 usc_section: "12107"
 chapter: 1203
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 12107"
-generated_at: "2026-03-30T02:53:38.268Z"
+generated_at: "2026-11-23T21:25:33.036Z"
+status: "active"
 ---
 
 # § 12107. Army National Guard of United States; Air National Guard of the United States: enlistment in
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:38.268Z"
 - **(c)**
   - **(1)** A member of the Army Reserve who enlists in the Army National Guard in his reserve grade, and is a member of a federally recognized unit or organization of the Army National Guard, becomes a member of the Army National Guard of the United States and ceases to be a member of the Army Reserve.
   - **(2)** A member of the Air Force Reserve who enlists in the Air National Guard in his reserve grade, and is a member of a federally recognized unit or organization of the Air National Guard, becomes a member of the Air National Guard of the United States and ceases to be a member of the Air Force Reserve.
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1662(b)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2989](https://www.govinfo.gov/link/statute/108/2989).)*

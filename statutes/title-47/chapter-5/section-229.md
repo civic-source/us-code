@@ -3,9 +3,10 @@ title: "Section 229 - Communications Assistance for Law Enforcement Act complian
 usc_title: 47
 usc_section: "229"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 229"
-generated_at: "2026-03-30T02:56:24.500Z"
+generated_at: "2026-11-23T21:26:35.956Z"
+status: "active"
 ---
 
 # § 229. Communications Assistance for Law Enforcement Act compliance
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:24.500Z"
   - **(1)** A common carrier may petition the Commission to adjust charges, practices, classifications, and regulations to recover costs expended for making modifications to equipment, facilities, or services pursuant to the requirements of section 103 of the Communications Assistance for Law Enforcement Act [ 47 U.S.C. 1002 ].
   - **(2)** The Commission may grant, with or without modification, a petition under paragraph (1) if the Commission determines that such costs are reasonable and that permitting recovery is consistent with the public interest. The Commission may, consistent with maintaining just and reasonable charges, practices, classifications, and regulations in connection with the provision of interstate or foreign communication by wire or radio by a common carrier, allow carriers to adjust such charges, practices, classifications, and regulations in order to carry out the purposes of this chapter.
   - **(3)** The Commission shall convene a Federal-State joint board to recommend appropriate changes to part 36 of the Commission’s rules with respect to recovery of costs pursuant to charges, practices, classifications, and regulations under the jurisdiction of the Commission.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title II, § 229, as added [Pub. L. 103–414, title III, § 301](https://www.govinfo.gov/link/plaw/103/public/414), Oct. 25, 1994, [108 Stat. 4292](https://www.govinfo.gov/link/statute/108/4292).)*

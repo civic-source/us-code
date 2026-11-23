@@ -3,9 +3,10 @@ title: "Section 6635 - Office of Senate Health Promotion"
 usc_title: 2
 usc_section: "6635"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 6635"
-generated_at: "2026-03-30T02:53:04.844Z"
+generated_at: "2026-11-23T21:25:21.369Z"
+status: "active"
 ---
 
 # § 6635. Office of Senate Health Promotion
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:04.844Z"
 - **(d)** Disbursements from the revolving fund shall be made upon vouchers signed by the Sergeant at Arms and Doorkeeper of the Senate.
 - **(e)** The provisions of section 5104(c) of title 40 shall not be applicable to any class, service, or other activity carried out pursuant to the provisions of this section.
 - **(f)** The provisions of this section shall be carried out in accordance with regulations which shall be promulgated by the Sergeant at Arms and Doorkeeper of the Senate and subject to approval at the beginning of each Congress by the Committee on Rules and Administration of the Senate.
+
+## Source Credit
+
+*([Pub. L. 101–163, title I, § 4](https://www.govinfo.gov/link/plaw/101/public/163), Nov. 21, 1989, [103 Stat. 1044](https://www.govinfo.gov/link/statute/103/1044); [Pub. L. 102–90, title I, § 2](https://www.govinfo.gov/link/plaw/102/public/90), Aug. 14, 1991, [105 Stat. 450](https://www.govinfo.gov/link/statute/105/450).)*

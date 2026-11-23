@@ -3,9 +3,10 @@ title: "Section 3762 - Disposition of sale proceeds"
 usc_title: 12
 usc_section: "3762"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3762"
-generated_at: "2026-03-30T02:53:53.497Z"
+generated_at: "2026-11-23T21:25:37.151Z"
+status: "active"
 ---
 
 # § 3762. Disposition of sale proceeds
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:53.497Z"
     - **(A)** First, to holders of liens recorded after the mortgage in the order of priority under Federal law or the law of the State in which the security property is located.
     - **(B)** Second, to the appropriate mortgagor.
   - **(2)** If the person to whom such surplus is to be paid cannot be located, or if the surplus available is insufficient to pay all claimants and the claimants cannot agree on the allocation of the surplus, or if any person claiming an interest in the mortgage proceeds does not agree that some or all of the sale proceeds should be paid to a claimant as provided in this section, that part of the sale proceeds in question may be deposited by the foreclosure commissioner with an appropriate official or court authorized under law to receive disputed funds in such circumstances. If a procedure for the deposit of disputed funds is not available, and the foreclosure commissioner files a bill of interpleader or is sued as a stakeholder to determine entitlement to such funds, the foreclosure commissioner’s necessary costs incurred in taking or defending such action shall be deductible from the disputed funds.
+
+## Source Credit
+
+*([Pub. L. 103–327, title II](https://www.govinfo.gov/link/plaw/103/public/327), Sept. 28, 1994, [108 Stat. 2316](https://www.govinfo.gov/link/statute/108/2316).)*

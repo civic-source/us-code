@@ -3,9 +3,10 @@ title: "Section 7619 - Air quality monitoring"
 usc_title: 42
 usc_section: "7619"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7619"
-generated_at: "2026-03-30T02:56:11.320Z"
+generated_at: "2026-11-23T21:26:33.138Z"
+status: "active"
 ---
 
 # § 7619. Air quality monitoring
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:56:11.320Z"
     - **(A)** Guidance on the identification and use of air quality data affected by exceptional events (July 1986).
     - **(B)** Areas affected by PM–10 natural events, May 30, 1996 .
     - **(C)** Appendices I, K, and N to part 50 of title 40, Code of Federal Regulations.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title III, § 319, as added [Pub. L. 95–95, title III, § 309](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 781](https://www.govinfo.gov/link/statute/91/781); amended [Pub. L. 109–59, title VI, § 6013(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1882](https://www.govinfo.gov/link/statute/119/1882).)*

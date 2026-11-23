@@ -3,9 +3,10 @@ title: "Section 7961 - Gun-free requirements"
 usc_title: 20
 usc_section: "7961"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7961"
-generated_at: "2026-03-30T02:54:48.222Z"
+generated_at: "2026-11-23T21:25:47.630Z"
+status: "active"
 ---
 
 # § 7961. Gun-free requirements
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:48.222Z"
 - **(h)**
   - **(1)** No funds shall be made available under any subchapter of this chapter to any local educational agency unless such agency has a policy requiring referral to the criminal justice or juvenile delinquency system of any student who brings a firearm or weapon to a school served by such agency.
   - **(2)** For the purpose of this subsection, the term “school” has the same meaning given to such term by section 921(a) of title 18 .
+
+## Source Credit
+
+*([Pub. L. 89–10, title VIII, § 8561](https://www.govinfo.gov/link/plaw/89/public/10), formerly title IV, § 4141, as added [Pub. L. 107–110, title IV, § 401](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1762](https://www.govinfo.gov/link/statute/115/1762); renumbered title IX, § 9551, renumbered title VIII, § 8561, [Pub. L. 114–95, title IV, § 4001(a)(2)(A)](https://www.govinfo.gov/link/plaw/114/public/95), (B), (D), title VIII, § 8001(a)(8), Dec. 10, 2015, [129 Stat. 1966](https://www.govinfo.gov/link/statute/129/1966), 2088, 2089.)*

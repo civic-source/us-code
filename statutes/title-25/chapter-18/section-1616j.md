@@ -3,9 +3,10 @@ title: "Section 1616j - Retention bonus"
 usc_title: 25
 usc_section: "1616j"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1616j"
-generated_at: "2026-03-30T02:54:52.819Z"
+generated_at: "2026-11-23T21:25:54.615Z"
+status: "active"
 ---
 
 # § 1616j. Retention bonus
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:52.819Z"
 - **(f)** The Secretary may pay a retention bonus to any physician or nurse employed by an organization providing health care services to Indians pursuant to a contract under the Indian Self-Determination Act [ 25 U.S.C. 5321 et seq.] if such physician or nurse is serving in a position which the Secretary determines is—
   - **(1)** a position for which recruitment or retention is difficult; and
   - **(2)** necessary for providing health care services to Indians.
+
+## Source Credit
+
+*([Pub. L. 94–437, title I, § 117](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 100–713, title I, § 109](https://www.govinfo.gov/link/plaw/100/public/713), Nov. 23, 1988, [102 Stat. 4799](https://www.govinfo.gov/link/statute/102/4799); amended [Pub. L. 102–573, title I, § 104(d)](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4533](https://www.govinfo.gov/link/statute/106/4533).)*

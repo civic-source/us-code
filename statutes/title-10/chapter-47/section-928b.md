@@ -3,9 +3,10 @@ title: "Section 928b - Art. 128b. Domestic violence"
 usc_title: 10
 usc_section: "928b"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 928b"
-generated_at: "2026-03-30T02:53:38.087Z"
+generated_at: "2026-11-23T21:25:32.353Z"
+status: "active"
 ---
 
 # § 928b. Art. 128b. Domestic violence
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:53:38.087Z"
   - **(4)** with intent to commit a violent offense against a spouse, an intimate partner, a dating partner, or an immediate family member of that person, violates a protection order; or
   - **(5)** assaults a spouse, an intimate partner, a dating partner, or an immediate family member of that person by strangling or suffocating;
 - **(b)** In this section, the terms “dating partner”, “immediate family”, and “intimate partner” have the meanings given such terms in section 930 of this title (article 130).
+
+In General
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 115–232, div. A, title V, § 532(a)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1759](https://www.govinfo.gov/link/statute/132/1759); amended [Pub. L. 116–92, div. A, title XVII, § 1731(a)(20)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1813](https://www.govinfo.gov/link/statute/133/1813); [Pub. L. 118–31, div. A, title V, § 531(d)(1)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 259](https://www.govinfo.gov/link/statute/137/259).)*

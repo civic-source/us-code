@@ -3,9 +3,10 @@ title: "Section 920b - Art. 120b. Rape and sexual assault of a child"
 usc_title: 10
 usc_section: "920b"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 920b"
-generated_at: "2026-03-30T02:53:38.086Z"
+generated_at: "2026-11-23T21:25:32.352Z"
+status: "active"
 ---
 
 # § 920b. Art. 120b. Rape and sexual assault of a child
@@ -37,3 +38,35 @@ generated_at: "2026-03-30T02:53:38.086Z"
     - **(B)** intentionally exposing one’s genitalia, anus, buttocks, or female areola or nipple to a child by any means, including via any communication technology, with an intent to abuse, humiliate, or degrade any person, or to arouse or gratify the sexual desire of any person;
     - **(C)** intentionally communicating indecent language to a child by any means, including via any communication technology, with an intent to abuse, humiliate, or degrade any person, or to arouse or gratify the sexual desire of any person; or
     - **(D)** any indecent conduct, intentionally done with or in the presence of a child, including via any communication technology, that amounts to a form of immorality relating to sexual impurity which is grossly vulgar, obscene, and repugnant to common propriety, and tends to excite sexual desire or deprave morals with respect to sexual relations.
+
+Rape of a Child
+
+Sexual Assault of a Child
+
+Sexual Abuse of a Child
+
+Age of Child.—
+
+Under 12 years
+
+Under 16 years
+
+Proof of Threat
+
+Consent
+
+Definitions
+
+Sexual act and sexual contact
+
+Force
+
+Threatening or placing that child in fear
+
+Child
+
+Lewd act
+
+## Source Credit
+
+*(Added [Pub. L. 112–81, div. A, title V, § 541(b)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1407](https://www.govinfo.gov/link/statute/125/1407); amended [Pub. L. 112–239, div. A, title X, § 1076(a)(3)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1948](https://www.govinfo.gov/link/statute/126/1948); [Pub. L. 114–328, div. E, title LX, § 5430(c)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2950](https://www.govinfo.gov/link/statute/130/2950); [Pub. L. 118–159, div. A, title V, § 565](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1904](https://www.govinfo.gov/link/statute/138/1904).)*

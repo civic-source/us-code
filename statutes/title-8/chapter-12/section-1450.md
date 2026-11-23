@@ -3,9 +3,10 @@ title: "Section 1450 - Functions and duties of clerks and records of declaration
 usc_title: 8
 usc_section: "1450"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1450"
-generated_at: "2026-03-30T02:53:10.502Z"
+generated_at: "2026-11-23T21:25:25.197Z"
+status: "active"
 ---
 
 # § 1450. Functions and duties of clerks and records of declarations of intention and applications for naturalization
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:10.502Z"
   - **(3)** forward to the Attorney General certified copies of such other proceedings and orders instituted in or issued out of the court affecting or relating to the naturalization of persons as may be required from time to time by the Attorney General, and
   - **(4)** be responsible for all blank certificates of naturalization received by them from time to time from the Attorney General and shall account to the Attorney General for them whenever required to do so.
 - **(b)** Each district office of the Service in the United States shall maintain, in chronological order, indexed, and consecutively numbered, as part of its permanent records, all declarations of intention and applications for naturalization filed with the office.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title III, ch. 2, § 339, [66 Stat. 259](https://www.govinfo.gov/link/statute/66/259); [Pub. L. 101–649, title IV, § 407(d)(17)](https://www.govinfo.gov/link/plaw/101/public/649), Nov. 29, 1990, [104 Stat. 5045](https://www.govinfo.gov/link/statute/104/5045); [Pub. L. 102–232, title I, § 102(b)(1)](https://www.govinfo.gov/link/plaw/102/public/232), Dec. 12, 1991, [105 Stat. 1735](https://www.govinfo.gov/link/statute/105/1735).)*

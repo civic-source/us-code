@@ -3,9 +3,10 @@ title: "Section 3203 - Voluntary services"
 usc_title: 50
 usc_section: "3203"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3203"
-generated_at: "2026-03-30T02:56:26.238Z"
+generated_at: "2026-11-23T21:26:39.021Z"
+status: "active"
 ---
 
 # § 3203. Voluntary services
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:26.238Z"
   - **(1)** The head of a covered element of the intelligence community may install telephone lines and any necessary telecommunication equipment in the private residences of individuals who provide voluntary services under subsection (a).
   - **(2)** The head of a covered element of the intelligence community may pay the charges incurred for the use of equipment installed under paragraph (1) for authorized purposes.
   - **(3)** Notwithstanding section 1348 of title 31 , the head of a covered element of the intelligence community may use appropriated funds or nonappropriated funds of the element in carrying out this subsection.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title X, § 1013, as added [Pub. L. 108–487, title VI, § 612(a)(2)](https://www.govinfo.gov/link/plaw/108/public/487), Dec. 23, 2004, [118 Stat. 3957](https://www.govinfo.gov/link/statute/118/3957).)*

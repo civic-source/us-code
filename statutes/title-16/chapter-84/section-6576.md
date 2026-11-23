@@ -3,9 +3,10 @@ title: "Section 6576 - Protections and measures"
 usc_title: 16
 usc_section: "6576"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6576"
-generated_at: "2026-03-30T02:54:23.062Z"
+generated_at: "2026-11-23T21:25:52.045Z"
+status: "active"
 ---
 
 # § 6576. Protections and measures
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:23.062Z"
   - **(1)** section 1536(b)(4) of this title ; or
   - **(2)** section 1539(a)(1) of this title .
 - **(b)** If protection under subsection (a) requires the taking of measures that are in addition to the measures covered by the applicable restoration plan agreed to under section 6573 of this title , the cost of the additional measures, as well as the cost of any permit, shall be considered part of the restoration plan for purposes of financial assistance under section 6574 of this title .
+
+## Source Credit
+
+*([Pub. L. 108–148, title V, § 506](https://www.govinfo.gov/link/plaw/108/public/148), Dec. 3, 2003, [117 Stat. 1914](https://www.govinfo.gov/link/statute/117/1914).)*

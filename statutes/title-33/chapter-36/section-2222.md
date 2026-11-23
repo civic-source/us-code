@@ -3,9 +3,10 @@ title: "Section 2222 - Use of other Federal funds"
 usc_title: 33
 usc_section: "2222"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2222"
-generated_at: "2026-03-30T02:55:41.113Z"
+generated_at: "2026-11-23T21:26:11.424Z"
+status: "active"
 ---
 
 # § 2222. Use of other Federal funds
@@ -14,3 +15,7 @@ The non-Federal interest for a water resources development study or project, inc
 
   - **(1)** the statutory authority for the funds provided by the Federal agency does not expressly prohibit use of the funds for a study or project of the Corps of Engineers; and
   - **(2)** the Federal agency that provides the funds determines that the study or project activities for which the funds will be used are otherwise eligible for funding under such statutory authority.
+
+## Source Credit
+
+*([Pub. L. 110–114, title II, § 2007](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1073](https://www.govinfo.gov/link/statute/121/1073); [Pub. L. 117–263, div. H, title LXXXI, § 8149](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3731](https://www.govinfo.gov/link/statute/136/3731).)*

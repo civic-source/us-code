@@ -3,9 +3,10 @@ title: "Section 20928 - Sex Offender Management Assistance (SOMA) program"
 usc_title: 34
 usc_section: "20928"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20928"
-generated_at: "2026-03-30T02:55:33.301Z"
+generated_at: "2026-11-23T21:26:09.799Z"
+status: "active"
 ---
 
 # § 20928. Sex Offender Management Assistance (SOMA) program
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:33.301Z"
   - **(1)** 10 percent of the total received by the jurisdiction under the SOMA program for the preceding fiscal year, if that implementation is not later than 1 year after July 27, 2006 ; and
   - **(2)** 5 percent of such total, if not later than 2 years after July 27, 2006 .
 - **(d)** In addition to any amounts otherwise authorized to be appropriated, there are authorized to be appropriated such sums as may be necessary to the Attorney General, to be available only for the SOMA program, for fiscal years 2007 through 2009.
+
+## Source Credit
+
+*([Pub. L. 109–248, title I, § 126](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 599](https://www.govinfo.gov/link/statute/120/599).)*

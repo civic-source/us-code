@@ -3,9 +3,10 @@ title: "Section 1461 - Effective date; special rules"
 usc_title: 29
 usc_section: "1461"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1461"
-generated_at: "2026-03-30T02:55:18.738Z"
+generated_at: "2026-11-23T21:26:02.305Z"
+status: "active"
 ---
 
 # § 1461. Effective date; special rules
@@ -61,3 +62,7 @@ generated_at: "2026-03-30T02:55:18.738Z"
       - **(ii)** had notified a local union representative on May 14, 1980 , that the employer had tentatively decided to discontinue operations and relocate to a new facility in another State, and
     - **(B)** all State and local approvals with respect to construction of and commencement of operations at the new facility had been obtained, a contract for construction had been entered into, and construction of the new facility had begun before September 26, 1980 ,
 - **(i)** The preceding provisions of this section shall not apply with respect to amendments made to this subchapter in provisions enacted after October 22, 1986 .
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4402](https://www.govinfo.gov/link/plaw/93/public/406), formerly § 4082, Sept. 2, 1974, [88 Stat. 1034](https://www.govinfo.gov/link/statute/88/1034); S. Res. 4, Feb. 4, 1977; [Pub. L. 95–214, § 1](https://www.govinfo.gov/link/plaw/95/public/214), Dec. 19, 1977, [91 Stat. 1501](https://www.govinfo.gov/link/statute/91/1501); S. Res. 30, Mar. 7, 1979; [Pub. L. 96–24](https://www.govinfo.gov/link/plaw/96/public/24), June 19, 1979, [93 Stat. 70](https://www.govinfo.gov/link/statute/93/70); [Pub. L. 96–239](https://www.govinfo.gov/link/plaw/96/public/239), Apr. 30, 1980, [94 Stat. 341](https://www.govinfo.gov/link/statute/94/341); [Pub. L. 96–293, § 1](https://www.govinfo.gov/link/plaw/96/public/293), June 30, 1980, [94 Stat. 610](https://www.govinfo.gov/link/statute/94/610); renumbered and amended [Pub. L. 96–364, title I, § 108(a)](https://www.govinfo.gov/link/plaw/96/public/364) –(c)(1), Sept. 26, 1980, [94 Stat. 1267](https://www.govinfo.gov/link/statute/94/1267); [Pub. L. 98–369, div. A, title V, § 558(b)(1)(B)](https://www.govinfo.gov/link/plaw/98/public/369), (C), July 18, 1984, [98 Stat. 899](https://www.govinfo.gov/link/statute/98/899); [Pub. L. 99–514, title XVIII, § 1852(i)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2869](https://www.govinfo.gov/link/statute/100/2869); [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7862(a), 7894(h)(5)(A), Dec. 19, 1989, [103 Stat. 2431](https://www.govinfo.gov/link/statute/103/2431), 2451; [Pub. L. 112–141, div. D, title II, § 40234(b)(2)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 858](https://www.govinfo.gov/link/statute/126/858).)*

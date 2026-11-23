@@ -3,9 +3,10 @@ title: "Section 18063 - Risk adjustment"
 usc_title: 42
 usc_section: "18063"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18063"
-generated_at: "2026-03-30T02:56:11.515Z"
+generated_at: "2026-11-23T21:26:33.813Z"
+status: "active"
 ---
 
 # § 18063. Risk adjustment
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.515Z"
   - **(2)** Using the criteria and methods developed under subsection (b), each State shall provide a payment to health plans and health insurance issuers (with respect to health insurance coverage) described in subsection (c) if the actuarial risk of the enrollees of such plans or coverage for a year is greater than the average actuarial risk of all enrollees in all plans and coverage in such State for such year that are not self-insured group health plans (which are subject to the provisions of the Employee Retirement Income Security Act of 1974).
 - **(b)** The Secretary, in consultation with States, shall establish criteria and methods to be used in carrying out the risk adjustment activities under this section. The Secretary may utilize criteria and methods similar to the criteria and methods utilized under part C or D of title XVIII of the Social Security Act [ 42 U.S.C. 1395w–21 et seq., 1395w–101 et seq.]. Such criteria and methods shall be included in the standards and requirements the Secretary prescribes under section 18041 of this title .
 - **(c)** A health plan or a health insurance issuer is described in this subsection if such health plan or health insurance issuer provides coverage in the individual or small group market within the State. This subsection shall not apply to a grandfathered health plan or the issuer of a grandfathered health plan with respect to that plan.
+
+## Source Credit
+
+*([Pub. L. 111–148, title I, § 1343](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 212](https://www.govinfo.gov/link/statute/124/212).)*

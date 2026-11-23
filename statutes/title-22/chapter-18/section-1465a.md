@@ -3,9 +3,10 @@ title: "Section 1465a - Additional functions of Broadcasting Board of Governors"
 usc_title: 22
 usc_section: "1465a"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1465a"
-generated_at: "2026-03-30T02:55:05.332Z"
+generated_at: "2026-11-23T21:25:58.398Z"
+status: "active"
 ---
 
 # § 1465a. Additional functions of Broadcasting Board of Governors
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.332Z"
 - **(d)** Notwithstanding subsection (c), in the event that broadcasts to Cuba on the 1180 AM frequency are subject to jamming or interference greater by 25 per centum or more than the average daily jamming or interference in the twelve months preceding September 1, 1983 , the Broadcasting Board of Governors may lease time on commercial or noncommercial educational AM band radio broadcasting stations. The Federal Communications Commission shall determine levels of jamming and interference by conducting regular monitoring of the 1180 AM frequency. In the event that more than two hours a day of time is leased, not less than 30 per centum of the programing broadcast shall be regular Voice of America broadcasts with particular emphasis on news and programs meeting the requirements of section 1463(2) 1 of this title.
 - **(e)** Any program of United States Government radio broadcasts to Cuba authorized by this section shall be designated “Voice of America: Cuba Service” or “Voice of America: Radio Marti program”.
 - **(f)** In the event broadcasting facilities located at Marathon, Florida, are rendered inoperable by natural disaster or by unlawful destruction, the Broadcasting Board of Governors may, for the period in which the facilities are inoperable but not to exceed one hundred and fifty days, use other United States Government-owned transmission facilities for Voice of America broadcasts to Cuba authorized by this subchapter.
+
+## Source Credit
+
+*([Pub. L. 98–111, § 3](https://www.govinfo.gov/link/plaw/98/public/111), Oct. 4, 1983, [97 Stat. 749](https://www.govinfo.gov/link/statute/97/749); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XIII, § 1324(1)–(3), Oct. 21, 1998, [112 Stat. 2681–780](https://www.govinfo.gov/link/statute/112/2681), 2681–781.)*

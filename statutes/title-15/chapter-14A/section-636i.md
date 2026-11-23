@@ -3,9 +3,10 @@ title: "Section 636i - Small business bonding threshold"
 usc_title: 15
 usc_section: "636i"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 636i"
-generated_at: "2026-03-30T02:54:08.092Z"
+generated_at: "2026-11-23T21:25:39.661Z"
+status: "active"
 ---
 
 # § 636i. Small business bonding threshold
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:08.092Z"
 - **(a)** Except as provided in subsection (b), and notwithstanding any other provision of law, for any procurement related to a major disaster, the Administrator may, upon such terms and conditions as the Administrator may prescribe, guarantee and enter into commitments to guarantee any surety against loss resulting from a breach of the terms of a bid bond, payment bond, performance bond, or bonds ancillary thereto, by a principal on any total work order or contract amount at the time of bond execution that does not exceed $5,000,000.
 - **(b)** Upon request of the head of any Federal agency other than the Administration involved in reconstruction efforts in response to a major disaster, the Administrator may guarantee and enter into a commitment to guarantee any security against loss under subsection (a) on any total work order or contract amount at the time of bond execution that does not exceed $10,000,000.
 - **(c)** The Administrator may carry out this section only with amounts appropriated in advance specifically to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 110–234, title XII, § 12079](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1416](https://www.govinfo.gov/link/statute/122/1416); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XII, § 12079, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2178.)*

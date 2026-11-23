@@ -3,9 +3,10 @@ title: "Section 6502 - Regulation of unfair and deceptive acts and practices in 
 usc_title: 15
 usc_section: "6502"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6502"
-generated_at: "2026-03-30T02:54:08.211Z"
+generated_at: "2026-11-23T21:25:40.023Z"
+status: "active"
 ---
 
 # § 6502. Regulation of unfair and deceptive acts and practices in connection with collection and use of personal information from and about children on the Internet
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:54:08.211Z"
   - **(3)** The regulations shall permit the operator of a website or an online service to terminate service provided to a child whose parent has refused, under the regulations prescribed under paragraph (1)(B)(ii), to permit the operator’s further use or maintenance in retrievable form, or future online collection, of personal information from that child.
 - **(c)** Subject to sections 6503 and 6505 of this title, a violation of a regulation prescribed under subsection (a) shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 57a(a)(1)(B) of this title .
 - **(d)** No State or local government may impose any liability for commercial activities or actions by operators in interstate or foreign commerce in connection with an activity or action described in this chapter that is inconsistent with the treatment of those activities or actions under this section.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. C, title XIII, § 1303](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–730](https://www.govinfo.gov/link/statute/112/2681).)*

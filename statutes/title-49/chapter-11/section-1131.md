@@ -3,9 +3,10 @@ title: "Section 1131 - General authority"
 usc_title: 49
 usc_section: "1131"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 1131"
-generated_at: "2026-03-30T02:56:19.304Z"
+generated_at: "2026-11-23T21:26:40.602Z"
+status: "active"
 ---
 
 # § 1131. General authority
@@ -45,3 +46,119 @@ generated_at: "2026-03-30T02:56:19.304Z"
   - **(1)** in electronic form at no cost in a publicly accessible database on a website of the Board; and
   - **(2)** if the electronic form required in paragraph (1) is not printable, in printed form upon a reasonable request at a reasonable cost.
 - **(f)** If any accident report under subsection (e) is not completed within 2 years from the date of the accident, the Board shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report identifying such accident report and the reasons for which such report has not been completed. The Board shall report progress toward completion of the accident report to each such Committees every 90 days thereafter, until such time as the accident report is completed.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1131(a)(1) | 49 App.:1903(a) (1)(A)–(E) (less last sentence of (E)), (F). | Jan. 3, 1975 , Pub. L. 93–633, § 304(a)(1)(A) –(F), 88 Stat. 2168 ; Oct. 24, 1992 , Pub. L. 102–508, § 303 , 106 Stat. 3307 . |
+| 1131(a)(2) | 49 App.:1903(a)(1) (2d, 3d sentences). | Jan. 3, 1975 , Pub. L. 93–633, § 304(a)(1) (less (A)–(F)), 88 Stat. 2168 ; Nov. 3, 1981 , Pub. L. 97–74, § 3 , 95 Stat. 1065 . |
+| 1131(a)(3) | 49 App.:1903(a)(1) (4th, 5th sentences). |  |
+| 1131(b) | 49 App.:1903(a)(1)(E) (last sentence). |  |
+| 1131(c) | 49 App.:1441(f). | Aug. 23, 1958 , Pub. L. 85–726, § 701(a)(4) , (f), 72 Stat. 781 . |
+|  | 49 App.:1655(c)(1). | Oct. 15, 1966 , Pub. L. 89–670, § 6(c)(1) , 80 Stat. 938 ; Jan. 12, 1983 , Pub. L. 97–449, § 7(b) , 96 Stat. 2444 . |
+|  | 49 App.:1655(d) (1st sentence). | Oct. 15, 1966 , Pub. L. 89–670, § 6(d) (1st sentence), 80 Stat. 938 . |
+|  | 49 App.:1903(a)(1)(A) (6th, last sentences). |  |
+| 1131(d) | 49 App.:1441(a)(4). |  |
+|  | 49 App.:1655(d) (1st sentence). |  |
+|  | 49 App.:1903(a)(1)(A). |  |
+|  | 49 App.:1903(a)(2). | Jan. 3, 1975 , Pub. L. 93–633, § 304(a)(2) , 88 Stat. 2168 ; July 19, 1988 , Pub. L. 100–372, § 3(a) , 102 Stat. 876 . |
+
+
+General
+
+Accidents Involving Public Vessels
+
+Accidents Not Involving Government Misfeasance or Nonfeasance
+
+Accidents Involving Public Aircraft
+
+Accident Reports
+
+Timeliness of Reports
+
+Historical and Revision Notes
+
+1131(a)(1)
+
+Jan. 3, 1975
+
+Pub. L. 93–633, § 304(a)(1)(A)
+
+88 Stat. 2168
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 303
+
+106 Stat. 3307
+
+1131(a)(2)
+
+Jan. 3, 1975
+
+Pub. L. 93–633, § 304(a)(1)
+
+88 Stat. 2168
+
+Nov. 3, 1981
+
+Pub. L. 97–74, § 3
+
+95 Stat. 1065
+
+1131(a)(3)
+
+1131(b)
+
+1131(c)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 701(a)(4)
+
+72 Stat. 781
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 6(c)(1)
+
+80 Stat. 938
+
+Jan. 12, 1983
+
+Pub. L. 97–449, § 7(b)
+
+96 Stat. 2444
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 6(d)
+
+80 Stat. 938
+
+1131(d)
+
+Jan. 3, 1975
+
+Pub. L. 93–633, § 304(a)(2)
+
+88 Stat. 2168
+
+July 19, 1988
+
+Pub. L. 100–372, § 3(a)
+
+102 Stat. 876
+
+Removal of FAA [Federal Aviation Administration] Medical Certificate Requirement
+
+Updates to Other Requirements.—
+
+In general
+
+Considerations
+
+“Not later than 1 year after the date of the enactment of this Act [ Nov. 1, 2000 ], the National Transportation Safety Board and the United States Coast Guard shall revise their Memorandum of Understanding governing major marine accidents—
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 752](https://www.govinfo.gov/link/statute/108/752); [Pub. L. 103–411, § 3(c)](https://www.govinfo.gov/link/plaw/103/public/411), Oct. 25, 1994, [108 Stat. 4237](https://www.govinfo.gov/link/statute/108/4237); [Pub. L. 106–424](https://www.govinfo.gov/link/plaw/106/public/424), §§ 6(a), 7, Nov. 1, 2000, [114 Stat. 1885](https://www.govinfo.gov/link/statute/114/1885), 1886; [Pub. L. 108–168, § 7](https://www.govinfo.gov/link/plaw/108/public/168), Dec. 6, 2003, [117 Stat. 2034](https://www.govinfo.gov/link/statute/117/2034); [Pub. L. 109–443, § 9(b)](https://www.govinfo.gov/link/plaw/109/public/443), (c), Dec. 21, 2006, [120 Stat. 3301](https://www.govinfo.gov/link/statute/120/3301); [Pub. L. 115–254, div. C, § 1113(b)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3438](https://www.govinfo.gov/link/statute/132/3438); [Pub. L. 117–263, div. K, title CXVI, § 11601(c)(3)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4146](https://www.govinfo.gov/link/statute/136/4146); [Pub. L. 118–63, title XII](https://www.govinfo.gov/link/plaw/118/public/63), §§ 1210–1212, May 16, 2024, [138 Stat. 1425](https://www.govinfo.gov/link/statute/138/1425), 1426.)*

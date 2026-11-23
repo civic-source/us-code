@@ -3,9 +3,10 @@ title: "Section 7447A - Retirement for special trial judges"
 usc_title: 26
 usc_section: "7447A"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7447A"
-generated_at: "2026-03-30T02:55:27.874Z"
+generated_at: "2026-11-23T21:26:06.964Z"
+status: "active"
 ---
 
 # § 7447A. Retirement for special trial judges
@@ -32,3 +33,17 @@ generated_at: "2026-03-30T02:55:27.874Z"
   - **(2)** once made, shall be irrevocable, and
   - **(3)** shall be made by filing notice thereof in writing with the chief judge.
 - **(f)** The rules of subsections (f), (g), (h)(2), (i), and (j), and the first sentence of subsection (h)(1), of section 7447 shall apply to a special trial judge in the same manner as a judge of the Tax Court. For purposes of the preceding sentence, any reference to the President in such subsections shall be applied as if it were a reference to the chief judge.
+
+| If the special trial judge has attained age: | And the years of service as a special trial judge are at least: |
+| --- | --- |
+| 65 | 15 |
+| 66 | 14 |
+| 67 | 13 |
+| 68 | 12 |
+| 69 | 11 |
+| 70 | 10. |
+
+
+## Source Credit
+
+*(Added [Pub. L. 117–328, div. T, title VII, § 702(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5402](https://www.govinfo.gov/link/statute/136/5402).)*

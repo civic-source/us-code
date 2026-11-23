@@ -3,9 +3,10 @@ title: "Section 12639a - Civic Health Assessment and volunteering research and e
 usc_title: 42
 usc_section: "12639a"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12639a"
-generated_at: "2026-03-30T02:56:11.422Z"
+generated_at: "2026-11-23T21:26:33.513Z"
+status: "active"
 ---
 
 # § 12639a. Civic Health Assessment and volunteering research and evaluation
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:56:11.422Z"
     - **(B)** institutions of higher education; and
     - **(C)** research institutions.
 - **(h)** Nothing in this chapter shall be construed to authorize the development, implementation, or maintenance of a Federal database of personally identifiable information on individuals participating in data collection for sources of information under this section.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 179A](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 111–13, title I, § 1608(a)](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1534](https://www.govinfo.gov/link/statute/123/1534).)*

@@ -3,9 +3,10 @@ title: "Section 773f - Civil penalties"
 usc_title: 16
 usc_section: "773f"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 773f"
-generated_at: "2026-03-30T02:54:22.907Z"
+generated_at: "2026-11-23T21:25:51.749Z"
+status: "active"
 ---
 
 # § 773f. Civil penalties
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:22.907Z"
   - **(5)** In the case of any permit that is suspended under this subsection for nonpayment of a civil penalty, criminal fine, or any amount in settlement of a civil forfeiture, the Secretary shall reinstate the permit upon payment of the penalty, fine, or settlement amount and interest thereon at the prevailing rate.
   - **(6)** No sanction shall be imposed under this subsection unless there has been prior opportunity for a hearing on the facts underlying the violation for which the sanction is imposed either in conjunction with a civil penalty proceeding under this section or otherwise.
   - **(7)** In this subsection, the term “permit” means any license, certificate, approval, registration, charter, membership, exemption, or other form of permission issued by the Commission or the Secretary, and includes any quota share or other transferable quota issued by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 97–176, § 8](https://www.govinfo.gov/link/plaw/97/public/176), May 17, 1982, [96 Stat. 80](https://www.govinfo.gov/link/statute/96/80); [Pub. L. 109–479, title III, § 301(a)](https://www.govinfo.gov/link/plaw/109/public/479), (b), Jan. 12, 2007, [120 Stat. 3621](https://www.govinfo.gov/link/statute/120/3621), 3622.)*

@@ -3,9 +3,10 @@ title: "Section 1581 - Prohibitions relating to importations"
 usc_title: 7
 usc_section: "1581"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1581"
-generated_at: "2026-03-30T02:53:42.327Z"
+generated_at: "2026-11-23T21:25:28.122Z"
+status: "active"
 ---
 
 # § 1581. Prohibitions relating to importations
@@ -20,3 +21,7 @@ The importation into the United States is prohibited of—
     - **(B)** The commonly accepted coined, chemical (generic), or abbreviated chemical name of any substance used in such treatment;
     - **(C)** If the substance used in such treatment in the amount remaining with the seeds is harmful to humans or other vertebrate animals, an appropriate caution statement approved by the Secretary of Agriculture as adequate for the protection of the public, such as “Do not use for food or feed or oil purposes”; Provided , That the caution statement for mercurials and similarly toxic substances, as defined in said rules and regulations, shall be a representation of a skull and crossbones and a statement such as “This seed has been treated with POISON”, in red letters on a background of distinctly contrasting color; and
     - **(D)** A description, approved by the Secretary of Agriculture as adequate for the protection of the public, of any process used in such treatment.
+
+## Source Credit
+
+*(Aug. 9, 1939, ch. 615, title III, § 301, [53 Stat. 1282](https://www.govinfo.gov/link/statute/53/1282); [Pub. L. 85–581, § 12](https://www.govinfo.gov/link/plaw/85/public/581), Aug. 1, 1958, [72 Stat. 478](https://www.govinfo.gov/link/statute/72/478); [Pub. L. 89–686](https://www.govinfo.gov/link/plaw/89/public/686), §§ 13, 14, Oct. 15, 1966, [80 Stat. 978](https://www.govinfo.gov/link/statute/80/978); [Pub. L. 97–439, § 5(b)(1)](https://www.govinfo.gov/link/plaw/97/public/439), Jan. 8, 1983, [96 Stat. 2288](https://www.govinfo.gov/link/statute/96/2288); [Pub. L. 103–465, title IV, § 441(1)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4973](https://www.govinfo.gov/link/statute/108/4973).)*

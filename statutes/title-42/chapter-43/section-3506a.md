@@ -3,9 +3,10 @@ title: "Section 3506a - Scientific engagement"
 usc_title: 42
 usc_section: "3506a"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3506a"
-generated_at: "2026-03-30T02:56:11.187Z"
+generated_at: "2026-11-23T21:26:32.565Z"
+status: "active"
 ---
 
 # § 3506a. Scientific engagement
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.187Z"
     - **(D)** a brief explanation on how such meeting advanced the mission of the operating division; and
     - **(E)** the total number of individuals whose travel expenses or other scientific meeting expenses were paid by the operating division; and
   - **(4)** with respect to any such meeting where the total expenses to the operating division exceeded $150,000, a description of the exceptional circumstances that necessitated the expenditure of such amounts.
+
+## Source Credit
+
+*([Pub. L. 114–255, div. A, title III, § 3074](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1137](https://www.govinfo.gov/link/statute/130/1137).)*

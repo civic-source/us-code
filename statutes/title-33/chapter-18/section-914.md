@@ -3,9 +3,10 @@ title: "Section 914 - Payment of compensation"
 usc_title: 33
 usc_section: "914"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 914"
-generated_at: "2026-03-30T02:55:41.077Z"
+generated_at: "2026-11-23T21:26:11.350Z"
+status: "active"
 ---
 
 # § 914. Payment of compensation
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:41.077Z"
 - **(i)** Whenever the deputy commissioner deems it advisable he may require any employer to make a deposit with the Treasurer of the United States to secure the prompt and convenient payment of such compensation, and payments therefrom upon any awards shall be made upon order of the deputy commissioner.
 - **(j)** If the employer has made advance payments of compensation, he shall be entitled to be reimbursed out of any unpaid installment or installments of compensation due.
 - **(k)** An injured employee, or in case of death his dependents or personal representative, shall give receipts for payment of compensation to the employer paying the same and such employer shall produce the same for inspection by the deputy commissioner, whenever required.
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 509, § 14, [44 Stat. 1432](https://www.govinfo.gov/link/statute/44/1432); May 26, 1934, ch. 354, § 4, [48 Stat. 807](https://www.govinfo.gov/link/statute/48/807); June 25, 1938, ch. 685, § 7, [52 Stat. 1167](https://www.govinfo.gov/link/statute/52/1167); June 24, 1948, ch. 623, § 5, [62 Stat. 603](https://www.govinfo.gov/link/statute/62/603); July 26, 1956, ch. 735, § 5, [70 Stat. 655](https://www.govinfo.gov/link/statute/70/655); [Pub. L. 87–87, § 3](https://www.govinfo.gov/link/plaw/87/public/87), July 14, 1961, [75 Stat. 203](https://www.govinfo.gov/link/statute/75/203); [Pub. L. 92–576](https://www.govinfo.gov/link/plaw/92/public/576), §§ 5(e), 15(d), Oct. 27, 1972, [86 Stat. 1254](https://www.govinfo.gov/link/statute/86/1254), 1262; [Pub. L. 98–426](https://www.govinfo.gov/link/plaw/98/public/426), §§ 13, 27(a)(2), Sept. 28, 1984, [98 Stat. 1649](https://www.govinfo.gov/link/statute/98/1649), 1654.)*

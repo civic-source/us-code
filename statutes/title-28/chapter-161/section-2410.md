@@ -3,9 +3,10 @@ title: "Section 2410 - Actions affecting property on which United States has lie
 usc_title: 28
 usc_section: "2410"
 chapter: 161
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 2410"
-generated_at: "2026-03-30T02:55:30.148Z"
+generated_at: "2026-11-23T21:26:01.130Z"
+status: "active"
 ---
 
 # § 2410. Actions affecting property on which United States has lien
@@ -23,3 +24,11 @@ generated_at: "2026-03-30T02:55:30.148Z"
   - **(2)** interest on the amount paid (as determined under paragraph (1)) at 6 percent per annum from the date of such sale, and
   - **(3)** the amount (if any) equal to the excess of (A) the expenses necessarily incurred in connection with such property, over (B) the income from such property plus (to the extent such property is used by the purchaser) a reasonable rental value of such property.
 - **(e)** Whenever any person has a lien upon any real or personal property, duly recorded in the jurisdiction in which the property is located, and a junior lien, other than a tax lien, in favor of the United States attaches to such property, such person may make a written request to the officer charged with the administration of the laws in respect of which the lien of the United States arises, to have the same extinguished. If after appropriate investigation, it appears to such officer that the proceeds from the sale of the property would be insufficient to wholly or partly satisfy the lien of the United States, or that the claim of the United States has been satisfied or by lapse of time or otherwise has become unenforceable, such officer may issue a certificate releasing the property from such lien.
+
+Act
+
+Act
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 972](https://www.govinfo.gov/link/statute/62/972); May 24, 1949, ch. 139, § 119, [63 Stat. 105](https://www.govinfo.gov/link/statute/63/105); [Pub. L. 85–508, § 12(h)](https://www.govinfo.gov/link/plaw/85/public/508), July 7, 1958, [72 Stat. 348](https://www.govinfo.gov/link/statute/72/348); [Pub. L. 86–507, § 1(20)](https://www.govinfo.gov/link/plaw/86/public/507), June 11, 1960, [74 Stat. 201](https://www.govinfo.gov/link/statute/74/201); [Pub. L. 89–719, title II, § 201](https://www.govinfo.gov/link/plaw/89/public/719), Nov. 2, 1966, [80 Stat. 1147](https://www.govinfo.gov/link/statute/80/1147); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 101–647, title XXXVI, § 3630](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4966](https://www.govinfo.gov/link/statute/104/4966); [Pub. L. 102–83, § 5(c)(2)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 104–316, title I, § 114](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3834](https://www.govinfo.gov/link/statute/110/3834).)*

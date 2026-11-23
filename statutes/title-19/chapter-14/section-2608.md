@@ -3,9 +3,10 @@ title: "Section 2608 - Temporary disposition of materials and articles subject t
 usc_title: 19
 usc_section: "2608"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2608"
-generated_at: "2026-03-30T02:54:24.681Z"
+generated_at: "2026-11-23T21:25:42.820Z"
+status: "active"
 ---
 
 # § 2608. Temporary disposition of materials and articles subject to this chapter
@@ -14,3 +15,7 @@ Pending a final determination as to whether any archaeological or ethnological m
 
   - **(1)** sufficient safeguards will be taken by the institution for the protection of such material or article; and
   - **(2)** sufficient bond is posted by the institution to ensure its return to the Secretary.
+
+## Source Credit
+
+*([Pub. L. 97–446, title III, § 309](https://www.govinfo.gov/link/plaw/97/public/446), Jan. 12, 1983, [96 Stat. 2360](https://www.govinfo.gov/link/statute/96/2360).)*

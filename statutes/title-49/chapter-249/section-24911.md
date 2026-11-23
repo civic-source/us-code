@@ -3,9 +3,10 @@ title: "Section 24911 - Federal-State partnership for intercity passenger rail"
 usc_title: 49
 usc_section: "24911"
 chapter: 249
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 24911"
-generated_at: "2026-03-30T02:56:19.349Z"
+generated_at: "2026-11-23T21:26:40.749Z"
+status: "active"
 ---
 
 # § 24911. Federal-State partnership for intercity passenger rail
@@ -118,3 +119,73 @@ generated_at: "2026-03-30T02:56:19.349Z"
   - **(1)** providing funding to public entities for the development of service development plans selected under the Corridor Identification and Development Program;
   - **(2)** facilitating and providing guidance for intercity passenger rail systems planning; and
   - **(3)** providing funding for the development and refinement of intercity passenger rail systems planning analytical tools and models.
+
+Definitions
+
+Applicant
+
+Intercity rail passenger transportation
+
+Northeast corridor
+
+Grant Program Authorized
+
+Eligible Projects
+
+Project Selection Criteria
+
+Long-term Planning
+
+Federal Share of Total Project Costs.—
+
+Total project cost
+
+Federal share
+
+Treatment of amtrak revenue
+
+Letters of Intent; Phased Funding Agreements.—
+
+Letters of intent
+
+Phased funding agreements.—
+
+In general
+
+Terms
+
+Special financial rules.—
+
+In general
+
+Statement of contingent commitment
+
+Interest and other financing costs
+
+Failure to carry out project
+
+Crediting of funds received
+
+Congressional notification.—
+
+In general
+
+Contents
+
+Appropriations required.—
+
+In general
+
+Appropriations required
+
+Availability
+
+Grant Conditions
+
+Annual Report on Phased Funding Agreements and Letters of Intent
+
+Regional Planning Guidance Corridor Planning
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title XI, § 11302(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1648](https://www.govinfo.gov/link/statute/129/1648); amended [Pub. L. 115–141, div. L, title I](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 994](https://www.govinfo.gov/link/statute/132/994); [Pub. L. 115–420, § 7(b)(3)(A)(i)(IV)](https://www.govinfo.gov/link/plaw/115/public/420), Jan. 3, 2019, [132 Stat. 5447](https://www.govinfo.gov/link/statute/132/5447); [Pub. L. 117–58, div. B, title II, § 22307(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 725](https://www.govinfo.gov/link/statute/135/725).)*

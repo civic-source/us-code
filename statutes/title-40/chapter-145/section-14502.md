@@ -3,9 +3,10 @@ title: "Section 14502 - Demonstration health projects"
 usc_title: 40
 usc_section: "14502"
 chapter: 145
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 14502"
-generated_at: "2026-03-30T02:55:43.386Z"
+generated_at: "2026-11-23T21:26:14.960Z"
+status: "active"
 ---
 
 # § 14502. Demonstration health projects
@@ -50,3 +51,156 @@ generated_at: "2026-03-30T02:55:43.386Z"
     - **(A)** 70 percent; or
     - **(B)** the maximum Federal contribution percentage authorized by this section.
 - **(g)** To provide for the further development of the Appalachian region’s human resources, grants under this section shall give special emphasis to programs and research for the early detection, diagnosis, and treatment of occupational diseases arising from coal mining, such as black lung.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 14502(a) | 40 App.:202(a) (1st sentence). | Pub. L. 89–4, title II, § 202(a) –(e), Mar. 9, 1965 , 79 Stat. 11 ; Pub. L. 90–103, title I, § 107 , Oct. 11, 1967 , 81 Stat. 259 ; Pub. L. 91–123, title I, § 104 , Nov. 25, 1969 , 83 Stat. 214 ; Pub. L. 92–65, title II, § 206 , Aug. 5, 1971 , 85 Stat. 169 ; Pub. L. 94–188, title I, § 111 , Dec. 31, 1975 , 89 Stat. 1081 ; Pub. L. 95–193, § 1 , Nov. 18, 1977 , 91 Stat. 1412 ; Pub. L. 96–88, title V, § 509(b) , Oct. 17, 1979 , 93 Stat. 695 ; Pub. L. 96–545, § 2 , Dec. 18, 1980 , 94 Stat. 3215 ; Pub. L. 105–393, title II, § 207(a) , (c), Nov. 13, 1998 , 112 Stat. 3620 ; Pub. L. 107–149, § 13(c) , (d), Mar. 12, 2002 , 116 Stat. 71 . |
+| 14502(b) | 40 App.:202(d). |  |
+| 14502(c)(1), (2) | 40 App.:202(a) (2d sentence). |  |
+| 14502(c)(3)– (5) | 40 App.:202(b). |  |
+| 14502(d)(1) | 40 App.:202(c) (5th–last sentences). |  |
+| 14502(d)(2), (3) | 40 App.:202(c) (1st, 2d sentences). |  |
+| 14502(d)(4) | 40 App.:202(c) (4th sentence). |  |
+| 14502(d)(5) | 40 App.:202(c) (3d sentence). |  |
+| 14502(e) | 40 App.:202(a) (last sentence). |  |
+| 14502(f) | 40 App.:202(f). | Pub. L. 89–4, title II, § 202(f) , as added Pub. L. 105–393, title II, § 207(b) , Nov. 13, 1998 , 112 Stat. 3620 . |
+| 14502(g) | 40 App.:202(e). |  |
+
+
+Purpose
+
+Planning Grants.—
+
+Authority to provide amounts and make grants
+
+Limitation on available amounts
+
+Sources of assistance
+
+Federal share
+
+Construction and Equipment Grants.—
+
+Additional uses for construction grants
+
+Standards for making grants
+
+Limitation on available amounts
+
+Sources of assistance
+
+Federal share
+
+Operation Grants.—
+
+Standards for making grants
+
+Limitation on available amounts
+
+Sources of assistance
+
+Federal share
+
+State deemed to meet requirement of providing assistance or services on statewide basis
+
+Grant Sources and Use of Grants in Computing Allotments
+
+Maximum Commission Contribution.—
+
+In general
+
+Distressed counties
+
+At-risk counties
+
+Emphasis on Occupational Diseases From Coal Mining
+
+Historical and Revision Notes
+
+14502(a)
+
+Pub. L. 89–4, title II, § 202(a)
+
+Mar. 9, 1965
+
+79 Stat. 11
+
+Pub. L. 90–103, title I, § 107
+
+Oct. 11, 1967
+
+81 Stat. 259
+
+Pub. L. 91–123, title I, § 104
+
+Nov. 25, 1969
+
+83 Stat. 214
+
+Pub. L. 92–65, title II, § 206
+
+Aug. 5, 1971
+
+85 Stat. 169
+
+Pub. L. 94–188, title I, § 111
+
+Dec. 31, 1975
+
+89 Stat. 1081
+
+Pub. L. 95–193, § 1
+
+Nov. 18, 1977
+
+91 Stat. 1412
+
+Pub. L. 96–88, title V, § 509(b)
+
+Oct. 17, 1979
+
+93 Stat. 695
+
+Pub. L. 96–545, § 2
+
+Dec. 18, 1980
+
+94 Stat. 3215
+
+Pub. L. 105–393, title II, § 207(a)
+
+Nov. 13, 1998
+
+112 Stat. 3620
+
+Pub. L. 107–149, § 13(c)
+
+Mar. 12, 2002
+
+116 Stat. 71
+
+14502(b)
+
+14502(d)(1)
+
+14502(d)(4)
+
+14502(d)(5)
+
+14502(e)
+
+14502(f)
+
+Pub. L. 89–4, title II, § 202(f)
+
+Pub. L. 105–393, title II, § 207(b)
+
+Nov. 13, 1998
+
+112 Stat. 3620
+
+14502(g)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1266](https://www.govinfo.gov/link/statute/116/1266); [Pub. L. 110–371, § 2(b)](https://www.govinfo.gov/link/plaw/110/public/371), Oct. 8, 2008, [122 Stat. 4038](https://www.govinfo.gov/link/statute/122/4038).)*

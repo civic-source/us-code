@@ -3,9 +3,10 @@ title: "Section 3502 - Definitions"
 usc_title: 44
 usc_section: "3502"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 3502"
-generated_at: "2026-03-30T02:55:56.295Z"
+generated_at: "2026-11-23T21:26:18.424Z"
+status: "active"
 ---
 
 # § 3502. Definitions
@@ -59,3 +60,7 @@ As used in this subchapter—
     - **(B)** with no restrictions on copying, publishing, distributing, transmitting, citing, or adapting such asset;
   - **(22)** the term “public data asset” means a data asset, or part thereof, maintained by the Federal Government that has been, or may be, released to the public, including any data asset, or part thereof, subject to disclosure under section 552 of title 5 ; and
   - **(23)** the term “statistical laws” means subchapter III of this chapter and other laws pertaining to the protection of information collected for statistical purposes as designated by the Director.
+
+## Source Credit
+
+*(Added [Pub. L. 104–13, § 2](https://www.govinfo.gov/link/plaw/104/public/13), May 22, 1995, [109 Stat. 164](https://www.govinfo.gov/link/statute/109/164); amended [Pub. L. 104–106, div. E, title LVI, § 5605(a)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 700](https://www.govinfo.gov/link/statute/110/700); [Pub. L. 105–85, div. A, title X, § 1073(h)(5)(A)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1907](https://www.govinfo.gov/link/statute/111/1907); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1064(b)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–275; [Pub. L. 107–217, § 3](https://www.govinfo.gov/link/plaw/107/public/217) (l)(4), Aug. 21, 2002, [116 Stat. 1301](https://www.govinfo.gov/link/statute/116/1301); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 109–435, title VI, § 604(e)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3242](https://www.govinfo.gov/link/statute/120/3242); [Pub. L. 110–289, div. A, title II, § 1216(e)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2792](https://www.govinfo.gov/link/statute/122/2792); [Pub. L. 111–203, title III, § 315](https://www.govinfo.gov/link/plaw/111/public/203), title X, § 1100D(a), July 21, 2010, [124 Stat. 1524](https://www.govinfo.gov/link/statute/124/1524), 2111; [Pub. L. 115–435, title II, § 202(a)](https://www.govinfo.gov/link/plaw/115/public/435), Jan. 14, 2019, [132 Stat. 5534](https://www.govinfo.gov/link/statute/132/5534).)*

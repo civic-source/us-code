@@ -3,9 +3,10 @@ title: "Section 9042 - Emergency relief and taxpayer protections"
 usc_title: 15
 usc_section: "9042"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9042"
-generated_at: "2026-03-30T02:54:08.241Z"
+generated_at: "2026-11-23T21:25:40.119Z"
+status: "active"
 ---
 
 # § 9042. Emergency relief and taxpayer protections
@@ -90,3 +91,7 @@ generated_at: "2026-03-30T02:54:08.241Z"
 - **(h)**
   - **(1)** Any loan made by or guaranteed by the Department of the Treasury under this section shall be treated as indebtedness for purposes of the Internal Revenue Code of 1986, shall be treated as issued for its stated principal amount, and stated interest on such loans shall be treated as qualified stated interest.
   - **(2)** The Secretary of the Treasury (or the Secretary’s delegate) shall prescribe such regulations or guidance as may be necessary or appropriate to carry out the purposes of this section, including guidance providing that the acquisition of warrants, stock options, common or preferred stock or other equity under this section does not result in an ownership change for purposes of section 382 of the Internal Revenue Code of 1986 [ 26 U.S.C. 382 ].
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title IV, § 4003](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 470](https://www.govinfo.gov/link/statute/134/470); [Pub. L. 116–260, div. N, title X](https://www.govinfo.gov/link/plaw/116/public/260), §§ 1003(b)(1), 1004, Dec. 27, 2020, [134 Stat. 2146](https://www.govinfo.gov/link/statute/134/2146); [Pub. L. 117–328, div. LL, § 102(d)(1)(A)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 6103](https://www.govinfo.gov/link/statute/136/6103).)*

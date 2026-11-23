@@ -3,9 +3,10 @@ title: "Section 932 - Definitions and applications"
 usc_title: 2
 usc_section: "932"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 932"
-generated_at: "2026-03-30T02:53:04.807Z"
+generated_at: "2026-11-23T21:25:21.208Z"
+status: "active"
 ---
 
 # § 932. Definitions and applications
@@ -25,3 +26,7 @@ As used in this chapter—
   - **(6)** The term “entitlement law” refers to a section of law which provides entitlement authority.
   - **(7)** The term “PAYGO legislation” or a “PAYGO Act” refers to a bill or joint resolution that affects direct spending or revenue relative to the baseline. The budgetary effects of changes in revenues and outyear modifications to substantive law included in appropriation Acts as defined in paragraph (4) shall be treated as if they were contained in PAYGO legislation or a PAYGO Act.
   - **(8)** The term “timing shift” refers to a delay of the date on which outlays flowing from direct spending would otherwise occur from the ninth outyear to the tenth outyear or an acceleration of the date on which revenues would otherwise occur from the tenth outyear to the ninth outyear.
+
+## Source Credit
+
+*([Pub. L. 111–139, title I, § 3](https://www.govinfo.gov/link/plaw/111/public/139), Feb. 12, 2010, [124 Stat. 8](https://www.govinfo.gov/link/statute/124/8).)*

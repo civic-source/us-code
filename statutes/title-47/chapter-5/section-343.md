@@ -3,9 +3,10 @@ title: "Section 343 - Conditions on commercial terrestrial operations"
 usc_title: 47
 usc_section: "343"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 343"
-generated_at: "2026-03-30T02:56:24.511Z"
+generated_at: "2026-11-23T21:26:36.007Z"
+status: "active"
 ---
 
 # § 343. Conditions on commercial terrestrial operations
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:24.511Z"
     - **(A)** The Committee on Energy and Commerce and the Committee on Armed Services of the House of Representatives.
     - **(B)** The Committee on Commerce, Science, and Transportation and the Committee on Armed Services of the Senate.
 - **(c)** In this section, the term “covered GPS device” means a Global Positioning System device of the Department of Defense.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 343, as added [Pub. L. 114–328, div. A, title XVI, § 1698(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2641](https://www.govinfo.gov/link/statute/130/2641).)*

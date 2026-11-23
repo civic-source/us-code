@@ -3,9 +3,10 @@ title: "Section 3385 - Benjamin Tallmadge Institute as primary Central Intellige
 usc_title: 50
 usc_section: "3385"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3385"
-generated_at: "2026-03-30T02:56:26.253Z"
+generated_at: "2026-11-23T21:26:39.051Z"
+status: "active"
 ---
 
 # § 3385. Benjamin Tallmadge Institute as primary Central Intelligence Agency entity for education and training in counterintelligence
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:26.253Z"
 - **(d)**
   - **(1)** The Institute shall develop, in coordination with the National Counterintelligence and Security Center and the Defense Intelligence Agency, and implement a baseline certification course for all counterintelligence career professionals that aligns the minimum certification requirements of the course and the Defense Counterintelligence Agent Course of the Joint Counterintelligence Training Activity.
   - **(2)** The baseline certification course developed under paragraph (1) shall be made available, on a space-available basis, to all intelligence community professionals and appropriate personnel with appropriate security clearance from any other agency, committee, commission, office, or other establishment in the executive, legislative, or judicial branch of the Federal Government.
+
+## Source Credit
+
+*([Pub. L. 118–31, div. G, title III, § 7334](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1046](https://www.govinfo.gov/link/statute/137/1046).)*

@@ -3,9 +3,10 @@ title: "Section 410mm - Establishment"
 usc_title: 16
 usc_section: "410mm"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410mm"
-generated_at: "2026-03-30T02:54:22.768Z"
+generated_at: "2026-11-23T21:25:51.450Z"
+status: "active"
 ---
 
 # § 410mm. Establishment
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:22.768Z"
 - **(d)**
   - **(1)** The Lehman Caves National Monument, designated on January 24, 1922 , by Presidential proclamation under the authority contained in the Act of June 8, 1906 ( 34 Stat. 225 ) 1 1 See References in Text note below. is hereby abolished and the lands incorporated within the Great Basin National Park. Any reference in any law, map, regulation, document, record, or other paper of the United States to such national monument shall be deemed to be a reference to Great Basin National Park.
   - **(2)** Any funds available for purposes of the national monument shall be available for purposes of the park.
+
+## Source Credit
+
+*([Pub. L. 99–565, § 2](https://www.govinfo.gov/link/plaw/99/public/565), Oct. 27, 1986, [100 Stat. 3181](https://www.govinfo.gov/link/statute/100/3181).)*

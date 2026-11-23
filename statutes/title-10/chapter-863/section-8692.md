@@ -3,9 +3,10 @@ title: "Section 8692 - Ford-class aircraft carriers: cost limitation baselines"
 usc_title: 10
 usc_section: "8692"
 chapter: 863
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 8692"
-generated_at: "2026-03-30T02:53:38.249Z"
+generated_at: "2026-11-23T21:25:32.942Z"
+status: "active"
 ---
 
 # § 8692. Ford-class aircraft carriers: cost limitation baselines
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:53:38.249Z"
   - **(2)** Interim spares.
   - **(3)** Increases attributable to economic inflation after December 1, 2018 , not otherwise included in the amounts listed in subsection (a).
 - **(c)** The Secretary of the Navy may adjust an amount listed in subsection (a) not fewer than 15 days after submitting written notice and providing a briefing to the congressional defense committees, each of which shall include the amount and rationale of any change and the resulting amount after such change.
+
+Limitation
+
+Exclusion of Battle and Interim Spares From Cost Limitation
+
+Written Notice and Briefing on Change in Amount
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. A, title I, § 121(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1233](https://www.govinfo.gov/link/statute/133/1233).)*

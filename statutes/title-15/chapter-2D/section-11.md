@@ -3,9 +3,10 @@ title: "Section 11 - Rules, regulations, and orders of Commission"
 usc_title: 15
 usc_section: "11"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 11"
-generated_at: "2026-03-30T02:54:08.073Z"
+generated_at: "2026-11-23T21:25:39.604Z"
+status: "active"
 ---
 
 # § 80b–11. Rules, regulations, and orders of Commission
@@ -26,3 +27,15 @@ generated_at: "2026-03-30T02:54:08.073Z"
 - **(i)** The enforcement authority of the Commission with respect to violations of the standard of conduct applicable to an investment adviser shall include—
   - **(1)** the enforcement authority of the Commission with respect to such violations provided under this subchapter; and
   - **(2)** the enforcement authority of the Commission with respect to violations of the standard of conduct applicable to a broker or dealer providing personalized investment advice about securities to a retail customer under the Securities Exchange Act of 1934 [ 15 U.S.C. 78a et seq.], including the authority to impose sanctions for such violations, and
+
+Study Required.—
+
+In general
+
+Areas of consideration
+
+Report Required
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title II, § 211, [54 Stat. 855](https://www.govinfo.gov/link/statute/54/855); [Pub. L. 86–507, § 1(16)](https://www.govinfo.gov/link/plaw/86/public/507), June 11, 1960, [74 Stat. 201](https://www.govinfo.gov/link/statute/74/201); [Pub. L. 86–750, § 14](https://www.govinfo.gov/link/plaw/86/public/750), Sept. 13, 1960, [74 Stat. 888](https://www.govinfo.gov/link/statute/74/888); [Pub. L. 100–181, title VII, § 705](https://www.govinfo.gov/link/plaw/100/public/181), Dec. 4, 1987, [101 Stat. 1264](https://www.govinfo.gov/link/statute/101/1264); [Pub. L. 111–203, title IV, § 406](https://www.govinfo.gov/link/plaw/111/public/203), title IX, § 913(g)(2), (h)(2), July 21, 2010, [124 Stat. 1574](https://www.govinfo.gov/link/statute/124/1574), 1828, 1829.)*

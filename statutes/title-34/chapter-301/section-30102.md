@@ -3,9 +3,10 @@ title: "Section 30102 - Development and support of cybersecurity forensic capabi
 usc_title: 34
 usc_section: "30102"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 30102"
-generated_at: "2026-03-30T02:55:33.305Z"
+generated_at: "2026-11-23T21:26:09.816Z"
+status: "active"
 ---
 
 # § 30102. Development and support of cybersecurity forensic capabilities
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:33.305Z"
 - **(b)**
   - **(1)** There is hereby authorized to be appropriated in each fiscal year $50,000,000 for purposes of carrying out this section.
   - **(2)** Amounts appropriated pursuant to the authorization of appropriations in paragraph (1) shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 107–56, title VIII, § 816](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 385](https://www.govinfo.gov/link/statute/115/385).)*

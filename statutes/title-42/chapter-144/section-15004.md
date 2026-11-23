@@ -3,9 +3,10 @@ title: "Section 15004 - Responsibilities of the Secretary"
 usc_title: 42
 usc_section: "15004"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15004"
-generated_at: "2026-03-30T02:56:11.454Z"
+generated_at: "2026-11-23T21:26:33.650Z"
+status: "active"
 ---
 
 # § 15004. Responsibilities of the Secretary
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:11.454Z"
     - **(B)** such other Federal departments and agencies as the Secretary of Health and Human Services considers to be appropriate.
   - **(3)** Such interagency committee shall meet regularly to coordinate and plan activities conducted by Federal departments and agencies for individuals with developmental disabilities.
   - **(4)** Each meeting of the interagency committee (except for any meetings of any subcommittees of the committee) shall be open to the public. Notice of each meeting, and a statement of the agenda for the meeting, shall be published in the Federal Register not later than 14 days before the date on which the meeting is to occur.
+
+## Source Credit
+
+*([Pub. L. 106–402, title I, § 104](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1688](https://www.govinfo.gov/link/statute/114/1688).)*

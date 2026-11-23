@@ -3,9 +3,10 @@ title: "Section 1383 - Complete withdrawal"
 usc_title: 29
 usc_section: "1383"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1383"
-generated_at: "2026-03-30T02:55:18.734Z"
+generated_at: "2026-11-23T21:26:02.297Z"
+status: "active"
 ---
 
 # § 1383. Complete withdrawal
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:55:18.734Z"
   - **(2)** Regulations under paragraph (1) shall permit use of special withdrawal liability rules—
     - **(A)** only in industries (or portions thereof) in which, as determined by the corporation, the characteristics that would make use of such rules appropriate are clearly shown, and
     - **(B)** only if the corporation determines, in each instance in which special withdrawal liability rules are permitted, that use of such rules will not pose a significant risk to the corporation under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4203](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 96–364, title I, § 104(2)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1218](https://www.govinfo.gov/link/statute/94/1218).)*

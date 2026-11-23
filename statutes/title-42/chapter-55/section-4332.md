@@ -3,9 +3,10 @@ title: "Section 4332 - Cooperation of agencies; reports; availability of informa
 usc_title: 42
 usc_section: "4332"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4332"
-generated_at: "2026-03-30T02:56:11.201Z"
+generated_at: "2026-11-23T21:26:32.646Z"
+status: "active"
 ---
 
 # § 4332. Cooperation of agencies; reports; availability of information; recommendations; international and national coordination of efforts
@@ -33,3 +34,21 @@ The Congress authorizes and directs that, to the fullest extent possible: (1) th
     - **(J)** make available to States, counties, municipalities, institutions, and individuals, advice and information useful in restoring, maintaining, and enhancing the quality of the environment;
     - **(K)** initiate and utilize ecological information in the planning and development of resource-oriented projects; and
     - **(L)** assist the Council on Environmental Quality established by subchapter II of this chapter.
+
+“The licensing of a launch vehicle or launch site operator (including any amendment, extension, or renewal of the license) under [former] chapter 701 of title 49, United States Code [now chapter 509 (§ 50901 et seq.) of Title 51, National and Commercial Space Programs], shall not be considered a major Federal action for purposes of section 102(C) of the National Environmental Policy Act of 1969 ( 42 U.S.C. 4332(C) ) if—
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 91–190, title I, § 102](https://www.govinfo.gov/link/plaw/91/public/190), Jan. 1, 1970, [83 Stat. 853](https://www.govinfo.gov/link/statute/83/853); [Pub. L. 94–83](https://www.govinfo.gov/link/plaw/94/public/83), Aug. 9, 1975, [89 Stat. 424](https://www.govinfo.gov/link/statute/89/424); [Pub. L. 118–5, div. C, title III, § 321(a)](https://www.govinfo.gov/link/plaw/118/public/5), June 3, 2023, [137 Stat. 38](https://www.govinfo.gov/link/statute/137/38).)*

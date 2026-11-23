@@ -3,9 +3,10 @@ title: "Section 14708 - Dispute settlement program for household goods carriers"
 usc_title: 49
 usc_section: "14708"
 chapter: 147
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 14708"
-generated_at: "2026-03-30T02:56:19.332Z"
+generated_at: "2026-11-23T21:26:40.695Z"
+status: "active"
 ---
 
 # § 14708. Dispute settlement program for household goods carriers
@@ -35,3 +36,37 @@ generated_at: "2026-03-30T02:56:19.332Z"
     - **(B)** a decision resolving such dispute is rendered.
 - **(f)** The provisions of this section shall apply only in the case of collect-on-delivery transportation of household goods.
 - **(g)** Not later than 18 months after January 1, 1996 , the Secretary shall complete a review of the dispute settlement program established under this section. If, after notice and opportunity for comment, the Secretary determines that changes are necessary to such program to ensure the fair and equitable resolution of disputes under this section, the Secretary shall implement such changes and transmit a report to Congress on such changes.
+
+Offering Shippers Arbitration
+
+Arbitration Requirements.—
+
+Prevention of special advantage
+
+Notice of arbitration procedure
+
+Provision of forms
+
+Independence of arbitrator
+
+Apportionment of costs
+
+Requests
+
+Oral presentation of evidence
+
+Deadline for decision
+
+Limitation on Use of Materials
+
+Attorney’s Fees to Shippers
+
+Attorney’s Fees to Carriers
+
+Limitation of Applicability to Collect-on-Delivery Transportation
+
+Review by Secretary
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 910](https://www.govinfo.gov/link/statute/109/910); amended [Pub. L. 104–287, § 5(38)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3392](https://www.govinfo.gov/link/statute/110/3392); [Pub. L. 106–159, title II, § 209(b)](https://www.govinfo.gov/link/plaw/106/public/159), Dec. 9, 1999, [113 Stat. 1764](https://www.govinfo.gov/link/statute/113/1764); [Pub. L. 109–59, title IV, § 4208](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1757](https://www.govinfo.gov/link/statute/119/1757).)*

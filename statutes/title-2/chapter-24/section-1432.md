@@ -3,9 +3,10 @@ title: "Section 1432 - Political affiliation and place of residence"
 usc_title: 2
 usc_section: "1432"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1432"
-generated_at: "2026-03-30T02:53:04.814Z"
+generated_at: "2026-11-23T21:25:21.231Z"
+status: "active"
 ---
 
 # § 1432. Political affiliation and place of residence
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:04.814Z"
   - **(3)** an employee on the staff of a Member of the House of Representatives or on the staff of a Senator;
   - **(4)** an officer of the House of Representatives or the Senate or a congressional employee who is elected by the House of Representatives or Senate or is appointed by a Member of the House of Representatives or by a Senator (in addition an employee described in paragraph (1), (2), or (3)); or
   - **(5)** an applicant for a position that is to be occupied by an individual described in any of paragraphs (1) through (4).
+
+## Source Credit
+
+*([Pub. L. 104–1, title V, § 502](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 39](https://www.govinfo.gov/link/statute/109/39).)*

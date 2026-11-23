@@ -3,9 +3,10 @@ title: "Section 5462 - SEED Information Center System"
 usc_title: 22
 usc_section: "5462"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5462"
-generated_at: "2026-03-30T02:55:05.418Z"
+generated_at: "2026-11-23T21:25:58.662Z"
+status: "active"
 ---
 
 # § 5462. SEED Information Center System
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.418Z"
     - **(A)** the submission of economically sound proposals to the Polish-American Enterprise Fund and Hungarian-American Enterprise Fund, and
     - **(B)** other sources of finance for the development of private enterprise in Eastern Europe.
 - **(c)** The SEED Information Center System shall be based jointly in Washington, District of Columbia; Warsaw, Poland; and Budapest, Hungary; and should it become appropriate, the capitals of other East European countries.
+
+## Source Credit
+
+*([Pub. L. 101–179, title VI, § 602](https://www.govinfo.gov/link/plaw/101/public/179), Nov. 28, 1989, [103 Stat. 1319](https://www.govinfo.gov/link/statute/103/1319).)*

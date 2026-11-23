@@ -3,9 +3,10 @@ title: "Section 45 - Electricity produced from certain renewable resources, etc.
 usc_title: 26
 usc_section: "45"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 45"
-generated_at: "2026-03-30T02:55:27.599Z"
+generated_at: "2026-11-23T21:26:05.927Z"
+status: "active"
 ---
 
 # § 45. Electricity produced from certain renewable resources, etc.
@@ -297,3 +298,87 @@ generated_at: "2026-03-30T02:55:27.599Z"
   - **(13)** Electricity produced by the taxpayer shall be treated as sold by such taxpayer to an unrelated person during the taxable year if—
     - **(A)** such electricity is used during such taxable year by the taxpayer or a person related to the taxpayer at a qualified clean hydrogen production facility (as defined in section 45V(c)(3)) to produce qualified clean hydrogen (as defined in section 45V(c)(2)), and
     - **(B)** such use and production is verified (in such form or manner as the Secretary may prescribe) by an unrelated third party.
+
+(aa) an amount equal to the difference between— (AA) the amount of wages paid to such laborer or mechanic during such period, and (BB) the amount of wages required to be paid to such laborer or mechanic pursuant to such subparagraph during such period, plus
+
+(bb) interest on the amount determined under item (aa) at the underpayment rate established under section 6621 (determined by substituting “6 percentage points” for “3 percentage points” in subsection (a)(2) of such section) for the period described in such item, and
+
+(aa) $5,000, multiplied by
+
+(bb) the total number of laborers and mechanics who were paid wages at a rate below the rate described in subparagraph (A) for any period during such year.
+
+(aa) $50, multiplied by
+
+(bb) the total labor hours for which the requirement described in such subparagraph was not satisfied with respect to the construction, alteration, or repair work on such qualified facility.
+
+(aa) foremen,
+
+(bb) superintendents,
+
+(cc) owners, or
+
+(dd) persons employed in a bona fide executive, administrative, or professional capacity (within the meaning of those terms in part 541 of title 29, Code of Federal Regulations).
+
+(aa) after December 31, 1999 , a coal mine has closed, or
+
+(bb) after December 31, 2009 , a coal-fired electric generating unit has been retired, or
+
+In general
+
+Material assistance from prohibited foreign entities
+
+Penalty for substantial misstatements on certification provided by supplier
+
+Termination for wind and solar facilities
+
+In general
+
+Credit reduced for tax-exempt bonds
+
+Domestic content, phaseout, energy communities, and hydropower
+
+In general
+
+Other property
+
+Special rule for property financed by tax-exempt bonds
+
+Extension
+
+Modifications
+
+In general
+
+Modification to definition of municipal solid waste
+
+Technical corrections
+
+In general
+
+Technical amendment
+
+In general
+
+Refined coal
+
+Trash facility clarification
+
+Expansion of biomass facilities
+
+In general
+
+Technical amendments
+
+In general
+
+Certain biomass facilities
+
+Credit rate and period for new facilities
+
+Nonapplication of amendments to preeffective date poultry waste facilities
+
+Refined coal production facilities
+
+## Source Credit
+
+*(Added [Pub. L. 102–486, title XIX, § 1914(a)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3020](https://www.govinfo.gov/link/statute/106/3020); amended [Pub. L. 106–170, title V, § 507(a)](https://www.govinfo.gov/link/plaw/106/public/170) –(c), Dec. 17, 1999, [113 Stat. 1922](https://www.govinfo.gov/link/statute/113/1922); [Pub. L. 106–554, § 1(a)(7) [title III, § 319(1)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–646; [Pub. L. 107–147, title VI, § 603(a)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 59](https://www.govinfo.gov/link/statute/116/59); [Pub. L. 108–311, title III, § 313(a)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1181](https://www.govinfo.gov/link/statute/118/1181); [Pub. L. 108–357, title VII, § 710(a)](https://www.govinfo.gov/link/plaw/108/public/357) –(d), (f), Oct. 22, 2004, [118 Stat. 1552–1557](https://www.govinfo.gov/link/statute/118/1552); [Pub. L. 109–58, title XIII](https://www.govinfo.gov/link/plaw/109/public/58), §§ 1301(a)–(f)(4), 1302(a), 1322(a)(3)(C), Aug. 8, 2005, [119 Stat. 986–990](https://www.govinfo.gov/link/statute/119/986), 1011; [Pub. L. 109–135, title IV](https://www.govinfo.gov/link/plaw/109/public/135), §§ 402(b), 403(t), 412(j), Dec. 21, 2005, [119 Stat. 2610](https://www.govinfo.gov/link/statute/119/2610), 2628, 2637; [Pub. L. 109–432, div. A, title II, § 201](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2944](https://www.govinfo.gov/link/statute/120/2944); [Pub. L. 110–172](https://www.govinfo.gov/link/plaw/110/public/172), §§ 7(b), 9(a), Dec. 29, 2007, [121 Stat. 2482](https://www.govinfo.gov/link/statute/121/2482), 2484; [Pub. L. 110–343, div. B, title I](https://www.govinfo.gov/link/plaw/110/public/343), §§ 101(a)–(e), 102(a)–(e), 106(c)(3)(B), 108(a)–(d)(1), Oct. 3, 2008, [122 Stat. 3808–3810](https://www.govinfo.gov/link/statute/122/3808), 3815, 3819–3821; [Pub. L. 111–5, div. B, title I, § 1101(a)](https://www.govinfo.gov/link/plaw/111/public/5), (b), Feb. 17, 2009, [123 Stat. 319](https://www.govinfo.gov/link/statute/123/319); [Pub. L. 111–312, title VII, § 702(a)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3311](https://www.govinfo.gov/link/statute/124/3311); [Pub. L. 112–240, title IV](https://www.govinfo.gov/link/plaw/112/public/240), §§ 406(a), 407(a), Jan. 2, 2013, [126 Stat. 2340](https://www.govinfo.gov/link/statute/126/2340); [Pub. L. 113–295, div. A, title I](https://www.govinfo.gov/link/plaw/113/public/295), §§ 154(a), 155(a), title II, § 210(g)(1), Dec. 19, 2014, [128 Stat. 4021](https://www.govinfo.gov/link/statute/128/4021), 4032; [Pub. L. 114–113, div. P, title III, § 301(a)](https://www.govinfo.gov/link/plaw/114/public/113), div. Q, title I, §§ 186(a)–(c), (d)(2), 187(a), Dec. 18, 2015, [129 Stat. 3038](https://www.govinfo.gov/link/statute/129/3038), 3073, 3074; [Pub. L. 115–123, div. D, title I](https://www.govinfo.gov/link/plaw/115/public/123), §§ 40408(a), 40409(a), Feb. 9, 2018, [132 Stat. 149](https://www.govinfo.gov/link/statute/132/149), 150; [Pub. L. 115–141, div. U, title IV, § 401(a)(14)](https://www.govinfo.gov/link/plaw/115/public/141) –(16), Mar. 23, 2018, [132 Stat. 1185](https://www.govinfo.gov/link/statute/132/1185); [Pub. L. 116–94, div. Q, title I](https://www.govinfo.gov/link/plaw/116/public/94), §§ 127(a), (c)(1), (2)(A), 128(a), Dec. 20, 2019, [133 Stat. 3231](https://www.govinfo.gov/link/statute/133/3231), 3232; [Pub. L. 116–260, div. EE, title I](https://www.govinfo.gov/link/plaw/116/public/260), §§ 131(a), (c)(1), 145(a), Dec. 27, 2020, [134 Stat. 3052](https://www.govinfo.gov/link/statute/134/3052), 3054; [Pub. L. 117–169, title I](https://www.govinfo.gov/link/plaw/117/public/169), §§ 13101(a)–(c), (e)(1), (2)(A), (f)–(j), 13102(f)(4), 13204(b)(1), Aug. 16, 2022, [136 Stat. 1906–1913](https://www.govinfo.gov/link/statute/136/1906), 1916, 1939; [Pub. L. 119–21, title VII, § 70512(f)(1)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 266](https://www.govinfo.gov/link/statute/139/266).)*

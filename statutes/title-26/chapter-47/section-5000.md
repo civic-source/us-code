@@ -3,9 +3,10 @@ title: "Section 5000 - Certain group health plans"
 usc_title: 26
 usc_section: "5000"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5000"
-generated_at: "2026-03-30T02:55:27.815Z"
+generated_at: "2026-11-23T21:26:06.680Z"
+status: "active"
 ---
 
 # § 5000. Certain group health plans
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:27.815Z"
     - **(C)** leased employees (as defined in section 414(n)(2)) shall be treated as employees of the person for whom they perform services to the extent they are so treated under section 414(n).
 - **(c)** For purposes of this section, the term “nonconforming group health plan” means a group health plan or large group health plan that at any time during a calendar year does not comply with the requirements of subparagraphs (A) and (C) or subparagraph (B), respectively, of paragraph (1), or with the requirements of paragraph (2), of section 1862(b) of the Social Security Act.
 - **(d)** For purposes of this section, the term “employer” does not include a Federal or other governmental entity.
+
+## Source Credit
+
+*(Added [Pub. L. 99–509, title IX, § 9319(d)(1)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 2012](https://www.govinfo.gov/link/statute/100/2012); amended [Pub. L. 101–239, title VI, § 6202(b)(2)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2233](https://www.govinfo.gov/link/statute/103/2233); [Pub. L. 103–66, title XIII, § 13561(d)(2)](https://www.govinfo.gov/link/plaw/103/public/66), (e)(2)(A), Aug. 10, 1993, [107 Stat. 594](https://www.govinfo.gov/link/statute/107/594), 595.)*

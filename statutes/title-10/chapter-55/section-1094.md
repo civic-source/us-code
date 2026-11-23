@@ -3,9 +3,10 @@ title: "Section 1094 - Licensure requirement for health-care professionals"
 usc_title: 10
 usc_section: "1094"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1094"
-generated_at: "2026-03-30T02:53:38.107Z"
+generated_at: "2026-11-23T21:25:32.418Z"
+status: "active"
 ---
 
 # § 1094. Licensure requirement for health-care professionals
@@ -42,3 +43,17 @@ generated_at: "2026-03-30T02:53:38.107Z"
     - **(C)** New Zealand.
     - **(D)** The United Kingdom.
     - **(E)** Any other country designated as a partner country by the Secretary of Defense for the purposes of this section.
+
+Review.—
+
+In general
+
+Centralized credential system
+
+Report
+
+Covered Applicant Defined
+
+## Source Credit
+
+*(Added [Pub. L. 99–145, title VI, § 653(a)(1)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 657](https://www.govinfo.gov/link/statute/99/657); amended [Pub. L. 99–661, div. A, title XIII, § 1343(a)(5)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3992](https://www.govinfo.gov/link/statute/100/3992); [Pub. L. 101–189, div. A, title VI, § 653(e)(1)](https://www.govinfo.gov/link/plaw/101/public/189), title XVI, § 1622(e)(3), Nov. 29, 1989, [103 Stat. 1463](https://www.govinfo.gov/link/statute/103/1463), 1605; [Pub. L. 105–85, div. A, title VII, § 737](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1814](https://www.govinfo.gov/link/statute/111/1814); [Pub. L. 105–261, div. A, title VII, § 734(a)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2072](https://www.govinfo.gov/link/statute/112/2072); [Pub. L. 108–375, div. A, title VII, § 717(b)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1986](https://www.govinfo.gov/link/statute/118/1986); [Pub. L. 111–383, div. A, title VII, § 713](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4247](https://www.govinfo.gov/link/statute/124/4247); [Pub. L. 112–81, div. A, title VII, § 713(a)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1476](https://www.govinfo.gov/link/statute/125/1476); [Pub. L. 117–263, div. A, title VII, § 718](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2662](https://www.govinfo.gov/link/statute/136/2662); [Pub. L. 118–159, div. A, title VII](https://www.govinfo.gov/link/plaw/118/public/159), §§ 713, 714(a), Dec. 23, 2024, [138 Stat. 1947](https://www.govinfo.gov/link/statute/138/1947); [Pub. L. 119–60, div. A, title VII, § 716](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 923](https://www.govinfo.gov/link/statute/139/923).)*

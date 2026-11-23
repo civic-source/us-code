@@ -3,9 +3,10 @@ title: "Section 1060b - Military ID cards: dependents and survivors of retirees"
 usc_title: 10
 usc_section: "1060b"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1060b"
-generated_at: "2026-03-30T02:53:38.098Z"
+generated_at: "2026-11-23T21:25:32.383Z"
+status: "active"
 ---
 
 # § 1060b. Military ID cards: dependents and survivors of retirees
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:53:38.098Z"
 - **(b)** In this section:
   - **(1)** The term “military ID card” means a card or other form of identification used for purposes of demonstrating eligibility for any benefit from the Department of Defense.
   - **(2)** The term “retiree dependent” means a person who is a dependent of a retired member of the uniformed services, or a survivor of a deceased retired member of the uniformed services, who is eligible for any benefit from the Department of Defense.
+
+Issuance of Permanent ID Card
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 108–375, div. A, title V, § 583(a)(1)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1929](https://www.govinfo.gov/link/statute/118/1929); amended [Pub. L. 109–364, div. A, title V, § 598(a)](https://www.govinfo.gov/link/plaw/109/public/364), (b)(1), Oct. 17, 2006, [120 Stat. 2237](https://www.govinfo.gov/link/statute/120/2237).)*

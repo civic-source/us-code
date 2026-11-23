@@ -3,9 +3,10 @@ title: "Section 4708 - Training"
 usc_title: 12
 usc_section: "4708"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4708"
-generated_at: "2026-03-30T02:53:53.517Z"
+generated_at: "2026-11-23T21:25:37.212Z"
+status: "active"
 ---
 
 # § 4708. Training
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:53.517Z"
   - **(2)** Fees may be assessed under paragraph (1) only on persons who participate in the training program.
   - **(3)** Fees may be assessed and collected under this subsection only in such manner as may reasonably be expected to result in the collection of an aggregate amount of fees during any fiscal year which does not exceed the aggregate costs of the Fund for such year in providing training services under a training program operated in accordance with this section 1 1 So in original. Probably should be followed by a period.
   - **(4)** The amount of any fee assessed under this subsection on any person may not exceed the amount which is reasonably based on the proportion of the training services provided under a training program operated in accordance with this section which relate to such person.
+
+## Source Credit
+
+*([Pub. L. 103–325, title I, § 109](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2176](https://www.govinfo.gov/link/statute/108/2176).)*

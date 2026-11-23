@@ -3,9 +3,10 @@ title: "Section 2321b - Expediting hydropower at Corps of Engineers facilities"
 usc_title: 33
 usc_section: "2321b"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2321b"
-generated_at: "2026-03-30T02:55:41.123Z"
+generated_at: "2026-11-23T21:26:11.444Z"
+status: "active"
 ---
 
 # § 2321b. Expediting hydropower at Corps of Engineers facilities
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:41.123Z"
     - **(A)** affects the authorized purposes of a Corps of Engineers water resources development project;
     - **(B)** affects existing authorities of the Corps of Engineers, including authorities with respect to navigation, flood damage reduction, environmental protection and restoration, water supply and conservation, and other related purposes; or
     - **(C)** authorizes the Secretary to make any operational changes to a Corps of Engineers water resources development project.
+
+## Source Credit
+
+*([Pub. L. 113–121, title I, § 1008](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1215](https://www.govinfo.gov/link/statute/128/1215); [Pub. L. 116–260, div. AA, title I, § 146](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2655](https://www.govinfo.gov/link/statute/134/2655); [Pub. L. 117–263, div. H, title LXXXI, § 8123](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3714](https://www.govinfo.gov/link/statute/136/3714).)*

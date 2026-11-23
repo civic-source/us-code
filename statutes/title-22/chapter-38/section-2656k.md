@@ -3,9 +3,10 @@ title: "Section 2656k - Human rights awareness for American athletic delegations
 usc_title: 22
 usc_section: "2656k"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2656k"
-generated_at: "2026-03-30T02:55:05.377Z"
+generated_at: "2026-11-23T21:25:58.522Z"
+status: "active"
 ---
 
 # § 2656k. Human rights awareness for American athletic delegations
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:05.377Z"
   - **(2)** Any country ranked as a Tier 3 country in the most recent Department of State’s annual Trafficking in Persons Report.
   - **(3)** Any other country the Secretary of State determines presents serious human rights concerns for the purpose of informing such individuals.
   - **(4)** Any country the Secretary of State, in consultation with other cabinet officials as appropriate, determines presents a serious counterintelligence risk.
+
+## Source Credit
+
+*([Pub. L. 117–81, div. F, title LXV, § 6504](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2426](https://www.govinfo.gov/link/statute/135/2426).)*

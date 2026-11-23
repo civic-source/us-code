@@ -3,9 +3,10 @@ title: "Section 6173 - Requirement to develop future use plans for defense envir
 usc_title: 10
 usc_section: "6173"
 chapter: 604
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6173"
-generated_at: "2026-03-30T02:53:38.221Z"
+generated_at: "2026-11-23T21:25:32.819Z"
+status: "active"
 ---
 
 # § 6173. Requirement to develop future use plans for defense environmental cleanup
@@ -24,3 +25,21 @@ generated_at: "2026-03-30T02:53:38.221Z"
 - **(g)**
   - **(1)** Nothing in this section, or in a future use plan developed under this section with respect to a defense nuclear facility, shall be construed as requiring any modification to a future use plan with respect to a defense nuclear facility that was developed before September 23, 1996 .
   - **(2)** Nothing in this section may be construed to affect statutory requirements for a defense environmental cleanup activity or project or to modify or otherwise affect applicable statutory or regulatory defense environmental cleanup requirements, including substantive standards intended to protect public health and the environment, nor shall anything in this section be construed to preempt or impair any local land use planning or zoning authority or State authority.
+
+Authority to Develop Future Use Plans
+
+Requirement to Develop Future Use Plans
+
+Citizen Advisory Board
+
+Requirement to Consult With Citizen Advisory Board
+
+-year Planning Period
+
+Report
+
+Savings Provisions
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2)(B), Dec. 18, 2025, [139 Stat. 1386](https://www.govinfo.gov/link/statute/139/1386), 1462.)*

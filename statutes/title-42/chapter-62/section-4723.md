@@ -3,9 +3,10 @@ title: "Section 4723 - Local government programs and grants"
 usc_title: 42
 usc_section: "4723"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4723"
-generated_at: "2026-03-30T02:56:11.207Z"
+generated_at: "2026-11-23T21:26:32.685Z"
+status: "active"
 ---
 
 # § 4723. Local government programs and grants
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.207Z"
   - **(2)** after the State concerned has a statewide plan which has been developed by an appropriate State agency designated or established pursuant to State law which provides such agency with adequate authority, administrative organization, and staffing to develop and administer such a statewide plan, and to provide technical assistance and other appropriate support in carrying out the local components of the plan, and which provides procedures insuring adequate involvement of officials of affected local governments in the development and administration of such a statewide plan, unless the local government concerned has special, unique, or urgent problems which are not met by the approved statewide plan and for which it submits an application for funds to be distributed under section 4766(a) of this title .
 - **(b)** An application for a grant from a general local government or a combination of general local governments shall be made at such time or times and shall contain such information as the Office may prescribe. The Office may make a grant under subsection (a) of this section only if the application therefor meets requirements similar to those established in section 4722(b) of this title for a State application for a grant, unless any such requirement is specifically waived by the Office, and the requirements of subsection (c) of this section. Such a grant may cover the costs of developing the program or project covered by the application. The Office may make grants to general local governments, or combinations of such governments, that serve a population of less than fifty thousand, if it finds that such grants will help meet essential needs in programs or projects of national interest and will assist general local governments experiencing special problems in personnel administration related to such programs or projects.
 - **(c)** An application to be submitted to the Office under subsection (b) of this section shall first be submitted by the general local government or combination of such governments to the Governor for review, comments, and recommendations. The Governor may refer the application to the State office designated under section 4722(b)(1) of this title for review. Comments and recommendations (if any) made as a result of the review, and a statement by the general local government or combination of such governments that it has considered the comments and recommendations of the Governor shall accompany the application to the Office. The application need not be accompanied by the comments and recommendations of the Governor if the general local government or combination of such governments certifies to the Office that the application has been before the Governor for review and comment for a period of sixty days without comment by the Governor. An explanation in writing shall be sent to the Governor of a State by the Office whenever the Office does not concur with recommendations of the Governor in approving any local government applications.
+
+## Source Credit
+
+*([Pub. L. 91–648, title II, § 203](https://www.govinfo.gov/link/plaw/91/public/648), Jan. 5, 1971, [84 Stat. 1912](https://www.govinfo.gov/link/statute/84/1912); 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783](https://www.govinfo.gov/link/statute/92/3783).)*

@@ -3,9 +3,10 @@ title: "Section 3141 - Operational files of the Central Intelligence Agency"
 usc_title: 50
 usc_section: "3141"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3141"
-generated_at: "2026-03-30T02:56:26.237Z"
+generated_at: "2026-11-23T21:26:39.015Z"
+status: "active"
 ---
 
 # § 3141. Operational files of the Central Intelligence Agency
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:56:26.237Z"
   - **(3)** A complainant who alleges that the Central Intelligence Agency has improperly withheld records because of failure to comply with this subsection may seek judicial review in the district court of the United States of the district in which any of the parties reside, or in the District of Columbia. In such a proceeding, the court’s review shall be limited to determining the following:
     - **(A)** Whether the Central Intelligence Agency has conducted the review required by paragraph (1) before October 15, 1994 , or before the expiration of the 10-year period beginning on the date of the most recent review.
     - **(B)** Whether the Central Intelligence Agency, in fact, considered the criteria set forth in paragraph (2) in conducting the required review.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title VII, § 701, as added [Pub. L. 98–477, § 2(a)](https://www.govinfo.gov/link/plaw/98/public/477), Oct. 15, 1984, [98 Stat. 2209](https://www.govinfo.gov/link/statute/98/2209); amended [Pub. L. 104–93, title VII, § 702](https://www.govinfo.gov/link/plaw/104/public/93), Jan. 6, 1996, [109 Stat. 978](https://www.govinfo.gov/link/statute/109/978); [Pub. L. 107–306, title III, § 353(b)(10)](https://www.govinfo.gov/link/plaw/107/public/306), Nov. 27, 2002, [116 Stat. 2402](https://www.govinfo.gov/link/statute/116/2402); [Pub. L. 108–136, div. A, title IX, § 922(b)(1)](https://www.govinfo.gov/link/plaw/108/public/136), (2)(B)–(F), (d)(1)(B), Nov. 24, 2003, [117 Stat. 1573](https://www.govinfo.gov/link/statute/117/1573), 1574; [Pub. L. 108–458, title I](https://www.govinfo.gov/link/plaw/108/public/458), §§ 1071(a)(6), 1072(a)(7), Dec. 17, 2004, [118 Stat. 3690](https://www.govinfo.gov/link/statute/118/3690), 3692; [Pub. L. 111–259, title VIII, § 804(6)](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2747](https://www.govinfo.gov/link/statute/124/2747).)*

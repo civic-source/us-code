@@ -3,9 +3,10 @@ title: "Section 6714 - Expedited and equalized dispute resolution for Federal re
 usc_title: 15
 usc_section: "6714"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6714"
-generated_at: "2026-03-30T02:54:08.213Z"
+generated_at: "2026-11-23T21:25:40.029Z"
+status: "active"
 ---
 
 # § 6714. Expedited and equalized dispute resolution for Federal regulators
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.213Z"
   - **(1)** the end of the 12-month period beginning on the date on which the first public notice is made of such order, ruling, determination or other action in its final form; or
   - **(2)** the end of the 6-month period beginning on the date on which such order, ruling, determination, or other action takes effect.
 - **(e)** The court shall decide a petition filed under this section based on its review on the merits of all questions presented under State and Federal law, including the nature of the product or activity and the history and purpose of its regulation under State and Federal law, without unequal deference.
+
+## Source Credit
+
+*([Pub. L. 106–102, title III, § 304](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1409](https://www.govinfo.gov/link/statute/113/1409).)*

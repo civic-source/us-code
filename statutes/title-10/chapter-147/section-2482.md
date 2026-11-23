@@ -3,9 +3,10 @@ title: "Section 2482 - Commissary stores: criteria for establishment or closure;
 usc_title: 10
 usc_section: "2482"
 chapter: 147
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2482"
-generated_at: "2026-03-30T02:53:38.160Z"
+generated_at: "2026-11-23T21:25:32.618Z"
+status: "active"
 ---
 
 # § 2482. Commissary stores: criteria for establishment or closure; store size
@@ -20,3 +21,15 @@ generated_at: "2026-03-30T02:53:38.160Z"
 - **(d)**
   - **(1)** The closure of a commissary store in the United States shall not take effect until the end of the 90-day period beginning on the date on which the Secretary of Defense submits to Congress written notice of the reasons supporting the closure. The written notice shall include an assessment of the impact closure will have on the quality of life for military patrons and the welfare and security of the military community in which the commissary is located.
   - **(2)** Paragraph (1) shall not apply in the case of the closure of a commissary store as part of the closure of a military installation under a base closure law.
+
+Primary Consideration for Establishment
+
+Store Size
+
+Closure Considerations
+
+Congressional Notification
+
+## Source Credit
+
+*(Added [Pub. L. 108–375, div. A, title VI, § 651(a)(3)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1965](https://www.govinfo.gov/link/statute/118/1965); amended [Pub. L. 112–81, div. A, title X, § 1064(6)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1587](https://www.govinfo.gov/link/statute/125/1587).)*

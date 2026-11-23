@@ -3,9 +3,10 @@ title: "Section 9060 - Reports"
 usc_title: 15
 usc_section: "9060"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9060"
-generated_at: "2026-03-30T02:54:08.243Z"
+generated_at: "2026-11-23T21:25:40.131Z"
+status: "active"
 ---
 
 # § 9060. Reports
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:08.243Z"
 - **(f)**
   - **(1)** The Comptroller General of the United States shall conduct a study on the loans, loan guarantees, and other investments provided under section 9042 of this title .
   - **(2)** Not later than 9 months after March 27, 2020 , and annually thereafter through the year succeeding the last year for which loans, loan guarantees, or other investments made under section 9042 of this title are outstanding, the Comptroller General shall submit to the Committee on Financial Services, the Committee on Transportation and Infrastructure, the Committee on Appropriations, and the Committee on the Budget of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs, the Committee on Commerce, Science, and Transportation, the Committee on Appropriations, and the Committee on the Budget of the Senate a report on the loans, loan guarantees, and other investments made under section 9042 of this title .
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title IV, § 4026](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 494](https://www.govinfo.gov/link/statute/134/494); [Pub. L. 117–103, div. HH, title III, § 301](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 1113](https://www.govinfo.gov/link/statute/136/1113).)*

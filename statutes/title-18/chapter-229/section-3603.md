@@ -3,9 +3,10 @@ title: "Section 3603 - Duties of probation officers"
 usc_title: 18
 usc_section: "3603"
 chapter: 229
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3603"
-generated_at: "2026-03-30T02:54:16.521Z"
+generated_at: "2026-11-23T21:25:44.215Z"
+status: "active"
 ---
 
 # § 3603. Duties of probation officers
@@ -24,3 +25,7 @@ A probation officer shall—
     - **(B)** immediately report any violation of the conditions of release to the court and the Attorney General or his designee;
   - **(9)** if approved by the district court, be authorized to carry firearms under such rules and regulations as the Director of the Administrative Office of the United States Courts may prescribe; and
   - **(10)** perform any other duty that the court may designate.
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 212(a)(2)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2002](https://www.govinfo.gov/link/statute/98/2002); amended [Pub. L. 99–646, § 15(a)](https://www.govinfo.gov/link/plaw/99/public/646), Nov. 10, 1986, [100 Stat. 3595](https://www.govinfo.gov/link/statute/100/3595); [Pub. L. 102–572, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4514](https://www.govinfo.gov/link/statute/106/4514); [Pub. L. 104–317, title I, § 101(a)](https://www.govinfo.gov/link/plaw/104/public/317), Oct. 19, 1996, [110 Stat. 3848](https://www.govinfo.gov/link/statute/110/3848); [Pub. L. 115–391, title VI, § 609(a)](https://www.govinfo.gov/link/plaw/115/public/391), Dec. 21, 2018, [132 Stat. 5245](https://www.govinfo.gov/link/statute/132/5245).)*

@@ -3,9 +3,10 @@ title: "Section 10555 - Authorization of appropriations"
 usc_title: 34
 usc_section: "10555"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10555"
-generated_at: "2026-03-30T02:55:33.272Z"
+generated_at: "2026-11-23T21:26:09.674Z"
+status: "active"
 ---
 
 # § 10555. Authorization of appropriations
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:33.272Z"
     - **(A)** $67,000,000 shall be made available to the BJA Director to carry out this subchapter; and
     - **(B)** $33,000,000 shall be made available to the COPS Director to carry out this subchapter.
 - **(b)** Any funds appropriated for the Comprehensive School Safety Initiative of the National Institute of Justice in fiscal year 2018 shall instead be used for the purposes in subsection (a).
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2705](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 115–141, div. S, title V, § 502(5)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1131](https://www.govinfo.gov/link/statute/132/1131).)*

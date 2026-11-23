@@ -3,9 +3,10 @@ title: "Section 8635 - Establishment of the Southern Sea Otter Military Readines
 usc_title: 10
 usc_section: "8635"
 chapter: 861
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 8635"
-generated_at: "2026-03-30T02:53:38.247Z"
+generated_at: "2026-11-23T21:25:32.936Z"
+status: "active"
 ---
 
 # § 8635. Establishment of the Southern Sea Otter Military Readiness Areas
@@ -30,3 +31,39 @@ generated_at: "2026-03-30T02:53:38.247Z"
   - **(3)** The term “incidental taking” means any take of a southern sea otter that is incidental to, and not the purpose of, the carrying out of an otherwise lawful activity.
   - **(4)** The term “military readiness activity” has the meaning given that term in section 315(f) of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 ( 16 U.S.C. 703 note) and includes all training and operations of the armed forces that relate to combat and the adequate and realistic testing of military equipment, vehicles, weapons, and sensors for proper operation and suitability for combat use.
   - **(5)** The term “optimum sustainable population” means, with respect to any population stock, the number of animals that will result in the maximum productivity of the population or the species, keeping in mind the carrying capacity of the habitat and the health of the ecosystem of which they form a constituent element.
+
+Establishment
+
+Activities Within the Southern Sea Otter Military Readiness Areas.—
+
+Incidental takings under endangered species act of 1973
+
+Incidental takings under marine mammal protection act of 1972
+
+Treatment as species proposed to be listed
+
+Removal
+
+Revision or Termination of Exceptions
+
+Monitoring.—
+
+In general
+
+Reports
+
+Definitions
+
+Southern sea otter
+
+Take
+
+Incidental taking
+
+Military readiness activity
+
+Optimum sustainable population
+
+## Source Credit
+
+*(Added [Pub. L. 114–92, div. A, title III, § 312(a)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 787](https://www.govinfo.gov/link/statute/129/787), § 7235; amended [Pub. L. 115–91, div. A, title X, § 1081(a)(50)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1597](https://www.govinfo.gov/link/statute/131/1597); renumbered § 8635, [Pub. L. 115–232, div. A, title VIII, § 807(d)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1836](https://www.govinfo.gov/link/statute/132/1836).)*

@@ -3,9 +3,10 @@ title: "Section 1841 - Protection of unborn children"
 usc_title: 18
 usc_section: "1841"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1841"
-generated_at: "2026-03-30T02:54:16.491Z"
+generated_at: "2026-11-23T21:25:44.098Z"
+status: "active"
 ---
 
 # § 1841. Protection of unborn children
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:16.491Z"
   - **(2)** of any person for any medical treatment of the pregnant woman or her unborn child; or
   - **(3)** of any woman with respect to her unborn child.
 - **(d)** As used in this section, the term “unborn child” means a child in utero, and the term “child in utero” or “child, who is in utero” means a member of the species homo sapiens, at any stage of development, who is carried in the womb.
+
+## Source Credit
+
+*(Added [Pub. L. 108–212, § 2(a)](https://www.govinfo.gov/link/plaw/108/public/212), Apr. 1, 2004, [118 Stat. 568](https://www.govinfo.gov/link/statute/118/568).)*

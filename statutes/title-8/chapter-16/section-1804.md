@@ -3,9 +3,10 @@ title: "Section 1804 - Immigration parole fee"
 usc_title: 8
 usc_section: "1804"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1804"
-generated_at: "2026-03-30T02:53:10.509Z"
+generated_at: "2026-11-23T21:25:25.219Z"
+status: "active"
 ---
 
 # § 1804. Immigration parole fee
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:53:10.509Z"
   - **(2)** the product resulting from the multiplication of the amount referred to in paragraph (1) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
 - **(e)** All of the fees collected pursuant to this section shall be deposited into the general fund of the Treasury.
 - **(f)** Except as provided in subsection (b), fees required to be paid under this section shall not be waived or reduced.
+
+## Source Credit
+
+*([Pub. L. 119–21, title X, § 100004](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 367](https://www.govinfo.gov/link/statute/139/367).)*

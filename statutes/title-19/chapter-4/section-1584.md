@@ -3,9 +3,10 @@ title: "Section 1584 - Falsity or lack of manifest; penalties"
 usc_title: 19
 usc_section: "1584"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1584"
-generated_at: "2026-03-30T02:54:24.644Z"
+generated_at: "2026-11-23T21:25:42.728Z"
+status: "active"
 ---
 
 # § 1584. Falsity or lack of manifest; penalties
@@ -23,3 +24,9 @@ generated_at: "2026-03-30T02:54:24.644Z"
     - **(E)** state the estimated loss of lawful duties, if any, and, taking into account all of the circumstances, the amount of the proposed monetary penalty; and
     - **(F)** inform such person that he will have a reasonable opportunity to make representations, both oral and written, as to why such penalty claim should not be issued.
   - **(2)** After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a)(1), as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, the Customs Service shall promptly issue or electronically transmit a statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, the Customs Service shall issue or electronically transmit a penalty claim to such person. The penalty claim shall specify all changes in the information provided under subparagraphs (A) through (E) of paragraph (1).
+
+General Rule
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 584, [46 Stat. 748](https://www.govinfo.gov/link/statute/46/748); Aug. 5, 1935, ch. 438, title II, § 204, [49 Stat. 523](https://www.govinfo.gov/link/statute/49/523); July 1, 1944, ch. 377, § 10, [58 Stat. 722](https://www.govinfo.gov/link/statute/58/722); Mar. 8, 1946, ch. 81, § 9, [60 Stat. 39](https://www.govinfo.gov/link/statute/60/39); [Pub. L. 91–271, title III, § 301(b)](https://www.govinfo.gov/link/plaw/91/public/271), June 2, 1970, [84 Stat. 287](https://www.govinfo.gov/link/statute/84/287); [Pub. L. 91–513, title III, § 1102(m)](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1293](https://www.govinfo.gov/link/statute/84/1293); [Pub. L. 95–410, title I, § 109](https://www.govinfo.gov/link/plaw/95/public/410), Oct. 3, 1978, [92 Stat. 892](https://www.govinfo.gov/link/statute/92/892); [Pub. L. 99–570, title III, § 3118](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–84](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 103–182, title VI, § 619](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2180](https://www.govinfo.gov/link/statute/107/2180); [Pub. L. 106–36, title I, § 1001(b)(7)](https://www.govinfo.gov/link/plaw/106/public/36), June 25, 1999, [113 Stat. 132](https://www.govinfo.gov/link/statute/113/132).)*

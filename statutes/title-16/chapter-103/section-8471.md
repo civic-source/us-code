@@ -3,9 +3,10 @@ title: "Section 8471 - Definitions"
 usc_title: 16
 usc_section: "8471"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8471"
-generated_at: "2026-03-30T02:54:23.086Z"
+generated_at: "2026-11-23T21:25:52.080Z"
+status: "active"
 ---
 
 # § 8471. Definitions
@@ -18,3 +19,7 @@ In this subchapter:
   - **(4)** The term “Gold Star Family member” means an individual described in section 3.3 of Department of Defense Instruction 1348.36.
   - **(5)** The term “outdoor constructed feature” has the meaning given such term in appendix C to part 1191 of title 36, Code of Federal Regulations (or successor regulations).
   - **(6)** The term “veterans organization” means a service provider with outdoor recreation experience that serves members of the Armed Forces, veterans, or Gold Star Family members.
+
+## Source Credit
+
+*([Pub. L. 118–234, title II, § 201](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2880](https://www.govinfo.gov/link/statute/138/2880).)*

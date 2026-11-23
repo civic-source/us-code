@@ -3,9 +3,10 @@ title: "Section 6011 - General requirement of return, statement, or list"
 usc_title: 26
 usc_section: "6011"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6011"
-generated_at: "2026-03-30T02:55:27.828Z"
+generated_at: "2026-11-23T21:26:06.750Z"
+status: "active"
 ---
 
 # § 6011. General requirement of return, statement, or list
@@ -50,3 +51,21 @@ generated_at: "2026-03-30T02:55:27.828Z"
 - **(g)** Any taxable party to a prohibited tax shelter transaction (as defined in section 4965(e)(1)) shall by statement disclose to any tax-exempt entity (as defined in section 4965(c)) which is a party to such transaction that such transaction is such a prohibited tax shelter transaction.
 - **(h)** Any organization required to file an annual return under this section which relates to any tax imposed by section 511 shall file such return in electronic form.
 - **(i)** For requirement that returns of income, estate, and gift taxes be made whether or not there is tax liability, see subparts B and C.
+
+In General
+
+Electronic Services Treated as Supplemental; Application of Security Standards
+
+In General
+
+Strategic Plan.—
+
+In general
+
+Electronic commerce advisory group
+
+Annual Reports
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 732; [Pub. L. 85–859, title I, § 161](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1305](https://www.govinfo.gov/link/statute/72/1305); [Pub. L. 88–563, § 3(a)](https://www.govinfo.gov/link/plaw/88/public/563), Sept. 2, 1964, [78 Stat. 843](https://www.govinfo.gov/link/statute/78/843); [Pub. L. 89–44, title I, § 101(b)(6)](https://www.govinfo.gov/link/plaw/89/public/44), June 21, 1965, [79 Stat. 136](https://www.govinfo.gov/link/statute/79/136); [Pub. L. 90–59, § 4(b)](https://www.govinfo.gov/link/plaw/90/public/59), July 31, 1967, [81 Stat. 154](https://www.govinfo.gov/link/statute/81/154); [Pub. L. 91–128, § 4](https://www.govinfo.gov/link/plaw/91/public/128) (f), (g), Nov. 26, 1969, [83 Stat. 267](https://www.govinfo.gov/link/statute/83/267); [Pub. L. 92–178, title V, § 504(a)](https://www.govinfo.gov/link/plaw/92/public/178), Dec. 10, 1971, [85 Stat. 550](https://www.govinfo.gov/link/statute/85/550); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1904(b)(10)(A)(ii), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1817](https://www.govinfo.gov/link/statute/90/1817), 1834; [Pub. L. 95–615, § 207(c)](https://www.govinfo.gov/link/plaw/95/public/615), Nov. 8, 1978, [92 Stat. 3108](https://www.govinfo.gov/link/statute/92/3108); [Pub. L. 97–248, title III, § 319](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 610](https://www.govinfo.gov/link/statute/96/610); [Pub. L. 98–67, title I, § 109(a)](https://www.govinfo.gov/link/plaw/98/public/67), Aug. 5, 1983, [97 Stat. 383](https://www.govinfo.gov/link/statute/97/383); [Pub. L. 98–369, div. A, title VIII, § 801(d)(12)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 997](https://www.govinfo.gov/link/statute/98/997); [Pub. L. 99–514, title XVIII, § 1899A(52)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2961](https://www.govinfo.gov/link/statute/100/2961); [Pub. L. 100–647, title I, § 1015(q)(1)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3572](https://www.govinfo.gov/link/statute/102/3572); [Pub. L. 101–239, title VII, § 7713(a)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2394](https://www.govinfo.gov/link/statute/103/2394); [Pub. L. 105–34, title XII, § 1224](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1019](https://www.govinfo.gov/link/statute/111/1019); [Pub. L. 105–206, title II, § 2001(c)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 723](https://www.govinfo.gov/link/statute/112/723); [Pub. L. 109–222, title V, § 516(b)(2)](https://www.govinfo.gov/link/plaw/109/public/222), May 17, 2006, [120 Stat. 371](https://www.govinfo.gov/link/statute/120/371); [Pub. L. 110–172, § 11(g)(19)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2491](https://www.govinfo.gov/link/statute/121/2491); [Pub. L. 111–92, § 17(a)](https://www.govinfo.gov/link/plaw/111/public/92), (b), Nov. 6, 2009, [123 Stat. 2996](https://www.govinfo.gov/link/statute/123/2996); [Pub. L. 111–147, title V, § 522(a)](https://www.govinfo.gov/link/plaw/111/public/147), Mar. 18, 2010, [124 Stat. 112](https://www.govinfo.gov/link/statute/124/112); [Pub. L. 113–295, div. A, title II, § 220(t)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4036](https://www.govinfo.gov/link/statute/128/4036); [Pub. L. 115–141, div. U, title III, § 301(a)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1183](https://www.govinfo.gov/link/statute/132/1183); [Pub. L. 116–25, title II, § 2301(a)](https://www.govinfo.gov/link/plaw/116/public/25) –(c), title III, § 3101(b)(2), July 1, 2019, [133 Stat. 1012](https://www.govinfo.gov/link/statute/133/1012), 1013, 1015; [Pub. L. 116–94, div. O, title II, § 202(d)(1)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3163](https://www.govinfo.gov/link/statute/133/3163); [Pub. L. 119–21, title VII, § 70421(d)(3)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 231](https://www.govinfo.gov/link/statute/139/231).)*

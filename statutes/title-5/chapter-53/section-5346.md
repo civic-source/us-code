@@ -3,9 +3,10 @@ title: "Section 5346 - Job grading system"
 usc_title: 5
 usc_section: "5346"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5346"
-generated_at: "2026-03-30T02:52:56.014Z"
+generated_at: "2026-11-23T21:25:23.248Z"
+status: "active"
 ---
 
 # § 5346. Job grading system
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:52:56.014Z"
   - **(1)** ascertain currently the facts as to the duties, responsibilities, and qualification requirements of the position;
   - **(2)** decide whether the position has been placed in the proper occupation and grade; and
   - **(3)** approve, disapprove, or modify, in accordance with its decision, the action of the employing agency in placing the position in an occupation and grade.
+
+## Source Credit
+
+*(Added [Pub. L. 90–206, title II, § 223(a)](https://www.govinfo.gov/link/plaw/90/public/206), Dec. 16, 1967, [81 Stat. 641](https://www.govinfo.gov/link/statute/81/641), § 5345; renumbered § 5346 and amended [Pub. L. 92–392, § 1(a)](https://www.govinfo.gov/link/plaw/92/public/392), Aug. 19, 1972, [86 Stat. 570](https://www.govinfo.gov/link/statute/86/570); [Pub. L. 95–454, title IX, § 906(a)(2)](https://www.govinfo.gov/link/plaw/95/public/454), (3), Oct. 13, 1978, [92 Stat. 1224](https://www.govinfo.gov/link/statute/92/1224).)*

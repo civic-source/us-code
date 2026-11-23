@@ -3,9 +3,10 @@ title: "Section 509 - National Guard Youth Challenge Program of opportunities fo
 usc_title: 32
 usc_section: "509"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "32 U.S.C. § 509"
-generated_at: "2026-03-30T02:55:31.866Z"
+generated_at: "2026-11-23T21:26:08.296Z"
+status: "active"
 ---
 
 # § 509. National Guard Youth Challenge Program of opportunities for civilian youth
@@ -68,3 +69,33 @@ generated_at: "2026-03-30T02:55:31.866Z"
   - **(5)** The conditions for the use of National Guard facilities and equipment to carry out the Program, as required by subsection (h).
   - **(6)** The status of Program participants, as described in subsection (i).
   - **(7)** The procedures to be used by the Secretary when communicating with States about the Program.
+
+Program Authority and Purpose
+
+Conduct of the Program
+
+Program Agreements
+
+Matching Funds Required
+
+Persons Eligible To Participate in Program
+
+Authorized Benefits for Participants
+
+Program Personnel
+
+Equipment and Facilities
+
+Status of Participants
+
+Supplemental Resources
+
+Report
+
+Definitions
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 105–85, div. A, title X, § 1076(a)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1911](https://www.govinfo.gov/link/statute/111/1911); amended [Pub. L. 106–65, div. A, title V, § 579](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 631](https://www.govinfo.gov/link/statute/113/631); [Pub. L. 106–246, div. B, title I, § 120](https://www.govinfo.gov/link/plaw/106/public/246), July 13, 2000, [114 Stat. 533](https://www.govinfo.gov/link/statute/114/533); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title V, § 577(a)–(c)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–140; [Pub. L. 107–107, div. A, title V, § 596(a)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1126](https://www.govinfo.gov/link/statute/115/1126); [Pub. L. 107–314, div. A, title X, § 1062(g)(1)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2651](https://www.govinfo.gov/link/statute/116/2651); [Pub. L. 108–375, div. A, title V, § 594(a)](https://www.govinfo.gov/link/plaw/108/public/375), (b)(1), Oct. 28, 2004, [118 Stat. 1935](https://www.govinfo.gov/link/statute/118/1935), 1936; [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title V, § 594(a), Oct. 14, 2008, [122 Stat. 4475](https://www.govinfo.gov/link/statute/122/4475); [Pub. L. 111–84, div. A, title V, § 593(a)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2337](https://www.govinfo.gov/link/statute/123/2337); [Pub. L. 115–232, div. A, title V, § 519](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1754](https://www.govinfo.gov/link/statute/132/1754).)*

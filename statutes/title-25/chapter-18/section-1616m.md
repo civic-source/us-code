@@ -3,9 +3,10 @@ title: "Section 1616m - Matching grants to tribes for scholarship programs"
 usc_title: 25
 usc_section: "1616m"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1616m"
-generated_at: "2026-03-30T02:54:52.819Z"
+generated_at: "2026-11-23T21:25:54.616Z"
+status: "active"
 ---
 
 # § 1616m. Matching grants to tribes for scholarship programs
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:54:52.819Z"
   - **(1)** not to discriminate against an individual seeking such care on the basis of the ability of the individual to pay for such care or on the basis that payment for such care will be made pursuant to the program established in title XVIII of the Social Security Act [ 42 U.S.C. 1395 et seq.] or pursuant to the program established in title XIX of such Act [ 42 U.S.C. 1396 et seq.]; and
   - **(2)** to accept assignment under section 1842(b)(3)(B)(ii) of the Social Security Act [ 42 U.S.C. 1395u(b)(3)(B)(ii) ] for all services for which payment may be made under part B of title XVIII of such Act [ 42 U.S.C. 1395j et seq.], and to enter into an appropriate agreement with the State agency that administers the State plan for medical assistance under title XIX of such Act [ 42 U.S.C. 1396 et seq.] to provide service to individuals entitled to medical assistance under the plan.
 - **(g)** The Secretary may not make any payments under subsection (a) to an Indian tribe or tribal organization for any fiscal year subsequent to the first fiscal year of such payments unless the Secretary determines that, for the immediately preceding fiscal year, the Indian tribe or tribal organization has complied with requirements of this section.
+
+## Source Credit
+
+*([Pub. L. 94–437, title I, § 120](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 102–573, title I, § 112](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4540](https://www.govinfo.gov/link/statute/106/4540).)*

@@ -3,9 +3,10 @@ title: "Section 1087c - Selection of institutions for participation and originat
 usc_title: 20
 usc_section: "1087c"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1087c"
-generated_at: "2026-03-30T02:54:48.123Z"
+generated_at: "2026-11-23T21:25:47.145Z"
+status: "active"
 ---
 
 # § 1087c. Selection of institutions for participation and origination
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:48.123Z"
     - **(F)** meets such other criteria as the Secretary may establish to protect the financial interest of the United States and to promote the purposes of this part.
 - **(d)** The Secretary may not select an institution of higher education for participation under this section unless such institution is an eligible institution under section 1085(a) of this title .
 - **(e)** Subject to such requirements as the Secretary may prescribe, eligible institutions of higher education (as determined under subsection (d)) with agreements under section 1087d(a) of this title may apply to the Secretary as consortia to originate loans under this part for students in attendance at such institutions. Each such institution shall be required to meet the requirements of subsection (c) with respect to loan origination.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 453](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 404](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1438](https://www.govinfo.gov/link/statute/100/1438); amended [Pub. L. 102–325, title IV, § 451](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 569](https://www.govinfo.gov/link/statute/106/569); [Pub. L. 103–66, title IV, § 4021](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 342](https://www.govinfo.gov/link/statute/107/342); [Pub. L. 103–208, § 2(e)](https://www.govinfo.gov/link/plaw/103/public/208), Dec. 20, 1993, [107 Stat. 2470](https://www.govinfo.gov/link/statute/107/2470); [Pub. L. 105–244, title IV, § 451](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1715](https://www.govinfo.gov/link/statute/112/1715); [Pub. L. 111–39, title IV, § 404(b)(1)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1946](https://www.govinfo.gov/link/statute/123/1946).)*

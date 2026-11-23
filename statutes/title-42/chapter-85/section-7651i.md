@@ -3,9 +3,10 @@ title: "Section 7651i - Election for additional sources"
 usc_title: 42
 usc_section: "7651i"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7651i"
-generated_at: "2026-03-30T02:56:11.323Z"
+generated_at: "2026-11-23T21:26:33.155Z"
+status: "active"
 ---
 
 # § 7651i. Election for additional sources
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.323Z"
   - **(4)** The maximum number of allowances that can be annually allocated to a small refinery pursuant to this subsection is one thousand and five hundred.
   - **(5)** In any given year, the total number of allowances allocated pursuant to this subsection shall not exceed thirty-five thousand.
   - **(6)** The Administrator shall not allocate any allowances pursuant to this subsection unless the owner or operator of a small diesel refinery shall have certified, at a time and in a manner prescribed by the Administrator, that all motor diesel fuel produced by the refinery for which allowances are claimed, including motor diesel fuel for off-highway use, shall have met the requirements of subsection 1 7545(i) of this title.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title IV, § 410, as added [Pub. L. 101–549, title IV, § 401](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2621](https://www.govinfo.gov/link/statute/104/2621).)*

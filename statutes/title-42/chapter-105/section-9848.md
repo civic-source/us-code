@@ -3,9 +3,10 @@ title: "Section 9848 - Comparability of wages"
 usc_title: 42
 usc_section: "9848"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9848"
-generated_at: "2026-03-30T02:56:11.372Z"
+generated_at: "2026-11-23T21:26:33.305Z"
+status: "active"
 ---
 
 # § 9848. Comparability of wages
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.372Z"
   - **(2)** In this subsection, the term “compensation”—
     - **(A)** includes salary, bonuses, periodic payments, severance pay, the value of any vacation time, the value of a compensatory or paid leave benefit not excluded by subparagraph (B), and the fair market value of any employee perquisite or benefit not excluded by subparagraph (B); and
     - **(B)** excludes any Head Start agency expenditure for a health, medical, life insurance, disability, retirement, or any other employee welfare or pension benefit.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 653](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 507](https://www.govinfo.gov/link/statute/95/507); [Pub. L. 101–501, title I, § 122](https://www.govinfo.gov/link/plaw/101/public/501), Nov. 3, 1990, [104 Stat. 1237](https://www.govinfo.gov/link/statute/104/1237); [Pub. L. 110–134, § 22](https://www.govinfo.gov/link/plaw/110/public/134), Dec. 12, 2007, [121 Stat. 1442](https://www.govinfo.gov/link/statute/121/1442).)*

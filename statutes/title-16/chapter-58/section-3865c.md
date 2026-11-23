@@ -3,9 +3,10 @@ title: "Section 3865c - Wetland reserve easements"
 usc_title: 16
 usc_section: "3865c"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3865c"
-generated_at: "2026-03-30T02:54:23.036Z"
+generated_at: "2026-11-23T21:25:52.003Z"
+status: "active"
 ---
 
 # § 3865c. Wetland reserve easements
@@ -107,3 +108,13 @@ generated_at: "2026-03-30T02:54:23.036Z"
       - **(ii)** with respect to any annual easement payment obligation incurred by the Secretary, as soon as possible after October 1 of each calendar year.
     - **(B)** If an owner who is entitled to a payment under this section dies, becomes incompetent, is otherwise unable to receive such payment, or is succeeded by another person or entity who renders or completes the required performance, the Secretary shall make such payment, in accordance with regulations prescribed by the Secretary and without regard to any other provision of law, in such manner as the Secretary determines is fair and reasonable in light of all of the circumstances.
 - **(g)** The relevant provisions of this section shall also apply to a 30-year contract.
+
+(aa) to comply with Federal or State noxious weed control laws;
+
+(bb) to comply with a Federal or State emergency pest treatment program; or
+
+(cc) to meet habitat needs of specific wildlife species;
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1265C](https://www.govinfo.gov/link/plaw/99/public/198), as added [Pub. L. 113–79, title II, § 2301(a)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 737](https://www.govinfo.gov/link/statute/128/737); amended [Pub. L. 115–334, title II, § 2604](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4589](https://www.govinfo.gov/link/statute/132/4589).)*

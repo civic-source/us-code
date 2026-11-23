@@ -3,12 +3,17 @@ title: "Section 3205 - Confidentiality"
 usc_title: 25
 usc_section: "3205"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3205"
-generated_at: "2026-03-30T02:54:52.850Z"
+generated_at: "2026-11-23T21:25:54.687Z"
+status: "active"
 ---
 
 # § 3205. Confidentiality
 
 Pursuant to section 552a of title 5 , the Family Educational Rights and Privacy Act of 1974 ( 20 U.S.C. 1232g ), or any other provision of law, agencies of any Indian tribe, of any State, or of the Federal Government that investigate and treat incidents of abuse of children may provide information and records to those agencies of any Indian tribe, any State, or the Federal Government that need to know the information in performance of their duties. For purposes of this section, Indian tribal governments shall be treated the same as other Federal Government entities.
 
+
+## Source Credit
+
+*([Pub. L. 101–630, title IV, § 406](https://www.govinfo.gov/link/plaw/101/public/630), Nov. 28, 1990, [104 Stat. 4550](https://www.govinfo.gov/link/statute/104/4550).)*

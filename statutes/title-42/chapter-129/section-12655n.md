@@ -3,9 +3,10 @@ title: "Section 12655n - Federal and State employee status"
 usc_title: 42
 usc_section: "12655n"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12655n"
-generated_at: "2026-03-30T02:56:11.428Z"
+generated_at: "2026-11-23T21:26:33.534Z"
+status: "active"
 ---
 
 # § 12655n. Federal and State employee status
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.428Z"
   - **(3)** For purposes of chapter 171 of title 28, relating to tort claims procedure, a participant or crew leaders assigned to a youth corps program for which a grant has been made to the Secretary of Agriculture, Secretary of the Interior, or the Director of ACTION, shall be considered an employee of the United States within the meaning of the term “employee of the government” as defined in section 2671 of such title.
   - **(4)** For purposes of section 5911 of title 5 , relating to allowances for quarters, a participant or crew leader shall be considered an employee of the United States within the meaning of the term “employee” as defined in paragraph (3) of subsection (a) of such section.
 - **(c)** Contract authority under this division shall be subject to the availability of appropriations. Assistance made available under this division shall only be used for activities that are in addition to those which would otherwise be carried out in the area in the absence of such funds.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 199M](https://www.govinfo.gov/link/plaw/101/public/610), formerly § 135, Nov. 16, 1990, [104 Stat. 3149](https://www.govinfo.gov/link/statute/104/3149); renumbered § 199O, renumbered § 199M, [Pub. L. 103–82, title I, § 101(a)](https://www.govinfo.gov/link/plaw/103/public/82), (e)(8)(B), Sept. 21, 1993, [107 Stat. 788](https://www.govinfo.gov/link/statute/107/788), 816, as amended [Pub. L. 103–304, § 3(b)(1)](https://www.govinfo.gov/link/plaw/103/public/304), Aug. 23, 1994, [108 Stat. 1567](https://www.govinfo.gov/link/statute/108/1567).)*

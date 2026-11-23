@@ -3,9 +3,10 @@ title: "Section 4424 - Disclosure of wagering tax information"
 usc_title: 26
 usc_section: "4424"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4424"
-generated_at: "2026-03-30T02:55:27.803Z"
+generated_at: "2026-11-23T21:26:06.623Z"
+status: "active"
 ---
 
 # § 4424. Disclosure of wagering tax information
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:27.803Z"
   - **(2)** any original, copy, or abstract possessed by a taxpayer of any return, payment, or registration made by such taxpayer pursuant to this chapter, and
   - **(3)** any information come at by the exploitation of any such document,
 - **(d)** Section 6103(f) shall apply with respect to any return, payment, or registration made pursuant to this chapter.
+
+## Source Credit
+
+*(Added [Pub. L. 93–499, § 3(c)(1)](https://www.govinfo.gov/link/plaw/93/public/499), Oct. 29, 1974, [88 Stat. 1550](https://www.govinfo.gov/link/statute/88/1550); amended [Pub. L. 94–455, title XII, § 1202(h)(6)](https://www.govinfo.gov/link/plaw/94/public/455), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1688](https://www.govinfo.gov/link/statute/90/1688), 1834.)*

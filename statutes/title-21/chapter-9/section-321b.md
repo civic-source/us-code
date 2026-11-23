@@ -3,12 +3,17 @@ title: "Section 321b - “Package” defined"
 usc_title: 21
 usc_section: "321b"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 321b"
-generated_at: "2026-03-30T02:54:54.217Z"
+generated_at: "2026-11-23T21:25:55.970Z"
+status: "active"
 ---
 
 # § 321b. “Package” defined
 
 The word “package” where it occurs the second and last time in the act entitled “An act to amend section 8 of an act entitled, ‘An act for preventing the manufacture, sale, or transportation of adulterated or misbranded or poisonous deleterious foods, drugs, medicines, and liquors, and for regulating traffic therein, and for other purposes,’ ” approved March 3, 1913 , shall include and shall be construed to include wrapped meats inclosed in papers or other materials as prepared by the manufacturers thereof for sale.
 
+
+## Source Credit
+
+*(July 24, 1919, ch. 26, [41 Stat. 271](https://www.govinfo.gov/link/statute/41/271).)*

@@ -3,9 +3,10 @@ title: "Section 2428 - Forfeitures"
 usc_title: 18
 usc_section: "2428"
 chapter: 117
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2428"
-generated_at: "2026-03-30T02:54:16.506Z"
+generated_at: "2026-11-23T21:25:44.156Z"
+status: "active"
 ---
 
 # § 2428. Forfeitures
@@ -18,3 +19,15 @@ generated_at: "2026-03-30T02:54:16.506Z"
     - **(A)** Any property, real or personal, used or intended to be used to commit or to facilitate the commission of any violation of this chapter.
     - **(B)** Any property, real or personal, that constitutes or is derived from proceeds traceable to any violation of this chapter.
   - **(2)** The provisions of chapter 46 of this title relating to civil forfeitures shall apply to any seizure or civil forfeiture under this subsection.
+
+In General
+
+Property Subject to Forfeiture.—
+
+In general
+
+Applicability of chapter 46
+
+## Source Credit
+
+*(Added [Pub. L. 109–164, title I, § 103(d)(1)](https://www.govinfo.gov/link/plaw/109/public/164), Jan. 10, 2006, [119 Stat. 3563](https://www.govinfo.gov/link/statute/119/3563).)*

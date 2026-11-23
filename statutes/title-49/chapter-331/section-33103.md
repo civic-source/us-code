@@ -3,9 +3,10 @@ title: "Section 33103 - Theft prevention standard for other lines"
 usc_title: 49
 usc_section: "33103"
 chapter: 331
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 33103"
-generated_at: "2026-03-30T02:56:19.368Z"
+generated_at: "2026-11-23T21:26:40.815Z"
+status: "active"
 ---
 
 # § 33103. Theft prevention standard for other lines
@@ -34,3 +35,68 @@ generated_at: "2026-03-30T02:56:19.368Z"
   - **(1)** decides with good cause that the earlier date is in the public interest; and
   - **(2)** publishes the reasons for the decision.
 - **(f)** The Secretary and the Attorney General shall inform the appropriate legislative committees of Congress with jurisdiction over this part and section 2322 of title 18 of actions taken or planned under this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 33103(a) | 15:2022(f)(1) (1st sentence). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 602(f); added Oct. 25, 1992 , Pub. L. 102–519, § 302(2) , 106 Stat. 3394 . |
+| 33103(b) | 15:2022(f)(2) (1st, 2d sentences), (3) (last sentence). |  |
+| 33103(c) | 15:2022(f)(3) (1st–3d sentences). |  |
+| 33103(d) | 15:2022(f)(4), (5). |  |
+| 33103(e) | 15:2022(c)(4). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 602(c)(4); added Oct. 25, 1984 , Pub. L. 98–547, § 101(a) , 98 Stat. 2756 . |
+|  | 15:2022(f)(1) (last sentence), (2) (last sentence). |  |
+| 33103(f) | 15:2022(f)(6). |  |
+
+
+General
+
+Extension of Application
+
+Initial Review of Effectiveness
+
+Long Range Review of Effectiveness
+
+Effective Date of Standard
+
+Notification of Congress
+
+Historical and Revision Notes
+
+33103(a)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Oct. 25, 1992
+
+Pub. L. 102–519, § 302(2)
+
+106 Stat. 3394
+
+33103(b)
+
+33103(c)
+
+33103(d)
+
+33103(e)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Oct. 25, 1984
+
+Pub. L. 98–547, § 101(a)
+
+98 Stat. 2756
+
+33103(f)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1078](https://www.govinfo.gov/link/statute/108/1078).)*

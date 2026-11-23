@@ -3,9 +3,10 @@ title: "Section 300t - Development grants for health systems agencies"
 usc_title: 42
 usc_section: "300t"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 300t"
-generated_at: "2026-03-30T02:56:10.808Z"
+generated_at: "2026-11-23T21:26:30.780Z"
+status: "active"
 ---
 
 # § 300t. Development grants for health systems agencies
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:10.808Z"
   - **(2)** The amount of any grant under subsection (a) to a health systems agency for any fiscal year may not exceed the product of $1 and the population of the health service area for which such agency is designated.
 - **(c)** No grant may be made under subsection (a) unless an application therefor has been submitted to, and approved by, the Secretary. Such an application shall be submitted in such form and manner and contain such information as the Secretary may require.
 - **(d)** For the purpose of making payments pursuant to grants under subsection (a), there are authorized to be appropriated $25,000,000 for the fiscal year ending June 30, 1975 , $75,000,000 for the fiscal year ending June 30, 1976 , $120,000,000 each for the fiscal years ending September 30, 1977 , and September 30, 1978 , $20,000,000 for the fiscal year ending September 30, 1981 , and $30,000,000 for the fiscal year ending September 30, 1982 .
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XVI, § 1640, as added [Pub. L. 93–641, § 4](https://www.govinfo.gov/link/plaw/93/public/641), Jan. 4, 1975, [88 Stat. 2273](https://www.govinfo.gov/link/statute/88/2273); amended [Pub. L. 95–83, title I, § 103(c)](https://www.govinfo.gov/link/plaw/95/public/83), Aug. 1, 1977, [91 Stat. 383](https://www.govinfo.gov/link/statute/91/383); [Pub. L. 96–79, title I, § 127(e)](https://www.govinfo.gov/link/plaw/96/public/79), Oct. 4, 1979, [93 Stat. 629](https://www.govinfo.gov/link/statute/93/629).)*

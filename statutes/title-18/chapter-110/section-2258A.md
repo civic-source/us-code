@@ -3,9 +3,10 @@ title: "Section 2258A - Reporting requirements of providers"
 usc_title: 18
 usc_section: "2258A"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2258A"
-generated_at: "2026-03-30T02:54:16.498Z"
+generated_at: "2026-11-23T21:25:44.127Z"
+status: "active"
 ---
 
 # § 2258A. Reporting requirements of providers
@@ -84,3 +85,95 @@ generated_at: "2026-03-30T02:54:16.498Z"
   - **(4)** Nothing in this section shall be construed as replacing, amending, or otherwise interfering with the authorities and duties under section 2703.
   - **(5)** A provider of a report to the CyberTipline under subsection (a)(1) may voluntarily preserve the contents provided in the report (including any comingled content described in paragraph (2)) for longer than 1 year after the submission to the CyberTipline for the purpose of reducing the proliferation of online child sexual exploitation or preventing the online sexual exploitation of children.
   - **(6)** Not later than 1 year after the date of enactment of this paragraph, a provider of a report to the CyberTipline under subsection (a)(1) shall preserve materials under this subsection in a manner that is consistent with the most recent version of the Cybersecurity Framework developed by the National Institute of Standards and Technology, or any successor thereto.
+
+Duty To Report.—
+
+In general.—
+
+Duty
+
+Actions described
+
+Facts or circumstances.—
+
+Apparent violations
+
+Imminent violations
+
+Contents of Report
+
+Information about the involved individual
+
+Historical reference
+
+Geographic location information
+
+Visual depictions of apparent child pornography
+
+Complete communication
+
+Forwarding of Report to Law Enforcement
+
+Attorney General Responsibilities.—
+
+In general
+
+Designation of federal agencies
+
+Designation of foreign agencies
+
+Reporting designated foreign agencies
+
+Notification to providers.—
+
+In general
+
+Information described
+
+Notification of inability to forward report
+
+Failure To Report
+
+Protection of Privacy
+
+Conditions of Disclosure Information Contained Within Report.—
+
+In general
+
+Permitted disclosures by law enforcement.—
+
+In general
+
+Limitation
+
+Permitted disclosures by NCMEC
+
+Permitted disclosure by a provider
+
+Preservation.—
+
+In general
+
+Preservation of commingled content
+
+Protection of preserved materials
+
+Authorities and duties not affected
+
+Extension of preservation
+
+Method of preservation
+
+In general
+
+Inclusion
+
+Limitations on further disclosure
+
+Effect
+
+the national center for missing and exploited children
+
+## Source Credit
+
+*(Added [Pub. L. 110–401, title V, § 501(a)](https://www.govinfo.gov/link/plaw/110/public/401), Oct. 13, 2008, [122 Stat. 4243](https://www.govinfo.gov/link/statute/122/4243); amended [Pub. L. 115–395, § 2](https://www.govinfo.gov/link/plaw/115/public/395), Dec. 21, 2018, [132 Stat. 5287](https://www.govinfo.gov/link/statute/132/5287); [Pub. L. 118–59](https://www.govinfo.gov/link/plaw/118/public/59), §§ 3, 4(a), May 7, 2024, [138 Stat. 1016](https://www.govinfo.gov/link/statute/138/1016); [Pub. L. 119–60, div. H, title LXXXII, § 8202(i)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1844](https://www.govinfo.gov/link/statute/139/1844).)*

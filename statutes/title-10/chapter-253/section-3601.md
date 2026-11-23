@@ -3,9 +3,10 @@ title: "Section 3601 - Procedures for urgent acquisition and deployment of capab
 usc_title: 10
 usc_section: "3601"
 chapter: 253
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3601"
-generated_at: "2026-03-30T02:53:38.193Z"
+generated_at: "2026-11-23T21:25:32.732Z"
+status: "active"
 ---
 
 # § 3601. Procedures for urgent acquisition and deployment of capabilities needed in response to urgent operational needs or vital national security interest
@@ -89,3 +90,105 @@ generated_at: "2026-03-30T02:53:38.193Z"
     - **(B)** A requirement to provide information about any deficiency of the capability in meeting the original requirements for the capability (as stated in a statement of the urgent operational need or similar document) to the deployment decision-making authority.
   - **(2)** The process prescribed under subsection (b)(2)(A) may not include a requirement for any deficiency of capability identified in the operational assessment to be the determining factor in deciding whether to deploy the capability.
   - **(3)** If a capability is deployed under the procedures prescribed pursuant to this section, or under any other authority, before operational test and evaluation of the capability is completed, the Director of Operational Test and Evaluation shall have access to operational records and data relevant to such capability in accordance with section 139(e)(3) of this title for the purpose of completing operational test and evaluation of the capability. Such access shall be provided in a time and manner determined by the Secretary of Defense consistent with requirements of operational security and other relevant operational requirements.
+
+Procedures.—
+
+In general
+
+Rapid acquisition pathway defined
+
+Matters to Be Included
+
+Response to Combat Emergencies and Certain Urgent Operational Needs.—
+
+Determination of need for urgent acquisition and deployment
+
+Designation of senior official responsible
+
+Use of funds
+
+Notification to congressional defense committees
+
+Limitation on officers with authority
+
+Authority to Waive Certain Laws and Regulations.—
+
+Authority
+
+Limitations
+
+Operational Assessments.—
+
+In general
+
+Limitation
+
+Director of operational test and evaluation access
+
+Authority
+
+Procedures
+
+Recommendation for Follow-on Production
+
+Sunset
+
+Inclusion in Annual Report
+
+Authorities
+
+Determination
+
+Additional Procedures.—
+
+In general
+
+Requirements to be included
+
+Funding
+
+Waiver authority
+
+Transition
+
+Submittal to congress
+
+Congressional Notification
+
+In General
+
+Special Authorities Described
+
+Determination
+
+Sunset
+
+Annual Report
+
+Authority to Establish Procedures
+
+Issues to Be Addressed
+
+Testing Requirement.—
+
+In general
+
+Deficiency not a determining factor
+
+Additional requirement in case of deficiency
+
+Limitation
+
+Annual Funding Limitation
+
+Relationship to Other Rapid Acquisition Authority
+
+Congressional Notifications.—
+
+Notification before procedures go into effect
+
+Notification after use of procedures
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. A, title VIII, § 804(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2696](https://www.govinfo.gov/link/statute/136/2696); amended [Pub. L. 118–31, div. A, title VIII, § 831](https://www.govinfo.gov/link/plaw/118/public/31), title XVIII, § 1801(a)(28), Dec. 22, 2023, [137 Stat. 336](https://www.govinfo.gov/link/statute/137/336), 684; [Pub. L. 118–159, div. A, title VIII, § 804(c)(1)](https://www.govinfo.gov/link/plaw/118/public/159), title XVII, § 1701(a)(37), Dec. 23, 2024, [138 Stat. 1968](https://www.govinfo.gov/link/statute/138/1968), 2205; [Pub. L. 119–60, div. A, title XVII, § 1701(a)(23)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1209](https://www.govinfo.gov/link/statute/139/1209).)*

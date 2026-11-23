@@ -3,9 +3,10 @@ title: "Section 932 - Art. 132. Retaliation"
 usc_title: 10
 usc_section: "932"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 932"
-generated_at: "2026-03-30T02:53:38.087Z"
+generated_at: "2026-11-23T21:25:32.354Z"
+status: "active"
 ---
 
 # § 932. Art. 132. Retaliation
@@ -22,3 +23,11 @@ generated_at: "2026-03-30T02:53:38.087Z"
   - **(2)** The term “Inspector General” has the meaning given that term in section 1034(j) of this title .
   - **(3)** The term “covered individual or organization” means any recipient of a communication specified in clauses (i) through (v) of section 1034(b)(1)(B) of this title .
   - **(4)** The term “unlawful discrimination” means discrimination on the basis of race, color, religion, sex, or national origin.
+
+In General
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. E, title LX, § 5450](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2957](https://www.govinfo.gov/link/statute/130/2957); amended [Pub. L. 115–91, div. A, title X, § 1081(c)(1)(Q)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1599](https://www.govinfo.gov/link/statute/131/1599).)*

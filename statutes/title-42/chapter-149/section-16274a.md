@@ -3,9 +3,10 @@ title: "Section 16274a - University Nuclear Leadership Program"
 usc_title: 42
 usc_section: "16274a"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16274a"
-generated_at: "2026-03-30T02:56:11.476Z"
+generated_at: "2026-11-23T21:26:33.714Z"
+status: "active"
 ---
 
 # § 16274a. University Nuclear Leadership Program
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:56:11.476Z"
 - **(e)** There are authorized to be appropriated to carry out the Program for each of fiscal years 2021 through 2025—
   - **(1)** $45,000,000 to the Secretary of Energy, of which $15,000,000 shall be for use by the Administrator of the National Nuclear Security Administration; and
   - **(2)** $15,000,000 to the Commission.
+
+## Source Credit
+
+*([Pub. L. 111–8, div. C, title III, § 313](https://www.govinfo.gov/link/plaw/111/public/8), Mar. 11, 2009, [123 Stat. 627](https://www.govinfo.gov/link/statute/123/627); [Pub. L. 116–260, div. Z, title II, § 2003(e)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2465](https://www.govinfo.gov/link/statute/134/2465); [Pub. L. 117–167, div. B, title VI, § 10745(b)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1721](https://www.govinfo.gov/link/statute/136/1721); [Pub. L. 118–67, div. B, title IV, § 402](https://www.govinfo.gov/link/plaw/118/public/67), July 9, 2024, [138 Stat. 1467](https://www.govinfo.gov/link/statute/138/1467).)*

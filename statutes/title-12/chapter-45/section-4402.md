@@ -3,9 +3,10 @@ title: "Section 4402 - Definitions"
 usc_title: 12
 usc_section: "4402"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4402"
-generated_at: "2026-03-30T02:53:53.504Z"
+generated_at: "2026-11-23T21:25:37.176Z"
+status: "active"
 ---
 
 # § 4402. Definitions
@@ -52,3 +53,7 @@ For purposes of this subchapter—
       - **(ii)** includes the rules of a clearing organization.
     - **(B)** The term “netting contract” does not include any contract or agreement that is invalid under or precluded by Federal law.
   - **(15)** The term “payment” means a payment of United States dollars, another currency, or a composite currency, and a noncash delivery, including a payment or delivery to liquidate an unmatured obligation.
+
+## Source Credit
+
+*([Pub. L. 102–242, title IV, § 402](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2372](https://www.govinfo.gov/link/statute/105/2372); [Pub. L. 102–550, title XVI, § 1606(a)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4087](https://www.govinfo.gov/link/statute/106/4087); [Pub. L. 106–554, § 1(a)(5) [title I, §§ 112(a)(2), 123(b)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–391, 2763A–411; [Pub. L. 109–8, title IX, § 906(a)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 167](https://www.govinfo.gov/link/statute/119/167).)*

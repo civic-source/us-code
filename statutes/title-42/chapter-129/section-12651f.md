@@ -3,9 +3,10 @@ title: "Section 12651f - Employees, consultants, and other personnel"
 usc_title: 42
 usc_section: "12651f"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12651f"
-generated_at: "2026-03-30T02:56:11.424Z"
+generated_at: "2026-11-23T21:26:33.521Z"
+status: "active"
 ---
 
 # § 12651f. Employees, consultants, and other personnel
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:11.424Z"
       - **(ii)** the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
     - **(B)** If a member of the staff appointed under subparagraph (A) was appointed without regard to the provisions described in clauses (i) and (ii) of subparagraph (A), the rate of compensation for such member may not exceed the maximum rate of basic pay payable for GS–13 of the General Schedule under section 5332 of title 5 .
 - **(g)** The Corporation may enter into personal services contracts to carry out research, evaluation, and public awareness related to the national service laws.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 195](https://www.govinfo.gov/link/plaw/101/public/610), as added and amended [Pub. L. 103–82, title II](https://www.govinfo.gov/link/plaw/103/public/82), §§ 202(a), 203(a)(1)(B), Sept. 21, 1993, [107 Stat. 883](https://www.govinfo.gov/link/statute/107/883), 891; [Pub. L. 111–13, title I, § 1706](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1547](https://www.govinfo.gov/link/statute/123/1547); [Pub. L. 117–286, § 4(b)(88)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4352](https://www.govinfo.gov/link/statute/136/4352).)*

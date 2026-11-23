@@ -3,9 +3,10 @@ title: "Section 1367 - Adjustments to basis of stock of shareholders, etc."
 usc_title: 26
 usc_section: "1367"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1367"
-generated_at: "2026-03-30T02:55:27.770Z"
+generated_at: "2026-11-23T21:26:06.498Z"
+status: "active"
 ---
 
 # § 1367. Adjustments to basis of stock of shareholders, etc.
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:27.770Z"
   - **(4)**
     - **(A)** If any person acquires stock in an S corporation by reason of the death of a decedent or by bequest, devise, or inheritance, section 691 shall be applied with respect to any item of income of the S corporation in the same manner as if the decedent had held directly his pro rata share of such item.
     - **(B)** The basis determined under section 1014 of any stock in an S corporation shall be reduced by the portion of the value of the stock which is attributable to items constituting income in respect of the decedent.
+
+## Source Credit
+
+*(Added [Pub. L. 97–354, § 2](https://www.govinfo.gov/link/plaw/97/public/354), Oct. 19, 1982, [96 Stat. 1679](https://www.govinfo.gov/link/statute/96/1679); amended [Pub. L. 98–369, div. A, title VII](https://www.govinfo.gov/link/plaw/98/public/369), §§ 721(d), (w), 722(e)(2), July 18, 1984, [98 Stat. 967](https://www.govinfo.gov/link/statute/98/967), 971, 974; [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1313(a), 1702(h)(14), Aug. 20, 1996, [110 Stat. 1785](https://www.govinfo.gov/link/statute/110/1785), 1874; [Pub. L. 109–280, title XII, § 1203(a)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1066](https://www.govinfo.gov/link/statute/120/1066); [Pub. L. 110–343, div. C, title III, § 307(a)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3869](https://www.govinfo.gov/link/statute/122/3869); [Pub. L. 111–312, title VII, § 752(a)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3321](https://www.govinfo.gov/link/statute/124/3321); [Pub. L. 112–240, title III, § 325(a)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2333](https://www.govinfo.gov/link/statute/126/2333); [Pub. L. 113–295, div. A, title I, § 137(a)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4019](https://www.govinfo.gov/link/statute/128/4019); [Pub. L. 114–113, div. Q, title I, § 115(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3049](https://www.govinfo.gov/link/statute/129/3049).)*

@@ -3,9 +3,10 @@ title: "Section 10109 - Office of Audit, Assessment, and Management"
 usc_title: 34
 usc_section: "10109"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10109"
-generated_at: "2026-03-30T02:55:33.259Z"
+generated_at: "2026-11-23T21:26:09.617Z"
+status: "active"
 ---
 
 # § 10109. Office of Audit, Assessment, and Management
@@ -27,3 +28,11 @@ generated_at: "2026-03-30T02:55:33.259Z"
 - **(d)** The Director shall take such actions to ensure compliance with the terms of a grant as the Director considers appropriate with respect to each grant that the Director determines (in consultation with the head of the element of the Department of Justice concerned), through a program assessment under subsection (a) or other means, is not in compliance with such terms. In the case of a misuse of more than 1 percent of the grant amount concerned, the Director shall, in addition to any other action to ensure compliance that the Director considers appropriate, ensure that the entity responsible for such misuse ceases to receive any funds under any program covered by subsection (b) until such entity repays to the Attorney General an amount equal to the amounts misused. The Director may, in unusual circumstances, grant relief from this requirement to ensure that an innocent party is not punished.
 - **(e)** The Director shall establish and maintain, in consultation with the chief information officer of the Office, a modern, automated system for managing all information relating to the grants made under the programs covered by subsection (b).
 - **(f)** Not to exceed 3 percent of all funding made available for a fiscal year for the programs covered by subsection (b) shall be reserved for the Office of Audit, Assessment and Management for the activities authorized by this section.
+
+In general
+
+Certain provisions
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 109](https://www.govinfo.gov/link/plaw/90/public/351), formerly § 105, as added [Pub. L. 109–162, title XI, § 1158(a)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3114](https://www.govinfo.gov/link/statute/119/3114); renumbered § 109, [Pub. L. 109–271, § 8(e)](https://www.govinfo.gov/link/plaw/109/public/271), Aug. 12, 2006, [120 Stat. 766](https://www.govinfo.gov/link/statute/120/766).)*

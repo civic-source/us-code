@@ -3,9 +3,10 @@ title: "Section 6861 - National professional development project"
 usc_title: 20
 usc_section: "6861"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6861"
-generated_at: "2026-03-30T02:54:48.204Z"
+generated_at: "2026-11-23T21:25:47.540Z"
+status: "active"
 ---
 
 # § 6861. National professional development project
@@ -18,3 +19,7 @@ The Secretary shall use funds made available under section 6821(c)(1)(C) of this
   - **(4)** to develop, share, and disseminate effective practices in the instruction of English learners and in increasing the student academic achievement of English learners, such as through the use of technology-based programs;
   - **(5)** in conjunction with other Federal need-based student financial assistance programs, for financial assistance, and costs related to tuition, fees, and books for enrolling in courses required to complete the degree involved, to meet certification or licensing requirements for teachers who work in language instruction educational programs or serve English learners; and
   - **(6)** as appropriate, to support strategies that promote school readiness of English learners and their transition from early childhood education programs, such as Head Start or State-run preschool programs, to elementary school programs.
+
+## Source Credit
+
+*([Pub. L. 89–10, title III, § 3131](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title III, § 301](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1706](https://www.govinfo.gov/link/statute/115/1706); amended [Pub. L. 114–95, title III, § 3003(m)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1964](https://www.govinfo.gov/link/statute/129/1964).)*

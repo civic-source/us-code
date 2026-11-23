@@ -3,9 +3,10 @@ title: "Section 9820 - Protecting patients and improving the accuracy of provide
 usc_title: 26
 usc_section: "9820"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 9820"
-generated_at: "2026-03-30T02:55:27.898Z"
+generated_at: "2026-11-23T21:26:07.049Z"
+status: "active"
 ---
 
 # § 9820. Protecting patients and improving the accuracy of provider directory information
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:55:27.898Z"
     - **(B)** if provided for under applicable State law, any other requirements on providers and facilities regarding the amounts such providers and facilities may, with respect to an item or service, charge a participant or beneficiary of such plan with respect to which such a provider or facility does not have a contractual relationship for furnishing such item or service under the plan after receiving payment from the plan for such item or service and any applicable cost sharing payment from such participant or beneficiary; and
     - **(C)** the requirements applied under section 9816; and
   - **(2)** information on contacting appropriate State and Federal agencies in the case that an individual believes that such a provider or facility has violated any requirement described in paragraph (1) with respect to such individual.
+
+## Source Credit
+
+*(Added [Pub. L. 116–260, div. BB, title I, § 116(c)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2884](https://www.govinfo.gov/link/statute/134/2884).)*

@@ -3,9 +3,10 @@ title: "Section 4507 - Definitions"
 usc_title: 15
 usc_section: "4507"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4507"
-generated_at: "2026-03-30T02:54:08.199Z"
+generated_at: "2026-11-23T21:25:39.995Z"
+status: "active"
 ---
 
 # § 4507. Definitions
@@ -21,3 +22,7 @@ For purposes of this chapter:
     - **(D)** the program under the National Energy Extension Service Act ( 42 U.S.C. 7001 and following).
   - **(4)** The term “person” includes refiners, retailers, resellers, farmer cooperatives, transportation entities, public and private utilities, school districts, Federal, State, and local governmental entities, farmers, and other individuals and their successors.
   - **(5)** The term “State” means each of the several States, the District of Columbia, the commonwealth of Puerto Rico, and any territory or possession of the United States.
+
+## Source Credit
+
+*([Pub. L. 99–509, title III, § 3008](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1887](https://www.govinfo.gov/link/statute/100/1887).)*

@@ -3,9 +3,10 @@ title: "Section 5923 - Quarters allowances"
 usc_title: 5
 usc_section: "5923"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5923"
-generated_at: "2026-03-30T02:52:56.028Z"
+generated_at: "2026-11-23T21:25:23.303Z"
+status: "active"
 ---
 
 # § 5923. Quarters allowances
@@ -19,3 +20,22 @@ generated_at: "2026-03-30T02:52:56.028Z"
     - **(A)** the expenses are administratively approved in advance; and
     - **(B)** the duration and terms of the lease justify payment of the expenses by the Government.
 - **(b)** The 90-day period under subsection (a)(1)(A) and the 30-day period under subsection (a)(1)(B) may each be extended for not more than 60 additional days if the head of the agency concerned or his designee determines that there are compelling reasons beyond the control of the employee for the continued occupancy of temporary quarters.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 3036 . | Sept. 6, 1960 , Pub. L. 86–707, § 211 , 74 Stat. 793 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 3036
+
+Sept. 6, 1960
+
+Pub. L. 86–707, § 211
+
+74 Stat. 793
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 511](https://www.govinfo.gov/link/statute/80/511); [Pub. L. 97–258, § 3(a)(15)](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1063](https://www.govinfo.gov/link/statute/96/1063); [Pub. L. 102–138, title I, § 147(d)](https://www.govinfo.gov/link/plaw/102/public/138), Oct. 28, 1991, [105 Stat. 669](https://www.govinfo.gov/link/statute/105/669).)*

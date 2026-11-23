@@ -3,9 +3,10 @@ title: "Section 269A - Personal service corporations formed or availed of to avo
 usc_title: 26
 usc_section: "269A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 269A"
-generated_at: "2026-03-30T02:55:27.659Z"
+generated_at: "2026-11-23T21:26:06.117Z"
+status: "active"
 ---
 
 # § 269A. Personal service corporations formed or availed of to avoid or evade income tax
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:27.659Z"
   - **(1)** The term “personal service corporation” means a corporation the principal activity of which is the performance of personal services and such services are substantially performed by employee-owners.
   - **(2)** The term “employee-owner” means any employee who owns, on any day during the taxable year, more than 10 percent of the outstanding stock of the personal service corporation. For purposes of the preceding sentence, section 318 shall apply, except that “5 percent” shall be substituted for “50 percent” in section 318(a)(2)(C).
   - **(3)** All related persons (within the meaning of section 144(a)(3)) shall be treated as 1 entity.
+
+## Source Credit
+
+*(Added [Pub. L. 97–248, title II, § 250(a)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 528](https://www.govinfo.gov/link/statute/96/528); amended [Pub. L. 99–514, title XIII, § 1301(j)(4)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2657](https://www.govinfo.gov/link/statute/100/2657).)*

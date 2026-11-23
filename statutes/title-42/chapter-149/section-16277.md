@@ -3,9 +3,10 @@ title: "Section 16277 - High-performance computation and supportive research"
 usc_title: 42
 usc_section: "16277"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16277"
-generated_at: "2026-03-30T02:56:11.476Z"
+generated_at: "2026-11-23T21:26:33.715Z"
+status: "active"
 ---
 
 # § 16277. High-performance computation and supportive research
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.476Z"
 - **(d)** The Secretary shall ensure the coordination of, and avoid unnecessary duplication of, the activities of the program under subsection (a) with the activities of—
   - **(1)** other research entities of the Department, including the National Laboratories, the Advanced Research Projects Agency–Energy, and the Advanced Scientific Computing Research program; and
   - **(2)** industry.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 957](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 888](https://www.govinfo.gov/link/statute/119/888); [Pub. L. 115–248, § 2(g)](https://www.govinfo.gov/link/plaw/115/public/248), Sept. 28, 2018, [132 Stat. 3157](https://www.govinfo.gov/link/statute/132/3157); [Pub. L. 116–260, div. Z, title II, § 2004](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2470](https://www.govinfo.gov/link/statute/134/2470).)*

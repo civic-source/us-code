@@ -3,9 +3,10 @@ title: "Section 6033 - Prohibition against indirect financing of Cuba"
 usc_title: 22
 usc_section: "6033"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6033"
-generated_at: "2026-03-30T02:55:05.422Z"
+generated_at: "2026-11-23T21:25:58.675Z"
+status: "active"
 ---
 
 # § 6033. Prohibition against indirect financing of Cuba
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.422Z"
 - **(d)** As used in this section—
   - **(1)** the term “permanent resident alien” means an alien lawfully admitted for permanent residence into the United States; and
   - **(2)** the term “United States agency” has the meaning given the term “agency” in section 551(1) of title 5 .
+
+## Source Credit
+
+*([Pub. L. 104–114, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/114), Mar. 12, 1996, [110 Stat. 794](https://www.govinfo.gov/link/statute/110/794).)*

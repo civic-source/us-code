@@ -3,9 +3,10 @@ title: "Section 8141 - Civil Air Patrol volunteers"
 usc_title: 5
 usc_section: "8141"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8141"
-generated_at: "2026-03-30T02:52:56.042Z"
+generated_at: "2026-11-23T21:25:23.358Z"
+status: "active"
 ---
 
 # § 8141. Civil Air Patrol volunteers
@@ -21,3 +22,20 @@ generated_at: "2026-03-30T02:52:56.042Z"
   - **(4)** “performance of duty” means only active service, and travel to and from that service, rendered in performance or support of operational missions of the Civil Air Patrol under direction of the Department of the Air Force and under written authorization by competent authority covering a specific assignment and prescribing a time limit for the assignment; and
   - **(5)** the Secretary of Labor or his designee shall inform the Commissioner of Social Security when a claim is filed and eligibility for compensation is established under section 8133(a)(2) or (3) of this title, and the Commissioner of Social Security shall certify to the Secretary of Labor as to whether or not the member concerned was fully or currently insured under subchapter II of chapter 7 of title 42 at the time of his death.
 - **(c)** The Secretary of Labor or his designee may inform the Secretary of the Air Force or his designee when a claim is filed. The Secretary of the Air Force, on request of the Secretary of Labor, shall advise him of the facts concerning the injury and whether or not the member was rendering service, or engaged in travel to or from service, in performance or support of an operational mission of the Civil Air Patrol at the time of injury. This subsection does not dispense with the report of the immediate superior of the member required by section 8120 of this title , or other reports agreed on under that section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 803 (less (d)). | Aug. 3, 1956, ch. 926, § 1 “Sec. 3 (less (d))”, 70 Stat. 980 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 803
+
+Aug. 3, 1956, ch. 926, § 1
+
+70 Stat. 980
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 551](https://www.govinfo.gov/link/statute/80/551); [Pub. L. 98–94, title XII, § 1258(a)](https://www.govinfo.gov/link/plaw/98/public/94), Sept. 24, 1983, [97 Stat. 702](https://www.govinfo.gov/link/statute/97/702); [Pub. L. 103–296, title I, § 108(e)(4)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1486](https://www.govinfo.gov/link/statute/108/1486).)*

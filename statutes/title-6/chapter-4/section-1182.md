@@ -3,9 +3,10 @@ title: "Section 1182 - Over-the-road bus security assistance"
 usc_title: 6
 usc_section: "1182"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1182"
-generated_at: "2026-03-30T02:53:09.508Z"
+generated_at: "2026-11-23T21:25:25.875Z"
+status: "active"
 ---
 
 # § 1182. Over-the-road bus security assistance
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:53:09.508Z"
     - **(C)** $25,000,000 for fiscal year 2010; and
     - **(D)** $25,000,000 for fiscal year 2011.
   - **(2)** Sums appropriated to carry out this section shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XV, § 1532](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 457](https://www.govinfo.gov/link/statute/121/457).)*

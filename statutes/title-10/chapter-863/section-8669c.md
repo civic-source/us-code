@@ -3,9 +3,10 @@ title: "Section 8669c - Assessments required prior to start of construction on f
 usc_title: 10
 usc_section: "8669c"
 chapter: 863
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 8669c"
-generated_at: "2026-03-30T02:53:38.247Z"
+generated_at: "2026-11-23T21:25:32.938Z"
+status: "active"
 ---
 
 # § 8669c. Assessments required prior to start of construction on first ship of a shipbuilding program
@@ -40,3 +41,27 @@ generated_at: "2026-03-30T02:53:38.247Z"
     - **(B)** the shipyard at which the ship is to be constructed has not previously started construction on a ship under that shipbuilding program.
   - **(3)** The term “major shipbuilding program” means a program for the construction of combatant and support vessels required for the naval vessel force, as reported within the annual naval vessel construction plan required by section 231 of this title .
   - **(4)** The term “production readiness review” means a formal examination of a program prior to the start of construction to determine if the design is ready for production, production engineering problems have been resolved, and the producer has accomplished adequate planning for the production phase.
+
+In General
+
+Report
+
+Definitions
+
+Basic and functional design
+
+First ship
+
+Major shipbuilding program
+
+Production readiness review
+
+In General
+
+Report
+
+Basic and Functional Design
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. A, title X, § 1013(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1892](https://www.govinfo.gov/link/statute/135/1892); amended [Pub. L. 118–159, div. A, title X, § 1024](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2053](https://www.govinfo.gov/link/statute/138/2053).)*

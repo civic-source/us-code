@@ -3,9 +3,10 @@ title: "Section 3968 - Local compensation plans"
 usc_title: 22
 usc_section: "3968"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3968"
-generated_at: "2026-03-30T02:55:05.400Z"
+generated_at: "2026-11-23T21:25:58.604Z"
+status: "active"
 ---
 
 # § 3968. Local compensation plans
@@ -21,3 +22,9 @@ generated_at: "2026-03-30T02:55:05.400Z"
     - **(C)** Any such transfer shall void any annuity rights or entitlement to lump-sum credit under subchapter III of chapter 83 of such title.
 - **(b)** For the purpose of performing functions abroad, any agency or other Government establishment (including any establishment in the legislative or judicial branch) may administer employment programs for its employees who are foreign nationals, are United States citizens employed in the Service abroad who were hired while residing abroad, or are family members of Government employees assigned abroad, in accordance with the applicable provisions of this chapter.
 - **(c)** The Secretary of State may prescribe regulations governing the establishment and administration of local compensation plans under this section by all agencies and other Government establishments.
+
+“It is the sense of the Congress that the Secretary of State should—
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 408](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2090](https://www.govinfo.gov/link/statute/94/2090); [Pub. L. 98–164, title I, § 127(a)](https://www.govinfo.gov/link/plaw/98/public/164), Nov. 22, 1983, [97 Stat. 1026](https://www.govinfo.gov/link/statute/97/1026); [Pub. L. 101–246, title I, § 141(a)](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 35](https://www.govinfo.gov/link/statute/104/35); [Pub. L. 102–138, title I](https://www.govinfo.gov/link/plaw/102/public/138), §§ 148, 152, Oct. 28, 1991, [105 Stat. 670](https://www.govinfo.gov/link/statute/105/670), 672; [Pub. L. 103–236, title I, § 180(a)(4)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 415](https://www.govinfo.gov/link/statute/108/415); [Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 322]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–436; [Pub. L. 107–228, div. A, title III, § 313](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1378](https://www.govinfo.gov/link/statute/116/1378).)*

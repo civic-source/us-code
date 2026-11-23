@@ -3,9 +3,10 @@ title: "Section 772 - Training"
 usc_title: 29
 usc_section: "772"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 772"
-generated_at: "2026-03-30T02:55:18.696Z"
+generated_at: "2026-11-23T21:26:02.208Z"
+status: "active"
 ---
 
 # § 772. Training
@@ -78,3 +79,7 @@ generated_at: "2026-03-30T02:55:18.696Z"
   - **(2)** An expert or consultant appointed or serving under contract pursuant to this section shall be compensated at a rate, subject to approval of the Commissioner, that shall not exceed the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382 of title 5 . Such an expert or consultant may be allowed travel and transportation expenses in accordance with section 5703 of title 5 .
 - **(h)** The Commissioner, subject to the provisions of section 776 of this title , may require that recipients of grants or contracts under this section provide information, including data, with regard to the impact of activities funded under this section.
 - **(i)** There are authorized to be appropriated to carry out this section $33,657,000 for fiscal year 2015, $36,257,000 for fiscal year 2016, $37,009,000 for fiscal year 2017, $37,830,000 for fiscal year 2018, $38,719,000 for fiscal year 2019, and $39,540,000 for fiscal year 2020.
+
+## Source Credit
+
+*([Pub. L. 93–112, title III, § 302](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 105–220, title IV, § 406](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1184](https://www.govinfo.gov/link/statute/112/1184); amended [Pub. L. 108–446, title III, § 305(h)(4)](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2805](https://www.govinfo.gov/link/statute/118/2805); [Pub. L. 113–128, title IV, § 441(b)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1672](https://www.govinfo.gov/link/statute/128/1672).)*

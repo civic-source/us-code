@@ -3,9 +3,10 @@ title: "Section 431 - Benefits for certain individuals interned by United States
 usc_title: 42
 usc_section: "431"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 431"
-generated_at: "2026-03-30T02:56:10.867Z"
+generated_at: "2026-11-23T21:26:31.058Z"
+status: "active"
 ---
 
 # § 431. Benefits for certain individuals interned by United States during World War II
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:10.867Z"
   - **(3)** Upon application for benefits, a recalculation of benefits (by reason of this section), or a lump-sum death payment on the basis of the wages and self-employment income of any individual who was an internee, the Commissioner of Social Security shall accept the certification of the Secretary of Defense or his designee concerning any period of time for which an internee is to receive credit under paragraph (1) and shall make a decision without regard to clause (B) of paragraph (2) of this subsection unless the Commissioner has been notified by some other agency or instrumentality of the United States that, on the basis of the period for which such individual was an internee, a benefit described in clause (B) of paragraph (2) has been determined by such agency or instrumentality to be payable by it. If the Commissioner of Social Security has not been so notified, the Commissioner shall then ascertain whether some other agency or wholly owned instrumentality of the United States has decided that a benefit described in clause (B) of paragraph (2) is payable by it. If any such agency or instrumentality has decided, or thereafter decides, that such a benefit is payable by it, it shall so notify the Commissioner of Social Security, and the Commissioner of Social Security shall certify no further benefits for payment or shall recompute the amount of any further benefits payable, as may be required by this section.
   - **(4)** Any agency or wholly owned instrumentality of the United States which is authorized by any law of the United States to pay benefits, or has a system of benefits which are based, in whole or in part, on any period for which any individual was an internee shall, at the request of the Commissioner of Social Security, certify to the Commissioner, with respect to any individual who was an internee, such information as the Commissioner of Social Security deems necessary to carry out the Commissioner’s functions under paragraph (3) of this subsection.
 - **(c)** There are authorized to be appropriated to the Trust Funds and the Federal Hospital Insurance Trust Fund for the fiscal year ending June 30, 1978 , such sums as the Commissioner of Social Security and the Secretary jointly determine would place the Trust Funds and the Federal Hospital Insurance Trust Fund in the position in which they would have been if the preceding provisions of this section had not been enacted.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title II, § 231, as added [Pub. L. 92–603, title I, § 142(a)](https://www.govinfo.gov/link/plaw/92/public/603), Oct. 30, 1972, [86 Stat. 1367](https://www.govinfo.gov/link/statute/86/1367); amended [Pub. L. 98–369, div. B, title VI, § 2663(j)(2)(A)(iii)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1170](https://www.govinfo.gov/link/statute/98/1170); [Pub. L. 103–296, title I, § 107(a)(1)](https://www.govinfo.gov/link/plaw/103/public/296), (4), (c), Aug. 15, 1994, [108 Stat. 1477](https://www.govinfo.gov/link/statute/108/1477), 1478, 1481.)*

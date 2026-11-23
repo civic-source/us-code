@@ -3,12 +3,17 @@ title: "Section 241d - Exclusion of lands"
 usc_title: 16
 usc_section: "241d"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 241d"
-generated_at: "2026-03-30T02:54:22.744Z"
+generated_at: "2026-11-23T21:25:51.398Z"
+status: "active"
 ---
 
 # § 241d. Exclusion of lands
 
 The following area is excluded from the park: That portion of section 8 lying southwest of a line between the common corner of sections 8, 9, 16, and 17 and the northwest corner of the southwest quarter section 8; that portion of section 16 lying southwest of a line between the southeast corner southwest quarter and the northwest corner southwest quarter section 16; and section 17, township 147 north, range 100 west, fifth principal meridian, North Dakota.
 
+
+## Source Credit
+
+*(Mar. 24, 1956, ch. 94, § 2, [70 Stat. 56](https://www.govinfo.gov/link/statute/70/56).)*

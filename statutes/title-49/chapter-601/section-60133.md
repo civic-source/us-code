@@ -3,9 +3,10 @@ title: "Section 60133 - Coordination of environmental reviews"
 usc_title: 49
 usc_section: "60133"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 60133"
-generated_at: "2026-03-30T02:56:19.416Z"
+generated_at: "2026-11-23T21:26:41.033Z"
+status: "active"
 ---
 
 # § 60133. Coordination of environmental reviews
@@ -36,3 +37,33 @@ generated_at: "2026-03-30T02:56:19.416Z"
     - **(C)** the proposed alternative mitigation measures are not incompatible with pipeline safety.
 - **(e)** The Secretary shall designate an ombudsman to assist in expediting pipeline repairs and resolving disagreements between Federal, State, and local permitting agencies and the pipeline operator during agency review of any pipeline repair activity, consistent with protection of human health, public safety, and the environment.
 - **(f)** The Secretary shall encourage States and local governments to consolidate their respective permitting processes for pipeline repair projects subject to any time periods for repair specified by rule by the Secretary. The Secretary may request other relevant Federal agencies to provide technical assistance to States and local governments for the purpose of encouraging such consolidation.
+
+Interagency Committee.—
+
+Establishment and purpose
+
+Membership
+
+Evaluation
+
+Memorandum of understanding
+
+State and local consultation
+
+Implementation
+
+Savings Provisions; No Preemption
+
+Interim Operational Alternatives.—
+
+In general
+
+Limitations
+
+Ombudsman
+
+State and Local Permitting Processes
+
+## Source Credit
+
+*(Added [Pub. L. 107–355, § 16(a)](https://www.govinfo.gov/link/plaw/107/public/355), Dec. 17, 2002, [116 Stat. 3006](https://www.govinfo.gov/link/statute/116/3006).)*

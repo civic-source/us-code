@@ -3,9 +3,10 @@ title: "Section 8550 - Improvements to Cooperative Observer Program of National 
 usc_title: 15
 usc_section: "8550"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8550"
-generated_at: "2026-03-30T02:54:08.232Z"
+generated_at: "2026-11-23T21:25:40.090Z"
+status: "active"
 ---
 
 # § 8550. Improvements to Cooperative Observer Program of National Weather Service
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.232Z"
   - **(6)** ensuring that integrated reporting is available for qualitative observations that cannot be automated, such as drought conditions, snow observations, and hazardous weather events, to ensure that volunteers in the Program can report and upload observations quickly and easily.
 - **(b)** Not less frequently than every 180 days, the National Weather Service shall coordinate with State and regional offices with respect to the status of Cooperative Observer Program stations.
 - **(c)** The National Weather Service shall coordinate with other Federal agencies, including the Forest Service, the Department of Agriculture, and the United States Geological Survey, to leverage opportunities to grow the Cooperative Observer Program network and to more effectively use existing infrastructure, weather stations, and staff of the Program.
+
+## Source Credit
+
+*([Pub. L. 115–423, § 8](https://www.govinfo.gov/link/plaw/115/public/423), Jan. 7, 2019, [132 Stat. 5461](https://www.govinfo.gov/link/statute/132/5461).)*

@@ -3,9 +3,10 @@ title: "Section 5325 - Enhanced supervision and prudential standards for nonbank
 usc_title: 12
 usc_section: "5325"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5325"
-generated_at: "2026-03-30T02:53:53.529Z"
+generated_at: "2026-11-23T21:25:37.239Z"
+status: "active"
 ---
 
 # § 5325. Enhanced supervision and prudential standards for nonbank financial companies supervised by the Board of Governors and certain bank holding companies
@@ -64,3 +65,7 @@ generated_at: "2026-03-30T02:53:53.529Z"
 - **(e)** In order to limit the risks that the failure of any individual company could pose to nonbank financial companies supervised by the Board of Governors or bank holding companies described in subsection (a), the Council may make recommendations to the Board of Governors to prescribe standards to limit such risks, as set forth in section 5365 of this title .
 - **(f)** The Council may make recommendations to the Board of Governors to require periodic public disclosures by bank holding companies described in subsection (a) and by nonbank financial companies supervised by the Board of Governors, in order to support market evaluation of the risk profile, capital adequacy, and risk management capabilities thereof.
 - **(g)** The Council may make recommendations to the Board of Governors to require short-term debt limits to mitigate the risks that an over-accumulation of such debt could pose to bank holding companies described in subsection (a), nonbank financial companies supervised by the Board of Governors, or the financial system.
+
+## Source Credit
+
+*([Pub. L. 111–203, title I, § 115](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1403](https://www.govinfo.gov/link/statute/124/1403); [Pub. L. 115–174, title IV, § 401(c)(1)(A)](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1358](https://www.govinfo.gov/link/statute/132/1358).)*

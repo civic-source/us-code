@@ -3,9 +3,10 @@ title: "Section 8801 - Definitions"
 usc_title: 15
 usc_section: "8801"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8801"
-generated_at: "2026-03-30T02:54:08.234Z"
+generated_at: "2026-11-23T21:25:40.095Z"
+status: "active"
 ---
 
 # § 8801. Definitions
@@ -24,3 +25,7 @@ In this chapter:
   - **(7)** The term “quantum network infrastructure” means any facility, expertise, or capability that is necessary to enable the development and deployment of scalable and diverse quantum network technologies.
   - **(8)** The term “Subcommittee on Economic and Security Implications” means the Subcommittee on the Economic and Security Implications of Quantum Information Science established under section 8814a(a) of this title .
   - **(8)** The term “Subcommittee on Quantum Information Science” means the Subcommittee on Quantum Information Science of the National Science and Technology Council established under section 8813(a) of this title .
+
+## Source Credit
+
+*([Pub. L. 115–368, § 2](https://www.govinfo.gov/link/plaw/115/public/368), Dec. 21, 2018, [132 Stat. 5092](https://www.govinfo.gov/link/statute/132/5092); [Pub. L. 117–81, div. F, title LXVI, § 6606(c)(1)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2443](https://www.govinfo.gov/link/statute/135/2443); [Pub. L. 117–167, div. B, title I, § 10104(b)(1)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1437](https://www.govinfo.gov/link/statute/136/1437).)*

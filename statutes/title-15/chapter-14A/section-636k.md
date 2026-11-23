@@ -3,9 +3,10 @@ title: "Section 636k - Reports on disaster assistance"
 usc_title: 15
 usc_section: "636k"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 636k"
-generated_at: "2026-03-30T02:54:08.092Z"
+generated_at: "2026-11-23T21:25:39.661Z"
+status: "active"
 ---
 
 # § 636k. Reports on disaster assistance
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:54:08.092Z"
       - **(v)** legislative changes, if any, needed to implement findings from the Accelerated Disaster Response Initiative of the Administration; and
       - **(vi)** a description of how the Administration plans to integrate and coordinate the response to a major disaster with the technical assistance programs of the Administration; and
     - **(B)** the plans of the Administrator for implementing any recommendation made under subparagraph (A).
+
+## Source Credit
+
+*([Pub. L. 110–234, title XII, § 12091](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1423](https://www.govinfo.gov/link/statute/122/1423); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XII, § 12091, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2185.)*

@@ -3,9 +3,10 @@ title: "Section 78ggg - SEC functions"
 usc_title: 15
 usc_section: "78ggg"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 78ggg"
-generated_at: "2026-03-30T02:54:08.063Z"
+generated_at: "2026-11-23T21:25:39.579Z"
+status: "active"
 ---
 
 # § 78ggg. SEC functions
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.063Z"
 - **(c)**
   - **(1)** The Commission may make such examinations and inspections of SIPC and require SIPC to furnish it with such reports and rec­ords or copies thereof as the Commission may consider necessary or appropriate in the public interest or to effectuate the purposes of this chapter.
   - **(2)** As soon as practicable after the close of each fiscal year, SIPC shall submit to the Commission a written report relative to the conduct of its business, and the exercise of the other rights and powers granted by this chapter, during such fiscal year. Such report shall include financial statements setting forth the financial position of SIPC at the end of such fiscal year and the results of its operations (including the source and application of its funds) for such fiscal year. The financial statements so included shall be examined by an independent public accountant or firm of independent public accountants, selected by SIPC and satisfactory to the Commission, and shall be accompanied by the report thereon of such accountant or firm. The Commission shall transmit such report to the President and the Congress with such comment thereon as the Commission may deem appropriate.
+
+## Source Credit
+
+*([Pub. L. 91–598, § 11](https://www.govinfo.gov/link/plaw/91/public/598), formerly § 7, Dec. 30, 1970, [84 Stat. 1652](https://www.govinfo.gov/link/statute/84/1652), 1653; renumbered § 11 and amended [Pub. L. 95–283](https://www.govinfo.gov/link/plaw/95/public/283), §§ 9, 10, May 21, 1978, [92 Stat. 260](https://www.govinfo.gov/link/statute/92/260), 268.)*

@@ -3,9 +3,10 @@ title: "Section 9704 - Powers of the Commission"
 usc_title: 20
 usc_section: "9704"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9704"
-generated_at: "2026-03-30T02:54:48.232Z"
+generated_at: "2026-11-23T21:25:47.676Z"
+status: "active"
 ---
 
 # § 9704. Powers of the Commission
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:48.232Z"
 - **(b)** The Commission may secure directly from any Federal department or agency such information as the Commission considers necessary to carry out this chapter. Upon request of the Chairperson, the head of such department or agency shall furnish such information to the Commission.
 - **(c)** The Commission may conduct periodic studies regarding the state of financial literacy and education in the United States, as the Commission determines appropriate.
 - **(d)** The Commission may take any action to develop and promote financial literacy and education materials in languages other than English, as the Commission deems appropriate, including for the website established under section 9703(b) of this title , at the toll-free number established under section 9703(c) of this title , and in the materials developed and disseminated under section 9703(d) of this title .
+
+## Source Credit
+
+*([Pub. L. 108–159, title V, § 515](https://www.govinfo.gov/link/plaw/108/public/159), Dec. 4, 2003, [117 Stat. 2007](https://www.govinfo.gov/link/statute/117/2007).)*

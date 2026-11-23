@@ -3,9 +3,10 @@ title: "Section 12132 - Ounce of prevention grant program"
 usc_title: 34
 usc_section: "12132"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 12132"
-generated_at: "2026-03-30T02:55:33.283Z"
+generated_at: "2026-11-23T21:26:09.727Z"
+status: "active"
 ---
 
 # § 12132. Ounce of prevention grant program
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:33.283Z"
   - **(3)** The non-Federal share of such costs may be in cash or in kind, fairly evaluated, including plant, equipment, and services.
   - **(4)** Funds made available under this subchapter to a governmental entity shall not be used to supplant State or local funds, or in the case of Indian tribal governments, funds supplied by the Bureau of Indian Affairs, but shall be used to increase the amount of funds that would, in the absence of Federal funds received under this subchapter, be made available from State or local sources, or in the case of Indian tribal governments, from funds supplied by the Bureau of Indian Affairs.
   - **(5)** The Council shall conduct a thorough evaluation of the programs assisted under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 103–322, title III, § 30102](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1837](https://www.govinfo.gov/link/statute/108/1837).)*

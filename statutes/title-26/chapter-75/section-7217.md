@@ -3,9 +3,10 @@ title: "Section 7217 - Prohibition on executive branch influence over taxpayer a
 usc_title: 26
 usc_section: "7217"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7217"
-generated_at: "2026-03-30T02:55:27.869Z"
+generated_at: "2026-11-23T21:26:06.946Z"
+status: "active"
 ---
 
 # § 7217. Prohibition on executive branch influence over taxpayer audits and other investigations
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:27.869Z"
 - **(e)** For purposes of this section, the term “applicable person” means—
   - **(1)** the President, the Vice President, any employee of the executive office of the President, and any employee of the executive office of the Vice President; and
   - **(2)** any individual (other than the Attorney General of the United States) serving in a position specified in section 5312 of title 5 , United States Code.
+
+## Source Credit
+
+*(Added [Pub. L. 105–206, title I, § 1105(a)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 711](https://www.govinfo.gov/link/statute/112/711).)*

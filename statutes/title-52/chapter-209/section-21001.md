@@ -3,9 +3,10 @@ title: "Section 21001 - Requirements payments"
 usc_title: 52
 usc_section: "21001"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 21001"
-generated_at: "2026-03-30T02:56:30.167Z"
+generated_at: "2026-11-23T21:26:42.333Z"
+status: "active"
 ---
 
 # § 21001. Requirements payments
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:30.167Z"
 - **(f)** A State may not use any portion of a requirements payment—
   - **(1)** to pay costs associated with any litigation, except to the extent that such costs otherwise constitute permitted uses of a requirements payment under this subpart; or
   - **(2)** for the payment of any judgment.
+
+## Source Credit
+
+*([Pub. L. 107–252, title II, § 251](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1692](https://www.govinfo.gov/link/statute/116/1692); [Pub. L. 111–84, div. A, title V, § 588(a)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2333](https://www.govinfo.gov/link/statute/123/2333).)*

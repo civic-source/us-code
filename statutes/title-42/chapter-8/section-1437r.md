@@ -3,9 +3,10 @@ title: "Section 1437r - Public housing resident management"
 usc_title: 42
 usc_section: "1437r"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1437r"
-generated_at: "2026-03-30T02:56:11.086Z"
+generated_at: "2026-11-23T21:26:32.020Z"
+status: "active"
 ---
 
 # § 1437r. Public housing resident management
@@ -44,3 +45,9 @@ generated_at: "2026-03-30T02:56:11.086Z"
     - **(B)** Any revenues retained by a resident management corporation under subparagraph (A) shall be used for purposes of improving the maintenance and operation of the public housing project, for establishing business enterprises that employ residents of public housing, or for acquiring additional dwelling units for low-income families.
 - **(f)**
 - **(h)** Any management contract between a public housing agency and a resident management corporation that is entered into after November 7, 1988 , shall be subject to this section and the regulations issued to carry out this section.
+
+Funding
+
+## Source Credit
+
+*(Sept. 1, 1937, ch. 896, title I, § 20, as added [Pub. L. 100–242, title I, § 122](https://www.govinfo.gov/link/plaw/100/public/242), Feb. 5, 1988, [101 Stat. 1839](https://www.govinfo.gov/link/statute/101/1839); renumbered title I, [Pub. L. 100–358, § 5](https://www.govinfo.gov/link/plaw/100/public/358), June 29, 1988, [102 Stat. 681](https://www.govinfo.gov/link/statute/102/681); amended [Pub. L. 100–628, title X, § 1003](https://www.govinfo.gov/link/plaw/100/public/628), Nov. 7, 1988, [102 Stat. 3263](https://www.govinfo.gov/link/statute/102/3263); [Pub. L. 101–625, title IV, § 415](https://www.govinfo.gov/link/plaw/101/public/625), title V, §§ 514, 572(1), Nov. 28, 1990, [104 Stat. 4160](https://www.govinfo.gov/link/statute/104/4160), 4196, 4236; [Pub. L. 102–550, title I, § 117](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3695](https://www.govinfo.gov/link/statute/106/3695); [Pub. L. 105–276, title V, § 532(a)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2574](https://www.govinfo.gov/link/statute/112/2574).)*

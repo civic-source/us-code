@@ -3,9 +3,10 @@ title: "Section 6005 - Required terms in plans"
 usc_title: 7
 usc_section: "6005"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6005"
-generated_at: "2026-03-30T02:53:42.423Z"
+generated_at: "2026-11-23T21:25:28.379Z"
+status: "active"
 ---
 
 # § 6005. Required terms in plans
@@ -117,3 +118,7 @@ generated_at: "2026-03-30T02:53:42.423Z"
   - **(5)** Nothing in this chapter shall be construed to authorize the withholding of information from Congress.
 - **(i)** The plan shall provide that the assessments collected under section 6007 of this title shall be used for payment of the expenses in implementing and administering this chapter, with provision for a reasonable reserve, and to cover those administrative costs incurred by the Secretary in implementing and administering this chapter, except for the salaries of Government employees incurred in conducting referenda.
 - **(j)** The plan also shall contain such terms and conditions, not inconsistent with this chapter, as determined necessary by the Secretary to effectuate this chapter.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1910](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3841](https://www.govinfo.gov/link/statute/104/3841); [Pub. L. 102–237, title VIII, § 802(2)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1882](https://www.govinfo.gov/link/statute/105/1882).)*

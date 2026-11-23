@@ -3,9 +3,10 @@ title: "Section 20971 - Jimmy Ryce State civil commitment programs for sexually 
 usc_title: 34
 usc_section: "20971"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20971"
-generated_at: "2026-03-30T02:55:33.301Z"
+generated_at: "2026-11-23T21:26:09.804Z"
+status: "active"
 ---
 
 # § 20971. Jimmy Ryce State civil commitment programs for sexually dangerous persons
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:33.301Z"
   - **(2)** The term “sexually dangerous person” means a person suffering from a serious mental illness, abnormality, or disorder, as a result of which the individual would have serious difficulty in refraining from sexually violent conduct or child molestation.
   - **(3)** The term “jurisdiction” has the meaning given such term in section 20911 of this title .
 - **(f)** There are authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2007 through 2010.
+
+## Source Credit
+
+*([Pub. L. 109–248, title III, § 301](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 617](https://www.govinfo.gov/link/statute/120/617).)*

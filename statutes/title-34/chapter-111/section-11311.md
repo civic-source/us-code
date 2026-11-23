@@ -3,9 +3,10 @@ title: "Section 11311 - Definitions"
 usc_title: 34
 usc_section: "11311"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 11311"
-generated_at: "2026-03-30T02:55:33.281Z"
+generated_at: "2026-11-23T21:26:09.715Z"
+status: "active"
 ---
 
 # § 11311. Definitions
@@ -57,3 +58,7 @@ In this subchapter—
   - **(5)** the term “mentoring” means matching 1 adult with 1 or more youths for the purpose of providing guidance, support, and encouragement through regularly scheduled meetings for not less than 9 months;
   - **(6)** the term “State advisory group” means the advisory group appointed by the chief executive officer of a State under a plan described in section 11133(a) of this title ; and
   - **(7)** the term “State entity” means the State agency designated under section 11133(a)(1) of this title or the entity receiving funds under section 11133(d) of this title .
+
+## Source Credit
+
+*([Pub. L. 93–415, title V, § 502](https://www.govinfo.gov/link/plaw/93/public/415), as added [Pub. L. 107–273, div. C, title II, § 12222(a)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1894](https://www.govinfo.gov/link/statute/116/1894); amended [Pub. L. 115–385, title III, § 302](https://www.govinfo.gov/link/plaw/115/public/385), Dec. 21, 2018, [132 Stat. 5145](https://www.govinfo.gov/link/statute/132/5145).)*

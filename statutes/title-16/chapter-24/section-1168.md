@@ -3,9 +3,10 @@ title: "Section 1168 - Civil service retirement benefits"
 usc_title: 16
 usc_section: "1168"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1168"
-generated_at: "2026-03-30T02:54:22.942Z"
+generated_at: "2026-11-23T21:25:51.836Z"
+status: "active"
 ---
 
 # § 1168. Civil service retirement benefits
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:22.942Z"
 - **(b)** The annuity of any person or the annuity of the survivor of any person who shall have performed service described in subsection (a) of this section, and who, prior to November 2, 1966 , died or shall have been retired on annuity payable from the civil service retirement and disability fund, shall, upon application filed by the annuitant within one year after November 2, 1966 , be adjusted, effective as of the first day of the month immediately following November 2, 1966 , so that the amount of the annuity shall be the same as if such subsection had been in effect at the time of such person’s retirement or death.
 - **(c)** In no case shall credit for the service described in subsection (a) of this section entitle a person to the benefits of section 8342(h) of title 5 .
 - **(d)** Notwithstanding any other provisions of this chapter or any other law, benefits under subchapter III of chapter 83 of title 5 made available by reason of the provisions of this section shall be paid from the civil service retirement and disability fund subject to reimbursement to such fund from the Operations, Research, and Facilities Account of the National Oceanic and Atmospheric Administration in the Department of Commerce, for the purpose of compensating said retirement fund for the cost, as determined by the Director of the Office of Personnel Management during each fiscal year, of benefits provided by this section.
+
+## Source Credit
+
+*([Pub. L. 89–702, title II, § 208](https://www.govinfo.gov/link/plaw/89/public/702), Nov. 2, 1966, [80 Stat. 1096](https://www.govinfo.gov/link/statute/80/1096); 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3784](https://www.govinfo.gov/link/statute/92/3784); [Pub. L. 98–129, § 2](https://www.govinfo.gov/link/plaw/98/public/129), Oct. 14, 1983, [97 Stat. 842](https://www.govinfo.gov/link/statute/97/842).)*

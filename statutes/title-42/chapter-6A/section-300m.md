@@ -3,9 +3,10 @@ title: "Section 300m - Requirements with respect to type and quality of services
 usc_title: 42
 usc_section: "300m"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 300m"
-generated_at: "2026-03-30T02:56:10.807Z"
+generated_at: "2026-11-23T21:26:30.773Z"
+status: "active"
 ---
 
 # § 300m. Requirements with respect to type and quality of services
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:56:10.807Z"
     - **(B)** The term “tribal organization” has the meaning given the term in section 1603 of title 25 .
     - **(C)** The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, the Republic of Palau, an Indian tribe, and a tribal organization.
   - **(6)** The Secretary may not grant a waiver or extension under this subsection after September 30, 2012 .
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XV, § 1503, as added [Pub. L. 101–354, § 2](https://www.govinfo.gov/link/plaw/101/public/354), Aug. 10, 1990, [104 Stat. 410](https://www.govinfo.gov/link/statute/104/410); amended [Pub. L. 103–183, title I, § 101(c)(1)](https://www.govinfo.gov/link/plaw/103/public/183), Dec. 14, 1993, [107 Stat. 2227](https://www.govinfo.gov/link/statute/107/2227); [Pub. L. 110–18, § 2(2)](https://www.govinfo.gov/link/plaw/110/public/18), Apr. 20, 2007, [121 Stat. 80](https://www.govinfo.gov/link/statute/121/80).)*

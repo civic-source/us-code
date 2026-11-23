@@ -3,9 +3,10 @@ title: "Section 387 - Notice of depositions"
 usc_title: 2
 usc_section: "387"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 387"
-generated_at: "2026-03-30T02:53:04.796Z"
+generated_at: "2026-11-23T21:25:21.161Z"
+status: "active"
 ---
 
 # § 387. Notice of depositions
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:53:04.796Z"
 - **(a)** A party desiring to take the deposition of any person upon oral examination shall serve written notice on the opposing party not later than two days before the date of the examination. The notice shall state the time and place for taking the deposition and the name and address of each person to be examined. A copy of such notice, together with proof of such service thereof, shall be attached to the deposition when it is filed with the Clerk.
 - **(b)** By written stipulation of the parties, the deposition of a witness may be taken without notice. A copy of such stipulation shall be attached to the deposition when it is filed with the Clerk.
 - **(c)** By written stipulation of the parties, the testimony of any witness of either party may be filed in the form of an affidavit by such witness or the parties may agree what a particular witness would testify to if his deposition were taken. Such testimonial affidavits or stipulations shall be filed within the time limits prescribed for the taking of testimony in section 386 of this title .
+
+## Source Credit
+
+*([Pub. L. 91–138, § 8](https://www.govinfo.gov/link/plaw/91/public/138), Dec. 5, 1969, [83 Stat. 287](https://www.govinfo.gov/link/statute/83/287).)*

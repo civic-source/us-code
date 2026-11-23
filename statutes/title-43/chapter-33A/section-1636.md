@@ -3,9 +3,10 @@ title: "Section 1636 - Alaska land bank"
 usc_title: 43
 usc_section: "1636"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1636"
-generated_at: "2026-03-30T02:55:57.485Z"
+generated_at: "2026-11-23T21:26:19.867Z"
+status: "active"
 ---
 
 # § 1636. Alaska land bank
@@ -85,3 +86,17 @@ generated_at: "2026-03-30T02:55:57.485Z"
 - **(e)** All land subject to an agreement made pursuant to subsection (a) and all land, and interests in land, conveyed or subsequently reconveyed pursuant to the Alaska Native Claims Settlement Act [ 43 U.S.C. 1601 et seq.] to a Native individual, Native Corporation, or Settlement Trust shall be subject to condemnation for public purposes in accordance with the provisions of this Act and other applicable law.
 - **(f)** Nothing in this section shall be construed as impairing, or otherwise affecting in any manner, any contract or other obligation which was entered into prior to December 2, 1980 , or which (1) applies to any land which is subject to an agreement, and (2) was entered into before the agreement becomes effective.
 - **(g)** Except as expressly provided in subsection (d), no provision of this section shall be construed as affecting the civil or criminal jurisdiction of the State of Alaska.
+
+Definitions
+
+Action by a Trustee
+
+Exclusions, Reattachment of Exemptions
+
+Tax Recapture Upon Subdivision Plat Recordation
+
+Savings
+
+## Source Credit
+
+*([Pub. L. 96–487, title IX, § 907](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2444](https://www.govinfo.gov/link/statute/94/2444); [Pub. L. 100–241, § 11](https://www.govinfo.gov/link/plaw/100/public/241), Feb. 3, 1988, [101 Stat. 1806](https://www.govinfo.gov/link/statute/101/1806); [Pub. L. 105–333](https://www.govinfo.gov/link/plaw/105/public/333), §§ 1, 2, Oct. 31, 1998, [112 Stat. 3129](https://www.govinfo.gov/link/statute/112/3129).)*

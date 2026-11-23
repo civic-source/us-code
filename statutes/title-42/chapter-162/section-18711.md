@@ -3,9 +3,10 @@ title: "Section 18711 - Preventing outages and enhancing the resilience of the e
 usc_title: 42
 usc_section: "18711"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18711"
-generated_at: "2026-03-30T02:56:11.524Z"
+generated_at: "2026-11-23T21:26:33.834Z"
+status: "active"
 ---
 
 # § 18711. Preventing outages and enhancing the resilience of the electric grid
@@ -114,3 +115,17 @@ generated_at: "2026-03-30T02:56:11.524Z"
     - **(B)** the types of activities, technologies, equipment, and hardening measures funded by those grants; and
     - **(C)** the extent to which the ability of the power grid to withstand disruptive events has increased.
 - **(j)** There is authorized to be appropriated to the Secretary to carry out the program $5,000,000,000 for the period of fiscal years 2022 through 2026.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title I, § 40101](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 923](https://www.govinfo.gov/link/statute/135/923).)*

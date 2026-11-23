@@ -3,9 +3,10 @@ title: "Section 2001 - Findings"
 usc_title: 48
 usc_section: "2001"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 2001"
-generated_at: "2026-03-30T02:56:14.602Z"
+generated_at: "2026-11-23T21:26:38.136Z"
+status: "active"
 ---
 
 # § 2001. Findings
@@ -21,3 +22,7 @@ The Congress finds that—
     - **(C)** to adapt policy to the special requirements of each area and modify the application of Federal programs, laws, and regulations accordingly;
     - **(D)** to be responsive to the Congress in the discharge of its responsibilities; and
     - **(E)** to attain the international obligations of the United States.
+
+## Source Credit
+
+*([Pub. L. 99–239, title III, § 301](https://www.govinfo.gov/link/plaw/99/public/239), Jan. 14, 1986, [99 Stat. 1836](https://www.govinfo.gov/link/statute/99/1836).)*

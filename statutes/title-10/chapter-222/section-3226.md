@@ -3,9 +3,10 @@ title: "Section 3226 - Estimates for program baseline and analyses and targets f
 usc_title: 10
 usc_section: "3226"
 chapter: 222
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3226"
-generated_at: "2026-03-30T02:53:38.190Z"
+generated_at: "2026-11-23T21:25:32.720Z"
+status: "active"
 ---
 
 # § 3226. Estimates for program baseline and analyses and targets for contract negotiation purposes
@@ -19,3 +20,15 @@ generated_at: "2026-03-30T02:53:38.190Z"
     - **(A)** to cover any increased program costs identified by a revised cost analysis or target developed pursuant to subsection (b);
     - **(B)** to acquire additional end items in accordance with section 3069 of this title ; or
     - **(C)** to cover the cost of risk reduction and process improvements.
+
+Cost Estimates Developed for Specified Purposes Not to Be Used for Contract Negotiations or Obligation of Funds
+
+Cost Estimates Developed for Specified Purposes Not to Be Used for Contract Negotiations or Obligation of Funds
+
+Program Manager and Contracting Officer
+
+Availability of Excess Funds.—
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1812(a)](https://www.govinfo.gov/link/plaw/116/public/283), (g), Jan. 1, 2021, [134 Stat. 4174](https://www.govinfo.gov/link/statute/134/4174), 4176; [Pub. L. 119–60, div. A, title VIII, § 812(a)(5)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 951](https://www.govinfo.gov/link/statute/139/951).)*

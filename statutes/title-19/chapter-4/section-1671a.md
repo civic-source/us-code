@@ -3,9 +3,10 @@ title: "Section 1671a - Procedures for initiating a countervailing duty investig
 usc_title: 19
 usc_section: "1671a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1671a"
-generated_at: "2026-03-30T02:54:24.649Z"
+generated_at: "2026-11-23T21:25:42.740Z"
+status: "active"
 ---
 
 # § 1671a. Procedures for initiating a countervailing duty investigation
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:54:24.649Z"
   - **(1)** notify the Commission immediately of any determination it makes under subsection (a) or (c) of this section, and
   - **(2)** if the determination is affirmative, make available to the Commission such information as it may have relating to the matter under investigation, under such procedures as the administering authority and the Commission may establish to prevent disclosure, other than with the consent of the party providing it or under protective order, of any information to which confidential treatment has been given by the administering authority.
 - **(e)** If, at any time after the initiation of an investigation under this part, the administering authority finds a reasonable basis to suspect that the alleged countervailable subsidy is inconsistent with the Subsidies Agreement, the administering authority may request the Commissioner of U.S. Customs and Border Protection to compile information on an expedited basis regarding entries of the subject merchandise. Upon receiving such request, the Commissioner of U.S. Customs and Border Protection shall collect information regarding the volume and value of entries of the subject merchandise and shall transmit such information to the administering authority at such times as the administering authority shall direct (at least once every 30 days), until a final determination is made under section 1671d(a) of this title , the investigation is terminated, or the administering authority withdraws the request.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VII, § 702, as added [Pub. L. 96–39, title I, § 101](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 151](https://www.govinfo.gov/link/statute/93/151); amended [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title VI, § 650(a)], Nov. 30, 1983, [97 Stat. 1266](https://www.govinfo.gov/link/statute/97/1266); [Pub. L. 99–514, title XVIII, § 1886(a)(2)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2921](https://www.govinfo.gov/link/statute/100/2921); [Pub. L. 100–418, title I](https://www.govinfo.gov/link/plaw/100/public/418), §§ 1324(a)(1), 1326(d)(1), Aug. 23, 1988, [102 Stat. 1199](https://www.govinfo.gov/link/statute/102/1199), 1204; [Pub. L. 103–465, title II](https://www.govinfo.gov/link/plaw/103/public/465), §§ 211(a), 212(a)(1), (b)(1)(E), 233(a)(5)(B), (6)(A)(i), (ii), 270(a)(1)(A), (d), Dec. 8, 1994, [108 Stat. 4842](https://www.govinfo.gov/link/statute/108/4842), 4843, 4848, 4899, 4901, 4917, 4918; [Pub. L. 104–295, § 20(b)(3)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3527](https://www.govinfo.gov/link/statute/110/3527); [Pub. L. 114–125, title VIII, § 802(d)(2)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 210](https://www.govinfo.gov/link/statute/130/210).)*

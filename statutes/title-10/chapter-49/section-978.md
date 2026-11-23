@@ -3,9 +3,10 @@ title: "Section 978 - Drug and alcohol abuse and dependency: testing of new entr
 usc_title: 10
 usc_section: "978"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 978"
-generated_at: "2026-03-30T02:53:38.092Z"
+generated_at: "2026-11-23T21:25:32.369Z"
+status: "active"
 ---
 
 # § 978. Drug and alcohol abuse and dependency: testing of new entrants
@@ -26,3 +27,26 @@ generated_at: "2026-03-30T02:53:38.092Z"
   - **(4)** The Secretary concerned may place on excess leave any member of the armed forces whose test results under subsection (a)(2) are positive for drug or alcohol use. The Secretary may continue such member’s status on excess leave pending disposition of the member’s case and processing for administrative separation.
 - **(d)** The testing and evaluation required by subsection (a) shall be carried out under regulations prescribed by the Secretary of Defense in consultation with the Secretary of Homeland Security. Those regulations shall apply uniformly throughout the armed forces.
 - **(e)** In time of war, or time of emergency declared by Congress or the President, the President may suspend the provisions of subsection (a).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 978 | 10:1071 (note). | Sept. 28, 1971 , Pub. L. 92–129, § 501(a)(2) , (b), 85 Stat. 361 . |
+
+
+Historical and Revision Notes
+
+978
+
+Sept. 28, 1971
+
+Pub. L. 92–129, § 501(a)(2)
+
+85 Stat. 361
+
+Regulations
+
+Effective Date
+
+## Source Credit
+
+*(Added [Pub. L. 97–295, § 1(14)(A)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1289](https://www.govinfo.gov/link/statute/96/1289); amended [Pub. L. 100–180, div. A, title V, § 513(a)(1)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1091](https://www.govinfo.gov/link/statute/101/1091); [Pub. L. 100–456, div. A, title V, § 521(a)(1)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 1972](https://www.govinfo.gov/link/statute/102/1972); [Pub. L. 101–189, div. A, title V, § 513(a)](https://www.govinfo.gov/link/plaw/101/public/189) –(c), Nov. 29, 1989, [103 Stat. 1440](https://www.govinfo.gov/link/statute/103/1440); [Pub. L. 101–510, div. A, title XIV, § 1484(k)(4)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1719](https://www.govinfo.gov/link/statute/104/1719); [Pub. L. 103–160, div. A, title V, § 572](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1673](https://www.govinfo.gov/link/statute/107/1673); [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314).)*

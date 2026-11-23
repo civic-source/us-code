@@ -3,12 +3,17 @@ title: "Section 287k - Congressional expression of satisfaction that expenditure
 usc_title: 22
 usc_section: "287k"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 287k"
-generated_at: "2026-03-30T02:55:05.321Z"
+generated_at: "2026-11-23T21:25:58.370Z"
+status: "active"
 ---
 
 # § 287k. Congressional expression of satisfaction that expenditures relating to operations in Middle East and in the Congo are “expenses of the Organization”
 
 The Congress expresses its satisfaction that the International Court of Justice has decided that the expenditures authorized in resolutions of the United Nations General Assembly relating to operations in the Middle East and in the Congo are “expenses of the Organization” within the meaning of the United Nations Charter, thereby providing a sound basis for obtaining prompt payment of assessments for such expenditures by making them obligations of all members of the United Nations.
 
+
+## Source Credit
+
+*([Pub. L. 87–731, § 5](https://www.govinfo.gov/link/plaw/87/public/731), Oct. 2, 1962, [76 Stat. 696](https://www.govinfo.gov/link/statute/76/696).)*

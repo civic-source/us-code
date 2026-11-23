@@ -3,9 +3,10 @@ title: "Section 7031 - Principles governing the use of electronic signatures in 
 usc_title: 15
 usc_section: "7031"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7031"
-generated_at: "2026-03-30T02:54:08.218Z"
+generated_at: "2026-11-23T21:25:40.038Z"
+status: "active"
 ---
 
 # § 7031. Principles governing the use of electronic signatures in international transactions
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.218Z"
     - **(D)** Take a nondiscriminatory approach to electronic signatures and authentication methods from other jurisdictions.
 - **(b)** In conducting the activities required by this section, the Secretary shall consult with users and providers of electronic signature products and services and other interested persons.
 - **(c)** As used in this section, the terms “electronic record” and “electronic signature” have the same meanings provided in section 7006 of this title .
+
+## Source Credit
+
+*([Pub. L. 106–229, title III, § 301](https://www.govinfo.gov/link/plaw/106/public/229), June 30, 2000, [114 Stat. 475](https://www.govinfo.gov/link/statute/114/475).)*

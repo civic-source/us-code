@@ -3,9 +3,10 @@ title: "Section 7703 - Prohibition against predatory and abusive commercial e-ma
 usc_title: 15
 usc_section: "7703"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7703"
-generated_at: "2026-03-30T02:54:08.225Z"
+generated_at: "2026-11-23T21:25:40.066Z"
+status: "active"
 ---
 
 # § 7703. Prohibition against predatory and abusive commercial e-mail
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:08.225Z"
 - **(c)** It is the sense of Congress that—
   - **(1)** Spam has become the method of choice for those who distribute pornography, perpetrate fraudulent schemes, and introduce viruses, worms, and Trojan horses into personal and business computer systems; and
   - **(2)** the Department of Justice should use all existing law enforcement tools to investigate and prosecute those who send bulk commercial e-mail to facilitate the commission of Federal crimes, including the tools contained in chapters 47 and 63 of title 18 (relating to fraud and false statements); chapter 71 of title 18 (relating to obscenity); chapter 110 of title 18 (relating to the sexual exploitation of children); and chapter 95 of title 18 (relating to racketeering), as appropriate.
+
+## Source Credit
+
+*([Pub. L. 108–187, § 4](https://www.govinfo.gov/link/plaw/108/public/187), Dec. 16, 2003, [117 Stat. 2703](https://www.govinfo.gov/link/statute/117/2703).)*

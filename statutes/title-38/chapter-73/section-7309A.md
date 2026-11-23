@@ -3,9 +3,10 @@ title: "Section 7309A - Office of Patient Advocacy"
 usc_title: 38
 usc_section: "7309A"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7309A"
-generated_at: "2026-03-30T02:55:53.527Z"
+generated_at: "2026-11-23T21:26:16.849Z"
+status: "active"
 ---
 
 # § 7309A. Office of Patient Advocacy
@@ -40,3 +41,19 @@ generated_at: "2026-03-30T02:55:53.527Z"
   - **(14)** To document potentially threatening behavior and report such behavior to appropriate authorities.
 - **(e)** In providing training to patient advocates under subsection (c)(2)(C), the Director shall ensure that such training is consistent throughout the Department.
 - **(f)** In this section, the term “controlled substance” has the meaning given that term in section 102 of the Controlled Substances Act ( 21 U.S.C. 802 ).
+
+Establishment
+
+Head
+
+Function
+
+Patient Advocacy Responsibilities
+
+Training
+
+Controlled Substance Defined
+
+## Source Credit
+
+*(Added [Pub. L. 114–198, title IX, § 924(a)](https://www.govinfo.gov/link/plaw/114/public/198), July 22, 2016, [130 Stat. 767](https://www.govinfo.gov/link/statute/130/767); amended [Pub. L. 117–175, § 2](https://www.govinfo.gov/link/plaw/117/public/175), Sept. 16, 2022, [136 Stat. 2107](https://www.govinfo.gov/link/statute/136/2107).)*

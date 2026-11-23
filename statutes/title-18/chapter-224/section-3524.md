@@ -3,9 +3,10 @@ title: "Section 3524 - Child custody arrangements"
 usc_title: 18
 usc_section: "3524"
 chapter: 224
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3524"
-generated_at: "2026-03-30T02:54:16.518Z"
+generated_at: "2026-11-23T21:25:44.205Z"
+status: "active"
 ---
 
 # § 3524. Child custody arrangements
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:16.518Z"
   - **(1)** Subject to paragraph (2), the costs of any action described in subsection (d), (e), or (f) of this section shall be paid by the United States.
   - **(2)** The Attorney General shall insure that any State court order in effect to which this section applies and any district court order in effect which is issued under this section are carried out. The Department of Justice shall pay all costs and fees described in subsections (c) and (d) of this section.
 - **(i)** As used in this section, the term “parent” includes any person who stands in the place of a parent by law.
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 1208](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2159](https://www.govinfo.gov/link/statute/98/2159).)*

@@ -3,9 +3,10 @@ title: "Section 1055 - Redeemable ground rents"
 usc_title: 26
 usc_section: "1055"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1055"
-generated_at: "2026-03-30T02:55:27.757Z"
+generated_at: "2026-11-23T21:26:06.462Z"
+status: "active"
 ---
 
 # § 1055. Redeemable ground rents
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:27.757Z"
   - **(2)** the leaseholder has a present or future right to terminate, and to acquire the entire interest of the lessor in the land, by payment of a determined or determinable amount, which right exists by virtue of State or local law and not because of any private agreement or privately created condition, and
   - **(3)** the lessor’s interest in the land is primarily a security interest to protect the rental payments to which the lessor is entitled under the lease.
 - **(d)** For treatment of rentals under redeemable ground rents as interest, see section 163(c).
+
+## Source Credit
+
+*(Added [Pub. L. 88–9, § 1(b)](https://www.govinfo.gov/link/plaw/88/public/9), Apr. 10, 1963, [77 Stat. 7](https://www.govinfo.gov/link/statute/77/7).)*

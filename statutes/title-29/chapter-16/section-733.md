@@ -3,9 +3,10 @@ title: "Section 733 - Provision of pre-employment transition services"
 usc_title: 29
 usc_section: "733"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 733"
-generated_at: "2026-03-30T02:55:18.693Z"
+generated_at: "2026-11-23T21:26:02.205Z"
+status: "active"
 ---
 
 # § 733. Provision of pre-employment transition services
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:18.693Z"
   - **(4)** when invited, attend person-centered planning meetings for individuals receiving services under title XIX of the Social Security Act ( 42 U.S.C. 1396 et seq.).
 - **(e)** The Secretary shall support designated State agencies providing services under this section, highlight best State practices, and consult with other Federal agencies to advance the goals of this section.
 - **(f)** In carrying out this section, States shall address the transition needs of all students with disabilities, including such students with physical, sensory, intellectual, and mental health disabilities.
+
+## Source Credit
+
+*([Pub. L. 93–112, title I, § 113](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 113–128, title IV, § 422](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1657](https://www.govinfo.gov/link/statute/128/1657).)*

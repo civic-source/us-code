@@ -3,9 +3,10 @@ title: "Section 7703d - Assistance to local educational agencies that benefit de
 usc_title: 20
 usc_section: "7703d"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7703d"
-generated_at: "2026-03-30T02:54:48.216Z"
+generated_at: "2026-11-23T21:25:47.603Z"
+status: "active"
 ---
 
 # § 7703d. Assistance to local educational agencies that benefit dependents of members of the Armed Forces with enrollment changes due to base closures, force structure changes, or force relocations
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:54:48.216Z"
     - **(A)** elementary and secondary school students who are dependents of members of the Armed Forces; and
     - **(B)** elementary and secondary school students who are dependents of civilian employees of the Department of Defense.
   - **(4)** The term “State” means each of the several States and the District of Columbia.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. A, title V, § 575](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2602](https://www.govinfo.gov/link/statute/136/2602); [Pub. L. 118–31, div. A, title V, § 583(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 280](https://www.govinfo.gov/link/statute/137/280).)*

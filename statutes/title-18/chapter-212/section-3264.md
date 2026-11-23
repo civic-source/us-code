@@ -3,9 +3,10 @@ title: "Section 3264 - Limitation on removal"
 usc_title: 18
 usc_section: "3264"
 chapter: 212
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3264"
-generated_at: "2026-03-30T02:54:16.515Z"
+generated_at: "2026-11-23T21:25:44.193Z"
+status: "active"
 ---
 
 # § 3264. Limitation on removal
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:16.515Z"
   - **(3)** the person is entitled to, and does not waive, a preliminary examination under the Federal Rules of Criminal Procedure, in which case the person shall be removed to the United States in time for such examination;
   - **(4)** a Federal magistrate judge otherwise orders the person to be removed to the United States; or
   - **(5)** the Secretary of Defense determines that military necessity requires that the limitations in subsection (a) be waived, in which case the person shall be removed to the nearest United States military installation outside the United States adequate to detain the person and to facilitate the initial appearance described in section 3265(a).
+
+## Source Credit
+
+*(Added [Pub. L. 106–523, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/523), Nov. 22, 2000, [114 Stat. 2489](https://www.govinfo.gov/link/statute/114/2489).)*

@@ -3,9 +3,10 @@ title: "Section 944 - Container security standards and procedures"
 usc_title: 6
 usc_section: "944"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 944"
-generated_at: "2026-03-30T02:53:09.502Z"
+generated_at: "2026-11-23T21:25:25.854Z"
+status: "active"
 ---
 
 # § 944. Container security standards and procedures
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:09.502Z"
 - **(b)** The Secretary shall regularly review and enhance the standards and procedures established pursuant to subsection (a), as appropriate, based on tests of technologies as they become commercially available to detect container intrusion and the highest consequence threats, particularly weapons of mass destruction.
 - **(c)** The Secretary, in consultation with the Secretary of State, the Secretary of Energy, and other Federal Government officials, as appropriate, and with the Commercial Operations Advisory Committee, the Homeland Security Advisory Committee, and the National Maritime Security Advisory Committee, is encouraged to promote and establish international standards for the security of containers moving through the international supply chain with foreign governments and international organizations, including the International Maritime Organization, the International Organization for Standardization, the International Labor Organization, and the World Customs Organization.
 - **(d)** In carrying out this section, the Secretary shall consult with appropriate Federal departments and agencies and private sector stakeholders and ensure that actions under this section do not violate international trade obligations or other international obligations of the United States.
+
+## Source Credit
+
+*([Pub. L. 109–347, title II, § 204](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1905](https://www.govinfo.gov/link/statute/120/1905); [Pub. L. 110–53, title XVII, § 1701(b)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 491](https://www.govinfo.gov/link/statute/121/491).)*

@@ -3,9 +3,10 @@ title: "Section 3349 - Reporting of vacancies"
 usc_title: 5
 usc_section: "3349"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3349"
-generated_at: "2026-03-30T02:52:56.004Z"
+generated_at: "2026-11-23T21:25:23.160Z"
+status: "active"
 ---
 
 # § 3349. Reporting of vacancies
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:52:56.004Z"
   - **(4)** the appropriate committees of jurisdiction of the Senate and House of Representatives;
   - **(5)** the President; and
   - **(6)** the Office of Personnel Management.
+
+## Source Credit
+
+*(Added [Pub. L. 105–277, div. C, title I, § 151(b)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–614](https://www.govinfo.gov/link/statute/112/2681); amended [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

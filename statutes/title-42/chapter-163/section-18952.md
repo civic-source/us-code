@@ -3,9 +3,10 @@ title: "Section 18952 - Standards development organization grants"
 usc_title: 42
 usc_section: "18952"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18952"
-generated_at: "2026-03-30T02:56:11.534Z"
+generated_at: "2026-11-23T21:26:33.858Z"
+status: "active"
 ---
 
 # § 18952. Standards development organization grants
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.534Z"
 - **(c)** A grant awarded under subsection (b) shall be used to develop, approve, disseminate, maintain, and review forensic science voluntary consensus standards and best practices that shall be available to the public free of charge.
 - **(d)** The Director may promulgate such requirements, guidelines, and procedures as may be necessary to carry out this section.
 - **(e)** There are authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2022 through 2026.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title II, § 10248](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1495](https://www.govinfo.gov/link/statute/136/1495).)*

@@ -3,12 +3,17 @@ title: "Section 426k - Acquisition of additional lands"
 usc_title: 16
 usc_section: "426k"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 426k"
-generated_at: "2026-03-30T02:54:22.792Z"
+generated_at: "2026-11-23T21:25:51.508Z"
+status: "active"
 ---
 
 # § 426k. Acquisition of additional lands
 
 In furtherance of the purposes of sections 426 to 426j of this title, authorizing establishment of the Stones River National Battlefield, the Secretary of the Interior is authorized to acquire by such means as he may deem to be in the public interest, for inclusion in the Stones River National Battlefield, such additional lands and interests in lands, not to exceed seven acres, as in the discretion of the Secretary are necessary for the preservation and interpretation of the battlefield of Stones River, Tennessee.
 
+
+## Source Credit
+
+*([Pub. L. 86–443](https://www.govinfo.gov/link/plaw/86/public/443), §§ 1, 2, Apr. 22, 1960, [74 Stat. 82](https://www.govinfo.gov/link/statute/74/82).)*

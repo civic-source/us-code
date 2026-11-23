@@ -3,9 +3,10 @@ title: "Section 1141 - Declaration of policy; effective merchandising of agricul
 usc_title: 12
 usc_section: "1141"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1141"
-generated_at: "2026-03-30T02:53:53.389Z"
+generated_at: "2026-11-23T21:25:36.817Z"
+status: "active"
 ---
 
 # § 1141. Declaration of policy; effective merchandising of agricultural commodities; speculation; cooperative marketing; surpluses; administration of chapter
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:53.389Z"
   - **(4)** by aiding in preventing and controlling surpluses in any agricultural commodity, through orderly production and distribution, so as to maintain advantageous domestic markets and prevent such surpluses from causing undue and excessive fluctuations or depressions in prices for the commodity.
 - **(b)** There shall be considered as a surplus for the purposes of this chapter any seasonal or year’s total surplus, produced in the United States and either local or national in extent, that is in excess of the requirements for the orderly distribution of the agricultural commodity or is in excess of the domestic requirements for such commodity.
 - **(c)** The Farm Credit Administration shall execute the powers vested in it by this chapter only in such manner as will, in the judgment of the administration, aid to the fullest practicable extent in carrying out the policy above declared.
+
+## Source Credit
+
+*(June 15, 1929, ch. 24, § 1, [46 Stat. 11](https://www.govinfo.gov/link/statute/46/11); Ex. Ord. No. 6084, Mar. 27, 1933.)*

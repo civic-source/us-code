@@ -3,9 +3,10 @@ title: "Section 3310 - Annual report on United States security arrangements and 
 usc_title: 50
 usc_section: "3310"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3310"
-generated_at: "2026-03-30T02:56:26.242Z"
+generated_at: "2026-11-23T21:26:39.030Z"
+status: "active"
 ---
 
 # § 3310. Annual report on United States security arrangements and commitments with other nations
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:26.242Z"
 - **(d)** The congressional committees referred to in subsection (a) are the following:
   - **(1)** The Committee on Armed Services and the Committee on Foreign Relations of the Senate.
   - **(2)** The Committee on Armed Services and the Committee on International Relations of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 101–510, div. A, title XIV, § 1457](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1696](https://www.govinfo.gov/link/statute/104/1696); [Pub. L. 104–106, div. A, title XV, § 1502(c)(4)(C)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 507](https://www.govinfo.gov/link/statute/110/507); [Pub. L. 106–65, div. A, title X, § 1067(10)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774).)*

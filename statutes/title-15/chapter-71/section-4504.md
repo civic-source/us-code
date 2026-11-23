@@ -3,9 +3,10 @@ title: "Section 4504 - Statute of limitation"
 usc_title: 15
 usc_section: "4504"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4504"
-generated_at: "2026-03-30T02:54:08.199Z"
+generated_at: "2026-11-23T21:25:39.994Z"
+status: "active"
 ---
 
 # § 4504. Statute of limitation
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:54:08.199Z"
     - **(B)** the impact on the mix of personnel and on all cases, whether or not in litigation, including the subpart V regulation proceedings; and
     - **(C)** the expected costs and savings for the applicable fiscal year.
   - **(4)** The Administrator of the Economic Regulatory Administration shall keep such Committees fully and currently informed about the status (including delays, settlement negotiations, and other pertinent matters) of all enforcement cases (whether or not in litigation) and subpart V regulation proceedings.
+
+## Source Credit
+
+*([Pub. L. 99–509, title III, § 3005](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1884](https://www.govinfo.gov/link/statute/100/1884).)*

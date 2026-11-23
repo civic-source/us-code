@@ -3,9 +3,10 @@ title: "Section 3255 - Restrictions on lobbying activities"
 usc_title: 29
 usc_section: "3255"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3255"
-generated_at: "2026-03-30T02:55:18.761Z"
+generated_at: "2026-11-23T21:26:02.352Z"
+status: "active"
 ---
 
 # § 3255. Restrictions on lobbying activities
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:18.761Z"
   - **(2)** Paragraph (1) shall not apply to—
     - **(A)** normal and recognized executive-legislative relationships; or
     - **(B)** participation by an agency or officer of a State, local, or tribal government in policymaking and administrative processes within the executive branch of that government.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 195](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1607](https://www.govinfo.gov/link/statute/128/1607).)*

@@ -3,9 +3,10 @@ title: "Section 2202 - National Agriculture and Food Defense Strategy"
 usc_title: 21
 usc_section: "2202"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 2202"
-generated_at: "2026-03-30T02:54:54.309Z"
+generated_at: "2026-11-23T21:25:56.298Z"
+status: "active"
 ---
 
 # § 2202. National Agriculture and Food Defense Strategy
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:54:54.309Z"
     - **(A)** develop metrics to measure progress for the evaluation process described in paragraph (1)(B); and
     - **(B)** report on the progress measured in subparagraph (A) as part of the National Agriculture and Food Defense strategy described in subsection (a)(1).
 - **(c)** In the interest of national security, the Secretary of Health and Human Services and the Secretary of Agriculture, in coordination with the Secretary of Homeland Security, may determine the manner and format in which the National Agriculture and Food Defense strategy established under this section is made publicly available on the Internet Web sites of the Department of Health and Human Services, the Department of Homeland Security, and the Department of Agriculture, as described in subsection (a)(1).
+
+## Source Credit
+
+*([Pub. L. 111–353, title I, § 108](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3910](https://www.govinfo.gov/link/statute/124/3910).)*

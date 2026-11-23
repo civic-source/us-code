@@ -3,9 +3,10 @@ title: "Section 3531 - Definitions"
 usc_title: 19
 usc_section: "3531"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 3531"
-generated_at: "2026-03-30T02:54:24.692Z"
+generated_at: "2026-11-23T21:25:42.844Z"
+status: "active"
 ---
 
 # § 3531. Definitions
@@ -23,3 +24,7 @@ For purposes of this part:
   - **(7)** The term “General Council” means the General Council established under paragraph 2 of Article IV of the WTO Agreement.
   - **(8)** The term “Ministerial Conference” means the Ministerial Conference established under paragraph 1 of Article IV of the WTO Agreement.
   - **(9)** The terms “Antidumping Agreement”, “Agreement on Subsidies and Countervailing Measures”, and “Safeguards Agreement” mean the agreements referred to in section 3511(d)(7), (12), and (13) of this title, respectively.
+
+## Source Credit
+
+*([Pub. L. 103–465, title I, § 121](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4828](https://www.govinfo.gov/link/statute/108/4828).)*

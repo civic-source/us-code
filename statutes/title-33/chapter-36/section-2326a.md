@@ -3,9 +3,10 @@ title: "Section 2326a - Dredged material disposal facility partnerships"
 usc_title: 33
 usc_section: "2326a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2326a"
-generated_at: "2026-03-30T02:55:41.124Z"
+generated_at: "2026-11-23T21:26:11.446Z"
+status: "active"
 ---
 
 # § 2326a. Dredged material disposal facility partnerships
@@ -78,3 +79,9 @@ generated_at: "2026-03-30T02:55:41.124Z"
     - **(C)** User fees paid pursuant to subparagraph (B) shall be sufficient to repay funds contributed by the private entity plus a reasonable return on investment approved by the Secretary in cooperation with the non-Federal interest with respect to the project and the private entity.
     - **(D)** The Federal share of such fees shall be equal to the percentage of the total cost that would otherwise be borne by the Federal Government as required pursuant to existing cost-sharing requirements, including section 2213 of this title and section 2326 of this title .
     - **(E)** Any spending authority (as defined in section 651(c)(2) of title 2 ) authorized by this section shall be effective only to such extent and in such amounts as are provided in appropriation Acts.
+
+“Nothing in the amendments made by subsection (a) [amending this section] shall affect—
+
+## Source Credit
+
+*([Pub. L. 104–303, title II, § 217](https://www.govinfo.gov/link/plaw/104/public/303), Oct. 12, 1996, [110 Stat. 3694](https://www.govinfo.gov/link/statute/110/3694); [Pub. L. 110–114, title II, § 2005](https://www.govinfo.gov/link/plaw/110/public/114), Nov. 8, 2007, [121 Stat. 1071](https://www.govinfo.gov/link/statute/121/1071); [Pub. L. 116–260, div. AA, title I, § 145](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2654](https://www.govinfo.gov/link/statute/134/2654); [Pub. L. 118–272, div. A, title I, § 1119(a)](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3012](https://www.govinfo.gov/link/statute/138/3012).)*

@@ -3,9 +3,10 @@ title: "Section 2696 - Nondiscretionary personnel costs, currency fluctuations, 
 usc_title: 22
 usc_section: "2696"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2696"
-generated_at: "2026-03-30T02:55:05.379Z"
+generated_at: "2026-11-23T21:25:58.530Z"
+status: "active"
 ---
 
 # § 2696. Nondiscretionary personnel costs, currency fluctuations, and other contingencies
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:05.379Z"
   - **(2)** Amounts appropriated for the “Diplomatic and Consular Programs” account may not exceed by more than 5 percent the amount specifically authorized to be appropriated for such account for a fiscal year. No other appropriations account may exceed by more than 10 percent the amount specifically authorized to be appropriated for such account for a fiscal year.
   - **(3)** The requirements and limitations of section 2680 of this title shall not apply to the appropriation of funds pursuant to this subsection.
 - **(e)** Amounts authorized to be appropriated for a fiscal year for the Department of State or to the Secretary of State are authorized to be obligated for twelve-month contracts which are to be performed in two fiscal years, if the total amount for such contracts is obligated in the earlier fiscal year.
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title I, § 24, as added [Pub. L. 96–60, title I, § 105(a)](https://www.govinfo.gov/link/plaw/96/public/60), Aug. 15, 1979, [93 Stat. 396](https://www.govinfo.gov/link/statute/93/396); renumbered title I and amended [Pub. L. 97–241, title I, § 112(a)](https://www.govinfo.gov/link/plaw/97/public/241), title II, § 202(a), Aug. 24, 1982, [96 Stat. 277](https://www.govinfo.gov/link/statute/96/277), 282; [Pub. L. 101–246, title I, § 107](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 21](https://www.govinfo.gov/link/statute/104/21); [Pub. L. 102–138, title I, § 117(a)](https://www.govinfo.gov/link/plaw/102/public/138), (c), Oct. 28, 1991, [105 Stat. 656](https://www.govinfo.gov/link/statute/105/656), 657; [Pub. L. 103–236, title I, § 122(a)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 392](https://www.govinfo.gov/link/statute/108/392); [Pub. L. 110–252, title I, § 1408(b)](https://www.govinfo.gov/link/plaw/110/public/252), June 30, 2008, [122 Stat. 2342](https://www.govinfo.gov/link/statute/122/2342).)*

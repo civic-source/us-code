@@ -3,9 +3,10 @@ title: "Section 4304a - Enforcement of compliance with liability insurance requi
 usc_title: 22
 usc_section: "4304a"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4304a"
-generated_at: "2026-03-30T02:55:05.410Z"
+generated_at: "2026-11-23T21:25:58.640Z"
+status: "active"
 ---
 
 # § 4304a. Enforcement of compliance with liability insurance requirements
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.410Z"
 - **(c)** For purposes of this section—
   - **(1)** the term “head of a foreign mission” has the same meaning as is ascribed to the term “head of a mission” in Article 1 of the Vienna Convention on Diplomatic Relations of April 18, 1961 (T.I.A.S. numbered 7502; 23 U.S.T. 3227); and
   - **(2)** the terms “members of a mission” and “family” have the same meanings as is ascribed to them by paragraphs (1) and (2) of section 254a of this title .
+
+## Source Credit
+
+*(Aug. 1, 1956, ch. 841, title II, § 204A, as added [Pub. L. 98–164, title VI, § 603](https://www.govinfo.gov/link/plaw/98/public/164), Nov. 22, 1983, [97 Stat. 1042](https://www.govinfo.gov/link/statute/97/1042); amended [Pub. L. 103–236, title I, § 162](https://www.govinfo.gov/link/plaw/103/public/236) (o)(4), Apr. 30, 1994, [108 Stat. 410](https://www.govinfo.gov/link/statute/108/410).)*

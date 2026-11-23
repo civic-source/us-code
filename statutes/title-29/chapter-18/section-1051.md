@@ -3,9 +3,10 @@ title: "Section 1051 - Coverage"
 usc_title: 29
 usc_section: "1051"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1051"
-generated_at: "2026-03-30T02:55:18.705Z"
+generated_at: "2026-11-23T21:26:02.232Z"
+status: "active"
 ---
 
 # § 1051. Coverage
@@ -22,3 +23,7 @@ This part shall apply to any employee benefit plan described in section 1003(a) 
   - **(6)** an individual retirement account or annuity described in section 408 of title 26 , or a retirement bond described in section 409 of title 26 (as effective for obligations issued before January 1, 1984 );
   - **(7)** an excess benefit plan; or
   - **(8)** any plan, fund or program under which an employer, all of whose stock is directly or indirectly owned by employees, former employees or their beneficiaries, proposes through an unfunded arrangement to compensate retired employees for benefits which were forfeited by such employees under a pension plan maintained by a former employer prior to the date such pension plan became subject to this chapter.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 201](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 852](https://www.govinfo.gov/link/statute/88/852); [Pub. L. 96–364, title IV, § 411(a)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1308](https://www.govinfo.gov/link/statute/94/1308); [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7891(a)(1), 7894(c)(1)(A), (11)(A), Dec. 19, 1989, [103 Stat. 2445](https://www.govinfo.gov/link/statute/103/2445), 2448, 2449.)*

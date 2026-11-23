@@ -3,9 +3,10 @@ title: "Section 3313 - Procurement of life-cycle cost effective and energy effic
 usc_title: 40
 usc_section: "3313"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 3313"
-generated_at: "2026-03-30T02:55:43.379Z"
+generated_at: "2026-11-23T21:26:14.866Z"
+status: "active"
 ---
 
 # § 3313. Procurement of life-cycle cost effective and energy efficient lighting systems
@@ -34,3 +35,39 @@ generated_at: "2026-03-30T02:55:43.379Z"
 - **(g)** The Administrator of the Environmental Protection Agency and the Secretary of Energy shall give priority to establishing Energy Star performance criteria or Federal Energy Management Program designations for additional lighting product categories that are appropriate for procurement and use in public buildings.
 - **(h)** The Administrator shall develop guidelines for the procurement and use of energy efficient lighting technologies that contain mercury in child care centers in public buildings.
 - **(i)** Acquisitions carried out pursuant to this section shall be subject to the requirements of the Buy American Act 1 1 See References in Text note below. ( 41 U.S.C. 10c et seq.).
+
+Definitions
+
+Administrator
+
+Lighting system
+
+Procurement.—
+
+In general
+
+Use
+
+Maintenance of Public Buildings
+
+Considerations.—
+
+Contracting options
+
+Procurement and use
+
+Life-Cycle Cost Effective
+
+Energy Star
+
+Additional Energy Efficient Lighting Designations
+
+Guidelines
+
+Applicability of Buy American Act
+
+“Not later than 1 year after the date of enactment of this Act [ Oct. 17, 2022 ], the Administrator of General Services shall—
+
+## Source Credit
+
+*(Added [Pub. L. 110–140, title III, § 323(c)(1)(B)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1590](https://www.govinfo.gov/link/statute/121/1590); amended [Pub. L. 117–202, § 3(a)](https://www.govinfo.gov/link/plaw/117/public/202), Oct. 17, 2022, [136 Stat. 2224](https://www.govinfo.gov/link/statute/136/2224).)*

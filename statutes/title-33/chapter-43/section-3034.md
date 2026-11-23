@@ -3,9 +3,10 @@ title: "Section 3034 - Officer candidates"
 usc_title: 33
 usc_section: "3034"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3034"
-generated_at: "2026-03-30T02:55:41.136Z"
+generated_at: "2026-11-23T21:26:11.476Z"
+status: "active"
 ---
 
 # § 3034. Officer candidates
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:41.136Z"
   - **(1)** standards for determining what constitutes a breach of an agreement signed under subsection (d)(1); and
   - **(2)** procedures for determining whether such a breach has occurred.
 - **(f)** An officer candidate or former officer candidate who does not fulfill the terms of the obligation to serve as specified under subsection (d) shall be subject to the repayment provisions of section 3006(b) of this title .
+
+## Source Credit
+
+*([Pub. L. 107–372, title II, § 234](https://www.govinfo.gov/link/plaw/107/public/372), as added [Pub. L. 116–259, title III, § 305(a)](https://www.govinfo.gov/link/plaw/116/public/259), Dec. 23, 2020, [134 Stat. 1172](https://www.govinfo.gov/link/statute/134/1172).)*

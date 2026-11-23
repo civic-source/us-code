@@ -3,9 +3,10 @@ title: "Section 4805 - Findings and issuance of orders"
 usc_title: 7
 usc_section: "4805"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 4805"
-generated_at: "2026-03-30T02:53:42.411Z"
+generated_at: "2026-11-23T21:25:28.352Z"
+status: "active"
 ---
 
 # § 4805. Findings and issuance of orders
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:42.411Z"
 - **(b)** Not more than one order may be in effect at a time.
 - **(c)** An order shall become effective on a date that is not more than 90 days following the publication of such order.
 - **(d)** An order shall contain such terms and conditions as are required in sections 4806 through 4809 of this title and, except as provided in section 4810 of this title , no others.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XVI, § 1616](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1609](https://www.govinfo.gov/link/statute/99/1609).)*

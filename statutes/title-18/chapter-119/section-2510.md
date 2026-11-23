@@ -3,9 +3,10 @@ title: "Section 2510 - Definitions"
 usc_title: 18
 usc_section: "2510"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2510"
-generated_at: "2026-03-30T02:54:16.506Z"
+generated_at: "2026-11-23T21:25:44.157Z"
+status: "active"
 ---
 
 # § 2510. Definitions
@@ -55,3 +56,27 @@ As used in this chapter—
   - **(21)** “computer trespasser”—
     - **(A)** means a person who accesses a protected computer without authorization and thus has no reasonable expectation of privacy in any communication transmitted to, through, or from the protected computer; and
     - **(B)** does not include a person known by the owner or operator of the protected computer to have an existing contractual relationship with the owner or operator of the protected computer for access to all or part of the protected computer.
+
+(a) any telephone or telegraph instrument, equipment or facility, or any component thereof, (i) furnished to the subscriber or user by a provider of wire or electronic communication service in the ordinary course of its business and being used by the subscriber or user in the ordinary course of its business or furnished by such subscriber or user for connection to the facilities of such service and used in the ordinary course of its business; or (ii) being used by a provider of wire or electronic communication service in the ordinary course of its business, or by an investigative or law enforcement officer in the ordinary course of his duties;
+
+(b) a hearing aid or similar device being used to correct subnormal hearing to not better than normal;
+
+(a) a judge of a United States district court or a United States court of appeals; and
+
+(b) a judge of any court of general criminal jurisdiction of a State who is authorized by a statute of that State to enter orders authorizing interceptions of wire, oral, or electronic communications;
+
+In General
+
+Special Rule for State Authorizations of Interceptions
+
+Effective Date for Certain Approvals by Justice Department Officials
+
+In General
+
+Certain Activities Under Procedures Approved by the Attorney General
+
+“On the basis of its own investigations and of published studies, the Congress makes the following findings:
+
+## Source Credit
+
+*(Added [Pub. L. 90–351, title III, § 802](https://www.govinfo.gov/link/plaw/90/public/351), June 19, 1968, [82 Stat. 212](https://www.govinfo.gov/link/statute/82/212); amended [Pub. L. 99–508, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/508), (c)(1)(A), (4), Oct. 21, 1986, [100 Stat. 1848](https://www.govinfo.gov/link/statute/100/1848), 1851; [Pub. L. 103–414, title II](https://www.govinfo.gov/link/plaw/103/public/414), §§ 202(a), 203, Oct. 25, 1994, [108 Stat. 4290](https://www.govinfo.gov/link/statute/108/4290), 4291; [Pub. L. 104–132, title VII, § 731](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1303](https://www.govinfo.gov/link/statute/110/1303); [Pub. L. 107–56, title II](https://www.govinfo.gov/link/plaw/107/public/56), §§ 203(b)(2), 209(1), 217(1), Oct. 26, 2001, [115 Stat. 280](https://www.govinfo.gov/link/statute/115/280), 283, 290; [Pub. L. 107–108, title III, § 314(b)](https://www.govinfo.gov/link/plaw/107/public/108), Dec. 28, 2001, [115 Stat. 1402](https://www.govinfo.gov/link/statute/115/1402); [Pub. L. 107–273, div. B, title IV, § 4002(e)(10)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1810](https://www.govinfo.gov/link/statute/116/1810).)*

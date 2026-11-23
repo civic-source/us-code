@@ -3,9 +3,10 @@ title: "Section 8481 - Support of athletic and physical fitness programs"
 usc_title: 10
 usc_section: "8481"
 chapter: 853
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 8481"
-generated_at: "2026-03-30T02:53:38.245Z"
+generated_at: "2026-11-23T21:25:32.926Z"
+status: "active"
 ---
 
 # § 8481. Support of athletic and physical fitness programs
@@ -27,3 +28,37 @@ generated_at: "2026-03-30T02:53:38.245Z"
   - **(1)** qualify as a nonprofit organization under section 501(c)(3) of the Internal Revenue Code of 1986 and operates in accordance with this section, the laws of the State of Maryland, and the constitution and bylaws of the Association; and
   - **(2)** operate exclusively to support the athletic and physical fitness programs of the Naval Academy.
 - **(h)** In this section, the term “Association” means the Naval Academy Athletic Association.
+
+Authority.—
+
+Contracts and cooperative agreements
+
+Leases
+
+Use of Navy Personal Property by the Association
+
+Acceptance of Support.—
+
+Support received from the association
+
+Funds received from ncaa
+
+Limitation
+
+Retention and Use of Funds
+
+Trademarks and Service Marks.—
+
+Licensing, marketing, and sponsorship agreements
+
+Limitations
+
+Service on Association Board of Control
+
+Conditions
+
+Association Defined
+
+## Source Credit
+
+*(Added [Pub. L. 112–239, div. A, title V, § 542(a)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1735](https://www.govinfo.gov/link/statute/126/1735), § 6981; renumbered § 8481 and amended [Pub. L. 115–232, div. A, title VIII](https://www.govinfo.gov/link/plaw/115/public/232), §§ 807(c)(1), 809(a), Aug. 13, 2018, [132 Stat. 1836](https://www.govinfo.gov/link/statute/132/1836), 1840; [Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4294](https://www.govinfo.gov/link/statute/134/4294).)*

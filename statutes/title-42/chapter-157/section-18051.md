@@ -3,9 +3,10 @@ title: "Section 18051 - State flexibility to establish basic health programs for
 usc_title: 42
 usc_section: "18051"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18051"
-generated_at: "2026-03-30T02:56:11.514Z"
+generated_at: "2026-11-23T21:26:33.810Z"
+status: "active"
 ---
 
 # § 18051. State flexibility to establish basic health programs for low-income individuals not eligible for medicaid
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:56:11.514Z"
   - **(3)** the quality and performance standards under this section.
 - **(g)** A State may provide that persons eligible to offer standard health plans under a basic health program established under this section may include a licensed health maintenance organization, a licensed health insurance insurer, or a network of health care providers established to offer services under the program.
 - **(h)** Any term used in this section which is also used in section 36B of title 26 shall have the meaning given such term by such section.
+
+## Source Credit
+
+*([Pub. L. 111–148, title I, § 1331](https://www.govinfo.gov/link/plaw/111/public/148), title X, § 10104(o), Mar. 23, 2010, [124 Stat. 199](https://www.govinfo.gov/link/statute/124/199), 902.)*

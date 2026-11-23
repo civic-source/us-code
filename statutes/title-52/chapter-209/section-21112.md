@@ -3,9 +3,10 @@ title: "Section 21112 - Establishment of State-based administrative complaint pr
 usc_title: 52
 usc_section: "21112"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 21112"
-generated_at: "2026-03-30T02:56:30.168Z"
+generated_at: "2026-11-23T21:26:42.339Z"
+status: "active"
 ---
 
 # § 21112. Establishment of State-based administrative complaint procedures to remedy grievances
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:30.168Z"
     - **(B)** to submit a compliance plan to the Attorney General which provides detailed information on the steps the State will take to ensure that it meets the requirements of subchapter III.
   - **(2)** A nonparticipating State (other than a State which makes the election described in paragraph (1)(A)) shall be deemed to not meet the requirements of subchapter III if the Attorney General has not approved a compliance plan submitted by the State under this subsection.
   - **(3)** In this section, a “nonparticipating State” is a State which, during 2003, does not notify any office which is responsible for making payments to States under any program under this chapter of its intent to participate in, and receive funds under, the program.
+
+## Source Credit
+
+*([Pub. L. 107–252, title IV, § 402](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1715](https://www.govinfo.gov/link/statute/116/1715).)*

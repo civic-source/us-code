@@ -3,9 +3,10 @@ title: "Section 10226 - Personnel and administrative authority"
 usc_title: 34
 usc_section: "10226"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10226"
-generated_at: "2026-03-30T02:55:33.262Z"
+generated_at: "2026-11-23T21:26:09.629Z"
+status: "active"
 ---
 
 # § 10226. Personnel and administrative authority
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:33.262Z"
 - **(e)** The Office, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics are authorized to appoint, without regard to the provisions of title 5, advisory committees to advise them with respect to the administration of this chapter as they deem necessary. Such committees shall be subject to chapter 10 of title 5. Members of such committees not otherwise in the employ of the United States, while engaged in advising or attending meetings of such committees, shall be compensated at rates to be fixed by the Office but not to exceed the daily equivalent of the rate of pay payable from time to time for GS–18 of the General Schedule under section 5332 of title 5 , and while away from home or regular place of business they may be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as authorized by section 5703 of such title 5 for persons in the Government service employed intermittently.
 - **(f)** Payments under this chapter may be made in installments, and in advance or by way of reimbursement, as may be determined by the Office, the Bureau of Justice Assistance, the National Institute of Justice, or the Bureau of Justice Statistics, and may be used to pay the transportation and subsistence expenses of persons attending conferences or other assemblages notwithstanding section 1345 of title 31 .
 - **(g)** The Office, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics are authorized to accept and employ, in carrying out the provisions of this chapter, voluntary and uncompensated services notwithstanding section 1342 of title 31 . Such individuals shall not be considered Federal employees except for purposes of chapter 81 of title 5 with respect to job-incurred disability and title 28 with respect to tort claims.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 807](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 98–473, title II, § 609B(g)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2094](https://www.govinfo.gov/link/statute/98/2094); amended [Pub. L. 117–286, § 4(a)(210)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4329](https://www.govinfo.gov/link/statute/136/4329).)*

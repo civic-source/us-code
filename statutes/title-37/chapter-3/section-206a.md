@@ -3,12 +3,17 @@ title: "Section 206a - Pay of members of reserve components for inactive-duty tr
 usc_title: 37
 usc_section: "206a"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 206a"
-generated_at: "2026-03-30T02:55:44.049Z"
+generated_at: "2026-11-23T21:26:14.172Z"
+status: "active"
 ---
 
 # § 206a. Pay of members of reserve components for inactive-duty training to obtain or maintain an aeronautical rating or designation
 
 Under regulations prescribed by the Secretary concerned, a member of the National Guard or a member of a reserve component of a uniformed service who is receiving aviation incentive pay under section 334(a) of this title and is entitled to compensation under section 206 of this title is entitled to such compensation for a number of periods of inactive-duty training each month sufficient for the member to obtain or maintain an aeronautical rating or designation.
 
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 289](https://www.govinfo.gov/link/statute/137/289).)*

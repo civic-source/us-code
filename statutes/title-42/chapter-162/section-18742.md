@@ -3,9 +3,10 @@ title: "Section 18742 - Advanced energy manufacturing and recycling grant progra
 usc_title: 42
 usc_section: "18742"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18742"
-generated_at: "2026-03-30T02:56:11.528Z"
+generated_at: "2026-11-23T21:26:33.840Z"
+status: "active"
 ---
 
 # § 18742. Advanced energy manufacturing and recycling grant program
@@ -80,3 +81,7 @@ generated_at: "2026-03-30T02:56:11.528Z"
   - **(1)** review the grants awarded under the Program; and
   - **(2)** submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives a report describing those grants.
 - **(h)** There is authorized to be appropriated to the Secretary to carry out the Program $750,000,000 for the period of fiscal years 2022 through 2026.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title II, § 40209](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 975](https://www.govinfo.gov/link/statute/135/975).)*

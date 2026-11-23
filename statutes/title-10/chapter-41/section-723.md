@@ -3,9 +3,10 @@ title: "Section 723 - Support of civil authorities: requirement for use of membe
 usc_title: 10
 usc_section: "723"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 723"
-generated_at: "2026-03-30T02:53:38.075Z"
+generated_at: "2026-11-23T21:25:32.317Z"
+status: "active"
 ---
 
 # § 723. Support of civil authorities: requirement for use of members of the Armed Forces and Federal law enforcement personnel
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:53:38.075Z"
 - **(c)** The requirements under subsections (a) and (b) shall not apply to individuals referred to in any such subsection who—
   - **(1)** do not wear a uniform or other distinguishing clothing or equipment in the regular performance of their official duties; or
   - **(2)** are engaged in undercover operations in the regular performance of their official duties.
+
+Response to Civil Disturbances
+
+Support to Civilian Law Enforcement Agencies by Members of the Armed Forces
+
+Exception
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. A, title X, § 1064(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3860](https://www.govinfo.gov/link/statute/134/3860); amended [Pub. L. 119–60, div. A, title X, § 1043(a)(1)](https://www.govinfo.gov/link/plaw/119/public/60), (b)(1), Dec. 18, 2025, [139 Stat. 1037](https://www.govinfo.gov/link/statute/139/1037).)*

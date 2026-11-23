@@ -3,9 +3,10 @@ title: "Section 3205 - Competitive grant program for large-scale water recycling
 usc_title: 43
 usc_section: "3205"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 3205"
-generated_at: "2026-03-30T02:55:57.502Z"
+generated_at: "2026-11-23T21:26:19.906Z"
+status: "active"
 ---
 
 # § 3205. Competitive grant program for large-scale water recycling and reuse program
@@ -63,3 +64,7 @@ generated_at: "2026-03-30T02:55:57.502Z"
       - **(ii)** the justification and criteria used for the selection of each eligible project, if applicable.
 - **(j)** The Secretary shall consider the planning, design, and construction of a conveyance system for an eligible project to be eligible for grant funding under the program.
 - **(k)** The authority to carry out this section terminates on the date that is 5 years after November 15, 2021 .
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title IX, § 40905](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1122](https://www.govinfo.gov/link/statute/135/1122).)*

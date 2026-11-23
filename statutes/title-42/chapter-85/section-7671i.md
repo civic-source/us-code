@@ -3,9 +3,10 @@ title: "Section 7671i - Nonessential products containing chlorofluorocarbons"
 usc_title: 42
 usc_section: "7671i"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7671i"
-generated_at: "2026-03-30T02:56:11.328Z"
+generated_at: "2026-11-23T21:26:33.163Z"
+status: "active"
 ---
 
 # § 7671i. Nonessential products containing chlorofluorocarbons
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:11.328Z"
     - **(A)** a foam insulation product, or
     - **(B)** an integral skin, rigid, or semi-rigid foam utilized to provide for motor vehicle safety in accordance with Federal Motor Vehicle Safety Standards where no adequate substitute substance (other than a class I or class II substance) is practicable for effectively meeting such Standards.
 - **(e)** Nothing in this section shall apply to any medical device as defined in section 7671(8) of this title .
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title VI, § 610, as added [Pub. L. 101–549, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2664](https://www.govinfo.gov/link/statute/104/2664).)*

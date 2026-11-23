@@ -3,9 +3,10 @@ title: "Section 410hh - Establishment of new areas"
 usc_title: 16
 usc_section: "410hh"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410hh"
-generated_at: "2026-03-30T02:54:22.766Z"
+generated_at: "2026-11-23T21:25:51.444Z"
+status: "active"
 ---
 
 # § 410hh. Establishment of new areas
@@ -22,3 +23,51 @@ The following areas are hereby established as units of the National Park System 
   - **(8)**
   - **(9)** Wrangell-Saint Elias National Park, containing approximately eight million one hundred and forty-seven thousand acres of public lands, and Wrangell-Saint Elias National Preserve, containing approximately four million one hundred and seventy-one thousand acres of public lands, as generally depicted on map numbered WRST–90,007, and dated August 1980. The park and preserve shall be managed for the following purposes, among others: To maintain unimpaired the scenic beauty and quality of high mountain peaks, foothills, glacial systems, lakes, and streams, valleys, and coastal landscapes in their natural state; to protect habitat for, and populations of, fish and wildlife including but not limited to caribou, brown/grizzly bears, Dall sheep, moose, wolves, trumpeter swans and other waterfowl, and marine mammals; and to provide continued opportunities, including reasonable access for mountain climbing, mountaineering, and other wilderness recreational activities. Subsistence uses by local residents shall be permitted in the park, where such uses are traditional, in accordance with the provisions of subchapter II of chapter 51 of this title.
   - **(10)** Yukon-Charley Rivers National Preserve, containing approximately one million seven hundred and thirteen thousand acres of public lands, as generally depicted on map numbered YUCH–90,008, and dated October 1978. The preserve shall be managed for the following purposes, among others: To maintain the environmental integrity of the entire Charley River basin, including streams, lakes and other natural features, in its undeveloped natural condition for public benefit and scientific study; to protect habitat for, and populations of, fish and wildlife, including but not limited to the peregrine falcons and other raptorial birds, caribou, moose, Dall sheep, grizzly bears, and wolves; and in a manner consistent with the foregoing, to protect and interpret historical sites and events associated with the gold rush on the Yukon River and the geological and paleontological history and cultural prehistory of the area. Except at such times when and locations where to do so would be inconsistent with the purposes of the preserve, the Secretary shall permit aircraft to continue to land at sites in the Upper Charley River watershed.
+
+(a) Gates of the Arctic National Park, containing approximately seven million fifty-two thousand acres of public lands, Gates of the Arctic National Preserve, containing approximately nine hundred thousand acres of Federal lands, as generally depicted on map numbered GAAR–90,011, and dated July 1980. The park and preserve shall be managed for the following purposes, among others: To maintain the wild and undeveloped character of the area, including opportunities for visitors to experience solitude, and the natural environmental integrity and scenic beauty of the mountains, forelands, rivers, lakes, and other natural features; to provide continued opportunities, including reasonable access, for mountain climbing, mountaineering, and other wilderness recreational activities; and to protect habitat for and the populations of, fish and wildlife, including, but not limited to, caribou, grizzly bears, Dall sheep, moose, wolves, and raptorial birds. Subsistence uses by local residents shall be permitted in the park, where such uses are traditional, in accordance with the provisions of subchapter II of chapter 51 of this title.
+
+(b) Congress finds that there is a need for access for surface transportation purposes across the Western (Kobuk River) unit of the Gates of the Arctic National Preserve (from the Ambler Mining District to the Alaska Pipeline Haul Road) and the Secretary shall permit such access in accordance with the provisions of this subsection.
+
+(c) Upon the filing of an application pursuant to section 3164(b) and (c) of this title for a right-of-way across the Western (Kobuk River) unit of the preserve, including the Kobuk Wild and Scenic River, the Secretary shall give notice in the Federal Register of a thirty-day period for other applicants to apply for access.
+
+(d) The Secretary and the Secretary of Transportation shall jointly prepare an environmental and economic analysis solely for the purpose of determining the most desirable route for the right-of-way and terms and conditions which may be required for the issuance of that right-of-way. This analysis shall be completed within one year and the draft thereof within nine months of the receipt of the application and shall be prepared in lieu of an environmental impact statement which would otherwise be required under section 102(2)(C) of the National Environmental Policy Act [ 42 U.S.C. 4332(2)(C) ]. Such analysis shall be deemed to satisfy all requirements of that Act [ 42 U.S.C. 4321 et seq.] and shall not be subject to judicial review. Such environmental and economic analysis shall be prepared in accordance with the procedural requirements of section 3164(e) of this title . The Secretaries in preparing the analysis shall consider the following— (i) Alternative routes including the consideration of economically feasible and prudent alternative routes across the preserve which would result in fewer or less severe adverse impacts upon the preserve. (ii) The environmental and social and economic impact of the right-of-way including impact upon wildlife, fish, and their habitat, and rural and traditional lifestyles including subsistence activities, and measures which should be instituted to avoid or minimize negative impacts and enhance positive impacts.
+
+(e) Within 60 days of the completion of the environmental and economic analysis, the Secretaries shall jointly agree upon a route for issuance of the right-of-way across the preserve. Such right-of-way shall be issued in accordance with the provisions of section 3167 of this title .
+
+(a) Lake Clark National Park, containing approximately two million four hundred thirty-nine thousand acres of public lands, and Lake Clark National Preserve, containing approximately one million two hundred and fourteen thousand acres of public lands, as generally depicted on map numbered LACL–90,008, and dated October 1978. The park and preserve shall be managed for the following purposes, among others: To protect the watershed necessary for perpetuation of the red salmon fishery in Bristol Bay; to maintain unimpaired the scenic beauty and quality of portions of the Alaska Range and the Aleutian Range, including active volcanoes, glaciers, wild rivers, lakes, waterfalls, and alpine meadows in their natural state; and to protect habitat for and populations of fish and wildlife including but not limited to caribou, Dall sheep, brown/grizzly bears, bald eagles, and peregrine falcons.
+
+(b) No lands conveyed to the Nondalton Village Corporation shall be considered to be within the boundaries of the park or preserve; if the corporation desires to convey any such lands, the Secretary may acquire such lands with the consent of the owner, and any such lands so acquired shall become part of the park or preserve, as appropriate. Subsistence uses by local residents shall be permitted in the park where such uses are traditional in accordance with the provisions of subchapter II of chapter 51 of this title.
+
+(a) Noatak National Preserve, containing approximately 6,477,168 acres of public lands, as generally depicted on map numbered NOAT–90,004, and dated July 1980 and the map entitled “Noatak National Preserve and Noatak Wilderness Addition” dated September 1994. The preserve shall be managed for the following purposes, among others: To maintain the environmental integrity of the Noatak River and adjacent uplands within the preserve in such a manner as to assure the continuation of geological and biological processes unimpaired by adverse human activity; to protect habitat for, and populations of, fish and wildlife, including but not limited to caribou, grizzly bears, Dall sheep, moose, wolves, and for waterfowl, raptors, and other species of birds; to protect archeological resources; and in a manner consistent with the foregoing, to provide opportunities for scientific research. The Secretary may establish a board consisting of scientists and other experts in the field of arctic research in order to assist him in the encouragement and administration of research efforts within the preserve.
+
+(b) All lands located east of centerline of the main channel of the Noatak River which are— (1) within (A) any area withdrawn under the Alaska Native Claims Settlement Act [ 43 U.S.C. 1601 et seq.] for selection by the village of Noatak, and (B) any village deficiency withdrawal under section 11(a)(3)(A) of such Act [ 43 U.S.C. 1610(a)(3)(A) ] which is adjacent to the area described in subparagraph (i) 1 1 So in original. Probably should be “subparagraph (A)”. of this paragraph, (2) adjacent to public lands within a unit of the National Park System as designated under this Act, and (3) not conveyed to such Village or other Native Corporation before the final conveyance date, shall, on such final conveyance date, be added to and included within, the adjacent unit of the National Park System (notwithstanding the applicable acreage specified in this paragraph) and managed in the manner provided in the foregoing provisions of this paragraph. For purposes of the preceding sentence the term “final conveyance date” means the date of the conveyance of lands under the Alaska Native Claims Settlement Act [ 43 U.S.C. 1601 et seq.], or by operation of this Act, to the Village of Noatak, or to any other Native Corporation which completes the entitlement of such Village or other Corporation to conveyance of lands from the withdrawals referred to in subparagraph (1).
+
+Findings
+
+Ratification of agreement.—
+
+Ratification.—
+
+In general
+
+Land acquisition
+
+Maps
+
+National Park System Wilderness.—
+
+Gates of the artic wilderness
+
+Noatak national preserve
+
+Noatak wilderness
+
+Conformance With Other Law.—
+
+Alaska native claims settlement act
+
+Alaska national interest lands conservation act
+
+## Source Credit
+
+*([Pub. L. 96–487, title II, § 201](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2377](https://www.govinfo.gov/link/statute/94/2377); [Pub. L. 104–333, div. I, title III, § 302(c)(2)](https://www.govinfo.gov/link/plaw/104/public/333), Nov. 12, 1996, [110 Stat. 4119](https://www.govinfo.gov/link/statute/110/4119).)*

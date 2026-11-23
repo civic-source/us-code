@@ -3,9 +3,10 @@ title: "Section 3977 - Premiums and interest guaranteed by United States"
 usc_title: 50
 usc_section: "3977"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3977"
-generated_at: "2026-03-30T02:56:26.264Z"
+generated_at: "2026-11-23T21:26:39.081Z"
+status: "active"
 ---
 
 # § 3977. Premiums and interest guaranteed by United States
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:26.264Z"
   - **(2)** Such amount may be collected by the United States, either as an offset from any amount due the insured by the United States or as otherwise authorized by law.
   - **(3)** Such debt payable to the United States is not dischargeable in bankruptcy proceedings.
 - **(c)** Any amounts received by the United States as repayment of debts incurred by an insured under this subchapter shall be credited to the appropriation for the payment of claims under this subchapter.
+
+## Source Credit
+
+*(Oct. 17, 1940, ch. 888, title IV, § 407, as added [Pub. L. 108–189, § 1](https://www.govinfo.gov/link/plaw/108/public/189), Dec. 19, 2003, [117 Stat. 2853](https://www.govinfo.gov/link/statute/117/2853).)*

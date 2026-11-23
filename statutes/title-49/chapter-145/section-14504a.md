@@ -3,9 +3,10 @@ title: "Section 14504a - Unified Carrier Registration System plan and agreement"
 usc_title: 49
 usc_section: "14504a"
 chapter: 145
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 14504a"
-generated_at: "2026-03-30T02:56:19.331Z"
+generated_at: "2026-11-23T21:26:40.693Z"
+status: "active"
 ---
 
 # § 14504a. Unified Carrier Registration System plan and agreement
@@ -148,3 +149,165 @@ generated_at: "2026-03-30T02:56:19.331Z"
       - **(ii)** pay the fees required under subsection (f); or
     - **(B)** authorizes a State to require a motor carrier, motor private carrier, or freight forwarder to display as evidence of compliance any form of identification in excess of those permitted under section 14506 on or in a commercial motor vehicle.
 - **(j)** Notwithstanding any other provision of this section, a State may elect to apply the provisions of the UCR agreement to motor carriers and motor private carriers and freight forwarders subject to its jurisdiction that operate solely in intrastate commerce within the borders of the State.
+
+Definitions
+
+Commercial motor vehicle.—
+
+In general
+
+Exception
+
+Base-state.—
+
+In general
+
+Designation of base-state
+
+Intrastate fee
+
+Leasing company
+
+Motor carrier.—
+
+This section
+
+In general
+
+Exclusions
+
+Section 14506
+
+Participating state
+
+Unified carrier registration agreement
+
+Unified carrier registration plan
+
+Vehicle registration
+
+Applicability of Provisions to Freight Forwarders
+
+Unreasonable Burden
+
+Unified Carrier Registration Plan.—
+
+Board of directors.—
+
+Governance of plan; establishment
+
+Composition
+
+Federal motor carrier safety administration
+
+State agencies
+
+Motor carrier industry
+
+Department of transportation
+
+Chairperson and vice-chairperson
+
+Terms.—
+
+Initial terms
+
+Thereafter
+
+Succession
+
+End of service
+
+Rules and regulations governing the ucr agreement
+
+Compensation and expenses.—
+
+In general
+
+Expenses
+
+Meetings.—
+
+In general
+
+Quorum
+
+Voting
+
+Open meetings
+
+Subcommittees.—
+
+Industry advisory subcommittee
+
+Other subcommittees
+
+Membership
+
+Representation on subcommittees
+
+Delegation of authority
+
+Determination of fees.—
+
+Recommendation by board
+
+Setting fees
+
+Liability protections for directors
+
+Inapplicability of chapter
+
+of title
+
+Certain fees not affected
+
+State Participation.—
+
+State plan
+
+Amended plans
+
+Withdrawal of plan
+
+Termination of eligibility
+
+Provision of plan to chairperson
+
+Contents of Unified Carrier Registration Agreement
+
+Fees
+
+Determination of ownership or operation
+
+Calculation of number of commercial motor vehicles owned or operated
+
+Payment of fees
+
+Payment of Fees
+
+Distribution of UCR Agreement Revenues.—
+
+Eligibility
+
+Entitlement to revenues
+
+Distribution of funds from depository
+
+Retention of certain excess funds
+
+Enforcement.—
+
+Civil actions
+
+Venue
+
+Relief
+
+Enforcement by states
+
+Application to Intrastate Carriers
+
+## Source Credit
+
+*(Added [Pub. L. 109–59, title IV, § 4305(b)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1764](https://www.govinfo.gov/link/statute/119/1764); amended [Pub. L. 110–244, title III, § 301(m)](https://www.govinfo.gov/link/plaw/110/public/244) –(p), June 6, 2008, [122 Stat. 1617](https://www.govinfo.gov/link/statute/122/1617); [Pub. L. 110–432, div. A, title VII, § 701(d)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4906](https://www.govinfo.gov/link/statute/122/4906); [Pub. L. 112–141, div. C, title II, § 32933(b)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 830](https://www.govinfo.gov/link/statute/126/830); [Pub. L. 117–286, § 4(a)(305)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4339](https://www.govinfo.gov/link/statute/136/4339).)*

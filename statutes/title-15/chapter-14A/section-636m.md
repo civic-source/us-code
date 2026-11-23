@@ -3,9 +3,10 @@ title: "Section 636m - Loan forgiveness"
 usc_title: 15
 usc_section: "636m"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 636m"
-generated_at: "2026-03-30T02:54:08.093Z"
+generated_at: "2026-11-23T21:25:39.661Z"
+status: "active"
 ---
 
 # § 636m. Loan forgiveness
@@ -162,3 +163,17 @@ generated_at: "2026-03-30T02:54:08.093Z"
       - **(i)** the number of active reviews and audits;
       - **(ii)** the number of reviews and audits that have been ongoing for more than 60 days; and
       - **(iii)** any substantial changes made to the audit plan submitted under subparagraph (A).
+
+(aa) the average number of full-time equivalent employees per month employed by the eligible recipient during the period beginning on February 15, 2019 and ending on June 30, 2019 ; or
+
+(bb) the average number of full-time equivalent employees per month employed by the eligible recipient during the period beginning on January 1, 2020 and ending on February 29, 2020 ; or
+
+(aa) a description of the number of employees the eligible recipient was able to retain because of the covered loan;
+
+(bb) the estimated amount of the covered loan amount spent by the eligible recipient on payroll costs; and
+
+(cc) the total loan value;
+
+## Source Credit
+
+*([Pub. L. 85–536, § 2[7A]](https://www.govinfo.gov/link/plaw/85/public/536), formerly [Pub. L. 116–136, div. A, title I, § 1106](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 297](https://www.govinfo.gov/link/statute/134/297); [Pub. L. 116–142, § 3(b)](https://www.govinfo.gov/link/plaw/116/public/142), June 5, 2020, [134 Stat. 641](https://www.govinfo.gov/link/statute/134/641); renumbered [Pub. L. 85–536, § 2[7A]](https://www.govinfo.gov/link/plaw/85/public/536), and amended [Pub. L. 116–260, div. N, title II, § 276(a)(1)](https://www.govinfo.gov/link/plaw/116/public/260), title III, §§ 304(b)(1)(A), (B), (2), 305(a), 306, 307(a), 311(b)(1), 315(b), div. EE, title II, § 206(c)(1), title III, § 303(g), Dec. 27, 2020, [134 Stat. 1979](https://www.govinfo.gov/link/statute/134/1979), 1993, 1994, 1996–1998, 2006, 2011, 3060, 3079; [Pub. L. 117–2, title V, § 5001(c)(1)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 84](https://www.govinfo.gov/link/statute/135/84).)*

@@ -3,12 +3,17 @@ title: "Section 212 - Endowment fund; protection and preservation"
 usc_title: 16
 usc_section: "212"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 212"
-generated_at: "2026-03-30T02:54:22.741Z"
+generated_at: "2026-11-23T21:25:51.391Z"
+status: "active"
 ---
 
 # § 212. Endowment fund; protection and preservation
 
 The United States of America also accepts title to the endowment fund of $50,000 mentioned in the assignment and transfer, in the possession of the Secretary of War, on July 17, 1916 , which assignment and transfer was executed on the 11th day of April, 1916, by the Lincoln Farm Association, a corporation, to the United States of America, transferring and turning over all its right, title, and interest in and to said endowment fund, heretofore invested in certain stocks, bonds, and securities held and owned by the Lincoln Farm Association, and more particularly identified and described in said assignment and transfer. The title to said endowment fund is accepted upon the terms and conditions stated in said assignment and transfer, namely, that the United States of America shall forever keep the said tract of land described in said deed, together with the buildings and appurtenances thereunto belonging, dedicated to the purpose of a national park or reservation, and that there shall never be any charge or fee made to or asked from the public for admission to the said park or reservation; and further, shall forever protect, preserve, and maintain said land, buildings, and appurtenances, and especially the log cabin in which Abraham Lincoln was born and the memorial hall inclosing the same, from spoliation, destruction, and further disintegration, to the end that they may be preserved for all time, as far as may be, as a national park or reservation.
 
+
+## Source Credit
+
+*(July 17, 1916, ch. 247, § 2, [39 Stat. 385](https://www.govinfo.gov/link/statute/39/385); July 26, 1947, ch. 343, title II, § 205(a), [61 Stat. 501](https://www.govinfo.gov/link/statute/61/501).)*

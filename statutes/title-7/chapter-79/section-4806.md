@@ -3,9 +3,10 @@ title: "Section 4806 - National Pork Producers Delegate Body"
 usc_title: 7
 usc_section: "4806"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 4806"
-generated_at: "2026-03-30T02:53:42.411Z"
+generated_at: "2026-11-23T21:25:28.352Z"
+status: "active"
 ---
 
 # § 4806. National Pork Producers Delegate Body
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:53:42.411Z"
 - **(h)** The Delegate Body shall—
   - **(1)** recommend the rate of assessment prescribed by the initial order and any increase in such rate pursuant to section 4809(5) 1 1 So in original. Probably should be section “4809(b)”. of this title; and
   - **(2)** determine the percentage of the aggregate amount of assessments collected in a State that each State association shall receive under section 4809(c)(1) of this title .
+
+## Source Credit
+
+*([Pub. L. 99–198, title XVI, § 1617](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1609](https://www.govinfo.gov/link/statute/99/1609).)*

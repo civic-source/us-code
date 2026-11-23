@@ -3,9 +3,10 @@ title: "Section 10132 - Recommendation of candidate sites for site characterizat
 usc_title: 42
 usc_section: "10132"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10132"
-generated_at: "2026-03-30T02:56:11.379Z"
+generated_at: "2026-11-23T21:26:33.335Z"
+status: "active"
 ---
 
 # § 10132. Recommendation of candidate sites for site characterization
@@ -33,3 +34,9 @@ generated_at: "2026-03-30T02:56:11.379Z"
   - **(1)** The President shall review each candidate site recommendation made by the Secretary under subsection (b). Not later than 60 days after the submission by the Secretary of a recommendation of a candidate site, the President, in his discretion, may either approve or disapprove such candidate site, and shall transmit any such decision to the Secretary and to either the Governor and legislature of the State in which such candidate site is located, or the governing body of the affected Indian tribe where such candidate site is located, as the case may be. If, during such 60-day period, the President fails to approve or disapprove such candidate site, or fails to invoke his authority under paragraph (2) to delay his decision, such candidate site shall be considered to be approved, and the Secretary shall notify such Governor and legislature, or governing body of the affected Indian tribe, of the approval of such candidate site by reason of the inaction of the President.
   - **(2)** The President may delay for not more than 6 months his decision under paragraph (1) to approve or disapprove a candidate site, upon determining that the information provided with the recommendation of the Secretary is insufficient to permit a decision within the 60-day period referred to in paragraph (1). The President may invoke his authority under this paragraph by submitting written notice to the Congress, within such 60-day period, of his intent to invoke such authority. If the President invokes such authority, but fails to approve or disapprove the candidate site involved by the end of such 6-month period, such candidate site shall be considered to be approved, and the Secretary shall notify such Governor and legislature, or governing body of the affected Indian tribe, of the approval of such candidate site by reason of the inaction of the President.
 - **(d)** Except as otherwise provided in this section, each activity of the President or the Secretary under this section shall be considered to be a preliminary decisionmaking activity. No such activity shall require the preparation of an environmental impact statement under section 102(2)(C) of the National Environmental Policy Act of 1969 ( 42 U.S.C. 4332(2)(C) ), or to require any environmental review under subparagraph (E) or (F) of section 102(2) of such Act.
+
+Ronald Reagan.
+
+## Source Credit
+
+*([Pub. L. 97–425, title I, § 112](https://www.govinfo.gov/link/plaw/97/public/425), Jan. 7, 1983, [96 Stat. 2208](https://www.govinfo.gov/link/statute/96/2208); [Pub. L. 100–202, § 101(d) [title III, § 300]](https://www.govinfo.gov/link/plaw/100/public/202), Dec. 22, 1987, [101 Stat. 1329–104](https://www.govinfo.gov/link/statute/101/1329), 1329–121; [Pub. L. 100–203, title V, § 5011(b)](https://www.govinfo.gov/link/plaw/100/public/203) –(d), Dec. 22, 1987, [101 Stat. 1330–228](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 102–154, title I](https://www.govinfo.gov/link/plaw/102/public/154), Nov. 13, 1991, [105 Stat. 1000](https://www.govinfo.gov/link/statute/105/1000).)*

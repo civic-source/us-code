@@ -3,9 +3,10 @@ title: "Section 5 - Definitions"
 usc_title: 12
 usc_section: "5"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5"
-generated_at: "2026-03-30T02:53:53.433Z"
+generated_at: "2026-11-23T21:25:36.931Z"
+status: "active"
 ---
 
 # § 1749aaa–5. Definitions
@@ -25,3 +26,7 @@ For the purposes of this subchapter—
   - **(7)** The term “mortgage” means a first mortgage on real estate in fee simple, or on the interest of either the lessor or lessee thereof (A) under a lease for not less than ninety-nine years which is renewable, or (B) under a lease having a period of not less than fifty years to run from the date the mortgage was executed. The term “first mortgage” means such classes of first liens as are commonly given to secure advances (including but not limited to advances during construction) on, or the unpaid purchase price of, real estate under the laws of the State in which the real estate is located, together with the credit instrument or instruments, if any, secured thereby, and any mortgage may be in the form of one or more trust mortgages or mortgage indentures or deeds of trust, securing notes, bonds, or other credit instruments, and, by the same instrument or by a separate instrument, may create a security interest in initial equipment, whether or not attached to the realty.
   - **(8)** The term “mortgagee” means the original lender under a mortgage, and his or its successors and assigns, and includes the holders of credit instruments issued under a trust mortgage or deed of trust pursuant to which such holders act by and through a trustee named therein.
   - **(9)** The term “mortgagor” means the original borrower under a mortgage and his or its successors and assigns.
+
+## Source Credit
+
+*(June 27, 1934, ch. 847, title XI, § 1106, as added [Pub. L. 89–754, title V, § 502(a)](https://www.govinfo.gov/link/plaw/89/public/754), Nov. 3, 1966, [80 Stat. 1276](https://www.govinfo.gov/link/statute/80/1276); amended [Pub. L. 93–383, title III, § 312(a)(6)](https://www.govinfo.gov/link/plaw/93/public/383), (b), Aug. 22, 1974, [88 Stat. 683](https://www.govinfo.gov/link/statute/88/683), 684.)*

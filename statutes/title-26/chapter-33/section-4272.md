@@ -3,9 +3,10 @@ title: "Section 4272 - Definition of taxable transportation, etc."
 usc_title: 26
 usc_section: "4272"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4272"
-generated_at: "2026-03-30T02:55:27.802Z"
+generated_at: "2026-11-23T21:26:06.617Z"
+status: "active"
 ---
 
 # § 4272. Definition of taxable transportation, etc.
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:27.802Z"
   - **(2)** under regulations prescribed by the Secretary, transportation of property in the course of exportation (including shipment to a possession of the United States) by continuous movement, and in due course so exported.
 - **(c)** For purposes of this part, the term “property” does not include excess baggage accompanying a passenger traveling on an aircraft operated on an established line.
 - **(d)** For purposes of this part, the term “transportation” includes layover or waiting time and movement of the aircraft in deadhead service.
+
+## Source Credit
+
+*(Added [Pub. L. 91–258, title II, § 204](https://www.govinfo.gov/link/plaw/91/public/258), May 21, 1970, [84 Stat. 240](https://www.govinfo.gov/link/statute/84/240); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834).)*

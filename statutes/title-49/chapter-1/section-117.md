@@ -3,9 +3,10 @@ title: "Section 117 - Council on Credit and Finance"
 usc_title: 49
 usc_section: "117"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 117"
-generated_at: "2026-03-30T02:56:19.297Z"
+generated_at: "2026-11-23T21:26:40.585Z"
+status: "active"
 ---
 
 # § 117. Council on Credit and Finance
@@ -32,3 +33,25 @@ generated_at: "2026-03-30T02:56:19.297Z"
   - **(3)** make recommendations to the Secretary regarding the selection of projects to receive assistance under such programs;
   - **(4)** review, on a regular basis, projects that received assistance under such programs; and
   - **(5)** carry out such additional duties as the Secretary may prescribe.
+
+Establishment
+
+Membership.—
+
+In general
+
+Additional members
+
+Chairperson and vice chairperson.—
+
+Chairperson
+
+Vice chairperson
+
+Executive director
+
+Duties
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title IX, § 9002(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1618](https://www.govinfo.gov/link/statute/129/1618).)*

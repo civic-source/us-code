@@ -3,9 +3,10 @@ title: "Section 1011 - Watershed restoration and enhancement agreements"
 usc_title: 16
 usc_section: "1011"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1011"
-generated_at: "2026-03-30T02:54:22.939Z"
+generated_at: "2026-11-23T21:25:51.803Z"
+status: "active"
 ---
 
 # § 1011. Watershed restoration and enhancement agreements
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:22.939Z"
     - **(D)** provide for the sharing of costs of implementing the agreement among the Federal government, 1 1 So in original. Probably should be capitalized. the landowner, and other entities, as mutually agreed on by the affected interests; and
     - **(E)** ensure that any expenditure by the Secretary pursuant to the agreement is determined by the Secretary to be in the public interest; and
   - **(2)** the Secretary may require such other terms and conditions as are necessary to protect the public investment on private lands, provided such terms and conditions are mutually agreed to by the Secretary and the landowner.
+
+## Source Credit
+
+*([Pub. L. 104–208, div. A, title I, § 101(d) [title I, § 124]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–181](https://www.govinfo.gov/link/statute/110/3009), 3009–204; [Pub. L. 105–277, div. A, § 101(e) [title I, § 136]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–231](https://www.govinfo.gov/link/statute/112/2681), 2681–266; [Pub. L. 108–7, div. F, title I, § 135](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 243](https://www.govinfo.gov/link/statute/117/243).)*

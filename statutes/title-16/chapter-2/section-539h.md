@@ -3,9 +3,10 @@ title: "Section 539h - Greer Spring Special Management Area"
 usc_title: 16
 usc_section: "539h"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 539h"
-generated_at: "2026-03-30T02:54:22.863Z"
+generated_at: "2026-11-23T21:25:51.657Z"
+status: "active"
 ---
 
 # § 539h. Greer Spring Special Management Area
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:22.863Z"
 - **(d)** The Secretary shall permit hunting and fishing on lands and waters within the special management area in accordance with applicable Federal and State law.
 - **(e)** Subject to valid, existing rights, lands within the special management areas are withdrawn from location, entry, and patent under the mining laws of the United States, and from the operation of the mineral and geothermal leasing laws of the United States.
 - **(f)** The Secretary shall construct and maintain only those roads within the special management area and corridor which are indicated on the map: Provided , That the Secretary shall provide access to such roads, or to timber harvesting pursuant to subsection (c), in such a manner as to minimize environmental impact.
+
+## Source Credit
+
+*([Pub. L. 102–220, § 4](https://www.govinfo.gov/link/plaw/102/public/220), Dec. 11, 1991, [105 Stat. 1674](https://www.govinfo.gov/link/statute/105/1674).)*

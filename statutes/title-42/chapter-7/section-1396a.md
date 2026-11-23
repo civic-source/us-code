@@ -3,9 +3,10 @@ title: "Section 1396a - State plans for medical assistance"
 usc_title: 42
 usc_section: "1396a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1396a"
-generated_at: "2026-03-30T02:56:11.030Z"
+generated_at: "2026-11-23T21:26:31.762Z"
+status: "active"
 ---
 
 # § 1396a. State plans for medical assistance
@@ -57,8 +58,8 @@ generated_at: "2026-03-30T02:56:11.030Z"
         - **(XII)** who are described in subsection (z)(1) (relating to certain TB-infected individuals); 2
         - **(XIII)** who are in families whose income is less than 250 percent of the income official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title ) applicable to a family of the size involved, and who but for earnings in excess of the limit established under section 1396d(q)(2)(B) of this title , would be considered to be receiving supplemental security income (subject, notwithstanding section 1396 o of this title, to payment of premiums or other cost-sharing charges (set on a sliding scale based on income) that the State may determine); 2
         - **(XIV)** who are optional targeted low-income children described in section 1396d(u)(2)(B) of this title ; 2
-        - **(XV)** who, but for earnings in excess of the limit established under section 1396d(q)(2)(B) of this title , would be considered to be receiving supplemental security income, who is at least 16, but less than 65, years of age, and whose assets, resources, and earned or unearned income (or both) do not exceed such limitations (if any) as the State may establish; 2
-        - **(XVI)** who are employed individuals with a medically improved disability described in section 1396d(v)(1) of this title and whose assets, resources, and earned or unearned income (or both) do not exceed such limitations (if any) as the State may establish, but only if the State provides medical assistance to individuals described in subclause (XV); 2
+        - **(XV)** who, but for earnings in excess of the limit established under section 1396d(q)(2)(B) of this title , would be considered to be receiving supplemental security income, who is at least 16 years of age, and whose assets, resources, and earned or unearned income (or both) do not exceed such limitations (if any) as the State may establish, including at least the group described in section 1396d(a)(xviii) of this title ; 2
+        - **(XVI)** who are employed individuals with a medically improved disability described in section 1396d(v)(1) of this title and whose assets, resources, and earned or unearned income (or both) do not exceed such limitations (if any) as the State may establish, including at least the group described in section 1396d(a)(xii) of this title , but only if the State provides medical assistance to individuals described in subclause (XV); 2
         - **(XVII)** who are independent foster care adolescents (as defined in section 1396d(w)(1) of this title ), or who are within any reasonable categories of such adolescents specified by the State; 2
         - **(XVIII)** who are described in subsection (aa) (relating to certain breast or cervical cancer patients); 2
         - **(XIX)** who are disabled children described in subsection (cc)(1); 2
@@ -286,8 +287,14 @@ generated_at: "2026-03-30T02:56:11.030Z"
         - **(I)** the social security number of such individual, if such individual has a social security number and is required to provide such number to enroll under such plan (or waiver); and
         - **(II)** such other information with respect to such individual as determined necessary by the Secretary for purposes of preventing individuals from simultaneously being enrolled under State plans (or waivers of such plans) of multiple States;
       - **(ii)** for the use of such system to prevent such simultaneous enrollment; and
-      - **(iii)** in the case that such system indicates that an individual enrolled or seeking to enroll under such plan (or waiver of such plan) is enrolled under a State plan (or waiver of such a plan) of another State, for the taking of appropriate action (as determined by the Secretary) to identify whether such an individual resides in the State and disenroll an individual from the State plan of such State if such individual does not reside in such State (unless such individual meets such an exception as the Secretary may specify); and
-  - **(89)** provide that the State shall comply with the eligibility verification requirements under subsection (ww), except that this paragraph shall apply only in the case of the 50 States and the District of Columbia.
+      - **(iii)** in the case that such system indicates that an individual enrolled or seeking to enroll under such plan (or waiver of such plan) is enrolled under a State plan (or waiver of such a plan) of another State, for the taking of appropriate action (as determined by the Secretary) to identify whether such an individual resides in the State and disenroll an individual from the State plan of such State if such individual does not reside in such State (unless such individual meets such an exception as the Secretary may specify);
+  - **(89)** provide that the State shall comply with the eligibility verification requirements under subsection (ww), except that this paragraph shall apply only in the case of the 50 States and the District of Columbia; and
+  - **(90)** beginning January 1, 2030 , provide, with respect to an active duty relocated individual (as defined in subsection (yy)(1))—
+    - **(A)** that, for purposes of determining eligibility for medical assistance under the State plan (or waiver of such plan), such active duty relocated individual is treated as a resident of the State unless such individual voluntarily elects not to be so treated for such purposes;
+    - **(B)** that if, at the time of relocation (as described in subsection (yy)(1)), such active duty relocated individual is on a home and community-based services waiting list (as defined in subsection (yy)(2)), such individual remains on such list until—
+      - **(i)** the State completes an assessment and renders a decision with respect to the eligibility of such individual to receive the relevant home and community-based services at the time a slot for such services becomes available and, in the case such decision is a denial of such eligibility, such individual has exhausted the individual’s opportunity for a fair hearing; or
+      - **(ii)** such individual elects to be removed from such list; and
+    - **(C)** payment for medical assistance furnished under the State plan (or a waiver of the plan) on behalf of such active duty relocated individual in the military service relocation State (as referred to in subsection (yy)(1)(B)(i)), to the extent that such assistance is available in such military service relocation State in accordance with such guidance as the Secretary may issue to ensure access to such assistance.
 - **(b)** The Secretary shall approve any plan which fulfills the conditions specified in subsection (a), except that he shall not approve any plan which imposes, as a condition of eligibility for medical assistance under the plan—
   - **(1)** an age requirement of more than 65 years; or
   - **(2)** any residence requirement which excludes any individual who resides in the State, regardless of whether or not the residence is maintained permanently or at a fixed address; or
@@ -937,3 +944,1164 @@ generated_at: "2026-03-30T02:56:11.030Z"
     - **(D)** A State granted an exemption under subparagraph (A) shall submit to the Secretary—
       - **(i)** quarterly progress reports on the State’s status in achieving the milestones toward full compliance described in subparagraph (B)(iii); and
       - **(ii)** information on specific risks or newly identified barriers or challenges to full compliance, including the State’s plan to mitigate such risks, barriers, or challenges.
+- **(yy)** For purposes of subsection (a)(90) and this subsection:
+  - **(1)** The term “active duty relocated individual” means an individual—
+    - **(A)** who—
+      - **(i)** is enrolled under the State plan (or waiver of such plan); or
+      - **(ii)** with respect to an individual described in subparagraph (C)(ii), would be so enrolled pursuant to subsection (a)(10)(A)(ii)(VI) if such individual began receiving home and community-based services;
+    - **(B)** who—
+      - **(i)** is a member of the Armed Forces engaged in active duty service and is relocated to another State (in this subsection referred to as the “military service relocation State”) by reason of such service;
+      - **(ii)** would be described in clause (i) except that the individual stopped being engaged in active duty service (including by reason of retirement from such service) and the last day on which the individual was engaged in active duty service occurred not more than 12 months ago; or
+      - **(iii)** is a dependent (as defined by the Secretary) of a member described in clause (i) or (ii) who relocates to the military service relocation State with such member; and
+    - **(C)** who—
+      - **(i)** was receiving home and community-based services (as defined in section 9817(a)(2)(B) of the American Rescue Plan Act of 2021) at the time of such relocation; or
+      - **(ii)** if the State maintains a home and community-based services waiting list, was on such home and community-based services waiting list at the time of such relocation.
+  - **(2)** The term “home and community-based services waiting list” means, in the case of a State that has a limit on the number of individuals who may receive home and community-based services under section 1315(a) of this title or section 1396n(c) of this title , a list maintained by such State of individuals who are requesting to receive such services under 1 or more such sections but for whom the State has not yet completed an assessment and rendered a decision with respect to the eligibility of such individuals to receive the relevant home and community-based services at the time a slot for such services becomes available due to such limit.
+
+(aa) with respect to whom supplemental security income benefits are being paid under subchapter XVI (or were being paid as of the date of the enactment of section 211(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 ( P.L. 104–193 ) and would continue to be paid but for the enactment of that section), (bb) who are qualified severely impaired individuals (as defined in section 1396d(q) of this title ), or (cc) who are under 21 years of age and with respect to whom supplemental security income benefits would be paid under subchapter XVI if subparagraphs (A) and (B) of section 1382(c)(7) of this title were applied without regard to the phrase “the first day of the month following”,
+
+(aa) are under 26 years of age;
+
+(bb) are not described in and are not enrolled under any of subclauses (I) through (VII) of this clause or are described in any of such subclauses but have income that exceeds the level of income applicable under the State plan for eligibility to enroll for medical assistance under such subclause;
+
+(cc) were in foster care under the responsibility of a State on the date of attaining 18 years of age or such higher age as the State has elected under section 675(8)(B)(iii) of this title ; and
+
+(dd) were enrolled in a State plan under this subchapter or under a waiver of such a plan while in such foster care; 3 3 So in original. Probably should be followed by “and”.
+
+(aa) for whom there is in effect an adoption assistance agreement (other than an agreement under part E of subchapter IV) between the State and an adoptive parent or parents,
+
+(bb) who the State agency responsible for adoption assistance has determined cannot be placed with adoptive parents without medical assistance because such child has special needs for medical or rehabilitative care, and
+
+(cc) who was eligible for medical assistance under the State plan prior to the adoption assistance agreement being entered into, or who would have been eligible for medical assistance at such time if the eligibility standards and methodologies of the State’s foster care program under part E of subchapter IV were applied rather than the eligibility standards and methodologies of the State’s aid to families with dependent children program under part A of subchapter IV; 2
+
+(aa) shall be made on a contingent basis for collecting overpayments; and
+
+(bb) may be made in such amounts as the State may specify for identifying underpayments;
+
+(aa) for purposes of section 1396b(a)(7) of this title , that amounts expended by the State to carry out the program shall be considered amounts expended as necessary for the proper and efficient administration of the State plan or a waiver of the plan;
+
+(bb) that section 1396b(d) of this title shall apply to amounts recovered under the program; and
+
+(cc) that the State and any such contractors under contract with the State shall coordinate such recovery audit efforts with other contractors or entities performing audits of entities receiving payments under the State plan or waiver in the State, including efforts with Federal and State law enforcement with respect to the Department of Justice, including the Federal Bureau of Investigations, 7 7 So in original. Probably should be “Investigation,”. the Inspector General of the Department of Health and Human Services, and the State medicaid fraud control unit; and
+
+year of continuous eligibility for children
+
+Express Lane Option.—
+
+In general.—
+
+Option to use a finding from an express lane agency
+
+Prohibition on determining children ineligible for coverage
+
+Notice requirement
+
+Compliance with screen and enroll requirement
+
+Verification of citizenship or nationality status
+
+Coding
+
+Option to apply to renewals and redeterminations
+
+Rules of construction
+
+Options for satisfying the screen and enroll requirement.—
+
+In general
+
+Establishing a screening threshold.—
+
+In general
+
+Children with income not above threshold
+
+Children with income above threshold
+
+(aa) Notice that the child may be eligible to receive medical assistance under the State plan under this subchapter if evaluated for such assistance under the State’s regular procedures and notice of the process through which a parent, guardian, or custodial relative can request that the State evaluate the child’s eligibility for medical assistance under this subchapter using such regular procedures.
+
+(bb) A description of differences between the medical assistance provided under this subchapter and child health assistance under subchapter XXI, including differences in cost-sharing requirements and covered benefits.
+
+Temporary enrollment in chip pending screen and enroll.—
+
+In general
+
+Determination of eligibility
+
+Prompt follow up
+
+Requirement for simplified determination
+
+Availability of chip matching funds during temporary enrollment period
+
+Option for automatic enrollment.—
+
+In general
+
+Information requirement
+
+Coding; application to enrollment error rates.—
+
+In general
+
+No punitive action based on error rate
+
+Rule of construction
+
+Error rate defined
+
+Express lane agency.—
+
+In general
+
+(aa) of the information which shall be disclosed in accordance with this paragraph;
+
+(bb) that the information disclosed will be used solely for purposes of determining eligibility for medical assistance under the State Medicaid plan or for child health assistance under the State CHIP plan; and
+
+(cc) that the family may elect to not have the information disclosed for such purposes; and
+
+Inclusion of specific public agencies and Indian tribes and tribal organizations
+
+(aa) The temporary assistance for needy families program funded under part A of subchapter IV.
+
+(bb) A State program funded under part D of subchapter IV.
+
+(cc) The State Medicaid plan.
+
+(dd) The State CHIP plan.
+
+(ee) The Food and Nutrition Act of 2008 ( 7 U.S.C. 2011 et seq.).
+
+(ff) The Head Start Act [ 42 U.S.C. 9831 et seq.].
+
+(gg) The Richard B. Russell National School Lunch Act ( 42 U.S.C. 1751 et seq.).
+
+(hh) The Child Nutrition Act of 1966 ( 42 U.S.C. 1771 et seq.).
+
+(ii) The Child Care and Development Block Grant Act of 1990 [ 42 U.S.C. 9857 et seq.].
+
+(jj) The Stewart B. McKinney Homeless Assistance Act 1 ( 42 U.S.C. 11301 et seq.).
+
+(kk) The United States Housing Act of 1937 ( 42 U.S.C. 1437 et seq.).
+
+(ll) The Native American Housing Assistance and Self-Determination Act of 1996 ( 25 U.S.C. 4101 et seq.).
+
+Exclusions
+
+Rules of construction
+
+Additional definitions
+
+State
+
+State chip agency
+
+State chip plan
+
+State medicaid agency
+
+State medicaid plan
+
+Child defined
+
+State option to rely on state income tax data or return
+
+Application
+
+Income determined using modified adjusted gross income.—
+
+In general
+
+No income or expense disregards
+
+No assets test
+
+Exceptions.—
+
+Individuals eligible because of other aid or assistance, elderly individuals, medically needy individuals, and individuals eligible for medicare cost-sharing
+
+Express lane agency findings
+
+Medicare prescription drug subsidies determinations
+
+Long-term care.—
+
+In general
+
+Application of home equity interest limit
+
+Grandfather of current enrollees until date of next regular redetermination
+
+Transition planning and oversight
+
+Limitation on secretarial authority
+
+Definitions of modified adjusted gross income and household income
+
+Continued application of medicaid rules regarding point-in-time income and sources of income
+
+Treatment of portion of modified adjusted gross income
+
+Exclusion of parent mentor compensation from income determination
+
+Treatment of certain lottery winnings and income received as a lump sum.—
+
+In general
+
+Counting in equal installments
+
+Hardship exemption
+
+Notifications and assistance required in case of loss of eligibility
+
+(aa) of the individual’s opportunity to enroll in a qualified health plan offered through an Exchange established under title I of the Patient Protection and Affordable Care Act during the special enrollment period specified in section 9801(f)(3) of the Internal Revenue Code of 1986 (relating to loss of Medicaid or CHIP coverage); and
+
+(bb) of the date on which the individual would no longer be considered ineligible by reason of clause (i) to receive medical assistance under the State plan or under any waiver of such plan and be eligible to reapply to receive such medical assistance; and
+
+Qualified lottery winnings defined
+
+Qualified lump sum income defined
+
+Frequency of eligibility redeterminations for certain individuals.—
+
+In general
+
+Exemption
+
+State defined
+
+Exclusion of compensation for participation in a clinical trial for testing of treatments for a rare disease or condition
+
+Extending certain coverage for pregnant and postpartum women.—
+
+In general
+
+Full benefits during pregnancy and throughout the 12-month postpartum period
+
+Coverage under chip
+
+(aa) benzodiazepines; or
+
+(bb) antipsychotics.
+
+(aa) under the age of 19;
+
+(bb) entitled to, or enrolled for, benefits under part A of subchapter XVIII, or enrolled for benefits under part B of subchapter XVIII; or
+
+(cc) described in any of subclauses (I) through (VII) of subsection (a)(10)(A)(i); or
+
+(aa) in which there exists an emergency or disaster declared by the President pursuant to the National Emergencies Act [ 50 U.S.C. 1601 et seq.] or the Robert T. Stafford Disaster Relief and Emergency Assistance Act [ 42 U.S.C. 5121 et seq.]; or
+
+(bb) that, subject to a request from the State to the Secretary, made in such form, at such time, and containing such information as the Secretary may require, has an unemployment rate that is at or above the lesser of— (AA) 8 percent; or (BB) 1.5 times the national unemployment rate; or
+
+(aa) make a satisfactory showing to the State of compliance with such requirement (including, if applicable, by showing that such individual was or should be deemed to have demonstrated community engagement under paragraph (3)); or
+
+(bb) make a satisfactory showing to the State that such requirement does not apply to such individual on the basis that such individual does not meet the definition of applicable individual under paragraph (9)(A); and
+
+(aa) is otherwise eligible to enroll (or is enrolled) under a waiver of such plan that provides coverage that is equivalent to minimum essential coverage (as described in section 5000A(f)(1)(A) of the Internal Revenue Code of 1986 and as determined in accordance with standards prescribed by the Secretary in regulations); and
+
+(bb) has attained the age of 19 and is under 65 years of age, is not pregnant, is not entitled to, or enrolled for, benefits under part A of subchapter XVIII, or enrolled for benefits under part B of subchapter XVIII, and is not otherwise eligible to enroll under such plan.
+
+(aa) is an Indian or an Urban Indian (as such terms are defined in paragraphs (13) and (28) of section 1603 of title 25 );
+
+(bb) is a California Indian described in section 1679(a) of such title; or
+
+(cc) has otherwise been determined eligible as an Indian for the Indian Health Service under regulations promulgated by the Secretary;
+
+(aa) who is blind or disabled (as defined in section 1382c of this title );
+
+(bb) with a substance use disorder;
+
+(cc) with a disabling mental disorder;
+
+(dd) with a physical, intellectual or developmental disability that significantly impairs their ability to perform 1 or more activities of daily living; or
+
+(ee) with a serious or complex medical condition;
+
+(aa) is in compliance with any requirements imposed by the State pursuant to section 607 of this title ; or
+
+(bb) is a member of a household that receives supplemental nutrition assistance program benefits under the Food and Nutrition Act of 2008 and is not exempt from a work requirement under such Act;
+
+“The amendments made by—
+
+In general
+
+Exception if state legislation required
+
+In general
+
+Exception
+
+In general
+
+Rule for changes requiring state legislation
+
+In general
+
+Exception for state legislation
+
+In general
+
+Extension of effective date for state law amendment
+
+In general
+
+Exception if state legislation required
+
+In General
+
+Delay if State Legislation Required
+
+In general.—
+
+In general
+
+Technical amendments
+
+Restoration of eligibility
+
+Special transition rule for indians
+
+Bccpta technical amendment
+
+Bipa technical amendments
+
+Infants
+
+Pregnant women
+
+Spousal transfers
+
+Other amendments
+
+In general
+
+Payment adjustment
+
+Delay for state legislation
+
+“The amendments made by this subsection [amending this section and section 1396b of this title ] shall not apply to a State until such date (not earlier than October 1, 1990 ) as of which the Secretary determines that—
+
+Optional services
+
+Continued coverage
+
+Effective Date
+
+Exception
+
+“Nothing in section 2404 of Public Law 111–148 ( 42 U.S.C. 1396r–5 note) or section 1902(a)(17) or 1924 of the Social Security Act ( 42 U.S.C. 1396a(a)(17) , 1396r–5) shall be construed as prohibiting a State from—
+
+“Nothing in section 2404 of Public Law 111–148 ( 42 U.S.C. 1396r–5 note) or section 1902(a)(17) or 1924 of the Social Security Act ( 42 U.S.C. 1396a(a)(17) , 1396r–5) shall be construed as prohibiting a State from applying an income or resource disregard under a methodology authorized under section 1902(r)(2) of such Act ( 42 U.S.C. 1396a(r)(2) )—
+
+Interception of lottery winnings allowed
+
+Applicability limited to eligibility of recipient of lottery winnings or lump sum income
+
+In general
+
+Individuals described
+
+“If the Ticket to Work and Work Incentives Improvement Act of 1999 [ Pub. L. 106–170 ] is enacted (whether before, on, or after the date of the enactment of this Act)—
+
+In General
+
+Grandfathering Certain Payments
+
+Treatment of Expansion States
+
+Definitions
+
+Rating period
+
+Rural hospital
+
+State
+
+Total published medicare payment rate
+
+Written prior approval
+
+Funding
+
+In general
+
+Amount specified
+
+Funding
+
+Definition
+
+State Planning Grants.—
+
+In general
+
+Use of funds
+
+Limitations on use of funds
+
+Allocation of grant funds
+
+Appropriation
+
+Guidance to Support State Implementation and Operations.—
+
+In general
+
+Content.—
+
+Compliance with requirements
+
+Best practices and strategies
+
+Definitions
+
+Public institution
+
+Secretary
+
+State
+
+State chip
+
+State medicaid program
+
+Guidance
+
+Integration of Mental Health or Substance Use Disorder Services With Primary Care Services
+
+Guidance to States on Furnishing Services Through Telehealth Under Medicaid and CHIP
+
+Definitions
+
+CHIP
+
+Medicaid
+
+Secretary
+
+State
+
+Guidance and Technical Assistance.—
+
+Guidance.—
+
+In general
+
+Required information
+
+Technical assistance center.—
+
+In general
+
+Small and rural schools
+
+Reporting
+
+Funding
+
+Grants
+
+Definitions
+
+CHIP
+
+Individualized education program
+
+Medicaid
+
+School-based entity
+
+Secretary
+
+State
+
+State educational agency; local educational agency
+
+In general
+
+Rule of construction
+
+“Not later than 1 year after the date of the enactment of this Act [ Oct. 24, 2018 ], the Secretary of Health and Human Services shall issue guidance to States, with respect to the State Medicaid programs of such States—
+
+“Not later than 1 year after the date of the enactment of this Act [ Oct. 24, 2018 ], the Secretary of Health and Human Services shall issue guidance to improve care for infants with neonatal abstinence syndrome and their families. Such guidance shall include—
+
+Definitions
+
+Comptroller general
+
+School-based health center
+
+Secretary
+
+Underserved area
+
+Guidance to States Regarding Federal Reimbursement for Furnishing Services and Treatment for Substance Use Disorders Under Medicaid Using Services Delivered Via Telehealth, Including in School-Based Health Centers
+
+In General
+
+Report
+
+Stakeholder Group Development of Best Practices; State Medicaid Program Innovation.—
+
+Stakeholder group best practices
+
+State medicaid program innovation
+
+Guidance on Innovative Service Delivery Systems Demonstration Project Opportunities
+
+Rule of Construction
+
+“Nothing in title XIX of the Social Security Act ( 42 U.S.C. 1396 et seq.) shall be construed as prohibiting separate payment under the State plan under such title (or under a waiver of the plan) for the provision of a mental health service or primary care service under such plan, with respect to an individual, because such service is—
+
+Criteria for Certified Community Behavioral Health Clinics To Participate in Demonstration Programs.—
+
+Publication
+
+Requirements
+
+Staffing
+
+Availability and accessibility of services
+
+Care coordination
+
+Scope of services
+
+Quality and other reporting
+
+Organizational authority
+
+Guidance on Development of Prospective Payment System for Testing Under Demonstration Programs.—
+
+In general
+
+Requirements
+
+Planning Grants.—
+
+In general
+
+Use of funds
+
+Additional planning grants for states
+
+Demonstration Programs.—
+
+In general
+
+Application requirements.—
+
+In general
+
+Required information
+
+Number and length of demonstration programs
+
+Requirements for selecting demonstration programs.—
+
+In general
+
+Payment for medical assistance for mental health services provided by certified community behavioral health clinics.—
+
+In general
+
+Federal matching percentage
+
+Limitations.—
+
+In general
+
+Prohibited payments
+
+Payments for amounts expended after 2019
+
+Rule of construction
+
+Waiver of statewideness requirement
+
+Annual reports.—
+
+In general
+
+Recommendations
+
+Final evaluation
+
+Additional programs.—
+
+In general
+
+Selection of states.—
+
+In general
+
+“(aa) were awarded planning grants under subsection (c); and
+
+“(bb) applied to participate in the demonstration programs under this subsection under paragraph (1) but, as of the date of enactment of this paragraph, were not selected to participate under paragraph (1); and
+
+Requirements for selected states
+
+Further additional programs.—
+
+In general
+
+Requirements
+
+Requirements for selected states
+
+Limitation
+
+Definitions
+
+Federally-qualified health center services; federally-qualified health center; rural health clinic services; rural health clinic
+
+Enhanced fmap
+
+Secretary
+
+State
+
+Funding.—
+
+In general
+
+Availability
+
+Authority To Conduct Project.—
+
+In general
+
+Duration
+
+Requirements
+
+Waiver of Provisions
+
+Evaluation and Report.—
+
+Data
+
+Report
+
+Authority To Conduct Demonstration.—
+
+In general
+
+Duration
+
+Application
+
+Requirements.—
+
+Performance guidelines
+
+Savings requirement
+
+Minimum participation period
+
+Incentive Payment
+
+Authorization of Appropriations
+
+Authority To Conduct Demonstration Project
+
+Stabilization Review
+
+Eligible State Defined.—
+
+In general
+
+Application
+
+Selection
+
+Nationwide availability
+
+Length of Demonstration Project.—
+
+In general
+
+Temporary extension of participation eligibility for selected states.—
+
+In general
+
+Notice of projections
+
+Extension and expansion of demonstration project.—
+
+Additional extension
+
+Option for expansion to additional states
+
+Notice of projections
+
+Authority to ensure budget neutrality
+
+Funding.—
+
+Appropriation.—
+
+In general
+
+Budget authority
+
+availability
+
+Funds allocated to states
+
+Payments to states
+
+Evaluation, Report, and Recommendations to Congress.—
+
+Evaluation
+
+Report
+
+Recommendation to congress regarding extension and expansion of project
+
+Recommendation to congress regarding permanent extension and nationwide expansion.—
+
+In general
+
+Requirements
+
+Congressional approval required
+
+Funding
+
+Waiver Authority.—
+
+In general
+
+Limited other waiver authority
+
+Definitions
+
+Emergency medical condition
+
+Federal medical assistance percentage
+
+Institution for mental diseases
+
+Medical assistance
+
+Stabilized
+
+State
+
+Initiatives.—
+
+Establishment.—
+
+In general
+
+Purpose
+
+Duration.—
+
+Initiation of program; resources
+
+Duration of program
+
+Program described.—
+
+In general
+
+Co-morbidities
+
+Waiver authority
+
+Flexibility in implementation
+
+Application
+
+Education and Outreach Campaign.—
+
+State awareness
+
+Provider and beneficiary education
+
+Impact
+
+Evaluations and Reports.—
+
+Independent assessment
+
+State reporting
+
+Initial report
+
+Final report
+
+No Effect on Eligibility for, or Amount of, Medicaid or Other Benefits
+
+Funding
+
+Definitions
+
+Medicaid beneficiary
+
+State
+
+In general
+
+Regulations
+
+“The purposes of this title [enacting section 1320b–24 of this title , amending this section and sections 1396 o , 1396 o –1, 1396p, 1396r–4, 1396r–6, 1396u–2, 1396u–3, and 1397gg of this title, and enacting provisions set out as notes under this section and sections 1396d and 1396r–6 of this title] are as follows:
+
+In General
+
+Application of Terms and Conditions.—
+
+In general
+
+State option to assure continuity of medicaid coverage
+
+Terms of Demonstration Projects.—
+
+In general
+
+Budget neutrality
+
+Evaluation
+
+Payments to States; Limitations to Scope and Funding.—
+
+In general
+
+Limitation
+
+Secretary’s Evaluation and Report
+
+Funding.—
+
+In general
+
+Fiscal year limit.—
+
+In general
+
+Fiscal year amounts
+
+Program Purpose and Authority
+
+Rebalancing
+
+Money follows the person
+
+Continuity of service
+
+Quality assurance and quality improvement
+
+Definitions
+
+Home and community-based long-term care services
+
+Eligible individual
+
+Inpatient facility
+
+Medicaid
+
+Qualified hcb program
+
+Qualified residence
+
+Qualified expenditures
+
+Self-directed services
+
+Assessment
+
+Service plan
+
+Budget process
+
+State
+
+Secretary
+
+State Application
+
+Assurance of a public development process
+
+Operation in connection with qualified hcb program to assure continuity of services
+
+Demonstration project period
+
+Service area
+
+Targeted groups and numbers of individuals served
+
+Individual choice, continuity of care
+
+Expenditures
+
+Money follows the person
+
+Maintenance of effort and cost-effectiveness
+
+Waiver requests
+
+Quality assurance and quality improvement
+
+Optional program for self-directed services
+
+Meeting requirements
+
+Voluntary election
+
+State support in service plan development
+
+Oversight of receipt of services
+
+Reports and evaluation
+
+Secretary’s Award of Competitive Grants.—
+
+In general
+
+Selection and modification of state applications
+
+Waiver authority
+
+Statewideness
+
+Comparability
+
+Income and resources eligibility
+
+Provider agreements
+
+Conditional approval of outyear grant
+
+Numerical benchmarks
+
+Quality of care
+
+Corrective action plan progress
+
+Payments to States; Carryover of Unused Grant Amounts.—
+
+Payments
+
+Carryover of unused amounts
+
+Reawarding of certain unused amounts
+
+Preventing duplication of payment
+
+enhanced fmap
+
+Quality Assurance and Improvement; Technical Assistance; Oversight.—
+
+In general
+
+Funding
+
+Research and Evaluation.—
+
+In general
+
+Final report
+
+Funding
+
+Appropriations.—
+
+In general
+
+Availability
+
+Technical assistance
+
+Best Practices.—
+
+Report
+
+Collaboration
+
+Waiver of paperwork reduction act
+
+Funding
+
+MACPAC Report
+
+In General
+
+Barriers to enrollment
+
+Lack of portability
+
+Possible solutions
+
+Possible Solutions
+
+Interstate compacts
+
+Demonstration projects
+
+Use of current law flexibility
+
+National migrant family coverage
+
+Public-private partnerships
+
+Other possible solutions
+
+Consultations
+
+Definitions
+
+Farmworker
+
+Medicaid
+
+Report
+
+In General
+
+Report
+
+“Not later than 3 years after the date of the enactment of this Act [ Dec. 17, 1999 ], the Comptroller General of the United States shall submit a report to the Congress regarding the amendments made by this section [amending this section and sections 1396b, 1396d, and 1396 o of this title] that examines—
+
+State Application
+
+Worker With a Potentially Severe Disability Defined
+
+In general
+
+Definition of employed
+
+Approval of Demonstration Projects.—
+
+In general
+
+Terms and conditions of demonstration projects
+
+Maintenance of state effort
+
+Independent evaluation
+
+Limitations on federal funding.—
+
+Appropriation.—
+
+In general
+
+Budget authority
+
+Limitation on payments
+
+Funds allocated to states
+
+Funds not allocated to States
+
+Payments to States
+
+Annual Report
+
+Recommendation
+
+State Defined
+
+Study
+
+Report
+
+Demonstration Projects.—
+
+In general
+
+Requirements
+
+Permissible restrictions
+
+Extension of eligibility
+
+Waiver of requirements.—
+
+In general
+
+Nonwaivable provisions
+
+Benefits.—
+
+In general
+
+Limits on benefits.—
+
+Required
+
+Permissible
+
+Use of utilization controls
+
+Premiums and Cost-Sharing.—
+
+None for those with income below the poverty line
+
+Limit for those with income above the poverty line
+
+Income determination
+
+Duration
+
+Limits on Expenditures and Funding.—
+
+In general
+
+No funding of current beneficiaries
+
+No increase in federal medical assistance percentage
+
+Evaluation and Report.—
+
+Evaluations
+
+Reports
+
+Definitions
+
+In General
+
+Services Available Under a Demonstration Project
+
+Agreements With States
+
+Federal Share of Costs
+
+Waiver of Requirements of the Social Security Act
+
+Limitation on Amount of Expenditures
+
+In general
+
+Development and distribution of information
+
+Providing assistance to states
+
+Duties of secretary
+
+Passage of fmgems examination in order to obtain identifier
+
+Effective date
+
+In general
+
+Dissemination of model form
+
+In General
+
+Report.—
+
+Study.—
+
+Report
+
+“In the case of an adoption assistance agreement (other than an agreement under part E of title IV of the Social Security Act [ 42 U.S.C. 670 et seq.]) entered into before the date of the enactment of this Act [ Apr. 7, 1986 ]—
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XIX, § 1902, as added [Pub. L. 89–97, title I, § 121(a)](https://www.govinfo.gov/link/plaw/89/public/97), July 30, 1965, [79 Stat. 344](https://www.govinfo.gov/link/statute/79/344); amended [Pub. L. 90–248, title II](https://www.govinfo.gov/link/plaw/90/public/248), §§ 210(a)(6), 223(a), 224(a), (c)(1), 227(a), 228(a), 229(a), 231, 234(a), 235(a), 236(a), 237, 238, 241(f)(1)–(4), title III, § 302(b), Jan. 2, 1968, [81 Stat. 896](https://www.govinfo.gov/link/statute/81/896), 901–906, 908, 911, 917, 929; [Pub. L. 91–56, § 2(c)](https://www.govinfo.gov/link/plaw/91/public/56), (d), Aug. 9, 1969, [83 Stat. 99](https://www.govinfo.gov/link/statute/83/99); [Pub. L. 92–223, § 4(b)](https://www.govinfo.gov/link/plaw/92/public/223), Dec. 28, 1971, [85 Stat. 809](https://www.govinfo.gov/link/statute/85/809); [Pub. L. 92–603, title II](https://www.govinfo.gov/link/plaw/92/public/603), §§ 208(a), 209(a), (b)(1), 221(c)(5), 231, 232(a), 236(b), 237(a)(2), 239(a), (b), 240, 246(a), 249(a), 255(a), 268(a), 274(a), 278(a)(18)–(20), (b)(14), 298, 299A, 299D(b), Oct. 30, 1972, [86 Stat. 1381](https://www.govinfo.gov/link/statute/86/1381), 1389, 1410, 1415–1418, 1424, 1426, 1446, 1450, 1452–1454, 1460, 1462; [Pub. L. 93–233](https://www.govinfo.gov/link/plaw/93/public/233), §§ 13(a)(2)–(10), 18(o)–(q), (x)(1)–(4), Dec. 31, 1973, [87 Stat. 960–962](https://www.govinfo.gov/link/statute/87/960), 971, 972; [Pub. L. 93–368, § 9(a)](https://www.govinfo.gov/link/plaw/93/public/368), Aug. 7, 1974, [88 Stat. 422](https://www.govinfo.gov/link/statute/88/422); [Pub. L. 94–48](https://www.govinfo.gov/link/plaw/94/public/48), §§ 1, 2, July 1, 1975, [89 Stat. 247](https://www.govinfo.gov/link/statute/89/247); [Pub. L. 94–182, title I, § 111(a)](https://www.govinfo.gov/link/plaw/94/public/182), Dec. 31, 1975, [89 Stat. 1054](https://www.govinfo.gov/link/statute/89/1054); [Pub. L. 94–552, § 1](https://www.govinfo.gov/link/plaw/94/public/552), Oct. 18, 1976, [90 Stat. 2540](https://www.govinfo.gov/link/statute/90/2540); [Pub. L. 95–142](https://www.govinfo.gov/link/plaw/95/public/142), §§ 2(a)(3), (b)(1), 3(c)(1), 7(b), (c), 9, 19(b)(2), 20(b), Oct. 25, 1977, [91 Stat. 1176](https://www.govinfo.gov/link/statute/91/1176), 1178, 1193, 1195, 1204, 1207; [Pub. L. 95–210, § 2(c)](https://www.govinfo.gov/link/plaw/95/public/210), Dec. 13, 1977, [91 Stat. 1488](https://www.govinfo.gov/link/statute/91/1488); [Pub. L. 95–559, § 14(a)(1)](https://www.govinfo.gov/link/plaw/95/public/559), Nov. 1, 1978, [92 Stat. 2140](https://www.govinfo.gov/link/statute/92/2140); [Pub. L. 96–272, title III, § 308(c)](https://www.govinfo.gov/link/plaw/96/public/272), June 17, 1980, [94 Stat. 531](https://www.govinfo.gov/link/statute/94/531); [Pub. L. 96–499, title IX](https://www.govinfo.gov/link/plaw/96/public/499), §§ 902(b), 903(b), 905(a), 912(b), 913(c), (d), 914(b)(1), 916(b)(1), 918(b)(1), 962(a), 965(b), Dec. 5, 1980, [94 Stat. 2613](https://www.govinfo.gov/link/statute/94/2613), 2615, 2618–2621, 2624, 2626, 2650, 2652; [Pub. L. 96–611, § 5(b)](https://www.govinfo.gov/link/plaw/96/public/611), Dec. 28, 1980, [94 Stat. 3568](https://www.govinfo.gov/link/statute/94/3568); [Pub. L. 97–35, title XXI](https://www.govinfo.gov/link/plaw/97/public/35), §§ 2105(c), 2113(m), 2171(a), (b), 2172(a), 2173(a), (b)(1), 2174(a), 2175(a), (d)(1), 2178(b), 2181(a)(2), 2182, 2193(c)(9), Aug. 13, 1981, [95 Stat. 792](https://www.govinfo.gov/link/statute/95/792), 795, 807–809, 811, 814–816, 828; [Pub. L. 97–248, title I](https://www.govinfo.gov/link/plaw/97/public/248), §§ 131(a), (c), formerly (b), 132(a), (c), 134(a), 136(d), 137(a)(3), (b)(7)–(10), (e), 146(a), Sept. 3, 1982, [96 Stat. 367](https://www.govinfo.gov/link/statute/96/367), 369, 370, 373, 375–378, 381, 394; [Pub. L. 97–448, title III, § 309(a)(8)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2408](https://www.govinfo.gov/link/statute/96/2408); [Pub. L. 98–369, div. B, title III](https://www.govinfo.gov/link/plaw/98/public/369), §§ 2303(g)(1), 2314(b), 2335(e), 2361(a), 2362(a), 2363(a)(1), 2367(a), 2368(a), (b), 2373(b)(1)–(10), title VI, § 2651(c), July 18, 1984, [98 Stat. 1066](https://www.govinfo.gov/link/statute/98/1066), 1079, 1091, 1104, 1105, 1108, 1109, 1111, 1149; [Pub. L. 98–378, § 20(c)](https://www.govinfo.gov/link/plaw/98/public/378), Aug. 16, 1984, [98 Stat. 1322](https://www.govinfo.gov/link/statute/98/1322); [Pub. L. 98–617, § 3(a)(7)](https://www.govinfo.gov/link/plaw/98/public/617), (b)(10), Nov. 8, 1984, [98 Stat. 3295](https://www.govinfo.gov/link/statute/98/3295), 3296; [Pub. L. 99–272, title IX](https://www.govinfo.gov/link/plaw/99/public/272), §§ 9501(b), (c), 9503(a), 9505(b), (c)(1), (d), 9506(a), 9509(a), 9510(a), 9517(b), 9529(a)(1), (b)(1), title XII, § 12305(b)(3), Apr. 7, 1986, [100 Stat. 201](https://www.govinfo.gov/link/statute/100/201), 202, 205, 208–212, 216, 220, 293; [Pub. L. 99–509, title IX](https://www.govinfo.gov/link/plaw/99/public/509), §§ 9320(h)(3), 9401(a)–(e)(1), 9402(a), (b), 9403(a), (c), (e)–(g)(1), (4)(A), 9404(a), 9405, 9406(b), 9407(a), 9408(a), (b), (c)(2), (3), 9431(a), (b)(1), 9433(a), 9435(b)(1), Oct. 21, 1986, [100 Stat. 2016](https://www.govinfo.gov/link/statute/100/2016), 2050–2058, 2060, 2061, 2066, 2068, 2069; [Pub. L. 99–514, title XVIII, § 1895(c)(1)](https://www.govinfo.gov/link/plaw/99/public/514), (3)(B), (C), (7), Oct. 22, 1986, [100 Stat. 2935](https://www.govinfo.gov/link/statute/100/2935), 2936; [Pub. L. 99–570, title XI, § 11005(b)](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–169](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 99–643](https://www.govinfo.gov/link/plaw/99/public/643), §§ 3(b), 7(b), Nov. 10, 1986, [100 Stat. 3575](https://www.govinfo.gov/link/statute/100/3575), 3579; [Pub. L. 100–93](https://www.govinfo.gov/link/plaw/100/public/93), §§ 5(a), 7, 8(f), Aug. 18, 1987, [101 Stat. 689](https://www.govinfo.gov/link/statute/101/689), 691, 694; [Pub. L. 100–203, title IV](https://www.govinfo.gov/link/plaw/100/public/203), §§ 4072(d), 4101(a)(1), (2), (b)(1)–(2)(B), (c)(2), (e)(1)–(5), 4102(b)(1), 4104, 4113(a)(2), (b)(1), (2), (c)(1), (2), (d)(2), 4116, 4118(c)(1), (h)(1), (2), (m)(1)(B), (p)(1)–(4), (6)–(8), 4211(b)(1), (h)(1)–(5), 4212(d)(2), (3), (e)(1), 4213(b)(1), 4218(a), title IX, §§ 9115(b), 9119(d)(1), Dec. 22, 1987, [101 Stat. 1330–117](https://www.govinfo.gov/link/statute/101/1330), 1330–140 to 1330–143, 1330–146, 1330–147, 1330–151, 1330–152, 1330–154 to 1330–157, 1330–159, 1330–203, 1330–205, 1330–213, 1330–219, 1330–220, 1330–305, as amended [Pub. L. 100–360, title IV, § 411(k)(5)(A)](https://www.govinfo.gov/link/plaw/100/public/360), (7)(B)–(D), (10)(G)(ii), (iv), (l)(3)(H), (J), (8)(C), (n)(2), (4), formerly (3), July 1, 1988, [102 Stat. 791](https://www.govinfo.gov/link/statute/102/791), 794, 796, 803, 805, 807, as amended [Pub. L. 100–485, title VI, § 608(d)(14)(I)](https://www.govinfo.gov/link/plaw/100/public/485), (15)(A), (27)(F)–(H), (28), Oct. 13, 1988, [102 Stat. 2416](https://www.govinfo.gov/link/statute/102/2416), 2423; [Pub. L. 100–360, title II, § 204(d)(3)](https://www.govinfo.gov/link/plaw/100/public/360), title III, §§ 301(a)(1), (e)(2), 302(a), (b)(1), (c)(1), (2), (d)–(e)(3), 303(d), (e), title IV, § 411(k)(5)(B), (17)(B), (l)(3)(E), (6)(C), (D), July 1, 1988, [102 Stat. 729](https://www.govinfo.gov/link/statute/102/729), 748–753, 762, 763, 792, 800, 803, 804; [Pub. L. 100–485, title II, § 202(c)(4)](https://www.govinfo.gov/link/plaw/100/public/485), title III, § 303(a)(2), (b)(1), (d), title IV, § 401(d)(1), title VI, § 608(d)(15)(B), (16)(C), Oct. 13, 1988, [102 Stat. 2378](https://www.govinfo.gov/link/statute/102/2378), 2391, 2392, 2396, 2416, 2418; [Pub. L. 100–647, title VIII, § 8434(b)(1)](https://www.govinfo.gov/link/plaw/100/public/647), (2), Nov. 10, 1988, [102 Stat. 3805](https://www.govinfo.gov/link/statute/102/3805); [Pub. L. 101–234, title II, § 201(a)](https://www.govinfo.gov/link/plaw/101/public/234), Dec. 13, 1989, [103 Stat. 1981](https://www.govinfo.gov/link/statute/103/1981); [Pub. L. 101–239, title VI](https://www.govinfo.gov/link/plaw/101/public/239), §§ 6115(c), 6401(a), 6402(a), (c)(2), 6403(b), (d)(1), 6404(c), 6405(b), 6406(a), 6408(c)(1), (d)(1), (4)(C), 6411(a)(1), (d)(3)(B), (e)(2), Dec. 19, 1989, [103 Stat. 2219](https://www.govinfo.gov/link/statute/103/2219), 2258, 2260, 2261, 2263–2265, 2268–2271; [Pub. L. 101–508, title IV](https://www.govinfo.gov/link/plaw/101/public/508), §§ 4401(a)(2), 4402(a)(1), (c), (d)(1), 4501(b), (e)(2), 4601(a)(1), 4602(a), 4603(a), 4604(a), (b), 4701(b)(1), 4704(a), (e)(1), 4708(a), 4711(c)(1), (d), 4713(a), 4715(a), 4723(b), 4724(a), 4732(b)(1), 4751(a), 4752(a)(1)(A), (c)(1), 4754(a), 4755(a)(2), (c)(1), 4801(e)(1)(A), (11)(A), Nov. 5, 1990, [104 Stat. 1388–143](https://www.govinfo.gov/link/statute/104/1388), 1388–161, 1388–163 to 1388–173, 1388–186, 1388–187, 1388–190, 1388–192, 1388–194, 1388–195, 1388–204, 1388–206, 1388–208 to 1388–210, 1388–215, 1388–217; [Pub. L. 102–234](https://www.govinfo.gov/link/plaw/102/public/234), §§ 2(b)(1), 3(a), Dec. 12, 1991, [105 Stat. 1799](https://www.govinfo.gov/link/statute/105/1799); [Pub. L. 103–66, title XIII, § 13581(b)(2)](https://www.govinfo.gov/link/plaw/103/public/66), 13601(b), 13602(c), 13603(a)–(c), 13611(d)(1), 13622(a)(1), (b), (c), 13623(a), 13625(a), 13631(a), (e)(1), (f)(1), Aug. 10, 1993, [107 Stat. 611](https://www.govinfo.gov/link/statute/107/611), 613, 619, 620, 626, 632, 633, 636, 643, 644; [Pub. L. 103–296, title I, § 108(d)(1)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1486](https://www.govinfo.gov/link/statute/108/1486); [Pub. L. 103–448, title II, § 204(w)(2)(E)](https://www.govinfo.gov/link/plaw/103/public/448), Nov. 2, 1994, [108 Stat. 4746](https://www.govinfo.gov/link/statute/108/4746); [Pub. L. 104–193, title I](https://www.govinfo.gov/link/plaw/104/public/193), §§ 108(k), 114(b)–(d)(1), title IX, § 913, Aug. 22, 1996, [110 Stat. 2169](https://www.govinfo.gov/link/statute/110/2169), 2180, 2354; [Pub. L. 104–226, § 1(b)(2)](https://www.govinfo.gov/link/plaw/104/public/226), Oct. 2, 1996, [110 Stat. 3033](https://www.govinfo.gov/link/statute/110/3033); [Pub. L. 104–248, § 1(a)(1)](https://www.govinfo.gov/link/plaw/104/public/248), Oct. 9, 1996, [110 Stat. 3148](https://www.govinfo.gov/link/statute/110/3148); [Pub. L. 105–12, § 9(b)(2)](https://www.govinfo.gov/link/plaw/105/public/12), Apr. 30, 1997, [111 Stat. 26](https://www.govinfo.gov/link/statute/111/26); [Pub. L. 105–33, title IV](https://www.govinfo.gov/link/plaw/105/public/33), §§ 4106(c), 4454(b)(1), 4701(b)(2)(A)(i)–(iv), (d)(1), 4702(b)(2), 4709, 4711(a), 4712(a), (b)(1), (c)(1), 4714(a)(1), 4715(a), 4724(c)(1), (d), (f), (g)(1), 4731(a), (b), 4732(a), 4733, 4741(a), 4751(a), (b), 4752(a), 4753(b), 4911(b), 4912(b)(1), 4913(a), Aug. 5, 1997, [111 Stat. 368](https://www.govinfo.gov/link/statute/111/368), 431, 493, 495, 506–510, 516, 517, 519, 520, 522–525, 571, 573; [Pub. L. 106–113, div. B, § 1000(a)(6) [title VI, §§ 603(a)(1), 604(a)(1), (2)(A), (b)(1), 608(a)–(d), (y)(2), (aa)(1)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–394 to 1501A–398; [Pub. L. 106–169, title I, § 121(a)(1)](https://www.govinfo.gov/link/plaw/106/public/169), (c)(4), title II, §§ 205(c), 206(b), Dec. 14, 1999, [113 Stat. 1829](https://www.govinfo.gov/link/statute/113/1829), 1830, 1834, 1837; [Pub. L. 106–170, title II, § 201(a)(1)](https://www.govinfo.gov/link/plaw/106/public/170), (2)(A), Dec. 17, 1999, [113 Stat. 1891](https://www.govinfo.gov/link/statute/113/1891), 1892; [Pub. L. 106–354, § 2(a)(1)](https://www.govinfo.gov/link/plaw/106/public/354) –(3), (b)(2)(A), Oct. 24, 2000, [114 Stat. 1381–1383](https://www.govinfo.gov/link/statute/114/1381); [Pub. L. 106–554, § 1(a)(6) [title VII, §§ 702(a)–(c)(1), 707(b)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–572 to 2763A–574, 2763A–577; [Pub. L. 107–121, § 2(a)](https://www.govinfo.gov/link/plaw/107/public/121), (b)(1), (2), Jan. 15, 2002, [115 Stat. 2384](https://www.govinfo.gov/link/statute/115/2384); [Pub. L. 108–40, § 7(b)](https://www.govinfo.gov/link/plaw/108/public/40), June 30, 2003, [117 Stat. 837](https://www.govinfo.gov/link/statute/117/837); [Pub. L. 108–89, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/108/public/89), Oct. 1, 2003, [117 Stat. 1134](https://www.govinfo.gov/link/statute/117/1134); [Pub. L. 108–173, title I, § 103(a)(1)](https://www.govinfo.gov/link/plaw/108/public/173), (f)(1), title II, § 236(b)(1), Dec. 8, 2003, [117 Stat. 2154](https://www.govinfo.gov/link/statute/117/2154), 2160, 2211; [Pub. L. 108–265, title I, § 105(b)](https://www.govinfo.gov/link/plaw/108/public/265), June 30, 2004, [118 Stat. 744](https://www.govinfo.gov/link/statute/118/744); [Pub. L. 108–448, § 1(a)](https://www.govinfo.gov/link/plaw/108/public/448), Dec. 8, 2004, [118 Stat. 3467](https://www.govinfo.gov/link/statute/118/3467); [Pub. L. 109–91, title I, § 101(a)](https://www.govinfo.gov/link/plaw/109/public/91), Oct. 20, 2005, [119 Stat. 2091](https://www.govinfo.gov/link/statute/119/2091); [Pub. L. 109–171, title VI](https://www.govinfo.gov/link/plaw/109/public/171), §§ 6032(a), 6034(b), 6035(a), (b), 6062(a), 6065(a), 6083(a), Feb. 8, 2006, [120 Stat. 73](https://www.govinfo.gov/link/statute/120/73), 76, 78, 79, 96, 101, 120; [Pub. L. 109–432, div. B, title IV, § 405(c)(2)(A)(iv)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 3000](https://www.govinfo.gov/link/statute/120/3000); [Pub. L. 110–90, § 3(a)](https://www.govinfo.gov/link/plaw/110/public/90), Sept. 29, 2007, [121 Stat. 984](https://www.govinfo.gov/link/statute/121/984); [Pub. L. 110–173, title II, § 203(a)](https://www.govinfo.gov/link/plaw/110/public/173), Dec. 29, 2007, [121 Stat. 2513](https://www.govinfo.gov/link/statute/121/2513); [Pub. L. 110–252, title VII, § 7001(d)(2)](https://www.govinfo.gov/link/plaw/110/public/252), June 30, 2008, [122 Stat. 2394](https://www.govinfo.gov/link/statute/122/2394); [Pub. L. 110–275, title I, § 111(a)](https://www.govinfo.gov/link/plaw/110/public/275), July 15, 2008, [122 Stat. 2503](https://www.govinfo.gov/link/statute/122/2503); [Pub. L. 111–3, title I, § 113(b)(1)](https://www.govinfo.gov/link/plaw/111/public/3), title II, §§ 203(a)(1), (c), (d)(3), 211(a)(1)(A), (b)(3)(B), title V, § 501(d)(1), (e)(1), Feb. 4, 2009, [123 Stat. 34](https://www.govinfo.gov/link/statute/123/34), 40, 47, 49, 54, 87; [Pub. L. 111–5, div. B, title V](https://www.govinfo.gov/link/plaw/111/public/5), §§ 5004(a)(1), 5005(a), 5006(b)(1), (e)(2)(A), Feb. 17, 2009, [123 Stat. 503](https://www.govinfo.gov/link/statute/123/503), 505, 506, 510; [Pub. L. 111–148, title II](https://www.govinfo.gov/link/plaw/111/public/148), §§ 2001(a)(1), (2)(A), (4)(A), (5)(A), (B), (b), (d)(1), (e)(1), 2002(a), (b), 2004(a), 2202(a), 2301(b), 2303(a)(1)–(3), (b)(2)(A), 2402(d)(1), 2901(c), title III, § 3021(b), title IV, § 4302(b)(1)(A), title VI, §§ 6103(d)(2), 6401(b)(1), (3), 6411(a)(1), 6501–6503, 6505, title VIII, § 8002(a)(2), (b), title X, § 10201(a)(1), (2), (b), Mar. 23, 2010, [124 Stat. 271](https://www.govinfo.gov/link/statute/124/271), 274, 275, 277–279, 282, 283, 291–294, 296, 303, 333, 394, 581, 710, 751, 753, 773, 776, 777, 846, 917, 918; [Pub. L. 111–152, title I](https://www.govinfo.gov/link/plaw/111/public/152), §§ 1004(b)(1), (e), 1202(a)(1), Mar. 30, 2010, [124 Stat. 1034](https://www.govinfo.gov/link/statute/124/1034), 1036, 1052; [Pub. L. 111–255, § 3(c)](https://www.govinfo.gov/link/plaw/111/public/255), (e), Oct. 5, 2010, [124 Stat. 2641](https://www.govinfo.gov/link/statute/124/2641); [Pub. L. 111–296, title I, § 103(c)(1)](https://www.govinfo.gov/link/plaw/111/public/296), Dec. 13, 2010, [124 Stat. 3191](https://www.govinfo.gov/link/statute/124/3191); [Pub. L. 111–309, title I](https://www.govinfo.gov/link/plaw/111/public/309), §§ 110(a), 111, title II, §§ 205(a), (b), (f)(1), Dec. 15, 2010, [124 Stat. 3288–3290](https://www.govinfo.gov/link/statute/124/3288); [Pub. L. 112–78, title III](https://www.govinfo.gov/link/plaw/112/public/78), §§ 310(a), 311, Dec. 23, 2011, [125 Stat. 1286](https://www.govinfo.gov/link/statute/125/1286); [Pub. L. 112–96, title III](https://www.govinfo.gov/link/plaw/112/public/96), §§ 3101(a), 3102, Feb. 22, 2012, [126 Stat. 191](https://www.govinfo.gov/link/statute/126/191); [Pub. L. 112–240, title VI](https://www.govinfo.gov/link/plaw/112/public/240), §§ 621(a), 622, 623, 642(b)(2), Jan. 2, 2013, [126 Stat. 2352](https://www.govinfo.gov/link/statute/126/2352), 2358; [Pub. L. 113–67, div. A, title II, § 202(a)](https://www.govinfo.gov/link/plaw/113/public/67), (b)(1), div. B, title II, §§ 1201(a), 1202, Dec. 26, 2013, [127 Stat. 1177](https://www.govinfo.gov/link/statute/127/1177), 1198, 1199; [Pub. L. 113–93, title II](https://www.govinfo.gov/link/plaw/113/public/93), §§ 201(a), 202, 203, Apr. 1, 2014, [128 Stat. 1045](https://www.govinfo.gov/link/statute/128/1045), 1046; [Pub. L. 114–10, title II](https://www.govinfo.gov/link/plaw/114/public/10), §§ 211(a), 212(b), title III, § 302, Apr. 16, 2015, [129 Stat. 151](https://www.govinfo.gov/link/statute/129/151), 152, 158; [Pub. L. 114–63, § 2](https://www.govinfo.gov/link/plaw/114/public/63), Oct. 7, 2015, [129 Stat. 549](https://www.govinfo.gov/link/statute/129/549); [Pub. L. 114–198, title VII, § 706(b)(1)](https://www.govinfo.gov/link/plaw/114/public/198), July 22, 2016, [130 Stat. 754](https://www.govinfo.gov/link/statute/130/754); [Pub. L. 114–255, div. A, title V](https://www.govinfo.gov/link/plaw/114/public/255), §§ 5005(a)(1), (3), (6), (b)(1), (c)(2), 5006(a), (b), div. C, title XVII, § 17004(b)(1)(B), (C), (2)(B), Dec. 13, 2016, [130 Stat. 1191–1196](https://www.govinfo.gov/link/statute/130/1191), 1332, 1333; [Pub. L. 115–120, div. C](https://www.govinfo.gov/link/plaw/115/public/120), §§ 3002(e), (f)(2), 3004(c), Jan. 22, 2018, [132 Stat. 34](https://www.govinfo.gov/link/statute/132/34), 35, 37; [Pub. L. 115–123, div. E, title I, § 50101(e)](https://www.govinfo.gov/link/plaw/115/public/123), (f)(2), title XII, §§ 53102(a)(1), (b)(1), (d)(2), 53103(a), Feb. 9, 2018, [132 Stat. 174](https://www.govinfo.gov/link/statute/132/174), 175, 298–300; [Pub. L. 115–271, title I](https://www.govinfo.gov/link/plaw/115/public/271), §§ 1001(a), 1002(a)(1), 1004(a)(1), (2), 1006(b)(1), 1007(a), (b), Oct. 24, 2018, [132 Stat. 3900](https://www.govinfo.gov/link/statute/132/3900), 3902, 3909, 3914, 3915; [Pub. L. 116–16, § 7(a)](https://www.govinfo.gov/link/plaw/116/public/16), Apr. 18, 2019, [133 Stat. 864](https://www.govinfo.gov/link/statute/133/864); [Pub. L. 116–94, div. N, title I, § 202(e)(1)](https://www.govinfo.gov/link/plaw/116/public/94), (2), (f)(4), Dec. 20, 2019, [133 Stat. 3108–3110](https://www.govinfo.gov/link/statute/133/3108); [Pub. L. 116–127, div. F, § 6004(a)(3)(A)](https://www.govinfo.gov/link/plaw/116/public/127) –(C), Mar. 18, 2020, [134 Stat. 205](https://www.govinfo.gov/link/statute/134/205), 206; [Pub. L. 116–136, div. A, title III](https://www.govinfo.gov/link/plaw/116/public/136), §§ 3715, 3716, Mar. 27, 2020, [134 Stat. 424](https://www.govinfo.gov/link/statute/134/424), 425; [Pub. L. 116–260, div. CC, title II](https://www.govinfo.gov/link/plaw/116/public/260), §§ 209(a)(1), (b)(4)(A), 210(b), title IV, § 402(f)(2), Dec. 27, 2020, [134 Stat. 2986](https://www.govinfo.gov/link/statute/134/2986), 2988, 2991, 3001; [Pub. L. 117–2, title IX](https://www.govinfo.gov/link/plaw/117/public/2), §§ 9811(a)(2), 9812(a), Mar. 11, 2021, [135 Stat. 208](https://www.govinfo.gov/link/statute/135/208), 212; [Pub. L. 117–103, div. P, title II, § 202(a)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 803](https://www.govinfo.gov/link/statute/136/803); [Pub. L. 117–169, title I, § 11405(a)(1)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1900](https://www.govinfo.gov/link/statute/136/1900); [Pub. L. 117–328, div. FF, title V](https://www.govinfo.gov/link/plaw/117/public/328), §§ 5111(d), 5112(a), 5121(a), 5122(a)(2), 5123(b), 5131(b), Dec. 29, 2022, [136 Stat. 5939–5941](https://www.govinfo.gov/link/statute/136/5939), 5944, 5945, 5950; [Pub. L. 118–42, div. G, title I](https://www.govinfo.gov/link/plaw/118/public/42), §§ 203(a), 205(a)(1), (c)(1), (2), Mar. 9, 2024, [138 Stat. 403](https://www.govinfo.gov/link/statute/138/403), 405, 406; [Pub. L. 119–21, title VII](https://www.govinfo.gov/link/plaw/119/public/21), §§ 71103(a)(1), 71104, 71105, 71107(a), 71108(b), 71112(a), 71119(a), (b), 71120(b)(1), July 4, 2025, [139 Stat. 291](https://www.govinfo.gov/link/statute/139/291), 293–295, 297, 298, 306, 314, 316; [Pub. L. 119–75, div. J, title I](https://www.govinfo.gov/link/plaw/119/public/75), §§ 6101(a), (b)(1), (2), 6102(a)(1), 6103(a), Feb. 3, 2026, [140 Stat. 637–639](https://www.govinfo.gov/link/statute/140/637).)*

@@ -3,9 +3,10 @@ title: "Section 1901 - Congressional findings"
 usc_title: 29
 usc_section: "1901"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1901"
-generated_at: "2026-03-30T02:55:18.741Z"
+generated_at: "2026-11-23T21:26:02.311Z"
+status: "active"
 ---
 
 # § 1901. Congressional findings
@@ -18,3 +19,7 @@ The Congress finds that—
   - **(4)** the Helen Keller National Center for Youths and Adults who are Deaf-Blind is a vital national resource for meeting the needs of individuals who are deaf-blind and no State currently has the facilities or personnel to meet such needs;
   - **(5)** the Federal Government has made a substantial investment in capital, equipment, and operating funds for such Center since it was established; and
   - **(6)** it is in the national interest to continue to provide support for the Center, and it is a proper function of the Federal Government to be the primary source of such support.
+
+## Source Credit
+
+*([Pub. L. 98–221, title II, § 202](https://www.govinfo.gov/link/plaw/98/public/221), Feb. 22, 1984, [98 Stat. 32](https://www.govinfo.gov/link/statute/98/32); [Pub. L. 102–569, title IX](https://www.govinfo.gov/link/plaw/102/public/569), §§ 901, 908(a), (c)(1), Oct. 29, 1992, [106 Stat. 4482](https://www.govinfo.gov/link/statute/106/4482), 4485, 4486.)*

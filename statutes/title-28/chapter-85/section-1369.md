@@ -3,9 +3,10 @@ title: "Section 1369 - Multiparty, multiforum jurisdiction"
 usc_title: 28
 usc_section: "1369"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1369"
-generated_at: "2026-03-30T02:55:30.139Z"
+generated_at: "2026-11-23T21:26:01.087Z"
+status: "active"
 ---
 
 # § 1369. Multiparty, multiforum jurisdiction
@@ -27,3 +28,17 @@ generated_at: "2026-03-30T02:55:30.139Z"
   - **(5)** the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 - **(d)** In any action in a district court which is or could have been brought, in whole or in part, under this section, any person with a claim arising from the accident described in subsection (a) shall be permitted to intervene as a party plaintiff in the action, even if that person could not have brought an action in a district court as an original matter.
 - **(e)** A district court in which an action under this section is pending shall promptly notify the judicial panel on multidistrict litigation of the pendency of the action.
+
+In General
+
+Limitation of Jurisdiction of District Courts
+
+Special Rules and Definitions
+
+Intervening Parties
+
+Notification of Judicial Panel on Multidistrict Litigation
+
+## Source Credit
+
+*(Added [Pub. L. 107–273, div. C, title I, § 11020(b)(1)(A)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1826](https://www.govinfo.gov/link/statute/116/1826).)*

@@ -3,9 +3,10 @@ title: "Section 70102 - National freight strategic plan"
 usc_title: 49
 usc_section: "70102"
 chapter: 701
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 70102"
-generated_at: "2026-03-30T02:56:19.417Z"
+generated_at: "2026-11-23T21:26:41.037Z"
+status: "active"
 ---
 
 # § 70102. National freight strategic plan
@@ -37,3 +38,15 @@ generated_at: "2026-03-30T02:56:19.417Z"
 - **(d)** The Assistant Secretary shall develop and update the national freight strategic plan—
   - **(1)** after providing notice and an opportunity for public comment; and
   - **(2)** in consultation with State departments of transportation, metropolitan planning organizations, and other appropriate public and private transportation stakeholders.
+
+In General
+
+Contents
+
+Updates
+
+Consultation
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title VIII, § 8001(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1606](https://www.govinfo.gov/link/statute/129/1606); amended [Pub. L. 117–58, div. B, title I](https://www.govinfo.gov/link/plaw/117/public/58), §§ 21101(d)(2), 21102, Nov. 15, 2021, [135 Stat. 656](https://www.govinfo.gov/link/statute/135/656), 657.)*

@@ -3,9 +3,10 @@ title: "Section 4145d - Review and report"
 usc_title: 25
 usc_section: "4145d"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4145d"
-generated_at: "2026-03-30T02:54:52.859Z"
+generated_at: "2026-11-23T21:25:54.709Z"
+status: "active"
 ---
 
 # § 4145d. Review and report
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:52.859Z"
       - **(ii)** the period for which such a prohibition should remain in effect; or
     - **(B)** standards and procedures by which Indian tribes or recipients may be prohibited from participating in the program for failure to achieve results.
 - **(c)** Notwithstanding any other provision of this chapter, recipients participating in the program under this part shall provide such information to the Secretary as the Secretary may request, in sufficient detail and in a timely manner sufficient to ensure that the review and report required by this section is accomplished in a timely manner.
+
+## Source Credit
+
+*([Pub. L. 104–330, title II, § 235](https://www.govinfo.gov/link/plaw/104/public/330), as added [Pub. L. 110–411, title II, § 206(a)(2)](https://www.govinfo.gov/link/plaw/110/public/411), Oct. 14, 2008, [122 Stat. 4328](https://www.govinfo.gov/link/statute/122/4328).)*

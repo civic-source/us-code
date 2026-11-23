@@ -3,9 +3,10 @@ title: "Section 7832 - Assistance provided inside North Korea"
 usc_title: 22
 usc_section: "7832"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7832"
-generated_at: "2026-03-30T02:55:05.446Z"
+generated_at: "2026-11-23T21:25:58.729Z"
+status: "active"
 ---
 
 # § 7832. Assistance provided inside North Korea
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:05.446Z"
     - **(E)** reforming the North Korean prison and labor camp system, and subjecting such reforms to independent international monitoring; and
     - **(F)** decriminalizing political expression and activity.
 - **(c)** Not later than 180 days after October 18, 2004 , the Administrator of the Agency for International Development shall submit to the appropriate congressional committees a report describing compliance with this section.
+
+## Source Credit
+
+*([Pub. L. 108–333, title II, § 202](https://www.govinfo.gov/link/plaw/108/public/333), Oct. 18, 2004, [118 Stat. 1293](https://www.govinfo.gov/link/statute/118/1293).)*

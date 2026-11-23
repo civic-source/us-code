@@ -3,9 +3,10 @@ title: "Section 6158 - International agreements on information on radioactive ma
 usc_title: 10
 usc_section: "6158"
 chapter: 603
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6158"
-generated_at: "2026-03-30T02:53:38.221Z"
+generated_at: "2026-11-23T21:25:32.818Z"
+status: "active"
 ---
 
 # § 6158. International agreements on information on radioactive materials
@@ -16,3 +17,7 @@ The Secretary of Energy may, with the concurrence of the Secretary of State and 
   - **(2)** to obtain access to information described in paragraph (1) in the event of—
     - **(A)** a nuclear detonation; or
     - **(B)** the interdiction or discovery of a nuclear device or weapon or nuclear material.
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1382](https://www.govinfo.gov/link/statute/139/1382).)*

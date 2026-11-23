@@ -3,9 +3,10 @@ title: "Section 530 - Internal guidance on excess personal property"
 usc_title: 40
 usc_section: "530"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 530"
-generated_at: "2026-03-30T02:55:43.374Z"
+generated_at: "2026-11-23T21:26:14.804Z"
+status: "active"
 ---
 
 # § 530. Internal guidance on excess personal property
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:55:43.374Z"
   - **(3)** how to evaluate the suitability of excess personal property for use; and
   - **(4)** defined roles and responsibilities relevant to considering the use of excess personal property, including the designation of an employee as responsible for searching through available excess personal property for items that meet the needs of the executive agency.
 - **(b)** Each executive agency shall submit to the Administrator of General Services and update on the website of the executive agency any changes to the internal guidance submitted and made available under subsection (a).
+
+Initial Report
+
+Updates
+
+## Source Credit
+
+*(Added and amended [Pub. L. 118–99, § 2(a)(2)](https://www.govinfo.gov/link/plaw/118/public/99), (e)(2), Oct. 1, 2024, [138 Stat. 1578](https://www.govinfo.gov/link/statute/138/1578), 1579.)*

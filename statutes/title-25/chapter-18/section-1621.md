@@ -3,9 +3,10 @@ title: "Section 1621 - Indian Health Care Improvement Fund"
 usc_title: 25
 usc_section: "1621"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1621"
-generated_at: "2026-03-30T02:54:52.819Z"
+generated_at: "2026-11-23T21:25:54.617Z"
+status: "active"
 ---
 
 # § 1621. Indian Health Care Improvement Fund
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:54:52.819Z"
 - **(g)** Funds appropriated under this section for any fiscal year shall be included in the base budget of the Service for the purpose of determining appropriations under this section in subsequent fiscal years.
 - **(h)** Nothing in this section is intended to diminish the primary responsibility of the Service to eliminate existing backlogs in unmet health care needs, nor are the provisions of this section intended to discourage the Service from undertaking additional efforts to achieve equity among Indian tribes and tribal organizations.
 - **(i)** Any funds appropriated under the authority of this section shall be designated as the “Indian Health Care Improvement Fund”.
+
+## Source Credit
+
+*([Pub. L. 94–437, title II, § 201](https://www.govinfo.gov/link/plaw/94/public/437), Sept. 30, 1976, [90 Stat. 1404](https://www.govinfo.gov/link/statute/90/1404); [Pub. L. 96–537, § 4](https://www.govinfo.gov/link/plaw/96/public/537), Dec. 17, 1980, [94 Stat. 3174](https://www.govinfo.gov/link/statute/94/3174); [Pub. L. 100–713, title II, § 201(a)](https://www.govinfo.gov/link/plaw/100/public/713), Nov. 23, 1988, [102 Stat. 4800](https://www.govinfo.gov/link/statute/102/4800); [Pub. L. 102–573, title II, § 201(a)](https://www.govinfo.gov/link/plaw/102/public/573), (c), 207(b), 217(b)(1), Oct. 29, 1992, [106 Stat. 4544](https://www.govinfo.gov/link/statute/106/4544), 4546, 4551, 4559; [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

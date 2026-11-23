@@ -3,12 +3,17 @@ title: "Section 874 - Judicial process; officials to be citizens of United State
 usc_title: 48
 usc_section: "874"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 874"
-generated_at: "2026-03-30T02:56:14.582Z"
+generated_at: "2026-11-23T21:26:37.976Z"
+status: "active"
 ---
 
 # § 874. Judicial process; officials to be citizens of United States; oath
 
 All judicial process shall run in the name of “United States of America, ss, the President of the United States”, and all penal or criminal prosecutions in the local courts shall be conducted in the name and by the authority of “The People of Puerto Rico.” All officials shall be citizens of the United States, and, before entering upon the duties of their respective offices, shall take an oath to support the Constitution of the United States and the laws of Puerto Rico.
 
+
+## Source Credit
+
+*(Mar. 2, 1917, ch. 145, § 10, [39 Stat. 954](https://www.govinfo.gov/link/statute/39/954); May 17, 1932, ch. 190, [47 Stat. 158](https://www.govinfo.gov/link/statute/47/158).)*

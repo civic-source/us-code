@@ -3,9 +3,10 @@ title: "Section 1687 - Interpretation of “program or activity”"
 usc_title: 20
 usc_section: "1687"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1687"
-generated_at: "2026-03-30T02:54:48.169Z"
+generated_at: "2026-11-23T21:25:47.354Z"
+status: "active"
 ---
 
 # § 1687. Interpretation of “program or activity”
@@ -24,3 +25,9 @@ For the purposes of this chapter, the term “program or activity” and “prog
       - **(ii)** which is principally engaged in the business of providing education, health care, housing, social services, or parks and recreation; or
     - **(B)** the entire plant or other comparable, geographically separate facility to which Federal financial assistance is extended, in the case of any other corporation, partnership, private organization, or sole proprietorship; or
   - **(4)** any other entity which is established by two or more of the entities described in paragraph (1), (2), or (3);
+
+“The Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 92–318, title IX, § 908](https://www.govinfo.gov/link/plaw/92/public/318), as added [Pub. L. 100–259, § 3(a)](https://www.govinfo.gov/link/plaw/100/public/259), Mar. 22, 1988, [102 Stat. 28](https://www.govinfo.gov/link/statute/102/28); amended [Pub. L. 103–382, title III, § 391(g)](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 4023](https://www.govinfo.gov/link/statute/108/4023); [Pub. L. 107–110, title X, § 1076(j)](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2091](https://www.govinfo.gov/link/statute/115/2091); [Pub. L. 114–95, title IX, § 9215(bb)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2173](https://www.govinfo.gov/link/statute/129/2173).)*

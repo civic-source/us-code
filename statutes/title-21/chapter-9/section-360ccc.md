@@ -3,9 +3,10 @@ title: "Section 360ccc - Conditional approval of new animal drugs for minor use 
 usc_title: 21
 usc_section: "360ccc"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 360ccc"
-generated_at: "2026-03-30T02:54:54.257Z"
+generated_at: "2026-11-23T21:25:56.106Z"
+status: "active"
 ---
 
 # § 360ccc. Conditional approval of new animal drugs for minor use and minor species and certain new animal drugs
@@ -79,3 +80,9 @@ generated_at: "2026-03-30T02:54:54.257Z"
     - **(A)** may not accept any new applications for such conditional approval pursuant to subsection (a)(1)(A)(ii) on or after such date; and
     - **(B)** may continue all activities under this section with respect to drugs that were conditionally approved pursuant to 2 2 So in original. The word “subsection” probably should appear. (a)(1)(A)(ii) prior to such date.
   - **(3)** The Secretary may, until October 1, 2032 , accept applications for approval under 3 3 So in original. The word “section” probably should appear. 360b of this title of drugs conditionally approved pursuant to 2 (a)(1)(A)(ii).
+
+“Congress makes the following findings:
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 571, as added [Pub. L. 108–282, title I, § 102(b)(4)](https://www.govinfo.gov/link/plaw/108/public/282), Aug. 2, 2004, [118 Stat. 892](https://www.govinfo.gov/link/statute/118/892); amended [Pub. L. 114–89, § 2(a)(3)(B)](https://www.govinfo.gov/link/plaw/114/public/89), Nov. 25, 2015, [129 Stat. 699](https://www.govinfo.gov/link/statute/129/699); [Pub. L. 115–234, title III](https://www.govinfo.gov/link/plaw/115/public/234), §§ 301(b), 304(a), Aug. 14, 2018, [132 Stat. 2436](https://www.govinfo.gov/link/statute/132/2436).)*

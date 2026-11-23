@@ -3,9 +3,10 @@ title: "Section 904 - Hostage and Wrongful Detainee flag"
 usc_title: 36
 usc_section: "904"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 904"
-generated_at: "2026-03-30T02:55:44.690Z"
+generated_at: "2026-11-23T21:26:13.486Z"
+status: "active"
 ---
 
 # § 904. Hostage and Wrongful Detainee flag
@@ -28,3 +29,21 @@ generated_at: "2026-03-30T02:55:44.690Z"
       - **(ii)** the Secretary of Defense.
 - **(c)** Display of the Hostage and Wrongful Detainee flag pursuant to this section shall be in a manner designed to ensure visibility to the public.
 - **(d)** This section may not be construed or applied so as to require any employee to report to work solely for the purpose of providing for the display of the Hostage and Wrongful Detainee flag.
+
+Designation
+
+Required Display
+
+In general
+
+Days specified
+
+Locations specified
+
+Display To Be in a Manner Visible to the Public
+
+Limitation
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVIII, § 1804(a)(2)(A)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 686](https://www.govinfo.gov/link/statute/137/686).)*

@@ -3,12 +3,17 @@ title: "Section 421 - Deposit of refuse, etc., in Lake Michigan near Chicago"
 usc_title: 33
 usc_section: "421"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 421"
-generated_at: "2026-03-30T02:55:41.055Z"
+generated_at: "2026-11-23T21:26:11.299Z"
+status: "active"
 ---
 
 # § 421. Deposit of refuse, etc., in Lake Michigan near Chicago
 
 It shall not be lawful to throw, discharge, dump, or deposit, or cause, suffer, or procure, to be thrown, discharged, dumped, or deposited, any refuse matter of any kind or description whatever other than that flowing from streets and sewers and passing therefrom in a liquid state into Lake Michigan, at any point opposite or in front of the county of Cook, in the State of Illinois, or the county of Lake in the State of Indiana, within eight miles from the shore of said lake, unless said material shall be placed inside of a breakwater so arranged as not to permit the escape of such refuse material into the body of the lake and cause contamination thereof; and no officer of the Government shall dump or cause or authorize to be dumped any material contrary to the provisions of this section: Provided, however , That the provisions of this section shall not apply to work in connection with the construction, repair, and protection of breakwaters and other structures built in aid of navigation, or for the purpose of obtaining water supply. Any person violating any provision of this section shall be guilty of a misdemeanor, and on conviction thereof shall be fined for each offense not exceeding $1,000.
 
+
+## Source Credit
+
+*(June 23, 1910, ch. 359, [36 Stat. 593](https://www.govinfo.gov/link/statute/36/593).)*

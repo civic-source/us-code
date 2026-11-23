@@ -3,9 +3,10 @@ title: "Section 470gg - Enforcement"
 usc_title: 16
 usc_section: "470gg"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 470gg"
-generated_at: "2026-03-30T02:54:22.854Z"
+generated_at: "2026-11-23T21:25:51.639Z"
+status: "active"
 ---
 
 # § 470gg. Enforcement
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:22.854Z"
   - **(2)** assessment of a civil penalty against such person under section 470ff of this title with respect to such violation, or
   - **(3)** a determination by any court that such archaeological resources, vehicles, or equipment were involved in such violation.
 - **(c)** In cases in which a violation of the prohibition contained in subsection (a), (b), or (c) of section 470ee of this title involve archaeological resources excavated or removed from Indian lands, the Federal land manager or the court, as the case may be, shall provide for the payment to the Indian or Indian tribe involved of all penalties collected pursuant to section 470ff of this title and for the transfer to such Indian or Indian tribe of all items forfeited under this section.
+
+## Source Credit
+
+*([Pub. L. 96–95, § 8](https://www.govinfo.gov/link/plaw/96/public/95), Oct. 31, 1979, [93 Stat. 726](https://www.govinfo.gov/link/statute/93/726).)*

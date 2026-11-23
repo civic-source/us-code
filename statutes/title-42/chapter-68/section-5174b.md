@@ -3,9 +3,10 @@ title: "Section 5174b - Critical document fee waiver"
 usc_title: 42
 usc_section: "5174b"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5174b"
-generated_at: "2026-03-30T02:56:11.225Z"
+generated_at: "2026-11-23T21:26:32.761Z"
+status: "active"
 ---
 
 # § 5174b. Critical document fee waiver
@@ -22,3 +23,9 @@ generated_at: "2026-03-30T02:56:11.225Z"
   - **(2)** The authority of the President to waive fees under subparagraphs (C) through (H) of paragraph (1) applies regardless of whether the individual or household qualifies for a Form I–912 Request for Fee Waiver, or any successor thereto.
   - **(3)** The assistance limit in section 5174(h) of this title shall not apply to any fee waived under this subsection.
   - **(4)** Not later than 365 days after October 5, 2018 , the Administrator and the head of any other agency given critical document fee waiver authority under this subsection shall submit a report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the costs associated with providing critical document fee waivers as described in paragraph (1).
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. D, § 1238(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3465](https://www.govinfo.gov/link/statute/132/3465).)*

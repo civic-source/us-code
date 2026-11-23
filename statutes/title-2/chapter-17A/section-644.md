@@ -3,9 +3,10 @@ title: "Section 644 - Extraneous matter in reconciliation legislation"
 usc_title: 2
 usc_section: "644"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 644"
-generated_at: "2026-03-30T02:53:04.800Z"
+generated_at: "2026-11-23T21:25:21.173Z"
+status: "active"
 ---
 
 # § 644. Extraneous matter in reconciliation legislation
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:04.800Z"
   - **(1)** a point of order being made by any Senator against extraneous material meeting the definition of subsections (b)(1)(A), (b)(1)(B), (b)(1)(D), (b)(1)(E), or (b)(1)(F), and
   - **(2)** such point of order being sustained,
 - **(e)** Notwithstanding any other law or rule of the Senate, it shall be in order for a Senator to raise a single point of order that several provisions of a bill, resolution, amendment, motion, or conference report violate this section. The Presiding Officer may sustain the point of order as to some or all of the provisions against which the Senator raised the point of order. If the Presiding Officer so sustains the point of order as to some of the provisions (including provisions of an amendment, motion, or conference report) against which the Senator raised the point of order, then only those provisions (including provisions of an amendment, motion, or conference report) against which the Presiding Officer sustains the point of order shall be deemed stricken pursuant to this section. Before the Presiding Officer rules on such a point of order, any Senator may move to waive such a point of order as it applies to some or all of the provisions against which the point of order was raised. Such a motion to waive is amendable in accordance with the rules and precedents of the Senate. After the Presiding Officer rules on such a point of order, any Senator may appeal the ruling of the Presiding Officer on such a point of order as it applies to some or all of the provisions on which the Presiding Officer ruled.
+
+## Source Credit
+
+*([Pub. L. 93–344, title III, § 313](https://www.govinfo.gov/link/plaw/93/public/344), formerly [Pub. L. 99–272, title XX, § 20001](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 390](https://www.govinfo.gov/link/statute/100/390), as amended [Pub. L. 99–509, title VII, § 7006](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1949](https://www.govinfo.gov/link/statute/100/1949); [Pub. L. 100–119, title II, § 205(a)](https://www.govinfo.gov/link/plaw/100/public/119), (b), Sept. 29, 1987, [101 Stat. 784](https://www.govinfo.gov/link/statute/101/784); renumbered [§ 313 of Pub. L. 93–344](https://www.govinfo.gov/link/plaw/93/public/344) and amended [Pub. L. 101–508, title XIII, § 13214(a)](https://www.govinfo.gov/link/plaw/101/public/508) –(b)(4), Nov. 5, 1990, [104 Stat. 1388–621](https://www.govinfo.gov/link/statute/104/1388), 1388–622; [Pub. L. 105–33, title X, § 10113(b)(1)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 688](https://www.govinfo.gov/link/statute/111/688).)*

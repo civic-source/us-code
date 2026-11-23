@@ -3,9 +3,10 @@ title: "Section 2191 - Graduate fellowships"
 usc_title: 10
 usc_section: "2191"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2191"
-generated_at: "2026-03-30T02:53:38.147Z"
+generated_at: "2026-11-23T21:25:32.567Z"
+status: "active"
 ---
 
 # § 2191. Graduate fellowships
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:38.147Z"
   - **(2)** the procedures for selecting recipients;
   - **(3)** the basis for determining the amount of a fellowship; and
   - **(4)** the maximum amount that may be awarded to an individual during an academic year.
+
+## Source Credit
+
+*(Added [Pub. L. 101–189, div. A, title VIII, § 843(d)(1)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1516](https://www.govinfo.gov/link/statute/103/1516).)*

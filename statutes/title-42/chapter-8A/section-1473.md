@@ -3,9 +3,10 @@ title: "Section 1473 - Loans for housing and buildings on potentially adequate f
 usc_title: 42
 usc_section: "1473"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1473"
-generated_at: "2026-03-30T02:56:11.094Z"
+generated_at: "2026-11-23T21:26:32.052Z"
+status: "active"
 ---
 
 # § 1473. Loans for housing and buildings on potentially adequate farms; conditions and terms
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.094Z"
 - **(b)** that the income of the applicant may be sufficiently increased within a period of not to exceed five years by improvement or enlargement of the farm or an adjustment of the farm practices or methods; and
 - **(c)** that the applicant has adopted and may reasonably be expected to put into effect a plan of farm improvement, enlargement, or adjusted practices or production which, in the opinion of the Secretary, will increase the applicant’s income from said farm within a period of not to exceed five years to the extent that the applicant may be expected thereafter to make annual repayments of principal and interest sufficient to repay the balance of the indebtedness less payments in cash and credits for the contributions to be made by the Secretary as hereinafter provided, the Secretary may make a loan in an amount necessary to provide adequate farm dwellings and buildings on said farm under the terms and conditions prescribed in section 1472 of this title . In addition, the Secretary may agree with the borrower to make annual contributions during the said five-year period in the form of credits on the borrower’s indebtedness in an amount not to exceed the annual installment of interest and 50 per centum of the principal payments accruing during any installment year up to and including the fifth installment year, subject to the conditions that the borrower’s income is, in fact, insufficient to enable the borrower to make payments in accordance with the plan or schedule prescribed by the Secretary and that the borrower pursues his plan of farm reorganization and improvements or enlargement with due diligence. Except as provided in title 11, this agreement with respect to credits or principal and interest upon the borrower’s indebtedness shall not be assignable nor accrue to the benefit of any third party without the written consent of the Secretary and the Secretary shall have the right, at his option, to cancel the agreement upon the sale of the farm or the execution or creation of any lien thereon subsequent to the lien given to the Secretary, or to refuse to release the lien given to the Secretary except upon payment in cash of the entire original principal plus accrued interest thereon less actual cash payments of principal and interest when the Secretary determines that the release of the lien would permit the benefits of this section to accrue to a person not eligible to receive such benefits.
 
+
+## Source Credit
+
+*(July 15, 1949, ch. 338, title V, § 503, [63 Stat. 434](https://www.govinfo.gov/link/statute/63/434); [Pub. L. 95–598, title III, § 329](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2679](https://www.govinfo.gov/link/statute/92/2679).)*

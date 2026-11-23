@@ -3,9 +3,10 @@ title: "Section 3631 - Applicability; definitions and updates"
 usc_title: 39
 usc_section: "3631"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 3631"
-generated_at: "2026-03-30T02:55:43.694Z"
+generated_at: "2026-11-23T21:26:12.788Z"
+status: "active"
 ---
 
 # § 3631. Applicability; definitions and updates
@@ -18,3 +19,13 @@ generated_at: "2026-03-30T02:55:43.694Z"
   - **(5)** mailgrams;
 - **(b)** For purposes of this subchapter, the term “costs attributable”, as used with respect to a product, means the direct and indirect postal costs attributable to such product through reliably identified causal relationships.
 - **(c)** Mail matter referred to in subsection (a) shall, for purposes of this subchapter, be considered to have the meaning given to such mail matter under the mail classification schedule.
+
+Applicability
+
+Definition
+
+Rule of Construction
+
+## Source Credit
+
+*(Added [Pub. L. 109–435, title II, § 202](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3205](https://www.govinfo.gov/link/statute/120/3205).)*

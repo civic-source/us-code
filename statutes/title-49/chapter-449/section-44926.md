@@ -3,9 +3,10 @@ title: "Section 44926 - Appeal and redress process for passengers wrongly delaye
 usc_title: 49
 usc_section: "44926"
 chapter: 449
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44926"
-generated_at: "2026-03-30T02:56:19.394Z"
+generated_at: "2026-11-23T21:26:40.932Z"
+status: "active"
 ---
 
 # § 44926. Appeal and redress process for passengers wrongly delayed or prohibited from boarding a flight
@@ -27,3 +28,21 @@ generated_at: "2026-03-30T02:56:19.394Z"
     - **(F)** only retain the data for as long as needed to assist the individual traveler in the redress process; and
     - **(G)** conduct and publish a privacy impact assessment of the process described within this subsection and transmit the assessment to the Committee on Homeland Security of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and Committee on Homeland Security and Governmental Affairs of the Senate.
   - **(5)** The Office shall establish at each airport at which the Department has a significant presence a process to provide information to air carrier passengers to begin the redress process established pursuant to subsection (a).
+
+In General
+
+Office of Appeals and Redress.—
+
+Establishment
+
+Records
+
+Information
+
+Handling of personally identifiable information
+
+Initiation of redress process at airports
+
+## Source Credit
+
+*(Added [Pub. L. 110–53, title XVI, § 1606(a)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 482](https://www.govinfo.gov/link/statute/121/482); amended [Pub. L. 115–254, div. K, title I, § 1991(d)(22)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3637](https://www.govinfo.gov/link/statute/132/3637).)*

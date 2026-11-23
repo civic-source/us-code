@@ -3,9 +3,10 @@ title: "Section 4581 - Prohibition on investments"
 usc_title: 50
 usc_section: "4581"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4581"
-generated_at: "2026-03-30T02:56:26.281Z"
+generated_at: "2026-11-23T21:26:39.113Z"
+status: "active"
 ---
 
 # § 4581. Prohibition on investments
@@ -31,3 +32,77 @@ generated_at: "2026-03-30T02:56:26.281Z"
     - **(B)** adopting the least burdensome alternative that achieves regulatory objectives; and
     - **(C)** prioritizing transparency and stakeholder involvement in the process of issuing the rules.
   - **(5)** In accordance with section 556(d) of title 5 , in an enforcement action for a violation of the prohibition set forth in subsection (a), the burden of proof shall be upon the Secretary.
+
+In General
+
+Hiring Authority.—
+
+By the president
+
+By agencies
+
+In General
+
+Sanctions Described
+
+Penalties
+
+Exception for Intelligence and Law Enforcement Activities
+
+Exception for United States Government Activities
+
+Report to Congress.—
+
+In general
+
+Form
+
+Administrative Provisions
+
+Rule of Construction
+
+Appropriate congressional committees
+
+Country of concern
+
+Covered foreign person
+
+Foreign person
+
+Knowingly
+
+Non-SDN chinese military-industrial complex companies list
+
+Person
+
+United states person
+
+In General
+
+Good Defined
+
+Report.—
+
+In general
+
+Process required
+
+Risk-based prioritization framework
+
+Annual reports to the appropriate congressional committees
+
+Matters to be included
+
+Definitions
+
+Appropriate congressional committees
+
+Country of concern
+
+Non-SDN chinese military-industrial complex companies list
+
+PRC person
+
+## Source Credit
+
+*(Sept. 8, 1950, ch. 932, title VIII, § 801, as added [Pub. L. 119–60, div. H, title LXXXV, § 8521](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1924](https://www.govinfo.gov/link/statute/139/1924).)*

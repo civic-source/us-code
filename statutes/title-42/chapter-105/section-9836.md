@@ -3,9 +3,10 @@ title: "Section 9836 - Designation of Head Start agencies"
 usc_title: 42
 usc_section: "9836"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9836"
-generated_at: "2026-03-30T02:56:11.367Z"
+generated_at: "2026-11-23T21:26:33.285Z"
+status: "active"
 ---
 
 # § 9836. Designation of Head Start agencies
@@ -108,3 +109,7 @@ generated_at: "2026-03-30T02:56:11.367Z"
 - **(f)** If no agency in a community is designated under subsection (d), and there is no qualified applicant in the community, the Secretary shall designate a qualified agency to carry out the Head Start program in the community on an interim basis until a qualified applicant from the community is designated under subsection (d).
 - **(g)** The Secretary shall require that the practice of significantly involving parents and community residents in the area affected by the program involved, in the selection of Head Start agencies, be continued.
 - **(h)** For purposes of this subchapter, a community may be a city, county, or multicity or multicounty unit within a State, an Indian reservation (including Indians in any off-reservation area designated by an appropriate tribal government in consultation with the Secretary), or a neighborhood or other area (irrespective of boundaries or political subdivisions) that provides a suitable organizational base and possesses the commonality of interest needed to operate a Head Start program.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 641](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 501](https://www.govinfo.gov/link/statute/95/501); [Pub. L. 98–558, title I, § 104](https://www.govinfo.gov/link/plaw/98/public/558), Oct. 30, 1984, [98 Stat. 2878](https://www.govinfo.gov/link/statute/98/2878); [Pub. L. 101–501, title I](https://www.govinfo.gov/link/plaw/101/public/501), §§ 107, 108, Nov. 3, 1990, [104 Stat. 1229](https://www.govinfo.gov/link/statute/104/1229), 1230; [Pub. L. 102–401, § 2(e)(1)](https://www.govinfo.gov/link/plaw/102/public/401), (f)–(h), Oct. 7, 1992, [106 Stat. 1957](https://www.govinfo.gov/link/statute/106/1957); [Pub. L. 103–252, title I, § 107](https://www.govinfo.gov/link/plaw/103/public/252), May 18, 1994, [108 Stat. 629](https://www.govinfo.gov/link/statute/108/629); [Pub. L. 105–285, title I, § 107](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2712](https://www.govinfo.gov/link/statute/112/2712); [Pub. L. 108–446, title III, § 305](https://www.govinfo.gov/link/plaw/108/public/446) (l)(3), Dec. 3, 2004, [118 Stat. 2806](https://www.govinfo.gov/link/statute/118/2806); [Pub. L. 110–134, § 7](https://www.govinfo.gov/link/plaw/110/public/134), Dec. 12, 2007, [121 Stat. 1378](https://www.govinfo.gov/link/statute/121/1378); [Pub. L. 114–95, title IX, § 9215(nn)(2)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2176](https://www.govinfo.gov/link/statute/129/2176).)*

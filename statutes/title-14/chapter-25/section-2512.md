@@ -3,9 +3,10 @@ title: "Section 2512 - Family leave policies for the Coast Guard"
 usc_title: 14
 usc_section: "2512"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 2512"
-generated_at: "2026-03-30T02:53:51.499Z"
+generated_at: "2026-11-23T21:25:35.431Z"
+status: "active"
 ---
 
 # § 2512. Family leave policies for the Coast Guard
@@ -23,3 +24,19 @@ generated_at: "2026-03-30T02:53:51.499Z"
 - **(d)** In this section, the term “member of the reserve component of the Coast Guard” means a member of the Coast Guard who is a member of—
   - **(1)** the selected reserve who is entitled to compensation under section 206 of title 37 ; or
   - **(2)** the individual ready reserve who is entitled to compensation under section 206 of title 37 when attending or participating in a sufficient number of periods of inactive-duty training during a year to count the year as a qualifying year of creditable service toward eligibility for retired pay.
+
+In General
+
+Leave Associated With Birth or Placement of Minor Child With Member for Adoption or Long Term Foster Care
+
+Period of Leave.—
+
+In general
+
+Extended deadline
+
+Member of the Reserve Component of the Coast Guard Defined
+
+## Source Credit
+
+*(Added [Pub. L. 114–120, title II, § 222(a)](https://www.govinfo.gov/link/plaw/114/public/120), Feb. 8, 2016, [130 Stat. 49](https://www.govinfo.gov/link/statute/130/49), § 431; renumbered § 2512 and amended [Pub. L. 115–282, title I, § 114(b)](https://www.govinfo.gov/link/plaw/115/public/282), title III, § 315(a), Dec. 4, 2018, [132 Stat. 4223](https://www.govinfo.gov/link/statute/132/4223), 4250; [Pub. L. 119–60, div. G, title LXXII, § 7225(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1703](https://www.govinfo.gov/link/statute/139/1703).)*

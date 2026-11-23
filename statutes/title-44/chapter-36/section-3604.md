@@ -3,9 +3,10 @@ title: "Section 3604 - E-Government Fund"
 usc_title: 44
 usc_section: "3604"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 3604"
-generated_at: "2026-03-30T02:55:56.299Z"
+generated_at: "2026-11-23T21:26:18.442Z"
+status: "active"
 ---
 
 # § 3604. E-Government Fund
@@ -65,3 +66,7 @@ generated_at: "2026-03-30T02:55:56.299Z"
     - **(D)** $150,000,000 for fiscal year 2006; and
     - **(E)** such sums as are necessary for fiscal year 2007.
   - **(2)** Funds appropriated under this subsection shall remain available until expended.
+
+## Source Credit
+
+*(Added [Pub. L. 107–347, title I, § 101(a)](https://www.govinfo.gov/link/plaw/107/public/347), Dec. 17, 2002, [116 Stat. 2906](https://www.govinfo.gov/link/statute/116/2906).)*

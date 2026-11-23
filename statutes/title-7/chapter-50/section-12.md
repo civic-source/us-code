@@ -3,9 +3,10 @@ title: "Section 12 - Injunctions and other orders"
 usc_title: 7
 usc_section: "12"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 12"
-generated_at: "2026-03-30T02:53:42.361Z"
+generated_at: "2026-11-23T21:25:28.242Z"
+status: "active"
 ---
 
 # § 2009cc–12. Injunctions and other orders
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.361Z"
 - **(c)**
   - **(1)** The Secretary may act as trustee or receiver of a rural business investment company.
   - **(2)** On the request of the Secretary, the court shall appoint the Secretary to act as a trustee or receiver of a rural business investment company unless the court considers the appointment inequitable or otherwise inappropriate by reason of any special circumstances involved.
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 384M](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 107–171, title VI, § 6029](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 399](https://www.govinfo.gov/link/statute/116/399).)*

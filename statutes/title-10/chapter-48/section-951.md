@@ -3,9 +3,10 @@ title: "Section 951 - Establishment; organization; administration"
 usc_title: 10
 usc_section: "951"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 951"
-generated_at: "2026-03-30T02:53:38.091Z"
+generated_at: "2026-11-23T21:25:32.365Z"
+status: "active"
 ---
 
 # § 951. Establishment; organization; administration
@@ -17,3 +18,9 @@ generated_at: "2026-03-30T02:53:38.091Z"
   - **(3)** provide for the organization and equipping of offenders selected for training with a view to their honorable restoration to duty or possible reenlistment.
 - **(c)** There shall be an officer in command of each major military correctional facility. Under regulations to be prescribed by the Secretary concerned, the officer in command shall have custody and control of offenders confined within the facility which he commands, and shall usefully employ those offenders as he considers best for their health and reformation, with a view to their restoration to duty, enlistment for future service, or return to civilian life as useful citizens.
 - **(d)** There may be made or repaired at each military correctional facility such supplies for the armed forces or other agencies of the United States as can properly and economically be made or repaired at such facilities.
+
+Amendment
+
+## Source Credit
+
+*(Added [Pub. L. 90–377, § 1](https://www.govinfo.gov/link/plaw/90/public/377), July 5, 1968, [82 Stat. 287](https://www.govinfo.gov/link/statute/82/287); amended [Pub. L. 96–513, title V, § 511(27)](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2922](https://www.govinfo.gov/link/statute/94/2922).)*

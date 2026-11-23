@@ -3,9 +3,10 @@ title: "Section 1382 - Officers, staff, and other personnel"
 usc_title: 2
 usc_section: "1382"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1382"
-generated_at: "2026-03-30T02:53:04.812Z"
+generated_at: "2026-11-23T21:25:21.225Z"
+status: "active"
 ---
 
 # § 1382. Officers, staff, and other personnel
@@ -79,3 +80,13 @@ generated_at: "2026-03-30T02:53:04.812Z"
 - **(e)** The Executive Director shall appoint, and fix the compensation of, and may remove, such other additional staff, including hearing officers, but not including attorneys employed in the office of the General Counsel, as may be necessary to enable the Office to perform its duties.
 - **(f)** The Executive Director may, with the prior consent of the department or agency of the Federal Government concerned, use on a reimbursable or nonreimbursable basis the services of personnel of any such department or agency, including the services of members or personnel of the Government Accountability Office Personnel Appeals Board.
 - **(g)** In carrying out the functions of the Office, the Executive Director may procure the temporary (not to exceed 1 year) or intermittent services of consultants.
+
+Executive Director
+
+Deputy Executive Directors
+
+General Counsel
+
+## Source Credit
+
+*([Pub. L. 104–1, title III, § 302](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 26](https://www.govinfo.gov/link/statute/109/26); [Pub. L. 110–161, div. H, title I, § 1101(b)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2237](https://www.govinfo.gov/link/statute/121/2237); [Pub. L. 110–164, § 2(a)](https://www.govinfo.gov/link/plaw/110/public/164), Dec. 26, 2007, [121 Stat. 2459](https://www.govinfo.gov/link/statute/121/2459); [Pub. L. 115–397, title II, § 204](https://www.govinfo.gov/link/plaw/115/public/397), Dec. 21, 2018, [132 Stat. 5318](https://www.govinfo.gov/link/statute/132/5318); [Pub. L. 116–94, div. E, title II, § 212(a)(3)(C)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 2775](https://www.govinfo.gov/link/statute/133/2775).)*

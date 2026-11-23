@@ -3,9 +3,10 @@ title: "Section 20244 - Eligibility for consideration for promotion: duty assign
 usc_title: 10
 usc_section: "20244"
 chapter: 2005
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 20244"
-generated_at: "2026-03-30T02:53:38.281Z"
+generated_at: "2026-11-23T21:25:33.089Z"
+status: "active"
 ---
 
 # § 20244. Eligibility for consideration for promotion: duty assignments
@@ -16,3 +17,11 @@ generated_at: "2026-03-30T02:53:38.281Z"
 - **(b)**
   - **(1)** The Secretary of the Air Force shall prescribe the regulations required under subsection (a) not later than one year after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2026; and
   - **(2)** The regulations required under subsection (a) shall apply to officers considered for promotion to brigadier general on or after January 1, 2035 .
+
+Regulations
+
+Implementation Date
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title XVI, § 1601(d)(1)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1174](https://www.govinfo.gov/link/statute/139/1174).)*

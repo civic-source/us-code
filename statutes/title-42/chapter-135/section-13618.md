@@ -3,12 +3,17 @@ title: "Section 13618 - Treatment of other federally assisted housing"
 usc_title: 42
 usc_section: "13618"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13618"
-generated_at: "2026-03-30T02:56:11.449Z"
+generated_at: "2026-11-23T21:26:33.622Z"
+status: "active"
 ---
 
 # § 13618. Treatment of other federally assisted housing
 
 - **(a)** An owner of any federally assisted project (or portion of a project) as described in subparagraphs (D), (E), and (F) of section 13641(2) of this title that was designed for occupancy by elderly families may continue to restrict occupancy in such project (or portion) to elderly families in accordance with the rules, standards, and agreements governing occupancy in such housing in effect at the time of the development of the housing.
 - **(b)** Any tenant who is lawfully residing in a dwelling unit in a housing project described in subsection (a) may not be evicted or otherwise required to vacate such unit because of any reservation or preferences under this subchapter or because of any action taken by the Secretary of Housing and Urban Development or the owner of the project pursuant to this subchapter.
+
+## Source Credit
+
+*([Pub. L. 102–550, title VI, § 658](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3825](https://www.govinfo.gov/link/statute/106/3825).)*

@@ -3,9 +3,10 @@ title: "Section 256b - Limitation on prices of drugs purchased by covered entiti
 usc_title: 42
 usc_section: "256b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 256b"
-generated_at: "2026-03-30T02:56:10.717Z"
+generated_at: "2026-11-23T21:26:30.366Z"
+status: "active"
 ---
 
 # § 256b. Limitation on prices of drugs purchased by covered entities
@@ -106,3 +107,45 @@ generated_at: "2026-03-30T02:56:10.717Z"
     - **(C)** The administrative resolution of a claim or claims under the regulations promulgated under subparagraph (A) shall be a final agency decision and shall be binding upon the parties involved, unless invalidated by an order of a court of competent jurisdiction.
   - **(4)** There are authorized to be appropriated to carry out this subsection, such sums as may be necessary for fiscal year 2010 and each succeeding fiscal year.
 - **(e)** For covered entities described in subparagraph (M) (other than a children’s hospital described in subparagraph (M)), (N), or (O) of subsection (a)(4), the term “covered outpatient drug” shall not include a drug designated by the Secretary under section 360bb of title 21 for a rare disease or condition.
+
+In general
+
+Inpatient drugs
+
+Exceptions
+
+Purchasing arrangements for inpatient drugs
+
+In general
+
+Effectiveness
+
+In General
+
+Hospitals
+
+Applicable Requirement for Disproportionate Share Adjustment Percentage
+
+Self-attestation.—
+
+In general
+
+Paperwork reduction act
+
+Definitions
+
+Covered entity
+
+Covid–19 public health emergency
+
+Reimbursement Rates
+
+Requirement to Publicize Cash Price for Diagnostic Testing for COVID–
+
+In general
+
+Civil monetary penalties
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 340B, as added [Pub. L. 102–585, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/102/public/585), Nov. 4, 1992, [106 Stat. 4967](https://www.govinfo.gov/link/statute/106/4967); amended [Pub. L. 103–43, title XX, § 2008(i)(1)(A)](https://www.govinfo.gov/link/plaw/103/public/43), June 10, 1993, [107 Stat. 212](https://www.govinfo.gov/link/statute/107/212); [Pub. L. 111–148, title II, § 2501(f)(1)](https://www.govinfo.gov/link/plaw/111/public/148), title VII, §§ 7101(a)–(d), 7102, Mar. 23, 2010, [124 Stat. 309](https://www.govinfo.gov/link/statute/124/309), 821–823; [Pub. L. 111–152, title II, § 2302](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1082](https://www.govinfo.gov/link/statute/124/1082); [Pub. L. 111–309, title II, § 204(a)(1)](https://www.govinfo.gov/link/plaw/111/public/309), Dec. 15, 2010, [124 Stat. 3289](https://www.govinfo.gov/link/statute/124/3289).)*

@@ -3,9 +3,10 @@ title: "Section 12302 - Standard numbering system"
 usc_title: 46
 usc_section: "12302"
 chapter: 123
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 12302"
-generated_at: "2026-03-30T02:56:15.559Z"
+generated_at: "2026-11-23T21:26:37.140Z"
+status: "active"
 ---
 
 # § 12302. Standard numbering system
@@ -16,3 +17,16 @@ generated_at: "2026-03-30T02:56:15.559Z"
 - **(d)** When a vessel is removed to a new State of principal operation, the issuing authority of that State shall recognize the validity of the number issued by the original State for 60 days.
 - **(e)** If a State has a numbering system approved after the Secretary issues a number, the State shall recognize the validity of the number issued by the Secretary for one year.
 - **(f)** When the Secretary decides that a State numbering system is not being carried out consistent with the standard numbering system or the State has changed the system without the Secretary’s approval, the Secretary may withdraw approval after giving notice to the State, in writing, stating the reasons for the withdrawal.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 12302 | 46:1467 |
+
+
+Historical and Revision Notes
+
+12302
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 590](https://www.govinfo.gov/link/statute/97/590).)*

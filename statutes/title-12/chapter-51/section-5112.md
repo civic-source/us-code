@@ -3,9 +3,10 @@ title: "Section 5112 - Liability provisions"
 usc_title: 12
 usc_section: "5112"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5112"
-generated_at: "2026-03-30T02:53:53.524Z"
+generated_at: "2026-11-23T21:25:37.229Z"
+status: "active"
 ---
 
 # § 5112. Liability provisions
@@ -14,3 +15,7 @@ The Bureau, any State official or agency, or any organization serving as the adm
 
   - **(1)** have applied, are applying, or are licensed or registered through the Nationwide Mortgage Licensing System and Registry; and
   - **(2)** work in an industry with respect to which persons were licensed or registered through the Nationwide Mortgage Licensing System and Registry on May 24, 2018 .
+
+## Source Credit
+
+*([Pub. L. 110–289, div. A, title V, § 1513](https://www.govinfo.gov/link/plaw/110/public/289), as added [Pub. L. 111–203, title X, § 1100(8)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2107](https://www.govinfo.gov/link/statute/124/2107); amended [Pub. L. 115–174, title I, § 106(c)](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1304](https://www.govinfo.gov/link/statute/132/1304).)*

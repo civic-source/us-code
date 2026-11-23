@@ -3,9 +3,10 @@ title: "Section 9811 - Travel and transportation expenses of certain new appoint
 usc_title: 5
 usc_section: "9811"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 9811"
-generated_at: "2026-03-30T02:52:56.074Z"
+generated_at: "2026-11-23T21:25:23.464Z"
+status: "active"
 ---
 
 # § 9811. Travel and transportation expenses of certain new appointees
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:52:56.074Z"
     - **(G)** an appointment to a position established under section 5108; or
   - **(2)** a student trainee who, upon completion of academic work, is converted to an appointment in the Administration that is identified in paragraph (1) in accordance with an appropriate authority.
 - **(b)** The Administrator may pay the travel, transportation, and relocation expenses of a new appointee to the same extent, in the same manner, and subject to the same conditions as the payment of such expenses under sections 5724, 5724a, 5724b, and 5724c to an employee transferred in the interests of the United States Government.
+
+## Source Credit
+
+*(Added [Pub. L. 108–201, § 3(a)](https://www.govinfo.gov/link/plaw/108/public/201), Feb. 24, 2004, [118 Stat. 472](https://www.govinfo.gov/link/statute/118/472); amended [Pub. L. 111–314, § 4(a)](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3440](https://www.govinfo.gov/link/statute/124/3440).)*

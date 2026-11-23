@@ -3,9 +3,10 @@ title: "Section 2021i - Licensing review and approval"
 usc_title: 42
 usc_section: "2021i"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2021i"
-generated_at: "2026-03-30T02:56:11.147Z"
+generated_at: "2026-11-23T21:26:32.322Z"
+status: "active"
 ---
 
 # § 2021i. Licensing review and approval
@@ -15,3 +16,7 @@ In order to ensure the timely development of new low-level radioactive waste dis
   - **(1)** not later than 12 months after January 15, 1986 , establish procedures and develop the technical capability for processing applications for such licenses;
   - **(2)** to the extent practicable, complete all activities associated with the review and processing of any application for such a license (except for public hearings) no later than 15 months after the date of receipt of such application; and
   - **(3)** to the extent practicable, consolidate all required technical and environmental reviews and public hearings.
+
+## Source Credit
+
+*([Pub. L. 96–573, § 9](https://www.govinfo.gov/link/plaw/96/public/573), as added [Pub. L. 99–240, title I, § 102](https://www.govinfo.gov/link/plaw/99/public/240), Jan. 15, 1986, [99 Stat. 1859](https://www.govinfo.gov/link/statute/99/1859).)*

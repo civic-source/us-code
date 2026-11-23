@@ -3,9 +3,10 @@ title: "Section 4979A - Tax on certain prohibited allocations of qualified secur
 usc_title: 26
 usc_section: "4979A"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4979A"
-generated_at: "2026-03-30T02:55:27.813Z"
+generated_at: "2026-11-23T21:26:06.669Z"
+status: "active"
 ---
 
 # § 4979A. Tax on certain prohibited allocations of qualified securities
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:55:27.813Z"
     - **(D)** The statutory period for the assessment of any tax imposed by this section by reason of paragraph (3) or (4) of subsection (a) shall not expire before the date which is 3 years from the later of—
       - **(i)** the allocation or ownership referred to in such paragraph giving rise to such tax, or
       - **(ii)** the date on which the Secretary is notified of such allocation or ownership.
+
+## Source Credit
+
+*(Added and amended [Pub. L. 99–514, title XI, § 1172(b)(2)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1854(a)(9)(A), Oct. 22, 1986, [100 Stat. 2514](https://www.govinfo.gov/link/statute/100/2514), 2877; [Pub. L. 101–239, title VII, § 7304(a)(2)(D)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2353](https://www.govinfo.gov/link/statute/103/2353); [Pub. L. 104–188, title I, § 1704(t)(22)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1888](https://www.govinfo.gov/link/statute/110/1888); [Pub. L. 105–34, title XV, § 1530(c)(15)](https://www.govinfo.gov/link/plaw/105/public/34) –(17), Aug. 5, 1997, [111 Stat. 1079](https://www.govinfo.gov/link/statute/111/1079), 1080; [Pub. L. 107–16, title VI, § 656(c)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 134](https://www.govinfo.gov/link/statute/115/134).)*

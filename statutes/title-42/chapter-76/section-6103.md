@@ -3,9 +3,10 @@ title: "Section 6103 - Regulations"
 usc_title: 42
 usc_section: "6103"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6103"
-generated_at: "2026-03-30T02:56:11.241Z"
+generated_at: "2026-11-23T21:26:32.844Z"
+status: "active"
 ---
 
 # § 6103. Regulations
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.241Z"
 - **(c)**
   - **(1)** Nothing in this chapter shall be construed to authorize action under this chapter by any Federal department or agency with respect to any employment practice of any employer, employment agency, or labor organization, or with respect to any labor-management joint apprenticeship training program.
   - **(2)** Nothing in this chapter shall be construed to amend or modify the Age Discrimination in Employment Act of 1967 ( 29 U.S.C. 621–634 ), as amended, or to affect the rights or responsibilities of any person or party pursuant to such Act.
+
+## Source Credit
+
+*([Pub. L. 94–135, title III, § 304](https://www.govinfo.gov/link/plaw/94/public/135), Nov. 28, 1975, [89 Stat. 729](https://www.govinfo.gov/link/statute/89/729); [Pub. L. 95–478, title IV, § 401(b)](https://www.govinfo.gov/link/plaw/95/public/478), Oct. 18, 1978, [92 Stat. 1555](https://www.govinfo.gov/link/statute/92/1555); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695); [Pub. L. 97–300, title I, § 183](https://www.govinfo.gov/link/plaw/97/public/300), Oct. 13, 1982, [96 Stat. 1357](https://www.govinfo.gov/link/statute/96/1357); [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(37)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–427.)*

@@ -3,9 +3,10 @@ title: "Section 138 - Preservation of parklands"
 usc_title: 23
 usc_section: "138"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 138"
-generated_at: "2026-03-30T02:55:12.556Z"
+generated_at: "2026-11-23T21:25:53.884Z"
+status: "active"
 ---
 
 # § 138. Preservation of parklands
@@ -76,3 +77,97 @@ generated_at: "2026-03-30T02:55:12.556Z"
     - **(B)** The bridges and tunnels referred to in subparagraph (A)(ii) do not include bridges or tunnels located on railroad or transit lines—
       - **(i)** over which service has been discontinued; or
       - **(ii)** that have been railbanked or otherwise reserved for the transportation of goods or passengers.
+
+Declaration of Policy.—
+
+In general
+
+Cooperation and consultation.—
+
+In general
+
+Timeline for approvals.—
+
+In general
+
+Assumed acceptance
+
+Effect
+
+Requirement
+
+Studies
+
+De Minimis Impacts.—
+
+Requirements.—
+
+Requirements for historic sites
+
+Requirements for parks, recreation areas, and wildlife or waterfowl refuges
+
+Criteria
+
+Historic sites
+
+Parks, recreation areas, and wildlife or waterfowl refuges
+
+Satisfaction of Requirements for Certain Historic Sites.—
+
+In general
+
+Avoidance alternative analysis.—
+
+In general
+
+Concurrence
+
+Publication
+
+Aligning historical reviews.—
+
+In general
+
+Satisfaction of conditions
+
+References to Past Transportation Environmental Authorities.—
+
+Section 4(f) requirements
+
+Section 106 requirements
+
+Bridge Exemption From Consideration
+
+Rail and Transit.—
+
+In general
+
+Exceptions.—
+
+In general
+
+Clarification with respect to certain bridges and tunnels
+
+Declaration of Policy
+
+In general
+
+Requirements
+
+Purposes
+
+Study.—
+
+In general
+
+Study elements
+
+Definition
+
+In General
+
+Funding
+
+## Source Credit
+
+*(Added [Pub. L. 89–574, § 15(a)](https://www.govinfo.gov/link/plaw/89/public/574), Sept. 13, 1966, [80 Stat. 771](https://www.govinfo.gov/link/statute/80/771); amended [Pub. L. 90–495, § 18(a)](https://www.govinfo.gov/link/plaw/90/public/495), Aug. 23, 1968, [82 Stat. 823](https://www.govinfo.gov/link/statute/82/823); [Pub. L. 94–280, title I, § 124](https://www.govinfo.gov/link/plaw/94/public/280), May 5, 1976, [90 Stat. 440](https://www.govinfo.gov/link/statute/90/440); [Pub. L. 100–17, title I, § 133(b)(10)](https://www.govinfo.gov/link/plaw/100/public/17), Apr. 2, 1987, [101 Stat. 171](https://www.govinfo.gov/link/statute/101/171); [Pub. L. 109–59, title VI, § 6009(a)(1)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1874](https://www.govinfo.gov/link/statute/119/1874); [Pub. L. 112–141, div. A, title I, § 1119(c)(2)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 492](https://www.govinfo.gov/link/statute/126/492); [Pub. L. 113–287, § 5(f)(2)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3268](https://www.govinfo.gov/link/statute/128/3268); [Pub. L. 114–94, div. A, title I](https://www.govinfo.gov/link/plaw/114/public/94), §§ 1301(a), 1302(a), 1303(a), title XI, § 11502(a), Dec. 4, 2015, [129 Stat. 1375](https://www.govinfo.gov/link/statute/129/1375), 1377, 1378, 1690; [Pub. L. 117–58, div. A, title I, § 11316](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 543](https://www.govinfo.gov/link/statute/135/543).)*

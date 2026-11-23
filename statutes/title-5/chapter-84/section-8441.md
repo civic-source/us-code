@@ -3,9 +3,10 @@ title: "Section 8441 - Definitions"
 usc_title: 5
 usc_section: "8441"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8441"
-generated_at: "2026-03-30T02:52:56.060Z"
+generated_at: "2026-11-23T21:25:23.429Z"
+status: "active"
 ---
 
 # § 8441. Definitions
@@ -23,3 +24,7 @@ For the purpose of this subchapter—
     - **(A)** an unmarried dependent child under 18 years of age, including (i) an adopted child, (ii) a stepchild but only if the stepchild lived with the employee, Member, or annuitant in a regular parent-child relationship, (iii) a recognized natural child, and (iv) a child who lived with and for whom a petition of adoption was filed by an employee, Member, or annuitant and who is adopted by the widow or widower of the employee, Member, or annuitant after the death of such employee, Member, or annuitant;
     - **(B)** such unmarried dependent child regardless of age who is incapable of self-support because of mental or physical disability incurred before age 18; or
     - **(C)** such unmarried dependent child between 18 and 22 years of age who is a student regularly pursuing a full-time course of study or training in residence in a high school, trade school, technical or vocational institute, junior college, college, university, or comparable recognized educational institution.
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 558](https://www.govinfo.gov/link/statute/100/558).)*

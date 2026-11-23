@@ -3,9 +3,10 @@ title: "Section 107 - Automatic execution of conforming changes"
 usc_title: 14
 usc_section: "107"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 107"
-generated_at: "2026-03-30T02:53:51.487Z"
+generated_at: "2026-11-23T21:25:35.352Z"
+status: "active"
 ---
 
 # § 107. Automatic execution of conforming changes
@@ -18,3 +19,13 @@ generated_at: "2026-03-30T02:53:51.487Z"
   - **(1)** this title;
   - **(2)** any Coast Guard authorization Act that authorizes funds to be appropriated for a fiscal year to the Coast Guard; and
   - **(3)** any other law designated in the text thereof as a covered Coast Guard law for purposes of application of this section.
+
+In General
+
+Exceptions
+
+Covered Coast Guard Law Defined
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. G, § 7103(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1662](https://www.govinfo.gov/link/statute/139/1662).)*

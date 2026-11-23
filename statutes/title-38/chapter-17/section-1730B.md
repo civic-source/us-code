@@ -3,9 +3,10 @@ title: "Section 1730B - Access to State prescription drug monitoring programs"
 usc_title: 38
 usc_section: "1730B"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1730B"
-generated_at: "2026-03-30T02:55:53.487Z"
+generated_at: "2026-11-23T21:26:16.662Z"
+status: "active"
 ---
 
 # § 1730B. Access to State prescription drug monitoring programs
@@ -25,3 +26,13 @@ generated_at: "2026-03-30T02:55:53.487Z"
   - **(3)** The term “licensed health care provider” means a health care provider employed by the Department who is licensed, certified, or registered within any State to fill or prescribe medications within the scope of his or her practice as a Department employee.
   - **(4)** The term “national network of State-based prescription monitoring programs” means an interconnected nation-wide system that facilitates the transfer to State prescription drug monitoring program data across State lines.
   - **(5)** The term “State” means a State, as defined in section 101(20) of this title , or a political subdivision of a State.
+
+Access to Programs
+
+Covered Patients
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 115–182, title I, § 134(a)](https://www.govinfo.gov/link/plaw/115/public/182), June 6, 2018, [132 Stat. 1428](https://www.govinfo.gov/link/statute/132/1428); amended [Pub. L. 115–251, title II, § 206](https://www.govinfo.gov/link/plaw/115/public/251), Sept. 29, 2018, [132 Stat. 3173](https://www.govinfo.gov/link/statute/132/3173).)*

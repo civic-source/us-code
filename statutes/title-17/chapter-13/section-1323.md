@@ -3,9 +3,10 @@ title: "Section 1323 - Recovery for infringement"
 usc_title: 17
 usc_section: "1323"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 1323"
-generated_at: "2026-03-30T02:54:15.357Z"
+generated_at: "2026-11-23T21:25:41.741Z"
+status: "active"
 ---
 
 # § 1323. Recovery for infringement
@@ -15,3 +16,17 @@ generated_at: "2026-03-30T02:54:15.357Z"
 - **(c)** No recovery under subsection (a) or (b) shall be had for any infringement committed more than 3 years before the date on which the complaint is filed.
 - **(d)** In an action for infringement under this chapter, the court may award reasonable attorney’s fees to the prevailing party.
 - **(e)** The court may order that all infringing articles, and any plates, molds, patterns, models, or other means specifically adapted for making the articles, be delivered up for destruction or other disposition as the court may direct.
+
+Damages
+
+Infringer’s Profits
+
+Statute of Limitations
+
+Attorney’s Fees
+
+Disposition of Infringing and Other Articles
+
+## Source Credit
+
+*(Added [Pub. L. 105–304, title V, § 502](https://www.govinfo.gov/link/plaw/105/public/304), Oct. 28, 1998, [112 Stat. 2914](https://www.govinfo.gov/link/statute/112/2914).)*

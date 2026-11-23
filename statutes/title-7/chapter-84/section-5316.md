@@ -3,9 +3,10 @@ title: "Section 5316 - Annual budget submission"
 usc_title: 7
 usc_section: "5316"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 5316"
-generated_at: "2026-03-30T02:53:42.414Z"
+generated_at: "2026-11-23T21:25:28.359Z"
+status: "active"
 ---
 
 # § 5316. Annual budget submission
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.414Z"
 - **(b)** Nothing in this subchapter is intended to either—
   - **(1)** authorize the appropriation or require the expenditure of any funds in excess of the amount of funds that would be authorized or expended for the same purposes in the absence of the coordinated program; or
   - **(2)** limit the authority of any of the participating agencies to request and receive funds for such purposes (for use in the coordinated program) under other laws.
+
+## Source Credit
+
+*([Pub. L. 101–445, title I, § 106](https://www.govinfo.gov/link/plaw/101/public/445), Oct. 22, 1990, [104 Stat. 1040](https://www.govinfo.gov/link/statute/104/1040).)*

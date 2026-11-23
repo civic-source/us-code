@@ -3,9 +3,10 @@ title: "Section 1155 - Security awareness program"
 usc_title: 6
 usc_section: "1155"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1155"
-generated_at: "2026-03-30T02:53:09.506Z"
+generated_at: "2026-11-23T21:25:25.871Z"
+status: "active"
 ---
 
 # § 1155. Security awareness program
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:09.506Z"
   - **(1)** an employee of a public transportation agency who is a transit vehicle driver or operator, dispatcher, maintenance and maintenance support employee, station attendant, customer service employee, security employee, or transit police, or any other employee who has direct contact with riders on a regular basis, and any other employee of a public transportation agency that the Administrator determines should receive security training under this section or that is receiving security training under other law;
   - **(2)** over-the-road bus drivers, security personnel, dispatchers, maintenance and maintenance support personnel, ticket agents, other terminal employees, and other employees of an over-the-road bus operator or terminal owner or operator that the Administrator determines should receive security training under this section or that is receiving security training under other law; or
   - **(3)** security personnel, dispatchers, locomotive engineers, conductors, trainmen, other onboard employees, maintenance and maintenance support personnel, bridge tenders, and any other employees of railroad carriers that the Administrator determines should receive security training under this section or that is receiving security training under other law.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. K, title I, § 1976](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3616](https://www.govinfo.gov/link/statute/132/3616).)*

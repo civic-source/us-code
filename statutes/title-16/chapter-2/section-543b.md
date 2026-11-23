@@ -3,9 +3,10 @@ title: "Section 543b - Acquisition of lands"
 usc_title: 16
 usc_section: "543b"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 543b"
-generated_at: "2026-03-30T02:54:22.869Z"
+generated_at: "2026-11-23T21:25:51.665Z"
+status: "active"
 ---
 
 # § 543b. Acquisition of lands
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:22.869Z"
     - **(B)** construction of attached structural additions, not to exceed 100 per centum of the square footage of the original building, and
     - **(C)** construction of reasonable support development such as roads, parking, water and sewage systems shall be treated as detrimental to the integrity of the Scenic Area or as an incompatible development within the meaning of paragraph (2) of subsection (a).
 - **(c)** Notwithstanding any other provision of law, the Secretary shall only be required to prepare an environmental assessment of any exchange of mineral or geothermal interest authorized by sections 543 to 543h of this title.
+
+## Source Credit
+
+*([Pub. L. 98–425, title III, § 303](https://www.govinfo.gov/link/plaw/98/public/425), Sept. 28, 1984, [98 Stat. 1633](https://www.govinfo.gov/link/statute/98/1633).)*

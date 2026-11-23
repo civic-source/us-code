@@ -3,12 +3,17 @@ title: "Section 283u - Membership in the Bank for the Bahamas and Guyana"
 usc_title: 22
 usc_section: "283u"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 283u"
-generated_at: "2026-03-30T02:55:05.315Z"
+generated_at: "2026-11-23T21:25:58.354Z"
+status: "active"
 ---
 
 # § 283u. Membership in the Bank for the Bahamas and Guyana
 
 The United States Governor of the Bank is authorized to agree to the amendments to article II, section 1(b) and article IV, section 3(b) of the Agreement Establishing the Bank, as proposed by the Board of Executive Directors, to provide for membership for the Bahamas and Guyana in the Bank at such times and in accordance with such terms as the Bank may determine.
 
+
+## Source Credit
+
+*([Pub. L. 86–147, § 24](https://www.govinfo.gov/link/plaw/86/public/147), as added [Pub. L. 94–302, title I, § 103(a)(1)](https://www.govinfo.gov/link/plaw/94/public/302), May 31, 1976, [90 Stat. 592](https://www.govinfo.gov/link/statute/90/592).)*

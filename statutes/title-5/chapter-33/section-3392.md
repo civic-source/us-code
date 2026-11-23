@@ -3,9 +3,10 @@ title: "Section 3392 - General appointment provisions"
 usc_title: 5
 usc_section: "3392"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3392"
-generated_at: "2026-03-30T02:52:56.005Z"
+generated_at: "2026-11-23T21:25:23.165Z"
+status: "active"
 ---
 
 # § 3392. General appointment provisions
@@ -22,3 +23,11 @@ generated_at: "2026-03-30T02:52:56.005Z"
     - **(A)** which is not in the Senior Executive Service; and
     - **(B)** which is covered by the Executive Schedule, or the rate of basic pay for which is fixed by statute at a rate equal to 1 of the levels of the Executive Schedule.
 - **(d)** Appointment or removal of a person to or from any Senior Executive Service position in an independent regulatory commission shall not be subject, directly or indirectly, to review or approval by any officer or entity within the Executive Office of the President.
+
+Election by persons previously appointed
+
+Retroactive performance awards
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1161](https://www.govinfo.gov/link/statute/92/1161); amended [Pub. L. 101–335, § 7(a)](https://www.govinfo.gov/link/plaw/101/public/335), July 17, 1990, [104 Stat. 325](https://www.govinfo.gov/link/statute/104/325).)*

@@ -3,9 +3,10 @@ title: "Section 7909 - Authorization for the Clean Technology Fund"
 usc_title: 22
 usc_section: "7909"
 chapter: 86
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7909"
-generated_at: "2026-03-30T02:55:05.447Z"
+generated_at: "2026-11-23T21:25:58.731Z"
+status: "active"
 ---
 
 # § 7909. Authorization for the Clean Technology Fund
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:05.447Z"
         - **(I)** generates electricity or useful thermal energy from a renewable resource;
         - **(II)** substantially increases the energy efficiency of buildings, industrial, or agricultural processes, or of electricity transmission, distribution, or end-use consumption; or
         - **(III)** substantially increases the energy efficiency of the transportation system or increases utilization of transportation fuels that have lifecycle greenhouse gas emissions that are substantially lower than those attributable to fossil fuel-based alternatives.
+
+## Source Credit
+
+*([Pub. L. 111–117, div. F, title VII, § 7081(g)](https://www.govinfo.gov/link/plaw/111/public/117), Dec. 16, 2009, [123 Stat. 3398](https://www.govinfo.gov/link/statute/123/3398); [Pub. L. 113–76, div. K, title VII, § 7034(i)](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 514](https://www.govinfo.gov/link/statute/128/514).)*

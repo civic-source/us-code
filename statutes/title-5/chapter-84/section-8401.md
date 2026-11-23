@@ -3,9 +3,10 @@ title: "Section 8401 - Definitions"
 usc_title: 5
 usc_section: "8401"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8401"
-generated_at: "2026-03-30T02:52:56.053Z"
+generated_at: "2026-11-23T21:25:23.409Z"
+status: "active"
 ---
 
 # § 8401. Definitions
@@ -110,3 +111,21 @@ For the purpose of this chapter—
       - **(iii)** has less than 5 years of creditable civilian service under section 8411; and
     - **(B)** after December 31, 2013 , becomes employed as an employee or becomes a Member covered under this chapter performing service which is creditable service under section 8411; and
   - **(39)** “representative payee” means a person (including an organization) designated under section 8466(c)(1) to receive payments on behalf of a minor or an individual mentally incompetent or under other legal disability.
+
+In general
+
+Special rule.—
+
+Deposit requirement
+
+Prior service described
+
+In General
+
+Exceptions
+
+“The purposes of this Act [see Short Title note above] are—
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 517](https://www.govinfo.gov/link/statute/100/517); amended [Pub. L. 99–556, title I](https://www.govinfo.gov/link/plaw/99/public/556), §§ 107, 109, 119, Oct. 27, 1986, [100 Stat. 3132](https://www.govinfo.gov/link/statute/100/3132), 3134; [Pub. L. 100–238, title I](https://www.govinfo.gov/link/plaw/100/public/238), §§ 103(a)(2), (c), (d)(2), 113(b)(1), Jan. 8, 1988, [101 Stat. 1744](https://www.govinfo.gov/link/statute/101/1744), 1745, 1750; [Pub. L. 100–679, § 13(a)(2)](https://www.govinfo.gov/link/plaw/100/public/679), Nov. 17, 1988, [102 Stat. 4071](https://www.govinfo.gov/link/statute/102/4071); [Pub. L. 101–335, § 6(a)(1)](https://www.govinfo.gov/link/plaw/101/public/335), July 17, 1990, [104 Stat. 322](https://www.govinfo.gov/link/statute/104/322); [Pub. L. 101–474, § 5](https://www.govinfo.gov/link/plaw/101/public/474) (o), Oct. 30, 1990, [104 Stat. 1100](https://www.govinfo.gov/link/statute/104/1100); [Pub. L. 101–508, title VII, § 7202(k)(1)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–338](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–337, div. A, title XVI, § 1677(a)(4)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 3019](https://www.govinfo.gov/link/statute/108/3019); [Pub. L. 103–353, § 5(c)](https://www.govinfo.gov/link/plaw/103/public/353), (e)(1), Oct. 13, 1994, [108 Stat. 3174](https://www.govinfo.gov/link/statute/108/3174); [Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title II, § 206(a)(1)]](https://www.govinfo.gov/link/plaw/104/public/208) ], Sept. 30, 1996, [110 Stat. 3009–314](https://www.govinfo.gov/link/statute/110/3009), 3009–372, 3009–378; [Pub. L. 105–261, div. C, title XXXI, § 3154(f)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2255](https://www.govinfo.gov/link/statute/112/2255); [Pub. L. 106–65, div. A, title V, § 522(c)(2)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 597](https://www.govinfo.gov/link/statute/113/597); [Pub. L. 106–571, § 3(c)(2)](https://www.govinfo.gov/link/plaw/106/public/571), Dec. 28, 2000, [114 Stat. 3056](https://www.govinfo.gov/link/statute/114/3056); [Pub. L. 108–83, title I, § 104(a)](https://www.govinfo.gov/link/plaw/108/public/83), Sept. 30, 2003, [117 Stat. 1017](https://www.govinfo.gov/link/statute/117/1017); [Pub. L. 108–176, title II, § 226(a)(2)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2529](https://www.govinfo.gov/link/statute/117/2529); [Pub. L. 110–161, div. E, title V, § 535(b)(1)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2076](https://www.govinfo.gov/link/statute/121/2076); [Pub. L. 110–181, div. A, title XI, § 1115(b)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 361](https://www.govinfo.gov/link/statute/122/361); [Pub. L. 111–84, div. A, title XIX, § 1904(b)(1)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2616](https://www.govinfo.gov/link/statute/123/2616); [Pub. L. 112–96, title V, § 5001(a)](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 199](https://www.govinfo.gov/link/statute/126/199); [Pub. L. 113–67, div. A, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/113/public/67), Dec. 26, 2013, [127 Stat. 1183](https://www.govinfo.gov/link/statute/127/1183); [Pub. L. 116–126, § 2(a)(2)](https://www.govinfo.gov/link/plaw/116/public/126), Mar. 18, 2020, [134 Stat. 174](https://www.govinfo.gov/link/statute/134/174).)*

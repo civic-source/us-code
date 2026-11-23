@@ -3,9 +3,10 @@ title: "Section 484 - Quarterly cyber operations briefings"
 usc_title: 10
 usc_section: "484"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 484"
-generated_at: "2026-03-30T02:53:38.060Z"
+generated_at: "2026-11-23T21:25:32.272Z"
+status: "active"
 ---
 
 # § 484. Quarterly cyber operations briefings
@@ -23,3 +24,13 @@ generated_at: "2026-03-30T02:53:38.060Z"
     - **(B)** is consistent with readiness reporting pursuant to section 482 of this title .
   - **(6)** Any other matters that the briefers determine to be appropriate.
 - **(c)** Each briefing under subsection (a) shall include a classified placemat, summarizing the elements specified in paragraphs (1), (2), (3), and (5) of subsection (b), and an unclassified memorandum, summarizing the briefing’s contents.
+
+Briefings Required
+
+Elements
+
+Documents
+
+## Source Credit
+
+*(Added [Pub. L. 112–239, div. A, title IX, § 939(a)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1888](https://www.govinfo.gov/link/statute/126/1888); amended [Pub. L. 115–91, div. A, title XVI, § 1632(a)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1738](https://www.govinfo.gov/link/statute/131/1738); [Pub. L. 116–92, div. A, title XVI, § 1634(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1747](https://www.govinfo.gov/link/statute/133/1747); [Pub. L. 116–283, div. A, title XVII, § 1703](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4081](https://www.govinfo.gov/link/statute/134/4081).)*

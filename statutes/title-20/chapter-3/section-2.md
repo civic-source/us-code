@@ -3,9 +3,10 @@ title: "Section 2 - Council"
 usc_title: 20
 usc_section: "2"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 2"
-generated_at: "2026-03-30T02:54:48.081Z"
+generated_at: "2026-11-23T21:25:46.941Z"
+status: "active"
 ---
 
 # § 80t–2. Council
@@ -63,3 +64,7 @@ generated_at: "2026-03-30T02:54:48.081Z"
   - **(1)** The Council shall meet at the call of the chairperson or on the written request of a majority of the voting members of the Council, but not fewer than twice each year.
   - **(2)** During the 1-year period beginning on the date of the first meeting of the Council, the Council shall meet not fewer than 4 times for the purpose of carrying out the duties of the Council under this subchapter. 1
 - **(h)** A majority of the voting members of the Council holding office shall constitute a quorum for the purpose of conducting business, but a lesser number may receive information on behalf of the Council.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. T, title I, § 104](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2273](https://www.govinfo.gov/link/statute/134/2273).)*

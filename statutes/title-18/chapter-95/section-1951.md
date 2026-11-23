@@ -3,9 +3,10 @@ title: "Section 1951 - Interference with commerce by threats or violence"
 usc_title: 18
 usc_section: "1951"
 chapter: 95
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1951"
-generated_at: "2026-03-30T02:54:16.492Z"
+generated_at: "2026-11-23T21:25:44.105Z"
+status: "active"
 ---
 
 # § 1951. Interference with commerce by threats or violence
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:16.492Z"
   - **(2)** The term “extortion” means the obtaining of property from another, with his consent, induced by wrongful use of actual or threatened force, violence, or fear, or under color of official right.
   - **(3)** The term “commerce” means commerce within the District of Columbia, or any Territory or Possession of the United States; all commerce between any point in a State, Territory, Possession, or the District of Columbia and any point outside thereof; all commerce between points within the same State through any place outside such State; and all other commerce over which the United States has jurisdiction.
 - **(c)** This section shall not be construed to repeal, modify or affect section 17 of Title 15 , sections 52, 101–115, 151–166 of Title 29 or sections 151–188 of Title 45.
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 793](https://www.govinfo.gov/link/statute/62/793); [Pub. L. 103–322, title XXXIII, § 330016(1)(L)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2147](https://www.govinfo.gov/link/statute/108/2147).)*

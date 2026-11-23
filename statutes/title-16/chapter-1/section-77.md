@@ -3,9 +3,10 @@ title: "Section 77 - California State School lands"
 usc_title: 16
 usc_section: "77"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 77"
-generated_at: "2026-03-30T02:54:22.774Z"
+generated_at: "2026-11-23T21:25:51.463Z"
+status: "active"
 ---
 
 # § 410aaa–77. California State School lands
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:22.774Z"
   - **(3)** If an agreement is reached and executed with the Commission, then upon notice to the head of the agency having administrative jurisdiction over such lands or interests therein, the Secretary shall be vested with administrative jurisdiction over such land or interests therein for the purpose of concluding such exchange.
   - **(4)** Upon the acquisition of all State School lands or upon notice by the Commission to the Secretary that it no longer has an interest in such lands or interests therein, such lands or interests shall be released to the agency that originally had jurisdiction over such lands or interests for disposal in accordance with the laws otherwise applicable to such lands or interests.
 - **(d)** The provisions of this section shall not apply to the disposal of property under title II of the Defense Authorization Amendments and Base Closure and Realignment Act ( Public Law 100–526 ; 102 Stat. 2627 ; 10 U.S.C. 2687 note) or the Defense Base Closure and Realignment Act of 1990 ( Public Law 101–510 ; 104 Stat. 1808 ; 10 U.S.C. 2687 note).
+
+## Source Credit
+
+*([Pub. L. 103–433, title VII, § 707](https://www.govinfo.gov/link/plaw/103/public/433), Oct. 31, 1994, [108 Stat. 4499](https://www.govinfo.gov/link/statute/108/4499); [Pub. L. 116–9, title I, § 1456](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 716](https://www.govinfo.gov/link/statute/133/716).)*

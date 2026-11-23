@@ -3,9 +3,10 @@ title: "Section 13282 - Selection of proposals"
 usc_title: 42
 usc_section: "13282"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13282"
-generated_at: "2026-03-30T02:56:11.440Z"
+generated_at: "2026-11-23T21:26:33.589Z"
+status: "active"
 ---
 
 # § 13282. Selection of proposals
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:11.440Z"
   - **(2)** the proposer shall provide to the Secretary such information regarding the operation, maintenance, performance, and use of the electric motor vehicles as the Secretary may request during the period of the demonstration project;
   - **(3)** in the case of a demonstration project including automobiles or light duty trucks, the number of electric motor vehicles to be included in the demonstration project shall be no less than 50, except that the Secretary may select a demonstration project with fewer than 50 electric motor vehicles if the Secretary determines that selection of such a proposal will ensure that there is geographic or climatic diversity among the proposals selected and that an adequate demonstration to accelerate the development and use of electric motor vehicles can be undertaken with fewer than 50 electric motor vehicles; and
   - **(4)** the procurement practices of the manufacturer do not discriminate against United States producers of vehicle parts.
+
+## Source Credit
+
+*([Pub. L. 102–486, title VI, § 612](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2901](https://www.govinfo.gov/link/statute/106/2901).)*

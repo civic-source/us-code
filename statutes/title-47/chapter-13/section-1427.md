@@ -3,9 +3,10 @@ title: "Section 1427 - Initial funding for the First Responder Network Authority
 usc_title: 47
 usc_section: "1427"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1427"
-generated_at: "2026-03-30T02:56:24.534Z"
+generated_at: "2026-11-23T21:26:36.099Z"
+status: "active"
 ---
 
 # § 1427. Initial funding for the First Responder Network Authority
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:24.534Z"
 - **(b)**
   - **(1)** Administrative expenses of the First Responder Network Authority may not exceed $100,000,000 during the 10-year period beginning on February 22, 2012 .
   - **(2)** For purposes of this subsection, the term “administrative expenses” does not include the costs incurred by the First Responder Network Authority for oversight and audits to protect against waste, fraud, and abuse.
+
+## Source Credit
+
+*([Pub. L. 112–96, title VI, § 6207](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 215](https://www.govinfo.gov/link/statute/126/215).)*

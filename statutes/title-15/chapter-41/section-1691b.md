@@ -3,9 +3,10 @@ title: "Section 1691b - Promulgation of regulations by the Bureau"
 usc_title: 15
 usc_section: "1691b"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1691b"
-generated_at: "2026-03-30T02:54:08.154Z"
+generated_at: "2026-11-23T21:25:39.882Z"
+status: "active"
 ---
 
 # § 1691b. Promulgation of regulations by the Bureau
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.154Z"
 - **(e)** The Bureau shall provide in regulations that an applicant for a business or commercial loan shall be provided a written notice of such applicant’s right to receive a written statement of the reasons for the denial of such loan.
 - **(f)** Notwithstanding subsection (a), the Board shall prescribe regulations to carry out the purposes of this subchapter with respect to a person described in section 5519(a) of title 12 . These regulations may contain but are not limited to such classifications, differentiation, or other provision, and may provide for such adjustments and exceptions for any class of transactions, as in the judgment of the Board are necessary or proper to effectuate the purposes of this subchapter, to prevent circumvention or evasion thereof, or to facilitate or substantiate compliance therewith.
 - **(g)** Notwithstanding any power granted to any Federal agency under this subchapter, the deference that a court affords to a Federal agency with respect to a determination made by such agency relating to the meaning or interpretation of any provision of this subchapter that is subject to the jurisdiction of such agency shall be applied as if that agency were the only agency authorized to apply, enforce, interpret, or administer the provisions of this subchapter 4 4 So in original. Probably should be followed by a period.
+
+## Source Credit
+
+*([Pub. L. 90–321, title VII, § 703](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 93–495, title V, § 503](https://www.govinfo.gov/link/plaw/93/public/495), Oct. 28, 1974, [88 Stat. 1522](https://www.govinfo.gov/link/statute/88/1522); amended [Pub. L. 94–239, § 3(a)](https://www.govinfo.gov/link/plaw/94/public/239), Mar. 23, 1976, [90 Stat. 252](https://www.govinfo.gov/link/statute/90/252); [Pub. L. 100–533, title III, § 301](https://www.govinfo.gov/link/plaw/100/public/533), Oct. 25, 1988, [102 Stat. 2692](https://www.govinfo.gov/link/statute/102/2692); [Pub. L. 111–203, title X, § 1085(1)](https://www.govinfo.gov/link/plaw/111/public/203), (3), July 21, 2010, [124 Stat. 2083](https://www.govinfo.gov/link/statute/124/2083).)*

@@ -3,9 +3,10 @@ title: "Section 1003 - Research, development, test, and evaluation efforts in fu
 usc_title: 6
 usc_section: "1003"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1003"
-generated_at: "2026-03-30T02:53:09.503Z"
+generated_at: "2026-11-23T21:25:25.861Z"
+status: "active"
 ---
 
 # § 1003. Research, development, test, and evaluation efforts in furtherance of maritime and cargo security
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:09.503Z"
 - **(b)** The Secretary, in coordination with the Under Secretary for Science and Technology, the Assistant Secretary for Policy, the Commandant of the Coast Guard, the Director for Domestic Nuclear Detection, 1 1 See Change of Name note below. the Chief Financial Officer, and the heads of other appropriate offices or entities of the Department, shall ensure that—
   - **(1)** research, development, testing, and evaluation efforts funded by the Department in furtherance of maritime and cargo security are coordinated within the Department and with other appropriate Federal agencies to avoid duplication of efforts; and
   - **(2)** the results of such efforts are shared throughout the Department and with other Federal, State, and local agencies, as appropriate.
+
+## Source Credit
+
+*([Pub. L. 109–347, title III, § 303](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1921](https://www.govinfo.gov/link/statute/120/1921).)*

@@ -3,9 +3,10 @@ title: "Section 831 - Prohibited transactions involving nuclear materials"
 usc_title: 18
 usc_section: "831"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 831"
-generated_at: "2026-03-30T02:54:16.470Z"
+generated_at: "2026-11-23T21:25:43.994Z"
+status: "active"
 ---
 
 # § 831. Prohibited transactions involving nuclear materials
@@ -92,3 +93,13 @@ generated_at: "2026-03-30T02:54:16.470Z"
   - **(10)** the term “state” has the same meaning as that term has under international law, and includes all political subdivisions thereof;
   - **(11)** the term “state or government facility” has the meaning given that term in section 2332f(e)(3) of this title ; and
   - **(12)** the term “vessel of the United States” has the meaning given that term in section 70502 of title 46 .
+
+Nonapplicability
+
+Findings
+
+Purpose
+
+## Source Credit
+
+*(Added [Pub. L. 97–351, § 2(a)](https://www.govinfo.gov/link/plaw/97/public/351), Oct. 18, 1982, [96 Stat. 1663](https://www.govinfo.gov/link/statute/96/1663); amended [Pub. L. 100–690, title VII, § 7022](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4397](https://www.govinfo.gov/link/statute/102/4397); [Pub. L. 103–272, § 5(e)(6)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1374](https://www.govinfo.gov/link/statute/108/1374); [Pub. L. 103–322, title XXXIII, § 330016(2)(C)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2148](https://www.govinfo.gov/link/statute/108/2148); [Pub. L. 104–132, title V, § 502](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1282](https://www.govinfo.gov/link/statute/110/1282); [Pub. L. 114–23, title VIII, § 812](https://www.govinfo.gov/link/plaw/114/public/23), June 2, 2015, [129 Stat. 311](https://www.govinfo.gov/link/statute/129/311).)*

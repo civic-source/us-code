@@ -3,9 +3,10 @@ title: "Section 56311 - Requisitioned vessels"
 usc_title: 46
 usc_section: "56311"
 chapter: 563
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 56311"
-generated_at: "2026-03-30T02:56:15.581Z"
+generated_at: "2026-11-23T21:26:37.318Z"
+status: "active"
 ---
 
 # § 56311. Requisitioned vessels
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:15.581Z"
 - **(c)** Any vessel while documented under the provisions of this section, when chartered under section 56309 or 56310, as applicable, by the Secretary of Transportation to Government agencies or departments or to private operators, may engage in the coastwise trade under permits issued by the Secretary of Transportation, who is authorized to issue permits for such purpose pursuant to such rules and regulations as he may prescribe. The Secretary of Transportation is authorized to prescribe such rules and regulations as he may deem necessary or appropriate to carry out the purposes and provisions of this section. Section 57109 shall not apply with respect to vessels chartered to Government agencies or departments or to private operators or otherwise used or disposed of under section 56309 or 56310, as applicable. Existing laws covering the inspection of steam vessels are made applicable to vessels documented under this section only to such extent and upon such conditions as may be required by regulations of the Secretary of the department in which the Coast Guard is operating: Provided , That in determining to what extent those laws should be made applicable, due consideration shall be given to the primary purpose of transporting commodities essential to the national defense.
 - **(d)** The Secretary of Transportation without regard to the 1 1 So in original. The word “the” probably should not appear. section 6101 of title 41 may repair, reconstruct, or recondition any vessels to be utilized under section 56309 or 56310, as applicable. The Secretary of Transportation and any other Government department or agency by which any vessel is acquired or chartered, or to which any vessel is transferred or made available under section 56309 or 56310, as applicable, may, with the aid of any funds available and without regard to the provisions of section 6101 of title 41 , repair, reconstruct, or recondition any such vessels to meet the needs of the services intended, or provide facilities for such repair, reconstruction, or reconditioning. The Secretary of Transportation may operate or charter for operation any vessel to be utilized under section 56309 or 56310, as applicable 2 2 So in original. Probably should be followed by a comma. to private operators, citizens of the United States, or to any department or agency of the United States Government, without regard to the provisions of chapter 575, and any department or agency of the United States Government is authorized to enter into such charters.
 - **(e)** In case of any voyage of a vessel documented under the provisions of this section begun before the date of termination of an effective period of section 196 of this title , but is completed after such date, the provisions of this section shall continue in effect with respect to such vessel until such voyage is completed.
+
+## Source Credit
+
+*(Added and amended [Pub. L. 115–91, div. C, title XXXV, § 3504(c)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1912](https://www.govinfo.gov/link/statute/131/1912).)*

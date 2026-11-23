@@ -3,9 +3,10 @@ title: "Section 7724 - Executive Director"
 usc_title: 10
 usc_section: "7724"
 chapter: 776
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 7724"
-generated_at: "2026-03-30T02:53:38.236Z"
+generated_at: "2026-11-23T21:25:32.877Z"
+status: "active"
 ---
 
 # § 7724. Executive Director
@@ -24,3 +25,11 @@ generated_at: "2026-03-30T02:53:38.236Z"
   - **(8)** Overseeing the programming, planning, budgeting, and execution of funds authorized and appropriated for the Cemeteries.
   - **(9)** Providing recommendations regarding any request for an exception to interment and inurnment eligibility policy.
   - **(10)** Supervising the superintendents of the Cemeteries.
+
+Appointment and Qualifications
+
+Responsibilities
+
+## Source Credit
+
+*(Added [Pub. L. 112–81, div. A, title V, § 591(a)(1)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1440](https://www.govinfo.gov/link/statute/125/1440), § 4724; renumbered § 7724, [Pub. L. 115–232, div. A, title VIII, § 808(d)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1839](https://www.govinfo.gov/link/statute/132/1839).)*

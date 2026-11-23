@@ -3,9 +3,10 @@ title: "Section 1961 - Policing of Capitol Buildings and Grounds"
 usc_title: 2
 usc_section: "1961"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1961"
-generated_at: "2026-03-30T02:53:04.821Z"
+generated_at: "2026-11-23T21:25:21.262Z"
+status: "active"
 ---
 
 # § 1961. Policing of Capitol Buildings and Grounds
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:04.821Z"
 - **(b)** For purposes of this section, “the United States Capitol Buildings and Grounds” shall include any building or facility acquired by the Sergeant at Arms of the Senate for the use of the Senate for which the Sergeant at Arms of the Senate has entered into an agreement with the United States Capitol Police for the policing of the building or facility.
 - **(c)** For purposes of this section, “the United States Capitol Buildings and Grounds” shall include any building or facility acquired by the Chief Administrative Officer of the House of Representatives for the use of the House of Representatives for which the Chief Administrative Officer has entered into an agreement with the United States Capitol Police for the policing of the building or facility.
 - **(d)** For purposes of this section, “United States Capitol Buildings and Grounds” shall include the Library of Congress buildings and grounds described under section 167j of this title , except that in a case of buildings or grounds not located in the District of Columbia, the authority granted to the Metropolitan Police Force of the District of Columbia shall be granted to any police force within whose jurisdiction the buildings or grounds are located.
+
+## Source Credit
+
+*(July 31, 1946, ch. 707, § 9, [60 Stat. 719](https://www.govinfo.gov/link/statute/60/719); [Pub. L. 93–198, title VII, § 739(g)(4)](https://www.govinfo.gov/link/plaw/93/public/198), (5), Dec. 24, 1973, [87 Stat. 829](https://www.govinfo.gov/link/statute/87/829); [Pub. L. 101–520, title I, § 106](https://www.govinfo.gov/link/plaw/101/public/520), formerly § 106(a), Nov. 5, 1990, [104 Stat. 2264](https://www.govinfo.gov/link/statute/104/2264), renumbered § 106 and amended [Pub. L. 102–392, title III, § 310](https://www.govinfo.gov/link/plaw/102/public/392), Oct. 6, 1992, [106 Stat. 1723](https://www.govinfo.gov/link/statute/106/1723); [Pub. L. 102–397, title I, § 103](https://www.govinfo.gov/link/plaw/102/public/397), Oct. 6, 1992, [106 Stat. 1950](https://www.govinfo.gov/link/statute/106/1950); [Pub. L. 107–117, div. B](https://www.govinfo.gov/link/plaw/107/public/117), §§ 901(c)(2), 903(c)(2), Jan. 10, 2002, [115 Stat. 2316](https://www.govinfo.gov/link/statute/115/2316), 2317; [Pub. L. 107–206, title I](https://www.govinfo.gov/link/plaw/107/public/206), §§ 902(b), 903(b), Aug. 2, 2002, [116 Stat. 876](https://www.govinfo.gov/link/statute/116/876); [Pub. L. 108–7, div. H, title I, § 1016(c)](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 365](https://www.govinfo.gov/link/statute/117/365); [Pub. L. 110–161, div. H, title I, § 1004(d)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2233](https://www.govinfo.gov/link/statute/121/2233); [Pub. L. 110–178, § 4(a)(1)](https://www.govinfo.gov/link/plaw/110/public/178), Jan. 7, 2008, [121 Stat. 2551](https://www.govinfo.gov/link/statute/121/2551); [Pub. L. 111–145, § 6(d)(1)](https://www.govinfo.gov/link/plaw/111/public/145), Mar. 4, 2010, [124 Stat. 54](https://www.govinfo.gov/link/statute/124/54).)*

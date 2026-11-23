@@ -3,9 +3,10 @@ title: "Section 2343 - Matters relating to the international materials protectio
 usc_title: 50
 usc_section: "2343"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2343"
-generated_at: "2026-03-30T02:56:26.221Z"
+generated_at: "2026-11-23T21:26:38.964Z"
+status: "active"
 ---
 
 # § 2343. Matters relating to the international materials protection, control, and accounting program of the Department of Energy
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:26.221Z"
   - **(1)** The Secretary of Energy shall work cooperatively with the Russian Federation to develop, as soon as practicable but not later than January 1, 2018 , a sustainable nuclear materials protection, control, and accounting system for the nuclear materials of the Russian Federation that is supported solely by the Russian Federation.
   - **(2)** The Secretary shall work with the Russian Federation to identify various alternatives to provide the United States adequate transparency in the nuclear materials protection, control, and accounting program of the Russian Federation to assure that such program is meeting applicable goals for nuclear materials protection, control, and accounting.
 - **(c)** Of the amount authorized to be appropriated by section 3101(a)(2) 1 1 See References in Text note below. for the Department of Energy for the National Nuclear Security Administration for defense nuclear nonproliferation, up to $5,000,000 may be available for carrying out this section.
+
+## Source Credit
+
+*([Pub. L. 107–314, div. C, title XXXI, § 3156](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2739](https://www.govinfo.gov/link/statute/116/2739); [Pub. L. 111–383, div. C, title XXXI, § 3119](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4514](https://www.govinfo.gov/link/statute/124/4514).)*

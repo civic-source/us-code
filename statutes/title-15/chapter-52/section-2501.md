@@ -3,9 +3,10 @@ title: "Section 2501 - Congressional findings and policy"
 usc_title: 15
 usc_section: "2501"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2501"
-generated_at: "2026-03-30T02:54:08.172Z"
+generated_at: "2026-11-23T21:25:39.928Z"
+status: "active"
 ---
 
 # § 2501. Congressional findings and policy
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:08.172Z"
   - **(2)** demonstrate the economic and technological practicability of electric and hybrid vehicles for personal and commercial use in urban areas and for agricultural and personal use in rural areas;
   - **(3)** facilitate, and remove barriers to, the use of electric and hybrid vehicles in lieu of gasoline- and diesel-powered motor vehicles, where practicable; and
   - **(4)** promote the substitution of electric and hybrid vehicles for many gasoline- and diesel-powered vehicles currently used in routine short-haul, low-load applications, where such substitution would be beneficial.
+
+## Source Credit
+
+*([Pub. L. 94–413, § 2](https://www.govinfo.gov/link/plaw/94/public/413), Sept. 17, 1976, [90 Stat. 1260](https://www.govinfo.gov/link/statute/90/1260).)*

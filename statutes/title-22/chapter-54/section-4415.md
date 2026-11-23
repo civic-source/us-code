@@ -3,9 +3,10 @@ title: "Section 4415 - Freedom of information"
 usc_title: 22
 usc_section: "4415"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4415"
-generated_at: "2026-03-30T02:55:05.411Z"
+generated_at: "2026-11-23T21:25:58.645Z"
+status: "active"
 ---
 
 # § 4415. Freedom of information
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.411Z"
   - **(1)** In the event that the Endowment determines not to comply with a request for records under section 552, the Endowment shall submit a report to the Director of the United States Information Agency explaining the reasons for not complying with such request.
   - **(2)** If the Director approves the determination not to comply with such request, the United States Information Agency shall assume full responsibility, including financial responsibility, for defending the Endowment in any litigation relating to such request.
   - **(3)** If the Director disapproves the determination not to comply with such request, the Endowment shall comply with such request.
+
+## Source Credit
+
+*([Pub. L. 98–164, title V, § 506](https://www.govinfo.gov/link/plaw/98/public/164), as added [Pub. L. 99–93, title II, § 210(a)](https://www.govinfo.gov/link/plaw/99/public/93), Aug. 16, 1985, [99 Stat. 432](https://www.govinfo.gov/link/statute/99/432).)*

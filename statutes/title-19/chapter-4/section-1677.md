@@ -3,9 +3,10 @@ title: "Section 1677 - Definitions; special rules"
 usc_title: 19
 usc_section: "1677"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1677"
-generated_at: "2026-03-30T02:54:24.654Z"
+generated_at: "2026-11-23T21:25:42.748Z"
+status: "active"
 ---
 
 # § 1677. Definitions; special rules
@@ -300,3 +301,7 @@ For purposes of this subtitle—
       - **(ii)** countries determined by the Trade Representative to be least developed or developing countries.
     - **(D)** In determining whether a country is a developing country under subparagraph (A), the Trade Representative shall consider such economic, trade, and other factors which the Trade Representative considers appropriate, including the level of economic development of such country (the assessment of which shall include a review of the country’s per capita gross national product) and the country’s share of world trade.
     - **(E)** A determination that a country is a developing or least developed country pursuant to this paragraph shall be for purposes of this subtitle only and shall not affect the determination of a country’s status as a developing or least developed country with respect to any other law.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VII, § 771, as added [Pub. L. 96–39, title I, § 101](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 176](https://www.govinfo.gov/link/statute/93/176); amended [Pub. L. 98–573, title VI, § 612(a)](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 3033](https://www.govinfo.gov/link/statute/98/3033); [Pub. L. 99–514, title XVIII, § 1886(a)(9)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2922](https://www.govinfo.gov/link/statute/100/2922); [Pub. L. 100–418, title I](https://www.govinfo.gov/link/plaw/100/public/418), §§ 1312, 1316(b), 1326(a)–(c), 1327–1330, 1335, Aug. 23, 1988, [102 Stat. 1184](https://www.govinfo.gov/link/statute/102/1184), 1187, 1203–1206, 1210; [Pub. L. 100–449, title IV, § 403(d)](https://www.govinfo.gov/link/plaw/100/public/449), Sept. 28, 1988, [102 Stat. 1887](https://www.govinfo.gov/link/statute/102/1887); [Pub. L. 100–647, title IX, § 9001(a)(5)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3807](https://www.govinfo.gov/link/statute/102/3807); [Pub. L. 101–382, title I, § 139(a)(3)](https://www.govinfo.gov/link/plaw/101/public/382), title II, § 224(a), (b), Aug. 20, 1990, [104 Stat. 653](https://www.govinfo.gov/link/statute/104/653), 659, 660; [Pub. L. 103–182, title IV, § 412(b)](https://www.govinfo.gov/link/plaw/103/public/182), title VI, § 637(b), Dec. 8, 1993, [107 Stat. 2146](https://www.govinfo.gov/link/statute/107/2146), 2203; [Pub. L. 103–465, title II](https://www.govinfo.gov/link/plaw/103/public/465), §§ 221(b), 222, 229(b), 233(a)(3), (4), (5)(BB)–(FF), (b), 251, 266, 267, 270(c)(2), (e), Dec. 8, 1994, [108 Stat. 4869](https://www.govinfo.gov/link/statute/108/4869), 4890, 4898–4902, 4915, 4917, 4918; [Pub. L. 104–295, § 20(b)(7)](https://www.govinfo.gov/link/plaw/104/public/295), (14), Oct. 11, 1996, [110 Stat. 3527](https://www.govinfo.gov/link/statute/110/3527); [Pub. L. 114–27, title V](https://www.govinfo.gov/link/plaw/114/public/27), §§ 503, 504(a), June 29, 2015, [129 Stat. 384](https://www.govinfo.gov/link/statute/129/384), 385; [Pub. L. 114–125, title VIII, § 802(d)(2)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 210](https://www.govinfo.gov/link/statute/130/210); [Pub. L. 116–113, title IV, § 422(b)](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 65](https://www.govinfo.gov/link/statute/134/65).)*

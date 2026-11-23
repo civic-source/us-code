@@ -3,9 +3,10 @@ title: "Section 3146 - Protection of certain files of the Office of the Director
 usc_title: 50
 usc_section: "3146"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3146"
-generated_at: "2026-03-30T02:56:26.237Z"
+generated_at: "2026-11-23T21:26:39.017Z"
+status: "active"
 ---
 
 # § 3146. Protection of certain files of the Office of the Director of National Intelligence
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:56:26.237Z"
 - **(g)** In this section:
   - **(1)** The term “exempted operational file” means a file of an element of the intelligence community that, in accordance with this subchapter, is exempted from the provisions of section 552 of title 5 that require search, review, publication, or disclosure of such file.
   - **(2)** Except as otherwise specifically provided, the term “Office” means the Office of the Director of National Intelligence.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title VII, § 706, as added [Pub. L. 111–259, title IV, § 408(a)](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2722](https://www.govinfo.gov/link/statute/124/2722).)*

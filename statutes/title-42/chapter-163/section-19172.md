@@ -3,9 +3,10 @@ title: "Section 19172 - National Science Foundation rural STEM activities"
 usc_title: 42
 usc_section: "19172"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19172"
-generated_at: "2026-03-30T02:56:11.541Z"
+generated_at: "2026-11-23T21:26:33.876Z"
+status: "active"
 ---
 
 # § 19172. National Science Foundation rural STEM activities
@@ -65,3 +66,7 @@ generated_at: "2026-03-30T02:56:11.541Z"
 - **(i)** There are authorized to be appropriated to the Director—
   - **(1)** $8,000,000 to carry out the activities under subsection (a) for each of fiscal years 2023 through 2027; and
   - **(2)** $12,000,000 to carry out the activities under subsection (b) for each of fiscal years 2023 through 2027.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title V, § 10512](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1613](https://www.govinfo.gov/link/statute/136/1613).)*

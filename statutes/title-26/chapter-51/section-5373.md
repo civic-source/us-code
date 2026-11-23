@@ -3,9 +3,10 @@ title: "Section 5373 - Wine spirits"
 usc_title: 26
 usc_section: "5373"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5373"
-generated_at: "2026-03-30T02:55:27.822Z"
+generated_at: "2026-11-23T21:26:06.721Z"
+status: "active"
 ---
 
 # § 5373. Wine spirits
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:27.822Z"
   - **(3)** On such use, transfer, or taxpayment, the Secretary shall credit the proprietor with the amount of wine spirits so used or transferred or taxpaid and, in addition, with such portion of wine spirits so withdrawn as may have been lost either in transit or on the bonded wine cellar premises, to the extent allowable under section 5008(a). Where the proprietor has used wine spirits in actual wine production but in violation of the requirements of this subchapter, the Secretary shall also extend such credit to the wine spirits so used if the proprietor satisfactorily shows that such wine spirits were not knowingly used in violation of law.
   - **(4)** Suitable samples of brandy or wine spirits may, under regulations prescribed by the Secretary, be withdrawn free of tax from the bonded premises of any distilled spirits plant, bonded wine cellar, or authorized experimental premises, for analysis or testing.
 - **(c)** When the Secretary deems such removal and use will not jeopardize the revenue nor unduly increase administrative supervision, distillates containing aldehydes may, under such regulations as the Secretary may prescribe, be removed without payment of tax from the bonded premises of a distilled spirits plant to an adjacent bonded wine cellar and used therein in fermentation of wine to be used as distilling material at the distilled spirits plant from which such unfinished distilled spirits were removed.
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1382](https://www.govinfo.gov/link/statute/72/1382); amended [Pub. L. 90–619, § 1](https://www.govinfo.gov/link/plaw/90/public/619), Oct. 22, 1968, [82 Stat. 1236](https://www.govinfo.gov/link/statute/82/1236); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834).)*

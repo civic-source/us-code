@@ -3,12 +3,17 @@ title: "Section 6916 - Testimony of witnesses, production of evidence; issuance 
 usc_title: 22
 usc_section: "6916"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6916"
-generated_at: "2026-03-30T02:55:05.434Z"
+generated_at: "2026-11-23T21:25:58.700Z"
+status: "active"
 ---
 
 # § 6916. Testimony of witnesses, production of evidence; issuance of subpoenas; administration of oaths
 
 In carrying out this subchapter, the Commission may require, by subpoena or otherwise, the attendance and testimony of such witnesses and the production of such books, records, correspondence, memoranda, papers, documents, and electronically recorded data as it considers necessary. Subpoenas may be issued only pursuant to a two-thirds vote of members of the Commission present and voting. Subpoenas may be issued over the signature of the Chairman of the Commission or any member designated by the Chairman, and may be served by any person designated by the Chairman or such member. The Chairman of the Commission, or any member designated by the Chairman, may administer oaths to any witness.
 
+
+## Source Credit
+
+*([Pub. L. 106–286, div. B, title III, § 306](https://www.govinfo.gov/link/plaw/106/public/286), Oct. 10, 2000, [114 Stat. 899](https://www.govinfo.gov/link/statute/114/899).)*

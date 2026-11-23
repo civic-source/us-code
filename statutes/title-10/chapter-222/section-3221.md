@@ -3,9 +3,10 @@ title: "Section 3221 - Director of Cost Assessment and Program Evaluation"
 usc_title: 10
 usc_section: "3221"
 chapter: 222
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3221"
-generated_at: "2026-03-30T02:53:38.190Z"
+generated_at: "2026-11-23T21:25:32.719Z"
+status: "active"
 ---
 
 # § 3221. Director of Cost Assessment and Program Evaluation
@@ -32,3 +33,13 @@ generated_at: "2026-03-30T02:53:38.190Z"
   - **(7)** periodically assess and update the cost indexes used by the Department to ensure that such indexes have a sound basis and meet the Department’s needs for realistic cost estimation; and
   - **(8)** annually review the cost and associated information required to be included, by section 4351(c)(1) of this title , in the Selected Acquisition Reports required by that section.
 - **(c)** The Secretary of Defense shall ensure that the Director of Cost Assessment and Program Evaluation has sufficient professional staff of military and civilian personnel to enable the Director to carry out the duties and responsibilities of the Director under this chapter.
+
+In General
+
+Functions
+
+Staff
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1812(a)](https://www.govinfo.gov/link/plaw/116/public/283), (b), Jan. 1, 2021, [134 Stat. 4174](https://www.govinfo.gov/link/statute/134/4174); [Pub. L. 117–81, div. A, title XVII, § 1701(c)(1)](https://www.govinfo.gov/link/plaw/117/public/81), (d)(5), (o)(6)(A)(i), Dec. 27, 2021, [135 Stat. 2135](https://www.govinfo.gov/link/statute/135/2135), 2136, 2147; [Pub. L. 117–263, div. B, title XXVIII, § 2806(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2995](https://www.govinfo.gov/link/statute/136/2995); [Pub. L. 118–159, div. A, title VIII, § 806(b)(2)](https://www.govinfo.gov/link/plaw/118/public/159), title XVII, § 1701(a)(35), Dec. 23, 2024, [138 Stat. 1974](https://www.govinfo.gov/link/statute/138/1974), 2205.)*

@@ -3,9 +3,10 @@ title: "Section 4221 - Review of African elephant conservation programs"
 usc_title: 16
 usc_section: "4221"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4221"
-generated_at: "2026-03-30T02:54:23.041Z"
+generated_at: "2026-11-23T21:25:52.011Z"
+status: "active"
 ---
 
 # § 4221. Review of African elephant conservation programs
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:23.041Z"
     - **(D)** The country’s ivory quota is determined on the basis of information referred to in subparagraph (B) and reflects the amount of ivory which is confiscated or consumed domestically by the country.
     - **(E)** The country has not authorized or allowed the export of amounts of raw ivory which exceed its ivory quota under the CITES Ivory Control System.
   - **(2)** If the Secretary finds within one year after October 7, 1988 , that there is insufficient information upon which to make the determination under paragraph (1), the Secretary may delay issuing the determination until no later than December 31, 1989 . The Secretary shall issue and publish in the Federal Register at the time of the finding a statement explaining the reasons for any such delay.
+
+## Source Credit
+
+*([Pub. L. 100–478, title II, § 2201](https://www.govinfo.gov/link/plaw/100/public/478), Oct. 7, 1988, [102 Stat. 2318](https://www.govinfo.gov/link/statute/102/2318).)*

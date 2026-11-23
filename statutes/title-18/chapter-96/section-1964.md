@@ -3,9 +3,10 @@ title: "Section 1964 - Civil remedies"
 usc_title: 18
 usc_section: "1964"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1964"
-generated_at: "2026-03-30T02:54:16.494Z"
+generated_at: "2026-11-23T21:25:44.111Z"
+status: "active"
 ---
 
 # § 1964. Civil remedies
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:16.494Z"
 - **(b)** The Attorney General may institute proceedings under this section. Pending final determination thereof, the court may at any time enter such restraining orders or prohibitions, or take such other actions, including the acceptance of satisfactory performance bonds, as it shall deem proper.
 - **(c)** Any person injured in his business or property by reason of a violation of section 1962 of this chapter may sue therefor in any appropriate United States district court and shall recover threefold the damages he sustains and the cost of the suit, including a reasonable attorney’s fee, except that no person may rely upon any conduct that would have been actionable as fraud in the purchase or sale of securities to establish a violation of section 1962. The exception contained in the preceding sentence does not apply to an action against any person that is criminally convicted in connection with the fraud, in which case the statute of limitations shall start to run on the date on which the conviction becomes final.
 - **(d)** A final judgment or decree rendered in favor of the United States in any criminal proceeding brought by the United States under this chapter shall estop the defendant from denying the essential allegations of the criminal offense in any subsequent civil proceeding brought by the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 91–452, title IX, § 901(a)](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 943](https://www.govinfo.gov/link/statute/84/943); amended [Pub. L. 98–620, title IV, § 402(24)(A)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3359](https://www.govinfo.gov/link/statute/98/3359); [Pub. L. 104–67, title I, § 107](https://www.govinfo.gov/link/plaw/104/public/67), Dec. 22, 1995, [109 Stat. 758](https://www.govinfo.gov/link/statute/109/758).)*

@@ -3,9 +3,10 @@ title: "Section 140408 - Records and inspection"
 usc_title: 36
 usc_section: "140408"
 chapter: 1404
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 140408"
-generated_at: "2026-03-30T02:55:44.701Z"
+generated_at: "2026-11-23T21:26:13.636Z"
+status: "active"
 ---
 
 # § 140408. Records and inspection
@@ -15,3 +16,11 @@ generated_at: "2026-03-30T02:55:44.701Z"
   - **(2)** minutes of the proceedings of the members, board of directors, and committees of the corporation having any of the authority of the board of directors of the corporation; and
   - **(3)** at the principal office of the corporation, a record of the names and addresses of the members of the corporation entitled to vote on matters relating to the corporation.
 - **(b)** A member entitled to vote on any matter relating to the corporation, or an agent or attorney of the member, may inspect the records of the corporation for any proper purpose at any reasonable time.
+
+Records
+
+Inspection
+
+## Source Credit
+
+*(Added [Pub. L. 111–95, § 1(a)](https://www.govinfo.gov/link/plaw/111/public/95), Nov. 6, 2009, [123 Stat. 3003](https://www.govinfo.gov/link/statute/123/3003).)*

@@ -3,9 +3,10 @@ title: "Section 540D - Multidisciplinary teams"
 usc_title: 28
 usc_section: "540D"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 540D"
-generated_at: "2026-03-30T02:55:30.132Z"
+generated_at: "2026-11-23T21:26:01.055Z"
+status: "active"
 ---
 
 # § 540D. Multidisciplinary teams
@@ -83,3 +84,63 @@ generated_at: "2026-03-30T02:55:30.132Z"
 - **(i)**
   - **(1)** Nothing in this section shall be construed to augment any existing investigative authority of the Federal Bureau of Investigation or to expand the jurisdiction of any Federal law enforcement agency.
   - **(2)** Nothing in this section shall be construed to limit the legal obligations of the Director under any other provision of law, including section 552a of title 5 (commonly known as the “Privacy Act of 1974”), or require the sharing of classified information with unauthorized persons.
+
+Definitions
+
+FBI Victim Support Requirements.—
+
+In general
+
+Use and coordination
+
+Children’s advocacy centers
+
+Report
+
+Memoranda of understanding
+
+Functions
+
+Personnel.—
+
+In general
+
+Expertise and training.—
+
+In general
+
+Requirement
+
+Sharing of Information.—
+
+Access to information.—
+
+In general
+
+Included information
+
+Exempt information
+
+Sharing information with fbi
+
+Security clearances.—
+
+In general
+
+Authorization of appropriations
+
+Use of Teams
+
+Case Review by Multidisciplinary Team
+
+Availability of Advocates
+
+Rules of Construction.—
+
+Investigative authority
+
+Protecting investigations
+
+## Source Credit
+
+*(Added [Pub. L. 117–354, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/354), Jan. 5, 2023, [136 Stat. 6270](https://www.govinfo.gov/link/statute/136/6270).)*

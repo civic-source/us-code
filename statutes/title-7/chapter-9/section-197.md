@@ -3,9 +3,10 @@ title: "Section 197 - Statutory trust established; poultry"
 usc_title: 7
 usc_section: "197"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 197"
-generated_at: "2026-03-30T02:53:42.277Z"
+generated_at: "2026-11-23T21:25:27.925Z"
+status: "active"
 ---
 
 # § 197. Statutory trust established; poultry
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:42.277Z"
 - **(c)** Payment shall not be considered to have been made if the cash seller or poultry grower receives a payment instrument which is dishonored.
 - **(d)** The unpaid cash seller or poultry grower shall lose the benefit of such trust if, in the event that a payment instrument has not been received, within 30 days of the final date for making payment under section 228b–1 of this title , or within 15 business days after the seller or poultry grower has received notice that the payment instrument promptly presented for payment has been dishonored, the seller or poultry grower has not preserved his trust under this section. The trust shall be preserved by giving written notice to the live poultry dealer and by filing such notice with the Secretary.
 - **(e)** For the purpose of this section, a cash sale means a sale in which the seller does not expressly extend credit to the buyer.
+
+## Source Credit
+
+*(Aug. 15, 1921, ch. 64, title II, § 207, as added [Pub. L. 100–173, § 4](https://www.govinfo.gov/link/plaw/100/public/173), Nov. 23, 1987, [101 Stat. 918](https://www.govinfo.gov/link/statute/101/918).)*

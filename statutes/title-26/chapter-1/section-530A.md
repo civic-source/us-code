@@ -3,9 +3,10 @@ title: "Section 530A - Trump accounts"
 usc_title: 26
 usc_section: "530A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 530A"
-generated_at: "2026-03-30T02:55:27.716Z"
+generated_at: "2026-11-23T21:26:06.331Z"
+status: "active"
 ---
 
 # § 530A. Trump accounts
@@ -27,7 +28,7 @@ generated_at: "2026-03-30T02:55:27.716Z"
       - **(iii)** No part of the account funds will be invested in any asset other than an eligible investment during any period before the first day of the calendar year in which the account beneficiary attains age 18.
   - **(2)** The term “eligible individual” means any individual—
     - **(A)** who has not attained the age of 18 before the close of the calendar year in which the election under subparagraph (C) is made,
-    - **(B)** for whom a social security number (within the meaning of section 24(h)(7)) has been issued before the date on which an election under subsection (C) is made, and
+    - **(B)** for whom a social security number (within the meaning of section 24(h)(7)) has been issued before the date on which an election under subsection 1 1 So in original. Probably should be “subparagraph”. (C) is made, and
     - **(C)** for whom—
       - **(i)** an election is made under this subparagraph by the Secretary if the Secretary determines (based on information available to the Secretary from tax returns or otherwise) that such individual meets the requirements of subparagraphs (A) and (B) and no prior election has been made for such individual under clause (ii), or
       - **(ii)** an election is made under this subparagraph by a person other than the Secretary (at such time and in such manner as the Secretary may prescribe) for the establishment of a Trump account if no prior election has been made for such individual under clause (i).
@@ -122,3 +123,7 @@ generated_at: "2026-03-30T02:55:27.716Z"
     - **(D)** the routing number of the trustee, and
     - **(E)** such other information as the Secretary may require.
   - **(3)** This subsection shall not apply to any period after the calendar year in which the beneficiary attains age 17.
+
+## Source Credit
+
+*(Added [Pub. L. 119–21, title VII, § 70204(a)(1)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 179](https://www.govinfo.gov/link/statute/139/179).)*

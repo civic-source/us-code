@@ -3,9 +3,10 @@ title: "Section 6050Z - Reports relating to long-term care premium statements"
 usc_title: 26
 usc_section: "6050Z"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6050Z"
-generated_at: "2026-03-30T02:55:27.836Z"
+generated_at: "2026-11-23T21:26:06.785Z"
+status: "active"
 ---
 
 # § 6050Z. Reports relating to long-term care premium statements
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:27.836Z"
   - **(2)** the aggregate amount of premiums and charges paid under the contract or coverage covering the insured individual during the calendar year.
 - **(c)** In the case of contracts or coverage covering more than one insured, the return and statement required by subsections (a) and (b) shall identify only the portion of the premium that is properly allocable to the insured in respect of whom the return or statement is made.
 - **(d)** If any individual to whom a return is required to be furnished under subsection (b) requests that such a return be furnished at any time before the close of the calendar year, the person required to make the return under subsection (b) shall comply with such request and shall furnish to the Secretary at such time a copy of the return so provided.
+
+## Source Credit
+
+*(Added [Pub. L. 117–328, div. T, title III, § 334(d)(1)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5371](https://www.govinfo.gov/link/statute/136/5371).)*

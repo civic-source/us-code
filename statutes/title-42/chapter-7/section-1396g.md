@@ -3,9 +3,10 @@ title: "Section 1396g - State programs for licensing of administrators of nursin
 usc_title: 42
 usc_section: "1396g"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1396g"
-generated_at: "2026-03-30T02:56:11.043Z"
+generated_at: "2026-11-23T21:26:31.832Z"
+status: "active"
 ---
 
 # § 1396g. State programs for licensing of administrators of nursing homes
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.043Z"
 - **(e)** As used in this section, the term—
   - **(1)** “nursing home” means any institution or facility defined as such for licensing purposes under State law, or, if State law does not employ the term nursing home, the equivalent term or terms as determined by the Secretary, but does not include a religious nonmedical health care institution (as defined in section 1395x(ss)(1) of this title ). 1 1 So in original. The period probably should be “; and”.
   - **(2)** “nursing home administrator” means any individual who is charged with the general administration of a nursing home whether or not such individual has an ownership interest in such home and whether or not his functions and duties are shared with one or more other individuals.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XIX, § 1908, as added [Pub. L. 90–248, title II, § 236(b)](https://www.govinfo.gov/link/plaw/90/public/248), Jan. 2, 1968, [81 Stat. 908](https://www.govinfo.gov/link/statute/81/908); amended [Pub. L. 92–603, title II](https://www.govinfo.gov/link/plaw/92/public/603), §§ 268(b), 269, 274(b), Oct. 30, 1972, [86 Stat. 1451](https://www.govinfo.gov/link/statute/86/1451), 1452; [Pub. L. 93–233, § 18(y)(3)](https://www.govinfo.gov/link/plaw/93/public/233), Dec. 31, 1973, [87 Stat. 973](https://www.govinfo.gov/link/statute/87/973); [Pub. L. 104–193, title IX, § 913](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2354](https://www.govinfo.gov/link/statute/110/2354); [Pub. L. 105–33, title IV, § 4454(b)(2)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 431](https://www.govinfo.gov/link/statute/111/431).)*

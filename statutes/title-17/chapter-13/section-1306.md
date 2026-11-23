@@ -3,9 +3,10 @@ title: "Section 1306 - Design notice"
 usc_title: 17
 usc_section: "1306"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 1306"
-generated_at: "2026-03-30T02:54:15.357Z"
+generated_at: "2026-11-23T21:25:41.738Z"
+status: "active"
 ---
 
 # § 1306. Design notice
@@ -18,3 +19,13 @@ generated_at: "2026-03-30T02:54:15.357Z"
   - **(2)** After registration, the registration number may be used instead of the elements specified in subparagraphs (B) and (C) of paragraph (1).
 - **(b)** The design notice shall be so located and applied as to give reasonable notice of design protection while the useful article embodying the design is passing through its normal channels of commerce.
 - **(c)** When the owner of a design has complied with the provisions of this section, protection under this chapter shall not be affected by the removal, destruction, or obliteration by others of the design notice on an article.
+
+Contents of Design Notice
+
+Location of Notice
+
+Subsequent Removal of Notice
+
+## Source Credit
+
+*(Added [Pub. L. 105–304, title V, § 502](https://www.govinfo.gov/link/plaw/105/public/304), Oct. 28, 1998, [112 Stat. 2907](https://www.govinfo.gov/link/statute/112/2907).)*

@@ -3,9 +3,10 @@ title: "Section 1 - Top water bank"
 usc_title: 43
 usc_section: "1"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-30T02:55:57.459Z"
+generated_at: "2026-11-23T21:26:19.803Z"
+status: "active"
 ---
 
 # § 620n–1. Top water bank
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:57.459Z"
     - **(D)** water in the top water bank be the first water spilled or released for flood control purposes in anticipation of a spill, on the condition that top water bank water shall not be released or included for purposes of calculating whether a release should occur for purposes of satisfying the flow recommendations of the San Juan River Basin Recovery Implementation Program; and
     - **(E)** water eligible for banking in the top water bank shall be water that otherwise would have been diverted and beneficially used in New Mexico that year.
 - **(e)** The Secretary of the Interior may charge fees to water users that use the top water bank in amounts sufficient to cover the costs incurred by the United States in administering the water bank.
+
+## Source Credit
+
+*(Apr. 11, 1956, ch. 203, § 16, as added [Pub. L. 111–11, title X, § 10401(b)(2)](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1371](https://www.govinfo.gov/link/statute/123/1371).)*

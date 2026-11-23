@@ -3,9 +3,10 @@ title: "Section 7555 - Formulation of long-term strategy for Afghanistan"
 usc_title: 22
 usc_section: "7555"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7555"
-generated_at: "2026-03-30T02:55:05.441Z"
+generated_at: "2026-11-23T21:25:58.718Z"
+status: "active"
 ---
 
 # § 7555. Formulation of long-term strategy for Afghanistan
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:05.441Z"
     - **(B)** the Committee on International Relations of the House of Representatives;
     - **(C)** the Committee on Appropriations of the Senate; and
     - **(D)** the Committee on Appropriations of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 107–327, title III, § 305](https://www.govinfo.gov/link/plaw/107/public/327), as added [Pub. L. 108–458, title VII, § 7104(e)(4)(A)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3782](https://www.govinfo.gov/link/statute/118/3782).)*

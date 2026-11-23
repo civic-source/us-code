@@ -3,9 +3,10 @@ title: "Section 802 - Coronavirus State fiscal recovery fund"
 usc_title: 42
 usc_section: "802"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 802"
-generated_at: "2026-03-30T02:56:10.897Z"
+generated_at: "2026-11-23T21:26:31.192Z"
+status: "active"
 ---
 
 # § 802. Coronavirus State fiscal recovery fund
@@ -128,3 +129,23 @@ generated_at: "2026-03-30T02:56:10.897Z"
   - **(5)** The term “State” means each of the 50 States and the District of Columbia.
   - **(6)** The term “territory” means the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa.
   - **(7)** The term “Tribal Government” means the recognized governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation, individually identified (including parenthetically) in the list published most recently as of March 11, 2021 , pursuant to section 5131 of title 25 .
+
+(aa) the total amounts allocated for 1 of the 50 States or the District of Columbia under subparagraph (B) (as determined without regard to this clause); and
+
+(bb) the amounts allocated under section 803 of this title to the State (for distribution by the State to nonentitlement units of local government in the State) and to metropolitan cities and counties in the State;
+
+(aa) $10,000,000; and
+
+(bb) 30 percent of such payment.
+
+(aa) demonstrate progress in achieving a state of good repair as required by the State’s asset management plan under section 119(e) of title 23 ; and
+
+(bb) support the achievement of 1 or more performance targets of the State established under section 150 of title 23 .
+
+Guidance or rule
+
+Effective date
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title VI, § 602, as added [Pub. L. 117–2, title IX, § 9901(a)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 223](https://www.govinfo.gov/link/statute/135/223); amended [Pub. L. 117–58, div. D, title IX, § 40909(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1126](https://www.govinfo.gov/link/statute/135/1126); [Pub. L. 117–328, div. LL, § 102(a)(1)](https://www.govinfo.gov/link/plaw/117/public/328), (b), Dec. 29, 2022, [136 Stat. 6097](https://www.govinfo.gov/link/statute/136/6097), 6103.)*

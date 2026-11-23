@@ -3,9 +3,10 @@ title: "Section 1395a - Free choice by patient guaranteed"
 usc_title: 42
 usc_section: "1395a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1395a"
-generated_at: "2026-03-30T02:56:10.933Z"
+generated_at: "2026-11-23T21:26:31.356Z"
+status: "active"
 ---
 
 # § 1395a. Free choice by patient guaranteed
@@ -52,3 +53,11 @@ generated_at: "2026-03-30T02:56:10.933Z"
     - **(B)** The term “physician” has the meaning given such term by paragraphs (1), (2), (3), and (4) of section 1395x(r) of this title .
     - **(C)** The term “practitioner” has the meaning given such term by section 1395u(b)(18)(C) of this title .
     - **(D)** The term “opt-out physician or practitioner” means a physician or practitioner who has in effect an affidavit under paragraph (3)(B).
+
+In General
+
+Request for Information
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1802, as added [Pub. L. 89–97, title I, § 102(a)](https://www.govinfo.gov/link/plaw/89/public/97), July 30, 1965, [79 Stat. 291](https://www.govinfo.gov/link/statute/79/291); amended [Pub. L. 105–33, title IV, § 4507(a)(1)](https://www.govinfo.gov/link/plaw/105/public/33), (2)(A), Aug. 5, 1997, [111 Stat. 439](https://www.govinfo.gov/link/statute/111/439), 441; [Pub. L. 108–173, title VI, § 603](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2301](https://www.govinfo.gov/link/statute/117/2301); [Pub. L. 114–10, title I, § 106(a)(1)(A)](https://www.govinfo.gov/link/plaw/114/public/10), (2), Apr. 16, 2015, [129 Stat. 137](https://www.govinfo.gov/link/statute/129/137), 138.)*

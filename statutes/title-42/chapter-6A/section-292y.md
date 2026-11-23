@@ -3,9 +3,10 @@ title: "Section 292y - General provisions"
 usc_title: 42
 usc_section: "292y"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 292y"
-generated_at: "2026-03-30T02:56:10.774Z"
+generated_at: "2026-11-23T21:26:30.624Z"
+status: "active"
 ---
 
 # § 292y. General provisions
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:10.774Z"
   - **(2)**
     - **(A)** Subject to subparagraph (B), the Secretary may make a Federal capital contribution pursuant to paragraph (1) only if the school of medicine or osteopathic medicine involved meets the conditions described in subparagraph (A) of section 292s(b)(2) of this title or the conditions described in subparagraph (C) of such section.
     - **(B)** For purposes of subparagraph (A), the conditions referred to in such subparagraph shall be applied with respect to graduates of the school involved whose date of graduation occurred approximately 3 years before June 30 of the fiscal year preceding the fiscal year for which the Federal capital contribution involved is made.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 735, as added [Pub. L. 102–408, title I, § 102](https://www.govinfo.gov/link/plaw/102/public/408), Oct. 13, 1992, [106 Stat. 2021](https://www.govinfo.gov/link/statute/106/2021); amended [Pub. L. 102–531, title III, § 313(a)(1)](https://www.govinfo.gov/link/plaw/102/public/531), Oct. 27, 1992, [106 Stat. 3507](https://www.govinfo.gov/link/statute/106/3507); [Pub. L. 103–43, title XX, § 2014(d)](https://www.govinfo.gov/link/plaw/103/public/43), June 10, 1993, [107 Stat. 217](https://www.govinfo.gov/link/statute/107/217); [Pub. L. 105–392, title I, § 134(c)](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3578](https://www.govinfo.gov/link/statute/112/3578).)*

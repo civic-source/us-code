@@ -3,9 +3,10 @@ title: "Section 8501 - State regulation of pilots"
 usc_title: 46
 usc_section: "8501"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 8501"
-generated_at: "2026-03-30T02:56:15.552Z"
+generated_at: "2026-11-23T21:26:37.099Z"
+status: "active"
 ---
 
 # § 8501. State regulation of pilots
@@ -17,3 +18,25 @@ generated_at: "2026-03-30T02:56:15.552Z"
   - **(1)** is propelled by machinery and subject to inspection under part B of this subtitle; or
   - **(2)** is subject to inspection under chapter 37 of this title.
 - **(e)** Any regulation or provision violating this section is void.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 8501(a) | 46:211 |
+| 8501(b) | 46:212 |
+| 8501(c), (e) | 46:213 |
+| 8501(d) | 46:215 |
+
+
+Historical and Revision Notes
+
+8501(a)
+
+8501(b)
+
+8501(c), (e)
+
+8501(d)
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 553](https://www.govinfo.gov/link/statute/97/553); [Pub. L. 98–557, § 29(e)](https://www.govinfo.gov/link/plaw/98/public/557), Oct. 30, 1984, [98 Stat. 2874](https://www.govinfo.gov/link/statute/98/2874).)*

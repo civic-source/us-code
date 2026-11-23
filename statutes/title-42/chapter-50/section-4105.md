@@ -3,9 +3,10 @@ title: "Section 4105 - Disaster mitigation requirements; notification to flood-p
 usc_title: 42
 usc_section: "4105"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4105"
-generated_at: "2026-03-30T02:56:11.200Z"
+generated_at: "2026-11-23T21:26:32.637Z"
+status: "active"
 ---
 
 # § 4105. Disaster mitigation requirements; notification to flood-prone areas
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.200Z"
 - **(c)** As information becomes available to the Administrator concerning the existence of flood hazards in communities not known to be flood prone at the time of the initial notification provided for by subsection (a) of this section he shall provide similar notifications to the chief executive officers of such additional communities, which shall then be subject to the requirements of subsection (b) of this section.
 - **(d)** Formally identified flood-prone communities that do not qualify for the national flood insurance program within one year after such notification or by the date specified in section 4106 of this title , whichever is later, shall thereafter be subject to the provisions of that section relating to flood-prone communities which are not participating in the program.
 - **(e)** The Administrator is authorized to establish administrative procedures whereby the identification under this section of one or more areas in the community as having special flood hazards may be appealed to the Administrator by the community or any owner or lessee of real property within the community who believes his property has been inadvertently included in a special flood hazard area by the identification. When, incident to any appeal under this subsection, the owner or lessee of real property or the community, as the case may be, incurs expense in connection with the services of surveyors, engineers, or similar services, but not including legal services, in the effecting of an appeal which is successful in whole or part, the Administrator shall reimburse such individual or community to an extent measured by the ratio of the successful portion of the appeal as compared to the entire appeal and applying such ratio to the reasonable value of all such services, but no reimbursement shall be made by the Administrator in respect to any fee or expense payment, the payment of which was agreed to be contingent upon the result of the appeal. There is authorized to be appropriated for purposes of implementing this subsection not to exceed $250,000.
+
+## Source Credit
+
+*([Pub. L. 93–234, title II, § 201](https://www.govinfo.gov/link/plaw/93/public/234), Dec. 31, 1973, [87 Stat. 982](https://www.govinfo.gov/link/statute/87/982); [Pub. L. 95–128, title VII, § 704(d)](https://www.govinfo.gov/link/plaw/95/public/128), Oct. 12, 1977, [91 Stat. 1146](https://www.govinfo.gov/link/statute/91/1146); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title IV, § 451(e)(1)], Nov. 30, 1983, [97 Stat. 1229](https://www.govinfo.gov/link/statute/97/1229); [Pub. L. 98–479, title II, § 204(j)](https://www.govinfo.gov/link/plaw/98/public/479), Oct. 17, 1984, [98 Stat. 2233](https://www.govinfo.gov/link/statute/98/2233); [Pub. L. 112–141, div. F, title II, § 100238(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 958](https://www.govinfo.gov/link/statute/126/958).)*

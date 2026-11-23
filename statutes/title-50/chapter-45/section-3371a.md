@@ -3,9 +3,10 @@ title: "Section 3371a - Assessment of foreign intelligence threats to Federal el
 usc_title: 50
 usc_section: "3371a"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3371a"
-generated_at: "2026-03-30T02:56:26.251Z"
+generated_at: "2026-11-23T21:26:39.047Z"
+status: "active"
 ---
 
 # § 3371a. Assessment of foreign intelligence threats to Federal elections
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:26.251Z"
   - **(2)** submit the updated assessment to—
     - **(A)** congressional leadership; and
     - **(B)** the appropriate congressional committees.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. E, title LXV, § 6503](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2203](https://www.govinfo.gov/link/statute/133/2203); [Pub. L. 117–263, div. G, title LXXI, § 7143(d)(7)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3664](https://www.govinfo.gov/link/statute/136/3664).)*

@@ -3,9 +3,10 @@ title: "Section 6227 - Protection of certain nuclear facilities and assets from 
 usc_title: 10
 usc_section: "6227"
 chapter: 605
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6227"
-generated_at: "2026-03-30T02:53:38.222Z"
+generated_at: "2026-11-23T21:25:32.822Z"
+status: "active"
 ---
 
 # § 6227. Protection of certain nuclear facilities and assets from unmanned aircraft
@@ -30,3 +31,17 @@ generated_at: "2026-03-30T02:53:38.222Z"
       - **(i)** owned by or contracted to the National Nuclear Security Administration, including any facility that stores or uses special nuclear material; or
       - **(ii)** a national security laboratory or nuclear weapons production facility.
   - **(2)** The terms “unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in section 331 of the FAA Modernization and Reform Act of 2012 ( Public Law 112–95 ; 49 U.S.C. 40101 1 1 See References in Text note below. note).
+
+Authority
+
+Actions Described
+
+Forfeiture
+
+Regulations
+
+Definitions
+
+## Source Credit
+
+*([Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(1)(E), (2)(B), 3114, Dec. 18, 2025, [139 Stat. 1406](https://www.govinfo.gov/link/statute/139/1406), 1462, 1464.)*

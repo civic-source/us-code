@@ -3,9 +3,10 @@ title: "Section 13387 - Innovative environmental technology transfer program"
 usc_title: 42
 usc_section: "13387"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13387"
-generated_at: "2026-03-30T02:56:11.443Z"
+generated_at: "2026-11-23T21:26:33.601Z"
+status: "active"
 ---
 
 # § 13387. Innovative environmental technology transfer program
@@ -71,3 +72,7 @@ generated_at: "2026-03-30T02:56:11.443Z"
       - **(ii)** a developing country; and
   - **(2)** the term “developing country” includes, but is not limited to, countries in Central and Eastern Europe or in the independent states of the former Soviet Union.
 - **(n)** There are authorized to be appropriated to the Secretary to carry out the program required by this section, $100,000,000 for each of the fiscal years 1993, 1994, 1995, 1996, 1997, and 1998.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XVI, § 1608](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3003](https://www.govinfo.gov/link/statute/106/3003).)*

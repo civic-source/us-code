@@ -3,9 +3,10 @@ title: "Section 1786 - Piedras Blancas Historic Light Station"
 usc_title: 43
 usc_section: "1786"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1786"
-generated_at: "2026-03-30T02:55:57.493Z"
+generated_at: "2026-11-23T21:26:19.885Z"
+status: "active"
 ---
 
 # § 1786. Piedras Blancas Historic Light Station
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:55:57.493Z"
   - **(10)** In recognition of the past use of the Outstanding Natural Area by Indians and Indian tribes for traditional cultural and religious purposes, the Secretary shall ensure access to the Outstanding Natural Area by Indians and Indian tribes for such traditional cultural and religious purposes. In implementing this subsection, the Secretary, upon the request of an Indian tribe or Indian religious community, shall temporarily close to the general public use of one or more specific portions of the Outstanding Natural Area in order to protect the privacy of traditional cultural and religious activities in such areas by the Indian tribe or Indian religious community. Any such closure shall be made to affect the smallest practicable area for the minimum period necessary for such purposes. Such access shall be consistent with the purpose and intent of Public Law 95–341 ( 42 U.S.C. 1996 et seq.; commonly referred to as the “American Indian Religious Freedom Act”).
   - **(11)** The designation of the Outstanding Natural Area is not intended to lead to the creation of protective perimeters or buffer zones around 4 4 So in original. Probably should be followed by “the”. area. The fact that activities outside the Outstanding Natural Area and not consistent with the purposes of this section can be seen or heard within the Outstanding Natural Area shall not, of itself, preclude such activities or uses up to the boundary of the Outstanding Natural Area.
 - **(e)** There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 110–229, title II, § 201](https://www.govinfo.gov/link/plaw/110/public/229), May 8, 2008, [122 Stat. 759](https://www.govinfo.gov/link/statute/122/759); [Pub. L. 113–287, § 5](https://www.govinfo.gov/link/plaw/113/public/287) (l)(8), Dec. 19, 2014, [128 Stat. 3271](https://www.govinfo.gov/link/statute/128/3271).)*

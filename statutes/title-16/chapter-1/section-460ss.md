@@ -3,9 +3,10 @@ title: "Section 460ss - Findings"
 usc_title: 16
 usc_section: "460ss"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 460ss"
-generated_at: "2026-03-30T02:54:22.830Z"
+generated_at: "2026-11-23T21:25:51.598Z"
+status: "active"
 ---
 
 # § 460ss. Findings
@@ -21,3 +22,11 @@ The Congress finds that—
   - **(7)** the Klamath Salmon Management Group, a group of agencies with fishery management responsibility, has established, in cooperation with the users of the Klamath-Trinity River Basin fishery resources, a sound framework for the future coordination of fishery harvest management;
   - **(8)** a new Klamath-Trinity River Basin Management authority, composed of the Klamath Salmon Management Group and representatives of users of the fishery resources of the Klamath-Trinity River Basin, is needed to ensure more effective long-term coordination of the Klamath-Trinity River fisheries under sound conservation and management principles that ensure adequate spawning escapement; and
   - **(9)** the Secretary has the authority to implement a restoration program only in the Trinity River Basin and needs additional authority to implement a restoration program in cooperation with State and local governments to restore anadromous fish populations to optimum levels in both the Klamath and Trinity River Basins; 1 1 So in original. The semicolon probably should be a period.
+
+Recovery plan
+
+Report
+
+## Source Credit
+
+*([Pub. L. 99–552, § 1](https://www.govinfo.gov/link/plaw/99/public/552), Oct. 27, 1986, [100 Stat. 3080](https://www.govinfo.gov/link/statute/100/3080).)*

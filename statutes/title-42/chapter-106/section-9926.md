@@ -3,9 +3,10 @@ title: "Section 9926 - Projects to expand the number of job opportunities availa
 usc_title: 42
 usc_section: "9926"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9926"
-generated_at: "2026-03-30T02:56:11.378Z"
+generated_at: "2026-11-23T21:26:33.331Z"
+status: "active"
 ---
 
 # § 9926. Projects to expand the number of job opportunities available to certain low-income individuals
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.378Z"
   - **(2)** In approving applications under this section, the Secretary shall give priority to applications proposing to serve those areas containing the highest percentage of individuals receiving assistance under a State program funded under part A of title IV of the Social Security Act [ 42 U.S.C. 601 et seq.].
 - **(d)** Each nonprofit organization participating in a project conducted under this section shall provide assurances in its agreement with the Secretary that it has or will have a cooperative relationship with the agency responsible for administering the the 2 2 So in original. State program funded under part A of title IV of the Social Security Act [ 42 U.S.C. 601 et seq.] in the area served by the project.
 - **(e)** For the purpose of conducting projects under this section, there is authorized to be appropriated an amount not to exceed $25,000,000 for any fiscal year.
+
+## Source Credit
+
+*([Pub. L. 100–485, title V, § 505](https://www.govinfo.gov/link/plaw/100/public/485), Oct. 13, 1988, [102 Stat. 2404](https://www.govinfo.gov/link/statute/102/2404); [Pub. L. 101–508, title V, § 5063](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–232](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–432, title II, § 261(a)](https://www.govinfo.gov/link/plaw/103/public/432), Oct. 31, 1994, [108 Stat. 4467](https://www.govinfo.gov/link/statute/108/4467); [Pub. L. 104–193, title I, § 112](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2176](https://www.govinfo.gov/link/statute/110/2176); [Pub. L. 105–33, title V, § 5515](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 620](https://www.govinfo.gov/link/statute/111/620).)*

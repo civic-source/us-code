@@ -3,9 +3,10 @@ title: "Section 12572 - National service programs eligible for program assistanc
 usc_title: 42
 usc_section: "12572"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12572"
-generated_at: "2026-03-30T02:56:11.415Z"
+generated_at: "2026-11-23T21:26:33.487Z"
+status: "active"
 ---
 
 # § 12572. National service programs eligible for program assistance
@@ -216,3 +217,11 @@ generated_at: "2026-03-30T02:56:11.415Z"
   - **(4)** information describing how the Corporation is coordinating—
     - **(A)** the national service programs funded under this section; with
     - **(B)** applicable programs, as determined by the Corporation, carried out under division B of this subchapter, and part A of title I and parts A and B of title II of the Domestic Volunteer Service Act of 1973 ( 42 U.S.C. 4951 et seq., 5001, 5011) that improve performance on those indicators or otherwise address identified community needs.
+
+(aa) team-based, highly structured, and adult-supervised work experience, life skills, education, career guidance and counseling, employment training, and support services including mentoring; and
+
+(bb) the opportunity to develop citizenship values and skills through service to their community and the United States; 1 1 So in original. Probably should be followed by “or”.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 122](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 103–82, title I, § 101(b)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 790](https://www.govinfo.gov/link/statute/107/790); amended [Pub. L. 111–13, title I, § 1302](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1485](https://www.govinfo.gov/link/statute/123/1485); [Pub. L. 114–95, title IX, § 9215(bbb)(4)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2185](https://www.govinfo.gov/link/statute/129/2185).)*

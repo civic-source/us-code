@@ -3,9 +3,10 @@ title: "Section 7708 - Network for Earthquake Engineering Simulation"
 usc_title: 42
 usc_section: "7708"
 chapter: 86
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7708"
-generated_at: "2026-03-30T02:56:11.330Z"
+generated_at: "2026-11-23T21:26:33.172Z"
+status: "active"
 ---
 
 # § 7708. Network for Earthquake Engineering Simulation
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.330Z"
   - **(7)** $20,870,000 for fiscal year 2007, all of which shall be available for operations and maintenance;
   - **(8)** $21,390,000 for fiscal year 2008, all of which shall be available for operations and maintenance; and
   - **(9)** $21,930,000 for fiscal year 2009, all of which shall be available for operations and maintenance.
+
+## Source Credit
+
+*([Pub. L. 95–124, § 14](https://www.govinfo.gov/link/plaw/95/public/124), as added [Pub. L. 106–503, title II, § 205](https://www.govinfo.gov/link/plaw/106/public/503), Nov. 13, 2000, [114 Stat. 2306](https://www.govinfo.gov/link/statute/114/2306); amended [Pub. L. 108–360, title I, § 104(c)](https://www.govinfo.gov/link/plaw/108/public/360), Oct. 25, 2004, [118 Stat. 1675](https://www.govinfo.gov/link/statute/118/1675).)*

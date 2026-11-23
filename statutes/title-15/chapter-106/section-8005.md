@@ -3,9 +3,10 @@ title: "Section 8005 - Minimum State law requirements"
 usc_title: 15
 usc_section: "8005"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8005"
-generated_at: "2026-03-30T02:54:08.227Z"
+generated_at: "2026-11-23T21:25:40.072Z"
+status: "active"
 ---
 
 # § 8005. Minimum State law requirements
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:08.227Z"
     - **(F)** Any other system determined by the Commission to be equally effective as, or better than, the systems described in subparagraphs (A) through (E) of this paragraph at preventing or eliminating the risk of injury or death associated with pool drainage systems.
   - **(2)** Any device or system described in subparagraphs (B) through (E) of paragraph (1) shall meet the requirements of any ASME/ANSI or ASTM performance standard if there is such a standard for such a device or system, or any applicable consumer product safety standard.
 - **(e)** In this section, the term “State” includes an Indian Tribe.
+
+## Source Credit
+
+*([Pub. L. 110–140, title XIV, § 1406](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1797](https://www.govinfo.gov/link/statute/121/1797); [Pub. L. 113–76, div. E, title V, § 501(2)](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 209](https://www.govinfo.gov/link/statute/128/209); [Pub. L. 117–328, div. BB, title IV, § 402(b)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5563](https://www.govinfo.gov/link/statute/136/5563).)*

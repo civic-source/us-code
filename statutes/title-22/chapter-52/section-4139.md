@@ -3,9 +3,10 @@ title: "Section 4139 - Relationship to other remedies"
 usc_title: 22
 usc_section: "4139"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4139"
-generated_at: "2026-03-30T02:55:05.408Z"
+generated_at: "2026-11-23T21:25:58.631Z"
+status: "active"
 ---
 
 # § 4139. Relationship to other remedies
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.408Z"
   - **(2)** A grievant shall be considered to have exercised the option under paragraph (1) as soon as the grievant timely either—
     - **(A)** files a grievance under this subchapter, or
     - **(B)** initiates in writing a proceeding under such other provision of law, regulation, or Executive order.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 1109](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2148](https://www.govinfo.gov/link/statute/94/2148); [Pub. L. 101–12, § 9(a)(3)](https://www.govinfo.gov/link/plaw/101/public/12), Apr. 10, 1989, [103 Stat. 35](https://www.govinfo.gov/link/statute/103/35); [Pub. L. 102–138, title I, § 153(d)(1)](https://www.govinfo.gov/link/plaw/102/public/138), Oct. 28, 1991, [105 Stat. 673](https://www.govinfo.gov/link/statute/105/673).)*

@@ -3,9 +3,10 @@ title: "Section 2012 - Establishment of clearinghouse and advisory council"
 usc_title: 21
 usc_section: "2012"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 2012"
-generated_at: "2026-03-30T02:54:54.308Z"
+generated_at: "2026-11-23T21:25:56.296Z"
+status: "active"
 ---
 
 # § 2012. Establishment of clearinghouse and advisory council
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:54.308Z"
   - **(4)**
     - **(A)** The members of the Council shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the Council.
     - **(B)** The members of the Council shall not receive compensation for the performance of the duties of a member of the Council.
+
+## Source Credit
+
+*([Pub. L. 109–469, title X, § 1003](https://www.govinfo.gov/link/plaw/109/public/469), Dec. 29, 2006, [120 Stat. 3538](https://www.govinfo.gov/link/statute/120/3538).)*

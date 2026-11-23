@@ -3,9 +3,10 @@ title: "Section 8402 - Federal Employees’ Retirement System; exclusions"
 usc_title: 5
 usc_section: "8402"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8402"
-generated_at: "2026-03-30T02:52:56.053Z"
+generated_at: "2026-11-23T21:25:23.410Z"
+status: "active"
 ---
 
 # § 8402. Federal Employees’ Retirement System; exclusions
@@ -44,3 +45,13 @@ generated_at: "2026-03-30T02:52:56.053Z"
 - **(e)** A bankruptcy judge or magistrate judge who is covered by section 377 of title 28 or section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988 shall be excluded from the operation of this chapter, other than subchapters III and VII of such chapter, if the judge or magistrate judge notifies the Director of the Administrative Office of the United States Courts of an election of a retirement annuity under those provisions. Upon such election, the judge or magistrate judge shall be entitled to a lump-sum credit under section 8424 of this title .
 - **(f)** A judge who is covered by section 7296 of title 38 shall be excluded from the operation of this chapter if the judge notifies the Director of the Office of Personnel Management of an election of a retirement annuity under that section. Upon such election, the judge shall be entitled to a lump-sum credit under section 8424 of this title .
 - **(g)** A judge of the United States Court of Federal Claims who is covered by section 178 of title 28 shall be excluded from the operation of this chapter, other than subchapters III and VII of such chapter, if the judge notifies the Director of the Administrative Office of the United States Courts of an election of a retirement annuity under those provisions. Upon such election, the judge shall be entitled to a lump-sum credit under section 8424 of this title .
+
+In general
+
+Provisions relating to creditability and certain former employees
+
+Provisions relating to exclusion from chapter
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 521](https://www.govinfo.gov/link/statute/100/521); amended [Pub. L. 99–556, title I, § 116](https://www.govinfo.gov/link/plaw/99/public/556), Oct. 27, 1986, [100 Stat. 3134](https://www.govinfo.gov/link/statute/100/3134); [Pub. L. 100–238, title I, § 130](https://www.govinfo.gov/link/plaw/100/public/238), Jan. 8, 1988, [101 Stat. 1759](https://www.govinfo.gov/link/statute/101/1759); [Pub. L. 100–659, § 6(c)](https://www.govinfo.gov/link/plaw/100/public/659), Nov. 15, 1988, [102 Stat. 3919](https://www.govinfo.gov/link/statute/102/3919); [Pub. L. 101–94, title I, § 102(b)](https://www.govinfo.gov/link/plaw/101/public/94), Aug. 16, 1989, [103 Stat. 626](https://www.govinfo.gov/link/statute/103/626); [Pub. L. 101–474, § 5(p)](https://www.govinfo.gov/link/plaw/101/public/474), Oct. 30, 1990, [104 Stat. 1100](https://www.govinfo.gov/link/statute/104/1100); [Pub. L. 101–650, title III](https://www.govinfo.gov/link/plaw/101/public/650), §§ 306(e)(3), 321, Dec. 1, 1990, [104 Stat. 5112](https://www.govinfo.gov/link/statute/104/5112), 5117; [Pub. L. 102–40, title IV, § 402(d)(2)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 239](https://www.govinfo.gov/link/statute/105/239); [Pub. L. 102–198, § 7(d)](https://www.govinfo.gov/link/plaw/102/public/198), Dec. 9, 1991, [105 Stat. 1625](https://www.govinfo.gov/link/statute/105/1625); [Pub. L. 102–572, title IX, § 902(b)(1)](https://www.govinfo.gov/link/plaw/102/public/572), Oct. 29, 1992, [106 Stat. 4516](https://www.govinfo.gov/link/statute/106/4516); [Pub. L. 104–53, title I, § 115](https://www.govinfo.gov/link/plaw/104/public/53), Nov. 19, 1995, [109 Stat. 527](https://www.govinfo.gov/link/statute/109/527); [Pub. L. 104–186, title II, § 215(13)](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1746](https://www.govinfo.gov/link/statute/110/1746); [Pub. L. 105–274, § 6(a)](https://www.govinfo.gov/link/plaw/105/public/274), Oct. 21, 1998, [112 Stat. 2424](https://www.govinfo.gov/link/statute/112/2424); [Pub. L. 106–168, title II, § 202(b)](https://www.govinfo.gov/link/plaw/106/public/168), Dec. 12, 1999, [113 Stat. 1818](https://www.govinfo.gov/link/statute/113/1818); [Pub. L. 109–435, title VI, § 604(b)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3241](https://www.govinfo.gov/link/statute/120/3241).)*

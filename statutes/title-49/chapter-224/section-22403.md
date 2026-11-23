@@ -3,9 +3,10 @@ title: "Section 22403 - Administration of direct loans and loan guarantees"
 usc_title: 49
 usc_section: "22403"
 chapter: 224
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 22403"
-generated_at: "2026-03-30T02:56:19.341Z"
+generated_at: "2026-11-23T21:26:40.723Z"
+status: "active"
 ---
 
 # § 22403. Administration of direct loans and loan guarantees
@@ -50,3 +51,55 @@ generated_at: "2026-03-30T02:56:19.341Z"
     - **(A)** be credited directly to the National Surface Transportation and Innovative Finance Bureau account; and
     - **(B)** remain available until expended to pay for the costs described in this subsection.
 - **(m)** Except as provided in this chapter, the Secretary may not assess any fees, including user fees, or charges in connection with a direct loan or loan guarantee provided under section 22402.
+
+Applications.—
+
+In general
+
+Documentation
+
+Full Faith and Credit
+
+Assignment of Loan Guarantees
+
+Modifications
+
+Compliance
+
+Commercial Validity
+
+Default
+
+Rights of the Secretary.—
+
+Subrogation
+
+Disposition of property
+
+Action Against Obligor
+
+Breach of Conditions
+
+Attachment
+
+Charges and Loan Servicing.—
+
+Purposes
+
+Standards
+
+Servicer.—
+
+In general
+
+Duties
+
+Fees
+
+National surface transportation and innovative finance bureau account
+
+Fees and Charges
+
+## Source Credit
+
+*(Added and amended [Pub. L. 117–58, div. B, title I, § 21301(a)(2)](https://www.govinfo.gov/link/plaw/117/public/58), (5), (e), Nov. 15, 2021, [135 Stat. 683](https://www.govinfo.gov/link/statute/135/683), 689.)*

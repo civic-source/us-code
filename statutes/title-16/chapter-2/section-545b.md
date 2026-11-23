@@ -3,9 +3,10 @@ title: "Section 545b - Opal Creek Wilderness and Scenic Recreation Area"
 usc_title: 16
 usc_section: "545b"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 545b"
-generated_at: "2026-03-30T02:54:22.873Z"
+generated_at: "2026-11-23T21:25:51.671Z"
+status: "active"
 ---
 
 # § 545b. Opal Creek Wilderness and Scenic Recreation Area
@@ -145,3 +146,7 @@ generated_at: "2026-03-30T02:54:22.873Z"
     - **(A)** prepare and provide the Secretary and Congress with an annual report on the use of the funds made available under this subsection;
     - **(B)** make available to the Secretary and to Congress, upon request, all accounts, financial records, and other information related to grants and loans made available pursuant to this subsection; and
     - **(C)** as loans are repaid, make additional grants and loans with the money made available for obligation by such repayments.
+
+## Source Credit
+
+*([Pub. L. 104–333, div. I, title X, § 1023](https://www.govinfo.gov/link/plaw/104/public/333), Nov. 12, 1996, [110 Stat. 4215](https://www.govinfo.gov/link/statute/110/4215); [Pub. L. 106–176, title I, § 125](https://www.govinfo.gov/link/plaw/106/public/176), Mar. 10, 2000, [114 Stat. 30](https://www.govinfo.gov/link/statute/114/30).)*

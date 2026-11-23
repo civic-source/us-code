@@ -3,9 +3,10 @@ title: "Section 718q - State application"
 usc_title: 16
 usc_section: "718q"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 718q"
-generated_at: "2026-03-30T02:54:22.902Z"
+generated_at: "2026-11-23T21:25:51.737Z"
+status: "active"
 ---
 
 # § 718q. State application
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:22.902Z"
   - **(1)** deadlines for submission of applications;
   - **(2)** eligibility requirements for submitting applications; and
   - **(3)** criteria for approving applications.
+
+## Source Credit
+
+*([Pub. L. 113–239, § 4](https://www.govinfo.gov/link/plaw/113/public/239), Dec. 18, 2014, [128 Stat. 2848](https://www.govinfo.gov/link/statute/128/2848).)*

@@ -3,9 +3,10 @@ title: "Section 6 - Remedies and enforcement"
 usc_title: 42
 usc_section: "6"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-30T02:56:11.144Z"
+generated_at: "2026-11-23T21:26:32.306Z"
+status: "active"
 ---
 
 # § 2000ff–6. Remedies and enforcement
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:11.144Z"
   - **(3)** The powers, remedies, and procedures provided in section 1981a of this title , including the limitations contained in subsection (b)(3) of such section 1981a, shall be powers, remedies, and procedures this chapter provides to the Commission, the Attorney General, the Librarian of Congress, or any person, alleging such a practice (not an employment practice specifically excluded from coverage under section 1981a(a)(1) of this title ).
 - **(f)** No person shall discriminate against any individual because such individual has opposed any act or practice made unlawful by this chapter or because such individual made a charge, testified, assisted, or participated in any manner in an investigation, proceeding, or hearing under this chapter. The remedies and procedures otherwise provided for under this section shall be available to aggrieved individuals with respect to violations of this subsection.
 - **(g)** In this section, the term “Commission” means the Equal Employment Opportunity Commission.
+
+## Source Credit
+
+*([Pub. L. 110–233, title II, § 207](https://www.govinfo.gov/link/plaw/110/public/233), May 21, 2008, [122 Stat. 914](https://www.govinfo.gov/link/statute/122/914).)*

@@ -3,9 +3,10 @@ title: "Section 9603 - Notification requirements respecting released substances"
 usc_title: 42
 usc_section: "9603"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9603"
-generated_at: "2026-03-30T02:56:11.355Z"
+generated_at: "2026-11-23T21:26:33.243Z"
+status: "active"
 ---
 
 # § 9603. Notification requirements respecting released substances
@@ -41,3 +42,13 @@ generated_at: "2026-03-30T02:56:11.355Z"
   - **(2)** which is a continuous release, stable in quantity and rate, and is—
     - **(A)** from a facility for which notification has been given under subsection (c) of this section, or
     - **(B)** a release of which notification has been given under subsections (a) and (b) of this section for a period sufficient to establish the continuity, quantity, and regularity of such release:
+
+In General
+
+Development of Application
+
+Use of Application
+
+## Source Credit
+
+*([Pub. L. 96–510, title I, § 103](https://www.govinfo.gov/link/plaw/96/public/510), Dec. 11, 1980, [94 Stat. 2772](https://www.govinfo.gov/link/statute/94/2772); [Pub. L. 96–561, title II, § 238(b)](https://www.govinfo.gov/link/plaw/96/public/561), Dec. 22, 1980, [94 Stat. 3300](https://www.govinfo.gov/link/statute/94/3300); [Pub. L. 99–499, title I](https://www.govinfo.gov/link/plaw/99/public/499), §§ 103, 109(a)(1), (2), Oct. 17, 1986, [100 Stat. 1617](https://www.govinfo.gov/link/statute/100/1617), 1632, 1633; [Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009](https://www.govinfo.gov/link/statute/110/3009), 3009–41; [Pub. L. 115–141, div. S, title XI, § 1102](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1147](https://www.govinfo.gov/link/statute/132/1147).)*

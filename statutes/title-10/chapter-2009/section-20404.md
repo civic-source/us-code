@@ -3,9 +3,10 @@ title: "Section 20404 - Selection of officers for early retirement or discharge"
 usc_title: 10
 usc_section: "20404"
 chapter: 2009
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 20404"
-generated_at: "2026-03-30T02:53:38.282Z"
+generated_at: "2026-11-23T21:25:33.091Z"
+status: "active"
 ---
 
 # § 20404. Selection of officers for early retirement or discharge
@@ -24,3 +25,13 @@ generated_at: "2026-03-30T02:53:38.282Z"
   - **(2)** An officer who is recommended for discharge by a selection board convened pursuant to the authority of paragraph (1) and whose discharge is approved by the Secretary of the Air Force shall be discharged on a date specified by the Secretary.
   - **(3)** Selection of officers for discharge under paragraph (1) shall be based on the needs of the service.
 - **(c)** The discharge or retirement of an officer pursuant to this section shall be considered to be involuntary for purposes of any other provision of law.
+
+Consideration for Early Retirement
+
+Consideration for Discharge.—
+
+Discharges and Retirements Considered to Be Involuntary
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVII, § 1718(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 657](https://www.govinfo.gov/link/statute/137/657); amended [Pub. L. 118–159, div. A, title XVII, § 1701(a)(50)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2206](https://www.govinfo.gov/link/statute/138/2206).)*

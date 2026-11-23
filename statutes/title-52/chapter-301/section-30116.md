@@ -3,9 +3,10 @@ title: "Section 30116 - Limitations on contributions and expenditures"
 usc_title: 52
 usc_section: "30116"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 30116"
-generated_at: "2026-03-30T02:56:30.171Z"
+generated_at: "2026-11-23T21:26:42.346Z"
+status: "active"
 ---
 
 # § 30116. Limitations on contributions and expenditures
@@ -118,3 +119,17 @@ generated_at: "2026-03-30T02:56:30.171Z"
     - **(A)** The aggregate amount of contributions accepted by a candidate or a candidate’s authorized committee under the increased limit under paragraph (1) and not otherwise expended in connection with the election with respect to which such contributions relate shall, not later than 50 days after the date of such election, be used in the manner described in subparagraph (B).
     - **(B)** A candidate or a candidate’s authorized committee shall return the excess contribution to the person who made the contribution.
 - **(j)** Any candidate who incurs personal loans made after the effective date of the Bipartisan Campaign Reform Act of 2002 in connection with the candidate’s campaign for election shall not repay (directly or indirectly), to the extent such loans exceed $250,000, such loans from any contributions made to such candidate or any authorized committee of such candidate after the date of such election.
+
+Independent versus coordinated expenditures by party.—
+
+In general
+
+Application
+
+Transfers
+
+“The Federal Election Commission shall promulgate new regulations on coordinated communications paid for by persons other than candidates, authorized committees of candidates, and party committees. The regulations shall not require agreement or formal collaboration to establish coordination. In addition to any subject determined by the Commission, the regulations shall address—
+
+## Source Credit
+
+*([Pub. L. 92–225, title III, § 315](https://www.govinfo.gov/link/plaw/92/public/225), formerly § 320, as added [Pub. L. 94–283, title I, § 112(2)](https://www.govinfo.gov/link/plaw/94/public/283), May 11, 1976, [90 Stat. 486](https://www.govinfo.gov/link/statute/90/486); renumbered § 315, [Pub. L. 96–187, title I, § 105(5)](https://www.govinfo.gov/link/plaw/96/public/187), Jan. 8, 1980, [93 Stat. 1354](https://www.govinfo.gov/link/statute/93/1354); amended [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 107–155, title I, § 102](https://www.govinfo.gov/link/plaw/107/public/155), title II, §§ 202, 213, 214(a), title III, §§ 304(a), 307(a)–(d), 316, 319(b), Mar. 27, 2002, [116 Stat. 86](https://www.govinfo.gov/link/statute/116/86), 90, 94, 97, 102, 103, 108, 112; [Pub. L. 113–235, div. N, § 101(a)](https://www.govinfo.gov/link/plaw/113/public/235), (b), Dec. 16, 2014, [128 Stat. 2772](https://www.govinfo.gov/link/statute/128/2772), 2773.)*

@@ -3,9 +3,10 @@ title: "Section 852 - Selections to supply deficiencies of school lands"
 usc_title: 43
 usc_section: "852"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 852"
-generated_at: "2026-03-30T02:55:57.461Z"
+generated_at: "2026-11-23T21:26:19.809Z"
+status: "active"
 ---
 
 # § 852. Selections to supply deficiencies of school lands
@@ -21,3 +22,11 @@ generated_at: "2026-03-30T02:55:57.461Z"
 - **(d)**
   - **(1)** The term “unappropriated public lands” as used in this section shall include, without otherwise affecting the meaning thereof, lands withdrawn for coal, phosphate, nitrate, potash, oil, gas, asphaltic minerals, oil shale, sodium, and sulphur, but otherwise subject to appropriation, location, selection, entry, or purchase under the nonmineral laws of the United States; lands withdrawn by Executive Order Numbered 5327, of April 15, 1930 , if otherwise available for selection; and the retained or reserved interest of the United States in lands which have been disposed of with a reservation to the United States of all minerals or any specified mineral or minerals.
   - **(2)** The determination, for the purposes of this section of the mineral character of lands lost to a State shall be made as of the date of application for selection and upon the basis of the best evidence available at that time.
+
+“Notwithstanding any other provision of law, the Secretary of the Interior shall convey to the University of Alaska, by quitclaim deed and without consideration, all the right, title, and interest of the United States in and to—
+
+“That in addition to the provision made by the Act of Congress approved March 4, 1915 (thirty-eighth Statutes at Large, page 1214 [classified to section 353 of Title 48 , Territories and Insular Possessions, and provisions set out in the Site for Agricultural College and School of Mines note below], for the use and benefit of the Agricultural College and School of Mines, there is granted to the State of Alaska, for the exclusive use and benefit of the Agricultural College and School of Mines, one hundred thousand acres of vacant nonmineral surveyed unreserved public lands in the State of Alaska, to be selected, under the direction and subject to the approval of the Secretary of the Interior, by the State, and subject to the following conditions and limitations:
+
+## Source Credit
+
+*(R.S. § 2276; Feb. 28, 1891, ch. 384, [26 Stat. 797](https://www.govinfo.gov/link/statute/26/797); [Pub. L. 85–771, § 2](https://www.govinfo.gov/link/plaw/85/public/771), Aug. 27, 1958, [72 Stat. 928](https://www.govinfo.gov/link/statute/72/928); [Pub. L. 86–786](https://www.govinfo.gov/link/plaw/86/public/786), §§ 1, 2, Sept. 14, 1960, [74 Stat. 1024](https://www.govinfo.gov/link/statute/74/1024); [Pub. L. 89–470, § 2](https://www.govinfo.gov/link/plaw/89/public/470), June 24, 1966, [80 Stat. 220](https://www.govinfo.gov/link/statute/80/220).)*

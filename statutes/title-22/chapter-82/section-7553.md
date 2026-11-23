@@ -3,9 +3,10 @@ title: "Section 7553 - Donor contributions to Afghanistan and reports"
 usc_title: 22
 usc_section: "7553"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7553"
-generated_at: "2026-03-30T02:55:05.441Z"
+generated_at: "2026-11-23T21:25:58.718Z"
+status: "active"
 ---
 
 # § 7553. Donor contributions to Afghanistan and reports
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.441Z"
 - **(c)**
   - **(1)** The Secretary of State shall submit reports to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations and the Committee on Appropriations of the House of Representatives, in accordance with this paragraph, on the status of contributions of assistance from donor states to Afghanistan. The first report shall be submitted not later than 60 days after December 4, 2002 , the second report shall be submitted 90 days thereafter, and subsequent reports shall be submitted every 180 days thereafter through December 31, 2004 .
   - **(2)** Each report, which shall be unclassified and posted upon the Department of State’s Internet website, shall include, by donor country, the total amount pledged, the amount delivered within the previous 60 days, the total amount of assistance delivered, the type of assistance and type of projects supported by the assistance.
+
+## Source Credit
+
+*([Pub. L. 107–327, title III, § 303](https://www.govinfo.gov/link/plaw/107/public/327), Dec. 4, 2002, [116 Stat. 2812](https://www.govinfo.gov/link/statute/116/2812).)*

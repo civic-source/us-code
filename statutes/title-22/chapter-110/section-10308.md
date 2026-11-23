@@ -3,9 +3,10 @@ title: "Section 10308 - Cyber protection support for personnel of the Department
 usc_title: 22
 usc_section: "10308"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10308"
-generated_at: "2026-03-30T02:55:05.476Z"
+generated_at: "2026-11-23T21:25:58.797Z"
+status: "active"
 ---
 
 # § 10308. Cyber protection support for personnel of the Department of State in positions highly vulnerable to cyber attack
@@ -34,3 +35,23 @@ generated_at: "2026-03-30T02:55:05.476Z"
     - **(A)** the appropriate congressional committees;
     - **(B)** the Select Committee on Intelligence and the Committee on Homeland Security and Governmental Affairs of the Senate; and
     - **(C)** the Permanent Select Committee on Intelligence and the Committee on Oversight and Accountability of the House of Representatives.
+
+Definitions
+
+Appropriate committees of congress
+
+Covered device
+
+Foreign commercial spyware; spyware
+
+Protection of Covered Devices.—
+
+Requirement
+
+Notifications
+
+Annual report
+
+## Source Credit
+
+*([Pub. L. 118–31, div. F, title LXIII, § 6308](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 993](https://www.govinfo.gov/link/statute/137/993).)*

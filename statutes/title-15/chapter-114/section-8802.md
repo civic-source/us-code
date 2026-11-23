@@ -3,9 +3,10 @@ title: "Section 8802 - Purposes"
 usc_title: 15
 usc_section: "8802"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8802"
-generated_at: "2026-03-30T02:54:08.234Z"
+generated_at: "2026-11-23T21:25:40.095Z"
+status: "active"
 ---
 
 # § 8802. Purposes
@@ -24,3 +25,7 @@ The purpose of this chapter is to ensure the continued leadership of the United 
   - **(5)** promoting the development of international standards for quantum information science and technology security—
     - **(A)** to facilitate technology innovation and private sector commercialization; and
     - **(B)** to meet economic and national security goals.
+
+## Source Credit
+
+*([Pub. L. 115–368, § 3](https://www.govinfo.gov/link/plaw/115/public/368), Dec. 21, 2018, [132 Stat. 5093](https://www.govinfo.gov/link/statute/132/5093).)*

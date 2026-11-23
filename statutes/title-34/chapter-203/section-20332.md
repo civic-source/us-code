@@ -3,9 +3,10 @@ title: "Section 20332 - Grants for juvenile and family court personnel"
 usc_title: 34
 usc_section: "20332"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20332"
-generated_at: "2026-03-30T02:55:33.297Z"
+generated_at: "2026-11-23T21:26:09.784Z"
+status: "active"
 ---
 
 # § 20332. Grants for juvenile and family court personnel
@@ -14,3 +15,7 @@ In order to improve the judicial system’s handling of child abuse and neglect 
 
   - **(1)** technical assistance and training to judicial personnel and attorneys, particularly personnel and practitioners in juvenile and family courts; and
   - **(2)** administrative reform in juvenile and family courts.
+
+## Source Credit
+
+*([Pub. L. 101–647, title II, § 222](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4797](https://www.govinfo.gov/link/statute/104/4797).)*

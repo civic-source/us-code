@@ -3,9 +3,10 @@ title: "Section 2104 - Forest health protection"
 usc_title: 16
 usc_section: "2104"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2104"
-generated_at: "2026-03-30T02:54:22.997Z"
+generated_at: "2026-11-23T21:25:51.941Z"
+status: "active"
 ---
 
 # § 2104. Forest health protection
@@ -40,3 +41,91 @@ generated_at: "2026-03-30T02:54:22.997Z"
     - **(A)** provide cost-share assistance to such cooperators who have established an acceptable integrated pest management strategy, as determined by the Secretary, that will prevent, retard, control, or suppress gypsy moth, southern pine beetle, spruce budworm infestations, or other major insect infestations in an amount no less than 50 percent nor greater than 75 percent of the cost of implementing such strategy; and
     - **(B)** upon request, assist the cooperator in the development of such integrated pest management strategy.
   - **(2)** There are hereby authorized to be appropriated annually $10,000,000 to implement this subsection.
+
+Pilot Project for Plumas, Lassen, and Tahoe National Forests to Implement Quincy Library Group Proposal
+
+Definition
+
+Pilot Project Required.—
+
+Pilot project and purpose
+
+Pilot project area
+
+Exclusion of Certain Lands, Riparian Protection and Compliance.—
+
+Exclusion
+
+Riparian protection.—
+
+In general
+
+Guidelines described
+
+Limitation
+
+Compliance
+
+Roadless area protection
+
+Resource Management Activities
+
+Fuelbreak construction
+
+Group selection and individual tree selection
+
+Group selection
+
+Individual tree selection
+
+Total acreage
+
+Riparian management
+
+Cost-Effectiveness
+
+Funding.—
+
+Source of funds
+
+Prohibition on use of certain funds
+
+Flexibility
+
+Restriction
+
+Overhead
+
+Authorized supplemental funds
+
+Baseline funds
+
+Term of Pilot Project
+
+Consultation
+
+Contracting
+
+Status Reports.—
+
+In general
+
+Limitation on expenditures
+
+Final Report.—
+
+In general
+
+Preparation
+
+Submission to the congress
+
+Limitation on expenditures
+
+Relationship to Other Laws
+
+Short Title
+
+## Source Credit
+
+*([Pub. L. 95–313, § 8](https://www.govinfo.gov/link/plaw/95/public/313), formerly § 5, July 1, 1978, [92 Stat. 368](https://www.govinfo.gov/link/statute/92/368); renumbered § 8 and amended [Pub. L. 101–624, title XII](https://www.govinfo.gov/link/plaw/101/public/624), §§ 1215(1), 1218, Nov. 28, 1990, [104 Stat. 3525](https://www.govinfo.gov/link/statute/104/3525), 3531.)*

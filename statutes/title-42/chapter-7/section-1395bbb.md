@@ -3,9 +3,10 @@ title: "Section 1395bbb - Conditions of participation for home health agencies; 
 usc_title: 42
 usc_section: "1395bbb"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1395bbb"
-generated_at: "2026-03-30T02:56:11.026Z"
+generated_at: "2026-11-23T21:26:31.742Z"
+status: "active"
 ---
 
 # § 1395bbb. Conditions of participation for home health agencies; home health quality
@@ -100,3 +101,21 @@ generated_at: "2026-03-30T02:56:11.026Z"
     - **(C)** A finding to suspend payment under subparagraph (A)(ii) shall terminate when the Secretary finds that the home health agency is in substantial compliance with all the requirements specified in or pursuant to section 1395x( o ) of this title and subsection (a).
   - **(3)** The Secretary shall develop and implement, by not later than April 1, 1989 , specific procedures with respect to the conditions under which each of the intermediate sanctions developed under paragraph (1) is to be applied, including the amount of any fines and the severity of each of these sanctions. Such procedures shall be designed so as to minimize the time between identification of deficiencies and imposition of these sanctions and shall provide for the imposition of incrementally more severe fines for repeated or uncorrected deficiencies.
 - **(g)** A home health agency shall submit claims for payment for home health services under this subchapter only on the basis of the geographic location at which the service is furnished, as determined by the Secretary.
+
+“The amendments made by paragraph (1) [amending this section] shall take effect as if included in the enactment of the Omnibus Budget Reconciliation Act of 1987 [ Pub. L. 100–203 ], except that the Secretary may not permit approval of a training and competency evaluation program or a competency evaluation program offered by or in a home health agency which, pursuant to any Federal or State law within the 2-year period beginning on October 1, 1988 —
+
+Treatment of Branch Offices.—
+
+In general
+
+Consideration of forms of technology in definition of supervision
+
+GAO Study.—
+
+Study
+
+Report
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1891, as added and amended [Pub. L. 100–203, title IV](https://www.govinfo.gov/link/plaw/100/public/203), §§ 4021(b), 4022(a), 4023(a), Dec. 22, 1987, [101 Stat. 1330–67](https://www.govinfo.gov/link/statute/101/1330), 1330–69, 1330–71; [Pub. L. 100–360, title IV, § 411(d)(1)(A)](https://www.govinfo.gov/link/plaw/100/public/360), (2)–(3)(B), July 1, 1988, [102 Stat. 773](https://www.govinfo.gov/link/statute/102/773), 774; [Pub. L. 100–485, title VI, § 608(d)(20)(A)](https://www.govinfo.gov/link/plaw/100/public/485), Oct. 13, 1988, [102 Stat. 2419](https://www.govinfo.gov/link/statute/102/2419); [Pub. L. 101–508, title IV](https://www.govinfo.gov/link/plaw/101/public/508), §§ 4206(d)(2), 4207(i)(1), formerly 4027(i)(1), Nov. 5, 1990, [104 Stat. 1388–116](https://www.govinfo.gov/link/statute/104/1388), 1388–123, renumbered [Pub. L. 103–432, title I, § 160(d)(4)](https://www.govinfo.gov/link/plaw/103/public/432), Oct. 31, 1994, [108 Stat. 4444](https://www.govinfo.gov/link/statute/108/4444); [Pub. L. 104–134, title I, § 101(d) [title V, § 516(a)]](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–211](https://www.govinfo.gov/link/statute/110/1321), 1321–246; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327); [Pub. L. 105–33, title IV, § 4604(a)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 472](https://www.govinfo.gov/link/statute/111/472); [Pub. L. 108–173, title VII, § 736(c)(3)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2356](https://www.govinfo.gov/link/statute/117/2356).)*

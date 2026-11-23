@@ -3,12 +3,17 @@ title: "Section 1305 - Short title of chapter"
 usc_title: 42
 usc_section: "1305"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1305"
-generated_at: "2026-03-30T02:56:10.902Z"
+generated_at: "2026-11-23T21:26:31.227Z"
+status: "active"
 ---
 
 # § 1305. Short title of chapter
 
 This chapter may be cited as the “Social Security Act”.
 
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XI, § 1105, [49 Stat. 648](https://www.govinfo.gov/link/statute/49/648).)*

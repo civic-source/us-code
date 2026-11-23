@@ -3,12 +3,17 @@ title: "Section 608 - Procedure for waiver or delay of completion"
 usc_title: 5
 usc_section: "608"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 608"
-generated_at: "2026-03-30T02:52:55.991Z"
+generated_at: "2026-11-23T21:25:23.082Z"
+status: "active"
 ---
 
 # § 608. Procedure for waiver or delay of completion
 
 - **(a)** An agency head may waive or delay the completion of some or all of the requirements of section 603 of this title by publishing in the Federal Register, not later than the date of publication of the final rule, a written finding, with reasons therefor, that the final rule is being promulgated in response to an emergency that makes compliance or timely compliance with the provisions of section 603 of this title impracticable.
 - **(b)** Except as provided in section 605(b), an agency head may not waive the requirements of section 604 of this title . An agency head may delay the completion of the requirements of section 604 of this title for a period of not more than one hundred and eighty days after the date of publication in the Federal Register of a final rule by publishing in the Federal Register, not later than such date of publication, a written finding, with reasons therefor, that the final rule is being promulgated in response to an emergency that makes timely compliance with the provisions of section 604 of this title impracticable. If the agency has not prepared a final regulatory analysis pursuant to section 604 of this title within one hundred and eighty days from the date of publication of the final rule, such rule shall lapse and have no effect. Such rule shall not be repromulgated until a final regulatory flexibility analysis has been completed by the agency.
+
+## Source Credit
+
+*(Added [Pub. L. 96–354, § 3(a)](https://www.govinfo.gov/link/plaw/96/public/354), Sept. 19, 1980, [94 Stat. 1168](https://www.govinfo.gov/link/statute/94/1168).)*

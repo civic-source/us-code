@@ -3,9 +3,10 @@ title: "Section 3483 - Working capital fund"
 usc_title: 20
 usc_section: "3483"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 3483"
-generated_at: "2026-03-30T02:54:48.179Z"
+generated_at: "2026-11-23T21:25:47.414Z"
+status: "active"
 ---
 
 # § 3483. Working capital fund
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:48.179Z"
   - **(3)** office space, central services for document reproduction, and for graphics and visual aids; and
   - **(4)** a central library service.
 - **(b)** The capital of the fund shall consist of any appropriations made for the purpose of providing working capital and the fair and reasonable value of such stocks of supplies, equipment, and other assets and inventories on order as the Secretary may transfer to the fund, less the related liabilities and unpaid obligations. Such funds shall be reimbursed in advance from available funds of agencies and offices in the Department, or from other sources, for supplies and services at rates that will approximate the expense of operation, including the accrual of annual leave and the depreciation of equipment. The fund shall also be credited with receipts from sale or exchange of property and receipts in payment for loss or damage to property owned by the fund. There shall be covered into the Treasury as miscellaneous receipts any surplus of the fund (all assets, liabilities, and prior losses considered) above the amounts transferred or appropriated to establish and maintain such fund. There shall be transferred to the fund the stocks of supplies, equipment, other assets, liabilities, and unpaid obligations relating to the services which the Secretary determines, with the approval of the Director of the Office of Management and Budget, will be performed.
+
+## Source Credit
+
+*([Pub. L. 96–88, title IV, § 423](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 687](https://www.govinfo.gov/link/statute/93/687).)*

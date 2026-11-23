@@ -3,9 +3,10 @@ title: "Section 4301 - Definitions"
 usc_title: 5
 usc_section: "4301"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 4301"
-generated_at: "2026-03-30T02:52:56.008Z"
+generated_at: "2026-11-23T21:25:23.188Z"
+status: "active"
 ---
 
 # § 4301. Definitions
@@ -28,3 +29,53 @@ Except as otherwise expressly provided, for the purpose of this subchapter—
     - **(G)** an individual occupying a position not in the competitive service excluded from coverage of this subchapter by regulations of the Office of Personnel Management; or
     - **(H)** an individual who (i) is serving in a position under a temporary appointment for less than one year, (ii) agrees to serve without a performance evaluation, and (iii) will not be considered for a reappointment or for an increase in pay based in whole or in part on performance; and
   - **(3)** “unacceptable performance” means performance of an employee which fails to meet established performance standards in one or more critical elements of such employee’s position.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 2001 . | Sept. 30, 1950, ch. 1123, § 2 , 64 Stat. 1098 . |
+|  |  | Sept. 1, 1954, ch. 1208, § 601(a) , 68 Stat. 1115 . |
+|  |  | June 17, 1957 , Pub. L. 85–56, § 2201(21) , 71 Stat. 159 . |
+|  |  | July 11, 1957 , Pub. L. 85–101 , 71 Stat. 293 . |
+|  |  | Sept. 2, 1958 , Pub. L. 85–857, § 13(p) , 72 Stat. 1266 . |
+|  |  | Mar. 26, 1964 , Pub. L. 88–290 , “Sec. 306(b)”, 78 Stat. 170 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 2001
+
+Sept. 30, 1950, ch. 1123, § 2
+
+64 Stat. 1098
+
+Sept. 1, 1954, ch. 1208, § 601(a)
+
+68 Stat. 1115
+
+June 17, 1957
+
+Pub. L. 85–56, § 2201(21)
+
+71 Stat. 159
+
+July 11, 1957
+
+Pub. L. 85–101
+
+71 Stat. 293
+
+Sept. 2, 1958
+
+Pub. L. 85–857, § 13(p)
+
+72 Stat. 1266
+
+Mar. 26, 1964
+
+Pub. L. 88–290
+
+78 Stat. 170
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 440](https://www.govinfo.gov/link/statute/80/440); [Pub. L. 91–375, § 6(c)(8)](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 776](https://www.govinfo.gov/link/statute/84/776); [Pub. L. 95–251, § 2(a)(1)](https://www.govinfo.gov/link/plaw/95/public/251), Mar. 27, 1978, [92 Stat. 183](https://www.govinfo.gov/link/statute/92/183); [Pub. L. 95–454, title II, § 203(a)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1131](https://www.govinfo.gov/link/statute/92/1131); [Pub. L. 100–325, § 2(f)](https://www.govinfo.gov/link/plaw/100/public/325), May 30, 1988, [102 Stat. 581](https://www.govinfo.gov/link/statute/102/581); [Pub. L. 101–474, § 5(e)](https://www.govinfo.gov/link/plaw/101/public/474), Oct. 30, 1990, [104 Stat. 1100](https://www.govinfo.gov/link/statute/104/1100); [Pub. L. 101–510, div. A, title XII, § 1206(e)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1661](https://www.govinfo.gov/link/statute/104/1661); [Pub. L. 102–54, § 13(b)(2)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 274](https://www.govinfo.gov/link/statute/105/274); [Pub. L. 103–359, title V, § 501(e)](https://www.govinfo.gov/link/plaw/103/public/359), Oct. 14, 1994, [108 Stat. 3429](https://www.govinfo.gov/link/statute/108/3429); [Pub. L. 104–201, div. A, title XI, § 1122(a)(1)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2687](https://www.govinfo.gov/link/statute/110/2687); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title IX, § 931(a)(1), Oct. 14, 2008, [122 Stat. 4575](https://www.govinfo.gov/link/statute/122/4575); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537); [Pub. L. 115–91, div. A, title X, § 1097(d)(4)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1621](https://www.govinfo.gov/link/statute/131/1621).)*

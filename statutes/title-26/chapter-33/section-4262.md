@@ -3,9 +3,10 @@ title: "Section 4262 - Definition of taxable transportation"
 usc_title: 26
 usc_section: "4262"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4262"
-generated_at: "2026-03-30T02:55:27.802Z"
+generated_at: "2026-11-23T21:26:06.615Z"
+status: "active"
 ---
 
 # § 4262. Definition of taxable transportation
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:55:27.802Z"
     - **(A)** setting forth that portion of such country which is not to be treated as within the 225-mile zone, and
     - **(B)** providing that the tax imposed by such country on transportation described in subparagraph (A) will be at a level which the Secretary of the Treasury determines to be appropriate.
   - **(4)** No notice may be published under paragraph (1)(A) with respect to any qualified agreement before the date 90 days after the date on which a copy of such agreement was furnished to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
+
+## Source Credit
+
+*(Added July 25, 1956, ch. 725, § 3, [70 Stat. 644](https://www.govinfo.gov/link/statute/70/644); amended [Pub. L. 86–70, § 22(b)](https://www.govinfo.gov/link/plaw/86/public/70), June 25, 1959, [73 Stat. 146](https://www.govinfo.gov/link/statute/73/146); [Pub. L. 86–624, § 18(a)](https://www.govinfo.gov/link/plaw/86/public/624), July 12, 1960, [74 Stat. 416](https://www.govinfo.gov/link/statute/74/416); [Pub. L. 87–508, § 5(b)](https://www.govinfo.gov/link/plaw/87/public/508), June 28, 1962, [76 Stat. 116](https://www.govinfo.gov/link/statute/76/116); [Pub. L. 89–44, title VIII, § 803(a)](https://www.govinfo.gov/link/plaw/89/public/44), June 21, 1965, [79 Stat. 160](https://www.govinfo.gov/link/statute/79/160); [Pub. L. 91–258, title II, § 203(b)](https://www.govinfo.gov/link/plaw/91/public/258), May 21, 1970, [84 Stat. 238](https://www.govinfo.gov/link/statute/84/238); [Pub. L. 97–248, title II, § 281A(a)(1)](https://www.govinfo.gov/link/plaw/97/public/248), (2), Sept. 3, 1982, [96 Stat. 566](https://www.govinfo.gov/link/statute/96/566), 567.)*

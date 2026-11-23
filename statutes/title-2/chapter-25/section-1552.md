@@ -3,9 +3,10 @@ title: "Section 1552 - Report on Federal mandates by Advisory Commission on Inte
 usc_title: 2
 usc_section: "1552"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1552"
-generated_at: "2026-03-30T02:53:04.815Z"
+generated_at: "2026-11-23T21:25:21.234Z"
+status: "active"
 ---
 
 # § 1552. Report on Federal mandates by Advisory Commission on Intergovernmental Relations
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:53:04.815Z"
 - **(d)** No later than 3 months after the date of the publication of the preliminary report under subsection (c), the Commission shall submit to the Congress, including the Committee on Government Reform and Oversight of the House of Representatives, the Committee on Governmental Affairs of the Senate, the Committee on the Budget of the Senate, and the Committee on the Budget of the House of Representatives, and to the President a final report on the findings, conclusions, and recommendations of the Commission under this section.
 - **(e)** In carrying out this section, the Advisory Commission shall give the highest priority to immediately investigating, reviewing, and making recommendations regarding Federal mandates that are the subject of judicial proceedings between the United States and a State, local, or tribal government.
 - **(f)** For purposes of this section the term “State mandate” means any provision in a State statute or regulation that imposes an enforceable duty on local governments, the private sector, or individuals, including a condition of State assistance or a duty arising from participation in a voluntary State program.
+
+## Source Credit
+
+*([Pub. L. 104–4, title III, § 302](https://www.govinfo.gov/link/plaw/104/public/4), Mar. 22, 1995, [109 Stat. 67](https://www.govinfo.gov/link/statute/109/67).)*

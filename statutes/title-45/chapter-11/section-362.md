@@ -3,9 +3,10 @@ title: "Section 362 - Duties and powers of Board"
 usc_title: 45
 usc_section: "362"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 362"
-generated_at: "2026-03-30T02:55:56.551Z"
+generated_at: "2026-11-23T21:26:19.211Z"
+status: "active"
 ---
 
 # § 362. Duties and powers of Board
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:56.551Z"
     - **(B)** the amounts described in section 351(k) of this title , section 352(c) of this title , section 353 of this title , and section 354(a–2)(i)(A) of this title that are related to changes in the monthly compensation base.
   - **(2)** On or before June 1, 1989 , and on or before June 1 of each year thereafter, the Board shall compute in accordance with section 352(a)(3) of this title the maximum daily benefit rate which shall be applicable with respect to days of unemployment and days of sickness in registration periods beginning after June 30 of that year.
   - **(3)** Not later than 10 days after each computation made under this subsection, the Board shall publish notice in the Federal Register and shall notify each employer and employee representative of the amount so computed.
+
+## Source Credit
+
+*(June 25, 1938, ch. 680, § 12, [52 Stat. 1107](https://www.govinfo.gov/link/statute/52/1107); June 20, 1939, ch. 227, § 16, [53 Stat. 848](https://www.govinfo.gov/link/statute/53/848); Oct. 10, 1940, ch. 842, §§ 23, 24, [54 Stat. 1099](https://www.govinfo.gov/link/statute/54/1099); July 31, 1946, ch. 709, §§ 319–323, [60 Stat. 739](https://www.govinfo.gov/link/statute/60/739), 740; June 25, 1948, ch. 646, §§ 1, 32(b), [62 Stat. 878](https://www.govinfo.gov/link/statute/62/878), 895, 991; May 24, 1949, ch. 139, § 127, [63 Stat. 107](https://www.govinfo.gov/link/statute/63/107); Oct. 28, 1949, ch. 782, title II, § 202(29), title XI, § 1106(a), [63 Stat. 956](https://www.govinfo.gov/link/statute/63/956), 972; Aug. 12, 1955, ch. 869, § 6, [69 Stat. 716](https://www.govinfo.gov/link/statute/69/716); [Pub. L. 85–927](https://www.govinfo.gov/link/plaw/85/public/927), pt. II, § 206, Sept. 6, 1958, [72 Stat. 1783](https://www.govinfo.gov/link/statute/72/1783); [Pub. L. 86–507, § 1(37)](https://www.govinfo.gov/link/plaw/86/public/507), June 11, 1960, [74 Stat. 202](https://www.govinfo.gov/link/statute/74/202); [Pub. L. 89–700, title II, § 206](https://www.govinfo.gov/link/plaw/89/public/700), Oct. 30, 1966, [80 Stat. 1087](https://www.govinfo.gov/link/statute/80/1087); [Pub. L. 90–257, title II, § 206](https://www.govinfo.gov/link/plaw/90/public/257), Feb. 15, 1968, [82 Stat. 25](https://www.govinfo.gov/link/statute/82/25); [Pub. L. 91–452, title II, § 239](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 930](https://www.govinfo.gov/link/statute/84/930); [Pub. L. 93–445, title IV, § 405](https://www.govinfo.gov/link/plaw/93/public/445), Oct. 16, 1974, [88 Stat. 1359](https://www.govinfo.gov/link/statute/88/1359); 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783](https://www.govinfo.gov/link/statute/92/3783); [Pub. L. 100–647, title VII](https://www.govinfo.gov/link/plaw/100/public/647), §§ 7101(e), 7104(d), (e), Nov. 10, 1988, [102 Stat. 3758](https://www.govinfo.gov/link/statute/102/3758), 3772.)*

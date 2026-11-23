@@ -3,9 +3,10 @@ title: "Section 595 - Congressional oversight"
 usc_title: 28
 usc_section: "595"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 595"
-generated_at: "2026-03-30T02:55:30.134Z"
+generated_at: "2026-11-23T21:26:01.062Z"
+status: "active"
 ---
 
 # § 595. Congressional oversight
@@ -18,3 +19,17 @@ generated_at: "2026-03-30T02:55:30.134Z"
   - **(2)** Whether a preliminary investigation is being conducted, and if so, the date it began.
   - **(3)** Whether an application for the appointment of an independent counsel or a notification that further investigation is not warranted has been filed with the division of the court, and if so, the date of such filing.
 - **(c)** An independent counsel shall advise the House of Representatives of any substantial and credible information which such independent counsel receives, in carrying out the independent counsel’s responsibilities under this chapter, that may constitute grounds for an impeachment. Nothing in this chapter or section 49 of this title shall prevent the Congress or either House thereof from obtaining information in the course of an impeachment proceeding.
+
+Oversight of Conduct of Independent Counsel.—
+
+Congressional oversight
+
+Reports to congress
+
+Oversight of Conduct of Attorney General
+
+Information Relating to Impeachment
+
+## Source Credit
+
+*(Added [Pub. L. 95–521, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/95/public/521), Oct. 26, 1978, [92 Stat. 1871](https://www.govinfo.gov/link/statute/92/1871); amended [Pub. L. 97–409, § 2(a)(1)](https://www.govinfo.gov/link/plaw/97/public/409), Jan. 3, 1983, [96 Stat. 2139](https://www.govinfo.gov/link/statute/96/2139); [Pub. L. 100–191, § 2](https://www.govinfo.gov/link/plaw/100/public/191), Dec. 15, 1987, [101 Stat. 1304](https://www.govinfo.gov/link/statute/101/1304); [Pub. L. 103–270, § 3(g)](https://www.govinfo.gov/link/plaw/103/public/270), June 30, 1994, [108 Stat. 734](https://www.govinfo.gov/link/statute/108/734).)*

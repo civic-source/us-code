@@ -3,9 +3,10 @@ title: "Section 4910 - Prohibited acts"
 usc_title: 16
 usc_section: "4910"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4910"
-generated_at: "2026-03-30T02:54:23.049Z"
+generated_at: "2026-11-23T21:25:52.025Z"
+status: "active"
 ---
 
 # § 4910. Prohibited acts
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:23.049Z"
     - **(C)** violate any regulation promulgated by the Secretary pursuant to authority provided by this chapter.
   - **(2)** Paragraph (1)(A) and (B) does not apply to importations made incident to the transit of exotic birds through the United States to foreign countries if the applicable requirements of the Convention have been satisfied with respect to the trade in those exotic birds.
 - **(b)** Any person claiming the benefit of any exemption or permit under this chapter shall have the burden of proving that the exemption or permit is applicable or has been granted, and was valid and in force at the time of the alleged violation.
+
+## Source Credit
+
+*([Pub. L. 102–440, title I, § 111](https://www.govinfo.gov/link/plaw/102/public/440), Oct. 23, 1992, [106 Stat. 2230](https://www.govinfo.gov/link/statute/106/2230).)*

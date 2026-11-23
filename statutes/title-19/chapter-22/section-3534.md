@@ -3,9 +3,10 @@ title: "Section 3534 - Annual report on WTO"
 usc_title: 19
 usc_section: "3534"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 3534"
-generated_at: "2026-03-30T02:54:24.692Z"
+generated_at: "2026-11-23T21:25:42.845Z"
+status: "active"
 ---
 
 # § 3534. Annual report on WTO
@@ -20,3 +21,7 @@ Not later than March 1 of each year beginning in 1996, the Trade Representative 
   - **(6)** each proceeding before a panel or the Appellate Body that was initiated during that fiscal year regarding Federal or State law, the status of the proceeding, and the matter at issue;
   - **(7)** the status of consultations with any State whose law was the subject of a report adverse to the United States that was issued by a panel or the Appellate Body; and
   - **(8)** any progress achieved in increasing the transparency of proceedings of the Ministerial Conference and the General Council, and of dispute settlement proceedings conducted pursuant to the Dispute Settlement Understanding.
+
+## Source Credit
+
+*([Pub. L. 103–465, title I, § 124](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4832](https://www.govinfo.gov/link/statute/108/4832).)*

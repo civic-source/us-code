@@ -3,9 +3,10 @@ title: "Section 662 - Injunction proceedings"
 usc_title: 29
 usc_section: "662"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 662"
-generated_at: "2026-03-30T02:55:18.688Z"
+generated_at: "2026-11-23T21:26:02.191Z"
+status: "active"
 ---
 
 # § 662. Injunction proceedings
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:18.688Z"
 - **(b)** Upon the filing of any such petition the district court shall have jurisdiction to grant such injunctive relief or temporary restraining order pending the outcome of an enforcement proceeding pursuant to this chapter. The proceeding shall be as provided by Rule 65 of the Federal Rules, Civil Procedure, except that no temporary restraining order issued without notice shall be effective for a period longer than five days.
 - **(c)** Whenever and as soon as an inspector concludes that conditions or practices described in subsection (a) exist in any place of employment, he shall inform the affected employees and employers of the danger and that he is recommending to the Secretary that relief be sought.
 - **(d)** If the Secretary arbitrarily or capriciously fails to seek relief under this section, any employee who may be injured by reason of such failure, or the representative of such employees, might bring an action against the Secretary in the United States district court for the district in which the imminent danger is alleged to exist or the employer has its principal office, or for the District of Columbia, for a writ of mandamus to compel the Secretary to seek such an order and for such further relief as may be appropriate.
+
+## Source Credit
+
+*([Pub. L. 91–596, § 13](https://www.govinfo.gov/link/plaw/91/public/596), Dec. 29, 1970, [84 Stat. 1605](https://www.govinfo.gov/link/statute/84/1605).)*

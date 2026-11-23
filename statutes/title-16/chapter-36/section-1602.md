@@ -3,9 +3,10 @@ title: "Section 1602 - Renewable Resource Program; preparation by Secretary and 
 usc_title: 16
 usc_section: "1602"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1602"
-generated_at: "2026-03-30T02:54:22.978Z"
+generated_at: "2026-11-23T21:25:51.901Z"
+status: "active"
 ---
 
 # § 1602. Renewable Resource Program; preparation by Secretary and transmittal to President; purpose and development of program; time of preparation, updating and contents
@@ -23,3 +24,7 @@ In order to provide for periodic review of programs for management and administr
     - **(D)** state national goals that recognize the interrelationships between and interdependence within the renewable resources;
     - **(E)** evaluate the impact of the export and import of raw logs upon domestic timber supplies and prices; and
     - **(F)** account for the effects of global climate change on forest and rangeland conditions, including potential effects on the geographic ranges of species, and on forest and rangeland products.
+
+## Source Credit
+
+*([Pub. L. 93–378, § 4](https://www.govinfo.gov/link/plaw/93/public/378), formerly § 3, Aug. 17, 1974, [88 Stat. 477](https://www.govinfo.gov/link/statute/88/477), renumbered § 4 and amended [Pub. L. 94–588](https://www.govinfo.gov/link/plaw/94/public/588), §§ 2, 5, Oct. 22, 1976, [90 Stat. 2949](https://www.govinfo.gov/link/statute/90/2949), 2951; [Pub. L. 101–624, title XXIV, § 2408(b)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 4061](https://www.govinfo.gov/link/statute/104/4061); [Pub. L. 115–141, div. O, title II, § 208(b)(2)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1066](https://www.govinfo.gov/link/statute/132/1066).)*

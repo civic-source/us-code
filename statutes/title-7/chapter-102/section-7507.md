@@ -3,9 +3,10 @@ title: "Section 7507 - State and local supplementation of commodities"
 usc_title: 7
 usc_section: "7507"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7507"
-generated_at: "2026-03-30T02:53:42.455Z"
+generated_at: "2026-11-23T21:25:28.434Z"
+status: "active"
 ---
 
 # § 7507. State and local supplementation of commodities
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:53:42.455Z"
   - **(2)**
     - **(A)** Not later than 180 days after December 20, 2018 , the Secretary shall issue guidance to promote awareness of donations of apparently wholesome food protected under section 1791(c) of title 42 by qualified direct donors in compliance with applicable State and local health, food safety, and food handling laws (including regulations).
     - **(B)** The Secretary shall encourage State agencies and emergency feeding organizations to share the guidance issued under subparagraph (A) with qualified direct donors.
+
+## Source Credit
+
+*([Pub. L. 98–8, title II, § 203D](https://www.govinfo.gov/link/plaw/98/public/8), as added [Pub. L. 100–435, title I, § 102](https://www.govinfo.gov/link/plaw/100/public/435), Sept. 19, 1988, [102 Stat. 1647](https://www.govinfo.gov/link/statute/102/1647); amended [Pub. L. 115–334, title IV](https://www.govinfo.gov/link/plaw/115/public/334), §§ 4018(b), (c), 4104, Dec. 20, 2018, [132 Stat. 4648](https://www.govinfo.gov/link/statute/132/4648), 4649, 4655; [Pub. L. 118–22, div. B, title I, § 102(d)(3)](https://www.govinfo.gov/link/plaw/118/public/22), Nov. 17, 2023, [137 Stat. 116](https://www.govinfo.gov/link/statute/137/116); [Pub. L. 119–21, title I, § 10603](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 108](https://www.govinfo.gov/link/statute/139/108).)*

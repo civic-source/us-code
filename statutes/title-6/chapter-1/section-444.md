@@ -3,9 +3,10 @@ title: "Section 444 - Definitions"
 usc_title: 6
 usc_section: "444"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 444"
-generated_at: "2026-03-30T02:53:09.464Z"
+generated_at: "2026-11-23T21:25:25.791Z"
+status: "active"
 ---
 
 # § 444. Definitions
@@ -28,3 +29,9 @@ For purposes of this part, the following definitions apply:
       - **(iv)** loss resulting from debt or default of another.
   - **(5)** The term “loss” means death, bodily injury, or loss of or damage to property, including business interruption loss.
   - **(6)** The term “non-Federal Government customers” means any customer of a Seller that is not an agency or instrumentality of the United States Government with authority under Public Law 85–804 [ 50 U.S.C. 1431 et seq.] to provide for indemnification under certain circumstances for third-party claims against its contractors, including but not limited to State and local authorities and commercial entities.
+
+Requirements
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 865](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2241](https://www.govinfo.gov/link/statute/116/2241).)*

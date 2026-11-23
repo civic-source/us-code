@@ -3,9 +3,10 @@ title: "Section 16371 - Definitions"
 usc_title: 42
 usc_section: "16371"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16371"
-generated_at: "2026-03-30T02:56:11.484Z"
+generated_at: "2026-11-23T21:26:33.736Z"
+status: "active"
 ---
 
 # § 16371. Definitions
@@ -61,3 +62,7 @@ In this part:
   - **(16)** The term “substantial completion”, with respect to a project, means the date—
     - **(A)** on which the project commences transportation of carbon dioxide; or
     - **(B)** of a comparable event to the event described in subparagraph (A), as determined by the Secretary and specified in the project credit agreement.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 999A](https://www.govinfo.gov/link/plaw/109/public/58), as added [Pub. L. 117–58, div. D, title III, § 40304(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 988](https://www.govinfo.gov/link/statute/135/988).)*

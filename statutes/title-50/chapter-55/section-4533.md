@@ -3,9 +3,10 @@ title: "Section 4533 - Other presidential action authorized"
 usc_title: 50
 usc_section: "4533"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4533"
-generated_at: "2026-03-30T02:56:26.275Z"
+generated_at: "2026-11-23T21:26:39.102Z"
+status: "active"
 ---
 
 # § 4533. Other presidential action authorized
@@ -56,3 +57,11 @@ generated_at: "2026-03-30T02:56:26.275Z"
   - **(1)** Notwithstanding any other provision of law to the contrary, metals, minerals, and materials acquired pursuant to this section which, in the judgment of the President, are excess to the needs of programs under this chapter, shall be transferred to the National Defense Stockpile established by the Strategic and Critical Materials Stock Piling Act ( 50 U.S.C. 98 et seq.), when the President deems such action to be in the public interest.
   - **(2)** Transfers made pursuant to this subsection shall be made without charge against or reimbursement from funds appropriated for the purposes of the Strategic and Critical Materials Stock Piling Act ( 50 U.S.C. 98 et seq.), except that costs incident to such transfer, other than acquisition costs, shall be paid or reimbursed from such funds.
 - **(g)** When, in the judgement of the President, it will aid the national defense, the President may make provision for the development of substitutes for strategic and critical materials, critical components, critical technology items, and other industrial resources.
+
+In General
+
+Report by the Secretary
+
+## Source Credit
+
+*(Sept. 8, 1950, ch. 932, title III, § 303, as added [Pub. L. 111–67, § 7](https://www.govinfo.gov/link/plaw/111/public/67), Sept. 30, 2009, [123 Stat. 2013](https://www.govinfo.gov/link/statute/123/2013); amended [Pub. L. 113–172, § 4(a)](https://www.govinfo.gov/link/plaw/113/public/172), Sept. 26, 2014, [128 Stat. 1897](https://www.govinfo.gov/link/statute/128/1897).)*

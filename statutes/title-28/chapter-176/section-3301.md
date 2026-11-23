@@ -3,9 +3,10 @@ title: "Section 3301 - Definitions"
 usc_title: 28
 usc_section: "3301"
 chapter: 176
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 3301"
-generated_at: "2026-03-30T02:55:30.153Z"
+generated_at: "2026-11-23T21:26:01.144Z"
+status: "active"
 ---
 
 # § 3301. Definitions
@@ -52,3 +53,7 @@ As used in this subchapter:
   - **(5)** 3 3 So in original. Probably should be “(7)”. “Relative” means an individual related, by consanguinity or adoption, within the third degree as determined by the common law, a spouse, or an individual so related to a spouse within the third degree as so determined.
   - **(6)** 4 4 So in original. Probably should be “(8)”. “Transfer” means every mode, direct or indirect, absolute or conditional, voluntary or involuntary, of disposing of or parting with an asset or an interest in an asset, and includes payment of money, release, lease, and creation of a lien or other encumbrance.
   - **(7)** 5 5 So in original. Probably should be “(9)”. “Valid lien” means a lien that is effective against the holder of a judicial lien subsequently obtained in legal or equitable proceeding.
+
+## Source Credit
+
+*(Added [Pub. L. 101–647, title XXXVI, § 3611](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4959](https://www.govinfo.gov/link/statute/104/4959).)*

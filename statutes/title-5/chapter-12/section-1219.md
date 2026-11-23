@@ -3,9 +3,10 @@ title: "Section 1219 - Public information"
 usc_title: 5
 usc_section: "1219"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 1219"
-generated_at: "2026-03-30T02:52:55.996Z"
+generated_at: "2026-11-23T21:25:23.112Z"
+status: "active"
 ---
 
 # § 1219. Public information
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:52:55.996Z"
   - **(3)** a list of matters referred to heads of agencies under subsection (e) of section 1214, together with certifications from heads of agencies under such subsection; and
   - **(4)** reports from heads of agencies under section 1213(g)(1).
 - **(b)** The Special Counsel shall take steps to ensure that any list or report made available to the public under this section does not contain any information the disclosure of which is prohibited by law or by Executive order requiring that information be kept secret in the interest of national defense or the conduct of foreign affairs.
+
+## Source Credit
+
+*(Added [Pub. L. 101–12, § 3(a)(13)](https://www.govinfo.gov/link/plaw/101/public/12), Apr. 10, 1989, [103 Stat. 29](https://www.govinfo.gov/link/statute/103/29); [Pub. L. 115–91, div. A, title X, § 1097(h)(2)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1624](https://www.govinfo.gov/link/statute/131/1624).)*

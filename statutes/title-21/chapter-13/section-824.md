@@ -3,9 +3,10 @@ title: "Section 824 - Denial, revocation, or suspension of registration"
 usc_title: 21
 usc_section: "824"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 824"
-generated_at: "2026-03-30T02:54:54.293Z"
+generated_at: "2026-11-23T21:25:56.234Z"
+status: "active"
 ---
 
 # § 824. Denial, revocation, or suspension of registration
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:54.293Z"
 - **(h)** The Attorney General may issue an order to prohibit, conditionally or unconditionally, and permanently or for such period as the Attorney General may determine, any person from being registered under this subchapter to manufacture, distribute, or dispense a controlled substance or a list I chemical, if the Attorney General finds that—
   - **(1)** such person meets or has met any of the conditions for suspension or revocation of registration under subsection (a); and
   - **(2)** such person has a history of prior suspensions or revocations of registration.
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 304](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1255](https://www.govinfo.gov/link/statute/84/1255); [Pub. L. 93–281, § 4](https://www.govinfo.gov/link/plaw/93/public/281), May 14, 1974, [88 Stat. 125](https://www.govinfo.gov/link/statute/88/125); [Pub. L. 98–473, title II](https://www.govinfo.gov/link/plaw/98/public/473), §§ 304, 512, 513, Oct. 12, 1984, [98 Stat. 2050](https://www.govinfo.gov/link/statute/98/2050), 2073; [Pub. L. 100–93, § 8(j)](https://www.govinfo.gov/link/plaw/100/public/93), Aug. 18, 1987, [101 Stat. 695](https://www.govinfo.gov/link/statute/101/695); [Pub. L. 103–200, § 3(d)](https://www.govinfo.gov/link/plaw/103/public/200), Dec. 17, 1993, [107 Stat. 2337](https://www.govinfo.gov/link/statute/107/2337); [Pub. L. 103–322, title XXXIII, § 330024(e)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2151](https://www.govinfo.gov/link/statute/108/2151); [Pub. L. 106–310, div. B, title XXXV, § 3502(b)](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1227](https://www.govinfo.gov/link/statute/114/1227); [Pub. L. 114–145, § 2(a)(2)](https://www.govinfo.gov/link/plaw/114/public/145), (b), Apr. 19, 2016, [130 Stat. 354](https://www.govinfo.gov/link/statute/130/354); [Pub. L. 117–36, § 2](https://www.govinfo.gov/link/plaw/117/public/36), Aug. 6, 2021, [135 Stat. 328](https://www.govinfo.gov/link/statute/135/328); [Pub. L. 117–215, title I, § 103(b)(1)(C)](https://www.govinfo.gov/link/plaw/117/public/215), Dec. 2, 2022, [136 Stat. 2263](https://www.govinfo.gov/link/statute/136/2263); [Pub. L. 117–328, div. FF, title I, § 1262(b)(1)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5682](https://www.govinfo.gov/link/statute/136/5682); [Pub. L. 119–26, § 4(2)(B)(i)](https://www.govinfo.gov/link/plaw/119/public/26), (ii), July 16, 2025, [139 Stat. 416](https://www.govinfo.gov/link/statute/139/416).)*

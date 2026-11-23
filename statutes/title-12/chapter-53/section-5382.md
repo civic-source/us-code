@@ -3,9 +3,10 @@ title: "Section 5382 - Judicial review"
 usc_title: 12
 usc_section: "5382"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5382"
-generated_at: "2026-03-30T02:53:53.532Z"
+generated_at: "2026-11-23T21:25:37.247Z"
+status: "active"
 ---
 
 # § 5382. Judicial review
@@ -88,3 +89,7 @@ generated_at: "2026-03-30T02:53:53.532Z"
     - **(B)** ways to make prompt corrective action a more effective tool to resolve the insured depository institutions at the least possible long-term cost to the Deposit Insurance Fund.
   - **(3)** Not later than 1 year after July 21, 2010 , the Comptroller General shall submit a report to the Council on the results of the study conducted under this subsection.
   - **(4)** Not later than 6 months after the date of receipt of the report from the Comptroller General under paragraph (3), the Council shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on actions taken in response to the report, including any recommendations made to the Federal primary financial regulatory agencies under section 5330 of this title .
+
+## Source Credit
+
+*([Pub. L. 111–203, title II, § 202](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1444](https://www.govinfo.gov/link/statute/124/1444).)*

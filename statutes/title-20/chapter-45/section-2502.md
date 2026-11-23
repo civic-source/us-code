@@ -3,9 +3,10 @@ title: "Section 2502 - Funding requirements"
 usc_title: 20
 usc_section: "2502"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 2502"
-generated_at: "2026-03-30T02:54:48.176Z"
+generated_at: "2026-11-23T21:25:47.392Z"
+status: "active"
 ---
 
 # § 2502. Funding requirements
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:48.176Z"
     - **(A)** Of the remainder of the sums appropriated, the Secretary of Education shall allot to each State $100,000, and of the remainder of the sums appropriated the Secretary of Education shall allot to each State an amount which bears the same ratio to such sums for such year as the population of the State bears to the population of all States, for purposes of carrying out section 2501 of this title .
     - **(B)** For purposes of this paragraph, the term “State” means any of the several States, the District of Columbia, and the Commonwealth of Puerto Rico.
 - **(c)** The Federal share of funds allotted to States under this subchapter shall not exceed 80 per centum of the total cost of the planning undertaken pursuant to this subchapter.
+
+## Source Credit
+
+*([Pub. L. 94–482, title III, § 332](https://www.govinfo.gov/link/plaw/94/public/482), Oct. 12, 1976, [90 Stat. 2222](https://www.govinfo.gov/link/statute/90/2222); [Pub. L. 95–207, § 16](https://www.govinfo.gov/link/plaw/95/public/207), Dec. 13, 1977, [91 Stat. 1474](https://www.govinfo.gov/link/statute/91/1474); [Pub. L. 96–88, title III, § 301(a)(1)](https://www.govinfo.gov/link/plaw/96/public/88), title V, § 507, Oct. 17, 1979, [93 Stat. 677](https://www.govinfo.gov/link/statute/93/677), 692.)*

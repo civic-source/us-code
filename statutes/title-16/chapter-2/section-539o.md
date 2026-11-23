@@ -3,9 +3,10 @@ title: "Section 539o - Ancient Bristlecone Pine Forest"
 usc_title: 16
 usc_section: "539o"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 539o"
-generated_at: "2026-03-30T02:54:22.866Z"
+generated_at: "2026-11-23T21:25:51.661Z"
+status: "active"
 ---
 
 # § 539o. Ancient Bristlecone Pine Forest
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:22.866Z"
     - **(A)** all forms of entry, appropriation or disposal under the public land laws;
     - **(B)** location, entry, and patent under the mining laws; and
     - **(C)** disposition under all laws relating to mineral and geothermal leasing or mineral materials.
+
+## Source Credit
+
+*([Pub. L. 111–11, title I, § 1808](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1060](https://www.govinfo.gov/link/statute/123/1060).)*

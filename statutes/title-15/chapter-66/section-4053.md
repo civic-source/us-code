@@ -3,9 +3,10 @@ title: "Section 4053 - Barter arrangements"
 usc_title: 15
 usc_section: "4053"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4053"
-generated_at: "2026-03-30T02:54:08.197Z"
+generated_at: "2026-11-23T21:25:39.987Z"
+status: "active"
 ---
 
 # § 4053. Barter arrangements
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.197Z"
 - **(c)** In the case of any petroleum, petroleum products, or other materials vital to the national interest, which are acquired under subsection (b), nothing in this section shall be construed to render inapplicable the provisions of any law then in effect which apply to the storage, distribution, or use of such petroleum, petroleum products, or other materials vital to the national interest.
 - **(d)** The President shall take steps to ensure that, in making any barter described in subsection (a) or (b)(1) or any purchase authorized by subsection (b)(2), existing export markets for agricultural commodities operating on conventional business terms are safeguarded from displacement by the barter described in subsection (a), (b)(1), or (b)(2), as the case may be. In addition, the President shall ensure that any such barter is consistent with the international obligations of the United States, including the General Agreement on Tariffs and Trade.
 - **(e)** The Secretary of Energy shall report to the Congress on the effect on energy security and on domestic energy supplies of any action taken under this section which results in the acquisition by the Government of petroleum or petroleum products. Such report shall be submitted to the Congress not later than 90 days after such acquisition.
+
+## Source Credit
+
+*([Pub. L. 99–64, title II, § 203](https://www.govinfo.gov/link/plaw/99/public/64), July 12, 1985, [99 Stat. 158](https://www.govinfo.gov/link/statute/99/158).)*

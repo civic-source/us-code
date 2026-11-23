@@ -3,9 +3,10 @@ title: "Section 9805 - Statement of purpose"
 usc_title: 42
 usc_section: "9805"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9805"
-generated_at: "2026-03-30T02:56:11.365Z"
+generated_at: "2026-11-23T21:26:33.277Z"
+status: "active"
 ---
 
 # § 9805. Statement of purpose
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.365Z"
   - **(3)** hold forth the prospect of continuing to have such impact after the termination of financial assistance under this part; and
   - **(4)** provide financial and other assistance to start, expand, or locate enterprises in or near the area to be served so as to provide employment and ownership opportunities for residents of such areas, including those who are disadvantaged in the labor market because of their limited speaking, reading, and writing abilities in the English language.
 
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 616](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 490](https://www.govinfo.gov/link/statute/95/490).)*

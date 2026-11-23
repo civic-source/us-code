@@ -3,9 +3,10 @@ title: "Section 1510 - Judicial enforcement"
 usc_title: 19
 usc_section: "1510"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1510"
-generated_at: "2026-03-30T02:54:24.639Z"
+generated_at: "2026-11-23T21:25:42.719Z"
+status: "active"
 ---
 
 # § 1510. Judicial enforcement
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:24.639Z"
     - **(B)** instruct the appropriate customs officers to withhold delivery of merchandise imported directly or indirectly by that person or for his account.
   - **(2)** If any person remains in contempt for more than one year after the date on which the Secretary issues instructions under paragraph (1)(B) with respect to that person, the appropriate customs officers shall cause all merchandise held in customs custody pursuant to such instructions to be sold at public auction or otherwise disposed of under the customs laws.
   - **(3)** The sanctions which may be imposed under paragraphs (1) and (2) are in addition to any punishment which may be imposed by the court for contempt.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 510, [46 Stat. 733](https://www.govinfo.gov/link/statute/46/733); [Pub. L. 91–271, title III, § 301](https://www.govinfo.gov/link/plaw/91/public/271) (o), June 2, 1970, [84 Stat. 290](https://www.govinfo.gov/link/statute/84/290); [Pub. L. 95–410, title I, § 106](https://www.govinfo.gov/link/plaw/95/public/410), Oct. 3, 1978, [92 Stat. 891](https://www.govinfo.gov/link/statute/92/891); [Pub. L. 103–182, title VI, § 616](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2179](https://www.govinfo.gov/link/statute/107/2179).)*

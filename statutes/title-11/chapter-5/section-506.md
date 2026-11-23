@@ -3,9 +3,10 @@ title: "Section 506 - Determination of secured status"
 usc_title: 11
 usc_section: "506"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 506"
-generated_at: "2026-03-30T02:53:53.876Z"
+generated_at: "2026-11-23T21:25:34.909Z"
+status: "active"
 ---
 
 # § 506. Determination of secured status
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:53.876Z"
 - **(d)** To the extent that a lien secures a claim against the debtor that is not an allowed secured claim, such lien is void, unless—
   - **(1)** such claim was disallowed only under section 502(b)(5) or 502(e) of this title; or
   - **(2)** such claim is not an allowed secured claim due only to the failure of any entity to file a proof of such claim under section 501 of this title .
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2583](https://www.govinfo.gov/link/statute/92/2583); [Pub. L. 98–353, title III, § 448](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 374](https://www.govinfo.gov/link/statute/98/374); [Pub. L. 109–8, title III, § 327](https://www.govinfo.gov/link/plaw/109/public/8), title VII, § 712(d), Apr. 20, 2005, [119 Stat. 99](https://www.govinfo.gov/link/statute/119/99), 128.)*

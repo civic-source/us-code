@@ -3,9 +3,10 @@ title: "Section 826a - Attorney General report on drug shortages"
 usc_title: 21
 usc_section: "826a"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 826a"
-generated_at: "2026-03-30T02:54:54.293Z"
+generated_at: "2026-11-23T21:25:56.236Z"
+status: "active"
 ---
 
 # § 826a. Attorney General report on drug shortages
@@ -15,3 +16,7 @@ Not later than 6 months after July 9, 2012 , and annually thereafter, the Attorn
   - **(1)** identifies the number of requests received under section 826(h) of this title (as added by section 1005 of this Act), the average review time for such requests, the number of requests granted and denied under such section, and, for each of the requests denied under such section, the basis for such denial;
   - **(2)** describes the coordination between the Drug Enforcement Administration and Food and Drug Administration on efforts to prevent or alleviate drug shortages; and
   - **(3)** identifies drugs containing a controlled substance subject to section 826 of this title when such a drug is determined by the Secretary to be in shortage.
+
+## Source Credit
+
+*([Pub. L. 112–144, title X, § 1006](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 1105](https://www.govinfo.gov/link/statute/126/1105).)*

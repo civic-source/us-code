@@ -3,9 +3,10 @@ title: "Section 6301 - Definition"
 usc_title: 40
 usc_section: "6301"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 6301"
-generated_at: "2026-03-30T02:55:43.382Z"
+generated_at: "2026-11-23T21:26:14.883Z"
+status: "active"
 ---
 
 # § 6301. Definition
@@ -23,3 +24,64 @@ In this chapter, the term “specified buildings and grounds” means—
       - **(iii)** to the line of the face of the south curb of Constitution Avenue Northwest, between Ninth Street Northwest and Seventh Street Northwest; to the line of the face of the west curb of Seventh Street Northwest, between Constitution Avenue Northwest and Madison Drive Northwest; to the line of the face of the north curb of Madison Drive Northwest, between Seventh Street Northwest and the line of the face of the east side of the east retaining wall of the Ninth Street Expressway Northwest; and to the line of the face of the east side of the east retaining wall of the Ninth Street Expressway Northwest, between Madison Drive Northwest and Constitution Avenue Northwest.
     - **(B)** All other buildings, service roads, walks, and other areas within the exterior boundaries of any real estate or land or interest in land (including temporary use) that the National Gallery of Art acquires and that the Director of the National Gallery of Art determines to be necessary for the adequate protection of individuals or property in the National Gallery of Art and suitable for administration as a part of the National Gallery of Art.
   - **(3)** The John F. Kennedy Center for the Performing Arts, which extends to the line of the west face of the west retaining walls and curbs of the Inner Loop Freeway on the east, the north face of the north retaining walls and curbs of the Theodore Roosevelt Bridge approaches on the south, the east face of the east retaining walls and curbs of Rock Creek Parkway on the west, and the south curbs of New Hampshire Avenue and F Street on the north, as generally depicted on the map entitled “Transfer of John F. Kennedy Center for the Performing Arts”, numbered 844/82563 and dated April 20, 1994 (as amended by the map entitled “Transfer of John F. Kennedy Center for the Performing Arts”, numbered 844/82563A and dated May 22, 1997 ), which shall be on file and available for public inspection in the office of the National Capital Region, National Park Service.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 6301 | 40:193v. | Oct. 24, 1951, ch. 559, § 9 , 65 Stat. 635 ; Pub. L. 88–391, § 3 , Aug. 1, 1964 , 78 Stat. 366 ; Pub. L. 90–376, § 3 , July 5, 1968 , 82 Stat. 286 ; Pub. L. 102–336 , Aug. 7, 1992 , 106 Stat. 864 ; Pub. L. 103–279, § 9(c) , July 21, 1994 , 108 Stat. 1417 ; Pub. L. 105–95, § 4 (related to section 9(3) of the Act of October 24, 1951 ), Nov. 19, 1997 , 111 Stat. 2149 . |
+
+
+Smithsonian institution
+
+Smithsonian buildings and grounds on the national mall
+
+National zoological park
+
+Other smithsonian buildings and grounds
+
+National gallery of art
+
+John f. kennedy center for the performing arts
+
+Historical and Revision Notes
+
+6301
+
+Oct. 24, 1951, ch. 559, § 9
+
+65 Stat. 635
+
+Pub. L. 88–391, § 3
+
+Aug. 1, 1964
+
+78 Stat. 366
+
+Pub. L. 90–376, § 3
+
+July 5, 1968
+
+82 Stat. 286
+
+Pub. L. 102–336
+
+Aug. 7, 1992
+
+106 Stat. 864
+
+Pub. L. 103–279, § 9(c)
+
+July 21, 1994
+
+108 Stat. 1417
+
+Pub. L. 105–95, § 4
+
+section 9(3) of the Act of October 24, 1951
+
+Nov. 19, 1997
+
+111 Stat. 2149
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1184](https://www.govinfo.gov/link/statute/116/1184); [Pub. L. 115–31, div. G, title IV, § 426](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 500](https://www.govinfo.gov/link/statute/131/500).)*

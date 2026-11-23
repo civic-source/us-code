@@ -3,9 +3,10 @@ title: "Section 16164 - Time limitation for use of entitlement"
 usc_title: 10
 usc_section: "16164"
 chapter: 1607
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 16164"
-generated_at: "2026-03-30T02:53:38.278Z"
+generated_at: "2026-11-23T21:25:33.074Z"
+status: "active"
 ---
 
 # § 16164. Time limitation for use of entitlement
@@ -18,3 +19,13 @@ generated_at: "2026-03-30T02:53:38.278Z"
 - **(b)**
   - **(1)** In the case of a person who is separated from the Ready Reserve because of a disability which was not the result of the individual’s own willful misconduct incurred on or after the date on which such person became entitled to educational assistance under this chapter, such person’s entitlement to educational assistance expires at the end of the 10-year period beginning on the date on which such person became entitled to such assistance.
   - **(2)** The provisions of subsections (d) and (f) of section 3031 of title 38 shall apply to the period of entitlement prescribed by paragraph (1).
+
+Duration of Entitlement
+
+Duration of Entitlement for Disabled Members
+
+“The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [ Oct. 14, 2008 ] and shall apply to a person described in section 16163 of title 10 , United States Code, who—
+
+## Source Credit
+
+*(Added [Pub. L. 108–375, div. A, title V, § 527(a)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1892](https://www.govinfo.gov/link/statute/118/1892); amended [Pub. L. 110–181, div. A, title V, § 530(a)(1)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 110](https://www.govinfo.gov/link/statute/122/110); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title V, § 546(a), Oct. 14, 2008, [122 Stat. 4466](https://www.govinfo.gov/link/statute/122/4466).)*

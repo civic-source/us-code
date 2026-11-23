@@ -3,9 +3,10 @@ title: "Section 161 - Investigatory powers of Board"
 usc_title: 29
 usc_section: "161"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 161"
-generated_at: "2026-03-30T02:55:18.678Z"
+generated_at: "2026-11-23T21:26:02.168Z"
+status: "active"
 ---
 
 # § 161. Investigatory powers of Board
@@ -18,3 +19,7 @@ For the purpose of all hearings and investigations, which, in the opinion of the
   - **(4)** Complaints, orders, and other process and papers of the Board, its member, agent, or agency, may be served either personally or by registered or certified mail or by telegraph or by leaving a copy thereof at the principal office or place of business of the person required to be served. The verified return by the individual so serving the same setting forth the manner of such service shall be proof of the same, and the return post office receipt or telegraph receipt therefor when registered or certified and mailed or when telegraphed as aforesaid shall be proof of service of the same. Witnesses summoned before the Board, its member, agent, or agency, shall be paid the same fees and mileage that are paid witnesses in the courts of the United States, and witnesses whose depositions are taken and the persons taking the same shall severally be entitled to the same fees as are paid for like services in the courts of the United States.
   - **(5)** All process of any court to which application may be made under this subchapter may be served in the judicial district wherein the defendant or other person required to be served resides or may be found.
   - **(6)** The several departments and agencies of the Government, when directed by the President, shall furnish the Board, upon its request, all records, papers, and information in their possession relating to any matter before the Board.
+
+## Source Credit
+
+*(July 5, 1935, ch. 372, § 11, [49 Stat. 455](https://www.govinfo.gov/link/statute/49/455); June 23, 1947, ch. 120, title I, § 101, [61 Stat. 150](https://www.govinfo.gov/link/statute/61/150); June 25, 1948, ch. 646, § 32(b), [62 Stat. 991](https://www.govinfo.gov/link/statute/62/991); May 24, 1949, ch. 139, § 127, [63 Stat. 107](https://www.govinfo.gov/link/statute/63/107); [Pub. L. 91–452, title II, § 234](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 930](https://www.govinfo.gov/link/statute/84/930); [Pub. L. 86–507, § 1(57)](https://www.govinfo.gov/link/plaw/86/public/507), June 11, 1960, as added [Pub. L. 96–245](https://www.govinfo.gov/link/plaw/96/public/245), May 21, 1980, [94 Stat. 347](https://www.govinfo.gov/link/statute/94/347).)*

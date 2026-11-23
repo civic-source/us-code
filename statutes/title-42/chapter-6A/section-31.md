@@ -3,9 +3,10 @@ title: "Section 31 - Identification and initial health evaluation of screening-e
 usc_title: 42
 usc_section: "31"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 31"
-generated_at: "2026-03-30T02:56:10.851Z"
+generated_at: "2026-11-23T21:26:30.963Z"
+status: "active"
 ---
 
 # § 300mm–31. Identification and initial health evaluation of screening-eligible and certified-eligible WTC survivors
@@ -54,3 +55,15 @@ generated_at: "2026-03-30T02:56:10.851Z"
   - **(1)** In the case of a screening-eligible WTC survivor, the WTC Program shall provide for an initial health evaluation to determine if the survivor has a WTC-related health condition and is eligible for followup monitoring and treatment benefits under the WTC Program. Initial health evaluation protocols under section 300mm–4(a)(2)(A)(ii) of this title shall be subject to approval by the WTC Program Administrator.
   - **(2)** The initial health evaluation described in paragraph (1) shall be provided through a Clinical Center of Excellence with respect to the individual involved.
   - **(3)** Benefits for an initial health evaluation under this subpart for a screening-eligible WTC survivor shall consist only of a single medical initial health evaluation consistent with initial health evaluation protocols described in paragraph (1). Nothing in this paragraph shall be construed as preventing such an individual from seeking additional medical initial health evaluations at the expense of the individual.
+
+(aa) based on the application submitted, the individual does not meet the eligibility criteria; or
+
+(bb) the numerical limitation on certifications of certified-eligible WTC survivors set forth in paragraph (3) has been met; and
+
+(aa) Currently identified survivors In the case of an individual who is described in subparagraph (A)(i), the WTC Program Administrator shall provide the written documentation under subclause (I) not later than July 1, 2011 .
+
+(bb) Other members In the case of another individual who is determined under clause (i) and consistent with paragraph (3) to be a screening-eligible WTC survivor, the WTC Program Administrator shall provide the written documentation under subclause (I) at the time of such determination.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXXIII, § 3321, as added [Pub. L. 111–347, title I, § 101](https://www.govinfo.gov/link/plaw/111/public/347), Jan. 2, 2011, [124 Stat. 3648](https://www.govinfo.gov/link/statute/124/3648); amended [Pub. L. 114–113, div. O, title III, § 302(f)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3000](https://www.govinfo.gov/link/statute/129/3000); [Pub. L. 116–59, div. B, title VI, § 1602(b)](https://www.govinfo.gov/link/plaw/116/public/59), Sept. 27, 2019, [133 Stat. 1107](https://www.govinfo.gov/link/statute/133/1107); [Pub. L. 117–328, div. FF, title VII, § 7701(b)(2)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5965](https://www.govinfo.gov/link/statute/136/5965); [Pub. L. 118–31, div. A, title XVIII, § 1851(c)(2)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 708](https://www.govinfo.gov/link/statute/137/708).)*

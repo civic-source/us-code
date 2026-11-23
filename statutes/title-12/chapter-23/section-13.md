@@ -3,9 +3,10 @@ title: "Section 13 - Authority to issue obligations to cover guarantee losses of
 usc_title: 12
 usc_section: "13"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 13"
-generated_at: "2026-03-30T02:53:53.484Z"
+generated_at: "2026-11-23T21:25:37.095Z"
+status: "active"
 ---
 
 # § 2279aa–13. Authority to issue obligations to cover guarantee losses of Corporation
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:53.484Z"
   - **(1)** For the purpose of purchasing obligations of the Corporation, the Secretary of the Treasury may use as a public debt transaction the proceeds from the sale by the Secretary of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under such chapter are extended to include such purchases.
   - **(2)** All purchases and sales by the Secretary of the Treasury of obligations issued by the Corporation under this section shall be treated as public debt transactions of the United States.
 - **(f)** There is authorized to be appropriated to the Secretary of the Treasury $1,500,000,000, without fiscal year limitation, to carry out the purposes of this subchapter.
+
+## Source Credit
+
+*([Pub. L. 92–181, title VIII, § 8](https://www.govinfo.gov/link/plaw/92/public/181).13, as added [Pub. L. 100–233, title VII, § 702](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1704](https://www.govinfo.gov/link/statute/101/1704); amended [Pub. L. 104–105, title I, § 109(b)(2)](https://www.govinfo.gov/link/plaw/104/public/105), Feb. 10, 1996, [110 Stat. 165](https://www.govinfo.gov/link/statute/110/165).)*

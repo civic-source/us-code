@@ -3,9 +3,10 @@ title: "Section 8461 - Authority of the Office of Personnel Management"
 usc_title: 5
 usc_section: "8461"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8461"
-generated_at: "2026-03-30T02:52:56.061Z"
+generated_at: "2026-11-23T21:25:23.432Z"
+status: "active"
 ---
 
 # § 8461. Authority of the Office of Personnel Management
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:52:56.061Z"
     - **(B)** is a participant in a retirement system established for employees described in section 2105(c);
     - **(C)** moves, without a break in service of more than 1 year, to a position that is not described by section 2105(c); and
     - **(D)** is not eligible to make an election under section 8347(q),
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 570](https://www.govinfo.gov/link/statute/100/570); amended [Pub. L. 99–556, title I, § 102](https://www.govinfo.gov/link/plaw/99/public/556), Oct. 27, 1986, [100 Stat. 3131](https://www.govinfo.gov/link/statute/100/3131); [Pub. L. 101–508, title VII, § 7202(k)(2)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–339](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–378, § 2(71)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1355](https://www.govinfo.gov/link/statute/106/1355); [Pub. L. 104–106, div. A, title X, § 1043(a)(2)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 434](https://www.govinfo.gov/link/statute/110/434); [Pub. L. 107–107, div. A, title XI, § 1131(b)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1242](https://www.govinfo.gov/link/statute/115/1242).)*

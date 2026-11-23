@@ -3,9 +3,10 @@ title: "Section 1846 - Congressional oversight"
 usc_title: 50
 usc_section: "1846"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1846"
-generated_at: "2026-03-30T02:56:26.210Z"
+generated_at: "2026-11-23T21:26:38.941Z"
+status: "active"
 ---
 
 # § 1846. Congressional oversight
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:26.210Z"
     - **(A)** the number of such subjects who are United States persons, reported to the nearest band of 500, starting with 0–499; and
     - **(B)** of the number of United States persons described in subparagraph (A), the number of persons whose information acquired pursuant to such order was reviewed or accessed by a Federal officer, employee, or agent, reported to the nearest band of 500, starting with 0–499.
 - **(c)** Each report under subsection (b) shall be submitted in unclassified form, to the extent consistent with national security. Not later than 7 days after the date on which the Attorney General submits such a report, the Attorney General shall make the report publicly available, or, if the Attorney General determines that the report cannot be made publicly available consistent with national security, the Attorney General may make publicly available an unclassified summary of the report or a redacted version of the report.
+
+## Source Credit
+
+*([Pub. L. 95–511, title IV, § 406](https://www.govinfo.gov/link/plaw/95/public/511), as added [Pub. L. 105–272, title VI, § 601(2)](https://www.govinfo.gov/link/plaw/105/public/272), Oct. 20, 1998, [112 Stat. 2410](https://www.govinfo.gov/link/statute/112/2410); amended [Pub. L. 109–177, title I](https://www.govinfo.gov/link/plaw/109/public/177), §§ 109(b), 128(b), Mar. 9, 2006, [120 Stat. 204](https://www.govinfo.gov/link/statute/120/204), 229; [Pub. L. 114–23, title VI, § 605(c)](https://www.govinfo.gov/link/plaw/114/public/23), June 2, 2015, [129 Stat. 298](https://www.govinfo.gov/link/statute/129/298); [Pub. L. 115–118, title I, § 107(b)](https://www.govinfo.gov/link/plaw/115/public/118), title II, § 205(a)(3), Jan. 19, 2018, [132 Stat. 14](https://www.govinfo.gov/link/statute/132/14), 21.)*

@@ -3,12 +3,17 @@ title: "Section 1013 - Basis of property included in inventory"
 usc_title: 26
 usc_section: "1013"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1013"
-generated_at: "2026-03-30T02:55:27.754Z"
+generated_at: "2026-11-23T21:26:06.453Z"
+status: "active"
 ---
 
 # § 1013. Basis of property included in inventory
 
 If the property should have been included in the last inventory, the basis shall be the last inventory value thereof.
 
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 296.)*

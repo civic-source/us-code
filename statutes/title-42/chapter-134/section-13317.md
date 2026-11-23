@@ -3,9 +3,10 @@ title: "Section 13317 - Renewable energy production incentive"
 usc_title: 42
 usc_section: "13317"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13317"
-generated_at: "2026-03-30T02:56:11.441Z"
+generated_at: "2026-11-23T21:26:33.593Z"
+status: "active"
 ---
 
 # § 13317. Renewable energy production incentive
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.441Z"
   - **(2)** The amount of the payment made to any person under this subsection as provided in paragraph (1) shall be adjusted for inflation for each fiscal year beginning after calendar year 1993 in the same manner as provided in the provisions of section 29(d)(2)(B) of title 26 , 1 1 See References in Text note below. except that in applying such provisions the calendar year 1993 shall be substituted for calendar year 1979.
 - **(f)** No payment may be made under this section to any facility after September 30, 2026 , and no payment may be made under this section to any facility after a payment has been made with respect to such facility for a 10-fiscal year period.
 - **(g)** There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2006 through 2026, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XII, § 1212](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2969](https://www.govinfo.gov/link/statute/106/2969); [Pub. L. 109–58, title II, § 202](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 651](https://www.govinfo.gov/link/statute/119/651); [Pub. L. 116–260, div. Z, title III, § 3006(c)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2513](https://www.govinfo.gov/link/statute/134/2513).)*

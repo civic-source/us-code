@@ -3,9 +3,10 @@ title: "Section 1615 - Requirements relating to provision of benefits based on c
 usc_title: 8
 usc_section: "1615"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1615"
-generated_at: "2026-03-30T02:53:10.506Z"
+generated_at: "2026-11-23T21:25:25.212Z"
+status: "active"
 ---
 
 # § 1615. Requirements relating to provision of benefits based on citizenship, alienage, or immigration status under the Richard B. Russell National School Lunch Act, the Child Nutrition Act of 1966, and certain other Acts
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:10.506Z"
     - **(B)** Section 4 of the Agriculture and Consumer Protection Act of 1973 ( 7 U.S.C. 612c note).
     - **(C)** The Emergency Food Assistance Act of 1983 [7 U.S.C 7501 et seq.].
     - **(D)** The food distribution program on Indian reservations established under section 2013(b) of title 7 .
+
+## Source Credit
+
+*([Pub. L. 104–193, title VII, § 742](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2307](https://www.govinfo.gov/link/statute/110/2307); [Pub. L. 106–78, title VII, § 752(b)(6)](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1169](https://www.govinfo.gov/link/statute/113/1169).)*

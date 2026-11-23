@@ -3,9 +3,10 @@ title: "Section 1360 - Investigation before trade negotiations"
 usc_title: 19
 usc_section: "1360"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1360"
-generated_at: "2026-03-30T02:54:24.631Z"
+generated_at: "2026-11-23T21:25:42.699Z"
+status: "active"
 ---
 
 # § 1360. Investigation before trade negotiations
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:24.631Z"
 - **(b)**
   - **(1)** In the course of any investigation pursuant to this section the Commission shall hold hearings and give reasonable public notice thereof, and shall afford reasonable opportunity for parties interested to be present, to produce evidence, and to be heard at such hearings. If in the course of any such investigation the Commission shall find with respect to any article on the list upon which a tariff concession has been granted that an increase in duty or additional import restriction is required to avoid serious injury to the domestic industry producing like or directly competitive articles, the Commission shall promptly institute an investigation with respect to that article pursuant to section 1364 of this title .
   - **(2)** In each such investigation the Commission shall, to the extent practicable and without excluding other factors, ascertain for the last calendar year preceding the investigation the average invoice price on a country-of-origin basis (converted into currency of the United States in accordance with the provisions of section 5151 of title 31 ) at which the foreign article was sold for export to the United States, and the average prices at which the like or directly competitive domestic articles were sold at wholesale in the principal markets of the United States. The Commission shall also, to the extent practicable, estimate for each article on the list the maximum increase in annual imports which may occur without causing serious injury to the domestic industry producing like or directly competitive articles. The Commission shall request the executive departments and agencies for information in their possession concerning prices and other economic data from the principal supplier foreign country of each such article.
+
+## Source Credit
+
+*(June 16, 1951, ch. 141, § 3(a), (b), [65 Stat. 72](https://www.govinfo.gov/link/statute/65/72); [Pub. L. 85–686, § 4](https://www.govinfo.gov/link/plaw/85/public/686), Aug. 20, 1958, [72 Stat. 675](https://www.govinfo.gov/link/statute/72/675); [Pub. L. 93–618, title I, § 171(b)](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 2009](https://www.govinfo.gov/link/statute/88/2009).)*

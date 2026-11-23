@@ -3,9 +3,10 @@ title: "Section 1099 - Health care enrollment system and payment options"
 usc_title: 10
 usc_section: "1099"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1099"
-generated_at: "2026-03-30T02:53:38.108Z"
+generated_at: "2026-11-23T21:25:32.422Z"
+status: "active"
 ---
 
 # § 1099. Health care enrollment system and payment options
@@ -25,3 +26,21 @@ generated_at: "2026-03-30T02:53:38.108Z"
   - **(1)** A member or former member of the uniformed services, or a dependent thereof, eligible for medical care and dental care under section 1074(b) or 1076 of this title shall pay a premium for coverage under this chapter.
   - **(2)** To the maximum extent practicable, a premium owed by a member, former member, or dependent under paragraph (1) shall be withheld from the retired, retainer, or equivalent pay of the member, former member, or dependent. In all other cases, a premium shall be paid in a frequency and method determined by the Secretary.
 - **(e)** The Secretary of Defense, after consultation with the other administering Secretaries, shall prescribe regulations to carry out this section.
+
+Establishment of System
+
+Description of System
+
+Health Care Plans Available Under System
+
+Payment Options
+
+Regulations
+
+Application
+
+Grace period during first year.—
+
+## Source Credit
+
+*(Added [Pub. L. 99–661, div. A, title VII, § 701(a)(1)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3896](https://www.govinfo.gov/link/statute/100/3896); amended [Pub. L. 114–328, div. A, title VII, § 701(d)(1)](https://www.govinfo.gov/link/plaw/114/public/328), (j)(1)(E), Dec. 23, 2016, [130 Stat. 2186](https://www.govinfo.gov/link/statute/130/2186), 2192; [Pub. L. 116–92, div. A, title VII, § 702(a)](https://www.govinfo.gov/link/plaw/116/public/92), (b)(2)(B), Dec. 20, 2019, [133 Stat. 1436](https://www.govinfo.gov/link/statute/133/1436).)*

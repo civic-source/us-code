@@ -3,9 +3,10 @@ title: "Section 4743 - Approving States for participation"
 usc_title: 12
 usc_section: "4743"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4743"
-generated_at: "2026-03-30T02:53:53.518Z"
+generated_at: "2026-11-23T21:25:37.218Z"
+status: "active"
 ---
 
 # § 4743. Approving States for participation
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:53.518Z"
     - **(C)** A State that is approved for participation in accordance with this subsection may continue to implement the program 2 2 So in original. Probably should be capitalized. utilizing the reserve funds accumulated under the State program.
 - **(d)** The Fund shall not approve a State for participation in the Program until at least $50,000,000 has been appropriated to the Fund (subject to an appropriations Act), without fiscal year limitation, for the purpose of making reimbursements pursuant to section 4747 of this title and otherwise carrying out this subchapter.
 - **(e)** If a State that has been approved to be a participating State wishes to amend its form of participation agreement and continue to be a participating State, such State shall submit such amendment for review by the Fund in accordance with subsection (b)(4). Any such amendment shall become effective only after it has been approved by the Fund.
+
+## Source Credit
+
+*([Pub. L. 103–325, title II, § 253](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2205](https://www.govinfo.gov/link/statute/108/2205).)*

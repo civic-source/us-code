@@ -3,9 +3,10 @@ title: "Section 3221 - Extension at 1890 land-grant colleges, including Tuskegee
 usc_title: 7
 usc_section: "3221"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3221"
-generated_at: "2026-03-30T02:53:42.398Z"
+generated_at: "2026-11-23T21:25:28.324Z"
+status: "active"
 ---
 
 # § 3221. Extension at 1890 land-grant colleges, including Tuskegee University
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:53:42.398Z"
   - **(5)** To the maximum extent practicable, the Secretary shall consider a plan of work submitted under this section to satisfy other appropriate Federal reporting requirements.
 - **(e)** If any portion of the moneys received by any eligible institution for the support and maintenance of extension work as provided in this section shall by any action or contingency be diminished or lost or be misapplied, it shall be replaced by such institution and until so replaced no subsequent appropriation shall be apportioned or paid to such institution. No portion of such moneys shall be applied, directly or indirectly, to the purchase, erection, preservation, or repair of any building or buildings, or the purchase or rental of land, or in college course teaching, lectures in college, or any other purpose not specified in this section. It shall be the duty of such institution, annually, on or about the first day of January, to make to the Governor of the State in which it is located a full and detailed report of its operations in extension work, including a detailed statement of receipts and expenditures from all sources for this purpose, a copy of which report shall be sent to the Secretary.
 - **(f)** To the extent that the official mail consists of correspondence, bulletins, and reports for furtherance of the purposes of this section, it shall be transmitted in the mails of the United States. Such items may be mailed from a principal place of business of each eligible institution or from an established subunit of such institution.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1444](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 1007](https://www.govinfo.gov/link/statute/91/1007); [Pub. L. 97–98, title XIV, § 1431](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1310](https://www.govinfo.gov/link/statute/95/1310); [Pub. L. 99–198, title XIV, § 1415](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1549](https://www.govinfo.gov/link/statute/99/1549); [Pub. L. 104–127, title VIII, § 883(b)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1176](https://www.govinfo.gov/link/statute/110/1176); [Pub. L. 105–185, title I, § 103(f)(3)(A)](https://www.govinfo.gov/link/plaw/105/public/185), title II, §§ 225(a), 226(c)(2), June 23, 1998, [112 Stat. 528](https://www.govinfo.gov/link/statute/112/528), 540, 543; [Pub. L. 107–171, title VII, § 7203(a)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 438](https://www.govinfo.gov/link/statute/116/438); [Pub. L. 110–234, title VII](https://www.govinfo.gov/link/plaw/110/public/234), §§ 7121, 7403(c), 7404(b)(2)(A)(i), 7511(c)(12), May 22, 2008, [122 Stat. 1222](https://www.govinfo.gov/link/statute/122/1222), 1246, 1247, 1268; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, §§ 7121, 7403(c), 7404(b)(2)(A)(i), 7511(c)(12), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1983, 2008, 2029; [Pub. L. 115–334, title VII](https://www.govinfo.gov/link/plaw/115/public/334), §§ 7114, 7115(a), 7612(c)(1), Dec. 20, 2018, [132 Stat. 4785](https://www.govinfo.gov/link/statute/132/4785), 4832.)*

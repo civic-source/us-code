@@ -3,9 +3,10 @@ title: "Section 9612 - Claims procedure"
 usc_title: 42
 usc_section: "9612"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9612"
-generated_at: "2026-03-30T02:56:11.358Z"
+generated_at: "2026-11-23T21:26:33.256Z"
+status: "active"
 ---
 
 # § 9612. Claims procedure
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.358Z"
     - **(B)** against an incompetent person until the earlier of the date on which such person’s incompetency ends or the date on which a legal representative is duly appointed for such incompetent person.
 - **(e)** Regardless of any State statutory or common law to the contrary, no person who asserts a claim against the Fund pursuant to this subchapter shall be deemed or held to have waived any other claim not covered or assertable against the Fund under this subchapter arising from the same incident, transaction, or set of circumstances, nor to have split a cause of action. Further, no person asserting a claim against the Fund pursuant to this subchapter shall as a result of any determination of a question of fact or law made in connection with that claim be deemed or held to be collaterally estopped from raising such question in connection with any other claim not covered or assertable against the Fund under this subchapter arising from the same incident, transaction, or set of circumstances.
 - **(f)** Where the President has paid out of the Fund for any response costs or any costs specified under section 9611(c)(1) or (2) of this title, no other claim may be paid out of the Fund for the same costs.
+
+## Source Credit
+
+*([Pub. L. 96–510, title I, § 112](https://www.govinfo.gov/link/plaw/96/public/510), Dec. 11, 1980, [94 Stat. 2792](https://www.govinfo.gov/link/statute/94/2792); [Pub. L. 99–499, title I](https://www.govinfo.gov/link/plaw/99/public/499), §§ 109(a)(3), 112, Oct. 17, 1986, [100 Stat. 1633](https://www.govinfo.gov/link/statute/100/1633), 1646.)*

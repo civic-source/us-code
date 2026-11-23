@@ -3,9 +3,10 @@ title: "Section 1365b - Biometric entry and exit data system"
 usc_title: 8
 usc_section: "1365b"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1365b"
-generated_at: "2026-03-30T02:53:10.497Z"
+generated_at: "2026-11-23T21:25:25.183Z"
+status: "active"
 ---
 
 # § 1365b. Biometric entry and exit data system
@@ -112,3 +113,7 @@ generated_at: "2026-03-30T02:53:10.497Z"
       - **(iii)** providing applicants with clear and consistent eligibility guidelines.
   - **(4)** Not later than 1 year after December 17, 2004 , the Secretary shall submit to Congress a report describing the Department’s progress on the development and implementation of the registered traveler program.
 - **(l)** There are authorized to be appropriated to the Secretary, for each of the fiscal years 2005 through 2009, such sums as may be necessary to carry out the provisions of this section.
+
+## Source Credit
+
+*([Pub. L. 108–458, title VII, § 7208](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3817](https://www.govinfo.gov/link/statute/118/3817); [Pub. L. 110–161, div. E, title V, § 565](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2091](https://www.govinfo.gov/link/statute/121/2091).)*

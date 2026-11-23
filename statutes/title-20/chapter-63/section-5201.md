@@ -3,9 +3,10 @@ title: "Section 5201 - Purposes"
 usc_title: 20
 usc_section: "5201"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 5201"
-generated_at: "2026-03-30T02:54:48.186Z"
+generated_at: "2026-11-23T21:25:47.461Z"
+status: "active"
 ---
 
 # § 5201. Purposes
@@ -20,3 +21,7 @@ The purposes of this chapter are—
   - **(6)** to complete Dwight David Eisenhower’s crusade to liberate the people’s of Europe from oppression;
   - **(7)** to deepen and expand relationships with European nations developing democracy and self-determination; and
   - **(8)** to honor President Dwight D. Eisenhower on the occasion of the centennial of his birth through permanent endowment of an established fellowship program, the Eisenhower Exchange Fellowships, to increase educational opportunities for young leaders in preparation for and enhancement of their professional careers, and advancement of peace through international understanding.
+
+## Source Credit
+
+*([Pub. L. 101–454, § 2](https://www.govinfo.gov/link/plaw/101/public/454), Oct. 24, 1990, [104 Stat. 1063](https://www.govinfo.gov/link/statute/104/1063).)*

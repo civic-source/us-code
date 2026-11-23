@@ -3,9 +3,10 @@ title: "Section 4555 - Withholding of State income tax by Chief Administrative O
 usc_title: 2
 usc_section: "4555"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 4555"
-generated_at: "2026-03-30T02:53:04.832Z"
+generated_at: "2026-11-23T21:25:21.307Z"
+status: "active"
 ---
 
 # § 4555. Withholding of State income tax by Chief Administrative Officer of House
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:04.832Z"
     - **(C)** when an individual first becomes a Member, the request shall be effective on the day such individual takes the oath of office as a Member, if the individual makes the request at such time.
   - **(2)** A Member or employee may change the State designated by such Member or employee for purposes of having withholdings made, and may request that the withholdings be remitted in accordance with such change. A Member or employee also may revoke any request of such Member or employee for withholding. Any change in the State designated or revocation is effective on the first day of the month in which the request or the revocation is processed by the Chief Administrative Officer, but in no event later than on the first day of the first month beginning after the day on which such request or revocation is received by the Chief Administrative Officer.
 - **(e)** This section and section 4556 of this title impose no duty, burden, or requirement upon the United States, the House of Representatives, or any officer or employee of the United States, except as specifically provided in this section and section 4556 of this title . Nothing in this section and section 4556 of this title shall be deemed to consent to the application of any provision of law which has the effect of subjecting the United States, the House of Representatives, or any officer or employee of the United States to any penalty or liability by reason of the provisions of this section and section 4556 of this title . Any paper, form, document, or any other item filed with, or submitted to, the Chief Administrative Officer under this section and section 4556 of this title is considered to be a paper of the House of Representatives within the provisions of the Rules of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 94–440, title II, § 101](https://www.govinfo.gov/link/plaw/94/public/440), Oct. 1, 1976, [90 Stat. 1448](https://www.govinfo.gov/link/statute/90/1448); [Pub. L. 104–186, title II, § 204(4)](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1730](https://www.govinfo.gov/link/statute/110/1730).)*

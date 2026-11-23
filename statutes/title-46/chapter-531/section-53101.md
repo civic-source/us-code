@@ -3,9 +3,10 @@ title: "Section 53101 - Definitions"
 usc_title: 46
 usc_section: "53101"
 chapter: 531
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 53101"
-generated_at: "2026-03-30T02:56:15.572Z"
+generated_at: "2026-11-23T21:26:37.247Z"
+status: "active"
 ---
 
 # § 53101. Definitions
@@ -36,3 +37,125 @@ In this chapter:
     - **(C)** If any person that is not a citizen of the United States has authority to direct or participate in directing a trustee for a trust in matters involving any ownership or operation of the vessel that may adversely affect the interests of the United States or in removing a trustee for a trust without cause, either directly or indirectly through the control of another person, the trust is not qualified under this paragraph unless the trust instrument provides that persons who are not citizens of the United States may not hold more than 25 percent of the aggregate authority to so direct or remove a trustee.
     - **(D)** This paragraph shall not be considered to prohibit a person who is not a citizen of the United States from holding more than 25 percent of the beneficial interest in a trust.
   - **(12)** The term “United States-documented vessel” means a vessel documented under chapter 121 of this title.
+
+Bulk cargo
+
+Contractor
+
+Fleet
+
+Foreign commerce
+
+Participating fleet vessel
+
+Person
+
+Product tank vessel
+
+Secretary
+
+Tank vessel
+
+United states
+
+United states citizen trust
+
+United states-documented vessel
+
+“The amendments made by—
+
+In General
+
+Repeals and Conforming Amendments
+
+Other Provisions
+
+Authority to Enter Agreements.—
+
+In general
+
+Requirement of agreement
+
+Existing operating agreements
+
+Terms of Agreement
+
+Exception to Requirement to Perform Work in the United States
+
+Reimbursement.—
+
+In general
+
+Amount
+
+Determination of fair and reasonable costs
+
+Notification Requirements.—
+
+Notification by contractor
+
+Certification by secretary.—
+
+Regulations.—
+
+Requirement to issue notice of proposed rule making
+
+Interim rules
+
+Qualified Maintenance or Repair Defined
+
+Annual Report
+
+Authorization of Appropriations
+
+Request for Proposals
+
+Qualification
+
+Requirement
+
+Priority
+
+In General
+
+Amount of Assistance
+
+Construction in United States
+
+Documentation of Vessel.—
+
+Contract requirement
+
+Restriction on coastwise endorsement
+
+Authority to reflag not applicable
+
+Emergency Preparedness Agreement.—
+
+In general
+
+Treatment as contractor
+
+Additional Terms
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*(Added [Pub. L. 108–136, div. C, title XXXV, § 3531(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1803](https://www.govinfo.gov/link/statute/117/1803); amended [Pub. L. 112–239, div. C, title XXXV, § 3508(a)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2223](https://www.govinfo.gov/link/statute/126/2223).)*

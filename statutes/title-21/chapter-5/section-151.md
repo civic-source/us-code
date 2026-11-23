@@ -3,12 +3,17 @@ title: "Section 151 - Preparation and sale of worthless or harmful products for 
 usc_title: 21
 usc_section: "151"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 151"
-generated_at: "2026-03-30T02:54:54.215Z"
+generated_at: "2026-11-23T21:25:55.962Z"
+status: "active"
 ---
 
 # § 151. Preparation and sale of worthless or harmful products for domestic animals prohibited; preparation to be in compliance with rules at licensed establishments
 
 It shall be unlawful for any person, firm, or corporation to prepare, sell, barter, or exchange in the District of Columbia, or in the Territories, or in any place under the jurisdiction of the United States, or to ship or deliver for shipment in or from the United States, the District of Columbia, any territory of the United States, or any place under the jurisdiction of the United States, any worthless, contaminated, dangerous, or harmful virus, serum, toxin, or analogous product intended for use in the treatment of domestic animals, and no person, firm, or corporation shall prepare, sell, barter, exchange, or ship as aforesaid any virus, serum, toxin, or analogous product manufactured within the United States and intended for use in the treatment of domestic animals, unless and until the said virus, serum, toxin, or analogous product shall have been prepared, under and in compliance with regulations prescribed by the Secretary of Agriculture, at an establishment holding an unsuspended and unrevoked license issued by the Secretary of Agriculture as hereinafter authorized.
 
+
+## Source Credit
+
+*(Mar. 4, 1913, ch. 145, § 1 (part), [37 Stat. 832](https://www.govinfo.gov/link/statute/37/832); [Pub. L. 99–198, title XVII, § 1768(a)](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1654](https://www.govinfo.gov/link/statute/99/1654).)*

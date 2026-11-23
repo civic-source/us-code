@@ -3,9 +3,10 @@ title: "Section 2702 - Membership; chairman; meetings"
 usc_title: 44
 usc_section: "2702"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 2702"
-generated_at: "2026-03-30T02:55:56.294Z"
+generated_at: "2026-11-23T21:26:18.415Z"
+status: "active"
 ---
 
 # § 2702. Membership; chairman; meetings
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:56.294Z"
 - **(d)**
   - **(1)** No later than thirty days after the date on which the first session of the 102d Congress begins, the Committee shall hold its first meeting. Thereafter, the Committee shall meet semiannually or at the call of a majority of its members.
   - **(2)** Seven members of the Committee shall constitute a quorum, but a lesser number may hold hearings.
+
+## Source Credit
+
+*(Added [Pub. L. 101–509, title IV, § 1(d)(1)](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1417](https://www.govinfo.gov/link/statute/104/1417).)*

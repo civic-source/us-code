@@ -3,9 +3,10 @@ title: "Section 4c - Expanding access to forensics for victims of interpersonal 
 usc_title: 42
 usc_section: "4c"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4c"
-generated_at: "2026-03-30T02:56:10.730Z"
+generated_at: "2026-11-23T21:26:30.427Z"
+status: "active"
 ---
 
 # § 280g–4c. Expanding access to forensics for victims of interpersonal violence
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:10.730Z"
 - **(d)** Not later than 1 year after March 15, 2022 , and annually thereafter, the Office for Victims of Crime of the Department of Justice, the Centers for Disease Control and Prevention, the Health Resources and Services Administration, the Indian Health Service, the Office on Women’s Health of the Department of Health and Human Services, and the Office on Violence Against Women of the Department of Justice shall jointly submit to the Secretary a report on the need for, throughout the States, Indian Tribes, and territories—
   - **(1)** access to generalist medical forensic services, evidence collection, and documentation that aids in meeting the needs of health care patients and improves future law enforcement investigation and prosecution; and
   - **(2)** data for research to support the response to and prevention of interpersonal violence, improved ability of health care providers to adequately respond to patients who exhibit signs of victimization, and address the unique needs of Tribal communities.
+
+## Source Credit
+
+*([Pub. L. 117–103, div. W, title V, § 507](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 879](https://www.govinfo.gov/link/statute/136/879).)*

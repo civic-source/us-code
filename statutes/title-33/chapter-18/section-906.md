@@ -3,9 +3,10 @@ title: "Section 906 - Compensation"
 usc_title: 33
 usc_section: "906"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 906"
-generated_at: "2026-03-30T02:55:41.076Z"
+generated_at: "2026-11-23T21:26:11.348Z"
+status: "active"
 ---
 
 # § 906. Compensation
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:41.076Z"
   - **(2)** Compensation for total disability shall not be less than 50 per centum of the applicable national average weekly wage determined by the Secretary under paragraph (3), except that if the employee’s average weekly wages as computed under section 910 of this title are less than 50 per centum of such national average weekly wage, he shall receive his average weekly wages as compensation for total disability.
   - **(3)** As soon as practicable after June 30 of each year, and in any event prior to October 1 of such year, the Secretary shall determine the national average weekly wage for the three consecutive calendar quarters ending June 30. Such determination shall be the applicable national average weekly wage for the period beginning with October 1 of that year and ending with September 30 of the next year. The initial determination under this paragraph shall be made as soon as practicable after October 27, 1972 .
 - **(c)** Determinations under subsection (b)(3) with respect to a period shall apply to employees or survivors currently receiving compensation for permanent total disability or death benefits during such period, as well as those newly awarded compensation during such period.
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 509, § 6, [44 Stat. 1426](https://www.govinfo.gov/link/statute/44/1426); June 24, 1948, ch. 623, § 1, [62 Stat. 602](https://www.govinfo.gov/link/statute/62/602); July 26, 1956, ch. 735, § 1, [70 Stat. 654](https://www.govinfo.gov/link/statute/70/654); [Pub. L. 87–87, § 1](https://www.govinfo.gov/link/plaw/87/public/87), July 14, 1961, [75 Stat. 203](https://www.govinfo.gov/link/statute/75/203); [Pub. L. 92–576](https://www.govinfo.gov/link/plaw/92/public/576), §§ 4, 5(a), Oct. 27, 1972, [86 Stat. 1252](https://www.govinfo.gov/link/statute/86/1252); [Pub. L. 98–426, § 6](https://www.govinfo.gov/link/plaw/98/public/426), Sept. 28, 1984, [98 Stat. 1641](https://www.govinfo.gov/link/statute/98/1641).)*

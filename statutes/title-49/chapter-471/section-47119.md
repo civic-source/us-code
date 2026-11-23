@@ -3,9 +3,10 @@ title: "Section 47119 - Terminal development costs"
 usc_title: 49
 usc_section: "47119"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 47119"
-generated_at: "2026-03-30T02:56:19.404Z"
+generated_at: "2026-11-23T21:26:40.980Z"
+status: "active"
 ---
 
 # § 47119. Terminal development costs
@@ -49,3 +50,98 @@ generated_at: "2026-03-30T02:56:19.404Z"
 - **(d)** With respect to a project at a commercial service airport which annually has less than 0.05 percent of the total enplanements in the United States, the Secretary may approve the use of the amounts described in subsection (a) notwithstanding the requirements of sections 47107(a)(17), 47112, and 47113.
 - **(e)** For the purpose of determining whether an amount may be distributed for a fiscal year from the discretionary fund in accordance with subsection (b)(2)(A) to a commercial service airport, the Secretary shall make the determination of whether or not a public airport is a commercial service airport on the basis of the number of passenger boardings and type of air service at the public airport in the calendar year that includes the first day of such fiscal year or the preceding calendar year, whichever is more beneficial to the airport.
 - **(f)** The Secretary may distribute not more than $30,000,000 from the discretionary fund established under section 47115 for terminal development projects at a nonhub airport or a small hub airport that is eligible to receive discretionary funds under section 47108(e)(3). 1
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 47119(a) | 49 App.:2212(b)(4). | Sept. 3, 1982 , Pub. L. 97–248, § 513(b)(4) , 96 Stat. 690 ; Dec. 30, 1987 , Pub. L. 100–223, § 106(b)(5)(B) , 101 Stat. 1498 . |
+| 47119(b) | 49 App.:2212(b)(2). | Sept. 3, 1982 , Pub. L. 97–248, § 513(b)(2) , 96 Stat. 690 ; Dec. 30, 1987 , Pub. L. 100–223 , §§ 106(b)(5)(A), 111(a)(1), 101 Stat. 1498 , 1503. |
+|  | 49 App.:2212(b)(3). | Sept. 3, 1982 , Pub. L. 97–248, § 513(b)(3) , 96 Stat. 690 . |
+
+| Pub. L . 103–429 | Col 2 | Col 3 |
+| --- | --- | --- |
+| 47119(b) | 49 App.:2212(b)(2). | Sept. 3, 1982 , Pub. L. 97–248, § 513(b)(2) , as amended May 26, 1994 , Pub. L. 103–260, § 107 , 108 Stat. 700 . |
+
+
+Terminal Development Projects.—
+
+In general
+
+Project in revenue-producing areas and nonrevenue-producing parking lots
+
+Lactation areas
+
+Universal changing stations
+
+Repaying Borrowed Money.—
+
+Terminal development costs incurred after june 30, 1970 , and before july 12, 1976
+
+Terminal development costs incurred between january 1, 1992 , and october 31, 1992
+
+Terminal development costs at primary airports
+
+Conditions for grant
+
+Applicability of certain limitations
+
+Availability of Amounts
+
+Nonhub Airports
+
+Determination of Passenger Boarding at Commercial Service Airports
+
+Historical and Revision Notes
+
+Pub. L
+
+47119(a)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 513(b)(4)
+
+96 Stat. 690
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 106(b)(5)(B)
+
+101 Stat. 1498
+
+47119(b)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 513(b)(2)
+
+96 Stat. 690
+
+Dec. 30, 1987
+
+Pub. L. 100–223
+
+101 Stat. 1498
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 513(b)(3)
+
+96 Stat. 690
+
+Pub. L
+
+47119(b)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 513(b)(2)
+
+May 26, 1994
+
+Pub. L. 103–260, § 107
+
+108 Stat. 700
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1274](https://www.govinfo.gov/link/statute/108/1274); [Pub. L. 103–305, title I, § 117](https://www.govinfo.gov/link/plaw/103/public/305), Aug. 23, 1994, [108 Stat. 1579](https://www.govinfo.gov/link/statute/108/1579); [Pub. L. 103–429, § 6(69)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4387](https://www.govinfo.gov/link/statute/108/4387); [Pub. L. 106–181, title I, § 152(b)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 87](https://www.govinfo.gov/link/statute/114/87); [Pub. L. 108–176, title I](https://www.govinfo.gov/link/plaw/108/public/176), §§ 149(d), 166, Dec. 12, 2003, [117 Stat. 2505](https://www.govinfo.gov/link/statute/117/2505), 2514; [Pub. L. 112–95, title I, § 152(b)](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 33](https://www.govinfo.gov/link/statute/126/33); [Pub. L. 115–254, div. B, title I](https://www.govinfo.gov/link/plaw/115/public/254), §§ 132(b), 138, Oct. 5, 2018, [132 Stat. 3206](https://www.govinfo.gov/link/statute/132/3206), 3210; [Pub. L. 118–63, title VII](https://www.govinfo.gov/link/plaw/118/public/63), §§ 718, 774(b), May 16, 2024, [138 Stat. 1260](https://www.govinfo.gov/link/statute/138/1260), 1298.)*

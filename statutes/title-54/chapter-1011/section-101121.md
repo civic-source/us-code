@@ -3,9 +3,10 @@ title: "Section 101121 - Second Century Endowment for the National Park Service"
 usc_title: 54
 usc_section: "101121"
 chapter: 1011
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "54 U.S.C. § 101121"
-generated_at: "2026-03-30T02:56:28.414Z"
+generated_at: "2026-11-23T21:26:42.763Z"
+status: "active"
 ---
 
 # § 101121. Second Century Endowment for the National Park Service
@@ -25,3 +26,15 @@ generated_at: "2026-03-30T02:56:28.414Z"
   - **(1)** a statement of the amounts deposited in the Endowment during the fiscal year;
   - **(2)** the amount of the balance remaining in the Endowment at the end of the fiscal year; and
   - **(3)** a description of the sums and purposes of the expenditures made from the Endowment for the fiscal year.
+
+Second Century Endowment
+
+Funds for the endowment
+
+Use of funds.—
+
+Summary
+
+## Source Credit
+
+*(Added [Pub. L. 114–289, title II, § 202(a)](https://www.govinfo.gov/link/plaw/114/public/289), Dec. 16, 2016, [130 Stat. 1485](https://www.govinfo.gov/link/statute/130/1485).)*

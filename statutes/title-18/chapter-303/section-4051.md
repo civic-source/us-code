@@ -3,9 +3,10 @@ title: "Section 4051 - Treatment of primary caretaker parents and other individu
 usc_title: 18
 usc_section: "4051"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 4051"
-generated_at: "2026-03-30T02:54:16.527Z"
+generated_at: "2026-11-23T21:25:44.237Z"
+status: "active"
 ---
 
 # § 4051. Treatment of primary caretaker parents and other individuals
@@ -51,3 +52,39 @@ generated_at: "2026-03-30T02:54:16.527Z"
     - **(B)** providing that no visitor is prohibited from visiting a prisoner due to the visitor’s use of sanitary products.
   - **(3)** The Director shall ensure that all prisoners have access to a gynecologist as appropriate.
   - **(4)** Nothing in paragraph (1) shall be construed to affect the requirements under the Prison Rape Elimination Act of 2003 ( 34 U.S.C. 30301 et seq.).
+
+Definitions
+
+Geographic Placement.—
+
+Establishment of office
+
+Placement of prisoners
+
+Prohibition on Placement of Pregnant Prisoners or Prisoners in Post-partum Recovery in Segregated Housing Units.—
+
+Placement in segregated housing units
+
+Restrictions
+
+Intake and Assessments
+
+Parenting Classes
+
+Trauma Screening
+
+Family Needs Training
+
+Inmate Health.—
+
+Health care access
+
+Hygienic products
+
+Gynecologist access
+
+Relation to other laws
+
+## Source Credit
+
+*(Added [Pub. L. 117–103, div. W, title X, § 1001(b)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 912](https://www.govinfo.gov/link/statute/136/912).)*

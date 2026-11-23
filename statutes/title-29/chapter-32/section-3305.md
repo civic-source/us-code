@@ -3,9 +3,10 @@ title: "Section 3305 - Programs for corrections education and other institutiona
 usc_title: 29
 usc_section: "3305"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3305"
-generated_at: "2026-03-30T02:55:18.762Z"
+generated_at: "2026-11-23T21:26:02.354Z"
+status: "active"
 ---
 
 # § 3305. Programs for corrections education and other institutionalized individuals
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:18.762Z"
     - **(E)** detention center; or
     - **(F)** halfway house, community-based rehabilitation center, or any other similar institution designed for the confinement or rehabilitation of criminal offenders.
   - **(2)** The term “criminal offender” means any individual who is charged with or convicted of any criminal offense.
+
+## Source Credit
+
+*([Pub. L. 113–128, title II, § 225](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1617](https://www.govinfo.gov/link/statute/128/1617).)*

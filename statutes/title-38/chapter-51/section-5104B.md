@@ -3,9 +3,10 @@ title: "Section 5104B - Higher-level review by the agency of original jurisdicti
 usc_title: 38
 usc_section: "5104B"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 5104B"
-generated_at: "2026-03-30T02:55:53.519Z"
+generated_at: "2026-11-23T21:26:16.814Z"
+status: "active"
 ---
 
 # § 5104B. Higher-level review by the agency of original jurisdiction
@@ -23,3 +24,17 @@ generated_at: "2026-03-30T02:55:53.519Z"
   - **(2)** noting the options available to the claimant to have the evidence described in paragraph (1), if any, considered by the Department.
 - **(d)** The evidentiary record before the higher-level adjudicator shall be limited to the evidence of record in the agency of original jurisdiction decision being reviewed.
 - **(e)** A review of the decision of the agency of original jurisdiction by a higher-level adjudicator within the agency of original jurisdiction shall be de novo.
+
+In General
+
+Time and Manner of Request
+
+Decision
+
+Evidentiary Record for Review
+
+De Novo Review
+
+## Source Credit
+
+*(Added [Pub. L. 115–55, § 2(g)(1)](https://www.govinfo.gov/link/plaw/115/public/55), Aug. 23, 2017, [131 Stat. 1107](https://www.govinfo.gov/link/statute/131/1107); amended [Pub. L. 117–168, title VIII, § 807(a)(3)](https://www.govinfo.gov/link/plaw/117/public/168), Aug. 10, 2022, [136 Stat. 1806](https://www.govinfo.gov/link/statute/136/1806).)*

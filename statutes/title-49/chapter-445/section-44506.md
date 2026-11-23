@@ -3,9 +3,10 @@ title: "Section 44506 - Air traffic controllers"
 usc_title: 49
 usc_section: "44506"
 chapter: 445
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44506"
-generated_at: "2026-03-30T02:56:19.381Z"
+generated_at: "2026-11-23T21:26:40.886Z"
+status: "active"
 ---
 
 # § 44506. Air traffic controllers
@@ -76,3 +77,168 @@ generated_at: "2026-03-30T02:56:19.381Z"
   - **(4)** The Administrator may establish a program to provide an original appointment to a position as an air traffic controller for individuals who—
     - **(A)** are on terminal leave pending retirement from active duty military service or have retired from active duty military service within 5 years of applying for the appointment; and
     - **(B)** have held either an air traffic certification or air traffic control facility rating according to Administration standards within 5 years of applying for the appointment.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44506(a), (b) | 49 App.:1353 (note). | Nov. 3, 1988 , Pub. L. 100–591, § 8(a) –(c), 102 Stat. 3015 ; Nov. 17, 1988 , Pub. L. 100–685 , §§ 601–603, 102 Stat. 4102 . |
+| 44506(c) | 49 App.:1348a. | Oct. 6, 1992 , Pub. L. 102–388, § 362 , 106 Stat. 1560 . |
+| 44506(d) | 49 App.:1348 (note). | Oct. 31, 1992 , Pub. L. 102–581, § 120 , 106 Stat. 4884 . |
+
+
+Research on Effect of Automation on Performance
+
+Research on Human Factor Aspects of Automation
+
+Collegiate Training Initiative
+
+Air Traffic Control Specialist Qualification Training.—
+
+Appointment of air traffic control specialists
+
+Compensation and benefits
+
+Report
+
+Additional appointments
+
+Reimbursement for travel expenses associated with certifications.—
+
+In general
+
+Treatment of reimbursements
+
+Staffing Report
+
+Hiring of Certain Air Traffic Control Specialists.—
+
+Consideration of applicants.—
+
+Ensuring selection of most qualified applicants
+
+Consideration of additional applicants.—
+
+In general
+
+Pool 1
+
+(aa) an appropriate recommendation; or
+
+(bb) an endorsement certifying that the individual would have met the requirements in effect as of December 31, 2013 , for an appropriate recommendation;
+
+Pool 2
+
+Special rule.—
+
+In general
+
+Biographical assessments
+
+Covered facility defined
+
+Use of biographical assessments.—
+
+Biographical assessments
+
+Reconsideration of applicants disqualified on basis of biographical assessments.—
+
+In general
+
+Waiver of age restriction
+
+Maximum entry age for experienced controllers
+
+Retired military controllers
+
+Historical and Revision Notes
+
+44506(a), (b)
+
+Nov. 3, 1988
+
+Pub. L. 100–591, § 8(a)
+
+102 Stat. 3015
+
+Nov. 17, 1988
+
+Pub. L. 100–685
+
+102 Stat. 4102
+
+44506(c)
+
+Oct. 6, 1992
+
+Pub. L. 102–388, § 362
+
+106 Stat. 1560
+
+44506(d)
+
+Oct. 31, 1992
+
+Pub. L. 102–581, § 120
+
+106 Stat. 4884
+
+In General
+
+Cloud-based Visual Database and Software System
+
+TSS Upgrades
+
+Mobile TSS
+
+Collaboration
+
+Review of the Air Traffic Skills Assessment
+
+DOT Inspector General Report
+
+Maximum Hiring
+
+Transportation Research Board Assessment.—
+
+Review
+
+Report
+
+Consultation
+
+Required Implementation of Identified Staffing Model.—
+
+Use of staffing model
+
+Briefing
+
+Revised Staffing Standards
+
+Interim Adoption of Collaborative Resource Workgroup Models.—
+
+In general
+
+Revisions to the controller workforce plan
+
+Effective date
+
+Controller Training
+
+“As soon as practicable, and not later than 1 year after the date of enactment of this Act [ Feb. 14, 2012 ], the Administrator of the Federal Aviation Administration shall—
+
+“Not later than 1 year after the date of enactment of this Act [ Feb. 14, 2012 ], the Administrator [of the Federal Aviation Administration] shall conduct a comprehensive review and evaluation of its Academy and facility training efforts. The Administrator shall—
+
+Annual Report
+
+Human Capital Workforce Strategy.—
+
+Development
+
+Completion date
+
+Report
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1178](https://www.govinfo.gov/link/statute/108/1178); [Pub. L. 104–287, § 5(9)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3389](https://www.govinfo.gov/link/statute/110/3389); [Pub. L. 112–95, title VI, § 607](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 114](https://www.govinfo.gov/link/statute/126/114); [Pub. L. 114–190, title II, § 2106(a)](https://www.govinfo.gov/link/plaw/114/public/190), July 15, 2016, [130 Stat. 620](https://www.govinfo.gov/link/statute/130/620); [Pub. L. 115–141, div. M, title I, § 108](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1047](https://www.govinfo.gov/link/statute/132/1047); [Pub. L. 116–92, div. A, title XI](https://www.govinfo.gov/link/plaw/116/public/92), §§ 1132, 1133, Dec. 20, 2019, [133 Stat. 1615](https://www.govinfo.gov/link/statute/133/1615), 1616; [Pub. L. 118–63, title IV](https://www.govinfo.gov/link/plaw/118/public/63), §§ 433, 437(e)(2), May 16, 2024, [138 Stat. 1174](https://www.govinfo.gov/link/statute/138/1174), 1178.)*

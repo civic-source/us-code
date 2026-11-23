@@ -3,9 +3,10 @@ title: "Section 838 - Art. 38. Duties of trial counsel and defense counsel"
 usc_title: 10
 usc_section: "838"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 838"
-generated_at: "2026-03-30T02:53:38.080Z"
+generated_at: "2026-11-23T21:25:32.334Z"
+status: "active"
 ---
 
 # § 838. Art. 38. Duties of trial counsel and defense counsel
@@ -29,3 +30,30 @@ generated_at: "2026-03-30T02:53:38.080Z"
   - **(3)** may take other action authorized by this chapter.
 - **(d)** An assistant trial counsel of a general court-martial may, under the direction of the trial counsel or when he is qualified to be a trial counsel as required by section 827 of this title (article 27), perform any duty imposed by law, regulation, or the custom of the service upon the trial counsel of the court. An assistant trial counsel of a special court-martial may perform any duty of the trial counsel.
 - **(e)** An assistant defense counsel of a general or special court-martial may perform any duty imposed by law, regulation, or the custom of the service upon counsel for the accused.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 838(a) 838(b) 838(c) | 50:613(a). 50:613(b). 50:613(c). | May 5, 1950, ch. 169, § 1 (Art. 38), 64 Stat. 120 . |
+| 838(d) | 50:613(d). |  |
+| 838(e) | 50:613(e). |  |
+
+
+Historical and Revision Notes
+
+838(a)
+
+838(b)
+
+838(c)
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 120
+
+838(d)
+
+838(e)
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 50; [Pub. L. 90–632, § 2(14)](https://www.govinfo.gov/link/plaw/90/public/632), Oct. 24, 1968, [82 Stat. 1338](https://www.govinfo.gov/link/statute/82/1338); [Pub. L. 97–81, § 4(b)](https://www.govinfo.gov/link/plaw/97/public/81), Nov. 20, 1981, [95 Stat. 1088](https://www.govinfo.gov/link/statute/95/1088); [Pub. L. 98–209, § 3(e)](https://www.govinfo.gov/link/plaw/98/public/209), Dec. 6, 1983, [97 Stat. 1394](https://www.govinfo.gov/link/statute/97/1394); [Pub. L. 104–106, div. A, title XV, § 1502(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 502](https://www.govinfo.gov/link/statute/110/502); [Pub. L. 106–65, div. A, title X, § 1067(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774); [Pub. L. 113–66, div. A, title XVII, § 1702(c)(3)(C)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 957](https://www.govinfo.gov/link/statute/127/957); [Pub. L. 114–328, div. E, title LVII, § 5221](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2909](https://www.govinfo.gov/link/statute/130/2909); [Pub. L. 115–91, div. A, title V, § 531(c)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1384](https://www.govinfo.gov/link/statute/131/1384).)*

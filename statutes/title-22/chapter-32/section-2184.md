@@ -3,9 +3,10 @@ title: "Section 2184 - Trade credit insurance program for Central America"
 usc_title: 22
 usc_section: "2184"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2184"
-generated_at: "2026-03-30T02:55:05.349Z"
+generated_at: "2026-11-23T21:25:58.445Z"
+status: "active"
 ---
 
 # § 2184. Trade credit insurance program for Central America
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.349Z"
 - **(f)** To the extent that any of the funds made available pursuant to subsection (d) are paid out for a claim arising out of liabilities guaranteed under subsection (a), amounts received after the date of such payment, with respect to such claim, shall be credited to the reserve fund referred to in subsection (b), shall be merged with the funds in such reserve, and shall be available for the purpose of payments by the Agency to the Bank for guarantees under subsection (a).
 - **(g)**
 - **(h)** The Export-Import Bank shall provide without reimbursement such administrative and technical assistance to the Agency as the Bank and the Agency deem appropriate to assist the Agency in carrying out this section.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 224, as added [Pub. L. 98–473, title I, § 101(1) [title V, § 541(a)]](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 1884](https://www.govinfo.gov/link/statute/98/1884), 1903; amended [Pub. L. 99–83, title III, § 314](https://www.govinfo.gov/link/plaw/99/public/83), Aug. 8, 1985, [99 Stat. 217](https://www.govinfo.gov/link/statute/99/217); [Pub. L. 101–167, title IV](https://www.govinfo.gov/link/plaw/101/public/167), Nov. 21, 1989, [103 Stat. 1216](https://www.govinfo.gov/link/statute/103/1216); [Pub. L. 101–179, title III, § 304(b)](https://www.govinfo.gov/link/plaw/101/public/179), Nov. 28, 1989, [103 Stat. 1313](https://www.govinfo.gov/link/statute/103/1313); [Pub. L. 101–513, title IV](https://www.govinfo.gov/link/plaw/101/public/513), Nov. 5, 1990, [104 Stat. 2001](https://www.govinfo.gov/link/statute/104/2001).)*

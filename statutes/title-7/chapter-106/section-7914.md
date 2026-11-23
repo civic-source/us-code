@@ -3,9 +3,10 @@ title: "Section 7914 - Availability of counter-cyclical payments"
 usc_title: 7
 usc_section: "7914"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7914"
-generated_at: "2026-03-30T02:53:42.465Z"
+generated_at: "2026-11-23T21:25:28.454Z"
+status: "active"
 ---
 
 # § 7914. Availability of counter-cyclical payments
@@ -70,3 +71,7 @@ generated_at: "2026-03-30T02:53:42.465Z"
         - **(I)** the actual counter-cyclical payment to be made to the producers for the covered commodity for that crop year; and
         - **(II)** the amount of the partial payment made to the producers under clause (i).
   - **(5)** The producers on a farm that receive a partial payment under this subsection for a crop year shall repay to the Secretary the amount, if any, by which the total of the partial payments exceed the actual counter-cyclical payment to be made for the covered commodity for that crop year.
+
+## Source Credit
+
+*([Pub. L. 107–171, title I, § 1104](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 150](https://www.govinfo.gov/link/statute/116/150).)*

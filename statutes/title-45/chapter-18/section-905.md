@@ -3,9 +3,10 @@ title: "Section 905 - Employee or employee-shipper ownership plan"
 usc_title: 45
 usc_section: "905"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 905"
-generated_at: "2026-03-30T02:55:56.558Z"
+generated_at: "2026-11-23T21:26:19.233Z"
+status: "active"
 ---
 
 # § 905. Employee or employee-shipper ownership plan
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:56.558Z"
     - **(A)** its most recent reports on the physical condition of the railroad; and
     - **(B)** traffic, revenue, marketing, and other data necessary to determine the amount of the acquisition cost of the railroad or portion of the railroad that would be required to continue rail transportation over the railroad line.
   - **(2)** Information provided pursuant to this subsection shall be used only for purposes of preparing a plan and shall not be disclosed to any competitor or, unless necessary in connection with the preparation of the plan, to any customer of the Milwaukee Railroad.
+
+## Source Credit
+
+*([Pub. L. 96–101, § 6](https://www.govinfo.gov/link/plaw/96/public/101), Nov. 4, 1979, [93 Stat. 738](https://www.govinfo.gov/link/statute/93/738).)*

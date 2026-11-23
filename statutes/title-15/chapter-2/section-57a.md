@@ -3,9 +3,10 @@ title: "Section 57a - Unfair or deceptive acts or practices rulemaking proceedin
 usc_title: 15
 usc_section: "57a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 57a"
-generated_at: "2026-03-30T02:54:08.027Z"
+generated_at: "2026-11-23T21:25:39.486Z"
+status: "active"
 ---
 
 # § 57a. Unfair or deceptive acts or practices rulemaking proceedings
@@ -79,3 +80,9 @@ generated_at: "2026-03-30T02:54:08.027Z"
     - **(A)** notice of any such meeting shall be included in any weekly calendar prepared by the Commission; and
     - **(B)** a verbatim record or a summary of any such meeting, or of any communication relating to any such meeting, shall be kept, made available to the public, and included in the rulemaking record.
 - **(j)** Not later than 60 days after May 28, 1980 , the Commission shall publish a proposed rule, and not later than 180 days after May 28, 1980 , the Commission shall promulgate a final rule, which shall prohibit any officer, employee, or agent of the Commission with any investigative responsibility or other responsibility relating to any rulemaking proceeding within any operating bureau of the Commission, from communicating or causing to be communicated to any Commissioner or to the personal staff of any Commissioner any fact which is relevant to the merits of such proceeding and which is not on the rulemaking record of such proceeding, unless such communication is made available to the public and is included in the rulemaking record. The provisions of this subsection shall not apply to any communication to the extent such communication is required for the disposition of ex parte matters as authorized by law.
+
+Definition
+
+## Source Credit
+
+*(Sept. 26, 1914, ch. 311, § 18, as added [Pub. L. 93–637, title II, § 202(a)](https://www.govinfo.gov/link/plaw/93/public/637), Jan. 4, 1975, [88 Stat. 2193](https://www.govinfo.gov/link/statute/88/2193); amended [Pub. L. 96–37, § 1(c)](https://www.govinfo.gov/link/plaw/96/public/37), July 23, 1979, [93 Stat. 95](https://www.govinfo.gov/link/statute/93/95); [Pub. L. 96–221, title VI, § 610(b)](https://www.govinfo.gov/link/plaw/96/public/221), Mar. 31, 1980, [94 Stat. 174](https://www.govinfo.gov/link/statute/94/174); [Pub. L. 96–252](https://www.govinfo.gov/link/plaw/96/public/252), §§ 7–11(a), 12, May 28, 1980, [94 Stat. 376–379](https://www.govinfo.gov/link/statute/94/376); [Pub. L. 100–86, title VII, § 715(c)](https://www.govinfo.gov/link/plaw/100/public/86), Aug. 10, 1987, [101 Stat. 655](https://www.govinfo.gov/link/statute/101/655); [Pub. L. 101–73, title VII, § 744(t)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 441](https://www.govinfo.gov/link/statute/103/441); [Pub. L. 102–242, title II, § 212(g)(2)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2302](https://www.govinfo.gov/link/statute/105/2302); [Pub. L. 102–550, title XVI, § 1604(a)(9)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4082](https://www.govinfo.gov/link/statute/106/4082); [Pub. L. 103–312](https://www.govinfo.gov/link/plaw/103/public/312), §§ 3, 5, Aug. 26, 1994, [108 Stat. 1691](https://www.govinfo.gov/link/statute/108/1691), 1692; [Pub. L. 103–437, § 5(a)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4582](https://www.govinfo.gov/link/statute/108/4582); [Pub. L. 109–351, title VII, § 725(g)](https://www.govinfo.gov/link/plaw/109/public/351), Oct. 13, 2006, [120 Stat. 2002](https://www.govinfo.gov/link/statute/120/2002); [Pub. L. 109–356, title I, § 123(g)](https://www.govinfo.gov/link/plaw/109/public/356), Oct. 16, 2006, [120 Stat. 2029](https://www.govinfo.gov/link/statute/120/2029); [Pub. L. 111–203, title X, § 1092](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2094](https://www.govinfo.gov/link/statute/124/2094).)*

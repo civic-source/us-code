@@ -3,9 +3,10 @@ title: "Section 3172 - Presidential Innovation Fellows Program advisory board"
 usc_title: 5
 usc_section: "3172"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3172"
-generated_at: "2026-03-30T02:52:56.001Z"
+generated_at: "2026-11-23T21:25:23.141Z"
+status: "active"
 ---
 
 # § 3172. Presidential Innovation Fellows Program advisory board
@@ -18,3 +19,13 @@ generated_at: "2026-03-30T02:52:56.001Z"
   - **(4)** the Assistant to the President and Chief Technology Officer; and
   - **(5)** other individuals as may be designated by the Administrator.
 - **(c)** The advisory board may consult with industry, academia, or nonprofits to ensure the Presidential Innovation Fellows Program is continually identifying opportunities to apply advanced skillsets and innovative practices in effective ways to address the Nation’s most significant challenges.
+
+In General
+
+Chair; Membership
+
+Consultation
+
+## Source Credit
+
+*(Added [Pub. L. 115–1, § 2(a)](https://www.govinfo.gov/link/plaw/115/public/1), Jan. 20, 2017, [131 Stat. 4](https://www.govinfo.gov/link/statute/131/4).)*

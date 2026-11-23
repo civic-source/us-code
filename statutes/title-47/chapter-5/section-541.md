@@ -3,9 +3,10 @@ title: "Section 541 - General franchise requirements"
 usc_title: 47
 usc_section: "541"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 541"
-generated_at: "2026-03-30T02:56:24.518Z"
+generated_at: "2026-11-23T21:26:36.033Z"
+status: "active"
 ---
 
 # § 541. General franchise requirements
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:56:24.518Z"
 - **(f)** No provision of this chapter shall be construed to—
   - **(1)** prohibit a local or municipal authority that is also, or is affiliated with, a franchising authority from operating as a multichannel video programming distributor in the franchise area, notwithstanding the granting of one or more franchises by such franchising authority; or
   - **(2)** require such local or municipal authority to secure a franchise to operate as a multichannel video programming distributor.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VI, § 621, as added [Pub. L. 98–549, § 2](https://www.govinfo.gov/link/plaw/98/public/549), Oct. 30, 1984, [98 Stat. 2786](https://www.govinfo.gov/link/statute/98/2786); amended [Pub. L. 102–385](https://www.govinfo.gov/link/plaw/102/public/385), §§ 7(a)(1), (b), (c), Oct. 5, 1992, [106 Stat. 1483](https://www.govinfo.gov/link/statute/106/1483); [Pub. L. 104–104, § 3(d)(3)](https://www.govinfo.gov/link/plaw/104/public/104), title III, § 303(a), Feb. 8, 1996, [110 Stat. 61](https://www.govinfo.gov/link/statute/110/61), 124.)*

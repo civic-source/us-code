@@ -3,9 +3,10 @@ title: "Section 51103 - General authority of Secretary of Transportation"
 usc_title: 46
 usc_section: "51103"
 chapter: 511
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 51103"
-generated_at: "2026-03-30T02:56:15.569Z"
+generated_at: "2026-11-23T21:26:37.224Z"
+status: "active"
 ---
 
 # § 51103. General authority of Secretary of Transportation
@@ -36,3 +37,69 @@ generated_at: "2026-03-30T02:56:15.569Z"
         - **(II)** subject to the approval of the Secretary, retain, sell, or otherwise dispose of the property in a manner consistent with applicable law; and
       - **(vi)** agrees to any additional terms the Secretary considers appropriate.
   - **(2)** The Secretary shall include in any conveyance under this subsection terms under which all right, title, and interest conveyed by the Secretary shall revert to the Government if the Secretary determines the property has been used other than as approved by the Secretary under paragraph (1)(B)(iii).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 51103(a) | 46 App.:1295 (last sentence cl. (1)). | June 29, 1936, ch. 858 , title XIII, § 1301 (last sentence cl. (1)), as added Pub. L. 96–453, § 2 , Oct. 15, 1980 , 94 Stat. 1997 ; Pub. L. 97–31, § 12(142)(A) , Aug. 6, 1981 , 95 Stat. 166 . |
+| 51103(b) | 46 App.:1295g(b). | June 29, 1936, ch. 858 , title XIII, § 1308(b)–(d), as added Pub. L. 96–453, § 2 , Oct. 15, 1980 , 94 Stat. 2007 . |
+| 51103(c) | 46 App.:1295g(c). |  |
+| 51103(d) | 46 App.:1295g(d). |  |
+
+
+Education and Training
+
+Property for Instructional Purposes
+
+In general
+
+Institutions
+
+Assistance From Other Agencies
+
+In general
+
+Detailing personnel
+
+Academy Personnel
+
+Donation for Historical Purposes.—
+
+In general
+
+Reversion
+
+Historical and Revision Notes
+
+51103(a)
+
+June 29, 1936, ch. 858
+
+Pub. L. 96–453, § 2
+
+Oct. 15, 1980
+
+94 Stat. 1997
+
+Pub. L. 97–31, § 12(142)(A)
+
+Aug. 6, 1981
+
+95 Stat. 166
+
+51103(b)
+
+June 29, 1936, ch. 858
+
+Pub. L. 96–453, § 2
+
+Oct. 15, 1980
+
+94 Stat. 2007
+
+51103(c)
+
+51103(d)
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(b)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1569](https://www.govinfo.gov/link/statute/120/1569); [Pub. L. 112–213, title IV, § 404](https://www.govinfo.gov/link/plaw/112/public/213), Dec. 20, 2012, [126 Stat. 1570](https://www.govinfo.gov/link/statute/126/1570); [Pub. L. 113–281, title III, § 302](https://www.govinfo.gov/link/plaw/113/public/281), Dec. 18, 2014, [128 Stat. 3042](https://www.govinfo.gov/link/statute/128/3042).)*

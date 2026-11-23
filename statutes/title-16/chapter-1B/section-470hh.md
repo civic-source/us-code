@@ -3,9 +3,10 @@ title: "Section 470hh - Confidentiality of information concerning nature and loc
 usc_title: 16
 usc_section: "470hh"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 470hh"
-generated_at: "2026-03-30T02:54:22.854Z"
+generated_at: "2026-11-23T21:25:51.640Z"
+status: "active"
 ---
 
 # § 470hh. Confidentiality of information concerning nature and location of archaeological resources
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:22.854Z"
   - **(1)** the specific site or area for which information is sought,
   - **(2)** the purpose for which such information is sought,
   - **(3)** a commitment by the Governor to adequately protect the confidentiality of such information to protect the resource from commercial exploitation,
+
+## Source Credit
+
+*([Pub. L. 96–95, § 9](https://www.govinfo.gov/link/plaw/96/public/95), Oct. 31, 1979, [93 Stat. 727](https://www.govinfo.gov/link/statute/93/727); [Pub. L. 113–287, § 5(d)(8)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3265](https://www.govinfo.gov/link/statute/128/3265).)*

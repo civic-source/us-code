@@ -3,9 +3,10 @@ title: "Section 8003 - Federal swimming pool and spa drain cover standard"
 usc_title: 15
 usc_section: "8003"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8003"
-generated_at: "2026-03-30T02:54:08.227Z"
+generated_at: "2026-11-23T21:25:40.072Z"
+status: "active"
 ---
 
 # § 8003. Federal swimming pool and spa drain cover standard
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:08.227Z"
       - **(iii)** patrons of a hotel or other public accommodations facility; or
     - **(C)** operated by the Federal Government (or by a concessionaire on behalf of the Federal Government) for the benefit of members of the Armed Forces and their dependents or employees of any department or agency and their dependents.
   - **(3)** Violation of paragraph (1) shall be considered to be a violation of section 19(a)(1) of the Consumer Product Safety Act ( 15 U.S.C. 2068(a)(1) ) and may also be enforced under section 17 of that Act ( 15 U.S.C. 2066 ).
+
+## Source Credit
+
+*([Pub. L. 110–140, title XIV, § 1404](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1795](https://www.govinfo.gov/link/statute/121/1795); [Pub. L. 110–314, title II, § 238(2)](https://www.govinfo.gov/link/plaw/110/public/314), Aug. 14, 2008, [122 Stat. 3076](https://www.govinfo.gov/link/statute/122/3076).)*

@@ -3,9 +3,10 @@ title: "Section 8311 - Reimbursable agreements"
 usc_title: 7
 usc_section: "8311"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 8311"
-generated_at: "2026-03-30T02:53:42.474Z"
+generated_at: "2026-11-23T21:25:28.473Z"
+status: "active"
 ---
 
 # § 8311. Reimbursable agreements
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:42.474Z"
   - **(2)** Any late payment penalty and any accrued interest shall—
     - **(A)** be credited to the account that incurs the costs; and
     - **(B)** remain available until expended, without fiscal year limitation.
+
+## Source Credit
+
+*([Pub. L. 107–171, title X, § 10412](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 503](https://www.govinfo.gov/link/statute/116/503); [Pub. L. 114–125, title VIII, § 818(b)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 222](https://www.govinfo.gov/link/statute/130/222).)*

@@ -3,9 +3,10 @@ title: "Section 603 - Appointments in time of war or national emergency"
 usc_title: 10
 usc_section: "603"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 603"
-generated_at: "2026-03-30T02:53:38.067Z"
+generated_at: "2026-11-23T21:25:32.291Z"
+status: "active"
 ---
 
 # § 603. Appointments in time of war or national emergency
@@ -23,3 +24,15 @@ generated_at: "2026-03-30T02:53:38.067Z"
   - **(1)** The second anniversary of the appointment.
   - **(2)** The end of the six-month period beginning on the last day of the war or national emergency during which the appointment was made.
   - **(3)** The date the person appointed is released from active duty.
+
+Section
+
+Sec
+
+Sec
+
+George W. Bush.
+
+## Source Credit
+
+*(Added [Pub. L. 96–513, title I, § 105](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2850](https://www.govinfo.gov/link/statute/94/2850); amended [Pub. L. 101–189, div. A, title VI, § 653(a)(2)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1462](https://www.govinfo.gov/link/statute/103/1462); [Pub. L. 102–190, div. A, title XI, § 1113(b)](https://www.govinfo.gov/link/plaw/102/public/190), (d)(1)(A), Dec. 5, 1991, [105 Stat. 1502](https://www.govinfo.gov/link/statute/105/1502); [Pub. L. 116–283, div. A, title IX, § 924(b)(3)(D)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3821](https://www.govinfo.gov/link/statute/134/3821).)*

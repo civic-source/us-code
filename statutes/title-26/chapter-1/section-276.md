@@ -3,9 +3,10 @@ title: "Section 276 - Certain indirect contributions to political parties"
 usc_title: 26
 usc_section: "276"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 276"
-generated_at: "2026-03-30T02:55:27.660Z"
+generated_at: "2026-11-23T21:26:06.122Z"
+status: "active"
 ---
 
 # § 276. Certain indirect contributions to political parties
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:27.660Z"
     - **(A)** such proceeds may be used directly or indirectly for the purpose of furthering his candidacy for selection, nomination, or election to any elective public office, and
     - **(B)** such proceeds are not received by such candidate in the ordinary course of a trade or business (other than the trade or business of holding elective public office).
 - **(c)** For disallowance of certain entertainment, etc., expenses, see section 274.
+
+## Source Credit
+
+*(Added [Pub. L. 89–368, title III, § 301(a)](https://www.govinfo.gov/link/plaw/89/public/368), Mar. 15, 1966, [80 Stat. 66](https://www.govinfo.gov/link/statute/80/66); amended [Pub. L. 90–364, title I, § 108(a)](https://www.govinfo.gov/link/plaw/90/public/364), June 28, 1968, [82 Stat. 268](https://www.govinfo.gov/link/statute/82/268); [Pub. L. 93–443, title IV, § 406(d)](https://www.govinfo.gov/link/plaw/93/public/443), Oct. 15, 1974, [88 Stat. 1296](https://www.govinfo.gov/link/statute/88/1296).)*

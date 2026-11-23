@@ -3,9 +3,10 @@ title: "Section 3500 - Demands for production of statements and reports of witne
 usc_title: 18
 usc_section: "3500"
 chapter: 223
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3500"
-generated_at: "2026-03-30T02:54:16.517Z"
+generated_at: "2026-11-23T21:25:44.202Z"
+status: "active"
 ---
 
 # § 3500. Demands for production of statements and reports of witnesses
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:16.517Z"
   - **(1)** a written statement made by said witness and signed or otherwise adopted or approved by him;
   - **(2)** a stenographic, mechanical, electrical, or other recording, or a transcription thereof, which is a substantially verbatim recital of an oral statement made by said witness and recorded contemporaneously with the making of such oral statement; or
   - **(3)** a statement, however taken or recorded, or a transcription thereof, if any, made by said witness to a grand jury.
+
+## Source Credit
+
+*(Added [Pub. L. 85–269](https://www.govinfo.gov/link/plaw/85/public/269), Sept. 2, 1957, [71 Stat. 595](https://www.govinfo.gov/link/statute/71/595); amended [Pub. L. 91–452, title I, § 102](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 926](https://www.govinfo.gov/link/statute/84/926).)*

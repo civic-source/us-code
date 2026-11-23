@@ -3,9 +3,10 @@ title: "Section 8302 - Review of regulatory authority"
 usc_title: 15
 usc_section: "8302"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8302"
-generated_at: "2026-03-30T02:54:08.228Z"
+generated_at: "2026-11-23T21:25:40.077Z"
+status: "active"
 ---
 
 # § 8302. Review of regulatory authority
@@ -79,3 +80,7 @@ generated_at: "2026-03-30T02:54:08.228Z"
   - **(2)** conduct studies and prepare reports and recommendations required by this Act;
   - **(3)** register persons under the provisions of this Act; and
   - **(4)** exempt persons, agreements, contracts, or transactions from provisions of this Act, under the terms contained in this Act,
+
+## Source Credit
+
+*([Pub. L. 111–203, title VII, § 712](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1641](https://www.govinfo.gov/link/statute/124/1641).)*

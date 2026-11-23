@@ -3,12 +3,17 @@ title: "Section 4151 - Annual allocation"
 usc_title: 25
 usc_section: "4151"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4151"
-generated_at: "2026-03-30T02:54:52.859Z"
+generated_at: "2026-11-23T21:25:54.709Z"
+status: "active"
 ---
 
 # § 4151. Annual allocation
 
 For each fiscal year, the Secretary shall allocate any amounts made available for assistance under this chapter for the fiscal year, in accordance with the formula established pursuant to section 4152 of this title , among Indian tribes that comply with the requirements under this chapter for a grant under this chapter.
 
+
+## Source Credit
+
+*([Pub. L. 104–330, title III, § 301](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4036](https://www.govinfo.gov/link/statute/110/4036).)*

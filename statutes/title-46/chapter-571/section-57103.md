@@ -3,9 +3,10 @@ title: "Section 57103 - Donation of vessels in the National Defense Reserve Flee
 usc_title: 46
 usc_section: "57103"
 chapter: 571
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 57103"
-generated_at: "2026-03-30T02:56:15.581Z"
+generated_at: "2026-11-23T21:26:37.321Z"
+status: "active"
 ---
 
 # § 57103. Donation of vessels in the National Defense Reserve Fleet
@@ -27,3 +28,36 @@ generated_at: "2026-03-30T02:56:15.581Z"
 - **(d)** If conveyance is made under this section, the vessel shall be delivered to the recipient at a time and place to be determined by the Secretary. The vessel shall be conveyed in an “as is” condition.
 - **(e)** If at any time prior to delivery of the vessel to the recipient, the Secretary determines that a different disposition of the vessel would better serve the interests of the Government, the Secretary shall pursue the more favorable disposition of the obsolete vessel and shall not be liable for any damages that may result from an intended recipient’s reliance upon a proposed transfer.
 - **(f)** The Secretary shall include in any conveyance under this section terms under which all right, title, and interest conveyed by the Secretary shall revert to the Government if the Secretary determines the vessel has been used other than as described in the business plan required under subsection (a)(5).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 57103 | 46 App.:1158(b). | June 29, 1936, ch. 858 , title V, § 508(b), as added Pub. L. 108–136, title XXXV, § 3512(2) , Nov. 24, 2003 , 117 Stat. 1789 . |
+
+
+In General
+
+Other Equipment
+
+Additional Terms
+
+Delivery of Vessel
+
+Limitations
+
+Reversion
+
+Historical and Revision Notes
+
+57103
+
+June 29, 1936, ch. 858
+
+Pub. L. 108–136, title XXXV, § 3512(2)
+
+Nov. 24, 2003
+
+117 Stat. 1789
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1659](https://www.govinfo.gov/link/statute/120/1659); [Pub. L. 112–213, title IV, § 408(a)](https://www.govinfo.gov/link/plaw/112/public/213), Dec. 20, 2012, [126 Stat. 1571](https://www.govinfo.gov/link/statute/126/1571); [Pub. L. 118–31, div. C, title XXXV, § 3514(j)(5)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 812](https://www.govinfo.gov/link/statute/137/812).)*

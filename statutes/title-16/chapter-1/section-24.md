@@ -3,9 +3,10 @@ title: "Section 24 - Land acquisition authority"
 usc_title: 16
 usc_section: "24"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 24"
-generated_at: "2026-03-30T02:54:22.844Z"
+generated_at: "2026-11-23T21:25:51.623Z"
+status: "active"
 ---
 
 # § 460nnn–24. Land acquisition authority
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:22.844Z"
     - **(A)** become part of that wilderness study area; and
     - **(B)** be managed pursuant to the laws applicable to that wilderness study area.
 - **(c)** In appraising non-Federal land, development rights, or conservation easements for possible acquisition under this section or section 460nnn–42 of this title , the Secretary shall disregard any adverse impacts on values resulting from the designation of the Cooperative Management and Protection Area or the Wilderness Area.
+
+## Source Credit
+
+*([Pub. L. 106–399, title I, § 114](https://www.govinfo.gov/link/plaw/106/public/399), Oct. 30, 2000, [114 Stat. 1662](https://www.govinfo.gov/link/statute/114/1662).)*

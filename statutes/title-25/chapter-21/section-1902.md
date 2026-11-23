@@ -3,12 +3,17 @@ title: "Section 1902 - Congressional declaration of policy"
 usc_title: 25
 usc_section: "1902"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1902"
-generated_at: "2026-03-30T02:54:52.830Z"
+generated_at: "2026-11-23T21:25:54.645Z"
+status: "active"
 ---
 
 # § 1902. Congressional declaration of policy
 
 The Congress hereby declares that it is the policy of this Nation to protect the best interests of Indian children and to promote the stability and security of Indian tribes and families by the establishment of minimum Federal standards for the removal of Indian children from their families and the placement of such children in foster or adoptive homes which will reflect the unique values of Indian culture, and by providing for assistance to Indian tribes in the operation of child and family service programs.
 
+
+## Source Credit
+
+*([Pub. L. 95–608, § 3](https://www.govinfo.gov/link/plaw/95/public/608), Nov. 8, 1978, [92 Stat. 3069](https://www.govinfo.gov/link/statute/92/3069).)*

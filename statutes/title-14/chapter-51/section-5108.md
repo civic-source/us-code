@@ -3,9 +3,10 @@ title: "Section 5108 - Unfunded priorities list"
 usc_title: 14
 usc_section: "5108"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 5108"
-generated_at: "2026-03-30T02:53:51.506Z"
+generated_at: "2026-11-23T21:25:35.464Z"
+status: "active"
 ---
 
 # § 5108. Unfunded priorities list
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:53:51.506Z"
   - **(1)** has not been selected for funding in the applicable proposed budget;
   - **(2)** is necessary to fulfill a requirement associated with an operational need; and
   - **(3)** the Commandant would have recommended for inclusion in the applicable proposed budget had additional resources been available or had the requirement emerged before the budget was submitted.
+
+In General
+
+Prioritization
+
+Unfunded Priority Defined
+
+## Source Credit
+
+*(Added [Pub. L. 115–282, title III, § 317(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4251](https://www.govinfo.gov/link/statute/132/4251).)*

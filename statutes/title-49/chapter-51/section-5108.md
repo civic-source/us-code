@@ -3,9 +3,10 @@ title: "Section 5108 - Registration"
 usc_title: 49
 usc_section: "5108"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 5108"
-generated_at: "2026-03-30T02:56:19.306Z"
+generated_at: "2026-11-23T21:26:40.616Z"
+status: "active"
 ---
 
 # § 5108. Registration
@@ -54,3 +55,101 @@ generated_at: "2026-03-30T02:56:19.306Z"
   - **(2)**
     - **(A)** This section does not apply to an employee of a hazmat employer.
     - **(B)** Subsections (a)–(h) of this section do not apply to a department, agency, or instrumentality of the United States Government, an authority of a State or political subdivision of a State, an Indian tribe, or an employee of a department, agency, instrumentality, or authority carrying out official duties.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5108(a)(1) | 49 App.:1805(c)(1). | Jan. 3, 1975 , Pub. L. 93–633 , 88 Stat. 2156 , § 106(c); added Nov. 16, 1990 , Pub. L. 101–615, § 8(a) , 104 Stat. 3255 ; Oct. 24, 1992 , Pub. L. 102–508, § 503(a)(1) –(3), (b), 106 Stat. 3311 . |
+| 5108(a)(2) | 49 App.:1805(c)(3). |  |
+| 5108(a)(3) | 49 App.:1805(c)(4). |  |
+| 5108(b) | 49 App.:1805(c)(7), (8). |  |
+| 5108(c) | 49 App.:1805(c)(5), (6). |  |
+| 5108(d) | 49 App.:1805(c)(9). |  |
+| 5108(e) | 49 App.:1805(c)(2). |  |
+| 5108(f) | 49 App.:1805(c)(10). |  |
+| 5108(g)(1) | 49 App.:1805(c)(11). |  |
+| 5108(g)(2) | 49 App.:1815(h) (1)–(5). | Jan. 3, 1975 , Pub. L. 93–633 , 88 Stat. 2156 , § 117A(h)(1)– (5); added Nov. 16, 1990 , Pub. L. 101–615, § 17 , 104 Stat. 3267 . |
+| 5108(h) | 49 App.:1805(c)(12). |  |
+| 5108(i) | 49 App.:1805(c) (13)–(15). |  |
+
+
+Persons Required to File
+
+Form, Contents, and Limitation on Filings
+
+Filing
+
+Simplifying the Registration Process
+
+Cooperation With Administrator
+
+Availability of Statements
+
+Fees
+
+Fees on exempt persons
+
+Maintaining Proof of Filing and Payment of Fees
+
+Relationship to Other Laws
+
+Historical and Revision Notes
+
+Pub. L.
+
+5108(a)(1)
+
+Jan. 3, 1975
+
+Pub. L. 93–633
+
+88 Stat. 2156
+
+Nov. 16, 1990
+
+Pub. L. 101–615, § 8(a)
+
+104 Stat. 3255
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 503(a)(1)
+
+106 Stat. 3311
+
+5108(a)(2)
+
+5108(a)(3)
+
+5108(b)
+
+5108(c)
+
+5108(d)
+
+5108(e)
+
+5108(f)
+
+5108(g)(1)
+
+5108(g)(2)
+
+Jan. 3, 1975
+
+Pub. L. 93–633
+
+88 Stat. 2156
+
+Nov. 16, 1990
+
+Pub. L. 101–615, § 17
+
+104 Stat. 3267
+
+5108(h)
+
+5108(i)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 765](https://www.govinfo.gov/link/statute/108/765); [Pub. L. 103–311, title I](https://www.govinfo.gov/link/plaw/103/public/311), §§ 104, 117(a)(3), 119(d)(1), Aug. 26, 1994, [108 Stat. 1673](https://www.govinfo.gov/link/statute/108/1673), 1678, 1680; [Pub. L. 105–102, § 2(3)](https://www.govinfo.gov/link/plaw/105/public/102), Nov. 20, 1997, [111 Stat. 2204](https://www.govinfo.gov/link/statute/111/2204); [Pub. L. 105–225, § 7(b)(1)](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1511](https://www.govinfo.gov/link/statute/112/1511); [Pub. L. 109–59, title VII](https://www.govinfo.gov/link/plaw/109/public/59), §§ 7109(a)–(c), (e), (f), 7114(d)(3), 7126, Aug. 10, 2005, [119 Stat. 1897](https://www.govinfo.gov/link/statute/119/1897), 1898, 1900, 1909; [Pub. L. 114–94, div. A, title VII, § 7203(b)(1)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1591](https://www.govinfo.gov/link/statute/129/1591).)*

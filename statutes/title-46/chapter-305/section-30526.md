@@ -3,9 +3,10 @@ title: "Section 30526 - Provisions requiring notice of claim or limiting time fo
 usc_title: 46
 usc_section: "30526"
 chapter: 305
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 30526"
-generated_at: "2026-03-30T02:56:15.561Z"
+generated_at: "2026-11-23T21:26:37.159Z"
+status: "active"
 ---
 
 # § 30526. Provisions requiring notice of claim or limiting time for bringing action
@@ -21,3 +22,45 @@ generated_at: "2026-03-30T02:56:15.561Z"
 - **(d)** If a claimant is a minor or mental incompetent, or if a claim is for wrongful death, any period provided by a contract for giving notice of the claim is tolled until the earlier of—
   - **(1)** the date a legal representative is appointed for the minor, incompetent, or decedent’s estate; or
   - **(2)** 3 years after the injury or death.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30508(a) | 46 App.:183(f) (related to 46 App.:183b). | R.S. § 4283(f) (related to R.S. § 4283A); Aug. 29, 1935, ch. 804, § 1 , 49 Stat. 960 ; June 5, 1936, ch. 521, § 1 , 49 Stat. 1480 . |
+| 30508(b) | 46 App.:183b(a). | R.S. § 4283A, as added Aug. 29, 1935, ch. 804, § 3 , 49 Stat. 960 . |
+| 30508(c) | 46 App.:183b(b). |  |
+| 30508(d) | 46 App.:183b(c). |  |
+
+
+Application
+
+Minimum Time Limits
+
+Effect of Failure To Give Notice
+
+Tolling of Period To Give Notice
+
+Historical and Revision Notes
+
+30508(a)
+
+Aug. 29, 1935, ch. 804, § 1
+
+49 Stat. 960
+
+June 5, 1936, ch. 521, § 1
+
+49 Stat. 1480
+
+30508(b)
+
+Aug. 29, 1935, ch. 804, § 3
+
+49 Stat. 960
+
+30508(c)
+
+30508(d)
+
+## Source Credit
+
+*([Pub. L. 109–304, § 6(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1514](https://www.govinfo.gov/link/statute/120/1514), § 30508; renumbered § 30526 and amended [Pub. L. 117–263, div. K, title CXV, § 11503(a)(3)](https://www.govinfo.gov/link/plaw/117/public/263), (d), Dec. 23, 2022, [136 Stat. 4130](https://www.govinfo.gov/link/statute/136/4130), 4131.)*

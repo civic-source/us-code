@@ -3,9 +3,10 @@ title: "Section 5803 - Establishment of program"
 usc_title: 25
 usc_section: "5803"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5803"
-generated_at: "2026-03-30T02:54:52.873Z"
+generated_at: "2026-11-23T21:25:54.740Z"
+status: "active"
 ---
 
 # § 5803. Establishment of program
@@ -139,3 +140,7 @@ generated_at: "2026-03-30T02:54:52.873Z"
         - **(III)** the number of jobs established or maintained by Native businesses and Native entrepreneurs receiving business incubation services, including a description of where the jobs are located with respect to reservation communities;
         - **(IV)** to the maximum extent practicable, the amount of capital investment and loan financing accessed by Native businesses and Native entrepreneurs receiving business incubation services; and
         - **(V)** an evaluation of the overall performance of the business incubator.
+
+## Source Credit
+
+*([Pub. L. 116–174, § 4](https://www.govinfo.gov/link/plaw/116/public/174), Oct. 20, 2020, [134 Stat. 840](https://www.govinfo.gov/link/statute/134/840).)*

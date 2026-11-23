@@ -3,9 +3,10 @@ title: "Section 5404 - Human capital performance payments"
 usc_title: 5
 usc_section: "5404"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5404"
-generated_at: "2026-03-30T02:52:56.017Z"
+generated_at: "2026-11-23T21:25:23.259Z"
+status: "active"
 ---
 
 # § 5404. Human capital performance payments
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:52:56.017Z"
 - **(d)**
   - **(1)** An agency may finance initial human capital performance payments using monies from the Human Capital Performance Fund, as available.
   - **(2)** In subsequent years, continuation of previously awarded human capital performance payments shall be financed from other agency funds available for salaries and expenses.
+
+## Source Credit
+
+*(Added [Pub. L. 108–136, div. A, title XI, § 1129(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1643](https://www.govinfo.gov/link/statute/117/1643).)*

@@ -3,9 +3,10 @@ title: "Section 6516 - Judicial review in United States district courts"
 usc_title: 16
 usc_section: "6516"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6516"
-generated_at: "2026-03-30T02:54:23.061Z"
+generated_at: "2026-11-23T21:25:52.043Z"
+status: "active"
 ---
 
 # § 6516. Judicial review in United States district courts
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:23.061Z"
   - **(3)** As part of its weighing the equities while considering any request for an injunction that applies to an agency action under an authorized hazardous fuel reduction project, the court reviewing the project shall balance the impact to the ecosystem likely affected by the project of—
     - **(A)** the short- and long-term effects of undertaking the agency action; against
     - **(B)** the short- and long-term effects of not undertaking the agency action.
+
+## Source Credit
+
+*([Pub. L. 108–148, title I, § 106](https://www.govinfo.gov/link/plaw/108/public/148), Dec. 3, 2003, [117 Stat. 1900](https://www.govinfo.gov/link/statute/117/1900).)*

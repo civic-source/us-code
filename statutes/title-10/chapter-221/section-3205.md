@@ -3,9 +3,10 @@ title: "Section 3205 - Simplified procedures for small purchases"
 usc_title: 10
 usc_section: "3205"
 chapter: 221
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3205"
-generated_at: "2026-03-30T02:53:38.190Z"
+generated_at: "2026-11-23T21:25:32.718Z"
+status: "active"
 ---
 
 # § 3205. Simplified procedures for small purchases
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:53:38.190Z"
 - **(b)** A proposed purchase or contract for an amount above the simplified acquisition threshold may not be divided into several purchases or contracts for lesser amounts in order to use the simplified procedures required by subsection (a).
 - **(c)** In using simplified procedures, the head of an agency shall promote competition to the maximum extent practicable.
 - **(d)** The head of an agency shall comply with the Federal Acquisition Regulation provisions referred to in section 1901(e) of title 41 .
+
+Authorization
+
+Prohibition on Dividing Contracts
+
+Promotion of Competition
+
+Compliance With Special Requirements of Federal Acquisition Regulation
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1811(d)(1)](https://www.govinfo.gov/link/plaw/116/public/283), (9), Jan. 1, 2021, [134 Stat. 4166](https://www.govinfo.gov/link/statute/134/4166), 4170.)*

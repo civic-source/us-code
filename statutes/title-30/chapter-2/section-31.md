@@ -3,12 +3,17 @@ title: "Section 31 - Oath: agent or attorney in fact, beyond district of claim"
 usc_title: 30
 usc_section: "31"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 31"
-generated_at: "2026-03-30T02:55:29.376Z"
+generated_at: "2026-11-23T21:26:00.362Z"
+status: "active"
 ---
 
 # § 31. Oath: agent or attorney in fact, beyond district of claim
 
 The adverse claim required by section 30 of this title may be verified by the oath of any duly authorized agent or attorney in fact of the adverse claimant cognizant of the facts stated; and the adverse claimant, if residing or at the time being beyond the limits of the district wherein the claim is situated, may make oath to the adverse claim before the clerk of any court of record of the United States or of the State or Territory where the adverse claimant may then be, or before any notary public of such State or Territory.
 
+
+## Source Credit
+
+*(Apr. 26, 1882, ch. 106, § 1, [22 Stat. 49](https://www.govinfo.gov/link/statute/22/49).)*

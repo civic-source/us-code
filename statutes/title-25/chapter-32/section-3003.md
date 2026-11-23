@@ -3,9 +3,10 @@ title: "Section 3003 - Inventory for human remains and associated funerary objec
 usc_title: 25
 usc_section: "3003"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3003"
-generated_at: "2026-03-30T02:54:52.846Z"
+generated_at: "2026-11-23T21:25:54.680Z"
+status: "active"
 ---
 
 # § 3003. Inventory for human remains and associated funerary objects
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:52.846Z"
     - **(C)** which lists the Native American human remains and associated funerary objects that are not clearly identifiable as being culturally affiliated with that Indian tribe or Native Hawaiian organization, but which, given the totality of circumstances surrounding acquisition of the remains or objects, are determined by a reasonable belief to be remains or objects culturally affiliated with the Indian tribe or Native Hawaiian organization.
   - **(3)** A copy of each notice provided under paragraph (1) shall be sent to the Secretary who shall publish each notice in the Federal Register.
 - **(e)** For the purposes of this section, the term “inventory” means a simple itemized list that summarizes the information called for by this section.
+
+## Source Credit
+
+*([Pub. L. 101–601, § 5](https://www.govinfo.gov/link/plaw/101/public/601), Nov. 16, 1990, [104 Stat. 3052](https://www.govinfo.gov/link/statute/104/3052).)*

@@ -3,9 +3,10 @@ title: "Section 2276a - Special authority for provision of space launch support 
 usc_title: 10
 usc_section: "2276a"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2276a"
-generated_at: "2026-03-30T02:53:38.152Z"
+generated_at: "2026-11-23T21:25:32.593Z"
+status: "active"
 ---
 
 # § 2276a. Special authority for provision of space launch support services to increase space launch capacity
@@ -30,3 +31,33 @@ generated_at: "2026-03-30T02:53:38.152Z"
     - **(A)** an identification of the total amounts of direct and indirect costs reimbursed to each spaceport for the fiscal year covered by the report;
     - **(B)** a description of the support provided by reimbursed indirect costs for the fiscal year covered by the report; and
     - **(C)** an identification of the rate, fixed price, or similar mechanism, if any, used to calculate the amount of the indirect costs that are reimbursable for the fiscal year following the fiscal year covered by the report.
+
+In General
+
+Provision of Launch Equipment and Services to Commercial Entities.—
+
+Contract or other transaction authority
+
+Costs.—
+
+Direct costs
+
+Indirect costs
+
+Retention of funds collected from commercial users
+
+Regulations
+
+Noise Mitigation at Space Force Launch Sites
+
+Definitions
+
+Space launch
+
+Commercial entity
+
+Transition Limitations and Reporting Requirements
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVI, § 1603](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 584](https://www.govinfo.gov/link/statute/137/584); amended [Pub. L. 119–60, div. A, title XVI, § 1602](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1175](https://www.govinfo.gov/link/statute/139/1175).)*

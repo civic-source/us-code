@@ -3,9 +3,10 @@ title: "Section 8929 - Report on non-compliance by the Russian Federation of its
 usc_title: 22
 usc_section: "8929"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8929"
-generated_at: "2026-03-30T02:55:05.460Z"
+generated_at: "2026-11-23T21:25:58.761Z"
+status: "active"
 ---
 
 # § 8929. Report on non-compliance by the Russian Federation of its obligations under the INF Treaty
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:05.460Z"
 - **(d)** The committees specified in this subsection are—
   - **(1)** the Committee on Foreign Relations, the Committee on Armed Services, and the Select Committee on Intelligence of the Senate; and
   - **(2)** the Committee on Foreign Affairs, the Committee on Armed Services, and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 113–272, § 10](https://www.govinfo.gov/link/plaw/113/public/272), Dec. 18, 2014, [128 Stat. 2965](https://www.govinfo.gov/link/statute/128/2965); [Pub. L. 116–92, div. A, title XII, § 1235(d)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1650](https://www.govinfo.gov/link/statute/133/1650).)*

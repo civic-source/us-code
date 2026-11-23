@@ -3,9 +3,10 @@ title: "Section 1060c - Provision of veterinary services"
 usc_title: 10
 usc_section: "1060c"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1060c"
-generated_at: "2026-03-30T02:53:38.098Z"
+generated_at: "2026-11-23T21:25:32.383Z"
+status: "active"
 ---
 
 # § 1060c. Provision of veterinary services
@@ -17,3 +18,11 @@ generated_at: "2026-03-30T02:53:38.098Z"
     - **(B)** a member of the National Guard performing training or duty under section 502(f) of title 32 ;
   - **(2)** certified as a veterinary professional by a certification recognized by the Secretary of Defense; and
   - **(3)** currently licensed by a State, the District of Columbia, or a territory or possession of the United States to provide veterinary services.
+
+In General
+
+Veterinary Professional Described
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. A, title VII, § 735(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1462](https://www.govinfo.gov/link/statute/133/1462); amended [Pub. L. 118–159, div. A, title VII, § 733](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1956](https://www.govinfo.gov/link/statute/138/1956).)*

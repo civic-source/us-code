@@ -3,9 +3,10 @@ title: "Section 909 - Supplementary unemployment insurance"
 usc_title: 45
 usc_section: "909"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 909"
-generated_at: "2026-03-30T02:55:56.558Z"
+generated_at: "2026-11-23T21:26:19.234Z"
+status: "active"
 ---
 
 # § 909. Supplementary unemployment insurance
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:56.558Z"
   - **(2)** An employee shall not be entitled to receive supplementary unemployment insurance under this section if he has failed to exhaust all seniority rights or other employment rights under applicable collective bargaining agreements.
   - **(3)** An employee shall not be entitled to receive supplementary unemployment insurance under this section for any month or portion of a month in which such employee is unemployed due to normal seasonal unemployment patterns in the railroad industry.
 - **(g)** For purposes of this section, any employee of the Milwaukee Railroad who is furloughed shall be considered to be separated from his employment.
+
+## Source Credit
+
+*([Pub. L. 96–101, § 10(a)](https://www.govinfo.gov/link/plaw/96/public/101) –(g), Nov. 4, 1979, [93 Stat. 741](https://www.govinfo.gov/link/statute/93/741), 742.)*

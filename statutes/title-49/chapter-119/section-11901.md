@@ -3,9 +3,10 @@ title: "Section 11901 - General civil penalties"
 usc_title: 49
 usc_section: "11901"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 11901"
-generated_at: "2026-03-30T02:56:19.326Z"
+generated_at: "2026-11-23T21:26:40.680Z"
+status: "active"
 ---
 
 # § 11901. General civil penalties
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:19.326Z"
   - **(3)** A rail carrier providing transportation subject to the jurisdiction of the Board under this part, a lessor, receiver, or trustee of that rail carrier, a person furnishing cars, and an officer, agent, or employee of one of them, required to make a report to the Board or answer a question that does not make the report or does not specifically, completely, and truthfully answer the question, is liable to the United States Government for a civil penalty of $100 for each violation.
   - **(4)** A separate violation occurs for each day a violation under this subsection continues.
 - **(f)** Trial in a civil action under subsections (a) through (e) of this section is in the judicial district in which the rail carrier has its principal operating office or in a district through which the railroad of the rail carrier runs.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 849](https://www.govinfo.gov/link/statute/109/849).)*

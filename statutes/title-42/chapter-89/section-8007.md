@@ -3,9 +3,10 @@ title: "Section 8007 - Evaluation of applications and programs"
 usc_title: 42
 usc_section: "8007"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8007"
-generated_at: "2026-03-30T02:56:11.332Z"
+generated_at: "2026-11-23T21:26:33.176Z"
+status: "active"
 ---
 
 # § 8007. Evaluation of applications and programs
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.332Z"
     - **(C)** assessing existing and potential financial resources at the Federal, State, and local levels for the support of congregate housing services; and
     - **(D)** making legislative recommendations as to the feasibility of permitting State housing agencies and other appropriate State agencies to participate and operate the program on a matching grant basis.
   - **(2)** The Secretary shall submit the report to the Congress not later than September 30, 1988 .
+
+## Source Credit
+
+*([Pub. L. 95–557, title IV, § 408](https://www.govinfo.gov/link/plaw/95/public/557), Oct. 31, 1978, [92 Stat. 2108](https://www.govinfo.gov/link/statute/92/2108); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title II, § 224(a)], Nov. 30, 1983, [97 Stat. 1191](https://www.govinfo.gov/link/statute/97/1191); [Pub. L. 100–242, title I, § 163(b)](https://www.govinfo.gov/link/plaw/100/public/242), (c), Feb. 5, 1988, [101 Stat. 1860](https://www.govinfo.gov/link/statute/101/1860).)*

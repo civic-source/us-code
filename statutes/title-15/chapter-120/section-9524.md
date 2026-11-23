@@ -3,9 +3,10 @@ title: "Section 9524 - Grants and cooperative agreements"
 usc_title: 15
 usc_section: "9524"
 chapter: 120
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9524"
-generated_at: "2026-03-30T02:54:08.248Z"
+generated_at: "2026-11-23T21:25:40.148Z"
+status: "active"
 ---
 
 # § 9524. Grants and cooperative agreements
@@ -86,3 +87,17 @@ generated_at: "2026-03-30T02:54:08.248Z"
   - **(4)** monitoring projects carried out by each Center; and
   - **(5)** establishing and enforcing administrative and reporting requirements for each Center to carry out subsection (a).
 - **(i)** The Under Secretary shall issue and publish regulations that establish minimum standards regarding verification of minority business enterprise status for clients of entities operating under the MBDA Business Center Program.
+
+(aa) large-scale contracts, grants, or procurements;
+
+(bb) financing; or
+
+(cc) legal assistance;
+
+(aa) joint ventures, teaming arrangements, and mergers and acquisitions; or
+
+(bb) large-scale transactions in global markets;
+
+## Source Credit
+
+*([Pub. L. 117–58, div. K, title I, § 100114](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1452](https://www.govinfo.gov/link/statute/135/1452).)*

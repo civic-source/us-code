@@ -3,9 +3,10 @@ title: "Section 698k - Contracts for providing visitor services in Big Cypress P
 usc_title: 16
 usc_section: "698k"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 698k"
-generated_at: "2026-03-30T02:54:22.898Z"
+generated_at: "2026-11-23T21:25:51.727Z"
+status: "active"
 ---
 
 # § 698k. Contracts for providing visitor services in Big Cypress Preserve and Addition; right of first refusal to Miccosukee and Seminole Tribes
@@ -14,3 +15,7 @@ Notwithstanding any other provision of law, before entering into any contract fo
 
       - **(i)** the Secretary shall offer those members of the Miccosukee and Seminole Indian Tribes who, on January 1, 1972 ( January 1, 1985 , in the case of the Addition), were engaged in the provision of similar services, a right of first refusal to continue providing such services within the preserve and the Addition subject to such terms and conditions as he may deem appropriate, and
       - **(ii)** before entering into any contract or agreement to provide new revenue-producing visitor services within the preserve or within the Addition, the Secretary shall offer to the Miccosukee Tribe of Indians of Florida and the Seminole Tribe of Florida the right of first refusal to provide such services, the right to be open for a period of ninety days. Should both Tribes respond with proposals that satisfy the terms and conditions established by the Secretary, the Secretary may allow the Tribes an additional period of ninety days in which to enter into an inter-Tribal cooperative agreement to provide such visitor services, but if neither tribe responds with proposals that satisfy the terms and conditions established by the Secretary, then the Secretary shall provide such visitor services in accordance with subchapter IV of chapter 1 of this title. No such agreement may be assigned or otherwise transferred without the consent of the Secretary.
+
+## Source Credit
+
+*([Pub. L. 93–440, § 6](https://www.govinfo.gov/link/plaw/93/public/440), Oct. 11, 1974, [88 Stat. 1260](https://www.govinfo.gov/link/statute/88/1260); [Pub. L. 100–301, § 3(d)](https://www.govinfo.gov/link/plaw/100/public/301), Apr. 29, 1988, [102 Stat. 444](https://www.govinfo.gov/link/statute/102/444).)*

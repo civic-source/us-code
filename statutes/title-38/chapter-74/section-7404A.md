@@ -3,9 +3,10 @@ title: "Section 7404A - Awards"
 usc_title: 38
 usc_section: "7404A"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7404A"
-generated_at: "2026-03-30T02:55:53.530Z"
+generated_at: "2026-11-23T21:26:16.869Z"
+status: "active"
 ---
 
 # § 7404A. Awards
@@ -17,3 +18,17 @@ generated_at: "2026-03-30T02:55:53.530Z"
 - **(c)** Awards under this section may be paid based on criteria established by the Secretary and shall not be considered in calculating the limitation under section 7431(e)(4) of this title .
 - **(d)** Awards under this section shall not be considered basic pay for any purpose.
 - **(e)** The Secretary may prescribe regulations for the administration of this section.
+
+Superior Accomplishments and Performance Awards Program
+
+Executive Performance Awards Program
+
+Payment of Awards
+
+Not Considered Basic Pay
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 117–168, title IX, § 906(b)(1)](https://www.govinfo.gov/link/plaw/117/public/168), Aug. 10, 2022, [136 Stat. 1812](https://www.govinfo.gov/link/statute/136/1812).)*

@@ -3,9 +3,10 @@ title: "Section 741 - Executive Management Fellowship Program"
 usc_title: 38
 usc_section: "741"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 741"
-generated_at: "2026-03-30T02:55:53.475Z"
+generated_at: "2026-11-23T21:26:16.565Z"
+status: "active"
 ---
 
 # § 741. Executive Management Fellowship Program
@@ -57,3 +58,23 @@ generated_at: "2026-03-30T02:55:53.475Z"
   - **(1)** The term “Department participant” means an employee of the Veterans Benefits Administration or the Veterans Health Administration who is participating in the fellowship under this section.
   - **(2)** The term “private-sector entity” includes an entity operating under a public-private partnership.
   - **(3)** The term “private-sector participant” means an employee of a private-sector entity who is participating in the fellowship under this section.
+
+Fellowship Program
+
+Fellowship
+
+Selection of Recipients
+
+Eligible Employees
+
+Agreements
+
+Treatment of Recipients
+
+Reports
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 115–46, title II, § 202(a)](https://www.govinfo.gov/link/plaw/115/public/46), Aug. 12, 2017, [131 Stat. 959](https://www.govinfo.gov/link/statute/131/959).)*

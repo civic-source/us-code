@@ -3,9 +3,10 @@ title: "Section 3420 - Grand jury information; notification of certain persons p
 usc_title: 12
 usc_section: "3420"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3420"
-generated_at: "2026-03-30T02:53:53.496Z"
+generated_at: "2026-11-23T21:25:37.141Z"
+status: "active"
 ---
 
 # § 3420. Grand jury information; notification of certain persons prohibited
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:53.496Z"
     - **(A)** crime against any financial institution or supervisory agency or crime involving a violation of the Controlled Substance Act [ 21 U.S.C. 801 et seq.], the Controlled Substances Import and Export Act [ 21 U.S.C. 951 et seq.], section 1956, 1957, or 1960 of title 18, sections 5313, 5316, 5322, 5324, 5331, and 5332 of title 31, or section 6050I of title 26 ; or
     - **(B)** conspiracy to commit such a crime,
   - **(2)** Section 1818 of this title and section 1786(k)(2) of this title shall apply to any violation of this subsection.
+
+## Source Credit
+
+*([Pub. L. 95–630, title XI, § 1120](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3709](https://www.govinfo.gov/link/statute/92/3709); [Pub. L. 100–690, title VI, § 6186(e)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4358](https://www.govinfo.gov/link/statute/102/4358); [Pub. L. 101–73, title IX, § 943](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 497](https://www.govinfo.gov/link/statute/103/497); [Pub. L. 102–550, title XV, § 1532](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4066](https://www.govinfo.gov/link/statute/106/4066); [Pub. L. 107–56, title III, § 358(f)(3)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 327](https://www.govinfo.gov/link/statute/115/327); [Pub. L. 116–283, div. F, title LXIII, § 6308(d)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4594](https://www.govinfo.gov/link/statute/134/4594).)*

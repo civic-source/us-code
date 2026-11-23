@@ -3,9 +3,10 @@ title: "Section 3144 - Operational files of the National Security Agency"
 usc_title: 50
 usc_section: "3144"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3144"
-generated_at: "2026-03-30T02:56:26.237Z"
+generated_at: "2026-11-23T21:26:39.016Z"
+status: "active"
 ---
 
 # § 3144. Operational files of the National Security Agency
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:56:26.237Z"
   - **(3)** A complainant that alleges that the National Security Agency has improperly withheld records because of failure to comply with this subsection may seek judicial review in the district court of the United States of the district in which any of the parties reside, or in the District of Columbia. In such a proceeding, the court’s review shall be limited to determining the following:
     - **(A)** Whether the National Security Agency has conducted the review required by paragraph (1) before the expiration of the 10-year period beginning on November 24, 2003 , or before the expiration of the 10-year period beginning on the date of the most recent review.
     - **(B)** Whether the National Security Agency, in fact, considered the criteria set forth in paragraph (2) in conducting the required review.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title VII, § 704, as added [Pub. L. 108–136, div. A, title IX, § 922(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1570](https://www.govinfo.gov/link/statute/117/1570); amended [Pub. L. 108–375, div. A, title X, § 1084(j)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2064](https://www.govinfo.gov/link/statute/118/2064); [Pub. L. 108–458, title I, § 1071(a)(1)(JJ)](https://www.govinfo.gov/link/plaw/108/public/458) –(LL), Dec. 17, 2004, [118 Stat. 3689](https://www.govinfo.gov/link/statute/118/3689); [Pub. L. 109–163, div. A, title IX, § 933(b)(3)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3416](https://www.govinfo.gov/link/statute/119/3416).)*

@@ -3,12 +3,17 @@ title: "Section 325 - Examination of persons admitted"
 usc_title: 24
 usc_section: "325"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "24 U.S.C. § 325"
-generated_at: "2026-03-30T02:54:50.791Z"
+generated_at: "2026-11-23T21:25:53.411Z"
+status: "active"
 ---
 
 # § 325. Examination of persons admitted
 
 - **(a)** Any person admitted to any hospital pursuant to section 322 or section 324 of this title shall, as soon as practicable, but in no event more than five days after the day of such admission, be examined by qualified members of the medical staff of the hospital and, unless found to be in need of hospitalization by reason of mental illness, shall be discharged. Any person found upon such examination to be in need of such hospitalization shall thereafter, as frequently as practicable but not less often than every six months, be reexamined and shall, whenever it is determined that the conditions justifying such hospitalization no longer obtain, be discharged or, if found to be in the best interests of the patient, be conditionally released.
 - **(b)** Whenever any person is admitted to a hospital pursuant to this chapter, his legal guardian, spouse, or next of kin shall, if known, be immediately notified.
+
+## Source Credit
+
+*([Pub. L. 86–571, § 5](https://www.govinfo.gov/link/plaw/86/public/571), July 5, 1960, [74 Stat. 309](https://www.govinfo.gov/link/statute/74/309).)*

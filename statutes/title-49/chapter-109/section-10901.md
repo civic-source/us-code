@@ -3,9 +3,10 @@ title: "Section 10901 - Authorizing construction and operation of railroad lines
 usc_title: 49
 usc_section: "10901"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 10901"
-generated_at: "2026-03-30T02:56:19.324Z"
+generated_at: "2026-11-23T21:26:40.675Z"
+status: "active"
 ---
 
 # § 10901. Authorizing construction and operation of railroad lines
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:19.324Z"
     - **(B)** the operation does not materially interfere with the operation of the crossed line; and
     - **(C)** the owner of the crossing line compensates the owner of the crossed line.
   - **(2)** If the parties are unable to agree on the terms of operation or the amount of payment for purposes of paragraph (1) of this subsection, either party may submit the matters in dispute to the Board for determination. The Board shall make a determination under this paragraph within 120 days after the dispute is submitted for determination.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 822](https://www.govinfo.gov/link/statute/109/822).)*

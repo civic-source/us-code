@@ -3,9 +3,10 @@ title: "Section 1842 - Pen registers and trap and trace devices for foreign inte
 usc_title: 50
 usc_section: "1842"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1842"
-generated_at: "2026-03-30T02:56:26.210Z"
+generated_at: "2026-11-23T21:26:38.940Z"
+status: "active"
 ---
 
 # § 1842. Pen registers and trap and trace devices for foreign intelligence and international terrorism investigations
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:56:26.210Z"
 - **(h)**
   - **(1)** The Attorney General shall ensure that appropriate policies and procedures are in place to safeguard nonpublicly available information concerning United States persons that is collected through the use of a pen register or trap and trace device installed under this section. Such policies and procedures shall, to the maximum extent practicable and consistent with the need to protect national security, include privacy protections that apply to the collection, retention, and use of information concerning United States persons.
   - **(2)** Nothing in this subsection limits the authority of the court established under section 1803(a) of this title or of the Attorney General to impose additional privacy or minimization procedures with regard to the installation or use of a pen register or trap and trace device.
+
+## Source Credit
+
+*([Pub. L. 95–511, title IV, § 402](https://www.govinfo.gov/link/plaw/95/public/511), as added [Pub. L. 105–272, title VI, § 601(2)](https://www.govinfo.gov/link/plaw/105/public/272), Oct. 20, 1998, [112 Stat. 2405](https://www.govinfo.gov/link/statute/112/2405); amended [Pub. L. 107–56, title II, § 214(a)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 286](https://www.govinfo.gov/link/statute/115/286); [Pub. L. 107–108, title III, § 314(a)(5)](https://www.govinfo.gov/link/plaw/107/public/108), Dec. 28, 2001, [115 Stat. 1402](https://www.govinfo.gov/link/statute/115/1402); [Pub. L. 108–458, title I, § 1071(e)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3691](https://www.govinfo.gov/link/statute/118/3691); [Pub. L. 109–177, title I](https://www.govinfo.gov/link/plaw/109/public/177), §§ 105(c), 128(a), Mar. 9, 2006, [120 Stat. 195](https://www.govinfo.gov/link/statute/120/195), 228; [Pub. L. 111–259, title VIII, § 806(a)(2)](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2748](https://www.govinfo.gov/link/statute/124/2748); [Pub. L. 114–23, title II](https://www.govinfo.gov/link/plaw/114/public/23), §§ 201(a), 202(a), June 2, 2015, [129 Stat. 277](https://www.govinfo.gov/link/statute/129/277); [Pub. L. 115–118, title II, § 205(b)(4)](https://www.govinfo.gov/link/plaw/115/public/118), Jan. 19, 2018, [132 Stat. 22](https://www.govinfo.gov/link/statute/132/22); [Pub. L. 118–49, § 10(a)(3)](https://www.govinfo.gov/link/plaw/118/public/49), (b)(3), Apr. 20, 2024, [138 Stat. 876](https://www.govinfo.gov/link/statute/138/876), 877.)*

@@ -3,9 +3,10 @@ title: "Section 2020 - Administration"
 usc_title: 7
 usc_section: "2020"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2020"
-generated_at: "2026-03-30T02:53:42.368Z"
+generated_at: "2026-11-23T21:25:28.255Z"
+status: "active"
 ---
 
 # § 2020. Administration
@@ -235,3 +236,27 @@ generated_at: "2026-03-30T02:53:42.368Z"
       - **(ii)** the privacy of information that is submitted through or retained by the National Accuracy Clearinghouse consistent with subsection (e)(8); and
     - **(E)** include such other rules and standards the Secretary determines appropriate to carry out this subsection.
   - **(4)** The initial match and corresponding actions required by paragraph (3)(B) shall occur within 3 years after December 20, 2018 .
+
+Electronic and automated systems.—
+
+In general
+
+State option for telephonic signature
+
+Requirements
+
+In general
+
+Extension
+
+In general
+
+Requirements
+
+“Not later than September 1, 2000 , the Secretary of Agriculture shall submit a report regarding the progress and effectiveness of the cooperative arrangements entered into by State agencies under section 11(r) of the Food and Nutrition Act of 2008 ( 7 U.S.C. 2020(r) ) (as added by subsection (a)) to—
+
+Jimmy Carter.
+
+## Source Credit
+
+*([Pub. L. 88–525, § 11](https://www.govinfo.gov/link/plaw/88/public/525), Aug. 31, 1964, [78 Stat. 707](https://www.govinfo.gov/link/statute/78/707); [Pub. L. 95–113, title XIII, § 1301](https://www.govinfo.gov/link/plaw/95/public/113), Sept. 29, 1977, [91 Stat. 969](https://www.govinfo.gov/link/statute/91/969); [Pub. L. 96–249, title I](https://www.govinfo.gov/link/plaw/96/public/249), §§ 113, 116–120, 122, 123, May 26, 1980, [94 Stat. 361–363](https://www.govinfo.gov/link/statute/94/361); [Pub. L. 97–35, title I, § 111(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 362](https://www.govinfo.gov/link/statute/95/362); [Pub. L. 97–98, title XIII](https://www.govinfo.gov/link/plaw/97/public/98), §§ 1316–1320(a), 1321–1323, Dec. 22, 1981, [95 Stat. 1286](https://www.govinfo.gov/link/statute/95/1286), 1287; [Pub. L. 97–253, title I](https://www.govinfo.gov/link/plaw/97/public/253), §§ 166–174, 180(b)(1), 189(b)(2), 190(c)(1), Sept. 8, 1982, [96 Stat. 779](https://www.govinfo.gov/link/statute/96/779), 780, 783, 787; [Pub. L. 98–204, § 7](https://www.govinfo.gov/link/plaw/98/public/204), Dec. 2, 1983, [97 Stat. 1386](https://www.govinfo.gov/link/statute/97/1386); [Pub. L. 98–369, div. B, title VI, § 2651(i)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1150](https://www.govinfo.gov/link/statute/98/1150); [Pub. L. 99–198, title XV](https://www.govinfo.gov/link/plaw/99/public/198), §§ 1507(b), 1517(b), 1525–1531(a), (b), 1535(b)(1), 1537(b), (c), Dec. 23, 1985, [99 Stat. 1568](https://www.govinfo.gov/link/statute/99/1568), 1576, 1580–1582, 1584, 1586, 1587; [Pub. L. 100–77, title VIII](https://www.govinfo.gov/link/plaw/100/public/77), §§ 808(a), 809(a), July 22, 1987, [101 Stat. 536](https://www.govinfo.gov/link/statute/101/536); [Pub. L. 100–435, title II, § 204(a)](https://www.govinfo.gov/link/plaw/100/public/435), title III, §§ 310, 311, 320, 321(a), 322, 323, 330, 352, Sept. 19, 1988, [102 Stat. 1657](https://www.govinfo.gov/link/statute/102/1657), 1660–1662, 1665; [Pub. L. 101–624, title XVII](https://www.govinfo.gov/link/plaw/101/public/624), §§ 1736–1741, 1763(b), Nov. 28, 1990, [104 Stat. 3793](https://www.govinfo.gov/link/statute/104/3793), 3794, 3806; [Pub. L. 102–237, title IX, § 941(5)](https://www.govinfo.gov/link/plaw/102/public/237), (6), Dec. 13, 1991, [105 Stat. 1892](https://www.govinfo.gov/link/statute/105/1892); [Pub. L. 103–66, title XIII, § 13941(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 676](https://www.govinfo.gov/link/statute/107/676); [Pub. L. 103–296, title I, § 108(f)(2)](https://www.govinfo.gov/link/plaw/103/public/296), (3), Aug. 15, 1994, [108 Stat. 1487](https://www.govinfo.gov/link/statute/108/1487); [Pub. L. 104–66, title I, § 1011(x)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 711](https://www.govinfo.gov/link/statute/109/711); [Pub. L. 104–193, title VIII](https://www.govinfo.gov/link/plaw/104/public/193), §§ 809(b), 819(b), 835–840, 844(b), 848(b)(1), 854(b), Aug. 22, 1996, [110 Stat. 2313](https://www.govinfo.gov/link/statute/110/2313), 2320, 2329–2331, 2333, 2334, 2342; [Pub. L. 105–33, title I](https://www.govinfo.gov/link/plaw/105/public/33), §§ 1003(a)(1), (2), (b), 1004, Aug. 5, 1997, [111 Stat. 255](https://www.govinfo.gov/link/statute/111/255), 256; [Pub. L. 105–379, § 1(a)](https://www.govinfo.gov/link/plaw/105/public/379), Nov. 12, 1998, [112 Stat. 3399](https://www.govinfo.gov/link/statute/112/3399); [Pub. L. 107–171, title IV](https://www.govinfo.gov/link/plaw/107/public/171), §§ 4114(a), 4115(a), 4116(a), May 13, 2002, [116 Stat. 314](https://www.govinfo.gov/link/statute/116/314), 315; [Pub. L. 108–265, title I, § 104(b)(2)](https://www.govinfo.gov/link/plaw/108/public/265), June 30, 2004, [118 Stat. 737](https://www.govinfo.gov/link/statute/118/737); [Pub. L. 110–234, title IV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 4001(b), 4002(a)(6), 4106, 4111(b), 4115(b)(8), 4116–4120, 4406(a)(2), title VII, § 7511(c)(5), May 22, 2008, [122 Stat. 1092](https://www.govinfo.gov/link/statute/122/1092), 1093, 1101, 1102, 1107, 1110–1112, 1140, 1267; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, §§ 4001(b), 4002(a)(6), 4106, 4111(b), 4115(b)(8), 4116–4120, 4406(a)(2), title VII, § 7511(c)(5), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1853, 1854, 1862, 1863, 1868, 1871–1874, 1902, 2029; [Pub. L. 111–296, title II, § 241(b)(2)](https://www.govinfo.gov/link/plaw/111/public/296), Dec. 13, 2010, [124 Stat. 3236](https://www.govinfo.gov/link/statute/124/3236); [Pub. L. 113–79, title IV](https://www.govinfo.gov/link/plaw/113/public/79), §§ 4013, 4014(a), 4015, 4016(a), Feb. 7, 2014, [128 Stat. 793](https://www.govinfo.gov/link/statute/128/793), 795; [Pub. L. 115–334, title IV](https://www.govinfo.gov/link/plaw/115/public/334), §§ 4005(c), 4009–4011, 4013(a), 4022(5), Dec. 20, 2018, [132 Stat. 4632](https://www.govinfo.gov/link/statute/132/4632), 4639, 4640, 4642, 4653; [Pub. L. 117–286, § 4(a)(27)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4308](https://www.govinfo.gov/link/statute/136/4308).)*

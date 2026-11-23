@@ -3,9 +3,10 @@ title: "Section 19321 - Special hiring authority for scientific, engineering, an
 usc_title: 42
 usc_section: "19321"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19321"
-generated_at: "2026-03-30T02:56:11.547Z"
+generated_at: "2026-11-23T21:26:33.885Z"
+status: "active"
 ---
 
 # § 19321. Special hiring authority for scientific, engineering, and project management personnel
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.547Z"
 - **(b)**
   - **(1)** The term of any employee appointed under this section shall not exceed 3 years unless otherwise authorized in law.
   - **(2)** The Under Secretary for Science shall have the authority to terminate any employee appointed under this section at any time based on performance or changing project or research needs of the Department.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title VI, § 10726](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1710](https://www.govinfo.gov/link/statute/136/1710).)*

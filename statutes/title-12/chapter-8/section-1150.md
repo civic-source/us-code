@@ -3,9 +3,10 @@ title: "Section 1150 - Compromise, adjustment, and cancellation of farm loans; c
 usc_title: 12
 usc_section: "1150"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1150"
-generated_at: "2026-03-30T02:53:53.389Z"
+generated_at: "2026-11-23T21:25:36.818Z"
+status: "active"
 ---
 
 # § 1150. Compromise, adjustment, and cancellation of farm loans; conditions; delegation of powers and duties by Secretary of Agriculture
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.389Z"
   - **(3)** the debtor has acted in good faith in an effort to meet his obligation; and
   - **(4)** the principal amount of said indebtedness is not in excess of $1,000. The Secretary is further authorized at his discretion to cancel and discharge indebtedness arising under said Acts of Congress or programs when the amount of said indebtedness is less than $10, or the debtor is deceased and there is no reasonable prospect of recovering from his estate, or his whereabouts has remained unknown for two years and there is no reasonable prospect of obtaining collection, or he has been discharged of the indebtedness in any proceeding under the Bankruptcy Act or under title 11. The compromises, adjustments, or cancelations 1 1 So in original. Probably should be “cancellations”. authorized by this section shall be effected through such agencies, upon such terms and conditions, and subject to such regulations, as the Secretary may prescribe, and the Secretary may delegate the exercise of any such powers and functions to such officers or employees of the Department of Agriculture as he may designate.
 
+
+## Source Credit
+
+*(Dec. 20, 1944, ch. 623, § 1, [58 Stat. 836](https://www.govinfo.gov/link/statute/58/836); [Pub. L. 95–598, title III, § 305](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2674](https://www.govinfo.gov/link/statute/92/2674).)*

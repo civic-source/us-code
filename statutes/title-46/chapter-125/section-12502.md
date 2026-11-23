@@ -3,9 +3,10 @@ title: "Section 12502 - Identification numbers, signal letters, and markings"
 usc_title: 46
 usc_section: "12502"
 chapter: 125
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 12502"
-generated_at: "2026-03-30T02:56:15.559Z"
+generated_at: "2026-11-23T21:26:37.142Z"
+status: "active"
 ---
 
 # § 12502. Identification numbers, signal letters, and markings
@@ -19,3 +20,9 @@ generated_at: "2026-03-30T02:56:15.559Z"
 - **(c)** Once a number is assigned under this section, it may not be used by another vessel.
 - **(d)** Once a documented vessel’s name is established, the name may not be changed without the approval of the Secretary.
 - **(e)** A person may not tamper with or falsify a number or other marking required under this section.
+
+“ Section 12502(a)(1) of title 46 , United States Code (as enacted by section 101 of this Act), applies to a vessel of the United States that does not have a unique number as prescribed by the Secretary of Transportation under that section until the earlier of the following:
+
+## Source Credit
+
+*(Added [Pub. L. 100–710, title I, § 101(a)](https://www.govinfo.gov/link/plaw/100/public/710), Nov. 23, 1988, [102 Stat. 4736](https://www.govinfo.gov/link/statute/102/4736).)*

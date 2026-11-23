@@ -3,9 +3,10 @@ title: "Section 2203 - Emergency watershed program"
 usc_title: 16
 usc_section: "2203"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2203"
-generated_at: "2026-03-30T02:54:23.001Z"
+generated_at: "2026-11-23T21:25:51.945Z"
+status: "active"
 ---
 
 # § 2203. Emergency watershed program
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:23.001Z"
         - **(I)** the modification will not adversely affect the floodplain functions and values for which the easement was acquired;
         - **(II)** any adverse impacts will be mitigated by enrollment and restoration of other land that provides greater floodplain functions and values at no additional cost to the Federal Government; and
         - **(III)** the modification will result in equal or greater environmental and economic values to the United States.
+
+## Source Credit
+
+*([Pub. L. 95–334, title IV, § 403](https://www.govinfo.gov/link/plaw/95/public/334), Aug. 4, 1978, [92 Stat. 434](https://www.govinfo.gov/link/statute/92/434); [Pub. L. 104–127, title III, § 382](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1016](https://www.govinfo.gov/link/statute/110/1016); [Pub. L. 113–79, title II, § 2506](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 752](https://www.govinfo.gov/link/statute/128/752); [Pub. L. 115–334, title II, § 2403(a)(2)(A)](https://www.govinfo.gov/link/plaw/115/public/334), (d), Dec. 20, 2018, [132 Stat. 4571](https://www.govinfo.gov/link/statute/132/4571), 4572.)*

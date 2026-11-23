@@ -3,9 +3,10 @@ title: "Section 1231 - Joint funding of programs"
 usc_title: 20
 usc_section: "1231"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1231"
-generated_at: "2026-03-30T02:54:48.157Z"
+generated_at: "2026-11-23T21:25:47.297Z"
+status: "active"
 ---
 
 # § 1231. Joint funding of programs
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:48.157Z"
     - **(A)** a description of the purpose and objectives of the joint funding arrangement;
     - **(B)** the amounts and sources, by program, of the funds dedicated to such arrangement; and
     - **(C)** the criteria developed to govern the award of contracts and grants.
+
+## Source Credit
+
+*([Pub. L. 90–247, title IV, § 430](https://www.govinfo.gov/link/plaw/90/public/247), formerly § 411, as added [Pub. L. 91–230, title IV, § 401(a)(10)](https://www.govinfo.gov/link/plaw/91/public/230), Apr. 13, 1970, [84 Stat. 166](https://www.govinfo.gov/link/statute/84/166); renumbered § 421 and amended [Pub. L. 92–318, title III](https://www.govinfo.gov/link/plaw/92/public/318), §§ 301(a)(1), 302(a), June 23, 1972, [86 Stat. 326](https://www.govinfo.gov/link/statute/86/326), 332; renumbered § 421A, [Pub. L. 93–380, title V, § 507(a)](https://www.govinfo.gov/link/plaw/93/public/380), Aug. 21, 1974, [88 Stat. 565](https://www.govinfo.gov/link/statute/88/565); renumbered § 430 and amended [Pub. L. 103–382, title II](https://www.govinfo.gov/link/plaw/103/public/382), §§ 212(b)(1), 241, Oct. 20, 1994, [108 Stat. 3913](https://www.govinfo.gov/link/statute/108/3913), 3921.)*

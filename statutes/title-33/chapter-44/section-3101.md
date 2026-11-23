@@ -3,9 +3,10 @@ title: "Section 3101 - Interagency oceans and human health research program"
 usc_title: 33
 usc_section: "3101"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3101"
-generated_at: "2026-03-30T02:55:41.138Z"
+generated_at: "2026-11-23T21:26:11.479Z"
+status: "active"
 ---
 
 # § 3101. Interagency oceans and human health research program
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:55:41.138Z"
   - **(3)** a copy or summary of the plan and any changes made in the plan;
   - **(4)** a summary of agency budgets for oceans and human health activities for that preceding fiscal year; and
   - **(5)** any recommendations regarding additional action or legislation that may be required to assist in achieving the purposes of this chapter.
+
+## Source Credit
+
+*([Pub. L. 108–447, div. B, title IX, § 902](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 2930](https://www.govinfo.gov/link/statute/118/2930); [Pub. L. 115–232, div. A, title VIII, § 809(k)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1843](https://www.govinfo.gov/link/statute/132/1843).)*

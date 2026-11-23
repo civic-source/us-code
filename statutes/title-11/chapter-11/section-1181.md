@@ -3,9 +3,10 @@ title: "Section 1181 - Inapplicability of other sections"
 usc_title: 11
 usc_section: "1181"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1181"
-generated_at: "2026-03-30T02:53:53.885Z"
+generated_at: "2026-11-23T21:25:34.959Z"
+status: "active"
 ---
 
 # § 1181. Inapplicability of other sections
@@ -13,3 +14,13 @@ generated_at: "2026-03-30T02:53:53.885Z"
 - **(a)** Sections 105(d), 1101(1), 1104, 1105, 1106, 1107, 1108, 1115, 1116, 1121, 1123(a)(8), 1123(c), 1127, 1129(a)(15), 1129(b), 1129(c), 1129(e), and 1141(d)(5) of this title do not apply in a case under this subchapter.
 - **(b)** Unless the court for cause orders otherwise, paragraphs (1), (2), and (4) of section 1102(a) and sections 1102(b), 1103, and 1125 of this title do not apply in a case under this subchapter.
 - **(c)** If a plan is confirmed under section 1191(b) of this title , section 1141(d) of this title shall not apply, except as provided in section 1192 of this title .
+
+In General
+
+Court Authority
+
+Special Rule for Discharge
+
+## Source Credit
+
+*(Added [Pub. L. 116–54, § 2(a)](https://www.govinfo.gov/link/plaw/116/public/54), Aug. 23, 2019, [133 Stat. 1079](https://www.govinfo.gov/link/statute/133/1079).)*

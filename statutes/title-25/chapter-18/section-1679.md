@@ -3,9 +3,10 @@ title: "Section 1679 - Eligibility of California Indians"
 usc_title: 25
 usc_section: "1679"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1679"
-generated_at: "2026-03-30T02:54:52.827Z"
+generated_at: "2026-11-23T21:25:54.635Z"
+status: "active"
 ---
 
 # § 1679. Eligibility of California Indians
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:52.827Z"
   - **(3)** Any Indian who holds trust interests in public domain, national forest, or reservation allotments in California.
   - **(4)** Any Indian of California who is listed on the plans for distribution of the assets of rancherias and reservations located within the State of California under the Act of August 18, 1958 ( 72 Stat. 619 ), and any descendant of such an Indian.
 - **(b)** Nothing in this section may be construed as expanding the eligibility of California Indians for health services provided by the Service beyond the scope of eligibility for such health services that applied on May 1, 1986 .
+
+## Source Credit
+
+*([Pub. L. 94–437, title VIII, § 809](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

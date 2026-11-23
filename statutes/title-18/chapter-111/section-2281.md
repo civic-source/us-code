@@ -3,9 +3,10 @@ title: "Section 2281 - Violence against maritime fixed platforms"
 usc_title: 18
 usc_section: "2281"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2281"
-generated_at: "2026-03-30T02:54:16.500Z"
+generated_at: "2026-11-23T21:25:44.133Z"
+status: "active"
 ---
 
 # § 2281. Violence against maritime fixed platforms
@@ -31,3 +32,21 @@ generated_at: "2026-03-30T02:54:16.500Z"
 - **(e)** This section does not apply to—
   - **(1)** the activities of armed forces during an armed conflict, as those terms are understood under the law of war, which are governed by that law; or
   - **(2)** activities undertaken by military forces of a state in the exercise of their official duties.
+
+Offenses.—
+
+In general
+
+Threat to safety
+
+Jurisdiction
+
+Bar To Prosecution
+
+Definitions
+
+Exceptions
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title VI, § 60019(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1977](https://www.govinfo.gov/link/statute/108/1977); amended [Pub. L. 104–132, title VII, § 723(a)(1)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1300](https://www.govinfo.gov/link/statute/110/1300); [Pub. L. 104–294, title VI, § 607(p)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3513](https://www.govinfo.gov/link/statute/110/3513); [Pub. L. 114–23, title VIII, § 803](https://www.govinfo.gov/link/plaw/114/public/23), June 2, 2015, [129 Stat. 307](https://www.govinfo.gov/link/statute/129/307).)*

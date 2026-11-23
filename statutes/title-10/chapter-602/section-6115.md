@@ -3,9 +3,10 @@ title: "Section 6115 - Major warhead refurbishment program"
 usc_title: 10
 usc_section: "6115"
 chapter: 602
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6115"
-generated_at: "2026-03-30T02:53:38.218Z"
+generated_at: "2026-11-23T21:25:32.811Z"
+status: "active"
 ---
 
 # § 6115. Major warhead refurbishment program
@@ -18,3 +19,7 @@ In fiscal year 2015 and subsequent fiscal years, the Secretary of Energy shall s
   - **(4)** identification of the cost and risk of additional capital asset and infrastructure capabilities required to support production and certification of each alternative;
   - **(5)** a comparative analysis of the risks, costs, and scheduling needs for any military requirement intended to enhance warhead safety, security, or maintainability, including any requirement to consolidate and/or integrate warhead systems or mods as compared to at least one other feasible refurbishment alternative the Nuclear Weapons Council considers appropriate; and
   - **(6)** a life-cycle cost estimate for the alternative selected that details the overall cost, scope, and schedule planning assumptions.
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1352](https://www.govinfo.gov/link/statute/139/1352).)*

@@ -3,9 +3,10 @@ title: "Section 2011 - Provisions relating to competitive products"
 usc_title: 39
 usc_section: "2011"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 2011"
-generated_at: "2026-03-30T02:55:43.690Z"
+generated_at: "2026-11-23T21:26:12.776Z"
+status: "active"
 ---
 
 # § 2011. Provisions relating to competitive products
@@ -78,3 +79,7 @@ generated_at: "2026-03-30T02:55:43.690Z"
 - **(i)**
   - **(1)** The Postal Service shall submit an annual report to the Secretary of the Treasury concerning the operation of the Competitive Products Fund. The report shall address such matters as risk limitations, reserve balances, allocation or distribution of moneys, liquidity requirements, and measures to safeguard against losses.
   - **(2)** A copy of the most recent report submitted under paragraph (1) shall be included in the annual report submitted by the Postal Regulatory Commission under section 3652(g).
+
+## Source Credit
+
+*(Added [Pub. L. 109–435, title IV, § 401(a)(1)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3221](https://www.govinfo.gov/link/statute/120/3221).)*

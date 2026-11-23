@@ -3,9 +3,10 @@ title: "Section 7406 - National Institute of Standards and Technology programs"
 usc_title: 15
 usc_section: "7406"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7406"
-generated_at: "2026-03-30T02:54:08.222Z"
+generated_at: "2026-11-23T21:25:40.055Z"
+status: "active"
 ---
 
 # § 7406. National Institute of Standards and Technology programs
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:08.222Z"
     - **(A)** shall include in that program an explanation of how the agency has considered such checklist in deploying that system; and
     - **(B)** may treat the explanation as if it were a portion of the agency’s annual performance plan properly classified under criteria established by an Executive Order (within the meaning of section 1115(d) of title 31 ).
   - **(2)** Paragraph (1) does not apply to any computer hardware or software system for which the National Institute of Standards and Technology does not have responsibility under section 278g–3(a)(3) of this title .
+
+## Source Credit
+
+*([Pub. L. 107–305, § 8](https://www.govinfo.gov/link/plaw/107/public/305), Nov. 27, 2002, [116 Stat. 2375](https://www.govinfo.gov/link/statute/116/2375); [Pub. L. 113–274, title II, § 203](https://www.govinfo.gov/link/plaw/113/public/274), Dec. 18, 2014, [128 Stat. 2979](https://www.govinfo.gov/link/statute/128/2979); [Pub. L. 113–283, § 2(e)(2)](https://www.govinfo.gov/link/plaw/113/public/283), Dec. 18, 2014, [128 Stat. 3086](https://www.govinfo.gov/link/statute/128/3086).)*

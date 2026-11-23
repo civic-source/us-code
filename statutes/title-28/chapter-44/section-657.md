@@ -3,9 +3,10 @@ title: "Section 657 - Arbitration award and judgment"
 usc_title: 28
 usc_section: "657"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 657"
-generated_at: "2026-03-30T02:55:30.136Z"
+generated_at: "2026-11-23T21:26:01.071Z"
+status: "active"
 ---
 
 # § 657. Arbitration award and judgment
@@ -18,3 +19,19 @@ generated_at: "2026-03-30T02:55:30.136Z"
   - **(3)** The court shall not admit at the trial de novo any evidence that there has been an arbitration proceeding, the nature or amount of any award, or any other matter concerning the conduct of the arbitration proceeding, unless—
     - **(A)** the evidence would otherwise be admissible in the court under the Federal Rules of Evidence; or
     - **(B)** the parties have otherwise stipulated.
+
+Filing and Effect of Arbitration Award
+
+Sealing of Arbitration Award
+
+Trial de Novo of Arbitration Awards.—
+
+Time for filing demand
+
+Action restored to court docket
+
+Exclusion of evidence of arbitration
+
+## Source Credit
+
+*(Added [Pub. L. 100–702, title IX, § 901(a)](https://www.govinfo.gov/link/plaw/100/public/702), Nov. 19, 1988, [102 Stat. 4662](https://www.govinfo.gov/link/statute/102/4662); amended [Pub. L. 105–315, § 9](https://www.govinfo.gov/link/plaw/105/public/315), Oct. 30, 1998, [112 Stat. 2997](https://www.govinfo.gov/link/statute/112/2997).)*

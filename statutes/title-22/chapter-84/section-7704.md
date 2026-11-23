@@ -3,9 +3,10 @@ title: "Section 7704 - Authorization of assistance"
 usc_title: 22
 usc_section: "7704"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7704"
-generated_at: "2026-03-30T02:55:05.445Z"
+generated_at: "2026-11-23T21:25:58.725Z"
+status: "active"
 ---
 
 # § 7704. Authorization of assistance
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:05.445Z"
   - **(3)** Assistance under this section may not be provided for any project that is likely to cause a significant environmental, health, or safety hazard.
   - **(4)** The prohibitions on use of funds contained in paragraphs (1) through (3) of section 104(f) of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2151b(f)(1) –(3)) shall apply to funds made available to carry out this section to the same extent and in the same manner as such prohibitions apply to funds made available to carry out part I of such Act [ 22 U.S.C. 2151 et seq.]. The prohibition on use of funds contained in any provision of law comparable to the eleventh and fourteenth provisos under the heading “Child Survival and Health Programs Fund” of division E of Public Law 108–7 ( 117 Stat. 162 ) shall apply to funds made available to carry out this section for fiscal year 2004.
 - **(f)** The provision of assistance under this section shall be coordinated with other United States foreign assistance programs.
+
+## Source Credit
+
+*([Pub. L. 108–199, div. D, title VI, § 605](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 214](https://www.govinfo.gov/link/statute/118/214).)*

@@ -3,12 +3,17 @@ title: "Section 541h - Cooperation with State of Oregon in administration and pr
 usc_title: 16
 usc_section: "541h"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 541h"
-generated_at: "2026-03-30T02:54:22.869Z"
+generated_at: "2026-11-23T21:25:51.665Z"
+status: "active"
 ---
 
 # § 541h. Cooperation with State of Oregon in administration and protection of lands; civil and criminal jurisdiction; power of taxation
 
 The Secretary shall cooperate with the State of Oregon and political subdivisions thereof in the administration of the Area and in the administration and protection of lands within and adjacent to the Area owned or controlled by the State or political subdivisions thereof. Nothing in this subchapter shall deprive the State of Oregon or any political subdivision thereof of its right to exercise civil and criminal jurisdiction within the Area consistent with the provisions of this subchapter, or of its right to tax persons, corporations, franchises or other non-Federal property, in or on the lands or waters within the Area.
 
+
+## Source Credit
+
+*([Pub. L. 93–535, § 9](https://www.govinfo.gov/link/plaw/93/public/535), Dec. 22, 1974, [88 Stat. 1734](https://www.govinfo.gov/link/statute/88/1734).)*

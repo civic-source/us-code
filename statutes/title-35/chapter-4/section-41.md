@@ -3,9 +3,10 @@ title: "Section 41 - Patent fees; patent and trademark search systems"
 usc_title: 35
 usc_section: "41"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "35 U.S.C. § 41"
-generated_at: "2026-03-30T02:55:34.235Z"
+generated_at: "2026-11-23T21:26:08.600Z"
+status: "active"
 ---
 
 # § 41. Patent fees; patent and trademark search systems
@@ -88,3 +89,243 @@ generated_at: "2026-03-30T02:55:34.235Z"
   - **(3)** The Director may establish reasonable fees for access by the public to the automated search systems of the Patent and Trademark Office. If such fees are established, a limited amount of free access shall be made available to users of the systems for purposes of education and training. The Director may waive the payment by an individual of fees authorized by this subsection upon a showing of need or hardship, and if such a waiver is in the public interest.
   - **(4)** The Director shall submit to the Congress an annual report on the automated search systems of the Patent and Trademark Office and the access by the public to such systems. The Director shall also publish such report in the Federal Register. The Director shall provide an opportunity for the submission of comments by interested persons on each such report.
 - **(j)** In addition to any other penalty available under law, an entity that is found to have falsely asserted entitlement to a fee reduction under this section shall, unless the entity shows that the assertion was made in good faith, be subject to a fine, to be determined by the Director, the amount of which shall be not less than 3 times the amount that the entity failed to pay as a result of the false assertion, whether the Director discovers the false assertion before or after the date on which a patent has been issued.
+
+General Fees
+
+Filing and basic national fees.—
+
+Excess claims fees.—
+
+In general
+
+Multiple dependent claims
+
+Refunds; errors in payment
+
+Examination fees.—
+
+In general.—
+
+Applicability of other fee provisions
+
+Issue fees.—
+
+Disclaimer fee
+
+Appeal fees.—
+
+Revival fees
+
+Extension fees
+
+Maintenance Fees.—
+
+In general
+
+Grace period; surcharge
+
+No maintenance fee for design or plant patent
+
+Delays in Payment of Maintenance Fees.—
+
+Acceptance
+
+Effect on rights of others
+
+Patent Search and Other Fees.—
+
+Patent search fees.—
+
+In general
+
+Specific fees
+
+Applicability of other provisions
+
+Refunds
+
+Other fees.—
+
+In general
+
+Copies for libraries
+
+Waiver of Fees; Copies Regarding Notice
+
+Adjustment of Fees
+
+Fees for Small Entities.—
+
+Reductions in fees
+
+Surcharges and other fees
+
+Reduction for electronic filing
+
+Electronic Patent and Trademark Data.—
+
+Maintenance of collections
+
+Availability of automated search systems
+
+Access fees
+
+Annual report to congress
+
+Penalty for False Assertions
+
+In General
+
+Section
+
+In General
+
+Section
+
+Fee Setting.—
+
+In general
+
+Fees to recover costs
+
+Small and Micro Entities
+
+Reduction of Fees in Certain Fiscal Years
+
+Role of the Public Advisory Committee
+
+Publication in the Federal Register.—
+
+Publication and rationale
+
+Public comment period
+
+Publication of final rule
+
+Congressional comment period
+
+Rule of construction
+
+Retention of Authority
+
+Micro Entity Defined
+
+Electronic Filing Incentive.—
+
+In general
+
+Effective date
+
+Effective Date; Sunset.—
+
+Effective date
+
+Sunset
+
+Prior regulations not affected
+
+In general.—
+
+Fee.—
+
+Prioritized examination fee
+
+Additional fees
+
+Regulations; limitations.—
+
+Regulations
+
+Limitation on claims
+
+Limitation on total number of requests
+
+Reduction in fees for small entities
+
+Deposit of fees
+
+Effective date and termination.—
+
+Effective date
+
+Termination
+
+Surcharge.—
+
+In general
+
+Deposit of amounts
+
+Effective date and termination of surcharge
+
+Authority.—
+
+In general
+
+Surcharges deposited in treasury
+
+Limitations on Authority
+
+Definitions
+
+Director
+
+Trademark act of 1946
+
+General Patent Fees
+
+General Fees
+
+Filing and basic national fees.—
+
+Excess claims fees
+
+Examination fees.—
+
+Issue fees.—
+
+Disclaimer fee
+
+Appeal fees.—
+
+Revival fees
+
+Extension fees
+
+Patent Maintenance Fees
+
+Maintenance Fees
+
+Patent Search Fees
+
+Patent Search and Other Fees.—
+
+Patent search fees.—
+
+Other fees
+
+Adjustments
+
+Fees For Small Entities
+
+Fee For Filing Application
+
+Reference to Trademark Act of
+
+Effective Date
+
+Applicability.—
+
+Transitional Provisions.—
+
+Search fees
+
+Timing of fees
+
+In General
+
+Definition
+
+## Source Credit
+
+*(July 19, 1952, ch. 950, [66 Stat. 796](https://www.govinfo.gov/link/statute/66/796); [Pub. L. 89–83](https://www.govinfo.gov/link/plaw/89/public/83), §§ 1, 2, July 24, 1965, [79 Stat. 259](https://www.govinfo.gov/link/statute/79/259); [Pub. L. 93–596, § 1](https://www.govinfo.gov/link/plaw/93/public/596), Jan. 2, 1975, [88 Stat. 1949](https://www.govinfo.gov/link/statute/88/1949); [Pub. L. 94–131, § 3](https://www.govinfo.gov/link/plaw/94/public/131), Nov. 14, 1975, [89 Stat. 690](https://www.govinfo.gov/link/statute/89/690); [Pub. L. 96–517, § 2](https://www.govinfo.gov/link/plaw/96/public/517), Dec. 12, 1980, [94 Stat. 3017](https://www.govinfo.gov/link/statute/94/3017); [Pub. L. 97–247, § 3(a)](https://www.govinfo.gov/link/plaw/97/public/247) –(e), Aug. 27, 1982, [96 Stat. 317–319](https://www.govinfo.gov/link/statute/96/317); [Pub. L. 97–256, title I, § 101(1)](https://www.govinfo.gov/link/plaw/97/public/256) –(4), Sept. 8, 1982, [96 Stat. 816](https://www.govinfo.gov/link/statute/96/816); [Pub. L. 98–622, title II, § 204(a)](https://www.govinfo.gov/link/plaw/98/public/622), Nov. 8, 1984, [98 Stat. 3388](https://www.govinfo.gov/link/statute/98/3388); [Pub. L. 99–607, § 1(b)(2)](https://www.govinfo.gov/link/plaw/99/public/607), Nov. 6, 1986, [100 Stat. 3470](https://www.govinfo.gov/link/statute/100/3470); [Pub. L. 102–204, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/204) –(c)(1), (d)(1), (2)(A), Dec. 10, 1991, [105 Stat. 1637–1639](https://www.govinfo.gov/link/statute/105/1637); [Pub. L. 102–444, § 1](https://www.govinfo.gov/link/plaw/102/public/444), Oct. 23, 1992, [106 Stat. 2245](https://www.govinfo.gov/link/statute/106/2245); [Pub. L. 103–465, title V](https://www.govinfo.gov/link/plaw/103/public/465), §§ 532(b)(2), 533(b)(1), Dec. 8, 1994, [108 Stat. 4986](https://www.govinfo.gov/link/statute/108/4986), 4988; [Pub. L. 105–358, § 3](https://www.govinfo.gov/link/plaw/105/public/358), Nov. 10, 1998, [112 Stat. 3272](https://www.govinfo.gov/link/statute/112/3272); [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4202, 4605(a), 4732(a)(5), (10)(A), 4804(d)(1)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–554, 1501A–570, 1501A–582, 1501A–589; [Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1906](https://www.govinfo.gov/link/statute/116/1906); [Pub. L. 112–29](https://www.govinfo.gov/link/plaw/112/public/29), §§ 11(a)–(e), 20(j), Sept. 16, 2011, [125 Stat. 320–323](https://www.govinfo.gov/link/statute/125/320), 335; [Pub. L. 112–211, title II, § 202(b)(1)](https://www.govinfo.gov/link/plaw/112/public/211), Dec. 18, 2012, [126 Stat. 1535](https://www.govinfo.gov/link/statute/126/1535); [Pub. L. 117–328, div. W, § 107(a)](https://www.govinfo.gov/link/plaw/117/public/328), (b)(1), Dec. 29, 2022, [136 Stat. 5521](https://www.govinfo.gov/link/statute/136/5521); [Pub. L. 118–151, § 1(1)](https://www.govinfo.gov/link/plaw/118/public/151), Dec. 17, 2024, [138 Stat. 1685](https://www.govinfo.gov/link/statute/138/1685).)*

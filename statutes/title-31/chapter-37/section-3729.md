@@ -3,9 +3,10 @@ title: "Section 3729 - False claims"
 usc_title: 31
 usc_section: "3729"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 3729"
-generated_at: "2026-03-30T02:55:34.060Z"
+generated_at: "2026-11-23T21:26:10.596Z"
+status: "active"
 ---
 
 # § 3729. False claims
@@ -42,3 +43,32 @@ generated_at: "2026-03-30T02:55:34.060Z"
   - **(4)** the term “material” means having a natural tendency to influence, or be capable of influencing, the payment or receipt of money or property.
 - **(c)** Any information furnished pursuant to subsection (a)(2) shall be exempt from disclosure under section 552 of title 5 .
 - **(d)** This section does not apply to claims, records, or statements made under the Internal Revenue Code of 1986.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3729 | 31:231. | R.S. § 3490. |
+
+
+Liability for Certain Acts.—
+
+In general
+
+Reduced damages
+
+Costs of civil actions
+
+Definitions
+
+Exemption From Disclosure
+
+Exclusion
+
+Historical and Revision Notes
+
+3729
+
+“The amendments made by this section [amending this section and sections 3730 to 3733 of this title] shall take effect on the date of enactment of this Act [ May 20, 2009 ] and shall apply to conduct on or after the date of enactment, except that—
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 978](https://www.govinfo.gov/link/statute/96/978); [Pub. L. 99–562, § 2](https://www.govinfo.gov/link/plaw/99/public/562), Oct. 27, 1986, [100 Stat. 3153](https://www.govinfo.gov/link/statute/100/3153); [Pub. L. 103–272, § 4(f)(1)(O)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1362](https://www.govinfo.gov/link/statute/108/1362); [Pub. L. 111–21, § 4(a)](https://www.govinfo.gov/link/plaw/111/public/21), May 20, 2009, [123 Stat. 1621](https://www.govinfo.gov/link/statute/123/1621).)*

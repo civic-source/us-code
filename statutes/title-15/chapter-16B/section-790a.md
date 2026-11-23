@@ -3,9 +3,10 @@ title: "Section 790a - National Energy Information System; information required 
 usc_title: 15
 usc_section: "790a"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 790a"
-generated_at: "2026-03-30T02:54:08.122Z"
+generated_at: "2026-11-23T21:25:39.765Z"
+status: "active"
 ---
 
 # § 790a. National Energy Information System; information required to be maintained
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:08.122Z"
   - **(5)** industrial, labor, and regional impacts of changes in patterns of energy supply and consumption;
   - **(6)** international aspects, economic and otherwise, of the evolving energy situation; and
   - **(7)** long-term relationships between energy supply and consumption in the United States and world communities.
+
+## Source Credit
+
+*([Pub. L. 93–275, § 52](https://www.govinfo.gov/link/plaw/93/public/275), as added [Pub. L. 94–385, title I, § 142](https://www.govinfo.gov/link/plaw/94/public/385), Aug. 14, 1976, [90 Stat. 1135](https://www.govinfo.gov/link/statute/90/1135); amended [Pub. L. 95–91, title VII, § 709(a)(3)](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 608](https://www.govinfo.gov/link/statute/91/608).)*

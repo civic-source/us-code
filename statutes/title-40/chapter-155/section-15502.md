@@ -3,9 +3,10 @@ title: "Section 15502 - Comprehensive economic and infrastructure development pl
 usc_title: 40
 usc_section: "15502"
 chapter: 155
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 15502"
-generated_at: "2026-03-30T02:55:43.388Z"
+generated_at: "2026-11-23T21:26:14.974Z"
+status: "active"
 ---
 
 # § 15502. Comprehensive economic and infrastructure development plans
@@ -18,3 +19,19 @@ generated_at: "2026-03-30T02:55:43.388Z"
 - **(d)**
   - **(1)** A Commission and applicable State and local development districts shall encourage and assist, to the maximum extent practicable, public participation in the development, revision, and implementation of all plans and programs under this subtitle.
   - **(2)** A Commission shall develop guidelines for providing public participation, including public hearings.
+
+State Plans
+
+Content of Plan
+
+Consultation With Interested Local Parties
+
+Public Participation.—
+
+In general
+
+Guidelines
+
+## Source Credit
+
+*(Added [Pub. L. 110–234, title XIV, § 14217(a)(2)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1476](https://www.govinfo.gov/link/statute/122/1476), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14217(a)(2), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2238.)*

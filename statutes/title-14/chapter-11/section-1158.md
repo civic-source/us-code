@@ -3,9 +3,10 @@ title: "Section 1158 - Authority to enter into transactions other than contracts
 usc_title: 14
 usc_section: "1158"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 1158"
-generated_at: "2026-03-30T02:53:51.493Z"
+generated_at: "2026-11-23T21:25:35.401Z"
+status: "active"
 ---
 
 # § 1158. Authority to enter into transactions other than contracts and grants to procure cost-effective, advanced technology for mission-critical needs
@@ -22,3 +23,19 @@ generated_at: "2026-03-30T02:53:51.493Z"
 - **(d)** The Commandant shall ensure that management, technical, and contracting personnel of the Coast Guard involved in the award or administration of transactions under this section are provided adequate education and training with respect to the authority under this section.
 - **(e)** The Commandant shall prescribe regulations as necessary to carry out this section.
 - **(f)** In this section, the term “counter-UAS” has the meaning given such term in section 44801 of title 49 .
+
+In General
+
+Operation, Testing, and Acquisition
+
+Limitations
+
+Education and Training
+
+Regulations
+
+Counter-UAS Defined
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. K, title CXII, § 11205(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4009](https://www.govinfo.gov/link/statute/136/4009).)*

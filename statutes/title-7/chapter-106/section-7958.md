@@ -3,9 +3,10 @@ title: "Section 7958 - Miscellaneous provisions"
 usc_title: 7
 usc_section: "7958"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7958"
-generated_at: "2026-03-30T02:53:42.468Z"
+generated_at: "2026-11-23T21:25:28.458Z"
+status: "active"
 ---
 
 # § 7958. Miscellaneous provisions
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:53:42.468Z"
     - **(A)** the date the Secretary appoints the members of the Peanut Standards Board pursuant to subsection (c); or
     - **(B)** 180 days after May 13, 2002 .
 - **(h)** This section shall take effect with the 2002 crop of peanuts.
+
+## Source Credit
+
+*([Pub. L. 107–171, title I, § 1308](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 178](https://www.govinfo.gov/link/statute/116/178); [Pub. L. 115–334, title XII, § 12517](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 5000](https://www.govinfo.gov/link/statute/132/5000); [Pub. L. 117–286, § 4(a)(41)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4309](https://www.govinfo.gov/link/statute/136/4309).)*

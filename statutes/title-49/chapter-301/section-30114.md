@@ -3,9 +3,10 @@ title: "Section 30114 - Special exemptions"
 usc_title: 49
 usc_section: "30114"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 30114"
-generated_at: "2026-03-30T02:56:19.351Z"
+generated_at: "2026-11-23T21:26:40.756Z"
+status: "active"
 ---
 
 # § 30114. Special exemptions
@@ -32,3 +33,62 @@ generated_at: "2026-03-30T02:56:19.351Z"
       - **(ii)** is manufactured under a license for the product configuration, trade dress, trademark, or patent, for the motor vehicle that is intended to be replicated from the original manufacturer, its successors or assignees, or current owner of such product configuration, trade dress, trademark, or patent rights.
   - **(8)** Except as provided in paragraphs (1) and (4), a registrant shall be considered a motor vehicle manufacturer for purposes of parts A and C of subtitle VI of this title. Nothing shall be construed to exempt a registrant from complying with the requirements under sections 30116 through 30120A of this title if the motor vehicle excepted under paragraph (1) contains a defect related to motor vehicle safety.
   - **(9)** Nothing in this subsection shall be construed to preempt, affect, or supersede any State titling or registration law or regulation for a replica motor vehicle, or exempt a person from complying with such law or regulation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30114 | 15:1397(j). | Sept. 9, 1966 , Pub. L. 89–563 , 80 Stat. 718 , § 108(j); added Oct. 31, 1988 , Pub. L. 100–562, § 2(b) , 102 Stat. 2824 . |
+
+
+Vehicles Used for Particular Purposes
+
+Exemption for Low-volume Manufacturers.—
+
+In general
+
+Registration requirement
+
+Permanent label requirement.—
+
+In general
+
+Written notice
+
+Reporting requirement
+
+Effect on other provisions
+
+Limitation and public notice
+
+Limitation of liability for original manufacturers, licensors or owners of product configuration, trade dress, or design patents
+
+Definitions
+
+Low-volume manufacturer
+
+Replica motor vehicle
+
+Construction
+
+State registration
+
+Historical and Revision Notes
+
+30114
+
+Sept. 9, 1966
+
+Pub. L. 89–563
+
+80 Stat. 718
+
+Oct. 31, 1988
+
+Pub. L. 100–562, § 2(b)
+
+102 Stat. 2824
+
+(a)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 947](https://www.govinfo.gov/link/statute/108/947); [Pub. L. 105–178, title VII, § 7107(a)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 469](https://www.govinfo.gov/link/statute/112/469); [Pub. L. 114–94, div. B, title XXIV, § 24405(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1721](https://www.govinfo.gov/link/statute/129/1721).)*

@@ -3,9 +3,10 @@ title: "Section 1693o - Administrative enforcement"
 usc_title: 15
 usc_section: "1693o"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1693o"
-generated_at: "2026-03-30T02:54:08.157Z"
+generated_at: "2026-11-23T21:25:39.889Z"
+status: "active"
 ---
 
 # § 1693o. Administrative enforcement
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.157Z"
   - **(5)** subtitle E of the Consumer Financial Protection Act of 2010 [ 12 U.S.C. 5561 et seq.], by the Bureau, with respect to any person subject to this subchapter, except that the Bureau shall not have authority to enforce the requirements of section 1693 o –2 of this title or any regulations prescribed by the Board under section 1693 o –2 of this title.
 - **(b)** For the purpose of the exercise by any agency referred to in any of paragraphs (1) through (4) of subsection (a) of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in any of paragraphs (1) through (4) of subsection (a), each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this subchapter, any other authority conferred on it by law.
 - **(c)** Except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other Government agency under any of paragraphs (1) through (4) of subsection (a), and subject to subtitle B of the Consumer Financial Protection Act of 2010, the Federal Trade Commission shall be authorized to enforce such requirements. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act [ 15 U.S.C. 41 et seq.], a violation of any requirement imposed under this subchapter shall be deemed a violation of a requirement imposed under that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Federal Trade Commission to enforce compliance by any person subject to the jurisdiction of the Federal Trade Commission with the requirements imposed under this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests under the Federal Trade Commission Act.
+
+## Source Credit
+
+*([Pub. L. 90–321, title IX, § 918](https://www.govinfo.gov/link/plaw/90/public/321), formerly § 917, as added [Pub. L. 95–630, title XX, § 2001](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3739](https://www.govinfo.gov/link/statute/92/3739); amended [Pub. L. 101–73, title VII, § 744](https://www.govinfo.gov/link/plaw/101/public/73) (o), Aug. 9, 1989, [103 Stat. 440](https://www.govinfo.gov/link/statute/103/440); [Pub. L. 102–242, title II, § 212(f)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2301](https://www.govinfo.gov/link/statute/105/2301); [Pub. L. 104–287, § 6(h)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3399](https://www.govinfo.gov/link/statute/110/3399); renumbered § 918, [Pub. L. 111–24, title IV, § 401(1)](https://www.govinfo.gov/link/plaw/111/public/24), May 22, 2009, [123 Stat. 1751](https://www.govinfo.gov/link/statute/123/1751); [Pub. L. 111–203, title X, § 1084(5)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2082](https://www.govinfo.gov/link/statute/124/2082).)*

@@ -3,9 +3,10 @@ title: "Section 2617 - Required terms and conditions of plans"
 usc_title: 7
 usc_section: "2617"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2617"
-generated_at: "2026-03-30T02:53:42.389Z"
+generated_at: "2026-11-23T21:25:28.301Z"
+status: "active"
 ---
 
 # § 2617. Required terms and conditions of plans
@@ -28,3 +29,7 @@ Any plan issued pursuant to this chapter shall contain the following terms and c
 - **(g)** Providing that the board shall, subject to the provisions of subsections (e) and (f) of this section, develop and submit to the Secretary for his approval any research, development, advertising or promotion programs or projects, and that any such program or project must be approved by the Secretary before becoming effective.
 - **(h)** Providing the board with authority to enter into contracts or agreements, with the approval of the Secretary, for the development and carrying out of research, development, advertising or promotion programs or projects, and the payment of the cost thereof with funds collected pursuant to this chapter.
 - **(i)** Providing that the board shall maintain books and records and prepare and submit to the Secretary such reports from time to time as may be prescribed for appropriate accounting with respect to the receipt and disbursement of funds entrusted to it and cause a complete audit report to be submitted to the Secretary at the end of each fiscal period.
+
+## Source Credit
+
+*([Pub. L. 91–670, title III, § 308](https://www.govinfo.gov/link/plaw/91/public/670), Jan. 11, 1971, [84 Stat. 2042](https://www.govinfo.gov/link/statute/84/2042); [Pub. L. 97–244, § 2](https://www.govinfo.gov/link/plaw/97/public/244), Aug. 26, 1982, [96 Stat. 310](https://www.govinfo.gov/link/statute/96/310); [Pub. L. 98–171, § 2(a)](https://www.govinfo.gov/link/plaw/98/public/171), Nov. 29, 1983, [97 Stat. 1117](https://www.govinfo.gov/link/statute/97/1117); [Pub. L. 101–624, title XIX, § 1940](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3866](https://www.govinfo.gov/link/statute/104/3866).)*

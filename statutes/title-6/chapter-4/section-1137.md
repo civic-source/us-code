@@ -3,9 +3,10 @@ title: "Section 1137 - Public transportation security training program"
 usc_title: 6
 usc_section: "1137"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1137"
-generated_at: "2026-03-30T02:53:09.504Z"
+generated_at: "2026-11-23T21:25:25.867Z"
+status: "active"
 ---
 
 # § 1137. Public transportation security training program
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:53:09.504Z"
 - **(g)** The Secretary shall ensure that the training program developed under subsection (a) is a component of the National Training Program established under section 748 of this title .
 - **(h)** This section shall not apply to any ferry system for which training is required to be conducted pursuant to section 70103 of title 46 .
 - **(i)** Not later than 2 years after the date of issuance of the final regulation, the Comptroller General shall review implementation of the training program, including interviewing a representative sample of public transportation agencies and employees, and report to the appropriate congressional committees, on the number of reviews conducted and the results. The Comptroller General may submit the report in both classified and redacted formats as necessary.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XIV, § 1408](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 409](https://www.govinfo.gov/link/statute/121/409).)*

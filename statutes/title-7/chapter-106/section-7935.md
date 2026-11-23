@@ -3,9 +3,10 @@ title: "Section 7935 - Loan deficiency payments"
 usc_title: 7
 usc_section: "7935"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7935"
-generated_at: "2026-03-30T02:53:42.466Z"
+generated_at: "2026-11-23T21:25:28.455Z"
+status: "active"
 ---
 
 # § 7935. Loan deficiency payments
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:42.466Z"
 - **(f)**
   - **(1)** For the 2002 crop of wool, mohair, honey, dry peas, lentils and small chickpeas, in the case of producers of such a crop that would be eligible for a loan deficiency payment under this section except for the fact that the producers lost beneficial interest in the crop prior to the date of publication of the regulations implementing this section, the producers shall be eligible for a loan deficiency payment as of the date producers marketed or otherwise lost beneficial interest in the crop, as determined by the Secretary.
   - **(2)**
+
+## Source Credit
+
+*([Pub. L. 107–171, title I, § 1205](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 158](https://www.govinfo.gov/link/statute/116/158).)*

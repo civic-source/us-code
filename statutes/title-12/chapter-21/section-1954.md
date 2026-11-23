@@ -3,12 +3,17 @@ title: "Section 1954 - Injunctions"
 usc_title: 12
 usc_section: "1954"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1954"
-generated_at: "2026-03-30T02:53:53.470Z"
+generated_at: "2026-11-23T21:25:37.048Z"
+status: "active"
 ---
 
 # § 1954. Injunctions
 
 Whenever it appears to the Secretary that any person has engaged, is engaged, or is about to engage in any acts or practices constituting a violation of any regulation under this chapter, he may in his discretion bring an action, in the proper district court of the United States or the proper United States court of any territory or other place subject to the jurisdiction of the United States, to enjoin such acts or practices, and upon a proper showing a permanent or temporary injunction or restraining order shall be granted without bond. Upon application of the Secretary, any such court may also issue mandatory injunctions commanding any person to comply with any regulation of the Secretary under this chapter.
 
+
+## Source Credit
+
+*([Pub. L. 91–508, title I, § 124](https://www.govinfo.gov/link/plaw/91/public/508), Oct. 26, 1970, [84 Stat. 1117](https://www.govinfo.gov/link/statute/84/1117).)*

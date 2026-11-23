@@ -3,9 +3,10 @@ title: "Section 673 - Protection of voluntarily shared critical infrastructure i
 usc_title: 6
 usc_section: "673"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 673"
-generated_at: "2026-03-30T02:53:09.481Z"
+generated_at: "2026-11-23T21:25:25.834Z"
+status: "active"
 ---
 
 # § 673. Protection of voluntarily shared critical infrastructure information
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:53:09.481Z"
   - **(1)** the source of any voluntarily submitted critical infrastructure information that forms the basis for the warning; or
   - **(2)** information that is proprietary, business sensitive, relates specifically to the submitting person or entity, or is otherwise not appropriately in the public domain.
 - **(h)** The President may delegate authority to a critical infrastructure protection program, designated under section 672 of this title , to enter into a voluntary agreement to promote critical infrastructure security, including with any Information Sharing and Analysis Organization, or a plan of action as otherwise defined in section 4558 of title 50 .
+
+## Source Credit
+
+*([Pub. L. 107–296, title XXII, § 2224](https://www.govinfo.gov/link/plaw/107/public/296), formerly title II, § 214, Nov. 25, 2002, [116 Stat. 2152](https://www.govinfo.gov/link/statute/116/2152); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 112–199, title I, § 111](https://www.govinfo.gov/link/plaw/112/public/199), Nov. 27, 2012, [126 Stat. 1472](https://www.govinfo.gov/link/statute/126/1472); renumbered title XXII, § 2224, and amended [Pub. L. 115–278, § 2(g)(2)(H)](https://www.govinfo.gov/link/plaw/115/public/278), (9)(B)(ii), Nov. 16, 2018, [132 Stat. 4178](https://www.govinfo.gov/link/statute/132/4178), 4181; [Pub. L. 117–286, § 4(a)(18)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4307](https://www.govinfo.gov/link/statute/136/4307).)*

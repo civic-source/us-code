@@ -3,9 +3,10 @@ title: "Section 2350i - Foreign contributions for cooperative projects"
 usc_title: 10
 usc_section: "2350i"
 chapter: 138
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2350i"
-generated_at: "2026-03-30T02:53:38.156Z"
+generated_at: "2026-11-23T21:25:32.603Z"
+status: "active"
 ---
 
 # § 2350i. Foreign contributions for cooperative projects
@@ -25,3 +26,13 @@ generated_at: "2026-03-30T02:53:38.156Z"
       - **(iii)** the United States to procure a defense article or a defense service from another participant in the cooperative project.
   - **(2)** The term “defense article” has the meaning given such term in section 47(3) of the Arms Export Control Act ( 22 U.S.C. 2794(3) ).
   - **(3)** The term “defense service” has the meaning given such term in section 47(4) of the Arms Export Control Act ( 22 U.S.C. 2794(4) ).
+
+Crediting of Contributions
+
+Use of Amounts Credited
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 102–190, div. A, title X, § 1047(a)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1467](https://www.govinfo.gov/link/statute/105/1467).)*

@@ -3,9 +3,10 @@ title: "Section 1138 - Fund for the Improvement of Postsecondary Education"
 usc_title: 20
 usc_section: "1138"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1138"
-generated_at: "2026-03-30T02:54:48.147Z"
+generated_at: "2026-11-23T21:25:47.252Z"
+status: "active"
 ---
 
 # § 1138. Fund for the Improvement of Postsecondary Education
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:54:48.147Z"
   - **(3)** Scholarships awarded under this subsection shall be awarded based on need with priority given to eligible students who are eligible to receive Federal Pell Grants under subpart 1 of part A of subchapter IV.
   - **(4)** The maximum scholarship amount awarded to an eligible student under this subsection for an award year shall be the lesser of $5,000, or the student’s cost of attendance (as defined in section 1087 ll of this title).
   - **(5)** All of the amounts appropriated to carry out this subsection for a fiscal year shall be used for scholarships awarded under this subsection, except that the nonprofit organization receiving a contract under this subsection may use not more than one percent of such amounts for the administrative costs of the contract.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VII, § 741](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title VII, § 701](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1796](https://www.govinfo.gov/link/statute/112/1796); amended [Pub. L. 110–315, title VII, § 707(a)](https://www.govinfo.gov/link/plaw/110/public/315) –(e), Aug. 14, 2008, [122 Stat. 3356–3358](https://www.govinfo.gov/link/statute/122/3356).)*

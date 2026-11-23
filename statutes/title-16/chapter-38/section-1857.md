@@ -3,9 +3,10 @@ title: "Section 1857 - Prohibited acts"
 usc_title: 16
 usc_section: "1857"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1857"
-generated_at: "2026-03-30T02:54:22.991Z"
+generated_at: "2026-11-23T21:25:51.929Z"
+status: "active"
 ---
 
 # § 1857. Prohibited acts
@@ -54,3 +55,39 @@ It is unlawful—
     - **(A)** all fishing gear on the vessel is not stored below deck or in an area where it is not normally used, and not readily available, for fishing; or
     - **(B)** all fishing gear on the vessel which is not so stored is not secured and covered so as to render it unusable for fishing;
   - **(5)** for any vessel of the United States, and for the owner or operator of any vessel of the United States, to engage in fishing in the waters of a foreign nation in a manner that violates an international fishery agreement between that nation and the United States that has been subject to Congressional oversight in the manner described in section 1823 of this title , or any regulations issued to implement such an agreement; except that the binding provisions of such agreement and implementing regulations shall have been published in the Federal Register prior to such violation.
+
+In general
+
+Definitions
+
+Commercial fishing
+
+State
+
+Prohibition
+
+Penalty
+
+Exceptions
+
+Dogfish exemption.—
+
+In general
+
+Report.—
+
+In general
+
+Factors
+
+Enforcement
+
+Rule of construction
+
+Severability
+
+Shark fin defined
+
+## Source Credit
+
+*([Pub. L. 94–265, title III, § 307](https://www.govinfo.gov/link/plaw/94/public/265), Apr. 13, 1976, [90 Stat. 355](https://www.govinfo.gov/link/statute/90/355); [Pub. L. 95–354, § 5(4)](https://www.govinfo.gov/link/plaw/95/public/354), Aug. 28, 1978, [92 Stat. 521](https://www.govinfo.gov/link/statute/92/521); [Pub. L. 97–191, § 2](https://www.govinfo.gov/link/plaw/97/public/191), June 1, 1982, [96 Stat. 107](https://www.govinfo.gov/link/statute/96/107); [Pub. L. 97–453, § 15(b)](https://www.govinfo.gov/link/plaw/97/public/453), Jan. 12, 1983, [96 Stat. 2492](https://www.govinfo.gov/link/statute/96/2492); [Pub. L. 99–659, title I](https://www.govinfo.gov/link/plaw/99/public/659), §§ 101(c)(2), 107(a), Nov. 14, 1986, [100 Stat. 3707](https://www.govinfo.gov/link/statute/100/3707), 3713; [Pub. L. 100–629, § 4](https://www.govinfo.gov/link/plaw/100/public/629), Nov. 7, 1988, [102 Stat. 3286](https://www.govinfo.gov/link/statute/102/3286); [Pub. L. 101–224, § 8](https://www.govinfo.gov/link/plaw/101/public/224), Dec. 12, 1989, [103 Stat. 1907](https://www.govinfo.gov/link/statute/103/1907); [Pub. L. 101–627, title I, § 113](https://www.govinfo.gov/link/plaw/101/public/627), Nov. 28, 1990, [104 Stat. 4453](https://www.govinfo.gov/link/statute/104/4453); [Pub. L. 102–251, title III, § 301(h)](https://www.govinfo.gov/link/plaw/102/public/251), Mar. 9, 1992, [106 Stat. 64](https://www.govinfo.gov/link/statute/106/64); [Pub. L. 104–297, title I, § 113](https://www.govinfo.gov/link/plaw/104/public/297), title IV, § 405(b)(1), Oct. 11, 1996, [110 Stat. 3597](https://www.govinfo.gov/link/statute/110/3597), 3621; [Pub. L. 106–557, § 3](https://www.govinfo.gov/link/plaw/106/public/557), Dec. 21, 2000, [114 Stat. 2772](https://www.govinfo.gov/link/statute/114/2772); [Pub. L. 109–479, title I, § 118](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3607](https://www.govinfo.gov/link/statute/120/3607); [Pub. L. 111–348, title I, § 103(a)](https://www.govinfo.gov/link/plaw/111/public/348), Jan. 4, 2011, [124 Stat. 3670](https://www.govinfo.gov/link/statute/124/3670); [Pub. L. 114–81, title I, § 112](https://www.govinfo.gov/link/plaw/114/public/81), Nov. 5, 2015, [129 Stat. 659](https://www.govinfo.gov/link/statute/129/659); [Pub. L. 117–328, div. S, title I, § 105](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5260](https://www.govinfo.gov/link/statute/136/5260).)*

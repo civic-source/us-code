@@ -3,9 +3,10 @@ title: "Section 9833 - Advanced Placement and International Baccalaureate progra
 usc_title: 20
 usc_section: "9833"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9833"
-generated_at: "2026-03-30T02:54:48.232Z"
+generated_at: "2026-11-23T21:25:47.679Z"
+status: "active"
 ---
 
 # § 9833. Advanced Placement and International Baccalaureate programs
@@ -71,3 +72,7 @@ generated_at: "2026-03-30T02:54:48.232Z"
   - **(1)** to conduct an annual independent evaluation, by grant or by contract, of the program carried out under this section, which shall include an assessment of the impact of the program on student academic achievement; and
   - **(2)** to prepare and submit an annual report on the results of the evaluation described in paragraph (1) to the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Education and Labor of the House of Representatives, and the Committees on Appropriations of the Senate and House of Representatives.
 - **(l)** There are authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2011 through 2013.
+
+## Source Credit
+
+*([Pub. L. 110–69, title VI, § 6123](https://www.govinfo.gov/link/plaw/110/public/69), Aug. 9, 2007, [121 Stat. 636](https://www.govinfo.gov/link/statute/121/636); [Pub. L. 111–358, title X, § 1003(b)](https://www.govinfo.gov/link/plaw/111/public/358), Jan. 4, 2011, [124 Stat. 4048](https://www.govinfo.gov/link/statute/124/4048); [Pub. L. 114–95, title IX, § 9215(i)(3)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2167](https://www.govinfo.gov/link/statute/129/2167).)*

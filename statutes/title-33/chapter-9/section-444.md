@@ -3,12 +3,17 @@ title: "Section 444 - Dumping at other place than designated dumping grounds; pe
 usc_title: 33
 usc_section: "444"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 444"
-generated_at: "2026-03-30T02:55:41.056Z"
+generated_at: "2026-11-23T21:26:11.303Z"
+status: "active"
 ---
 
 # § 444. Dumping at other place than designated dumping grounds; penalty; person liable; excuses for deviation
 
 Any deviation from such dumping or discharging place specified in such permit shall be a misdemeanor, and the owner and master, or person acting in the capacity of master, of any scows or boats dumping or discharging such forbidden matter in any place other than that specified in such permit shall be liable to punishment therefor as provided in section 441 of this title ; and the owner and master, or person acting in the capacity of master, of any tug or towboat towing such scows or boats shall be liable to equal punishment with the owner and master, or person acting in the capacity of master, of the scows or boats; and, further, every scowman or other employee on board of both scows and towboats shall be deemed to have knowledge of the place of dumping specified in such permit, and the owners and masters, or persons acting in the capacity of masters, shall be liable to punishment, as aforesaid, for any unlawful dumping, within the meaning of this Act and this subchapter, which may be caused by the negligence or ignorance of such scowman or other employee; and, further, neither defect in machinery nor avoidable accidents to scows or towboats, nor unfavorable weather, nor improper handling or moving of scows or boats of any kind whatsoever shall operate to release the owners and master and employees of scows and towboats from the penalties mentioned in section 441 of this title .
 
+
+## Source Credit
+
+*(June 29, 1888, ch. 496, § 3, [25 Stat. 209](https://www.govinfo.gov/link/statute/25/209); Aug. 18, 1894, ch. 299, § 3, [28 Stat. 360](https://www.govinfo.gov/link/statute/28/360); May 28, 1908, ch. 212, § 8, [35 Stat. 426](https://www.govinfo.gov/link/statute/35/426).)*

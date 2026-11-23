@@ -3,9 +3,10 @@ title: "Section 629i - State partnership planning and demonstration grants to su
 usc_title: 42
 usc_section: "629i"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 629i"
-generated_at: "2026-03-30T02:56:10.880Z"
+generated_at: "2026-11-23T21:26:31.111Z"
+status: "active"
 ---
 
 # § 629i. State partnership planning and demonstration grants to support meaningful relationships between foster children and the incarcerated parents of the children
@@ -86,3 +87,7 @@ generated_at: "2026-03-30T02:56:10.880Z"
 - **(i)** In this section, the term “covered foster child” means a child that—
   - **(1)** is in foster care; and
   - **(2)** has at least 1 parent incarcerated in a Federal, State, or local correctional facility.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 439, as added [Pub. L. 107–133, title I, § 121](https://www.govinfo.gov/link/plaw/107/public/133), Jan. 17, 2002, [115 Stat. 2419](https://www.govinfo.gov/link/statute/115/2419); amended [Pub. L. 109–288, § 8](https://www.govinfo.gov/link/plaw/109/public/288), Sept. 28, 2006, [120 Stat. 1249](https://www.govinfo.gov/link/statute/120/1249); [Pub. L. 118–258, title I, § 113(a)](https://www.govinfo.gov/link/plaw/118/public/258), Jan. 4, 2025, [138 Stat. 2963](https://www.govinfo.gov/link/statute/138/2963).)*

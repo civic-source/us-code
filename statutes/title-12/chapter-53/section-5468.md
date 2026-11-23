@@ -3,9 +3,10 @@ title: "Section 5468 - Requests for information, reports, or records"
 usc_title: 12
 usc_section: "5468"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5468"
-generated_at: "2026-03-30T02:53:53.541Z"
+generated_at: "2026-11-23T21:25:37.270Z"
+status: "active"
 ---
 
 # § 5468. Requests for information, reports, or records
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:53.541Z"
 - **(h)**
   - **(1)** The Board of Governors shall adopt data standards for all information that, through a collection of information, is regularly filed with or submitted to the Board or the Council by any financial market utility or financial institution under subsection (a) or (b).
   - **(2)** The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of this title , including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
+## Source Credit
+
+*([Pub. L. 111–203, title VIII, § 809](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1818](https://www.govinfo.gov/link/statute/124/1818); [Pub. L. 117–263, div. E, title LVIII, § 5861(d)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3435](https://www.govinfo.gov/link/statute/136/3435).)*

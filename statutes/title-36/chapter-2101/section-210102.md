@@ -3,9 +3,10 @@ title: "Section 210102 - Purposes"
 usc_title: 36
 usc_section: "210102"
 chapter: 2101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 210102"
-generated_at: "2026-03-30T02:55:44.708Z"
+generated_at: "2026-11-23T21:26:13.732Z"
+status: "active"
 ---
 
 # § 210102. Purposes
@@ -18,3 +19,26 @@ The purposes of the corporation are—
     - **(B)** the acquisition, development, and maintenance of a public park in memory of Theodore Roosevelt in Oyster Bay, New York;
     - **(C)** the establishment and maintenance of an endowment fund to promote the development and application of the policies and ideals of Theodore Roosevelt for the benefit of the American people; and
     - **(D)** the donation of real and personal property, including part or all of its endowment fund, to a public agency for the purpose of preserving in public ownership historically significant property associated with the life of Theodore Roosevelt.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 210102 | 36:4703. | May 31, 1920, ch. 216, § 3 , 41 Stat. 693 ; July 25, 1962 , Pub. L. 87–547, § 6 , 76 Stat. 217 . |
+
+
+Historical and Revision Notes
+
+210102
+
+May 31, 1920, ch. 216, § 3
+
+41 Stat. 693
+
+July 25, 1962
+
+Pub. L. 87–547, § 6
+
+76 Stat. 217
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1455](https://www.govinfo.gov/link/statute/112/1455).)*

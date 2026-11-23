@@ -3,9 +3,10 @@ title: "Section 1641i - Payment of awards"
 usc_title: 22
 usc_section: "1641i"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1641i"
-generated_at: "2026-03-30T02:55:05.336Z"
+generated_at: "2026-11-23T21:25:58.407Z"
+status: "active"
 ---
 
 # § 1641i. Payment of awards
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:05.336Z"
 - **(b)** Such payments, and applications for such payments, shall be made in accordance with such regulations as the Secretary of the Treasury shall prescribe.
 - **(c)** For the purposes of making any such payments, an “award” shall be deemed to mean the aggregate of all awards certified in favor of the same claimant and payable from the same fund.
 - **(d)** With respect to any claim which, at the time of the award, is vested in persons other than the person to whom the claim originally accrued, the Commission may issue a consolidated award in favor of all claimants then entitled thereto, which award shall indicate the respective interests of such claimants therein; and all such claimants shall participate, in proportion to their indicated interests, in the payments provided by this section in all respects as if the award had been in favor of a single person.
+
+## Source Credit
+
+*(Mar. 10, 1950, ch. 54, title III, § 310, as added Aug. 9, 1955, ch. 645, § 3, [69 Stat. 573](https://www.govinfo.gov/link/statute/69/573); amended [Pub. L. 90–421, § 1(13)](https://www.govinfo.gov/link/plaw/90/public/421), July 24, 1968, [82 Stat. 423](https://www.govinfo.gov/link/statute/82/423); [Pub. L. 93–460, § 1(5)](https://www.govinfo.gov/link/plaw/93/public/460), Oct. 20, 1974, [88 Stat. 1386](https://www.govinfo.gov/link/statute/88/1386).)*

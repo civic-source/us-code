@@ -3,9 +3,10 @@ title: "Section 1127 - Selection of certain grant recipients"
 usc_title: 20
 usc_section: "1127"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1127"
-generated_at: "2026-03-30T02:54:48.143Z"
+generated_at: "2026-11-23T21:25:47.238Z"
+status: "active"
 ---
 
 # § 1127. Selection of certain grant recipients
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:48.143Z"
   - **(2)** the applications for undergraduate foreign language and area or international studies centers and programs.
 - **(b)** The Secretary shall set criteria for grants awarded under section 1122 of this title by which a determination of excellence shall be made to meet the differing objectives of graduate and undergraduate institutions. In keeping with the purposes of this part, the Secretary shall take into account the degree to which activities of centers, programs, and fellowships at institutions of higher education address national needs, and generate information for and disseminate information to the public. The Secretary shall also consider an applicant’s record of placing students into postgraduate employment, education, or training in areas of national need and an applicant’s stated efforts to increase the number of such students that go into such placements.
 - **(c)** The Secretary shall, to the extent practicable, award grants under this part (other than section 1122 of this title ) in such manner as to achieve an equitable distribution of the grant funds throughout the United States, based on the merit of a proposal as determined pursuant to a peer review process involving broadly representative professionals.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VI, § 607](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title VI, § 601](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1782](https://www.govinfo.gov/link/statute/112/1782); amended [Pub. L. 110–315, title VI, § 607](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3338](https://www.govinfo.gov/link/statute/122/3338).)*

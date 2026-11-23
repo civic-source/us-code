@@ -3,9 +3,10 @@ title: "Section 3304 - Transfer fraudulent as to a debt to the United States"
 usc_title: 28
 usc_section: "3304"
 chapter: 176
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 3304"
-generated_at: "2026-03-30T02:55:30.153Z"
+generated_at: "2026-11-23T21:26:01.145Z"
+status: "active"
 ---
 
 # § 3304. Transfer fraudulent as to a debt to the United States
@@ -35,3 +36,11 @@ generated_at: "2026-03-30T02:55:30.153Z"
     - **(I)** the debtor was insolvent or became insolvent shortly after the transfer was made or the obligation was incurred;
     - **(J)** the transfer occurred shortly before or shortly after a substantial debt was incurred; and
     - **(K)** the debtor transferred the essential assets of the business to a lienor who transferred the assets to an insider of the debtor.
+
+Debt Arising Before Transfer
+
+Transfers Without Regard to Date of Judgment
+
+## Source Credit
+
+*(Added [Pub. L. 101–647, title XXXVI, § 3611](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4961](https://www.govinfo.gov/link/statute/104/4961).)*

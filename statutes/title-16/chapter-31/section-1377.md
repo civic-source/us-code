@@ -3,9 +3,10 @@ title: "Section 1377 - Enforcement"
 usc_title: 16
 usc_section: "1377"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1377"
-generated_at: "2026-03-30T02:54:22.959Z"
+generated_at: "2026-11-23T21:25:51.863Z"
+status: "active"
 ---
 
 # § 1377. Enforcement
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:22.959Z"
   - **(4)** If with respect to any marine mammal or marine mammal product or other cargo so seized—
     - **(A)** a civil penalty is assessed under section 1375(a) of this title and no judicial action is commenced to obtain the forfeiture of such mammal or product within thirty days after such assessment, such marine mammal or marine mammal product or other cargo shall be immediately returned to the owner or the consignee; or
     - **(B)** no conviction results from an alleged violation of section 1375(b) of this title , such marine mammal or marine mammal product or other cargo shall immediately be returned to the owner or consignee if the Secretary does not, with 1 1 So in original. Probably should be “within”. thirty days after the final disposition of the case involving such alleged violation, commence proceedings for the assessment of a civil penalty under section 1375(a) of this title .
+
+## Source Credit
+
+*([Pub. L. 92–522, title I, § 107](https://www.govinfo.gov/link/plaw/92/public/522), Oct. 21, 1972, [86 Stat. 1037](https://www.govinfo.gov/link/statute/86/1037); 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783](https://www.govinfo.gov/link/statute/92/3783); [Pub. L. 101–650, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117); [Pub. L. 109–479, title IX, § 902(c)](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3665](https://www.govinfo.gov/link/statute/120/3665).)*

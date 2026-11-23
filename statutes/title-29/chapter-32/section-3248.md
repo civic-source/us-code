@@ -3,9 +3,10 @@ title: "Section 3248 - Nondiscrimination"
 usc_title: 29
 usc_section: "3248"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3248"
-generated_at: "2026-03-30T02:55:18.760Z"
+generated_at: "2026-11-23T21:26:02.351Z"
+status: "active"
 ---
 
 # § 3248. Nondiscrimination
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:18.760Z"
 - **(c)** When a matter is referred to the Attorney General pursuant to subsection (b)(1), or whenever the Attorney General has reason to believe that a State or other recipient of funds under this subchapter is engaged in a pattern or practice of discrimination in violation of a provision of law referred to in subsection (a)(1) or in violation of paragraph (2), (3), (4), or (5) of subsection (a), the Attorney General may bring a civil action in any appropriate district court of the United States for such relief as may be appropriate, including injunctive relief.
 - **(d)** For the purposes of this section, Job Corps members shall be considered to be the ultimate beneficiaries of Federal financial assistance.
 - **(e)** The Secretary shall issue regulations necessary to implement this section not later than 1 year after July 22, 2014 . Such regulations shall adopt standards for determining discrimination and procedures for enforcement that are consistent with the Acts referred to in subsection (a)(1), as well as procedures to ensure that complaints filed under this section and such Acts are processed in a manner that avoids duplication of effort.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 188](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1597](https://www.govinfo.gov/link/statute/128/1597).)*

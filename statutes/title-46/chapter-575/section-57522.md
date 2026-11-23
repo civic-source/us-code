@@ -3,9 +3,10 @@ title: "Section 57522 - Books and records, balance sheets, and inspection and au
 usc_title: 46
 usc_section: "57522"
 chapter: 575
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 57522"
-generated_at: "2026-03-30T02:56:15.582Z"
+generated_at: "2026-11-23T21:26:37.330Z"
+status: "active"
 ---
 
 # § 57522. Books and records, balance sheets, and inspection and auditing
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:15.582Z"
   - **(3)** that the Secretary of Transportation shall be authorized to examine and audit the books, records, and accounts of all persons referred to in this section whenever he may deem it necessary or desirable; and
   - **(4)** that upon the willful failure or refusal of any person described in this section to comply with the contract provisions required by this section, the Secretary of Transportation shall have the right to rescind the contract, and upon such rescission, the United States shall be relieved of all further liability on such contract.
 
+
+## Source Credit
+
+*(Added and amended [Pub. L. 114–120, title III, § 313(c)(1)](https://www.govinfo.gov/link/plaw/114/public/120), Feb. 8, 2016, [130 Stat. 58](https://www.govinfo.gov/link/statute/130/58).)*

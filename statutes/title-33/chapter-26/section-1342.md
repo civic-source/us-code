@@ -3,9 +3,10 @@ title: "Section 1342 - National pollutant discharge elimination system"
 usc_title: 33
 usc_section: "1342"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1342"
-generated_at: "2026-03-30T02:55:41.101Z"
+generated_at: "2026-11-23T21:26:11.395Z"
+status: "active"
 ---
 
 # § 1342. National pollutant discharge elimination system
@@ -134,3 +135,41 @@ generated_at: "2026-03-30T02:55:41.101Z"
   - **(6)**
     - **(A)** Nothing in section 1311(b)(1)(C) of this title precludes a State from authorizing in the water quality standards of the State the issuance of a schedule of compliance to meet water quality-based effluent limitations in permits that incorporate provisions of an integrated plan.
     - **(B)** In any case in which a discharge is subject to a judicial order or consent decree, as of January 14, 2019 , resolving an enforcement action under this chapter, any schedule of compliance issued pursuant to an authorization in a State water quality standard may not revise a schedule of compliance in that order or decree to be less stringent, unless the order or decree is modified by agreement of the parties and the court.
+
+Limitations on partial permit program returns and withdrawals
+
+NPDES permit requirements for silvicultural activities
+
+Other requirements
+
+General Rule
+
+Permit Applications.—
+
+Individual applications
+
+Group applications
+
+Municipalities With Less Than
+
+Population
+
+Uncontrolled Sanitary Landfill Defined
+
+Limitation on Statutory Construction
+
+Regulations
+
+Issuance of permit
+
+Limitations on statutory construction
+
+Agreement
+
+Applications and Permits Before October
+
+Log Transfer Facility Defined
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title IV, § 402, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 880](https://www.govinfo.gov/link/statute/86/880); amended [Pub. L. 95–217](https://www.govinfo.gov/link/plaw/95/public/217), §§ 33(c), 50, 54(c)(1), 65, 66, Dec. 27, 1977, [91 Stat. 1577](https://www.govinfo.gov/link/statute/91/1577), 1588, 1591, 1599, 1600; [Pub. L. 100–4, title IV](https://www.govinfo.gov/link/plaw/100/public/4), §§ 401–404(a), 404(c), formerly 404(d), 405, Feb. 4, 1987, [101 Stat. 65–67](https://www.govinfo.gov/link/statute/101/65), 69, renumbered § 404(c), [Pub. L. 104–66, title II, § 2021(e)(2)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 727](https://www.govinfo.gov/link/statute/109/727); [Pub. L. 102–580, title III, § 364](https://www.govinfo.gov/link/plaw/102/public/580), Oct. 31, 1992, [106 Stat. 4862](https://www.govinfo.gov/link/statute/106/4862); [Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 112(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–224; [Pub. L. 110–288, § 2](https://www.govinfo.gov/link/plaw/110/public/288), July 29, 2008, [122 Stat. 2650](https://www.govinfo.gov/link/statute/122/2650); [Pub. L. 113–79, title XII, § 12313](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 992](https://www.govinfo.gov/link/statute/128/992); [Pub. L. 115–436, § 3(a)](https://www.govinfo.gov/link/plaw/115/public/436), Jan. 14, 2019, [132 Stat. 5558](https://www.govinfo.gov/link/statute/132/5558).)*

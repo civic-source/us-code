@@ -3,9 +3,10 @@ title: "Section 615b - Definitions"
 usc_title: 47
 usc_section: "615b"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 615b"
-generated_at: "2026-03-30T02:56:24.522Z"
+generated_at: "2026-11-23T21:26:36.053Z"
+status: "active"
 ---
 
 # § 615b. Definitions
@@ -25,3 +26,7 @@ As used in this Act:
     - **(A)** an entity other than a local exchange carrier, wireless carrier, or an IP-enabled voice service provider that is required by the Federal Communications Commission consistent with the Commission’s authority under the Communications Act of 1934 [ 47 U.S.C. 151 et seq.] to provide other emergency communications services; or
     - **(B)** in the absence of a Commission requirement as described in subparagraph (A), an entity that voluntarily elects to provide other emergency communications services and is specifically authorized by the appropriate local or State 9–1–1 service governing authority to provide other emergency communications services.
   - **(10)** The term “enhanced 9–1–1 service” means the delivery of 9–1–1 calls with automatic number identification and automatic location identification, or successor or equivalent information features over the wireline E911 network (as defined in section 9.3 of the Federal Communications Commission’s regulations (47 C.F.R. 9.3) as of July 23, 2008 ) and equivalent or successor networks and technologies. The term also includes any enhanced 9–1–1 service so designated by the Commission in its Report and Order in WC Docket Nos. 04–36 and 05–196, or any successor proceeding.
+
+## Source Credit
+
+*([Pub. L. 106–81, § 7](https://www.govinfo.gov/link/plaw/106/public/81), formerly § 6, Oct. 26, 1999, [113 Stat. 1289](https://www.govinfo.gov/link/statute/113/1289); renumbered § 7 and amended [Pub. L. 110–283, title I, § 101(1)](https://www.govinfo.gov/link/plaw/110/public/283), (3), title II, § 201(b), July 23, 2008, [122 Stat. 2620](https://www.govinfo.gov/link/statute/122/2620), 2623, 2624.)*

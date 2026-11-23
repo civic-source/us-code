@@ -3,9 +3,10 @@ title: "Section 4304 - Confidentiality of information concerning nature and loca
 usc_title: 16
 usc_section: "4304"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4304"
-generated_at: "2026-03-30T02:54:23.042Z"
+generated_at: "2026-11-23T21:25:52.014Z"
+status: "active"
 ---
 
 # § 4304. Confidentiality of information concerning nature and location of significant caves
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:23.042Z"
   - **(1)** describe the specific site or area for which information is sought;
   - **(2)** explain the purpose for which such information is sought; and
   - **(3)** include assurances satisfactory to the Secretary that adequate measures are being taken to protect the confidentiality of such information and to ensure the protection of the significant cave from destruction by vandalism and unauthorized use.
+
+## Source Credit
+
+*([Pub. L. 100–691, § 5](https://www.govinfo.gov/link/plaw/100/public/691), Nov. 18, 1988, [102 Stat. 4548](https://www.govinfo.gov/link/statute/102/4548).)*

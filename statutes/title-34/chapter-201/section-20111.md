@@ -3,9 +3,10 @@ title: "Section 20111 - Establishment of Office for Victims of Crime"
 usc_title: 34
 usc_section: "20111"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20111"
-generated_at: "2026-03-30T02:55:33.293Z"
+generated_at: "2026-11-23T21:26:09.770Z"
+status: "active"
 ---
 
 # § 20111. Establishment of Office for Victims of Crime
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:33.293Z"
   - **(3)** Establishing programs in accordance with section 20103(c) of this title on terms and conditions determined by the Director to be consistent with that subsection.
   - **(4)** Cooperating with and providing technical assistance to States, units of local government, and other public and private organizations or international agencies involved in activities related to crime victims.
   - **(5)** Such other functions as the Attorney General may delegate.
+
+## Source Credit
+
+*([Pub. L. 98–473, title II, § 1411](https://www.govinfo.gov/link/plaw/98/public/473), as added [Pub. L. 100–690, title VII, § 7123(a)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4420](https://www.govinfo.gov/link/statute/102/4420); amended [Pub. L. 112–166, § 2(h)(5)](https://www.govinfo.gov/link/plaw/112/public/166), Aug. 10, 2012, [126 Stat. 1285](https://www.govinfo.gov/link/statute/126/1285).)*

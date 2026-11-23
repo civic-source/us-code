@@ -3,9 +3,10 @@ title: "Section 6432b - Commission personnel matters"
 usc_title: 22
 usc_section: "6432b"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6432b"
-generated_at: "2026-03-30T02:55:05.428Z"
+generated_at: "2026-11-23T21:25:58.687Z"
+status: "active"
 ---
 
 # § 6432b. Commission personnel matters
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.428Z"
   - **(2)** Upon the request of the Commission, the head of any Federal department or agency may detail, on a reimbursable or nonreimbursable basis, any of the personnel of that department or agency to the Commission to assist it in carrying out its functions under this subchapter. The detail of any such personnel shall be without interruption or loss of civil service or Foreign Service status or privilege.
 - **(e)** The Executive Director shall be required to obtain a security clearance. The Executive Director may request, on a needs-only basis and in order to perform the duties of the Commission, that other personnel of the Commission be required to obtain a security clearance. The level of clearance shall be the lowest necessary to appropriately perform the duties of the Commission.
 - **(f)** The Commission shall reimburse all appropriate Government agencies for the cost of obtaining clearances for members of the Commission, for the Executive Director, and for any other personnel.
+
+## Source Credit
+
+*([Pub. L. 105–292, title II, § 204](https://www.govinfo.gov/link/plaw/105/public/292), as added [Pub. L. 106–55, § 1(b)(3)](https://www.govinfo.gov/link/plaw/106/public/55), Aug. 17, 1999, [113 Stat. 402](https://www.govinfo.gov/link/statute/113/402); amended [Pub. L. 112–75, § 3(a)](https://www.govinfo.gov/link/plaw/112/public/75), Dec. 23, 2011, [125 Stat. 1273](https://www.govinfo.gov/link/statute/125/1273); [Pub. L. 116–94, div. J, title VIII, § 805(a)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3077](https://www.govinfo.gov/link/statute/133/3077).)*

@@ -3,9 +3,10 @@ title: "Section 12522 - Establishment of insurance program"
 usc_title: 10
 usc_section: "12522"
 chapter: 1214
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 12522"
-generated_at: "2026-03-30T02:53:38.270Z"
+generated_at: "2026-11-23T21:25:33.047Z"
+status: "active"
 ---
 
 # § 12522. Establishment of insurance program
@@ -13,3 +14,13 @@ generated_at: "2026-03-30T02:53:38.270Z"
 - **(a)** The Secretary shall establish for members of the Ready Reserve (including the Coast Guard Reserve) an insurance program to be known as the “Ready Reserve Mobilization Income Insurance Program”.
 - **(b)** The insurance program shall be administered by the Secretary. The Secretary may prescribe in regulations such rules, procedures, and policies as the Secretary considers necessary or appropriate to carry out the insurance program.
 - **(c)** The Secretary and the Secretary of Homeland Security shall enter into an agreement with respect to the administration of the insurance program for the Coast Guard Reserve.
+
+Establishment
+
+Administration
+
+Agreement With Secretary of Homeland Security
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title V, § 512(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 299](https://www.govinfo.gov/link/statute/110/299); amended [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), (7), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314).)*

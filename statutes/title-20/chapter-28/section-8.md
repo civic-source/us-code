@@ -3,9 +3,10 @@ title: "Section 8 - Unsubsidized Stafford loans for middle-income borrowers"
 usc_title: 20
 usc_section: "8"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 8"
-generated_at: "2026-03-30T02:54:48.115Z"
+generated_at: "2026-11-23T21:25:47.110Z"
+status: "active"
 ---
 
 # § 1078–8. Unsubsidized Stafford loans for middle-income borrowers
@@ -64,3 +65,7 @@ generated_at: "2026-03-30T02:54:48.115Z"
 - **(f)**
 - **(g)** A guaranty agency shall use a single application form and a single repayment schedule for subsidized Federal Stafford loans made pursuant to section 1078 of this title and for unsubsidized Federal Stafford loans made pursuant to this section.
 - **(h)** Each State or nonprofit private institution or organization having an agreement with the Secretary under section 1078(b)(1) of this title may charge a borrower under this section an insurance premium equal to not more than 1.0 percent of the principal amount of the loan, if such premium will not be used for incentive payments to lenders. Effective for loans for which the date of guarantee of principal is on or after July 1, 2006 , and that are first disbursed before July 1, 2010 , in lieu of the insurance premium authorized under the preceding sentence, each State or nonprofit private institution or organization having an agreement with the Secretary under section 1078(b)(1) of this title shall collect and deposit into the Federal Student Loan Reserve Fund under section 1072a of this title , a Federal default fee of an amount equal to 1.0 percent of the principal amount of the loan, which fee shall be collected either by deduction from the proceeds of the loan or by payment from other non-Federal sources. The Federal default fee shall not be used for incentive payments to lenders.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 428H](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 102–325, title IV, § 422](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 535](https://www.govinfo.gov/link/statute/106/535); amended [Pub. L. 103–66, title IV](https://www.govinfo.gov/link/plaw/103/public/66), §§ 4047(a), 4102(b), Aug. 10, 1993, [107 Stat. 363](https://www.govinfo.gov/link/statute/107/363), 366; [Pub. L. 103–208, § 2(c)(42)](https://www.govinfo.gov/link/plaw/103/public/208) –(45), Dec. 20, 1993, [107 Stat. 2466](https://www.govinfo.gov/link/statute/107/2466), 2467; [Pub. L. 104–134, title I, § 101(d) [title V, § 514(a)]](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–211](https://www.govinfo.gov/link/statute/110/1321), 1321–245; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327); [Pub. L. 105–244, title IV, § 423](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1696](https://www.govinfo.gov/link/statute/112/1696); [Pub. L. 109–171, title VIII](https://www.govinfo.gov/link/plaw/109/public/171), §§ 8005(d), 8014(b)(2), Feb. 8, 2006, [120 Stat. 159](https://www.govinfo.gov/link/statute/120/159), 169; [Pub. L. 110–227, § 2(a)](https://www.govinfo.gov/link/plaw/110/public/227), May 7, 2008, [122 Stat. 740](https://www.govinfo.gov/link/statute/122/740); [Pub. L. 110–315, title IV, § 428(a)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3235](https://www.govinfo.gov/link/statute/122/3235); [Pub. L. 111–39, title IV, § 402(f)(5)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1944](https://www.govinfo.gov/link/statute/123/1944); [Pub. L. 111–152, title II, § 2207](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1076](https://www.govinfo.gov/link/statute/124/1076); [Pub. L. 115–245, div. B, title III, § 309(e)](https://www.govinfo.gov/link/plaw/115/public/245), Sept. 28, 2018, [132 Stat. 3106](https://www.govinfo.gov/link/statute/132/3106).)*

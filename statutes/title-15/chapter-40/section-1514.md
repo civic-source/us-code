@@ -3,9 +3,10 @@ title: "Section 1514 - Basic authority for performance of certain functions and 
 usc_title: 15
 usc_section: "1514"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1514"
-generated_at: "2026-03-30T02:54:08.136Z"
+generated_at: "2026-11-23T21:25:39.828Z"
+status: "active"
 ---
 
 # § 1514. Basic authority for performance of certain functions and activities of Department
@@ -18,3 +19,7 @@ Appropriations are authorized for the following activities of the Department of 
 - **(d)** reimbursement, under regulations prescribed by the Secretary, of officers and employees in or under the Department of Commerce, for food, clothing, medicines, and other supplies furnished by them in emergencies for the temporary relief of distressed persons in remote localities;
 - **(e)** providing motion-picture equipment and film for recreation of crews of vessels of the National Ocean Survey, for recreation of employees in remote localities where such facilities are not available, and for training purposes;
 - **(f)** erecting, altering, repairing, equipping, furnishing, and maintaining, by contract or otherwise, such living and working quarters and facilities as may be necessary to carry out its authorized work at remote localities not on foreign soil where such living and working accommodations are not otherwise available.
+
+## Source Credit
+
+*(Oct. 26, 1949, ch. 733, [63 Stat. 907](https://www.govinfo.gov/link/statute/63/907); Aug. 30, 1954, ch. 1076, § 1(11), [68 Stat. 967](https://www.govinfo.gov/link/statute/68/967); [Pub. L. 93–608, § 1(3)](https://www.govinfo.gov/link/plaw/93/public/608), Jan. 2, 1975, [88 Stat. 1967](https://www.govinfo.gov/link/statute/88/1967).)*

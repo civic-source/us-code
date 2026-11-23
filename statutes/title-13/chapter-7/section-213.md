@@ -3,9 +3,10 @@ title: "Section 213 - False statements, certificates, and information"
 usc_title: 13
 usc_section: "213"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "13 U.S.C. § 213"
-generated_at: "2026-03-30T02:54:03.338Z"
+generated_at: "2026-11-23T21:25:34.409Z"
+status: "active"
 ---
 
 # § 213. False statements, certificates, and information
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:03.338Z"
 - **(b)** Whoever, being an officer or employee referred to in subchapter II of chapter 1 of this title—
   - **(1)** willfully and knowingly makes a false certificate or fictitious return; or
   - **(2)** knowingly or willfully furnishes or causes to be furnished, or, having been such an officer or employee, knowingly or willfully furnished or caused to be furnished, directly or indirectly, to the Secretary or to any other officer or employee of the Department of Commerce or bureau or agency thereof, any false statement or false information with reference to any inquiry for which he was authorized and required to collect information provided for in this title—
+
+## Source Credit
+
+*(Aug. 31, 1954, ch. 1158, [68 Stat. 1022](https://www.govinfo.gov/link/statute/68/1022).)*

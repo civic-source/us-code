@@ -3,9 +3,10 @@ title: "Section 542 - Turnover of property to the estate"
 usc_title: 11
 usc_section: "542"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 542"
-generated_at: "2026-03-30T02:53:53.879Z"
+generated_at: "2026-11-23T21:25:34.924Z"
+status: "active"
 ---
 
 # § 542. Turnover of property to the estate
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.879Z"
 - **(c)** Except as provided in section 362(a)(7) of this title , an entity that has neither actual notice nor actual knowledge of the commencement of the case concerning the debtor may transfer property of the estate, or pay a debt owing to the debtor, in good faith and other than in the manner specified in subsection (d) of this section, to an entity other than the trustee, with the same effect as to the entity making such transfer or payment as if the case under this title concerning the debtor had not been commenced.
 - **(d)** A life insurance company may transfer property of the estate or property of the debtor to such company in good faith, with the same effect with respect to such company as if the case under this title concerning the debtor had not been commenced, if such transfer is to pay a premium or to carry out a nonforfeiture insurance option, and is required to be made automatically, under a life insurance contract with such company that was entered into before the date of the filing of the petition and that is property of the estate.
 - **(e)** Subject to any applicable privilege, after notice and a hearing, the court may order an attorney, accountant, or other person that holds recorded information, including books, documents, records, and papers, relating to the debtor’s property or financial affairs, to turn over or disclose such recorded information to the trustee.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2595](https://www.govinfo.gov/link/statute/92/2595); [Pub. L. 98–353, title III, § 457](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 376](https://www.govinfo.gov/link/statute/98/376); [Pub. L. 103–394, title V, § 501(d)(16)](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4146](https://www.govinfo.gov/link/statute/108/4146).)*

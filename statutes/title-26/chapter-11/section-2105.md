@@ -3,9 +3,10 @@ title: "Section 2105 - Property without the United States"
 usc_title: 26
 usc_section: "2105"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 2105"
-generated_at: "2026-03-30T02:55:27.783Z"
+generated_at: "2026-11-23T21:26:06.533Z"
+status: "active"
 ---
 
 # § 2105. Property without the United States
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:27.783Z"
     - **(B)** debt obligations described in the last sentence of section 2104(c), or
     - **(C)** other property not within the United States.
   - **(3)** This subsection shall not apply to estates of decedents dying after December 31, 2011 .
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 397; [Pub. L. 89–809, title I, § 108(d)](https://www.govinfo.gov/link/plaw/89/public/809), Nov. 13, 1966, [80 Stat. 1572](https://www.govinfo.gov/link/statute/80/1572); [Pub. L. 98–369, div. A, title I, § 127(d)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 651](https://www.govinfo.gov/link/statute/98/651); [Pub. L. 100–647, title I, § 1012(g)(4)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3501](https://www.govinfo.gov/link/statute/102/3501); [Pub. L. 103–66, title XIII, § 13237(b)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 508](https://www.govinfo.gov/link/statute/107/508); [Pub. L. 105–34, title XIII, § 1304(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1040](https://www.govinfo.gov/link/statute/111/1040); [Pub. L. 108–357, title IV, § 411(b)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1504](https://www.govinfo.gov/link/statute/118/1504); [Pub. L. 110–343, div. C, title II, § 207(a)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3865](https://www.govinfo.gov/link/statute/122/3865); [Pub. L. 111–312, title VII, § 726(a)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3316](https://www.govinfo.gov/link/statute/124/3316).)*

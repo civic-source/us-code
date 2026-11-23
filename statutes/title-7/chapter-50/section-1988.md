@@ -3,9 +3,10 @@ title: "Section 1988 - Appropriations"
 usc_title: 7
 usc_section: "1988"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1988"
-generated_at: "2026-03-30T02:53:42.352Z"
+generated_at: "2026-11-23T21:25:28.217Z"
+status: "active"
 ---
 
 # § 1988. Appropriations
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:53:42.352Z"
       - **(ii)** to provide the Secretary with information relating to the collection and disbursement of all periodic payments, prepayments, and default funds from lenders, to or from the reserve fund that the Secretary shall establish to enable the timely payment guarantee to be self-funding, and from all beneficial holders.
     - **(F)** Regulate market makers in pool certificates sold under this subsection.
   - **(4)** The Secretary may contract for goods and services to be used for the purposes of this subsection without regard to the provisions of titles 5, 40, and 41, and any regulations issued thereunder.
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 338](https://www.govinfo.gov/link/plaw/87/public/128), Aug. 8, 1961, [75 Stat. 316](https://www.govinfo.gov/link/statute/75/316); [Pub. L. 89–429, § 5](https://www.govinfo.gov/link/plaw/89/public/429), May 24, 1966, [80 Stat. 167](https://www.govinfo.gov/link/statute/80/167); [Pub. L. 100–233, title VII, § 711(a)](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1707](https://www.govinfo.gov/link/statute/101/1707); [Pub. L. 100–399, title VI, § 605](https://www.govinfo.gov/link/plaw/100/public/399), Aug. 17, 1988, [102 Stat. 1006](https://www.govinfo.gov/link/statute/102/1006); [Pub. L. 101–624, title XXIII, § 2303(d)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3981](https://www.govinfo.gov/link/statute/104/3981); [Pub. L. 104–127, title VII, § 749(a)](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1129](https://www.govinfo.gov/link/statute/110/1129); [Pub. L. 105–362, title I, § 101(a)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3281](https://www.govinfo.gov/link/statute/112/3281).)*

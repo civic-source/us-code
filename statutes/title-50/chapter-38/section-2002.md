@@ -3,9 +3,10 @@ title: "Section 2002 - Definitions relating to participants and annuitants"
 usc_title: 50
 usc_section: "2002"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2002"
-generated_at: "2026-03-30T02:56:26.216Z"
+generated_at: "2026-11-23T21:26:38.951Z"
+status: "active"
 ---
 
 # § 2002. Definitions relating to participants and annuitants
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:56:26.216Z"
     - **(B)** A child who is a student is deemed not to have ceased to be a student during an interim between school years if the interim does not exceed 5 months and if the child shows to the satisfaction of the Director that the child has a bona fide intention of continuing to pursue a course of study or training in the same or different school during the school semester (or other period into which the school year is divided) immediately following the interim.
   - **(3)** For purposes of this subsection, the term “dependent”, with respect to the child of a participant or retired participant, means that the participant or retired participant was, at the time of the death of the participant or retired participant, either living with or contributing to the support of the child, as determined in accordance with regulations prescribed under subchapter II.
   - **(4)** For purposes of section 2071(c) of this title , the term “child” includes an adopted child and a natural child, but does not include a stepchild.
+
+## Source Credit
+
+*([Pub. L. 88–643, title I, § 102](https://www.govinfo.gov/link/plaw/88/public/643), as added [Pub. L. 102–496, title VIII, § 802](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3198](https://www.govinfo.gov/link/statute/106/3198).)*

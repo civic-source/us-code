@@ -3,9 +3,10 @@ title: "Section 1326 - Reentry of removed aliens"
 usc_title: 8
 usc_section: "1326"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1326"
-generated_at: "2026-03-30T02:53:10.495Z"
+generated_at: "2026-11-23T21:25:25.176Z"
+status: "active"
 ---
 
 # § 1326. Reentry of removed aliens
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:10.495Z"
   - **(1)** the alien exhausted any administrative remedies that may have been available to seek relief against the order;
   - **(2)** the deportation proceedings at which the order was issued improperly deprived the alien of the opportunity for judicial review; and
   - **(3)** the entry of the order was fundamentally unfair.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 8, § 276, [66 Stat. 229](https://www.govinfo.gov/link/statute/66/229); [Pub. L. 100–690, title VII, § 7345(a)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4471](https://www.govinfo.gov/link/statute/102/4471); [Pub. L. 101–649, title V, § 543(b)(3)](https://www.govinfo.gov/link/plaw/101/public/649), Nov. 29, 1990, [104 Stat. 5059](https://www.govinfo.gov/link/statute/104/5059); [Pub. L. 103–322, title XIII, § 130001(b)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2023](https://www.govinfo.gov/link/statute/108/2023); [Pub. L. 104–132, title IV](https://www.govinfo.gov/link/plaw/104/public/132), §§ 401(c), 438(b), 441(a), Apr. 24, 1996, [110 Stat. 1267](https://www.govinfo.gov/link/statute/110/1267), 1276, 1279; [Pub. L. 104–208, div. C, title III](https://www.govinfo.gov/link/plaw/104/public/208), §§ 305(b), 308(d)(4)(J), (e)(1)(K), (14)(A), 324(a), (b), Sept. 30, 1996, [110 Stat. 3009–606](https://www.govinfo.gov/link/statute/110/3009), 3009–618 to 3009–620, 3009–629.)*

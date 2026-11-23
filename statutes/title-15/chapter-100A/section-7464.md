@@ -3,9 +3,10 @@ title: "Section 7464 - Identity management research and development"
 usc_title: 15
 usc_section: "7464"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7464"
-generated_at: "2026-03-30T02:54:08.224Z"
+generated_at: "2026-11-23T21:25:40.061Z"
+status: "active"
 ---
 
 # § 7464. Identity management research and development
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:08.224Z"
     - **(B)** industry;
     - **(C)** potential end-users and individuals that will use services related to digital identity verification; and
     - **(D)** experts with relevant experience in the systems that enable digital identity verification, as determined by the Director.
+
+## Source Credit
+
+*([Pub. L. 113–274, title V, § 504](https://www.govinfo.gov/link/plaw/113/public/274), Dec. 18, 2014, [128 Stat. 2987](https://www.govinfo.gov/link/statute/128/2987); [Pub. L. 117–167, div. B, title II, § 10225](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1478](https://www.govinfo.gov/link/statute/136/1478).)*

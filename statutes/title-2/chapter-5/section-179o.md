@@ -3,9 +3,10 @@ title: "Section 179o - Responsibilities and powers of Board"
 usc_title: 2
 usc_section: "179o"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 179o"
-generated_at: "2026-03-30T02:53:04.791Z"
+generated_at: "2026-11-23T21:25:21.145Z"
+status: "active"
 ---
 
 # § 179o. Responsibilities and powers of Board
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.791Z"
 - **(c)**
   - **(1)** The Board may, for the purpose of carrying out its duties, hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence, as the Librarian and the Board consider appropriate.
   - **(2)** Two sitting members of the Board shall be appointed by the Librarian, and shall serve, as Board members of the National Film Preservation Foundation, in accordance with section 151703 of title 36 .
+
+## Source Credit
+
+*([Pub. L. 104–285, title I, § 105](https://www.govinfo.gov/link/plaw/104/public/285), Oct. 11, 1996, [110 Stat. 3380](https://www.govinfo.gov/link/statute/110/3380).)*

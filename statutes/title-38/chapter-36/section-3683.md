@@ -3,9 +3,10 @@ title: "Section 3683 - Conflicting interests"
 usc_title: 38
 usc_section: "3683"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3683"
-generated_at: "2026-03-30T02:55:53.508Z"
+generated_at: "2026-11-23T21:26:16.762Z"
+status: "active"
 ---
 
 # § 3683. Conflicting interests
@@ -22,3 +23,15 @@ generated_at: "2026-03-30T02:55:53.508Z"
 - **(d)**
   - **(1)** The Secretary may waive in writing the application of this section in the case of any officer or employee of the Department or of a State approving agency, if the Secretary finds that no detriment will result to the United States or to eligible persons or veterans by reasons of such interest or connection of such officer or employee.
   - **(2)** The Secretary shall provide public notice of any waiver granted under this subsection by not later than 30 days after the date on which such waiver is granted.
+
+Department Officers and Employees
+
+State Approving Agency Employees
+
+Disapproval of Courses
+
+Waiver Authority
+
+## Source Credit
+
+*(Added [Pub. L. 89–358, § 3(b)](https://www.govinfo.gov/link/plaw/89/public/358), Mar. 3, 1966, [80 Stat. 22](https://www.govinfo.gov/link/statute/80/22), § 1783; amended [Pub. L. 92–540, title IV, § 403(10)](https://www.govinfo.gov/link/plaw/92/public/540), Oct. 24, 1972, [86 Stat. 1090](https://www.govinfo.gov/link/statute/86/1090); [Pub. L. 94–502, title V, § 513(a)(14)](https://www.govinfo.gov/link/plaw/94/public/502) –(16), Oct. 15, 1976, [90 Stat. 2403](https://www.govinfo.gov/link/statute/90/2403); [Pub. L. 97–295, § 4(54)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1309](https://www.govinfo.gov/link/statute/96/1309); [Pub. L. 101–237, title IV, § 423(b)(1)](https://www.govinfo.gov/link/plaw/101/public/237), Dec. 18, 1989, [103 Stat. 2092](https://www.govinfo.gov/link/statute/103/2092); renumbered § 3683 and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 115–251, title III, § 302(a)](https://www.govinfo.gov/link/plaw/115/public/251), Sept. 29, 2018, [132 Stat. 3178](https://www.govinfo.gov/link/statute/132/3178); [Pub. L. 116–61, § 6(5)](https://www.govinfo.gov/link/plaw/116/public/61), Sept. 30, 2019, [133 Stat. 1117](https://www.govinfo.gov/link/statute/133/1117).)*

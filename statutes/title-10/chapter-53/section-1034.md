@@ -3,9 +3,10 @@ title: "Section 1034 - Protected communications; prohibition of retaliatory pers
 usc_title: 10
 usc_section: "1034"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1034"
-generated_at: "2026-03-30T02:53:38.095Z"
+generated_at: "2026-11-23T21:25:32.374Z"
+status: "active"
 ---
 
 # § 1034. Protected communications; prohibition of retaliatory personnel actions
@@ -103,3 +104,64 @@ generated_at: "2026-03-30T02:53:38.095Z"
     - **(B)** The Inspector General of the Department of Homeland Security, in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy.
     - **(C)** Any officer of the armed forces or employee of the Department of Defense who is assigned or detailed to serve as an Inspector General at any level in the Department of Defense.
   - **(3)** The term “unlawful discrimination” means discrimination on the basis of race, color, religion, sex, or national origin.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1034 | 50 App.:454(a) (last par.) | June 24, 1948, ch. 625, § 4(a) (last par.); restated June 19, 1951, ch. 144, § 1(d) (last par.), 65 Stat. 78 . |
+
+
+Restricting Communications With Members of Congress and Inspector General Prohibited
+
+Prohibition of Retaliatory Personnel Actions
+
+Inspector General Investigation of Allegations of Prohibited Personnel Actions
+
+Inspector General Investigation of Underlying Allegations
+
+Reports on Investigations
+
+Action in Case of Substantiated Violations
+
+Correction of Records When Prohibited Action Taken
+
+Review by Secretary of Defense
+
+Regulations
+
+Definitions
+
+Historical and Revision Notes
+
+1034
+
+June 24, 1948, ch. 625, § 4(a)
+
+June 19, 1951, ch. 144, § 1(d)
+
+65 Stat. 78
+
+Deadline for Regulations
+
+Content of Regulations
+
+In general
+
+Use
+
+Notice Required
+
+Timing of Notification.—
+
+Requests or requirements before date of enactment
+
+Requests or requirements after date of enactment
+
+Regulations Required
+
+Violations by Persons Subject to the UCMJ
+
+Deadline
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 80; [Pub. L. 98–525, title XIV, § 1405(19)(A)](https://www.govinfo.gov/link/plaw/98/public/525), (B)(i), Oct. 19, 1984, [98 Stat. 2622](https://www.govinfo.gov/link/statute/98/2622); [Pub. L. 100–456, div. A, title VIII, § 846(a)(1)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 2027](https://www.govinfo.gov/link/statute/102/2027); [Pub. L. 101–225, title II, § 202](https://www.govinfo.gov/link/plaw/101/public/225), Dec. 12, 1989, [103 Stat. 1910](https://www.govinfo.gov/link/statute/103/1910); [Pub. L. 103–337, div. A, title V, § 531(a)](https://www.govinfo.gov/link/plaw/103/public/337) –(g)(1), Oct. 5, 1994, [108 Stat. 2756–2758](https://www.govinfo.gov/link/statute/108/2756); [Pub. L. 105–261, div. A, title IX, § 933](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2107](https://www.govinfo.gov/link/statute/112/2107); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title IX, § 903], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–224; [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 108–375, div. A, title V, § 591(a)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1933](https://www.govinfo.gov/link/statute/118/1933); [Pub. L. 110–181, div. A, title X, § 1063(a)(8)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 322](https://www.govinfo.gov/link/statute/122/322); [Pub. L. 112–81, div. A, title V, § 523](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1401](https://www.govinfo.gov/link/statute/125/1401); [Pub. L. 113–66, div. A, title XVII](https://www.govinfo.gov/link/plaw/113/public/66), §§ 1714, 1715, Dec. 26, 2013, [127 Stat. 964–966](https://www.govinfo.gov/link/statute/127/964); [Pub. L. 114–328, div. A, title V](https://www.govinfo.gov/link/plaw/114/public/328), §§ 531(a)–(d), 532(a), (b), Dec. 23, 2016, [130 Stat. 2118–2120](https://www.govinfo.gov/link/statute/130/2118); [Pub. L. 115–91, div. A, title X, § 1081(c)(2)(C)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1599](https://www.govinfo.gov/link/statute/131/1599); [Pub. L. 116–92, div. A, title XVII, § 1731(a)(21)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1813](https://www.govinfo.gov/link/statute/133/1813); [Pub. L. 117–286, § 4(b)(27)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4346](https://www.govinfo.gov/link/statute/136/4346).)*

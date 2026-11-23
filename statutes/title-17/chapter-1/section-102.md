@@ -3,9 +3,10 @@ title: "Section 102 - Subject matter of copyright: In general"
 usc_title: 17
 usc_section: "102"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 102"
-generated_at: "2026-03-30T02:54:15.344Z"
+generated_at: "2026-11-23T21:25:41.684Z"
+status: "active"
 ---
 
 # § 102. Subject matter of copyright: In general
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:15.344Z"
   - **(7)** sound recordings; and
   - **(8)** architectural works.
 - **(b)** In no case does copyright protection for an original work of authorship extend to any idea, procedure, process, system, method of operation, concept, principle, or discovery, regardless of the form in which it is described, explained, illustrated, or embodied in such work.
+
+## Source Credit
+
+*([Pub. L. 94–553, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/553), Oct. 19, 1976, [90 Stat. 2544](https://www.govinfo.gov/link/statute/90/2544); [Pub. L. 101–650, title VII, § 703](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5133](https://www.govinfo.gov/link/statute/104/5133).)*

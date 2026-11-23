@@ -3,9 +3,10 @@ title: "Section 9202 - National Bio and Agro-Defense Facility"
 usc_title: 7
 usc_section: "9202"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 9202"
-generated_at: "2026-03-30T02:53:42.489Z"
+generated_at: "2026-11-23T21:25:28.499Z"
+status: "active"
 ---
 
 # § 9202. National Bio and Agro-Defense Facility
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:42.489Z"
   - **(6)** providing appropriate education and training to prepare for and respond to bio- and agro-defense threats;
   - **(7)** sharing data and related information with appropriate Federal departments or agencies, as requested by the heads of those departments or agencies, or as necessary, to support biological material threat assessments; and
   - **(8)** sharing data and related information, and developing strategic partnerships, to enhance the carrying out of the duties of the National Bio and Agro-Defense Facility for the development of priority zoonotic animal disease diagnostics, vaccines, drugs, and other countermeasures.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. P, § 3](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2159](https://www.govinfo.gov/link/statute/134/2159).)*

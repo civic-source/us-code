@@ -3,9 +3,10 @@ title: "Section 431 - Benefits for certain members assigned to the Defense Intel
 usc_title: 37
 usc_section: "431"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 431"
-generated_at: "2026-03-30T02:55:44.058Z"
+generated_at: "2026-11-23T21:26:14.240Z"
+status: "active"
 ---
 
 # § 431. Benefits for certain members assigned to the Defense Intelligence Agency
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:44.058Z"
     - **(A)** to Defense Attaché Offices or Defense Intelligence Agency Liaison Offices outside the United States; or
     - **(B)** to the Defense Intelligence Agency and engaged in intelligence-related duties outside the United States; and
   - **(2)** are designated by the Secretary of Defense for the purposes of subsection (a).
+
+## Source Credit
+
+*(Added [Pub. L. 99–145, title XIII, § 1302(b)(1)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 738](https://www.govinfo.gov/link/statute/99/738), § 431; amended [Pub. L. 102–25, title VII, § 702(b)(1)](https://www.govinfo.gov/link/plaw/102/public/25), (c), Apr. 6, 1991, [105 Stat. 117](https://www.govinfo.gov/link/statute/105/117); [Pub. L. 104–93, title V, § 502(b)](https://www.govinfo.gov/link/plaw/104/public/93), Jan. 6, 1996, [109 Stat. 973](https://www.govinfo.gov/link/statute/109/973); [Pub. L. 106–65, div. A, title X, § 1067(2)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774); [Pub. L. 112–81, div. A, title VI, § 631(d)(2)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1460](https://www.govinfo.gov/link/statute/125/1460); renumbered § 491, [Pub. L. 112–239, div. A, title X, § 1076(h)(2)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1955](https://www.govinfo.gov/link/statute/126/1955); [Pub. L. 117–81, div. A, title VI, § 604(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1767](https://www.govinfo.gov/link/statute/135/1767); renumbered § 431, [Pub. L. 117–263, div. A, title VI, § 615(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2624](https://www.govinfo.gov/link/statute/136/2624).)*

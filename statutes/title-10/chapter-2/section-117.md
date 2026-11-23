@@ -3,9 +3,10 @@ title: "Section 117 - Readiness reporting system"
 usc_title: 10
 usc_section: "117"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 117"
-generated_at: "2026-03-30T02:53:38.031Z"
+generated_at: "2026-11-23T21:25:32.206Z"
+status: "active"
 ---
 
 # § 117. Readiness reporting system
@@ -29,3 +30,39 @@ generated_at: "2026-03-30T02:53:38.031Z"
   - **(5)** Measure critical warfighting deficiencies in training establishments and defense infrastructure.
   - **(6)** Measure the extent to which units of the armed forces remove serviceable parts, supplies, or equipment from one vehicle, vessel, or aircraft in order to render a different vehicle, vessel, or aircraft operational.
 - **(d)** The Secretary shall prescribe regulations to carry out this section. In those regulations, the Secretary shall prescribe the established information technology system for Department of Defense reporting, specifically authorize exceptions to a single-system architecture, and identify the organizations, units, and entities that are subject to reporting in the readiness reporting system, what organization resources are subject to such reporting, and the elements of the training establishment and of defense infrastructure that are subject to such reporting.
+
+Required Readiness Reporting System
+
+Readiness Reporting System Characteristics
+
+Capabilities
+
+Regulations
+
+Metrics.—
+
+Establishment required
+
+Briefings required
+
+Modification of Readiness Reporting System
+
+Limitation
+
+Plan
+
+Transition
+
+Reporting Requirement.—
+
+In general
+
+Elements
+
+Submission to congress
+
+Defense Readiness Reporting Requirements
+
+## Source Credit
+
+*(Added [Pub. L. 105–261, div. A, title III, § 373(a)(1)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 1990](https://www.govinfo.gov/link/statute/112/1990); amended [Pub. L. 106–65, div. A, title III, § 361(d)(1)](https://www.govinfo.gov/link/plaw/106/public/65), title X, § 1067(1), Oct. 5, 1999, [113 Stat. 575](https://www.govinfo.gov/link/statute/113/575), 774; [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title III, § 371], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–80; [Pub. L. 108–136, div. A, title X, § 1031(a)(1)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1595](https://www.govinfo.gov/link/statute/117/1595); [Pub. L. 112–239, div. A, title VIII, § 845(a)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1848](https://www.govinfo.gov/link/statute/126/1848); [Pub. L. 113–291, div. A, title X, § 1071(c)(2)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3508](https://www.govinfo.gov/link/statute/128/3508); [Pub. L. 115–91, div. A, title III, § 331(b)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1354](https://www.govinfo.gov/link/statute/131/1354); [Pub. L. 115–232, div. A, title III, § 331(a)](https://www.govinfo.gov/link/plaw/115/public/232) –(g)(1), Aug. 13, 2018, [132 Stat. 1723](https://www.govinfo.gov/link/statute/132/1723), 1724; [Pub. L. 116–92, div. A, title III, § 361(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1325](https://www.govinfo.gov/link/statute/133/1325).)*

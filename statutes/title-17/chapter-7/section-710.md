@@ -3,9 +3,10 @@ title: "Section 710 - Emergency relief authority"
 usc_title: 17
 usc_section: "710"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 710"
-generated_at: "2026-03-30T02:54:15.354Z"
+generated_at: "2026-11-23T21:25:41.725Z"
+status: "active"
 ---
 
 # § 710. Emergency relief authority
@@ -16,3 +17,19 @@ generated_at: "2026-03-30T02:54:15.354Z"
 - **(d)** The authority of the Register to act under subsection (a) does not extend 1 1 So in original. Probably should be followed by “to”. provisions under this title requiring the commencement of an action or proceeding in Federal court within a specified period of time, except that if the Register adjusts the license availability date defined in section 115(e)(15), such adjustment shall not affect the ability to commence actions for any claim of infringement of exclusive rights provided by paragraphs (1) and (3) of section 106 against a digital music provider arising from the unauthorized reproduction or distribution of a musical work by such digital music provider in the course of engaging in covered activities that accrued after January 1, 2018 , provided that such action is commenced within the time periods prescribed under section 115(d)(10)(C)(i) or 115(d)(10)(C)(ii) as calculated from the adjusted license availability date. If the Register adjusts the license availability date, the Register must provide the statement to Congress under subsection (c) at the same time as the public notice of such adjustment with a detailed explanation of why such adjustment is needed.
 - **(e)** The authority of the Register to act under subsection (a) does not extend to provisions under chapter 3, except section 304(c), or section 1401(a)(2).
 - **(f)** Notwithstanding section 301 of the National Emergencies Act ( 50 U.S.C. 1631 ), the authority of the Register under subsection (a) is not contingent on a specification made by the President under such section or any other requirement under that Act (other than the emergency declaration under section 201(a) of such Act ( 50 U.S.C. 1621(a) )). The authority described in this section supersedes the authority of title II of the National Emergencies Act ( 50 U.S.C. 1621 et seq.).
+
+Emergency Action
+
+Notice and Effect
+
+Statement Required
+
+Exceptions
+
+Copyright Term Exception
+
+Other Laws
+
+## Source Credit
+
+*(Added [Pub. L. 116–136, div. B, title IX, § 19011(a)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 581](https://www.govinfo.gov/link/statute/134/581).)*

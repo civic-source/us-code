@@ -3,9 +3,10 @@ title: "Section 2302 - Payment of claims"
 usc_title: 25
 usc_section: "2302"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2302"
-generated_at: "2026-03-30T02:54:52.840Z"
+generated_at: "2026-11-23T21:25:54.666Z"
+status: "active"
 ---
 
 # § 2302. Payment of claims
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:52.840Z"
 - **(b)** No payment shall be made to a person under subsection (a) with respect to any unauthorized disbursement from the trust estate of a deceased Indian if—
   - **(1)** the total amount of unauthorized disbursements from such trust estate was less than $50; or
   - **(2)** the payment (not including interest) would be less than $10.
+
+## Source Credit
+
+*([Pub. L. 98–500, § 3](https://www.govinfo.gov/link/plaw/98/public/500), Oct. 19, 1984, [98 Stat. 2317](https://www.govinfo.gov/link/statute/98/2317); [Pub. L. 100–581, title II, § 201](https://www.govinfo.gov/link/plaw/100/public/581), Nov. 1, 1988, [102 Stat. 2939](https://www.govinfo.gov/link/statute/102/2939).)*

@@ -3,9 +3,10 @@ title: "Section 7e - Biomedical Advanced Research and Development Authority"
 usc_title: 42
 usc_section: "7e"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7e"
-generated_at: "2026-03-30T02:56:10.706Z"
+generated_at: "2026-11-23T21:26:30.317Z"
+status: "active"
 ---
 
 # § 247d–7e. Biomedical Advanced Research and Development Authority
@@ -145,7 +146,7 @@ generated_at: "2026-03-30T02:56:10.706Z"
         - **(III)** security and vulnerability assessments.
     - **(B)** Information subject to nondisclosure under subparagraph (A) shall be reviewed by the Secretary every 5 years, or more frequently as determined necessary by the Secretary, to determine the relevance or necessity of continued nondisclosure.
     - **(C)** One year after June 24, 2019 , and annually thereafter, the Secretary shall report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives on the number of instances in which the Secretary has used the authority under this subsection to withhold information from disclosure, as well as the nature of any request under section 552 of title 5 that was denied using such authority.
-    - **(D)** This paragraph shall cease to have force or effect after January 30, 2026 .
+    - **(D)** This paragraph shall cease to have force or effect after December 31, 2026 .
   - **(2)** Notwithstanding section 1013 of title 5 , a working group of BARDA under this section and the National Biodefense Science Board under section 247d–7g of this title shall each terminate on the date that is 5 years after the date on which each such group or Board, as applicable, was established. Such 5-year period may be extended by the Secretary for one or more additional 5-year periods if the Secretary determines that any such extension is appropriate.
 - **(f)**
   - **(1)** Not later than 180 days after December 29, 2022 , the Comptroller General of the United States shall conduct an independent evaluation of the activities carried out to facilitate flexible manufacturing capacity pursuant to this section.
@@ -156,3 +157,43 @@ generated_at: "2026-03-30T02:56:10.706Z"
       - **(i)** secure and leverage leading technical expertise with respect to countermeasure advanced research, development, and manufacturing processes; and
       - **(ii)** meet the surge manufacturing capacity needs presented by novel and emerging threats, including chemical, biological, radiological, and nuclear agents; and
     - **(D)** plans for the near-, mid-, and long-term sustainment of manufacturing activities carried out under this section, including such activities pursuant to subsection (c)(5)(H), specific actions to regularly assess the ability of recipients of an award under subsection (c)(4)(B)(v) to rapidly manufacture countermeasures as required by the Secretary, and recommendations to address challenges, if any, related to such activities.
+
+(aa) be an independent, nonprofit entity;
+
+(bb) have a demonstrated record of being able to create linkages between innovators and investors and leverage such partnerships and resources for the purpose of addressing identified strategic needs of the Federal Government;
+
+(cc) have experience in promoting novel technology innovation;
+
+(dd) be problem-driven and solution-focused based on the needs, requirements, and problems identified by the Secretary under clause (iv);
+
+(ee) demonstrate the ability, or the potential ability, to promote the development of medical countermeasure products;
+
+(ff) demonstrate expertise, or the capacity to develop or acquire expertise, related to technical and regulatory considerations with respect to medical countermeasures; and
+
+(gg) not be within the Department of Health and Human Services.
+
+(aa) has in place a comprehensive set of policies that demonstrate a commitment to transparency and accountability;
+
+(bb) protects against conflicts of interest through a comprehensive set of policies that address potential conflicts of interest, ethics, disclosure, and reporting requirements;
+
+(cc) provides monthly accounting on the use of funds provided under such agreement; and
+
+(dd) provides on a quarterly basis, reports regarding the progress made toward meeting the identified needs set forth in the agreement.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Donald J. Trump.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 319L, as added [Pub. L. 109–417, title IV, § 401](https://www.govinfo.gov/link/plaw/109/public/417), Dec. 19, 2006, [120 Stat. 2865](https://www.govinfo.gov/link/statute/120/2865); amended [Pub. L. 113–5, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/113/public/5) –(d), (f), Mar. 13, 2013, [127 Stat. 194](https://www.govinfo.gov/link/statute/127/194), 195; [Pub. L. 114–255, div. A, title III](https://www.govinfo.gov/link/plaw/114/public/255), §§ 3082(b), 3084, Dec. 13, 2016, [130 Stat. 1141](https://www.govinfo.gov/link/statute/130/1141); [Pub. L. 116–22, title III, § 303(b)](https://www.govinfo.gov/link/plaw/116/public/22), title IV, § 404(a), title V, § 504(b), title VI, §§ 601, 602, title VII, § 701(d), (e)(2)(B), (f), June 24, 2019, [133 Stat. 935](https://www.govinfo.gov/link/statute/133/935), 948, 951–953, 961; [Pub. L. 116–136, div. A, title III, § 3301](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 383](https://www.govinfo.gov/link/statute/134/383); [Pub. L. 117–286, § 4(a)(228)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4331](https://www.govinfo.gov/link/statute/136/4331); [Pub. L. 117–328, div. FF, title II, § 2401(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5782](https://www.govinfo.gov/link/statute/136/5782); [Pub. L. 118–22, div. B, title II, § 203(b)](https://www.govinfo.gov/link/plaw/118/public/22), Nov. 17, 2023, [137 Stat. 120](https://www.govinfo.gov/link/statute/137/120); [Pub. L. 118–35, div. B, title I, § 103(b)](https://www.govinfo.gov/link/plaw/118/public/35), Jan. 19, 2024, [138 Stat. 5](https://www.govinfo.gov/link/statute/138/5); [Pub. L. 118–42, div. G, title I, § 103(b)](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 398](https://www.govinfo.gov/link/statute/138/398); [Pub. L. 118–158, div. C, title I, § 3103(b)](https://www.govinfo.gov/link/plaw/118/public/158), Dec. 21, 2024, [138 Stat. 1763](https://www.govinfo.gov/link/statute/138/1763); [Pub. L. 119–4, div. B, title I, § 2103(b)](https://www.govinfo.gov/link/plaw/119/public/4), Mar. 15, 2025, [139 Stat. 41](https://www.govinfo.gov/link/statute/139/41); [Pub. L. 119–37, div. F, title I, § 6103(b)](https://www.govinfo.gov/link/plaw/119/public/37), Nov. 12, 2025, [139 Stat. 630](https://www.govinfo.gov/link/statute/139/630); [Pub. L. 119–75, div. J, title IV, § 6403(b)](https://www.govinfo.gov/link/plaw/119/public/75), Feb. 3, 2026, [140 Stat. 688](https://www.govinfo.gov/link/statute/140/688).)*

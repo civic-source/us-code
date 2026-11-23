@@ -3,9 +3,10 @@ title: "Section 9811 - Standards relating to benefits for mothers and newborns"
 usc_title: 26
 usc_section: "9811"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 9811"
-generated_at: "2026-03-30T02:55:27.895Z"
+generated_at: "2026-11-23T21:26:07.044Z"
+status: "active"
 ---
 
 # § 9811. Standards relating to benefits for mothers and newborns
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:27.895Z"
   - **(1)** Such State law requires such coverage to provide for at least a 48-hour hospital length of stay following a normal vaginal delivery and at least a 96-hour hospital length of stay following a caesarean section.
   - **(2)** Such State law requires such coverage to provide for maternity and pediatric care in accordance with guidelines established by the American College of Obstetricians and Gynecologists, the American Academy of Pediatrics, or other established professional medical associations.
   - **(3)** Such State law requires, in connection with such coverage for maternity care, that the hospital length of stay for such care is left to the decision of (or required to be made by) the attending provider in consultation with the mother.
+
+## Source Credit
+
+*(Added [Pub. L. 105–34, title XV, § 1531(a)(4)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1081](https://www.govinfo.gov/link/statute/111/1081); amended [Pub. L. 105–206, title VI, § 6015(e)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 821](https://www.govinfo.gov/link/statute/112/821).)*

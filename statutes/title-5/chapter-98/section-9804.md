@@ -3,9 +3,10 @@ title: "Section 9804 - Recruitment, redesignation, and relocation bonuses"
 usc_title: 5
 usc_section: "9804"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 9804"
-generated_at: "2026-03-30T02:52:56.074Z"
+generated_at: "2026-11-23T21:25:23.463Z"
+status: "active"
 ---
 
 # § 9804. Recruitment, redesignation, and relocation bonuses
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:52:56.074Z"
   - **(3)** A bonus under this section may not be considered to be part of the basic pay of an employee.
 - **(e)** Before paying a bonus under this section, the Administration shall establish a plan for paying recruitment, redesignation, and relocation bonuses, subject to approval by the Office of Personnel Management.
 - **(f)** No more than 25 percent of the total amount in bonuses awarded under subsection (a) in any year may be awarded to supervisors or management officials.
+
+## Source Credit
+
+*(Added [Pub. L. 108–201, § 3(a)](https://www.govinfo.gov/link/plaw/108/public/201), Feb. 24, 2004, [118 Stat. 464](https://www.govinfo.gov/link/statute/118/464).)*

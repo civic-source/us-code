@@ -3,9 +3,10 @@ title: "Section 4191 - Authority and requirements"
 usc_title: 25
 usc_section: "4191"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4191"
-generated_at: "2026-03-30T02:54:52.860Z"
+generated_at: "2026-11-23T21:25:54.710Z"
+status: "active"
 ---
 
 # § 4191. Authority and requirements
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:52.860Z"
 - **(b)** Notes or other obligations guaranteed pursuant to this subchapter shall be in such form and denominations, have such maturities, and be subject to such conditions as may be prescribed by regulations issued by the Secretary. The Secretary may not deny a guarantee under this subchapter on the basis of the proposed repayment period for the note or other obligation, unless the period is more than 20 years or the Secretary determines that the period causes the guarantee to constitute an unacceptable financial risk.
 - **(c)** No guarantee or commitment to guarantee shall be made with respect to any note or other obligation if the total outstanding notes or obligations of the issuer guaranteed under this subchapter (excluding any amount defeased under the contract entered into under section 4192(a)(1) of this title ) would thereby exceed an amount equal to 5 times the amount of the grant approval for the issuer pursuant to subchapter III.
 - **(d)** A guarantee made under this subchapter shall guarantee repayment of 95 percent of the unpaid principal and interest due on the notes or other obligations guaranteed.
+
+## Source Credit
+
+*([Pub. L. 104–330, title VI, § 601](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4046](https://www.govinfo.gov/link/statute/110/4046); [Pub. L. 107–292, § 7](https://www.govinfo.gov/link/plaw/107/public/292), Nov. 13, 2002, [116 Stat. 2054](https://www.govinfo.gov/link/statute/116/2054); [Pub. L. 108–393, § 2](https://www.govinfo.gov/link/plaw/108/public/393), Oct. 30, 2004, [118 Stat. 2246](https://www.govinfo.gov/link/statute/118/2246).)*

@@ -3,9 +3,10 @@ title: "Section 40931 - Continuing evaluations"
 usc_title: 34
 usc_section: "40931"
 chapter: 409
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 40931"
-generated_at: "2026-03-30T02:55:33.313Z"
+generated_at: "2026-11-23T21:26:09.844Z"
+status: "active"
 ---
 
 # § 40931. Continuing evaluations
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:33.313Z"
 - **(b)** Not later than January 31 of each year, the Director shall submit to Congress a report containing the estimates submitted by the States under section 40912(b) of this title .
 - **(c)** Not later than January 31 of each year, the Director shall submit to Congress, and to each State participating in the National Criminal History Improvement Program, a report of the practices of the States regarding the collection, maintenance, automation, and transmittal of information relevant to determining whether a person is prohibited from possessing or receiving a firearm by Federal or State law, by the State or any other agency, or any other records relevant to the National Instant Criminal Background Check System, that the Director considers to be best practices.
 - **(d)** There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2009 through 2013 to complete the studies, evaluations, and reports required under this section.
+
+## Source Credit
+
+*([Pub. L. 110–180, title II, § 201](https://www.govinfo.gov/link/plaw/110/public/180), Jan. 8, 2008, [121 Stat. 2570](https://www.govinfo.gov/link/statute/121/2570).)*

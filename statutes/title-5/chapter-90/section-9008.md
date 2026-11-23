@@ -3,9 +3,10 @@ title: "Section 9008 - Administrative functions"
 usc_title: 5
 usc_section: "9008"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 9008"
-generated_at: "2026-03-30T02:52:56.072Z"
+generated_at: "2026-11-23T21:25:23.460Z"
+status: "active"
 ---
 
 # § 9008. Administrative functions
@@ -25,3 +26,15 @@ generated_at: "2026-03-30T02:52:56.072Z"
       - **(ii)** the premium history during the last 10 years for each qualified carrier offering long-term care insurance under this chapter; and
       - **(iii)** if cost increases are anticipated, the projected premiums for a typical insured individual at various ages.
   - **(4)** The advantages and disadvantages of long-term care insurance generally, relative to other means of accumulating or otherwise acquiring the assets that may be needed to meet the costs of long-term care, such as through tax-qualified retirement programs or other investment vehicles.
+
+In General
+
+Enrollment Periods
+
+Consultation
+
+Informed Decisionmaking
+
+## Source Credit
+
+*(Added [Pub. L. 106–265, title I, § 1002(a)](https://www.govinfo.gov/link/plaw/106/public/265), Sept. 19, 2000, [114 Stat. 768](https://www.govinfo.gov/link/statute/114/768).)*

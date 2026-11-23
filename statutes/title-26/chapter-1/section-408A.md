@@ -3,9 +3,10 @@ title: "Section 408A - Roth IRAs"
 usc_title: 26
 usc_section: "408A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 408A"
-generated_at: "2026-03-30T02:55:27.679Z"
+generated_at: "2026-11-23T21:26:06.202Z"
+status: "active"
 ---
 
 # § 408A. Roth IRAs
@@ -104,3 +105,47 @@ generated_at: "2026-03-30T02:55:27.679Z"
     - **(B)** Section 408(d)(3)(B) shall not apply with respect to amounts treated as a rollover by subparagraph (A).
     - **(C)** For purposes of applying section 72 in the case of a distribution which is not a qualified distribution, the amount treated as a rollover by reason of subparagraph (A) shall be treated as investment in the contract.
   - **(3)** In the case of any payment or distribution out of a simple retirement account (as defined in section 408(p)) with respect to which an election has been made under section 408(p)(12) and to which 72(t)(6) applies, the term “qualified rollover contribution” shall not include any payment or distribution paid into an account other than another simple retirement account (as so defined).
+
+In general
+
+Military death gratuity.—
+
+In general
+
+Annual limit on number of rollovers not to apply
+
+Application of section
+
+In general
+
+Limitation on aggregate amount included
+
+Exclusions from gross income
+
+Nonqualified distributions
+
+In general
+
+Application of amendments to deaths from injuries occurring on or after october 7, 2001 , and before enactment
+
+Pension protection act changes
+
+General Rule
+
+Definitions and Special Rules
+
+Airline payment amount.—
+
+In general
+
+Exception
+
+Qualified airline employee
+
+Reporting requirements
+
+Effective Date
+
+## Source Credit
+
+*(Added [Pub. L. 105–34, title III, § 302(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 825](https://www.govinfo.gov/link/statute/111/825); amended [Pub. L. 105–206, title VI, § 6005(b)(1)](https://www.govinfo.gov/link/plaw/105/public/206) –(7), (9), title VII, § 7004(a), July 22, 1998, [112 Stat. 796–800](https://www.govinfo.gov/link/statute/112/796), 833; [Pub. L. 105–277, div. J, title IV, § 4002(j)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–908](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 107–16, title VI, § 617(e)(1)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 106](https://www.govinfo.gov/link/statute/115/106); [Pub. L. 109–222, title V, § 512(a)](https://www.govinfo.gov/link/plaw/109/public/222), (b), May 17, 2006, [120 Stat. 365](https://www.govinfo.gov/link/statute/120/365); [Pub. L. 109–280, title VIII](https://www.govinfo.gov/link/plaw/109/public/280), §§ 824(a), (b), 833(c), Aug. 17, 2006, [120 Stat. 998](https://www.govinfo.gov/link/statute/120/998), 1004; [Pub. L. 110–245, title I, § 109(a)](https://www.govinfo.gov/link/plaw/110/public/245), (b), June 17, 2008, [122 Stat. 1631](https://www.govinfo.gov/link/statute/122/1631), 1632; [Pub. L. 110–458, title I, § 108(d)](https://www.govinfo.gov/link/plaw/110/public/458), (h), Dec. 23, 2008, [122 Stat. 5109](https://www.govinfo.gov/link/statute/122/5109); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 11002(d)(1)(W), 13611(a), Dec. 22, 2017, [131 Stat. 2060](https://www.govinfo.gov/link/statute/131/2060), 2165; [Pub. L. 115–141, div. U, title IV, § 401(a)(77)](https://www.govinfo.gov/link/plaw/115/public/141), (78), Mar. 23, 2018, [132 Stat. 1187](https://www.govinfo.gov/link/statute/132/1187); [Pub. L. 116–94, div. O, title I, § 107(c)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3149](https://www.govinfo.gov/link/statute/133/3149); [Pub. L. 117–328, div. T, title I, § 126(b)](https://www.govinfo.gov/link/plaw/117/public/328), title IV, § 401(b)(5), title VI, § 601(a), (c)(2), (d), Dec. 29, 2022, [136 Stat. 5316](https://www.govinfo.gov/link/statute/136/5316), 5388, 5390.)*

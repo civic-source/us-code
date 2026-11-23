@@ -3,9 +3,10 @@ title: "Section 7307 - Office of Research Oversight"
 usc_title: 38
 usc_section: "7307"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7307"
-generated_at: "2026-03-30T02:55:53.526Z"
+generated_at: "2026-11-23T21:26:16.847Z"
+status: "active"
 ---
 
 # § 7307. Office of Research Oversight
@@ -39,3 +40,21 @@ generated_at: "2026-03-30T02:55:53.526Z"
   - **(3)** Results of any investigations undertaken by the Office during the reporting period consonant with the purposes of this section.
   - **(4)** Other information that would be of interest to those committees in oversight of the Department medical research program.
 - **(g)** For purposes of this section, the term “medical research” means medical research described in section 7303(a)(2) of this title .
+
+Requirement for Office
+
+Director
+
+Functions
+
+General Functions
+
+Source of Funds
+
+Annual Report
+
+Medical Research
+
+## Source Credit
+
+*(Added [Pub. L. 108–170, title IV, § 401(a)(1)](https://www.govinfo.gov/link/plaw/108/public/170), Dec. 6, 2003, [117 Stat. 2059](https://www.govinfo.gov/link/statute/117/2059).)*

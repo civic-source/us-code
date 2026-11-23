@@ -3,12 +3,17 @@ title: "Section 696a - Acquisition of title to properties for National Key Deer 
 usc_title: 16
 usc_section: "696a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 696a"
-generated_at: "2026-03-30T02:54:22.897Z"
+generated_at: "2026-11-23T21:25:51.725Z"
+status: "active"
 ---
 
 # § 696a. Acquisition of title to properties for National Key Deer Refuge; rights-of-way and easements
 
 In furtherance of the aforesaid purposes, the Secretary may take such action and make such expenditures as he shall find to be necessary in order to secure satisfactory title in the United States to such properties, including the payment of expenses incidental to the location, examination, and survey of such lands and the acquisition of title thereto; but no payment shall be made for any such lands until the title thereto shall be satisfactory to the Attorney General: Provided , That the acquisition of such lands or interests therein by the United States shall in no case be defeated because of rights-of-ways, easements, exceptions, and reservations which, in the opinion of the Secretary of the Interior, will not interfere materially with the use of such properties for the purposes of sections 696 to 696b of this title.
 
+
+## Source Credit
+
+*([Pub. L. 85–164, § 2](https://www.govinfo.gov/link/plaw/85/public/164), Aug. 22, 1957, [71 Stat. 412](https://www.govinfo.gov/link/statute/71/412).)*

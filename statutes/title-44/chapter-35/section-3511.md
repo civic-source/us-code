@@ -3,9 +3,10 @@ title: "Section 3511 - Data inventory and Federal data catalogue"
 usc_title: 44
 usc_section: "3511"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 3511"
-generated_at: "2026-03-30T02:55:56.297Z"
+generated_at: "2026-11-23T21:26:18.431Z"
+status: "active"
 ---
 
 # § 3511. Data inventory and Federal data catalogue
@@ -53,3 +54,35 @@ generated_at: "2026-03-30T02:55:56.297Z"
     - **(C)** be made available on the Federal data catalogue maintained under paragraph (1).
   - **(3)** The Director shall ensure the Federal data catalogue maintained under paragraph (1) provides information on how the public can access a data asset included in a comprehensive data inventory under subsection (a) that is not yet available on the Federal data catalogue, including information regarding the application process established under section 3583 of title 44 .
 - **(d)** The Director shall delegate to the Administrator of the Office of Information and Regulatory Affairs and the Administrator of the Office of Electronic Government the authority to jointly issue guidance required under this section.
+
+Comprehensive Data Inventory.—
+
+In general
+
+Guidance
+
+(aa) an open Government data asset;
+
+(bb) subject to disclosure or partial disclosure or exempt from disclosure under section 552 of title 5 ;
+
+(cc) a public data asset eligible for disclosure under subsection (b); or
+
+(dd) a data asset not subject to open format or open license requirements due to existing limitations or restrictions on government distribution of the asset; or
+
+Regular updates required
+
+Public Data Assets
+
+Federal Data Catalogue.—
+
+In general
+
+Repository
+
+Access to other data assets
+
+Delegation
+
+## Source Credit
+
+*(Added [Pub. L. 104–13, § 2](https://www.govinfo.gov/link/plaw/104/public/13), May 22, 1995, [109 Stat. 180](https://www.govinfo.gov/link/statute/109/180); amended [Pub. L. 113–235, div. H, title I, § 1301(c)(1)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537); [Pub. L. 115–435, title II, § 202(d)(1)](https://www.govinfo.gov/link/plaw/115/public/435), Jan. 14, 2019, [132 Stat. 5538](https://www.govinfo.gov/link/statute/132/5538).)*

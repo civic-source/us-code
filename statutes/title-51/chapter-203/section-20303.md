@@ -3,9 +3,10 @@ title: "Section 20303 - Contribution to innovation"
 usc_title: 51
 usc_section: "20303"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 20303"
-generated_at: "2026-03-30T02:56:28.704Z"
+generated_at: "2026-11-23T21:26:42.532Z"
+status: "active"
 ---
 
 # § 20303. Contribution to innovation
@@ -19,3 +20,57 @@ generated_at: "2026-03-30T02:56:28.704Z"
     - **(A)** A description of each program.
     - **(B)** The amount spent on each program.
     - **(C)** The number of students or teachers served by each program.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 20303(a) | 42 U.S.C. 16611a(a) . | Pub. L. 110–69, title II, § 2001(a) , (b), (c), (e), Aug. 9, 2007 , 121 Stat. 582 . |
+| 20303(b) | 42 U.S.C. 16611a(b) . |  |
+| 20303(c) | 42 U.S.C. 16611a(c) . |  |
+| 20303(d) | 42 U.S.C. 16611a(e) . |  |
+
+
+Participation in Interagency Activities
+
+Historic Foundation
+
+Balanced Science Program and Robust Authorization Levels
+
+Annual Report.—
+
+Requirement
+
+Content
+
+Historical and Revision Notes
+
+20303(a)
+
+42 U.S.C. 16611a(a)
+
+Pub. L. 110–69, title II, § 2001(a)
+
+Aug. 9, 2007
+
+121 Stat. 582
+
+20303(b)
+
+42 U.S.C. 16611a(b)
+
+20303(c)
+
+42 U.S.C. 16611a(c)
+
+20303(d)
+
+42 U.S.C. 16611a(e)
+
+Sense of Congress
+
+Evaluation and Assessment of NASA’s Interagency Contribution
+
+Report to the Congress
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3356](https://www.govinfo.gov/link/statute/124/3356).)*

@@ -3,9 +3,10 @@ title: "Section 4873 - Additional requirements pertaining to printed circuit boa
 usc_title: 10
 usc_section: "4873"
 chapter: 385
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4873"
-generated_at: "2026-03-30T02:53:38.215Z"
+generated_at: "2026-11-23T21:25:32.799Z"
+status: "active"
 ---
 
 # § 4873. Additional requirements pertaining to printed circuit boards
@@ -52,3 +53,31 @@ generated_at: "2026-03-30T02:53:38.215Z"
   - **(3)** In carrying out this section, the Secretary shall, to the maximum extent practicable, avoid imposing contractual certification requirements with respect to the acquisition of commercial products, commercial services, or commercially available off-the-shelf items.
 - **(e)** This section shall apply only with respect to contracts entered into after the issuance of a final rule implementing this section.
 - **(f)** Nothing in this section shall be construed to prohibit the Department of Defense from entering into a contract with an entity that connects to the facilities of a third party, for the purposes of backhaul, roaming, or interconnection arrangements, on the basis of the noncompliance by the third party with the provisions of this section or use of equipment or services that do not route or redirect user data traffic or permit visibility into any user data or packets that such equipment transmits or otherwise handles.
+
+In General.—
+
+Waiver.—
+
+Definitions
+
+Covered nation
+
+Covered printed circuit board
+
+Secretary
+
+Commercial product; commercial service; commercially available off-the shelf item
+
+Defense security system.—
+
+Specified type
+
+Rulemaking.—
+
+Applicability
+
+Rule of Construction
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. A, title VIII, § 841(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3762](https://www.govinfo.gov/link/statute/134/3762), § 2533d; amended [Pub. L. 117–81, div. A, title VIII, § 851(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1844](https://www.govinfo.gov/link/statute/135/1844); renumbered § 4873 and amended [Pub. L. 117–81, div. A, title XVII, § 1701(e)(2)(A)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2138](https://www.govinfo.gov/link/statute/135/2138).)*

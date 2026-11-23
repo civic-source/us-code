@@ -3,9 +3,10 @@ title: "Section 300f - Definitions"
 usc_title: 42
 usc_section: "300f"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 300f"
-generated_at: "2026-03-30T02:56:10.794Z"
+generated_at: "2026-11-23T21:26:30.719Z"
+status: "active"
 ---
 
 # § 300f. Definitions
@@ -46,3 +47,25 @@ For purposes of this subchapter:
     - **(A)** serves at least 15 service connections used by year-round residents of the area served by the system; or
     - **(B)** regularly serves at least 25 year-round residents.
   - **(16)** The term “noncommunity water system” means a public water system that is not a community water system.
+
+Public water system.—
+
+In general
+
+Connections.—
+
+In general
+
+Irrigation districts
+
+Transition period
+
+Community water system
+
+Noncommunity water system
+
+“The Congress finds that—
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XIV, § 1401, as added [Pub. L. 93–523, § 2(a)](https://www.govinfo.gov/link/plaw/93/public/523), Dec. 16, 1974, [88 Stat. 1660](https://www.govinfo.gov/link/statute/88/1660); amended [Pub. L. 94–317, title III, § 301(b)(2)](https://www.govinfo.gov/link/plaw/94/public/317), June 23, 1976, [90 Stat. 707](https://www.govinfo.gov/link/statute/90/707); [Pub. L. 94–484, title IX, § 905(b)(1)](https://www.govinfo.gov/link/plaw/94/public/484), Oct. 12, 1976, [90 Stat. 2325](https://www.govinfo.gov/link/statute/90/2325); [Pub. L. 95–190, § 8(b)](https://www.govinfo.gov/link/plaw/95/public/190), Nov. 16, 1977, [91 Stat. 1397](https://www.govinfo.gov/link/statute/91/1397); [Pub. L. 99–339, title III, § 302(b)](https://www.govinfo.gov/link/plaw/99/public/339), June 19, 1986, [100 Stat. 666](https://www.govinfo.gov/link/statute/100/666); [Pub. L. 104–182, title I, § 101(a)](https://www.govinfo.gov/link/plaw/104/public/182), (b)(1), Aug. 6, 1996, [110 Stat. 1615](https://www.govinfo.gov/link/statute/110/1615), 1616; [Pub. L. 114–322, title II, § 2111](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1729](https://www.govinfo.gov/link/statute/130/1729).)*

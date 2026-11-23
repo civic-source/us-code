@@ -3,9 +3,10 @@ title: "Section 3111 - Acceptance of volunteer service"
 usc_title: 5
 usc_section: "3111"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3111"
-generated_at: "2026-03-30T02:52:55.999Z"
+generated_at: "2026-11-23T21:25:23.135Z"
+status: "active"
 ---
 
 # § 3111. Acceptance of volunteer service
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:52:55.999Z"
   - **(2)** In this section, the term “agency” includes the Congressional Budget Office, except that in the case of the Congressional Budget Office—
     - **(A)** any student who provides voluntary service in accordance with this section shall be considered an employee of the Congressional Budget Office for purposes of section 203 of the Congressional Budget Act of 1974 (relating to the level of confidentiality of budget data); and
     - **(B)** the authority granted to the Office of Personnel Management under this section shall be exercised by the Director of the Congressional Budget Office.
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title III, § 301(a)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1144](https://www.govinfo.gov/link/statute/92/1144); amended [Pub. L. 97–258, § 3(a)(5)](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1063](https://www.govinfo.gov/link/statute/96/1063); [Pub. L. 97–437](https://www.govinfo.gov/link/plaw/97/public/437), Jan. 8, 1983, [96 Stat. 2285](https://www.govinfo.gov/link/statute/96/2285); [Pub. L. 107–296, title XIII, § 1314(b)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2296](https://www.govinfo.gov/link/statute/116/2296); [Pub. L. 107–347, title II, § 209(g)(1)(A)](https://www.govinfo.gov/link/plaw/107/public/347), Dec. 17, 2002, [116 Stat. 2931](https://www.govinfo.gov/link/statute/116/2931); [Pub. L. 111–68, div. A, title I, § 1303(a)](https://www.govinfo.gov/link/plaw/111/public/68), Oct. 1, 2009, [123 Stat. 2034](https://www.govinfo.gov/link/statute/123/2034); [Pub. L. 113–76, div. I, title I, § 1201(a)](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 426](https://www.govinfo.gov/link/statute/128/426).)*

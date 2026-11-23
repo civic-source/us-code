@@ -3,12 +3,17 @@ title: "Section 4123 - New industries"
 usc_title: 18
 usc_section: "4123"
 chapter: 307
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 4123"
-generated_at: "2026-03-30T02:54:16.528Z"
+generated_at: "2026-11-23T21:25:44.241Z"
+status: "active"
 ---
 
 # § 4123. New industries
 
 Any industry established under this chapter shall be so operated as not to curtail the production of any existing arsenal, navy yard, or other Government workshop. Such forms of employment shall be provided as will give the inmates of all Federal penal and correctional institutions a maximum opportunity to acquire a knowledge and skill in trades and occupations which will provide them with a means of earning a livelihood upon release. The industries may be either within the precincts of any penal or correctional institution or in any convenient locality where an existing property may be obtained by lease, purchase, or otherwise.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 851](https://www.govinfo.gov/link/statute/62/851).)*

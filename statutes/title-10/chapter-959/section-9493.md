@@ -3,9 +3,10 @@ title: "Section 9493 - Activities performed as federally chartered nonprofit cor
 usc_title: 10
 usc_section: "9493"
 chapter: 959
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 9493"
-generated_at: "2026-03-30T02:53:38.260Z"
+generated_at: "2026-11-23T21:25:33.004Z"
+status: "active"
 ---
 
 # § 9493. Activities performed as federally chartered nonprofit corporation
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:53:38.260Z"
 - **(b)** The use of equipment, supplies, or other resources under subsection (a) is subject to the laws and regulations that govern the use by nonprofit corporations of federally provided assets or of assets purchased with appropriated funds, as the case may be.
 - **(c)** The authority for the Civil Air Patrol to provide assistance under subsection (a)(1) is not contingent on the Civil Air Patrol being reimbursed for the cost of providing the assistance. If the Civil Air Patrol elects to require reimbursement for the provision of assistance under such subsection, the Civil Air Patrol may establish the reimbursement rate at a rate less than the rates charged by private sector sources for equivalent services.
 - **(d)** The Secretary of the Air Force may provide the Civil Air Patrol with funds for paying the cost of liability insurance to cover missions and activities carried out under this section.
+
+Use of Federally Provided Resources
+
+Use Subject to Applicable Laws
+
+Authority Not Contingent on Reimbursement
+
+Liability Insurance
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1090(a)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–295, § 9443; renumbered § 9493, [Pub. L. 115–232, div. A, title VIII, § 806(a)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1832](https://www.govinfo.gov/link/statute/132/1832).)*

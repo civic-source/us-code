@@ -3,9 +3,10 @@ title: "Section 1665 - Definitions"
 usc_title: 25
 usc_section: "1665"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1665"
-generated_at: "2026-03-30T02:54:52.825Z"
+generated_at: "2026-11-23T21:25:54.629Z"
+status: "active"
 ---
 
 # § 1665. Definitions
@@ -41,3 +42,7 @@ In this part:
       - **(ii)** Averting deterioration in physical or mental functional status.
       - **(iii)** The maintenance of physical or mental health functional status.
   - **(8)** The term “substance abuse” includes inhalant abuse.
+
+## Source Credit
+
+*([Pub. L. 94–437, title VII, § 701](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

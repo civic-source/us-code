@@ -3,9 +3,10 @@ title: "Section 1632d - Dairy business innovation initiatives"
 usc_title: 7
 usc_section: "1632d"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1632d"
-generated_at: "2026-03-30T02:53:42.331Z"
+generated_at: "2026-11-23T21:25:28.136Z"
+status: "active"
 ---
 
 # § 1632d. Dairy business innovation initiatives
@@ -73,3 +74,7 @@ generated_at: "2026-03-30T02:53:42.331Z"
   - **(5)** To the extent practicable, the Secretary shall ensure that funds provided to an initiative supplement, and do not duplicate or replace, existing dairy product research, development, and promotion activities.
 - **(h)** Not later than January 31, 2022 , the Secretary shall submit to Congress a report on the outcomes of the program under this section and any related activities and opportunities to further increase dairy innovation.
 - **(i)** There is authorized to be appropriated to carry out this section $20,000,000 for each fiscal year.
+
+## Source Credit
+
+*([Pub. L. 115–334, title XII, § 12513](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4996](https://www.govinfo.gov/link/statute/132/4996).)*

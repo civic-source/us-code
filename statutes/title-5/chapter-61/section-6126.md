@@ -3,9 +3,10 @@ title: "Section 6126 - Flexible schedules; credit hours; accumulation and compen
 usc_title: 5
 usc_section: "6126"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 6126"
-generated_at: "2026-03-30T02:52:56.029Z"
+generated_at: "2026-11-23T21:25:23.315Z"
+status: "active"
 ---
 
 # § 6126. Flexible schedules; credit hours; accumulation and compensation
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:52:56.029Z"
 - **(b)** Any employee who is on a flexible schedule program under section 6122 of this title and who is no longer subject to such a program shall be paid at such employee’s then current rate of basic pay for—
   - **(1)** in the case of a full-time employee, not more than 24 credit hours accumulated by such employee, or
   - **(2)** in the case of a part-time employee, the number of credit hours (not in excess of one-fourth of the hours in such employee’s biweekly basic work requirement) accumulated by such employee.
+
+## Source Credit
+
+*(Added [Pub. L. 97–221, § 2(a)(2)](https://www.govinfo.gov/link/plaw/97/public/221), July 23, 1982, [96 Stat. 230](https://www.govinfo.gov/link/statute/96/230).)*

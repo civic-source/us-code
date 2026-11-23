@@ -3,9 +3,10 @@ title: "Section 709 - Technicians: employment, use, status"
 usc_title: 32
 usc_section: "709"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "32 U.S.C. § 709"
-generated_at: "2026-03-30T02:55:31.866Z"
+generated_at: "2026-11-23T21:26:08.299Z"
+status: "active"
 ---
 
 # § 709. Technicians: employment, use, status
@@ -48,3 +49,64 @@ generated_at: "2026-03-30T02:55:31.866Z"
 - **(j)** In this section:
   - **(1)** The term “military pay status” means a period of service where the amount of pay payable to a technician for that service is based on rates of military pay provided for under title 37.
   - **(2)** The term “fitness for duty in the reserve components” refers only to military-unique service requirements that attend to military service generally, including service in the reserve components or service on active duty.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 709(a) 709(b) 709(c) 709(d) 709(e) 709(f) | 32:42 (1st par.). 32:42a (less 28 words before 1st proviso). 32:42 (2d par., and last sentence of 4th par.). 32:42 (3d par.). 32:42 (4th par., less last sentence). 32:42 (last par., less proviso). 32:42a (28 words before 1st proviso). 32:42 (proviso of last par.). | June 3, 1916, ch. 134, § 90 ; restated June 4, 1920, ch. 227 , subch. I, § 46; restated Mar. 1, 1922, ch. 90 ; restated June 6, 1924, ch. 275, § 5 ; restated May 28, 1926, ch. 417, § 1 ; Apr. 21, 1928, ch. 397 ; June 19, 1935, ch. 277, § 6 ; June 13, 1940, ch. 343 (1st proviso under “National Guard”); restated Oct. 14, 1940, ch. 875, § 1 , 54 Stat. 1134 . June 25, 1938, ch. 688 , 52 Stat. 1173 . |
+
+
+Historical and Revision Notes
+
+709(a)
+
+709(b)
+
+709(c)
+
+709(d)
+
+709(e)
+
+709(f)
+
+June 3, 1916, ch. 134, § 90
+
+June 4, 1920, ch. 227
+
+Mar. 1, 1922, ch. 90
+
+June 6, 1924, ch. 275, § 5
+
+May 28, 1926, ch. 417, § 1
+
+Apr. 21, 1928, ch. 397
+
+June 19, 1935, ch. 277, § 6
+
+June 13, 1940, ch. 343
+
+Oct. 14, 1940, ch. 875, § 1
+
+54 Stat. 1134
+
+June 25, 1938, ch. 688
+
+52 Stat. 1173
+
+Civil Service Retirement Credit
+
+Covered Individuals
+
+Regulations
+
+General rule
+
+Exception.—
+
+Rule for individuals separating after december 31, 1968 , and before the enactment of this act
+
+Conditions for enrolling in a health benefits plan
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 614; [Pub. L. 87–224, § 2](https://www.govinfo.gov/link/plaw/87/public/224), Sept. 13, 1961, [75 Stat. 496](https://www.govinfo.gov/link/statute/75/496); [Pub. L. 90–486, § 2(1)](https://www.govinfo.gov/link/plaw/90/public/486), Aug. 13, 1968, [82 Stat. 755](https://www.govinfo.gov/link/statute/82/755); [Pub. L. 92–119, § 2](https://www.govinfo.gov/link/plaw/92/public/119), Aug. 13, 1971, [85 Stat. 340](https://www.govinfo.gov/link/statute/85/340); [Pub. L. 96–513, title V, § 515(5)](https://www.govinfo.gov/link/plaw/96/public/513) –(7), Dec. 12, 1980, [94 Stat. 2937](https://www.govinfo.gov/link/statute/94/2937); [Pub. L. 103–160, div. A, title V](https://www.govinfo.gov/link/plaw/103/public/160), §§ 523(a), 524(c), (d), Nov. 30, 1993, [107 Stat. 1656](https://www.govinfo.gov/link/statute/107/1656), 1657; [Pub. L. 103–337, div. A, title X, § 1070(b)(2)](https://www.govinfo.gov/link/plaw/103/public/337), (d)(5), Oct. 5, 1994, [108 Stat. 2856](https://www.govinfo.gov/link/statute/108/2856), 2858; [Pub. L. 104–106, div. A, title X, § 1038(a)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 432](https://www.govinfo.gov/link/statute/110/432); [Pub. L. 105–85, div. A, title V, § 522(c)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1735](https://www.govinfo.gov/link/statute/111/1735); [Pub. L. 106–65, div. A, title V, § 524](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 599](https://www.govinfo.gov/link/statute/113/599); [Pub. L. 109–364, div. A, title V, § 525(d)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2195](https://www.govinfo.gov/link/statute/120/2195); [Pub. L. 114–328, div. A, title V](https://www.govinfo.gov/link/plaw/114/public/328), §§ 512(a), (b), 513, Dec. 23, 2016, [130 Stat. 2112](https://www.govinfo.gov/link/statute/130/2112), 2113.)*

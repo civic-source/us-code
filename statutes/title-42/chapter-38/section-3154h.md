@@ -3,9 +3,10 @@ title: "Section 3154h - Critical Supply Chain Site Development grant program"
 usc_title: 42
 usc_section: "3154h"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3154h"
-generated_at: "2026-03-30T02:56:11.183Z"
+generated_at: "2026-11-23T21:26:32.541Z"
+status: "active"
 ---
 
 # § 3154h. Critical Supply Chain Site Development grant program
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:11.183Z"
   - **(2)** In awarding grants under the grant program, the Secretary shall include necessary safeguards to ensure that—
     - **(A)** the site development is fully completed within a reasonable timeframe; and
     - **(B)** the eligible recipient has sufficiently demonstrated private sector interest.
+
+## Source Credit
+
+*([Pub. L. 89–136, title II, § 222](https://www.govinfo.gov/link/plaw/89/public/136), as added [Pub. L. 118–272, div. B, title II, § 2224](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3189](https://www.govinfo.gov/link/statute/138/3189).)*

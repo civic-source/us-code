@@ -3,9 +3,10 @@ title: "Section 6711 - Designation of United States National Authority"
 usc_title: 22
 usc_section: "6711"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6711"
-generated_at: "2026-03-30T02:55:05.431Z"
+generated_at: "2026-11-23T21:25:58.694Z"
+status: "active"
 ---
 
 # § 6711. Designation of United States National Authority
@@ -17,3 +18,31 @@ generated_at: "2026-03-30T02:55:05.431Z"
 - **(c)** The Secretary of State shall serve as the Director of the United States National Authority.
 - **(d)** The Director may utilize the administrative authorities otherwise available to the Secretary of State in carrying out the responsibilities of the Director set forth in this chapter.
 - **(e)** The President is authorized to implement and carry out the provisions of this chapter and the Convention and shall designate through Executive order which agencies of the United States shall issue, amend, or revise the regulations in order to implement this chapter and the provisions of the Convention. The Director of the United States National Authority shall report to the Congress on the regulations that have been issued, implemented, or revised pursuant to this section.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. I, title I, § 101](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–860](https://www.govinfo.gov/link/statute/112/2681).)*

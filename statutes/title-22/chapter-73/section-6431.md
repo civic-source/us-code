@@ -3,9 +3,10 @@ title: "Section 6431 - Establishment and composition"
 usc_title: 22
 usc_section: "6431"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6431"
-generated_at: "2026-03-30T02:55:05.428Z"
+generated_at: "2026-11-23T21:25:58.686Z"
+status: "active"
 ---
 
 # § 6431. Establishment and composition
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:05.428Z"
 - **(h)** The Administrator of General Services shall provide to the Commission on a reimbursable basis (or, in the discretion of the Administrator, on a nonreimbursable basis) such administrative support services as the Commission may request to carry out the provisions of this subchapter.
 - **(i)** Members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Commission. Members of the Commission shall comply with the requirements set forth in chapters 300 through 304 of title 41, Code of Federal Regulations (commonly known as the “Federal Travel Regulation”) and the Department of State Standardized Regulations governing authorized travel at government expense, including regulations concerning the mode of travel, lodging and per diem expenditures, reimbursement payments, and expense reporting and documentation requirements.
 - **(j)** If a payment is made under section 415(a) of the Congressional Accountability Act of 1995 ( 2 U.S.C. 1415(a) ) for an award or settlement in connection with a claim alleging a violation of unlawful harassment, intimidation, reprisal, or discrimination under the Congressional Accountability Act of 1995 ( 2 U.S.C. 1301 et seq.) that was committed personally by an individual who, at the time of committing the violation, was a Member of the Commission, the Member shall be removed from the Commission.
+
+## Source Credit
+
+*([Pub. L. 105–292, title II, § 201](https://www.govinfo.gov/link/plaw/105/public/292), Oct. 27, 1998, [112 Stat. 2797](https://www.govinfo.gov/link/statute/112/2797); [Pub. L. 106–55](https://www.govinfo.gov/link/plaw/106/public/55), §§ 1(a), 2(b), Aug. 17, 1999, [113 Stat. 401](https://www.govinfo.gov/link/statute/113/401), 406; [Pub. L. 107–228, div. A, title VI, § 681(b)](https://www.govinfo.gov/link/plaw/107/public/228) –(d), Sept. 30, 2002, [116 Stat. 1408](https://www.govinfo.gov/link/statute/116/1408), 1409; [Pub. L. 112–75, § 2](https://www.govinfo.gov/link/plaw/112/public/75), Dec. 23, 2011, [125 Stat. 1272](https://www.govinfo.gov/link/statute/125/1272); [Pub. L. 116–94, div. J, title VIII](https://www.govinfo.gov/link/plaw/116/public/94), §§ 803, 806(a), Dec. 20, 2019, [133 Stat. 3076](https://www.govinfo.gov/link/statute/133/3076), 3078.)*

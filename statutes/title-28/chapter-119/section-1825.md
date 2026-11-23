@@ -3,9 +3,10 @@ title: "Section 1825 - Payment of fees"
 usc_title: 28
 usc_section: "1825"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1825"
-generated_at: "2026-03-30T02:55:30.144Z"
+generated_at: "2026-11-23T21:26:01.106Z"
+status: "active"
 ---
 
 # § 1825. Payment of fees
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:30.144Z"
   - **(1)** on the certificate of a Federal public defender or assistant Federal public defender, in any such proceedings in which a party is represented by such Federal public defender or assistant Federal public defender, and
   - **(2)** on the certificate of the clerk of the court upon the affidavit of such witnesses’ attendance given by other counsel appointed pursuant to section 3006A of title 18 , in any such proceedings in which a party is represented by such other counsel.
 - **(c)** Fees and mileage need not be tendered to a witness upon service of a subpoena issued on behalf of the United States or an officer or agency of the United States, upon service of a subpoena issued on behalf of a defendant represented by a Federal public defender, assistant Federal public defender, or other attorney appointed pursuant to section 3006A of title 18 , or upon service of a subpoena issued on behalf of a party authorized to proceed in forma pauperis, if the payment of such fees and mileage is to be made by the Attorney General under this section.
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 951](https://www.govinfo.gov/link/statute/62/951); [Pub. L. 89–162](https://www.govinfo.gov/link/plaw/89/public/162), Sept. 2, 1965, [79 Stat. 618](https://www.govinfo.gov/link/statute/79/618); [Pub. L. 99–651, title I, § 104](https://www.govinfo.gov/link/plaw/99/public/651), Nov. 14, 1986, [100 Stat. 3645](https://www.govinfo.gov/link/statute/100/3645); [Pub. L. 101–650, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117); [Pub. L. 116–260, div. B, title II, § 220](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 1266](https://www.govinfo.gov/link/statute/134/1266).)*

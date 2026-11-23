@@ -3,9 +3,10 @@ title: "Section 3771 - Findings and purpose"
 usc_title: 16
 usc_section: "3771"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3771"
-generated_at: "2026-03-30T02:54:23.020Z"
+generated_at: "2026-11-23T21:25:51.983Z"
+status: "active"
 ---
 
 # § 3771. Findings and purpose
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:23.020Z"
   - **(7)** since 1987, the Partners for Fish and Wildlife Program has exemplified cooperative conservation as an innovative, voluntary partnership program that helps private landowners restore wetland and other important fish and wildlife habitat; and
   - **(8)** through 33,103 agreements with private landowners, the Partners for Fish and Wildlife Program has accomplished the restoration of 677,000 acres of wetland, 1,253,700 acres of prairie and native grasslands, and 5,560 miles of riparian and in-stream habitat since 1987, demonstrating much of that success since only 2001.
 - **(b)** The purpose of this chapter is to provide for the restoration, enhancement, and management of fish and wildlife habitats on private land through the Partners for Fish and Wildlife Program, a program that works with private landowners to conduct cost-effective habitat projects for the benefit of fish and wildlife resources in the United States.
+
+## Source Credit
+
+*([Pub. L. 109–294, § 2](https://www.govinfo.gov/link/plaw/109/public/294), Oct. 3, 2006, [120 Stat. 1351](https://www.govinfo.gov/link/statute/120/1351).)*

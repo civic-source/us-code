@@ -3,9 +3,10 @@ title: "Section 4205 - Implementation of trade agreements"
 usc_title: 19
 usc_section: "4205"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4205"
-generated_at: "2026-03-30T02:54:24.704Z"
+generated_at: "2026-11-23T21:25:42.877Z"
+status: "active"
 ---
 
 # § 4205. Implementation of trade agreements
@@ -98,3 +99,17 @@ generated_at: "2026-03-30T02:54:24.704Z"
 - **(c)** Subsection (b) of this section, section 4202(c) of this title , and section 4204(b)(3) of this title are enacted by Congress—
   - **(1)** as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such are deemed a part of the rules of each House, respectively, and such procedures supersede other rules only to the extent that they are inconsistent with such other rules; and
   - **(2)** with the full recognition of the constitutional right of either House to change the rules (so far as relating to the procedures of that House) at any time, in the same manner, and to the same extent as any other rule of that House.
+
+(aa) how and to what extent the agreement makes progress in achieving the applicable purposes, policies, and objectives referred to in subclause (I);
+
+(bb) whether and how the agreement changes provisions of an agreement previously negotiated;
+
+(cc) how the agreement serves the interests of United States commerce; and
+
+(dd) how the implementing bill meets the standards set forth in section 4202(b)(3) of this title .
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 114–26, title I, § 106](https://www.govinfo.gov/link/plaw/114/public/26), June 29, 2015, [129 Stat. 350](https://www.govinfo.gov/link/statute/129/350); [Pub. L. 114–125, title IX, § 914(e)](https://www.govinfo.gov/link/plaw/114/public/125), (f)(2), Feb. 24, 2016, [130 Stat. 274](https://www.govinfo.gov/link/statute/130/274), 276.)*

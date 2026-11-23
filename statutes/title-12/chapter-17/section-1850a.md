@@ -3,9 +3,10 @@ title: "Section 1850a - Securities holding companies"
 usc_title: 12
 usc_section: "1850a"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1850a"
-generated_at: "2026-03-30T02:53:53.469Z"
+generated_at: "2026-11-23T21:25:37.044Z"
+status: "active"
 ---
 
 # § 1850a. Securities holding companies
@@ -65,3 +66,7 @@ generated_at: "2026-03-30T02:53:53.469Z"
 - **(e)**
   - **(1)** Subsections (b), (c) through (s), and (u) of section 1818 of this title shall apply to any supervised securities holding company, and to any subsidiary (other than a bank or an institution described in subparagraph (D), (F), or (H) of section 2(c)(2) of the Bank Holding Company Act of 1956 ( 12 U.S.C. 1841(c)(2) )) of a supervised securities holding company, in the same manner as such subsections apply to a bank holding company for which the Board of Governors is the appropriate Federal banking agency. For purposes of applying such subsections to a supervised securities holding company or a subsidiary (other than a bank or an institution described in subparagraph (D), (F), or (H) of section 2(c)(2) of the Bank Holding Company Act of 1956 ( 12 U.S.C. 1841(c)(2) )) of a supervised securities holding company, the Board of Governors shall be deemed the appropriate Federal banking agency for the supervised securities holding company or subsidiary.
   - **(2)** Except as the Board of Governors may otherwise provide by regulation or order, a supervised securities holding company shall be subject to the provisions of the Bank Holding Company Act of 1956 ( 12 U.S.C. 1841 et seq.) in the same manner and to the same extent a bank holding company is subject to such provisions, except that a supervised securities holding company may not, by reason of this paragraph, be deemed to be a bank holding company for purposes of section 4 of the Bank Holding Company Act of 1956 ( 12 U.S.C. 1843 ).
+
+## Source Credit
+
+*([Pub. L. 111–203, title VI, § 618](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1616](https://www.govinfo.gov/link/statute/124/1616).)*

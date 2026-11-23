@@ -3,9 +3,10 @@ title: "Section 8146 - Administration for the Panama Canal Commission and The Al
 usc_title: 5
 usc_section: "8146"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8146"
-generated_at: "2026-03-30T02:52:56.043Z"
+generated_at: "2026-11-23T21:25:23.359Z"
+status: "active"
 ---
 
 # § 8146. Administration for the Panama Canal Commission and The Alaska Railroad
@@ -17,3 +18,30 @@ generated_at: "2026-03-30T02:52:56.043Z"
 - **(c)** The President may authorize the Panama Canal Commission to waive, at its discretion, the making of the claim required by section 8121 of this title in the case of compensation to an employee of the Panama Canal Commission for temporary disability, either total or partial.
 - **(d)** When administration is transferred under subsection (a) of this section to the general manager of The Alaska Railroad, the Secretary of Labor is not divested of jurisdiction and a claimant is entitled to appeal from the decision of the general manager of The Alaska Railroad to the Secretary of Labor. The Secretary on receipt of an appeal shall, or on his own motion may, review the decision of the general manager of The Alaska Railroad, and in accordance with the facts found on review may proceed under section 8128 of this title . The Secretary shall provide the form and manner of taking an appeal.
 - **(e)** The same right of appeal exists with respect to claims filed by employees of the Panama Canal Commission or their dependents in case of death, as is provided with respect to the claims of other employees to whom this subchapter applies, under section 8149 of this title . The Employees’ Compensation Appeals Board referred to by section 8149 of this title has jurisdiction, under regulations prescribed by the Secretary, over appeals relating to claims of the employees or their dependents.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 793 (1st 3 pars., less 2d sentence of 2d par.). | Sept. 7, 1916, ch. 458, § 42 (less 2d sentence of 2d par.), 39 Stat. 750 . Apr. 6, 1938, ch. 79 “Sec. 42 (less 2d sentence of 2d par.)”, 52 Stat. 200 . Aug. 30, 1964 , Pub. L. 88–508 , 78 Stat. 666 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 793
+
+Sept. 7, 1916, ch. 458, § 42
+
+39 Stat. 750
+
+Apr. 6, 1938, ch. 79
+
+52 Stat. 200
+
+Aug. 30, 1964
+
+Pub. L. 88–508
+
+78 Stat. 666
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 553](https://www.govinfo.gov/link/statute/80/553); [Pub. L. 96–70, title III, § 3302(e)(9)](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 498](https://www.govinfo.gov/link/statute/93/498).)*

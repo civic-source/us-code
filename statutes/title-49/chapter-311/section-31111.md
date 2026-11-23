@@ -3,9 +3,10 @@ title: "Section 31111 - Length limitations"
 usc_title: 49
 usc_section: "31111"
 chapter: 311
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 31111"
-generated_at: "2026-03-30T02:56:19.357Z"
+generated_at: "2026-11-23T21:26:40.776Z"
+status: "active"
 ---
 
 # § 31111. Length limitations
@@ -45,3 +46,215 @@ generated_at: "2026-03-30T02:56:19.357Z"
     - **(B)** The Secretary shall make a decision about a specific segment not later than 120 days after the date of receipt of notification from a chief executive officer under paragraph (1) of this subsection or the date on which the Secretary initiates action under subparagraph (A) of this paragraph, whichever is applicable. If the Secretary finds the decision will not be made in time, the Secretary immediately shall notify Congress, giving the reasons for the delay, information about the resources assigned, and the projected date for the decision.
     - **(C)** Before making a decision, the Secretary shall give an interested person notice and an opportunity for comment. If the Secretary exempts a segment under this subsection before the final regulations under subsection (e) of this section are prescribed, the Secretary shall include the exemption as part of the final regulations. If the Secretary exempts the segment after the final regulations are prescribed, the Secretary shall publish the exemption as an amendment to the final regulations.
 - **(g)** In prescribing regulations to carry out this section, the Secretary may make decisions necessary to accommodate specialized equipment, including automobile and vessel transporters and maxi-cube vehicles.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 31111(a)(1) | 49 App.:2311(f)(2). | Jan. 6, 1983 , Pub. L. 97–424 , 96 Stat. 2097 , § 411(f)(2); added Oct. 18, 1986 , Pub. L. 99–500, § 101 ( l ) [H.R. 5205, § 324(a)], 100 Stat. 1783–308 , and Oct. 30, 1986 , Pub. L. 99–591, § 101 ( l ) [H.R. 5205, § 324(a)], 100 Stat. 3341–308 ; Dec. 22, 1987 , Pub. L. 100–202, § 106 , 101 Stat. 1329–433 . |
+| 31111(a)(2) | 49 App.:2311(f)(1). | Jan. 6, 1983 , Pub. L. 97–424, § 411(f)(1) , 96 Stat. 2160 ; Oct. 18, 1986 , Pub. L. 99–500, § 101 ( l ) [H.R. 5205, § 324(a)], 100 Stat. 1783–308 ; Oct. 30, 1986 , Pub. L. 99–591, § 101 ( l ) [H.R. 5205, § 324(a)], 100 Stat. 3341–308 ; Dec. 22, 1987 , Pub. L. 100–202, § 106 , 101 Stat. 1329–433 . |
+| 31111(b) | 49 App.:2311(a). | Jan. 6, 1983 , Pub. L. 97–424, § 411(a) , 96 Stat. 2159 ; Oct. 30, 1984 , Pub. L. 98–554, § 104(a) , 98 Stat. 2831 ; Dec. 18, 1991 , Pub. L. 102–240, § 4006(b)(1) , 105 Stat. 2151 . |
+|  | 49 App.:2311(b). | Jan. 6, 1983 , Pub. L. 97–424, § 411(b) , (g), (h), 96 Stat. 2159 , 2160. |
+| 31111(c) | 49 App.:2311(c). | Jan. 6, 1983 , Pub. L. 97–424, § 411(c) , 96 Stat. 2159 ; Oct. 30, 1984 , Pub. L. 98–554, § 104(b) , 98 Stat. 2831 ; Oct. 18, 1986 , Pub. L. 99–500, § 101 ( l ) [H.R. 5205, § 324(b)], 100 Stat. 1783–308 ; Oct. 30, 1986 , Pub. L. 99–591, § 101 ( l ) [H.R. 5205, § 324(b)], 100 Stat. 3341–308 ; Dec. 22, 1987 , Pub. L. 100–202, § 106 , 101 Stat. 1329–433 . |
+| 31111(d) | 49 App.:2311(h). |  |
+| 31111(e) | 49 App.:2311(e). | Jan. 6, 1983 , Pub. L. 97–424, § 411(e) , 96 Stat. 2160 ; Dec. 18, 1991 , Pub. L. 102–240, § 4006(c) , 105 Stat. 2151 . |
+| 31111(f) | 49 App.:2311(i). | Jan. 6, 1983 , Pub. L. 97–424 , 96 Stat. 2097 , § 411(i); added Oct. 30, 1984 , Pub. L. 98–554, § 102 , 98 Stat. 2829 . |
+| 31111(g) | 49 App.:2311(d). | Jan. 6, 1983 , Pub. L. 97–424, § 411(d) , 96 Stat. 2160 ; Apr. 2, 1987 , Pub. L. 100–17, § 133(a)(7) , 101 Stat. 171 ; Nov. 5, 1990 , Pub. L. 101–516, § 327(a) , 104 Stat. 2182 . |
+|  | 49 App.:2311(g). |  |
+
+
+Definitions
+
+Automobile transporter
+
+Maxi-cube vehicle
+
+Truck tractor
+
+Driveaway saddlemount vehicle transporter combination
+
+Backhaul
+
+Trailer transporter towing unit
+
+Towaway trailer transporter combination
+
+General Limitations
+
+Maxi-Cube and Vehicle Combination Limitations
+
+Exclusion of Safety and Energy Conservation Devices
+
+Qualifying Highways
+
+Exemptions
+
+Accommodating Specialized Equipment
+
+Historical and Revision Notes
+
+31111(a)(1)
+
+Jan. 6, 1983
+
+Pub. L. 97–424
+
+96 Stat. 2097
+
+Oct. 18, 1986
+
+Pub. L. 99–500, § 101
+
+100 Stat. 1783–308
+
+Oct. 30, 1986
+
+Pub. L. 99–591, § 101
+
+100 Stat. 3341–308
+
+Dec. 22, 1987
+
+Pub. L. 100–202, § 106
+
+101 Stat. 1329–433
+
+31111(a)(2)
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 411(f)(1)
+
+96 Stat. 2160
+
+Oct. 18, 1986
+
+Pub. L. 99–500, § 101
+
+100 Stat. 1783–308
+
+Oct. 30, 1986
+
+Pub. L. 99–591, § 101
+
+100 Stat. 3341–308
+
+Dec. 22, 1987
+
+Pub. L. 100–202, § 106
+
+101 Stat. 1329–433
+
+31111(b)
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 411(a)
+
+96 Stat. 2159
+
+Oct. 30, 1984
+
+Pub. L. 98–554, § 104(a)
+
+98 Stat. 2831
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 4006(b)(1)
+
+105 Stat. 2151
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 411(b)
+
+96 Stat. 2159
+
+31111(c)
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 411(c)
+
+96 Stat. 2159
+
+Oct. 30, 1984
+
+Pub. L. 98–554, § 104(b)
+
+98 Stat. 2831
+
+Oct. 18, 1986
+
+Pub. L. 99–500, § 101
+
+100 Stat. 1783–308
+
+Oct. 30, 1986
+
+Pub. L. 99–591, § 101
+
+100 Stat. 3341–308
+
+Dec. 22, 1987
+
+Pub. L. 100–202, § 106
+
+101 Stat. 1329–433
+
+31111(d)
+
+31111(e)
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 411(e)
+
+96 Stat. 2160
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 4006(c)
+
+105 Stat. 2151
+
+31111(f)
+
+Jan. 6, 1983
+
+Pub. L. 97–424
+
+96 Stat. 2097
+
+Oct. 30, 1984
+
+Pub. L. 98–554, § 102
+
+98 Stat. 2829
+
+31111(g)
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 411(d)
+
+96 Stat. 2160
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 133(a)(7)
+
+101 Stat. 171
+
+Nov. 5, 1990
+
+Pub. L. 101–516, § 327(a)
+
+104 Stat. 2182
+
+Maxi-cube vehicle
+
+Truck tractor
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 993](https://www.govinfo.gov/link/statute/108/993); [Pub. L. 104–88, title I, § 104(b)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 919](https://www.govinfo.gov/link/statute/109/919); [Pub. L. 105–178, title IV, § 4005](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 400](https://www.govinfo.gov/link/statute/112/400); [Pub. L. 109–59, title IV, § 4141](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1746](https://www.govinfo.gov/link/statute/119/1746); [Pub. L. 110–244, title III, § 301(r)](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1617](https://www.govinfo.gov/link/statute/122/1617); [Pub. L. 114–94, div. A, title V](https://www.govinfo.gov/link/plaw/114/public/94), §§ 5520, 5523(a), (b), Dec. 4, 2015, [129 Stat. 1558–1560](https://www.govinfo.gov/link/statute/129/1558).)*

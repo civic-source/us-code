@@ -3,9 +3,10 @@ title: "Section 1129 - Confirmation of plan"
 usc_title: 11
 usc_section: "1129"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1129"
-generated_at: "2026-03-30T02:53:53.884Z"
+generated_at: "2026-11-23T21:25:34.954Z"
+status: "active"
 ---
 
 # § 1129. Confirmation of plan
@@ -66,3 +67,42 @@ generated_at: "2026-03-30T02:53:53.884Z"
 - **(c)** Notwithstanding subsections (a) and (b) of this section and except as provided in section 1127(b) of this title , the court may confirm only one plan, unless the order of confirmation in the case has been revoked under section 1144 of this title . If the requirements of subsections (a) and (b) of this section are met with respect to more than one plan, the court shall consider the preferences of creditors and equity security holders in determining which plan to confirm.
 - **(d)** Notwithstanding any other provision of this section, on request of a party in interest that is a governmental unit, the court may not confirm a plan if the principal purpose of the plan is the avoidance of taxes or the avoidance of the application of section 5 of the Securities Act of 1933. In any hearing under this subsection, the governmental unit has the burden of proof on the issue of avoidance.
 - **(e)** In a small business case, the court shall confirm a plan that complies with the applicable provisions of this title and that is filed in accordance with section 1121(e) not later than 45 days after the plan is filed unless the time for confirmation is extended in accordance with section 1121(e)(3).
+
+|  | Claims and stock (millions) | Equity (millions) |
+| --- | --- | --- |
+| (1) Senior debt | $1.2 | $1.2 |
+| (2) Junior debt | .5 | .3 |
+| (3) Stock | ( 1 ) | – |
+| Total | 1.7 | 1.5 |
+
+|  | Millions |
+| --- | --- |
+| (1) Senior debt | $1.1 |
+| (2) Junior debt | .3 |
+| (3) Stock | .1 |
+| Total | 1.5 |
+
+
+1 No value.
+
+(1) Senior debt
+
+(2) Junior debt
+
+(3) Stock
+
+1
+
+Total
+
+(1) Senior debt
+
+(2) Junior debt
+
+(3) Stock
+
+Total
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2635](https://www.govinfo.gov/link/statute/92/2635); [Pub. L. 98–353, title III, § 512](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 386](https://www.govinfo.gov/link/statute/98/386); [Pub. L. 99–554, title II](https://www.govinfo.gov/link/plaw/99/public/554), §§ 225, 283(v), Oct. 27, 1986, [100 Stat. 3102](https://www.govinfo.gov/link/statute/100/3102), 3118; [Pub. L. 100–334, § 2(b)](https://www.govinfo.gov/link/plaw/100/public/334), June 16, 1988, [102 Stat. 613](https://www.govinfo.gov/link/statute/102/613); [Pub. L. 103–394, title III, § 304(h)(7)](https://www.govinfo.gov/link/plaw/103/public/394), title V, § 501(d)(32), Oct. 22, 1994, [108 Stat. 4134](https://www.govinfo.gov/link/statute/108/4134), 4146; [Pub. L. 109–8, title II, § 213(1)](https://www.govinfo.gov/link/plaw/109/public/8), title III, § 321(c), title IV, § 438, title VII, § 710, title XII, § 1221(b), title XV, § 1502(a)(8), Apr. 20, 2005, [119 Stat. 52](https://www.govinfo.gov/link/statute/119/52), 95, 113, 127, 196, 216; [Pub. L. 111–327, § 2(a)(35)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3561](https://www.govinfo.gov/link/statute/124/3561).)*

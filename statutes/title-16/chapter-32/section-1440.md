@@ -3,9 +3,10 @@ title: "Section 1440 - Research, monitoring, and education"
 usc_title: 16
 usc_section: "1440"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1440"
-generated_at: "2026-03-30T02:54:22.968Z"
+generated_at: "2026-11-23T21:25:51.882Z"
+status: "active"
 ---
 
 # § 1440. Research, monitoring, and education
@@ -24,3 +25,11 @@ generated_at: "2026-03-30T02:54:22.968Z"
   - **(1)** The Secretary may develop interpretive facilities near any national marine sanctuary.
   - **(2)** Any facility developed under this subsection must emphasize the conservation goals and sustainable public uses of national marine sanctuaries by providing the public with information about the conservation, recreational, ecological, historical, cultural, archeological, scientific, educational, or esthetic qualities of the national marine sanctuary.
 - **(e)** In conducting, supporting, and coordinating research, monitoring, evaluation, and education programs under subsection (a) and developing interpretive facilities under subsection (d), the Secretary may consult or coordinate with Federal, interstate, or regional agencies, States or local governments.
+
+In general
+
+Promotion and Coordination of Sanctuary Use
+
+## Source Credit
+
+*([Pub. L. 92–532, title III, § 309](https://www.govinfo.gov/link/plaw/92/public/532), as added [Pub. L. 100–627, title II, § 203(3)](https://www.govinfo.gov/link/plaw/100/public/627), Nov. 7, 1988, [102 Stat. 3214](https://www.govinfo.gov/link/statute/102/3214); amended [Pub. L. 102–587, title II, § 2108](https://www.govinfo.gov/link/plaw/102/public/587), Nov. 4, 1992, [106 Stat. 5045](https://www.govinfo.gov/link/statute/106/5045); [Pub. L. 106–513, § 10](https://www.govinfo.gov/link/plaw/106/public/513), Nov. 13, 2000, [114 Stat. 2388](https://www.govinfo.gov/link/statute/114/2388).)*

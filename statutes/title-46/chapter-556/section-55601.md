@@ -3,9 +3,10 @@ title: "Section 55601 - United States marine highway program"
 usc_title: 46
 usc_section: "55601"
 chapter: 556
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 55601"
-generated_at: "2026-03-30T02:56:15.580Z"
+generated_at: "2026-11-23T21:26:37.312Z"
+status: "active"
 ---
 
 # § 55601. United States marine highway program
@@ -79,3 +80,79 @@ generated_at: "2026-03-30T02:56:15.580Z"
     - **(C)** a United States port authority;
     - **(D)** a Tribal government; or
     - **(E)** a United States private sector operator of marine highway projects or private sector owners of facilities, including an Alaska Native Corporation, with an endorsement letter from the requester of a marine highway route designation or modification referred to in subsection (b)(1)(B).
+
+Establishment.—
+
+In general
+
+Additional program activities
+
+Marine Highway Transportation Routes.—
+
+Designation
+
+Determination
+
+Notification
+
+Map of Marine Highway Program Routes.—
+
+In general
+
+Coordination
+
+Assistance.—
+
+In general
+
+Application.—
+
+In general
+
+Pre-proposal.—
+
+In general
+
+Feedback
+
+Prohibition
+
+Grant application feedback
+
+Timing.—
+
+Notice of funding opportunity
+
+Awarding of assistance
+
+Non-federal share.—
+
+In general
+
+Tribal governments and rural areas
+
+Preference for financially viable projects
+
+Treatment of unexpended funds
+
+Conditions on provision of assistance
+
+Prohibited uses
+
+Geographic distribution
+
+Eligible entity
+
+Interim regulations
+
+Final regulations
+
+In general
+
+Pilot program
+
+Final report
+
+## Source Credit
+
+*(Added [Pub. L. 110–140, title XI, § 1121(a)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1760](https://www.govinfo.gov/link/statute/121/1760); amended [Pub. L. 111–84, div. C, title XXXV, § 3515](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2724](https://www.govinfo.gov/link/statute/123/2724); [Pub. L. 112–213, title IV, § 405(a)](https://www.govinfo.gov/link/plaw/112/public/213), Dec. 20, 2012, [126 Stat. 1571](https://www.govinfo.gov/link/statute/126/1571); [Pub. L. 116–283, div. G, title LVXXXIII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXIII], § 8332(d)(3), Jan. 1, 2021, [134 Stat. 4704](https://www.govinfo.gov/link/statute/134/4704); [Pub. L. 117–263, div. C, title XXXV, § 3521(a)(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3074](https://www.govinfo.gov/link/statute/136/3074).)*

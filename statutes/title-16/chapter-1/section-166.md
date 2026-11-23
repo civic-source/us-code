@@ -3,9 +3,10 @@ title: "Section 166 - Exchange of timber for private holdings; valuations"
 usc_title: 16
 usc_section: "166"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 166"
-generated_at: "2026-03-30T02:54:22.737Z"
+generated_at: "2026-11-23T21:25:51.386Z"
+status: "active"
 ---
 
 # § 166. Exchange of timber for private holdings; valuations
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:22.737Z"
   - **(1)** of section 164 of this title the value of all patented lands within said park, including the timber thereon, offered for exchange, and the value of the timber on park lands, or on Government lands within the metes and bounds of the national forests within the State of Montana, proposed to be given in exchange for such patented lands, shall be ascertained in such manner as the Secretary of the Interior and the Secretary of Agriculture may jointly in their discretion direct, and all expenses incident to ascertaining such values shall be paid by the owners of said patented lands. Such owners shall, before any exchange is effective, furnish the Secretary of the Interior evidence satisfactory to him of title to the patented lands offered in exchange; and if the value of timber on park lands or on the Government lands in the national forests within the State of Montana exceeds the value of the patented lands deeded to the Government in exchange, such excess shall be paid to the Secretary of the Interior by the owners of the patented lands before any timber is removed, and shall be deposited and covered into the Treasury as miscellaneous receipts. The lands conveyed to the Government under this section and subdivision
   - **(1)** of section 164 of this title shall become a part of the Glacier National Park.
 
+
+## Source Credit
+
+*(Mar. 3, 1917, ch. 164, § 2, [39 Stat. 1122](https://www.govinfo.gov/link/statute/39/1122).)*

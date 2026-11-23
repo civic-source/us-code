@@ -3,9 +3,10 @@ title: "Section 530 - Annual report on program and expenditures for domestic res
 usc_title: 38
 usc_section: "530"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 530"
-generated_at: "2026-03-30T02:55:53.472Z"
+generated_at: "2026-11-23T21:26:16.558Z"
+status: "active"
 ---
 
 # § 530. Annual report on program and expenditures for domestic response to weapons of mass destruction
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:53.472Z"
   - **(2)** A detailed statement of the funds expended and personnel resources (stated in terms of full-time equivalent employees) used during the fiscal year preceding the fiscal year during which the report is submitted in preparation for a domestic medical response to an attack involving weapons of mass destruction or in response to such an attack, including identification of the source of those funds and a description of how those funds were expended.
   - **(3)** A detailed statement of the funds expended and expected to be expended, and the personnel resources (stated in terms of full-time equivalent employees) used and expected to be used, during the fiscal year during which the report is submitted in preparation for a domestic medical response to an attack involving weapons of mass destruction or in response to such an attack, including identification of the source of funds expended and a description of how those funds were expended.
 - **(c)** This section shall expire on January 1, 2009 .
+
+## Source Credit
+
+*(Added [Pub. L. 105–368, title IX, § 906(a)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3361](https://www.govinfo.gov/link/statute/112/3361).)*

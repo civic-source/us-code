@@ -3,9 +3,10 @@ title: "Section 1508a - Double insurance and prevented planting"
 usc_title: 7
 usc_section: "1508a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1508a"
-generated_at: "2026-03-30T02:53:42.321Z"
+generated_at: "2026-11-23T21:25:28.105Z"
+status: "active"
 ---
 
 # § 1508a. Double insurance and prevented planting
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:53:42.321Z"
   - **(3)** The producer has a history of planting two or more crops for harvest in the same crop year or the applicable acreage has historically had two or more crops planted for harvest in the same crop year.
   - **(4)** The second or more crops are customarily planted after the first crop for harvest on the same acreage in the same year in the area.
 - **(e)** Except in the case of double cropping described in subsection (d), if a producer elects to plant a crop (other than a replanted crop) subsequent to a second crop on the same acreage as the first crop and second crop for harvest in the same crop year, the producer shall not be eligible for insurance under this subchapter, or noninsured crop assistance under section 7333 of this title , for the subsequent crop.
+
+## Source Credit
+
+*(Feb. 16, 1938, ch. 30, title V, § 508A, as added [Pub. L. 106–224, title I, § 108](https://www.govinfo.gov/link/plaw/106/public/224), June 20, 2000, [114 Stat. 368](https://www.govinfo.gov/link/statute/114/368); amended [Pub. L. 110–234, title XII, § 12033(c)(2)(B)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1405](https://www.govinfo.gov/link/statute/122/1405); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XII, § 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2167.)*

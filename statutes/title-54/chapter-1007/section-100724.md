@@ -3,9 +3,10 @@ title: "Section 100724 - Use of recovered amounts"
 usc_title: 54
 usc_section: "100724"
 chapter: 1007
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "54 U.S.C. § 100724"
-generated_at: "2026-03-30T02:56:28.413Z"
+generated_at: "2026-11-23T21:26:42.757Z"
+status: "active"
 ---
 
 # § 100724. Use of recovered amounts
@@ -14,3 +15,38 @@ generated_at: "2026-03-30T02:56:28.413Z"
   - **(1)** To reimburse response costs and damage assessments by the Secretary or other Federal agencies as the Secretary considers appropriate.
   - **(2)** To restore, replace, or acquire the equivalent of System unit resources that were the subject of the action and to monitor and study those System unit resources. The funds may not be used to acquire any land or water, interest in land or water, or right to land or water unless the acquisition is specifically approved in advance in appropriations Acts. The acquisition shall be subject to any limitations contained in the legislation establishing the System unit.
 - **(b)** Any amounts remaining after expenditures pursuant to paragraphs (1) and (2) of subsection (a) shall be deposited in the Treasury.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 100724 | 16 U.S.C. 19jj–3 . | Pub. L. 101–337, § 4 , July 27, 1990 , 104 Stat. 380 ; Pub. L. 103–437, § 6(d)(3) , Nov. 12, 1994 , 108 Stat. 4583 . |
+
+
+Limitation on Use
+
+Reimbursement
+
+Restoration and replacement
+
+Excess Amounts
+
+Historical and Revision Notes
+
+100724
+
+16 U.S.C. 19jj–3
+
+Pub. L. 101–337, § 4
+
+July 27, 1990
+
+104 Stat. 380
+
+Pub. L. 103–437, § 6(d)(3)
+
+Nov. 12, 1994
+
+108 Stat. 4583
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3108](https://www.govinfo.gov/link/statute/128/3108).)*

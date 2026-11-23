@@ -3,12 +3,17 @@ title: "Section 3750 - Failure of selection for promotion"
 usc_title: 14
 usc_section: "3750"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 3750"
-generated_at: "2026-03-30T02:53:51.505Z"
+generated_at: "2026-11-23T21:25:35.459Z"
+status: "active"
 ---
 
 # § 3750. Failure of selection for promotion
 
 - **(a)** A Reserve officer, other than one serving in the grade of captain, who is, or is senior to, the junior officer in the promotion zone established for the officer’s grade, fails of selection if not selected for promotion by the selection board that considered the officer, or if having been selected for promotion by the board, the officer’s name is thereafter removed from the report of the board by the President.
 - **(b)** A Reserve officer is not considered to have failed of selection if the officer was not considered by a selection board because of administrative error. If that officer is selected by the next appropriate selection board after the error is discovered, and is promoted, the same date of rank and precedence shall be assigned that would have been assigned if the officer had been recommended for promotion by the selection board that originally would have considered the officer but for the error.
+
+## Source Credit
+
+*(Added [Pub. L. 96–322, § 1](https://www.govinfo.gov/link/plaw/96/public/322), Aug. 4, 1980, [94 Stat. 1013](https://www.govinfo.gov/link/statute/94/1013), § 739; renumbered § 3750, [Pub. L. 115–282, title I, § 118(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4233](https://www.govinfo.gov/link/statute/132/4233).)*

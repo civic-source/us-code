@@ -3,9 +3,10 @@ title: "Section 5114 - State examination authority"
 usc_title: 12
 usc_section: "5114"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5114"
-generated_at: "2026-03-30T02:53:53.524Z"
+generated_at: "2026-11-23T21:25:37.229Z"
+status: "active"
 ---
 
 # § 5114. State examination authority
@@ -16,3 +17,7 @@ In addition to any authority allowed under State law a State licensing agency sh
   - **(2)** Each such loan originator shall make available upon request to the State licensing agency the books and records relating to the operations of such originator. The State licensing agency may have access to such books and records and interview the officers, principals, loan originators, employees, independent contractors, agents, and customers of the licensee concerning their business.
   - **(3)** The authority of this section shall remain in effect, whether such a loan originator acts or claims to act under any licensing or registration law of such State, or claims to act without such authority.
   - **(4)** No person subject to investigation or examination under this section may knowingly withhold, abstract, remove, mutilate, destroy, or secrete any books, records, computer records, or other information.
+
+## Source Credit
+
+*([Pub. L. 110–289, div. A, title V, § 1515](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2823](https://www.govinfo.gov/link/statute/122/2823).)*

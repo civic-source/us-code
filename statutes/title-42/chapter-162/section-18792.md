@@ -3,9 +3,10 @@ title: "Section 18792 - Energy efficiency revolving loan fund capitalization gra
 usc_title: 42
 usc_section: "18792"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18792"
-generated_at: "2026-03-30T02:56:11.530Z"
+generated_at: "2026-11-23T21:26:33.846Z"
+status: "active"
 ---
 
 # § 18792. Energy efficiency revolving loan fund capitalization grant program
@@ -98,3 +99,59 @@ generated_at: "2026-03-30T02:56:11.530Z"
     - **(B)** grants under subsection (e)(3); and
   - **(2)** the average capital cost of upgrades and retrofits across all commercial energy audits and residential energy audits that were conducted in the State using loans provided by the State under subsection (e).
 - **(j)** There is authorized to be appropriated to the Secretary to carry out this section $250,000,000 for fiscal year 2022, to remain available until expended.
+
+(aa) lighting;
+
+(bb) heating, ventilation, and air conditioning systems;
+
+(cc) windows;
+
+(dd) appliances; and
+
+(ee) insulation and building envelopes;
+
+(aa) the period and level of peak energy demand for each building within the facility of the eligible recipient; and
+
+(bb) the sources of energy consumption that are contributing the most to that period of peak energy demand;
+
+(aa) 1 or more commercial buildings; or
+
+(bb) commercial space within a building that serves multiple functions, such as a building for commercial and residential operations.
+
+(aa) lighting;
+
+(bb) heating, ventilation, and air conditioning systems;
+
+(cc) windows;
+
+(dd) appliances; and
+
+(ee) insulation and building envelopes;
+
+(aa) a single family home;
+
+(bb) a condominium or duplex; or
+
+(cc) a manufactured housing unit; or
+
+(aa) the physical comfort of the building or facility occupants;
+
+(bb) the energy efficiency of the building or facility; or
+
+(cc) the quality of the air in the building or facility; and
+
+(aa) are lifecycle cost-effective; and
+
+(bb) (AA) reduce the energy intensity of the building or facility of the eligible recipient; or (BB) improve the control and management of energy usage of the building or facility to reduce demand during peak times.
+
+(aa) was not funded by a loan under this paragraph; and
+
+(bb) (AA) meets the requirements for the applicable audit under subparagraph (A) or (B), as applicable; or (BB) the Secretary determines is otherwise satisfactory.
+
+(aa) subject to subclause (II), the year in which the upgrades or retrofits carried out using the loan exceed their expected useful life; and
+
+(bb) 15 years after those upgrades or retrofits are installed.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title V, § 40502](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1051](https://www.govinfo.gov/link/statute/135/1051).)*

@@ -3,9 +3,10 @@ title: "Section 3195 - Recruitment, screening, selection, and assignment of enro
 usc_title: 29
 usc_section: "3195"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3195"
-generated_at: "2026-03-30T02:55:18.755Z"
+generated_at: "2026-11-23T21:26:02.341Z"
+status: "active"
 ---
 
 # § 3195. Recruitment, screening, selection, and assignment of enrollees
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:55:18.755Z"
     - **(A)** the enrollee would be unduly delayed in participating in the Job Corps program because the closest center is operating at full capacity; or
     - **(B)** the parent or guardian of the enrollee requests assignment of the enrollee to another Job Corps center due to circumstances in the community of the enrollee that would impair prospects for successful participation in the Job Corps program.
   - **(2)** An enrollee who is younger than 18 shall not be assigned to a Job Corps center other than the center closest to the home that offers the career and technical education and training desired by the enrollee pursuant to paragraph (1) if the parent or guardian of the enrollee objects to the assignment.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 145](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1539](https://www.govinfo.gov/link/statute/128/1539).)*

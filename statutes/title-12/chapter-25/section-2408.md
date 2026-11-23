@@ -3,12 +3,17 @@ title: "Section 2408 - Authorization of appropriations"
 usc_title: 12
 usc_section: "2408"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2408"
-generated_at: "2026-03-30T02:53:53.485Z"
+generated_at: "2026-11-23T21:25:37.101Z"
+status: "active"
 ---
 
 # § 2408. Authorization of appropriations
 
 There are authorized to be appropriated without fiscal year limitations such sums, not to exceed $2,000,000, as may be necessary to carry out the provisions of this chapter.
 
+
+## Source Credit
+
+*([Pub. L. 93–495, title II, § 208](https://www.govinfo.gov/link/plaw/93/public/495), Oct. 28, 1974, [88 Stat. 1511](https://www.govinfo.gov/link/statute/88/1511).)*

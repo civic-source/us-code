@@ -3,9 +3,10 @@ title: "Section 3528 - Compensation and professional standards for certain medic
 usc_title: 50
 usc_section: "3528"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3528"
-generated_at: "2026-03-30T02:56:26.256Z"
+generated_at: "2026-11-23T21:26:39.061Z"
+status: "active"
 ---
 
 # § 3528. Compensation and professional standards for certain medical officers
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:26.256Z"
   - **(3)** except as provided in subsection (d), maintains a minimum of 96 hours per year of clinical practice in an accredited clinic or hospital facility that is not affiliated with the Central Intelligence Agency.
 - **(d)** If a medical officer is a medical officer located in a duty station outside of the United States pursuant to a permanent change of station and greater than 50 percent of the official duties of the officer in such duty station involve direct patient care, the officer, in lieu of performing the minimum hours under subsection (c)(3) on an annual basis, may count up to 480 hours of clinical practice performed as specified in such subsection prior to such change of station, to fulfill in advance the requirement under such subsection for up to 3 years.
 - **(e)** The head of the Office of Medical Services shall make available to medical officers excused absence time to allow for the maintenance of clinical practice hours in accordance with subsection (c)(3).
+
+## Source Credit
+
+*(June 20, 1949, ch. 227, § 27, as added [Pub. L. 117–103, div. X, title VI, § 601](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 991](https://www.govinfo.gov/link/statute/136/991).)*

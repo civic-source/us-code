@@ -3,9 +3,10 @@ title: "Section 2239 - Hearings and judicial review"
 usc_title: 42
 usc_section: "2239"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2239"
-generated_at: "2026-03-30T02:56:11.157Z"
+generated_at: "2026-11-23T21:26:32.383Z"
+status: "active"
 ---
 
 # § 2239. Hearings and judicial review
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.157Z"
   - **(2)** Any final order allowing or prohibiting a facility to begin operating under a combined construction and operating license.
   - **(3)** Any final order establishing by regulation standards to govern the Department of Energy’s gaseous diffusion uranium enrichment plants, including any such facilities leased to a corporation established under the USEC Privatization Act [ 42 U.S.C. 2297h et seq.].
   - **(4)** Any final determination under section 2297f(c) of this title relating to whether the gaseous diffusion plants, including any such facilities leased to a corporation established under the USEC Privatization Act [ 42 U.S.C. 2297h et seq.], are in compliance with the Commission’s standards governing the gaseous diffusion plants and all applicable laws.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 189, as added Aug. 30, 1954, ch. 1073, § 1, [68 Stat. 955](https://www.govinfo.gov/link/statute/68/955); amended [Pub. L. 85–256, § 7](https://www.govinfo.gov/link/plaw/85/public/256), Sept. 2, 1957, [71 Stat. 579](https://www.govinfo.gov/link/statute/71/579); [Pub. L. 87–615, § 2](https://www.govinfo.gov/link/plaw/87/public/615), Aug. 29, 1962, [76 Stat. 409](https://www.govinfo.gov/link/statute/76/409); [Pub. L. 97–415, § 12(a)](https://www.govinfo.gov/link/plaw/97/public/415), Jan. 4, 1983, [96 Stat. 2073](https://www.govinfo.gov/link/statute/96/2073); renumbered title I and amended [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), title XXVIII, §§ 2802, 2804, 2805, Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944), 3120, 3121; [Pub. L. 104–134, title III, § 3116(c)](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–349](https://www.govinfo.gov/link/statute/110/1321).)*

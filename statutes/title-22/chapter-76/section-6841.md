@@ -3,12 +3,17 @@ title: "Section 6841 - Authorization of appropriations"
 usc_title: 22
 usc_section: "6841"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6841"
-generated_at: "2026-03-30T02:55:05.433Z"
+generated_at: "2026-11-23T21:25:58.698Z"
+status: "active"
 ---
 
 # § 6841. Authorization of appropriations
 
 - **(a)** In addition to any other funds authorized to be appropriated for multilateral or bilateral programs related to HIV/AIDS or economic development, there is authorized to be appropriated to the Secretary of the Treasury $150,000,000 for each of the fiscal years 2001 and 2002 for payment to the Trust Fund.
 - **(b)** Of the amounts authorized to be appropriated by subsection (a) for the fiscal years 2001 and 2002, $50,000,000 are authorized to be available each such fiscal year only for programs that benefit orphans.
+
+## Source Credit
+
+*([Pub. L. 106–264, title I, § 141](https://www.govinfo.gov/link/plaw/106/public/264), Aug. 19, 2000, [114 Stat. 758](https://www.govinfo.gov/link/statute/114/758).)*

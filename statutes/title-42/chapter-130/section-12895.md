@@ -3,9 +3,10 @@ title: "Section 12895 - Other program requirements"
 usc_title: 42
 usc_section: "12895"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12895"
-generated_at: "2026-03-30T02:56:11.434Z"
+generated_at: "2026-11-23T21:26:33.570Z"
+status: "active"
 ---
 
 # § 12895. Other program requirements
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:11.434Z"
   - **(1)** Each recipient shall keep such records as may be reasonably necessary to fully disclose the amount and the disposition by such recipient of the proceeds of assistance received under this part (and any proceeds from financing obtained or sales under subsections (b) and (c)), the total cost of the homeownership program in connection with which such assistance is given or used, and the amount and nature of that portion of the program supplied by other sources, and such other sources as will facilitate an effective audit.
   - **(2)** The Secretary shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient that are pertinent to assistance received under this part.
   - **(3)** The Comptroller General of the United States, or any of the duly authorized representatives of the Comptroller General, shall also have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient that are pertinent to assistance received under this part.
+
+## Source Credit
+
+*([Pub. L. 101–625, title IV, § 445](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4177](https://www.govinfo.gov/link/statute/104/4177).)*

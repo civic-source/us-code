@@ -3,9 +3,10 @@ title: "Section 5504 - Responsibilities of Secretary"
 usc_title: 16
 usc_section: "5504"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 5504"
-generated_at: "2026-03-30T02:54:23.052Z"
+generated_at: "2026-11-23T21:25:52.031Z"
+status: "active"
 ---
 
 # § 5504. Responsibilities of Secretary
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:23.052Z"
   - **(2)** when such foreign vessel is voluntarily in a United States port, promptly notify the flag nation and, if requested by the flag nation, make arrangements to undertake such lawful investigatory measures as may be considered necessary to establish whether the vessel has been used contrary to the provisions of the Agreement.
 - **(d)** The Secretary, after consultation with the Secretary of State and the Secretary of the department in which the Coast Guard is operating, may promulgate such regulations, in accordance with section 553 of title 5 , as may be necessary to carry out the purposes of the Agreement and this chapter. The Secretary shall coordinate such regulations with any other entities regulating high seas fishing vessels, in order to minimize duplication of permit application and reporting requirements. To the extent practicable, such regulations shall also be consistent with regulations implementing fishery management plans under the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1801 et seq.).
 - **(e)** The Secretary, in consultation with the Secretary of State, shall publish in the Federal Register, from time to time, a notice listing international conservation and management measures recognized by the United States.
+
+## Source Credit
+
+*([Pub. L. 104–43, title I, § 105](https://www.govinfo.gov/link/plaw/104/public/43), Nov. 3, 1995, [109 Stat. 370](https://www.govinfo.gov/link/statute/109/370); [Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009](https://www.govinfo.gov/link/statute/110/3009), 3009–41.)*

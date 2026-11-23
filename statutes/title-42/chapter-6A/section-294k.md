@@ -3,9 +3,10 @@ title: "Section 294k - Training demonstration program"
 usc_title: 42
 usc_section: "294k"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 294k"
-generated_at: "2026-03-30T02:56:10.779Z"
+generated_at: "2026-11-23T21:26:30.642Z"
+status: "active"
 ---
 
 # § 294k. Training demonstration program
@@ -71,3 +72,7 @@ generated_at: "2026-03-30T02:56:10.779Z"
     - **(B)** an analysis of the effect of the demonstration program on the prevalence of untreated mental health and substance use disorders in the surrounding communities of health centers participating in the demonstration; and
     - **(C)** recommendations on whether the demonstration program should be expanded.
 - **(g)** There are authorized to be appropriated to carry out this section, and 1 $31,700,000 for each of fiscal years 2023 through 2027.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 760, as added [Pub. L. 114–255, div. B, title IX, § 9022](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1250](https://www.govinfo.gov/link/statute/130/1250); amended [Pub. L. 117–328, div. FF, title I, § 1311(b)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5696](https://www.govinfo.gov/link/statute/136/5696).)*

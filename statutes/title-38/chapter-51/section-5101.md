@@ -3,9 +3,10 @@ title: "Section 5101 - Claims and forms"
 usc_title: 38
 usc_section: "5101"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 5101"
-generated_at: "2026-03-30T02:55:53.519Z"
+generated_at: "2026-11-23T21:26:16.810Z"
+status: "active"
 ---
 
 # § 5101. Claims and forms
@@ -50,3 +51,229 @@ generated_at: "2026-03-30T02:55:53.519Z"
     - **(B)** to certify that the statements made on a form are true and complete.
   - **(2)** The term “TIN” has the meaning given the term in section 7701(a)(41) of the Internal Revenue Code of 1986.
   - **(3)** The term “covered non-Department provider” means a medical provider who is not an employee of the Department and who provides examinations with respect to medical disability of applicants for benefits under laws administered by the Secretary pursuant to a contract with the Department.
+
+Requirement for Transmission of Certain Information in Machine-readable Format.—
+
+Requirement
+
+Issuance of standards
+
+Updates
+
+Plan for Information Technology System Modification
+
+Public Availability of Information
+
+Definitions
+
+Report on Improving Reimbursement for Travel Relating to Medical Disability Examinations
+
+Communication by Non-Department Providers Providing Medical Disability Examinations With Individuals and Organizations Designated for Preparation, Presentation, and Prosecution of Claims
+
+Department of Veterans Affairs Outreach Regarding Contact Information for Contractors Providing Covered Medical Disability Examinations
+
+Covered Non-Department Provider
+
+Assessment and report.—
+
+In general
+
+Collaboration required
+
+Requirements
+
+Implementation.—
+
+In general
+
+Reports by inspector general of the department of veterans affairs
+
+Limitation
+
+Guidance and Training for Claims Processors
+
+Identification and Tracking
+
+Annual Report
+
+Plan Required
+
+Elements
+
+Review by Comptroller General of the United States.—
+
+In general
+
+Elements
+
+Periodic Progress Reports
+
+Publication
+
+Appropriate Committees of Congress Defined
+
+Authorization.—
+
+In general
+
+Reporting required
+
+Department of Veterans Affairs Program on Fully Developed Appeals.—
+
+In general
+
+Election.—
+
+Filing
+
+Timing
+
+Triage
+
+Reversion.—
+
+Elected reversion
+
+Automatic reversion
+
+Outreach
+
+Treatment by department and board.—
+
+Process
+
+Docket.—
+
+In general
+
+Adjustment
+
+Limitation on use of new evidence.—
+
+In general
+
+Evidence gathered by board
+
+Representative of record
+
+Prohibition on remand for additional development
+
+Development unit.—
+
+Establishment
+
+Requirements
+
+Hearings
+
+Duration; applicability.—
+
+Duration
+
+Applicability
+
+Definitions
+
+Compensation
+
+Fully developed appeal
+
+Standard appeal
+
+Termination of Authority
+
+Claimant
+
+Legacy claims
+
+Opt in
+
+New appeals system
+
+Pilot Program on Expedited Treatment of Fully Developed Claims.—
+
+In general
+
+Duration of pilot program
+
+Program locations
+
+Fully developed claim defined
+
+Pilot Program on Provision of Checklists to Individuals Submitting Claims.—
+
+In general
+
+Duration of pilot program
+
+Program locations
+
+Construction
+
+Reports.—
+
+First initial report
+
+Second interim report
+
+Elements of interim reports
+
+Final report
+
+Study of Work Credit System and Work Management System Required
+
+Contents of Study
+
+Report to Congress
+
+Evaluation of Certain Veterans Benefits Administration Employees Responsible for Processing Claims for Compensation and Pension Benefits
+
+Review and Comprehensive Plan
+
+Information Technology
+
+Review of Best Practices and Lessons Learned
+
+Reduction of Claims Processing Time
+
+Consultation
+
+Report to Congress
+
+Authority
+
+Performance by Contract
+
+Expiration
+
+Licensure of Contract Physicians.—
+
+In general
+
+Physician described
+
+Report
+
+Remedies
+
+Annual Report
+
+Authority
+
+Limitation
+
+Licensure of Contract Health Care Professionals.—
+
+In general
+
+Health care professional described
+
+Source of Funds
+
+Report to Congress
+
+Certain Information Provided to Health Care Professional
+
+## Source Credit
+
+*([Pub. L. 85–857](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1225](https://www.govinfo.gov/link/statute/72/1225), § 3001; [Pub. L. 97–295, § 4(95)(A)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1313](https://www.govinfo.gov/link/statute/96/1313); [Pub. L. 99–576, title VII, § 701(61)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3296](https://www.govinfo.gov/link/statute/100/3296); [Pub. L. 101–508, title VIII, § 8053(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–352](https://www.govinfo.gov/link/statute/104/1388); renumbered § 5101 and amended [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), (d)(1), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238), 239; [Pub. L. 102–83, § 4(a)(1)](https://www.govinfo.gov/link/plaw/102/public/83), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 403–405](https://www.govinfo.gov/link/statute/105/403); [Pub. L. 108–183, title VII, § 708(c)(2)](https://www.govinfo.gov/link/plaw/108/public/183), Dec. 16, 2003, [117 Stat. 2674](https://www.govinfo.gov/link/statute/117/2674); [Pub. L. 112–154, title V, § 502(a)](https://www.govinfo.gov/link/plaw/112/public/154), Aug. 6, 2012, [126 Stat. 1190](https://www.govinfo.gov/link/statute/126/1190); [Pub. L. 114–315, title I, § 101(a)](https://www.govinfo.gov/link/plaw/114/public/315), Dec. 16, 2016, [130 Stat. 1538](https://www.govinfo.gov/link/statute/130/1538); [Pub. L. 116–315, title II](https://www.govinfo.gov/link/plaw/116/public/315), §§ 2006(a), 2202(b)(1)(E), Jan. 5, 2021, [134 Stat. 4975](https://www.govinfo.gov/link/statute/134/4975), 4985; [Pub. L. 118–196, § 2](https://www.govinfo.gov/link/plaw/118/public/196), Dec. 23, 2024, [138 Stat. 2671](https://www.govinfo.gov/link/statute/138/2671).)*

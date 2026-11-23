@@ -3,9 +3,10 @@ title: "Section 1056 - Form and payment of benefits"
 usc_title: 29
 usc_section: "1056"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1056"
-generated_at: "2026-03-30T02:55:18.707Z"
+generated_at: "2026-11-23T21:26:02.237Z"
+status: "active"
 ---
 
 # § 1056. Form and payment of benefits
@@ -203,3 +204,11 @@ generated_at: "2026-03-30T02:55:18.707Z"
       - **(iii)** the portion of such overpayment with respect to which recoupment is sought on behalf of the plan shall be permitted to be returned to such plan if it is determined to be an overpayment (and the plans making and receiving such transfer shall be treated as permitting such transfer).
     - **(H)** In determining the amount of recoupment to seek, the responsible plan fiduciary may take into account the hardship that recoupment likely would impose on the participant or beneficiary.
   - **(5)** Subparagraphs (A) through (F) of paragraph (4) shall not apply to protect a participant or beneficiary who is culpable. For purposes of this paragraph, a participant or beneficiary is culpable if the individual bears responsibility for the overpayment (such as through misrepresentations or omissions that led to the overpayment), or if the individual knew that the benefit payment or payments were materially in excess of the correct amount. Notwithstanding the preceding sentence, an individual is not culpable merely because the individual believed the benefit payment or payments were or might be in excess of the correct amount, if the individual raised that question with an authorized plan representative and was told the payment or payments were not in excess of the correct amount.
+
+In general
+
+Contributing sponsor
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 206](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 864](https://www.govinfo.gov/link/statute/88/864); [Pub. L. 98–397, title I, § 104(a)](https://www.govinfo.gov/link/plaw/98/public/397), Aug. 23, 1984, [98 Stat. 1433](https://www.govinfo.gov/link/statute/98/1433); [Pub. L. 99–514, title XVIII, § 1898(c)(2)(B)](https://www.govinfo.gov/link/plaw/99/public/514), (4)(B), (5), (6)(B), (7)(B), Oct. 22, 1986, [100 Stat. 2952–2954](https://www.govinfo.gov/link/statute/100/2952); [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7891(a)(1), 7894(c)(8), (9)(A), Dec. 19, 1989, [103 Stat. 2445](https://www.govinfo.gov/link/statute/103/2445), 2449; [Pub. L. 103–465, title VII](https://www.govinfo.gov/link/plaw/103/public/465), §§ 761(a)(9)(B)(i), 776(c)(2), Dec. 8, 1994, [108 Stat. 5033](https://www.govinfo.gov/link/statute/108/5033), 5048; [Pub. L. 105–34, title XV, § 1502(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1058](https://www.govinfo.gov/link/statute/111/1058); [Pub. L. 109–280, title I](https://www.govinfo.gov/link/plaw/109/public/280), §§ 103(a), 108(a)(9), (10), formerly § 107(a)(9), (10), title IV, § 410(b), Aug. 17, 2006, [120 Stat. 809](https://www.govinfo.gov/link/statute/120/809), 819, 935, renumbered [Pub. L. 111–192, title II, § 202(a)](https://www.govinfo.gov/link/plaw/111/public/192), June 25, 2010, [124 Stat. 1297](https://www.govinfo.gov/link/statute/124/1297); [Pub. L. 110–458, title I, § 101(c)(1)(B)](https://www.govinfo.gov/link/plaw/110/public/458) –(G), Dec. 23, 2008, [122 Stat. 5097](https://www.govinfo.gov/link/statute/122/5097); [Pub. L. 111–192, title II, § 203(a)(1)](https://www.govinfo.gov/link/plaw/111/public/192), June 25, 2010, [124 Stat. 1299](https://www.govinfo.gov/link/statute/124/1299); [Pub. L. 113–97, title I, § 102(b)(3)](https://www.govinfo.gov/link/plaw/113/public/97), Apr. 7, 2014, [128 Stat. 1116](https://www.govinfo.gov/link/statute/128/1116); [Pub. L. 113–159, title II, § 2003(c)(2)](https://www.govinfo.gov/link/plaw/113/public/159), Aug. 8, 2014, [128 Stat. 1850](https://www.govinfo.gov/link/statute/128/1850); [Pub. L. 113–295, div. A, title II, § 221(a)(57)(E)(ii)](https://www.govinfo.gov/link/plaw/113/public/295), (F)(ii), (G)(ii), Dec. 19, 2014, [128 Stat. 4046](https://www.govinfo.gov/link/statute/128/4046), 4047; [Pub. L. 117–328, div. T, title III](https://www.govinfo.gov/link/plaw/117/public/328), §§ 301(a), 339(b), Dec. 29, 2022, [136 Stat. 5335](https://www.govinfo.gov/link/statute/136/5335), 5375.)*

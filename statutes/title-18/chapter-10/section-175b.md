@@ -3,9 +3,10 @@ title: "Section 175b - Possession by restricted persons"
 usc_title: 18
 usc_section: "175b"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 175b"
-generated_at: "2026-03-30T02:54:16.458Z"
+generated_at: "2026-11-23T21:25:43.945Z"
+status: "active"
 ---
 
 # § 175b. Possession by restricted persons
@@ -39,3 +40,29 @@ generated_at: "2026-03-30T02:54:16.458Z"
     - **(I)** is a member of, acts for or on behalf of, or operates subject to the direction or control of, a terrorist organization as defined in section 212(a)(3)(B)(vi) of the Immigration and Nationality Act ( 8 U.S.C. 1182(a)(3)(B)(vi) ).
   - **(3)** The term “alien” has the same meaning as in section 101(a)(3) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(3) ).
   - **(4)** The term “lawfully admitted for permanent residence” has the same meaning as in section 101(a)(20) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(20) ).
+
+Offense.—
+
+In general
+
+Agents and toxins covered
+
+Penalty
+
+Transfer to Unregistered Person.—
+
+Select agents
+
+Certain other biological agents and toxins
+
+Unregistered for Possession.—
+
+Select agents
+
+Certain other biological agents and toxins
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 107–56, title VIII, § 817(2)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 385](https://www.govinfo.gov/link/statute/115/385); amended [Pub. L. 107–188, title II, § 231(a)](https://www.govinfo.gov/link/plaw/107/public/188), (b)(1), (c)(2), June 12, 2002, [116 Stat. 660](https://www.govinfo.gov/link/statute/116/660), 661; [Pub. L. 107–273, div. B, title IV, § 4005(g)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1813](https://www.govinfo.gov/link/statute/116/1813); [Pub. L. 108–458, title VI, § 6802(c)](https://www.govinfo.gov/link/plaw/108/public/458), (d)(1), Dec. 17, 2004, [118 Stat. 3767](https://www.govinfo.gov/link/statute/118/3767); [Pub. L. 116–31, § 2](https://www.govinfo.gov/link/plaw/116/public/31), July 25, 2019, [133 Stat. 1034](https://www.govinfo.gov/link/statute/133/1034).)*

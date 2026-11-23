@@ -3,9 +3,10 @@ title: "Section 1208 - Suits"
 usc_title: 39
 usc_section: "1208"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 1208"
-generated_at: "2026-03-30T02:55:43.690Z"
+generated_at: "2026-11-23T21:26:12.774Z"
+status: "active"
 ---
 
 # § 1208. Suits
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:43.690Z"
 - **(c)** A labor organization and the Postal Service shall be bound by the authorized acts of their agents. Any labor organization may sue or be sued as an entity and in behalf of the employees whom it represents in the courts of the United States. Any money judgment against a labor organization in a district court of the United States shall be enforcible only against the organization as an entity and against its assets, and shall not be enforcible against any individual member or his assets.
 - **(d)** For the purposes of actions and proceedings by or against labor organizations in the district courts of the United States, district courts shall be deemed to have jurisdiction of a labor organization (1) in the district in which such organization maintains its principal offices, or (2) in any district in which its duly authorized officers or agents are engaged in representing or acting for employee members.
 - **(e)** The service of summons, subpena, or other legal process of any court of the United States upon an officer or agent of a labor organization, in his capacity as such, shall constitute service upon the labor organization.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 736](https://www.govinfo.gov/link/statute/84/736).)*

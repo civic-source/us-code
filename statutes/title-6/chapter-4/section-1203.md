@@ -3,9 +3,10 @@ title: "Section 1203 - Hazardous materials highway routing"
 usc_title: 6
 usc_section: "1203"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1203"
-generated_at: "2026-03-30T02:53:09.508Z"
+generated_at: "2026-11-23T21:25:25.876Z"
+status: "active"
 ---
 
 # § 1203. Hazardous materials highway routing
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:09.508Z"
     - **(B)** quantify the security and safety benefits, feasibility, and costs of requiring each motor carrier that is required to have a hazardous material safety permit under part 385 of title 49, Code of Federal Regulations, to maintain, follow, and carry such a route plan that meets the requirements of section 397.101 of that title when transporting the type and quantity of hazardous materials described in section 385.403, taking into account the various segments of the motor carrier industry, including tank truck, truckload and less than truckload carriers.
   - **(2)** Not later than 1 year after August 3, 2007 , the Secretary of Transportation shall submit a report to the appropriate congressional committees containing the findings and conclusions of the assessment.
 - **(c)** The Secretary shall require motor carriers that have a hazardous material safety permit under part 385 of title 49, Code of Federal Regulations, to maintain, follow, and carry a route plan, in written or electronic format, that meets the requirements of section 397.101 of that title when transporting the type and quantity of hazardous materials described in section 385.403 if the Secretary determines, under the assessment required in subsection (b), that such a requirement would enhance security and safety without imposing unreasonable costs or burdens upon motor carriers.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XV, § 1553](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 472](https://www.govinfo.gov/link/statute/121/472).)*

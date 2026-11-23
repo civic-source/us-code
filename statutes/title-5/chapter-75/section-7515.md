@@ -3,9 +3,10 @@ title: "Section 7515 - Discipline of supervisors based on retaliation against wh
 usc_title: 5
 usc_section: "7515"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 7515"
-generated_at: "2026-03-30T02:52:56.039Z"
+generated_at: "2026-11-23T21:25:23.342Z"
+status: "active"
 ---
 
 # § 7515. Discipline of supervisors based on retaliation against whistleblowers
@@ -36,3 +37,27 @@ generated_at: "2026-03-30T02:52:56.039Z"
         - **(II)** paragraphs (1) and (2) of subsection (b) and subsection (c) of section 7513; and
         - **(III)** paragraphs (1) and (2) of subsection (b) and subsection (c) of section 7543.
   - **(3)** If the head of an agency is responsible for determining whether a supervisor has committed a prohibited personnel action for purposes of paragraph (1), the head of the agency may not delegate that responsibility.
+
+Definitions
+
+Proposed Disciplinary Actions.—
+
+In general
+
+Procedures.—
+
+Notice
+
+Answer and evidence.—
+
+In general
+
+No evidence furnished; insufficient evidence furnished
+
+Scope of procedures
+
+Non-delegation
+
+## Source Credit
+
+*(Added [Pub. L. 115–91, div. A, title X, § 1097(e)(1)(B)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1621](https://www.govinfo.gov/link/statute/131/1621).)*

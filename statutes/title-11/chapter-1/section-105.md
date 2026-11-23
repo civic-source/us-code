@@ -3,9 +3,10 @@ title: "Section 105 - Power of court"
 usc_title: 11
 usc_section: "105"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 105"
-generated_at: "2026-03-30T02:53:53.871Z"
+generated_at: "2026-11-23T21:25:34.886Z"
+status: "active"
 ---
 
 # § 105. Power of court
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:53.871Z"
       - **(iv)** sets a date by which a proponent of a plan, other than the debtor, shall solicit acceptances of such plan;
       - **(v)** fixes the scope and format of the notice to be provided regarding the hearing on approval of the disclosure statement; or
       - **(vi)** provides that the hearing on approval of the disclosure statement may be combined with the hearing on confirmation of the plan.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2555](https://www.govinfo.gov/link/statute/92/2555); [Pub. L. 98–353, title I, § 118](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 344](https://www.govinfo.gov/link/statute/98/344); [Pub. L. 99–554, title II, § 203](https://www.govinfo.gov/link/plaw/99/public/554), Oct. 27, 1986, [100 Stat. 3097](https://www.govinfo.gov/link/statute/100/3097); [Pub. L. 103–394, title I, § 104(a)](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4108](https://www.govinfo.gov/link/statute/108/4108); [Pub. L. 109–8, title IV, § 440](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 114](https://www.govinfo.gov/link/statute/119/114); [Pub. L. 111–327, § 2(a)(3)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3557](https://www.govinfo.gov/link/statute/124/3557).)*

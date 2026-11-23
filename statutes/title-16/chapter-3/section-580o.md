@@ -3,12 +3,17 @@ title: "Section 580o - Forest Service appropriations"
 usc_title: 16
 usc_section: "580o"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 580o"
-generated_at: "2026-03-30T02:54:22.879Z"
+generated_at: "2026-11-23T21:25:51.681Z"
+status: "active"
 ---
 
 # § 580o. Forest Service appropriations
 
 Notwithstanding any other provision of law, there are hereby authorized to be appropriated for the necessary expenses of the Forest Service for carrying out the programs for Forest Research, State and Private Forestry, and National Forest System under the appropriations account for Forest Management, Protection, and Utilization, and the programs under the appropriations account for Construction and Land Acquisition: $1,575,552,000 for fiscal year 1981; $1,498,000,000 for fiscal year 1982; $1,560,000,000 for fiscal year 1983; and $1,620,000,000 for fiscal year 1984: Provided , That none of the funds authorized to be appropriated hereby may be used for carrying out the Bald Mountain road in the Siskiyou National Forest.
 
+
+## Source Credit
+
+*([Pub. L. 97–35, title I, § 122](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 368](https://www.govinfo.gov/link/statute/95/368).)*

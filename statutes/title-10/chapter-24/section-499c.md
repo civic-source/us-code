@@ -3,9 +3,10 @@ title: "Section 499c - Portfolio management framework for nuclear forces"
 usc_title: 10
 usc_section: "499c"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 499c"
-generated_at: "2026-03-30T02:53:38.063Z"
+generated_at: "2026-11-23T21:25:32.275Z"
+status: "active"
 ---
 
 # § 499c. Portfolio management framework for nuclear forces
@@ -35,3 +36,15 @@ generated_at: "2026-03-30T02:53:38.063Z"
   - **(2)** the delivery platforms and systems for nuclear weapons;
   - **(3)** nuclear command, control, and communications systems; and
   - **(4)** the infrastructure and facilities of the Department of Defense and the National Nuclear Security Administration that support nuclear weapons, the delivery platforms and systems for nuclear weapons, and nuclear command, control, and communications systems, including with respect to personnel, construction, operation, and maintenance.
+
+Requirement
+
+Annual Briefings; Notifications
+
+Termination
+
+Nuclear Forces Defined
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. A, title XVI, § 1634(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2938](https://www.govinfo.gov/link/statute/136/2938).)*

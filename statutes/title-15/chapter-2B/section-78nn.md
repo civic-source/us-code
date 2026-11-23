@@ -3,9 +3,10 @@ title: "Section 78nn - Tennessee Valley Authority"
 usc_title: 15
 usc_section: "78nn"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 78nn"
-generated_at: "2026-03-30T02:54:08.061Z"
+generated_at: "2026-11-23T21:25:39.573Z"
+status: "active"
 ---
 
 # § 78nn. Tennessee Valley Authority
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:08.061Z"
 - **(a)** Commencing with the issuance by the Tennessee Valley Authority of an annual report on Commission Form 10–K (or any successor thereto) for fiscal year 2006 and thereafter, the Tennessee Valley Authority shall file with the Commission, in accordance with such rules and regulations as the Commission has prescribed or may prescribe, such periodic, current, and supplementary information, documents, and reports as would be required pursuant to section 78m of this title if the Tennessee Valley Authority were an issuer of a security registered pursuant to section 78 l of this title. Notwithstanding the preceding sentence, the Tennessee Valley Authority shall not be required to register any securities under this chapter, and shall not be deemed to have registered any securities under this chapter.
 - **(b)** Commencing with the issuance by the Tennessee Valley Authority of an annual report on Commission Form 10–K (or any successor thereto) for fiscal year 2006 and thereafter, the Tennessee Valley Authority shall be deemed to be an issuer for purposes of section 78j–1 of this title , other than for subsection (m)(1) or (m)(3) of section 78j–1 of this title . The Tennessee Valley Authority shall not be required by this subsection to comply with the rules issued by any national securities exchange or national securities association in response to rules issued by the Commission pursuant to section 78j–1(m)(1) of this title .
 - **(c)** Nothing in this section shall be construed to diminish, impair, or otherwise affect the authority of the Board of Directors of the Tennessee Valley Authority to carry out its statutory functions under the Tennessee Valley Authority Act of 1933 [ 16 U.S.C. 831 et seq.].
+
+## Source Credit
+
+*(June 6, 1934, ch. 404, title I, § 37, as added [Pub. L. 108–447, div. H, title V, § 520(2)](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3267](https://www.govinfo.gov/link/statute/118/3267).)*

@@ -3,9 +3,10 @@ title: "Section 1207 - Pipeline security inspections and enforcement"
 usc_title: 6
 usc_section: "1207"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1207"
-generated_at: "2026-03-30T02:53:09.509Z"
+generated_at: "2026-11-23T21:25:25.877Z"
+status: "active"
 ---
 
 # § 1207. Pipeline security inspections and enforcement
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:09.509Z"
   - **(1)** $2,000,000 for fiscal year 2008;
   - **(2)** $2,000,000 for fiscal year 2009; and
   - **(3)** $2,000,000 for fiscal year 2010.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XV, § 1557](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 475](https://www.govinfo.gov/link/statute/121/475).)*

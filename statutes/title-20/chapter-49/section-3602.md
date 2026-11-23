@@ -3,9 +3,10 @@ title: "Section 3602 - Asbestos Hazards School Safety Task Force"
 usc_title: 20
 usc_section: "3602"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 3602"
-generated_at: "2026-03-30T02:54:48.180Z"
+generated_at: "2026-11-23T21:25:47.418Z"
+status: "active"
 ---
 
 # § 3602. Asbestos Hazards School Safety Task Force
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:48.180Z"
     - **(A)** submitting to the Secretary relevant information concerning the results of the review made under paragraph (4) of this subsection; and
     - **(B)** recommending such modifications to the guidelines referred to in such paragraph as the Task Force considers appropriate.
 - **(f)** The Task Force shall cease to exist at the end of the 180-day period beginning on the date that the authority of the Secretary to make loans under section 3605 of this title has expired.
+
+## Source Credit
+
+*([Pub. L. 96–270, § 3](https://www.govinfo.gov/link/plaw/96/public/270), June 14, 1980, [94 Stat. 488](https://www.govinfo.gov/link/statute/94/488).)*

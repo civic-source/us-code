@@ -3,9 +3,10 @@ title: "Section 6247a - Use of underutilized facilities"
 usc_title: 42
 usc_section: "6247a"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6247a"
-generated_at: "2026-03-30T02:56:11.244Z"
+generated_at: "2026-11-23T21:26:32.856Z"
+status: "active"
 ---
 
 # § 6247a. Use of underutilized facilities
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.244Z"
 - **(b)** All agreements entered into pursuant to subsection (a) shall contain provisions providing for fees to fully compensate the United States for all related costs of storage and removals of petroleum products (including the proportionate cost of replacement facilities necessitated as a result of any withdrawals) incurred by the United States on behalf of the foreign government or its representative.
 - **(c)** The Secretary shall ensure that agreements to store petroleum products for foreign governments or their representatives do not impair the ability of the United States to withdraw, distribute, or sell petroleum products from the Strategic Petroleum Reserve in response to an energy emergency or to the obligations of the United States under the Agreement on an International Energy Program.
 - **(d)** Funds collected through the leasing of Strategic Petroleum Reserve facilities authorized by subsection (a) after September 30, 2007 , shall be used by the Secretary of Energy without further appropriation for the purchase of petroleum products for the Strategic Petroleum Reserve.
+
+## Source Credit
+
+*([Pub. L. 94–163, title I, § 168](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 105–33, title IX, § 9303(a)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 676](https://www.govinfo.gov/link/statute/111/676).)*

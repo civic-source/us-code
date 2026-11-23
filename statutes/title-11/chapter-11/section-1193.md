@@ -3,9 +3,10 @@ title: "Section 1193 - Modification of plan"
 usc_title: 11
 usc_section: "1193"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1193"
-generated_at: "2026-03-30T02:53:53.886Z"
+generated_at: "2026-11-23T21:25:34.962Z"
+status: "active"
 ---
 
 # § 1193. Modification of plan
@@ -14,3 +15,15 @@ generated_at: "2026-03-30T02:53:53.886Z"
 - **(b)** If a plan has been confirmed under section 1191(a) of this title , the debtor may modify the plan at any time after confirmation of the plan and before substantial consummation of the plan, but may not modify the plan so that the plan as modified fails to meet the requirements of sections 1122 and 1123 of this title, with the exception of subsection (a)(8) of such section 1123. The plan, as modified under this subsection, becomes the plan only if circumstances warrant the modification and the court, after notice and a hearing, confirms the plan as modified under section 1191(a) of this title .
 - **(c)** If a plan has been confirmed under section 1191(b) of this title , the debtor may modify the plan at any time within 3 years, or such longer time not to exceed 5 years, as fixed by the court, but may not modify the plan so that the plan as modified fails to meet the requirements of section 1191(b) of this title . The plan as modified under this subsection becomes the plan only if circumstances warrant such modification and the court, after notice and a hearing, confirms such plan, as modified, under section 1191(b) of this title .
 - **(d)** If a plan has been confirmed under section 1191(a) of this title , any holder of a claim or interest that has accepted or rejected the plan is deemed to have accepted or rejected, as the case may be, the plan as modified, unless, within the time fixed by the court, such holder changes the previous acceptance or rejection of the holder.
+
+Modification Before Confirmation
+
+Modification After Confirmation
+
+Certain Other Modifications
+
+Holders of a Claim or Interest
+
+## Source Credit
+
+*(Added [Pub. L. 116–54, § 2(a)](https://www.govinfo.gov/link/plaw/116/public/54), Aug. 23, 2019, [133 Stat. 1083](https://www.govinfo.gov/link/statute/133/1083).)*

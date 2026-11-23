@@ -3,9 +3,10 @@ title: "Section 1639p - State and tribal plans"
 usc_title: 7
 usc_section: "1639p"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1639p"
-generated_at: "2026-03-30T02:53:42.334Z"
+generated_at: "2026-11-23T21:25:28.148Z"
+status: "active"
 ---
 
 # § 1639p. State and tribal plans
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:53:42.334Z"
 - **(f)** Nothing in this section prohibits the production of hemp in a State or the territory of an Indian tribe—
   - **(1)** for which a State or Tribal plan is not approved under this section, if the production of hemp is in accordance with section 1639q of this title or other Federal laws (including regulations); and
   - **(2)** if the production of hemp is not otherwise prohibited by the State or Indian tribe.
+
+## Source Credit
+
+*(Aug. 14, 1946, ch. 966, title II, § 297B, as added [Pub. L. 115–334, title X, § 10113](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4909](https://www.govinfo.gov/link/statute/132/4909).)*

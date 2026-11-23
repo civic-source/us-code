@@ -3,9 +3,10 @@ title: "Section 4911 - Tax on excess expenditures to influence legislation"
 usc_title: 26
 usc_section: "4911"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4911"
-generated_at: "2026-03-30T02:55:27.805Z"
+generated_at: "2026-11-23T21:26:06.641Z"
+status: "active"
 ---
 
 # § 4911. Tax on excess expenditures to influence legislation
@@ -63,3 +64,19 @@ generated_at: "2026-03-30T02:55:27.805Z"
   - **(4)** If two or more organizations are members of an affiliated group of organizations (as defined in paragraph (2) without regard to subparagraph (B) thereof), no two members of such affiliated group are affiliated (as defined in paragraph (2) without regard to subparagraph (A) thereof), and the governing instrument of no such organization requires it to be bound by decisions of any of the other such organizations on legislative issues other than as to action with respect to Acts, bills, resolutions, or similar items by the Congress, then—
     - **(A)** in the case of any organization whose decisions bind one or more members of such affiliated group, directly or indirectly, the determination as to whether such organization has paid or incurred excess lobbying expenditures and the determination as to whether such organization has exceeded the expenditure limits of section 501(h)(1) shall be made as though such organization has paid or incurred those amounts paid or incurred by such members of such affiliated group to influence legislation with respect to Acts, bills, resolutions, or similar items by the Congress, and
     - **(B)** in the case of any organization to which subparagraph (A) does not apply, but which is a member of such affiliated group, the determination as to whether such organization has paid or incurred excess lobbying expenditures and the determination as to whether such organization has exceeded the expenditure limits of section 501(h)(1) shall be made as though such organization is not a member of such affiliated group.
+
+| If the exempt purpose expenditures are— | The lobbying nontaxable amount is— |
+| --- | --- |
+| Not over $500,000 | 20 percent of the exempt purpose expenditures. |
+| Over $500,000 but not over $1,000,000 | $100,000, plus 15 percent of the excess of the exempt purpose expenditures over $500,000. |
+| Over $1,000,000 but not over $1,500,000 | $175,000 plus 10 percent of the excess of the exempt purpose expenditures over $1,000,000. |
+| Over $1,500,000 | $225,000 plus 5 percent of the excess of the exempt purpose expenditures over $1,500,000. |
+
+
+Not over $500,000
+
+Over $1,500,000
+
+## Source Credit
+
+*(Added [Pub. L. 94–455, title XIII, § 1307(b)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1723](https://www.govinfo.gov/link/statute/90/1723); amended [Pub. L. 95–600, title VII, § 703(g)(1)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2940](https://www.govinfo.gov/link/statute/92/2940).)*

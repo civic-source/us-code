@@ -3,9 +3,10 @@ title: "Section 324 - Consent of certain tribes; consent of individual Indians"
 usc_title: 25
 usc_section: "324"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 324"
-generated_at: "2026-03-30T02:54:52.804Z"
+generated_at: "2026-11-23T21:25:54.559Z"
+status: "active"
 ---
 
 # § 324. Consent of certain tribes; consent of individual Indians
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:52.804Z"
   - **(3)** the heirs or devisees of a deceased owner of the land or an interest therein have not been determined, and the Secretary of the Interior finds that the grant will cause no substantial injury to the land or any owner thereof; or
   - **(4)** the owners of interests in the land are so numerous that the Secretary finds it would be impracticable to obtain their consent, and also finds that the grant will cause no substantial injury to the land or any owner thereof.
 
+
+## Source Credit
+
+*(Feb. 5, 1948, ch. 45, § 2, [62 Stat. 18](https://www.govinfo.gov/link/statute/62/18).)*

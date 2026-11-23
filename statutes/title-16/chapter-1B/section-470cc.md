@@ -3,9 +3,10 @@ title: "Section 470cc - Excavation and removal"
 usc_title: 16
 usc_section: "470cc"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 470cc"
-generated_at: "2026-03-30T02:54:22.854Z"
+generated_at: "2026-11-23T21:25:51.639Z"
+status: "active"
 ---
 
 # § 470cc. Excavation and removal
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:22.854Z"
   - **(2)** Any permit issued under chapter 3203 of title 54 shall remain in effect according to its terms and conditions following the enactment of this chapter. No permit under this chapter shall be required to carry out any activity under a permit issued under chapter 3203 of title 54 before October 31, 1979 , which remains in effect as provided in this paragraph, and nothing in this chapter shall modify or affect any such permit.
 - **(i)** Issuance of a permit in accordance with this section and applicable regulations shall not require compliance with section 306108 of title 54 .
 - **(j)** Upon the written request of the Governor of any State, the Federal land manager shall issue a permit, subject to the provisions of subsections (b)(3), (b)(4), (c), (e), (f), (g), (h), and (i) of this section for the purpose of conducting archaeological research, excavation, removal, and curation, on behalf of the State or its educational institutions, to such Governor or to such designee as the Governor deems qualified to carry out the intent of this chapter.
+
+## Source Credit
+
+*([Pub. L. 96–95, § 4](https://www.govinfo.gov/link/plaw/96/public/95), Oct. 31, 1979, [93 Stat. 722](https://www.govinfo.gov/link/statute/93/722); [Pub. L. 113–287, § 5(d)(6)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3264](https://www.govinfo.gov/link/statute/128/3264).)*

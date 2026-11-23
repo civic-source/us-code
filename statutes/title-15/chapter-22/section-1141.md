@@ -3,9 +3,10 @@ title: "Section 1141 - Definitions"
 usc_title: 15
 usc_section: "1141"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1141"
-generated_at: "2026-03-30T02:54:08.128Z"
+generated_at: "2026-11-23T21:25:39.793Z"
+status: "active"
 ---
 
 # § 1141. Definitions
@@ -34,3 +35,9 @@ In this subchapter:
     - **(B)** the common office, or governmental entity, of more than 1 Contracting Party that is responsible for the registration of marks and is so recognized by the International Bureau.
   - **(16)** The term “office of origin” means the Office of a Contracting Party with which a basic application was filed or by which a basic registration was granted.
   - **(17)** The term “opposition period” means the time allowed for filing an opposition in the United States Patent and Trademark Office, including any extension of time granted under section 1063 of this title .
+
+“This subtitle [subtitle D (§§ 13401–13403) of title III of div. C of Pub. L. 107–273 , enacting this subchapter and provisions set out as a note under section 1051 of this title ] and the amendments made by this subtitle shall take effect on the later of—
+
+## Source Credit
+
+*(July 5, 1946, ch. 540, title XII, § 60, as added [Pub. L. 107–273, div. C, title III, § 13402](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1913](https://www.govinfo.gov/link/statute/116/1913).)*

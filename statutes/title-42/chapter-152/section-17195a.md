@@ -3,9 +3,10 @@ title: "Section 17195a - Geothermal heat pumps and direct use research and devel
 usc_title: 42
 usc_section: "17195a"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17195a"
-generated_at: "2026-03-30T02:56:11.500Z"
+generated_at: "2026-11-23T21:26:33.773Z"
+status: "active"
 ---
 
 # § 17195a. Geothermal heat pumps and direct use research and development
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:11.500Z"
 - **(d)**
   - **(1)** The Secretary shall carry out the program established in subsection (c) by making financial assistance available to State, local, and Tribal governments, institutions of higher education, nonprofit entities, National Laboratories, utilities, and for-profit companies.
   - **(2)** In providing financial assistance under this subsection, the Secretary may give priority to proposals that apply to large buildings, commercial districts, and residential communities that are located in economically distressed areas and areas that the Secretary determines to have high economic potential for geothermal district heating based on the report, “Geovision: Harnessing the Heat Beneath our Feet” published by the Department in 2019, or a successor report.
+
+## Source Credit
+
+*([Pub. L. 110–140, title VI, § 616A](https://www.govinfo.gov/link/plaw/110/public/140), as added [Pub. L. 116–260, div. Z, title III, § 3002(e)(1)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2492](https://www.govinfo.gov/link/statute/134/2492).)*

@@ -3,9 +3,10 @@ title: "Section 2809 - Long-term facilities contracts for certain activities and
 usc_title: 10
 usc_section: "2809"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2809"
-generated_at: "2026-03-30T02:53:38.176Z"
+generated_at: "2026-11-23T21:25:32.678Z"
+status: "active"
 ---
 
 # § 2809. Long-term facilities contracts for certain activities and services
@@ -29,3 +30,31 @@ generated_at: "2026-03-30T02:53:38.176Z"
 - **(d)** Each contract entered into under this section shall be awarded through the use of competitive procedures as provided in chapter 137 1 1 See References in Text note below. of this title. In accordance with such procedures, the Secretary concerned shall solicit bids or proposals for a contract for each project that has been authorized by law.
 - **(e)** A contract under this section may be for any period not in excess of 32 years, excluding the period for construction.
 - **(f)** The Secretary concerned may enter into a contract under this section only after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title , to the appropriate committees of Congress a justification of the need for the facility covered by the proposed contract, including an economic analysis (based upon accepted life cycle costing procedures) which demonstrates that the proposed contract is cost effective when compared with alternative means of furnishing the same facility.
+
+Submission and Authorization of Proposed Projects
+
+Authorized Purposes of Contract
+
+Conditions on Obligation of Funds
+
+Competitive Procedures
+
+Term of Contract
+
+Notice and Wait Requirements
+
+Authority To Carry Out Program
+
+Contracts
+
+Effective Period of Requirements
+
+Reporting Requirements
+
+Expiration
+
+Funding
+
+## Source Credit
+
+*(Added [Pub. L. 99–167, title VIII, § 811(a)](https://www.govinfo.gov/link/plaw/99/public/167), Dec. 3, 1985, [99 Stat. 990](https://www.govinfo.gov/link/statute/99/990); amended [Pub. L. 99–661, div. A, title XIII, § 1343(a)(20)](https://www.govinfo.gov/link/plaw/99/public/661), div. B, title VII, § 2711, Nov. 14, 1986, [100 Stat. 3994](https://www.govinfo.gov/link/statute/100/3994), 4041; [Pub. L. 100–180, div. B](https://www.govinfo.gov/link/plaw/100/public/180), subdiv. 3, title I, § 2302(a), (b), Dec. 4, 1987, [101 Stat. 1215](https://www.govinfo.gov/link/statute/101/1215); [Pub. L. 100–456, div. B, title XXVIII, § 2801](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 2115](https://www.govinfo.gov/link/statute/102/2115); [Pub. L. 101–189, div. B, title XXVIII, § 2803](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1647](https://www.govinfo.gov/link/statute/103/1647); [Pub. L. 102–190, div. B, title XXVIII, § 2805(a)(1)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1537](https://www.govinfo.gov/link/statute/105/1537); [Pub. L. 108–136, div. A, title X, § 1031(a)(38)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1601](https://www.govinfo.gov/link/statute/117/1601); [Pub. L. 115–91, div. B, title XXVIII, § 2801(a)(7)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1841](https://www.govinfo.gov/link/statute/131/1841).)*

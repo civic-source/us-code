@@ -3,9 +3,10 @@ title: "Section 7411 - Findings and purpose"
 usc_title: 7
 usc_section: "7411"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7411"
-generated_at: "2026-03-30T02:53:42.450Z"
+generated_at: "2026-11-23T21:25:28.424Z"
+status: "active"
 ---
 
 # § 7411. Findings and purpose
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:42.450Z"
   - **(3)** develop new markets and uses for agricultural commodities; or
   - **(4)** assist producers in meeting their conservation objectives.
 - **(c)** Nothing in this subchapter provides for the control of production or otherwise limits the right of any person to produce, handle, or import an agricultural commodity.
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 512](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1032](https://www.govinfo.gov/link/statute/110/1032).)*

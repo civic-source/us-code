@@ -3,9 +3,10 @@ title: "Section 1250 - Volunteer trails assistance"
 usc_title: 16
 usc_section: "1250"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1250"
-generated_at: "2026-03-30T02:54:22.947Z"
+generated_at: "2026-11-23T21:25:51.844Z"
+status: "active"
 ---
 
 # § 1250. Volunteer trails assistance
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:22.947Z"
   - **(1)** planning, developing, maintaining, or managing (A) trails which are components of the national trails system, or (B) trails which, if so developed and maintained, could qualify for designation as components of the national trails system; or
   - **(2)** operating programs to organize and supervise volunteer trail building efforts with respect to the trails referred to in paragraph (1), conducting trail-related research projects, or providing education and training to volunteers on methods of trails planning, construction, and maintenance.
 - **(c)** The appropriate Secretary or the head of any Federal land managing agency may utilize and make available Federal facilities, equipment, tools, and technical assistance to volunteers and volunteer organizations, subject to such limitations and restrictions as the appropriate Secretary or the head of any Federal land managing agency deems necessary or desirable.
+
+## Source Credit
+
+*([Pub. L. 90–543, § 11](https://www.govinfo.gov/link/plaw/90/public/543), as added [Pub. L. 98–11, title II, § 210](https://www.govinfo.gov/link/plaw/98/public/11), Mar. 28, 1983, [97 Stat. 49](https://www.govinfo.gov/link/statute/97/49); amended [Pub. L. 113–287, § 5(d)(27)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3267](https://www.govinfo.gov/link/statute/128/3267).)*

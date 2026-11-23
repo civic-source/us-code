@@ -3,9 +3,10 @@ title: "Section 1012 - Rehabilitation of structural measures near, at, or past t
 usc_title: 16
 usc_section: "1012"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1012"
-generated_at: "2026-03-30T02:54:22.939Z"
+generated_at: "2026-11-23T21:25:51.804Z"
+status: "active"
 ---
 
 # § 1012. Rehabilitation of structural measures near, at, or past their evaluated life expectancy
@@ -51,3 +52,11 @@ generated_at: "2026-03-30T02:54:22.939Z"
 - **(j)**
   - **(1)** The Secretary shall maintain a data base to track the benefits derived from rehabilitation projects supported under this section and the expenditures made under this section. On the basis of such data and the reports submitted under paragraph (2), the Secretary shall prepare and submit to Congress an annual report providing the status of activities conducted under this section.
   - **(2)** Not later than 90 days after the completion of a specific rehabilitation project for which assistance is provided under this section, the local organization that received the assistance shall make a report to the Secretary giving the status of any rehabilitation effort undertaken using financial assistance provided under this section.
+
+Flood Prevention
+
+Flood Prevention
+
+## Source Credit
+
+*(Aug. 4, 1954, ch. 656, § 14, as added [Pub. L. 106–472, title III, § 313](https://www.govinfo.gov/link/plaw/106/public/472), Nov. 9, 2000, [114 Stat. 2077](https://www.govinfo.gov/link/statute/114/2077); amended [Pub. L. 107–171, title II, § 2505](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 274](https://www.govinfo.gov/link/statute/116/274); [Pub. L. 110–234, title II, § 2803](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1086](https://www.govinfo.gov/link/statute/122/1086); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title II, § 2803, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1814; [Pub. L. 113–79, title II, § 2505](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 752](https://www.govinfo.gov/link/statute/128/752); [Pub. L. 115–334, title II, § 2401(b)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4570](https://www.govinfo.gov/link/statute/132/4570).)*

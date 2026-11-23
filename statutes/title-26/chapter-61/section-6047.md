@@ -3,9 +3,10 @@ title: "Section 6047 - Information relating to certain trusts and annuity plans"
 usc_title: 26
 usc_section: "6047"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6047"
-generated_at: "2026-03-30T02:55:27.833Z"
+generated_at: "2026-11-23T21:26:06.774Z"
+status: "active"
 ---
 
 # § 6047. Information relating to certain trusts and annuity plans
@@ -30,3 +31,9 @@ generated_at: "2026-03-30T02:55:27.833Z"
   - **(2)** For criminal penalty for furnishing fraudulent information, see section 7207.
   - **(3)** For provisions relating to penalty for failure to comply with the provisions of subsection (d), see section 6704.
   - **(4)** For provisions requiring reporting of information relating to certain life insurance contract transactions, see section 6050Y.
+
+“The amendments made by this section [enacting section 6050Y of this title and amending this section and section 6724 of this title ] shall apply to—
+
+## Source Credit
+
+*(Added [Pub. L. 87–792, § 7(m)(1)](https://www.govinfo.gov/link/plaw/87/public/792), Oct. 10, 1962, [76 Stat. 830](https://www.govinfo.gov/link/statute/76/830); amended [Pub. L. 93–406, title II](https://www.govinfo.gov/link/plaw/93/public/406), §§ 1031(c)(3), 2002(g)(8), Sept. 2, 1974, [88 Stat. 947](https://www.govinfo.gov/link/statute/88/947), 970; [Pub. L. 94–455, title XV, § 1501(b)(9)](https://www.govinfo.gov/link/plaw/94/public/455), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1737](https://www.govinfo.gov/link/statute/90/1737), 1834; [Pub. L. 97–34, title III, § 311(h)(8)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 282](https://www.govinfo.gov/link/statute/95/282); [Pub. L. 97–248, title III, § 334(b)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 626](https://www.govinfo.gov/link/statute/96/626); [Pub. L. 97–448, title I, § 103(c)(12)(C)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2377](https://www.govinfo.gov/link/statute/96/2377); [Pub. L. 98–369, div. A, title IV, § 491(d)(47)](https://www.govinfo.gov/link/plaw/98/public/369), (57), July 18, 1984, [98 Stat. 852](https://www.govinfo.gov/link/statute/98/852); [Pub. L. 99–514, title XV, § 1501(d)(1)(D)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1848(e)(2), Oct. 22, 1986, [100 Stat. 2740](https://www.govinfo.gov/link/statute/100/2740), 2857; [Pub. L. 101–239, title VII, § 7301(e)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2349](https://www.govinfo.gov/link/statute/103/2349); [Pub. L. 102–318, title V, § 522(b)(2)(D)](https://www.govinfo.gov/link/plaw/102/public/318), (E), July 3, 1992, [106 Stat. 314](https://www.govinfo.gov/link/statute/106/314); [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1455(b)(2), (d)(1), 1602(b)(6), Aug. 20, 1996, [110 Stat. 1818](https://www.govinfo.gov/link/statute/110/1818), 1834; [Pub. L. 107–16, title VI, § 617(d)(2)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 106](https://www.govinfo.gov/link/statute/115/106); [Pub. L. 115–97, title I, § 13520(c)(2)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2151](https://www.govinfo.gov/link/statute/131/2151).)*

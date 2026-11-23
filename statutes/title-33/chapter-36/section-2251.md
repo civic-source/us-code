@@ -3,9 +3,10 @@ title: "Section 2251 - Inland Waterways Users Board"
 usc_title: 33
 usc_section: "2251"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2251"
-generated_at: "2026-03-30T02:55:41.116Z"
+generated_at: "2026-11-23T21:26:11.429Z"
+status: "active"
 ---
 
 # § 2251. Inland Waterways Users Board
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:41.116Z"
   - **(1)** The Users Board shall be subject to chapter 10 of title 5, other than section 1013, and, with the consent of the appropriate agency head, the Users Board may use the facilities and services of any Federal agency.
   - **(2)** For the purposes of complying with chapter 10 of title 5, the members of the Users Board shall not be considered special Government employees (as defined in section 202 of title 18 ).
   - **(3)** Non-Federal members of the Users Board while engaged in the performance of their duties away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 .
+
+## Source Credit
+
+*([Pub. L. 99–662, title III, § 302](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4111](https://www.govinfo.gov/link/statute/100/4111); [Pub. L. 106–109, § 8(a)](https://www.govinfo.gov/link/plaw/106/public/109), Nov. 24, 1999, [113 Stat. 1495](https://www.govinfo.gov/link/statute/113/1495); [Pub. L. 113–121, title II, § 2002(d)](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1262](https://www.govinfo.gov/link/statute/128/1262); [Pub. L. 117–286, § 4(a)(202)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4328](https://www.govinfo.gov/link/statute/136/4328).)*

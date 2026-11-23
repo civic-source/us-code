@@ -3,9 +3,10 @@ title: "Section 79 - Official inspection"
 usc_title: 7
 usc_section: "79"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 79"
-generated_at: "2026-03-30T02:53:42.252Z"
+generated_at: "2026-11-23T21:25:27.876Z"
+status: "active"
 ---
 
 # § 79. Official inspection
@@ -83,4 +84,56 @@ generated_at: "2026-03-30T02:53:42.252Z"
   - **(2)** Each designated official agency and each State agency to which authority has been delegated under subsection (e) of this section shall pay to the Secretary fees in such amount as the Secretary determines fair and reasonable and as will cover the estimated costs incurred by the Secretary relating to supervision of official agency personnel and supervision by the Secretary of the Secretary’s field office personnel, except costs incurred under paragraph (3) of subsection (g) of this section and sections 85, 86, and 87c of this title. The fees shall be payable after the services are performed at such times as specified by the Secretary and shall be deposited in the fund created in paragraph (1) of this subsection. Failure to pay the fee within thirty days after it is due shall result in automatic termination of the delegation or designation, which shall be reinstated upon payment, within such period as specified by the Secretary, of the fee currently due plus interest and any further expenses incurred by the Secretary because of such termination. The interest rate on overdue fees shall be as prescribed by the Secretary, but not less than the current average market yield on outstanding marketable obligations of the United States of comparable maturity, plus an additional charge of not to exceed 1 per centum per annum as determined by the Secretary and adjusted to the nearest one-eighth of 1 per centum.
   - **(3)** Any sums collected or received by the Secretary under this chapter and deposited to the fund created in paragraph (1) of this subsection and any late payment penalties collected by the Secretary and credited to such fund may be invested by the Secretary in insured or fully collateralized, interest-bearing accounts or, at the discretion of the Secretary, by the Secretary of the Treasury in United States Government debt instruments. The interest earned on such sums and any late payment penalties collected by the Secretary shall be credited to the fund and shall be available without fiscal year limitation for the expenses of the Secretary incident to providing services under this chapter.
   - **(4)** In order to maintain an operating reserve of not less than 3 and not more than 6 months, the Secretary shall adjust the fees described in paragraphs (1) and (2) not less frequently than annually.
-  - **(5)** The duties imposed by paragraph (2) on designated official agencies and State agencies described in such paragraph and the investment authority provided by paragraph (3) shall expire on September 30, 2025 . After that date, the fees established by the Secretary pursuant to paragraph (1) shall not cover administrative and supervisory costs related to the official inspection of grain.
+  - **(5)** The duties imposed by paragraph (2) on designated official agencies and State agencies described in such paragraph and the investment authority provided by paragraph (3) shall expire on September 30, 2025 . 2 2 See United States Grain Standards Act Extension note below. After that date, the fees established by the Secretary pursuant to paragraph (1) shall not cover administrative and supervisory costs related to the official inspection of grain.
+
+Delegation of authority to state agencies.—
+
+In general
+
+Certification.—
+
+In general
+
+Process
+
+State agency requirements.—
+
+In general
+
+Secretarial consideration
+
+Geographic boundaries for official agencies.—
+
+In general
+
+Exceptions
+
+Termination of nonuse of service exception
+
+Restoration of certain exceptions.—
+
+Definition of eligible grain handling facility
+
+Restoration of exceptions
+
+Effect on exceptions.—
+
+In general
+
+Designation renewed or restored
+
+Inspection fees.—
+
+In general
+
+Amount of fees
+
+Use of fees
+
+Export tonnage fees
+
+Adjustment of fees
+
+## Source Credit
+
+*(Aug. 11, 1916, ch. 313, pt. B, § 7, [39 Stat. 484](https://www.govinfo.gov/link/statute/39/484); [Pub. L. 90–487, § 1](https://www.govinfo.gov/link/plaw/90/public/487), Aug. 15, 1968, [82 Stat. 763](https://www.govinfo.gov/link/statute/82/763); [Pub. L. 94–582, § 8](https://www.govinfo.gov/link/plaw/94/public/582), formerly § 8(a), Oct. 21, 1976, [90 Stat. 2870](https://www.govinfo.gov/link/statute/90/2870), renumbered [Pub. L. 106–472, title I, § 110(a)(1)](https://www.govinfo.gov/link/plaw/106/public/472), Nov. 9, 2000, [114 Stat. 2060](https://www.govinfo.gov/link/statute/114/2060); [Pub. L. 95–113, title XVI](https://www.govinfo.gov/link/plaw/95/public/113), §§ 1602(a), 1604(d), 1606(d), Sept. 29, 1977, [91 Stat. 1025](https://www.govinfo.gov/link/statute/91/1025), 1027, 1030; [Pub. L. 97–35, title I, § 155(1)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 371](https://www.govinfo.gov/link/statute/95/371); [Pub. L. 97–98, title IX, § 1113(a)](https://www.govinfo.gov/link/plaw/97/public/98), Dec. 22, 1981, [95 Stat. 1268](https://www.govinfo.gov/link/statute/95/1268); [Pub. L. 98–469, § 2(1)](https://www.govinfo.gov/link/plaw/98/public/469), Oct. 11, 1984, [98 Stat. 1831](https://www.govinfo.gov/link/statute/98/1831); [Pub. L. 100–518, § 2(1)](https://www.govinfo.gov/link/plaw/100/public/518), Oct. 24, 1988, [102 Stat. 2584](https://www.govinfo.gov/link/statute/102/2584); [Pub. L. 103–156](https://www.govinfo.gov/link/plaw/103/public/156), §§ 4(a), 5(a), 12(d), 14(a), Nov. 24, 1993, [107 Stat. 1525](https://www.govinfo.gov/link/statute/107/1525), 1526, 1528, 1529; [Pub. L. 103–354, title II, § 293(a)(4)](https://www.govinfo.gov/link/plaw/103/public/354), (7), (8), Oct. 13, 1994, [108 Stat. 3237](https://www.govinfo.gov/link/statute/108/3237); [Pub. L. 106–472, title I](https://www.govinfo.gov/link/plaw/106/public/472), §§ 102(a), 103(a), Nov. 9, 2000, [114 Stat. 2059](https://www.govinfo.gov/link/statute/114/2059), 2060; [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 109–83, § 1(a)](https://www.govinfo.gov/link/plaw/109/public/83), Sept. 30, 2005, [119 Stat. 2053](https://www.govinfo.gov/link/statute/119/2053); [Pub. L. 114–54, title III, § 301(b)(1)](https://www.govinfo.gov/link/plaw/114/public/54) –(3)(A), (4), (5), Sept. 30, 2015, [129 Stat. 517](https://www.govinfo.gov/link/statute/129/517), 518; [Pub. L. 115–334, title XII, § 12610(a)](https://www.govinfo.gov/link/plaw/115/public/334), (c), Dec. 20, 2018, [132 Stat. 5011](https://www.govinfo.gov/link/statute/132/5011), 5013; [Pub. L. 116–216, § 2](https://www.govinfo.gov/link/plaw/116/public/216), Dec. 11, 2020, [134 Stat. 1048](https://www.govinfo.gov/link/statute/134/1048).)*

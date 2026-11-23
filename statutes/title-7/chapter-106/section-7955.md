@@ -3,9 +3,10 @@ title: "Section 7955 - Producer agreement required as condition on provision of 
 usc_title: 7
 usc_section: "7955"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7955"
-generated_at: "2026-03-30T02:53:42.468Z"
+generated_at: "2026-11-23T21:25:28.457Z"
+status: "active"
 ---
 
 # § 7955. Producer agreement required as condition on provision of direct payments and counter-cyclical payments
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:42.468Z"
 - **(c)** As a condition on the receipt of direct payments, counter-cyclical payments, marketing assistance loans, or loan deficiency payments under this subchapter, the Secretary shall require the producers on a farm to which a payment yield and base acres for peanuts are assigned under section 7952 of this title to submit to the Secretary annual acreage reports with respect to all cropland on the farm.
 - **(d)** In carrying out this subchapter, the Secretary shall provide adequate safeguards to protect the interests of tenants and sharecroppers.
 - **(e)** The Secretary shall provide for the sharing of direct payments and counter-cyclical payments among the producers on a farm on a fair and equitable basis.
+
+## Source Credit
+
+*([Pub. L. 107–171, title I, § 1305](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 173](https://www.govinfo.gov/link/statute/116/173).)*

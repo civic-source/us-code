@@ -3,9 +3,10 @@ title: "Section 1382e - Supplementary assistance by State or sub­division to ne
 usc_title: 42
 usc_section: "1382e"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1382e"
-generated_at: "2026-03-30T02:56:10.929Z"
+generated_at: "2026-11-23T21:26:31.338Z"
+status: "active"
 ---
 
 # § 1382e. Supplementary assistance by State or sub­division to needy individuals
@@ -58,3 +59,9 @@ generated_at: "2026-03-30T02:56:10.929Z"
   - **(2)** Each State shall annually make available for public review a summary of the standards established pursuant to paragraph (1), and shall make available to any interested individual a copy of such standards, along with the procedures available in the State to insure the enforcement of such standards and a list of any waivers of such standards and any violations of such standards which have come to the attention of the authority responsible for their enforcement.
   - **(3)** Each State shall certify annually to the Commissioner of Social Security that it is in compliance with the requirements of this subsection.
   - **(4)** Payments made under this subchapter with respect to an individual shall be reduced by an amount equal to the amount of any supplementary payment (as described in subsection (a)) or other payment made by a State (or political subdivision thereof) which is made for or on account of any medical or any other type of remedial care provided by an institution of the type described in paragraph (1) to such individual as a resident or an inpatient of such institution if such institution is not approved as meeting the standards described in such paragraph by the appropriate State or local authorities.
+
+“Upon the request of a State, the Secretary shall find, for purposes of the provisions specified in subsection (c) [set out above], that the level of such State’s supplementary payments of the type described in section 1616(a) of the Social Security Act [ 42 U.S.C. 1382e(a) ] has been specifically increased for any month so as to include the bonus value of food stamps (and that such State meets the applicable requirements of subsection (c)(1)) if—
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVI, § 1616, as added [Pub. L. 92–603, title III, § 301](https://www.govinfo.gov/link/plaw/92/public/603), Oct. 30, 1972, [86 Stat. 1474](https://www.govinfo.gov/link/statute/86/1474); amended [Pub. L. 93–233, § 14](https://www.govinfo.gov/link/plaw/93/public/233), Dec. 31, 1973, [87 Stat. 965](https://www.govinfo.gov/link/statute/87/965); [Pub. L. 94–566, title V, § 505(c)](https://www.govinfo.gov/link/plaw/94/public/566), (d), Oct. 20, 1976, [90 Stat. 2687](https://www.govinfo.gov/link/statute/90/2687); [Pub. L. 96–265, title II, § 201(b)(1)](https://www.govinfo.gov/link/plaw/96/public/265), June 9, 1980, [94 Stat. 446](https://www.govinfo.gov/link/statute/94/446); [Pub. L. 97–35, title XXIII, § 2353(n)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 873](https://www.govinfo.gov/link/statute/95/873); [Pub. L. 99–272, title XII, § 12201(b)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 290](https://www.govinfo.gov/link/statute/100/290); [Pub. L. 103–66, title XIII, § 13731(a)(1)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 660](https://www.govinfo.gov/link/statute/107/660); [Pub. L. 103–296, title I, § 107(a)(4)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1478](https://www.govinfo.gov/link/statute/108/1478); [Pub. L. 105–33, title V, § 5102(a)(1)](https://www.govinfo.gov/link/plaw/105/public/33), (b)(1)(A), Aug. 5, 1997, [111 Stat. 595](https://www.govinfo.gov/link/statute/111/595), 596; [Pub. L. 105–78, title V, § 516(a)(1)](https://www.govinfo.gov/link/plaw/105/public/78), (b)(1)(A), Nov. 13, 1997, [111 Stat. 1517](https://www.govinfo.gov/link/statute/111/1517), 1518; [Pub. L. 106–170, title IV, § 410(a)(1)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1916](https://www.govinfo.gov/link/statute/113/1916).)*

@@ -3,9 +3,10 @@ title: "Section 5106d - Miscellaneous requirements relating to assistance"
 usc_title: 42
 usc_section: "5106d"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5106d"
-generated_at: "2026-03-30T02:56:11.218Z"
+generated_at: "2026-11-23T21:26:32.728Z"
+status: "active"
 ---
 
 # § 5106d. Miscellaneous requirements relating to assistance
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.218Z"
   - **(1)** ensure that children and families with limited English proficiency who participate in programs under this subchapter are provided with materials and services through such programs in an appropriate language other than English; and
   - **(2)** ensure that individuals with disabilities who participate in programs under this subchapter are provided with materials and services through such programs that are appropriate to their disabilities.
 - **(e)** A State that receives funds under section 5106a(a) of this title shall annually prepare and submit to the Secretary a report describing the manner in which funds provided under this subchapter and subchapter III, alone or in combination with other Federal funds, were used to address the purposes and achieve the objectives of section 5106a of this title .
+
+## Source Credit
+
+*([Pub. L. 93–247, title I, § 108](https://www.govinfo.gov/link/plaw/93/public/247), formerly § 11, as added [Pub. L. 100–294, title I, § 101](https://www.govinfo.gov/link/plaw/100/public/294), Apr. 25, 1988, [102 Stat. 115](https://www.govinfo.gov/link/statute/102/115); renumbered title I, § 110, [Pub. L. 101–126, § 3(a)(1)](https://www.govinfo.gov/link/plaw/101/public/126), (2), Oct. 25, 1989, [103 Stat. 764](https://www.govinfo.gov/link/statute/103/764); renumbered § 108 and amended [Pub. L. 104–235, title I](https://www.govinfo.gov/link/plaw/104/public/235), §§ 109, 113(a)(1)(B), Oct. 3, 1996, [110 Stat. 3078](https://www.govinfo.gov/link/statute/110/3078), 3079; [Pub. L. 108–36, title I, § 116](https://www.govinfo.gov/link/plaw/108/public/36), June 25, 2003, [117 Stat. 812](https://www.govinfo.gov/link/statute/117/812); [Pub. L. 111–320, title I, § 117](https://www.govinfo.gov/link/plaw/111/public/320), Dec. 20, 2010, [124 Stat. 3475](https://www.govinfo.gov/link/statute/124/3475).)*

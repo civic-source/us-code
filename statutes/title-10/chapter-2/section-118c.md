@@ -3,9 +3,10 @@ title: "Section 118c - National Defense Science and Technology Strategy"
 usc_title: 10
 usc_section: "118c"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 118c"
-generated_at: "2026-03-30T02:53:38.031Z"
+generated_at: "2026-11-23T21:25:32.207Z"
+status: "active"
 ---
 
 # § 118c. National Defense Science and Technology Strategy
@@ -40,3 +41,25 @@ generated_at: "2026-03-30T02:53:38.031Z"
   - **(2)** The reports submitted under paragraph (1) may be submitted in a form determined appropriate by the Secretary of Defense, which may include classified, unclassified, and publicly releasable formats, as appropriate.
 - **(f)** Not later than 90 days after the date on which the strategy under subsection (a) is completed, the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the implementation plan for the strategy.
 - **(g)** The strategy developed under subsection (a) shall be known as the “National Defense Science and Technology Strategy”.
+
+In General
+
+Elements
+
+Coordination
+
+Considerations
+
+Reports.—
+
+Subsequent reports and updates
+
+Form of reports
+
+Briefing
+
+Designation
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. A, title II, § 211(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1585](https://www.govinfo.gov/link/statute/135/1585).)*

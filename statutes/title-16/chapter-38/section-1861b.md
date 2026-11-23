@@ -3,9 +3,10 @@ title: "Section 1861b - Fisheries enforcement plans and reporting"
 usc_title: 16
 usc_section: "1861b"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1861b"
-generated_at: "2026-03-30T02:54:22.993Z"
+generated_at: "2026-11-23T21:25:51.933Z"
+status: "active"
 ---
 
 # § 1861b. Fisheries enforcement plans and reporting
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:22.993Z"
 - **(a)** In preparing the Coast Guard’s annual fisheries enforcement plan, the Commandant of the Coast Guard shall consult with the Under Secretary of Commerce for Oceans and Atmosphere and with State and local enforcement authorities.
 - **(b)** Prior to undertaking fisheries patrols, the Commandant of the Coast Guard shall notify the Under Secretary of Commerce for Oceans and Atmosphere and appropriate State and local enforcement authorities of the projected dates for such patrols.
 - **(c)** The Commandant of the Coast Guard shall prepare and make available to the Under Secretary of Commerce for Oceans and Atmosphere, State and local enforcement entities, and other relevant stakeholders, an annual summary report of fisheries enforcement activities for the preceding year, including a summary of the number of patrols, law enforcement actions taken, and resource hours expended.
+
+## Source Credit
+
+*([Pub. L. 108–293, title II, § 224](https://www.govinfo.gov/link/plaw/108/public/293), Aug. 9, 2004, [118 Stat. 1040](https://www.govinfo.gov/link/statute/118/1040).)*

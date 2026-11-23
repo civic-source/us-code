@@ -3,9 +3,10 @@ title: "Section 12142 - Public entities operating fixed route systems"
 usc_title: 42
 usc_section: "12142"
 chapter: 126
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12142"
-generated_at: "2026-03-30T02:56:11.408Z"
+generated_at: "2026-11-23T21:26:33.453Z"
+status: "active"
 ---
 
 # § 12142. Public entities operating fixed route systems
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.408Z"
   - **(2)**
     - **(A)** If a public entity operates a fixed route system any segment of which is included on the National Register of Historic Places and if making a vehicle of historic character to be used solely on such segment readily accessible to and usable by individuals with disabilities would significantly alter the historic character of such vehicle, the public entity only has to make (or to purchase or lease a remanufactured vehicle with) those modifications which are necessary to meet the requirements of paragraph (1) and which do not significantly alter the historic character of such vehicle.
     - **(B)** For purposes of this paragraph and section 12148(b) of this title , a vehicle of historic character shall be defined by the regulations issued by the Secretary to carry out this subsection.
+
+## Source Credit
+
+*([Pub. L. 101–336, title II, § 222](https://www.govinfo.gov/link/plaw/101/public/336), July 26, 1990, [104 Stat. 339](https://www.govinfo.gov/link/statute/104/339).)*

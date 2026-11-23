@@ -3,9 +3,10 @@ title: "Section 9122 - Definitions"
 usc_title: 20
 usc_section: "9122"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9122"
-generated_at: "2026-03-30T02:54:48.224Z"
+generated_at: "2026-11-23T21:25:47.644Z"
+status: "active"
 ---
 
 # § 9122. Definitions
@@ -25,3 +26,7 @@ As used in this subchapter:
   - **(3)** The term “State”, unless otherwise specified, includes each of the 50 States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
   - **(4)** The term “State library administrative agency” means the official agency of a State charged by the law of the State with the extension and development of public library services throughout the State.
   - **(5)** The term “State plan” means the document which gives assurances that the officially designated State library administrative agency has the fiscal and legal authority and capability to administer all aspects of this subchapter, provides assurances for establishing the State’s policies, priorities, criteria, and procedures necessary to the implementation of all programs under this subchapter, submits copies for approval as required by regulations promulgated by the Director, identifies a State’s library needs, and sets forth the activities to be taken toward meeting the identified needs supported with the assistance of Federal funds made available under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 94–462, title II, § 213](https://www.govinfo.gov/link/plaw/94/public/462), as added [Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–233](https://www.govinfo.gov/link/statute/110/3009), 3009–296; amended [Pub. L. 105–128, § 3](https://www.govinfo.gov/link/plaw/105/public/128), Dec. 1, 1997, [111 Stat. 2548](https://www.govinfo.gov/link/statute/111/2548); [Pub. L. 108–81, title II, § 202](https://www.govinfo.gov/link/plaw/108/public/81), Sept. 25, 2003, [117 Stat. 997](https://www.govinfo.gov/link/statute/117/997); [Pub. L. 115–410, § 8](https://www.govinfo.gov/link/plaw/115/public/410), Dec. 31, 2018, [132 Stat. 5416](https://www.govinfo.gov/link/statute/132/5416).)*

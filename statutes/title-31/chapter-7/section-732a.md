@@ -3,9 +3,10 @@ title: "Section 732a - Critical positions"
 usc_title: 31
 usc_section: "732a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 732a"
-generated_at: "2026-03-30T02:55:34.047Z"
+generated_at: "2026-11-23T21:26:10.531Z"
+status: "active"
 ---
 
 # § 732a. Critical positions
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:34.047Z"
   - **(4)** be entitled to discontinued service retirement under chapter 83 or 84 of title 5 as if a member of the Office Senior Executive Service; and
   - **(5)** be subject to reassignment by the Comptroller General to any position in the Office Senior Executive Service under section 733 of this title , as the Comptroller General determines necessary and appropriate.
 - **(b)** Senior-level positions under this section may include positions referred to in paragraph (1) or (2) of section 731(e) of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 106–303, § 4(a)(1)](https://www.govinfo.gov/link/plaw/106/public/303), Oct. 13, 2000, [114 Stat. 1068](https://www.govinfo.gov/link/statute/114/1068); amended [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 110–323, § 9(b)(1)](https://www.govinfo.gov/link/plaw/110/public/323), Sept. 22, 2008, [122 Stat. 3548](https://www.govinfo.gov/link/statute/122/3548).)*

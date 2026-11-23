@@ -3,9 +3,10 @@ title: "Section 127f - Expenditure of funds for clandestine activities that supp
 usc_title: 10
 usc_section: "127f"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 127f"
-generated_at: "2026-03-30T02:53:38.034Z"
+generated_at: "2026-11-23T21:25:32.212Z"
+status: "active"
 ---
 
 # § 127f. Expenditure of funds for clandestine activities that support operational preparation of the environment and non-conventional assisted recovery capabilities
@@ -45,3 +46,33 @@ generated_at: "2026-03-30T02:53:38.034Z"
 - **(h)** Funding used to establish, develop, and maintain non-conventional assisted recovery capabilities under this section may only be obligated and expended with the concurrence of the relevant Chief of Mission or Chiefs of Mission.
 - **(i)** The Assistant Secretary of Defense for Special Operations and Low Intensity Conflict shall have primary responsibility within the Office of the Secretary of Defense for oversight of policies and programs authorized by this section.
 - **(j)** In this section, the term “operational preparation of the environment” means the conduct of activities in likely or potential operational areas to set conditions for mission execution.
+
+Authority
+
+Authorized Activities
+
+Procedures.—
+
+In general
+
+Elements
+
+Notice to congress
+
+Limitations
+
+Exclusion of Intelligence Activities
+
+Quarterly Briefing
+
+Annual Report
+
+Non-Conventional Assisted Recovery Capabilities
+
+Oversight by Assistant Secretary of Defense for Special Operations and Low Intensity Conflict
+
+Operational Preparation of the Environment Defined
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. A, title X, § 1052(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3849](https://www.govinfo.gov/link/statute/134/3849); amended [Pub. L. 117–81, div. A, title X, § 1093(b)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1935](https://www.govinfo.gov/link/statute/135/1935); [Pub. L. 117–263, div. A, title XVI, § 1621](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2933](https://www.govinfo.gov/link/statute/136/2933); [Pub. L. 118–31, div. A, title XII, § 1221(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 451](https://www.govinfo.gov/link/statute/137/451).)*

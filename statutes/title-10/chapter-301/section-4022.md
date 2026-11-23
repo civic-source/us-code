@@ -3,9 +3,10 @@ title: "Section 4022 - Authority of the Department of Defense to carry out certa
 usc_title: 10
 usc_section: "4022"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4022"
-generated_at: "2026-03-30T02:53:38.200Z"
+generated_at: "2026-11-23T21:25:32.751Z"
+status: "active"
 ---
 
 # § 4022. Authority of the Department of Defense to carry out certain prototype projects
@@ -92,3 +93,45 @@ generated_at: "2026-03-30T02:53:38.200Z"
   - **(4)**
     - **(A)** Except as provided in subparagraph (B), the authority to carry out prototype projects under the pilot program established under paragraph (1) shall terminate on September 30, 2030 .
     - **(B)** Subparagraph (A) shall not apply with respect to prototype projects being carried out under the pilot program established under paragraph (1) on the date described in subparagraph (A).
+
+Authority
+
+Exercise of Authority.—
+
+Comptroller General Access to Information
+
+Appropriate Use of Authority
+
+Definitions
+
+Follow-on Production Contracts or Transactions
+
+Authority To Provide Prototypes and Follow-on Production Items as Government-furnished Equipment
+
+Applicability of Procurement Ethics Requirements
+
+Pilot Authority for Use of Other Transactions for Installation or Facility Prototyping.—
+
+In general
+
+Limits
+
+Use of amounts
+
+Sunset.—
+
+In general
+
+Ongoing project exception
+
+In General
+
+Use of Authority
+
+Location
+
+Use of Funds
+
+## Source Credit
+
+*(Added [Pub. L. 114–92, div. A, title VIII, § 815(a)(1)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 893](https://www.govinfo.gov/link/statute/129/893), § 2371b; amended [Pub. L. 115–91, div. A, title II, § 216](https://www.govinfo.gov/link/plaw/115/public/91), title VIII, § 864, Dec. 12, 2017, [131 Stat. 1328](https://www.govinfo.gov/link/statute/131/1328), 1494; [Pub. L. 115–232, div. A, title II, § 211](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1674](https://www.govinfo.gov/link/statute/132/1674); [Pub. L. 116–92, div. A, title XVII, § 1731(a)(46)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1814](https://www.govinfo.gov/link/statute/133/1814); renumbered § 4022 and amended [Pub. L. 116–283, div. A, title XVIII](https://www.govinfo.gov/link/plaw/116/public/283), §§ 1841(b)(1), (2)(C), 1883(b)(2), Jan. 1, 2021, [134 Stat. 4243](https://www.govinfo.gov/link/statute/134/4243), 4294; [Pub. L. 117–81, div. A, title VIII, § 821(b)](https://www.govinfo.gov/link/plaw/117/public/81), title XVII, § 1701(u)(2)(B), (F)(i)(IV), Dec. 27, 2021, [135 Stat. 1825](https://www.govinfo.gov/link/statute/135/1825), 2151; [Pub. L. 117–263, div. A, title VIII](https://www.govinfo.gov/link/plaw/117/public/263), §§ 842, 843, Dec. 23, 2022, [136 Stat. 2717](https://www.govinfo.gov/link/statute/136/2717), 2718; [Pub. L. 118–31, div. A, title VIII](https://www.govinfo.gov/link/plaw/118/public/31), §§ 821, 822(a), title IX, § 913(a), Dec. 22, 2023, [137 Stat. 326](https://www.govinfo.gov/link/statute/137/326), 327, 367; [Pub. L. 118–159, div. A, title VIII](https://www.govinfo.gov/link/plaw/118/public/159), §§ 816–818(a), Dec. 23, 2024, [138 Stat. 1981](https://www.govinfo.gov/link/statute/138/1981), 1982; [Pub. L. 119–60, div. A, title XVII, § 1701(a)(27)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1209](https://www.govinfo.gov/link/statute/139/1209).)*

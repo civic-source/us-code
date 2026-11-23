@@ -3,9 +3,10 @@ title: "Section 29 - Resource management"
 usc_title: 16
 usc_section: "29"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 29"
-generated_at: "2026-03-30T02:54:22.841Z"
+generated_at: "2026-11-23T21:25:51.619Z"
+status: "active"
 ---
 
 # § 460lll–29. Resource management
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:22.841Z"
   - **(2)** The Secretary shall—
     - **(A)** in accordance with applicable law, give consideration to requests by qualified residents or relatives to use and maintain traditional sites, buildings, cemeteries, and other areas of cultural importance in the Recreation Area; and
     - **(B)** consult with qualified residents or relatives in the management of the historical resources of the Recreation Area.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. A, § 101(e) [title V, § 529]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–231](https://www.govinfo.gov/link/statute/112/2681), 2681–317; [Pub. L. 117–328, div. DD, title II, § 201(h)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5583](https://www.govinfo.gov/link/statute/136/5583).)*

@@ -3,9 +3,10 @@ title: "Section 280j - National strategy for quality improvement in health care"
 usc_title: 42
 usc_section: "280j"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 280j"
-generated_at: "2026-03-30T02:56:10.735Z"
+generated_at: "2026-11-23T21:26:30.444Z"
+status: "active"
 ---
 
 # § 280j. National strategy for quality improvement in health care
@@ -50,3 +51,23 @@ generated_at: "2026-03-30T02:56:10.735Z"
   - **(1)** the national priorities for health care quality improvement established under subsection (a)(2);
   - **(2)** the agency-specific strategic plans for health care quality described in subsection (b)(2)(B); and
   - **(3)** other information, as the Secretary determines to be appropriate.
+
+In General
+
+Goals
+
+Composition.—
+
+In general
+
+Chair and vice-chair.—
+
+Chair
+
+Vice chair
+
+Report to Congress
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 399HH, as added and amended [Pub. L. 111–148, title III, § 3011](https://www.govinfo.gov/link/plaw/111/public/148), title X, § 10302, Mar. 23, 2010, [124 Stat. 378](https://www.govinfo.gov/link/statute/124/378), 937.)*

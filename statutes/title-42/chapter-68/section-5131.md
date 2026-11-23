@@ -3,9 +3,10 @@ title: "Section 5131 - Federal and State disaster preparedness programs"
 usc_title: 42
 usc_section: "5131"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5131"
-generated_at: "2026-03-30T02:56:11.219Z"
+generated_at: "2026-11-23T21:26:32.737Z"
+status: "active"
 ---
 
 # § 5131. Federal and State disaster preparedness programs
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.219Z"
   - **(1)** set forth a comprehensive and detailed State program for preparation against and assistance following, emergencies and major disasters, including provisions for assistance to individuals, businesses, and local governments; and
   - **(2)** include provisions for appointment and training of appropriate staffs, formulation of necessary regulations and procedures and conduct of required exercises.
 - **(d)** The President is authorized to make grants not to exceed 50 per centum of the cost of improving, maintaining and updating State disaster assistance plans, including evaluations of natural hazards and development of the programs and actions required to mitigate such hazards; except that no such grant shall exceed $50,000 per annum to any State.
+
+## Source Credit
+
+*([Pub. L. 93–288, title II, § 201](https://www.govinfo.gov/link/plaw/93/public/288), May 22, 1974, [88 Stat. 145](https://www.govinfo.gov/link/statute/88/145); [Pub. L. 100–707, title I, § 104](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4690](https://www.govinfo.gov/link/statute/102/4690).)*

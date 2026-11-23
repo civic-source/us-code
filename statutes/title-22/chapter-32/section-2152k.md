@@ -3,9 +3,10 @@ title: "Section 2152k - Assistance to improve early childhood outcomes globally"
 usc_title: 22
 usc_section: "2152k"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2152k"
-generated_at: "2026-03-30T02:55:05.348Z"
+generated_at: "2026-11-23T21:25:58.443Z"
+status: "active"
 ---
 
 # § 2152k. Assistance to improve early childhood outcomes globally
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:55:05.348Z"
   - **(1)** intergovernmental and interagency monitoring, evaluation, and reporting of the activities carried out pursuant to this section;
   - **(2)** early childhood development initiatives that include children with a variety of needs and circumstances; and
   - **(3)** United States Government early childhood development programs, strategies, and partnerships across relevant Federal departments and agencies.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 137, as added [Pub. L. 116–283, div. A, title XII, § 1283(b)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3985](https://www.govinfo.gov/link/statute/134/3985).)*

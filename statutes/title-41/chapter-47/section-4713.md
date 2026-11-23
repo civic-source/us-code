@@ -3,9 +3,10 @@ title: "Section 4713 - Authorities relating to mitigating supply chain risks in 
 usc_title: 41
 usc_section: "4713"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 4713"
-generated_at: "2026-03-30T02:55:55.809Z"
+generated_at: "2026-11-23T21:26:18.823Z"
+status: "active"
 ---
 
 # § 4713. Authorities relating to mitigating supply chain risks in the procurement of covered articles
@@ -69,3 +70,119 @@ generated_at: "2026-03-30T02:55:55.809Z"
     - **(C)** telecommunications equipment and telecommunications services, as those terms are defined in section 3 of the Communications Act of 1934 ( 47 U.S.C. 153 ).
   - **(6)** The term “supply chain risk” means the risk that any person may sabotage, maliciously introduce unwanted function, extract data, or otherwise manipulate the design, integrity, manufacturing, production, distribution, installation, operation, maintenance, disposition, or retirement of covered articles so as to surveil, deny, disrupt, or otherwise manipulate the function, use, or operation of the covered articles or information stored or transmitted on the covered articles.
   - **(7)** Notwithstanding section 3101(c)(1), this section applies to the Department of Defense, the Coast Guard, and the National Aeronautics and Space Administration.
+
+Authority
+
+Determination and Notification
+
+Procedures To Address Urgent National Security Interests
+
+Confidentiality
+
+Delegation
+
+Annual Review of Determinations
+
+Regulations
+
+Reports Required
+
+Rule of Construction
+
+Termination
+
+Definitions
+
+Appropriate congressional committees and leadership
+
+Covered article
+
+Covered procurement
+
+Covered procurement action
+
+Information and communications technology
+
+Supply chain risk
+
+Executive agency
+
+Prohibition on Use or Procurement.—
+
+In general
+
+Rule of construction.—
+
+In general
+
+Contracting prohibition
+
+Waiver Authority.—
+
+Secretary of defense
+
+Director of national intelligence
+
+Secretary of commerce
+
+Secretary of homeland security
+
+Secretary of energy
+
+Executive agencies
+
+Report to congress
+
+Effective Dates and Regulations.—
+
+Effective date
+
+Regulations
+
+Office of Management and Budget Report and Briefing
+
+Analysis, Assessment, and Strategy
+
+Governmentwide Traceability and Diversification Initiative.—
+
+In general
+
+Elements
+
+Coordination required
+
+Federal Acquisition Security Council
+
+Applicability and Responsibilities of Covered Entities and Contractors
+
+Reports.—
+
+Secretary of commerce
+
+Federal acquisition security council
+
+Definitions
+
+Appropriate committees of congress and leadership
+
+Covered entity
+
+Covered semiconductor product or services
+
+Critical system
+
+Foreign country of concern
+
+Extension of Federal Acquisition Security Supply Chain Act of 2018.—
+
+Subchapter iii of chapter 13 of title 41, united states code
+
+Authorization of Appropriations for Federal Acquisition Security Council.—
+
+In general
+
+Transfer authority
+
+## Source Credit
+
+*(Added [Pub. L. 115–390, title II, § 203(a)](https://www.govinfo.gov/link/plaw/115/public/390), Dec. 21, 2018, [132 Stat. 5189](https://www.govinfo.gov/link/statute/132/5189); amended [Pub. L. 117–263, div. E, title LIX, § 5949(k)(2)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3492](https://www.govinfo.gov/link/statute/136/3492).)*

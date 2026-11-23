@@ -3,9 +3,10 @@ title: "Section 7981 - Evaluations"
 usc_title: 20
 usc_section: "7981"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7981"
-generated_at: "2026-03-30T02:54:48.222Z"
+generated_at: "2026-11-23T21:25:47.631Z"
+status: "active"
 ---
 
 # § 7981. Evaluations
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:48.222Z"
   - **(2)** contains the results of the activities carried out under subsection (a) for the most recent 2-year period; and
   - **(3)** describes how programs authorized under this chapter will be regularly evaluated.
 - **(e)** If, under any other provision of this chapter, funds are authorized to be reserved or used for evaluation activities with respect to a program, the Secretary may not reserve additional funds under this section for the evaluation of that program.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VIII, § 8601](https://www.govinfo.gov/link/plaw/89/public/10), formerly title IX, § 9601, as added [Pub. L. 107–110, title IX, § 901](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1985](https://www.govinfo.gov/link/statute/115/1985); renumbered title VIII, § 8601, and amended [Pub. L. 114–95, title VIII](https://www.govinfo.gov/link/plaw/114/public/95), §§ 8001(a)(10), 8042, Dec. 10, 2015, [129 Stat. 2088](https://www.govinfo.gov/link/statute/129/2088), 2089, 2122.)*

@@ -3,9 +3,10 @@ title: "Section 251 - Interconnection"
 usc_title: 47
 usc_section: "251"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 251"
-generated_at: "2026-03-30T02:56:24.500Z"
+generated_at: "2026-11-23T21:26:35.958Z"
+status: "active"
 ---
 
 # § 251. Interconnection
@@ -69,3 +70,9 @@ generated_at: "2026-03-30T02:56:24.500Z"
     - **(B)** such carrier has substantially replaced an incumbent local exchange carrier described in paragraph (1); and
     - **(C)** such treatment is consistent with the public interest, convenience, and necessity and the purposes of this section.
 - **(i)** Nothing in this section shall be construed to limit or otherwise affect the Commission’s authority under section 201 of this title .
+
+“Congress finds the following:
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title II, § 251, as added [Pub. L. 104–104, title I, § 101(a)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 61](https://www.govinfo.gov/link/statute/110/61); amended [Pub. L. 106–81, § 3(a)](https://www.govinfo.gov/link/plaw/106/public/81), Oct. 26, 1999, [113 Stat. 1287](https://www.govinfo.gov/link/statute/113/1287); [Pub. L. 116–172, § 3(a)](https://www.govinfo.gov/link/plaw/116/public/172), Oct. 17, 2020, [134 Stat. 832](https://www.govinfo.gov/link/statute/134/832).)*

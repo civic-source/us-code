@@ -3,9 +3,10 @@ title: "Section 5514 - Installment deduction for indebtedness to the United Stat
 usc_title: 5
 usc_section: "5514"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5514"
-generated_at: "2026-03-30T02:52:56.018Z"
+generated_at: "2026-11-23T21:25:23.266Z"
+status: "active"
 ---
 
 # § 5514. Installment deduction for indebtedness to the United States
@@ -28,3 +29,25 @@ generated_at: "2026-03-30T02:52:56.018Z"
 - **(c)** Subsection (a) of this section does not modify existing statutes which provide for forfeiture of pay or allowances. This section and section 3530(d) of title 31 do not repeal, modify, or amend section 7837(d) or 9837(d) of title 10 or section 1007(b), (c) of title 37.
 - **(d)** A levy pursuant to the Internal Revenue Code of 1986 shall take precedence over other deductions under this section.
 - **(e)** An employee of a nonappropriated fund instrumentality described in section 2105(c) of this title is deemed an employee covered by this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 46d . | July 15, 1954, ch. 509 , §§ 1, 2, 4, 68 Stat. 482 , 483. |
+|  | 5 U.S.C. 46e . |  |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 46d
+
+July 15, 1954, ch. 509
+
+68 Stat. 482
+
+5 U.S.C. 46e
+
+Inapplicable to Claims or Indebtedness Under Internal Revenue Code, Social Security Act, or Tariff Laws
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 477](https://www.govinfo.gov/link/statute/80/477); [Pub. L. 96–54, § 2(a)(2)](https://www.govinfo.gov/link/plaw/96/public/54), Aug. 14, 1979, [93 Stat. 381](https://www.govinfo.gov/link/statute/93/381); [Pub. L. 97–258, § 3(a)(12)](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1063](https://www.govinfo.gov/link/statute/96/1063); [Pub. L. 97–365, § 5](https://www.govinfo.gov/link/plaw/97/public/365), Oct. 25, 1982, [96 Stat. 1751](https://www.govinfo.gov/link/statute/96/1751); [Pub. L. 97–452, § 2(a)(2)](https://www.govinfo.gov/link/plaw/97/public/452), Jan. 12, 1983, [96 Stat. 2478](https://www.govinfo.gov/link/statute/96/2478); [Pub. L. 98–216, § 3(a)(4)](https://www.govinfo.gov/link/plaw/98/public/216), Feb. 14, 1984, [98 Stat. 6](https://www.govinfo.gov/link/statute/98/6); [Pub. L. 104–134, title III, § 31001(h)](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–363](https://www.govinfo.gov/link/statute/110/1321); [Pub. L. 109–435, title VI, § 604(b)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3241](https://www.govinfo.gov/link/statute/120/3241); [Pub. L. 110–181, div. A, title VI, § 652](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 162](https://www.govinfo.gov/link/statute/122/162); [Pub. L. 115–232, div. A, title VIII, § 809(c)(3)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1841](https://www.govinfo.gov/link/statute/132/1841).)*

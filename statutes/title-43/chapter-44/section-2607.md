@@ -3,9 +3,10 @@ title: "Section 2607 - Protection of Oregon and California Railroad grant lands"
 usc_title: 43
 usc_section: "2607"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 2607"
-generated_at: "2026-03-30T02:55:57.498Z"
+generated_at: "2026-11-23T21:26:19.898Z"
+status: "active"
 ---
 
 # § 2607. Protection of Oregon and California Railroad grant lands
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:57.498Z"
   - **(4)** The term “Secretary” means the Secretary of the Interior.
 - **(b)** In carrying out sales, purchases, and exchanges of land in the geographic area, the Secretary shall ensure that on October 30, 2008 , and on the expiration of each 10-year period thereafter, the number of acres of O & C land and CBWR land in the geographic area is not less than the number of acres of such land on October 30, 1998 .
 - **(c)** Notwithstanding any other provision of this section, this section shall not apply to an exchange of land authorized pursuant to section 1028 of the Omnibus Parks and Public Lands Management Act of 1996 ( Public Law 104–333 ; 110 Stat. 4231 ), or any implementing legislation or administrative rule, if the land exchange is consistent with the memorandum of understanding between the Umpqua Land Exchange Project and the Association of Oregon and California Land Grant Counties dated February 19, 1998 .
+
+## Source Credit
+
+*([Pub. L. 105–321, § 3](https://www.govinfo.gov/link/plaw/105/public/321), Oct. 30, 1998, [112 Stat. 3022](https://www.govinfo.gov/link/statute/112/3022); [Pub. L. 106–176, title III, § 304](https://www.govinfo.gov/link/plaw/106/public/176), Mar. 10, 2000, [114 Stat. 33](https://www.govinfo.gov/link/statute/114/33).)*

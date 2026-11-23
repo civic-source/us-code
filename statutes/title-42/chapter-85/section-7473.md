@@ -3,18 +3,52 @@ title: "Section 7473 - Increments and ceilings"
 usc_title: 42
 usc_section: "7473"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7473"
-generated_at: "2026-03-30T02:56:11.303Z"
+generated_at: "2026-11-23T21:26:33.100Z"
+status: "active"
 ---
 
 # § 7473. Increments and ceilings
 
 - **(a)** In the case of sulfur oxide and particulate matter, each applicable implementation plan shall contain measures assuring that maximum allowable increases over baseline concentrations of, and maximum allowable concentrations of, such pollutant shall not be exceeded. In the case of any maximum allowable increase (except an allowable increase specified under section 7475(d)(2)(C)(iv) of this title ) for a pollutant based on concentrations permitted under national ambient air quality standards for any period other than an annual period, such regulations shall permit such maximum allowable increase to be exceeded during one such period per year.
 - **(b)**
-  - **(1)** For any class I area, the maximum allowable increase in concentrations of sulfur dioxide and particulate matter over the baseline concentration of such pollutants shall not exceed the following amounts: Pollutant Maximum allowable increase (in micrograms per cubic meter) Particulate matter: Annual geometric mean 5 Twenty-four-hour maximum 10 Sulfur dioxide: Annual arithmetic mean 2 Twenty-four-hour maximum 5 Three-hour maximum 25
-  - **(2)** For any class II area, the maximum allowable increase in concentrations of sulfur dioxide and particulate matter over the baseline concentration of such pollutants shall not exceed the following amounts: Pollutant Maximum allowable increase (in micrograms per cubic meter) Particulate matter: Annual geometric mean 19 Twenty-four-hour maximum 37 Sulfur dioxide: Annual arithmetic mean 20 Twenty-four-hour maximum 91 Three-hour maximum 512
-  - **(3)** For any class III area, the maximum allowable increase in concentrations of sulfur dioxide and particulate matter over the baseline concentration of such pollutants shall not exceed the following amounts: Pollutant Maximum allowable increase (in micrograms per cubic meter) Particulate matter: Annual geometric mean 37 Twenty-four-hour maximum 75 Sulfur dioxide: Annual arithmetic mean 40 Twenty-four-hour maximum 182 Three-hour maximum 700
+  - **(1)** For any class I area, the maximum allowable increase in concentrations of sulfur dioxide and particulate matter over the baseline concentration of such pollutants shall not exceed the following amounts:
+
+| Pollutant | Maximum allowable increase (in micrograms per cubic meter) |
+| --- | --- |
+| Particulate matter: |  |
+| Annual geometric mean | 5 |
+| Twenty-four-hour maximum | 10 |
+| Sulfur dioxide: |  |
+| Annual arithmetic mean | 2 |
+| Twenty-four-hour maximum | 5 |
+| Three-hour maximum | 25 |
+
+  - **(2)** For any class II area, the maximum allowable increase in concentrations of sulfur dioxide and particulate matter over the baseline concentration of such pollutants shall not exceed the following amounts:
+
+| Pollutant | Maximum allowable increase (in micrograms per cubic meter) |
+| --- | --- |
+| Particulate matter: |  |
+| Annual geometric mean | 19 |
+| Twenty-four-hour maximum | 37 |
+| Sulfur dioxide: |  |
+| Annual arithmetic mean | 20 |
+| Twenty-four-hour maximum | 91 |
+| Three-hour maximum | 512 |
+
+  - **(3)** For any class III area, the maximum allowable increase in concentrations of sulfur dioxide and particulate matter over the baseline concentration of such pollutants shall not exceed the following amounts:
+
+| Pollutant | Maximum allowable increase (in micrograms per cubic meter) |
+| --- | --- |
+| Particulate matter: |  |
+| Annual geometric mean | 37 |
+| Twenty-four-hour maximum | 75 |
+| Sulfur dioxide: |  |
+| Annual arithmetic mean | 40 |
+| Twenty-four-hour maximum | 182 |
+| Three-hour maximum | 700 |
+
   - **(4)** The maximum allowable concentration of any air pollutant in any area to which this part applies shall not exceed a concentration for such pollutant for each period of exposure equal to—
     - **(A)** the concentration permitted under the national secondary ambient air quality standard, or
     - **(B)** the concentration permitted under the national primary ambient air quality standard,
@@ -26,3 +60,37 @@ generated_at: "2026-03-30T02:56:11.303Z"
     - **(D)** the increase in concentrations attributable to new sources outside the United States over the concentrations attributable to existing sources which are included in the baseline concentration determined in accordance with section 7479(4) of this title .
   - **(2)** No action taken with respect to a source under paragraph (1)(A) or (1)(B) shall apply more than five years after the effective date of the order referred to in paragraph (1)(A) or the plan referred to in paragraph (1)(B), whichever is applicable. If both such order and plan are applicable, no such action shall apply more than five years after the later of such effective dates.
   - **(3)** No action under this subsection shall take effect unless the Governor submits the order or rule providing for such exclusion to the Administrator and the Administrator determines that such order or rule is in compliance with the provisions of this subsection.
+
+Annual geometric mean
+
+Twenty-four-hour maximum
+
+Annual arithmetic mean
+
+Twenty-four-hour maximum
+
+Three-hour maximum
+
+Annual geometric mean
+
+Twenty-four-hour maximum
+
+Annual arithmetic mean
+
+Twenty-four-hour maximum
+
+Three-hour maximum
+
+Annual geometric mean
+
+Twenty-four-hour maximum
+
+Annual arithmetic mean
+
+Twenty-four-hour maximum
+
+Three-hour maximum
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 163, as added [Pub. L. 95–95, title I, § 127(a)](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 732](https://www.govinfo.gov/link/statute/91/732); amended [Pub. L. 95–190, § 14(a)(41)](https://www.govinfo.gov/link/plaw/95/public/190), Nov. 16, 1977, [91 Stat. 1401](https://www.govinfo.gov/link/statute/91/1401).)*

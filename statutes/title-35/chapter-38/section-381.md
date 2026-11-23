@@ -3,9 +3,10 @@ title: "Section 381 - Definitions"
 usc_title: 35
 usc_section: "381"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "35 U.S.C. § 381"
-generated_at: "2026-03-30T02:55:34.241Z"
+generated_at: "2026-11-23T21:26:08.641Z"
+status: "active"
 ---
 
 # § 381. Definitions
@@ -21,3 +22,11 @@ generated_at: "2026-03-30T02:55:34.241Z"
   - **(6)** the term “international design application” means an application for international registration; and
   - **(7)** the term “international registration” means the international registration of an industrial design filed under the treaty.
 - **(b)** Terms and expressions not defined in this part are to be taken in the sense indicated by the treaty and the Regulations.
+
+In General
+
+Rule of Construction
+
+## Source Credit
+
+*(Added [Pub. L. 112–211, title I, § 101(a)](https://www.govinfo.gov/link/plaw/112/public/211), Dec. 18, 2012, [126 Stat. 1527](https://www.govinfo.gov/link/statute/126/1527).)*

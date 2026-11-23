@@ -3,9 +3,10 @@ title: "Section 1962 - Prohibited activities"
 usc_title: 18
 usc_section: "1962"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1962"
-generated_at: "2026-03-30T02:54:16.493Z"
+generated_at: "2026-11-23T21:25:44.110Z"
+status: "active"
 ---
 
 # § 1962. Prohibited activities
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:16.493Z"
 - **(b)** It shall be unlawful for any person through a pattern of racketeering activity or through collection of an unlawful debt to acquire or maintain, directly or indirectly, any interest in or control of any enterprise which is engaged in, or the activities of which affect, interstate or foreign commerce.
 - **(c)** It shall be unlawful for any person employed by or associated with any enterprise engaged in, or the activities of which affect, interstate or foreign commerce, to conduct or participate, directly or indirectly, in the conduct of such enterprise’s affairs through a pattern of racketeering activity or collection of unlawful debt.
 - **(d)** It shall be unlawful for any person to conspire to violate any of the provisions of subsection (a), (b), or (c) of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 91–452, title IX, § 901(a)](https://www.govinfo.gov/link/plaw/91/public/452), Oct. 15, 1970, [84 Stat. 942](https://www.govinfo.gov/link/statute/84/942); amended [Pub. L. 100–690, title VII, § 7033](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4398](https://www.govinfo.gov/link/statute/102/4398).)*

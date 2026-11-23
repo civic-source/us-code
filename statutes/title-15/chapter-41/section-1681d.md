@@ -3,9 +3,10 @@ title: "Section 1681d - Disclosure of investigative consumer reports"
 usc_title: 15
 usc_section: "1681d"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1681d"
-generated_at: "2026-03-30T02:54:08.149Z"
+generated_at: "2026-11-23T21:25:39.872Z"
+status: "active"
 ---
 
 # § 1681d. Disclosure of investigative consumer reports
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:08.149Z"
   - **(4)** A consumer reporting agency shall not prepare or furnish an investigative consumer report on a consumer that contains information that is adverse to the interest of the consumer and that is obtained through a personal interview with a neighbor, friend, or associate of the consumer or with another person with whom the consumer is acquainted or who has knowledge of such item of information, unless—
     - **(A)** the agency has followed reasonable procedures to obtain confirmation of the information, from an additional source that has independent and direct knowledge of the information; or
     - **(B)** the person interviewed is the best possible source of the information.
+
+## Source Credit
+
+*([Pub. L. 90–321, title VI, § 606](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 91–508, title VI, § 601](https://www.govinfo.gov/link/plaw/91/public/508), Oct. 26, 1970, [84 Stat. 1130](https://www.govinfo.gov/link/statute/84/1130); amended [Pub. L. 104–208, div. A, title II](https://www.govinfo.gov/link/plaw/104/public/208), §§ 2408(d)(2), 2414, Sept. 30, 1996, [110 Stat. 3009–438](https://www.govinfo.gov/link/statute/110/3009), 3009–449.)*

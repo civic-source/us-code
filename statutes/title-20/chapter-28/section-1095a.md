@@ -3,9 +3,10 @@ title: "Section 1095a - Wage garnishment requirement"
 usc_title: 20
 usc_section: "1095a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1095a"
-generated_at: "2026-03-30T02:54:48.138Z"
+generated_at: "2026-11-23T21:25:47.216Z"
+status: "active"
 ---
 
 # § 1095a. Wage garnishment requirement
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:48.138Z"
 - **(c)** The notice to the employer of the withholding order shall contain only such information as may be necessary for the employer to comply with the withholding order.
 - **(d)** Except as authorized in this section, notwithstanding any other provision of Federal or State law, no grant, loan, or work assistance awarded under this subchapter, or property traceable to such assistance, shall be subject to garnishment or attachment in order to satisfy any debt owed by the student awarded such assistance, other than a debt owed to the Secretary and arising under this subchapter.
 - **(e)** For the purpose of this section, the term “disposable pay” means that part of the compensation of any individual from an employer remaining after the deduction of any amounts required by law to be withheld.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 488A](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 102–164, title VI, § 605(a)](https://www.govinfo.gov/link/plaw/102/public/164), Nov. 15, 1991, [105 Stat. 1066](https://www.govinfo.gov/link/statute/105/1066); amended [Pub. L. 105–244, title IV, § 490A](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1753](https://www.govinfo.gov/link/statute/112/1753); [Pub. L. 109–171, title VIII, § 8024](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 180](https://www.govinfo.gov/link/statute/120/180).)*

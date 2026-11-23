@@ -3,9 +3,10 @@ title: "Section 6591 - Forest stands inventory and monitoring program to improve
 usc_title: 16
 usc_section: "6591"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6591"
-generated_at: "2026-03-30T02:54:23.062Z"
+generated_at: "2026-11-23T21:25:52.045Z"
+status: "active"
 ---
 
 # § 6591. Forest stands inventory and monitoring program to improve detection of and response to environmental threats
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:23.062Z"
   - **(1)** isolate and treat a threat before the threat gets out of control; and
   - **(2)** prevent epidemics, such as the American chestnut blight in the first half of the twentieth century, that could be environmentally and economically devastating to forests.
 - **(d)** There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2004 through 2008.
+
+## Source Credit
+
+*([Pub. L. 108–148, title VI, § 601](https://www.govinfo.gov/link/plaw/108/public/148), Dec. 3, 2003, [117 Stat. 1914](https://www.govinfo.gov/link/statute/117/1914).)*

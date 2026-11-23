@@ -3,9 +3,10 @@ title: "Section 3025 - Office of the Director of National Intelligence"
 usc_title: 50
 usc_section: "3025"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3025"
-generated_at: "2026-03-30T02:56:26.228Z"
+generated_at: "2026-11-23T21:26:38.993Z"
+status: "active"
 ---
 
 # § 3025. Office of the Director of National Intelligence
@@ -35,3 +36,81 @@ generated_at: "2026-03-30T02:56:26.228Z"
   - **(1)** in the matter preceding subparagraph (A), by substituting “an element of the intelligence community, as that term is defined in section 3(4) of the National Security Act of 1947 ( 50 U.S.C. 401a(4) ),” 2 2 See References in Text note below. for “such Executive agency”; and
   - **(2)** in subparagraph (A), by substituting “the intelligence community” for “such agency”.
 - **(f)** The headquarters of the Office of the Director of National Intelligence may be located in the Washington metropolitan region, as that term is defined in section 8301 of title 40 .
+
+Establishment of Position.—
+
+In general
+
+Rule of construction
+
+Applicability
+
+Termination
+
+Requirement
+
+Elements
+
+Integrated representation
+
+Definitions
+
+Appropriate committees of congress
+
+Atrocity of the people’s republic of china
+
+Commit
+
+Foreign person
+
+Government of the people’s republic of china
+
+United states person
+
+Intelligence Community Coordinator for Accountability of Atrocities of the People’s Republic of China.—
+
+Designation
+
+Duties
+
+Plan required
+
+Briefings to congress
+
+Sunset
+
+Definitions
+
+Appropriate committees of congress
+
+Atrocity
+
+Commit
+
+Foreign person
+
+Russian atrocity
+
+United states person
+
+Intelligence Community Coordinator for Russian Atrocities Accountability.—
+
+Designation
+
+Duties
+
+Plan required
+
+Annual report to congress.—
+
+Reports required
+
+Form
+
+Supplement
+
+Sunset
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title I, § 103, as added [Pub. L. 108–458, title I, § 1011(a)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3655](https://www.govinfo.gov/link/statute/118/3655); amended [Pub. L. 111–259, title IV](https://www.govinfo.gov/link/plaw/111/public/259), §§ 403, 407(b), title VIII, § 804(3), Oct. 7, 2010, [124 Stat. 2709](https://www.govinfo.gov/link/statute/124/2709), 2721, 2747; [Pub. L. 112–87, title IV, § 405](https://www.govinfo.gov/link/plaw/112/public/87), Jan. 3, 2012, [125 Stat. 1888](https://www.govinfo.gov/link/statute/125/1888); [Pub. L. 115–31, div. N, title IV, § 401(d)](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 818](https://www.govinfo.gov/link/statute/131/818); [Pub. L. 118–159, div. F, title LXIII, § 6307(a)(2)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2477](https://www.govinfo.gov/link/statute/138/2477); [Pub. L. 119–60, div. F, title LXIV](https://www.govinfo.gov/link/plaw/119/public/60), §§ 6402(c)(2)(A)(i), 6404(c)(1), Dec. 18, 2025, [139 Stat. 1616](https://www.govinfo.gov/link/statute/139/1616), 1617.)*

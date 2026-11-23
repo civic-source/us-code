@@ -3,9 +3,10 @@ title: "Section 1761 - Grant, issue, or renewal of rights-of-way"
 usc_title: 43
 usc_section: "1761"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1761"
-generated_at: "2026-03-30T02:55:57.491Z"
+generated_at: "2026-11-23T21:26:19.881Z"
+status: "active"
 ---
 
 # § 1761. Grant, issue, or renewal of rights-of-way
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:55:57.491Z"
     - **(C)** Except as otherwise provided in this subsection, all rights-of-way issued pursuant to this subsection are subject to all conditions and requirements of this Act.
     - **(D)** In the event a right-of-way issued pursuant to this subsection is allowed to deteriorate to the point of threatening persons or property and the holder of the right-of-way, after consultation with the Secretary of Agriculture, refuses to perform the repair and maintenance necessary to remove the threat to persons or property, the Secretary shall have the right to undertake such repair and maintenance on the right-of-way and to assess the holder for the costs of such repair and maintenance, regardless of whether the Secretary had required the holder to furnish a bond or other security pursuant to subsection (i) of this section.
 - **(d)** With respect to any project or portion thereof that was licensed pursuant to, or granted an exemption from, part I of the Federal Power Act [ 16 U.S.C. 791a et seq.] which is located on lands subject to a reservation under section 24 of the Federal Power Act [ 16 U.S.C. 818 ] and which did not receive a permit, right-of-way or other approval under this section prior to October 24, 1992 , no such permit, right-of-way, or other approval shall be required for continued operation, including continued operation pursuant to section 15 of the Federal Power Act [ 16 U.S.C. 808 ], of such project unless the Commission determines that such project involves the use of any additional public lands or National Forest lands not subject to such reservation.
+
+## Source Credit
+
+*([Pub. L. 94–579, title V, § 501](https://www.govinfo.gov/link/plaw/94/public/579), Oct. 21, 1976, [90 Stat. 2776](https://www.govinfo.gov/link/statute/90/2776); [Pub. L. 99–545, § 1(b)](https://www.govinfo.gov/link/plaw/99/public/545), (c), Oct. 27, 1986, [100 Stat. 3047](https://www.govinfo.gov/link/statute/100/3047), 3048; [Pub. L. 102–486, title XXIV, § 2401](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3096](https://www.govinfo.gov/link/statute/106/3096).)*

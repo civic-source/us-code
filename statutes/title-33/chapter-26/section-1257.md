@@ -3,9 +3,10 @@ title: "Section 1257 - Mine water pollution control demonstrations"
 usc_title: 33
 usc_section: "1257"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1257"
-generated_at: "2026-03-30T02:55:41.083Z"
+generated_at: "2026-11-23T21:26:11.361Z"
+status: "active"
 ---
 
 # § 1257. Mine water pollution control demonstrations
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:41.083Z"
   - **(1)** that the State shall acquire any land or interests therein necessary for such project; and
   - **(2)** that the State shall provide legal and practical protection to the project area to insure against any activities which will cause future acid or other mine water pollution.
 - **(e)** There is authorized to be appropriated $30,000,000 to carry out the provisions of this section, which sum shall be available until expended.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title I, § 107, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 828](https://www.govinfo.gov/link/statute/86/828).)*

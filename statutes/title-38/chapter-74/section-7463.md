@@ -3,9 +3,10 @@ title: "Section 7463 - Other adverse actions"
 usc_title: 38
 usc_section: "7463"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7463"
-generated_at: "2026-03-30T02:55:53.533Z"
+generated_at: "2026-11-23T21:26:16.881Z"
+status: "active"
 ---
 
 # § 7463. Other adverse actions
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:53.533Z"
   - **(2)** A right to a prompt report of the findings and recommendations by the impartial examiner.
   - **(3)** A right to a prompt review of the examiner’s findings and recommendations by an official of a higher level than the official who decided upon the action. That official may accept, modify, or reject the examiner’s recommendations.
 - **(e)** In any review of an adverse action under the grievance procedures prescribed under subsection (a), the employee is entitled to be represented by an attorney or other representative of the employee’s choice at all stages of the case.
+
+## Source Credit
+
+*(Added [Pub. L. 102–40, title II, § 203(a)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 205](https://www.govinfo.gov/link/statute/105/205); amended [Pub. L. 115–41, title II, § 208(c)](https://www.govinfo.gov/link/plaw/115/public/41), June 23, 2017, [131 Stat. 878](https://www.govinfo.gov/link/statute/131/878); [Pub. L. 115–407, title VII, § 702(a)(2)](https://www.govinfo.gov/link/plaw/115/public/407), Dec. 31, 2018, [132 Stat. 5381](https://www.govinfo.gov/link/statute/132/5381).)*

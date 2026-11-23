@@ -3,9 +3,10 @@ title: "Section 2053a - Employee training exchanges"
 usc_title: 15
 usc_section: "2053a"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2053a"
-generated_at: "2026-03-30T02:54:08.161Z"
+generated_at: "2026-11-23T21:25:39.901Z"
+status: "active"
 ---
 
 # § 2053a. Employee training exchanges
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:08.161Z"
   - **(1)** injury compensation as provided in chapter 81 of title 5 and tort claims liability under chapter 171 of title 28;
   - **(2)** chapter 131 of title 5 and the provisions of chapter 11 of title 18; and
   - **(3)** any other statute or regulation governing the conduct of Federal employees.
+
+## Source Credit
+
+*([Pub. L. 110–314, title II, § 208](https://www.govinfo.gov/link/plaw/110/public/314), Aug. 14, 2008, [122 Stat. 3046](https://www.govinfo.gov/link/statute/122/3046); [Pub. L. 117–286, § 4(c)(25)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4357](https://www.govinfo.gov/link/statute/136/4357).)*

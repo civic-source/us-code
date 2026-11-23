@@ -3,9 +3,10 @@ title: "Section 6101 - Findings"
 usc_title: 16
 usc_section: "6101"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6101"
-generated_at: "2026-03-30T02:54:23.054Z"
+generated_at: "2026-11-23T21:25:52.035Z"
+status: "active"
 ---
 
 # § 6101. Findings
@@ -20,3 +21,7 @@ Congress finds that—
   - **(4)**
     - **(A)** because neotropical migratory birds range across numerous international borders each year, their conservation requires the commitment and effort of all countries along their migration routes; and
     - **(B)** although numerous initiatives exist to conserve migratory birds and their habitat, those initiatives can be significantly strengthened and enhanced by increased coordination.
+
+## Source Credit
+
+*([Pub. L. 106–247, § 2](https://www.govinfo.gov/link/plaw/106/public/247), July 20, 2000, [114 Stat. 593](https://www.govinfo.gov/link/statute/114/593); [Pub. L. 109–363, title III, § 302(a)](https://www.govinfo.gov/link/plaw/109/public/363), Oct. 17, 2006, [120 Stat. 2075](https://www.govinfo.gov/link/statute/120/2075).)*

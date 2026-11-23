@@ -3,9 +3,10 @@ title: "Section 7432 - Civil damages for failure to release lien"
 usc_title: 26
 usc_section: "7432"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7432"
-generated_at: "2026-03-30T02:55:27.872Z"
+generated_at: "2026-11-23T21:26:06.959Z"
+status: "active"
 ---
 
 # § 7432. Civil damages for failure to release lien
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:27.872Z"
   - **(2)** The amount of damages awarded under subsection (b)(1) shall be reduced by the amount of such damages which could have reasonably been mitigated by the plaintiff.
   - **(3)** Notwithstanding any other provision of law, an action to enforce liability created under this section may be brought without regard to the amount in controversy and may be brought only within 2 years after the date the right of action accrues.
 - **(e)** The Secretary shall by regulation prescribe reasonable procedures for a taxpayer to notify the Secretary of the failure to release a lien under section 6325 on property of the taxpayer.
+
+## Source Credit
+
+*(Added [Pub. L. 100–647, title VI, § 6240(a)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3746](https://www.govinfo.gov/link/statute/102/3746).)*

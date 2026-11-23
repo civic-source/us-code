@@ -3,9 +3,10 @@ title: "Section 591 - Applicability of provisions of this chapter"
 usc_title: 28
 usc_section: "591"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 591"
-generated_at: "2026-03-30T02:55:30.133Z"
+generated_at: "2026-11-23T21:26:01.061Z"
+status: "active"
 ---
 
 # § 591. Applicability of provisions of this chapter
@@ -32,3 +33,63 @@ generated_at: "2026-03-30T02:55:30.133Z"
     - **(A)** If information received under this chapter involves the Attorney General, the next most senior official in the Department of Justice who is not also recused shall perform the duties assigned under this chapter to the Attorney General.
     - **(B)** If information received under this chapter involves a person with whom the Attorney General has a personal or financial relationship, the Attorney General shall recuse himself or herself by designating the next most senior official in the Department of Justice who is not also recused to perform the duties assigned under this chapter to the Attorney General.
   - **(2)** Before personally making any other determination under this chapter with respect to information received under this chapter, the Attorney General shall determine under paragraph (1)(B) whether recusal is necessary. The Attorney General shall set forth this determination in writing, identify the facts considered by the Attorney General, and set forth the reasons for the recusal. The Attorney General shall file this determination with any notification or application submitted to the division of the court under this chapter with respect to such information.
+
+Preliminary Investigation With Respect to Certain Covered Persons
+
+Persons to Whom Subsection
+
+Applies
+
+Preliminary Investigation With Respect to Other Persons.—
+
+In general
+
+Members of congress
+
+Examination of Information to Determine Need for Preliminary Investigation.—
+
+Factors to be considered
+
+Time period for making determination
+
+Recusal of Attorney General.—
+
+When recusal is required
+
+Requirements for recusal determination
+
+Preliminary Investigation With Respect to Persons Not Listed in Subsection
+
+Recusal of Attorney General.—
+
+When recusal is required
+
+Requirements for recusal determination
+
+In General
+
+Assignment of Employee To Certify Expenditures
+
+Office Space
+
+Travel And Subsistence Expenses
+
+Rates of Compensation
+
+Periodic Reappointment
+
+Reporting Requirements
+
+Regulatory Independent Counsel
+
+White House Personnel Report
+
+In General
+
+Pending Proceedings
+
+“Except as provided in this section, the amendments made by this title [enacting this chapter and sections 49, 528, and 529 of this title] shall take effect on the date of the enactment of this Act [ Oct. 26, 1978 ]. The provisions of chapter 39 of title 28 of the United States Code, as added by section 601 of this Act, shall not apply to specific information received by the Attorney General pursuant to section 591 of such title 28, if the Attorney General determines that—
+
+## Source Credit
+
+*(Added [Pub. L. 95–521, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/95/public/521), Oct. 26, 1978, [92 Stat. 1867](https://www.govinfo.gov/link/statute/92/1867); amended [Pub. L. 97–409](https://www.govinfo.gov/link/plaw/97/public/409), §§ 3, 4(a), Jan. 3, 1983, [96 Stat. 2039](https://www.govinfo.gov/link/statute/96/2039), 2040; [Pub. L. 98–473, title II, § 228(b)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2030](https://www.govinfo.gov/link/statute/98/2030); [Pub. L. 100–191, § 2](https://www.govinfo.gov/link/plaw/100/public/191), Dec. 15, 1987, [101 Stat. 1293](https://www.govinfo.gov/link/statute/101/1293); [Pub. L. 103–270](https://www.govinfo.gov/link/plaw/103/public/270), §§ 3(j), (k), 4, June 30, 1994, [108 Stat. 735](https://www.govinfo.gov/link/statute/108/735), 736.)*

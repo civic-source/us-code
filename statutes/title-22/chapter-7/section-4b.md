@@ -3,9 +3,10 @@ title: "Section 4b - Directives regarding government-owned enterprises in countr
 usc_title: 22
 usc_section: "4b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4b"
-generated_at: "2026-03-30T02:55:05.307Z"
+generated_at: "2026-11-23T21:25:58.325Z"
+status: "active"
 ---
 
 # § 262p–4b. Directives regarding government-owned enterprises in countries receiving World Bank loans
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.307Z"
     - **(B)** the performance of the privately owned enterprises resulting from such transformation; and
     - **(C)** the contributions of development finance companies toward strengthening the private sector in member borrowing countries.
   - **(2)** The United States Executive Director of the International Bank for Reconstruction and Development shall submit to the Congress the first report required by paragraph (1) within 1 year after October 1, 1988 , and shall submit additional reports 12 months, and 24 months, after the date the first report is submitted.
+
+## Source Credit
+
+*([Pub. L. 95–118, title XVI, § 1607](https://www.govinfo.gov/link/plaw/95/public/118), as added [Pub. L. 100–461, title V, § 555](https://www.govinfo.gov/link/plaw/100/public/461), Oct. 1, 1988, [102 Stat. 2268–36](https://www.govinfo.gov/link/statute/102/2268).)*

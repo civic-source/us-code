@@ -3,12 +3,17 @@ title: "Section 10 - Employee to sign letters"
 usc_title: 25
 usc_section: "10"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 10"
-generated_at: "2026-03-30T02:54:52.796Z"
+generated_at: "2026-11-23T21:25:54.531Z"
+status: "active"
 ---
 
 # § 10. Employee to sign letters
 
 The Commissioner of Indian Affairs, with the approval of the Secretary of the Interior, may designate an employee of the Indian Office to sign letters of that office requiring the signature of the commissioner or assistant commissioner, and all signatures of such employee while acting under such designation shall have the same force and effect as if made by said commissioner or assistant commissioner.
 
+
+## Source Credit
+
+*(Mar. 3, 1909, ch. 263, [35 Stat. 783](https://www.govinfo.gov/link/statute/35/783).)*

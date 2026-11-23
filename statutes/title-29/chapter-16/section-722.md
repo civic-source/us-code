@@ -3,9 +3,10 @@ title: "Section 722 - Eligibility and individualized plan for employment"
 usc_title: 29
 usc_section: "722"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 722"
-generated_at: "2026-03-30T02:55:18.691Z"
+generated_at: "2026-11-23T21:26:02.197Z"
+status: "active"
 ---
 
 # § 722. Eligibility and individualized plan for employment
@@ -171,3 +172,11 @@ generated_at: "2026-03-30T02:55:18.691Z"
     - **(D)** the employment setting and the settings in which the services will be provided; and
     - **(E)** the methods available for procuring the services; and
   - **(5)** to ensure that the availability and scope of informed choice provided under this section is consistent with the obligations of the designated State agency under this subchapter.
+
+(aa) the provision of assistive technology devices and assistive technology services (including referrals described in section 723(a)(3) of this title to the device reutilization programs and demonstrations described in subparagraphs (B) and (D) of section 3003(e)(2) of this title through agreements developed under section 721(a)(11)(I) of this title ; and
+
+(bb) personal assistance services (including training in the management of such services);
+
+## Source Credit
+
+*([Pub. L. 93–112, title I, § 102](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 105–220, title IV, § 404](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1138](https://www.govinfo.gov/link/statute/112/1138); amended [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(c)(5)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–415; [Pub. L. 113–128, title IV, § 413](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1649](https://www.govinfo.gov/link/statute/128/1649).)*

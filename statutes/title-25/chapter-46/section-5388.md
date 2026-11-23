@@ -3,9 +3,10 @@ title: "Section 5388 - Transfer of funds"
 usc_title: 25
 usc_section: "5388"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5388"
-generated_at: "2026-03-30T02:54:52.870Z"
+generated_at: "2026-11-23T21:25:54.733Z"
+status: "active"
 ---
 
 # § 5388. Transfer of funds
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:52.870Z"
 - **(i)** All funds paid to an Indian tribe in accordance with a compact or funding agreement shall remain available until expended. In the event that an Indian tribe elects to carry over funding from 1 year to the next, such carryover shall not diminish the amount of funds the Indian tribe is authorized to receive under its funding agreement in that or any subsequent fiscal year.
 - **(j)** All Medicare, Medicaid, or other program income earned by an Indian tribe shall be treated as supplemental funding to that negotiated in the funding agreement. The Indian tribe may retain all such income and expend such funds in the current year or in future years except to the extent that the Indian Health Care Improvement Act ( 25 U.S.C. 1601 et seq.) provides otherwise for Medicare and Medicaid receipts. Such funds shall not result in any offset or reduction in the amount of funds the Indian tribe is authorized to receive under its funding agreement in the year the program income is received or for any subsequent fiscal year.
 - **(k)** An Indian tribe shall not be obligated to continue performance that requires an expenditure of funds in excess of the amount of funds transferred under a compact or funding agreement. If at any time the Indian tribe has reason to believe that the total amount provided for a specific activity in the compact or funding agreement is insufficient the Indian tribe shall provide reasonable notice of such insufficiency to the Secretary. If the Secretary does not increase the amount of funds transferred under the funding agreement, the Indian tribe may suspend performance of the activity until such time as additional funds are transferred.
+
+## Source Credit
+
+*([Pub. L. 93–638, title V, § 508](https://www.govinfo.gov/link/plaw/93/public/638), as added [Pub. L. 106–260, § 4](https://www.govinfo.gov/link/plaw/106/public/260), Aug. 18, 2000, [114 Stat. 722](https://www.govinfo.gov/link/statute/114/722).)*

@@ -3,9 +3,10 @@ title: "Section 136g - Inspection of establishments, etc."
 usc_title: 7
 usc_section: "136g"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 136g"
-generated_at: "2026-03-30T02:53:42.261Z"
+generated_at: "2026-11-23T21:25:27.894Z"
+status: "active"
 ---
 
 # § 136g. Inspection of establishments, etc.
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:42.261Z"
   - **(1)** The examination of pesticides or devices shall be made in the Environmental Protection Agency or elsewhere as the Administrator may designate for the purpose of determining from such examinations whether they comply with the requirements of this subchapter. If it shall appear from any such examination that they fail to comply with the requirements of this subchapter, the Administrator shall cause notice to be given to the person against whom criminal or civil proceedings are contemplated. Any person so notified shall be given an opportunity to present the person’s views, either orally or in writing, with regard to such contemplated proceedings, and if in the opinion of the Administrator it appears that the provisions of this subchapter have been violated by such person, then the Administrator shall certify the facts to the Attorney General, with a copy of the results of the analysis or the examination of such pesticide for the institution of a criminal proceeding pursuant to section 136 l (b) of this title or a civil proceeding under section 136 l (a) of this title, when the Administrator determines that such action will be sufficient to effectuate the purposes of this subchapter.
   - **(2)** The notice of contemplated proceedings and opportunity to present views set forth in this subsection are not prerequisites to the institution of any proceeding by the Attorney General.
   - **(3)** Nothing in this subchapter shall be construed as requiring the Administrator to institute proceedings for prosecution of minor violations of this subchapter whenever the Administrator believes that the public interest will be adequately served by a suitable written notice of warning.
+
+## Source Credit
+
+*(June 25, 1947, ch. 125, § 9, as added [Pub. L. 92–516, § 2](https://www.govinfo.gov/link/plaw/92/public/516), Oct. 21, 1972, [86 Stat. 988](https://www.govinfo.gov/link/statute/86/988); amended [Pub. L. 100–532, title III, § 302](https://www.govinfo.gov/link/plaw/100/public/532), Oct. 25, 1988, [102 Stat. 2669](https://www.govinfo.gov/link/statute/102/2669); [Pub. L. 102–237, title X, § 1006(b)(1)](https://www.govinfo.gov/link/plaw/102/public/237), (3)(H), (I), Dec. 13, 1991, [105 Stat. 1895](https://www.govinfo.gov/link/statute/105/1895), 1896.)*

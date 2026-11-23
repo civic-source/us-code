@@ -3,9 +3,10 @@ title: "Section 949a - Rules"
 usc_title: 10
 usc_section: "949a"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 949a"
-generated_at: "2026-03-30T02:53:38.089Z"
+generated_at: "2026-11-23T21:25:32.360Z"
+status: "active"
 ---
 
 # § 949a. Rules
@@ -42,3 +43,15 @@ generated_at: "2026-03-30T02:53:38.089Z"
     - **(B)** Failure of the accused to conform to the rules described in subparagraph (A) may result in a partial or total revocation by the military judge of the right of self-representation under paragraph (2)(D). In such case, the military counsel of the accused or an appropriately authorized civilian counsel shall perform the functions necessary for the defense.
 - **(c)** The Secretary of Defense may delegate the authority of the Secretary to prescribe regulations under this chapter.
 - **(d)** Not later than 60 days before the date on which any proposed modification of the rules in effect for military commissions under this chapter goes into effect, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report describing the proposed modification.
+
+Procedures and Rules of Evidence
+
+Exceptions
+
+Delegation of Authority To Prescribe Regulations
+
+Notice to Congress of Modification of Rules
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title XVIII, § 1802](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2581](https://www.govinfo.gov/link/statute/123/2581); amended [Pub. L. 112–81, div. A, title X, § 1034(a)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1572](https://www.govinfo.gov/link/statute/125/1572).)*

@@ -3,9 +3,10 @@ title: "Section 3317 - Public-private contributions for additional educational a
 usc_title: 38
 usc_section: "3317"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3317"
-generated_at: "2026-03-30T02:55:53.503Z"
+generated_at: "2026-11-23T21:26:16.737Z"
+status: "active"
 ---
 
 # § 3317. Public-private contributions for additional educational assistance
@@ -21,3 +22,25 @@ generated_at: "2026-03-30T02:55:53.503Z"
   - **(1)** In instances where the educational assistance provided an individual under section 3313(c)(1)(A) does not cover the full cost of tuition and mandatory fees at a college or university, the Secretary shall provide up to 50 percent of the remaining costs for tuition and mandatory fees if the college or university voluntarily enters into an agreement with the Secretary to match an equal percentage of any of the remaining costs for such tuition and fees.
   - **(2)** Amounts available to the Secretary under section 3324(b) for payment of the costs of this chapter shall be available to the Secretary for purposes of paragraph (1).
 - **(e)** The Secretary shall make available on the Internet website of the Department available to the public a current list of the colleges and universities participating in the program under this section. The list shall specify, for each college or university so listed, appropriate information on the agreement between the Secretary and such college or university under subsection (c).
+
+Establishment of Program
+
+Designation of Program
+
+Agreements
+
+Matching Contributions.—
+
+In general
+
+Use of appropriated funds
+
+Outreach
+
+Availability of Scholarship Information
+
+Maintenance of Scholarship Information
+
+## Source Credit
+
+*(Added [Pub. L. 110–252, title V, § 5003(a)(1)](https://www.govinfo.gov/link/plaw/110/public/252), June 30, 2008, [122 Stat. 2368](https://www.govinfo.gov/link/statute/122/2368); amended [Pub. L. 115–48, title I](https://www.govinfo.gov/link/plaw/115/public/48), §§ 103(a), 104(a), 105(c)(4), Aug. 16, 2017, [131 Stat. 975](https://www.govinfo.gov/link/statute/131/975), 976; [Pub. L. 116–315, title I](https://www.govinfo.gov/link/plaw/116/public/315), §§ 1002(b)(3), 1008, Jan. 5, 2021, [134 Stat. 4938](https://www.govinfo.gov/link/statute/134/4938), 4940.)*

@@ -3,9 +3,10 @@ title: "Section 271 - Debts owed by political parties, etc."
 usc_title: 26
 usc_section: "271"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 271"
-generated_at: "2026-03-30T02:55:27.659Z"
+generated_at: "2026-11-23T21:26:06.118Z"
+status: "active"
 ---
 
 # § 271. Debts owed by political parties, etc.
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:27.659Z"
 - **(c)** In the case of a taxpayer who uses an accrual method of accounting, subsection (a) shall not apply to a debt which accrued as a receivable on a bona fide sale of goods or services in the ordinary course of the taxpayer’s trade or business if—
   - **(1)** for the taxable year in which such receivable accrued, more than 30 percent of all receivables which accrued in the ordinary course of the trades and businesses of the taxpayer were due from political parties, and
   - **(2)** the taxpayer made substantial continuing efforts to collect on the debt.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 82; [Pub. L. 94–455, title XXI, § 2104(a)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1901](https://www.govinfo.gov/link/statute/90/1901).)*

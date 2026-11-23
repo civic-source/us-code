@@ -3,9 +3,10 @@ title: "Section 9138 - Regular Air Force and Space Force: reenlistment after ser
 usc_title: 10
 usc_section: "9138"
 chapter: 913
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 9138"
-generated_at: "2026-03-30T02:53:38.257Z"
+generated_at: "2026-11-23T21:25:32.980Z"
+status: "active"
 ---
 
 # § 9138. Regular Air Force and Space Force: reenlistment after service as an officer
@@ -18,3 +19,22 @@ generated_at: "2026-03-30T02:53:38.257Z"
     - **(C)** duty performance below prescribed standards for the grade held; or
     - **(D)** retention being inconsistent with the interests of national security; or
   - **(2)** the person’s former enlisted status and grade was based solely on the participation by that person in a precommissioning program that resulted in the commission held by that person during the active duty from which the person was released or discharged.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8258 | 10:631a (less last proviso). | July 14, 1939, ch. 267, § 1 (less last proviso); restated May 29, 1954, ch. 249, § 19(b) (less last proviso), 68 Stat. 166 . |
+
+
+Historical and Revision Notes
+
+8258
+
+July 14, 1939, ch. 267, § 1
+
+May 29, 1954, ch. 249, § 19(b)
+
+68 Stat. 166
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 505, § 8258; [Pub. L. 85–603, § 1(3)](https://www.govinfo.gov/link/plaw/85/public/603), Aug. 8, 1958, [72 Stat. 526](https://www.govinfo.gov/link/statute/72/526); [Pub. L. 102–484, div. A, title V, § 520(b)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2409](https://www.govinfo.gov/link/statute/106/2409); [Pub. L. 110–181, div. A, title V, § 506(b)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 96](https://www.govinfo.gov/link/statute/122/96); renumbered § 9138, [Pub. L. 115–232, div. A, title VIII, § 806(b)(2)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1832](https://www.govinfo.gov/link/statute/132/1832); renumbered § 9132 and amended [Pub. L. 116–283, div. A, title IX, § 923(c)(2)(A)](https://www.govinfo.gov/link/plaw/116/public/283), (B), Jan. 1, 2021, [134 Stat. 3810](https://www.govinfo.gov/link/statute/134/3810); renumbered § 9138, [Pub. L. 117–81, div. A, title X, § 1081(a)(34)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1921](https://www.govinfo.gov/link/statute/135/1921); [Pub. L. 118–31, div. A, title XVII, § 1721(a)(2)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 665](https://www.govinfo.gov/link/statute/137/665).)*

@@ -3,9 +3,10 @@ title: "Section 5102 - Matching grants to States"
 usc_title: 7
 usc_section: "5102"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 5102"
-generated_at: "2026-03-30T02:53:42.413Z"
+generated_at: "2026-11-23T21:25:28.357Z"
+status: "active"
 ---
 
 # § 5102. Matching grants to States
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:42.413Z"
     - **(I)** preparation of the parties for mediation; and
     - **(J)** financial advisory and counseling services for parties requesting mediation.
 - **(d)** If the Secretary determines that a State has not complied with subsection (c), such State shall not be eligible for additional financial assistance under this chapter.
+
+## Source Credit
+
+*([Pub. L. 100–233, title V, § 502](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1663](https://www.govinfo.gov/link/statute/101/1663); [Pub. L. 102–554, § 22](https://www.govinfo.gov/link/plaw/102/public/554), Oct. 28, 1992, [106 Stat. 4161](https://www.govinfo.gov/link/statute/106/4161); [Pub. L. 103–354, title II, § 282(f)(1)(A)](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3235](https://www.govinfo.gov/link/statute/108/3235); [Pub. L. 106–472, title III, § 306(b)](https://www.govinfo.gov/link/plaw/106/public/472), Nov. 9, 2000, [114 Stat. 2072](https://www.govinfo.gov/link/statute/114/2072).)*

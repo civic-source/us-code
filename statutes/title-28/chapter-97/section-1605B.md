@@ -3,9 +3,10 @@ title: "Section 1605B - Responsibility of foreign states for international terro
 usc_title: 28
 usc_section: "1605B"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1605B"
-generated_at: "2026-03-30T02:55:30.142Z"
+generated_at: "2026-11-23T21:26:01.096Z"
+status: "active"
 ---
 
 # § 1605B. Responsibility of foreign states for international terrorism against the United States
@@ -18,3 +19,33 @@ generated_at: "2026-03-30T02:55:30.142Z"
   - **(2)** a tortious act or acts of the foreign state, or of any official, employee, or agent of that foreign state while acting within the scope of his or her office, employment, or agency, regardless where the tortious act or acts of the foreign state occurred.
 - **(c)** Notwithstanding section 2337(2) of title 18 , a national of the United States may bring a claim against a foreign state in accordance with section 2333 of that title if the foreign state would not be immune under subsection (b).
 - **(d)** A foreign state shall not be subject to the jurisdiction of the courts of the United States under subsection (b) on the basis of an omission or a tortious act or acts that constitute mere negligence.
+
+Definition
+
+Responsibility of Foreign States
+
+Claims by Nationals of the United States
+
+Rule of Construction
+
+Exclusive Jurisdiction
+
+Intervention
+
+Stay.—
+
+In general
+
+Duration.—
+
+In general
+
+Extension.—
+
+In general
+
+Recertification
+
+## Source Credit
+
+*(Added [Pub. L. 114–222, § 3(a)](https://www.govinfo.gov/link/plaw/114/public/222), Sept. 28, 2016, [130 Stat. 853](https://www.govinfo.gov/link/statute/130/853).)*

@@ -3,12 +3,17 @@ title: "Section 8526 - Filing of claims for assets"
 usc_title: 38
 usc_section: "8526"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 8526"
-generated_at: "2026-03-30T02:55:53.541Z"
+generated_at: "2026-11-23T21:26:16.917Z"
+status: "active"
 ---
 
 # § 8526. Filing of claims for assets
 
 Notwithstanding the crediting to said Fund of the assets, or proceeds thereof, of any decedent, whether upon determination by a court or the Department pursuant to the provisions of section 8520 of this title , any person claiming a right to such assets may within five years after the death of the decedent file a claim on behalf of such person and any other claiming with the Secretary. Upon receipt of due proof that any person was at date of death of the veteran entitled to the veteran’s personal property, or a part thereof, under the laws of the State of domicile of the decedent, the Secretary may pay out of the Fund, but not to exceed the net amount credited thereto from said decedent’s estate less any necessary expenses, the amount to which such person, or persons, was or were so entitled, and upon similar claim any assets of the decedent which shall not have been disposed of shall be delivered in kind to the parties legally entitled thereto. If any person so entitled is under legal disability at the date of death of such decedent, such five-year period of limitation shall run from the termination or removal of legal disability. In the event of doubt as to entitlement, the Secretary may cause administration or other appropriate proceedings to be instituted in any court having jurisdiction. In determining questions of fact or law involved in the adjudication of claims made under this section, no judgment, decree, or order entered in any action at law, suit in equity, or other legal proceeding of any character purporting to determine entitlement to said assets or any part thereof, shall be binding upon the United States or the Secretary or determinative of any fact or question involving entitlement to any such property or the proceeds thereof, or any part of the Fund, unless the Secretary has been seasonably served with notice and permitted to become a party to such suit or proceeding if the Secretary makes a request therefor within thirty days after such notice. Notice may be served in person or by registered mail or by certified mail upon the Secretary, or upon the Secretary’s authorized attorney in the State wherein the action or proceedings may be pending. Notice may be waived by the Secretary or by the Secretary’s authorized attorney, in which event the finding, judgment, or decree shall have the same effect as if the Secretary were a party and served with notice. Any necessary court costs or expenses if authorized by the Secretary may be paid as are other administrative expenses of the Department.
 
+
+## Source Credit
+
+*([Pub. L. 85–857](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1261](https://www.govinfo.gov/link/statute/72/1261), § 5226; [Pub. L. 86–507, § 1(33)](https://www.govinfo.gov/link/plaw/86/public/507), June 11, 1960, [74 Stat. 202](https://www.govinfo.gov/link/statute/74/202); [Pub. L. 99–576, title VII, § 701(105)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3301](https://www.govinfo.gov/link/statute/100/3301); renumbered § 8526 and amended [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), (d)(1), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238), 239; [Pub. L. 102–83, § 4(a)(3)](https://www.govinfo.gov/link/plaw/102/public/83), (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404](https://www.govinfo.gov/link/statute/105/404), 405.)*

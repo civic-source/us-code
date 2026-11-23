@@ -3,9 +3,10 @@ title: "Section 8002 - Definitions"
 usc_title: 42
 usc_section: "8002"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8002"
-generated_at: "2026-03-30T02:56:11.332Z"
+generated_at: "2026-11-23T21:26:33.175Z"
+status: "active"
 ---
 
 # § 8002. Definitions
@@ -21,3 +22,7 @@ For the purpose of this chapter—
   - **(7)** the term “professional assessment committee” means a group of at least three persons appointed by a local public housing agency or a nonprofit corporation and shall include qualified medical professionals and other persons professionally competent to appraise the functional abilities of elderly or permanently disabled adult persons, or both, in relation to the performance of the normal tasks of daily living;
   - **(8)** the term “temporarily disabled” means an impairment which (A) is expected to be of no more than six months’ duration, and (B) substantially impedes an individual’s ability to live independently unless the individual receives supportive congregate services; and
   - **(9)** the term “nonprofit corporation” means any corporation responsible for a housing project assisted under section 1701q of title 12 .
+
+## Source Credit
+
+*([Pub. L. 95–557, title IV, § 403](https://www.govinfo.gov/link/plaw/95/public/557), Oct. 31, 1978, [92 Stat. 2105](https://www.govinfo.gov/link/statute/92/2105).)*

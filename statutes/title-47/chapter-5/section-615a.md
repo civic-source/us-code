@@ -3,9 +3,10 @@ title: "Section 615a - Service provider parity of protection"
 usc_title: 47
 usc_section: "615a"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 615a"
-generated_at: "2026-03-30T02:56:24.522Z"
+generated_at: "2026-11-23T21:26:36.051Z"
+status: "active"
 ---
 
 # § 615a. Service provider parity of protection
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:24.522Z"
 - **(b)** A person using wireless 9–1–1 service, or making 9–1–1 communications via IP-enabled voice service or other emergency communications service, shall have immunity or other protection from liability of a scope and extent that is not less than the scope and extent of immunity or other protection from liability under applicable law in similar circumstances of a person using 9–1–1 service that is not via wireless 9–1–1 service, IP-enabled voice service, or other emergency communications service.
 - **(c)** In matters related to 9–1–1 communications via wireless 9–1–1 service, IP-enabled voice service, or other emergency communications service, a PSAP, and its employees, vendors, agents, and authorizing government entity (if any) shall have immunity or other protection from liability of a scope and extent that is not less than the scope and extent of immunity or other protection from liability under applicable law accorded to such PSAP, employees, vendors, agents, and authorizing government entity, respectively, in matters related to 9–1–1 communications that are not via wireless 9–1–1 service, IP-enabled voice service, or other emergency communications service.
 - **(d)** This section is enacted as an exercise of the enforcement power of the Congress under section 5 of the Fourteenth Amendment to the Constitution and the power of the Congress to regulate commerce with foreign nations, among the several States, and with Indian tribes.
+
+## Source Credit
+
+*([Pub. L. 106–81, § 4](https://www.govinfo.gov/link/plaw/106/public/81), Oct. 26, 1999, [113 Stat. 1288](https://www.govinfo.gov/link/statute/113/1288); [Pub. L. 110–283, title II, § 201(a)](https://www.govinfo.gov/link/plaw/110/public/283), July 23, 2008, [122 Stat. 2624](https://www.govinfo.gov/link/statute/122/2624).)*

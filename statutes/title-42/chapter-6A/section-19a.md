@@ -3,9 +3,10 @@ title: "Section 19a - Electronic health record reporting program"
 usc_title: 42
 usc_section: "19a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19a"
-generated_at: "2026-03-30T02:56:10.846Z"
+generated_at: "2026-11-23T21:26:30.949Z"
+status: "active"
 ---
 
 # § 300jj–19a. Electronic health record reporting program
@@ -78,3 +79,7 @@ generated_at: "2026-03-30T02:56:10.846Z"
   - **(2)** the summary and detailed reports under subsection (c)(6).
 - **(e)** Each recipient of a grant, contract, or agreement under paragraph (1) shall develop and implement a process through which participating electronic health record technology developers may review and recommend changes to the reports created under subsection (c)(6) for products developed by such developer prior to the publication of such report under subsection (d).
 - **(f)** The Secretary may provide additional resources on the Internet website of the Office of the National Coordinator to better inform consumers of health information technology. Such reports may be carried out through partnerships with private organizations with appropriate expertise.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXX, § 3009A, as added [Pub. L. 114–255, div. A, title IV, § 4002(c)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1161](https://www.govinfo.gov/link/statute/130/1161).)*

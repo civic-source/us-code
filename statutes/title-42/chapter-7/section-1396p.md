@@ -3,9 +3,10 @@ title: "Section 1396p - Liens, adjustments and recoveries, and transfers of asse
 usc_title: 42
 usc_section: "1396p"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1396p"
-generated_at: "2026-03-30T02:56:11.047Z"
+generated_at: "2026-11-23T21:26:31.846Z"
+status: "active"
 ---
 
 # § 1396p. Liens, adjustments and recoveries, and transfers of assets
@@ -223,3 +224,55 @@ generated_at: "2026-03-30T02:56:11.047Z"
   - **(3)** The term “institutionalized individual” means an individual who is an inpatient in a nursing facility, who is an inpatient in a medical institution and with respect to whom payment is made based on a level of care provided in a nursing facility, or who is described in section 1396a(a)(10)(A)(ii)(VI) of this title .
   - **(4)** The term “noninstitutionalized individual” means an individual receiving any of the services specified in subsection (c)(1)(C)(ii).
   - **(5)** The term “resources” has the meaning given such term in section 1382b of this title , without regard (in the case of an institutionalized individual) to the exclusion described in subsection (a)(1) of such section.
+
+(aa) has not attained age 61 as of the date of purchase, the policy provides compound annual inflation protection;
+
+(bb) has attained age 61 but has not attained age 76 as of such date, the policy provides some level of inflation protection; and
+
+(cc) has attained age 76 as of such date, the policy may (but is not required to) provide some level of inflation protection.
+
+(aa) an account or trust described in subsection (a), (c), or (p) of section 408 of such Code;
+
+(bb) a simplified employee pension (within the meaning of section 408(k) of such Code); or
+
+(cc) a Roth IRA described in section 408A of such Code; or
+
+In general
+
+Exceptions
+
+Extension of effective date for state law amendment
+
+“Each State shall provide for a hardship waiver process in accordance with section 1917(c)(2)(D) of the Social Security Act ( 42 U.S.C. 1396p(c)(2)(D) )—
+
+Expansion Authority.—
+
+In general
+
+State reporting requirements
+
+Effective date
+
+Standards for Reciprocal Recognition Among Partnership States
+
+Annual Reports to Congress.—
+
+In general
+
+Appropriation
+
+National Clearinghouse for Long-Term Care Information.—
+
+Establishment
+
+Duties.—
+
+In general
+
+Requirement
+
+Appropriation
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XIX, § 1917, as added [Pub. L. 97–248, title I, § 132(b)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 370](https://www.govinfo.gov/link/statute/96/370); amended [Pub. L. 97–448, title III, § 309(b)(21)](https://www.govinfo.gov/link/plaw/97/public/448), (22), Jan. 12, 1983, [96 Stat. 2410](https://www.govinfo.gov/link/statute/96/2410); [Pub. L. 100–203, title IV, § 4211(h)(12)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–207](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–360, title III, § 303(b)](https://www.govinfo.gov/link/plaw/100/public/360), title IV, § 411(l)(3)(I), July 1, 1988, [102 Stat. 760](https://www.govinfo.gov/link/statute/102/760), 803; [Pub. L. 100–485, title VI, § 608(d)(16)(B)](https://www.govinfo.gov/link/plaw/100/public/485), Oct. 13, 1988, [102 Stat. 2417](https://www.govinfo.gov/link/statute/102/2417); [Pub. L. 101–239, title VI, § 6411(e)(1)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2271](https://www.govinfo.gov/link/statute/103/2271); [Pub. L. 103–66, title XIII](https://www.govinfo.gov/link/plaw/103/public/66), §§ 13611(a)–(c), 13612(a)–(c), Aug. 10, 1993, [107 Stat. 622–628](https://www.govinfo.gov/link/statute/107/622); [Pub. L. 109–171, title VI](https://www.govinfo.gov/link/plaw/109/public/171), §§ 6011(a), (b), (e), 6012(a)–(c), 6014(a), 6015(b), 6016(a)–(d), 6021(a)(1), Feb. 8, 2006, [120 Stat. 61–68](https://www.govinfo.gov/link/statute/120/61); [Pub. L. 109–432, div. B, title IV, § 405(b)(1)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2998](https://www.govinfo.gov/link/statute/120/2998); [Pub. L. 110–275, title I, § 115(a)](https://www.govinfo.gov/link/plaw/110/public/275), July 15, 2008, [122 Stat. 2507](https://www.govinfo.gov/link/statute/122/2507); [Pub. L. 111–5, div. B, title V, § 5006(c)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 507](https://www.govinfo.gov/link/statute/123/507); [Pub. L. 113–67, div. A, title II, § 202(b)(3)](https://www.govinfo.gov/link/plaw/113/public/67), Dec. 26, 2013, [127 Stat. 1177](https://www.govinfo.gov/link/statute/127/1177); [Pub. L. 114–255, div. A, title V, § 5007(a)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1197](https://www.govinfo.gov/link/statute/130/1197); [Pub. L. 115–123, div. E, title XII, § 53102(b)(1)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 298](https://www.govinfo.gov/link/statute/132/298); [Pub. L. 119–21, title VII, § 71108(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 296](https://www.govinfo.gov/link/statute/139/296).)*

@@ -3,9 +3,10 @@ title: "Section 1185c - Coverage of dependent students on medically necessary le
 usc_title: 29
 usc_section: "1185c"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1185c"
-generated_at: "2026-03-30T02:55:18.724Z"
+generated_at: "2026-11-23T21:26:02.272Z"
+status: "active"
 ---
 
 # § 1185c. Coverage of dependent students on medically necessary leave of absence
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:18.724Z"
   - **(1)** a dependent child of a participant or beneficiary is in a period of coverage under a group health plan or health insurance coverage offered in connection with such a plan, pursuant to a medically necessary leave of absence of the child described in subsection (b);
   - **(2)** the manner in which the participant or beneficiary is covered under the plan changes, whether through a change in health insurance coverage or health insurance issuer, a change between health insurance coverage and self-insured coverage, or otherwise; and
   - **(3)** the coverage as so changed continues to provide coverage of beneficiaries as dependent children,
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 714](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 110–381, § 2(a)(1)](https://www.govinfo.gov/link/plaw/110/public/381), Oct. 9, 2008, [122 Stat. 4081](https://www.govinfo.gov/link/statute/122/4081).)*

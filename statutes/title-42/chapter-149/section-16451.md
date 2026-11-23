@@ -3,9 +3,10 @@ title: "Section 16451 - Definitions"
 usc_title: 42
 usc_section: "16451"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16451"
-generated_at: "2026-03-30T02:56:11.486Z"
+generated_at: "2026-11-23T21:26:33.743Z"
+status: "active"
 ---
 
 # § 16451. Definitions
@@ -42,3 +43,11 @@ For purposes of this part:
     - **(A)** any company, 10 percent or more of the outstanding voting securities of which are directly or indirectly owned, controlled, or held with power to vote, by such holding company; and
     - **(B)** any person, the management or policies of which the Commission, after notice and opportunity for hearing, determines to be subject to a controlling influence, directly or indirectly, by such holding company (either alone or pursuant to an arrangement or understanding with one or more other persons) so as to make it necessary for the rate protection of utility customers with respect to rates that such person be subject to the obligations, duties, and liabilities imposed by this part upon subsidiary companies of holding companies.
   - **(17)** The term “voting security” means any security presently entitling the owner or holder thereof to vote in the direction or management of the affairs of a company.
+
+In General
+
+Compliance With Certain Rules
+
+## Source Credit
+
+*([Pub. L. 109–58, title XII, § 1262](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 972](https://www.govinfo.gov/link/statute/119/972).)*

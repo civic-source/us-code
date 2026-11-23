@@ -3,9 +3,10 @@ title: "Section 20924 - Staff"
 usc_title: 52
 usc_section: "20924"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 20924"
-generated_at: "2026-03-30T02:56:30.165Z"
+generated_at: "2026-11-23T21:26:42.331Z"
+status: "active"
 ---
 
 # § 20924. Staff
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:30.165Z"
 - **(c)** Upon request of the Commission, the head of any Federal department or agency may detail, on a reimbursable basis, any of the personnel of that department or agency to the Commission to assist it in carrying out its duties under this chapter.
 - **(d)** At the request of the Board of Advisors or the Standards Board, the Commission may enter into such arrangements as the Commission considers appropriate to make personnel available to assist the Boards with carrying out their duties under this subchapter (including contracts with private individuals for providing temporary personnel services or the temporary detailing of personnel of the Commission).
 - **(e)** In preparing the program goals, long-term plans, mission statements, and related matters for the Commission, the Executive Director and staff of the Commission shall consult with the Board of Advisors and the Standards Board.
+
+## Source Credit
+
+*([Pub. L. 107–252, title II, § 204](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1675](https://www.govinfo.gov/link/statute/116/1675).)*

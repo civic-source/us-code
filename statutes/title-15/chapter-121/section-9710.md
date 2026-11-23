@@ -3,9 +3,10 @@ title: "Section 9710 - Identification and support of consistent, Federal set of 
 usc_title: 15
 usc_section: "9710"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9710"
-generated_at: "2026-03-30T02:54:08.250Z"
+generated_at: "2026-11-23T21:25:40.155Z"
+status: "active"
 ---
 
 # § 9710. Identification and support of consistent, Federal set of forward-looking, long-term meteorological information
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.250Z"
   - **(2)** The term “long-term” shall have such meaning as the Director of the National Institute of Standards and Technology, in consultation with the Administrator, considers appropriate for purposes of this section.
   - **(3)** The term “other environmental trends” means wildfires, coastal flooding, inland flooding, land subsidence, rising sea levels, and any other challenges relating to changes in environmental systems over time that the Administrator determines qualify as environmental challenges other than extreme weather.
 - **(b)** The Administrator shall identify, and support research that enables, a consistent, Federal set of forward-looking, long-term meteorological information that models future extreme weather events, other environmental trends, projections, and up-to-date observations, including mesoscale information as determined appropriate by the Administrator.
+
+## Source Credit
+
+*([Pub. L. 117–316, § 15](https://www.govinfo.gov/link/plaw/117/public/316), Dec. 27, 2022, [136 Stat. 4417](https://www.govinfo.gov/link/statute/136/4417).)*

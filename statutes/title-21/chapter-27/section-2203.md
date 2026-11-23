@@ -3,9 +3,10 @@ title: "Section 2203 - Food and Agriculture Coordinating Councils"
 usc_title: 21
 usc_section: "2203"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 2203"
-generated_at: "2026-03-30T02:54:54.309Z"
+generated_at: "2026-11-23T21:25:56.299Z"
+status: "active"
 ---
 
 # § 2203. Food and Agriculture Coordinating Councils
@@ -19,3 +20,7 @@ The Secretary of Homeland Security, in coordination with the Secretary of Health
     - **(A)** animal or plant disease outbreaks;
     - **(B)** food contamination; and
     - **(C)** natural disasters affecting agriculture and food.
+
+## Source Credit
+
+*([Pub. L. 111–353, title I, § 109](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3912](https://www.govinfo.gov/link/statute/124/3912).)*

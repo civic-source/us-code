@@ -3,9 +3,10 @@ title: "Section 7353 - Gifts to Federal employees"
 usc_title: 5
 usc_section: "7353"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 7353"
-generated_at: "2026-03-30T02:52:56.037Z"
+generated_at: "2026-11-23T21:25:23.340Z"
+status: "active"
 ---
 
 # § 7353. Gifts to Federal employees
@@ -29,3 +30,15 @@ generated_at: "2026-03-30T02:52:56.037Z"
     - **(D)** the Office of Government Ethics for all executive branch officers and employees; and
     - **(E)** in the case of legislative branch officers and employees other than those specified in subparagraphs (A) and (B), the committee referred to in either such subparagraph to which reports filed by such officers and employees under subchapter I of chapter 131 of this title are transmitted under such subchapter, except that the authority of this section may be delegated by such committee with respect to such officers and employees; and
   - **(2)** the term “officer or employee” means an individual holding an appointive or elective position in the executive, legislative, or judicial branch of Government, other than a Member of Congress.
+
+Definitions
+
+Gift
+
+Judicial officer
+
+Prohibition on Acceptance of Honorary Club Memberships
+
+## Source Credit
+
+*(Added [Pub. L. 101–194, title III, § 303(a)](https://www.govinfo.gov/link/plaw/101/public/194), Nov. 30, 1989, [103 Stat. 1746](https://www.govinfo.gov/link/statute/103/1746); amended [Pub. L. 101–280, § 4(d)](https://www.govinfo.gov/link/plaw/101/public/280), May 4, 1990, [104 Stat. 158](https://www.govinfo.gov/link/statute/104/158); [Pub. L. 107–347, title II, § 209(g)(1)(C)](https://www.govinfo.gov/link/plaw/107/public/347), Dec. 17, 2002, [116 Stat. 2932](https://www.govinfo.gov/link/statute/116/2932); [Pub. L. 117–286, § 4(c)(9)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4354](https://www.govinfo.gov/link/statute/136/4354).)*

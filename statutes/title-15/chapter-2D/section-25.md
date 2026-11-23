@@ -3,9 +3,10 @@ title: "Section 25 - Reorganization plans; reports by Commission"
 usc_title: 15
 usc_section: "25"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 25"
-generated_at: "2026-03-30T02:54:08.068Z"
+generated_at: "2026-11-23T21:25:39.590Z"
+status: "active"
 ---
 
 # § 80a–25. Reorganization plans; reports by Commission
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.068Z"
 - **(b)** The Commission is authorized, if so requested, prior to any solicitation of security holders with respect to any plan of reorganization, by any registered investment company which is, or any of the securities of which are, the subject of or is a participant in any such plan, or if so requested by the holders of 25 per centum of any class of its outstanding securities, to render an advisory report in respect of the fairness of any such plan and its effect upon any class or classes of security holders. In such event any registered investment company, in respect of which the Commission shall have rendered any such advisory report, shall mail promptly a copy of such advisory report to all its security holders affected by any such plan: Provided , That such advisory report shall have been received by it at least forty-eight hours (not including Sundays and holidays) before final action is taken in relation to such plan at any meeting of security holders called to act in relation thereto, or any adjournment of any such meeting, or if no meeting be called, then prior to the final date of acceptance of such plan by security holders. In respect of securities not registered as to ownership, in lieu of mailing a copy of such advisory report, such registered company shall publish promptly a statement of the existence of such advisory report in a newspaper of general circulation in its principal place of business and shall make available copies of such advisory report upon request. Notwithstanding the provision of this section the Commission shall not render such advisory report although so requested by any such investment company or such security holders if the fairness or feasibility of said plan is in issue in any proceeding pending in any court of competent jurisdiction unless such plan is submitted to the Commission for that purpose by such court.
 - **(c)** Any district court of the United States in the State of incorporation of a registered investment company, or any such court for the district in which such company maintains its principal place of business, is authorized to enjoin the consummation of any plan of reorganization of such registered investment company upon proceedings instituted by the Commission (which is authorized so to proceed upon behalf of security holders of such registered company, or any class thereof), if such court shall determine that any such plan is not fair and equitable to all security holders.
 - **(d)** Nothing contained in this section shall in any way affect or derogate from the powers of the courts of the United States and the Commission with reference to reorganizations contained in title 11.
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title I, § 25, [54 Stat. 826](https://www.govinfo.gov/link/statute/54/826); [Pub. L. 91–547, § 14](https://www.govinfo.gov/link/plaw/91/public/547), Dec. 14, 1970, [84 Stat. 1424](https://www.govinfo.gov/link/statute/84/1424); [Pub. L. 95–598, title III, § 310(c)](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2676](https://www.govinfo.gov/link/statute/92/2676).)*

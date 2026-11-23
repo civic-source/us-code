@@ -3,9 +3,10 @@ title: "Section 2213 - Reports"
 usc_title: 19
 usc_section: "2213"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2213"
-generated_at: "2026-03-30T02:54:24.666Z"
+generated_at: "2026-11-23T21:25:42.778Z"
+status: "active"
 ---
 
 # § 2213. Reports
@@ -72,3 +73,95 @@ generated_at: "2026-03-30T02:54:24.666Z"
     - **(C)** In this paragraph, the term “appropriate congressional committees” means—
       - **(i)** the Committee on Finance and the Committee on Appropriations of the Senate; and
       - **(ii)** the Committee on Ways and Means and the Committee on Appropriations of the House of Representatives.
+
+Short Title
+
+Findings
+
+Establishment of Commission.—
+
+Establishment
+
+Purpose
+
+Membership of commission.—
+
+Composition
+
+Qualifications of members.—
+
+Appointments
+
+Other considerations
+
+Period of appointment; vacancies.—
+
+In general
+
+Vacancies
+
+Initial meeting
+
+Meetings
+
+Chairperson and vice chairperson
+
+Quorum
+
+Voting
+
+Duties of the Commission.—
+
+In general
+
+Issues to be addressed
+
+Final Report.—
+
+In general
+
+Separate views
+
+Powers of Commission.—
+
+Hearings
+
+Information from federal agencies
+
+Postal services
+
+Commission Personnel Matters.—
+
+Compensation of members
+
+Travel expenses
+
+Staff.—
+
+In general
+
+Compensation
+
+Detail of government employees
+
+Procurement of temporary and intermittent services
+
+Applicability of certain pay authorities
+
+Support Services
+
+Appropriations
+
+Chapter
+
+of Title
+
+, United States Code
+
+Termination
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 93–618, title I, § 163](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 2009](https://www.govinfo.gov/link/statute/88/2009); [Pub. L. 100–418, title I, § 1641](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1271](https://www.govinfo.gov/link/statute/102/1271); [Pub. L. 114–125, title VI, § 604(c)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 186](https://www.govinfo.gov/link/statute/130/186).)*

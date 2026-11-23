@@ -3,9 +3,10 @@ title: "Section 3518 - Effect on existing laws and regulations"
 usc_title: 44
 usc_section: "3518"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 3518"
-generated_at: "2026-03-30T02:55:56.297Z"
+generated_at: "2026-11-23T21:26:18.433Z"
+status: "active"
 ---
 
 # § 3518. Effect on existing laws and regulations
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:56.297Z"
   - **(2)** This subchapter applies to the collection of information during the conduct of general investigations (other than information collected in an antitrust investigation to the extent provided in subparagraph (C) of paragraph (1)) undertaken with reference to a category of individuals or entities such as a class of licensees or an entire industry.
 - **(d)** Nothing in this subchapter shall be interpreted as increasing or decreasing the authority conferred by sections 11331 and 11332 1 1 See References in Text note below. of title 40 on the Secretary of Commerce or the Director of the Office of Management and Budget.
 - **(e)** Nothing in this subchapter shall be interpreted as increasing or decreasing the authority of the President, the Office of Management and Budget or the Director thereof, under the laws of the United States, with respect to the substantive policies and programs of departments, agencies and offices, including the substantive authority of any Federal agency to enforce the civil rights laws.
+
+## Source Credit
+
+*(Added [Pub. L. 104–13, § 2](https://www.govinfo.gov/link/plaw/104/public/13), May 22, 1995, [109 Stat. 183](https://www.govinfo.gov/link/statute/109/183); amended [Pub. L. 104–106, div. E, title LI, § 5131(e)(2)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 688](https://www.govinfo.gov/link/statute/110/688); [Pub. L. 105–85, div. A, title X, § 1073(h)(5)(C)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1907](https://www.govinfo.gov/link/statute/111/1907); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1064(b)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–275; [Pub. L. 107–217, § 3](https://www.govinfo.gov/link/plaw/107/public/217) (l)(7), Aug. 21, 2002, [116 Stat. 1302](https://www.govinfo.gov/link/statute/116/1302).)*

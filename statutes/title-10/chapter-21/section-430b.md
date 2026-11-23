@@ -3,9 +3,10 @@ title: "Section 430b - Executive agent for open-source intelligence tools"
 usc_title: 10
 usc_section: "430b"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 430b"
-generated_at: "2026-03-30T02:53:38.058Z"
+generated_at: "2026-11-23T21:25:32.267Z"
+status: "active"
 ---
 
 # § 430b. Executive agent for open-source intelligence tools
@@ -24,3 +25,15 @@ generated_at: "2026-03-30T02:53:38.058Z"
   - **(1)** The term “Directive 5101.1” means Department of Defense Directive 5101.1, or any successor directive relating to the responsibilities of an executive agent of the Department of Defense.
   - **(2)** The term “executive agent” has the meaning given the term “DoD Executive Agent” in Directive 5101.1.
   - **(3)** The term “open-source intelligence tools” means tools for the systematic collection, processing, and analysis of publicly available information for known or anticipated intelligence requirements.
+
+Designation
+
+Roles, Responsibilities, and Authorities
+
+Support Within Department of Defense
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 114–92, div. A, title XVI, § 1631(a)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1110](https://www.govinfo.gov/link/statute/129/1110).)*

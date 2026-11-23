@@ -3,9 +3,10 @@ title: "Section 11041 - Relationship to other law"
 usc_title: 42
 usc_section: "11041"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11041"
-generated_at: "2026-03-30T02:56:11.394Z"
+generated_at: "2026-11-23T21:26:33.395Z"
+status: "active"
 ---
 
 # § 11041. Relationship to other law
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.394Z"
   - **(2)** except as provided in subsection (b), otherwise affect any State or local law or the authority of any State or local government to adopt or enforce any State or local law, or
   - **(3)** affect or modify in any way the obligations or liabilities of any person under other Federal law.
 - **(b)** Any State or local law enacted after August 1, 1985 , which requires the submission of a material safety data sheet from facility owners or operators shall require that the data sheet be identical in content and format to the data sheet required under subsection (a) of section 11021 of this title . In addition, a State or locality may require the submission of information which is supplemental to the information required on the data sheet (including information on the location and quantity of hazardous chemicals present at the facility), through additional sheets attached to the data sheet or such other means as the State or locality considers appropriate.
+
+## Source Credit
+
+*([Pub. L. 99–499, title III, § 321](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1747](https://www.govinfo.gov/link/statute/100/1747).)*

@@ -3,9 +3,10 @@ title: "Section 580c - Purchases of experimental materials, special devices, tes
 usc_title: 16
 usc_section: "580c"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 580c"
-generated_at: "2026-03-30T02:54:22.879Z"
+generated_at: "2026-11-23T21:25:51.679Z"
+status: "active"
 ---
 
 # § 580c. Purchases of experimental materials, special devices, test models, etc.
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:22.879Z"
 - **(a)** for experimentation to determine their suitability for or adaptability to accomplishment of the work for which designed or
 - **(b)** in the designing or developing of new equipment: Provided , That not to exceed $50,000 may be expended in any one fiscal year pursuant to this authority and not to exceed $10,000 on any one item or purchase.
 
+
+## Source Credit
+
+*(Apr. 24, 1950, ch. 97, § 3, [64 Stat. 83](https://www.govinfo.gov/link/statute/64/83).)*

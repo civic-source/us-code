@@ -3,9 +3,10 @@ title: "Section 1377 - Collection of data on detained asylum seekers"
 usc_title: 8
 usc_section: "1377"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1377"
-generated_at: "2026-03-30T02:53:10.499Z"
+generated_at: "2026-11-23T21:25:25.189Z"
+status: "active"
 ---
 
 # § 1377. Collection of data on detained asylum seekers
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:10.499Z"
   - **(10)** A description of the disposition of cases.
 - **(b)** Beginning October 1, 1999 , and not later than October 1 of each year thereafter, the Attorney General shall submit to the Committee on the Judiciary of each House of Congress a report setting forth the data collected under subsection (a) for the fiscal year ending September 30 of that year.
 - **(c)** Copies of the data collected under subsection (a) shall be made available to members of the public upon request pursuant to such regulations as the Attorney General shall prescribe.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. A, § 101(h) [title IX, § 903]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–480](https://www.govinfo.gov/link/statute/112/2681), 2681–541.)*

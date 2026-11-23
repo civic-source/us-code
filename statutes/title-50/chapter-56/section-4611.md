@@ -3,9 +3,10 @@ title: "Section 4611 - Multilateral export control violations"
 usc_title: 50
 usc_section: "4611"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4611"
-generated_at: "2026-03-30T02:56:26.282Z"
+generated_at: "2026-11-23T21:26:39.116Z"
+status: "active"
 ---
 
 # § 4611. Multilateral export control violations
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:56:26.282Z"
   - **(1)** In any case in which the President makes a determination under subsection (a), the Secretary of Defense shall determine the costs of restoring the military preparedness of the United States on account of the violation involved. The Secretary of Defense shall notify the Attorney General of his determination, and the Attorney General may bring an action for damages, in any appropriate district court of the United States, to recover such costs against the person who committed the violation, any person that is owned or controlled by the person who committed the violation, and any person who owns and controls the person who committed the violation.
   - **(3)** 2 2 So in original. Subsec. (k) was enacted without a par. (2). The total amount awarded in any case brought under paragraph (2) 2 shall be determined by the court in light of the facts and circumstances, but shall not exceed the amount of the net loss to the national security of the United States. An action under this subsection shall be commenced not later than 3 years after the violation occurs, or one year after the violation is discovered, whichever is later.
 - **(l)** For purposes of this section, the term “foreign person” means any person other than a United States person.
+
+## Source Credit
+
+*([Pub. L. 96–72, § 11A](https://www.govinfo.gov/link/plaw/96/public/72), as added [Pub. L. 100–418, title II, § 2444](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1366](https://www.govinfo.gov/link/statute/102/1366).)*

@@ -3,9 +3,10 @@ title: "Section 1781 - Insurance of member accounts"
 usc_title: 12
 usc_section: "1781"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1781"
-generated_at: "2026-03-30T02:53:53.436Z"
+generated_at: "2026-11-23T21:25:36.940Z"
+status: "active"
 ---
 
 # § 1781. Insurance of member accounts
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:53.436Z"
   - **(2)** Paragraph (1) shall not apply with respect to advances or other forms of financial assistance generally provided by a Government-sponsored enterprise in the ordinary course of business of the enterprise.
   - **(3)** For purposes of this subsection, the term “Government-sponsored enterprise” has the meaning given to such term in section 1404(e)(1)(A) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989.
   - **(4)** No provision of this subsection shall be construed as prohibiting any employee of a Government-sponsored enterprise from becoming a member of a credit union whose field of membership is the employees of such enterprise.
+
+## Source Credit
+
+*(June 26, 1934, ch. 750, title II, § 201, as added [Pub. L. 91–468, § 1(3)](https://www.govinfo.gov/link/plaw/91/public/468), Oct. 19, 1970, [84 Stat. 994](https://www.govinfo.gov/link/statute/84/994); amended [Pub. L. 92–221](https://www.govinfo.gov/link/plaw/92/public/221), §§ 1, 2, Dec. 23, 1971, [85 Stat. 796](https://www.govinfo.gov/link/statute/85/796), 797; [Pub. L. 95–22, title III, § 301](https://www.govinfo.gov/link/plaw/95/public/22), Apr. 19, 1977, [91 Stat. 49](https://www.govinfo.gov/link/statute/91/49); [Pub. L. 95–630, title V](https://www.govinfo.gov/link/plaw/95/public/630), §§ 502(b), 504, Nov. 10, 1978, [92 Stat. 3681](https://www.govinfo.gov/link/statute/92/3681), 3682; [Pub. L. 98–369, div. B, title VIII, § 2801](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1203](https://www.govinfo.gov/link/statute/98/1203); [Pub. L. 104–208, div. A, title II, § 2615(a)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–478](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 109–351, title VII, § 726(11)](https://www.govinfo.gov/link/plaw/109/public/351), Oct. 13, 2006, [120 Stat. 2002](https://www.govinfo.gov/link/statute/120/2002).)*

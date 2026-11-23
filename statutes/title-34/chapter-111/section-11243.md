@@ -3,9 +3,10 @@ title: "Section 11243 - Authority to make grants for research, evaluation, demon
 usc_title: 34
 usc_section: "11243"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 11243"
-generated_at: "2026-03-30T02:55:33.279Z"
+generated_at: "2026-11-23T21:26:09.707Z"
+status: "active"
 ---
 
 # § 11243. Authority to make grants for research, evaluation, demonstration, and service projects
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:33.279Z"
   - **(2)** ensure that the applicants selected—
     - **(A)** represent diverse geographic regions of the United States; and
     - **(B)** carry out projects that serve diverse populations of runaway or homeless youth.
+
+## Source Credit
+
+*([Pub. L. 93–415, title III, § 343](https://www.govinfo.gov/link/plaw/93/public/415), as added [Pub. L. 102–586, § 3(g)(1)(C)](https://www.govinfo.gov/link/plaw/102/public/586), Nov. 4, 1992, [106 Stat. 5023](https://www.govinfo.gov/link/statute/106/5023); amended [Pub. L. 106–71, § 3(h)](https://www.govinfo.gov/link/plaw/106/public/71), Oct. 12, 1999, [113 Stat. 1038](https://www.govinfo.gov/link/statute/113/1038); [Pub. L. 108–96, title I, § 113](https://www.govinfo.gov/link/plaw/108/public/96), Oct. 10, 2003, [117 Stat. 1170](https://www.govinfo.gov/link/statute/117/1170); [Pub. L. 110–378, § 5](https://www.govinfo.gov/link/plaw/110/public/378), Oct. 8, 2008, [122 Stat. 4069](https://www.govinfo.gov/link/statute/122/4069); [Pub. L. 114–22, title II, § 201(1)](https://www.govinfo.gov/link/plaw/114/public/22), May 29, 2015, [129 Stat. 248](https://www.govinfo.gov/link/statute/129/248).)*

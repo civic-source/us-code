@@ -3,9 +3,10 @@ title: "Section 1141j - Miscellaneous provisions"
 usc_title: 12
 usc_section: "1141j"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1141j"
-generated_at: "2026-03-30T02:53:53.389Z"
+generated_at: "2026-11-23T21:25:36.817Z"
+status: "active"
 ---
 
 # § 1141j. Miscellaneous provisions
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:53.389Z"
 - **(d)** If any provision of this chapter is declared unconstitutional, or the applicability thereof to any person, circumstance, commodity, or class of transactions with respect to any commodity is held invalid, the validity of the remainder of the chapter and the applicability of such provision to other persons, circumstances, commodities, and classes of transactions shall not be affected thereby.
 - **(e)** This chapter may be cited as the “Agricultural Marketing Act.”
 - **(f)** As used in this chapter, the term “agricultural commodity” includes, in addition to other agricultural commodities, crude gum (oleoresin) from a living tree, and the following products as processed by the original producer of the crude gum (oleoresin) from which derived: Gum spirits of turpentine and gum rosin, as defined in section 92 of title 7 .
+
+## Source Credit
+
+*(June 15, 1929, ch. 24, § 15, [46 Stat. 18](https://www.govinfo.gov/link/statute/46/18); Mar. 4, 1931, ch. 520, § 3, [46 Stat. 1550](https://www.govinfo.gov/link/statute/46/1550); Ex. Ord. No. 6084, Mar. 27, 1933; June 16, 1933, ch. 98, title V, § 55, [48 Stat. 266](https://www.govinfo.gov/link/statute/48/266); June 3, 1935, ch. 164, § 12, [49 Stat. 317](https://www.govinfo.gov/link/statute/49/317); [Pub. L. 110–234, title I, § 1610](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1018](https://www.govinfo.gov/link/statute/122/1018); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1610, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1746.)*

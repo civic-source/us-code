@@ -3,9 +3,10 @@ title: "Section 5323 - Retention of Federal employee coverage, rights and benefi
 usc_title: 25
 usc_section: "5323"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5323"
-generated_at: "2026-03-30T02:54:52.865Z"
+generated_at: "2026-11-23T21:25:54.723Z"
+status: "active"
 ---
 
 # § 5323. Retention of Federal employee coverage, rights and benefits by employees of tribal organizations
@@ -27,3 +28,13 @@ generated_at: "2026-03-30T02:54:52.865Z"
   - **(2)** a former officer or employee of the United States who is carrying out official duties as an employee or as an elected or appointed official of a tribal organization (as defined in section 5304( l ) of this title) or inter-tribal consortium (as defined in section 5381 of this title ) may act as agent or attorney for, and appear on behalf of, such tribal organization or intra-tribal consortium in connection with any matter related to a tribal governmental activity or Federal Indian program or service pending before any department, agency, court, or commission, including any matter in which the United States is a party or has a direct and substantial interest: Provided , That such former officer or employee must advise in writing the head of the department, agency, court, or commission with which the former officer or employee is dealing or appearing on behalf of the tribal organization or inter-tribal consortium of any personal and substantial involvement that he or she may have had as an officer or employee of the United States in connection with the matter involved.
 - **(k)**
 - **(m)** The status of an Indian (as defined in section 5129 of this title ) appointed (except temporary appointments) to the Federal service under an excepted appointment under the authority of section 5116 of this title , or any other provision of law granting a preference to Indians in personnel actions, shall be converted to a career appointment in the competitive service after three years of continuous service and satisfactory performance. The conversion shall not alter the Indian’s eligibility for preference in personnel actions.
+
+Section
+
+Sec
+
+Sec
+
+## Source Credit
+
+*([Pub. L. 93–638, title I, § 104](https://www.govinfo.gov/link/plaw/93/public/638), formerly § 105, Jan. 4, 1975, [88 Stat. 2208](https://www.govinfo.gov/link/statute/88/2208); [Pub. L. 89–702, title II, § 210(a)](https://www.govinfo.gov/link/plaw/89/public/702), as added [Pub. L. 98–129, § 2](https://www.govinfo.gov/link/plaw/98/public/129), Oct. 14, 1983, [97 Stat. 843](https://www.govinfo.gov/link/statute/97/843); [Pub. L. 99–221, § 3(a)](https://www.govinfo.gov/link/plaw/99/public/221), Dec. 26, 1985, [99 Stat. 1735](https://www.govinfo.gov/link/statute/99/1735); renumbered § 104 and amended [Pub. L. 100–472, title II, § 203](https://www.govinfo.gov/link/plaw/100/public/472), Oct. 5, 1988, [102 Stat. 2290](https://www.govinfo.gov/link/statute/102/2290); [Pub. L. 101–301, § 2(a)(6)](https://www.govinfo.gov/link/plaw/101/public/301), May 24, 1990, [104 Stat. 206](https://www.govinfo.gov/link/statute/104/206); [Pub. L. 110–81, title I, § 104(b)](https://www.govinfo.gov/link/plaw/110/public/81), Sept. 14, 2007, [121 Stat. 740](https://www.govinfo.gov/link/statute/121/740).)*

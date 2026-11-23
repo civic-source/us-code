@@ -3,9 +3,10 @@ title: "Section 8137 - Compensation for noncitizens and nonresidents"
 usc_title: 5
 usc_section: "8137"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8137"
-generated_at: "2026-03-30T02:52:56.042Z"
+generated_at: "2026-11-23T21:25:23.357Z"
+status: "active"
 ---
 
 # § 8137. Compensation for noncitizens and nonresidents
@@ -24,3 +25,20 @@ generated_at: "2026-03-30T02:52:56.042Z"
   - **(1)** conditions prevent the establishment of facilities for processing and adjudicating claims under this section; or
   - **(2)** claimants under this section are alien enemies.
 - **(e)** The Secretary may apply this section retrospectively with adjustment of compensation and benefits as he considers necessary and proper.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 793 (5th par., less penultimate sentence). | July 28, 1945, ch. 328, § 4 (less penultimate sentence), 59 Stat. 503 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 793
+
+July 28, 1945, ch. 328, § 4
+
+59 Stat. 503
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 549](https://www.govinfo.gov/link/statute/80/549).)*

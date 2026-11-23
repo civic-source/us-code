@@ -3,9 +3,10 @@ title: "Section 18041 - State flexibility in operation and enforcement of Exchan
 usc_title: 42
 usc_section: "18041"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18041"
-generated_at: "2026-03-30T02:56:11.513Z"
+generated_at: "2026-11-23T21:26:33.808Z"
+status: "active"
 ---
 
 # § 18041. State flexibility in operation and enforcement of Exchanges and related requirements
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:11.513Z"
 - **(e)**
   - **(1)** In the case of a State operating an Exchange before January 1, 2010 , and which has insured a percentage of its population not less than the percentage of the population projected to be covered nationally after the implementation of this Act, that seeks to operate an Exchange under this section, the Secretary shall presume that such Exchange meets the standards under this section unless the Secretary determines, after completion of the process established under paragraph (2), that the Exchange does not comply with such standards.
   - **(2)** The Secretary shall establish a process to work with a State described in paragraph (1) to provide assistance necessary to assist the State’s Exchange in coming into compliance with the standards for approval under this section.
+
+## Source Credit
+
+*([Pub. L. 111–148, title I, § 1321](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 186](https://www.govinfo.gov/link/statute/124/186).)*

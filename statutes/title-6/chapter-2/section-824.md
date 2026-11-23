@@ -3,9 +3,10 @@ title: "Section 824 - Enhanced catastrophic incident annex"
 usc_title: 6
 usc_section: "824"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 824"
-generated_at: "2026-03-30T02:53:09.501Z"
+generated_at: "2026-11-23T21:25:25.851Z"
+status: "active"
 ---
 
 # § 824. Enhanced catastrophic incident annex
@@ -43,3 +44,11 @@ generated_at: "2026-03-30T02:53:09.501Z"
   - **(3)** State, local, Indian Tribal, and territorial governments have been equally affected or made largely inoperable by catastrophic incidents or the effects of catastrophic incidents;
   - **(4)** the emergency has exceeded the response capabilities of State, local, and Indian Tribal governments under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.) and other relevant disaster response laws; and
   - **(5)** the United States military is sufficiently engaged in armed or cyber conflict with State or non-State adversaries, or is otherwise unable to augment domestic response capabilities in a significant manner due to a catastrophic incident.
+
+In General
+
+Inclusion in Reports
+
+## Source Credit
+
+*([Pub. L. 117–263, div. G, title LXXIII, § 7305](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3687](https://www.govinfo.gov/link/statute/136/3687).)*

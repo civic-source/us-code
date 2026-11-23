@@ -3,9 +3,10 @@ title: "Section 51707 - Merchant mariner recruitment, training, and retention st
 usc_title: 46
 usc_section: "51707"
 chapter: 517
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 51707"
-generated_at: "2026-03-30T02:56:15.572Z"
+generated_at: "2026-11-23T21:26:37.244Z"
+status: "active"
 ---
 
 # § 51707. Merchant mariner recruitment, training, and retention strategic plan
@@ -21,3 +22,21 @@ generated_at: "2026-03-30T02:56:15.572Z"
   - **(4)** In developing a plan under paragraph (1), the Secretary shall consult with representatives of the maritime industry, labor organizations, including the Commander of the Transportation Command and the Commander of the Military Sealift Command, and other governmental entities and stakeholders in the maritime industry.
   - **(5)** The Secretary shall transmit copies of any plan published under paragraph (1) to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
   - **(6)** The requirement to publish a plan under this paragraph shall terminate on the date that the Administrator of the Maritime Administration determines that there is an adequate number of United States mariners for sustained strategic sealift.
+
+Strategic Plan.—
+
+In general
+
+Contents
+
+Factors
+
+Consultation
+
+Transmittal to congress
+
+Termination date
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. C, title XXXV, § 3508(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4405](https://www.govinfo.gov/link/statute/134/4405).)*

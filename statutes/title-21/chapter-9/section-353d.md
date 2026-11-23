@@ -3,9 +3,10 @@ title: "Section 353d - Process to update labeling for certain generic drugs"
 usc_title: 21
 usc_section: "353d"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 353d"
-generated_at: "2026-03-30T02:54:54.232Z"
+generated_at: "2026-11-23T21:25:56.020Z"
+status: "active"
 ---
 
 # § 353d. Process to update labeling for certain generic drugs
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:54:54.232Z"
     - **(A)** the number of covered drugs and description of the types of drugs the Secretary has selected for labeling changes and the rationale for such recommended changes; and
     - **(B)** the number of times the Secretary entered into discussions concerning a disagreement with an application holder or holders and a summary of the decision regarding a labeling change, if any; and
   - **(2)** includes any recommendations of the Secretary for modifying the program under this section.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 503D, as added [Pub. L. 116–260, div. BB, title III, § 324](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2933](https://www.govinfo.gov/link/statute/134/2933).)*

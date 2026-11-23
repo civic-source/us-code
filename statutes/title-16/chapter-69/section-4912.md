@@ -3,9 +3,10 @@ title: "Section 4912 - Penalties and regulations"
 usc_title: 16
 usc_section: "4912"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4912"
-generated_at: "2026-03-30T02:54:23.049Z"
+generated_at: "2026-11-23T21:25:52.025Z"
+status: "active"
 ---
 
 # § 4912. Penalties and regulations
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:23.049Z"
 - **(c)** The importation of an exotic bird is deemed to be transportation of wildlife for purposes of section 3(a) of the Lacey Act Amendments of 1981 ( 16 U.S.C. 3372(a) ).
 - **(d)** The Secretary shall prescribe regulations that are necessary and appropriate to carry out the purposes of this chapter.
 - **(e)** The authority of the Secretary under this chapter is in addition to and shall not affect the authority of the Secretary under the Endangered Species Act of 1973 ( 16 U.S.C. 1531 et seq.) or diminish the authority of the Secretary under the Lacey Act Amendments of 1981 ( 16 U.S.C. 3371 et seq.). Nothing in this chapter shall be construed as repealing, superseding, or modifying any provision of Federal law.
+
+## Source Credit
+
+*([Pub. L. 102–440, title I, § 113](https://www.govinfo.gov/link/plaw/102/public/440), Oct. 23, 1992, [106 Stat. 2231](https://www.govinfo.gov/link/statute/106/2231).)*

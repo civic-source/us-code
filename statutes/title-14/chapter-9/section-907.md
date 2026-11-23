@@ -3,9 +3,10 @@ title: "Section 907 - Long-term lease of special purpose facilities"
 usc_title: 14
 usc_section: "907"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 907"
-generated_at: "2026-03-30T02:53:51.491Z"
+generated_at: "2026-11-23T21:25:35.386Z"
+status: "active"
 ---
 
 # § 907. Long-term lease of special purpose facilities
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:51.491Z"
   - **(1)** the use of such a lease agreement will promote the efficiency of the ATON, VTS, or NDS programs and will result in reduced total costs under the agreement;
   - **(2)** the minimum need for the real property or interest therein to be leased is expected to remain substantially unchanged during the contemplated lease period; and
   - **(3)** the estimates of both the cost of the lease and the anticipated cost avoidance through the use of a multiyear lease are realistic.
+
+## Source Credit
+
+*(Added [Pub. L. 103–206, title III, § 304(a)](https://www.govinfo.gov/link/plaw/103/public/206), Dec. 20, 1993, [107 Stat. 2424](https://www.govinfo.gov/link/statute/107/2424), § 672; amended [Pub. L. 104–324, title VII, § 746(d)](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3943](https://www.govinfo.gov/link/statute/110/3943); [Pub. L. 108–293, title II, § 212(a)](https://www.govinfo.gov/link/plaw/108/public/293), Aug. 9, 2004, [118 Stat. 1036](https://www.govinfo.gov/link/statute/118/1036); renumbered § 907, [Pub. L. 115–282, title I, § 107(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4205](https://www.govinfo.gov/link/statute/132/4205).)*

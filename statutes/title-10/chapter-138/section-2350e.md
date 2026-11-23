@@ -3,9 +3,10 @@ title: "Section 2350e - NATO Airborne Warning and Control System (AWACS) program
 usc_title: 10
 usc_section: "2350e"
 chapter: 138
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2350e"
-generated_at: "2026-03-30T02:53:38.156Z"
+generated_at: "2026-11-23T21:25:32.603Z"
+status: "active"
 ---
 
 # § 2350e. NATO Airborne Warning and Control System (AWACS) program: authority of Secretary of Defense
@@ -31,3 +32,15 @@ generated_at: "2026-03-30T02:53:38.156Z"
   - **(2)** the Memorandum of Understanding for Operations and Support of the NATO Airborne Early Warning and Control Force, signed by the United States Ambassador to NATO on September 26, 1984 ;
   - **(3)** the Addendum to the Multilateral Memorandum of Understanding Between the North Atlantic Treaty Organization (NATO) Ministers of Defence on the NATO E–3A Cooperative Programme (dated December 6, 1978 ) relating to the modernization of the NATO Airborne Early Warning and Control (NAEW&C) System, dated December 7, 1990 ; and
   - **(4)** any other follow-on support agreement for the NATO E–3A Cooperative Programme.
+
+Authority Under AWACS Program
+
+Contract Authority Limitation
+
+Definition
+
+Expiration
+
+## Source Credit
+
+*(Added [Pub. L. 101–189, div. A, title IX, § 932(a)(1)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1536](https://www.govinfo.gov/link/statute/103/1536); amended [Pub. L. 102–190, div. A, title X, § 1051](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1470](https://www.govinfo.gov/link/statute/105/1470); [Pub. L. 103–160, div. A, title XIV, § 1413](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1829](https://www.govinfo.gov/link/statute/107/1829).)*

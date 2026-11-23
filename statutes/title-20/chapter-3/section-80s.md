@@ -3,9 +3,10 @@ title: "Section 80s - Findings; purpose"
 usc_title: 20
 usc_section: "80s"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 80s"
-generated_at: "2026-03-30T02:54:48.080Z"
+generated_at: "2026-11-23T21:25:46.939Z"
+status: "active"
 ---
 
 # § 80s. Findings; purpose
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:48.080Z"
   - **(5)** It is in the Nation’s interest to undertake a project to collect oral histories of individuals from the Civil Rights movement so future generations will be able to learn of their struggle and sacrifice through primary-source, eyewitness material. A coordinated Federal project would also focus attention on the efforts undertaken by various public and private entities to collect and interpret articles in all formats relating to the Civil Rights movement, and serve as a model for future projects undertaken in museums, libraries, and universities throughout the Nation.
   - **(6)** The Library of Congress and the Smithsonian Institution are appropriate repositories to collect, preserve, and make available to the public a collection of these oral histories. The Library and Smithsonian have expertise in the management of documentation projects, and experience in the development of cultural and educational programs for the public.
 - **(b)** It is the purpose of this subchapter to create a new federally sponsored, authorized, and funded project that will coordinate at a national level the collection of video and audio recordings of personal histories and testimonials of individuals who participated in the American Civil Rights movement that will build upon and complement previous and ongoing documentary work on this subject, and to assist and encourage local efforts to preserve the memories of such individuals so that Americans of all current and future generations may hear from them directly and better appreciate the sacrifices they made.
+
+## Source Credit
+
+*([Pub. L. 111–19, § 2](https://www.govinfo.gov/link/plaw/111/public/19), May 12, 2009, [123 Stat. 1612](https://www.govinfo.gov/link/statute/123/1612).)*

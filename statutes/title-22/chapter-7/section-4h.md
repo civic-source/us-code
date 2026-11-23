@@ -3,9 +3,10 @@ title: "Section 4h - Discussions to increase productive economic participation o
 usc_title: 22
 usc_section: "4h"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4h"
-generated_at: "2026-03-30T02:55:05.307Z"
+generated_at: "2026-11-23T21:25:58.326Z"
+status: "active"
 ---
 
 # § 262p–4h. Discussions to increase productive economic participation of poor; reports
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:05.307Z"
   - **(1)** The status of advocacy and progress being made to implement the objectives of subsection (a), describing the success to date, the obstacles encountered, and future expectations of progress.
   - **(2)** A description of the progress to date in achieving the purposes of section 262p–4f of this title , including the institutional capacity and effort devoted to assisting in the development of statistical measures to assess the well-being of the poor.
   - **(3)** A description and evaluation of the progress to date in developing effective mechanisms for involving non-governmental organizations, directly or indirectly, in the design, implementation, and monitoring of development projects, programs, and policies of the multilateral development banks.
+
+## Source Credit
+
+*([Pub. L. 95–118, title XVI, § 1613](https://www.govinfo.gov/link/plaw/95/public/118), as added [Pub. L. 101–240, title V, § 501](https://www.govinfo.gov/link/plaw/101/public/240), Dec. 19, 1989, [103 Stat. 2505](https://www.govinfo.gov/link/statute/103/2505).)*

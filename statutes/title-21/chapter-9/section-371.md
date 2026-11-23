@@ -3,9 +3,10 @@ title: "Section 371 - Regulations and hearings"
 usc_title: 21
 usc_section: "371"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 371"
-generated_at: "2026-03-30T02:54:54.263Z"
+generated_at: "2026-11-23T21:25:56.126Z"
+status: "active"
 ---
 
 # § 371. Regulations and hearings
@@ -38,3 +39,15 @@ generated_at: "2026-03-30T02:54:54.263Z"
   - **(3)** The Secretary, acting through the Commissioner, shall maintain electronically and update and publish periodically in the Federal Register a list of guidance documents. All such documents shall be made available to the public.
   - **(4)** The Secretary shall ensure that an effective appeals mechanism is in place to address complaints that the Food and Drug Administration is not developing and using guidance documents in accordance with this subsection.
   - **(5)** Not later than July 1, 2000 , the Secretary after evaluating the effectiveness of the Good Guidance Practices document, published in the Federal Register at 62 Fed. Reg. 8961, shall promulgate a regulation consistent with this subsection specifying the policies and procedures of the Food and Drug Administration for the development, issuance, and use of guidance documents.
+
+Standards
+
+Guidance to Industry
+
+Responsibilities of Centers
+
+Collaboration
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 701, [52 Stat. 1055](https://www.govinfo.gov/link/statute/52/1055); June 25, 1948, ch. 646, § 32, [62 Stat. 991](https://www.govinfo.gov/link/statute/62/991); Apr. 15, 1954, ch. 143, § 2, [68 Stat. 55](https://www.govinfo.gov/link/statute/68/55); Aug. 1, 1956, ch. 861, § 2, [70 Stat. 919](https://www.govinfo.gov/link/statute/70/919); [Pub. L. 85–791, § 21](https://www.govinfo.gov/link/plaw/85/public/791), Aug. 28, 1958, [72 Stat. 948](https://www.govinfo.gov/link/statute/72/948); [Pub. L. 86–618, title I, § 103(a)(4)](https://www.govinfo.gov/link/plaw/86/public/618), July 12, 1960, [74 Stat. 398](https://www.govinfo.gov/link/statute/74/398); [Pub. L. 101–535, § 8](https://www.govinfo.gov/link/plaw/101/public/535), Nov. 8, 1990, [104 Stat. 2365](https://www.govinfo.gov/link/statute/104/2365); [Pub. L. 102–300, § 6(b)(1)](https://www.govinfo.gov/link/plaw/102/public/300), June 16, 1992, [106 Stat. 240](https://www.govinfo.gov/link/statute/106/240); [Pub. L. 103–80](https://www.govinfo.gov/link/plaw/103/public/80), §§ 3(y), (dd)(1), 4(c), Aug. 13, 1993, [107 Stat. 778](https://www.govinfo.gov/link/statute/107/778), 779; [Pub. L. 103–396, § 3(b)](https://www.govinfo.gov/link/plaw/103/public/396), Oct. 22, 1994, [108 Stat. 4155](https://www.govinfo.gov/link/statute/108/4155); [Pub. L. 105–115, title IV, § 405](https://www.govinfo.gov/link/plaw/105/public/115), Nov. 21, 1997, [111 Stat. 2368](https://www.govinfo.gov/link/statute/111/2368); [Pub. L. 112–144, title VI, § 619](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 1063](https://www.govinfo.gov/link/statute/126/1063).)*

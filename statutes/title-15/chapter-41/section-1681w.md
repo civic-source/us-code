@@ -3,9 +3,10 @@ title: "Section 1681w - Disposal of records"
 usc_title: 15
 usc_section: "1681w"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1681w"
-generated_at: "2026-03-30T02:54:08.154Z"
+generated_at: "2026-11-23T21:25:39.881Z"
+status: "active"
 ---
 
 # § 1681w. Disposal of records
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.154Z"
 - **(b)** Nothing in this section shall be construed—
   - **(1)** to require a person to maintain or destroy any record pertaining to a consumer that is not imposed under other law; or
   - **(2)** to alter or affect any requirement imposed under any other provision of law to maintain or destroy such a record.
+
+## Source Credit
+
+*([Pub. L. 90–321, title VI, § 628](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 108–159, title II, § 216(a)](https://www.govinfo.gov/link/plaw/108/public/159), Dec. 4, 2003, [117 Stat. 1985](https://www.govinfo.gov/link/statute/117/1985); amended [Pub. L. 111–203, title X, § 1088(a)(12)](https://www.govinfo.gov/link/plaw/111/public/203), (13), July 21, 2010, [124 Stat. 2091](https://www.govinfo.gov/link/statute/124/2091), 2092.)*

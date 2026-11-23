@@ -3,9 +3,10 @@ title: "Section 4131 - Definitions and applicability"
 usc_title: 22
 usc_section: "4131"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4131"
-generated_at: "2026-03-30T02:55:05.408Z"
+generated_at: "2026-11-23T21:25:58.629Z"
+status: "active"
 ---
 
 # § 4131. Definitions and applicability
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:05.408Z"
   - **(3)** the expiration of a limited appointment, the termination of a limited appointment under section 4011 of this title , or the denial of a limited career extension or of a renewal of a limited career extension under section 4007(b) of this title ; or
   - **(4)** any complaint or appeal where a specific statutory hearing procedure exists, except as provided in section 4139(a)(2) of this title .
 - **(c)** This subchapter applies only with respect to the Department of State, Broadcasting 1 1 So in original. Probably should be “the Broadcasting”. Board of Governors, the Agency for International Development, the Department of Agriculture, and the Department of Commerce.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 1101](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2142](https://www.govinfo.gov/link/statute/94/2142); [Pub. L. 97–241, title III, § 303(b)](https://www.govinfo.gov/link/plaw/97/public/241), Aug. 24, 1982, [96 Stat. 291](https://www.govinfo.gov/link/statute/96/291); [Pub. L. 102–138, title I, § 153(a)](https://www.govinfo.gov/link/plaw/102/public/138), Oct. 28, 1991, [105 Stat. 673](https://www.govinfo.gov/link/statute/105/673); [Pub. L. 103–236, title I](https://www.govinfo.gov/link/plaw/103/public/236), §§ 180(a)(10), 181(a)(4)(A), Apr. 30, 1994, [108 Stat. 416](https://www.govinfo.gov/link/statute/108/416), 417; [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XIII, § 1335(k)(4), title XIV, § 1422(b)(4)(D), Oct. 21, 1998, [112 Stat. 2681–789](https://www.govinfo.gov/link/statute/112/2681), 2681–793.)*

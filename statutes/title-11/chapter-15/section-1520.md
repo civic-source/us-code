@@ -3,9 +3,10 @@ title: "Section 1520 - Effects of recognition of a foreign main proceeding"
 usc_title: 11
 usc_section: "1520"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1520"
-generated_at: "2026-03-30T02:53:53.888Z"
+generated_at: "2026-11-23T21:25:34.978Z"
+status: "active"
 ---
 
 # § 1520. Effects of recognition of a foreign main proceeding
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:53.888Z"
   - **(4)** section 552 applies to property of the debtor that is within the territorial jurisdiction of the United States.
 - **(b)** Subsection (a) does not affect the right to commence an individual action or proceeding in a foreign country to the extent necessary to preserve a claim against the debtor.
 - **(c)** Subsection (a) does not affect the right of a foreign representative or an entity to file a petition commencing a case under this title or the right of any party to file claims or take other proper actions in such a case.
+
+## Source Credit
+
+*(Added [Pub. L. 109–8, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 141](https://www.govinfo.gov/link/statute/119/141).)*

@@ -3,9 +3,10 @@ title: "Section 6050Y - Returns relating to certain life insurance contract tran
 usc_title: 26
 usc_section: "6050Y"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6050Y"
-generated_at: "2026-03-30T02:55:27.836Z"
+generated_at: "2026-11-23T21:26:06.785Z"
+status: "active"
 ---
 
 # § 6050Y. Returns relating to certain life insurance contract transactions
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:55:27.836Z"
   - **(2)** The term “reportable policy sale” has the meaning given such term in section 101(a)(3)(B).
   - **(3)** The term “issuer” means any life insurance company that bears the risk with respect to a life insurance contract on the date any return or statement is required to be made under this section.
   - **(4)** The term “reportable death benefits” means amounts paid by reason of the death of the insured under a life insurance contract that has been transferred in a reportable policy sale.
+
+## Source Credit
+
+*(Added [Pub. L. 115–97, title I, § 13520(a)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2149](https://www.govinfo.gov/link/statute/131/2149).)*

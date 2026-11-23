@@ -3,9 +3,10 @@ title: "Section 9502 - Minority Business Development Agency"
 usc_title: 15
 usc_section: "9502"
 chapter: 120
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9502"
-generated_at: "2026-03-30T02:54:08.248Z"
+generated_at: "2026-11-23T21:25:40.147Z"
+status: "active"
 ---
 
 # § 9502. Minority Business Development Agency
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:08.248Z"
       - **(iii)** being aware of business retention or expansion programs that are specific to that region;
       - **(iv)** seeking out opportunities to collaborate with regional public and private programs that focus on minority business enterprises; and
       - **(v)** promoting business continuity and preparedness.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. K, § 100003](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1448](https://www.govinfo.gov/link/statute/135/1448).)*

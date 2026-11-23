@@ -3,9 +3,10 @@ title: "Section 499b - Participation in United States Strategic Command strategi
 usc_title: 10
 usc_section: "499b"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 499b"
-generated_at: "2026-03-30T02:53:38.063Z"
+generated_at: "2026-11-23T21:25:32.275Z"
+status: "active"
 ---
 
 # § 499b. Participation in United States Strategic Command strategic deterrence exercises
@@ -32,3 +33,13 @@ generated_at: "2026-03-30T02:53:38.063Z"
   - **(2)** Not later than 60 days after the completion of an annual strategic deterrence exercise described in subsection (a), the Secretary shall submit to the congressional defense committees—
     - **(A)** an unedited copy of the report of the Commander submitted under paragraph (1); and
     - **(B)** any additional recommendations or other matters the Secretary considers appropriate.
+
+Participation
+
+Briefing
+
+Reports
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. A, title XVI, § 1631](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2089](https://www.govinfo.gov/link/statute/135/2089).)*

@@ -3,9 +3,10 @@ title: "Section 2008v - Strategic economic and community development"
 usc_title: 7
 usc_section: "2008v"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2008v"
-generated_at: "2026-03-30T02:53:42.357Z"
+generated_at: "2026-11-23T21:25:28.231Z"
+status: "active"
 ---
 
 # § 2008v. Strategic economic and community development
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:53:42.357Z"
     - **(G)** any other elements necessary to ensure that the plan results in a comprehensive and strategic approach to rural economic development, as determined by the Secretary.
   - **(3)** The Secretary shall coordinate with Indian Tribes and local, State, regional, and Federal partners to develop strategic community investment plans under this subsection.
   - **(4)** There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2019 through 2023, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 379H](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 113–79, title VI, § 6025](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 848](https://www.govinfo.gov/link/statute/128/848); amended [Pub. L. 115–334, title VI, § 6401](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4756](https://www.govinfo.gov/link/statute/132/4756).)*

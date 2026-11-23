@@ -3,9 +3,10 @@ title: "Section 3c - National assistance program for water infrastructure and wa
 usc_title: 42
 usc_section: "3c"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3c"
-generated_at: "2026-03-30T02:56:10.801Z"
+generated_at: "2026-11-23T21:26:30.744Z"
+status: "active"
 ---
 
 # § 300j–3c. National assistance program for water infrastructure and watersheds
@@ -21,3 +22,25 @@ generated_at: "2026-03-30T02:56:10.801Z"
 - **(g)** In this section, the following definitions apply:
   - **(1)** The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
   - **(2)** The term “water supply system” means a system for the provision to the public of piped water for human consumption if such system has at least 15 service connections or regularly serves at least 25 individuals and a draw and fill system for the provision to the public of water for human consumption. Such term does not include a system owned by a Federal agency. Such term includes (A) any collection, treatment, storage, and distribution facilities under control of the operator of such system and used primarily in connection with such system, and (B) any collection or pretreatment facilities not under such control that are used primarily in connection with such system.
+
+In General
+
+Eligible Projects
+
+Required Projects
+
+In general
+
+Requirement
+
+Priority
+
+Federal Share
+
+Report
+
+Authorization of Appropriations
+
+## Source Credit
+
+*([Pub. L. 104–182, title IV, § 401](https://www.govinfo.gov/link/plaw/104/public/182), Aug. 6, 1996, [110 Stat. 1690](https://www.govinfo.gov/link/statute/110/1690).)*

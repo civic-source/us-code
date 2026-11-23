@@ -3,9 +3,10 @@ title: "Section 40304 - Commission action"
 usc_title: 46
 usc_section: "40304"
 chapter: 403
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 40304"
-generated_at: "2026-03-30T02:56:15.563Z"
+generated_at: "2026-11-23T21:26:37.181Z"
+status: "active"
 ---
 
 # § 40304. Commission action
@@ -24,3 +25,58 @@ generated_at: "2026-03-30T02:56:15.563Z"
   - **(1)** On request of the party filing an agreement, the Commission may shorten a period specified in subsection (c), but not to a date that is less than 14 days after notice of the filing of the agreement is published in the Federal Register.
   - **(2)** The period specified in subsection (c)(2) may be extended only by the United States District Court for the District of Columbia in a civil action brought by the Commission under section 41307(c) of this title .
 - **(f)** The Commission may not limit the effectiveness of an agreement to a fixed term.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40304(a) | 46 App.:1705(a). | Pub. L. 98–237, § 6(a) –(f), Mar. 20, 1984 , 98 Stat. 72 . |
+| 40304(b) | 46 App.:1705(b). |  |
+| 40304(c) | 46 App.:1705(c) (1st sentence). |  |
+| 40304(d) | 46 App.:1705(d). |  |
+| 40304(e)(1) | 46 App.:1705(e). |  |
+| 40304(e)(2) | 46 App.:1705(c) (last sentence). |  |
+| 40304(f) | 46 App.:1705(f). |  |
+
+
+Notice of Filing
+
+Preliminary Review and Rejection
+
+Review and Effective Date
+
+Request for Additional Information
+
+Modification of Review Period
+
+Shortening
+
+Extension
+
+Fixed Terms
+
+Historical and Revision Notes
+
+40304(a)
+
+Pub. L. 98–237, § 6(a)
+
+Mar. 20, 1984
+
+98 Stat. 72
+
+40304(b)
+
+40304(c)
+
+40304(d)
+
+40304(e)(1)
+
+40304(e)(2)
+
+40304(f)
+
+“Nothing in this section [amending this section], or the amendments made by this section, may be construed—
+
+## Source Credit
+
+*([Pub. L. 109–304, § 7](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1530](https://www.govinfo.gov/link/statute/120/1530); [Pub. L. 115–282, title VII, § 706(a)](https://www.govinfo.gov/link/plaw/115/public/282), (b), Dec. 4, 2018, [132 Stat. 4295](https://www.govinfo.gov/link/statute/132/4295).)*

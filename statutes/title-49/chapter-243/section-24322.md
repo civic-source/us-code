@@ -3,9 +3,10 @@ title: "Section 24322 - Rolling stock purchases"
 usc_title: 49
 usc_section: "24322"
 chapter: 243
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 24322"
-generated_at: "2026-03-30T02:56:19.347Z"
+generated_at: "2026-11-23T21:26:40.742Z"
+status: "active"
 ---
 
 # § 24322. Rolling stock purchases
@@ -18,3 +19,13 @@ generated_at: "2026-03-30T02:56:19.347Z"
   - **(4)** include an explanation of whether any payment under the contract will increase Amtrak’s funding request in its general and legislative annual report required under section 24315(b) in a particular fiscal year; and
   - **(5)** describe how Amtrak will adjust the procurement if future funding is not available.
 - **(c)** Nothing in this section shall be construed as requiring Amtrak to disclose confidential information regarding a potential vendor’s proposed pricing or other sensitive business information prior to contract execution or prohibiting Amtrak from entering into a contract after submission of a business case analysis under subsection (a).
+
+In General
+
+Contents
+
+Rule of Construction
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title XI, § 11208(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1639](https://www.govinfo.gov/link/statute/129/1639).)*

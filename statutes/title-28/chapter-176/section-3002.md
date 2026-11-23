@@ -3,9 +3,10 @@ title: "Section 3002 - Definitions"
 usc_title: 28
 usc_section: "3002"
 chapter: 176
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 3002"
-generated_at: "2026-03-30T02:55:30.151Z"
+generated_at: "2026-11-23T21:26:01.140Z"
+status: "active"
 ---
 
 # § 3002. Definitions
@@ -37,3 +38,7 @@ As used in this chapter:
     - **(B)** an agency, department, commission, board, or other entity of the United States; or
     - **(C)** an instrumentality of the United States.
   - **(16)** “United States marshal” means a United States marshal, a deputy marshal, or an official of the United States Marshals Service designated under section 564.
+
+## Source Credit
+
+*(Added [Pub. L. 101–647, title XXXVI, § 3611](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4933](https://www.govinfo.gov/link/statute/104/4933).)*

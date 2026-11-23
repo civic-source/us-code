@@ -3,9 +3,10 @@ title: "Section 220529 - Arbitration of corporation determinations"
 usc_title: 36
 usc_section: "220529"
 chapter: 2205
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 220529"
-generated_at: "2026-03-30T02:55:44.710Z"
+generated_at: "2026-11-23T21:26:13.753Z"
+status: "active"
 ---
 
 # § 220529. Arbitration of corporation determinations
@@ -25,3 +26,58 @@ generated_at: "2026-03-30T02:55:44.710Z"
 - **(e)**
   - **(1)** At any time before a final decision is made, the hearings may be reopened by the arbitrators on their own motion or on the motion of a party.
   - **(2)** If the reopening is based on the motion of a party, and if the reopening would result in the arbitrators’ decision being delayed beyond the specific period agreed to at the beginning of the arbitration proceedings, all parties to the decision must agree to reopen the hearings.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 220529(a) | 36:395(c)(1) (1st sentence). | Sept. 21, 1950, ch. 975 , title II, § 205(c), as added Nov. 8, 1978 , Pub. L. 95–606, § 2 , 92 Stat. 3057 . |
+| 220529(b)(1) | 36:395(c)(1) (2d sentence). |  |
+| 220529(b)(2) | 36:395(c)(1) (last sentence). |  |
+| 220529(b)(3) | 36:395(c)(4). |  |
+| 220529(b)(4) | 36:395(c)(3) (1st sentence). |  |
+| 220529(b)(5) | 36:395(c)(3) (2d, last sentences). |  |
+| 220529(c) | 36:395(c)(2). |  |
+| 220529(d) | 36:395(c)(5). |  |
+| 220529(e) | 36:395(c)(6). |  |
+
+
+Right to Review
+
+Procedure
+
+Settlement
+
+Binding Nature of Decision
+
+Reopening Hearings
+
+Historical and Revision Notes
+
+220529(a)
+
+Sept. 21, 1950, ch. 975
+
+Nov. 8, 1978
+
+Pub. L. 95–606, § 2
+
+92 Stat. 3057
+
+220529(b)(1)
+
+220529(b)(2)
+
+220529(b)(3)
+
+220529(b)(4)
+
+220529(b)(5)
+
+220529(c)
+
+220529(d)
+
+220529(e)
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1478](https://www.govinfo.gov/link/statute/112/1478); [Pub. L. 116–189, § 7(e)](https://www.govinfo.gov/link/plaw/116/public/189), Oct. 30, 2020, [134 Stat. 960](https://www.govinfo.gov/link/statute/134/960).)*

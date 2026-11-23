@@ -3,9 +3,10 @@ title: "Section 3803 - Duties of Secretary of Energy"
 usc_title: 15
 usc_section: "3803"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3803"
-generated_at: "2026-03-30T02:54:08.196Z"
+generated_at: "2026-11-23T21:25:39.984Z"
+status: "active"
 ---
 
 # § 3803. Duties of Secretary of Energy
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:08.196Z"
   - **(4)** The Secretary of Energy also shall include in the report required by section 3808 1 1 See References in Text note below. of this title a detailed discussion of how each research and development contract, grant, or project funded under the authority of this chapter satisfies the requirement of this subsection.
   - **(5)** Further, the Secretary of Energy in each annual budget submission to the Congress, or amendment thereto, for the programs authorized by this chapter shall describe how each identified research and development effort in such submission satisfies the requirements of this subsection.
   - **(6)** The provisions and requirements of this subsection shall not apply with respect to any contract, grant, or project which was entered into, made, or formally approved and initiated prior to the enactment of this chapter, or with respect to any renewal or extension thereof.
+
+## Source Credit
+
+*([Pub. L. 96–512, § 4](https://www.govinfo.gov/link/plaw/96/public/512), Dec. 12, 1980, [94 Stat. 2828](https://www.govinfo.gov/link/statute/94/2828); [Pub. L. 97–375, title I, § 106(c)](https://www.govinfo.gov/link/plaw/97/public/375), Dec. 21, 1982, [96 Stat. 1820](https://www.govinfo.gov/link/statute/96/1820); [Pub. L. 103–437, § 5(b)(5)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4582](https://www.govinfo.gov/link/statute/108/4582).)*

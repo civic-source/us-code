@@ -3,9 +3,10 @@ title: "Section 5405 - Agricultural air quality research oversight"
 usc_title: 7
 usc_section: "5405"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 5405"
-generated_at: "2026-03-30T02:53:42.414Z"
+generated_at: "2026-11-23T21:25:28.361Z"
+status: "active"
 ---
 
 # § 5405. Agricultural air quality research oversight
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:42.414Z"
   - **(1)** The Chief of the National Resources Conservation Service shall establish a task force to address agricultural air quality issues.
   - **(2)** The task force shall be comprised of employees of the Department of Agriculture, industry representatives, and other experts in the fields of agriculture and air quality.
   - **(3)** The task force shall advise the Secretary with respect to the role of the Secretary for providing oversight and coordination related to agricultural air quality.
+
+## Source Credit
+
+*([Pub. L. 104–127, title III, § 391](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1025](https://www.govinfo.gov/link/statute/110/1025).)*

@@ -3,9 +3,10 @@ title: "Section 1106 - Prohibited transactions"
 usc_title: 29
 usc_section: "1106"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1106"
-generated_at: "2026-03-30T02:55:18.717Z"
+generated_at: "2026-11-23T21:26:02.257Z"
+status: "active"
 ---
 
 # § 1106. Prohibited transactions
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:18.717Z"
   - **(2)** in his individual or in any other capacity act in any transaction involving the plan on behalf of a party (or represent a party) whose interests are adverse to the interests of the plan or the interests of its participants or beneficiaries, or
   - **(3)** receive any consideration for his own personal account from any party dealing with such plan in connection with a transaction involving the assets of the plan.
 - **(c)** A transfer of real or personal property by a party in interest to a plan shall be treated as a sale or exchange if the property is subject to a mortgage or similar lien which the plan assumes or if it is subject to a mortgage or similar lien which a party-in-interest placed on the property within the 10-year period ending on the date of the transfer.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 406](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 879](https://www.govinfo.gov/link/statute/88/879).)*

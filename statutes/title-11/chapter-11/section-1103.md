@@ -3,9 +3,10 @@ title: "Section 1103 - Powers and duties of committees"
 usc_title: 11
 usc_section: "1103"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1103"
-generated_at: "2026-03-30T02:53:53.883Z"
+generated_at: "2026-11-23T21:25:34.947Z"
+status: "active"
 ---
 
 # § 1103. Powers and duties of committees
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:53.883Z"
   - **(4)** request the appointment of a trustee or examiner under section 1104 of this title ; and
   - **(5)** perform such other services as are in the interest of those represented.
 - **(d)** As soon as practicable after the appointment of a committee under section 1102 of this title , the trustee shall meet with such committee to transact such business as may be necessary and proper.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2627](https://www.govinfo.gov/link/statute/92/2627); [Pub. L. 98–353, title III](https://www.govinfo.gov/link/plaw/98/public/353), §§ 324, 500, July 10, 1984, [98 Stat. 358](https://www.govinfo.gov/link/statute/98/358), 384.)*

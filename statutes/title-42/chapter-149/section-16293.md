@@ -3,9 +3,10 @@ title: "Section 16293 - Carbon storage validation and testing"
 usc_title: 42
 usc_section: "16293"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16293"
-generated_at: "2026-03-30T02:56:11.479Z"
+generated_at: "2026-11-23T21:26:33.724Z"
+status: "active"
 ---
 
 # § 16293. Carbon storage validation and testing
@@ -72,3 +73,7 @@ generated_at: "2026-03-30T02:56:11.479Z"
   - **(2)** require recipients to provide assurances that all laborers and mechanics employed by contractors and subcontractors in the construction, repair, or alteration of new or existing facilities performed in order to carry out a demonstration or commercial application activity authorized under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with subchapter IV of chapter 31 of title 40, and the Secretary of Labor shall, with respect to the labor standards in this paragraph, have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 Fed. Reg. 3176; 5 U.S.C. Appendix) and section 3145 of title 40 .
 - **(g)** Activities carried out under this section shall be subject to the cost-sharing requirements of section 16352 of this title .
 - **(h)** There is authorized to be appropriated to the Secretary to carry out this section $2,500,000,000 for the period of fiscal years 2022 through 2026.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 963](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 891](https://www.govinfo.gov/link/statute/119/891); [Pub. L. 110–140, title VII, § 702(a)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1704](https://www.govinfo.gov/link/statute/121/1704); [Pub. L. 116–260, div. Z, title IV, § 4003(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2536](https://www.govinfo.gov/link/statute/134/2536); [Pub. L. 117–58, div. D, title III, § 40305](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1001](https://www.govinfo.gov/link/statute/135/1001).)*

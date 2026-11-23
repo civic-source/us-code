@@ -3,9 +3,10 @@ title: "Section 7706 - Enforcement generally"
 usc_title: 15
 usc_section: "7706"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7706"
-generated_at: "2026-03-30T02:54:08.225Z"
+generated_at: "2026-11-23T21:25:40.067Z"
+status: "active"
 ---
 
 # § 7706. Enforcement generally
@@ -81,3 +82,7 @@ generated_at: "2026-03-30T02:54:08.225Z"
       - **(i)** the defendant has established and implemented, with due care, commercially reasonable practices and procedures designed to effectively prevent such violations; or
       - **(ii)** the violation occurred despite commercially reasonable efforts to maintain compliance with the practices and procedures to which reference is made in clause (i).
   - **(4)** In any action brought pursuant to paragraph (1), the court may, in its discretion, require an undertaking for the payment of the costs of such action, and assess reasonable costs, including reasonable attorneys’ fees, against any party.
+
+## Source Credit
+
+*([Pub. L. 108–187, § 7](https://www.govinfo.gov/link/plaw/108/public/187), Dec. 16, 2003, [117 Stat. 2711](https://www.govinfo.gov/link/statute/117/2711).)*

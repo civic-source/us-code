@@ -3,9 +3,10 @@ title: "Section 3001 - Nonmailable matter"
 usc_title: 39
 usc_section: "3001"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 3001"
-generated_at: "2026-03-30T02:55:43.691Z"
+generated_at: "2026-11-23T21:26:12.778Z"
+status: "active"
 ---
 
 # § 3001. Nonmailable matter
@@ -105,3 +106,35 @@ generated_at: "2026-03-30T02:55:43.691Z"
   - **(1)** Except as otherwise authorized by law or regulations of the Postal Service, hazardous material is nonmailable.
   - **(2)** In this subsection, the term “hazardous material” means a substance or material designated by the Secretary of Transportation under section 5103(a) of title 49 .
 - **(o)** The district courts, together with the District Court of the Virgin Islands and the District Court of Guam, shall have jurisdiction, upon cause shown, to enjoin violations of section 1716 of title 18 .
+
+(aa) the estimated odds of winning each prize;
+
+(bb) the quantity, estimated retail value, and nature of each prize; and
+
+(cc) the schedule of any payments made over time;
+
+(aa) the number of rounds or levels of the contest and the cost to enter each round or level;
+
+(bb) that subsequent rounds or levels will be more difficult to solve;
+
+(cc) the maximum cost to enter all rounds or levels;
+
+(dd) the estimated number or percentage of entrants who may correctly solve the skill contest or the approximate number or percentage of entrants correctly solving the past 3 skill contests conducted by the sponsor;
+
+(ee) the identity or description of the qualifications of the judges if the contest is judged by other than the sponsor;
+
+(ff) the method used in judging;
+
+(gg) the date by which the winner or winners will be determined and the date or process by which prizes will be awarded;
+
+(hh) the quantity, estimated retail value, and nature of each prize; and
+
+(ii) the schedule of any payments made over time; or
+
+In General
+
+Effect on State Court Proceedings
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 745](https://www.govinfo.gov/link/statute/84/745); [Pub. L. 91–662, § 6(1)](https://www.govinfo.gov/link/plaw/91/public/662), Jan. 8, 1971, [84 Stat. 1974](https://www.govinfo.gov/link/statute/84/1974); [Pub. L. 92–191, § 2](https://www.govinfo.gov/link/plaw/92/public/191), Dec. 15, 1971, [85 Stat. 647](https://www.govinfo.gov/link/statute/85/647); [Pub. L. 89–544, § 26(h)(2)](https://www.govinfo.gov/link/plaw/89/public/544), as added [Pub. L. 94–279, § 17](https://www.govinfo.gov/link/plaw/94/public/279), Apr. 22, 1976, [90 Stat. 423](https://www.govinfo.gov/link/statute/90/423), renumbered § 26(i)(2), [Pub. L. 110–234, title XIV, § 14207(a)(8)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1462](https://www.govinfo.gov/link/statute/122/1462), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14207(a)(8), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2224, and renumbered § 26(h)(2), [Pub. L. 115–334, title XII, § 12616(a)(3)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 5016](https://www.govinfo.gov/link/statute/132/5016); [Pub. L. 97–398, § 5](https://www.govinfo.gov/link/plaw/97/public/398), Dec. 31, 1982, [96 Stat. 2011](https://www.govinfo.gov/link/statute/96/2011); [Pub. L. 101–493, § 2](https://www.govinfo.gov/link/plaw/101/public/493), Oct. 31, 1990, [104 Stat. 1184](https://www.govinfo.gov/link/statute/104/1184); [Pub. L. 101–524, § 2(a)](https://www.govinfo.gov/link/plaw/101/public/524), Nov. 6, 1990, [104 Stat. 2301](https://www.govinfo.gov/link/statute/104/2301); [Pub. L. 102–71, § 2(1)](https://www.govinfo.gov/link/plaw/102/public/71), July 10, 1991, [105 Stat. 330](https://www.govinfo.gov/link/statute/105/330); [Pub. L. 106–168, title I](https://www.govinfo.gov/link/plaw/106/public/168), §§ 102, 103, 110(a), Dec. 12, 1999, [113 Stat. 1806](https://www.govinfo.gov/link/statute/113/1806), 1808, 1817; [Pub. L. 109–435, title X, § 1008(a)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3259](https://www.govinfo.gov/link/statute/120/3259); [Pub. L. 111–155, § 2](https://www.govinfo.gov/link/plaw/111/public/155), Apr. 7, 2010, [124 Stat. 1112](https://www.govinfo.gov/link/statute/124/1112); [Pub. L. 111–170, § 1](https://www.govinfo.gov/link/plaw/111/public/170), May 24, 2010, [124 Stat. 1193](https://www.govinfo.gov/link/statute/124/1193).)*

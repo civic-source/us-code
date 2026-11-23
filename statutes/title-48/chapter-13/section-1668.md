@@ -3,9 +3,10 @@ title: "Section 1668 - Reporting duties of Governor and transfer of functions fr
 usc_title: 48
 usc_section: "1668"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1668"
-generated_at: "2026-03-30T02:56:14.589Z"
+generated_at: "2026-11-23T21:26:38.018Z"
+status: "active"
 ---
 
 # § 1668. Reporting duties of Governor and transfer of functions from government comptroller for American Samoa to Inspector General, Department of the Interior
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:14.589Z"
   - **(2)** The authority to report to the Secretary of the Interior and the Governor of American Samoa all failures to collect amounts due the government, and expenditures of funds or uses or property which are irregular or not pursuant to law.
 - **(c)** The authority granted in paragraph (b) shall extend to all activities of the government of American Samoa, and shall be in addition to the authority conferred upon the Inspector General by chapter 4 of title 5.
 - **(d)** In order to carry out the provisions of this section, the personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, of the office of the government comptroller for American Samoa relating to its audit function are hereby transferred to the Office of Inspector General, Department of the Interior.
+
+## Source Credit
+
+*([Pub. L. 96–205, title V, § 501](https://www.govinfo.gov/link/plaw/96/public/205), as added [Pub. L. 97–357, title IV, § 402](https://www.govinfo.gov/link/plaw/97/public/357), Oct. 19, 1982, [96 Stat. 1711](https://www.govinfo.gov/link/statute/96/1711); amended [Pub. L. 105–362, title IX, § 901](https://www.govinfo.gov/link/plaw/105/public/362) (o), Nov. 10, 1998, [112 Stat. 3291](https://www.govinfo.gov/link/statute/112/3291); [Pub. L. 117–286, § 4(b)(93)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4352](https://www.govinfo.gov/link/statute/136/4352).)*

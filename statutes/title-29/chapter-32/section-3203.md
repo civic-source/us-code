@@ -3,9 +3,10 @@ title: "Section 3203 - Community participation"
 usc_title: 29
 usc_section: "3203"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3203"
-generated_at: "2026-03-30T02:55:18.756Z"
+generated_at: "2026-11-23T21:26:02.343Z"
+status: "active"
 ---
 
 # § 3203. Community participation
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:18.756Z"
       - **(iv)** community-based organizations, non-profit organizations, and intermediaries providing workforce development-related services; and
   - **(2)** establishing and developing relationships with members of the community in which the Job Corps center is located, informing members of the community about the projects of the Job Corps center and changes in the rules, procedures, or activities of the center that may affect the community, and planning events of mutual interest to the community and the Job Corps center.
 - **(c)** The director of a Job Corps center that is not yet operating shall ensure the establishment and development of the relationships and networks described in subsection (b) at least 3 months prior to the date on which the center accepts the first enrollee at the center.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 153](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1550](https://www.govinfo.gov/link/statute/128/1550).)*

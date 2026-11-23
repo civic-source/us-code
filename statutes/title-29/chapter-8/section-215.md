@@ -3,9 +3,10 @@ title: "Section 215 - Prohibited acts; prima facie evidence"
 usc_title: 29
 usc_section: "215"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 215"
-generated_at: "2026-03-30T02:55:18.682Z"
+generated_at: "2026-11-23T21:26:02.177Z"
+status: "active"
 ---
 
 # § 215. Prohibited acts; prima facie evidence
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:18.682Z"
   - **(5)** to violate any of the provisions of section 211(c) of this title , or any regulation or order made or continued in effect under the provisions of section 211(d) of this title , or to make any statement, report, or record filed or kept pursuant to the provisions of such section or of any regulation or order thereunder, knowing such statement, report, or record to be false in a material respect; and
   - **(6)** to violate any of the provisions of section 218d of this title .
 - **(b)** For the purposes of subsection (a)(1) proof that any employee was employed in any place of employment where goods shipped or sold in commerce were produced, within ninety days prior to the removal of the goods from such place of employment, shall be prima facie evidence that such employee was engaged in the production of such goods.
+
+## Source Credit
+
+*(June 25, 1938, ch. 676, § 15, [52 Stat. 1068](https://www.govinfo.gov/link/statute/52/1068); Oct. 26, 1949, ch. 736, § 13, [63 Stat. 919](https://www.govinfo.gov/link/statute/63/919); 1950 Reorg. Plan No. 6, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, [64 Stat. 1263](https://www.govinfo.gov/link/statute/64/1263); [Pub. L. 117–328, div. KK, § 102(b)(1)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 6095](https://www.govinfo.gov/link/statute/136/6095).)*

@@ -3,9 +3,10 @@ title: "Section 333 - Responsibility for rail transportation unification and coo
 usc_title: 49
 usc_section: "333"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 333"
-generated_at: "2026-03-30T02:56:19.299Z"
+generated_at: "2026-11-23T21:26:40.593Z"
+status: "active"
 ---
 
 # § 333. Responsibility for rail transportation unification and coordination projects
@@ -32,3 +33,40 @@ generated_at: "2026-03-30T02:56:19.299Z"
     - **(E)** representatives of the Federal Trade Commission and the Attorney General.
   - **(2)** A person attending or represented at a conference on a proposed unification or coordination project is not liable under the antitrust laws of the United States for any discussion at the conference and for any agreements reached at the conference, that are entered into with the approval of the Secretary to achieve or determine a plan of action to carry out the unification or coordination project.
 - **(e)** When the approval of a proposal submitted by a rail carrier for a merger or other action is subject to the jurisdiction of the Surface Transportation Board under section 11323(a) of this title , the Secretary may study the proposal to decide whether it satisfies section 11324(b) of this title . When the proposal is the subject of an application and proceeding before the Board, the Secretary may appear in any proceeding related to the application.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 333(a) | 49:1654(a). | Oct. 15, 1966 , Pub. L. 89–670 , 80 Stat. 931 , § 5(a)–(e); added Feb. 5, 1976 , Pub. L. 94–210, § 401 , 90 Stat. 61 . |
+| 333(b) | 49:1654(b). |  |
+| 333(c) | 49:1654(c). |  |
+| 333(d) | 49:1654(d). |  |
+| 333(e) | 49:1654(e). |  |
+
+
+Historical and Revision Notes
+
+333(a)
+
+Oct. 15, 1966
+
+Pub. L. 89–670
+
+80 Stat. 931
+
+Feb. 5, 1976
+
+Pub. L. 94–210, § 401
+
+90 Stat. 61
+
+333(b)
+
+333(c)
+
+333(d)
+
+333(e)
+
+## Source Credit
+
+*([Pub. L. 97–449, § 1(b)](https://www.govinfo.gov/link/plaw/97/public/449), Jan. 12, 1983, [96 Stat. 2429](https://www.govinfo.gov/link/statute/96/2429); [Pub. L. 104–88, title III, § 308(b)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 946](https://www.govinfo.gov/link/statute/109/946); [Pub. L. 112–141, div. C, title II, § 32932(a)(3)](https://www.govinfo.gov/link/plaw/112/public/141), (4), July 6, 2012, [126 Stat. 829](https://www.govinfo.gov/link/statute/126/829).)*

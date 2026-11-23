@@ -3,9 +3,10 @@ title: "Section 8141 - Congressional findings"
 usc_title: 42
 usc_section: "8141"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8141"
-generated_at: "2026-03-30T02:56:11.336Z"
+generated_at: "2026-11-23T21:26:33.183Z"
+status: "active"
 ---
 
 # § 8141. Congressional findings
@@ -15,3 +16,7 @@ The Congress finds and declares—
   - **(1)** that artistic, cultural, and historic resources, including urban design, constitute an integral part of a suitable living environment for the residents of the Nation’s urban areas, and should be available to all residents of such areas, regardless of income;
   - **(2)** that the development or preservation of such resources is a significant and necessary factor in restoring and maintaining the vitality of the urban environment, and can serve as a catalyst for improving decaying or deteriorated urban communities and expanding economic opportunities, and for creating a sense of community identity, spirit, and pride; and
   - **(3)** that the encouragement and support of local initiatives to develop or preserve such resources, particularly in connection with federally assisted housing or community development activities or in communities with a high proportion of low-income residents, is an appropriate function of the Federal Government.
+
+## Source Credit
+
+*([Pub. L. 95–557, title VIII, § 802](https://www.govinfo.gov/link/plaw/95/public/557), Oct. 31, 1978, [92 Stat. 2122](https://www.govinfo.gov/link/statute/92/2122).)*

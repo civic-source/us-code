@@ -3,9 +3,10 @@ title: "Section 15906 - North Slope Science Initiative"
 usc_title: 42
 usc_section: "15906"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15906"
-generated_at: "2026-03-30T02:56:11.462Z"
+generated_at: "2026-11-23T21:26:33.681Z"
+status: "active"
 ---
 
 # § 15906. North Slope Science Initiative
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.462Z"
   - **(2)** The panel described in paragraph (1) shall consist of a representative group of not more than 15 scientists and technical experts from diverse professions and interests, including the oil and gas industry, subsistence users, Native Alaskan entities, conservation organizations, wildlife management organizations, and academia, as determined by the Secretary.
 - **(e)** Not later than 3 years after August 8, 2005 , and each year thereafter, the Secretary shall publish a report that describes the studies and findings of the Initiative.
 - **(f)** There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 109–58, title III, § 348](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 708](https://www.govinfo.gov/link/statute/119/708).)*

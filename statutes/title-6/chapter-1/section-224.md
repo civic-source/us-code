@@ -3,9 +3,10 @@ title: "Section 224 - Other reporting requirements"
 usc_title: 6
 usc_section: "224"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 224"
-generated_at: "2026-03-30T02:53:09.453Z"
+generated_at: "2026-11-23T21:25:25.767Z"
+status: "active"
 ---
 
 # § 224. Other reporting requirements
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:53:09.453Z"
     - **(B)** to resolve cases involving unidentified remains;
     - **(C)** to resolve cases involving unidentified persons; and
     - **(D)** to share information on missing persons and unidentified remains, specifically with the National Missing and Unidentified Persons System (NamUs).
+
+## Source Credit
+
+*([Pub. L. 116–277, § 5](https://www.govinfo.gov/link/plaw/116/public/277), Dec. 31, 2020, [134 Stat. 3370](https://www.govinfo.gov/link/statute/134/3370).)*

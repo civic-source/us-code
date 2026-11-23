@@ -3,9 +3,10 @@ title: "Section 3902 - Definitions"
 usc_title: 19
 usc_section: "3902"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 3902"
-generated_at: "2026-03-30T02:54:24.698Z"
+generated_at: "2026-11-23T21:25:42.868Z"
+status: "active"
 ---
 
 # § 3902. Definitions
@@ -28,3 +29,7 @@ In this chapter:
     - **(A)** any United States citizen or any alien admitted for permanent residence into the United States;
     - **(B)** any entity organized under the laws of the United States or any jurisdiction within the United States (including its foreign branches); and
     - **(C)** any person in the United States.
+
+## Source Credit
+
+*([Pub. L. 108–19, § 3](https://www.govinfo.gov/link/plaw/108/public/19), Apr. 25, 2003, [117 Stat. 632](https://www.govinfo.gov/link/statute/117/632).)*

@@ -3,9 +3,10 @@ title: "Section 111 - Nonprofit budget and credit counseling agencies; financial
 usc_title: 11
 usc_section: "111"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 111"
-generated_at: "2026-03-30T02:53:53.872Z"
+generated_at: "2026-11-23T21:25:34.889Z"
+status: "active"
 ---
 
 # § 111. Nonprofit budget and credit counseling agencies; financial management instructional courses
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:53:53.872Z"
   - **(2)** A nonprofit budget and credit counseling agency that willfully or negligently fails to comply with any requirement under this title with respect to a debtor shall be liable for damages in an amount equal to the sum of—
     - **(A)** any actual damages sustained by the debtor as a result of the violation; and
     - **(B)** any court costs or reasonable attorneys’ fees (as determined by the court) incurred in an action to recover those damages.
+
+## Source Credit
+
+*(Added [Pub. L. 109–8, title I, § 106(e)(1)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 38](https://www.govinfo.gov/link/statute/119/38); amended [Pub. L. 111–327, § 2(a)(8)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3558](https://www.govinfo.gov/link/statute/124/3558).)*

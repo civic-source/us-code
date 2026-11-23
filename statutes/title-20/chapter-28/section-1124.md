@@ -3,9 +3,10 @@ title: "Section 1124 - Undergraduate international studies and foreign language 
 usc_title: 20
 usc_section: "1124"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1124"
-generated_at: "2026-03-30T02:54:48.143Z"
+generated_at: "2026-11-23T21:25:47.236Z"
+status: "active"
 ---
 
 # § 1124. Undergraduate international studies and foreign language programs
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:54:48.143Z"
 - **(c)**
   - **(1)** The Secretary may use not more than 20 percent of the total amount appropriated for this part for carrying out the purposes of this section.
   - **(2)** Of the total amount of grant funds awarded to a grantee under this section, the grantee may use not more than ten percent of such funds for the activity described in subsection (a)(2)(I).
+
+## Source Credit
+
+*([Pub. L. 89–329, title VI, § 604](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title VI, § 601](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1778](https://www.govinfo.gov/link/statute/112/1778); amended [Pub. L. 110–315, title VI](https://www.govinfo.gov/link/plaw/110/public/315), §§ 604, 610(a), Aug. 14, 2008, [122 Stat. 3336](https://www.govinfo.gov/link/statute/122/3336), 3338; [Pub. L. 111–39, title VI, § 601(a)(1)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1953](https://www.govinfo.gov/link/statute/123/1953).)*

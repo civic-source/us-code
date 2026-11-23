@@ -3,9 +3,10 @@ title: "Section 1087cc - Agreements with institutions of higher education"
 usc_title: 20
 usc_section: "1087cc"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1087cc"
-generated_at: "2026-03-30T02:54:48.127Z"
+generated_at: "2026-11-23T21:25:47.159Z"
+status: "active"
 ---
 
 # § 1087cc. Agreements with institutions of higher education
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:54:48.127Z"
   - **(5)** Each institution of higher education shall notify the appropriate consumer reporting agencies whenever a borrower of a loan that is made and held by the institution and that is in default makes 6 consecutive monthly payments on such loan, for the purpose of encouraging such consumer reporting agencies to update the status of information maintained with respect to that borrower.
 - **(d)** In carrying out the provisions of subsection (a)(9), the Secretary may not require that any collection agency, collection attorney, or loan servicer collecting loans made under this part deposit amounts collected on such loans in interest bearing accounts, unless such agency, attorney, or servicer holds such amounts for more than 45 days.
 - **(e)** In carrying out the provisions of subsection (a)(5) 1 1 See References in Text note below. relating to due diligence, the Secretary shall make every effort to ensure that institutions of higher education may use Internal Revenue Service skip-tracing collection procedures on loans made under this part.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 463](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 405(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1444](https://www.govinfo.gov/link/statute/100/1444); amended [Pub. L. 100–50, § 13(e)](https://www.govinfo.gov/link/plaw/100/public/50), (f), June 3, 1987, [101 Stat. 349](https://www.govinfo.gov/link/statute/101/349); [Pub. L. 102–325, title IV, § 463(a)](https://www.govinfo.gov/link/plaw/102/public/325), (b), July 23, 1992, [106 Stat. 579](https://www.govinfo.gov/link/statute/106/579); [Pub. L. 103–208, § 2(f)(5)](https://www.govinfo.gov/link/plaw/103/public/208) –(7), Dec. 20, 1993, [107 Stat. 2471](https://www.govinfo.gov/link/statute/107/2471); [Pub. L. 105–244, title IV, § 463](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1724](https://www.govinfo.gov/link/statute/112/1724); [Pub. L. 110–315, title IV](https://www.govinfo.gov/link/plaw/110/public/315), §§ 432(b)(5), 463, Aug. 14, 2008, [122 Stat. 3246](https://www.govinfo.gov/link/statute/122/3246), 3266; [Pub. L. 111–39, title IV, § 405(2)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1947](https://www.govinfo.gov/link/statute/123/1947).)*

@@ -3,12 +3,17 @@ title: "Section 8287d - Assistance to Federal agencies in achieving energy effic
 usc_title: 42
 usc_section: "8287d"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8287d"
-generated_at: "2026-03-30T02:56:11.340Z"
+generated_at: "2026-11-23T21:26:33.196Z"
+status: "active"
 ---
 
 # § 8287d. Assistance to Federal agencies in achieving energy efficiency in Federal facilities and operations
 
 The Secretary in fiscal year 1999 and thereafter, shall continue the process begun in fiscal year 1998 of accepting funds from other Federal agencies in return for assisting agencies in achieving energy efficiency in Federal facilities and operations by the use of privately financed, energy savings performance contracts and other private financing mechanisms. The funds may be provided after agencies begin to realize energy cost savings; may be retained by the Secretary until expended; and may be used only for the purpose of assisting Federal agencies in achieving greater efficiency, water conservation and use of renewable energy by means of privately financed mechanisms, including energy savings performance contracts and utility incentive programs. These recovered funds will continue to be used to administer even greater energy efficiency, water conservation and use of renewable energy by means of privately financed mechanisms such as utility efficiency service contracts and energy savings performance contracts. The recoverable funds will be used for all necessary program expenses, including contractor support and resources needed, to achieve overall Federal energy management program objectives for greater energy savings. Any such privately financed contracts shall meet the provisions of the Energy Policy Act of 1992, Public Law 102–486 regarding energy savings performance contracts and utility incentive programs.
 
+
+## Source Credit
+
+*([Pub. L. 105–277, div. A, § 101(e) [title II]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–231](https://www.govinfo.gov/link/statute/112/2681), 2681–278.)*

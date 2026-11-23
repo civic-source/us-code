@@ -3,9 +3,10 @@ title: "Section 654 - Paul D. Coverdell drug-free workplace program"
 usc_title: 15
 usc_section: "654"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 654"
-generated_at: "2026-03-30T02:54:08.104Z"
+generated_at: "2026-11-23T21:25:39.691Z"
+status: "active"
 ---
 
 # § 654. Paul D. Coverdell drug-free workplace program
@@ -59,3 +60,13 @@ generated_at: "2026-03-30T02:54:08.104Z"
   - **(2)** Of the total amount made available under paragraph (1) for each of fiscal years 2005 and 2006, not more than the greater of 10 percent or $500,000 may be used to carry out section 648(c)(3)(T) of this title .
   - **(3)** There are authorized to be appropriated to carry out subsection (b)(2), $1,500,000 for each of fiscal years 2005 and 2006. Amounts made available under this paragraph shall remain available until expended.
   - **(4)** Not more than 5 percent of the total amount made available under this subsection for any fiscal year shall be used for administrative costs (determined without regard to the administrative costs of eligible intermediaries).
+
+Findings
+
+Purposes
+
+“It is the sense of Congress that—
+
+## Source Credit
+
+*([Pub. L. 85–536, § 2[27]](https://www.govinfo.gov/link/plaw/85/public/536), as added [Pub. L. 101–574, title III, § 310](https://www.govinfo.gov/link/plaw/101/public/574), Nov. 15, 1990, [104 Stat. 2831](https://www.govinfo.gov/link/statute/104/2831); amended [Pub. L. 105–277, div. C, title IX, § 904](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–708](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 106–554, § 1(a)(9) [title V, § 503(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–695; [Pub. L. 108–447, div. K, title I](https://www.govinfo.gov/link/plaw/108/public/447), §§ 123–126, Dec. 8, 2004, [118 Stat. 3449–3451](https://www.govinfo.gov/link/statute/118/3449).)*

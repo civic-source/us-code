@@ -3,9 +3,10 @@ title: "Section 6508 - Studies and reports"
 usc_title: 31
 usc_section: "6508"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 6508"
-generated_at: "2026-03-30T02:55:34.073Z"
+generated_at: "2026-11-23T21:26:10.641Z"
+status: "active"
 ---
 
 # § 6508. Studies and reports
@@ -22,3 +23,25 @@ generated_at: "2026-03-30T02:55:34.073Z"
     - **(A)** the impact of the program on the structural organization of States and local governments and on Federal-State-local fiscal relations; and
     - **(B)** the coordination of administration of the program by the United States Government and State and local governments.
   - **(2)** The Commission shall submit to the committee requesting the study and to Congress a report and any recommendations.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 6508(a) | 42:4242. | Oct. 16, 1968 , Pub. L. 90–577 , §§ 602, 603, 82 Stat. 1107 . |
+| 6508(b) | 42:4243. |  |
+
+
+Historical and Revision Notes
+
+6508(a)
+
+Oct. 16, 1968
+
+Pub. L. 90–577
+
+82 Stat. 1107
+
+6508(b)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1010](https://www.govinfo.gov/link/statute/96/1010).)*

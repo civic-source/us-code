@@ -3,9 +3,10 @@ title: "Section 3405 - Task order contracts: advisory and assistance services"
 usc_title: 10
 usc_section: "3405"
 chapter: 245
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3405"
-generated_at: "2026-03-30T02:53:38.192Z"
+generated_at: "2026-11-23T21:25:32.728Z"
+status: "active"
 ---
 
 # § 3405. Task order contracts: advisory and assistance services
@@ -35,3 +36,45 @@ generated_at: "2026-03-30T02:53:38.192Z"
     - **(B)** the extension is necessary in order to ensure continuity of the receipt of services pending the award of, and commencement of performance under, the follow-on contract.
   - **(2)** A task order contract may be extended under the authority of paragraph (1) only once and only in accordance with the limitations and requirements of this subsection.
 - **(i)** This section does not apply to a contract for the acquisition of property or services that includes acquisition of advisory and assistance services if the head of an agency entering into such contract determines that, under the contract, advisory and assistance services are necessarily incident to, and not a significant component of, the contract.
+
+Advisory and Assistance Services Defined
+
+Authority To Award
+
+Limitation on Contract Period
+
+Content of Notice
+
+Required Content of Solicitation and Contract.—
+
+Solicitation
+
+Contract
+
+Multiple Awards.—
+
+Authority to make multiple awards
+
+Content of solicitation
+
+Nonapplication
+
+Contract Modifications.—
+
+Increase in scope, period, or maximum value of contract only by modification of contract
+
+Use of competitive procedures
+
+Notice
+
+Contract Extensions.—
+
+When contract may be extended
+
+Limit of one extension
+
+Inapplicability to Certain Contracts
+
+## Source Credit
+
+*(Added [Pub. L. 103–355, title I, § 1004(a)(1)](https://www.govinfo.gov/link/plaw/103/public/355), Oct. 13, 1994, [108 Stat. 3251](https://www.govinfo.gov/link/statute/108/3251), § 2304b; amended [Pub. L. 111–350, § 5(b)(13)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3843](https://www.govinfo.gov/link/statute/124/3843); renumbered § 3405 and amended [Pub. L. 116–283, div. A, title XVIII, § 1820(d)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4192](https://www.govinfo.gov/link/statute/134/4192); [Pub. L. 117–81, div. A, title XVII, § 1701(b)(8)(C)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2133](https://www.govinfo.gov/link/statute/135/2133).)*

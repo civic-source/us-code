@@ -3,9 +3,10 @@ title: "Section 1904 - Blocking assets and prohibiting transactions"
 usc_title: 21
 usc_section: "1904"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 1904"
-generated_at: "2026-03-30T02:54:54.307Z"
+generated_at: "2026-11-23T21:25:56.294Z"
+status: "active"
 ---
 
 # § 1904. Blocking assets and prohibiting transactions
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:54.307Z"
     - **(C)** employing all powers conferred on the Secretary of the Treasury under this chapter.
   - **(2)** Each agency of the United States shall take all appropriate measures within its authority to carry out the provisions of this chapter.
   - **(3)** Section 552(a)(3) of title 5 shall not apply to any record or information obtained or created in the implementation of this chapter.
+
+## Source Credit
+
+*([Pub. L. 106–120, title VIII, § 805](https://www.govinfo.gov/link/plaw/106/public/120), Dec. 3, 1999, [113 Stat. 1629](https://www.govinfo.gov/link/statute/113/1629); [Pub. L. 107–108, title III, § 307](https://www.govinfo.gov/link/plaw/107/public/108), Dec. 28, 2001, [115 Stat. 1399](https://www.govinfo.gov/link/statute/115/1399).)*

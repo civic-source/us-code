@@ -3,9 +3,10 @@ title: "Section 5105 - Load line surveys"
 usc_title: 46
 usc_section: "5105"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 5105"
-generated_at: "2026-03-30T02:56:15.549Z"
+generated_at: "2026-11-23T21:26:37.070Z"
+status: "active"
 ---
 
 # § 5105. Load line surveys
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:15.549Z"
   - **(3)** the stability of the vessel is adequate for all loading conditions;
   - **(4)** the topsides of the vessel are arranged and constructed to allow rapid overboard drainage of deck water in heavy weather; and
   - **(5)** the topsides of the vessel are adequate in design, arrangement, and equipment to protect crewmembers performing outside tasks necessary for safe operation of the vessel.
+
+## Source Credit
+
+*([Pub. L. 99–509, title V, § 5101(2)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1916](https://www.govinfo.gov/link/statute/100/1916).)*

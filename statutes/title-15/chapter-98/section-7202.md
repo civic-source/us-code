@@ -3,9 +3,10 @@ title: "Section 7202 - Commission rules and enforcement"
 usc_title: 15
 usc_section: "7202"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7202"
-generated_at: "2026-03-30T02:54:08.218Z"
+generated_at: "2026-11-23T21:25:40.040Z"
+status: "active"
 ---
 
 # § 7202. Commission rules and enforcement
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:08.218Z"
   - **(1)** the authority of the Commission to regulate the accounting profession, accounting firms, or persons associated with such firms for purposes of enforcement of the securities laws;
   - **(2)** the authority of the Commission to set standards for accounting or auditing practices or auditor independence, derived from other provisions of the securities laws or the rules or regulations thereunder, for purposes of the preparation and issuance of any audit report, or otherwise under applicable law; or
   - **(3)** the ability of the Commission to take, on the initiative of the Commission, legal, administrative, or disciplinary action against any registered public accounting firm or any associated person thereof.
+
+## Source Credit
+
+*([Pub. L. 107–204, § 3](https://www.govinfo.gov/link/plaw/107/public/204), July 30, 2002, [116 Stat. 749](https://www.govinfo.gov/link/statute/116/749).)*

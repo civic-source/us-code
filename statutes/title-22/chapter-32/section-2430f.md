@@ -3,9 +3,10 @@ title: "Section 2430f - Enterprise for the Americas Funds"
 usc_title: 22
 usc_section: "2430f"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2430f"
-generated_at: "2026-03-30T02:55:05.366Z"
+generated_at: "2026-11-23T21:25:58.494Z"
+status: "active"
 ---
 
 # § 2430f. Enterprise for the Americas Funds
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.366Z"
 - **(b)** Local currencies deposited in an Americas Fund shall not be considered assistance for purposes of any provision of law limiting assistance to a country.
 - **(c)** Deposits made in an Americas Fund shall be invested until disbursed. Any return on such investment may be retained by the Americas Fund, without deposit in the Treasury of the United States and without further appropriation by the Congress.
 - **(d)** Funds in an Americas Fund shall be disbursed only pursuant to an Americas Framework Agreement.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. IV, § 707, as added [Pub. L. 102–549, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/102/public/549), Oct. 28, 1992, [106 Stat. 3666](https://www.govinfo.gov/link/statute/106/3666).)*

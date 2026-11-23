@@ -3,9 +3,10 @@ title: "Section 2056f - Consumer product safety standard to protect against tip-
 usc_title: 15
 usc_section: "2056f"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2056f"
-generated_at: "2026-03-30T02:54:08.162Z"
+generated_at: "2026-11-23T21:25:39.904Z"
+status: "active"
 ---
 
 # § 2056f. Consumer product safety standard to protect against tip-over of clothing storage units
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:54:08.162Z"
       - **(ii)** whether the petition demonstrates that the test could reasonably meet the requirements of subsection (c)(2)(B), and if so, the Commission shall determine by recorded vote, within 60 days after the determination, whether to initiate rulemaking, in accordance with section 553 of title 5 , to revise a consumer product safety standard promulgated under this section to include the new or revised test.
     - **(B)** Compliance with the testing requirements of a standard revised under subparagraph (A) may be demonstrated either through the performance of a new or revised test under subparagraph (A) or the performance of the tests otherwise required under a standard promulgated under this section.
   - **(3)** Any rule promulgated under this subsection, including any modification or revision made under this subsection, shall be treated as a consumer product safety rule promulgated under section 2058 of this title .
+
+## Source Credit
+
+*([Pub. L. 117–328, div. BB, title II, § 201](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5552](https://www.govinfo.gov/link/statute/136/5552).)*

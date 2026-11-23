@@ -3,9 +3,10 @@ title: "Section 21004 - State plan"
 usc_title: 52
 usc_section: "21004"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 21004"
-generated_at: "2026-03-30T02:56:30.167Z"
+generated_at: "2026-11-23T21:26:42.334Z"
+status: "active"
 ---
 
 # § 21004. State plan
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:56:30.167Z"
 - **(c)**
   - **(1)** No action may be brought under this chapter against a State or other jurisdiction on the basis of any information contained in the State plan filed under this subpart.
   - **(2)** Paragraph (1) may not be construed to limit the liability of a State or other jurisdiction for criminal acts or omissions.
+
+## Source Credit
+
+*([Pub. L. 107–252, title II, § 254](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1694](https://www.govinfo.gov/link/statute/116/1694); [Pub. L. 111–84, div. A, title V, § 588(b)(1)(A)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2333](https://www.govinfo.gov/link/statute/123/2333); [Pub. L. 112–74, div. C, title VI, § 622(3)](https://www.govinfo.gov/link/plaw/112/public/74), (4), Dec. 23, 2011, [125 Stat. 927](https://www.govinfo.gov/link/statute/125/927).)*

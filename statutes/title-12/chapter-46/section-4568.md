@@ -3,9 +3,10 @@ title: "Section 4568 - Housing Trust Fund"
 usc_title: 12
 usc_section: "4568"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4568"
-generated_at: "2026-03-30T02:53:53.509Z"
+generated_at: "2026-11-23T21:25:37.191Z"
+status: "active"
 ---
 
 # § 4568. Housing Trust Fund
@@ -62,11 +63,11 @@ generated_at: "2026-03-30T02:53:53.509Z"
     - **(A)** the production, preservation, and rehabilitation of rental housing, including housing under the programs identified in section 4565(a)(2)(B) of this title and for operating costs, except that not less than 75 percent of such grant amounts shall be used for the benefit only of extremely low-income families or families with incomes at or below the poverty line (as such term is defined in section 9902 of title 42 , including any revision required by such section) applicable to a family of the size involved, and not more than 25 percent for the benefit only of very low-income families; and
     - **(B)** the production, preservation, and rehabilitation of housing for homeownership, including such forms as down payment assistance, closing cost assistance, and assistance for interest rate buy-downs, that—
       - **(i)** is available for purchase only for use as a principal residence by families that qualify both as—
-        - **(I)** extremely low- and very low-income families at the times described in subparagraphs (A) through (C) of section 215(b)(2) of the Cranston-Gonzalez National Affordable Housing Act ( 42 U.S.C. 12745(b)(2) ); and
+        - **(I)** extremely low- and very low-income families at the times described in subparagraphs (A) through (C) of section 215(b)(2) 3 3 See References in Text note below. of the Cranston-Gonzalez National Affordable Housing Act ( 42 U.S.C. 12745(b)(2) ); and
         - **(II)** first-time homebuyers, as such term is defined in section 104 of the Cranston-Gonzalez National Affordable Housing Act ( 42 U.S.C. 12704 ), except that any reference in such section to assistance under title II of such Act [ 42 U.S.C. 12721 et seq.] shall for purposes of this subsection be considered to refer to assistance from affordable housing fund grant amounts;
-      - **(ii)** has an initial purchase price that meets the requirements of section 215(b)(1) of the Cranston-Gonzalez National Affordable Housing Act [ 42 U.S.C. 12745(b)(1) ];
-      - **(iii)** is subject to the same resale restrictions established under section 215(b)(3) of the Cranston-Gonzalez National Affordable Housing Act [ 42 U.S.C. 12745(b)(3) ] and applicable to the participating jurisdiction that is the State in which such housing is located; and
-      - **(iv)** is made available for purchase only by, or in the case of assistance under this subsection, is made available only to homebuyers who have, before purchase completed a program of independent financial education and counseling from an eligible organization that meets the requirements of section 132 of the Federal Housing Finance Regulatory Reform Act of 2008. 3 3 See References in Text note below.
+      - **(ii)** has an initial purchase price that meets the requirements of section 215(b)(1) 3 of the Cranston-Gonzalez National Affordable Housing Act;
+      - **(iii)** is subject to the same resale restrictions established under section 215(b)(3) 3 of the Cranston-Gonzalez National Affordable Housing Act and applicable to the participating jurisdiction that is the State in which such housing is located; and
+      - **(iv)** is made available for purchase only by, or in the case of assistance under this subsection, is made available only to homebuyers who have, before purchase completed a program of independent financial education and counseling from an eligible organization that meets the requirements of section 132 of the Federal Housing Finance Regulatory Reform Act of 2008. 3
   - **(8)** All amounts from the Trust Fund shall be allocated in accordance with, and any eligible activities carried out in whole or in part with grant amounts under this subchapter (including housing provided with such grant amounts) shall comply with and be operated in compliance with—
     - **(A)** laws relating to tenant protections and tenant rights to participate in decision making regarding their residences;
     - **(B)** laws requiring public participation, including laws relating to Consolidated Plans, Qualified Allocation Plans, and Public Housing Agency Plans; and
@@ -156,3 +157,7 @@ generated_at: "2026-03-30T02:53:53.509Z"
     - **(F)** requirements and standards for establishment, by a State or State designated entity, for use of grant amounts in 2009 and subsequent years of performance goals, benchmarks, and timetables for the production, preservation, and rehabilitation of affordable rental and homeownership housing with such grant amounts.
 - **(h)** If, after July 30, 2008 , in any year, there is enacted any provision of Federal law establishing an affordable housing trust fund other than under this chapter for use only for grants to provide affordable rental housing and affordable homeownership opportunities, and the subsequent year is a year referred to in subsection (c), the Secretary shall in such subsequent year and any remaining years referred to in subsection (c) transfer to such affordable housing trust fund the aggregate amount allocated pursuant to subsection (c) in such year. Notwithstanding any other provision of law, assistance provided using amounts transferred to such affordable housing trust fund pursuant to this subsection may not be used for any of the activities specified in clauses (i) through (vi) of subsection (c)(9)(D).
 - **(i)** Any grant under this section to a grantee by a State or State designated entity, any assistance provided to a recipient by a State or State designated entity, and any grant, award, or other assistance from an affordable housing trust fund referred to in subsection (h) shall be considered a Federal award for purposes of the Federal Funding Accountability and Transparency Act of 2006 ( 31 U.S.C. 6101 note). Upon the request of the Director of the Office of Management and Budget, the Secretary shall obtain and provide such information regarding any such grants, assistance, and awards as the Director of the Office of Management and Budget considers necessary to comply with the requirements of such Act, as applicable, pursuant to the preceding sentence.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1338](https://www.govinfo.gov/link/plaw/102/public/550), as added [Pub. L. 110–289, div. A, title I, § 1131(b)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2712](https://www.govinfo.gov/link/statute/122/2712).)*

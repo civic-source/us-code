@@ -3,9 +3,10 @@ title: "Section 7503 - Relation to other audit requirements"
 usc_title: 31
 usc_section: "7503"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 7503"
-generated_at: "2026-03-30T02:55:34.076Z"
+generated_at: "2026-11-23T21:26:10.654Z"
+status: "active"
 ---
 
 # § 7503. Relation to other audit requirements
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:34.076Z"
 - **(d)** Subsection (a) shall apply to a non-Federal entity which undergoes an audit in accordance with this chapter even though it is not required by section 7502(a) to have such an audit.
 - **(e)** A Federal agency that provides Federal awards and conducts or arranges for audits of non-Federal entities receiving such awards that are in addition to the audits of non-Federal entities conducted pursuant to this chapter shall, consistent with other applicable law, arrange for funding the full cost of such additional audits. Any such additional audits shall be coordinated with the Federal agency determined under criteria issued under section 7504 to preclude duplication of the audits conducted pursuant to this chapter or other additional audits.
 - **(f)** Upon request by a Federal agency or the Comptroller General, any independent auditor conducting an audit pursuant to this chapter shall make the auditor’s working papers available to the Federal agency or the Comptroller General as part of a quality review, to resolve audit findings, or to carry out oversight responsibilities consistent with the purposes of this chapter. Such access to auditor’s working papers shall include the right to obtain copies.
+
+## Source Credit
+
+*(Added [Pub. L. 98–502, § 2(a)](https://www.govinfo.gov/link/plaw/98/public/502), Oct. 19, 1984, [98 Stat. 2332](https://www.govinfo.gov/link/statute/98/2332); amended [Pub. L. 103–272, § 4(f)(1)(X)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1363](https://www.govinfo.gov/link/statute/108/1363); [Pub. L. 104–156, § 2](https://www.govinfo.gov/link/plaw/104/public/156), July 5, 1996, [110 Stat. 1401](https://www.govinfo.gov/link/statute/110/1401).)*

@@ -3,9 +3,10 @@ title: "Section 3510 - Coordination of collection of domestic service employment
 usc_title: 26
 usc_section: "3510"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 3510"
-generated_at: "2026-03-30T02:55:27.797Z"
+generated_at: "2026-11-23T21:26:06.587Z"
+status: "active"
 ---
 
 # § 3510. Coordination of collection of domestic service employment taxes with collection of income taxes
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:27.797Z"
   - **(2)** Any amount collected under an agreement referred to in paragraph (1) shall be transferred by the Secretary to the account of the State in the Unemployment Trust Fund.
   - **(3)** For purposes of subtitle F, any amount required to be collected under an agreement under paragraph (1) shall be treated as a tax imposed by chapter 23.
   - **(4)** For purposes of this subsection, the term “State” has the meaning given such term by section 3306(j)(1).
+
+## Source Credit
+
+*(Added [Pub. L. 103–387, § 2(b)(1)](https://www.govinfo.gov/link/plaw/103/public/387), Oct. 22, 1994, [108 Stat. 4073](https://www.govinfo.gov/link/statute/108/4073); amended [Pub. L. 113–295, div. A, title II, § 221(a)(102)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4052](https://www.govinfo.gov/link/statute/128/4052).)*

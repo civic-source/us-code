@@ -3,9 +3,10 @@ title: "Section 6991 - Definitions"
 usc_title: 7
 usc_section: "6991"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6991"
-generated_at: "2026-03-30T02:53:42.442Z"
+generated_at: "2026-11-23T21:25:28.409Z"
+status: "active"
 ---
 
 # § 6991. Definitions
@@ -28,3 +29,7 @@ For purposes of this subchapter:
   - **(7)** The term “hearing officer” means an individual employed by the Division who hears and determines appeals of adverse decisions by any agency.
   - **(8)** The term “implement” refers to those actions necessary to effectuate fully and promptly a final determination of the Division not later than 30 calendar days after the effective date of the final determination.
   - **(9)** The term “participant” shall have the meaning given that term by the Secretary by regulation.
+
+## Source Credit
+
+*([Pub. L. 103–354, title II, § 271](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3228](https://www.govinfo.gov/link/statute/108/3228); [Pub. L. 115–334, title XII](https://www.govinfo.gov/link/plaw/115/public/334), §§ 12404(b)(2), 12410(c)(2)(B), Dec. 20, 2018, [132 Stat. 4975](https://www.govinfo.gov/link/statute/132/4975), 4978.)*

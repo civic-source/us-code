@@ -3,9 +3,10 @@ title: "Section 421 - Disability determinations"
 usc_title: 42
 usc_section: "421"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 421"
-generated_at: "2026-03-30T02:56:10.865Z"
+generated_at: "2026-11-23T21:26:31.044Z"
+status: "active"
 ---
 
 # § 421. Disability determinations
@@ -64,3 +65,11 @@ generated_at: "2026-03-30T02:56:10.865Z"
   - **(2)** An individual to which paragraph (1) applies shall continue to be subject to—
     - **(A)** continuing disability reviews on a regularly scheduled basis that is not triggered by work; and
     - **(B)** termination of benefits under this subchapter in the event that the individual has earnings that exceed the level of earnings established by the Commissioner to represent substantial gainful activity.
+
+In General
+
+Report
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title II, § 221, as added Sept. 1, 1954, ch. 1206, title I, § 106(g), [68 Stat. 1081](https://www.govinfo.gov/link/statute/68/1081); amended Aug. 1, 1956, ch. 836, title I, § 103(c)(7), (8), (h), [70 Stat. 818](https://www.govinfo.gov/link/statute/70/818), 823; [Pub. L. 90–248, title I, § 158(c)(3)](https://www.govinfo.gov/link/plaw/90/public/248), (4), Jan. 2, 1968, [81 Stat. 869](https://www.govinfo.gov/link/statute/81/869); [Pub. L. 96–265, title III](https://www.govinfo.gov/link/plaw/96/public/265), §§ 304(a)–(f), 311(a), June 9, 1980, [94 Stat. 453–456](https://www.govinfo.gov/link/statute/94/453), 460; [Pub. L. 97–455](https://www.govinfo.gov/link/plaw/97/public/455), §§ 3(a), 6, Jan. 12, 1983, [96 Stat. 2499](https://www.govinfo.gov/link/statute/96/2499), 2500; [Pub. L. 98–369, div. B, title VI, § 2663(a)(14)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1164](https://www.govinfo.gov/link/statute/98/1164); [Pub. L. 98–460](https://www.govinfo.gov/link/plaw/98/public/460), §§ 6(a), 8(a), 9(a)(1), 10(a), 17(a), Oct. 9, 1984, [98 Stat. 1802](https://www.govinfo.gov/link/statute/98/1802), 1804, 1805, 1811; [Pub. L. 99–514, title XVIII, § 1883(a)(9)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2916](https://www.govinfo.gov/link/statute/100/2916); [Pub. L. 100–647, title VIII, § 8012(a)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3789](https://www.govinfo.gov/link/statute/102/3789); [Pub. L. 101–239, title X, § 10306(a)(1)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2484](https://www.govinfo.gov/link/statute/103/2484); [Pub. L. 101–508, title V, § 5128(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–286](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–296, title I, § 107(a)(4)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1478](https://www.govinfo.gov/link/statute/108/1478); [Pub. L. 106–170, title I](https://www.govinfo.gov/link/plaw/106/public/170), §§ 101(b)(1)(A), 111(a), Dec. 17, 1999, [113 Stat. 1873](https://www.govinfo.gov/link/statute/113/1873), 1881; [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 114–74, title VIII, § 832(a)](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 613](https://www.govinfo.gov/link/statute/129/613).)*

@@ -3,9 +3,10 @@ title: "Section 7702 - Life insurance contract defined"
 usc_title: 26
 usc_section: "7702"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7702"
-generated_at: "2026-03-30T02:55:27.884Z"
+generated_at: "2026-11-23T21:26:07.008Z"
+status: "active"
 ---
 
 # § 7702. Life insurance contract defined
@@ -43,7 +44,21 @@ generated_at: "2026-03-30T02:55:27.884Z"
   - **(4)** The term “guideline level premium” means the level annual amount, payable over a period not ending before the insured attains age 95, computed on the same basis as the guideline single premium, except that paragraph (3)(B)(iii) shall be applied by substituting “the applicable accumulation test minimum rate” for “the applicable guideline premium minimum rate”.
 - **(d)** For purposes of this section—
   - **(1)** A contract falls within the cash value corridor of this subsection if the death benefit under the contract at any time is not less than the applicable percentage of the cash surrender value.
-  - **(2)** In the case of an insured with an attained age as of the beginning of the contract year of: The applicable percentage shall decrease by a ratable portion for each full year: More than: But not more than: From: To: 0 40 250 250 40 45 250 215 45 50 215 185 50 55 185 150 55 60 150 130 60 65 130 120 65 70 120 115 70 75 115 105 75 90 105 105 90 95 105 100.
+  - **(2)**
+
+| In the case of an insured with an attained age as of the beginning of the contract year of: | The applicable percentage shall decrease by a ratable portion for each full year: | Col 3 | Col 4 |
+| --- | --- | --- | --- |
+| 0 | 40 | 250 | 250 |
+| 40 | 45 | 250 | 215 |
+| 45 | 50 | 215 | 185 |
+| 50 | 55 | 185 | 150 |
+| 55 | 60 | 150 | 130 |
+| 60 | 65 | 130 | 120 |
+| 65 | 70 | 120 | 115 |
+| 70 | 75 | 115 | 105 |
+| 75 | 90 | 105 | 105 |
+| 90 | 95 | 105 | 100. |
+
 - **(e)**
   - **(1)** For purposes of this section (other than subsection (d))—
     - **(A)** the death benefit (and any qualified additional benefit) shall be deemed not to increase,
@@ -141,3 +156,71 @@ generated_at: "2026-03-30T02:55:27.884Z"
     - **(A)** The term “church” means a church or a convention or association of churches.
     - **(B)** The term “employee” includes an employee described in section 414(e)(3)(B).
 - **(k)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
+
+0
+
+250
+
+40
+
+250
+
+45
+
+215
+
+50
+
+185
+
+55
+
+150
+
+60
+
+130
+
+65
+
+120
+
+70
+
+115
+
+75
+
+105
+
+90
+
+105
+
+In general
+
+Special rule for certain contracts issued after june 30, 1984 .—
+
+General rule
+
+Exception for certain contracts
+
+Certain contracts issued before october 1, 1984 .—
+
+In general
+
+Definitions
+
+In general
+
+Net single premium
+
+Transitional rule for certain existing plans of insurance
+
+Extension of flexible premium contract provisions
+
+Special rule for master contract
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title II, § 221(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 767](https://www.govinfo.gov/link/statute/98/767); amended [Pub. L. 99–514, title XVIII, § 1825(a)](https://www.govinfo.gov/link/plaw/99/public/514) –(c), Oct. 22, 1986, [100 Stat. 2846–2848](https://www.govinfo.gov/link/statute/100/2846); [Pub. L. 100–647, title V, § 5011(a)](https://www.govinfo.gov/link/plaw/100/public/647), (b), title VI, § 6078(a), Nov. 10, 1988, [102 Stat. 3660](https://www.govinfo.gov/link/statute/102/3660), 3661, 3709; [Pub. L. 115–97, title I, § 13517(a)(4)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2146](https://www.govinfo.gov/link/statute/131/2146); [Pub. L. 116–260, div. EE, title II, § 205(a)](https://www.govinfo.gov/link/plaw/116/public/260) –(d), Dec. 27, 2020, [134 Stat. 3058](https://www.govinfo.gov/link/statute/134/3058).)*

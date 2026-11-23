@@ -3,9 +3,10 @@ title: "Section 993 - Notification of permanent reduction of sizable numbers of 
 usc_title: 10
 usc_section: "993"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 993"
-generated_at: "2026-03-30T02:53:38.094Z"
+generated_at: "2026-11-23T21:25:32.372Z"
+status: "active"
 ---
 
 # § 993. Notification of permanent reduction of sizable numbers of members of the armed forces
@@ -22,3 +23,29 @@ generated_at: "2026-03-30T02:53:38.094Z"
 - **(d)** In this section:
   - **(1)** The term “indirect reduction” means subsequent planned reductions or relocations in base operations support services and personnel able to occur due to the direct reductions.
   - **(2)** The term “military installation” means a base, camp, post, station, yard, center, homeport facility for any ship, or other activity under the jurisdiction of the Department of Defense, including any leased facility, which is located within any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, or Guam. Such term does not include any facility used primarily for civil works, rivers and harbors projects, or flood control projects.
+
+Notification
+
+Notice Requirements
+
+Exceptions.—
+
+Base closure process
+
+National security or emergency
+
+Definitions
+
+Report
+
+Notification Required
+
+Contents of Notification
+
+Exception
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 112–81, div. B, title XXVIII, § 2864(a)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1702](https://www.govinfo.gov/link/statute/125/1702); amended [Pub. L. 112–239, div. B, title XXVIII, § 2851](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2159](https://www.govinfo.gov/link/statute/126/2159).)*

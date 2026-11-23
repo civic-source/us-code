@@ -3,9 +3,10 @@ title: "Section 13367 - Coal exports"
 usc_title: 42
 usc_section: "13367"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13367"
-generated_at: "2026-03-30T02:56:11.442Z"
+generated_at: "2026-11-23T21:26:33.598Z"
+status: "active"
 ---
 
 # § 13367. Coal exports
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.442Z"
   - **(3)** recommendations and a plan for addressing any such trade barriers;
   - **(4)** an evaluation of existing infrastructure in the United States and any new infrastructure requirements in the United States to support an expansion of exports of coal mined in the United States, including ports, vessels, rail lines, and any other supporting infrastructure; and
   - **(5)** an assessment of environmental implications of coal exports and the identification of export opportunities for blending coal mined in the United States with coal indigenous to other countries to enhance energy efficiency and environmental performance.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XIII, § 1338](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2986](https://www.govinfo.gov/link/statute/106/2986).)*

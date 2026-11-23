@@ -3,9 +3,10 @@ title: "Section 1464a - Election to operate as a covered savings association"
 usc_title: 12
 usc_section: "1464a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1464a"
-generated_at: "2026-03-30T02:53:53.398Z"
+generated_at: "2026-11-23T21:25:36.840Z"
+status: "active"
 ---
 
 # § 1464a. Election to operate as a covered savings association
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:53.398Z"
   - **(5)** that clarify requirements for the treatment of covered savings associations, including the provisions of law that apply to covered savings associations; and
   - **(6)** as the Comptroller determines necessary in the interests of safety and soundness.
 - **(g)** Subject to the rules issued under subsection (f), a covered savings association may continue to operate as a covered savings association if, after the date on which the election is made under subsection (b), the covered savings association has total consolidated assets greater than $20,000,000,000.
+
+## Source Credit
+
+*(June 13, 1933, ch. 64, § 5A, as added [Pub. L. 115–174, title II, § 206](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1310](https://www.govinfo.gov/link/statute/132/1310).)*

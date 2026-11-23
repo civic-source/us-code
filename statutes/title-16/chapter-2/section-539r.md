@@ -3,9 +3,10 @@ title: "Section 539r - Rocky Mountain Front Conservation Management Area and wil
 usc_title: 16
 usc_section: "539r"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 539r"
-generated_at: "2026-03-30T02:54:22.868Z"
+generated_at: "2026-11-23T21:25:51.663Z"
+status: "active"
 ---
 
 # § 539r. Rocky Mountain Front Conservation Management Area and wilderness additions
@@ -103,3 +104,31 @@ generated_at: "2026-03-30T02:54:22.868Z"
     - **(A)** Bridge Coulee.
     - **(B)** Musselshell Breaks.
   - **(2)** Not later than 30 days after the date on which the review is completed under paragraph (1), the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report that describes the oil and gas potential for the wilderness study areas.
+
+(aa) the Act of March 1, 1911 (commonly known as the “Weeks Law”) ( 16 U.S.C. 552 et seq.); and
+
+(bb) any laws (including regulations) applicable to the National Forest System;
+
+(aa) rerouting or closing an existing road or trail to protect natural resources from degradation, as determined to be appropriate by the Secretary;
+
+(bb) constructing a temporary road on which motorized vehicles are permitted as part of a vegetation management project in any portion of the Conservation Management Area located not more than ¼ mile from the Teton Road, South Teton Road, Sun River Road, Beaver Willow Road, or Benchmark Road;
+
+(cc) authorizing the use of motorized vehicles for administrative purposes (including noxious weed eradication or grazing management); or
+
+(dd) responding to an emergency.
+
+(aa) such reasonable regulations, policies, and practices as the Secretary determines appropriate; and
+
+(bb) all applicable laws; and
+
+(aa) the purposes described in paragraph (2); and
+
+(bb) the guidelines set forth in the report of the Committee on Interior and Insular Affairs of the House of Representatives accompanying H.R. 5487 of the 96th Congress (H. Rept. 96–617).
+
+(aa) such reasonable regulations, policies, and practices as the Secretary determines appropriate; and
+
+(bb) all applicable laws (including regulations); and
+
+## Source Credit
+
+*([Pub. L. 113–291, div. B, title XXX, § 3065](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3833](https://www.govinfo.gov/link/statute/128/3833).)*

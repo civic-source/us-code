@@ -3,9 +3,10 @@ title: "Section 6614 - Policy planning; analysis; advice; establishment of advis
 usc_title: 42
 usc_section: "6614"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6614"
-generated_at: "2026-03-30T02:56:11.263Z"
+generated_at: "2026-11-23T21:26:32.965Z"
+status: "active"
 ---
 
 # § 6614. Policy planning; analysis; advice; establishment of advisory panel
@@ -31,3 +32,11 @@ generated_at: "2026-03-30T02:56:11.263Z"
     - **(A)** The Director of the Office, or his representative, shall serve as Chairman of the Panel.
     - **(B)** The Panel shall perform such functions as the Chairman may prescribe, and shall meet at the call of the Chairman.
   - **(4)** Each member of the Panel shall, while serving on business of the Panel, be entitled to receive compensation at a rate not to exceed the daily rate prescribed for GS–18 of the General Schedule under section 5332 of title 5 , including traveltime, and, while so serving away from his home or regular place of business, he may be allowed travel expenses, including per diem in lieu of subsistence in the same manner as the expenses authorized by section 5703(b) 1 of title 5 for persons in government service employed intermittently.
+
+Study
+
+Independent Merit-Based Evaluation Defined
+
+## Source Credit
+
+*([Pub. L. 94–282, title II, § 205](https://www.govinfo.gov/link/plaw/94/public/282), May 11, 1976, [90 Stat. 464](https://www.govinfo.gov/link/statute/90/464); [Pub. L. 97–375, title II, § 215(2)](https://www.govinfo.gov/link/plaw/97/public/375), (4), Dec. 21, 1982, [96 Stat. 1826](https://www.govinfo.gov/link/statute/96/1826), 1827; [Pub. L. 117–328, div. FF, title II, § 2104(k)(3)(A)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5720](https://www.govinfo.gov/link/statute/136/5720).)*

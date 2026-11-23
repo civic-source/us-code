@@ -3,9 +3,10 @@ title: "Section 20164 - Development and use of rail safety technology"
 usc_title: 49
 usc_section: "20164"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 20164"
-generated_at: "2026-03-30T02:56:19.338Z"
+generated_at: "2026-11-23T21:26:40.711Z"
+status: "active"
 ---
 
 # § 20164. Development and use of rail safety technology
@@ -20,3 +21,11 @@ generated_at: "2026-03-30T02:56:19.338Z"
   - **(7)** track integrity warning systems; or
   - **(8)** other similar rail safety technologies, as determined by the Secretary.
 - **(b)** In this section, the term “dark territory” means any territory in a railroad system that does not have a signal or train control system installed or operational.
+
+In General
+
+Dark Territory Defined
+
+## Source Credit
+
+*(Added [Pub. L. 110–432, div. A, title IV, § 406(a)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4886](https://www.govinfo.gov/link/statute/122/4886); amended [Pub. L. 114–94, div. A, title XI, § 11316(i)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1677](https://www.govinfo.gov/link/statute/129/1677).)*

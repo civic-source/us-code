@@ -3,9 +3,10 @@ title: "Section 608 - Prohibitions; requirements"
 usc_title: 42
 usc_section: "608"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 608"
-generated_at: "2026-03-30T02:56:10.873Z"
+generated_at: "2026-11-23T21:26:31.081Z"
+status: "active"
 ---
 
 # § 608. Prohibitions; requirements
@@ -133,3 +134,19 @@ generated_at: "2026-03-30T02:56:10.873Z"
     - **(B)** paroled into the United States under section 212(d)(5) of such Act [ 8 U.S.C. 1182(d)(5) ] for a period of at least 1 year; or
     - **(C)** granted political asylum by the Attorney General under section 208 of such Act [ 8 U.S.C. 1158 ].
 - **(g)** Each State to which a grant is made under section 603 of this title shall, at least 4 times annually and upon request of the Immigration and Naturalization Service, furnish the Immigration and Naturalization Service with the name and address of, and other identifying information on, any individual who the State knows is not lawfully present in the United States.
+
+(aa) the individual or the minor child referred to in subparagraph (A)(ii)(II) is being or has been subjected to serious physical or emotional harm, sexual abuse, or exploitation in the residence of the individual’s own parent or legal guardian; or
+
+(bb) substantial evidence exists of an act or failure to act that presents an imminent or serious harm if the individual and the minor child lived in the same residence with the individual’s own parent or legal guardian; or
+
+In general
+
+State option to accelerate effective date
+
+In General
+
+Exception
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 408, as added [Pub. L. 104–193, title I, § 103(a)(1)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2134](https://www.govinfo.gov/link/statute/110/2134); amended [Pub. L. 105–33, title V](https://www.govinfo.gov/link/plaw/105/public/33), §§ 5001(d), (h)(1), 5505, 5514(c), 5532(b)(2), 5581(a), Aug. 5, 1997, [111 Stat. 591](https://www.govinfo.gov/link/statute/111/591), 593, 610, 620, 626, 642; [Pub. L. 109–171, title VII, § 7301(a)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 141](https://www.govinfo.gov/link/statute/120/141); [Pub. L. 110–234, title IV, § 4002(b)(1)(B)](https://www.govinfo.gov/link/plaw/110/public/234), (2)(V), May 22, 2008, [122 Stat. 1096](https://www.govinfo.gov/link/statute/122/1096), 1097; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4002(b)(1)(B), (2)(V), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1858; [Pub. L. 112–96, title IV, § 4004(a)](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 197](https://www.govinfo.gov/link/statute/126/197).)*

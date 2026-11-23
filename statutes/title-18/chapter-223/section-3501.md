@@ -3,9 +3,10 @@ title: "Section 3501 - Admissibility of confessions"
 usc_title: 18
 usc_section: "3501"
 chapter: 223
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3501"
-generated_at: "2026-03-30T02:54:16.517Z"
+generated_at: "2026-11-23T21:25:44.202Z"
+status: "active"
 ---
 
 # § 3501. Admissibility of confessions
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:16.517Z"
 - **(c)** In any criminal prosecution by the United States or by the District of Columbia, a confession made or given by a person who is a defendant therein, while such person was under arrest or other detention in the custody of any law-enforcement officer or law-enforcement agency, shall not be inadmissible solely because of delay in bringing such person before a magistrate judge or other officer empowered to commit persons charged with offenses against the laws of the United States or of the District of Columbia if such confession is found by the trial judge to have been made voluntarily and if the weight to be given the confession is left to the jury and if such confession was made or given by such person within six hours immediately following his arrest or other detention: Provided , That the time limitation contained in this subsection shall not apply in any case in which the delay in bringing such person before such magistrate judge or other officer beyond such six-hour period is found by the trial judge to be reasonable considering the means of transportation and the distance to be traveled to the nearest available such magistrate judge or other officer.
 - **(d)** Nothing contained in this section shall bar the admission in evidence of any confession made or given voluntarily by any person to any other person without interrogation by anyone, or at any time at which the person who made or gave such confession was not under arrest or other detention.
 - **(e)** As used in this section, the term “confession” means any confession of guilt of any criminal offense or any self-incriminating statement made or given orally or in writing.
+
+## Source Credit
+
+*(Added [Pub. L. 90–351, title II, § 701(a)](https://www.govinfo.gov/link/plaw/90/public/351), June 19, 1968, [82 Stat. 210](https://www.govinfo.gov/link/statute/82/210); amended [Pub. L. 90–578, title III, § 301(a)(3)](https://www.govinfo.gov/link/plaw/90/public/578), Oct. 17, 1968, [82 Stat. 1115](https://www.govinfo.gov/link/statute/82/1115); [Pub. L. 101–650, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117).)*

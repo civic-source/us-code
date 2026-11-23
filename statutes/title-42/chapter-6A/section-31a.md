@@ -3,9 +3,10 @@ title: "Section 31a - Timeframe for obligation and expenditure of grant funds"
 usc_title: 42
 usc_section: "31a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 31a"
-generated_at: "2026-03-30T02:56:10.827Z"
+generated_at: "2026-11-23T21:26:30.870Z"
+status: "active"
 ---
 
 # § 300ff–31a. Timeframe for obligation and expenditure of grant funds
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:10.827Z"
   - **(1)** the ADAP supplemental program if the Secretary determines appropriate; or
   - **(2)** for additional amounts for grants pursuant to section 300ff–29a of this title .
 - **(e)** In administering subsections (b) and (c) with respect to the unobligated balance of a State, the Secretary may elect to reduce the amount of future grants to the State under section 300ff–28, 300ff–29a, or 300ff–30 of this title, as applicable, by the amount of any such unobligated balance in lieu of cancelling such amount as provided for in subsection (b) or (c)(1). In such case, the Secretary may permit the State to use such unobligated balance for purposes of any such future grant. An amount equal to such reduction shall be available for use as additional amounts for grants pursuant to section 300ff–29a of this title , subject to section 300ff–28(a)(2)(H) of this title . Nothing in this paragraph shall be construed to affect the authority of the Secretary under subsections (b) and (c), including the authority to grant waivers under subsection (c)(1). The reduction in future grants authorized under this subsection shall be notwithstanding the penalty required under subsection (c)(4) with respect to unobligated funds.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVI, § 2622, as added and amended [Pub. L. 109–415, title II, § 207](https://www.govinfo.gov/link/plaw/109/public/415), title VII, § 703, Dec. 19, 2006, [120 Stat. 2799](https://www.govinfo.gov/link/statute/120/2799), 2820; [Pub. L. 111–87](https://www.govinfo.gov/link/plaw/111/public/87), §§ 2(a)(1), (3)(A), 5(c)(2)–(4), 8(b)(1)(B), (2)(B), (c)(2), 10(a), Oct. 30, 2009, [123 Stat. 2885](https://www.govinfo.gov/link/statute/123/2885), 2891, 2894, 2895.)*

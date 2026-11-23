@@ -3,9 +3,10 @@ title: "Section 5155 - Continuing studies of striped bass populations"
 usc_title: 16
 usc_section: "5155"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 5155"
-generated_at: "2026-03-30T02:54:23.051Z"
+generated_at: "2026-11-23T21:25:52.028Z"
+status: "active"
 ---
 
 # § 5155. Continuing studies of striped bass populations
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:23.051Z"
     - **(B)** the effects of interspecies predation and competition on the recruitment, spawning potential mortality, and abundance of Atlantic striped bass.
 - **(b)** The Secretaries, in consultation with with 1 1 So in original. the Atlantic States Marine Fisheries Commission, shall conduct a study of the socio-economic benefits of the Atlantic striped bass resource. The Secretaries shall issue a report to the Congress concerning the findings of this study no later than September 30, 1998 .
 - **(c)** The Secretaries shall make biennial reports to the Congress and to the Commission concerning the progress and findings of studies conducted under subsection (a) and shall make those reports public. Such reports shall, to the extent appropriate, contain recommendations of actions which could be taken to encourage the sustainable management of Atlantic striped bass.
+
+## Source Credit
+
+*([Pub. L. 98–613, § 6](https://www.govinfo.gov/link/plaw/98/public/613), Oct. 31, 1984, [98 Stat. 3190](https://www.govinfo.gov/link/statute/98/3190); [Pub. L. 105–146, § 2](https://www.govinfo.gov/link/plaw/105/public/146), Dec. 16, 1997, [111 Stat. 2675](https://www.govinfo.gov/link/statute/111/2675).)*

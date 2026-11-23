@@ -3,9 +3,10 @@ title: "Section 4q - Opposition to assistance by international financial institu
 usc_title: 22
 usc_section: "4q"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4q"
-generated_at: "2026-03-30T02:55:05.307Z"
+generated_at: "2026-11-23T21:25:58.327Z"
+status: "active"
 ---
 
 # § 262p–4q. Opposition to assistance by international financial institutions to terrorist states
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.307Z"
   - **(1)** the International Bank for Reconstruction and Development, the International Development Association, and the International Monetary Fund;
   - **(2)** wherever applicable, the Inter-American Bank, the Asian Development Bank, the European Bank for Reconstruction and Development, the African Development Bank, and the African Development Fund; and
   - **(3)** any similar institution established after April 24, 1996 .
+
+## Source Credit
+
+*([Pub. L. 95–118, title XVI, § 1621](https://www.govinfo.gov/link/plaw/95/public/118), as added [Pub. L. 104–132, title III, § 327](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1257](https://www.govinfo.gov/link/statute/110/1257).)*

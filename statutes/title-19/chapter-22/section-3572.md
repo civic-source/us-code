@@ -3,9 +3,10 @@ title: "Section 3572 - Review of Subsidies Agreement"
 usc_title: 19
 usc_section: "3572"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 3572"
-generated_at: "2026-03-30T02:54:24.693Z"
+generated_at: "2026-11-23T21:25:42.847Z"
+status: "active"
 ---
 
 # § 3572. Review of Subsidies Agreement
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:54:24.693Z"
     - **(A)** the extent to which WTO member countries have cooperated in reviewing and improving the operation of part IV of the Subsidies Agreement,
     - **(B)** the extent to which the provisions of Articles 8.4 and 8.5 of the Subsidies Agreement have been effective in identifying and remedying violations of the conditions and criteria described in Article 8.2 of the Agreement, and
     - **(C)** the extent to which the provisions of Article 9 of the Subsidies Agreement have been effective in remedying the serious adverse effects of subsidy programs described in Article 8.2 of the Agreement.
+
+## Source Credit
+
+*([Pub. L. 103–465, title II, § 282](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4927](https://www.govinfo.gov/link/statute/108/4927); [Pub. L. 104–295, § 20(b)(16)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3527](https://www.govinfo.gov/link/statute/110/3527).)*

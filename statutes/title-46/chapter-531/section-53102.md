@@ -3,9 +3,10 @@ title: "Section 53102 - Establishment of Maritime Security Fleet"
 usc_title: 46
 usc_section: "53102"
 chapter: 531
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 53102"
-generated_at: "2026-03-30T02:56:15.572Z"
+generated_at: "2026-11-23T21:26:37.248Z"
+status: "active"
 ---
 
 # § 53102. Establishment of Maritime Security Fleet
@@ -64,3 +65,49 @@ generated_at: "2026-03-30T02:56:15.572Z"
   - **(2)** is appropriate to allow the maintenance of the economic viability of the vessel and any associated operating network; and
   - **(3)** is necessary due to the lack of availability of other vessels and operators that comply with the requirements of this chapter.
 - **(g)** The Secretary of Defense, in conjunction with the Secretary of Transportation, may, for a particular participating fleet vessel, treat the ages specified in section 53101(5)(A)(ii) and section 53106(c)(3) as increased by up to 5 years if the Secretaries jointly determine that it is in the national interest to do so.
+
+In General
+
+Vessel Eligibility
+
+Requirements Regarding Citizenship of Owners, Charterers, and Operators
+
+Vessel owned and operated by section 50501 citizens
+
+Vessel owned by section 50501 citizen or united states citizen trust, and chartered to documentation citizen
+
+Vessel owned and operated by defense contractor
+
+Vessel owned by documentation citizen and chartered to section 50501 citizen
+
+Request by Secretary of Defense
+
+Vessel Standards
+
+Certificate of inspection
+
+Continued eligibility for certificate
+
+Reliance on classification society
+
+In general
+
+Foreign classification society
+
+Authority To Waive Age Restriction for Eligibility of a Vessel To Be Included in Fleet
+
+Authority To Extend Maximum Service Age for Vessel
+
+Certificate of Inspection
+
+Continued Eligibility for Certificate
+
+Reliance on Classification Society.—
+
+In general
+
+Foreign classification society
+
+## Source Credit
+
+*(Added [Pub. L. 108–136, div. C, title XXXV, § 3531(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1805](https://www.govinfo.gov/link/statute/117/1805); amended [Pub. L. 109–304, § 13(a)(1)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1700](https://www.govinfo.gov/link/statute/120/1700); [Pub. L. 112–239, div. C, title XXXV, § 3508(b)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2223](https://www.govinfo.gov/link/statute/126/2223); [Pub. L. 114–328, div. C, title XXXV, § 3502(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2774](https://www.govinfo.gov/link/statute/130/2774).)*

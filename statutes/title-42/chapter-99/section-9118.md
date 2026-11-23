@@ -3,9 +3,10 @@ title: "Section 9118 - Marine environmental protection and safety of life and pr
 usc_title: 42
 usc_section: "9118"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9118"
-generated_at: "2026-03-30T02:56:11.350Z"
+generated_at: "2026-11-23T21:26:33.228Z"
+status: "active"
 ---
 
 # § 9118. Marine environmental protection and safety of life and property at sea
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.350Z"
   - **(3)** For the purposes of the documentation laws, for which compliance is required under paragraph (1) of this subsection, ocean thermal energy conversion facilities and plantships shall be deemed to be vessels and, if documented, vessels of the United States for the purposes of the Ship Mortgage Act, 1920 ( 46 U.S.C. 911–984 ).
   - **(4)** For the purposes of this subsection the term “ocean thermal energy conversion facility” refers only to an ocean thermal energy conversion facility which has major components other than water intake or discharge pipes located seaward of the highwater mark 1 1 So in original. Probably should be followed by a period.
 - **(f)** Subject to recognized principles of international law, the Secretary of the department in which the Coast Guard is operating shall promulgate and enforce such regulations as he deems necessary to protect navigation in the vicinity of a vessel engaged in the installation, repair, or maintenance of any submarine electric transmission cable or equipment, and to govern the markings and signals used by such a vessel.
+
+## Source Credit
+
+*([Pub. L. 96–320, title I, § 108](https://www.govinfo.gov/link/plaw/96/public/320), Aug. 3, 1980, [94 Stat. 986](https://www.govinfo.gov/link/statute/94/986); [Pub. L. 98–623, title VI, § 602(a)(6)](https://www.govinfo.gov/link/plaw/98/public/623), (7), (e)(1), (15), Nov. 8, 1984, [98 Stat. 3410–3412](https://www.govinfo.gov/link/statute/98/3410).)*

@@ -3,9 +3,10 @@ title: "Section 943 - Tissue bank"
 usc_title: 16
 usc_section: "943"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 943"
-generated_at: "2026-03-30T02:54:22.935Z"
+generated_at: "2026-11-23T21:25:51.795Z"
+status: "active"
 ---
 
 # § 943. Tissue bank
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:22.935Z"
   - **(1)** appropriate uniform methods and standards for those activities to provide confidence in Great Lakes fish and wildlife tissue samples used for research;
   - **(2)** documentation of procedures used for collecting, preparing, and archiving those samples; and
   - **(3)** appropriate scientific use of the tissues in the Great Lakes Fish and Wildlife Tissue Bank.
+
+## Source Credit
+
+*([Pub. L. 102–440, title II, § 202](https://www.govinfo.gov/link/plaw/102/public/440), Oct. 23, 1992, [106 Stat. 2233](https://www.govinfo.gov/link/statute/106/2233).)*

@@ -3,9 +3,10 @@ title: "Section 6329c - Weather and safety leave"
 usc_title: 5
 usc_section: "6329c"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 6329c"
-generated_at: "2026-03-30T02:52:56.032Z"
+generated_at: "2026-11-23T21:25:23.328Z"
+status: "active"
 ---
 
 # § 6329c. Weather and safety leave
@@ -27,3 +28,17 @@ generated_at: "2026-03-30T02:52:56.032Z"
   - **(1)** guidance to agencies regarding the appropriate purposes for providing leave under this section; and
   - **(2)** the proper recording of leave provided under this section.
 - **(e)** Notwithstanding subsection (a) of section 7421 of title 38 , this section shall apply to an employee described in subsection (b) of that section.
+
+Definitions
+
+Leave for Weather and Safety Issues
+
+Records
+
+Regulations
+
+Relation to Other Laws
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title XI, § 1138(e)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2469](https://www.govinfo.gov/link/statute/130/2469).)*

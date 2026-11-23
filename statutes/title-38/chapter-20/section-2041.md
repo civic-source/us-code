@@ -3,9 +3,10 @@ title: "Section 2041 - Housing assistance for homeless veterans"
 usc_title: 38
 usc_section: "2041"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 2041"
-generated_at: "2026-03-30T02:55:53.494Z"
+generated_at: "2026-11-23T21:26:16.690Z"
+status: "active"
 ---
 
 # § 2041. Housing assistance for homeless veterans
@@ -36,4 +37,42 @@ generated_at: "2026-03-30T02:55:53.494Z"
     - **(A)** shall establish credit standards to be used for this purpose;
     - **(B)** may, pursuant to section 3733(a)(6) of this title , provide that the loan will bear interest at a rate below the rate that prevails for similar loans in the market in which the loan is made; and
     - **(C)** may waive the collection of a fee under section 3729 of this title in any case in which the Secretary determines that such a waiver would be appropriate.
-- **(c)** The Secretary may not enter into agreements under subsection (a) after September 30, 2026 .
+- **(c)** The Secretary may not enter into agreements under subsection (a) after December 11, 2026 .
+
+In General
+
+Payment for Services
+
+In General
+
+Information Described
+
+In General
+
+Deadline
+
+In General
+
+Covered Veterans
+
+Eligible Entities
+
+Consultation
+
+Technical Assistance for Collaborating Entities.—
+
+In general
+
+Grants
+
+Funding
+
+Annual Report.—
+
+In general
+
+Elements
+
+## Source Credit
+
+*(Added [Pub. L. 102–54, § 9(a)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 272](https://www.govinfo.gov/link/statute/105/272), § 1835; renumbered § 3735, [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); amended [Pub. L. 102–590](https://www.govinfo.gov/link/plaw/102/public/590), §§ 8, 9, Nov. 10, 1992, [106 Stat. 5140](https://www.govinfo.gov/link/statute/106/5140); [Pub. L. 103–446, title XII, § 1201(d)(13)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4684](https://www.govinfo.gov/link/statute/108/4684); [Pub. L. 104–110, title I, § 101(h)](https://www.govinfo.gov/link/plaw/104/public/110), Feb. 13, 1996, [110 Stat. 768](https://www.govinfo.gov/link/statute/110/768); [Pub. L. 105–114, title II, § 203(a)](https://www.govinfo.gov/link/plaw/105/public/114), Nov. 21, 1997, [111 Stat. 2288](https://www.govinfo.gov/link/statute/111/2288); [Pub. L. 105–368, title VI, § 602(e)(1)(G)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3347](https://www.govinfo.gov/link/statute/112/3347); [Pub. L. 106–117, title IX, § 902](https://www.govinfo.gov/link/plaw/106/public/117), Nov. 30, 1999, [113 Stat. 1587](https://www.govinfo.gov/link/statute/113/1587); renumbered § 2041, [Pub. L. 107–95, § 5(c)](https://www.govinfo.gov/link/plaw/107/public/95), Dec. 21, 2001, [115 Stat. 918](https://www.govinfo.gov/link/statute/115/918); [Pub. L. 108–170, title IV, § 404](https://www.govinfo.gov/link/plaw/108/public/170), Dec. 6, 2003, [117 Stat. 2063](https://www.govinfo.gov/link/statute/117/2063); [Pub. L. 109–444, § 8(a)(5)](https://www.govinfo.gov/link/plaw/109/public/444), Dec. 21, 2006, [120 Stat. 3313](https://www.govinfo.gov/link/statute/120/3313); [Pub. L. 109–461, title VII, § 705](https://www.govinfo.gov/link/plaw/109/public/461), title X, §§ 1004(a)(5), 1006(b), Dec. 22, 2006, [120 Stat. 3440](https://www.govinfo.gov/link/statute/120/3440), 3465, 3468; [Pub. L. 112–37, § 10(e)](https://www.govinfo.gov/link/plaw/112/public/37), Oct. 5, 2011, [125 Stat. 397](https://www.govinfo.gov/link/statute/125/397); [Pub. L. 112–191, title II, § 205](https://www.govinfo.gov/link/plaw/112/public/191), Oct. 5, 2012, [126 Stat. 1439](https://www.govinfo.gov/link/statute/126/1439); [Pub. L. 113–59, § 10](https://www.govinfo.gov/link/plaw/113/public/59), Dec. 20, 2013, [127 Stat. 662](https://www.govinfo.gov/link/statute/127/662); [Pub. L. 113–175, title II, § 205](https://www.govinfo.gov/link/plaw/113/public/175), Sept. 26, 2014, [128 Stat. 1904](https://www.govinfo.gov/link/statute/128/1904); [Pub. L. 114–58, title III, § 303](https://www.govinfo.gov/link/plaw/114/public/58), Sept. 30, 2015, [129 Stat. 534](https://www.govinfo.gov/link/statute/129/534); [Pub. L. 114–228, title III, § 304](https://www.govinfo.gov/link/plaw/114/public/228), Sept. 29, 2016, [130 Stat. 939](https://www.govinfo.gov/link/statute/130/939); [Pub. L. 117–328, div. U, title III, § 304](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5470](https://www.govinfo.gov/link/statute/136/5470); [Pub. L. 119–103, div. D, title III, § 4303](https://www.govinfo.gov/link/plaw/119/public/103), Sept. 2, 2026, [140 Stat. 1008](https://www.govinfo.gov/link/statute/140/1008).)*

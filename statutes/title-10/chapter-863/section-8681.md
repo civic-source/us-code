@@ -3,9 +3,10 @@ title: "Section 8681 - Repair or maintenance of naval vessels: handling of hazar
 usc_title: 10
 usc_section: "8681"
 chapter: 863
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 8681"
-generated_at: "2026-03-30T02:53:38.248Z"
+generated_at: "2026-11-23T21:25:32.940Z"
+status: "active"
 ---
 
 # § 8681. Repair or maintenance of naval vessels: handling of hazardous waste
@@ -25,3 +26,23 @@ generated_at: "2026-03-30T02:53:38.248Z"
   - **(2)** those hazardous wastes originated on, or resulted from material furnished by the Government for, the naval vessel on which the work is being performed.
 - **(c)** The Secretary of the Navy shall remove known hazardous wastes from a vessel before the vessel’s arrival at a contractor’s facility for performance of a contract, to the extent such removal is feasible.
 - **(d)** Nothing in this section shall be construed as altering or otherwise affecting those provisions of the Solid Waste Disposal Act ( 42 U.S.C. 6901 et seq.) that relate to generators of hazardous waste. For purposes of this section, any term used in this section for which a definition is provided by the Solid Waste Disposal Act (or regulations promulgated pursuant to such Act) has the meaning provided by that Act or regulations.
+
+Contractual Provisions
+
+Identification of hazardous wastes
+
+Compensation
+
+Statement of work
+
+Accountability for hazardous wastes
+
+Renegotiation of Contract
+
+Removal of Wastes
+
+Relationship to Solid Waste Disposal Act
+
+## Source Credit
+
+*(Added [Pub. L. 99–661, div. A, title XII, § 1202(a)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3967](https://www.govinfo.gov/link/statute/100/3967), § 7311; amended [Pub. L. 101–189, div. A, title XVI, § 1611(a)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1599](https://www.govinfo.gov/link/statute/103/1599); renumbered § 8681, [Pub. L. 115–232, div. A, title VIII, § 807(d)(2)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1836](https://www.govinfo.gov/link/statute/132/1836).)*

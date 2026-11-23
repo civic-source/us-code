@@ -3,9 +3,10 @@ title: "Section 3381 - Findings"
 usc_title: 22
 usc_section: "3381"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3381"
-generated_at: "2026-03-30T02:55:05.393Z"
+generated_at: "2026-11-23T21:25:58.585Z"
+status: "active"
 ---
 
 # § 3381. Findings
@@ -18,3 +19,7 @@ Congress makes the following findings:
     - **(A)** a key priority of expanding people-to-people exchanges, which was outlined in President Donald J. Trump’s 2017 National Security Strategy;
     - **(B)** President Joseph R. Biden’s commitment to Taiwan, “a leading democracy and a critical economic and security partner”, as expressed in his March 2021 Interim National Security Strategic Guidance; and
     - **(C)** April 2021 guidance from the Department of State based on a review required under the Taiwan Assurance Act of 2020 (subtitle B of title III of division FF of Public Law 116–260 ) to “encourage U.S. government engagement with Taiwan that reflects our deepening unofficial relationship”.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. E, title LV, § 5527](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3324](https://www.govinfo.gov/link/statute/136/3324).)*

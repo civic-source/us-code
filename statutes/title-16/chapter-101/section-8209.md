@@ -3,9 +3,10 @@ title: "Section 8209 - Accountability and reporting"
 usc_title: 16
 usc_section: "8209"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8209"
-generated_at: "2026-03-30T02:54:23.083Z"
+generated_at: "2026-11-23T21:25:52.075Z"
+status: "active"
 ---
 
 # § 8209. Accountability and reporting
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:23.083Z"
       - **(ii)** the order of priority for funding of each fish habitat conservation project;
     - **(D)** a justification for any rejection of a fish habitat conservation project recommended by the Board under section 8205(b) of this title that was based on a factor other than the criteria described in section 8205(c) of this title ; and
     - **(E)** an accounting of expenditures by Federal, State, or local governments, Indian Tribes, or other entities to carry out fish habitat conservation projects under this chapter.
+
+## Source Credit
+
+*([Pub. L. 116–188, title II, § 209](https://www.govinfo.gov/link/plaw/116/public/188), Oct. 30, 2020, [134 Stat. 935](https://www.govinfo.gov/link/statute/134/935); [Pub. L. 118–198, title II, § 205](https://www.govinfo.gov/link/plaw/118/public/198), Dec. 23, 2024, [138 Stat. 2682](https://www.govinfo.gov/link/statute/138/2682).)*

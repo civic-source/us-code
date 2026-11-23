@@ -3,9 +3,10 @@ title: "Section 7001 - Definitions"
 usc_title: 16
 usc_section: "7001"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 7001"
-generated_at: "2026-03-30T02:54:23.071Z"
+generated_at: "2026-11-23T21:25:52.058Z"
+status: "active"
 ---
 
 # § 7001. Definitions
@@ -21,3 +22,7 @@ In this chapter:
   - **(7)** The term “scientific review group” means the scientific review group established by the Agreement.
   - **(8)** The term “Secretary” means the Secretary of Commerce.
   - **(9)** The term “United States Section” means the United States representatives on the joint management committee.
+
+## Source Credit
+
+*([Pub. L. 109–479, title VI, § 602](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3644](https://www.govinfo.gov/link/statute/120/3644).)*

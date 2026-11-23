@@ -3,9 +3,10 @@ title: "Section 1375a - Report on coastal recreation waters"
 usc_title: 33
 usc_section: "1375a"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1375a"
-generated_at: "2026-03-30T02:55:41.103Z"
+generated_at: "2026-11-23T21:26:11.400Z"
+status: "active"
 ---
 
 # § 1375a. Report on coastal recreation waters
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:41.103Z"
   - **(2)** an evaluation of Federal, State, and local efforts to implement this Act, including the amendments made by this Act; and
   - **(3)** recommendations on improvements to methodologies and techniques for monitoring of coastal recreation waters.
 - **(b)** The Administrator of the Environmental Protection Agency may coordinate the report under this section with other reporting requirements under the Federal Water Pollution Control Act ( 33 U.S.C. 1251 et seq.).
+
+## Source Credit
+
+*([Pub. L. 106–284, § 7](https://www.govinfo.gov/link/plaw/106/public/284), Oct. 10, 2000, [114 Stat. 876](https://www.govinfo.gov/link/statute/114/876).)*

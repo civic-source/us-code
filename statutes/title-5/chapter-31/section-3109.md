@@ -3,9 +3,10 @@ title: "Section 3109 - Employment of experts and consultants; temporary or inter
 usc_title: 5
 usc_section: "3109"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3109"
-generated_at: "2026-03-30T02:52:55.999Z"
+generated_at: "2026-11-23T21:25:23.134Z"
+status: "active"
 ---
 
 # § 3109. Employment of experts and consultants; temporary or intermittent
@@ -25,3 +26,30 @@ generated_at: "2026-03-30T02:52:55.999Z"
 - **(e)** Each agency shall report to the Office of Personnel Management on an annual basis with respect to—
   - **(1)** the number of days each expert or consultant employed by the agency during the period was so employed; and
   - **(2)** the total amount paid by the agency to each expert and consultant for such work during the period.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 55a . | Aug. 2, 1946, ch. 744, § 15 , 60 Stat. 810 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 55a
+
+Aug. 2, 1946, ch. 744, § 15
+
+60 Stat. 810
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 416](https://www.govinfo.gov/link/statute/80/416); [Pub. L. 95–454, title IV, § 402(b)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1160](https://www.govinfo.gov/link/statute/92/1160); [Pub. L. 97–258, § 3(a)(4)](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1063](https://www.govinfo.gov/link/statute/96/1063); [Pub. L. 100–325, § 2(b)](https://www.govinfo.gov/link/plaw/100/public/325), May 30, 1988, [102 Stat. 581](https://www.govinfo.gov/link/statute/102/581); [Pub. L. 102–378, § 2(8)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1347](https://www.govinfo.gov/link/statute/106/1347); [Pub. L. 111–350, § 5(a)(4)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3841](https://www.govinfo.gov/link/statute/124/3841).)*

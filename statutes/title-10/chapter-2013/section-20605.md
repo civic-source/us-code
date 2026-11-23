@@ -3,9 +3,10 @@ title: "Section 20605 - Applicability of other provisions of law relating to ret
 usc_title: 10
 usc_section: "20605"
 chapter: 2013
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 20605"
-generated_at: "2026-03-30T02:53:38.282Z"
+generated_at: "2026-11-23T21:25:33.093Z"
+status: "active"
 ---
 
 # § 20605. Applicability of other provisions of law relating to retirement
@@ -30,3 +31,11 @@ generated_at: "2026-03-30T02:53:38.282Z"
   - **(6)** Chapter 945, relating to computation of retired pay.
   - **(7)** Chapter 1223, relating to retired pay for non-regular service.
   - **(8)** Chapter 1225, relating to retired grade.
+
+Applicability to Members of the Space Force
+
+Provisions of Law
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVII, § 1719A(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 663](https://www.govinfo.gov/link/statute/137/663).)*

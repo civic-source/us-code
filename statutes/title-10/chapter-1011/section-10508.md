@@ -3,9 +3,10 @@ title: "Section 10508 - National Guard Bureau: general provisions"
 usc_title: 10
 usc_section: "10508"
 chapter: 1011
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 10508"
-generated_at: "2026-03-30T02:53:38.266Z"
+generated_at: "2026-11-23T21:25:33.028Z"
+status: "active"
 ---
 
 # § 10508. National Guard Bureau: general provisions
@@ -20,3 +21,21 @@ generated_at: "2026-03-30T02:53:38.266Z"
     - **(C)** In any civil action or proceeding brought in any court arising from an action under this section, the United States shall be the sole defendant or respondent.
     - **(D)** The Attorney General of the United States shall defend the United States in actions arising under this section described in subparagraph (C).
     - **(E)** Any settlement, judgment, or costs arising from an action described in subparagraph (A) or (C) shall be paid from appropriated funds allocated to the National Guard of the jurisdiction concerned.
+
+Manpower Requirements of National Guard Bureau
+
+Personnel for Functions of National Guard Bureau.—
+
+In general
+
+Administration through adjutants general
+
+Administrative actions
+
+Army National Guard of the United States
+
+Air National Guard of the United States
+
+## Source Credit
+
+*(Added [Pub. L. 110–181, div. A, title XVIII, § 1812(b)(1)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 497](https://www.govinfo.gov/link/statute/122/497); amended [Pub. L. 114–328, div. A, title IX, § 932](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2363](https://www.govinfo.gov/link/statute/130/2363); [Pub. L. 115–232, div. A, title V, § 517](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1754](https://www.govinfo.gov/link/statute/132/1754).)*

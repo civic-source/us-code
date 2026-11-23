@@ -3,9 +3,10 @@ title: "Section 2903 - Japan-United States Friendship Commission"
 usc_title: 22
 usc_section: "2903"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2903"
-generated_at: "2026-03-30T02:55:05.389Z"
+generated_at: "2026-11-23T21:25:58.574Z"
+status: "active"
 ---
 
 # § 2903. Japan-United States Friendship Commission
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.389Z"
   - **(5)** the Chairman of the National Endowment for the Humanities.
 - **(b)** Members of the Commission who are not full-time officers or employees of the United States and who are not Members of Congress shall, while serving on business of the Commission, be entitled to receive compensation at rates fixed by the President, but not exceeding the rate specified at the time of such service for grade GS–18 in section 5332 of title 5 , including traveltime; and while so serving away from their homes or regular places of business, all members of the Commission may be allowed travel expenses including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in Government service employed intermittently.
 - **(c)** The Chairman of the United States Panel of the Joint Committee on United States-Japan Cultural and Educational Cooperation shall be the Chairman of the Commission. A majority of the members of the Commission shall constitute a quorum. The Commission shall meet at least twice in each year.
+
+## Source Credit
+
+*([Pub. L. 94–118, § 4](https://www.govinfo.gov/link/plaw/94/public/118), Oct. 20, 1975, [89 Stat. 604](https://www.govinfo.gov/link/statute/89/604).)*

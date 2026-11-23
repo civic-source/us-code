@@ -3,12 +3,17 @@ title: "Section 410m - Ascertainment of owners’ election regarding reservation
 usc_title: 16
 usc_section: "410m"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410m"
-generated_at: "2026-03-30T02:54:22.760Z"
+generated_at: "2026-11-23T21:25:51.433Z"
+status: "active"
 ---
 
 # § 410m. Ascertainment of owners’ election regarding reservation rights
 
 In acquiring any of the land or water within the area described in section 410i of this title the Secretary of the Interior shall exercise reasonable diligence to ascertain whether owners elect to retain reservations in accordance with the provisions of section 410j of this title . If, after the exercise of such reasonable diligence, owners cannot be located, or do not appear in judicial proceedings to acquire the land and water, so that it may be ascertained whether they desire to retain reservations in accordance with the provisions hereof, the Secretary may acquire the fee simple title to their land free and clear of reservations as set forth in subsections (1), (2), and (3) of section 410j of this title .
 
+
+## Source Credit
+
+*([Pub. L. 85–482, § 5](https://www.govinfo.gov/link/plaw/85/public/482), July 2, 1958, [72 Stat. 285](https://www.govinfo.gov/link/statute/72/285).)*

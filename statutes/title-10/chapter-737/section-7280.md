@@ -3,9 +3,10 @@ title: "Section 7280 - Soldier’s Medal: award; limitations"
 usc_title: 10
 usc_section: "7280"
 chapter: 737
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 7280"
-generated_at: "2026-03-30T02:53:38.230Z"
+generated_at: "2026-11-23T21:25:32.846Z"
+status: "active"
 ---
 
 # § 7280. Soldier’s Medal: award; limitations
@@ -14,3 +15,23 @@ generated_at: "2026-03-30T02:53:38.230Z"
   - **(1)** The President may award a decoration called the “Soldier’s Medal”, of appropriate design with accompanying ribbon, to any person who, while serving in any capacity with the Army, distinguishes himself by heroism not involving actual conflict with an enemy.
   - **(2)** The authority in paragraph (1) includes authority to award the medal to a member of the Ready Reserve who was not in a duty status defined in section 101(d) of this title when the member distinguished himself by heroism.
 - **(b)** Not more than one Soldier’s Medal may be awarded to a person. However, for each succeeding act that would otherwise justify the award of such a medal, the President may award a suitable bar or other device to be worn as he directs.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3750(a) | 10:1428 (less last sentence). | July 2, 1926, ch. 721, § 11 , 44 Stat. 789 . |
+| 3750(b) | 10:1428 (last sentence). |  |
+
+
+Historical and Revision Notes
+
+3750(a)
+
+July 2, 1926, ch. 721, § 11
+
+44 Stat. 789
+
+3750(b)
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 217, § 3750; [Pub. L. 105–85, div. A, title V, § 574(a)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1758](https://www.govinfo.gov/link/statute/111/1758); renumbered § 7280, [Pub. L. 115–232, div. A, title VIII, § 808(b)(11)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1838](https://www.govinfo.gov/link/statute/132/1838).)*

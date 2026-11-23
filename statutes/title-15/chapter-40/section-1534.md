@@ -3,9 +3,10 @@ title: "Section 1534 - Assessment of fees for access to environmental data"
 usc_title: 15
 usc_section: "1534"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1534"
-generated_at: "2026-03-30T02:54:08.137Z"
+generated_at: "2026-11-23T21:25:39.831Z"
+status: "active"
 ---
 
 # § 1534. Assessment of fees for access to environmental data
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.137Z"
   - **(1)** any plan of the Secretary for assessing fees under this section by the National Environmental Satellite, Data, and Information Service for archived data, including the methodology and bases by which the amount of such fees shall be determined, and the estimated revenues therefrom; and
   - **(2)** any plan of the Secretary for using revenues generated from such fees, as well as other resources, to improve the capability of the National Environmental Satellite, Data, and Information Service to collect, manage, process, archive, and disseminate the increasing amounts of data generated from satellites, radars, and other technologies.
 - **(g)** The authority of the Secretary to assess fees under this section shall be in addition to, and shall not be construed to limit, the authority under any other law to assess fees relating to the environmental data activities of the National Oceanic and Atmospheric Administration, including the authority of the Secretary pursuant to section 1307 of title 44 . Nothing in this section shall be construed to authorize the Secretary to assess fees for nautical and aeronautical products of the National Oceanic and Atmospheric Administration in addition to those fees authorized under section 1307 of title 44 .
+
+## Source Credit
+
+*([Pub. L. 100–685, title IV, § 409](https://www.govinfo.gov/link/plaw/100/public/685), Nov. 17, 1988, [102 Stat. 4100](https://www.govinfo.gov/link/statute/102/4100); [Pub. L. 101–508, title X, § 10201(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–392](https://www.govinfo.gov/link/statute/104/1388).)*

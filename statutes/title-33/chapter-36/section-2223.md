@@ -3,9 +3,10 @@ title: "Section 2223 - Transfer of excess credit"
 usc_title: 33
 usc_section: "2223"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2223"
-generated_at: "2026-03-30T02:55:41.113Z"
+generated_at: "2026-11-23T21:26:11.424Z"
+status: "active"
 ---
 
 # § 2223. Transfer of excess credit
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:41.113Z"
     - **(A)** a description of the use of the authority under this section during the reporting period;
     - **(B)** an assessment of the impact of the authority under this section on the time required to complete projects; and
     - **(C)** an assessment of the impact of the authority under this section on other water resources projects.
+
+## Source Credit
+
+*([Pub. L. 113–121, title I, § 1020](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1227](https://www.govinfo.gov/link/statute/128/1227); [Pub. L. 114–322, title I, § 1166](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1670](https://www.govinfo.gov/link/statute/130/1670); [Pub. L. 117–263, div. H, title LXXXI, § 8383](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3829](https://www.govinfo.gov/link/statute/136/3829); [Pub. L. 118–272, div. A, title III, § 1303(g)](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3114](https://www.govinfo.gov/link/statute/138/3114).)*

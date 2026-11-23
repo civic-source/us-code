@@ -3,9 +3,10 @@ title: "Section 6314 - Schoolwide programs"
 usc_title: 20
 usc_section: "6314"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6314"
-generated_at: "2026-03-30T02:54:48.194Z"
+generated_at: "2026-11-23T21:25:47.496Z"
+status: "active"
 ---
 
 # § 6314. Schoolwide programs
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:54:48.194Z"
     - **(B)** tuition and fees, books, required instructional materials for such program, and innovative delivery methods; and
     - **(C)** transportation to and from such program.
   - **(3)** Nothing in this subsection shall be construed to impose on any State any requirement or rule regarding dual or concurrent enrollment programs that is inconsistent with State law.
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1114](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1471](https://www.govinfo.gov/link/statute/115/1471); amended [Pub. L. 109–270, § 2(f)(3)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 747](https://www.govinfo.gov/link/statute/120/747); [Pub. L. 114–95, title I, § 1008](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1862](https://www.govinfo.gov/link/statute/129/1862).)*

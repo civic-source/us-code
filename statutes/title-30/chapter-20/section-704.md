@@ -3,12 +3,17 @@ title: "Section 704 - Purchase of substitute lands; limitations; conditions; pay
 usc_title: 30
 usc_section: "704"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 704"
-generated_at: "2026-03-30T02:55:29.387Z"
+generated_at: "2026-11-23T21:26:00.388Z"
+status: "active"
 ---
 
 # § 704. Purchase of substitute lands; limitations; conditions; payment; conveyance of less than a fee
 
 - **(a)** If the Secretary of the Interior determines that conveyance of an interest under section 701 of this title is otherwise justified but the consent required by section 703 of this title is not given, he may, in accordance with such procedural rules and regulations as he may prescribe, grant the applicant a right to purchase, for residential use, an interest in another tract of land, five acres or less in area, from tracts made available by him for sale under this chapter (1) from the unappropriated and unreserved lands of the United States, or (2) from lands subject to classification under section 315f of title 43 . Said right shall not be granted until arrangements satisfactory to the Secretary have been made for termination of the applicant’s occupancy of his unpatented mining claim and for settlement of any liability for the unauthorized use thereof which may have been incurred and shall expire five years from the date on which it was granted unless sooner exercised. The amount to be paid for the interest shall be determined in accordance with section 705 of this title .
 - **(b)** Any conveyance of less than a fee made under this chapter shall include provision for removal from the tract of any improvements or other property of the applicant at the close of the period for which the conveyance is made, or if it be an interest terminating on the death of the applicant, within one year thereafter.
+
+## Source Credit
+
+*([Pub. L. 87–851, § 4](https://www.govinfo.gov/link/plaw/87/public/851), Oct. 23, 1962, [76 Stat. 1127](https://www.govinfo.gov/link/statute/76/1127).)*

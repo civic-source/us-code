@@ -3,9 +3,10 @@ title: "Section 3705 - Transparency and accountability for nonpostal services"
 usc_title: 39
 usc_section: "3705"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 3705"
-generated_at: "2026-03-30T02:55:43.695Z"
+generated_at: "2026-11-23T21:26:12.798Z"
+status: "active"
 ---
 
 # § 3705. Transparency and accountability for nonpostal services
@@ -35,3 +36,41 @@ generated_at: "2026-03-30T02:55:43.695Z"
   - **(4)** In the case of deliberate noncompliance by the Postal Service with the requirements of this chapter, the Postal Regulatory Commission may order, based on the nature, circumstances, extent, and seriousness of the noncompliance, a fine (in the amount specified by the Commission in its order) for each incidence of such noncompliance. All receipts from fines imposed under this subsection shall be deposited in the general fund of the Treasury.
 - **(f)** The Postal Regulatory Commission shall issue such regulations as are necessary to carry out this section.
 - **(g)** The Postal Service may conduct market tests of agreements pursuant to section 3703 and section 3704 of this chapter subject to the same terms and conditions described in section 3641 of this title . For the purposes of a market test, the cost coverage requirements in sections 3703 and 3704 of this chapter shall not apply.
+
+Annual Report to the Commission.—
+
+In general
+
+Supporting matter
+
+Content and Form of Report.—
+
+In general
+
+Revised requirements
+
+Audits
+
+Confidential Information.—
+
+In general
+
+Treatment
+
+Annual Compliance Determination.—
+
+Opportunity for public comment
+
+Determination of compliance or noncompliance
+
+Noncompliance
+
+Deliberate noncompliance
+
+Regulations Required
+
+Experimental Product Authority
+
+## Source Credit
+
+*(Added [Pub. L. 117–108, title I, § 103(a)(1)](https://www.govinfo.gov/link/plaw/117/public/108), Apr. 6, 2022, [136 Stat. 1142](https://www.govinfo.gov/link/statute/136/1142).)*

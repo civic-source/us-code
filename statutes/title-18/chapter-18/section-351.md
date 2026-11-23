@@ -3,9 +3,10 @@ title: "Section 351 - Congressional, Cabinet, and Supreme Court assassination, k
 usc_title: 18
 usc_section: "351"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 351"
-generated_at: "2026-03-30T02:54:16.462Z"
+generated_at: "2026-11-23T21:25:43.961Z"
+status: "active"
 ---
 
 # § 351. Congressional, Cabinet, and Supreme Court assassination, kidnapping, and assault; penalties
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:16.462Z"
 - **(g)** Violations of this section shall be investigated by the Federal Bureau of Investigation. Assistance may be requested from any Federal, State, or local agency, including the Army, Navy, and Air Force, any statute, rule, or regulation to the contrary notwithstanding.
 - **(h)** In a prosecution for an offense under this section the Government need not prove that the defendant knew that the victim of the offense was an individual protected by this section.
 - **(i)** There is extraterritorial jurisdiction over the conduct prohibited by this section.
+
+## Source Credit
+
+*(Added [Pub. L. 91–644, title IV, § 15](https://www.govinfo.gov/link/plaw/91/public/644), Jan. 2, 1971, [84 Stat. 1891](https://www.govinfo.gov/link/statute/84/1891); amended [Pub. L. 97–285](https://www.govinfo.gov/link/plaw/97/public/285), §§ 1, 2(a), Oct. 6, 1982, [96 Stat. 1219](https://www.govinfo.gov/link/statute/96/1219); [Pub. L. 99–646, § 62](https://www.govinfo.gov/link/plaw/99/public/646), Nov. 10, 1986, [100 Stat. 3614](https://www.govinfo.gov/link/statute/100/3614); [Pub. L. 100–690, title VII, § 7074](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4405](https://www.govinfo.gov/link/statute/102/4405); [Pub. L. 103–322, title XXXII, § 320101(d)](https://www.govinfo.gov/link/plaw/103/public/322), title XXXIII, §§ 330016(1)(K), (L), 330021(1), Sept. 13, 1994, [108 Stat. 2108](https://www.govinfo.gov/link/statute/108/2108), 2147, 2150; [Pub. L. 104–294, title VI, § 604(b)(12)(C)](https://www.govinfo.gov/link/plaw/104/public/294), (c)(2), Oct. 11, 1996, [110 Stat. 3507](https://www.govinfo.gov/link/statute/110/3507), 3509; [Pub. L. 112–87, title V, § 506](https://www.govinfo.gov/link/plaw/112/public/87), Jan. 3, 2012, [125 Stat. 1897](https://www.govinfo.gov/link/statute/125/1897).)*

@@ -3,12 +3,17 @@ title: "Section 1656 - Prohibition against official or court orders to achieve r
 usc_title: 20
 usc_section: "1656"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1656"
-generated_at: "2026-03-30T02:54:48.169Z"
+generated_at: "2026-11-23T21:25:47.353Z"
+status: "active"
 ---
 
 # § 1656. Prohibition against official or court orders to achieve racial balance or insure compliance with constitutional standards applicable to entire United States
 
 The proviso of section 407(a) of the Civil Rights Act of 1964 [ 42 U.S.C. 2000c–6(a) ] providing in substance that no court or official of the United States shall be empowered to issue any order seeking to achieve a racial balance in any school by requiring the transportation of pupils or students from one school to another or one school district to another in order to achieve such racial balance, or otherwise enlarge the existing power of the court to insure compliance with constitutional standards shall apply to all public school pupils and to every public school system, public school and public school board, as defined by title IV [ 42 U.S.C. 2000c et seq.], under all circumstances and conditions and at all times in every State, district, territory, Commonwealth, or possession of the United States regardless of whether the residence of such public school pupils or the principal offices of such public school system, public school or public school board is situated in the northern, eastern, western, or southern part of the United States.
 
+
+## Source Credit
+
+*([Pub. L. 92–318, title VIII, § 806](https://www.govinfo.gov/link/plaw/92/public/318), June 23, 1972, [86 Stat. 373](https://www.govinfo.gov/link/statute/86/373).)*

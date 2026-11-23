@@ -3,9 +3,10 @@ title: "Section 143 - Highway use tax evasion projects"
 usc_title: 23
 usc_section: "143"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 143"
-generated_at: "2026-03-30T02:55:12.558Z"
+generated_at: "2026-11-23T21:25:53.888Z"
+status: "active"
 ---
 
 # § 143. Highway use tax evasion projects
@@ -45,3 +46,45 @@ generated_at: "2026-03-30T02:55:12.558Z"
     - **(C)** any system under paragraph (1) shall be made available for use by appropriate State and Federal revenue, tax, and law enforcement authorities, subject to section 6103 of the Internal Revenue Code of 1986.
   - **(3)** Of the amounts made available to carry out this section for each fiscal year, the Secretary shall make available to the Internal Revenue Service such funds as may be necessary to complete, operate, and maintain the systems under paragraph (1) in accordance with this subsection.
   - **(4)** Not later than September 30 of each year, the Commissioner of the Internal Revenue Service shall provide reports to the Secretary on the status of the Internal Revenue Service projects funded under this subsection.
+
+State Defined
+
+Projects.—
+
+In general
+
+Funding.—
+
+In general
+
+Allocation of funds
+
+Conditions on funds allocated to internal revenue service
+
+Limitation on use of funds
+
+Maintenance of effort
+
+Federal share
+
+Period of availability
+
+Use of surface transportation block grant program funding
+
+Reports
+
+Excise Tax Fuel Reporting.—
+
+In general
+
+Elements of memorandum of understanding
+
+Funding
+
+Reports
+
+Use of Revenues for Enforcement of Highway Trust Fund Taxes
+
+## Source Credit
+
+*(Added [Pub. L. 91–605, title I, § 127(a)](https://www.govinfo.gov/link/plaw/91/public/605), Dec. 31, 1970, [84 Stat. 1729](https://www.govinfo.gov/link/statute/84/1729); amended [Pub. L. 93–87, title I, § 122](https://www.govinfo.gov/link/plaw/93/public/87), Aug. 13, 1973, [87 Stat. 261](https://www.govinfo.gov/link/statute/87/261); [Pub. L. 105–178, title I, § 1114(a)](https://www.govinfo.gov/link/plaw/105/public/178), (c), June 9, 1998, [112 Stat. 152](https://www.govinfo.gov/link/statute/112/152); [Pub. L. 105–206, title IX, § 9002(h)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 836](https://www.govinfo.gov/link/statute/112/836); [Pub. L. 109–59, title I, § 1115(a)](https://www.govinfo.gov/link/plaw/109/public/59), (b), Aug. 10, 2005, [119 Stat. 1175](https://www.govinfo.gov/link/statute/119/1175), 1176; [Pub. L. 112–141, div. A, title I, § 1110](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 444](https://www.govinfo.gov/link/statute/126/444); [Pub. L. 114–94, div. A, title I, § 1110](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1344](https://www.govinfo.gov/link/statute/129/1344); [Pub. L. 117–58, div. A, title I, § 11120](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 497](https://www.govinfo.gov/link/statute/135/497).)*

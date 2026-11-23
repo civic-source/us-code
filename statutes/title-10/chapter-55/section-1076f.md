@@ -3,9 +3,10 @@ title: "Section 1076f - TRICARE program: extension of coverage for certain membe
 usc_title: 10
 usc_section: "1076f"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1076f"
-generated_at: "2026-03-30T02:53:38.102Z"
+generated_at: "2026-11-23T21:25:32.405Z"
+status: "active"
 ---
 
 # § 1076f. TRICARE program: extension of coverage for certain members of the National Guard and dependents during certain disaster response duty
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:53:38.102Z"
 - **(c)** In this section:
   - **(1)** The term “disaster response duty” means duty performed by a member of the National Guard in State status pursuant to an emergency declaration by the Governor of the State (or, with respect to the District of Columbia, the mayor of the District of Columbia) in response to a disaster or in preparation for an imminent disaster.
   - **(2)** The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
+
+Extended Coverage
+
+Contribution by State
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title VII, § 711(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2213](https://www.govinfo.gov/link/statute/130/2213).)*

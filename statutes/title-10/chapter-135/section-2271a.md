@@ -3,9 +3,10 @@ title: "Section 2271a - Space Contractor Responsibility Watch List"
 usc_title: 10
 usc_section: "2271a"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2271a"
-generated_at: "2026-03-30T02:53:38.152Z"
+generated_at: "2026-11-23T21:25:32.590Z"
+status: "active"
 ---
 
 # § 2271a. Space Contractor Responsibility Watch List
@@ -36,3 +37,19 @@ generated_at: "2026-03-30T02:53:38.152Z"
   - **(1)** The term “contract” includes a grant, cooperative agreement, or other transaction.
   - **(2)** The term “contractor” means any individual or entity that enters into a contract.
   - **(3)** The term “watch list” means the watch list maintained under subsection (a).
+
+Establishment
+
+Basis for Inclusion on Watch List
+
+Effect of Listing
+
+Limitation on Delegation
+
+Rule of Construction
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title XVI, § 1601(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2157](https://www.govinfo.gov/link/statute/138/2157).)*

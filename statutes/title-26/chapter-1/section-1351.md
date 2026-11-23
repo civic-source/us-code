@@ -3,9 +3,10 @@ title: "Section 1351 - Treatment of recoveries of foreign expropriation losses"
 usc_title: 26
 usc_section: "1351"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1351"
-generated_at: "2026-03-30T02:55:27.768Z"
+generated_at: "2026-11-23T21:26:06.492Z"
+status: "active"
 ---
 
 # § 1351. Treatment of recoveries of foreign expropriation losses
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:27.768Z"
   - **(3)** the net operating loss deduction under section 172,
   - **(4)** the capital loss carryover under section 1212(a), and
   - **(5)** such other items as may be specified by such regulations,
+
+## Source Credit
+
+*(Added [Pub. L. 89–384, § 1(a)](https://www.govinfo.gov/link/plaw/89/public/384), Apr. 8, 1966, [80 Stat. 99](https://www.govinfo.gov/link/statute/80/99); amended [Pub. L. 94–455, title X, § 1031(b)(3)](https://www.govinfo.gov/link/plaw/94/public/455), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1623](https://www.govinfo.gov/link/statute/90/1623), 1834; [Pub. L. 95–600, title III, § 301(b)(17)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2823](https://www.govinfo.gov/link/statute/92/2823); [Pub. L. 98–369, div. A, title I, § 42(a)(12)](https://www.govinfo.gov/link/plaw/98/public/369), title II, § 211(b)(18), title IV, § 474(r)(25), July 18, 1984, [98 Stat. 557](https://www.govinfo.gov/link/statute/98/557), 756, 844; [Pub. L. 99–514, title XVIII, § 1812(a)(4)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2833](https://www.govinfo.gov/link/statute/100/2833); [Pub. L. 115–97, title I, § 13511(b)(8)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2142](https://www.govinfo.gov/link/statute/131/2142).)*

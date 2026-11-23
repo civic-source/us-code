@@ -3,9 +3,10 @@ title: "Section 5601 - Findings"
 usc_title: 20
 usc_section: "5601"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 5601"
-generated_at: "2026-03-30T02:54:48.188Z"
+generated_at: "2026-11-23T21:25:47.467Z"
+status: "active"
 ---
 
 # § 5601. Findings
@@ -27,3 +28,9 @@ The Congress finds that—
   - **(6)** Stewart L. Udall, as a member of Congress, Secretary of the Interior, environmental lawyer, and author, has provided distinguished national leadership in environmental and Native American policy for more than 50 years;
   - **(7)** as Secretary of the Interior from 1961 to 1969, Stewart L. Udall oversaw the creation of 4 national parks, 6 national monuments, 8 national seashores and lakeshores, 9 recreation areas, 20 historic sites, and 56 wildlife refuges; and
   - **(8)** it is fitting that the leadership and vision of Stewart L. Udall in the areas of environmental and Native American policy be jointly honored with that of Morris K. Udall through the foundation bearing the Udall name.
+
+“Congress finds the following:
+
+## Source Credit
+
+*([Pub. L. 102–259, § 3](https://www.govinfo.gov/link/plaw/102/public/259), Mar. 19, 1992, [106 Stat. 78](https://www.govinfo.gov/link/statute/106/78); [Pub. L. 111–90, § 3](https://www.govinfo.gov/link/plaw/111/public/90), Nov. 3, 2009, [123 Stat. 2976](https://www.govinfo.gov/link/statute/123/2976); [Pub. L. 116–94, div. P, title III, § 302(b)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3187](https://www.govinfo.gov/link/statute/133/3187).)*

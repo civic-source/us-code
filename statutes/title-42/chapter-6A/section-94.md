@@ -3,9 +3,10 @@ title: "Section 94 - Ensuring that consumers get value for their dollars"
 usc_title: 42
 usc_section: "94"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 94"
-generated_at: "2026-03-30T02:56:10.836Z"
+generated_at: "2026-11-23T21:26:30.910Z"
+status: "active"
 ---
 
 # § 300gg–94. Ensuring that consumers get value for their dollars
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:56:10.836Z"
     - **(E)** regularly publish information concerning the statistical methodologies used by the center to analyze health charge data and make such data available to researchers and policy makers.
   - **(2)** A center established under subsection (c)(1)(C) shall adopt by-laws that ensures that the center (and all members of the governing board of the center) is independent and free from all conflicts of interest. Such by-laws shall ensure that the center is not controlled or influenced by, and does not have any corporate relation to, any individual or entity that may make or receive payments for health care services based on the center’s analysis of health care costs.
   - **(3)** Nothing in this subsection shall be construed to permit a center established under subsection (c)(1)(C) to compel health insurance issuers to provide data to the center.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVII, § 2794, as added and amended [Pub. L. 111–148, title I, § 1003](https://www.govinfo.gov/link/plaw/111/public/148), title X, § 10101(i), Mar. 23, 2010, [124 Stat. 139](https://www.govinfo.gov/link/statute/124/139), 891; [Pub. L. 117–328, div. FF, title I, § 1331(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5698](https://www.govinfo.gov/link/statute/136/5698).)*

@@ -3,9 +3,10 @@ title: "Section 4303 - Account schedule"
 usc_title: 12
 usc_section: "4303"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4303"
-generated_at: "2026-03-30T02:53:53.504Z"
+generated_at: "2026-11-23T21:25:37.173Z"
+status: "active"
 ---
 
 # § 4303. Account schedule
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:53.504Z"
   - **(10)** Any provision or requirement relating to nonpayment of interest, including any charge or penalty for early withdrawal, and the conditions under which any such charge or penalty may be assessed.
 - **(d)** The schedule required under subsection (a) shall include such other disclosures as the Bureau may determine to be necessary to allow consumers to understand and compare accounts, including frequency of interest rate adjustments, account restrictions, and renewal policies for time accounts.
 - **(e)** Schedules required under subsection (a) shall be written in clear and plain language and be presented in a format designed to allow consumers to readily understand the terms of the accounts offered.
+
+## Source Credit
+
+*([Pub. L. 102–242, title II, § 264](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2335](https://www.govinfo.gov/link/statute/105/2335); [Pub. L. 111–203, title X, § 1100B(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2109](https://www.govinfo.gov/link/statute/124/2109).)*

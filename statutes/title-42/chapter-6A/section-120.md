@@ -3,9 +3,10 @@ title: "Section 120 - Reporting on pharmacy benefits and drug costs"
 usc_title: 42
 usc_section: "120"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 120"
-generated_at: "2026-03-30T02:56:10.839Z"
+generated_at: "2026-11-23T21:26:30.919Z"
+status: "active"
 ---
 
 # § 300gg–120. Reporting on pharmacy benefits and drug costs
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:10.839Z"
   - **(10)** Any reduction in premiums and out-of-pocket costs associated with rebates, fees, or other remuneration described in paragraph (9).
 - **(b)** Not later than 18 months after the date on which the first report is required under subsection (a) and biannually thereafter, the Secretary, acting through the Assistant Secretary of Planning and Evaluation and in coordination with the Inspector General of the Department of Health and Human Services, shall make available on the internet website of the Department of Health and Human Services a report on prescription drug reimbursements under group health plans and group and individual health insurance coverage, prescription drug pricing trends, and the role of prescription drug costs in contributing to premium increases or decreases under such plans or coverage, aggregated in such a way as no drug or plan specific information will be made public.
 - **(c)** No confidential or trade secret information submitted to the Secretary under subsection (a) shall be included in the report under subsection (b).
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVII, § 2799A–10, as added [Pub. L. 116–260, div. BB, title II, § 204(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2918](https://www.govinfo.gov/link/statute/134/2918).)*

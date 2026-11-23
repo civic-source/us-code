@@ -3,12 +3,17 @@ title: "Section 326 - Unsurveyed lands not subject to entry; preferential right 
 usc_title: 43
 usc_section: "326"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 326"
-generated_at: "2026-03-30T02:55:57.438Z"
+generated_at: "2026-11-23T21:26:19.754Z"
+status: "active"
 ---
 
 # § 326. Unsurveyed lands not subject to entry; preferential right of entry after survey
 
 From and after March 28, 1908 , the right to make entry of desert lands under the provisions of sections 321 to 323, 325, and 327 to 329 of this title, shall be restricted to surveyed public lands of the character contemplated by said sections, and no such entries of unsurveyed lands shall be allowed or made of record: Provided, however , That any individual qualified to make entry of desert lands under said sections who has, prior to survey, taken possession of a tract of unsurveyed desert land not exceeding in area three hundred and twenty acres in compact form, and has reclaimed or has in good faith commenced the work of reclaiming the same, shall have the preference right to make entry of such tract under said sections, in conformity with the public land surveys, within ninety days after the filing of the approved plat of survey in the district land office.
 
+
+## Source Credit
+
+*(Mar. 28, 1908, ch. 112, § 1, [35 Stat. 52](https://www.govinfo.gov/link/statute/35/52).)*

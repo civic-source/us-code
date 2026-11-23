@@ -3,9 +3,10 @@ title: "Section 6038D - Information with respect to foreign financial assets"
 usc_title: 26
 usc_section: "6038D"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6038D"
-generated_at: "2026-03-30T02:55:27.831Z"
+generated_at: "2026-11-23T21:26:06.764Z"
+status: "active"
 ---
 
 # § 6038D. Information with respect to foreign financial assets
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:27.831Z"
   - **(1)** classes of assets identified by the Secretary, including any assets with respect to which the Secretary determines that disclosure under this section would be duplicative of other disclosures,
   - **(2)** nonresident aliens, and
   - **(3)** bona fide residents of any possession of the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 111–147, title V, § 511(a)](https://www.govinfo.gov/link/plaw/111/public/147), Mar. 18, 2010, [124 Stat. 109](https://www.govinfo.gov/link/statute/124/109).)*

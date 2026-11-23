@@ -3,9 +3,10 @@ title: "Section 576b - Purchasers of national-forest timber; deposits of money i
 usc_title: 16
 usc_section: "576b"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 576b"
-generated_at: "2026-03-30T02:54:22.877Z"
+generated_at: "2026-11-23T21:25:51.678Z"
+status: "active"
 ---
 
 # § 576b. Purchasers of national-forest timber; deposits of money in addition to payments for timber; use of deposits; seedlings and young trees for burned-over areas in national parks
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:22.877Z"
 - **(c)** 1 1 See 2004 Amendment notes below. Any portion of the balance at the end of a fiscal year in the special fund established pursuant to this section that the Secretary of Agriculture determines to be in excess of the cost of doing work described in subsection (a) (as well as any portion of the balance in the special fund that the Secretary determined, before October 1, 2004 , to be excess of the cost of doing work described in subsection (a), but which has not been transferred by that date) shall be transferred to miscellaneous receipts, National Forest Fund, as a National Forest receipt, but only if the Secretary also determines that—
   - **(1)** the excess amounts will not be needed for emergency wildfire suppression during the fiscal year in which the transfer would be made; and
   - **(2)** the amount to be transferred to miscellaneous receipts, National Forest Fund, exceeds the outstanding balance of unreimbursed funds transferred from the special fund in prior fiscal years for wildfire suppression.
+
+## Source Credit
+
+*(June 9, 1930, ch. 416, § 3, [46 Stat. 527](https://www.govinfo.gov/link/statute/46/527); [Pub. L. 94–588, § 18](https://www.govinfo.gov/link/plaw/94/public/588), Oct. 22, 1976, [90 Stat. 2962](https://www.govinfo.gov/link/statute/90/2962); [Pub. L. 108–447, div. E, title III, § 318](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3096](https://www.govinfo.gov/link/statute/118/3096); [Pub. L. 109–54, title IV, § 412](https://www.govinfo.gov/link/plaw/109/public/54), Aug. 2, 2005, [119 Stat. 551](https://www.govinfo.gov/link/statute/119/551).)*

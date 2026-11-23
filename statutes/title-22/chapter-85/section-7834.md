@@ -3,9 +3,10 @@ title: "Section 7834 - Briefings on the welfare of North Korean children"
 usc_title: 22
 usc_section: "7834"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7834"
-generated_at: "2026-03-30T02:55:05.446Z"
+generated_at: "2026-11-23T21:25:58.729Z"
+status: "active"
 ---
 
 # § 7834. Briefings on the welfare of North Korean children
@@ -17,3 +18,15 @@ generated_at: "2026-03-30T02:55:05.446Z"
   - **(3)** Department of State efforts to develop a comprehensive strategy to address challenges that United States citizens would encounter in attempting to adopt, via intercountry adoption, North Korean-origin children residing in other countries or children of one North Korean parent residing outside North Korea who are fleeing persecution or are living as de jure or de facto stateless persons, including efforts to overcome the complexities involved in determining jurisdiction for best interest determinations and adoption processing, if appropriate, of those who habitually reside in a Hague country or a non-Hague country.
   - **(4)** Department of State diplomatic efforts to encourage countries in which North Korean children or children of one North Korean parent are fleeing persecution or reside as de jure or de facto stateless persons to resolve issues of statelessness of North Koreans residing in that country.
   - **(5)** Department of State efforts to work with the Government of the Republic of Korea to establish pilot programs that identify, provide for the immediate care of, and assist in the family reunification of North Korean children and children of one North Korean parent living within South Korea and other countries who are fleeing persecution or are living as de jure or de facto stateless persons.
+
+“In this Act [enacting this section and provisions set out as a note under section 7801 of this title ]:
+
+Appropriate congressional committees
+
+Hague country
+
+Non-hague country
+
+## Source Credit
+
+*([Pub. L. 112–264, § 4](https://www.govinfo.gov/link/plaw/112/public/264), Jan. 14, 2013, [126 Stat. 2432](https://www.govinfo.gov/link/statute/126/2432).)*

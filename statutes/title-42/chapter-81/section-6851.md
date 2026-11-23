@@ -3,9 +3,10 @@ title: "Section 6851 - Congressional findings and purpose"
 usc_title: 42
 usc_section: "6851"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6851"
-generated_at: "2026-03-30T02:56:11.267Z"
+generated_at: "2026-11-23T21:26:32.982Z"
+status: "active"
 ---
 
 # § 6851. Congressional findings and purpose
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.267Z"
 - **(b)** It is, therefore, the purpose of this subchapter to encourage and facilitate the implementation of energy conservation measures and renewable-resource energy measures in dwelling units, nonresidential buildings, and industrial plants, through—
   - **(1)** supplemental State energy conservation plans; and
   - **(2)** Federal financial incentives and assistance.
+
+## Source Credit
+
+*([Pub. L. 94–385, title IV, § 402](https://www.govinfo.gov/link/plaw/94/public/385), Aug. 14, 1976, [90 Stat. 1150](https://www.govinfo.gov/link/statute/90/1150).)*

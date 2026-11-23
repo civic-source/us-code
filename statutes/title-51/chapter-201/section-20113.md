@@ -3,9 +3,10 @@ title: "Section 20113 - Powers of the Administration in performance of functions
 usc_title: 51
 usc_section: "20113"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 20113"
-generated_at: "2026-03-30T02:56:28.703Z"
+generated_at: "2026-11-23T21:26:42.525Z"
+status: "active"
 ---
 
 # § 20113. Powers of the Administration in performance of functions
@@ -38,3 +39,226 @@ generated_at: "2026-03-30T02:56:28.703Z"
   - **(1)** to consider, ascertain, adjust, determine, settle, and pay, on behalf of the United States, in full satisfaction thereof, any claim for $25,000 or less against the United States for bodily injury, death, or damage to or loss of real or personal property resulting from the conduct of the Administration’s functions as specified in section 20112(a) of this title , where such claim is presented to the Administration in writing within 2 years after the accident or incident out of which the claim arises; and
   - **(2)** if the Administration considers that a claim in excess of $25,000 is meritorious and would otherwise be covered by this subsection, to report the facts and circumstances to Congress for its consideration.
 - **(n)** For purposes of a license issued or transferred by the Secretary of Transportation under chapter 509 to launch a launch vehicle or to reenter a reentry vehicle carrying a government astronaut (as defined in section 50902), the Administration shall designate a government astronaut in accordance with requirements prescribed by the Administration.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 20113 | 42 U.S.C. 2473(c) . | Pub. L. 85–568, title II, § 203(c) , formerly § 203(b), July 29, 1958 , 72 Stat. 429 ; Pub. L. 86–20 , May 13, 1959 , 73 Stat. 21 ; Pub. L. 86–481, § 5 , June 1, 1960 , 74 Stat. 153 ; Pub. L. 87–367, title II, § 206(a) , Oct. 4, 1961 , 75 Stat. 791 ; Pub. L. 87–584, § 6 , Aug. 14, 1962 , 76 Stat. 384 ; Pub. L. 87–793, § 1001(f) , Oct. 11, 1962 , 76 Stat. 864 ; Pub. L. 88–426, title III, § 306(d) , Aug. 14, 1964 , 78 Stat. 429 ; Pub. L. 88–448, title IV, § 402(a)(34) , Aug. 10, 1964 , 78 Stat. 495 ; Pub. L. 91–646, title II, § 220(a)(2) , Jan. 2, 1971 , 84 Stat. 1903 ; Pub. L. 93–74, § 6 , July 23, 1973 , 87 Stat. 174 ; Pub. L. 93–316, § 6 , June 22, 1974 , 88 Stat. 243 ; renumbered § 203(c), Pub. L. 93–409, § 4 , Sept. 3, 1974 , 88 Stat. 1070 ; Pub. L. 96–48, § 6(a) , Aug. 8, 1979 , 93 Stat. 348 ; Pub. L. 108–201, § 2(a) , Feb. 24, 2004 , 118 Stat. 461 . |
+
+
+Rules and Regulations
+
+Officers and Employees
+
+Property
+
+Gifts
+
+Contracts, Leases, and Agreements
+
+Cooperation With Federal Agencies and Others
+
+Advisory Committees
+
+Offices and Procedures
+
+Temporary or Intermittent Services of Experts or Consultants
+
+Aliens
+
+Concessions for Visitors’ Facilities.—
+
+In general
+
+Public notice and due consideration of proposals
+
+Reasonable opportunity for profit
+
+Records and access to records
+
+Possessory interests
+
+Detailing Members of Armed Forces
+
+Claims Against the United States
+
+Identification of Government Astronauts
+
+Historical and Revision Notes
+
+20113
+
+42 U.S.C. 2473(c)
+
+Pub. L. 85–568, title II, § 203(c)
+
+July 29, 1958
+
+72 Stat. 429
+
+Pub. L. 86–20
+
+May 13, 1959
+
+73 Stat. 21
+
+Pub. L. 86–481, § 5
+
+June 1, 1960
+
+74 Stat. 153
+
+Pub. L. 87–367, title II, § 206(a)
+
+Oct. 4, 1961
+
+75 Stat. 791
+
+Pub. L. 87–584, § 6
+
+Aug. 14, 1962
+
+76 Stat. 384
+
+Pub. L. 87–793, § 1001(f)
+
+Oct. 11, 1962
+
+76 Stat. 864
+
+Pub. L. 88–426, title III, § 306(d)
+
+Aug. 14, 1964
+
+78 Stat. 429
+
+Pub. L. 88–448, title IV, § 402(a)(34)
+
+Aug. 10, 1964
+
+78 Stat. 495
+
+Pub. L. 91–646, title II, § 220(a)(2)
+
+Jan. 2, 1971
+
+84 Stat. 1903
+
+Pub. L. 93–74, § 6
+
+July 23, 1973
+
+87 Stat. 174
+
+Pub. L. 93–316, § 6
+
+June 22, 1974
+
+88 Stat. 243
+
+Pub. L. 93–409, § 4
+
+Sept. 3, 1974
+
+88 Stat. 1070
+
+Pub. L. 96–48, § 6(a)
+
+Aug. 8, 1979
+
+93 Stat. 348
+
+Pub. L. 108–201, § 2(a)
+
+Feb. 24, 2004
+
+118 Stat. 461
+
+Sense of Congress
+
+Establishment
+
+Responsibilities
+
+Portfolio
+
+Report on Industrial Base for Civil Space Missions and Operations.—
+
+In general
+
+Elements
+
+Workforce and Modeling and Test Facilities.—
+
+Review.—
+
+In general
+
+Elements
+
+Report
+
+Implementation plan
+
+Report on nasa infrastructure, workforce skills and capabilities.—
+
+Policy and procedure.—
+
+In general
+
+Elements
+
+Report
+
+Independent program analysis and evaluation office.—
+
+Establishment
+
+Independence
+
+Activities authorized
+
+Moon to mars activities
+
+International space station
+
+Sense of Congress
+
+Funded Space Act Agreements
+
+Non-exclusivity.—
+
+In general
+
+Exclusivity
+
+Transparency
+
+Annual Reports.—
+
+Requirement
+
+Contents
+
+Anticipated agreements
+
+Cumulative program benefits
+
+Purchase of American-Made Equipment and Products
+
+Notice to Recipients of Assistance
+
+Definitions
+
+Educationally useful federal equipment
+
+School
+
+Sense of the Congress.—
+
+In general
+
+Reports
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3333](https://www.govinfo.gov/link/statute/124/3333); [Pub. L. 114–90, title I, § 112(d)](https://www.govinfo.gov/link/plaw/114/public/90), Nov. 25, 2015, [129 Stat. 712](https://www.govinfo.gov/link/statute/129/712); [Pub. L. 115–10, title VIII, § 835(d)](https://www.govinfo.gov/link/plaw/115/public/10), Mar. 21, 2017, [131 Stat. 69](https://www.govinfo.gov/link/statute/131/69); [Pub. L. 116–283, div. A, title IX, § 927(f)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3832](https://www.govinfo.gov/link/statute/134/3832).)*

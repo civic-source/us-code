@@ -3,9 +3,10 @@ title: "Section 268a - Acquisition of Fern Lake watershed"
 usc_title: 16
 usc_section: "268a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 268a"
-generated_at: "2026-03-30T02:54:22.746Z"
+generated_at: "2026-11-23T21:25:51.402Z"
+status: "active"
 ---
 
 # § 268a. Acquisition of Fern Lake watershed
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:22.746Z"
     - **(A)** appropriate officials in the States of Kentucky, Tennessee, and Virginia, and political subdivisions of these States;
     - **(B)** organizations involved in promoting tourism in these States; and
     - **(C)** other interested parties.
+
+## Source Credit
+
+*([Pub. L. 108–199, div. H, § 150](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 446](https://www.govinfo.gov/link/statute/118/446).)*

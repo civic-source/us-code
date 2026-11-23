@@ -3,9 +3,10 @@ title: "Section 12578 - Scholarship agreement"
 usc_title: 34
 usc_section: "12578"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 12578"
-generated_at: "2026-03-30T02:55:33.291Z"
+generated_at: "2026-11-23T21:26:09.760Z"
+status: "active"
 ---
 
 # § 12578. Scholarship agreement
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:33.291Z"
 - **(c)**
   - **(1)** Except as provided in paragraph (2), a person who receives a scholarship under this part shall work in a law enforcement position in the State that awarded the scholarship for a period of 1 month for each credit hour for which funds are received under the scholarship.
   - **(2)** For purposes of satisfying the requirement of paragraph (1), a scholarship recipient shall work in a law enforcement position in the State that awarded the scholarship for not less than 6 months but shall not be required to work in such a position for more than 2 years.
+
+## Source Credit
+
+*([Pub. L. 103–322, title XX, § 200209](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2060](https://www.govinfo.gov/link/statute/108/2060).)*

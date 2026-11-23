@@ -3,9 +3,10 @@ title: "Section 430vv - River Raisin National Battlefield Park"
 usc_title: 16
 usc_section: "430vv"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 430vv"
-generated_at: "2026-03-30T02:54:22.797Z"
+generated_at: "2026-11-23T21:25:51.525Z"
+status: "active"
 ---
 
 # § 430vv. River Raisin National Battlefield Park
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:22.797Z"
   - **(3)** The Secretary may enter into cooperative agreements with State, county, local, and civic organizations to carry out this section.
 - **(c)** Not later than 3 years after March 30, 2009 , the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House a report describing the progress made with respect to acquiring real property under this section and designating the River Raisin National Battlefield Park.
 - **(d)** There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 111–11, title VII, § 7003](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1188](https://www.govinfo.gov/link/statute/123/1188).)*

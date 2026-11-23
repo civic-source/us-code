@@ -3,9 +3,10 @@ title: "Section 1442 - Terms of lease; public lands for public airports"
 usc_title: 43
 usc_section: "1442"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1442"
-generated_at: "2026-03-30T02:55:57.473Z"
+generated_at: "2026-11-23T21:26:19.837Z"
+status: "active"
 ---
 
 # § 1442. Terms of lease; public lands for public airports
@@ -17,3 +18,7 @@ Any lease under section 1441 of this title shall be for a period not to exceed t
 - **(c)** That the lessee shall make reasonable regulations to govern the use of the airport, but such regulations shall take effect only upon approval by the Administrator of the Federal Aviation Agency.
 - **(d)** That all departments and agencies of the United States operating aircraft (1) shall have free and unrestricted use of the airport, and (2) with the approval of the Secretary of the Interior, shall have the right to erect and install therein such structures and improvements as the heads of such departments and agencies deem advisable, including facilities for maintaining supplies of fuel, oil, and other materials for operating aircraft.
 - **(e)** That whenever the President may deem it necessary for military purposes, the Secretary of the Army may assume full control of the airport.
+
+## Source Credit
+
+*(May 24, 1928, ch. 728, § 2, [45 Stat. 728](https://www.govinfo.gov/link/statute/45/728); June 23, 1938, ch. 601, § 1107(b), [52 Stat. 1027](https://www.govinfo.gov/link/statute/52/1027); July 26, 1947, ch. 343, title II, § 205(a), [61 Stat. 501](https://www.govinfo.gov/link/statute/61/501); [Pub. L. 85–726, title XIV](https://www.govinfo.gov/link/plaw/85/public/726), §§ 1401(b), 1402(a), Aug. 23, 1958, [72 Stat. 806](https://www.govinfo.gov/link/statute/72/806).)*

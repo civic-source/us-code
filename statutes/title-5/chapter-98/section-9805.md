@@ -3,9 +3,10 @@ title: "Section 9805 - Retention bonuses"
 usc_title: 5
 usc_section: "9805"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 9805"
-generated_at: "2026-03-30T02:52:56.074Z"
+generated_at: "2026-11-23T21:25:23.463Z"
+status: "active"
 ---
 
 # § 9805. Retention bonuses
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:52:56.074Z"
 - **(e)** A bonus under this section may not be considered to be part of the basic pay of an employee.
 - **(f)** An employee is not entitled to a retention bonus under this section during a service period previously established for that employee under section 5753 or under section 9804.
 - **(g)** No more than 25 percent of the total amount in bonuses awarded under subsection (a) in any year may be awarded to supervisors or management officials.
+
+## Source Credit
+
+*(Added [Pub. L. 108–201, § 3(a)](https://www.govinfo.gov/link/plaw/108/public/201), Feb. 24, 2004, [118 Stat. 465](https://www.govinfo.gov/link/statute/118/465).)*

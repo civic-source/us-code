@@ -3,9 +3,10 @@ title: "Section 5103 - General regulatory authority"
 usc_title: 49
 usc_section: "5103"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 5103"
-generated_at: "2026-03-30T02:56:19.305Z"
+generated_at: "2026-11-23T21:26:40.614Z"
+status: "active"
 ---
 
 # § 5103. General regulatory authority
@@ -32,3 +33,89 @@ generated_at: "2026-03-30T02:56:19.305Z"
   - **(3)** The Secretary shall include in any order issued under this section the reasons for granting the waiver.
 - **(d)** When prescribing a security regulation or issuing a security order that affects the safety of the transportation of hazardous material, the Secretary of Homeland Security shall consult with the Secretary of Transportation.
 - **(e)** The Secretary of Transportation shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Senate Committee on Commerce, Science, and Transportation a biennial report providing information on whether the Secretary has designated as hazardous materials for purposes of chapter 51 of such title all by-products of the methamphetamine-production process that are known by the Secretary to pose an unreasonable risk to health and safety or property when transported in commerce in a particular amount and form.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5103(a) | 49 App.:1803. | Jan. 3, 1975 , Pub. L. 93–633, § 104 , 88 Stat. 2156 . |
+| 5103(b) | 49 App.:1804(a) (1)–(3). | Jan. 3, 1975 , Pub. L. 93–633, § 105(a)(1) –(3), 88 Stat. 2157 ; restated Nov. 16, 1990 , Pub. L. 101–615, § 4 , 104 Stat. 3247 . |
+
+
+Designating Material as Hazardous
+
+Regulations for Safe Transportation
+
+Federally Declared Disasters and Emergencies.—
+
+In general
+
+Period of waiver
+
+Statement of reasons
+
+Consultation
+
+Biennial Report
+
+Historical and Revision Notes
+
+Pub. L
+
+5103(a)
+
+Jan. 3, 1975
+
+Pub. L. 93–633, § 104
+
+88 Stat. 2156
+
+5103(b)
+
+Jan. 3, 1975
+
+Pub. L. 93–633, § 105(a)(1)
+
+88 Stat. 2157
+
+Nov. 16, 1990
+
+Pub. L. 101–615, § 4
+
+104 Stat. 3247
+
+In General
+
+Evaluation
+
+Action Plan
+
+Regulations
+
+Study
+
+Report
+
+Regulatory Authority
+
+In General
+
+Expiration
+
+Study.—
+
+In general
+
+Completion
+
+Secretarial Action
+
+Initiation of Rulemaking Proceeding
+
+Issuance of Standards
+
+Completion of Rulemaking Proceeding
+
+Limitations.—
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 761](https://www.govinfo.gov/link/statute/108/761); [Pub. L. 103–311, title I, § 117(a)(2)](https://www.govinfo.gov/link/plaw/103/public/311), Aug. 26, 1994, [108 Stat. 1678](https://www.govinfo.gov/link/statute/108/1678); [Pub. L. 103–429, § 6(3)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4378](https://www.govinfo.gov/link/statute/108/4378); [Pub. L. 107–296, title XVII, § 1711(a)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2319](https://www.govinfo.gov/link/statute/116/2319); [Pub. L. 109–59, title VII](https://www.govinfo.gov/link/plaw/109/public/59), §§ 7103, 7126, Aug. 10, 2005, [119 Stat. 1893](https://www.govinfo.gov/link/statute/119/1893), 1909; [Pub. L. 109–177, title VII, § 741](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 272](https://www.govinfo.gov/link/statute/120/272); [Pub. L. 114–94, div. A, title VII, § 7201](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1589](https://www.govinfo.gov/link/statute/129/1589).)*

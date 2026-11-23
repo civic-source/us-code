@@ -3,9 +3,10 @@ title: "Section 555a - Limitation of franchising authority liability"
 usc_title: 47
 usc_section: "555a"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 555a"
-generated_at: "2026-03-30T02:56:24.520Z"
+generated_at: "2026-11-23T21:26:36.042Z"
+status: "active"
 ---
 
 # § 555a. Limitation of franchising authority liability
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:24.520Z"
 - **(b)** The limitation contained in subsection (a) shall not apply to actions that, prior to such violation, have been determined by a final order of a court of binding jurisdiction, no longer subject to appeal, to be in violation of a cable operator’s rights.
 - **(c)** Nothing in this section shall be construed as limiting the relief authorized with respect to any claim against a franchising authority or other governmental entity, or any official, member, employee, or agent of such authority or entity, to the extent such claim involves discrimination on the basis of race, color, sex, age, religion, national origin, or handicap.
 - **(d)** Nothing in this section shall be construed as creating or authorizing liability of any kind, under any law, for any action or failure to act relating to cable service or the granting of a franchise by any franchising authority or other governmental entity, or any official, member, employee, or agent of such authority or entity.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VI, § 635A, as added [Pub. L. 102–385, § 24(a)](https://www.govinfo.gov/link/plaw/102/public/385), Oct. 5, 1992, [106 Stat. 1500](https://www.govinfo.gov/link/statute/106/1500).)*

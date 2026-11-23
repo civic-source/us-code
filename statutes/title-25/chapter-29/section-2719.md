@@ -3,9 +3,10 @@ title: "Section 2719 - Gaming on lands acquired after October 17, 1988"
 usc_title: 25
 usc_section: "2719"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2719"
-generated_at: "2026-03-30T02:54:52.843Z"
+generated_at: "2026-11-23T21:25:54.676Z"
+status: "active"
 ---
 
 # § 2719. Gaming on lands acquired after October 17, 1988
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:52.843Z"
 - **(d)**
   - **(1)** The provisions of title 26 (including sections 1441, 3402(q), 6041, and 6050I, and chapter 35 of such title) concerning the reporting and withholding of taxes with respect to the winnings from gaming or wagering operations shall apply to Indian gaming operations conducted pursuant to this chapter, or under a Tribal-State compact entered into under section 2710(d)(3) of this title that is in effect, in the same manner as such provisions apply to State gaming and wagering operations.
   - **(2)** The provisions of this subsection shall apply notwithstanding any other provision of law enacted before, on, or after October 17, 1988 , unless such other provision of law specifically cites this subsection.
+
+## Source Credit
+
+*([Pub. L. 100–497, § 20](https://www.govinfo.gov/link/plaw/100/public/497), Oct. 17, 1988, [102 Stat. 2485](https://www.govinfo.gov/link/statute/102/2485).)*

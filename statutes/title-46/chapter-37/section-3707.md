@@ -3,9 +3,10 @@ title: "Section 3707 - Tanker minimum standards"
 usc_title: 46
 usc_section: "3707"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 3707"
-generated_at: "2026-03-30T02:56:15.545Z"
+generated_at: "2026-11-23T21:26:37.056Z"
+status: "active"
 ---
 
 # § 3707. Tanker minimum standards
@@ -21,3 +22,19 @@ generated_at: "2026-03-30T02:56:15.545Z"
   - **(1)** 2 remote steering gear control systems operable separately from the navigating bridge;
   - **(2)** the main steering gear control in the steering gear compartment; and
   - **(3)** means of communications and rudder angle indicators on the navigating bridge, a remote steering gear control station, and the steering gear compartment.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 3707(a) | 46:391a(7)(K) |
+| 3707(b) | 46:391a(7)(L) |
+
+
+Historical and Revision Notes
+
+3707(a)
+
+3707(b)
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 524](https://www.govinfo.gov/link/statute/97/524); [Pub. L. 104–324, title VII, § 716](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3937](https://www.govinfo.gov/link/statute/110/3937).)*

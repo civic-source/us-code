@@ -3,9 +3,10 @@ title: "Section 7612 - HIV/AIDS response Coordinator"
 usc_title: 22
 usc_section: "7612"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7612"
-generated_at: "2026-03-30T02:55:05.442Z"
+generated_at: "2026-11-23T21:25:58.721Z"
+status: "active"
 ---
 
 # § 7612. HIV/AIDS response Coordinator
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.442Z"
   - **(1)** full-time country level coordinators, preferably with management experience, should head each HIV/AIDS country team for United States missions overseeing significant HIV/AIDS programs;
   - **(2)** foreign service nationals provide critically important services in the design and implementation of United States country-level HIV/AIDS programs and their skills and experience as public health professionals should be recognized within hiring and compensation practices; and
   - **(3)** staffing levels for United States country-level HIV/AIDS teams should be adequately maintained to fulfill oversight and other obligations of the positions.
+
+## Source Credit
+
+*([Pub. L. 108–25, title I, § 102](https://www.govinfo.gov/link/plaw/108/public/25), May 27, 2003, [117 Stat. 721](https://www.govinfo.gov/link/statute/117/721); [Pub. L. 110–293, title I, § 103](https://www.govinfo.gov/link/plaw/110/public/293), July 30, 2008, [122 Stat. 2935](https://www.govinfo.gov/link/statute/122/2935).)*

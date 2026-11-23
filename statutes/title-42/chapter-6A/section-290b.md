@@ -3,9 +3,10 @@ title: "Section 290b - Establishment and duties of Foundation"
 usc_title: 42
 usc_section: "290b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 290b"
-generated_at: "2026-03-30T02:56:10.754Z"
+generated_at: "2026-11-23T21:26:30.536Z"
+status: "active"
 ---
 
 # § 290b. Establishment and duties of Foundation
@@ -121,3 +122,11 @@ generated_at: "2026-03-30T02:56:10.754Z"
   - **(1)** In the case of any individual who is not an employee of the Federal Government and who serves in association with the National Institutes of Health, with respect to financial assistance received from the Foundation, the Foundation may not provide the assistance of, or otherwise permit the work at the National Institutes of Health to begin until a memorandum of understanding between the individual and the Director of the National Institutes of Health, or the designee of such Director, has been executed specifying that the individual shall be subject to such ethical and procedural standards of conduct relating to duties performed at the National Institutes of Health, as the Director of the National Institutes of Health determines is appropriate.
   - **(2)** The Director of the National Institutes of Health may provide facilities, utilities and support services to the Foundation if it is determined by the Director to be advantageous to the research programs of the National Institutes of Health.
 - **(l)** From amounts appropriated to the National Institutes of Health, for each fiscal year, the Director of NIH shall transfer not less than $1,250,000 and not more than $5,000,000 to the Foundation.
+
+Authorization of appropriations
+
+Limitations.—
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 499, formerly § 499A, as added [Pub. L. 101–613, § 2](https://www.govinfo.gov/link/plaw/101/public/613), Nov. 16, 1990, [104 Stat. 3224](https://www.govinfo.gov/link/statute/104/3224); amended [Pub. L. 102–170, title II, § 216](https://www.govinfo.gov/link/plaw/102/public/170), Nov. 26, 1991, [105 Stat. 1128](https://www.govinfo.gov/link/statute/105/1128); [Pub. L. 102–321, title I, § 163(b)(6)](https://www.govinfo.gov/link/plaw/102/public/321), July 10, 1992, [106 Stat. 376](https://www.govinfo.gov/link/statute/106/376); renumbered § 499 and amended [Pub. L. 103–43, title I, § 121(b)(3)](https://www.govinfo.gov/link/plaw/103/public/43), title XVII, § 1701, June 10, 1993, [107 Stat. 133](https://www.govinfo.gov/link/statute/107/133), 186; [Pub. L. 104–316, title I, § 122(b)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3836](https://www.govinfo.gov/link/statute/110/3836); [Pub. L. 105–392, title IV, § 418(2)](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3591](https://www.govinfo.gov/link/statute/112/3591); [Pub. L. 107–109, § 13](https://www.govinfo.gov/link/plaw/107/public/109), Jan. 4, 2002, [115 Stat. 1417](https://www.govinfo.gov/link/statute/115/1417); [Pub. L. 109–482, title I, § 107](https://www.govinfo.gov/link/plaw/109/public/482), Jan. 15, 2007, [120 Stat. 3696](https://www.govinfo.gov/link/statute/120/3696); [Pub. L. 110–85, title V, § 502(c)](https://www.govinfo.gov/link/plaw/110/public/85), Sept. 27, 2007, [121 Stat. 889](https://www.govinfo.gov/link/statute/121/889); [Pub. L. 111–148, title X, § 10409(c)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 978](https://www.govinfo.gov/link/statute/124/978); [Pub. L. 112–74, div. F, title II, § 221(d)(4)](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 1090](https://www.govinfo.gov/link/statute/125/1090); [Pub. L. 112–144, title V, § 509(f)](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 1050](https://www.govinfo.gov/link/statute/126/1050); [Pub. L. 117–101, § 2(b)](https://www.govinfo.gov/link/plaw/117/public/101), Mar. 15, 2022, [136 Stat. 47](https://www.govinfo.gov/link/statute/136/47); [Pub. L. 117–286, § 4(c)(39)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4358](https://www.govinfo.gov/link/statute/136/4358).)*

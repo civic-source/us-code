@@ -3,9 +3,10 @@ title: "Section 351 - Disposal of patient records"
 usc_title: 11
 usc_section: "351"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 351"
-generated_at: "2026-03-30T02:53:53.874Z"
+generated_at: "2026-11-23T21:25:34.898Z"
+status: "active"
 ---
 
 # § 351. Disposal of patient records
@@ -19,3 +20,7 @@ If a health care business commences a case under chapter 7, 9, or 11, and the tr
   - **(3)** If, following the 365-day period described in paragraph (2) and after providing the notification under paragraph (1), patient records are not claimed by a patient or insurance provider, or request is not granted by a Federal agency to deposit such records with that agency, the trustee shall destroy those records by—
     - **(A)** if the records are written, shredding or burning the records; or
     - **(B)** if the records are magnetic, optical, or other electronic records, by otherwise destroying those records so that those records cannot be retrieved.
+
+## Source Credit
+
+*(Added [Pub. L. 109–8, title XI, § 1102(a)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 189](https://www.govinfo.gov/link/statute/119/189).)*

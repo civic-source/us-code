@@ -3,9 +3,10 @@ title: "Section 453 - Allowable travel and transportation: specific authorities"
 usc_title: 37
 usc_section: "453"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 453"
-generated_at: "2026-03-30T02:55:44.059Z"
+generated_at: "2026-11-23T21:26:14.244Z"
+status: "active"
 ---
 
 # § 453. Allowable travel and transportation: specific authorities
@@ -60,3 +61,29 @@ generated_at: "2026-03-30T02:55:44.059Z"
       - **(ii)** without dependents;
       - **(iii)** who resides in the military housing area in which the professional military education institution or training site is located.
     - **(E)** Movement of household goods in an amount determined under applicable regulations.
+
+In General
+
+Authorized Absence From Temporary Duty Location
+
+Movement of Personal Property
+
+Unusual or Emergency Circumstances
+
+Particular Separation Provisions
+
+Attendance at Memorial Ceremonies and Services
+
+Reimbursement of Qualifying Spouse Relicensing Costs and Business Costs
+
+Reimbursement for Transportation of Pets Arising From Certain Permanent Changes of Stations
+
+Attendance at Professional Military Education Institution or Training Classes.—
+
+Reimbursement of Qualifying Spouse Relicensing Costs and Business Costs
+
+Reimbursement of Qualifying Spouse Relicensing Costs or Business Costs Incident to a Member’s Permanent Change of Station or Assignment
+
+## Source Credit
+
+*(Added [Pub. L. 112–81, div. A, title VI, § 631(b)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1457](https://www.govinfo.gov/link/statute/125/1457); amended [Pub. L. 113–66, div. A, title VI, § 621(c)(1)](https://www.govinfo.gov/link/plaw/113/public/66), (h), Dec. 26, 2013, [127 Stat. 783](https://www.govinfo.gov/link/statute/127/783), 784; [Pub. L. 114–328, div. A, title V, § 522(c)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2116](https://www.govinfo.gov/link/statute/130/2116); [Pub. L. 116–283, div. A, title VI, § 622(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3676](https://www.govinfo.gov/link/statute/134/3676); [Pub. L. 117–263, div. A, title VI](https://www.govinfo.gov/link/plaw/117/public/263), §§ 622(a), 623–625, Dec. 23, 2022, [136 Stat. 2625–2627](https://www.govinfo.gov/link/statute/136/2625); [Pub. L. 118–31, div. A, title VI, § 635](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 298](https://www.govinfo.gov/link/statute/137/298); [Pub. L. 118–159, div. A, title VI, § 624](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1934](https://www.govinfo.gov/link/statute/138/1934).)*

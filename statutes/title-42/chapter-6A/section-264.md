@@ -3,9 +3,10 @@ title: "Section 264 - Regulations to control communicable diseases"
 usc_title: 42
 usc_section: "264"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 264"
-generated_at: "2026-03-30T02:56:10.724Z"
+generated_at: "2026-11-23T21:26:30.394Z"
+status: "active"
 ---
 
 # § 264. Regulations to control communicable diseases
@@ -19,3 +20,23 @@ generated_at: "2026-03-30T02:56:10.724Z"
     - **(A)** is in a communicable stage; or
     - **(B)** is in a precommunicable stage, if the disease would be likely to cause a public health emergency if transmitted to other individuals.
 - **(e)** Nothing in this section or section 266 of this title , or the regulations promulgated under such sections, may be construed as superseding any provision under State law (including regulations and including provisions established by political subdivisions of States), except to the extent that such a provision conflicts with an exercise of Federal authority under this section or section 266 of this title .
+
+In General
+
+Contents of Evaluation
+
+Update of Quarantine Regulations
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 361, [58 Stat. 703](https://www.govinfo.gov/link/statute/58/703); 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631](https://www.govinfo.gov/link/statute/67/631); [Pub. L. 86–624, § 29(c)](https://www.govinfo.gov/link/plaw/86/public/624), July 12, 1960, [74 Stat. 419](https://www.govinfo.gov/link/statute/74/419); [Pub. L. 94–317, title III, § 301(b)(1)](https://www.govinfo.gov/link/plaw/94/public/317), June 23, 1976, [90 Stat. 707](https://www.govinfo.gov/link/statute/90/707); [Pub. L. 107–188, title I, § 142(a)(1)](https://www.govinfo.gov/link/plaw/107/public/188), (2), (b)(1), (c), June 12, 2002, [116 Stat. 626](https://www.govinfo.gov/link/statute/116/626), 627.)*

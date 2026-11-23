@@ -3,9 +3,10 @@ title: "Section 137 - Patient-provider dispute resolution"
 usc_title: 42
 usc_section: "137"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 137"
-generated_at: "2026-03-30T02:56:10.839Z"
+generated_at: "2026-11-23T21:26:30.923Z"
+status: "active"
 ---
 
 # § 300gg–137. Patient-provider dispute resolution
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:10.839Z"
   - **(2)** the provision of a notification of such selection to the individual and the provider or facility (as applicable) party to such determination.
 - **(c)** The Secretary shall establish a fee to participate in the patient-provider dispute resolution process in such a manner as to not create a barrier to an uninsured individual’s access to such process.
 - **(d)** The Secretary shall establish or recognize a process to certify entities under this subparagraph. 1 1 So in original. Such process shall ensure that an entity so certified satisfies at least the criteria specified in section 300gg–111(c) of this title .
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVII, § 2799B–7, as added [Pub. L. 116–260, div. BB, title I, § 112](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2867](https://www.govinfo.gov/link/statute/134/2867).)*

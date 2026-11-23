@@ -3,12 +3,17 @@ title: "Section 389d - Rules and regulations"
 usc_title: 25
 usc_section: "389d"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 389d"
-generated_at: "2026-03-30T02:54:52.806Z"
+generated_at: "2026-11-23T21:25:54.570Z"
+status: "active"
 ---
 
 # § 389d. Rules and regulations
 
 The Secretary shall have power to make such rules and regulations as may be necessary to carry out the provisions of sections 389 to 389e of this title.
 
+
+## Source Credit
+
+*(June 22, 1936, ch. 692, § 5, [49 Stat. 1804](https://www.govinfo.gov/link/statute/49/1804).)*

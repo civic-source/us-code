@@ -3,9 +3,10 @@ title: "Section 698h - Right of use and occupancy of improved property on Big Cy
 usc_title: 16
 usc_section: "698h"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 698h"
-generated_at: "2026-03-30T02:54:22.897Z"
+generated_at: "2026-11-23T21:25:51.726Z"
+status: "active"
 ---
 
 # § 698h. Right of use and occupancy of improved property on Big Cypress Preserve and Addition
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:22.897Z"
       - **(i)** a detached one family dwelling, construction of which was begun before November 23, 1971 , with respect to the preserve and January 1, 1986 , with respect to the Addition which is used for noncommercial residential purposes, together with not to exceed three acres of land on which the dwelling is situated and such additional lands as the Secretary deems reasonably necessary for access thereto, such land being in the same ownership as the dwelling, and together with any structures accessory to the dwelling which are situated on such lands and
       - **(ii)** any other building, construction of which was begun before November 23, 1971 , with respect to the preserve and January 1, 1986 , with respect to the Addition which was constructed and is used in accordance with all applicable State and local laws and ordinances, together with as much of the land on which the building is situated, such land being in the same ownership as the building, as the Secretary shall designate to be reasonably necessary for the continued enjoyment and use of the building in the same manner and to the same extent as existed in November 23, 1971 , or January 1, 1986 , as the case may be, together with any structures accessory to the building which are situated on the lands so designated. In making such designation the Secretary shall take into account the manner of use in which the building, accessory structures, and lands were customarily enjoyed prior to November 23, 1971 or January 1, 1986 , as the case may be. 1 1 See 1988 Amendment note below.
 - **(c)** Whenever an owner of property elects to retain a right of use and occupancy as provided in this section, such owner shall be deemed to have waived any benefits or rights accruing under sections 4623, 4624, 4625, and 4626 of title 42, and for the purposes of such sections such owner shall not be considered a displaced person as defined in section 4601(6) of title 42 .
+
+## Source Credit
+
+*([Pub. L. 93–440, § 3](https://www.govinfo.gov/link/plaw/93/public/440), Oct. 11, 1974, [88 Stat. 1259](https://www.govinfo.gov/link/statute/88/1259); [Pub. L. 100–301, § 4(f)](https://www.govinfo.gov/link/plaw/100/public/301), Apr. 29, 1988, [102 Stat. 445](https://www.govinfo.gov/link/statute/102/445).)*

@@ -3,9 +3,10 @@ title: "Section 1758b - Local school wellness policy"
 usc_title: 42
 usc_section: "1758b"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1758b"
-generated_at: "2026-03-30T02:56:11.110Z"
+generated_at: "2026-11-23T21:26:32.127Z"
+status: "active"
 ---
 
 # § 1758b. Local school wellness policy
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:11.110Z"
       - **(ii)** an assessment of the impact of the local school wellness policies in addressing the requirements of subsection (b).
     - **(C)** Not later than January 1, 2014 , the Secretary shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the findings of the study.
     - **(D)** There are authorized to be appropriated to carry out this paragraph $3,000,000 for fiscal year 2011, to remain available until expended.
+
+## Source Credit
+
+*(June 4, 1946, ch. 281, § 9A, as added [Pub. L. 111–296, title II, § 204(a)](https://www.govinfo.gov/link/plaw/111/public/296), Dec. 13, 2010, [124 Stat. 3216](https://www.govinfo.gov/link/statute/124/3216).)*

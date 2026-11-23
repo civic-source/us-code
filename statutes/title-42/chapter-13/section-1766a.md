@@ -3,9 +3,10 @@ title: "Section 1766a - Meal supplements for children in afterschool care"
 usc_title: 42
 usc_section: "1766a"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1766a"
-generated_at: "2026-03-30T02:56:11.116Z"
+generated_at: "2026-11-23T21:26:32.156Z"
+status: "active"
 ---
 
 # § 1766a. Meal supplements for children in afterschool care
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:11.116Z"
     - **(B)** served without charge.
   - **(2)** In the case of an eligible child who is participating in a program authorized under this section at a site that is not described in paragraph (1), for the purposes of this section, the national average payment rate for supplements shall be equal to those established under section 1766(c)(3) of this title (as adjusted pursuant to section 1759a(a)(3) of this title ).
 - **(d)** The requirements that apply to the content of meal supplements served under child care food programs operated with assistance under this chapter shall apply to the content of meal supplements served under programs operated with assistance under this section.
+
+## Source Credit
+
+*(June 4, 1946, ch. 281, § 17A, as added [Pub. L. 101–147, title I, § 106(a)](https://www.govinfo.gov/link/plaw/101/public/147), Nov. 10, 1989, [103 Stat. 885](https://www.govinfo.gov/link/statute/103/885); amended [Pub. L. 105–336, title I, § 108](https://www.govinfo.gov/link/plaw/105/public/336), Oct. 31, 1998, [112 Stat. 3153](https://www.govinfo.gov/link/statute/112/3153).)*

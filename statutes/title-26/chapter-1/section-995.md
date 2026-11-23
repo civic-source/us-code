@@ -3,9 +3,10 @@ title: "Section 995 - Taxation of DISC income to shareholders"
 usc_title: 26
 usc_section: "995"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 995"
-generated_at: "2026-03-30T02:55:27.753Z"
+generated_at: "2026-11-23T21:26:06.451Z"
+status: "active"
 ---
 
 # § 995. Taxation of DISC income to shareholders
@@ -95,3 +96,7 @@ generated_at: "2026-03-30T02:55:27.753Z"
   - **(1)** any amount deemed distributed to such shareholder under subsection (b),
   - **(2)** any actual distribution to such shareholder which under section 996 is treated as out of accumulated DISC income, and
   - **(3)** any gain which is treated as a dividend under subsection (c),
+
+## Source Credit
+
+*(Added [Pub. L. 92–178, title V, § 501](https://www.govinfo.gov/link/plaw/92/public/178), Dec. 10, 1971, [85 Stat. 544](https://www.govinfo.gov/link/statute/85/544); amended [Pub. L. 94–455, title X](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1063, 1065(a)(2), title XI, § 1101(a), (d)(1), title XIX, §§ 1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1650](https://www.govinfo.gov/link/statute/90/1650), 1654, 1655, 1658, 1793, 1834; [Pub. L. 95–600, title VII](https://www.govinfo.gov/link/plaw/95/public/600), §§ 701(u)(12)(B), 703(i)(1), (2), Nov. 6, 1978, [92 Stat. 2918](https://www.govinfo.gov/link/statute/92/2918), 2940; [Pub. L. 98–369, div. A, title I, § 68(d)](https://www.govinfo.gov/link/plaw/98/public/369), title VIII, § 802(a), (b), July 18, 1984, [98 Stat. 588](https://www.govinfo.gov/link/statute/98/588), 997, 999; [Pub. L. 99–514, title XVIII, § 1876(b)(2)](https://www.govinfo.gov/link/plaw/99/public/514), (g), (p)(1), Oct. 22, 1986, [100 Stat. 2898](https://www.govinfo.gov/link/statute/100/2898), 2900, 2902; [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1006(e)(15), 1012(bb)(6)(A), Nov. 10, 1988, [102 Stat. 3402](https://www.govinfo.gov/link/statute/102/3402), 3535; [Pub. L. 101–239, title VII, § 7811(i)(12)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2411](https://www.govinfo.gov/link/statute/103/2411); [Pub. L. 106–170, title V, § 532(c)(2)(R)](https://www.govinfo.gov/link/plaw/106/public/170), Dec. 17, 1999, [113 Stat. 1931](https://www.govinfo.gov/link/statute/113/1931); [Pub. L. 106–554, § 1(a)(7) [title III, §§ 307(c), 319(12)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–636, 2763A–646; [Pub. L. 107–147, title IV, § 417(15)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 56](https://www.govinfo.gov/link/statute/116/56).)*

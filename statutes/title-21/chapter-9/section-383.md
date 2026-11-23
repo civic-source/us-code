@@ -3,9 +3,10 @@ title: "Section 383 - Office of International Relations"
 usc_title: 21
 usc_section: "383"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 383"
-generated_at: "2026-03-30T02:54:54.278Z"
+generated_at: "2026-11-23T21:25:56.173Z"
+status: "active"
 ---
 
 # § 383. Office of International Relations
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:54.278Z"
       - **(iii)** to the extent appropriate, inform the public of the Secretary’s activities within such fora, and share with the public any documentation relating to a forum’s strategies, policies, and other activities of such fora.
   - **(4)** With respect to devices, the Secretary may, when appropriate, enter into arrangements with nations regarding methods and approaches to harmonizing regulatory requirements for activities, including inspections and common international labeling symbols.
   - **(5)** Paragraphs (1) through (4) shall not apply with respect to products defined in section 321(ff) of this title .
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 803, as added [Pub. L. 101–629, § 15(a)](https://www.govinfo.gov/link/plaw/101/public/629), Nov. 28, 1990, [104 Stat. 4525](https://www.govinfo.gov/link/statute/104/4525); amended [Pub. L. 105–115, title IV, § 410(b)](https://www.govinfo.gov/link/plaw/105/public/115), Nov. 21, 1997, [111 Stat. 2373](https://www.govinfo.gov/link/statute/111/2373); [Pub. L. 112–144, title VI](https://www.govinfo.gov/link/plaw/112/public/144), §§ 609, 610, July 9, 2012, [126 Stat. 1059](https://www.govinfo.gov/link/statute/126/1059).)*

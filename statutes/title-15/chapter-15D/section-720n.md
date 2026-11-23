@@ -3,9 +3,10 @@ title: "Section 720n - Loan guarantees"
 usc_title: 15
 usc_section: "720n"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 720n"
-generated_at: "2026-03-30T02:54:08.121Z"
+generated_at: "2026-11-23T21:25:39.758Z"
+status: "active"
 ---
 
 # § 720n. Loan guarantees
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:08.121Z"
     - **(B)** a governmental plan (as defined in section 414(d) of title 26 ) that is a qualified institutional buyer.
   - **(3)** The term “Federal guarantee instrument” means any guarantee or other pledge by the Secretary to pledge the full faith and credit of the United States to pay all of the principal and interest on any loan or other debt obligation entered into by a holder of a certificate of public convenience and necessity.
   - **(4)** The term “qualified infrastructure project” means an Alaskan natural gas transportation project or system consisting of the design, engineering, finance, construction, and completion of pipelines and related transportation and production systems (including gas treatment plants, liquification plants, and liquefied natural gas tankers for transportation of liquefied natural gas from southcentral Alaska), and appurtenances thereto, that are used to transport natural gas from the Alaska North Slope.
+
+## Source Credit
+
+*([Pub. L. 108–324, div. C, § 116](https://www.govinfo.gov/link/plaw/108/public/324), Oct. 13, 2004, [118 Stat. 1265](https://www.govinfo.gov/link/statute/118/1265); [Pub.L. 108–199, div. H, § 146](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 444](https://www.govinfo.gov/link/statute/118/444); [Pub. L. 108–447, div. J, title I, § 114](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3346](https://www.govinfo.gov/link/statute/118/3346); [Pub. L. 117–58, div. D, title IV, § 40401(d)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1037](https://www.govinfo.gov/link/statute/135/1037).)*

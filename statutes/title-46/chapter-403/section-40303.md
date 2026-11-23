@@ -3,9 +3,10 @@ title: "Section 40303 - Content requirements"
 usc_title: 46
 usc_section: "40303"
 chapter: 403
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 40303"
-generated_at: "2026-03-30T02:56:15.563Z"
+generated_at: "2026-11-23T21:26:37.181Z"
+status: "active"
 ---
 
 # § 40303. Content requirements
@@ -33,3 +34,63 @@ generated_at: "2026-03-30T02:56:15.563Z"
 - **(d)**
   - **(1)** An ocean common carrier that is the owner, operator, or bareboat, time, or slot charterer of a liner vessel documented under section 12103 or 12111(c) of this title may agree with an ocean common carrier described in paragraph (2) to which it charters or subcharters the vessel or space on the vessel that the charterer or subcharterer may not use or make available space on the vessel for the carriage of cargo reserved by law for vessels of the United States.
   - **(2)** An ocean common carrier described in this paragraph is one that is not the owner, operator, or bareboat charterer for at least one year of liner vessels of the United States that are eligible to be included in the Maritime Security Fleet Program and are enrolled in an Emergency Preparedness Program under chapter 531 of this title.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40303(a) | 46 App.:1704(c). | Pub. L. 98–237, § 5(b) –(d), Mar. 20, 1984 , 98 Stat. 70 ; Pub. L. 105–258, title I, § 104(a) , Oct. 14, 1998 , 112 Stat. 1904 . |
+| 40303(b) | 46 App.:1704(b). |  |
+| 40303(c) | 46 App.:1704(d). |  |
+| 40303(d) | 46 App.:1704(g). | Pub. L. 98–237, § 5(g) , Mar. 20, 1984 ; as added Pub. L. 105–383, title IV, § 424(a) , Nov. 13, 1998 , 112 Stat. 3440 . |
+
+
+Ocean Common Carrier Agreements
+
+Restrictions
+
+Voluntary guidelines
+
+Conference Agreements
+
+Interconference Agreements
+
+Vessel Sharing Agreements
+
+In general
+
+Carrier described
+
+Historical and Revision Notes
+
+40303(a)
+
+Pub. L. 98–237, § 5(b)
+
+Mar. 20, 1984
+
+98 Stat. 70
+
+Pub. L. 105–258, title I, § 104(a)
+
+Oct. 14, 1998
+
+112 Stat. 1904
+
+40303(b)
+
+40303(c)
+
+40303(d)
+
+Pub. L. 98–237, § 5(g)
+
+Mar. 20, 1984
+
+Pub. L. 105–383, title IV, § 424(a)
+
+Nov. 13, 1998
+
+112 Stat. 3440
+
+## Source Credit
+
+*([Pub. L. 109–304, § 7](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1529](https://www.govinfo.gov/link/statute/120/1529).)*

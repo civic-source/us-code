@@ -3,9 +3,10 @@ title: "Section 3 - Computer standards program"
 usc_title: 15
 usc_section: "3"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3"
-generated_at: "2026-03-30T02:54:08.078Z"
+generated_at: "2026-11-23T21:25:39.619Z"
+status: "active"
 ---
 
 # § 278g–3. Computer standards program
@@ -63,3 +64,23 @@ generated_at: "2026-03-30T02:54:08.078Z"
   - **(3)** the term “information system” has the same meaning as provided in section 3502(8) of such title;
   - **(4)** the term “information technology” has the same meaning as provided in section 11101 of title 40 ; and
   - **(5)** the term “national security system” has the same meaning as provided in section 3552(b)(5) 2 2 So in original. Probably should be “3552(b)(6)”. of such title. 3 3 So in original. “Such title” probably means title 44.
+
+In General
+
+Minimum Requirements for Standards and Guidelines
+
+Development of Standards and Guidelines
+
+Information Security Functions
+
+Definitions
+
+Authorization of Appropriations
+
+Intramural Security Research
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(Mar. 3, 1901, ch. 872, § 20, as added [Pub. L. 100–235, § 3(2)](https://www.govinfo.gov/link/plaw/100/public/235), Jan. 8, 1988, [101 Stat. 1724](https://www.govinfo.gov/link/statute/101/1724); amended [Pub. L. 100–418, title V, § 5115(a)(1)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1433](https://www.govinfo.gov/link/statute/102/1433); [Pub. L. 104–106, div. E, title LVI, § 5607(a)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 701](https://www.govinfo.gov/link/statute/110/701); [Pub. L. 105–85, div. A, title X, § 1073(h)(1)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1906](https://www.govinfo.gov/link/statute/111/1906); [Pub. L. 107–296, title X, § 1003](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2269](https://www.govinfo.gov/link/statute/116/2269); [Pub. L. 107–305](https://www.govinfo.gov/link/plaw/107/public/305), §§ 8(b), 9, 10, Nov. 27, 2002, [116 Stat. 2378](https://www.govinfo.gov/link/statute/116/2378), 2379; [Pub. L. 107–347, title III, § 303](https://www.govinfo.gov/link/plaw/107/public/347), Dec. 17, 2002, [116 Stat. 2957](https://www.govinfo.gov/link/statute/116/2957); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 113–274, title II, § 204](https://www.govinfo.gov/link/plaw/113/public/274), Dec. 18, 2014, [128 Stat. 2980](https://www.govinfo.gov/link/statute/128/2980); [Pub. L. 113–283, § 2(e)(4)](https://www.govinfo.gov/link/plaw/113/public/283), Dec. 18, 2014, [128 Stat. 3087](https://www.govinfo.gov/link/statute/128/3087); [Pub. L. 114–329, title I, § 104(b)(3)](https://www.govinfo.gov/link/plaw/114/public/329), Jan. 6, 2017, [130 Stat. 2976](https://www.govinfo.gov/link/statute/130/2976); [Pub. L. 116–283, div. H, title XCIV, § 9402(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4810](https://www.govinfo.gov/link/statute/134/4810); [Pub. L. 117–167, div. B, title II](https://www.govinfo.gov/link/plaw/117/public/167), §§ 10227, 10246(a)(2), (g), Aug. 9, 2022, [136 Stat. 1481](https://www.govinfo.gov/link/statute/136/1481), 1491, 1494.)*

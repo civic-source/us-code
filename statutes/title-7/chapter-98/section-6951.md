@@ -3,9 +3,10 @@ title: "Section 6951 - Under Secretary of Agriculture for Food, Nutrition, and C
 usc_title: 7
 usc_section: "6951"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6951"
-generated_at: "2026-03-30T02:53:42.440Z"
+generated_at: "2026-11-23T21:25:28.407Z"
+status: "active"
 ---
 
 # § 6951. Under Secretary of Agriculture for Food, Nutrition, and Consumer Services
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.440Z"
   - **(1)** Upon establishment, the Secretary shall delegate to the Under Secretary of Agriculture for Food, Nutrition, and Consumer Services those functions under the jurisdiction of the Department that are related to food, nutrition, and consumer services (except as provided in section 6981(b)(1) of this title ).
   - **(2)** The Under Secretary of Agriculture for Food, Nutrition, and Consumer Services shall perform such other functions as may be required by law or prescribed by the Secretary.
 - **(d)** Any official who is serving as Assistant Secretary of Agriculture for Food and Consumer Services on October 13, 1994 , and who was appointed by the President, by and with the advice and consent of the Senate, shall not be required to be reappointed under subsection (b) to the successor position authorized under subsection (a) if the Secretary establishes the position, and the official occupies the new position, within 180 days after October 13, 1994 (or such later date set by the Secretary if litigation delays rapid succession).
+
+## Source Credit
+
+*([Pub. L. 103–354, title II, § 241](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3222](https://www.govinfo.gov/link/statute/108/3222).)*

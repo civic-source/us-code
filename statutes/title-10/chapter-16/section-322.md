@@ -3,9 +3,10 @@ title: "Section 322 - Special operations forces: training with friendly foreign 
 usc_title: 10
 usc_section: "322"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 322"
-generated_at: "2026-03-30T02:53:38.052Z"
+generated_at: "2026-11-23T21:25:32.252Z"
+status: "active"
 ---
 
 # § 322. Special operations forces: training with friendly foreign forces
@@ -26,3 +27,21 @@ generated_at: "2026-03-30T02:53:38.052Z"
   - **(4)** The relationship of that training to other overseas training programs conducted by the armed forces, such as military exercise programs sponsored by the Joint Chiefs of Staff, military exercise programs sponsored by a combatant command, and military training activities sponsored by a military department (including deployments for training, short duration exercises, and other similar unit training events).
   - **(5)** A summary of the expenditures under this section resulting from the training for which expenses were paid under this section.
   - **(6)** A discussion of the unique military training benefit to United States special operations forces derived from the training activities for which expenses were paid under this section.
+
+Authority To Pay Training Expenses
+
+Purpose of Training
+
+Regulations
+
+Definitions
+
+Reports
+
+To
+
+to
+
+## Source Credit
+
+*(Added [Pub. L. 102–190, div. A, title X, § 1052(a)(1)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1470](https://www.govinfo.gov/link/statute/105/1470), § 2011; amended [Pub. L. 104–106, div. A, title XV, § 1503(a)(18)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 512](https://www.govinfo.gov/link/statute/110/512); [Pub. L. 105–261, div. A, title X, § 1062](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2129](https://www.govinfo.gov/link/statute/112/2129); [Pub. L. 112–81, div. A, title X, § 1086(2)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1603](https://www.govinfo.gov/link/statute/125/1603); renumbered § 322, [Pub. L. 114–328, div. A, title XII, § 1244(b)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2518](https://www.govinfo.gov/link/statute/130/2518).)*

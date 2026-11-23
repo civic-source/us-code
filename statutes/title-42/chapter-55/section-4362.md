@@ -3,9 +3,10 @@ title: "Section 4362 - Interagency cooperation on prevention of environmental ca
 usc_title: 42
 usc_section: "4362"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4362"
-generated_at: "2026-03-30T02:56:11.202Z"
+generated_at: "2026-11-23T21:26:32.658Z"
+status: "active"
 ---
 
 # § 4362. Interagency cooperation on prevention of environmental cancer and heart and lung disease
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.202Z"
   - **(3)** recommend research and such other measures as may be appropriate to prevent or reduce the incidence of environmentally related cancer and heart and lung diseases;
   - **(4)** coordinate research by, and stimulate cooperation between, the Environmental Protection Agency, the Department of Health and Human Services, and such other agencies as may be appropriate to prevent environmentally related cancer and heart and lung diseases; and
   - **(5)** report to Congress, not later than one year after August 7, 1977 , and annually thereafter, on the problems and progress in carrying out this section.
+
+## Source Credit
+
+*([Pub. L. 95–95, title IV, § 402](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 791](https://www.govinfo.gov/link/statute/91/791); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695).)*

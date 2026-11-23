@@ -3,9 +3,10 @@ title: "Section 710a - Parental leave for members of certain reserve components 
 usc_title: 10
 usc_section: "710a"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 710a"
-generated_at: "2026-03-30T02:53:38.075Z"
+generated_at: "2026-11-23T21:25:32.315Z"
+status: "active"
 ---
 
 # § 710a. Parental leave for members of certain reserve components of the armed forces
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:38.075Z"
 - **(b)** A member described in this subsection is a member of—
   - **(1)** the selected reserve who is entitled to compensation under section 206 of title 37 ; or
   - **(2)** the individual ready reserve who is entitled to compensation under section 206 of title 37 when attending or participating in a sufficient number of periods of inactive-duty training during a year to count the year as a qualifying year of creditable service toward eligibility for retired pay.
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title VI, § 601(a)(1)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 288](https://www.govinfo.gov/link/statute/137/288), § 711; renumbered 710a and amended [Pub. L. 118–159, div. A, title VI, § 603(a)](https://www.govinfo.gov/link/plaw/118/public/159), (b), Dec. 23, 2024, [138 Stat. 1931](https://www.govinfo.gov/link/statute/138/1931); [Pub. L. 119–60, div. A, title XVII, § 1701(a)(10)](https://www.govinfo.gov/link/plaw/119/public/60), (11), Dec. 18, 2025, [139 Stat. 1208](https://www.govinfo.gov/link/statute/139/1208).)*

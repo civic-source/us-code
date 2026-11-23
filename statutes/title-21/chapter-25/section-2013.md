@@ -3,9 +3,10 @@ title: "Section 2013 - NMIC requirements and review"
 usc_title: 21
 usc_section: "2013"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 2013"
-generated_at: "2026-03-30T02:54:54.308Z"
+generated_at: "2026-11-23T21:25:56.296Z"
+status: "active"
 ---
 
 # § 2013. NMIC requirements and review
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:54.308Z"
   - **(2)** Not later than 45 days after the date of submission of an item, the Council shall—
     - **(A)** post the item on the website described in subsection (b)(2); or
     - **(B)** notify the qualified entity that submitted the item regarding the reason such item shall not be posted and modifications, if any, that the qualified entity may make to allow the item to be posted.
+
+## Source Credit
+
+*([Pub. L. 109–469, title X, § 1004](https://www.govinfo.gov/link/plaw/109/public/469), Dec. 29, 2006, [120 Stat. 3538](https://www.govinfo.gov/link/statute/120/3538).)*

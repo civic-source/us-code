@@ -3,9 +3,10 @@ title: "Section 7751 - Cooperation"
 usc_title: 7
 usc_section: "7751"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7751"
-generated_at: "2026-03-30T02:53:42.462Z"
+generated_at: "2026-11-23T21:25:28.447Z"
+status: "active"
 ---
 
 # § 7751. Cooperation
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:42.462Z"
     - **(B)** capable of documenting each plant pest infestation eradication, prevention, control, or suppression activity generally carried out by—
       - **(i)** the Department of Agriculture; or
       - **(ii)** the State department of agriculture that has jurisdiction over the unit of local government.
+
+## Source Credit
+
+*([Pub. L. 106–224, title IV, § 431](https://www.govinfo.gov/link/plaw/106/public/224), June 20, 2000, [114 Stat. 451](https://www.govinfo.gov/link/statute/114/451); [Pub. L. 110–234, title X, § 10206](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1346](https://www.govinfo.gov/link/statute/122/1346); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title X, § 10206, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2107.)*

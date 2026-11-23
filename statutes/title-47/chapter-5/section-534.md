@@ -3,9 +3,10 @@ title: "Section 534 - Carriage of local commercial television signals"
 usc_title: 47
 usc_section: "534"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 534"
-generated_at: "2026-03-30T02:56:24.518Z"
+generated_at: "2026-11-23T21:26:36.030Z"
+status: "active"
 ---
 
 # § 534. Carriage of local commercial television signals
@@ -73,3 +74,9 @@ generated_at: "2026-03-30T02:56:24.518Z"
     - **(D)** such station is located no more than 35 miles from the cable system’s headend, and delivers to the principal headend of the cable system an over-the-air signal of good quality, as determined by the Commission;
     - **(E)** the community of license of such station and the franchise area of the cable system are both located outside of the largest 160 Metropolitan Statistical Areas, ranked by population, as determined by the Office of Management and Budget on June 30, 1990 , and the population of such community of license on such date did not exceed 35,000; and
     - **(F)** there is no full power television broadcast station licensed to any community within the county or other political subdivision (of a State) served by the cable system.
+
+“The amendment made by paragraph (1) [amending this section] shall apply to—
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VI, § 614, as added [Pub. L. 102–385, § 4](https://www.govinfo.gov/link/plaw/102/public/385), Oct. 5, 1992, [106 Stat. 1471](https://www.govinfo.gov/link/statute/106/1471); amended [Pub. L. 104–104, title III, § 301(d)(1)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 116](https://www.govinfo.gov/link/statute/110/116); [Pub. L. 113–200, title I](https://www.govinfo.gov/link/plaw/113/public/200), §§ 102(b), 105(a), Dec. 4, 2014, [128 Stat. 2061](https://www.govinfo.gov/link/statute/128/2061), 2063.)*

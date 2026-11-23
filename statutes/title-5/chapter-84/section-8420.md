@@ -3,9 +3,10 @@ title: "Section 8420 - Insurable interest reductions"
 usc_title: 5
 usc_section: "8420"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8420"
-generated_at: "2026-03-30T02:52:56.055Z"
+generated_at: "2026-11-23T21:25:23.415Z"
+status: "active"
 ---
 
 # § 8420. Insurable interest reductions
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:52:56.055Z"
 - **(b)**
   - **(1)** In the case of a married employee or Member, an election under this section on behalf of the spouse may be made only if any right of such spouse to a survivor annuity based on the service of such employee or Member is waived in accordance with section 8416(a).
   - **(2)** Paragraph (1) does not apply in the case of an employee or Member if such employee or Member has a former spouse who would become entitled to an annuity under section 8445 as a survivor of such employee or Member.
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 532](https://www.govinfo.gov/link/statute/100/532).)*

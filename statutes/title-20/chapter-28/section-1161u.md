@@ -3,9 +3,10 @@ title: "Section 1161u - Sustainability planning grants authorized"
 usc_title: 20
 usc_section: "1161u"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1161u"
-generated_at: "2026-03-30T02:54:48.155Z"
+generated_at: "2026-11-23T21:25:47.285Z"
+status: "active"
 ---
 
 # § 1161u. Sustainability planning grants authorized
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:54:48.155Z"
 - **(d)** An eligible entity that receives a grant under subsection (a) shall submit to the Secretary, for each fiscal year in which the entity receives amounts from such grant, a report that describes the work conducted pursuant to subsection (c), research findings and publications, administrative savings experienced, and an evaluation of the program.
 - **(e)** The Secretary may not make grants under subsection (a) to any eligible entity in a total amount that is less than $250,000 or more than $2,000,000.
 - **(f)** There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VIII, § 881](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title VIII, § 801](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3430](https://www.govinfo.gov/link/statute/122/3430).)*

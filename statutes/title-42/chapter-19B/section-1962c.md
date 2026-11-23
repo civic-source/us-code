@@ -3,12 +3,17 @@ title: "Section 1962c - Authorization of appropriations; coordination of related
 usc_title: 42
 usc_section: "1962c"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1962c"
-generated_at: "2026-03-30T02:56:11.134Z"
+generated_at: "2026-11-23T21:26:32.245Z"
+status: "active"
 ---
 
 # § 1962c. Authorization of appropriations; coordination of related Federal planning assistance programs; utilization of Federal agencies administering programs contributing to water resources planning
 
 - **(a)** In recognition of the need for increased participation by the States in water and related land resources planning to be effective, there are hereby authorized to be appropriated to the Council, $3,000,000 for fiscal year 1979 for grants to States to assist them in developing and participating in the development of comprehensive water and related land resources plans.
 - **(b)** The Council, with the approval of the President, shall prescribe such rules, establish such procedures, and make such arrangements and provisions relating to the performance of its functions under this subchapter, and the use of funds available therefor, as may be necessary in order to assure (1) coordination of the program authorized by this subchapter with related Federal planning assistance programs, including the program authorized under section 701 of the Housing Act of 1954 1 1 See References in Text note below. and (2) appropriate utilization of other Federal agencies administering programs which may contribute to achieving the purpose of this chapter.
+
+## Source Credit
+
+*([Pub. L. 89–80, title III, § 301](https://www.govinfo.gov/link/plaw/89/public/80), July 22, 1965, [79 Stat. 251](https://www.govinfo.gov/link/statute/79/251); [Pub. L. 94–112, § 1(d)](https://www.govinfo.gov/link/plaw/94/public/112), Oct. 16, 1975, [89 Stat. 575](https://www.govinfo.gov/link/statute/89/575); [Pub. L. 95–404, § 1(d)](https://www.govinfo.gov/link/plaw/95/public/404), Sept. 30, 1978, [92 Stat. 864](https://www.govinfo.gov/link/statute/92/864).)*

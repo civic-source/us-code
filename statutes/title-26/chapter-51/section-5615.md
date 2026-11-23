@@ -3,9 +3,10 @@ title: "Section 5615 - Property subject to forfeiture"
 usc_title: 26
 usc_section: "5615"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5615"
-generated_at: "2026-03-30T02:55:27.824Z"
+generated_at: "2026-11-23T21:26:06.733Z"
+status: "active"
 ---
 
 # § 5615. Property subject to forfeiture
@@ -35,3 +36,32 @@ The following property shall be forfeited to the United States:
     - **(F)** permit any of the acts described in the preceding subparagraphs to be performed;
   - **(6)** All distilled spirits on which the tax has not been paid or determined which have been removed, other than as authorized by law, from the place of manufacture, storage, or instrument of transportation; and
   - **(7)** All distilled spirits on which the tax has not been paid or determined as provided by law to which any ingredient or substance has been added for the purpose of creating fictitious proof.
+
+| Present subds.: | Prior sections |
+| --- | --- |
+| (1) | 5601. |
+| (2) | 5602. |
+| (3) | 5604, 5606, 5626, 5650. |
+| (4) | 5608(b). |
+| (5) | 5620. |
+| (6) | 5631, 5632, 5643, 5647. |
+| (7) | 5634. |
+
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1405](https://www.govinfo.gov/link/statute/72/1405); amended [Pub. L. 96–39, title VIII, § 807(a)(56)](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 289](https://www.govinfo.gov/link/statute/93/289); [Pub. L. 98–369, div. A, title IV, § 451(b)(2)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 819](https://www.govinfo.gov/link/statute/98/819).)*

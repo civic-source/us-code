@@ -3,9 +3,10 @@ title: "Section 8505 - Payments to States"
 usc_title: 5
 usc_section: "8505"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8505"
-generated_at: "2026-03-30T02:52:56.064Z"
+generated_at: "2026-11-23T21:25:23.439Z"
+status: "active"
 ---
 
 # § 8505. Payments to States
@@ -20,3 +21,20 @@ generated_at: "2026-03-30T02:52:56.064Z"
 - **(f)** In the absence of gross negligence or intent to defraud the United States, an individual designated by the Secretary, or designated under an agreement, as a certifying official is not liable for the payment of compensation certified by him under this subchapter.
 - **(g)** In the absence of gross negligence or intent to defraud the United States, a disbursing official is not liable for a payment by him under this subchapter if it was based on a voucher signed by a certifying official designated as provided by subsection (f) of this section.
 - **(h)** For the purpose of payments made to a State under subchapter III of chapter 7 of title 42, administration by a State agency under an agreement is deemed a part of the administration of the State unemployment compensation law.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 42 U.S.C. 1366 . | Sept. 1, 1954, ch. 1212, § 4(a) “Sec. 1506”, 68 Stat. 1133 . |
+
+
+Historical and Revision Notes
+
+42 U.S.C. 1366
+
+Sept. 1, 1954, ch. 1212, § 4(a)
+
+68 Stat. 1133
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 588](https://www.govinfo.gov/link/statute/80/588); [Pub. L. 94–566, title II, § 214(a)](https://www.govinfo.gov/link/plaw/94/public/566), Oct. 20, 1976, [90 Stat. 2678](https://www.govinfo.gov/link/statute/90/2678); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

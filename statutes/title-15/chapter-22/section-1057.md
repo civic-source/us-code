@@ -3,9 +3,10 @@ title: "Section 1057 - Certificates of registration"
 usc_title: 15
 usc_section: "1057"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1057"
-generated_at: "2026-03-30T02:54:08.125Z"
+generated_at: "2026-11-23T21:25:39.779Z"
+status: "active"
 ---
 
 # § 1057. Certificates of registration
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.125Z"
 - **(f)** Copies of any records, books, papers, or drawings belonging to the United States Patent and Trademark Office relating to marks, and copies of registrations, when authenticated by the seal of the United States Patent and Trademark Office and certified by the Director, or in his name by an employee of the Office duly designated by the Director, shall be evidence in all cases wherein the originals would be evidence; and any person making application therefor and paying the prescribed fee shall have such copies.
 - **(g)** Whenever a material mistake in a registration, incurred through the fault of the United States Patent and Trademark Office, is clearly disclosed by the records of the Office a certificate stating the fact and nature of such mistake shall be issued without charge and recorded and a printed copy thereof shall be attached to each printed copy of the registration and such corrected registration shall thereafter have the same effect as if the same had been originally issued in such corrected form, or in the discretion of the Director a new certificate of registration may be issued without charge. All certificates of correction heretofore issued in accordance with the rules of the United States Patent and Trademark Office and the registrations to which they are attached shall have the same force and effect as if such certificates and their issue had been specifically authorized by statute.
 - **(h)** Whenever a mistake has been made in a registration and a showing has been made that such mistake occurred in good faith through the fault of the applicant, the Director is authorized to issue a certificate of correction or, in his discretion, a new certificate upon the payment of the prescribed fee: Provided , That the correction does not involve such changes in the registration as to require republication of the mark.
+
+## Source Credit
+
+*(July 5, 1946, ch. 540, title I, § 7, [60 Stat. 430](https://www.govinfo.gov/link/statute/60/430); Aug. 17, 1950, ch. 733, [64 Stat. 459](https://www.govinfo.gov/link/statute/64/459); [Pub. L. 87–772, § 4](https://www.govinfo.gov/link/plaw/87/public/772), Oct. 9, 1962, [76 Stat. 769](https://www.govinfo.gov/link/statute/76/769); [Pub. L. 93–596, § 1](https://www.govinfo.gov/link/plaw/93/public/596), Jan. 2, 1975, [88 Stat. 1949](https://www.govinfo.gov/link/statute/88/1949); [Pub. L. 100–667, title I, § 109](https://www.govinfo.gov/link/plaw/100/public/667), Nov. 16, 1988, [102 Stat. 3938](https://www.govinfo.gov/link/statute/102/3938); [Pub. L. 105–330, title II, § 201(a)(3)](https://www.govinfo.gov/link/plaw/105/public/330), Oct. 30, 1998, [112 Stat. 3070](https://www.govinfo.gov/link/statute/112/3070); [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–583; [Pub. L. 111–146, § 3(a)](https://www.govinfo.gov/link/plaw/111/public/146), Mar. 17, 2010, [124 Stat. 66](https://www.govinfo.gov/link/statute/124/66).)*

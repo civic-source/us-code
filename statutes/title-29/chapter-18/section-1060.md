@@ -3,9 +3,10 @@ title: "Section 1060 - Multiple employer plans and other special rules"
 usc_title: 29
 usc_section: "1060"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1060"
-generated_at: "2026-03-30T02:55:18.708Z"
+generated_at: "2026-11-23T21:26:02.239Z"
+status: "active"
 ---
 
 # § 1060. Multiple employer plans and other special rules
@@ -88,3 +89,23 @@ generated_at: "2026-03-30T02:55:18.708Z"
   - **(3)**
     - **(A)** If a plan falls within the definition of a CSEC plan under this subsection (without regard to this paragraph), such plan shall be a CSEC plan unless the plan sponsor elects not later than the close of the first plan year of the plan beginning after December 31, 2013 , not to be treated as a CSEC plan. An election under the preceding sentence shall take effect for such plan year and, once made, may be revoked only with the consent of the Secretary of the Treasury.
     - **(B)** If a plan described in subparagraph (A) is treated as a CSEC plan, section 104 of the Pension Protection Act of 2006, as amended by the Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010, shall cease to apply to such plan as of the first date as of which such plan is treated as a CSEC plan.
+
+| If the participant’s age as of the beginning of the year is— | The percentage is— |
+| --- | --- |
+| 30 or less | 2 |
+| Over 30 but less than 40 | 4 |
+| 40 or over but less than 50 | 6 |
+| 50 or over | 8. |
+
+
+30 or less
+
+Over 30 but less than 40
+
+40 or over but less than 50
+
+50 or over
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 210](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 866](https://www.govinfo.gov/link/statute/88/866); [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7891(a)(1), 7894(c)(10), Dec. 19, 1989, [103 Stat. 2445](https://www.govinfo.gov/link/statute/103/2445), 2449; [Pub. L. 109–280, title IX, § 903(b)(1)](https://www.govinfo.gov/link/plaw/109/public/280), (2)(A), Aug. 17, 2006, [120 Stat. 1044](https://www.govinfo.gov/link/statute/120/1044), 1048; [Pub. L. 110–458, title I, § 109(c)(2)](https://www.govinfo.gov/link/plaw/110/public/458), Dec. 23, 2008, [122 Stat. 5111](https://www.govinfo.gov/link/statute/122/5111); [Pub. L. 113–97, title I](https://www.govinfo.gov/link/plaw/113/public/97), §§ 101, 103(a), Apr. 7, 2014, [128 Stat. 1102](https://www.govinfo.gov/link/statute/128/1102), 1117; [Pub. L. 113–235, div. P, § 3(a)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2829](https://www.govinfo.gov/link/statute/128/2829); [Pub. L. 116–136, div. A, title III, § 3609(a)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 413](https://www.govinfo.gov/link/statute/134/413).)*

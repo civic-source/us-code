@@ -3,9 +3,10 @@ title: "Section 5103 - Notice to claimants of required information and evidence"
 usc_title: 38
 usc_section: "5103"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 5103"
-generated_at: "2026-03-30T02:55:53.519Z"
+generated_at: "2026-11-23T21:26:16.813Z"
+status: "active"
 ---
 
 # § 5103. Notice to claimants of required information and evidence
@@ -30,3 +31,19 @@ generated_at: "2026-03-30T02:55:53.519Z"
   - **(5)**
     - **(A)** This section shall not apply to any claim or issue where the Secretary may award the maximum benefit in accordance with this title based on the evidence of record.
     - **(B)** For purposes of this paragraph, the term “maximum benefit” means the highest evaluation assignable in accordance with the evidence of record, as long as such evidence is adequate for rating purposes and sufficient to grant the earliest possible effective date in accordance with section 5110 of this title .
+
+Required Information and Evidence
+
+Time Limitation
+
+In general
+
+Construction regarding applicability
+
+Procedures for Readjudication of Certain Claims
+
+Construction on Providing Renotification
+
+## Source Credit
+
+*(Added [Pub. L. 106–475, § 3(a)](https://www.govinfo.gov/link/plaw/106/public/475), Nov. 9, 2000, [114 Stat. 2096](https://www.govinfo.gov/link/statute/114/2096); amended [Pub. L. 107–14, § 8(a)(12)](https://www.govinfo.gov/link/plaw/107/public/14), June 5, 2001, [115 Stat. 35](https://www.govinfo.gov/link/statute/115/35); [Pub. L. 108–183, title VII, § 701(b)](https://www.govinfo.gov/link/plaw/108/public/183), Dec. 16, 2003, [117 Stat. 2670](https://www.govinfo.gov/link/statute/117/2670); [Pub. L. 110–389, title I, § 101(a)](https://www.govinfo.gov/link/plaw/110/public/389), Oct. 10, 2008, [122 Stat. 4147](https://www.govinfo.gov/link/statute/122/4147); [Pub. L. 112–154, title V, § 504(a)](https://www.govinfo.gov/link/plaw/112/public/154), Aug. 6, 2012, [126 Stat. 1191](https://www.govinfo.gov/link/statute/126/1191); [Pub. L. 115–55, § 2(b)](https://www.govinfo.gov/link/plaw/115/public/55), Aug. 23, 2017, [131 Stat. 1105](https://www.govinfo.gov/link/statute/131/1105).)*

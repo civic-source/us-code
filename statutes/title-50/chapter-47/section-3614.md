@@ -3,9 +3,10 @@ title: "Section 3614 - Louis Stokes Educational Scholarship Program"
 usc_title: 50
 usc_section: "3614"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3614"
-generated_at: "2026-03-30T02:56:26.258Z"
+generated_at: "2026-11-23T21:26:39.064Z"
+status: "active"
 ---
 
 # § 3614. Louis Stokes Educational Scholarship Program
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:26.258Z"
 - **(f)** Chapter 41 of title 5 and subsections (a) and (b) of section 3324 of title 31 shall not apply with respect to this section.
 - **(g)** The Secretary of Defense may issue such regulations as may be necessary to implement this section.
 - **(h)** The undergraduate and graduate training program established under this section shall be known as the Louis Stokes Educational Scholarship Program.
+
+## Source Credit
+
+*([Pub. L. 86–36, § 16](https://www.govinfo.gov/link/plaw/86/public/36), as added [Pub. L. 99–569, title V, § 505](https://www.govinfo.gov/link/plaw/99/public/569), Oct. 27, 1986, [100 Stat. 3200](https://www.govinfo.gov/link/statute/100/3200); amended [Pub. L. 111–259, title III, § 312(a)](https://www.govinfo.gov/link/plaw/111/public/259) –(d), Oct. 7, 2010, [124 Stat. 2663](https://www.govinfo.gov/link/statute/124/2663), 2664; [Pub. L. 118–31, div. G, title IX, § 7901(i)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1107](https://www.govinfo.gov/link/statute/137/1107); [Pub. L. 118–159, div. F, title LXIX, § 6902(b)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2517](https://www.govinfo.gov/link/statute/138/2517).)*

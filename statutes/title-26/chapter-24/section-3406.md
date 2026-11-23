@@ -3,9 +3,10 @@ title: "Section 3406 - Backup withholding"
 usc_title: 26
 usc_section: "3406"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 3406"
-generated_at: "2026-03-30T02:55:27.796Z"
+generated_at: "2026-11-23T21:26:06.585Z"
+status: "active"
 ---
 
 # § 3406. Backup withholding
@@ -153,3 +154,15 @@ generated_at: "2026-03-30T02:55:27.796Z"
   - **(9)** If the Secretary notifies a payor under paragraph (1)(B) of subsection (a) that the TIN furnished by any payee is incorrect and such payee subsequently furnishes another TIN to the payor, the payor shall promptly notify the Secretary of the other TIN so furnished.
   - **(10)** For purposes of section 31, this chapter (other than section 3402(n)), and so much of subtitle F (other than section 7205) as relates to this chapter, payments which are subject to withholding under this section shall be treated as if they were wages paid by an employer to an employee (and amounts deducted and withheld under this section shall be treated as if deducted and withheld under section 3402).
 - **(i)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
+
+In general
+
+Application of backup withholding.—
+
+In general
+
+Eligibility for tin matching program
+
+## Source Credit
+
+*(Added [Pub. L. 98–67, title I, § 104(a)](https://www.govinfo.gov/link/plaw/98/public/67), Aug. 5, 1983, [97 Stat. 371](https://www.govinfo.gov/link/statute/97/371); amended [Pub. L. 98–369, div. A, title I, § 152(a)](https://www.govinfo.gov/link/plaw/98/public/369), title VII, § 722(h)(1), (2), July 18, 1984, [98 Stat. 691](https://www.govinfo.gov/link/statute/98/691), 975; [Pub. L. 99–514, title XV](https://www.govinfo.gov/link/plaw/99/public/514), §§ 1521(b), 1523(b)(1), title XVIII, § 1899A(46), Oct. 22, 1986, [100 Stat. 2746](https://www.govinfo.gov/link/statute/100/2746), 2748, 2961; [Pub. L. 100–647, title I, § 1018(u)(44)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3592](https://www.govinfo.gov/link/statute/102/3592); [Pub. L. 102–486, title XIX, § 1935(a)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3032](https://www.govinfo.gov/link/statute/106/3032); [Pub. L. 107–16, title I, § 101(c)(10)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 44](https://www.govinfo.gov/link/statute/115/44); [Pub. L. 110–289, div. C, title III, § 3091(c)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2911](https://www.govinfo.gov/link/statute/122/2911); [Pub. L. 119–21, title VII](https://www.govinfo.gov/link/plaw/119/public/21), §§ 70432(b)(1), 70433(d), July 4, 2025, [139 Stat. 243](https://www.govinfo.gov/link/statute/139/243), 244.)*

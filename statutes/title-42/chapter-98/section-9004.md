@@ -3,9 +3,10 @@ title: "Section 9004 - Pilot and demonstration plants"
 usc_title: 42
 usc_section: "9004"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9004"
-generated_at: "2026-03-30T02:56:11.349Z"
+generated_at: "2026-11-23T21:26:33.224Z"
+status: "active"
 ---
 
 # § 9004. Pilot and demonstration plants
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.349Z"
   - **(2)** the delivery of baseload electricity to utilities located on land or the production of commercially attractive quantities of energy product; and
   - **(3)** the continuous operation of each pilot and demonstration facility for a sufficient period of time to collect and analyze system performance and reliability data.
 - **(c)** In providing any financial assistance under this section, the Secretary shall (1) give full consideration to those projects which will provide energy to United States offshore States, its territories, and its possessions and (2) seek satisfactory cost-sharing arrangements when he deems such arrangements to be appropriate.
+
+## Source Credit
+
+*([Pub. L. 96–310, § 5](https://www.govinfo.gov/link/plaw/96/public/310), July 17, 1980, [94 Stat. 943](https://www.govinfo.gov/link/statute/94/943).)*

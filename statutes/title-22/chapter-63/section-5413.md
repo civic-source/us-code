@@ -3,9 +3,10 @@ title: "Section 5413 - Agricultural assistance"
 usc_title: 22
 usc_section: "5413"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5413"
-generated_at: "2026-03-30T02:55:05.417Z"
+generated_at: "2026-11-23T21:25:58.660Z"
+status: "active"
 ---
 
 # § 5413. Agricultural assistance
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:05.417Z"
   - **(1)** to the maximum extent practicable, shall be provided through nongovernmental organizations; and
   - **(2)** shall emphasize feed grains.
 - **(d)** Subsection (c) should not be construed to authorize or require any budgetary obligations or outlays that are inconsistent with House Concurrent Resolution 106 of the 101st Congress (setting forth the congressional budget for the United States Government for fiscal year 1990).
+
+## Source Credit
+
+*([Pub. L. 101–179, title I, § 103](https://www.govinfo.gov/link/plaw/101/public/179), Nov. 28, 1989, [103 Stat. 1303](https://www.govinfo.gov/link/statute/103/1303); [Pub. L. 110–246, title III, § 3001(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/246), (2)(U), June 18, 2008, [122 Stat. 1820](https://www.govinfo.gov/link/statute/122/1820), 1821.)*

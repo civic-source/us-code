@@ -3,9 +3,10 @@ title: "Section 9846 - Reports"
 usc_title: 42
 usc_section: "9846"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9846"
-generated_at: "2026-03-30T02:56:11.372Z"
+generated_at: "2026-11-23T21:26:33.304Z"
+status: "active"
 ---
 
 # § 9846. Reports
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:56:11.372Z"
     - **(C)** determine under what circumstances and for what length of time Head Start agencies are providing disability-related services for children who have not been determined under the Individuals with Disabilities Education Act ( 20 U.S.C. 1400 et seq.) to be children with disabilities.
   - **(2)** Not later than 1 year after December 12, 2007 , the Secretary shall provide a report to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate on the activities described in paragraph (1).
 - **(e)** Not later than 1 year after December 12, 2007 , the Secretary shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the Secretary’s progress in assisting program efforts to prevent and reduce obesity in children who participate in Head Start programs, including progress on implementing initiatives within the Head Start program to prevent and reduce obesity in such children.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 650](https://www.govinfo.gov/link/plaw/97/public/35), formerly § 651, Aug. 13, 1981, [95 Stat. 506](https://www.govinfo.gov/link/statute/95/506); [Pub. L. 98–558, title I, § 108](https://www.govinfo.gov/link/plaw/98/public/558), Oct. 30, 1984, [98 Stat. 2880](https://www.govinfo.gov/link/statute/98/2880); [Pub. L. 101–501, title I](https://www.govinfo.gov/link/plaw/101/public/501), §§ 118, 119, Nov. 3, 1990, [104 Stat. 1234](https://www.govinfo.gov/link/statute/104/1234); [Pub. L. 102–401, § 2(k)(5)](https://www.govinfo.gov/link/plaw/102/public/401), Oct. 7, 1992, [106 Stat. 1959](https://www.govinfo.gov/link/statute/106/1959); renumbered § 650 and amended [Pub. L. 103–252, title I, § 118](https://www.govinfo.gov/link/plaw/103/public/252), May 18, 1994, [108 Stat. 648](https://www.govinfo.gov/link/statute/108/648); [Pub. L. 105–285, title I, § 117](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2727](https://www.govinfo.gov/link/statute/112/2727); [Pub. L. 110–134, § 21](https://www.govinfo.gov/link/plaw/110/public/134), Dec. 12, 2007, [121 Stat. 1441](https://www.govinfo.gov/link/statute/121/1441).)*

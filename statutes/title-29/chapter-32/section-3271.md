@@ -3,9 +3,10 @@ title: "Section 3271 - Purpose"
 usc_title: 29
 usc_section: "3271"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3271"
-generated_at: "2026-03-30T02:55:18.761Z"
+generated_at: "2026-11-23T21:26:02.352Z"
+status: "active"
 ---
 
 # § 3271. Purpose
@@ -22,3 +23,35 @@ It is the purpose of this subchapter to create a partnership among the Federal G
       - **(i)** reading, writing, speaking, and comprehension skills in English; and
       - **(ii)** mathematics skills; and
     - **(B)** acquiring an understanding of the American system of Government, individual freedom, and the responsibilities of citizenship.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+George W. Bush.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 113–128, title II, § 202](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1608](https://www.govinfo.gov/link/statute/128/1608).)*

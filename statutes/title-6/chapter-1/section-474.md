@@ -3,9 +3,10 @@ title: "Section 474 - Homeland security critical domain research and development
 usc_title: 6
 usc_section: "474"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 474"
-generated_at: "2026-03-30T02:53:09.466Z"
+generated_at: "2026-11-23T21:25:25.798Z"
+status: "active"
 ---
 
 # § 474. Homeland security critical domain research and development
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:53:09.466Z"
   - **(1)** The term “United States critical domains for economic security” means the critical infrastructure and other associated industries, technologies, and intellectual property, or any combination thereof, that are essential to the economic security of the United States.
   - **(2)** The term “economic security” means the condition of having secure and resilient domestic production capacity, combined with reliable access to the global resources necessary to maintain an acceptable standard of living and to protect core national values.
 - **(d)** There is authorized to be appropriated $1,000,000 for each of fiscal years 2022 through 2026 to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 890B](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 117–81, div. F, title LXIV, § 6409(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2406](https://www.govinfo.gov/link/statute/135/2406).)*

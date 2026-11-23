@@ -3,9 +3,10 @@ title: "Section 17113a - Low-emissions steel manufacturing research program"
 usc_title: 42
 usc_section: "17113a"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17113a"
-generated_at: "2026-03-30T02:56:11.496Z"
+generated_at: "2026-11-23T21:26:33.765Z"
+status: "active"
 ---
 
 # § 17113a. Low-emissions steel manufacturing research program
@@ -88,3 +89,7 @@ generated_at: "2026-03-30T02:56:11.496Z"
     - **(B)** integrating program activities into a relevant existing Manufacturing USA Institute; or
     - **(C)** establishing a new institute focused on low-emissions steel manufacturing.
   - **(2)** In carrying out this section, the Secretary shall coordinate with other Federal agencies that are carrying out research and development initiatives to increase industrial competitiveness and achieve significant net nonwater greenhouse emissions reductions through low-emissions steel manufacturing, including the Department of Defense, Department of Transportation, and the National Institute of Standards and Technology.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IV, § 454A](https://www.govinfo.gov/link/plaw/110/public/140), as added [Pub. L. 117–167, div. B, title VI, § 10751(a)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1722](https://www.govinfo.gov/link/statute/136/1722).)*

@@ -3,9 +3,10 @@ title: "Section 272a - Technology services"
 usc_title: 15
 usc_section: "272a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 272a"
-generated_at: "2026-03-30T02:54:08.077Z"
+generated_at: "2026-11-23T21:25:39.616Z"
+status: "active"
 ---
 
 # § 272a. Technology services
@@ -16,3 +17,7 @@ In addition to such other technology services and technology extension activitie
   - **(2)** evaluate those inventions from small businesses or individuals which have a significant potential for improving competitiveness;
   - **(3)** provide support for workshops on technical and entrepreneurial topics and share information developed through the Malcolm Baldrige Quality Award Program; and
   - **(4)** work with other Federal agencies to provide technical and related assistance to the States and businesses within the States.
+
+## Source Credit
+
+*([Pub. L. 100–519, title I, § 109](https://www.govinfo.gov/link/plaw/100/public/519), Oct. 24, 1988, [102 Stat. 2591](https://www.govinfo.gov/link/statute/102/2591).)*

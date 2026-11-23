@@ -3,9 +3,10 @@ title: "Section 20252 - Special selection boards; correction of errors"
 usc_title: 10
 usc_section: "20252"
 chapter: 2005
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 20252"
-generated_at: "2026-03-30T02:53:38.281Z"
+generated_at: "2026-11-23T21:25:33.089Z"
+status: "active"
 ---
 
 # § 20252. Special selection boards; correction of errors
@@ -44,3 +45,49 @@ generated_at: "2026-03-30T02:53:38.281Z"
   - **(1)** A court of the United States may review a determination by the Secretary of the Air Force under subsection (a)(1), (b)(1), or (e)(3) not to convene a special selection board. If a court finds the determination to be arbitrary or capricious, not based on substantial evidence, or otherwise contrary to law, it shall remand the case to the Secretary, who shall provide for consideration of the officer or former officer by a special selection board under this section.
   - **(2)** If a court finds that the action of a special selection board which considers an officer or former officer was contrary to law or involved material error of fact or material administrative error, it shall remand the case to the Secretary, who shall provide the officer or former officer reconsideration by a new special selection board.
 - **(j)** The Secretary of the Air Force may designate a promotion board convened under section 20201(a) of this title as a special selection board convened under this section.
+
+Persons Not Considered by Promotion Board Because of Administrative Error.—
+
+Convening of board
+
+Board composition; oath
+
+Record considered by board
+
+Effect
+
+Officers Considered but Not Selected; Material Error.—
+
+Convening of board
+
+Board composition; oath
+
+Record considered by board
+
+Effect
+
+Report of Board
+
+Applicable Provisions
+
+Appointment of Officers Recommended for Promotion.—
+
+Promotion
+
+Status of promoted officer
+
+Correction of military record
+
+Prescribing of Circumstances for Consideration by Board
+
+Convening of Boards
+
+Limitation of Other Jurisdiction
+
+Judicial Review
+
+Designation of Boards
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVII, § 1716(c)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 650](https://www.govinfo.gov/link/statute/137/650), § 20251; renumbered § 20252 and amended [Pub. L. 118–159, div. A, title V, § 521(v)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1883](https://www.govinfo.gov/link/statute/138/1883).)*

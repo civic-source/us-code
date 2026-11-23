@@ -3,9 +3,10 @@ title: "Section 6444 - Report to Congress"
 usc_title: 22
 usc_section: "6444"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6444"
-generated_at: "2026-03-30T02:55:05.429Z"
+generated_at: "2026-11-23T21:25:58.689Z"
+status: "active"
 ---
 
 # § 6444. Report to Congress
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:05.429Z"
   - **(5)** A statement that noneconomic policy options designed to bring about cessation of the particularly severe violations of religious freedom have reasonably been exhausted, including the consultations required in section 6443 of this title .
   - **(6)** A description of multilateral negotiations sought or carried out, if appropriate and applicable.
 - **(b)** If, on or before the date that the President is required (but for this subsection) to submit a report under subsection (a) to Congress, the President determines and certifies to Congress that a single, additional period of time not to exceed 90 days is necessary pursuant to section 6441(b)(3) or 6442(c)(3) of this title, then the President shall not be required to submit the report to Congress until the expiration of that period of time.
+
+## Source Credit
+
+*([Pub. L. 105–292, title IV, § 404](https://www.govinfo.gov/link/plaw/105/public/292), Oct. 27, 1998, [112 Stat. 2805](https://www.govinfo.gov/link/statute/112/2805); [Pub. L. 114–281, title III, § 303](https://www.govinfo.gov/link/plaw/114/public/281), Dec. 16, 2016, [130 Stat. 1435](https://www.govinfo.gov/link/statute/130/1435).)*

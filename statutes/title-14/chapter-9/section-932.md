@@ -3,9 +3,10 @@ title: "Section 932 - Administration of oaths"
 usc_title: 14
 usc_section: "932"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 932"
-generated_at: "2026-03-30T02:53:51.491Z"
+generated_at: "2026-11-23T21:25:35.388Z"
+status: "active"
 ---
 
 # § 932. Administration of oaths
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:51.491Z"
   - **(2)** execution, acknowledgment, and attestation of instruments and papers, and all other notarial acts in time of war or national emergency; and
   - **(3)** execution, acknowledgment, and attestation of instruments and papers, and all other notarial acts in Alaska and places beyond the continental limits of the United States where the Coast Guard is serving.
 - **(b)** No fee of any character shall be charged by any commissioned or warrant officer for performing notarial acts. The signature and indication of grade of any commissioned or warrant officer performing any notarial act shall be prima facie evidence of his authority.
+
+## Source Credit
+
+*(Aug. 4, 1949, ch. 393, [63 Stat. 545](https://www.govinfo.gov/link/statute/63/545), § 636; renumbered § 932, [Pub. L. 115–282, title I, § 107(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4205](https://www.govinfo.gov/link/statute/132/4205).)*

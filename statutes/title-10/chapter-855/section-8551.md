@@ -3,9 +3,10 @@ title: "Section 8551 - Development and operation of the Naval Innovation Center 
 usc_title: 10
 usc_section: "8551"
 chapter: 855
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 8551"
-generated_at: "2026-03-30T02:53:38.245Z"
+generated_at: "2026-11-23T21:25:32.929Z"
+status: "active"
 ---
 
 # § 8551. Development and operation of the Naval Innovation Center at the Naval Postgraduate School
@@ -34,3 +35,17 @@ generated_at: "2026-03-30T02:53:38.245Z"
     - **(A)** is described in section 501(c)(3) of the Internal Revenue Code of 1986 and that is exempt from taxation under section 501(a) of such Code; and
     - **(B)** has as its primary purpose the support and operation of the Naval Postgraduate School.
   - **(3)** The term “partner organization” means an eligible nonprofit organization with which the Secretary of the Navy enters into a contract or other agreement under subsection (a).
+
+Authority to Support the Naval Innovation Center
+
+Funds
+
+Authority to Accept Gifts
+
+Additional Terms and Conditions
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. B, title XXVIII, § 2872](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2281](https://www.govinfo.gov/link/statute/138/2281).)*

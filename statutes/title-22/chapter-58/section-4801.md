@@ -3,9 +3,10 @@ title: "Section 4801 - Findings and purposes"
 usc_title: 22
 usc_section: "4801"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4801"
-generated_at: "2026-03-30T02:55:05.413Z"
+generated_at: "2026-11-23T21:25:58.649Z"
+status: "active"
 ---
 
 # § 4801. Findings and purposes
@@ -21,3 +22,9 @@ generated_at: "2026-03-30T02:55:05.413Z"
   - **(4)** to support a culture of risk management, instead of risk avoidance, that enables the Department of State to pursue its vital goals with full knowledge that it is neither desirable nor possible for the Department to avoid all risks;
   - **(5)** to set forth the responsibility of the Secretary of State with respect to the safe and efficient evacuation of United States Government personnel, their dependents, and private United States citizens when their lives are endangered by war, civil unrest, or natural disaster; and
   - **(6)** to provide authorization of appropriations for the Department of State to carry out its responsibilities in the area of security and counterterrorism, and in particular to finance the acquisition and improvements of United States Government missions abroad, including real property, buildings, facilities, and communications, information, and security systems.
+
+“Congress makes the following findings:
+
+## Source Credit
+
+*([Pub. L. 99–399, title I, § 102](https://www.govinfo.gov/link/plaw/99/public/399), Aug. 27, 1986, [100 Stat. 855](https://www.govinfo.gov/link/statute/100/855); [Pub. L. 101–246, title I, § 115(a)](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 22](https://www.govinfo.gov/link/statute/104/22); [Pub. L. 103–236, title I, § 162(g)(1)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 406](https://www.govinfo.gov/link/statute/108/406); [Pub. L. 117–263, div. I, title XCIII, § 9302(c)(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3883](https://www.govinfo.gov/link/statute/136/3883).)*

@@ -3,9 +3,10 @@ title: "Section 42 - Cooperative efforts to control development and encourage co
 usc_title: 16
 usc_section: "42"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 42"
-generated_at: "2026-03-30T02:54:22.844Z"
+generated_at: "2026-11-23T21:25:51.624Z"
+status: "active"
 ---
 
 # § 460nnn–42. Cooperative efforts to control development and encourage conservation
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:22.844Z"
 - **(b)** The Secretary may enter into a nondevelopment easement or conservation easement with willing landowners to further the purposes of this subchapter.
 - **(c)** The Secretary may provide technical assistance, cost-share payments, incentive payments, and education to a private landowner in the Cooperative Management and Protection Area who enters into a contract with the Secretary to protect or enhance ecological resources on the private land covered by the contract if those protections or enhancements benefit public lands.
 - **(d)** Nothing in this subchapter is intended to affect rights or interests in real property or supersede State law.
+
+## Source Credit
+
+*([Pub. L. 106–399, title I, § 122](https://www.govinfo.gov/link/plaw/106/public/399), Oct. 30, 2000, [114 Stat. 1664](https://www.govinfo.gov/link/statute/114/1664).)*

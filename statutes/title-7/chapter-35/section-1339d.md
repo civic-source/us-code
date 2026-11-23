@@ -3,9 +3,10 @@ title: "Section 1339d - Hay production on set-aside or diverted acreage; storage
 usc_title: 7
 usc_section: "1339d"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1339d"
-generated_at: "2026-03-30T02:53:42.305Z"
+generated_at: "2026-11-23T21:25:28.038Z"
+status: "active"
 ---
 
 # § 1339d. Hay production on set-aside or diverted acreage; storage; emergency use; loans
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:42.305Z"
 - **(c)** When any diverted or set aside acreage has been planted and harvested under authority of this section, the hay harvested therefrom shall be baled and stored in sealed storage on the farm in accordance with such regulations as the Secretary may prescribe and shall be available only for use during periods of emergency declared by the Secretary. In order to avoid deterioration of such hay stored on the farm for emergency purposes pursuant to this section, the Secretary may permit such hay to be removed and used or sold from time to time so long as an amount of hay equal to the amount removed is previously placed in storage and sealed.
 - **(d)** Any farmer who has hay stored on his farm for emergency purposes pursuant to this section may remove such hay from storage and use it whenever the Secretary has (1) designated as an emergency area the area in which such farm is located, and (2) specifically authorized the use of emergency hay by farmers in the area.
 - **(e)** The Secretary of Agriculture is authorized to make or guarantee loans to farmers, both tenants and landowners, to assist such farmers in the construction of storage facilities on the farm for the storage of emergency hay pursuant to the provisions of this section if such farmers are unable to obtain loans from commercial sources at reasonable rates and on reasonable terms and conditions. Loans made by the Secretary under this subsection shall be made at the current rate of interest for periods not exceeding ten years, and on such other terms and conditions as the Secretary may prescribe.
+
+## Source Credit
+
+*([Pub. L. 91–524, title VIII, § 805](https://www.govinfo.gov/link/plaw/91/public/524), Nov. 30, 1970, [84 Stat. 1382](https://www.govinfo.gov/link/statute/84/1382).)*

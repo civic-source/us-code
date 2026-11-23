@@ -3,9 +3,10 @@ title: "Section 300e - Requirements of health maintenance organizations"
 usc_title: 42
 usc_section: "300e"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 300e"
-generated_at: "2026-03-30T02:56:10.793Z"
+generated_at: "2026-11-23T21:26:30.712Z"
+status: "active"
 ---
 
 # § 300e. Requirements of health maintenance organizations
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:56:10.793Z"
     - **(D)** other arrangements, acceptable to the Secretary, to protect members,
   - **(8)** provide, in accordance with regulations of the Secretary (including safeguards concerning the confidentiality of the doctor-patient relationship), and effective procedure for developing, compiling, evaluating, and reporting to the Secretary, statistics and other information (which the Secretary shall publish and disseminate on an annual basis and which the health maintenance organization shall disclose, in a manner acceptable to the Secretary, to its members and the general public) relating to (A) the cost of its operations, (B) the patterns of utilization of its services, (C) the availability, accessibility, and acceptability of its services, (D) to the extent practical, developments in the health status of its members, and (E) such other matters as the Secretary may require.
 - **(d)** An organization that offers health benefits coverage shall not be considered as failing to meet the requirements of this section notwithstanding that it provides, with respect to coverage offered in connection with a group health plan in the small or large group market (as defined in section 300gg–91(e) of this title ), an affiliation period consistent with the provisions of section 2701(g). 1
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XIII, § 1301, as added [Pub. L. 93–222, § 2](https://www.govinfo.gov/link/plaw/93/public/222), Dec. 29, 1973, [87 Stat. 914](https://www.govinfo.gov/link/statute/87/914); amended [Pub. L. 94–460, title I](https://www.govinfo.gov/link/plaw/94/public/460), §§ 101, 102(a), 103, 105(a), Oct. 8, 1976, [90 Stat. 1945–1947](https://www.govinfo.gov/link/statute/90/1945); [Pub. L. 95–559](https://www.govinfo.gov/link/plaw/95/public/559), §§ 9(b), 10, 11(a)–(d), Nov. 1, 1978, [92 Stat. 2137–2139](https://www.govinfo.gov/link/statute/92/2137); [Pub. L. 96–32, § 2(b)](https://www.govinfo.gov/link/plaw/96/public/32), July 10, 1979, [93 Stat. 82](https://www.govinfo.gov/link/statute/93/82); [Pub. L. 97–35, title IX, § 942(a)(1)](https://www.govinfo.gov/link/plaw/97/public/35), (2), (b)–(e), Aug. 13, 1981, [95 Stat. 573](https://www.govinfo.gov/link/statute/95/573), 574; [Pub. L. 100–517](https://www.govinfo.gov/link/plaw/100/public/517), §§ 2–4(a), 5(a)(1), (2), (b), Oct. 24, 1988, [102 Stat. 2578](https://www.govinfo.gov/link/statute/102/2578), 2579; [Pub. L. 104–191, title I](https://www.govinfo.gov/link/plaw/104/public/191), §§ 102(b), 193, Aug. 21, 1996, [110 Stat. 1976](https://www.govinfo.gov/link/statute/110/1976), 1988.)*

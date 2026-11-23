@@ -3,9 +3,10 @@ title: "Section 6273 - Minor construction projects"
 usc_title: 10
 usc_section: "6273"
 chapter: 607
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6273"
-generated_at: "2026-03-30T02:53:38.225Z"
+generated_at: "2026-11-23T21:25:32.825Z"
+status: "active"
 ---
 
 # § 6273. Minor construction projects
@@ -20,3 +21,17 @@ generated_at: "2026-03-30T02:53:38.225Z"
   - **(1)** the Secretary notifies the congressional defense committees of such project and total estimated cost; and
   - **(2)** a period of 15 days has elapsed after the date on which such notification is received.
 - **(e)** In this section, the term “minor construction project” means any plant project not specifically authorized by law for which the approved total estimated cost does not exceed the minor construction threshold.
+
+Authority
+
+Annual Report
+
+Cost Variation Reports to Congressional Committees
+
+Notification Required for Certain Projects
+
+Minor Construction Project Defined
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1426](https://www.govinfo.gov/link/statute/139/1426).)*

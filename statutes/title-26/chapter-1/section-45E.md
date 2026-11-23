@@ -3,9 +3,10 @@ title: "Section 45E - Small employer pension plan startup costs"
 usc_title: 26
 usc_section: "45E"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 45E"
-generated_at: "2026-03-30T02:55:27.601Z"
+generated_at: "2026-11-23T21:26:05.932Z"
+status: "active"
 ---
 
 # § 45E. Small employer pension plan startup costs
@@ -53,3 +54,26 @@ generated_at: "2026-03-30T02:55:27.601Z"
         - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2007” for “calendar year 2016” in subparagraph (A)(ii) thereof.
   - **(3)** For purposes of this section, the applicable percentage for the taxable year during which the eligible employer plan is established with respect to the eligible employer shall be 100 percent, and for taxable years thereafter shall be determined under the following table: In the case of the following taxable year beginning after the taxable year during which plan is established with respect to the eligible employer: The applicable percentage shall be: 1st 100% 2nd 75% 3rd 50% 4th 25% Any taxable year thereafter 0%
   - **(4)** For purposes of this subsection, whether an employer is an eligible employer and the number of employees of an employer shall be determined under the rules of subsection (c), except that paragraph (2) thereof shall only apply to the taxable year during which the eligible employer plan to which this section applies is established with respect to the eligible employer.
+
+| In the case of the following taxable year beginning after the taxable year during which plan is established with respect to the eligible employer: | The applicable percentage shall be: |
+| --- | --- |
+| 1st | 100% |
+| 2nd | 75% |
+| 3rd | 50% |
+| 4th | 25% |
+| Any taxable year thereafter | 0% |
+
+
+1st
+
+2nd
+
+3rd
+
+4th
+
+Any taxable year thereafter
+
+## Source Credit
+
+*(Added [Pub. L. 107–16, title VI, § 619(a)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 108](https://www.govinfo.gov/link/statute/115/108); amended [Pub. L. 107–147, title IV, § 411(n)(1)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 48](https://www.govinfo.gov/link/statute/116/48); [Pub. L. 116–94, div. O, title I, § 104(a)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3147](https://www.govinfo.gov/link/statute/133/3147); [Pub. L. 117–328, div. T, title I](https://www.govinfo.gov/link/plaw/117/public/328), §§ 102(a)–(c), 111(a), Dec. 29, 2022, [136 Stat. 5277](https://www.govinfo.gov/link/statute/136/5277), 5278, 5293.)*

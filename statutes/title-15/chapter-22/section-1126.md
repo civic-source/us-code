@@ -3,9 +3,10 @@ title: "Section 1126 - International conventions"
 usc_title: 15
 usc_section: "1126"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1126"
-generated_at: "2026-03-30T02:54:08.127Z"
+generated_at: "2026-11-23T21:25:39.792Z"
+status: "active"
 ---
 
 # § 1126. International conventions
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:08.127Z"
 - **(g)** Trade names or commercial names of persons described in subsection (b) of this section shall be protected without the obligation of filing or registration whether or not they form parts of marks.
 - **(h)** Any person designated in subsection (b) of this section as entitled to the benefits and subject to the provisions of this chapter shall be entitled to effective protection against unfair competition, and the remedies provided in this chapter for infringement of marks shall be available so far as they may be appropriate in repressing acts of unfair competition.
 - **(i)** Citizens or residents of the United States shall have the same benefits as are granted by this section to persons described in subsection (b) of this section.
+
+## Source Credit
+
+*(July 5, 1946, ch. 540, title IX, § 44, [60 Stat. 441](https://www.govinfo.gov/link/statute/60/441); [Pub. L. 87–333, § 2](https://www.govinfo.gov/link/plaw/87/public/333), Oct. 3, 1961, [75 Stat. 748](https://www.govinfo.gov/link/statute/75/748); [Pub. L. 87–772, § 20](https://www.govinfo.gov/link/plaw/87/public/772), Oct. 9, 1962, [76 Stat. 774](https://www.govinfo.gov/link/statute/76/774); [Pub. L. 100–667, title I, § 133](https://www.govinfo.gov/link/plaw/100/public/667), Nov. 16, 1988, [102 Stat. 3946](https://www.govinfo.gov/link/statute/102/3946); [Pub. L. 105–330, title I, § 108](https://www.govinfo.gov/link/plaw/105/public/330), Oct. 30, 1998, [112 Stat. 3068](https://www.govinfo.gov/link/statute/112/3068); [Pub. L. 106–43, § 6(b)](https://www.govinfo.gov/link/plaw/106/public/43), Aug. 5, 1999, [113 Stat. 220](https://www.govinfo.gov/link/statute/113/220); [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–583; [Pub. L. 107–273, div. C, title III, § 13207(b)(12)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1908](https://www.govinfo.gov/link/statute/116/1908).)*

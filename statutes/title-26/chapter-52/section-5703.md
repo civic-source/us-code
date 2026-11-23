@@ -3,9 +3,10 @@ title: "Section 5703 - Liability for tax and method of payment"
 usc_title: 26
 usc_section: "5703"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5703"
-generated_at: "2026-03-30T02:55:27.825Z"
+generated_at: "2026-11-23T21:26:06.738Z"
+status: "active"
 ---
 
 # § 5703. Liability for tax and method of payment
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:27.825Z"
   - **(3)** Any person who in any 12-month period, ending December 31, was liable for a gross amount equal to or exceeding $5,000,000 in taxes imposed on tobacco products and cigarette papers and tubes by section 5701 (or 7652) shall pay such taxes during the succeeding calendar year by electronic fund transfer (as defined in section 5061(e)(2)) to a Federal Reserve Bank. Rules similar to the rules of section 5061(e)(3) shall apply to the $5,000,000 amount specified in the preceding sentence.
 - **(c)** The Secretary may authorize Federal Reserve banks, and incorporated banks or trust companies which are depositaries or financial agents of the United States, to receive any tax imposed by this chapter, in such manner, at such times, and under such conditions as he may prescribe; and he shall prescribe the manner, time, and condition under which the receipt of such tax by such banks and trust companies is to be treated as payment for tax purposes.
 - **(d)** Whenever any tax required to be paid by this chapter is not paid in full at the time required for such payment, it shall be the duty of the Secretary, subject to the limitations prescribed in section 6501, on proof satisfactory to him, to determine the amount of tax which has been omitted to be paid, and to make an assessment therefor against the person liable for the tax. The tax so assessed shall be in addition to the penalties imposed by law for failure to pay such tax when required. Except in cases where delay may jeopardize collection of the tax, or where the amount is nominal or the result of an evident mathematical error, no such assessment shall be made until and after the person liable for the tax has been afforded reasonable notice and opportunity to show cause, in writing, against such assessment.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 707; [Pub. L. 85–859, title II, § 202](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1417](https://www.govinfo.gov/link/statute/72/1417); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1905(a)(25), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1821](https://www.govinfo.gov/link/statute/90/1821), 1834; [Pub. L. 97–448, title III, § 308(a)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2407](https://www.govinfo.gov/link/statute/96/2407); [Pub. L. 98–369, div. A, title I, § 27(c)(2)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 509](https://www.govinfo.gov/link/statute/98/509); [Pub. L. 99–509, title VIII, § 8011(a)(1)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1951](https://www.govinfo.gov/link/statute/100/1951); [Pub. L. 99–514, title XVIII, § 1801(c)(2)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2786](https://www.govinfo.gov/link/statute/100/2786); [Pub. L. 100–647, title II, § 2003(b)(1)(C)](https://www.govinfo.gov/link/plaw/100/public/647), (D), Nov. 10, 1988, [102 Stat. 3598](https://www.govinfo.gov/link/statute/102/3598); [Pub. L. 103–465, title VII, § 712(c)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 5000](https://www.govinfo.gov/link/statute/108/5000); [Pub. L. 111–3, title VII, § 702(e)(1)](https://www.govinfo.gov/link/plaw/111/public/3), Feb. 4, 2009, [123 Stat. 110](https://www.govinfo.gov/link/statute/123/110).)*

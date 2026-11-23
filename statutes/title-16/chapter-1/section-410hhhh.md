@@ -3,9 +3,10 @@ title: "Section 410hhhh - Establishment of Jimmy Carter National Historic Site 1
 usc_title: 16
 usc_section: "410hhhh"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410hhhh"
-generated_at: "2026-03-30T02:54:22.788Z"
+generated_at: "2026-11-23T21:25:51.497Z"
+status: "active"
 ---
 
 # § 410hhhh. Establishment of Jimmy Carter National Historic Site 1 1 So in original. Probably should be “Historical Park”. See Codification note below.
@@ -30,3 +31,11 @@ generated_at: "2026-03-30T02:54:22.788Z"
   - **(2)** The Carter home (described in subsection (b)(2)(A)) and the Plains High School (referred to in subsection (b)(2)(E)) may only be acquired by donation.
   - **(3)** Former President and Mrs. Carter may, as a condition of the acquisition of the Carter home (described in subsection (b)(2)(A)), reserve for themselves a right of use and occupancy of the home for a term of years or for a term ending at the deaths of President and Mrs. Carter.
   - **(4)** The Administrator of the General Services Administration shall acquire by purchase the Gnann House (described in subsection (b)(2)(F)) to be used for security purposes during the lives of former President and Mrs. Carter, or for such period as they may be entitled to security pursuant to Federal law, after which time the Gnann House shall be transferred to the Secretary of the Interior for administrative purposes by the National Park Service.
+
+In General
+
+References
+
+## Source Credit
+
+*([Pub. L. 100–206, § 1](https://www.govinfo.gov/link/plaw/100/public/206), Dec. 23, 1987, [101 Stat. 1434](https://www.govinfo.gov/link/statute/101/1434); [Pub. L. 105–106, § 1](https://www.govinfo.gov/link/plaw/105/public/106), Nov. 20, 1997, [111 Stat. 2247](https://www.govinfo.gov/link/statute/111/2247); [Pub. L. 116–341, § 2(b)(1)](https://www.govinfo.gov/link/plaw/116/public/341), (4)–(6), Jan. 13, 2021, [134 Stat. 5132](https://www.govinfo.gov/link/statute/134/5132).)*

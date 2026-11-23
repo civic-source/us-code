@@ -3,9 +3,10 @@ title: "Section 9858c - Application and plan"
 usc_title: 42
 usc_section: "9858c"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9858c"
-generated_at: "2026-03-30T02:56:11.373Z"
+generated_at: "2026-11-23T21:26:33.308Z"
+status: "active"
 ---
 
 # § 9858c. Application and plan
@@ -165,3 +166,41 @@ generated_at: "2026-03-30T02:56:11.373Z"
         - **(IV)** the State’s determination that such differentiated payment rates may enable a parent to choose high-quality child care that best fits the parent’s needs.
   - **(5)** The State plan shall provide that the State will establish and periodically revise, by rule, a sliding fee scale that provides for cost sharing (that is not a barrier to families receiving assistance under this subchapter) by the families that receive child care services for which assistance is provided under this subchapter.
 - **(d)** The Secretary shall approve an application that satisfies the requirements of this section.
+
+(aa) different age groups;
+
+(bb) English learners;
+
+(cc) children with disabilities; and
+
+(dd) Native Americans, including Indians, as the term is defined in section 5304 of title 25 (including Alaska Natives within the meaning of that term), and Native Hawaiians (as defined in section 7517 of title 20 ).
+
+(aa) not less than 1 prelicensure inspection, for compliance with health, safety, and fire standards, of each such child care provider and facility in the State; and
+
+(bb) not less than annually, an inspection (which shall be unannounced) of each such child care provider and facility in the State for compliance with all child care licensing standards, which shall include an inspection for compliance with health, safety, and fire standards (inspectors may inspect for compliance with all 3 standards at the same time);
+
+(aa) inform the State that the State has until the date that is 6 months after the Secretary has issued such report to fully comply with clause (i);
+
+(bb) provide the State an opportunity to modify the State plan of such State, to make the plan consistent with the requirements of clause (i), and resubmit such State plan to the Secretary not later than the date described in item (aa); and
+
+(cc) if the State does not fully comply with clause (i) and item (bb), by the date described in item (aa), withhold 5 percent of the funds that would otherwise be allocated to that State in accordance with this subchapter for the first full fiscal year after that date.
+
+(aa) provide parents in the State with consumer education information referred to in paragraph (2)(E) (except as otherwise provided in that paragraph), concerning the full range of child care options (including faith-based and community-based child care providers), analyzed by provider, including child care provided during nontraditional hours and through emergency child care centers, in their political subdivisions or regions;
+
+(bb) to the extent practicable, work directly with families who receive assistance under this subchapter to offer the families support and assistance, using information described in item (aa), to make an informed decision about which child care providers they will use, in an effort to ensure that the families are enrolling their children in the most appropriate child care setting to suit their needs and one that is of high quality (as determined by the State);
+
+(cc) collect data and provide information on the coordination of services and supports, including services under section 619 and part C of the Individuals with Disabilities Education Act [ 20 U.S.C. 1419 , 1431 et seq.], for children with disabilities (as defined in section 602 of such Act ( 20 U.S.C. 1401 ));
+
+(dd) collect data and provide information on the supply of and demand for child care services in political subdivisions or regions within the State and submit such information to the State;
+
+(ee) work to establish partnerships with public agencies and private entities, including faith-based and community-based child care providers, to increase the supply and quality of child care services in the State; and
+
+(ff) as appropriate, coordinate their activities with the activities of the State lead agency and local agencies that administer funds made available in accordance with this subchapter.
+
+In general
+
+Construction
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 658E](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 101–508, title V, § 5082(2)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–237](https://www.govinfo.gov/link/statute/104/1388); amended [Pub. L. 102–401, § 3(a)](https://www.govinfo.gov/link/plaw/102/public/401), Oct. 7, 1992, [106 Stat. 1959](https://www.govinfo.gov/link/statute/106/1959); [Pub. L. 102–586, § 8(c)(1)](https://www.govinfo.gov/link/plaw/102/public/586), Nov. 4, 1992, [106 Stat. 5036](https://www.govinfo.gov/link/statute/106/5036); [Pub. L. 104–193, title VI, § 605](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2281](https://www.govinfo.gov/link/statute/110/2281); [Pub. L. 105–33, title V, § 5602(1)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 645](https://www.govinfo.gov/link/statute/111/645); [Pub. L. 113–186, § 5(a)](https://www.govinfo.gov/link/plaw/113/public/186), (b), Nov. 19, 2014, [128 Stat. 1972](https://www.govinfo.gov/link/statute/128/1972); [Pub. L. 114–95, title IX, § 9215(p)(1)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2170](https://www.govinfo.gov/link/statute/129/2170).)*

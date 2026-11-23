@@ -3,9 +3,10 @@ title: "Section 1615 - Burden of proof in forfeiture proceedings"
 usc_title: 19
 usc_section: "1615"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1615"
-generated_at: "2026-03-30T02:54:24.647Z"
+generated_at: "2026-11-23T21:25:42.734Z"
+status: "active"
 ---
 
 # § 1615. Burden of proof in forfeiture proceedings
@@ -15,3 +16,7 @@ In all suits or actions (other than those arising under section 1592 of this tit
   - **(1)** The testimony or deposition of the officer of the customs who has boarded or required to come to a stop or seized a vessel, vehicle, or aircraft, or has arrested a person, shall be prima facie evidence of the place where the act in question occurred.
   - **(2)** Marks, labels, brands, or stamps, indicative of foreign origin, upon or accompanying mechandise 1 1 So in original. Probably should be “merchandise”. or containers of merchandise, shall be prima facie evidence of the foreign origin of such merchandise.
   - **(3)** The fact that a vessel of any description is found, or discovered to have been, in the vicinity of any hovering vessel and under any circumstances indicating contact or communication therewith, whether by proceeding to or from such vessel, or by coming to in the vicinity of such vessel, or by delivering to or receiving from such vessel any merchandise, person, or communication, or by any other means effecting contact or communication therewith, shall be prima facie evidence that the vessel in question has visited such hovering vessel.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 615, [46 Stat. 757](https://www.govinfo.gov/link/statute/46/757); Aug. 5, 1935, ch. 438, title II, § 207, [49 Stat. 525](https://www.govinfo.gov/link/statute/49/525); [Pub. L. 95–410, title I, § 110(d)](https://www.govinfo.gov/link/plaw/95/public/410), Oct. 3, 1978, [92 Stat. 896](https://www.govinfo.gov/link/statute/92/896); [Pub. L. 98–473, title II, § 321](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2056](https://www.govinfo.gov/link/statute/98/2056); [Pub. L. 98–573, title II, § 213(a)(13)](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 2987](https://www.govinfo.gov/link/statute/98/2987).)*

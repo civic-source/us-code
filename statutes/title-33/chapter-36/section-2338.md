@@ -3,9 +3,10 @@ title: "Section 2338 - Reburial and conveyance authority"
 usc_title: 33
 usc_section: "2338"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2338"
-generated_at: "2026-03-30T02:55:41.126Z"
+generated_at: "2026-11-23T21:26:11.451Z"
+status: "active"
 ---
 
 # § 2338. Reburial and conveyance authority
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:41.126Z"
 - **(c)**
   - **(1)** Subject to paragraph (2), notwithstanding any other provision of law, the Secretary may convey to an Indian tribe for use as a cemetery an area at a civil works project that is identified and set aside by the Secretary under subsection (b)(1).
   - **(2)** In carrying out paragraph (1), the Secretary shall retain any necessary right-of-way, easement, or other property interest that the Secretary determines to be necessary to carry out the authorized purposes of the project.
+
+## Source Credit
+
+*([Pub. L. 106–541, title II, § 208](https://www.govinfo.gov/link/plaw/106/public/541), Dec. 11, 2000, [114 Stat. 2590](https://www.govinfo.gov/link/statute/114/2590).)*

@@ -3,9 +3,10 @@ title: "Section 50103 - Contract preference for domestic firms"
 usc_title: 49
 usc_section: "50103"
 chapter: 501
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 50103"
-generated_at: "2026-03-30T02:56:19.409Z"
+generated_at: "2026-11-23T21:26:41.008Z"
+status: "active"
 ---
 
 # § 50103. Contract preference for domestic firms
@@ -28,3 +29,44 @@ generated_at: "2026-03-30T02:56:19.409Z"
   - **(1)** contracts to which this section applies that are made with foreign firms in the fiscal years ending September 30, 1991 , and September 30, 1992 ;
   - **(2)** the number of contracts that meet the requirements of subsection (b) of this section, but that the Trade Representative decides would violate the multilateral trade agreements (as defined in section 3501(4) of title 19 ) or an international agreement to which the United States is a party; and
   - **(3)** the number of contracts made under this section.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 49103(a) | 49 App.:2226d(e). | Nov. 5, 1990 , Pub. L. 101–508, § 9207 , 104 Stat. 1388–375 . |
+| 49103(b) | 49 App.:2226d(a). |  |
+| 49103(c) | 49 App.:2226d(b). |  |
+| 49103(d) | 49 App.:2226d(c). |  |
+| 49103(e) | 49 App.:2226d(d). |  |
+
+
+Definitions
+
+Preference
+
+Nonapplication
+
+Application to Certain Grants
+
+Report
+
+Historical and Revision Notes
+
+49103(a)
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 9207
+
+104 Stat. 1388–375
+
+49103(b)
+
+49103(c)
+
+49103(d)
+
+49103(e)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1298](https://www.govinfo.gov/link/statute/108/1298), § 49103; renumbered § 50103, [Pub. L. 104–287, § 5(88)(D)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3398](https://www.govinfo.gov/link/statute/110/3398); amended [Pub. L. 106–36, title I, § 1002(i)](https://www.govinfo.gov/link/plaw/106/public/36), June 25, 1999, [113 Stat. 134](https://www.govinfo.gov/link/statute/113/134).)*

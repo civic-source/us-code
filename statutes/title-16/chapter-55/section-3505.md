@@ -3,9 +3,10 @@ title: "Section 3505 - Exceptions to limitations on expenditures"
 usc_title: 16
 usc_section: "3505"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3505"
-generated_at: "2026-03-30T02:54:23.017Z"
+generated_at: "2026-11-23T21:25:51.977Z"
+status: "active"
 ---
 
 # § 3505. Exceptions to limitations on expenditures
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:54:23.017Z"
     - **(B)** In this subsection, the term “insurable structure” means an insurable structure that is—
       - **(i)** located within an addition described in paragraph (1); and
       - **(ii)** in existence before the expiration of the applicable 1-year period described in paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 97–348, § 6](https://www.govinfo.gov/link/plaw/97/public/348), Oct. 18, 1982, [96 Stat. 1656](https://www.govinfo.gov/link/statute/96/1656); [Pub. L. 100–707, title I, § 109(h)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4709](https://www.govinfo.gov/link/statute/102/4709); [Pub. L. 101–591, § 5(a)](https://www.govinfo.gov/link/plaw/101/public/591), Nov. 16, 1990, [104 Stat. 2934](https://www.govinfo.gov/link/statute/104/2934); [Pub. L. 113–287, § 5(d)(34)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3267](https://www.govinfo.gov/link/statute/128/3267); [Pub. L. 118–117, title I, § 104](https://www.govinfo.gov/link/plaw/118/public/117), Nov. 25, 2024, [138 Stat. 1610](https://www.govinfo.gov/link/statute/138/1610).)*

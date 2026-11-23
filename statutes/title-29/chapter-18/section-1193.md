@@ -3,9 +3,10 @@ title: "Section 1193 - Pension-linked emergency savings accounts"
 usc_title: 29
 usc_section: "1193"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1193"
-generated_at: "2026-03-30T02:55:18.727Z"
+generated_at: "2026-11-23T21:26:02.279Z"
+status: "active"
 ---
 
 # § 1193. Pension-linked emergency savings accounts
@@ -83,3 +84,11 @@ generated_at: "2026-03-30T02:55:18.727Z"
     - **(A)** may employ reasonable procedures to limit the frequency or amount of matching contributions with respect to contributions to such account, solely to the extent necessary to prevent manipulation of the rules of the plan to cause matching contributions to exceed the intended amounts or frequency; and
     - **(B)** shall not be required to suspend matching contributions following any participant withdrawal of contributions, including elective deferrals and employee contributions, whether or not matched and whether or not made pursuant to an automatic contribution arrangement described in section 402A(e)(4) of title 26 .
   - **(2)** The Secretary of the Treasury, in consultation with the Secretary of Labor, shall issue regulations or other guidance not later than 12 months after December 29, 2022 , with respect to the anti-abuse rules described in paragraph (1).
+
+(aa) maintain over the term of the investment, the dollar value that is equal to the amount invested in the product; and
+
+(bb) preserve principal and provide a reasonable rate of return, whether or not such return is guaranteed, consistent with the need for liquidity; and
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 801](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 117–328, div. T, title I, § 127(b)(1)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5318](https://www.govinfo.gov/link/statute/136/5318).)*

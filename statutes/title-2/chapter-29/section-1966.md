@@ -3,9 +3,10 @@ title: "Section 1966 - Protection of Members of Congress, officers of Congress, 
 usc_title: 2
 usc_section: "1966"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1966"
-generated_at: "2026-03-30T02:53:04.821Z"
+generated_at: "2026-11-23T21:25:21.264Z"
+status: "active"
 ---
 
 # § 1966. Protection of Members of Congress, officers of Congress, and members of their families
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:04.821Z"
 - **(d)** Whoever knowingly and willfully obstructs, resists, or interferes with a member of the Capitol Police engaged in the performance of the protective functions authorized by this section, shall be fined not more than $300 or imprisoned not more than one year, or both.
 - **(e)** Nothing contained in this section shall be construed to imply that the authority, duty, and function conferred on the Capitol Police Board and the United States Capitol Police are in lieu of or intended to supersede any authority, duty, or function imposed on any Federal department, agency, bureau, or other entity, or the Metropolitan Police of the District of Columbia, involving the protection of any such Member, officer, or family member.
 - **(f)** As used in this section, the term “United States” means each of the several States of the United States, the District of Columbia, and territories and possessions of the United States.
+
+## Source Credit
+
+*(July 31, 1946, ch. 707, § 9A, as added [Pub. L. 97–143, § 1(a)](https://www.govinfo.gov/link/plaw/97/public/143), Dec. 29, 1981, [95 Stat. 1723](https://www.govinfo.gov/link/statute/95/1723).)*

@@ -3,9 +3,10 @@ title: "Section 7936 - Payments in lieu of loan deficiency payments for grazed a
 usc_title: 7
 usc_section: "7936"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7936"
-generated_at: "2026-03-30T02:53:42.466Z"
+generated_at: "2026-11-23T21:25:28.456Z"
+status: "active"
 ---
 
 # § 7936. Payments in lieu of loan deficiency payments for grazed acreage
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:42.466Z"
   - **(1)** A payment under this section shall be made at the same time and in the same manner as loan deficiency payments are made under section 7935 of this title .
   - **(2)** The Secretary shall establish an availability period for the payments authorized by this section. In the case of wheat, barley, and oats, the availability period shall be consistent with the availability period for the commodity established by the Secretary for marketing assistance loans authorized by this subchapter.
 - **(d)** A 2002 through 2007 crop of wheat, barley, oats, or triticale planted on acreage that a producer elects, in the agreement required by subsection (a), to use for the grazing of livestock in lieu of any other harvesting of the crop shall not be eligible for an indemnity under the Federal Crop Insurance Act ( 7 U.S.C. 1501 et seq.) or noninsured crop assistance under section 7333 of this title .
+
+## Source Credit
+
+*([Pub. L. 107–171, title I, § 1206](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 159](https://www.govinfo.gov/link/statute/116/159).)*

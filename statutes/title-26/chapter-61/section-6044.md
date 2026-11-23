@@ -3,9 +3,10 @@ title: "Section 6044 - Returns regarding payments of patronage dividends"
 usc_title: 26
 usc_section: "6044"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6044"
-generated_at: "2026-03-30T02:55:27.832Z"
+generated_at: "2026-11-23T21:26:06.771Z"
+status: "active"
 ---
 
 # § 6044. Returns regarding payments of patronage dividends
@@ -30,3 +31,15 @@ generated_at: "2026-03-30T02:55:27.832Z"
 - **(e)** Every cooperative required to make a return under subsection (a) shall furnish to each person whose name is required to be set forth in such return a written statement showing—
   - **(1)** the name, address, and phone number of the information contact of the cooperative required to make such return, and
   - **(2)** the aggregate amount of payments to the person required to be shown on the return.
+
+Payments of
+
+or More
+
+Payments Regardless of Amount
+
+Exceptions
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 746; [Pub. L. 87–834, § 19(b)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 1054](https://www.govinfo.gov/link/statute/76/1054); [Pub. L. 89–809, title II, § 211(d)](https://www.govinfo.gov/link/plaw/89/public/809), Nov. 13, 1966, [80 Stat. 1584](https://www.govinfo.gov/link/statute/80/1584); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 97–248, title III](https://www.govinfo.gov/link/plaw/97/public/248), §§ 304, 308(a), Sept. 3, 1982, [96 Stat. 587](https://www.govinfo.gov/link/statute/96/587), 591; [Pub. L. 98–67, title I](https://www.govinfo.gov/link/plaw/98/public/67), §§ 102(a), 108(c), Aug. 5, 1983, [97 Stat. 369](https://www.govinfo.gov/link/statute/97/369), 383; [Pub. L. 99–514, title XV, § 1501(c)(3)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2737](https://www.govinfo.gov/link/statute/100/2737); [Pub. L. 104–168, title XII, § 1201(a)(4)](https://www.govinfo.gov/link/plaw/104/public/168), July 30, 1996, [110 Stat. 1469](https://www.govinfo.gov/link/statute/110/1469).)*

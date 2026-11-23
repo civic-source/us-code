@@ -3,9 +3,10 @@ title: "Section 384 - Importation of prescription drugs"
 usc_title: 21
 usc_section: "384"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 384"
-generated_at: "2026-03-30T02:54:54.278Z"
+generated_at: "2026-11-23T21:25:56.173Z"
+status: "active"
 ---
 
 # § 384. Importation of prescription drugs
@@ -101,3 +102,23 @@ generated_at: "2026-03-30T02:54:54.278Z"
         - **(I)** compares in specific terms the detriment identified under clause (i) with the benefits identified under clause (ii); and
         - **(II)** determines that the benefits do not outweigh the detriment.
 - **(m)** There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+(aa) In the case of an initial imported shipment, documentation demonstrating that each batch of the prescription drug in the shipment was statistically sampled and tested for authenticity and degradation.
+
+(bb) In the case of any subsequent shipment, documentation demonstrating that a statistically valid sample of the shipment was tested for authenticity and degradation.
+
+(aa) considers whether any measures can be taken to avoid, reduce, or mitigate the increased risk; and
+
+(bb) if the Secretary determines that any measures described in item (aa) would require additional statutory authority, submits to Congress a report describing the legislation that would be required;
+
+Section
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 804, as added [Pub. L. 108–173, title XI, § 1121(a)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2464](https://www.govinfo.gov/link/statute/117/2464); amended [Pub. L. 114–125, title VIII, § 802(d)(2)](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 210](https://www.govinfo.gov/link/statute/130/210).)*

@@ -3,9 +3,10 @@ title: "Section 6371d - Applications for financial assistance"
 usc_title: 42
 usc_section: "6371d"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6371d"
-generated_at: "2026-03-30T02:56:11.258Z"
+generated_at: "2026-11-23T21:26:32.944Z"
+status: "active"
 ---
 
 # § 6371d. Applications for financial assistance
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.258Z"
     - **(B)** State health plans under section 300m–3(c)(2) 1 1 See References in Text note below. and 300 o –2 1 of this title, and shall be coordinated through the review mechanisms required under section 300m–2 1 of this title and section 1320a–1 of this title .
 - **(d)** The Secretary shall approve such applications submitted by a State energy agency as he determines to be in compliance with this section and with the requirements of the applicable State plan approved under section 6371c of this title . The Secretary shall state the reasons for his disapproval in the case of any application which he disapproves. Any application not approved by the Secretary may be resubmitted by the applicant at any time in the same manner as the original application and the Secretary shall approve such resubmitted application as he determines to be in compliance with this section and the requirements of the State plan. Amendments of an application shall, except as the Secretary may otherwise provide, be subject to approval in the same manner as the original application. All or any portion of an application under this section may be disapproved to the extent that funds are not available under this part to carry out such application or portion.
 - **(e)** Whenever the Secretary, after reasonable notice and opportunity for hearing to any State, school, or hospital receiving assistance under this part, finds that there has been a failure to comply substantially with the provisions set forth in the application approved under this section, the Secretary shall notify the State, school, or hospital that further assistance will not be made available to such State, school or hospital under this part until he is satisfied that there is no longer any such failure to comply. Until he is so satisfied no further assistance shall be made to such State, school, or hospital under this part.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 395](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 95–619, title III, § 302(a)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3244](https://www.govinfo.gov/link/statute/92/3244).)*

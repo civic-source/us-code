@@ -3,9 +3,10 @@ title: "Section 9302 - Statement of policy objectives; sense of Congress"
 usc_title: 22
 usc_section: "9302"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9302"
-generated_at: "2026-03-30T02:55:05.465Z"
+generated_at: "2026-11-23T21:25:58.770Z"
+status: "active"
 ---
 
 # § 9302. Statement of policy objectives; sense of Congress
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:05.465Z"
   - **(1)** coordinate, through a whole-of-government approach, the efforts of relevant Federal departments and agencies to implement the Global Food Security Strategy;
   - **(2)** seek to fully utilize the unique capabilities of each relevant Federal department and agency while collaborating with and leveraging the contributions of other key stakeholders; and
   - **(3)** utilize open and streamlined solicitations to allow for the participation of a wide range of implementing partners through the most appropriate procurement mechanisms, which may include grants, contracts, cooperative agreements, and other instruments as necessary and appropriate.
+
+## Source Credit
+
+*([Pub. L. 114–195, § 3](https://www.govinfo.gov/link/plaw/114/public/195), July 20, 2016, [130 Stat. 676](https://www.govinfo.gov/link/statute/130/676); [Pub. L. 117–263, div. E, title LV, § 5588(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3375](https://www.govinfo.gov/link/statute/136/3375).)*

@@ -3,12 +3,17 @@ title: "Section 1474a - Security for direct or insured rural housing loans to fa
 usc_title: 42
 usc_section: "1474a"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1474a"
-generated_at: "2026-03-30T02:56:11.095Z"
+generated_at: "2026-11-23T21:26:32.053Z"
+status: "active"
 ---
 
 # § 1474a. Security for direct or insured rural housing loans to farmer applicants
 
 On and after August 8, 1968 , farmer applicants for direct or insured rural housing loans shall be required to provide only such collateral security as is required of owners of nonfarm tracts.
 
+
+## Source Credit
+
+*([Pub. L. 90–463, title II, § 201](https://www.govinfo.gov/link/plaw/90/public/463), Aug. 8, 1968, [82 Stat. 651](https://www.govinfo.gov/link/statute/82/651).)*

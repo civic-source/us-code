@@ -3,9 +3,10 @@ title: "Section 6295 - Energy conservation standards"
 usc_title: 42
 usc_section: "6295"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6295"
-generated_at: "2026-03-30T02:56:11.247Z"
+generated_at: "2026-11-23T21:26:32.873Z"
+status: "active"
 ---
 
 # § 6295. Energy conservation standards
@@ -14,7 +15,23 @@ generated_at: "2026-03-30T02:56:11.247Z"
   - **(1)** provide Federal energy conservation standards applicable to covered products; and
   - **(2)** authorize the Secretary to prescribe amended or new energy conservation standards for each type (or class) of covered product.
 - **(b)**
-  - **(1)** The following is the maximum energy use allowed in kilowatt hours per year for the following products (other than those described in paragraph (2)) manufactured on or after January 1, 1990 : Energy Standards Equations Refrigerators and Refrigerator-Freezers with manual defrost 16.3 AV+316 Refrigerator-Freezers—partial automatic defrost 21.8 AV+429 Refrigerator-Freezers—automatic defrost with: Top mounted freezer without ice 23.5 AV+471 Side mounted freezer without ice 27.7 AV+488 Bottom mounted freezer without ice 27.7 AV+488 Top mounted freezer with through the door ice service 26.4 AV+535 Side mounted freezer with through the door ice 30.9 AV+547 Upright Freezers with: Manual defrost 10.9 AV+422 Automatic defrost 16.0 AV+623 Chest Freezers and all other freezers 14.8 AV+223
+  - **(1)** The following is the maximum energy use allowed in kilowatt hours per year for the following products (other than those described in paragraph (2)) manufactured on or after January 1, 1990 :
+
+|  | Energy Standards Equations |
+| --- | --- |
+| Refrigerators and Refrigerator-Freezers with manual defrost | 16.3 AV+316 |
+| Refrigerator-Freezers—partial automatic defrost | 21.8 AV+429 |
+| Refrigerator-Freezers—automatic defrost with: |  |
+| Top mounted freezer without ice | 23.5 AV+471 |
+| Side mounted freezer without ice | 27.7 AV+488 |
+| Bottom mounted freezer without ice | 27.7 AV+488 |
+| Top mounted freezer with through the door ice service | 26.4 AV+535 |
+| Side mounted freezer with through the door ice | 30.9 AV+547 |
+| Upright Freezers with: |  |
+| Manual defrost | 10.9 AV+422 |
+| Automatic defrost | 16.0 AV+623 |
+| Chest Freezers and all other freezers | 14.8 AV+223 |
+
   - **(2)** The standards described in paragraph (1) do not apply to refrigerators and refrigerator-freezers with total refrigerated volume exceeding 39 cubic feet or freezers with total refrigerated volume exceeding 30 cubic feet.
   - **(3)**
     - **(A)**
@@ -30,7 +47,25 @@ generated_at: "2026-03-30T02:56:11.247Z"
     - **(A)** Not later than December 31, 2010 , the Secretary shall publish a final rule determining whether to amend the standards in effect for refrigerators, refrigerator-freezers, and freezers manufactured on or after January 1, 2014 .
     - **(B)** The final rule shall contain any amended standards.
 - **(c)**
-  - **(1)** The energy efficiency ratio of room air conditioners shall be not less than the following for products manufactured on or after January 1, 1990 : Product Class: Ratio Without Reverse Cycle and With Louvered Sides: Less than 6,000 Btu 8.0 6,000 to 7,999 Btu 8.5 8,000 to 13,999 Btu 9.0 14,000 to 19,999 Btu 8.8 20,000 and more Btu 8.2 Without Reverse Cycle and Without Louvered Sides: Less than 6,000 Btu 8.0 6,000 to 7,999 Btu 8.5 8,000 to 13,999 Btu 8.5 14,000 to 19,999 Btu 8.5 20,000 and more Btu 8.2 With Reverse Cycle and With Louvered Sides 8.5 With Reverse Cycle, Without Louvered Sides 8.0
+  - **(1)** The energy efficiency ratio of room air conditioners shall be not less than the following for products manufactured on or after January 1, 1990 :
+
+| Product Class: | Ratio |
+| --- | --- |
+| Without Reverse Cycle and With Louvered Sides: |  |
+| Less than 6,000 Btu | 8.0 |
+| 6,000 to 7,999 Btu | 8.5 |
+| 8,000 to 13,999 Btu | 9.0 |
+| 14,000 to 19,999 Btu | 8.8 |
+| 20,000 and more Btu | 8.2 |
+| Without Reverse Cycle and Without Louvered Sides: |  |
+| Less than 6,000 Btu | 8.0 |
+| 6,000 to 7,999 Btu | 8.5 |
+| 8,000 to 13,999 Btu | 8.5 |
+| 14,000 to 19,999 Btu | 8.5 |
+| 20,000 and more Btu | 8.2 |
+| With Reverse Cycle and With Louvered Sides | 8.5 |
+| With Reverse Cycle, Without Louvered Sides | 8.0 |
+
   - **(2)**
     - **(A)** The Secretary shall publish a final rule no later than January 1, 1992 , to determine if the standards established under paragraph (1) should be amended. Such rule shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after January 1, 1995 .
     - **(B)** After January 1, 1992 , the Secretary shall publish a final rule no later than five years after the date of publication of a previous final rule. The Secretary shall determine in such rule whether to amend the standards in effect for room air conditioners.
@@ -68,9 +103,41 @@ generated_at: "2026-03-30T02:56:11.247Z"
         - **(II)** 7.2 for products manufactured on or after January 1, 2015 .
     - **(C)** The Secretary shall conduct subsequent rulemakings for through-the-wall central air conditioners, through-the-wall central air conditioning heat pumps, and small duct, high velocity systems as part of any rulemaking under this section used to review or revise standards for other central air conditioners and heat pumps.
 - **(e)**
-  - **(1)** The energy factor of water heaters shall be not less than the following for products manufactured on or after January 1, 1990 : (A) Gas Water Heater: .62−(.0019 x Rated Storage Volume in gallons) (B) Oil Water Heater: .59−(.0019 x Rated Storage Volume in gallons) (C) Electric Water Heater: .95−(.00132 x Rated Storage Volume in gallons)
+  - **(1)** The energy factor of water heaters shall be not less than the following for products manufactured on or after January 1, 1990 :
+
+|  | Col 2 |
+| --- | --- |
+| (A) Gas Water Heater: | .62−(.0019 x Rated Storage Volume in gallons) |
+| (B) Oil Water Heater: | .59−(.0019 x Rated Storage Volume in gallons) |
+| (C) Electric Water Heater: | .95−(.00132 x Rated Storage Volume in gallons) |
+
   - **(2)** The thermal efficiency of pool heaters manufactured on or after January 1, 1990 , shall not be less than 78 percent.
-  - **(3)** The efficiencies of gas direct heating equipment manufactured on or after January 1, 1990 , shall be not less than the following: Wall Fan type Up to 42,000 Btu/hour 73% AFUE Over 42,000 Btu/hour 74% AFUE Gravity type Up to 10,000 Btu/hour 59% AFUE Over 10,000 Btu/hour up to 12,000 Btu/hour 60% AFUE Over 12,000 Btu/hour up to 15,000 Btu/hour 61% AFUE Over 15,000 Btu/hour up to 19,000 Btu/hour 62% AFUE Over 19,000 Btu/hour up to 27,000 Btu/hour 63% AFUE Over 27,000 Btu/hour up to 46,000 Btu/hour 64% AFUE Over 46,000 Btu/hour 65% AFUE Floor Up to 37,000 Btu/hour 56% AFUE Over 37,000 Btu/hour 57% AFUE Room Up to 18,000 Btu/hour 57% AFUE Over 18,000 Btu/hour up to 20,000 Btu/hour 58% AFUE Over 20,000 Btu/hour up to 27,000 Btu/hour 63% AFUE Over 27,000 Btu/hour up to 46,000 Btu/hour 64% AFUE Over 46,000 Btu/hour 65% AFUE
+  - **(3)** The efficiencies of gas direct heating equipment manufactured on or after January 1, 1990 , shall be not less than the following:
+
+|  | Col 2 |
+| --- | --- |
+| Wall |  |
+| Fan type |  |
+| Up to 42,000 Btu/hour | 73% AFUE |
+| Over 42,000 Btu/hour | 74% AFUE |
+| Gravity type |  |
+| Up to 10,000 Btu/hour | 59% AFUE |
+| Over 10,000 Btu/hour up to 12,000 Btu/hour | 60% AFUE |
+| Over 12,000 Btu/hour up to 15,000 Btu/hour | 61% AFUE |
+| Over 15,000 Btu/hour up to 19,000 Btu/hour | 62% AFUE |
+| Over 19,000 Btu/hour up to 27,000 Btu/hour | 63% AFUE |
+| Over 27,000 Btu/hour up to 46,000 Btu/hour | 64% AFUE |
+| Over 46,000 Btu/hour | 65% AFUE |
+| Floor |  |
+| Up to 37,000 Btu/hour | 56% AFUE |
+| Over 37,000 Btu/hour | 57% AFUE |
+| Room |  |
+| Up to 18,000 Btu/hour | 57% AFUE |
+| Over 18,000 Btu/hour up to 20,000 Btu/hour | 58% AFUE |
+| Over 20,000 Btu/hour up to 27,000 Btu/hour | 63% AFUE |
+| Over 27,000 Btu/hour up to 46,000 Btu/hour | 64% AFUE |
+| Over 46,000 Btu/hour | 65% AFUE |
+
   - **(4)**
     - **(A)** The Secretary shall publish final rules no later than January 1, 1992 , to determine whether the standards established by paragraph (1), (2), or (3) for water heaters, pool heaters, and direct heating equipment should be amended. Such rule shall provide that any amendment shall apply to products manufactured on or after January 1, 1995 .
     - **(B)** The Secretary shall publish a final rule no later than January 1, 2000 , to determine whether standards in effect for such products should be amended. Such rule shall provide that any such amendment shall apply to products manufactured on or after January 1, 2005 .
@@ -143,7 +210,17 @@ generated_at: "2026-03-30T02:56:11.247Z"
       - **(iii)** which the Secretary determines is not likely to result in a significant shift from gas heating to electric resistance heating with respect to either residential construction or furnace replacement.
   - **(2)** Furnaces which are designed solely for installation in mobile homes and which are manufactured on or after September 1, 1990 , shall have an annual fuel utilization efficiency of not less than 75 percent.
   - **(3)**
-    - **(A)** Subject to subparagraphs (B) and (C), boilers manufactured on or after September 1, 2012 , shall meet the following requirements: Boiler Type Minimum Annual Fuel Utilization Efficiency Design Requirements Gas Hot Water 82% No Constant Burning Pilot, Automatic Means for Adjusting Water Temperature Gas Steam 80% No Constant Burning Pilot Oil Hot Water 84% Automatic Means for Adjusting Temperature Oil Steam 82% None Electric Hot Water None Automatic Means for Adjusting Temperature Electric Steam None None
+    - **(A)** Subject to subparagraphs (B) and (C), boilers manufactured on or after September 1, 2012 , shall meet the following requirements:
+
+| Boiler Type | Minimum Annual Fuel Utilization Efficiency | Design Requirements |
+| --- | --- | --- |
+| Gas Hot Water | 82% | No Constant Burning Pilot, Automatic Means for Adjusting Water Temperature |
+| Gas Steam | 80% | No Constant Burning Pilot |
+| Oil Hot Water | 84% | Automatic Means for Adjusting Temperature |
+| Oil Steam | 82% | None |
+| Electric Hot Water | None | Automatic Means for Adjusting Temperature |
+| Electric Steam | None | None |
+
     - **(B)**
       - **(i)** The manufacturer shall equip each gas, oil, and electric hot water boiler (other than a boiler equipped with a tankless domestic water heating coil) with automatic means for adjusting the temperature of the water supplied by the boiler to ensure that an incremental change in inferred heat load produces a corresponding incremental change in the temperature of water supplied.
       - **(ii)** For a boiler that fires at 1 input rate, the requirements of this subparagraph may be satisfied by providing an automatic means that allows the burner or heating element to fire only when the means has determined that the inferred heat load cannot be met by the residual heat of the water in the system.
@@ -218,7 +295,29 @@ generated_at: "2026-03-30T02:56:11.247Z"
 - **(i)**
   - **(1)**
     - **(A)** In this paragraph (other than subparagraph (D)), the term “effective date” means, with respect to each type of lamp specified in a table contained in subparagraph (B), the last day of the period of months corresponding to that type of lamp (as specified in the table) that follows October 24, 1992 .
-    - **(B)** Each of the following general service fluorescent lamps and incandescent reflector lamps manufactured after the effective date specified in the tables contained in this paragraph shall meet or exceed the following lamp efficacy and CRI standards: FLUORESCENT LAMPS Lamp Type Nominal Lamp Wattage Minimum CRI Minimum Average Lamp Efficacy (LPW) Effective Date (Period of Months) 4-foot medium bi-pin >35 W 69 75.0 36 ≤35 W 45 75.0 36 2-foot U-shaped >35 W 69 68.0 36 ≤35 W 45 64.0 36 8-foot slimline 65 W 69 80.0 18 ≤65 W 45 80.0 18 8-foot high output >100 W 69 80.0 18 ≤100 W 45 80.0 18 INCANDESCENT REFLECTOR LAMPS Nominal Lamp Wattage Minimum Average Lamp Efficacy (LPW) Effective Date (Period of Months) 40–50 10.5 36 51–66 11.0 36 67–85 12.5 36 86–115 14.0 36 116–155 14.5 36 156–205 15.0 36
+    - **(B)** Each of the following general service fluorescent lamps and incandescent reflector lamps manufactured after the effective date specified in the tables contained in this paragraph shall meet or exceed the following lamp efficacy and CRI standards:
+
+| FLUORESCENT LAMPS | Col 2 | Col 3 | Col 4 | Col 5 |
+| --- | --- | --- | --- | --- |
+| 4-foot medium bi-pin | &gt;35 W | 69 | 75.0 | 36 |
+|  | ≤35 W | 45 | 75.0 | 36 |
+| 2-foot U-shaped | &gt;35 W | 69 | 68.0 | 36 |
+|  | ≤35 W | 45 | 64.0 | 36 |
+| 8-foot slimline | 65 W | 69 | 80.0 | 18 |
+|  | ≤65 W | 45 | 80.0 | 18 |
+| 8-foot high output | &gt;100 W | 69 | 80.0 | 18 |
+|  | ≤100 W | 45 | 80.0 | 18 |
+
+
+| INCANDESCENT REFLECTOR LAMPS | Col 2 | Col 3 |
+| --- | --- | --- |
+| 40–50 | 10.5 | 36 |
+| 51–66 | 11.0 | 36 |
+| 67–85 | 12.5 | 36 |
+| 86–115 | 14.0 | 36 |
+| 116–155 | 14.5 | 36 |
+| 156–205 | 15.0 | 36 |
+
     - **(C)** The standards specified in subparagraph (B) shall not apply to the following types of incandescent reflector lamps:
       - **(i)** Lamps rated at 50 watts or less that are ER30, BR30, BR40, or ER40 lamps.
       - **(ii)** Lamps rated at 65 watts that are BR30, BR40, or ER40 lamps.
@@ -262,7 +361,16 @@ generated_at: "2026-03-30T02:56:11.247Z"
   - **(8)** Not later than the date on which standards established pursuant to this subsection become effective, or, with respect to high-intensity discharge lamps covered under section 6317 of this title , the effective date of standards established pursuant to such section, each manufacturer of a product to which such standards are applicable shall file with the Secretary a laboratory report certifying compliance with the applicable standard for each lamp type. Such report shall include the lumen output and wattage consumption for each lamp type as an average of measurements taken over the preceding 12-month period. With respect to lamp types which are not manufactured during the 12-month period preceding the date such standards become effective, such report shall be filed with the Secretary not later than the date which is 12 months after the date manufacturing is commenced and shall include the lumen output and wattage consumption for each such lamp type as an average of measurements taken during such 12-month period.
 - **(j)**
   - **(1)** The maximum water use allowed for any showerhead manufactured after January 1, 1994 , is 2.5 gallons per minute when measured at a flowing water pressure of 80 pounds per square inch. Any such showerhead shall also meet the requirements of ASME/ANSI A112.18.1M–1989, 7.4.3(a).
-  - **(2)** The maximum water use allowed for any of the following faucets manufactured after January 1, 1994 , when measured at a flowing water pressure of 80 pounds per square inch, is as follows: Lavatory faucets 2.5 gallons per minute Lavatory replacement aerators 2.5 gallons per minute Kitchen faucets 2.5 gallons per minute Kitchen replacement aerators 2.5 gallons per minute Metering faucets 0.25 gallons per cycle
+  - **(2)** The maximum water use allowed for any of the following faucets manufactured after January 1, 1994 , when measured at a flowing water pressure of 80 pounds per square inch, is as follows:
+
+|  | Col 2 |
+| --- | --- |
+| Lavatory faucets | 2.5 gallons per minute |
+| Lavatory replacement aerators | 2.5 gallons per minute |
+| Kitchen faucets | 2.5 gallons per minute |
+| Kitchen replacement aerators | 2.5 gallons per minute |
+| Metering faucets | 0.25 gallons per cycle |
+
   - **(3)**
     - **(A)** If the maximum flow rate requirements or the design requirements of ASME/ANSI Standard A112.18.1M–1989 are amended to improve the efficiency of water use of any type or class of showerhead or faucet and are approved by ANSI, the Secretary shall, not later than 12 months after the date of such amendment, publish a final rule establishing an amended uniform national standard for that product at the level specified in the amended ASME/ANSI Standard A112.18.1M and providing that such standard shall apply to products manufactured after a date which is 12 months after the publication of such rule, unless the Secretary determines, by rule published in the Federal Register, that adoption of a uniform national standard at the level specified in such amended ASME/ANSI Standard A112.18.1M—
       - **(i)** is not technologically feasible and economically justified under subsection ( o );
@@ -281,7 +389,15 @@ generated_at: "2026-03-30T02:56:11.247Z"
       - **(ii)** is applicable to any sale or installation of all products in such type or class of showerhead or faucet.
 - **(k)**
   - **(1)**
-    - **(A)** Except as provided in subparagraph (B), the maximum water use allowed in gallons per flush for any of the following water closets manufactured after January 1, 1994 , is the following: Gravity tank-type toilets 1.6 gpf. Flushometer tank toilets 1.6 gpf. Electromechanical hydraulic toilets 1.6 gpf. Blowout toilets 3.5 gpf.
+    - **(A)** Except as provided in subparagraph (B), the maximum water use allowed in gallons per flush for any of the following water closets manufactured after January 1, 1994 , is the following:
+
+|  | Col 2 |
+| --- | --- |
+| Gravity tank-type toilets | 1.6 gpf. |
+| Flushometer tank toilets | 1.6 gpf. |
+| Electromechanical hydraulic toilets | 1.6 gpf. |
+| Blowout toilets | 3.5 gpf. |
+
     - **(B)** The maximum water use allowed for any gravity tank-type white 2-piece toilet which bears an adhesive label conspicuous upon installation consisting of the words “Commercial Use Only” manufactured after January 1, 1994 , and before January 1, 1997 , is 3.5 gallons per flush.
     - **(C)** The maximum water use allowed for flushometer valve toilets, other than blowout toilets, manufactured after January 1, 1997 , is 1.6 gallons per flush.
   - **(2)** The maximum water use allowed for any urinal manufactured after January 1, 1994 , is 1.0 gallon per flush.
@@ -505,7 +621,17 @@ generated_at: "2026-03-30T02:56:11.247Z"
         - **(II)** would result in significant overall annual energy savings, considering standby mode and other operating modes.
   - **(2)** The Secretary and the Administrator shall collaborate and develop programs (including programs under section 6294a of this title and other voluntary industry agreements or codes of conduct) that are designed to reduce standby mode energy use.
   - **(3)**
-    - **(A)** Subject to subparagraphs (B) through (E), a class A external power supply manufactured on or after the later of July 1, 2008 , or December 19, 2007 , shall meet the following standards: Active Mode Nameplate Output Required Efficiency (decimal equivalent of a percentage) Less than 1 watt 0.5 times the Nameplate Output From 1 watt to not more than 51 watts The sum of 0.09 times the Natural Logarithm of the Nameplate Output and 0.5 Greater than 51 watts 0.85 No-Load Mode Nameplate Output Maximum Consumption Not more than 250 watts 0.5 watts
+    - **(A)** Subject to subparagraphs (B) through (E), a class A external power supply manufactured on or after the later of July 1, 2008 , or December 19, 2007 , shall meet the following standards:
+
+| Active Mode | Col 2 |
+| --- | --- |
+| Less than 1 watt | 0.5 times the Nameplate Output |
+| From 1 watt to not more than 51 watts | The sum of 0.09 times the Natural Logarithm of the Nameplate Output and 0.5 |
+| Greater than 51 watts | 0.85 |
+| No-Load Mode |  |
+| Nameplate Output | Maximum Consumption |
+| Not more than 250 watts | 0.5 watts |
+
     - **(B)** A class A external power supply shall not be subject to subparagraph (A) if the class A external power supply is—
       - **(i)** manufactured during the period beginning on July 1, 2008 , and ending on June 30, 2015 ; and
       - **(ii)** made available by the manufacturer as a service part or a spare part for an end-use product—
@@ -576,8 +702,26 @@ generated_at: "2026-03-30T02:56:11.247Z"
     - **(A)** revise the requirements established under paragraph (2); or
     - **(B)** establish other requirements, after considering energy savings, cost effectiveness, and consumer satisfaction.
 - **(cc)**
-  - **(1)** Dehumidifiers manufactured on or after October 1, 2007 , shall have an Energy Factor that meets or exceeds the following values: Product Capacity (pints/day): Minimum Energy Factor (Liters/kWh) 25.00 or less 1.00 25.01 – 35.00 1.20 35.01 – 54.00 1.30 54.01 – 74.99 1.50 75.00 or more 2.25.
-  - **(2)** Dehumidifiers manufactured on or after October 1, 2012 , shall have an Energy Factor that meets or exceeds the following values: Product Capacity (pints/day): Minimum Energy Factor (liters/kWh) Up to 35.00 1.35 35.01–45.00 1.50 45.01–54.00 1.60 54.01–75.00 1.70 Greater than 75.00 2.5.
+  - **(1)** Dehumidifiers manufactured on or after October 1, 2007 , shall have an Energy Factor that meets or exceeds the following values:
+
+| Product Capacity (pints/day): | Minimum Energy Factor (Liters/kWh) |
+| --- | --- |
+| 25.00 or less | 1.00 |
+| 25.01 – 35.00 | 1.20 |
+| 35.01 – 54.00 | 1.30 |
+| 54.01 – 74.99 | 1.50 |
+| 75.00 or more | 2.25. |
+
+  - **(2)** Dehumidifiers manufactured on or after October 1, 2012 , shall have an Energy Factor that meets or exceeds the following values:
+
+| Product Capacity (pints/day): | Minimum Energy Factor (liters/kWh) |
+| --- | --- |
+| Up to 35.00 | 1.35 |
+| 35.01–45.00 | 1.50 |
+| 45.01–54.00 | 1.60 |
+| 54.01–75.00 | 1.70 |
+| Greater than 75.00 | 2.5. |
+
 - **(dd)** Commercial prerinse spray valves manufactured on or after January 1, 2006 , shall have a flow rate of not more than 1.6 gallons per minute.
 - **(ee)** Mercury vapor lamp ballasts (other than specialty application mercury vapor lamp ballasts) shall not be manufactured or imported after January 1, 2008 .
 - **(ff)**
@@ -682,3 +826,610 @@ generated_at: "2026-03-30T02:56:11.247Z"
 - **(ii)** Section 6297 of this title applies—
   - **(1)** to products for which energy conservation standards are to be established under subsection ( l ), (u), or (v) beginning on the date on which a final rule is issued by the Secretary, except that any State or local standard prescribed or enacted for the product before the date on which the final rule is issued shall not be preempted until the energy conservation standard established under subsection ( l ), (u), or (v) for the product takes effect; and
   - **(2)** to products for which energy conservation standards are established under subsections (w) through (hh) on August 8, 2005 , except that any State or local standard prescribed or enacted before August 8, 2005 , shall not be preempted until the energy conservation standards established under subsections (w) through (hh) take effect.
+
+| Application for Operation of | Ballast Input Voltage | Total Nominal Lamp Watts | Ballast Efficacy Factor |
+| --- | --- | --- | --- |
+| one F40T12 lamp | 120 | 40 | 1.805 |
+|  | 277 | 40 | 1.805 |
+| two F40T12 lamps | 120 | 80 | 1.060 |
+|  | 277 | 80 | 1.050 |
+| two F96T12 lamps | 120 | 150 | 0.570 |
+|  | 277 | 150 | 0.570 |
+| two F96T12HO lamps | 120 | 220 | 0.390 |
+|  | 277 | 220 | 0.390 |
+
+| Application for operation of | Ballast input voltage | Total nominal lamp watts | Ballast efficacy factor |
+| --- | --- | --- | --- |
+| One F34T12 lamp | 120/277 | 34 | 2.61 |
+| Two F34T12 lamps | 120/277 | 68 | 1.35 |
+| Two F96T12/ES lamps | 120/277 | 120 | 0.77 |
+| Two F96T12HO/ES lamps | 120/277 | 190 | 0.42. |
+
+
+Refrigerators and Refrigerator-Freezers with manual defrost
+
+Refrigerator-Freezers—partial automatic defrost
+
+Top mounted freezer without ice
+
+Side mounted freezer without ice
+
+Bottom mounted freezer without ice
+
+Top mounted freezer with through the door ice service
+
+Side mounted freezer with through the door ice
+
+Manual defrost
+
+Automatic defrost
+
+Chest Freezers and all other freezers
+
+Refrigerators and freezers manufactured on or after january 1, 2014 .—
+
+In general
+
+Amended standards
+
+Less than 6,000 Btu
+
+6,000 to 7,999 Btu
+
+8,000 to 13,999 Btu
+
+14,000 to 19,999 Btu
+
+20,000 and more Btu
+
+Less than 6,000 Btu
+
+6,000 to 7,999 Btu
+
+8,000 to 13,999 Btu
+
+14,000 to 19,999 Btu
+
+20,000 and more Btu
+
+With Reverse Cycle and With Louvered Sides
+
+With Reverse Cycle, Without Louvered Sides
+
+Standards for through-the-wall central air conditioners, through-the-wall central air conditioning heat pumps, and small duct, high velocity systems.—
+
+Definitions
+
+Small duct, high velocity system
+
+Through-the-wall central air conditioner; through-the-wall central air conditioning heat pump
+
+Revision
+
+Small-duct high-velocity systems.—
+
+Seasonal energy efficiency ratio
+
+Heating seasonal performance factor
+
+Subsequent rulemakings
+
+Up to 42,000 Btu/hour
+
+Over 42,000 Btu/hour
+
+Up to 10,000 Btu/hour
+
+Over 10,000 Btu/hour up to 12,000 Btu/hour
+
+Over 12,000 Btu/hour up to 15,000 Btu/hour
+
+Over 15,000 Btu/hour up to 19,000 Btu/hour
+
+Over 19,000 Btu/hour up to 27,000 Btu/hour
+
+Over 27,000 Btu/hour up to 46,000 Btu/hour
+
+Over 46,000 Btu/hour
+
+Up to 37,000 Btu/hour
+
+Over 37,000 Btu/hour
+
+Up to 18,000 Btu/hour
+
+Over 18,000 Btu/hour up to 20,000 Btu/hour
+
+Over 20,000 Btu/hour up to 27,000 Btu/hour
+
+Over 27,000 Btu/hour up to 46,000 Btu/hour
+
+Over 46,000 Btu/hour
+
+Uniform efficiency descriptor for covered water heaters.—
+
+Definitions
+
+Covered water heater
+
+Final rule
+
+Publication of final rule
+
+Purpose
+
+Effect of final rule.—
+
+In general
+
+Effective date
+
+Conversion factor.—
+
+In general
+
+Application
+
+Effect on efficiency requirements
+
+Use
+
+Period
+
+Exclusions
+
+Options
+
+Application
+
+Participation
+
+Testing of alternative descriptors
+
+Existing covered water heaters
+
+Additional standards for grid-enabled water heaters.—
+
+Definitions
+
+Activation lock
+
+Grid-enabled water heater
+
+(aa) an energy factor of not less than 1.061 minus the product obtained by multiplying— (AA) the rated storage volume of the tank, expressed in gallons; and (BB) 0.00168; or
+
+(bb) an equivalent alternative standard prescribed by the Secretary and developed pursuant to paragraph (5)(E);
+
+(aa) is made of material not adversely affected by water;
+
+(bb) is attached by means of non-water-soluble adhesive; and
+
+(cc) advises purchasers and end-users of the intended and appropriate use of the product with the following notice printed in 16.5 point Arial Narrow Bold font: “IMPORTANT INFORMATION: This water heater is intended only for use as part of an electric thermal storage or demand response program. It will not provide adequate hot water unless enrolled in such a program and activated by your utility company or another program operator. Confirm the availability of a program in your local area before purchasing or installing this product.”.
+
+Requirement
+
+Reports.—
+
+Manufacturers
+
+Operators
+
+Confidentiality requirements
+
+Publication of information.—
+
+In general
+
+Prevention of product diversion
+
+Compliance.—
+
+In general
+
+Effective date
+
+Consideration
+
+Requirements
+
+Boilers.—
+
+In general
+
+Gas Steam
+
+Oil Steam
+
+Automatic means for adjusting water temperature.—
+
+In general
+
+Single input rate
+
+No inferred heat load
+
+Operation
+
+Exception
+
+one F40T12 lamp
+
+two F40T12 lamps
+
+two F96T12 lamps
+
+two F96T12HO lamps
+
+120/277
+
+120/277
+
+120/277
+
+120/277
+
+Residential clothes washers manufactured on or after january 1, 2011 .—
+
+In general
+
+Amendment of standards.—
+
+In general
+
+Amended standards
+
+Residential dishwashers manufactured on or after january 1, 2010 .—
+
+In general
+
+Amendment of standards.—
+
+In general
+
+Amended standards
+
+Standards.—
+
+Definition of effective date
+
+Minimum standards
+
+4-foot medium bi-pin
+
+2-foot U-shaped
+
+8-foot slimline
+
+8-foot high output
+
+40–50
+
+51–66
+
+67–85
+
+86–115
+
+116–155
+
+156–205
+
+Exemptions
+
+Effective dates.—
+
+br, and bpar lamps
+
+Lamps between 2.25–2.75 inches in diameter
+
+Standards for general service lamps.—
+
+Rulemaking before january 1, 2014 .—
+
+In general
+
+Scope
+
+Amended standards
+
+Phased-in effective dates
+
+Backstop requirement
+
+State preemption
+
+Rulemaking before january 1, 2020 .—
+
+In general
+
+Scope
+
+Amended standards
+
+Phased-in effective dates
+
+Lavatory faucets
+
+Kitchen faucets
+
+Kitchen replacement aerators
+
+Metering faucets
+
+Gravity tank-type toilets
+
+Flushometer tank toilets
+
+Electromechanical hydraulic toilets
+
+Blowout toilets
+
+Energy efficiency standards for certain lamps.—
+
+In general
+
+Benchmarks
+
+Actual sales data.—
+
+In general
+
+Continuation of tracking.—
+
+Determination
+
+Continuation
+
+Rough service lamps.—
+
+In general
+
+Backstop requirement
+
+Vibration service lamps.—
+
+In general
+
+Backstop requirement
+
+way incandescent lamps.—
+
+In general
+
+Backstop requirement
+
+lumen general service incandescent lamps
+
+Shatter-resistant lamps.—
+
+In general
+
+Backstop requirement
+
+Rulemakings before january 1, 2025 .—
+
+In general
+
+Backstop requirement
+
+Notice of decision
+
+New or amended standards
+
+Regional standards for furnaces, central air conditioners, and heat pumps.—
+
+In general
+
+National and regional standards.—
+
+National standard
+
+Regional standards
+
+Boundaries of geographic regions.—
+
+In general
+
+Alaska and hawaii
+
+Individual states
+
+Prerequisites
+
+Application; effective date.—
+
+Base national standard
+
+Regional standards
+
+Continuation of regional standards.—
+
+In general
+
+Regional standard no longer appropriate
+
+Regional standard appropriate but standard or region changed.—
+
+State no longer contained in region
+
+Standard or region revised so that existing regional standard equals base national standard
+
+(aa) the authority of the State to enforce the regional standard shall terminate on the effective date of the revised base national standard; and
+
+(bb) the State shall be subject to the revised base national standard.
+
+Standard or region revised so that existing regional standard equals base national standard
+
+Waiver of federal preemption
+
+Enforcement.—
+
+Base national standard.—
+
+In general
+
+Trade association certification programs
+
+Regional standards.—
+
+Enforcement plan
+
+Responsible entities
+
+Final rule
+
+Incorporation by states and localities
+
+State enforcement
+
+Information disclosure.—
+
+In general
+
+Methods
+
+Completion of rulemaking
+
+Direct final rules.—
+
+In general
+
+Public comment
+
+Withdrawal of direct final rules.—
+
+In general
+
+Action on withdrawal
+
+Treatment of withdrawn direct final rules
+
+Effect of paragraph
+
+External power supplies and battery chargers.—
+
+Energy conservation standards.—
+
+External power supplies
+
+Battery chargers
+
+Efficiency standards for class a external power supplies.—
+
+In general
+
+Noncovered supplies
+
+Marking
+
+Amendment of standards.—
+
+Final rule by july 1, 2011 .—
+
+In general
+
+Administration
+
+(aa) contain any amended standards; and
+
+(bb) apply to products manufactured on or after July 1, 2013 .
+
+Final rule by july 1, 2021 .—
+
+In general
+
+Administration
+
+(aa) contain any amended standards; and
+
+(bb) apply to products manufactured on or after July 1, 2023 .
+
+Nonapplication of no-load mode energy efficiency standards to external power supplies for certain security or life safety alarms or surveillance systems.—
+
+Definition of security or life safety alarm or surveillance system
+
+In general
+
+(aa) Monitor, detect, record, or provide notification of intrusion or access to real property or physical assets or notification of threats to life safety.
+
+(bb) Deter or control access to real property or physical assets, or prevent the unauthorized removal of physical assets.
+
+(cc) Monitor, detect, record, or provide notification of fire, gas, smoke, flooding, or other physical threats to real property, physical assets, or life safety.
+
+Exclusion
+
+(aa) is designed and marketed with a built-in alarm or theft-deterrent feature; or
+
+(bb) does not operate necessarily and continuously in active mode.
+
+Nonapplication of no-load mode requirements
+
+Administration
+
+Treatment in rule
+
+End-use products
+
+Exempt supplies.—
+
+February 10, 2014 , rule.—
+
+In general
+
+(aa) constitutes the primary load; and
+
+(bb) was manufactured before February 10, 2016 .
+
+Reporting
+
+Limitation of exemption
+
+Amended standards.—
+
+In general
+
+(aa) constitutes the primary load; and
+
+(bb) was manufactured before the compliance date of the amended standard.
+
+Reporting
+
+25.00 or less
+
+25.01 – 35.00
+
+35.01 – 54.00
+
+54.01 – 74.99
+
+75.00 or more
+
+Dehumidifiers manufactured on or after october 1, 2012
+
+Up to 35.00
+
+35.01–45.00
+
+45.01–54.00
+
+54.01–75.00
+
+Greater than 75.00
+
+(aa) 1.00 at high speed; and
+
+(bb) 1.31 at 40 percent speed or the nearest speed that is not less than 40 percent speed.
+
+(aa) To facilitate the activation or deactivation of other functions (including active mode) by remote switch (including remote control), internal sensor, or timer.
+
+(bb) Continuous functions, including information or status displays (including clocks) or sensor-based functions.
+
+In general
+
+Authorization of appropriations
+
+Termination of authority
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 325](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 923](https://www.govinfo.gov/link/statute/89/923); [Pub. L. 94–385, title I, § 161](https://www.govinfo.gov/link/plaw/94/public/385), Aug. 14, 1976, [90 Stat. 1140](https://www.govinfo.gov/link/statute/90/1140); [Pub. L. 95–619, title IV, § 422](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3259](https://www.govinfo.gov/link/statute/92/3259); [Pub. L. 100–12, § 5](https://www.govinfo.gov/link/plaw/100/public/12), Mar. 17, 1987, [101 Stat. 107](https://www.govinfo.gov/link/statute/101/107); [Pub. L. 100–357, § 2(e)](https://www.govinfo.gov/link/plaw/100/public/357), June 28, 1988, [102 Stat. 673](https://www.govinfo.gov/link/statute/102/673); [Pub. L. 102–486, title I, § 123(f)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2824](https://www.govinfo.gov/link/statute/106/2824); [Pub. L. 105–388, § 5(a)(5)](https://www.govinfo.gov/link/plaw/105/public/388), Nov. 13, 1998, [112 Stat. 3478](https://www.govinfo.gov/link/statute/112/3478); [Pub. L. 109–58, title I, § 135(c)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 628](https://www.govinfo.gov/link/statute/119/628); [Pub. L. 110–140, title III](https://www.govinfo.gov/link/plaw/110/public/140), §§ 301(c), 303–305(a), 306(a), 307, 308(a), 309–311(a), 316(c)(2), (d), 321(a)(3), 322(b), 324(e), Dec. 19, 2007, [121 Stat. 1550](https://www.govinfo.gov/link/statute/121/1550), 1552, 1553, 1556, 1559–1561, 1563, 1573, 1577, 1588, 1593; [Pub. L. 111–360, § 1](https://www.govinfo.gov/link/plaw/111/public/360), Jan. 4, 2011, [124 Stat. 4051](https://www.govinfo.gov/link/statute/124/4051); [Pub. L. 112–210](https://www.govinfo.gov/link/plaw/112/public/210), §§ 3, 5(a), (c), 10(a)(1), (8), (11), (b)(1), Dec. 18, 2012, [126 Stat. 1514](https://www.govinfo.gov/link/statute/126/1514), 1517, 1519, 1522, 1524, 1525; [Pub. L. 113–263, § 2](https://www.govinfo.gov/link/plaw/113/public/263), Dec. 18, 2014, [128 Stat. 2937](https://www.govinfo.gov/link/statute/128/2937); [Pub. L. 114–11, title II, § 201(1)](https://www.govinfo.gov/link/plaw/114/public/11), Apr. 30, 2015, [129 Stat. 186](https://www.govinfo.gov/link/statute/129/186); [Pub. L. 115–78, § 2](https://www.govinfo.gov/link/plaw/115/public/78), Nov. 2, 2017, [131 Stat. 1256](https://www.govinfo.gov/link/statute/131/1256); [Pub. L. 115–115, § 2(c)(3)](https://www.govinfo.gov/link/plaw/115/public/115), Jan. 12, 2018, [131 Stat. 2281](https://www.govinfo.gov/link/statute/131/2281); [Pub. L. 116–260, div. Z, title I, § 1008(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2437](https://www.govinfo.gov/link/statute/134/2437).)*

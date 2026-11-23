@@ -3,9 +3,10 @@ title: "Section 2113 - Certification of cotton producer organizations"
 usc_title: 7
 usc_section: "2113"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2113"
-generated_at: "2026-03-30T02:53:42.377Z"
+generated_at: "2026-11-23T21:25:28.274Z"
+status: "active"
 ---
 
 # § 2113. Certification of cotton producer organizations
@@ -19,3 +20,7 @@ The eligibility of each cotton producer organization to represent cotton produce
 - **(e)** Sources from which the organization’s operating funds are derived;
 - **(f)** Functions of the organization; and
 - **(g)** The organization’s ability and willingness to further the aims and objectives of this chapter:
+
+## Source Credit
+
+*([Pub. L. 89–502, § 14](https://www.govinfo.gov/link/plaw/89/public/502), July 13, 1966, [80 Stat. 284](https://www.govinfo.gov/link/statute/80/284).)*

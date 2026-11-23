@@ -3,9 +3,10 @@ title: "Section 12375 - Report of Conference"
 usc_title: 42
 usc_section: "12375"
 chapter: 127
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12375"
-generated_at: "2026-03-30T02:56:11.413Z"
+generated_at: "2026-11-23T21:26:33.474Z"
+status: "active"
 ---
 
 # § 12375. Report of Conference
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.413Z"
     - **(B)** the views and comments of the chief executive officers of the States; and
     - **(C)** the recommendations of the Secretary, after taking into consideration the views and comments of such officers, for administrative and legislative action necessary to implement the recommendations of the Conference; and
   - **(2)** publish and transmit such report to the President and the chairman of the Committee on Education and Labor of the House of Representatives and chairman of the Committee on Labor and Human Resources of the Senate.
+
+## Source Credit
+
+*([Pub. L. 101–501, title IX, § 986](https://www.govinfo.gov/link/plaw/101/public/501), Nov. 3, 1990, [104 Stat. 1282](https://www.govinfo.gov/link/statute/104/1282).)*

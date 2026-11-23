@@ -3,9 +3,10 @@ title: "Section 10432 - Acceptance of contributions in support of Australia, Uni
 usc_title: 22
 usc_section: "10432"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10432"
-generated_at: "2026-03-30T02:55:05.477Z"
+generated_at: "2026-11-23T21:25:58.799Z"
+status: "active"
 ---
 
 # § 10432. Acceptance of contributions in support of Australia, United Kingdom, and United States submarine security activities
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:55:05.477Z"
     - **(B)** a description of the intended use of the funds; and
     - **(C)** any other matters related to the administration of the Submarine Security Activities Account as determined necessary by the Secretary.
   - **(2)** The report required by this subsection shall be submitted in unclassified form but may include a classified annex.
+
+## Source Credit
+
+*([Pub. L. 118–31, div. A, title XIII, § 1353](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 519](https://www.govinfo.gov/link/statute/137/519).)*

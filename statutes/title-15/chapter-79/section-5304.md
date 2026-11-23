@@ -3,9 +3,10 @@ title: "Section 5304 - Operation of program"
 usc_title: 15
 usc_section: "5304"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 5304"
-generated_at: "2026-03-30T02:54:08.205Z"
+generated_at: "2026-11-23T21:25:40.010Z"
+status: "active"
 ---
 
 # § 5304. Operation of program
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:54:08.205Z"
   - **(6)** otherwise best carry out the purposes of this chapter.
 - **(e)** From amounts made available in separate appropriation Acts, the Secretary shall provide to each applicant selected the financial and technical assistance and other incentives that are necessary and appropriate to carry out the purposes of this chapter.
 - **(f)** Each recipient of financial assistance under subsection (d) shall be known as a “National Metal Casting Research Institute”.
+
+## Source Credit
+
+*([Pub. L. 101–425, § 5](https://www.govinfo.gov/link/plaw/101/public/425), Oct. 15, 1990, [104 Stat. 916](https://www.govinfo.gov/link/statute/104/916).)*

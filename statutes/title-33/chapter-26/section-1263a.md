@@ -3,9 +3,10 @@ title: "Section 1263a - Grants to Alaska to improve sanitation in rural and Nati
 usc_title: 33
 usc_section: "1263a"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1263a"
-generated_at: "2026-03-30T02:55:41.083Z"
+generated_at: "2026-11-23T21:26:11.362Z"
+status: "active"
 ---
 
 # § 1263a. Grants to Alaska to improve sanitation in rural and Native villages
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:41.083Z"
   - **(1)** $40,000,000 for each of fiscal years 2022 through 2024;
   - **(2)** $50,000,000 for fiscal year 2025; and
   - **(3)** $60,000,000 for fiscal year 2026.
+
+## Source Credit
+
+*([Pub. L. 104–182, title III, § 303](https://www.govinfo.gov/link/plaw/104/public/182), Aug. 6, 1996, [110 Stat. 1683](https://www.govinfo.gov/link/statute/110/1683); [Pub. L. 106–457, title IX, § 903](https://www.govinfo.gov/link/plaw/106/public/457), Nov. 7, 2000, [114 Stat. 1982](https://www.govinfo.gov/link/statute/114/1982); [Pub. L. 117–58, div. E, title II, § 50212](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1172](https://www.govinfo.gov/link/statute/135/1172).)*

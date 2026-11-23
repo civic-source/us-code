@@ -3,9 +3,10 @@ title: "Section 206 - Conservator; powers and duties"
 usc_title: 12
 usc_section: "206"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 206"
-generated_at: "2026-03-30T02:53:53.375Z"
+generated_at: "2026-11-23T21:25:36.773Z"
+status: "active"
 ---
 
 # § 206. Conservator; powers and duties
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.375Z"
 - **(c)** The Comptroller may require the conservator to set aside and make available for withdrawal by depositors and payment to other creditors such amounts as in the opinion of the Comptroller may safely be used for that purpose. All depositors and creditors who are similarly situated shall be treated in the same manner.
 - **(d)** The conservator and professional employees appointed to represent or assist the conservator shall not be paid amounts greater than are payable to employees of the Federal Government for similar services, except that the Comptroller of the Currency may authorize payment at higher rates (but not in excess of rates prevailing in the private sector), if the Comptroller determines that paying such higher rates is necessary in order to recruit and retain competent personnel.
 - **(e)** All expenses of any such conservatorship shall be paid by the bank and shall be a lien upon the bank which shall be prior to any other lien.
+
+## Source Credit
+
+*(Mar. 9, 1933, ch. 1, title II, § 206, [48 Stat. 3](https://www.govinfo.gov/link/statute/48/3); [Pub. L. 101–73, title VIII, § 805](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 445](https://www.govinfo.gov/link/statute/103/445).)*

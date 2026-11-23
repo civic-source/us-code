@@ -3,9 +3,10 @@ title: "Section 1621v - Offices of Indian Men’s Health and Indian Women’s He
 usc_title: 25
 usc_section: "1621v"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1621v"
-generated_at: "2026-03-30T02:54:52.822Z"
+generated_at: "2026-11-23T21:25:54.621Z"
+status: "active"
 ---
 
 # § 1621v. Offices of Indian Men’s Health and Indian Women’s Health
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:52.822Z"
     - **(A)** any activity carried out by the director as of the date on which the report is prepared; and
     - **(B)** any finding of the director with respect to the health of Indian men.
 - **(b)** The Secretary, acting through the Service, shall establish an office, to be known as the “Office of Indian Women’s Health”, to monitor and improve the quality of health care for Indian women (including urban Indian women) of all ages through the planning and delivery of programs administered by the Service, in order to improve and enhance the treatment models of care for Indian women.
+
+## Source Credit
+
+*([Pub. L. 94–437, title II, § 223](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 102–573, title II, § 216](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4559](https://www.govinfo.gov/link/statute/106/4559); amended [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

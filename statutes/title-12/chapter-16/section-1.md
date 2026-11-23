@@ -3,9 +3,10 @@ title: "Section 1 - Notice of branch closure"
 usc_title: 12
 usc_section: "1"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1"
-generated_at: "2026-03-30T02:53:53.462Z"
+generated_at: "2026-11-23T21:25:37.029Z"
+status: "active"
 ---
 
 # § 1831r–1. Notice of branch closure
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:53:53.462Z"
       - **(i)** section 1821(n) of this title ; or
       - **(ii)** subsection (f) or (k) of section 1823 of this title ; or
     - **(B)** any assistance provided by the Corporation under section 1823(c) of this title .
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [42], formerly § 2[39], as added [Pub. L. 102–242, title II, § 228](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2308](https://www.govinfo.gov/link/statute/105/2308); renumbered § 2[42], [Pub. L. 102–550, title XVI, § 1602(a)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4078](https://www.govinfo.gov/link/statute/106/4078); amended [Pub. L. 103–328, title I, § 106](https://www.govinfo.gov/link/plaw/103/public/328), Sept. 29, 1994, [108 Stat. 2357](https://www.govinfo.gov/link/statute/108/2357); [Pub. L. 104–208, div. A, title II, § 2213](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–411](https://www.govinfo.gov/link/statute/110/3009).)*

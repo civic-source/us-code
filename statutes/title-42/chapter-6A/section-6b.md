@@ -3,9 +3,10 @@ title: "Section 6b - Strategic National Stockpile and security countermeasure pr
 usc_title: 42
 usc_section: "6b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6b"
-generated_at: "2026-03-30T02:56:10.703Z"
+generated_at: "2026-11-23T21:26:30.307Z"
+status: "active"
 ---
 
 # § 247d–6b. Strategic National Stockpile and security countermeasure procurements
@@ -210,3 +211,183 @@ generated_at: "2026-03-30T02:56:10.703Z"
       - **(ii)** activities conducted pursuant to paragraph (4); and
       - **(iii)** any additional information from the States that the Secretary determines relevant.
   - **(9)** To carry out this subsection, there is authorized to be appropriated $3,500,000,000 for each of fiscal years 2023 and 2024, to remain available until expended.
+
+(aa) consideration of the effect such additions or modifications may have on the availability of such products and ancillary medical supplies on the health care system; and
+
+(bb) an assessment of the current supply chain for such products, including information on supply chain redundancies, any known domestic manufacturing capacity for such products, and any related vulnerabilities;
+
+(aa) is approved or cleared under chapter V of the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 351 et seq.] or licensed under section 262 of this title ; or
+
+(bb) is a countermeasure for which the Secretary determines that sufficient and satisfactory clinical experience or research data (including data, if available, from pre-clinical and clinical trials) support a reasonable conclusion that the countermeasure will qualify for approval or licensing within 10 years after the date of a determination under paragraph (5); or
+
+(aa) may specify— (AA) the dosing and administration requirements for the countermeasure to be developed and procured; (BB) the amount of funding that will be dedicated by the Secretary for advanced research, development, and procurement of the countermeasure; and (CC) the specifications the countermeasure must meet to qualify for procurement under a contract under this section; and
+
+(bb) shall provide a clear statement of defined Government purpose limited to uses related to a security countermeasure, as defined in paragraph (1)(B).
+
+(aa) section 3305(a)(1) of title 41 and its implementing regulations; and
+
+(bb) section 3101(b)(1)(B) of title 41 and its implementing regulations.
+
+(aa) Chapter 37 of title 40 (relating to contract work hours and safety standards).
+
+(bb) Section 8703(a) of title 41 .
+
+(cc) Section 4706 of title 41 (relating to the examination of contractor records).
+
+(dd) Section 3131 of title 40 (relating to bonds of contractors of public buildings or works).
+
+(ee) Section 3901 of title 41 (relating to contingent fees to middlemen).
+
+(ff) Section 6962 of this title .
+
+(gg) Section 1354 of title 31 (relating to the limitation on the use of appropriated funds for contracts with entities not meeting veterans employment reporting requirements).
+
+(aa) identifies an increment of the total quantity of security countermeasure required, whether by percentage or by numbers of units; and
+
+(bb) promises to pay one or more specified premiums based on the priority of such vendors’ production and delivery of the increment identified under item (aa), in accordance with the terms and conditions of the contract.
+
+Waiver
+
+Program.—
+
+In general
+
+Eligible entities
+
+Use of funds
+
+Reports
+
+Contract terms
+
+Milestone-based payments
+
+Repayment
+
+Contract duration.—
+
+In general
+
+Non-renewability
+
+Notifications of extensions and terminations
+
+Additional terms
+
+Sustainment
+
+Report
+
+Rule of Construction
+
+Definitions
+
+Active pharmaceutical ingredient
+
+Antibiotic drug
+
+Key starting material
+
+Secretary
+
+Sunset
+
+In general
+
+Exceptions.—
+
+Functions
+
+Assets and unexpended balances
+
+biodefense countermeasures
+
+In General
+
+State and Local Plans.—
+
+In general
+
+Local governments
+
+Guidelines
+
+Information
+
+Reports.—
+
+President
+
+National academy of sciences.—
+
+In general
+
+Report
+
+Applicability
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+George W. Bush.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 319F–2, formerly [Pub. L. 107–188, title I, § 121](https://www.govinfo.gov/link/plaw/107/public/188), June 12, 2002, [116 Stat. 611](https://www.govinfo.gov/link/statute/116/611); [Pub. L. 107–296, title XVII, § 1705(a)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2316](https://www.govinfo.gov/link/statute/116/2316); renumbered § 319F–2 of act July 1, 1944, and amended [Pub. L. 108–276, § 3(a)](https://www.govinfo.gov/link/plaw/108/public/276), July 21, 2004, [118 Stat. 842](https://www.govinfo.gov/link/statute/118/842); [Pub. L. 109–417, title I, § 102(c)](https://www.govinfo.gov/link/plaw/109/public/417), title IV, §§ 403(b), 406, Dec. 19, 2006, [120 Stat. 2834](https://www.govinfo.gov/link/statute/120/2834), 2874, 2879; [Pub. L. 113–5, title IV](https://www.govinfo.gov/link/plaw/113/public/5), §§ 401, 403, Mar. 13, 2013, [127 Stat. 192](https://www.govinfo.gov/link/statute/127/192), 196; [Pub. L. 114–255, div. A, title III](https://www.govinfo.gov/link/plaw/114/public/255), §§ 3081, 3082(a), 3085, Dec. 13, 2016, [130 Stat. 1140](https://www.govinfo.gov/link/statute/130/1140), 1144; [Pub. L. 116–22, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/116/public/22), (c), title V, §§ 502, 504(a), title VII, § 702, June 24, 2019, [133 Stat. 943](https://www.govinfo.gov/link/statute/133/943), 947, 950, 951, 962; [Pub. L. 116–136, div. A, title III, § 3102](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 361](https://www.govinfo.gov/link/statute/134/361); [Pub. L. 117–58, div. G, title IX, § 70953(f)(3)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1316](https://www.govinfo.gov/link/statute/135/1316); [Pub. L. 117–328, div. FF, title II](https://www.govinfo.gov/link/plaw/117/public/328), §§ 2402, 2403, 2404(b)–2406, 2408(a), 2409(a), Dec. 29, 2022, [136 Stat. 5785–5787](https://www.govinfo.gov/link/statute/136/5785), 5789.)*

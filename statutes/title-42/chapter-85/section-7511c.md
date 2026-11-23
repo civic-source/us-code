@@ -3,9 +3,10 @@ title: "Section 7511c - Control of interstate ozone air pollution"
 usc_title: 42
 usc_section: "7511c"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7511c"
-generated_at: "2026-03-30T02:56:11.308Z"
+generated_at: "2026-11-23T21:26:33.109Z"
+status: "active"
 ---
 
 # § 7511c. Control of interstate ozone air pollution
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.308Z"
       - **(ii)** recommendations concerning equal or more effective actions that could be taken by the commission to conform the disapproved portion of the recommendations to the requirements of this section.
   - **(5)** Upon approval or partial approval of recommendations submitted by a commission, the Administrator shall issue to each State which is included in the transport region and to which a requirement of the approved plan applies, a finding under section 7410(k)(5) of this title that the implementation plan for such State is inadequate to meet the requirements of section 7410(a)(2)(D) of this title . Such finding shall require each such State to revise its implementation plan to include the approved additional control measures within one year after the finding is issued.
 - **(d)** For purposes of this section, not later than 6 months after November 15, 1990 , the Administrator shall promulgate criteria for purposes of determining the contribution of sources in one area to concentrations of ozone in another area which is a nonattainment area for ozone. Such criteria shall require that the best available air quality monitoring and modeling techniques be used for purposes of making such determinations.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 184, as added [Pub. L. 101–549, title I, § 103](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2448](https://www.govinfo.gov/link/statute/104/2448).)*

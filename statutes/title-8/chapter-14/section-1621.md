@@ -3,9 +3,10 @@ title: "Section 1621 - Aliens who are not qualified aliens or nonimmigrants inel
 usc_title: 8
 usc_section: "1621"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1621"
-generated_at: "2026-03-30T02:53:10.506Z"
+generated_at: "2026-11-23T21:25:25.212Z"
+status: "active"
 ---
 
 # § 1621. Aliens who are not qualified aliens or nonimmigrants ineligible for State and local public benefits
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:10.506Z"
     - **(C)** to the issuance of a professional license to, or the renewal of a professional license by, a foreign national not physically present in the United States.
   - **(3)** Such term does not include any Federal public benefit under section 1611(c) of this title .
 - **(d)** A State may provide that an alien who is not lawfully present in the United States is eligible for any State or local public benefit for which such alien would otherwise be ineligible under subsection (a) only through the enactment of a State law after August 22, 1996 , which affirmatively provides for such eligibility.
+
+## Source Credit
+
+*([Pub. L. 104–193, title IV, § 411](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2268](https://www.govinfo.gov/link/statute/110/2268); [Pub. L. 105–33, title V](https://www.govinfo.gov/link/plaw/105/public/33), §§ 5565, 5581(b)(1), Aug. 5, 1997, [111 Stat. 639](https://www.govinfo.gov/link/statute/111/639), 642; [Pub. L. 105–306, § 5(b)](https://www.govinfo.gov/link/plaw/105/public/306), Oct. 28, 1998, [112 Stat. 2927](https://www.govinfo.gov/link/statute/112/2927).)*

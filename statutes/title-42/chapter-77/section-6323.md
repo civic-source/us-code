@@ -3,9 +3,10 @@ title: "Section 6323 - Federal assistance to States"
 usc_title: 42
 usc_section: "6323"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6323"
-generated_at: "2026-03-30T02:56:11.256Z"
+generated_at: "2026-11-23T21:26:32.928Z"
+status: "active"
 ---
 
 # § 6323. Federal assistance to States
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.256Z"
   - **(1)** such State, or a majority of the units of local government with jurisdiction over building energy codes within such State, has adopted codes for energy efficiency in new buildings that are at least as stringent as American Society of Heating, Refrigerating, and Air-Conditioning Engineers Standard 90.1–1989 (with respect to commercial buildings) and Council of American Building Officials Model Energy Code, 1992 (with respect to residential buildings);
   - **(2)** such State has established a program, including a revolving fund, to finance energy efficiency improvement projects in State and local government facilities and buildings; and
   - **(3)** such State has obtained funding from non-Federal sources, including but not limited to, oil overcharge funds, State or local government appropriations, or utility contributions (including rebates) equal to or greater than three times the amount provided by the Secretary under this subsection for deposit into such revolving fund.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 363](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 934](https://www.govinfo.gov/link/statute/89/934); [Pub. L. 94–385, title IV, § 432(b)](https://www.govinfo.gov/link/plaw/94/public/385), (c), Aug. 14, 1976, [90 Stat. 1162](https://www.govinfo.gov/link/statute/90/1162); [Pub. L. 95–619, title VI, § 691(b)(2)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3288](https://www.govinfo.gov/link/statute/92/3288); [Pub. L. 101–440, § 3(b)](https://www.govinfo.gov/link/plaw/101/public/440), Oct. 18, 1990, [104 Stat. 1007](https://www.govinfo.gov/link/statute/104/1007); [Pub. L. 102–486, title I, § 141(a)(1)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2840](https://www.govinfo.gov/link/statute/106/2840); [Pub. L. 117–58, div. D, title I, § 40108(c)(2)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 944](https://www.govinfo.gov/link/statute/135/944).)*

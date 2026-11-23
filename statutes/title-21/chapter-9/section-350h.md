@@ -3,9 +3,10 @@ title: "Section 350h - Standards for produce safety"
 usc_title: 21
 usc_section: "350h"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 350h"
-generated_at: "2026-03-30T02:54:54.228Z"
+generated_at: "2026-11-23T21:25:56.007Z"
+status: "active"
 ---
 
 # § 350h. Standards for produce safety
@@ -74,3 +75,9 @@ generated_at: "2026-03-30T02:54:54.228Z"
   - **(6)** Nothing in this subsection shall prevent the Secretary from exercising any authority granted in the other sections of this chapter.
 - **(g)** This section shall not apply to produce that is produced by an individual for personal consumption.
 - **(h)** This section shall not apply to activities of a facility that are subject to section 350g of this title .
+
+“When publishing a final rule with respect to ‘Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption’ published by the Department of Health and Human Services on January 16, 2013 (78 Fed. Reg. 3504), the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall ensure that the final rule (referred to in this section as the ‘final rule’) includes the following information:
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 419, as added [Pub. L. 111–353, title I, § 105(a)](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3899](https://www.govinfo.gov/link/statute/124/3899).)*

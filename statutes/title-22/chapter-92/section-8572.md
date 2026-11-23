@@ -3,9 +3,10 @@ title: "Section 8572 - Imposition of sanctions with respect to Iranian petroleum
 usc_title: 22
 usc_section: "8572"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8572"
-generated_at: "2026-03-30T02:55:05.454Z"
+generated_at: "2026-11-23T21:25:58.747Z"
+status: "active"
 ---
 
 # § 8572. Imposition of sanctions with respect to Iranian petroleum
@@ -66,3 +67,9 @@ generated_at: "2026-03-30T02:55:05.454Z"
     - **(C)** section 2780 of this title ; or
     - **(D)** any other provision of law; and
   - **(2)** Iran has ceased the pursuit, acquisition, and development of, and verifiably dismantled, its nuclear, biological, and chemical weapons, ballistic missiles, and ballistic missile launch technology.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*([Pub. L. 118–50, div. J, § 3](https://www.govinfo.gov/link/plaw/118/public/50), Apr. 24, 2024, [138 Stat. 963](https://www.govinfo.gov/link/statute/138/963).)*

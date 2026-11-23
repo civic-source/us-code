@@ -3,9 +3,10 @@ title: "Section 1378a - Report on aliens detained"
 usc_title: 8
 usc_section: "1378a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1378a"
-generated_at: "2026-03-30T02:53:10.499Z"
+generated_at: "2026-11-23T21:25:25.189Z"
+status: "active"
 ---
 
 # § 1378a. Report on aliens detained
@@ -43,3 +44,9 @@ Not later than 7 days after December 20, 2019 , and updated semimonthly thereaft
     - **(K)** the date of the two most recent inspections, the entity that performed each inspection, and a detailed summary of the results of such inspections; and
     - **(L)** the guaranteed minimum detention capacity, if applicable; and
   - **(4)** the total number of releases from custody, by condition of release, and total number of removals, disaggregated by adult facilities and family facilities.
+
+“The reports required to be submitted under section 218 of the Department of Homeland Security Appropriations Act, 2020 (division D of Public Law 116–93 ) [ 8 U.S.C. 1378a ] shall continue to be submitted with respect to the period beginning 15 days after the date of the enactment of this Act [ Dec. 27, 2020 ] and semimonthly thereafter, and each matter required to be included in such report by such section 218 shall apply in the same manner and to the same extent during the period described in this section, except that for purposes of reports submitted with respect to such period described, the following additional requirements shall be treated as being included as subparagraphs (H) through (J) of paragraph (1) of such section 218—
+
+## Source Credit
+
+*([Pub. L. 116–93, div. D, title II, § 218](https://www.govinfo.gov/link/plaw/116/public/93), Dec. 20, 2019, [133 Stat. 2514](https://www.govinfo.gov/link/statute/133/2514).)*

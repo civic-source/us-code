@@ -3,9 +3,10 @@ title: "Section 4044 - Definitions"
 usc_title: 22
 usc_section: "4044"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4044"
-generated_at: "2026-03-30T02:55:05.402Z"
+generated_at: "2026-11-23T21:25:58.613Z"
+status: "active"
 ---
 
 # § 4044. Definitions
@@ -55,3 +56,33 @@ As used in this part, unless otherwise specified, the term—
       - **(ii)** are sufficiently rigorous that employment opportunities should be limited to young and physically vigorous individuals, as determined by the Secretary of State pursuant to section 4823 of this title ;
     - **(B)** performing duties described in subparagraph (A) before, on, or after November 13, 1998 ; or
     - **(C)** transferred directly to a position which is supervisory or administrative in nature after performing duties described in subparagraph (A) for at least 3 years.
+
+In General
+
+Election for Current Participants.—
+
+Eligibility
+
+Effect of an election.—
+
+In general
+
+Treatment of prior service.—
+
+Special contribution
+
+Actuarial reduction.—
+
+Rule if the special contribution is paid
+
+Rule if less than the entire amount is paid
+
+Regulations and Notice
+
+Election Deadline
+
+Definition
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 804](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2102](https://www.govinfo.gov/link/statute/94/2102); [Pub. L. 99–335, title IV](https://www.govinfo.gov/link/plaw/99/public/335), §§ 402(a)(2), (3), 403, 404(a), June 6, 1986, [100 Stat. 609](https://www.govinfo.gov/link/statute/100/609), 610; [Pub. L. 100–238, title II, § 211](https://www.govinfo.gov/link/plaw/100/public/238), Jan. 8, 1988, [101 Stat. 1773](https://www.govinfo.gov/link/statute/101/1773); [Pub. L. 105–382, § 2(a)(1)](https://www.govinfo.gov/link/plaw/105/public/382), Nov. 13, 1998, [112 Stat. 3406](https://www.govinfo.gov/link/statute/112/3406).)*

@@ -3,9 +3,10 @@ title: "Section 17353 - Duties of Foundation"
 usc_title: 42
 usc_section: "17353"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17353"
-generated_at: "2026-03-30T02:56:11.505Z"
+generated_at: "2026-11-23T21:26:33.788Z"
+status: "active"
 ---
 
 # § 17353. Duties of Foundation
@@ -18,3 +19,7 @@ The Foundation shall—
   - **(4)** create a repository of information on best practices and lessons learned on the utilization and implementation of clean and efficient energy technologies and processes to be used for future initiatives to tackle the climate change crisis;
   - **(5)** be committed to minimizing administrative costs and to maximizing the availability of funds for grants under this part; and
   - **(6)** promote the use of American-made clean and efficient energy technologies, processes, and services by giving preference to entities incorporated in the United States and whose technology will be substantially manufactured in the United States.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IX, § 923](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1735](https://www.govinfo.gov/link/statute/121/1735).)*

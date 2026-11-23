@@ -3,9 +3,10 @@ title: "Section 1723 - State Digital Equity Capacity Grant Program"
 usc_title: 47
 usc_section: "1723"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1723"
-generated_at: "2026-03-30T02:56:24.539Z"
+generated_at: "2026-11-23T21:26:36.124Z"
+status: "active"
 ---
 
 # § 1723. State Digital Equity Capacity Grant Program
@@ -214,3 +215,31 @@ generated_at: "2026-03-30T02:56:24.539Z"
     - **(A)** $240,000,000 for fiscal year 2022; and
     - **(B)** $300,000,000 for each of fiscal years 2023 through 2026; and
   - **(3)** such sums as may be necessary to carry out this section for each fiscal year after the end of the 5-fiscal year period described in paragraph (2).
+
+(aa) individuals who are English learners; and
+
+(bb) individuals who have low levels of literacy;
+
+(aa) the annual inquiry of the Federal Communications Commission conducted under section 1302(b) of this title ;
+
+(bb) the American Community Survey or, if necessary, other data collected by the Bureau of the Census;
+
+(cc) the NTIA Internet Use Survey, which is administered as the Computer and Internet Use Supplement to the Current Population Survey of the Bureau of the Census; and
+
+(dd) any other source that the Assistant Secretary, after appropriate notice and opportunity for public comment, determines to be appropriate.
+
+(aa) assist in the implementation of the State Digital Equity Plan of the State;
+
+(bb) pursue digital inclusion activities in the State consistent with the State Digital Equity Plan of the State; and
+
+(cc) report to the State regarding the digital inclusion activities of the entity.
+
+(aa) the entity shall carry out the activities required under items (aa), (bb), and (cc) of that subclause;
+
+(bb) the receipt of the grant shall not result in unjust enrichment of the entity; and
+
+(cc) the entity shall cooperate with any evaluation— (AA) of any program that relates to a grant awarded to the entity; and (BB) that is carried out by or for the administering entity, the Assistant Secretary, or another Federal official.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. F, title III, § 60304](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1212](https://www.govinfo.gov/link/statute/135/1212).)*

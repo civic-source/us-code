@@ -3,9 +3,10 @@ title: "Section 1769i - Program evaluation"
 usc_title: 42
 usc_section: "1769i"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1769i"
-generated_at: "2026-03-30T02:56:11.118Z"
+generated_at: "2026-11-23T21:26:32.167Z"
+status: "active"
 ---
 
 # § 1769i. Program evaluation
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:11.118Z"
     - **(B)** The protections of section 1758(b)(6) of this title shall apply to any study or pilot project carried out under this subsection.
   - **(5)** There is authorized to be appropriated to carry out this subsection such sums as are necessary.
 - **(c)** States, State educational agencies, local educational agencies, schools, institutions, facilities, and contractors participating in programs authorized under this chapter and the Child Nutrition Act of 1966 ( 42 U.S.C. 1771 et seq.) shall cooperate with officials and contractors acting on behalf of the Secretary, in the conduct of evaluations and studies under those Acts.
+
+## Source Credit
+
+*(June 4, 1946, ch. 281, § 28, as added [Pub. L. 108–265, title I, § 129](https://www.govinfo.gov/link/plaw/108/public/265), June 30, 2004, [118 Stat. 767](https://www.govinfo.gov/link/statute/118/767); amended [Pub. L. 111–296, title III, § 305](https://www.govinfo.gov/link/plaw/111/public/296), Dec. 13, 2010, [124 Stat. 3243](https://www.govinfo.gov/link/statute/124/3243).)*

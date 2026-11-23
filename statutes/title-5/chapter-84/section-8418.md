@@ -3,9 +3,10 @@ title: "Section 8418 - Survivor elections; deposit; offsets"
 usc_title: 5
 usc_section: "8418"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8418"
-generated_at: "2026-03-30T02:52:56.055Z"
+generated_at: "2026-11-23T21:25:23.414Z"
+status: "active"
 ---
 
 # § 8418. Survivor elections; deposit; offsets
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:52:56.055Z"
   - **(1)** the employee or Member makes an election under section 8416(b) or (c) after having made an election under section 8420; and
   - **(2)** the election under such section 8420 becomes void under subsection (b)(3) or (c)(2) of such section 8416.
 - **(d)** The Office shall prescribe regulations under which the survivor of an employee or Member may make a deposit under this section.
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 530](https://www.govinfo.gov/link/statute/100/530); amended [Pub. L. 103–66, title XI, § 11004(b)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 412](https://www.govinfo.gov/link/statute/107/412).)*

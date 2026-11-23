@@ -3,9 +3,10 @@ title: "Section 1140g - Model comprehensive transition and postsecondary program
 usc_title: 20
 usc_section: "1140g"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1140g"
-generated_at: "2026-03-30T02:54:48.148Z"
+generated_at: "2026-11-23T21:25:47.256Z"
+status: "active"
 ---
 
 # § 1140g. Model comprehensive transition and postsecondary programs for students with intellectual disabilities
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:48.148Z"
 - **(f)** Not later than five years after the date of the first grant awarded under this section, the Secretary shall prepare and disseminate a report to the authorizing committees and to the public that—
   - **(1)** reviews the activities of the model comprehensive transition and postsecondary programs for students with intellectual disabilities funded under this section; and
   - **(2)** provides guidance and recommendations on how effective model programs can be replicated.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VII, § 767](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title VII, § 709(2)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3365](https://www.govinfo.gov/link/statute/122/3365).)*

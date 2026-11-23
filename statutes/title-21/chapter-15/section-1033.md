@@ -3,9 +3,10 @@ title: "Section 1033 - Definitions"
 usc_title: 21
 usc_section: "1033"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 1033"
-generated_at: "2026-03-30T02:54:54.300Z"
+generated_at: "2026-11-23T21:25:56.267Z"
+status: "active"
 ---
 
 # § 1033. Definitions
@@ -62,3 +63,7 @@ For purposes of this chapter—
 - **(x)** The term “Secretary” means the Secretary of Agriculture or his delegate.
 - **(y)** The term “State” means any State of the United States, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, and the District of Columbia.
 - **(z)** The term “United States” means the States.
+
+## Source Credit
+
+*([Pub. L. 91–597, § 4](https://www.govinfo.gov/link/plaw/91/public/597), Dec. 29, 1970, [84 Stat. 1621](https://www.govinfo.gov/link/statute/84/1621); [Pub. L. 102–571, title I, § 107(15)](https://www.govinfo.gov/link/plaw/102/public/571), Oct. 29, 1992, [106 Stat. 4499](https://www.govinfo.gov/link/statute/106/4499).)*

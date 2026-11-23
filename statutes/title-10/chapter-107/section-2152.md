@@ -3,9 +3,10 @@ title: "Section 2152 - Joint professional military education: general requiremen
 usc_title: 10
 usc_section: "2152"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2152"
-generated_at: "2026-03-30T02:53:38.144Z"
+generated_at: "2026-11-23T21:25:32.561Z"
+status: "active"
 ---
 
 # § 2152. Joint professional military education: general requirements
@@ -15,3 +16,13 @@ generated_at: "2026-03-30T02:53:38.144Z"
 - **(c)** The Secretary of Defense shall require that each Department of Defense school concerned with professional military education periodically review and revise its curriculum for senior and intermediate grade officers in order to strengthen the focus on—
   - **(1)** joint matters; and
   - **(2)** preparing officers for joint duty assignments.
+
+In General
+
+Joint Military Education Schools
+
+Other Professional Military Education Schools
+
+## Source Credit
+
+*(Added and amended [Pub. L. 108–375, div. A, title V, § 532(a)(2)](https://www.govinfo.gov/link/plaw/108/public/375), (b), Oct. 28, 2004, [118 Stat. 1897](https://www.govinfo.gov/link/statute/118/1897), 1900.)*

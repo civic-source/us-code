@@ -3,9 +3,10 @@ title: "Section 2007 - Allotment formula"
 usc_title: 25
 usc_section: "2007"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2007"
-generated_at: "2026-03-30T02:54:52.832Z"
+generated_at: "2026-11-23T21:25:54.650Z"
+status: "active"
 ---
 
 # § 2007. Allotment formula
@@ -74,3 +75,7 @@ generated_at: "2026-03-30T02:54:52.832Z"
 - **(i)**
   - **(1)** Tuition for the instruction of each out-of-State Indian student in a home-living situation at the Richfield dormitory in Richfield, Utah, who attends Sevier County high schools in Richfield, Utah, for an academic year, shall be paid from Indian school equalization program funds authorized in this section and section 2009 2 of this title, at a rate not to exceed the weighted amount provided for under subsection (b) for a student for that year.
   - **(2)** No additional administrative cost funds shall be provided under this chapter to pay for administrative costs relating to the instruction of the students.
+
+## Source Credit
+
+*([Pub. L. 95–561, title XI, § 1127](https://www.govinfo.gov/link/plaw/95/public/561), as added [Pub. L. 107–110, title X, § 1042](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2028](https://www.govinfo.gov/link/statute/115/2028).)*

@@ -3,9 +3,10 @@ title: "Section 142 - Definitions"
 usc_title: 15
 usc_section: "142"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 142"
-generated_at: "2026-03-30T02:54:08.073Z"
+generated_at: "2026-11-23T21:25:39.606Z"
+status: "active"
 ---
 
 # § 142. Definitions
@@ -18,3 +19,7 @@ When used in this chapter, unless the context otherwise indicates—
 - **(d)** The term “Federal district court” means any Federal district court, and the United States District Court for the District of Columbia;
 - **(e)** The term “Secretary” means the Secretary of Commerce; and
 - **(f)** The term “registrar” means the China Trade Act registrar appointed under section 143 of this title .
+
+## Source Credit
+
+*(Sept. 19, 1922, ch. 346, § 2, [42 Stat. 849](https://www.govinfo.gov/link/statute/42/849); June 25, 1936, ch. 804, [49 Stat. 1921](https://www.govinfo.gov/link/statute/49/1921); Treaty Jan. 11, 1943, [57 Stat. 767](https://www.govinfo.gov/link/statute/57/767); June 25, 1948, ch. 646, § 32(a), [62 Stat. 991](https://www.govinfo.gov/link/statute/62/991); May 24, 1949, ch. 139, § 127, [63 Stat. 107](https://www.govinfo.gov/link/statute/63/107).)*

@@ -3,9 +3,10 @@ title: "Section 1502 - Cost accounting standards"
 usc_title: 41
 usc_section: "1502"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 1502"
-generated_at: "2026-03-30T02:55:55.802Z"
+generated_at: "2026-11-23T21:26:18.782Z"
+status: "active"
 ---
 
 # § 1502. Cost accounting standards
@@ -47,3 +48,132 @@ generated_at: "2026-03-30T02:55:55.802Z"
   - **(1)** disclose in writing their cost accounting practices, including methods of distinguishing direct costs from indirect costs and the basis used for allocating indirect costs; and
   - **(2)** agree to a contract price adjustment, with interest, for any increased costs paid to the contractor or subcontractor by the Federal Government because of a change in the contractor’s or subcontractor’s cost accounting practices or a failure by the contractor or subcontractor to comply with applicable cost accounting standards.
 - **(g)** Functions exercised under this chapter are not subject to sections 551, 553 to 559, and 701 to 706 of title 5.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1502(a) | 41:422(f)(1), (3). | Pub. L. 93–400, § 26(f) , as added Pub. L. 100–679, § 5(a) , Nov. 17, 1988 , 102 Stat. 4060 ; Pub. L. 103–355, title II, § 2453 , title VIII, § 8301(d), Oct. 13, 1994 , 108 Stat. 3326 , 3397; Pub. L. 104–106, title XLII, § 4205 , title XLIII, § 4321(h)(4), Feb. 10, 1996 , 110 Stat. 656 , 675; Pub. L 106–65, title VIII, § 802(a), (b), Oct. 5, 1999 , 113 Stat. 701 ; Pub. L 109–163, div. A, title VIII, § 822, Jan. 6, 2006 , 119 Stat. 3386 . |
+| 1502(b)(1) | 41:422(f)(2), (4). |  |
+| 1502(b)(2) | 41:422(f)(4). |  |
+| 1502(b)(3) | 41:422(f)(5). |  |
+| 1502(c) | 41:422(g)(1). | Pub. L. 93–400, § 26(g) , (h)(1), as added Pub. L. 100–679, § 5(a) , Nov. 17, 1988 , 102 Stat. 4061 . |
+| 1502(d) | 41:422(g)(2) (1st, 2d sentences). |  |
+| 1502(e) | 41:422(g)(2) (last sentence). |  |
+| 1502(f) | 41:422(h)(1). |  |
+| 1502(g) | 41:422(g)(3). |  |
+
+
+Authority.—
+
+Cost accounting standards board
+
+Administrator for federal procurement policy
+
+Mandatory Use of Standards.—
+
+Subcontract.—
+
+Definition
+
+When standards are to be used
+
+Nonapplication of standards
+
+Exemptions and waivers by board
+
+Waiver by head of executive agency.—
+
+In general
+
+In exceptional circumstances
+
+Restriction on delegation of authority
+
+Contents of federal acquisition regulation
+
+Report
+
+Required Board Action for Prescribing Standards and Interpretations
+
+Effective Dates
+
+Accompanying Material
+
+Implementing Regulations
+
+Nonapplicability of Certain Sections of Title
+
+Historical and Revision Notes
+
+1502(a)
+
+Pub. L. 93–400, § 26(f)
+
+Pub. L. 100–679, § 5(a)
+
+Nov. 17, 1988
+
+102 Stat. 4060
+
+Pub. L. 103–355, title II, § 2453
+
+Oct. 13, 1994
+
+108 Stat. 3326
+
+Pub. L. 104–106, title XLII, § 4205
+
+Feb. 10, 1996
+
+110 Stat. 656
+
+Oct. 5, 1999
+
+113 Stat. 701
+
+Jan. 6, 2006
+
+119 Stat. 3386
+
+1502(b)(1)
+
+1502(b)(2)
+
+1502(b)(3)
+
+1502(c)
+
+Pub. L. 93–400, § 26(g)
+
+Pub. L. 100–679, § 5(a)
+
+Nov. 17, 1988
+
+102 Stat. 4061
+
+1502(d)
+
+1502(e)
+
+1502(f)
+
+1502(g)
+
+Regulation on Types of CAS Coverage
+
+Implementation
+
+Implementation of Requirements for Revision of Regulations
+
+Inapplicability of Standards to Certain Contracts
+
+Construction Regarding Certain Not-For-Profit Entities
+
+Effective Date
+
+In general
+
+Department of defense
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3696](https://www.govinfo.gov/link/statute/124/3696); [Pub. L. 114–328, div. A, title VIII, § 820(a)(2)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2274](https://www.govinfo.gov/link/statute/130/2274); [Pub. L. 115–232, div. A, title VIII, § 836(b)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1860](https://www.govinfo.gov/link/statute/132/1860); [Pub. L. 117–81, div. A, title XVII, § 1702(h)(3)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2158](https://www.govinfo.gov/link/statute/135/2158); [Pub. L. 119–60, div. A, title XVIII, § 1806(d)(1)](https://www.govinfo.gov/link/plaw/119/public/60), (2), (e), Dec. 18, 2025, [139 Stat. 1239](https://www.govinfo.gov/link/statute/139/1239), 1240.)*

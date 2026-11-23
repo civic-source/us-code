@@ -3,9 +3,10 @@ title: "Section 8902a - Debarment and other sanctions"
 usc_title: 5
 usc_section: "8902a"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8902a"
-generated_at: "2026-03-30T02:52:56.067Z"
+generated_at: "2026-11-23T21:25:23.449Z"
+status: "active"
 ---
 
 # § 8902a. Debarment and other sanctions
@@ -78,3 +79,15 @@ generated_at: "2026-03-30T02:52:56.067Z"
   - **(3)** Matters that were raised or that could have been raised in a hearing under paragraph (1) or an appeal under paragraph (2) may not be raised as a defense to a civil action by the United States to collect a penalty or assessment imposed under this section.
 - **(i)** A civil action to recover civil monetary penalties or assessments under subsection (d) shall be brought by the Attorney General in the name of the United States, and may be brought in the United States district court for the district where the claim involved was presented or where the person subject to the penalty resides. Amounts recovered under this section shall be paid to the Office for deposit into the Employees Health Benefits Fund. The amount of a penalty or assessment as finally determined by the Office, or other amount the Office may agree to in compromise, may be deducted from any sum then or later owing by the United States to the party against whom the penalty or assessment has been levied.
 - **(j)** The Office shall prescribe regulations under which, with respect to services or supplies furnished by a debarred provider to a covered individual during the period of such provider’s debarment, payment or reimbursement under this chapter may be made, notwithstanding the fact of such debarment, if such individual did not know or could not reasonably be expected to have known of the debarment. In any such instance, the carrier involved shall take appropriate measures to ensure that the individual is informed of the debarment and the minimum period of time remaining under the terms of the debarment.
+
+In general
+
+Exceptions
+
+Applicability
+
+Prior Conduct Not To Be Considered
+
+## Source Credit
+
+*(Added [Pub. L. 100–654, title I, § 101(a)](https://www.govinfo.gov/link/plaw/100/public/654), Nov. 14, 1988, [102 Stat. 3837](https://www.govinfo.gov/link/statute/102/3837); amended [Pub. L. 105–266, § 2(a)](https://www.govinfo.gov/link/plaw/105/public/266), Oct. 19, 1998, [112 Stat. 2363](https://www.govinfo.gov/link/statute/112/2363).)*

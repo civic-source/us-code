@@ -3,9 +3,10 @@ title: "Section 6512 - Limitations in case of petition to Tax Court"
 usc_title: 26
 usc_section: "6512"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6512"
-generated_at: "2026-03-30T02:55:27.858Z"
+generated_at: "2026-11-23T21:26:06.893Z"
+status: "active"
 ---
 
 # § 6512. Limitations in case of petition to Tax Court
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:27.858Z"
 - **(c)**
   - **(1)** For provisions allowing determination of tax in title 11 cases, see section 505(a) of title 11 of the United States Code.
   - **(2)** For provision giving the Tax Court jurisdiction to award reasonable litigation costs in proceedings to enforce an overpayment determined by such court, see section 7430.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 811; [Pub. L. 87–870, § 4](https://www.govinfo.gov/link/plaw/87/public/870), Oct. 23, 1962, [76 Stat. 1161](https://www.govinfo.gov/link/statute/76/1161); [Pub. L. 91–172, title I, § 101(j)(47)](https://www.govinfo.gov/link/plaw/91/public/172), (48), title IX, § 960(b), Dec. 30, 1969, [83 Stat. 531](https://www.govinfo.gov/link/statute/83/531), 734; [Pub. L. 91–614, title I, § 102(d)(9)](https://www.govinfo.gov/link/plaw/91/public/614), Dec. 31, 1970, [84 Stat. 1842](https://www.govinfo.gov/link/statute/84/1842); [Pub. L. 93–406, title II, § 1016(a)(16)](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 930](https://www.govinfo.gov/link/statute/88/930); [Pub. L. 94–455, title XIII, § 1307(d)(2)(F)(vii)](https://www.govinfo.gov/link/plaw/94/public/455), title XVI, § 1605(b)(9), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1728](https://www.govinfo.gov/link/statute/90/1728), 1755, 1834; [Pub. L. 95–600, title II, § 212(b)(2)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2819](https://www.govinfo.gov/link/statute/92/2819); [Pub. L. 96–223, title I, § 101(f)(6)](https://www.govinfo.gov/link/plaw/96/public/223), Apr. 2, 1980, [94 Stat. 253](https://www.govinfo.gov/link/statute/94/253); [Pub. L. 96–589, § 6(d)(3)](https://www.govinfo.gov/link/plaw/96/public/589), Dec. 24, 1980, [94 Stat. 3408](https://www.govinfo.gov/link/statute/94/3408); [Pub. L. 97–248, title IV, § 402(c)(8)](https://www.govinfo.gov/link/plaw/97/public/248), (9), Sept. 3, 1982, [96 Stat. 668](https://www.govinfo.gov/link/statute/96/668); [Pub. L. 100–418, title I, § 1941(b)(2)(J)](https://www.govinfo.gov/link/plaw/100/public/418), (K), Aug. 23, 1988, [102 Stat. 1323](https://www.govinfo.gov/link/statute/102/1323); [Pub. L. 100–647, title VI](https://www.govinfo.gov/link/plaw/100/public/647), §§ 6244(a), (b)(2), 6246(b)(1), 6247(b)(1), Nov. 10, 1988, [102 Stat. 3750–3752](https://www.govinfo.gov/link/statute/102/3750); [Pub. L. 105–34, title XII](https://www.govinfo.gov/link/plaw/105/public/34), §§ 1239(c)(2), 1282(a), title XIV, § 1451(a), (b), Aug. 5, 1997, [111 Stat. 1028](https://www.govinfo.gov/link/statute/111/1028), 1037, 1054; [Pub. L. 105–206, title III, § 3464(b)](https://www.govinfo.gov/link/plaw/105/public/206), (c), July 22, 1998, [112 Stat. 767](https://www.govinfo.gov/link/statute/112/767); [Pub. L. 106–554, § 1(a)(7) [title III, § 319(19)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–647; [Pub. L. 114–74, title XI, § 1101(f)(7)](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 638](https://www.govinfo.gov/link/statute/129/638).)*

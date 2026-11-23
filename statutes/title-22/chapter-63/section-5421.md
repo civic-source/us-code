@@ -3,9 +3,10 @@ title: "Section 5421 - Enterprise Funds for Poland and Hungary"
 usc_title: 22
 usc_section: "5421"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5421"
-generated_at: "2026-03-30T02:55:05.417Z"
+generated_at: "2026-11-23T21:25:58.661Z"
+status: "active"
 ---
 
 # § 5421. Enterprise Funds for Poland and Hungary
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:55:05.417Z"
     - **(C)** such other records as will facilitate an effective audit; and
   - **(2)** that the Enterprise Funds, or any of their duly authorized representatives, have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient that are pertinent to assistance provided through the Enterprise Funds under this section.
 - **(p)** Each Enterprise Fund shall publish an annual report, which shall include a comprehensive and detailed description of the Enterprise Fund’s operations, activities, financial condition, and accomplishments under this section for the preceding fiscal year. This report shall be published not later than January 31 each year, beginning in 1991.
+
+## Source Credit
+
+*([Pub. L. 101–179, title II, § 201](https://www.govinfo.gov/link/plaw/101/public/179), Nov. 28, 1989, [103 Stat. 1305](https://www.govinfo.gov/link/statute/103/1305); [Pub. L. 104–107, title II](https://www.govinfo.gov/link/plaw/104/public/107), [(v)], Feb. 12, 1996, [110 Stat. 714](https://www.govinfo.gov/link/statute/110/714); [Pub. L. 105–118, title V, § 588](https://www.govinfo.gov/link/plaw/105/public/118), Nov. 26, 1997, [111 Stat. 2438](https://www.govinfo.gov/link/statute/111/2438); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 115–254, div. F, title VI, § 1470(m)(2)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3518](https://www.govinfo.gov/link/statute/132/3518).)*

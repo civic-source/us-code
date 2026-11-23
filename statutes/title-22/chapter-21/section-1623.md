@@ -3,9 +3,10 @@ title: "Section 1623 - Claims"
 usc_title: 22
 usc_section: "1623"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1623"
-generated_at: "2026-03-30T02:55:05.334Z"
+generated_at: "2026-11-23T21:25:58.404Z"
+status: "active"
 ---
 
 # § 1623. Claims
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:05.334Z"
 - **(i)** The Commission may in its discretion enter an award with respect to one or more items deemed to have been clearly established in an individual claim while deferring consideration and action on other items of the same claim.
 - **(j)** The Commission shall comply with the provisions of subchapter II of chapter 5, and chapter 7, of title 5 except as otherwise specifically provided by this subchapter.
 - **(k)** In exercising authority granted after October 8, 1986 , under this chapter or any other Act, the Commission, in determining the value of claims of the Government of the United States or of nationals of the United States (as defined in this chapter or such other Act) against any foreign government for losses arising from the nationalization or other taking of property, shall comply with the principles set forth in subsection (a)(2) of this section.
+
+## Source Credit
+
+*(Mar. 10, 1950, ch. 54, title I, § 4, [64 Stat. 13](https://www.govinfo.gov/link/statute/64/13); Aug. 9, 1955, ch. 645, §§ 1, 2, [69 Stat. 562](https://www.govinfo.gov/link/statute/69/562); [Pub. L. 90–421, § 1(1)](https://www.govinfo.gov/link/plaw/90/public/421), July 24, 1968, [82 Stat. 420](https://www.govinfo.gov/link/statute/82/420); [Pub. L. 99–451, § 1](https://www.govinfo.gov/link/plaw/99/public/451), Oct. 8, 1986, [100 Stat. 1138](https://www.govinfo.gov/link/statute/100/1138); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. B, title XXII, § 2211, Oct. 21, 1998, [112 Stat. 2681–812](https://www.govinfo.gov/link/statute/112/2681).)*

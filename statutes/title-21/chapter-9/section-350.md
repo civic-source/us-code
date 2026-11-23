@@ -3,9 +3,10 @@ title: "Section 350 - Vitamins and minerals"
 usc_title: 21
 usc_section: "350"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 350"
-generated_at: "2026-03-30T02:54:54.225Z"
+generated_at: "2026-11-23T21:25:55.998Z"
+status: "active"
 ---
 
 # § 350. Vitamins and minerals
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:54.225Z"
     - **(A)** Supplying a special dietary need that exists by reason of a physical, physiological, pathological, or other condition, including but not limited to the condition of disease, convalescence, pregnancy, lactation, infancy, allergic hypersensitivity to food, underweight, overweight, or the need to control the intake of sodium.
     - **(B)** Supplying a vitamin, mineral, or other ingredient for use by man to supplement his diet by increasing the total dietary intake.
     - **(C)** Supplying a special dietary need by reason of being a food for use as the sole item of the diet.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 411, as added [Pub. L. 94–278, title V, § 501(a)](https://www.govinfo.gov/link/plaw/94/public/278), Apr. 22, 1976, [90 Stat. 410](https://www.govinfo.gov/link/statute/90/410); amended [Pub. L. 103–417](https://www.govinfo.gov/link/plaw/103/public/417), §§ 3(c), 7(d), Oct. 25, 1994, [108 Stat. 4328](https://www.govinfo.gov/link/statute/108/4328), 4331.)*

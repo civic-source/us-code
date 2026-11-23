@@ -3,9 +3,10 @@ title: "Section 2005 - Review schedule"
 usc_title: 43
 usc_section: "2005"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 2005"
-generated_at: "2026-03-30T02:55:57.495Z"
+generated_at: "2026-11-23T21:26:19.889Z"
+status: "active"
 ---
 
 # § 2005. Review schedule
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:57.495Z"
   - **(1)** Promptly after he receives an application for a proposed crude oil transportation system eligible for consideration under this chapter, the Secretary of the Interior shall submit to the Federal Trade Commission a copy of such application and such other information as the Commission may reasonably require. The Commission may prepare and submit to the President a report on the impact of implementation of such application upon competition and restraint of trade and on whether such implementation would be inconsistent with the antitrust laws. Such report shall be made available to the public. Nothing in this subsection shall be construed to prevent the President from making his decision under section 2007(a) of this title in the absence of such report.
   - **(2)** Nothing in this chapter shall bar the Attorney General or any other appropriate officer or agent of the United States from challenging any anticompetitive act or practice related to the ownership, construction, or operation of any crude oil transportation system approved under this chapter. The approval of any such system under this chapter shall not be deemed to convey to any person immunity from civil or criminal liability or to create defenses to actions under the antitrust laws and shall not modify or abridge any private right of action under such laws.
 - **(e)** Nothing in this chapter shall be construed to prevent the acceptance and review by any Federal agency of any application for any Federal permit, right-of-way, or other authorizations under other provisions of law for a crude oil transportation system eligible for consideration under this chapter; except that any determination with respect to such an application may be made only in accordance with the provisions of section 2009(a) of this title .
+
+## Source Credit
+
+*([Pub. L. 95–617, title V, § 505](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3158](https://www.govinfo.gov/link/statute/92/3158).)*

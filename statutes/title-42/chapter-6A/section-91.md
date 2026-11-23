@@ -3,9 +3,10 @@ title: "Section 91 - Definitions"
 usc_title: 42
 usc_section: "91"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 91"
-generated_at: "2026-03-30T02:56:10.836Z"
+generated_at: "2026-11-23T21:26:30.908Z"
+status: "active"
 ---
 
 # § 300gg–91. Definitions
@@ -112,3 +113,11 @@ generated_at: "2026-03-30T02:56:10.836Z"
     - **(B)** In the case of an employer which was not in existence throughout the preceding calendar year, the determination of whether such employer is a small or large employer shall be based on the average number of employees that it is reasonably expected such employer will employ on business days in the current calendar year.
     - **(C)** Any reference in this subsection to an employer shall include a reference to any predecessor of such employer.
   - **(7)** Notwithstanding paragraphs (2) and (4), nothing in this section shall prevent a State from applying this subsection by treating as a small employer, with respect to a calendar year and a plan year, an employer who employed an average of at least 1 but not more than 100 employees on business days during the preceding calendar year and who employs at least 1 employee on the first day of the plan year.
+
+Federal governmental plan
+
+Non-Federal governmental plan
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVII, § 2791, as added [Pub. L. 104–191, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 1972](https://www.govinfo.gov/link/statute/110/1972); amended [Pub. L. 110–233, title I, § 102(a)(4)](https://www.govinfo.gov/link/plaw/110/public/233), May 21, 2008, [122 Stat. 890](https://www.govinfo.gov/link/statute/122/890); [Pub. L. 111–148, title I, § 1563(b)](https://www.govinfo.gov/link/plaw/111/public/148), (c)(16), formerly § 1562(b), (c)(16), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 264](https://www.govinfo.gov/link/statute/124/264), 269, 911; [Pub. L. 114–60, § 2(b)](https://www.govinfo.gov/link/plaw/114/public/60), Oct. 7, 2015, [129 Stat. 543](https://www.govinfo.gov/link/statute/129/543); [Pub. L. 114–255, div. C, title XVIII, § 18001(c)(1)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1344](https://www.govinfo.gov/link/statute/130/1344).)*

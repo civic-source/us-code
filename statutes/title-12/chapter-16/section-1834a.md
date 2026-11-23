@@ -3,9 +3,10 @@ title: "Section 1834a - Assessment credits for qualifying activities relating to
 usc_title: 12
 usc_section: "1834a"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1834a"
-generated_at: "2026-03-30T02:53:53.464Z"
+generated_at: "2026-11-23T21:25:37.034Z"
+status: "active"
 ---
 
 # § 1834a. Assessment credits for qualifying activities relating to distressed communities
@@ -120,3 +121,13 @@ generated_at: "2026-03-30T02:53:53.464Z"
   - **(3)** The term “insured depository institution” has the meaning given to such term in section 1813(c)(2) of this title .
   - **(4)** The term “community development financial institution” has the same meaning as in section 4702(5) of this title .
   - **(5)** The term “affiliate” has the same meaning as in section 1841 of this title .
+
+Income
+
+Poverty
+
+Unemployment
+
+## Source Credit
+
+*([Pub. L. 102–242, title II, § 233](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2311](https://www.govinfo.gov/link/statute/105/2311); [Pub. L. 102–550, title IX, § 931(c)](https://www.govinfo.gov/link/plaw/102/public/550) –(e), title XVI, §§ 1604(b)(2), 1605(a)(7), Oct. 28, 1992, [106 Stat. 3888](https://www.govinfo.gov/link/statute/106/3888), 3889, 4083, 4086; [Pub. L. 102–558, title III](https://www.govinfo.gov/link/plaw/102/public/558), §§ 303(b)(2), (9), 305, Oct. 28, 1992, [106 Stat. 4224](https://www.govinfo.gov/link/statute/106/4224), 4226; [Pub. L. 103–325, title I, § 114(c)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2181](https://www.govinfo.gov/link/statute/108/2181).)*

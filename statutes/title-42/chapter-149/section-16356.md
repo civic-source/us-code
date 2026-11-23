@@ -3,9 +3,10 @@ title: "Section 16356 - Report on equal employment opportunity practices"
 usc_title: 42
 usc_section: "16356"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16356"
-generated_at: "2026-03-30T02:56:11.483Z"
+generated_at: "2026-11-23T21:26:33.735Z"
+status: "active"
 ---
 
 # § 16356. Report on equal employment opportunity practices
@@ -19,3 +20,7 @@ Not later than 12 months after August 8, 2005 , and biennially thereafter, the S
   - **(5)** a summary of outreach efforts to attract women and minorities to the National Laboratories;
   - **(6)** a summary of efforts to retain women and minorities in the National Laboratories; and
   - **(7)** a summary of collaboration efforts with the Office of Federal Contract Compliance Programs to improve equal employment opportunity practices at the National Laboratories.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 992](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 913](https://www.govinfo.gov/link/statute/119/913).)*

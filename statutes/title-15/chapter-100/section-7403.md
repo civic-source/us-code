@@ -3,9 +3,10 @@ title: "Section 7403 - National Science Foundation research"
 usc_title: 15
 usc_section: "7403"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7403"
-generated_at: "2026-03-30T02:54:08.221Z"
+generated_at: "2026-11-23T21:25:40.054Z"
+status: "active"
 ---
 
 # § 7403. National Science Foundation research
@@ -73,3 +74,7 @@ generated_at: "2026-03-30T02:54:08.221Z"
     - **(C)** $36,000,000 for fiscal year 2005;
     - **(D)** $36,000,000 for fiscal year 2006; and
     - **(E)** $36,000,000 for fiscal year 2007.
+
+## Source Credit
+
+*([Pub. L. 107–305, § 4](https://www.govinfo.gov/link/plaw/107/public/305), Nov. 27, 2002, [116 Stat. 2368](https://www.govinfo.gov/link/statute/116/2368); [Pub. L. 113–274, title II](https://www.govinfo.gov/link/plaw/113/public/274), §§ 201(e), 202, Dec. 18, 2014, [128 Stat. 2978](https://www.govinfo.gov/link/statute/128/2978); [Pub. L. 114–329, title I](https://www.govinfo.gov/link/plaw/114/public/329), §§ 104(a), 105(r), Jan. 6, 2017, [130 Stat. 2975](https://www.govinfo.gov/link/statute/130/2975), 2984.)*

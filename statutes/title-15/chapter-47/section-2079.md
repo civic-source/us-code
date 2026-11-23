@@ -3,9 +3,10 @@ title: "Section 2079 - Transfers of functions"
 usc_title: 15
 usc_section: "2079"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2079"
-generated_at: "2026-03-30T02:54:08.166Z"
+generated_at: "2026-11-23T21:25:39.912Z"
+status: "active"
 ---
 
 # § 2079. Transfers of functions
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:08.166Z"
   - **(3)** The provisions of this section shall not affect any proceedings pending at the time this section takes effect before any department or agency, functions of which are transferred by this section; except that such proceedings, to the extent that they relate to functions so transferred, shall be continued before the Commission. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this section had not been enacted; and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or repealed by the Commission, by a court of competent jurisdiction, or by operation of law.
   - **(4)** The provisions of this section shall not affect suits commenced prior to the date this section takes effect and in all such suits proceedings shall be had, appeals taken, and judgments rendered, in the same manner and effect as if this section had not been enacted; except that if before the date on which this section takes effect, any department or agency (or officer thereof in his official capacity) is a party to a suit involving functions transferred to the Commission, then such suit shall be continued by the Commission. No cause of action, and no suit, action, or other proceeding, by or against any department or agency (or officer thereof in his official capacity) functions of which are transferred by this section, shall abate by reason of the enactment of this section. Causes of actions, suits, actions, or other proceedings may be asserted by or against the United States or the Commission as may be appropriate and, in any litigation pending when this section takes effect, the court may at any time, on its own motion or that of any party, enter an order which will give effect to the provisions of this paragraph.
 - **(f)** For purposes of this section, (1) the term “function” includes power and duty, and (2) the transfer of a function, under any provision of law, of an agency or the head of a department shall also be a transfer of all functions under such law which are exercised by any office or officer of such agency, or department.
+
+## Source Credit
+
+*([Pub. L. 92–573, § 30](https://www.govinfo.gov/link/plaw/92/public/573), Oct. 27, 1972, [86 Stat. 1231](https://www.govinfo.gov/link/statute/86/1231); [Pub. L. 94–284](https://www.govinfo.gov/link/plaw/94/public/284), §§ 3(f), 16, May 11, 1976, [90 Stat. 504](https://www.govinfo.gov/link/statute/90/504), 510; [Pub. L. 100–418, title V, § 5115(c)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1433](https://www.govinfo.gov/link/statute/102/1433); [Pub. L. 110–314, title II, § 237](https://www.govinfo.gov/link/plaw/110/public/314), Aug. 14, 2008, [122 Stat. 3076](https://www.govinfo.gov/link/statute/122/3076).)*

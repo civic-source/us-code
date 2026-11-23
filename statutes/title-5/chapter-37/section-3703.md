@@ -3,9 +3,10 @@ title: "Section 3703 - Assignment of employees to private sector organizations"
 usc_title: 5
 usc_section: "3703"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3703"
-generated_at: "2026-03-30T02:52:56.007Z"
+generated_at: "2026-11-23T21:25:23.176Z"
+status: "active"
 ---
 
 # § 3703. Assignment of employees to private sector organizations
@@ -25,3 +26,25 @@ generated_at: "2026-03-30T02:52:56.007Z"
     - **(B)** of that total number, the number (and percentage) made to small business concerns; and
     - **(C)** the reasons for the agency’s noncompliance with paragraph (1).
   - **(4)** This subsection shall not apply to an agency in any year in which it makes fewer than 5 assignments under this chapter to private sector organizations.
+
+In General
+
+Coordination With Chapter
+
+Reimbursements
+
+Tort Liability; Supervision
+
+Small Business Concerns.—
+
+In general
+
+Definitions
+
+Reporting requirement
+
+Exclusion
+
+## Source Credit
+
+*(Added [Pub. L. 107–347, title II, § 209(c)(1)](https://www.govinfo.gov/link/plaw/107/public/347), Dec. 17, 2002, [116 Stat. 2926](https://www.govinfo.gov/link/statute/116/2926).)*

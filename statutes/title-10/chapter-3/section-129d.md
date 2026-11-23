@@ -3,9 +3,10 @@ title: "Section 129d - Disclosure to litigation support contractors"
 usc_title: 10
 usc_section: "129d"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 129d"
-generated_at: "2026-03-30T02:53:38.034Z"
+generated_at: "2026-11-23T21:25:32.214Z"
+status: "active"
 ---
 
 # § 129d. Disclosure to litigation support contractors
@@ -20,3 +21,11 @@ generated_at: "2026-03-30T02:53:38.034Z"
 - **(b)** In this section:
   - **(1)** The term “litigation support contractor” means a contractor (including an expert or technical consultant) under contract with the Department of Defense to provide litigation support.
   - **(2)** The term “sensitive information” means confidential commercial, financial, or proprietary information, technical data, or other privileged information.
+
+Disclosure Authority
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 112–81, div. A, title VIII, § 802(a)(1)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1484](https://www.govinfo.gov/link/statute/125/1484).)*

@@ -3,9 +3,10 @@ title: "Section 20503 - Grant program for notification and communications system
 usc_title: 34
 usc_section: "20503"
 chapter: 205
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20503"
-generated_at: "2026-03-30T02:55:33.298Z"
+generated_at: "2026-11-23T21:26:09.787Z"
+status: "active"
 ---
 
 # § 20503. Grant program for notification and communications systems along highways and major transportation routes for recovery of abducted children
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:33.298Z"
 - **(i)**
   - **(1)** The Secretary shall conduct a study to examine State barriers to the adoption and implementation of State programs for the use of communications systems along highways for alerts and other information for the recovery of abducted children.
   - **(2)** Not later than 1 year after April 30, 2003 , the Secretary shall transmit to Congress a report on the results of the study, together with any recommendations the Secretary determines appropriate.
+
+## Source Credit
+
+*([Pub. L. 108–21, title III, § 303](https://www.govinfo.gov/link/plaw/108/public/21), Apr. 30, 2003, [117 Stat. 662](https://www.govinfo.gov/link/statute/117/662); [Pub. L. 116–283, div. H, title C, § 10001(b)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4861](https://www.govinfo.gov/link/statute/134/4861).)*

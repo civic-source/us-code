@@ -3,9 +3,10 @@ title: "Section 7107 - Actions against governments failing to meet minimum stand
 usc_title: 22
 usc_section: "7107"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7107"
-generated_at: "2026-03-30T02:55:05.437Z"
+generated_at: "2026-11-23T21:25:58.710Z"
+status: "active"
 ---
 
 # § 7107. Actions against governments failing to meet minimum standards
@@ -97,3 +98,21 @@ generated_at: "2026-03-30T02:55:05.437Z"
   - **(6)** In this subsection, the term “multilateral development bank” refers to any of the following institutions: the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the Asian Development Bank, the Inter-American Investment Corporation, the African Development Bank, the African Development Fund, the European Bank for Reconstruction and Development, and the Multilateral Investment Guaranty Agency.
 - **(e)** Together with any notification under subsection (c), the President shall provide a certification by the Secretary of State that, with respect to any assistance described in clause (ii), (iii), or (v) of section 7102(8)(A) 2 2 See References in Text note below. of this title, or with respect to any assistance described in section 7102(8)(B) 2 of this title, no assistance is intended to be received or used by any agency or official who has participated in, facilitated, or condoned a severe form of trafficking in persons.
 - **(f)** After the President has made a determination described in subsection (d)(1) with respect to the government of a country, the President may at any time make a determination described in paragraphs (4) and (5) of subsection (d) to waive, in whole or in part, the measures imposed against the country by the previous determination under subsection (d)(1).
+
+In General
+
+In general
+
+Components
+
+“The Secretary of State shall—
+
+Donald J. Trump.
+
+Barack Obama.
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 106–386, div. A, § 110](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1482](https://www.govinfo.gov/link/statute/114/1482); [Pub. L. 108–193, § 6(e)](https://www.govinfo.gov/link/plaw/108/public/193), (h), (i), Dec. 19, 2003, [117 Stat. 2882](https://www.govinfo.gov/link/statute/117/2882), 2884; [Pub. L. 109–164, title I, § 104(e)(1)](https://www.govinfo.gov/link/plaw/109/public/164), Jan. 10, 2006, [119 Stat. 3565](https://www.govinfo.gov/link/statute/119/3565); [Pub. L. 110–457, title I](https://www.govinfo.gov/link/plaw/110/public/457), §§ 107(a), (b), 108(b), Dec. 23, 2008, [122 Stat. 5049](https://www.govinfo.gov/link/statute/122/5049), 5051; [Pub. L. 113–4, title XII](https://www.govinfo.gov/link/plaw/113/public/4), §§ 1205, 1212(b)(2)(A)(i), Mar. 7, 2013, [127 Stat. 139](https://www.govinfo.gov/link/statute/127/139), 143; [Pub. L. 115–425, title II, § 203](https://www.govinfo.gov/link/plaw/115/public/425), Jan. 8, 2019, [132 Stat. 5482](https://www.govinfo.gov/link/statute/132/5482); [Pub. L. 115–427, § 6](https://www.govinfo.gov/link/plaw/115/public/427), Jan. 9, 2019, [132 Stat. 5505](https://www.govinfo.gov/link/statute/132/5505); [Pub. L. 116–283, div. A, title XII, § 1299R(b)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4027](https://www.govinfo.gov/link/statute/134/4027).)*

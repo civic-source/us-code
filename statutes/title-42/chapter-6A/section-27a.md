@@ -3,9 +3,10 @@ title: "Section 27a - Spousal notification"
 usc_title: 42
 usc_section: "27a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 27a"
-generated_at: "2026-03-30T02:56:10.826Z"
+generated_at: "2026-11-23T21:26:30.866Z"
+status: "active"
 ---
 
 # § 300ff–27a. Spousal notification
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:10.826Z"
   - **(1)** The term “spouse” means any individual who is the marriage partner of an HIV-infected patient, or who has been the marriage partner of that patient at any time within the 10-year period prior to the diagnosis of HIV infection.
   - **(2)** The term “HIV-infected patient” means any individual who has been diagnosed to be infected with the human immunodeficiency virus.
   - **(3)** The term “State” means any of the 50 States, the District of Columbia, or any territory of the United States.
+
+## Source Credit
+
+*([Pub. L. 104–146, § 8](https://www.govinfo.gov/link/plaw/104/public/146), May 20, 1996, [110 Stat. 1372](https://www.govinfo.gov/link/statute/110/1372).)*

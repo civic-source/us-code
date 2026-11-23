@@ -3,12 +3,17 @@ title: "Section 230i - Report to Congressional committees"
 usc_title: 16
 usc_section: "230i"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 230i"
-generated_at: "2026-03-30T02:54:22.744Z"
+generated_at: "2026-11-23T21:25:51.397Z"
+status: "active"
 ---
 
 # § 230i. Report to Congressional committees
 
 By no later than the end of the first full fiscal year following November 10, 1978 , the Secretary shall submit to the Committee on Interior and Insular Affairs of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, a comprehensive report with recommendations as to sites within the Mississippi River Delta Region which constitute nationally significant examples of natural resources within that region.
 
+
+## Source Credit
+
+*([Pub. L. 95–625, title IX, § 910](https://www.govinfo.gov/link/plaw/95/public/625), Nov. 10, 1978, [92 Stat. 3538](https://www.govinfo.gov/link/statute/92/3538).)*

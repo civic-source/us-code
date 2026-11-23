@@ -3,9 +3,10 @@ title: "Section 53103 - Award of operating agreements"
 usc_title: 46
 usc_section: "53103"
 chapter: 531
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 53103"
-generated_at: "2026-03-30T02:56:15.572Z"
+generated_at: "2026-11-23T21:26:37.249Z"
+status: "active"
 ---
 
 # § 53103. Award of operating agreements
@@ -17,3 +18,21 @@ generated_at: "2026-03-30T02:56:15.572Z"
   - **(3)** The Secretary may award an operating agreement to an applicant that is eligible to enter into an operating agreement for fiscal years 2016 through 2040 if the existing contractor does not agree to the extended operating agreement under paragraph (2).
 - **(c)** The Secretary may enter into a new operating agreement with an applicant that meets the requirements of section 53102(c) (for vessels that meet the qualifications of section 53102(b)) on the basis of priority for vessel type established by military requirements of the Secretary of Defense. The Secretary shall allow an applicant at least 30 days to submit an application for a new operating agreement. After consideration of military requirements, priority shall be given to an applicant that is a United States citizen under section 50501 of this title . The Secretary may not approve an application without the consent of the Secretary of Defense. The Secretary shall enter into an operating agreement with the applicant or provide a written reason for denying the application.
 - **(d)** The Secretary may not award operating agreements under this chapter that require payments under section 53106 for a fiscal year for more than 60 vessels.
+
+In General
+
+Extension of Existing Operating Agreements.—
+
+Offer to extend
+
+Time limit
+
+Subsequent award
+
+Procedure for Awarding New Operating Agreements
+
+Limitation
+
+## Source Credit
+
+*(Added [Pub. L. 108–136, div. C, title XXXV, § 3531(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1808](https://www.govinfo.gov/link/statute/117/1808); amended [Pub. L. 109–304, § 13(a)(2)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1700](https://www.govinfo.gov/link/statute/120/1700); [Pub. L. 109–364, div. C, title XXXV, § 3502(b)(1)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2515](https://www.govinfo.gov/link/statute/120/2515); [Pub. L. 112–239, div. C, title XXXV, § 3508(c)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2224](https://www.govinfo.gov/link/statute/126/2224); [Pub. L. 116–92, div. C, title XXXV, § 3502(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1969](https://www.govinfo.gov/link/statute/133/1969); [Pub. L. 118–159, div. C, title XXXV, § 3502(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2304](https://www.govinfo.gov/link/statute/138/2304).)*

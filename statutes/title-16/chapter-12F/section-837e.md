@@ -3,12 +3,17 @@ title: "Section 837e - Transmission lines for other electric energy; rates"
 usc_title: 16
 usc_section: "837e"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 837e"
-generated_at: "2026-03-30T02:54:22.928Z"
+generated_at: "2026-11-23T21:25:51.784Z"
+status: "active"
 ---
 
 # § 837e. Transmission lines for other electric energy; rates
 
 Any capacity in Federal transmission lines connecting, either by themselves or with non-Federal lines, a generating plant in the Pacific Northwest or Canada with the other area or with any other area outside the Pacific Northwest, which is not required for the transmission of Federal energy or the energy described in section 837h of this title , shall be made available as a carrier for transmission of other electric energy between such areas. The transmission of other electric energy shall be at equitable rates determined by the Secretary, but such rates shall be subject to equitable adjustment at appropriate intervals not less frequently than once in every five years as agreed to by the parties. No contract for the transmission of non-Federal energy on a firm basis shall be affected by any increase, subsequent to the execution of such contract, in the requirements for transmission of Federal energy, the energy described in section 837h of this title , or other electric energy.
 
+
+## Source Credit
+
+*([Pub. L. 88–552, § 6](https://www.govinfo.gov/link/plaw/88/public/552), Aug. 31, 1964, [78 Stat. 758](https://www.govinfo.gov/link/statute/78/758).)*

@@ -3,9 +3,10 @@ title: "Section 14a - Data standards; open data publication"
 usc_title: 12
 usc_section: "14a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 14a"
-generated_at: "2026-03-30T02:53:53.369Z"
+generated_at: "2026-11-23T21:25:36.760Z"
+status: "active"
 ---
 
 # § 14a. Data standards; open data publication
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:53:53.369Z"
   - **(2)** freely available for download;
   - **(3)** rendered in a human-readable format; and
   - **(4)** accessible via application programming interface where appropriate.
+
+In General
+
+Scaling of Regulatory Requirements; Minimizing Disruption
+
+## Source Credit
+
+*(R.S. § 333, as added [Pub. L. 117–263, div. E, title LVIII, § 5841](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3431](https://www.govinfo.gov/link/statute/136/3431).)*

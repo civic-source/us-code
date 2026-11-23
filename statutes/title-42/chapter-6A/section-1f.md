@@ -3,9 +3,10 @@ title: "Section 1f - Prevention of falls among older adults"
 usc_title: 42
 usc_section: "1f"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1f"
-generated_at: "2026-03-30T02:56:10.726Z"
+generated_at: "2026-11-23T21:26:30.409Z"
+status: "active"
 ---
 
 # § 280b–1f. Prevention of falls among older adults
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:56:10.726Z"
 - **(e)**
   - **(1)** The Secretary may conduct a review of the effects of falls on health care costs, the potential for reducing falls, and the most effective strategies for reducing health care costs associated with falls.
   - **(2)** If the Secretary conducts the review under paragraph (1), the Secretary shall, not later than 36 months after April 23, 2008 , submit to Congress a report describing the findings of the Secretary in conducting such review.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 393D, as added [Pub. L. 110–202, § 2(2)](https://www.govinfo.gov/link/plaw/110/public/202), Apr. 23, 2008, [122 Stat. 697](https://www.govinfo.gov/link/statute/122/697).)*

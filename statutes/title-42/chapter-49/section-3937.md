@@ -3,9 +3,10 @@ title: "Section 3937 - National housing partnership"
 usc_title: 42
 usc_section: "3937"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3937"
-generated_at: "2026-03-30T02:56:11.193Z"
+generated_at: "2026-11-23T21:26:32.606Z"
+status: "active"
 ---
 
 # § 3937. National housing partnership
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.193Z"
 - **(f)** The partnership agreement may without limitation (1) permit each of the stockholders of the corporation to become a member of the partnership as a limited partner, (2) authorize the inclusion of other limited partners in addition to the stockholders of the corporation, (3) provide that the assignee of the partnership interest of a limited partner of the partnership who is also a stockholder of the corporation may not become a substituted limited partner unless he also acquires the assignor’s stock of the corporation, and (4) include provisions requiring that the corporation as a general partner approve the substitution or addition of a member of the partnership.
 - **(g)** A corporation which is a limited partner in the partnership shall not become liable as a general partner by reason of the fact that (1) such corporation is a holder of shares of voting stock of the corporation constituting not more than 5 per centum of the total number of outstanding shares of such stock and exercises any of the rights (including voting rights) of a holder of such shares, and/or (2) a person who is an officer or director of such corporation (or of another corporation which controls or is subject to the control of, or is under common control with, such corporation) is a director of the corporation and performs the duties of that office. The interest of a limited partner in the partnership shall not be treated as a stock interest in the corporation, notwithstanding that such interest of a limited partner may be proportionate to his stock interest in the corporation.
 - **(h)** The certificate of the partnership and any amendment thereof required by the District of Columbia Uniform Limited Partnership Act shall be executed and acknowledged by the corporation as member and by each other member of the partnership or his attorney-in-fact duly authorized by power of attorney in writing. The corporation may execute and acknowledge the certificate and any amendment thereof as attorney-in-fact for any member, member to be substituted or added, or assigning member, by whom the certificate or amendment is required to be executed and acknowledged and who has appointed the corporation as such attorney.
+
+## Source Credit
+
+*([Pub. L. 90–448, title IX, § 907](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 549](https://www.govinfo.gov/link/statute/82/549).)*

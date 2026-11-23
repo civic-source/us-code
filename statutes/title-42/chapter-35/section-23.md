@@ -3,9 +3,10 @@ title: "Section 23 - Nutrition services impact study"
 usc_title: 42
 usc_section: "23"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 23"
-generated_at: "2026-03-30T02:56:11.175Z"
+generated_at: "2026-11-23T21:26:32.500Z"
+status: "active"
 ---
 
 # § 3030g–23. Nutrition services impact study
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.175Z"
     - **(A)** on how to measure and evaluate, with the least burden and the most effectiveness, the discrepancy described in subsection (a)(1) (such as measurement through the length of waitlists); and
     - **(B)** about whether studies similar to the study described in subsection (a) should be carried out for programs carried out under this chapter, other than this part.
   - **(2)** The Assistant Secretary shall issue the recommendations, and make the recommendations available as a notification pursuant to section 3012(a)(34) of this title and to the committees of the Senate and of the House of Representatives with jurisdiction over this chapter, and the Special Committee on Aging of the Senate.
+
+## Source Credit
+
+*([Pub. L. 89–73, title III, § 339B](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 116–131, title II, § 216](https://www.govinfo.gov/link/plaw/116/public/131), Mar. 25, 2020, [134 Stat. 259](https://www.govinfo.gov/link/statute/134/259).)*

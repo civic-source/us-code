@@ -3,9 +3,10 @@ title: "Section 11001 - Establishment of State commissions, planning districts, 
 usc_title: 42
 usc_section: "11001"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11001"
-generated_at: "2026-03-30T02:56:11.392Z"
+generated_at: "2026-11-23T21:26:33.391Z"
+status: "active"
 ---
 
 # § 11001. Establishment of State commissions, planning districts, and local committees
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.392Z"
 - **(b)** Not later than nine months after October 17, 1986 , the State emergency response commission shall designate emergency planning districts in order to facilitate preparation and implementation of emergency plans. Where appropriate, the State emergency response commission may designate existing political subdivisions or multijurisdictional planning organizations as such districts. In emergency planning areas that involve more than one State, the State emergency response commissions of all potentially affected States may designate emergency planning districts and local emergency planning committees by agreement. In making such designation, the State emergency response commission shall indicate which facilities subject to the requirements of this subchapter are within such emergency planning district.
 - **(c)** Not later than 30 days after designation of emergency planning districts or 10 months after October 17, 1986 , whichever is earlier, the State emergency response commission shall appoint members of a local emergency planning committee for each emergency planning district. Each committee shall include, at a minimum, representatives from each of the following groups or organizations: elected State and local officials; law enforcement, civil defense, firefighting, first aid, health, local environmental, hospital, and transportation personnel; broadcast and print media; community groups; and owners and operators of facilities subject to the requirements of this subchapter. Such committee shall appoint a chairperson and shall establish rules by which the committee shall function. Such rules shall include provisions for public notification of committee activities, public meetings to discuss the emergency plan, public comments, response to such comments by the committee, and distribution of the emergency plan. The local emergency planning committee shall establish procedures for receiving and processing requests from the public for information under section 11044 of this title , including tier II information under section 11022 of this title . Such procedures shall include the designation of an official to serve as coordinator for information.
 - **(d)** A State emergency response commission may revise its designations and appointments under subsections (b) and (c) as it deems appropriate. Interested persons may petition the State emergency response commission to modify the membership of a local emergency planning committee.
+
+## Source Credit
+
+*([Pub. L. 99–499, title III, § 301](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1729](https://www.govinfo.gov/link/statute/100/1729).)*

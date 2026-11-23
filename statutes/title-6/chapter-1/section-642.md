@@ -3,9 +3,10 @@ title: "Section 642 - Training for Department personnel to identify human traffi
 usc_title: 6
 usc_section: "642"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 642"
-generated_at: "2026-03-30T02:53:09.473Z"
+generated_at: "2026-11-23T21:25:25.814Z"
+status: "active"
 ---
 
 # § 642. Training for Department personnel to identify human trafficking
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:09.473Z"
   - **(4)** other topics determined by the Secretary to be appropriate; and
   - **(5)** a post-training evaluation for personnel receiving the training.
 - **(c)** The Secretary shall annually reassess the training program established under subsection (a) to ensure it is consistent with current techniques, patterns, and trends associated with human trafficking.
+
+## Source Credit
+
+*([Pub. L. 114–22, title IX, § 902](https://www.govinfo.gov/link/plaw/114/public/22), May 29, 2015, [129 Stat. 265](https://www.govinfo.gov/link/statute/129/265).)*

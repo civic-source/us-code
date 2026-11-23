@@ -3,9 +3,10 @@ title: "Section 1854 - Private right of action"
 usc_title: 29
 usc_section: "1854"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1854"
-generated_at: "2026-03-30T02:55:18.740Z"
+generated_at: "2026-11-23T21:26:02.310Z"
+status: "active"
 ---
 
 # § 1854. Private right of action
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:18.740Z"
       - **(i)** an unregistered farm labor contractor in violation of section 1811(a) of this title , or
       - **(ii)** a person who utilized the services of a farm labor contractor of the type specified in clause (i) without taking reasonable steps to determine that the farm labor contractor possessed a valid certificate of registration authorizing the performance of the farm labor contracting activities which the contractor was requested or permitted to perform with the knowledge of such person,
 - **(f)** If it is determined under a State workers’ compensation law that the workers’ compensation law is not applicable to a claim for bodily injury or death of a migrant or seasonal agricultural worker, the statute of limitations for bringing an action for actual damages for such injury or death under subsection (a) shall be tolled for the period during which the claim for such injury or death under such State workers’ compensation law was pending. The statute of limitations for an action for other actual damages, statutory damages, or equitable relief arising out of the same transaction or occurrence as the injury or death of the migrant or seasonal agricultural worker shall be tolled for the period during which the claim for such injury or death was pending under the State workers’ compensation law.
+
+## Source Credit
+
+*([Pub. L. 97–470, title V, § 504](https://www.govinfo.gov/link/plaw/97/public/470), Jan. 14, 1983, [96 Stat. 2597](https://www.govinfo.gov/link/statute/96/2597); [Pub. L. 102–392, title III, § 325(a)](https://www.govinfo.gov/link/plaw/102/public/392), Oct. 6, 1992, [106 Stat. 1728](https://www.govinfo.gov/link/statute/106/1728); [Pub. L. 104–49](https://www.govinfo.gov/link/plaw/104/public/49), §§ 1(a)(2), 2(a), 3, Nov. 15, 1995, [109 Stat. 432](https://www.govinfo.gov/link/statute/109/432), 433.)*

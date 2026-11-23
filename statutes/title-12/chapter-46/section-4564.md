@@ -3,9 +3,10 @@ title: "Section 4564 - Discretionary adjustment of housing goals"
 usc_title: 12
 usc_section: "4564"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4564"
-generated_at: "2026-03-30T02:53:53.508Z"
+generated_at: "2026-11-23T21:25:37.189Z"
+status: "active"
 ---
 
 # § 4564. Discretionary adjustment of housing goals
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.508Z"
   - **(1)** market and economic conditions or the financial condition of the enterprise require such action; or
   - **(2)** efforts to meet the goal or subgoal would result in the constraint of liquidity, over-investment in certain market segments, or other consequences contrary to the intent of this subpart, or section 1716(3) of this title or section 301(b)(3) of the Federal Home Loan Mortgage Corporation Act ( 12 U.S.C. 1451 note), as applicable.
 - **(c)** The Director shall, promptly upon receipt of a petition regarding a reduction, seek public comment on the reduction for a period of 30 days. The Director shall make a determination regarding any proposed reduction within 30 days after the expiration of such public comment period. The Director may extend such determination period for a single additional 15-day period, but only if the Director requests additional information from the enterprise.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1334](https://www.govinfo.gov/link/plaw/102/public/550), as added [Pub. L. 110–289, div. A, title I, § 1128(b)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2701](https://www.govinfo.gov/link/statute/122/2701).)*

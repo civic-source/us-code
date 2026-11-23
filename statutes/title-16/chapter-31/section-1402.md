@@ -3,9 +3,10 @@ title: "Section 1402 - Duties of Commission"
 usc_title: 16
 usc_section: "1402"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1402"
-generated_at: "2026-03-30T02:54:22.963Z"
+generated_at: "2026-11-23T21:25:51.870Z"
+status: "active"
 ---
 
 # § 1402. Duties of Commission
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:22.963Z"
 - **(b)** The Commission shall consult with the Secretary at such intervals as it or he may deem desirable, and shall provide each annual report required under section 1404 1 1 See References in Text note below. of this title, before submission to Congress, to the Secretary for comment.
 - **(c)** The reports and recommendations which the Commission makes shall be matters of public record and shall be available to the public at all reasonable times. All other activities of the Commission shall be matters of public record and available to the public in accordance with the provisions of section 552 of title 5 .
 - **(d)** Any recommendations made by the Commission to the Secretary and other Federal officials shall be responded to by those individuals within one hundred and twenty days after receipt thereof. Any recommendations which are not followed or adopted shall be referred to the Commission together with a detailed explanation of the reasons why those recommendations were not followed or adopted.
+
+## Source Credit
+
+*([Pub. L. 92–522, title II, § 202](https://www.govinfo.gov/link/plaw/92/public/522), Oct. 21, 1972, [86 Stat. 1044](https://www.govinfo.gov/link/statute/86/1044); [Pub. L. 93–205, § 13(e)(4)](https://www.govinfo.gov/link/plaw/93/public/205), Dec. 28, 1973, [87 Stat. 903](https://www.govinfo.gov/link/statute/87/903); [Pub. L. 97–58, § 6(1)](https://www.govinfo.gov/link/plaw/97/public/58), Oct. 9, 1981, [95 Stat. 987](https://www.govinfo.gov/link/statute/95/987); [Pub. L. 100–711, § 5(e)(4)](https://www.govinfo.gov/link/plaw/100/public/711), Nov. 23, 1988, [102 Stat. 4771](https://www.govinfo.gov/link/statute/102/4771).)*

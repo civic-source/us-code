@@ -3,9 +3,10 @@ title: "Section 8686 - Support for transfers of decommissioned vessels and shipb
 usc_title: 10
 usc_section: "8686"
 chapter: 863
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 8686"
-generated_at: "2026-03-30T02:53:38.249Z"
+generated_at: "2026-11-23T21:25:32.941Z"
+status: "active"
 ---
 
 # § 8686. Support for transfers of decommissioned vessels and shipboard equipment
@@ -20,3 +21,15 @@ generated_at: "2026-03-30T02:53:38.249Z"
     - **(B)** is being transferred to an entity designated by the Secretary of the Navy or by law to receive transfer of the equipment.
 - **(c)** The Secretary may require a recipient of assistance under subsection (a) to reimburse the Navy for amounts expended by the Navy in providing the assistance.
 - **(d)** Funds received in a fiscal year under subsection (c) shall be credited to the appropriation available for such fiscal year for operation and maintenance for the office of the Navy managing inactive ships, shall be merged with other sums in the appropriation that are available for such office, and shall be available for the same purposes and period as the sums with which merged.
+
+Authority To Provide Assistance
+
+Covered Vessels and Equipment
+
+Reimbursement
+
+Deposit of Funds Received
+
+## Source Credit
+
+*(Added [Pub. L. 108–136, div. A, title X, § 1015(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1591](https://www.govinfo.gov/link/statute/117/1591), § 7316; renumbered § 8686 and amended [Pub. L. 115–232, div. A, title VIII](https://www.govinfo.gov/link/plaw/115/public/232), §§ 807(d)(2), 809(a), Aug. 13, 2018, [132 Stat. 1836](https://www.govinfo.gov/link/statute/132/1836), 1840.)*

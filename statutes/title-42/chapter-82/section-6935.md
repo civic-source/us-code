@@ -3,9 +3,10 @@ title: "Section 6935 - Restrictions on recycled oil"
 usc_title: 42
 usc_section: "6935"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6935"
-generated_at: "2026-03-30T02:56:11.273Z"
+generated_at: "2026-11-23T21:26:33.005Z"
+status: "active"
 ---
 
 # § 6935. Restrictions on recycled oil
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.273Z"
 - **(d)**
   - **(1)** The owner or operator of a facility which recycles used oil which is exempt under subsection (c)(1), shall be deemed to have a permit under this subsection for all such treatment or recycling (and any associated tank or container storage) if such owner and operator comply with standards promulgated by the Administrator under section 6924 of this title ; except that the Administrator may require such owners and operators to obtain an individual permit under section 6925(c) of this title if he determines that an individual permit is necessary to protect human health and the environment.
   - **(2)** Notwithstanding any other provision of law, any generator who recycles used oil which is exempt under subsection (c)(1) shall not be required to obtain a permit under section 6925(c) of this title with respect to such used oil until the Administrator has promulgated standards under section 6924 of this title regarding the recycling of such used oil.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 3014](https://www.govinfo.gov/link/plaw/89/public/272), formerly § 3012, as added [Pub. L. 96–463, § 7(a)](https://www.govinfo.gov/link/plaw/96/public/463), Oct. 15, 1980, [94 Stat. 2057](https://www.govinfo.gov/link/statute/94/2057), and renumbered and amended [Pub. L. 98–616, title II](https://www.govinfo.gov/link/plaw/98/public/616), §§ 241(a), 242, title V, § 502(g)(1), Nov. 8, 1984, [98 Stat. 3258](https://www.govinfo.gov/link/statute/98/3258), 3260, 3277.)*

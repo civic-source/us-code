@@ -3,9 +3,10 @@ title: "Section 1718 - Inspections"
 usc_title: 30
 usc_section: "1718"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1718"
-generated_at: "2026-03-30T02:55:29.408Z"
+generated_at: "2026-11-23T21:26:00.445Z"
+status: "active"
 ---
 
 # § 1718. Inspections
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:29.408Z"
   - **(2)** Any authorized and properly identified representative of the Secretary, accompanied by any appropriate law enforcement officer, or an appropriate law enforcement officer alone, may stop and inspect any motor vehicle which is not on a lease site if he has probable cause to believe the vehicle is carrying oil from a lease site on Federal or Indian lands or allocated to such a lease site. Such inspection shall be for the purpose of determining whether the driver of such vehicle has the documentation required by law.
 - **(b)** Authorized and properly identified representatives of the Secretary may without advance notice, enter upon, travel across and inspect lease sites on Federal or Indian lands and may obtain from the operator immediate access to secured facilities on such lease sites, for the purpose of making any inspection or investigation for determining whether there is compliance with the requirements of the mineral leasing laws and this chapter. The Secretary shall develop guidelines setting forth the coverage and the frequency of such inspections.
 - **(c)** For the purpose of making any inspection or investigation under this chapter, the Secretary shall have the same right to enter upon or travel across any lease site as the lessee or operator has acquired by purchase, condemnation, or otherwise.
+
+## Source Credit
+
+*([Pub. L. 97–451, title I, § 108](https://www.govinfo.gov/link/plaw/97/public/451), Jan. 12, 1983, [96 Stat. 2453](https://www.govinfo.gov/link/statute/96/2453).)*

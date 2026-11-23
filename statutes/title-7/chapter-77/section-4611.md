@@ -3,9 +3,10 @@ title: "Section 4611 - Requirements of referendum"
 usc_title: 7
 usc_section: "4611"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 4611"
-generated_at: "2026-03-30T02:53:42.410Z"
+generated_at: "2026-11-23T21:25:28.351Z"
+status: "active"
 ---
 
 # § 4611. Requirements of referendum
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:42.410Z"
     - **(A)** the quantity of honey or honey products on which the qualifying producer-packer or importer owes assessments as a handler shall be attributed to the person’s vote as a handler under paragraph (1); and
     - **(B)** the quantity of honey or honey products on which the producer-packer or importer owes an assessment as a producer or importer shall be attributed to the person’s vote as a producer or importer.
 - **(d)** The ballots and other information or reports that reveal, or tend to reveal, the identity or vote of any producer, importer, or handler of honey or honey products shall be held strictly confidential and shall not be disclosed.
+
+## Source Credit
+
+*([Pub. L. 98–590, § 12](https://www.govinfo.gov/link/plaw/98/public/590), Oct. 30, 1984, [98 Stat. 3123](https://www.govinfo.gov/link/statute/98/3123); [Pub. L. 105–185, title VI, § 605(k)](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 600](https://www.govinfo.gov/link/statute/112/600).)*

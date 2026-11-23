@@ -3,9 +3,10 @@ title: "Section 653 - Cybersecurity Division"
 usc_title: 6
 usc_section: "653"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 653"
-generated_at: "2026-03-30T02:53:09.474Z"
+generated_at: "2026-11-23T21:25:25.817Z"
+status: "active"
 ---
 
 # § 653. Cybersecurity Division
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:09.474Z"
   - **(2)** carry out activities, at the direction of the Director, related to the security of Federal information and Federal information systems consistent with law, including subchapter II of chapter 35 of title 44 and the Cybersecurity Act of 2015 (contained in division N of the Consolidated Appropriations Act, 2016 ( Public Law 114–113 ));
   - **(3)** fully participate in the mechanisms required under section 652(c)(7) of this title ; and
   - **(4)** carry out such other duties and powers as prescribed by the Director.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XXII, § 2203](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 115–278, § 2(a)](https://www.govinfo.gov/link/plaw/115/public/278), Nov. 16, 2018, [132 Stat. 4174](https://www.govinfo.gov/link/statute/132/4174); amended [Pub. L. 116–283, div. H, title XC, § 9001(c)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4766](https://www.govinfo.gov/link/statute/134/4766).)*

@@ -3,9 +3,10 @@ title: "Section 301 - Collection and publication"
 usc_title: 13
 usc_section: "301"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "13 U.S.C. § 301"
-generated_at: "2026-03-30T02:54:03.338Z"
+generated_at: "2026-11-23T21:25:34.410Z"
+status: "active"
 ---
 
 # § 301. Collection and publication
@@ -31,3 +32,27 @@ generated_at: "2026-03-30T02:54:03.338Z"
 - **(f)** On or before January 1, 1981 , and as often thereafter as may be necessary to reflect significant changes in rates, there shall be reported for each heading or subheading in the Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes, the ad valorem or ad valorem equivalent rate of duty which would have been required to be imposed on dutiable imports under that heading or subheading, if the United States customs values of such imports were based on the United States port of entry value (as reported in accordance with the first sentence of subsection (e)) in order to collect the same amount of duties on imports under that heading or subheading as are currently collected.
 - **(g)** Shippers’ Export Declarations (or any successor document), wherever located, shall be exempt from public disclosure unless the Secretary determines that such exemption would be contrary to the national interest.
 - **(h)** The Secretary is authorized to require by regulation the filing of Shippers’ Export Declarations under this chapter through an automated and electronic system for the filing of export information established by the Department of the Treasury.
+
+In general
+
+Elements of the regulations
+
+Contribution to the Automated Export System
+
+Mandatory Filing
+
+Requirement for Information Sharing
+
+“In this subtitle [amending this section and enacting provisions set out as notes above]:
+
+Automated export system
+
+Commerce control list
+
+Shippers’ export declaration
+
+United states munitions list
+
+## Source Credit
+
+*(Added [Pub. L. 87–826, § 2](https://www.govinfo.gov/link/plaw/87/public/826), Oct. 15, 1962, [76 Stat. 951](https://www.govinfo.gov/link/statute/76/951); amended [Pub. L. 93–618, title VI, § 609(a)](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 2074](https://www.govinfo.gov/link/statute/88/2074); [Pub. L. 96–39, title XI, § 1108(a)](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 313](https://www.govinfo.gov/link/statute/93/313); [Pub. L. 96–275, § 1](https://www.govinfo.gov/link/plaw/96/public/275), June 17, 1980, [94 Stat. 539](https://www.govinfo.gov/link/statute/94/539); [Pub. L. 100–418, title I](https://www.govinfo.gov/link/plaw/100/public/418), §§ 1214(a)(2), 1931(a), 1932, Aug. 23, 1988, [102 Stat. 1155](https://www.govinfo.gov/link/statute/102/1155), 1320; [Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XII, § 1252(a)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–506; [Pub. L. 110–246, title III, § 3001(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/246), (2)(M), June 18, 2008, [122 Stat. 1820](https://www.govinfo.gov/link/statute/122/1820).)*

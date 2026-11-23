@@ -3,9 +3,10 @@ title: "Section 720 - Declaration of policy; authorization of appropriations"
 usc_title: 29
 usc_section: "720"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 720"
-generated_at: "2026-03-30T02:55:18.690Z"
+generated_at: "2026-11-23T21:26:02.194Z"
+status: "active"
 ---
 
 # § 720. Declaration of policy; authorization of appropriations
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:55:18.690Z"
   - **(2)**
     - **(A)** For the purposes of paragraph (1)(A), Congress shall not be deemed to have passed legislation unless such legislation becomes law.
     - **(B)** In any case where the Commissioner is required under an applicable statute to carry out certain acts or make certain determinations which are necessary for the continuation of the program authorized by this subchapter, if such acts or determinations are required during the terminal year of such program, such acts and determinations shall be required during any fiscal year in which the extension described in that part of paragraph (1) that follows clause (ii) of paragraph (1)(A) is in effect.
+
+## Source Credit
+
+*([Pub. L. 93–112, title I, § 100](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 105–220, title IV, § 404](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1116](https://www.govinfo.gov/link/statute/112/1116); amended [Pub. L. 113–128, title IV, § 411](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1640](https://www.govinfo.gov/link/statute/128/1640).)*

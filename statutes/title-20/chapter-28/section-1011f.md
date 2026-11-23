@@ -3,9 +3,10 @@ title: "Section 1011f - Disclosures of foreign gifts"
 usc_title: 20
 usc_section: "1011f"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1011f"
-generated_at: "2026-03-30T02:54:48.092Z"
+generated_at: "2026-11-23T21:25:47.001Z"
+status: "active"
 ---
 
 # § 1011f. Disclosures of foreign gifts
@@ -43,3 +44,17 @@ generated_at: "2026-03-30T02:54:48.092Z"
     - **(B)** the establishment of departments, centers, research or lecture programs, or new faculty positions;
     - **(C)** the selection or admission of students; or
     - **(D)** the award of grants, loans, scholarships, fellowships, or other forms of financial aid restricted to students of a specified country, religion, sex, ethnic origin, or political opinion.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 89–329, title I, § 117](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title I, § 101(a)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1593](https://www.govinfo.gov/link/statute/112/1593).)*

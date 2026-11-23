@@ -3,9 +3,10 @@ title: "Section 338 - Carriage of local television signals by satellite carriers
 usc_title: 47
 usc_section: "338"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 338"
-generated_at: "2026-03-30T02:56:24.510Z"
+generated_at: "2026-11-23T21:26:36.001Z"
+status: "active"
 ---
 
 # § 338. Carriage of local television signals by satellite carriers
@@ -121,3 +122,61 @@ generated_at: "2026-03-30T02:56:24.510Z"
     - **(B)** A satellite carrier shall not delete from carriage the signal of a commercial television broadcast station during the pendency of any proceeding under this subsection.
   - **(4)** Not later than 120 days after the date that a written request is filed under paragraph (1), the Commission shall grant or deny the request.
   - **(5)** No modification of a commercial television broadcast station’s local market pursuant to this subsection shall have any effect on the eligibility of households in the community affected by such modification to receive distant signals pursuant to section 339 of this title , notwithstanding subsection (h)(1) of this section.
+
+(aa) extent of any viewing or other use by the subscriber of a satellite service or other service provided by the satellite carrier; or
+
+(bb) the nature of any transaction made by the subscriber over any facilities used by the satellite carrier; or
+
+“The [Federal Communications] Commission shall make information available to consumers on its website that explains the market modification process, including—
+
+Deadline for regulations
+
+Matters for consideration
+
+Requirement.—
+
+In general
+
+Termination
+
+Definitions
+
+In General
+
+Translator Stations and Low Power Television Stations
+
+Definitions
+
+Local market; low power television station; satellite carrier; subscriber; television broadcast station
+
+Network station; television network
+
+Requirement.—
+
+In general
+
+Termination
+
+Study; Report.—
+
+Study
+
+Report
+
+Definitions
+
+In General
+
+Rules.—
+
+Form of business
+
+Harmful interference
+
+Limitation on commission
+
+Report
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 338, as added [Pub. L. 106–113, div. B, § 1000(a)(9) [title I, § 1008(a)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–531; amended [Pub. L. 108–447, div. J, title IX](https://www.govinfo.gov/link/plaw/108/public/447) [title II, §§ 203, 205, 206(a), 210], Dec. 8, 2004, [118 Stat. 3414](https://www.govinfo.gov/link/statute/118/3414), 3424, 3425, 3429; [Pub. L. 111–175, title II](https://www.govinfo.gov/link/plaw/111/public/175), §§ 204(a), 207, May 27, 2010, [124 Stat. 1246](https://www.govinfo.gov/link/statute/124/1246), 1253; [Pub. L. 113–200, title I, § 102(a)](https://www.govinfo.gov/link/plaw/113/public/200), Dec. 4, 2014, [128 Stat. 2060](https://www.govinfo.gov/link/statute/128/2060).)*

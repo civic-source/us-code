@@ -3,9 +3,10 @@ title: "Section 696 - Loans for plant acquisition, construction, conversion and 
 usc_title: 15
 usc_section: "696"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 696"
-generated_at: "2026-03-30T02:54:08.113Z"
+generated_at: "2026-11-23T21:25:39.727Z"
+status: "active"
 ---
 
 # § 696. Loans for plant acquisition, construction, conversion and expansion
@@ -73,3 +74,93 @@ The Administration may, in addition to its authority under section 695 of this t
         - **(I)**
         - **(II)** For purposes of subclause (I), the number of employees of a borrower is equal to the sum of—
       - **(v)** The Administrator may provide not more than a total of $7,500,000,000 of financing under this subparagraph for each fiscal year.
+
+Use of proceeds
+
+Maximum amount.—
+
+In general
+
+Definition
+
+Criteria for assistance.—
+
+In general
+
+Community injection funds.—
+
+Sources of funds
+
+Funding from institutions
+
+Funding from a small business concern
+
+Seller financing
+
+Collateralization.—
+
+In general
+
+Appraisals.—
+
+(aa) shall be required by the Administration before disbursement of the loan if the estimated value of that property is more than the Federal banking regulator appraisal threshold; or
+
+(bb) may be required by the Administration or the lender before disbursement of the loan if the estimated value of that property is equal to or less than the Federal banking regulator appraisal threshold, and such appraisal is necessary for appropriate evaluation of creditworthiness.
+
+Limitation on leasing
+
+Ownership requirements
+
+Permissible debt refinancing.—
+
+In general
+
+Expansions
+
+Refinancing not involving expansions.—
+
+Definitions
+
+(aa) that was incurred not less than 6 months before the date of the application for assistance under this subparagraph;
+
+(bb) that is a commercial loan;
+
+(cc) the proceeds of which were used to acquire an eligible fixed asset;
+
+(dd) that was incurred for the benefit of the small business concern; and
+
+(ee) that is collateralized by eligible fixed assets.
+
+Authority
+
+Financing for business expenses.—
+
+Financing for business expenses
+
+Application for financing
+
+(aa) a specific description of the expenses for which the additional financing is requested; and
+
+(bb) an itemization of the amount of each expense.
+
+Condition on additional financing
+
+Loans based on jobs.—
+
+Job creation and retention goals.—
+
+(aa) In general .— The Administrator may provide financing under this subparagraph for a borrower that meets the job creation goals under subsection (d) or (e) of section 695 of this title .
+
+(bb) Alternate job retention goal .— The Administrator may provide financing under this subparagraph to a borrower that does not meet the goals described in item (aa) in an amount that is not more than the product obtained by multiplying the number of employees of the borrower by $75,000.
+
+Number of employees
+
+(aa) the number of full-time employees of the borrower on the date on which the borrower applies for a loan under this subparagraph; and
+
+(bb) the product obtained by multiplying— (AA) the number of part-time employees of the borrower on the date on which the borrower applies for a loan under this subparagraph, by (BB) the quotient obtained by dividing the average number of hours each part time employee of the borrower works each week by 40.
+
+Total amount of loans
+
+## Source Credit
+
+*([Pub. L. 85–699, title V, § 502](https://www.govinfo.gov/link/plaw/85/public/699), Aug. 21, 1958, [72 Stat. 697](https://www.govinfo.gov/link/statute/72/697); [Pub. L. 87–27, § 26](https://www.govinfo.gov/link/plaw/87/public/27), May 1, 1961, [75 Stat. 63](https://www.govinfo.gov/link/statute/75/63); [Pub. L. 87–341, § 10](https://www.govinfo.gov/link/plaw/87/public/341), Oct. 3, 1961, [75 Stat. 756](https://www.govinfo.gov/link/statute/75/756); [Pub. L. 94–305, title I](https://www.govinfo.gov/link/plaw/94/public/305), §§ 108(a), 110, June 4, 1976, [90 Stat. 666](https://www.govinfo.gov/link/statute/90/666), 667; [Pub. L. 95–507, title I, § 112](https://www.govinfo.gov/link/plaw/95/public/507), Oct. 24, 1978, [92 Stat. 1760](https://www.govinfo.gov/link/statute/92/1760); [Pub. L. 97–35, title XIX, § 1909](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 778](https://www.govinfo.gov/link/statute/95/778); [Pub. L. 100–418, title VIII, § 8007(b)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1561](https://www.govinfo.gov/link/statute/102/1561); [Pub. L. 100–590, title I, § 116(a)](https://www.govinfo.gov/link/plaw/100/public/590), (b)(1), Nov. 3, 1988, [102 Stat. 2997](https://www.govinfo.gov/link/statute/102/2997), 2998; [Pub. L. 101–574, title II, § 214(c)](https://www.govinfo.gov/link/plaw/101/public/574), Nov. 15, 1990, [104 Stat. 2822](https://www.govinfo.gov/link/statute/104/2822); [Pub. L. 104–208, div. D, title II, § 202(a)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–734](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 105–135, title II, § 221](https://www.govinfo.gov/link/plaw/105/public/135), Dec. 2, 1997, [111 Stat. 2603](https://www.govinfo.gov/link/statute/111/2603); [Pub. L. 106–554, § 1(a)(9) [title II, § 208(b), title III, § 303, title VIII, § 802(b)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–683, 2763A–684, 2763A–702; [Pub. L. 108–447, div. K, title I, § 104](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3444](https://www.govinfo.gov/link/statute/118/3444); [Pub. L. 110–140, title XII, § 1204(b)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1772](https://www.govinfo.gov/link/statute/121/1772); [Pub. L. 111–5, div. A, title V, § 504(a)](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 155](https://www.govinfo.gov/link/statute/123/155); [Pub. L. 111–240, title I](https://www.govinfo.gov/link/plaw/111/public/240), §§ 1112, 1122, Sept. 27, 2010, [124 Stat. 2508](https://www.govinfo.gov/link/statute/124/2508), 2510; [Pub. L. 115–371, § 2](https://www.govinfo.gov/link/plaw/115/public/371), Dec. 21, 2018, [132 Stat. 5106](https://www.govinfo.gov/link/statute/132/5106); [Pub. L. 116–260, div. N, title III, § 328(a)(2)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2038](https://www.govinfo.gov/link/statute/134/2038).)*

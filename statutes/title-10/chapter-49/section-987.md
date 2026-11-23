@@ -3,9 +3,10 @@ title: "Section 987 - Terms of consumer credit extended to members and dependent
 usc_title: 10
 usc_section: "987"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 987"
-generated_at: "2026-03-30T02:53:38.092Z"
+generated_at: "2026-11-23T21:25:32.370Z"
+status: "active"
 ---
 
 # § 987. Terms of consumer credit extended to members and dependents: limitations
@@ -82,3 +83,79 @@ generated_at: "2026-03-30T02:53:38.092Z"
       - **(ii)** meets such additional criteria as are specified for such purpose in regulations prescribed under this section; or
     - **(B)** who is an assignee of a person described in subparagraph (A) with respect to any consumer credit extended.
   - **(6)** The term “consumer credit” has the meaning provided for such term in regulations prescribed under this section, except that such term does not include (A) a residential mortgage, or (B) a loan procured in the course of purchasing a car or other personal property, when that loan is offered for the express purpose of financing the purchase and is secured by the car or personal property procured.
+
+Interest
+
+Annual Percentage Rate
+
+Mandatory Loan Disclosures.—
+
+Information required
+
+Terms
+
+Preemption.—
+
+Inconsistent laws
+
+Different treatment under state law of members and dependents prohibited
+
+Limitations
+
+Penalties and Remedies.—
+
+Misdemeanor
+
+Preservation of other remedies
+
+Contract void
+
+Arbitration
+
+Civil liability.—
+
+In general
+
+Costs of the action
+
+Effect of finding of bad faith and harassment
+
+Defenses
+
+Jurisdiction, venue, and statute of limitations
+
+Administrative enforcement
+
+Servicemembers Civil Relief Act Protections Unaffected
+
+Regulations
+
+Definitions
+
+Covered member
+
+Dependent
+
+Interest
+
+Annual percentage rate
+
+Creditor
+
+Consumer credit
+
+Modification of regulations
+
+Effective date
+
+Publication of earlier date
+
+In general
+
+Authority to prescribe regulations
+
+Publication of earlier effective date
+
+## Source Credit
+
+*(Added [Pub. L. 109–364, div. A, title VI, § 670(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2266](https://www.govinfo.gov/link/statute/120/2266); amended [Pub. L. 112–239, div. A, title VI](https://www.govinfo.gov/link/plaw/112/public/239), §§ 661(a), (b), 662(a), (b), 663, Jan. 2, 2013, [126 Stat. 1785](https://www.govinfo.gov/link/statute/126/1785), 1786; [Pub. L. 114–328, div. A, title X, § 1081(b)(2)(A)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2418](https://www.govinfo.gov/link/statute/130/2418).)*

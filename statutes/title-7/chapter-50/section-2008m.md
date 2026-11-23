@@ -3,9 +3,10 @@ title: "Section 2008m - National Rural Development Partnership"
 usc_title: 7
 usc_section: "2008m"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2008m"
-generated_at: "2026-03-30T02:53:42.355Z"
+generated_at: "2026-11-23T21:25:28.228Z"
+status: "active"
 ---
 
 # § 2008m. National Rural Development Partnership
@@ -84,3 +85,7 @@ generated_at: "2026-03-30T02:53:42.355Z"
     - **(B)** Federal agencies are encouraged to use funds made available for programs that have an impact on rural areas to provide assistance to, and enter into contracts with, the Coordinating Committee or a State rural development council, as described in subparagraph (A).
   - **(3)** The Coordinating Committee and a State rural development council may accept private contributions.
 - **(h)** The authority provided under this section shall terminate on September 30, 2023 .
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 378](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 107–171, title VI, § 6021](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 363](https://www.govinfo.gov/link/statute/116/363); amended [Pub. L. 110–234, title VI, § 6019](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1172](https://www.govinfo.gov/link/statute/122/1172); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VI, § 6019, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1933; [Pub. L. 113–79, title VI, § 6021](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 847](https://www.govinfo.gov/link/statute/128/847); [Pub. L. 115–334, title VI, § 6420](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4765](https://www.govinfo.gov/link/statute/132/4765).)*

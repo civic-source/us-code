@@ -3,9 +3,10 @@ title: "Section 8468 - Annuities and pay on reemployment"
 usc_title: 5
 usc_section: "8468"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8468"
-generated_at: "2026-03-30T02:52:56.062Z"
+generated_at: "2026-11-23T21:25:23.433Z"
+status: "active"
 ---
 
 # § 8468. Annuities and pay on reemployment
@@ -80,3 +81,11 @@ generated_at: "2026-03-30T02:52:56.062Z"
 - **(j)**
   - **(1)** For the purpose of subsections (f) through (i), “Executive agency” shall not include the Government Accountability Office.
   - **(2)** An employee as to whom a waiver under subsection (f), (g), (h), or (i) is in effect shall not be considered an employee for purposes of this chapter or chapter 83 of this title.
+
+Generally
+
+Exception
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 576](https://www.govinfo.gov/link/statute/100/576); amended [Pub. L. 100–238, title I, § 134(a)](https://www.govinfo.gov/link/plaw/100/public/238), Jan. 8, 1988, [101 Stat. 1762](https://www.govinfo.gov/link/statute/101/1762); [Pub. L. 101–509, title V, § 529 [title I, § 108(c)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1450; [Pub. L. 101–510, div. A, title XII, § 1206(j)(3)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1664](https://www.govinfo.gov/link/statute/104/1664); [Pub. L. 102–190, div. A, title VI, § 655(c)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1392](https://www.govinfo.gov/link/statute/105/1392); [Pub. L. 102–378, § 8(a)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1359](https://www.govinfo.gov/link/statute/106/1359); [Pub. L. 105–55, title I, § 107](https://www.govinfo.gov/link/plaw/105/public/55), Oct. 7, 1997, [111 Stat. 1184](https://www.govinfo.gov/link/statute/111/1184); [Pub. L. 105–61, title V, § 516(a)(9)](https://www.govinfo.gov/link/plaw/105/public/61), Oct. 10, 1997, [111 Stat. 1307](https://www.govinfo.gov/link/statute/111/1307); [Pub. L. 108–176, title II, § 226(b)(2)(C)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2530](https://www.govinfo.gov/link/statute/117/2530); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 111–84, div. A, title XI, § 1122(b)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2507](https://www.govinfo.gov/link/statute/123/2507); [Pub. L. 112–96, title V, § 5001(c)(2)(C)](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 200](https://www.govinfo.gov/link/statute/126/200); [Pub. L. 113–291, div. A, title XI, § 1107(b)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3527](https://www.govinfo.gov/link/statute/128/3527); [Pub. L. 116–92, div. A, title XI, § 1117(b)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1605](https://www.govinfo.gov/link/statute/133/1605).)*

@@ -3,9 +3,10 @@ title: "Section 722 - Records, audit, and examination"
 usc_title: 45
 usc_section: "722"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 722"
-generated_at: "2026-03-30T02:55:56.554Z"
+generated_at: "2026-11-23T21:26:19.220Z"
+status: "active"
 ---
 
 # § 722. Records, audit, and examination
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:56.554Z"
   - **(1)** the ability of the recipient of such financial assistance to make repayment within the time fixed therefor;
   - **(2)** the effectiveness with which the proceeds of such assistance is used; and
   - **(3)** the implementation of the final system plan and the realization of the declaration of policy of this chapter.
+
+## Source Credit
+
+*([Pub. L. 93–236, title II, § 212](https://www.govinfo.gov/link/plaw/93/public/236), Jan. 2, 1974, [87 Stat. 1002](https://www.govinfo.gov/link/statute/87/1002).)*

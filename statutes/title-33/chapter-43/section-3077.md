@@ -3,9 +3,10 @@ title: "Section 3077 - Education loan repayment program"
 usc_title: 33
 usc_section: "3077"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3077"
-generated_at: "2026-03-30T02:55:41.137Z"
+generated_at: "2026-11-23T21:26:11.478Z"
+status: "active"
 ---
 
 # § 3077. Education loan repayment program
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:41.137Z"
 - **(g)** The Secretary shall prescribe regulations to carry out this section, including—
   - **(1)** standards for qualified loans and authorized payees; and
   - **(2)** other terms and conditions for the making of loan repayments.
+
+## Source Credit
+
+*([Pub. L. 107–372, title II, § 267](https://www.govinfo.gov/link/plaw/107/public/372), as added [Pub. L. 116–259, title II, § 201(a)](https://www.govinfo.gov/link/plaw/116/public/259), Dec. 23, 2020, [134 Stat. 1160](https://www.govinfo.gov/link/statute/134/1160).)*

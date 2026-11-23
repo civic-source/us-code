@@ -3,9 +3,10 @@ title: "Section 9303 - United States registered pilot service"
 usc_title: 46
 usc_section: "9303"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 9303"
-generated_at: "2026-03-30T02:56:15.552Z"
+generated_at: "2026-11-23T21:26:37.104Z"
+status: "active"
 ---
 
 # § 9303. United States registered pilot service
@@ -20,3 +21,28 @@ generated_at: "2026-03-30T02:56:15.552Z"
 - **(e)** Subject to sections 551–559 of title 5, the Secretary may suspend or revoke a certificate of registration issued under this section if the holder fails to comply with a regulation prescribed under this chapter. Suspension or revocation of the holder’s license under chapter 77 of this title includes the holder’s certificate of registration.
 - **(f)** The Secretary shall prescribe by regulation rates and charges for pilotage services, giving consideration to the public interest and the costs of providing the services. The Secretary shall establish new pilotage rates by March 1 of each year. The Secretary shall establish base pilotage rates by a full ratemaking at least once every 5 years and shall conduct annual reviews of such base pilotage rates, and make adjustments to such base rates, in each intervening year.
 - **(g)** The Secretary shall ensure that a sufficient number of individuals are assigned to carrying out subsection (f).
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 9303(a) | 46:216b(a) |
+| 9303(b) | 46:216b(b) |
+| 9303(c) | 46:216b(c) |
+| 9303(e) | 46:216b(c) |
+| 9303(f) | 46:216c |
+
+
+Historical and Revision Notes
+
+9303(a)
+
+9303(b)
+
+9303(c)
+
+9303(e)
+
+9303(f)
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 558](https://www.govinfo.gov/link/statute/97/558); [Pub. L. 104–324, title VII, § 735](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3941](https://www.govinfo.gov/link/statute/110/3941); [Pub. L. 109–241, title III, § 302](https://www.govinfo.gov/link/plaw/109/public/241), July 11, 2006, [120 Stat. 527](https://www.govinfo.gov/link/statute/120/527).)*

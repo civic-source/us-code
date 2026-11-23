@@ -3,9 +3,10 @@ title: "Section 1370 - State authority"
 usc_title: 33
 usc_section: "1370"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1370"
-generated_at: "2026-03-30T02:55:41.103Z"
+generated_at: "2026-11-23T21:26:11.399Z"
+status: "active"
 ---
 
 # § 1370. State authority
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:41.103Z"
     - **(B)** any requirement respecting control or abatement of pollution; except that if an effluent limitation, or other limitation, effluent standard, prohibition, pretreatment standard, or standard of performance is in effect under this chapter, such State or political subdivision or interstate agency may not adopt or enforce any effluent limitation, or other limitation, effluent standard, prohibition, pretreatment standard, or standard of performance which is less stringent than the effluent limitation, or other limitation, effluent standard, prohibition, pretreatment standard, or standard of performance under this chapter; or
   - **(2)** be construed as impairing or in any manner affecting any right or jurisdiction of the States with respect to the waters (including boundary waters) of such States.
 
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title V, § 510, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 893](https://www.govinfo.gov/link/statute/86/893).)*

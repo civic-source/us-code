@@ -3,9 +3,10 @@ title: "Section 3525 - Victims Compensation Fund"
 usc_title: 18
 usc_section: "3525"
 chapter: 224
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3525"
-generated_at: "2026-03-30T02:54:16.519Z"
+generated_at: "2026-11-23T21:25:44.206Z"
+status: "active"
 ---
 
 # § 3525. Victims Compensation Fund
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:16.519Z"
 - **(c)** There are authorized to be appropriated for the fiscal year 1985 and for each fiscal year thereafter, $1,000,000 for payments under this section.
 - **(d)** The Attorney General shall establish guidelines and procedures for making payments under this section. The payments to victims under this section shall be made for the types of expenses provided for in section 3579(b) 1 1 See References in Text note below. of this title, except that in the case of the death of the victim, an amount not to exceed $50,000 may be paid to the victim’s estate. No payment may be made under this section to a victim unless the victim has sought restitution and compensation provided under Federal or State law or by civil action. Such payments may be made only to the extent the victim, or the victim’s estate, has not otherwise received restitution and compensation, including insurance payments, for the crime involved. Payments may be made under this section to victims of crimes occurring on or after the date of the enactment of this chapter. 1 In the case of a crime occurring before the date of the enactment of this chapter, 1 a payment may be made under this section only in the case of the death of the victim, and then only in an amount not exceeding $25,000, and such a payment may be made notwithstanding the requirements of the third sentence of this subsection.
 - **(e)** Nothing in this section shall be construed to create a cause of action against the United States.
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 1208](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2162](https://www.govinfo.gov/link/statute/98/2162).)*

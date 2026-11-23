@@ -3,9 +3,10 @@ title: "Section 3502 - Indian tribal energy resource development"
 usc_title: 25
 usc_section: "3502"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3502"
-generated_at: "2026-03-30T02:54:52.852Z"
+generated_at: "2026-11-23T21:25:54.693Z"
+status: "active"
 ---
 
 # § 3502. Indian tribal energy resource development
@@ -72,3 +73,15 @@ generated_at: "2026-03-30T02:54:52.852Z"
   - **(2)** In carrying out this subsection, a Federal agency or department shall not—
     - **(A)** pay more than the prevailing market price for an energy product or byproduct; or
     - **(B)** obtain less than prevailing market terms and conditions.
+
+Planning.—
+
+In general
+
+Cooperation
+
+Technical and scientific resources
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXVI, § 2602](https://www.govinfo.gov/link/plaw/102/public/486), as added [Pub. L. 109–58, title V, § 503(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 765](https://www.govinfo.gov/link/statute/119/765); amended [Pub. L. 115–325, title I](https://www.govinfo.gov/link/plaw/115/public/325), §§ 101, 104, 105(b), Dec. 18, 2018, [132 Stat. 4445](https://www.govinfo.gov/link/statute/132/4445), 4455, 4456; [Pub. L. 116–260, div. Z, title VIII, § 8013(b)](https://www.govinfo.gov/link/plaw/116/public/260), (c), Dec. 27, 2020, [134 Stat. 2592](https://www.govinfo.gov/link/statute/134/2592), 2593; [Pub. L. 117–169, title V, § 50145(b)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 2046](https://www.govinfo.gov/link/statute/136/2046).)*

@@ -3,9 +3,10 @@ title: "Section 312 - Western Alaska Oil Spill Planning Criteria Program"
 usc_title: 14
 usc_section: "312"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 312"
-generated_at: "2026-03-30T02:53:51.487Z"
+generated_at: "2026-11-23T21:25:35.356Z"
+status: "active"
 ---
 
 # § 312. Western Alaska Oil Spill Planning Criteria Program
@@ -43,3 +44,35 @@ generated_at: "2026-03-30T02:53:51.487Z"
   - **(2)** The term “Tribe” has the meaning given the term “Indian Tribe” in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304 ).
   - **(3)** The term “vessel response plan” means a plan required to be submitted by the owner or operator of a tank vessel or a nontank vessel under regulations issued by the President under section 311(j)(5) of the Federal Water Pollution Control Act ( 33 U.S.C. 1321(j)(5) ).
   - **(4)** The term “Western Alaska oil spill planning criteria” means the criteria required to be established under paragraph (9) of section 311(j) of the Federal Water Pollution Control Act ( 33 U.S.C. 1321(j) ).
+
+Establishment
+
+Program Manager.—
+
+In general
+
+Conflicts of interest
+
+Duties.—
+
+Development of guidance
+
+Assessments
+
+Onsite verifications
+
+Training
+
+Definitions
+
+Alternative planning criteria
+
+Tribe
+
+Vessel response plan
+
+Western alaska oil spill planning criteria
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. K, title CXIII, § 11309(a)(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4079](https://www.govinfo.gov/link/statute/136/4079); renumbered § 312 and amended, [Pub. L. 119–60, div. G, title LXXII, § 7201(b)](https://www.govinfo.gov/link/plaw/119/public/60), title LXXVII, § 7701(k), Dec. 18, 2025, [139 Stat. 1675](https://www.govinfo.gov/link/statute/139/1675), 1837.)*

@@ -3,9 +3,10 @@ title: "Section 2807 - Geoplatform"
 usc_title: 43
 usc_section: "2807"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 2807"
-generated_at: "2026-03-30T02:55:57.500Z"
+generated_at: "2026-11-23T21:26:19.900Z"
+status: "active"
 ---
 
 # § 2807. Geoplatform
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:57.500Z"
 - **(c)** Although the GeoPlatform is intended to include all National Geospatial Data Asset and other Federal datasets, nothing in this chapter shall be construed to prevent a covered agency from also presenting, providing, or disseminating data that is—
   - **(1)** specific to the functions of the covered agency; or
   - **(2)** targeted to information consumers that directly interface with the services, portals, or other mechanisms of the covered agency.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. B, title VII, § 758](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3424](https://www.govinfo.gov/link/statute/132/3424).)*

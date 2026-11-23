@@ -3,9 +3,10 @@ title: "Section 3507 - Definitions"
 usc_title: 33
 usc_section: "3507"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3507"
-generated_at: "2026-03-30T02:55:41.141Z"
+generated_at: "2026-11-23T21:26:11.485Z"
+status: "active"
 ---
 
 # § 3507. Definitions
@@ -21,3 +22,7 @@ In this chapter:
   - **(7)** The term “nongovernmental entities” includes nongovernmental organizations, members of the academic community, and private sector organizations that provide products and services associated with measuring, locating, and preparing maps, charts, surveys, aerial photographs, satellite imagines, 2 2 So in original. Probably should be “images,”. or other graphical or digital presentations depicting natural or manmade physical features, phenomena, and legal boundaries of the Earth.
   - **(8)** The term “Outer Continental Shelf” means all submerged lands lying seaward and outside of lands beneath navigable waters (as that term is defined in section 1301 of title 43 ), and of which the subsoil and seabed appertain to the United States and are subject to its jurisdiction and control.
   - **(9)** The term “coastal Indian Tribe” means an “Indian Tribe”, as defined in section 5304 of title 25 , the land of which is located in a coastal State.
+
+## Source Credit
+
+*([Pub. L. 111–11, title XII, § 12210](https://www.govinfo.gov/link/plaw/111/public/11), formerly § 12208, Mar. 30, 2009, [123 Stat. 1426](https://www.govinfo.gov/link/statute/123/1426); renumbered § 12210 and amended [Pub. L. 117–263, div. J, title CIII, § 10307(b)(1)(C)](https://www.govinfo.gov/link/plaw/117/public/263), (e)(1), (g), Dec. 23, 2022, [136 Stat. 3976](https://www.govinfo.gov/link/statute/136/3976), 3978, 3979.)*

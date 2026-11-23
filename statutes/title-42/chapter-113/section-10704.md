@@ -3,9 +3,10 @@ title: "Section 10704 - Officers and employees"
 usc_title: 42
 usc_section: "10704"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10704"
-generated_at: "2026-03-30T02:56:11.391Z"
+generated_at: "2026-11-23T21:26:33.382Z"
+status: "active"
 ---
 
 # § 10704. Officers and employees
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.391Z"
   - **(1)** Except as provided in paragraph (2), officers and employees of the Institute shall not be considered officers or employees of the United States.
   - **(2)** Officers and employees of the Institute shall be considered officers and employees of the United States solely for the purposes of the following provisions of title 5: Subchapter I of chapter 81 (relating to compensation for work injuries); chapters 83 and 84 (relating to civil service retirement); chapter 87 (relating to life insurance); and chapter 89 (relating to health insurance), notwithstanding section 8914 of such title. The Institute shall make contributions under the provisions referred to in this subsection at the same rates applicable to agencies of the Federal Government.
 - **(e)** The Institute and its officers and employees shall be subject to the provisions of section 552 of title 5 relating to freedom of information.
+
+## Source Credit
+
+*([Pub. L. 98–620, title II, § 205](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3339](https://www.govinfo.gov/link/statute/98/3339); [Pub. L. 100–690, title VII, § 7321(b)(2)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4466](https://www.govinfo.gov/link/statute/102/4466); [Pub. L. 100–702, title VI, § 602](https://www.govinfo.gov/link/plaw/100/public/702), Nov. 19, 1988, [102 Stat. 4653](https://www.govinfo.gov/link/statute/102/4653); [Pub. L. 108–372, § 3(a)](https://www.govinfo.gov/link/plaw/108/public/372), (b), Oct. 25, 2004, [118 Stat. 1754](https://www.govinfo.gov/link/statute/118/1754).)*

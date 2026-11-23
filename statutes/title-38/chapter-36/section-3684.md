@@ -3,9 +3,10 @@ title: "Section 3684 - Reports by veterans, eligible persons, and institutions; 
 usc_title: 38
 usc_section: "3684"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3684"
-generated_at: "2026-03-30T02:55:53.509Z"
+generated_at: "2026-11-23T21:26:16.762Z"
+status: "active"
 ---
 
 # § 3684. Reports by veterans, eligible persons, and institutions; reporting fee
@@ -30,3 +31,17 @@ generated_at: "2026-03-30T02:55:53.509Z"
     - **(B)** with respect to an institution that has 100 or more enrollees described in paragraph (2) may not be used for or merged with amounts available for the general fund of the educational institution or sponsor of a program of apprenticeship.
   - **(5)** The reporting fee payable under this subsection shall be paid from amounts appropriated for readjustment benefits.
 - **(d)** Not later than 90 days after the date of the enactment of this subsection, the Secretary shall ensure that the Department provides personnel of educational institutions who are charged with submitting reports or certifications to the Secretary under this section with assistance in preparing and submitting such reports or certifications.
+
+Training Requirement
+
+Definitions
+
+Effective Date
+
+Through July
+
+“During the period beginning on the date of the enactment of this Act [ Sept. 26, 2014 ] and ending on the day before the date of the enactment of the Jeff Miller and Richard Blumenthal Veterans Health Care and Benefits Improvement Act of 2016 [ Dec. 16, 2016 ], the second sentence of section 3684(c) shall be applied—
+
+## Source Credit
+
+*(Added [Pub. L. 89–358, § 3(b)](https://www.govinfo.gov/link/plaw/89/public/358), Mar. 3, 1966, [80 Stat. 22](https://www.govinfo.gov/link/statute/80/22), § 1784; amended [Pub. L. 90–77, title III, § 308(a)](https://www.govinfo.gov/link/plaw/90/public/77), Aug. 31, 1967, [81 Stat. 189](https://www.govinfo.gov/link/statute/81/189); [Pub. L. 92–540, title III, § 315](https://www.govinfo.gov/link/plaw/92/public/540), Oct. 24, 1972, [86 Stat. 1084](https://www.govinfo.gov/link/statute/86/1084); [Pub. L. 93–508, title II, § 210(2)](https://www.govinfo.gov/link/plaw/93/public/508), Dec. 3, 1974, [88 Stat. 1585](https://www.govinfo.gov/link/statute/88/1585); [Pub. L. 94–502, title V](https://www.govinfo.gov/link/plaw/94/public/502), §§ 507, 508, 513(a)(17), Oct. 15, 1976, [90 Stat. 2400](https://www.govinfo.gov/link/statute/90/2400), 2403; [Pub. L. 95–202, title III, § 304(a)(1)](https://www.govinfo.gov/link/plaw/95/public/202), Nov. 23, 1977, [91 Stat. 1442](https://www.govinfo.gov/link/statute/91/1442); [Pub. L. 96–466, title III, § 343(a)](https://www.govinfo.gov/link/plaw/96/public/466), (b)(1), title VI, § 601(e), Oct. 17, 1980, [94 Stat. 2198](https://www.govinfo.gov/link/statute/94/2198), 2208; [Pub. L. 97–295, § 4(55)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1309](https://www.govinfo.gov/link/statute/96/1309); [Pub. L. 99–576, title III](https://www.govinfo.gov/link/plaw/99/public/576), §§ 318, 319, Oct. 28, 1986, [100 Stat. 3275](https://www.govinfo.gov/link/statute/100/3275); [Pub. L. 101–237, title IV](https://www.govinfo.gov/link/plaw/101/public/237), §§ 416(a), 423(b)(1)(A), Dec. 18, 1989, [103 Stat. 2086](https://www.govinfo.gov/link/statute/103/2086), 2092; renumbered § 3684 and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 105–368, title II, § 201(a)](https://www.govinfo.gov/link/plaw/105/public/368), (b), Nov. 11, 1998, [112 Stat. 3326](https://www.govinfo.gov/link/statute/112/3326); [Pub. L. 106–419, title IV, § 404(a)(7)](https://www.govinfo.gov/link/plaw/106/public/419), Nov. 1, 2000, [114 Stat. 1865](https://www.govinfo.gov/link/statute/114/1865); [Pub. L. 108–454, title I, § 110(d)](https://www.govinfo.gov/link/plaw/108/public/454), Dec. 10, 2004, [118 Stat. 3605](https://www.govinfo.gov/link/statute/118/3605); [Pub. L. 111–275, title X, § 1001(i)](https://www.govinfo.gov/link/plaw/111/public/275), Oct. 13, 2010, [124 Stat. 2896](https://www.govinfo.gov/link/statute/124/2896); [Pub. L. 111–377, title II, § 204(a)](https://www.govinfo.gov/link/plaw/111/public/377), (b), Jan. 4, 2011, [124 Stat. 4126](https://www.govinfo.gov/link/statute/124/4126); [Pub. L. 112–249, § 3](https://www.govinfo.gov/link/plaw/112/public/249), Jan. 10, 2013, [126 Stat. 2401](https://www.govinfo.gov/link/statute/126/2401); [Pub. L. 114–315, title IV, § 407(a)](https://www.govinfo.gov/link/plaw/114/public/315), Dec. 16, 2016, [130 Stat. 1558](https://www.govinfo.gov/link/statute/130/1558); [Pub. L. 115–48, title III](https://www.govinfo.gov/link/plaw/115/public/48), §§ 304(a), 309, Aug. 16, 2017, [131 Stat. 992](https://www.govinfo.gov/link/statute/131/992), 994.)*

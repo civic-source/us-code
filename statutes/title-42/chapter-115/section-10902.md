@@ -3,9 +3,10 @@ title: "Section 10902 - Application for grants"
 usc_title: 42
 usc_section: "10902"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10902"
-generated_at: "2026-03-30T02:56:11.392Z"
+generated_at: "2026-11-23T21:26:33.390Z"
+status: "active"
 ---
 
 # § 10902. Application for grants
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.392Z"
 - **(c)** In making grants under this chapter, the Secretary shall—
   - **(1)** distribute such grants equitably among States; and
   - **(2)** ensure that the needs of rural and urban areas are appropriately addressed.
+
+## Source Credit
+
+*([Pub. L. 99–425, title VI, § 603](https://www.govinfo.gov/link/plaw/99/public/425), Sept. 30, 1986, [100 Stat. 976](https://www.govinfo.gov/link/statute/100/976); [Pub. L. 101–501, title V, § 501](https://www.govinfo.gov/link/plaw/101/public/501), Nov. 3, 1990, [104 Stat. 1256](https://www.govinfo.gov/link/statute/104/1256).)*

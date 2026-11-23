@@ -3,9 +3,10 @@ title: "Section 3665a - Office of Tribal Justice"
 usc_title: 25
 usc_section: "3665a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3665a"
-generated_at: "2026-03-30T02:54:52.855Z"
+generated_at: "2026-11-23T21:25:54.696Z"
+status: "active"
 ---
 
 # § 3665a. Office of Tribal Justice
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:52.855Z"
     - **(B)** any tribal treaty provision;
     - **(C)** the status of Indian tribes as sovereign governments; or
     - **(D)** any other tribal interest.
+
+## Source Credit
+
+*([Pub. L. 106–559, title I, § 106](https://www.govinfo.gov/link/plaw/106/public/559), as added [Pub. L. 111–211, title II, § 214(a)(2)(B)](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2270](https://www.govinfo.gov/link/statute/124/2270).)*

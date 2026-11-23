@@ -3,9 +3,10 @@ title: "Section 2212 - Development credits for micro, small, and medium-sized en
 usc_title: 22
 usc_section: "2212"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2212"
-generated_at: "2026-03-30T02:55:05.351Z"
+generated_at: "2026-11-23T21:25:58.447Z"
+status: "active"
 ---
 
 # § 2212. Development credits for micro, small, and medium-sized enterprises
@@ -28,3 +29,23 @@ generated_at: "2026-03-30T02:55:05.351Z"
 - **(f)**
   - **(1)** Of the amounts authorized to be available to carry out subchapter I of this chapter, there are authorized to be available such sums as may be necessary for each of the fiscal years 2005 through 2009 to carry out this section.
   - **(2)** Amounts authorized to be available under paragraph (1) shall be made available to cover the subsidy cost, as defined in section 661a(5) of title 2 , for activities under this section.
+
+“Congress makes the following findings and declarations:
+
+“The purposes of this title [see Short Title of 2000 Amendments note set out under section 2151 of this title ] are—
+
+“In this title [see Short Title of 2000 Amendments note set out under section 2151 of this title ]:
+
+Business development services
+
+Microenterprise institution
+
+Microfinance institution
+
+Practitioner institution
+
+Very poor
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 256, formerly § 108, as added [Pub. L. 98–151, § 101(b)(2)](https://www.govinfo.gov/link/plaw/98/public/151), Nov. 14, 1983, [97 Stat. 972](https://www.govinfo.gov/link/statute/97/972); amended [Pub. L. 99–83, title III, § 308](https://www.govinfo.gov/link/plaw/99/public/83), Aug. 8, 1985, [99 Stat. 215](https://www.govinfo.gov/link/statute/99/215); [Pub. L. 100–418, title II, § 2211](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1335](https://www.govinfo.gov/link/statute/102/1335); [Pub. L. 106–309, title I, § 106](https://www.govinfo.gov/link/plaw/106/public/309), Oct. 17, 2000, [114 Stat. 1085](https://www.govinfo.gov/link/statute/114/1085); [Pub. L. 108–31, § 2](https://www.govinfo.gov/link/plaw/108/public/31), June 17, 2003, [117 Stat. 775](https://www.govinfo.gov/link/statute/117/775); renumbered § 256 and amended [Pub. L. 108–484, § 4(a)](https://www.govinfo.gov/link/plaw/108/public/484), (b), (c)(3), Dec. 23, 2004, [118 Stat. 3926](https://www.govinfo.gov/link/statute/118/3926), 3927; [Pub. L. 115–428, § 4(f)](https://www.govinfo.gov/link/plaw/115/public/428), Jan. 9, 2019, [132 Stat. 5514](https://www.govinfo.gov/link/statute/132/5514).)*

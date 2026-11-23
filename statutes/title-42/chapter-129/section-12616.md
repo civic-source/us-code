@@ -3,9 +3,10 @@ title: "Section 12616 - Training"
 usc_title: 42
 usc_section: "12616"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12616"
-generated_at: "2026-03-30T02:56:11.420Z"
+generated_at: "2026-11-23T21:26:33.503Z"
+status: "active"
 ---
 
 # § 12616. Training
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.420Z"
   - **(1)** Members of the cadre appointed under section 12619(c)(2) of this title shall provide the training for the members of the Corps, including, as appropriate, advanced service training and ongoing training throughout the members’ periods of agreed service.
   - **(2)** Members of the cadre may provide, either directly or through grants, contracts, or cooperative agreements, the advanced service training referred to in subsection (b)(1) in coordination with vocational or technical schools, other employment and training providers, existing youth service programs, other qualified individuals, or organizations with expertise in training youth, including disadvantaged youth, in the skills described in such subsection.
 - **(d)** The training may be provided at installations and other facilities of the Department of Defense, and at National Guard facilities, identified under section 12622(c) of this title .
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 156](https://www.govinfo.gov/link/plaw/101/public/610), formerly § 195E, as added [Pub. L. 102–484, div. A, title X, § 1092(a)(1)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2525](https://www.govinfo.gov/link/statute/106/2525); renumbered § 156 and amended [Pub. L. 103–82, title I, § 104(b)](https://www.govinfo.gov/link/plaw/103/public/82), (e)(2)(D), Sept. 21, 1993, [107 Stat. 840](https://www.govinfo.gov/link/statute/107/840), 847; [Pub. L. 111–13, title I, § 1506](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1524](https://www.govinfo.gov/link/statute/123/1524).)*

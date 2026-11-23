@@ -3,9 +3,10 @@ title: "Section 49106 - Metropolitan Washington Airports Authority"
 usc_title: 49
 usc_section: "49106"
 chapter: 491
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 49106"
-generated_at: "2026-03-30T02:56:19.409Z"
+generated_at: "2026-11-23T21:26:41.005Z"
+status: "active"
 ---
 
 # § 49106. Metropolitan Washington Airports Authority
@@ -49,3 +50,207 @@ generated_at: "2026-03-30T02:56:19.409Z"
 - **(e)** An action of the Airports Authority changing, or having the effect of changing, the hours of operation of, or the type of aircraft serving, either of the Metropolitan Washington Airports may be taken only by regulation of the Airports Authority.
 - **(f)** To assist the Secretary in carrying out this chapter, the Secretary may hire 2 staff individuals to be paid by the Airports Authority. The Airports Authority shall provide clerical and support staff that the Secretary may require.
 - **(g)** The Comptroller General shall review contracts of the Airports Authority to decide whether the contracts were awarded by procedures that follow sound Government contracting principles and comply with section 49104(a)(4) of this title . The Comptroller General shall submit periodic reports of the conclusions reached as a result of the review to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 49106(a) | (uncodified). | Oct. 18, 1986 , Pub. L. 99–500, title VI, § 6007(a) , (b), 100 Stat. 1783–379 . |
+|  |  | Oct. 30, 1986 , Pub. L. 99–591, title VI, § 6007(a) , (b), 100 Stat. 3341–382 . |
+| 49106(b) | (uncodified). | Oct. 18, 1986 , Pub. L. 99–500, title VI, § 6007(c) , 100 Stat. 1783–379 . |
+|  |  | Oct. 30, 1986 , Pub. L. 99–591, title VI, § 6007(c) , 100 Stat. 3341–382 . |
+| 49106(c) | (uncodified). | Oct. 18, 1986 , Pub. L. 99–500, title VI, § 6007(e) , 100 Stat. 1783–380 ; Oct. 9, 1996 , Pub. L. 104–264, title IX, § 903 , 110 Stat. 3275 . |
+|  |  | Oct. 30, 1986 , Pub. L. 99–591, title VI, § 6007(e) , 100 Stat. 3341–383 ; Oct. 9, 1996 , Pub. L. 104–264, title IX, § 903 , 110 Stat. 3275 . |
+| 49106(d) | (uncodified). | Oct. 18, 1986 , Pub. L. 99–500, title VI, § 6007(d) (1st, 2d sentences), 100 Stat. 1783–379 . |
+|  |  | Oct. 30, 1986 , Pub. L. 99–591, title VI, § 6007(d) (1st, 2d sentences), 100 Stat. 3341–382 . |
+| 49106(e) | (uncodified). | Oct. 18, 1986 , Pub. L. 99–500, title VI, § 6007(f) , 100 Stat. 1783–382 ; Oct. 9, 1996 , Pub. L. 104–264, title IX, § 904(a) , 110 Stat. 3276 . |
+|  |  | Oct. 30, 1986 , Pub. L. 99–591, title VI, § 6007(f) , 100 Stat. 3341–385 ; Oct. 9, 1996 , Pub. L. 104–264, title IX, § 904(a) , 110 Stat. 3276 . |
+| 49106(f) | (uncodified). | Oct. 18, 1986 , Pub. L. 99–500, title VI, § 6007(h) , 100 Stat. 1783–382 ; Dec. 18, 1991 , Pub. L. 102–240, title VII, § 7002(e) , 105 Stat. 2200 ; Oct. 9, 1996 , Pub. L. 104–264, title IX, § 904(b) , 110 Stat. 3276 . |
+|  |  | Oct. 30, 1986 , Pub. L. 99–591, title VI, § 6007(h) , 100 Stat. 3341–385 ; Dec. 18, 1991 , Pub. L. 102–240, title VII, § 7002(e) , 105 Stat. 2200 ; Oct. 9, 1996 , Pub. L. 104–264, title IX, § 904(b) , 110 Stat. 3276 . |
+| 49106(g) | (uncodified). | Oct. 18, 1986 , Pub. L. 99–500, title VI, § 6007(g) , as added Dec. 18, 1991 , Pub. L. 102–240, title VII, § 7002(h) , 105 Stat. 2202 ; Oct. 9, 1996 , Pub. L. 104–264, title IX, § 904(a) , 110 Stat. 3276 . |
+|  |  | Oct. 30, 1986 , Pub. L. 99–591, title VI, § 6007(g) , as added Dec. 18, 1991 , Pub. L. 102–240, title VII, § 7002(h) , 105 Stat. 2202 ; Oct. 9, 1996 , Pub. L. 104–264, title IX, § 904(a) , 110 Stat. 3276 . |
+
+
+Status
+
+General Authority
+
+Board of Directors
+
+Conflicts of Interest
+
+Certain Actions To Be Taken by Regulation
+
+Administrative
+
+Review of Contracting Procedures
+
+Historical and Revision Notes
+
+49106(a)
+
+Oct. 18, 1986
+
+Pub. L. 99–500, title VI, § 6007(a)
+
+100 Stat. 1783–379
+
+Oct. 30, 1986
+
+Pub. L. 99–591, title VI, § 6007(a)
+
+100 Stat. 3341–382
+
+49106(b)
+
+Oct. 18, 1986
+
+Pub. L. 99–500, title VI, § 6007(c)
+
+100 Stat. 1783–379
+
+Oct. 30, 1986
+
+Pub. L. 99–591, title VI, § 6007(c)
+
+100 Stat. 3341–382
+
+49106(c)
+
+Oct. 18, 1986
+
+Pub. L. 99–500, title VI, § 6007(e)
+
+100 Stat. 1783–380
+
+Oct. 9, 1996
+
+Pub. L. 104–264, title IX, § 903
+
+110 Stat. 3275
+
+Oct. 30, 1986
+
+Pub. L. 99–591, title VI, § 6007(e)
+
+100 Stat. 3341–383
+
+Oct. 9, 1996
+
+Pub. L. 104–264, title IX, § 903
+
+110 Stat. 3275
+
+49106(d)
+
+Oct. 18, 1986
+
+Pub. L. 99–500, title VI, § 6007(d)
+
+100 Stat. 1783–379
+
+Oct. 30, 1986
+
+Pub. L. 99–591, title VI, § 6007(d)
+
+100 Stat. 3341–382
+
+49106(e)
+
+Oct. 18, 1986
+
+Pub. L. 99–500, title VI, § 6007(f)
+
+100 Stat. 1783–382
+
+Oct. 9, 1996
+
+Pub. L. 104–264, title IX, § 904(a)
+
+110 Stat. 3276
+
+Oct. 30, 1986
+
+Pub. L. 99–591, title VI, § 6007(f)
+
+100 Stat. 3341–385
+
+Oct. 9, 1996
+
+Pub. L. 104–264, title IX, § 904(a)
+
+110 Stat. 3276
+
+49106(f)
+
+Oct. 18, 1986
+
+Pub. L. 99–500, title VI, § 6007(h)
+
+100 Stat. 1783–382
+
+Dec. 18, 1991
+
+Pub. L. 102–240, title VII, § 7002(e)
+
+105 Stat. 2200
+
+Oct. 9, 1996
+
+Pub. L. 104–264, title IX, § 904(b)
+
+110 Stat. 3276
+
+Oct. 30, 1986
+
+Pub. L. 99–591, title VI, § 6007(h)
+
+100 Stat. 3341–385
+
+Dec. 18, 1991
+
+Pub. L. 102–240, title VII, § 7002(e)
+
+105 Stat. 2200
+
+Oct. 9, 1996
+
+Pub. L. 104–264, title IX, § 904(b)
+
+110 Stat. 3276
+
+49106(g)
+
+Oct. 18, 1986
+
+Pub. L. 99–500, title VI, § 6007(g)
+
+Dec. 18, 1991
+
+Pub. L. 102–240, title VII, § 7002(h)
+
+105 Stat. 2202
+
+Oct. 9, 1996
+
+Pub. L. 104–264, title IX, § 904(a)
+
+110 Stat. 3276
+
+Oct. 30, 1986
+
+Pub. L. 99–591, title VI, § 6007(g)
+
+Dec. 18, 1991
+
+Pub. L. 102–240, title VII, § 7002(h)
+
+105 Stat. 2202
+
+Oct. 9, 1996
+
+Pub. L. 104–264, title IX, § 904(a)
+
+110 Stat. 3276
+
+## Source Credit
+
+*(Added [Pub. L. 105–102, § 2(26)](https://www.govinfo.gov/link/plaw/105/public/102), Nov. 20, 1997, [111 Stat. 2210](https://www.govinfo.gov/link/statute/111/2210); amended [Pub. L. 105–225, § 7(c)(1)(A)](https://www.govinfo.gov/link/plaw/105/public/225), (B), Aug. 12, 1998, [112 Stat. 1511](https://www.govinfo.gov/link/statute/112/1511); [Pub. L. 106–181, title II, § 231(i)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 115](https://www.govinfo.gov/link/statute/114/115); [Pub. L. 112–55, div. C, title I, § 191](https://www.govinfo.gov/link/plaw/112/public/55), Nov. 18, 2011, [125 Stat. 671](https://www.govinfo.gov/link/statute/125/671); [Pub. L. 118–63, title XI, § 1101(x)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1414](https://www.govinfo.gov/link/statute/138/1414).)*

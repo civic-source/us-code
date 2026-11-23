@@ -3,9 +3,10 @@ title: "Section 853a - Art. 53a. Plea agreements"
 usc_title: 10
 usc_section: "853a"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 853a"
-generated_at: "2026-03-30T02:53:38.081Z"
+generated_at: "2026-11-23T21:25:32.338Z"
+status: "active"
 ---
 
 # § 853a. Art. 53a. Plea agreements
@@ -29,3 +30,17 @@ generated_at: "2026-03-30T02:53:38.081Z"
   - **(1)** the military judge may accept a plea agreement that provides for a sentence of bad conduct discharge; and
   - **(2)** upon recommendation of the trial counsel, in exchange for substantial assistance by the accused in the investigation or prosecution of another person who has committed an offense, the military judge may accept a plea agreement that provides for a sentence that is less than the mandatory minimum sentence for the offense charged.
 - **(e)** Upon acceptance by the military judge of a general or special court-martial, a plea agreement shall bind the parties (including the convening authority and the special trial counsel in the case of a plea agreement entered into under subsection (a)(3)) and the court-martial.
+
+In General
+
+Acceptance of Plea Agreement
+
+Limitation on Acceptance of Plea Agreements
+
+Limited Conditions for Acceptance of Plea Agreement for Sentence Below Mandatory Minimum for Certain Offenses
+
+Binding Effect of Plea Agreement
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. E, title LVII, § 5237](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2917](https://www.govinfo.gov/link/statute/130/2917); amended [Pub. L. 115–91, div. A, title V, § 531(d)](https://www.govinfo.gov/link/plaw/115/public/91), title X, § 1081(c)(1)(H), Dec. 12, 2017, [131 Stat. 1384](https://www.govinfo.gov/link/statute/131/1384), 1598; [Pub. L. 117–81, div. A, title V](https://www.govinfo.gov/link/plaw/117/public/81), §§ 539, 539E(b), Dec. 27, 2021, [135 Stat. 1698](https://www.govinfo.gov/link/statute/135/1698), 1701.)*

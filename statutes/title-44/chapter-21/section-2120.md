@@ -3,9 +3,10 @@ title: "Section 2120 - Online access of founding fathers documents"
 usc_title: 44
 usc_section: "2120"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 2120"
-generated_at: "2026-03-30T02:55:56.292Z"
+generated_at: "2026-11-23T21:26:18.410Z"
+status: "active"
 ---
 
 # § 2120. Online access of founding fathers documents
@@ -19,3 +20,11 @@ The Archivist may enter into a cooperative agreement to provide online access to
   - **(5)** John Adams;
   - **(6)** James Madison; and
   - **(7)** other prominent historical figures, as determined appropriate by the Archivist of the United States.
+
+In general
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 110–404, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/404), Oct. 13, 2008, [122 Stat. 4283](https://www.govinfo.gov/link/statute/122/4283).)*

@@ -3,9 +3,10 @@ title: "Section 609 - Reports to Congress"
 usc_title: 23
 usc_section: "609"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 609"
-generated_at: "2026-03-30T02:55:12.575Z"
+generated_at: "2026-11-23T21:25:53.944Z"
+status: "active"
 ---
 
 # § 609. Reports to Congress
@@ -35,3 +36,25 @@ generated_at: "2026-03-30T02:55:12.575Z"
     - **(D)** the estimated project eligible costs;
     - **(E)** the type of credit assistance sought; and
     - **(F)** the anticipated fiscal year and quarter for closing of the credit assistance.
+
+In General
+
+Application Process Report.—
+
+In general
+
+Inclusions.—
+
+In general
+
+Correspondence
+
+Status Reports.—
+
+In general
+
+Inclusions
+
+## Source Credit
+
+*(Added [Pub. L. 105–178, title I, § 1503(a)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 250](https://www.govinfo.gov/link/statute/112/250), § 189; renumbered § 609 and amended [Pub. L. 109–59, title I](https://www.govinfo.gov/link/plaw/109/public/59), §§ 1601(h), 1602(d), Aug. 10, 2005, [119 Stat. 1242](https://www.govinfo.gov/link/statute/119/1242), 1247; [Pub. L. 112–141, div. A, title II, § 2002](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 621](https://www.govinfo.gov/link/statute/126/621); [Pub. L. 114–94, div. A, title II, § 2001(h)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1444](https://www.govinfo.gov/link/statute/129/1444); [Pub. L. 117–58, div. A, title II, § 12001(j)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 621](https://www.govinfo.gov/link/statute/135/621).)*

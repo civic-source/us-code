@@ -3,9 +3,10 @@ title: "Section 13315 - Data system and energy technology evaluation"
 usc_title: 42
 usc_section: "13315"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13315"
-generated_at: "2026-03-30T02:56:11.441Z"
+generated_at: "2026-11-23T21:26:33.592Z"
+status: "active"
 ---
 
 # § 13315. Data system and energy technology evaluation
@@ -19,3 +20,7 @@ The Secretary of Commerce, in his or her role as a member of the interagency wor
     - **(B)** an inventory of United States technologies and services to meet those needs;
     - **(C)** an update on the status of ongoing bilateral and multilateral programs which promote United States exports of renewable energy and energy efficiency products and technologies; and
     - **(D)** an evaluation of current programs (and recommendations for future programs) that develop and promote energy efficiency and sustainable use of indigenous renewable energy resources in foreign countries to reduce the generation of greenhouse gases.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XII, § 1209](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2964](https://www.govinfo.gov/link/statute/106/2964).)*

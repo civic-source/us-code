@@ -3,9 +3,10 @@ title: "Section 416 - Additional provisions with respect to Inspectors General o
 usc_title: 5
 usc_section: "416"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 416"
-generated_at: "2026-03-30T02:52:55.983Z"
+generated_at: "2026-11-23T21:25:23.043Z"
+status: "active"
 ---
 
 # § 416. Additional provisions with respect to Inspectors General of the intelligence community
@@ -53,3 +54,124 @@ generated_at: "2026-03-30T02:52:55.983Z"
       - **(ii)** any otherwise applicable regulation or order issued under the authority of chapter 18 of the Atomic Energy Act of 1954 ( 42 U.S.C. 2271 et seq.) or Executive Order 13526;
       - **(iii)** section 798 of title 18 ; or
       - **(iv)** any other provision of law with respect to the unauthorized disclosure of national security information.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 416 | 5 U.S.C. App. (IGA § 8H) | Pub. L. 95–452, § 8H , as added Pub. L. 105–272, title VII, § 702(b)(1) , Oct. 20, 1998 , 112 Stat. 2415 ; amended Pub. L. 107–108, title III, § 309(b) , Dec. 28, 2001 , 115 Stat. 1400 ; Pub. L. 107–306, title VIII, § 825 , Nov. 27, 2002 , 116 Stat. 2429 ; Pub. L. 110–417 , [div. A], title IX, § 931(b)(2), Oct. 14, 2008 , 122 Stat. 4575 ; Pub. L. 111–259, title IV, § 431(b) , Oct. 7, 2010 , 124 Stat. 2731 ; Pub. L. 113–126, title III, § 310 , title VI, § 603(a), July 7, 2014 , 128 Stat. 1398 , 1420; Pub. L. 116–92, div. E, title LXVII, § 6726(c) , Dec. 20, 2019 , 133 Stat. 2236 . |
+
+
+Definitions
+
+Intelligence committees
+
+Urgent concern
+
+Employee
+
+Intelligence community
+
+Complaint or Information With Respect to Urgent Concern.—
+
+To whom reports may be made; support for written submission.—
+
+Inspector general of department of defense
+
+Inspector general of intelligence community
+
+Inspector general of department of justice
+
+Other appropriate inspector general
+
+Support for written submission
+
+Designee to report complaint or information to inspector general within 7 days
+
+Designees of inspector general of department of defense
+
+Initial Determinations and Transmittals.—
+
+Credibility
+
+Deadline for compliance
+
+Conflict of interest
+
+Forwarding Transmittals
+
+Submitting Complaint or Information to Congress.—
+
+In general
+
+Limitation
+
+Intelligence committee receipt of complaint or information
+
+Notification
+
+No Judicial Review
+
+Notice of Submission and Date
+
+Protection for Individuals Making Authorized Disclosures.—
+
+Disclosure
+
+Disclosure without clearance or authority.—
+
+Treatment
+
+Rule of construction
+
+Covered provision defined
+
+Historical and Revision Notes
+
+416
+
+Pub. L. 95–452, § 8H
+
+Pub. L. 105–272, title VII, § 702(b)(1)
+
+Oct. 20, 1998
+
+112 Stat. 2415
+
+Pub. L. 107–108, title III, § 309(b)
+
+Dec. 28, 2001
+
+115 Stat. 1400
+
+Pub. L. 107–306, title VIII, § 825
+
+Nov. 27, 2002
+
+116 Stat. 2429
+
+Pub. L. 110–417
+
+Oct. 14, 2008
+
+122 Stat. 4575
+
+Pub. L. 111–259, title IV, § 431(b)
+
+Oct. 7, 2010
+
+124 Stat. 2731
+
+Pub. L. 113–126, title III, § 310
+
+July 7, 2014
+
+128 Stat. 1398
+
+Pub. L. 116–92, div. E, title LXVII, § 6726(c)
+
+Dec. 20, 2019
+
+133 Stat. 2236
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(b)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4242](https://www.govinfo.gov/link/statute/136/4242); [Pub. L. 118–159, div. F, title LXVII](https://www.govinfo.gov/link/plaw/118/public/159), §§ 6701(c), 6702(c), Dec. 23, 2024, [138 Stat. 2512](https://www.govinfo.gov/link/statute/138/2512), 2514.)*

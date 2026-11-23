@@ -3,9 +3,10 @@ title: "Section 2636 - Time for commencement of action"
 usc_title: 28
 usc_section: "2636"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 2636"
-generated_at: "2026-03-30T02:55:30.150Z"
+generated_at: "2026-11-23T21:26:01.137Z"
+status: "active"
 ---
 
 # § 2636. Time for commencement of action
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:30.150Z"
 - **(g)** A civil action contesting the denial or revocation by the Secretary of the Treasury of a customs broker’s license or permit under subsection (b) or (c) of section 641 of the Tariff Act of 1930, or the revocation or suspension of such license or permit or the imposition of a monetary penalty in lieu thereof by such Secretary under section 641(d) of such Act, is barred unless commenced in accordance with the rules of the Court of International Trade within sixty days after the date of the entry of the decision or order of such Secretary.
 - **(h)** A civil action contesting the denial, suspension, or revocation by the Customs Service of a private laboratory’s accreditation under section 499(b) of the Tariff Act of 1930 is barred unless commenced in accordance with the rules of the Court of International Trade within 60 days after the date of the decision or order of the Customs Service.
 - **(i)** A civil action of which the Court of International Trade has jurisdiction under section 1581 of this title , other than an action specified in subsections (a)–(h) of this section, is barred unless commenced in accordance with the rules of the court within two years after the cause of action first accrues.
+
+## Source Credit
+
+*(Added [Pub. L. 96–417, title III, § 301](https://www.govinfo.gov/link/plaw/96/public/417), Oct. 10, 1980, [94 Stat. 1734](https://www.govinfo.gov/link/statute/94/1734); amended [Pub. L. 98–573, title II, § 212(b)(4)](https://www.govinfo.gov/link/plaw/98/public/573), title VI, § 623(b)(1), Oct. 30, 1984, [98 Stat. 2984](https://www.govinfo.gov/link/statute/98/2984), 3041; [Pub. L. 103–182, title VI, § 684(a)(3)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2219](https://www.govinfo.gov/link/statute/107/2219).)*

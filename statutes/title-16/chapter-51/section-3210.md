@@ -3,12 +3,17 @@ title: "Section 3210 - Access by owner to nonfederally owned land"
 usc_title: 16
 usc_section: "3210"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3210"
-generated_at: "2026-03-30T02:54:23.013Z"
+generated_at: "2026-11-23T21:25:51.966Z"
+status: "active"
 ---
 
 # § 3210. Access by owner to nonfederally owned land
 
 - **(a)** Notwithstanding any other provision of law, and subject to such terms and conditions as the Secretary of Agriculture may prescribe, the Secretary shall provide such access to nonfederally owned land within the boundaries of the National Forest System as the Secretary deems adequate to secure to the owner the reasonable use and enjoyment thereof: Provided , That such owner comply with rules and regulations applicable to ingress and egress to or from the National Forest System.
 - **(b)** Notwithstanding any other provision of law, and subject to such terms and conditions as the Secretary of the Interior may prescribe, the Secretary shall provide such access to nonfederally owned land surrounded by public lands managed by the Secretary under the Federal Land Policy and Management Act of 1976 ( 43 U.S.C. 1701–82 ) as the Secretary deems adequate to secure to the owner the reasonable use and enjoyment thereof: Provided , That such owner comply with rules and regulations applicable to access across public lands.
+
+## Source Credit
+
+*([Pub. L. 96–487, title XIII, § 1323](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2488](https://www.govinfo.gov/link/statute/94/2488).)*

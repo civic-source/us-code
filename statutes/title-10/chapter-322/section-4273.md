@@ -3,9 +3,10 @@ title: "Section 4273 - Performance assessments and root cause analyses"
 usc_title: 10
 usc_section: "4273"
 chapter: 322
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4273"
-generated_at: "2026-03-30T02:53:38.206Z"
+generated_at: "2026-11-23T21:25:32.767Z"
+status: "active"
 ---
 
 # § 4273. Performance assessments and root cause analyses
@@ -36,3 +37,25 @@ generated_at: "2026-03-30T02:53:38.206Z"
   - **(7)** poor performance by government or contractor personnel responsible for program management; or
   - **(8)** any other matters.
 - **(e)** The Secretary of Defense shall ensure that the senior official designated under subsection (a) has the support of other Department of Defense officials with relevant capabilities and expertise needed to carry out the requirements of this section.
+
+Designation of Senior Official Responsibility for Performance Assessments and Root Cause Analyses
+
+In general
+
+No program execution responsibility
+
+Staff and resources
+
+Responsibilities
+
+Performance Assessments
+
+Root Cause Analyses
+
+Support of Applicable Capabilities and Expertise
+
+performance assessments and root cause analyses for major defense acquisition programs
+
+## Source Credit
+
+*(Added and amended [Pub. L. 111–383, div. A, title IX, § 901(d)](https://www.govinfo.gov/link/plaw/111/public/383), (k)(1)(F), Jan. 7, 2011, [124 Stat. 4321](https://www.govinfo.gov/link/statute/124/4321), 4325, § 2438; [Pub. L. 112–239, div. A, title X, § 1076(f)(27)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1953](https://www.govinfo.gov/link/statute/126/1953); [Pub. L. 114–92, div. A, title X, § 1077(b)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 998](https://www.govinfo.gov/link/statute/129/998); [Pub. L. 116–92, div. A, title IX, § 902(72)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1551](https://www.govinfo.gov/link/statute/133/1551); renumbered § 4273 and amended [Pub. L. 116–283, div. A, title XVIII, § 1847(e)(3)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4256](https://www.govinfo.gov/link/statute/134/4256); [Pub. L. 117–81, div. A, title XVII, § 1701(b)(16)(B)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2134](https://www.govinfo.gov/link/statute/135/2134); [Pub. L. 118–31, div. A, title XVIII, § 1801(a)(34)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 685](https://www.govinfo.gov/link/statute/137/685); [Pub. L. 118–159, div. A, title XVII, § 1701(a)(44)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2206](https://www.govinfo.gov/link/statute/138/2206).)*

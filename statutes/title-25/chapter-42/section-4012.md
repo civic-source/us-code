@@ -3,9 +3,10 @@ title: "Section 4012 - Authority for payment of claims for interest owed"
 usc_title: 25
 usc_section: "4012"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4012"
-generated_at: "2026-03-30T02:54:52.857Z"
+generated_at: "2026-11-23T21:25:54.701Z"
+status: "active"
 ---
 
 # § 4012. Authority for payment of claims for interest owed
@@ -14,3 +15,7 @@ The Secretary shall make payments to an individual Indian in full satisfaction o
 
   - **(1)** by a reconciliation process of individual Indian money accounts, or
   - **(2)** by the individual and presented to the Secretary with supporting documentation, and is verified by the Secretary pursuant to the Department’s policy for addressing accountholder losses.
+
+## Source Credit
+
+*([Pub. L. 103–412, title I, § 104](https://www.govinfo.gov/link/plaw/103/public/412), Oct. 25, 1994, [108 Stat. 4241](https://www.govinfo.gov/link/statute/108/4241).)*

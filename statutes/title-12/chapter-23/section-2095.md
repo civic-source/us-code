@@ -3,9 +3,10 @@ title: "Section 2095 - Repealed. Pub. L. 100–399, title IV, § 401(v) , Aug. 1
 usc_title: 12
 usc_section: "2095"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2095"
-generated_at: "2026-03-30T02:53:53.472Z"
+generated_at: "2026-11-23T21:25:37.053Z"
+status: "repealed"
 ---
 
 # § 2095. Repealed. Pub. L. 100–399, title IV, § 401(v) , Aug. 17, 1988 , 102 Stat. 999

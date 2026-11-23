@@ -3,9 +3,10 @@ title: "Section 17194 - Enhanced geothermal systems research and development"
 usc_title: 42
 usc_section: "17194"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17194"
-generated_at: "2026-03-30T02:56:11.500Z"
+generated_at: "2026-11-23T21:26:33.772Z"
+status: "active"
 ---
 
 # § 17194. Enhanced geothermal systems research and development
@@ -65,3 +66,7 @@ generated_at: "2026-03-30T02:56:11.500Z"
     - **(C)** Not fewer than 1 of the demonstration projects carried out under subparagraph (A) shall be located an area east of the Mississippi River that is suitable for enhanced geothermal demonstration for power, heat, or a combination of power and heat.
     - **(D)** The Secretary may carry out demonstration projects under this subsection as a milestone-based demonstration project under section 7256c of this title .
   - **(3)** Out of funds authorized to be appropriated under section 17202 of this title , there shall be made available to the Secretary to carry out the demonstration activities under this subsection $21,000,000 for each of fiscal years 2021 through 2025.
+
+## Source Credit
+
+*([Pub. L. 110–140, title VI, § 615](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1680](https://www.govinfo.gov/link/statute/121/1680); [Pub. L. 116–260, div. Z, title III, § 3002(d)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2489](https://www.govinfo.gov/link/statute/134/2489).)*

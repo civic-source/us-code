@@ -3,9 +3,10 @@ title: "Section 1 - Nuclear reprocessing transfers, illegal exports for nuclear 
 usc_title: 22
 usc_section: "1"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1"
-generated_at: "2026-03-30T02:55:05.388Z"
+generated_at: "2026-11-23T21:25:58.572Z"
+status: "active"
 ---
 
 # § 2799aa–1. Nuclear reprocessing transfers, illegal exports for nuclear explosive devices, transfers of nuclear explosive devices, and nuclear detonations
@@ -54,3 +55,41 @@ generated_at: "2026-03-30T02:55:05.388Z"
   - **(7)** For purposes of this subsection, continuity of session is broken only by an adjournment of Congress sine die and the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of any period of time in which Congress is in continuous session.
   - **(8)** The President may not delegate or transfer his power, authority, or discretion to make or modify determinations under this subsection.
 - **(c)** As used in this section, the term “non-­nuclear-weapon state” means any country which is not a nuclear-weapon state, as defined in Article IX(3) of the Treaty on the Non-Proliferation of Nuclear Weapons.
+
+Waiver Authority.—
+
+In general
+
+Limitation
+
+Exceptions.—
+
+Limited exception related to certain sanctions and prohibitions
+
+Limited exception related to certain activities
+
+Exception related to certain activities occurring after date of enactment
+
+Limited exception related to lethal weapons
+
+Appropriate Congressional Committees Defined
+
+Waiver Authority
+
+Exception
+
+Termination of Waiver
+
+Targeted Sanctions.—
+
+Sense of the congress.—
+
+Reporting requirement
+
+Congressional Notification
+
+Repeal
+
+## Source Credit
+
+*([Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 10, § 102, as added [Pub. L. 103–236, title VIII, § 826(a)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 516](https://www.govinfo.gov/link/statute/108/516); amended [Pub. L. 105–194, § 2(a)](https://www.govinfo.gov/link/plaw/105/public/194) –(c), July 14, 1998, [112 Stat. 627](https://www.govinfo.gov/link/statute/112/627); [Pub. L. 113–276, title II, § 208(a)(1)](https://www.govinfo.gov/link/plaw/113/public/276), Dec. 18, 2014, [128 Stat. 2992](https://www.govinfo.gov/link/statute/128/2992).)*

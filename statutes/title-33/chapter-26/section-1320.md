@@ -3,9 +3,10 @@ title: "Section 1320 - International pollution abatement"
 usc_title: 33
 usc_section: "1320"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1320"
-generated_at: "2026-03-30T02:55:41.093Z"
+generated_at: "2026-11-23T21:26:11.381Z"
+status: "active"
 ---
 
 # § 1320. International pollution abatement
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:41.093Z"
 - **(d)** In connection with any hearing called under this subsection, the board is authorized to require any person whose alleged activities result in discharges causing or contributing to pollution to file with it in such forms as it may prescribe, a report based on existing data, furnishing such information as may reasonably be required as to the character, kind, and quantity of such discharges and the use of facilities or other means to prevent or reduce such discharges by the person filing such a report. Such report shall be made under oath or otherwise, as the board may prescribe, and shall be filed with the board within such reasonable period as it may prescribe, unless additional time is granted by it. Upon a showing satisfactory to the board by the person filing such report that such report or portion thereof (other than effluent data), to which the Administrator has access under this section, if made public would divulge trade secrets or secret processes of such person, the board shall consider such report or portion thereof confidential for the purposes of section 1905 of title 18 . If any person required to file any report under this paragraph shall fail to do so within the time fixed by the board for filing the same, and such failure shall continue for thirty days after notice of such default, such person shall forfeit to the United States the sum of $1,000 for each and every day of the continuance of such failure, which forfeiture shall be payable into the Treasury of the United States, and shall be recoverable in a civil suit in the name of the United States in the district court of the United States where such person has his principal office or in any district in which he does business. The Administrator may upon application therefor remit or mitigate any forfeiture provided for under this subsection.
 - **(e)** Board members, other than officers or employees of Federal, State, or local governments, shall be for each day (including travel-time) during which they are performing board business, entitled to receive compensation at a rate fixed by the Administrator but not in excess of the maximum rate of pay for grade GS–18, as provided in the General Schedule under section 5332 of title 5 , and shall, notwithstanding the limitations of sections 5703 and 5704 of title 5, be fully reimbursed for travel, subsistence and related expenses.
 - **(f)** When any such recommendation adopted by the Administrator involves the institution of enforcement proceedings against any person to obtain the abatement of pollution subject to such recommendation, the Administrator shall institute such proceedings if he believes that the evidence warrants such proceedings. The district court of the United States shall consider and determine de novo all relevant issues, but shall receive in evidence the record of the proceedings before the conference or hearing board. The court shall have jurisdiction to enter such judgment and orders enforcing such judgment as it deems appropriate or to remand such proceedings to the Administrator for such further action as it may direct.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title III, § 310, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 860](https://www.govinfo.gov/link/statute/86/860).)*

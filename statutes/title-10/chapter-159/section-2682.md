@@ -3,9 +3,10 @@ title: "Section 2682 - Facilities for defense agencies"
 usc_title: 10
 usc_section: "2682"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2682"
-generated_at: "2026-03-30T02:53:38.169Z"
+generated_at: "2026-11-23T21:25:32.650Z"
+status: "active"
 ---
 
 # § 2682. Facilities for defense agencies
@@ -21,3 +22,13 @@ generated_at: "2026-03-30T02:53:38.169Z"
       - **(i)** the congressional defense committees; and
       - **(ii)** the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives.
   - **(4)** The waiver authority provided by paragraph (1) expires December 31, 2020 .
+
+Maintenance and Repair
+
+Jurisdiction
+
+Facilities for Intelligence Collection or for Special Operations Abroad
+
+## Source Credit
+
+*(Added [Pub. L. 88–174, title VI, § 609(a)(1)](https://www.govinfo.gov/link/plaw/88/public/174), Nov. 7, 1963, [77 Stat. 329](https://www.govinfo.gov/link/statute/77/329); amended [Pub. L. 97–214, § 10(a)(7)](https://www.govinfo.gov/link/plaw/97/public/214), July 12, 1982, [96 Stat. 175](https://www.govinfo.gov/link/statute/96/175); [Pub. L. 112–81, div. A, title IX, § 926](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1541](https://www.govinfo.gov/link/statute/125/1541); [Pub. L. 114–92, div. A, title XVI, § 1632](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1111](https://www.govinfo.gov/link/statute/129/1111); [Pub. L. 115–91, div. B, title XXVIII, § 2811(f)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1848](https://www.govinfo.gov/link/statute/131/1848).)*

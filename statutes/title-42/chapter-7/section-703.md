@@ -3,9 +3,10 @@ title: "Section 703 - Payments to States"
 usc_title: 42
 usc_section: "703"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 703"
-generated_at: "2026-03-30T02:56:10.893Z"
+generated_at: "2026-11-23T21:26:31.177Z"
+status: "active"
 ---
 
 # § 703. Payments to States
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:10.893Z"
 - **(c)** The Secretary, at the request of a State, may reduce the amount of payments under subsection (a) by—
   - **(1)** the fair market value of any supplies or equipment furnished the State, and
   - **(2)** the amount of the pay, allowances, and travel expenses of any officer or employee of the Government when detailed to the State and the amount of any other costs incurred in connection with the detail of such officer or employee,
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title V, § 503, as added [Pub. L. 97–35, title XXI, § 2192(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 821](https://www.govinfo.gov/link/statute/95/821); amended [Pub. L. 98–369, div. B, title III, § 2373(a)(1)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1111](https://www.govinfo.gov/link/statute/98/1111); [Pub. L. 101–239, title VI](https://www.govinfo.gov/link/plaw/101/public/239), §§ 6502(b), 6503(c)(4), Dec. 19, 1989, [103 Stat. 2276](https://www.govinfo.gov/link/statute/103/2276), 2278.)*

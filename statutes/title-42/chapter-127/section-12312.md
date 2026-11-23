@@ -3,9 +3,10 @@ title: "Section 12312 - Functions of Commissioner"
 usc_title: 42
 usc_section: "12312"
 chapter: 127
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12312"
-generated_at: "2026-03-30T02:56:11.412Z"
+generated_at: "2026-11-23T21:26:33.464Z"
+status: "active"
 ---
 
 # § 12312. Functions of Commissioner
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:11.412Z"
   - **(14)** conduct periodic evaluations of the programs and activities related to the purposes of this chapter; and
   - **(15)** develop, in coordination with other agencies, methods to ensure adequate training for personnel concerning children, youth and families and to ensure the adequate dissemination of such information to appropriate State and community agencies.
 - **(b)** In executing the duties and functions of the Administration under this subchapter and in carrying out the programs and activities authorized under this chapter, the Commissioner, in consultation with the Chief Executive Officer of the Corporation for National and Community Service, shall take necessary steps to coordinate with and seek the advice of voluntary agencies and organizations that provide services related to the purposes of this chapter.
+
+## Source Credit
+
+*([Pub. L. 101–501, title IX, § 916](https://www.govinfo.gov/link/plaw/101/public/501), Nov. 3, 1990, [104 Stat. 1263](https://www.govinfo.gov/link/statute/104/1263); [Pub. L. 103–82, title IV, § 405](https://www.govinfo.gov/link/plaw/103/public/82) (o), Sept. 21, 1993, [107 Stat. 922](https://www.govinfo.gov/link/statute/107/922).)*

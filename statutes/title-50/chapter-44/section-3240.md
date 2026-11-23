@@ -3,9 +3,10 @@ title: "Section 3240 - Report on best practices to protect privacy, civil libert
 usc_title: 50
 usc_section: "3240"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3240"
-generated_at: "2026-03-30T02:56:26.242Z"
+generated_at: "2026-11-23T21:26:39.028Z"
+status: "active"
 ---
 
 # § 3240. Report on best practices to protect privacy, civil liberties, and civil rights of Chinese Americans
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:26.242Z"
   - **(1)** a review of how the policies, procedures, and practices of the intelligence community that govern the intelligence activities and operations targeting the People’s Republic of China affect policies, procedures, and practices relating to the privacy, civil liberties, and civil rights of Americans of Chinese descent who may be targets of espionage and influence operations by China; and
   - **(2)** recommendations to ensure that the privacy, civil liberties, and civil rights of Americans of Chinese descent are sufficiently protected.
 - **(c)** The report under subsection (b) shall be submitted in unclassified form, but may include a classified annex.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title XI, § 1110, formerly [Pub. L. 116–92, div. E, title LVII, § 5712](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2171](https://www.govinfo.gov/link/statute/133/2171); renumbered § 1110 of act July 26, 1947, and amended [Pub. L. 116–260, div. W, title VI, § 620(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2401](https://www.govinfo.gov/link/statute/134/2401).)*

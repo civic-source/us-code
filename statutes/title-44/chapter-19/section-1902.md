@@ -3,12 +3,17 @@ title: "Section 1902 - Availability of Government publications through Superinte
 usc_title: 44
 usc_section: "1902"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 1902"
-generated_at: "2026-03-30T02:55:56.291Z"
+generated_at: "2026-11-23T21:26:18.399Z"
+status: "active"
 ---
 
 # § 1902. Availability of Government publications through Superintendent of Documents; lists of publications not ordered from Government Publishing Office
 
 Government publications, except those determined by their issuing components to be required for official use only or for strictly administrative or operational purposes which have no public interest or educational value and publications classified for reasons of national security, shall be made available to depository libraries through the facilities of the Superintendent of Documents for public information. Each component of the Government shall furnish the Superintendent of Documents a list of such publications it issued during the previous month, that were obtained from sources other than the Government Publishing Office.
 
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1283](https://www.govinfo.gov/link/statute/82/1283); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537).)*

@@ -3,9 +3,10 @@ title: "Section 262 - Regulation of biological products"
 usc_title: 42
 usc_section: "262"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 262"
-generated_at: "2026-03-30T02:56:10.719Z"
+generated_at: "2026-11-23T21:26:30.375Z"
+status: "active"
 ---
 
 # § 262. Regulation of biological products
@@ -203,3 +204,81 @@ generated_at: "2026-03-30T02:56:10.719Z"
   - **(2)** For purposes of this section, with respect to an application described in paragraph (1), references to the date of approval of such application, or licensure of the product subject to such application, shall mean the later of—
     - **(A)** the date an application is approved under subsection (a); or
     - **(B)** the date of issuance of the interim final rule controlling the biological product.
+
+Pediatric studies
+
+Postmarket studies and clinical trials; labeling; risk evaluation and mitigation strategy
+
+(aa) analytical studies that demonstrate that the biological product is highly similar to the reference product notwithstanding minor differences in clinically inactive components;
+
+(bb) an assessment of toxicity (which may rely on, or consist of, a study or studies described in item (aa) or (cc)); and
+
+(cc) a clinical study or studies (including the assessment of immunogenicity and pharmacokinetics or pharmacodynamics) that are sufficient to demonstrate safety, purity, and potency in 1 or more appropriate conditions of use for which the reference product is licensed and intended to be used and for which licensure is sought for the biological product;
+
+Requirement to follow section
+
+Exception
+
+Limitation
+
+Deemed approved under section
+
+In general
+
+Treatment of certain applications.—
+
+In general
+
+Effect on listed drugs
+
+“(aa) such drug is removed from such list in accordance with subclause (III) or subparagraph (C) of such section 505(j)(7); or
+
+“(bb) this subparagraph no longer has force or effect.
+
+Deemed licensure
+
+Rule of construction.—
+
+Application of certain provisions.—
+
+“(aa) Patent certification or statement .— An application described in clause (i) shall contain a patent certification or statement described in, as applicable, section 505(b)(2) of the Federal Food, Drug, and Cosmetic Act or clauses (vii) and (viii) of section 505(j)(2)(A) of such Act and, with respect to any listed drug referenced in such application, comply with related requirements concerning any timely filed patent information listed pursuant to section 505(j)(7) of such Act.
+
+“(bb) Date of approval .— The earliest possible date on which any pending application described in clause (i) may be approved shall be determined based on— “(AA) the last expiration date of any applicable period of exclusivity that would prevent such approval and that is described in section 505(c)(3)(E), 505(j)(5)(B)(iv), 505(j)(5)(F), 505A [ 21 U.S.C. 355a ], 505E [ 21 U.S.C. 355f ], or 527 [ 21 U.S.C. 360cc ] of the Federal Food, Drug, and Cosmetic Act; and “(BB) if the application was submitted pursuant to section 505(b)(2) of the Federal Food, Drug, and Cosmetic Act and references any listed drug, the last applicable date determined under subparagraph (A), (B), or (C) of section 505(c)(3) of such Act, or, if the application was submitted under section 505(j) of such Act, the last applicable date determined under clause (i), (ii), or (iii) of section 505(j)(5)(B) of such Act.
+
+Exclusivity
+
+Listing
+
+Sunset
+
+Definitions
+
+Evaluation of costs of reviewing biosimilar biological product applications
+
+Audit.—
+
+In general
+
+(aa) such ratio determined under subclause (I); to
+
+“(bb) the ratio of the costs of reviewing applications for biological products under section 351(a) of such Act [ 42 U.S.C. 262(a) ] (as amended by this Act) to the amount of the user fee applicable to such applications under such section 351(a).
+
+Alteration of user fee
+
+Accounting standards
+
+“If a reference product, as defined in section 351 of the Public Health Service Act ( 42 U.S.C. 262 ) (as amended by this Act) has been designated under section 526 of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 360bb ) for a rare disease or condition, a biological product seeking approval for such disease or condition under subsection (k) of such section 351 as biosimilar to, or interchangeable with, such reference product may be licensed by the Secretary [of Health and Human Services] only after the expiration for such reference product of the later of—
+
+Determination
+
+Use
+
+Findings
+
+Criminal Enforcement
+
+Terrorism
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 351, [58 Stat. 702](https://www.govinfo.gov/link/statute/58/702); 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631](https://www.govinfo.gov/link/statute/67/631); [Pub. L. 85–881, § 2](https://www.govinfo.gov/link/plaw/85/public/881), Sept. 2, 1958, [72 Stat. 1704](https://www.govinfo.gov/link/statute/72/1704); [Pub. L. 91–515, title II, § 291](https://www.govinfo.gov/link/plaw/91/public/515), Oct. 30, 1970, [84 Stat. 1308](https://www.govinfo.gov/link/statute/84/1308); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695); [Pub. L. 99–660, title I, § 105(a)](https://www.govinfo.gov/link/plaw/99/public/660), title III, § 315, Nov. 14, 1986, [100 Stat. 3751](https://www.govinfo.gov/link/statute/100/3751), 3783; [Pub. L. 102–300, § 6(b)(1)](https://www.govinfo.gov/link/plaw/102/public/300), June 16, 1992, [106 Stat. 240](https://www.govinfo.gov/link/statute/106/240); [Pub. L. 104–134, title II](https://www.govinfo.gov/link/plaw/104/public/134), §§ 2102(d)(2), 2104, Apr. 26, 1996, [110 Stat. 1321–319](https://www.govinfo.gov/link/statute/110/1321), 1321–320; [Pub. L. 105–115, title I, § 123(a)](https://www.govinfo.gov/link/plaw/105/public/115) –(d), (g), Nov. 21, 1997, [111 Stat. 2323](https://www.govinfo.gov/link/statute/111/2323), 2324; [Pub. L. 108–155, § 2(b)(3)](https://www.govinfo.gov/link/plaw/108/public/155), Dec. 3, 2003, [117 Stat. 1941](https://www.govinfo.gov/link/statute/117/1941); [Pub. L. 110–85, title IX, § 901(c)](https://www.govinfo.gov/link/plaw/110/public/85), Sept. 27, 2007, [121 Stat. 939](https://www.govinfo.gov/link/statute/121/939); [Pub. L. 111–148, title VII, § 7002(a)](https://www.govinfo.gov/link/plaw/111/public/148), (b), (g)(1), Mar. 23, 2010, [124 Stat. 804](https://www.govinfo.gov/link/statute/124/804), 814, 819; [Pub. L. 112–144, title V, § 502(a)(2)](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 1040](https://www.govinfo.gov/link/statute/126/1040); [Pub. L. 114–89, § 2(a)(2)](https://www.govinfo.gov/link/plaw/114/public/89), Nov. 25, 2015, [129 Stat. 698](https://www.govinfo.gov/link/statute/129/698); [Pub. L. 114–255, div. A, title III, § 3031(b)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1100](https://www.govinfo.gov/link/statute/130/1100); [Pub. L. 115–52, title V, § 505(b)(2)(B)](https://www.govinfo.gov/link/plaw/115/public/52), Aug. 18, 2017, [131 Stat. 1046](https://www.govinfo.gov/link/statute/131/1046); [Pub. L. 116–94, div. N, title I](https://www.govinfo.gov/link/plaw/116/public/94), §§ 605, 606, Dec. 20, 2019, [133 Stat. 3127](https://www.govinfo.gov/link/statute/133/3127); [Pub. L. 116–260, div. BB, title III](https://www.govinfo.gov/link/plaw/116/public/260), §§ 322, 325(a), Dec. 27, 2020, [134 Stat. 2933](https://www.govinfo.gov/link/statute/134/2933), 2936; [Pub. L. 117–328, div. FF, title III](https://www.govinfo.gov/link/plaw/117/public/328), §§ 3206, 3209(b), Dec. 29, 2022, [136 Stat. 5820](https://www.govinfo.gov/link/statute/136/5820), 5822.)*

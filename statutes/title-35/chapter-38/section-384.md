@@ -3,12 +3,21 @@ title: "Section 384 - Filing date"
 usc_title: 35
 usc_section: "384"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "35 U.S.C. § 384"
-generated_at: "2026-03-30T02:55:34.241Z"
+generated_at: "2026-11-23T21:26:08.641Z"
+status: "active"
 ---
 
 # § 384. Filing date
 
 - **(a)** Subject to subsection (b), the filing date of an international design application in the United States shall be the effective registration date. Notwithstanding the provisions of this part, any international design application designating the United States that otherwise meets the requirements of chapter 16 may be treated as a design application under chapter 16.
 - **(b)** An applicant may request review by the Director of the filing date of the international design application in the United States. The Director may determine that the filing date of the international design application in the United States is a date other than the effective registration date. The Director may establish procedures, including the payment of a surcharge, to review the filing date under this section. Such review may result in a determination that the application has a filing date in the United States other than the effective registration date.
+
+In General
+
+Review
+
+## Source Credit
+
+*(Added [Pub. L. 112–211, title I, § 101(a)](https://www.govinfo.gov/link/plaw/112/public/211), Dec. 18, 2012, [126 Stat. 1529](https://www.govinfo.gov/link/statute/126/1529).)*

@@ -3,9 +3,10 @@ title: "Section 2251 - Stay of State court proceedings"
 usc_title: 28
 usc_section: "2251"
 chapter: 153
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 2251"
-generated_at: "2026-03-30T02:55:30.147Z"
+generated_at: "2026-11-23T21:26:01.121Z"
+status: "active"
 ---
 
 # § 2251. Stay of State court proceedings
@@ -15,3 +16,21 @@ generated_at: "2026-03-30T02:55:30.147Z"
   - **(2)** For purposes of this section, a habeas corpus proceeding is not pending until the application is filed.
   - **(3)** If a State prisoner sentenced to death applies for appointment of counsel pursuant to section 3599(a)(2) of title 18 in a court that would have jurisdiction to entertain a habeas corpus application regarding that sentence, that court may stay execution of the sentence of death, but such stay shall terminate not later than 90 days after counsel is appointed or the application for appointment of counsel is withdrawn or denied.
 - **(b)** After the granting of such a stay, any such proceeding in any State court or by or under the authority of any State shall be void. If no stay is granted, any such proceeding shall be as valid as if no habeas corpus proceedings or appeal were pending.
+
+In General.—
+
+Pending matters
+
+Matter not pending
+
+Application for appointment of counsel
+
+No Further Proceedings
+
+In general
+
+Time limits
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 966](https://www.govinfo.gov/link/statute/62/966); [Pub. L. 109–177, title V, § 507(f)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 251](https://www.govinfo.gov/link/statute/120/251).)*

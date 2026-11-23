@@ -3,9 +3,10 @@ title: "Section 4803 - Duties of Council"
 usc_title: 15
 usc_section: "4803"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4803"
-generated_at: "2026-03-30T02:54:08.204Z"
+generated_at: "2026-11-23T21:25:40.006Z"
+status: "active"
 ---
 
 # § 4803. Duties of Council
@@ -30,3 +31,7 @@ The Council shall—
   - **(10)** review policy recommendations developed by the subcouncils and transmit such recommendations to the Federal agencies responsible for the implementation of such recommendations;
   - **(11)** prepare, publish, and distribute reports containing the recommendations of the Council; and
   - **(12)** publish their analysis and recommendations in the form of an annual report to the President and the Congress which also comments on the overall competitiveness of the American economy.
+
+## Source Credit
+
+*([Pub. L. 100–418, title V, § 5204](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1456](https://www.govinfo.gov/link/statute/102/1456).)*

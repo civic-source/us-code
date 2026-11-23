@@ -3,9 +3,10 @@ title: "Section 476 - Technology Assessment Advisory Council"
 usc_title: 2
 usc_section: "476"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 476"
-generated_at: "2026-03-30T02:53:04.797Z"
+generated_at: "2026-11-23T21:25:21.164Z"
+status: "active"
 ---
 
 # § 476. Technology Assessment Advisory Council
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:04.797Z"
 - **(e)**
   - **(1)** The members of the Council other than those appointed under subsection (a)(1) shall receive no pay for their services as members of the Council, but shall be allowed necessary travel expenses (or, in the alternative, mileage for use of privately owned vehicles and payments when traveling on official business at not to exceed the payment prescribed in regulations implementing section 5702 and in 1 1 So in original. Probably should be followed by “section”. 5704 of title 5), and other necessary expenses incurred by them in the performance of duties vested in the Council, without regard to the provisions of subchapter 1 of chapter 57 and section 5731 of title 5 , and regulations promulgated thereunder.
   - **(2)** The members of the Council appointed under subsection (a)(1) shall receive compensation for each day engaged in the actual performance of duties vested in the Council at rates of pay not in excess of the daily equivalent of the highest rate of basic pay set forth in the General Schedule of section 5332(a) of title 5 , and in addition shall be reimbursed for travel, subsistence, and other necessary expenses in the manner provided for other members of the Council under paragraph (1) of this subsection.
+
+## Source Credit
+
+*([Pub. L. 92–484, § 7](https://www.govinfo.gov/link/plaw/92/public/484), Oct. 13, 1972, [86 Stat. 800](https://www.govinfo.gov/link/statute/86/800); [Pub. L. 99–234, title I, § 107(a)](https://www.govinfo.gov/link/plaw/99/public/234), Jan. 2, 1986, [99 Stat. 1759](https://www.govinfo.gov/link/statute/99/1759).)*

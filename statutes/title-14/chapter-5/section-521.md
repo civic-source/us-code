@@ -3,9 +3,10 @@ title: "Section 521 - Saving life and property"
 usc_title: 14
 usc_section: "521"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 521"
-generated_at: "2026-03-30T02:53:51.489Z"
+generated_at: "2026-11-23T21:25:35.368Z"
+status: "active"
 ---
 
 # § 521. Saving life and property
@@ -26,3 +27,19 @@ generated_at: "2026-03-30T02:53:51.489Z"
 - **(e)** An individual who knowingly and willfully operates a device with the intention of interfering with the broadcast or reception of a radio, microwave, or other signal (including a signal from a global positioning system) transmitted, retransmitted, or augmented by the Coast Guard for the purpose of maritime safety is—
   - **(1)** guilty of a class E felony; and
   - **(2)** subject to a civil penalty of not more than $1,000 per day for each violation.
+
+In General
+
+Pilot Program Contents
+
+Consultation
+
+Report to Congress.—
+
+In general
+
+Public availability
+
+## Source Credit
+
+*(Aug. 4, 1949, ch. 393, [63 Stat. 501](https://www.govinfo.gov/link/statute/63/501), § 88; [Pub. L. 91–278, § 1(3)](https://www.govinfo.gov/link/plaw/91/public/278), June 12, 1970, [84 Stat. 304](https://www.govinfo.gov/link/statute/84/304); [Pub. L. 100–448, § 30(a)](https://www.govinfo.gov/link/plaw/100/public/448), Sept. 28, 1988, [102 Stat. 1849](https://www.govinfo.gov/link/statute/102/1849); [Pub. L. 101–595, title IV, § 401](https://www.govinfo.gov/link/plaw/101/public/595), Nov. 16, 1990, [104 Stat. 2989](https://www.govinfo.gov/link/statute/104/2989); [Pub. L. 104–324, title II, § 213(a)](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3915](https://www.govinfo.gov/link/statute/110/3915); [Pub. L. 112–213, title II, § 201](https://www.govinfo.gov/link/plaw/112/public/213), Dec. 20, 2012, [126 Stat. 1543](https://www.govinfo.gov/link/statute/126/1543); [Pub. L. 113–281, title II, § 205(a)(4)](https://www.govinfo.gov/link/plaw/113/public/281), Dec. 18, 2014, [128 Stat. 3025](https://www.govinfo.gov/link/statute/128/3025); renumbered § 521, [Pub. L. 115–282, title I, § 105(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4200](https://www.govinfo.gov/link/statute/132/4200); [Pub. L. 116–283, div. G, title LVXXXV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXV], § 8505(a)(4), Jan. 1, 2021, [134 Stat. 4748](https://www.govinfo.gov/link/statute/134/4748).)*

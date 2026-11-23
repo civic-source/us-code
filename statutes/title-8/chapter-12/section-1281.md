@@ -3,9 +3,10 @@ title: "Section 1281 - Alien crewmen"
 usc_title: 8
 usc_section: "1281"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1281"
-generated_at: "2026-03-30T02:53:10.492Z"
+generated_at: "2026-11-23T21:25:25.169Z"
+status: "active"
 ---
 
 # § 1281. Alien crewmen
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:10.492Z"
 - **(c)** Before the departure of any vessel or aircraft from any port in the United States, it shall be the duty of the owner, agent, consignee, master, or commanding officer thereof, to deliver to an immigration officer at that port (1) a list containing the names of all alien employees who were not employed thereon at the time of the arrival at that port but who will leave such port thereon at the time of the departure of such vessel or aircraft and the names of those, if any, who have been paid off or discharged, and of those, if any, who have deserted or landed at that port, or (2) in the discretion of the Attorney General, such a list containing so much of such information, or such additional or supplemental information, as the Attorney General shall by regulations prescribe. In the case of a vessel engaged solely in traffic on the Great Lakes, Saint Lawrence River, and connecting waterways, such lists shall be furnished at such times as the Attorney General may require.
 - **(d)** In case any owner, agent, consignee, master, or commanding officer shall fail to deliver complete, true, and correct lists or reports of aliens, or to report cases of desertion or landing, as required by subsections (a), (b), and (c), such owner, agent, consignee, master, or commanding officer, shall, if required by the Attorney General, pay to the Commissioner the sum of $200 for each alien concerning whom such lists are not delivered or such reports are not made as required in the preceding subsections. In the case that any owner, agent, consignee, master, or commanding officer of a vessel shall secure services of an alien crewman described in section 1101(a)(15)(D)(i) of this title to perform longshore work not included in the normal operation and service on board the vessel under section 1288 of this title , the owner, agent, consignee, master, or commanding officer shall pay to the Commissioner the sum of $5,000, and such fine shall be a lien against the vessel. No such vessel or aircraft shall be granted clearance from any port at which it arrives pending the determination of the question of the liability to the payment of such fine, and if such fine is imposed, while it remains unpaid. No such fine shall be remitted or refunded. Clearance may be granted prior to the determination of such question upon deposit of a bond or a sum sufficient to cover such fine.
 - **(e)** The Attorney General is authorized to prescribe by regulations the circumstances under which a vessel or aircraft shall be deemed to be arriving in, or departing from the United States or any port thereof within the meaning of any provision of this part.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title II, ch. 6, § 251, [66 Stat. 219](https://www.govinfo.gov/link/statute/66/219); [Pub. L. 101–649, title II, § 203(b)](https://www.govinfo.gov/link/plaw/101/public/649), Nov. 29, 1990, [104 Stat. 5018](https://www.govinfo.gov/link/statute/104/5018); [Pub. L. 102–232, title III, § 303(a)(3)](https://www.govinfo.gov/link/plaw/102/public/232), Dec. 12, 1991, [105 Stat. 1746](https://www.govinfo.gov/link/statute/105/1746).)*

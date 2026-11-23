@@ -3,9 +3,10 @@ title: "Section 70203 - Transportation investment data and planning tools"
 usc_title: 49
 usc_section: "70203"
 chapter: 702
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 70203"
-generated_at: "2026-03-30T02:56:19.417Z"
+generated_at: "2026-11-23T21:26:41.038Z"
+status: "active"
 ---
 
 # § 70203. Transportation investment data and planning tools
@@ -20,3 +21,11 @@ generated_at: "2026-03-30T02:56:19.417Z"
   - **(2)** identify transportation-related model data elements to support a broad range of evaluation methods and techniques to assist in making transportation investment decisions; and
   - **(3)** at a minimum, in consultation with other relevant Federal agencies, consider any improvements to existing freight flow data collection efforts that could reduce identified freight data gaps and deficiencies and help improve forecasts of freight transportation demand.
 - **(b)** The Secretary shall consult with Federal, State, and other stakeholders to develop, improve, and implement the tools and collect the data described in subsection (a).
+
+In General
+
+Consultation
+
+## Source Credit
+
+*(Added [Pub. L. 114–94, div. A, title VIII, § 8001(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1611](https://www.govinfo.gov/link/statute/129/1611).)*

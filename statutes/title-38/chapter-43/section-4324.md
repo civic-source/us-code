@@ -3,9 +3,10 @@ title: "Section 4324 - Enforcement of rights with respect to Federal executive a
 usc_title: 38
 usc_section: "4324"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 4324"
-generated_at: "2026-03-30T02:55:53.518Z"
+generated_at: "2026-11-23T21:26:16.809Z"
+status: "active"
 ---
 
 # § 4324. Enforcement of rights with respect to Federal executive agencies
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:53.518Z"
   - **(3)** In such Federal Circuit proceeding, the court shall award such person reasonable attorney fees, expert witness fees, and other litigation expenses if such person—
     - **(A)** prevails in such Federal Circuit proceeding; and
     - **(B)** is not represented by the Special Counsel in such Federal Circuit proceeding.
+
+## Source Credit
+
+*(Added [Pub. L. 103–353, § 2(a)](https://www.govinfo.gov/link/plaw/103/public/353), Oct. 13, 1994, [108 Stat. 3166](https://www.govinfo.gov/link/statute/108/3166); amended [Pub. L. 104–275, title III, § 311(11)](https://www.govinfo.gov/link/plaw/104/public/275), Oct. 9, 1996, [110 Stat. 3336](https://www.govinfo.gov/link/statute/110/3336); [Pub. L. 105–368, title II, § 213(a)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3331](https://www.govinfo.gov/link/statute/112/3331); [Pub. L. 110–389, title III, § 311(d)(2)](https://www.govinfo.gov/link/plaw/110/public/389), (e)(2), Oct. 10, 2008, [122 Stat. 4163](https://www.govinfo.gov/link/statute/122/4163); [Pub. L. 111–275, title VII, § 703(a)](https://www.govinfo.gov/link/plaw/111/public/275), Oct. 13, 2010, [124 Stat. 2888](https://www.govinfo.gov/link/statute/124/2888); [Pub. L. 118–210, title II, § 221(e)(1)](https://www.govinfo.gov/link/plaw/118/public/210), (2), Jan. 2, 2025, [138 Stat. 2779](https://www.govinfo.gov/link/statute/138/2779).)*

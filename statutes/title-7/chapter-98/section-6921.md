@@ -3,9 +3,10 @@ title: "Section 6921 - Office of Tribal Relations"
 usc_title: 7
 usc_section: "6921"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6921"
-generated_at: "2026-03-30T02:53:42.438Z"
+generated_at: "2026-11-23T21:25:28.403Z"
+status: "active"
 ---
 
 # § 6921. Office of Tribal Relations
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:53:42.438Z"
       - **(ii)** the relevant committees of Congress.
   - **(6)** Members of the Committee shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5 for each day (including travel time) during which the member is engaged in the performance of the duties of the Committee.
   - **(7)** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) 1 1 See References in Text note below. shall not apply to the Committee.
+
+## Source Credit
+
+*([Pub. L. 103–354, title III, § 309](https://www.govinfo.gov/link/plaw/103/public/354), as added [Pub. L. 113–79, title XII, § 12303](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 985](https://www.govinfo.gov/link/statute/128/985); amended [Pub. L. 115–334, title XII, § 12303](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4962](https://www.govinfo.gov/link/statute/132/4962).)*

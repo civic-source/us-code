@@ -3,9 +3,10 @@ title: "Section 6506 - General requirements"
 usc_title: 7
 usc_section: "6506"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6506"
-generated_at: "2026-03-30T02:53:42.431Z"
+generated_at: "2026-11-23T21:25:28.391Z"
+status: "active"
 ---
 
 # § 6506. General requirements
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:53:42.431Z"
 - **(e)**
   - **(1)** Fees collected under subsection (a)(10) (including late payment penalties and interest earned from investment of the fees) shall be credited to the account that incurs the cost of the services provided under this chapter.
   - **(2)** The collected fees shall be available to the Secretary, without further appropriation or fiscal-year limitation, to pay the expenses of the Secretary incurred in providing accreditation services under this chapter.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XXI, § 2107](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3938](https://www.govinfo.gov/link/statute/104/3938); [Pub. L. 105–185, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/105/public/185), June 23, 1998, [112 Stat. 585](https://www.govinfo.gov/link/statute/112/585); [Pub. L. 108–11, title II, § 2105](https://www.govinfo.gov/link/plaw/108/public/11), Apr. 16, 2003, [117 Stat. 589](https://www.govinfo.gov/link/statute/117/589); [Pub. L. 113–79, title X, § 10005(b)(2)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 944](https://www.govinfo.gov/link/statute/128/944).)*

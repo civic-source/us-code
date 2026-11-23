@@ -3,9 +3,10 @@ title: "Section 2583 - Military animals: transfer and adoption"
 usc_title: 10
 usc_section: "2583"
 chapter: 153
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2583"
-generated_at: "2026-03-30T02:53:38.165Z"
+generated_at: "2026-11-23T21:25:32.633Z"
+status: "active"
 ---
 
 # § 2583. Military animals: transfer and adoption
@@ -45,3 +46,29 @@ generated_at: "2026-03-30T02:53:38.165Z"
 - **(i)** In this section, the term “military animal” means the following:
   - **(1)** A military working dog, which may include a contract working dog (as such term is defined in section 2387) that has been transferred to the 341st Training Squadron.
   - **(2)** An equid (horse, mule, or donkey) owned by the Department of Defense.
+
+Availability for Transfer or Adoption
+
+Suitability for Transfer or Adoption
+
+Authorized Recipients
+
+Consideration
+
+Limitations on Liability for Transferred or Adopted Animals
+
+Veterinary Screening and Care for Military Working Dogs To Be Retired
+
+Transportation of Retiring Military Working Dogs
+
+Preference in Adoption of Retired Military Working Dogs for Former Handlers
+
+Military Animal Defined
+
+Animals
+
+Dogs
+
+## Source Credit
+
+*(Added [Pub. L. 106–446, § 1(a)](https://www.govinfo.gov/link/plaw/106/public/446), Nov. 6, 2000, [114 Stat. 1932](https://www.govinfo.gov/link/statute/114/1932), § 2582; renumbered § 2583, [Pub. L. 107–107, div. A, title X, § 1048(a)(25)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1224](https://www.govinfo.gov/link/statute/115/1224); amended [Pub. L. 109–163, div. A, title V, § 599](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3284](https://www.govinfo.gov/link/statute/119/3284); [Pub. L. 109–364, div. A, title III, § 352(a)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2160](https://www.govinfo.gov/link/statute/120/2160); [Pub. L. 110–181, div. A, title X, § 1063(a)(13)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 322](https://www.govinfo.gov/link/statute/122/322); [Pub. L. 112–81, div. A, title III, § 351](https://www.govinfo.gov/link/plaw/112/public/81), title X, § 1061(20), Dec. 31, 2011, [125 Stat. 1375](https://www.govinfo.gov/link/statute/125/1375), 1584; [Pub. L. 112–239, div. A, title III, § 371(a)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1706](https://www.govinfo.gov/link/statute/126/1706); [Pub. L. 113–66, div. A, title X, § 1091(b)(2)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 876](https://www.govinfo.gov/link/statute/127/876); [Pub. L. 114–92, div. A, title III, § 342](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 793](https://www.govinfo.gov/link/statute/129/793); [Pub. L. 114–328, div. A, title III, § 342(b)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2082](https://www.govinfo.gov/link/statute/130/2082); [Pub. L. 115–232, div. A, title III, § 352](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1731](https://www.govinfo.gov/link/statute/132/1731); [Pub. L. 116–92, div. A, title III, § 372(a)](https://www.govinfo.gov/link/plaw/116/public/92) –(e), Dec. 20, 2019, [133 Stat. 1330](https://www.govinfo.gov/link/statute/133/1330), 1331; [Pub. L. 116–283, div. A, title X, § 1081(a)(42)](https://www.govinfo.gov/link/plaw/116/public/283), title XVIII, § 1883(b)(2), Jan. 1, 2021, [134 Stat. 3873](https://www.govinfo.gov/link/statute/134/3873), 4294; [Pub. L. 117–81, div. A, title III, § 373(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1667](https://www.govinfo.gov/link/statute/135/1667).)*

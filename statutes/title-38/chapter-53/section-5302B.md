@@ -3,9 +3,10 @@ title: "Section 5302B - Prohibition of debt arising from overpayment due to dela
 usc_title: 38
 usc_section: "5302B"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 5302B"
-generated_at: "2026-03-30T02:55:53.520Z"
+generated_at: "2026-11-23T21:26:16.818Z"
+status: "active"
 ---
 
 # § 5302B. Prohibition of debt arising from overpayment due to delay in processing
@@ -26,3 +27,13 @@ generated_at: "2026-03-30T02:55:53.520Z"
     - **(A)** likely to make repayment of such overpayment more difficult for an individual;
     - **(B)** likely to cause an unpaid debt to be referred to the Treasury Offset Program; or
     - **(C)** not in the best interest of the individual.
+
+Limitation
+
+Notice
+
+Delay on Collection
+
+## Source Credit
+
+*(Added [Pub. L. 117–328, div. U, title II, § 252(a)(1)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5462](https://www.govinfo.gov/link/statute/136/5462).)*

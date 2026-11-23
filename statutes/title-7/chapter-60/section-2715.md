@@ -3,9 +3,10 @@ title: "Section 2715 - Certification of organizations; required contents of repo
 usc_title: 7
 usc_section: "2715"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2715"
-generated_at: "2026-03-30T02:53:42.391Z"
+generated_at: "2026-11-23T21:25:28.307Z"
+status: "active"
 ---
 
 # § 2715. Certification of organizations; required contents of report as criteria
@@ -19,3 +20,7 @@ The eligibility of any organization to represent commercial egg producers of any
 - **(e)** Sources from which the organization’s operating funds are derived,
 - **(f)** Functions of the organization, and
 - **(g)** The organization’s ability and willingness to further the aims and objectives of this chapter: Provided, however , That the primary consideration in determining the eligibility of an organization shall be whether its commercial egg producer membership consists of a substantial number of egg producers who produce a substantial volume of commercial eggs. The Secretary shall certify any organization which he finds to be eligible under this section and his determination as to eligibility shall be final. Where more than one organization is certified in any geographic area, such organizations may caucus to determine the area’s nominations under section 2707(b) of this title .
+
+## Source Credit
+
+*([Pub. L. 93–428, § 16](https://www.govinfo.gov/link/plaw/93/public/428), Oct. 1, 1974, [88 Stat. 1178](https://www.govinfo.gov/link/statute/88/1178).)*

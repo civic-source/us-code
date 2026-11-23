@@ -3,9 +3,10 @@ title: "Section 8717 - Planting flexibility"
 usc_title: 7
 usc_section: "8717"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 8717"
-generated_at: "2026-03-30T02:53:42.478Z"
+generated_at: "2026-11-23T21:25:28.479Z"
+status: "active"
 ---
 
 # § 8717. Planting flexibility
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:53:42.478Z"
       - **(i)** producers of fresh fruits and vegetables are being negatively impacted; and
       - **(ii)** existing production capacities are being supplanted.
     - **(C)** As soon as practicable after conducting an evaluation under subparagraph (A), the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the evaluation.
+
+## Source Credit
+
+*([Pub. L. 110–234, title I, § 1107](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 950](https://www.govinfo.gov/link/statute/122/950); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1107, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1679.)*

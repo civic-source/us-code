@@ -3,9 +3,10 @@ title: "Section 3116 - Job training, counseling and reservoirs of employment pro
 usc_title: 15
 usc_section: "3116"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3116"
-generated_at: "2026-03-30T02:54:08.187Z"
+generated_at: "2026-11-23T21:25:39.964Z"
+status: "active"
 ---
 
 # § 3116. Job training, counseling and reservoirs of employment projects
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:08.187Z"
   - **(2)** compliance with the nondiscrimination provisions of this chapter in accordance with section 3151 of this title ;
   - **(3)** appropriate eligibility criteria to determine the order of priority of access of any person to any new programs under subsection (c) as may be authorized by law including but not necessarily limited to (A) household income, duration of unemployment (not less than five weeks), and the number of people economically dependent upon such person; and (B) denial of access to any person refusing to accept or hold a job except for good cause, as determined by the Secretary of Labor, including refusal to accept or hold a job subject to reference under subsection (b) paragraph (2), in order to seek a reservoir project job under subsection (c); and
   - **(4)** such administrative appeal procedures as may be appropriate to review the initial determination of the abilities of persons willing, able, and seeking to work under paragraph (1) of this subsection and the employment need and eligibility under paragraph (3) of this subsection.
+
+## Source Credit
+
+*([Pub. L. 95–523, title II, § 206](https://www.govinfo.gov/link/plaw/95/public/523), Oct. 27, 1978, [92 Stat. 1902](https://www.govinfo.gov/link/statute/92/1902); [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(12)(A), (f)(10)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–420, 2681–431; [Pub. L. 113–128, title V, § 512(m)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1710](https://www.govinfo.gov/link/statute/128/1710).)*

@@ -3,9 +3,10 @@ title: "Section 2229b - Responsibility for contested logistics posture managemen
 usc_title: 10
 usc_section: "2229b"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2229b"
-generated_at: "2026-03-30T02:53:38.151Z"
+generated_at: "2026-11-23T21:25:32.586Z"
+status: "active"
 ---
 
 # § 2229b. Responsibility for contested logistics posture management
@@ -37,3 +38,17 @@ generated_at: "2026-03-30T02:53:38.151Z"
   - **(3)** The strategy required under paragraph (1) shall cover the period of two years following the date of the strategy and shall be updated on an biennial basis.
 - **(d)** Not later than 180 days after the date of the enactment of this section, and quarterly thereafter until December 31, 2031 , the Deputy Secretary of Defense, the Vice Chair of the Joint Chiefs of Staff, and the Commander of the United States Transportation Command, or their representatives, shall provide to the Committees on Armed Services of the Senate and House of Representatives a briefing on the execution of the responsibilities under subsection (a)(1) and (2), including updates on the development and implementation of the strategy required under subsection (c).
 - **(e)** The Secretary of Defense shall include in the budget justification materials submitted to Congress in support of the budget of the President for a fiscal year pursuant to section 1105(a) of title 31 , United States Code, a cumulative accounting of contested logistics investments represented in such budget and how such investments relate to the duties and responsibilities under subsection (a)(1) and (2).
+
+In General
+
+Deputy Management Action Group Meetings
+
+Contested Logistics Posture Strategy
+
+Quarterly Briefings
+
+Budget Justification Materials
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title III, § 334(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 816](https://www.govinfo.gov/link/statute/139/816).)*

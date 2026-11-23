@@ -3,9 +3,10 @@ title: "Section 379i - Definitions"
 usc_title: 21
 usc_section: "379i"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 379i"
-generated_at: "2026-03-30T02:54:54.267Z"
+generated_at: "2026-11-23T21:25:56.142Z"
+status: "active"
 ---
 
 # § 379i. Definitions
@@ -52,3 +53,17 @@ For purposes of this subpart:
     - **(A)** one business entity controls, or has the power to control, the other business entity; or
     - **(B)** a third party controls, or has power to control, both of the business entities.
   - **(14)** The term “establishment subject to a registration fee” means an establishment that is registered (or is required to register) with the Secretary under section 360 of this title because such establishment is engaged in the manufacture, preparation, propagation, compounding, or processing of a device.
+
+“The Congress finds that—
+
+In General
+
+Additional Information
+
+In General
+
+Recommendations
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 737, as added [Pub. L. 107–250, title I, § 102(a)](https://www.govinfo.gov/link/plaw/107/public/250), Oct. 26, 2002, [116 Stat. 1589](https://www.govinfo.gov/link/statute/116/1589); amended [Pub. L. 108–214, § 2(a)(1)](https://www.govinfo.gov/link/plaw/108/public/214), (d)(3)(A), Apr. 1, 2004, [118 Stat. 572](https://www.govinfo.gov/link/statute/118/572), 577; [Pub. L. 110–85, title II, § 211](https://www.govinfo.gov/link/plaw/110/public/85), Sept. 27, 2007, [121 Stat. 843](https://www.govinfo.gov/link/statute/121/843); [Pub. L. 112–144, title II, § 202](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 1002](https://www.govinfo.gov/link/statute/126/1002); [Pub. L. 114–255, div. A, title III, § 3051(c)(2)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1124](https://www.govinfo.gov/link/statute/130/1124); [Pub. L. 115–52, title II, § 202(a)](https://www.govinfo.gov/link/plaw/115/public/52), Aug. 18, 2017, [131 Stat. 1013](https://www.govinfo.gov/link/statute/131/1013); [Pub. L. 117–180, div. F, title II, § 2002](https://www.govinfo.gov/link/plaw/117/public/180), Sept. 30, 2022, [136 Stat. 2148](https://www.govinfo.gov/link/statute/136/2148).)*

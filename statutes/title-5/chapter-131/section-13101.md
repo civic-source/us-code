@@ -3,9 +3,10 @@ title: "Section 13101 - Definitions"
 usc_title: 5
 usc_section: "13101"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 13101"
-generated_at: "2026-03-30T02:52:56.077Z"
+generated_at: "2026-11-23T21:25:23.469Z"
+status: "active"
 ---
 
 # § 13101. Definitions
@@ -61,3 +62,144 @@ In this subchapter:
     - **(C)** the Judicial Conference for judicial officers and judicial employees; and
     - **(D)** the Office of Government Ethics for all executive branch officers and employees.
   - **(19)** The term “value” means a good faith estimate of the dollar value if the exact value is neither known nor easily obtainable by the reporting individual.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 13101 | 5 U.S.C. App. (EGA § 109) | Pub. L. 95–521, title I, § 109 , Oct. 26, 1978 , 92 Stat. 1836 ; Pub. L. 101–194, title II, § 202 , Nov. 30, 1989 , 103 Stat. 1741 ; Pub. L. 101–280, § 3(1) , (8), May 4, 1990 , 104 Stat. 152 , 155; Pub. L. 102–378, § 4(a)(2) , Oct. 2, 1992 , 106 Stat. 1357 ; Pub. L. 102–572, title IX, § 902(b)(2) , Oct. 29, 1992 , 106 Stat. 4516 ; Pub. L. 103–160, div. A, title XI, § 1182(d)(3) , Nov. 30, 1993 , 107 Stat. 1773 ; Pub. L. 103–337, div. A, title IX, § 924(d)(3) , Oct. 5, 1994 , 108 Stat. 2832 ; Pub. L. 104–186, title II, § 216(2) , Aug. 20, 1996 , 110 Stat. 1747 ; Pub. L. 105–368, title V, § 512(b)(1)(D) , Nov. 11, 1998 , 112 Stat. 3342 ; Pub. L. 108–271, § 8(b) , July 7, 2004 , 118 Stat. 814 ; Pub. L. 110–323, § 7 , Sept. 22, 2008 , 122 Stat. 3547 ; Pub. L. 113–235, div. H, title I, § 1301(b) , Dec. 16, 2014 , 128 Stat. 2537 . |
+
+
+Congressional ethics committees
+
+Dependent child
+
+Designated agency ethics official
+
+Executive branch
+
+Gift
+
+Honoraria
+
+Income
+
+Judicial conference
+
+Judicial employee
+
+Judicial officer
+
+Legislative branch
+
+Member of congress
+
+Officer or employee of congress
+
+Personal hospitality of any individual
+
+Reimbursement
+
+Relative
+
+Secretary concerned
+
+Supervising ethics office
+
+Value
+
+Historical and Revision Notes
+
+13101
+
+Pub. L. 95–521, title I, § 109
+
+Oct. 26, 1978
+
+92 Stat. 1836
+
+Pub. L. 101–194, title II, § 202
+
+Nov. 30, 1989
+
+103 Stat. 1741
+
+Pub. L. 101–280, § 3(1)
+
+May 4, 1990
+
+104 Stat. 152
+
+Pub. L. 102–378, § 4(a)(2)
+
+Oct. 2, 1992
+
+106 Stat. 1357
+
+Pub. L. 102–572, title IX, § 902(b)(2)
+
+Oct. 29, 1992
+
+106 Stat. 4516
+
+Pub. L. 103–160, div. A, title XI, § 1182(d)(3)
+
+Nov. 30, 1993
+
+107 Stat. 1773
+
+Pub. L. 103–337, div. A, title IX, § 924(d)(3)
+
+Oct. 5, 1994
+
+108 Stat. 2832
+
+Pub. L. 104–186, title II, § 216(2)
+
+Aug. 20, 1996
+
+110 Stat. 1747
+
+Pub. L. 105–368, title V, § 512(b)(1)(D)
+
+Nov. 11, 1998
+
+112 Stat. 3342
+
+Pub. L. 108–271, § 8(b)
+
+July 7, 2004
+
+118 Stat. 814
+
+Pub. L. 110–323, § 7
+
+Sept. 22, 2008
+
+122 Stat. 3547
+
+Pub. L. 113–235, div. H, title I, § 1301(b)
+
+Dec. 16, 2014
+
+128 Stat. 2537
+
+“The provisions of this section [see Tables for classification] that are applicable to Members, officers, or employees of the legislative branch are enacted by the Congress—
+
+“The provisions of this Act [see Tables for classification] that are applicable to Members, officers, or employees of the legislative branch are enacted by the Congress—
+
+“In this Act [see Tables for classification]:
+
+Member of congress
+
+Employee of congress
+
+Executive branch employee
+
+Judicial officer
+
+Judicial employee
+
+Supervising ethics office
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(c)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4266](https://www.govinfo.gov/link/statute/136/4266).)*

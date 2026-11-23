@@ -3,9 +3,10 @@ title: "Section 282a - Staff; Deputy Legislative Counsel; delegation of function
 usc_title: 2
 usc_section: "282a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 282a"
-generated_at: "2026-03-30T02:53:04.794Z"
+generated_at: "2026-11-23T21:25:21.152Z"
+status: "active"
 ---
 
 # § 282a. Staff; Deputy Legislative Counsel; delegation of functions
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:04.794Z"
 - **(b)**
   - **(1)** The Legislative Counsel shall designate one or more of the attorneys appointed under subsection (a) as a Deputy Legislative Counsel. During the absence or disability of the Legislative Counsel, or when the office is vacant, the functions of the Legislative Counsel shall be performed by a Deputy Legislative Counsel. If there is more than one Deputy Legislative Counsel, the Deputy Legislative Counsel who shall perform such functions shall be determined in accordance with the order specified in a notice filed with the Speaker and the Minority Leader of the House by the Legislative Counsel.
   - **(2)** The Legislative Counsel may delegate to the Deputy Legislative Counsels and to other employees appointed under subsection (a) such of his functions as he considers necessary or appropriate.
+
+## Source Credit
+
+*([Pub. L. 91–510, title V, § 522](https://www.govinfo.gov/link/plaw/91/public/510), Oct. 26, 1970, [84 Stat. 1203](https://www.govinfo.gov/link/statute/84/1203); [Pub. L. 92–51, § 101](https://www.govinfo.gov/link/plaw/92/public/51), July 9, 1971, [85 Stat. 132](https://www.govinfo.gov/link/statute/85/132); [Pub. L. 118–263, § 2](https://www.govinfo.gov/link/plaw/118/public/263), Jan. 4, 2025, [138 Stat. 2978](https://www.govinfo.gov/link/statute/138/2978).)*

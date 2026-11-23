@@ -3,9 +3,10 @@ title: "Section 5102 - Definitions"
 usc_title: 16
 usc_section: "5102"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 5102"
-generated_at: "2026-03-30T02:54:23.050Z"
+generated_at: "2026-11-23T21:25:52.027Z"
+status: "active"
 ---
 
 # § 5102. Definitions
@@ -33,3 +34,7 @@ In this chapter, the following definitions apply:
   - **(11)** The term “person” means any individual (whether or not a citizen or national of the United States), any corporation, partnership, association, or other entity (whether or not organized or existing under the laws of any State), and any Federal, State, local, or foreign government or any entity of any such government.
   - **(12)** The term “Secretary” means the Secretary of Commerce.
   - **(13)** The term “State” means Maine, New Hampshire, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, North Carolina, South Carolina, Georgia, Florida, the District of Columbia, or the Potomac River Fisheries Commission.
+
+## Source Credit
+
+*([Pub. L. 103–206, title VIII, § 803](https://www.govinfo.gov/link/plaw/103/public/206), Dec. 20, 1993, [107 Stat. 2448](https://www.govinfo.gov/link/statute/107/2448); [Pub. L. 104–297, title IV, § 404(a)](https://www.govinfo.gov/link/plaw/104/public/297), Oct. 11, 1996, [110 Stat. 3619](https://www.govinfo.gov/link/statute/110/3619); [Pub. L. 106–555, title I, § 122(b)(3)](https://www.govinfo.gov/link/plaw/106/public/555), Dec. 21, 2000, [114 Stat. 2766](https://www.govinfo.gov/link/statute/114/2766).)*

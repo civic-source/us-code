@@ -3,9 +3,10 @@ title: "Section 424 - Establishment of the Council of the Inspectors General on 
 usc_title: 5
 usc_section: "424"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 424"
-generated_at: "2026-03-30T02:52:55.984Z"
+generated_at: "2026-11-23T21:25:23.050Z"
+status: "active"
 ---
 
 # § 424. Establishment of the Council of the Inspectors General on Integrity and Efficiency
@@ -186,3 +187,233 @@ generated_at: "2026-03-30T02:52:55.984Z"
     - **(B)** that shall include any additional resources, information, and enhancements as the Council determines are necessary or desirable.
   - **(3)** Each Office of Inspector General that publishes an audit report, inspection report, or evaluation report (or portion of any such report) on the website of the Office of Inspector General shall, or in the case of the office of an Inspector General described in subparagraph (I) of subsection (b)(1) may, contemporaneously publish the report (or portion of the report) on oversight.gov in a manner prescribed by the Council.
   - **(4)** This subsection shall take effect on the date that is 30 days after the date of receipt by the Council of the Inspectors General on Integrity and Efficiency of an appropriation for the implementation of this subsection.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 424(a) through (e)(3) | 5 U.S.C. App. (IGA § 11) | Pub. L. 95–452, § 11 , as added Pub. L. 110–409, § 7(a) , Oct. 14, 2008 , 122 Stat. 4305 ; amended Pub. L. 113–235, div. H, title I, § 1301(b) , Dec. 16, 2014 , 128 Stat. 2537 ; Pub. L. 114–113, div. M, title III, § 304 , Dec. 18, 2015 , 129 Stat. 2913 ; Pub. L. 114–317 , §§ 3, 7(b)(1)(B), (d)(2)(G), Dec. 16, 2016 , 130 Stat. 1596 , 1605, 1606; Pub. L. 115–192, § 2(b) , June 25, 2018 , 132 Stat. 1503 ; Pub. L. 116–260, div. U, title V, § 501(a) , Dec. 27, 2020 , 134 Stat. 2293 . |
+| 424(e)(4) | (no source) |  |
+
+
+Establishment and Mission.—
+
+Establishment
+
+Mission
+
+Membership.—
+
+In general
+
+Chairperson and executive chairperson.—
+
+Executive chairperson
+
+Chairperson
+
+Functions of chairperson and executive chairperson.—
+
+Executive chairperson
+
+Chairperson
+
+Functions and Duties of Council.—
+
+In general
+
+Adherence and participation by members
+
+Additional administrative authorities.—
+
+Interagency funding
+
+Revolving fund.—
+
+In general
+
+Amounts in revolving fund.—
+
+In general
+
+Training
+
+Use of revolving fund.—
+
+In general
+
+Training
+
+Availability of funds
+
+Superseding provisions
+
+Existing authorities and responsibilities
+
+Additional responsibilities relating to whistleblower protection
+
+Integrity Committee.—
+
+Establishment
+
+Membership.—
+
+In general
+
+Chairperson.—
+
+In general
+
+Term
+
+Legal advisor
+
+Referral of allegations.—
+
+Definition of staff member
+
+Requirement
+
+Designation of staff members
+
+Review of allegations.—
+
+In general
+
+Referral to the chairperson.—
+
+In general
+
+Extension
+
+Authority to investigate allegations.—
+
+Requirement
+
+Resources
+
+Procedures for investigations.—
+
+Standards applicable
+
+Additional policies and procedures.—
+
+Establishment
+
+Exception
+
+Submission to congress
+
+Completion of investigation
+
+Concurrent investigation
+
+Reports.—
+
+Integrity committee investigations
+
+Other investigations
+
+Availability to congress.—
+
+In general
+
+Members of congress
+
+Assessment and final disposition.—
+
+In general
+
+Disposition
+
+Annual report
+
+Requests for more information
+
+No right or benefit
+
+Allegations of wrongdoing against special counsel or deputy special counsel.—
+
+Special counsel defined
+
+Authority of integrity committee.—
+
+In general
+
+Coordination with existing provisions of law
+
+Regulations
+
+Committee records
+
+Definition
+
+Establishment
+
+Participation of offices of inspectors general
+
+Effective date
+
+Historical and Revision Notes
+
+Pub. L. 95–452, § 11
+
+Pub. L. 110–409, § 7(a)
+
+Oct. 14, 2008
+
+122 Stat. 4305
+
+Pub. L. 113–235, div. H, title I, § 1301(b)
+
+Dec. 16, 2014
+
+128 Stat. 2537
+
+Pub. L. 114–113, div. M, title III, § 304
+
+Dec. 18, 2015
+
+129 Stat. 2913
+
+Pub. L. 114–317
+
+Dec. 16, 2016
+
+130 Stat. 1596
+
+Pub. L. 115–192, § 2(b)
+
+June 25, 2018
+
+132 Stat. 1503
+
+Pub. L. 116–260, div. U, title V, § 501(a)
+
+Dec. 27, 2020
+
+134 Stat. 2293
+
+424(e)(4)
+
+Council of Inspectors General on Financial Oversight.—
+
+Establishment and membership
+
+Duties.—
+
+Meetings
+
+Annual report
+
+Working groups to evaluate council.—
+
+Convening a working group
+
+Personnel and resources
+
+Reports
+
+Response to Report by Council
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(b)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4256](https://www.govinfo.gov/link/statute/136/4256).)*

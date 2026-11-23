@@ -3,9 +3,10 @@ title: "Section 16181 - Goals"
 usc_title: 42
 usc_section: "16181"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16181"
-generated_at: "2026-03-30T02:56:11.471Z"
+generated_at: "2026-11-23T21:26:33.703Z"
+status: "active"
 ---
 
 # § 16181. Goals
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.471Z"
   - **(5)** Nuclear energy, including programs for existing and advanced reactors, and education of future specialists.
 - **(c)** The Secretary shall provide mechanisms for input on the annually published goals from industry, institutions of higher education, and other public sources.
 - **(d)** Nothing in subsection (a) or the annually published goals creates any new authority for any Federal agency, or may be used by any Federal agency, to support the establishment of regulatory standards or regulatory requirements.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 902](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 856](https://www.govinfo.gov/link/statute/119/856).)*

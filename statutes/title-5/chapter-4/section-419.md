@@ -3,9 +3,10 @@ title: "Section 419 - Special provisions concerning overseas contingency operati
 usc_title: 5
 usc_section: "419"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 419"
-generated_at: "2026-03-30T02:52:55.983Z"
+generated_at: "2026-11-23T21:25:23.046Z"
+status: "active"
 ---
 
 # § 419. Special provisions concerning overseas contingency operations
@@ -58,3 +59,138 @@ generated_at: "2026-03-30T02:52:55.983Z"
     - **(B)** No person who is first employed as described in subparagraph (A) more than 10 years after December 19, 2019 , 1 may acquire competitive status under subparagraph (A).
 - **(e)** The requirements and authorities of this section with respect to an overseas contingency operation shall cease at the end of the first fiscal year after the commencement or designation of the contingency operation in which the total amount appropriated for the contingency operation is less than $100,000,000.
 - **(f)** Nothing in this section shall be construed to limit the ability of the Inspectors General specified in subsection (c) to enter into agreements to conduct joint audits, inspections, or investigations in the exercise of their oversight responsibilities in accordance with this chapter with respect to overseas contingency operations.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 419 | 5 U.S.C. App. (IGA Sec. 8L) | Pub. L. 95–452, § 8L , as added Pub. L. 112–239, div. A, title VIII, § 848(2) , Jan. 2, 2013 , 126 Stat. 1851 ; Pub. L. 116–92, div. A, title XVII , §§ 1732(b) through 1734, Dec. 20, 2019 , 133 Stat. 1817 , 1818. |
+
+
+Additional Responsibilities of Chair of Council of Inspectors General on Integrity and Efficiency
+
+Specific Responsibilities
+
+Designate lead inspector general
+
+Resolve conflicts of jurisdiction
+
+Identify office personnel
+
+Inspectors General
+
+Lead Inspector General for Overseas Contingency Operation.—
+
+Designation
+
+Responsibilities
+
+Appoint associate inspector general
+
+Strategic plan to conduct comprehensive oversight
+
+Accuracy of information
+
+Jurisdictional matters.—
+
+No inspector general with principal jurisdiction
+
+More than one inspector general with jurisdiction
+
+Investigations.—
+
+Request by inspector general with principal jurisdiction
+
+No inspector general with principal jurisdiction
+
+(aa) conduct an independent investigation of an allegation described in subclause (I); or
+
+(bb) request that an Inspector General specified in subsection (c) conduct such investigation.
+
+Personnel
+
+Report on activity
+
+Report on contingency operation
+
+Other responsibilities
+
+Enhancing cooperation
+
+Employment of annuitants.—
+
+In general
+
+Deemed department of defense
+
+Foreign service annuitants.—
+
+Continuance of annuity
+
+Election regarding reemployment
+
+Discharge of responsibilities in accordance with chapter
+
+Ccompetitive
+
+status for appointment.—
+
+In general
+
+Limitation
+
+Sunset for Particular Contingency Operations
+
+Construction of Authority
+
+Historical and Revision Notes
+
+419
+
+Pub. L. 95–452, § 8L
+
+Pub. L. 112–239, div. A, title VIII, § 848(2)
+
+Jan. 2, 2013
+
+126 Stat. 1851
+
+Pub. L. 116–92, div. A, title XVII
+
+Dec. 20, 2019
+
+133 Stat. 1817
+
+Special Inspector General for Operation Atlantic Resolve.—
+
+In general
+
+Redesignation.—
+
+In general
+
+References
+
+Briefings
+
+Publication of Accounting of United States Assistance for Ukraine
+
+Quarterly Reports.—
+
+In general
+
+Elements
+
+Availability
+
+Form
+
+Rule of Construction
+
+Sunset
+
+Definitions
+
+Authorization of Appropriations
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(b)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4247](https://www.govinfo.gov/link/statute/136/4247); [Pub. L. 118–31, div. A, title XI, § 1106](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 427](https://www.govinfo.gov/link/statute/137/427); [Pub. L. 118–159, div. E, title LVII, § 5704](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2466](https://www.govinfo.gov/link/statute/138/2466).)*

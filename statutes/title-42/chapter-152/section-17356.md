@@ -3,9 +3,10 @@ title: "Section 17356 - General personnel authorities"
 usc_title: 42
 usc_section: "17356"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17356"
-generated_at: "2026-03-30T02:56:11.505Z"
+generated_at: "2026-11-23T21:26:33.789Z"
+status: "active"
 ---
 
 # § 17356. General personnel authorities
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.505Z"
 - **(e)** In this section—
   - **(1)** the term “agency” means an executive agency, as defined by section 105 of title 5 ; and
   - **(2)** the term “detail” means the assignment or loan of an employee, without a change of position, from the agency by which such employee is employed to the Foundation.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IX, § 926](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1737](https://www.govinfo.gov/link/statute/121/1737).)*

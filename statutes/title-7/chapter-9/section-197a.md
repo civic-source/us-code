@@ -3,9 +3,10 @@ title: "Section 197a - Production contracts"
 usc_title: 7
 usc_section: "197a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 197a"
-generated_at: "2026-03-30T02:53:42.277Z"
+generated_at: "2026-11-23T21:25:27.927Z"
+status: "active"
 ---
 
 # § 197a. Production contracts
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:42.277Z"
 - **(b)**
   - **(1)** A poultry growing arrangement or swine production contract shall contain on the first page a statement identified as “Additional Capital Investments Disclosure Statement”, which shall conspicuously state that additional large capital investments may be required of the poultry grower or swine production contract grower during the term of the poultry growing arrangement or swine production contract.
   - **(2)** Paragraph (1) shall apply to any poultry growing arrangement or swine production contract entered into, amended, altered, modified, renewed, or extended after the date of the enactment of this section.
+
+## Source Credit
+
+*(Aug. 15, 1921, ch. 64, title II, § 208, as added [Pub. L. 110–234, title XI, § 11005](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1356](https://www.govinfo.gov/link/statute/122/1356), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XI, § 11005, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2118.)*

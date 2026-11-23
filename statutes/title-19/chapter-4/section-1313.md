@@ -3,9 +3,10 @@ title: "Section 1313 - Drawback and refunds"
 usc_title: 19
 usc_section: "1313"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1313"
-generated_at: "2026-03-30T02:54:24.627Z"
+generated_at: "2026-11-23T21:25:42.690Z"
+status: "active"
 ---
 
 # § 1313. Drawback and refunds
@@ -202,3 +203,27 @@ generated_at: "2026-03-30T02:54:24.627Z"
   - **(1)** The term “directly” means a transfer of merchandise or an article from one person to another person without any intermediate transfer.
   - **(2)** The term “HTS” means the Harmonized Tariff Schedule of the United States.
   - **(3)** The term “indirectly” means a transfer of merchandise or an article from one person to another person with one or more intermediate transfers.
+
+(aa) the amount of duties, taxes, and fees paid with respect to the imported merchandise; and
+
+(bb) the amount of duties, taxes, and fees that would apply to the destroyed article if the destroyed article were imported; and
+
+(aa) the amount of duties, taxes, and fees paid with respect to the imported merchandise; and
+
+(bb) the amount of duties, taxes, and fees that would apply to the substituted merchandise if the substituted merchandise were imported; and
+
+In general
+
+Reporting of operability of automated commercial environment computer system
+
+Transition rule
+
+“The amendment made by this section [amending this section] applies with respect to—
+
+“The amendments made by subsections (a), (b), (c), (d), and (f) [amending this section and section 1593a of this title ] shall take effect on the date of the enactment of this Act [ Dec. 3, 2004 ], and shall apply to—
+
+“The amendments made by paragraph (1) [amending this section] shall take effect on the date of the enactment of this Act [ Nov. 9, 2000 ], and shall apply to—
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title III, § 313, [46 Stat. 693](https://www.govinfo.gov/link/statute/46/693); May 17, 1932, ch. 190, [47 Stat. 158](https://www.govinfo.gov/link/statute/47/158); June 26, 1936, ch. 830, title IV, §§ 402, 403, [49 Stat. 1960](https://www.govinfo.gov/link/statute/49/1960); Aug. 8, 1951, ch. 297, [65 Stat. 175](https://www.govinfo.gov/link/statute/65/175); Aug. 8, 1953, ch. 397, § 12, [67 Stat. 515](https://www.govinfo.gov/link/statute/67/515); Aug. 6, 1956, ch. 1021, § 2, [70 Stat. 1076](https://www.govinfo.gov/link/statute/70/1076); [Pub. L. 85–673, § 1](https://www.govinfo.gov/link/plaw/85/public/673), Aug. 18, 1958, [72 Stat. 624](https://www.govinfo.gov/link/statute/72/624); [Pub. L. 90–630, § 2(b)](https://www.govinfo.gov/link/plaw/90/public/630), Oct. 22, 1968, [82 Stat. 1328](https://www.govinfo.gov/link/statute/82/1328); [Pub. L. 91–692, § 3(a)](https://www.govinfo.gov/link/plaw/91/public/692), Jan. 12, 1971, [84 Stat. 2076](https://www.govinfo.gov/link/statute/84/2076); [Pub. L. 96–609, title II, § 201(a)](https://www.govinfo.gov/link/plaw/96/public/609), Dec. 28, 1980, [94 Stat. 3560](https://www.govinfo.gov/link/statute/94/3560); [Pub. L. 98–573, title II, § 202](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 2973](https://www.govinfo.gov/link/statute/98/2973); [Pub. L. 99–514, title XVIII, § 1888(2)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2924](https://www.govinfo.gov/link/statute/100/2924); [Pub. L. 100–449, title II, § 204(c)(3)](https://www.govinfo.gov/link/plaw/100/public/449), Sept. 28, 1988, [102 Stat. 1862](https://www.govinfo.gov/link/statute/102/1862); [Pub. L. 101–382, title I, § 134(a)(1)](https://www.govinfo.gov/link/plaw/101/public/382), (2), title III, § 484A(a), Aug. 20, 1990, [104 Stat. 649](https://www.govinfo.gov/link/statute/104/649), 707; [Pub. L. 103–182, title II, § 203(b)(3)](https://www.govinfo.gov/link/plaw/103/public/182), (c), title VI, § 632(a), Dec. 8, 1993, [107 Stat. 2089](https://www.govinfo.gov/link/statute/107/2089), 2092, 2192; [Pub. L. 103–465, title IV](https://www.govinfo.gov/link/plaw/103/public/465), §§ 404(e)(5)(A), 422(d), Dec. 8, 1994, [108 Stat. 4961](https://www.govinfo.gov/link/statute/108/4961), 4965; [Pub. L. 104–295](https://www.govinfo.gov/link/plaw/104/public/295), §§ 7, 10, 21(e)(4), Oct. 11, 1996, [110 Stat. 3518](https://www.govinfo.gov/link/statute/110/3518), 3519, 3530; [Pub. L. 106–36, title II](https://www.govinfo.gov/link/plaw/106/public/36), §§ 2404(a), 2419(a), 2420(a)–(d), June 25, 1999, [113 Stat. 169](https://www.govinfo.gov/link/statute/113/169), 178, 179; [Pub. L. 106–476, title I](https://www.govinfo.gov/link/plaw/106/public/476), §§ 1422(a)(1), (b), 1462(a), Nov. 9, 2000, [114 Stat. 2156](https://www.govinfo.gov/link/statute/114/2156), 2172; [Pub. L. 108–77, title II, § 203(b)(3)](https://www.govinfo.gov/link/plaw/108/public/77), Sept. 3, 2003, [117 Stat. 927](https://www.govinfo.gov/link/statute/117/927); [Pub. L. 108–429, title I](https://www.govinfo.gov/link/plaw/108/public/429), §§ 1556, 1557(a), 1563(a)–(d), title II, § 2004(d)(6), Dec. 3, 2004, [118 Stat. 2579](https://www.govinfo.gov/link/statute/118/2579), 2583–2585, 2592; [Pub. L. 110–234, title XV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 15334(a), 15421(a), May 22, 2008, [122 Stat. 1517](https://www.govinfo.gov/link/statute/122/1517), 1547; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XV, §§ 15334(a), 15421(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2279, 2309; [Pub. L. 114–125, title IX, § 906(a)](https://www.govinfo.gov/link/plaw/114/public/125) –(n), Feb. 24, 2016, [130 Stat. 226–233](https://www.govinfo.gov/link/statute/130/226); [Pub. L. 116–113, title V, § 501(e)(3)](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 68](https://www.govinfo.gov/link/statute/134/68); [Pub. L. 116–260, div. O, title VI, § 601(c)(2)(A)(iii)](https://www.govinfo.gov/link/plaw/116/public/260), (d)(2), Dec. 27, 2020, [134 Stat. 2150](https://www.govinfo.gov/link/statute/134/2150), 2151.)*

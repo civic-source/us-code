@@ -3,9 +3,10 @@ title: "Section 3 - Grant program to ensure survival and continuing vitality of 
 usc_title: 42
 usc_section: "3"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T02:56:11.167Z"
+generated_at: "2026-11-23T21:26:32.440Z"
+status: "active"
 ---
 
 # § 2991b–3. Grant program to ensure survival and continuing vitality of Native American languages
@@ -92,3 +93,7 @@ generated_at: "2026-03-30T02:56:11.167Z"
         - **(I)** to limit the access of the Secretary to such products for purposes of administering this section or evaluating such products; or
         - **(II)** to sell such products, or copies of such products, for profit to the entities referred to in clause (i).
 - **(g)** Not later than 180 days after the effective date of this subsection, the Secretary shall award grants to entities eligible to receive assistance under subsection (a)(1) to ensure the survival and continuing vitality of Native American languages during and after the public health emergency declared by the Secretary pursuant to section 247d of this title with respect to the COVID–19 pandemic.
+
+## Source Credit
+
+*([Pub. L. 88–452, title VIII, § 803C](https://www.govinfo.gov/link/plaw/88/public/452), as added [Pub. L. 102–524, § 2](https://www.govinfo.gov/link/plaw/102/public/524), Oct. 26, 1992, [106 Stat. 3434](https://www.govinfo.gov/link/statute/106/3434); amended [Pub. L. 109–394, § 2](https://www.govinfo.gov/link/plaw/109/public/394), Dec. 14, 2006, [120 Stat. 2705](https://www.govinfo.gov/link/statute/120/2705); [Pub. L. 116–101, § 2](https://www.govinfo.gov/link/plaw/116/public/101), Dec. 20, 2019, [133 Stat. 3261](https://www.govinfo.gov/link/statute/133/3261); [Pub. L. 116–261, § 5(d)](https://www.govinfo.gov/link/plaw/116/public/261), Dec. 30, 2020, [134 Stat. 3314](https://www.govinfo.gov/link/statute/134/3314); [Pub. L. 117–2, title XI, § 11004(b)](https://www.govinfo.gov/link/plaw/117/public/2), Mar. 11, 2021, [135 Stat. 244](https://www.govinfo.gov/link/statute/135/244).)*

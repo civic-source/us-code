@@ -3,9 +3,10 @@ title: "Section 1902 - Ships subject to preventive measures"
 usc_title: 33
 usc_section: "1902"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1902"
-generated_at: "2026-03-30T02:55:41.109Z"
+generated_at: "2026-11-23T21:26:11.412Z"
+status: "active"
 ---
 
 # § 1902. Ships subject to preventive measures
@@ -87,3 +88,9 @@ generated_at: "2026-03-30T02:55:41.109Z"
 - **(h)** The President may waive the effective dates of the requirements set forth in subsection (c) 1 1 See References in Text note below. of this section and in subsection 1003(e) of the National Defense Authorization Act for Fiscal Year 1994 if the President determines it to be in the paramount interest of the United States to do so. Any such waiver shall be for a period not in excess of one year. The President shall submit to the Congress each January a report on all waivers from the requirements of this section granted during the preceding calendar year, together with the reasons for granting such waivers.
 - **(i)** The heads of Federal departments and agencies shall prescribe standards applicable to ships excluded from this chapter by subsection (b)(1) of this section and for which they are responsible. Standards prescribed under this subsection shall ensure, so far as is reasonable and practicable without impairing the operations or operational capabilities of such ships, that such ships act in a manner consistent with the MARPOL Protocol.
 - **(j)** Nothing in this section shall be construed to restrict in a manner inconsistent with international law navigational rights and freedoms as defined by United States law, treaty, convention, or customary international law.
+
+Sense of Congress
+
+## Source Credit
+
+*([Pub. L. 96–478, § 3](https://www.govinfo.gov/link/plaw/96/public/478), Oct. 21, 1980, [94 Stat. 2297](https://www.govinfo.gov/link/statute/94/2297); [Pub. L. 100–220, title II, § 2102](https://www.govinfo.gov/link/plaw/100/public/220), Dec. 29, 1987, [101 Stat. 1461](https://www.govinfo.gov/link/statute/101/1461); [Pub. L. 103–160, div. A, title X, § 1003(a)](https://www.govinfo.gov/link/plaw/103/public/160) –(d), Nov. 30, 1993, [107 Stat. 1745–1747](https://www.govinfo.gov/link/statute/107/1745); [Pub. L. 104–201, div. A, title III, § 324(a)](https://www.govinfo.gov/link/plaw/104/public/201), (d), Sept. 23, 1996, [110 Stat. 2480](https://www.govinfo.gov/link/statute/110/2480), 2481; [Pub. L. 104–227, title II, § 201(b)](https://www.govinfo.gov/link/plaw/104/public/227), Oct. 2, 1996, [110 Stat. 3042](https://www.govinfo.gov/link/statute/110/3042); [Pub. L. 105–261, div. A, title III, § 326](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 1965](https://www.govinfo.gov/link/statute/112/1965); [Pub. L. 110–280, § 4](https://www.govinfo.gov/link/plaw/110/public/280), July 21, 2008, [122 Stat. 2611](https://www.govinfo.gov/link/statute/122/2611); [Pub. L. 112–81, div. A, title III, § 313](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1355](https://www.govinfo.gov/link/statute/125/1355); [Pub. L. 116–283, div. G, title LVXXXV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXV], § 8502(a)(2), Jan. 1, 2021, [134 Stat. 4746](https://www.govinfo.gov/link/statute/134/4746).)*

@@ -3,12 +3,17 @@ title: "Section 1425e - Additional powers"
 usc_title: 48
 usc_section: "1425e"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1425e"
-generated_at: "2026-03-30T02:56:14.586Z"
+generated_at: "2026-11-23T21:26:38.001Z"
+status: "active"
 ---
 
 # § 1425e. Additional powers
 
 Powers granted herein shall be in addition to, and not in derogation of, any powers granted by other law to, or for the benefit or assistance of, any public corporate authority.
 
+
+## Source Credit
+
+*([Pub. L. 88–171, § 5](https://www.govinfo.gov/link/plaw/88/public/171), Nov. 4, 1963, [77 Stat. 304](https://www.govinfo.gov/link/statute/77/304).)*

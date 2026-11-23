@@ -3,9 +3,10 @@ title: "Section 259 - Infrastructure sharing"
 usc_title: 47
 usc_section: "259"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 259"
-generated_at: "2026-03-30T02:56:24.502Z"
+generated_at: "2026-11-23T21:26:35.965Z"
+status: "active"
 ---
 
 # § 259. Infrastructure sharing
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:24.502Z"
 - **(d)** For purposes of this section, the term “qualifying carrier” means a telecommunications carrier that—
   - **(1)** lacks economies of scale or scope, as determined in accordance with regulations prescribed by the Commission pursuant to this section; and
   - **(2)** offers telephone exchange service, exchange access, and any other service that is included in universal service, to all consumers without preference throughout the service area for which such carrier has been designated as an eligible telecommunications carrier under section 214(e) of this title .
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title II, § 259, as added [Pub. L. 104–104, title I, § 101(a)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 77](https://www.govinfo.gov/link/statute/110/77).)*

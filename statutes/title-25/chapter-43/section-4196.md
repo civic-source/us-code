@@ -3,9 +3,10 @@ title: "Section 4196 - Demonstration program for guaranteed loans to finance tri
 usc_title: 25
 usc_section: "4196"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4196"
-generated_at: "2026-03-30T02:54:52.860Z"
+generated_at: "2026-11-23T21:25:54.711Z"
+status: "active"
 ---
 
 # § 4196. Demonstration program for guaranteed loans to finance tribal community and economic development activities
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:54:52.860Z"
   - **(1)** an identification of the extent of the use and the types of projects and activities financed using that authority; and
   - **(2)** an analysis of the effectiveness of the use in carrying out the purposes of this section.
 - **(j)** The authority of the Secretary under this section to make new guarantees for notes and obligations shall terminate on October 1, 2013 .
+
+## Source Credit
+
+*([Pub. L. 104–330, title VI, § 606](https://www.govinfo.gov/link/plaw/104/public/330), as added [Pub. L. 110–411, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/110/public/411), Oct. 14, 2008, [122 Stat. 4331](https://www.govinfo.gov/link/statute/122/4331).)*

@@ -3,9 +3,10 @@ title: "Section 4003 - Study of potential for expansion of United States agricul
 usc_title: 7
 usc_section: "4003"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 4003"
-generated_at: "2026-03-30T02:53:42.405Z"
+generated_at: "2026-11-23T21:25:28.341Z"
+status: "active"
 ---
 
 # § 4003. Study of potential for expansion of United States agricultural export markets; report to President and Congress
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.405Z"
   - **(3)** potential new or expanded foreign markets for United States agricultural products;
   - **(4)** the potential for the development of international agreements for the exchange of United States agricultural products for natural resources, including energy sources, or other commodities and products needed by the United States; and
   - **(5)** the steps that the United States must take to (A) increase agricultural export trade, and (B) obtain needed natural resources or other commodities and products in exchange for agricultural products, to the maximum extent feasible.
+
+## Source Credit
+
+*([Pub. L. 96–494, title II, § 210](https://www.govinfo.gov/link/plaw/96/public/494), Dec. 3, 1980, [94 Stat. 2576](https://www.govinfo.gov/link/statute/94/2576).)*

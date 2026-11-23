@@ -3,9 +3,10 @@ title: "Section 5732 - Separate part of country reports"
 usc_title: 22
 usc_section: "5732"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5732"
-generated_at: "2026-03-30T02:55:05.420Z"
+generated_at: "2026-11-23T21:25:58.668Z"
+status: "active"
 ---
 
 # § 5732. Separate part of country reports
@@ -15,3 +16,7 @@ Whenever a report is transmitted to the Congress on a country-by-country basis t
   - **(1)** sections 2151n(d) and 2304(b) of this title (relating to human rights);
   - **(2)** section 2241 of title 19 (relating to trade barriers); and
   - **(3)** section 4711 1 1 See References in Text note below. of title 15 (relating to economic policy and trade practices).
+
+## Source Credit
+
+*([Pub. L. 102–383, title III, § 302](https://www.govinfo.gov/link/plaw/102/public/383), Oct. 5, 1992, [106 Stat. 1454](https://www.govinfo.gov/link/statute/106/1454).)*

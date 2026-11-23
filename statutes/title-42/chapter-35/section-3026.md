@@ -3,9 +3,10 @@ title: "Section 3026 - Area plans"
 usc_title: 42
 usc_section: "3026"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3026"
-generated_at: "2026-03-30T02:56:11.173Z"
+generated_at: "2026-11-23T21:26:32.488Z"
+status: "active"
 ---
 
 # § 3026. Area plans
@@ -147,3 +148,11 @@ generated_at: "2026-03-30T02:56:11.173Z"
   - **(1)** contracts with health care payers;
   - **(2)** consumer private pay programs; or
   - **(3)** other arrangements with entities or individuals that increase the availability of home- and community-based services and supports.
+
+(aa) set specific objectives, consistent with State policy, for providing services to older individuals with greatest economic need, older individuals with greatest social need, and older individuals at risk for institutional placement;
+
+(bb) include specific objectives for providing services to low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas; and
+
+## Source Credit
+
+*([Pub. L. 89–73, title III, § 306](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 95–478, title I, § 103(b)](https://www.govinfo.gov/link/plaw/95/public/478), Oct. 18, 1978, [92 Stat. 1522](https://www.govinfo.gov/link/statute/92/1522); amended [Pub. L. 97–115](https://www.govinfo.gov/link/plaw/97/public/115), §§ 3(d), 6, Dec. 29, 1981, [95 Stat. 1597](https://www.govinfo.gov/link/statute/95/1597), 1598; [Pub. L. 98–459, title III, § 306](https://www.govinfo.gov/link/plaw/98/public/459), Oct. 9, 1984, [98 Stat. 1774](https://www.govinfo.gov/link/statute/98/1774); [Pub. L. 100–175, title I](https://www.govinfo.gov/link/plaw/100/public/175), §§ 104(c), 125–127, 130(a), 131(a), 132(b), 133, 134(a)(2), (b), 135, 136(b), 137(a), 140(b), 141(b), 143(b), 144(c), 155(e)(1), 182(e)(3), (i), (j), Nov. 29, 1987, [101 Stat. 930](https://www.govinfo.gov/link/statute/101/930), 934, 938–944, 946, 947, 949, 952, 965; [Pub. L. 100–628, title VII, § 705(5)](https://www.govinfo.gov/link/plaw/100/public/628), Nov. 7, 1988, [102 Stat. 3247](https://www.govinfo.gov/link/statute/102/3247); [Pub. L. 102–375, title I, § 102(b)(4)](https://www.govinfo.gov/link/plaw/102/public/375), (10)(C), (E), title III, § 306, title IX, § 904(a)(12), Sept. 30, 1992, [106 Stat. 1201](https://www.govinfo.gov/link/statute/106/1201), 1202, 1223, 1307; [Pub. L. 103–171, § 3(a)(13)](https://www.govinfo.gov/link/plaw/103/public/171), Dec. 2, 1993, [107 Stat. 1990](https://www.govinfo.gov/link/statute/107/1990); [Pub. L. 105–285, title II, § 202(a)](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2755](https://www.govinfo.gov/link/statute/112/2755); [Pub. L. 106–501, title III, § 305](https://www.govinfo.gov/link/plaw/106/public/501), Nov. 13, 2000, [114 Stat. 2240](https://www.govinfo.gov/link/statute/114/2240); [Pub. L. 109–365, title III, § 306](https://www.govinfo.gov/link/plaw/109/public/365), Oct. 17, 2006, [120 Stat. 2540](https://www.govinfo.gov/link/statute/120/2540); [Pub. L. 114–144](https://www.govinfo.gov/link/plaw/114/public/144), §§ 4(d), 9(4), Apr. 19, 2016, [130 Stat. 338](https://www.govinfo.gov/link/statute/130/338), 352; [Pub. L. 116–131, title I](https://www.govinfo.gov/link/plaw/116/public/131), §§ 104(2), 118(b), title II, §§ 205, 206(1), 207(a), title VII, § 701(8), Mar. 25, 2020, [134 Stat. 243](https://www.govinfo.gov/link/statute/134/243), 246, 256, 257, 271.)*

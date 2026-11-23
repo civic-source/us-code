@@ -3,9 +3,10 @@ title: "Section 4092 - Personnel management authority to attract experts in scie
 usc_title: 10
 usc_section: "4092"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4092"
-generated_at: "2026-03-30T02:53:38.201Z"
+generated_at: "2026-11-23T21:25:32.755Z"
+status: "active"
 ---
 
 # § 4092. Personnel management authority to attract experts in science, engineering, and certain other disciplines
@@ -47,3 +48,67 @@ generated_at: "2026-03-30T02:53:38.201Z"
   - **(1)** Except as provided in paragraph (2), the service of an employee under an appointment under subsection (b)(1) may not exceed four years.
   - **(2)** The official responsible for the administration of a program under subsection (a) may, in the case of a particular employee under the program, extend the period to which service is limited under paragraph (1) by up to two years if the official determines that such action is necessary to promote the efficiency of a laboratory of a military department, the Defense Advanced Research Projects Agency, the Office of Operational Test and Evaluation, the Strategic Capabilities Office, the Defense Innovation Unit, the activities under section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 ( Public Law 115–232 ), the Space Development Agency, or the National Geospatial-Intelligence Agency, as applicable.
 - **(d)** Notwithstanding any other provision of this section or section 5307 of title 5 , no additional payments may be paid to an employee under subsection (b)(3) in any calendar year if, or to the extent that, the employee’s total annual compensation in such calendar year will exceed the maximum amount of total annual compensation payable at the salary set in accordance with section 104 of title 3 .
+
+Programs Authorized.—
+
+Laboratories of the military departments
+
+DARPA
+
+DOTE
+
+Strategic capabilities office
+
+DIU
+
+Joint artificial intelligence
+
+NGA
+
+SDA
+
+United states cyber command
+
+Office of the under secretary of defense for research and engineering
+
+Office of strategic capital
+
+Personnel Management Authority
+
+Limitation on Term of Appointment.—
+
+In general
+
+Extension
+
+Maximum Amount of Additional Payments Payable
+
+DIU
+
+Diux
+
+In general
+
+Elements
+
+Intelligence community defined
+
+Guidance Required
+
+Objective
+
+Contents of Guidance
+
+Report.—
+
+In general
+
+Contents
+
+In general
+
+Date of appointment
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title XI, § 1121(a)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2451](https://www.govinfo.gov/link/statute/130/2451), § 1599h; amended [Pub. L. 115–232, div. A, title XI, § 1111](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2011](https://www.govinfo.gov/link/statute/132/2011); [Pub. L. 116–92, div. A, title II, § 212](https://www.govinfo.gov/link/plaw/116/public/92), title XI, § 1101, Dec. 20, 2019, [133 Stat. 1255](https://www.govinfo.gov/link/statute/133/1255), 1595; [Pub. L. 116–260, div. W, title IV, § 402](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2377](https://www.govinfo.gov/link/statute/134/2377); [Pub. L. 116–283, div. A, title XVI, § 1602](https://www.govinfo.gov/link/plaw/116/public/283), title XVII, § 1708(a), Jan. 1, 2021, [134 Stat. 4042](https://www.govinfo.gov/link/statute/134/4042), 4085; renumbered § 4092, [Pub. L. 116–283, div. A, title XVIII, § 1843(a)](https://www.govinfo.gov/link/plaw/116/public/283), as added [Pub. L. 117–81, div. A, title XVII, § 1701(u)(4)(A)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2153](https://www.govinfo.gov/link/statute/135/2153); [Pub. L. 117–81, div. A, title X, § 1081(a)(21)](https://www.govinfo.gov/link/plaw/117/public/81), title XI, § 1107, Dec. 27, 2021, [135 Stat. 1920](https://www.govinfo.gov/link/statute/135/1920), 1951; [Pub. L. 117–103, div. X, title IV, § 412](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 976](https://www.govinfo.gov/link/statute/136/976); [Pub. L. 117–263, div. A, title II](https://www.govinfo.gov/link/plaw/117/public/263), §§ 212(a), 213, title XI, § 1109, Dec. 23, 2022, [136 Stat. 2466](https://www.govinfo.gov/link/statute/136/2466), 2471, 2819; [Pub. L. 118–31, div. A, title II, § 213](https://www.govinfo.gov/link/plaw/118/public/31), title XVIII, § 1801(a)(33), Dec. 22, 2023, [137 Stat. 183](https://www.govinfo.gov/link/statute/137/183), 685; [Pub. L. 118–159, div. A, title II, § 216](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1825](https://www.govinfo.gov/link/statute/138/1825).)*

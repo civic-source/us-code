@@ -3,9 +3,10 @@ title: "Section 3938 - Child custody protection"
 usc_title: 50
 usc_section: "3938"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3938"
-generated_at: "2026-03-30T02:56:26.263Z"
+generated_at: "2026-11-23T21:26:39.079Z"
+status: "active"
 ---
 
 # § 3938. Child custody protection
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:26.263Z"
   - **(1)** that are designated as unaccompanied;
   - **(2)** for which dependent travel is not authorized; or
   - **(3)** that otherwise do not permit the movement of family members to that location.
+
+## Source Credit
+
+*(Oct. 17, 1940, ch. 888, title II, § 208, as added [Pub. L. 113–291, div. A, title V, § 566(a)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3384](https://www.govinfo.gov/link/statute/128/3384).)*

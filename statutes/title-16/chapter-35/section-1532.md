@@ -3,9 +3,10 @@ title: "Section 1532 - Definitions"
 usc_title: 16
 usc_section: "1532"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1532"
-generated_at: "2026-03-30T02:54:22.974Z"
+generated_at: "2026-11-23T21:25:51.892Z"
+status: "active"
 ---
 
 # § 1532. Definitions
@@ -42,3 +43,7 @@ For the purposes of this chapter—
   - **(19)** The term “take” means to harass, harm, pursue, hunt, shoot, wound, kill, trap, capture, or collect, or to attempt to engage in any such conduct.
   - **(20)** The term “threatened species” means any species which is likely to become an endangered species within the foreseeable future throughout all or a significant portion of its range.
   - **(21)** The term “United States”, when used in a geographical context, includes all States.
+
+## Source Credit
+
+*([Pub. L. 93–205, § 3](https://www.govinfo.gov/link/plaw/93/public/205), Dec. 28, 1973, [87 Stat. 885](https://www.govinfo.gov/link/statute/87/885); [Pub. L. 94–359, § 5](https://www.govinfo.gov/link/plaw/94/public/359), July 12, 1976, [90 Stat. 913](https://www.govinfo.gov/link/statute/90/913); [Pub. L. 95–632, § 2](https://www.govinfo.gov/link/plaw/95/public/632), Nov. 10, 1978, [92 Stat. 3751](https://www.govinfo.gov/link/statute/92/3751); [Pub. L. 96–159, § 2](https://www.govinfo.gov/link/plaw/96/public/159), Dec. 28, 1979, [93 Stat. 1225](https://www.govinfo.gov/link/statute/93/1225); [Pub. L. 97–304, § 4(b)](https://www.govinfo.gov/link/plaw/97/public/304), Oct. 13, 1982, [96 Stat. 1420](https://www.govinfo.gov/link/statute/96/1420); [Pub. L. 100–478, title I, § 1001](https://www.govinfo.gov/link/plaw/100/public/478), Oct. 7, 1988, [102 Stat. 2306](https://www.govinfo.gov/link/statute/102/2306).)*

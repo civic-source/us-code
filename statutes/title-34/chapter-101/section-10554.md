@@ -3,9 +3,10 @@ title: "Section 10554 - Definitions"
 usc_title: 34
 usc_section: "10554"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10554"
-generated_at: "2026-03-30T02:55:33.272Z"
+generated_at: "2026-11-23T21:26:09.674Z"
+status: "active"
 ---
 
 # § 10554. Definitions
@@ -27,3 +28,7 @@ For purposes of this subchapter—
         - **(II)** findings and recommendations of public commissions and task forces established to make recommendations or set standards for school security; and
       - **(ii)** compliant with all applicable codes, including building and life safety codes; and
   - **(5)** the term “tribal organization” has the same meaning given the term in section 5304( l ) of title 25.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2704](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 106–386, div. B, title I, § 1108(b)](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1502](https://www.govinfo.gov/link/statute/114/1502); amended [Pub. L. 115–141, div. S, title V, § 502(4)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1131](https://www.govinfo.gov/link/statute/132/1131).)*

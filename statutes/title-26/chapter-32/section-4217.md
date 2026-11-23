@@ -3,9 +3,10 @@ title: "Section 4217 - Leases"
 usc_title: 26
 usc_section: "4217"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4217"
-generated_at: "2026-03-30T02:55:27.800Z"
+generated_at: "2026-11-23T21:26:06.605Z"
+status: "active"
 ---
 
 # § 4217. Leases
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:27.800Z"
   - **(3)** For purposes of this subsection—
     - **(A)** The term “manufacturer” includes a producer or importer.
     - **(B)** The term “total gas guzzler tax” means the tax imposed by section 4064, computed at the rate in effect on the date of the first lease.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 494; Aug. 9, 1955, ch. 677, § 3, [69 Stat. 614](https://www.govinfo.gov/link/statute/69/614); [Pub. L. 85–859, title I, § 117(a)](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1280](https://www.govinfo.gov/link/statute/72/1280); [Pub. L. 94–455, title XIX, § 1904](https://www.govinfo.gov/link/plaw/94/public/455) (a)(3), Oct. 4, 1976, [90 Stat. 1811](https://www.govinfo.gov/link/statute/90/1811); [Pub. L. 95–618, title II, § 201(d)](https://www.govinfo.gov/link/plaw/95/public/618), Nov. 9, 1978, [92 Stat. 3184](https://www.govinfo.gov/link/statute/92/3184).)*

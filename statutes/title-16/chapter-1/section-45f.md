@@ -3,9 +3,10 @@ title: "Section 45f - Mineral King Valley addition authorized"
 usc_title: 16
 usc_section: "45f"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 45f"
-generated_at: "2026-03-30T02:54:22.728Z"
+generated_at: "2026-11-23T21:25:51.368Z"
+status: "active"
 ---
 
 # § 45f. Mineral King Valley addition authorized
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:54:22.728Z"
 - **(f)** There are hereby authorized to be appropriated such sums as may be necessary for the acquisition of land and interests therein described in this section.
 - **(g)**
 - **(h)** The Congress recognizes that the Mineral King Valley area has outstanding potential for certain year-round recreational opportunities, but the development of permanent facilities for downhill skiing within the area would be inconsistent with the preservation and enhancement of its ecological values.
+
+## Source Credit
+
+*([Pub. L. 95–625, title III, § 314](https://www.govinfo.gov/link/plaw/95/public/625), Nov. 10, 1978, [92 Stat. 3479](https://www.govinfo.gov/link/statute/92/3479); [Pub. L. 103–437, § 6(d)(5)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4583](https://www.govinfo.gov/link/statute/108/4583); [Pub. L. 108–447, div. E, title I, § 139(b)](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3068](https://www.govinfo.gov/link/statute/118/3068).)*

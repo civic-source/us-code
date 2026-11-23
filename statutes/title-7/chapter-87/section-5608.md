@@ -3,9 +3,10 @@ title: "Section 5608 - Foreign trade missions"
 usc_title: 7
 usc_section: "5608"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 5608"
-generated_at: "2026-03-30T02:53:42.415Z"
+generated_at: "2026-11-23T21:25:28.362Z"
+status: "active"
 ---
 
 # § 5608. Foreign trade missions
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:42.415Z"
     - **(E)** the Committee on Commerce, Science, and Transportation of the Senate; and
     - **(F)** the Committee on Indian Affairs of the Senate.
   - **(2)** Not later than 90 days after December 20, 2018 , the Secretary shall establish goals for measuring, in an objective and quantifiable format, the extent to which Indian Tribes and Tribal agricultural and food products are included in the trade-related activities of the Department of Agriculture.
+
+## Source Credit
+
+*([Pub. L. 115–334, title III, § 3312](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4623](https://www.govinfo.gov/link/statute/132/4623).)*

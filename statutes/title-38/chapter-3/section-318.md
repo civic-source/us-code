@@ -3,9 +3,10 @@ title: "Section 318 - Center for Women Veterans"
 usc_title: 38
 usc_section: "318"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 318"
-generated_at: "2026-03-30T02:55:53.471Z"
+generated_at: "2026-11-23T21:26:16.553Z"
+status: "active"
 ---
 
 # § 318. Center for Women Veterans
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:53.471Z"
   - **(1)** detailed information on the budget for the Center;
   - **(2)** the Secretary’s opinion as to whether the resources (including the number of employees) proposed in the budget for that fiscal year are adequate to enable the Center to comply with its statutory and regulatory duties; and
   - **(3)** a report on the activities and significant accomplishments of the Center during the preceding fiscal year.
+
+## Source Credit
+
+*(Added [Pub. L. 103–446, title V, § 509(a)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4666](https://www.govinfo.gov/link/statute/108/4666); amended [Pub. L. 104–275, title V, § 501(a)](https://www.govinfo.gov/link/plaw/104/public/275), (d), Oct. 9, 1996, [110 Stat. 3340](https://www.govinfo.gov/link/statute/110/3340), 3341.)*

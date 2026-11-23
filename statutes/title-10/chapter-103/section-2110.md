@@ -3,9 +3,10 @@ title: "Section 2110 - Logistical support"
 usc_title: 10
 usc_section: "2110"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2110"
-generated_at: "2026-03-30T02:53:38.141Z"
+generated_at: "2026-11-23T21:25:32.554Z"
+status: "active"
 ---
 
 # § 2110. Logistical support
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:38.141Z"
 - **(d)** The Secretary of the military department concerned may authorize members of, and designated applicants for membership in, the program to participate in aerial flights in military aircraft and in indoctrination cruises in naval vessels.
 - **(e)** The Secretary of the military department concerned may authorize such expenditures as he considers necessary for the efficient maintenance of the program.
 - **(f)** The Secretary of the military department concerned shall require, from each institution to which property is issued under subsection (a), a bond or other indemnity in such amount as he considers adequate, but not less than $5,000, for the care and safekeeping of all property so issued except uniforms, expendable articles, and supplies expended in operation, maintenance, and instruction. The Secretary may accept a bond without surety if the institution to which the property is issued furnishes to him satisfactory evidence of its financial responsibility.
+
+## Source Credit
+
+*(Added [Pub. L. 88–647, title II, § 201(1)](https://www.govinfo.gov/link/plaw/88/public/647), Oct. 13, 1964, [78 Stat. 1069](https://www.govinfo.gov/link/statute/78/1069); amended [Pub. L. 89–718, § 18](https://www.govinfo.gov/link/plaw/89/public/718), Nov. 2, 1966, [80 Stat. 1118](https://www.govinfo.gov/link/statute/80/1118); [Pub. L. 94–273, § 11(2)](https://www.govinfo.gov/link/plaw/94/public/273), Apr. 21, 1976, [90 Stat. 378](https://www.govinfo.gov/link/statute/90/378); [Pub. L. 97–375, title I, § 104(c)](https://www.govinfo.gov/link/plaw/97/public/375), Dec. 21, 1982, [96 Stat. 1819](https://www.govinfo.gov/link/statute/96/1819).)*

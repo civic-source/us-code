@@ -3,9 +3,10 @@ title: "Section 3603 - Effective dates of certain prohibitions"
 usc_title: 42
 usc_section: "3603"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3603"
-generated_at: "2026-03-30T02:56:11.190Z"
+generated_at: "2026-11-23T21:26:32.582Z"
+status: "active"
 ---
 
 # § 3603. Effective dates of certain prohibitions
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.190Z"
   - **(1)** he has, within the preceding twelve months, participated as principal in three or more transactions involving the sale or rental of any dwelling or any interest therein, or
   - **(2)** he has, within the preceding twelve months, participated as agent, other than in the sale of his own personal residence in providing sales or rental facilities or sales or rental services in two or more transactions involving the sale or rental of any dwelling or any interest therein, or
   - **(3)** he is the owner of any dwelling designed or intended for occupancy by, or occupied by, five or more families.
+
+## Source Credit
+
+*([Pub. L. 90–284, title VIII, § 803](https://www.govinfo.gov/link/plaw/90/public/284), Apr. 11, 1968, [82 Stat. 82](https://www.govinfo.gov/link/statute/82/82).)*

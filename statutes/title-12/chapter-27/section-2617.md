@@ -3,9 +3,10 @@ title: "Section 2617 - Authority of Bureau"
 usc_title: 12
 usc_section: "2617"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2617"
-generated_at: "2026-03-30T02:53:53.487Z"
+generated_at: "2026-11-23T21:25:37.107Z"
+status: "active"
 ---
 
 # § 2617. Authority of Bureau
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:53.487Z"
     - **(B)** replace such exemption with a more limited exemption in new clauses (vii), (viii), and (ix) of section 3500.14 of such title 24,
   - **(2)** The regulation codified as section 3500.14(g)(1)(vii) of title 24 of the Code of Federal Regulations, relating to employer-employee payments, as in effect on May 1, 1996 , shall remain in effect until the date the amendment referred to in paragraph (1) takes effect in accordance with such paragraph.
   - **(3)** The Secretary shall provide public notice of the date on which the amendment referred to in paragraph (1) will take effect in accordance with such paragraph not less than 90 days and not more than 180 days before such effective date.
+
+## Source Credit
+
+*([Pub. L. 93–533, § 19](https://www.govinfo.gov/link/plaw/93/public/533), as added [Pub. L. 94–205, § 10](https://www.govinfo.gov/link/plaw/94/public/205), Jan. 2, 1976, [89 Stat. 1159](https://www.govinfo.gov/link/statute/89/1159); amended [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title IV, § 461(e)], Nov. 30, 1983, [97 Stat. 1232](https://www.govinfo.gov/link/statute/97/1232); [Pub. L. 104–208, div. A, title II, § 2103(f)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–401](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 111–203, title X, § 1098(11)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2104](https://www.govinfo.gov/link/statute/124/2104).)*

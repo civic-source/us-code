@@ -3,12 +3,17 @@ title: "Section 444 - Petrified Forest National Monument; elimination of private
 usc_title: 16
 usc_section: "444"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 444"
-generated_at: "2026-03-30T02:54:22.799Z"
+generated_at: "2026-11-23T21:25:51.530Z"
+status: "active"
 ---
 
 # § 444. Petrified Forest National Monument; elimination of private holdings of land within boundaries; exchange of lands
 
 The Secretary of the Interior, for the purpose of eliminating private holdings of land within the Petrified Forest National Monument, Arizona, is empowered, in his discretion, to obtain for the United States the complete title to any or all of the lands held in private ownership within the boundaries of the Petrified Forest National Monument, Arizona, as now or as may be hereafter defined, by accepting from the owners of such privately owned lands complete relinquishment thereof and by granting and patenting to such owners in exchange therefor, in each instance, like public lands of equal value situated in Navajo and/or Apache Counties, in the State of Arizona, after due notice of the proposed exchange has been given by publication for not less than thirty days in the counties where the lands proposed to be exchanged or taken in exchange are located: Provided , That the Secretary of the Interior shall, on application or otherwise, designate public lands located outside the extreme boundaries of the said monument subject to exchange under this section which are, in his opinion, chiefly valuable for grazing and raising forage crops, do not contain merchantable timber, are not susceptible of irrigation from any known source of water supply, and are of character similar to the privately owned lands offered in exchange.
 
+
+## Source Credit
+
+*(May 14, 1930, ch. 271, § 1, [46 Stat. 278](https://www.govinfo.gov/link/statute/46/278).)*

@@ -3,9 +3,10 @@ title: "Section 1124 - Impairment of claims or interests"
 usc_title: 11
 usc_section: "1124"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1124"
-generated_at: "2026-03-30T02:53:53.884Z"
+generated_at: "2026-11-23T21:25:34.952Z"
+status: "active"
 ---
 
 # § 1124. Impairment of claims or interests
@@ -19,3 +20,7 @@ Except as provided in section 1123(a)(4) of this title , a class of claims or in
     - **(C)** compensates the holder of such claim or interest for any damages incurred as a result of any reasonable reliance by such holder on such contractual provision or such applicable law;
     - **(D)** if such claim or such interest arises from any failure to perform a nonmonetary obligation, other than a default arising from failure to operate a nonresidential real property lease subject to section 365(b)(1)(A), compensates the holder of such claim or such interest (other than the debtor or an insider) for any actual pecuniary loss incurred by such holder as a result of such failure; and
     - **(E)** does not otherwise alter the legal, equitable, or contractual rights to which such claim or interest entitles the holder of such claim or interest.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2633](https://www.govinfo.gov/link/statute/92/2633); [Pub. L. 98–353, title III, § 508](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 385](https://www.govinfo.gov/link/statute/98/385); [Pub. L. 103–394, title II, § 213(d)](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4126](https://www.govinfo.gov/link/statute/108/4126); [Pub. L. 109–8, title III, § 328(b)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 100](https://www.govinfo.gov/link/statute/119/100).)*

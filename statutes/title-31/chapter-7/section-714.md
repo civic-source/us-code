@@ -3,9 +3,10 @@ title: "Section 714 - Audit of Financial Institutions Examination Council, Feder
 usc_title: 31
 usc_section: "714"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 714"
-generated_at: "2026-03-30T02:55:34.046Z"
+generated_at: "2026-11-23T21:26:10.527Z"
+status: "active"
 ---
 
 # § 714. Audit of Financial Institutions Examination Council, Federal Reserve Board, Federal reserve banks, Federal Deposit Insurance Corporation, and Office of Comptroller of the Currency
@@ -52,3 +53,69 @@ generated_at: "2026-03-30T02:55:34.046Z"
       - **(iii)** The Comptroller General shall release a nonredacted version of any report on a credit facility 1 year after the effective date of the termination by the Board of Governors of the authorization for the credit facility. For purposes of this clause, a credit facility shall be deemed to have terminated 24 months after the date on which the credit facility ceases to make extensions of credit and loans, unless the credit facility is otherwise terminated by the Board of Governors.
       - **(iv)** The nondisclosure obligation under clause (i) shall not apply to the credit facilities Maiden Lane, Maiden Lane II, and Maiden Lane III.
       - **(v)** The Comptroller General shall release a nonredacted version of any report regarding covered transactions upon the release of the information regarding such covered transactions by the Board of Governors of the Federal Reserve System, as provided in section 11(s) of the Federal Reserve Act.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 714(a) | 31:67(e)(2). | Sept. 12, 1950, ch. 946 , 64 Stat. 832 , § 117(e)(1)–(5), (7); added July 21, 1978 , Pub. L. 95–320, § 2 , 92 Stat. 391 ; Nov. 10, 1978 , Pub. L. 95–630, § 1010 , 92 Stat. 3696 . |
+| 714(b) | 31:67(e)(1), (3), (4). |  |
+| 714(c) | 31:67(e)(5). |  |
+| 714(d) | 31:67(e)(7). |  |
+
+
+Audits of Credit Facilities of the Federal Reserve System.—
+
+Definitions
+
+Credit facility
+
+Covered transaction
+
+Authority for audits and examinations
+
+Reports and delayed disclosure.—
+
+Reports required
+
+Contents
+
+Delayed release of certain information.—
+
+In general
+
+Delayed release
+
+General release
+
+Exceptions
+
+Release of covered transaction information
+
+Historical and Revision Notes
+
+714(a)
+
+Sept. 12, 1950, ch. 946
+
+64 Stat. 832
+
+July 21, 1978
+
+Pub. L. 95–320, § 2
+
+92 Stat. 391
+
+Nov. 10, 1978
+
+Pub. L. 95–630, § 1010
+
+92 Stat. 3696
+
+714(b)
+
+714(c)
+
+714(d)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 890](https://www.govinfo.gov/link/statute/96/890); [Pub. L. 101–73, title III, § 307(c)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 353](https://www.govinfo.gov/link/statute/103/353); [Pub. L. 104–316, title I, § 115(a)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3834](https://www.govinfo.gov/link/statute/110/3834); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 111–22, div. A, title VIII, § 801](https://www.govinfo.gov/link/plaw/111/public/22), May 20, 2009, [123 Stat. 1662](https://www.govinfo.gov/link/statute/123/1662); [Pub. L. 111–203, title III, § 378(2)](https://www.govinfo.gov/link/plaw/111/public/203), title XI, § 1102, July 21, 2010, [124 Stat. 1570](https://www.govinfo.gov/link/statute/124/1570), 2115.)*

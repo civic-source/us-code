@@ -3,9 +3,10 @@ title: "Section 5233 - Congressional Oversight Panel"
 usc_title: 12
 usc_section: "5233"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5233"
-generated_at: "2026-03-30T02:53:53.527Z"
+generated_at: "2026-11-23T21:25:37.235Z"
+status: "active"
 ---
 
 # § 5233. Congressional Oversight Panel
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:53:53.527Z"
 - **(g)**
   - **(1)** There is authorized to be appropriated to the Oversight Panel such sums as may be necessary for any fiscal year, half of which shall be derived from the applicable account of the House of Representatives, and half of which shall be derived from the contingent fund of the Senate.
   - **(2)** An amount equal to the expenses of the Oversight Panel shall be promptly transferred by the Secretary, from time to time upon the presentment of a statement of such expenses by the Chairperson of the Oversight Panel, from funds made available to the Secretary under this chapter to the applicable fund of the House of Representatives and the contingent fund of the Senate, as appropriate, as reimbursement for amounts expended from such account and fund under paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 110–343, div. A, title I, § 125](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3791](https://www.govinfo.gov/link/statute/122/3791); [Pub. L. 111–22, div. A, title V, § 501](https://www.govinfo.gov/link/plaw/111/public/22), May 20, 2009, [123 Stat. 1658](https://www.govinfo.gov/link/statute/123/1658).)*

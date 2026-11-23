@@ -3,9 +3,10 @@ title: "Section 9711 - Humanitarian relief for the Venezuelan people"
 usc_title: 22
 usc_section: "9711"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9711"
-generated_at: "2026-03-30T02:55:05.472Z"
+generated_at: "2026-11-23T21:25:58.786Z"
+status: "active"
 ---
 
 # § 9711. Humanitarian relief for the Venezuelan people
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:55:05.472Z"
   - **(2)** the Committee on Appropriations of the Senate;
   - **(3)** the Committee on Foreign Affairs of the House of Representatives; and
   - **(4)** the Committee on Appropriations of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 116–94, div. J, title I, § 121](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3032](https://www.govinfo.gov/link/statute/133/3032).)*

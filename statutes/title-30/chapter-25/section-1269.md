@@ -3,9 +3,10 @@ title: "Section 1269 - Release of performance bonds or deposits"
 usc_title: 30
 usc_section: "1269"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1269"
-generated_at: "2026-03-30T02:55:29.401Z"
+generated_at: "2026-11-23T21:26:00.429Z"
+status: "active"
 ---
 
 # § 1269. Release of performance bonds or deposits
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:29.401Z"
 - **(f)** Any person with a valid legal interest which might be adversely affected by release of the bond or the responsible officer or head of any Federal, State, or local governmental agency which has jurisdiction by law or special expertise with respect to any environmental, social, or economic impact involved in the operation, or is authorized to develop and enforce environmental standards with respect to such operations shall have the right to file written objections to the proposed release from bond to the regulatory authority within thirty days after the last publication of the above notice. If written objections are filed, and a hearing requested, the regulatory authority shall inform all the interested parties, of the time and place of the hearing, and hold a public hearing in the locality of the surface coal mining operation proposed for bond release within thirty days of the request for such hearing. The date, time, and location of such public hearings shall be advertised by the regulatory authority in a newspaper of general circulation in the locality for two consecutive weeks, and shall hold a public hearing in the locality of the surface coal mining operation proposed for bond release or at the State capital at the option of the objector, within thirty days of the request for such hearing.
 - **(g)** Without prejudice to the rights of the objectors, the applicant, or the responsibilities of the regulatory authority pursuant to this section, the regulatory authority may establish an informal conference as provided in section 1263 of this title to resolve such written objections.
 - **(h)** For the purpose of such hearing the regulatory authority shall have the authority and is hereby empowered to administer oaths, subpena witnesses, or written or printed materials, compel the attendance of witnesses, or production of the materials, and take evidence including but not limited to inspections of the land affected and other surface coal mining operations carried on by the applicant in the general vicinity. A verbatim record of each public hearing required by this chapter shall be made, and a transcript made available on the motion of any party or by order of the regulatory authority.
+
+## Source Credit
+
+*([Pub. L. 95–87, title V, § 519](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 501](https://www.govinfo.gov/link/statute/91/501).)*

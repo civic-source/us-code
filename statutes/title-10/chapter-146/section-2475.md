@@ -3,9 +3,10 @@ title: "Section 2475 - Consolidation, restructuring, or reengineering of organiz
 usc_title: 10
 usc_section: "2475"
 chapter: 146
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2475"
-generated_at: "2026-03-30T02:53:38.160Z"
+generated_at: "2026-11-23T21:25:32.617Z"
+status: "active"
 ---
 
 # § 2475. Consolidation, restructuring, or reengineering of organizations, functions, or activities: notification requirements
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:53:38.160Z"
     - **(D)** a schedule for performing the consolidation, restructuring, or reengineering; and
     - **(E)** the Secretary’s certification that the entire analysis for the consolidation, restructuring, or reengineering is available for examination; and
   - **(2)** the head of the Defense Agency or the Secretary of the military department concerned may not implement the plan until 30 days after the date that the agency head or Secretary submits notification to the Committees on Armed Services of the Senate and House of Representatives of the intent to carry out such plan.
+
+Strategic Sourcing Plan of Action Defined
+
+Notification of Decision To Execute Plan
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title III, § 353(a)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–72; amended [Pub. L. 115–91, div. A, title X, § 1051(a)(17)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1561](https://www.govinfo.gov/link/statute/131/1561).)*

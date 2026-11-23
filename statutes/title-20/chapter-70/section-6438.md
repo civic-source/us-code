@@ -3,9 +3,10 @@ title: "Section 6438 - Transition services"
 usc_title: 20
 usc_section: "6438"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6438"
-generated_at: "2026-03-30T02:54:48.199Z"
+generated_at: "2026-11-23T21:25:47.516Z"
+status: "active"
 ---
 
 # § 6438. Transition services
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:48.199Z"
       - **(v)** job placement services.
 - **(b)** A project supported under this section may be conducted directly by the State agency, or through a contract or other arrangement with one or more local educational agencies, other public agencies, or private nonprofit organizations.
 - **(c)** Nothing in this section shall be construed to prohibit a school that receives funds under subsection (a) from serving neglected and delinquent children and youth simultaneously with students with similar educational needs, in the same educational settings where appropriate.
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1418](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1586](https://www.govinfo.gov/link/statute/115/1586); amended [Pub. L. 114–95, title I, § 1401(6)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1903](https://www.govinfo.gov/link/statute/129/1903).)*

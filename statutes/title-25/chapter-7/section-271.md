@@ -3,12 +3,17 @@ title: "Section 271 - Employment of instructors for Indians"
 usc_title: 25
 usc_section: "271"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 271"
-generated_at: "2026-03-30T02:54:52.802Z"
+generated_at: "2026-11-23T21:25:54.551Z"
+status: "active"
 ---
 
 # § 271. Employment of instructors for Indians
 
 The President may, in every case where he shall judge improvement in the habits and condition of such Indians practicable, and that the means of instruction can be introduced with their own consent, employ capable persons of good moral character to instruct them in the mode of agriculture suited to their situation; and for teaching their children in reading, writing, and arithmetic, and performing such other duties as may be enjoined according to such instructions and rules as the President may give and prescribe for the regulation of their conduct, in the discharge of their duties. A report of the proceedings adopted in the execution of this provision shall be annually laid before Congress.
 
+
+## Source Credit
+
+*(R.S. § 2071.)*

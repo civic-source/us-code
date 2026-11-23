@@ -3,9 +3,10 @@ title: "Section 4047 - Payment of annuity"
 usc_title: 22
 usc_section: "4047"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4047"
-generated_at: "2026-03-30T02:55:05.403Z"
+generated_at: "2026-11-23T21:25:58.615Z"
+status: "active"
 ---
 
 # § 4047. Payment of annuity
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:05.403Z"
     - **(B)** has a former spouse, shall be ineligible to make an election under this section if the former spouse is entitled to benefits under this part (based on the service of the participant) unless a waiver has been made under section 4046(b)(1)(C) of this title .
   - **(5)** A participant who is married at the time of retiring under this part and who makes an election under this section may, during the 18-month period beginning on the date of retirement, make the election provided for under section 4046(n) of this title , subject to the deposit requirement thereunder.
   - **(6)** Notwithstanding any other provision of law, any lump-sum credit provided pursuant to an election under this subsection shall not preclude an individual from receiving any other benefits under this subsection.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 807](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2109](https://www.govinfo.gov/link/statute/94/2109); Ex. Ord. No. 12446, § 3(a), Oct. 17, 1983, 48 F.R. 48443; [Pub. L. 99–335, title IV](https://www.govinfo.gov/link/plaw/99/public/335), §§ 402(a)(2), 408, June 6, 1986, [100 Stat. 609](https://www.govinfo.gov/link/statute/100/609), 612; [Pub. L. 103–66, title XI, § 11002(b)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 409](https://www.govinfo.gov/link/statute/107/409).)*

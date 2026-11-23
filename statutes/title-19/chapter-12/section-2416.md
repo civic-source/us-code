@@ -3,9 +3,10 @@ title: "Section 2416 - Monitoring of foreign compliance"
 usc_title: 19
 usc_section: "2416"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2416"
-generated_at: "2026-03-30T02:54:24.674Z"
+generated_at: "2026-11-23T21:25:42.802Z"
+status: "active"
 ---
 
 # § 2416. Monitoring of foreign compliance
@@ -31,3 +32,11 @@ generated_at: "2026-03-30T02:54:24.674Z"
 - **(d)** Before making any determination under subsection (b) or (c), the Trade Representative shall—
   - **(1)** consult with the petitioner, if any, involved in the initial investigation under this subchapter and with representatives of the domestic industry concerned; and
   - **(2)** provide an opportunity for the presentation of views by interested persons.
+
+In General
+
+Further Action
+
+## Source Credit
+
+*([Pub. L. 93–618, title III, § 306](https://www.govinfo.gov/link/plaw/93/public/618), as added [Pub. L. 96–39, title IX, § 901](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 299](https://www.govinfo.gov/link/statute/93/299); amended [Pub. L. 100–418, title I, § 1301(a)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1173](https://www.govinfo.gov/link/statute/102/1173); [Pub. L. 103–465, title III, § 314(e)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4941](https://www.govinfo.gov/link/statute/108/4941); [Pub. L. 104–295, § 20(c)(1)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3528](https://www.govinfo.gov/link/statute/110/3528); [Pub. L. 106–200, title IV, § 407](https://www.govinfo.gov/link/plaw/106/public/200), May 18, 2000, [114 Stat. 293](https://www.govinfo.gov/link/statute/114/293); [Pub. L. 114–125, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/114/public/125), (b)(2), (3), Feb. 24, 2016, [130 Stat. 184](https://www.govinfo.gov/link/statute/130/184).)*

@@ -3,9 +3,10 @@ title: "Section 8144 - Grants to or contracts with organizations"
 usc_title: 42
 usc_section: "8144"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8144"
-generated_at: "2026-03-30T02:56:11.336Z"
+generated_at: "2026-11-23T21:26:33.184Z"
+status: "active"
 ---
 
 # § 8144. Grants to or contracts with organizations
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.336Z"
 - **(f)** Grants and other assistance may be made available under this subchapter only if the application contains a certification by the unit of general local government in which the project will be located that the project is consistent with and supportive of the objectives of that government for the area in which the project is located.
 - **(g)** Funds made available under this subchapter shall not be used to supplant other public or private funds.
 - **(h)** No more than 10 per centum of the funds appropriated for any fiscal year under section 8146 of this title shall be available for administrative expenses.
+
+## Source Credit
+
+*([Pub. L. 95–557, title VIII, § 805](https://www.govinfo.gov/link/plaw/95/public/557), Oct. 31, 1978, [92 Stat. 2123](https://www.govinfo.gov/link/statute/92/2123).)*

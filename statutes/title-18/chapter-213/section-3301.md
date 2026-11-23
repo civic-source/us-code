@@ -3,9 +3,10 @@ title: "Section 3301 - Securities fraud offenses"
 usc_title: 18
 usc_section: "3301"
 chapter: 213
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3301"
-generated_at: "2026-03-30T02:54:16.516Z"
+generated_at: "2026-11-23T21:25:44.198Z"
+status: "active"
 ---
 
 # § 3301. Securities fraud offenses
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:54:16.516Z"
   - **(5)** section 49 of the Investment Company Act of 1940 ( 15 U.S.C. 80a–48 ); or
   - **(6)** section 325 of the Trust Indenture Act of 1939 ( 15 U.S.C. 77yyy ).
 - **(b)** No person shall be prosecuted, tried, or punished for a securities fraud offense, unless the indictment is found or the information is instituted within 6 years after the commission of the offense.
+
+Definition
+
+Limitation
+
+## Source Credit
+
+*(Added [Pub. L. 111–203, title X, § 1079A(b)(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2079](https://www.govinfo.gov/link/statute/124/2079).)*

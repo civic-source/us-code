@@ -3,9 +3,10 @@ title: "Section 9054 - Participation of dairy operations in dairy margin coverag
 usc_title: 7
 usc_section: "9054"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 9054"
-generated_at: "2026-03-30T02:53:42.487Z"
+generated_at: "2026-11-23T21:25:28.494Z"
+status: "active"
 ---
 
 # § 9054. Participation of dairy operations in dairy margin coverage
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:42.487Z"
   - **(2)** The administrative fee for a participating dairy operation shall be $100.
   - **(3)** The Secretary shall use administrative fees collected under this subsection to cover administrative costs incurred to carry out dairy margin coverage.
   - **(4)** A limited resource, beginning, veteran, or socially disadvantaged farmer, as defined by the Secretary, shall be exempt from the administrative fee under this subsection.
+
+## Source Credit
+
+*([Pub. L. 113–79, title I, § 1404](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 690](https://www.govinfo.gov/link/statute/128/690); [Pub. L. 115–123, div. F, § 60101(b)(2)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 311](https://www.govinfo.gov/link/statute/132/311); [Pub. L. 115–334, title I, § 1401(d)](https://www.govinfo.gov/link/plaw/115/public/334), (e), (k)(5), Dec. 20, 2018, [132 Stat. 4512](https://www.govinfo.gov/link/statute/132/4512), 4517.)*

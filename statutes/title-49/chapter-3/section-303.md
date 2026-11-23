@@ -3,9 +3,10 @@ title: "Section 303 - Policy on lands, wildlife and waterfowl refuges, and histo
 usc_title: 49
 usc_section: "303"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 303"
-generated_at: "2026-03-30T02:56:19.298Z"
+generated_at: "2026-11-23T21:26:40.587Z"
+status: "active"
 ---
 
 # § 303. Policy on lands, wildlife and waterfowl refuges, and historic sites
@@ -63,3 +64,93 @@ generated_at: "2026-03-30T02:56:19.298Z"
     - **(B)** The bridges and tunnels referred to in subparagraph (A)(ii) do not include bridges or tunnels located on railroad or transit lines—
       - **(i)** over which service has been discontinued; or
       - **(ii)** that have been railbanked or otherwise reserved for the transportation of goods or passengers.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 303(a) | 49:1651(b)(2). | Oct. 15, 1966 , Pub. L. 89–670, § 2(b)(2) , 80 Stat. 931 . |
+|  | 49:1653(f) (1st sentence). | Oct. 15, 1966 , Pub. L. 89–670, § 4(f) , 80 Stat. 934 ; restated Aug. 23, 1968 , Pub. L. 90–495, § 18(b) , 82 Stat. 824 . |
+| 303(b) | 49:1653(f) (2d sentence). |  |
+| 303(c) | 49:1653(f) (less 1st, 2d sentences). |  |
+
+
+Approval of Programs and Projects
+
+De Minimis Impacts.—
+
+Requirements.—
+
+Requirements for historic sites
+
+Requirements for parks, recreation areas, and wildlife or waterfowl refuges
+
+Criteria
+
+Historic sites
+
+Parks, recreation areas, and wildlife or waterfowl refuges
+
+Satisfaction of Requirements for Certain Historic Sites.—
+
+In general
+
+Avoidance alternative analysis.—
+
+In general
+
+Concurrence
+
+Publication
+
+Aligning historical reviews.—
+
+In general
+
+Satisfaction of conditions
+
+References to Past Transportation Environmental Authorities.—
+
+Section 4(f) requirements
+
+Section 106 requirements
+
+Bridge Exemption From Consideration
+
+Rail and Transit.—
+
+In general
+
+Exceptions.—
+
+In general
+
+Clarification with respect to certain bridges and tunnels
+
+Historical and Revision Notes
+
+303(a)
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 2(b)(2)
+
+80 Stat. 931
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 4(f)
+
+80 Stat. 934
+
+Aug. 23, 1968
+
+Pub. L. 90–495, § 18(b)
+
+82 Stat. 824
+
+303(b)
+
+303(c)
+
+## Source Credit
+
+*([Pub. L. 97–449, § 1(b)](https://www.govinfo.gov/link/plaw/97/public/449), Jan. 12, 1983, [96 Stat. 2419](https://www.govinfo.gov/link/statute/96/2419); [Pub. L. 100–17, title I, § 133(d)](https://www.govinfo.gov/link/plaw/100/public/17), Apr. 2, 1987, [101 Stat. 173](https://www.govinfo.gov/link/statute/101/173); [Pub. L. 109–59, title VI, § 6009(a)(2)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1875](https://www.govinfo.gov/link/statute/119/1875); [Pub. L. 113–287, § 5(p)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3272](https://www.govinfo.gov/link/statute/128/3272); [Pub. L. 114–94, div. A, title I](https://www.govinfo.gov/link/plaw/114/public/94), §§ 1301(b), 1302(b), 1303(b), title XI, § 11502(b), Dec. 4, 2015, [129 Stat. 1376](https://www.govinfo.gov/link/statute/129/1376), 1378, 1690.)*

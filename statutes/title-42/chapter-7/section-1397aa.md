@@ -3,9 +3,10 @@ title: "Section 1397aa - Purpose; State child health plans"
 usc_title: 42
 usc_section: "1397aa"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1397aa"
-generated_at: "2026-03-30T02:56:11.068Z"
+generated_at: "2026-11-23T21:26:31.941Z"
+status: "active"
 ---
 
 # § 1397aa. Purpose; State child health plans
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.068Z"
   - **(2)** has been approved under section 1397ff of this title .
 - **(c)** This subchapter constitutes budget authority in advance of appropriations Acts and represents the obligation of the Federal Government to provide for the payment to States of amounts provided under section 1397dd of this title .
 - **(d)** No State is eligible for payments under section 1397ee of this title for child health assistance for coverage provided for periods beginning before October 1, 1997 .
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XXI, § 2101, as added [Pub. L. 105–33, title IV, § 4901(a)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 552](https://www.govinfo.gov/link/statute/111/552); amended [Pub. L. 119–21, title VII, § 71401(b)(1)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 331](https://www.govinfo.gov/link/statute/139/331).)*

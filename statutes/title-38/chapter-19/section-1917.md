@@ -3,9 +3,10 @@ title: "Section 1917 - Insurance maturing on or after August 1, 1946"
 usc_title: 38
 usc_section: "1917"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1917"
-generated_at: "2026-03-30T02:55:53.490Z"
+generated_at: "2026-11-23T21:26:16.672Z"
+status: "active"
 ---
 
 # § 1917. Insurance maturing on or after August 1, 1946
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:53.490Z"
     - **(A)** if the first beneficiary otherwise entitled to payment of the insurance does not make a claim for such payment within one year after the death of the insured, payment may be made to another beneficiary designated by the insured, in the order of precedence as designated by the insured, as if the first beneficiary had predeceased the insured; and
     - **(B)** if, within two years after the death of the insured, no claim has been filed by a person designated by the insured as a beneficiary and the Secretary has not received any notice in writing that any such claim will be made, payment may (notwithstanding any other provision of law) be made to such person as may in the judgment of the Secretary be equitably entitled thereto.
   - **(2)** Payment of insurance under paragraph (1) shall be a bar to recovery by any other person.
+
+## Source Credit
+
+*([Pub. L. 85–857](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1152](https://www.govinfo.gov/link/statute/72/1152), § 717; [Pub. L. 91–291, § 10](https://www.govinfo.gov/link/plaw/91/public/291), June 25, 1970, [84 Stat. 331](https://www.govinfo.gov/link/statute/84/331); [Pub. L. 97–66, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/97/public/66), Oct. 17, 1981, [95 Stat. 1031](https://www.govinfo.gov/link/statute/95/1031); renumbered § 1917 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406](https://www.govinfo.gov/link/statute/105/404); [Pub. L. 108–183, title I, § 103(a)](https://www.govinfo.gov/link/plaw/108/public/183), Dec. 16, 2003, [117 Stat. 2655](https://www.govinfo.gov/link/statute/117/2655); [Pub. L. 117–313](https://www.govinfo.gov/link/plaw/117/public/313), §§ 2(a), 3(a), Dec. 27, 2022, [136 Stat. 4399](https://www.govinfo.gov/link/statute/136/4399).)*

@@ -3,9 +3,10 @@ title: "Section 1629 - Inspections and preclearance in foreign countries"
 usc_title: 19
 usc_section: "1629"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1629"
-generated_at: "2026-03-30T02:54:24.648Z"
+generated_at: "2026-11-23T21:25:42.736Z"
+status: "active"
 ---
 
 # § 1629. Inspections and preclearance in foreign countries
@@ -39,3 +40,17 @@ generated_at: "2026-03-30T02:54:24.648Z"
     - **(D)** develop and harmonize, to the extent practicable, standards, technologies, and protocols for physical or nonintrusive examinations that will facilitate the efficient flow of international trade; and
     - **(E)** ensure the protection of confidential commercial data.
   - **(4)** In this subsection, the term “Commissioner” means the Commissioner responsible for the United States Customs and Border Protection in the Department of Homeland Security.
+
+Findings
+
+Creation of Integrated Border Inspection Areas.—
+
+In general
+
+Additional requirement
+
+Elements of the program
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 629, as added [Pub. L. 99–570, title III, § 3128](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–89](https://www.govinfo.gov/link/statute/100/3207); amended [Pub. L. 108–7, div. J, title I, § 127(c)](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 441](https://www.govinfo.gov/link/statute/117/441); [Pub. L. 108–429, title I, § 1561(b)](https://www.govinfo.gov/link/plaw/108/public/429), (c), Dec. 3, 2004, [118 Stat. 2581](https://www.govinfo.gov/link/statute/118/2581), 2582; [Pub. L. 109–280, title XIV, § 1635(f)(1)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1171](https://www.govinfo.gov/link/statute/120/1171); [Pub. L. 109–347, title IV, § 404](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1928](https://www.govinfo.gov/link/statute/120/1928).)*

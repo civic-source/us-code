@@ -3,9 +3,10 @@ title: "Section 708 - Educational leave of absence"
 usc_title: 10
 usc_section: "708"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 708"
-generated_at: "2026-03-30T02:53:38.074Z"
+generated_at: "2026-11-23T21:25:32.314Z"
+status: "active"
 ---
 
 # § 708. Educational leave of absence
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:38.074Z"
 - **(e)** In this section, the term “eligible member” means a member of the armed forces on active duty who is eligible for basic educational assistance under chapter 30 of title 38 and who—
   - **(1)** in the case of an enlisted member, has completed at least one term of enlistment and has reenlisted; and
   - **(2)** in the case of an officer, has completed the officer’s initial period of obligated service on active duty.
+
+## Source Credit
+
+*(Added [Pub. L. 98–525, title VII, § 707(a)(1)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2571](https://www.govinfo.gov/link/statute/98/2571); amended [Pub. L. 100–26, § 7(i)(2)](https://www.govinfo.gov/link/plaw/100/public/26), (k)(3), Apr. 21, 1987, [101 Stat. 282](https://www.govinfo.gov/link/statute/101/282), 284; [Pub. L. 103–337, div. A, title X, § 1070(e)(2)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2859](https://www.govinfo.gov/link/statute/108/2859); [Pub. L. 105–85, div. A, title VI, § 603(d)(2)(A)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1782](https://www.govinfo.gov/link/statute/111/1782); [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 108–375, div. A, title V, § 554](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1913](https://www.govinfo.gov/link/statute/118/1913); [Pub. L. 109–364, div. A, title X, § 1071(g)(3)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2402](https://www.govinfo.gov/link/statute/120/2402).)*

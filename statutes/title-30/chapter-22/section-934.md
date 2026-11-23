@@ -3,9 +3,10 @@ title: "Section 934 - “Fund” defined; liability of operators to United State
 usc_title: 30
 usc_section: "934"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 934"
-generated_at: "2026-03-30T02:55:29.392Z"
+generated_at: "2026-11-23T21:26:00.407Z"
+status: "active"
 ---
 
 # § 934. “Fund” defined; liability of operators to United States for repayments to fund; procedures applicable; rate of interest
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:29.392Z"
   - **(5)** The rate of interest under this subsection—
     - **(A)** for any period during calendar year 1982, shall be 15 percent, and
     - **(B)** for any period after calendar year 1982, shall be the rate established by section 6621 of title 26 which is in effect for such period.
+
+## Source Credit
+
+*([Pub. L. 91–173, title IV, § 424](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 798](https://www.govinfo.gov/link/statute/83/798); [Pub. L. 92–303, § 1(c)(1)](https://www.govinfo.gov/link/plaw/92/public/303), May 19, 1972, [86 Stat. 151](https://www.govinfo.gov/link/statute/86/151); [Pub. L. 95–227, § 3(d)](https://www.govinfo.gov/link/plaw/95/public/227), Feb. 10, 1978, [92 Stat. 13](https://www.govinfo.gov/link/statute/92/13); [Pub. L. 96–222, title I, § 108(b)(2)(A)](https://www.govinfo.gov/link/plaw/96/public/222), Apr. 1, 1980, [94 Stat. 226](https://www.govinfo.gov/link/statute/94/226); [Pub. L. 97–119, title I, § 104(a)(1)](https://www.govinfo.gov/link/plaw/97/public/119), (2), (b)(6), Dec. 29, 1981, [95 Stat. 1639](https://www.govinfo.gov/link/statute/95/1639); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095).)*

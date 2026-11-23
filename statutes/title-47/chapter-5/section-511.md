@@ -3,9 +3,10 @@ title: "Section 511 - Enhanced penalties for pirate radio broadcasting; enforcem
 usc_title: 47
 usc_section: "511"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 511"
-generated_at: "2026-03-30T02:56:24.517Z"
+generated_at: "2026-11-23T21:26:36.028Z"
+status: "active"
 ---
 
 # § 511. Enhanced penalties for pirate radio broadcasting; enforcement sweeps; reporting
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:24.517Z"
     - **(A)** each licensed station as a station licensed by the Commission; and
     - **(B)** each entity described in paragraph (1)(B) as operating without a Commission license or authorization.
 - **(h)** In this section, the term “pirate radio broadcasting” means the transmission of communications on spectrum frequencies between 535 and 1705 kilohertz, inclusive, or 87.7 and 108 megahertz, inclusive, without a license issued by the Commission, but does not include unlicensed operations in compliance with part 15 of title 47, Code of Federal Regulations.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title V, § 511, as added [Pub. L. 116–109, § 2](https://www.govinfo.gov/link/plaw/116/public/109), Jan. 24, 2020, [134 Stat. 3](https://www.govinfo.gov/link/statute/134/3).)*

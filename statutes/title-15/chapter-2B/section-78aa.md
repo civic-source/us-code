@@ -3,9 +3,10 @@ title: "Section 78aa - Jurisdiction of offenses and suits"
 usc_title: 15
 usc_section: "78aa"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 78aa"
-generated_at: "2026-03-30T02:54:08.059Z"
+generated_at: "2026-11-23T21:25:39.569Z"
+status: "active"
 ---
 
 # § 78aa. Jurisdiction of offenses and suits
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.059Z"
 - **(b)** The district courts of the United States and the United States courts of any Territory shall have jurisdiction of an action or proceeding brought or instituted by the Commission or the United States alleging a violation of the antifraud provisions of this chapter involving—
   - **(1)** conduct within the United States that constitutes significant steps in furtherance of the violation, even if the securities transaction occurs outside the United States and involves only foreign investors; or
   - **(2)** conduct occurring outside the United States that has a foreseeable substantial effect within the United States.
+
+## Source Credit
+
+*(June 6, 1934, ch. 404, title I, § 27, [48 Stat. 902](https://www.govinfo.gov/link/statute/48/902); June 25, 1936, ch. 804, [49 Stat. 1921](https://www.govinfo.gov/link/statute/49/1921); June 25, 1948, ch. 646, § 32(b), [62 Stat. 991](https://www.govinfo.gov/link/statute/62/991); May 24, 1949, ch. 139, § 127, [63 Stat. 107](https://www.govinfo.gov/link/statute/63/107); [Pub. L. 100–181, title III, § 326](https://www.govinfo.gov/link/plaw/100/public/181), Dec. 4, 1987, [101 Stat. 1259](https://www.govinfo.gov/link/statute/101/1259); [Pub. L. 111–203, title IX](https://www.govinfo.gov/link/plaw/111/public/203), §§ 929E(b), 929P(b)(2), July 21, 2010, [124 Stat. 1853](https://www.govinfo.gov/link/statute/124/1853), 1865.)*

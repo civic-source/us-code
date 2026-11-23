@@ -3,9 +3,10 @@ title: "Section 18725 - Cybersecurity plan"
 usc_title: 42
 usc_section: "18725"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18725"
-generated_at: "2026-03-30T02:56:11.527Z"
+generated_at: "2026-11-23T21:26:33.839Z"
+status: "active"
 ---
 
 # § 18725. Cybersecurity plan
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.527Z"
 - **(e)** Information provided to, or collected by, the Federal Government pursuant to this section the disclosure of which the Secretary reasonably foresees could be detrimental to the physical security or cybersecurity of any electric utility or the bulk-power system—
   - **(1)** shall be exempt from disclosure under section 552(b)(3) of title 5 ; and
   - **(2)** shall not be made available by any Federal agency, State, political subdivision of a State, or Tribal authority pursuant to any Federal, State, political subdivision of a State, or Tribal law, respectively, requiring public disclosure of information or records.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title I, § 40126](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 956](https://www.govinfo.gov/link/statute/135/956).)*

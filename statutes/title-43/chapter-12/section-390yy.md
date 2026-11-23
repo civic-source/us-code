@@ -3,9 +3,10 @@ title: "Section 390yy - Leasing requirements"
 usc_title: 43
 usc_section: "390yy"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 390yy"
-generated_at: "2026-03-30T02:55:57.446Z"
+generated_at: "2026-11-23T21:26:19.774Z"
+status: "active"
 ---
 
 # § 390yy. Leasing requirements
@@ -14,3 +15,7 @@ Notwithstanding any other provision of Federal reclamation law, including this s
 
   - **(1)** written; and
   - **(2)** for a term not to exceed ten years, including any exercisable options: Provided, however , That leases of lands for the production of perennial crops having an average life of more than ten years may be for periods of time equal to the average life of the perennial crop but in any event not to exceed twenty-five years.
+
+## Source Credit
+
+*([Pub. L. 97–293, title II, § 227](https://www.govinfo.gov/link/plaw/97/public/293), Oct. 12, 1982, [96 Stat. 1273](https://www.govinfo.gov/link/statute/96/1273).)*

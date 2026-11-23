@@ -3,12 +3,17 @@ title: "Section 210 - Distribution of Supplements to Code of Laws of United Stat
 usc_title: 1
 usc_section: "210"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "1 U.S.C. § 210"
-generated_at: "2026-03-30T02:52:49.392Z"
+generated_at: "2026-11-23T21:25:19.921Z"
+status: "active"
 ---
 
 # § 210. Distribution of Supplements to Code of Laws of United States and of District of Columbia Code and Supplements; slip and pamphlet copies
 
 Copies of the Code of Laws relating to the District of Columbia, and of the supplements provided for by sections 202, 203 of this title shall be distributed by the Superintendent of Documents in the same manner as bound volumes of the Statutes at Large: Provided , That no slip or pamphlet copies of the Code of Laws relating to the District of Columbia, and of the supplements provided for by sections 202, 203 of this title need be printed or distributed.
 
+
+## Source Credit
+
+*(July 30, 1947, ch. 388, [61 Stat. 640](https://www.govinfo.gov/link/statute/61/640).)*

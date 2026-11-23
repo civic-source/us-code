@@ -3,9 +3,10 @@ title: "Section 2351 - Distribution of funds to secondary education programs"
 usc_title: 20
 usc_section: "2351"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 2351"
-generated_at: "2026-03-30T02:54:48.175Z"
+generated_at: "2026-11-23T21:25:47.385Z"
+status: "active"
 ---
 
 # § 2351. Distribution of funds to secondary education programs
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:54:48.175Z"
   - **(2)** Funds allocated to a consortium formed to meet the requirements of this subsection shall be used only for purposes and programs that are mutually beneficial to all members of the consortium and can be used only for programs authorized under this subchapter. Such funds may not be reallocated to individual members of the consortium for purposes or programs benefitting only 1 member of the consortium.
 - **(g)** The Secretary shall collect information from eligible agencies regarding the specific dollar allocations made available by the eligible agency for career and technical education programs and programs of study under subsections (a), (b), (c), (d), and (e) and how these allocations are distributed to local educational agencies, area career and technical education schools, and educational service agencies, within the State in accordance with this section.
 - **(h)** Each eligible agency distributing funds under this section shall treat a secondary school funded by the Bureau of Indian Education within the State as if such school were a local educational agency within the State for the purpose of receiving a distribution under this section.
+
+## Source Credit
+
+*([Pub. L. 88–210, title I, § 131](https://www.govinfo.gov/link/plaw/88/public/210), as added [Pub. L. 109–270, § 1(b)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 727](https://www.govinfo.gov/link/statute/120/727); amended [Pub. L. 115–224, title I, § 131](https://www.govinfo.gov/link/plaw/115/public/224), July 31, 2018, [132 Stat. 1612](https://www.govinfo.gov/link/statute/132/1612).)*

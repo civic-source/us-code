@@ -3,9 +3,10 @@ title: "Section 47115 - Discretionary fund"
 usc_title: 49
 usc_section: "47115"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 47115"
-generated_at: "2026-03-30T02:56:19.403Z"
+generated_at: "2026-11-23T21:26:40.975Z"
+status: "active"
 ---
 
 # § 47115. Discretionary fund
@@ -72,3 +73,149 @@ generated_at: "2026-03-30T02:56:19.403Z"
     - **(B)** section 47117(e); or
     - **(C)** any other apportionment formula, special apportionment category, or minimum percentage set forth in this chapter.
 - **(l)** Notwithstanding any other provision of law, in addition to amounts made available under paragraphs (1) and (2) of subsection (a), the Secretary may add to the discretionary fund an amount equal to one-third of the apportionment funds made available under section 47114 that were not required during the previous fiscal year pursuant to section 47117(b)(1) out of the anticipated amount of apportionment funds made available under section 47114 that will not be required during the current fiscal year pursuant to section 47117(b)(1).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 47115(a) | 49 App.:2206(c)(1) (1st, 2d sentences). | Sept. 3, 1982 , Pub. L. 97–248, § 507(c) , 96 Stat. 679 ; Jan. 6, 1983 , Pub. L. 97–424, § 426(a) , (d), 96 Stat. 2167 , 2168; restated Dec. 30, 1987 , Pub. L. 100–223, § 106(a) , 101 Stat. 1496 ; Nov. 5, 1990 , Pub. L. 101–508, § 9112(a) , 104 Stat. 1388–362 . |
+| 47115(b) | 49 App.:2206(c)(1) (3d, last sentences). |  |
+| 47115(c) | 49 App.:2206(c)(2). |  |
+| 47115(d) | 49 App.:2206(c)(3). |  |
+| 47115(e) | 49 App.:2206(c)(4). |  |
+
+| Pub. L . 103–429 | Col 2 | Col 3 |
+| --- | --- | --- |
+| 47115(f) | 49 App.:2206(c)(5). | Sept. 3, 1982 , Pub. L. 97–248, § 507(c)(5) , as added May 26, 1994 , Pub. L. 103–260, § 104(a) , 108 Stat. 698 . |
+|  | 49 App.:2206 (note). | May 26, 1994 , Pub. L. 103–260, § 104(b) , 108 Stat. 699 . |
+
+
+Existence and Amounts in Fund
+
+Availability of Amounts
+
+Minimum Percentage for Primary and Reliever Airports
+
+Considerations.—
+
+For capacity enhancement projects
+
+For all projects
+
+Waiving Percentage Requirement
+
+Consideration of Diversion of Revenues in Awarding Discretionary Grants.—
+
+General rule
+
+Required finding
+
+Minimum Amount To Be Credited.—
+
+General rule
+
+Reduction of apportionments
+
+Amount of reduction
+
+Priority for Letters of Intent
+
+Marshall Islands, Micronesia, and Palau
+
+Airport Safety and Resilient Infrastructure Discretionary Program.—
+
+In general
+
+Treatment of grants.—
+
+In general
+
+Exception
+
+Eligibility and prioritization.—
+
+Eligibility
+
+Minimum allocation
+
+Prioritization
+
+Eligibilities
+
+Authorization.—
+
+In general
+
+Availability
+
+Partnership Program Airports.—
+
+Authority
+
+Nonapplicability of certain sections
+
+Special Carryover Assumption Rule
+
+Historical and Revision Notes
+
+Pub. L
+
+47115(a)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 507(c)
+
+96 Stat. 679
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 426(a)
+
+96 Stat. 2167
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 106(a)
+
+101 Stat. 1496
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 9112(a)
+
+104 Stat. 1388–362
+
+47115(b)
+
+47115(c)
+
+47115(d)
+
+47115(e)
+
+Pub. L
+
+47115(f)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 507(c)(5)
+
+May 26, 1994
+
+Pub. L. 103–260, § 104(a)
+
+108 Stat. 698
+
+May 26, 1994
+
+Pub. L. 103–260, § 104(b)
+
+108 Stat. 699
+
+Minimum Amount To Be Credited
+
+“In awarding grants under section 47115 of title 49 , United States Code, for runway safety projects, the Administrator [of the Federal Aviation Administration] shall, to the maximum extent practicable—
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1270](https://www.govinfo.gov/link/statute/108/1270); [Pub. L. 103–305, title I, § 112(d)](https://www.govinfo.gov/link/plaw/103/public/305), Aug. 23, 1994, [108 Stat. 1576](https://www.govinfo.gov/link/statute/108/1576); [Pub. L. 103–429, § 6(67)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4386](https://www.govinfo.gov/link/statute/108/4386); [Pub. L. 104–264, title I](https://www.govinfo.gov/link/plaw/104/public/264), §§ 122, 145, Oct. 9, 1996, [110 Stat. 3218](https://www.govinfo.gov/link/statute/110/3218), 3222; [Pub. L. 104–287, § 5(81)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3397](https://www.govinfo.gov/link/statute/110/3397); [Pub. L. 106–6](https://www.govinfo.gov/link/plaw/106/public/6), §§ 5, 8(a), Mar. 31, 1999, [113 Stat. 10](https://www.govinfo.gov/link/statute/113/10), 11; [Pub. L. 107–71, title I, § 119(a)(3)](https://www.govinfo.gov/link/plaw/107/public/71), Nov. 19, 2001, [115 Stat. 628](https://www.govinfo.gov/link/statute/115/628); [Pub. L. 108–176, title I](https://www.govinfo.gov/link/plaw/108/public/176), §§ 148, 188, Dec. 12, 2003, [117 Stat. 2504](https://www.govinfo.gov/link/statute/117/2504), 2519; [Pub. L. 110–253, § 3(c)(5)](https://www.govinfo.gov/link/plaw/110/public/253), June 30, 2008, [122 Stat. 2418](https://www.govinfo.gov/link/statute/122/2418); [Pub. L. 110–330, § 5(f)](https://www.govinfo.gov/link/plaw/110/public/330), Sept. 30, 2008, [122 Stat. 3718](https://www.govinfo.gov/link/statute/122/3718); [Pub. L. 111–12, § 5(e)](https://www.govinfo.gov/link/plaw/111/public/12), Mar. 30, 2009, [123 Stat. 1458](https://www.govinfo.gov/link/statute/123/1458); [Pub. L. 111–69, § 5(f)](https://www.govinfo.gov/link/plaw/111/public/69), Oct. 1, 2009, [123 Stat. 2055](https://www.govinfo.gov/link/statute/123/2055); [Pub. L. 111–116, § 5(e)](https://www.govinfo.gov/link/plaw/111/public/116), Dec. 16, 2009, [123 Stat. 3032](https://www.govinfo.gov/link/statute/123/3032); [Pub. L. 111–153, § 5(e)](https://www.govinfo.gov/link/plaw/111/public/153), Mar. 31, 2010, [124 Stat. 1085](https://www.govinfo.gov/link/statute/124/1085); [Pub. L. 111–161, § 5(e)](https://www.govinfo.gov/link/plaw/111/public/161), Apr. 30, 2010, [124 Stat. 1127](https://www.govinfo.gov/link/statute/124/1127); [Pub. L. 111–197, § 5(e)](https://www.govinfo.gov/link/plaw/111/public/197), July 2, 2010, [124 Stat. 1354](https://www.govinfo.gov/link/statute/124/1354); [Pub. L. 111–216, title I, § 104(e)](https://www.govinfo.gov/link/plaw/111/public/216), Aug. 1, 2010, [124 Stat. 2349](https://www.govinfo.gov/link/statute/124/2349); [Pub. L. 111–249, § 5(f)](https://www.govinfo.gov/link/plaw/111/public/249), Sept. 30, 2010, [124 Stat. 2628](https://www.govinfo.gov/link/statute/124/2628); [Pub. L. 111–329, § 5(e)](https://www.govinfo.gov/link/plaw/111/public/329), Dec. 22, 2010, [124 Stat. 3567](https://www.govinfo.gov/link/statute/124/3567); [Pub. L. 112–7, § 5(e)](https://www.govinfo.gov/link/plaw/112/public/7), Mar. 31, 2011, [125 Stat. 32](https://www.govinfo.gov/link/statute/125/32); [Pub. L. 112–16, § 5(e)](https://www.govinfo.gov/link/plaw/112/public/16), May 31, 2011, [125 Stat. 219](https://www.govinfo.gov/link/statute/125/219); [Pub. L. 112–21, § 5(e)](https://www.govinfo.gov/link/plaw/112/public/21), June 29, 2011, [125 Stat. 234](https://www.govinfo.gov/link/statute/125/234); [Pub. L. 112–27, § 5(e)](https://www.govinfo.gov/link/plaw/112/public/27), Aug. 5, 2011, [125 Stat. 271](https://www.govinfo.gov/link/statute/125/271); [Pub. L. 112–30, title II, § 205(f)](https://www.govinfo.gov/link/plaw/112/public/30), Sept. 16, 2011, [125 Stat. 358](https://www.govinfo.gov/link/statute/125/358); [Pub. L. 112–91, § 5(f)](https://www.govinfo.gov/link/plaw/112/public/91), Jan. 31, 2012, [126 Stat. 4](https://www.govinfo.gov/link/statute/126/4); [Pub. L. 112–95, title I, § 144](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 29](https://www.govinfo.gov/link/statute/126/29); [Pub. L. 114–55, title I, § 102(b)](https://www.govinfo.gov/link/plaw/114/public/55), Sept. 30, 2015, [129 Stat. 523](https://www.govinfo.gov/link/statute/129/523); [Pub. L. 114–141, title I, § 102(b)](https://www.govinfo.gov/link/plaw/114/public/141), Mar. 30, 2016, [130 Stat. 323](https://www.govinfo.gov/link/statute/130/323); [Pub. L. 114–190, title I, § 1102(b)](https://www.govinfo.gov/link/plaw/114/public/190), July 15, 2016, [130 Stat. 617](https://www.govinfo.gov/link/statute/130/617); [Pub. L. 115–63, title I, § 102(c)](https://www.govinfo.gov/link/plaw/115/public/63), Sept. 29, 2017, [131 Stat. 1169](https://www.govinfo.gov/link/statute/131/1169); [Pub. L. 115–141, div. M, title I, § 102(b)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1046](https://www.govinfo.gov/link/statute/132/1046); [Pub. L. 115–254, div. B, title I](https://www.govinfo.gov/link/plaw/115/public/254), §§ 117(a), 158, 184(a), Oct. 5, 2018, [132 Stat. 3201](https://www.govinfo.gov/link/statute/132/3201), 3219, 3234; [Pub. L. 118–15, div. B, title II, § 2202(f)](https://www.govinfo.gov/link/plaw/118/public/15), (g), Sept. 30, 2023, [137 Stat. 83](https://www.govinfo.gov/link/statute/137/83); [Pub. L. 118–34, title I, § 102(f)](https://www.govinfo.gov/link/plaw/118/public/34), (g), Dec. 26, 2023, [137 Stat. 1113](https://www.govinfo.gov/link/statute/137/1113); [Pub. L. 118–41, title I, § 102(f)](https://www.govinfo.gov/link/plaw/118/public/41), (g), Mar. 8, 2024, [138 Stat. 21](https://www.govinfo.gov/link/statute/138/21); [Pub. L. 118–63, title I, § 104(b)](https://www.govinfo.gov/link/plaw/118/public/63), title VII, §§ 710(b)(2), 714(a), 715, May 16, 2024, [138 Stat. 1034](https://www.govinfo.gov/link/statute/138/1034), 1253, 1257, 1258.)*

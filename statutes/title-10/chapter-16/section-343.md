@@ -3,9 +3,10 @@ title: "Section 343 - Western Hemisphere Institute for Security Cooperation"
 usc_title: 10
 usc_section: "343"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 343"
-generated_at: "2026-03-30T02:53:38.053Z"
+generated_at: "2026-11-23T21:25:32.255Z"
+status: "active"
 ---
 
 # § 343. Western Hemisphere Institute for Security Cooperation
@@ -62,3 +63,25 @@ generated_at: "2026-03-30T02:53:38.053Z"
   - **(2)** if no executive agent is designated under subsection (a)(2), any funds available for that fiscal year for the Department of Defense for operation and maintenance for Defense-wide activities.
 - **(h)** Tuition fees charged for persons who attend the Institute may not include the fixed costs of operating and maintaining the Institute.
 - **(i)** Not later than March 15 of each year, the Secretary of Defense shall submit to Congress a detailed report on the activities of the Institute during the preceding year. The report shall include a copy of the latest report of the Board of Visitors received by the Secretary under subsection (e)(5), together with any comments of the Secretary on the Board’s report. The report shall be prepared in consultation with the Secretary of State.
+
+Establishment and Administration
+
+Purpose
+
+Eligible Personnel
+
+Curriculum
+
+Board of Visitors
+
+Authority To Accept Foreign Gifts and Donations
+
+Fixed Costs
+
+Tuition
+
+Annual Report
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title IX, § 911(a)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–226, § 2166; amended [Pub. L. 107–107, div. A, title X, § 1048(a)(16)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1223](https://www.govinfo.gov/link/statute/115/1223); [Pub. L. 107–314, div. A, title IX, § 932](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2625](https://www.govinfo.gov/link/statute/116/2625); [Pub. L. 110–181, div. A, title IX, § 956](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 296](https://www.govinfo.gov/link/statute/122/296); renumbered § 343 and amended [Pub. L. 114–328, div. A, title XII, § 1241(f)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2507](https://www.govinfo.gov/link/statute/130/2507); [Pub. L. 116–283, div. A, title IX, § 924(b)(12)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3823](https://www.govinfo.gov/link/statute/134/3823); [Pub. L. 117–286, § 4(a)(45)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4310](https://www.govinfo.gov/link/statute/136/4310).)*

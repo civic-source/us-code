@@ -3,9 +3,10 @@ title: "Section 6809 - Definitions"
 usc_title: 15
 usc_section: "6809"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6809"
-generated_at: "2026-03-30T02:54:08.216Z"
+generated_at: "2026-11-23T21:25:40.035Z"
+status: "active"
 ---
 
 # § 6809. Definitions
@@ -50,3 +51,7 @@ As used in this subchapter:
   - **(9)** The term “consumer” means an individual who obtains, from a financial institution, financial products or services which are to be used primarily for personal, family, or household purposes, and also means the legal representative of such an individual.
   - **(10)** The term “joint agreement” means a formal written contract pursuant to which two or more financial institutions jointly offer, endorse, or sponsor a financial product or service, and as may be further defined in the regulations prescribed under section 6804 of this title .
   - **(11)** The term “time of establishing a customer relationship” shall be defined by the regulations prescribed under section 6804 of this title , and shall, in the case of a financial institution engaged in extending credit directly to consumers to finance purchases of goods or services, mean the time of establishing the credit relationship with the consumer.
+
+## Source Credit
+
+*([Pub. L. 106–102, title V, § 509](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1443](https://www.govinfo.gov/link/statute/113/1443).)*

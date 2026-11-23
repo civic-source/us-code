@@ -3,9 +3,10 @@ title: "Section 2303 - Prohibited personnel practices in the Federal Bureau of I
 usc_title: 5
 usc_section: "2303"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 2303"
-generated_at: "2026-03-30T02:52:55.998Z"
+generated_at: "2026-11-23T21:25:23.126Z"
+status: "active"
 ---
 
 # § 2303. Prohibited personnel practices in the Federal Bureau of Investigation
@@ -28,3 +29,19 @@ generated_at: "2026-03-30T02:52:55.998Z"
 - **(d)**
   - **(1)** An employee of the Federal Bureau of Investigation who makes an allegation of a reprisal under regulations promulgated under this section may appeal a final determination or corrective action order by the Bureau under those regulations to the Merit Systems Protection Board pursuant to section 1221.
   - **(2)** If no final determination or corrective action order has been made or issued for an allegation described in paragraph (1) before the expiration of the 180-day period beginning on the date on which the allegation is received by the Federal Bureau of Investigation, the employee described in that paragraph may seek corrective action directly from the Merit Systems Protection Board pursuant to section 1221.
+
+In general
+
+Actions by request
+
+Regulations
+
+Enforcement
+
+Definitions
+
+William J. Clinton.
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title I, § 101(a)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1117](https://www.govinfo.gov/link/statute/92/1117); amended [Pub. L. 101–12, § 9(a)(1)](https://www.govinfo.gov/link/plaw/101/public/12), Apr. 10, 1989, [103 Stat. 34](https://www.govinfo.gov/link/statute/103/34); [Pub. L. 114–302, § 2](https://www.govinfo.gov/link/plaw/114/public/302), Dec. 16, 2016, [130 Stat. 1516](https://www.govinfo.gov/link/statute/130/1516); [Pub. L. 117–263, div. E, title LIII, § 5304(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3250](https://www.govinfo.gov/link/statute/136/3250).)*

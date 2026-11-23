@@ -3,9 +3,10 @@ title: "Section 2232 - Deposits in the Fund"
 usc_title: 2
 usc_section: "2232"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 2232"
-generated_at: "2026-03-30T02:53:04.827Z"
+generated_at: "2026-11-23T21:25:21.291Z"
+status: "active"
 ---
 
 # § 2232. Deposits in the Fund
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.827Z"
   - **(1)** Any amounts deposited under section 2216(c) of this title .
   - **(2)** Any other receipts received from the operation of the Capitol Visitor Center.
   - **(3)** Any amounts described under section 2273(d) of this title .
+
+## Source Credit
+
+*([Pub. L. 110–437, title III, § 302](https://www.govinfo.gov/link/plaw/110/public/437), Oct. 20, 2008, [122 Stat. 4989](https://www.govinfo.gov/link/statute/122/4989).)*

@@ -3,9 +3,10 @@ title: "Section 2206 - Emergency forest restoration program"
 usc_title: 16
 usc_section: "2206"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2206"
-generated_at: "2026-03-30T02:54:23.001Z"
+generated_at: "2026-11-23T21:25:51.946Z"
+status: "active"
 ---
 
 # § 2206. Emergency forest restoration program
@@ -16,11 +17,18 @@ generated_at: "2026-03-30T02:54:23.001Z"
       - **(i)** would impair or endanger the natural resources on the land; and
       - **(ii)** would materially affect future use of the land; and
     - **(B)** would restore forest health and forest-related resources on the land.
-  - **(2)** The term “natural disaster” includes wildfires, hurricanes or excessive winds, drought, ice storms or blizzards, floods, or other resource-impacting events, as determined by the Secretary.
+  - **(2)** The term “natural disaster” includes wildfires (including a wildfire that is not caused naturally, if the damage is caused by the spread of the wildfire due to natural causes, and a wildfire that is caused by the Federal Government), hurricanes or excessive winds, drought, ice storms or blizzards, floods, or other resource-impacting events, as determined by the Secretary.
   - **(3)** The term “nonindustrial private forest land” means rural land, as determined by the Secretary, that—
     - **(A)** has existing tree cover (or had tree cover immediately before the natural disaster and is suitable for growing trees); and
     - **(B)** is owned by any nonindustrial private individual, group, association, corporation, or other private legal entity, that has definitive decision-making authority over the land.
 - **(b)** The Secretary may make payments to an owner of nonindustrial private forest land who carries out emergency measures to restore the land after the land is damaged by a natural disaster.
 - **(c)** To be eligible to receive a payment under subsection (b), an owner must demonstrate to the satisfaction of the Secretary that the nonindustrial private forest land on which the emergency measures are carried out had tree cover immediately before the natural disaster.
 - **(d)** Payments made under subsection (b) shall not exceed 75 percent of the total cost of the emergency measures carried out by an owner of nonindustrial private forest land.
-- **(e)** There are authorized to be appropriated to the Secretary such funds as may be necessary to carry out this section. Amounts so appropriated shall remain available until expended.
+- **(e)**
+  - **(1)** The Secretary shall give an owner of nonindustrial private forest land the option of receiving, before the owner carries out emergency measures under this section, not more than 75 percent of the cost of the emergency measures, as determined by the Secretary.
+  - **(2)** If the funds provided under paragraph (1) are not expended by the end of the 180-day period beginning on the date on which the owner of nonindustrial private forest land receives those funds, the funds shall be returned within a reasonable timeframe, as determined by the Secretary.
+- **(f)** There are authorized to be appropriated to the Secretary such funds as may be necessary to carry out this section. Amounts so appropriated shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 95–334, title IV, § 407](https://www.govinfo.gov/link/plaw/95/public/334), as added [Pub. L. 110–234, title VIII, § 8203(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1290](https://www.govinfo.gov/link/statute/122/1290), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VIII, § 8203(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2051; amended [Pub. L. 115–334, title II, § 2403(a)(2)(B)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4571](https://www.govinfo.gov/link/statute/132/4571); [Pub. L. 119–102, § 3](https://www.govinfo.gov/link/plaw/119/public/102), July 12, 2026, [140 Stat. 986](https://www.govinfo.gov/link/statute/140/986).)*

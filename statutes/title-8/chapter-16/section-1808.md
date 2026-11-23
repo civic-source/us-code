@@ -3,9 +3,10 @@ title: "Section 1808 - Annual asylum fee"
 usc_title: 8
 usc_section: "1808"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1808"
-generated_at: "2026-03-30T02:53:10.509Z"
+generated_at: "2026-11-23T21:25:25.219Z"
+status: "active"
 ---
 
 # § 1808. Annual asylum fee
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:10.509Z"
     - **(B)** the product resulting from the multiplication of the amount referred to in subparagraph (A) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded down to the nearest dollar.
 - **(c)** All of the fees collected pursuant to this section shall be deposited into the general fund of the Treasury.
 - **(d)** Fees required to be paid under this section shall not be waived or reduced.
+
+## Source Credit
+
+*([Pub. L. 119–21, title X, § 100009](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 371](https://www.govinfo.gov/link/statute/139/371).)*

@@ -3,9 +3,10 @@ title: "Section 9701 - Fees and charges for Government services and things of va
 usc_title: 31
 usc_section: "9701"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 9701"
-generated_at: "2026-03-30T02:55:34.077Z"
+generated_at: "2026-11-23T21:26:10.659Z"
+status: "active"
 ---
 
 # § 9701. Fees and charges for Government services and things of value
@@ -21,3 +22,20 @@ generated_at: "2026-03-30T02:55:34.077Z"
 - **(c)** This section does not affect a law of the United States—
   - **(1)** prohibiting the determination and collection of charges and the disposition of those charges; and
   - **(2)** prescribing bases for determining charges, but a charge may be redetermined under this section consistent with the prescribed bases.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 9701 | 31:483a. | Aug. 31, 1951, ch. 376, § 501 , 65 Stat. 290 . |
+
+
+Historical and Revision Notes
+
+9701
+
+Aug. 31, 1951, ch. 376, § 501
+
+65 Stat. 290
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1051](https://www.govinfo.gov/link/statute/96/1051).)*

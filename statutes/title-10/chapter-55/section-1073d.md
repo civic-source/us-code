@@ -3,9 +3,10 @@ title: "Section 1073d - Military medical treatment facilities"
 usc_title: 10
 usc_section: "1073d"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1073d"
-generated_at: "2026-03-30T02:53:38.099Z"
+generated_at: "2026-11-23T21:25:32.392Z"
+status: "active"
 ---
 
 # § 1073d. Military medical treatment facilities
@@ -90,3 +91,41 @@ generated_at: "2026-03-30T02:53:38.099Z"
     - **(A)** An endorsement from the Chairman of the Joint Chiefs of Staff that the proposed modification will have no effect on operational requirements of the armed forces.
     - **(B)** An endorsement from the Surgeon General of the military department concerned that the proposed modification will have no effect on the training or readiness of military medical personnel in the military department concerned.
     - **(C)** An assessment from the Director of the Defense Health Agency that explains how members of the armed forces and covered beneficiaries receiving services at the facility will continue to receive care.
+
+In General
+
+Medical Centers
+
+Hospitals
+
+Ambulatory Care Centers
+
+Maintenance of Inpatient Capabilities at Military Medical Treatment Facilities Located Outside the United States
+
+Notification Required to Modify Scope of Services Provided at Military Medical Treatment Facilities
+
+Designation
+
+Operational
+
+In General
+
+Location of Centers
+
+Policies for Referral of Beneficiaries
+
+Identification of Medical Personnel Billets and Staffing
+
+Briefing
+
+Military Medical Center Defined
+
+“In addition to the centers of excellence designated under section 1073d(b)(4) of title 10 , United States Code, as added by paragraph (1), the Secretary of Defense may establish satellite centers of excellence to provide specialty care for certain conditions, including with respect to—
+
+Exception
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title VII, § 703(a)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2197](https://www.govinfo.gov/link/statute/130/2197); amended [Pub. L. 115–91, div. A, title VII, § 711](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1436](https://www.govinfo.gov/link/statute/131/1436); [Pub. L. 117–263, div. A, title VII](https://www.govinfo.gov/link/plaw/117/public/263), §§ 712, 713(a), 714(a), 715, Dec. 23, 2022, [136 Stat. 2657](https://www.govinfo.gov/link/statute/136/2657), 2659, 2660; [Pub. L. 118–159, div. A, title XVII, § 1701(a)(19)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2204](https://www.govinfo.gov/link/statute/138/2204); [Pub. L. 119–60, div. A, title VII, § 714](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 922](https://www.govinfo.gov/link/statute/139/922).)*

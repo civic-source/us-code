@@ -3,9 +3,10 @@ title: "Section 6223 - Partners bound by actions of partnership"
 usc_title: 26
 usc_section: "6223"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6223"
-generated_at: "2026-03-30T02:55:27.846Z"
+generated_at: "2026-11-23T21:26:06.835Z"
+status: "active"
 ---
 
 # § 6223. Partners bound by actions of partnership
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:27.846Z"
 - **(b)** A partnership and all partners of such partnership shall be bound—
   - **(1)** by actions taken under this subchapter by the partnership, and
   - **(2)** by any final decision in a proceeding brought under this subchapter with respect to the partnership.
+
+## Source Credit
+
+*(Added [Pub. L. 114–74, title XI, § 1101(c)(1)](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 627](https://www.govinfo.gov/link/statute/129/627).)*

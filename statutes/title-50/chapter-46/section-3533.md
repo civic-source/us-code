@@ -3,9 +3,10 @@ title: "Section 3533 - Special Victim Investigator"
 usc_title: 50
 usc_section: "3533"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3533"
-generated_at: "2026-03-30T02:56:26.257Z"
+generated_at: "2026-11-23T21:26:39.062Z"
+status: "active"
 ---
 
 # § 3533. Special Victim Investigator
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:26.257Z"
   - **(2)** if the Special Victim Investigator determines that the completion of an investigation will take longer than 60 days—
     - **(A)** not later than 60 days after the date on which the report is referred to the Special Victim Investigator, submit to the Director a request for an extension that contains a summary of the progress of the investigation, the reasons why the completion of the investigation requires additional time, and a plan for the completion of the investigation; and
     - **(B)** provide to the person who made the report and the person against whom the allegation in the report was made notice of the extension of the investigation.
+
+## Source Credit
+
+*(June 20, 1949, ch. 227, § 32, as added [Pub. L. 118–31, div. G, title III, § 7339(d)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1060](https://www.govinfo.gov/link/statute/137/1060); amended [Pub. L. 118–159, div. F, title LXIII, § 6311](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2478](https://www.govinfo.gov/link/statute/138/2478).)*

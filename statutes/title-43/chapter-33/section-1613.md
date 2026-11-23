@@ -3,9 +3,10 @@ title: "Section 1613 - Conveyance of lands"
 usc_title: 43
 usc_section: "1613"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1613"
-generated_at: "2026-03-30T02:55:57.480Z"
+generated_at: "2026-11-23T21:26:19.855Z"
+status: "active"
 ---
 
 # § 1613. Conveyance of lands
@@ -96,3 +97,50 @@ generated_at: "2026-03-30T02:55:57.480Z"
     - **(A)** Notwithstanding the provisions of sub section 1621(h) of this title the Secretary, upon determining that specific lands are available for withdrawal and possible conveyance under this subsection, may withdraw such lands for selection by and conveyance to an appropriate applicant and such withdrawal shall remain until revoked by the Secretary.
     - **(B)** If a Regional Corporation does not have enough valid selections on file to fulfill the remaining entitlement of the Regional Corporation under paragraph (8), the Secretary may use the withdrawal authority under subparagraph (A) to withdraw land that is vacant, unappropriated, and unreserved on December 10, 2004 , for selection by, and conveyance to, the Regional Corporation to fulfill the entitlement.
   - **(11)** For purposes set forth in paragraphs (1), (2), (3), (5), and (6) of this subsection, the term Wildlife Refuges refers to Wildlife Refuges as the boundaries of those refuges exist on December 18, 1971 .
+
+| If the village had on the 1970 census enumeration date a Native population between— | It shall be entitled to a patent to an area of public lands equal to— |
+| --- | --- |
+| 25 and 99 | 69,120 acres. |
+| 100 and 199 | 92,160 acres. |
+| 200 and 399 | 115,200 acres. |
+| 400 and 599 | 138,240 acres. |
+| 600 or more | 161,280 acres. |
+
+
+25 and 99
+
+100 and 199
+
+200 and 399
+
+400 and 599
+
+600 or more
+
+Conveyance to municipal corporation or the state in trust.—
+
+In general
+
+Minimum acreage
+
+Net revenues.—
+
+In general
+
+Definition of sale
+
+Cases in which conveyance shall not be required.—
+
+In general
+
+Additional land
+
+Requirements
+
+(aa) the reversion of land to a Village Corporation pursuant to subclause (I) shall be subject to— (AA) valid existing rights created by the applicable trust; and (BB) any existing easements, rights-of-way necessary for public roadway access, or rights-of-way for access of holders of valid existing rights; and
+
+(bb) the Village Corporation shall assume the obligations of the applicable trust with respect to any lease or other use agreement applicable to the land on reversion of the land to the Village Corporation pursuant to subclause (I).
+
+## Source Credit
+
+*([Pub. L. 92–203, § 14](https://www.govinfo.gov/link/plaw/92/public/203), Dec. 18, 1971, [85 Stat. 702](https://www.govinfo.gov/link/statute/85/702); [Pub. L. 95–178, § 2](https://www.govinfo.gov/link/plaw/95/public/178), Nov. 15, 1977, [91 Stat. 1369](https://www.govinfo.gov/link/statute/91/1369); [Pub. L. 96–487, title XIV](https://www.govinfo.gov/link/plaw/96/public/487), §§ 1404, 1405, 1406(a)–(d), Dec. 2, 1980, [94 Stat. 2493](https://www.govinfo.gov/link/statute/94/2493), 2494; [Pub. L. 104–42, title I, § 104](https://www.govinfo.gov/link/plaw/104/public/42), Nov. 2, 1995, [109 Stat. 355](https://www.govinfo.gov/link/statute/109/355); [Pub. L. 108–452, title II](https://www.govinfo.gov/link/plaw/108/public/452), §§ 203–206, Dec. 10, 2004, [118 Stat. 3583–3585](https://www.govinfo.gov/link/statute/118/3583); [Pub. L. 119–23, § 2](https://www.govinfo.gov/link/plaw/119/public/23), July 7, 2025, [139 Stat. 403](https://www.govinfo.gov/link/statute/139/403).)*

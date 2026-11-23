@@ -3,9 +3,10 @@ title: "Section 5135 - Grants to entities for establishment of hazard mitigation
 usc_title: 42
 usc_section: "5135"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5135"
-generated_at: "2026-03-30T02:56:11.220Z"
+generated_at: "2026-11-23T21:26:32.739Z"
+status: "active"
 ---
 
 # § 5135. Grants to entities for establishment of hazard mitigation revolving loan funds
@@ -138,3 +139,7 @@ generated_at: "2026-03-30T02:56:11.220Z"
   - **(8)** The term “severe repetitive loss structure” has the meaning given the term in section 4104c(h) of this title .
   - **(9)** The term “wildland-urban interface” has the meaning given the term in section 6511 of title 16 .
 - **(n)** There are authorized to be appropriated $100,000,000 for each of fiscal years 2022 through 2023 to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 93–288, title II, § 205](https://www.govinfo.gov/link/plaw/93/public/288), as added [Pub. L. 116–284, § 2](https://www.govinfo.gov/link/plaw/116/public/284), Jan. 1, 2021, [134 Stat. 4869](https://www.govinfo.gov/link/statute/134/4869); amended [Pub. L. 117–328, div. F, title V, § 540](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 4756](https://www.govinfo.gov/link/statute/136/4756).)*

@@ -3,9 +3,10 @@ title: "Section 56503 - Types of adjustments and arrangements"
 usc_title: 46
 usc_section: "56503"
 chapter: 565
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 56503"
-generated_at: "2026-03-30T02:56:15.581Z"
+generated_at: "2026-11-23T21:26:37.319Z"
+status: "active"
 ---
 
 # § 56503. Types of adjustments and arrangements
@@ -21,3 +22,32 @@ generated_at: "2026-03-30T02:56:15.581Z"
   - **(5)** Provision for temporary or emergency employment of the vessel (instead of lay-up) as may be practicable, with such arrangements for management of the vessel, payment of expenses, and application of the proceeds of the employment, as the Secretary may approve, with any period of operation being included as part of the lay-up period.
   - **(6)** Payment to the Secretary, on termination of the arrangements with the applicant, of the applicant’s net profits (earned while the arrangements were in effect) in excess of 10 percent a year on the capital necessarily employed in the applicant’s business, as reimbursement for obligations postponed or canceled and expenses incurred or paid by the Secretary under this section.
 - **(c)** Under subsection (b)(6), capital of the applicant represented by a vessel of the applicant laid-up or operated under this section shall be included in capital necessarily employed in the applicant’s business. The Secretary may require a vessel laid-up or operated under this section to be security for reimbursement.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 56503 | 46 App.:1242a(c). | June 29, 1940, ch. 442 , subdiv. (c), 54 Stat. 685 ; Pub. L. 97–31, § 12(132) , Aug. 6, 1981 , 95 Stat. 165 . |
+
+
+Suspension Requirements
+
+Discretionary Adjustments and Arrangements
+
+Laid-Up Vessels
+
+Historical and Revision Notes
+
+56503
+
+June 29, 1940, ch. 442
+
+54 Stat. 685
+
+Pub. L. 97–31, § 12(132)
+
+Aug. 6, 1981
+
+95 Stat. 165
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1657](https://www.govinfo.gov/link/statute/120/1657).)*

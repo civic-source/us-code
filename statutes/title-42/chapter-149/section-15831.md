@@ -3,9 +3,10 @@ title: "Section 15831 - Public energy education program"
 usc_title: 42
 usc_section: "15831"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15831"
-generated_at: "2026-03-30T02:56:11.461Z"
+generated_at: "2026-11-23T21:26:33.676Z"
+status: "active"
 ---
 
 # § 15831. Public energy education program
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.461Z"
   - **(2)** Taking into consideration the purpose described in paragraph (1), the participants in the conference invited under subsection (b) shall design the scope and structure of the program described in subsection (a).
 - **(d)** The Secretary shall provide technical assistance and other guidance necessary to carry out the program described in subsection (a).
 - **(e)** There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 109–58, title I, § 133](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 622](https://www.govinfo.gov/link/statute/119/622).)*

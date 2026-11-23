@@ -3,9 +3,10 @@ title: "Section 227 - Restrictions on use of telephone equipment"
 usc_title: 47
 usc_section: "227"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 227"
-generated_at: "2026-03-30T02:56:24.498Z"
+generated_at: "2026-11-23T21:26:35.949Z"
+status: "active"
 ---
 
 # § 227. Restrictions on use of telephone equipment
@@ -213,3 +214,73 @@ generated_at: "2026-03-30T02:56:24.498Z"
     - **(B)** are provided with no additional line item charge to consumers and no additional charge to callers for resolving complaints related to erroneously blocked calls; and
     - **(C)** make all reasonable efforts to avoid blocking emergency public safety calls.
   - **(2)** In this subsection, the term “text message” has the meaning given such term in subsection (e)(8).
+
+Regulations
+
+Effective date
+
+“Nothing in this section [enacting section 227a of this title , amending this section, and enacting provisions set out as notes under this section], or the amendments made by this section, shall be construed to modify, limit, or otherwise affect any rule or order adopted by the Commission [Federal Communications Commission] in connection with—
+
+In General
+
+Considerations
+
+Initiation of Proceeding
+
+Matters To Be Considered
+
+Report to Congress
+
+Definitions
+
+One-ring scam
+
+State
+
+Voice service
+
+In General
+
+Contents of Report
+
+Additional Information
+
+Registration of Consortium of Private-Led Efforts To Trace Back the Origin of Suspected Unlawful Robocalls.—
+
+In general
+
+Annual notice by the commission seeking registrations
+
+List of Voice Service Providers
+
+Definitions
+
+Private-led effort to trace back
+
+Registered consortium
+
+Suspected unlawful robocall
+
+Voice service
+
+Establishment
+
+Membership
+
+Issuance of Best Practices
+
+Proceeding by FCC
+
+Definitions
+
+Group
+
+State
+
+Voice service
+
+“The Congress finds that:
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title II, § 227, as added [Pub. L. 102–243, § 3(a)](https://www.govinfo.gov/link/plaw/102/public/243), Dec. 20, 1991, [105 Stat. 2395](https://www.govinfo.gov/link/statute/105/2395); amended [Pub. L. 102–556, title IV, § 402](https://www.govinfo.gov/link/plaw/102/public/556), Oct. 28, 1992, [106 Stat. 4194](https://www.govinfo.gov/link/statute/106/4194); [Pub. L. 103–414, title III, § 303(a)(11)](https://www.govinfo.gov/link/plaw/103/public/414), (12), Oct. 25, 1994, [108 Stat. 4294](https://www.govinfo.gov/link/statute/108/4294); [Pub. L. 108–187, § 12](https://www.govinfo.gov/link/plaw/108/public/187), Dec. 16, 2003, [117 Stat. 2717](https://www.govinfo.gov/link/statute/117/2717); [Pub. L. 109–21](https://www.govinfo.gov/link/plaw/109/public/21), §§ 2(a)–(g), 3, July 9, 2005, [119 Stat. 359–362](https://www.govinfo.gov/link/statute/119/359); [Pub. L. 111–331, § 2](https://www.govinfo.gov/link/plaw/111/public/331), Dec. 22, 2010, [124 Stat. 3572](https://www.govinfo.gov/link/statute/124/3572); [Pub. L. 114–74, title III, § 301(a)](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 588](https://www.govinfo.gov/link/statute/129/588); [Pub. L. 115–141, div. P, title IV, § 402(i)(3)](https://www.govinfo.gov/link/plaw/115/public/141), title V, § 503(a)(1)–(4)(A), Mar. 23, 2018, [132 Stat. 1089](https://www.govinfo.gov/link/statute/132/1089), 1091, 1092; [Pub. L. 116–105](https://www.govinfo.gov/link/plaw/116/public/105), §§ 3(a), 8(a), 10(a), (b), Dec. 30, 2019, [133 Stat. 3274](https://www.govinfo.gov/link/statute/133/3274), 3283, 3284.)*

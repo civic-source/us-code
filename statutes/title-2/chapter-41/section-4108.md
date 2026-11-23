@@ -3,9 +3,10 @@ title: "Section 4108 - Semiannual statements of expenditures by Secretary of Sen
 usc_title: 2
 usc_section: "4108"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 4108"
-generated_at: "2026-03-30T02:53:04.827Z"
+generated_at: "2026-11-23T21:25:21.294Z"
+status: "active"
 ---
 
 # § 4108. Semiannual statements of expenditures by Secretary of Senate and Chief Administrative Officer of House
@@ -23,3 +24,17 @@ generated_at: "2026-03-30T02:53:04.827Z"
     - **(B)** Subparagraph (A) shall not apply to the reporting of expenditures relating to personnel compensation, travel and transportation of persons, other contractual services, and acquisition of assets.
     - **(C)** In carrying out this paragraph the Secretary of the Senate shall apply the Standard Federal Object Classification of Expenses as the Secretary determines appropriate.
   - **(6)** Beginning with the report covering the first full semiannual period of the 112th Congress, the Secretary of the Senate—
+
+(1) shall publicly post on-line on the website of the Senate each report in a searchable, itemized format as required under this section;
+
+(2) shall issue each report required under this section in electronic form; and
+
+(3) may issue each report required under this section in other forms at the discretion of the Secretary of the Senate.
+
+In general
+
+First report after enactment
+
+## Source Credit
+
+*([Pub. L. 88–454, § 105(a)](https://www.govinfo.gov/link/plaw/88/public/454), Aug. 20, 1964, [78 Stat. 550](https://www.govinfo.gov/link/statute/78/550); [Pub. L. 88–656](https://www.govinfo.gov/link/plaw/88/public/656), Oct. 13, 1964, [78 Stat. 1088](https://www.govinfo.gov/link/statute/78/1088); [Pub. L. 94–303, title I, § 118(b)(1)](https://www.govinfo.gov/link/plaw/94/public/303), June 1, 1976, [90 Stat. 615](https://www.govinfo.gov/link/statute/90/615); [Pub. L. 102–392, title I, § 6](https://www.govinfo.gov/link/plaw/102/public/392), Oct. 6, 1992, [106 Stat. 1707](https://www.govinfo.gov/link/statute/106/1707); [Pub. L. 103–283, title I, § 3(a)](https://www.govinfo.gov/link/plaw/103/public/283), July 22, 1994, [108 Stat. 1426](https://www.govinfo.gov/link/statute/108/1426); [Pub. L. 104–186, title II, § 204(54)](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1738](https://www.govinfo.gov/link/statute/110/1738); [Pub. L. 106–554, § 1(a)(2) [title I, § 1(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–95; [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 111–68, div. A, title I, § 2](https://www.govinfo.gov/link/plaw/111/public/68), Oct. 1, 2009, [123 Stat. 2026](https://www.govinfo.gov/link/statute/123/2026).)*

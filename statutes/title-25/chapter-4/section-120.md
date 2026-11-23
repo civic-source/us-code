@@ -3,12 +3,17 @@ title: "Section 120 - Per capita payments to enrolled members of Choctaw and Chi
 usc_title: 25
 usc_section: "120"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 120"
-generated_at: "2026-03-30T02:54:52.798Z"
+generated_at: "2026-11-23T21:25:54.537Z"
+status: "active"
 ---
 
 # § 120. Per capita payments to enrolled members of Choctaw and Chickasaw Tribes
 
 The Secretary of the Interior, under rules and regulations to be prescribed by him, is authorized to make per capita payments of not to exceed $200 annually to the enrolled members of the Choctaw and Chickasaw Tribes of Indians of Oklahoma, entitled under existing law to share in the funds of said tribes, or to their lawful heirs, of all the available money held by the Government of the United States for the benefit of said tribes in excess of that required for expenditures authorized by annual appropriations made therefrom or by existing law.
 
+
+## Source Credit
+
+*(Feb. 14, 1920, ch. 75, § 18, [41 Stat. 427](https://www.govinfo.gov/link/statute/41/427).)*

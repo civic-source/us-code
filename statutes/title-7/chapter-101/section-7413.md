@@ -3,9 +3,10 @@ title: "Section 7413 - Issuance of orders"
 usc_title: 7
 usc_section: "7413"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7413"
-generated_at: "2026-03-30T02:53:42.450Z"
+generated_at: "2026-11-23T21:25:28.425Z"
+status: "active"
 ---
 
 # § 7413. Issuance of orders
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:42.450Z"
   - **(4)** After notice and opportunity for public comment under paragraph (2) regarding a proposed order, the Secretary shall take into consideration the comments received in preparing a final order. The Secretary shall ensure that the final order is in conformity with the terms, conditions, and requirements of this subchapter.
 - **(c)** If the Secretary determines that the final order developed with respect to an agricultural commodity is consistent with and will effectuate the purpose of this subchapter, the Secretary shall issue the final order. Except in the case of an order for which an initial referendum is conducted under section 7417(a) of this title , the final order shall be issued and become effective not later than 270 days after the date of publication of the proposed order that was the basis for the final order.
 - **(d)** From time to time the Secretary may amend any order, consistent with the requirements of section 7422 of this title .
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 514](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1035](https://www.govinfo.gov/link/statute/110/1035).)*

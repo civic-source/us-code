@@ -3,9 +3,10 @@ title: "Section 578b - Disposition of projects"
 usc_title: 33
 usc_section: "578b"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 578b"
-generated_at: "2026-03-30T02:55:41.063Z"
+generated_at: "2026-11-23T21:26:11.318Z"
+status: "active"
 ---
 
 # § 578b. Disposition of projects
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:41.063Z"
   - **(1)** providing opportunities for public input; and
   - **(2)** publishing the final disposition studies.
 - **(c)** For disposition studies described in subsection (a) in which the Secretary determines that a Federal interest no longer exists, and makes a recommendation of removal of the project or separable element of a project, the Secretary is authorized, using existing authorities, to pursue removal of the project or separable element of a project in partnership with other Federal agencies and non-Federal entities with appropriate capabilities to undertake infrastructure removal.
+
+## Source Credit
+
+*([Pub. L. 115–270, title I, § 1168](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3798](https://www.govinfo.gov/link/statute/132/3798).)*

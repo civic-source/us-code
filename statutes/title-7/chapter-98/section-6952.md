@@ -3,9 +3,10 @@ title: "Section 6952 - Multiagency task force"
 usc_title: 7
 usc_section: "6952"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6952"
-generated_at: "2026-03-30T02:53:42.441Z"
+generated_at: "2026-11-23T21:25:28.407Z"
+status: "active"
 ---
 
 # § 6952. Multiagency task force
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:42.441Z"
 - **(d)** Not later than 1 year after February 7, 2014 , and annually thereafter, the Secretary shall submit to Congress a report that describes, for the period covered by the report—
   - **(1)** the findings and recommendations of the Task Force; and
   - **(2)** policies implemented for the improvement of commodity procurement programs.
+
+## Source Credit
+
+*([Pub. L. 103–354, title II, § 242](https://www.govinfo.gov/link/plaw/103/public/354), as added [Pub. L. 113–79, title IV, § 4205](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 823](https://www.govinfo.gov/link/statute/128/823); amended [Pub. L. 115–334, title XII, § 12405(b)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4975](https://www.govinfo.gov/link/statute/132/4975).)*

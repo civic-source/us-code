@@ -3,9 +3,10 @@ title: "Section 8303 - Abusive swaps"
 usc_title: 15
 usc_section: "8303"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8303"
-generated_at: "2026-03-30T02:54:08.228Z"
+generated_at: "2026-11-23T21:25:40.078Z"
+status: "active"
 ---
 
 # § 8303. Abusive swaps
@@ -18,3 +19,7 @@ The Commodity Futures Trading Commission or the Securities and Exchange Commissi
   - **(2)** issue a report with respect to any types of swaps or security-based swaps that the Commodity Futures Trading Commission or the Securities and Exchange Commission determines to be detrimental to—
     - **(A)** the stability of a financial market; or
     - **(B)** participants in a financial market.
+
+## Source Credit
+
+*([Pub. L. 111–203, title VII, § 714](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1647](https://www.govinfo.gov/link/statute/124/1647).)*

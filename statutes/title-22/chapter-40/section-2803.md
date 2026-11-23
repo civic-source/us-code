@@ -3,9 +3,10 @@ title: "Section 2803 - Federal participation"
 usc_title: 22
 usc_section: "2803"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2803"
-generated_at: "2026-03-30T02:55:05.389Z"
+generated_at: "2026-11-23T21:25:58.573Z"
+status: "active"
 ---
 
 # § 2803. Federal participation
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:05.389Z"
 - **(d)** For the purposes of this section—
   - **(1)** a Federal pavilion shall be considered to satisfy both needs described in subsection (b)(1)(B) of this section if the Federal pavilion which satisfies the needs described in paragraph (1)(B)(i) of such subsection can be modified after completion of the exposition to satisfy the needs described in paragraph (1)(B)(ii) of such subsection, provided that such modification shall cost no more than the expense of demolition, dismantling, or other disposal, or if the cost is higher, it shall be no more than 50 per centum of the original cost of the construction of the pavilion; and
   - **(2)** a Federal pavilion is temporary if the Federal pavilion is designed to satisfy the minimum needs of the Federal Government described in subsection (b)(1)(B)(i) of this section and is intended for disposal by the Federal Government after the termination of participation in the exposition.
+
+## Source Credit
+
+*([Pub. L. 91–269, § 3](https://www.govinfo.gov/link/plaw/91/public/269), May 27, 1970, [84 Stat. 272](https://www.govinfo.gov/link/statute/84/272); [Pub. L. 97–254, § 16(a)](https://www.govinfo.gov/link/plaw/97/public/254), Sept. 8, 1982, [96 Stat. 812](https://www.govinfo.gov/link/statute/96/812).)*

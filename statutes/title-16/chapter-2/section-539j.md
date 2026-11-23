@@ -3,9 +3,10 @@ title: "Section 539j - Bowen Gulch Protection Area"
 usc_title: 16
 usc_section: "539j"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 539j"
-generated_at: "2026-03-30T02:54:22.863Z"
+generated_at: "2026-11-23T21:25:51.657Z"
+status: "active"
 ---
 
 # § 539j. Bowen Gulch Protection Area
@@ -19,3 +20,17 @@ generated_at: "2026-03-30T02:54:22.863Z"
 - **(e)** No timber harvesting shall be allowed within the protection area except to the extent that would be permitted in wilderness under section 1133(d)(1) of this title for necessary control of fire, insects, and diseases, and for public safety.
 - **(f)** Motorized travel shall be permitted within the protection area only on those designated trails and routes existing as of July 1, 1991 , and only during periods of adequate snow cover. At all other times, mechanized, non-motorized travel shall be permitted within the protection area.
 - **(g)** During the revision of the Land and Resource Management Plan for the Arapaho National Forest, the Forest Service shall develop a management plan for the protection area, after providing for public comment.
+
+In General
+
+Bowen Gulch Protection Area
+
+Land and Water Conservation Fund
+
+Public Motorized Use
+
+Access to Non-Federal Lands
+
+## Source Credit
+
+*([Pub. L. 103–77, § 6](https://www.govinfo.gov/link/plaw/103/public/77), Aug. 13, 1993, [107 Stat. 761](https://www.govinfo.gov/link/statute/107/761).)*

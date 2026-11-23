@@ -3,9 +3,10 @@ title: "Section 4305 - Disclosure of joint venture"
 usc_title: 15
 usc_section: "4305"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4305"
-generated_at: "2026-03-30T02:54:08.199Z"
+generated_at: "2026-11-23T21:25:39.990Z"
+status: "active"
 ---
 
 # § 4305. Disclosure of joint venture
@@ -30,3 +31,15 @@ generated_at: "2026-03-30T02:54:08.199Z"
 - **(g)**
   - **(1)** Except as provided in paragraph (2), for the sole purpose of establishing that a person or standards development organization is entitled to the protections of section 4303 of this title , the fact of disclosure of conduct under subsection (a) and the fact of publication of a notice under subsection (b) shall be admissible into evidence in any judicial or administrative proceeding.
   - **(2)** No action by the Attorney General or the Commission taken pursuant to this section shall be admissible into evidence in any such proceeding for the purpose of supporting or answering any claim under the antitrust laws or under any State law similar to the antitrust laws.
+
+Purpose
+
+Annual Report by the Attorney General
+
+Triennial Report by the Attorney General
+
+Review of Antitrust Treatment Under Foreign Laws
+
+## Source Credit
+
+*([Pub. L. 98–462, § 6](https://www.govinfo.gov/link/plaw/98/public/462), Oct. 11, 1984, [98 Stat. 1818](https://www.govinfo.gov/link/statute/98/1818); [Pub. L. 103–42, § 3(f)](https://www.govinfo.gov/link/plaw/103/public/42), June 10, 1993, [107 Stat. 119](https://www.govinfo.gov/link/statute/107/119); [Pub. L. 108–237, title I, § 107](https://www.govinfo.gov/link/plaw/108/public/237), June 22, 2004, [118 Stat. 664](https://www.govinfo.gov/link/statute/118/664).)*

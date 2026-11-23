@@ -3,9 +3,10 @@ title: "Section 195e - Transparency in research and development"
 usc_title: 6
 usc_section: "195e"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 195e"
-generated_at: "2026-03-30T02:53:09.450Z"
+generated_at: "2026-11-23T21:25:25.762Z"
+status: "active"
 ---
 
 # § 195e. Transparency in research and development
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:53:09.450Z"
   - **(3)** The term “controlled unclassified information” means information described as “Controlled Unclassified Information” under Executive Order 13556 ( 50 U.S.C. 3501 note) 1 1 See References in Text note below. or any successor order.
   - **(4)** The term “project” means a research or development project, program, or activity administered by the Department, whether ongoing, completed, or otherwise terminated.
 - **(e)** Nothing in this section overrides or otherwise affects the requirements specified in section 468 of this title .
+
+## Source Credit
+
+*([Pub. L. 107–296, title III, § 319](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 114–328, div. A, title XIX, § 1906(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2676](https://www.govinfo.gov/link/statute/130/2676).)*

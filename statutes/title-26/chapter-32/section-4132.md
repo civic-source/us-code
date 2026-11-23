@@ -3,9 +3,10 @@ title: "Section 4132 - Definitions and special rules"
 usc_title: 26
 usc_section: "4132"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4132"
-generated_at: "2026-03-30T02:55:27.799Z"
+generated_at: "2026-11-23T21:26:06.602Z"
+status: "active"
 ---
 
 # § 4132. Definitions and special rules
@@ -45,3 +46,35 @@ generated_at: "2026-03-30T02:55:27.799Z"
   - **(2)** Section 4221(a)(2) shall not apply to any vaccine shipped to a possession of the United States.
   - **(3)** In the case of a fraction of a dose, the tax imposed by section 4131 shall be the same fraction of the amount of such tax imposed by a whole dose.
   - **(4)** The provisions of subsections (a)(3) and (b)(3) of section 7652 shall not apply to any tax imposed by section 4131.
+
+vaccine
+
+vaccine
+
+vaccine
+
+Polio vaccine
+
+Sales, etc
+
+Deliveries
+
+Sales, etc
+
+Deliveries
+
+Sales, etc
+
+Deliveries
+
+Sales, etc
+
+Deliveries
+
+Sales
+
+Deliveries
+
+## Source Credit
+
+*(Added [Pub. L. 100–203, title IX, § 9201(a)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–329](https://www.govinfo.gov/link/statute/101/1330); amended [Pub. L. 100–647, title II, § 2006(a)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3612](https://www.govinfo.gov/link/statute/102/3612); [Pub. L. 105–34, title IX, § 904(b)](https://www.govinfo.gov/link/plaw/105/public/34), (c), Aug. 5, 1997, [111 Stat. 873](https://www.govinfo.gov/link/statute/111/873), 874; [Pub. L. 105–277, div. C, title XV, § 1503(a)](https://www.govinfo.gov/link/plaw/105/public/277), div. J, title III, § 3002(a), Oct. 21, 1998, [112 Stat. 2681–741](https://www.govinfo.gov/link/statute/112/2681), 2681–905; [Pub. L. 106–170, title V, § 523(a)(1)](https://www.govinfo.gov/link/plaw/106/public/170), (b)(1), Dec. 17, 1999, [113 Stat. 1927](https://www.govinfo.gov/link/statute/113/1927); [Pub. L. 108–357, title VIII](https://www.govinfo.gov/link/plaw/108/public/357), §§ 889(a), 890(a), Oct. 22, 2004, [118 Stat. 1643](https://www.govinfo.gov/link/statute/118/1643), 1644; [Pub. L. 109–432, div. A, title IV, § 408(a)](https://www.govinfo.gov/link/plaw/109/public/432), (b), Dec. 20, 2006, [120 Stat. 2962](https://www.govinfo.gov/link/statute/120/2962); [Pub. L. 113–15, § 1(a)](https://www.govinfo.gov/link/plaw/113/public/15), June 25, 2013, [127 Stat. 476](https://www.govinfo.gov/link/statute/127/476).)*

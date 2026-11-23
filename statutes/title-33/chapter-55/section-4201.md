@@ -3,9 +3,10 @@ title: "Section 4201 - Definitions"
 usc_title: 33
 usc_section: "4201"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 4201"
-generated_at: "2026-03-30T02:55:41.147Z"
+generated_at: "2026-11-23T21:26:11.497Z"
+status: "active"
 ---
 
 # § 4201. Definitions
@@ -37,3 +38,7 @@ In this chapter:
     - **(D)** a territory or possession of the United States; or
     - **(E)** any political subdivision of an entity described in subparagraphs (A) through (D).
   - **(10)** The term “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere and Administrator of the National Oceanic and Atmospheric Administration.
+
+## Source Credit
+
+*([Pub. L. 116–224, § 2](https://www.govinfo.gov/link/plaw/116/public/224), Dec. 18, 2020, [134 Stat. 1073](https://www.govinfo.gov/link/statute/134/1073); [Pub. L. 119–65, § 5(b)](https://www.govinfo.gov/link/plaw/119/public/65), Dec. 26, 2025, [139 Stat. 1990](https://www.govinfo.gov/link/statute/139/1990).)*

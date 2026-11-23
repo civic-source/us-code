@@ -3,9 +3,10 @@ title: "Section 3241 - Requirements and restrictions"
 usc_title: 29
 usc_section: "3241"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 3241"
-generated_at: "2026-03-30T02:55:18.760Z"
+generated_at: "2026-11-23T21:26:02.349Z"
+status: "active"
 ---
 
 # § 3241. Requirements and restrictions
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:55:18.760Z"
     - **(C)** A State shall establish procedures for testing participants for the use of controlled substances that ensure a maximum degree of privacy for the participants.
   - **(3)** In testing and sanctioning of participants for the use of controlled substances in accordance with this subsection, the only Federal funds that a State may use are the amounts made available for the administration of statewide workforce investment activities under section 3174(a)(3)(B) of this title .
 - **(g)** A recipient of grant funds under this subchapter shall have the authority to enter into subgrants in order to carry out the grant, subject to such conditions as the Secretary may establish.
+
+## Source Credit
+
+*([Pub. L. 113–128, title I, § 181](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1586](https://www.govinfo.gov/link/statute/128/1586).)*

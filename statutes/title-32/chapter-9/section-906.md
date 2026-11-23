@@ -3,9 +3,10 @@ title: "Section 906 - Requests for funding assistance"
 usc_title: 32
 usc_section: "906"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "32 U.S.C. § 906"
-generated_at: "2026-03-30T02:55:31.867Z"
+generated_at: "2026-11-23T21:26:08.304Z"
+status: "active"
 ---
 
 # § 906. Requests for funding assistance
@@ -15,3 +16,7 @@ A Governor of a State may request funding assistance for the homeland defense ac
   - **(1)** The specific intended homeland defense activities of the National Guard of that State.
   - **(2)** An explanation of why participation of National Guard units or members, as the case may be, in the homeland defense activities is necessary and appropriate.
   - **(3)** A certification that homeland defense activities are to be conducted at a time when the personnel involved are not in Federal service.
+
+## Source Credit
+
+*(Added [Pub. L. 108–375, div. A, title V, § 512(a)(1)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1879](https://www.govinfo.gov/link/statute/118/1879).)*

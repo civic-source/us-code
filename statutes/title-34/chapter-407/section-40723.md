@@ -3,9 +3,10 @@ title: "Section 40723 - Sexual assault forensic exam program grants"
 usc_title: 34
 usc_section: "40723"
 chapter: 407
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 40723"
-generated_at: "2026-03-30T02:55:33.310Z"
+generated_at: "2026-11-23T21:26:09.837Z"
+status: "active"
 ---
 
 # § 40723. Sexual assault forensic exam program grants
@@ -92,3 +93,7 @@ generated_at: "2026-03-30T02:55:33.310Z"
     - **(I)** the availability of sexual assault advocates at locations providing MFEs and sexual assault forensic exams; and
     - **(J)** the total annual cost of conducting sexual assault forensic exams described in section 10449(b) of this title .
 - **(e)** There are authorized to be appropriated $30,000,000 for each of fiscal years 2023 through 2027 to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 108–405, title III, § 304](https://www.govinfo.gov/link/plaw/108/public/405), Oct. 30, 2004, [118 Stat. 2273](https://www.govinfo.gov/link/statute/118/2273); [Pub. L. 110–360, § 4](https://www.govinfo.gov/link/plaw/110/public/360), Oct. 8, 2008, [122 Stat. 4009](https://www.govinfo.gov/link/statute/122/4009); [Pub. L. 113–182, § 4](https://www.govinfo.gov/link/plaw/113/public/182), Sept. 29, 2014, [128 Stat. 1918](https://www.govinfo.gov/link/statute/128/1918); [Pub. L. 114–324, § 4](https://www.govinfo.gov/link/plaw/114/public/324), Dec. 16, 2016, [130 Stat. 1950](https://www.govinfo.gov/link/statute/130/1950); [Pub. L. 115–107, § 2](https://www.govinfo.gov/link/plaw/115/public/107), Jan. 8, 2018, [131 Stat. 2266](https://www.govinfo.gov/link/statute/131/2266); [Pub. L. 116–104, § 4](https://www.govinfo.gov/link/plaw/116/public/104), Dec. 30, 2019, [133 Stat. 3273](https://www.govinfo.gov/link/statute/133/3273); [Pub. L. 117–103, div. W, title XIII, § 1318(b)](https://www.govinfo.gov/link/plaw/117/public/103) –(e), Mar. 15, 2022, [136 Stat. 940–945](https://www.govinfo.gov/link/statute/136/940).)*

@@ -3,9 +3,10 @@ title: "Section 5115 - Major grants, contracts, or other transactions"
 usc_title: 14
 usc_section: "5115"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 5115"
-generated_at: "2026-03-30T02:53:51.506Z"
+generated_at: "2026-11-23T21:25:35.465Z"
+status: "active"
 ---
 
 # § 5115. Major grants, contracts, or other transactions
@@ -30,3 +31,19 @@ generated_at: "2026-03-30T02:53:51.506Z"
 - **(d)** In this section, the term “appropriate committees of Congress” means—
   - **(1)** the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate; and
   - **(2)** the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives.
+
+Notification.—
+
+In general
+
+Element
+
+Exception
+
+Applicability
+
+Appropriate Committees of Congress Defined
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. K, title CXII, § 11262(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4060](https://www.govinfo.gov/link/statute/136/4060).)*

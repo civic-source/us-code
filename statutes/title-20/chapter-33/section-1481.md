@@ -3,9 +3,10 @@ title: "Section 1481 - Comprehensive plan for parts B and C"
 usc_title: 20
 usc_section: "1481"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1481"
-generated_at: "2026-03-30T02:54:48.168Z"
+generated_at: "2026-11-23T21:25:47.350Z"
+status: "active"
 ---
 
 # § 1481. Comprehensive plan for parts B and C
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:54:48.168Z"
   - **(6)** projects that promote the development and use of technologies with universal design, assistive technology devices, and assistive technology services to maximize children with disabilities’ access to and participation in the general education curriculum; and
   - **(7)** any activity that is authorized in part B or C.
 - **(e)** No State or local educational agency, or other public institution or agency, may receive a grant or enter into a contract or cooperative agreement under part B or C that relates exclusively to programs, projects, and activities pertaining to children aged 3 through 5, inclusive, unless the State is eligible to receive a grant under section 1419(b) of this title .
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 681](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2795](https://www.govinfo.gov/link/statute/118/2795); amended [Pub. L. 114–95, title IX, § 9215(ss)(11)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2183](https://www.govinfo.gov/link/statute/129/2183).)*

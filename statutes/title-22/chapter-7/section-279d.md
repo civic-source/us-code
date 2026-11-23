@@ -3,12 +3,17 @@ title: "Section 279d - Limitation on power of Conference to impose new obligatio
 usc_title: 22
 usc_section: "279d"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 279d"
-generated_at: "2026-03-30T02:55:05.313Z"
+generated_at: "2026-11-23T21:25:58.351Z"
+status: "active"
 ---
 
 # § 279d. Limitation on power of Conference to impose new obligations on United States
 
 In adopting this subchapter the Congress does so with the understanding that paragraph 2 of article XIII does not authorize the Conference of the Organization to so modify the provisions of its Constitution as to involve any new obligation for the United States.
 
+
+## Source Credit
+
+*(July 31, 1945, ch. 342, § 5, [59 Stat. 530](https://www.govinfo.gov/link/statute/59/530).)*

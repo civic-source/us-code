@@ -3,9 +3,10 @@ title: "Section 9113 - Bilateral procedures, including memoranda of understandin
 usc_title: 22
 usc_section: "9113"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9113"
-generated_at: "2026-03-30T02:55:05.461Z"
+generated_at: "2026-11-23T21:25:58.763Z"
+status: "active"
 ---
 
 # § 9113. Bilateral procedures, including memoranda of understanding
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.461Z"
   - **(2)** the implementation of a protocol to effectuate the return of an abducted child identified in an abduction case not later than 6 weeks after the application with respect to the abduction case has been submitted to the judicial or administrative authority, as applicable, of the country in which the abducted child is located;
   - **(3)** the implementation of a protocol for the establishment and protection of the rights of interim contact during pendency of abduction cases; and
   - **(4)** the implementation of a protocol to establish periodic visits between a United States embassy or consular official and an abducted child, in order to allow the official to ascertain the child’s location and welfare.
+
+## Source Credit
+
+*([Pub. L. 113–150, title I, § 103](https://www.govinfo.gov/link/plaw/113/public/150), Aug. 8, 2014, [128 Stat. 1815](https://www.govinfo.gov/link/statute/128/1815).)*

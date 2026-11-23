@@ -3,9 +3,10 @@ title: "Section 12807 - Low-income housing conservation and efficiency grant pro
 usc_title: 42
 usc_section: "12807"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12807"
-generated_at: "2026-03-30T02:56:11.432Z"
+generated_at: "2026-11-23T21:26:33.556Z"
+status: "active"
 ---
 
 # § 12807. Low-income housing conservation and efficiency grant programs
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.432Z"
     - **(C)** not sufficiently sound to permit energy conservation improvements without other repair or rehabilitation measures to protect such energy investments;
   - **(2)** repairs that will significantly prolong the habitability of units identified under paragraph (1), including roofing, electrical, plumbing, furnace, and foundation repairs or replacement that will prolong the use of the unit as a safe and energy-efficient residence for low-income persons; and
   - **(3)** reasonable steps to ensure that any units so repaired will remain occupied by persons or families eligible for assistance under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 101–625, title II, § 257](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4122](https://www.govinfo.gov/link/statute/104/4122).)*

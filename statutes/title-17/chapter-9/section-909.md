@@ -3,9 +3,10 @@ title: "Section 909 - Mask work notice"
 usc_title: 17
 usc_section: "909"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 909"
-generated_at: "2026-03-30T02:54:15.355Z"
+generated_at: "2026-11-23T21:25:41.730Z"
+status: "active"
 ---
 
 # § 909. Mask work notice
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:15.355Z"
 - **(b)** The notice referred to in subsection (a) shall consist of—
   - **(1)** the words “mask work”, the symbol *M*, or the symbol Ⓜ (the letter M in a circle); and
   - **(2)** the name of the owner or owners of the mask work or an abbreviation by which the name is recognized or is generally known.
+
+## Source Credit
+
+*(Added [Pub. L. 98–620, title III, § 302](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3352](https://www.govinfo.gov/link/statute/98/3352); amended [Pub. L. 105–80, § 12(a)(22)](https://www.govinfo.gov/link/plaw/105/public/80), Nov. 13, 1997, [111 Stat. 1535](https://www.govinfo.gov/link/statute/111/1535).)*

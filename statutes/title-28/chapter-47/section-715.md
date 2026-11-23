@@ -3,9 +3,10 @@ title: "Section 715 - Staff attorneys and technical assistants"
 usc_title: 28
 usc_section: "715"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 715"
-generated_at: "2026-03-30T02:55:30.137Z"
+generated_at: "2026-11-23T21:26:01.075Z"
+status: "active"
 ---
 
 # § 715. Staff attorneys and technical assistants
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:30.137Z"
 - **(b)** The senior staff attorney, with the approval of the chief judge, may appoint necessary staff attorneys and secretarial and clerical employees in such numbers as the Director of the Administrative Office of the United States Courts may approve, but in no event may the number of staff attorneys exceed the number of positions expressly authorized in an annual appropriation Act. The senior staff attorney may remove such staff attorneys and secretarial and clerical employees with the approval of the chief judge.
 - **(c)** The chief judge of the Court of Appeals for the Federal Circuit, with the approval of the court, may appoint a senior technical assistant who shall be subject to removal by the chief judge with the approval of the court.
 - **(d)** The senior technical assistant, with the approval of the court, may appoint necessary technical assistants in such number as the Director of the Administrative Office of the United States Courts may approve, but in no event may the number of technical assistants in the Court of Appeals for the Federal Circuit exceed the number of circuit judges in regular active service within such circuit. The senior technical assistant may remove such technical assistants with the approval of the court.
+
+## Source Credit
+
+*(Added [Pub. L. 97–164, title I, § 120(c)(1)](https://www.govinfo.gov/link/plaw/97/public/164), Apr. 2, 1982, [96 Stat. 34](https://www.govinfo.gov/link/statute/96/34).)*

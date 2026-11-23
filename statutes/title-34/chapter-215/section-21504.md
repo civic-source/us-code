@@ -3,9 +3,10 @@ title: "Section 21504 - Notification by the United States Marshals Service"
 usc_title: 34
 usc_section: "21504"
 chapter: 215
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 21504"
-generated_at: "2026-03-30T02:55:33.304Z"
+generated_at: "2026-11-23T21:26:09.812Z"
+status: "active"
 ---
 
 # § 21504. Notification by the United States Marshals Service
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:55:33.304Z"
 - **(h)** In this section, the term “sex offender” means—
   - **(1)** a sex offender under SORNA; or
   - **(2)** a person required to register under the sex offender registration program of any jurisdiction or included in the National Sex Offender Registry.
+
+## Source Credit
+
+*([Pub. L. 114–119, § 5](https://www.govinfo.gov/link/plaw/114/public/119), Feb. 8, 2016, [130 Stat. 20](https://www.govinfo.gov/link/statute/130/20).)*

@@ -3,9 +3,10 @@ title: "Section 6323 - Validity and priority against certain persons"
 usc_title: 26
 usc_section: "6323"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6323"
-generated_at: "2026-03-30T02:55:27.848Z"
+generated_at: "2026-11-23T21:26:06.845Z"
+status: "active"
 ---
 
 # § 6323. Validity and priority against certain persons
@@ -122,3 +123,17 @@ generated_at: "2026-03-30T02:55:27.848Z"
     - **(C)** the withdrawal of such notice will facilitate the collection of the tax liability, or
     - **(D)** with the consent of the taxpayer or the National Taxpayer Advocate, the withdrawal of such notice would be in the best interests of the taxpayer (as determined by the National Taxpayer Advocate) and the United States.
   - **(2)** Upon written request by the taxpayer with respect to whom a notice of a lien was withdrawn under paragraph (1), the Secretary shall promptly make reasonable efforts to notify credit reporting agencies, and any financial institution or creditor whose name and address is specified in such request, of the withdrawal of such notice. Any such request shall be in such form as the Secretary may prescribe.
+
+“The amendments made by this section [amending this section and section 6502 of this title ] shall apply to—
+
+“The amendment made by subsection (c) [amending this section] shall take effect—
+
+General Rule
+
+Exceptions
+
+Liability for Withheld Taxes.—
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 779; [Pub. L. 88–272, title II, § 236(a)](https://www.govinfo.gov/link/plaw/88/public/272), (c)(1), Feb. 26, 1964, [78 Stat. 127](https://www.govinfo.gov/link/statute/78/127), 128; [Pub. L. 89–493, § 17(a)](https://www.govinfo.gov/link/plaw/89/public/493), July 5, 1966, [80 Stat. 266](https://www.govinfo.gov/link/statute/80/266); [Pub. L. 89–719, title I, § 101(a)](https://www.govinfo.gov/link/plaw/89/public/719), Nov. 2, 1966, [80 Stat. 1125](https://www.govinfo.gov/link/statute/80/1125); [Pub. L. 94–455, title XII, § 1202(h)(2)](https://www.govinfo.gov/link/plaw/94/public/455), title XIX, § 1906(b)(13)(A), title XX, § 2008(c), Oct. 4, 1976, [90 Stat. 1688](https://www.govinfo.gov/link/statute/90/1688), 1834, 1892; [Pub. L. 95–600, title VII, § 702(q)(1)](https://www.govinfo.gov/link/plaw/95/public/600), (2), Nov. 6, 1978, [92 Stat. 2937](https://www.govinfo.gov/link/statute/92/2937), 2938; [Pub. L. 99–514, title XV, § 1569(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2764](https://www.govinfo.gov/link/statute/100/2764); [Pub. L. 100–647, title I, § 1015(s)(1)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3573](https://www.govinfo.gov/link/statute/102/3573); [Pub. L. 101–508, title XI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 11317(b), 11704(a)(26), Nov. 5, 1990, [104 Stat. 1388–458](https://www.govinfo.gov/link/statute/104/1388), 1388–519; [Pub. L. 104–168, title V, § 501(a)](https://www.govinfo.gov/link/plaw/104/public/168), July 30, 1996, [110 Stat. 1460](https://www.govinfo.gov/link/statute/110/1460); [Pub. L. 105–206, title I, § 1102(d)(1)(A)](https://www.govinfo.gov/link/plaw/105/public/206), title III, § 3435(a), (b), July 22, 1998, [112 Stat. 704](https://www.govinfo.gov/link/statute/112/704), 760, 761; [Pub. L. 115–97, title I, § 11002(d)(1)(HH)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2060](https://www.govinfo.gov/link/statute/131/2060).)*

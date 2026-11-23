@@ -3,9 +3,10 @@ title: "Section 4565 - Duty to serve underserved markets and other requirements"
 usc_title: 12
 usc_section: "4565"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4565"
-generated_at: "2026-03-30T02:53:53.508Z"
+generated_at: "2026-11-23T21:25:37.189Z"
+status: "active"
 ---
 
 # § 4565. Duty to serve underserved markets and other requirements
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:53:53.508Z"
     - **(D)** the amount of investments and grants in projects which assist in meeting the needs of such underserved markets.
   - **(3)** In determining whether an enterprise has complied with the duty under subparagraph (A) of subsection (a)(1), the Director may consider loans secured by both real and personal property.
   - **(4)** In determining whether an enterprise has complied with the duty referred to in paragraph (1), the Director may not consider any affordable housing fund grant amounts used under section 4567 of this title for eligible activities under subsection (g) of such section.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1335](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3961](https://www.govinfo.gov/link/statute/106/3961); [Pub. L. 105–65, title V, § 517(c)](https://www.govinfo.gov/link/plaw/105/public/65), Oct. 27, 1997, [111 Stat. 1403](https://www.govinfo.gov/link/statute/111/1403); [Pub. L. 110–289, div. A, title I](https://www.govinfo.gov/link/plaw/110/public/289), §§ 1128(c)(1), 1129(a), July 30, 2008, [122 Stat. 2701](https://www.govinfo.gov/link/statute/122/2701), 2703.)*

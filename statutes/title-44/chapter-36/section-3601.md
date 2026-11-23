@@ -3,9 +3,10 @@ title: "Section 3601 - Definitions"
 usc_title: 44
 usc_section: "3601"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 3601"
-generated_at: "2026-03-30T02:55:56.298Z"
+generated_at: "2026-11-23T21:26:18.440Z"
+status: "active"
 ---
 
 # § 3601. Definitions
@@ -33,3 +34,61 @@ In this chapter, the definitions under section 3502 shall apply, and the term—
   - **(8)** “tribal government” means—
     - **(A)** the governing body of any Indian tribe, band, nation, or other organized group or community located in the continental United States (excluding the State of Alaska) that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians, and
     - **(B)** any Alaska Native regional or village corporation established pursuant to the Alaska Native Claims Settlement Act ( 43 U.S.C. 1601 et seq.).
+
+In general
+
+Immediate enactment
+
+Findings
+
+Definitions
+
+Administrator
+
+Covered agency
+
+New data center
+
+Minimum Requirements for New Data Centers.—
+
+In general
+
+Contents.—
+
+In general
+
+Consultation
+
+Incorporation of minimum requirements into current data centers
+
+Review of requirements
+
+Report on new data centers
+
+Use of technology
+
+Public website.—
+
+In general
+
+Processes and procedures
+
+Ensuring Cybersecurity Standards for Data Center Consolidation and Cloud Computing.—
+
+In general
+
+Rule of construction
+
+Waiver of Requirements
+
+Sunset
+
+Findings
+
+Purposes
+
+Barack Obama.
+
+## Source Credit
+
+*(Added [Pub. L. 107–347, title I, § 101(a)](https://www.govinfo.gov/link/plaw/107/public/347), Dec. 17, 2002, [116 Stat. 2901](https://www.govinfo.gov/link/statute/116/2901).)*

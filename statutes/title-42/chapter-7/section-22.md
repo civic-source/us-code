@@ -3,9 +3,10 @@ title: "Section 22 - Benefits and beneficiary protections"
 usc_title: 42
 usc_section: "22"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 22"
-generated_at: "2026-03-30T02:56:10.972Z"
+generated_at: "2026-11-23T21:26:31.526Z"
+status: "active"
 ---
 
 # § 1395w–22. Benefits and beneficiary protections
@@ -66,7 +67,7 @@ generated_at: "2026-03-30T02:56:10.972Z"
   - **(1)** A Medicare+Choice organization shall disclose, in clear, accurate, and standardized form to each enrollee with a Medicare+Choice plan offered by the organization under this part at the time of enrollment and at least annually thereafter, the following information regarding such plan:
     - **(A)** The plan’s service area.
     - **(B)** Benefits offered under the plan, including information described in section 1395w–21(d)(3)(A) of this title and exclusions from coverage and, if it is an MSA plan, a comparison of benefits under such a plan with benefits under other Medicare+Choice plans.
-    - **(C)** The number, mix, and distribution of plan providers, out-of-network coverage (if any) provided by the plan, and any point-of-service option (including the supplemental premium for such option).
+    - **(C)** The number, mix, and distribution of plan providers, out-of-network coverage (if any) provided by the plan, any point-of-service option (including the supplemental premium for such option), and, in the case of a specified MA plan (as defined in paragraph (3)(C)), for plan year 2028 and subsequent plan years, the information described in paragraph (3)(B).
     - **(D)** Out-of-area coverage provided by the plan.
     - **(E)** Coverage of emergency services, including—
       - **(i)** the appropriate use of emergency services, including use of the 911 telephone system or its local equivalent in emergency situations and an explanation of what constitutes an emergency situation;
@@ -84,14 +85,25 @@ generated_at: "2026-03-30T02:56:10.972Z"
     - **(B)** Information on procedures used by the organization to control utilization of services and expenditures.
     - **(C)** Information on the number of grievances, redeterminations, and appeals and on the disposition in the aggregate of such matters.
     - **(D)** An overall summary description as to the method of compensation of participating physicians.
+  - **(3)**
+    - **(A)** For plan year 2028 and subsequent plan years, each MA organization offering a specified MA plan (as defined in subparagraph (C)) shall, for each such plan offered by the organization—
+      - **(i)** maintain, on a publicly available internet website, an accurate provider directory that includes the information described in subparagraph (B);
+      - **(ii)** not less frequently than once every 90 days (or, in the case of a hospital or any other facility determined appropriate by the Secretary, at a lesser frequency specified by the Secretary but in no case less frequently than once every 12 months), verify the provider directory information of each provider listed in such directory and, if applicable, update such information;
+      - **(iii)** if the organization is unable to verify such information with respect to a provider, include in such directory an indication that the information of such provider may not be up to date; and
+      - **(iv)** remove a provider from such directory within 5 business days if the organization determines that the provider is no longer a provider participating in the network of such plan.
+    - **(B)** The information described in this subparagraph is information enrollees may need to access covered benefits from a provider with which such organization offering such plan has an agreement for furnishing items and services covered under such plan, such as name, specialty, contact information, primary office or facility addresses where items or services are furnished, whether the provider is accepting new patients, accommodations for people with disabilities, cultural and linguistic capabilities, and telehealth capabilities.
+    - **(C)** In this paragraph, the term “specified MA plan” means—
+      - **(i)** a network-based plan (as defined in subsection (d)(5)(C)); or
+      - **(ii)** a Medicare Advantage private fee-for-service plan (as defined in section 1395w–28(b)(2) of this title ) that meets the access standards under subsection (d)(4), in whole or in part, through entering into contracts or agreements as provided for under subparagraph (B) of such subsection.
 - **(d)**
   - **(1)** A Medicare+Choice organization offering a Medicare+Choice plan may select the providers from whom the benefits under the plan are provided so long as—
     - **(A)** the organization makes such benefits available and accessible to each individual electing the plan within the plan service area with reasonable promptness and in a manner which assures continuity in the provision of benefits;
     - **(B)** when medically necessary the organization makes such benefits available and accessible 24 hours a day and 7 days a week;
     - **(C)** the plan provides for reimbursement with respect to services which are covered under subparagraphs (A) and (B) and which are provided to such an individual other than through the organization, if—
       - **(i)** the services were not emergency services (as defined in paragraph (3)), but (I) the services were medically necessary and immediately required because of an unforeseen illness, injury, or condition, and (II) it was not reasonable given the circumstances to obtain the services through the organization,
-      - **(ii)** the services were renal dialysis services and were provided other than through the organization because the individual was temporarily out of the plan’s service area, or
-      - **(iii)** the services are maintenance care or post-stabilization care covered under the guidelines established under paragraph (2);
+      - **(ii)** the services were renal dialysis services and were provided other than through the organization because the individual was temporarily out of the plan’s service area,
+      - **(iii)** the services are maintenance care or post-stabilization care covered under the guidelines established under paragraph (2), or
+      - **(iv)** for plan year 2028 and subsequent plan years, in the case of a specified MA plan (as defined in subsection (c)(3)(C)), the services were furnished by a provider that was not participating in the network of such plan but was listed in the provider directory of such plan on the date on which the appointment was made, as described in paragraph (7)(A);
     - **(D)** the organization provides access to appropriate providers, including credentialed specialists, for medically necessary treatment and services; and
     - **(E)** coverage is provided for emergency services (as defined in paragraph (3)) without regard to prior authorization or the emergency care provider’s contractual relationship with the organization.
   - **(2)** A Medicare+Choice plan shall comply with such guidelines as the Secretary may prescribe relating to promoting efficient and timely coordination of appropriate maintenance and post-stabilization care of an enrollee after the enrollee has been determined to be stable under section 1395dd of this title .
@@ -116,6 +128,14 @@ generated_at: "2026-03-30T02:56:10.972Z"
         - **(III)** a reasonable cost reimbursement plan under section 1395mm of this title .
       - **(ii)** The term “network-based plan” shall not include an MA regional plan that, with respect to the area, meets access adequacy standards under this part substantially through the authority of section 422.112(a)(1)(ii) of title 42, Code of Federal Regulations, rather than through written contracts.
   - **(6)** For plan year 2011 and subsequent plan years, in the case of a Medicare Advantage private fee-for-service plan that is described in paragraph (1) or (2) of section 1395w–27(i) of this title , the plan shall meet the access standards under paragraph (4) only through entering into written contracts as provided for under subparagraph (B) of such paragraph and not, in whole or in part, through the establishment of payment rates meeting the requirements under subparagraph (A) of such paragraph.
+  - **(7)**
+    - **(A)** For plan year 2028 and subsequent plan years, if an enrollee in a specified MA plan (as defined in subsection (c)(3)(C)) is furnished an item or service by a provider that is not participating in the network of such plan but is listed in the provider directory of such plan (as required to be provided to an enrollee pursuant to subsection (c)(1)(C)) on the date on which the appointment is made, and if such item or service would otherwise be covered under such plan if furnished by a provider that is participating in the network of such plan, the MA organization offering such plan shall ensure that the enrollee is only responsible for the lesser of—
+      - **(i)** the amount of cost sharing that would apply if such provider had been participating in the network of such plan; or
+      - **(ii)** the amount of cost sharing that would otherwise apply (without regard to this subparagraph).
+    - **(B)** For plan year 2028 and subsequent plan years, each MA organization that offers a specified MA plan shall—
+      - **(i)** notify enrollees of their cost-sharing protections under this paragraph and make such notifications, to the extent practicable, by not later than the first day of an annual, coordinated election period under section 1395w–21(e)(3) of this title with respect to a year;
+      - **(ii)** include information regarding such cost-sharing protections in the provider directory of each specified MA plan offered by the MA organization.; and
+      - **(iii)** notify enrollees of their cost-sharing protections under this paragraph in the first explanation of benefits issued in a plan year.
 - **(e)**
   - **(1)** Each MA organization shall have an ongoing quality improvement program for the purpose of improving the quality of care provided to enrollees in each MA plan offered by such organization.
   - **(2)** As part of the quality improvement program under paragraph (1), each MA organization shall have a chronic care improvement program. Each chronic care improvement program shall have a method for monitoring and identifying enrollees with multiple or sufficiently severe chronic conditions that meet criteria established by the organization for participation under the program.
@@ -255,3 +275,19 @@ generated_at: "2026-03-30T02:56:10.972Z"
 - **(n)**
   - **(1)** In the case of an individual enrolled under an MA or MA–PD plan who is furnished an in-home health risk assessment on or after January 1, 2021 , such plan shall ensure that such assessment includes information on the safe disposal of prescription drugs that are controlled substances that meets the criteria established under paragraph (2). Such information shall include information on drug takeback programs that meet such requirements determined appropriate by the Secretary and information on in-home disposal.
   - **(2)** The Secretary shall, through rulemaking, establish criteria the Secretary determines appropriate with respect to information provided to an individual to ensure that such information sufficiently educates such individual on the safe disposal of prescription drugs that are controlled substances.
+
+Stakeholder meeting.—
+
+In general
+
+Participants
+
+Guidance to medicare advantage organizations
+
+Study
+
+Report
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1852, as added [Pub. L. 105–33, title IV, § 4001](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 286](https://www.govinfo.gov/link/statute/111/286); amended [Pub. L. 106–113, div. B, § 1000(a)(6) [title III, § 321(k)(6)(B), title V, §§ 518, 520(a)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–367, 1501A–384, 1501A–385; [Pub. L. 106–554, § 1(a)(6) [title V, § 521(b), title VI, §§ 611(b), 615, 616, 621(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–543, 2763A–560, 2763A–561, 2763A–564; [Pub. L. 108–173, title I, § 102(b)](https://www.govinfo.gov/link/plaw/108/public/173), title II, §§ 211(j), 221(d)(3), 222(a)(2), (3), (h), (l)(1), 233(a)(1), (2), (c), title VII, § 722(a), (b), title IX, §§ 900(e)(1)(F), 940(b)(2)(A), 948(b)(2), Dec. 8, 2003, [117 Stat. 2153](https://www.govinfo.gov/link/statute/117/2153), 2180, 2193, 2195, 2196, 2204, 2206, 2209, 2347, 2348, 2371, 2417, 2426; [Pub. L. 110–275, title I](https://www.govinfo.gov/link/plaw/110/public/275), §§ 125(b)(6), 162(a)(1)–(3)(A), 163(a), (b), 164(f)(1), 165(a), July 15, 2008, [122 Stat. 2519](https://www.govinfo.gov/link/statute/122/2519), 2569–2571, 2574, 2575; [Pub. L. 111–148, title III, § 3202(a)(1)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 454](https://www.govinfo.gov/link/statute/124/454); [Pub. L. 114–255, div. C, title XVII, § 17006(a)(2)(A)](https://www.govinfo.gov/link/plaw/114/public/255), (c)(1), Dec. 13, 2016, [130 Stat. 1334](https://www.govinfo.gov/link/statute/130/1334), 1335; [Pub. L. 115–123, div. E, title III](https://www.govinfo.gov/link/plaw/115/public/123), §§ 50322(a), 50323(a), Feb. 9, 2018, [132 Stat. 201](https://www.govinfo.gov/link/statute/132/201), 202; [Pub. L. 115–271, title VI, § 6103(a)](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 4005](https://www.govinfo.gov/link/statute/132/4005); [Pub. L. 116–127, div. F, § 6003(a)](https://www.govinfo.gov/link/plaw/116/public/127), Mar. 18, 2020, [134 Stat. 203](https://www.govinfo.gov/link/statute/134/203); [Pub. L. 116–136, div. A, title III, § 3713(c)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 423](https://www.govinfo.gov/link/statute/134/423); [Pub. L. 117–169, title I, § 11001(b)(1)(B)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1851](https://www.govinfo.gov/link/statute/136/1851); [Pub. L. 119–75, div. J, title II, § 6220(a)](https://www.govinfo.gov/link/plaw/119/public/75), (b)(1), Feb. 3, 2026, [140 Stat. 656](https://www.govinfo.gov/link/statute/140/656), 657.)*

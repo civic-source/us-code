@@ -3,9 +3,10 @@ title: "Section 910 - Congressional Record: subscriptions; sale of current, indi
 usc_title: 44
 usc_section: "910"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 910"
-generated_at: "2026-03-30T02:55:56.289Z"
+generated_at: "2026-11-23T21:26:18.384Z"
+status: "active"
 ---
 
 # § 910. Congressional Record: subscriptions; sale of current, individual numbers, and bound sets; postage rate
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:56.289Z"
   - **(2)** current, individual numbers, and bound sets of the Congressional Record.
 - **(b)** The price of a subscription to the daily Record and of current, individual numbers, and bound sets shall be determined by the Director of the Government Publishing Office based upon the cost of printing and distribution. Any such price shall be paid in advance. The money from any such sale shall be paid into the Treasury and accounted for in the Public Printer’s 1 1 So in original. Probably should be “Director of the Government Publishing Office’s”. annual report to Congress.
 - **(c)** The Congressional Record shall be entitled to be mailed at the same rates of postage at which any newspaper or other periodical publication, with a legitimate list of paid subscribers, is entitled to be mailed.
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1260](https://www.govinfo.gov/link/statute/82/1260); [Pub. L. 93–314, § 1(a)](https://www.govinfo.gov/link/plaw/93/public/314), June 8, 1974, [88 Stat. 239](https://www.govinfo.gov/link/statute/88/239); [Pub. L. 113–235, div. H, title I, § 1301(c)(1)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537).)*

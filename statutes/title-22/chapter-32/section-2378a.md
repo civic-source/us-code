@@ -3,9 +3,10 @@ title: "Section 2378a - Depleted uranium ammunition"
 usc_title: 22
 usc_section: "2378a"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2378a"
-generated_at: "2026-03-30T02:55:05.362Z"
+generated_at: "2026-11-23T21:25:58.481Z"
+status: "active"
 ---
 
 # § 2378a. Depleted uranium ammunition
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.362Z"
   - **(2)** a country that has been designated as a major non-NATO ally (as defined in section 2403(q) of this title ); or
   - **(3)** Taiwan.
 - **(b)** The prohibition contained in subsection (a) shall not apply with respect to the use of funds to facilitate the sale of antitank shells to a country if the President determines that to do so is in the national security interest of the United States.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 620J, formerly § 620G, as added [Pub. L. 104–164, title I, § 149](https://www.govinfo.gov/link/plaw/104/public/164), July 21, 1996, [110 Stat. 1436](https://www.govinfo.gov/link/statute/110/1436); renumbered § 620J, [Pub. L. 109–446, § 2(b)(1)](https://www.govinfo.gov/link/plaw/109/public/446), Dec. 21, 2006, [120 Stat. 3318](https://www.govinfo.gov/link/statute/120/3318).)*

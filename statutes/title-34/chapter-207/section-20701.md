@@ -3,9 +3,10 @@ title: "Section 20701 - Prevention of domestic trafficking in persons"
 usc_title: 34
 usc_section: "20701"
 chapter: 207
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20701"
-generated_at: "2026-03-30T02:55:33.298Z"
+generated_at: "2026-11-23T21:26:09.787Z"
+status: "active"
 ---
 
 # § 20701. Prevention of domestic trafficking in persons
@@ -40,3 +41,25 @@ generated_at: "2026-03-30T02:55:33.298Z"
 - **(c)** There are authorized to be appropriated—
   - **(1)** $1,500,000 for each of the fiscal years 2008 through 2011 to carry out the activities described in subsection (a)(1)(B)(i) and $1,500,000 for each of the fiscal years 2008 through 2011 to carry out the activities described in subsection (a)(1)(B)(ii); and
   - **(2)** $250,000 for each of the fiscal years 2014 through 2021 to carry out the activities described in subsection (a)(2).
+
+“Not later than 180 days after the date of enactment of this Act [ Dec. 21, 2018 ], the Attorney General shall issue guidance to all offices and components of the Department of Justice—
+
+“No Federal funds or resources may be used for the operation of, participation in, or partnership with any program that involves the provision of funding or resources to an organization that—
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 109–164, title II, § 201](https://www.govinfo.gov/link/plaw/109/public/164), Jan. 10, 2006, [119 Stat. 3567](https://www.govinfo.gov/link/statute/119/3567); [Pub. L. 110–457, title III, § 302(2)](https://www.govinfo.gov/link/plaw/110/public/457), Dec. 23, 2008, [122 Stat. 5087](https://www.govinfo.gov/link/statute/122/5087); [Pub. L. 113–4, title XII, § 1252(2)](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 156](https://www.govinfo.gov/link/statute/127/156); [Pub. L. 115–393, title III, § 301(b)](https://www.govinfo.gov/link/plaw/115/public/393), Dec. 21, 2018, [132 Stat. 5272](https://www.govinfo.gov/link/statute/132/5272).)*

@@ -3,9 +3,10 @@ title: "Section 1806 - Immigration and transition"
 usc_title: 48
 usc_section: "1806"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1806"
-generated_at: "2026-03-30T02:56:14.592Z"
+generated_at: "2026-11-23T21:26:38.026Z"
+status: "active"
 ---
 
 # § 1806. Immigration and transition
@@ -178,3 +179,129 @@ generated_at: "2026-03-30T02:56:14.592Z"
     - **(C)** a citizen of the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau (known collectively as the “Freely Associated States”) who has been lawfully admitted to the United States pursuant to—
       - **(i)** section 141 of the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia ( 48 U.S.C. 1921 note); 3 3 See References in Text note below. or
       - **(ii)** section 141 of the Compact of Free Association between the United States and the Government of Palau ( 48 U.S.C. 1931 note).
+
+Protection for united states workers.—
+
+Temporary labor certification.—
+
+In general
+
+Petition
+
+Prevailing wage survey.—
+
+In general
+
+Alternative method for determining the prevailing wage
+
+Minimum wage
+
+Permits.—
+
+In general
+
+Numerical cap
+
+Reports regarding the percentage of united states workers.—
+
+By governor
+
+By gao
+
+Petition; issuance of permits.—
+
+Submission
+
+Employment verification
+
+Revocation.—
+
+In general
+
+(aa) the employer fails to maintain the continuous employment of the subject worker, fails to pay the subject worker, fails to timely file a semiannual report required under this paragraph, commits any other violation of the terms and conditions of employment, or otherwise ceases to operate as a legitimate business (as defined in clause (iv)(II));
+
+(bb) the beneficiary of such petition does not apply for admission to the Commonwealth by the date that is 10 days after the period of petition validity begins, if the employer has requested consular processing; or
+
+(cc) the employer fails to provide a former, current, or prospective Commonwealth Only Transitional Worker, not later than 21 business days after receiving a written request from such worker, with the original (or a certified copy of the original) of all petitions, notices, and other written communication related to the worker (other than sensitive financial or proprietary information of the employer, which may be redacted) that has been exchanged between the employer and the Department of Labor, the Department of Homeland Security, or any other Federal agency or department.
+
+Reallocation of revoked petition
+
+Legitimate business.—
+
+In general
+
+Defined term
+
+(aa) produces services or goods for profit, or is a governmental, charitable, or other validly recognized nonprofit entity;
+
+(bb) meets applicable legal requirements for doing business in the Commonwealth;
+
+(cc) has substantially complied with wage and hour laws, occupational safety and health requirements, and all other Federal, Commonwealth, and local requirements related to employment during the preceding 5 years;
+
+(dd) does not directly or indirectly engage in, or knowingly benefit from, prostitution, human trafficking, or any other activity that is illegal under Federal, Commonwealth, or local law;
+
+(ee) is a participant in good standing in the E-Verify program;
+
+(ff) does not have, as an owner, investor, manager, operator, or person meaningfully involved with the undertaking, any individual who has been the owner, investor, manager, operator, or otherwise meaningfully involved with an undertaking that does not comply with item (cc) or (dd), or is the agent of such an individual; and
+
+(gg) is not a successor in interest to an undertaking that does not comply with item (cc) or (dd).
+
+Construction occupations
+
+Typhoon recovery.—
+
+Permits for construction workers
+
+Permit requirements
+
+Exception for construction workers
+
+Requirement to remain outside of the united states.—
+
+In general
+
+Long-term workers
+
+In general
+
+Authority of secretary of homeland security
+
+“The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [ Dec. 12, 2017 ] and shall apply as follows:
+
+In General
+
+Amendments to the Immigration and Nationality Act
+
+Construction
+
+Secretary of homeland security
+
+Secretary of labor
+
+Recommendations of the governor
+
+Authorization
+
+Exemption From Numerical Limitations
+
+Cancellation of Visas for Misuse
+
+Transferability
+
+Period of Applicability
+
+“The purposes of this Act [see Short Title of 2018 Amendment note set out under section 1801 of this title ] are—
+
+Immigration and Growth
+
+Avoiding Adverse Effects
+
+In general
+
+Contents
+
+Reports by the local government
+
+## Source Credit
+
+*([Pub. L. 94–241, § 6](https://www.govinfo.gov/link/plaw/94/public/241), as added [Pub. L. 110–229, title VII, § 702(a)](https://www.govinfo.gov/link/plaw/110/public/229), May 8, 2008, [122 Stat. 854](https://www.govinfo.gov/link/statute/122/854); amended [Pub. L. 113–235, § 10](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2134](https://www.govinfo.gov/link/statute/128/2134); [Pub. L. 115–53, § 2](https://www.govinfo.gov/link/plaw/115/public/53), Aug. 22, 2017, [131 Stat. 1091](https://www.govinfo.gov/link/statute/131/1091); [Pub. L. 115–91, div. A, title X, § 1049(a)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1558](https://www.govinfo.gov/link/statute/131/1558); [Pub. L. 115–218, § 3(a)](https://www.govinfo.gov/link/plaw/115/public/218), July 24, 2018, [132 Stat. 1547](https://www.govinfo.gov/link/statute/132/1547); [Pub. L. 115–232, div. A, title X, § 1045(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1959](https://www.govinfo.gov/link/statute/132/1959); [Pub. L. 116–24, § 2](https://www.govinfo.gov/link/plaw/116/public/24), June 25, 2019, [133 Stat. 977](https://www.govinfo.gov/link/statute/133/977); [Pub. L. 116–94, div. P, title IX, § 902](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3197](https://www.govinfo.gov/link/statute/133/3197); [Pub. L. 116–283, div. H, title XCV, § 9502](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4822](https://www.govinfo.gov/link/statute/134/4822); [Pub. L. 117–263, div. E, title LIX, § 5901](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3440](https://www.govinfo.gov/link/statute/136/3440); [Pub. L. 118–31, div. A, title XVIII, § 1807](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 688](https://www.govinfo.gov/link/statute/137/688).)*

@@ -3,9 +3,10 @@ title: "Section 7231f - Use of funds"
 usc_title: 20
 usc_section: "7231f"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7231f"
-generated_at: "2026-03-30T02:54:48.208Z"
+generated_at: "2026-11-23T21:25:47.564Z"
+status: "active"
 ---
 
 # § 7231f. Use of funds
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:48.208Z"
     - **(A)** such transportation is sustainable beyond the grant period; and
     - **(B)** the costs of providing transportation do not represent a significant portion of the grant funds received by the eligible local educational agency under this part.
 - **(b)** Grant funds under this part may be used for activities described in paragraphs (2) and (3) of subsection (a) only if the activities are directly related to improving student academic achievement based on the challenging State academic standards or directly related to improving student reading skills or knowledge of mathematics, science, history, geography, English, foreign languages, art, or music, or to improving career, technical, and professional skills.
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4407](https://www.govinfo.gov/link/plaw/89/public/10), formerly title V, § 5307, as added [Pub. L. 107–110, title V, § 501](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1809](https://www.govinfo.gov/link/statute/115/1809); renumbered title IV, § 4407, and amended [Pub. L. 114–95, title IV](https://www.govinfo.gov/link/plaw/114/public/95), §§ 4001(b)(3)(A), (B), (D)(i), 4401(4), Dec. 10, 2015, [129 Stat. 1967](https://www.govinfo.gov/link/statute/129/1967), 2015; [Pub. L. 116–260, div. H, title III, § 314(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 1610](https://www.govinfo.gov/link/statute/134/1610).)*

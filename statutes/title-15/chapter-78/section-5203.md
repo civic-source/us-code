@@ -3,12 +3,17 @@ title: "Section 5203 - Department of Energy"
 usc_title: 15
 usc_section: "5203"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 5203"
-generated_at: "2026-03-30T02:54:08.205Z"
+generated_at: "2026-11-23T21:25:40.009Z"
+status: "active"
 ---
 
 # § 5203. Department of Energy
 
 The Secretary of Energy shall conduct a program in superconductivity research and development. Within 180 days after November 19, 1988 , and for the two succeeding years thereafter, the Secretary shall submit annual reports on the implementation of technology transfer activities under the Stevenson-Wydler Technology Innovation Act of 1980 [ 15 U.S.C. 3701 et seq.] and related legislation with respect to superconductivity research and development to the Committee on Science, Space, and Technology of the House of Representatives and to the Committee on Energy and Natural Resources of the Senate. Such report shall include recommendations for improvements in the technology transfer between government and industry, and in the management of property developed or made at the National Laboratories.
 
+
+## Source Credit
+
+*([Pub. L. 100–697, § 4](https://www.govinfo.gov/link/plaw/100/public/697), Nov. 19, 1988, [102 Stat. 4615](https://www.govinfo.gov/link/statute/102/4615).)*

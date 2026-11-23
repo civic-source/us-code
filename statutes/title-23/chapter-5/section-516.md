@@ -3,9 +3,10 @@ title: "Section 516 - Research and development"
 usc_title: 23
 usc_section: "516"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 516"
-generated_at: "2026-03-30T02:55:12.574Z"
+generated_at: "2026-11-23T21:25:53.940Z"
+status: "active"
 ---
 
 # § 516. Research and development
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:55:12.574Z"
   - **(6)** enhance safety through improved crash avoidance and protection, crash and other notification, commercial motor vehicle operations, and infrastructure-based or cooperative safety systems, including animal detection systems to reduce the number of wildlife-vehicle collisions; or
   - **(7)** facilitate the integration of intelligent infrastructure, vehicle, and control technologies.
 - **(c)** The Federal share payable on account of any project or activity carried out under subsection (a) shall not exceed 80 percent.
+
+In General
+
+Priority Areas
+
+Federal Share
+
+## Source Credit
+
+*(Added [Pub. L. 112–141, div. E, title III, § 53004(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 902](https://www.govinfo.gov/link/statute/126/902); amended [Pub. L. 117–58, div. A, title III, § 13008(b)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 641](https://www.govinfo.gov/link/statute/135/641).)*

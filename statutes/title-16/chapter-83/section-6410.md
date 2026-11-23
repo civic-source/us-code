@@ -3,9 +3,10 @@ title: "Section 6410 - Ruth D. Gates Coral Reef Conservation Grant Program"
 usc_title: 16
 usc_section: "6410"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6410"
-generated_at: "2026-03-30T02:54:23.058Z"
+generated_at: "2026-11-23T21:25:52.039Z"
+status: "active"
 ---
 
 # § 6410. Ruth D. Gates Coral Reef Conservation Grant Program
@@ -71,3 +72,7 @@ generated_at: "2026-03-30T02:54:23.058Z"
     - **(B)** consistent with the coral reef action plan in effect under section 6404 of this title by such a partnership.
   - **(4)** Of the funds distributed to support projects in accordance with paragraph (3), not less than 20 percent and not more than 33 percent shall be awarded for projects submitted by a Federal coral reef stewardship partnership, to the extent there are viable applications made by eligible Federal coral reef stewardship partnerships.
 - **(h)** The Administrator may consult with the Secretary of the Interior and the Task Force to obtain guidance in establishing priorities and evaluating proposals for coral reef projects under this section.
+
+## Source Credit
+
+*([Pub. L. 106–562, title II, § 211](https://www.govinfo.gov/link/plaw/106/public/562), as added [Pub. L. 117–263, div. J, title C, § 10001(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3941](https://www.govinfo.gov/link/statute/136/3941).)*

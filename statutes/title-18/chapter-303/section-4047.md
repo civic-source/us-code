@@ -3,9 +3,10 @@ title: "Section 4047 - Prison impact assessments"
 usc_title: 18
 usc_section: "4047"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 4047"
-generated_at: "2026-03-30T02:54:16.527Z"
+generated_at: "2026-11-23T21:25:44.236Z"
+status: "active"
 ---
 
 # § 4047. Prison impact assessments
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:16.527Z"
   - **(3)** an analysis of any other significant factor affecting the cost of the measure and its impact on the operations of components of the criminal justice system; and
   - **(4)** a statement of the methodologies and assumptions utilized in preparing the assessment.
 - **(c)** The Attorney General shall prepare and transmit to the Congress, by March 1 of each year, a prison impact assessment reflecting the cumulative effect of all relevant changes in the law taking effect during the preceding calendar year.
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title II, § 20402(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1824](https://www.govinfo.gov/link/statute/108/1824).)*

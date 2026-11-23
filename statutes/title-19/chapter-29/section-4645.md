@@ -3,9 +3,10 @@ title: "Section 4645 - Recommendation for enforcement action"
 usc_title: 19
 usc_section: "4645"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4645"
-generated_at: "2026-03-30T02:54:24.714Z"
+generated_at: "2026-11-23T21:25:42.896Z"
+status: "active"
 ---
 
 # § 4645. Recommendation for enforcement action
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:24.714Z"
 - **(b)** Not later than 60 days after the date on which the Trade Representative receives a recommendation pursuant to subsection (a), the Trade Representative shall—
   - **(1)** determine whether to initiate an enforcement action; and
   - **(2)** if such determination is negative, submit to the appropriate congressional committees a report on the reasons for such negative determination.
+
+## Source Credit
+
+*([Pub. L. 116–113, title VII, § 715](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 83](https://www.govinfo.gov/link/statute/134/83).)*

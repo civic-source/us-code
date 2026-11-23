@@ -3,9 +3,10 @@ title: "Section 2601 - Findings"
 usc_title: 16
 usc_section: "2601"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2601"
-generated_at: "2026-03-30T02:54:23.003Z"
+generated_at: "2026-11-23T21:25:51.950Z"
+status: "active"
 ---
 
 # § 2601. Findings
@@ -18,3 +19,7 @@ The Congress finds that the protection of the public health, safety, and welfare
   - **(4)** a program for the conservation of natural gas while insuring that rates to natural gas consumers are equitable,
   - **(5)** a program to encourage the development of crude oil transportation systems, and
   - **(6)** the establishment of certain other authorities as provided in title VI of this Act.
+
+## Source Credit
+
+*([Pub. L. 95–617, § 2](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3119](https://www.govinfo.gov/link/statute/92/3119).)*

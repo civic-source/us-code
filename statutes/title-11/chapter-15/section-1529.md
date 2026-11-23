@@ -3,9 +3,10 @@ title: "Section 1529 - Coordination of a case under this title and a foreign pro
 usc_title: 11
 usc_section: "1529"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1529"
-generated_at: "2026-03-30T02:53:53.888Z"
+generated_at: "2026-11-23T21:25:34.979Z"
+status: "active"
 ---
 
 # § 1529. Coordination of a case under this title and a foreign proceeding
@@ -20,3 +21,7 @@ If a foreign proceeding and a case under another chapter of this title are pendi
     - **(B)** if such foreign proceeding is a foreign main proceeding, the stay and suspension referred to in section 1520(a) shall be modified or terminated if inconsistent with the relief granted in the case in the United States.
   - **(3)** In granting, extending, or modifying relief granted to a representative of a foreign nonmain proceeding, the court must be satisfied that the relief relates to assets that, under the laws of the United States, should be administered in the foreign nonmain proceeding or concerns information required in that proceeding.
   - **(4)** In achieving cooperation and coordination under sections 1528 and 1529, the court may grant any of the relief authorized under section 305.
+
+## Source Credit
+
+*(Added [Pub. L. 109–8, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 144](https://www.govinfo.gov/link/statute/119/144); amended [Pub. L. 111–327, § 2(a)(48)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3562](https://www.govinfo.gov/link/statute/124/3562).)*

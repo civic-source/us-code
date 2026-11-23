@@ -3,9 +3,10 @@ title: "Section 4122 - Preemption of State and local laws"
 usc_title: 12
 usc_section: "4122"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4122"
-generated_at: "2026-03-30T02:53:53.502Z"
+generated_at: "2026-11-23T21:25:37.167Z"
+status: "active"
 ---
 
 # § 4122. Preemption of State and local laws
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:53.502Z"
   - **(3)** is inconsistent with any provision of this subchapter, including any law, regulation, or other restriction that limits or impairs the ability of any owner of eligible low income housing to receive incentives authorized under this subchapter (including authorization to increase rental rates, transfer the housing, obtain secondary financing, or use the proceeds of any of such incentives); or
   - **(4)** in its applicability to low-income housing is limited only to eligible low-income housing for which the owner has prepaid the mortgage or terminated the insurance contract.
 - **(b)** This section shall not prevent the establishment, continuing in effect, or enforcement of any law or regulation of any State or political subdivision of a State not inconsistent with the provisions of this subchapter, such as any law or regulation relating to building standards, zoning limitations, health, safety, or habitability standards for housing, rent control, or conversion of rental housing to condominium or cooperative ownership, to the extent such law or regulation is of general applicability to both housing receiving Federal assistance and nonassisted housing. This section shall not preempt, annul, or alter any contractual restrictions or obligations existing before November 28, 1990 , that prevent or limit an owner of eligible low-income housing from prepaying the mortgage on the housing (or terminating the insurance contract on the housing).
+
+## Source Credit
+
+*([Pub. L. 100–242, title II, § 232](https://www.govinfo.gov/link/plaw/100/public/242), as added [Pub. L. 101–625, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4273](https://www.govinfo.gov/link/statute/104/4273); amended [Pub. L. 102–550, title III, § 311](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3765](https://www.govinfo.gov/link/statute/106/3765).)*

@@ -3,9 +3,10 @@ title: "Section 136a - Registration of pesticides"
 usc_title: 7
 usc_section: "136a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 136a"
-generated_at: "2026-03-30T02:53:42.256Z"
+generated_at: "2026-11-23T21:25:27.885Z"
+status: "active"
 ---
 
 # § 136a. Registration of pesticides
@@ -273,3 +274,57 @@ generated_at: "2026-03-30T02:53:42.256Z"
       - **(i)** measures taken to reduce the backlog of pending registration applications;
       - **(ii)** progress toward achieving reforms under this subsection; and
       - **(iii)** recommendations to improve the activities of the Agency pertaining to antimicrobial registrations.
+
+(aa) reflect the perspectives of each covered agency; and
+
+(bb) identify areas of new consensus and continuing topics of disagreement and debate.
+
+(aa) the recommendations developed under subparagraph (B); and
+
+(bb) plans for implementation of those recommendations.
+
+(aa) reflect the perspectives of each covered agency; and
+
+(bb) identify areas of consensus and continuing topics of disagreement and debate, if any.
+
+(aa) Acute Toxicity Category I For agricultural pesticides classified as Acute Toxicity Category I, the date that is 3 years after December 29, 2022 .
+
+(bb) Acute Toxicity Category II For agricultural pesticides classified as Acute Toxicity Category II, the date that is 5 years after December 29, 2022 .
+
+(aa) Acute Toxicity Category I For antimicrobial and non-agricultural pesticide products classified as Acute Toxicity Category I, the date that is 4 years after December 29, 2022 .
+
+(bb) Acute Toxicity Category II For antimicrobial and non-agricultural pesticide products classified as Acute Toxicity Category II, the date that is 6 years after December 29, 2022 .
+
+(aa) 1 year after the date of publication of the updated Spanish Label Translation Guide described in subparagraph (G); or
+
+(bb) the released for shipment date specified on the EPA Stamped Approved Label after the pesticide label is next changed or amended following the date of publication of the updated Spanish Label Translation Guide described in subparagraph (G); and
+
+(aa) 2 years after the date of publication of the updated Spanish Label Translation Guide described in subparagraph (G); or
+
+(bb) the released for shipment date specified on the EPA Stamped Approved Label after the pesticide label is next changed or amended following the date of publication of the updated Spanish Label Translation Guide described in subparagraph (G).
+
+(aa) expanded use of notification and non-notification procedures;
+
+(bb) revised procedures for application review; and
+
+(cc) allocation of appropriate resources to ensure streamlined management of antimicrobial pesticide registrations; and
+
+In General
+
+Interim Registration Review Decision Requirements.—
+
+Definition of covered interim registration review decision
+
+Requirements
+
+Consultation
+
+Education
+
+Study
+
+Report
+
+## Source Credit
+
+*(June 25, 1947, ch. 125, § 3, as added [Pub. L. 92–516, § 2](https://www.govinfo.gov/link/plaw/92/public/516), Oct. 21, 1972, [86 Stat. 979](https://www.govinfo.gov/link/statute/86/979); amended [Pub. L. 94–140, § 12](https://www.govinfo.gov/link/plaw/94/public/140), Nov. 28, 1975, [89 Stat. 755](https://www.govinfo.gov/link/statute/89/755); [Pub. L. 95–396](https://www.govinfo.gov/link/plaw/95/public/396), §§ 2(a), 3–8, Sept. 30, 1978, [92 Stat. 820](https://www.govinfo.gov/link/statute/92/820), 824–827; [Pub. L. 100–532, title I](https://www.govinfo.gov/link/plaw/100/public/532), §§ 102(b), 103, title VI, § 601(b)(1), title VIII, § 801(b), Oct. 25, 1988, [102 Stat. 2667](https://www.govinfo.gov/link/statute/102/2667), 2677, 2680; [Pub. L. 101–624, title XIV, § 1492](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3628](https://www.govinfo.gov/link/statute/104/3628); [Pub. L. 102–237, title X, § 1006(a)(3)](https://www.govinfo.gov/link/plaw/102/public/237), (b)(1), (2), (c), Dec. 13, 1991, [105 Stat. 1894–1896](https://www.govinfo.gov/link/statute/105/1894); [Pub. L. 104–170, title I](https://www.govinfo.gov/link/plaw/104/public/170), §§ 105(b), 106(b), title II, §§ 210(b), (c)(1), (d), (e), (f)(2), 222–224, 231, 250, Aug. 3, 1996, [110 Stat. 1491](https://www.govinfo.gov/link/statute/110/1491), 1494–1497, 1499, 1503, 1504, 1508, 1510; [Pub. L. 108–199, div. G, title V, § 501(b)](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 419](https://www.govinfo.gov/link/statute/118/419); [Pub. L. 110–94](https://www.govinfo.gov/link/plaw/110/public/94), §§ 2, 3, Oct. 9, 2007, [121 Stat. 1000](https://www.govinfo.gov/link/statute/121/1000); [Pub. L. 115–334, title X, § 10115](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4914](https://www.govinfo.gov/link/statute/132/4914); [Pub. L. 117–286, § 4(a)(21)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4307](https://www.govinfo.gov/link/statute/136/4307); [Pub. L. 117–328, div. HH, title VI, § 702](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5996](https://www.govinfo.gov/link/statute/136/5996).)*

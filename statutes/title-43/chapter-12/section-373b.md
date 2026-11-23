@@ -3,9 +3,10 @@ title: "Section 373b - Law enforcement authority at Bureau of Reclamation facili
 usc_title: 43
 usc_section: "373b"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 373b"
-generated_at: "2026-03-30T02:55:57.438Z"
+generated_at: "2026-11-23T21:26:19.756Z"
+status: "active"
 ---
 
 # § 373b. Law enforcement authority at Bureau of Reclamation facilities
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:57.438Z"
   - **(3)** For purposes of subchapter I of chapter 81 of title 5, relating to compensation to Federal employees for work injuries, a law enforcement officer of any State or local government, including an Indian tribe, shall, when acting as a law enforcement officer under subsection (c) and while under Federal supervision and control, and only when carrying out Federal law enforcement responsibilities, be deemed a civil service employee of the United States within the meaning of the term employee as defined in section 8101 of title 5 , and the provisions of that subchapter shall apply. Benefits under such subchapter shall be reduced by the amount of any entitlement to State or local workers compensation benefits arising out of the same injury or death.
 - **(f)** Nothing in this section shall be construed or applied to limit or restrict the investigative jurisdiction of any Federal law enforcement agency, or to affect any existing right of a State or local government, including an Indian tribe, to exercise civil and criminal jurisdiction within a Reclamation project or on Reclamation lands.
 - **(g)** Except for the authority provided in section 2(c)(1), 1 1 So in original. Probably should be “subsection (c)(1)”. the law enforcement authorities provided for in this section may be exercised only pursuant to regulations issued by the Secretary of the Interior and approved by the Attorney General.
+
+## Source Credit
+
+*([Pub. L. 107–69, § 1](https://www.govinfo.gov/link/plaw/107/public/69), Nov. 12, 2001, [115 Stat. 593](https://www.govinfo.gov/link/statute/115/593).)*

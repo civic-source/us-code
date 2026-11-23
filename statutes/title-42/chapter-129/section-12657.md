@@ -3,9 +3,10 @@ title: "Section 12657 - Training and technical assistance"
 usc_title: 42
 usc_section: "12657"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12657"
-generated_at: "2026-03-30T02:56:11.428Z"
+generated_at: "2026-11-23T21:26:33.535Z"
+status: "active"
 ---
 
 # § 12657. Training and technical assistance
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:11.428Z"
   - **(2)** seek to carry out high-quality programs where national service programs do not exist or where the programs are too limited to meet community needs;
   - **(3)** seek to carry out high-quality programs that focus on and provide service opportunities for underserved rural and urban areas and populations; and
   - **(4)** seek to assist programs in developing a service component that combines students, out-of-school youths, and older adults as participants to provide needed community services.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 199N](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 111–13, title I, § 1821](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1577](https://www.govinfo.gov/link/statute/123/1577).)*

@@ -3,9 +3,10 @@ title: "Section 103 - Applicability of chapters"
 usc_title: 11
 usc_section: "103"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 103"
-generated_at: "2026-03-30T02:53:53.871Z"
+generated_at: "2026-11-23T21:25:34.883Z"
+status: "active"
 ---
 
 # § 103. Applicability of chapters
@@ -24,3 +25,9 @@ generated_at: "2026-03-30T02:53:53.871Z"
 - **(l)** Chapter 15 applies only in a case under such chapter, except that—
   - **(1)** sections 1505, 1513, and 1514 apply in all cases under this title; and
   - **(2)** section 1509 applies whether or not a case under this title is pending.
+
+Scope of Application
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2555](https://www.govinfo.gov/link/statute/92/2555); [Pub. L. 97–222, § 2](https://www.govinfo.gov/link/plaw/97/public/222), July 27, 1982, [96 Stat. 235](https://www.govinfo.gov/link/statute/96/235); [Pub. L. 98–353, title III, § 423](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 369](https://www.govinfo.gov/link/statute/98/369); [Pub. L. 99–554, title II, § 252](https://www.govinfo.gov/link/plaw/99/public/554), Oct. 27, 1986, [100 Stat. 3104](https://www.govinfo.gov/link/statute/100/3104); [Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(5)(A)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–394; [Pub. L. 109–8, title VIII, § 802(a)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 145](https://www.govinfo.gov/link/statute/119/145); [Pub. L. 111–327, § 2(a)(2)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3557](https://www.govinfo.gov/link/statute/124/3557); [Pub. L. 116–54, § 4(a)(2)](https://www.govinfo.gov/link/plaw/116/public/54), Aug. 23, 2019, [133 Stat. 1085](https://www.govinfo.gov/link/statute/133/1085); [Pub. L. 116–136, div. A, title I, § 1113(a)(2)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 311](https://www.govinfo.gov/link/statute/134/311).)*

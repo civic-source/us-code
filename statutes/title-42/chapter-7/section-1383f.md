@@ -3,9 +3,10 @@ title: "Section 1383f - Annual report on program"
 usc_title: 42
 usc_section: "1383f"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1383f"
-generated_at: "2026-03-30T02:56:10.932Z"
+generated_at: "2026-11-23T21:26:31.355Z"
+status: "active"
 ---
 
 # § 1383f. Annual report on program
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:10.932Z"
   - **(11)** a historical summary of statutory changes to this subchapter; and
   - **(12)** such other information as the Commissioner deems useful.
 - **(b)** Each member of the Social Security Advisory Board shall be permitted to provide an individual report, or a joint report if agreed, of views of the program under this subchapter, to be included in the annual report required under this section.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVI, § 1637, as added [Pub. L. 104–193, title II, § 231](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2197](https://www.govinfo.gov/link/statute/110/2197).)*

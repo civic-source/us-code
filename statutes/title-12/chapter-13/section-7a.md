@@ -3,9 +3,10 @@ title: "Section 7a - State constitution or laws limiting mortgage interest, disc
 usc_title: 12
 usc_section: "7a"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 7a"
-generated_at: "2026-03-30T02:53:53.429Z"
+generated_at: "2026-11-23T21:25:36.919Z"
+status: "active"
 ---
 
 # § 1735f–7a. State constitution or laws limiting mortgage interest, discount points, and finance or other charges; exemption for obligations made after March 31, 1980
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:53:53.429Z"
   - **(4)** the term “residential manufactured home” means a manufactured home as defined in section 603(6) of the National Mobile Home Construction and Safety Standards Act of 1974 [ 42 U.S.C. 5402(6) ] which is used as a residence.
 - **(f)** The Federal Home Loan Bank Board is authorized to issue rules and regulations and to publish interpretations governing the implementation of this section.
 - **(g)** This section takes effect on April 1, 1980 .
+
+## Source Credit
+
+*([Pub. L. 96–221, title II, § 207(b)(11)](https://www.govinfo.gov/link/plaw/96/public/221), title V, § 501, Mar. 31, 1980, [94 Stat. 144](https://www.govinfo.gov/link/statute/94/144), 161; [Pub. L. 96–399, title III](https://www.govinfo.gov/link/plaw/96/public/399), §§ 308(c)(6), 324(a), (e), Oct. 8, 1980, [94 Stat. 1641](https://www.govinfo.gov/link/statute/94/1641), 1647, 1648; [Pub. L. 97–35, title III, § 384](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 432](https://www.govinfo.gov/link/statute/95/432).)*

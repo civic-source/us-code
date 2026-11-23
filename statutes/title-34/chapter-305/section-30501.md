@@ -3,9 +3,10 @@ title: "Section 30501 - Findings"
 usc_title: 34
 usc_section: "30501"
 chapter: 305
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 30501"
-generated_at: "2026-03-30T02:55:33.307Z"
+generated_at: "2026-11-23T21:26:09.825Z"
+status: "active"
 ---
 
 # § 30501. Findings
@@ -27,3 +28,25 @@ Congress makes the following findings:
   - **(8)** Both at the time when the 13th, 14th, and 15th amendments to the Constitution of the United States were adopted, and continuing to date, members of certain religious and national origin groups were and are perceived to be distinct “races”. Thus, in order to eliminate, to the extent possible, the badges, incidents, and relics of slavery, it is necessary to prohibit assaults on the basis of real or perceived religions or national origins, at least to the extent such religions or national origins were regarded as races at the time of the adoption of the 13th, 14th, and 15th amendments to the Constitution of the United States.
   - **(9)** Federal jurisdiction over certain violent crimes motivated by bias enables Federal, State, and local authorities to work together as partners in the investigation and prosecution of such crimes.
   - **(10)** The problem of crimes motivated by bias is sufficiently serious, widespread, and interstate in nature as to warrant Federal assistance to States, local jurisdictions, and Indian tribes.
+
+“Congress finds the following:
+
+In General
+
+Applicable Period Defined
+
+Guidance for Law Enforcement Agencies
+
+Guidance Relating to COVID–19 Pandemic
+
+Section
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*([Pub. L. 111–84, div. E, § 4702](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2835](https://www.govinfo.gov/link/statute/123/2835).)*

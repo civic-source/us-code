@@ -3,9 +3,10 @@ title: "Section 1681g - Disclosures to consumers"
 usc_title: 15
 usc_section: "1681g"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1681g"
-generated_at: "2026-03-30T02:54:08.150Z"
+generated_at: "2026-11-23T21:25:39.873Z"
+status: "active"
 ---
 
 # § 1681g. Disclosures to consumers
@@ -155,3 +156,13 @@ generated_at: "2026-03-30T02:54:08.150Z"
     - **(A)** In general Any provision in a contract that prohibits the disclosure of a credit score by a person who makes or arranges loans or a consumer reporting agency is void.
     - **(B)** No liability for disclosure under this subsection A lender shall not have liability under any contractual provision for disclosure of a credit score pursuant to this subsection.
 
+
+“notice to the home loan applicant
+
+Simplified disclosure
+
+Goals
+
+## Source Credit
+
+*([Pub. L. 90–321, title VI, § 609](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 91–508, title VI, § 601](https://www.govinfo.gov/link/plaw/91/public/508), Oct. 26, 1970, [84 Stat. 1131](https://www.govinfo.gov/link/statute/84/1131); amended [Pub. L. 103–325, title III, § 339](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2237](https://www.govinfo.gov/link/statute/108/2237); [Pub. L. 104–208, div. A, title II, § 2408(a)](https://www.govinfo.gov/link/plaw/104/public/208) –(d)(1), (e)(5)(A), Sept. 30, 1996, [110 Stat. 3009–436](https://www.govinfo.gov/link/statute/110/3009), 3009–437, 3009–439; [Pub. L. 105–347, § 4(a)](https://www.govinfo.gov/link/plaw/105/public/347), Nov. 2, 1998, [112 Stat. 3210](https://www.govinfo.gov/link/statute/112/3210); [Pub. L. 108–159, title I](https://www.govinfo.gov/link/plaw/108/public/159), §§ 115, 151(a)(1), title II, §§ 211(c), 212(a)–(c), title VIII, § 811(d), Dec. 4, 2003, [117 Stat. 1961](https://www.govinfo.gov/link/statute/117/1961), 1970, 1973–1975, 2011; [Pub. L. 111–203, title X, § 1088(a)(2)(C)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2087](https://www.govinfo.gov/link/statute/124/2087).)*

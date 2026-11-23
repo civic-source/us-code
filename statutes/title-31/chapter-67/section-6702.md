@@ -3,9 +3,10 @@ title: "Section 6702 - Local Government Fiscal Assistance Fund"
 usc_title: 31
 usc_section: "6702"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 6702"
-generated_at: "2026-03-30T02:55:34.073Z"
+generated_at: "2026-11-23T21:26:10.645Z"
+status: "active"
 ---
 
 # § 6702. Local Government Fiscal Assistance Fund
@@ -18,3 +19,13 @@ generated_at: "2026-03-30T02:55:34.073Z"
   - **(4)** $355,500,000 for fiscal year 1999; and
   - **(5)** $355,500,000 for fiscal year 2000.
 - **(c)** Up to 2.5 percent of the amount authorized to be appropriated under subsection (b) is authorized to be appropriated for the period fiscal year 1995 through fiscal year 2000 to be available for administrative costs by the Secretary in furtherance of the purposes of the program. Such sums are to remain available until expended.
+
+Administration of Fund
+
+Authorization of Appropriations
+
+Administrative Costs
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title III, § 31001(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1861](https://www.govinfo.gov/link/statute/108/1861).)*

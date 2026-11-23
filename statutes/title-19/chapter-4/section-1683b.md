@@ -3,9 +3,10 @@ title: "Section 1683b - Scope of softwood lumber importer declaration program"
 usc_title: 19
 usc_section: "1683b"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1683b"
-generated_at: "2026-03-30T02:54:24.659Z"
+generated_at: "2026-11-23T21:25:42.759Z"
+status: "active"
 ---
 
 # § 1683b. Scope of softwood lumber importer declaration program
@@ -63,3 +64,7 @@ generated_at: "2026-03-30T02:54:24.659Z"
       - **(iii)** A listing of all parts in the package or kit being entered into the United States that conforms to the home design, plan, or blueprint for which such parts are being imported.
       - **(iv)** If a single contract involves multiple entries, an identification of all the items required to be listed under clause (iii) that are included in each individual shipment.
 - **(d)** For purposes of determining if a product is covered by the importer declaration program, the President shall be guided by the article descriptions provided in this section.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VIII, § 804, as added [Pub. L. 110–246, title III, § 3301(a)](https://www.govinfo.gov/link/plaw/110/public/246), June 18, 2008, [122 Stat. 1848](https://www.govinfo.gov/link/statute/122/1848).)*

@@ -3,9 +3,10 @@ title: "Section 2052 - Definitions"
 usc_title: 15
 usc_section: "2052"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2052"
-generated_at: "2026-03-30T02:54:08.161Z"
+generated_at: "2026-11-23T21:25:39.900Z"
+status: "active"
 ---
 
 # § 2052. Definitions
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:54:08.161Z"
   - **(16)** The term “third-party logistics provider” means a person who solely receives, holds, or otherwise transports a consumer product in the ordinary course of business but who does not take title to the product.
   - **(17)** The term “United States”, when used in the geographic sense, means all of the States (as defined in paragraph (10)). 2 2 So in original. Probably should refer to paragraph (15).
 - **(b)** A common carrier, contract carrier, third-party logistics provider, or freight forwarder shall not, for purposes of this chapter, be deemed to be a manufacturer, distributor, or retailer of a consumer product solely by reason of receiving or transporting a consumer product in the ordinary course of its business as such a carrier or forwarder.
+
+## Source Credit
+
+*([Pub. L. 92–573, § 3](https://www.govinfo.gov/link/plaw/92/public/573), Oct. 27, 1972, [86 Stat. 1208](https://www.govinfo.gov/link/statute/86/1208); [Pub. L. 94–284, § 3(b)](https://www.govinfo.gov/link/plaw/94/public/284), (d), May 11, 1976, [90 Stat. 503](https://www.govinfo.gov/link/statute/90/503); [Pub. L. 97–35, title XII, § 1213](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 724](https://www.govinfo.gov/link/statute/95/724); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 110–314, title II, § 235(a)](https://www.govinfo.gov/link/plaw/110/public/314) –(c)(1), Aug. 14, 2008, [122 Stat. 3074](https://www.govinfo.gov/link/statute/122/3074).)*

@@ -3,9 +3,10 @@ title: "Section 3681 - Grants"
 usc_title: 25
 usc_section: "3681"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3681"
-generated_at: "2026-03-30T02:54:52.855Z"
+generated_at: "2026-11-23T21:25:54.696Z"
+status: "active"
 ---
 
 # § 3681. Grants
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:52.855Z"
 - **(b)** In carrying out this section, the Attorney General may consult with the Office of Tribal Justice and any other appropriate tribal or Federal officials.
 - **(c)** The Attorney General may promulgate such regulations and guidelines as may be necessary to carry out this subchapter.
 - **(d)** For purposes of carrying out the activities under this section, there are authorized to be appropriated such sums as are necessary for fiscal years 2011 through 2015.
+
+## Source Credit
+
+*([Pub. L. 106–559, title II, § 201](https://www.govinfo.gov/link/plaw/106/public/559), Dec. 21, 2000, [114 Stat. 2781](https://www.govinfo.gov/link/statute/114/2781); [Pub. L. 111–211, title II, § 242(b)(3)(B)](https://www.govinfo.gov/link/plaw/111/public/211), July 29, 2010, [124 Stat. 2292](https://www.govinfo.gov/link/statute/124/2292).)*

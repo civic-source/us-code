@@ -3,9 +3,10 @@ title: "Section 1395eee - Payments to, and coverage of benefits under, programs 
 usc_title: 42
 usc_section: "1395eee"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1395eee"
-generated_at: "2026-03-30T02:56:11.027Z"
+generated_at: "2026-11-23T21:26:31.746Z"
+status: "active"
 ---
 
 # § 1395eee. Payments to, and coverage of benefits under, programs of all-inclusive care for elderly (PACE)
@@ -161,3 +162,119 @@ generated_at: "2026-03-30T02:56:11.027Z"
     - **(A)** Except as provided under subparagraph (B), and paragraph (1), the terms and conditions for operation of a PACE program by a provider under this subsection shall be the same as those for PACE providers that are nonprofit, private organizations.
     - **(B)** The number of programs for which waivers are granted under this subsection shall not exceed 10. Programs with waivers granted under this subsection shall not be counted against the numerical limitation specified in subsection (e)(1)(B).
 - **(i)** Nothing in this section or section 1396u–4 of this title shall be construed as preventing a PACE provider from entering into contracts with other governmental or nongovernmental payers for the care of PACE program eligible individuals who are not eligible for benefits under part A, or enrolled under part B, or eligible for medical assistance under subchapter XIX of this title.
+
+Definitions
+
+program
+
+provider
+
+Rural area
+
+Rural pace pilot site
+
+Secretary
+
+Site Development Grants and Technical Assistance Program.—
+
+Site development grants.—
+
+In general
+
+Amount per award
+
+Number of awards
+
+Use of funds
+
+Appropriation.—
+
+In general
+
+Availability
+
+Technical assistance program
+
+Cost Outlier Protection for Rural PACE Pilot Sites.—
+
+Establishment of fund for reimbursement of outlier costs
+
+Eligible outlier participant
+
+Recognized outlier costs defined.—
+
+In general
+
+Inclusion in only one period
+
+Outlier expense payment.—
+
+Payment for outlier costs
+
+Limitations.—
+
+Costs incurred per eligible outlier participant
+
+Costs incurred per provider
+
+Limitation of outlier cost reimbursement period
+
+Requirement to access risk reserves prior to payment
+
+Application
+
+Appropriation.—
+
+In general
+
+Availability
+
+Evaluation of PACE Providers Serving Rural Service Areas
+
+Amounts in Addition to Payments Under Social Security Act
+
+“In applying sections 1894(f)(2)(B) and 1934(f)(2)(B) of the Social Security Act ( 42 U.S.C. 1395eee(f)(2)(B) , 1396u–4(f)(2)(B)), the Secretary of Health and Human Services—
+
+Timely Issuance of Regulations; Effective Date
+
+Expansion and Transition for PACE Demonstration Project Waivers.—
+
+Expansion in current number and extension of demonstration projects
+
+Elimination of replication requirement
+
+Timely consideration of applications
+
+Priority and Special Consideration in Application
+
+Provider status
+
+New waivers
+
+Special consideration
+
+Repeal of Current PACE Demonstration Project Waiver Authority.—
+
+In general
+
+Delay in application to current waivers.—
+
+In general
+
+State option to seek extension of current period
+
+Study.—
+
+In general
+
+Study of private, for-profit providers
+
+Report.—
+
+In general
+
+Treatment of private, for-profit providers
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1894, as added [Pub. L. 105–33, title IV, § 4801](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 528](https://www.govinfo.gov/link/statute/111/528); amended [Pub. L. 106–554, § 1(a)(6) [title IX, § 902(a)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–582; [Pub. L. 108–173, title II, § 236(a)(2)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2210](https://www.govinfo.gov/link/statute/117/2210); [Pub. L. 110–275, title I, § 161(c)](https://www.govinfo.gov/link/plaw/110/public/275), July 15, 2008, [122 Stat. 2569](https://www.govinfo.gov/link/statute/122/2569); [Pub. L. 111–148, title III, § 3201(i)(1)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 453](https://www.govinfo.gov/link/statute/124/453); [Pub. L. 111–152, title I, § 1102(a)](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1040](https://www.govinfo.gov/link/statute/124/1040).)*

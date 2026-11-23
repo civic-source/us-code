@@ -3,9 +3,10 @@ title: "Section 20711 - Establishing a national strategy to combat human traffic
 usc_title: 34
 usc_section: "20711"
 chapter: 207
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20711"
-generated_at: "2026-03-30T02:55:33.299Z"
+generated_at: "2026-11-23T21:26:09.793Z"
+status: "active"
 ---
 
 # § 20711. Establishing a national strategy to combat human trafficking
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:33.299Z"
     - **(C)** address evidentiary issues and other legal issues; and
     - **(D)** appropriately assess, respond to, and interact with victims and witnesses in human trafficking cases, including in administrative, civil, and criminal judicial proceedings; and
   - **(3)** carrying out such other duties as the Attorney General determines necessary in connection with enhancing the understanding, prevention, and detection of, and response to, human trafficking.
+
+## Source Credit
+
+*([Pub. L. 109–164, title II, § 211](https://www.govinfo.gov/link/plaw/109/public/164), formerly [Pub. L. 114–22, title VI, § 606](https://www.govinfo.gov/link/plaw/114/public/22), May 29, 2015, [129 Stat. 260](https://www.govinfo.gov/link/statute/129/260); [Pub. L. 115–392](https://www.govinfo.gov/link/plaw/115/public/392), §§ 9, 15, Dec. 21, 2018, [132 Stat. 5254](https://www.govinfo.gov/link/statute/132/5254), 5256; renumbered [§ 211 of Pub. L. 109–164](https://www.govinfo.gov/link/plaw/109/public/164), [Pub. L. 117–347, title I, § 106(b)(1)](https://www.govinfo.gov/link/plaw/117/public/347), Jan. 5, 2023, [136 Stat. 6204](https://www.govinfo.gov/link/statute/136/6204).)*

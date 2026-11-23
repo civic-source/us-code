@@ -3,9 +3,10 @@ title: "Section 5165 - Mitigation planning"
 usc_title: 42
 usc_section: "5165"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5165"
-generated_at: "2026-03-30T02:56:11.223Z"
+generated_at: "2026-11-23T21:26:32.751Z"
+status: "active"
 ---
 
 # § 5165. Mitigation planning
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:11.223Z"
     - **(B)** requirements for cost effectiveness that are related to the eligibility criteria;
     - **(C)** a system of priorities that is related to the eligibility criteria; and
     - **(D)** a process by which an assessment of the effectiveness of a mitigation action may be carried out after the mitigation action is complete.
+
+## Source Credit
+
+*([Pub. L. 93–288, title III, § 322](https://www.govinfo.gov/link/plaw/93/public/288), as added [Pub. L. 106–390, title I, § 104(a)](https://www.govinfo.gov/link/plaw/106/public/390), Oct. 30, 2000, [114 Stat. 1558](https://www.govinfo.gov/link/statute/114/1558); amended [Pub. L. 115–254, div. D, § 1204(b)(2)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3439](https://www.govinfo.gov/link/statute/132/3439).)*

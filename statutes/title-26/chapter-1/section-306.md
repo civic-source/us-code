@@ -3,9 +3,10 @@ title: "Section 306 - Dispositions of certain stock"
 usc_title: 26
 usc_section: "306"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 306"
-generated_at: "2026-03-30T02:55:27.664Z"
+generated_at: "2026-11-23T21:26:06.134Z"
+status: "active"
 ---
 
 # § 306. Dispositions of certain stock
@@ -56,3 +57,9 @@ generated_at: "2026-03-30T02:55:27.664Z"
   - **(1)** the fair market value of such stock shall be the fair market value at the time of the distribution or at the time of such change, whichever such value is higher;
   - **(2)** such stock’s ratable share of the amount which would have been a dividend if money had been distributed in lieu of stock shall be determined as of the time of distribution or as of the time of such change, whichever such ratable share is higher; and
   - **(3)** subsection (c)(2) shall not apply unless the stock meets the requirements of such subsection both at the time of such distribution and at the time of such change.
+
+Treatment as dividend
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 90; [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(b)(3)(J), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1793](https://www.govinfo.gov/link/statute/90/1793), 1834; [Pub. L. 95–600, title VII, § 702(a)(1)](https://www.govinfo.gov/link/plaw/95/public/600), (2), Nov. 6, 1978, [92 Stat. 2925](https://www.govinfo.gov/link/statute/92/2925); [Pub. L. 96–223, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/96/public/223), Apr. 2, 1980, [94 Stat. 299](https://www.govinfo.gov/link/statute/94/299); [Pub. L. 97–248, title II](https://www.govinfo.gov/link/plaw/97/public/248), §§ 222(e)(1)(A), (2), 226(b), 227(a), Sept. 3, 1982, [96 Stat. 480](https://www.govinfo.gov/link/statute/96/480), 492; [Pub. L. 98–369, div. A, title VII, § 712(i)(2)](https://www.govinfo.gov/link/plaw/98/public/369), (l)(5)(B), (6), July 18, 1984, [98 Stat. 948](https://www.govinfo.gov/link/statute/98/948), 954; [Pub. L. 101–508, title XI, § 11801(a)(18)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–521](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 108–27, title III, § 302(e)(3)](https://www.govinfo.gov/link/plaw/108/public/27), May 28, 2003, [117 Stat. 763](https://www.govinfo.gov/link/statute/117/763).)*

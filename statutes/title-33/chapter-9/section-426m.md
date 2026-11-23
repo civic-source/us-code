@@ -3,9 +3,10 @@ title: "Section 426m - Collection and removal of drift and debris from publicly 
 usc_title: 33
 usc_section: "426m"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 426m"
-generated_at: "2026-03-30T02:55:41.056Z"
+generated_at: "2026-11-23T21:26:11.302Z"
+status: "active"
 ---
 
 # § 426m. Collection and removal of drift and debris from publicly maintained commercial boat harbors and adjacent land and water areas
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:41.056Z"
   - **(1)** the term “drift” includes any buoyant material that, when floating in the navigable waters of the United States, may cause damage to a commercial or recreational vessel; and
   - **(2)** the term “debris” includes any abandoned or dilapidated structure or any sunken vessel or other object that can reasonably be expected to collapse or otherwise enter the navigable waters of the United States as drift within a reasonable period.
 - **(f)** There is authorized to be appropriated to carry out this section such sums as may be necessary for fiscal years beginning after September 30, 1986 .
+
+## Source Credit
+
+*([Pub. L. 94–587, § 202](https://www.govinfo.gov/link/plaw/94/public/587), Oct. 22, 1976, [90 Stat. 2945](https://www.govinfo.gov/link/statute/90/2945); [Pub. L. 99–662, title XI, § 1129(a)](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4246](https://www.govinfo.gov/link/statute/100/4246).)*

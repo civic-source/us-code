@@ -3,9 +3,10 @@ title: "Section 12594 - Living allowances for national service participants"
 usc_title: 42
 usc_section: "12594"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12594"
-generated_at: "2026-03-30T02:56:11.419Z"
+generated_at: "2026-11-23T21:26:33.497Z"
+status: "active"
 ---
 
 # § 12594. Living allowances for national service participants
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.419Z"
     - **(B)** provide a child care allowance to each full-time participant in a national service program who needs such assistance in order to participate in the program.
   - **(2)** The Corporation shall establish guidelines regarding the circumstances under which child care shall be made available under this subsection and the value of any allowance to be provided.
 - **(f)** A State or other recipient of assistance under section 12571 of this title shall provide reasonable accommodation, including auxiliary aids and services (as defined in section 12102(1) 1 of this title), based on the individualized need of a participant who is a qualified individual with a disability (as defined in section 12111(8) of this title ).
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 140](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 103–82, title I, § 101(b)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 811](https://www.govinfo.gov/link/statute/107/811); amended [Pub. L. 111–13, title I, § 1315](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1511](https://www.govinfo.gov/link/statute/123/1511).)*

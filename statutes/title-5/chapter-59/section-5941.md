@@ -3,9 +3,10 @@ title: "Section 5941 - Allowances based on living costs and conditions of enviro
 usc_title: 5
 usc_section: "5941"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5941"
-generated_at: "2026-03-30T02:52:56.028Z"
+generated_at: "2026-11-23T21:25:23.305Z"
+status: "active"
 ---
 
 # § 5941. Allowances based on living costs and conditions of environment; employees stationed outside continental United States or in Alaska
@@ -29,3 +30,109 @@ generated_at: "2026-03-30T02:52:56.028Z"
   - **(3)** No allowance rate computed under paragraph (2) may be less than zero.
   - **(4)** Each allowance rate computed under paragraph (2) shall be paid as a percentage of basic pay (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law).
 - **(d)** An employee entitled to a cost-of-living allowance under section 5924 of this title may not be paid an allowance under subsection (a) of this section based on living costs substantially higher than in the District of Columbia.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 118h . | Apr. 20, 1948, ch. 219, § 207 , 62 Stat. 194 . |
+|  |  | June 30, 1948, ch. 775, § 104 , 62 Stat. 1205 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 118h
+
+Apr. 20, 1948, ch. 219, § 207
+
+62 Stat. 194
+
+June 30, 1948, ch. 775, § 104
+
+62 Stat. 1205
+
+Section
+
+Definitions
+
+Sec
+
+Additional Compensation by Reason of Environment
+
+Sec
+
+Basis for Foreign Post Differential
+
+Sec
+
+Agencies Covered
+
+Sec
+
+Persons Eligible to Receive Foreign Post Differential
+
+Sec
+
+Payment of Foreign Post Differentials.
+
+Sec
+
+Persons Serving Under Contract
+
+Sec
+
+Periodic Review
+
+Sec
+
+Additional Living Cost Compensation
+
+Sec
+
+Definition
+
+Sec
+
+Additional Compensation by Reason of Environment
+
+Sec
+
+Basis for Non-Foreign Area Post Differential
+
+Sec
+
+Persons Eligible to Receive Non-Foreign Area Post Differential
+
+Sec
+
+Additional Living Cost Compensation
+
+Sec
+
+Coordination
+
+Sec
+
+Agencies Covered
+
+Sec
+
+Payment of Non-Foreign Area Post Differentials and Cost-of-Living Allowances.
+
+Sec
+
+Persons Serving Under Contract
+
+Sec
+
+Periodic Review
+
+Sec
+
+Temporary Regulations
+
+Sec
+
+Publication
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 512](https://www.govinfo.gov/link/statute/80/512); [Pub. L. 111–84, div. A, title XIX, § 1912(b)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2620](https://www.govinfo.gov/link/statute/123/2620).)*

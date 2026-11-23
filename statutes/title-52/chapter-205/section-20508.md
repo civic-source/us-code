@@ -3,9 +3,10 @@ title: "Section 20508 - Federal coordination and regulations"
 usc_title: 52
 usc_section: "20508"
 chapter: 205
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 20508"
-generated_at: "2026-03-30T02:56:30.165Z"
+generated_at: "2026-11-23T21:26:42.329Z"
+status: "active"
 ---
 
 # § 20508. Federal coordination and regulations
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:30.165Z"
       - **(i)** the information required in section 20507(a)(5)(A) and (B) of this title;
       - **(ii)** a statement that, if an applicant declines to register to vote, the fact that the applicant has declined to register will remain confidential and will be used only for voter registration purposes; and
       - **(iii)** a statement that if an applicant does register to vote, the office at which the applicant submits a voter registration application will remain confidential and will be used only for voter registration purposes.
+
+## Source Credit
+
+*([Pub. L. 103–31, § 9](https://www.govinfo.gov/link/plaw/103/public/31), May 20, 1993, [107 Stat. 87](https://www.govinfo.gov/link/statute/107/87); [Pub. L. 107–252, title VIII, § 802(b)](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1726](https://www.govinfo.gov/link/statute/116/1726).)*

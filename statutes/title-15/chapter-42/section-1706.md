@@ -3,9 +3,10 @@ title: "Section 1706 - Effective date of statements of record and amendments the
 usc_title: 15
 usc_section: "1706"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1706"
-generated_at: "2026-03-30T02:54:08.159Z"
+generated_at: "2026-11-23T21:25:39.892Z"
+status: "active"
 ---
 
 # § 1706. Effective date of statements of record and amendments thereto
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.159Z"
 - **(d)** If it appears to the Director at any time that a statement of record, which is in effect, includes any untrue statement of a material fact or omits to state any material fact required to be stated therein or necessary to make the statements therein not misleading, the Director may, after notice, and after opportunity for hearing (at a time fixed by the Director) within fifteen days after such notice, issue an order suspending the statement of record. When such statement has been amended in accordance with such order, the Director shall so declare and thereupon the order shall cease to be effective.
 - **(e)** The Director is hereby empowered to make an examination in any case to determine whether an order should issue under subsection (d). In making such examination, the Director or anyone designated by him shall have access to and may demand the production of any books and papers of, and may administer oaths and affirmations to and examine, the developer, any agents or any other person, in respect of any matter relevant to the examination. If the developer or any agents shall fail to cooperate, or shall obstruct or refuse to permit the making of an examination, such conduct shall be proper ground for the issuance of an order suspending the statement of record.
 - **(f)** Any notice required under this section shall be sent to or served on the developer or his authorized agent.
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIV, § 1407](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 593](https://www.govinfo.gov/link/statute/82/593); [Pub. L. 111–203, title X, § 1098A(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2105](https://www.govinfo.gov/link/statute/124/2105).)*

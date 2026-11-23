@@ -3,9 +3,10 @@ title: "Section 1826g - Enforcement"
 usc_title: 16
 usc_section: "1826g"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1826g"
-generated_at: "2026-03-30T02:54:22.985Z"
+generated_at: "2026-11-23T21:25:51.918Z"
+status: "active"
 ---
 
 # § 1826g. Enforcement
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:54:22.985Z"
 - **(f)** Any person who commits any act that is unlawful under subsection (e) shall be liable to the United States for a civil penalty, and may be subject to a permit sanction, under section 308 of the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1858 ).
 - **(g)** Any person who commits an act that is unlawful under subsection (e)(2), (e)(3), (e)(4), (e)(5), or (e)(6) is deemed to be guilty of an offense punishable under section 309(b) of the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1859(b) ).
 - **(h)** The President shall utilize appropriate assets of the Department of Defense, the United States Coast Guard, and other Federal agencies to detect, monitor, and prevent violations of the United Nations moratorium on large-scale driftnet fishing on the high seas for all fisheries under the jurisdiction of the United States and, in the case of fisheries not under the jurisdiction of the United States, to the fullest extent permitted under international law.
+
+## Source Credit
+
+*([Pub. L. 104–43, title VI, § 606](https://www.govinfo.gov/link/plaw/104/public/43), Nov. 3, 1995, [109 Stat. 392](https://www.govinfo.gov/link/statute/109/392); [Pub. L. 114–81, title I, § 101(a)(1)](https://www.govinfo.gov/link/plaw/114/public/81), Nov. 5, 2015, [129 Stat. 650](https://www.govinfo.gov/link/statute/129/650); [Pub. L. 114–327, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/114/public/327), Dec. 16, 2016, [130 Stat. 1994](https://www.govinfo.gov/link/statute/130/1994).)*

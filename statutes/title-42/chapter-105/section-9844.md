@@ -3,9 +3,10 @@ title: "Section 9844 - Research, demonstrations, and evaluation"
 usc_title: 42
 usc_section: "9844"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9844"
-generated_at: "2026-03-30T02:56:11.370Z"
+generated_at: "2026-11-23T21:26:33.302Z"
+status: "active"
 ---
 
 # § 9844. Research, demonstrations, and evaluation
@@ -150,3 +151,11 @@ generated_at: "2026-03-30T02:56:11.370Z"
     - **(B)** an evaluation of the procedures for informing families of children in Head Start programs about the program protocols for response to a large-scale emergency, including procedures for communicating with such families in the event of a large-scale emergency;
     - **(C)** an evaluation of such procedures for staff training on State and local evacuation and emergency protocols; and
     - **(D)** an evaluation of procedures for Head Start agencies and the Secretary to coordinate with appropriate Federal, State, and local emergency management agencies in the event of a large scale emergency and recommendations to improve such procedures.
+
+In general
+
+Committees
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 649](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 505](https://www.govinfo.gov/link/statute/95/505); [Pub. L. 98–558, title I, § 107](https://www.govinfo.gov/link/plaw/98/public/558), Oct. 30, 1984, [98 Stat. 2880](https://www.govinfo.gov/link/statute/98/2880); [Pub. L. 101–501, title I, § 117(a)](https://www.govinfo.gov/link/plaw/101/public/501), Nov. 3, 1990, [104 Stat. 1233](https://www.govinfo.gov/link/statute/104/1233); [Pub. L. 103–252, title I, § 116](https://www.govinfo.gov/link/plaw/103/public/252), May 18, 1994, [108 Stat. 646](https://www.govinfo.gov/link/statute/108/646); [Pub. L. 105–244, title I, § 102(a)(13)(G)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1621](https://www.govinfo.gov/link/statute/112/1621); [Pub. L. 105–285, title I, § 116](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2723](https://www.govinfo.gov/link/statute/112/2723); [Pub. L. 110–134, § 20](https://www.govinfo.gov/link/plaw/110/public/134), Dec. 12, 2007, [121 Stat. 1435](https://www.govinfo.gov/link/statute/121/1435).)*

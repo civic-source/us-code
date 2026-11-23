@@ -3,9 +3,10 @@ title: "Section 11117 - Annual report"
 usc_title: 34
 usc_section: "11117"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 11117"
-generated_at: "2026-03-30T02:55:33.277Z"
+generated_at: "2026-11-23T21:26:09.696Z"
+status: "active"
 ---
 
 # § 11117. Annual report
@@ -38,3 +39,7 @@ Not later than 180 days after the end of each fiscal year, the Administrator sha
     - **(B)** the violation of the program found;
     - **(C)** the amount of funds sought to be recouped by the Office of Juvenile Justice and Delinquency Prevention; and
     - **(D)** the actual amount recouped by the Office of Juvenile Justice and Delinquency Prevention.
+
+## Source Credit
+
+*([Pub. L. 93–415, title II, § 207](https://www.govinfo.gov/link/plaw/93/public/415), as added [Pub. L. 100–690, title VII, § 7255](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4437](https://www.govinfo.gov/link/statute/102/4437); amended [Pub. L. 102–586, § 2(e)](https://www.govinfo.gov/link/plaw/102/public/586), Nov. 4, 1992, [106 Stat. 4986](https://www.govinfo.gov/link/statute/106/4986); [Pub. L. 107–273, div. C, title II, § 12207](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1872](https://www.govinfo.gov/link/statute/116/1872); [Pub. L. 115–385, title II, § 203](https://www.govinfo.gov/link/plaw/115/public/385), Dec. 21, 2018, [132 Stat. 5128](https://www.govinfo.gov/link/statute/132/5128).)*

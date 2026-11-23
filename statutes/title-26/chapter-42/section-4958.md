@@ -3,9 +3,10 @@ title: "Section 4958 - Taxes on excess benefit transactions"
 usc_title: 26
 usc_section: "4958"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4958"
-generated_at: "2026-03-30T02:55:27.808Z"
+generated_at: "2026-11-23T21:26:06.652Z"
+status: "active"
 ---
 
 # § 4958. Taxes on excess benefit transactions
@@ -73,3 +74,11 @@ generated_at: "2026-03-30T02:55:27.808Z"
       - **(ii)** is a member of the family of an individual described in clause (i), or
       - **(iii)** is a 35-percent controlled entity (as defined in paragraph (3) by substituting “persons described in clause (i) or (ii) of paragraph (8)(A)” for “persons described in subparagraph (A) or (B) of paragraph (1)” in subparagraph (A)(i) thereof).
     - **(B)** For purposes of subparagraph (A), the term “investment advisor” means, with respect to any sponsoring organization (as defined in section 4966(d)(1)), any person (other than an employee of such organization) compensated by such organization for managing the investment of, or providing investment advice with respect to, assets maintained in donor advised funds (as defined in section 4966(d)(2)) owned by such organization.
+
+Subsection
+
+Subsection
+
+## Source Credit
+
+*(Added [Pub. L. 104–168, title XIII, § 1311(a)](https://www.govinfo.gov/link/plaw/104/public/168), July 30, 1996, [110 Stat. 1475](https://www.govinfo.gov/link/statute/110/1475); amended [Pub. L. 109–280, title XII](https://www.govinfo.gov/link/plaw/109/public/280), §§ 1212(a)(3), 1232(a), (b), 1242(a), (b), Aug. 17, 2006, [120 Stat. 1074](https://www.govinfo.gov/link/statute/120/1074), 1098, 1099, 1104; [Pub. L. 110–172, § 3(i)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2475](https://www.govinfo.gov/link/statute/121/2475); [Pub. L. 111–148, title I, § 1322(h)(3)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 192](https://www.govinfo.gov/link/statute/124/192); [Pub. L. 115–141, div. U, title IV, § 401(a)(224)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1194](https://www.govinfo.gov/link/statute/132/1194).)*

@@ -3,9 +3,10 @@ title: "Section 3552 - Presentence reports"
 usc_title: 18
 usc_section: "3552"
 chapter: 227
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3552"
-generated_at: "2026-03-30T02:54:16.519Z"
+generated_at: "2026-11-23T21:25:44.206Z"
+status: "active"
 ---
 
 # § 3552. Presentence reports
@@ -14,3 +15,19 @@ generated_at: "2026-03-30T02:54:16.519Z"
 - **(b)** If the court, before or after its receipt of a report specified in subsection (a) or (c), desires more information than is otherwise available to it as a basis for determining the sentence to be imposed on a defendant found guilty of a misdemeanor or felony, it may order a study of the defendant. The study shall be conducted in the local community by qualified consultants unless the sentencing judge finds that there is a compelling reason for the study to be done by the Bureau of Prisons or there are no adequate professional resources available in the local community to perform the study. The period of the study shall be no more than sixty days. The order shall specify the additional information that the court needs before determining the sentence to be imposed. Such an order shall be treated for administrative purposes as a provisional sentence of imprisonment for the maximum term authorized by section 3581(b) for the offense committed. The study shall inquire into such matters as are specified by the court and any other matters that the Bureau of Prisons or the professional consultants believe are pertinent to the factors set forth in section 3553(a). The period of the study may, in the discretion of the court, be extended for an additional period of not more than sixty days. By the expiration of the period of the study, or by the expiration of any extension granted by the court, the United States marshal shall, if the defendant is in custody, return the defendant to the court for final sentencing. The Bureau of Prisons or the professional consultants shall provide the court with a written report of the pertinent results of the study and make to the court whatever recommendations the Bureau or the consultants believe will be helpful to a proper resolution of the case. The report shall include recommendations of the Bureau or the consultants concerning the guidelines and policy statements, promulgated by the Sentencing Commission pursuant to 28 U.S.C. 994(a) , that they believe are applicable to the defendant’s case. After receiving the report and the recommendations, the court shall proceed finally to sentence the defendant in accordance with the sentencing alternatives and procedures available under this chapter.
 - **(c)** If the court, before or after its receipt of a report specified in subsection (a) or (b) desires more information than is otherwise available to it as a basis for determining the mental condition of the defendant, the court may order the same psychiatric or psychological examination and report thereon as may be ordered under section 4244(b) of this title .
 - **(d)** The court shall assure that a report filed pursuant to this section is disclosed to the defendant, the counsel for the defendant, and the attorney for the Government at least ten days prior to the date set for sentencing, unless this minimum period is waived by the defendant. The court shall provide a copy of the presentence report to the attorney for the Government to use in collecting an assessment, criminal fine, forfeiture or restitution imposed.
+
+Presentence Investigation and Report by Probation Officer
+
+Presentence Study and Report by Bureau of Prisons
+
+Presentence Examination and Report by Psychiatric or Psychological Examiners
+
+Disclosure of Presentence Reports
+
+Information
+
+Compiling and Report
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 212(a)(2)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 1988](https://www.govinfo.gov/link/statute/98/1988); amended [Pub. L. 99–646, § 7(a)](https://www.govinfo.gov/link/plaw/99/public/646), Nov. 10, 1986, [100 Stat. 3593](https://www.govinfo.gov/link/statute/100/3593); [Pub. L. 101–647, title XXXVI, § 3625](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4965](https://www.govinfo.gov/link/statute/104/4965).)*

@@ -3,9 +3,10 @@ title: "Section 1621 - Miscellaneous provisions"
 usc_title: 43
 usc_section: "1621"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1621"
-generated_at: "2026-03-30T02:55:57.482Z"
+generated_at: "2026-11-23T21:26:19.859Z"
+status: "active"
 ---
 
 # § 1621. Miscellaneous provisions
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:55:57.482Z"
   - **(2)** such lands are managed under the principle of sustained yield and under management practices for protection and enhancement of environmental quality no less stringent than such management practices on adjacent national forest lands for a period of twelve years.
 - **(l)** Notwithstanding any provision of this chapter, no Village or Regional Corporation shall select lands which are within two miles from the boundary, as it exists on December 18, 1971 , of any home rule or first class city (excluding boroughs) or which are within six miles from the boundary of Ketchikan.
 - **(m)** An Alaska Native regional corporation organized pursuant to this chapter, or an affiliate thereof, that holds a Federal Communications Commission license in the personal communications service as of the date of enactment of this section 3 3 See References in Text note below. and has either paid for such license in full or has complied with the payment schedules for such license shall be permitted to transfer or assign without penalty such license to any transferee or assignee. No economic penalties shall apply to any transfer or assignment authorized under this section. Any amounts owed to the United States for the initial grant of such licenses shall become immediately due and payable upon the consummation of any such transfer or assignment. Any application for such a transfer or assignment shall be deemed granted if not denied by the Commission within 90 days of the date on which it was initially filed. Any provision of law or regulation to the contrary is hereby amended.
+
+## Source Credit
+
+*([Pub. L. 92–203, § 22](https://www.govinfo.gov/link/plaw/92/public/203), Dec. 18, 1971, [85 Stat. 713](https://www.govinfo.gov/link/statute/85/713); [Pub. L. 94–204, § 17](https://www.govinfo.gov/link/plaw/94/public/204), Jan. 2, 1976, [89 Stat. 1156](https://www.govinfo.gov/link/statute/89/1156); [Pub. L. 96–487, title XIV, § 1410](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2496](https://www.govinfo.gov/link/statute/94/2496); [Pub. L. 102–415, § 14](https://www.govinfo.gov/link/plaw/102/public/415), Oct. 14, 1992, [106 Stat. 2121](https://www.govinfo.gov/link/statute/106/2121); [Pub. L. 104–42, title I, § 102](https://www.govinfo.gov/link/plaw/104/public/42), Nov. 2, 1995, [109 Stat. 353](https://www.govinfo.gov/link/statute/109/353); [Pub. L. 105–333, § 7](https://www.govinfo.gov/link/plaw/105/public/333), Oct. 31, 1998, [112 Stat. 3133](https://www.govinfo.gov/link/statute/112/3133); [Pub. L. 106–259, title VIII, § 8149](https://www.govinfo.gov/link/plaw/106/public/259), Aug. 9, 2000, [114 Stat. 706](https://www.govinfo.gov/link/statute/114/706); [Pub. L. 108–452, title II, § 208](https://www.govinfo.gov/link/plaw/108/public/452), Dec. 10, 2004, [118 Stat. 3586](https://www.govinfo.gov/link/statute/118/3586).)*

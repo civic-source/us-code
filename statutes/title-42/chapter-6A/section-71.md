@@ -3,9 +3,10 @@ title: "Section 71 - Grants for coordinated services and access to research for 
 usc_title: 42
 usc_section: "71"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 71"
-generated_at: "2026-03-30T02:56:10.828Z"
+generated_at: "2026-11-23T21:26:30.878Z"
+status: "active"
 ---
 
 # § 300ff–71. Grants for coordinated services and access to research for women, infants, children, and youth
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:56:10.828Z"
     - **(B)** services that sustain program activity and contribute to or help improve services under subparagraph (A).
 - **(i)** Nothing in this part shall be construed as requiring funds under this part to be used for primary care services when payments are available for such services from other sources (including under titles XVIII, XIX, and XXI of the Social Security Act [ 42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.]).
 - **(j)** For the purpose of carrying out this section, there are authorized to be appropriated, $71,800,000 for each of the fiscal years 2007 through 2009, $75,390,000 for fiscal year 2010, $79,160,000 for fiscal year 2011, $83,117,000 for fiscal year 2012, and $87,273,000 for fiscal year 2013.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVI, § 2671, as added and amended [Pub. L. 109–415, title IV, § 401](https://www.govinfo.gov/link/plaw/109/public/415), title VII, § 703, Dec. 19, 2006, [120 Stat. 2810](https://www.govinfo.gov/link/statute/120/2810), 2820; [Pub. L. 111–87](https://www.govinfo.gov/link/plaw/111/public/87), §§ 2(a)(1), (3)(A), (e), 11, Oct. 30, 2009, [123 Stat. 2885](https://www.govinfo.gov/link/statute/123/2885), 2886, 2895.)*

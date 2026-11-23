@@ -3,9 +3,10 @@ title: "Section 8235c - Approval of applications for plans for prototype residen
 usc_title: 42
 usc_section: "8235c"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8235c"
-generated_at: "2026-03-30T02:56:11.337Z"
+generated_at: "2026-11-23T21:26:33.185Z"
+status: "active"
 ---
 
 # § 8235c. Approval of applications for plans for prototype residential energy efficiency programs
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.337Z"
   - **(2)** the likelihood that the value of the energy saved by public utilities under the program will be sufficient to cover the estimated cost of the energy conservation measures to be supplied and installed under the program;
   - **(3)** the anticipated effects of the program on competition in the portion of the service area of the public utility designated in the contract entered into under the plan; and
   - **(4)** such other factors as the Secretary determines are appropriate.
+
+## Source Credit
+
+*([Pub. L. 95–619, title II, § 264](https://www.govinfo.gov/link/plaw/95/public/619), as added [Pub. L. 96–294, title V, § 562](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 748](https://www.govinfo.gov/link/statute/94/748).)*

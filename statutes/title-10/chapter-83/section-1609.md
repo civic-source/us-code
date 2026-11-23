@@ -3,9 +3,10 @@ title: "Section 1609 - Termination of defense intelligence employees"
 usc_title: 10
 usc_section: "1609"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1609"
-generated_at: "2026-03-30T02:53:38.133Z"
+generated_at: "2026-11-23T21:25:32.526Z"
+status: "active"
 ---
 
 # § 1609. Termination of defense intelligence employees
@@ -17,3 +18,17 @@ generated_at: "2026-03-30T02:53:38.133Z"
 - **(c)** Whenever the Secretary of Defense terminates the employment of an employee under the authority of this section, the Secretary shall promptly notify the congressional oversight committees of such termination.
 - **(d)** Any termination of employment under this section does not affect the right of the employee involved to seek or accept employment with any other department or agency of the United States if that employee is declared eligible for such employment by the Director of the Office of Personnel Management.
 - **(e)** The authority of the Secretary of Defense under this section may be delegated only to the Deputy Secretary of Defense, the head of an intelligence component of the Department of Defense (with respect to employees of that component), or the Secretary of a military department (with respect to employees of that department). An action to terminate employment of such an employee by any such official may be appealed to the Secretary of Defense.
+
+Termination Authority
+
+Finality
+
+Notification to Congressional Committees
+
+Preservation of Right To Seek Other Employment
+
+Limitation on Delegation
+
+## Source Credit
+
+*(Added [Pub. L. 104–201, div. A, title XVI, § 1632(b)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2748](https://www.govinfo.gov/link/statute/110/2748).)*

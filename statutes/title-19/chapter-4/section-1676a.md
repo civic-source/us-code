@@ -3,9 +3,10 @@ title: "Section 1676a - Required determinations"
 usc_title: 19
 usc_section: "1676a"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1676a"
-generated_at: "2026-03-30T02:54:24.654Z"
+generated_at: "2026-11-23T21:25:42.748Z"
+status: "active"
 ---
 
 # § 1676a. Required determinations
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:24.654Z"
   - **(1)** issue a countervailing duty order under section 1671e of this title effective with respect to merchandise entered on and after the date on which the agreement terminates; and
   - **(2)** order the suspension of liquidation of all entries of subject merchandise which are entered, or withdrawn from warehouse for consumption, on or after the date of publication of the order in the Federal Register.
 - **(c)** The determination proceedings required to be prescribed under subsection (b) shall provide that the administering authority and the Commission must, upon the request of any interested party, hold a hearing in accordance with section 1677c of this title on the issues involved.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VII, § 762, as added [Pub. L. 98–573, title VI, § 611(a)(4)](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 3032](https://www.govinfo.gov/link/statute/98/3032); amended [Pub. L. 103–465, title II](https://www.govinfo.gov/link/plaw/103/public/465), §§ 233(a)(5)(Z), (AA), 270(a)(1)(J), Dec. 8, 1994, [108 Stat. 4900](https://www.govinfo.gov/link/statute/108/4900), 4917.)*

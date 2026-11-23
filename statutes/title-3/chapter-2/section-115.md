@@ -3,9 +3,10 @@ title: "Section 115 - Veterans’ preference"
 usc_title: 3
 usc_section: "115"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "3 U.S.C. § 115"
-generated_at: "2026-03-30T02:52:49.879Z"
+generated_at: "2026-11-23T21:25:20.107Z"
+status: "active"
 ---
 
 # § 115. Veterans’ preference
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:52:49.879Z"
     - **(A)** a confidential or policy-making position; or
     - **(B)** a position for which political affiliation or political philosophy is otherwise an important qualification; and
   - **(2)** that any individual selected for such position is expected to vacate the position at or before the end of the President’s term (or terms) of office.
+
+## Source Credit
+
+*(Added [Pub. L. 105–339, § 4(b)(1)](https://www.govinfo.gov/link/plaw/105/public/339), Oct. 31, 1998, [112 Stat. 3185](https://www.govinfo.gov/link/statute/112/3185).)*

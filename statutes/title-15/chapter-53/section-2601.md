@@ -3,9 +3,10 @@ title: "Section 2601 - Findings, policy, and intent"
 usc_title: 15
 usc_section: "2601"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2601"
-generated_at: "2026-03-30T02:54:08.173Z"
+generated_at: "2026-11-23T21:25:39.930Z"
+status: "active"
 ---
 
 # § 2601. Findings, policy, and intent
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:54:08.173Z"
   - **(2)** adequate authority should exist to regulate chemical substances and mixtures which present an unreasonable risk of injury to health or the environment, and to take action with respect to chemical substances and mixtures which are imminent hazards; and
   - **(3)** authority over chemical substances and mixtures should be exercised in such a manner as not to impede unduly or create unnecessary economic barriers to technological innovation while fulfilling the primary purpose of this chapter to assure that such innovation and commerce in such chemical substances and mixtures do not present an unreasonable risk of injury to health or the environment.
 - **(c)** It is the intent of Congress that the Administrator shall carry out this chapter in a reasonable and prudent manner, and that the Administrator shall consider the environmental, economic, and social impact of any action the Administrator takes or proposes as provided under this chapter.
+
+Prohibition
+
+Definition of Sport Fishing Equipment
+
+## Source Credit
+
+*([Pub. L. 94–469, title I, § 2](https://www.govinfo.gov/link/plaw/94/public/469), Oct. 11, 1976, [90 Stat. 2003](https://www.govinfo.gov/link/statute/90/2003); renumbered title I, [Pub. L. 99–519, § 3(c)(1)](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2989](https://www.govinfo.gov/link/statute/100/2989); amended [Pub. L. 114–182, title I](https://www.govinfo.gov/link/plaw/114/public/182), §§ 2, 19(b), June 22, 2016, [130 Stat. 448](https://www.govinfo.gov/link/statute/130/448), 505.)*

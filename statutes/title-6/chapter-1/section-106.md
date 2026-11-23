@@ -3,9 +3,10 @@ title: "Section 106 - Update of national biodefense implementation plan"
 usc_title: 6
 usc_section: "106"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 106"
-generated_at: "2026-03-30T02:53:09.443Z"
+generated_at: "2026-11-23T21:25:25.738Z"
+status: "active"
 ---
 
 # § 106. Update of national biodefense implementation plan
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:53:09.443Z"
   - **(5)** The Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
   - **(6)** The Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
 - **(f)** Nothing in this section shall be construed to alter, limit, or duplicate the roles, responsibilities, authorities, or current activities, as established in statute or otherwise through existing practice or policy, of each Federal department or agency with responsibilities for biodefense or otherwise relevant to implementation of the National Biodefense Strategy.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. A, title III, § 364](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3548](https://www.govinfo.gov/link/statute/134/3548).)*

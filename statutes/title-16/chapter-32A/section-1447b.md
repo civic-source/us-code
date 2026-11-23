@@ -3,9 +3,10 @@ title: "Section 1447b - Regional Marine Research Boards"
 usc_title: 16
 usc_section: "1447b"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1447b"
-generated_at: "2026-03-30T02:54:22.969Z"
+generated_at: "2026-11-23T21:25:51.884Z"
+status: "active"
 ---
 
 # § 1447b. Regional Marine Research Boards
@@ -49,3 +50,7 @@ generated_at: "2026-03-30T02:54:22.969Z"
   - **(2)** Each Board shall establish such committees and subcommittees as are appropriate in the performance of its functions.
   - **(3)** Each Board is authorized to hire such staff as are necessary to carry out the functions of the Board.
 - **(f)** Each Board shall cease to exist on October 1, 1999 , unless extended by Congress.
+
+## Source Credit
+
+*([Pub. L. 92–532, title IV, § 403](https://www.govinfo.gov/link/plaw/92/public/532), as added [Pub. L. 101–593, title III, § 301](https://www.govinfo.gov/link/plaw/101/public/593), Nov. 16, 1990, [104 Stat. 2964](https://www.govinfo.gov/link/statute/104/2964).)*

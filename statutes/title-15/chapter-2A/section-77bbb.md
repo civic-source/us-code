@@ -3,9 +3,10 @@ title: "Section 77bbb - Necessity for regulation"
 usc_title: 15
 usc_section: "77bbb"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 77bbb"
-generated_at: "2026-03-30T02:54:08.036Z"
+generated_at: "2026-11-23T21:25:39.512Z"
+status: "active"
 ---
 
 # § 77bbb. Necessity for regulation
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:08.036Z"
   - **(5)** when the indenture contains provisions which are misleading or deceptive, or when full and fair disclosure is not made to prospective investors of the effect of important indenture provisions; or
   - **(6)** when, by reason of the fact that trust indentures are commonly prepared by the obligor or underwriter in advance of the public offering of the securities to be issued thereunder, such investors are unable to participate in the preparation thereof, and, by reason of their lack of understanding of the situation, such investors would in any event be unable to procure the correction of the defects enumerated in this subsection.
 - **(b)** Practices of the character above enumerated have existed to such an extent that, unless regulated, the public offering of notes, bonds, debentures, evidences of indebtedness, and certificates of interest or participation therein, by the use of means and instruments of transportation and communication in interstate commerce and of the mails, is injurious to the capital markets, to investors, and to the general public; and it is hereby declared to be the policy of this subchapter, in accordance with which policy all the provisions of this subchapter shall be interpreted, to meet the problems and eliminate the practices, enumerated in this section, connected with such public offerings.
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title III, § 302, as added Aug. 3, 1939, ch. 411, [53 Stat. 1150](https://www.govinfo.gov/link/statute/53/1150).)*

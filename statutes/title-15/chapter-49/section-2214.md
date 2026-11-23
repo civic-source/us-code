@@ -3,9 +3,10 @@ title: "Section 2214 - Public safety awards"
 usc_title: 15
 usc_section: "2214"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2214"
-generated_at: "2026-03-30T02:54:08.168Z"
+generated_at: "2026-11-23T21:25:39.918Z"
+status: "active"
 ---
 
 # § 2214. Public safety awards
@@ -18,3 +19,19 @@ generated_at: "2026-03-30T02:54:08.168Z"
   - **(1)** a firefighter;
   - **(2)** a law enforcement officer, including a corrections or court officer; or
   - **(3)** a civil defense officer.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 93–498, § 15](https://www.govinfo.gov/link/plaw/93/public/498), Oct. 29, 1974, [88 Stat. 1544](https://www.govinfo.gov/link/statute/88/1544); [Pub. L. 98–241, title II, § 202](https://www.govinfo.gov/link/plaw/98/public/241), Mar. 22, 1984, [98 Stat. 96](https://www.govinfo.gov/link/statute/98/96); [Pub. L. 106–503, title I, § 110(a)(2)(B)(iv)](https://www.govinfo.gov/link/plaw/106/public/503), (v), (C), Nov. 13, 2000, [114 Stat. 2302](https://www.govinfo.gov/link/statute/114/2302); [Pub. L. 107–12, § 8](https://www.govinfo.gov/link/plaw/107/public/12), May 30, 2001, [115 Stat. 22](https://www.govinfo.gov/link/statute/115/22); [Pub. L. 112–239, div. A, title XVIII, § 1802(b)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2100](https://www.govinfo.gov/link/statute/126/2100).)*

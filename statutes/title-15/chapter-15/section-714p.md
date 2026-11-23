@@ -3,12 +3,17 @@ title: "Section 714p - Release of innocent purchasers of converted goods"
 usc_title: 15
 usc_section: "714p"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 714p"
-generated_at: "2026-03-30T02:54:08.117Z"
+generated_at: "2026-11-23T21:25:39.743Z"
+status: "active"
 ---
 
 # § 714p. Release of innocent purchasers of converted goods
 
 A buyer in the ordinary course of business of fungible goods sold and physically delivered by a warehouseman or other dealer who was regularly engaged in the business of buying and selling such goods shall take or be deemed to have taken such goods free of any claim, existing or hereafter arising, by Commodity Credit Corporation, based on the want of authority in the seller to sell such goods, provided the buyer purchased such goods for value in good faith and did not know or have reason to know of any defect in the seller’s authority to sell such goods. To be entitled to relief under this section a buyer must assert as an affirmative defense and establish by a preponderance of the evidence the facts necessary to entitle him to such relief.
 
+
+## Source Credit
+
+*(June 29, 1948, ch. 704, § 19, as added May 23, 1955, ch. 46, [69 Stat. 65](https://www.govinfo.gov/link/statute/69/65).)*

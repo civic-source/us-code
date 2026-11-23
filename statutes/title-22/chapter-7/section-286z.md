@@ -3,9 +3,10 @@ title: "Section 286z - Collection and exchange of information on monetary and fi
 usc_title: 22
 usc_section: "286z"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 286z"
-generated_at: "2026-03-30T02:55:05.319Z"
+generated_at: "2026-11-23T21:25:58.364Z"
+status: "active"
 ---
 
 # § 286z. Collection and exchange of information on monetary and financial problems
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:05.319Z"
   - **(1)** outstanding loans to private and public entities, including government entities, instrumentalities, and central banks of any member, and
   - **(2)** unused lines of credit which have been made available to those private and public entities of any member,
 - **(d)** The President is authorized to use the authority provided under section 286f of this title to require any person (as defined in such section) subject to the jurisdiction of the United States to provide such information as the Fund determines to be necessary in order to carry out the provisions of this section.
+
+## Source Credit
+
+*(July 31, 1945, ch. 339, § 42, as added [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title VIII, § 802(a)(4)], Nov. 30, 1983, [97 Stat. 1269](https://www.govinfo.gov/link/statute/97/1269).)*

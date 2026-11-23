@@ -3,9 +3,10 @@ title: "Section 2996g - Records and reports"
 usc_title: 42
 usc_section: "2996g"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2996g"
-generated_at: "2026-03-30T02:56:11.169Z"
+generated_at: "2026-11-23T21:26:32.454Z"
+status: "active"
 ---
 
 # § 2996g. Records and reports
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.169Z"
 - **(c)** The Corporation shall publish an annual report which shall be filed by the Corporation with the President and the Congress. Such report shall include a description of services provided pursuant to section 2996f(a)(2)(C)(i) and (ii) of this title.
 - **(d)** Copies of all reports pertinent to the evaluation, inspection, or monitoring of any grantee, contractor, or person or entity receiving financial assistance under this subchapter shall be submitted on a timely basis to such grantee, contractor, or person or entity, and shall be maintained in the principal office of the Corporation for a period of at least five years subsequent to such evaluation, inspection, or monitoring. Such reports shall be available for public inspection during regular business hours, and copies shall be furnished, upon request, to interested parties upon payment of such reasonable fees as the Corporation may establish.
 - **(e)** The Corporation shall afford notice and reasonable opportunity for comment to interested parties prior to issuing rules, regulations, and guidelines, and it shall publish in the Federal Register at least 30 days prior to their effective date all its rules, regulations, guidelines, and instructions.
+
+## Source Credit
+
+*([Pub. L. 88–452, title X, § 1008](https://www.govinfo.gov/link/plaw/88/public/452), as added [Pub. L. 93–355, § 2](https://www.govinfo.gov/link/plaw/93/public/355), July 25, 1974, [88 Stat. 386](https://www.govinfo.gov/link/statute/88/386); amended [Pub. L. 95–222, § 9(b)(2)](https://www.govinfo.gov/link/plaw/95/public/222), Dec. 28, 1977, [91 Stat. 1621](https://www.govinfo.gov/link/statute/91/1621).)*

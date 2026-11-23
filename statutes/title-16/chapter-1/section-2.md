@@ -3,9 +3,10 @@ title: "Section 2 - Management plan"
 usc_title: 16
 usc_section: "2"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T02:54:22.852Z"
+generated_at: "2026-11-23T21:25:51.635Z"
+status: "active"
 ---
 
 # § 460ffff–2. Management plan
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:22.852Z"
 - **(c)** In accordance with this subchapter, the management plan shall include provisions for maintenance of existing public utility and other rights-of-way within the Scenic Area.
 - **(d)** In developing the management plan, in accordance with this section, the Secretary may allow casual use mining limited to the use of hand tools, metal detectors, hand-fed dry washers, vacuum cleaners, gold pans, small sluices, and similar items.
 - **(e)** Pending completion of the management plan, the Secretary shall manage the Scenic Area in accordance with section 460ffff–1(b) of this title .
+
+## Source Credit
+
+*([Pub. L. 103–433, title XIV, § 1403](https://www.govinfo.gov/link/plaw/103/public/433), as added [Pub. L. 116–9, title I, § 1441](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 709](https://www.govinfo.gov/link/statute/133/709).)*

@@ -3,9 +3,10 @@ title: "Section 19231 - Requirements for foreign talent recruitment programs"
 usc_title: 42
 usc_section: "19231"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19231"
-generated_at: "2026-03-30T02:56:11.543Z"
+generated_at: "2026-11-23T21:26:33.879Z"
+status: "active"
 ---
 
 # § 19231. Requirements for foreign talent recruitment programs
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.543Z"
 - **(c)** As part of the guidance under subsection (b), the Director of the Office of Science and Technology Policy shall define and describe the characteristics of a foreign talent recruitment program.
 - **(d)** Not later than one year after August 9, 2022 , each Federal research agency shall issue a policy utilizing the guidelines under subsection (b).
 - **(e)** The Director of the Office of Science and Technology Policy shall ensure that the policies issued by the Federal research agencies under subsection (d) are consistent to the greatest extent practicable.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title VI, § 10631](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1664](https://www.govinfo.gov/link/statute/136/1664).)*

@@ -3,9 +3,10 @@ title: "Section 231 - Civil disorders"
 usc_title: 18
 usc_section: "231"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 231"
-generated_at: "2026-03-30T02:54:16.461Z"
+generated_at: "2026-11-23T21:25:43.956Z"
+status: "active"
 ---
 
 # § 231. Civil disorders
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:16.461Z"
   - **(2)** Whoever transports or manufactures for transportation in commerce any firearm, or explosive or incendiary device, knowing or having reason to know or intending that the same will be used unlawfully in furtherance of a civil disorder; or
   - **(3)** Whoever commits or attempts to commit any act to obstruct, impede, or interfere with any fireman or law enforcement officer lawfully engaged in the lawful performance of his official duties incident to and during the commission of a civil disorder which in any way or degree obstructs, delays, or adversely affects commerce or the movement of any article or commodity in commerce or the conduct or performance of any federally protected function— Shall be fined under this title or imprisoned not more than five years, or both.
 - **(b)** Nothing contained in this section shall make unlawful any act of any law enforcement officer which is performed in the lawful performance of his official duties.
+
+## Source Credit
+
+*(Added [Pub. L. 90–284, title X, § 1002(a)](https://www.govinfo.gov/link/plaw/90/public/284), Apr. 11, 1968, [82 Stat. 90](https://www.govinfo.gov/link/statute/82/90); amended [Pub. L. 103–322, title XXXIII, § 330016(1)(L)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2147](https://www.govinfo.gov/link/statute/108/2147).)*

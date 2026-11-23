@@ -3,9 +3,10 @@ title: "Section 423 - Pay of Inspectors General"
 usc_title: 5
 usc_section: "423"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 423"
-generated_at: "2026-03-30T02:52:55.984Z"
+generated_at: "2026-11-23T21:25:23.049Z"
+status: "active"
 ---
 
 # § 423. Pay of Inspectors General
@@ -17,3 +18,62 @@ generated_at: "2026-03-30T02:52:55.984Z"
 - **(c)**
   - **(1)** The provisions of section 3392 of this title , other than the terms “performance awards” and “awarding of ranks” in subsection (c)(1) of that section, shall apply to career appointees of the Senior Executive Service who are appointed to the position of Inspector General.
   - **(2)** Notwithstanding any other provision of law, career Federal employees serving on an appointment made pursuant to statutory authority found other than in section 3392 of this title shall not suffer a reduction in pay, not including any bonus or performance award, as a result of being appointed to the position of Inspector General.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 423(a) | 5 U.S.C. App. (IGA § 3) note | Pub. L. 110–409, § 4(a)(3) , Oct. 14, 2008 , 122 Stat. 4303 ; Pub. L. 111–259, title IV, § 405(b) , Oct. 7, 2010 , 124 Stat. 2719 . |
+| 423(b) | 5 U.S.C. App. (IGA § 3) note | Pub. L. 110–409, § 4(b)(1) , Oct. 14, 2008 , 122 Stat. 4303 . |
+| 423(c) | 5 U.S.C. App. (IGA § 3) note | Pub. L. 110–409, § 4(c) , Oct. 14, 2008 , 122 Stat. 4303 . |
+
+
+Certain Inspectors General.—
+
+In general
+
+Prohibition of cash bonus or awards
+
+Inspectors General of Designated Federal Entities
+
+Savings Provision for Newly Appointed Inspectors General.—
+
+In general
+
+Nonreduction in pay
+
+Historical and Revision Notes
+
+423(a)
+
+Pub. L. 110–409, § 4(a)(3)
+
+Oct. 14, 2008
+
+122 Stat. 4303
+
+Pub. L. 111–259, title IV, § 405(b)
+
+Oct. 7, 2010
+
+124 Stat. 2719
+
+423(b)
+
+Pub. L. 110–409, § 4(b)(1)
+
+Oct. 14, 2008
+
+122 Stat. 4303
+
+423(c)
+
+Pub. L. 110–409, § 4(c)
+
+Oct. 14, 2008
+
+122 Stat. 4303
+
+Savings Provision
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(b)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4255](https://www.govinfo.gov/link/statute/136/4255).)*

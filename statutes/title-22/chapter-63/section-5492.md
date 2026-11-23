@@ -3,9 +3,10 @@ title: "Section 5492 - Declaration of the Republic of Hungary"
 usc_title: 22
 usc_section: "5492"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5492"
-generated_at: "2026-03-30T02:55:05.418Z"
+generated_at: "2026-11-23T21:25:58.663Z"
+status: "active"
 ---
 
 # § 5492. Declaration of the Republic of Hungary
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.418Z"
 - **(b)** The Congress—
   - **(1)** congratulates the people of Hungary on the declaration of a Republic of Hungary committed to democratic principles; and
   - **(2)** expresses its desire to enhance the friendly relations between the people of Hungary and the people of the United States and between their respective governments.
+
+## Source Credit
+
+*([Pub. L. 101–179, title VIII, § 802](https://www.govinfo.gov/link/plaw/101/public/179), Nov. 28, 1989, [103 Stat. 1322](https://www.govinfo.gov/link/statute/103/1322).)*

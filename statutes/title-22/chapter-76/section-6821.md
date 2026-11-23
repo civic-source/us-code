@@ -3,9 +3,10 @@ title: "Section 6821 - Establishment"
 usc_title: 22
 usc_section: "6821"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6821"
-generated_at: "2026-03-30T02:55:05.433Z"
+generated_at: "2026-11-23T21:25:58.698Z"
+status: "active"
 ---
 
 # § 6821. Establishment
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:05.433Z"
     - **(B)**
       - **(i)** This paragraph shall take effect upon the date the Secretary of the Treasury certifies to Congress that an agreement establishing the Trust Fund and providing for a United States member of the Board of Trustees is in effect.
       - **(ii)** The position established by subparagraph (A) is abolished upon the date of termination of the Trust Fund.
+
+## Source Credit
+
+*([Pub. L. 106–264, title I, § 121](https://www.govinfo.gov/link/plaw/106/public/264), Aug. 19, 2000, [114 Stat. 754](https://www.govinfo.gov/link/statute/114/754).)*

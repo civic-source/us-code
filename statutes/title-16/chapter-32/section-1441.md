@@ -3,9 +3,10 @@ title: "Section 1441 - Special use permits"
 usc_title: 16
 usc_section: "1441"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1441"
-generated_at: "2026-03-30T02:54:22.968Z"
+generated_at: "2026-11-23T21:25:51.882Z"
+status: "active"
 ---
 
 # § 1441. Special use permits
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:22.968Z"
   - **(3)** both.
 - **(f)** Each person issued a permit under this section shall submit an annual report to the Secretary not later than December 31 of each year which describes activities conducted under that permit and revenues derived from such activities during the year.
 - **(g)** Nothing in this section shall be considered to require a person to obtain a permit under this section for the conduct of any fishing activities in a national marine sanctuary.
+
+## Source Credit
+
+*([Pub. L. 92–532, title III, § 310](https://www.govinfo.gov/link/plaw/92/public/532), as added [Pub. L. 100–627, title II, § 203(3)](https://www.govinfo.gov/link/plaw/100/public/627), Nov. 7, 1988, [102 Stat. 3214](https://www.govinfo.gov/link/statute/102/3214); amended [Pub. L. 106–513, § 11](https://www.govinfo.gov/link/plaw/106/public/513), Nov. 13, 2000, [114 Stat. 2389](https://www.govinfo.gov/link/statute/114/2389).)*

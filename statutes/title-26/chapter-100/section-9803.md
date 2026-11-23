@@ -3,9 +3,10 @@ title: "Section 9803 - Guaranteed renewability in multi­employer plans and cert
 usc_title: 26
 usc_section: "9803"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 9803"
-generated_at: "2026-03-30T02:55:27.895Z"
+generated_at: "2026-11-23T21:26:07.044Z"
+status: "active"
 ---
 
 # § 9803. Guaranteed renewability in multi­employer plans and certain multiple employer welfare arrangements
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:27.895Z"
   - **(5)** in the case of a plan that offers benefits through a network plan, because there is no longer any individual enrolled through the employer who lives, resides, or works in the service area of the network plan and the plan applies this paragraph uniformly without regard to the claims experience of employers or a factor described in section 9802(a)(1) in relation to such individuals or their dependents; or
   - **(6)** for failure to meet the terms of an applicable collective bargaining agreement, to renew a collective bargaining or other agreement requiring or authorizing contributions to the plan, or to employ employees covered by such an agreement.
 - **(b)** For purposes of subsection (a), the term “multiple employer welfare arrangement” has the meaning given such term by section 3(40) of the Employee Retirement Income Security Act of 1974, as in effect on the date of the enactment of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 104–191, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 2079](https://www.govinfo.gov/link/statute/110/2079).)*

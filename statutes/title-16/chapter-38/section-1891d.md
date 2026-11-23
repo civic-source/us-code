@@ -3,9 +3,10 @@ title: "Section 1891d - Secretarial representative for international fisheries"
 usc_title: 16
 usc_section: "1891d"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1891d"
-generated_at: "2026-03-30T02:54:22.996Z"
+generated_at: "2026-11-23T21:25:51.937Z"
+status: "active"
 ---
 
 # § 1891d. Secretarial representative for international fisheries
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:22.996Z"
 - **(c)** The designated official shall consult with the Senate Committee on Commerce, Science, and Transportation and the House Committee on Resources on matters pertaining to any regional or international negotiation concerning living marine resources, including shellfish.
 - **(d)** The designated official may delegate and authorize successive re-delegation of such functions, powers, and duties to such officers and employees of the National Oceanic and Atmospheric Administration as deemed necessary to discharge the responsibility of the Office.
 - **(e)** This section shall take effect on January 1, 2009 .
+
+## Source Credit
+
+*([Pub. L. 109–479, title IV, § 408](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3634](https://www.govinfo.gov/link/statute/120/3634).)*

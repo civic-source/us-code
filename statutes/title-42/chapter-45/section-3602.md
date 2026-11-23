@@ -3,9 +3,10 @@ title: "Section 3602 - Definitions"
 usc_title: 42
 usc_section: "3602"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3602"
-generated_at: "2026-03-30T02:56:11.190Z"
+generated_at: "2026-11-23T21:26:32.581Z"
+status: "active"
 ---
 
 # § 3602. Definitions
@@ -36,3 +37,7 @@ As used in this subchapter—
   - **(1)** the person or other entity accused in a complaint of an unfair housing practice; and
   - **(2)** any other person or entity identified in the course of investigation and notified as required with respect to respondents so identified under section 3610(a) of this title .
 - **(o)** “Prevailing party” has the same meaning as such term has in section 1988 of this title .
+
+## Source Credit
+
+*([Pub. L. 90–284, title VIII, § 802](https://www.govinfo.gov/link/plaw/90/public/284), Apr. 11, 1968, [82 Stat. 81](https://www.govinfo.gov/link/statute/82/81); [Pub. L. 95–598, title III, § 331](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2679](https://www.govinfo.gov/link/statute/92/2679); [Pub. L. 100–430, § 5](https://www.govinfo.gov/link/plaw/100/public/430), Sept. 13, 1988, [102 Stat. 1619](https://www.govinfo.gov/link/statute/102/1619).)*

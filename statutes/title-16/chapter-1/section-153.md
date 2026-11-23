@@ -3,12 +3,17 @@ title: "Section 153 - Existing laws unaffected by admission of Oklahoma; rights 
 usc_title: 16
 usc_section: "153"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 153"
-generated_at: "2026-03-30T02:54:22.735Z"
+generated_at: "2026-11-23T21:25:51.383Z"
+status: "active"
 ---
 
 # § 153. Existing laws unaffected by admission of Oklahoma; rights and jurisdiction of United States; indemnity school lands
 
 Nothing in the Act of June 16, 1906 , chapter 3335, Thirty-fourth Statutes, page 267, entitled, “An Act to enable the people of Oklahoma and of the Indian Territory to form a constitution and State government and be admitted into the Union on an equal footing with the original States * * *”, shall repeal or affect any Act of Congress relating to the Sulphur Springs Reservation as defined on June 16, 1906 , or as may be thereafter defined or extended, or the power of the United States over it or any other lands embraced in the State hereafter set aside by Congress as a national park, game preserve, or for the preservation of objects of archaeological or ethnological interest; and nothing contained in said Act shall interfere with the rights and ownership of the United States in any land hereafter set aside by Congress as national park, game preserve, or other reservation, or in the said Sulphur Springs Reservation, as it was on June 16, 1906 , or may be defined or extended by law; but exclusive legislation, in all cases whatsoever, shall be exercised by the United States, which shall have exclusive control and jurisdiction over the same; but nothing in this section contained shall be construed to prevent the service within said Sulphur Springs Reservation or national parks, game preserves, and other reservations hereafter established by law, of civil and criminal processes lawfully issued by the authority of said State, and said State shall not be entitled to select indemnity school lands for the thirteenth, sixteenth, thirty-third, and thirty-sixth sections that may be embraced within the metes and bounds of the national park, game preserve, and other reservation or the said Sulphur Springs Reservation, as defined on June 16, 1906 , or may be thereafter defined.
 
+
+## Source Credit
+
+*(June 16, 1906, ch. 3335, § 7, [34 Stat. 272](https://www.govinfo.gov/link/statute/34/272); June 29, 1906, No. 42, [34 Stat. 837](https://www.govinfo.gov/link/statute/34/837); [Pub. L. 94–235, § 5](https://www.govinfo.gov/link/plaw/94/public/235), Mar. 17, 1976, [90 Stat. 236](https://www.govinfo.gov/link/statute/90/236).)*

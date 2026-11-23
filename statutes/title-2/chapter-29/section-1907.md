@@ -3,9 +3,10 @@ title: "Section 1907 - Transfer of disbursing function"
 usc_title: 2
 usc_section: "1907"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1907"
-generated_at: "2026-03-30T02:53:04.819Z"
+generated_at: "2026-11-23T21:25:21.253Z"
+status: "active"
 ---
 
 # § 1907. Transfer of disbursing function
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:53:04.819Z"
   - **(2)** All provisions of law inconsistent with this section are hereby superseded to the extent of the inconsistency.
 - **(h)**
 - **(i)** This section and the amendments made by this section shall take effect on February 20, 2003 , and shall apply to fiscal year 2003 and each fiscal year thereafter.
+
+## Source Credit
+
+*([Pub. L. 108–7, div. H, title I, § 1018](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 366](https://www.govinfo.gov/link/statute/117/366); [Pub. L. 111–145, § 2(a)(4)(A)](https://www.govinfo.gov/link/plaw/111/public/145), Mar. 4, 2010, [124 Stat. 49](https://www.govinfo.gov/link/statute/124/49); [Pub. L. 113–76, div. I, title I, § 1002(b)](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 424](https://www.govinfo.gov/link/statute/128/424).)*

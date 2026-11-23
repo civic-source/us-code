@@ -3,9 +3,10 @@ title: "Section 1514 - Remedies"
 usc_title: 33
 usc_section: "1514"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1514"
-generated_at: "2026-03-30T02:55:41.109Z"
+generated_at: "2026-11-23T21:26:11.409Z"
+status: "active"
 ---
 
 # § 1514. Remedies
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:41.109Z"
   - **(3)** Upon a request by the Secretary, the Attorney General shall commence a civil action for appropriate relief, including a permanent or temporary injunction or a civil penalty not to exceed $25,000 per day of such violation, for any violation for which the Secretary is authorized to issue a compliance order under paragraph (1) of this subsection. Any action under this subsection may be brought in the district court of the United States for the district in which the defendant is located or resides, or is doing business, and such court shall have jurisdiction to restrain such violation, require compliance, or impose such penalty.
 - **(c)** Upon a request by the Secretary, the Attorney General shall bring an action in an appropriate district court of the United States for equitable relief to redress a violation by any person of any provision of this chapter, any regulation under this chapter, or any license condition. The district courts of the United States shall have jurisdiction to grant such relief as is necessary or appropriate, including mandatory or prohibitive injunctive relief, interim equitable relief, compensatory damages, and punitive damages.
 - **(d)** Any vessel, except a public vessel engaged in noncommercial activities, used in a violation of this chapter or of any rule or regulation issued pursuant to this chapter, shall be liable in rem for any civil penalty assessed or criminal fine imposed and may be proceeded against in any district court of the United States having jurisdiction thereof; but no vessel shall be liable unless it shall appear that one or more of the owners, or bareboat charterers, was at the time of the violation, a consenting party or privy to such violation.
+
+## Source Credit
+
+*([Pub. L. 93–627, § 15](https://www.govinfo.gov/link/plaw/93/public/627), Jan. 3, 1975, [88 Stat. 2140](https://www.govinfo.gov/link/statute/88/2140); [Pub. L. 101–380, title IV, § 4302(m)](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 539](https://www.govinfo.gov/link/statute/104/539).)*

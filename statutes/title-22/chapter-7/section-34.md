@@ -3,9 +3,10 @@ title: "Section 34 - American-Mexican Boundary Treaty, authorization for carryin
 usc_title: 22
 usc_section: "34"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 34"
-generated_at: "2026-03-30T02:55:05.312Z"
+generated_at: "2026-11-23T21:25:58.348Z"
+status: "active"
 ---
 
 # § 277d–34. American-Mexican Boundary Treaty, authorization for carrying out treaty provisions; investigations; land acquisition, purposes; damages, repair or compensation
@@ -23,3 +24,7 @@ In connection with the treaty between the United States of America and the Unite
     - **(C)** to preserve the Rio Grande and the Colorado River as the boundary by preventing the construction of works which may cause deflection or obstruction of the normal flow of the rivers or of their floodflows; and
     - **(D)** for relocation of any structure or facility, public or private, the relocation of which, in the judgment of the Commissioner, is necessitated by the project; and
   - **(3)** to remove, modify, or repair the damages caused to Mexico by works constructed in the United States which the International Boundary and Water Commission, United States and Mexico, as determined have an adverse effect on Mexico, or to compensate Mexico for such damages.
+
+## Source Credit
+
+*([Pub. L. 92–549, title I, § 101](https://www.govinfo.gov/link/plaw/92/public/549), Oct. 25, 1972, [86 Stat. 1161](https://www.govinfo.gov/link/statute/86/1161).)*

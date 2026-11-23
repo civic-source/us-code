@@ -3,9 +3,10 @@ title: "Section 4316 - Rights, benefits, and obligations of persons absent from 
 usc_title: 38
 usc_section: "4316"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 4316"
-generated_at: "2026-03-30T02:55:53.518Z"
+generated_at: "2026-11-23T21:26:16.803Z"
+status: "active"
 ---
 
 # § 4316. Rights, benefits, and obligations of persons absent from employment for service in a uniformed service
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:53.518Z"
 - **(e)**
   - **(1)** An employer shall grant an employee who is a member of a reserve component an authorized leave of absence from a position of employment to allow that employee to perform funeral honors duty as authorized by section 12503 of title 10 or section 115 of title 32 .
   - **(2)** For purposes of section 4312(e)(1) of this title , an employee who takes an authorized leave of absence under paragraph (1) is deemed to have notified the employer of the employee’s intent to return to such position of employment.
+
+## Source Credit
+
+*(Added [Pub. L. 103–353, § 2(a)](https://www.govinfo.gov/link/plaw/103/public/353), Oct. 13, 1994, [108 Stat. 3160](https://www.govinfo.gov/link/statute/108/3160); amended [Pub. L. 104–275, title III, § 311(6)](https://www.govinfo.gov/link/plaw/104/public/275), Oct. 9, 1996, [110 Stat. 3335](https://www.govinfo.gov/link/statute/110/3335); [Pub. L. 106–419, title III, § 323(b)](https://www.govinfo.gov/link/plaw/106/public/419), Nov. 1, 2000, [114 Stat. 1855](https://www.govinfo.gov/link/statute/114/1855).)*

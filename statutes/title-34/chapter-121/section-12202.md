@@ -3,9 +3,10 @@ title: "Section 12202 - Emerging community development corporation revolving loa
 usc_title: 34
 usc_section: "12202"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 12202"
-generated_at: "2026-03-30T02:55:33.284Z"
+generated_at: "2026-11-23T21:26:09.732Z"
+status: "active"
 ---
 
 # § 12202. Emerging community development corporation revolving loan funds
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:33.284Z"
   - **(3)** Not to exceed 10 percent of the amounts received under this section by a grantee shall be used for training, technical assistance and administrative purposes.
 - **(d)** Proceeds derived from investments made with amounts provided under this section may be utilized only for the purposes described in this part and shall be reinvested in the community in which they were generated.
 - **(e)** Amounts provided under this section to a community development corporation shall not exceed $500,000 per year.
+
+## Source Credit
+
+*([Pub. L. 103–322, title III, § 31122](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1886](https://www.govinfo.gov/link/statute/108/1886).)*

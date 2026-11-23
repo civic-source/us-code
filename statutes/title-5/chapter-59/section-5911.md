@@ -3,9 +3,10 @@ title: "Section 5911 - Quarters and facilities; employees in the United States"
 usc_title: 5
 usc_section: "5911"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5911"
-generated_at: "2026-03-30T02:52:56.027Z"
+generated_at: "2026-11-23T21:25:23.302Z"
+status: "active"
 ---
 
 # § 5911. Quarters and facilities; employees in the United States
@@ -26,3 +27,106 @@ generated_at: "2026-03-30T02:52:56.027Z"
 - **(h)** A member of the uniformed service on a permanent change of duty station or temporary duty orders and occupying unaccompanied personnel housing—
   - **(1)** is exempt from the requirement of subsection (c) to pay a rental rate or charge based on the reasonable value of the quarters and facilities provided; and
   - **(2)** shall pay such lesser rate or charge as the Secretary of Defense establishes by regulation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| (a) | 5 U.S.C. 3121 . | Aug. 20, 1964 , Pub. L. 88–459, § 1 , 78 Stat. 557 . |
+| (b) | 5 U.S.C. 3122 . | Aug. 20, 1964 , Pub. L. 88–459, § 2 , 78 Stat. 557 . |
+| (c) | 5 U.S.C. 3123 . | Aug. 20, 1964 , Pub. L. 88–459, § 3 , 78 Stat. 557 . |
+| (d) | 5 U.S.C. 3124 . | Aug. 20, 1964 , Pub. L. 88–459, § 4 , 78 Stat. 557 . |
+| (e) | 5 U.S.C. 3125 . | Aug. 20, 1964 , Pub. L. 88–459, § 5 , 78 Stat. 557 . |
+| (f) | 5 U.S.C. 3126 . | Aug. 20, 1964 , Pub. L. 88–459, § 6 , 78 Stat. 558 . |
+| (g) | 5 U.S.C. 3127 . | Aug. 20, 1964 , Pub. L. 88–459, § 7 , 78 Stat. 558 . |
+
+
+Historical and Revision Notes
+
+(a)
+
+5 U.S.C. 3121
+
+Aug. 20, 1964
+
+Pub. L. 88–459, § 1
+
+78 Stat. 557
+
+(b)
+
+5 U.S.C. 3122
+
+Aug. 20, 1964
+
+Pub. L. 88–459, § 2
+
+78 Stat. 557
+
+(c)
+
+5 U.S.C. 3123
+
+Aug. 20, 1964
+
+Pub. L. 88–459, § 3
+
+78 Stat. 557
+
+(d)
+
+5 U.S.C. 3124
+
+Aug. 20, 1964
+
+Pub. L. 88–459, § 4
+
+78 Stat. 557
+
+(e)
+
+5 U.S.C. 3125
+
+Aug. 20, 1964
+
+Pub. L. 88–459, § 5
+
+78 Stat. 557
+
+(f)
+
+5 U.S.C. 3126
+
+Aug. 20, 1964
+
+Pub. L. 88–459, § 6
+
+78 Stat. 558
+
+(g)
+
+5 U.S.C. 3127
+
+Aug. 20, 1964
+
+Pub. L. 88–459, § 7
+
+78 Stat. 558
+
+Authority
+
+Temporary Exclusion of Certain Shipyard Employees.—
+
+In general
+
+Termination
+
+Briefings required.—
+
+In general
+
+Elements
+
+Limitation
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 508](https://www.govinfo.gov/link/statute/80/508); [Pub. L. 99–145, title VIII, § 809(c)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 681](https://www.govinfo.gov/link/statute/99/681).)*

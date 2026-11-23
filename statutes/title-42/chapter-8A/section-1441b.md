@@ -3,9 +3,10 @@ title: "Section 1441b - Plan for elimination of all substandard housing and real
 usc_title: 42
 usc_section: "1441b"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1441b"
-generated_at: "2026-03-30T02:56:11.093Z"
+generated_at: "2026-11-23T21:26:32.044Z"
+status: "active"
 ---
 
 # § 1441b. Plan for elimination of all substandard housing and realization of national housing goal; report by President to Congress
@@ -17,3 +18,7 @@ Not later than January 15, 1969 , the President shall make a report to the Congr
   - **(3)** provide an estimate of the cost of carrying out the plan for each of the various Federal programs and for each fiscal year during the ten-year period to the extent that such costs will be reflected in the Federal budget;
   - **(4)** make recommendations with respect to the legislative and administrative actions necessary or desirable to achieve the objectives of the plan; and
   - **(5)** provide such other pertinent data, estimates, and recommendations as the President deems advisable.
+
+## Source Credit
+
+*([Pub. L. 90–448, title XVI, § 1602](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 601](https://www.govinfo.gov/link/statute/82/601).)*

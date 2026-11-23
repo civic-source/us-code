@@ -3,9 +3,10 @@ title: "Section 1314a - Measurement and reporting of welfare receipt"
 usc_title: 42
 usc_section: "1314a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1314a"
-generated_at: "2026-03-30T02:56:10.904Z"
+generated_at: "2026-11-23T21:26:31.237Z"
+status: "active"
 ---
 
 # § 1314a. Measurement and reporting of welfare receipt
@@ -56,3 +57,7 @@ generated_at: "2026-03-30T02:56:10.904Z"
       - **(ii)** the duration of welfare receipt.
   - **(4)** The Secretary shall submit such a report not later than 3 years after October 31, 1994 , and annually thereafter, to the committees specified in subsection (b)(3). Each such report shall be transmitted during the first 60 days of each regular session of Congress.
 - **(e)** This section may be cited as the “Welfare Indicators Act of 1994”.
+
+## Source Credit
+
+*([Pub. L. 103–432, title II, § 232](https://www.govinfo.gov/link/plaw/103/public/432), Oct. 31, 1994, [108 Stat. 4462](https://www.govinfo.gov/link/statute/108/4462); [Pub. L. 105–200, title IV, § 410(h)](https://www.govinfo.gov/link/plaw/105/public/200), July 16, 1998, [112 Stat. 674](https://www.govinfo.gov/link/statute/112/674); [Pub. L. 110–234, title IV, § 4002(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/234), (B), (2)(X), May 22, 2008, [122 Stat. 1095–1097](https://www.govinfo.gov/link/statute/122/1095); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4002(b)(1)(A), (B), (2)(X), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1859.)*

@@ -3,9 +3,10 @@ title: "Section 3350a - Promoting efficient declassification review"
 usc_title: 50
 usc_section: "3350a"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3350a"
-generated_at: "2026-03-30T02:56:26.246Z"
+generated_at: "2026-11-23T21:26:39.040Z"
+status: "active"
 ---
 
 # § 3350a. Promoting efficient declassification review
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:26.246Z"
   - **(1)** makes a certification to Congress, including the congressional intelligence committees, the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, the Committee on Foreign Relations, the Committee on the Judiciary of the Senate, and the Committee on Armed Services, the Committee on Oversight and Accountability, the Committee on Foreign Affairs, and the Committee on the Judiciary of the House of Representatives, that the declassification of certain components within the record would be harmful to the protection of sources and methods or national security, pursuant to existing processes; and
   - **(2)** provides an explanation to Congress, including the congressional intelligence committees, the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, the Committee on Foreign Relations, the Committee on the Judiciary of the Senate, and the Committee on Armed Services, the Committee on Oversight and Accountability, the Committee on Foreign Affairs, and the Committee on the Judiciary of the House of Representatives, for such certification.
 - **(b)** Subsection (a) shall apply regardless of whether or not the record described in such subsection is in the legal custody of the National Archives and Records Administration.
+
+## Source Credit
+
+*([Pub. L. 118–31, div. G, title VI, § 7602](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1096](https://www.govinfo.gov/link/statute/137/1096).)*

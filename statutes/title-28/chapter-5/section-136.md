@@ -3,9 +3,10 @@ title: "Section 136 - Chief judges; precedence of district judges"
 usc_title: 28
 usc_section: "136"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 136"
-generated_at: "2026-03-30T02:55:30.124Z"
+generated_at: "2026-11-23T21:26:01.022Z"
+status: "active"
 ---
 
 # § 136. Chief judges; precedence of district judges
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:30.124Z"
 - **(c)** A judge whose commission extends over more than one district shall be junior to all district judges except in the district in which he resided at the time he entered upon the duties of his office.
 - **(d)** If the chief judge desires to be relieved of his duties as chief judge while retaining his active status as district judge, he may so certify to the Chief Justice of the United States, and thereafter, the chief judge of the district shall be such other district judge who is qualified to serve or act as chief judge under subsection (a).
 - **(e)** If a chief judge is temporarily unable to perform his duties as such, they shall be performed by the district judge in active service, present in the district and able and qualified to act, who is next in precedence.
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 897](https://www.govinfo.gov/link/statute/62/897); Oct. 31, 1951, ch. 655, § 37, [65 Stat. 723](https://www.govinfo.gov/link/statute/65/723); [Pub. L. 85–593, § 2](https://www.govinfo.gov/link/plaw/85/public/593), Aug. 6, 1958, [72 Stat. 497](https://www.govinfo.gov/link/statute/72/497); [Pub. L. 97–164, title II, § 202](https://www.govinfo.gov/link/plaw/97/public/164), Apr. 2, 1982, [96 Stat. 52](https://www.govinfo.gov/link/statute/96/52).)*

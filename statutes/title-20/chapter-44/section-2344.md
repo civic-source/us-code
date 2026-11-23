@@ -3,9 +3,10 @@ title: "Section 2344 - State leadership activities"
 usc_title: 20
 usc_section: "2344"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 2344"
-generated_at: "2026-03-30T02:54:48.175Z"
+generated_at: "2026-11-23T21:25:47.384Z"
+status: "active"
 ---
 
 # § 2344. State leadership activities
@@ -65,3 +66,7 @@ generated_at: "2026-03-30T02:54:48.175Z"
   - **(24)** support for career academies to implement a postsecondary education and workforce-ready curriculum at the secondary education level that integrates rigorous academic, technical, and employability contents through career and technical education programs and programs of study that address needs described in the comprehensive needs assessment under section 2354(c) of this title ; and
   - **(25)** other State leadership activities that improve career and technical education.
 - **(c)** An eligible agency that receives funds under section 2322(a)(2) of this title may not use any of such funds for administrative costs, unless expressly authorized under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 88–210, title I, § 124](https://www.govinfo.gov/link/plaw/88/public/210), as added [Pub. L. 109–270, § 1(b)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 723](https://www.govinfo.gov/link/statute/120/723); amended [Pub. L. 113–128, title V, § 512(e)(4)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1707](https://www.govinfo.gov/link/statute/128/1707); [Pub. L. 114–95, title IX, § 9215(n)(7)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2170](https://www.govinfo.gov/link/statute/129/2170); [Pub. L. 115–224, title I, § 124](https://www.govinfo.gov/link/plaw/115/public/224), July 31, 2018, [132 Stat. 1608](https://www.govinfo.gov/link/statute/132/1608).)*

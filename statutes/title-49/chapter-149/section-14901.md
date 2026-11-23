@@ -3,9 +3,10 @@ title: "Section 14901 - General civil penalties"
 usc_title: 49
 usc_section: "14901"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 14901"
-generated_at: "2026-03-30T02:56:19.332Z"
+generated_at: "2026-11-23T21:26:40.695Z"
+status: "active"
 ---
 
 # § 14901. General civil penalties
@@ -34,3 +35,45 @@ generated_at: "2026-03-30T02:56:19.332Z"
   - **(1)** Any business entertainment expense incurred by a water carrier providing transportation subject to this part shall not constitute a violation of this part if that expense would not be unlawful if incurred by a person not subject to this part.
   - **(2)** Any business entertainment expense subject to paragraph (1) that is paid or incurred by a water carrier providing transportation subject to this part shall not be taken into account in determining the cost of service or the rate base for purposes of section 13702.
 - **(h)** Nothing in this section shall be construed to prohibit the Secretary from accepting partial payment of a civil penalty as part of a settlement agreement in the public interest, or from holding imposition of any part of a civil penalty in abeyance.
+
+Reporting and Recordkeeping
+
+Transportation of Hazardous Wastes
+
+Factors To Consider in Determining Amount
+
+Protection of Household Goods Shippers
+
+In general
+
+Estimate of broker without carrier agreement
+
+Unauthorized transportation
+
+Violation Relating to Transportation of Household Goods
+
+Venue
+
+Business Entertainment Expenses.—
+
+In general
+
+Cost of service
+
+Settlement of Civil Penalties
+
+General Rule
+
+Penalty for Intentional Violation
+
+Penalty for Pattern of Intentional Violations
+
+Leasing
+
+Savings Clause
+
+Acts of Employees
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 913](https://www.govinfo.gov/link/statute/109/913); amended [Pub. L. 109–59, title IV, § 4209](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1758](https://www.govinfo.gov/link/statute/119/1758); [Pub. L. 112–141, div. C, title II](https://www.govinfo.gov/link/plaw/112/public/141), §§ 32108, 32923(a), July 6, 2012, [126 Stat. 782](https://www.govinfo.gov/link/statute/126/782), 828; [Pub. L. 114–94, div. A, title V, § 5508(a)(4)](https://www.govinfo.gov/link/plaw/114/public/94), (b)(1), Dec. 4, 2015, [129 Stat. 1554](https://www.govinfo.gov/link/statute/129/1554).)*

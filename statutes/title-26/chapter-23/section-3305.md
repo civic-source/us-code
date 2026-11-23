@@ -3,9 +3,10 @@ title: "Section 3305 - Applicability of State law"
 usc_title: 26
 usc_section: "3305"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 3305"
-generated_at: "2026-03-30T02:55:27.793Z"
+generated_at: "2026-11-23T21:26:06.576Z"
+status: "active"
 ---
 
 # § 3305. Applicability of State law
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:27.793Z"
   - **(2)** require general agents of the Secretary of Transportation to make contributions under such temporary disability insurance law and to make such deductions from wages or remuneration as are required by such unemployment compensation or temporary disability insurance law.
 - **(i)** Each general agent of the Secretary of Transportation making contributions pursuant to subsection (g) or (h) shall, for purposes of such subsections, be considered a legal entity in his capacity as an instrumentality of the United States, separate and distinct from his identity as a person employing individuals on his own account.
 - **(j)** Any person required, pursuant to the permission granted by this section, to make contributions to an unemployment fund under a State unemployment compensation law approved by the Secretary of Labor under section 3304 shall not be entitled to the credits permitted, with respect to the unemployment compensation law of a State, by subsections (a) and (b) of section 3302 against the tax imposed by section 3301 for any taxable year if, on October 31 of such taxable year, the Secretary of Labor certifies to the Secretary of the Treasury his finding, after reasonable notice and opportunity for hearing to the State agency, that the unemployment compensation law of such State is inconsistent with any one or more of the conditions on the basis of which such permission is granted or that, in the application of the State law with respect to the 12-month period ending on such October 31, there has been a substantial failure to comply with any one or more of such conditions. For purposes of section 3310, a finding of the Secretary of Labor under this subsection shall be treated as a finding under section 3304(c).
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 445; Sept. 1, 1954, ch. 1212, § 4(c), [68 Stat. 1135](https://www.govinfo.gov/link/statute/68/1135); [Pub. L. 86–778, title V, § 531(a)](https://www.govinfo.gov/link/plaw/86/public/778), (b), Sept. 13, 1960, [74 Stat. 983](https://www.govinfo.gov/link/statute/74/983); [Pub. L. 91–373, title I, § 123](https://www.govinfo.gov/link/plaw/91/public/373), Aug. 10, 1970, [84 Stat. 702](https://www.govinfo.gov/link/statute/84/702); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1903(a)(15), 1906(b)(13)(C), Oct. 4, 1976, [90 Stat. 1809](https://www.govinfo.gov/link/statute/90/1809), 1834; [Pub. L. 114–92, div. C, title XXXV, § 3503](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1219](https://www.govinfo.gov/link/statute/129/1219).)*

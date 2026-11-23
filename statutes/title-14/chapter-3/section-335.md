@@ -3,9 +3,10 @@ title: "Section 335 - Environmental Compliance and Restoration Program"
 usc_title: 14
 usc_section: "335"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 335"
-generated_at: "2026-03-30T02:53:51.488Z"
+generated_at: "2026-11-23T21:25:35.360Z"
+status: "active"
 ---
 
 # § 335. Environmental Compliance and Restoration Program
@@ -36,3 +37,15 @@ generated_at: "2026-03-30T02:53:51.488Z"
   - **(3)** In proposing the budget for any fiscal year under section 1105 of title 31 , the President shall set forth separately the amount requested for the Coast Guard’s environmental compliance and restoration activities under this section or another law.
   - **(4)** Amounts recovered under section 107 of the Comprehensive Environmental Response, Compensation, and Liability Act ( 42 U.S.C. 9607 ) for the Secretary’s response actions at current and former Coast Guard facilities shall be credited to an appropriate Coast Guard account, as determined by the Commandant.
 - **(d)** The Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a prioritized list of projects eligible for environmental compliance and restoration funding for each fiscal year concurrent with the President’s budget submission for that fiscal year.
+
+Definitions
+
+Program.—
+
+Amounts Recovered for Response Actions.—
+
+Annual List of Projects to Congress
+
+## Source Credit
+
+*(Added [Pub. L. 115–282, title I, § 104(c)(1)(B)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4198](https://www.govinfo.gov/link/statute/132/4198), § 318; renumbered § 335, [Pub. L. 119–60, div. G, title LXXII, § 7201(b)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1675](https://www.govinfo.gov/link/statute/139/1675).)*

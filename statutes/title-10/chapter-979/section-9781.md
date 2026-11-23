@@ -3,9 +3,10 @@ title: "Section 9781 - Disposition of real property at missile sites"
 usc_title: 10
 usc_section: "9781"
 chapter: 979
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 9781"
-generated_at: "2026-03-30T02:53:38.262Z"
+generated_at: "2026-11-23T21:25:33.017Z"
+status: "active"
 ---
 
 # § 9781. Disposition of real property at missile sites
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:53:38.262Z"
 - **(e)** The disposition of a tract of land under this section to any person shall be subject to (1) any easement retained by the Secretary of the Air Force with respect to such tract, and (2) such additional terms and conditions as the Administrator considers necessary or appropriate to protect the interests of the United States.
 - **(f)** The exact acreage and legal description of any tract of land to be conveyed under this section shall be determined in any manner that is satisfactory to the Administrator. The cost of any survey conducted for the purpose of this subsection in the case of any tract of land shall be borne by the person or persons to whom the conveyance of such tract of land is made.
 - **(g)** If any real property interest of the United States described in subsection (a) is not purchased under the procedures provided in subsections (a) through (f), such tract may be disposed of only in accordance with subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
+
+## Source Credit
+
+*(Added [Pub. L. 100–180, div. B](https://www.govinfo.gov/link/plaw/100/public/180), subdiv. 3, title II, § 2325(a), Dec. 4, 1987, [101 Stat. 1220](https://www.govinfo.gov/link/statute/101/1220); amended [Pub. L. 103–160, div. B, title XXVIII, § 2851](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1906](https://www.govinfo.gov/link/statute/107/1906); [Pub. L. 107–217, § 3(b)(40)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1298](https://www.govinfo.gov/link/statute/116/1298); [Pub. L. 108–178, § 4(b)(7)](https://www.govinfo.gov/link/plaw/108/public/178), Dec. 15, 2003, [117 Stat. 2641](https://www.govinfo.gov/link/statute/117/2641); [Pub. L. 111–350, § 5(b)(55)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3847](https://www.govinfo.gov/link/statute/124/3847); [Pub. L. 116–283, div. A, title IX, § 923(e)(20)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3819](https://www.govinfo.gov/link/statute/134/3819).)*

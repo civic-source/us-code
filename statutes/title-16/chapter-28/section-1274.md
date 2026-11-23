@@ -3,9 +3,10 @@ title: "Section 1274 - Component rivers and adjacent lands"
 usc_title: 16
 usc_section: "1274"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1274"
-generated_at: "2026-03-30T02:54:22.947Z"
+generated_at: "2026-11-23T21:25:51.845Z"
+status: "active"
 ---
 
 # § 1274. Component rivers and adjacent lands
@@ -953,3 +954,869 @@ generated_at: "2026-03-30T02:54:22.947Z"
 - **(d)**
   - **(1)** For rivers designated on or after January 1, 1986 , the Federal agency charged with the administration of each component of the National Wild and Scenic Rivers System shall prepare a comprehensive management plan for such river segment to provide for the protection of the river values. The plan shall address resource protection, development of lands and facilities, user capacities, and other management practices necessary or desirable to achieve the purposes of this chapter. The plan shall be coordinated with and may be incorporated into resource management planning for affected adjacent Federal lands. The plan shall be prepared, after consultation with State and local governments and the interested public within 3 full fiscal years after the date of designation. Notice of the completion and availability of such plans shall be published in the Federal Register.
   - **(2)** For rivers designated before January 1, 1986 , all boundaries, classifications, and plans shall be reviewed for conformity within the requirements of this subsection within 10 years through regular agency planning processes.
+
+Clearwater, Middle Fork, Idaho
+
+Eleventh Point, Missouri
+
+Feather, California
+
+Rio Grande, New Mexico
+
+Rogue, oregon.—
+
+In general
+
+Additions
+
+Kelsey creek
+
+East fork kelsey creek.—
+
+Scenic river
+
+Wild river
+
+Whisky creek.—
+
+Recreational river
+
+Wild river
+
+East fork whisky creek.—
+
+Scenic river
+
+Wild river
+
+Recreational river
+
+West fork whisky creek
+
+Big windy creek.—
+
+Scenic river
+
+Wild river
+
+East fork big windy creek.—
+
+Scenic river
+
+Wild river
+
+Little windy creek.—
+
+Scenic river
+
+Wild river
+
+Howard creek.—
+
+Scenic river
+
+Wild river
+
+Wild river
+
+Mule creek.—
+
+Scenic river
+
+Wild river
+
+Missouri creek.—
+
+Scenic river
+
+Wild river
+
+Jenny creek.—
+
+Scenic river
+
+Wild river
+
+Rum creek.—
+
+Scenic river
+
+Wild river
+
+East fork rum creek.—
+
+Scenic river
+
+Wild river
+
+Wildcat creek
+
+Montgomery creek
+
+Hewitt creek.—
+
+Scenic river
+
+Wild river
+
+Bunker creek
+
+Dulog creek.—
+
+Scenic river
+
+Wild river
+
+Quail creek
+
+Meadow creek
+
+Russian creek
+
+Alder creek
+
+Booze creek
+
+Bronco creek
+
+Copsey creek
+
+Corral creek
+
+Cowley creek
+
+Ditch creek
+
+Francis creek
+
+Long gulch.—
+
+Scenic river
+
+Wild river
+
+Bailey creek.—
+
+Scenic river
+
+Wild river
+
+Shady creek
+
+Slide creek.—
+
+Scenic river
+
+Wild river
+
+Saint Croix, Minnesota and Wisconsin
+
+Salmon, Middle Fork, Idaho
+
+Wolf, Wisconsin
+
+Lower Saint Croix, Minnesota and Wisconsin
+
+Chattooga, North Carolina, South Carolina, Georgia
+
+Rapid River, Idaho
+
+Snake, Idaho and Oregon
+
+Flathead, Montana
+
+Missouri, Montana
+
+Obed, Tennessee
+
+Pere Marquette, Michigan
+
+Rio Grande, Texas
+
+Skagit, Washington
+
+Upper Delaware River, New York and Pennsylvania
+
+Delaware, New York, Pennsylvania, and New Jersey
+
+American, California
+
+Missouri River, Nebraska, South Dakota
+
+Saint Joe, Idaho
+
+Salmon, Idaho
+
+Alagnak, Alaska
+
+Alatna, Alaska
+
+Aniakchak, Alaska
+
+Charley, Alaska
+
+Chilikadrotna, Alaska
+
+John, Alaska
+
+Mulchatna, Alaska
+
+Noatak, Alaska
+
+North Fork of the Koyukuk, Alaska
+
+Salmon, Alaska
+
+Tinayguk, Alaska
+
+Tlikakila, Alaska
+
+Andreafsky, Alaska
+
+Ivishak, Alaska
+
+Nowitna, Alaska
+
+Selawik, Alaska
+
+Sheenjek, Alaska
+
+Wind, Alaska
+
+Alagnak, Alaska
+
+Beaver Creek, Alaska
+
+Birch Creek, Alaska
+
+Delta, Alaska
+
+Fortymile, Alaska
+
+Gulkana, Alaska
+
+Unalakleet, Alaska
+
+Verde, Arizona
+
+Au Sable, Michigan
+
+Tuolumne, California
+
+Illinois, Oregon
+
+Owyhee, Oregon
+
+Horsepasture, North Carolina
+
+Cache la Poudre, Colorado
+
+Saline Bayou, Louisiana
+
+Black Creek, Mississippi
+
+Klickitat, Washington
+
+White Salmon, Washington
+
+Merced, California
+
+Kings, California
+
+North Fork Kern River, California
+
+South Fork Kern River, California
+
+Bluestone, West Virginia
+
+Sipsey Fork of the West Fork, Alabama
+
+(1) Sipsey Fork from the confluence of Sandy Creek upstream to Forest Highway 26, as a scenic river; and
+
+(2) Sipsey Fork from Forest Highway 26 upstream to it 3 3 So in original. Probably should be “its”. origin at the confluence of Thompson Creek and Hubbard Creek, as a wild river; and
+
+(3) Hubbard Creek from its confluence with Thompson Creek upstream to Forest Road 210, as a wild river; and
+
+(4) Thompson Creek from its confluence with Hubbard Creek upstream to its origin in section 4, township 8 south, range 9 west, as a wild river; and
+
+(5) Tedford Creek from its confluence with Thompson Creek upstream to section 17, township 8 south, range 9 west, as a wild river; and
+
+(6) Mattox Creek from it confluence with Thompson Creek upstream to section 36 of township 7 south, range 9 west, as a wild river; and
+
+(7) Borden Creek from its confluence with the Sipsey Fork upstream to Forest Road 208, as a wild river; and
+
+(8) Borden Creek from Forest Road 208 upstream to its confluence with Montgomery Creek, as a scenic river; and
+
+(9) Montgomery Creek from its confluence with Borden Creek upstream to the southwest quarter of the southwest quarter of section 36, township 7 south, range 8 west, as a scenic river; and
+
+(10) Flannigan Creek from its confluence with Borden Creek upstream to Forest Road 208, as a wild river; and
+
+(11) Flannigan Creek from Forest Road 208 upstream to section 4, township 8 south, range 8 west, as a scenic river; and
+
+(12) Braziel Creek from its confluence with Borden Creek upstream to section 12, township 8 south, range 9 west, as a wild river; and
+
+(13) Hogood Creek from its confluence with Braziel Creek upstream to the confluence with an unnamed tributary in section 7, township 8 south, range 8 west, as a wild river.
+
+Wildcat River, New Hampshire
+
+Big Marsh Creek, Oregon
+
+Chetco, Oregon.—
+
+Designations
+
+Withdrawal
+
+Clackamas, Oregon
+
+Crescent Creek, Oregon
+
+Crooked, oregon.—
+
+In general
+
+Hydropower
+
+Deschutes, Oregon
+
+Donner und Blitzen, Oregon
+
+Eagle Creek, Oregon
+
+Elk, oregon
+
+Mainstem
+
+North fork.—
+
+Scenic river
+
+Wild river
+
+South fork.—
+
+Scenic river
+
+Wild river
+
+Other tributaries.—
+
+Rock creek
+
+Bald mountain creek
+
+South fork bald mountain creek
+
+Platinum creek
+
+Panther creek
+
+East fork panther creek
+
+West fork panther creek
+
+Lost creek
+
+Milbury creek
+
+Blackberry creek
+
+East fork blackberry creek
+
+Mccurdy creek
+
+Bear creek
+
+Butler creek
+
+East fork butler creek
+
+Purple mountain creek
+
+Grande Ronde, Oregon
+
+Imnaha, Oregon
+
+John Day, Oregon
+
+Joseph Creek, Oregon
+
+Little Deschutes, Oregon
+
+Lostine, Oregon
+
+Malheur, Oregon
+
+McKenzie, Oregon
+
+Metolius, Oregon
+
+Minam, Oregon
+
+North Fork Crooked, Oregon
+
+North Fork John Day, Oregon
+
+North Fork Malheur, Oregon
+
+North Fork of the Middle Fork of the Willamette, Oregon
+
+North Fork Owyhee, Oregon
+
+North Fork Smith, Oregon
+
+North Fork Sprague, Oregon
+
+North Powder, Oregon
+
+North Umpqua, Oregon
+
+Powder, Oregon
+
+Quartzville Creek, Oregon
+
+Roaring, Oregon
+
+Salmon, Oregon
+
+Sandy, Oregon
+
+South Fork John Day, Oregon
+
+Whychus Creek, Oregon.—
+
+Designations
+
+Withdrawal
+
+Sycan, Oregon
+
+Upper Rogue, Oregon
+
+Wenaha, Oregon
+
+West Little Owyhee, Oregon
+
+White, Oregon
+
+Rio Chama, New Mexico
+
+East Fork of Jemez, New Mexico
+
+Pecos River, New Mexico
+
+Smith River, California
+
+Middle Fork Smith River, California
+
+North Fork Smith River, California
+
+Siskiyou Fork Smith River, California
+
+South Fork Smith River, California
+
+Clarks Fork, Wyoming
+
+Niobrara, Nebraska
+
+Missouri River, Nebraska and South Dakota
+
+Bear Creek, Michigan
+
+Black, Michigan
+
+Carp, Michigan
+
+Indian, Michigan
+
+Manistee, Michigan
+
+Ontonagon, Michigan
+
+Paint, Michigan
+
+Pine, Michigan
+
+Presque Isle, Michigan
+
+Sturgeon, Hiawatha National Forest, Michigan
+
+Sturgeon, Ottawa National Forest, Michigan
+
+East Branch of the Tahquamenon, Michigan
+
+Whitefish, Michigan
+
+Yellow Dog, Michigan
+
+Allegheny, Pennsylvania
+
+Big Piney Creek, Arkansas
+
+Buffalo River, Arkansas
+
+Cossatot River, Arkansas
+
+Hurricane Creek, Arkansas
+
+Little Missouri River, Arkansas
+
+Mulberry River, Arkansas
+
+North Sylamore Creek, Arkansas
+
+Richland Creek, Arkansas
+
+Sespe Creek, California
+
+Sisquoc River, California
+
+Big Sur River, California
+
+Great Egg Harbor, New Jersey
+
+The Maurice River, Middle Segment
+
+The Maurice River, Middle Segment
+
+The Maurice River, Upper Segment
+
+The Menantico Creek, Lower Segment
+
+The Menantico Creek, Upper Segment
+
+Manumuskin River, Lower Segment
+
+Manumuskin River, Upper Segment
+
+Muskee Creek, New Jersey
+
+Red River, Kentucky
+
+Rio Grande, New Mexico
+
+Farmington River, Connecticut
+
+Clarion river, pennsylvania
+
+Lamprey River, New Hampshire
+
+Elkhorn Creek
+
+Sudbury, Assabet, and Concord Rivers, Massachusetts
+
+Wilson Creek, North Carolina
+
+Wekiva River, Wekiwa Springs Run, Rock Springs Run, and Black Water Creek, Florida
+
+Wekiva river and wekiwa springs run
+
+Rock springs run
+
+Black water creek
+
+White Clay Creek, Delaware and Pennsylvania
+
+Wildhorse and Kiger Creeks, Oregon
+
+Lower delaware river and associated tributaries, new jersey and pennsylvania
+
+Administration
+
+Rivers of Caribbean National Forest, Puerto Rico.—
+
+Rio mameyes
+
+Rio de la mina
+
+Rio icacos
+
+White Salmon River, Washington
+
+Black Butte River, California
+
+Musconetcong river, new jersey.—
+
+Designation
+
+Administration
+
+Eightmile River, Connecticut
+
+South fork clackamas river, oregon
+
+Eagle creek, oregon
+
+Middle fork hood river
+
+South fork roaring river, oregon
+
+Zig zag river, oregon
+
+Fifteenmile creek, oregon.—
+
+In general
+
+Inclusions
+
+East fork hood river, oregon
+
+Collawash river, oregon
+
+Fish creek, oregon
+
+Battle creek, idaho
+
+Big jacks creek, idaho
+
+Bruneau river, idaho.—
+
+In general
+
+Exception
+
+West fork bruneau river, idaho
+
+Cottonwood creek, idaho
+
+Deep creek, idaho
+
+Dickshooter creek, idaho
+
+Duncan creek, idaho
+
+Jarbidge river, idaho
+
+Little jacks creek, idaho
+
+North fork owyhee river, idaho
+
+Owyhee river, idaho.—
+
+In general
+
+Access
+
+Red canyon, idaho
+
+Sheep creek, idaho
+
+South fork owyhee river, idaho.—
+
+In general
+
+Exception
+
+Wickahoney creek, idaho
+
+Amargosa river, california
+
+Owens river headwaters, california
+
+Cottonwood creek, california
+
+Piru creek, california
+
+North Fork San Jacinto River, California
+
+Fuller Mill Creek, California
+
+Palm Canyon Creek, California
+
+Bautista Creek, California
+
+Zion national park, utah
+
+Taylor creek
+
+North fork of taylor creek
+
+Middle fork of taylor creek
+
+South fork of taylor creek
+
+Timber creek and tributaries
+
+Laverkin creek
+
+Willis creek
+
+Beartrap canyon
+
+Hop valley creek
+
+Current creek
+
+Cane creek
+
+Smith creek
+
+North creek left and right forks
+
+Wildcat canyon (blue creek)
+
+Little creek
+
+Russell gulch
+
+Grapevine wash
+
+Pine spring wash
+
+Wolf springs wash
+
+Kolob creek
+
+Oak creek
+
+Goose creek
+
+Deep creek
+
+North fork of the virgin river
+
+North fork of the virgin river
+
+Imlay canyon
+
+Orderville canyon
+
+Mystery canyon
+
+Echo canyon
+
+Behunin canyon
+
+Heaps canyon
+
+Birch creek
+
+Oak creek
+
+Oak creek
+
+Clear creek
+
+Pine creek
+
+Pine creek
+
+East fork of the virgin river
+
+Shunes creek
+
+Fossil creek, arizona
+
+Snake river headwaters, wyoming
+
+Bailey creek
+
+Blackrock creek
+
+Buffalo fork of the snake river
+
+Crystal creek
+
+Granite creek
+
+Gros ventre river
+
+Hoback river
+
+Lewis river
+
+Pacific creek
+
+Shoal creek
+
+Snake river
+
+Willow creek
+
+Wolf creek
+
+Taunton river, massachusetts
+
+River styx, oregon
+
+Middle fork snoqualmie, washington
+
+Pratt river, washington
+
+Illabot creek, washington.—
+
+Missisquoi river and trout river, vermont
+
+East rosebud creek, montana
+
+Franklin creek, oregon
+
+Wasson creek, oregon
+
+Molalla river, oregon.—
+
+In general
+
+Molalla river
+
+Table rock fork molalla river
+
+Withdrawal
+
+Nestucca river, oregon
+
+Walker creek, oregon
+
+North fork silver creek, oregon
+
+Jenny creek, oregon
+
+Spring creek, oregon
+
+Lobster creek, oregon
+
+Elk creek, oregon
+
+Green river
+
+Wild river segment
+
+Recreational river segment
+
+Scenic river segment
+
+Lower farmington river and salmon brook, connecticut
+
+Wood-pawcatuck watershed, rhode island and connecticut
+
+Nashua, squannacook, and nissitissit wild and scenic rivers, massachusetts and new hampshire.—
+
+Exclusion areas
+
+Surprise canyon creek, california.—
+
+In general
+
+Effect on historic mining structures
+
+Deep creek, california.—
+
+In general
+
+Effect on ski operations
+
+Whitewater river, california
+
+York river, maine
+
+Housatonic river, connecticut.—
+
+In general
+
+Effects on hydroelectric facilities
+
+Crooked, Oregon
+
+## Source Credit
+
+*([Pub. L. 90–542, § 3](https://www.govinfo.gov/link/plaw/90/public/542), Oct. 2, 1968, [82 Stat. 907](https://www.govinfo.gov/link/statute/82/907); [Pub. L. 92–560, § 2](https://www.govinfo.gov/link/plaw/92/public/560), Oct. 25, 1972, [86 Stat. 1174](https://www.govinfo.gov/link/statute/86/1174); [Pub. L. 93–279, § 1(a)](https://www.govinfo.gov/link/plaw/93/public/279), May 10, 1974, [88 Stat. 122](https://www.govinfo.gov/link/statute/88/122); [Pub. L. 94–199, § 3(a)](https://www.govinfo.gov/link/plaw/94/public/199), Dec. 31, 1975, [89 Stat. 1117](https://www.govinfo.gov/link/statute/89/1117); [Pub. L. 94–486, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/486), title II, § 201, title III, § 301, title VI, § 601, Oct. 12, 1976, [90 Stat. 2327](https://www.govinfo.gov/link/statute/90/2327), 2329, 2330; [Pub. L. 95–625, title VII](https://www.govinfo.gov/link/plaw/95/public/625), §§ 701–704(a), 705–708, 755, 763(a), Nov. 10, 1978, [92 Stat. 3521–3523](https://www.govinfo.gov/link/statute/92/3521), 3527–3529, 3533; [Pub. L. 96–87, title IV, § 401(p)(1)](https://www.govinfo.gov/link/plaw/96/public/87), Oct. 12, 1979, [93 Stat. 666](https://www.govinfo.gov/link/statute/93/666); [Pub. L. 96–312, § 9(a)](https://www.govinfo.gov/link/plaw/96/public/312), July 23, 1980, [94 Stat. 952](https://www.govinfo.gov/link/statute/94/952); [Pub. L. 96–344, § 16](https://www.govinfo.gov/link/plaw/96/public/344), Sept. 8, 1980, [94 Stat. 1137](https://www.govinfo.gov/link/statute/94/1137); [Pub. L. 96–487, title VI](https://www.govinfo.gov/link/plaw/96/public/487), §§ 601–603, Dec. 2, 1980, [94 Stat. 2412–2414](https://www.govinfo.gov/link/statute/94/2412); [Pub. L. 96–580](https://www.govinfo.gov/link/plaw/96/public/580), Dec. 23, 1980, [94 Stat. 3370](https://www.govinfo.gov/link/statute/94/3370); [Pub. L. 98–231, § 1](https://www.govinfo.gov/link/plaw/98/public/231), Mar. 14, 1984, [98 Stat. 60](https://www.govinfo.gov/link/statute/98/60); [Pub. L. 98–406, title I, § 104](https://www.govinfo.gov/link/plaw/98/public/406), Aug. 28, 1984, [98 Stat. 1491](https://www.govinfo.gov/link/statute/98/1491); [Pub. L. 98–425, title II, § 201](https://www.govinfo.gov/link/plaw/98/public/425), Sept. 28, 1984, [98 Stat. 1632](https://www.govinfo.gov/link/statute/98/1632); [Pub. L. 98–444](https://www.govinfo.gov/link/plaw/98/public/444), Oct. 4, 1984, [98 Stat. 1714](https://www.govinfo.gov/link/statute/98/1714); [Pub. L. 98–494, § 1](https://www.govinfo.gov/link/plaw/98/public/494), Oct. 19, 1984, [98 Stat. 2274](https://www.govinfo.gov/link/statute/98/2274); [Pub. L. 99–530, § 1](https://www.govinfo.gov/link/plaw/99/public/530), Oct. 27, 1986, [100 Stat. 3021](https://www.govinfo.gov/link/statute/100/3021); [Pub. L. 99–590, title I, § 101](https://www.govinfo.gov/link/plaw/99/public/590), title IV, § 401, title V, § 501, title VI, § 601, Oct. 30, 1986, [100 Stat. 3330](https://www.govinfo.gov/link/statute/100/3330), 3334, 3337; [Pub. L. 99–663, § 13(c)](https://www.govinfo.gov/link/plaw/99/public/663), Nov. 17, 1986, [100 Stat. 4294](https://www.govinfo.gov/link/statute/100/4294); [Pub. L. 100–149, § 1](https://www.govinfo.gov/link/plaw/100/public/149), Nov. 2, 1987, [101 Stat. 879](https://www.govinfo.gov/link/statute/101/879); [Pub. L. 100–150, § 1](https://www.govinfo.gov/link/plaw/100/public/150), Nov. 3, 1987, [101 Stat. 881](https://www.govinfo.gov/link/statute/101/881); [Pub. L. 100–174](https://www.govinfo.gov/link/plaw/100/public/174), Nov. 24, 1987, [101 Stat. 924](https://www.govinfo.gov/link/statute/101/924); [Pub. L. 100–534, title III, § 301](https://www.govinfo.gov/link/plaw/100/public/534), title V, § 501, Oct. 26, 1988, [102 Stat. 2706](https://www.govinfo.gov/link/statute/102/2706), 2708; [Pub. L. 100–547, title I, § 101](https://www.govinfo.gov/link/plaw/100/public/547), Oct. 28, 1988, [102 Stat. 2736](https://www.govinfo.gov/link/statute/102/2736); [Pub. L. 100–554, § 1](https://www.govinfo.gov/link/plaw/100/public/554), Oct. 28, 1988, [102 Stat. 2776](https://www.govinfo.gov/link/statute/102/2776); [Pub. L. 100–557, title I, § 102](https://www.govinfo.gov/link/plaw/100/public/557), Oct. 28, 1988, [102 Stat. 2782](https://www.govinfo.gov/link/statute/102/2782); [Pub. L. 100–633, § 1](https://www.govinfo.gov/link/plaw/100/public/633), Nov. 7, 1988, [102 Stat. 3320](https://www.govinfo.gov/link/statute/102/3320); [Pub. L. 100–668, title V, § 501](https://www.govinfo.gov/link/plaw/100/public/668), Nov. 16, 1988, [102 Stat. 3967](https://www.govinfo.gov/link/statute/102/3967); [Pub. L. 101–40, § 2(a)](https://www.govinfo.gov/link/plaw/101/public/40), June 20, 1989, [103 Stat. 81](https://www.govinfo.gov/link/statute/103/81); [Pub. L. 101–306, § 2](https://www.govinfo.gov/link/plaw/101/public/306), June 6, 1990, [104 Stat. 260](https://www.govinfo.gov/link/statute/104/260); [Pub. L. 101–612, § 10(b)](https://www.govinfo.gov/link/plaw/101/public/612), Nov. 16, 1990, [104 Stat. 3215](https://www.govinfo.gov/link/statute/104/3215); [Pub. L. 101–628, title XIII, § 1302](https://www.govinfo.gov/link/plaw/101/public/628), Nov. 28, 1990, [104 Stat. 4509](https://www.govinfo.gov/link/statute/104/4509); [Pub. L. 102–50, § 2](https://www.govinfo.gov/link/plaw/102/public/50), May 24, 1991, [105 Stat. 254](https://www.govinfo.gov/link/statute/105/254); [Pub. L. 102–249, § 3](https://www.govinfo.gov/link/plaw/102/public/249), Mar. 3, 1992, [106 Stat. 45](https://www.govinfo.gov/link/statute/106/45); [Pub. L. 102–271, § 1](https://www.govinfo.gov/link/plaw/102/public/271), Apr. 20, 1992, [106 Stat. 108](https://www.govinfo.gov/link/statute/106/108); [Pub. L. 102–275, § 2](https://www.govinfo.gov/link/plaw/102/public/275), Apr. 22, 1992, [106 Stat. 123](https://www.govinfo.gov/link/statute/106/123); [Pub. L. 102–301, § 6](https://www.govinfo.gov/link/plaw/102/public/301), June 19, 1992, [106 Stat. 245](https://www.govinfo.gov/link/statute/106/245); [Pub. L. 102–432, § 1](https://www.govinfo.gov/link/plaw/102/public/432), Oct. 23, 1992, [106 Stat. 2212](https://www.govinfo.gov/link/statute/106/2212); [Pub. L. 102–536, § 1](https://www.govinfo.gov/link/plaw/102/public/536), Oct. 27, 1992, [106 Stat. 3528](https://www.govinfo.gov/link/statute/106/3528); [Pub. L. 103–162, § 2](https://www.govinfo.gov/link/plaw/103/public/162), Dec. 1, 1993, [107 Stat. 1969](https://www.govinfo.gov/link/statute/107/1969); [Pub. L. 103–170, § 3](https://www.govinfo.gov/link/plaw/103/public/170), Dec. 2, 1993, [107 Stat. 1986](https://www.govinfo.gov/link/statute/107/1986); [Pub. L. 103–242, § 2](https://www.govinfo.gov/link/plaw/103/public/242), May 4, 1994, [108 Stat. 611](https://www.govinfo.gov/link/statute/108/611); [Pub. L. 103–313, § 3](https://www.govinfo.gov/link/plaw/103/public/313), Aug. 26, 1994, [108 Stat. 1700](https://www.govinfo.gov/link/statute/108/1700); [Pub. L. 103–437, § 6(d)(40)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4585](https://www.govinfo.gov/link/statute/108/4585); [Pub. L. 104–208, div. B, title I, § 109](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–531](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 104–314](https://www.govinfo.gov/link/plaw/104/public/314), Oct. 19, 1996, [110 Stat. 3823](https://www.govinfo.gov/link/statute/110/3823); [Pub. L. 104–333, div. I, title IV](https://www.govinfo.gov/link/plaw/104/public/333), §§ 405(a), 406(d), 407(a), title X, § 1023(h), Nov. 12, 1996, [110 Stat. 4149](https://www.govinfo.gov/link/statute/110/4149), 4151, 4223; [Pub. L. 106–20, § 2(b)](https://www.govinfo.gov/link/plaw/106/public/20), (g), Apr. 9, 1999, [113 Stat. 31](https://www.govinfo.gov/link/statute/113/31), 33; [Pub. L. 106–176, title I, § 106(a)](https://www.govinfo.gov/link/plaw/106/public/176), Mar. 10, 2000, [114 Stat. 25](https://www.govinfo.gov/link/statute/114/25); [Pub. L. 106–192, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/192), May 2, 2000, [114 Stat. 233](https://www.govinfo.gov/link/statute/114/233); [Pub. L. 106–261](https://www.govinfo.gov/link/plaw/106/public/261), Aug. 18, 2000, [114 Stat. 735](https://www.govinfo.gov/link/statute/114/735); [Pub. L. 106–299, § 3](https://www.govinfo.gov/link/plaw/106/public/299), Oct. 13, 2000, [114 Stat. 1051](https://www.govinfo.gov/link/statute/114/1051); [Pub. L. 106–357, § 3](https://www.govinfo.gov/link/plaw/106/public/357), Oct. 24, 2000, [114 Stat. 1393](https://www.govinfo.gov/link/statute/114/1393); [Pub. L. 106–399, title III, § 301(a)](https://www.govinfo.gov/link/plaw/106/public/399), (b), Oct. 30, 2000, [114 Stat. 1667](https://www.govinfo.gov/link/statute/114/1667), 1668; [Pub. L. 106–418, § 3](https://www.govinfo.gov/link/plaw/106/public/418), Nov. 1, 2000, [114 Stat. 1817](https://www.govinfo.gov/link/statute/114/1817); [Pub. L. 107–365, § 2(b)](https://www.govinfo.gov/link/plaw/107/public/365), Dec. 19, 2002, [116 Stat. 3027](https://www.govinfo.gov/link/statute/116/3027); [Pub. L. 108–352, § 5](https://www.govinfo.gov/link/plaw/108/public/352), Oct. 21, 2004, [118 Stat. 1395](https://www.govinfo.gov/link/statute/118/1395); [Pub. L. 108–447, div. E, title III, § 340](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3103](https://www.govinfo.gov/link/statute/118/3103); [Pub. L. 109–44, § 2](https://www.govinfo.gov/link/plaw/109/public/44), Aug. 2, 2005, [119 Stat. 443](https://www.govinfo.gov/link/statute/119/443); [Pub. L. 109–362, § 7(a)](https://www.govinfo.gov/link/plaw/109/public/362), Oct. 17, 2006, [120 Stat. 2070](https://www.govinfo.gov/link/statute/120/2070); [Pub. L. 109–452, § 4](https://www.govinfo.gov/link/plaw/109/public/452), Dec. 22, 2006, [120 Stat. 3364](https://www.govinfo.gov/link/statute/120/3364); [Pub. L. 110–229, title III, § 344(b)](https://www.govinfo.gov/link/plaw/110/public/229), May 8, 2008, [122 Stat. 798](https://www.govinfo.gov/link/statute/122/798); [Pub. L. 111–11, title I](https://www.govinfo.gov/link/plaw/111/public/11), §§ 1203(a)(1), 1302, 1504(a), 1805(a), 1852, 1976(a), title V, §§ 5001, 5002(d), 5003(a), Mar. 30, 2009, [123 Stat. 1011](https://www.govinfo.gov/link/statute/123/1011), 1026, 1037, 1057, 1067, 1085, 1147, 1149, 1152; [Pub. L. 113–244, § 2](https://www.govinfo.gov/link/plaw/113/public/244), Dec. 18, 2014, [128 Stat. 2864](https://www.govinfo.gov/link/statute/128/2864); [Pub. L. 113–291, div. B, title XXX](https://www.govinfo.gov/link/plaw/113/public/291), §§ 3041(e)(1), 3060(b)(1), 3071(a), 3072(a), 3073(a), Dec. 19, 2014, [128 Stat. 3791](https://www.govinfo.gov/link/statute/128/3791), 3815, 3843, 3844, 3846; [Pub. L. 115–229, § 3(a)](https://www.govinfo.gov/link/plaw/115/public/229), Aug. 2, 2018, [132 Stat. 1630](https://www.govinfo.gov/link/statute/132/1630); [Pub. L. 116–9, title I](https://www.govinfo.gov/link/plaw/116/public/9), §§ 1205(a)(1)(A), (2)–(5)(A)(i), (B)(i), 1241(a), 1301(b), (d), 1302(a), 1303(a), 1457, Mar. 12, 2019, [133 Stat. 654](https://www.govinfo.gov/link/statute/133/654), 660–662, 664, 675, 685–687, 690, 716; [Pub. L. 117–286, § 4(a)(107)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4317](https://www.govinfo.gov/link/statute/136/4317); [Pub. L. 117–328, div. DD, title IV](https://www.govinfo.gov/link/plaw/117/public/328), §§ 401(a), 402(a), Dec. 29, 2022, [136 Stat. 5594](https://www.govinfo.gov/link/statute/136/5594), 5596.)*

@@ -3,9 +3,10 @@ title: "Section 1055 - Waiver of security deposits for members renting private h
 usc_title: 10
 usc_section: "1055"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1055"
-generated_at: "2026-03-30T02:53:38.097Z"
+generated_at: "2026-11-23T21:25:32.380Z"
+status: "active"
 ---
 
 # § 1055. Waiver of security deposits for members renting private housing; authority to indemnify landlord
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:38.097Z"
   - **(1)** The Secretary of a military department who compensates a landlord under subsection (b) for a breach of a lease or for damage described in subsection (b)(1)(C) may issue a special order under section 1007 of title 37 to authorize the withholding from the pay of the member of an amount equal to the amount paid by the Secretary to the landlord as compensation for the breach or damage.
   - **(2)** Before the Secretary of a military department issues a special order under section 1007 of title 37 to authorize the withholding of any amount from the pay of a member for a breach or damage referred to in paragraph (1), the Secretary concerned shall provide the member with the same notice and opportunity for hearing and record inspection as provided an individual under section 5514(a)(2) of title 5 . The Secretary concerned shall prescribe regulations, subject to the approval of the President, to carry out this paragraph. Such regulations shall be as uniform for the military departments as practicable.
 - **(d)** In this section, the term “landlord” means a person who leases a rental unit to a member of the armed forces.
+
+## Source Credit
+
+*(Added [Pub. L. 100–456, div. A, title VI, § 621(a)(1)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 1982](https://www.govinfo.gov/link/statute/102/1982).)*

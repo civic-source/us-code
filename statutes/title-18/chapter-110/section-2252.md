@@ -3,9 +3,10 @@ title: "Section 2252 - Certain activities relating to material involving the sex
 usc_title: 18
 usc_section: "2252"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2252"
-generated_at: "2026-03-30T02:54:16.497Z"
+generated_at: "2026-11-23T21:25:44.122Z"
+status: "active"
 ---
 
 # § 2252. Certain activities relating to material involving the sexual exploitation of minors
@@ -35,3 +36,11 @@ generated_at: "2026-03-30T02:54:16.497Z"
   - **(2)** promptly and in good faith, and without retaining or allowing any person, other than a law enforcement agency, to access any visual depiction or copy thereof—
     - **(A)** took reasonable steps to destroy each such visual depiction; or
     - **(B)** reported the matter to a law enforcement agency and afforded that agency access to each such visual depiction.
+
+Affirmative Defense
+
+Declaration
+
+## Source Credit
+
+*(Added [Pub. L. 95–225, § 2(a)](https://www.govinfo.gov/link/plaw/95/public/225), Feb. 6, 1978, [92 Stat. 7](https://www.govinfo.gov/link/statute/92/7); amended [Pub. L. 98–292, § 4](https://www.govinfo.gov/link/plaw/98/public/292), May 21, 1984, [98 Stat. 204](https://www.govinfo.gov/link/statute/98/204); [Pub. L. 99–500, § 101(b) [title VII, § 704(b)]](https://www.govinfo.gov/link/plaw/99/public/500), Oct. 18, 1986, [100 Stat. 1783–39](https://www.govinfo.gov/link/statute/100/1783), 1783–75, and [Pub. L. 99–591, § 101(b) [title VII, § 704(b)]](https://www.govinfo.gov/link/plaw/99/public/591), Oct. 30, 1986, [100 Stat. 3341–39](https://www.govinfo.gov/link/statute/100/3341), 3341–75; [Pub. L. 100–690, title VII, § 7511(b)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4485](https://www.govinfo.gov/link/statute/102/4485); [Pub. L. 101–647, title III, § 323(a)](https://www.govinfo.gov/link/plaw/101/public/647), (b), Nov. 29, 1990, [104 Stat. 4818](https://www.govinfo.gov/link/statute/104/4818), 4819; [Pub. L. 103–322, title XVI, § 160001(d)](https://www.govinfo.gov/link/plaw/103/public/322), (e), title XXXIII, § 330010(8), Sept. 13, 1994, [108 Stat. 2037](https://www.govinfo.gov/link/statute/108/2037), 2143; [Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 121[5]](https://www.govinfo.gov/link/plaw/104/public/208) ], Sept. 30, 1996, [110 Stat. 3009](https://www.govinfo.gov/link/statute/110/3009), 3009–26, 3009–30; [Pub. L. 105–314, title II](https://www.govinfo.gov/link/plaw/105/public/314), §§ 202(a), 203(a), Oct. 30, 1998, [112 Stat. 2977](https://www.govinfo.gov/link/statute/112/2977), 2978; [Pub. L. 108–21, title I, § 103(a)(1)(B)](https://www.govinfo.gov/link/plaw/108/public/21), (C), (b)(1)(C), (D), title V, § 507, Apr. 30, 2003, [117 Stat. 652](https://www.govinfo.gov/link/statute/117/652), 653, 683; [Pub. L. 109–248, title II, § 206(b)(2)](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 614](https://www.govinfo.gov/link/statute/120/614); [Pub. L. 110–358, title I, § 103(a)(3)](https://www.govinfo.gov/link/plaw/110/public/358), (b), (c), title II, § 203(a), Oct. 8, 2008, [122 Stat. 4002](https://www.govinfo.gov/link/statute/122/4002), 4003; [Pub. L. 112–206, § 2(a)](https://www.govinfo.gov/link/plaw/112/public/206), Dec. 7, 2012, [126 Stat. 1490](https://www.govinfo.gov/link/statute/126/1490); [Pub. L. 118–159, div. A, title V, § 569(3)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1906](https://www.govinfo.gov/link/statute/138/1906).)*

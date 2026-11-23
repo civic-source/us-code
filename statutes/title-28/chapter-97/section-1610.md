@@ -3,9 +3,10 @@ title: "Section 1610 - Exceptions to the immunity from attachment or execution"
 usc_title: 28
 usc_section: "1610"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 1610"
-generated_at: "2026-03-30T02:55:30.142Z"
+generated_at: "2026-11-23T21:26:01.097Z"
+status: "active"
 ---
 
 # § 1610. Exceptions to the immunity from attachment or execution
@@ -48,3 +49,37 @@ generated_at: "2026-03-30T02:55:30.142Z"
     - **(E)** whether establishing the property as a separate entity would entitle the foreign state to benefits in United States courts while avoiding its obligations.
   - **(2)** Any property of a foreign state, or agency or instrumentality of a foreign state, to which paragraph (1) applies shall not be immune from attachment in aid of execution, or execution, upon a judgment entered under section 1605A because the property is regulated by the United States Government by reason of action taken against that foreign state under the Trading With the Enemy Act or the International Emergency Economic Powers Act.
   - **(3)** Nothing in this subsection shall be construed to supersede the authority of a court to prevent appropriately the impairment of an interest held by a person who is not liable in the action giving rise to a judgment in property subject to attachment in aid of execution, or execution, upon such judgment.
+
+Waiver
+
+Property in Certain Actions.—
+
+In general
+
+United states sovereign immunity inapplicable
+
+Third-party joint property holders
+
+In General
+
+Presidential Waiver.—
+
+In general
+
+Exception
+
+Definitions
+
+Act of terrorism
+
+Blocked asset
+
+Certain property
+
+Terrorist party
+
+William J. Clinton.
+
+## Source Credit
+
+*(Added [Pub. L. 94–583](https://www.govinfo.gov/link/plaw/94/public/583), § 4(a), Oct. 21, 1976, [90 Stat. 2896](https://www.govinfo.gov/link/statute/90/2896); amended [Pub. L. 100–640, § 2](https://www.govinfo.gov/link/plaw/100/public/640), Nov. 9, 1988, [102 Stat. 3333](https://www.govinfo.gov/link/statute/102/3333); [Pub. L. 100–669, § 3](https://www.govinfo.gov/link/plaw/100/public/669), Nov. 16, 1988, [102 Stat. 3969](https://www.govinfo.gov/link/statute/102/3969); [Pub. L. 101–650, title III, § 325(b)(9)](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5121](https://www.govinfo.gov/link/statute/104/5121); [Pub. L. 104–132, title II, § 221(b)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1242](https://www.govinfo.gov/link/statute/110/1242); [Pub. L. 105–277, div. A, § 101(h) [title I, § 117(a)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–480](https://www.govinfo.gov/link/statute/112/2681), 2681–491; [Pub. L. 106–386, div. C, § 2002(g)(1)](https://www.govinfo.gov/link/plaw/106/public/386), formerly § 2002(f)(1), Oct. 28, 2000, [114 Stat. 1543](https://www.govinfo.gov/link/statute/114/1543), renumbered § 2002(g)(1), [Pub. L. 107–297, title II, § 201(c)(3)](https://www.govinfo.gov/link/plaw/107/public/297), Nov. 26, 2002, [116 Stat. 2337](https://www.govinfo.gov/link/statute/116/2337); [Pub. L. 110–181, div. A, title X, § 1083(b)(3)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 341](https://www.govinfo.gov/link/statute/122/341); [Pub. L. 112–158, title V, § 502(e)(1)](https://www.govinfo.gov/link/plaw/112/public/158), Aug. 10, 2012, [126 Stat. 1260](https://www.govinfo.gov/link/statute/126/1260).)*

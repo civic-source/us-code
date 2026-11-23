@@ -3,9 +3,10 @@ title: "Section 8114 - Sun grant program"
 usc_title: 7
 usc_section: "8114"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 8114"
-generated_at: "2026-03-30T02:53:42.473Z"
+generated_at: "2026-11-23T21:25:28.470Z"
+status: "active"
 ---
 
 # § 8114. Sun grant program
@@ -67,3 +68,7 @@ generated_at: "2026-03-30T02:53:42.473Z"
   - **(1)** the results of all peer and merit review procedures conducted pursuant to subsection (c)(1)(C)(i); and
   - **(2)** a description of progress made in facilitating the priorities described in subsection (d)(1).
 - **(g)** There is authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2008 through 2023, of which not more than $4,000,000 for each fiscal year shall be made available to carry out subsection (e).
+
+## Source Credit
+
+*([Pub. L. 110–234, title VII, § 7526](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1274](https://www.govinfo.gov/link/statute/122/1274); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7526, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2035; [Pub. L. 113–79, title VII](https://www.govinfo.gov/link/plaw/113/public/79), §§ 7128(b)(5), 7516, Feb. 7, 2014, [128 Stat. 879](https://www.govinfo.gov/link/statute/128/879), 903; [Pub. L. 115–334, title VII](https://www.govinfo.gov/link/plaw/115/public/334), §§ 7414, 7614(b)(4)(A), Dec. 20, 2018, [132 Stat. 4819](https://www.govinfo.gov/link/statute/132/4819), 4836.)*

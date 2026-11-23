@@ -3,9 +3,10 @@ title: "Section 702 - Definitions"
 usc_title: 45
 usc_section: "702"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 702"
-generated_at: "2026-03-30T02:55:56.553Z"
+generated_at: "2026-11-23T21:26:19.215Z"
+status: "active"
 ---
 
 # § 702. Definitions
@@ -34,3 +35,7 @@ As used in this chapter, unless the context otherwise requires—
   - **(19)** “State” means any State or the District of Columbia;
   - **(20)** “subsidiary” means any corporation 100 percent of whose total combined voting shares are, directly or indirectly, owned or controlled by the Corporation; and
   - **(21)** “supplemental transaction” means any transaction set forth in a proposal under section 745 of this title under which the Corporation or a subsidiary thereof would (A) acquire rail properties not designated for transfer or conveyance to it under the final system plan, (B) convey rail properties to a profitable railroad, a subsidiary of the Corporation or, other than as designated in the final system plan, to the National Railroad Passenger Corporation or to a State or a local or regional transportation authority, or to any other responsible person for use in providing rail service, or (C) enter into contractual or other arrangements with any person for the joint use of rail properties or the coordination or separation of rail operations or services.
+
+## Source Credit
+
+*([Pub. L. 93–236, title I, § 102](https://www.govinfo.gov/link/plaw/93/public/236), Jan. 2, 1974, [87 Stat. 986](https://www.govinfo.gov/link/statute/87/986); [Pub. L. 94–210, title VI](https://www.govinfo.gov/link/plaw/94/public/210), §§ 601(f), (g), 603(c), 607(t), 610(a), Feb. 5, 1976, [90 Stat. 86](https://www.govinfo.gov/link/statute/90/86), 88, 98, 100; [Pub. L. 94–248, § 1](https://www.govinfo.gov/link/plaw/94/public/248), Mar. 25, 1976, [90 Stat. 286](https://www.govinfo.gov/link/statute/90/286); [Pub. L. 94–555, title II, § 211(a)](https://www.govinfo.gov/link/plaw/94/public/555), Oct. 19, 1976, [90 Stat. 2624](https://www.govinfo.gov/link/statute/90/2624); [Pub. L. 96–448, title V, § 508(b)](https://www.govinfo.gov/link/plaw/96/public/448), title VI, § 601(b), Oct. 14, 1980, [94 Stat. 1957](https://www.govinfo.gov/link/statute/94/1957), 1958; [Pub. L. 97–35, title XI, § 1135(b)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 646](https://www.govinfo.gov/link/statute/95/646); [Pub. L. 99–509, title IV, § 4033(b)(1)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1908](https://www.govinfo.gov/link/statute/100/1908); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 104–88, title III, § 327(1)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 951](https://www.govinfo.gov/link/statute/109/951).)*

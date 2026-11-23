@@ -3,9 +3,10 @@ title: "Section 1461 - Prohibited acts"
 usc_title: 30
 usc_section: "1461"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1461"
-generated_at: "2026-03-30T02:55:29.405Z"
+generated_at: "2026-11-23T21:26:00.438Z"
+status: "active"
 ---
 
 # § 1461. Prohibited acts
@@ -19,3 +20,7 @@ It is unlawful for any person who is a United States citizen, or a foreign natio
   - **(5)** to resist a lawful arrest for any act prohibited by this section;
   - **(6)** to ship, transport, offer for sale, sell, purchase, import, export, or have custody, control, or possession of any hard mineral resource recovered, processed, or retained in violation of this chapter or any regulation, term, condition, or restriction referred to in paragraph (1); or
   - **(7)** to interfere with, delay, or prevent, by any means, the apprehension or arrest of any other person subject to this section knowing that such other person has committed any act prohibited by this section.
+
+## Source Credit
+
+*([Pub. L. 96–283, title III, § 301](https://www.govinfo.gov/link/plaw/96/public/283), June 28, 1980, [94 Stat. 577](https://www.govinfo.gov/link/statute/94/577).)*

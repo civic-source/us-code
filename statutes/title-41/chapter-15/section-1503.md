@@ -3,9 +3,10 @@ title: "Section 1503 - Contract price adjustment"
 usc_title: 41
 usc_section: "1503"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 1503"
-generated_at: "2026-03-30T02:55:55.802Z"
+generated_at: "2026-11-23T21:26:18.782Z"
+status: "active"
 ---
 
 # § 1503. Contract price adjustment
@@ -17,3 +18,36 @@ generated_at: "2026-03-30T02:55:55.802Z"
     - **(A)** costs recovered by the Federal Government shall exclude any contract or subcontract (or any portion of such contract or subcontract) that is firm, fixed-price, or that is not price-redeterminable based on costs; and
     - **(B)** for a fiscal year, for any contract or subcontract (or any portion of such contract or subcontract) that is not a firm, fixed-price contract or subcontract the costs recovered by the Federal Government shall not exceed the net increased costs, if any, paid to the contractor or subcontractor for all changes in cost accounting practices implemented within the same fiscal year.
 - **(c)** The interest rate applicable to a contract price adjustment is the annual rate of interest established under section 6621 of the Internal Revenue Code of 1986 ( 26 U.S.C. 6621 ) for the period. Interest accrues from the time payments of the increased costs were made to the contractor or subcontractor to the time the Federal Government receives full compensation for the price adjustment.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1503(a) | 41:422(h)(2). | Pub. L. 93–400, § 26(h)(2) –(4), as added Pub. L. 100–679, § 5(a) , Nov. 17, 1988 , 102 Stat. 4062 . |
+| 1503(b) | 41:422(h)(3). |  |
+| 1503(c) | 41:422(h)(4). |  |
+
+
+Disagreement Constitutes a Dispute
+
+Amount of Adjustment
+
+Interest
+
+Historical and Revision Notes
+
+1503(a)
+
+Pub. L. 93–400, § 26(h)(2)
+
+Pub. L. 100–679, § 5(a)
+
+Nov. 17, 1988
+
+102 Stat. 4062
+
+1503(b)
+
+1503(c)
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3699](https://www.govinfo.gov/link/statute/124/3699); [Pub. L. 119–60, div. A, title XVIII, § 1806(f)(1)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1240](https://www.govinfo.gov/link/statute/139/1240).)*

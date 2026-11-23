@@ -3,9 +3,10 @@ title: "Section 631c - Small Business Manufacturing Task Force"
 usc_title: 15
 usc_section: "631c"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 631c"
-generated_at: "2026-03-30T02:54:08.085Z"
+generated_at: "2026-11-23T21:25:39.637Z"
+status: "active"
 ---
 
 # § 631c. Small Business Manufacturing Task Force
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.085Z"
   - **(1)** the President;
   - **(2)** the Committee on Small Business and Entrepreneurship of the Senate; and
   - **(3)** the Committee on Small Business of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 108–447, div. K, title I, § 147](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3455](https://www.govinfo.gov/link/statute/118/3455).)*

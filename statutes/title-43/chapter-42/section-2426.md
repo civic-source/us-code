@@ -3,9 +3,10 @@ title: "Section 2426 - Title to newly constructed facilities"
 usc_title: 43
 usc_section: "2426"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 2426"
-generated_at: "2026-03-30T02:55:57.497Z"
+generated_at: "2026-11-23T21:26:19.896Z"
+status: "active"
 ---
 
 # § 2426. Title to newly constructed facilities
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:57.497Z"
   - **(1)** reclamation projects authorized prior to December 22, 2006 ;
   - **(2)** works supplemental to existing reclamation projects; or
   - **(3)** works constructed to rehabilitate existing reclamation projects.
+
+## Source Credit
+
+*([Pub. L. 109–451, title II, § 207](https://www.govinfo.gov/link/plaw/109/public/451), Dec. 22, 2006, [120 Stat. 3360](https://www.govinfo.gov/link/statute/120/3360).)*

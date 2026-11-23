@@ -3,9 +3,10 @@ title: "Section 5314 - Special applicability of certain provisions"
 usc_title: 26
 usc_section: "5314"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5314"
-generated_at: "2026-03-30T02:55:27.822Z"
+generated_at: "2026-11-23T21:26:06.718Z"
+status: "active"
 ---
 
 # § 5314. Special applicability of certain provisions
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:27.822Z"
     - **(E)** articles, manufactured from denatured distilled spirits, for shipment to the United States.
   - **(2)** The insular government of the Virgin Islands shall advance to the Treasury of the United States such funds as may be required from time to time by the Secretary for the purpose of defraying all expenses incurred by the Treasury Department in connection with the enforcement in the Virgin Islands of paragraph (1) and regulations promulgated thereunder. The funds so advanced shall be deposited in a separate trust fund in the Treasury of the United States and shall be available to the Treasury Department for the purposes of this subsection.
   - **(3)** The Secretary may authorize the Governor of the Virgin Islands, or his duly authorized agents, to issue or adopt such regulations, to approve such bonds, and to issue, suspend, or revoke such permits, as are necessary to carry out the provisions of this subsection. When regulations have been issued or adopted under this paragraph with concurrence of the Secretary he may exempt the Virgin Islands from any provisions of law and regulations otherwise made applicable by the provisions of paragraph (1), except that denatured distilled spirits, articles and distilled spirits for tax-free purposes which are brought into the United States from the Virgin Islands under the provisions of this subsection shall in all respects conform to the requirements of law and regulations imposed on like products of domestic manufacture.
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1375](https://www.govinfo.gov/link/statute/72/1375); amended [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1905(a)(18), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1820](https://www.govinfo.gov/link/statute/90/1820), 1834; [Pub. L. 115–141, div. U, title IV, § 401(a)(245)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1195](https://www.govinfo.gov/link/statute/132/1195).)*

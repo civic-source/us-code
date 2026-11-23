@@ -3,9 +3,10 @@ title: "Section 4123 - Authority of Attending Physician in response to medical c
 usc_title: 2
 usc_section: "4123"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 4123"
-generated_at: "2026-03-30T02:53:04.828Z"
+generated_at: "2026-11-23T21:25:21.296Z"
+status: "active"
 ---
 
 # § 4123. Authority of Attending Physician in response to medical contingencies or public health emergencies at Capitol
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.828Z"
   - **(1)** the term “Capitol Buildings” has the meaning given such term in section 5101 of title 40 ; and
   - **(2)** the term “United States Capitol Grounds” has the meaning given such term in section 5102(a) of title 40 .
 - **(c)** Subsection (a) shall take effect on January 23, 2004 , and shall apply during any fiscal year occurring on or after January 23, 2004 .
+
+## Source Credit
+
+*([Pub. L. 108–199, div. H, § 151](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 448](https://www.govinfo.gov/link/statute/118/448).)*

@@ -3,9 +3,10 @@ title: "Section 3458 - Authority to acquire innovative commercial products and c
 usc_title: 10
 usc_section: "3458"
 chapter: 247
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3458"
-generated_at: "2026-03-30T02:53:38.193Z"
+generated_at: "2026-11-23T21:25:32.730Z"
+status: "active"
 ---
 
 # § 3458. Authority to acquire innovative commercial products and commercial services using general solicitation competitive procedures
@@ -25,3 +26,31 @@ generated_at: "2026-03-30T02:53:38.193Z"
     - **(B)** Description of the requirement, capability gap, or potential technological advancement with respect to which the commercial product, commercial service, or nondevelopmental item acquired provides a solution or a potential new capability.
     - **(C)** Amount of the contract awarded.
     - **(D)** Identification of the contractor awarded the contract.
+
+Authority
+
+Treatment as Competitive Procedures
+
+Follow-on Production Agreements
+
+Limitations
+
+Congressional Notification Required
+
+Requirement
+
+Execution
+
+Sunset
+
+Definitions
+
+In general
+
+Plan required
+
+Congressional defense committees; military department defined
+
+## Source Credit
+
+*(Added § 2380c, renumbered § 3458, and amended [Pub. L. 117–81, div. A, title VIII, § 803(a)(1)](https://www.govinfo.gov/link/plaw/117/public/81), (b)(1), (3), Dec. 27, 2021, [135 Stat. 1814–1816](https://www.govinfo.gov/link/statute/135/1814); [Pub. L. 117–263, div. A, title VIII, § 814(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2707](https://www.govinfo.gov/link/statute/136/2707); [Pub. L. 119–60, div. A, title XVIII, § 1823](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1247](https://www.govinfo.gov/link/statute/139/1247).)*

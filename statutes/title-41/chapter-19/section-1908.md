@@ -3,9 +3,10 @@ title: "Section 1908 - Inflation adjustment of acquisition-related dollar thresh
 usc_title: 41
 usc_section: "1908"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 1908"
-generated_at: "2026-03-30T02:55:55.803Z"
+generated_at: "2026-11-23T21:26:18.795Z"
+status: "active"
 ---
 
 # § 1908. Inflation adjustment of acquisition-related dollar thresholds
@@ -42,3 +43,90 @@ generated_at: "2026-03-30T02:55:55.803Z"
     - **(A)** shall determine, in writing, whether the dollar threshold is required to be adjusted under this section; and
     - **(B)** on determining that it should be adjusted, shall publish in the Federal Register a revised notice of the adjustment dollar thresholds under this section that includes the adjustment of the dollar threshold covered by the petition.
   - **(3)** The adjustment of a dollar threshold pursuant to a petition under this subsection takes effect on the date the revised notice adding the adjustment under paragraph (2)(B) is published.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1908(a) | no source. |  |
+| 1908(b)(1) | 41:431a(c). | Pub. L. 93–400, § 35A , as added Pub. L. 108–375, title VIII, § 807(a)(1) , Oct. 28, 2004 , 118 Stat. 2010 . |
+| 1908(b)(2) | 41:431a(d). |  |
+| 1908(b)(3) | 41:431a note. | Pub. L. 108–375, title VIII, § 807(c)(1) , Oct. 28, 2004 , 118 Stat. 2011 . |
+| 1908(c)(1), (2) | 41:431a(a). |  |
+| 1908(c)(3) | 41:431a note. | Pub. L. 108–375, title VIII, § 807(c)(2) , Oct. 28, 2004 , 118 Stat. 2011 . |
+| 1908(d) | 41:431a(b). |  |
+| 1908(e) | 41:431a(e). |  |
+| 1908(f) | 41:431a(f). |  |
+
+
+Definition
+
+Application.—
+
+In general
+
+Exceptions
+
+Relationship to other inflation adjustment authorities
+
+Requirement for Periodic Adjustment.—
+
+Baseline constant dollar value
+
+Adjustment
+
+Exclusive means of adjustment
+
+Publication
+
+Calculation
+
+Petition for Inclusion of Omitted Threshold.—
+
+Petition submitted to administrator
+
+Actions of administrator
+
+Effective date of adjustment by petition
+
+Historical and Revision Notes
+
+1908(a)
+
+1908(b)(1)
+
+Pub. L. 93–400, § 35A
+
+Pub. L. 108–375, title VIII, § 807(a)(1)
+
+Oct. 28, 2004
+
+118 Stat. 2010
+
+1908(b)(2)
+
+1908(b)(3)
+
+Pub. L. 108–375, title VIII, § 807(c)(1)
+
+Oct. 28, 2004
+
+118 Stat. 2011
+
+1908(c)(1), (2)
+
+1908(c)(3)
+
+Pub. L. 108–375, title VIII, § 807(c)(2)
+
+Oct. 28, 2004
+
+118 Stat. 2011
+
+1908(d)
+
+1908(e)
+
+1908(f)
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3725](https://www.govinfo.gov/link/statute/124/3725); [Pub. L. 114–92, div. A, title VIII, § 817](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 897](https://www.govinfo.gov/link/statute/129/897); [Pub. L. 115–91, div. A, title VIII, § 821](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1464](https://www.govinfo.gov/link/statute/131/1464); [Pub. L. 117–58, div. G, title IX, § 70922(f)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1305](https://www.govinfo.gov/link/statute/135/1305); [Pub. L. 117–81, div. A, title VIII, § 861](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1851](https://www.govinfo.gov/link/statute/135/1851).)*

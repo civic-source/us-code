@@ -3,9 +3,10 @@ title: "Section 2441a - Authorized personnel levels of the Office of the Adminis
 usc_title: 50
 usc_section: "2441a"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2441a"
-generated_at: "2026-03-30T02:56:26.224Z"
+generated_at: "2026-11-23T21:26:38.976Z"
+status: "active"
 ---
 
 # § 2441a. Authorized personnel levels of the Office of the Administrator
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:26.224Z"
     - **(B)** Employees of the Office of Secure Transportation.
     - **(C)** Members of the Armed Forces detailed to the Administration.
     - **(D)** Personnel supporting the Office of the Administrator pursuant to the mobility program under subchapter VI of chapter 33 of title 5 (commonly referred to as the “Intergovernmental Personnel Act Mobility Program”).
+
+## Source Credit
+
+*([Pub. L. 106–65, div. C, title XXXII, § 3241A](https://www.govinfo.gov/link/plaw/106/public/65), as added [Pub. L. 112–239, div. C, title XXXI, § 3111(a)(1)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2168](https://www.govinfo.gov/link/statute/126/2168); amended [Pub. L. 113–291, div. C, title XXXI, § 3116](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3888](https://www.govinfo.gov/link/statute/128/3888); [Pub. L. 114–92, div. C, title XXXI, § 3138](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1215](https://www.govinfo.gov/link/statute/129/1215); [Pub. L. 114–328, div. C, title XXXI, § 3136(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2771](https://www.govinfo.gov/link/statute/130/2771); [Pub. L. 116–92, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1949](https://www.govinfo.gov/link/statute/133/1949); [Pub. L. 117–263, div. C, title XXXI, § 3117](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3054](https://www.govinfo.gov/link/statute/136/3054).)*

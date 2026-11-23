@@ -3,9 +3,10 @@ title: "Section 53 - False advertisements; injunctions and restraining orders"
 usc_title: 15
 usc_section: "53"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 53"
-generated_at: "2026-03-30T02:54:08.026Z"
+generated_at: "2026-11-23T21:25:39.485Z"
+status: "active"
 ---
 
 # § 53. False advertisements; injunctions and restraining orders
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:08.026Z"
 - **(d)** Whenever it appears to the satisfaction of the court in the case of a newspaper, magazine, periodical, or other publication, published at regular intervals—
   - **(1)** that restraining the dissemination of a false advertisement in any particular issue of such publication would delay the delivery of such issue after the regular time therefor, and
   - **(2)** that such delay would be due to the method by which the manufacture and distribution of such publication is customarily conducted by the publisher in accordance with sound business practice, and not to any method or device adopted for the evasion of this section or to prevent or delay the issuance of an injunction or restraining order with respect to such false advertisement or any other advertisement,
+
+## Source Credit
+
+*(Sept. 26, 1914, ch. 311, § 13, as added Mar. 21, 1938, ch. 49, § 4, [52 Stat. 114](https://www.govinfo.gov/link/statute/52/114); amended [Pub. L. 93–153, title IV, § 408(f)](https://www.govinfo.gov/link/plaw/93/public/153), Nov. 16, 1973, [87 Stat. 592](https://www.govinfo.gov/link/statute/87/592); [Pub. L. 103–312, § 10](https://www.govinfo.gov/link/plaw/103/public/312), Aug. 26, 1994, [108 Stat. 1695](https://www.govinfo.gov/link/statute/108/1695).)*

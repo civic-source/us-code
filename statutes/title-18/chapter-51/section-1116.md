@@ -3,9 +3,10 @@ title: "Section 1116 - Murder or manslaughter of foreign officials, official gue
 usc_title: 18
 usc_section: "1116"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1116"
-generated_at: "2026-03-30T02:54:16.481Z"
+generated_at: "2026-11-23T21:25:44.045Z"
+status: "active"
 ---
 
 # § 1116. Murder or manslaughter of foreign officials, official guests, or internationally protected persons
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:16.481Z"
   - **(7)** “National of the United States” has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(22) ).
 - **(c)** If the victim of an offense under subsection (a) is an internationally protected person outside the United States, the United States may exercise jurisdiction over the offense if (1) the victim is a representative, officer, employee, or agent of the United States, (2) an offender is a national of the United States, or (3) an offender is afterwards found in the United States. As used in this subsection, the United States includes all areas under the jurisdiction of the United States including any of the places within the provisions of sections 5 and 7 of this title and section 46501(2) of title 49 .
 - **(d)** In the course of enforcement of this section and any other sections prohibiting a conspiracy or attempt to violate this section, the Attorney General may request assistance from any Federal, State, or local agency, including the Army, Navy, and Air Force, any statute, rule, or regulation to the contrary notwithstanding.
+
+## Source Credit
+
+*(Added [Pub. L. 92–539, title I, § 101](https://www.govinfo.gov/link/plaw/92/public/539), Oct. 24, 1972, [86 Stat. 1071](https://www.govinfo.gov/link/statute/86/1071); amended [Pub. L. 94–467, § 2](https://www.govinfo.gov/link/plaw/94/public/467), Oct. 8, 1976, [90 Stat. 1997](https://www.govinfo.gov/link/statute/90/1997); [Pub. L. 95–163, § 17(b)(1)](https://www.govinfo.gov/link/plaw/95/public/163), Nov. 9, 1977, [91 Stat. 1286](https://www.govinfo.gov/link/statute/91/1286); [Pub. L. 95–504, § 2(b)](https://www.govinfo.gov/link/plaw/95/public/504), Oct. 24, 1978, [92 Stat. 1705](https://www.govinfo.gov/link/statute/92/1705); [Pub. L. 97–351, § 3](https://www.govinfo.gov/link/plaw/97/public/351), Oct. 18, 1982, [96 Stat. 1666](https://www.govinfo.gov/link/statute/96/1666); [Pub. L. 103–272, § 5(e)(2)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1373](https://www.govinfo.gov/link/statute/108/1373); [Pub. L. 103–322, title VI, § 60003(a)(5)](https://www.govinfo.gov/link/plaw/103/public/322), title XXXIII, § 330006, Sept. 13, 1994, [108 Stat. 1969](https://www.govinfo.gov/link/statute/108/1969), 2142; [Pub. L. 104–132, title VII, § 721(c)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1298](https://www.govinfo.gov/link/statute/110/1298); [Pub. L. 104–294, title VI, § 601(g)(2)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3500](https://www.govinfo.gov/link/statute/110/3500).)*

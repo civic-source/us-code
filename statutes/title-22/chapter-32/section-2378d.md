@@ -3,9 +3,10 @@ title: "Section 2378d - Limitation on assistance to security forces"
 usc_title: 22
 usc_section: "2378d"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2378d"
-generated_at: "2026-03-30T02:55:05.362Z"
+generated_at: "2026-11-23T21:25:58.482Z"
+status: "active"
 ---
 
 # § 2378d. Limitation on assistance to security forces
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:05.362Z"
 - **(e)**
   - **(1)** For the purposes of subsection (d)(7), the term “to the maximum extent practicable” means that the identity of such units shall be made publicly available unless the Secretary of State, on a case-by-case basis, determines and reports to the appropriate congressional committees that public disclosure is not in the national security interest of the United States and provides a detailed justification for such determination, which may be submitted in classified form.
   - **(2)** For the purposes of this section, “appropriate congressional committees” means the Committee on Foreign Relations and the Committee on Appropriations of the Senate, and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 620M, formerly § 620J, as added [Pub. L. 110–161, div. J, title VI, § 651](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2341](https://www.govinfo.gov/link/statute/121/2341); renumbered § 620M and amended [Pub. L. 112–74, div. I, title VII, § 7034(k)](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 1216](https://www.govinfo.gov/link/statute/125/1216); [Pub. L. 113–76, div. K, title VII, § 7034](https://www.govinfo.gov/link/plaw/113/public/76) (l), Jan. 17, 2014, [128 Stat. 515](https://www.govinfo.gov/link/statute/128/515); [Pub. L. 117–103, div. K, title VII, § 7035(b)(6)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 629](https://www.govinfo.gov/link/statute/136/629).)*

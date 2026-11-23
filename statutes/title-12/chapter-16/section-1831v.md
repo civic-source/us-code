@@ -3,9 +3,10 @@ title: "Section 1831v - Authority of State insurance regulator and Securities an
 usc_title: 12
 usc_section: "1831v"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1831v"
-generated_at: "2026-03-30T02:53:53.462Z"
+generated_at: "2026-11-23T21:25:37.031Z"
+status: "active"
 ---
 
 # § 1831v. Authority of State insurance regulator and Securities and Exchange Commission
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:53.462Z"
   - **(2)** The term “functionally regulated affiliate” means, with respect to any depository institution, any affiliate of such depository institution that is—
     - **(A)** not a depository institution holding company; and
     - **(B)** a company described in any clause of section 1844(c)(5)(B) of this title .
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [45], as added [Pub. L. 106–102, title I, § 112(b)](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1367](https://www.govinfo.gov/link/statute/113/1367).)*

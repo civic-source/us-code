@@ -3,9 +3,10 @@ title: "Section 5511 - Federally assisted or federally constructed housing"
 usc_title: 42
 usc_section: "5511"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5511"
-generated_at: "2026-03-30T02:56:11.236Z"
+generated_at: "2026-11-23T21:26:32.815Z"
+status: "active"
 ---
 
 # § 5511. Federally assisted or federally constructed housing
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.236Z"
   - **(3)** is eligible for purchase by the Federal National Mortgage Association, the Government National Mortgage Association, or the Federal Home Loan Mortgage Corporation, or from any financial institution from which it could be purchased by the Federal Home Loan Mortgage Corporation; or
   - **(4)** is made in whole or in part by any “creditor,” as defined in section 1602(f) 1 1 See References in Text note below. of title 15, who makes or invests in residential real estate loans aggregating more than $1,000,000 per year.
 - **(c)** As used in subsection (a), the term “federally constructed housing” means (1) residential or multifamily housing which is constructed by agencies of the Federal Government to provide dwelling accommodations for particular types or classes of persons under programs administered by such Federal agencies (including all housing constructed by the Department of Defense to provide dwelling accommodations for personnel of the armed services or for such personnel and their families), and (2) residential or multifamily housing which is constructed by agencies of State or local government, with financial assistance in any form from the Federal Government, to provide dwelling accommodations for particular types or classes of persons under programs administered by such State or local agencies.
+
+## Source Credit
+
+*([Pub. L. 93–409, § 13](https://www.govinfo.gov/link/plaw/93/public/409), Sept. 3, 1974, [88 Stat. 1076](https://www.govinfo.gov/link/statute/88/1076).)*

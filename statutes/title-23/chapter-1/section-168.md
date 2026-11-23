@@ -3,9 +3,10 @@ title: "Section 168 - Integration of planning and environmental review"
 usc_title: 23
 usc_section: "168"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 168"
-generated_at: "2026-03-30T02:55:12.562Z"
+generated_at: "2026-11-23T21:25:53.905Z"
+status: "active"
 ---
 
 # § 168. Integration of planning and environmental review
@@ -69,3 +70,49 @@ generated_at: "2026-03-30T02:55:12.562Z"
   - **(1)** This section does not make the environmental review process applicable to the transportation planning process conducted under this title and chapter 53 of title 49.
   - **(2)** Initiation of the environmental review process as a part of, or concurrently with, transportation planning activities does not subject transportation plans and programs to the environmental review process.
   - **(3)** This section does not affect the use of planning products in the environmental review process pursuant to other authorities under any other provision of law or restrict the initiation of the environmental review process during planning.
+
+Definitions
+
+Environmental review process
+
+Lead agency
+
+Planning product
+
+Project
+
+Project sponsor
+
+Relevant agency
+
+Adoption or Incorporation by Reference of Planning Products for Use in NEPA Proceedings.—
+
+In general
+
+Identification
+
+Adoption or incorporation by reference of planning products
+
+Timing
+
+Applicability.—
+
+Planning decisions
+
+Planning analyses
+
+Conditions
+
+Effect of Adoption or Incorporation by Reference
+
+Rules of Construction.—
+
+In general
+
+Transportation planning activities
+
+Planning products
+
+## Source Credit
+
+*(Added [Pub. L. 112–141, div. A, title I, § 1310(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 540](https://www.govinfo.gov/link/statute/126/540); amended [Pub. L. 114–94, div. A, title I, § 1305](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1386](https://www.govinfo.gov/link/statute/129/1386).)*

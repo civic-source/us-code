@@ -3,9 +3,10 @@ title: "Section 7814 - Actions to promote freedom of information"
 usc_title: 22
 usc_section: "7814"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7814"
-generated_at: "2026-03-30T02:55:05.446Z"
+generated_at: "2026-11-23T21:25:58.728Z"
+status: "active"
 ---
 
 # § 7814. Actions to promote freedom of information
@@ -28,3 +29,13 @@ generated_at: "2026-03-30T02:55:05.446Z"
   - **(2)** Amounts appropriated pursuant to the authorization of appropriations under paragraph (1) are authorized to remain available until expended.
 - **(c)** Not later than 1 year after October 18, 2004 , and annually through 2022, the Secretary of State, after consultation with the heads of other appropriate Federal departments and agencies, shall submit to the appropriate congressional committees a report, in classified form, on actions taken pursuant to this section.
 - **(d)** Not later than 180 days after the date of the enactment of the North Korea Sanctions and Policy Enhancement Act of 2015, 1 the President shall submit to the appropriate congressional committees a classified report that sets forth a detailed plan for making unrestricted, unmonitored, and inexpensive electronic mass communications available to the people of North Korea.
+
+Findings
+
+Sense of Congress
+
+“It is the policy of the United States—
+
+## Source Credit
+
+*([Pub. L. 108–333, title I, § 104](https://www.govinfo.gov/link/plaw/108/public/333), Oct. 18, 2004, [118 Stat. 1291](https://www.govinfo.gov/link/statute/118/1291); [Pub. L. 110–346, § 7](https://www.govinfo.gov/link/plaw/110/public/346), Oct. 7, 2008, [122 Stat. 3941](https://www.govinfo.gov/link/statute/122/3941); [Pub. L. 112–172, § 6](https://www.govinfo.gov/link/plaw/112/public/172), Aug. 16, 2012, [126 Stat. 1309](https://www.govinfo.gov/link/statute/126/1309); [Pub. L. 114–122, title III, § 301](https://www.govinfo.gov/link/plaw/114/public/122), Feb. 18, 2016, [130 Stat. 112](https://www.govinfo.gov/link/statute/130/112); [Pub. L. 115–198](https://www.govinfo.gov/link/plaw/115/public/198), §§ 5, 7(b), July 20, 2018, [132 Stat. 1521](https://www.govinfo.gov/link/statute/132/1521), 1523; [Pub. L. 117–263, div. E, title LV, § 5584(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3373](https://www.govinfo.gov/link/statute/136/3373).)*

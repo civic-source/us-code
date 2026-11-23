@@ -3,9 +3,10 @@ title: "Section 2232 - Burn research"
 usc_title: 15
 usc_section: "2232"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2232"
-generated_at: "2026-03-30T02:54:08.171Z"
+generated_at: "2026-11-23T21:25:39.924Z"
+status: "active"
 ---
 
 # § 2232. Burn research
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.171Z"
 - **(f)** There are authorized to be appropriated for the purposes of this section amounts as follows:
   - **(1)** $10,000,000 for fiscal year 2001.
   - **(2)** $20,000,000 for fiscal year 2002.
+
+## Source Credit
+
+*([Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title XVII, § 1703], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–364; [Pub. L. 109–295, title VI, § 612(c)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1410](https://www.govinfo.gov/link/statute/120/1410).)*

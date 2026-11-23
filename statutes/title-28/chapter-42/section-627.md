@@ -3,9 +3,10 @@ title: "Section 627 - Retirement; employee benefits"
 usc_title: 28
 usc_section: "627"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 627"
-generated_at: "2026-03-30T02:55:30.135Z"
+generated_at: "2026-11-23T21:26:01.067Z"
+status: "active"
 ---
 
 # § 627. Retirement; employee benefits
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:30.135Z"
 - **(c)** A director who has elected coverage under this section and who becomes permanently disabled to perform the duties of his office shall be retired and shall receive an annuity for life equal to 80 per centum of the salary of the office at the time of his retirement if he has at least fifteen years of service, or equal to that proportion of 80 per centum of such salary that the aggregate number of years of his service bears to fifteen if he has less than fifteen years of service, but in no event less than 50 per centum of such salary.
 - **(d)** For the purpose of this section, “service” means service, whether or not continuous, as Director of the Federal Judicial Center, and any service, not to exceed five years, as a judge of the United States, a Senator or Representative in Congress, a congressional employee in the capacity of primary administrative assistant to a Member of Congress or in the capacity of staff director or chief counsel for the majority or the minority of a committee or subcommittee of the Senate or House of Representatives, or a civilian official appointed by the President, by and with the advice and consent of the Senate.
 - **(e)** Each annuity payable under this section shall be increased by the same percentage amount and effective on the same date as annuities payable under chapter 83 of title 5, are increased as provided by section 8340 of title 5 .
+
+## Source Credit
+
+*(Added [Pub. L. 90–219, title I, § 101](https://www.govinfo.gov/link/plaw/90/public/219), Dec. 20, 1967, [81 Stat. 666](https://www.govinfo.gov/link/statute/81/666); amended [Pub. L. 100–702, title X](https://www.govinfo.gov/link/plaw/100/public/702), §§ 1004(a), 1006(a)(2), Nov. 19, 1988, [102 Stat. 4665](https://www.govinfo.gov/link/statute/102/4665), 4666; [Pub. L. 104–317, title VI, § 604](https://www.govinfo.gov/link/plaw/104/public/317), Oct. 19, 1996, [110 Stat. 3857](https://www.govinfo.gov/link/statute/110/3857); [Pub. L. 106–518, title III](https://www.govinfo.gov/link/plaw/106/public/518), §§ 301(b), 312(a), Nov. 13, 2000, [114 Stat. 2416](https://www.govinfo.gov/link/statute/114/2416), 2421.)*

@@ -3,9 +3,10 @@ title: "Section 1341 - Rights and protections under Occupational Safety and Heal
 usc_title: 2
 usc_section: "1341"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1341"
-generated_at: "2026-03-30T02:53:04.810Z"
+generated_at: "2026-11-23T21:25:21.222Z"
+status: "active"
 ---
 
 # § 1341. Rights and protections under Occupational Safety and Health Act of 1970; procedures for remedy of violations
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:53:04.810Z"
 - **(g)**
   - **(1)** Except as provided in paragraph (2), subsections (a), (b), (c), and (e)(3) shall be effective on January 1, 1997 .
   - **(2)** This section shall be effective with respect to the Government Accountability Office and the Library of Congress 1 year after transmission to the Congress of the study under section 1371 of this title .
+
+## Source Credit
+
+*([Pub. L. 104–1, title II, § 215](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 16](https://www.govinfo.gov/link/statute/109/16); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 110–437, title IV, § 422(b)(4)](https://www.govinfo.gov/link/plaw/110/public/437), Oct. 20, 2008, [122 Stat. 4996](https://www.govinfo.gov/link/statute/122/4996); [Pub. L. 115–141, div. I, title I, § 153(a)(2)(D)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 785](https://www.govinfo.gov/link/statute/132/785); [Pub. L. 115–397, title III, § 308(b)(9)](https://www.govinfo.gov/link/plaw/115/public/397), Dec. 21, 2018, [132 Stat. 5326](https://www.govinfo.gov/link/statute/132/5326).)*

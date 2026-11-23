@@ -3,9 +3,10 @@ title: "Section 53911 - Civil actions for losses"
 usc_title: 46
 usc_section: "53911"
 chapter: 539
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 53911"
-generated_at: "2026-03-30T02:56:15.578Z"
+generated_at: "2026-11-23T21:26:37.296Z"
+status: "active"
 ---
 
 # § 53911. Civil actions for losses
@@ -15,3 +16,32 @@ generated_at: "2026-03-30T02:56:15.578Z"
 - **(c)** A civil action under this section shall be heard and determined under chapter 309 of this title.
 - **(d)** If a claim is filed with the Secretary of Transportation, the running of the limitations period for bringing a civil action is suspended until the Secretary denies the claim, and for 60 days thereafter. The Secretary is deemed to have denied the claim if the Secretary does not act on the claim within 6 months after the claim is filed, unless the Secretary for good cause shown agrees with the claimant on a different period for the Secretary to act on the claim.
 - **(e)** If the Secretary acknowledges the indebtedness of the Government under the insurance and there is a dispute about the persons entitled to receive payment, the Government may bring a civil action interpleading those persons. The action shall be brought in the United States District Court for the District of Columbia or in the district court for the district in which any of those persons resides. A person not residing or found in the district may be made a party by service in any reasonable manner the court directs. If the court is satisfied that unknown persons might make a claim under the insurance, the court may direct service on those unknown persons by publication in the Federal Register. Judgment after service by publication in the Federal Register discharges the Government from further liability to all persons.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 53911 | 46 App.:1292. | June 29, 1936, ch. 858 , title XII, § 1212, as added Sept. 7, 1950, ch. 906 , 64 Stat. 776 . |
+
+
+In General
+
+Exclusive Remedy
+
+Procedure
+
+Tolling of Limitations Period
+
+Interpleader
+
+Historical and Revision Notes
+
+53911
+
+June 29, 1936, ch. 858
+
+Sept. 7, 1950, ch. 906
+
+64 Stat. 776
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1631](https://www.govinfo.gov/link/statute/120/1631).)*

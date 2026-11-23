@@ -3,12 +3,17 @@ title: "Section 1198 - Shipments from foreign countries; demand for redelivery; 
 usc_title: 15
 usc_section: "1198"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1198"
-generated_at: "2026-03-30T02:54:08.129Z"
+generated_at: "2026-11-23T21:25:39.800Z"
+status: "active"
 ---
 
 # § 1198. Shipments from foreign countries; demand for redelivery; claim for liquidated damages
 
 An imported product, fabric, or related material to which flammability standards under this chapter are applicable shall not be delivered from customs custody except as provided in section 1499 of title 19 . In the event an imported product, fabric, or related material is delivered from customs custody under bond, as provided in section 1499 of title 19 and fails to conform with an applicable flammability standard in effect on the date of entry of such merchandise, the Secretary of the Treasury shall demand redelivery and in the absence thereof shall assert a claim for liquidated damages for breach of a condition of the bond arising out of such failure to conform or redeliver in accordance with regulations prescribed by the Secretary of the Treasury or his delegate. When asserting a claim for liquidated damages against an importer for failure to redeliver such nonconforming goods, the liquidated damages shall be not less than 10 per centum of the value of the nonconforming merchandise if, within five years prior thereto, the importer has previously been assessed liquidated damages for failure to redeliver nonconforming goods in response to a demand from the Secretary of the Treasury as set forth above.
 
+
+## Source Credit
+
+*(June 30, 1953, ch. 164, § 9, [67 Stat. 114](https://www.govinfo.gov/link/statute/67/114); [Pub. L. 90–189, § 7](https://www.govinfo.gov/link/plaw/90/public/189), Dec. 14, 1967, [81 Stat. 572](https://www.govinfo.gov/link/statute/81/572).)*

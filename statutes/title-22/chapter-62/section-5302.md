@@ -3,9 +3,10 @@ title: "Section 5302 - Findings"
 usc_title: 22
 usc_section: "5302"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5302"
-generated_at: "2026-03-30T02:55:05.416Z"
+generated_at: "2026-11-23T21:25:58.656Z"
+status: "active"
 ---
 
 # § 5302. Findings
@@ -21,3 +22,7 @@ The Congress finds that—
   - **(7)** a more stable exchange rate for the dollar at a level consistent with a more appropriate and sustainable balance in the United States current account should be a major focus of national economic policy;
   - **(8)** procedures for improving the coordination of macroeconomic policy need to be strengthened considerably; and
   - **(9)** under appropriate circumstances, intervention by the United States in foreign exchange markets as part of a coordinated international strategic intervention effort could produce more orderly adjustment of foreign exchange markets and, in combination with necessary macroeconomic policy changes, assist adjustment toward a more appropriate and sustainable balance in current accounts.
+
+## Source Credit
+
+*([Pub. L. 100–418, title III, § 3002](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1372](https://www.govinfo.gov/link/statute/102/1372).)*

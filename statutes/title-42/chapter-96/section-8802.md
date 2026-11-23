@@ -3,9 +3,10 @@ title: "Section 8802 - Definitions"
 usc_title: 42
 usc_section: "8802"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8802"
-generated_at: "2026-03-30T02:56:11.347Z"
+generated_at: "2026-11-23T21:26:33.215Z"
+status: "active"
 ---
 
 # § 8802. Definitions
@@ -61,3 +62,7 @@ As used in this chapter—
   - **(17)** The term “person” means any individual, company, cooperative, partnership, corporation, association, consortium, unincorporated organization, trust, estate, or any entity organized for a common business purpose, any State or local government (including any special purpose district or similar governmental unit) or any agency or instrumentality thereof, or any Indian tribe or tribal organization.
   - **(18)** The term “State” means any of the fifty States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.
   - **(19)** The term “small scale biomass energy project” means a biomass energy project with an anticipated annual production capacity of not more than 1,000,000 gallons of ethanol per year, or its energy equivalent of other forms of biomass energy.
+
+## Source Credit
+
+*([Pub. L. 96–294, title II, § 203](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 683](https://www.govinfo.gov/link/statute/94/683).)*

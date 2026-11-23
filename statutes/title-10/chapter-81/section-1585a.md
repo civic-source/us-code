@@ -3,9 +3,10 @@ title: "Section 1585a - Special agents of the Defense Criminal Investigative Ser
 usc_title: 10
 usc_section: "1585a"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1585a"
-generated_at: "2026-03-30T02:53:38.131Z"
+generated_at: "2026-11-23T21:25:32.516Z"
+status: "active"
 ---
 
 # § 1585a. Special agents of the Defense Criminal Investigative Service: authority to execute warrants and make arrests
@@ -18,3 +19,15 @@ generated_at: "2026-03-30T02:53:38.131Z"
 - **(b)** Subsection (a) applies to any DCIS special agent whose duties include conducting, supervising, or coordinating investigations of criminal activity in programs and operations of the Department of Defense.
 - **(c)** The authority provided under subsection (a) shall be exercised in accordance with guidelines prescribed by the Inspector General of the Department of Defense and approved by the Attorney General and any other applicable guidelines prescribed by the Secretary of Defense or the Attorney General.
 - **(d)** In this section, the term “DCIS special agent” means an employee of the Department of Defense who is a special agent of the Defense Criminal Investigative Service (or any successor to that service).
+
+Authority
+
+Agents To Have Authority
+
+Guidelines on Exercise of Authority
+
+DCIS Special Agent Defined
+
+## Source Credit
+
+*(Added [Pub. L. 105–85, div. A, title X, § 1071(a)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1897](https://www.govinfo.gov/link/statute/111/1897).)*

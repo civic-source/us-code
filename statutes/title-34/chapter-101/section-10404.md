@@ -3,9 +3,10 @@ title: "Section 10404 - Allocation and distribution of funds"
 usc_title: 34
 usc_section: "10404"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10404"
-generated_at: "2026-03-30T02:55:33.267Z"
+generated_at: "2026-11-23T21:26:09.655Z"
+status: "active"
 ---
 
 # § 10404. Allocation and distribution of funds
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:33.267Z"
 - **(e)**
   - **(1)** If a State does not qualify or apply for funds reserved for allocation under subsection (a) by the application deadline established by the Attorney General, the Attorney General shall reserve not more than 75 percent of the allocation that the State would have received under subsection (a) for such fiscal year to provide grants to specially qualified units which meet the requirements for funding under section 10403 of this title .
   - **(2)** In addition to the qualification requirements for direct grants for specially qualified units the Attorney General may use the average amount allocated by the States to units of local government as a basis for awarding grants under this section.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 1803](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 107–273, div. C, title II, § 12102(a)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1863](https://www.govinfo.gov/link/statute/116/1863).)*

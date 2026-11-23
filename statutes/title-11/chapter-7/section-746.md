@@ -3,9 +3,10 @@ title: "Section 746 - Extent of customer claims"
 usc_title: 11
 usc_section: "746"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 746"
-generated_at: "2026-03-30T02:53:53.882Z"
+generated_at: "2026-11-23T21:25:34.939Z"
+status: "active"
 ---
 
 # § 746. Extent of customer claims
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:53.882Z"
 - **(b)** An entity does not have a claim as a customer to the extent that such entity transferred to the debtor cash or a security that, by contract, agreement, understanding, or operation of law, is—
   - **(1)** part of the capital of the debtor; or
   - **(2)** subordinated to the claims of any or all creditors.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2613](https://www.govinfo.gov/link/statute/92/2613); [Pub. L. 97–222, § 12](https://www.govinfo.gov/link/plaw/97/public/222), July 27, 1982, [96 Stat. 238](https://www.govinfo.gov/link/statute/96/238).)*

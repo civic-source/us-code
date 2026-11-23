@@ -3,9 +3,10 @@ title: "Section 17285 - Sense of Congress relating to the use of renewable resou
 usc_title: 42
 usc_section: "17285"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17285"
-generated_at: "2026-03-30T02:56:11.504Z"
+generated_at: "2026-11-23T21:26:33.783Z"
+status: "active"
 ---
 
 # § 17285. Sense of Congress relating to the use of renewable resources to generate energy
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.504Z"
 - **(b)** It is the sense of Congress that it is the goal of the United States that, not later than January 1, 2025 , the agricultural, forestry, and working land of the United States should—
   - **(1)** provide from renewable resources not less than 25 percent of the total energy consumed in the United States; and
   - **(2)** continue to produce safe, abundant, and affordable food, feed, and fiber.
+
+## Source Credit
+
+*([Pub. L. 110–140, title VIII, § 806](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1722](https://www.govinfo.gov/link/statute/121/1722).)*

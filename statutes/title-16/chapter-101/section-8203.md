@@ -3,9 +3,10 @@ title: "Section 8203 - National Fish Habitat Board"
 usc_title: 16
 usc_section: "8203"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 8203"
-generated_at: "2026-03-30T02:54:23.082Z"
+generated_at: "2026-11-23T21:25:52.074Z"
+status: "active"
 ---
 
 # § 8203. National Fish Habitat Board
@@ -80,3 +81,7 @@ generated_at: "2026-03-30T02:54:23.082Z"
     - **(D)** procedures for designating Partnerships under section 8204 of this title ; and
     - **(E)** procedures for reviewing, evaluating, and making recommendations regarding fish habitat conservation projects.
   - **(2)** A majority of the members of the Board shall constitute a quorum.
+
+## Source Credit
+
+*([Pub. L. 116–188, title II, § 203](https://www.govinfo.gov/link/plaw/116/public/188), Oct. 30, 2020, [134 Stat. 926](https://www.govinfo.gov/link/statute/134/926); [Pub. L. 118–198, title II, § 201](https://www.govinfo.gov/link/plaw/118/public/198), Dec. 23, 2024, [138 Stat. 2681](https://www.govinfo.gov/link/statute/138/2681).)*

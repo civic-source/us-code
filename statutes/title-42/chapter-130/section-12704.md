@@ -3,9 +3,10 @@ title: "Section 12704 - Definitions"
 usc_title: 42
 usc_section: "12704"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12704"
-generated_at: "2026-03-30T02:56:11.429Z"
+generated_at: "2026-11-23T21:26:33.538Z"
+status: "active"
 ---
 
 # § 12704. Definitions
@@ -23,7 +24,7 @@ As used in this subchapter and in subchapter II:
     - **(D)** has among its purposes significant activities related to the provision of decent housing that is affordable to low-income and moderate-income persons.
   - **(6)** The term “community housing development organization” means a nonprofit organization as defined in paragraph (5), that—
     - **(A)** has among its purposes the provision of decent housing that is affordable to low-income and moderate-income persons;
-    - **(B)** maintains, through significant representation on the organization’s governing board and otherwise, accountability to low-income community residents and, to the extent practicable, low-income beneficiaries with regard to decisions on the design, siting, development, and management of affordable housing;
+    - **(B)** maintains, through representation on the organization’s governing board and otherwise, accountability to low-income community residents and, to the extent practicable, low-income beneficiaries with regard to decisions on the design, siting, development, and management of affordable housing;
     - **(C)** has a demonstrated capacity for carrying out activities assisted under this Act; and
     - **(D)** has a history of serving the local community or communities within which housing to be assisted under this Act is to be located.
   - **(7)** The term “government-sponsored mortgage finance corporations” means the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, and the Federal Agricultural Mortgage Corporation.
@@ -53,7 +54,23 @@ As used in this subchapter and in subchapter II:
   - **(19)** The term “metropolitan city” has the meaning given the term in section 5302(a)(4) of this title .
   - **(20)** The term “urban county” has the meaning given the term in section 5302(a)(6) of this title .
   - **(21)** The term “certification” means a written assertion, based on supporting evidence, which shall be kept available for inspection by the Secretary, the Inspector General and the public, which assertion shall be deemed to be accurate for purposes of this Act, unless the Secretary determines otherwise after inspecting the evidence and providing due notice and opportunity for comment.
-  - **(23)** 1 1 So in original. Probably should be “(22)”. The term “to demonstrate to the Secretary” means to submit to the Secretary a written assertion together with supporting evidence that, in the determination of the Secretary, supports the accuracy of the assertion.
-  - **(24)** 2 2 So in original. Two pars. (24) have been enacted. The term “insular area” means any of the following: Guam, the Northern Mariana Islands, the Virgin Islands, and American Samoa.
-  - **(24)** 2 The term “energy efficient mortgage” means a mortgage that provides financing incentives for the purchase of energy efficient homes, or that provides financing incentives to make energy efficiency improvements in existing homes by incorporating the cost of such improvements in the mortgage.
-  - **(25)** The term “energy efficient mortgage” means a mortgage that provides financing incentives for the purchase of energy efficient homes, or that provides financing incentives to make energy efficiency improvements in existing homes by incorporating the cost of such improvements in the mortgage.
+  - **(22)** The term “to demonstrate to the Secretary” means to submit to the Secretary a written assertion together with supporting evidence that, in the determination of the Secretary, supports the accuracy of the assertion.
+  - **(23)** The term “insular area” means any of the following: Guam, the Northern Mariana Islands, the Virgin Islands, and American Samoa.
+  - **(24)** The term “energy efficient mortgage” means a mortgage that provides financing incentives for the purchase of energy efficient homes, or that provides financing incentives to make energy efficiency improvements in existing homes by incorporating the cost of such improvements in the mortgage.
+  - **(25)** The term “infill housing project” means a residential housing project that—
+    - **(A)** is located within the geographic limits of a municipality;
+    - **(B)** is adequately served by existing utilities and public services as required under applicable law;
+    - **(C)** is located on a site of previously disturbed land of not more than 5 acres; and
+    - **(D)** is substantially surrounded by residential or commercial development, as determined by the Secretary.
+  - **(26)** The term “community land trust” means a nonprofit entity, a State, a unit of local government, or an instrumentality of a State or unit of local government that—
+    - **(A)** is not managed by, or an affiliate of, a for profit organization;
+    - **(B)** has as a primary purpose of acquiring, developing, or holding land to provide housing that is permanently affordable to low- and moderate-income persons;
+    - **(C)** monitors properties to ensure affordability is preserved;
+    - **(D)** provides housing that is permanently affordable to low- and moderate-income persons using a ground lease, deed covenant, or other similar legally enforceable measure, determined acceptable by the Secretary, that—
+      - **(i)** keeps housing affordable to low- and moderate-income persons for not less than 30 years; and
+      - **(ii)** enables low- and moderate-income persons to rent or purchase the housing for home-ownership; and
+    - **(E)** maintains preemptive purchase options to purchase the property if such purchase would allow the housing to remain affordable to low-and 1 1 So in original. A space probably should precede “and”. moderate-income persons.
+
+## Source Credit
+
+*([Pub. L. 101–625, title I, § 104](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4085](https://www.govinfo.gov/link/statute/104/4085); [Pub. L. 102–229, title I](https://www.govinfo.gov/link/plaw/102/public/229), Dec. 12, 1991, [105 Stat. 1709](https://www.govinfo.gov/link/statute/105/1709); [Pub. L. 102–230, § 2](https://www.govinfo.gov/link/plaw/102/public/230), Dec. 12, 1991, [105 Stat. 1720](https://www.govinfo.gov/link/statute/105/1720); [Pub. L. 102–486, title I, § 105(a)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2792](https://www.govinfo.gov/link/statute/106/2792); [Pub. L. 102–550, title II](https://www.govinfo.gov/link/plaw/102/public/550), §§ 211(a)(1), 217(a), 218, 219, title IX, § 914(a), Oct. 28, 1992, [106 Stat. 3756](https://www.govinfo.gov/link/statute/106/3756), 3760, 3761, 3877; [Pub. L. 103–233, title II, § 201](https://www.govinfo.gov/link/plaw/103/public/233), Apr. 11, 1994, [108 Stat. 363](https://www.govinfo.gov/link/statute/108/363); [Pub. L. 119–101, title V, § 501(b)](https://www.govinfo.gov/link/plaw/119/public/101), (l)(4), (r), (v)(4), July 11, 2026, [140 Stat. 907](https://www.govinfo.gov/link/statute/140/907), 912, 914, 917.)*

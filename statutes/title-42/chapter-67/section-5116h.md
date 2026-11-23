@@ -3,9 +3,10 @@ title: "Section 5116h - Definitions"
 usc_title: 42
 usc_section: "5116h"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5116h"
-generated_at: "2026-03-30T02:56:11.219Z"
+generated_at: "2026-11-23T21:26:32.735Z"
+status: "active"
 ---
 
 # § 5116h. Definitions
@@ -18,3 +19,7 @@ For purposes of this subchapter:
     - **(A)** are in danger of child abuse or neglect;
     - **(B)** have experienced child abuse or neglect; or
     - **(C)** have disabilities or chronic or terminal illnesses.
+
+## Source Credit
+
+*([Pub. L. 93–247, title II, § 208](https://www.govinfo.gov/link/plaw/93/public/247), formerly § 209, as added [Pub. L. 104–235, title I, § 121](https://www.govinfo.gov/link/plaw/104/public/235), Oct. 3, 1996, [110 Stat. 3087](https://www.govinfo.gov/link/statute/110/3087); amended [Pub. L. 108–36, title I, § 129](https://www.govinfo.gov/link/plaw/108/public/36), June 25, 2003, [117 Stat. 817](https://www.govinfo.gov/link/statute/117/817); renumbered § 208 and amended [Pub. L. 111–320, title I](https://www.govinfo.gov/link/plaw/111/public/320), §§ 139, 141, Dec. 20, 2010, [124 Stat. 3481](https://www.govinfo.gov/link/statute/124/3481), 3482.)*

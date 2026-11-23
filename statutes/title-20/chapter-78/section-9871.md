@@ -3,9 +3,10 @@ title: "Section 9871 - Alignment of secondary school graduation requirements wit
 usc_title: 20
 usc_section: "9871"
 chapter: 78
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9871"
-generated_at: "2026-03-30T02:54:48.232Z"
+generated_at: "2026-11-23T21:25:47.680Z"
+status: "active"
 ---
 
 # § 9871. Alignment of secondary school graduation requirements with the demands of 21st century postsecondary endeavors and support for P–16 education data systems
@@ -117,3 +118,13 @@ generated_at: "2026-03-30T02:54:48.232Z"
   - **(1)** Nothing in this section shall be construed to require States to provide raw data to the Secretary.
   - **(2)** Nothing in this section shall be construed to affect any private school that does not receive funds or services under this Act or any home school, whether or not the home school is treated as a home school or a private school under State law, including imposing new requirements for students educated through a home school seeking admission to institutions of higher education.
 - **(j)** There are authorized to be appropriated to carry out this section $120,000,000 for each of fiscal years 2011 and 2012.
+
+(aa) prohibits the party from further disclosing the information;
+
+(bb) prohibits the party from using the information for any purpose other than the purpose specified in the agreement; and
+
+(cc) requires the party to destroy the information when the purpose for which the disclosure was made is accomplished;
+
+## Source Credit
+
+*([Pub. L. 110–69, title VI, § 6201](https://www.govinfo.gov/link/plaw/110/public/69), formerly § 6401, Aug. 9, 2007, [121 Stat. 668](https://www.govinfo.gov/link/statute/121/668); renumbered § 6201 and amended [Pub. L. 111–358, title X](https://www.govinfo.gov/link/plaw/111/public/358), §§ 1002(b)(3), 1003(c), Jan. 4, 2011, [124 Stat. 4048](https://www.govinfo.gov/link/statute/124/4048), 4049; [Pub. L. 114–95, title IX, § 9215(i)(4)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2168](https://www.govinfo.gov/link/statute/129/2168).)*

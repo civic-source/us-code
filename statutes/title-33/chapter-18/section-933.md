@@ -3,9 +3,10 @@ title: "Section 933 - Compensation for injuries where third persons are liable"
 usc_title: 33
 usc_section: "933"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 933"
-generated_at: "2026-03-30T02:55:41.078Z"
+generated_at: "2026-11-23T21:26:11.352Z"
+status: "active"
 ---
 
 # § 933. Compensation for injuries where third persons are liable
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:41.078Z"
   - **(4)** Any payments by a trust fund described in section 917 of this title shall be a lien upon the proceeds of any settlement obtained from or judgment recorded against a third person referred to under subsection (a). Such lien shall have priority over a lien under paragraph (3) of this subsection.
 - **(h)** Where the employer is insured and the insurance carrier has assumed the payment of the compensation, the insurance carrier shall be subrogated to all the rights of the employer under this section.
 - **(i)** The right to compensation or benefits under this chapter shall be the exclusive remedy to an employee when he is injured, or to his eligible survivors or legal representatives if he is killed, by the negligence or wrong of any other person or persons in the same employ: Provided , That this provision shall not affect the liability of a person other than an officer or employee of the employer.
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 509, § 33, [44 Stat. 1440](https://www.govinfo.gov/link/statute/44/1440); June 25, 1938, ch. 685, §§ 12, 13, [52 Stat. 1168](https://www.govinfo.gov/link/statute/52/1168); [Pub. L. 86–171](https://www.govinfo.gov/link/plaw/86/public/171), Aug. 18, 1959, [73 Stat. 391](https://www.govinfo.gov/link/statute/73/391); [Pub. L. 92–576, § 15(f)](https://www.govinfo.gov/link/plaw/92/public/576) –(h), Oct. 27, 1972, [86 Stat. 1262](https://www.govinfo.gov/link/statute/86/1262); [Pub. L. 98–426, § 21](https://www.govinfo.gov/link/plaw/98/public/426), Sept. 28, 1984, [98 Stat. 1652](https://www.govinfo.gov/link/statute/98/1652).)*

@@ -3,9 +3,10 @@ title: "Section 1457 - Public Safety Trust Fund"
 usc_title: 47
 usc_section: "1457"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1457"
-generated_at: "2026-03-30T02:56:24.535Z"
+generated_at: "2026-11-23T21:26:36.105Z"
+status: "active"
 ---
 
 # § 1457. Public Safety Trust Fund
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:24.535Z"
   - **(7)** $200,000,000 shall be available to the Director of NIST to carry out section 1443 of this title .
   - **(8)** Any remaining amounts deposited in the Public Safety Trust Fund shall be deposited in the general fund of the Treasury, where such amounts shall be dedicated for the sole purpose of deficit reduction.
 - **(c)** Amounts in the Public Safety Trust Fund shall be invested in accordance with section 9702 of title 31 , and any interest on, and proceeds from, any such investment shall be credited to, and become a part of, the Fund.
+
+## Source Credit
+
+*([Pub. L. 112–96, title VI, § 6413](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 235](https://www.govinfo.gov/link/statute/126/235).)*

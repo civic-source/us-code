@@ -3,9 +3,10 @@ title: "Section 236 - Orphan Products Board"
 usc_title: 42
 usc_section: "236"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 236"
-generated_at: "2026-03-30T02:56:10.688Z"
+generated_at: "2026-11-23T21:26:30.232Z"
+status: "active"
 ---
 
 # § 236. Orphan Products Board
@@ -27,3 +28,51 @@ generated_at: "2026-03-30T02:56:10.688Z"
   - **(1)** identifying the drugs which have been designated under section 526 of the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 360bb ] for a rare disease or condition,
   - **(2)** describing the activities of the Board, and
   - **(3)** containing the results of the evaluations carried out by the Board.
+
+In General
+
+Amendments
+
+Reorganization Under Title I
+
+Programs Providing Financial Assistance.—
+
+Fiscal year 1993 and subsequent years
+
+Prior fiscal years.—
+
+Establishment
+
+Duty
+
+Review Requirements
+
+Composition
+
+Term
+
+Compensation.—
+
+Chairman
+
+Staff
+
+Experts and Consultants
+
+Detail of Personnel
+
+Administrative Support Services
+
+General Authority
+
+Information
+
+Report
+
+Termination
+
+Funds
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title II, § 227, as added [Pub. L. 97–414, § 3](https://www.govinfo.gov/link/plaw/97/public/414), Jan. 4, 1983, [96 Stat. 2051](https://www.govinfo.gov/link/statute/96/2051); amended [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 102–321, title I, § 163(b)(1)](https://www.govinfo.gov/link/plaw/102/public/321), July 10, 1992, [106 Stat. 375](https://www.govinfo.gov/link/statute/106/375); [Pub. L. 102–531, title III, § 312(d)(1)](https://www.govinfo.gov/link/plaw/102/public/531), Oct. 27, 1992, [106 Stat. 3504](https://www.govinfo.gov/link/statute/106/3504).)*

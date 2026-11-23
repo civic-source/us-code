@@ -3,9 +3,10 @@ title: "Section 13106 - Failure to file or filing false reports"
 usc_title: 5
 usc_section: "13106"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 13106"
-generated_at: "2026-03-30T02:52:56.078Z"
+generated_at: "2026-11-23T21:25:23.473Z"
+status: "active"
 ---
 
 # § 13106. Failure to file or filing false reports
@@ -26,3 +27,72 @@ generated_at: "2026-03-30T02:52:56.078Z"
     - **(A)** the date such report is required to be filed pursuant to the provisions of this subchapter and the rules and regulations promulgated under this subchapter; or
     - **(B)** if a filing extension is granted to such individual under section 13103(g) of this title , the last day of the filing extension period,
   - **(2)** The supervising ethics office may waive the filing fee under this subsection in extraordinary circumstances.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 13106 | 5 U.S.C. App. (EGA § 104) | Pub. L. 95–521, title I, § 104 , Oct. 26, 1978 , 92 Stat. 1832 ; Pub. L. 96–19, § 8(a) , June 13, 1979 , 93 Stat. 41 ; Pub. L. 101–194, title II, § 202 , Nov. 30, 1989 , 103 Stat. 1737 ; Pub. L. 101–280, § 3(1) , (5), May 4, 1990 , 104 Stat. 152 , 154; Pub. L. 101–650, title IV, § 405 , Dec. 1, 1990 , 104 Stat. 5124 ; Pub. L. 110–81, title VII, § 702 , Sept. 14, 2007 , 121 Stat. 775 . |
+
+
+Violation.—
+
+Civil actions
+
+Violations and penalties.—
+
+Violations
+
+Penalties
+
+Referral to Attorney General
+
+Personnel Action
+
+Late Fees.—
+
+In general
+
+Waiver
+
+Historical and Revision Notes
+
+13106
+
+Pub. L. 95–521, title I, § 104
+
+Oct. 26, 1978
+
+92 Stat. 1832
+
+Pub. L. 96–19, § 8(a)
+
+June 13, 1979
+
+93 Stat. 41
+
+Pub. L. 101–194, title II, § 202
+
+Nov. 30, 1989
+
+103 Stat. 1737
+
+Pub. L. 101–280, § 3(1)
+
+May 4, 1990
+
+104 Stat. 152
+
+Pub. L. 101–650, title IV, § 405
+
+Dec. 1, 1990
+
+104 Stat. 5124
+
+Pub. L. 110–81, title VII, § 702
+
+Sept. 14, 2007
+
+121 Stat. 775
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(c)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4288](https://www.govinfo.gov/link/statute/136/4288).)*

@@ -3,9 +3,10 @@ title: "Section 13238 - Alternative fuel use in nonroad vehicles and engines"
 usc_title: 42
 usc_section: "13238"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13238"
-generated_at: "2026-03-30T02:56:11.439Z"
+generated_at: "2026-11-23T21:26:33.584Z"
+status: "active"
 ---
 
 # § 13238. Alternative fuel use in nonroad vehicles and engines
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.439Z"
   - **(3)** The report required under paragraph (1) may include the Secretary’s recommendations for encouraging or requiring nonroad vehicles and engines which can feasibly be run on alternative fuels, to utilize such alternative fuels.
 - **(b)** Nonroad vehicles and engines, for purposes of this section, shall include nonroad vehicles and engines used for surface transportation or principally for industrial or commercial purposes, vehicles used for rail transportation, vehicles used at airports, vehicles or engines used for marine purposes, and other vehicles or engines at the discretion of the Secretary.
 - **(c)** Upon completion of the study required pursuant to subsection (a) of this section, the Secretary may designate such vehicles and engines as qualifying for loans pursuant to section 13239 of this title .
+
+## Source Credit
+
+*([Pub. L. 102–486, title IV, § 412](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2886](https://www.govinfo.gov/link/statute/106/2886).)*

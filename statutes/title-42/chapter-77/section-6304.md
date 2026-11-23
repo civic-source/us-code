@@ -3,9 +3,10 @@ title: "Section 6304 - Injunctive enforcement"
 usc_title: 42
 usc_section: "6304"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6304"
-generated_at: "2026-03-30T02:56:11.252Z"
+generated_at: "2026-11-23T21:26:32.903Z"
+status: "active"
 ---
 
 # § 6304. Injunctive enforcement
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.252Z"
   - **(2)** any person from distributing in commerce any covered product which does not comply with an applicable rule under section 6294 or 6295 of this title. Any such action shall be brought by the Commission, except that any such action to restrain any violation of section 6302(a)(3) of this title which relates to requirements prescribed by the Secretary, any violation of section 6302(a)(4) of this title which relates to requests of the Secretary under section 6296(b)(2) of this title , or any violation of paragraph (5), (6), (7), or
   - **(8)** of section 6302(a) of this title shall be brought by the Secretary. Any such action to restrain any person from distributing in commerce a general service incandescent lamp that does not comply with the applicable standard established under section 6295(i) of this title or an adapter prohibited under section 6302(a)(7) of this title may also be brought by the attorney general of a State in the name of the State. Any such action may be brought in any United States district court for a district wherein any act, omission, or transaction constituting the violation occurred, or in such court for the district wherein the defendant is found or transacts business. In any action under this section, process may be served on a defendant in any other district in which the defendant resides or may be found.
 
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 334](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 929](https://www.govinfo.gov/link/statute/89/929); [Pub. L. 95–619, title VI, § 691(b)(2)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3288](https://www.govinfo.gov/link/statute/92/3288); [Pub. L. 110–140, title III, § 321(f)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1586](https://www.govinfo.gov/link/statute/121/1586); [Pub. L. 114–11, title II, § 201(4)](https://www.govinfo.gov/link/plaw/114/public/11), Apr. 30, 2015, [129 Stat. 189](https://www.govinfo.gov/link/statute/129/189).)*

@@ -3,9 +3,10 @@ title: "Section 40b - Advisory Council; coordinating committees"
 usc_title: 42
 usc_section: "40b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 40b"
-generated_at: "2026-03-30T02:56:10.820Z"
+generated_at: "2026-11-23T21:26:30.838Z"
+status: "active"
 ---
 
 # § 300cc–40b. Advisory Council; coordinating committees
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:10.820Z"
 - **(b)**
   - **(1)** The Director of the Office shall establish, for each research discipline in which any activity under the plan required in section 300cc–40c of this title is carried out, a committee for the purpose of providing advice to the Director of the Office on carrying out this part with respect to such discipline. (Each such committee is referred to in this subsection as a “coordinating committee”.)
   - **(2)** Each coordinating committee shall be composed of representatives of the agencies of the National Institutes of Health with significant responsibilities regarding the research discipline involved.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXIII, § 2352, as added [Pub. L. 103–43, title XVIII, § 1801(a)(3)](https://www.govinfo.gov/link/plaw/103/public/43), June 10, 1993, [107 Stat. 193](https://www.govinfo.gov/link/statute/107/193).)*

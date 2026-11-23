@@ -3,9 +3,10 @@ title: "Section 10141 - Certain standards and criteria"
 usc_title: 42
 usc_section: "10141"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10141"
-generated_at: "2026-03-30T02:56:11.381Z"
+generated_at: "2026-11-23T21:26:33.340Z"
+status: "active"
 ---
 
 # § 10141. Certain standards and criteria
@@ -21,3 +22,23 @@ generated_at: "2026-03-30T02:56:11.381Z"
     - **(C)** Such requirements and criteria shall not be inconsistent with any comparable standards promulgated by the Administrator under subsection (a).
   - **(2)** For purposes of this chapter, nothing in this section shall be construed to prohibit the Commission from promulgating requirements and criteria under paragraph (1) before the Administrator promulgates standards under subsection (a). If the Administrator promulgates standards under subsection (a) after requirements and criteria are promulgated by the Commission under paragraph (1), such requirements and criteria shall be revised by the Commission if necessary to comply with paragraph (1)(C).
 - **(c)** The promulgation of standards or criteria in accordance with the provisions of this section shall not require the preparation of an environmental impact statement under section 102(2)(C) of the National Environmental Policy Act of 1969 ( 42 U.S.C. 4332(2)(C) ), or to require any environmental review under subparagraph (E) or (F) of section 102(2) of such Act.
+
+Environmental Protection Agency Standards.—
+
+Promulgation
+
+Study by national academy of sciences
+
+Applicability
+
+Nuclear Regulatory Commission Requirements and Criteria.—
+
+Modifications
+
+Required assumptions
+
+Post-Closure Oversight
+
+## Source Credit
+
+*([Pub. L. 97–425, title I, § 121](https://www.govinfo.gov/link/plaw/97/public/425), Jan. 7, 1983, [96 Stat. 2228](https://www.govinfo.gov/link/statute/96/2228).)*

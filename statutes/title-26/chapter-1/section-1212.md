@@ -3,9 +3,10 @@ title: "Section 1212 - Capital loss carrybacks and carryovers"
 usc_title: 26
 usc_section: "1212"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1212"
-generated_at: "2026-03-30T02:55:27.759Z"
+generated_at: "2026-11-23T21:26:06.468Z"
+status: "active"
 ---
 
 # § 1212. Capital loss carrybacks and carryovers
@@ -71,3 +72,17 @@ generated_at: "2026-03-30T02:55:27.759Z"
   - **(7)** For purposes of this subsection—
     - **(A)** The term “section 1256 contract” means any section 1256 contract (as defined in section 1256(b)) to which section 1256 applies.
     - **(B)** This subsection shall not apply to any estate or trust.
+
+In general
+
+Coordination rules
+
+Excise tax.—
+
+In general
+
+Election
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 321; [Pub. L. 88–272, title II, § 230(a)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 99](https://www.govinfo.gov/link/statute/78/99); [Pub. L. 88–571, § 7(a)](https://www.govinfo.gov/link/plaw/88/public/571), Sept. 2, 1964, [78 Stat. 860](https://www.govinfo.gov/link/statute/78/860); [Pub. L. 91–172, title V](https://www.govinfo.gov/link/plaw/91/public/172), §§ 512 (a), (b), (f)(1), 513(b), Dec. 30, 1969, [83 Stat. 638](https://www.govinfo.gov/link/statute/83/638), 639, 641, 642; [Pub. L. 94–455, title XIV, § 1403](https://www.govinfo.gov/link/plaw/94/public/455) (a), title XIX, § 1901(b)(33)(O), Oct. 4, 1976, [90 Stat. 1733](https://www.govinfo.gov/link/statute/90/1733), 1802; [Pub. L. 95–600, title VII, § 703(k)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2942](https://www.govinfo.gov/link/statute/92/2942); [Pub. L. 97–34, title V, § 504](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 330](https://www.govinfo.gov/link/statute/95/330); [Pub. L. 97–354, § 5(a)(35)](https://www.govinfo.gov/link/plaw/97/public/354), Oct. 19, 1982, [96 Stat. 1695](https://www.govinfo.gov/link/statute/96/1695); [Pub. L. 97–448, title I, § 105(c)(7)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2387](https://www.govinfo.gov/link/statute/96/2387); [Pub. L. 98–369, div. A, title I, § 102(e)(3)](https://www.govinfo.gov/link/plaw/98/public/369), title X, § 1002(a), July 18, 1984, [98 Stat. 624](https://www.govinfo.gov/link/statute/98/624), 1012; [Pub. L. 99–514, title III, § 301(b)(11)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1899A(67), Oct. 22, 1986, [100 Stat. 2218](https://www.govinfo.gov/link/statute/100/2218), 2962; [Pub. L. 100–647, title I, § 1003(a)(3)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3382](https://www.govinfo.gov/link/statute/102/3382); [Pub. L. 108–357, title IV, § 413(c)(20)(A)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1509](https://www.govinfo.gov/link/statute/118/1509); [Pub. L. 111–325, title I, § 101(a)](https://www.govinfo.gov/link/plaw/111/public/325), (b)(1), Dec. 22, 2010, [124 Stat. 3538](https://www.govinfo.gov/link/statute/124/3538).)*

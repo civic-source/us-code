@@ -3,16 +3,17 @@ title: "Section 9831 - General exceptions"
 usc_title: 26
 usc_section: "9831"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 9831"
-generated_at: "2026-03-30T02:55:27.898Z"
+generated_at: "2026-11-23T21:26:07.051Z"
+status: "active"
 ---
 
 # § 9831. General exceptions
 
 - **(a)** The requirements of this chapter shall not apply to—
   - **(1)** any governmental plan, and
-  - **(2)** any group health plan for any plan year if, on the first day of such plan year, such plan has less than 2 participants who are current employees.
+  - **(2)** other than with respect to section 9826, any group health plan for any plan year if, on the first day of such plan year, such plan has less than 2 participants who are current employees.
 - **(b)** The requirements of this chapter shall not apply to any group health plan in relation to its provision of excepted benefits described in section 9832(c)(1).
 - **(c)**
   - **(1)** The requirements of this chapter shall not apply to any group health plan in relation to its provision of excepted benefits described in section 9832(c)(2) if the benefits—
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:55:27.898Z"
       - **(i)** A statement of the amount which would be such eligible employee’s permitted benefit under the arrangement for the year.
       - **(ii)** A statement that the eligible employee should provide the information described in clause (i) to any health insurance exchange to which the employee applies for advance payment of the premium assistance tax credit.
       - **(iii)** A statement that if the employee is not covered under minimum essential coverage for any month the employee may be subject to tax under section 5000A for such month and reimbursements under the arrangement may be includible in gross income.
+
+## Source Credit
+
+*(Added [Pub. L. 104–191, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 2080](https://www.govinfo.gov/link/statute/110/2080), § 9804; renumbered § 9831 and amended [Pub. L. 105–34, title XV, § 1531(a)(2)](https://www.govinfo.gov/link/plaw/105/public/34), (b)(1)(B)–(E), Aug. 5, 1997, [111 Stat. 1081](https://www.govinfo.gov/link/statute/111/1081), 1084, 1085; [Pub. L. 114–255, div. C, title XVIII, § 18001(a)(1)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1338](https://www.govinfo.gov/link/statute/130/1338); [Pub. L. 115–97, title I, § 11002(d)(1)(TT)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2061](https://www.govinfo.gov/link/statute/131/2061); [Pub. L. 116–94, div. N, title I, § 503(b)(2)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3119](https://www.govinfo.gov/link/statute/133/3119); [Pub. L. 119–75, div. J, title VII, § 6701(c)(2)](https://www.govinfo.gov/link/plaw/119/public/75), Feb. 3, 2026, [140 Stat. 732](https://www.govinfo.gov/link/statute/140/732).)*

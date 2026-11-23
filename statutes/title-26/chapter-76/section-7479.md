@@ -3,9 +3,10 @@ title: "Section 7479 - Declaratory judgments relating to eligibility of estate w
 usc_title: 26
 usc_section: "7479"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7479"
-generated_at: "2026-03-30T02:55:27.875Z"
+generated_at: "2026-11-23T21:26:06.973Z"
+status: "active"
 ---
 
 # § 7479. Declaratory judgments relating to eligibility of estate with respect to installment payments under section 6166
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:27.875Z"
   - **(2)** The court shall not issue a declaratory judgment or decree under this section in any proceeding unless it determines that the petitioner has exhausted all available administrative remedies within the Internal Revenue Service. A petitioner shall be deemed to have exhausted its administrative remedies with respect to a failure of the Secretary to make a determination at the expiration of 180 days after the date on which the request for such determination was made if the petitioner has taken, in a timely manner, all reasonable steps to secure such determination.
   - **(3)** If the Secretary sends by certified or registered mail notice of his determination as described in subsection (a) to the petitioner, no proceeding may be initiated under this section unless the pleading is filed before the 91st day after the date of such mailing.
 - **(c)** The 2-year period in section 6532(a)(1) for filing suit for refund after disallowance of a claim shall be suspended during the 90-day period after the mailing of the notice referred to in subsection (b)(3) and, if a pleading has been filed with the Tax Court under this section, until the decision of the Tax Court has become final.
+
+## Source Credit
+
+*(Added [Pub. L. 105–34, title V, § 505(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 854](https://www.govinfo.gov/link/statute/111/854); amended [Pub. L. 105–206, title III, § 3104(b)](https://www.govinfo.gov/link/plaw/105/public/206), title VI, § 6007(d), July 22, 1998, [112 Stat. 732](https://www.govinfo.gov/link/statute/112/732), 809.)*

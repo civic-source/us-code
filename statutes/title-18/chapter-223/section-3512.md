@@ -3,9 +3,10 @@ title: "Section 3512 - Foreign requests for assistance in criminal investigation
 usc_title: 18
 usc_section: "3512"
 chapter: 223
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3512"
-generated_at: "2026-03-30T02:54:16.518Z"
+generated_at: "2026-11-23T21:25:44.204Z"
+status: "active"
 ---
 
 # § 3512. Foreign requests for assistance in criminal investigations and prosecutions
@@ -34,3 +35,35 @@ generated_at: "2026-03-30T02:54:16.518Z"
 - **(h)** As used in this section, the following definitions shall apply:
   - **(1)** The terms “Federal judge” and “attorney for the Government” have the meaning given such terms for the purposes of the Federal Rules of Criminal Procedure.
   - **(2)** The term “foreign authority” means a foreign judicial authority, a foreign authority responsible for the investigation or prosecution of criminal offenses or for proceedings related to the prosecution of criminal offenses, or an authority designated as a competent authority or central authority for the purpose of making requests for assistance pursuant to an agreement or treaty with the United States regarding assistance in criminal matters.
+
+Execution of Request for Assistance.—
+
+In general
+
+Scope of orders
+
+Appointment of Persons To Take Testimony or Statements.—
+
+In general
+
+Authority of appointed person
+
+Filing of Requests
+
+Search Warrant Limitation
+
+Search Warrant Standard
+
+Service of Order or Warrant
+
+Rule of Construction
+
+Definitions
+
+Federal judge
+
+Foreign authority
+
+## Source Credit
+
+*(Added [Pub. L. 111–79, § 2(4)](https://www.govinfo.gov/link/plaw/111/public/79), Oct. 19, 2009, [123 Stat. 2087](https://www.govinfo.gov/link/statute/123/2087).)*

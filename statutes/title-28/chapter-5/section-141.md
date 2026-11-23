@@ -3,9 +3,10 @@ title: "Section 141 - Special sessions; places; notice"
 usc_title: 28
 usc_section: "141"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 141"
-generated_at: "2026-03-30T02:55:30.124Z"
+generated_at: "2026-11-23T21:26:01.022Z"
+status: "active"
 ---
 
 # § 141. Special sessions; places; notice
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:30.124Z"
         - **(IV)** the costs to the judiciary resulting from such order; and
     - **(B)** shall provide reasonable notice to the United States Marshals Service before the commencement of any special session held pursuant to such order.
   - **(5)** If a district court issues an order exercising its authority under paragraph (1), the court shall direct the United States marshal of the district where the court is meeting to furnish transportation and subsistence to the same extent as that provided in sections 4282 and 4285 of title 18.
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 897](https://www.govinfo.gov/link/statute/62/897); [Pub. L. 88–139, § 1](https://www.govinfo.gov/link/plaw/88/public/139), Oct. 16, 1963, [77 Stat. 248](https://www.govinfo.gov/link/statute/77/248); [Pub. L. 109–63, § 2(b)](https://www.govinfo.gov/link/plaw/109/public/63), Sept. 9, 2005, [119 Stat. 1994](https://www.govinfo.gov/link/statute/119/1994); [Pub. L. 109–162, title XI, § 1198(a)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3132](https://www.govinfo.gov/link/statute/119/3132).)*

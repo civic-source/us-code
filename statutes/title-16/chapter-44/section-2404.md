@@ -3,9 +3,10 @@ title: "Section 2404 - Permits"
 usc_title: 16
 usc_section: "2404"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2404"
-generated_at: "2026-03-30T02:54:23.001Z"
+generated_at: "2026-11-23T21:25:51.947Z"
+status: "active"
 ---
 
 # § 2404. Permits
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:54:23.001Z"
   - **(2)** Whenever the Director proposes any modification, suspension, or revocation of a permit under this subsection, the permittee shall be afforded opportunity, after due notice, for a hearing by the Director with respect to such proposed modification, suspension, or revocation. If a hearing is requested, the action proposed by the Director shall not take effect before a decision is issued by him after the hearing, unless the proposed action is taken by the Director to meet an emergency situation. Any action taken by the Director after such a hearing is subject to judicial review on the same basis as is provided for with respect to permit applications under subsection (e).
   - **(3)** Notice of the modification, suspension, or revocation of any permit by the Director shall be published in the Federal Register within 10 days from the date of the Director’s decision.
 - **(g)** The Director may establish and charge fees for processing applications for permits under this section. The amount of such fees shall be commensurate with the administrative costs incurred by the Director in undertaking such processing.
+
+## Source Credit
+
+*([Pub. L. 95–541, § 5](https://www.govinfo.gov/link/plaw/95/public/541), Oct. 28, 1978, [92 Stat. 2050](https://www.govinfo.gov/link/statute/92/2050); [Pub. L. 104–227, title I, § 105](https://www.govinfo.gov/link/plaw/104/public/227), Oct. 2, 1996, [110 Stat. 3040](https://www.govinfo.gov/link/statute/110/3040).)*

@@ -3,9 +3,10 @@ title: "Section 12746 - Participation by States and local governments"
 usc_title: 42
 usc_section: "12746"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12746"
-generated_at: "2026-03-30T02:56:11.431Z"
+generated_at: "2026-11-23T21:26:33.548Z"
+status: "active"
 ---
 
 # § 12746. Participation by States and local governments
@@ -40,3 +41,7 @@ The Secretary shall designate a State or unit of general local government to be 
   - **(10)** If the amount appropriated pursuant to section 12724 of this title for any fiscal year is less than $1,500,000,000, then this section shall be applied during that year—
     - **(A)** by substituting “$500,000” for “$750,000” both places it appears in paragraph (3); and
     - **(B)** by substituting “$500,000”, “$410,000”, and “$335,000” for “$750,000”, “$625,000”, and “$500,000”, respectively, where they appear in paragraph (9).
+
+## Source Credit
+
+*([Pub. L. 101–625, title II, § 216](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4103](https://www.govinfo.gov/link/statute/104/4103); [Pub. L. 102–550, title II, § 202(a)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3751](https://www.govinfo.gov/link/statute/106/3751).)*

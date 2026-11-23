@@ -3,9 +3,10 @@ title: "Section 2501 - Congressional findings and declaration of purpose"
 usc_title: 12
 usc_section: "2501"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2501"
-generated_at: "2026-03-30T02:53:53.485Z"
+generated_at: "2026-11-23T21:25:37.101Z"
+status: "active"
 ---
 
 # § 2501. Congressional findings and declaration of purpose
@@ -17,3 +18,7 @@ The Congress finds and declares that—
   - **(3)** the States wherein the purchasers of money orders and traveler’s checks reside should, as a matter of equity among the several States, be entitled to the proceeds of such instruments in the event of abandonment;
   - **(4)** it is a burden on interstate commerce that the proceeds of such instruments are not being distributed to the States entitled thereto; and
   - **(5)** the cost of maintaining and retrieving addresses of purchasers of money orders and traveler’s checks is an additional burden on interstate commerce since it has been determined that most purchasers reside in the State of purchase of such instruments.
+
+## Source Credit
+
+*([Pub. L. 93–495, title VI, § 601](https://www.govinfo.gov/link/plaw/93/public/495), Oct. 28, 1974, [88 Stat. 1525](https://www.govinfo.gov/link/statute/88/1525).)*

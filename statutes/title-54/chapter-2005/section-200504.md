@@ -3,9 +3,10 @@ title: "Section 200504 - Recovery action programs"
 usc_title: 54
 usc_section: "200504"
 chapter: 2005
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "54 U.S.C. § 200504"
-generated_at: "2026-03-30T02:56:28.422Z"
+generated_at: "2026-11-23T21:26:42.794Z"
+status: "active"
 ---
 
 # § 200504. Recovery action programs
@@ -32,3 +33,42 @@ generated_at: "2026-03-30T02:56:28.422Z"
 - **(d)** The Secretary shall establish and publish in the Federal Register requirements for preparation, submission, and updating of local park and recreation recovery action programs.
 - **(e)** To be eligible to receive at-risk youth recreation grants a local government shall amend its 5-year action program to incorporate the goal of reducing crime and juvenile delinquency and to provide a description of the implementation strategies to achieve this goal. The plan shall also address how the local government is coordinating its recreation programs with crime prevention efforts of law enforcement, juvenile corrections, and youth social service agencies.
 - **(f)** The Secretary may provide up to 50 percent matching recovery action program grants to eligible local governments for program development and planning specifically to meet the objectives of this chapter.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 200504 | 16 U.S.C. 2506 . | Pub. L. 95–625, title X, § 1007 , Nov. 10, 1978 , 92 Stat. 3541 ; Pub. L. 103–322, title III , §§ 31504, Sept. 13, 1994 , 108 Stat. 1889 . |
+
+
+Evidence of Local Commitment to Ongoing Programs
+
+Continuing Planning Process
+
+Special Considerations
+
+Publication in Federal Register
+
+Eligibility for At-Risk Youth Recreation Grants
+
+Matching Recovery Action Program Grants
+
+Historical and Revision Notes
+
+200504
+
+16 U.S.C. 2506
+
+Pub. L. 95–625, title X, § 1007
+
+Nov. 10, 1978
+
+92 Stat. 3541
+
+Pub. L. 103–322, title III
+
+Sept. 13, 1994
+
+108 Stat. 1889
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3183](https://www.govinfo.gov/link/statute/128/3183).)*

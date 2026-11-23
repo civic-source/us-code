@@ -3,9 +3,10 @@ title: "Section 1034 - Inspection of egg products"
 usc_title: 21
 usc_section: "1034"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 1034"
-generated_at: "2026-03-30T02:54:54.300Z"
+generated_at: "2026-11-23T21:25:56.267Z"
+status: "active"
 ---
 
 # § 1034. Inspection of egg products
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:54.300Z"
   - **(3)** The Secretary of Health and Human Services shall cause such inspections to be made as the Secretary considers appropriate to ensure compliance with the requirements of paragraph (1) at food manufacturing establishments, institutions, and restaurants, other than plants packing eggs.
   - **(4)** The Secretary shall not make an inspection as provided in paragraph (1) on any egg handler with a flock of not more than 3,000 layers.
   - **(5)** A representative of the Secretary and the Secretary of Health and Human Services shall be afforded access to a place of business referred to in this subsection, including a transport vehicle, for purposes of making an inspection required under this subsection.
+
+## Source Credit
+
+*([Pub. L. 91–597, § 5](https://www.govinfo.gov/link/plaw/91/public/597), Dec. 29, 1970, [84 Stat. 1624](https://www.govinfo.gov/link/statute/84/1624); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695); [Pub. L. 102–237, title X, § 1012(b)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1899](https://www.govinfo.gov/link/statute/105/1899).)*

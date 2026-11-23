@@ -3,9 +3,10 @@ title: "Section 522 - Law enforcement"
 usc_title: 14
 usc_section: "522"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 522"
-generated_at: "2026-03-30T02:53:51.489Z"
+generated_at: "2026-11-23T21:25:35.368Z"
+status: "active"
 ---
 
 # § 522. Law enforcement
@@ -15,3 +16,35 @@ generated_at: "2026-03-30T02:53:51.489Z"
   - **(1)** be deemed to be acting as agents of the particular executive department or independent establishment charged with the administration of the particular law; and
   - **(2)** be subject to all the rules and regulations promulgated by such department or independent establishment with respect to the enforcement of that law.
 - **(c)** The provisions of this section are in addition to any powers conferred by law upon such officers, and not in limitation of any powers conferred by law upon such officers, or any other officers of the United States.
+
+In General
+
+Elements
+
+Briefing
+
+Review.—
+
+In general
+
+Report
+
+Appropriate committees of congress defined
+
+Requirement
+
+Testing for Fentanyl
+
+Definitions
+
+Canine currency detection team
+
+Secretary
+
+Establishment
+
+Operation
+
+## Source Credit
+
+*(Aug. 4, 1949, ch. 393, [63 Stat. 502](https://www.govinfo.gov/link/statute/63/502), § 89; Aug. 3, 1950, ch. 536, § 1, [64 Stat. 406](https://www.govinfo.gov/link/statute/64/406); renumbered § 522, [Pub. L. 115–282, title I, § 105(b)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4200](https://www.govinfo.gov/link/statute/132/4200); [Pub. L. 116–283, div. G, title LVXXXV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXV], § 8505(a)(5), Jan. 1, 2021, [134 Stat. 4748](https://www.govinfo.gov/link/statute/134/4748).)*

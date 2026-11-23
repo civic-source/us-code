@@ -3,9 +3,10 @@ title: "Section 3266 - Regulations"
 usc_title: 18
 usc_section: "3266"
 chapter: 212
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3266"
-generated_at: "2026-03-30T02:54:16.515Z"
+generated_at: "2026-11-23T21:25:44.194Z"
+status: "active"
 ---
 
 # § 3266. Regulations
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:16.515Z"
   - **(1)** The Secretary of Defense, after consultation with the Secretary of State and the Attorney General, shall prescribe regulations requiring that, to the maximum extent practicable, notice shall be provided to any person employed by or accompanying the Armed Forces outside the United States who is not a national of the United States that such person is potentially subject to the criminal jurisdiction of the United States under this chapter.
   - **(2)** A failure to provide notice in accordance with the regulations prescribed under paragraph (1) shall not defeat the jurisdiction of a court of the United States or provide a defense in any judicial proceeding arising under this chapter.
 - **(c)** The regulations prescribed under this section, and any amendments to those regulations, shall not take effect before the date that is 90 days after the date on which the Secretary of Defense submits a report containing those regulations or amendments (as the case may be) to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate.
+
+## Source Credit
+
+*(Added [Pub. L. 106–523, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/523), Nov. 22, 2000, [114 Stat. 2491](https://www.govinfo.gov/link/statute/114/2491).)*

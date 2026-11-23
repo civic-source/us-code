@@ -3,9 +3,10 @@ title: "Section 9057 - Premiums for dairy margin coverage"
 usc_title: 7
 usc_section: "9057"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 9057"
-generated_at: "2026-03-30T02:53:42.487Z"
+generated_at: "2026-11-23T21:25:28.495Z"
+status: "active"
 ---
 
 # § 9057. Premiums for dairy margin coverage
@@ -43,3 +44,35 @@ generated_at: "2026-03-30T02:53:42.487Z"
   - **(3)** Notwithstanding the annual elections under section 9056(a) of this title —
     - **(A)** a 1-time enrollment under this subsection shall remain in effect for the full duration applicable to a participating dairy operation in accordance with paragraph (1) or (2)(B), as applicable; and
     - **(B)** a participating dairy operation that makes a 1-time enrollment under this subsection and is noncompliant under section 9058 of this title shall be subject to that section.
+
+| Coverage Level | Premium per Cwt. |
+| --- | --- |
+| $4.00 | None |
+| $4.50 | $0.0025 |
+| $5.00 | $0.005 |
+| $5.50 | $0.030 |
+| $6.00 | $0.050 |
+| $6.50 | $0.070 |
+| $7.00 | $0.080 |
+| $7.50 | $0.090 |
+| $8.00 | $0.100 |
+| $8.50 | $0.105 |
+| $9.00 | $0.110 |
+| $9.50 | $0.150 |
+
+| Coverage Level | Premium per Cwt. |
+| --- | --- |
+| $4.00 | None |
+| $4.50 | $0.0025 |
+| $5.00 | $0.005 |
+| $5.50 | $0.100 |
+| $6.00 | $0.310 |
+| $6.50 | $0.650 |
+| $7.00 | $1.107 |
+| $7.50 | $1.413 |
+| $8.00 | $1.813 |
+
+
+## Source Credit
+
+*([Pub. L. 113–79, title I, § 1407](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 691](https://www.govinfo.gov/link/statute/128/691); [Pub. L. 115–123, div. F, § 60101(b)(4)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 312](https://www.govinfo.gov/link/statute/132/312); [Pub. L. 115–334, title I, § 1401(h)](https://www.govinfo.gov/link/plaw/115/public/334) –(j), (k)(8), Dec. 20, 2018, [132 Stat. 4514](https://www.govinfo.gov/link/statute/132/4514), 4515, 4517; [Pub. L. 119–21, title I, § 10313(c)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 100](https://www.govinfo.gov/link/statute/139/100).)*

@@ -3,9 +3,10 @@ title: "Section 2162 - Classification and declassification of Restricted Data"
 usc_title: 42
 usc_section: "2162"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2162"
-generated_at: "2026-03-30T02:56:11.153Z"
+generated_at: "2026-11-23T21:26:32.358Z"
+status: "active"
 ---
 
 # § 2162. Classification and declassification of Restricted Data
@@ -27,3 +28,11 @@ generated_at: "2026-03-30T02:56:11.153Z"
     - **(B)** the information would be more appropriately protected as Restricted Data; and
     - **(C)** restoring the information to the Restricted Data category is in the interest of national security.
   - **(3)** In carrying out paragraph (2), information concerning atomic energy programs of other nations shall be restored to the Restricted Data category in accordance with regulations prescribed for purposes of such paragraph.
+
+Dwight D. Eisenhower.
+
+John F. Kennedy.
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 142, as added Aug. 30, 1954, ch. 1073, § 1, [68 Stat. 941](https://www.govinfo.gov/link/statute/68/941); amended [Pub. L. 102–484, div. C, title XXXI, § 3152](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2644](https://www.govinfo.gov/link/statute/106/2644); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944); [Pub. L. 103–337, div. A, title XXXI, § 3155(c)(2)](https://www.govinfo.gov/link/plaw/103/public/337), (3), Oct. 5, 1994, [108 Stat. 3092](https://www.govinfo.gov/link/statute/108/3092); [Pub. L. 112–239, div. C, title XXXI, § 3163](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2205](https://www.govinfo.gov/link/statute/126/2205).)*

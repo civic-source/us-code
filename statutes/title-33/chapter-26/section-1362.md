@@ -3,9 +3,10 @@ title: "Section 1362 - Definitions"
 usc_title: 33
 usc_section: "1362"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1362"
-generated_at: "2026-03-30T02:55:41.102Z"
+generated_at: "2026-11-23T21:26:11.398Z"
+status: "active"
 ---
 
 # § 1362. Definitions
@@ -58,3 +59,33 @@ Except as otherwise specifically provided, when used in this chapter:
       - **(ii)** carries paying passengers.
   - **(26)** The term “treatment works” has the meaning given the term in section 1292 of this title .
   - **(27)** The term “green infrastructure” means the range of measures that use plant or soil systems, permeable pavement or other permeable surfaces or substrates, stormwater harvest and reuse, or landscaping to store, infiltrate, or evapotranspirate stormwater and reduce flows to sewer systems or to surface waters.
+
+Coastal recreation waters.—
+
+In general
+
+Exclusions
+
+Floatable material.—
+
+In general
+
+Inclusions
+
+Pathogen indicator
+
+Oil and gas exploration and production
+
+Recreational vessel.—
+
+In general
+
+Exclusion
+
+Treatment works
+
+Green infrastructure
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title V, § 502, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 886](https://www.govinfo.gov/link/statute/86/886); amended [Pub. L. 95–217, § 33(b)](https://www.govinfo.gov/link/plaw/95/public/217), Dec. 27, 1977, [91 Stat. 1577](https://www.govinfo.gov/link/statute/91/1577); [Pub. L. 100–4, title V](https://www.govinfo.gov/link/plaw/100/public/4), §§ 502(a), 503, Feb. 4, 1987, [101 Stat. 75](https://www.govinfo.gov/link/statute/101/75); [Pub. L. 100–688, title III, § 3202(a)](https://www.govinfo.gov/link/plaw/100/public/688), Nov. 18, 1988, [102 Stat. 4154](https://www.govinfo.gov/link/statute/102/4154); [Pub. L. 104–106, div. A, title III, § 325(c)(3)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 259](https://www.govinfo.gov/link/statute/110/259); [Pub. L. 106–284, § 5](https://www.govinfo.gov/link/plaw/106/public/284), Oct. 10, 2000, [114 Stat. 875](https://www.govinfo.gov/link/statute/114/875); [Pub. L. 109–58, title III, § 323](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 694](https://www.govinfo.gov/link/statute/119/694); [Pub. L. 110–288, § 3](https://www.govinfo.gov/link/plaw/110/public/288), July 29, 2008, [122 Stat. 2650](https://www.govinfo.gov/link/statute/122/2650); [Pub. L. 113–121, title V, § 5012(b)](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1328](https://www.govinfo.gov/link/statute/128/1328); [Pub. L. 115–436, § 5(a)](https://www.govinfo.gov/link/plaw/115/public/436), Jan. 14, 2019, [132 Stat. 5561](https://www.govinfo.gov/link/statute/132/5561).)*

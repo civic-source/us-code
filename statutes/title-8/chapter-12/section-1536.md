@@ -3,9 +3,10 @@ title: "Section 1536 - Custody and release pending removal hearing"
 usc_title: 8
 usc_section: "1536"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1536"
-generated_at: "2026-03-30T02:53:10.504Z"
+generated_at: "2026-11-23T21:25:25.207Z"
+status: "active"
 ---
 
 # § 1536. Custody and release pending removal hearing
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:10.504Z"
     - **(A)** will reasonably assure the appearance of the alien at any future proceeding pursuant to this subchapter; and
     - **(B)** will not endanger the safety of any other person or the community.
   - **(2)** If the judge finds no such condition or combination of conditions, as described in paragraph (1), the alien shall remain in custody until the completion of any appeal authorized by this subchapter.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title V, § 506, as added [Pub. L. 104–132, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1265](https://www.govinfo.gov/link/statute/110/1265).)*

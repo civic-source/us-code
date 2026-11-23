@@ -3,9 +3,10 @@ title: "Section 1007 - Election"
 usc_title: 45
 usc_section: "1007"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 1007"
-generated_at: "2026-03-30T02:55:56.559Z"
+generated_at: "2026-11-23T21:26:19.236Z"
+status: "active"
 ---
 
 # § 1007. Election
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:56.559Z"
 - **(d)** An employee shall not be eligible to receive any assistance (other than moving expenses) under an employee protection agreement entered into or benefit schedule prescribed under section 1005 of this title or any new career training assistance under section 1014 of this title —
   - **(1)** during any period in which such employee is employed by any rail carrier providing temporary service over any lines of the Rock Island Railroad; or
   - **(2)** at any time after the date such employee receives an offer of employment, in his craft and for which such employee is qualified, from a rail carrier acquiring lines of the Rock Island Railroad.
+
+## Source Credit
+
+*([Pub. L. 96–254, title I, § 108](https://www.govinfo.gov/link/plaw/96/public/254), May 30, 1980, [94 Stat. 402](https://www.govinfo.gov/link/statute/94/402); [Pub. L. 96–448, title VII, § 701(b)(2)](https://www.govinfo.gov/link/plaw/96/public/448), Oct. 14, 1980, [94 Stat. 1960](https://www.govinfo.gov/link/statute/94/1960); [Pub. L. 97–468, title II, § 232](https://www.govinfo.gov/link/plaw/97/public/468), Jan. 14, 1983, [96 Stat. 2547](https://www.govinfo.gov/link/statute/96/2547).)*

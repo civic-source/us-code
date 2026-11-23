@@ -3,9 +3,10 @@ title: "Section 7810 - Authorization of appropriations"
 usc_title: 16
 usc_section: "7810"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 7810"
-generated_at: "2026-03-30T02:54:23.079Z"
+generated_at: "2026-11-23T21:25:52.071Z"
+status: "active"
 ---
 
 # § 7810. Authorization of appropriations
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:23.079Z"
 - **(b)**
   - **(1)** Subject to the limits of available appropriations and consistent with applicable law, the Secretary or the Secretary of State may provide appropriate assistance, including grants, to developing nations and international organizations of which such nations are members to assist those nations in meeting their obligations under the South Pacific Fisheries Convention.
   - **(2)** Subject to the limits of available appropriations and consistent with other applicable law, the Secretary and the Secretary of State are authorized to transfer funds to any foreign government and any international, non-governmental, or international organization, including the Commission, for purposes of carrying out the international responsibilities under paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 114–327, title II, § 210](https://www.govinfo.gov/link/plaw/114/public/327), Dec. 16, 2016, [130 Stat. 1993](https://www.govinfo.gov/link/statute/130/1993).)*

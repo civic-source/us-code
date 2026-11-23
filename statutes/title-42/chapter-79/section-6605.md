@@ -3,9 +3,10 @@ title: "Section 6605 - Disclosure of funding sources in applications for Federal
 usc_title: 42
 usc_section: "6605"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6605"
-generated_at: "2026-03-30T02:56:11.263Z"
+generated_at: "2026-11-23T21:26:32.964Z"
+status: "active"
 ---
 
 # § 6605. Disclosure of funding sources in applications for Federal research and development awards
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:56:11.263Z"
   - **(3)** The term “entity” means an entity that has applied for or received a research and development award from a Federal research agency.
   - **(4)** The term “Federal research agency” means any Federal agency with an annual extramural research expenditure of over $100,000,000.
   - **(5)** The term “research and development award” means support provided to an individual or entity by a Federal research agency to carry out research and development activities, which may include support in the form of a grant, contract, cooperative agreement, or other such transaction. The term does not include a grant, contract, agreement or other transaction for the procurement of goods or services to meet the administrative needs of a Federal research agency.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. A, title II, § 223](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3470](https://www.govinfo.gov/link/statute/134/3470).)*

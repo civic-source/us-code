@@ -3,9 +3,10 @@ title: "Section 783 - Staff of National Council"
 usc_title: 29
 usc_section: "783"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 783"
-generated_at: "2026-03-30T02:55:18.697Z"
+generated_at: "2026-11-23T21:26:02.211Z"
+status: "active"
 ---
 
 # § 783. Staff of National Council
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:18.697Z"
 - **(d)**
   - **(1)** It shall be the duty of the Secretary of the Treasury to invest such portion of the amounts made available under subsection (a)(2)(B) 1 1 So in original. Probably should be subsection “(b)(2)(B)”. as is not, in the Secretary’s judgment, required to meet current withdrawals. Such investments may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.
   - **(2)** The amounts described in paragraph (1), and the interest on, and the proceeds from the sale or redemption of, the obligations described in paragraph (1) shall be available to the National Council to carry out this subchapter.
+
+## Source Credit
+
+*([Pub. L. 93–112, title IV, § 403](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 105–220, title IV, § 407](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1200](https://www.govinfo.gov/link/statute/112/1200).)*

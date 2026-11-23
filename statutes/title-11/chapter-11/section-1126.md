@@ -3,9 +3,10 @@ title: "Section 1126 - Acceptance of plan"
 usc_title: 11
 usc_section: "1126"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1126"
-generated_at: "2026-03-30T02:53:53.884Z"
+generated_at: "2026-11-23T21:25:34.953Z"
+status: "active"
 ---
 
 # § 1126. Acceptance of plan
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:53.884Z"
 - **(e)** On request of a party in interest, and after notice and a hearing, the court may designate any entity whose acceptance or rejection of such plan was not in good faith, or was not solicited or procured in good faith or in accordance with the provisions of this title.
 - **(f)** Notwithstanding any other provision of this section, a class that is not impaired under a plan, and each holder of a claim or interest of such class, are conclusively presumed to have accepted the plan, and solicitation of acceptances with respect to such class from the holders of claims or interests of such class is not required.
 - **(g)** Notwithstanding any other provision of this section, a class is deemed not to have accepted a plan if such plan provides that the claims or interests of such class do not entitle the holders of such claims or interests to receive or retain any property under the plan on account of such claims or interests.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2634](https://www.govinfo.gov/link/statute/92/2634); [Pub. L. 98–353, title III, § 510](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 386](https://www.govinfo.gov/link/statute/98/386).)*

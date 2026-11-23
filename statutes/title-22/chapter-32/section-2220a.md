@@ -3,9 +3,10 @@ title: "Section 2220a - General provisions"
 usc_title: 22
 usc_section: "2220a"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2220a"
-generated_at: "2026-03-30T02:55:05.351Z"
+generated_at: "2026-11-23T21:25:58.448Z"
+status: "active"
 ---
 
 # § 2220a. General provisions
@@ -45,3 +46,17 @@ generated_at: "2026-03-30T02:55:05.351Z"
 - **(f)** As used in this subpart, the term “public and private partners of universities” includes entities that have cooperative or contractual agreements with universities, which may include formal or informal associations of universities, other education institutions, United States Government and State agencies, private voluntary organizations, nongovernmental organizations, firms operated for profit, nonprofit organizations, multinational banks, and, as designated by the Administrator, any organization, institution, or agency incorporated in other countries.
 - **(g)** As used in this subpart, the term “agriculture” includes the science and practice of activity related to food, feed, and fiber production, processing, marketing, distribution, utilization, and trade, and also includes family and consumer sciences, nutrition, food science and engineering, agricultural economics and other social sciences, forestry, wildlife, fisheries, aquaculture, floraculture, veterinary medicine, and other environmental and natural resources sciences.
 - **(h)** As used in this subpart, the term “agriculturists” includes farmers, herders, and livestock producers, individuals who fish and others employed in cultivating and harvesting food resources from salt and fresh waters, individuals who cultivate trees and shrubs and harvest nontimber forest products, as well as the processors, managers, teachers, extension specialists, researchers, policymakers, and others who are engaged in the food, feed, and fiber system and its relationships to natural resources.
+
+Contribution
+
+United States Contribution Limit.—
+
+In general
+
+Annual limitation
+
+Authorization of Appropriations
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 296, as added [Pub. L. 94–161, title III, § 312](https://www.govinfo.gov/link/plaw/94/public/161), Dec. 20, 1975, [89 Stat. 861](https://www.govinfo.gov/link/statute/89/861); amended [Pub. L. 95–424, title I, § 103(c)](https://www.govinfo.gov/link/plaw/95/public/424), Oct. 6, 1978, [92 Stat. 945](https://www.govinfo.gov/link/statute/92/945); [Pub. L. 106–373, § 2](https://www.govinfo.gov/link/plaw/106/public/373), Oct. 27, 2000, [114 Stat. 1427](https://www.govinfo.gov/link/statute/114/1427).)*

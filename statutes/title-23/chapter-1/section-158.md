@@ -3,9 +3,10 @@ title: "Section 158 - National minimum drinking age"
 usc_title: 23
 usc_section: "158"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 158"
-generated_at: "2026-03-30T02:55:12.560Z"
+generated_at: "2026-11-23T21:25:53.898Z"
+status: "active"
 ---
 
 # § 158. National minimum drinking age
@@ -20,3 +21,23 @@ generated_at: "2026-03-30T02:55:12.560Z"
   - **(1)** beer as defined in section 5052(a) of the Internal Revenue Code of 1986,
   - **(2)** wine of not less than one-half of 1 per centum of alcohol by volume, or
   - **(3)** distilled spirits as defined in section 5002(a)(8) of such Code.
+
+Withholding of Funds for Noncompliance.—
+
+In general
+
+Fiscal years before 2012
+
+Fiscal year 2012 and thereafter
+
+State grandfather law as complying
+
+Effect of Withholding of Funds
+
+Alcoholic Beverage Defined
+
+First year
+
+## Source Credit
+
+*(Added [Pub. L. 98–363, § 6(a)](https://www.govinfo.gov/link/plaw/98/public/363), July 17, 1984, [98 Stat. 437](https://www.govinfo.gov/link/statute/98/437); amended [Pub. L. 99–272, title IV, § 4104](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 114](https://www.govinfo.gov/link/statute/100/114); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 105–178, title I, § 1103](https://www.govinfo.gov/link/plaw/105/public/178) (l)(2), June 9, 1998, [112 Stat. 125](https://www.govinfo.gov/link/statute/112/125); [Pub. L. 112–141, div. A, title I, § 1404(f)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 558](https://www.govinfo.gov/link/statute/126/558).)*

@@ -3,9 +3,10 @@ title: "Section 7l - Nationwide program for national and State background checks
 usc_title: 42
 usc_section: "7l"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7l"
-generated_at: "2026-03-30T02:56:10.912Z"
+generated_at: "2026-11-23T21:26:31.266Z"
+status: "active"
 ---
 
 # § 1320a–7l. Nationwide program for national and State background checks on direct patient access employees of long-term care facilities and providers
@@ -84,3 +85,83 @@ generated_at: "2026-03-30T02:56:10.912Z"
   - **(2)**
     - **(A)** Out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall provide for the transfer to the Secretary of Health and Human Services of the amount specified as necessary to carry out the nationwide program under paragraph (1). Such amount shall remain available until expended.
     - **(B)** The Secretary may reserve not more than $3,000,000 of the amount transferred under subparagraph (A) to provide for the conduct of the evaluation under subsection (a)(7)(A).
+
+Authority To Conduct Program
+
+Requirements.—
+
+In general
+
+Procedures.—
+
+In general
+
+Elimination of unnecessary checks
+
+Prohibition on hiring of abusive workers.—
+
+In general
+
+Provisional employment.—
+
+In general
+
+Special consideration for certain facilities and providers
+
+Use of information; immunity from liability.—
+
+Use of information
+
+Immunity from liability
+
+Agreements with employment agencies
+
+Penalties
+
+Participating States.—
+
+In general
+
+Requirements for states
+
+Application and selection criteria.—
+
+Application
+
+Selection criteria.—
+
+In general
+
+Additional criteria
+
+Inclusion of states with existing programs
+
+Payments
+
+Evaluation
+
+Funding
+
+Definitions
+
+Conviction for a relevant crime
+
+Disqualifying information
+
+Finding of patient or resident abuse
+
+Direct patient access employee
+
+Long-term care facility or provider.—
+
+In general
+
+Additional facilities or providers
+
+Exceptions
+
+Participating state
+
+## Source Credit
+
+*([Pub. L. 111–148, title VI, § 6201](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 721](https://www.govinfo.gov/link/statute/124/721).)*

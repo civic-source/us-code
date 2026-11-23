@@ -3,9 +3,10 @@ title: "Section 3221 - Eligibility"
 usc_title: 38
 usc_section: "3221"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3221"
-generated_at: "2026-03-30T02:55:53.501Z"
+generated_at: "2026-11-23T21:26:16.731Z"
+status: "active"
 ---
 
 # § 3221. Eligibility
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:53.501Z"
 - **(d)** If a participant disenrolls from the program, such participant forfeits any entitlement to benefits under the program except as provided in subsection (e) of this section. A participant who disenrolls from the program is eligible for a refund of such participant’s contributions as provided in section 3223 of this title .
 - **(e)** A participant who has disenrolled may be permitted to reenroll in the program under such conditions as shall be prescribed jointly by the Secretary and the Secretary of Defense.
 - **(f)** An individual who serves in the Selected Reserve may not receive credit for such service under both the program established by this chapter and the program established by chapter 106 of title 10 but shall elect (in such form and manner as the Secretary of Veterans Affairs may prescribe) the program to which such service is to be credited.
+
+## Source Credit
+
+*(Added [Pub. L. 94–502, title IV, § 404](https://www.govinfo.gov/link/plaw/94/public/502), Oct. 15, 1976, [90 Stat. 2394](https://www.govinfo.gov/link/statute/90/2394), § 1621; amended [Pub. L. 99–576, title III, § 309(a)(3)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3270](https://www.govinfo.gov/link/statute/100/3270); [Pub. L. 101–237, title IV](https://www.govinfo.gov/link/plaw/101/public/237), §§ 410, 423(b)(1)(A), (4)(A), (6), Dec. 18, 1989, [103 Stat. 2084](https://www.govinfo.gov/link/statute/103/2084), 2092, 2093; renumbered § 3221 and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406).)*

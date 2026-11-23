@@ -3,9 +3,10 @@ title: "Section 50503 - Anchor tenancy and termination liability"
 usc_title: 51
 usc_section: "50503"
 chapter: 505
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 50503"
-generated_at: "2026-03-30T02:56:28.707Z"
+generated_at: "2026-11-23T21:26:42.548Z"
+status: "active"
 ---
 
 # § 50503. Anchor tenancy and termination liability
@@ -26,3 +27,44 @@ generated_at: "2026-03-30T02:56:28.707Z"
   - **(2)** Such contracts shall provide for delivery of the good or service on a firm, fixed price basis.
   - **(3)** To the extent practicable, reasonable performance specifications shall be used to define technical requirements in such contracts.
   - **(4)** In any such contract, the appropriate Administrator shall reserve the right to completely or partially terminate the contract without payment of such termination liability because of the contractor’s actual or anticipated failure to perform its contractual obligations.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 50503 | 15 U.S.C. 5806 . | Pub. L. 102–588, title V, § 507 , Nov. 4, 1992 , 106 Stat. 5127 . |
+
+
+Anchor Tenancy Contracts
+
+Termination Liability.—
+
+In general
+
+Fixed schedule of payments and limitation on liability
+
+Use of funds
+
+Limitations.—
+
+Duration
+
+Fixed price
+
+Performance specifications
+
+Failure to perform
+
+Historical and Revision Notes
+
+50503
+
+15 U.S.C. 5806
+
+Pub. L. 102–588, title V, § 507
+
+Nov. 4, 1992
+
+106 Stat. 5127
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3405](https://www.govinfo.gov/link/statute/124/3405).)*

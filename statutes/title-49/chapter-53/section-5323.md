@@ -3,9 +3,10 @@ title: "Section 5323 - General provisions"
 usc_title: 49
 usc_section: "5323"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 5323"
-generated_at: "2026-03-30T02:56:19.315Z"
+generated_at: "2026-11-23T21:26:40.645Z"
+status: "active"
 ---
 
 # § 5323. General provisions
@@ -137,3 +138,503 @@ generated_at: "2026-03-30T02:56:19.315Z"
   - **(3)** Nothing in this subsection shall be construed to interfere with the authority of—
     - **(A)** the Secretary of Homeland Security to publish or ensure compliance with requirements or standards concerning cybersecurity for rail fixed guideway public transportation systems; or
     - **(B)** the Secretary of Transportation under section 5329 to address cybersecurity issues as those issues relate to the safety of rail fixed guideway public transportation systems.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5323(a)(1) | 49 App.:1602(e). | July 9, 1964 , Pub. L. 88–365, § 3(e) , 78 Stat. 303 ; Sept. 8, 1966 , Pub. L. 89–562, § 2(b)(1) , 80 Stat. 716 ; May 25, 1967 , Pub. L. 90–19, § 20(a) , 81 Stat. 25 ; Oct. 15, 1970 , Pub. L. 91–453, § 2(1) , 84 Stat. 962 ; Nov. 6, 1978 , Pub. L. 95–599, § 302(c) , 92 Stat. 2737 . |
+| 5323(a)(2) | 49 App.:1608(e). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 12(e), (g); added Nov. 6, 1978 , Pub. L. 95–599, § 308(d) , 92 Stat. 2747 . |
+| 5323(b) | 49 App.:1602(d). | July 9, 1964 , Pub. L. 88–365, § 3(d) , 78 Stat. 303 ; May 25, 1967 , Pub. L. 90–19, § 20(a) , 81 Stat. 25 ; restated Oct. 15, 1970 , Pub. L. 91–453, § 2(2) , 84 Stat. 964 . |
+| 5323(c) | 49 App.:1608(h)(1). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 12(h)(1); added Apr. 2, 1987 , Pub. L. 100–17, § 317(a) , 101 Stat. 233 . |
+| 5323(d) | 49 App.:1602(f). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 3(f); added Jan. 4, 1974 , Pub. L. 93–650, § 1(a) , 89 Stat. 2–1 ; Aug. 22, 1974 , Pub. L. 93–383, § 813(a) , 88 Stat. 737 ; Nov. 26, 1974 , Pub. L. 93–503, § 109(b) , 88 Stat. 1573 . |
+| 5323(e) | 49 App.:1608(g). |  |
+| 5323(f) | 49 App.:1602(g). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 3(g); added Nov. 26, 1974 , Pub. L. 93–503, § 109(a) , 88 Stat. 1572 . |
+| 5323(g) | 49 App.:1602a. | Aug. 13, 1973 , Pub. L. 93–87, § 164 , 87 Stat. 281 ; Jan. 4, 1974 , Pub. L. 93–650, § 1(b) , 89 Stat. 2–1 ; Aug. 22, 1974 , Pub. L. 93–383, § 813(b) , 88 Stat. 737 . |
+| 5323(h) | 49 App.:1602(a)(2)(C). | July 9, 1964 , Pub. L. 88–365, § 3(a)(2)(C) , 78 Stat. 303 ; May 25, 1967 , Pub. L. 90–19, § 20(a) , 81 Stat. 25 ; Oct. 15, 1970 , Pub. L. 91–453, § 2(2) , 84 Stat. 962 ; Nov. 26, 1974 , Pub. L. 93–503 , §§ 102, 104, 106, 88 Stat. 1566 , 1571, 1572; restated Nov. 6, 1978 , Pub. L. 95–599, § 302(a) , 92 Stat. 2736 . |
+| 5323(i) | 49 App.:1608(m). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 12(m); added Dec. 18, 1991 , Pub. L. 102–240, § 3020 , 105 Stat. 2110 . |
+| 5323(j)(1) | 23:101 (note). | Jan. 6, 1983 , Pub. L. 97–424, § 165(a) (related to the Urban Mass Transportation Act of 1964), 96 Stat. 2136 ; Mar. 9, 1984 , Pub. L. 98–229, § 10 , 98 Stat. 57 ; Dec. 18, 1991 , Pub. L. 102–240, § 1048(a) , 105 Stat. 1999 . |
+| 5323(j)(2) | 23:101 (note). | Jan. 6, 1983 , Pub. L. 97–424, § 165(b) (related to the Urban Mass Transportation Act of 1964), 96 Stat. 2137 ; Apr. 2, 1987 , Pub. L. 100–17 , §§ 133(a)(6), 337(a)(1), (b), (c), 101 Stat. 171 , 241. |
+| 5323(j)(3) | 23:101 (note). | Jan. 6, 1983 , Pub. L. 97–424, § 165(c) (related to the Urban Mass Transportation Act of 1964), 96 Stat. 2137 . |
+| 5323(j)(4) | 23:101 (note). | Jan. 6, 1983 , Pub. L. 97–424 , 96 Stat. 2097 , § 165(g) (related to the Urban Mass Transportation Act of 1964); added Dec. 18, 1991 , Pub. L. 102–240, § 1048(b) , 105 Stat. 2000 . |
+| 5323(j)(5) | 23:101 (note). | Jan. 6, 1983 , Pub. L. 97–424 , 96 Stat. 2097 , § 165(f) (related to the Urban Mass Transportation Act of 1964); added Dec. 18, 1991 , Pub. L. 102–240, § 1048(b) , 105 Stat. 1999 . |
+| 5323(j)(6) | 23:101 (note). | Jan. 6, 1983 , Pub. L. 97–424, § 165(d) (related to the Urban Mass Transportation Act of 1964), 96 Stat. 2137 . |
+| 5323(j)(7) | 23:101 (note). | Jan. 6, 1983 , Pub. L. 97–424 , 96 Stat. 2097 , § 165(e) (related to the Urban Mass Transportation Act of 1964); added Dec. 18, 1991 , Pub. L. 102–240, § 1048(b) , 105 Stat. 1999 . |
+| 5323(k) | 49 App.:1607(q). | July 9, 1964 , Pub. L. 88–365 , 78 Stat. 302 , § 8(q); added Oct. 6, 1992 , Pub. L. 102–388, § 502(i) , 106 Stat. 1566 . |
+
+| Pub. L . 103–429, § 6(10)(B) | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5323( l ) | 49 App.:1608(j). | July 9, 1964 , Pub. L. 88–365, § 12(j) , as added Apr. 2, 1987 , Pub. L. 100–17, § 319 , 101 Stat. 234 . |
+
+
+Interests in Property.—
+
+In general
+
+Limitation
+
+Relocation and Real Property Requirements
+
+Consideration of Economic, Social, and Environmental Interests.—
+
+Cooperation and consultation
+
+Compliance with nepa
+
+Condition on Charter Bus Transportation Service.—
+
+Agreements
+
+Violations.—
+
+Investigations
+
+Enforcement of agreements
+
+Additional remedies
+
+Bond Proceeds Eligible for Local Share.—
+
+Use as local matching funds
+
+Maintenance of effort
+
+Debt service reserve
+
+Schoolbus Transportation.—
+
+Agreements
+
+Violations
+
+Buying Buses Under Other Laws
+
+Grant and Loan Prohibitions
+
+Government Share of Costs for Certain Projects.—
+
+Acquiring vehicles and vehicle-related equipment or facilities.—
+
+Vehicles
+
+Vehicle-related equipment or facilities
+
+Costs incurred by providers of public transportation by vanpool.—
+
+Local matching share
+
+Use of revenues
+
+Definitions
+
+Private provider of public transportation by vanpool
+
+Commuter highway vehicle; vanpool vehicle
+
+Buy America.—
+
+In general
+
+Waiver
+
+Written waiver determination and annual report.—
+
+Written determination
+
+Annual report
+
+Labor costs for final assembly
+
+Rolling stock frames or car shells
+
+Certification of domestic supply and disclosure.—
+
+Certification of domestic supply
+
+Disclosure
+
+Waiver prohibited
+
+Penalty for mislabeling and misrepresentation
+
+State requirements
+
+Opportunity to correct inadvertent error
+
+Administrative review
+
+Steel and iron
+
+Definition of small purchase
+
+Participation of Governmental Agencies in Design and Delivery of Transportation Services
+
+Relationship to Other Laws.—
+
+Fraud and false statements
+
+Political activities of nonsupervisory employees
+
+Preaward and Postdelivery Review of Rolling Stock Purchases
+
+Submission of Certifications
+
+Grant Requirements
+
+Alternative Fueling Facilities
+
+Corridor Preservation.—
+
+In general
+
+Environmental reviews
+
+Reasonable Access to Public Transportation Facilities
+
+Value Capture Revenue Eligible for Local Share
+
+Special Condition on Charter Bus Transportation Service
+
+Limitation on Certain Rolling Stock Procurements.—
+
+In general
+
+Exception
+
+International agreements
+
+Certification for rail rolling stock.—
+
+In general
+
+Separate certification
+
+Special rules.—
+
+Parties to executed contracts
+
+Rolling stock
+
+Exception
+
+Cybersecurity Certification for Rail Rolling Stock and Operations.—
+
+Certification
+
+Compliance
+
+Limitations on statutory construction
+
+Historical and Revision Notes
+
+Pub. L
+
+5323(a)(1)
+
+July 9, 1964
+
+Pub. L. 88–365, § 3(e)
+
+78 Stat. 303
+
+Sept. 8, 1966
+
+Pub. L. 89–562, § 2(b)(1)
+
+80 Stat. 716
+
+May 25, 1967
+
+Pub. L. 90–19, § 20(a)
+
+81 Stat. 25
+
+Oct. 15, 1970
+
+Pub. L. 91–453, § 2(1)
+
+84 Stat. 962
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 302(c)
+
+92 Stat. 2737
+
+5323(a)(2)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 308(d)
+
+92 Stat. 2747
+
+5323(b)
+
+July 9, 1964
+
+Pub. L. 88–365, § 3(d)
+
+78 Stat. 303
+
+May 25, 1967
+
+Pub. L. 90–19, § 20(a)
+
+81 Stat. 25
+
+Oct. 15, 1970
+
+Pub. L. 91–453, § 2(2)
+
+84 Stat. 964
+
+5323(c)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 317(a)
+
+101 Stat. 233
+
+5323(d)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Jan. 4, 1974
+
+Pub. L. 93–650, § 1(a)
+
+89 Stat. 2–1
+
+Aug. 22, 1974
+
+Pub. L. 93–383, § 813(a)
+
+88 Stat. 737
+
+Nov. 26, 1974
+
+Pub. L. 93–503, § 109(b)
+
+88 Stat. 1573
+
+5323(e)
+
+5323(f)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Nov. 26, 1974
+
+Pub. L. 93–503, § 109(a)
+
+88 Stat. 1572
+
+5323(g)
+
+Aug. 13, 1973
+
+Pub. L. 93–87, § 164
+
+87 Stat. 281
+
+Jan. 4, 1974
+
+Pub. L. 93–650, § 1(b)
+
+89 Stat. 2–1
+
+Aug. 22, 1974
+
+Pub. L. 93–383, § 813(b)
+
+88 Stat. 737
+
+5323(h)
+
+July 9, 1964
+
+Pub. L. 88–365, § 3(a)(2)(C)
+
+78 Stat. 303
+
+May 25, 1967
+
+Pub. L. 90–19, § 20(a)
+
+81 Stat. 25
+
+Oct. 15, 1970
+
+Pub. L. 91–453, § 2(2)
+
+84 Stat. 962
+
+Nov. 26, 1974
+
+Pub. L. 93–503
+
+88 Stat. 1566
+
+Nov. 6, 1978
+
+Pub. L. 95–599, § 302(a)
+
+92 Stat. 2736
+
+5323(i)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 3020
+
+105 Stat. 2110
+
+5323(j)(1)
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 165(a)
+
+96 Stat. 2136
+
+Mar. 9, 1984
+
+Pub. L. 98–229, § 10
+
+98 Stat. 57
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 1048(a)
+
+105 Stat. 1999
+
+5323(j)(2)
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 165(b)
+
+96 Stat. 2137
+
+Apr. 2, 1987
+
+Pub. L. 100–17
+
+101 Stat. 171
+
+5323(j)(3)
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 165(c)
+
+96 Stat. 2137
+
+5323(j)(4)
+
+Jan. 6, 1983
+
+Pub. L. 97–424
+
+96 Stat. 2097
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 1048(b)
+
+105 Stat. 2000
+
+5323(j)(5)
+
+Jan. 6, 1983
+
+Pub. L. 97–424
+
+96 Stat. 2097
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 1048(b)
+
+105 Stat. 1999
+
+5323(j)(6)
+
+Jan. 6, 1983
+
+Pub. L. 97–424, § 165(d)
+
+96 Stat. 2137
+
+5323(j)(7)
+
+Jan. 6, 1983
+
+Pub. L. 97–424
+
+96 Stat. 2097
+
+Dec. 18, 1991
+
+Pub. L. 102–240, § 1048(b)
+
+105 Stat. 1999
+
+5323(k)
+
+July 9, 1964
+
+Pub. L. 88–365
+
+78 Stat. 302
+
+Oct. 6, 1992
+
+Pub. L. 102–388, § 502(i)
+
+106 Stat. 1566
+
+Pub. L
+
+5323( l )
+
+July 9, 1964
+
+Pub. L. 88–365, § 12(j)
+
+Apr. 2, 1987
+
+Pub. L. 100–17, § 319
+
+101 Stat. 234
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 821](https://www.govinfo.gov/link/statute/108/821); [Pub. L. 103–429, § 6(10)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4379](https://www.govinfo.gov/link/statute/108/4379); [Pub. L. 104–287, § 5(15)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3390](https://www.govinfo.gov/link/statute/110/3390); [Pub. L. 105–178, title III, § 3020](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 362](https://www.govinfo.gov/link/statute/112/362); [Pub. L. 109–59, title III](https://www.govinfo.gov/link/plaw/109/public/59), §§ 3002(b)(4), 3023(a)–(i)(3), (j)–(m), Aug. 10, 2005, [119 Stat. 1545](https://www.govinfo.gov/link/statute/119/1545), 1615–1619; [Pub. L. 110–244, title II, § 201(j)](https://www.govinfo.gov/link/plaw/110/public/244), June 6, 2008, [122 Stat. 1611](https://www.govinfo.gov/link/statute/122/1611); [Pub. L. 112–141, div. B, § 20016](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 697](https://www.govinfo.gov/link/statute/126/697); [Pub. L. 114–94, div. A, title III, § 3011](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1474](https://www.govinfo.gov/link/statute/129/1474); [Pub. L. 116–92, div. F, title LXXVI, § 7613](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2314](https://www.govinfo.gov/link/statute/133/2314); [Pub. L. 117–58, div. C](https://www.govinfo.gov/link/plaw/117/public/58), §§ 30001(b)(2), 30010, Nov. 15, 2021, [135 Stat. 890](https://www.govinfo.gov/link/statute/135/890), 904.)*

@@ -3,9 +3,10 @@ title: "Section 6722 - Facility agreements"
 usc_title: 22
 usc_section: "6722"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6722"
-generated_at: "2026-03-30T02:55:05.432Z"
+generated_at: "2026-11-23T21:25:58.695Z"
+status: "active"
 ---
 
 # § 6722. Facility agreements
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.432Z"
   - **(2)** describe the procedures for providing notice of an inspection to the owner, occupant, operator, or agent in charge of a facility;
   - **(3)** describe the timeframes for inspections; and
   - **(4)** detail the areas, equipment, computers, records, data, and samples that are not subject to inspection.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. I, title III, § 302](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–872](https://www.govinfo.gov/link/statute/112/2681).)*

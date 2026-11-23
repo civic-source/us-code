@@ -3,9 +3,10 @@ title: "Section 77g - Information required in registration statement"
 usc_title: 15
 usc_section: "77g"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 77g"
-generated_at: "2026-03-30T02:54:08.032Z"
+generated_at: "2026-11-23T21:25:39.504Z"
+status: "active"
 ---
 
 # § 77g. Information required in registration statement
@@ -38,3 +39,53 @@ generated_at: "2026-03-30T02:54:08.032Z"
 - **(d)** Not later than 180 days after July 21, 2010 , the Commission shall issue rules relating to the registration statement required to be filed by any issuer of an asset-backed security (as that term is defined in section 78c(a)(77) 1 1 See References in Text note below. of this title) that require any issuer of an asset-backed security—
   - **(1)** to perform a review of the assets underlying the asset-backed security; and
   - **(2)** to disclose the nature of the review under paragraph (1).
+
+In general
+
+Civil penalties.—
+
+In general
+
+Accounting and disgorgement
+
+Special rules for title v.—
+
+Sections 503 and 504
+
+Sections 505 and 508
+
+Commencement of rulemaking
+
+In general
+
+Scaling of regulatory requirements; minimizing disruption
+
+“Not later than the end of the 180-day period beginning on the date of the enactment of this Act [ Dec. 4, 2015 ], the Securities and Exchange Commission shall take all such actions to revise regulation S–K (17 CFR 229.10 et seq.)—
+
+Better Enforcement of the Quality of Corporate Financial Data Submitted to the Securities and Exchange Commission.—
+
+Data quality improvement program.—
+
+In general
+
+Contents
+
+Goals
+
+Report on the Use of Machine-Readable Data for Corporate Disclosures.—
+
+In general
+
+Content
+
+Sunset
+
+“With respect to an emerging growth company (as such term is defined under section 2 of the Securities Act of 1933 [ 15 U.S.C. 77b ]):
+
+Requirement to include notice on forms s–1 and f–1
+
+Reliance by issuers
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title I, § 7, [48 Stat. 78](https://www.govinfo.gov/link/statute/48/78); [Pub. L. 101–429, title V, § 508](https://www.govinfo.gov/link/plaw/101/public/429), Oct. 15, 1990, [104 Stat. 956](https://www.govinfo.gov/link/statute/104/956); [Pub. L. 111–203, title IX](https://www.govinfo.gov/link/plaw/111/public/203), §§ 942(b), 945, July 21, 2010, [124 Stat. 1897](https://www.govinfo.gov/link/statute/124/1897), 1898; [Pub. L. 112–106, title I, § 102(b)(1)](https://www.govinfo.gov/link/plaw/112/public/106), Apr. 5, 2012, [126 Stat. 309](https://www.govinfo.gov/link/statute/126/309); [Pub. L. 117–263, div. E, title LVIII, § 5821(d)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3425](https://www.govinfo.gov/link/statute/136/3425).)*

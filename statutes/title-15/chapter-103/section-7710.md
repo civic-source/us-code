@@ -3,9 +3,10 @@ title: "Section 7710 - Improving enforcement by providing rewards for informatio
 usc_title: 15
 usc_section: "7710"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7710"
-generated_at: "2026-03-30T02:54:08.226Z"
+generated_at: "2026-11-23T21:25:40.069Z"
+status: "active"
 ---
 
 # § 7710. Improving enforcement by providing rewards for information about violations; labeling
@@ -18,3 +19,7 @@ The Commission shall transmit to the Senate Committee on Commerce, Science, and 
       - **(ii)** supplies information that leads to the successful collection of a civil penalty by the Commission; and
     - **(B)** procedures to minimize the burden of submitting a complaint to the Commission concerning violations of this chapter, including procedures to allow the electronic submission of complaints to the Commission; and
   - **(2)** a report, within 18 months after December 16, 2003 , that sets forth a plan for requiring commercial electronic mail to be identifiable from its subject line, by means of compliance with Internet Engineering Task Force Standards, the use of the characters “ADV” in the subject line, or other comparable identifier, or an explanation of any concerns the Commission has that cause the Commission to recommend against the plan.
+
+## Source Credit
+
+*([Pub. L. 108–187, § 11](https://www.govinfo.gov/link/plaw/108/public/187), Dec. 16, 2003, [117 Stat. 2717](https://www.govinfo.gov/link/statute/117/2717).)*

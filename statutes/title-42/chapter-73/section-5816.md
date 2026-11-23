@@ -3,9 +3,10 @@ title: "Section 5816 - Personnel and services"
 usc_title: 42
 usc_section: "5816"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5816"
-generated_at: "2026-03-30T02:56:11.238Z"
+generated_at: "2026-11-23T21:26:32.823Z"
+status: "active"
 ---
 
 # § 5816. Personnel and services
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.238Z"
 - **(f)** The Administrator is authorized to utilize, on a reimbursable basis, the services of any personnel made available by any department, agency, or instrumentality, including any independent agency of the Government.
 - **(g)** The Administrator is authorized to establish advisory boards, in accordance with the provisions of chapter 10 of title 5, to advise with and make recommendations to the Administrator on legislation, policies, administration, research, and other matters.
 - **(h)** The Administrator is authorized to employ persons who are not citizens of the United States in expert, scientific, technical, or professional capacities whenever he deems it in the public interest.
+
+## Source Credit
+
+*([Pub. L. 93–438, title I, § 106](https://www.govinfo.gov/link/plaw/93/public/438), Oct. 11, 1974, [88 Stat. 1239](https://www.govinfo.gov/link/statute/88/1239); [Pub. L. 117–286, § 4(a)(264)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4335](https://www.govinfo.gov/link/statute/136/4335).)*

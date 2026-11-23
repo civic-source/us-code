@@ -3,9 +3,10 @@ title: "Section 19c - Study on intractable water systems"
 usc_title: 42
 usc_section: "19c"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19c"
-generated_at: "2026-03-30T02:56:10.806Z"
+generated_at: "2026-11-23T21:26:30.766Z"
+status: "active"
 ---
 
 # § 300j–19c. Study on intractable water systems
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:10.806Z"
     - **(A)** identifies intractable water systems; and
     - **(B)** describes barriers to delivery of potable water to individuals served by an intractable water system.
   - **(2)** Not later than 2 years after October 23, 2018 , the Administrator shall submit to Congress a report describing findings and recommendations based on the study under this subsection.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XIV, § 1459C, as added [Pub. L. 115–270, title II, § 2003](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3841](https://www.govinfo.gov/link/statute/132/3841).)*

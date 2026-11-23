@@ -3,9 +3,10 @@ title: "Section 971 - Agreements to indemnify against loss or damage"
 usc_title: 20
 usc_section: "971"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 971"
-generated_at: "2026-03-30T02:54:48.090Z"
+generated_at: "2026-11-23T21:25:46.986Z"
+status: "active"
 ---
 
 # § 971. Agreements to indemnify against loss or damage
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:48.090Z"
 - **(b)**
   - **(1)** For purposes of this chapter, the Council shall be an “agency” within the meaning of the appropriate definitions of such term in title 5.
   - **(2)** For purposes of this chapter, the Secretary of the Smithsonian Institution, the Director of the National Gallery of Art, the member designated by the Chairman of the Senate Commission of Art and Antiquities and the member designated by the Speaker of the House of Representatives shall not serve as members of the Council.
+
+## Source Credit
+
+*([Pub. L. 94–158, § 2](https://www.govinfo.gov/link/plaw/94/public/158), Dec. 20, 1975, [89 Stat. 844](https://www.govinfo.gov/link/statute/89/844); [Pub. L. 99–194, title III, § 301](https://www.govinfo.gov/link/plaw/99/public/194), Dec. 20, 1985, [99 Stat. 1345](https://www.govinfo.gov/link/statute/99/1345).)*

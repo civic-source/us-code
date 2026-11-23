@@ -3,9 +3,10 @@ title: "Section 6b - Contracts designed to defraud or mislead"
 usc_title: 7
 usc_section: "6b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6b"
-generated_at: "2026-03-30T02:53:42.239Z"
+generated_at: "2026-11-23T21:25:27.843Z"
+status: "active"
 ---
 
 # § 6b. Contracts designed to defraud or mislead
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:42.239Z"
   - **(1)** to employ any device, scheme, or artifice to defraud;
   - **(2)** to make any untrue statement of a material fact or to omit to state a material fact necessary in order to make the statements made, in the light of the circumstances under which they were made, not misleading; or
   - **(3)** to engage in any act, practice, or course of business which operates or would operate as a fraud or deceit upon any person.
+
+## Source Credit
+
+*(Sept. 21, 1922, ch. 369, § 4b, as added June 15, 1936, ch. 545, § 5, [49 Stat. 1493](https://www.govinfo.gov/link/statute/49/1493); amended [Pub. L. 90–258, § 5](https://www.govinfo.gov/link/plaw/90/public/258), Feb. 19, 1968, [82 Stat. 27](https://www.govinfo.gov/link/statute/82/27); [Pub. L. 93–463, title IV, § 405](https://www.govinfo.gov/link/plaw/93/public/463), Oct. 23, 1974, [88 Stat. 1413](https://www.govinfo.gov/link/statute/88/1413); [Pub. L. 99–641, title I, § 101](https://www.govinfo.gov/link/plaw/99/public/641), Nov. 10, 1986, [100 Stat. 3557](https://www.govinfo.gov/link/statute/100/3557); [Pub. L. 102–546, title IV, § 402(3)](https://www.govinfo.gov/link/plaw/102/public/546), Oct. 28, 1992, [106 Stat. 3624](https://www.govinfo.gov/link/statute/106/3624); [Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(5)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–407; [Pub. L. 110–234, title XIII, § 13102](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1432](https://www.govinfo.gov/link/statute/122/1432); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIII, § 13102, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2194; [Pub. L. 111–203, title VII, § 741(b)(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1730](https://www.govinfo.gov/link/statute/124/1730).)*

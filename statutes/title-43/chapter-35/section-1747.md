@@ -3,9 +3,10 @@ title: "Section 1747 - Loans to States and political subdivisions; purposes; amo
 usc_title: 43
 usc_section: "1747"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1747"
-generated_at: "2026-03-30T02:55:57.489Z"
+generated_at: "2026-11-23T21:26:19.878Z"
+status: "active"
 ---
 
 # § 1747. Loans to States and political subdivisions; purposes; amounts; allocation; terms and conditions; interest rate; security; limitations; forebearance for benefit of borrowers; recordkeeping requirements; discrimination prohibited; deposit of receipts
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:57.489Z"
   - **(9)** Recipients of loans made pursuant to this section shall keep such records as the Secretary shall prescribe by regulation, including records which fully disclose the disposition of the proceeds of such assistance and such other records as the Secretary may require to facilitate an effective audit. The Secretary and the Comptroller General of the United States or their duly authorized representatives shall have access, for the purpose of audit, to such records.
   - **(10)** No person in the United States shall, on the grounds of race, color, religion, national origin, or sex be excluded from participation in, be denied the benefits of, or be subjected to discrimination under, any program or activity funded in whole or part with funds made available under this section.
   - **(11)** All amounts collected in connection with loans made pursuant to this section, including interest payments or repayments of principal on loans, fees, and other moneys, derived in connection with this section, shall be deposited in the Treasury as miscellaneous receipts.
+
+## Source Credit
+
+*([Pub. L. 94–579, title III, § 317(c)](https://www.govinfo.gov/link/plaw/94/public/579), Oct. 21, 1976, [90 Stat. 2771](https://www.govinfo.gov/link/statute/90/2771); [Pub. L. 95–352, § 1(f)](https://www.govinfo.gov/link/plaw/95/public/352), Aug. 20, 1978, [92 Stat. 515](https://www.govinfo.gov/link/statute/92/515).)*

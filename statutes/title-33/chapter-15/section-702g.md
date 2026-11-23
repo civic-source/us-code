@@ -3,12 +3,17 @@ title: "Section 702g - Appropriation for emergency fund"
 usc_title: 33
 usc_section: "702g"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 702g"
-generated_at: "2026-03-30T02:55:41.071Z"
+generated_at: "2026-11-23T21:26:11.334Z"
+status: "active"
 ---
 
 # § 702g. Appropriation for emergency fund
 
 The sum of $5,000,000 is authorized to be appropriated as an emergency fund to be allotted by the Secretary of the Army on the recommendation of the Chief of Engineers, in rescue work or in the repair or maintenance of any flood-control work on any tributaries of the Mississippi River threatened or destroyed by flood including the flood of 1927: Provided , That the unexpended and unallotted balance of said sum, or so much thereof as may be necessary, may be allotted by the Secretary of the Army on the recommendation of the Chief of Engineers in the reimbursement of levee districts or others for expenditures heretofore incurred or made for the construction, repair, or maintenance of any flood-control work on any tributaries or outlets of the Mississippi River that may be threatened, impaired, or destroyed by the flood of 1927 or subsequent flood or that have been impaired, damaged, or destroyed by flood; and also in the construction, repair, or maintenance, and in the reimbursement of levee districts or others for the construction, repair, or maintenance of any flood-control work on any of the tributaries or outlets of the Mississippi River that have been impaired, damaged, or destroyed by caving banks or that may be threatened or impaired by caving banks of such tributaries, whether or not such caving has taken place during a flood stage: Provided further , That if the Chief of Engineers finds that it has been or will be necessary or advisable to change the location of any such flood-control work in order to provide the protection contemplated by this section, such change may be approved and/or authorized.
 
+
+## Source Credit
+
+*(May 15, 1928, ch. 569, § 7, [45 Stat. 537](https://www.govinfo.gov/link/statute/45/537); June 19, 1930, ch. 542, [46 Stat. 787](https://www.govinfo.gov/link/statute/46/787); July 26, 1947, ch. 343, title II, § 205(a), [61 Stat. 501](https://www.govinfo.gov/link/statute/61/501).)*

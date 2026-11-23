@@ -3,9 +3,10 @@ title: "Section 3204 - National tsunami hazard mitigation program"
 usc_title: 33
 usc_section: "3204"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3204"
-generated_at: "2026-03-30T02:55:41.138Z"
+generated_at: "2026-11-23T21:26:11.480Z"
+status: "active"
 ---
 
 # § 3204. National tsunami hazard mitigation program
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:55:41.138Z"
   - **(6)** Risk notification systems that coordinate with and build upon existing systems and actively engage decisionmakers, State, local, tribal, and territorial governments and agencies, business communities, nongovernmental organizations, and the media.
 - **(e)** The establishment of national standards for inundation models under this section shall not prevent States, territories, tribes, and local governments from designating additional areas as being at risk based on knowledge of local conditions.
 - **(f)** Nothing in this chapter may be construed as establishing new regulatory authority for any Federal agency.
+
+## Source Credit
+
+*([Pub. L. 109–424, § 5](https://www.govinfo.gov/link/plaw/109/public/424), Dec. 20, 2006, [120 Stat. 2906](https://www.govinfo.gov/link/statute/120/2906); [Pub. L. 109–479, title VIII, § 805](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3657](https://www.govinfo.gov/link/statute/120/3657); [Pub. L. 115–25, title V](https://www.govinfo.gov/link/plaw/115/public/25), §§ 505(a), (b), 512(a), Apr. 18, 2017, [131 Stat. 121](https://www.govinfo.gov/link/statute/131/121), 128.)*

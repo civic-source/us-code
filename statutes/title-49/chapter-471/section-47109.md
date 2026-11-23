@@ -3,9 +3,10 @@ title: "Section 47109 - United States Government’s share of project costs"
 usc_title: 49
 usc_section: "47109"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 47109"
-generated_at: "2026-03-30T02:56:19.400Z"
+generated_at: "2026-11-23T21:26:40.968Z"
+status: "active"
 ---
 
 # § 47109. United States Government’s share of project costs
@@ -40,3 +41,76 @@ generated_at: "2026-03-30T02:56:19.400Z"
     - **(B)** 5 years after the date of enactment of this subsection.
 - **(h)** Notwithstanding subsection (a), the Government’s share of allowable project costs for a grant made to a nonhub or nonprimary airport in each of fiscal years 2025 and 2026 shall be 95 percent.
 - **(i)** With respect to a project to carry out sound insulation that is granted a waiver under section 47110(j), the allowable project cost for such project shall be calculated without consideration of any costs that were previously paid by the Government.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 47109(a) | 49 App.:2209(a), (b). | Sept. 3, 1982 , Pub. L. 97–248, § 510 , 96 Stat. 685 . |
+| 47109(b) | 49 App.:2209(c). |  |
+| 47109(c) | 49 App.:2212(b)(5). | Sept. 3, 1982 , Pub. L. 97–248, § 513(b)(5) , 96 Stat. 691 ; Dec. 30, 1987 , Pub. L. 100–223, § 111(a)(2) , 101 Stat. 1503 ; Oct. 31, 1992 , Pub. L. 102–581, § 110(b) , 106 Stat. 4880 . |
+
+
+General
+
+Increased Government Share
+
+Grandfather Rule.—
+
+In general
+
+Special Rule for Privately Owned Reliever Airports
+
+Special Rule for Transition From Small Hub to Medium Hub Status
+
+Special Rule for Economically Distressed Communities
+
+Special Rule for Covered Equipment.—
+
+In general
+
+Definition of covered equipment
+
+Sunset
+
+Special Rule for Fiscal Years
+
+and
+
+Special Rule for Sound Insulation Repair and Replacement
+
+Historical and Revision Notes
+
+47109(a)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 510
+
+96 Stat. 685
+
+47109(b)
+
+47109(c)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 513(b)(5)
+
+96 Stat. 691
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 111(a)(2)
+
+101 Stat. 1503
+
+Oct. 31, 1992
+
+Pub. L. 102–581, § 110(b)
+
+106 Stat. 4880
+
+Limitation
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1264](https://www.govinfo.gov/link/statute/108/1264); [Pub. L. 103–305, title I, § 114](https://www.govinfo.gov/link/plaw/103/public/305), Aug. 23, 1994, [108 Stat. 1579](https://www.govinfo.gov/link/statute/108/1579); [Pub. L. 104–264, title I, § 149(c)](https://www.govinfo.gov/link/plaw/104/public/264), title XII, § 1211, Oct. 9, 1996, [110 Stat. 3227](https://www.govinfo.gov/link/statute/110/3227), 3282; [Pub. L. 106–181, title I, § 126](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 76](https://www.govinfo.gov/link/statute/114/76); [Pub. L. 107–71, title I, § 119(a)(4)](https://www.govinfo.gov/link/plaw/107/public/71), Nov. 19, 2001, [115 Stat. 629](https://www.govinfo.gov/link/statute/115/629); [Pub. L. 108–176, title I](https://www.govinfo.gov/link/plaw/108/public/176), §§ 162, 163, Dec. 12, 2003, [117 Stat. 2513](https://www.govinfo.gov/link/statute/117/2513); [Pub. L. 112–95, title I, § 137](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 24](https://www.govinfo.gov/link/statute/126/24); [Pub. L. 113–235, div. K, title I, § 119F](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2704](https://www.govinfo.gov/link/statute/128/2704); [Pub. L. 115–31, div. K, title I, § 119E](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 734](https://www.govinfo.gov/link/statute/131/734); [Pub. L. 115–254, div. B, title I, § 134](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3209](https://www.govinfo.gov/link/statute/132/3209); [Pub. L. 117–254, § 2(a)](https://www.govinfo.gov/link/plaw/117/public/254), Dec. 20, 2022, [136 Stat. 2361](https://www.govinfo.gov/link/statute/136/2361); [Pub. L. 118–63, title VII, § 708](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1251](https://www.govinfo.gov/link/statute/138/1251); [Pub. L. 119–60, div. H, title LXXXVIII, § 8801(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1969](https://www.govinfo.gov/link/statute/139/1969).)*

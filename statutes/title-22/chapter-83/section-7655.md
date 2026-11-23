@@ -3,9 +3,10 @@ title: "Section 7655 - Pilot program on family survival partnerships"
 usc_title: 22
 usc_section: "7655"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7655"
-generated_at: "2026-03-30T02:55:05.444Z"
+generated_at: "2026-11-23T21:25:58.724Z"
+status: "active"
 ---
 
 # § 7655. Pilot program on family survival partnerships
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:55:05.444Z"
   - **(3)** recommendations of how best to proceed with the programs funded under this section upon the expiration of funding under subsection (e).
 - **(e)** There are authorized to be appropriated to the President, from amounts authorized to be appropriated under section 7671 of this title , such sums as may be necessary for each of the fiscal years 2004 through 2008 to carry out the program.
 - **(f)** An organization shall ensure that not more than 7 percent of the amount of a grant received under this section by the organization is used for administrative expenses.
+
+## Source Credit
+
+*([Pub. L. 108–25, title III, § 315](https://www.govinfo.gov/link/plaw/108/public/25), May 27, 2003, [117 Stat. 743](https://www.govinfo.gov/link/statute/117/743).)*

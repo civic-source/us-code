@@ -3,9 +3,10 @@ title: "Section 4101 - Congressional findings"
 usc_title: 25
 usc_section: "4101"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4101"
-generated_at: "2026-03-30T02:54:52.858Z"
+generated_at: "2026-11-23T21:25:54.703Z"
+status: "active"
 ---
 
 # § 4101. Congressional findings
@@ -22,3 +23,9 @@ The Congress finds that—
   - **(5)** providing affordable homes in safe and healthy environments is an essential element in the special role of the United States in helping tribes and their members to improve their housing conditions and socioeconomic status;
   - **(6)** the need for affordable homes in safe and healthy environments on Indian reservations, in Indian communities, and in Native Alaskan villages is acute and the Federal Government shall work not only to provide housing assistance, but also, to the extent practicable, to assist in the development of private housing finance mechanisms on Indian lands to achieve the goals of economic self-sufficiency and self-determination for tribes and their members; and
   - **(7)** Federal assistance to meet these responsibilities shall be provided in a manner that recognizes the right of Indian self-determination and tribal self-governance by making such assistance available directly to the Indian tribes or tribally designated entities under authorities similar to those accorded Indian tribes in Public Law 93–638 ( 25 U.S.C. 450 et seq.). 1 1 See References in Text note below.
+
+“Congress finds that—
+
+## Source Credit
+
+*([Pub. L. 104–330, § 2](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4017](https://www.govinfo.gov/link/statute/110/4017); [Pub. L. 110–411, § 2](https://www.govinfo.gov/link/plaw/110/public/411), Oct. 14, 2008, [122 Stat. 4320](https://www.govinfo.gov/link/statute/122/4320).)*

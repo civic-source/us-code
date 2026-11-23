@@ -3,12 +3,17 @@ title: "Section 13234 - Federal Energy Regulatory Commission authority to approv
 usc_title: 42
 usc_section: "13234"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13234"
-generated_at: "2026-03-30T02:56:11.439Z"
+generated_at: "2026-11-23T21:26:33.583Z"
+status: "active"
 ---
 
 # § 13234. Federal Energy Regulatory Commission authority to approve recovery of certain expenses in advance
 
 - **(a)** The Federal Energy Regulatory Commission may, under section 717c of title 15 , allow recovery of expenses in advance by natural-gas companies for research, development, and demonstration activities by the Gas Research Institute for projects on the use of natural gas, including fuels derived from natural gas, for transportation, and projects on the use of natural gas to control pollutants and to control emissions from the combustion of other fuels, if the Commission finds that the benefits, including environmental benefits, to existing and future ratepayers resulting from such activities exceed all direct costs to existing and future ratepayers. To the maximum extent practicable, through the establishment of cofunding requirements applicable to such projects, the Commission shall ensure that the costs of such activities shall be provided in part, through contributions of cash, personnel, services, equipment, and other resources, by sources other than the recovery of expenses pursuant to this section.
 - **(b)** The Federal Energy Regulatory Commission may, under section 824d of title 16 , allow recovery of expenses in advance by electric utilities for research, development, and demonstration activities by the Electric Power Research Institute for projects on electric motor vehicles, if the Commission finds that the benefits, including environmental benefits, to existing and future ratepayers resulting from such activities exceed all direct costs to existing and future ratepayers. To the maximum extent practicable, through the establishment of cofunding requirements applicable to each project, the costs of such activities shall be provided, in part, through contributions of cash, personnel, services, equipment, and other resources, by sources other than the recovery of expenses pursuant to this section.
+
+## Source Credit
+
+*([Pub. L. 102–486, title IV, § 408](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2881](https://www.govinfo.gov/link/statute/106/2881).)*

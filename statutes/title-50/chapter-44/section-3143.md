@@ -3,9 +3,10 @@ title: "Section 3143 - Operational files of the National Reconnaissance Office"
 usc_title: 50
 usc_section: "3143"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3143"
-generated_at: "2026-03-30T02:56:26.237Z"
+generated_at: "2026-11-23T21:26:39.016Z"
+status: "active"
 ---
 
 # § 3143. Operational files of the National Reconnaissance Office
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:56:26.237Z"
   - **(3)** A complainant that alleges that NRO has improperly withheld records because of failure to comply with this subsection may seek judicial review in the district court of the United States of the district in which any of the parties reside, or in the District of Columbia. In such a proceeding, the court’s review shall be limited to determining the following:
     - **(A)** Whether NRO has conducted the review required by paragraph (1) before the expiration of the 10-year period beginning on November 27, 2002 , or before the expiration of the 10-year period beginning on the date of the most recent review.
     - **(B)** Whether NRO, in fact, considered the criteria set forth in paragraph (2) in conducting the required review.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title VII, § 703, formerly title I, § 105D, as added [Pub. L. 107–306, title V, § 502(a)](https://www.govinfo.gov/link/plaw/107/public/306), Nov. 27, 2002, [116 Stat. 2405](https://www.govinfo.gov/link/statute/116/2405); renumbered title VII, § 703, and amended [Pub. L. 108–136, div. A, title IX, § 922(c)](https://www.govinfo.gov/link/plaw/108/public/136), (d)(1)(D), Nov. 24, 2003, [117 Stat. 1573](https://www.govinfo.gov/link/statute/117/1573), 1574; [Pub. L. 108–375, div. A, title X, § 1084(j)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2064](https://www.govinfo.gov/link/statute/118/2064); [Pub. L. 108–458, title I, § 1071(a)(1)(GG)](https://www.govinfo.gov/link/plaw/108/public/458) –(II), Dec. 17, 2004, [118 Stat. 3689](https://www.govinfo.gov/link/statute/118/3689); [Pub. L. 109–163, div. A, title IX, § 933(b)(2)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3416](https://www.govinfo.gov/link/statute/119/3416).)*

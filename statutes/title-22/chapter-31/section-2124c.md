@@ -3,9 +3,10 @@ title: "Section 2124c - Rural Tourism Development Foundation"
 usc_title: 22
 usc_section: "2124c"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2124c"
-generated_at: "2026-03-30T02:55:05.342Z"
+generated_at: "2026-11-23T21:25:58.426Z"
+status: "active"
 ---
 
 # § 2124c. Rural Tourism Development Foundation
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:55:05.342Z"
   - **(2)** the term “Indian tribe” has the meaning given that term in section 5304(e) of title 25 ;
   - **(3)** the term “local government” has the meaning given that term in section 3371(2) of title 5 ; and
   - **(4)** the term “rural tourism” has the meaning given that term by the Secretary of Commerce and shall include activities related to travel and tourism that occur on Federal recreational sites, on Indian reservations, and in the territories, possessions, and commonwealths of the United States.
+
+## Source Credit
+
+*([Pub. L. 102–372, § 4](https://www.govinfo.gov/link/plaw/102/public/372), Sept. 30, 1992, [106 Stat. 1171](https://www.govinfo.gov/link/statute/106/1171); [Pub. L. 104–288, § 9(b)](https://www.govinfo.gov/link/plaw/104/public/288), Oct. 11, 1996, [110 Stat. 3407](https://www.govinfo.gov/link/statute/110/3407).)*

@@ -3,9 +3,10 @@ title: "Section 11134 - Form of reporting"
 usc_title: 42
 usc_section: "11134"
 chapter: 117
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11134"
-generated_at: "2026-03-30T02:56:11.395Z"
+generated_at: "2026-11-23T21:26:33.400Z"
+status: "active"
 ---
 
 # § 11134. Form of reporting
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.395Z"
 - **(c)**
   - **(1)** Information required to be reported under section 11131 of this title shall also be reported to the appropriate State licensing board (or boards) in the State in which the medical malpractice claim arose.
   - **(2)** Information required to be reported under section 11133(b) of this title shall also be reported to the appropriate State licensing board in the State in which the health care entity is located if it is not otherwise reported to such board under subsection (b).
+
+## Source Credit
+
+*([Pub. L. 99–660, title IV, § 424](https://www.govinfo.gov/link/plaw/99/public/660), Nov. 14, 1986, [100 Stat. 3790](https://www.govinfo.gov/link/statute/100/3790).)*

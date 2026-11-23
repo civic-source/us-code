@@ -3,9 +3,10 @@ title: "Section 1345 - Disposal or use of sewage sludge"
 usc_title: 33
 usc_section: "1345"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1345"
-generated_at: "2026-03-30T02:55:41.102Z"
+generated_at: "2026-11-23T21:26:11.397Z"
+status: "active"
 ---
 
 # § 1345. Disposal or use of sewage sludge
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:41.102Z"
 - **(g)**
   - **(1)** The Administrator is authorized to conduct or initiate scientific studies, demonstration projects, and public information and education projects which are designed to promote the safe and beneficial management or use of sewage sludge for such purposes as aiding the restoration of abandoned mine sites, conditioning soil for parks and recreation areas, agricultural and horticultural uses, and other beneficial purposes. For the purposes of carrying out this subsection, the Administrator may make grants to State water pollution control agencies, other public or nonprofit agencies, institutions, organizations, and individuals. In cooperation with other Federal departments and agencies, other public and private agencies, institutions, and organizations, the Administrator is authorized to collect and disseminate information pertaining to the safe and beneficial use of sewage sludge.
   - **(2)** For the purposes of carrying out the scientific studies, demonstration projects, and public information and education projects authorized in this section, there is authorized to be appropriated for fiscal years beginning after September 30, 1986 , not to exceed $5,000,000.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title IV, § 405, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 884](https://www.govinfo.gov/link/statute/86/884); amended [Pub. L. 95–217](https://www.govinfo.gov/link/plaw/95/public/217), §§ 54(d), 68, Dec. 27, 1977, [91 Stat. 1591](https://www.govinfo.gov/link/statute/91/1591), 1606; [Pub. L. 100–4, title IV, § 406(a)](https://www.govinfo.gov/link/plaw/100/public/4) –(c), (f), Feb. 4, 1987, [101 Stat. 71](https://www.govinfo.gov/link/statute/101/71), 72, 74.)*

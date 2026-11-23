@@ -3,9 +3,10 @@ title: "Section 4965 - Excise tax on certain tax-exempt entities entering into p
 usc_title: 26
 usc_section: "4965"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4965"
-generated_at: "2026-03-30T02:55:27.810Z"
+generated_at: "2026-11-23T21:26:06.655Z"
+status: "active"
 ---
 
 # § 4965. Excise tax on certain tax-exempt entities entering into prohibited tax shelter transactions
@@ -52,3 +53,11 @@ generated_at: "2026-03-30T02:55:27.810Z"
   - **(2)** The term “subsequently listed transaction” means any transaction to which a tax-exempt entity is a party and which is determined by the Secretary to be a listed transaction at any time after the entity has become a party to the transaction. Such term shall not include a transaction which is a prohibited reportable transaction at the time the entity became a party to the transaction.
 - **(f)** The Secretary is authorized to promulgate regulations which provide guidance regarding the determination of the allocation of net income or proceeds of a tax-exempt entity attributable to a transaction to various periods, including before and after the listing of the transaction or the date which is 90 days after the date of the enactment of this section.
 - **(g)** The tax imposed by this section is in addition to any other tax, addition to tax, or penalty imposed under this title.
+
+In general
+
+Disclosure
+
+## Source Credit
+
+*(Added [Pub. L. 109–222, title V, § 516(a)(1)](https://www.govinfo.gov/link/plaw/109/public/222), May 17, 2006, [120 Stat. 368](https://www.govinfo.gov/link/statute/120/368); amended [Pub. L. 110–172, § 11(a)(30)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2487](https://www.govinfo.gov/link/statute/121/2487); [Pub. L. 113–295, div. B, title I, § 102(e)(3)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4062](https://www.govinfo.gov/link/statute/128/4062).)*

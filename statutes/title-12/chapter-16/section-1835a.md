@@ -3,9 +3,10 @@ title: "Section 1835a - Prohibition against deposit production offices"
 usc_title: 12
 usc_section: "1835a"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1835a"
-generated_at: "2026-03-30T02:53:53.464Z"
+generated_at: "2026-11-23T21:25:37.036Z"
+status: "active"
 ---
 
 # § 1835a. Prohibition against deposit production offices
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:53:53.464Z"
   - **(3)** The term “host State” means a State in which a bank establishes a branch other than the home State of the bank.
   - **(4)** The term “interstate branch” means a branch established pursuant to this title 1 or any amendment made by this title 1 to any other provision of law and any branch of a bank controlled by an out-of-State bank holding company (as defined in section 1841( o )(7) of this title).
   - **(5)** The term “out-of-State bank” means, with respect to any State, a bank the home State of which is another State and, for purposes of this section, includes a foreign bank, the home State of which is another State.
+
+## Source Credit
+
+*([Pub. L. 103–328, title I, § 109](https://www.govinfo.gov/link/plaw/103/public/328), Sept. 29, 1994, [108 Stat. 2362](https://www.govinfo.gov/link/statute/108/2362); [Pub. L. 106–102, title I, § 106](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1359](https://www.govinfo.gov/link/statute/113/1359).)*

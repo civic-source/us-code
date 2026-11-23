@@ -3,12 +3,17 @@ title: "Section 2322 - United States as party"
 usc_title: 28
 usc_section: "2322"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 2322"
-generated_at: "2026-03-30T02:55:30.148Z"
+generated_at: "2026-11-23T21:26:01.124Z"
+status: "active"
 ---
 
 # § 2322. United States as party
 
 All actions specified in section 2321 of this title shall be brought by or against the United States.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 969](https://www.govinfo.gov/link/statute/62/969).)*

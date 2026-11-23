@@ -3,9 +3,10 @@ title: "Section 9632 - Corporate powers"
 usc_title: 22
 usc_section: "9632"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9632"
-generated_at: "2026-03-30T02:55:05.470Z"
+generated_at: "2026-11-23T21:25:58.783Z"
+status: "active"
 ---
 
 # § 9632. Corporate powers
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:05.470Z"
   - **(16)** may sell direct investments of the Corporation to private investors upon such terms and conditions as the Corporation may determine; and
   - **(17)** shall have such other powers as may be necessary and incident to carrying out the functions of the Corporation.
 - **(b)** Notwithstanding any other provision of law relating to the acquisition, handling, or disposal of property by the United States, the Corporation shall have the right in its discretion to complete, recondition, reconstruct, renovate, repair, maintain, operate, or sell any property acquired by the Corporation pursuant to the provisions of this chapter, except that, in the case of real property that is for the Corporation’s own occupancy, the completion, reconditioning, reconstruction, renovation, repair, maintenance, operation, or sale of the real property shall be conducted in consultation with the Administrator of General Services.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. F, title III, § 1432](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3500](https://www.govinfo.gov/link/statute/132/3500); [Pub. L. 119–60, div. H, title LXXXVII, § 8752](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1964](https://www.govinfo.gov/link/statute/139/1964).)*

@@ -3,9 +3,10 @@ title: "Section 331 - Treatment of charitable trusts for members of the Armed Fo
 usc_title: 6
 usc_section: "331"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 331"
-generated_at: "2026-03-30T02:53:09.460Z"
+generated_at: "2026-11-23T21:25:25.782Z"
+status: "active"
 ---
 
 # § 331. Treatment of charitable trusts for members of the Armed Forces of the United States and other governmental organizations
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:53:09.460Z"
 - **(d)** Each Johnny Micheal Spann Patriot Trust shall refrain from conducting the activities described in clauses (i) and (ii) of section 30101(20)(A) of title 52 so that a general solicitation of funds by an individual described in paragraph (1) of section 30125(e) of title 52 will be permissible if such solicitation meets the requirements of paragraph (4)(A) of such section.
 - **(e)** Notwithstanding any other provision of law, and in a manner consistent with the protection of intelligence sources and methods and sensitive law enforcement information, and other sensitive national security information, the Secretary of Defense, the Director of the Federal Bureau of Investigation, or the Director of Central Intelligence, or their designees, as applicable, may forward information received from an executor, administrator, or other legal representative of the estate of a decedent described in subparagraph (A), (B), (C), or (D) of subsection (c)(1), to a Johnny Micheal Spann Patriot Trust on how to contact individuals eligible for a distribution under subsection (c)(1) for the purpose of providing assistance from such Trust: Provided , That, neither forwarding nor failing to forward any information under this subsection shall create any cause of action against any Federal department, agency, officer, agent, or employee.
 - **(f)** Not later than 90 days after November 25, 2002 , the Secretary of Defense, in coordination with the Attorney General, the Director of the Federal Bureau of Investigation, and the Director of Central Intelligence, shall prescribe regulations to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 107–296, title VI, § 601](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2215](https://www.govinfo.gov/link/statute/116/2215).)*

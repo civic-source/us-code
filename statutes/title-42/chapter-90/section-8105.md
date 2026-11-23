@@ -3,9 +3,10 @@ title: "Section 8105 - Powers and duties of corporation"
 usc_title: 42
 usc_section: "8105"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8105"
-generated_at: "2026-03-30T02:56:11.334Z"
+generated_at: "2026-11-23T21:26:33.182Z"
+status: "active"
 ---
 
 # § 8105. Powers and duties of corporation
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:11.334Z"
   - **(1)** The corporation shall have no power to issue any shares of stocks, or to declare or pay any dividends.
   - **(2)** No part of the income or assets of the corporation shall inure to the benefit of any director, officer, or employee, except as reasonable compensation for services or reimbursement for expenses.
   - **(3)** The corporation may not contribute to or otherwise support any political party or candidate for elective public office.
+
+## Source Credit
+
+*([Pub. L. 95–557, title VI, § 606](https://www.govinfo.gov/link/plaw/95/public/557), Oct. 31, 1978, [92 Stat. 2117](https://www.govinfo.gov/link/statute/92/2117); [Pub. L. 96–399, title III, § 315(2)](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1645](https://www.govinfo.gov/link/statute/94/1645); [Pub. L. 97–320, title VII, § 710(b)](https://www.govinfo.gov/link/plaw/97/public/320), Oct. 15, 1982, [96 Stat. 1544](https://www.govinfo.gov/link/statute/96/1544); [Pub. L. 111–203, title III, § 374](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1566](https://www.govinfo.gov/link/statute/124/1566).)*

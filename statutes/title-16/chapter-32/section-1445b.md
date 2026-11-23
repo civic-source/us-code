@@ -3,9 +3,10 @@ title: "Section 1445b - Enhancing support for national marine sanctuaries"
 usc_title: 16
 usc_section: "1445b"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1445b"
-generated_at: "2026-03-30T02:54:22.969Z"
+generated_at: "2026-11-23T21:25:51.883Z"
+status: "active"
 ---
 
 # § 1445b. Enhancing support for national marine sanctuaries
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:22.969Z"
   - **(3)** In this subsection, the term “partner organization” means an organization that—
     - **(A)** draws its membership from individuals, private organizations, corporations, academic institutions, or State and local governments; and
     - **(B)** is established to promote the understanding of, education relating to, and the conservation of the resources of a particular sanctuary or 2 or more related sanctuaries.
+
+## Source Credit
+
+*([Pub. L. 92–532, title III, § 316](https://www.govinfo.gov/link/plaw/92/public/532), formerly [Pub. L. 102–587, title II, § 2204](https://www.govinfo.gov/link/plaw/102/public/587), Nov. 4, 1992, [106 Stat. 5049](https://www.govinfo.gov/link/statute/106/5049); renumbered [§ 316 of Pub. L. 92–532](https://www.govinfo.gov/link/plaw/92/public/532) and amended [Pub. L. 104–283, § 6](https://www.govinfo.gov/link/plaw/104/public/283), Oct. 11, 1996, [110 Stat. 3364](https://www.govinfo.gov/link/statute/110/3364); [Pub. L. 106–513, § 17](https://www.govinfo.gov/link/plaw/106/public/513), Nov. 13, 2000, [114 Stat. 2391](https://www.govinfo.gov/link/statute/114/2391).)*

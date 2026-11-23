@@ -3,9 +3,10 @@ title: "Section 20925 - Development and availability of registry management and 
 usc_title: 34
 usc_section: "20925"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20925"
-generated_at: "2026-03-30T02:55:33.301Z"
+generated_at: "2026-11-23T21:26:09.798Z"
+status: "active"
 ---
 
 # § 20925. Development and availability of registry management and website software
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:33.301Z"
   - **(3)** full compliance with the requirements of this subchapter; and
   - **(4)** communication of information to community notification program participants as required under section 20923 of this title .
 - **(c)** The Attorney General shall make the first complete edition of this software available to jurisdictions within 2 years of July 27, 2006 .
+
+## Source Credit
+
+*([Pub. L. 109–248, title I, § 123](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 598](https://www.govinfo.gov/link/statute/120/598).)*

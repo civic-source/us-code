@@ -3,9 +3,10 @@ title: "Section 3802 - Definitions"
 usc_title: 12
 usc_section: "3802"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3802"
-generated_at: "2026-03-30T02:53:53.498Z"
+generated_at: "2026-11-23T21:25:37.152Z"
+status: "active"
 ---
 
 # § 3802. Definitions
@@ -18,3 +19,7 @@ As used in this chapter—
     - **(B)** a lender approved by the Secretary of Housing and Urban Development for participation in any mortgage insurance program under the National Housing Act [ 12 U.S.C. 1701 et seq.];
     - **(C)** any person who regularly makes loans, credit sales, or advances secured by interests in properties referred to in paragraph (1); or
     - **(D)** any transferee of any of them.
+
+## Source Credit
+
+*([Pub. L. 97–320, title VIII, § 803](https://www.govinfo.gov/link/plaw/97/public/320), Oct. 15, 1982, [96 Stat. 1545](https://www.govinfo.gov/link/statute/96/1545); [Pub. L. 111–203, title X, § 1083(a)(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2080](https://www.govinfo.gov/link/statute/124/2080).)*

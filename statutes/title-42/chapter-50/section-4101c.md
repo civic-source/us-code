@@ -3,9 +3,10 @@ title: "Section 4101c - Coordination"
 usc_title: 42
 usc_section: "4101c"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4101c"
-generated_at: "2026-03-30T02:56:11.199Z"
+generated_at: "2026-11-23T21:26:32.632Z"
+status: "active"
 ---
 
 # § 4101c. Coordination
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.199Z"
   - **(3)** integrate with, leverage, and coordinate funding of, to the maximum extent practicable, the current flood mapping activities of each unit of State and local government;
   - **(4)** integrate with, leverage, and coordinate, to the maximum extent practicable, the current geospatial activities of other Federal agencies and units of State and local government; and
   - **(5)** develop a funding strategy to leverage and coordinate budgets and expenditures, and to maintain or establish joint funding and other agreement mechanisms with other Federal agencies and units of State and local government to share in the collection and utilization of geospatial data among all governmental users.
+
+## Source Credit
+
+*([Pub. L. 112–141, div. F, title II, § 100220](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 932](https://www.govinfo.gov/link/statute/126/932).)*

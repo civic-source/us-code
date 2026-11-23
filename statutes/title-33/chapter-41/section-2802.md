@@ -3,9 +3,10 @@ title: "Section 2802 - Definitions"
 usc_title: 33
 usc_section: "2802"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2802"
-generated_at: "2026-03-30T02:55:41.134Z"
+generated_at: "2026-11-23T21:26:11.471Z"
+status: "active"
 ---
 
 # § 2802. Definitions
@@ -18,3 +19,7 @@ For the purposes of this chapter, the term—
   - **(4)** “coastal water quality monitoring” means a continuing program of measurement, analysis, and synthesis to identify and quantify coastal water quality conditions and trends to provide a technical basis for decisionmaking;
   - **(5)** “coastal waters” means waters of the Great Lakes, including their connecting waters and those portions of rivers, streams, and other bodies of water having unimpaired connection with the open sea up to the head of tidal influence, including wetlands, intertidal areas, bays, harbors, and lagoons, including waters of the territorial sea of the United States and the contiguous zone”; 1 1 So in original. The closing quotation marks preceding the semicolon probably should not appear. and
   - **(6)** “Under Secretary” means Under Secretary of Commerce for Oceans and Atmosphere.
+
+## Source Credit
+
+*([Pub. L. 92–532, title V, § 502](https://www.govinfo.gov/link/plaw/92/public/532), as added [Pub. L. 102–567, title V, § 501](https://www.govinfo.gov/link/plaw/102/public/567), Oct. 29, 1992, [106 Stat. 4294](https://www.govinfo.gov/link/statute/106/4294).)*

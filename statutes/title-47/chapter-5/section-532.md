@@ -3,9 +3,10 @@ title: "Section 532 - Cable channels for commercial use"
 usc_title: 47
 usc_section: "532"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 532"
-generated_at: "2026-03-30T02:56:24.517Z"
+generated_at: "2026-11-23T21:26:36.029Z"
+status: "active"
 ---
 
 # § 532. Cable channels for commercial use
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:56:24.517Z"
     - **(B)** requiring cable operators to block such single channel unless the subscriber requests access to such channel in writing; and
     - **(C)** requiring programmers to inform cable operators if the program would be indecent as defined by Commission regulations.
   - **(2)** Cable operators shall comply with the regulations promulgated pursuant to paragraph (1).
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VI, § 612, as added [Pub. L. 98–549, § 2](https://www.govinfo.gov/link/plaw/98/public/549), Oct. 30, 1984, [98 Stat. 2782](https://www.govinfo.gov/link/statute/98/2782); amended [Pub. L. 102–385](https://www.govinfo.gov/link/plaw/102/public/385), §§ 9, 10(a), (b), Oct. 5, 1992, [106 Stat. 1484](https://www.govinfo.gov/link/statute/106/1484), 1486; [Pub. L. 104–104, title V, § 506(b)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 137](https://www.govinfo.gov/link/statute/110/137).)*

@@ -3,12 +3,17 @@ title: "Section 714o - Dissolution of Delaware corporation"
 usc_title: 15
 usc_section: "714o"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 714o"
-generated_at: "2026-03-30T02:54:08.117Z"
+generated_at: "2026-11-23T21:25:39.742Z"
+status: "active"
 ---
 
 # § 714o. Dissolution of Delaware corporation
 
 The Secretary of Agriculture, representing the United States as the sole owner of the capital stock of Commodity Credit Corporation, a Delaware corporation, is authorized and directed to institute or cause to be instituted such proceedings as are required for the dissolution of said Corporation under the laws of the State of Delaware. The costs of such dissolution of said Corporation shall be borne by the Corporation.
 
+
+## Source Credit
+
+*(June 29, 1948, ch. 704, § 17, [62 Stat. 1075](https://www.govinfo.gov/link/statute/62/1075).)*

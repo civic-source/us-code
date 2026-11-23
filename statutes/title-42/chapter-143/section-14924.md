@@ -3,9 +3,10 @@ title: "Section 14924 - Secretarial oversight of accreditation and approval"
 usc_title: 42
 usc_section: "14924"
 chapter: 143
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 14924"
-generated_at: "2026-03-30T02:56:11.453Z"
+generated_at: "2026-11-23T21:26:33.645Z"
+status: "active"
 ---
 
 # § 14924. Secretarial oversight of accreditation and approval
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:11.453Z"
     - **(B)** consultation between the Secretary and the accrediting entity where an agency or person has engaged in substantial noncompliance with the requirements of section 14923(b)(A)(ii) 1 of this title, unless the accrediting entity has taken appropriate corrective action and the noncompliance has not recurred.
   - **(3)** Repeated serious, willful, or grossly negligent failures to comply with the requirements of section 14923(b)(1)(A)(ii) of this title by an agency or person after consultation between Secretary and the accrediting entity with respect to previous noncompliance by such agency or person shall constitute a pattern of serious, willful, or grossly negligent failures to comply under subsection (c)(1)(B).
   - **(4)** A failure to comply with the requirements of section 14923(b)(1)(A)(ii) of this title shall constitute a serious failure to comply under subsection (c)(1)(B) unless it is shown by clear and convincing evidence that such noncompliance had neither the purpose nor the effect of determining the outcome of a decision or proceeding by a court or other competent authority in the United States or the child’s country of origin.
+
+## Source Credit
+
+*([Pub. L. 106–279, title II, § 204](https://www.govinfo.gov/link/plaw/106/public/279), Oct. 6, 2000, [114 Stat. 835](https://www.govinfo.gov/link/statute/114/835).)*

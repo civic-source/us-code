@@ -3,12 +3,17 @@ title: "Section 426 - Agreements with Indians not affected"
 usc_title: 25
 usc_section: "426"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 426"
-generated_at: "2026-03-30T02:54:52.809Z"
+generated_at: "2026-11-23T21:25:54.579Z"
+status: "active"
 ---
 
 # § 426. Agreements with Indians not affected
 
 Nothing in this act shall change, repeal, or modify any agreements or treaties made with any Indian tribes for the disposal of their lands, or of land ceded to the United States to be disposed of for the benefit of such tribes, and the proceeds thereof to be placed in the Treasury of the United States; and the disposition of such lands shall continue in accordance with the provisions of such treaties or agreements; except as provided in sections 161 and 162 1 1 See References in Text note below. of title 43.
 
+
+## Source Credit
+
+*(Mar. 3, 1891, ch. 561, § 10, [26 Stat. 1099](https://www.govinfo.gov/link/statute/26/1099).)*

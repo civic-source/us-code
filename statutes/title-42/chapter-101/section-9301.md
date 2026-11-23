@@ -3,9 +3,10 @@ title: "Section 9301 - Congressional findings and declaration of policy"
 usc_title: 42
 usc_section: "9301"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9301"
-generated_at: "2026-03-30T02:56:11.352Z"
+generated_at: "2026-11-23T21:26:33.235Z"
+status: "active"
 ---
 
 # § 9301. Congressional findings and declaration of policy
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.352Z"
   - **(7)** to continue international cooperation in magnetic fusion research for the benefit of all nations;
   - **(8)** to promote greater public understanding of magnetic fusion; and
   - **(9)** to maintain the United States as the world leader in magnetic fusion.
+
+## Source Credit
+
+*([Pub. L. 96–386, § 2](https://www.govinfo.gov/link/plaw/96/public/386), Oct. 7, 1980, [94 Stat. 1539](https://www.govinfo.gov/link/statute/94/1539).)*

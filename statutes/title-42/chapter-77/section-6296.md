@@ -3,9 +3,10 @@ title: "Section 6296 - Requirements of manufacturers"
 usc_title: 42
 usc_section: "6296"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6296"
-generated_at: "2026-03-30T02:56:11.252Z"
+generated_at: "2026-11-23T21:26:32.893Z"
+status: "active"
 ---
 
 # § 6296. Requirements of manufacturers
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.252Z"
   - **(1)** For purposes of carrying out this part, the Secretary may require, under this part or other provision of law administered by the Secretary, each manufacturer of a covered product to submit information or reports to the Secretary with respect to energy efficiency, energy use, or, in the case of showerheads, faucets, water closets, and urinals, water use of such covered product and the economic impact of any proposed energy conservation standard, as the Secretary determines may be necessary to establish and revise test procedures, labeling rules, and energy conservation standards for such product and to insure compliance with the requirements of this part. In making any determination under this paragraph, the Secretary shall consider existing public sources of information, including nationally recognized certification programs of trade associations.
   - **(2)** The Secretary shall exercise authority under this section in a manner designed to minimize unnecessary burdens on manufacturers of covered products.
   - **(3)** The provisions of section 796(d) of title 15 shall apply with respect to information obtained under this subsection to the same extent and in the same manner as they apply with respect to energy information obtained under section 796 of title 15 .
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 326](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 926](https://www.govinfo.gov/link/statute/89/926); [Pub. L. 95–619, title IV, § 425(d)](https://www.govinfo.gov/link/plaw/95/public/619), title VI, § 691(b)(2), Nov. 9, 1978, [92 Stat. 3265](https://www.govinfo.gov/link/statute/92/3265), 3288; [Pub. L. 100–12](https://www.govinfo.gov/link/plaw/100/public/12), §§ 6, 11(a)(2), (b)(3), Mar. 17, 1987, [101 Stat. 117](https://www.govinfo.gov/link/statute/101/117), 125; [Pub. L. 102–486, title I, § 123(g)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2829](https://www.govinfo.gov/link/statute/106/2829).)*

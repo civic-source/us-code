@@ -3,9 +3,10 @@ title: "Section 4727 - Senate privately paid travel public website"
 usc_title: 2
 usc_section: "4727"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 4727"
-generated_at: "2026-03-30T02:53:04.834Z"
+generated_at: "2026-11-23T21:25:21.320Z"
+status: "active"
 ---
 
 # § 4727. Senate privately paid travel public website
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:04.834Z"
 - **(b)** The Secretary of the Senate shall maintain the information posted on the public Internet site of the Office of the Secretary under this section for a period not longer than 4 years after receiving the information.
 - **(c)** If the Secretary of the Senate is unable to meet the deadline established under subsection (a), the Committee on Rules and Administration of the Senate may grant an extension of the Secretary of the Senate.
 - **(e)** There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 110–81, title V, § 546](https://www.govinfo.gov/link/plaw/110/public/81), Sept. 14, 2007, [121 Stat. 772](https://www.govinfo.gov/link/statute/121/772).)*

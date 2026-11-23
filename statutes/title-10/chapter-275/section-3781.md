@@ -3,9 +3,10 @@ title: "Section 3781 - Technical data: contractor justification for restrictions
 usc_title: 10
 usc_section: "3781"
 chapter: 275
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3781"
-generated_at: "2026-03-30T02:53:38.198Z"
+generated_at: "2026-11-23T21:25:32.740Z"
+status: "active"
 ---
 
 # § 3781. Technical data: contractor justification for restrictions; review of restrictions
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:53:38.198Z"
   - **(2)** The review of an asserted use or release restriction under paragraph (1) shall be conducted before the end of the three-year period beginning on the later of—
     - **(A)** the date on which final payment is made on the contract under which the technical data is required to be delivered; or
     - **(B)** the date on which the technical data is delivered under the contract.
+
+Contracts Covered by Subchapter
+
+Contractor Justification for Restrictions
+
+Review of Restrictions.—
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1833(g)](https://www.govinfo.gov/link/plaw/116/public/283), (h), Jan. 1, 2021, [134 Stat. 4231](https://www.govinfo.gov/link/statute/134/4231).)*

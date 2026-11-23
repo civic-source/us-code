@@ -3,9 +3,10 @@ title: "Section 3504 - Leases, business agreements, and rights-of-way involving 
 usc_title: 25
 usc_section: "3504"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3504"
-generated_at: "2026-03-30T02:54:52.853Z"
+generated_at: "2026-11-23T21:25:54.693Z"
+status: "active"
 ---
 
 # § 3504. Leases, business agreements, and rights-of-way involving energy development or transmission
@@ -178,3 +179,53 @@ generated_at: "2026-03-30T02:54:52.853Z"
     - **(C)** publish the certification in the Federal Register.
 - **(i)** Nothing in this section waives the sovereign immunity of an Indian tribe.
 - **(j)** There are authorized to be appropriated to the Secretary such sums as are necessary for each of fiscal years 2006 through 2016 to carry out this section and to make grants or provide other appropriate assistance to Indian tribes to assist the Indian tribes in developing and implementing tribal energy resource agreements in accordance with this section.
+
+In general.—
+
+Authorization
+
+Notice of complete proposed agreement
+
+Effect
+
+Procedure.—
+
+Effective date.—
+
+In general
+
+Revised tribal energy resource agreement
+
+Disapproval
+
+(aa) the provision shall be null and void; and
+
+(bb) if the Secretary determines the provision to be material, the Secretary may suspend or rescind the lease, business agreement, or right-of-way or take other appropriate action that the Secretary determines to be in the best interest of the Indian tribe;
+
+(aa) any breach or other violation by another party of any provision in a lease, business agreement, or right-of-way entered into under the tribal energy resource agreement; and
+
+(bb) any activity or occurrence under a lease, business agreement, or right-of-way that constitutes a violation of Federal environmental laws;
+
+(aa) carried out a contract or compact under title I or IV of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5301 et seq.) for a period of not less than 3 consecutive years ending on the date on which the Indian tribe submits the application without material audit exception (or without any material audit exceptions that were not corrected within the 3-year period) relating to the management of tribal land or natural resources; or
+
+(bb) substantial experience in the administration, review, or evaluation of energy resource leases or agreements or has otherwise substantially participated in the administration, management, or development of energy resources located on the tribal land of the Indian tribe; and
+
+Effective period
+
+Notice and comment; secretarial review
+
+Action in case of disapproval
+
+Provision of documents to secretary
+
+Secretarial obligations and effect of section.—
+
+Petitions by interested parties.—
+
+Effect
+
+“Not later than 1 year after the date of enactment of the Indian Tribal Energy Development and Self-Determination Act Amendments of 2017 [ Dec. 18, 2018 ], the Secretary shall promulgate or update any regulations that are necessary to implement this section, including provisions to implement—
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXVI, § 2604](https://www.govinfo.gov/link/plaw/102/public/486), as added [Pub. L. 109–58, title V, § 503(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 769](https://www.govinfo.gov/link/statute/119/769); amended [Pub. L. 115–325, title I](https://www.govinfo.gov/link/plaw/115/public/325), §§ 103(a), 105(d), Dec. 18, 2018, [132 Stat. 4447](https://www.govinfo.gov/link/statute/132/4447), 4456.)*

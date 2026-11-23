@@ -3,9 +3,10 @@ title: "Section 3202 - Application"
 usc_title: 46
 usc_section: "3202"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 3202"
-generated_at: "2026-03-30T02:56:15.542Z"
+generated_at: "2026-11-23T21:26:37.038Z"
+status: "active"
 ---
 
 # § 3202. Application
@@ -29,3 +30,23 @@ generated_at: "2026-03-30T02:56:15.542Z"
   - **(3)** a fishing vessel;
   - **(4)** a vessel operating on the Great Lakes or its tributary and connecting waters that is not described in subsection (b) of this section; or
   - **(5)** a public vessel.
+
+Foreign Voyages and Foreign Vessels
+
+Other Passenger Vessels.—
+
+In general
+
+Safety management system
+
+Voluntary Application
+
+Exception
+
+Foreign Voyages and Foreign Vessels
+
+Mandatory Application
+
+## Source Credit
+
+*(Added [Pub. L. 104–324, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/104/public/324), Oct. 19, 1996, [110 Stat. 3928](https://www.govinfo.gov/link/statute/110/3928); amended [Pub. L. 108–293, title IV, § 405(a)](https://www.govinfo.gov/link/plaw/108/public/293), Aug. 9, 2004, [118 Stat. 1043](https://www.govinfo.gov/link/statute/118/1043); [Pub. L. 111–281, title VI, § 610(a)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2969](https://www.govinfo.gov/link/statute/124/2969); [Pub. L. 115–232, div. C, title XXXV, § 3541(b)(8)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2323](https://www.govinfo.gov/link/statute/132/2323); [Pub. L. 116–283, div. G, title LVXXXIV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXIV], § 8441(b), Jan. 1, 2021, [134 Stat. 4744](https://www.govinfo.gov/link/statute/134/4744); [Pub. L. 119–60, div. G, title LXXIII, § 7301(k)(1)(C)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1759](https://www.govinfo.gov/link/statute/139/1759).)*

@@ -3,9 +3,10 @@ title: "Section 8502 - Disposition of unclaimed personal property"
 usc_title: 38
 usc_section: "8502"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 8502"
-generated_at: "2026-03-30T02:55:53.540Z"
+generated_at: "2026-11-23T21:26:16.915Z"
+status: "active"
 ---
 
 # § 8502. Disposition of unclaimed personal property
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:53.540Z"
 - **(d)** All sales authorized by this subchapter shall be for cash upon delivery at the premises where sold and without warranty, express or implied. The proceeds of such sales after payment of any expenses incident thereto as may be prescribed by regulations, together with any other moneys left or found on a facility, not disposed of in accordance with this subchapter, shall be credited to the General Post Fund, National Homes, Department of Veterans Affairs, a trust fund provided for in section 1321(a)(45) of title 31 . In addition to the purposes for which such fund may be used under the existing law, disbursements may be made therefrom as authorized by the Secretary by regulation or otherwise for the purpose of satisfying any legal liability incurred by any employee in administering the provisions of this subchapter, including any expense incurred in connection therewith. Legal liability shall not exist when delivery or sale shall have been made in accordance with this subchapter.
 - **(e)** If, notwithstanding such sale, a claim is filed with the Secretary within five years after notice of sale as herein required, by or on behalf of any person or persons who if known would have been entitled to the property under section 8501 of this title or to possession thereof under this section, the Secretary shall determine the person or persons entitled under the provisions of this subchapter and may pay to such person or persons so entitled the proceeds of sale of such property, less expenses. Such payment shall be made out of the said trust fund, and in accord with the provisions of this section or section 8501 of this title . Persons under legal disability to sue in their own name may make claim for the proceeds of sale of such property at any time within five years after termination of such legal disability.
 - **(f)** Any such property, the sale of which is authorized under this subchapter and which remains unsold, may be used, destroyed, or otherwise disposed of in accordance with regulations promulgated by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 85–857](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1257](https://www.govinfo.gov/link/statute/72/1257), § 5202; [Pub. L. 94–581, title II, § 208(a)](https://www.govinfo.gov/link/plaw/94/public/581), Oct. 21, 1976, [90 Stat. 2860](https://www.govinfo.gov/link/statute/90/2860); [Pub. L. 97–258, § 3(k)(9)](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 1066](https://www.govinfo.gov/link/statute/96/1066); [Pub. L. 99–576, title VII, § 701(94)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3299](https://www.govinfo.gov/link/statute/100/3299); renumbered § 8502 and amended [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), (d)(1), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238), 239; [Pub. L. 102–54, § 14(f)(11)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 288](https://www.govinfo.gov/link/statute/105/288); [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, [105 Stat. 404–406](https://www.govinfo.gov/link/statute/105/404); [Pub. L. 103–446, title XII, § 1201(i)(11)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4689](https://www.govinfo.gov/link/statute/108/4689); [Pub. L. 107–135, title II, § 208(e)(9)](https://www.govinfo.gov/link/plaw/107/public/135), Jan. 23, 2002, [115 Stat. 2464](https://www.govinfo.gov/link/statute/115/2464).)*
